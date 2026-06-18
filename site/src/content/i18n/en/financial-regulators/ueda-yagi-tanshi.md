@@ -1,13 +1,14 @@
 ---
 source: financial-regulators/ueda-yagi-tanshi
-source_hash: e555492910b38e70
+source_hash: b8b4584c00da19f6
 lang: en
 status: machine
 fidelity: ok
-title: "Ueda Yagi Tanshi Co., Ltd."
-translated_at: 2026-06-01T02:31:57.140Z
+title: "上田八木短資株式会社 (Ueda Yagi Tanshi)"
+translated_at: 2026-06-18T23:59:13.100Z
 ---
-# Ueda Yagi Tanshi Co., Ltd.
+
+# 上田八木短資株式会社 (Ueda Yagi Tanshi)
 
 ## Wiki route
 
@@ -15,82 +16,82 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-An independent tanshi company that forms one corner of Japan's 3  major tanshi companies. It was created through the **2001-04  merger of Ueda Tanshi + Yagi Tanshi**. Its core businesses are brokerage in short-term money markets, including the call market, bill trading, and CD/CP, and serving as a counterparty for Bank of Japan market operations. The tanshi industry stagnated for a long period in the ultra-low-rate environment after the 2009  Lehman shock, but expectations for improved industry margins have risen with the **2024-03  end of negative interest rates**. It is unlisted and independent, with a transaction-concentration business model focused on megabanks and regional banks. ^[extracted]
+An independent money-market dealer (tanshi) firm that is one of Japan's 3  major tanshi companies. It was established through the **2001-04  merger of Ueda Tanshi + Yagi Tanshi**. Its core businesses are intermediation in the short-term money market (the call market, bill trading, CD/CP) and acting as a counterparty for Bank of Japan operations. The tanshi industry was in a prolonged slump under the ultra-low-interest-rate environment after the 2009  Lehman shock, but with the **2024-03  exit from negative interest rates**, expectations of improved industry margins have begun to emerge. Unlisted and independent, with a business model concentrated on transactions with megabanks and regional banks. ^[extracted]
 
 ## 1. Company overview
 
-**Formal name**: Ueda Yagi Tanshi Co., Ltd.
+**Legal name**: Ueda Yagi Tanshi Co., Ltd. (上田八木短資株式会社)
 **English name**: Ueda Yagi Tanshi Co., Ltd.
-**Established**: 2001-04, through the merger of Ueda Tanshi + Yagi Tanshi ^[extracted]
-**Business type**: Tanshi company, Japan's distinctive specialized short-term money-market business type
-**Listing**: Unlisted, independent
-**Industry position**: One corner of Japan's 3  major tanshi companies ([[financial-regulators/central-tanshi]] / Ueda Yagi Tanshi / [[financial-regulators/tokyo-tanshi]])
+**Founded**: 2001-04 (established through the merger of Ueda Tanshi + Yagi Tanshi) ^[extracted]
+**Business type**: Tanshi company (a money-market-dealer business type unique to Japan)
+**Listing**: Unlisted (independent)
+**Industry position**: One of Japan's 3  major tanshi companies ([[financial-regulators/central-tanshi]] / Ueda Yagi Tanshi / [[financial-regulators/tokyo-tanshi]])
 
-### Predecessors / merger history
+### Predecessor / merger history
 
-- **1909** Ueda Tanshi founded, a long-established tanshi broker dating from before the war.
-- **1928** Yagi Shoten established, predecessor of Yagi Tanshi.
-- **2001-04** Ueda Tanshi + Yagi Tanshi → **Ueda Yagi Tanshi formed by merger** ^[extracted].
-- Symbol of industry consolidation: the tanshi industry consolidated toward a 3 -company structure through the 2000 年s.
+- **1909** Ueda Tanshi founded (a long-established tanshi dealer continuing from before the war)
+- **1928** Yagi Shoten established (predecessor of Yagi Tanshi)
+- **2001-04** Ueda Tanshi + Yagi Tanshi → **Ueda Yagi Tanshi established through merger** ^[extracted]
+- A symbol of industry consolidation: throughout the 2000 年s, the tanshi industry progressively consolidated into a 3 -major structure
 
-## 2. Business segment map
+## 2. Business-segment map
 
 | Business | Content | Customers |
 |---|---|---|
-| **Call-market brokerage** | Brokerage of unsecured / secured call funds between banks | Megabanks, regional banks, trusts, securities firms |
-| **Bills trading market** | Brokerage of short-term bills, including commercial bills and banker's acceptances | Banks, large corporations |
+| **Call-market intermediation** | Intermediation of unsecured / secured interbank call funds | Megabanks, regional banks, trust banks, securities firms |
+| **Bill-trading market** | Intermediation in trading of short-term bills (commercial bills, bankers' acceptances) | Banks, large corporations |
 | **CD / CP trading** | Trading of negotiable certificates of deposit (CDs) and commercial paper (CP) | Banks, operating companies, institutional investors |
-| **Bank of Japan counterparty business** | Counterparty / brokerage for Bank of Japan market operations, open-market operations | Bank of Japan |
-| **JGB / municipal bond trading** | Trading of T-Bills, medium / long-term JGBs, and municipal bonds | Banks, institutional investors |
-| **Foreign bonds / dollar call and related markets** | Brokerage of dollar-denominated short-term funding markets such as Eurodollar call | Overseas branches of Japanese banks and foreign-bank Tokyo branches |
+| **BOJ-counterparty business** | Counterparty / intermediary for Bank of Japan market operations (open-market operations) | Bank of Japan |
+| **JGB / municipal-bond trading** | Trading of short-term JGBs (T-Bills), medium-to-long-term JGBs, and municipal bonds | Banks, institutional investors |
+| **Overseas bonds (USD call, etc.)** | Intermediation in the USD short-term funding market (Eurodollar call, etc.) | Overseas bases of Japanese banks, Tokyo branches of foreign banks |
 
 ### Business model
 
-- **High-volume / low-margin model**: revenue comes from bid-offer spreads and fees in short-term money markets.
-- **Dependence on BOJ policy rates**: industry margins move with the policy-rate level and operation volume.
-- **Megabank / regional-bank concentration**: customer base is centered on Japan's banking sector.
-- **Non-bank customers**: also provides services to major securities firms, trust banks, insurers, and Norinchukin-line financial institutions.
+- **Thin-margin, high-volume type**: revenue comes from bid-offer spreads and fees in the short-term funding market
+- **Dependence on the BOJ policy rate**: industry margins move in line with the policy-rate level and the volume of operations
+- **Concentration on megabanks / regional banks**: the customer base centers on Japan's banking sector
+- **Non-bank-facing**: services are also provided to major securities firms, trust banks, insurers, and agricultural-cooperative-system financial institutions
 
-### 3  major tanshi companies
+### The 3  major tanshi companies
 
-| Tanshi company | History | Characteristics |
+| Tanshi company | History | Features |
 |---|---|---|
-| **Central Tanshi** | Merger of Yamane Tanshi + Central Tanshi + Tanshi | Largest in the industry |
-| **Ueda Yagi Tanshi** | Ueda Tanshi + Yagi Tanshi merger in 2001-04  | Independent; one corner of the 3  major companies |
-| **Tokyo Tanshi** | Tokyo-based tanshi company dating from before the war | One corner of the 3  major companies |
+| **Central Tanshi** | Merger of Yamane Tanshi + Central Tanshi + Tanshi | Industry leader |
+| **Ueda Yagi Tanshi** | Ueda Tanshi + Yagi Tanshi (2001-04  merger) | Independent; one of the 3  majors |
+| **Tokyo Tanshi** | A Tokyo-based tanshi continuing from before the war | One of the 3  majors |
 
-### Industry contraction cycle
+### Industry-contraction cycle
 
-- **Until 2008**: positive policy rates, active markets, and profitability even under a 3 -company structure.
-- **2009-2024**: post-Lehman ultra-low rates → zero-rate / negative-rate environment thinned margins and shrank the industry ^[extracted].
-- **From 2024-03 onward**: end of negative rates → expectations for improved industry margins.
+- **〜2008**: with a policy rate, an active market, and earnings secured even under the 3 -major structure
+- **2009-2024**: ultra-low rates after Lehman → thinning margins in the zero-rate / negative-rate environment, industry contraction ^[extracted]
+- **2024-03〜**: exit from negative rates → expectation of improved industry margins
 
-### Medium-term strategy (2024  medium-term plan)
+### Mid-term strategy (the 2024  mid-term plan)
 
-- **Use BOJ policy-rate normalization as an opportunity**: respond to short-term money-market revitalization after the 2024-03  end of negative rates.
-- **Provide liquidity to short-term money markets**: strengthen core businesses.
-- **Concentrate transactions with megabanks and regional banks**: deepen core customers.
+- **Capitalizing on the normalization of the BOJ policy rate**: responding to the revitalization of the short-term money market after the 2024-03  exit from negative rates
+- **Providing liquidity to the short-term money market**: strengthening the core business
+- **Concentration on transactions with megabanks / regional banks**: deepening core-customer relationships
 
 ### Competitive relationships
 
-- **Direct competitors**: [[financial-regulators/central-tanshi]] / [[financial-regulators/tokyo-tanshi]], mutual competition among the 3  major tanshi companies.
-- **Indirect competitors**: major securities companies in the short-term JGB OTC market and direct interbank call transactions.
-- **Industry protection factor**: institutional positioning as a Bank of Japan market-operation counterparty.
+- **Direct competition**: [[financial-regulators/central-tanshi]] / [[financial-regulators/tokyo-tanshi]] (mutual competition among the 3  major tanshi)
+- **Indirect competition**: major securities firms (the short-term JGB OTC market), direct interbank transactions (direct call dealing)
+- **Industry-protection factor**: an institutional positioning as a counterparty for BOJ operations
 
 ### Market trends
 
-- **2024-03  end of negative rates**: the largest factor behind expectations for industry revival.
-- **BOJ QT (quantitative tightening)**: room for tanshi business expansion as JGB market liquidity recovers.
+- **2024-03  exit from negative rates**: the biggest factor behind expectations of an industry revival
+- **BOJ QT (quantitative tightening)**: recovery of JGB-market liquidity leaves room to expand the tanshi business
 
-## 5. Regulation / policy
+## 5. Regulation & policy
 
-- **Lead authorities**: FSA + Bank of Japan, as market-operation counterparty supervisor.
-- **Business law**: tanshi companies are a distinct business type outside the Banking Act, positioned as tanshi brokers.
-- **BOJ operation counterparty requirements**: must meet certain capital and organizational standards.
+- **Supervisor**: the FSA + the Bank of Japan (supervision as an operations counterparty)
+- **Governing law**: tanshi companies are a unique business type outside the Banking Act (positioned as money-market dealers)
+- **BOJ-operations counterparty requirements**: must meet certain capital and structural standards
 - **Recent policy issues**:
-  - From 2024-03: BOJ policy-rate normalization, including the end of negative rates.
-  - 2024-2026 : BOJ QT, reduction of JGB holdings.
-  - 2025-2026 : discussion of short-term money-market digitization and distributed-ledger use.
+  - 2024-03〜 normalization of the BOJ policy rate (exit from negative rates)
+  - 2024-2026  BOJ QT (reduction of JGB holdings)
+  - 2025-2026  debate over digitalization of the short-term money market / use of distributed ledgers
 
 ## Related
 
@@ -100,10 +101,10 @@ An independent tanshi company that forms one corner of Japan's 3  major tanshi c
 ## Sources
 
 - **Wikipedia: Ueda Yagi Tanshi** (public information, extracted 2026-05-19)
-- **Wikipedia: tanshi company** (general industry-structure information)
-- **Bank of Japan: public materials on call markets and short-term money markets**
+- **Wikipedia: tanshi companies** (general information on industry structure)
+- **Bank of Japan: public materials related to the call market / short-term money market**
 
 ---
 
-> [!info] Review status
-> confidence: **likely** (public information only; Wikipedia + BOJ public-material basis 2026-05-19). Detailed financials are unknown because the company is unlisted. Important dates, including 1909  Ueda Tanshi founding, 1928  Yagi Shoten establishment, and the 2001-04  merger, are public history. Industry trends, including the effect of the 2024-03  end of negative rates, are confirmable policy events.
+> [!info] Verification status
+> confidence: **likely** (based solely on public information — Wikipedia + BOJ public materials 2026-05-19). Because it is unlisted, detailed financials are unknown. The key dates (1909  founding of Ueda Tanshi / 1928  establishment of Yagi Shoten / 2001-04  merger) are public history. Industry trends (the impact of the 2024-03  exit from negative rates) can be confirmed as policy events.

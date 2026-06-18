@@ -1,11 +1,11 @@
 ---
 source: finance/cross-border-m-a-japan
-source_hash: 135762c1b2c8253b
+source_hash: 84838b7f56977120
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-border M&A Japan"
-translated_at: 2026-05-31T06:16:15.689Z
+translated_at: 2026-06-18T23:59:13.057Z
 ---
 
 # Cross-border M&A Japan
@@ -36,7 +36,7 @@ For FinWiki, this page is the transaction-context layer behind [[securities-firm
 
 ## METI Inbound M&A Reading
 
-METI's 2023  inbound M&A case-study project frames foreign capital as one possible way for Japanese companies to solve management issues and accelerate growth. The useful reading is not "foreign buyers are always good" but:
+METI's 2023 inbound M&A case-study project frames foreign capital as one possible way for Japanese companies to solve management issues and accelerate growth. The useful reading is not "foreign buyers are always good" but:
 
 - foreign capital may bring global channels, management know-how, technology, and growth investment;
 - Japanese sellers still need economic-security, governance, employee, and integration safeguards;

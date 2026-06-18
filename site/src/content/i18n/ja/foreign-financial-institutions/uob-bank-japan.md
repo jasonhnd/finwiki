@@ -1,56 +1,56 @@
 ---
 source: foreign-financial-institutions/uob-bank-japan
-source_hash: f242da9d03ff9458
+source_hash: d5c0a4f39d05e541
 lang: ja
 status: machine
 fidelity: ok
 title: "ユナイテッド・オーバーシーズ銀行 東京支店"
-translated_at: 2026-06-02T16:33:58.487Z
+translated_at: 2026-06-18T23:59:13.065Z
 ---
+
 # ユナイテッド・オーバーシーズ銀行 東京支店
 
+## Wiki route
 
-## ウィキ上の位置づけ
+本エントリは [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。ピア / 対比の文脈として [[foreign-financial-institutions/dbs-bank-japan|DBS銀行 東京支店]] と、より広いシステム / 規制境界として [[banking/INDEX|banking index]] と対照して読まれたい。
 
-この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。同業比較・対比の文脈は [[foreign-financial-institutions/dbs-bank-japan|DBS銀行 東京支店]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+## TL;DR
 
-## 要約
+ユナイテッド・オーバーシーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / United Overseas Bank Limited の在日銀行支店。1972 年設立の UOB Tokyo は、日本とアジアの cross-border investment bridge として corporate banking, FI coverage, property funds, sponsors, and FDI support を担う。
 
-ユナイテッド・オーバーシーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される、Singapore / United Overseas Bank Limited の在日銀行支店である。1972 年設立の UOB Tokyo は、日本とアジアを結ぶクロスボーダー投資の橋渡し役として、法人銀行業務、金融機関カバレッジ、不動産ファンド、スポンサー、対日直接投資支援を担う。
+## 1. License / branch boundary
 
-## 1. ライセンス・支店境界
-
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| FSA 掲載名 | ユナイテッド・オーバーシーズ銀行 |
-| 法人・支店名 | United Overseas Bank Limited Tokyo Branch |
-| 免許ルート | 銀行法上の外国銀行支店、FSA 銀行免許一覧 |
-| 母国法域 | Singapore |
-| 親会社・グループ | United Overseas Bank Limited / UOB Group |
-| 日本支店の境界 | 法人、金融機関、ノンバンク金融機関、不動産ファンド、スポンサー、対日直接投資顧客向けの銀行支店 |
-| Wiki 上の役割 | Singapore を拠点とするホールセール / 対日直接投資銀行支店のアンカー |
+| FSA listed name | ユナイテッド・オーバーシーズ銀行 |
+| Legal / branch name | United Overseas Bank Limited Tokyo Branch |
+| License route | Banking Act foreign bank branch; FSA bank license list |
+| Home jurisdiction | Singapore |
+| Parent / group | United Overseas Bank Limited / UOB Group |
+| Japan branch boundary | Banking branch for corporate, FI, NBFI, property-fund, sponsor, and FDI clients |
+| Wiki role | Singapore-based wholesale / FDI bank branch anchor in Japan |
 
-## 2. 事業モデル
+## 2. Operating model
 
-UOB Tokyo の公式サイトでは、同支店は 1972 に設立され、日本とアジアのクロスボーダー投資をつなぐ役割を担うと説明されている。商品領域には、法人銀行業務、金融機関グループ向けサービス、ローン、スタンドバイ信用状、保証、トランザクション・バンキング、貿易サービス、為替、預金、送金、外国直接投資支援が含まれる。
+UOB Tokyo の公式サイトは、当支店が 1972 に設立され、日本とアジアにおけるクロスボーダー投資の橋渡しの役割を果たすと述べている。プロダクト領域には、corporate banking、金融機関グループ向けサービス、ローン、スタンドバイ信用状、保証、トランザクションバンキング、貿易サービス、FX、預金、送金、対外直接投資（FDI）サポートが含まれる。
 
-したがって同支店の価値提案は、国内個人向け銀行ではなく、日本と ASEAN の接続性、および法人・金融機関向けのリレーションシップ・バンキングにある。
+したがって、当支店のバリュー・プロポジションは、日本のドメスティックなリテールバンキングではなく、法人および金融機関に向けた日本・ASEAN のコネクティビティとリレーションシップバンキングである。
 
-## 3. このページが重要な理由
+## 3. Why this page matters
 
-- Singapore P0  の外国銀行支店トリオを [[foreign-financial-institutions/dbs-bank-japan]]、[[foreign-financial-institutions/ocbc-bank-japan]] とあわせて補完する。
-- 日本の外国銀行マップに、明示的な対日直接投資 / ASEAN ブリッジの経路を加える。
-- [[banking/foreign-bank-japan-retreat]] におけるアジア系外国銀行支店の同業分析を支える。
+- [[foreign-financial-institutions/dbs-bank-japan]] と [[foreign-financial-institutions/ocbc-bank-japan]] とともに、シンガポールの P0 外国銀行支店のトリオを完成させる。
+- 日本の外国銀行マップに、明示的な FDI / ASEAN の橋渡しルートを加える。
+- [[banking/foreign-bank-japan-retreat]] におけるアジアの外国銀行支店のピア分析を支える。
 
-## 関連項目
+## Related
 
 - [[foreign-financial-institutions/dbs-bank-japan]]
 - [[foreign-financial-institutions/ocbc-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 
-## 出典
+## Sources
 
-- FSA: 銀行免許一覧、外国銀行支店、2026-05-13 時点。
-- UOB Tokyo: 英語版ホームページ。
-- UOB Tokyo: 日本語版ホームページ。
+- FSA: bank license list, foreign bank branches, as of 2026-05-13.
+- UOB Tokyo: English homepage.
+- UOB Tokyo: Japanese homepage.

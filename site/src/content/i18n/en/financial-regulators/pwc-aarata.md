@@ -1,116 +1,116 @@
 ---
 source: financial-regulators/pwc-aarata
-source_hash: ccfb71edf7a33389
+source_hash: a6a14ad4f498746a
 lang: en
 status: machine
 fidelity: ok
-title: "PwC Japan LLC, former PwC Aarata"
-translated_at: 2026-06-01T00:41:50.398Z
+title: "PwC Japan LLC (formerly PwC Arata)"
+translated_at: 2026-06-18T23:59:13.119Z
 ---
-# PwC Japan LLC, former PwC Aarata
+# PwC Japan LLC (formerly PwC Arata)
 
 ## TL;DR
 
-**PwC Japan LLC**, formerly **PwC Aarata LLC**, is one of the **Big 4  audit-firm group** members in Japan and a Japanese member firm of the global **PricewaterhouseCoopers (PwC)** network. Its origin is central to Japan's audit-industry restructuring history: after the 2006-07  ChuoAoyama Audit Corporation business-suspension order related to the Kanebo accounting-fraud case, Aarata Audit Corporation was established ^[extracted]. Within the Big 4  universe, its listed-company audit client count is smaller than the other 3  major firms, but it differentiates through **FinTech / Web3  / NFT strategy-consulting links** and PwC global's "Time for trust" crypto-asset framework ^[extracted]. In **2023-04** it was integrated under the PwC Japan brand, including the merger history with the former Kyoto Audit Corporation ^[extracted].
+**PwC Japan LLC** (formerly: **PwC Arata LLC**) is one corner of the **Big 4  lineage** and the Japan member firm of the global **PricewaterhouseCoopers (PwC)**. It has an origin that formed the core of the history of restructuring in Japan's audit industry —— **2006-07  ChuoAoyama Audit Corporation business-suspension penalty (the Kanebo accounting-fraud case) → establishment of Arata Audit Corporation** ^[extracted]. Within the Big 4 , its number of listed audit clients is smaller than the other 3  firms, but it differentiates through **FinTech / Web3 / NFT strategy-consulting linkage** and the **PwC global "Time for trust" crypto-asset framework** ^[extracted]. In **2023-04** it was integrated into the PwC Japan brand (merging with the former Kyoto Audit Corporation) ^[extracted].
 
 ## Wiki route
 
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] and [[financial-regulators/ey-shinnihon|EY 新日本]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the CPA Act / audit-quality-management regulatory boundary. CPAAOB supervisory authority sits with [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] and [[financial-regulators/ey-shinnihon|EY 新日本]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary of the Certified Public Accountants Act / audit quality management. The CPAAOB supervisory context falls under [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
 
-## 1. Entity overview
+## 1. Firm overview
 
-- **Legal name**: PwC Japan LLC, formerly PwC Aarata LLC ^[extracted].
-- **English name**: PricewaterhouseCoopers Japan LLC ^[extracted].
-- **Legal form**: limited liability audit corporation ^[extracted].
-- **Head office**: Otemachi, Chiyoda-ku, Tokyo ^[extracted].
-- **Network membership**: **PricewaterhouseCoopers International Limited (PwCIL)**, headquartered in London ^[extracted].
+- **Official name**: PwC Japan LLC (formerly: PwC Arata LLC) ^[extracted]
+- **English name**: PricewaterhouseCoopers Japan LLC ^[extracted]
+- **Legal form**: Limited liability audit corporation ^[extracted]
+- **Headquarters**: Otemachi, Chiyoda-ku, Tokyo ^[extracted]
+- **Member network**: **PricewaterhouseCoopers International Limited (PwCIL)** (headquartered in London) ^[extracted]
 - **Group entities**:
-  - PwC Consulting LLC.
-  - PwC Advisory LLC, including FAS / M&A.
-  - PwC Tax Japan ^[extracted].
+  - PwC Consulting LLC
+  - PwC Advisory LLC (FAS / M&A)
+  - PwC Tax Corporation ^[extracted]
 
 ## 2. History
 
-| Year | Event |
+| Year/Month | Event |
 |---|---|
-| **2005-09** | **Kanebo accounting-fraud case**, including criminal-liability issues for CPAs involved through ChuoAoyama ^[extracted]. |
-| **2006-07** | **FSA imposed a 2 -month business suspension on ChuoAoyama Audit Corporation**, triggering large-scale audit-client outflows ^[extracted]. |
-| **2006-09** | **Aarata Audit Corporation established** as PwC global's new Japanese member firm, taking over part of the client base from ChuoAoyama ^[extracted]. |
-| 2006-09  | Former ChuoAoyama renamed **Misuzu Audit Corporation** and moved toward dissolution in 2007  ^[extracted]. |
-| **2008-07** | **CPA Act amendment introduced limited-liability audit corporations**, leading to PwC Aarata LLC ^[extracted]. |
-| 2010s | Consulting-led activity in FinTech / Web3  domains ^[extracted]. |
-| **2023-04** | **Integrated under the PwC Japan brand**, including the Aarata + Kyoto Audit Corporation history ^[extracted]. |
+| **2005-09** | **Kanebo accounting-fraud case — criminal-liability issue of the CPAs involved at ChuoAoyama Audit Corporation** ★ ^[extracted] |
+| **2006-07** | **The FSA imposed a 2 -month business-suspension penalty on ChuoAoyama Audit Corporation** → mass outflow of audit clients ^[extracted] |
+| **2006-09** | **Establishment of Arata Audit Corporation** (newly established as PwC's global Japan member, separated from ChuoAoyama) ^[extracted] |
+| 2006-09 | The former ChuoAoyama was renamed **Misuzu Audit Corporation** → headed toward dissolution in 2007  ^[extracted] |
+| **2008-07** | **Conversion to limited liability under the amended Certified Public Accountants Act** → PwC Arata LLC ^[extracted] |
+| 2010s | Led in FinTech / Web3  field consulting ^[extracted] |
+| **2023-04** | **Integration into the PwC Japan brand** (the course of the Arata + Kyoto Audit Corporation merger) ^[extracted] |
 
 ### FinTech / crypto assets ^[extracted]
 
-- **FinTech / crypto-asset team** linking Web3  strategy and audit.
-- PwC global **"Time for trust"** crypto-asset framework.
-- NFT / DAO legal and tax advisory, including **tokenomics design support**.
-- Work with Web3  startups and large VASPs; see [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]].
+- **"FinTech & Crypto Assets" team** — combination of Web3  strategy and audit
+- **PwC global "Time for trust"** crypto-asset framework
+- **NFT / DAO legal and tax advisory**, **tokenomics-design support**
+- Combination of Web3  startups + major VASPs (see [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]])
 
 ### Banking / insurance / securities
 
-- **Foreign financial institutions**: portions of foreign-bank Tokyo branches and foreign securities firms.
+- **Foreign-affiliated finance** — foreign-bank Tokyo branches / part of foreign-affiliated securities
 
 ### Sustainability assurance
 
-- ESG / SSBJ / ISSB-related assurance work ^[extracted].
+- ESG / SSBJ / ISSB-related assurance engagements ^[extracted]
 
-## 4. Main listed-FG client relationships, public-source basis
+## 4. Major listed-FG client relationships (public basis)
 
-For PwC lineage, including former ChuoAoyama, Aarata, and current PwC Japan, financial-institution audit-client relationships can only be asserted within the scope confirmable from public sources.
+Regarding the financial-institution audit-client relationships of the PwC lineage (former ChuoAoyama + Arata + current PwC Japan), the range confirmable on a public basis:
 
-- **Web3  related**: as [[exchanges/japan-crypto-audit-firm-landscape]] notes, there are many Web3  startup-related engagements.
+- **Web3 -related**: as mentioned in [[exchanges/japan-crypto-audit-firm-landscape]], many Web3  startup engagements
 
-Note: after major accounting-fraud cases in the ChuoAoyama period, including Kanebo and Ashikaga Bank, the PwC-lineage financial-institution audit portfolio changed substantially ^[extracted]. **For each listed FG client's current auditor, EDINET primary documents are the only definitive source**, so this wiki avoids uncertain lists of past / current clients; uncertain assertions are isolated in `.opinions/JapanFG/pwc-aarata.md`.
+Note: Since the major accounting-fraud cases of the ChuoAoyama era (Kanebo, Ashikaga Bank, etc.), the PwC lineage's financial-institution audit portfolio has gone through significant change ^[extracted]. **The current auditor for each individual listed-FG client is confirmable only through primary verification in EDINET**, and this wiki refrains from a confident enumeration (uncertain past/present client enumerations are isolated in `.opinions/JapanFG/pwc-aarata.md`).
 
 ## 5. Regulation / supervision
 
-- **Primary law**: CPA Act ^[extracted].
-- **Registration**: Japanese Institute of Certified Public Accountants (JICPA) ^[extracted].
-- **Supervision**: **FSA / Certified Public Accountants and Auditing Oversight Board (CPAAOB)** performs quality-control reviews and inspections ^[extracted].
+- **Governing law**: Certified Public Accountants Act ^[extracted]
+- **Registration**: Japanese Institute of Certified Public Accountants (JICPA) ^[extracted]
+- **Supervision**: the **FSA's Certified Public Accountants and Auditing Oversight Board (CPAAOB)** conducts quality-management reviews / inspections ^[extracted]
 
-### Past sanctions, including the ChuoAoyama era ^[extracted]
+### Past disciplinary history (including the ChuoAoyama era) ★ ^[extracted]
 
-- **2006-07  ChuoAoyama Audit Corporation business suspension for 2  months**, triggered by the Kanebo case.
-  - One of the largest sanctions in Japanese audit history.
-  - Client outflows moved through Aarata Audit Corporation, Misuzu Audit Corporation, and eventual dissolution.
-- **2007  Misuzu, the former ChuoAoyama, dissolved**, cementing the industry 4 -major-firm structure of ShinNihon, Tohmatsu, Azsa, and Aarata.
+- **2006-07  ChuoAoyama Audit Corporation business-suspension 2 -month penalty** (originating from the Kanebo case)
+  - One of the largest-class disciplinary cases in Japan's audit history
+  - Mass client outflow → transfer to Arata Audit Corporation → renamed Misuzu Audit Corporation → dissolution
+- **2007  dissolution of Misuzu (former ChuoAoyama)** → confirmation of the industry's Big 4  structure (Shin Nihon / Tohmatsu / Azsa / Arata)
 
-Note: broad judgments on sanctions after the Aarata period cannot be confirmed from public sources, so they are isolated in `.opinions/JapanFG/pwc-aarata.md`. Individual CPAAOB inspections and sanctions should be checked against primary CPAAOB releases.
+Note: Because a comprehensive assessment of the disciplinary history after Arata cannot be confirmed on a public basis, it is isolated in `.opinions/JapanFG/pwc-aarata.md`. The specific facts of CPAAOB inspections / penalties should be primarily confirmed against the Board's published materials.
 
-## 6. Competitive relationships
+## 6. Competitive landscape
 
-| Big 4  | Domestic branch | Public-source strength axis |
+| Big 4 | Domestic brand | Strength axis (public basis) |
 |---|---|---|
-| PwC | **PwC Japan, former Aarata** | FinTech / Web3  / global PwC linkage |
-| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | Listed-company audit count |
+| PwC | **PwC Japan (formerly Arata)** | FinTech / Web3 / global PwC linkage |
+| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | Number of listed-company audits |
 | Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | M&A / crypto-asset lead |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | Internal controls in financial institutions |
+| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | Financial-institution internal control |
 
-Tier 2 includes [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] and BDO Sanyu Audit Corporation ^[extracted].
+Tier 2: [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]], BDO Sanyu Audit Corporation ^[extracted].
 
 ## Related
 
-- [[financial-regulators/ey-shinnihon]]: Big 4  peer
-- [[financial-regulators/deloitte-touche-tohmatsu]]: Big 4  peer
-- [[financial-regulators/kpmg-azsa]]: Big 4  peer
-- [[financial-regulators/taiyo-grant-thornton]]: mid-tier peer
-- [[non-life-insurers/sompo]]: major insurance-sector client area
-- [[financial-licenses/INDEX]]: CPA Act / audit system
-- [[financial-regulators/fsa-supervision-bureau]]: CPAAOB supervisory authority
-- [[exchanges/japan-crypto-audit-firm-landscape]]: crypto-audit cross-domain
+- [[financial-regulators/ey-shinnihon]] (Big 4  peer)
+- [[financial-regulators/deloitte-touche-tohmatsu]] (Big 4  peer)
+- [[financial-regulators/kpmg-azsa]] (Big 4  peer)
+- [[financial-regulators/taiyo-grant-thornton]] (mid-tier peer)
+- [[non-life-insurers/sompo]] (major-client area in the insurance sector)
+- [[financial-licenses/INDEX]] (Certified Public Accountants Act / audit system)
+- [[financial-regulators/fsa-supervision-bureau]] (CPAAOB supervisory context)
+- [[exchanges/japan-crypto-audit-firm-landscape]] (crypto-audit cross-domain)
 
 ## Sources
 
-- PwC Japan member firms: https://www.pwc.com/jp/ja/about-us/member/japan.html
-- PwC Japan audit and assurance: https://www.pwc.com/jp/ja/services/audit-assurance.html
+- PwC Japan member firm: https://www.pwc.com/jp/ja/about-us/member/japan.html
+- PwC Japan audit & assurance services: https://www.pwc.com/jp/ja/services/audit-assurance.html
 - PwC Japan crypto assets: https://www.pwc.com/jp/ja/issues/crypto-asset.html
 - Japanese Institute of Certified Public Accountants (JICPA): https://jicpa.or.jp/
-- FSA / Certified Public Accountants and Auditing Oversight Board (CPAAOB): https://www.fsa.go.jp/cpaaob/
+- FSA Certified Public Accountants and Auditing Oversight Board (CPAAOB): https://www.fsa.go.jp/cpaaob/
 - EDINET: https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
-> [!info] Validation status
-> confidence: **likely**. Based on public sources as of 1.0  / 2026-05-24. The ChuoAoyama case, Aarata establishment, and PwC Japan integration sequence are highly reliable from public sources. Client-by-client current auditors should be checked each time against EDINET primary documents.
+> [!info] Verification status
+> confidence: **likely** (based on v1.0  public sources, 2026-05-24). The flow of the ChuoAoyama case, the establishment of Arata, and the PwC Japan integration is highly reliable on a public basis. The auditor for each specific client should be confirmed against EDINET primary materials on each occasion.

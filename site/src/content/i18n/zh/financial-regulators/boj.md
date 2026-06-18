@@ -1,149 +1,149 @@
 ---
 source: financial-regulators/boj
-source_hash: f46b15b53cc2ac63
+source_hash: 8a9bc46cc32f0667
 lang: zh
 status: machine
 fidelity: ok
-title: "日本央行 (BoJ)"
-translated_at: 2026-05-31T11:13:44.931Z
+title: "日本银行 (BoJ)"
+translated_at: 2026-06-18T23:59:13.078Z
 ---
-# 日本央行 (BoJ)
+# 日本银行 (BoJ)
 
-## 维基路线
+## Wiki 路径
 
-该条目位于[[financial-regulators/INDEX|financial-regulators INDEX]]下。对照[[financial-regulators/fsa|金融庁]]（监管对应方）、[[financial-regulators/dic|預金保険機構]]（安全网对等方）以及[[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]]（内脏器官）来阅读。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可对照 [[financial-regulators/fsa|金融庁]] 阅读其监管对应方，对照 [[financial-regulators/dic|預金保険機構]] 阅读安全网同业，并对照 [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]] 阅读其内部部局。
 
-##TL;博士
+## TL;DR
 
-**日本の中央銀行**（**1882-10-10 設立、JASDAQ 出資証券コード 8301**）。**1997 全面改正日本銀行法**で「金融政策決定の独立性」「物価安定使命」「業務透明性」が明文化。**4 大機能**: 通貨発行（日本銀行券）・金融政策（短期金利と長期金利の操作）・銀行の銀行（民間銀行口座開設・資金決済 = [[systems/bojnet|BoJ-NET]]）・政府の銀行（国庫金事務 + 国債発行・流通）。**政策委員会**（総裁 + 副総裁 2 名 + 審議委員 6 名 = 計 9 名）が金融政策を決定。2013-04 [[financial-regulators/boj-monetary-policy|量的・質的金融緩和（QQE）]] → 2016 マイナス金利付き QQE → 2024-03 マイナス金利・YCC 撤廃 → 2024-07 利上げ開始 → **2024-2025 利上げサイクル**へ移行。長期保有国債残高は 2024 ピーク時 600 兆円超で世界最大級。
+**日本的中央银行**（**1882-10-10 设立，JASDAQ 出资证券代码 8301**）。**1997 全面修订的日本银行法**明文确立了「货币政策决定的独立性」「物价稳定使命」「业务透明性」。**4 大职能**：货币发行（日本银行券）・货币政策（短期利率与长期利率的操作）・银行的银行（开设民间银行账户・资金结算 = [[systems/bojnet|BoJ-NET]]）・政府的银行（国库金事务 + 国债发行・流通）。**政策委员会**（总裁 + 副总裁 2 名 + 审议委员 6 名 = 共 9 名）决定货币政策。2013-04 [[financial-regulators/boj-monetary-policy|量的・質的金融緩和（QQE）]] → 2016 附带负利率的 QQE → 2024-03 撤销负利率・YCC → 2024-07 开始加息 → 转入 **2024-2025 加息周期**。长期持有国债余额在 2024 峰值时超过 600 兆円，居世界最大级别。
 
-## 1。法律依据/设立
+## 1. 法律依据・设立
 
-**官方名称**：日本银行
-**英文名称**：日本银行（BoJ）
-**法律依据**：**日本银行法**（平成 9 年法律第 89 号、1998-04-01执行）
-**成立**：**1882-10-10**（明治15 ）
-**总公司**：东京都中央区日本桥本吉町2-1-1
-**业务类型**：持牌法人（类似特殊法人、JASDAQ上市投资证券8301）
-**监督**：财政部（人事/预算）+[[financial-regulators/fsa|金融庁]]（协调）
+**正式名称**: 日本银行
+**英文名**: Bank of Japan (BoJ)
+**法律依据**: **日本银行法**（平成 9 年法律第 89 号，1998-04-01 施行）
+**设立**: **1882-10-10**（明治 15 年）
+**总店**: 东京都中央区日本桥本石町 2-1-1
+**业态**: 认可法人（类似特殊法人，JASDAQ 上市 出资证券 8301）
+**主管**: 财务省（人事・预算）+ [[financial-regulators/fsa|金融庁]]（协作）
 
-### 出资构造
+### 出资结构
 
-- 投资1 億円（投资证券=类似股票但没有投票权）
+- 出资金 1 億円（出资证券 = 类似股票但无表决权）
 - **政府出资 55%** + 民间出资 45%
-- JASDAQ投资证券代码8301（可以买卖，但股息上限，无投票权）
+- JASDAQ 出资证券代码 8301（可买卖但有分红上限，无表决权）
 
 ### 重要年表
 
-|月 |活动 |
+| 年月 | 事项 |
 |---|---|
-| **1882-10-10** | **日本银行的成立**（松方正芳的金融重组/银本位的基础） |
-| 1885 | 日本銀行券（最初の銀行券）発行開始 |
-| 1897 | 金本位制移行 |
-| 1942 |旧日本银行法（强战时控制）|
-| **1997-06** | **新日本银行法案的颁布**（确立货币政策的独立性）|
-| **1998-04-01** | **新日本银行法的实施**（政策委员会成立，监察局废除）|
-| 1999-02 | **ゼロ金利政策**（初）|
-| **2001-03** | **推出量化宽松政策（QE）**（全球首个全面非传统货币政策） |
-| 2006-03 | QE取消→短期利率0.25%|
-| 2008-09 |雷曼冲击→紧急提供流动性/购买公司债券等|
-| 2010-10 | 包括的金融缓和（CME）开始 |
-| **2013-04** | **黑田东彦行长就职→开始定量和定性货币宽松（QQE）**（基础货币翻倍2 ）|
-| 2014-10 | QQE部分2 扩展|
-| **2016-01** | **推出负利率QQE**（补充活期账户-0.1%）|
-| **2016-09** | **Introduction of yield curve control (YCC)** (10  annual interest rate 0% degree guidance) |
-| 2018-07 | YCC 弾力化（10 年金利変動幅 ±0.2%）|
-| 2021-03 | YCC波动范围±0.25% |
-| 2022-12 | YCC波动范围±0.5% |
-| **2023-04** | **上田一夫就任总裁**（黑田10 制度结束，战后第一位经济学家总裁）|
-| 2023-07 | YCC弹性（上限1.0%目标）|
-| **2024-03-19** | **负利率/YCC废除→短期利率0-0.1%**（17 多年来首次加息）|
-| **2024-07-31** | **提高政策利率0.25%**（额外加息）|
+| **1882-10-10** | **日本银行 设立**（松方正义的财政整理・银本位制基础）|
+| 1885 | 日本银行券（最早的银行券）开始发行 |
+| 1897 | 转入金本位制 |
+| 1942 | 旧日本银行法（战时统制色彩浓厚）|
+| **1997-06** | **新日本银行法 成立**（确立货币政策的独立性）|
+| **1998-04-01** | **新日本银行法 施行**（政策委员会成立，检查局废止）|
+| 1999-02 | **零利率政策**（首次）|
+| **2001-03** | **导入量化宽松政策（QE）**（全球首个正式的非传统货币政策）|
+| 2006-03 | 解除 QE → 短期利率 0.25% |
+| 2008-09 | 雷曼冲击 → 紧急流动性供给・买入公司债等 |
+| 2010-10 | 开始全面货币宽松（CME）|
+| **2013-04** | **黑田东彦总裁就任 → 开始量化质化宽松（QQE）**（基础货币 2 倍化）|
+| 2014-10 | QQE 第 2 次扩大 |
+| **2016-01** | **导入附带负利率的 QQE**（补充活期存款 -0.1%）|
+| **2016-09** | **导入收益率曲线控制（YCC）**（诱导 10 年期利率至 0% 左右）|
+| 2018-07 | YCC 弹性化（10 年利率波动幅度 ±0.2%）|
+| 2021-03 | YCC 波动幅度 ±0.25% |
+| 2022-12 | YCC 波动幅度 ±0.5% |
+| **2023-04** | **植田和男总裁就任**（黑田 10 年体制结束，战后首位经济学家总裁）|
+| 2023-07 | YCC 弹性化（上限以 1.0% 为目标）|
+| **2024-03-19** | **撤销负利率・YCC → 短期利率 0-0.1%**（时隔 17 年加息）|
+| **2024-07-31** | **将政策利率加息至 0.25%**（追加加息）|
 
 ### 1) 货币发行
 
-- **日本银行纸币（纸币）**：由日本央行独家发行（硬币由政府发行）
-- 2024-07-03 发行新纸币（涩泽英一 / 津田梅子 / 北里柴三郎）
-- 流通余额约为130 兆円规模
+- **日本银行券（纸币）**: 由 BoJ 独占发行（硬币由政府发行）
+- 2024-07-03 发行新纸币（涩泽荣一 / 津田梅子 / 北里柴三郎）
+- 流通余额约 130 兆円规模
 
-### 2) 金融政策（→ [[financial-regulators/boj-monetary-policy|詳細]]）
+### 2) 货币政策（→ [[financial-regulators/boj-monetary-policy|詳細]]）
 
-- **物价稳定目标2%**（2013 与政府联合声明）
-- 政策工具：短期利率+经常账户层级+长期政府债券购买+ETF/J-REIT购买+贷款支持
-- 政策委员会9 名（会长+副会长2 +审议委员会委员6）多数票
-- **货币政策会议** (MPC) 8  每年次
+- **物价稳定目标 2%**（与 2013 政府的共同声明）
+- 政策工具: 短期利率 + 活期存款分层结构 + 买入长期国债 + 买入 ETF / J-REIT + 贷款支持
+- 政策委员会 9 名（总裁 + 副总裁 2 + 审议委员 6）多数决
+- 每年 8 次的 **货币政策决定会合**（MPC）
 
-### 3）银行的银行（→ [[financial-regulators/boj-financial-system-dept|金融機構局]]）
+### 3) 银行的银行（→ [[financial-regulators/boj-financial-system-dept|金融機構局]]）
 
-- 在私人银行开设**日本银行往来账户**
-- **[[systems/bojnet|BoJ-NET]]**（即时毛额支付系统）操作
-- 最后贷款人
-- 金融机构检查/监控（分工/与[[financial-regulators/fsa|金融庁]]合作）
+- 为民间银行开设 **日银活期存款**
+- 运营 **[[systems/bojnet|BoJ-NET]]**（实时全额结算系统）
+- 最后贷款人职能（lender of last resort）
+- 金融机构检查・监测（与 [[financial-regulators/fsa|金融庁]] 分工・协作）
 
-### 4) 政府银行
+### 4) 政府的银行
 
-- 国库资金（税收+公共债券）的核算和支付
-- **政府债券的发行、分配和赎回**
-- 外汇市场干预行政机构（由财政部长指示）
-- 外汇储备管理机构
+- 国库金（税金 + 公债金）的出纳事务
+- **国债的发行・流通・偿还事务**
+- 代行外汇市场干预事务（财务大臣指示）
+- 代行外汇储备运用
 
 ## 3. 组织体制
 
 ```
-总统（5 任期，两院同意任命）
-├── 副会长2 名
-├── 审议委员会委员6 名（工业、金融界经济学家）
-│   = 政策委员会 9 名（金融政策决定）
-│
-├── [[financial-regulators/boj-monetary-policy|企画局]] ── 金融政策企画・MPC 事务局
-├── [[financial-regulators/boj-financial-markets-dept|金融市場局]] ─ 市场运作/国债买卖
-├── [[financial-regulators/boj-financial-system-dept|金融機構局]] ── 金融机构检查/监控
-├── [[financial-regulators/boj-payment-settlement-dept|決済機構局]] ── BoJ-NET / 支付系统
-├── [[financial-regulators/boj-international-dept|国際局]] ── 国际运营/G7/G20 央行合作
-├── 研究统计局── 经济统计、短观、物价分析
-├── 票务局── 纸币的制造及发行管理
-├── 商务局── 国库事务局
-└── 政策委员会办公室/监事会/各分所（32 分所）
+总裁（5 年任期，两院同意人事）
+   ├── 副总裁 2 名
+   ├── 审议委员 6 名（出身经济学界・产业界・金融界）
+   │   = 政策委员会 9 名（货币政策决定）
+   │
+   ├── [[financial-regulators/boj-monetary-policy|企画局]] ── 货币政策企划・MPC 事务局
+   ├── [[financial-regulators/boj-financial-markets-dept|金融市場局]] ── 市场操作・国债买卖
+   ├── [[financial-regulators/boj-financial-system-dept|金融機構局]] ── 金融机构考查・监测
+   ├── [[financial-regulators/boj-payment-settlement-dept|決済機構局]] ── BoJ-NET / 结算系统
+   ├── [[financial-regulators/boj-international-dept|国際局]] ── 国际业务・G7/G20 中央银行协作
+   ├── 调查统计局 ── 经济统计・短观・物价分析
+   ├── 发券局 ── 银行券制造・流通管理
+   ├── 业务局 ── 国库金事务
+   └── 政策委员会室 / 监事会 / 各分店（32 家分店）
 ```
 
-### 负利率/YCC废除（2024-03）
+### 撤销负利率・YCC（2024-03）
 
-- 17 多年来首次实际利率上调
-- 工资与物价良性循环确认 → 2% 持续稳定实现物价目标指日可待
-- ETF / J-REIT 买入も新规买入停止
+- 时隔 17 年的实质性加息
+- 确认工资・物价的良性循环 → 2% 物价目标的可持续・稳定实现进入视野
+- ETF / J-REIT 买入也停止新增买入
 
-### QT（量化紧缩）开始
+### 启动 QT（量化紧缩）
 
-- 逐步减少长期政府债券购买量（目标为2024-07 月6 兆円→2025-1Q月3 兆円左右）
-- 日本央行资产负债表正常化（峰值760 兆円）是一个长期问题
-- 退出策略中避免市场冲击是一个问题
+- 分阶段削减长期国债买入额（2024-07 月 6 兆円 → 2025-1Q 月以 3 兆円左右为目标）
+- BoJ 资产负债表（峰值时 760 兆円）的正常化是长期课题
+- 退出战略如何回避市场冲击是论点
 
-### 日元套利交易/兑换
+### 日元套息交易・汇率
 
-- 日美利差缩小 → 重新评估汇率，支持日元升值
-- 2024-08 円套利平仓→日经平均线4 万円突破→日本央行副行长市场稳定声明
-- 根据加息步伐，将影响汇率、国债利率和股票。
+- 日美利差收窄 → 日元升值方向的汇率重估
+- 2024-08 円套息平仓 → 日经平均跌破 4 万円 → BoJ 副总裁的市场稳定化发言
+- 视加息节奏波及汇率・国债利率・股票
 
 ### 数字日元（CBDC）
 
-- 2023-04  中试开始
+- 2023-04 开始试点实验
 
-＃＃ 有关的
+## 关联
 
-- [[financial-regulators/boj-monetary-policy|BoJ 金融政策]]·[[financial-regulators/boj-financial-markets-dept|金融市場局]]·[[financial-regulators/boj-financial-system-dept|金融機構局]]·[[financial-regulators/boj-payment-settlement-dept|決済機構局]]·[[financial-regulators/boj-international-dept|国際局]]
-- [[financial-regulators/fsa|金融庁]]·[[financial-regulators/dic|預金保険機構]]
-- [[systems/bojnet|BoJ-NET]]·[[systems/zengin|全銀システム]]
-- [[megabanks/mufg-bank|MUFG]]·[[megabanks/smbc|SMBC]]·[[megabanks/mizuho-bank|みずほ銀行]]·[[regional-banks/japan-post-bank|ゆうちょ銀行]]
+- [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] · [[financial-regulators/boj-financial-markets-dept|金融市場局]] · [[financial-regulators/boj-financial-system-dept|金融機構局]] · [[financial-regulators/boj-payment-settlement-dept|決済機構局]] · [[financial-regulators/boj-international-dept|国際局]]
+- [[financial-regulators/fsa|金融庁]] · [[financial-regulators/dic|預金保険機構]]
+- [[systems/bojnet|BoJ-NET]] · [[systems/zengin|全銀システム]]
+- [[megabanks/mufg-bank|MUFG]] · [[megabanks/smbc|SMBC]] · [[megabanks/mizuho-bank|みずほ銀行]] · [[regional-banks/japan-post-bank|ゆうちょ銀行]]
 - [[financial-regulators/INDEX|financial-regulators INDEX]]
 
-## 来源
+## Sources
 
-- **维基百科：日本银行**（https://ja.wikipedia.org/wiki/日本銀行, 2026-05-25 摘录）
-- **日本银行官方网站**（参见https://www.boj.or.jp/,2026-05-25）
+- **Wikipedia: 日本银行**（https://ja.wikipedia.org/wiki/日本銀行, 2026-05-25 抽取）
+- **日本银行 官方网站**（https://www.boj.or.jp/, 2026-05-25 参照）
 - **日本银行 组织体制**（https://www.boj.or.jp/about/organization/index.htm, 2026-05-25 参照）
-- **日本银行法**（平成 9 年Law第 89 号）
-- **日本央行货币政策会议纪要**（公开发布，每次会议）
+- **日本银行法**（平成 9 年法律第 89 号）
+- **日本银行 货币政策决定会合 议事要旨**（公开部分，各次）
 
 ---
 
-> [!info] 学校核心状况
+> [!info] 校核状态

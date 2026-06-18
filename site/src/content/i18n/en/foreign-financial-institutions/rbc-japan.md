@@ -1,13 +1,15 @@
 ---
 source: foreign-financial-institutions/rbc-japan
-source_hash: 011681da865d4fb0
+source_hash: eb13f47b97b3e3ee
 lang: en
 status: machine
 fidelity: ok
-title: "Royal Bank of Canada, Tokyo Branch"
-translated_at: 2026-06-01T00:41:50.399Z
+title: "カナダロイヤル銀行 東京支店"
+translated_at: 2026-06-18T23:59:13.104Z
 ---
-# Royal Bank of Canada, Tokyo Branch
+
+# カナダロイヤル銀行 東京支店
+
 
 ## Wiki route
 
@@ -15,19 +17,19 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-Royal Bank of Canada, Tokyo Branch is the Japan banking branch of Royal Bank of Canada listed in the FSA foreign-bank-branch list. Alongside the RBC Capital Markets Japan securities branch, it is the banking side of the RBC Japan platform, covering transaction banking, treasury, deposits / structured deposits, derivatives, and institutional coverage.
+Royal Bank of Canada, Tokyo Branch is the Japan banking branch of Royal Bank of Canada, listed in the FSA's foreign-bank-branch list. It is the banking side of the RBC Japan platform, alongside the RBC Capital Markets Japan securities branch, and handles transaction banking, treasury, deposits / structured deposits, derivatives, and institutional coverage.
 
 ## 1. License / branch boundary
 
 | Item | Notes |
 |---|---|
-| FSA listed name | Royal Bank of Canada |
-| Legal / branch name | Royal Bank of Canada, Tokyo Branch |
+| FSA listed name | Royal Bank of Canada (カナダロイヤル銀行) |
+| Legal / branch name | Royal Bank of Canada, Tokyo Branch (カナダロイヤル銀行 東京支店) |
 | License route | Banking Act foreign bank branch; registered financial institution |
 | Home jurisdiction | Canada |
 | Parent / group | Royal Bank of Canada |
-| Japan branch boundary | Banking branch; separate from RBC Capital Markets securities branch |
-| Wiki role | Canada-based wholesale bank branch anchor in Japan |
+| Japan branch boundary | Banking branch; separate from the RBC Capital Markets securities branch |
+| Wiki role | A Canada-based wholesale-bank branch anchor in Japan |
 
 ## 2. Operating model
 
@@ -37,7 +39,7 @@ The banking-side functions include transaction banking support with Japanese fin
 
 ## 3. Why this page matters
 
-- Closes the Canada / RBC P0  foreign-bank branch gap in JapanFG.
+- Closes the Canada / RBC P0 foreign-bank branch gap in JapanFG.
 - Separates Banking Act branch work from RBC Capital Markets securities activity.
 - Adds a useful peer for [[foreign-financial-institutions/wells-fargo-japan]], [[foreign-financial-institutions/bny-mellon-japan]], and [[foreign-financial-institutions/state-street-japan]] in institutional foreign-bank coverage.
 

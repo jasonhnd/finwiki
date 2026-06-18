@@ -1,13 +1,14 @@
 ---
 source: foreign-financial-institutions/jpmorgan-japan
-source_hash: 1622530146492cd3
+source_hash: 396b3ff93894715f
 lang: en
 status: machine
 fidelity: ok
-title: "JP Morgan Japan (JPMorgan Japan)"
-translated_at: 2026-05-31T23:59:49.406Z
+title: "JPMorgan Japan (JP モルガン日本)"
+translated_at: 2026-06-18T23:59:13.055Z
 ---
-# JP Morgan Japan (JPMorgan Japan)
+
+# JPMorgan Japan (JP モルガン日本)
 
 ## Wiki route
 
@@ -15,100 +16,100 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-The Japan operation of **JPMorgan Chase & Co.**, the largest U.S. bank (NYSE: JPM, total assets about 4.0 兆 dollars, G-SIB **Bucket 3** = +2.0% CET1  additional capital). **Guaranty Trust (later one of JP Morgan's predecessors) opened a Tokyo branch in 1924 年** -> re-entered after the war -> expanded mainly in IB and markets from the 2000 年s onward. In Japan it has a 4 -entity structure: **JP Morgan Securities (IB core) + JPMorgan Chase Bank, N.A. Tokyo Branch (corporate bank) + JP Morgan Asset Management + JP Morgan Trust Bank**. Retail banking (Chase Bank) has not launched in Japan and does not compete with Japanese bank retail franchises. It is one corner of the top three foreign IBs (vs [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]) in **M&A advisory / DCM / ECM / FX / institutional investor services**. ^[extracted]
+The Japan base of **JPMorgan Chase & Co.** (NYSE: JPM, total assets of approximately 4.0 兆 dollars, G-SIB **Bucket 3** = +2.0% CET1  additional capital), the largest bank in the United States. **In 1924 年, Guaranty Trust (one of the predecessors of JPMorgan) established a Tokyo branch** → re-entered after the war → expanded from the 2000 年s onward centered on IB and markets. In Japan it operates a 4 -entity structure: **JP Morgan Securities (IB mainstay) + JPMorgan Chase Bank Tokyo Branch (corporate banking) + JP Morgan Asset Management + JPMorgan Trust Bank**. Retail (Chase Bank) is not deployed in Japan, and it does not compete in the Japanese banks' retail domain. In **M&A advisory / DCM / ECM / FX / institutional-investor services**, it is one of the foreign-affiliated "big three" investment banks (vs [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]). ^[extracted]
 
 ## 1. Parent company / global structure
 
-**Parent company**: JPMorgan Chase & Co. (NYSE: JPM, Delaware corporation)
-**Head office**: 383  Madison Avenue, New York (former Bear Stearns building)
-**G-SIB Bucket 3** (FSB designated, +2.0% CET1  additional capital requirement, one of the world's highest tiers) ^[extracted]
-**Major business segments** (global):
+**Parent company**: JPMorgan Chase & Co. (NYSE: JPM, a Delaware, U.S. corporation)
+**Headquarters**: 383  Madison Avenue, New York (the former Bear Stearns building)
+**G-SIB Bucket 3** (designated by the FSB, +2.0% CET1  additional-capital requirement, one of the highest in the world) ^[extracted]
+**Main business segments** (global):
 - Consumer & Community Banking (CCB, U.S. retail)
 - Corporate & Investment Bank (CIB, IB + markets + Treasury Services)
-- Commercial Banking (CB, U.S. mid-market companies)
+- Commercial Banking (CB, U.S. mid-sized enterprises)
 - Asset & Wealth Management (AWM)
 
-The Japan operations mainly belong to the **CIB + AWM** segments; CCB has not launched in Japan.
+The Japan base belongs mainly to the **CIB + AWM** segments; CCB is not deployed in Japan.
 
-### Major Japanese legal entities (4  axis) ^[extracted]
+### Main Japan entity structure (4  pillars) ^[extracted]
 
-| Entity | Business type | Supervisor | Registration |
+| Entity | Business type | Supervising | Registration |
 |---|---|---|---|
-| **J.P. Morgan Securities Japan Co., Ltd.** | Securities / IB | CIB | Financial instruments business operator, Director-General of the Kanto Local Finance Bureau (Kinsho) 第 82 号 |
-| **JPMorgan Chase Bank, N.A. Tokyo Branch** | Foreign bank branch | CIB / Commercial | Foreign bank branch license under Banking Act Article 47  |
-| **J.P. Morgan Asset Management (Japan) Ltd.** | Asset management | AWM | Financial instruments business operator / investment management business |
-| **JPMorgan Trust Bank Ltd.** | Trust / custody | CIB Securities Services | Trust business license / Banking Act |
+| **JP Morgan Securities Co., Ltd.** (J.P. Morgan Securities Japan Co., Ltd.) | securities / IB | CIB | Financial Instruments Business Operator, Director-General of the Kanto Local Finance Bureau (Kinsho) 第 82 号 |
+| **JPMorgan Chase Bank, N.A. Tokyo Branch** (JP Morgan Chase Bank Tokyo Branch) | foreign bank branch | CIB / Commercial | foreign bank branch license under Article 47  of the Banking Act |
+| **JP Morgan Asset Management Co., Ltd.** (J.P. Morgan Asset Management (Japan) Ltd.) | asset management | AWM | Financial Instruments Business Operator / investment-management business |
+| **JPMorgan Trust Bank Ltd.** (JPMorgan Trust Bank Ltd.) | trust / custody | CIB Securities Services | trust-business license / Banking Act |
 
-Head office locations are generally around the Tokyo Building / Marunouchi Park Building area in Marunouchi, Chiyoda-ku, Tokyo.
+The head-office locations are generally in the Marunouchi area of Chiyoda-ku, Tokyo — the **Tokyo Building / Marunouchi Park Building** vicinity.
 
-### Prewar and postwar re-entry
+### Prewar / postwar re-entry
 
-- **1924 年**: Guaranty Trust Company of New York (later one predecessor of JP Morgan) opened a Tokyo branch -> origin of JP Morgan's Japan presence ^[extracted]
-- Operations were suspended during wartime and the immediate postwar turmoil -> postwar re-entry
-- 1959 年: revived as the Tokyo branch of Morgan Guaranty Trust Co. (Guaranty Trust + J.P. Morgan & Co. merger, 1959)
+- **1924 年**: Guaranty Trust Company of New York (one of the predecessors of JPMorgan) established a Tokyo branch → the origin of JPMorgan's Japan base ^[extracted]
+- Suspended operations during the war and the postwar turmoil → re-entered after the war
+- 1959 年: revived as the Tokyo branch of Morgan Guaranty Trust Co. (the merger of Guaranty Trust + J.P. Morgan & Co., 1959)
 
-### 2000 年 JV concept (not realized)
+### The 2000 年 joint-venture concept (not realized)
 
-- Around the same period, the JP Morgan parent merged with Chase Manhattan (2000-12  -> JPMorgan Chase launched)
+- Around the same time, JPMorgan itself merged with Chase Manhattan (2000-12  → JPMorgan Chase established)
 
-### After the 2008-2009  financial crisis: becoming the largest U.S. bank
+### Becoming the largest in the U.S. after the 2008-2009  financial crisis
 
-- **2008-03**: emergency acquisition of Bear Stearns (with FRB backstop, about 22 億 dollars) -> expansion of investment-banking business
-- **2008-09-25**: acquisition of Washington Mutual's banking operations (FDIC-brokered, about 19 億 dollars) -> U.S. retail expansion
-- -> Global CIB capabilities also flowed into the Japan operations, strengthening Tokyo equity / bond / FX desks
+- **2008-03**: rescue acquisition of Bear Stearns (with an FRB backstop, approximately 22 億 dollars) → expansion of investment-banking operations
+- **2008-09-25**: acquisition of Washington Mutual's banking operations (FDIC-brokered, approximately 19 億 dollars) → expansion of U.S. retail
+- → the global CIB functions spilled over to the Japan base as well, strengthening Tokyo's equity / bond / FX desks
 
 ### From 2014 年 onward: international M&A advisory
 
-- Advisory track record in outbound M&A by Japanese companies (Takeda / Shire, SoftBank-related deals, etc.)
+- A track record of advisory work in Japanese companies' outbound M&A (Takeda / Shire, SoftBank-related, etc.)
 
-### 2020-2024: expanding Japan share in institutional investor services, FX, and fixed income
+### 2020-2024: expanding Japan share in institutional-investor services / FX / fixed income
 
-- Custody and securities settlement for institutional investors (JP Morgan Trust Bank)
-- FX market making (Tokyo desk)
-- Fixed-income / bond sales and trading
+- Custody / securities settlement for institutional investors (JPMorgan Trust Bank)
+- FX market-making (Tokyo desk)
+- Fixed income / bond sales and trading
 
-### Business scope in Japan
+### Scope of operations in Japan
 
-| Area | Main entity | Competition / features |
+| Area | Entity | Competition / characteristics |
 |---|---|---|
-| **M&A advisory** | JP Morgan Securities | Competes with the top three foreign IBs ([[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]) + Japanese bank-affiliated IBs (MUMSS / [[megabanks/mufg]]・[[megabanks/smfg]] Nikko / Daiwa / [[megabanks/mizuho-fg]]) |
-| **DCM (bond underwriting)** | JP Morgan Securities | Yen bonds / foreign bonds, Samurai bonds |
+| **M&A advisory** | JP Morgan Securities | competes with the foreign-affiliated "big three" investment banks ([[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]) + Japanese-affiliated IBs (MUMSS / [[megabanks/mufg]] · [[megabanks/smfg]] Nikko / Daiwa / [[megabanks/mizuho-fg]]) |
+| **DCM (bond underwriting)** | JP Morgan Securities | yen bonds / foreign bonds, samurai bonds |
 | **ECM (equity underwriting)** | JP Morgan Securities | IPOs / global offerings |
-| **Markets (FX / bonds / equities)** | JP Morgan Securities + Tokyo Branch | Asia-time-zone coverage from Tokyo desk |
-| **Corporate banking (corporate lending / syndication)** | Chase Bank Tokyo Branch | Competes and collaborates with Japanese banks (syndicated-loan participation / arranger roles) |
-| **Transaction banking** (Treasury Services) | Chase Bank Tokyo Branch | Global payments and cash management |
-| **Asset management** | JP Morgan AM | One of the major foreign managers in Japan's investment-trust market |
-| **Trust / custody** | JP Morgan Trust Bank | Asset administration and global custody for institutional investors |
-| **Retail (Chase Bank)** | **Not launched in Japan** | Does not compete with Japanese bank retail franchises |
+| **Markets (FX / bonds / equities)** | JP Morgan Securities + Tokyo Branch | covering the Asian time zone from the Tokyo desk |
+| **Corporate banking (corporate loans / syndication)** | Chase Bank Tokyo Branch | competition with Japanese banks + collaboration (participation in / arranging syndicated loans) |
+| **Transaction banking** (Treasury Services) | Chase Bank Tokyo Branch | global settlement / cash management |
+| **Asset management** | JP Morgan AM | one of the major foreign players in the Japanese investment-trust market |
+| **Trust / custody** | JPMorgan Trust Bank | asset administration / global custody for institutional investors |
+| **Retail (Chase Bank)** | **not deployed in Japan** | does not compete in the Japanese banks' retail domain |
 
 ### Competition and collaboration
 
-- **Competition**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/ubs-japan]] (foreign IBs) / MUMSS ([[megabanks/mufg]] x Morgan Stanley JV) / [[megabanks/smfg]] Nikko / [[megabanks/mizuho-fg]] / Daiwa Securities / Nomura
-- **Collaboration**: joint syndicated-loan arrangements with Japanese banks, co-advisory on cross-border M&A, mutual supply of products for institutional investors
+- **Competition**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/ubs-japan]] (foreign-affiliated IBs) / MUMSS (the [[megabanks/mufg]] × Morgan Stanley JV) / [[megabanks/smfg]] Nikko / [[megabanks/mizuho-fg]] / Daiwa Securities / Nomura
+- **Collaboration**: joint arranging of syndicated loans with Japanese banks, joint advisory in cross-border M&A, mutual supply of products for institutional investors
 
 ### Strengths / characteristics
 
-- Global CIB network (NY / London / HK / Singapore / Tokyo operated in an integrated way)
-- High credit ratings (parent company A+ / A1  class) -> confidence for institutional investors and large corporate clients
-- Top-tier Asian research / equity research
-- Balance-sheet depth (global total assets about 4.0 兆 dollars)
+- A global CIB network (NY / London / HK / Singapore / Tokyo operated as one)
+- High credit ratings (parent company A+ / A1  class) → a sense of security for institutional-investor and large-corporate clients
+- Top tier in the Asian region for research / equity analysis
+- The depth of its balance sheet (global total assets of approximately 4.0 兆 dollars)
 
 ### Weaknesses / constraints
 
-- No Japanese retail base -> no individual deposits or residential mortgages
-- Follows behind Japanese banks' deep long-term relationship banking (main-bank relationships)
-- Flexibility constrained under Japan-specific regulation (Financial Instruments and Exchange Act / Banking Act foreign-bank-branch rules)
+- No Japanese retail base → personal deposits / mortgages not deployed
+- Catching up to Japanese banks' long-cultivated relationships (main-bank relationships)
+- Constraints on flexibility under Japan-specific regulation (the Financial Instruments and Exchange Act / Banking Act foreign-bank-branch regulation)
 
 ## 4. Regulation and policy
 
-- **Supervisor**: Financial Services Agency (FSA) / Kanto Local Finance Bureau
-- **Securities**: Type I financial instruments business operator under the Financial Instruments and Exchange Act
-- **Banking**: Foreign bank branch license under Banking Act Article 47  (Tokyo Branch)
-- **Trust**: Trust Business Act / Banking Act
-- **Asset management**: FIEA investment management business
+- **Supervising**: the Financial Services Agency (FSA) / the Kanto Local Finance Bureau
+- **Securities**: under the Financial Instruments and Exchange Act (Kinsho Act), a Type I Financial Instruments Business Operator
+- **Banking**: foreign bank branch license under Article 47  of the Banking Act (Tokyo Branch)
+- **Trust**: the Trust Business Act / the Banking Act
+- **Asset management**: investment-management business under the Kinsho Act
 - **Recent policy issues**:
-  - From 2024: BOJ policy-rate normalization -> revenue opportunities for yen-bond desks and FX market making
-  - From 2023: TSE market reform and PBR below 1 x measures -> M&A advisory demand
+  - 2024– the Bank of Japan's policy-rate normalization → revenue opportunities for the yen-bond desk and FX market-making
+  - 2023– TSE market reform / measures against a PBR below 1 x → demand for M&A advisory
 
 ## Related
 
@@ -117,13 +118,13 @@ Head office locations are generally around the Tokyo Building / Marunouchi Park 
 
 ## Sources
 
-- **Wikipedia: JPMorgan Chase & Co.** (https://en.wikipedia.org/wiki/JPMorgan_Chase, extracted 2026-05-19)
-- **Wikipedia: J.P. Morgan Securities Japan** (public information, extracted 2026-05-19)
+- **Wikipedia: JPMorgan Chase & Co.**（https://en.wikipedia.org/wiki/JPMorgan_Chase, extracted 2026-05-19）
+- **Wikipedia: J.P. Morgan Securities Japan**（public information, extracted 2026-05-19）
 - JPMorgan Chase & Co. 2024  Annual Report / Form 10-K
-- FSA "License / authorization business operator lists" (public)
+- FSA, "List of Licensed and Registered Business Operators" (public)
 - FSB G-SIB List 2024 (Bucket 3  designation)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  public information only, created 2026-05-19). The 4 -entity Japan structure and historical timeline are based on Wikipedia + FSA registrations. Details such as Japan revenue and staffing scale are limited in foreign-bank-branch disclosures and require EDINET / FSA cross-disclosure refinement.
+> confidence: **likely** (v1.0 , public information only, prepared 2026-05-19). The Japan 4 -entity structure and historical chronology are based on Wikipedia + FSA registration. Details such as Japan revenue and headcount are limited in disclosure on a foreign-bank-branch basis, and should be refined by cross-referencing EDINET / FSA disclosures.

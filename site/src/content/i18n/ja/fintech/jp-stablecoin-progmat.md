@@ -1,19 +1,19 @@
 ---
 source: fintech/jp-stablecoin-progmat
-source_hash: 7ea5036bdc325cba
+source_hash: 6b58087deca62613
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社Progmat — デジタルアセットプラットフォーム概要"
-translated_at: 2026-06-02T13:21:55.095Z
+translated_at: 2026-06-18T23:59:13.111Z
 ---
 
 # 株式会社Progmat — デジタルアセットプラットフォーム概要
 
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は[[fintech/INDEX|fintech index]]配下に位置づけられる。隣接する文脈は[[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]とあわせて読む。
+本エントリは [[fintech/INDEX|fintech index]] の配下にある。隣接する文脈として [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と、より広いシステム境界として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読むこと。
 
 > JVCEA 非加盟 · 暗号資産交換業者ではない · デジタルアセット発行プラットフォーム提供事業者 · 設立 2023-10-02 · 東京都千代田区丸の内
 
@@ -22,7 +22,7 @@ translated_at: 2026-06-02T13:21:55.095Z
 - **商号**: 株式会社Progmat（英文: Progmat, Inc.）
 - **設立日**: 2023年10月2日
 - **本店所在地**: 〒100-0005 東京都千代田区丸の内1-6-5 丸の内北口ビルディング9階（WeWork内）
-- **代表取締役 創業者兼 CEO**: 齊藤 達哉（Tatsuya Saito）
+- **代表取締役 Founder and CEO**: 齊藤 達哉（Tatsuya Saito）
 
 **株主構成**（公表分 · 概算）:
 
@@ -33,7 +33,7 @@ translated_at: 2026-06-02T13:21:55.095Z
 | みずほ信託銀行 | 約15% | 共同委託銀行 |
 | NTT Data | 約10% | 技術パートナー |
 | JPX（日本取引所グループ） | 約5% | 取引所パートナー |
-| Dataチェーン | 約3% | クロスチェーン技術 |
+| Datachain | 約3% | クロスチェーン技術 |
 
 > **設計意図**: MUTB 49%は意図的（FSA指導）。三大メガバンクが対等なポジションを持ちつつ、MUFG単独支配を回避。SMBC・Mizuhoが「MUFG子会社」ではなく独立法人として使えることが分権型インフラの根拠となる（→ [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]]参照）。
 
@@ -104,10 +104,10 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 **業務外**: 自社による暗号資産取引・交換・保管（JVCEA非加盟のため）
 
 **Project Pax（クロスボーダー）** — SWIFT API 互換通道の詳細は [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]] 参照:
-- 2024-09: Dataチェーン・TOKI連携で日韓間SC転送パイロット開始
+- 2024-09: Datachain・TOKI連携で日韓間SC転送パイロット開始
 - 2025-02: 韓国金融機関とのMOU締結
-- 2025-03: 香港 – 日本間貿易決済実証（IDA・Dataチェーン・TOKI連携）
-- 2026-02: Ava Labs・Dataチェーン戦略パートナーシップ（パブリックチェーン金融インフラ加速）
+- 2025-03: 香港 – 日本間貿易決済実証（IDA・Datachain・TOKI連携）
+- 2026-02: Ava Labs・Datachain戦略パートナーシップ（パブリックチェーン金融インフラ加速）
 
 **最新展開（2026）**:
 - 2026-04: トークン化株式・「トークン化法」中間整理公表
@@ -144,7 +144,7 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 | 2024-09 | Project Pax開始（Datachain連携クロスボーダーSCパイロット） |
 | 2024-11 | 「Progmat SaaS」と「実装支援サービス」ローンチ（"国家インフラ"化宣言） |
 | 2025-10 | 国内初 個人向け銀行劣後社債のST（MUFG 100億円） |
-| 2026-02 | Ava Labs・Dataチェーン戦略パートナーシップ締結（パブリックチェーン展開加速） |
+| 2026-02 | Ava Labs・Datachain戦略パートナーシップ締結（パブリックチェーン展開加速） |
 | 2026-03 | TMI総合法律事務所と不動産ST事業参入支援開始 |
 | 2026-04 | トークン化株式の「中間整理」公表・トークン化法の検討着手 |
 | 2026-05 | トークン化国債のオンチェーン・レポ取引共同検討開始 |
@@ -170,22 +170,22 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 | 氏名 / 役職 | 肩書 | 備考 |
 |---|---|---|
-| 齊藤 達哉（Tatsuya Saito） | 代表取締役 創業者兼 CEO | 三菱UFJ信託銀行出身。前身プロジェクト主導→独立法人化CEO |
+| 齊藤 達哉（Tatsuya Saito） | 代表取締役 Founder and CEO | 三菱UFJ信託銀行出身。前身プロジェクト主導→独立法人化CEO |
 | 代表取締役（非常勤）× 1名 | — | 株主行派遣 |
 | 取締役（非常勤）× 4名 | — | 株主行・パートナー法人派遣 |
 | 監査役（非常勤）× 1名 | — | |
 | CFO & CRO | — | |
 | CTO | — | |
-| VP, 日本事業開発 | — | |
+| VP, Japan Business Development | — | |
 
 > 個人名はCEO以外は変動の可能性が高いため役職のみで要約。詳細は [[payment-firms/progmat|JapanFG / progmat]] と公式IRで確認。
 
 ---
 
-## 関連項目
+## 関連
 
-- [[payment-firms/progmat|株式会社Progmat]] — JapanFG 企業アンカー
-- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 規制信託銀行の境界
+- [[payment-firms/progmat|株式会社Progmat]] — JapanFG company anchor
+- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — regulated trust-bank boundary
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]] — Progmat Coinの法的根拠（第3号EPI・特定信託受益権）の詳細解説
 - [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]] — MUTB 49% 設計の意図と三大行ガバナンス構造
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]] — JPYC・DCJPY・Progmat Coinの制度的位置付け比較
@@ -194,7 +194,7 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 ---
 
-## 出典
+## Sources
 
 - [Progmat 会社概要（About Us）](https://progmat.co.jp/about/)（取得 2026-05-18）
 - [Progmat Concept（ST/UT/SC実績）](https://progmat.co.jp/concept/)（取得 2026-05-18）
@@ -208,4 +208,4 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 ---
 
-**最終更新** (2026-05-25): 監査に従い取締役等の記載を絞り込み（5名以上の社外取締役実名記載を役割のみの要約に置換し、CEO 名のみを維持）、日付を更新。
+**Last refresh** (2026-05-25): tightened board personnel listing per audit (replaced 5+ named non-executive directors with roles-only summary; kept CEO name only); refreshed dates.

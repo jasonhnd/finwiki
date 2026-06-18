@@ -1,76 +1,74 @@
 ---
 source: financial-regulators/fsa-strategy-bureau
-source_hash: d1ac3c4c4ea67193
+source_hash: 32e20154b17abfbb
 lang: zh
 status: machine
 fidelity: ok
-title: "综合政策局（FSA Strategy Development and Management Bureau）"
-translated_at: 2026-05-31T15:29:03.888Z
+title: "综合政策局 (FSA Strategy Development and Management Bureau)"
+translated_at: 2026-06-18T23:59:13.059Z
 ---
 
-# 综合政策局（FSA Strategy Development and Management Bureau）
+# 综合政策局 (FSA Strategy Development and Management Bureau)
 
-## Wiki 路线
-
-本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。请与 [[financial-regulators/fsa-supervision-bureau|FSA 监督局]] 作为监督侧对应部门对照阅读，并与 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企划市场局]] 作为规则制定侧对应部门对照阅读。日本银行侧的国际政策路线可参照 [[financial-regulators/boj-international-dept|BoJ 国际局]]，更广泛的监管边界见 [[financial-licenses/INDEX|法律 / 金融牌照]]。
+## Wiki route
+本条目归属于 [[financial-regulators/INDEX|financial-regulators INDEX]]。请将其与 [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]（监管侧的对应方）以及 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]]（规则制定侧的对应方）对照阅读。关于 BoJ 侧的国际政策赛道，通过 [[financial-regulators/boj-international-dept|BoJ 国際局]] 加以锚定；关于更广阔的监管周界，通过 [[financial-licenses/INDEX|legal / financial licenses]] 加以锚定。
 
 ## TL;DR
 
-Strategy Development and Management Bureau（综合政策局）是金融厅在 2018 年 7 月组织重组中设立的跨局协调与战略部门。其职能包括金融厅整体战略规划、跨局政策协调、国际金融政策、金融教育、FinTech / 可持续金融战略，以及风险分析和 horizon scanning。
+综合政策局是金融厅跨局协调与战略之局，于 2018 年 7 月金融厅组织改组中设立。它主管金融厅全局战略规划、跨局政策协调、国际金融政策、金融教育、FinTech / 可持续发展战略，以及金融厅的风险分析 / 前瞻扫描职能。
 
-对 JapanFG 来说，当页面需要引用金融厅层面的战略而非具体规则制定或监督执法时，本局是最合适的锚点。例如金融系统政策方向、金融素养政策、可持续披露路线图，以及金融厅参与国际标准制定机构的协调，都应优先连接到本页。
+对 JapanFG 而言，每当某一页面需要引用金融厅层面的战略（而非规则制定或监管）时——例如金融厅的金融体系政策方向、金融素养举措、可持续发展披露路线图，或金融厅侧与国际准则制定主体的协调——本局便是恰当的锚点。
 
-## 1. 职能范围
+## 1. 职能 / 范围
 
-金融厅英文组织图将 Strategy Development and Management Bureau 定位为负责以下事项的部门：
+金融厅的英文组织图将综合政策局认定为主管以下事项之局：
 
-- 金融厅整体战略和政策方向，包括年度 *Strategic Priorities* 文件。
-- 在 [[financial-regulators/fsa-supervision-bureau|监督局]] 与 [[financial-regulators/fsa-planning-coordination-bureau|企划市场局]] 之间协调横跨监督、规则制定和政策的问题。
-- 国际金融政策，包括 FSB、IOSCO、IAIS、FATF、OECD 工作，以及与海外监管机构的双边 / 多边合作。它是金融厅侧对应 BoJ [[financial-regulators/boj-international-dept|国际局]] 的政策接口。
-- 风险分析与前瞻扫描，包括数字资产、金融 AI、气候相关金融风险和网络韧性等跨行业议题。
-- 金融教育政策、消费者保护战略，以及相关跨部门框架协调。
-- 金融厅人事、培训和内部管理职能。
+- 金融厅全局战略与政策方向，包括为来年金融厅优先事项定调的年度 *Strategic Priorities*（战略重点）文件。
+- 就横跨监管、规则制定与政策的议题，在 [[financial-regulators/fsa-supervision-bureau|監督局]] 与 [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] 之间进行跨局协调。
+- 国际金融政策：FSB、IOSCO、IAIS、FATF、OECD 的工作，以及与外国监管机构的双边 / 多边合作。这是 BoJ 的 [[financial-regulators/boj-international-dept|国際局]] 在金融厅侧的对应方（不同机构，主题部分重叠）。
+- 风险分析与前瞻扫描职能——包括对数字资产、金融中的 AI、气候相关金融风险、网络韧性等新兴议题的跨部门监测。
+- 金融教育政策（与相关跨机构框架协同），以及金融厅全局层面的消费者保护战略。
+- 金融厅的人事、培训与内部管理职能。
 
-该局的任务刻意保持宽口径。2018 年重组正是为了在原有结构上增加一个战略与横向协调层。
+本局被有意赋予广泛职权：2018 年的改组正是为了给金融厅提供一个先前三局体制所缺乏的战略 / 横切层而设立了本局。
 
-## 2. 对手方与互动
+## 2. 对手方 / 互动
 
-其互动对象更多是机构层面，而非单一公司层面：
+对手方互动更偏机构层面而非公司层面：
 
-- **海外监管机构和标准制定者**：FSB、IOSCO、IAIS、FATF、OECD，以及 Fed、ECB、BoE、MAS、HKMA、SFC 等主要海外监管机构。
-- **其他日本政府机构**：METI 负责 FinTech / 数字产业政策，MOF 负责国际金融政策和外汇议题，BoJ 负责 Basel 和 CPMI 相关工作，另有跨部门金融教育框架。
-- **金融厅内部**：与 [[financial-regulators/fsa-supervision-bureau|监督局]] 和 [[financial-regulators/fsa-planning-coordination-bureau|企划市场局]] 的跨局工作组，以及与证券交易等监视委员会、[[financial-regulators/cpaaob|CPAAOB]] 等附属机构的联络。
-- **面向产业的战略接口**：FinTech Support Desk、Sandbox programme、可持续金融工作组和金融素养项目。这些是战略 / 政策接口，不是监督局承担的法定监督。
+- **外国监管机构与准则制定主体**：FSB（设于巴塞尔）、IOSCO（证券）、IAIS（保险）、FATF（AML / CFT）、OECD；与主要外国监管机构（包括 Fed、ECB、BoE、MAS、HKMA、SFC）签订的双边 MoU。
+- **其他日本当局**：FinTech / 数字产业政策方面与 METI，国际金融政策与 FX 议题方面与财务省，巴塞尔与 CPMI 工作方面与 BoJ（[[financial-regulators/boj-international-dept|国際局]]），以及跨机构的金融教育框架。
+- **金融厅内部**：与 [[financial-regulators/fsa-supervision-bureau|監督局]] 及 [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] 的跨局工作组，加上与证券交易等监视委员会以及 [[financial-regulators/cpaaob|CPAAOB]] 等附属机构的联络。
+- **面向业界的战略接口**：FinTech 支援台、沙盒计划、可持续金融工作组、金融素养举措。这些是战略 / 政策接口，而非法定监管（后者归属于监督局）。
 
-综合政策局不发出业务改善命令，也不执行现场检查。
+本局既不发出业务改善命令，也不实施现场检查。
 
-## 3. 为什么重要
+## 3. 本页为何重要
 
-- 它是说明“金融厅战略和国际政策现在由哪里承载”的最清晰公开锚点。
-- 2018 年设立该局，是 JapanFG 比较改革前后金融厅政策姿态时的重要结构断点。
-- 它把战略 / 国际政策、规则制定（[[financial-regulators/fsa-planning-coordination-bureau|企划市场局]]）和监督（[[financial-regulators/fsa-supervision-bureau|监督局]]）区分为三条不同路线。
-- FinTech、可持续金融和数字资产战略在进入具体 rule-making 或 enforcement 之前，通常应先归入本局。
+- 它是「金融厅战略与国际政策如今落于何处」最清晰的公开锚点——每当 JapanFG 页面引用金融厅全局优先事项或准则制定主体协调时都需要它。
+- 它记录了本局于 2018 年的设立，这是每当某页面比较改革前与改革后金融厅政策姿态时 JapanFG 所需的结构性断点。
+- 它将战略 / 国际政策（本局）与规则制定（[[financial-regulators/fsa-planning-coordination-bureau|企画市場局]]）以及监管（[[financial-regulators/fsa-supervision-bureau|監督局]]）切分开——这是 JapanFG 页面常需厘清的三条不同赛道。
+- 它为尚未进入规则制定或执法阶段的 FinTech / 可持续发展 / 数字资产战略引用提供了恰当的归属，以免页面将其过度归因于监管或规则制定之局。
 
-## 相关
+## Related
+- [[financial-regulators/fsa-supervision-bureau|FSA 監督局 (Supervision Bureau)]]
+- [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局 (Planning and Coordination Bureau)]]
+- [[financial-regulators/fsa-inspection-bureau|FSA 検査局 (Inspection Bureau — historical)]]
+- [[financial-regulators/cpaaob|公認会計士・監査審査会 (CPAAOB)]]
+- [[financial-regulators/boj-international-dept|BoJ 国際局 (International Department)]]
+- [[financial-licenses/INDEX|legal / financial licenses]]
+- [[banking/INDEX|Banking landscape]]
+- [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 
-- [[financial-regulators/fsa-supervision-bureau|FSA 监督局]]
-- [[financial-regulators/fsa-planning-coordination-bureau|FSA 企划市场局]]
-- [[financial-regulators/fsa-inspection-bureau|FSA 检查局（历史）]]
-- [[financial-regulators/cpaaob|公认会计士・监查审查会（CPAAOB）]]
-- [[financial-regulators/boj-international-dept|BoJ 国际局]]
-- [[financial-licenses/INDEX|法律 / 金融牌照]]
-- [[banking/INDEX|银行版图]]
-- [[exchanges/fsa-vasp-registration-system|FSA VASP 注册制度]]
+## Sources
 
-## 来源
-
-- FSA, "Organization Chart" (English) — https://www.fsa.go.jp/en/about/orgchart.html
+- FSA, "Organization Chart"（英文）— https://www.fsa.go.jp/en/about/orgchart.html
 - FSA, "Annual Report" — https://www.fsa.go.jp/en/about/annual.html
-- FSA, "Policy" (English) — https://www.fsa.go.jp/en/policy/index.html
+- FSA, "Policy"（英文）— https://www.fsa.go.jp/en/policy/index.html
 - FSA, "What's New" — https://www.fsa.go.jp/en/news/index.html
-- FSA (Japanese), "Organization" — https://www.fsa.go.jp/common/about/sosiki/index.html
+- FSA（日文）, "组织" — https://www.fsa.go.jp/common/about/sosiki/index.html
 
 ---
 
-> [!info] 校验状态
-> confidence: **likely**。当前金融厅英文材料使用 "Strategy Development and Management Bureau" 作为该局英文名称。2018 年以前资料不会出现完全对应部门，因为本局是在 2018 年重组中设立。建议每年随 *Strategic Priorities* 和 *Annual Report* 更新。
+> [!info] 校核状态
+> confidence: **likely**。本局的英文名称在现行金融厅资料中为 "Strategy Development and Management Bureau"；2018 年之前的引用将找不到对应之局，因为本局是在 2018 年的改组中设立的。每当下一份 *Strategic Priorities* 与 *Annual Report* 发布时，按年度刷新。

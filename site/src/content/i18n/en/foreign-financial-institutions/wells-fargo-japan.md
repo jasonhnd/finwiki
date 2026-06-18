@@ -1,13 +1,13 @@
 ---
 source: foreign-financial-institutions/wells-fargo-japan
-source_hash: 5456f932c5e6d9e4
+source_hash: 94839bc0a741b453
 lang: en
 status: machine
 fidelity: ok
-title: "Wells Fargo Bank, N.A., Tokyo Branch"
-translated_at: 2026-06-01T02:31:57.124Z
+title: "Wells Fargo Bank, Tokyo Branch (Wells Fargo Bank, N.A., Tokyo Branch)"
+translated_at: 2026-06-18T23:59:13.076Z
 ---
-# Wells Fargo Bank, N.A., Tokyo Branch
+# Wells Fargo Bank, Tokyo Branch (Wells Fargo Bank, N.A., Tokyo Branch)
 
 ## Wiki route
 
@@ -15,105 +15,105 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-A branch in Japan of **Wells Fargo & Company** (NYSE: WFC, G-SIB Bucket 1), a part of the large U.S. commercial bank 4 . **Corporate-specialized** Our main focus is to support US companies expanding into Japan and to support Japanese banks and Japanese companies in their US operations. Retail (for individuals) is not available in Japan. Transaction banking, foreign exchange/trade finance, and global cash management are the mainstays of 3 . The United States itself is facing management issues due to the fake account incident after 2016 年, but after 2024 年, it is entering a regrowth phase with a view to lifting the Federal Reserve's asset limit. Its presence in Japan is smaller than that of Citi [[foreign-financial-institutions/citigroup-japan]] / JP Morgan [[foreign-financial-institutions/jpmorgan-japan]] / Bank of America, and has a niche specialized in wholesale. ^[extracted]
+The Japan branch of **Wells Fargo & Company** (NYSE: WFC, G-SIB Bucket 1), one of the US 4  largest commercial banks. It is **corporate-focused**, with its main axes being support for US companies expanding into Japan and support for the US operations of Japanese banks and Japanese companies. Retail (consumer) is not offered in Japan. Transaction banking, FX / trade finance, and global cash management are its 3  pillars. The US parent carries management challenges from the fake-account scandal since 2016 年, while since 2024 年 it has entered a re-growth phase with an eye on the lifting of the Federal Reserve's asset cap. Its Japan presence is small-scale compared with Citi [[foreign-financial-institutions/citigroup-japan]] / JPMorgan [[foreign-financial-institutions/jpmorgan-japan]] / Bank of America — a wholesale-focused niche. ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name (in Japan)**: Wells Fargo Bank Tokyo Branch
+**Formal name (in Japan)**: Wells Fargo Bank, Tokyo Branch
 **English name**: Wells Fargo Bank, N.A., Tokyo Branch
-**Parent company**: Wells Fargo & Company (Delaware corporation, NYSE: WFC)
-**Parent company headquarters**: San Francisco, California, USA
-**Branch type**: Branch of a US corporation in Japan (branch, not subsidiary)
-**Supervision**: Financial Services Agency (FSA)/Parent company is OCC (Office of the Comptroller of the Currency)/FRB
-**Location**: Tokyo (based in Marunouchi/Otemachi area)
+**Parent**: Wells Fargo & Company (US Delaware corporation, NYSE: WFC)
+**Parent head office**: San Francisco, California, USA
+**Branch form**: a Japan branch of a US corporation (a branch, not a subsidiary)
+**Primary supervisor**: the FSA / the parent is under the OCC (Office of the Comptroller of the Currency) and the FRB
+**Location**: Tokyo (a Japan base in the Marunouchi / Ōtemachi area)
 
-### Parent Company Wells Fargo & Company Overview ^[extracted]
+### Parent Wells Fargo & Company overview ^[extracted]
 
-| Item | Contents |
+| Item | Content |
 |---|---|
-| Official name | Wells Fargo & Company |
-| Listing | NYSE: WFC (S&P 500  constituents) |
-| Headquarters | San Francisco, California, USA |
-| Founding | 1852-03-18 (Founded in New York by Henry Wells + William Fargo) |
-| G-SIB | Bucket 1 (FSB certified, +1.0% CET1  additional capital requirement) |
-| US ranking | US 4  One of the large commercial banks (along with JPMorgan Chase / Bank of America / Citigroup) |
-| Strengths | World's largest U.S. home loan, small business loan, nationwide branch network |
-| Employees (total) | Approximately 22 万 personnel size |
+| Formal name | Wells Fargo & Company |
+| Listing | NYSE: WFC (an S&P 500  constituent) |
+| Head office | San Francisco, California, USA |
+| Founded | 1852-03-18 (founded in New York by Henry Wells + William Fargo) |
+| G-SIB | Bucket 1 (FSB designation, +1.0% CET1  additional capital requirement) |
+| US ranking | one of the US 4  largest commercial banks (alongside JPMorgan Chase / Bank of America / Citigroup) |
+| Strength areas | among the world's largest in US mortgages, small-business lending, a nationwide US branch network |
+| Employees (total) | approx. 22 万 in scale |
 
-### Main business line (parent company) ^[extracted]
+### Main business lines (parent) ^[extracted]
 
-````
-Wells Fargo & Company (Holding company/NYSE: WFC)
+```
+Wells Fargo & Company (holding company · NYSE: WFC)
   └── Wells Fargo Bank, N.A. (core banking subsidiary)
-        ├── Consumer Banking and Lending (U.S. personal/mortgage)
-        ├── Commercial Banking (for medium-sized companies)
-        ├── Corporate and Investment Banking (Large companies/IB)
-        │ └── Wells Fargo Securities (Securities/Capital Markets)
+        ├── Consumer Banking and Lending (US consumer / mortgages)
+        ├── Commercial Banking (for mid-sized companies)
+        ├── Corporate and Investment Banking (large companies / IB)
+        │     └── Wells Fargo Securities (securities / capital markets)
         ├── Wealth and Investment Management
-        └── International (including overseas bases and Tokyo)
-              └── Wells Fargo Bank Tokyo Branch
-````
+        └── International (overseas bases, including Tokyo)
+              └── Wells Fargo Bank, Tokyo Branch
+```
 
-## 2. Business Segment Map (Tokyo Branch)
+## 2. Business segment map (Tokyo Branch)
 
-| Services | Contents | Main customers |
+| Service | Content | Main customers |
 |---|---|---|
-| Transaction Banking | Payment/Account Management/Liquidity | US/Japanese Companies |
-| Foreign exchange/FX | Spot forward hedging | Japanese companies with US headquarters and American companies expanding into Japan |
-| Trade Finance | Import/Export Letters of Credit/Supply Chain Finance | Trading Companies |
-| Global Cash Management | Multicurrency Fund Concentration/Netting | Multinational Companies |
-| Correspondent for the US | US dollar settlement backup for Japanese banks | General Japanese banks |
-| Retail (individual) | **Not available in Japan** | - (U.S. only) |
+| Transaction banking | Settlement, account management, liquidity | US-Japan companies |
+| FX | Spot, forward, hedging | Japanese firms with a US parent / US firms expanding into Japan |
+| Trade finance | Import / export letters of credit, supply-chain finance | Trading companies |
+| Global cash management | Multi-currency cash pooling, netting | Multinational companies |
+| US-facing correspondent | Backup for Japanese banks' USD settlement | Japanese banks broadly |
+| Retail (consumer) | **Not offered in Japan** | – (US parent only) |
 
-It is definitely different from Japanese city banks and Citibank Japan (formerly SMBC Trust Bank) in that it does not have retail operations. While it has a huge retail network in the US, it is completely specialized in B2B (corporate) in Japan.
+The absence of retail is the decisive difference from Japanese city banks and Citibank Japan (the former entity sold to SMBC Trust). While the US parent has a vast retail network at home, in Japan it is entirely a B2B (corporate) specialist.
 
-### Parent company/U.S. Wells Fargo History ^[extracted]
+### Parent / US Wells Fargo history ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1852-03-18 | Wells, Fargo & Co. founded by Henry Wells + William Fargo (New York, originally a financial and transportation business for the western frontier) |
-| 19  Late half of the century | Became a prestigious name in the western United States for its stagecoach and postal services (origin of the stagecoach in the corporate logo) |
-| 1905 | Separation of banking and transportation operations |
-| 1969 | Wells Fargo & Company becomes a holding company |
-| 1986 | Acquisition of Crocker National |
-| 1996 | Acquisition of First Interstate Bancorp |
-| **1998** | **Merger with Norwest Corporation** (Substantive integration led by the former Norwest. Headquarters in San Francisco, name Wells Fargo inherited. Starting point for the current system, Wells Fargo) |
-| 2008-12  | **Acquisition of Wachovia (under financial crisis, approx. 151 億 dollars)** → 4  joins a large commercial bank in the United States |
-| **2016-09** | **Fake account incident discovered** (Opened more than 200 万 accounts without customer consent due to excessive employee quotas, fined by CFPB/OCC/LA City of $1.85 億) |
-| 2018-02 | **The Fed imposes an asset cap on total assets of $1.95 兆** (Growth restriction until governance reform is completed. Largest penalty for US megabanks) |
-| 2019-10  | Charlie Scharf appointed CEO (formerly BNY Mellon/Visa) |
-| 2020-2023  | Cost reduction, compliance enhancement, branch reduction, staff restructuring |
-| **2025** | **FRB asset ceiling lifted observation (conditional)**→ Regrowth phase |
+| 1852-03-18 | Wells, Fargo & Co. established by Henry Wells + William Fargo (New York; initially finance / transport for the western frontier) |
+| latter half of the 19 th century | Becomes a prominent name across the American West via the stagecoach / mail business (the origin of the stagecoach in the corporate logo) |
+| 1905 | Separated the banking business from the transport business |
+| 1969 | Wells Fargo & Company became a holding company |
+| 1986 | Acquired Crocker National |
+| 1996 | Acquired First Interstate Bancorp |
+| **1998** | **Merger with Norwest Corporation** (in substance an integration led by the former Norwest; the head office in San Francisco and the Wells Fargo name were carried over; the starting point of the present-day Wells Fargo) |
+| 2008-12 | **Acquired Wachovia (during the financial crisis, approx. 151 億 dollars)** → entered the US 4  largest commercial banks |
+| **2016-09** | **The fake-account scandal comes to light** (overheated employee quotas led to the opening of 200 万+ accounts without customer consent; a total of 1.85 億 dollars in fines from the CFPB / OCC / the City of LA) |
+| 2018-02 | **The FRB imposed an asset cap of 1.95 兆 dollars in total assets** (growth restricted until governance reform is complete; the largest penalty on a US megabank) |
+| 2019-10 | Charlie Scharf became CEO (formerly BNY Mellon / Visa) |
+| 2020-2023 | Cost cuts, strengthened compliance, branch reductions, staff restructuring |
+| **2025** | **Speculation of the FRB lifting the asset cap (conditional)** → a re-growth phase |
 
-### Parent company overall strategy
+### Parent's overall strategy
 
-- **U.S. Domestic Concentration**: Most dependent on U.S. revenue among the 4  large U.S. commercial banks (vs. JPMorgan/Citi's Global IB)
-- **World's largest retail mortgage loan**: Overwhelming share of small business loans and mortgage loans in the US market
-- **Restructuring under asset cap regulations**: Balance sheet expansion is restricted due to penalties from 2018-02 → Focus on cost reduction and strengthening compliance
-- **2024~25  regrowth**: Investment capacity is expected to recover in Asia and international business as asset ceiling is expected to be lifted
+- **US-domestic-focused**: among the US 4  largest commercial banks, it has the highest dependence on US domestic revenue (vs the global IB of JPMorgan / Citi)
+- **Among the world's largest in retail / mortgages**: in the US market it has an overwhelming share in small-business lending and mortgages
+- **Restructuring under the asset cap**: due to the penalty from 2018-02〜, balance-sheet expansion is restricted → focusing on cost cuts and strengthened compliance
+- **Re-growth 2024〜25 **: with speculation of the asset cap being lifted, investment capacity for Asia / international operations is expected to recover
 
 ### Strategic positioning in Japan
 
-- **Corporate specialized niche**: Specializing in US Japanese companies (US head office/Japanese subsidiary) + US business support for Japanese banks
-- **Conflict**:
-  - [[foreign-financial-institutions/citigroup-japan]] (City): Also specialized in corporations, larger scale/global IB strong
-  - [[foreign-financial-institutions/jpmorgan-japan]] (JP Morgan): Largest global IB/M&A/trading company
-  - Bank of America Tokyo Branch: Also a branch in Japan of the US 4 , specializing in wholesale.
-  - **Wells Fargo's differentiation**: Utilizing the U.S. network (small businesses, mortgage loans, and Western customer base) to conduct bilateral business between Japan and the U.S.
-- **No retail expansion**: Wells Fargo has not entered the Japanese retail market in the first place, given the history of its sale from Citibank (formerly known as Citibank) to SMBC Trust. A common pattern among US megabanks is withdrawal from Japanese retail.
+- **Corporate-focused niche**: specialized in US-based Japanese companies (US parent / Japanese subsidiary) + support for Japanese banks' US operations
+- **Competitors**:
+  - [[foreign-financial-institutions/citigroup-japan]] (Citi): likewise corporate-focused, larger-scale and stronger in global IB
+  - [[foreign-financial-institutions/jpmorgan-japan]] (JPMorgan): the largest in global IB / M&A / trading
+  - Bank of America Tokyo Branch: likewise a Japan branch of one of the US 4  largest, wholesale-focused
+  - **Wells Fargo's differentiation**: leveraging its US domestic network (small business / mortgages / western customer base), conducting two-way US-Japan business
+- **No retail rollout**: in light of the path by which Citibank Japan (former) was sold to SMBC Trust, Wells Fargo never entered Japanese retail in the first place. US megabanks share a common pattern of retreating from Japanese retail
 
 ### Services for Japanese banks
 
-- **US dollar settlement correspondent**: US dollar clearing/correspondent backup for mega banks such as [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] etc.
-- **US market access**: Local support when Japanese banks expand into the US (vs. MUFG Americas Holdings' reverse operations)
+- **USD-settlement correspondent**: backup for USD clearing / correspondent services of megabanks such as [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]
+- **US market access**: local support when Japanese banks expand into the US (vs the reverse-direction business of MUFG Americas Holdings)
 
-## 5. Regulation/Policy
+## 5. Regulation / policy
 
-- **Supervisor (in Japan)**: Financial Services Agency (FSA) Foreign bank branch supervision
-- **Parent company (US)**: OCC (Office of the Comptroller of the Currency) + FRB (Federal Reserve System) dual supervision
-- **G-SIB Bucket 1**: FSB certified (+1.0% CET1  additional capital requirement)
-- **Asset cap regulation**: 2018-02 FRB imposed on the entire parent company, 2025 年 lifted ^[extracted]
-- **Impact of fake account incident**: 2016 ~ Cumulative fines of billions of dollars, multiple CFPB/DOJ/SEC consent judgments
+- **Primary supervisor (in Japan)**: FSA supervision of foreign bank branches
+- **Parent (US)**: dual supervision by the OCC (Comptroller of the Currency) + the FRB (Federal Reserve)
+- **G-SIB Bucket 1**: FSB designation (+1.0% CET1  additional capital requirement)
+- **Asset-cap regulation**: imposed on the entire parent by the FRB in 2018-02 ; speculation of a 2025 年 lifting ^[extracted]
+- **Impact of the fake-account scandal**: from 2016〜, cumulative fines of several billion dollars; multiple CFPB / DOJ / SEC consent adjudications
 
 ## Related
 
@@ -122,12 +122,12 @@ It is definitely different from Japanese city banks and Citibank Japan (formerly
 
 ## Sources
 
-- **Wikipedia: Wells Fargo** (https://en.wikipedia.org/wiki/Wells_Fargo, extracted from 2026-05-19)
-- Wells Fargo & Company 2024 Annual Report (Form 10-K, 2025-02  published)
-- Financial Services Agency “List of Foreign Bank Branches” (published)
-- Wells Fargo Official Corporate Site (Investor Relations / About us)
+- **Wikipedia: Wells Fargo** (https://en.wikipedia.org/wiki/Wells_Fargo, extracted 2026-05-19)
+- Wells Fargo & Company 2024 Annual Report (Form 10-K, published 2025-02 )
+- FSA "List of Foreign Bank Branches" (published portion)
+- Wells Fargo official corporate site (Investor Relations / About us)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (built with only v1.0  public information 2026-05-19). Parent company information is highly reliable based on Wikipedia + US SEC disclosure (10-K). Since the scope of disclosure of foreign bank branches is limited, the specific revenue, number of employees, etc. of branches in Japan are organized into open questions. No inside information is cited.
+> confidence: **likely** (built from public information only, v1.0  2026-05-19). Parent information is based on Wikipedia + US SEC disclosure (the 10-K) and is highly reliable. Specific revenue, employee counts, etc. of the Japan branch are organized in Open questions, since the disclosure scope of a foreign bank branch is limited. No internal information has been cited.

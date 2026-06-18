@@ -1,21 +1,20 @@
 ---
 source: fintech/japan-epi-four-camps-comparison
-source_hash: 7721cc27017e6855
+source_hash: dfe5e271a5fa6051
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1"
-translated_at: 2026-06-02T13:21:55.033Z
+translated_at: 2026-06-18T23:59:13.071Z
 ---
+
 # 日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1
 
+## ウィキ経路
 
+本項目は [[fintech/INDEX|fintech index]] の下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と、より広いシステムの境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読むこと。
 
-## ウィキ上の位置づけ
-
-この項目は [[fintech/INDEX|fintech index]] の配下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
-
-> [!info] 要約
+> [!info] TL;DR
 > 日本 SC 4 陣営構図:Progmat（信託型 · 3 大行）/ JPYC（資金移動業者型 · 岡部典孝）/ SBI Circle Holdings（USDC 独占 · 北尾吉孝）/ みんなの銀行（銀行型 Solana · 永吉健一）。**§501(d) 司法管轄区リスト視点下で再順位付け:SBI Circle Holdings = #1**、なぜなら同社はクロスボーダー準拠の覇者 USDC ↔ JPYC の唯一経路だから。Project Pax は §501(d) を解決せず、SWIFT 互換性のみを解決する。
 
 ## 主要事実
@@ -29,7 +28,7 @@ translated_at: 2026-06-02T13:21:55.033Z
 - Project Pax = §501(d) を解決せず · SWIFT 互換性のみを解決 ^[extracted]
 - 主要人物:岡部典孝（JPYC）· 北尾吉孝（SBI HD）· 永吉健一（みんなの銀行）· 齊藤達哉（Progmat）^[extracted]
 
-## 仕組み
+## メカニズム / 仕組み
 
 **4 陣営詳細**:
 | 陣営 | 種別 | 主導者 | 主要人物 | 2028 目標 |
@@ -49,11 +48,11 @@ translated_at: 2026-06-02T13:21:55.033Z
 
 **コアロジック**:§501(d) 入榜リスト視点下では、**クロスボーダー準拠能力 > 国内規模**。SBI Circle Holdings の USDC 独占販売は §501(d) 米ドル圏との自動接続を意味し、これは [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / みんなの銀行いずれも具備しない能力である。Project Pax の 3 大行クロスボーダー SC プロジェクトは SWIFT 互換性（技術層）のみを解決し、§501(d) コンプライアンス（法律層）は解決しない。
 
-## 起源と発展
+## 起源と進化
 
 2023-06 EPI 3 型発効 → 2024 年 3 大行 Progmat XJPY + JPYC 流通量同時成長 → 2025-08 SBI Circle Holdings 50/50 合弁設立で構図変化 → 2026-Q1 JPYC 流通量 21 億円 + 6 万 holders + 3 か月で 2.6 倍成長 → 2026-05 §501(d) 視点下で SBI-Circle が #1 に上昇。2028 最終構図予測:SBI-Circle クロスボーダー + JPYC リテール + Progmat 大口 B2B + みんなの銀行 地域。日本ライセンス体系総覧は [[financial-licenses/INDEX|日本金融ライセンス索引]] を参照。
 
-## 関連項目
+## 関連
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-epi-three-types-overview|日本 EPI 3 型アーキテクチャ概観]]

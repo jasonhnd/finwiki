@@ -1,12 +1,13 @@
 ---
 source: foreign-financial-institutions/kb-kookmin-bank-japan
-source_hash: f19da07929faa73a
+source_hash: a3c82b225881b146
 lang: en
 status: machine
 fidelity: ok
 title: "Kookmin Bank Tokyo Branch"
-translated_at: 2026-05-31T23:59:49.350Z
+translated_at: 2026-06-18T23:59:13.065Z
 ---
+
 # Kookmin Bank Tokyo Branch
 
 ## Wiki route
@@ -15,7 +16,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-Kookmin Bank Tokyo Branch is the Japan branch of Republic of Korea / KB Kookmin Bank, listed on the FSA foreign bank branch list. As the Japan branch of a Korean retail / commercial banking giant, it serves the remittance, deposit, and corporate-banking corridor between Korea and Japan.
+Kookmin Bank Tokyo Branch is the Japan bank branch of the Republic of Korea / KB Kookmin Bank listed in the FSA's list of foreign bank branches. As the Japan branch of a Korean retail / commercial banking giant, it carries the remittance, deposit, and corporate banking corridor between Korea and Japan.
 
 ## 1. License / branch boundary
 
@@ -34,7 +35,7 @@ KB Kookmin Bank's overseas-office page lists the Tokyo branch address and contac
 
 ## 3. Why this page matters
 
-- Completes the FSA Korean P1  branch set.
+- Completes the FSA Korean P1 branch set.
 - Adds KB as a peer to [[foreign-financial-institutions/woori-bank-japan]] and [[foreign-financial-institutions/hana-bank-japan]].
 - Makes the Korean bank corridor explicit without merging it into [[regional-banks/sbj-bank]].
 

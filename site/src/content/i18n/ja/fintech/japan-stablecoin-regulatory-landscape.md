@@ -1,38 +1,38 @@
 ---
 source: fintech/japan-stablecoin-regulatory-landscape
-source_hash: db6813d841884540
+source_hash: ad06c97be66ba246
 lang: ja
 status: machine
 fidelity: ok
-title: "日本ステーブルコイン法制度の三層構造（JPYC・USDC・Project Pax）"
-translated_at: 2026-06-02T13:21:55.072Z
+title: "日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）"
+translated_at: 2026-06-18T23:59:13.101Z
 ---
 
-# 日本ステーブルコイン法制度の三層構造（JPYC・USDC・Project Pax）
+# 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）
 
-> [!info] 要約
-> 改正資金決済法（→ [[fintech/japan-financial-regulation|日本金融規制]]）により、日本のステーブルコイン / 電子決済手段（EPI）の分析では、**発行体**、**流通業者 / EPIサービス提供者**、**プラットフォーム提供者**、**ウォレット / 決済経路**を分けて扱う必要がある。
+> [!info] TL;DR
+> 改正資金決済法（→ [[fintech/japan-financial-regulation|日本金融規制]]）により、日本の stablecoin / 電子決済手段（EPI）の分析では、**発行体**、**流通業者 / EPI サービス提供者**、**プラットフォーム提供者**、そして **ウォレット / 決済経路** を区別しなければならない。
 
-## 現在の整理（ソース更新 2026-05-21）
+## 現状マップ（出典更新 2026-05-21）
 
-| 区分 | 現在のアンカー | 押さえる点 |
+| Lane | 現在のアンカー | 押さえるべき点 |
 |---|---|---|
-| 資金移動業者型JPYステーブルコイン発行体 | [[payment-firms/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYCはFSAの資金移動業者登録簿に関東財務局長 第00099号として掲載されている。通常の暗号資産取引所と混同してはならない。 |
-| 外国ステーブルコイン流通 / EPIサービス提供者 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | FSAのEPIサービス提供者リストには1事業者が掲載されている:SBI VC Trade、登録番号は関東財務局長 第00001号、USDCを取り扱う。 |
-| 信託型ステーブルコイン / トークン化プラットフォーム | [[payment-firms/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmatはプラットフォーム提供者である。 発行体 / 受託者の役割は、規制対象の信託銀行および参加金融機関に置かれる。 |
+| 資金移動型の円 stablecoin 発行体 | [[payment-firms/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC は FSA の資金移動業登録に関東財務局長 第00099号 として登録されている。従来型の暗号資産取引所と取り違えてはならない。 |
+| 外国 stablecoin の流通 / EPI サービス提供者 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | FSA の EPI サービス提供者リストには事業者が1社含まれる：SBI VC Trade、登録番号 関東財務局長 第00001号、USDC を取り扱う。 |
+| 信託型 stablecoin / トークン化プラットフォーム | [[payment-firms/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat はプラットフォーム提供者である。発行体 / 受託者の役割は、規制対象の信託銀行および参加金融機関が担う。 |
 
 ## 含意
 
-このwikiでのステーブルコイン関連項目は次のようにルーティングする。
+この wiki における stablecoin のカバレッジは、次のように振り分けるべきである：
 
-- 発行体 / 規制対象会社ページ: `JapanFG/`
-- 取引所 / EPI分配者ページ: `exchanges/`
-- 法的アーキテクチャとトークン化モデルページ: `fintech/`
-- 決済 / ウォレット経路ページ: `payments/`
+- 発行体 / 規制対象会社のページ：`JapanFG/`
+- 取引所 / EPI 流通業者のページ：`exchanges/`
+- 法的アーキテクチャおよびトークン化モデルのページ：`fintech/`
+- 決済 / ウォレット経路のページ：`payments/`
 
-これにより、ステーブルコイン発行体、EPIサービス提供者、トークン化プラットフォームを同じ種類の金融機関として扱う一般的な誤りを避けられる。
+これにより、stablecoin の発行体、EPI サービス提供者、トークン化プラットフォームを同じ種類の金融機関として扱うという、よくある誤りを避けられる。
 
-## 関連項目
+## 関連
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]

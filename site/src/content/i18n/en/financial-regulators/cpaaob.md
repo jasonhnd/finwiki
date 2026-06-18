@@ -1,85 +1,85 @@
 ---
 source: financial-regulators/cpaaob
-source_hash: 15957f4e40f48a4e
+source_hash: 1d64284f111ebfdd
 lang: en
 status: machine
 fidelity: ok
-title: "Certified Public Accountants and Auditing Oversight Board (CPAAOB)"
-translated_at: 2026-05-31T15:29:03.883Z
+title: "Certified Public Accountants and Auditing Oversight Board (CPAAOB / 公認会計士・監査審査会)"
+translated_at: 2026-06-18T23:59:13.088Z
 ---
 
-# Certified Public Accountants and Auditing Oversight Board (CPAAOB)
+# Certified Public Accountants and Auditing Oversight Board (CPAAOB / 公認会計士・監査審査会)
 
 ## Wiki route
 
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] and [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] for the supervisory boundary, and against [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] / [[financial-regulators/fsa-planning-coordination-bureau|FSA Planning and Coordination Bureau]] for the rule-making and policy interfaces. For the audit-firm side, anchor through [[financial-regulators/ey-shinnihon|EY ShinNihon]] · [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] · [[financial-regulators/kpmg-azsa|KPMG AZSA]] · [[financial-regulators/pwc-aarata|PwC Aarata]] (Big 4) and [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] · [[financial-regulators/bdo-sanyu|BDO Sanyu]] (mid-tier). License perimeter via [[financial-licenses/INDEX|financial licenses index]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] and [[financial-regulators/fsa-inspection-bureau|FSA 検査局 (historical)]] for the supervisory boundary, and against [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] / [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making and policy interfaces. For the audit-firm side, anchor through [[financial-regulators/ey-shinnihon|EY 新日本]] · [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] · [[financial-regulators/kpmg-azsa|KPMG あずさ]] · [[financial-regulators/pwc-aarata|PwC あらた]] (Big 4) and [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] · [[financial-regulators/bdo-sanyu|BDO 三優]] (mid-tier). License perimeter via [[financial-licenses/INDEX|金融ライセンス INDEX]].
 
-## 1. Legal position
+## 1. Legal positioning
 
-- **Governing law**: Article 35 of the Certified Public Accountants Act, which establishes the board, and the FSA Establishment Act.^[extracted]
-- **Affiliation**: An affiliated body of the Financial Services Agency, an external organ of the Cabinet Office. It is positioned as an independent oversight board rather than as a peer bureau to the Supervision Bureau, Strategy Bureau, or Planning and Coordination Bureau.^[extracted]
-- **Headquarters location**: Kasumigaseki, Chiyoda-ku, Tokyo, inside the FSA headquarters.^[extracted]
-- **Committee composition**: One chair and up to nine members, appointed by the Prime Minister with Diet consent. Members are drawn from CPAs, legal practitioners, corporate-accounting practitioners, and academic experts.^[extracted]
+- **Governing law**: Certified Public Accountants Act, Article 35  (establishment of the Board), and the Act for Establishment of the Financial Services Agency ^[extracted]
+- **Affiliation**: an attached organization of the **Financial Services Agency** (an external bureau of the Cabinet Office) — positioned not in parallel with the Supervision Bureau, the Strategy and Policy Bureau, or the Planning and Coordination Bureau, but as an independent oversight board ^[extracted]
+- **Headquarters location**: Kasumigaseki, Chiyoda-ku, Tokyo (within the FSA main building) ^[extracted]
+- **Board composition**: **a chairperson 1 名 + up to 9 名 members**, appointed by the Prime Minister with the consent of both Houses — composed of certified public accountants, legal practitioners, corporate-accounting practitioners, and persons of academic experience ^[extracted]
 
-### 2.1 CPA Examination (CPA Examination)
+### 2.1  CPA Examination
 
-- **Short-answer examination** (twice per year) and **essay examination** (once per year). ^[extracted]
-- It appoints examination commissioners, prepares examination questions, and determines pass results, giving it central control over the entry gate to Japan's accounting profession.^[extracted]
+- Conducting the **short-answer examination** (2  times a year) + the **essay examination** (1  times a year) ^[extracted]
+- Appointment of examiners, preparation of examination questions, and pass/fail determination — exclusively operating the entry-point gate of Japan's accounting profession ^[extracted]
 
-### 2.2 Audit firm and CPA inspections (Audit Firm Inspection)
+### 2.2  Audit Firm Inspection
 
-- **Inspection targets**:
-  - **Major audit firms** (Big 4: [[financial-regulators/ey-shinnihon|EY ShinNihon]] · [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] · [[financial-regulators/kpmg-azsa|KPMG AZSA]] · [[financial-regulators/pwc-aarata|PwC Aarata]]) are generally subject to regular inspection every three years.^[extracted]
-- **Inspection scope**: quality-control systems, individual audit engagements, independence, fraud response, and IT controls.^[extracted]
-- **Publication of inspection results**: annual casebooks on audit-firm inspection results and CPA audit inspection results.^[extracted]
+- **Subjects of inspection**:
+  - **Major audit firms** (Big 4: [[financial-regulators/ey-shinnihon|EY 新日本]] · [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] · [[financial-regulators/kpmg-azsa|あずさ]] · [[financial-regulators/pwc-aarata|あらた]]) — in principle **periodic inspection every 3  years** ^[extracted]
+- **Scope of inspection**: quality-control systems, individual audit engagements, independence, fraud response, IT controls ^[extracted]
+- **Publication of inspection results**: annual publication of the "Case Examples of Audit Firm Inspection Results" and "Case Examples of CPA Audit Inspection Results" ^[extracted]
 
-### 2.3 Audit quality-control review (Quality Control Review)
+### 2.3  Quality Control Review
 
-- Japan uses a two-stage structure: JICPA conducts quality-control peer reviews, and CPAAOB then monitors the results.^[extracted]
+- A two-tier structure in which the CPAAOB additionally conducts **monitoring** of the results of **JICPA's quality control review (peer review)** ^[extracted]
 
-### 2.4 International coordination
+### 2.4  International cooperation
 
-- CPAAOB is a member of IFIAR, the International Forum of Independent Audit Regulators.^[extracted]
+- A member of **IFIAR (International Forum of Independent Audit Regulators)** — a network of global audit-oversight authorities ^[extracted]
 
-## 3. Linkage between inspection results and sanctions
+## 3. Linkage of inspection results with disciplinary action
 
-The enforcement sequence runs from CPAAOB inspection and recommendation to a disposition decision by the FSA Commissioner. Major examples include the following; detailed case analysis belongs on the individual audit-firm pages.
+In the flow of CPAAOB inspection / recommendation → the FSA Commissioner's disciplinary decision, major disciplinary cases include the following (for details of each case, see the individual audit-firm pages):
 
-- **ChuoAoyama Audit Corporation**: after the Kanebo accounting-fraud case, it received a two-month business suspension from 2006-07-01 to 2006-08-31, renamed itself Misuzu Audit Corporation on 2006-09-01, and dissolved in 2007-07. PwC established Aarata Audit Corporation in 2006-06 as the receiving platform. This was an emblematic early CPAAOB-era case.
-- **ShinNihon LLC**, now [[financial-regulators/ey-shinnihon|EY ShinNihon]], received Toshiba-related administrative sanctions on 2015-12-22: a three-month suspension of new contract execution from 2016-01-01 to 2016-03-31, a business-improvement order, and an administrative monetary penalty of about JPY 2.1B, the first such penalty imposed on an audit firm.
-- Numerous business-improvement orders have also addressed quality-control failures at mid-tier and small audit firms.
+- **ChuoAoyama Audit Corporation** (following the Kanebo window-dressing case, a 2 -month suspension of operations from 2006-07-01〜08-31  → renamed Misuzu Audit Corporation in 09-01  the same year, dissolved 2007-07 . PwC established Aarata Audit Corporation as the receiving body in 2006-06 ) — a symbolic case right after the CPAAOB's launch
+- Disciplinary action related to the Toshiba case against **Ernst & Young ShinNihon LLC** (now [[financial-regulators/ey-shinnihon|EY 新日本]]) (2015-12-22, a 3 -month suspension of new-contract-conclusion operations [2016-01-01〜03-31] + a business improvement order + a surcharge of approx. 21 億円 — the first surcharge against an audit firm)
+- Numerous improvement orders for deficiencies in the quality-control systems of **mid-tier and small/medium audit firms**
 
-## 4. Role sharing with JICPA
+## 4. Division of roles with JICPA
 
 | Function | CPAAOB | JICPA (Japanese Institute of Certified Public Accountants) |
 |---|---|---|
-| CPA examination | **Administration and pass / fail decisions** | Recommends examination commissioners |
-| Registration | Supervisory oversight | **Registration administration** |
-| Quality-control review | **Secondary monitoring** | **Primary peer review** |
-| Ethics and self-regulation | Supervisory oversight | **Self-regulatory discipline** |
-| Inspection | **Statutory inspection authority** | Disciplinary investigations |
-| International coordination | **IFIAR** | **IFAC** |
+| CPA examination | **Administration & pass/fail determination** | Recommendation of examiners |
+| Registration | Supervision | **Registration affairs** |
+| Quality control review | **Monitoring (secondary)** | **Peer review (primary)** |
+| Ethics / self-regulation | Supervision | **Discipline (self-regulation)** |
+| Inspection | **Holds the authority** | Disciplinary investigation |
+| International cooperation | **IFIAR** | **IFAC** |
 
-## 5. Governance position
+## 5. Position in governance
 
-- Its target differs from the bank, securities, and insurance inspections of the [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]]: CPAAOB inspects audit quality, while the Supervision Bureau supervises financial institutions themselves.^[extracted]
-- The [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] was integrated into the Supervision Bureau in 2018, but CPAAOB was not part of that integration and retained its independent board status.^[extracted]
-- The Business Accounting Council, a separate Cabinet Office council, sets audit standards, while CPAAOB inspects audit quality against those standards.^[extracted]
+- **Differs in subject** from the bank / securities / insurance inspection of the **FSA Supervision Bureau** ([[financial-regulators/fsa-supervision-bureau|監督局]]) — the CPAAOB covers audit quality, the Supervision Bureau covers the financial institutions themselves ^[extracted]
+- The **FSA Inspection Bureau** ([[financial-regulators/fsa-inspection-bureau|検査局 (historical)]]) was merged into the Supervision Bureau in 2018 年, but the CPAAOB was **not subject to that merger** — it maintains its status as an independent oversight board ^[extracted]
+- Relationship with the **Business Accounting Council** (a separate council of the Cabinet Office) — a division of labor in which the Business Accounting Council sets auditing standards and the CPAAOB inspects audit quality ^[extracted]
 
 ## Related
 
-- [[financial-regulators/INDEX|financial-regulators INDEX]] — parent index
-- [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] — supervision of banks, securities firms, and insurers
-- [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] — inspection function before the 2018 integration
-- [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] — audit-policy coordination
-- [[financial-regulators/fsa-planning-coordination-bureau|FSA Planning and Coordination Bureau]] — rule-making for the CPA Act and audit regime
-- [[financial-regulators/ey-shinnihon|EY ShinNihon]] · [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] · [[financial-regulators/kpmg-azsa|KPMG AZSA]] · [[financial-regulators/pwc-aarata|PwC Aarata]] — Big 4 inspection targets
-- [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] · [[financial-regulators/bdo-sanyu|BDO Sanyu]] — mid-tier inspection targets
-- [[financial-licenses/INDEX|financial licenses index]] — regulatory perimeter for the CPA Act and audit quality control
+- [[financial-regulators/INDEX|financial-regulators INDEX]] — parent INDEX
+- [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] — supervision of the bank / securities / insurance entities themselves
+- [[financial-regulators/fsa-inspection-bureau|FSA 検査局 (historical)]] — the inspection function before the 2018 年 merger
+- [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] — accounting-audit policy cooperation
+- [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] — rule-making for the CPA Act / audit system
+- [[financial-regulators/ey-shinnihon|EY 新日本]] · [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] · [[financial-regulators/kpmg-azsa|あずさ]] · [[financial-regulators/pwc-aarata|あらた]] — Big 4  inspection subjects
+- [[financial-regulators/taiyo-grant-thornton|太陽 GT]] · [[financial-regulators/bdo-sanyu|BDO 三優]] — mid-tier inspection subjects
+- [[financial-licenses/INDEX|金融ライセンス INDEX]] — the regulatory boundary of the CPA Act / audit quality control
 
 ## Sources
 
-- CPAAOB 公式 — https://www.fsa.go.jp/cpaaob/
-- FSA administrative action against ShinNihon LLC, 2015-12-22: three-month suspension of new contract execution plus business-improvement order — https://www.fsa.go.jp/news/27/sonota/20151222-4.html
-- FSA monetary-penalty order against ShinNihon LLC for false certification of financial statements, approximately JPY 2.111B and the first monetary penalty against an audit firm — https://www.fsa.go.jp/news/27/syouken/20160122-4.html
-- ChuoAoyama / Misuzu Audit Corporation reference: Kanebo accounting-fraud case, 2006-07-01 to 2006-08-31 business suspension, 2006-09-01 Misuzu rename, 2007-07 dissolution, and PwC Aarata establishment in 2006-06 ? https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%99%E3%81%9A%E7%9B%A3%E6%9F%BB%E6%B3%95%E4%BA%BA
+- CPAAOB official — https://www.fsa.go.jp/cpaaob/
+- FSA "On disciplinary action, etc., against audit firms and certified public accountants," Ernst & Young ShinNihon LLC (2015-12-22 administrative action: 3 -month suspension of new-contract-conclusion operations + business improvement order) — https://www.fsa.go.jp/news/27/sonota/20151222-4.html
+- FSA "On the decision of a surcharge payment order against Ernst & Young ShinNihon LLC for false certification of financial documents" (surcharge of approx. 21 億 1,100 万円, the first surcharge against an audit firm) — https://www.fsa.go.jp/news/27/syouken/20160122-4.html
+- ChuoAoyama Audit Corporation / Misuzu Audit Corporation (Kanebo window-dressing case, 2006-07-01〜08-31  suspension of operations, 2006-09-01 renaming to Misuzu, 2007-07  dissolution, PwC Aarata established 2006-06 ) — https://ja.wikipedia.org/wiki/みすず監査法人

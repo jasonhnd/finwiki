@@ -1,51 +1,45 @@
 ---
 source: foreign-financial-institutions/korea-development-bank-japan
-source_hash: d1d92980ba3e682d
+source_hash: c3a3764dd602c2da
 lang: ja
 status: machine
 fidelity: ok
-title: "韓国産業銀行東京支店"
-translated_at: 2026-06-02T14:54:39.052Z
+title: "韓国産業銀行 東京支店"
+translated_at: 2026-06-18T23:59:13.074Z
 ---
-# 韓国産業銀行東京支店
 
-## ウィキ上の位置づけ
+# 韓国産業銀行 東京支店
 
-この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に置かれる。[[foreign-financial-institutions/woori-bank-japan|Woori Bank Tokyo]] は同業・隣接項目との比較先であり、[[banking/INDEX|banking index]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+## ウィキ経路
+
+本項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。同業 / 対比の文脈は [[foreign-financial-institutions/woori-bank-japan|Woori Bank Tokyo]] と、より広いシステム / 規制の境界は [[banking/INDEX|banking index]] と併せて読むこと。
 
 ## 要約
 
-韓国産業銀行東京支店 は、日本国内の韓国系・越境法人金融 を主な文脈として読む韓国の政策金融機関による在日外国銀行支店 である。1 を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+韓国産業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Korea Development Bank の在日銀行支店。Korean policy-bank / development-bank corridor として、project finance, shipping / aircraft finance, syndicated loans, trade finance, and cross-border corporate finance を扱う。
 
-## 2. ライセンス・グループ境界
+## 1. ライセンス / 支店の境界
 
-| 項目 | メモ |
+| 項目 | 備考 |
 |---|---|
-| 正式名称 | 韓国産業銀行東京支店 |
-| 種別 | 韓国の政策金融機関による在日外国銀行支店 |
-| 主な市場 | 日本国内の韓国系・越境法人金融 |
-| 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
-| 比較参照 | 1991  |
-| 関連境界 | 1969 |
+| FSA 掲載名 | 韓国産業銀行 |
+| 法人 / 支店名 | Korea Development Bank Tokyo Branch |
+| ライセンス経路 | 銀行法上の外国銀行支店；FSA 銀行免許一覧 |
+| 母国法域 | 大韓民国 |
+| 親会社 / グループ | Korea Development Bank |
+| ウィキ上の役割 | 韓国の政策銀行 / 開発銀行の日本支店アンカー |
 
-## 3. 事業モデル
+## 2. オペレーティングモデル
 
-韓国産業銀行東京支店 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは [[financial-regulators/jbic]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+KDB の東京支店ページは、当支店が 1969に始まった東京駐在員事務所を経て 1991 に開設された旨を記している。同ページは、当支店を KDB のグローバル事業にとって重要なものと位置づけ、日本における韓国企業、日本企業、および多国籍企業に対して、プロジェクトファイナンス、船舶・航空機ファイナンス、シンジケートローン、貿易金融、ならびにカスタマイズされたソリューションを提供しているとしている。
 
-| 観点 | 読み方 |
-|---|---|
-| 営業地盤 | 日本国内の韓国系・越境法人金融 での顧客接点、店舗網、法人取引、個人向けサービスを確認する。 |
-| ライセンス | 免許、登録、業務区分、監督当局を公開一覧で確認する。 |
-| グループ | 親会社、持株会社、提携先、協同組織との関係を切り分ける。 |
-| 比較 | 同じ地域、同じ業態、同じグループ階層の項目と横並びで読む。 |
+したがって、本ページは、外国銀行支店分析と政策金融の近接領域とにまたがって位置づけるべきである。
 
-## [[financial-regulators/dbj]]. このページが重要な理由
+## 3. なぜこのページが重要か
 
-- 韓国産業銀行東京支店 を会社または制度単位で参照できる入口にする。
-- 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[policy-finance/INDEX]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- 1  を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+- 民間の商業銀行だけでなく、韓国の開発銀行支店を追加する。
+- [[financial-regulators/jbic]]、[[financial-regulators/dbj]]、[[policy-finance/INDEX]] との、公的信用 / クロスボーダー産業金融の比較を支える。
+- 商業銀行のピアとともに、韓国の P1 支店セットを完成させる。
 
 ## 関連
 
@@ -56,8 +50,8 @@ translated_at: 2026-06-02T14:54:39.052Z
 - [[financial-regulators/jbic]]
 - [[financial-regulators/dbj]]
 - [[banking/foreign-bank-japan-retreat]]
-- 2026-05-13
 
 ## 出典
 
-- 金融庁、公式会社情報、業界団体資料など、韓国産業銀行東京支店 に関する公開情報。
+- FSA: 銀行免許一覧、外国銀行支店、2026-05-13 時点。
+- Korea Development Bank: 東京支店プロフィール。

@@ -1,31 +1,31 @@
 ---
 source: fintech/stablecoin-channel-japan-sbi-jpyc-ring
-source_hash: 04b94973ef4d3248
+source_hash: 6e1f091b435a3e8f
 lang: zh
 status: machine
 fidelity: ok
-title: "SBI × JPYC × Circle 环状持股：日本稳定币分发通道"
-translated_at: 2026-05-31T07:28:06.125Z
+title: "SBI × JPYC × Circle 环状持股 — 日本稳定币分销渠道"
+translated_at: 2026-06-18T23:59:13.083Z
 ---
 
-# SBI × JPYC × Circle 环状持股：日本稳定币分发通道
+# SBI × JPYC × Circle 环状持股 — 日本稳定币分销渠道
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 之下。可与 [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] 一并阅读以获得相邻语境，并与 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] 一并阅读更广泛的系统边界。
 
 > [!info] TL;DR
-> SBI × Circle × JPYC 形成的**环状持股结构**，是 2025-2026 年 日本稳定币市场最重要的分发通道。SBI Circle Holdings（2025-08  各半出资的 JV，50/50）掌握 USDC 的日本国内独占发行通道，Circle 持有 JPYC 约 3.51%，而 JPYC 属于 Circle Partner SC。三方因此相互锁定，构成 **§501(d) 入榜后的跨境合规霸主架构**。在对日本 4  阵营的评估中，该通道被打到 v2  的 **#1 ★★★★★**，显著高于没有跨境通道的 Progmat 信托型联盟。
+> SBI × Circle × JPYC 所形成的**环状持股结构**是 2025-2026 年日本稳定币中最重要的分销渠道 —— SBI Circle Holdings（2025-08 折半出资 50/50）持有 USDC 的国内独家发行渠道，Circle 持有 JPYC 3.51%，JPYC 作为 Circle Partner SC，三者相互锁定，形成 **§501(d) 入榜后的跨境合规霸主架构**。在日本 4 阵营评价中，该渠道于 v2 评价 **#1 ★★★★★**，大幅超越 Progmat 信托型联盟（无跨境渠道）。
 
 ## Key facts
 
-- **2025-08**：SBI Holdings + Circle Internet Financial 以各半出资方式设立 **SBI Circle Holdings**（50/50  JV）
-- **环状持股**：Circle 持有 [[payment-firms/jpyc|JPYC]] 约 3.51%；JPYC 属于 Circle Partner SC；SBI 通过 SBI Circle Holdings 与 JPYC 间接相关
-- **国内通道**：[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 日本国内 第 1 号 EPI 业者（2025-03-04 许可）· 已开始 USDC 国内处理（2025-03-26）
-- **资本投资**：SBI HD + SBI 新生合计向 Circle IPO 投资 $50M（2025-06-05 在 NYSE 上市）
-- **不参加 Progmat**：北尾吉孝在 2026-02  的 X 发文称其“画一、限制竞争、护送船团式”，明确表示不加入 Progmat 信托型联盟
-- **JPYSC 补完**：SBI 新生信托银行 × Startale 的信托型 SC“JPYSC”（2026-Q2  上线）补足“日元侧”
-- **APLAS 接入**：2026  春开展线下门店 USDC 支付实证实验
+- **2025-08**：SBI Holdings + Circle Internet Financial 折半出资设立 **SBI Circle Holdings**（50/50 JV）
+- **环状持股**：Circle 持有 [[payment-firms/jpyc|JPYC]] 约 3.51%；JPYC ∈ Circle Partner SC；SBI 经由 SBI Circle Holdings 与 JPYC 间接关联
+- **国内渠道**：[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 国内第 1 号 EPI 业者（2025-03-04 认可）· USDC 国内开始经办（2025-03-26）
+- **资本投资**：SBI HD + SBI 新生 合计 $50M 投资于 Circle IPO（2025-06-05 NYSE 上市）
+- **Progmat 不参加**：北尾吉孝 2026-02 X 发帖「划一化・限制竞争・护送船团式」—— 明言不加入 Progmat 信托型联盟
+- **由 JPYSC 补充**：SBI 新生信托银行 × Startale「JPYSC」信托型 SC（2026-Q2 上线）补充「日元侧」
+- **APLUS 接入**：2026 春 实体店 USDC 支付的实证实验
 
 ## Mechanism / How it works
 
@@ -40,32 +40,32 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
               │  50%             │
         SBI Holdings ────────────┘
               │
-              ├── SBI VC Trade（EPI #1）→ 日本国内 USDC
-              ├── APLAS → 线下门店支付
+              ├── SBI VC 贸易（EPI #1）→ USDC 国内
+              ├── APLUS → 实体店 支付
               ├── SBI 新生信托 × Startale → JPYSC（2026-Q2）
-              └── Arc 全球支付网络的日本独立通道
+              └── Arc 全球支付网日本独立渠道
 ```
 
-**通道功能**：
-1. **USDC 入口**：SBI VC Trade 的日本国内独占 EPI 通道
-2. **JPY 侧**：JPYC（资金移动业型）+ JPYSC（信托型）的双重日元稳定币选项
-3. **跨境合规**：§501(d) 入榜后 USDC ↔ JPYC 的双向合规通道
-4. **零售接点**：APLAS 信用卡 + 实体零售场景
+**渠道功能**：
+1. **USDC 入口**：SBI VC 贸易 的国内独家 EPI 渠道
+2. **JPY 侧**：JPYC（资金移动业）+ JPYSC（信托型）的双重日元稳定币选项
+3. **跨境合规**：§501(d) 入榜后的 USDC ↔ JPYC 双向合规渠道
+4. **零售触点**：APLUS 信用卡 + 实体店场景
 
 ## Origin & evolution
 
 ```
-2023-11-27  SBI HD + Circle 业务合作基本协议
-2025-03-04  SBI VC Trade = 日本国内 第 1 号 EPI 业者
-2025-03-25  SBI HD + Circle 合资公司设立协议
-2025-03-26  SBI VC Trade = 开始日本国内 USDC 处理
-2025-06-05  Circle NYSE 上市 · SBI 合计投资 $50M
+2023-11-27  SBI HD + Circle 业务合作基本协议书
+2025-03-04  SBI VC 贸易 = 国内第 1 号 EPI 业者
+2025-03-25  SBI HD + Circle 合资公司设立合同
+2025-03-26  SBI VC 贸易 = USDC 国内开始经办
+2025-06-05  Circle NYSE 上市 · SBI 合计 $50M 投资
 2025-08     SBI Circle Holdings 设立（50/50）
-2025-12-16  SBI HD + Startale 发布信托型 SC“JPYSC”
-2026-02     北尾吉孝在 X：“拒绝加入 Progmat”
+2025-12-16  SBI HD + Startale「JPYSC」信托型 SC 发表
+2026-02     北尾吉孝 X：「拒绝加入 Progmat」
 ```
 
-**v1  → v2  的评级跃升**：在 §501(d) 公布前，SBI 阵营被视为“独立路线 / #3”。公布后，USDC ↔ JPY 跨境合规通道的价值急升，SBI Circle Holdings 被上调为 **#1 ★★★★★**。相比之下，[[payment-firms/progmat|Progmat]]（3  大型银行信托型路线）因“没有跨境合规通道”被降至 #3 ；详见 [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]]。
+**v1 → v2 评价跃升**：§501(d) 公布前，SBI 阵营被视为「独立路线 / #3」。公布后，USDC ↔ JPY 跨境合规渠道的价值急升，SBI Circle Holdings 跃升至 **#1 ★★★★★** —— [[payment-firms/progmat|Progmat]]（3 超大型银行信托型）降至 #3 ，理由是「无跨境合规渠道」，详情参见 [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]]。
 
 ## Related
 <!-- wiki-links:managed -->

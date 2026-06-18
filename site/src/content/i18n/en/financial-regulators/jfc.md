@@ -1,13 +1,14 @@
 ---
 source: financial-regulators/jfc
-source_hash: 0b3a875703c20971
+source_hash: e35c5716a9362cef
 lang: en
 status: machine
 fidelity: ok
-title: "Japan Finance Corporation (JFC)"
-translated_at: 2026-05-31T23:59:49.336Z
+title: "Japan Finance Corporation 日本政策金融公庫 (JFC)"
+translated_at: 2026-06-18T23:59:13.050Z
 ---
-# Japan Finance Corporation (JFC)
+
+# Japan Finance Corporation 日本政策金融公庫 (JFC)
 
 ## Wiki route
 
@@ -15,153 +16,153 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-Japan's largest policy-finance institution. JFC is a special company created through the **2008-10-01 integration of the National Life Finance Corporation + Japan Finance Corporation for Small and Medium Enterprise + Agriculture, Forestry and Fisheries Finance Corporation + the international finance division of Japan Bank for International Cooperation into 4  institutions**. It is 100% owned by the 4  supervising ministers: Finance / Health, Labour and Welfare / Agriculture, Forestry and Fisheries / Economy, Trade and Industry. Its **4  business units (National Life, SME, Agriculture / Forestry / Fisheries, and Crisis Response Facilitation)** are built around the "private-sector supplementation principle", covering risks that private financial institutions cannot lend against. The COVID special loans, with more than 20 兆円 executed in 2020-2022, were its largest recent role. Current strategy is organized around 4  axes: startup support, business succession, overseas expansion, and safety-net finance. ^[extracted]
+Japan's largest policy-finance institution. A special company established by **the 2008-10-01 integration of 4  institutions — the National Life Finance Corporation + the Japan Finance Corporation for Small and Medium Enterprise + the Agriculture, Forestry and Fisheries Finance Corporation + the international-finance arm of the Japan Bank for International Cooperation**. Funded by 100% of the 4  ministers of Finance / Health, Labour and Welfare / Agriculture, Forestry and Fisheries / Economy, Trade and Industry. It is anchored on the "private-sector complementarity principle" — covering risks that private financial institutions cannot lend against — through its **4  business divisions (National Life, Small and Medium Enterprise, Agriculture-Forestry-Fisheries, and Crisis-Response Facilitation)**. Its largest recent role was disbursing more than 20 兆円 of COVID special loans (2020-2022). The 4  pillars of start-up support / business succession / overseas expansion / safety net constitute the current strategy. ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: Japan Finance Corporation ^[extracted]
+**Formal name**: Japan Finance Corporation (株式会社日本政策金融公庫) ^[extracted]
 **English name**: Japan Finance Corporation (JFC)
 **Governing law**: Japan Finance Corporation Act (平成 19 年 Act No. 第 57 号) ^[extracted]
-**Established**: 2008-10-01 (integration of 4  policy-finance institutions under the Koizumi-era policy-finance reorganization) ^[extracted]
-**Form**: Special company (stock-company form, but unlisted and wholly owned by the state) ^[extracted]
-**Head office**: Otemachi 1-9-4, Chiyoda-ku, Tokyo (Otemachi Financial City North Tower) ^[extracted]
-**Shareholders**: Minister of Finance + Minister of Health, Labour and Welfare + Minister of Agriculture, Forestry and Fisheries + Minister of Economy, Trade and Industry (jointly supervised by 4  ministers; 100% government-owned) ^[extracted]
+**Established**: 2008-10-01 (the integration of 4  institutions under the policy-finance reorganization during the Koizumi administration) ^[extracted]
+**Form**: special company (株式会社 form but unlisted, with all shares held by the State) ^[extracted]
+**Head office**: 1-9-4 Otemachi, Chiyoda-ku, Tokyo (Otemachi Financial City North Tower) ^[extracted]
+**Shareholders**: the Minister of Finance + the Minister of Health, Labour and Welfare + the Minister of Agriculture, Forestry and Fisheries + the Minister of Economy, Trade and Industry (joint jurisdiction of 4  ministers, 100% government capital) ^[extracted]
 
-### Background to the 4 -institution integration ^[extracted]
+### Background of the integration of 4  institutions ^[extracted]
 
-| Pre-integration institution | Established | Current JFC business unit |
+| Pre-integration institution | Established | Current JFC business division |
 |---|---|---|
-| National Life Finance Corporation | 1949  -> reorganized in 1999  | **National Life Business** |
-| Japan Finance Corporation for Small and Medium Enterprise | 1953 | **SME Business** |
-| Agriculture, Forestry and Fisheries Finance Corporation | 1953 | **Agriculture, Forestry, Fisheries and Food Business** |
-| International finance division of Japan Bank for International Cooperation (JBIC) | Integrated in 1999  | Later separated and re-established in 2012-04  |
+| National Life Finance Corporation (Kokukin) | 1949  → reorganized 1999  | **National Life business** |
+| Japan Finance Corporation for Small and Medium Enterprise (Chusho Koko) | 1953  | **Small and Medium Enterprise business** |
+| Agriculture, Forestry and Fisheries Finance Corporation (Norin Koko) | 1953  | **Agriculture-Forestry-Fisheries business** |
+| Japan Bank for International Cooperation (JBIC), international-finance arm | integrated 1999  | later separated and re-established 2012-04  |
 
-### Governance / Institutional Design
+### Governance / institutional design
 
-- **Governor and CEO**: Kazuho Tanaka (former Vice Minister of Finance, in office since 2018) ^[likely]
-- Company with board of directors and board of auditors
-- Management committee (representatives of the 4  business units + corporate division)
-- Reporting obligation to the Diet (financial statements and business overview)
+- **Representative Director and Governor**: Kazuho Tanaka (former Administrative Vice-Minister of Finance, 2018–present) ^[likely]
+- A company with a board of directors and a board of corporate auditors
+- Management committee (representatives of the 4  business divisions + corporate division)
+- Diet-reporting obligation (financial statements / business overview)
 
-### Subsidiaries / Related Institutions
+### Subsidiaries / affiliated institutions
 
 ```
-JFC (Japan Finance Corporation; 100% state-owned)
-  ├── National Life Business (former National Life Finance Corporation)
+JFC (Japan Finance Corporation; 100% State-held)
+  ├── National Life business (former National Life Finance Corporation)
   │     └── 152  branches nationwide (for sole proprietors and small businesses)
-  ├── SME Business (former Japan Finance Corporation for Small and Medium Enterprise)
-  │     └── 60  branches nationwide + International Business Support Department
-  ├── Agriculture, Forestry, Fisheries and Food Business (former Agriculture, Forestry and Fisheries Finance Corporation)
-  │     └── 48  branches nationwide (coordination with JA and fishery cooperatives)
-  └── Crisis Response Facilitation Operations
-        └── Indirect financing through designated financial institutions (Lehman, earthquake, COVID, etc.)
+  ├── Small and Medium Enterprise business (former Japan Finance Corporation for Small and Medium Enterprise)
+  │     └── 60  branches nationwide + International Expansion Support Department
+  ├── Agriculture-Forestry-Fisheries business (former Agriculture, Forestry and Fisheries Finance Corporation)
+  │     └── 48  branches nationwide (linkage with agricultural / fisheries cooperatives)
+  └── Crisis-Response Facilitation business
+        └── indirect lending via designated financial institutions (Lehman, earthquakes, COVID, etc.)
 
-[Related / independent institutions]
-- Japan Bank for International Cooperation (JBIC) -- special company separated and re-established from JFC in 2012-04 
-- Okinawa Development Finance Corporation -- separate from JFC but with similar functions (Okinawa only)
-- Shoko Chukin Bank -- another policy-finance institution
+[Affiliated / independent institutions]
+- Japan Bank for International Cooperation (JBIC) ── a special company separated and re-established from JFC in 2012-04 
+- Okinawa Development Finance Corporation ── a separate organization from JFC but with similar functions (Okinawa only)
+- Shoko Chukin Bank (Shoko Chukin) ── another policy-finance institution
 ```
 
-### Key Timeline ^[extracted]
+### Key chronology ^[extracted]
 
 | Date | Event |
 |---|---|
-| **2008-10-01** | **JFC launched** (completion of the Koizumi-era policy-finance reorganization through 4  institution integration) |
-| 2008-10 onward | Emergency guarantees and special loans in response to the Lehman shock (for SMEs) |
-| 2011-03 onward | Great East Japan Earthquake reconstruction special loans (interest-free / unsecured loans for disaster-affected businesses) |
-| **2012-04-01** | **JBIC separated and re-established** (converted into a special company; overseas finance division carved out of JFC) |
-| 2016 onward | Stronger startup support under negative interest rates (expanded New Business Startup Loan Program) |
-| 2019-10 | Consumption-tax hike response and stronger business-succession support |
-| **2020-03 to 2022** | **COVID special loans** (effectively interest-free / unsecured; over 20 兆円 executed in total) ★ |
-| 2022-04 | Grace periods for COVID special loans began arriving sequentially -> refinancing and repayment-deferral responses |
-| 2023-09 | Special loans responding to higher prices (for SMEs and agriculture / forestry / fisheries operators) |
-| **2024-01** | **Noto Peninsula Earthquake special loans** (for disaster-affected businesses) |
-| 2024-04 | Continuation and condition changes for COVID refinancing guarantee scheme |
-| 2025 onward | Stronger startup support and GX investment / lending |
+| **2008-10-01** | **JFC established** (integration of 4  institutions, completing the policy-finance reorganization under the Koizumi administration) |
+| 2008-10– | Lehman-shock emergency-guarantee / special loans (for SMEs) |
+| 2011-03– | Great East Japan Earthquake reconstruction special loans (interest-free, unsecured, for disaster-affected businesses) |
+| **2012-04-01** | **Japan Bank for International Cooperation (JBIC) separated and re-established** (converted to a special company, with the overseas-finance arm carved out of JFC) |
+| 2016– | Strengthened start-up support under negative interest rates (expansion of the New Start-up Loan program) |
+| 2019-10  | Consumption-tax-hike response / strengthened business succession |
+| **2020-03–2022** | **COVID special loans** (effectively interest-free, unsecured; more than 20 兆円 disbursed in total) ★ |
+| 2022-04  | Grace periods on COVID special loans coming due in sequence → refinancing / repayment-deferral response |
+| 2023-09  | Special loans in response to soaring prices (for SMEs and agriculture-forestry-fisheries businesses) |
+| **2024-01** | **Noto Peninsula Earthquake response special loans** (for disaster-affected businesses) |
+| 2024-04  | Continuation / revision of the COVID refinancing-guarantee scheme |
+| 2025– | Strengthened start-up support / GX investment and lending |
 
-## 2. Business Segment Map
+## 2. Business segment map
 
-| Business unit | Predecessor | Main borrowers | Loan size per 1 件 | Main menus |
+| Business division | Former predecessor | Main targets | Loan scale per 1 件 | Main offerings |
 |---|---|---|---|---|
-| **National Life Business** | National Life Finance Corporation | Sole proprietors, small businesses, founders | Millions to tens of millions of yen | General loans / New business startup loans / Marukei loans (chamber of commerce recommendation) / education loans |
-| **SME Business** | Japan Finance Corporation for Small and Medium Enterprise | Mid-sized and SME companies | Tens of millions to several billions of yen | General loans / New business development funds / overseas expansion funds / business succession, consolidation, and revitalization funds |
-| **Agriculture, Forestry, Fisheries and Food Business** | Agriculture, Forestry and Fisheries Finance Corporation | Farmers, forestry operators, fishery operators, food industry | Millions to several billions of yen | Super L funds / management improvement and strengthening funds / funds for food-industry operators |
-| **Crisis Response Facilitation Operations** | Newly established after integration | All businesses during certified crises | Variable by program | Two-step loans and damage guarantees through designated financial institutions (private sector) |
+| **National Life business** | National Life Finance Corporation | sole proprietors, small businesses, founders | several million to several tens of millions of yen | ordinary loans / New Start-up Loan / Maru-kei loans (recommended by Chambers of Commerce and Industry) / education loans |
+| **Small and Medium Enterprise business** | Japan Finance Corporation for Small and Medium Enterprise | mid-sized and small enterprises | several tens of millions to several billion yen | ordinary loans / new-business development funds / overseas-expansion funds / business succession, consolidation and revitalization funds |
+| **Agriculture-Forestry-Fisheries business** | Agriculture, Forestry and Fisheries Finance Corporation | farmers, foresters, fishers, food industry | several million to several billion yen | Super-L funds / management-entity development and strengthening funds / funds for the food industry |
+| **Crisis-Response Facilitation business** | (newly established post-integration) | businesses in general at the time of a crisis declaration | variable by scheme | two-step loans / loss guarantees via designated financial institutions (private sector) |
 
-### Education Loans (Unique Menu of National Life Business)
+### Education loans (a unique offering of the National Life business)
 
-The National Life Business is the only business unit that also handles **education loans for individuals**, offering low-interest financing for a child's education expenses up to 350 万円 per 1  (or 450 万円 under certain requirements). It is complementary to private education loans and scholarships ([[policy-finance/japan-student-services-organization|japan-student-services-organization]]).
+The National Life business is the only business division that also handles **education loans for individuals**, providing low-interest financing of up to 350 万円 per 1  person (450 万円 under certain conditions) as funds for a child's advancement to higher education. It is complementary to private education loans and scholarships ([[policy-finance/japan-student-services-organization|japan-student-services-organization]]).
 
-### Private-Sector Supplementation Principle (Basic Stance)
+### Private-sector complementarity principle (basic stance)
 
-JFC exists to "**cover risks that private financial institutions cannot lend against**", and operates under the following rules to avoid crowding out private business:
+JFC's raison d'être lies in "**covering risks that private financial institutions cannot lend against**," and to avoid crowding out private business it operates under the following rules:
 
-- Prioritize borrowers that private lenders hesitate to serve, such as startups and unsecured / no-guarantor borrowers
-- Make **co-financing** with private banks, shinkin banks, and credit cooperatives (proper loans + JFC loans) the center of the model
-- Large companies are generally outside the scope (ceilings are set by capital and employee count)
-- Interest rates are policy-rate structures that remain mindful of private market rates
+- Prioritizing segments where the private sector hesitates, such as the start-up phase and unsecured / no-guarantor lending
+- Centered on **co-financing** with private banks, shinkin banks, and credit unions (proper loans + JFC)
+- In principle excluding large enterprises (with caps by capital and number of employees)
+- Policy interest-rate system mindful of private-market interest rates
 
-### 4  axes of current strategy ^[extracted]
+### The 4  pillars of the current strategy ^[extracted]
 
-1. **Startup support**: New business startup loan program (unsecured / no guarantor; ceiling 3000 万円), business-plan support before and after founding
-2. **Business succession**: Succession finance and M&A finance consistent with the management-guarantee guidelines
-3. **Overseas expansion**: Overseas expansion funds for SMEs and on-lending funds for overseas subsidiaries
-4. **Safety net**: Crisis response facilitation, earthquake disaster response, price-increase response, and pandemic response
+1. **Start-up support**: the New Start-up Loan program (unsecured, no-guarantor, cap of 3000 万円), and business-plan support before and after founding
+2. **Business succession**: succession funds compliant with the Guidelines on Personal Guarantees by Business Owners, and M&A funds
+3. **Overseas expansion**: overseas-advancement funds for SMEs, and on-lending funds for overseas subsidiaries
+4. **Safety net**: Crisis-Response Facilitation business, and response to earthquakes, soaring prices, and pandemics
 
-### Crisis-Response Roles ^[extracted]
+### Crisis-response roles ^[extracted]
 
-- **Lehman shock** (2008-10 onward): emergency guarantees + JFC special loans
-- **Great East Japan Earthquake** (2011-03 onward): reconstruction special loans (interest-free / unsecured)
-- **COVID** (2020-03 to 2022): **effectively interest-free / unsecured special loans exceeding 20 兆円** (running alongside private-sector zero-zero loans)
-- **Noto Peninsula Earthquake** (2024-01 onward): special loans for disaster-affected businesses
-- **Higher prices** (2023 onward): funds responding to price increases
+- **Lehman shock** (2008-10–): emergency guarantees + JFC special loans
+- **Great East Japan Earthquake** (2011-03–): reconstruction special loans (interest-free, unsecured)
+- **COVID** (2020-03–2022): **more than 20 兆円 disbursed in effectively interest-free, unsecured special loans** (running alongside private-sector zero-zero loans)
+- **Noto Peninsula Earthquake** (2024-01–): special loans for disaster-affected businesses
+- **Soaring prices** (2023–): funds in response to soaring prices
 
-### Relationship with Private Financial Institutions
+### Relationship with private financial institutions
 
-- **Co-financing as the main role**: combined use with regional banks, shinkin banks, and credit cooperatives is the standard form in the National Life Business and SME Business
-- **Designated financial institution scheme**: for crisis-response operations, private banks are the front offices while JFC provides damage guarantees and two-step loans
-- **Complement, not competition**: differentiated from [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] and other megabanks (megabanks focus on mid-sized and larger companies; JFC focuses on small businesses, startups, and agriculture / forestry / fisheries)
+- **Lead actor in co-financing**: combining proper loans with regional banks, shinkin banks, and credit unions is the standard form for the National Life business and the Small and Medium Enterprise business
+- **Designated-financial-institution scheme**: in crisis-response business, private banks serve as the point of contact while JFC provides loss guarantees and two-step loans
+- **Complementary rather than competitive**: it carves out a niche even relative to megabanks such as [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] (megabanks target mid-sized and above; JFC targets small-scale, start-up, and agriculture-forestry-fisheries)
 
 ### Separation from JBIC (2012-04)
 
-In 2012-04-01, Japan Bank for International Cooperation (JBIC) separated from JFC and was re-established as an independent institution. The policy judgment was that the strategic nature of overseas infrastructure exports and resource security should be separated from domestic SME finance. Today's JFC is focused on 4  domestic business units, while overseas finance functions are handled by JBIC (a special company under the Ministry of Finance).
+In 2012-04-01, the Japan Bank for International Cooperation (JBIC) was separated and re-established from JFC. The reason was a policy judgment that the **strategic nature of overseas infrastructure exports and resource procurement** should be decoupled from domestic SME finance. The current JFC has been purified into 4  domestic business divisions, while the overseas-finance function is carried out by JBIC (a special company under the jurisdiction of the Ministry of Finance).
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
-- **4  supervising ministers**: Minister of Finance (corporate matters and crisis response) / Minister of Health, Labour and Welfare (education loans and part of National Life Business) / Minister of Agriculture, Forestry and Fisheries (Agriculture, Forestry and Fisheries Business) / Minister of Economy, Trade and Industry (SME Business) ^[extracted]
+- **Supervising 4  ministers**: the Minister of Finance (corporate matters overall / crisis response) / the Minister of Health, Labour and Welfare (education loans / part of the National Life business) / the Minister of Agriculture, Forestry and Fisheries (Agriculture-Forestry-Fisheries business) / the Minister of Economy, Trade and Industry (Small and Medium Enterprise business) ^[extracted]
 - **Governing law**: Japan Finance Corporation Act (平成 19 年 Act No. 第 57 号)
-- **Subject to Board of Audit inspection**: continuously audited by the Board of Audit because it is wholly government-owned
-- **Diet reporting**: reports annual business overviews and financial results to the Diet
-- **Government guarantees**: can raise funds through government-guaranteed bonds (market funding + FILP borrowing + government-guaranteed bonds)
+- **Subject to Board of Audit inspection**: as it is wholly government-funded, it is subject to standing inspection by the Board of Audit
+- **Diet reporting**: reports its business overview and financial statements to the Diet each fiscal year
+- **Government guarantee**: can raise funds by issuing government-guaranteed bonds (market funding + FILP borrowing + government-guaranteed bonds)
 
-### Funding Structure
+### Funding structure
 
-- **Fiscal Investment and Loan Program** (FILP funds) as the main pillar: borrowing from the Ministry of Finance Fiscal Loan Fund
-- **Government-guaranteed external / domestic bonds**: issuance to institutional investors
+- **Fiscal Investment and Loan Program** (FILP funds) as the main pillar: borrowing from the Ministry of Finance's Fiscal Loan Fund
+- **Government-guaranteed external / domestic bonds**: issued to institutional investors
 - **FILP agency bonds** (without government guarantee): market funding on its own credit
 
-### Recent Policy Issues
+### Recent policy issues
 
-- 2024 onward: concern over SME defaults and subrogated repayments as **repayment dates arrive** for COVID special loans
-- 2024 onward: stricter implementation of management-guarantee guidelines (expansion of no-guarantor loans)
-- 2025 onward: positioning startup support and GX (green) investment / lending as policy finance
-- 2025 onward: balancing higher prices / wage increases with SME cash-flow support
+- 2024– concerns over SME defaults and subrogated repayments as **repayment periods come due** on COVID special loans
+- 2024– thorough application of the Guidelines on Personal Guarantees by Business Owners (expansion of no-guarantor lending)
+- 2025– the positioning of start-up support and GX (green) investment and lending as policy finance
+- 2025– reconciling soaring prices and wage increases with SME cash flow
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
-- [[financial-regulators/jbic]] (Japan Bank for International Cooperation; separated in 2012 )
+- [[financial-regulators/jbic]] (Japan Bank for International Cooperation; separated 2012 )
 - [[financial-regulators/shoko-chukin]] (Shoko Chukin Bank)
 - [[policy-finance/okinawa-development-finance-corp|okinawa-development-finance-corp]] (Okinawa Development Finance Corporation)
 
 ## Sources
 
-- **Wikipedia: Japan Finance Corporation** (https://ja.wikipedia.org/wiki/日本政策金融公庫, extracted 2026-05-19)
-- **Japan Finance Corporation Act** (平成 19 年 Act No. 第 57 号, e-Gov Law Search)
-- **JFC official site** (https://www.jfc.go.jp/, history, business overview, and business reports)
-- Ministry of Finance materials on the "background to policy-finance reform" (published in 2008 )
+- **Wikipedia: 日本政策金融公庫**（https://ja.wikipedia.org/wiki/日本政策金融公庫, extracted 2026-05-19）
+- **Japan Finance Corporation Act**（平成 19 年 Act No. 第 57 号, e-Gov law search）
+- **JFC official site**（https://www.jfc.go.jp/, history / business overview / business reports）
+- Ministry of Finance, "Background of Policy-Finance Reform" materials（published 2008 ）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0 , checked against Wikipedia + official public materials 2026-05-19). Cumulative COVID special-loan execution amounts and recent subrogated-repayment amounts vary materially by point in time, so latest values should be checked against JFC business reports and Board of Audit inspection reports. Personnel information such as the governor and management team should rely on official IR Quarterly materials.
+> confidence: **likely** (v1.0 , verified against Wikipedia + official public materials 2026-05-19). The cumulative disbursement of COVID special loans and recent subrogated-repayment amounts vary considerably over time; the latest figures should be checked against JFC business reports and Board of Audit inspection reports. Personnel information such as the Governor and management should rely on the official IR Quarterly.

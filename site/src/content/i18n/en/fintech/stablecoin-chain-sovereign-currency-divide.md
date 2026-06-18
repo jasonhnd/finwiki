@@ -1,65 +1,65 @@
 ---
 source: fintech/stablecoin-chain-sovereign-currency-divide
-source_hash: 1d85305c00d4401f
+source_hash: 9af2f775b6adbaa7
 lang: en
 status: machine
 fidelity: ok
-title: "Stablecoin Geopolitical Currency Conflict Framework"
-translated_at: 2026-05-31T11:13:44.874Z
+title: "Stablecoin Geopolitical Currency-Confrontation Framework"
+translated_at: 2026-06-18T23:59:13.073Z
 ---
 
-# Stablecoin Geopolitical Currency Conflict Framework
+# Stablecoin Geopolitical Currency-Confrontation Framework
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|U.S. / Europe / Japan three-currency stablecoin global-compliance architecture (MRA mutual recognition)]] for peer / contrast context and [[fintech/japan-financial-regulation|Japan financial regulation: legal framework for tokens, crypto-assets, and payments]] for the broader system / regulatory boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|米 / 欧 / 日 「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> During 2026-2030, the stablecoin war is not a simple “USDC vs USDT” zero-sum competition. **It is evolving into a five-pole geopolitical currency conflict**: ① US compliance camp (USDC / USD1 / PYUSD on Arc / Tempo / Base) ② EU camp (EURC + EUR-stable on MiCA-compliant chains) ③ Japan camp (JPYC / XJPY on Progmat / Arc-Japan-channel) ④ China / Hong Kong camp (e-CNY off-chain + HKD-stable) ⑤ Gray market (USDT on Tron + Lightning + emerging underground channels).
+> The 2026-2030 年 stablecoin war is not a simple zero-sum "USDC vs USDT" competition, but evolves into a **5 -pole geopolitical currency confrontation**: ① the US-compliance camp (USDC / USD1  / PYUSD on Arc / Tempo / Base) ② the EU camp (EURC + EUR-stable on MiCA-compliant chains) ③ the Japan camp (JPYC / XJPY on Progmat / Arc-Japan-channel) ④ the China / Hong Kong camp (e-CNY off-chain + HKD-stable) ⑤ the grey market (USDT on Tron + Lightning + emerging underground channels).
 
-**5 Polar composition**:
+**5 -pole structure**:
 
-| Pole | Leading Currency | Leading Chain | Leading Regulation | Key Player |
+| Pole | Lead currency | Lead chain | Lead regulation | Key players |
 |---|---|---|---|---|
-| 🇺🇸 US Compliance | USDC/USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum |[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]| Circle / Stripe / Coinbase / PayPal |
-| 🇪🇺 EU | EURC / EUR-stable | MiCA-compliant chains |[[fintech/mica-overview|MiCA]]ART/EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
-| 🇯🇵 Japan | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|Amended Payment Services Act (three EPI categories)]] | [[megabanks/mufg|Mitsubishi UFJ]] / SBI / [[payment-firms/jpyc|JPYC]] ([[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]) |
-| 🇨🇳🇭🇰 China and Hong Kong | e-CNY (off-chain) + HKD-stable | Hong Kong sandbox + RMB Technology First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin legislation (2025-08)]] + PBoC | Ant International / Jingdong / Stan Chart Hong Kong |
-| 🌍 Gray | USDT | Tron + Lightning + New Channel | Avoiding regulations in each country | Tether (Lugano) / Tron / Gray payment processor |
+| 🇺🇸 US compliance | USDC / USD1  / PYUSD / EURC | Arc / Tempo / Base / Ethereum | [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] | Circle / Stripe / Coinbase / PayPal |
+| 🇪🇺 EU | EURC / EUR-stable | MiCA-compliant chains | [[fintech/mica-overview|MiCA]] ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
+| 🇯🇵 Japan | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]] / SBI / [[payment-firms/jpyc|JPYC]] ([[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]) |
+| 🇨🇳🇭🇰 China-HK | e-CNY (off-chain) + HKD-stable | Hong Kong sandbox + RD Technologies (圆币科技) First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]] + PBoC | Ant International / JD / Standard Chartered Hong Kong |
+| 🌍 Grey | USDT | Tron + Lightning + new channels | evading national regulations | Tether (Lugano) / Tron / grey-market payment operators |
 
-**Evolutionary Driver**:
+**Drivers of the evolution**:
 
-- **U.S. GENIUS Act** Enforcement → Forced withdrawal of non-compliant stablecoins from the U.S. market
-- **EU MiCA** → Forced withdrawal of non-compliant stablecoins from the EU market (USDT has already been delisted from some exchanges)
-- **Japan EPI Type 3** → Establishment of license-holding issuer structure
-- **Hong Kong Stablecoin Legislation** → Structuring of offshore channels
-- **Tether** chooses not to actively enter the compliance market → maintains supremacy in the gray market
+- **US GENIUS Act** enforcement → forced withdrawal of non-compliant stablecoins from the US market
+- **EU MiCA** → forced withdrawal of non-compliant stablecoins from the EU market (USDT has already been delisted on some exchanges)
+- **Japan's EPI three types** → establishment of the licensed-issuer structure
+- **Hong Kong stablecoin legislation** → structuring of the offshore channel
+- **Tether** actively choosing not to enter compliant markets → defending its hegemony in the grey market
 
-**Key implication**:
+**Key implications**:
 
-1**Zero-sum probability is significantly reduced**: Each pole has its own “main battlefield” and the cost of competition between poles is high.
-2**Interpole bridging becomes new infrastructure**: e.g. [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI-JPYC-Circle circular shareholding structure]] provides JPY ↔ USDC channel
-3**Network neutrality strategy of large institutions such as Visa** ([[fintech/wall-street-crypto-network-neutrality]]) allows for collection of fees across borders.
-4**The scope for regulatory arbitrage continues to shrink**: Each region has strict legislation and cross-polar compliance requirements are accumulating.
+1. **The probability of a zero-sum outcome drops markedly**: each pole has its own "main battlefield", and the cost of inter-pole competition is high
+2. **Inter-pole bridging becomes new infrastructure**: for example, [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]] provides a JPY ↔ USDC channel
+3. **The network-neutrality strategy of large institutions such as Visa** (see [[fintech/wall-street-crypto-network-neutrality]]) makes it possible to collect fees across poles
+4. **The room for regulatory arbitrage keeps shrinking**: each pole holds strict legislation, and cross-pole compliance requirements accumulate
 
-**Uncertainty factors**:
+**Uncertain factors**:
 
-- Will Mainland China finally allow overseas stablecoins (HK Pilot as a precedent project)?
-- Which pole will the Indian/Brazil/African market ultimately belong to (currently between the US camp and the gray market)
-- Will AI agent economic payment protocols break through the geopolitical divide? [[fintech/protocol-hedge-strategy-stripe-pattern|multi-protocol hedge]] (potential that straddles poles)
+- Whether mainland China will ultimately permit overseas stablecoins (with the HK pilot as a leading case)
+- Which pole the India / Brazil / Africa markets will ultimately belong to (currently between the US camp and the grey market)
+- Whether the payment protocol of the AI-agent economy will break through the geopolitical fragmentation ([[fintech/protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]] has cross-pole potential)
 
 **Strategic observations**:
 
-- Investment perspective: Single bets on either pole carry geopolitical risk, multi-pole allocation (USDC + JPYC + EURC) is more robust
-- Market structure perspective: Important nodes on the US channel in Japan (directly connected to USDC/Arc channel) will be important strategic bases
+- Investment perspective: a single bet on any one pole carries geopolitical risk; a multi-pole allocation (USDC + JPYC + EURC) is more robust
+- Market-structure perspective: within the Japan pole, the key nodes on top of the US-pole channels (direct USDC connection / Arc channel) become important strategic strongholds
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal regime: three-layer structure]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 chain-level denylist]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street network-neutral investment]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether business model]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 チェーン級 Denylist]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street ネットワーク中立投資]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]
 <!-- /wiki-links:managed -->

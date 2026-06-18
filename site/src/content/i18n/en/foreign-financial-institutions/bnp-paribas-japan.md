@@ -1,167 +1,167 @@
 ---
 source: foreign-financial-institutions/bnp-paribas-japan
-source_hash: 7d7337f0855f7881
+source_hash: d96600322c617302
 lang: en
 status: machine
 fidelity: ok
-title: "BNP Paribas Japan"
-translated_at: 2026-05-31T11:13:44.955Z
+title: "BNP Paribas Japan (BNP パリバ日本)"
+translated_at: 2026-06-18T23:59:13.094Z
 ---
 
-# BNP Paribas Japan
+# BNP Paribas Japan (BNP パリバ日本)
 
 ## Wiki route
 
-This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-BNP Paribas Japan is the Japan platform of **BNP Paribas SA**, a French G-SIB in Bucket 2 on the 2025 FSB list, the same bucket as Mitsubishi UFJ FG. Its Japan history reaches back to the **1867 Yokohama branch** of Comptoir National d'Escompte de Paris (CEP), making it one of the oldest European banking presences in Japan. The current Japan platform has roughly **700 employees** and operates across banking through the Tokyo branch, securities through BNP Paribas Securities (Japan), asset management through BNP Paribas Asset Management Japan, and insurance through Cardif Life and Cardif Non-Life. The core domains are CIB (Corporate and Institutional Banking) and IPS (Investment and Protection Services), placing it alongside HSBC Japan and Deutsche Bank Japan as a major European investment-banking presence in Japan.
+The group of Japan bases of France's **BNP Paribas SA** (G-SIB Bucket 2  / 2025  FSB list, in the same rank as Mitsubishi UFJ FG). It traces back to the **1867 年 Yokohama opening** (the former Comptoir National d'Escompte de Paris = CEP), one of the oldest European banks in Japan. It is currently of **approximately 700 名 scale**, covering the 2  domains of CIB (Corporate & Institutional Banking) + IPS (Investment & Protection Services), across the 4  pillars of banking (Tokyo Branch) + securities (BNP Paribas Securities) + asset management (BNP Paribas AM Japan) + life & non-life insurance (Cardif Life / Cardif Non-Life). Among the European-affiliated firms, it ranks alongside [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/deutsche-japan]] as a major foreign IB presence.
 
 ## 1. Company overview
 
-**Parent**: BNP Paribas SA, headquartered in Paris, Euronext Paris: BNP, G-SIB Bucket 2 with +1.5% CET1 additional buffer.
-**Japan business types**: foreign-bank branch, investment banking, asset management, life insurance, and non-life insurance.
-**Japan headcount**: approximately 700, based on official disclosures.
-**Main offices**: Tokyo for the CIB hub, and Shibuya, Tokyo for Cardif Life.
+**Parent company**: BNP Paribas SA (headquartered in Paris, Euronext Paris: BNP, G-SIB Bucket 2  / +1.5% CET1  additional buffer)
+**Business in Japan**: foreign-affiliated bank (Tokyo Branch) + investment bank + asset management + life & non-life insurance
+**Total personnel at Japan bases**: approx. 700 名 (official figure)
+**Main offices**: Tokyo (CIB hub), Tokyo / Shibuya (Cardif Life: Shibuya Infos Tower)
 
-### Main Japan entities
+### Main Japan-resident entities
 
 ```
 BNP Paribas SA (French G-SIB Bucket 2)
-  ├── BNP Paribas Tokyo Branch (business started in 1973)
-  │     └── CIB: corporate lending, structured finance, FX / rates,
-  │             global transaction banking, treasury, export and project finance
-  ├── BNP Paribas Securities (Japan) Limited (established 2000)
-  │     └── CIB: capital markets, investment-banking solutions,
-  │             institutional investor and corporate services
-  ├── BNP Paribas Asset Management Japan Ltd.
-  │     └── IPS: institutional and retail asset-management products
-  ├── Cardif Assurance Vie Japan (Cardif Life)
-  │     └── IPS: bancassurance-centered credit life and cancer-credit life
-  └── Cardif Assurances Risques Divers Japan (Cardif Non-Life)
-        └── IPS: bank-distributed protection and card-protection products
+  ├── BNP Paribas Bank Tokyo Branch (operations started 1973 )
+  │     └── CIB: corporate lending / structured finance / FX & rates
+  │             / global transaction banking / treasury / export & project
+  ├── BNP Paribas Securities Co., Ltd. (BNP Paribas Securities (Japan) Limited, established 2000 )
+  │     └── CIB: capital markets / IB solutions / for institutional investors & corporates
+  ├── BNP Paribas Asset Management Co., Ltd. (established 2000  / 2010  → BNP Paribas Investment Partners
+  │     Japan / 2017  renamed BNP Paribas AM Japan)
+  │     └── IPS: management for institutional investors + retail
+  ├── Cardif Life Insurance Co., Ltd. (Cardif Assurance Vie Japan, established 2000-04  / 2018  became a current local entity)
+  │     └── IPS: bank-counter-sales-led, mortgage-related group credit life / cancer group credit life
+  └── Cardif Non-Life Insurance Co., Ltd. (Cardif Assurances Risques Divers Japan, 2018  became a current local entity)
+        └── IPS: bank counter sales / card protection, etc.
 ```
 
-### Key timeline
+### Key chronology
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1867 | Comptoir National d'Escompte de Paris (CEP) opened a **Yokohama branch**, one of the earliest European bank entries into Japan. |
-| 1872 | Yokohama branch became a formal local CEP entity. |
-| 1877 | Yokohama branch temporarily withdrew. |
-| 1884 | Yokohama operations resumed. |
-| 1893 | Yokohama branch permanently closed as part of business rationalization. |
-| 1907 | Banque de Paris et des Pays-Bas, a Paribas predecessor, participated in arranging Japanese government bond issuance in Europe. |
-| 1968 | Banque Nationale de Paris (BNP) opened a Tokyo representative office. |
-| 1973 | BNP formally began business as the Tokyo Branch and listed in the foreign section of the Tokyo Stock Exchange. |
-| 1982 | Compagnie Financiere de Paris et des Pays-Bas changed name while continuing the TSE foreign-section listing. |
-| **2000-05** | **BNP and Paribas merged to form BNP Paribas SA** in Paris. |
-| 2000 | BNP Paribas Securities and BNP Paribas Asset Management Japan established. |
-| 2000-04 | Cardif Life established, focused on bancassurance and credit-life products. |
-| 2004 | BNP Paribas Trust Bank, established in 1999, was sold to the Tokyo metropolitan government and later integrated into the Kiraboshi Bank lineage. |
-| 2008-2009 | BNP Paribas remained comparatively resilient among European investment banks after Lehman, with limited French state support compared with peers requiring larger capital injections. |
-| **2009-04-28** | **BNP Paribas delisted from the TSE foreign section** due to thin trading and a low Japanese shareholder ratio. |
-| 2010 | BNP Paribas Asset Management changed name to BNP Paribas Investment Partners Japan. |
-| 2017 | BNP Paribas Investment Partners Japan changed name again to BNP Paribas Asset Management Japan. |
-| **2018** | **Cardif life and non-life operations shifted from Japan branches to Japanese corporations**. |
-| 2019-10 | James Gibson became General Manager of the Tokyo Branch. |
-| 2024 | BNP Paribas SA remained Bucket 2 on the FSB 2024 G-SIB list. |
-| **2025-11** | BNP Paribas SA remained Bucket 2 on the FSB 2025 G-SIB list, alongside Mitsubishi UFJ FG, Barclays, Goldman Sachs, Credit Agricole, UBS, and others. |
+| 1867 | Comptoir National d'Escompte de Paris (CEP) **opened a branch in Yokohama** ── one of the earliest European bank entries into Japan |
+| 1872 | The Yokohama branch became a formal local entity of CEP |
+| 1877 | The Yokohama branch withdrew once |
+| 1884 | Reopened in Yokohama |
+| 1893 | Permanently closed Yokohama (management rationalization) |
+| 1907 | Paribas's predecessor (Banque de Paris et des Pays-Bas) participated in arranging JGB issuance in Europe |
+| 1968 | Banque Nationale de Paris (BNP, later the merging side) opened a representative office in Tokyo |
+| 1973 | BNP **formally started operations as the Tokyo Branch** and listed on the Tokyo Stock Exchange Foreign Section ── a postwar full-bank return of a French bank |
+| 1982 | Renamed Compagnie Financière de Paris et des Pays-Bas, continued listing on the TSE Foreign Section |
+| **2000-05** | **BNP + Paribas merger inaugurated → BNP Paribas SA** (Paris) |
+| 2000 | BNP Paribas Securities / BNP Paribas Asset Management Japan established |
+| 2000-04 | Cardif Life established ── bank-counter-sales-led, specialized in the group-credit-life domain |
+| 2004 | **Sold BNP Paribas Trust Bank (established 1999 ) to the Tokyo Metropolis → later integrated into the Kiraboshi Bank lineage** (withdrawal from trust in Japan) |
+| 2008-2009 | Relatively solid as a European IB after Lehman ── while major European banks required large-scale public capital injections, French government support was limited |
+| **2009-04-28** | **BNP Paribas delisted from the TSE Foreign Section** (due to thin trading and a low ratio of Japanese shareholders) |
+| 2010 | BNP Paribas Asset Management → renamed BNP Paribas Investment Partners Japan |
+| 2017 | BNP Paribas Investment Partners Japan → renamed again to BNP Paribas AM Japan |
+| **2018** | **Cardif Life & Non-Life transitioned from Japan branches to Japanese corporations** (Cardif Assurance Vie Japan / Cardif Assurances Risques Divers Japan) |
+| 2019-10 | James Gibson appointed General Manager of the Tokyo Branch |
+| 2024 | On the **FSB 2024  G-SIB list**, BNP Paribas SA maintained Bucket 2 (+1.5% CET1) |
+| **2025-11** | On the **FSB 2025  G-SIB list**, maintained Bucket 2  (the same Bucket as Mitsubishi UFJ FG / Barclays / Goldman Sachs / Crédit Agricole / UBS, etc.) |
 
-### Parent scale: consolidated reference
+### Sense of the parent company's scale (consolidated basis, for reference)
 
-| Item | Notes |
+| Item | Content |
 |---|---|
-| Listing market | Euronext Paris: BNP, CAC 40 constituent |
-| G-SIB | Bucket 2, +1.5% CET1 additional buffer, applicable from 2027-01 |
-| Global footprint | Approximately 65 countries |
-| Japan headcount | Approximately 700 |
-| Business fields | CIB, IPS, and CPBS; CPBS retail and specialist finance is not deployed in Japan in the same way |
+| Listing market | Euronext Paris: BNP (index CAC 40) |
+| G-SIB | Bucket 2 (+1.5% CET1  additional capital requirement, applied 2027-01 ) |
+| Bases worldwide | approx. 65  countries |
+| Personnel at Japan bases | approx. 700 名 |
+| Business areas | CIB (Corporate & Institutional Banking) + IPS (Investment & Protection Services) + CPBS (Commercial, Personal Banking & Services; not deployed in Japan) |
 
 ## 2. Business segment map
 
-| Segment | Main operator | Characteristics |
+| Segment | Main operators | Features |
 |---|---|---|
-| Corporate lending / transaction banking | BNP Paribas Tokyo Branch | Large corporates and global Japanese companies; transaction banking |
-| Structured finance | Tokyo Branch | Aircraft, shipping, and project finance, a traditional European investment-bank strength |
-| FX / rates / derivatives | Tokyo Branch + BNP Paribas Securities | Global markets and macro products for institutional investors |
-| Capital markets / investment banking | BNP Paribas Securities | DCM, ECM, and advisory; access to European markets for large Japanese corporates |
-| Institutional brokerage | BNP Paribas Securities | Equities, fixed income, and prime brokerage, including global relevance from Deutsche Bank's prime-brokerage transfer |
-| Asset management | BNP Paribas Asset Management Japan | Institutional and retail distribution of European-headquartered investment products |
-| Life insurance / credit life | Cardif Life | Developed Japan's first cancer-credit life product; about 60 bank, shinkin, and other distribution partners; about 115 employees as of 2025-03 |
-| Non-life insurance | Cardif Non-Life | Card protection and bank-distributed protection products |
+| Corporate lending / TB | BNP Paribas Bank Tokyo Branch | for large corporates & global Japanese corporates, transaction banking |
+| Structured finance | Tokyo Branch | aircraft / shipping / project finance, a traditional strength of European IBs |
+| FX / rates / derivatives | Tokyo Branch + BNP Paribas Securities | global markets, macro for institutional investors |
+| Capital markets / IB | BNP Paribas Securities | DCM (corporate bonds) / ECM / advisory, European-market access for large Japanese corporates |
+| Institutional brokerage | BNP Paribas Securities | equities / bonds / prime brokerage (the takeover of Deutsche's global PB business is large worldwide) |
+| Asset management | BNP Paribas AM Japan | institutional + retail, Japan distribution of the European HQ's investment products |
+| Life insurance (group credit life) | Cardif Life | **developed Japan's first cancer group credit life**, approx. 60 社 counter-sales partners such as domestic banks & shinkin, approx. 115 名 (2025-03) |
+| Non-life insurance | Cardif Non-Life | card protection / bank-counter-sales-led |
 
-### Japan positioning
+### Positioning in Japan
 
-- **CIB concentration**: no broad retail-banking presence in Japan; the platform concentrates on corporates and institutional investors, similar to [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]].
-- **Credit-life niche**: Cardif Life's cancer-credit life and bank-distribution model creates a distinctive non-adversarial cooperation model with Japanese banks.
+- **CIB-concentrated type**: retail banking withdrawal (like [[foreign-financial-institutions/citigroup-japan]], the domestic-bank barrier is thick), concentration on corporates / institutional investors
+- **Group-credit-life niche**: Cardif Life's cancer group credit life + the bank-counter-sales model is a unique position ── a "not-an-enemy collaboration" model with domestic banks
 
 ### Digital strategy
 
-- BNP Paribas does not maintain a Japan-specific fintech or digital-banking subsidiary. BNP Paribas Japan's official list covers the Tokyo Branch, securities, asset management, and Cardif life / non-life entities, and does not include a retail digital-bank entity. Parent BNP's Hello bank! digital retail bank is limited to European markets and is not deployed in Japan. In Japan, the group emphasizes collaboration with external fintech and digital operators through its official innovation posture.
-- DCM and syndicated-loan digitization, including tools such as Loan Connector, use global head-office platforms.
+- It does not have a fintech / digital-banking subsidiary specialized for Japan. BNP Paribas Japan's official list of Japan-resident entities consists only of the 5  entities of the bank's Tokyo Branch, securities, AM, and Cardif Life & Non-Life, and does not include a retail-facing digital-bank entity. The parent BNP's digital retail bank Hello bank! is limited to the European markets of France, Belgium, Germany, Italy, the Czech Republic, and Austria, and is not deployed in Japan (BNP Paribas Japan official / Hello bank! official). In Japan it is oriented toward partnerships with external fintech / digital operators (official Innovation page).
+- DCM / syndicated-loan digitalization (Loan Connector, etc.) uses the head office's platform
 
-### Partnership and acquisition strategy
+### Partnership / acquisition strategy
 
-- **Cooperation with Japanese banks**: joint lead roles in syndicated loans and cross-border M&A.
-- **Cardif x bank distribution**: credit-life distribution partnerships with roughly 60 regional banks, shinkin banks, and credit cooperatives.
-- **Asia regional hub structure**: Hong Kong, Singapore, and Tokyo divide regional functions, with Tokyo focused on yen funding, Japanese large corporates, and institutional investors.
+- **Collaboration with domestic banks**: joint lead management in syndicated loans / cross-border M&A
+- **Cardif × domestic-bank counter sales**: group-credit-life counter-sales partnerships with approx. 60 社 regional banks / shinkin / shinkumi
+- **Asian regional hub**: a triangular division of labor among Hong Kong / Singapore / Tokyo (Tokyo for yen funding / large Japanese corporates / institutional investors)
 
-### Overseas strategy from the Japan platform
+### Overseas strategy (from a Japan perspective)
 
-- Japan is an important Asia-Pacific base for a European investment bank, covering yen funding, European-market access for Japanese corporates, and macro products for institutional investors.
-- The Japan platform mirrors the parent group's CIB / IPS two-domain structure.
-- It supports Japanese corporates in cross-border project finance across the Americas and Asia, especially renewable-energy and infrastructure projects.
+- Japan is an **important base for the Asia-Pacific strategy of European-affiliated IBs** (yen carry, European-market access for Japanese companies, institutional-investor macro)
+- It mirrors the parent company's CIB / IPS 2 -domain structure as is
+- It supports Japanese companies' cross-border deals in project finance (renewables / infrastructure) in the Americas / Asia region
 
 ### B2C presence
 
-- No broad retail-banking operation in Japan.
-- B2C exposure is mainly indirect through **Cardif Life's credit-life brand** distributed at Japanese bank counters.
+- No retail banking in Japan
+- B2C is only the **Cardif Life group-credit-life brand** (indirect contact via domestic-bank counters)
 
-## 4. Regulation and policy
+## 4. Regulation & policy
 
-- **Supervisor**: Financial Services Agency; separate licensing applies for banking, Type I financial instruments business, investment management, life insurance, and non-life insurance.
-- **Tokyo Branch regulation**: Banking Act Article 47 approval for a foreign-bank branch.
-- **Securities business**: Financial Instruments and Exchange Act, including Type I / Type II and investment-management scopes.
-- **Insurance business**: Insurance Business Act, separately for life and non-life insurance.
-- **Parent regulatory linkage**:
-  - **G-SIB Bucket 2**: FSB recognition with +1.5% CET1 additional capital requirement, continuing on the 2025 list. ^[extracted]
-  - Direct supervision by the ECB SSM and French ACPR at the European parent level.
-- **Current policy issues**:
-  - BOJ policy-rate normalization from 2024 changes yen funding costs for foreign banks in Japan.
-  - CET1-linked pressure on European investment-bank risk-weighted assets continues from 2025.
-  - FSA suitability rules for bank-distributed insurance products, including Cardif products, continue to tighten.
+- **Supervision**: Financial Services Agency (FSA) ── licensed separately for each business type: banking / Type I financial instruments business / investment management / life & non-life insurance
+- **Tokyo Branch regulation**: Banking Act Article 47  (authorization of a foreign bank branch)
+- **Securities business**: FIEA (Type I / Type II / investment management)
+- **Insurance business**: Insurance Business Act (separately for life & non-life)
+- **Linkage with head-office regulation**:
+  - **G-SIB Bucket 2**: FSB-designated (+1.5% CET1  additional capital requirement, continued on the 2025  list) ^[extracted]
+  - Direct supervision by the European ECB (SSM) / France's ACPR
+- **Recent policy points**:
+  - 2024〜 BOJ policy-rate normalization → change in the yen-funding cost of foreign banks in Japan
+  - 2025〜 risk-asset reduction pressure on European-affiliated IBs (linked to CET1  regulation)
+  - A trend toward stricter FSA suitability rules for bank counter sales (Cardif)
 
-### Main Japan executives: public-information basis ^[extracted]
+### Main Japan-resident management (on a public-information basis) ^[extracted]
 
-| Role | Name | Notes |
+| Position | Name | Notes |
 |---|---|---|
-| BNP Paribas Tokyo Branch General Manager | James Gibson | Appointed 2019-10, per official release |
-| BNP Paribas Asset Management Japan CEO and President | Daisuke Toki | Publicly reported as transferring from Deutsche AM Japan |
-| BNP Paribas Securities Tokyo Branch General Manager | Hikaru Ogata | Appears in official release; date needs reconfirmation |
+| BNP Paribas Tokyo Branch General Manager | James Gibson | appointed 2019-10  (official release) |
+| BNP Paribas AM Japan CEO & President | Daisuke Toki | moved from former Deutsche AM Japan President (public reports) |
+| BNP Paribas Securities Tokyo Branch General Manager | Hikaru Ogata | listed in an official release (timing needs re-confirmation) |
 
-> Executive information can change; official releases should be checked for the latest appointments.
+> The latest information on management is subject to point-in-time changes; official releases should be referred to.
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]]
-- Foreign-bank peers not yet created: citigroup-japan · hsbc-japan · deutsche-japan
-- [[megabanks/ndfg]]: competition and cooperation with Japanese investment-bank, trust, and securities groups
+- Same-industry foreign-affiliated (not yet created): citigroup-japan · hsbc-japan · deutsche-japan
+- [[megabanks/ndfg]] (competition / collaboration with Japanese IBs / trust & securities)
 
 ## Sources
 
 - **BNP Paribas Japan official**: History in Japan (https://www.bnpparibas.jp/en/subsidiaries-in-japan/history-in-japan/, extracted 2026-05-19)
 - **BNP Paribas Japan official**: Subsidiaries in Japan (https://www.bnpparibas.jp/en/subsidiaries-in-japan/, extracted 2026-05-19)
-- **Wikipedia: BNP Paribas** (https://en.wikipedia.org/wiki/BNP_Paribas, extracted 2026-05-19)
-- **FSB: 2025 List of Global Systemically Important Banks** (https://www.fsb.org/2025/11/2025-list-of-global-systemically-important-banks-g-sibs/, published 2025-11-27)
+- **Wikipedia: BNP Paribas** (https://ja.wikipedia.org/wiki/BNPパリバ, extracted 2026-05-19)
+- **FSB: 2025  List of Global Systemically Important Banks** (https://www.fsb.org/2025/11/2025-list-of-global-systemically-important-banks-g-sibs/, published 2025-11-27)
 - **BNP Paribas Cardif Japan Life official**: company profile (https://life.cardif.co.jp/company/profile/, extracted 2026-05-19)
-- **BNP Paribas official**: James Gibson Tokyo Branch GM appointment release, 2019-10-01
-- **BNP Paribas Japan official**: Subsidiaries in Japan (https://www.bnpparibas.jp/en/subsidiaries-in-japan/, extracted 2026-05-30; confirms the Japan five-entity perimeter and absence of a digital-bank / fintech entity)
-- **BNP Paribas Japan official**: Innovation (https://www.bnpparibas.jp/en/about-us/innovation/, extracted 2026-05-30; indicates Japan-oriented external fintech collaboration)
-- **Hello bank!** (https://en.wikipedia.org/wiki/Hello_bank!, extracted 2026-05-30; European markets only, not deployed in Japan)
+- **BNP Paribas official**: James Gibson Tokyo Branch GM appointment release (2019-10-01)
+- **BNP Paribas Japan official**: Subsidiaries in Japan (https://www.bnpparibas.jp/en/subsidiaries-in-japan/, extracted 2026-05-30 — confirmed that the 5  Japan-resident entities do not include a digital-bank / fintech entity)
+- **BNP Paribas Japan official**: Innovation (https://www.bnpparibas.jp/en/about-us/innovation/, extracted 2026-05-30 — in Japan, oriented toward partnerships with external fintechs)
+- **Hello bank!** (https://en.wikipedia.org/wiki/Hello_bank!, extracted 2026-05-30 — limited to Europe: France, Belgium, Germany, Italy, the Czech Republic, and Austria; not deployed in Japan)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Checked on 2026-05-19 using official BNP Paribas pages, Wikipedia, the FSB 2025 G-SIB list, and Cardif Japan official information. Japan headcount of approximately 700 and Cardif distribution partner count of approximately 60 are official public figures. Executive assignments and Japan revenue composition can change; official releases should be checked for current information. **Public information only; no internal materials referenced.**
+> confidence: **likely** (cross-checked 2026-05-19 with a combination of the official website + Wikipedia + the FSB 2025  G-SIB list + Cardif Japan official information). The number of employees in Japan (approx. 700 名) / the number of Cardif counter-sales partners (approx. 60 社) are official figures. Management and the revenue composition in Japan are subject to point-in-time changes; the latest information should be referred to via official releases. **Public information only — no internal materials referenced**.

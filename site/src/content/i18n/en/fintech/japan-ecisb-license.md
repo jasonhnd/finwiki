@@ -1,14 +1,14 @@
 ---
 source: fintech/japan-ecisb-license
-source_hash: 0b05b363585f9afc
+source_hash: 289d320f91401278
 lang: en
 status: machine
 fidelity: ok
-title: "Japan ECISB License"
-translated_at: 2026-05-31T06:16:15.696Z
+title: "Japan ECISB license"
+translated_at: 2026-06-18T23:59:13.062Z
 ---
 
-# Japan ECISB License
+# Japan ECISB license
 
 
 ## Wiki route
@@ -16,59 +16,59 @@ translated_at: 2026-05-31T06:16:15.696Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> ⚠️ **Unverified**: The enforcement date of 2026 年 6 月 is an inference from discussion during conversation and has not been confirmed against the official source of the FSA / Payment Services Act amendment announcement. Verify before use.
+> ⚠️ **Unverified**: the enforcement date of 2026 年 6 月 is a conjecture from the in-conversation discussion and has not been confirmed against an official source from the FSA / the Payment Services Act amendment notice. Confirm before use.
 
-An amendment to the Payment Services Act enacted in 2025 年 6 月 and **fully enforced 2026 年 6 月 (unverified)** introduced the "Electronic Payment Instruments and Crypto Asset Intermediary Business" (ECISB) license.
+Through the amendment to the "Payment Services Act" that was enacted in 2025 年 6 月 and **takes full effect in 2026 年 6 月 (unverified)**, the "Electronic Payment Instruments and Crypto-Asset Intermediary Business" (ECISB) license was introduced.
 
 ## Positioning
 
 
 ## Red line
 
-**Acceptance and custody of user funds is strictly prohibited.** If operations involve the temporary holding of user funds (including transient pools during the netting process), the red line has been crossed and a full license is required.
+**Receiving / custodying user funds is absolutely prohibited.** If the business involves the temporary holding of user funds (including a provisional pool during the netting process), it has crossed the red line, and a full license is required.
 
 ## Core obligations
 
-- Information security management
-- Supervision of outsourced parties
+- Information-security management
+- Supervision of subcontractors
 - User protection
-- No contact with user funds
+- Not touching user funds
 
 ## AML obligations
 
-An ECISBO does not bear direct KYC/AML obligations under the Act on Prevention of Transfer of Criminal Proceeds (APTCP). These responsibilities are borne by the "affiliated party" (the main license holder, such as an EPIESP or bank). For the full picture of Japan VASP regulation see [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムテーブル]].
+An ECISBO does not bear direct KYC/AML obligations under the "Act on Prevention of Transfer of Criminal Proceeds" (APTCP). These responsibilities are borne by the "affiliated party" (the holder of the main license, such as an EPIESP or a bank). For the full picture of Japanese VASP regulation, see [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムテーブル]].
 
 ## Application process and timeline
 
-1. **Pre-consultation** (3-4  months): gap analysis + business model review
+1. **Preliminary interview** (3-4  months): gap analysis + review of the business model
 2. **Formal interview**: document review
 3. **Formal application**
 
 ### Timeline bridge
 
-| Point in time | Action |
+| Point | Action |
 |---------|------|
-| 2026 Q2  | Full enforcement of the act (6  month). Begin ECISB preliminary investigation simultaneously |
-| 2026 Q2-Q3  | Pre-consultation (3-4  months) |
-| 2026 Q3-Q4  | Formal application |
-| 2027 Q1  | Target license acquisition |
+| 2026  Q2 | The amendment takes full effect (in month 6 ). At the same time, the ECISB preliminary investigation begins |
+| 2026  Q2-Q3 | Preliminary interview (3-4  months) |
+| 2026  Q3-Q4 | Formal application |
+| 2027  Q1 | Target for acquisition |
 
-No successful cases as of 2026 年 4 月 (the act awaits full enforcement in 2026 年 6 月). First to obtain = first-mover compliance advantage.
+As of 2026 年 4 月 there are no successful cases (the amendment awaits the full enforcement of 2026 年 6 月). The first acquisition = a first-mover compliance advantage.
 
-## Fit for payment applications
+## Fit for payment-type apps
 
-3 -layer fit for non-custodial payment applications:
+The 3 -layer fit of a non-custodial payment-type app:
 
-1. **Gateway (payment collection connection)**: builds only unsigned transaction instructions and does not touch funds → falls within the ECISB information routing category
-2. **Clearing**: aggregates invoices, calculates net amounts, generates smart contract call instructions, settles via signature from self-custody wallets → falls within the ECISB information routing category
+1. **Gateway** (collection connection): constructs only unsigned transaction instructions and does not touch funds → falls within the scope of ECISB information routing
+2. **Clearing**: aggregates invoices, calculates net offset amounts, generates smart-contract call instructions, and settles with the signature of a self-custody wallet → falls within the scope of ECISB information routing
 
-The self-custody principle (no contact with private keys, no custody of funds) is not only a design philosophy but also a prerequisite for using the lightweight ECISB license.
+The self-custody principle (not touching the private key, not custodying funds) is not only a design philosophy but also a precondition for using the lightweight ECISB license.
 
-## Affiliated party requirement
+## Affiliated-party requirement
 
-An ECISBO requires an entity holding an EPIESP or CAESP license as its "affiliated party."
+An ECISBO requires, as an "affiliated party," an entity that holds an EPIESP or CAESP license.
 
-**Candidate: registered CEX** (a registered exchange holding a crypto asset exchange business registration qualifies as a CAESP and satisfies the affiliated-party condition) — for details on the registration system see [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]; for self-regulatory rules see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]. Comprehensive index of the Japan license system: [[financial-licenses/INDEX|日本金融ライセンス・インデックス]].
+**Candidate: a registered CEX** (a registered exchange holding a crypto-asset exchange business registration has CAESP qualification and satisfies the affiliated-party condition) — for the detailed registration system see [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]], and for the self-regulatory rules see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]. The comprehensive index of the Japanese license system is [[financial-licenses/INDEX|日本金融ライセンス・インデックス]].
 
 ## Related
 <!-- wiki-links:managed -->

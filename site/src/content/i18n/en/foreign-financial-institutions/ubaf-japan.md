@@ -1,13 +1,14 @@
 ---
 source: foreign-financial-institutions/ubaf-japan
-source_hash: d3e4b9e8bfd8f389
+source_hash: 416c526f2d3d488f
 lang: en
 status: machine
 fidelity: ok
-title: "UBAF Japan"
-translated_at: 2026-06-01T02:31:57.114Z
+title: "Union de Banques Arabes et Françaises Japan (UBAF Japan)"
+translated_at: 2026-06-18T23:59:13.046Z
 ---
-# UBAF Japan
+
+# Union de Banques Arabes et Françaises Japan (UBAF Japan)
 
 ## Wiki route
 
@@ -17,7 +18,7 @@ Use this page for trade-finance, correspondent-banking, Europe-Asia-Arab-world f
 
 ## Overview
 
-UBAF describes itself as a French-law financial institution created in 1970,  with shareholders from the Arab world associated with Crédit Agricole Corporate & Investment Bank. Its public presentation emphasizes trade finance and international trade support. Its clearers page lists a JPY / Japan / Tokyo row for Union de Banques Arabes et Françaises.
+UBAF describes itself as a French-law financial institution created in 1970, with shareholders from the Arab world associated with Crédit Agricole Corporate & Investment Bank. Its public presentation emphasizes trade finance and international trade support. Its clearers page lists a JPY / Japan / Tokyo row for Union de Banques Arabes et Françaises.
 
 The page is worth standalone treatment because UBAF is not just another French bank row. It is a trade-finance and correspondent-banking specialist route linking Europe, Asia, Africa, and the Arab world, with a Tokyo branch surface.
 

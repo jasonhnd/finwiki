@@ -1,140 +1,144 @@
 ---
 source: financial-regulators/fsa
-source_hash: 4e1b655f9ca3571b
+source_hash: 442516a61393dea1
 lang: en
 status: machine
 fidelity: ok
 title: "Financial Services Agency (FSA)"
-translated_at: 2026-05-31T15:29:03.909Z
+translated_at: 2026-06-18T23:59:13.079Z
 ---
 # Financial Services Agency (FSA)
 
 ## Wiki route
 
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj|Bank of Japan]] for the central-bank counterpart, and [[financial-regulators/dic|Deposit Insurance Corporation of Japan]], [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for safety-net institutions within the supervised financial system.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
 
 ## TL;DR
 
-The Financial Services Agency is the Cabinet Office external agency that centrally supervises Japan's banking, insurance, securities, asset-management, funds-transfer, lending, and crypto-asset sectors. It was established on 2000-07-01 after the separation of financial supervision from the former Ministry of Finance. Its institutional history reflects the late-1990s loss of trust in bank supervision and the policy decision to separate financial regulation from monetary policy. The agency is led administratively by the Commissioner and politically by the Minister of State for Financial Services. Over the past decade, its scope has expanded through crypto-asset exchange registration, the Corporate Governance Code, the Stewardship Code, sustainability disclosure, and digital-securities / electronic-payment-instrument regulation.
+**A Cabinet Office external bureau that unifies supervision of Japan's banking, insurance, securities, and crypto-asset industries.** **2000-07-01: separated from the Ministry of Finance (the old MoF) as the Financial Supervisory Agency → became the Financial Services Agency in 2000-07 .** Prehistory: the 1998  MoF entertainment-bribery scandal → loss of trust in banking administration → the policy of separating "bank supervision" from "monetary policy." **Strategy Bureau (the former Strategy and Policy Management Bureau) + Supervision Bureau + Inspection Bureau (since abolished and integrated) + Planning and Markets Bureau** (after the reorganization of the enforcement structure, currently a **Strategy and Policy Management Bureau + Planning and Markets Bureau + Supervision Bureau + Vice Minister for Policy Coordination** structure). The Commissioner is the top of the administrative staff, above whom the **Minister for Financial Services** (Minister of State for Special Missions of the Cabinet Office) provides political direction. Over the past 10  years the supervisory remit has expanded significantly, covering virtual-currency / crypto-asset regulation (the 2017  revised Payment Services Act), the Corporate Governance Code (2014), the Stewardship Code (2014), sustainability disclosure (2022 onward), and more.
 
-## 1. Legal basis and establishment
+## 1. Legal basis / establishment
 
-**Official name**: Financial Services Agency
-**Legal basis**: Act for Establishment of the Financial Services Agency, Act for Establishment of the Cabinet Office
-**Established**: 2000-07-01, through the reorganization of the Financial Supervisory Agency
-**Institutional position**: external agency of the Cabinet Office
-**Head office**: 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo
-**Responsible minister**: Minister of State for Financial Services
-**Administrative head**: Commissioner of the Financial Services Agency
+**Legal name**: Financial Services Agency
+**English name**: Financial Services Agency (FSA)
+**Legal basis**: **Act for Establishment of the Financial Services Agency** (平成 10 年 Act 第 130 号) + **Act for Establishment of the Cabinet Office**
+**Established**: **2000-07-01** (Financial Supervisory Agency → reorganized into the Financial Services Agency)
+**Status**: **external bureau of the Cabinet Office**
+**Headquarters**: Kasumigaseki, Chiyoda-ku, Tokyo 3-2-1
+**Supervising minister**: **Minister for Financial Services** (Minister of State for Special Missions of the Cabinet Office, directly under the Prime Minister)
+**Commissioner**: top of the administrative staff
 
-### Institutional history
+### History
 
-```text
-Before 1998 : Former Ministry of Finance banking, securities, and international-finance bureaus supervised finance
-1998        : Ministry of Finance entertainment-corruption scandal damaged trust in bank supervision
-1998-06     : Financial Supervisory Agency established and supervisory functions separated from the Ministry of Finance
-2000-07     : Financial Supervisory Agency and Financial Reconstruction Commission secretariat reorganized into the FSA
-2001-01     : Central-government reorganization placed the FSA as a Cabinet Office external agency
-2017-04     : Crypto-asset exchange registration regime began
-2018-07     : Inspection and supervision functions were reorganized into an integrated supervisory model
+```
+~1998    the MoF Banking Bureau / Securities Bureau / International Finance Bureau exercised unified supervision
+1998      MoF entertainment-bribery scandal → loss of trust in banking administration
+1998-06   Financial Supervisory Agency established (supervisory function separated from the MoF)
+2000-07   **merged with the Financial Reconstruction Commission → Financial Services Agency inaugurated**
+2001-01   central-government reorganization → re-established as an external bureau of the Cabinet Office
+2017-04   virtual-currency exchange registration system began
+2018-04   the Planning and Markets Bureau + Supervision Bureau structure took hold
 ```
 
-### Selected milestones
+### Key chronology
 
 | Date | Event |
 |---|---|
-| 1998-06 | Financial Supervisory Agency established |
-| 1998-10 | Financial Reconstruction Commission established for bank-failure resolution |
-| 2000-07 | FSA established through reorganization |
-| 2003-05 | Public capital injection and effective nationalization of [[megabanks/resona-hd|Resona]] |
-| 2006-06 | Financial Instruments and Exchange Act enacted, replacing the Securities and Exchange Act framework |
+| 1998-03 | MoF entertainment-bribery scandal → Diet testimony / loss of trust in banking administration |
+| **1998-06** | **Financial Supervisory Agency inaugurated** |
+| 1998-10 | Financial Reconstruction Commission inaugurated (responsible for resolving bank failures) |
+| **2000-07** | **Financial Supervisory Agency + secretariat of the Financial Reconstruction Commission → Financial Services Agency inaugurated** |
+| 2003-05 | [[megabanks/resona-hd|りそな]] public-fund injection / effective nationalization |
+| **2006-06** | **Financial Instruments and Exchange Act enacted** (a full revision of the Securities and Exchange Act) |
 | 2007-09 | Financial Instruments and Exchange Act came into force |
-| 2014-06 | Stewardship Code published |
-| 2014-06 | Corporate Governance Code published jointly with the Tokyo Stock Exchange |
-| 2017-04 | Revised Payment Services Act introduced crypto-asset exchange registration |
-| 2018-01 | Coincheck incident triggered intensified crypto-asset supervision |
-| 2020 | Pandemic-era finance policy, moratoria, and electronic-payment-agency oversight became policy themes |
-| 2022-04 | Financial Instruments and Exchange Act revisions strengthened sustainability disclosure |
-| 2023-04 | Digital-securities regulatory framework advanced |
+| **2014-06** | **Stewardship Code published** |
+| **2014-06** | **Corporate Governance Code published (jointly with the TSE)** |
+| **2017-04** | **Revised Payment Services Act came into force → virtual-currency (crypto-asset) exchange registration system** |
+| 2018-01 | Coincheck leak incident → strengthening of crypto-asset regulation |
+| 2020 | **COVID-response financial measures / moratorium / strengthening of electronic-payment intermediary business** |
+| **2022-04** | **Financial Instruments and Exchange Act amended → strengthening of sustainability disclosure** |
+| 2023-04 | Digital securities (ST) regulation developed |
 
-## 2. Current organization
+## 2. Organizational structure (current)
 
-```text
-Minister of State for Financial Services
-   |
-Commissioner of the Financial Services Agency
-   ├── Vice Commissioner for International Affairs
-   ├── Deputy Commissioner for Policy Planning and Coordination
-   ├── [[financial-regulators/fsa-strategy-bureau|Strategy Development and Management Bureau]]
-   ├── [[financial-regulators/fsa-planning-coordination-bureau|Policy and Markets Bureau]]
-   ├── [[financial-regulators/fsa-supervision-bureau|Supervision Bureau]]
-   ├── [[financial-regulators/fsa-inspection-bureau|Inspection Bureau, historical function integrated after reorganization]]
-   └── Securities and Exchange Surveillance Commission (SESC)
+```
+Minister for Financial Services (Minister of State for Special Missions of the Cabinet Office, political direction)
+   │
+FSA Commissioner (top of the administrative staff)
+   ├── Vice Minister for International Affairs (international / global operations)
+   ├── Vice Minister for Policy Coordination
+   │
+   ├── [[financial-regulators/fsa-strategy-bureau|総合政策局（戦略局）]] ── overall supervision / cross-cutting policy
+   ├── [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] ── institutional design / market regulation
+   ├── [[financial-regulators/fsa-supervision-bureau|監督局]] ── supervision of individual operators (banking / insurance / securities)
+   ├── [[financial-regulators/fsa-inspection-bureau|検査局]] (former structure; now integrated into the Supervision Bureau / Strategy and Policy Management Bureau)
+   │
+   └── Securities and Exchange Surveillance Commission (SESC, an Article 3  commission)
+            inspection / investigation / referral of the securities market
 ```
 
-The former inspection-bureau model was functionally integrated through the 2018 reorganization. Current practice emphasizes integrated inspection and supervision rather than treating on-site inspections as a separate institutional channel.
+* The Inspection Bureau was integrated functionally into the Supervision Bureau / Strategy and Policy Management Bureau in the 2018-07  organizational reform. The current structure is one of "integrated inspection-and-supervision operation."
 
-### Key councils and bodies
+### Main councils / deliberative bodies
 
-- **Financial System Council**: policy advisory forum and venue for legislative design.
-- **Financial Functions Strengthening Review Board**: review of public-capital support cases.
-- **Certified Public Accountants and Auditing Oversight Board**: oversight of auditors.
-- **Securities and Exchange Surveillance Commission**: market surveillance, inspections, investigations, and referral of cases.
+- **Financial System Council**: policy advisory body, the hub for debating institutional reforms
+- **Council for Strengthening the Financial Function**: reviews public-fund injection cases
+- **Certified Public Accountants and Auditing Oversight Board**: oversight of accountants
+- **Securities and Exchange Surveillance Commission** (SESC): market surveillance
 
-## 3. Supervised sectors
+## 3. Entities supervised
 
-| Sector | Principal law | Examples |
+| Sector | Governing law | Main entities |
 |---|---|---|
-| Banking | Banking Act | [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/smbc|SMBC]], [[megabanks/mizuho-bank|Mizuho Bank]], regional banks, shinkin banks |
-| Securities | Financial Instruments and Exchange Act | [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/mizuho-securities|Mizuho Securities]] |
-| Insurance | Insurance Business Act | [[non-life-insurers/tokio-marine-hd|Tokio Marine]], [[life-insurers/dai-ichi-life-hd|Dai-ichi Life]], [[life-insurers/kampo-life|Japan Post Insurance]] |
-| Asset management | Financial Instruments and Exchange Act | Investment trust and investment advisory operators |
-| Funds transfer | Payment Services Act | [[payment-firms/paypay|PayPay]], [[megabanks/line-pay|LINE Pay]] |
-| Crypto assets | Revised Payment Services Act and related FIEA rules | [[payment-firms/bitflyer|bitFlyer]], [[payment-firms/gmo-coin|GMO Coin]] |
-| Money lending | Money Lending Business Act | [[consumer-finance/acom|ACOM]], [[consumer-finance/aiful|AIFUL]] |
+| **Banking** | Banking Act | [[megabanks/mufg-bank|MUFG]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ]] / regional banks / shinkin, etc. |
+| **Securities** | Financial Instruments and Exchange Act | [[securities-firms/nomura-hd|野村]] / [[securities-firms/daiwa-sg|大和]] / [[securities-firms/mizuho-securities|みずほ証券]], etc. |
+| **Insurance** | Insurance Business Act | [[non-life-insurers/tokio-marine-hd|東京海上]] / [[life-insurers/dai-ichi-life-hd|第一生命]] / [[life-insurers/kampo-life|かんぽ]], etc. |
+| **Asset management** | Financial Instruments and Exchange Act | investment-trust / investment-advisory operators |
+| **Funds-transfer business** | Payment Services Act | [[payment-firms/paypay|PayPay]] / [[megabanks/line-pay|LINE Pay]], etc. |
+| **Crypto-asset business** | revised Payment Services Act (2017) | [[payment-firms/bitflyer|bitFlyer]] / [[payment-firms/gmo-coin|GMO コイン]], etc. |
+| **Money-lending business** | Money Lending Business Act | [[consumer-finance/acom|アコム]] / [[consumer-finance/aiful|アイフル]], etc. |
 
-### Corporate Governance Code
+### Corporate Governance Code (2014 onward)
 
-- Prepared jointly with [[financial-regulators/japan-exchange-group|JPX]].
-- Prime Market issuers follow a comply-or-explain approach.
-- The code formalizes board independence, diversity, nomination and remuneration committees, and sustainability governance.
-- 2018 and 2021 revisions strengthened outside-director, independent-director, and sustainability expectations.
+- Drafted jointly with [[financial-regulators/japan-exchange-group|JPX]]
+- In the Prime market, the comply-or-explain principle applies
+- Codifies the independence and diversity of the board, the nomination / remuneration committees, etc.
+- The 2018  / 2021  revisions strengthened outside directors, the ratio of independent outside directors, sustainability, etc.
 
-### Stewardship Code
+### Stewardship Code (2014 onward)
 
-- Sets principles for institutional-investor voting, engagement, and stewardship.
-- 2017 and 2020 revisions expanded coverage to ESG, sustainability, and passive investment.
+- Principles for institutional investors' voting and engagement
+- The 2017  / 2020  revisions extended it to ESG / sustainability / passive funds
 
-### Crypto-asset regulation
+### Crypto-asset regulation (2017 onward)
 
-- Revised Payment Services Act introduced crypto-asset exchange registration in 2017.
-- The 2018 Coincheck incident prompted tighter supervision.
-- 2019 revisions changed the statutory terminology from virtual currency to crypto asset.
-- Stablecoin regulation was added through 2022 Payment Services Act revisions.
+- Crypto-asset exchange registration system under the revised Payment Services Act
+- Regulation strengthened after the 2018  Coincheck leak incident
+- The 2019  revision changed the term from "virtual currency" to "crypto-asset"
+- Stablecoin regulation (the 2022  revised Payment Services Act)
 
-### Sustainability disclosure
+### Sustainability disclosure (2022 onward)
 
-- Annual securities reports now require sustainability information.
-- The framework links to [[finance/issb|ISSB]] and [[finance/ssbj|SSBJ]] standards.
-- SSBJ standards were formally published in 2024.
+- **Mandatory disclosure of sustainability information** in securities reports
+- Linked to the [[finance/issb|ISSB]] / [[finance/ssbj|SSBJ]] standards
+- 2024  formal publication of the SSBJ standards
 
 ## Related
 
-- [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] · [[financial-regulators/fsa-planning-coordination-bureau|FSA Policy and Markets Bureau]] · [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] · [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau]]
-- [[financial-regulators/boj|Bank of Japan]] · [[financial-regulators/dic|Deposit Insurance Corporation of Japan]] · [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] · [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]
-- [[financial-regulators/japan-exchange-group|Japan Exchange Group]] · [[financial-regulators/jsda|Japan Securities Dealers Association]]
+- [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局（戦略局）]] · [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] · [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] · [[financial-regulators/fsa-inspection-bureau|FSA 検査局]]
+- [[financial-regulators/boj|日本銀行]] · [[financial-regulators/dic|預金保険機構]] · [[financial-regulators/sonpo-hosho-kiko|損保機構]] · [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]]
+- [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
 - [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
 - [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 
-- Wikipedia: Financial Services Agency, public reference.
-- Financial Services Agency official website.
-- Financial Services Agency organization chart.
-- Act for Establishment of the Financial Services Agency.
-- Act for Establishment of the Cabinet Office.
+- **Wikipedia: Financial Services Agency** (https://ja.wikipedia.org/wiki/金融庁, extracted 2026-05-25)
+- **FSA official site** (https://www.fsa.go.jp/, accessed 2026-05-25)
+- **FSA organization chart** (https://www.fsa.go.jp/common/about/organization/index.html, accessed 2026-05-25)
+- **Act for Establishment of the Financial Services Agency** (平成 10 年 Act 第 130 号)
+- **Act for Establishment of the Cabinet Office** (平成 11 年 Act 第 89 号)
 
 ---
 
-> [!info] Validation status
-> confidence: **likely**. Institutional history and organization are based on public FSA materials, public law references, and public secondary summaries.
+> [!info] Verification status

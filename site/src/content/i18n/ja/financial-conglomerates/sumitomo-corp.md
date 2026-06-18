@@ -1,21 +1,21 @@
 ---
 source: financial-conglomerates/sumitomo-corp
-source_hash: fb44c7abc3fbc582
+source_hash: 2c86e9497bd4bc85
 lang: ja
 status: machine
 fidelity: ok
-title: "住友商事"
-translated_at: 2026-06-02T15:14:17.113Z
+title: "住友商事 (Sumitomo Corporation)"
+translated_at: 2026-06-18T23:59:13.106Z
 ---
-# 住友商事
+# 住友商事 (Sumitomo Corporation)
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置き、総合商社の親会社・持株会社的な中核として扱う。比較・対照の文脈では、旧財閥商社の両雄である [[financial-conglomerates/mitsubishi-corp|三菱商事]]、財閥商社の三巨頭である [[financial-conglomerates/mitsui-co|三井物産]] とあわせて読む。この項目を JapanFG に接続する金融サービス隣接領域としては、[[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内向け CMS）、特に **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角）と **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（オートリース国内首位級）を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+本エントリは **総合商社の親持株会社** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下にある。ピア／対照の文脈として [[financial-conglomerates/mitsubishi-corp|三菱商事]]（旧 財閥商社の両雄）および [[financial-conglomerates/mitsui-co|三井物産]]（財閥商社の三巨頭）と対照して読むこと。本エントリに JapanFG アンカーを与える金融サービス隣接性については — [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内向け CMS）、とりわけ **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角）および **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（オートリース国内首位級）を参照。システム・フレーム: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
-| 項目 | メモ |
+| Item | Notes |
 |---|---|
 | 正式名 | 住友商事株式会社 ^[extracted] |
 | English | Sumitomo Corporation ^[extracted] |
@@ -33,7 +33,7 @@ translated_at: 2026-06-02T15:14:17.113Z
   ├── [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%) — 内向け CMS / グループファイナンス
   ├── [[leasing-firms/smfl|SMFL]] (50%, 残り 50% [[megabanks/smfg|SMFG]])                              — 外向け総合リース、3 大リースの一角
   ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (一部持分)                — オートリース国内首位級
-  ├── J:COM (Jupiter Telecom、KDDI との 50/50  JV)                                                    — ケーブル TV / メディア
+  ├── J:COM (Jupiter Telecom、KDDI 50/50 JV)                                                    — ケーブル TV / メディア
   └── SCSK (約 50% 級, 連結子会社)                                                              — IT サービス国内大手、東証 PRIME 9719
 ```
 
@@ -52,16 +52,16 @@ translated_at: 2026-06-02T15:14:17.113Z
 
 ## 2. 事業セグメント・マップ
 
-| セグメント | 主要事業 | 代表的子会社・関連 |
+| Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
 | 金属 | 鋼管 (energy 用 OCTG)、鋼材、鋼板加工 | Sumitomo Pipe & Tube |
 | 輸送機・建機 | 商用車・トラック (北米)、建設機械 (KOMTRAX 系) | — |
 | インフラ | 発電 IPP、再エネ、洋上風力、海水淡水化、送電 | — |
-| メディア・デジタル | J:COM (KDDI との 50%)、SCSK (50%+ 連結)、テレコム関連 | J:COM、SCSK (9719) |
+| メディア・デジタル | J:COM (50% with KDDI)、SCSK (50%+ 連結)、テレコム関連 | J:COM、SCSK (9719) |
 | 生活・不動産 | リテール (スーパーマーケット、Tomod's 系)、不動産、住宅 | — |
 | 資源・化学品 | 石炭 (豪州マダガスカル)、銅、ニッケル、化学品 | — |
 
-## 3. 金融サービス隣接領域
+## 3. Financial-services adjacency
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
@@ -71,7 +71,7 @@ translated_at: 2026-06-02T15:14:17.113Z
 
 加えて、**住友グループの financial-services エコシステム**:
 
-「**SMFL = 住友商事の外向けリース・アセットファイナンス部門** (SMFG と 50/50 JV)」「**住友三井オートサービス = オートリース** (3 社共同)」「住友商事フィナンシャルマネジメント = 内向け CMS」の三層構造。これは [[financial-conglomerates/mitsubishi-corp|三菱商事]] (HCキャピタル 持分法 + MCFS) や [[financial-conglomerates/mitsui-co|三井物産]] (JA三井リース + MBFS) と比較して、**メガバンク (SMFG) との 50/50 JV** という共同支配体制が住友商事の特徴。
+「**SMFL = 住友商事の外向けリース・asset finance 腕** (SMFG と 50/50 JV)」「**住友三井オートサービス = オートリース** (3 社共同)」「住友商事フィナンシャルマネジメント = 内向け CMS」の三層構造。これは [[financial-conglomerates/mitsubishi-corp|三菱商事]] (HCキャピタル 持分法 + MCFS) や [[financial-conglomerates/mitsui-co|三井物産]] (JA三井リース + MBFS) と比較して、**メガバンク (SMFG) との 50/50 JV** という共同支配体制が住友商事の特徴。
 
 ### 5 大商社内の identity
 
@@ -88,9 +88,9 @@ translated_at: 2026-06-02T15:14:17.113Z
 
 - **会計**: IFRS 採用、equity-method investments の比重大 ^[extracted]
 
-## 6. 反対論点
+## 6. Counterpoints
 
-## 7. 未解決論点
+## 7. Open questions
 
 - **マダガスカル ニッケル (Ambatovy)** の長期収益化、EV 電池需要との接続
 - **J:COM** + **SCSK** の DX 戦略統合進度
@@ -99,17 +99,17 @@ translated_at: 2026-06-02T15:14:17.113Z
 - 5 大商社内 **純利益順位** の今後 (中位脱却 vs 中位維持の戦略)
 - **住友グループ cross-shareholding** 解消圧力 ([[megabanks/smfg|SMFG]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / [[non-life-insurers/mitsui-sumitomo-insurance|MS&AD]]) 下での商社のスタンス
 
-## 関連項目
+## 関連
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
-- [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (比較対象 商社)
+- [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け group treasury)
-- [[leasing-firms/smfl|SMFL]] (50/50 SMFG との JV、3 大リース)
+- [[leasing-firms/smfl|SMFL]] (50/50 JV with SMFG、3 大リース)
 - [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (オートリース国内首位級)
 - [[megabanks/smfg|SMFG]] · [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] · [[non-life-insurers/mitsui-sumitomo-insurance|MS&AD]] (住友グループ金融エコシステム)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
-## 出典
+## Sources
 
 - 住友商事 (8053) 公式 IR — https://www.sumitomocorp.com/ja/jp/ir
 - 住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated
@@ -119,4 +119,4 @@ translated_at: 2026-06-02T15:14:17.113Z
 ---
 
 > [!info] 検証状況
-> 確度: **高め**。住友商事は 公開情報面 で十分カバー。SMFL 50/50 持分、住友三井オートサービス持分、J:COM / SCSK 連結状況は最新 有価証券報告書 / 統合報告書 で都度更新。マダガスカル ニッケル (Ambatovy) 等の資源案件の最新評価も継続確認。
+> confidence: **likely**。住友商事は public-surface で十分カバー。SMFL 50/50 持分、住友三井オートサービス持分、J:COM / SCSK 連結状況は最新 有価証券報告書 / 統合報告書 で都度更新。マダガスカル ニッケル (Ambatovy) 等の資源案件の最新評価も継続確認。

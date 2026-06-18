@@ -1,14 +1,14 @@
 ---
 source: fintech/fx-onchain-as-stablecoin-final-boss
-source_hash: 2e3ffb35677cee29
+source_hash: 27af5a7483001174
 lang: en
 status: machine
 fidelity: ok
-title: "FX On-Chain Is the \"Final Boss\" of the Stablecoin Space — Prime Broker Elimination and Herstatt Risk Resolution"
-translated_at: 2026-05-31T06:16:15.716Z
+title: "Putting FX on-chain is the \"final boss\" of the stablecoin domain — the disappearance of prime brokers and the elimination of Herstatt Risk"
+translated_at: 2026-06-18T23:59:13.130Z
 ---
 
-# FX On-Chain Is the "Final Boss" of the Stablecoin Space — Prime Broker Elimination and Herstatt Risk Resolution
+# Putting FX on-chain is the "final boss" of the stablecoin domain — the disappearance of prime brokers and the elimination of Herstatt Risk
 
 
 ## Wiki route
@@ -16,37 +16,37 @@ translated_at: 2026-05-31T06:16:15.716Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> If 24/365  instant settlement between a yen stablecoin and a dollar stablecoin is achieved, then (1) the prime-broker layer of the FX market becomes functionally unnecessary, and (2) time-zone settlement risk (Herstatt Risk) is eliminated. This is the largest upside benefit for the entire stablecoin industry, and the "ultimate destination (final boss)" in the institutional-investor market.
+> If 24/365  instant settlement of yen stablecoins × dollar stablecoins is realized, then (1) the prime-broker layer of the FX market becomes functionally unnecessary, and (2) time-zone settlement risk (Herstatt Risk) disappears. This is the single largest listing benefit across the entire stablecoin industry, and the "ultimate destination (final boss)" in the institutional-investor market.
 
 ## Conclusion
 
-The benefits of FX on-chain settlement in institutional markets are threefold:
+There are three benefits of putting FX on-chain in institutional settlement:
 
-1. **Elimination of the prime-broker layer** — Today, institutional investors settling FX with multiple banks such as [[fintech/jpmorgan-jpmd-coin|JPM]] / Goldman / Morgan Stanley / [[megabanks/mufg|三菱]] must engage a prime broker to bundle transactions and pay corresponding fees. Direct SC settlement makes this intermediary layer unnecessary
-2. **Herstatt Risk eliminated** — Yen settles at the Bank of Japan and dollars at the Fed separately, creating a 12–14 -hour gap due to the time difference. If a settlement counterparty goes bankrupt during this window, the party that has already paid incurs a one-sided loss (the 1974  Continental Illinois Bank failure is the historical case). 24/365  simultaneous settlement reduces this time gap to zero (see [[systems/cross-chain-five-pole-comparison-matrix|跨链五極対比マトリクス]] for cross-chain PvP design)
-3. **Capital efficiency improvement** — Banks are required to hold capital against settlement risk; when settlement risk disappears, capital can be freed for other uses — directly improving operational efficiency
+1. **Disappearance of the prime-broker layer** — at present, institutional investors that settle FX across multiple banks ([[fintech/jpmorgan-jpmd-coin|JPM]]/Goldman Sachs/Morgan Stanley/[[megabanks/mufg|三菱]]) ask prime brokers to bundle it and pay the cost. With direct SC settlement, this intermediary layer becomes unnecessary
+2. **Elimination of Herstatt Risk** — yen settles at the BOJ and dollars settle at the Fed separately, with a 12-14  hour gap due to the time difference. If the counterparty fails during this interval, a loss arises from the side already paid (the 1974  Continental Illinois Bank failure is a historical example). With 24/365  simultaneous settlement, the time difference is zero (for the cross-chain PvP design, see [[systems/cross-chain-five-pole-comparison-matrix|跨链五極対比マトリクス]])
+3. **Improvement in capital efficiency** — banks are obliged to hold capital for settlement risk, and if settlement risk disappears, that capital can be released for other uses — directly affecting management efficiency
 
 ## Reasoning
 
-- The structural final challenge, described as the "final boss"
-- The largest use case in the institutional-investor market, and the largest bottleneck
-- ETF liquidity settlement (billions in scale) is a "clean use case" but does not scale; FX is the main event
-- BIS Herstatt Risk is an industry term named after the 1974 年 Bank Herstatt failure; the only previous remedy was shortening the settlement cycle
-- Blockchain instant settlement represents a qualitative leap: "eliminating the settlement time gap itself"
+- The structural ultimate challenge described as the "final boss"
+- It is the largest use case in the institutional-investor market and also the largest bottleneck
+- ETF liquidity settlement (on the scale of several billion) is a "clean use case" but does not scale; the real prize is FX
+- BIS Herstatt Risk is an industry term named after the 1974 年 Bank Herstatt failure case, and the only means of resolution had been shortening the settlement cycle
+- Instant settlement via blockchain is a qualitative leap that "eliminates the settlement time difference itself"
 
 ## Applicable When
 
-- Designing the long-term vision for an institutional-investor stablecoin pitch
-- In discussions of "where is the greatest value of stablecoins," when seeking to go beyond short-term use cases and address the fundamentals
-- Building an institutional B2B SC strategy (e.g. [[fintech/jp-stablecoin-progmat|Project Pax / Progmat]])
-- Demonstrating the "social value of bank-issued SC" to regulators
-- Articulating the root-cause inefficiencies of the existing FX market
+- When designing the long-term vision of a stablecoin pitch for institutional investors
+- When discussing "where is the listing benefit of stablecoins?" and speaking to the essence rather than stopping at short-term use cases
+- When constructing an institutional B2B SC strategy ([[fintech/jp-stablecoin-progmat|Project Pax / Progmat]], etc.)
+- When arguing the "social value of bank-issued SC" in explanations to regulators
+- When discussing the inefficiency of the existing FX market at the root-cause level
 
 ## Source
 
-- Historical fact: 1974  Continental Illinois Bank failure → Herstatt Risk industry term established
+- Historical fact: the 1974  Continental Illinois Bank failure → the industry term "Herstatt Risk" became established
 - BIS official definition of Herstatt Risk (public literature)
-- Corresponds to: [[fintech/stablecoin-crossborder-b2b-growth|stablecoin-crossborder-b2b-growth]] B2B FX corridor discussion
+- Consistency: the [[fintech/stablecoin-crossborder-b2b-growth|stablecoin-crossborder-b2b-growth]] B2B FX corridor discussion
 
 ## Related
 <!-- wiki-links:managed -->

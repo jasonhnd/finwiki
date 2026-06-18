@@ -1,57 +1,57 @@
 ---
 source: foreign-financial-institutions/ocbc-bank-japan
-source_hash: c29c723abfe9e0e1
+source_hash: 86163e956b97b980
 lang: ja
 status: machine
 fidelity: ok
-title: "オーバーシー・チャイニーズ銀行東京支店"
-translated_at: 2026-06-02T15:14:17.091Z
+title: "オーバーシー・チャイニーズ銀行 東京支店"
+translated_at: 2026-06-18T23:59:13.095Z
 ---
 
-# オーバーシー・チャイニーズ銀行東京支店
+# オーバーシー・チャイニーズ銀行 東京支店
 
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に置く。隣接する文脈は [[banking/INDEX|banking index]] とあわせて読み、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] と照合する。
+本項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。隣接する文脈として [[banking/INDEX|banking index]] と、より広範なシステム境界として [[financial-licenses/INDEX|JapanFG index]] とあわせて読むこと。
 
-## 要約
+## TL;DR
 
-オーバーシー・チャイニーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / Oversea-Chinese Banking Corporation Limited の在日銀行支店。OCBC の Tokyo branch は 日本の法人・機関投資家向け銀行顧客 を対象に、法人融資、貿易金融、預金、送金サービス を提供する ホールセール支店 として扱う。
+オーバーシー・チャイニーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / Oversea-Chinese Banking Corporation Limited の在日銀行支店である。OCBC の東京支店は、日本国内の法人・機関投資家バンキング顧客を対象に、法人融資、貿易金融、預金、送金サービスを提供するホールセール支店として扱う。
 
-## 1. 免許・支店の境界
+## 1. ライセンス / 支店境界
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 金融庁掲載名 | オーバーシー・チャイニーズ銀行 |
-| 法的名称・支店名 | Oversea-Chinese Banking Corporation Limited Tokyo Branch |
-| 免許ルート | 銀行法上の外国銀行支店。金融庁の銀行免許一覧で確認する。 |
-| 本国法域 | Singapore |
-| 親会社・グループ | OCBC Bank / OCBC グループ |
-| 日本支店の範囲 | 法人・機関投資家向けの銀行支店。 |
-| ウィキ上の役割 | シンガポール系ホールセール銀行支店の日本側アンカー。 |
+| FSA 掲載名 | オーバーシー・チャイニーズ銀行 |
+| 法人名 / 支店名 | Oversea-Chinese Banking Corporation Limited Tokyo Branch |
+| ライセンスルート | 銀行法上の外国銀行支店；FSA 銀行ライセンス一覧 |
+| 母国法域 | シンガポール |
+| 親会社 / グループ | OCBC Bank / OCBC Group |
+| 日本支店の境界 | 法人 / 機関投資家顧客向けのバンキング支店 |
+| Wiki 上の役割 | 日本におけるシンガポール拠点のホールセール銀行支店アンカー |
 
-## 2. 運営モデル
+## 2. 事業モデル
 
-OCBC の法人向け銀行業務の国際拠点ページは、東京支店が日本の法人・機関投資家向け銀行顧客を対象に、法人融資、貿易金融、預金、送金サービスを提供していると説明している。同じページには、Sanno Park Tower Tokyo の主支店所在地も記載されている。
+OCBC のビジネスバンキング国際ページは、その東京支店を、日本国内の法人・機関投資家バンキング顧客を対象とし、法人融資、貿易金融、預金、送金サービスを含む商品を提供するものと記述している。同じページには、Sanno Park Tower の東京本店所在地が掲載されている。
 
-このため、OCBC の日本での位置づけは、日本の個人向け銀行業よりも ASEAN・大中華圏をまたぐクロスボーダーのホールセール銀行業に近い。
+これにより、OCBC の日本でのプロフィールは、日本の消費者バンキングよりも、ASEAN / 大中華圏のクロスボーダー・ホールセールバンキングに近いものとなっている。
 
-## 3. このページが重要な理由
+## 3. なぜこのページが重要か
 
-- 0  に対応するシンガポール系支店を、[[foreign-financial-institutions/dbs-bank-japan]] と [[foreign-financial-institutions/uob-bank-japan]] の隣に追加する。
-- 法人融資と貿易金融に関する日本・ASEAN 銀行支店マッピングを補強する。
-- シンガポール系銀行支店を、東南アジアという単一の分類にまとめず個別に扱う。
+- [[foreign-financial-institutions/dbs-bank-japan]] と [[foreign-financial-institutions/uob-bank-japan]] の隣に、シンガポールの P0 支店をもう一つ加える。
+- 法人融資と貿易金融に関する日本・ASEAN の銀行支店マッピングを支える。
+- シンガポールの銀行支店を一つの東南アジアのまとまりとして扱うのではなく、別個に保つ。
 
-## 関連項目
+## Related
 
 - [[foreign-financial-institutions/dbs-bank-japan]]
 - [[foreign-financial-institutions/uob-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 
-## 出典
+## Sources
 
-- 金融庁: 銀行免許一覧、外国銀行支店、基準日 2026-05-13.
-- OCBC Business Banking: 国際拠点・日本支店.
-- OCBC グループ: 国際ネットワーク.
+- FSA: 銀行ライセンス一覧、外国銀行支店、2026-05-13 時点。
+- OCBC Business Banking: 国際的プレゼンス / 日本支店。
+- OCBC Group: 国際ネットワーク。

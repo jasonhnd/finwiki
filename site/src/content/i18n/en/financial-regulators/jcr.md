@@ -1,93 +1,93 @@
 ---
 source: financial-regulators/jcr
-source_hash: b08ae72d8492101e
+source_hash: 3cd5409a965981f6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Credit Rating Agency (JCR)"
-translated_at: 2026-05-31T23:59:49.394Z
+translated_at: 2026-06-18T23:59:13.040Z
 ---
 # Japan Credit Rating Agency (JCR)
 
 ## Wiki route
 
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (credit rating agency registration).
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (credit-rating-agency registration).
 
 ## TL;DR
 
-A **domestic credit rating agency in Japan's capital market, one of the 2 社 domestic firms and specifically 1 社 of them** (the other 1 社 is [[financial-regulators/rating-and-investment|R&I]]). Established in 1985-04 , it positions itself as independent (without a parent company from a specific financial group). It provides ratings across **sovereign / financial institution / corporate / securitized product / project finance / sustainability finance** fields. It has obtained **credit rating agency registration under the Financial Instruments and Exchange Act** (registered by the FSA Commissioner), and qualifies as an ECAI (external credit assessment institution) under Japanese and Basel standards. Compared with the global big 3  agencies (S&P / Moody's / Fitch), its **ratings for Japanese companies have long been noted as 1 to 2  notches more lenient**.
+**1 社of the 2 社domestic credit rating agencies** in the Japanese capital market (the other 1 社being [[financial-regulators/rating-and-investment|R&I]]). Established 1985-04 , it positions itself as independent (it has no specific financial-group parent company). It provides ratings across the full range of **sovereign / financial institution / corporate / securitized products / project finance / sustainability finance**. It holds **credit-rating-agency registration under the Financial Instruments and Exchange Act** (registered with the FSA Commissioner) and is eligible as an ECAI (External Credit Assessment Institution) under both Japanese and Basel standards. Compared with the global 3 majors (S&P / Moody's / Fitch), a tendency for its **ratings on Japanese companies to be 1–2  notches more lenient** has long been pointed out.
 
-## 1. Corporate Structure and History
+## 1. Corporate structure / history
 
-**Official name**: Japan Credit Rating Agency, Ltd.
+**Full name**: Japan Credit Rating Agency, Ltd.
 **English name**: Japan Credit Rating Agency, Ltd. (JCR)
 **Established**: **1985-04-01**
 **Head office**: Kanda-Nishikicho, Chiyoda-ku, Tokyo
-**Business type**: Credit rating agency (registration under Article 66 -27  of the Financial Instruments and Exchange Act)
-**Major shareholders**: Diversified ownership by domestic financial institutions and operating companies (independent)
-**Regulator**: Financial Services Agency (credit rating agency supervision)
+**Line of business**: Credit rating agency (registration under Article 66 -27  of the Financial Instruments and Exchange Act)
+**Major shareholders**: Dispersed holdings by domestic financial institutions and corporates (independent)
+**Supervising authority**: FSA (credit-rating-agency supervision)
 
-### Key Timeline
+### Key chronology
 
 | Year / month | Event |
 |---|---|
-| **1985-04** | **Established** (responding to rating needs created by the sharp increase in corporate bond issuance before the bubble period) |
-| 1991 | Full-scale rollout of domestic corporate bond ratings |
-| 1998 | Amendment to the Financial Instruments and Exchange Act (credit rating agency registration system implemented in 2010) |
-| 2007 onward | Subprime crisis -> international debate on rating-agency regulation intensified |
-| **2010-04** | **Credit rating agency registration system implemented** -> JCR registered as a registration 第 1 号-class agency (alongside [[financial-regulators/rating-and-investment|R&I]]) |
-| 2013 onward | Strengthened transparency of structured finance ratings (RMBS / ABS) |
-| 2017 onward | Began ESG-related assessment services such as **green bonds / social bonds / sustainability-linked bonds** |
-| 2020 onward | Number of ratings increased during the post-COVID surge in corporate bond issuance |
+| **1985-04** | **Establishment** (responding to rating needs amid the surge in corporate-bond issuance before the bubble period) |
+| 1991  | Full-scale rollout of domestic corporate-bond ratings |
+| 1998  | Amendment to the Financial Instruments and Exchange Act (the credit-rating-agency registration system took effect in 2010) |
+| 2007〜 | Subprime crisis → international debate on rating-industry regulation intensified |
+| **2010-04** | **Credit-rating-agency registration system took effect** → JCR registered as a registered 第 1 号-class agency (alongside [[financial-regulators/rating-and-investment|R&I]]) |
+| 2013〜 | Enhanced transparency of structured-finance (RMBS / ABS) ratings |
+| 2017〜 | Began ESG-related assessment work such as **green bonds / social bonds / sustainability-linked bonds** |
+| 2020〜 | Rating volume increased amid the post-COVID surge in corporate-bond issuance |
 
-## 2. Rating Business Map
+## 2. Rating-business map
 
-| Area | Content | Main customers |
+| Area | Content | Main clients |
 |---|---|---|
-| **Sovereign ratings** | JGBs, local government bonds, and government-related agency bonds | National government / local public bodies / government-related agencies |
-| **Financial institution ratings** | Issuer ratings for banks, securities firms, insurers, and nonbanks | [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] and others |
-| **Corporate ratings** | Corporate bonds and long-term issuer ratings for general operating companies | Mainly large listed companies |
-| **Structured finance** | RMBS / ABS / CMBS / ABCP and related products | SPVs / arrangers |
-| **Project finance** | Infrastructure, renewable energy, and PPP projects | Project SPVs |
-| **Insurance financial strength ratings** | Assessment of life and non-life insurers' claims-paying ability | Life insurers / non-life insurers |
-| **ESG / sustainability assessments** | Green / social / sustainability / transition bond assessments | Issuers generally |
-| **Third-party opinions** | SPOs on framework alignment | Issuers |
+| **Sovereign ratings** | Japanese government bonds, local-government bonds, government-affiliated agency bonds | Central / local governments, government-affiliated agencies |
+| **Financial-institution ratings** | Issuer ratings of banks, securities firms, insurers, non-banks | [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] and others |
+| **Corporate ratings** | Corporate-bond and long-term issuer ratings of general operating companies | Primarily large listed companies |
+| **Structured finance** | RMBS / ABS / CMBS / ABCP, etc. | SPVs / arrangers |
+| **Project finance** | Infrastructure, renewable-energy, PPP projects | Project SPVs |
+| **Insurance financial-strength ratings** | Solvency assessment of life and non-life insurers | Life / non-life insurers |
+| **ESG / sustainability assessment** | Assessment of green / social / sustainability / transition bonds | Issuers generally |
+| **Second-party opinions** | SPOs on framework conformity | Issuers |
 
-### Rating Scale
+### Rating scale
 
-- **Long-term ratings**: AAA -> AA+ / AA / AA- -> A+ / A / A- -> BBB+ / BBB / BBB- -> below BB (speculative) -> D (default)
+- **Long-term ratings**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB and below (speculative) → D (default)
 - **Short-term ratings**: J-1+ / J-1 / J-2 / J-3 / NJ / D
-- It also separately provides an international scale for foreign-currency issuers.
+- An international scale (for foreign-currency-denominated issuers) is also provided separately
 
-### Japan's 4  Major Rating Agencies
+### Japan's 4 major rating agencies
 
-| Rating agency | Characteristics | Parent company / affiliation |
+| Rating agency | Characteristics | Parent / affiliation |
 |---|---|---|
-| **JCR** | Independent and domestic | Independent (no specified parent company) |
-| **R&I** | Mizuho lineage (former IBJ lineage + Nikkei lineage) | Mizuho lineage (related to [[megabanks/mizuho-fg|みずほ FG]]) |
-| **S&P Global Ratings Japan** | U.S. S&P subsidiary | S&P Global |
-| **Moody's Japan / Moody's SF Japan** | U.S. Moody's subsidiary | Moody's Corp |
+| **JCR** | Independent / domestic | Independent (no specific parent) |
+| **R&I** | Mizuho-affiliated (former IBJ lineage + Nikkei lineage) | Mizuho-affiliated (related to [[megabanks/mizuho-fg|みずほ FG]]) |
+| **S&P Global Ratings Japan** | US S&P subsidiary | S&P Global |
+| **Moody's Japan / Moody's SF Japan** | US Moody's subsidiary | Moody's Corp |
 
-### Domestic vs International Rating Gap Issue
+### The domestic-vs-international rating-gap issue
 
-- Empirical research has confirmed that **JCR / R&I ratings for Japanese companies tend to be higher than S&P / Moody's ratings** (typically 1 to 2  notches higher, with some cases reporting gaps of 4  notches or more) — including the Bank of Japan working paper "Credit Rating Gaps in Japan" (2007) and peer-reviewed papers
-- Background: a relative-assessment method that factors in Japanese companies' main-bank system and group rescue practices (the empirical literature explains this not as an "upward bias" but as a systematic difference in credit-risk assessment methods)
-- International investors continue to criticize "Japanese ratings" as optimistically biased, while counterarguments say they reflect the reality of the domestic market.
-- **Many Japanese companies obtain ratings from 2 社 or more agencies** (domestic and international dual use is standard).
+- Empirical research confirms a tendency for **JCR / R&I ratings on Japanese companies to be higher than S&P / Moody's** (typically 1–2  notches higher, with gaps of 4  notches or more reported in some cases) — Bank of Japan working paper "Credit Rating Gaps in Japan" (2007) and other peer-reviewed papers
+- Background: a relative-assessment methodology that factors in Japanese companies' main-bank system and group-rescue practices (empirical research explains this as a systematic difference in credit-risk assessment methodology rather than an "upward bias")
+- While international investors continue to criticize "Japanese ratings for optimistic bias," there are also counterarguments that they reflect the realities of the domestic market
+- **Many Japanese companies obtain ratings from 2 社 and above** (combining domestic and international is the standard practice)
 
-### Competitive Characteristics
+### Competitive characteristics
 
-- Positions itself as **independent** (differentiated by not having a parent company from a specific financial group, in contrast to [[financial-regulators/rating-and-investment|R&I]] being viewed as "Mizuho-affiliated")
-- Relatively high issuer-rating share among mid-tier and small and medium-sized companies
-- Early mover in sustainability assessment services (providing SPOs aligned with GBP / SBP / SLBP principles)
+- Positions itself as **independent** (differentiated by the fact that it has no specific financial-group parent company, in contrast to [[financial-regulators/rating-and-investment|R&I]], which is seen as "Mizuho-affiliated")
+- Holds a relatively high issuer-rating share among mid-tier and small-to-medium-sized enterprises
+- A front-runner in sustainability-assessment work (provides SPOs conforming to the GBP / SBP / SLBP principles)
 
-## 4. Supervision and Regulation
+## 4. Supervision / regulation
 
-- **Regulator**: [[financial-regulators/fsa|金融庁]] (credit rating agency supervision)
-- **Legal basis**: Financial Instruments and Exchange Act, Article 66 -27  and below
-- **Registration requirements**: Business management system, conflict-of-interest prevention, documentation of rating processes, complaint-handling system, and related controls
-- **ECAI recognition**: Recognition as an external credit assessment institution under Basel Committee on Banking Supervision standards (FSA notice) -> usable in banks' risk-asset calculations
-- **International coordination**: Compliance with the IOSCO Code of Conduct Fundamentals for Credit Rating Agencies
+- **Supervising authority**: [[financial-regulators/fsa|金融庁]] (credit-rating-agency supervision)
+- **Governing law**: Article 66 -27  and following of the Financial Instruments and Exchange Act
+- **Registration requirements**: business-management framework, conflict-of-interest prevention, documentation of the rating process, complaint-handling framework, etc.
+- **ECAI accreditation**: External Credit Assessment Institution accreditation based on Basel Committee on Banking Supervision standards (FSA public notice) → usable in banks' risk-asset calculations
+- **International coordination**: conformity with the IOSCO Code of Conduct for credit rating agencies
 
 ## Related
 
@@ -100,12 +100,12 @@ A **domestic credit rating agency in Japan's capital market, one of the 2 社 do
 
 - **Wikipedia: Japan Credit Rating Agency** (https://ja.wikipedia.org/wiki/日本格付研究所, extracted 2026-05-25)
 - **JCR official website** (https://www.jcr.co.jp/, referenced 2026-05-25)
-- **FSA credit rating agency list** (https://www.fsa.go.jp/menkyo/menkyoj/kakuduke.pdf, referenced 2026-05-25)
-- **Financial Instruments and Exchange Act** (Act 第 25 号 of 昭和 23 年, Article 66 -27  and below)
-- IOSCO Code of Conduct Fundamentals for Credit Rating Agencies (2015  revision)
-- **Bank of Japan Working Paper No. 07-E-11, "Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies"** (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf) — empirical basis for the tendency of JCR / R&I to assign higher ratings than S&P / Moody's
+- **FSA list of credit rating agencies** (https://www.fsa.go.jp/menkyo/menkyoj/kakuduke.pdf, referenced 2026-05-25)
+- **Financial Instruments and Exchange Act** (昭和 23 年Act No. 第 25 号, Article 66 -27  and following)
+- IOSCO Code of Conduct Fundamentals for Credit Rating Agencies (2015  revised edition)
+- **Bank of Japan Working Paper No. 07-E-11 "Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies"** (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf) — empirical basis for the tendency of JCR / R&I to assign higher ratings than S&P / Moody's
 
 ---
 
-> [!info] Verification Status
-> confidence: **likely** (v1.0  public-information base 2026-05-25). Establishment year, registration system, business areas, and rating scale align with official public materials. The domestic vs international rating gap is empirically supported by the Bank of Japan working paper (2007) plus peer-reviewed papers (sources added). Latest rating counts and revenue mix should be checked against JCR disclosure materials and securities registration statements.
+> [!info] Verification status
+> confidence: **likely** (based on v1.0  public information, 2026-05-25). The year of establishment, the registration system, the business areas, and the rating scale are consistent with official public materials. The domestic-vs-international rating gap is empirically corroborated by the Bank of Japan working paper (2007) plus peer-reviewed papers (sources added). The latest rating volumes and revenue mix should be checked against JCR's published materials and securities registration statements.

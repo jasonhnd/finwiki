@@ -1,12 +1,13 @@
 ---
 source: insurance/economic-value-based-solvency
-source_hash: 7dfd548dfc28f602
+source_hash: 47d70b22eb5f0804
 lang: en
 status: machine
 fidelity: ok
 title: "Economic value-based solvency regulation"
-translated_at: 2026-05-31T07:28:06.165Z
+translated_at: 2026-06-18T23:59:13.115Z
 ---
+
 # Economic value-based solvency regulation
 
 ## TL;DR
@@ -54,6 +55,6 @@ This page is not a legal opinion and does not itself prove a company is well cap
 
 ## Sources
 
-- FSA: On economic value-based solvency regulation and related matters.
-- FSA: Comprehensive supervisory guidelines for insurance companies.
-- FSA: Supervisory Guidelines II-2  Financial soundness and II-3  Integrated risk-management framework.
+- FSA: 経済価値ベースのソルベンシー規制等について.
+- FSA: 保険会社向けの総合的な監督指針.
+- FSA: 監督指針 II-2 財務の健全性 and II-3 統合的リスク管理態勢.

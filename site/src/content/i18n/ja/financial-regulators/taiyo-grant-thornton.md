@@ -1,17 +1,17 @@
 ---
 source: financial-regulators/taiyo-grant-thornton
-source_hash: 600c4ce759272201
+source_hash: b1d3e6c6f3562658
 lang: ja
 status: machine
 fidelity: ok
 title: "太陽有限責任監査法人 (Grant Thornton Taiyo)"
-translated_at: 2026-06-02T16:33:58.522Z
+translated_at: 2026-06-18T23:59:13.080Z
 ---
 # 太陽有限責任監査法人 (Grant Thornton Taiyo)
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-このエントリは [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に位置する。[[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] と並べて Big 4  比較として読み、公認会計士法 / 監査品質管理の規制境界については [[financial-licenses/INDEX|金融ライセンス INDEX]] と照らして読む。CPAAOB の監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
+このエントリは [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。Big 4 比較については [[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] と併せて、公認会計士法／監査品質管理の規制境界については [[financial-licenses/INDEX|金融ライセンス INDEX]] と併せて読むこと。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-02T16:33:58.522Z
 | 2010s 後半 | **「太陽グラントソントン」ブランド統合** ^[extracted] |
 | 2020s | 暗号資産 VASP 監査参入、IPO 支援強化 ^[extracted] |
 
-### IPO 準備支援（最大の強み）^[extracted]
+### IPO 準備支援（最大強み）^[extracted]
 
 - 東証 グロース市場 / スタンダード市場上場準備会社の監査
 - Big 4 が手薄な中小上場の主要受け皿
@@ -46,7 +46,7 @@ translated_at: 2026-06-02T16:33:58.522Z
 - [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]] で言及される通り、Big 4 と並ぶ準大手代表
 - JICPA 業種別委員会実務指針第 61 号 準拠 ^[extracted]
 
-## 4. 主要上場 FG クライアント関係（公開ベース）
+## 4. 主要 listed FG クライアント関係（公開ベース）
 
 太陽グラントソントンは中堅上場・IPO 準備会社・VASP の監査に強みを持つが、個別会社の監査人は時点変動するため、当エントリでは具体的クライアント名の列挙は検証可能な一次ソースなしには行わない。最新は EDINET 各社有価証券報告書「監査人の状況」を都度確認すべき。
 
@@ -75,7 +75,7 @@ translated_at: 2026-06-02T16:33:58.522Z
 | 準大手（Tier 2）| BDO 三優監査法人 | 中堅 / 外資系 |
 | 中小 | PwC 京都監査法人（旧）/ 他多数 | 地域・特化 |
 
-## 関連項目
+## 関連
 
 - [[financial-regulators/ey-shinnihon]]（Big 4 ピア比較）
 - [[financial-regulators/deloitte-touche-tohmatsu]]（Big 4 ピア比較）
@@ -98,5 +98,5 @@ translated_at: 2026-06-02T16:33:58.522Z
 
 ---
 
-> [!info] 検証状況
-> 信頼度: **高め**（v1.0 公開ソース ベース、2026-05-24）。準大手 / 中堅監査法人の位置付け・Grant Thornton グローバル加盟・CPAAOB 類型化は公開ベースで高信頼。具体的クライアント別監査人は EDINET 一次資料で都度確認すべき。
+> [!info] 校核状態
+> confidence: **likely**（v1.0 公開ソース ベース、2026-05-24）。準大手 / 中堅監査法人の位置付け・Grant Thornton グローバル加盟・CPAAOB 類型化は公開ベースで高信頼。具体的クライアント別監査人は EDINET 一次資料で都度確認すべき。
