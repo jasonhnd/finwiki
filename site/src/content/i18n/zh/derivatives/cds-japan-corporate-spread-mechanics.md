@@ -1,28 +1,28 @@
 ---
 source: derivatives/cds-japan-corporate-spread-mechanics
-source_hash: 614fb0d191a9118c
+source_hash: fcca7c1d98f0bfbc
 lang: zh
 status: machine
 fidelity: ok
-title: "日本企业 CDS 利差机制"
-translated_at: 2026-05-31T03:19:56.435Z
+title: "日本公司 CDS 利差机制"
+translated_at: 2026-06-18T23:33:48.344Z
 ---
 
-# 日本企业 CDS 利差机制
+# 日本公司 CDS 利差机制
 
 ## TL;DR
 
-日本企业 CDS 利差，是保护买方为换取在参考的日本上市企业发生违约时获得违约或有支付，而向保护卖方支付的以基点计的运行式（running）保费。该利差可分解为信用风险溢价（预期违约概率与假定回收率的函数）加上结构性溢价（相对于标的债券的基差、做市商持有成本、监管资本成本）。日本企业 CDS 以**主权对企业利差**为基准定价，以日本主权 CDS 作为隐含的无信用风险锚点，再在其上叠加各家企业的利差。2014 版 ISDA 信用衍生品定义下的信用事件触发覆盖**破产、未付款（failure-to-pay）和重组**（由 Mod-R / Mod-Mod-R 变体决定可交割债务）。信用事件发生后，回收率由 **ISDA 主持的拍卖**确定。鉴于 ESR / 会计约束，寿险公司和养老基金对 CDS 的使用较为谨慎，但通过指数 CDS 进行信用利差对冲是 [[insurance/japan-life-insurance-alm-overview|life ALM]] 讨论中反复出现的主题。
+日本公司 CDS 利差是保护买方为换取针对某参照日本上市公司的违约或有支付，而向保护卖方支付的运行型基点保费。该利差可分解为信用风险溢价（预期违约概率与假定回收率的函数）加上结构性溢价（相对于标的债券的基差、交易商持有成本、监管资本成本）。日本公司 CDS 以**主权对公司利差**定价，以日本主权 CDS 作为隐含的无信用风险锚点，个别公司利差叠加于其上。在 2014 ISDA 信用衍生品定义下，信用事件触发条件涵盖**破产、不付款及重组**（由 Mod-R / Mod-Mod-R 变体决定可交付债务）。回收率在信用事件后由 **ISDA 主办的拍卖**确定。鉴于 ESR ／会计约束，寿险公司与养老金基金极少使用 CDS，但经由指数 CDS 进行信用利差对冲是 [[insurance/japan-life-insurance-alm-overview|life ALM]] 讨论中反复出现的话题。
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[derivatives/INDEX|derivatives index]] as the spread-mechanics page that complements [[derivatives/japan-cds-market-overview|Japan CDS market overview]]. Read it together with [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] for the arb structure, [[derivatives/japan-irs-market|Japan IRS market]] for the underlying yen rates curve, [[derivatives/yen-basis-swap-market|yen basis swap market]] for the JPY funding overlay, and [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] for the USD overlay that dominates Japanese institutional funding.
+本条目归属于 [[derivatives/INDEX|derivatives index]]，是对 [[derivatives/japan-cds-market-overview|Japan CDS market overview]] 加以补充的利差机制页面。套利结构请配合 [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] 阅读，标的日元利率曲线请配合 [[derivatives/japan-irs-market|Japan IRS market]]，JPY 融资叠加请配合 [[derivatives/yen-basis-swap-market|yen basis swap market]]，主导日本机构融资的 USD 叠加请配合 [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] 阅读。
 
-Cross-reference [[finance/INDEX|finance index]] and [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]] for the issuer-side credit context, [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]] for the equity-credit linkage, [[banking/INDEX|banking index]] for the megabank dealer / counterparty role, [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] for the insurer credit-hedging use case, and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] for the dealer-to-fund plumbing.
+发行人侧信用背景请交叉参考 [[finance/INDEX|finance index]] 与 [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]]，股票-信用联动请参考 [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]]，大型银行交易商／交易对手角色请参考 [[banking/INDEX|banking index]]，保险公司信用对冲用例请参考 [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]]，交易商至基金的管道请参考 [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]。
 
-### Building blocks
+### 构成模块
 
-一个日本单名企业 CDS 利差 *S(corp)* 在期限 T 上可以在概念上分解为：
+跨越期限 T 的日本单一名称公司 CDS 利差 *S(corp)* 可在概念上分解为：
 
 ```
 S(corp, T) ≈ S(sovereign, T) + S(sector, T) + S(idiosyncratic, T) + basis_adjustment
@@ -30,22 +30,22 @@ S(corp, T) ≈ S(sovereign, T) + S(sector, T) + S(idiosyncratic, T) + basis_adju
 
 | Component | Driver |
 |---|---|
-| 主权基线 *S(sovereign, T)* | 期限 T 上的日本主权 CDS 利差；短期限接近零，在 5Y / 10Y 略为正 |
-| 行业溢价 *S(sector, T)* | 行业层面的信用因子（金融 vs 工业 vs 电信等） |
-| 特异性成分 *S(idiosyncratic, T)* | 公司特定的杠杆、现金流稳定性、治理、并购特征 |
-| 基差调整 | 由做市商资产负债表、回购特殊券、监管成本驱动的 CDS-债券基差——见 [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] |
+| 主权基线 *S(sovereign, T)* | 期限 T 处的日本主权 CDS 利差; 短期限近乎为零，在 5Y ／ 10Y 处略为正 |
+| 行业溢价 *S(sector, T)* | 行业层面的信用因子（金融 对 工业 对 电信，等等） |
+| 特异性成分 *S(idiosyncratic, T)* | 公司特定的杠杆、现金流稳定性、治理、并购情况 |
+| 基差调整 | 由交易商资产负债表、回购特殊性、监管成本驱动的 CDS-债券基差 — 参见 [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] |
 
-该分解是概念性的，而非代数式的。市场实践是直接通过市场报价拟合企业 CDS 曲线，而不是从各成分自下而上构建。
+此分解为概念性而非代数性。市场惯例是经由市场报价直接拟合公司 CDS 曲线，而非由各构成模块自下而上构建。
 
-### Risk-neutral default probability
+### 风险中性违约概率
 
-CDS 利差隐含一个风险中性违约强度（hazard rate）（或违约强度的期限结构）：
+CDS 利差隐含一个风险中性风险率（或风险率期限结构）：
 
 ```
-Risk-neutral default probability (per period) ≈ S / (1 - R)
+风险中性违约概率（每期） ≈ S / (1 - R)
 ```
 
-其中 S 是运行利差，R 是假定回收率。对于假定 R = 40 percent 的投资级日本企业：
+其中 S 为运行利差，R 为假定回收率。对于假定 R = 40 % 的投资级日本公司：
 
 | 5Y CDS spread (bps) | Implied 5Y risk-neutral default probability |
 |---|---|
@@ -56,202 +56,202 @@ Risk-neutral default probability (per period) ≈ S / (1 - R)
 | 500 bps | ~34 percent |
 | 1000 bps | ~57 percent |
 
-风险中性违约概率不是实际违约概率；它内含风险溢价和流动性溢价。在正常条件下，投资级日本企业的历史违约率远低于这些风险中性隐含水平。
+风险中性违约概率并非实际违约概率; 它内嵌了风险溢价与流动性溢价。在正常情况下，投资级日本公司的历史违约率远低于这些风险中性隐含水平。
 
-### Recovery rate assumption
+### 回收率假定
 
 | Reference obligation type | Standard assumed recovery |
 |---|---|
-| 高级无担保企业债（多数日本投资级） | 40 percent |
-| 次级企业债 | 25 percent |
-| 银行高级优先（senior preferred） | 40 percent |
-| 银行高级非优先 / Tier 2 | 25-40 percent，视司法辖区而定 |
+| 高级无担保公司债（大多数日本 IG） | 40 percent |
+| 次级公司债 | 25 percent |
+| 银行高级优先 | 40 percent |
+| 银行高级非优先 / Tier 2 | 视法域而定 25-40 percent |
 | 主权（发达市场） | 40 percent（日本） |
 
-40 percent 的假定是惯例性的，而非市场隐含的。信用事件后的拍卖确定实际回收率（见下文描述）。
+40 % 的假定属惯例性而非市场隐含。信用事件后的拍卖决定实际回收率（如下所述）。
 
-## 2014 版 ISDA 定义下的信用事件
+## 2014 ISDA 定义下的信用事件
 
-2014 版 ISDA 信用衍生品定义规定了触发 CDS 结算的信用事件。对于日本企业 CDS，三类信用事件是标准的：
+2014 ISDA 信用衍生品定义规定了触发 CDS 结算的信用事件。对于日本公司 CDS，三项信用事件为标准：
 
-### Bankruptcy
+### 破产
 
 | Trigger | Description |
 |---|---|
-| 申请民事再生（民事再生） | 面向企业的日本法庭内重整程序 |
-| 申请会社更生（会社更生） | 面向较大型企业的日本法庭内重整 |
+| 申请民事再生（民事再生） | 日本面向公司的庭内再生程序 |
+| 申请公司更生（会社更生） | 日本面向较大型公司的庭内重整程序 |
 | 特别清算（特別清算） | 法院监督下的清算 |
-| 外国破产程序 | 若参考实体存在外国司法辖区的破产事件 |
-| 一般解散 / 清算 | 自愿或非自愿解散 |
+| 外国破产程序 | 若参照实体存在外国法域的破产事件 |
+| 一般解散 / 清算 | 自愿或强制解散 |
 
-破产是最清晰的触发。ISDA 裁定委员会（DC）决定已申报事件是否符合条件，并公开宣布信用事件裁定。
+破产是最清晰的触发条件。ISDA 决定委员会（DC）判定所申报的事件是否符合资格，并公开宣布信用事件决定。
 
-### Failure to pay
+### 不付款
 
 | Trigger | Description |
 |---|---|
-| 付款违约 | 在宽限期后，未对任何超过门槛（通常为等值 USD 1 million）的债务进行预定付款 |
-| 宽限期 | 标准宽限期通常为 3 个营业日，除非适用合同约定的宽限期 |
-| 补救期（cure period） | 触发前的可选补救期 |
+| 付款违约 | 在宽限期后，对超过阈值（通常为 USD 1 百万等值）的任何债务未能进行预定付款 |
+| 宽限期 | 除非适用合同宽限期，标准宽限期通常为 3 个营业日 |
+| 补救期 | 触发前的可选补救期 |
 
-对于日本企业，宽限期后错过的预定债券或贷款付款符合条件，须经 DC 裁定。
+对于日本公司，在宽限期后漏付的预定债券或贷款付款符合资格，以 DC 判定为条件。
 
-### Restructuring（及其变体）
+### 重组（及变体）
 
 | Variant | Coverage |
 |---|---|
-| 完全重组（R） | 原始 1999 版定义；对债务重组事件的覆盖较广 |
-| 修订重组（Mod-R） | 美国惯例；可交割债务期限自信用事件起上限为 30 个月 |
-| 修订-修订重组（Mod-Mod-R） | 欧洲 / 日本惯例；可交割债务期限上限为 60 个月 |
-| 无重组（No-R） | 美国 2009后；取消重组作为信用事件 |
+| 完全重组 (R) | 原始的 1999 定义; 对债务重组事件的广泛涵盖 |
+| 修订重组 (Mod-R) | 美国惯例; 可交付债务期限自信用事件起上限 30 个月 |
+| 修订-修订重组 (Mod-Mod-R) | 欧洲／日本惯例; 可交付债务期限上限 60 个月 |
+| 无重组 (No-R) | 美国 2009后; 将重组排除为信用事件 |
 
 | Restructuring trigger | Detail |
 |---|---|
 | 票息削减 | 约定票息的削减 |
-| 本金削减 | 本金金额的削减 |
+| 本金削减 | 本金额的削减 |
 | 期限延长 | 付款日的延长 |
 | 次级化 | 付款优先顺序的变更 |
-| 货币变更 | 变更为不被允许的货币 |
+| 货币变更 | 变更为不被许可的货币 |
 
-日本企业 CDS 按惯例以 **Mod-Mod-R**（修订-修订重组）交易，与欧洲市场惯例一致。Mod-Mod-R 对可交割债务期限的上限，降低了广义重组所产生的「最便宜可交割（cheapest-to-deliver）」期权性。
+日本公司 CDS 惯例上以 **Mod-Mod-R**（修订-修订重组）交易，与欧洲市场惯例一致。Mod-Mod-R 对可交付债务期限的上限，降低了广泛重组所产生的「最便宜可交付」选择权。
 
-### Governmental intervention（银行）
+### 政府干预（银行）
 
-对于日本金融机构 CDS，2014 版定义增加了一个**政府干预**信用事件，覆盖纾困内部化（bail-in）和处置（resolution）行动：
+对于日本金融机构 CDS，2014 定义新增了涵盖纾困（bail-in）与处置措施的**政府干预**信用事件：
 
 | Event | Trigger |
 |---|---|
-| 纾困内部化（Bail-in） | 对债务工具的法定减记或转换 |
-| 处置当局行动 | 由主管当局转移债务或施加折扣（haircut） |
-| 强制资产出售 | 构成等同于信用事件的强制处分 |
+| 纾困 | 对债务工具的法定减记或转换 |
+| 处置当局措施 | 主管当局对债务的转移或减值施加 |
+| 强制资产出售 | 构成信用事件等价的被迫处置 |
 
-这与 [[megabanks/mufg|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]（经由 SMFG）、[[megabanks/mizuho-bank|Mizuho]]（经由 Mizuho FG）以及其他日本金融机构 CDS 相关，其中根据《存款保险法》及更广泛处置框架进行的银行处置，对保护覆盖具有重要意义。
+这对 [[megabanks/mufg|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]（经由 SMFG）、[[megabanks/mizuho-bank|Mizuho]]（经由瑞穗 FG）及其他日本金融机构 CDS 具有相关性，在这些情形下，存款保险法及更广泛处置框架下的银行处置，对保护涵盖范围至关重要。
 
-## ISDA 裁定委员会（DC）流程
+## ISDA 决定委员会（DC）流程
 
 | Stage | Activity |
 |---|---|
-| 事件申报 | 市场参与者向 ISDA DC 提交问询 |
-| DC 审查 | DC 在公布的时限内对照已公布标准审查事件 |
-| 公开宣布 | DC 就信用事件是 / 否作出有约束力的裁定 |
+| 事件报告 | 市场参与者向 ISDA DC 提交问询 |
+| DC 审查 | DC 在公布的时间表内对照公布标准审查事件 |
+| 公开宣布 | DC 就信用事件是否成立发布具约束力的决定 |
 | 拍卖或结算决定 | DC 决定是否召集拍卖 |
-| 拍卖管理 | 若召集拍卖，经由 Creditex / Markit 主持的流程进行 |
+| 拍卖管理 | 若召集拍卖，经由 Creditex / Markit 主办的流程进行 |
 | 最终价格 | 公布拍卖确定的最终价格 |
 
-DC 是一个常设委员会，按地区（美洲、EMEA、亚洲除日本外、日本、澳大利亚 / 新西兰）由主要做市商和买方机构组成。对于日本参考实体，相关 DC 包括在日本活跃的主要做市商。
+DC 是一个常设委员会，按地区（美洲、EMEA、亚洲（日本除外）、日本、澳大利亚／新西兰）由主要交易商与买方公司组成。对于日本参照实体，相关 DC 包含在日本活跃的主要交易商。
 
-DC 裁定在 ISDA 信用衍生品裁定委员会网站公开发布，并对标准 ISDA 文档化的 CDS 合约具有约束力。
+DC 的决定在 ISDA 信用衍生品决定委员会网站上公开发布，并对标准 ISDA 文档化的 CDS 合同具有约束力。
 
-## Recovery rate auction mechanics
+## 回收率拍卖机制
 
-信用事件后，ISDA 主持的拍卖确定用于现金结算 CDS 的回收率：
+信用事件后，ISDA 主办的拍卖设定用于现金结算 CDS 的回收率：
 
 | Stage | Activity |
 |---|---|
-| 拍卖公告 | ISDA / Creditex 公布拍卖日期和可交割债务清单 |
-| 初始竞价（Stage 1） | 参与竞价方提交双向报价；计算初始市场中点 |
+| 拍卖公告 | ISDA / Creditex 公布拍卖日及可交付债务清单 |
+| 初次竞价（阶段 1） | 参与竞价者提交双向市场报价; 计算初次市场中点 |
 | 公布未平仓权益 | 公布净未平仓权益的方向（买或卖） |
-| 限价订单簿（Stage 2） | 竞价方提交限价订单以填补未平仓权益 |
-| 最终价格 | 设定拍卖清算价格；这就是用于现金结算的「回收率」 |
+| 限价订单簿（阶段 2） | 竞价者提交限价订单以填补未平仓权益 |
+| 最终价格 | 设定拍卖清算价; 此即用于现金结算的「回收率」 |
 
-现金结算：保护卖方向保护买方支付（名义本金）×（1 - 最终价格）。例如，若最终拍卖价格为 35, ，回收率为 35 percent，则保护卖方支付名义本金的 65 percent。
+现金结算：保护卖方向保护买方支付（名义本金）×（1 - 最终价格）。例如，若最终拍卖价为 35, ，则回收率为 35 %，保护卖方支付名义本金的 65 %。
 
-实物结算（遗留方式，在多数现行合约下为可选）涉及交付合格债务以换取按面值付款。多数现代 CDS 合约默认采用经由拍卖的现金结算。
+实物结算（属遗留方式，且在大多数现行合同下为可选）涉及交付合格债务以换取按面值付款。大多数现代 CDS 合同默认采用经由拍卖的现金结算。
 
-## Japan-specific auction history
+## 日本特有的拍卖历史
 
-触发 ISDA 拍卖的日本企业信用事件并不频繁。历史事件包括：
+触发 ISDA 拍卖的日本公司信用事件并不常见。历史性事例包括：
 
 | Period | Reference entity type | Auction outcome (illustrative pattern) |
 |---|---|---|
-| 2010 | Japan Airlines | 破产申请触发信用事件；拍卖确定回收率 |
-| 2010 | Takefuji | 消费金融破产；拍卖回收率反映无担保债权人前景 |
-| 2012-2015 | 各类小盘股重组 | CDS 覆盖有限；DC 活动较少 |
-| 2017 | Toshiba（无正式信用事件） | 市场通过 CDS 利差对接近信用事件的风险定价；未触发拍卖 |
-| 2020-2024 | 新冠及后新冠时期 | 无重大日本投资级信用事件；少数小盘股困境案例无显著 CDS 敞口 |
+| 2010 | 日本航空 | 破产申请触发信用事件; 拍卖设定回收率 |
+| 2010 | 武富士 | 消费金融破产; 拍卖回收率反映无担保债权人前景 |
+| 2012-2015 | 各类小盘股重组 | 有限的 CDS 涵盖; 小规模 DC 活动 |
+| 2017 | 东芝（无正式信用事件） | 市场经由 CDS 利差定价近信用事件风险; 未触发拍卖 |
+| 2020-2024 | COVID 及 post-COVID 期 | 无重大日本 IG 信用事件; 少数不含显著 CDS 敞口的小盘股困境案例 |
 
-日本投资级信用事件的稀少，反映了较低的基础违约率、强有力的银行-债权人支持，以及庭外重组（out-of-court workout）惯例的结合。
+日本 IG 信用事件的稀少，反映了低标的违约率、强力的银行债权人支持以及庭外重整惯例三者的结合。
 
-## Basis to JGB benchmark
+## 相对于 JGB 基准的基差
 
-CDS 利差通常与企业债在匹配期限上相对于 **JGB 基准曲线**的债券利差进行比较：
+CDS 利差通常在匹配期限上，与该公司相对于 **JGB 基准曲线**的债券利差进行比较：
 
 | Measure | Calculation |
 |---|---|
-| 相对 JGB 的 Z-spread | 加到 JGB 曲线上的恒定利差，使贴现现金流与债券价格相匹配 |
-| 资产互换利差 | 相对互换曲线的利差；对日本而言，通常相对 TONA 互换曲线 |
+| 相对于 JGB 的 Z 利差 | 加至 JGB 曲线、使贴现现金流与债券价格匹配的恒定利差 |
+| 资产互换利差 | 相对于互换曲线的利差; 对日本而言通常相对于 TONA 互换曲线 |
 | CDS-债券基差 | CDS 利差 - 对应债券利差 |
-| 负基差 | CDS 利差 < 债券利差；多现券-空 CDS 交易具吸引力 |
-| 正基差 | CDS 利差 > 债券利差；空现券-多 CDS 交易具吸引力 |
+| 负基差 | CDS 利差 < 债券利差; 多现券-空 CDS 交易具吸引力 |
+| 正基差 | CDS 利差 > 债券利差; 空现券-多 CDS 交易具吸引力 |
 
-[[derivatives/basis-trade-bond-cds-japan|Bond-CDS basis trade]] 详细展开了基差交易的经济学，包括融资成本、回购可得性和资产负债表约束。
+[[derivatives/basis-trade-bond-cds-japan|Bond-CDS basis trade]] 详细展开了基差交易的经济性，包括融资成本、回购可得性及资产负债表约束。
 
-对于日本投资级企业，基差通常较窄，但在压力时期（新冠 Q1 、2022-2023 的 BOJ YCC 调整 2020, ）当做市商资产负债表容量收缩或特定 JGB 回购动态改变相对价值定价时，基差可能走阔。
+对于日本 IG 公司，基差通常较窄，但在压力事件期间（COVID 的 Q1 2020, 、2022-2023的 BOJ YCC 调整）——当交易商资产负债表容量收缩、或特定 JGB 回购动态改变相对价值定价时——可能扩大。
 
-## Sector spread patterns
+## 行业利差模式
 
 | Sector | Spread character |
 |---|---|
-| 巨型银行金融（MUFG、SMBC、Mizuho） | 正常条件下 5Y 利差温和；全球银行压力期间间歇性走阔（2023  SVB / Credit Suisse、2024  地区银行压力） |
-| 大型寿险 / 财险公司 | 5Y 利差温和；对 BOJ 利率路径和 ESR 特征敏感 |
-| 综合商社（sogo shosha） | 5Y 利差温和；在周期性时期对大宗商品周期敏感 |
-| 汽车 / 工业蓝筹 | 稳定条件下 5Y 利差较低；在电动车转型压力下间歇性走阔 |
-| 电信 / 公用事业 | 区间较宽；TEPCO 在 2011  后多年维持高位 |
-| 房地产 | 对利率周期和 J-REIT 融资条件敏感 |
-| SoftBank Group | 持续是最宽的日本投资级或跨界（crossover）名称；Vision Fund 按市值计价驱动间歇性利差飙升 |
+| 大型银行金融（MUFG、SMBC、瑞穗） | 正常情况下温和的 5Y 利差; 全球银行压力时（2023 的 SVB ／ Credit Suisse、2024 的地区银行压力）阶段性扩大 |
+| 大型寿险／财险 | 温和的 5Y 利差; 对 BOJ 利率路径与 ESR 状况的敏感性 |
+| 商社（综合商社） | 温和的 5Y 利差; 周期阶段中的商品周期敏感性 |
+| 汽车／工业蓝筹 | 稳定情况下较低的 5Y 利差; EV 转型压力时阶段性扩大 |
+| 电信／公用 | 区间宽广; 2011 后 TEPCO 多年维持高位 |
+| 不动产 | 对利率周期及 J-REIT 融资状况敏感 |
+| 软银集团 | 持续为最宽的日本 IG-或跨界名称; 愿景基金的按市值计价驱动阶段性利差飙升 |
 
-SoftBank Group CDS 是交易量最大的日本非金融单名 CDS，且遥遥领先，反映其杠杆特征、并购历史和股票波动率联动。
+软银集团 CDS 是交易量最大的日本非金融单一名称 CDS，且优势显著，这反映了其杠杆状况、并购历史及股票波动率联动。
 
-### Life insurer and pension fund
+### 寿险公司与养老金基金
 
 | Use case | Detail |
 |---|---|
 | 信用利差对冲 | 针对信用利差冲击的组合层面 CDS 指数对冲 |
 | 行业对冲 | 行业分层 CDS 叠加（日本流动性有限） |
-| 单名负面观点对冲 | 对所关注持仓选择性买入单名 CDS 保护 |
-| 合成信用敞口 | 卖出 CDS 保护以在不购买债券的情况下获得信用敞口 |
+| 单一名称负面观点对冲 | 对存忧持仓进行选择性单一名称 CDS 保护 |
+| 合成信用敞口 | 出售 CDS 保护以在不购买债券的情况下获得信用敞口 |
 
-在实践中，日本寿险公司和养老基金对 CDS 的使用较为谨慎，原因如下：
+实务中，日本寿险公司与养老金基金极少使用 CDS，原因如下：
 
-- ESR 会计处理使对冲有效性认定复杂化；
-- JGAAP / IFRS 9  对冲会计要求；
-- 内部风险管理治理约束；
-- Tier 1  以下名称的日本单名 CDS 流动性约束。
+- 使对冲有效性认定复杂化的 ESR 会计处理;
+- JGAAP / IFRS 9 的对冲会计要求;
+- 内部风险管理治理约束;
+- Tier 1 名称以下的日本单一名称 CDS 流动性约束。
 
-更广泛的对冲工具箱背景见 [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]]。
+更广泛的对冲工具箱背景，参见 [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]]。
 
-### Bank dealer and treasury
+### 银行交易商与资金部
 
 | Use case | Detail |
 |---|---|
-| 做市 | 做市商账簿上的库存对冲 |
-| 交易对手信用风险对冲 | 对做市商交易对手的 CDS（CVA 对冲） |
-| 自身名称对冲 | 有限；自身信用对冲存在会计问题 |
+| 做市 | 交易商账簿上的库存对冲 |
+| 交易对手信用风险对冲 | 针对交易商交易对手的 CDS（CVA 对冲） |
+| 自有名称对冲 | 有限; 自身信用对冲的会计问题 |
 | 主权基差交易 | 对冲 JGB 跨货币基差敞口 |
 
-CVA（信用估值调整）对冲是做市商 CDS 需求的监管和会计驱动因素，尤其针对金融交易对手名称。
+CVA（信用估值调整）对冲是交易商 CDS 需求的监管与会计驱动因素，尤其针对金融交易对手名称。
 
-### Hedge fund
-
-| Use case | Detail |
-|---|---|
-| 直接信用观点 | 按方向性观点买 / 卖单名 CDS |
-| 相对价值 | 跨 CDS 曲线或跨名称做多 / 做空 |
-| 资本结构套利 | CDS vs 股票、CDS vs 可转债、CDS vs 优先股 |
-| 基差交易 | 多现券-空 CDS 以博取负基差，或反之——见 [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] |
-| 指数套利 | iTraxx Japan vs 成分单名 CDS |
-
-鉴于活跃的可转债市场，资本结构套利在日本是反复出现的策略——见 [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]]。
-
-### Structured product issuer
+### 对冲基金
 
 | Use case | Detail |
 |---|---|
-| 信用挂钩票据（CLN）对冲 | 发行人通过买入参考名称的 CDS 保护进行对冲 |
-| 合成 CDO | 池层面 CDS 头寸打包成分层（tranches） |
-| 面向零售 / 机构的定制信用产品 | 嵌入票据形式的单名或一篮子 CDS 敞口 |
+| 直接信用观点 | 基于方向性观点买／卖单一名称 CDS |
+| 相对价值 | 跨 CDS 曲线或跨名称的多／空 |
+| 资本结构套利 | CDS 对股票、CDS 对 CB、CDS 对优先股 |
+| 基差交易 | 针对负基差的多现券-空 CDS，或反之 — 参见 [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] |
+| 指数套利 | iTraxx Japan 对成分单一名称 CDS |
 
-CLN 发行和对冲是单名 CDS 买入保护需求的反复出现的驱动因素，导致个别名称偶尔出现供需失衡。这与 [[derivatives/structured-bond-japan-retail-issuance|structured bond Japan retail issuance]] 市场交叉。
+鉴于活跃的可转债市场，资本结构套利是日本反复使用的策略 — 参见 [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]]。
+
+### 结构化产品发行人
+
+| Use case | Detail |
+|---|---|
+| 信用联结票据（CLN）对冲 | 发行人通过购买针对参照名称的 CDS 保护进行对冲 |
+| 合成 CDO | 将池层面 CDS 头寸打包成分层 |
+| 面向零售／机构的定制信用产品 | 嵌入票据形式的单一名称或一篮子 CDS 敞口 |
+
+CLN 发行与对冲是单一名称 CDS 保护买入需求反复出现的驱动因素，对个别名称上偶发的供需失衡有所贡献。这与 [[derivatives/structured-bond-japan-retail-issuance|structured bond Japan retail issuance]] 市场相交。
 
 ## Related
 

@@ -1,148 +1,149 @@
 ---
 source: asset-managers/saison-asset-management
-source_hash: e76cd69c5556bf5d
+source_hash: 66a45f8ebbaf88f9
 lang: en
 status: machine
 fidelity: ok
-title: "Saison Asset Management"
-translated_at: 2026-06-01T00:41:50.446Z
+title: "セゾン投信 (Saison Asset Management)"
+translated_at: 2026-06-18T23:33:48.291Z
 ---
-# Saison Asset Management
+
+# セゾン投信 (Saison Asset Management)
 
 ## Wiki route
 
-This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for the investment-trust subsidiary of the [[card-issuers/credit-saison|Credit Saison]] group. Read it against [[card-issuers/credit-saison|Credit Saison (parent company)]], peer long-term diversified investment names [[JapanFG/hifumi|Rheos Capital Works (Hifumi Investment Trust)]], [[JapanFG/sawakami-am|Sawakami Investment Trust]], [[JapanFG/commons-am|Commons Investment Trust]], the direct-sold investment trust group in distribution channel [[asset-managers/INDEX]], and broader context [[asset-managers/INDEX|asset management index]] for the regulatory boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for [[card-issuers/credit-saison|Credit Saison]]'s investment-trust subsidiary. Read it against [[card-issuers/credit-saison|クレディセゾン（親会社）]], peer long-term diversified-investment players [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]], the distribution-channel group of direct-sales investment trusts at [[asset-managers/INDEX]], and the broader context [[asset-managers/INDEX|asset management index]] for the regulatory boundary.
 
 ## TL;DR
 
-An investment-trust asset management company in the [[card-issuers/credit-saison|Credit Saison]] group (FIEA investment management business + investment trust management company). Established in 2006 , it became a consolidated subsidiary of [[card-issuers/credit-saison|Credit Saison]] in 2017 . Its flagship products are the **"Saison Global Balance Fund"** (a globally diversified fund-of-funds combining Vanguard-line ETFs) and the **"Saison Shisan Keisei no Tatsujin Fund"** (a mid-revival active fund-of-funds), its **2  core pillars**. It is a leading independent direct-sold investment trust player combining **direct sales + Credit Saison card customer routes**. Since the start of the new NISA system in 2024 , it has accelerated AUM accumulation on the tailwind of a long-term installment investment culture. ^[extracted]
+[[card-issuers/credit-saison|クレディセゾン]]'s investment-trust management company (FIEA investment management business + investment-trust management company). Established 2006 , made a consolidated subsidiary in 2017 [[card-issuers/credit-saison|Credit Saison]]. Its flagship products are the **2  two pillars**: **"Saison Global Balanced Fund"** (a globally diversified fund-of-funds combining Vanguard-family ETFs) and **"Saison Master of Asset Formation Fund"** (a mid-cap active fund-of-funds). A leading player among independent direct-sales investment trusts combining **direct sales + a Credit Saison cardholder funnel**, it has accelerated AUM accumulation on the tailwind of long-term accumulation-investment culture since the start of the 2024  new NISA scheme. ^[extracted]
 
-## 1. Legal Entity Overview
+## 1. Corporate overview
 
-| Item | Content |
+| Item | Details |
 |---|---|
-| Legal name | Saison Asset Management Co., Ltd. ^[extracted] |
+| Official name | Saison Asset Management Co., Ltd. ^[extracted] |
 | English name | Saison Asset Management Co., Ltd. |
-| Establishment | 2006-04 ^[extracted] |
-| Parent company | [[card-issuers/credit-saison|Credit Saison Co., Ltd.]] (TSE PRIME 8253, consolidated subsidiary) |
-| Parent-company conversion | **2017** subsidiary conversion by [[card-issuers/credit-saison|Credit Saison]] ^[extracted] |
-| Head office | Higashi-Ikebukuro, Toshima-ku, Tokyo (near [[card-issuers/credit-saison|Credit Saison]]) |
-| Business type | Investment trust management company (Act on Investment Trusts and Investment Corporations) and investment management business (FIEA) |
-| Listing | Unlisted (parent [[card-issuers/credit-saison]] is TSE PRIME 8253) |
-| Main sales channels | **Direct sales (own channel)** + some financial institutions + [[card-issuers/credit-saison|Credit Saison]] card customer route |
+| Established | 2006-04 ^[extracted] |
+| Parent company | [[card-issuers/credit-saison|株式会社クレディセゾン]] (TSE PRIME 8253, consolidated subsidiary) |
+| Parent-company conversion | **2017** made a subsidiary by [[card-issuers/credit-saison|Credit Saison]] ^[extracted] |
+| Head office | Higashi-Ikebukuro, Toshima-ku, Tokyo (close to [[card-issuers/credit-saison|クレディセゾン]]) |
+| Business type | Investment-trust management company (Act on Investment Trusts and Investment Corporations) / investment management business (FIEA) |
+| Listing | Unlisted (parent [[card-issuers/credit-saison]] is on TSE PRIME 8253) |
+| Main sales channels | **Direct sales (own counters)** + some financial institutions + [[card-issuers/credit-saison|Credit Saison]] cardholder funnel |
 
-### 2.1  Flagship Funds: 2  Pillars
+### 2.1  Flagship funds — 2  two pillars
 
-| Fund | Characteristics |
+| Fund | Features |
 |---|---|
-| **Saison Global Balance Fund** | A globally diversified fund-of-funds combining Vanguard-line ETFs (such as Vanguard Total World Stock ETF) in **equities 50% / bonds 50%**. Representative product emphasizing low cost and long-term holding |
-| **Saison Shisan Keisei no Tatsujin Fund** | A mid-revival active fund-of-funds that selects and combines **active management funds** in Japan and overseas. Long-term selected investment |
+| **Saison Global Balanced Fund** | A globally diversified fund-of-funds combining Vanguard-family ETFs (Vanguard Total World Stock ETF, etc.) at **equities 50% / bonds 50%**. The representative product emphasizing low cost and long-term holding |
+| **Saison Master of Asset Formation Fund** | A mid-cap active fund-of-funds that carefully selects and combines **actively managed funds** from Japan and abroad. Long-term carefully-selected investing |
 
-### 2.2  Investment Philosophy
+### 2.2  Investment philosophy
 
-- 3  principles of **long-term, international diversification, and installment investment**
-- **Low-cost / no-load** (zero sales commission) direct-sales model
-- Direct-sold investment trust communication strategy emphasizing **dialogue with customers** (seminars, columns, YouTube, etc.)
-- Target customers: **long-term installment investment layer** in their 30-50 s (high affinity with [[card-issuers/credit-saison|Credit Saison]] card member base)
+- The 3  principles of **long-term, international diversification, accumulation**
+- A direct-sales model that is **low-cost and no-load** (zero sales commission)
+- A direct-sales investment-trust communication strategy that emphasizes **dialogue with customers** (seminars, columns, YouTube, etc.)
+- Target customers: the **long-term accumulation-investment segment** in their 30-50 s (high affinity with the [[card-issuers/credit-saison|Credit Saison]] cardholder base)
 
-### 2.3  NISA / iDeCo Support
+### 2.3  NISA / iDeCo eligibility
 
-- **New NISA (tsumitate investment quota / growth investment quota) support**: both core 2  funds satisfy FSA standards as eligible funds for the tsumitate investment quota
-- **iDeCo (individual-type defined contribution pension) support**: flagship funds are adopted as iDeCo investment products by multiple plan administrators
+- **New NISA (accumulation investment quota / growth investment quota) eligibility**: the flagship 2  funds both meet FSA criteria as funds eligible for the accumulation investment quota
+- **iDeCo (individual-type defined-contribution pension) eligibility**: the flagship funds are adopted as iDeCo investment products by multiple operating-management institutions
 
-## 3. Parent-Company Relationship (inside [[card-issuers/credit-saison|Credit Saison]] consolidation)
+## 3. Parent-company relationship (within the [[card-issuers/credit-saison|Credit Saison]] consolidation)
 
 ```
 Credit Saison Co., Ltd. (TSE PRIME 8253)
-  ├── Consumer credit / card business (core)
-  │     └─ Saison Card, UC Card, American Express partnership
-  ├── Saison Fundex (real estate secured loans / card loans)
-  ├── Atrium (real estate-related)
+  ├── Credit-sales / card business (core)
+  │     └─ Saison Card / UC Card / American Express partnership
+  ├── Saison Fundex (real-estate-secured loans / card loans)
+  ├── Atrium (real-estate related)
   ├── Saison Asset Management (this page, investment trusts)
-  │     └─ "Saison Global Balance Fund" / "Saison Shisan Keisei no Tatsujin Fund"
+  │     └─ "Saison Global Balanced Fund" "Saison Master of Asset Formation Fund"
   └── Overseas (Kisetsu Saison Finance India, etc.)
 ```
 
-### Background to Subsidiary Conversion (2017)
+### Background to the subsidiary conversion (2017)
 
-- At establishment in 2006 , it was operated independently by Haruhiro Nakano (formerly of Credit Saison).
-- **2017** subsidiary conversion by [[card-issuers/credit-saison|Credit Saison]] completed → positioned as an asset-management function within the group
-- **2023-06-28** founder and **Chairman** Haruhiro Nakano retired at the shareholders meeting (reported as a de facto dismissal amid conflict with parent Credit Saison over the direct-sales-centered sales policy) → transition from a strongly independent founding phase to a phase emphasizing group synergy. Nakano established "Nakano Asset Management" in 2023-09 .
-- In parent [[card-issuers/credit-saison|Credit Saison]] strategy, it is a pillar of **card customers × asset management cross-selling**.
-- Route from "Eikyufumetsu Points" to Saison Asset Management purchases (fund circulation within the card ecosystem)
+- At its establishment in 2006  it was run independently by Mr. Haruhiro Nakano (formerly of Credit Saison)
+- **2017** subsidiary conversion completed by [[card-issuers/credit-saison|Credit Saison]] → positioned as the asset-management function within the group
+- **2023-06-28** founder and **chairman** Haruhiro Nakano retired at the general shareholders' meeting (reported as effectively a dismissal amid conflict with parent Credit Saison over the direct-sales-centered distribution policy) → transition from the founding era with a strong independent character to a period emphasizing group synergy. Mr. Nakano established "Nakano Asset Management" in 2023-09 
+- Under the strategy of parent [[card-issuers/credit-saison|Credit Saison]], a pillar of **cardholder × asset management cross-selling**
+- A funnel from "Eikyufumetsu Points" → Saison Asset Management purchases (capital circulation within the card economic sphere)
 
-## 4. KPI (official public-information basis)
+## 4. KPIs (based on officially disclosed information)
 
-| Indicator | Value (source) |
+| Metric | Figure (source) |
 |---|---|
-| Total assets under management (AUM, 3  funds combined) | **Reached JPY 1 trillion on 2025-10-06** (investment operations began in 2007-03-15; reached in about 18  years and 6  months). Source: Saison Asset Management official news release |
-| Number of funds | 3  funds (Global Balance Fund / Shisan Keisei no Tatsujin Fund / **Saison Kyoso Japan Fund** launched 2022-02 ) |
-| Customers (fund holders) | **Over 790,000 people** (as of 2025-03 ). Source: same release |
-| Selling financial institutions | **29 firms** (direct sales + partner financial institutions, as of 2025-03 ) |
-| Industry rank | Leading domestic player among independent direct-sold investment trusts (vs [[JapanFG/hifumi|Hifumi Investment Trust]] [[JapanFG/sawakami-am|Sawakami Investment Trust]] [[JapanFG/commons-am|Commons Investment Trust]]) |
+| Total assets under management (AUM, 3  funds combined) | **Reached 1 兆円 on 2025-10-06** (management started 2007-03-15, reached in about 18  years 6  months). Source: Saison Asset Management official news release |
+| Number of funds | 3  (Global Balanced Fund / Master of Asset Formation Fund / **Saison Kyoso Japan Fund** set up 2022-02 ) |
+| Number of customers (fund holders) | **Over 79 万** (as of 2025-03 ). Source: same release |
+| Distributing financial institutions | **29 社** (direct sales + partner financial institutions, as of 2025-03 ) |
+| Industry ranking | Among the leading domestic independent direct-sales investment trusts (vs [[JapanFG/hifumi|ひふみ投信]] [[JapanFG/sawakami-am|さわかみ投信]] [[JapanFG/commons-am|コモンズ投信]]) |
 
-> Net assets of each flagship fund are disclosed on the official "investment status" page (updated each business day). See official IR for latest figures.
+> The net asset value of each individual flagship fund is disclosed on the official "operating status" page (updated every business day). For the latest figures, refer to official IR.
 
-### 5.1  Direct-Sold Investment Trust Model
+### 5.1  Direct-sales investment-trust model
 
-- **Sales channels**: own direct sales + some financial institutions (handled by major online securities such as Rakuten Securities / SBI Securities)
-- **Fee model**: no-load (zero sales commission) + long-term earnings through trust fees
-- **Customer communication**: "investment education" marketing through seminars, columns, YouTube, and book publishing
-- A **leading player in independent direct-sold investment trusts** alongside competitor [[JapanFG/hifumi|Hifumi Investment Trust]] (direct sales + online securities)
+- **Sales channels**: own direct sales + some financial institutions (handled at major online brokers such as Rakuten Securities / SBI Securities)
+- **Fee model**: no-load (zero sales commission) + trust fees for long-term revenue
+- **Communication with customers**: "investment-education-type" marketing through seminars, columns, YouTube, and book publishing
+- A **leading player among independent direct-sales investment trusts**, alongside competitor [[JapanFG/hifumi|ひふみ投信]] (direct sales + online brokers)
 
-### 5.2  Synergy Inside the [[card-issuers/credit-saison|Credit Saison]] Group
+### 5.2  Synergy within the [[card-issuers/credit-saison|Credit Saison]] group
 
-- **Cross-selling** to the card customer base (cumulative 40 million members): investment trust guidance through card statements and apps
-- "Eikyufumetsu Points" → point use for investment trust purchases (points investment route)
-- Provides an **alternative asset management platform** for people without bank accounts or who do not prefer face-to-face transactions
+- **Cross-selling** to the cardholder base (cumulative 4000 万 members): investment-trust guidance via card statements and the app
+- "Eikyufumetsu Points" → conversion into investment-trust purchase points (a points-investment funnel)
+- Providing an **alternative asset-management platform** for those who do not have a bank account or prefer not to transact face-to-face
 
-### 5.3  New NISA (from 2024) Tailwind
+### 5.3  New NISA (2024~) tailwind
 
-- 2024  start of new NISA system → **institutional support for long-term installment investment culture**
-- Product-line suitability as eligible funds for the installment-investment quota (annual JPY 1.2 million)
-- AUM accumulation accelerates with a **double tailwind** from new customer accounts and expanded installment amounts by existing customers
-- Parent [[card-issuers/credit-saison|Credit Saison]]'s 2024-2026  medium-term management plan also explicitly makes **asset management business a pillar** ^[likely]
+- The start of the 2024  new NISA scheme → an **institutional boost to long-term accumulation-investment culture**
+- Product-line suitability as funds eligible for the accumulation investment quota (annual 120 万円)
+- A **double tailwind** of new customer accounts and expanded accumulation amounts from existing customers, accelerating AUM accumulation
+- Parent [[card-issuers/credit-saison|Credit Saison]]'s 2024-2026  medium-term management plan also explicitly states **making the asset-management business a pillar** ^[likely]
 
-### 5.4  Competition and Differentiation
+### 5.4  Competitors and differentiation
 
-- Competitors (independent direct-sold investment trusts): [[JapanFG/hifumi|Rheos Capital Works (Hifumi Investment Trust)]], [[JapanFG/sawakami-am|Sawakami Investment Trust]], [[JapanFG/commons-am|Commons Investment Trust]]
-- Competitors (mega-line asset managers): large affiliated players such as [[asset-managers/mitsubishi-ufj-am|Mitsubishi UFJ Asset Management]], [[asset-managers/nomura-am|Nomura Asset Management]], [[asset-managers/daiwa-am|Daiwa Asset Management]]
-- **Differentiation axis**: the combination of **direct sales + low cost + Vanguard-line ETF combination + long-term international diversification** contrasts with the sales-channel-heavy model of mega-affiliated majors (securities / bank counters). It is a symbolic presence in the direct-sold investment trust culture alongside Commons Asset Management, Sawakami Asset Management, and Hifumi.
+- Competitors (independent direct-sales investment trusts): [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]
+- Competitors (mega-affiliated management companies): affiliated majors such as [[asset-managers/mitsubishi-ufj-am|三菱 UFJ アセットマネジメント]]・[[asset-managers/nomura-am|野村アセットマネジメント]]・[[asset-managers/daiwa-am|大和アセットマネジメント]]
+- **Differentiation axis**: the combination of **direct sales + low cost + Vanguard-family ETF combination + long-term international diversification** contrasts with the sales-channel emphasis of the mega-affiliated majors (securities / bank over-the-counter sales). A symbolic presence of direct-sales investment-trust culture, alongside Commons Asset Management, Sawakami Asset Management, and Hifumi Toshin.
 
-## 6. Regulation / Supervision
+## 6. Regulation / supervision
 
-| Item | Content |
+| Item | Details |
 |---|---|
-| Supervisor | Financial Services Agency (FSA) |
-| Business laws | Financial Instruments and Exchange Act (FIEA, investment management business) and Investment Trust Act (Act on Investment Trusts and Investment Corporations) |
-| Industry bodies | The Investment Trusts Association, Japan / Japan Securities Dealers Association (sales side) |
-| Licenses | Investment management business (FSA registration) / Type II Financial Instruments Business |
-| Segregated management of customer assets | Entrusted to trust banks ([[trust-banks/master-trust-bank|Master Trust Bank of Japan]], etc.) |
-| Audit | Accounting audit by audit firm + daily NAV calculation by trustee bank |
+| Competent authority | Financial Services Agency (FSA) |
+| Governing law | Financial Instruments and Exchange Act (FIEA, investment management business) / Investment Trust Act (Act on Investment Trusts and Investment Corporations) |
+| Industry bodies | The Investment Trusts Association / Japan Securities Dealers Association (sales side) |
+| License | Investment management business (FSA registration) / Type II financial instruments business |
+| Customer-asset segregation | Entrusted to a trust bank ([[trust-banks/master-trust-bank|マスタートラスト信託]] etc.) |
+| Audit | Accounting audit by an audit firm + daily NAV calculation by the trustee bank |
 
 ## Related
 
 - [[card-issuers/credit-saison]] — parent company (TSE PRIME 8253)
-- [[card-issuers/jcb]] · [[card-issuers/orico]] · [[card-issuers/jaccs]] — parent-company industry peers (consumer credit / cards)
-- [[JapanFG/hifumi]] — independent direct-sold investment trust peer (Rheos)
-- [[JapanFG/sawakami-am]] — independent direct-sold investment trust peer
-- [[JapanFG/commons-am]] — independent direct-sold investment trust peer
+- [[card-issuers/jcb]] · [[card-issuers/orico]] · [[card-issuers/jaccs]] — parent-company industry peers (credit sales / cards)
+- [[JapanFG/hifumi]] — independent direct-sales investment-trust peer (Rheos)
+- [[JapanFG/sawakami-am]] — independent direct-sales investment-trust peer
+- [[JapanFG/commons-am]] — independent direct-sales investment-trust peer
 - [[trust-banks/master-trust-bank]] — trustee trust bank
-- [[megabanks/mizuho-fg]] — parent-line main bank
+- [[megabanks/mizuho-fg]] — parent-company-affiliated main bank
 - [[asset-managers/INDEX]] — asset management namespace index
 - [[asset-managers/INDEX]] — JapanFG namespace index
 
 ## Sources
 
-- Saison Asset Management official: company profile (profile/)
+- Saison Asset Management official: company overview (profile/)
 - Saison Asset Management official: history (history/)
-- **Saison Asset Management official news release "Total assets under management reached JPY 1 trillion!"** (2025-10-06, 3  funds combined at JPY 1 trillion, investment operations began 2007-03-15, fund holders over 790,000 people, selling financial institutions 29 firms, all as of 2025-03 ) https://www.saison-am.co.jp/news/2025/release/20251006173450.html
-- **Nikkei: "Saison Asset Management Chairman Haruhiro Nakano to retire; direct-sales model at turning point"** (2023-06, conflict with parent Credit Saison over sales policy; retirement at 2023-06-28 shareholders meeting) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/
-- Credit Saison IR: subsidiary list (corporate.saisoncard.co.jp)
-- FSA: investment management business operator list
+- **Saison Asset Management official news release "Total assets under management reached 1 兆円!"** (2025-10-06, 3  funds combined at 1 兆円 / management started 2007-03-15 / over 79 万 fund holders / 29 社 distributing financial institutions, all as of 2025-03 ) https://www.saison-am.co.jp/news/2025/release/20251006173450.html
+- **Nihon Keizai Shimbun "Saison Asset Management, Chairman Haruhiro Nakano to retire; a turning point for the direct-sales model"** (2023-06, conflict with parent Credit Saison over the distribution policy / retired at the 2023-06-28 general shareholders' meeting) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/
+- Credit Saison IR: list of subsidiaries (corporate.saisoncard.co.jp)
+- FSA: list of investment management business operators
 - Wikipedia: Saison Asset Management (public information, extracted 2026-05-25)
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (v1.0  public-information basis, extracted 2026-05-25 / updated 2026-05-29 KPIs and retirement with primary information). Establishment year (2006), parent-company conversion year (2017), flagship funds, direct-sales model, and new NISA system relationship are confirmed from public information. **Total assets under management reached JPY 1 trillion across 3  funds in 2025-10-06 (about JPY 1.07 trillion at 2025-12  end), and fund holders over 790,000 people / selling financial institutions 29 firms (as of 2025-03 ) were confirmed in the official release**. **Chairman Haruhiro Nakano's retirement was confirmed by Nikkei in 2023-06-28 (conflict over sales policy with parent, reported as de facto dismissal)**. For net assets of each flagship fund, see the official "investment status" page.
+> [!info] 校核状态
+> confidence: **likely** (based on v1.0  public information, extracted 2026-05-25 / KPIs and the retirement updated with primary sources 2026-05-29). Year of establishment (2006), year of subsidiary conversion (2017), flagship funds, direct-sales model, and the new-NISA-scheme relationship are confirmed from public information. **Total assets under management reached 1 兆円 on 2025-10-06 with 3  funds combined (end of 2025-12 , about 1.07 兆円), with over 79 万 fund holders and 29 社 distributing financial institutions (as of 2025-03 ), confirmed in the official release**. **The retirement of Chairman Haruhiro Nakano is confirmed by Nikkei as 2023-06-28 (conflict with the parent over the distribution policy, reported as effectively a dismissal)**. For the net asset value of each individual flagship fund, refer to the official "operating status" page.

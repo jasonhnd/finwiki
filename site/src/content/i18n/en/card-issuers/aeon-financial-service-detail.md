@@ -1,169 +1,169 @@
 ---
 source: card-issuers/aeon-financial-service-detail
-source_hash: 3fb50625048a46ca
+source_hash: 7e616064393f783e
 lang: en
 status: machine
 fidelity: ok
-title: "Dentsu Group Financial Arm"
-translated_at: 2026-05-31T11:13:44.927Z
+title: "電通グループ金融子会社 (Dentsu Group Financial Arm)"
+translated_at: 2026-06-18T23:33:48.296Z
 ---
 
-# Dentsu Group Financial Arm
+# 電通グループ金融子会社 (Dentsu Group Financial Arm)
 
-> [!note] names note
-> This page is a slot that was originally requested to be created as "aeon-financial-service-detail", but since [[card-issuers/aeon-financial-service|AEON Financial Service]] exists as an existing page, **Dentsu Group's financial function subsidiaries (Dentsu Ventures / Dentsu Capital / Investment finance functions)** was used as an alternative. Positioned as the captive finance arm anchor of advertising agency mega-corporations.
+> [!note] Naming note
+> This page was originally requested as the "aeon-financial-service-detail" slot, but because [[card-issuers/aeon-financial-service|AEON Financial Service]] already exists as a page, it is filled instead with the **financial-function subsidiary group of Dentsu Group (Dentsu Ventures / Dentsu Capital / investment-finance functions)**. Positioned as the captive-finance arm anchor of a mega advertising-agency company.
 
 ## Wiki route
 
-This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the operating-company anchor for the finance-related subsidiaries of Dentsu Group Inc., TSE Prime 4324 and one of the world's five largest advertising companies. The scope covers Dentsu Ventures as corporate venture capital, Dentsu Capital as an M&A and strategic-investment function, advertiser billing and payment functions, and international-office finance functions. Read it against Hakuhodo DY HD and WPP Japan for media-industry peer context, against manufacturer captive-finance subsidiaries such as [[card-issuers/toyota-finance|Toyota Finance]], [[JapanFG/sony-finance|Sony Finance]], and [[JapanFG/nissan-finance|Nissan Financial]] for the industrial captive-finance peer cluster, and against [[asset-managers/cvc-japan-landscape|Japan CVC landscape]] for the corporate-venture context.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operating-company anchor** for the **financial-function subsidiary group** of Dentsu Group Inc. (TSE PRIME 4324, one of the world's 5  largest advertising companies) — specifically, **Dentsu Ventures (CVC = Corporate Venture Capital) + Dentsu Capital (M&A / strategic investment) + advertiser-facing billing/settlement functions + international-base finance functions**. Read it against Hakuhodo DY HD and WPP Japan for media-industry peer context, against the captive-finance subsidiary group of [[card-issuers/INDEX]]'s manufacturers ([[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]], etc.) for the industrial captive-finance peer cluster, and against [[asset-managers/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
 
 ## TL;DR
 
-**Subsidiaries with financial/investment functions** of Dentsu Group Inc. (TSE PRIME 4324, one of the world's largest 5  advertising companies). While our main business is advertising, we have divided the group's overall **strategic investment, CVC (corporate venture capital), M&A investment, billing payments for advertisers, and international base finance management** functions into several subsidiaries. Representatives are **Dentsu Ventures** (CVC, overseas startup investment + domestic fintech/DX investment) and **Dentsu Capital** (M&A/strategic investment). Aiming for synergies in investing in **DX/Fintech/MarTech/AdTech startups** in conjunction with the advertising media business. ^[likely]
+The **financial-function / investment-function subsidiary group** of Dentsu Group Inc. (TSE PRIME 4324, one of the world's 5  largest advertising companies). With advertising as its core business, it divides among several subsidiaries the group-wide functions of **strategic investment, CVC (corporate venture capital), M&A investment, advertiser-facing billing/settlement, and international-base finance management**. The representatives are **Dentsu Ventures** (CVC, overseas startup investment + domestic fintech / DX investment) and **Dentsu Capital** (M&A / strategic investment). In tandem with the advertising-media business, it aims for investment synergy into **DX / Fintech / MarTech / AdTech startups**. ^[likely]
 
-## 1. Parent company/group structure
+## 1. Parent company / group structure
 
-| Item | Content |
+| Item | Details |
 |---|---|
-| Parent company | Dentsu Group Inc. (holding company, English name: Dentsu Group Inc.) |
-| Parent company securities code | **TSE PRIME 4324** ^[extracted] |
-| Establishment of parent company | 1901 (as advertising agency "Nippon Advertising Co., Ltd.") ^[extracted] |
-| Converting into a holding company | 2020-01 (Dentsu → Dentsu Group) |
-| Consolidated revenue | Trillion-yen scale, centered on advertising and marketing services; one of the world's five largest advertising groups |
-| Overseas subsidiaries | Dentsu International (formerly Aegis Group overseas headquarters after integration) |
-| Domestic operating companies | Dentsu Inc. (advertising agency) |
+| Parent company | Dentsu Group Inc. (holding company, English name Dentsu Group Inc.) |
+| Parent securities code | **TSE PRIME 4324** ^[extracted] |
+| Parent establishment | 1901 (as the advertising agency "Nihon Kokoku Co., Ltd.") ^[extracted] |
+| Holding-company conversion | 2020-01 (Dentsu → Dentsu Group) |
+| Consolidated sales | Trillion-yen scale (centered on the advertising business, one of the world's 5  largest advertising companies) |
+| Overseas subsidiary | Dentsu International (overseas headquarters after integrating the former Aegis Group) |
+| Domestic operating company | Dentsu Inc. (the advertising-agency body itself) |
 
-### Location of group financial functions
+### Location of the group's financial functions
 
 ```
 Dentsu Group Inc. (TSE PRIME 4324, holding company)
-├── Dentsu Inc. (advertising agency main body, domestic mainstay)
-├── Dentsu International (overseas management, former Aegis Group integration)
-├── Finance/Investment functions (targeted on this page)
-│ ├── **Dentsu Ventures** ── CVC, overseas startup investment
-│ ├── **Dentsu Capital** ── M&A/strategic investment
-│ ├── Billing and payment functions for advertisers (core within Dentsu itself)
-│ └── Finance management function for overseas bases (linked to Dentsu International)
-└── Other businesses (ISID = ITOCHU Techno-Solutions and related, media content)
+  ├── Dentsu Inc. (the advertising-agency body itself, domestic mainstay)
+  ├── Dentsu International (overseas headquarters, former Aegis Group integration)
+  ├── Financial / investment functions (subject of this page)
+  │     ├── **Dentsu Ventures** ── CVC, overseas startup investment
+  │     ├── **Dentsu Capital** ── M&A / strategic investment
+  │     ├── Advertiser-facing billing/settlement functions (core within the Dentsu body)
+  │     └── Overseas-base finance-management functions (in tandem with Dentsu International)
+  └── Other businesses (ISID = related to ITOCHU Techno-Solutions; media / content)
 ```
 
-### 2.1 Dentsu Ventures
+### 2.1  Dentsu Ventures
 
-| Item | Content |
+| Item | Details |
 |---|---|
-| Industry | CVC (Corporate Venture Capital) |
-| Investment Areas | DX / MarTech / AdTech / Fintech / Creative Tech / Web3 / AI |
-| Investment stage | Seed - Series B focus |
-| Investment regions | Global US, Europe, Asia, Japan |
-| Fund size | Approximately JPY 20 billion in cumulative assets under management: Global Fund I of JPY 10 billion launched in 2015-04 and Fund II of JPY 10 billion launched in 2021-04, per Dentsu Group official materials |
-| Investment synergy | Linkage with digital marketing services for advertisers |
+| Business type | CVC (Corporate Venture Capital) |
+| Investment areas | DX / MarTech / AdTech / Fintech / Creative Tech / Web3  / AI |
+| Investment stage | Centered on Seed - Series B |
+| Investment regions | Global: US, Europe, Asia, Japan |
+| Fund scale | Cumulative assets under management about 200 億円 (1 号 Global Fund 100 億円, set up 2015-04  / 2 号 Fund 100 億円, set up 2021-04 ; Dentsu Group official) |
+| Investment synergy | In tandem with advertiser-facing digital-marketing services |
 
-### 2.2 Dentsu Capital (Strategic investment/M&A function of Dentsu Group)
+### 2.2  Dentsu Capital (Dentsu Group's strategic-investment / M&A function)
 
-| Item | Content |
+| Item | Details |
 |---|---|
-| Business type | Group strategic investment/M&A functions |
-| Investment areas | Advertising-agency industry M&A, including the representative 2012 Aegis Group acquisition, and MarTech acquisitions |
-| Investment stage | Growth stage - Maturity stage (minority investment + majority acquisition) |
-| Location within parent company | Dentsu Group's **International Expansion Driver** |
+| Business type | Group strategic-investment / M&A function |
+| Investment areas | M&A in the advertising-agency industry (the Aegis Group 2012  acquisition being the representative case) / MarTech company acquisitions |
+| Investment stage | Growth to maturity (minority investment + majority acquisition) |
+| Position within the parent | The **international-expansion driver** of Dentsu Group |
 
-### 2.3 Billing and payment functions for advertisers
+### 2.3  Advertiser-facing billing/settlement functions
 
-- Advertising agency business **advertisement fee billing/media expense settlement** function (annual handling on the scale of trillion yen)
-- Billing and credit management for major advertisers (automobiles, telecommunications, beverages, retail, finance)
-- Payment processing to media (TV stations, newspapers, digital media)
+- The **advertising-fee billing / media-cost settlement** functions of the advertising-agency business (trillion-yen-scale annual handling)
+- Billing and credit management for major advertisers (automotive / telecom / beverage / retail / finance)
+- Payment processing to media (TV stations / newspaper companies / digital media)
 
-### 2.4 International base finance management
+### 2.4  International-base finance management
 
-- **International fund management** of Dentsu International (formerly Aegis Group's overseas headquarters after integration)
-- Foreign exchange risk management, international remittances, and intra-group finance
-- M&A financing for overseas subsidiaries
+- **International funds management** for Dentsu International (overseas headquarters after integrating the former Aegis Group)
+- FX-risk management / international remittance / intra-group finance
+- M&A funding supply for overseas subsidiaries
 
-### 3.1 CVC model (Dentsu Ventures)
+### 3.1  CVC model (Dentsu Ventures)
 
-- Focus on **strategic synergies** with the advertising media business: The startups we invest in will connect with the Dentsu Group's advertisers, media, and technology infrastructure.
-- Investment examples (based on Dentsu official announcements): Cheddar (2018), a news video company, FOLIO (2018), a theme investment service, etc. The scope of investment is officially stipulated as ``areas that can transform marketing/communication + innovative new areas'' and ``a wide range of stages from seed to later, domestic and international global'' ^[extracted]
-- Competitor CVC: Sony group-affiliated CVC, [[megabanks/sbi-hd|SBI HD]]-type, [[megabanks/mufg|MUFG]]-type / [[megabanks/smfg|SMFG]]-type megabank CVC, Recruit-related business companies, etc. CVC
+- Emphasizes **strategic synergy** with the advertising-media business: invested startups connect with Dentsu Group's advertisers, media, and technology base
+- Examples of investees (based on Dentsu official announcements): the news-video company Cheddar (2018), the thematic-investment service company FOLIO (2018), etc. The investment scope is officially defined as "areas that could transform marketing / communications + innovative new areas" and "a broad range of stages from seed to later, in Japan and globally" ^[extracted]
+- Competing CVCs: Sony Group-affiliated CVC / [[megabanks/sbi-hd|SBI HD]]-affiliated / megabank CVCs of the [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] families / operating-company CVCs such as Recruit's
 
-### 3.2 M&A Strategy (Dentsu Capital Function)
+### 3.2  M&A strategy (Dentsu Capital function)
 
-- 2012 **Aegis Group Acquisition**: Acquired British advertising group Aegis Media for approximately 4000 億円, decisive move for overseas expansion ^[extracted]
-- Build **Dentsu International** through subsequent acquisitions of overseas media and MarTech companies
-- Group M&A functions are divided between the strategic department within the holding company (4324) + subsidiary (Dentsu Capital)
+- 2012  **Aegis Group acquisition**: acquired the UK advertising group Aegis Media for about 4000 億円, the decisive move for overseas expansion ^[extracted]
+- Subsequent successive acquisitions of overseas media / MarTech companies built **Dentsu International**
+- The group's M&A function is divided between a strategy department within the holding company (4324) + a subsidiary (Dentsu Capital)
 
-### 3.3 Manufacturer captive-finance Comparison with subsidiary
+### 3.3  Contrast with manufacturers' captive-finance subsidiaries
 
-| Item | Dentsu Group Finance | [[card-issuers/toyota-finance|Toyota Finance]] | [[JapanFG/sony-finance|Sony Finance]] |
+| Item | Dentsu Group finance | [[card-issuers/toyota-finance|トヨタファイナンス]] | [[JapanFG/sony-finance|ソニーファイナンス]] |
 |---|---|---|---|
-| Parent company industry | Advertising agency | Automobile manufacturer | Electronic equipment manufacturer |
-| Role of the financial function | Strategic investment + CVC + Advertiser billing management | Automobile sales finance (mainly auto loans) | Card + insurance + bank ([[megabanks/sony-fg]]) |
-| Scale | Investment/CVC scale: tens of billions to hundreds of billions of yen | Loan balance on the trillion yen scale | Comprehensive finance on the trillion yen scale |
-| Listed | Parent company 4324  Listed (financial functions are undivided) | Unlisted (parent company 7203) | Via [[megabanks/sony-fg]] |
-| Customers | Corporate advertisers/startups | Individuals/retailers | Individuals |
+| Parent's industry | Advertising agency | Automaker | Electronics manufacturer |
+| Role of finance function | Strategic investment + CVC + advertiser billing management | Auto sales finance (centered on auto loans) | Card + insurance + bank ([[megabanks/sony-fg]]) |
+| Scale | Investment / CVC scale in the hundreds of billions to several hundred billion yen range | Trillion-yen-scale loan balance | Trillion-yen-scale comprehensive finance |
+| Listing | Parent 4324  listed (finance function not separated) | Unlisted (parent 7203) | Via [[megabanks/sony-fg]] |
+| Customers | Corporate advertisers / startups | Individuals / dealers | Individuals |
 
-→ Unlike captive manufacturers, the Dentsu Group's financial functions are centered on working capital for its main business (advertising business) + strategic investments + overseas M&A**, and it does not directly develop consumer finance products.
+→ Dentsu Group's financial functions, **unlike manufacturers' captives**, are centered on the **working capital of the core business (advertising) + strategic investment + overseas M&A**, and are not directly deployed into consumer-finance products
 
-## 4. Parent company relationship (within Dentsu Group consolidation)
+## 4. Parent-company relationship (within the Dentsu Group consolidation)
 
 ```
 Dentsu Group Inc. (TSE PRIME 4324)
-├── Dentsu Inc. (advertisement main unit/domestic)
-├── Dentsu International (overseas)
-│ ├── Dentsu Aegis Network ── Overseas management after integration of former Aegis Group
-│ ├── Subsidiaries in various countries (US, UK, Germany, France, China, India, etc.)
-│ └── Sub-brands such as MerKle / Tag / Carat etc.
-├── Finance/Investment functions (targeted on this page)
-│ ├── **Dentsu Ventures** ── CVC
-│ ├── **Dentsu Capital** ── M&A/strategic investment
-│ ├── Billing and payment for advertisers (function within Dentsu itself)
-│ └── International base finance (linked to Dentsu International)
-├── ISID Co., Ltd. (related to ITOCHU Techno-Solutions, IT services)
-└── Other business (media/content)
+  ├── Dentsu Inc. (advertising body, domestic)
+  ├── Dentsu International (overseas)
+  │     ├── Dentsu Aegis Network ── overseas headquarters after former Aegis Group integration
+  │     ├── Subsidiaries in each country (US, UK, Germany, France, China, India, etc.)
+  │     └── Sub-brands such as Merkle / Tag / Carat
+  ├── Financial / investment functions (subject of this page)
+  │     ├── **Dentsu Ventures** ── CVC
+  │     ├── **Dentsu Capital** ── M&A / strategic investment
+  │     ├── Advertiser-facing billing/settlement (function within the Dentsu body)
+  │     └── International-base finance (in tandem with Dentsu International)
+  ├── ISID Inc. (related to ITOCHU Techno-Solutions, IT services)
+  └── Other businesses (media / content)
 ```
 
-## 5. KPI (public information base)
+## 5. KPIs (based on public information)
 
-| Metrics | Sense of scale |
+| Metric | Scale |
 |---|---|
-| Parent company Dentsu Group consolidated sales | Trillion yen scale (mainly advertising business) |
-| Dentsu Ventures fund size | Approximately JPY 20 billion in cumulative assets under management: Fund I JPY 10 billion plus Fund II JPY 10 billion, per Dentsu Group official materials |
-| Cumulative investments | More than 40 investments in Global Fund I, per Dentsu official materials; Fund II count not disclosed |
-| Billing amount for advertisers (annual) | Trillion yen scale (advertising agency business) |
+| Parent Dentsu Group consolidated sales | Trillion-yen scale (centered on the advertising business) |
+| Dentsu Ventures fund scale | Cumulative assets under management about 200 億円 (1 号 100 億 + 2 号 100 億; Dentsu Group official) |
+| Cumulative number of investments | Over 40 件 in the 1 号 Global Fund (Dentsu official; the 2 号 portion undisclosed) |
+| Advertiser-facing billing volume handled (annual) | Trillion-yen scale (advertising-agency operations) |
 
-> Details are disclosed in the parent company (4324) securities report. Please refer to the official IR for the latest figures.
+> Details are disclosed in the parent company (4324) annual securities report. For the latest figures, refer to official IR.
 
-## 6. Regulation/Supervision
+## 6. Regulation / supervision
 
-| Project | Content |
+| Item | Details |
 |---|---|
-| Supervising Agency (Parent Company) | Financial Services Agency (Listed Company Information Disclosure) |
-| Business Law | Advertising agency business (no business law, independent regulation) + CVC (Investment Business Limited Liability Partnership Law, etc.) |
-| License | Dentsu Ventures and others are registered as **Financial Instruments Business Operator (Special Business for Qualified Institutional Investors, etc.)** as **VC fund's GP** ^[likely] |
-| Parent company information disclosure | TSE PRIME (4324) securities report/quarterly report |
-| Industry organizations | Japan Advertising Industry Association (advertising industry) + Japan VC Association (CVC industry) |
+| Competent authority (parent) | Financial Services Agency (disclosure of listed-company information) |
+| Governing law | Advertising-agency business (no governing law, independent regulation) + CVC (Limited Partnership Act for Investment, etc.) |
+| License | Dentsu Ventures and others are registered as **financial instruments business operators (special business for qualified institutional investors, etc.)** as the **GP of VC funds** ^[likely] |
+| Parent information disclosure | Annual securities reports / quarterly reports of TSE PRIME (4324) |
+| Industry bodies | Japan Advertising Agencies Association (advertising industry) + Japan Venture Capital Association (CVC industry) |
 
 ## Related
 
 - Dentsu Group (parent company, TSE PRIME 4324)
-- Hakuhodo DY HD (advertising industry peer)
-- CyberAgent (Digital Advertising Peer)
-- [[card-issuers/toyota-finance]] — Manufacturer captive-finance peer
-- [[JapanFG/sony-finance]] — Manufacturer captive-finance peer
-- [[JapanFG/nissan-finance]] — Manufacturer captive-finance peer
-- [[megabanks/sbi-hd]] — Major CVC/Investment Group Peer
-- [[asset-managers/cvc-japan-landscape]] — Japan CVC Landscape
+- Hakuhodo DY HD (advertising-industry peer)
+- CyberAgent (digital-advertising peer)
+- [[card-issuers/toyota-finance]] — manufacturer captive-finance peer
+- [[JapanFG/sony-finance]] — manufacturer captive-finance peer
+- [[JapanFG/nissan-finance]] — manufacturer captive-finance peer
+- [[megabanks/sbi-hd]] — major CVC / investment-group peer
+- [[asset-managers/cvc-japan-landscape]] — Japan CVC landscape
 - [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## Sources
 
-- Dentsu Group Official: Company Profile (group.dentsu.com/jp/about/)
-- Dentsu Group Official: IR (group.dentsu.com/jp/ir/)
-- Dentsu Ventures Official (dentsuventures.com)
-- Dentsu Group Co., Ltd., "Dentsu Group establishes Dentsu Ventures Fund II to accelerate business co-creation with leading domestic and overseas startups" (confirms Fund I JPY 10 billion in 2015-04, more than 40 Fund I investments, Fund II JPY 10 billion, and cumulative assets under management of approximately JPY 20 billion): https://www.group.dentsu.com/jp/news/release/000439.html
-- Financial Services Agency: List of special operations for qualified institutional investors, etc.
-- Wikipedia: Dentsu Group (public information, 2026-05-25 extraction)
+- Dentsu Group official: company overview (group.dentsu.com/jp/about/)
+- Dentsu Group official: IR (group.dentsu.com/jp/ir/)
+- Dentsu Ventures official (dentsuventures.com)
+- **Dentsu Group Inc. "Dentsu Group sets up the 'Dentsu Ventures 2号 Fund' to accelerate business co-creation with leading startups in Japan and abroad"** (1 号 100 億円, set up 2015-04 , over 40 件 invested; 2 号 100 億円; cumulative assets under management of 200 億円 confirmed) https://www.group.dentsu.com/jp/news/release/000439.html
+- FSA: list of special businesses for qualified institutional investors, etc.
+- Wikipedia: Dentsu Group (public information, extracted 2026-05-25)
 
 ---
 
-> [!info] Check status
-> confidence: **possible**. This v1.1 entry is based on public information rechecked on 2026-05-29. Parent-company listing under code 4324, the 2020-01 holding-company transition, and the 2012 Aegis Group acquisition are confirmed from public sources. **2026-05-29 update**: Dentsu Ventures fund size was corrected from the former industry-estimate wording of "several tens of billions of yen" to the Dentsu Group official disclosure of approximately JPY 20 billion in cumulative assets under management, consisting of Fund I JPY 10 billion in 2015-04 and Fund II JPY 10 billion, with more than 40 Fund I investments. The exact legal form and registration status of Dentsu Capital and adjacent entities can change over time and should be refined against the parent company's annual securities report and official IR in the next update. Domestic CVC ranking language was isolated to `.opinions` because no verifiable ranking source was available.
+> [!info] 校核状态
+> confidence: **possible** (based on v1.1  public information, re-verified 2026-05-29). The parent 4324  listing, holding-company conversion 2020-01, and the Aegis Group 2012  acquisition are confirmed from public information. **2026-05-29 update**: Dentsu Ventures' fund scale has been corrected and sourced from the former "industry observation of a hundreds-of-billions-yen scale" to **cumulative assets under management of about 200 億円 (1 号 100 億円, 2015-04 / 2 号 100 億円), with over 40 件 invested in 1 号**, based on Dentsu Group's official announcements. The precise legal form / registration status of Dentsu Capital and others varies by period, and is to be refined at the next update using the parent's annual securities report + official IR. The domestic CVC ranking (Top-20  observation) could not obtain a verifiable ranking source and is isolated to `.opinions`.

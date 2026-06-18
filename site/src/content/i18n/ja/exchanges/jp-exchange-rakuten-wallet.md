@@ -1,18 +1,19 @@
 ---
 source: exchanges/jp-exchange-rakuten-wallet
-source_hash: 5e89dba04394ddca
+source_hash: ad7adca32cca9b49
 lang: ja
 status: machine
 fidelity: ok
-title: "楽天ウォレット株式会社 — 日本暗号資産交換業者の概観"
-translated_at: 2026-06-02T12:19:04.209Z
+title: "楽天ウォレット株式会社 — 日本暗号資産交換業者 overview"
+translated_at: 2026-06-18T23:33:48.314Z
 ---
-# 楽天ウォレット株式会社 — 日本暗号資産交換業者の概観
+
+# 楽天ウォレット株式会社 — 日本暗号資産交換業者 overview
 
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-この項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。隣接文脈は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] を、より広いシステム境界は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] をあわせて読む。
+本エントリは [[exchanges/INDEX|exchanges index]] の下に位置する。隣接する文脈については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] と、より広範なシステム境界については [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と併せて読むこと。
 
 > FSA 登録番号 関東財務局 第00015号 · JVCEA 会員 #1018 · 登録日 2019-03-25
 
@@ -24,10 +25,9 @@ translated_at: 2026-06-02T12:19:04.209Z
 - **資本金**: 1,850百万円（18.5億円）
 - **親会社**: 楽天証券ホールディングス株式会社（100%保有）。楽天証券ホールディングスは楽天グループ株式会社（東証プライム 4755）の傘下。
 - **法人番号**: 7010401128837
-
 - **代表取締役社長**: 山田 達也
 
-## 2. 牌照・登録状況
+## 2. ライセンス・登録状況
 
 - **暗号資産交換業**: 関東財務局長 第00015号（登録完了 2019年3月25日）
 - **電子決済手段等取引業**: 関東財務局長（電代）第48号
@@ -46,24 +46,24 @@ translated_at: 2026-06-02T12:19:04.209Z
 
 証拠金取引（暗号資産デリバティブ）は BTC・ETH・BCH・LTC・XRP・ADA・DOT・XLM・XTZ の9銘柄に対応。
 
-**特色**: 楽天エコシステムとの連携を強みとし、メジャーコインを中心にバランス型の銘柄構成を取る。SHIB・TON など比較的新しいミーム・ユーティリティコインも順次追加（2026年現在「NEW」表示）。
+**特色**: 楽天エコシステムとの連携を強みとし、メジャーコインを中心にバランス型の銘柄構成。SHIB・TON など比較的新しいミーム・ユーティリティコインも順次追加（2026年現在「NEW」表示）。
 
 ## 4. 業務範囲
 
 - **現物取引（spot）**: あり（スマートフォンアプリおよびウェブ）
 - **暗号資産証拠金取引（derivative）**: あり。2020年3月サービス開始。専用ウェブサイト「証拠金取引所」を提供。
 - **楽天ポイント交換**: 楽天ポイント（通常ポイント）を現物取引銘柄に1ポイント=1円相当で交換可能（最低100ポイント）。2021年3月「ポイントビットコインby楽天PointClub」として開始。
-- **楽天キャッシュチャージ**: 保有暗号資産を楽天キャッシュに換算・チャージし、楽天ペイ加盟店で利用可能（2021年2月開始）。
+- **楽天キャッシュチャージ**: 保有暗号資産を楽天キャッシュに換算・チャージし楽天ペイ加盟店で利用可能（2021年2月開始）。
 - **web3ウォレット**: 楽天IDで利用可能なNFT/web3ウォレットアプリを別途提供（暗号資産取引アプリとは別サービス）。
 - **法人口座**: あり（法人向け口座開設サービス提供）。
 - **API**: 外部開発者向け取引APIを提供（「GPT-Trade」連携を含む）。
 - **入金チャネル**: 楽天銀行口座と連携した即時入金、銀行振込、土日祝日対応の出入金に対応。
 
-## 5. 市占・取引高
+## 5. 市場シェア・取引高
 
 - 口座数・月間取引高は公表なし（2026-05-18 時点）。
 - 楽天グループ（会員1億人超）のエコシステムを活用した顧客基盤が差別化要因。楽天ポイント・楽天キャッシュとの連携により、暗号資産未経験の楽天ユーザーへのオンボーディングを図る。
-- 競合内ポジション: 中堅（mid tier）。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]が上位を形成する中、[[payment-firms/rakuten-fg|楽天経済圏]]での独自ポジションを確立（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] パターン）。機関投資家向けサービスよりリテール特化の色合いが強い。
+- 競合内ポジション: 中堅（mid tier）。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]が上位を形成する中、[[payment-firms/rakuten-fg|楽天経済圏]]での独自のポジションを確立（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] パターン）。機関投資家向けサービスよりリテール特化の色合いが強い。
 
 ## 6. 沿革・重大事件
 
@@ -101,12 +101,12 @@ translated_at: 2026-06-02T12:19:04.209Z
 - **山田 達也**: 代表取締役社長（公表情報）
 - **旧来の出発点**: トレイダーズホールディングス（FX系企業グループ）が原法人を設立したが、2018年10月に楽天グループへ完全移行。創業者・設立当時の役員の詳細は公表資料に記載なし。
 
-## 関連項目
+## 関連
 
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
-- [[fintech/japan-bittrade-listing-process]] — 上币流程一般論
+- [[fintech/japan-bittrade-listing-process]] — 上場プロセス一般論
 - [[exchanges/jp-exchange-gmo-coin]] — 同業 GMO コイン overview
 - [[exchanges/jp-exchange-mercoin]] — 同業 メルコイン overview
 - [[exchanges/jp-exchange-binance-japan]] — 同業 バイナンスジャパン overview
@@ -114,7 +114,7 @@ translated_at: 2026-06-02T12:19:04.209Z
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX ポイント経済統合
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
-## 出典
+## Sources
 
 - [楽天ウォレット 会社概要](https://www.rakuten-wallet.co.jp/company/company.html)（取得 2026-05-18）
 - [楽天ウォレット 取扱暗号資産一覧](https://www.rakuten-wallet.co.jp/start/cryptoassets.html)（取得 2026-05-18）

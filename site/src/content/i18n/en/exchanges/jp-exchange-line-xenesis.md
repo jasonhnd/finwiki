@@ -1,44 +1,44 @@
 ---
 source: exchanges/jp-exchange-line-xenesis
-source_hash: 7039ca79e32bd657
+source_hash: c08eab792ed73a19
 lang: en
 status: machine
 fidelity: ok
-title: "LINE Xenesis Corporation — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.786Z
+title: "LINE Xenesis Corporation — Japan crypto-asset-exchange operator overview"
+translated_at: 2026-06-18T23:33:48.279Z
 ---
 
-# LINE Xenesis Corporation — Japan crypto-asset exchange operator overview
+# LINE Xenesis Corporation — Japan crypto-asset-exchange operator overview
 
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system — numbering, Local Finance Bureau jurisdiction, and registration requirements]] for adjacent context and [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
-> FSA registration no. Kanto Local Finance Bureau No. 00017 · JVCEA member #1020 · registration date 2019-09-06
+> FSA registration number: Kanto Local Finance Bureau 第00017号 · JVCEA member #1020 · registration date 2019-09-06
 >
-> **⚠ 2026-06-01 noon: full service termination scheduled (crypto-asset exchange business withdrawal)** — As of 2026-05-25 this page is still recorded as `status: candidate`. After termination is confirmed (from 2026-06-01 onward) it will be promoted to `status: deprecated` and finalized into the archive with the FSA deregistration date / JVCEA membership removal date appended.
+> **⚠ Full service termination planned for noon on 2026-06-01 (abolition of the crypto-asset-exchange business)** — as of 2026-05-25 this page is recorded with `status: candidate`. After the termination is confirmed (on or after 2026-06-01), it will be promoted to `status: deprecated` and finalized into the archive, with the FSA deregistration date / JVCEA expulsion date appended.
 
-## 1. Legal entity / shareholders
+## 1. Corporate entity / shareholders
 
-- **Trade name**: LINE Xenesis Corporation (English name: LINE Xenesis Corporation)
-- **Established**: 2018-01-31
-- **Head office location**: 〒141-0033 Sumitomo Fudosan Osaki Garden Tower 22F, 1-1-1  Nishi-Shinagawa, Shinagawa-ku, Tokyo
-- **Capital**: JPY 100 million (as of 2026-03-27)
-- **Shareholder**: LY Corporation (Japanese name: LINE Yahoo Corporation) as sole shareholder
-  - LY Corporation is a holding company (listed on TSE Prime) established in 2023-10-01 through an intra-group reorganization of Z Holdings, LINE Corporation, Yahoo Japan Corporation, and others. Its English name is "LY Corporation"
-  - LINE Xenesis's corporate site (as of 2026-03) lists the shareholder in Japanese as "LINE Yahoo Corporation"
-- Unlisted. Established as a crypto-asset business subsidiary under the LINE Yahoo Group
+- **Trade name**: LINE Xenesis Corporation (LINE Xenesis株式会社; English name: LINE Xenesis Corporation)
+- **Established**: 2018年1月31日
+- **Head office location**: Floor 22, Sumitomo Fudosan Osaki Garden Tower, 1-1-1  Nishi-Shinagawa, Shinagawa-ku, Tokyo 〒141-0033 
+- **Capital**: 100百万円 (as of 2026年3月27日)
+- **Shareholder**: LY Corporation (LINEヤフー株式会社) is the sole shareholder
+  - LY Corporation is a holding company (listed on the TSE Prime) established in 2023年10月1日 through an intra-group reorganization of Z Holdings, LINE Corporation, Yahoo Japan Corporation, etc. Its English name is "LY Corporation"
+  - LINE Xenesis' corporate site (as of 2026年3月) lists the shareholder in Japanese as "LINEヤフー株式会社"
+- Unlisted. Established as the crypto-asset-business subsidiary under the LINE Yahoo group
 
-## 2. Licenses / registration status
+## 2. License / registration status
 
-- **Crypto-asset exchange business**: Director-General of the Kanto Local Finance Bureau No. 00017 (registration date 2019-09-06)
-- **JVCEA Type 1 member**: member number 1020 (crypto-asset exchange business only. Crypto-asset derivatives business not acquired)
-- No registration for electronic payment instruments business or funds-transfer business
+- **Crypto-asset-exchange business**: Director-General of the Kanto Local Finance Bureau 第00017号 (registration date 2019-09-06)
+- **JVCEA Type-I member**: member number 1020 (crypto-asset-exchange business only; has not obtained the crypto-asset-derivatives-transaction business)
+- No registration as an electronic-payment-instruments transaction business or a funds-transfer business
 
-## 3. Supported currencies
+## 3. Handled currencies
 
-Supported listings as of 2026-02 were **8 tokens**:
+As of 2026年2月, the handled assets are **8 assets**:
 
 - Bitcoin (BTC)
 - Ethereum (ETH)
@@ -46,70 +46,70 @@ Supported listings as of 2026-02 were **8 tokens**:
 - Bitcoin Cash (BCH)
 - Litecoin (LTC)
 - Stellar Lumens (XLM)
-- Kaia (KAIA) — the result of the former LINE Blockchain proprietary coin "LINK" being renamed and migrated to a new chain (see below)
-- Polkadot (DOT) — added in 2026-01 to the crypto-asset margin-trading service
+- Kaia (KAIA) — the renamed and chain-migrated version of the former LINE Blockchain proprietary coin "LINK" (described below)
+- Polkadot (DOT) — added in the crypto-asset-margin-trading service in 2026年1月
 
-Note that the domestic listing of LINE's proprietary token "LINK (formerly LN)" was carried out on 2020-08-06. LINK had been handled on the overseas exchange "BITBOX" since 2018, but the domestic listing first occurred in 2020 after registration procedures were completed. Subsequently LINE Blockchain underwent integration into the Finschia chain and then a rebrand to Kaia (KAIA), and LINE BITMAX's supported listing also migrated to KAIA (based on public information).
+Note: in 2020年8月6日 it carried out the domestic listing of the LINE proprietary token "LINK (formerly LN)." LINK had been handled on the overseas exchange "BITBOX" from 2018年, but the domestic listing was first carried out in 2020年 after the registration procedures were completed. Subsequently, LINE Blockchain went through integration into the Finschia chain and a further rebranding to Kaia (KAIA), and the assets handled by LINE BITMAX also migrated to KAIA (based on public information).
 
-The number of supported listings was among the lowest in the industry, a composition specialized in major coins plus the proprietary-token line.
+The number of handled assets was the lowest level in the industry, a configuration specialized in major coins + the proprietary-token line.
 
 ## 4. Scope of business
 
-- **Brokerage (spot)**: service began on 2019-09-17. Purchase and sale of major coins. New purchases halted as of 2026-03-03, with only sales continuing (until service termination)
-- **Exchange (order-book trading)**: began on 2023-03-20 as the exchange service for LINK. Halted in 2026
-- **Crypto-asset accumulation (savings) service**: scheduled buying. Halted in 2026
-- **Crypto-asset margin-trading service**: new short positions halted in 2026, with only buy-to-close continuing (until service termination)
-- **Crypto-asset lending service**: halted in 2026
-- **PayPay-linked service**: purchases with PayPay money halted, with only withdrawals continuing (until service termination)
-- **Fiat-currency deposit channels**: bank transfer (PayPay Bank, etc.). Details of convenience-store deposits / quick deposits not disclosed
+- **Sales outlet (spot)**: service started 2019年9月17日. Purchase / sale of major assets. New purchases halted effective 2026年3月3日, with only sales continuing (until service termination)
+- **Exchange (order-book trading)**: started 2023年3月20日 as an order-book service for LINK. Already halted 2026年
+- **Crypto-asset accumulation service**: scheduled purchases. Already halted 2026年
+- **Crypto-asset-margin-trading service**: new short selling halted 2026年, with only repayment buying continuing (until service termination)
+- **Crypto-asset-lending service**: already halted 2026年
+- **PayPay-linked service**: purchases with PayPay Money halted, with only withdrawals continuing (until service termination)
+- **Fiat-currency deposit channel**: bank transfer (PayPay Bank, etc.). Details of convenience-store deposits and quick deposits are not disclosed
 
-Its principal feature was a UI directly accessible from the wallet tab of the LINE app, designed to support trading from JPY 1 and to reach entry-level retail and small-ticket investors.
+Its greatest feature was a UI directly accessible from the wallet tab of the LINE app, designed to be tradable from 1円, targeting beginners and small-amount investors.
 
-**Full service termination and crypto-asset exchange business withdrawal scheduled for noon on 2026-06-01** (announced 2026-03-03). The stated reason for termination is "optimization of management resources across the group amid environmental change and intensifying competition in the crypto-asset market," citing concentration on growth areas.
+**Full service termination and abolition of the crypto-asset-exchange business planned for noon on 2026年6月1日** (announced 2026年3月3日). The stated reason for termination cites a focus on growth areas as "optimization of management resources across the group amid changes in the crypto-asset market environment and intensifying competition."
 
 ## 5. Market share / trading volume
 
-- Neither monthly trading volume nor account count disclosed
-- Given a structure that uses LINE app's monthly active users (over 95 million in Japan / see LINE Yahoo IR) as its customer-acquisition base, the account count is presumed to have been of a corresponding scale, but disclosure of specific figures has not been confirmed
-- Given the limited number of listings and features, its industry position is that of a niche player oriented toward retail and entry-level investors. The differentiation axis from majors such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] was "ease of use within the LINE ecosystem" (integral to the Rakuten / LINE consolidation lineage of [[megabanks/paypay-fg|PayPay economic ecosystem]])
-- After the service-termination announcement, competitors (such as [[exchanges/jp-exchange-coincheck|Coincheck]]) ran migration campaigns aimed at acquiring users
+- Neither monthly trading volume nor account numbers are disclosed
+- Given a structure that draws on the LINE app's monthly active users (over 9,500万 people in Japan / see LINE Yahoo IR) as its customer-acquisition base, the number of accounts is presumed to be of a corresponding scale, but disclosure of specific figures has not been confirmed
+- Owing to the limited number of assets and functions, its position in the industry is positioned as a niche player oriented to retail / beginners. Its axis of differentiation from majors such as [[exchanges/jp-exchange-bitflyer|bitFlyer]] · [[exchanges/jp-exchange-coincheck|Coincheck]] · [[exchanges/jp-exchange-gmo-coin|GMOコイン]] was "ease of use within the LINE ecosystem" (integral with the movements of the Rakuten / LINE integration lineage of [[megabanks/paypay-fg|PayPay 経済圏]])
+- After the service-termination announcement, competitors (such as [[exchanges/jp-exchange-coincheck|Coincheck]]) ran migration campaigns aimed at taking in users
 
-## 6. History / major incidents
+## 6. History / major events
 
-| Year-month | Item |
+| Year/month | Item |
 |------|------|
 | 2018-01-31 | LINE Xenesis Corporation (formerly LVC Corporation) established |
-| 2018 | Announced LINE's proprietary blockchain "LINE Blockchain." Began LINK token trading on the overseas exchange "BITBOX" |
-| 2019-09-06 | FSA crypto-asset exchange business registration (Kanto Local Finance Bureau No. 00017) |
-| 2019-09-17 | Domestic "LINE BITMAX" service launched in Japan (brokerage, Android version first) |
-| 2020-08-06 | Domestic listing of proprietary crypto-asset "LINK" (handling began on BITMAX) |
+| 2018年 | Announced the LINE proprietary blockchain "LINE Blockchain." Started trading the LINK token on the overseas exchange "BITBOX" |
+| 2019-09-06 | FSA crypto-asset-exchange-business registration (Kanto Local Finance Bureau 第00017号) |
+| 2019-09-17 | Started the Japan-domestic "LINE BITMAX" service (sales outlet, Android version first) |
+| 2020-08-06 | Domestic listing of the proprietary crypto asset "LINK" (started being handled on BITMAX) |
 | 2020-08-26 | Announced the LINE Blockchain Developers platform |
-| around 2022-12 | Period of expansion for crypto-asset accumulation / lending services |
-| 2023-03-20 | "Exchange service" launched (LINK became order-book tradable domestically for the first time) |
-| 2023-10-01 | Parent company LINE Corporation and others underwent group reorganization; LY Corporation (LINE Yahoo Corporation) established |
-| 2024 | Global unification of NFT-related services provided by LINE Xenesis (DOSI Wallet / LINE NFT) completed; subsequently declared focus on LINE BITMAX |
-| 2026-01-14 | Polkadot (DOT) added to LINE BITMAX crypto-asset margin trading |
-| 2026-03-03 | **Announced LINE BITMAX service termination and crypto-asset exchange business withdrawal** (termination date: noon on 2026-06-01) |
-| 2026-03-03 | New account openings halted |
-| from 2026-04-06 | Functions halted in stages (new brokerage purchases / accumulation / lending / exchange / new margin trading) |
-| 2026-06-01 | LINE BITMAX full service termination scheduled (crypto-asset exchange business withdrawal) |
+| around 2022-12 | Period of expansion of crypto-asset accumulation / lending services |
+| 2023-03-20 | Started the "exchange service" (LINK became order-book-tradable domestically for the first time) |
+| 2023-10-01 | Parent LINE Corporation and others underwent a group reorganization; LY Corporation (LINEヤフー株式会社) established |
+| 2024年 | Completed the global consolidation of LINE Xenesis-provided NFT-related services (DOSI Wallet · LINE NFT), and announced it would thereafter focus on LINE BITMAX |
+| 2026-01-14 | Added Polkadot (DOT) to LINE BITMAX crypto-asset margin trading |
+| 2026-03-03 | **Announced termination of the LINE BITMAX service and abolition of the crypto-asset-exchange business** (termination date: noon on 2026年6月1日) |
+| 2026-03-03 | Halted new account openings |
+| from 2026-04-06 | Stepwise halt of each function (new sales-outlet purchases, accumulation, lending, exchange, new margin trading) |
+| 2026-06-01 | Full termination of the LINE BITMAX service planned (abolition of the crypto-asset-exchange business) |
 
 ## 7. Strategic developments
 
-- **Confirmation of the service-termination policy** (2026-03): full withdrawal from the domestic crypto-asset business under the pretext of reallocating group management resources. A policy of concentrating management resources on "growth areas" prioritized by the LINE Yahoo Group has been announced
-- Regarding the NFT business, it was unified in 2024 into a global service linked with the Finschia/Kaia ecosystem (DOSI, etc.), and LINE Xenesis's direct operation had been scaled back
-- As for the company's business continuation or liquidation from 2026-06-01 onward, no public information had been identified as of 2026-05
+- **Finalization of the service-termination policy** (2026年3月): under the banner of reallocating group management resources, a complete withdrawal from the domestic crypto-asset business. The policy of concentrating management resources on "growth areas" that the LINE Yahoo group focuses on has been disclosed
+- As for the NFT business, in 2024年 it consolidated into a global service (DOSI, etc.) linked to the Finschia/Kaia ecosystem, and LINE Xenesis' direct operation had been scaled back
+- As of 2026年5月, there is no public information on whether the company will continue its business or be liquidated after 2026年6月1日
 
-## 8. Related persons
+## 8. Related people
 
-- **Representative Director and CEO**: Lim Inkyu — name disclosed in the CEO messages on the Japanese and English versions of the corporate site
-- Details of the founder / initial management team not disclosed
+- **Representative Director CEO**: Lim Inkyu (林 仁奎) — the name is disclosed in the Japanese and English versions of the CEO message on the corporate site
+- Details of the founder and the first-generation management team are not disclosed
 
 ## Related
 
-- [[fintech/japan-financial-regulation]] — Japan financial regulation overall
-- [[fintech/japan-bittrade-listing-process]] — general theory of the token-listing process (distinct from individual companies' listing activities)
-- [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin regime
+- [[fintech/japan-financial-regulation]] — Japan financial regulation as a whole
+- [[fintech/japan-bittrade-listing-process]] — the general theory of listing processes (distinct from individual companies' listing activities)
+- [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin system
 - [[exchanges/jp-vasp-ma-consolidation-history]] — JP VASP M&A consolidation history
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent-company map
 - [[exchanges/jp-cex-nft-marketplace-integration]] — JP CEX NFT marketplace integration
@@ -121,6 +121,6 @@ Its principal feature was a UI directly accessible from the wallet tab of the LI
 - [LINE BITMAX official service site](https://www.bitmax.me/) (retrieved 2026-05-18)
 - [LINE BITMAX service-termination notice (2026-03-03)](https://www.bitmax.me/notice/100024017) (retrieved 2026-05-18)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
-- [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 2026-04-01)
-- [LY Corporation establishment press release](https://www.lycorp.co.jp/news/release) (2023-10-01)
-- [CoinPost: LINE BITMAX supported currencies / service overview](https://coinpost.jp/) (see 2025-05-14 article)
+- [FSA crypto-asset-exchange-operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 2026-04-01)
+- [LINE Yahoo Corporation establishment press release](https://www.lycorp.co.jp/news/release) (2023-10-01)
+- [CoinPost: LINE BITMAX handled-currency / service overview](https://coinpost.jp/) (see the 2025-05-14 article)

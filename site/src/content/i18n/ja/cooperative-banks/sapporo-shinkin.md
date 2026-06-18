@@ -1,36 +1,36 @@
 ---
 source: cooperative-banks/sapporo-shinkin
-source_hash: 13b85f611a1055b8
+source_hash: 4b6c48726938fe03
 lang: ja
 status: machine
 fidelity: ok
 title: "札幌信用金庫"
-translated_at: 2026-06-02T15:14:17.079Z
+translated_at: 2026-06-18T23:33:48.342Z
 ---
 
 # 札幌信用金庫
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。都道府県レベルの商業銀行側の比較対象として [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]]、他県の都市アンカー型信用金庫の比較対象として [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]、より広い協同組織金融システムの比較対象として [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この広い 254 信用金庫システムは [[cooperative-banks/shinkin-central|信金中央金庫]] が維持し、[[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する。北海道には 20  の免許信用金庫（FSA 2025-11-06）があり、全国最多の都道府県別数であるため、このページはそのブロックの事業会社アンカーとなる。
+本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置する。県レベルの商業銀行カウンターパートである [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]] と、比較対象となる他県の市中心アンカー信金である [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] と、[[cooperative-banks/shinkin-central|信金中央金庫]] により維持され [[financial-regulators/zenshin-kyo|全国信用金庫協会]] により代表される、より広範な 254-信金システムである [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] と併せて読むこと。北海道には 20 の免許を持つ信金があり（FSA 2025-11-06）— これは全国最多の県別件数である — したがって本ページはそのブロックの operating-company anchor である。
 
-## 要約
+## TL;DR
 
 札幌信用金庫（さっしん）は、北海道札幌市中央区に本店を置く、札幌市・道央地域を主たる営業地盤とする北海道有力信用金庫の一つ。北海道全体では FSA 2025-11-06 時点で 20 信用金庫が免許登録されており（全国 254 行のうち最多プレフェクチャ）、札幌信用金庫はそのなかで道都札幌の中小企業・商店・サービス業向け融資、住宅ローン、個人預金を中核業務とする協同組織金融機関として位置付けられる。
 
-## 1. 免許 / グループ境界
+## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 正式名称 | 札幌信用金庫 |
-| 免許ルート | 信用金庫法 / FSA 信用金庫免許一覧（2025-11-06: 北海道財務局管内 20 行） |
-| グループ境界 | [[cooperative-banks/shinkin-central|信金中央金庫]] 協同組織金融システムの会員。 |
-| 業界団体 | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] の会員。 |
-| 本拠市場 | 札幌市・道央圏（小樽・千歳・苫小牧周辺含む地域） |
-| ウィキ上の役割 | 北海道・札幌都市部の信用金庫事業会社アンカーページ。 |
-| 監督 bureau | 北海道財務局 |
+| Legal name | 札幌信用金庫 |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧（2025-11-06: 北海道財務局管内 20 行） |
+| Group boundary | [[cooperative-banks/shinkin-central|信金中央金庫]] 協同組織システムの会員 |
+| Industry body | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] の会員 |
+| Home market | 札幌市・道央圏（小樽・千歳・苫小牧周辺含む地域） |
+| Wiki role | 北海道 札幌都市部 信金 operating-company anchor ページ |
+| Supervisory bureau | 北海道財務局 |
 
-## 2. 運営モデル
+## 2. Operating model
 
 札幌信用金庫は、札幌市・道央圏の中小企業（卸売・小売・サービス業・観光関連 SME・建設業・個人事業主）向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。札幌は北海道経済の中心であり、観光・物流・建設・サービス業が集積するため、これら業種への目利き融資が同庫の強み。
 
@@ -38,19 +38,19 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 北海道信用金庫業界は、過去 25 年で合併が進行してきた領域でもあり、札幌圏内では複数の中小信用金庫が再編対象となってきた経緯がある（北海道財務局管内 20 行は全国最多だが、ピーク時からは大幅減少）。
 
-## 3. 系統内位置（システム上の位置づけ）
+## 3. 系統内位置（Systemic position）
 
-| レイヤー | 対応先 |
+| Layer | Counterpart |
 |---|---|
-| 中央機関（流動性 / 決済） | [[cooperative-banks/shinkin-central|信金中央金庫]]（札幌支店経由で系統接続） |
-| 業界団体（政策 / 標準） | [[financial-regulators/zenshin-kyo|全国信用金庫協会]]・北海道地区信用金庫協会 |
+| 中央機関（liquidity / clearing） | [[cooperative-banks/shinkin-central|信金中央金庫]]（札幌支店経由で系統接続） |
+| 業界団体（policy / standards） | [[financial-regulators/zenshin-kyo|全国信用金庫協会]]・北海道地区信用金庫協会 |
 | 共同 IT インフラ | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]・信金共同センター（ATM・勘定系等） |
 | 預金保険 | [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
-| 監督 | FSA（金融庁）/ 北海道財務局 |
+| Supervisory | FSA（金融庁）/ 北海道財務局 |
 
-## 4. このページが重要な理由
+## 4. Why this page matters
 
-- 北海道（全国最多の 20 信用金庫を抱える地区）における道都札幌の 事業会社 entry。
+- 北海道（全国最多の 20 信用金庫を抱える地区）における道都札幌の operating-company entry。
 - [[regional-banks/hokkaido-bank|北海道銀行]] / [[regional-banks/hokuyo-bank|北洋銀行]] 二大地銀との地域市場における協同組織側の対比アンカー。
 - 札幌都市部 SME / 商業金融の協同組織モデルの典型例。
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] の地理分散ケース（北海道財務局管内 20 行のうち道都札幌のキーアンカー）。
@@ -82,7 +82,7 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 札幌は北海道インバウンドの中核都市で、観光関連 SME（飲食・宿泊・小売）向け融資・キャッシュレス対応・QR コード決済対応等で [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] 経由の業界共通インフラ活用が重要。
 
-## 関連
+## Related
 
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
@@ -90,14 +90,14 @@ translated_at: 2026-06-02T15:14:17.079Z
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]
 - [[regional-banks/hokkaido-bank|北海道銀行]]
 - [[regional-banks/hokuyo-bank|北洋銀行]]
-- [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]（他県の都市アンカー型比較対象）
+- [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]（other-prefecture city-anchor peer）
 - [[cooperative-banks/sendai-shinkin|仙台信用金庫]]（北日本ブロック peer）
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
 - [[banking/INDEX|banking index]]
 
-## 出典
+## Sources
 
 - FSA: 信用金庫免許一覧（2025-11-06 時点、北海道財務局管内 20 行）: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - 札幌信用金庫 公式サイト: https://www.sapporoshinkin.co.jp/
@@ -106,5 +106,5 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 ---
 
-> [!info] 検証メモ
-> confidence: **likely**. 公開情報（札幌信用金庫公式サイト + FSA 信用金庫免許一覧 + 全信協公開資料）ベース。預金規模・店舗数等の最新数値はディスクロージャー誌（信用金庫個別）を要参照。北海道財務局管内 20 行 のうち、道都札幌の代表的な事業会社項目として位置付ける。
+> [!info] Confidence note
+> confidence: **likely**. 公開情報（札幌信用金庫公式サイト + FSA 信用金庫免許一覧 + 全信協公開資料）ベース。預金規模・店舗数等の最新数値はディスクロージャー誌（信用金庫個別）を要参照。北海道財務局管内 20 行のうちの道都札幌の代表的 operating-company entry として位置付ける。

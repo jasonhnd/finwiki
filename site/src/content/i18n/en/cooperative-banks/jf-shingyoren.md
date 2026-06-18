@@ -1,115 +1,115 @@
 ---
 source: cooperative-banks/jf-shingyoren
-source_hash: ae34d9785a9b9663
+source_hash: 69a66905a4ca9504
 lang: en
 status: machine
 fidelity: ok
 title: "JF Shingyoren (Credit Federations of Fishery Cooperatives / Prefectural Credit Federations of Fishery Cooperatives)"
-translated_at: 2026-05-31T23:59:49.305Z
+translated_at: 2026-06-18T23:33:48.362Z
 ---
 # JF Shingyoren (Credit Federations of Fishery Cooperatives / Prefectural Credit Federations of Fishery Cooperatives)
 
-## Wiki Route
+## Wiki route
 
 This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **prefectural credit-federation layer** of the [[banking/jf-marine-bank-system-japan|JF Marine Bank system]], sitting between local JF (71 fishery cooperatives) and the national central institution [[cooperative-banks/norinchukin|農林中央金庫]]. Read with [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-side equivalent, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the representative / economic-business federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader context.
 
 ## TL;DR
 
-**The prefectural intermediate layer of the JF Marine Bank system = credit federations of fishery cooperatives (Shingyoren)**. These are **prefectural or regional credit-business federations** based on the Fisheries Cooperatives Act. According to official [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] materials (as of 2025-04-01), **10  Shingyoren** are operating (not organized by 47  prefecture, but by regions formed through neighboring-prefecture integrations). Their roles are **(1) aggregation of surplus funds from in-area JF (71  fishery cooperatives)**, **(2) depositing surplus funds with [[cooperative-banks/norinchukin|農林中央金庫]] + self-managed investment**, **(3) lending and liquidity provision to in-area JF**, and **(4) provision of shared JF Marine Bank system infrastructure**. They have the same structural type as [[cooperative-banks/ja-shinnoren|JA 信連]] (31  institutions), but because the fishery-cooperative industry is smaller and prefectural integrations have advanced, **the number of Shingyoren is about 1/3**. Through the three-layer structure of **"71  JF -> 10  Shingyoren -> 1  Norinchukin Bank"**, they provide the safety net and cooperative-system financial function for regional fisheries. ^[extracted]
+**The prefectural intermediate layer of the JF Marine Bank system = the Credit Federations of Fishery Cooperatives (Shingyoren)**. **Prefectural- or regional-unit credit-business federations** grounded in the Fisheries Cooperatives Act. Per [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] official materials (as of 2025-04-01), **10 Shingyoren** are in operation (organized regionally through integration of adjacent prefectures, rather than by 47 prefectures). Their role is **(1) aggregating surplus funds from in-region JF (71 fishery cooperatives)**, **(2) depositing the surplus funds with [[cooperative-banks/norinchukin|農林中央金庫]] + self-management**, **(3) lending / liquidity provision to in-region JF**, and **(4) providing common JF Marine Bank system infrastructure**. It has the same structure as [[cooperative-banks/ja-shinnoren|JA 信連]] (the 31  institution), but due to the small scale of the fishery-cooperative industry + the ongoing prefectural integration, **the number of Shingyoren is about 1/3**. With a **three-tier structure of "71 JF → 10 Shingyoren → 1 Norinchukin"**, it bears the safety net for regional fisheries + the system-finance function. ^[extracted]
 
-## 1. Organizational Structure
+## 1. Organizational structure
 
-| Item | Content |
+| Item | Details |
 |---|---|
 | Common name | JF Shingyoren / Shingyoren |
 | English name | Prefectural Credit Federation of Fishery Cooperatives (Shingyoren) |
 | Legal form | **Regional / prefectural federation under the Fisheries Cooperatives Act** (credit-business federation) |
-| Established | Established by region from 1948  onward |
-| Number of Shingyoren | **10  Shingyoren** (as of 2025-04-01) ^[extracted] |
-| Supervisory authorities | FSA (credit business) + MAFF / Fisheries Agency (cooperative supervision) |
+| Establishment | Established by region from 1948 onward |
+| Number of Shingyoren | **10 Shingyoren** (as of 2025-04-01) ^[extracted] |
+| Supervisory authority | Financial Services Agency (credit business) + Ministry of Agriculture, Forestry and Fisheries / Fisheries Agency (cooperative supervision) |
 
-### Three-Layer Structure of the JF Marine Bank System ^[extracted]
+### The three-tier structure of the JF Marine Bank system ^[extracted]
 
 ```
-JF Marine Bank system (3 -layer structure)
-  Layer 1: Nationwide 71  JF (individual fishery cooperatives / cooperatives conducting credit business)
-                ↓ surplus-fund deposits
-  Layer 2: 10  Shingyoren (regional / prefectural intermediate layer) ★ this page
-                ↓ surplus-fund deposits
-  Layer 3: 1  Norinchukin Bank (central) → [[cooperative-banks/norinchukin]]
-                ↓ institutional investment / system return
+JF Marine Bank system (3 -tier structure)
+  Layer 1: 71 JF nationwide (individual fishery cooperatives / credit-business cooperatives)
+                ↓ surplus-fund deposit
+  Layer 2: 10 Shingyoren (regional / prefectural intermediate layer) ★this page
+                ↓ surplus-fund deposit
+  Layer 3: 1 Norinchukin (central) → [[cooperative-banks/norinchukin]]
+                ↓ institutional investment / system feedback
 ```
 
-### Comparison with JA Shinnenren ^[extracted]
+### Comparison with JA Shinnoren ^[extracted]
 
 | Axis | [[cooperative-banks/ja-shinnoren|JA 信連]] | JF Shingyoren |
 |---|---|---|
 | Governing law | Agricultural Cooperatives Act | Fisheries Cooperatives Act |
-| Number of intermediate-layer institutions (2025-04) | **31  institutions** | **10  institutions** |
-| Number of individual cooperatives | 497  JA | 71  JF |
-| System scale | Large (JA Bank deposits above 100 兆円) | Small (several-trillion-yen scale — JF system savings of 2兆2,544億円 at end-平成22年 fiscal year) |
-| Prefectural composition | Some prefectures have moved to direct connection | Mainly regional integration (joint neighboring-prefecture structures) |
-| Upper institution | Norinchukin Bank (common) | Norinchukin Bank (common) |
+| Number of intermediate layers (2025-04) | **31 institutions** | **10 institutions** |
+| Number of individual cooperatives | 497 JA | 71 JF |
+| System scale | Large (JA Bank deposits over 100 兆円) | Small (several-trillion-yen scale — JF system savings of 2兆2,544億円at the end of FY 平成22年) |
+| Prefectural composition | Some prefectures have shifted to direct connection | Regional integration (combining adjacent prefectures) is predominant |
+| Upper institution | Norinchukin (common) | Norinchukin (common) |
 | Supervision | FSA + MAFF | FSA + MAFF / Fisheries Agency |
 
-### Key Timeline ^[extracted]
+### Key chronology ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1948  | Fisheries Cooperatives Act enacted; legal basis for Shingyoren established |
-| 1948 onward | Shingyoren established by prefecture |
-| 1990-2000 年s | Number of fishery cooperatives declined + Shingyoren management issues emerged |
-| 2000 年s onward | **Regional integration of neighboring-prefecture Shingyoren progressed** — 47  -> gradual reduction |
-| 2010 年s | **"[[banking/jf-marine-bank-system-japan|JF Marine Bank]]"** brand unified |
-| 2015 onward | JF Marine Bank Basic Policy strengthened integrated operations |
-| **2025-04-01** | **10  Shingyoren** (Norinchukin public materials) ^[extracted] |
+| 1948 | Enactment of the Fisheries Cooperatives Act, putting in place the legal basis for the Shingyoren |
+| 1948onward | Shingyoren established by prefecture |
+| 1990–2000 年s | Decline in the number of fishery cooperatives + Shingyoren management challenges |
+| 2000 年s onward | **Progress in regional integration of adjacent-prefecture Shingyoren** — 47 → gradual decline |
+| 2010 年s | Unification of the **"[[banking/jf-marine-bank-system-japan|JF Marine Bank]]"** brand |
+| 2015onward | Strengthening of integrated operation under the JF Marine Bank Basic Policy |
+| **2025-04-01** | **10 Shingyoren** (Norinchukin public materials) ^[extracted] |
 
-### 4  Major Functions ^[extracted]
+### 4  major functions ^[extracted]
 
-| Function | Content |
+| Function | Details |
 |---|---|
-| **Surplus-fund aggregation** | Aggregates surplus funds from in-area JF (excess member deposits) |
-| **Deposits to the central institution** | Passes aggregated surplus funds up as system deposits to [[cooperative-banks/norinchukin|農林中央金庫]] |
-| **Self-managed investment** | Partly invests institutionally on its own balance sheet |
-| **Support for in-area JF** | Management guidance, liquidity provision, and shared systems |
+| **Surplus-fund aggregation** | Aggregating surplus funds (the excess over member deposits) from in-region JF |
+| **Depositing with the center** | Remitting aggregated surplus funds as system deposits with [[cooperative-banks/norinchukin|農林中央金庫]] |
+| **Self-management** | Some is invested institutionally by the Shingyoren itself |
+| **Support for in-region JF** | Management guidance / liquidity provision / system pooling |
 
-### Scale
+### Sense of scale
 
-- **Savings scale (entire JF system)**: several-trillion-yen scale — JF (fishery cooperative) system savings were **2兆2,544億円** at end-平成22年 fiscal year (about 1/50  the size of [[banking/ja-bank-system-japan|JA Bank]], which exceeds 100 兆円). Norinchukin disclosures (end-2024-03 ) show JF system loans of about 0.5 兆円.
-- **Total assets of individual Shingyoren**: several tens of billions to 8 hundred billion yen scale — the largest, [[cooperative-banks/jf-marine-bank-hokkaido|北海道信漁連]], had total assets of about 8,099 億円 and savings / similar balances of about 7,654 億円 (end-令和7年3月), with smaller regional Shingyoren alongside it.
+- **Scale of savings (JF system overall)**: several-trillion-yen scale — JF (fishery-cooperative) system savings stood at **2兆2,544億円** at the end of FY 平成22年 (about 1/50  the scale relative to [[banking/ja-bank-system-japan|JA Bank]]'s over 100 兆円). Per Norinchukin disclosure (end of 2024-03 ), JF system loans were approx. 0.5 兆円.
+- **Total assets of individual Shingyoren**: ranging from several tens of billions to 8hundred-billion-yen scale — the largest, [[cooperative-banks/jf-marine-bank-hokkaido|北海道信漁連]], has total assets of approx. 8,099 億円 and a savings balance of approx. 7,654 億円 (end of 令和7年3月), with smaller regional Shingyoren lined up below.
 
-> Note: For detailed financials by Shingyoren, see each Shingyoren's disclosures (for example, Hokkaido Shingyoren https://marinebank.jp/disclosure/ ) and Norinchukin disclosures.
+> Note: For detailed financials by Shingyoren, refer to each Shingyoren's disclosure (e.g., Hokkaido Shingyoren https://marinebank.jp/disclosure/ ) and Norinchukin disclosures.
 
-### Position in the JF Marine Bank System
+### Position within the JF Marine Bank system
 
-- The **JF Marine Bank Basic Policy** (2015 onward) strengthened **integrated operation of JF + Shingyoren + Norinchukin Bank** ^[extracted]
+- Under the **JF Marine Bank Basic Policy** (2015onward), **integrated operation of JF + Shingyoren + Norinchukin** is strengthened ^[extracted]
 
-### Integration / Reorganization Trends
+### Integration / reorganization trends
 
-- Prefecture-by-prefecture 47  Shingyoren have been reduced to **10  Shingyoren** through neighboring-prefecture integrations ^[extracted]
+- From 47 prefectural Shingyoren → reduced to **10 Shingyoren** through adjacent-prefecture integration ^[extracted]
 
-## 4. Supervision / Regulation
+## 4. Supervision / regulation
 
-- **Supervisors**: FSA (soundness of credit business) + MAFF / Fisheries Agency (cooperative supervision)
-- **Legal basis**: Fisheries Cooperatives Act (credit-business federation provisions)
+- **Jurisdiction**: Financial Services Agency (soundness of credit business) + Ministry of Agriculture, Forestry and Fisheries / Fisheries Agency (cooperative supervision)
+- **Legal basis**: Fisheries Cooperatives Act (credit-business-federation provisions)
 - **Recent policy issues**:
-  - **Further Shingyoren integration and migration to direct-connection methods**
-  - Assessing the impact of **Fisheries Act amendments (2018)** on Shingyoren
-  - Redefining Shingyoren functions in the **Food Security Plan (2026 onward)**
-  - Impact of **2024 onward unrealized losses on Norinchukin U.S. bonds** on dividends to Shingyoren
+  - **Further integration of Shingyoren / shift to the direct-connection method**
+  - Assessment of the impact on Shingyoren of the **Fisheries Act amendment (2018)**
+  - Redefinition of Shingyoren functions under the **Food Security Plan (2026onward)**
+  - The dividend impact on Shingyoren of the **2024-onward Norinchukin US-Treasury unrealized losses**
 
 ## Related
 
-- [[cooperative-banks/norinchukin]] — Central institution of the JF Marine Bank system (upper layer for Shingyoren)
-- [[cooperative-banks/ja-shinnoren]] — Corresponding national institution on the JA side (peer prefectural federation, scale 3-10  times larger)
-- [[cooperative-banks/jf-zengyoren]] — JF Group representation + economic business
-- [[cooperative-banks/ja-zenchu]] — JA Group representative function (comparison)
-- [[cooperative-banks/shinkin-central]] — Central institution of the shinkin bank industry (comparison)
-- [[cooperative-banks/zenshin-kumi]] — Central institution of the credit-cooperative industry (comparison)
-- [[cooperative-banks/rokin-renraku]] — Central institution of the rokin bank industry (comparison)
+- [[cooperative-banks/norinchukin]] — central institution of the JF Marine Bank system (upper to the Shingyoren)
+- [[cooperative-banks/ja-shinnoren]] — the corresponding institution on the JA side (peer prefectural federation, 3–10  times larger in scale)
+- [[cooperative-banks/jf-zengyoren]] — JF group representative + economic business
+- [[cooperative-banks/ja-zenchu]] — JA group representative function (comparison)
+- [[cooperative-banks/shinkin-central]] — central institution of the shinkin-bank industry (comparison)
+- [[cooperative-banks/zenshin-kumi]] — central institution of the credit-cooperative industry (comparison)
+- [[cooperative-banks/rokin-renraku]] — central institution of the labor-bank industry (comparison)
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system boundary
 - [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
-- [[banking/cooperative-banking-japan]] — Cooperative-organization finance overall
+- [[banking/cooperative-banking-japan]] — cooperative finance as a whole
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
@@ -117,12 +117,12 @@ JF Marine Bank system (3 -layer structure)
 - **JF Marine Bank official**: https://www.jfmbk.org/
 - **JF Marine Bank Basic Policy**: https://www.jfmbk.org/about/housin.html
 - **JF Marine Bank Basic Policy PDF**: https://www.jfmbk.org/common/pdf/housin_jf_all.pdf
-- **Norinchukin Bank features (headcount by layer as of 2025-04-01)**: https://www.nochubank.or.jp/about/features.html
-- **JF Marine Bank (Wikipedia)**: https://ja.wikipedia.org/wiki/JFマリンバンク — JF system savings of 2兆2,544億円 at end-平成22年 fiscal year; Shingyoren integrations after 2021  (East Japan, Kyushu, West Japan)
-- **Hokkaido Credit Federation of Fishery Cooperatives disclosures**: https://marinebank.jp/disclosure/index.html — scale anchor for the largest Shingyoren (total assets about 8,099 億円, end-令和7年3月)
-- Fisheries Cooperatives Act (昭和 23 年 Act No. 第 242 号)
+- **Norinchukin features (per-tier headcount as of 2025-04-01)**: https://www.nochubank.or.jp/about/features.html
+- **JF Marine Bank (Wikipedia)**: https://ja.wikipedia.org/wiki/JFマリンバンク — JF system savings of 2兆2,544億円 at the end of FY 平成22年, Shingyoren integration from 2021 onward (East Japan, Kyushu, West Japan)
+- **Hokkaido Credit Federation of Fishery Cooperatives disclosure**: https://marinebank.jp/disclosure/index.html — the scale anchor of the largest Shingyoren (total assets approx. 8,099 億円, end of 令和7年3月)
+- Fisheries Cooperatives Act (昭和 23 年Act No. 第 242 号)
 
 ---
 
-> [!info] Verification Status
-> confidence: **likely**. Based on public information (JF Marine Bank official materials + Norinchukin official materials + Fisheries Cooperatives Act). The number of Shingyoren, 10  (as of 2025-04-01), is from public [[cooperative-banks/norinchukin|農林中金]] materials and ^[extracted]. Scale is supported by empirical anchors: JF system savings of 2兆2,544億円 (end-平成22年 fiscal year) + the largest Hokkaido Shingyoren (total assets about 8,099 億円, end-令和7年3月; official disclosure). Note that since 2021 , regional integrations such as East Japan Shingyoren, Kyushu Shingyoren, and West Japan Shingyoren have continued, so the number of Shingyoren continues to change.
+> [!info] 校核状态
+> confidence: **likely**. Based on public information (JF Marine Bank official + Norinchukin official + Fisheries Cooperatives Act). The number of Shingyoren, 10 (as of 2025-04-01), is ^[extracted] per [[cooperative-banks/norinchukin|農林中金]] public materials. The sense of scale is backed by empirical anchors of JF system savings of 2兆2,544億円 (end of FY 平成22年) + the largest, Hokkaido Shingyoren (total assets approx. 8,099 億円, end of 令和7年3月, official disclosure). Note that from 2021 onward, regional integration / reorganization such as East Japan Shingyoren, Kyushu Shingyoren, and West Japan Shingyoren has progressed, so the number of Shingyoren continues to fluctuate.

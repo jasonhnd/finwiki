@@ -1,85 +1,86 @@
 ---
 source: cooperative-banks/sapporo-shinkin
-source_hash: 13b85f611a1055b8
+source_hash: 4b6c48726938fe03
 lang: en
 status: machine
 fidelity: ok
-title: "Sapporo Shinkin Bank"
-translated_at: 2026-06-01T00:41:50.428Z
+title: "札幌信用金庫 (Sapporo Shinkin Bank)"
+translated_at: 2026-06-18T23:33:48.343Z
 ---
-# Sapporo Shinkin Bank
+
+# 札幌信用金庫 (Sapporo Shinkin Bank)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the prefecture-level commercial-bank counterparts, against [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] for a comparable other-prefecture city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Hokkaido has 20 licensed shinkin banks (FSA 2025-11-06), the largest prefectural count nationwide, so this page is the operating-company anchor for that block.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the prefecture-level commercial-bank counterparts, against [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] for a comparable other-prefecture city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Hokkaido has 20 licensed shinkin (FSA 2025-11-06)—the largest prefectural count nationwide—so this page is the operating-company anchor for that block.
 
 ## TL;DR
 
-Sapporo Shinkin Bank (Sasshin) is one of Hokkaido's major shinkin banks, headquartered in Chuo Ward, Sapporo, Hokkaido, with Sapporo City and the central Hokkaido region as its main operating base. Across Hokkaido, 20  shinkin banks were licensed as of FSA 2025-11-06 (the largest prefectural count among nationwide 254 行), and Sapporo Shinkin Bank is positioned within that set as a cooperative financial institution whose core businesses are loans to SMEs, merchants, service companies, housing loans, and retail deposits in the prefectural capital of Sapporo.
+Sapporo Shinkin Bank (さっしん) is one of Hokkaido's leading shinkin banks, headquartered in Chuo-ku, Sapporo, Hokkaido, with Sapporo City and the central-Hokkaido (Dōō) region as its principal operating base. Across Hokkaido as a whole, 20 shinkin banks were licensed and registered as of FSA 2025-11-06 (the prefecture with the most among the 254 行nationwide), and within that group Sapporo Shinkin is positioned as a cooperative-organization financial institution whose core business is lending to SMEs, shops, and service businesses, home loans, and individual deposits in the prefectural capital of Sapporo.
 
-## 1. License / Group Boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Sapporo Shinkin Bank |
-| License route | Shinkin Bank Act / FSA shinkin-bank license list (2025-11-06: Hokkaido Local Finance Bureau jurisdiction 20 行) |
-| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Legal name | 札幌信用金庫 |
+| License route | 信用金庫法 / FSA shinkin license list (2025-11-06: within the jurisdiction of the Hokkaido Local Finance Bureau 20 行) |
+| Group boundary | Member of the [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
 | Industry body | Member of [[financial-regulators/zenshin-kyo|全国信用金庫協会]] |
-| Home market | Sapporo City and central Hokkaido area (including areas around Otaru, Chitose, and Tomakomai) |
-| Wiki role | Hokkaido urban Sapporo shinkin operating-company anchor page |
+| Home market | Sapporo City / the Dōō (central Hokkaido) area (including the region around Otaru, Chitose, and Tomakomai) |
+| Wiki role | Hokkaido Sapporo-urban shinkin operating-company anchor page |
 | Supervisory bureau | Hokkaido Local Finance Bureau |
 
-## 2. Operating Model
+## 2. Operating model
 
-Sapporo Shinkin Bank's core businesses are SME lending, working capital, equipment finance, housing loans, and retail deposits for SMEs in Sapporo City and central Hokkaido, including wholesalers, retailers, service companies, tourism-related SMEs, construction firms, and sole proprietors. Sapporo is the center of Hokkaido's economy, and tourism, logistics, construction, and service industries are concentrated there, so sector-specific credit judgment for these industries is one of the bank's strengths.
+Sapporo Shinkin's core business is SME lending, working-capital and equipment funds, home loans, and individual deposits for SMEs in Sapporo City and the Dōō area (wholesale, retail, service businesses, tourism-related SMEs, construction, sole proprietors). Sapporo is the center of the Hokkaido economy, where tourism, logistics, construction, and service businesses cluster, so discerning lending to these industries is the bank's strength.
 
-In Hokkaido's financial market, [[regional-banks/hokkaido-bank|北海道銀行]] (under Hokuhoku FG) and [[regional-banks/hokuyo-bank|北洋銀行]] (under Hokuyo HD) are the two major regional-bank players, but at the shinkin layer 20  shinkin banks divide the prefecture geographically, and Sapporo Shinkin Bank operates in a competitive environment where multiple shinkin banks coexist within the prefectural capital.
+In the Hokkaido financial market, the two major regional banks [[regional-banks/hokkaido-bank|北海道銀行]] (under Hokuhoku FG) and [[regional-banks/hokuyo-bank|北洋銀行]] (under Hokuyo HD) are the main players, but at the shinkin layer the prefecture's 20 shinkin banks share the geography, and Sapporo Shinkin operates in a competitive environment in which multiple shinkin banks coexist within the prefectural capital of Sapporo.
 
-Hokkaido's shinkin industry is also an area where mergers have advanced over the past 25  years. Within the Sapporo area, several small and mid-sized shinkin banks have historically become reorganization candidates (the Hokkaido Local Finance Bureau jurisdiction 20 行 remains the largest nationwide, but has declined sharply from its peak).
+The Hokkaido shinkin industry is also an area where mergers have advanced over the past 25  years, and within the Sapporo area multiple small and mid-sized shinkin banks have been subject to reorganization (the 20 行within the Hokkaido Local Finance Bureau jurisdiction is the most nationwide, but it has decreased substantially from its peak).
 
-## 3. Systemic Position
+## 3. Systemic position
 
 | Layer | Counterpart |
 |---|---|
-| Central institution (liquidity / clearing) | [[cooperative-banks/shinkin-central|信金中央金庫]] (system connection through the Sapporo branch) |
-| Industry body (policy / standards) | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] and Hokkaido District Shinkin Bank Association |
-| Shared IT infrastructure | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] and Shinkin Joint Center (ATM, core banking, etc.) |
+| Central institution (liquidity / clearing) | [[cooperative-banks/shinkin-central|信金中央金庫]] (connected to the system via the Sapporo branch) |
+| Industry body (policy / standards) | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] / Hokkaido District Shinkin Bank Association |
+| Shared IT infrastructure | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] / Shinkin Joint Center (ATM, core banking, etc.) |
 | Deposit insurance | [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
 | Supervisory | FSA / Hokkaido Local Finance Bureau |
 
-## 4. Why This Page Matters
+## 4. Why this page matters
 
-- Operating-company entry for Sapporo, the prefectural capital, in Hokkaido, a district with the nation's largest count of 20  shinkin banks.
-- Cooperative-organization-side comparison anchor against the two major regional banks, [[regional-banks/hokkaido-bank|北海道銀行]] / [[regional-banks/hokuyo-bank|北洋銀行]].
-- Typical example of the cooperative model for urban Sapporo SME / commercial finance.
-- Geographic-dispersion case for [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] (key anchor for Sapporo among 20 行 under the Hokkaido Local Finance Bureau).
+- The operating-company entry for the prefectural capital of Sapporo within Hokkaido (the district with the most shinkin banks nationwide, 20 ).
+- A cooperative-organization-side contrast anchor against the two major regional banks [[regional-banks/hokkaido-bank|北海道銀行]] / [[regional-banks/hokuyo-bank|北洋銀行]] in the regional market.
+- A typical example of the cooperative-organization model for Sapporo-urban SME / commercial finance.
+- A geographic-dispersion case of [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] (the key anchor for the prefectural capital of Sapporo among the 20 行within the Hokkaido Local Finance Bureau jurisdiction).
 
-## 5. Related / Regional Issues
+## 5. Related / regional issues
 
-### Links with the Hokkaido Economy
+### Linkage with the Hokkaido economy
 
-- Support for small and mid-sized tourism businesses during the inbound recovery period.
-- Working capital for local construction and service-sector SMEs in Sapporo.
-- Central Hokkaido agriculture-related SMEs (division of labor with [[cooperative-banks/norinchukin|農林中央金庫]] / JA Bank system: farmers themselves are handled by JA, while related processing and distribution SMEs are handled by shinkin banks).
+- Support for SMEs in tourism (during the inbound-recovery period).
+- Working capital for local construction and service-business SMEs within Sapporo City.
+- Agriculture-related SMEs in the Dōō area (a division of labor with the [[cooperative-banks/norinchukin|農林中央金庫]] / JA Bank system; farmers themselves go to JA, while related processing and distribution SMEs go to shinkin).
 
-### Industry Reorganization Risk
+### Industry-reorganization risk
 
-Hokkaido has many shinkin banks, including several small and mid-sized institutions with modest deposit scale. It is one of the major candidate areas for future mergers and reorganization, and Sapporo Shinkin Bank is also viewed in that context. Among 20 行 under the Hokkaido Local Finance Bureau, the top 3 to 5 行 by deposit scale are likely candidates for core players in merger scenarios.
+Hokkaido has many shinkin banks, and multiple small and mid-sized shinkin banks with small deposit scale exist. It is one of the principal candidate districts for future merger / reorganization scenarios, and Sapporo Shinkin is also viewed in that context. Among the 20 行within the Hokkaido Local Finance Bureau jurisdiction, the top 3〜5 行 by deposit scale are highly likely to be core-player candidates in merger scenarios.
 
-### Geographic Dispersion of Hokkaido's Shinkin Industry
+### Geographic dispersion of the in-prefecture shinkin industry
 
-| Hokkaido block | Main shinkin-bank candidates (conceptual) |
+| In-prefecture block | Principal shinkin candidates (conceptual) |
 |---|---|
-| Sapporo / central Hokkaido | Sapporo Shinkin Bank (this page) and others |
-| Hakodate / southern Hokkaido | Hakodate-area shinkin bank |
-| Asahikawa / northern Hokkaido | Asahikawa-area shinkin bank |
-| Kushiro / eastern Hokkaido | Kushiro-area shinkin bank |
+| Sapporo / Dōō | Sapporo Shinkin (this page) and others |
+| Hakodate / Dōnan | Hakodate District Shinkin |
+| Asahikawa / Dōhoku | Asahikawa District Shinkin |
+| Kushiro / Dōtō | Kushiro District Shinkin |
 
-Because Hokkaido is geographically dispersed, many towns rely on shinkin banks as the last line of regional SME finance. As the urban anchor of the prefectural capital, Sapporo Shinkin Bank carries an urban SME / commercial-finance model different from those local shinkin banks.
+Because of the prefecture's wide-area dispersion, there are many towns and villages where shinkin banks serve as the last bastion of regional SME finance. As the urban anchor of the prefectural capital, Sapporo Shinkin carries an urban SME / commercial-finance model distinct from these regional shinkin banks.
 
-### Cashless Payments and Tourism Finance
+### Cashless / tourism finance
 
-Sapporo is the core city for Hokkaido inbound tourism, and use of industry shared infrastructure through [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] is important for lending to tourism-related SMEs (restaurants, accommodation, retail), cashless adoption, QR-code payment support, and related needs.
+Sapporo is the core city of Hokkaido inbound tourism, and the use of industry-shared infrastructure via [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] is important for lending to tourism-related SMEs (food service, lodging, retail), cashless support, QR-code-payment support, and the like.
 
 ## Related
 
@@ -90,7 +91,7 @@ Sapporo is the core city for Hokkaido inbound tourism, and use of industry share
 - [[regional-banks/hokkaido-bank|北海道銀行]]
 - [[regional-banks/hokuyo-bank|北洋銀行]]
 - [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] (other-prefecture city-anchor peer)
-- [[cooperative-banks/sendai-shinkin|仙台信用金庫]] (northern Japan block peer)
+- [[cooperative-banks/sendai-shinkin|仙台信用金庫]] (Northern-Japan block peer)
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
@@ -98,12 +99,12 @@ Sapporo is the core city for Hokkaido inbound tourism, and use of industry share
 
 ## Sources
 
-- FSA: shinkin-bank license list (as of 2025-11-06, Hokkaido Local Finance Bureau jurisdiction 20 行): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
-- Sapporo Shinkin Bank official site: https://www.sapporoshinkin.co.jp/
-- National Association of Shinkin Banks (Zenshin-kyo): https://www.shinkin.org/
-- Shinkin Central Bank: https://www.shinkin-central-bank.jp/
+- FSA: shinkin license list (as of 2025-11-06, within the Hokkaido Local Finance Bureau jurisdiction 20 行): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
+- 札幌信用金庫 official site: https://www.sapporoshinkin.co.jp/
+- 全国信用金庫協会 (Zenshin-kyō): https://www.shinkin.org/
+- 信金中央金庫: https://www.shinkin-central-bank.jp/
 
 ---
 
 > [!info] Confidence note
-> confidence: **likely**. Based on public information (Sapporo Shinkin Bank official site + FSA shinkin-bank license list + Zenshin-kyo public materials). Latest figures such as deposit scale and branch count require reference to each shinkin bank's disclosure magazine. Positioned as a representative operating-company entry for Sapporo, the prefectural capital, among 20 行 under the Hokkaido Local Finance Bureau.
+> confidence: **likely**. Based on public information (Sapporo Shinkin official site + FSA shinkin license list + Zenshinkyō public materials). For the latest figures on deposit scale, number of branches, etc., refer to the disclosure booklet (individual shinkin). Positioned as the representative operating-company entry for the prefectural capital of Sapporo among the 20 行within the Hokkaido Local Finance Bureau jurisdiction.

@@ -1,17 +1,17 @@
 ---
 source: cooperative-banks/tokyo-to-shokuin-shinkumi
-source_hash: e7efb70ad5c163f4
+source_hash: b2da9b7748bd9a25
 lang: ja
 status: machine
 fidelity: ok
 title: "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)"
-translated_at: 2026-06-02T16:33:58.472Z
+translated_at: 2026-06-18T23:33:48.285Z
 ---
 # 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は、日本最大の **自治体職員 (local government employee) shinkumi** として [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察系）や [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]]（消防系）などの職域 (occupation-based) shinkumi を補完し、143 協同組織の母集団の中で扱う。この母集団は [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される。
+本項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] に属し、日本最大の **自治体職員 (local government employee) 信用組合** として、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] にカタログ化された 143 組合の母集団のなかで、[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (警察) や [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (消防) のような peer の 職域 (occupation-based) 信用組合を補完する。
 
 ## 1. 法人概要
 
@@ -81,7 +81,7 @@ translated_at: 2026-06-02T16:33:58.472Z
   - **共済組合との機能調整**
   - **OB / OG 組合員管理** (高齢化対応)
 
-## 関連項目
+## 関連
 
 - [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (peer 職域信組、警察系)
 - [[cooperative-banks/tokyo-shobo-shinkumi]] — 東京消防信用組合 (peer 職域信組、消防系)

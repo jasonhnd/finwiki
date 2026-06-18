@@ -1,101 +1,102 @@
 ---
 source: card-issuers/installment-sales-act-2020-amendment
-source_hash: 232696e3708817d9
+source_hash: 04e6be00f953cc71
 lang: zh
 status: machine
 fidelity: ok
-title: "《分期销售法》2020 年修正"
-translated_at: 2026-05-31T15:29:03.934Z
+title: "分期付款销售法 2020  修订"
+translated_at: 2026-06-18T23:33:48.319Z
 ---
 
-# 《分期销售法》2020 年修正
+# 分期付款销售法 2020  修订
 
 ## TL;DR
 
-修正后的《分期销售法》是日本在 METI 监管下处理延期付款、分期信用、信用卡号处理以及商户收单边界的核心法律。2020 年修正针对信用卡、延期付款和 BNPL 的数字化趋势，创设或细化了若干层次：经认证的综合信用购买中介、登记的小额综合信用购买中介、收单 / PSP 一侧的卡号处理与商户签约控制、法定文件的电子交付，以及行政处分。
+2020年 修订的分期付款销售法（令和2年 法律 第64号）是配合信用卡 / 后付 / BNPL 的数字化，整备了 (1) 认定综合信用购买斡旋业者、(2) 登记小额综合信用购买斡旋业者、(3) 结算代理·收单侧的卡号管理、(4) 书面交付的电子化、(5) 业务停止命令的一次修订。
 
-对 FinWiki 来说，关键点在于：**BNPL 并不当然等于“登记的小额综合信用购买中介”这一类别**。其监管归类取决于付款期限、信用结构、是否处理卡号、最终商户审查权限以及登记状态。公开的 METI 与关东 METI 材料在相关行政处分语境中将 Paidy 视为登记的综合信用购买中介，因此不能仅凭 BNPL 标签就推断其属于小额登记类别。
+在 JapanFG 中，这是阅读 [[payment-firms/paidy]] 这类 BNPL、[[card-issuers/jcb]] 这类发卡·特约商户网络、[[card-issuers/orico]] / [[card-issuers/jaccs]] 这类信贩公司，以及 [[financial-licenses/INDEX]] 的 credit / installment 牌照层的基础法制。一个重要的边界是：**BNPL ≠ 自动成为登记小额综合信用购买斡旋业者**。在 METI 的登记业者一览中，截至 令和8年4月 末时点，登记小额综合信用购买斡旋业者为 0 社，而 Paidy 在 2024年 的行政处分资料上，被作为登记综合信用购买斡旋业者（关东（综合）第122号）处理。
 
 ## Regime Map
 
-| 层级 | 覆盖内容 | JapanFG 视角 |
+| Layer | What it covers | JapanFG reading |
 |---|---|---|
-| 分期销售 | 向消费者销售指定商品或服务，并在法定期间和付款次数以上进行分期付款 | 传统分期销售；与 BNPL 和卡收单分开 |
-| 贷款附随销售 | 卖方为消费者借款提供担保，并用该借款购买商品或服务的结构 | 在区分用途贷款与信用购买中介时很重要 |
-| 综合信用购买中介 | 经营者先向商户付款，之后再向消费者收款的信用卡及类似结构 | [[card-issuers/jcb]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[payment-firms/paidy]] |
-| 个别信用购买中介 | 面向特定商品或服务交易提供信用，包括 shopping credit | 对销售金融公司、耐用品、教育、美容等融资购买很重要 |
-| 信用卡号处理签约经营者 | 与商户签订受理信用卡合同的实体；包括收单机构和部分 PSP | acquiring / PSP / merchant onboarding 监管层 |
-| 信用卡号处理经营者 | 对卡号进行适当管理的实体 | PCI DSS、非留存架构与防欺诈控制 |
+| 割賦販売（分期付款销售） | 业者以 2 个月以上且 3 次以上的分期付款向消费者销售指定商品等的交易 | 传统的分期销售。与 BNPL / card acquiring 属于不同层 |
+| ローン提携販売（贷款合作销售） | 由销售业者等对商品购买资金的借入予以担保的结构 | 与目的贷款的边界成为问题 |
+| 包括信用購入あっせん（综合信用购买斡旋） | 以信用卡等垫付销售款，并从消费者处以超过 2 个月回收的业务 | [[card-issuers/jcb]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[payment-firms/paidy]] |
+| 個別信用購入あっせん（个别信用购买斡旋） | 按个别商品·服务进行的信贩 / 购物信用 | 在信贩公司·耐用消费品·教育 / 美容等贷款中重要 |
+| クレジットカード番号等取扱契約締結事業者（缔结信用卡号等处理合约的业者） | 与特约商户缔结准许处理卡片的合约者。收单方及部分 PSP | acquiring / PSP / merchant onboarding 的监管层面 |
+| カード番号等取扱業者（卡号等处理业者） | 负有适当管理卡号等义务的主体 | PCI DSS、不留存、防止盗用 |
 
-METI 的 FAQ 将延期付款监管整理为分期销售商、贷款附随销售商、信用购买中介、信用卡号处理经营者以及信用卡号处理签约经营者等多个层次。因此，政策设计要比一个简单的“BNPL 牌照”标签更宽。
+METI FAQ 将后付领域的监管对象整理为「分期付款销售业者」「贷款合作销售业者」「信用购买斡旋业者」「信用卡号等处理业者」「缔结信用卡号等处理合约的业者」。
 
-## 2020 Amendment
+## 2020  Amendment
 
-METI 将此次修正解释为对小额高频延期付款服务、非金融企业进入以及互联网与智能手机支付普及的回应。此次修正为数字化、数据驱动的信用业务建立了更细颗粒度的监管框架，同时保留了防止过度授信、逾期率监控和消费者保护义务。
+METI 将 2020年 修订的背景说明为「小额且多频次的后付服务」「异业种企业进入后付」「通过互联网及智能手机终端的结算扩大」。公布为 2020-06-24，施行为 2021-04-01。
 
-### 经认证的综合信用购买中介
+### 1. 认定综合信用购买斡旋业者
 
-认证路径允许经营者利用自身数据和技术进行信用审查，而不必完全依赖传统统一的综合支付能力计算。作为交换，经认证经营者必须管理预期与实际逾期率、提交定期报告，并在控制不足时承担被下达改善命令的风险。
+代替以往划一的「综合可支付预估额调查」，按业者使用各自授信审查手法的特例。认定业者一方面可使用自有数据与技术，另一方面需承担预想拖欠率·实绩拖欠率的管理、定期报告以及改善命令风险。
 
-### 登记的小额综合信用购买中介
+### 2. 登记小额综合信用购买斡旋业者
 
-这一登记路径旨在覆盖在法定信用额度以下提供综合信用购买中介服务的经营者，其中包括小额、高频、可通过智能手机完成的延期付款服务。它为部分类似 BNPL 的服务提供了更合理化的监管方式，但具体经营者的真实状态仍须对照 METI 当前登记名单确认。
+面向经营极度额 10万円 以下的综合信用购买斡旋业务的业者的登记制度。虽然以 BNPL 这类「小额·多频次·智能手机完结」的后付服务为设想而进行了监管合理化，但在截至 2026-04 末的 METI 登记业者一览中，该类别的登记业者为 0 社。
 
-因此，FinWiki 应区分两句话：2020 年修正确实预想了类似 BNPL 的商业模式，但除非公共登记簿明确列示，否则不能把某一具体服务提供商认定为登记的小额经营者。
+因此，阅读 [[payment-firms/paidy]] 时需要将「2020 修订创设了意识到 BNPL 的制度」与「Paidy 现实上是登记小额业者」加以区分。至少在 2024-10-03 的关东经济产业局资料中，Paidy 是作为登记综合信用购买斡旋业者受到行政处分的。
 
-### 卡号处理控制的扩大
+### 3. 卡号等管理主体的扩大
 
-此次修正也扩大了适用适当卡号管理义务的主体范围。支付代理、二维码支付提供商、保存或重复使用卡号的服务，以及处理卡号的延期付款服务提供商，都可能依据其角色落入监管范围。
+2020 修订还扩大了适当管理卡号等义务的主体。结算代理业者、码结算业者、保存·再利用卡号的服务、在后付结算中提供卡号的业者等都可能成为对象。
 
-在实践中，acquiring / PSP 边界至关重要。METI FAQ 指出，如果 PSP 在实质上获得收单机构授权，并对商户签约和商户管理拥有最终权限，则 PSP 可能需要登记。反之，如果登记的收单机构保留最终批准权，而 PSP 仅执行初步审查，则 PSP 一侧未必需要登记。
+实务上 acquiring / PSP 的边界很重要。METI FAQ 说明：当 PSP 获收单方综合授权，并持有对特约商户合约实质性的最终决定权限及特约商户管理时，需在 PSP 侧进行登记。另一方面，当仅由 PSP 进行初次审查、而由登记收单方保留最终判断时，PSP 侧的登记可能变为无需。
 
-### 电子交付
+### 4. 电子化
 
-修正还调整了通过智能手机和 PC 完成服务场景下的书面文件交付规则，允许对使用明细和会员条款进行一定范围的电子交付。消费者保护上的安全阀仍然重要，包括在适用时仍可请求纸质交付的通知。
+配合智能手机·个人电脑完结型服务，书面交付监管朝着准许使用明细、会员规约等的电子提供方向作了调整。但出于对数字鸿沟的考虑，需告知可请求书面交付等事项。
 
-### 行政处分
+### 5. 行政处分
 
-此次修正强化了监督工具，包括针对登记的综合信用购买中介和小额综合信用购买中介的停业命令。Paidy 行政处分相关材料表明，这一层在 BNPL 与延期付款业务中会实际适用。
+针对登记综合信用购买斡旋业者及登记小额综合信用购买斡旋业者，整备了业务停止命令等监督手段。对 Paidy 的 2024-10-03 改善命令，是表明这一层实际对 BNPL / 后付业者生效的案例。
 
 ## JapanFG Relevance
 
-- BNPL / 延期付款通常涉及经营者先向商户付款、之后再向消费者收款，因此需要进行综合信用购买中介分析。
-- 相关监管层会随着实体是 issuer、acquirer、network participant、PSP、merchant-contracting operator 还是 card-number handler 而变化。
-- 销售金融公司可能同时横跨综合与个别信用购买中介两条线。数据驱动审查并不会消除逾期率控制、指定信用信息机构义务或防止过度授信监管。
-- 这是 METI 监管下延期付款、分期信用和卡信用结构的核心牌照路径，与《银行法》《放贷业法》和《支付服务法》并列。
+- [[payment-firms/paidy]]：由于 BNPL / 后付具有垫付商品款项、并从消费者处于日后回收的结构，需要对综合信用购买斡旋进行监管分析。在 2024年 行政处分中，综合可支付预估额调查·防止过度授信义务的运用不足成为问题。
+- [[card-issuers/jcb]]：视持有 issuer / acquirer / network 中的哪一职能，综合信用购买斡旋业者、缔结卡号等处理合约的业者、卡号等处理业者等多个层会发生重叠。
+- [[card-issuers/orico]] / [[card-issuers/jaccs]]：信贩公司容易兼具综合·个别信用购买斡旋两面。2020 修订拓宽了 AI / data-driven 授信的余地，但对拖欠率·指定信用信息机构·防止过度授信的监督仍然存在。
+- [[financial-licenses/INDEX]]：与银行法、贷金业法、资金结算法并列的「后付 / installment / card credit」牌照的核心。在被构成为并非贷款、而是垫付·信用购买斡旋的情形下，不仅金融厅，METI 的管辖也会走到前面。
 
 ## Boundary Cases
 
-| 情形 | 可能归类 | 观察点 |
+| Case | Likely treatment | Watch point |
 |---|---|---|
-| 次月一次性 BNPL | 检查期限与合同结构是否落入信用购买中介 | 法定付款期间和预付款结构比 BNPL 的 UX 标签更重要 |
-| 3 期 / 6 期 / 12 期延期付款 | 更接近综合信用购买中介 | 支付能力计算、指定信用信息机构、过度授信防止义务 |
-| 虚拟卡 BNPL | 可能同时被视为卡发行 / 提供与综合信用购买中介 | 卡号与信用额度控制在 Paidy 行政处分语境中是核心点 |
-| PSP 执行商户审查 | 是否需要登记取决于谁拥有最终批准权限 | 收单机构与 PSP 之间合同实质 |
-| 用途贷款 | 如果与销售合同有足够紧密联系，可能转为个别信用购买中介 | 卖方协作、招揽方式与一体化流程 |
-| 二维码支付联动 | 卡号保存、重复使用和防欺诈义务可能变得相关 | 非留存架构、PCI DSS、EMV 3-D Secure 及相邻控制 |
+| 次月一次性 BNPL | 视期间·合约形态而定。确认是否属于以超过 2 个月回收的信用购买斡旋 | 看法律上的支付期间·垫付结构，而非「BNPL」这一商标·UX |
+| 3 期 / 6 期 / 12 期 后付 | 接近综合信用购买斡旋 | 可支付预估额、指定信用信息机构、防止过度授信 |
+| 虚拟卡型 BNPL | 容易作为卡片等的交付 / 给付而落入综合信用购买斡旋监管 | 在 Paidy 行政处分中，卡片等的极度额管理成为问题 |
+| PSP 代行特约商户审查 | 视最终决定权限在谁，登记的需否会发生变化 | 收单方与 PSP 的合约实态 |
+| 目的贷款 | 即便是金钱消费借贷，若与销售合约存在密切牵连性，也可能成为个别信用购买斡旋 | 与销售店的合作、劝诱、手续一体性 |
+| 码结算联动 | 卡号等的保存·联动·防止盗用义务成为问题 | 不留存、PCI DSS、EMV 3-D 安全等 |
 
 ## Related
 
-- [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]]
-- [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry index]]
-- [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]
-- [[payment-firms/paidy|Paidy]]
-- [[payment-firms/gmo-postpay|GMO Postpay]]
-- [[payment-firms/net-protections-hd|Net Protections HD]]
-- [[payment-firms/kuroneko-atobarai|Kuroneko deferred payment]]
+- [[payment-firms/paidy]]
+- [[card-issuers/jcb]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
+- [[card-issuers/credit-saison]]
+- [[payment-firms/bnpl-landscape]]
+- [[financial-licenses/INDEX]]
 
 ## Sources
 
-- METI, Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihou.html
-- METI, Installment Sales Act deferred-payment FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
-- METI, overview of the partial amendment to the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf
-- METI, average and upper-limit delinquency rates: https://www.meti.go.jp/policy/economy/consumer/credit/heikinentairituoyobijougenentairitu.html
-- METI, registered operators list: https://www.meti.go.jp/policy/economy/consumer/credit/tourokujigyousyaitiran.html
-- METI, registered comprehensive credit-purchase intermediaries PDF: https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
-- METI, administrative actions under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/atobaraigyouseisyobunnojoukyou.html
+- METI, 割賦販売法: https://www.meti.go.jp/policy/economy/consumer/credit/11kappuhanbaihou.html
+- METI, 割賦販売法（後払分野）の概要・FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
+- METI, 割賦販売法の一部を改正する法律について（令和2年 法律 第64号）: https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf
+- METI, 「平均延滞率」及び「上限延滞率」の公表: https://www.meti.go.jp/policy/economy/consumer/credit/210414heikinentairituoyobijougenentairitu.html
+- METI, 登録事業者一覧: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- METI, 登録包括信用購入あっせん業者一覧 PDF: https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
+- METI, 割賦販売法に基づく行政処分の状況（後払信用）: https://www.meti.go.jp/policy/economy/consumer/credit/atobaraigyouseisyobunnojoukyou.html
+- Kanto METI / METI, 登録包括信用購入あっせん業者（株式会社Paidy）に対する行政処分 2024-10-03: https://www.meti.go.jp/policy/economy/consumer/credit/20241003.pdf
 
 ---
 
-> [!info] Verification status
-> confidence: **likely**. The amendment outline, small-amount registration framework, acquiring / PSP boundary, and Paidy administrative-action layer are based on public METI and Kanto METI materials. Current service-level classification for individual companies requires confirmation against contracts, registration data, and product specifications.
+> [!info] 校核状态
+> confidence: **likely**（2026-05-19）。2020 修订的骨架、施行日、小额登记制度、acquiring / PSP 边界、Paidy 行政处分均已在 METI / 关东经济产业局资料中确认。个别企业的现行服务逐项的该当性，需追加确认约款·登记信息·服务规格。

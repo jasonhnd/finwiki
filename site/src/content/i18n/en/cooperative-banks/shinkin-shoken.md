@@ -1,114 +1,115 @@
 ---
 source: cooperative-banks/shinkin-shoken
-source_hash: a8a47f1ff9052272
+source_hash: a97174e739c1dc88
 lang: en
 status: machine
 fidelity: ok
-title: "Shinkin Central Bank Group Securities Function / Shinkin AM (Shinkin securities + asset management lane)"
-translated_at: 2026-06-01T02:31:57.142Z
+title: "Shinkin Central Bank group securities function / Shinkin AM (Shinkin securities + asset management lane)"
+translated_at: 2026-06-18T23:33:48.372Z
 ---
-# Shinkin Central Bank Group Securities Function / Shinkin AM (Shinkin securities + asset management lane)
 
-> **Page scope note**: This entry was created under slug `shinkin-shoken` as a substitute for the originally requested `zenshinkyo-national-association` slug because the [[financial-regulators/zenshin-kyo|全国信用金庫協会 page]] already exists. This page covers a complementary and genuinely missing surface: the securities / asset-management arm of the shinkin central system, anchored by Shinkin Asset Management (Shinkin AM) and the broader SCB-group securities function.
+# Shinkin Central Bank group securities function / Shinkin AM (Shinkin securities + asset management lane)
 
-## Wiki Route
+> **Page scope note**: This entry was created under slug `shinkin-shoken` as a substitute for the originally requested `zenshinkyo-national-association` slug because the [[financial-regulators/zenshin-kyo|全国信用金庫協会 page]] already exists. This page covers a complementary and genuinely missing surface: the securities / asset-management arm of the shinkin central system, anchored by Shinkin AM (Shinkin Asset Management) and the broader SCB-group securities function.
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|Shinkin Central Bank]], [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]], and [[cooperative-banks/shinkin-network-services|Shinkin Network Services]] for a four-leg view of the shinkin system.
+## Wiki route
+
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]] (the central institution itself), [[financial-regulators/zenshin-kyo|全国信用金庫協会]] (policy / industry body), and [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] (shared IT infrastructure) for the four-leg view of the shinkin central system (central bank proper / industry association / IT infrastructure / securities and asset-management function). Compare against [[cooperative-banks/norinchukin|農林中央金庫]] group's [[cooperative-banks/nochu-securities|農中信託銀行・農中証券]] for the parallel JA central-system securities lane, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin member base. Cooperative-system overall comparison anchor: [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
 
 ## TL;DR
 
-The Shinkin Central Bank group includes a **securities and asset-management function** that provides securities business and asset-management services to the shinkin industry. The core is **Shinkin Asset Management Co., Ltd. (Shinkin AM)**, a financial instruments business operator invested in by Shinkin Central Bank. It forms and manages investment trusts for shinkin banks and serves as the manager of publicly offered investment trusts sold by shinkin banks to individual customers. This is a centralized securities / asset-management model within the cooperative financial institution sector. Similar structures also appear across other cooperative central-institution groups, including [[cooperative-banks/nochu-securities|Norinchukin Trust Bank, Norinchukin Securities, and Nochubank Value Investments]] in the [[cooperative-banks/norinchukin|Norinchukin Bank]] group and the [[cooperative-banks/zenshin-kumi|National Federation of Credit Cooperative Associations]] group.
+Within the Shinkin Central Bank group there is a **securities / asset-management function** that provides securities operations and asset-management services to the shinkin (credit-union) industry. At its core is **Shinkin Asset Management Co., Ltd. (信金 AM, Shinkin Asset Management Co., Ltd.)**, which, as a financial instruments business operator (investment management business / Type II financial instruments business) capitalized by the Shinkin Central Bank, undertakes the structuring and management of investment trusts for shinkin banks and serves as the management entity for publicly offered investment trusts that shinkin banks sell to individual customers. This is a model of consolidating the securities / management function within the cooperative-financial-institution industry: because individual shinkin banks lack the scale to hold a management company on their own, the industry-common asset-management function is consolidated into the Shinkin Central Bank group. The same structure is shared by other cooperative-system central-institution groups, such as [[cooperative-banks/nochu-securities|農中信託銀行・農中証券・農中バリューインベストメンツ]] of the [[cooperative-banks/norinchukin|農林中央金庫]] group and the [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]] group.
 
-## 1. Legal / Group Boundary
+## 1. Legal / group boundary
 
 | Item | Notes |
 |---|---|
-| Anchor entity | Shinkin Asset Management Co., Ltd. |
-| Group route | Shinkin Central Bank Group (SCB Group) |
-| License route | Investment management business and Type II financial instruments business under the Financial Instruments and Exchange Act (FIEA); FSA-registered financial instruments business operator |
-| Wiki role | Anchor entry for the **securities and asset-management function** of the Shinkin Central Bank group |
-| Counterpart in JA system | [[cooperative-banks/nochu-securities|Norinchukin Securities / Nochubank Value Investments]] in the [[cooperative-banks/norinchukin|Norinchukin Bank]] line |
-| Counterpart in shinkumi system | Asset-management function of the Zenshinkumiren group (limited scale) |
+| Anchor entity | Shinkin Asset Management Co., Ltd. (Shinkin Asset Management Co., Ltd.) |
+| Group route | Shinkin Central Bank group (SCB Group) |
+| License route | Investment management business / Type II financial instruments business under the Financial Instruments and Exchange Act (FIEA) (FSA-registered financial instruments business operator) |
+| Wiki role | The **securities / management function** anchor entry of the Shinkin Central Bank group |
+| Counterpart in JA system | [[cooperative-banks/nochu-securities|農中証券・農中バリューインベストメンツ]] of the [[cooperative-banks/norinchukin|農林中央金庫]] line |
+| Counterpart in shinkumi system | The management function of the Zenshinkumiren group (limited in scale) |
 
-## 2. Business Scope
+## 2. Scope of operations
 
-Shinkin AM and the SCB-group securities function handle the following work:
+Shinkin AM and the SCB-group securities function undertake operations such as the following:
 
-1. **Formation and management of public investment trusts for shinkin banks**
-   - Manager of investment trusts sold by individual shinkin banks at branch counters to retail customers (equity, bond, balanced, MMF, ESG-related, and other funds).
-   - Functions as the common industry asset manager because individual shinkin banks do not have enough scale to create investment trusts independently.
+1. **Structuring and managing publicly offered investment trusts for shinkin banks**
+   - The management entity for investment trusts (equity-type, bond-type, balanced-type, MMF, ESG-related, etc.) that each shinkin bank sells over the counter to individual customers.
+   - Functions as the industry-common management company because individual shinkin banks lack the scale to structure investment trusts independently.
 
-2. **Private investment trusts and specified money trusts for shinkin banks**
-   - Private investment trusts responding to surplus-fund investment needs of Shinkin Central Bank itself and major shinkin banks.
-   - Provides diversified investment products that use economies of scale.
+2. **Privately placed investment trusts and specified money trusts for shinkin banks**
+   - Privately placed investment trusts responding to the surplus-fund management needs of the Shinkin Central Bank proper and major shinkin banks.
+   - Provision of diversified-investment products leveraging economies of scale.
 
-3. **Investment advisory and consulting for shinkin banks**
-   - Advice on portfolio construction and risk management for small and medium-sized shinkin banks.
-   - Individual investment support for member shinkin banks, separate from the investment activity of the [[cooperative-banks/shinkin-central|信金中金]] body itself.
+3. **Management advisory and consulting for shinkin banks**
+   - Advice on management portfolio construction and risk management for small and medium-sized shinkin banks.
+   - Management support for individual member shinkin banks, distinct from the management by [[cooperative-banks/shinkin-central|信金中金]] proper.
 
 4. **ESG / regional SDGs investment trusts for cooperative financial institutions**
-   - Product development specific to cooperative financial institutions, such as regional-contribution and SDGs-linked investment trusts.
+   - Development of ESG products unique to cooperative financial institutions, such as investment trusts linked to regional-economy contribution and the SDGs.
 
-5. **Securities business (FIEA Type II financial instruments business)**
-   - Product supply and sales support for investment trusts sold over shinkin bank counters.
-   - Back end for individual shinkin banks' financial instruments business registration (Type II financial instruments business / financial instruments intermediary business).
+5. **Securities operations (FIEA Type II financial instruments business)**
+   - Product supply and sales support for investment-trust sales at shinkin bank counters.
+   - The back end for individual shinkin banks' financial-instruments-business registration (Type II financial instruments business / financial instruments intermediary business).
 
-## 3. In-System Position
+## 3. Systemic position
 
 | Layer | Counterpart |
 |---|---|
-| Central institution body | [[cooperative-banks/shinkin-central|信金中央金庫]] |
+| Central institution proper | [[cooperative-banks/shinkin-central|信金中央金庫]] |
 | Industry association | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] |
-| Joint IT infrastructure | [[cooperative-banks/shinkin-network-services|Shinkin Network Services]] |
-| Securities and asset-management function | **This page (centered on Shinkin AM)** |
+| Shared IT infrastructure | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] |
+| Securities / asset-management function | **This page (Shinkin AM at the core)** |
 | Deposit insurance | [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
-| Supervisory | FSA / Kanto Local Finance Bureau (financial instruments business operator registration) |
+| Supervisory | FSA (Financial Services Agency) / Kanto Local Finance Bureau (financial-instruments-business registration) |
 
-## 4. Cross-System Comparison (securities and asset-management functions across cooperative central-institution groups)
+## 4. Cross-system comparison (comparison of securities / management functions among cooperative-system central-institution groups)
 
-| Central institution group | Core asset manager | Notes |
+| Central-institution group | Core management company | Notes |
 |---|---|---|
-| Shinkin Central Bank group | Shinkin AM | Public investment trust management and investment advisory for shinkin banks |
-| [[cooperative-banks/norinchukin|Norinchukin]] group | [[cooperative-banks/nochu-securities|Nochubank Value Investments]], Nochubank Trust, Norinchukin Securities | Investment management for JA Bank and offshore-investment backbone for Norinchukin itself |
-| Zenshinkumiren group | Limited (mainly investment advisory for individual shinkumi) | Smaller scale than Shinkin AM |
-| Rokinren group | Rokin association / federation investment function | Common investment products for rokin banks |
+| Shinkin Central Bank group | Shinkin AM | Public investment-trust management / management advisory for shinkin banks |
+| [[cooperative-banks/norinchukin|農中]] group | [[cooperative-banks/nochu-securities|農中バリューインベストメンツ]] / Nochu Trust Bank / Nochu Securities | Management for the JA Bank / the Norinchukin proper's overseas-management backbone |
+| Zenshinkumiren group | Limited (centered on management advisory for individual shinkumi) | Smaller in scale than Shinkin AM |
+| Rokin federation group | Rokin association / federation management function | Common management products for labor banks |
 
-Because individual cooperative financial institutions generally lack the scale to hold securities and asset-management functions on their own, the common model across the sector is to concentrate securities and asset-management functions in the central-institution group.
+The cooperative-financial-institution industry shares a model of consolidating the securities / management function into the central-institution group, because individual organizations lack the scale to hold a securities / management function on their own.
 
-## 5. Why This Page Matters
+## 5. Why this page matters
 
-- Anchor entry for the **fourth central infrastructure layer** of the shinkin industry (central bank body / industry association / joint IT / securities and asset management).
-- Completes the functional structure of the shinkin industry in parallel with the existing [[cooperative-banks/shinkin-central|信金中金]], [[financial-regulators/zenshin-kyo|全信協]], and [[cooperative-banks/shinkin-network-services|SNS]].
-- Anchor for the common industry asset-management function behind investment trusts sold by individual shinkin banks.
-- Through comparison with the [[cooperative-banks/norinchukin|農中]] group securities function, it becomes a case study of the securities / asset-management centralization model across cooperative central-institution groups.
+- The anchor entry for the **fourth central-infrastructure layer** of the shinkin industry (central bank proper / industry association / shared IT / securities-management).
+- In parallel with the existing [[cooperative-banks/shinkin-central|信金中金]] / [[financial-regulators/zenshin-kyo|全信協]] / [[cooperative-banks/shinkin-network-services|SNS]], it completes the functional structure of the shinkin industry.
+- The anchor for the industry-common asset-management function serving as the management entity for the investment trusts that individual shinkin banks sell.
+- Through comparison with the [[cooperative-banks/norinchukin|農中]] group's securities function, it serves as a case study of the securities / management-function consolidation model across cooperative-system central-institution groups in general.
 
-## 6. Related / Strategic Issues
+## 6. Related / strategic issues
 
-### Expanding Asset-Management Needs of Shinkin Customers
+### Expansion of asset-management needs among shinkin customers
 
-Asset-management needs among shinkin retail customers (local residents and SME owners) are growing due to aging, retirement-money investment, and wider adoption of NISA / iDeCo and similar schemes. Investment-trust sales and investment advice at shinkin bank counters are therefore becoming more important. Shinkin AM is the common industry supply function for this demand.
+The asset-management needs of shinkin banks' individual customers (local residents, owners of small and medium-sized enterprises) are expanding amid an aging population, retirement-fund management, and the spread of programs such as NISA / iDeCo, increasing the importance of investment-trust sales and management advisory at shinkin bank counters. Shinkin AM is the industry-common supply function for this demand.
 
-### Changing Investment Environment After the Negative-Rate Period
+### Change in the management environment after the negative-interest-rate era
 
-Since 2024 年 the normalization of the Bank of Japan policy rate, the investment environment has changed, and product formation and investment policy for shinkin banks are also in a readjustment phase. Shinkin AM's strategic direction is linked to the overall investment policy of the Shinkin Central Bank group.
+Since 2024 年 the Bank of Japan's normalization of the policy interest rate, the management environment has been changing, and the structuring and management policy for shinkin-oriented management products are also at a readjustment phase. Shinkin AM's strategic direction is linked to the overall management policy of the Shinkin Central Bank group.
 
-### ESG / Regional SDGs Investment Trusts
+### ESG / regional SDGs investment trusts
 
-Development of "regional contribution / SDGs-linked" investment products specific to cooperative financial institutions is one of the company's differentiation axes.
+The development of "regional-contribution / SDGs-linked" management products unique to cooperative financial institutions is one of the company's axes of differentiation.
 
 ## Related
 
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
-- [[cooperative-banks/shinkin-network-services|Shinkin Network Services]]
+- [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]
 - [[cooperative-banks/norinchukin|農林中央金庫]]
-- [[cooperative-banks/nochu-securities|Nochubank Value Investments / Norinchukin Securities]]
+- [[cooperative-banks/nochu-securities|農中バリューインベストメンツ / 農中証券]]
 - [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]]
 - [[cooperative-banks/rokin-renraku|労働金庫連合会]]
 - [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]
 - [[cooperative-banks/sapporo-shinkin|札幌信用金庫]]
-- [[cooperative-banks/sendai-shinkin|Mori no Miyako Shinkin Bank]]
+- [[cooperative-banks/sendai-shinkin|杜の都信用金庫]]
 - [[cooperative-banks/nagoya-shinkin|名古屋信用金庫]]
 - [[cooperative-banks/kitakyushu-shinkin|北九州信用金庫]]
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
@@ -118,13 +119,13 @@ Development of "regional contribution / SDGs-linked" investment products specifi
 
 ## Sources
 
-- Shinkin Central Bank official site: https://www.shinkin-central-bank.jp/
+- 信金中央金庫 official site: https://www.shinkin-central-bank.jp/
 - Shinkin Asset Management official site: https://www.shinkin-am.co.jp/
-- National Association of Shinkin Banks (Zenshin-kyō): https://www.shinkin.org/
-- FSA: shinkin bank license list (2025-11-06): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
-- FSA: list of licensed / permitted / registered business operators (financial instruments business operator registration): https://www.fsa.go.jp/menkyo/menkyo.html
+- 全国信用金庫協会 (Zenshin-kyō): https://www.shinkin.org/
+- FSA: list of shinkin bank licenses (2025-11-06): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
+- FSA: list of operators holding licenses, permits, registrations, etc. (financial-instruments-business registration): https://www.fsa.go.jp/menkyo/menkyo.html
 
 ---
 
 > [!info] Confidence note
-> confidence: **likely**. The existence and business scope of Shinkin AM (investment management business, Type II financial instruments business, and public investment trust management) can be verified from public Shinkin Central Bank group information and Shinkin AM's official site. However, the latest AUM, investment portfolio details, and revenue figures should be checked against primary materials such as the Shinkin Central Bank disclosure report and Shinkin AM's individual disclosures. This page provides a conceptual organization as the "Shinkin Central Bank group securities function anchor"; current figures should be checked in primary sources.
+> confidence: **likely**. The existence and scope of Shinkin AM's operations (investment management business / Type II financial instruments business / public investment-trust management) can be confirmed from publicly available information of the Shinkin Central Bank group and Shinkin AM's official site. However, the latest AUM, management-portfolio details, and earnings figures are sourced primarily from the Shinkin Central Bank's disclosure magazine and Shinkin AM's individual disclosures. This page provides a conceptual organization as the "Shinkin Central Bank group securities function anchor," and the latest figures should be checked against primary sources.

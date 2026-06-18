@@ -1,142 +1,142 @@
 ---
 source: card-issuers/orico
-source_hash: 56ed6d6f6e797f22
+source_hash: 5b74384c05822228
 lang: zh
 status: machine
 fidelity: ok
-title: "株式会社 Orient Corporation（Orico）"
-translated_at: 2026-06-01T00:41:50.442Z
+title: "株式会社オリエントコーポレーション（Orico）"
+translated_at: 2026-06-18T23:33:48.369Z
 ---
-# 株式会社 Orient Corporation（Orico）
+# 株式会社オリエントコーポレーション（Orico）
 
 ## Wiki route
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可与 [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] 对照阅读同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
+本条目归属于 [[card-issuers/INDEX|card-issuers INDEX]]。请将其与 [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]（同业／对照语境）以及 [[banking/INDEX|banking index]]（更广阔的系统／监管边界）对照阅读。
 
 ## TL;DR
 
-**[[megabanks/mizuho-fg]] 系、伊藤忠商事系的日本国内大型信贩公司**。1954-12-22 在广岛以“廣島综合信用”设立，1962 改称 Orient Finance，2001 改为现公司名。以**日本国内最大的汽车贷款（auto loan）**为骨干，开展 shopping credit、信用卡（各类 Orico Card）、card loan、法人 finance、不动产担保贷款。2005-12 经营重建时接受 [[megabanks/mizuho-fg]]（原兴银系）+ 伊藤忠商事 + KDDI 等的优先股注入，目前是 **Mizuho FG 的权益法适用关联公司 + 伊藤忠商事**为主要股东的框架。东证 PRIME 8585。竞争对手包括 [[card-issuers/jaccs]] / Credit Saison / 三井住友 Card（[[megabanks/smfg]] 系）/ 三菱 UFJ NICOS（[[megabanks/mufg]] 系）/ Aeon 系 [[card-issuers/aeon-bank]]。^[extracted]
+**[[megabanks/mizuho-fg]] 系・伊藤忠商事系的国内大型信贷公司**。1954-12-22年在广岛以「廣島総合信用」之名设立，1962 年改为オリエントファイナンス，2001 年改为现公司名。以 **汽车贷款（车贷）国内最大**为脊梁，开展购物分期信贷・信用卡（各类 Orico Card）・卡式贷款・法人金融・不动产担保贷款。在 2005-12 年的经营重建中，接受了 [[megabanks/mizuho-fg]]（旧兴银系）+ 伊藤忠商事 + KDDI 等的优先股注入，目前形成 **瑞穗 FG 的权益法适用关联公司 + 伊藤忠商事**为主要股东的框架。东证 PRIME 8585。竞争对手为 [[card-issuers/jaccs]] / Credit Saison / 三井住友卡（[[megabanks/smfg]] 系）/ 三菱 UFJ Nicos（[[megabanks/mufg]] 系）/ 永旺系 [[card-issuers/aeon-bank]]。^[extracted]
 
 ## 1. 公司概要
 
-**正式名称**：株式会社 Orient Corporation ^[extracted]
-**英文名称**：Orient Corporation ^[extracted]
-**简称**：Orico / Orico
+**正式名称**：株式会社オリエントコーポレーション ^[extracted]
+**英文名**：Orient Corporation ^[extracted]
+**简称**：Orico（オリコ）
 **证券代码**：东证 PRIME **8585** ^[extracted]
-**设立**：**1954-12-22**（前身“廣島综合信用株式会社”）^[extracted]
-**现社名改称**：**2001-04**（Orient Finance → Orient Corporation）^[extracted]
-**本社**：东京都千代田区麹町 5-2-1  麹町 Center Place ^[extracted]
-**业态**：信贩（个品分期 / 综合信用购买斡旋）、信用卡、card loan、银行保证、法人 finance、不动产担保贷款
+**设立**：**1954-12-22**（前身「廣島総合信用株式会社」）^[extracted]
+**现公司名改称**：**2001-04**（オリエントファイナンス → オリエントコーポレーション）^[extracted]
+**总部**：东京都千代田区麹町 5-2-1  麹町センタープレイス ^[extracted]
+**业态**：信贷（单品分期・综合信用购买斡旋）・信用卡・卡式贷款・银行担保・法人金融・不动产担保贷款
 
-### 公司名 / 简称由来
+### 公司名・简称的由来
 
-- **Orient** = 继承旧社名“Orient Finance”（1962-）
+- **Orient** = 沿袭旧公司名「オリエントファイナンス」（1962年-）
 - **Orico** = **Ori**ent **Co**rporation 的合成简称
-- 创业地为广岛（原 廣島综合信用），后迁往东京本社
+- 创业地为广岛（旧 廣島総合信用），后迁至东京总部
 
-### 主要股东（公开信息基础）^[extracted]
+### 主要股东（基于公开信息）^[extracted]
 
-| 股东 | 性格 | 备注 |
+| 股东 | 性质 | 备注 |
 |---|---|---|
-| **Mizuho Bank**（[[megabanks/mizuho-fg]] 系） | 第一大股东 / 权益法适用关联公司 | 2010-09 成为权益法适用关联公司。2026-03 末约 48.66%，2026-05 降至 33.79%（后述）|
-| **伊藤忠商事** | 原大股东（不再适用权益法） | 2005 通过第三方配股等取得 21% 并成为第一大股东，2024-11 出售部分持股后，不再属于伊藤忠侧权益法适用对象 |
-| 信托银行各社 / 机构投资者 | 流通股 | 作为上市公司通常披露 |
+| **瑞穗银行**（[[megabanks/mizuho-fg]] 系） | 第一大股东・权益法适用关联公司 | 2010-09 年成为权益法适用关联公司。2026-03 年末约为 48.66%，2026-05 年下调至 33.79%（详见后述） |
+| **伊藤忠商事** | 旧大股东（转为权益法适用之外） | 2005 年通过第三方配股等取得 21% 成为第一大股东，2024-11 年出售部分持股后，伊藤忠一侧转为权益法适用对象之外 |
+| 各信托银行・机构投资者 | 流通股 | 因系上市公司，按常规披露 |
 
-> Mizuho Bank 自 2010-09 以后将 Orico 定位为 **权益法适用关联公司**（按表决权约 48%台）。2026-04 ，activist（Strategic Capital）向 Mizuho FG 指出“间接持有约 48% 可能构成合并子公司”，并提出要求完全子公司化或出售全部股份的股东提案。Mizuho 于 2026-05-15 将 Orico 股份的 15%（约 260 億円）出售给 Aiful 母公司 Muninova HD，将持有比率从 48.79%降至 33.79%（同时公布 3 社业务合作），并继续将其作为权益法适用关联公司。
+> 瑞穗银行自 2010-09 年起将 Orico 定位为 **权益法适用关联公司**（以表决权计约为 48% 档）。2026-04 年，激进投资者（Strategic Capital）向瑞穗 FG 指出「间接持有约 48% 可能构成合并子公司」，并实施了要求将其完全子公司化或全部出售股份的股东提案。瑞穗在 2026-05-15 将 Orico 股票的 15%（约 260 億円）出售给 AIFUL 的母公司 Muninova HD，将持股比例由 48.79% 下调至 33.79%（同时发布 3 社 业务合作），并继续将其作为权益法适用关联公司。
 
-### 重要时间表 ^[extracted]
+### 重要年表 ^[extracted]
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| **1954-12-22** | **“廣島综合信用株式会社”设立**（广岛） |
-| **1962** | 改称“Orient Finance 株式会社” |
+| **1954-12-22** | **「廣島総合信用株式会社」设立**（广岛） |
+| **1962** | 商号变更为「オリエントファイナンス株式会社」 |
 | **1971** | **股票上市**（东京・大阪・名古屋证券交易所） |
-| 1980 年年代 | 汽车贷款（auto loan）业务扩大，构建全国经销商网络 |
-| 1990 年年代 | 泡沫期不动产担保贷款扩大 → 后续不良债权处理课题 |
-| 2000 年年代前半 | 不良债权处理 / 经营重建阶段 |
-| **2001-04** | **改称“株式会社 Orient Corporation”**（简称 Orico） |
-| **2005-12** | **由 Mizuho Bank + 伊藤忠商事 + KDDI 等注入优先股，经营重建框架启动** |
-| 2006〜 | 应对过付款返还请求（gray-zone 利率）→ 行业整体收益承压 |
-| **2010-09** | **成为 Mizuho Bank 权益法适用关联公司**（表决权约 48%台，未合并子公司化） |
-| 2010 年年代 | 确立汽车贷款日本国内份额 1 位（经由汽车经销商） |
-| 2010 年年代后半 | 进入亚洲（印度尼西亚、泰国、越南等）汽车 finance |
-| 2020 年年代 | 强化数字化和 cashless 应对，Orico Card 数字化 |
-| **2024** | **公布中期经营计划**（公开信息基础）^[extracted] |
-| **2024-11** | 伊藤忠商事出售部分持股 → 不再属于伊藤忠侧权益法适用对象 |
-| **2026-05** | Mizuho 将 Orico 股份 15% 出售给 Aiful 母公司 Muninova HD（48.79%→33.79%），Mizuho / Orico / Muninova 3 社业务合作 |
+| 1980 年代 | 汽车贷款（车贷）业务扩张，构建全国经销商网络 |
+| 1990 年代 | 泡沫时期的不动产担保贷款扩张 → 此后的不良债权处理课题 |
+| 2000 年代前半 | 不良债权处理・经营重建局面 |
+| **2001-04** | **商号变更为「株式会社オリエントコーポレーション」**（简称 Orico） |
+| **2005-12** | **由瑞穗银行 + 伊藤忠商事 + KDDI 等进行优先股注入・经营重建框架启动** |
+| 2006〜 | 应对过付金返还请求（灰色地带利率）→ 整个行业的收益受压局面 |
+| **2010-09** | **成为瑞穗银行的权益法适用关联公司**（表决权约 48% 档，未予合并子公司化） |
+| 2010 年代 | 巩固汽车贷款国内份额 1 位（经由汽车经销商） |
+| 2010 年代后半 | 进军亚洲（印度尼西亚・泰国・越南等）汽车金融 |
+| 2020 年代 | 强化数字化・无现金应对，Orico Card 数字化 |
+| **2024** | **公布中期经营计划**（基于公开信息）^[extracted] |
+| **2024-11** | 伊藤忠商事出售部分持股 → 伊藤忠一侧转为权益法适用对象之外 |
+| **2026-05** | 瑞穗将 Orico 股票 15% 出售给 AIFUL 母公司 Muninova HD（48.79%→33.79%），瑞穗・Orico・Muninova 3 社 业务合作 |
 
-## 2. 业务分部地图
+## 2. 业务分部・地图
 
 | 分部 | 内容 | 备注 |
 |---|---|---|
-| **Auto loan（汽车贷款）** | 经由汽车销售店的个品分期 | **日本国内份额 No.1**，Orico 收益支柱 ^[extracted] |
-| **Shopping credit（个品分期）** | 高价商品（家电、乐器、教育、住宅设备等）的分期付款 | 经由加盟店销售 |
-| **信用卡（Orico Card）** | Orico Card THE POINT / PLATINUM / Mastercard / Visa / JCB 提携 | 自有卡 + 联名卡双轴 |
-| **Card loan** | 面向个人的无担保 card loan | 银行系 / 信贩系中等利率区间 |
-| **银行保证（信用保证）** | 银行 card loan / 个人贷款的债务保证 | 与 Mizuho Bank 系等联动 |
-| **法人 finance** | 租赁、分期、收款代行、应收债权 factoring 等 | 法人 BtoB 金融 |
-| **不动产担保贷款** | 面向个人 / 小规模法人的不动产担保融资 | 经历泡沫后收缩阶段后继续 |
-| **海外业务** | 亚洲（印度尼西亚、泰国、越南等）的汽车 / 两轮车 finance | 经由当地销售商 |
+| **车贷（汽车贷款）** | 经由汽车销售店的单品分期 | **国内份额 No.1**，Orico 的收益支柱 ^[extracted] |
+| **购物信贷（单品分期）** | 高额商品（家电・乐器・教育・住宅设备等）的分期付款 | 经由加盟店销售 |
+| **信用卡（Orico Card）** | Orico Card THE POINT / PLATINUM / Mastercard / Visa / JCB 合作 | 自有卡 + 合作卡两轴 |
+| **卡式贷款** | 面向个人的无担保卡式贷款 | 银行系・信贷系的中等利率区间 |
+| **银行担保（信用担保）** | 银行卡式贷款・个人贷款的债务担保 | 与瑞穗银行系等合作 |
+| **法人金融** | 租赁・分期・收款代办・应收账款保理等 | 法人 BtoB 金融 |
+| **不动产担保贷款** | 面向个人・小规模法人的不动产担保融资 | 历经泡沫后的收缩局面后持续经营 |
+| **海外业务** | 亚洲（印度尼西亚・泰国・越南等）的汽车・两轮车金融 | 经由当地经销商 |
 
 ### 核心差异化
 
-- **日本国内汽车贷款 No.1**：与汽车销售店的长期渠道关系是最大进入壁垒。在新车 / 二手车经销商分期中拥有 **行业 top share** ^[extracted]。
-- **Mizuho 系列 credit 核心**：[[megabanks/mizuho-fg]] 集团内 credit / 信贩业务的核心功能（vs [[megabanks/mufg]] 的三菱 UFJ NICOS / [[megabanks/smfg]] 的三井住友 Card）
-- **伊藤忠联动**：与伊藤忠商事的流通 / 汽车相关网络具有亲和性（商社系客户基础、海外展开时的协作）
+- **汽车贷款国内 No.1**：与汽车销售店的长期渠道关系是最大的进入壁垒。通过新车・二手车经由经销商的分期，占据 **行业首位份额** ^[extracted]
+- **瑞穗系列信贷中核**：[[megabanks/mizuho-fg]] 集团内信贷・信贷业务的中核机能（vs [[megabanks/mufg]] 的三菱 UFJ Nicos / [[megabanks/smfg]] 的三井住友卡）
+- **伊藤忠协作**：与伊藤忠商事的流通・汽车相关网络的亲和性（商社系客户基盘・海外拓展时的协作）
 
 ### 国内竞争格局
 
-| 竞争方 | 系列 | 主要业务领域 | 备注 |
+| 竞争对手 | 系列 | 主要业务领域 | 备注 |
 |---|---|---|---|
-| **JACCS [[card-issuers/jaccs]]** | [[megabanks/mufg]] 系（三菱 UFJ 银行是大股东） | 汽车贷款 / 信贩 | 在 auto loan 上与 Orico 直接竞争 |
-| **Credit Saison** | 独立系（原西武 → 接近现 Mizuho 系列） | 信用卡（Saison Card） | 卡业务中心，永久不灭积分 |
-| **三井住友 Card** | [[megabanks/smfg]] 系 | 信用卡（Visa） | 日本国内最大 Visa，Olive 联动 |
-| **三菱 UFJ NICOS** | [[megabanks/mufg]] 系 | 信用卡（DC / NICOS / MUFG Card） | 三大 credit card 公司 |
-| **Aeon Card** | [[card-issuers/aeon-bank]] 系 | 流通系信用卡 | Aeon group 流通联动 |
-| **Epos Card** | 丸井集团 | 流通系 / 年轻层 | Marui 促销联动 |
-| **Rakuten Card** | Rakuten FG（[[payment-firms/rakuten-fg]] 系） | 日本国内发行张数 No.1 级 | 积分经济圈 |
+| **Jaccs [[card-issuers/jaccs]]** | [[megabanks/mufg]] 系（三菱 UFJ 银行为大股东） | 汽车贷款・信贷 | 在车贷领域与 Orico 直接竞争 |
+| **Credit Saison** | 独立系（旧西武 → 现与瑞穗系列接近） | 信用卡（Saison 卡） | 以卡业务为中心，永久不灭积分 |
+| **三井住友卡** | [[megabanks/smfg]] 系 | 信用卡（Visa） | 国内 Visa 最大，Olive 联动 |
+| **三菱 UFJ Nicos** | [[megabanks/mufg]] 系 | 信用卡（DC / NICOS / MUFG 卡） | 三大信用卡 |
+| **永旺卡（Aeon Card）** | [[card-issuers/aeon-bank]] 系 | 流通系信用卡 | 永旺集团流通联动 |
+| **Epos 卡** | 丸井集团 | 流通系・年轻群体 | 丸井促销联动 |
+| **乐天卡** | 乐天 FG（[[payment-firms/rakuten-fg]] 系） | 国内发卡量 No.1  级 | 积分经济圈 |
 
 ### 战略课题
 
-- **汽车贷款市场结构变化**：EV 转换、subscription（KINTO 等）、car share 普及，使传统“个人购买 + 分期”模式在中长期存在变化风险。
-- **数字化应对**：代码支付（PayPay / Rakuten Pay / d 払い / au PAY）急速增长，对实体卡和分期模式整体形成压力。
-- **海外展开**：亚洲（印度尼西亚、泰国、越南）的汽车 / 两轮车 finance 是中长期成长领域。
+- **车贷市场的结构性变化**：随着 EV 转型・订阅（KINTO 等）・汽车共享的普及，传统的「个人购买+分期」模式在中长期面临变化风险
+- **数字化应对**：随着扫码支付（PayPay / 乐天 Pay / d 払い / au PAY）的迅速增长，整个实体卡・分期模式受到挤压
+- **海外拓展**：亚洲（印度尼西亚・泰国・越南）的汽车・两轮车金融是中长期增长领域
 
-### B2C Branding
+### B2C 品牌塑造
 
-- **Orico Card THE POINT**：以高返还率自有卡获取个人客户
+- **Orico Card THE POINT**：以高返还率的自有卡获取个人客户
 
-## 4. 监管 / 政策
+## 4. 监管・政策
 
-- **主管**：经济产业省（主管分期销售法）+ 金融厅（贷金业法、资金结算法等）
-- **主要依据法**：分期销售法（个品分期 / 综合信用购买斡旋）、贷金业法（card loan / card cashing）、资金结算法
-- **行业自律团体**：一般社团法人日本 Credit 协会（JCA）、日本贷金业协会
-- **个人信息保护**：个人信息保护法 + credit 相关个人信用信息机构（CIC / JICC / 全国银行个人信用信息中心）
-- **加盟店管理**：修订分期销售法（2018〜）强化加盟店调查义务，PCI DSS 合规
+- **主管**：经济产业省（分期销售法主管）+ 金融厅（贷金业法・资金结算法等）
+- **主要依据法**：分期销售法（单品分期・综合信用购买斡旋）、贷金业法（卡式贷款・卡片取现）、资金结算法
+- **行业自主监管团体**：一般社团法人日本信用协会（JCA）、日本贷金业协会
+- **个人信息保护**：个人信息保护法 + 信贷相关个人信用信息机构（CIC / JICC / 全国银行个人信用信息中心）
+- **加盟店管理**：经修订的分期销售法（2018〜）强化加盟店调查义务，遵循 PCI DSS
 - **近期政策论点**：
-  - cashless 推进政策（经产省目标 2025 年 40%，2030 年年代 80%）
-  - 修订个人信息保护法（信用信息处理严格化）
-  - gray-zone 利率问题收束（利息限制法 / 出资法上限利率一本化，2010-06 完成）^[extracted]
-  - invoice 制度（2023-10〜）导致 card 明细 / 经费精算处理变化
+  - 无现金推进政策（经产省目标 2025 年 40%，2030 年代 80%）
+  - 经修订的个人信息保护法（信用信息处理的严格化）
+  - 灰色地带利率问题的收尾（利息限制法・出资法上限利率的统一，2010-06 完成）^[extracted]
+  - 发票制度（2023-10〜）带来卡片明细・费用结算处理的变化
 
 ## Related
 
-- [[megabanks/mizuho-fg]]（主要股东 / 权益法适用母公司）· 伊藤忠商事（主要股东）
-- 国内信贩竞争：[[card-issuers/jaccs]]（auto loan 直接竞争 / [[megabanks/mufg]] 系）
-- 卡竞争：三井住友 Card（[[megabanks/smfg]] 系）· 三菱 UFJ NICOS（[[megabanks/mufg]] 系）· [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]]（Aeon Card）· Epos Card · [[payment-firms/rakuten-fg]]（Rakuten Card）
-- 数字支付竞争：[[megabanks/paypay-fg]]（PayPay）· [[payment-firms/paidy]]（BNPL）· Rakuten Pay · d 払い（[[megabanks/ndfg]] 系）· au PAY（[[megabanks/au-fh]] 系）
-- 汽车金融周边：Toyota Finance（Toyota 系）· Honda Finance（Honda 系）
+- [[megabanks/mizuho-fg]]（主要股东・权益法适用母公司）· 伊藤忠商事（主要股东）
+- 国内信贷竞争对手：[[card-issuers/jaccs]]（车贷直接竞争对手・[[megabanks/mufg]] 系）
+- 信用卡竞争对手：三井住友卡（[[megabanks/smfg]] 系）· 三菱 UFJ Nicos（[[megabanks/mufg]] 系）· [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]]（永旺卡）· Epos 卡 · [[payment-firms/rakuten-fg]]（乐天卡）
+- 数字支付竞争对手：[[megabanks/paypay-fg]]（PayPay）· [[payment-firms/paidy]]（BNPL）· 乐天 Pay · d 払い（[[megabanks/ndfg]] 系）· au PAY（[[megabanks/au-fh]] 系）
+- 汽车金融周边：丰田金融（丰田系）· 本田金融（本田系）
 
 ## Sources
 
-- **Wikipedia: 株式会社 Orient Corporation**（公开信息，2026-05-19 参照）
-- **Orico 官方 corporate site** 公司概要・沿革・IR (https://www.orico.co.jp/)
-- **Orico IR「股票状况」**（大股东一览，2026-03 末时点 Mizuho Bank 48.66%）https://www.orico.co.jp/company/ir/stock/information/
-- **日本经济新闻「Mizuho 将 Orico 部分股份出售给 Aiful 母公司，以 3 社开展业务合作」**（2026-05-15，48.79%→33.79%・继续作为权益法适用关联公司）https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/
+- **Wikipedia：株式会社オリエントコーポレーション**（公开信息，参见 2026-05-19）
+- **Orico 官方企业网站** 公司概要・沿革・IR（https://www.orico.co.jp/）
+- **Orico IR「株式の状況」**（大股东一览，截至 2026-03  年末瑞穗银行 48.66%）https://www.orico.co.jp/company/ir/stock/information/
+- **日本经济新闻「瑞穗将 Orico 部分股票出售给 AIFUL 母公司 3 社 业务合作」**（2026-05-15，48.79%→33.79%・继续作为权益法适用关联公司）https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/
 - 东证 PRIME 上市公司信息（8585）— 公开披露信息
-- 经济产业省“分期销售法”相关公布资料 / cashless 支付比率公布资料
+- 经济产业省「分期销售法」相关公布资料・无现金结算比率公布资料
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（Wikipedia + Orico 官方公开信息基础，2026-05-19 参照）。设立（1954）、改称（1962  / 2001）、上市（1971）、经营重建框架（2005-12  Mizuho + 伊藤忠 + KDDI 优先股）、日本国内汽车贷款 No.1 等重要事实可由公开信息验证。主要股东的准确持股比率、合并子公司的最新范围、2024 中计数值目标需参照有价证券报告书 / IR 披露资料。
+> [!info] 验证状况
+> confidence: **likely**（基于 Wikipedia + Orico 官方公开信息，参见 2026-05-19）。设立（1954）・改称（1962  / 2001）・上市（1971）・经营重建框架（2005-12  瑞穗 + 伊藤忠 + KDDI 优先股）・汽车贷款国内 No.1  等重要事实可通过公开信息验证。主要股东的精确持股比例・合并子公司的最新范围・2024  中期计划的数值目标需参阅有价证券报告书 / IR 公布资料。

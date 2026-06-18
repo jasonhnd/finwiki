@@ -1,13 +1,13 @@
 ---
 source: card-issuers/orico
-source_hash: 56ed6d6f6e797f22
+source_hash: 5b74384c05822228
 lang: en
 status: machine
 fidelity: ok
-title: "Orient Corporation (Orico)"
-translated_at: 2026-06-01T00:41:50.442Z
+title: "Orient Corporation (Orico) (株式会社オリエントコーポレーション)"
+translated_at: 2026-06-18T23:33:48.370Z
 ---
-# Orient Corporation (Orico)
+# Orient Corporation (Orico) (株式会社オリエントコーポレーション)
 
 ## Wiki route
 
@@ -15,128 +15,128 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-A **major domestic consumer credit company affiliated with [[megabanks/mizuho-fg]] and Itochu Corporation**. It was established in Hiroshima in 1954-12-22 as "Hiroshima Sogo Shinyo", changed its name to Orient Finance in 1962 , and to the current company name in 2001 . With **Japan's largest auto-loan business** as its backbone, it operates shopping credit, credit cards (various Orico Cards), card loans, corporate finance, and real estate secured loans. In the 2005-12  management rehabilitation, it received preferred-share injections from [[megabanks/mizuho-fg]] (former IBJ line), Itochu Corporation, KDDI, and others. The current framework has **Mizuho FG as an equity-method affiliate + Itochu Corporation** as major shareholders. TSE PRIME 8585. Competitors include [[card-issuers/jaccs]] / Credit Saison / Sumitomo Mitsui Card ([[megabanks/smfg]] line) / Mitsubishi UFJ NICOS ([[megabanks/mufg]] line) / Aeon-line [[card-issuers/aeon-bank]]. ^[extracted]
+**A major domestic consumer-credit company in the [[megabanks/mizuho-fg]] line / the Itochu Corporation line**. Established in 1954-12-22 in Hiroshima as "Hiroshima Sogo Shinyo," it became Orient Finance in 1962  and changed to its current company name in 2001 . Built on a backbone of being the **largest domestic player in auto loans (auto loans)**, it offers shopping credit, credit cards (various Orico Cards), card loans, corporate finance, and real-estate-collateralized loans. In the 2005-12  management restructuring, it received preferred-share injections from [[megabanks/mizuho-fg]] (the former Kogin line) + Itochu Corporation + KDDI, etc., and currently operates within a framework where **Mizuho FG as an equity-method affiliate + Itochu Corporation** are the principal shareholders. TSE PRIME 8585. Its competitors are [[card-issuers/jaccs]] / Credit Saison / Sumitomo Mitsui Card (the [[megabanks/smfg]] line) / Mitsubishi UFJ Nicos (the [[megabanks/mufg]] line) / the Aeon-line [[card-issuers/aeon-bank]]. ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: Orient Corporation ^[extracted]
+**Formal name**: Orient Corporation (株式会社オリエントコーポレーション) ^[extracted]
 **English name**: Orient Corporation ^[extracted]
 **Abbreviation**: Orico
 **Securities code**: TSE PRIME **8585** ^[extracted]
-**Establishment**: **1954-12-22** (predecessor "Hiroshima Sogo Shinyo Co., Ltd.") ^[extracted]
-**Current-name change**: **2001-04** (Orient Finance → Orient Corporation) ^[extracted]
-**Head office**: Kojimachi Center Place, 5-2-1  Kojimachi, Chiyoda-ku, Tokyo ^[extracted]
-**Business type**: consumer credit (individual installment sales / comprehensive credit purchase intermediation), credit cards, card loans, bank guarantees, corporate finance, real estate secured loans
+**Established**: **1954-12-22** (the predecessor "Hiroshima Sogo Shinyo Co., Ltd.") ^[extracted]
+**Current name change**: **2001-04** (Orient Finance → Orient Corporation) ^[extracted]
+**Head office**: 5-2-1  Kojimachi, Chiyoda-ku, Tokyo, Kojimachi Center Place ^[extracted]
+**Business type**: Consumer credit (individual-item installment / comprehensive credit purchase intermediation), credit cards, card loans, bank guarantees, corporate finance, real-estate-collateralized loans
 
-### Origin of Company Name / Abbreviation
+### Origin of the company name / abbreviation
 
-- **Orient** = inherited from the former company name "Orient Finance" (1962-)
-- **Orico** = compound abbreviation of **Ori**ent **Co**rporation
-- Founded in Hiroshima (former Hiroshima Sogo Shinyo), later moved head office to Tokyo
+- **Orient** = inherited from the old company name "Orient Finance" (from 1962)
+- **Orico** = a composite abbreviation of **Ori**ent **Co**rporation
+- Its founding location was Hiroshima (the former Hiroshima Sogo Shinyo); it later relocated its head office to Tokyo
 
-### Major Shareholders (public-information basis) ^[extracted]
+### Principal shareholders (based on public information) ^[extracted]
 
-| Shareholder | Nature | Notes |
+| Shareholder | Character | Notes |
 |---|---|---|
-| **Mizuho Bank** ([[megabanks/mizuho-fg]] line) | Largest shareholder / equity-method affiliate | Became an equity-method affiliate in 2010-09 . About 48.66% as of 2026-03  end, lowered to 33.79% in 2026-05  (see below) |
-| **Itochu Corporation** | Former major shareholder (outside equity-method scope) | Acquired 21% through third-party allotment, etc. in 2005  and became largest shareholder; after partial sale of holdings in 2024-11 , Orico moved outside Itochu's equity-method scope |
-| Trust banks and institutional investors | Free float | Normal disclosure as a listed company |
+| **Mizuho Bank** (the [[megabanks/mizuho-fg]] line) | Largest shareholder / equity-method affiliate | Became an equity-method affiliate in 2010-09 . Approximately 48.66% at the end of 2026-03 , lowered to 33.79% in 2026-05  (see below) |
+| **Itochu Corporation** | Former major shareholder (moved out of equity-method scope) | Acquired 21% via a third-party allotment, etc. in 2005  to become the largest shareholder; after selling part of its holdings in 2024-11 , the Itochu side moved out of equity-method scope |
+| Various trust banks / institutional investors | Free float | Ordinary disclosure as a listed company |
 
-> Since 2010-09 , Mizuho Bank has positioned Orico as an **equity-method affiliate** (about 48% on a voting-right basis). In 2026-04 , activist Strategic Capital pointed out to Mizuho FG that its "indirect holding of about 48% may correspond to a consolidated subsidiary" and submitted shareholder proposals demanding full subsidiary conversion or sale of all shares. In 2026-05-15, Mizuho sold 15% of Orico shares (about 260 億円) to Muninova HD, the parent of Aiful, lowering its holding ratio from 48.79% to 33.79% (also announcing a 3 社 business alliance), while continuing to treat Orico as an equity-method affiliate.
+> Since 2010-09 , Mizuho Bank has positioned Orico as an **equity-method affiliate** (approximately the 48% range on a voting-rights basis). In 2026-04 , an activist (Strategic Capital) pointed out to Mizuho FG that "an indirect holding of approximately 48% may constitute a consolidated subsidiary" and submitted a shareholder proposal demanding either full subsidiarization or the sale of all shares. In 2026-05-15, Mizuho sold 15% (approximately 260 億円) of Orico shares to Muninova HD, the parent company of AIFUL, lowering its holding ratio from 48.79% to 33.79% (also announcing a 3 社 business alliance), and continued to treat it as an equity-method affiliate.
 
-### Important Timeline ^[extracted]
+### Important chronology ^[extracted]
 
-| Date | Event |
+| Year/month | Event |
 |---|---|
-| **1954-12-22** | **"Hiroshima Sogo Shinyo Co., Ltd." established** (Hiroshima) |
-| **1962** | Changed trade name to "Orient Finance Co., Ltd." |
-| **1971** | **Shares listed** (Tokyo, Osaka, and Nagoya Stock Exchanges) |
-| 1980 年s | Auto-loan business expanded; nationwide dealer network built |
-| 1990 年s | Bubble-era expansion of real estate secured loans → later nonperforming-loan disposal issue |
-| Early 2000 年s | Nonperforming-loan disposal / management rehabilitation phase |
-| **2001-04** | **Changed trade name to "Orient Corporation"** (abbreviation Orico) |
-| **2005-12** | **Management-rehabilitation framework launched through preferred-share injections by Mizuho Bank + Itochu Corporation + KDDI, etc.** |
-| 2006 onward | Response to refund claims for overpaid interest (gray-zone interest rates) → industry-wide earnings pressure |
-| **2010-09** | **Became Mizuho Bank equity-method affiliate** (voting rights around 48%, not consolidated subsidiary) |
-| 2010 年s | Solidified domestic auto-loan share 1 位 (via auto dealerships) |
-| Late 2010 年s | Expanded into auto finance in Asia (Indonesia, Thailand, Vietnam, etc.) |
-| 2020 年s | Strengthened digitalization and cashless response, including Orico Card digitalization |
-| **2024** | **Medium-term management plan announced** (public-information basis) ^[extracted] |
-| **2024-11** | Itochu Corporation sold part of its holdings → outside Itochu's equity-method scope |
-| **2026-05** | Mizuho sold 15% of Orico shares to Aiful parent Muninova HD (48.79%→33.79%); Mizuho / Orico / Muninova 3 社 business alliance |
+| **1954-12-22** | **Establishment of "Hiroshima Sogo Shinyo Co., Ltd."** (Hiroshima) |
+| **1962** | Trade name changed to "Orient Finance Co., Ltd." |
+| **1971** | **Stock listing** (Tokyo, Osaka, and Nagoya Stock Exchanges) |
+| 1980 年s | Expansion of the auto-loan (auto loan) business; construction of a nationwide dealer network |
+| 1990 年s | Expansion of bubble-era real-estate-collateralized loans → later non-performing-loan-disposal challenges |
+| First half of the 2000 年s | Non-performing-loan disposal / management-restructuring phase |
+| **2001-04** | **Trade name changed to "Orient Corporation"** (abbreviation Orico) |
+| **2005-12** | **Launch of a preferred-share-injection / management-restructuring framework by Mizuho Bank + Itochu Corporation + KDDI, etc.** |
+| 2006– | Response to overpayment-refund claims (gray-zone interest) → a phase of earnings pressure across the entire industry |
+| **2010-09** | **Became an equity-method affiliate of Mizuho Bank** (approximately the 48% range of voting rights, without subsidiarization) |
+| 2010 年s | Solidified a domestic auto-loan share of 1 位 (via auto dealers) |
+| Latter half of the 2010 年s | Entry into auto finance in Asia (Indonesia, Thailand, Vietnam, etc.) |
+| 2020 年s | Strengthened digitalization / cashless response; digitalization of the Orico Card |
+| **2024** | **Announcement of a medium-term management plan** (based on public information) ^[extracted] |
+| **2024-11** | Itochu Corporation sold part of its holdings → the Itochu side moved out of equity-method scope |
+| **2026-05** | Mizuho sold 15% of Orico shares to Muninova HD, the parent of AIFUL (48.79%→33.79%); a Mizuho / Orico / Muninova 3 社 business alliance |
 
-## 2. Business Segment Map
+## 2. Business segment map
 
 | Segment | Content | Notes |
 |---|---|---|
-| **Auto loans** | Individual installment credit through auto dealers | **Domestic share No. 1**, Orico's earnings pillar ^[extracted] |
-| **Shopping credit (individual installment sales)** | Installment payments for high-value goods (home appliances, musical instruments, education, housing equipment, etc.) | Sold through merchants |
-| **Credit cards (Orico Card)** | Orico Card THE POINT / PLATINUM / Mastercard / Visa / JCB partnerships | Proprietary + co-branded cards |
-| **Card loans** | Unsecured card loans for individuals | Bank / consumer-credit middle interest-rate range |
-| **Bank guarantees (credit guarantees)** | Debt guarantees for bank card loans and personal loans | Linkage with Mizuho Bank line, etc. |
-| **Corporate finance** | Leasing, installment sales, collection agency, accounts receivable factoring, etc. | Corporate BtoB finance |
-| **Real estate secured loans** | Real estate secured lending to individuals and small corporations | Continued after post-bubble contraction |
+| **Auto loans (auto loans)** | Individual-item installment via auto dealerships | **Domestic share No. 1**, Orico's earnings pillar ^[extracted] |
+| **Shopping credit (individual-item installment)** | Installment payment for high-value goods (home appliances, musical instruments, education, housing equipment, etc.) | Sold via member merchants |
+| **Credit cards (Orico Card)** | Orico Card THE POINT / PLATINUM / Mastercard / Visa / JCB tie-ups | Both proprietary + tie-up cards |
+| **Card loans** | Unsecured card loans for individuals | The mid-interest band of the bank line / consumer-credit line |
+| **Bank guarantees (credit guarantees)** | Debt guarantees for bank card loans / personal loans | Cooperation with the Mizuho Bank line, etc. |
+| **Corporate finance** | Leasing, installment, collection agency, accounts-receivable factoring, etc. | Corporate B-to-B finance |
+| **Real-estate-collateralized loans** | Real-estate-collateralized lending for individuals / small corporations | Continued after a post-bubble contraction phase |
 | **Overseas business** | Auto / motorcycle finance in Asia (Indonesia, Thailand, Vietnam, etc.) | Via local dealers |
 
-### Core Differentiation
+### Core differentiation
 
-- **Domestic auto-loan No. 1**: Long-term channel relationships with auto dealers are the largest entry barrier. Orico has **top industry share** in new- and used-car installment credit through dealers ^[extracted].
-- **Core Mizuho-line credit function**: core function for credit / consumer-credit business inside the [[megabanks/mizuho-fg]] group (vs [[megabanks/mufg]]'s Mitsubishi UFJ NICOS / [[megabanks/smfg]]'s Sumitomo Mitsui Card)
-- **Itochu linkage**: compatibility with Itochu Corporation's distribution and auto-related networks (trading-company customer base and collaboration in overseas expansion)
+- **Domestic auto loans No. 1**: Long-term channel relationships with auto dealerships are the biggest barrier to entry. Via dealer-channeled installment for new and used cars, it holds the **top industry share** ^[extracted]
+- **The Mizuho-affiliated credit core**: The core function of the credit / consumer-credit business within the [[megabanks/mizuho-fg]] group (vs. Mitsubishi UFJ Nicos of [[megabanks/mufg]] / Sumitomo Mitsui Card of [[megabanks/smfg]])
+- **Itochu cooperation**: Affinity with Itochu Corporation's distribution / auto-related network (a trading-company customer base / collaboration on overseas expansion)
 
-### Domestic Competition Structure
+### Domestic competitive landscape
 
-| Competitor | Group | Main business area | Notes |
+| Competitor | Affiliation | Main business area | Notes |
 |---|---|---|---|
-| **JACCS [[card-issuers/jaccs]]** | [[megabanks/mufg]] line (Mitsubishi UFJ Bank is a major shareholder) | Auto loans / consumer credit | Direct competitor to Orico in auto loans |
-| **Credit Saison** | Independent (former Seibu → close to current Mizuho line) | Credit cards (Saison Card) | Card-centered business, Eikyufumetsu points |
-| **Sumitomo Mitsui Card** | [[megabanks/smfg]] line | Credit cards (Visa) | Japan's largest Visa issuer, Olive linkage |
-| **Mitsubishi UFJ NICOS** | [[megabanks/mufg]] line | Credit cards (DC / NICOS / MUFG Card) | One of the big three credit-card companies |
-| **Aeon Card** | [[card-issuers/aeon-bank]] line | Retail-group credit cards | Aeon group retail linkage |
-| **Epos Card** | Marui Group | Retail / younger customers | Marui sales-promotion linkage |
-| **Rakuten Card** | Rakuten FG ([[payment-firms/rakuten-fg]] line) | Domestic issuance count No. 1  class | Points ecosystem |
+| **Jaccs [[card-issuers/jaccs]]** | The [[megabanks/mufg]] line (Mitsubishi UFJ Bank is a major shareholder) | Auto loans / consumer credit | Competes directly with Orico in auto loans |
+| **Credit Saison** | Independent (former Seibu → now close to the Mizuho affiliation) | Credit cards (Saison Card) | Card-business-centered, eternal-points |
+| **Sumitomo Mitsui Card** | The [[megabanks/smfg]] line | Credit cards (Visa) | The largest domestic Visa, Olive linkage |
+| **Mitsubishi UFJ Nicos** | The [[megabanks/mufg]] line | Credit cards (DC / NICOS / MUFG Card) | One of the three major credit cards |
+| **Aeon Card** | The [[card-issuers/aeon-bank]] line | Distribution-line credit cards | Aeon-group distribution linkage |
+| **Epos Card** | Marui Group | Distribution-line / younger demographic | Marui sales-promotion linkage |
+| **Rakuten Card** | Rakuten FG (the [[payment-firms/rakuten-fg]] line) | On the order of domestic-issuance No. 1  | Points economic sphere |
 
-### Strategic Issues
+### Strategic challenges
 
-- **Structural change in the auto-loan market**: EV shift, subscriptions (KINTO, etc.), and car-sharing diffusion may transform the traditional "individual purchase + installment" model over the medium to long term.
-- **Digital response**: rapid growth of code payments (PayPay / Rakuten Pay / d Barai / au PAY) places pressure on physical-card and installment models overall.
-- **Overseas expansion**: auto / motorcycle finance in Asia (Indonesia, Thailand, Vietnam) is a medium- to long-term growth area.
+- **Structural change in the auto-loan market**: With the spread of the EV shift / subscriptions (KINTO, etc.) / car sharing, the conventional "individual purchase + installment" model risks transforming over the medium-to-long term
+- **Digitalization response**: With the rapid growth of code payment (PayPay / Rakuten Pay / d Barai / au PAY), the entire physical-card / installment model is under pressure
+- **Overseas expansion**: Auto / motorcycle finance in Asia (Indonesia, Thailand, Vietnam) is a medium-to-long-term growth area
 
-### B2C Branding
+### B2C branding
 
-- **Orico Card THE POINT**: acquisition of individual customers through a high-reward proprietary card
+- **Orico Card THE POINT**: Acquiring individual customers with a high-reward-rate proprietary card
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
-- **Supervisors**: Ministry of Economy, Trade and Industry (Installment Sales Act jurisdiction) + Financial Services Agency (Money Lending Business Act, Payment Services Act, etc.)
-- **Main legal bases**: Installment Sales Act (individual installment sales / comprehensive credit purchase intermediation), Money Lending Business Act (card loans / cash advances), Payment Services Act
-- **Industry self-regulatory bodies**: Japan Consumer Credit Association (JCA), Japan Financial Services Association
-- **Personal information protection**: Act on the Protection of Personal Information + credit-related personal credit information agencies (CIC / JICC / Japanese Bankers Association Personal Credit Information Center)
-- **Merchant management**: merchant investigation obligations strengthened under the amended Installment Sales Act (from 2018 onward), PCI DSS compliance
+- **Supervisor**: Ministry of Economy, Trade and Industry (jurisdiction over the Installment Sales Act) + Financial Services Agency (Money Lending Business Act, Payment Services Act, etc.)
+- **Main governing laws**: Installment Sales Act (individual-item installment / comprehensive credit purchase intermediation), Money Lending Business Act (card loans / card cashing), Payment Services Act
+- **Industry self-regulatory bodies**: Japan Consumer Credit Association (JCA), a general incorporated association, and the Japan Financial Services Association
+- **Personal-information protection**: Act on the Protection of Personal Information + credit-related personal-credit-information agencies (CIC / JICC / Japanese Bankers Association Personal Credit Information Center)
+- **Member-merchant management**: The amended Installment Sales Act (from 2018) strengthened member-merchant-investigation obligations; PCI DSS compliance
 - **Recent policy issues**:
-  - Cashless promotion policy (METI target 2025 年 40%, 2030 年s 80%)
-  - Amended Act on the Protection of Personal Information (stricter handling of credit information)
-  - Settlement of gray-zone interest-rate issues (unification of Interest Rate Restriction Act and Investment Deposit and Interest Rate Act ceilings, completed 2010-06 ) ^[extracted]
-  - Invoice system (from 2023-10) changing handling of card statements and expense settlement
+  - The cashless-promotion policy (METI target 2025 年 40%, the 2030 年s 80%)
+  - The amended Act on the Protection of Personal Information (stricter handling of credit information)
+  - The wind-down of the gray-zone interest-rate problem (unification of the upper interest rates under the Interest Rate Restriction Act / the Investment Act, completed 2010-06 ) ^[extracted]
+  - The invoice system (from 2023-10) changing the handling of card statements / expense settlement
 
 ## Related
 
-- [[megabanks/mizuho-fg]] (major shareholder / equity-method parent) · Itochu Corporation (major shareholder)
-- Domestic consumer-credit competitors: [[card-issuers/jaccs]] (direct auto-loan competitor / [[megabanks/mufg]] line)
-- Card competitors: Sumitomo Mitsui Card ([[megabanks/smfg]] line) · Mitsubishi UFJ NICOS ([[megabanks/mufg]] line) · [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]] (Aeon Card) · Epos Card · [[payment-firms/rakuten-fg]] (Rakuten Card)
-- Digital payment competitors: [[megabanks/paypay-fg]] (PayPay) · [[payment-firms/paidy]] (BNPL) · Rakuten Pay · d Barai ([[megabanks/ndfg]] line) · au PAY ([[megabanks/au-fh]] line)
-- Auto-finance periphery: Toyota Finance (Toyota line) · Honda Finance (Honda line)
+- [[megabanks/mizuho-fg]] (principal shareholder / equity-method parent) · Itochu Corporation (principal shareholder)
+- Domestic consumer-credit competitors: [[card-issuers/jaccs]] (a direct auto-loan competitor / the [[megabanks/mufg]] line)
+- Card competitors: Sumitomo Mitsui Card (the [[megabanks/smfg]] line) · Mitsubishi UFJ Nicos (the [[megabanks/mufg]] line) · [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]] (Aeon Card) · Epos Card · [[payment-firms/rakuten-fg]] (Rakuten Card)
+- Digital-payment competitors: [[megabanks/paypay-fg]] (PayPay) · [[payment-firms/paidy]] (BNPL) · Rakuten Pay · d Barai (the [[megabanks/ndfg]] line) · au PAY (the [[megabanks/au-fh]] line)
+- Auto-finance periphery: Toyota Finance (the Toyota line) · Honda Finance (the Honda line)
 
 ## Sources
 
-- **Wikipedia: Orient Corporation** (public information, see 2026-05-19)
-- **Orico official corporate site** company profile, history, IR (https://www.orico.co.jp/)
-- **Orico IR "Share Information"** (major shareholder list, Mizuho Bank 48.66% as of 2026-03  end) https://www.orico.co.jp/company/ir/stock/information/
-- **Nikkei: "Mizuho sells part of Orico stake to Aiful parent, forms 3 社 business alliance"** (2026-05-15, 48.79%→33.79%, continued equity-method affiliate) https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/
-- TSE PRIME listed-company information (8585) — public disclosures
-- METI publications related to the Installment Sales Act and cashless payment ratio
+- **Wikipedia: Orient Corporation (株式会社オリエントコーポレーション)** (public information, see 2026-05-19)
+- **Orico official corporate site**, company overview / history / IR (https://www.orico.co.jp/)
+- **Orico IR "Status of Shares"** (list of major shareholders; Mizuho Bank 48.66% as of the end of 2026-03 ) https://www.orico.co.jp/company/ir/stock/information/
+- **Nikkei, "Mizuho sells part of its Orico shares to AIFUL's parent company, a business alliance with 3 社"** (2026-05-15, 48.79%→33.79% / continues as an equity-method affiliate) https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/
+- TSE PRIME listed-company information (8585) — public disclosure information
+- METI "Installment Sales Act"-related published materials / published materials on the cashless-payment ratio
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (Wikipedia + Orico official public-information basis, see 2026-05-19). Key facts such as establishment (1954), name changes (1962  / 2001), listing (1971), management-rehabilitation framework (2005-12  Mizuho + Itochu + KDDI preferred shares), and domestic auto-loan No. 1  are verifiable from public information. Exact major-shareholder ratios, the latest scope of consolidated subsidiaries, and numerical targets in the 2024  medium-term plan require checking securities reports / IR disclosures.
+> confidence: **likely** (based on Wikipedia + Orico official public information, see 2026-05-19). Important facts such as the establishment (1954), name changes (1962  / 2001), listing (1971), the management-restructuring framework (2005-12  Mizuho + Itochu + KDDI preferred shares), and domestic auto loans No. 1  can be verified from public information. The exact shareholding ratios of principal shareholders, the latest scope of consolidated subsidiaries, and the numerical targets of the 2024  medium-term plan should be checked against the securities report / IR-published materials.

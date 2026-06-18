@@ -1,31 +1,31 @@
 ---
 source: banking/japan-trust-bank-vs-global-custodian-comparison-matrix
-source_hash: 41061d3e6a74f90e
+source_hash: 4622638c37358ebc
 lang: en
 status: machine
 fidelity: ok
 title: "Japan trust bank vs global custodian comparison matrix"
-translated_at: 2026-05-30T18:52:47.782Z
+translated_at: 2026-06-18T23:33:48.328Z
 ---
 
 # Japan trust bank vs global custodian comparison matrix
 
 ## TL;DR
 
-Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks dominate domestic JGB / equity / public-pension custody under a dual Trust Business Act and Banking Act route, while global custodians hold sub-custody mandates for foreign investors and cross-border asset servicing via ICSD gateways. Reading the matrix correctly avoids the frequent mistake of treating nominee-account names as if the bank itself were the economic investor.
+Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks dominate domestic JGB / equity / 公的年金 (public-pension) custody under a 信託業法 (Trust Business Act) + 銀行法 (Banking Act) dual route, while global custodians hold sub-custody mandates for foreign investors and cross-border asset servicing via ICSD gateways. Reading the matrix correctly avoids the frequent mistake of treating "信託口" (trust-account) nominee names as if the bank itself were the economic investor.
 
 ## Wiki route
 
-This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer entries [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the existing custody-domain map; with [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]], [[trust-banks/mizuho-trust-bank|Mizuho Trust and Banking]], [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]], and [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] for entity context; with [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] and [[trust-banks/custody-bank|Custody Bank of Japan]] as the system anchor; and with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for clearing / settlement infrastructure plus [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] for the client side.
+This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer entries [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the existing custody-domain map; with [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]], [[trust-banks/mizuho-trust-bank|みずほ信託銀行]], [[trust-banks/smtb|三井住友信託銀行]], and [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] for entity context; with [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] and [[trust-banks/custody-bank|日本カストディ銀行]] as the system anchor; and with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for clearing / settlement infrastructure plus [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] for the client side.
 
 ## Population covered
 
 **Japanese trust-bank custody side (10 entities)**
 
-- Full-service trust banks: [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUFG Trust)]], [[trust-banks/mizuho-trust-bank|Mizuho Trust and Banking (Mizuho Trust)]], [[trust-banks/smtb|Sumitomo Mitsui Trust Bank (SMTB)]]
-- Foreign-bank-affiliated retail / wealth trust banks: [[trust-banks/smbc-trust-bank|SMBC Trust Bank]]
-- Specialty / group-internal trust banks: [[trust-banks/nomura-trust-bank|Nomura Trust and Banking]], [[trust-banks/nochu-trust-bank|Nochu Trust and Banking]], [[trust-banks/sbi-shinsei-trust-bank|SBI Shinsei Trust Bank]], [[trust-banks/jsf-trust-bank|JSF Trust and Banking]]
-- Asset-administration specialists (nominee-account anchors): [[trust-banks/master-trust-bank|Master Trust Bank of Japan]], [[trust-banks/custody-bank|Custody Bank of Japan]]
+- Full-service trust banks: [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUFG Trust)]], [[trust-banks/mizuho-trust-bank|みずほ信託銀行 (Mizuho Trust)]], [[trust-banks/smtb|三井住友信託銀行 (SMTB)]]
+- Foreign-bank-affiliated retail / wealth trust banks: [[trust-banks/smbc-trust-bank|SMBC信託銀行]]
+- Specialty / group-internal trust banks: [[trust-banks/nomura-trust-bank|野村信託銀行]], [[trust-banks/nochu-trust-bank|農中信託銀行]], [[trust-banks/sbi-shinsei-trust-bank|SBI新生信託銀行]], [[trust-banks/jsf-trust-bank|JSF信託銀行]]
+- Asset-administration specialists (信託口 nominee anchors): [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]], [[trust-banks/custody-bank|日本カストディ銀行]]
 
 **Global custodian side (4 entities)**
 
@@ -38,82 +38,82 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 
 | Field | MUFG Trust | Mizuho Trust | SMTB | SMBC Trust | Nomura Trust | Norinchukin Trust | Master Trust | Custody Bank of Japan | SBI Shinsei Trust | JSF Trust |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Legal entity type | Trust bank | Trust bank | Trust bank | Trust bank | Trust bank | Trust bank | Trust bank (specialist) | Trust bank (specialist) | Trust bank | Trust bank |
-| License route | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual, custody-only) | Banking Act + Trust Business Act (dual, custody-only) | Banking Act + Trust Business Act (dual) | Banking Act + Trust Business Act (dual) |
-| Statutory custodian role | Trusteeship / custody / nominee agency / DVP settlement | Trusteeship / custody / nominee agency / DVP settlement | Trusteeship / custody / nominee agency / DVP settlement | Retail-trust-centric / custody-limited | Group-internal trust + investment-trust trusteeship | Norinchukin-system trusteeship | Custody + pension trust + investment-trust trusteeship (specialist) | Custody + pension trust + investment-trust trusteeship (specialist) | Group-internal + real-estate-trust-centric | Securities-finance-group-internal trust |
-| AUC / AuA class | ¥100tn+ | ¥10–100tn | ¥100tn+ | <¥10tn | <¥10tn | <¥10tn | ¥823tn (trust assets, 2025) | ¥696tn (total entrusted assets, 2025-03) | <¥10tn | <¥10tn |
-| Major client types | Public pensions / investment trusts / institutional investors / corporates | Investment trusts / institutional investors / public pensions | Public pensions / investment trusts / institutional investors / corporates | Individual HNW / trust agency | Group securities & investment trusts / institutional investors | Norinchukin-system financial institutions & JA Bank | GPIF / major investment trusts / global-custody sub-route | Major investment trusts / public pensions / institutional investors | Group-internal / real-estate investors | Securities-finance subsidiaries + institutional investors |
-| Cross-border custody | Yes (overseas sub-custody network) | Yes | Yes | Limited | Limited | None | Foreign assets re-delegated to foreign custodians | Foreign assets re-delegated to foreign custodians | None | None |
-| DVP-X1/X2/X3 settlement | Full participation | Full participation | Full participation | Partial participation | Partial participation | Partial participation | Full participation (high volume) | Full participation (high volume) | Partial participation | Partial participation |
-| JSCC connection | Direct | Direct | Direct | Via parent bank | Direct (securities-affiliated) | Via parent system | Direct (high volume) | Direct (high volume) | Via parent bank | Direct (securities finance) |
-| JASDEC connection | Direct | Direct | Direct | Direct | Direct | Direct | Direct (high volume) | Direct (high volume) | Direct | Direct |
-| ICSD gateway (Euroclear / Clearstream) | Direct + sub-custody | Direct + sub-custody | Direct + sub-custody | Via parent bank SMBC | Via parent (Nomura) + own-limited | Via foreign custodian | Foreign ICSD connection (BNY / State Street sub) | Foreign ICSD connection (BNY / State Street sub) | Via foreign custodian | Via foreign custodian |
-| M&A / consolidation history | Mitsubishi Trust + UFJ Trust (2005-10) | Mizuho Trust (former Yasuda + Dai-Ichi Kangyo + Fuji trust-consolidation lineage) | Chuo Mitsui + Sumitomo (2011-04) | Former SMBC Trust + PRESTIA (acquired Citibank NA individual division 2015 ) | Established 1993  (Nomura-affiliated subsidiary) | Establishment-consolidation | Established 2000-05  (MUFG + Nippon Life + Meiji Yasuda + Norinchukin Trust) | **2020-07-27 JTSB + TCSB merger** ★ | SBI-affiliated (former Shinsei Trust) | Japan Securities Finance subsidiary |
-| Pricing power | Strong (scale + relationships) | Mid-strong | Strong | Mid (retail HNW) | Mid (group-internal) | Mid (system-internal) | Strong (near scale-monopoly) | Strong (near scale-monopoly) | Weak (small scale) | Weak (specialist narrow domain) |
+| Legal entity type | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 (専業) | 信託銀行 (専業) | 信託銀行 | 信託銀行 |
+| License route | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 (custody-only) | 銀行法 + 信託業法 兼営 (custody-only) | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 |
+| Statutory custodian role | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | リテール信託中心 / カストディ限定 | グループ内信託 + 投信信託受託 | 農林系信託受託 | カストディ + 年金信託 + 投信受託 専業 | カストディ + 年金信託 + 投信受託 専業 | グループ内 + 不動産信託中心 | 証券金融グループ内信託 |
+| AUC / AuA class | ¥100tn+ | ¥10–100tn | ¥100tn+ | <¥10tn | <¥10tn | <¥10tn | ¥823tn (受託資産, 2025) | ¥696tn (受託財産合計, 2025-03) | <¥10tn | <¥10tn |
+| Major client types | 公的年金 / 投信 / 機関投資家 / 事業法人 | 投信 / 機関投資家 / 公的年金 | 公的年金 / 投信 / 機関投資家 / 事業法人 | 個人富裕層 / 信託代理 | グループ証券・投信 / 機関投資家 | 農林系金融機関・JA バンク | GPIF / 大手投信 / グローバルカストディ sub-route | 大手投信 / 公的年金 / 機関投資家 | グループ内 / 不動産投資家 | 証券金融子会社 + 機関投資家 |
+| Cross-border custody | あり (海外サブカストディ網) | あり | あり | 限定的 | 限定的 | なし | 海外資産は外資カストディに再委託 | 海外資産は外資カストディに再委託 | なし | なし |
+| DVP-X1/X2/X3 settlement | フル参加 | フル参加 | フル参加 | 部分参加 | 部分参加 | 部分参加 | フル参加 (大量) | フル参加 (大量) | 部分参加 | 部分参加 |
+| JSCC 接続 | 直接 | 直接 | 直接 | 親銀行経由 | 直接 (証券系) | 親系統経由 | 直接 (大量) | 直接 (大量) | 親銀行経由 | 直接 (証券金融) |
+| JASDEC 接続 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 (大量) | 直接 (大量) | 直接 | 直接 |
+| ICSD gateway (Euroclear / Clearstream) | 直接 + サブカストディ | 直接 + サブカストディ | 直接 + サブカストディ | 親銀行 SMBC 経由 | 親 (野村) 経由 + 自社限定 | 外資カストディ経由 | 外資 ICSD 接続 (BNY / State Street サブ) | 外資 ICSD 接続 (BNY / State Street サブ) | 外資カストディ経由 | 外資カストディ経由 |
+| M&A / 統合歴 | 三菱信託 + UFJ 信託 (2005-10) | みずほ信託 (旧 安田 + 第一勧業 + 富士 信託統合系譜) | 中央三井 + 住友 (2011-04) | 旧 SMBC 信託 + プレスティア (シティ NA 個人部門 2015 譲受) | 1993 設立 (野村系子会社) | 設立統合 | 2000-05 設立 (MUFG + 日本生命 + 明治安田 + 農中信託) | **2020-07-27 JTSB + TCSB 合併** ★ | SBI 系 (旧 新生信託) | 日本証券金融子会社 |
+| Pricing power | 強 (規模 + リレーション) | 中強 | 強 | 中 (リテール富裕層) | 中 (グループ内) | 中 (系統内) | 強 (規模独占に近い) | 強 (規模独占に近い) | 弱 (規模小) | 弱 (専業狭領域) |
 
 ## Comparison Matrix (global custodians in Japan)
 
 | Field | BNY Mellon Japan | State Street Japan | JP Morgan Japan | Citi Japan |
 |---|---|---|---|---|
-| Legal entity type | Trust bank (BNY Mellon Trust) + foreign bank branch (Tokyo Branch) + AM subsidiary | Trust bank (State Street Trust) + foreign bank branch | Trust bank + foreign bank branch (JPMorgan Chase Bank N.A. Tokyo) + securities subsidiary | Foreign bank branch (Citibank N.A. Tokyo) + securities subsidiary (Citigroup Global Markets Japan) |
-| License route | Banking Act (branch) + Trust Business Act (trust bank) | Banking Act (branch) + Trust Business Act (trust bank) | Banking Act (branch) + Trust Business Act (trust bank) | Banking Act (branch) + FIEA (securities) |
-| Statutory custodian role | Global custody / overseas-asset safekeeping / ADR agent / sub-custodian | Global custody / public-pension sub-custodian / investment-trust sub-custodian | Global custody + institutional-investor services + ADR agent | Global custody + ADR agent + securities business |
-| AUC / AuA class (Japan dedicated portion) | Undisclosed (parent global AUC/A ~$52tn, 2024-12 ^[extracted]) | Undisclosed (parent global AUC/A ~$46.6tn, 2024-12) | Undisclosed (parent Securities Services AUC ~$35.8tn, 2024Q3) | Undisclosed (parent Securities Services AUC/A ~$26tn, 2024) |
-| Major client types | GPIF / public pensions / major investment trusts / megabank overseas portfolios / foreign pensions / SWFs | GPIF / public pensions / SSGA-affiliated investment trusts / foreign pensions / SWFs | US institutional investors / megabank global division of labor / ADRs of US-listed Japanese companies | Foreign pensions / SWFs / megabank overseas portfolios / ADRs / US institutional investors |
-| Cross-border custody | Core function (world's largest) | Core function (Custodian + investment-trust admin) | Core function + integrated US securities business | Core function + multi-currency settlement network |
-| DVP-X1/X2/X3 settlement | Direct (via trust bank) | Direct (via trust bank) | Direct (via trust bank) | Limited (securities-business side) |
-| JSCC connection | Direct (trust bank + branch) | Direct (trust bank + branch) | Direct (trust bank + branch) | Via securities subsidiary (CGMJ) |
-| JASDEC connection | Direct | Direct | Direct | Direct (branch) |
-| ICSD gateway (Euroclear / Clearstream) | Direct connection to global ICSD network | Direct connection to global ICSD network | Direct connection to global ICSD network | Direct connection to global ICSD network |
-| Specialty fields | ADR / Securities Services / tokenized assets (under study) / US OFAC compliance | Asset servicing + investment-trust administration + SSGA collaboration (passive ETF custody) | Integrated US securities + prime-brokerage adjacency + ADR / DR | Multi-currency settlement + emerging-market sub-custody + major EM custody |
-| Pricing power vs Japanese banks | High (price relatively stable beyond fee rate, given globally essential function) | High (scale effect in passive ETF / investment-trust admin) | High (integrated US service) | Mid-high (emerging-market + US strengths) |
+| Legal entity type | 信託銀行 (BNY メロン信託) + 外国銀行支店 (東京支店) + AM 子会社 | 信託銀行 (ステート・ストリート信託) + 外国銀行支店 | 信託銀行 + 外国銀行支店 (JPMorgan Chase Bank N.A. Tokyo) + 証券子会社 | 外国銀行支店 (Citibank N.A. Tokyo) + 証券子会社 (Citigroup Global Markets Japan) |
+| License route | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 金商法 (証券) |
+| Statutory custodian role | グローバルカストディ / 海外資産保管 / ADR 代理人 / sub-custodian | グローバルカストディ / 公的年金 sub-custodian / 投信 sub-custodian | グローバルカストディ + 機関投資家サービス + ADR 代理人 | グローバルカストディ + ADR 代理人 + 証券業務 |
+| AUC / AuA class (Japan 専有部分) | 非開示 (親会社グローバル AUC/A 約 $52tn, 2024-12 ^[extracted]) | 非開示 (親会社グローバル AUC/A 約 $46.6tn, 2024-12) | 非開示 (親会社 Securities Services AUC 約 $35.8tn, 2024Q3) | 非開示 (親会社 Securities Services AUC/A 約 $26tn, 2024) |
+| Major client types | GPIF / 公的年金 / 大手投信 / 邦銀海外運用 / 外国年金 / SWF | GPIF / 公的年金 / SSGA 系投信 / 外国年金 / SWF | 米国機関投資家 / 邦銀グローバル分業 / 米国上場日本企業 ADR | 外国年金 / SWF / 邦銀海外運用 / ADR / 米国機関投資家 |
+| Cross-border custody | コア機能 (世界最大) | コア機能 (Custodian + 投信 admin) | コア機能 + 米証券業務一体 | コア機能 + 多通貨決済網 |
+| DVP-X1/X2/X3 settlement | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 限定 (証券業務側) |
+| JSCC 接続 | 直接 (信託銀行 + 支店) | 直接 (信託銀行 + 支店) | 直接 (信託銀行 + 支店) | 証券子会社 (CGMJ) 経由 |
+| JASDEC 接続 | 直接 | 直接 | 直接 | 直接 (支店) |
+| ICSD gateway (Euroclear / Clearstream) | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 |
+| Specialty fields | ADR / Securities Services / トークン化資産 (検討) / 米国 OFAC 対応 | Asset servicing + 投信 administration + SSGA との連携 (パッシブ ETF custody) | 米証券一体 + プライムブローカレッジ周辺 + ADR / DR | 多通貨決済 + 新興国 sub-custody + 大手 EM カストディ |
+| Pricing power vs 邦銀 | 高 (グローバル必須機能で価格は手数料率より相対安定) | 高 (パッシブ ETF / 投信 admin で規模効果) | 高 (米国一体サービス) | 中高 (新興国 + 米国強み) |
 
 ## Cross-camp matrix view
 
 | Dimension | Japanese trust banks | Global custodians (Japan) |
 |---|---|---|
-| Primary regulator | FSA — Banking Act + Trust Business Act | FSA + home-country regulation (FRB / OCC / ECB / UK PRA) |
-| Primary asset universe | Domestic equity / JGB / domestic investment trusts / public-pension assets (domestic portion) | Foreign equity / foreign bonds / megabanks' overseas portfolios / ADR / Japan investments of foreign pension funds |
-| Settlement infrastructure | [[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]] / BoJ JGB system direct connection | Global ICSD (Euroclear / Clearstream) + Japan side routes to JASDEC / JSCC |
-| Beneficial-owner concentration | GPIF + major investment trusts + public pensions (domestic basis) | Megabank global + foreign pensions / SWFs + overseas investment trusts (international basis) |
-| Voting / governance role | "信託口" nominee — voting instruction belongs to the trustor (asset manager / pension) | Pass-through as sub-custodian; voting belongs to the ultimate beneficial owner / the global custodian's trustor |
-| Pricing power | Domestic-infra 2 -strong (Master Trust + CBJ) hold strong monopolistic pricing; others mid-level | High (globally essential functionality + scale) — Japanese-bank substitution is structurally difficult |
-| Recent consolidation | Concentration akin to **2020-07 JTSB + TCSB → CBJ** continues | Global consolidation already complete (BNY + Mellon 2007, State Street single system, Citi / JPM internally integrated) |
+| Primary regulator | 金融庁 (FSA) — 銀行法 + 信託業法 | 金融庁 (FSA) + 母国規制 (FRB / OCC / ECB / 英 PRA) |
+| Primary asset universe | 国内株式 / JGB / 国内投信 / 公的年金資産 (うち国内分) | 海外株式 / 海外債券 / 邦銀の海外運用資産 / ADR / 外国年金資金の日本投資 |
+| Settlement infrastructure | [[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]] / BoJ JGB システム 直接接続 | グローバル ICSD (Euroclear / Clearstream) + 日本側は JASDEC / JSCC へ |
+| Beneficial-owner concentration | GPIF + 大手投信 + 公的年金 (国内ベース) | 邦銀グローバル + 外国年金 / SWF + 海外投信 (国際ベース) |
+| Voting / governance role | 「信託口」名義 — 議決権指図は委託者 (運用機関 / 年金) | sub-custodian として通過、議決権は最終 beneficial owner / global custodian の委託者 |
+| Pricing power | 国内インフラ 2 強 (Master Trust + CBJ) は強い独占的価格、その他は中程度 | 高い (グローバル必須機能性 + 規模) — 邦銀代替は構造的に困難 |
+| Recent consolidation | **2020-07 JTSB + TCSB → CBJ** に類する集中化が継続 | グローバル統合は完了済 (BNY + Mellon 2007、State Street 単一系統、Citi / JPM は内部統合) |
 
 ## Master Trust vs Custody Bank of Japan — the meaning of the 2020 consolidation
 
-The consolidation **2020-07-27 JTSB (Japan Trustee Services Bank) + TCSB (Trust & Custody Services Bank) → [[trust-banks/custody-bank|Custody Bank of Japan]]** was the event that clarified Japan's custody-infrastructure 2 -strong structure as **MUFG-affiliated [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] vs SMTB / Mizuho / Resona / Dai-Ichi-Life-affiliated [[trust-banks/custody-bank|Custody Bank of Japan]]**. ^[extracted]
+The consolidation **2020-07-27 JTSB (Japan Trustee Services Bank) + TCSB (Trust & Custody Services Bank) → [[trust-banks/custody-bank|日本カストディ銀行]]** is an event that crystallized the 2 -major-pillar regime of Japan's custody infrastructure as **MUFG-affiliated [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] vs the SMTB / Mizuho / Resona / Dai-ichi-Life-affiliated [[trust-banks/custody-bank|日本カストディ銀行]]**. ^[extracted]
 
-Public materials cite the following as reasons for the consolidation:
+As publicly available materials, the reasons for the consolidation indicate the following:
 
-1. Information-processing-capacity requirements from expansion of domestic passive management + growth in scale of public-pension assets
-2. Compression of duplicate system costs (JTSB + TCSB each held separate investment-trust-calculation / custody systems)
-3. Concentration of investment to handle electronic voting / electronification of corporate actions
+1. Expansion of domestic passive management + information-processing-capacity requirements due to the scale expansion of public-pension assets
+2. Compression of system-duplication costs (JTSB + TCSB held separate investment-trust-calculation / custody systems)
+3. Concentration of investment in responding to electronic voting / corporate-action digitization
 
 ## Pricing power dynamics
 
-| Aspect | Domestic trust banks | Global custodians |
+| 側面 | 国内信託銀行 | グローバルカストディアン |
 |---|---|---|
-| Client bargaining power | Master Trust / CBJ are strong via scale effect + relationships | All strong via globally essential functionality |
-| Substitutability | Limited domestically due to domestic-infra concentration | Japanese-bank substitution structurally difficult via home-country regulation + home-country system connectivity |
-| Cross-selling | Real estate / pension / inheritance / investment-banking relationships (full-service trust bank) | Global management / securities business / prime brokerage |
-| Regulatory capital cost | Domestic-RWA-centric | Globally consolidated capital (incl. G-SIB buffer — BNY Mellon / State Street / JPM / Citi all G-SIB-designated) |
+| 顧客交渉力 | 規模効果 + リレーションで Master Trust / CBJ は強い | グローバル必須機能性で全社強い |
+| 代替可能性 | 国内インフラ集約により国内では限定的 | 母国規制 + 母国システム接続性で邦銀代替は構造的困難 |
+| クロス販売 | 不動産 / 年金 / 相続 / 投資銀行リレーション (full-service trust bank) | グローバル運用 / 証券業務 / プライムブローカレッジ |
+| 規制資本コスト | 国内 RWA 中心 | グローバル統合資本 (G-SIB バッファ含む — BNY Mellon / State Street / JPM / Citi 全社 G-SIB 認定) |
 
 ## Interpretation rules
 
-| How to read public information | Correct reading |
+| 公開情報の見方 | 正しい読み方 |
 |---|---|
-| "Master Trust Bank of Japan (trust account)" appears as top shareholder | Nominee. Beneficiaries are GPIF / investment trusts / institutional investors. Voting instruction is on the trustor side. ^[extracted] |
-| "Custody Bank of Japan (trust account)" appears as top shareholder | Same as above. CBJ is the nominee, aggregating entrusted assets of SMTB / Mizuho / Resona / Dai-Ichi-Life affiliates. ^[extracted] |
-| "BNY Mellon" or "State Street" appears as a foreign-corporation shareholder | Aggregation via foreign institutional investors' global-custody accounts. Not a strategic holding by BNY / State Street themselves. ^[extracted] |
+| 「日本マスタートラスト信託銀行 (信託口)」が筆頭株主に登場 | 名義人。受益者は GPIF / 投信 / 機関投資家。議決権指図は委託者側。^[extracted] |
+| 「日本カストディ銀行 (信託口)」が筆頭株主に登場 | 同上。CBJ は名義人で、SMTB / Mizuho / Resona / 第一生命系の委託資産の集約。^[extracted] |
+| 「BNY Mellon」や「State Street」が外国法人株主に登場 | 外国機関投資家のグローバルカストディ口座経由の名寄せ。BNY / State Street 自体の戦略保有ではない。^[extracted] |
 
 ## Research checklist
 
-1. Before drawing ownership conclusions, use [[banking/japan-trust-bank-custody-map|trust-bank custody map]] to confirm whether a custody-bank reference is **entity / shareholder nominee / mandate-holder**.
-2. For specialist banks, check whether they are a **proper trust bank under the Banking Act + Trust Business Act** or a pure trust company — only the bank route can participate directly in DVP / JGB book-entry.
-3. For global custodians, identify whether the Japan operation has its **own trust-bank license** (BNY / State Street / JPM) or operates only via the foreign-bank-branch + securities-subsidiary route (the Citi pattern).
+1. Confirm whether a custody-bank reference is **entity / shareholder nominee / mandate-holder** before drawing ownership conclusions, using [[banking/japan-trust-bank-custody-map|trust-bank custody map]].
+2. For specialist banks, check whether they are a **proper trust bank under 銀行法 + 信託業法** or a pure 信託会社 (trust company) — only the bank route can participate directly in DVP / JGB book-entry.
+3. For global custodians, identify whether the Japan operation has its **own 信託銀行 license** (BNY / State Street / JPM) or operates only via the 外国銀行支店 (foreign-bank branch) + 証券子会社 (securities subsidiary) route (Citi pattern).
 4. Treat ICSD gateway access (Euroclear / Clearstream) as **the dividing line** between truly global custodians and domestic specialists — domestic specialists usually re-route foreign assets through global custodians.
-5. Source-date all AUC / AuA / entrusted-asset figures because they move with market prices and new mandates; the Master Trust ¥823tn (2025) and CBJ ¥696tn (2025-03) anchors are official-disclosure summary points but not real-time numbers.
+5. Source-date all AUC / AuA / 受託資産 figures because they move with market prices and new mandates; the Master Trust ¥823tn (2025) and CBJ ¥696tn (2025-03) anchors are official-disclosure summary points but not real-time numbers.
 6. Cross-link the client side via [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] to understand mandate flows.
 
 ## Related
@@ -145,14 +145,14 @@ Public materials cite the following as reasons for the consolidation:
 
 ## Sources
 
-- Japan Trust Companies Association: trust-bank explanation, member list, trust assets statistics.
-- Master Trust Bank of Japan: official company / business overview (trust assets ¥823tn anchor, https://www.mastertrust.co.jp/about/overview.html).
-- Custody Bank of Japan: official company / business explanation (incl. 2020-07-27 JTSB + TCSB merger); disclosure report total entrusted assets ¥696tn / trust assets ¥476tn as of 2025-03-31 (https://www.custody.jp/data/disclosure/index.html).
+- Japan Trust Companies Association: trust-bank explanation, member list, trust-assets statistics.
+- Master Trust Bank of Japan: official company / business overview (受託資産 ¥823tn anchor, https://www.mastertrust.co.jp/about/overview.html).
+- Custody Bank of Japan: official company / business explanation (incl. the 2020-07-27 JTSB + TCSB merger); disclosure report 受託財産合計 ¥696tn / 信託財産 ¥476tn as of 2025-03-31 (https://www.custody.jp/data/disclosure/index.html).
 - BNY Mellon Japan: official Japan page and asset-servicing disclosure; group AUC/A $52.1tn as of 2024-12-31 (Q4 2024 earnings release, https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf).
 - State Street Japan: official Japan page; group AUC/A $46.6tn as of 2024-12-31 (Q4/FY2024 results press release, https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx).
 - JP Morgan: Securities Services AUC $35.8tn as of 2024Q3 (JPMorgan Chase 3Q24 earnings presentation, SEC Form 8-K, https://www.sec.gov/Archives/edgar/data/0000019617/000001961724000558/a3q24_earningsxpresentat.htm).
 - Citi: Securities Services AUC/A approx $26tn for 2024 (Citigroup Q4/FY2024 results press release, https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q42024/4Q24-earnings-press-release.pdf).
-- FSA: trust-business financial institution list (trust-bank section), bank license list, supervisory guideline section.
+- FSA: trust-business financial institution list (信託銀行 section), bank license list, supervisory guideline section.
 - JASDEC: securities book-entry and depository system materials.
 - JSCC: clearing and DVP cash-equity materials.
 - BoJ: JGB book-entry settlement system materials.

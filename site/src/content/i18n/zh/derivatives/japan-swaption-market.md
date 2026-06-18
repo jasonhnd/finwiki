@@ -1,131 +1,131 @@
 ---
 source: derivatives/japan-swaption-market
-source_hash: 73925a9076863f9a
+source_hash: 27ebd8b4fde39b68
 lang: zh
 status: machine
 fidelity: ok
 title: "日本掉期期权（利率期权）市场"
-translated_at: 2026-05-31T03:19:56.390Z
+translated_at: 2026-06-18T23:33:48.364Z
 ---
 
 # 日本掉期期权（利率期权）市场
 
 ## TL;DR
 
-掉期期权是一种场外利率期权，赋予持有人在未来某一日期、以预先约定的执行利率进入既定利率掉期的权利（而非义务）。日元掉期期权是 [[derivatives/japan-irs-market|JPY interest-rate swap]] 与 [[derivatives/ois-tona-curve|OIS-TONA]] 市场对波动率敏感的补充，也是日本寿险公司、大型银行财资部门及结构性票据发行方对冲部门表达对未来日元利率波动率看法（或进行对冲）的主要工具。
+掉期期权是一种场外利率期权，授予持有人在未来某一日期并以预先约定的执行利率进入一笔确定的利率掉期的权利（但非义务）。日元掉期期权是 [[derivatives/japan-irs-market|JPY interest-rate swap]] 和 [[derivatives/ois-tona-curve|OIS-TONA]] 市场的波动率敏感补充物，也是日本寿险公司、巨型银行资金交易台和结构化票据发行人对冲交易台表达（或对冲）对未来日元利率波动率看法的主要工具。
 
-日元掉期期权流的两种主要结构形式是欧式付款方 / 收款方掉期期权（在未来某日期就既定期限 IRS 付固定或收固定的权利）以及百慕大式可赎回掉期期权（多个行权日，常嵌入可赎回日元计价债券与结构性票据）。后者尤其与对冲带有嵌入式利率可选权的寿险公司可变年金类产品（GMxB 类保证，其中保险公司对保单持有人行为实质上做空利率波动率）相关。
+日元掉期期权资金流中的两种主要结构性形态是欧式付款方／收款方掉期期权（在未来某一日期就一笔确定期限的 IRS 支付或收取固定利率的权利），以及百慕大式可赎回掉期期权（多个行权日，常嵌入于日元计价债券和结构化票据中）。后者尤其与嵌有利率可选择性的保险公司变额年金型产品（GMxB 型保证，保险公司实际上相对保单持有人行为做空利率波动率）的对冲相关。
 
-对 FinWiki 而言，本条目涵盖掉期期权机制、日元隐含波动率网格、付款方对收款方流的特征、百慕大可赎回结构、寿险公司 GMxB 对冲案例，以及日元掉期期权做市的交易商业务结构。
+对 FinWiki 而言，本条目涵盖掉期期权机制、日元隐含波动率网格、付款方对收款方的资金流画像、百慕大可赎回结构、寿险公司 GMxB 对冲案例，以及日元掉期期权做市的交易商特许经营结构。
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[derivatives/INDEX|derivatives index]] in the interest-rate-options cluster. Read it against [[derivatives/japan-irs-market]] for the underlying IRS market the swaption references, [[derivatives/ois-tona-curve]] for the discount-curve and short-rate side, and [[derivatives/japan-cms-constant-maturity-swap]] for CMS-derivative cousins that share the same vol-grid inputs. The life-insurer end-user demand side is anchored at [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]] and [[insurance/economic-value-based-solvency|economic-value-based solvency (ESR)]].
+本条目位于 [[derivatives/INDEX|derivatives index]] 之下，处于利率期权集群中。请将其与掉期期权所参照的基础 IRS 市场 [[derivatives/japan-irs-market]]、贴现曲线与短期利率侧 [[derivatives/ois-tona-curve]]，以及共享同一波动率网格输入的 CMS 衍生品近亲 [[derivatives/japan-cms-constant-maturity-swap]] 对照阅读。寿险终端用户需求侧锚定于 [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]] 和 [[insurance/economic-value-based-solvency|economic-value-based solvency (ESR)]]。
 
 ## 工具机制
 
-标准日元掉期期权具有以下结构：
+一笔标准的日元掉期期权具有以下结构：
 
 | 要素 | 详情 |
 |---|---|
-| 标的 | 一项预先指定的日元利率掉期（例如引用复利 TONA 或 TIBOR 的 10 年期日元 IRS） |
+| 标的 | 预先指定的日元利率掉期（例如，参照 TONA 复合或 TIBOR 的 10年期日元 IRS） |
 | 权利 | 期权持有人在期权行权日进入掉期的权利 |
-| 方向 | **付款方掉期期权**：付固定（= 收浮动）的权利；利率升至执行价之上时盈利。**收款方掉期期权**：收固定（= 付浮动）的权利；利率跌至执行价之下时盈利。 |
-| 执行价 | 约定的固定利率执行价（通常为平价远期 ATMF，但价内与价外执行价亦有交易） |
-| 期权到期 | 期权持有人行权之日（即"到期"） |
-| 掉期期限 | 标的掉期的期限，惯例写作"到期 × 期限"（例如"1Y × 10Y" = 1 年到期进入一项 10 年掉期） |
-| 类型 | 欧式（单次行权）、百慕大式（多个行权日）或美式（连续；掉期期权罕见） |
-| 结算 | 按既定估值方法现金结算（隐含掉期的现值）或实物结算（行权时期权持有人被交割进入一项活跃掉期） |
-| 文件 | ISDA 主协议 + CSA |
+| 方向 | **付款方掉期期权**：支付固定（＝收取浮动）的权利；利率上升至执行价之上则获利。**收款方掉期期权**：收取固定（＝支付浮动）的权利；利率下降至执行价之下则获利。 |
+| 执行价 | 约定的固定利率执行价（通常为平价远期，ATMF，但 ITM 和 OTM 执行价亦有交易） |
+| 期权到期 | 期权持有人行权之日（"到期"） |
+| 掉期期限 | 标的掉期的期限，按惯例写作"到期 × 期限"（例如，"1年 × 10年"＝ 1年到期进入一笔 10年掉期） |
+| 类型 | 欧式（单次行权）、百慕大式（多个行权日）或美式（连续；掉期期权中罕见） |
+| 结算 | 按确定的估值方法（隐含掉期的现值）现金结算，或实物结算（期权持有人在行权时被交付进入一笔活跃掉期） |
+| 文档 | ISDA 主协议 ＋ CSA |
 
-经济内涵：掉期期权是一种对远期掉期利率的 Black 式期权，标的远期掉期利率的隐含波动率是关键定价输入。
+经济内涵：掉期期权是对远期掉期利率的 Black 式期权，标的远期掉期利率的隐含波动率是关键定价输入。
 
 ## 日元掉期期权隐含波动率网格
 
-市场在二维网格上报出日元掉期期权隐含波动率（通常以每年基点表示，正态波动率惯例，或视交易商惯例以 Black 对数正态波动率表示）：
+市场在二维网格上报出日元掉期期权隐含波动率（通常以年化基点表示，采用正态波动率惯例，或依交易商惯例表示为 Black 对数正态波动率）：
 
-- **期权到期**：1M、3M、6M、1Y、2Y、3Y、5Y、7Y、10Y、15Y、20Y
-- **标的掉期期限**：1Y、2Y、3Y、5Y、7Y、10Y、15Y、20Y、30Y
+- **期权到期**：1个月、3个月、6个月、1年、2年、3年、5年、7年、10年、15年、20年
+- **标的掉期期限**：1年、2年、3年、5年、7年、10年、15年、20年、30年
 
-流动性最强的点通常为：
+流动性最高的点通常为：
 
 | 网格点 | 用例 |
 |---|---|
-| 1M × 10Y、3M × 10Y | 短期事件波动率表达（围绕 BoJ MPM、市场压力） |
-| 1Y × 10Y | 头条基准波动率点；广泛报价 |
-| 1Y × 5Y、1Y × 30Y | 不同期限的曲线波动率表达 |
-| 5Y × 5Y、5Y × 10Y、10Y × 10Y | 长期保险公司 / 结构性票据对冲 |
-| 10Y × 20Y、20Y × 30Y | 长期限保险公司 ALM 与养老基金对冲 |
+| 1个月 × 10年、3个月 × 10年 | 短期事件波动率表达（围绕日银 MPM、市场压力） |
+| 1年 × 10年 | 头条基准波动率点；被广泛报出 |
+| 1年 × 5年、1年 × 30年 | 不同期限的曲线波动率表达 |
+| 5年 × 5年、5年 × 10年、10年 × 10年 | 长期保险公司／结构化票据对冲 |
+| 10年 × 20年、20年 × 30年 | 长期限保险公司 ALM 和养老基金对冲 |
 
-日元的波动率惯例在 IBOR 过渡期间在 Black 对数正态与正态波动率（基点/年）之间有所转变；正态波动率报价现已更为常见，尤其当绝对利率水平低、百分比波动率变得不稳定时。
+日元的波动率惯例在 IBOR 转换期间在 Black 对数正态与正态波动率（bp／年）之间有所变化；正态波动率报价如今更为常见，尤其在绝对利率水平较低、百分比波动率变得不稳定时。
 
-该网格由交易商间报价、经纪商屏幕（Tradition、ICAP、BGC、Tullett Prebon）及交易商银行 IR 资料构建。完整的波动率曲面也是为 [[derivatives/japan-cms-constant-maturity-swap|CMS]] 与 CMS 利差衍生品定价的关键输入。
+该网格由交易商间报价、经纪商屏幕（Tradition、ICAP、BGC、Tullett Prebon）及交易商银行 IR 资料构建。完整的波动率曲面也是为 [[derivatives/japan-cms-constant-maturity-swap|CMS]] 和 CMS 价差衍生品定价的关键输入。
 
-## 付款方对收款方流
+## 付款方对收款方资金流
 
-日元掉期期权的结构性流失衡在不同期限倾向不同侧：
+日元掉期期权中的结构性资金流失衡在不同期限倾向于不同侧：
 
-| 流来源 | 方向 | 期限集中度 |
+| 资金流来源 | 方向 | 期限集中 |
 |---|---|---|
-| 寿险公司（可变年金对冲） | **买入收款方**（做多收款方掉期期权）——对冲利率进一步下跌，因其会增加保单持有人保证的价值 | 长期限（10Y × 20Y、20Y × 30Y） |
-| 寿险公司（一般账户 ALM） | **卖出收款方**（长期债券组合的收益增强）或 **买入收款方**（下行对冲） | 长期限 |
-| 大型银行财资（IRRBB 对冲） | 混合；担忧利率上升时 **买入付款方** | 中期限（3Y、5Y、7Y） |
-| 结构性票据发行方（可赎回债券对冲） | **买入百慕大收款方**（对冲其向投资者卖出的赎回期权） | 中至长；匹配票据结构 |
-| 外国宏观基金 | 双侧；战术观点驱动 | 混合 |
-| 企业财资 | 直接流有限；更多依赖 [[derivatives/japan-irs-market|outright IRS]] 对冲 |  |
+| 寿险公司（变额年金对冲） | **买入收款方**（做多收款方掉期期权）——以对冲利率进一步下降，因其会增加保单持有人保证的价值 | 长期限（10年 × 20年、20年 × 30年） |
+| 寿险公司（一般账户 ALM） | **卖出收款方**（长期债券组合的收益增强）或**买入收款方**（下行对冲） | 长期限 |
+| 巨型银行资金部门（IRRBB 对冲） | 混合；担忧利率上升时**买入付款方** | 中期限（3年、5年、7年） |
+| 结构化票据发行人（可赎回债券对冲） | **买入百慕大收款方**（以对冲其向投资者写出的赎回期权） | 中至长期；与票据结构匹配 |
+| 外国宏观基金 | 两侧；由战术性观点驱动 | 混合 |
+| 企业资金部门 | 有限的直接资金流；更依赖 [[derivatives/japan-irs-market|outright IRS]] 对冲 |  |
 
-保险公司对长期收款方掉期期权的需求是长端波动率曲面的结构性驱动因素。2024  后 BoJ 制度转变（退出 NIRP / YCC）实质性改变了收款方波动率定价动态，因为此前十年近零利率环境压缩了收款方价值并将付款方掉期期权活动推至前台；正常化的利率制度增加了收款方对冲的实际价值。
+保险公司对长期收款方掉期期权的需求是长端波动率曲面的结构性驱动因素。2024 年以来的日银体制转变（退出 NIRP／YCC）实质性地改变了收款方波动率定价动态，因为此前十年接近零利率的环境压缩了收款方价值并将付款方掉期期权活动推至前台；一个正常化的利率体制提升了收款方对冲的实务价值。
 
 ## 百慕大可赎回掉期期权
 
-百慕大掉期期权允许在预先定义的一组日期行权（而非单一欧式日期或连续）。日元中最常见的百慕大结构是嵌入日元计价债券或票据的可赎回结构：
+百慕大掉期期权允许在一组预先确定的日期行权（而非单一欧式日期或连续行权）。日元中最常见的百慕大结构是嵌入日元计价债券或票据中的可赎回项：
 
 | 结构 | 嵌入期权 |
 |---|---|
-| 可赎回债券（发行方可赎回） | 债券发行方有权在指定日期赎回债券；等同于发行方对一项固定利率负债做多百慕大收款方掉期期权 |
-| 可回售债券（投资者可回售） | 投资者回售权；较不常见；等同于投资者做多百慕大付款方（从发行方视角） |
-| 可取消掉期 | 带有嵌入式取消权的掉期；常见于结构性企业对冲 |
-| 可赎回结构性票据 | 支付票息的票据，带有定期发行方赎回权；发行方经由百慕大收款方掉期期权对冲 |
+| 可赎回债券（发行人可赎回） | 债券发行人有权在指定日期赎回债券；等价于发行人就一笔固定利率负债做多一份百慕大收款方掉期期权 |
+| 可回售债券（投资者可回售） | 投资者回售权利；较不常见；（从发行人视角）等价于投资者做多百慕大付款方 |
+| 可取消掉期 | 嵌有取消权的掉期；在结构化企业对冲中常见 |
+| 可赎回结构化票据 | 带有定期发行人赎回权的付息票据；发行人通过百慕大收款方掉期期权对冲 |
 
-为百慕大掉期期权定价比欧式掉期期权复杂得多，因为每个日期的行权决策取决于利率水平与期权的持有价值。标准定价方法包括 Hull-White 单因子或多因子短期利率模型、LIBOR 市场模型，以及带有基于回归的行权规则的蒙特卡洛法（Longstaff-Schwartz）。
+为百慕大掉期期权定价比欧式掉期期权实质上更为复杂，因为每个日期的行权决策取决于利率水平和期权的继续价值。标准定价方法包括 Hull-White 单因子或多因子短期利率模型、LIBOR 市场模型，以及带有基于回归的行权规则的蒙特卡洛（Longstaff-Schwartz）。
 
-日元百慕大掉期期权成交量集中于长期限结构，并作为庞大的日元可赎回债券 / 结构性票据发行市场的对冲工具（在 [[derivatives/structured-bond-japan-retail-issuance|JPY structured bond retail issuance]] 及企业融资中有所触及）。
+日元百慕大掉期期权交易量集中于长期限结构，并作为相当规模的日元可赎回债券／结构化票据发行市场（在 [[derivatives/structured-bond-japan-retail-issuance|JPY structured bond retail issuance]] 和企业融资中提及）的对冲工具。
 
-## 寿险公司可变年金（GMxB）对冲
+## 寿险公司变额年金（GMxB）对冲
 
-提供带有最低保证给付（GMxB——GMDB、GMAB、GMIB、GMWB）的可变年金（VA）产品的寿险公司，在其资产负债表上嵌入了大量利率波动率风险。尽管日本 VA 市场小于美国市场且已从 2000 年代中期峰值收缩，残余 VA 块（及现代变体）仍需主动对冲：
+提供带有保证最低给付（GMxB — GMDB、GMAB、GMIB、GMWB）的变额年金（VA）产品的寿险公司，在其资产负债表上嵌入了相当规模的利率波动率风险。尽管日本 VA 市场小于美国市场且已从 2000年代中期峰值收缩，残余 VA 块（及现代变体）仍需主动对冲：
 
 | 保证类型 | 对保险公司的风险 | 对冲工具 |
 |---|---|---|
-| GMDB（最低身故给付保证） | 与死亡率挂钩的股票下行；对利率敏感的保证价值 | 股票看跌期权 + 收款方掉期期权组合 |
-| GMAB（最低累积给付保证） | 股票下行；保证现值的利率敏感性 | 股票看跌期权 + 收款方掉期期权 |
-| GMIB（最低收入给付保证） | 长期年金利率敏感性；大量 rho 敞口 | 收款方掉期期权序列；长期掉期期权 |
-| GMWB（最低提取给付保证） | 股票 / 利率 / 行为组合风险 | 含收款方掉期期权的多资产动态对冲 |
+| GMDB（保证最低死亡给付） | 死亡率挂钩的股票下行；利率敏感的保证价值 | 股票看跌 ＋ 收款方掉期期权组合 |
+| GMAB（保证最低累积给付） | 股票下行；保证现值的利率敏感性 | 股票看跌 ＋ 收款方掉期期权 |
+| GMIB（保证最低收入给付） | 长期年金利率敏感性；可观的 rho 敞口 | 收款方掉期期权条带；长期掉期期权 |
+| GMWB（保证最低提取给付） | 股票／利率／行为的复合风险 | 包含收款方掉期期权的多资产动态对冲 |
 
-一般模式：在 1990 年代至 2000 年代 NIRP 之前承保 VA 的保险公司，如今面对在低利率环境下深度价内的保证，需要大量收款方掉期期权对冲头寸。随着日元利率正常化，这些对冲产生亏损，但底层保证价值同步下降；动态对冲计划抵消了这些变动。
+一般模式：在 NIRP 之前的 1990年代-2000年代写出 VA 的保险公司，如今面临在低利率环境中深度 ITM 的保证，需要相当规模的收款方掉期期权对冲头寸。随着日元利率正常化，这些对冲产生损失，但基础保证价值同步下降；动态对冲计划将这些变动相互抵销。
 
-正为日本保险公司分阶段引入的 [[insurance/economic-value-based-solvency|economic-value-based solvency (ESR)]] 框架使利率波动率敞口更加明确，尤其增加了对长期收款方掉期期权对冲的结构性需求。更广泛的 ALM 背景另见 [[insurance/japan-life-insurance-alm-overview]]。
+为日本保险公司分阶段引入的 [[insurance/economic-value-based-solvency|economic-value-based solvency (ESR)]] 框架使利率波动率敞口更加明确，提升了对长期收款方掉期期权对冲的结构性需求。更广泛的 ALM 语境亦请参见 [[insurance/japan-life-insurance-alm-overview]]。
 
-日本的外资寿险公司关联机构（在 [[insurance/foreign-life-affiliate-japan-positioning]] 中涵盖）历来在掉期期权对冲上尤为活跃，因为其母集团风险管理框架要求对保证进行明确的衍生品对冲。
+日本的外资寿险关联公司（在 [[insurance/foreign-life-affiliate-japan-positioning]] 中涵盖）历史上在掉期期权对冲方面尤为活跃，因为其母集团风险管理框架要求对保证进行明确的衍生品对冲。
 
-## 交易商业务
+## 交易商特许经营
 
-日元掉期期权做市集中于主要银行关联证券公司与全球投资银行：
+日元掉期期权做市集中于主要银行系证券公司和全球投资银行：
 
 | 交易商类别 | 代表性公司 |
 |---|---|
-| 日本大型银行证券关联机构 | MUFG Securities、SMBC Nikko、Mizuho Securities（及其利率交易内的掉期衍生品部门） |
-| 独立日本证券公司 | Nomura、Daiwa Securities（掉期期权业务规模小于大型银行） |
-| 全球投资银行 | JPMorgan、Goldman Sachs、Citi、Morgan Stanley、Deutsche Bank、Barclays、BNP Paribas、HSBC、UBS（在日元掉期期权上活跃，服务跨境流与保险公司对冲计划） |
+| 日本巨型银行证券关联公司 | MUFG 证券、SMBC 日兴、瑞穗证券（及其利率交易内的掉期衍生品交易台） |
+| 独立日本证券公司 | 野村、大和证券（掉期期权特许经营小于巨型银行） |
+| 全球投资银行 | JPMorgan、Goldman Sachs、Citi、Morgan Stanley、Deutsche Bank、Barclays、BNP Paribas、HSBC、UBS（在日元掉期期权中活跃，用于跨境资金流和保险公司对冲计划） |
 | 交易商间经纪商 | Tradition、ICAP、BGC、Tullett Prebon |
 
-日元掉期期权的交易商收入是交易商银行 IR 中更广泛的利率 / 固定收益做市条目的一部分；不单独披露。
+来自日元掉期期权的交易商收益是交易商银行 IR 中更广泛的利率／固定收益做市条线的一部分；不单独披露。
 
 ## 清算状态
 
-与大体在 [[securities/japan-securities-clearing-corp|JSCC]] 清算的标准日元 IRS 不同，掉期期权历来主要以双边方式交易。JSCC 与其他 CCP 已在某些货币中扩展掉期期权清算能力；日元掉期期权清算仍属较新且范围比普通 IRS 更窄。大多数保险公司 / 结构性票据对冲掉期期权流为双边，依据 ISDA 主协议与 CSA 立约，并对超过门槛的非清算交易适用 UMR 阶段初始保证金（IM）要求。
+与主要在 [[securities/japan-securities-clearing-corp|JSCC]] 清算的标准日元 IRS 不同，掉期期权历史上主要以双边方式交易。JSCC 及其他 CCP 已在部分货币中扩展掉期期权清算能力；日元掉期期权清算仍比普通 IRS 更新且范围更窄。大多数保险公司／结构化票据对冲掉期期权资金流为双边，在 ISDA 主协议和 CSA 下进行文档化，并对超过阈值的非清算交易遵循 UMR 阶段 IM 要求。
 
-## Related
+## 相关
 
 - [[derivatives/INDEX]]
 - [[derivatives/japan-irs-market]]
@@ -148,12 +148,12 @@ This entry sits under [[derivatives/INDEX|derivatives index]] in the interest-ra
 - [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- BIS: Semi-annual OTC Derivatives Statistics (JPY interest-rate options, including swaptions, notional and gross market value).
-- Bank of Japan: Japan portion of BIS OTC derivatives survey.
-- Japan Securities Clearing Corporation: JPY OTC clearing scope.
-- Financial Services Agency: FIEA framework on OTC derivatives and ESR-related supervisory guidance.
-- ISDA: Standard documentation, swaption definitions, 2020 IBOR Fallbacks Protocol.
-- Industry publications (Risk, GlobalCapital, Practical Law) on swaption market practice.
-- National Association of Insurance Commissioners (US): For comparison, US variable annuity / GMxB hedging practice.
+- BIS：半年度场外衍生品统计（日元利率期权，含掉期期权，名义本金及总市场价值）。
+- 日本银行：BIS 场外衍生品调查的日本部分。
+- 日本证券清算机构：日元场外清算范围。
+- 金融厅：关于场外衍生品的 FIEA 框架及 ESR 相关监督指引。
+- ISDA：标准文档、掉期期权定义、2020 IBOR 回退协议。
+- 行业刊物（Risk、GlobalCapital、Practical Law）关于掉期期权市场实践。
+- 全美保险监督官协会（美国）：作为比较的美国变额年金／GMxB 对冲实践。

@@ -1,23 +1,23 @@
 ---
 source: cooperative-banks/ja-bank-tokyo-shinren
-source_hash: 50cb603799ccde41
+source_hash: 9fb2ef5dc9459902
 lang: ja
 status: machine
 fidelity: ok
 title: "JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)"
-translated_at: 2026-06-02T14:25:12.389Z
+translated_at: 2026-06-18T23:33:48.273Z
 ---
 # JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下にあり、FinWiki で **初の JA バンク都道府県信用農業協同組合連合会（信連）の事業会社アンカー**として位置づける。JA 信連（集合的）は記録済みだが都道府県別信連のアンカーがなかった監査上の空白を埋める。東京は **都市農業 + 直結方式の境界事例**として重要であり、東京信連では 2010年代後半に直結方式への移行論議があった。全国レベルの都道府県連合会文脈は [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]、共済側の都道府県ピアは [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、制度境界は [[banking/ja-bank-system-japan|JA Bank system]] とあわせて読む。
+本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に、**FinWiki における初の JA バンク都道府県信用農業協同組合連合会(信連)運営会社アンカー**として位置する。これは、JA 信連(集合的)は記録されていたが、都道府県信連のアンカーが存在しなかったという監査ギャップを埋めるものである。東京が選ばれたのは、その **都市農業 + 直結方式(direct-link)の境界事例** としての関連性による — 東京信連は 2010 年代後半に直結方式への移行論議を抱えていた。全国レベルの都道府県連合会の文脈については [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]、共済側の都道府県 peer については [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]、その上位の中央機関については [[cooperative-banks/norinchukin|農林中央金庫]]、システム境界については [[banking/ja-bank-system-japan|JA Bank system]] と併読すること。
 
-## 要約
+## TL;DR
 
-**JA バンク東京信連 = 東京都内の JA (8 JA 内) の信用事業中間層連合会**。農業協同組合法を根拠とする都道府県信用農業協同組合連合会 (信連) の一つ。31 信連 (2025-04-01 時点) の中で **首都圏 + 都市農業特性** + **直結方式 (JA → 農林中金 直結) 移行論議の中心**となった代表的信連。役割は **(1) 都内 8 JA からの余資集約**、**(2) 余資の [[cooperative-banks/norinchukin|農林中央金庫]] への預け入れ + 自主運用**、**(3) 都内 JA への融資・流動性供給**、**(4) 都市農業地域での組合員サービス基盤提供**。**東京 = 都市農業 (練馬・足立・葛飾・八王子等) + 観光農業 (青梅・奥多摩) + JA 多摩 + JA 東京あおば + JA 東京中央 + JA 世田谷目黒 + JA 八王子 + JA 西東京** という独特の組合員構造で、地方信連と異なる **都市信連モデル**を構成する。^[extracted]
+**JA バンク東京信連 = 東京都内の JA(8 JA 内)の信用事業中間層連合会**。農業協同組合法を根拠とする都道府県信用農業協同組合連合会(信連)の一つ。31 信連(2025-04-01 時点)の中で **首都圏 + 都市農業特性** + **直結方式(JA → 農林中金 直結)移行論議の中心**となった代表的信連。役割は **(1) 都内 8 JA からの余資集約**、**(2) 余資の [[cooperative-banks/norinchukin|農林中央金庫]] への預け入れ + 自主運用**、**(3) 都内 JA への融資・流動性供給**、**(4) 都市農業地域での組合員サービス基盤提供**。**東京 = 都市農業(練馬・足立・葛飾・八王子等) + 観光農業(青梅・奥多摩) + JA 多摩 + JA 東京あおば + JA 東京中央 + JA 世田谷目黒 + JA 八王子 + JA 西東京** という独特の組合員構造で、地方信連と異なる **都市信連モデル**を構成する。^[extracted]
 
-## 1. ライセンス / 組織構造
+## 1. License / 組織構造
 
 | 項目 | 内容 |
 |---|---|
@@ -25,18 +25,18 @@ translated_at: 2026-06-02T14:25:12.389Z
 | 通称 | 東信連 / 東京都信連 / JA バンク東京 |
 | 英名 | JA Tokyo Shinren / Tokyo Prefectural Credit Federation of Agricultural Cooperatives |
 | 法的形態 | **農協法に基づく都道府県信用事業連合会** |
-| 系統 | [[cooperative-banks/norinchukin|農林中央金庫]] 直系 (信連→農林中金) |
+| 系統 | [[cooperative-banks/norinchukin|農林中央金庫]] 直系(信連→農林中金) |
 | 監督官庁 | 金融庁・関東財務局 + 農林水産省 + 東京都産業労働局農林水産部 |
-| ホームマーケット | 東京都全域 (23 区 + 多摩) |
-| ウィキ上の役割 | **初の JA バンク都道府県信用農業協同組合連合会（信連）事業会社アンカー**（都市信連の代表事例） |
+| ホームマーケット | 東京都全域(23 区 + 多摩) |
+| Wiki role | **First JA-Bank prefectural credit-federation operating-company anchor**(都市信連の代表事例) |
 
 ### 都市信連としての特徴 ^[extracted]
 
-| 軸 | 一般地方信連 (例: 福島・新潟) | **JA バンク東京信連 (本ページ)** |
+| 軸 | 一般地方信連(例: 福島・新潟) | **JA バンク東京信連(本ページ)** |
 |---|---|---|
-| 組合員農地 | 大規模水田 + 畜産 | **都市農業 (練馬・足立・葛飾・八王子)** |
+| 組合員農地 | 大規模水田 + 畜産 | **都市農業(練馬・足立・葛飾・八王子)** |
 | 組合員職業 | 専業農家中心 | **兼業農家・遊休農地保有者・地域住民** |
-| 預金規模 | 数兆〜数十兆円 | **約 2.56 兆円 (貯金、2024-12-24 現在) — 信連内で中規模** |
+| 預金規模 | 数兆〜数十兆円 | **約 2.56 兆円(貯金、2024-12-24 現在) — 信連内で中規模** |
 | 経営課題 | 農業従事者高齢化 | **農地都市化 + 相続税対策 + 生産緑地問題** |
 | メガバンク併合 | 競合限定 | **メガバンク・地銀との直接競合** |
 
@@ -49,45 +49,45 @@ translated_at: 2026-06-02T14:25:12.389Z
 | 1980〜90 年代 | 23 区内農地の急速な都市化 → 都内 JA 統合進行 |
 | 2000〜 | [[cooperative-banks/norinchukin|農林中央金庫]] の系統一体運営加速 |
 | **2002〜** | [[banking/ja-bank-system-japan|JA Bank system]] 稼働、都内 JA + 信連 + 農林中金一体運営化 |
-| **2025-04-01** | **31 信連体制内で東京都信連は継続稼働** ([[cooperative-banks/norinchukin|農林中金]] 公開資料) ^[extracted] |
+| **2025-04-01** | **31 信連体制内で東京都信連は継続稼働**([[cooperative-banks/norinchukin|農林中金]] 公開資料) ^[extracted] |
 
-### 4 大機能 (信連共通) ^[extracted]
+### 4 大機能(信連共通) ^[extracted]
 
 | 機能 | 内容 |
 |---|---|
-| **余資集約** | 都内 8 JA からの余資 (組合員預金の超過分) を集約 |
+| **余資集約** | 都内 8 JA からの余資(組合員預金の超過分)を集約 |
 | **中央への預け入れ** | 集約した余資を [[cooperative-banks/norinchukin|農林中央金庫]] への系統預け金として上納 |
-| **自主運用** | 一部は東信連自身で機関投資 (国債・地方債等) |
+| **自主運用** | 一部は東信連自身で機関投資(国債・地方債等) |
 | **域内 JA 支援** | 経営指導・流動性供給・JASTEM システム連携 |
 
-### 規模感 (2024-12-24 現在、当会公表値)
+### 規模感(2024-12-24 現在、当会公表値)
 
-- **東信連総資産**: 約 2 兆 7,843 億円 (都市信連としては中規模)
+- **東信連総資産**: 約 2 兆 7,843 億円(都市信連としては中規模)
 - **東信連貯金**: 約 2 兆 5,633 億円
 - **東信連貸出金**: 約 3,113 億円
 - **東信連出資金**: 約 1,356 億円
 - **東信連職員数**: 139 名
-- **店舗数**: 1 店 (代理店 1 店)
+- **店舗数**: 1 店(代理店 1 店)
 - **設立**: 1948-08 / **本店**: 東京都立川市柴崎町
 
-> 注: 上記は当会「当会の概要」公表値 (2024-12-24 現在)。Wikipedia / Weblio は 2021-03-31 時点で貯金 約 2 兆 8,433 億円・貸出金 約 3,407 億円・職員 147 名を記載。会員 JA 数の正確な内訳は当会 IR + JA 東京中央会を要参照。
+> 注: 上記は当会「当会の概要」公表値(2024-12-24 現在)。Wikipedia / Weblio は 2021-03-31 時点で貯金 約 2 兆 8,433 億円・貸出金 約 3,407 億円・職員 147 名を記載。会員 JA 数の正確な内訳は当会 IR + JA 東京中央会を要参照。
 
 ### 31 信連内での東信連の位置
 
-- 地方信連 (北海道・福島・新潟等) と異なる **「都市農業 + 兼業 + 観光」**特性
+- 地方信連(北海道・福島・新潟等)と異なる **「都市農業 + 兼業 + 観光」**特性
 
 ### 都市農業対応の固有戦略
 
 - **1992 年生産緑地法**: 30 年指定で都内農地を保全 → 2022 年指定解除タイミング
-- **生産緑地法改正 (2018)**: 特定生産緑地 + 都市農業振興基本法で農地継続支援
+- **生産緑地法改正(2018)**: 特定生産緑地 + 都市農業振興基本法で農地継続支援
 
 ### システム共同化
 
-- ATM 共同ネットワーク (JA カード相互利用)
+- ATM 共同ネットワーク(JA カード相互利用)
 
 ## 4. KPI
 
-| 指標 | 値 (2024-12-24 現在) | 出典 |
+| 指標 | 値(2024-12-24 現在) | 出典 |
 |---|---|---|
 | 東信連総資産 | 約 2 兆 7,843 億円 | 当会「当会の概要」 |
 | 東信連貯金残高 | 約 2 兆 5,633 億円 | 同上 |
@@ -95,31 +95,31 @@ translated_at: 2026-06-02T14:25:12.389Z
 | 東信連出資金 | 約 1,356 億円 | 同上 |
 | 職員数 | 139 名 | 同上 |
 
-> 注: 31 信連全体での詳細 KPI は [[cooperative-banks/norinchukin|農林中金]] 公開資料 + 各信連 IR 要参照。Wikipedia / Weblio は 2021-03-31 時点値 (貯金 約 2 兆 8,433 億円、貸出金 約 3,407 億円、出資金 約 1,313 億円、職員 147 名) を記載。
+> 注: 31 信連全体での詳細 KPI は [[cooperative-banks/norinchukin|農林中金]] 公開資料 + 各信連 IR 要参照。Wikipedia / Weblio は 2021-03-31 時点値(貯金 約 2 兆 8,433 億円、貸出金 約 3,407 億円、出資金 約 1,313 億円、職員 147 名)を記載。
 
 ## 5. 監督・規制
 
-- **主管**: 金融庁・関東財務局 (信用事業健全性) + 農林水産省 (協同組合監督) + 東京都 (都組合監督)
-- **法的根拠**: 農業協同組合法 (信用事業連合会条項)
+- **主管**: 金融庁・関東財務局(信用事業健全性) + 農林水産省(協同組合監督) + 東京都(都組合監督)
+- **法的根拠**: 農業協同組合法(信用事業連合会条項)
 - **直近政策論点**:
   - **直結方式移行**の継続議論
   - **生産緑地 2022 問題後**の都市農業継続支援
   - **JASTEM 高度化** + DX 推進
   - **2024〜農林中金米債損失** の信連配当への影響
-  - **食料安全保障計画 (2026〜)** での都市信連の役割
+  - **食料安全保障計画(2026〜)** での都市信連の役割
 
-## 関連項目
+## 関連
 
-- [[cooperative-banks/ja-shinnoren]] — JA 信連 (全国集合エントリ、本県信連の上位カテゴリ)
-- [[cooperative-banks/ja-kyosairen-fukushima]] — JA 共済連福島 （都道府県別ピア・アンカー / 共済側）
-- [[non-life-insurers/ja-kyosairen]] — JA 共済連 （本都道府県エントリの共済側全国対応）
-- [[cooperative-banks/ja-zenchu]] — JA 全中 (代表)
-- [[cooperative-banks/ja-zen-noh]] — JA 全農 (経済事業)
-- [[cooperative-banks/norinchukin]] — 農林中央金庫 (本信連の上位中央)
-- [[cooperative-banks/jf-marine-bank-hokkaido]] — JF Marine Bank 北海道 （漁協系の都道府県別ピア）
-- [[cooperative-banks/jf-shingyoren]] — JF 信漁連 (漁協系全国集合)
-- [[regional-banks/yokohama-bank]] — 横浜銀行 （関東地銀ピア）
-- [[banking/ja-bank-system-japan]] — JA バンクシステム
+- [[cooperative-banks/ja-shinnoren]] — JA 信連(全国集合エントリ、本県信連の上位カテゴリ)
+- [[cooperative-banks/ja-kyosairen-fukushima]] — JA 共済連福島(peer prefectural anchor / 共済側)
+- [[non-life-insurers/ja-kyosairen]] — JA 共済連(本 prefectural の共済側全国対応)
+- [[cooperative-banks/ja-zenchu]] — JA 全中(代表)
+- [[cooperative-banks/ja-zen-noh]] — JA 全農(経済事業)
+- [[cooperative-banks/norinchukin]] — 農林中央金庫(本信連の上位中央)
+- [[cooperative-banks/jf-marine-bank-hokkaido]] — JF Marine Bank 北海道(漁協系 peer prefectural)
+- [[cooperative-banks/jf-shingyoren]] — JF 信漁連(漁協系全国集合)
+- [[regional-banks/yokohama-bank]] — 横浜銀行(関東地銀 peer)
+- [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
@@ -127,13 +127,13 @@ translated_at: 2026-06-02T14:25:12.389Z
 
 - **JA Bank system 公式**: https://www.jabank.org/about/sikumi/banksystem/
 - **JA 東京中央会**: https://www.ja-tokyo.or.jp/
-- **JA バンク東京信連「当会の概要」** (財務諸数値 2024-12-24 現在): http://shinren.jatokyo.or.jp/organization.html
-- **Wikipedia「東京都信用農業協同組合連合会」** (財務諸数値 2021-03-31 現在、設立・本店): https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会
-- **農林中央金庫 特徴 (2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
+- **JA バンク東京信連「当会の概要」**(財務諸数値 2024-12-24 現在): http://shinren.jatokyo.or.jp/organization.html
+- **Wikipedia「東京都信用農業協同組合連合会」**(財務諸数値 2021-03-31 現在、設立・本店): https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会
+- **農林中央金庫 特徴(2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
-- 農業協同組合法 (昭和 22 年法律第 132 号)
+- 農業協同組合法(昭和 22 年法律第 132 号)
 - 生産緑地法・都市農業振興基本法
 
 ---
 
-> [!info] 検証状態
+> [!info] 校核状態

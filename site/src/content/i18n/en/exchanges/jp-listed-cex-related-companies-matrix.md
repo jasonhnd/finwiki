@@ -1,14 +1,14 @@
 ---
 source: exchanges/jp-listed-cex-related-companies-matrix
-source_hash: 631e046190ff5c23
+source_hash: 1d362e8aecdda2fe
 lang: en
 status: machine
 fidelity: ok
-title: "Domestic Listed CEX-Related Companies Matrix — TSE / Nasdaq Listings + Holding Companies"
-translated_at: 2026-05-31T06:16:15.655Z
+title: "Japan listed CEX-related companies matrix — TSE / Nasdaq listings + holding-company list"
+translated_at: 2026-06-18T23:33:48.347Z
 ---
 
-# Domestic Listed CEX-Related Companies Matrix — TSE / Nasdaq Listings + Holding Companies
+# Japan listed CEX-related companies matrix — TSE / Nasdaq listings + holding-company list
 
 ## Wiki route
 
@@ -16,33 +16,33 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-A consolidated list of CEXes (crypto asset exchange operators) with a base in Japan that are either subsidiaries of listed companies or are themselves listed. Covers Prime + Standard + Nasdaq + US OTC, and maps the routes through which institutional and retail investors can gain secondary-market exposure to the Japan CEX sector. Reference: [[exchanges/jp-vasp-parent-company-map]].
+Among the CEXs (crypto-asset exchange operators) with bases in Japan, this lists those that are under listed companies or that are themselves listed. Covering Prime + Standard + Nasdaq + US OTC, it organizes the routes through which institutional and individual investors can gain exposure to the Japanese CEX industry via the secondary market. See: [[exchanges/jp-vasp-parent-company-map]].
 
-## Direct / Immediate Parent Company Listing Matrix
+## Self / direct-parent listing matrix
 
-| Parent | Market | Code | CEX subsidiary |
+| Parent company | Market | Ticker | CEX under it |
 |---|---|---|---|
-| **Coincheck Group N.V.** | NASDAQ | CNCK (listed 2024-12 ) | [[exchanges/jp-exchange-coincheck]] (Dutch entity via SPAC) |
-| **Monex Group** | TSE Prime | 8698  | Coincheck parent + [[exchanges/jp-exchange-monex]] derivatives parent |
-| **SBI HD** | TSE Prime | 8473  | [[exchanges/jp-exchange-sbi-vc-trade]] + SBI FXT + SBI Securities parent |
-| **GMO Internet Group** | TSE Prime | 9449  | [[exchanges/jp-exchange-gmo-coin]] parent |
-| **Money Partners G** | TSE → delisted | (2025-02) | [[exchanges/jp-exchange-money-partners]] parent |
-| **Traders HD** | TSE Standard | 8704  | [[exchanges/jp-exchange-traders-securities]] parent |
-| **JN Group** | TSE | 6634  | [[exchanges/jp-exchange-zaif]] (wholly owned from 2025-07 ) parent |
-| **Ceres** | TSE Prime | 3696  | [[exchanges/jp-exchange-mercury]] (CoinTrade) parent |
-| **OSL Group** | HKEX | 863.HK | [[exchanges/jp-exchange-osl-japan]] parent |
-| **Gaudiy Group** | Unlisted | — | Cumulative funding 134 億 |
+| **Coincheck Group N.V.** | NASDAQ | CNCK (listed 2024-12 ) | [[exchanges/jp-exchange-coincheck]] (via a Dutch-entity SPAC) |
+| **Monex Group** | TSE Prime | 8698 | parent of Coincheck + derivatives parent of [[exchanges/jp-exchange-monex]] |
+| **SBI HD** | TSE Prime | 8473 | parent of [[exchanges/jp-exchange-sbi-vc-trade]] + SBI FXT + SBI Securities |
+| **GMO Internet Group** | TSE Prime | 9449 | parent of [[exchanges/jp-exchange-gmo-coin]] |
+| **Money Partners Group** | TSE → delisted | (2025-02) | parent of [[exchanges/jp-exchange-money-partners]] |
+| **Traders HD** | TSE Standard | 8704 | parent of [[exchanges/jp-exchange-traders-securities]] |
+| **JN Group** | TSE | 6634 | parent of [[exchanges/jp-exchange-zaif]] (made a wholly owned subsidiary 2025-07 ) |
+| **Ceres** | TSE Prime | 3696 | parent of [[exchanges/jp-exchange-mercury]] (CoinTrade) |
+| **OSL Group** | HKEX | 863.HK | parent of [[exchanges/jp-exchange-osl-japan]] |
+| **Gaudiy Group** | unlisted | — | cumulative fundraising 134 億 |
 
-## Via Overseas-Listed Parent
+## Via overseas-listed parent companies
 
 - **Coinbase Global** (NASDAQ: COIN) → [[exchanges/jp-exchange-coinbase-japan]] (Japan dormant)
-- **HashKey Group** (IPO in preparation) → [[exchanges/jp-exchange-tokyo-hash]]
+- **HashKey Group** (preparing for listing) → [[exchanges/jp-exchange-tokyo-hash]]
 - **Nomura HD** (TSE Prime 8604) → [[exchanges/jp-exchange-laser-digital-japan]]
 
-## Investor Implications
+## Investor implications
 
-- **Direct exposure to Japan CEX sector**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group are the primary routes. For parent-company profiles, see [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]].
-- **Institutional allocation**: Routes through large financial conglomerates (Monex / SBI / Nomura) are most practical. The only pure-play listed vehicle is CNCK.
-- **Exit / contraction (counter-examples)**: Money Partners G delisted, LINE Xenesis wound down, DMM Bitcoin closed — pure-play independent operations have proved difficult to sustain in capital markets. Reference: [[exchanges/jp-vasp-ma-consolidation-history]].
+- **Direct exposure to the Japanese CEX industry**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group are the main routes. For parent-company profiles, also read [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]].
+- **Institutional allocation**: going via large financial conglomerates (Monex / SBI / Nomura) is realistic. The only specialist listing is CNCK.
+- **Withdrawal / contraction (counter-examples)**: Money Partners Group delisting, LINE Xenesis termination, DMM Bitcoin wind-down — specialist independents struggle to sustain themselves in the capital markets. See: [[exchanges/jp-vasp-ma-consolidation-history]].
 
-Sources: compiled from public information (TSE/Nasdaq disclosures, EDINET, listed-company IR and annual securities reports, FSA registered crypto asset exchange operator list)
+Source: compilation of public information (TSE/Nasdaq disclosures, EDINET, each listed company's IR / securities reports, FSA crypto-asset exchange operator registration list)

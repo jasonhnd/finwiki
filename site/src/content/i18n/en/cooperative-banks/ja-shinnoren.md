@@ -1,131 +1,131 @@
 ---
 source: cooperative-banks/ja-shinnoren
-source_hash: 68220c94967c30ff
+source_hash: 8eb36497552bbd47
 lang: en
 status: machine
 fidelity: ok
 title: "JA Shinnoren (Prefectural Credit Federations of Agricultural Cooperatives)"
-translated_at: 2026-05-31T23:59:49.320Z
+translated_at: 2026-06-18T23:33:48.308Z
 ---
 # JA Shinnoren (Prefectural Credit Federations of Agricultural Cooperatives)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **prefectural credit-federation layer** of the [[banking/ja-bank-system-japan|JA Bank system]], sitting between local JA (497  cooperatives) and the national central institution [[cooperative-banks/norinchukin|農林中央金庫]]. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the fishery-side equivalent and [[banking/cooperative-banking-japan|cooperative banking domain]] for the wider context.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **prefectural credit-federation layer** of the [[banking/ja-bank-system-japan|JA Bank system]], sitting between local JA (497 cooperatives) and the national central institution [[cooperative-banks/norinchukin|農林中央金庫]]. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the fishery-side equivalent and [[banking/cooperative-banking-japan|cooperative banking domain]] for the wider context.
 
 ## TL;DR
 
-**The prefectural middle layer of the JA Bank system = Prefectural Credit Federations of Agricultural Cooperatives (Shinnoren)**. These are **prefectural credit-business federations** based on the Agricultural Cooperatives Act. According to official materials from [[banking/ja-bank-system-japan|JA Bank system]] (as of 2025-04-01), **31  prefectural Shinnoren** are in operation (some prefectures have shifted to a direct JA -> Norinchukin Bank model without going through a Shinnoren). Their roles are **(1) aggregating surplus funds from local JAs (deposits)**, **(2) depositing surplus funds with the central institution ([[cooperative-banks/norinchukin|農林中央金庫]]) + self-management**, **(3) lending and liquidity provision to local JAs**, and **(4) management guidance and system provision to local JAs**. The structure resembles the two-stage structures of **shinkin banks -> [[cooperative-banks/shinkin-central|信金中央金庫]]** and **credit cooperatives -> [[cooperative-banks/zenshin-kumi|全信組連]]**, but JA Bank has a **three-stage structure of "497  JA -> 31  Shinnoren -> Norinchukin Bank"** (with some "JA -> Norinchukin Bank direct" cases). ^[extracted]
+**The prefectural intermediate layer of the JA Bank system = the Prefectural Credit Federations of Agricultural Cooperatives (Shinnoren)**. Prefectural-unit **credit-business federations** grounded in the Agricultural Cooperatives Act. Per [[banking/ja-bank-system-japan|JA Bank system]] official materials (as of 2025-04-01), **31  prefectural Shinnoren** are operating (some prefectures have shifted to a JA → Norinchukin direct-link method that bypasses the Shinnoren). Their roles are **(1) aggregating surplus funds (deposits) from JA within the region**, **(2) depositing surplus funds with the central institution ([[cooperative-banks/norinchukin|農林中央金庫]]) + self-directed management**, **(3) supplying loans / liquidity to JA within the region**, and **(4) providing management guidance / systems to JA within the region**. This resembles the two-tier structure of **credit unions → [[cooperative-banks/shinkin-central|信金中央金庫]]** and **credit cooperatives → [[cooperative-banks/zenshin-kumi|全信組連]]**, but in the JA Bank case it is a **three-tier structure of "497 JA → 31 Shinnoren → Norinchukin"** (with some "JA → Norinchukin direct link" as well). ^[extracted]
 
 ## 1. Organizational structure
 
 | Item | Content |
 |---|---|
-| Common names | JA Shinnoren / Shinnoren / prefectural Shinnoren |
+| Common name | JA Shinnoren / Shinnoren / prefectural Shinnoren |
 | English name | Prefectural Credit Federation of Agricultural Cooperatives (Shinnoren) |
-| Legal form | **Prefectural federation based on the Agricultural Cooperatives Act** (credit-business federation) |
-| Establishment | Established by prefecture from 1948  onward |
+| Legal form | **Prefectural federation under the Agricultural Cooperatives Act** (credit-business federation) |
+| Established | From 1948  onward, established separately by prefecture |
 | Number of Shinnoren | **31  Shinnoren** (as of 2025-04-01) ^[extracted] |
-| Supervisors | FSA (credit business) + Ministry of Agriculture, Forestry and Fisheries (cooperative supervision) |
+| Supervisory authorities | FSA (credit business) + Ministry of Agriculture, Forestry and Fisheries (cooperative supervision) |
 
-### Three-stage structure of the JA Bank system ^[extracted]
+### The three-tier structure of the JA Bank system ^[extracted]
 
 ```
 JA Bank system (3 -layer structure)
-  Layer 1: nationwide 497  JAs (individual agricultural cooperatives)
-                ↓ surplus-fund deposits
-  Layer 2: 31  Shinnoren (prefectural middle layer) ★ this page
-                ↓ surplus-fund deposits
-  Layer 3: 1  Norinchukin Bank (central) → [[cooperative-banks/norinchukin]]
+  Layer 1: nationwide 497 JA (individual agricultural cooperatives)
+                ↓ surplus-fund deposit
+  Layer 2: 31 Shinnoren (prefectural intermediate layer) ★this page
+                ↓ surplus-fund deposit
+  Layer 3: 1 Norinchukin Bank (central) → [[cooperative-banks/norinchukin]]
                 ↓ institutional investment / system return
 ```
 
-### Change in number of Shinnoren ^[extracted]
+### Trend in the number of Shinnoren ^[extracted]
 
-| Period | Number of Shinnoren | Notes |
+| Era | Number of Shinnoren | Notes |
 |---|---|---|
-| Late 1990 年s | 47  Shinnoren (one by prefecture) | Peak |
-| 2000 to 2010 年s | Gradual decrease (mergers / integrations) | In parallel with JA Bank system integration |
+| Late 1990 年s | 47  Shinnoren (one per prefecture) | Peak |
+| 2000s–2010 年s | Gradual decline (mergers / consolidations) | In parallel with JA Bank system integration |
 | **2025-04-01** | **31  Shinnoren** | [[cooperative-banks/norinchukin|農林中金]] public materials |
 
-### Key timeline ^[extracted]
+### Key chronology ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1947  | Agricultural Cooperatives Act enacted, legal basis for Shinnoren established |
-| 1948 onward | Shinnoren established by prefecture |
-| 1990 年s | Management issues at Shinnoren due to bubble collapse and non-performing loans |
-| **2002 onward** | **[[banking/ja-bank-system-japan|JA Bank system]] launched** -- integrated operation of nationwide JAs + Shinnoren + Norinchukin Bank ^[extracted] |
-| 2010 年s onward | **Mergers and integration of Shinnoren progressed** -- reorganized gradually according to prefectural circumstances |
-| 2025-04  | 31  Shinnoren + 497  JAs + 1  Norinchukin Bank structure |
+| 1947 | Agricultural Cooperatives Act enacted, establishing the legal basis for Shinnoren |
+| 1948〜 | Shinnoren established separately by prefecture |
+| 1990 年s | Management challenges for Shinnoren from the bubble collapse / bad debts |
+| **2002〜** | **[[banking/ja-bank-system-japan|JA Bank system]] operating** — integrated operation of nationwide JA + Shinnoren + Norinchukin ^[extracted] |
+| 2010 年s〜 | **Mergers / consolidations of Shinnoren proceed** — gradually rationalized according to prefecture-specific circumstances |
+| 2025-04 | A system of 31  Shinnoren + 497  JA + 1  Norinchukin |
 
-### 4  major functions ^[extracted]
+### The 4  major functions ^[extracted]
 
 | Function | Content |
 |---|---|
-| **Surplus-fund aggregation** | Aggregates surplus funds from local JAs (excess member deposits) |
-| **Deposits to the center** | Remits aggregated surplus funds as system deposits to [[cooperative-banks/norinchukin|農林中央金庫]] |
-| **Self-management** | Some funds are invested by Shinnoren themselves as institutional investments (government bonds, municipal bonds, etc.) |
-| **Local JA support** | Management guidance, liquidity provision, and system sharing |
+| **Surplus-fund aggregation** | Aggregating surplus funds (the excess of members' deposits) from JA within the region |
+| **Deposit with the center** | Remitting aggregated surplus funds to [[cooperative-banks/norinchukin|農林中央金庫]] as system deposits |
+| **Self-directed management** | A portion is institutionally invested by the Shinnoren itself (JGBs, municipal bonds, etc.) |
+| **Support for JA within the region** | Management guidance, liquidity supply, system shared-use |
 
-### Sense of scale
+### Sense of Shinnoren scale
 
-- Large Shinnoren (Hokkaido, Aichi, Fukuoka, etc.) are in the **multi-trillion-yen total-assets** class -- examples: Aichi Prefecture Shinnoren deposits of about 7.99 兆円 (2022-03), Hokkaido Shinnoren total assets of about 3.80 兆円 (2021-03), Fukuoka Prefecture Shinnoren deposits above 2 兆円
-- Small Shinnoren (San'in, parts of Shikoku, etc.) are in the **hundreds of billions to 1 兆円** class -- example: Kochi Prefecture Shinnoren deposits of about 8,711 億円 (2022-03)
+- Large Shinnoren (Hokkaido, Aichi, Fukuoka, etc.) are on the **multi-trillion-yen total-asset** class — e.g., Aichi Prefectural Shinnoren deposit balance approx. 7.99 兆円 (2022-03), Hokkaido Shinnoren total assets approx. 3.80 兆円 (2021-03), Fukuoka Prefectural Shinnoren deposits over 2 兆円
+- Small Shinnoren (San'in, parts of Shikoku, etc.) are on the **several-hundred-billion to 1 兆円** class — e.g., Kochi Prefectural Shinnoren deposit balance approx. 8,711 億円 (2022-03)
 
-### Position inside the JA Bank system
+### Positioning within the JA Bank system
 
-- **Rationale as a middle layer**: Prefecture-level management guidance and liquidity provision cover areas that **Norinchukin Bank's central function cannot handle in fine detail** ^[extracted]
+- **Raison d'être as an intermediate layer**: prefectural-unit management guidance / liquidity supply handles the parts that **Norinchukin's central functions cannot address in fine detail** ^[extracted]
 
-### Integration / restructuring trends
+### Integration / reorganization trends
 
-- **Business transfer to Norinchukin Bank / transition to direct-connection model** for distressed Shinnoren
-- Pressure for **downsizing and efficiency improvement of Shinnoren** as the number of local JAs shrinks
+- **Transfer of business to Norinchukin / shift to direct-link method** for Shinnoren in management difficulty
+- **Pressure for Shinnoren scale reduction / efficiency** accompanying the shrinkage in the number of JA within the region
 
-### Competitors / comparison organizations
+### Competing / contrasting organizations
 
-- **[[cooperative-banks/shinkin-central|信金中央金庫]]**: central institution of the shinkin bank sector (shinkin -> Shinkin Central Bank, 2  stages) -- structurally different from the 3  stages of Shinnoren + Norinchukin Bank
-- **[[cooperative-banks/zenshin-kumi|全信組連]]**: central institution of the credit cooperative sector (credit cooperatives -> Zenshinkumiren, 2  stages)
-- **[[cooperative-banks/rokin-renraku|労金連]]**: central institution of the labour bank sector (labour banks -> Rokinren, 2  stages)
-- **[[cooperative-banks/jf-shingyoren|JF 信漁連]]**: corresponding national institution on the fishery cooperative side (JF -> Shingyoren -> Norinchukin Bank, 3  stages)
+- **[[cooperative-banks/shinkin-central|信金中央金庫]]**: the center of the credit-union industry (the 2 -tier of shinkin → Shinkin Central Bank) — a different structure from the 3 -tier of Shinnoren + Norinchukin
+- **[[cooperative-banks/zenshin-kumi|全信組連]]**: the center of the credit-cooperative industry (the 2 -tier of shinkumi → Zenshinkumiren)
+- **[[cooperative-banks/rokin-renraku|労金連]]**: the center of the labour-bank industry (the 2 -tier of rokin → Rokin Federation)
+- **[[cooperative-banks/jf-shingyoren|JF 信漁連]]**: the corresponding national institution of the fishery-cooperative system (the 3 -tier of JF → Shingyoren → Norinchukin)
 
-### Shared systems
+### System shared-use
 
 - Shared ATM network (mutual use of JA cards)
 
 ## 4. Supervision / regulation
 
-- **Supervisors**: FSA (soundness of credit business) + Ministry of Agriculture, Forestry and Fisheries (cooperative supervision)
-- **Legal basis**: Agricultural Cooperatives Act (credit-business federation provisions)
-- **Recent policy issues**:
-  - **Further integration of Shinnoren / transition to direct-connection model**
-  - **System integration across JA Bank** (JASTEM enhancement)
-  - Impact on Shinnoren dividends from **2024 onward Norinchukin Bank unrealized losses on U.S. Treasuries**
-  - Redefinition of Shinnoren functions under the **Food Security Plan (from 2026 onward)**
+- **Supervisor**: FSA (soundness of credit business) + Ministry of Agriculture, Forestry and Fisheries (cooperative supervision)
+- **Legal basis**: Agricultural Cooperatives Act (credit-business-federation provisions)
+- **Recent policy points**:
+  - **Further consolidation of Shinnoren / shift to direct-link method**
+  - **System integration of JA Bank as a whole** (JASTEM sophistication)
+  - The impact of **2024〜 Norinchukin US-Treasury unrealized losses** on Shinnoren dividends
+  - Redefinition of Shinnoren functions under the **food-security plan (2026〜)**
 
 ## Related
 
-- [[cooperative-banks/norinchukin]] -- central institution of the JA Bank system (upper layer above Shinnoren)
-- [[cooperative-banks/ja-zenchu]] -- JA group representative function
-- [[cooperative-banks/ja-zen-noh]] -- JA group economic business
-- [[non-life-insurers/ja-kyosairen]] -- JA group mutual insurance business
-- [[cooperative-banks/jf-shingyoren]] -- fishery-side corresponding national institution (peer prefectural federation)
-- [[cooperative-banks/shinkin-central]] -- central institution of the shinkin bank sector (comparison)
-- [[cooperative-banks/zenshin-kumi]] -- central institution of the credit cooperative sector (comparison)
-- [[cooperative-banks/rokin-renraku]] -- central institution of the labour bank sector (comparison)
-- [[banking/ja-bank-system-japan]] -- JA Bank system boundary
-- [[banking/cooperative-banking-japan]] -- cooperative financial institutions overall
+- [[cooperative-banks/norinchukin]] — the central institution of the JA Bank system (above the Shinnoren)
+- [[cooperative-banks/ja-zenchu]] — JA Group representative function
+- [[cooperative-banks/ja-zen-noh]] — JA Group economic business
+- [[non-life-insurers/ja-kyosairen]] — JA Group mutual-aid (kyosai) business
+- [[cooperative-banks/jf-shingyoren]] — the corresponding national institution of the fishery-cooperative system (peer prefectural federation)
+- [[cooperative-banks/shinkin-central]] — the central institution of the credit-union industry (comparison)
+- [[cooperative-banks/zenshin-kumi]] — the central institution of the credit-cooperative industry (comparison)
+- [[cooperative-banks/rokin-renraku]] — the central institution of the labour-bank industry (comparison)
+- [[banking/ja-bank-system-japan]] — JA Bank system boundary
+- [[banking/cooperative-banking-japan]] — cooperative finance as a whole
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 
 - **JA Bank system official**: https://www.jabank.org/about/sikumi/
 - **JA Bank system structure diagram**: https://www.jabank.org/about/sikumi/banksystem/
-- **Norinchukin Bank features (layer-by-layer headcount as of 2025-04-01)**: https://www.nochubank.or.jp/about/features.html
+- **Norinchukin Bank features (layered staff numbers as of 2025-04-01)**: https://www.nochubank.or.jp/about/features.html
 - **JA Group Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
-- Agricultural Cooperatives Act (昭和 22 年 Act No. 第 132 号)
-- **Scale examples (large Shinnoren)** -- Aichi Prefecture Shinnoren deposits of about 7.99 兆円 (2022-03): https://ja.wikipedia.org/wiki/愛知県信用農業協同組合連合会 / Hokkaido Shinnoren total assets of about 3.80 兆円 (2021-03): https://ja.wikipedia.org/wiki/北海道信用農業協同組合連合会
-- **Scale examples (small Shinnoren)** -- Kochi Prefecture Shinnoren deposits of about 8,711 億円 (2022-03): https://ja.wikipedia.org/wiki/高知県信用農業協同組合連合会
+- Agricultural Cooperatives Act (昭和 22 年 Act 第 132 号)
+- **Sense of Shinnoren scale (examples of large Shinnoren)** — Aichi Prefectural Shinnoren deposit balance approx. 7.99 兆円 (2022-03): https://ja.wikipedia.org/wiki/愛知県信用農業協同組合連合会 / Hokkaido Shinnoren total assets approx. 3.80 兆円 (2021-03): https://ja.wikipedia.org/wiki/北海道信用農業協同組合連合会
+- **Sense of Shinnoren scale (example of a small Shinnoren)** — Kochi Prefectural Shinnoren deposit balance approx. 8,711 億円 (2022-03): https://ja.wikipedia.org/wiki/高知県信用農業協同組合連合会
 
 ---
 
