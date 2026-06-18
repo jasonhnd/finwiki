@@ -1,62 +1,62 @@
 ---
 source: financial-regulators/yokin-hoken-kiko
-source_hash: db429518fb212b99
+source_hash: 25683d58df11f46b
 lang: ja
 status: machine
 fidelity: ok
-title: "預金保険機構 (DICJ / Deposit Insurance Corporation of Japan)"
-translated_at: 2026-06-02T16:33:58.517Z
+title: "預金保険機構 (DICJ / 預金保険機構)"
+translated_at: 2026-06-18T23:59:13.109Z
 ---
 
-# 預金保険機構 (DICJ / Deposit Insurance Corporation of Japan)
+# 預金保険機構 (DICJ / 預金保険機構)
 
-## 要約
+## TL;DR
 
-預金保険機構（DICJ, Deposit Insurance Corporation of Japan）は、日本の銀行システムにおける法定の預金保険・破綻処理機関である。預金保険法に基づき、日本政府、日本銀行、加盟金融機関の共同出資により設立された特別法人である。[[financial-regulators/zenginkyo|Zenginkyō]]または[[financial-regulators/jsda|JSDA]]のような業界団体とは異なり、DICJ は拘束力を持つ法定機関であり、保護限度額まで預金を保険し、破綻銀行の破綻処理を管理し、銀行システムの公的な相互バックストップとして機能する。
+預金保険機構（DICJ、預金保険機構）は、日本の銀行システムにおける法定の預金保険および破綻処理の当局である。預金保険法に基づき、日本政府、日本銀行、および会員金融機関が共同で出資する特別な法人として設立されている。[[financial-regulators/zenginkyo|Zenginkyō]] や [[financial-regulators/jsda|JSDA]] のような業界団体とは異なり、DICJ は拘束力ある権限を有する法定当局であり、保護限度額までの預金を保険し、破綻した銀行の破綻処理を運営し、銀行システムのための公的な相互セーフティネットとして機能する。
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-このエントリは以下にあります[[financial-regulators/INDEX|financial-regulators INDEX]]。銀行業界団体のスタックで読んでください —[[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]]、 そして[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]— セーフティネットの完全な階層化と保険側の法定対応者を確認する[[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]そして[[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]。法的背景は次のとおりです[[financial-licenses/INDEX]]そして[[financial-licenses/bank-license-and-baas-boundary]];より広い演算子の世界が広がっています[[banking/INDEX]].
+本エントリは [[financial-regulators/INDEX|financial-regulators INDEX]] の配下にある。銀行業界団体スタック——[[financial-regulators/zenginkyo|Japanese Bankers Association]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō]]、[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]——と併せて読むことでセーフティネットの全体的な階層構造が見え、また保険サイドの法定対応機関である [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] および [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] と併せて読むこと。法的な背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]] にあり、より広いオペレーターの全体像は [[banking/INDEX]] にある。
 
-## 法令上の根拠 / 位置づけ
+## 法令ルート／法的位置づけ (法令の根拠)
 
-DICJ is established under the 預金保険法 (預金保険法, Act No.34 の1971).[^dic-act] DICJ は民間団体ではなく、国、日本銀行、加盟金融機関が共同出資する認可法人（認定法人）であり、金融​​庁が主要な監督当局であり、財務省/日銀がより広範な金融システムの安定のための共同利害関係者である。[^dic-overview] これにより、DICJ は構造的に業界団体層の間に位置づけられる（[[financial-regulators/zenginkyo|JBA]]など）とレギュレータ層（[[financial-regulators/fsa|FSA]]) — それは預金保険制度と金融システムのセーフティネットの法定運営者であり、規制当局や業界団体ではありません。
+DICJ は預金保険法（1971年法律第 34 号）に基づき設立されている。[^dic-act] DICJ は認可法人であり——私的な団体ではなく——国、日本銀行、および会員金融機関が共同で出資し、金融庁を主管監督当局、財務省／日本銀行をより広い金融システムの安定に関する共同ステークホルダーとする。[^dic-overview] これにより DICJ は、業界団体の層（[[financial-regulators/zenginkyo|JBA]] 等）と規制当局の層（[[financial-regulators/fsa|FSA]]）との間に構造的に位置づけられる——DICJ は預金保険制度および金融システム・セーフティネットの法定オペレーターであり、規制当局でも業界団体でもない。
 
-都市銀行、地方銀行（第一銀行および第二銀行）、信託銀行、信用金庫、信用組合、労働金庫、および法律に基づいて指定されたその他の預金取扱機関は、会員への加入が義務付けられています。特に、[[regional-banks/yucho|Japan Post Bank]]民営化後、DICJ は標準的な DICJ 制度に参加しましたが、預金受け入れ商業銀行レーン以外の機関（JA バンクを通じた農協銀行業務など）は、別個ではありますが同様のセーフティネットの枠組みを持っています。
+会員加入は次の機関に義務づけられている: 都市銀行、地方銀行（第一地銀および第二地銀）、信託銀行、信用金庫、信用組合、労働金庫、および同法のもとで指定されるその他の預金取扱機関。注目すべきは、[[regional-banks/yucho|Japan Post Bank]] は民営化後に標準の DICJ 制度に加入した一方、預金取扱の商業銀行レーンの外にある機関（JA バンクを通じた農業協同組合金融など）は、別個ではあるが類似のセーフティネット枠組みを有する点である。
 
-## 機能 / 範囲
+## 機能／範囲
 
-DICJ が公開した概要では、その取り組みが次のように構成されています:[^dic-overview]
+DICJ が公表する概要は、その業務を次のように整理している:[^dic-overview]
 
-1. **預金保険** — 加盟機関からの保険料の徴収、預金保険準備金の維持、および加盟機関が破綻した場合の保険付き預金の支払い。標準保障額は元本円10 預金者 1 機関あたり 100 万円に利息を加えた額で、無利子決済預金は恒久的な決済口座保護制度の下で完全に保護されます。
-2. **破綻処理** — 破綻した銀行の破綻処理の管理。これには、買収側機関への金融支援、破綻した銀行からの資産購入、即時買い手がいない場合のブリッジバンクメカニズムの運用が含まれます。
-3. **危機対応策** — 条項の管理102 預金保険法の危機管理規定に基づき、内閣総理大臣が指定し、金融危機対応会議の承認を得た場合には、措置（資本注入、全額保護、特別監督）が行われる。
-4. **資産管理と回収** — 破綻した銀行ローンのポートフォリオを改善するための整理回収機構 (RCC、資産回収子会社) の運営。収益は預金保険準備金に返還されます。
-5. **破綻処理への備え** — 預金者の氏名ごとの迅速な支払いのためのデータ品質要件（いわゆる名寄せデータ品質）、システム上重要な金融機関に対する金融庁および日銀との復旧・破綻処理計画（RRP）調整について、加盟機関と訓練を調整しました。
-6. **業界調整** — 長期間動きのない預金を、定められた手続きに基づき加盟銀行から公益活動へ移管する休眠預金等活用制度を運営する。
+1. **預金保険** — 会員機関からの保険料徴収、預金保険準備金の維持、および会員機関が破綻した際の保険対象預金の支払い。標準の保護額は、預金者一人当たり一機関当たり元本 10 万円および利息であり、無利息の決済用預金については恒久的な決済用預金保護制度のもとで全額保護が維持される。
+2. **破綻処理** — 破綻銀行の処理の運営。これには、承継機関への資金援助、破綻銀行からの資産買取、および即時の買い手が得られない場合のブリッジバンク機構の運営が含まれる。
+3. **危機対応措置** — 預金保険法の危機管理規定のもと、内閣総理大臣により指定され金融危機対応会議により確認された場合の、第 102 条措置（資本注入、預金全額保護、特別管理）の運営。
+4. **資産管理・回収** — 破綻銀行の貸出ポートフォリオの整理回収のための整理回収機構（RCC、資産回収子会社）の運営。回収金は預金保険準備金に戻される。
+5. **破綻処理の事前準備** — 迅速な預金者への名寄せ払戻し（いわゆる名寄せのデータ品質）に必要なデータ品質要件に関する会員機関との協調的な訓練、システム上重要な機関について金融庁および日本銀行と連携した再建・破綻処理計画（RRP）の調整。
+6. **業界協調** — 長期間休眠している預金が所定の手続のもとで会員銀行から公益活動へ移される休眠預金移管制度（休眠預金等活用法）の運営。
 
-DICJ は、最近の法的拡張に基づいて、協同組合金融機関および暗号資産保管のための専門制度も運営しています。
+DICJ はまた、より近年の法的拡張のもとで、協同組織金融機関向けおよび暗号資産カストディ向けの専門制度も運営している。
 
-## 加盟機関 / ガバナンス
+## 会員／ガバナンス
 
-加盟機関は法的に指定された預金取扱機関です。このボールトに記載されている例には、次のものが含まれます。[[banking/INDEX|banking index]] — [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[regional-banks/aozora-bank|Aozora Bank]], [[regional-banks/seven-bank|Seven Bank]], [[regional-banks/sony-bank|Sony Bank]], [[regional-banks/daiwa-next-bank|Daiwa Next Bank]], [[card-issuers/aeon-bank|AEON Bank]], [[regional-banks/yucho|Japan Post Bank]]、さらにシステム全体の地方銀行と信用金庫。
+会員機関は、法的に指定された預金取扱機関である。本ヴォールトに記録されている例としては——[[banking/INDEX|banking index]] にわたって——[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[regional-banks/aozora-bank|Aozora Bank]]、[[regional-banks/seven-bank|Seven Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/daiwa-next-bank|Daiwa Next Bank]]、[[card-issuers/aeon-bank|AEON Bank]]、[[regional-banks/yucho|Japan Post Bank]]、加えてシステム全体の地方銀行および信用金庫が含まれる。
 
-ガバナンスは預金保険法によって定められています。理事会は金融庁/財務省/日銀の関与のもとに任命され、議長はハイレベルの公的部門から任命され、運営委員会は技術的な決定を行います。資金は、加盟機関の保険料徴収に加えて、危機期間中に歴史的に充当されてきた政府/日銀の拠出金から流れます。
+ガバナンスは預金保険法によって定められている: 金融庁／財務省／日本銀行の関与のもとで任命される理事会があり、理事長は高位の公的部門の任命であり、技術的決定のための運営委員会がある。資金は会員機関の保険料徴収に加え、危機期間中に歴史的に充当された政府／日本銀行の拠出から賄われる。
 
 ## 関連する業界隣接領域
 
-預金保険機構は銀行側の法定セーフティネットです。保険側の類似物は次のとおりです。[[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]そして[[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]。証券レーンにおける投資家補償は、日本投資者保護基金（独立行政法人日本投資者保護基金）を通じて行われます。[[financial-regulators/jsda|JSDA]]自主規制）。銀行業界団体レイヤーについては、を参照してください。[[financial-regulators/zenginkyo|JBA]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]]、 そして[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]。メンバーシップの資格を決定するライセンス ルートについては、を参照してください。[[financial-licenses/INDEX]]そして[[financial-licenses/bank-license-and-baas-boundary]].
+DICJ は銀行サイドの法定セーフティネットである。保険サイドの対応物は [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] および [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] である。証券レーンにおける投資者保護は、日本投資者保護基金（[[financial-regulators/jsda|JSDA]] の自主規制とは別）を通じて運営される。銀行業界団体の層については [[financial-regulators/zenginkyo|JBA]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō]]、[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] を参照。会員適格性を決定する免許ルートについては [[financial-licenses/INDEX]] および [[financial-licenses/bank-license-and-baas-boundary]] を参照。
 
 ## このページが重要な理由
 
-DICJ は、この金庫のほぼすべての銀行エントリで暗黙的に参照されています。「最大 円までの預金保険」10 million"、"障害解決バックストップ"、"休眠預金移管" — ただし、専用ページがなければ、これらの参照はアンカーされていません。このエントリは次のことをピン留めします。
+DICJ は本ヴォールトのほぼすべての銀行エントリで暗黙的に参照されている——「預金保険 10 万円まで」、「破綻処理バックストップ」、「休眠預金移管」——が、専用のページがなければそれらの参照は錨を欠いたままになる。本エントリは次の点を固定する:
 
-- **法的権限の区別**: DICJ は業界団体ではなく、法的拘束力を持つ認可法人です。DICJ は障害解決の管理と RCC の運営を行うことができますが、どちらも業界団体にはできません。
-- **保険料で賄われる相互の性質**: 預金保険は、法定の義務保険料を通じて加盟機関自身によって資金提供されており、機関自体が法定当局であるにもかかわらず、公的相互スキームとなっています。
-- **危機モードのトリガー**: 記事102 措置は例外的であり、正式な指定が必要です。日常的な銀行破綻には、標準の保険レーンと破綻処理レーンが使用されます。
-- **業界の自主規律との境界**: DICJ は行動規則を定めていません。それは金融庁による監督ガイドラインと業界団体のモデル規則です。 DICJ は行動変容機関としてではなく、失敗が宣言された後に行動します。
+- **法定当局としての区別**: DICJ は拘束力ある法定機能を持つ認可法人であり、業界団体ではない——DICJ は破綻処理を運営し RCC を運営できるが、いずれも業界団体にはできないことである。
+- **保険料で賄われる相互の性質**: 預金保険は、法的に求められる保険料を通じて会員機関自身によって賄われており、機構そのものは法定当局であるものの、これを公的相互制度としている。
+- **危機モードのトリガー**: 第 102 条措置は例外的であり、正式な指定を要する; 通常の銀行破綻は標準の保険および処理レーンを用いる。
+- **業界の自主規律との境界**: DICJ は行為規範を定めない——それは監督指針を通じた金融庁および業界団体のモデル規則の役割である。DICJ は破綻が宣言された後に行動するのであり、行動変容を促す機関としてではない。
 
-## 関連項目
+## 関連
 
 - [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
@@ -78,9 +78,9 @@ DICJ は、この金庫のほぼすべての銀行エントリで暗黙的に参
 ## 出典
 
 [^dic-overview]: 預金保険機構「機構概要」, https://www.dic.go.jp/yokinsha/index.html ; DICJ English overview, https://www.dic.go.jp/english/
-[^dic-act]: 預金保険法 (法律番号34 の1971)、https://laws.e-gov.go.jp/law/346交流0000000034
+[^dic-act]: 預金保険法 (1971年法律第 34 号), https://laws.e-gov.go.jp/law/346AC0000000034
 
 ---
 
-> [!info] 自信のメモ
-> 自信: **おそらく**。預金保険法による法定ルート、会員範囲、障害対応を含む機能バケット、条項102 DICJ 独自の概要ページと預金保険法本文をソースとした危機対策および RCC 子会社構造を確認済み2026-05-24。特定の埋蔵量/対象範囲の統計は時間の経過とともに変動するため、定量分析で引用する前にDICJの最新の年次報告書から再検証する必要があります。
+> [!info] Confidence note
+> confidence: **likely**。預金保険法を通じた法定ルート、会員範囲、破綻処理および第 102 条危機措置を含む機能区分、ならびに RCC 子会社の構造は、DICJ 自身の概要ページおよび預金保険法の条文（2026-05-24時点で確認）に基づく。具体的な準備金／カバレッジ統計は時間とともに変動するため、定量分析で引用する前に DICJ の最新の年次報告書から再検証すべきである。

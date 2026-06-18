@@ -1,100 +1,100 @@
 ---
 source: financial-licenses/payment-license-stack
-source_hash: 06a5abe22155e7d2
+source_hash: c0c768134f7f2966
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の決済ライセンス・スタック"
-translated_at: 2026-06-02T14:54:39.046Z
+translated_at: 2026-06-18T23:59:13.126Z
 ---
 
 # 日本の決済ライセンス・スタック
 
 ## 概要
 
-日本の決済商品は、資金移動、前払式支払手段、電子決済等代行、電子決済手段、電子決済等取扱、信用・割賦販売、カード加盟店管理、銀行口座からの直接支払いなど、複数の公開規制カテゴリを組み合わせることがある。そのため、ウォレット、チェックアウト商品、コード決済サービス、ステーブルコイン連動サービスは、複数の法的ルートを持ち得る。
+日本の決済プロダクトは、複数の公的規制カテゴリを組み合わせうる：資金移動、前払式支払手段、電子決済等代行、電子決済手段、電子決済等取扱、信用 / 割賦販売、カードアクワイアリング、銀行口座直接決済。したがって、ウォレット、チェックアウト・プロダクト、コード決済サービス、またはステーブルコイン連動サービスは、複数の法的ルートを持ちうる。
 
-このページは [[financial-licenses/INDEX|JapanFG legal / financial licenses]] に属し、[[payments/INDEX|payments domain]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid issuer registry]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-bank-api-payment-agency-route|bank API route]]、[[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]]、[[fintech/japan-ecisb-license|Japan ECISB license]]、[[fintech/jp-stablecoin-progmat|Progmat stablecoin route]] に接続する。
+本ページは [[financial-licenses/INDEX|JapanFG legal / financial licenses]] に属し、[[payments/INDEX|payments domain]]・[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]・[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]・[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid issuer registry]]・[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]・[[payments/japan-bank-api-payment-agency-route|bank API route]]・[[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]]・[[fintech/japan-ecisb-license|Japan ECISB license]]・[[fintech/jp-stablecoin-progmat|Progmat stablecoin route]] にリンクする。
 
-## ライセンス・スタック表
+## ライセンス・スタック・マトリクス
 
-| 機能 | 主な公開カテゴリ | 主な法令・ルート | 認可・登録 | FinWiki ルート |
+| 機能 | 主な公的カテゴリ | 主たる法律 / ルート | 認可 / 登録 | FinWiki ルート |
 |---|---|---|---|---|
-| 非銀行送金・ウォレット送金 | `資金移動業者` | 資金決済法 | 登録 | [[payments/funds-transfer-service-providers-japan-index]] |
-| 第三者への支払いに使う蓄積価値 | 第三者型前払式支払手段発行者 | 資金決済法 | 事前登録 | [[payments/prepaid-payment-instrument-issuers-japan-index]] |
-| 自家型の蓄積価値 | 自家型前払式支払手段発行者 | 資金決済法 | 基準超過後の届出 | [[payments/funds-transfer-vs-prepaid-boundary]] |
-| 銀行口座情報・支払指図 | `電子決済等代行業者` | 銀行法ルート | 登録 | [[payments/japan-bank-api-payment-agency-route]] |
-| ステーブルコイン・EPI の売買、交換、媒介、保管類似取扱い | `電子決済手段等取引業者` | 資金決済法 | 登録 | [[fintech/japan-ecisb-license]] |
-| 銀行から委託された電子的な預金債権取扱い | `電子決済等取扱業` | 銀行法ルート | 登録 | [[financial-licenses/bank-license-and-baas-boundary]] |
-| クレジットカード・割賦・BNPL | 割賦販売法・信用購入あっせんルート | 経済産業省ルート | 該当時は登録 | [[payments/credit-purchase-card-operators-japan-index]], [[payments/japan-bnpl-credit-purchase-boundary]] |
-| 加盟店向け PSP・アクワイアリング | 加盟店契約・PSP・カード加盟店管理ルート | 割賦販売法、カード規則、サービス規約 | 役割により異なる | [[payments/card-acquiring-japan-stack]], [[payments/psp-merchant-settlement-risk]] |
-| 銀行口座からの直接支払い | Bank Pay・J-Debit・Cotra・銀行口座振替ルート | ネットワーク・スキーム・銀行口座ルート | 参加者およびスキームのルート | [[payments/account-to-account-payment-japan]] |
+| ノンバンク送金 / ウォレット送金 | `資金移動業者` | 資金決済法 | 登録 | [[payments/funds-transfer-service-providers-japan-index]] |
+| 第三者支払向け価値保存 | 第三者型前払式支払手段発行者 | 資金決済法 | 事前登録 | [[payments/prepaid-payment-instrument-issuers-japan-index]] |
+| 自家型価値保存 | 自家型前払式支払手段発行者 | 資金決済法 | 基準額条件超過後の届出 | [[payments/funds-transfer-vs-prepaid-boundary]] |
+| 銀行口座情報 / 支払指図 | `電子決済等代行業者` | 銀行法ルート | 登録 | [[payments/japan-bank-api-payment-agency-route]] |
+| ステーブルコイン / EPI の販売・交換・媒介・カストディ類似の取扱い | `電子決済手段等取引業者` | 資金決済法 | 登録 | [[fintech/japan-ecisb-license]] |
+| 銀行委託による預金債権の電子的取扱い | `電子決済等取扱業` | 銀行法ルート | 登録 | [[financial-licenses/bank-license-and-baas-boundary]] |
+| クレジットカード / 割賦 / BNPL | 割賦販売法 / 信用購入あっせんルート | 経産省ルート | 該当する場合は登録 | [[payments/credit-purchase-card-operators-japan-index]]・[[payments/japan-bnpl-credit-purchase-boundary]] |
+| 加盟店 PSP / アクワイアリング | 加盟店契約 / PSP / カードアクワイアリングルート | 割賦販売法、カードルール、サービス規約 | 役割による | [[payments/card-acquiring-japan-stack]]・[[payments/psp-merchant-settlement-risk]] |
+| 銀行口座直接決済 | Bank Pay / J-Debit / Cotra / 銀行口座振替ルート | ネットワーク / スキーム / 銀行口座ルート | 参加者およびスキームルート | [[payments/account-to-account-payment-japan]] |
 
 ## 資金移動ルート
 
-資金移動ルートは、非銀行送金に関する資金決済法上の登録カテゴリである。FSA 資料では、現在の三類型構造が示されている。
+資金移動ルートは、ノンバンク送金に係る資金決済法上の登録カテゴリである。FSA 資料は、現行の三類型構造を示している：
 
-| 類型 | FSA 資料上の公開説明 | 境界項目 |
+| 類型 | FSA 資料における公開記載 | 境界フィールド |
 |---|---|---|
-| 第一種 | JPY 1 million を超える送金需要に対応するルート | 高額送金向けの資金移動カテゴリ。 |
-| 第二種 | 従来からの中核的な資金移動カテゴリ | 非銀行送金・ウォレット送金の中心カテゴリ。 |
-| 第三種 | 少額送金ルート | 少額送金カテゴリ。 |
+| 第一種 | 1 百万円超の送金ニーズ向けルート | より高額な資金移動カテゴリ。 |
+| 第二種 | 従来からの中核的資金移動カテゴリ | 主たるノンバンク送金 / ウォレット送金カテゴリ。 |
+| 第三種 | より低額な送金ルート | 少額送金カテゴリ。 |
 
-公開情報での確認には、FSA の資金移動業ページ、資金移動業者一覧、事業者規約、登録番号を用いる。商品規約と法的主体が免許銀行の預金ルートを示していない限り、残高は銀行預金として記録しない。
+公開検証には、FSA 資金移動業ページ、FSA 資金移動業者一覧、事業者の規約、登録番号を用いる。プロダクトの規約と法人格が認可された銀行預金ルートを示していない限り、残高は銀行預金として記録されない。
 
 ## 前払式支払手段ルート
 
-前払式支払手段ルートは、蓄積価値に関する資金決済法上のルートである。公開情報上の主な区分は、自家型と第三者型である。
+前払ルートは、価値保存に係る資金決済法上のルートである。主たる公開上の区分は、自家型前払式支払手段と第三者型前払式支払手段との間にある。
 
-| 区分 | 公開項目 | 公開情報での確認方法 |
+| カテゴリ | 公開フィールド | 公開検証 |
 |---|---|---|
-| 自家型前払式支払手段 | 発行者および利用可能な加盟店・サービス範囲が、発行者自身のグループまたは自社サービスのルートに結びつく。 | FSA の前払式支払手段 Q&A、発行者開示、規約。 |
-| 第三者型前払式支払手段 | 蓄積価値を、当該手段のルートに基づいて第三者加盟店またはサービスで利用できる。 | FSA の第三者型前払式支払手段発行者一覧およびサービス規約。 |
-| 自家型の基準額項目 | FSA Q&A では、基準日に未使用残高が JPY 10 million を超えると自家型発行者に届出義務が生じるとされる。 | FSA FinTech Support Desk Q&A および発行者記録。 |
-| 第三者型の承認項目 | 第三者型前払式支払手段発行者ルートでは事前登録を用いる。 | FSA の第三者型発行者一覧。 |
+| 自家型前払式支払手段 | 発行者および適用される加盟店 / サービスの範囲は、発行者自身のグループまたは自社サービスルートに紐づく。 | FSA 前払 Q&A、発行者開示、規約。 |
+| 第三者型前払式支払手段 | 当該手段ルートの下で、価値保存は第三者の加盟店またはサービスに利用できる。 | FSA 第三者型前払発行者一覧およびサービス規約。 |
+| 自家型基準額フィールド | FSA Q&A は、自家型発行者が基準日に未使用残高が 10 百万円を超えた時点で届出義務を負うと述べている。 | FSA FinTech サポートデスク Q&A および発行者記録。 |
+| 第三者型認可フィールド | 第三者型前払発行者ルートは事前登録を用いる。 | FSA 第三者型前払発行者一覧。 |
 
-前払式支払手段ルートは、加盟店支払い・蓄積価値のルートである。資金移動など別のルートが併存しない限り、一般的な送金とは分けて扱う。
+前払ルートは加盟店決済 / 価値保存のルートである。資金移動など別のルートが併存しない限り、一般的な送金とは区別される。
 
 ## 電子決済手段ルート
 
-資金決済法側では、電子決済手段取引業に `電子決済手段等取引業者` を用いる。FSA の公開 EPI 資料は、このルートをステーブルコイン・電子決済手段の売買、交換、媒介、保管類似取扱いに接続している。
+資金決済法側は、電子決済手段等取引業について `電子決済手段等取引業者` を用いる。FSA の公開 EPI 資料は、このルートをステーブルコイン / 電子決済手段の販売・購入・交換・媒介・カストディ類似の取扱いと結びつけている。
 
-銀行法側では、銀行から委託された預金債権の電子的取扱いに `電子決済等取扱業` を用いる。この公開法令カテゴリは資金決済法上の EPI 取引ルートと同一ではないため、[[financial-licenses/bank-license-and-baas-boundary|Japan bank license and BaaS boundary]] では別個に記録する。
+銀行法側は、銀行委託による預金債権の電子的取扱いについて `電子決済等取扱業` を用いる。このルートは [[financial-licenses/bank-license-and-baas-boundary|Japan bank license and BaaS boundary]] に別途記録される。公的な法律カテゴリが資金決済法の EPI 取引ルートと同一ではないためである。
 
-## 商品レイヤーの例
+## プロダクト層の例
 
-| 商品面 | 想定される法的構成要素 |
+| プロダクト形態 | 想定される法的構成要素 |
 |---|---|
-| QR ウォレット | 資金移動業登録、前払式支払手段発行者登録、加盟店 PSP・アクワイアリング、銀行 API、クレジットカード連携。 |
-| 旅行用ウォレット | 資金移動、前払式支払手段、外国為替・送金規約、カードスキーム、開示されている場合は銀行代理業。 |
-| BNPL チェックアウト | 割賦販売・信用購入あっせんルート、加盟店契約、PSP 決済、与信審査。 |
-| 銀行口座決済 | 銀行口座、銀行 API・電子決済等代行、口座直結型加盟店導入、返金・取消管理。 |
-| ステーブルコイン決済 | EPI 取引ルート、電子決済等取扱ルート、発行者・信託・銀行の分類、該当時はウォレットまたは交換業登録。 |
-| BaaS 預金ウォレット | 免許銀行、提携先 UI、開示されている場合は銀行代理業または電子決済等代行ルート。 |
+| QR ウォレット | 資金移動業登録、前払発行者登録、加盟店 PSP / アクワイアリング、銀行 API、クレジットカード連携。 |
+| トラベルウォレット | 資金移動、前払、外国為替 / 送金規約、カードスキーム、開示されている場合の銀行代理。 |
+| BNPL チェックアウト | 割賦販売 / 信用購入あっせんルート、加盟店契約、PSP 決済、与信審査。 |
+| 銀行口座決済 | 銀行口座、銀行 API / 電子決済等代行、口座直結の加盟店オンボーディング、返金 / キャンセル管理。 |
+| ステーブルコイン決済 | EPI 取引ルート、電子決済等取扱ルート、発行者 / 信託 / 銀行の分類、適用される場合のウォレットまたは取引所登録。 |
+| BaaS 預金ウォレット | 認可された銀行、パートナー UI、開示されている場合の銀行代理または電子決済等代行ルート。 |
 
-## 公開記録で確認する項目
+## 公開記録フィールド
 
-| 項目 | 情報源ルート |
+| フィールド | ソースルート |
 |---|---|
-| 運営者の正式名称 | FSA・経済産業省の登録簿および会社開示。 |
-| 登録カテゴリ | 資金移動、前払式支払手段、電子決済等代行、EPI、信用・カード、銀行代理業、電子決済等取扱。 |
-| 登録番号 | 利用可能な登録簿行。 |
-| 資金移動の類型 | FSA 一覧・資料で開示される第一種、第二種、第三種。 |
-| 前払式支払手段の分類 | 自家型または第三者型前払式支払手段。 |
-| FSA 一覧の基準日 | FSA の事業者一覧行または登録簿ファイル。 |
-| サービス範囲 | 商品規約、公式サービスページ、規制当局一覧。 |
-| 残高の種類 | 預金、前払残高、資金移動残高、信用債権、電子決済手段、銀行預金債権。 |
-| 加盟店ルート | アクワイアラ、PSP、決済ファシリテータ、Bank Pay・J-Debit ルート、またはスキームルート。 |
-| 利用者保護・分別管理 | 規制当局ガイダンス、規約、開示資料。 |
+| 事業者法人名 | FSA / 経産省の登録簿および会社開示。 |
+| 登録カテゴリ | 資金移動、前払、電子決済等代行、EPI、信用 / カード、銀行代理、または電子決済等取扱。 |
+| 登録番号 | 利用可能な場合の登録簿の行。 |
+| 資金移動の類型 | FSA 一覧 / 資料で開示されている場合の第一種、第二種、または第三種。 |
+| 前払の分類 | 自家型または第三者型前払式支払手段。 |
+| FSA 一覧の基準日 | FSA 事業者一覧の行または登録簿ファイル。 |
+| サービス範囲 | プロダクト規約、公式サービスページ、規制当局の一覧。 |
+| 残高の種類 | 預金、前払残高、資金移動残高、信用債権、電子決済手段、または銀行預金債権。 |
+| 加盟店ルート | アクワイアラー、PSP、ペイメントファシリテーター、Bank Pay / J-Debit ルート、またはスキームルート。 |
+| 利用者保護 / 分別管理 | 規制当局のガイダンス、規約、開示文書。 |
 
-## JapanFG の事業者リンク
+## JapanFG 事業者リンク
 
-- ウォレット・資金移動: [[payment-firms/paypay]], [[payment-firms/merpay]], [[payment-firms/au-payment]], [[payment-firms/rakuten-edy]], [[payment-firms/recruit-mufg-business]], [[payment-firms/jal-payment-port]], [[payment-firms/sbi-remit]].
-- 加盟店 PSP・アクワイアリング: [[payment-firms/gmo-payment-gateway]], [[payment-firms/gmo-epsilon]], [[payment-firms/sb-payment-service]], [[payment-firms/dg-financial-technology]], [[payment-firms/netstars]].
-- 信用・カード・割賦: [[card-issuers/smbc-card]], [[card-issuers/mufg-nicos]], [[card-issuers/rakuten-card]], [[card-issuers/paypay-card]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[payment-firms/paidy]].
-- ステーブルコイン・EPI 隣接領域: [[payment-firms/jpyc]], [[payment-firms/progmat]], [[exchanges/jp-exchange-sbi-vc-trade]], [[fintech/jp-stablecoin-progmat]].
+- ウォレット / 資金移動：[[payment-firms/paypay]]・[[payment-firms/merpay]]・[[payment-firms/au-payment]]・[[payment-firms/rakuten-edy]]・[[payment-firms/recruit-mufg-business]]・[[payment-firms/jal-payment-port]]・[[payment-firms/sbi-remit]]。
+- 加盟店 PSP / アクワイアリング：[[payment-firms/gmo-payment-gateway]]・[[payment-firms/gmo-epsilon]]・[[payment-firms/sb-payment-service]]・[[payment-firms/dg-financial-technology]]・[[payment-firms/netstars]]。
+- 信用 / カード / 割賦：[[card-issuers/smbc-card]]・[[card-issuers/mufg-nicos]]・[[card-issuers/rakuten-card]]・[[card-issuers/paypay-card]]・[[card-issuers/orico]]・[[card-issuers/jaccs]]・[[payment-firms/paidy]]。
+- ステーブルコイン / EPI 隣接：[[payment-firms/jpyc]]・[[payment-firms/progmat]]・[[exchanges/jp-exchange-sbi-vc-trade]]・[[fintech/jp-stablecoin-progmat]]。
 
-## 関連項目
+## 関連
 
 - [[financial-licenses/INDEX]]
 - [[financial-licenses/bank-license-and-baas-boundary]]
@@ -110,15 +110,15 @@ translated_at: 2026-06-02T14:54:39.046Z
 - [[fintech/japan-ecisb-license]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## ソース
 
-- e-Gov: 資金決済法。
-- FSA: 免許・登録事業者一覧。
-- FSA: 資金移動業者ページおよび登録簿。
-- FSA: 前払式支払手段の政策ページおよび発行者登録簿。
-- FSA: FinTech Support Desk Q&A。
-- FSA: 2020  資金決済法改正説明。
-- FSA: 暗号資産・電子決済手段の政策ページ。
-- FSA: 電子決済手段等取引業ページ。
-- FSA: 電子決済等取扱業ページ。
-- 経済産業省: 割賦販売法の登録事業者一覧。
+- e-Gov：資金決済法。
+- FSA：認可 / 登録事業者一覧。
+- FSA：資金移動業者ページおよび登録簿。
+- FSA：前払式支払手段の政策ページおよび発行者登録簿。
+- FSA：FinTech サポートデスク Q&A。
+- FSA：2020 資金決済法改正の解説。
+- FSA：暗号資産 / 電子決済手段の政策ページ。
+- FSA：電子決済手段等取引業ページ。
+- FSA：電子決済等取扱業ページ。
+- 経産省：割賦販売法の登録事業者一覧。

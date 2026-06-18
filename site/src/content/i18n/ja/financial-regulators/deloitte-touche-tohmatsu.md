@@ -1,17 +1,17 @@
 ---
 source: financial-regulators/deloitte-touche-tohmatsu
-source_hash: e90b2ee72297aa04
+source_hash: 0a849ce8f53404a7
 lang: ja
 status: machine
 fidelity: ok
 title: "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)"
-translated_at: 2026-06-02T14:25:12.444Z
+translated_at: 2026-06-18T23:59:13.107Z
 ---
 # 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づけられる。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/pwc-aarata|PwC あらた]] は Big 4  監査法人の比較文脈で読み、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法・監査品質管理の規制境界として参照する。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
+本エントリは [[financial-regulators/INDEX|financial-regulators INDEX]] の配下にある。ピアの Big 4 監査の文脈として [[financial-regulators/ey-shinnihon|EY 新日本]] および [[financial-regulators/pwc-aarata|PwC あらた]] と併せて、また公認会計士法／監査品質管理の規制境界として [[financial-licenses/INDEX|金融ライセンス INDEX]] と併せて読むこと。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 
@@ -88,7 +88,7 @@ translated_at: 2026-06-02T14:25:12.444Z
 
 Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人 ^[extracted]。
 
-## 関連項目
+## 関連
 
 - [[financial-regulators/ey-shinnihon]]（Big 4 ピア）
 - [[financial-regulators/pwc-aarata]]（Big 4 ピア）
@@ -112,4 +112,4 @@ Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソント
 ---
 
 > [!info] 校核状态
-> 信頼度: **likely**（v1.0 公開ソース ベース、2026-05-24）。法人形態・歴史・Big 4 系列・暗号資産先行性は公開ベースで高信頼。クライアント別監査人は EDINET 一次資料で都度確認すべき。
+> confidence: **likely**（v1.0 公開ソース ベース、2026-05-24）。法人形態・歴史・Big 4 系列・暗号資産先行性は公開ベースで高信頼。クライアント別監査人は EDINET 一次資料で都度確認すべき。

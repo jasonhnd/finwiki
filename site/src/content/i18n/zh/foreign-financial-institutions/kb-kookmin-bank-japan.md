@@ -1,42 +1,43 @@
 ---
 source: foreign-financial-institutions/kb-kookmin-bank-japan
-source_hash: f19da07929faa73a
+source_hash: a3c82b225881b146
 lang: zh
 status: machine
 fidelity: ok
-title: "国民银行东京支店"
-translated_at: 2026-05-31T23:59:49.350Z
+title: "国民银行 东京分行"
+translated_at: 2026-06-18T23:59:13.065Z
 ---
-# 国民银行东京支店
+
+# 国民银行 东京分行
 
 ## Wiki route
 
-This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目归属于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。请将其与 [[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] 对照阅读以获取同业 / 对比语境，并参照 [[banking/INDEX|banking index]] 了解更广阔的体系 / 监管边界。
 
 ## TL;DR
 
-国民银行东京支店是金融厅外国银行支店名单中列出的 Republic of Korea / KB Kookmin Bank 在日银行支店。作为韩国零售 / 商业银行巨头的日本分行，它承担韩国与日本之间的汇款、存款和企业银行业务通道。
+国民银行 东京分行是列于金融厅外国银行分行一览的 Republic of Korea / KB Kookmin Bank 在日银行分行。作为 Korean retail / commercial banking giant 的 Japan branch，承担韩国与日本之间的 remittance、deposit 与 corporate banking corridor。
 
-## 1. 牌照 / 分行边界
+## 1. License / branch boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 金融厅列示名称 | 国民银行 |
-| 法定 / 分行名称 | Kookmin Bank Tokyo Branch |
-| 牌照路径 | 银行法下的外国银行支店；金融厅银行牌照名单 |
-| 母国辖区 | Republic of Korea |
-| 母公司 / 集团 | KB Kookmin Bank / KB Financial Group |
-| Wiki 角色 | 韩日商业银行分行锚点 |
+| FSA listed name | 国民银行 |
+| Legal / branch name | Kookmin Bank Tokyo Branch |
+| License route | Banking Act foreign bank branch; FSA bank license list |
+| Home jurisdiction | Republic of Korea |
+| Parent / group | KB Kookmin Bank / KB Financial Group |
+| Wiki role | Korea-Japan commercial-bank branch anchor |
 
-## 2. 运营模式
+## 2. Operating model
 
-KB Kookmin Bank 的海外网点页面列出东京支店地址和联系方式。JBA 也将该银行列为日本银行数据库条目。其日本角色是连接韩国银行业务流和企业 / 客户支持的外国银行支店，而不是在日本设立的银行法人。
+KB Kookmin Bank 的海外网点页面列出了东京分行的地址与联系方式。JBA 亦将该行列为一项 Japan banking database 条目。其在日本的角色是连接韩国银行业务流与企业 / 客户支持的外国银行分行，而非在日本设立的银行。
 
-## 3. 本页意义
+## 3. Why this page matters
 
-- 补完金融厅韩国 P1  分行集合。
-- 将 KB 作为 [[foreign-financial-institutions/woori-bank-japan]] 和 [[foreign-financial-institutions/hana-bank-japan]] 的同类对象加入。
-- 明确韩国银行通道，而不把它并入 [[regional-banks/sbj-bank]]。
+- 补全 FSA 的韩国 P1 分行集。
+- 将 KB 作为 [[foreign-financial-institutions/woori-bank-japan]] 与 [[foreign-financial-institutions/hana-bank-japan]] 的同业加入。
+- 在不将其并入 [[regional-banks/sbj-bank]] 的前提下，使韩国银行 corridor 显性化。
 
 ## Related
 

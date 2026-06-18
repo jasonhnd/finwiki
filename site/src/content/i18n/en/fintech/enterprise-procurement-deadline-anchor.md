@@ -1,14 +1,14 @@
 ---
 source: fintech/enterprise-procurement-deadline-anchor
-source_hash: 09cd1aea9b48ddb6
+source_hash: b7009faf7275a310
 lang: en
 status: machine
 fidelity: ok
-title: "Enterprise IT Procurement Budget Lock-In"
-translated_at: 2026-05-31T06:16:15.704Z
+title: "Enterprise IT procurement budget lock-in"
+translated_at: 2026-06-18T23:59:13.110Z
 ---
 
-# Enterprise IT Procurement Budget Lock-In
+# Enterprise IT procurement budget lock-in
 
 
 ## Wiki route
@@ -16,26 +16,26 @@ translated_at: 2026-05-31T06:16:15.704Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> On the surface, this appears to be events like "market deadlines" or "contract renewal dates," but the **true driver is enterprise IT procurement budget lock-in cycles**. Institutional buyers do not make decisions in real-time markets; they decide in budget cycles 6-12  months in advance. The true power of the **2026-08  Coinbase-Circle contract renewal** derives from the fact that it **corresponds to the 2027 年 fiscal year enterprise procurement budget lock-in period**.
+> On the surface it is an event such as a "market deadline" or a "contract renewal date," but **the true driver is the enterprise IT procurement budget lock-in cycle.** Institutional buyers do not make decisions in real-time markets; they decide in budget cycles 6-12  months ahead. The real power of the **2026-08  Coinbase-Circle contract renewal** derives from the fact that it **corresponds to the 2027 年 fiscal-year enterprise procurement budget lock-in period.**
 
 ## Mechanism
 
 Enterprise procurement budget cycle:
 
 ```
-Q3-Q4 [Year N]  = Lock in [Year N+1] annual technology stack
-Q1-Q2 [Year N+1] = Implementation
-Q3-Q4 [Year N+1] = Evaluation + lock in [Year N+2]
+Q3-Q4 [Year N]  = locks the [Year N+1] fiscal-year tech stack
+Q1-Q2 [Year N+1] = implementation
+Q3-Q4 [Year N+1] = evaluation + locks [Year N+2]
 ```
 
 **Implications**:
-- If a supplier is not "production-ready" by Q3 [Year N], it **misses the entire [Year N+1] institutional procurement window**
-- The next window requires waiting until [Year N+2], meaning a **delay of 1-2  years**
-- Regulatory / audit / risk management requirements for "production-ready" are high → alpha / testnet does not meet the standard
+- If a supplier is not "production-ready" by Q3 [Year N], it **misses the full-year [Year N+1] institutional procurement window**
+- The next window must wait until [Year N+2], **a delay of 1-2  years**
+- Regulation / audit / risk management have high "production-ready" requirements → alpha / testnet falls short of the bar
 
-## Stablecoin 2026  Case
+## The stablecoin 2026  case
 
-**All major players concentrated releases from 2026-05  through 2026-08 **:
+**All the major players are concentrating their releases from 2026-05  into 2026-08 **:
 - Base Azul Rust 2026-05-13
 - [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] private round 2026-05-11
 - [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo Presto]] 2026-03-18
@@ -43,39 +43,39 @@ Q3-Q4 [Year N+1] = Evaluation + lock in [Year N+2]
 - Bridge OCC conditional 2026-02
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] implementing rules 2026-Q3
 
- **They are not competing with each other. They are racing to meet the 2026-Q3  enterprise procurement budget lock-in**.
+**They are not competing with each other. They are making it in time for the 2026-Q3  enterprise procurement budget lock-in.**
 
-## Explanatory Power
+## Explanatory power
 
 Why are all three chains "rushing to launch"?
-- Answer: **To enter enterprise RFP candidate lists by 2026-Q3 **
-- Arc launching in alpha state is already late → misses 2027  full-year procurement window → can only enter 2028 
-- Base Rust rewrite launches just at 2026-05  → slides in at the final moment before the procurement window closes
-- Tempo Presto 2026-03  mainnet → provides enterprises 6  months of testing / integration time
+- Answer: **To get onto the enterprise RFP shortlist by 2026-Q3 **
+- Launching in Arc alpha status is already late → misses the 2027  full-year procurement window → can only get in for 2028 
+- The Base Rust rewrite launches precisely in 2026-05  → slips in at the final moment before the procurement window
+- Tempo Presto 2026-03  mainnet → gives enterprises 6  months of testing / integration time
 
 **This is the true implication of the 2026-08  chokepoint**:
-- Surface: Coinbase-Circle contract automatic renewal
-- Deeper: miss 2027  procurement window → next contest pushed back to 2028 
+- Surface: automatic renewal of the Coinbase-Circle contract
+- Deep: missing the 2027  procurement window → the next showdown is carried over to 2028 
 
-## Applications / Transfer
+## Application / transfer
 
-**This framework should be applied to all B2B infrastructure market analysis**:
+**This framework should be applied to any B2B infrastructure market analysis**:
 
-| Market | Procurement window lock-in period |
+| Market | Procurement-window lock-in period |
 |---|---|
-| Enterprise cloud migration | Q3-Q4  next-year lock (AWS announces new products at 12 -month re:Invent conference) |
-| ERP replacement | Q4  next-year lock (fiscal year starts 1  or 4  month) |
-| Cybersecurity procurement | Q3  lock (RSA / Black Hat conferences are nodes) |
-| Financial infrastructure | Q3-Q4  next-year lock (regulatory approvals typically Q1-Q2) |
-| AI platform | Q4-Q1  lock (Gartner Magic Quadrant published 12  month) |
-| Stablecoin / chain | Q3  lock (audit + regulatory approval) |
+| Enterprise cloud migration | Q3-Q4  locks the following year (AWS announces new products at the 12 -month re:Invent conference) |
+| ERP replacement | Q4  locks the following year (fiscal year begins in 1  or 4 ) |
+| Cybersecurity procurement | Q3  lock (RSA / Black Hat conferences are the nodes) |
+| Financial infrastructure | Q3-Q4  locks the following year (regulatory approval is usually Q1-Q2) |
+| AI platforms | Q4-Q1  lock (Gartner Magic Quadrant published in 12 ) |
+| Stablecoin / chains | Q3  lock (audit + regulatory approval) |
 
 **Reverse application = predicting product release timing**:
 
-If a B2B company will become "production-ready," look at downstream customers' procurement cycles. Examples:
-- Selling to fintech: Q1  release optimal (B2C procurement + 1  quarters for integration)
-- Selling to enterprise: Q3  release optimal (meeting next-year budget lock-in)
-- Selling to government: Q1-Q2  release optimal (fiscal year starts 10  month)
+When a B2B company becomes "production-ready," look at the procurement cycle of downstream customers. Examples:
+- Selling to fintech: Q1  release is optimal (B2C procurement + integration in 1  quarters)
+- Selling to enterprise: Q3  release is optimal (to make it in time for the following year's budget lock-in)
+- Selling to government: Q1-Q2  release is optimal (fiscal year begins in 10 )
 
 ## Related
 

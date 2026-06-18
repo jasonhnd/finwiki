@@ -1,96 +1,95 @@
 ---
 source: fintech/multi-megabank-consortium-governance
-source_hash: 7082c4f387c11adc
+source_hash: c84c96ff0fe92057
 lang: en
 status: machine
 fidelity: ok
-title: "Multi-megabank consortium governance"
-translated_at: 2026-05-31T11:13:44.848Z
+title: "Multi-Megabank Consortium Governance"
+translated_at: 2026-06-18T23:59:13.053Z
 ---
 
-# Multi-megabank consortium governance
-
+# Multi-Megabank Consortium Governance
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation for tokens, crypto assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Comparing fintech infrastructure across **single-bank ownership**, **multi-bank joint ventures**, and **independent companies with non-controlling bank stakes**, the Progmat-style structure appears the most scalable. JPMorgan Kinexys is a single-bank model, BIS Project Agorá is a central-bank consortium model, and Progmat is an independent-company model. Each makes a different trade-off between regulatory acceptance and decision speed.
+> Comparing fintech infrastructure across **3  governance models** — "single bank," "multi-bank JV," and "independent company + bank minority stakes" — the **Progmat type (an independent-company + non-controlling-stake design) has the highest scalability**. JPMorgan Kinexys is the single-bank type, BIS Project Agorá is the central-bank-consortium type, and Progmat is the independent-company type — each requires a different trade-off between regulatory environment and decision-making speed.
 
-## Three governance models
+## The 3  governance models
 
-| Model | Representative examples | Ownership structure | Decision speed | Regulatory requirements | Scalability |
+| Model | Representative case | Ownership structure | Decision speed | Regulatory requirements | Scalability |
 |---|---|---|---|---|---|
-| **Single-bank ownership** | JPM Kinexys / GS DAP | 100% bank subsidiary | Fast | Inside bank regulation | Low; constrained by the bank brand |
-| **Multi-bank JV** | DTCC / legacy SWIFT-style structures | Equalized interbank ownership | Slow; consensus-heavy | Bank-coordination regulation | Medium |
-| **Independent company + non-controlling stakes** | **Progmat / NTT Data collaboration** | Independent company with minority bank stakes | Medium | Independent fintech regulation | **High** |
+| **Single-bank ownership** | JPM Kinexys / GS DAP | bank 100% subsidiary | fast | within bank regulation | low (tied to bank brand) |
+| **Multi-bank JV** | DTCC / the old SWIFT structure | equal capital among banks | slow (unanimity of all) | inter-bank coordinated regulation | medium |
+| **Independent company + non-controlling** | **Progmat / NTT Data joint** | independent legal entity · bank minority stakes | medium | independent fintech regulation | **high** |
 
-## Progmat structure
+## The detailed design of the Progmat structure
 
-**Core intent of the 49% MUTB stake design**:
+**The core intent of the MUTB 49% stake design**:
 
 ```
-MUTB ([[megabanks/mufg|Mitsubishi UFJ Trust and Banking]]) 49.0%   <- largest single shareholder, but below majority control
-SMBC group ([[megabanks/smfg|SMFG]])                       ~15%    <- important partner
-Mizuho Trust Bank                                         ~15%    <- important partner
-NTT Data                                                  ~10%    <- technology partner
-JPX                                                       ~5%     <- exchange partner
-Datachain                                                 ~3%     <- technology partner
-Other shareholders                                       ~3%
+MUTB ([[megabanks/mufg|三菱 UFJ 信託銀行]])              49.0%   ← the single largest shareholder, but a majority is NG
+SMBC Group ([[megabanks/smfg|SMFG]])        ~15%   ← an important partner
+Mizuho Trust Bank        ~15%   ← an important partner
+NTT Data                 ~10%   ← a technology partner
+JPX                      ~5%    ← an exchange partner
+Datachain                ~3%   ← a technology partner
+Others                   ~3%
 ```
 
 **Design principles**:
-- **49% is intentional** under regulatory guidance: the company is designed as non-MUFG-controlled rather than a de facto MUFG subsidiary.
-- **The three megabanks remain near-peers** once MUTB's large but non-controlling stake is accounted for, supporting neutrality.
-- **NTT Data and JPX add technology and exchange-side legitimacy**, reducing the appearance of a bank-only initiative.
+- **The 49% is intentional** (FSA guidance): a **non-MUFG-controlled** design in which MUFG does not become dominant
+- **The three major banks are on equal footing** (substantively equal apart from MUTB 49%) → securing neutrality
+- **NTT Data / JPX participate from the technology / exchange side** → legitimacy beyond banks
 
-**Effects**:
-- SMBC and Mizuho could not credibly use an MUFG subsidiary, but can participate in an independent company.
-- The FSA can treat the project as common industry infrastructure rather than as a single-MUFG initiative.
-- A shared stablecoin such as JPYW would be difficult as an MUFG-only proposal, but more plausible through Progmat.
+**This means**:
+- SMBC / Mizuho cannot use it if it is a MUFG subsidiary, but they can use it if it is an independent legal entity
+- The FSA does not regard it as a MUFG-only project, but approves it as industry-common infrastructure
+- Even when creating a common SC (JPYW), it would be difficult as a MUFG-only proposal, but it is possible via Progmat
 
-## Conditions for multi-megabank governance
+## Conditions for establishing multi-megabank-type governance
 
-| Condition | Content | Progmat status |
+| Condition | Content | Progmat's degree of achievement |
 |---|---|---|
-| **Neutral chairperson / CEO** | Leadership not captured by any single bank | Tatsuya Saito has Mitsubishi UFJ origins but operates as independent CEO |
-| **No single-bank majority** | No bank holds more than 50% | Achieved through MUTB's 49% stake |
-| **Government / regulatory blessing** | Central bank or supervisory authority recognizes common-industry value | FSA-led PIP context |
-| **Neutral technology partners** | Non-bank technology partners provide neutral infrastructure legitimacy | NTT Data + Datachain |
-| **Competing banks gain** | All three megabanks benefit simultaneously | Shared access to a broad corporate customer base |
-| **Exit options** | Each bank can keep parallel proprietary strategies | SMBC can pursue SBI routes; Mizuho can pursue Solana routes |
+| **Neutral chairperson / CEO** | a person not biased toward any bank | Tatsuya Saito (from Mitsubishi UFJ but concurrently an independent CEO) |
+| **Exceeding the majority threshold is NG** | no single bank holds a majority | achieved with MUTB 49% |
+| **Blessing of the government / regulatory side** | the central bank / supervisory authority certifies it as industry-common | FSA PIP–led |
+| **Neutrality of technology partners** | non-bank technology partners are neutral | NTT Data + Datachain |
+| **Competing banks gain** | the three major banks benefit simultaneously | common access for a customer base of 30 万 companies |
+| **Exit option** | each bank can also run its own line in parallel | SMBC with SBI / Mizuho with Solana in parallel |
 
 ## Contrast with BIS Project Agorá
 
 | Axis | Progmat | BIS Project Agorá |
 |---|---|---|
-| Sponsor | Private sector, trust-bank coordination | International, BIS + seven central banks |
-| Regulation | FSA supervision + trust-law architecture | BIS coordination + domestic central-bank law |
-| Settlement asset | Trust-type stablecoin | Wholesale CBDC + tokenized deposits |
-| Decision speed | Medium, based on shareholder agreements | Slow, requiring agreement among seven central banks |
-| Geographic scope | Japan-centered, with expansion under discussion | Global design, still in pilot |
-| Exit option | Shareholder stake can be sold | Sovereign commitment is difficult to unwind |
+| Leadership | private sector (trust-bank coordination) | international (BIS + 7  central banks) |
+| Regulation | FSA supervision + trust law | BIS coordination + each country's central-bank law |
+| Settlement asset | trust-type SC | wholesale CBDC + TD |
+| Decision speed | shareholder-agreement-based (medium) | 7  central-bank consensus (slow) |
+| Geographic scope | centered on domestic Japan → expansion under consideration | globally designed but in pilot |
+| Exit option | sellable as a shareholder | the state's commitment cannot be released |
 
-**Implication**: [[fintech/bis-project-agora-overview|Agorá]] has strong public-sector commitment and regulatory integration but moves slowly. [[payment-firms/progmat|Progmat]] has greater speed and flexibility, but weaker international public-sector legitimacy than Agorá. The two may become complementary: Agorá supplies the international architecture, while Progmat supplies country-level implementation.
+**Implication**: [[fintech/bis-project-agora-overview|Agorá]] has **strong public commitment and regulatory integration** but is **slow**. [[payment-firms/progmat|Progmat]] has **high speed and flexibility** but its **international legitimacy is weaker than Agorá's**. The two are complementary: a structure in which Agorá builds the international framework and Progmat handles the country-by-country implementation may be established over the long term.
 
 ## Common risks
 
 | Risk | Content |
 |---|---|
-| **Strategic divergence** | Member banks may peel away through proprietary routes, such as SMBC x SBI. |
-| **Decision delay** | Consensus requirements can cause important decisions to miss market timing. |
-| **Control contest** | MUTB's 49% stake could be read as de facto control, weakening other banks' incentives. |
-| **Lower bargaining power for later entrants** | Banks joining later cannot easily renegotiate the existing 49% design. |
-| **International alignment risk** | Overseas subsidiaries may separately partner with Kinexys or similar platforms, weakening consistency. |
+| **Strategic misalignment** | the possibility that member banks defect onto their own lines (such as SMBC × SBI) |
+| **Decision-making delay** | the unanimity requirement causes important decisions to miss their timing |
+| **Hegemony struggle** | the possibility that MUTB 49% → effectively controls and hollows out the other banks |
+| **Reduced bargaining power of new member banks** | later-joining banks cannot change the existing 49% design |
+| **Legitimacy of overseas linkage** | each bank's overseas subsidiaries individually partner with Kinexys, etc. → consistency breaks down |
 
 ## Applications
 
-- Structural analysis of any shared fintech infrastructure proposal involving multiple megabanks.
-- Reference design for stablecoin consortia in Korea, Taiwan, and other Asian markets.
-- Governance comparison for mBridge, Project Nexus, and IPS-RTGS interconnection.
-- Evolution path for existing industry utilities such as DTCC, Visa, and Mastercard.
-- Two-layer design combining a central-bank consortium with a private-sector stablecoin consortium.
+- Structural analysis of any "common fintech infrastructure across multiple megabanks" discussion
+- A reference for SC consortium designs in South Korea / Taiwan / other Asian countries
+- A governance comparison for the interconnection of mBridge / Project Nexus / IPS-RTGS
+- As an evolution of existing "industry-common infrastructure" such as DTCC / Visa / Mastercard
+- A 2 -tier structural design of a central-bank consortium + a private-sector SC consortium
 
 ---
 
@@ -98,9 +97,9 @@ Other shareholders                                       ~3%
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/jp-trust-type-sc-architecture|Japan trust-type stablecoin architecture]]
-- [[fintech/cross-border-sc-via-swift-api|Cross-border stablecoin via SWIFT API]]
+- [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
+- [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 - [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
-- [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory three-layer structure]]
-- [[fintech/central-banking-function-unbundling|Five-layer unbundling of central-bank functions]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]]
+- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
 <!-- /wiki-links:managed -->

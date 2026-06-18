@@ -1,124 +1,124 @@
 ---
 source: foreign-financial-institutions/hsbc-japan
-source_hash: 30223cf24a093d83
+source_hash: c0f25590068c6623
 lang: en
 status: machine
 fidelity: ok
-title: "HSBC Japan"
-translated_at: 2026-05-31T15:29:03.903Z
+title: "HSBC ジャパン (HSBC Japan)"
+translated_at: 2026-06-18T23:59:13.103Z
 ---
 
-# HSBC Japan
+# HSBC ジャパン (HSBC Japan)
 
 ## Wiki route
 
 This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-##TL;DR
+## TL;DR
 
-Japanese bases of British HSBC Holdings plc (LSE/HKEX listed, G-SIB Bucket 2). **1866 Opening of Yokohama branch, making it one of the oldest foreign banks**, **2012-03 Withdrawal from ``HSBC Premier'' retail → major shift to corporate exclusive use** is the turning point that defines the current business form. With Hong Kong and Shanghai Bank Tokyo Branch (Commercial/Wholesale Banking) + HSBC Securities (IB) + HSBC Global Asset Management as our 3  axis, we specialize in global expansion of Japanese banks via our Asia (Hong Kong) hub, transaction banking for multinational companies, and foreign exchange commodities. The competition is [[foreign-financial-institutions/citigroup-japan]] / Standard Chartered / Deutsche. ^[extracted]
+The group of Japan bases of the UK's HSBC Holdings plc (listed on the LSE / HKEX, G-SIB Bucket 2). **The opening of the Yokohama branch in 1866  makes it one of the oldest foreign banks**, and the **2012-03  retreat of "HSBC Premier" retail → a major pivot to a corporate-only model** is the turning point that defines its current business form. With the Hongkong and Shanghai Banking Corporation Tokyo Branch (commercial / wholesale banking) + HSBC Securities (IB) + HSBC Global Asset Management as its 3  pillars, it specializes — via an Asia (Hong Kong) hub — in supporting Japanese banks' global expansion, transaction banking for multinationals, and FX & commodities. Its competitors are [[foreign-financial-institutions/citigroup-japan]] / Standard Chartered / Deutsche Bank. ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Clubs**: HSBC Holdings plc (LSE/HKEX, ADR: NYSE) ^[extracted]
-**G-SIB**: Bucket 2 (+1.5% CET1  additional capital requirements) ^[extracted]
-**Head office**: London, UK (formerly Hong Kong, moved to 2010 London)
-**Business type**: In Japan **Foreign bank (corporate specialized) + Securities + Asset management**
+**Parent**: HSBC Holdings plc (LSE / HKEX, ADR: NYSE) ^[extracted]
+**G-SIB**: Bucket 2 (+1.5% CET1  additional capital requirement) ^[extracted]
+**Head office**: London, UK (formerly Hong Kong, 2010  relocation to London)
+**Business type**: in Japan, a **foreign-affiliated bank (corporate-focused) + securities + asset management**
 
-### Main legal person
+### Main entities
 
 ```
-HSBC Holdings plc (English, on)
-├── The Hongkong and Shanghai Banking Corporation Limited, Hong Kong
-│ └── Hong Kong and Shanghai Banking Corporation Tokyo Branch (HSBC Tokyo Branch)── Banking Core
-│ - Commercial Banking/Transaction Banking
-│ - Corporate foreign exchange/commodities/trade finance
-├── HSBC Securities Japan Limited── Type 1 Financial Instruments Business
-│ - Stocks, bonds, and derivatives for institutional investors
-│ - DCM / ECM (Japan desk collaborates with Hong Kong and Singapore hubs)
-├── HSBC Global Asset Management (Japan)── Investment management business
-│ - Global fund sales and management for institutional investors
-└── HSBC Trust Company (Japan), Ltd.── Downsizing and retreat
-- 2012 Function reduction after withdrawal from retail
+HSBC Holdings plc (UK, listed)
+  ├── The Hongkong and Shanghai Banking Corporation Limited (Hong Kong)
+  │     └── Hongkong and Shanghai Banking Corporation Tokyo Branch (HSBC Tokyo Branch) ── banking core
+  │           - commercial banking / transaction banking
+  │           - FX / commodities / trade finance for corporates
+  ├── HSBC Securities (HSBC Securities Japan Limited) ── Type I financial-instruments business
+  │     - equities / bonds / derivatives for institutional investors
+  │     - DCM / ECM (the Japan desk links with the Hong Kong / Singapore hub)
+  ├── HSBC Global Asset Management (Japan) ── investment-management business
+  │     - sales / management of global funds for institutional investors
+  └── HSBC Trust Company (Japan), Ltd. ── shrinking / withdrawing
+        - function shrank after the 2012  retail retreat
 ```
 
-### Important Chronology ^[extracted]
+### Key timeline ^[extracted]
 
-|Year|phenomenon|
+| Year | Event |
 |---|---|
-|1865 |Hong Kong HSBC entrepreneurship (Hongkong and Shanghai Banking Corporation)|
-|**1866**|**Yokohama branch opened** (The year after HSBC was founded, the oldest foreign bank before Japanese banks)|
-|1872 |Tokyo branch opened|
-|1900-1945 |Prewar core of settlement finance and foreign trade settlement (along with Yokohama Specie Bank)|
-|1945 |Interrupted during wartime → resumed after war|
-|1990s|Expansion of "HSBC Bank" for the wealthy class (foreign residents in Japan + wealthy class)|
-|2000s|Premier base expansion (Tokyo, Nagoya, Osaka, Fukuoka)|
-|**2012-03**|**HSBC Premier (Retail) withdraws from Japan** → Customer transfer to SBI Trust Bank (currently SBI Shinsei), etc.|
-|2012-|Corporate banking + institutional investor services specialization|
-|2015 |Asia-Pacific Pivot Strategy (HSBC-wide) → Redefine the role of Japan base|
-|2024 |Maintaining bases in Japan and strengthening wholesale as part of Asia strategy|
+| 1865 | HSBC founded in Hong Kong (Hongkong and Shanghai Banking Corporation) |
+| **1866** | **Yokohama branch opened** (the year after HSBC's founding; one of the oldest foreign banks, predating Japanese banks) |
+| 1872 | Tokyo branch opened |
+| 1900-1945 | Prewar, a core of settlement-district finance / foreign-trade settlement (alongside the Yokohama Specie Bank) |
+| 1945 | Wartime interruption → postwar resumption |
+| 1990s | Developed affluent-segment retail "HSBC Premier" (foreign expatriates in Japan + affluent individuals) |
+| 2000s | Premier base expansion (Tokyo, Nagoya, Osaka, Fukuoka) |
+| **2012-03** | **HSBC Premier (retail) retreats from Japan** → customers transferred to SBI Trust Bank (now SBI Shinsei), etc. |
+| 2012- | Specialization in corporate banking + institutional-investor services |
+| 2015 | Asia-Pacific pivot strategy (HSBC group-wide) → redefinition of the role of the Japan bases |
+| 2024 | Maintaining the Japan bases / strengthening wholesale as part of the Asia strategy |
 
-## 2. Business segment map
+## 2. Business-segment map
 
-|segment|Main legal person|customer|Features|
+| Segment | Main entity | Customers | Characteristics |
 |---|---|---|---|
-|commercial bank|HSBC Tokyo Branch|Large companies and multinational companies|Transaction Banking/Cash Management|
-|trade finance|HSBC Tokyo Branch|import and export enterprises|Asia/Global Payment Network Strengths|
-|Foreign exchange/commodities|HSBC Tokyo Branch|Institutional investors/large companies|Global FX Top Bank (HSBC Group)|
-|Investment banking/Securities|HSBC Securities Company|institutional investors|DCM/ECM (Hong Kong/Singapore hub collaboration)|
-|Asset management|HSBC Global AM|institutional investors|Global fund sales and management|
-|retail|**Withdrawn (2012-03)**|—|Premier customers transferred to other banks|
-|trust|HSBC Trust (narrow)|—|Reduced functions/alternative methods available|
+| Commercial banking | HSBC Tokyo Branch | Large companies / multinationals | Transaction banking / cash management |
+| Trade finance | HSBC Tokyo Branch | Import/export companies | Strength of the Asian / global settlement network |
+| FX / commodities | HSBC Tokyo Branch | Institutional investors / large companies | A top-tier global FX bank (HSBC group) |
+| Investment banking / securities | HSBC Securities | Institutional investors | DCM / ECM (links with the Hong Kong / Singapore hub) |
+| Asset management | HSBC Global AM | Institutional investors | Sales / management of global funds |
+| Retail | **Withdrawn (2012-03)** | — | Premier customers transferred to other banks |
+| Trust | HSBC Trust (shrinking) | — | Function shrinking / alternatives available |
 
-### Asia Hub Strategy
+### Asia-hub strategy
 
-- **Business in Japan via Hong Kong/Singapore**: Japan is an important customer base in the HSBC Group's overall "Pivot to Asia" strategy, but the product hub is Hong Kong/Singapore.
-- **Supporting Japanese banks' ASEAN business**: Capturing transaction banking and trade finance demand as Japanese companies expand into Asia
-- **Main bank function for multinational companies**: Collaboration with regional treasury centers (RTCs) of multinational companies in Japan, global cash management
+- **Japan business via Hong Kong / Singapore**: within HSBC group-wide's "Pivot to Asia" strategy, Japan is an important customer base, but the product hub is Hong Kong / Singapore
+- **Support for Japanese banks' ASEAN business**: capturing the transaction-banking / trade-finance demand that accompanies Japanese companies' expansion into Asia
+- **Main-bank function for multinationals**: linking with in-Japan multinationals' regional treasury centers (RTCs); global cash management
 
-### Strategic impact of retail withdrawal
+### Strategic impact of the retail retreat
 
-- **2012-03 Reason for withdrawal from “HSBC Premier”**: Japanese retail market does not match profit margin (public statement)^[extracted]
-- **Customer transfer**: Mainly transferred to SBI Trust Bank (currently [[regional-banks/sbi-shinsei-bank]] group), etc.
-- **Paradoxical effect**: Fixed costs are reduced by withdrawal → Capital efficiency is improved by specializing in corporations
-- **Control**: [[foreign-financial-institutions/citigroup-japan]] withdrew from 2015  retail (sold to Sumitomo Mitsui [[megabanks/smfg]]). Foreign IBs’ withdrawal from retail is a structural trend
+- **Reason for the 2012-03  "HSBC Premier" retreat**: the Japanese retail market did not match profitability (public statement) ^[extracted]
+- **Customer transfer**: mainly transferred to SBI Trust Bank (now of the [[regional-banks/sbi-shinsei-bank]] group), etc.
+- **Paradoxical effect**: the retreat cut fixed costs → corporate-only specialization improved capital efficiency
+- **Contrast**: [[foreign-financial-institutions/citigroup-japan]] retreated from retail in 2015  (sold to Sumitomo Mitsui [[megabanks/smfg]]). The retail retreat of foreign-affiliated IBs is a structural trend
 
-### Competitive relationship
+### Competitive relationships
 
-|competition|position|Difference with HSBC|
+| Competitor | Position | Difference from HSBC |
 |---|---|---|
-|[[foreign-financial-institutions/citigroup-japan]]|Citi Private Bank, the largest foreign investor in the United States, remains among the wealthy class|HSBC specializes in corporations, Citi has a private bank|
-|Standard Chartered (Tokyo Branch)|UK emerging market specialization|HSBC has HK/China desk strengths|
-|Deutsche Bank Tokyo Branch|German IB, strength in derivatives|HSBC focuses on commercial banking|
-|JP Morgan / GS / Morgan Stanley Tokyo|rice bulge bracket IB|HSBC is more of a commercial bank than IB|
+| [[foreign-financial-institutions/citigroup-japan]] | The largest US foreign affiliate; retains affluent clients via Citi Private Bank | HSBC is corporate-focused; Citi has a private bank |
+| Standard Chartered (Tokyo Branch) | UK, focused on emerging markets | HSBC has strength in its HK / China desk |
+| Deutsche Bank Tokyo Branch | German IB, strong in derivatives | HSBC emphasizes commercial banking |
+| JPMorgan / GS / Morgan Stanley Tokyo | US bulge-bracket IBs | HSBC leans more toward commercial banking than IB |
 
 ### Relationship with Japanese banks
 
-- **Complementary relationship between MUFG / SMFG / Mizuho**: Functions as a local support for Japanese banks' expansion into Asia (especially Hong Kong and Southeast Asia)
-- **Weak competitive relationship**: Avoiding head-on competition with mega banks by withdrawing from retail
+- **Complementary relationship with MUFG / SMFG / Mizuho**: functions as a local receiving partner for Japanese banks' expansion into Asia (especially Hong Kong / Southeast Asia)
+- **Weak competitive relationship**: avoids head-on competition with the megabanks due to the retail retreat
 
-## 4. Regulations and Policies
+## 4. Regulation & policy
 
-- **Japanese side Supervision**: Financial Services Agency (FSA) foreign bank branch supervision
-- **Home country regulations**: UK PRA (Prudential Regulation Authority) + FCA
-- **G-SIB Bucket 2**: FSB certified (+1.5% CET1) ^[extracted]
-- **Japan-based regulatory issues**:
-- Foreign bank branches → Supervision based on “all assets in Japan”
-- Type 1 Financial Instruments Business (HSBC Securities Company) → Normal securities company regulations
-- Anti-money laundering (AML) → Global policy + Japan FIU collaboration
+- **Japan-side supervisor**: the FSA, supervision of foreign-bank branches
+- **Home-country regulation**: the UK PRA (Prudential Regulation Authority) + FCA
+- **G-SIB Bucket 2**: FSB designation (+1.5% CET1) ^[extracted]
+- **Regulatory issues for the Japan bases**:
+  - Foreign-bank branch → supervised on the basis of "all assets in Japan"
+  - Type I financial-instruments business (HSBC Securities) → ordinary securities-firm regulation
+  - Anti-money-laundering measures (AML) → global policy + linkage with Japan's FIU
 
 ## Related
 
 - [[foreign-financial-institutions/citigroup-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
-- [[banking/foreign-bank-japan-retreat]] (History of foreign banks withdrawing from Japanese retail)
+- [[banking/foreign-bank-japan-retreat]] (history of foreign-affiliated banks' retail retreat from Japan)
 
 ## Sources
 
-- **Wikipedia: HSBC / The Hong Kong and Shanghai Banking Corporation** (extracted from https://ja.wikipedia.org/wiki/HSBC, 2026-05-19)
-- **HSBC Holdings plc Annual Report 2024**（https://www.hsbc.com/investors）
-- **HSBC Japan Official Website History** (https://www.business.hsbc.co.jp, 2025  updated)
+- **Wikipedia: HSBC / Hongkong and Shanghai Banking Corporation** (https://ja.wikipedia.org/wiki/HSBC, extracted 2026-05-19)
+- **HSBC Holdings plc Annual Report 2024** (https://www.hsbc.com/investors)
+- **HSBC Japan official site, history** (https://www.business.hsbc.co.jp, updated 2025 )
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0 Wikipedia + official public information base, 2026-05-19). HSBC's Japanese base is unlisted and has a lot of undisclosed information, and its revenue scale and number of employees are not officially disclosed. Important facts (1866 Yokohama Branch, 2012-03 Retail withdrawal, G-SIB Bucket 2) have been verified by public sources. No inside information is cited.
+> confidence: **likely** (based on v1.0  Wikipedia + official public information, 2026-05-19). HSBC's Japan bases have much unlisted / undisclosed information; there is no official disclosure of revenue scale or headcount. The key facts (the 1866  Yokohama branch, the 2012-03  retail retreat, G-SIB Bucket 2) have been verified against public sources. No internal information is cited.

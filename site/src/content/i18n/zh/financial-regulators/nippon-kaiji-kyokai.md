@@ -1,46 +1,47 @@
 ---
 source: financial-regulators/nippon-kaiji-kyokai
-source_hash: 9304522eeb7d575d
+source_hash: 85d9c9eb4e98f491
 lang: zh
 status: machine
 fidelity: ok
 title: "日本海事协会 (ClassNK)"
-translated_at: 2026-06-01T00:41:50.450Z
+translated_at: 2026-06-18T23:59:13.099Z
 ---
+
 # 日本海事协会 (ClassNK)
 
-## Wiki 路径
+## Wiki 路线
 
-本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] 对照阅读，后者是直接的海事业兄弟节点，船级协会 + P&I 俱乐部构成一组海事基础设施；也可与 [[insurance/INDEX|insurance index]] 一并作为更广义的风险转移系统框架阅读。ClassNK **不是保险公司**，但其检验直接支撑船体险和 P&I 承保，因此在 JapanFG wiki 中被放作“保险邻接”的制度锚点，而不是持牌金融实体。
+本条目归于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。请将其与 [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] 对照阅读——后者是其在海事产业中的直接同类（船级协会 + P&I 俱乐部构成成对的海事基础设施），并参阅 [[insurance/INDEX|insurance index]] 作为更宏观的风险转移系统框架。ClassNK **并非保险公司**，但其检验直接支撑船体险与 P&I 承保，因此在 JapanFG wiki 中，它是作为「保险邻接」的机构锚点，而非作为持牌金融实体存在。
 
 ## TL;DR
 
-一般财团法人日本海事协会（Nippon Kaiji Kyokai，通称 ClassNK）是全球最大级别的**船舶检验与登记（船级登记）机构**之一。其创立于 1899 年（明治 32 年），是 IACS（International Association of Classification Societies）11 社 个正式会员中的 1  个之一。它**不是保险公司，而是检验和认证机构**；但若没有 ClassNK 发行的船级证书（class certificate），船舶保险、P&I 和融资通常无法成立，因此本页将其作为海事保险和船舶金融的**邻接基础设施**纳入 JapanFG。
+一般财团法人 日本海事协会（Nippon Kaiji Kyokai，通称 ClassNK）是 **从事船舶检验・登记（船级登记）的世界最大级船级协会** 之一。它是 1899 年（明治 32  年）设立的老字号，是 IACS（International Association of Classification Societies）正式会员 11 社 家中的 1  家。**它不是保险公司，而是检验・认证机构**，但由于没有 ClassNK 签发的船级证书（class certificate）就无法成立船舶保险・P&I・融资，因此被配置于 JapanFG，作为海事保险・船舶融资的 **邻接基础设施**。
 
-## 1. 牌照 / 集团边界
+## 1. License / group boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | 一般财团法人 日本海事协会（Nippon Kaiji Kyokai / ClassNK） |
-| 创立 | 1899 年（明治 32 年） |
-| 法律形态 | 一般财团法人（非营利公益事业法人） |
-| 监管 / 主管 | 国土交通省（船舶检验与船级制度主管）+ IMO（国际海事组织）认证 |
-| 国际层级 | IACS（International Association of Classification Societies）正式会员 |
-| Wiki 角色 | 船级协会锚点，保险邻接基础设施 |
+| Legal name | 一般财团法人 日本海事协会（Nippon Kaiji Kyokai / ClassNK） |
+| Founded | 1899 年（明治 32  年） |
+| Legal form | 一般财团法人（非营利公益事业法人） |
+| Regulator | 国土交通省（船舶检验・船级制度主管）+ IMO（国际海事组织）认证 |
+| International tier | IACS（International Association of Classification Societies）正式会员 |
+| Wiki role | Marine classification society anchor — insurance-adjacent infrastructure |
 
-## 2. 业务线
+## 2. Business lines
 
-- **船级登记** — 对商船、油轮、LNG 船、集装箱船、散货船等在设计、建造和运营中的规则符合性进行检验。
-- **法定检验代理** — 接受旗国政府（日本及委托其他国家）委任，执行 SOLAS、MARPOL 等 IMO 条约检验。
-- **ISM / ISPS / MLC 认证** — 船舶安全管理、保安和海事劳工公约的管理体系认证。
-- **许可 / 产业认证** — 海事产业标准和软件认证。
+- **船级登记** — 对商船・油轮・LNG 船・集装箱船・散货船等的设计・建造・运营进行规则符合性检验
+- **法定检验代理** — 受旗国政府（日本 + 受委托的其他国家）委托进行 SOLAS・MARPOL 等 IMO 公约检验
+- **ISM / ISPS / MLC 认证** — 船舶安全管理・保安・海事劳工公约的管理体系认证
+- **许可 / 产业认证** — Marine industry standards, software certification
 
-## 4. 本页为何重要
+## 4. Why this page matters
 
-- 它是海事保险和船舶金融的**前置基础设施锚点**，对理解保险业务不可或缺，但在传统金融机构分类中容易遗漏。
-- 与 [[financial-regulators/japan-pi-club]] 一起完成“海事基础设施双核心”（船级协会 + P&I 俱乐部）集群。
-- 可视化原保险损保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]）与航运业之间的系统连接。
-- 作为全球 IACS 的日本接点，脱碳监管对应也会影响未来承保风险评估轴。
+- 海事保险・船舶融资的 **「前端基础设施」锚点** — 对理解保险业不可或缺，但在传统金融机构分类中会被遗漏的邻接领域
+- 与 [[financial-regulators/japan-pi-club]] 并列，完成「海事基础设施两强」（船级协会 + P&I 俱乐部）的集群
+- 可视化原保险损保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]）与海运业交叉点的 system link
+- 全球 IACS 的日本接点锚点，在脱碳监管应对中将左右未来承保风险评估的维度
 
 ## Related
 
@@ -53,12 +54,12 @@ translated_at: 2026-06-01T00:41:50.450Z
 
 ## Sources
 
-- 日本海事协会 official website（https://www.classnk.or.jp/, 参见 2026-05-24）
-- ClassNK English site（https://www.classnk.or.jp/hp/en/index.html, 参见 2026-05-24）
-- International Group of P&I Clubs（https://www.igpandi.org/clubs, 参见 2026-05-24，相关参考）
+- 日本海事协会 official website（https://www.classnk.or.jp/, 2026-05-24 参照）
+- ClassNK English site（https://www.classnk.or.jp/hp/en/index.html, 2026-05-24 参照）
+- International Group of P&I Clubs（https://www.igpandi.org/clubs, 2026-05-24 参照，相关参考）
 - IACS（International Association of Classification Societies）member list（https://iacs.org.uk/）
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。严格来说，ClassNK 不是保险公司，而是一般财团法人形式的检验机构；但由于其构成船舶保险和 P&I 承保的前提条件，实质上承担“保险业邻接基础设施”角色，因此 JapanFG 以 adjacent-industry 标签放置。IACS 正式会员、1899 年设立、国际船级协会等基本信息基于公开来源。
+> confidence: **likely**。ClassNK 严格而言并非保险公司，而是一般财团法人性质的检验机构，但因其作为船舶保险・P&I 承保的前提条件而具有实质上的「保险业邻接基础设施」角色，故在 JapanFG 中以 adjacent-industry 标签配置。IACS 正式会员・1899 年 设立・国际性船级协会等基本信息均以公开资料为基础。

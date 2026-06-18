@@ -1,40 +1,40 @@
 ---
 source: financial-conglomerates/mitsui-co
-source_hash: 27a7b35b99fe77b7
+source_hash: 2b67e695583592ea
 lang: en
 status: machine
 fidelity: ok
-title: "Mitsui & Co., Ltd."
-translated_at: 2026-05-31T23:59:49.391Z
+title: "Mitsui & Co., Ltd. (三井物産)"
+translated_at: 2026-06-18T23:59:13.088Z
 ---
-# Mitsui & Co., Ltd.
+# Mitsui & Co., Ltd. (三井物産)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], the largest rival competing for the top net-income position, and [[financial-conglomerates/itochu-corp|Itochu Corporation]], the five-major-trading-company contrast with a more non-resource tilt, for peer and contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] as the internal CMS function. Treating [[leasing-firms/smfl|SMFL]] as Mitsui & Co.'s main leasing subsidiary is **inaccurate**. Mitsui & Co.'s main leasing affiliate is [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]], a JA Zen-Noh + Mitsui & Co. line formed through the merger of former Mitsui Leasing and JA Leasing. That is separate from its stake in [[leasing-firms/smfl|SMFL]], the SMFG / Sumitomo Corporation line, and from its stake in [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (the largest rival contending for the top net-profit spot) and [[financial-conglomerates/itochu-corp|伊藤忠商事]] (a contrast among the 5  major trading companies, leaning non-resource) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] (in-house CMS), while [[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] is **incorrect** — Mitsui & Co.'s main leasing subsidiary is [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (JA Zen-Noh + Mitsui & Co. 50/50  lineage — the merged body of the former Mitsui Leasing + JA Leasing), which is a separate matter from the stake in [[leasing-firms/smfl|SMFL]] of the SMFG / Sumitomo Corp lineage (SMFL = 50% SMFG + 50% Sumitomo Corp), plus a certain stake in [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| Official name | Mitsui & Co., Ltd. ^[extracted] |
+| Formal name | 三井物産株式会社 ^[extracted] |
 | English | Mitsui & Co., Ltd. ^[extracted] |
 | Ticker | TSE PRIME **8031** ^[extracted] |
-| Listing | Tokyo Stock Exchange PRIME Market, including Nagoya listing ^[extracted] |
-| Established | 1947 年 (after postwar breakup, companies from the former Mitsui & Co. line were integrated into the current form in 1959 年) ^[extracted] |
-| Head office | Otemachi, Chiyoda-ku, Tokyo ^[extracted] |
+| Listing | Tokyo Stock Exchange PRIME market, including Nagoya listing ^[extracted] |
+| Established | 1947 年 (current form via integration of former Mitsui & Co.-lineage companies in 1959 年 after the postwar breakup) ^[extracted] |
+| Headquarters | Otemachi, Chiyoda-ku, Tokyo ^[extracted] |
 | Accounting standard | IFRS ^[extracted] |
-| Main segments | Energy, mineral & metal resources, machinery & infrastructure, chemicals, lifestyle (food / healthcare), mobility, ICT, iron & steel products ^[extracted] |
+| Main segments | Energy, mineral resources, machinery & infrastructure, chemicals, lifestyle (food & healthcare), mobility, ICT, iron & steel products ^[extracted] |
 
-### Major subsidiaries / affiliates (JapanFG context)
+### Main subsidiaries / affiliates (JapanFG context)
 
 ```
-Mitsui & Co. (8031,  TSE PRIME)
-  ├── [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services (MBFS)]] (100%) — internal CMS / group finance
-  ├── [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (approx. 33% class, equity-method)                      — former Mitsui Leasing + JA Leasing merger
-  ├── [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] (partial stake)        — among the domestic leaders in auto leasing
-  ├── IHH Healthcare (Asian hospital chain, major shareholder level)                                     — healthcare platform
-  └── Numerous overseas resource JVs (Vale-related, LNG, upstream oil)
+Mitsui & Co. (8031, TSE PRIME)
+  ├── [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス (MBFS)]] (100%) — in-house CMS / group finance
+  ├── [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (approx. 33% class, equity method)                      — merged body of former Mitsui Leasing + JA Leasing
+  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (partial stake)        — top-tier domestic auto-leasing
+  ├── IHH Healthcare (Asian hospital chain, major-shareholder class)                                     — healthcare platform
+  └── numerous overseas resource JVs (Vale-related, LNG, oil upstream)
 ```
 
 ### History highlights ^[extracted]
@@ -42,83 +42,83 @@ Mitsui & Co. (8031,  TSE PRIME)
 | Year | Event |
 |---|---|
 | 1876 | Former Mitsui Bussan Kaisha established — Japan's first sōgō shōsha |
-| 1947 | Former Mitsui & Co. dissolved under GHQ zaibatsu dissolution (split into more than 200 社 small companies) |
+| 1947 | Former Mitsui & Co. dissolved in the GHQ zaibatsu dissolution (split into more than 200 社 smaller companies) |
 | 1959 | Current Mitsui & Co. established through reintegration |
-| 1970s onward | Entered LNG upstream projects such as Brunei and Australia NWS |
-| 1990s onward | Iron-ore projects with Brazil's Vale through Valepar and IBVN stake |
-| 2010s | Participated in US Cameron LNG and Mozambique Area1  LNG |
+| 1970s〜 | Entry into LNG upstream (Brunei, Australia NWS) |
+| 1990s〜 | Iron-ore projects with Brazil's Vale (via Valepar), IBVN stake |
+| 2010s | Participation in US Cameron LNG, Mozambique Area 1  LNG |
 | 2018 | Became a major shareholder of IHH Healthcare (Asian hospital chain) |
-| 2020s | Net income reached the 1 兆円 class and shareholder returns accelerated |
-| 2024 | Valuation rerating after reports that Berkshire Hathaway increased trading-company holdings |
+| 2020s | Net profit reaching the 1 兆円 class, accelerated shareholder returns |
+| 2024 | Valuation re-rating following reports of Berkshire Hathaway increasing its trading-company holdings |
 
 ## 2. Business segment map
 
-| Segment | Main businesses | Representative investments |
+| Segment | Main businesses | Representative investees |
 |---|---|---|
-| Energy | LNG (Australia NWS, Brunei, Mozambique, US Cameron, Indonesia Tangguh), upstream oil / natural gas | Numerous global E&P JVs |
-| Mineral & metal resources | Iron ore (Brazil Vale-related / Australia), copper, nickel, metallurgical coal, rare earths | Valepar-related, alliance with SMM (Sumitomo Metal Mining) |
-| Machinery & infrastructure | Power IPP, seawater desalination, railways, shipping, commercial machinery | Numerous global infrastructure JVs |
+| Energy | LNG (Australia NWS, Brunei, Mozambique, US Cameron, Indonesia Tangguh), crude oil / natural gas upstream | numerous global E&P JVs |
+| Mineral resources | Iron ore (Brazil Vale-lineage / Australia), copper, nickel, coking coal, rare earths | Valepar-related, collaboration with SMM (Sumitomo Metal Mining) |
+| Machinery & infrastructure | Power IPP, seawater desalination, railways, shipping, commercial machinery | numerous global infra JVs |
 | Chemicals | Petrochemicals, fertilizers, functional chemicals, renewable methanol | — |
-| Lifestyle | Food (grain / marine products), healthcare (IHH Healthcare etc.), consumer | IHH Healthcare (Asian hospitals), medical / healthcare platform |
-| Mobility | Auto distribution (Southeast Asia, Africa, South America), leasing, shipping, aviation | Penske Automotive Group (US), TGN (Southeast Asia) |
+| Lifestyle | Food (grain & marine products), healthcare (IHH Healthcare, etc.), consumer | IHH Healthcare (Asian hospitals), medical / healthcare platforms |
+| Mobility | Automotive distribution (Southeast Asia, Africa, South America), leasing, shipping, aviation | Penske Automotive Group (US), TGN (Southeast Asia) |
 | ICT | IT services, telecom, data centers | — |
-| Iron & steel products | Steel-product trading and processing | — |
+| Iron & steel products | Steel trading, processing | — |
 
 ## 3. Financial-services adjacency
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| Mitsui & Co. Financial Services (MBFS) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | Internal CMS / group factoring / FX and interest-rate hedge intermediation |
-| JA Mitsui Leasing | [[cooperative-banks/ja-mitsui-leasing]] | Approx. 33% class (equity-method) | Former Mitsui Leasing + JA Zen-Noh leasing merger; major general leasing company |
-| Sumitomo Mitsui Auto Service | [[leasing-firms/sumitomo-mitsui-auto-service]] | Certain stake (Mitsui & Co. + Sumitomo Corporation + SMFG line) | Domestic auto-leasing leader |
+| Mitsui & Co. Financial Services (MBFS) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | in-house CMS / group factoring / FX-interest hedging intermediation |
+| JA Mitsui Leasing | [[cooperative-banks/ja-mitsui-leasing]] | approx. 33% class (equity method) | merged body of former Mitsui Leasing + JA Zen-Noh-lineage leasing, major comprehensive lessor |
+| Sumitomo Mitsui Auto Service | [[leasing-firms/sumitomo-mitsui-auto-service]] | certain stake (Mitsui & Co. + Sumitomo Corp + SMFG lineage) | top-tier domestic auto-leasing |
 
-In addition, **the Mitsui Group financial-services ecosystem** includes:
-- [[megabanks/smfg|SMFG]] / Sumitomo Mitsui Banking Corporation (major Mitsui Group megabank, cross-shareholdings)
+In addition, the **financial-services ecosystem of the Mitsui group**:
+- [[megabanks/smfg|SMFG]] / Sumitomo Mitsui Banking Corporation (the Mitsui group's main megabank, cross-shareholdings)
 
-Mitsui & Co. itself does not hold a banking license, but it is anchored in the full-line financial ecosystem of **"trading company ↔ megabank ↔ trust ↔ insurance ↔ leasing"** through its group affiliations.
+Mitsui & Co. itself does not hold a banking license, but is anchored — through its group affiliates — to a **full-line financial ecosystem of "trading company ↔ megabank ↔ trust ↔ insurance ↔ leasing"**.
 
 ### Identity among the 5  major trading companies
 
-- **Non-resource expansion**: since the 2010s, Mitsui has accelerated global M&A in non-resource areas such as **healthcare (IHH), mobility (Penske Automotive), and infrastructure (seawater desalination)**
-- **Shareholder returns**: progressive dividends + large-scale share buybacks, with PBR above 1.0x in view
+- **Non-resource expansion**: Since the 2010s, it has stepped up global M&A in non-resource areas such as **healthcare (IHH), mobility (Penske Automotive), and infrastructure (seawater desalination)**
+- **Shareholder returns**: Progressive dividends + large-scale share buybacks, mindful of a PBR above 1.0x
 
-### Competition
+### Competitors
 
-- **Domestic**: 5  major trading companies ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]])
+- **Domestic**: the 5  major trading companies ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]])
 - **Overseas resources**: BHP, Vale (partner and competitor), Glencore
-- **Overseas mobility**: national auto distributors and US dealership groups
+- **Overseas mobility**: automotive distributors in various countries, US dealership groups
 
-## 5. Regulation / policy
+## 5. Regulation & policy
 
-- **Accounting**: adopts IFRS; high weight of equity-method investments (IHH / Penske / multiple JVs) ^[extracted]
+- **Accounting**: IFRS adopted, with a large weight of equity-method investments (IHH / Penske / multiple JVs) ^[extracted]
 
 ## 7. Open questions
 
-- Progress of **resource portfolio transition** (reducing coal; expanding copper, hydrogen, offshore wind) and CAPEX allocation
-- Long-term monetization of **IHH Healthcare** and policy on additional purchases or partial sale
-- Deepening relationship with **Penske Automotive** amid the North American EV shift and structural changes in the dealership business
-- Pressure to unwind **Mitsui Group cross-shareholdings** and the trading-company-side policy
-- Future balance of power for **top net income** among the 5  major trading companies ([[financial-conglomerates/mitsubishi-corp|三菱商事]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / Mitsui & Co.)
-- Whether **JA Mitsui Leasing** will list or undergo structural reform
+- The pace of **resource portfolio transformation** (coal reduction, copper / hydrogen / offshore-wind expansion) and CAPEX allocation
+- The long-term monetization of **IHH Healthcare**, and the policy of additional buy-up or partial divestiture
+- Deepening relations with **Penske Automotive** (the North American EV shift and structural change in the dealership business)
+- Pressure to unwind **Mitsui group cross-shareholdings** and the trading-company side's policy
+- The future balance of power for the **top net-profit spot** among the 5  major trading companies ([[financial-conglomerates/mitsubishi-corp|三菱商事]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / Mitsui & Co.)
+- Whether **JA Mitsui Leasing** lists / undertakes structural reform
 
 ## Related
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading companies)
-- [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] (internal group treasury)
-- [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (equity-method leasing)
-- [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] (auto leasing)
-- [[megabanks/smfg|SMFG]] · [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] · [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] (Mitsui Group finance)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (in-house group treasury)
+- [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (equity-method leasing)
+- [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (auto leasing)
+- [[megabanks/smfg|SMFG]] · [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] · [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] (Mitsui group finance)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
 ## Sources
 
 - Mitsui & Co. (8031) official IR — https://www.mitsui.com/jp/ja/ir/
 - Mitsui & Co. integrated report — https://www.mitsui.com/jp/ja/ir/library/integrated/
-- EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: Mitsui & Co. / 8031)
-- JPX issue information 8031 — https://www2.jpx.co.jp/
+- EDINET securities report — https://disclosure.edinet-fsa.go.jp/ (search: 三井物産 / 8031)
+- JPX listing information 8031 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Mitsui & Co. is well covered on the public surface. The financial-subsidiary boundary has been cross-validated with [[trading-company-finance/mitsui-bussan-financial-services]] / [[cooperative-banks/ja-mitsui-leasing]] / [[leasing-firms/sumitomo-mitsui-auto-service]]. Latest figures for consolidated net income, segment profit, and equity-method investments should be updated from the securities report / integrated report each time.
+> confidence: **likely**. Mitsui & Co. is sufficiently covered on the public surface. The financial-subsidiary boundary has been cross-validated with [[trading-company-finance/mitsui-bussan-financial-services]] / [[cooperative-banks/ja-mitsui-leasing]] / [[leasing-firms/sumitomo-mitsui-auto-service]]. The latest figures for consolidated net profit, segment-level profit, and equity-method investments are updated as needed in the securities report / integrated report.

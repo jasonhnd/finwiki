@@ -1,145 +1,145 @@
 ---
 source: foreign-financial-institutions/barclays-japan
-source_hash: ccf484a60c76c53e
+source_hash: 7fc654e290b192b8
 lang: zh
 status: machine
 fidelity: ok
-title: "巴克莱日本"
-translated_at: 2026-05-31T11:13:44.892Z
+title: "巴克莱日本 (Barclays Japan)"
+translated_at: 2026-06-18T23:59:13.083Z
 ---
 
-# 巴克莱日本
+# 巴克莱日本 (Barclays Japan)
 
-## 维基路线
+## Wiki 路径
 
-该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。阅读它反对 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可对照 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 阅读同业／对比语境，对照 [[banking/INDEX|banking index]] 阅读更广泛的系统／监管边界。
 
-##TL;博士
+## TL;DR
 
-英国 **Barclays PLC**（G-SIB Bucket 2）的日本基地。 **1969 驻在员事务所开设 → 1972 东京分店 → 1986 第一家在东京证券交易所上市的英国银行 → 1987 BZW证券营业部 → 1990 东京证交所会员 → 2006 巴克莱资本证券化 → 2012 商号更改为巴克莱证券**。随着雷曼冲击后的全球重组，**北美被巴克莱收购，亚太地区（包括日本）被巴克莱收购。 [[securities-firms/nomura-hd]] 由于雷曼收购，日本基地将不会直接受益于雷曼整合，并将奉行自力更生的 IB/市场集中战略。2016 因全球重组退出亚洲股权现金业务，目前**日本、香港、新加坡和印度 4 该基地仍将作为亚洲核心市场**。关于 500 名规模、总公司：六本木新城森大厦 31F。^[extracted]
+英国 **Barclays PLC**（G-SIB Bucket 2）的日本据点。**1969 开设驻在员事务所 → 1972 东京支店 → 1986 英国银行首家东证上市 → 1987 BZW 证券事务所 → 1990 东证会员 → 2006 巴克莱资本证券化 → 2012 更名为巴克莱证券**。雷曼冲击后的全球重组中，**北美由巴克莱收购，亚太（含日本）由 [[securities-firms/nomura-hd]] 收购**，因此**日本据点未直接受益于 Lehman 整合**，走上靠自身集中于 IB / 市场业务的战略。2016 全球重组中退出亚洲股票现金业务，目前将**日本・香港・新加坡・印度 4 据点作为核心亚洲市场**留存。约 500 名规模，总部位于六本木 Hills 森大厦 31F。^[extracted]
 
-## 1。公司简介
+## 1. 公司概况
 
-**亲会社**: Barclays PLC (英国上场、LSE: BARC, NYSE: BCS) — G-SIB Bucket 2
-**Country CEO (日本代表)**: 森原 恒辅 (Kosuke Morimoto) ^[extracted]
+**母公司**: Barclays PLC（英国上市，LSE: BARC, NYSE: BCS）— G-SIB Bucket 2
+**Country CEO（日本代表）**: 森原 恒輔（Kosuke Morimoto）^[extracted]
 
 ### 主要日本法人
 
 | 法人 | 形态 | 业务 |
 |---|---|---|
-| **巴克莱银行东京分行**（巴克莱银行东京分行）|外国银行分行|企业银行业务、市场|
-| **巴克莱证券日本有限公司**（巴克莱证券日本有限公司）|国内法人/金融商人|投资银行、股票/债券承销、并购咨询、交易 |
+| **巴克莱银行 东京支店**（Barclays Bank PLC, Tokyo Branch）| 外国银行支店 | 法人银行业务、市场业务 |
+| **巴克莱证券股份有限公司**（Barclays Securities Japan Limited）| 国内法人・金商业者 | 投资银行、股票・债券承销、M&A 顾问、交易 |
 
-- 前 **巴克莱资本证券** (2006-2012）→ 2012 因商号变更而现用的名称
-- 前 **巴克莱投资管理**（资产管理）— 过去的存在
-- 前身为 **巴克莱全球投资者信托银行** (BGI) → 2008 住友信托银行（现 [[trust-banks/sumitomo-mitsui-trust]]）合并于 ^[extracted]
+- 旧 **巴克莱资本证券**（2006-2012）→ 2012 更名为现名称
+- 旧 **巴克莱投信投资顾问**（资产运用）— 曾经存在
+- 旧 **巴克莱全球投资者信托银行**（BGI）→ 2008 被住友信托银行（现 [[trust-banks/sumitomo-mitsui-trust]]）吸收合并 ^[extracted]
 
-### 巴克莱证券（实质性信息）^[extracted]
+### 巴克莱证券（实体信息）^[extracted]
 
 | 项目 | 内容 |
 |---|---|
-|代表董事 |木曾健太郎 |
-|总部|106-6131 东京都港区六本木 6-10-1 六本木新城森大厦 31F |
-|注册 |关东地方财政局（金商）第143号 |
-|法人号码 | 4010401086856 |
-|员工人数 |日本组总计约 500 名 |
+| 代表董事 | 木曾 健太郎（Kentaro Kiso）|
+| 总部 | 〒106-6131 东京都港区六本木 6-10-1 六本木 Hills 森大厦 31F |
+| 登记 | 关东财务局长(金商)第143号 |
+| 法人编号 | 4010401086856 |
+| 员工数 | 日本集团合计 约 500 名 |
 | 电话 | 03-4530-1100 |
 
-### 日本基地位置
+### 日本据点的定位
 
-````
-Barclays PLC（英国上场、G-SIB Bucket 2）
-  └── 亚太地区（2016 重组后 4 核心市场）
-        ├── 日本★（东京）
+```
+Barclays PLC（英国上市，G-SIB Bucket 2）
+  └── Asia Pacific（2016 重组后 4 核心市场）
+        ├── 日本 ★（东京）
         ├── 香港
         ├── 新加坡
         └── 印度
 
-日本基地
-  ├── 巴克莱银行东京分行（外国银行分行）
+日本据点
+  ├── 巴克莱银行 东京支店（外银支店）
   └── 巴克莱证券（国内法人）
-        └── 六本木新城森大厦 31专注于F
-````
+        └── 集中于六本木 Hills 森大厦 31F
+```
 
 ## 2. 沿革・重要年表
 
-|年份|活动 |
+| 年 | 事项 |
 |---|---|
-| **1969** |巴克莱银行**东京代表处**开业（巴克莱银行的第一个亚洲基地）^[extracted] |
-| **1972** |升级为**东京分公司**并开始运营 ^[extracted] |
-| 1986 | **第一家在东京证券交易所上市的英国银行** ^[extracted] |
-| 1987 | **BZW证券公司**（巴克莱资本证券前身）代表处→升格为分公司 ^[extracted] |
-| 1990 | BZW证券公司东京分公司、东京证券交易所正式会员 ^[extracted] |
-| 1995 | BZW 证券公司 → 更名为 **BZW 日本证券公司** 东京分公司 ^[extracted] |
-| 1998 | **更名为巴克莱资本证券有限公司** 东京分公司 ^[extracted] |
-| 2006 |巴克莱资本证券有限公司 → **巴克莱资本证券有限公司**（在日本注册成立）^[extracted] |
-| **2008-06-28** |东京证交所退市 ^[extracted] |
-| **2008-09** | ** 雷曼兄弟美洲业务约 17.5 億以美元收购**（加强全球 IB） — 然而，**亚太地区 + 欧洲/中东 [[securities-firms/nomura-hd]] 收购**，日本基地无直接整合效果 ^[extracted] |
-| 2008 | **华大信托银行 → 住友信托银行（目前 [[trust-banks/sumitomo-mitsui-trust]]) 合并** ^[extracted] |
-| **2009-06** |母公司巴克莱银行将整个华大基因部门出售给贝莱德 135 億出售美元** → 日本也有效退出资产管理 ^[extracted] |
-| **2010-03** | **大手町↔六本木基地交换**（部分替换为继承了前雷曼基地的野村证券；巴克莱搬迁至六本木新城森大厦） 31聚合至 F)^[extracted] |
-| 2012 |巴克莱资本证券 → 商号变更为**巴克莱证券有限公司** ^[extracted] |
-| **2016** | **全球重组**：退出亚洲股权现金业务，减少来自澳大利亚、印度尼西亚、马来西亚、菲律宾、韩国、台湾和泰国的IB，**日本 4 仍然是核心市场**。同时从非洲撤军 ^[extracted] |
-| 2016 | **Asahi Group HD 收购中东欧啤酒（约 8900 億円) 买方顾问**——唯一的重大并购交易 ^[extracted] |
-| 2021-12 |亚洲商业振兴政策（彭博社报道），加强在日本和香港的招聘 ^[extracted] |
-| 2024-01 |马场直彦被任命为**首席经济学家兼研究总监** ^[extracted] |
-| 2025-01 |竹村洋一被任命为**日本宏观贸易总部** ^[extracted] |
+| **1969** | 巴克莱银行 开设 **东京驻在员事务所**（巴克莱首个亚洲据点）^[extracted] |
+| **1972** | 升格为 **东京支店**・开始营业 ^[extracted] |
+| 1986 | **作为英国的银行首家在东京证券交易所上市** ^[extracted] |
+| 1987 | **BZW 证券公司**（巴克莱资本证券的前身）驻在员事务所 → 升格为支店 ^[extracted] |
+| 1990 | BZW 证券公司 东京支店，东证 正式会员 ^[extracted] |
+| 1995 | BZW 证券公司 → 改名为 **BZW 日本证券公司** 东京支店 ^[extracted] |
+| 1998 | 改名为 **巴克莱资本证券公司** 东京支店 ^[extracted] |
+| 2006 | 巴克莱资本证券公司 → **巴克莱资本证券股份有限公司**（日本法人化）^[extracted] |
+| **2008-06-28** | 东证 退市 ^[extracted] |
+| **2008-09** | **以约 17.5 億美元收购 雷曼兄弟 美洲业务**（强化全球 IB）— 但**亚太 + 欧洲・中东由 [[securities-firms/nomura-hd]] 收购**，日本据点无直接整合效果 ^[extracted] |
+| 2008 | **BGI 信托银行 → 被住友信托银行（现 [[trust-banks/sumitomo-mitsui-trust]]）吸收合并** ^[extracted] |
+| **2009-06** | 母公司 Barclays **以约 135 億美元将 BGI 部门整体出售给 BlackRock** → 日本亦实质上退出资产运用 ^[extracted] |
+| **2010-03** | **大手町 ↔ 六本木 据点互换**（与继承旧雷曼据点的 野村 部分对调，巴克莱集中至六本木 Hills 森大厦 31F）^[extracted] |
+| 2012 | 巴克莱资本证券 → 更名为 **巴克莱证券股份有限公司** ^[extracted] |
+| **2016** | **全球重组**: 退出亚洲股票现金业务，从澳・印尼・马来西亚・菲律宾・韩国・台湾・泰国缩减 IB，**日本作为 4 核心市场留存**。同时退出非洲 ^[extracted] |
+| 2016 | **朝日集团 HD 收购中东欧啤酒业务（约 8900 億円）买方顾问** — 唯一的 M&A 大型案件 ^[extracted] |
+| 2021-12 | 亚洲业务再活性化方针（Bloomberg 报道），在日本・香港强化招聘 ^[extracted] |
+| 2024-01 | 任命 馬場 直彦 为 **首席经济学家兼调查部长** ^[extracted] |
+| 2025-01 | 聘用 竹村 陽一 为 **日本宏观交易本部长** ^[extracted] |
 
-> **误解**：巴克莱银行 **雷曼北美收购 (2008-09）并没有带来日本人员或业务的直接增加**。亚太地区（包括日本）+欧洲和中东 [[securities-firms/nomura-hd]] 获得了它。日本的并购/IB扩张是自行进行的。
+> **易误解之处**: 巴克莱的 **Lehman 北美收购（2008-09）并未给日本带来直接的人员・业务扩张效果**。亚太（含日本）+ 欧洲・中东由 [[securities-firms/nomura-hd]] 收购。日本据点的 M&A / IB 扩张是靠自身完成的。
 
-## 3.业务板块图
+## 3. 业务分部地图
 
-|细分 |主要运营商|特点|
+| 分部 | 主要经营者 | 特征 |
 |---|---|---|
-|投资银行（IB）|巴克莱证券+巴克莱银行东京分行|并购咨询、ECM、DCM。聚焦跨境并购 |
-|市场 |巴克莱证券东京分行|股票（部分）、债券、外汇、利率、信贷、商品 |
-|企业银行服务|巴克莱银行东京分行|跨国公司的贷款和交易银行业务|
-|研究|巴克莱证券研究部|马场直彦 (Naohiko Baba) 担任首席经济学家 |
-|资产管理| （提款）|将华大基因出售给贝莱德（2009），该信托并入住友信托（2008）|
-|零售 | **未开发** |英国母公司拥有英国巴克莱卡，但在日本没有扩张|
+| 投资银行（IB）| 巴克莱证券 + 巴克莱银行东京支店 | M&A 顾问、ECM、DCM。以跨境 M&A 为中心 |
+| 市场业务 | 巴克莱证券・东京支店 | 股票（部分）・债券・FX・利率・信用・大宗商品 |
+| 法人银行业务 | 巴克莱银行 东京支店 | 面向跨国企业的融资・交易银行业务 |
+| 调查（研究）| 巴克莱证券 调查部 | 馬場 直彦 担任首席经济学家 |
+| 资产运用 | （已退出）| 将 BGI 出售给 BlackRock（2009），信托被住信吸收（2008）|
+| 零售 | **未开展** | 母公司英国本部拥有 UK Barclaycard，但未在日本开展 |
 
-### 母公司战略背景
-- 2016 Jes Staley CEO **“跨大西洋+消费者+企业+IB”**战略 → 退出新兴国家、亚洲的IB 4 缩小核心市场范围
-- 2021- 转向亚洲振兴政策，重建日本和香港
-- 2024- 继续专注于IB+市场
+### 母公司的战略语境
+- 2016 Jes Staley CEO 的 **「Transatlantic + Consumer + Corporate + IB」** 战略 → 退出新兴国 IB，亚洲收缩至 4 核心市场
+- 2021- 转向亚洲再活性化方针，在日本・香港重建
+- 2024- 持续集中于 IB + 市场业务
 
-### 在日本的竞争地位
-- **优势**：全球 DCM（债券承销）——全球排名第一 10, 跨境利率/外汇市场 ^[extracted]
-- **弱点**：国内并购/ECM 超出排名 - 过去 5 几年内 2016 年 16 位（约 1.2 兆円) 是最高的 ^[extracted]
-- **竞合**: 中坚外资 IB — [[foreign-financial-institutions/ubs-japan]] / [[foreign-financial-institutions/deutsche-japan]] / [[foreign-financial-institutions/bnp-paribas-japan]] / [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/standard-chartered-japan]] / [[foreign-financial-institutions/citigroup-japan]]
-- **美国主要公司（较高）**： [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/jpmorgan-japan]]
-- **国内的**： [[securities-firms/nomura-hd]] / [[securities-firms/smbc-nikko]] / [[securities-firms/daiwa-sg]] / 妈妈SS（[[megabanks/mufg]] × 摩根士丹利合资公司）
+### 在日本的竞争定位
+- **强项**: 全球 DCM（债券承销）— 全球排行榜上 Top 10，跨境利率・FX 市场业务 ^[extracted]
+- **弱项**: 国内 M&A / ECM 排行榜外 — 过去 5 年中 2016 年 16 位（约 1.2 兆円）为最高位 ^[extracted]
+- **竞争**: 中坚外资 IB — [[foreign-financial-institutions/ubs-japan]] / [[foreign-financial-institutions/deutsche-japan]] / [[foreign-financial-institutions/bnp-paribas-japan]] / [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/standard-chartered-japan]] / [[foreign-financial-institutions/citigroup-japan]]
+- **大型美系（更上位）**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/jpmorgan-japan]]
+- **本土势力**: [[securities-firms/nomura-hd]] / [[securities-firms/smbc-nikko]] / [[securities-firms/daiwa-sg]] / MUMSS（[[megabanks/mufg]] × Morgan Stanley JV）
 
-### 过去的主要项目
-- 2016 **Asahi Group HD 收购中欧和东欧啤酒（约 2000 万美元） 8900 億円)** 买方顾问
-- 2013 **欧力士收购荷宝集团（约） 2400 億円)** 卖方顾问
+### 过去的主要案件
+- 2016 **朝日集团 HD 收购中东欧啤酒业务（约 8900 億円）** 买方顾问
+- 2013 **欧力士收购 Robeco 集团（约 2400 億円）** 卖方顾问
 
-## 5. 规制・政策
+## 5. 监管・政策
 
-- **监督**：金融厅（FSA）+关东地方财政局
-- **证券营业执照**：关东地方财政局（Kinsho）第143号（巴克莱证券）
-- **银行执照**：外国银行分行执照（东京分行）
-- **当前政策问题**：
-  - 2024~ 日本央行加息 → 扩大日元利率市场机会
-  - 2025~ 亚洲 IB 强化政策 → 继续在日本招聘
+- **主管**: 金融厅（FSA）+ 关东财务局
+- **证券业牌照**: 关东财务局长(金商)第143号（巴克莱证券）
+- **银行业牌照**: 外国银行支店认可（东京支店）
+- **近期政策论点**:
+  - 2024～ 日银加息 → 日元利率市场机会扩大
+  - 2025～ 亚洲 IB 再强化方针 → 在日本持续招聘
 
-＃＃ 有关的
+## Related
 
 - **中坚外资 IB**: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/standard-chartered-japan]] · [[foreign-financial-institutions/citigroup-japan]]
-- **大手外资 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
-- **日本竞争对手**： [[securities-firms/nomura-hd]] · [[securities-firms/smbc-nikko]] · [[securities-firms/daiwa-sg]] · [[megabanks/mufg]]
-- **过去的关系**： [[trust-banks/sumitomo-mitsui-trust]] （原华大信托吸收）
+- **大型外资 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **日系竞争**: [[securities-firms/nomura-hd]] · [[securities-firms/smbc-nikko]] · [[securities-firms/daiwa-sg]] · [[megabanks/mufg]]
+- **过去关系**: [[trust-banks/sumitomo-mitsui-trust]] (旧 BGI 信托吸收)
 
-## 来源
+## Sources
 
-- **巴克莱日本官方历史** (https://www.barclays.co.jp/japan-overview/history-in-japan/, 2026-05-19 萃取）
-- **维基百科：巴克莱**（https://ja.wikipedia.org/wiki/Barclays， 2026-05-19 萃取）
-- **并购在线：外资金融机构汇总<7>巴克莱**（https://maonline.jp/articles/barclays0601, 2026-05-19 萃取）
-- **彭博社：巴克莱谋划亚洲复兴**（2021-12-08）
-- **日经亚洲：巴克莱重新聚焦亚洲**（2022 邻里）
-- **野村综合研究所《资本市场季刊》华大基因收购报告** (2009 夏号）
+- **Barclays Japan 官方 沿革**（https://www.barclays.co.jp/japan-overview/history-in-japan/, 2026-05-19 抽取）
+- **Wikipedia: 巴克莱**（https://ja.wikipedia.org/wiki/バークレイズ, 2026-05-19 抽取）
+- **M&A Online: 外资系金融机构汇总＜７＞巴克莱**（https://maonline.jp/articles/barclays0601, 2026-05-19 抽取）
+- **Bloomberg: Barclays Plots Asia Revival**（2021-12-08）
+- **Nikkei Asia: Barclays renews Asia focus**（2022 前后）
+- **野村综合研究所『资本市场季刊』BGI 收购报告**（2009 夏号）
 
 ---
 
 > [!info] 校核状态
-> 信心：**可能**（官方 + 公开 IR + 二次新闻信息，无内部信息，2026-05-19）。成立年份、基地历史、代表、地点和注册号码均基于官方/公开数据。彭博/日经亚洲报道了历史战略背景。有关并购交易的详细信息，请参阅并购在线。排行榜排名可能会发生变化，因此请参阅 MAYNARDS / Refinitiv 等公开排行榜以获取最新信息。
+> confidence: **likely**（官方 + 公开 IR + 报道二手信息，无内部信息，2026-05-19）。设立年・据点变迁・代表者・所在地・登记编号基于官方 / 公共数据。历代战略语境出自 Bloomberg / Nikkei Asia 报道。M&A 案件详情出自 M&A Online。排行榜名次随时点变动，最新请参照 MAYNARDS / Refinitiv 等公开排行榜。

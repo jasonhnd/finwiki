@@ -1,115 +1,115 @@
 ---
 source: financial-regulators/ey-shinnihon
-source_hash: 9af619ab9cf1a564
+source_hash: 2d09d739d7840752
 lang: zh
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T15:29:03.950Z
+title: "EY 新日本有限责任监查法人 (EY ShinNihon)"
+translated_at: 2026-06-18T23:59:13.127Z
 ---
-#安永新日本
+# EY 新日本有限责任监查法人 (EY ShinNihon)
 
-## Wiki route
+## Wiki 路径
 
-该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 下。请与 [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] 和 [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] 一起阅读，以了解同行大 4  审计上下文，并与 [[financial-licenses/INDEX|金融ライセンス INDEX]] 一起阅读，以了解《注册会计师法》/审计质量控制的监管边界。对于 CPAAOB 检查系统的审计师披露和列表披露，请一起阅读 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 的司法管辖区背景。
+本条目归属于 [[financial-regulators/INDEX|financial-regulators INDEX]]。请与 [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] 和 [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] 一并阅读，以获取同侪四大（Big 4 ）审计背景，并参阅 [[financial-licenses/INDEX|金融ライセンス INDEX]] 了解围绕公认会计士法 / 审计质量管理的监管边界。CPAAOB 检查制度及上市披露中的审计人披露，请与 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 与 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 的所管脉络一并阅读。
 
-## 1.公司概况
+## 1. 法人概要
 
-- **正式名称**：EY Ernst & Young ShinNihon LLC ^[extracted]
-- **英文名称**：Ernst & Young ShinNihon LLC ^[extracted]
-- **总部**：东京千代田区有乐町（东京中城日比谷等）^[extracted]
-- **代表**：主席（任期制度）^[extracted]
-- **联属网络**：**EY（安永）全球**（伦敦总部）^[extracted]
-- **关联公司**：EY Tax Corporation、EY Strategy and Consulting、EY Shinnihon Sustainability 等。 ^[extracted]
+- **正式名称**：EY 新日本有限责任监查法人 ^[extracted]
+- **英文名**：Ernst & Young ShinNihon LLC ^[extracted]
+- **总部**：东京都千代田区有乐町（东京中城日比谷等）^[extracted]
+- **代表者**：理事长（任期制）^[extracted]
+- **加盟网络**：**EY（Ernst & Young）全球**（伦敦总部）^[extracted]
+- **关联法人**：EY 税理士法人、EY 战略与咨询、EY 新日本可持续发展等 ^[extracted]
 
-## 2 。历史/家谱
+## 2. 沿革・谱系
 
-|月 |活动 |
+| 年月 | 事件 |
 |---|---|
-| ** 2007 - 07 ** | **嘉娜宝门面事件和中央青山审计公司解散导致重组期**（普华永道下属中央青山停止运营→行业重组） ^[extracted] |
-| ** 2008 - 07 ** | **因注册会计师法修订引入有限责任审计法人制度** → 主要公司逐渐变为有限责任 ^[extracted] |
-| 2014 - 06  | **东芝不当会计事件第三方委员会报告（下半年）** 新日本审计时的问题（东芝当时是新日本的客户） ^[extracted] |
-| ** 2015 - 12 ** | **金融服务机构命令安永新日本审计公司改善业务运营 + 附加费 (21 億円)** — 东芝不当会计相关 ★ ^[extracted] |
-|来自 2018  左右 | **融入“安永新日本”品牌** — 安永全球品牌组织 ^[extracted] |
-| 2020 秒 |加强金融服务部门的加密资产、可持续发展和 IFRS 团队 ^[extracted] |
+| **2007-07** | **伴随佳丽宝粉饰事件・中央青山监查法人解体的重组期**（PwC 系的中央青山被勒令停业 → 行业重组）^[extracted] |
+| **2008-07** | **公认会计士法修订引入有限责任监查法人制度** → 大型法人陆续转为有限责任 ^[extracted] |
+| 2014-06 | 先于 **东芝 不当会计事件 第三方委员会报告（后年）** 的新日本监查时代论点（东芝当时为新日本客户）^[extracted] |
+| **2015-12** | **金融厅对新日本监查法人作出业务改善命令 + 课征金处分（21 億円）** — 东芝 不当会计相关 ★ ^[extracted] |
+| 2018 前后〜 | **整合为「EY 新日本」品牌** — EY 全球品牌梳理 ^[extracted] |
+| 2020s | 强化金融服务本部的加密资产・可持续发展・IFRS 团队 ^[extracted] |
 
-## 3 。金融服务办公室 (FSO)
+## 3. 金融服务本部（Financial Services Office, FSO）
 
-安永安永新日本的**金融服务总部**是一家专门的金融服务机构，涵盖**银行、保险、证券、资产管理和加密资产**。 ^[extracted] 与 EY Global 的 FSO 网络合作。
+EY 新日本的 **金融服务本部** 是横跨 **银行・保险・证券・资产管理・加密资产** 全面覆盖的 FS 专业组织。与 EY 全球的 FSO 网络联动 ^[extracted]。
 
-### 主要部分 ^[extracted]
+### 主要板块 ^[extracted]
 
-|分部门 |主要目标 |
+| 子板块 | 主要对象 |
 |---|---|
-| **大型银行/大型银行** | [[megabanks/mufg]] 相关会计审计相关服务，属于区域银行集团 |
-| **人寿和非人寿保险** |各大寿险及非寿险公司、外资寿险及非寿险公司|
-| **证券/资产管理** |各大证券、管理公司、信托银行|
-| **加密资产/网络 3 ** | FSA 注册 VASP 的财务报表审计/隔离管理审计（参见 [[exchanges/japan-crypto-audit-firm-landscape]]）|
-| **监管合规性** | IFRS、美国标准、J-SOX、SOC 报告 |
+| **大型银行・主要银行** | [[megabanks/mufg]] 系会计审计相关业务、部分地方银行集团 |
+| **寿险・财险** | 大型寿险・财产保险公司、外资系寿险财险 |
+| **证券・资产管理** | 大型证券、资产管理公司、信托银行 |
+| **加密资产・Web3** | FSA 登记 VASP 的财务报表审计・分别管理审计（参见 [[exchanges/japan-crypto-audit-firm-landscape]]）|
+| **合规应对** | IFRS、美国准则、J-SOX、SOC 报告 |
 
-### 服务热线
+### 服务线
 
-- 法定审计（公司法+金融工具和交易法）
-- 单独的管理审计（针对 VASP、《支付服务法》）
+- 法定审计（公司法 + 金融商品交易法）
+- 分别管理审计（面向 VASP，资金结算法）
 - 内部控制审计（J-SOX）
-- SOC 1  / SOC 2  报告
-- IFRS/US-GAAP 咨询
-- IPO支持（证券交易所准备）
-- 可持续性保证（SSBJ/ISSB 相关）^[extracted]
+- SOC 1 / SOC 2 报告
+- IFRS / US-GAAP 咨询
+- IPO 支援（证券交易所准备）
+- 可持续发展鉴证（SSBJ / ISSB 相关）^[extracted]
 
-## 4 。主要上市 FG 客户关系（公开基础）
+## 4. 主要上市 FG 客户关系（公开口径）
 
-从《证券报告审计师披露》和各公司在 EDINET 上披露的材料中可以确认的，安永新日本公司（安永附属公司）曾/现担任审计师的主要金融机构的代表性例子：
+在 EDINET 上的 **有价证券报告书 审计人披露** 及各公司披露资料可确认的范围内，新日本（EY 系）担任过 / 现担任审计人的大型金融机构代表例：
 
-- **[[megabanks/mizuho-fg]] Mizuho Financial Group** — EY New Japan 是会计审计师（大型银行 3  集团中，Mizuho FG = EY New Japan、Mitsubishi UFJ FG = Tohmatsu、Sumitomo Mitsui FG = Azusa）
+- **[[megabanks/mizuho-fg]] 瑞穗金融集团** — EY 新日本担任会计审计人（在大型银行 3  集团中，瑞穗 FG = EY 新日本、三菱 UFJ FG = Tohmatsu、三井住友 FG = Azusa 进行分工）
 
-注意：由于根据《公司法》和《外国投资评估法》，审计师变更可能会频繁发生，因此应使用 EDINET** 或 **JICPA 公共搜索** 上每家公司最新证券报告的**“审计师状态”部分作为主要来源来检查最新的审计师任命状态。此条目不保证时间信息。
+注：审计人更替在公司法 + 金商法上可能频繁发生，最新的审计人就任情况应以 **EDINET 上各公司最新有价证券报告书「审计人的状况」一节** 或 **JICPA 公开检索** 作为一手来源确认。本条目不保证时点信息。
 
-## 5 。监管/监督
+## 5. 监管・监督
 
-- **监管法律**：《注册会计师法》（昭和 23 年 法律 第 103 号）^[extracted]
-- **注册**：在日本注册会计师协会 (JICPA) 注册为审计法人 ^[extracted]
-- **监督**：**金融服务机构注册会计师和审计监督委员会 (CPAAOB)** 进行质量控制审查/检查 ^[extracted]
-- **行业自律**：JICPA 行业委员会实践指南（针对加密资产的 第 61 号）^[extracted]
+- **主管法令**：公认会计士法（昭和 23 年法律第 第 103 号号）^[extracted]
+- **登记**：在日本公认会计士协会（JICPA）注册为监查法人 ^[extracted]
+- **监督**：**金融厅 公认会计士・监查审查会（CPAAOB）** 实施质量管理复核 / 检查 ^[extracted]
+- **行业自律**：JICPA 分行业委员会实务指针（加密资产方面参见 第 61 号）^[extracted]
 
-### CPAAOB 检查/处置历史记录 ^[extracted]
+### CPAAOB 检查・处分历 ^[extracted]
 
-- ** 2015 - 12  业务改善令 + 大约 21 億円 附加费**（由东芝不当会计触发）★
-- 金融厅公布的处置结果。新日本历史上最大规模的行政处罚
+- **2015-12 业务改善命令 + 约 21 億円的课征金**（以东芝 不当会计为契机）★
+  - 金融厅公布的处分。新日本史上最大规模的行政处分
 
-## 6 。竞争关系（在大 4  中）
+## 6. 竞争关系（Big 4  之内）
 
-|大 4  |国产品牌|强度轴（公开基础）|
+| Big 4 | 国内品牌 | 强项轴（公开口径）|
 |---|---|---|
-|德勤 | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] |主要并购/科技/加密资产 |
-|普华永道 | [[financial-regulators/pwc-aarata|あらた]] |全球普华永道网络，网络 3  策略 |
-|毕马威 | [[financial-regulators/kpmg-azsa|あずさ]] |金融机构内部控制/J-SOX |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | 大型 M&A・科技・加密资产 |
+| PwC | [[financial-regulators/pwc-aarata|あらた]] | 全球 PwC 网络、Web3 战略 |
+| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | 金融机构内部控制・J-SOX |
 
-中型公司（2 级）包括 [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] 和 BDO Sanyu Audit Corporation，^[extracted] 负责区域银行/中型公司。
+中坚（Tier 2）有 [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三优监查法人等，承担地方银行 / 中坚企业 ^[extracted]。
 
 ## Related
 
-- [[financial-regulators/deloitte-touche-tohmatsu]]（大 4  对等点）
-- [[financial-regulators/kpmg-azsa]]（大 4  对等点）
-- [[financial-regulators/pwc-aarata]]（大 4  对等点）
-- [[financial-regulators/taiyo-grant-thornton]]（半主要同行）
-- [[megabanks/mizuho-fg]]（主要 FG 客户关系 — EY Ernst & Young ShinNihon 是会计审计师）
-- [[financial-licenses/INDEX]]（注册会计师法/审计系统的监管地位）
-- [[financial-regulators/fsa-supervision-bureau]]（CPAAOB 监督上下文）
+- [[financial-regulators/deloitte-touche-tohmatsu]]（Big 4  同侪）
+- [[financial-regulators/kpmg-azsa]]（Big 4  同侪）
+- [[financial-regulators/pwc-aarata]]（Big 4  同侪）
+- [[financial-regulators/taiyo-grant-thornton]]（准大型同侪）
+- [[megabanks/mizuho-fg]]（主要 FG 客户关系 — EY 新日本担任会计审计人）
+- [[financial-licenses/INDEX]]（公认会计士法・审计制度的监管定位）
+- [[financial-regulators/fsa-supervision-bureau]]（CPAAOB 监督脉络）
 - [[exchanges/japan-crypto-audit-firm-landscape]]（加密审计跨域）
 
 ## Sources
 
-- 安永新日本官方：https://www.shinnihon.or.jp/
-- 安永新日本公司信息：https://www.shinnihon.or.jp/about-us/firm-information/
-- 安永新日本金融服务：https://www.shinnihon.or.jp/services/financial-services/
-- 日本注册会计师协会 (JICPA)：https://jicpa.or.jp/
-- 金融厅注册会计师和审计监督委员会 (CPAAOB)：https://www.fsa.go.jp/cpaaob/
-- EDINET（证券报告审计师披露）：https://disclosure 2.edinet-fsa.go.jp/
-- 维基百科“4 大型审计公司”（大型银行3 集团的审计部门：Mizuho FG = EY New Japan / Mitsubishi UFJ FG = Tohmatsu / Sumitomo Mitsui FG = Azusa）：https://ja.wikipedia.org/wiki/ 4大型审计公司
-- 维基百科“EY Ernst & Young ShinNihon LLC”（主要银行客户、历史、有限责任 2008 - 07 ・EY 品牌 2018 - 07）：https://ja.wikipedia.org/wiki/EY Ernst & Young ShinNihon LLC
+- EY 新日本官方：https://www.shinnihon.or.jp/
+- EY 新日本 法人信息：https://www.shinnihon.or.jp/about-us/firm-information/
+- EY 新日本 金融服务：https://www.shinnihon.or.jp/services/financial-services/
+- 日本公认会计士协会（JICPA）：https://jicpa.or.jp/
+- 金融厅 公认会计士・监查审查会（CPAAOB）：https://www.fsa.go.jp/cpaaob/
+- EDINET（有价证券报告书 审计人披露）：https://disclosure2.edinet-fsa.go.jp/
+- Wikipedia「4 大监查法人」（大型银行 3  集团的审计人分工：瑞穗 FG = EY 新日本 / 三菱 UFJ FG = Tohmatsu / 三井住友 FG = Azusa）：https://ja.wikipedia.org/wiki/4大監査法人
+- Wikipedia「EY 新日本有限责任监查法人」（主要银行客户・沿革・有限责任化 2008-07・EY 品牌 2018-07）：https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人
 
 ---
 
-> [!info] 学校核心状况
-> 置信度：**可能**（v 1.0  公共源库、2026-05-24）。公司形态、历史处置（2015 东芝相关附加费）、大4 系列、FSO系统开放且高度可靠。客户指定审计师的具体情况请查看各EDINET公司最新的证券报告（不保证时间）。
+> [!info] 校核状态
+> confidence：**likely**（基于 v1.0 公开来源，2026-05-24）。法人形态・历史性处分（2015 东芝相关课征金）・Big 4  系列・FSO 体制基于公开口径，可信度高。具体的按客户区分的审计人就任情况应逐次确认 EDINET 各公司最新有价证券报告书（不保证时点）。

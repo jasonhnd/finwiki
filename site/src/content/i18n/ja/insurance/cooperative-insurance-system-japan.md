@@ -1,57 +1,133 @@
 ---
 source: insurance/cooperative-insurance-system-japan
-source_hash: acbcdb3e4cd87567
+source_hash: d16d82a064c8464b
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の共済制度"
-translated_at: 2026-06-02T14:01:20.929Z
+title: "日本の共済（協同組合保険）制度"
+translated_at: 2026-06-18T23:59:13.105Z
 ---
-# 日本の共済制度
 
-## 要約
+# 日本の共済（協同組合保険）制度
 
-日本の共済は、金融庁監督の保険業法枠外にある協同組合型の保障制度であり、JA共済、こくみん共済 coop、県民共済、CO・OP共済などが大きなサブセクターを構成する。
+## TL;DR
 
-## ウィキ上の位置づけ
+日本の共済（kyosai／「協同組合による相互扶助」）セクターは、[[financial-regulators/fsa|FSA]]が監督する保険業法の枠組みの外で事業を行う協同組合形態の引受主体からなる、もう一つの並行した保険産業である。最大の四つのサブセクターは、[[insurance/ja-kyosai-zenkyoren-overview|JA共済 (Zenkyoren)]] — 農業協同組合連合会、[[non-life-insurers/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]] — 労働者協同組合連合会、[[JapanFG/kenmin-kyosai|県民共済 (Kenmin Kyosai)]] — 都道府県の消費生活協同組合制度、そして [[JapanFG/coop-kyosai|COOP共済 (CO・OP共済)]] — 消費生活協同組合連合会が運営する消費生活協同組合制度であり、いずれも FSA の保険業法ではなく協同組合セクターの法律のもとで、それぞれ異なる省庁（JA は農林水産省、全労済と COOP は厚生労働省、県民は都道府県知事）によって監督される。全自共（全国自動車共済協同組合連合会）のようなより小規模な協同組合もこれと並んで存在する。セクター全体の準備金および保有共済掛金は、おおむね数十兆円規模（mid-double-digit trillions of yen）にのぼり、これは協同組合の枠を除外したあらゆる日本全体の保険セクター調査が、保障商品の規模を実質的に過小評価してしまうほど大きい。共済商品は機能的には FSA 保険（生命保険相当、損害保険相当、医療・がん保険相当）と同等だが、法的・規制的・税務的・行為規制上は別個のものである。協同組合セクターは、FSA の免許を受けた [[insurance/japan-life-insurance-big-four|life big-four]] と [[insurance/japan-nonlife-big-three|non-life big-three]] がそれだけでは「日本の保険市場」を合計しきれない理由を説明する、構造的な対応物である。
 
-このページは公開情報に基づく FinWiki の整理項目であり、関連する制度、会社、商品、規制、比較対象を同じ文脈で追えるようにするための入口である。本文は公開資料、公式開示、公開情報に基づく分析だけを対象とする。
+## Wiki ルート
 
-## 主要ポイント
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/ja-kyosai-zenkyoren-overview|the JA Kyosai / Zenkyoren overview]]（個別の共済引受主体として最大）に対するセクターレベルの対応ページである。正式な枠組み（perimeter）を把握するには [[insurance/japan-life-insurance-big-four|the FSA life big-four]] および [[insurance/japan-nonlife-big-three|the FSA non-life big-three]] と併せて読み、法人形態の軸については [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]]（共済は相互性の軸において協同組合の端に位置し、FSA の相互会社よりさらに遠い）、FSA の地震保険と共済の地震保障の非対称性（異なる再保険プール）については [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]、協同組合セクターには形式上適用されない FSA の資本規制については [[insurance/economic-value-based-solvency|economic-value-based solvency]]、そして制度横断的な視点については [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] を参照すること。エンティティのアンカーとしては [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]、および（存在する場合は）労働者・消費生活協同組合連合会のページが含まれる。
 
-- 共済は保険と機能が近い一方、根拠法、監督官庁、開示、契約者保護、税務、募集規制が異なる。
-- 日本の保障市場を把握する際は、金融庁免許保険会社だけでなく共済の外縁も明示する必要がある。
-- 地震保障、再保険プール、資本規制、販売規制は保険会社と共済で非対称である。
+## 「共済」が意味するもの
 
-## 公開参照キー
+共済（kyosai）は大まかには「協同組合による相互扶助」と訳される。その法的構造は次のとおり：
 
-以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
+- **協同組合（kyōdō kumiai）** — 協同組合セクターの法律（JA は農業協同組合法、全労済・COOP・県民は消費生活協同組合法、中小企業協同組合は中小企業等協同組合法）に基づいて設立される。
+- **組合員ベース** — 共済商品は協同組合の組合員（および法定の範囲内で員外利用者）に提供される。
+- **協同組合形態の引受** — 協同組合連合会が共済を引き受け、準備金を保有する。単位組合のレベルが販売と組合員対応を担う。
+- **協同組合セクターの監督官庁** — FSA ではなく、当該協同組合法を所管する省庁。
 
-- [[financial-regulators/fsa|FSA]]
-- [[insurance/ja-kyosai-zenkyoren-overview|JA共済 (Zenkyoren)]]
-- [[non-life-insurers/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]]
-- [[JapanFG/kenmin-kyosai|県民共済 (Kenmin Kyosai)]]
-- [[JapanFG/coop-kyosai|COOP共済 (CO・OP共済)]]
-- [[insurance/japan-life-insurance-big-four|life big-four]]
-- [[insurance/japan-nonlife-big-three|non-life big-three]]
-- [[insurance/INDEX|insurance INDEX]]
-- [[insurance/ja-kyosai-zenkyoren-overview|the JA Kyosai / Zenkyoren overview]]
-- [[insurance/japan-life-insurance-big-four|the FSA life big-four]]
-- [[insurance/japan-nonlife-big-three|the FSA non-life big-three]]
-- [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]]
-- [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]
-- [[insurance/economic-value-based-solvency|economic-value-based solvency]]
-- [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]]
-- [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]
-- [[insurance/japan-life-insurance-big-four|life big-four]]
-- [[insurance/ja-kyosai-zenkyoren-overview|the dedicated overview page]]
-- [[JapanFG/japan-coop|Japanese Consumers' Co-operative Union (JCCU / 日本生活協同組合連合会)]]
-- [[insurance/japan-life-insurance-big-four|life big-four]]
-- 2025
-- [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]
-- [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]]
-- [[insurance/foreign-life-affiliate-japan-positioning|Foreign-life affiliates]]
-- [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]
+共済は機能的には保険と同等（掛金を支払い、死亡・疾病・損害事由の給付が支払われ、将来の請求に備えて準備金を保有する）だが、保険業法上は法的に保険（hoken）ではない。この二面性が、当該セクターが日本の保険分野にどう位置づけられるかについての混乱の大半の原因である。
+
+## 四つの大きなサブセクター
+
+### JA共済（全共連 / Zenkyoren）
+
+農業協同組合連合会。農業協同組合法のもとで農林水産省が監督する。終身共済（whole-life-equivalent）、養老生命共済（endowment-equivalent）、医療共済（medical）、自動車共済（auto）、建物更生共済（建物の更生 / 火災・地震・貯蓄ハイブリッド）を含む、生命保険相当＋損害保険相当のフルラインの商品を持つ。資産・準備金の規模は最大級の [[insurance/japan-life-insurance-big-four|life big-four]] 相互会社に匹敵し、協同組合セクター単体として最大の主体である。[[insurance/ja-kyosai-zenkyoren-overview|the dedicated overview page]] を参照。
+
+### 全労済 / こくみん共済 coop（Zenrosai）
+
+全国労働者共済生活協同組合連合会 / 全労済（正式名称：全国労働者共済生活協同組合連合会；リテール向けの新ブランド：こくみん共済 coop）。労働者協同組合連合会であり、消費生活協同組合法（生協法）のもとで厚生労働省が監督する。商品は生命保険相当、医療、火災・住宅、自動車の各共済にわたる。リテール向けブランド「こくみん共済 coop」は、勤労世帯の組合員に向けた、低コストで平易な民間保険の代替手段であることを強調している。販売は労働者協同組合連合会のチャネルを通じて行われる。
+
+### 県民共済（Kenmin Kyosai）
+
+消費生活協同組合の枠組みのもとで、都道府県知事の監督（協同組合法が適用される場合は厚生労働省経由でも）による都道府県単位の協同組合制度。商品は通常、シンプルで低コスト、年齢区分型の生命保険相当・医療相当・家族パッケージの共済であり、組合員への年次の剰余金返還（「割戻金」）を伴う。そのモデルは、共済を運営する都道府県の消費生活協同組合への加入である。組合員数で見た総体的な広がりは大きく、特に東京、埼玉、千葉、神奈川その他の関東地方の都県で顕著である。
+
+### COOP共済（CO・OP共済）
+
+[[JapanFG/japan-coop|Japanese Consumers' Co-operative Union (JCCU / 日本生活協同組合連合会)]] の協同組合制度によって運営される。消費生活協同組合法のもとで厚生労働省が監督する。商品には、消費生活協同組合の組合員に提供される生命保険相当、医療相当、家族パッケージの共済が含まれる。販売は COOP の食料品・消費生活協同組合の組合員基盤を活用する。
+
+### その他の注目すべき共済
+
+- **全自共（全国自動車共済協同組合連合会）** — 自動車協同組合連合会；中小企業等協同組合法のもとでの自動車専門共済。
+- **教職員共済（教職員共済生活協同組合）** — 教職員の協同組合共済。
+- **公務員共済 / 警察共済** — 一部に保険的な給付を含む公務員向け相互扶助；これらは機能的には公的な共済年金・健康制度の一部だが、大まかに「共済」としてまとめられることもある。
+- **商工中金共済 / 中小企業共済** — 経済産業省関連の協同組合法のもとでの中小企業協同組合共済。
+
+## 比較表：共済 vs FSA 保険
+
+| 軸 | FSA 保険（保険業法） | 共済（協同組合セクターの法律） |
+|---|---|---|
+| 監督官庁 | FSA | 協同組合法に応じて 農林水産省 / 厚生労働省 / 都道府県知事 / 経済産業省 |
+| 準拠法 | 保険業法 | 農業協同組合法 / 消費生活協同組合法 / 中小企業等協同組合法 |
+| 法人形態 | 相互会社または株式会社の保険会社 | 協同組合連合会 / 単位組合の連合会 |
+| 所有者 | 保険契約者（相互会社）または株主（株式会社） | 会員組合 / 個々の組合員 |
+| 募集規制 | 保険業法の募集規制 ＋ FSA の代理店・ブローカー登録 | 組合員関係の範囲内での協同組合法上の募集規制 |
+| 加入資格 | 個人・法人を問わず広く加入可能 | 協同組合の組合員（および限定的な員外利用者） |
+| 商品名称 | 保険（hoken / "insurance"） | 共済（kyosai / "mutual aid"） |
+| 資本規制 | FSA のソルベンシー・マージン / FSA の経済価値ベース ESR | 協同組合法上のソルベンシー・マージン（JA は農林水産省、全労済 / COOP / 県民は厚生労働省） |
+| 再保険 | オープンな外部再保険市場；強制地震保険については JER プール | 協同組合セクターの再保険 / 共同共済の取り決め；JER とは別個 |
+| 税務上の取扱い | 保険セクターの税制 | 協同組合セクターの税制（掛金控除・給付課税のルールが異なる） |
+| 契約者保護 | FSA が所管する保護機構（生保 / 損保） | 協同組合セクターの取り決め；FSA の保護機構の外 |
+| 開示 | FSA フォーマットの開示 | 協同組合法上の開示（年次開示書類） |
+
+共済の終身共済（whole-life-equivalent）と FSA の終身保険は、経済的には非常に似た商品である。違いはもっぱら法的・規制的・税務的・行為規制の側面にある。だからこそ、分析作業はどの枠組み（perimeter）が対象範囲なのかを明示すべきであり、FSA の枠組みが「日本の保険」に等しいと前提してはならない。
+
+## 総体的な規模
+
+協同組合セクターをきれいな総額に集計することは、監督官庁の分割、異なる報告暦、異なる準備金定義の慣行のために難しい。おおよその規模の目安（概念的なものであり、特定時点のものではない）：
+
+- **JA共済（全共連 / Zenkyoren）** — 一般勘定資産は数十兆円規模で、最大級の [[insurance/japan-life-insurance-big-four|life big-four]] 相互会社に匹敵する。協同組合セクター単体として最大の主体。
+- **全労済 / こくみん共済 coop** — 数兆円規模の準備金・資産規模。
+- **県民共済** — 低掛金・年次剰余金返還型の商品設計のため、組合員一人当たりの準備金は小さいが、組合員基盤は大きい。
+- **COOP共済** — 消費生活協同組合の組合員資格を通じた大きな組合員基盤。
+
+共済セクター全体の準備金および保有掛金は、準備金規模で見ておおむね数十兆円規模（mid-double-digit trillions of yen）にのぼり、日本の世帯保障市場の構造的な一部を成すほど大きい。FSA 枠組みと共済枠組みの準備金を比較するには、協同組合セクターと FSA セクターの報告フレームワーク間で準備金の定義を整合させる必要がある。
+
+## 税制と契約者給付
+
+共済は、個人所得税の目的上、保険とは異なる扱いを受ける：
+
+- **掛金控除（生命保険料控除 / 個人年金保険料控除 等）** — 共済の掛金はほとんどの場合、保険と同じ個人所得税の生命保険料控除の対象となるが、対象となる正確な商品セットと上限は異なる。
+- **給付課税** — 死亡給付金や解約返戻金は、保険給付とおおむね類似のルールで課税されるが、一部の商品ラインには協同組合セクター固有の規定がある。
+- **協同組合セクターの税制** — 引受主体のレベルでは、協同組合連合会は保険セクターの税制ではなく協同組合セクターの税制のもとで課税される。
+
+掛金控除のパリティ（同等性）は、世帯が所得税控除を失うことなく FSA の保険契約と共済の同等品とのあいだで選択できる主な実務上の理由である。その選択は、税の帰結ではなく、商品設計、組合員資格との適合、チャネルの選好によって左右される。
+
+## なぜこの区分が重要か
+
+共済 / 保険の区分は、日本全体の保険に関する作業をどう枠組みづけるべきかに次のような帰結をもたらす：
+
+- **産業集計のペーパーは枠組みを明示しなければならない。** FSA のデータのみを用いた「日本の生命保険市場」の総額は、世帯保障の経済的総額より実質的に小さい。共済を加えた「日本の総保障」の総額は、慎重な定義を要する。
+- **資本規制の比較は統一されていない。** FSA の ESR（経済価値ベース、2025年4月から）は私営保険会社の代表的な資本規制だが、農林水産省と厚生労働省の共済の資本規制は技術的には別個のものである。全共連その他は FSA の枠組みを任意で踏襲しているが、法的には同じ制度ではない。
+- **再保険プールのアーキテクチャは非対称である。** 強制地震保険の出再プール（JER）は FSA の損保会社をカバーする。共済の地震保障は別のアーキテクチャに位置する。[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] を参照。
+- **販売規制のアーキテクチャは非対称である。** 保険業法の募集規制（[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] の登録 / 行為の枠組みを含む）は共済には形式上適用されない。協同組合セクターの募集規制が適用される。
+- **契約者保護のアーキテクチャは非対称である。** FSA の保護機構は FSA 免許の保険会社の契約者をカバーする。協同組合セクターの保護の取り決めは共済の組合員をカバーする。破綻した共済の組合員は、FSA の保護機構を利用できない。
+- **外資系の競合セットの比較。** [[insurance/foreign-life-affiliate-japan-positioning|Foreign-life affiliates]] は共済の枠組みではなく FSA 保険の枠組みで競合する。二つの枠組みをまたいで市場シェアを比較すると、全体像を取り違えることになる。
+
+## 意思決定上の用途
+
+このページを使う場面：
+
+- 両方の枠組みを念頭に置いて、日本の世帯保障 / 保険市場を規模測定するとき。
+- 共済セクターの開示書類を読み、より広いセクターの文脈が必要なとき。
+- JA共済の商品を FSA の同等品と、価格・チャネル・構造の観点で比較するとき。
+- 特定の共済主体がどの規制当局に報告しているかを追跡するとき。
+- FSA 保険の再保険プール（例：JER 地震）と共済セクターのプールとの構造的な分離を分析するとき。
+- 標準的な FSA 枠組みのピアリストには載らない、日本の大規模な保障引受主体の「セカンドティア」を調査するとき。
+
+## 境界事例 / 留意点
+
+- **「相互扶助」には公的制度が含まれることがある。** 公務員共済、教職員共済、および類似のものは、必ずしも協同組合法上の共済と同じ法的カテゴリーではない。対象範囲とする場合は明示すること。
+- **総体的な規模は概算である。** セクター総額は概念的なものとして扱い、正確な数値については最新の 農林水産省 / 厚生労働省 / 連合会の開示を参照すること。
+- **掛金控除の適格性は異なる。** 何らかのプランニング用途には商品固有の税の適格性を確認すること。本ページは個別の税務助言を提供しない。
+- **枠組みをまたいだ準備金の比較。** FSA フォーマットと協同組合フォーマットの準備金定義は必ずしも同一ではない。枠組みをまたいだ合算には注意を要する。
+- **ソルベンシー枠組みの収斂は任意である。** 全共連その他の一部の連合会は FSA の経済価値ベースの枠組みを任意で踏襲しているが、拘束力のあるルールは依然として協同組合セクターの資本規制である。
+- **FSA 免許の共済は存在しない。** 一部の隣接主体（少額短期保険を扱う専門会社）は FSA 免許を受けているが、構造的に小規模であり協同組合セクターの一部ではない。
+- **協同組合セクターの地震保障。** 共済の地震保障（例：JA の建更、県民共済の地震特約）は、FSA の地震保険 JER プールとは構造的に別個である。[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] を参照。
+
+## 関連
+
 - [[insurance/INDEX]]
 - [[insurance/ja-kyosai-zenkyoren-overview]]
 - [[insurance/japan-life-insurance-big-four]]
@@ -66,13 +142,17 @@ translated_at: 2026-06-02T14:01:20.929Z
 - [[non-life-insurers/ja-kyosairen]]
 - [[financial-licenses/insurance-license-and-solvency]]
 - [[financial-regulators/fsa]]
+- 農林水産省（MAFF）
+- 厚生労働省（MHLW）
 - [[INDEX|FinWiki index]]
-
-## 関連
-
-関連ページ、比較対象、規制ルート、出典リンクは上記の公開参照キーからたどる。
 
 ## 出典
 
-- 原文で示された公式資料、公開開示、業界団体資料、規制当局資料。
-- 各ページの公開参照キーに紐づく公開情報。
+- JA共済連（全共連 / Zenkyoren）：年次開示書類。
+- こくみん共済 coop / 全労済（Zenrosai）：コーポレートサイトおよび開示。
+- 全国生協連 / 県民共済：協同組合セクターの開示。
+- 日本生協連 / CO・OP共済：協同組合セクターの開示。
+- 農林水産省：共済事業 / 農業協同組合の監督。
+- 厚生労働省：消費生活協同組合の監督。
+- FSA：経済価値ベースのソルベンシーのハブ（相互参照）。
+- 消費生活協同組合法（生協法）、農業協同組合法、中小企業等協同組合法。

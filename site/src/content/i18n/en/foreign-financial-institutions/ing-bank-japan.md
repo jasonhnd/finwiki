@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ing-bank-japan
-source_hash: 28e10448dab56308
+source_hash: d1a3dcabdaa8af2e
 lang: en
 status: machine
 fidelity: ok
 title: "ING Bank N.V. Tokyo Branch"
-translated_at: 2026-05-31T15:29:03.925Z
+translated_at: 2026-06-18T23:59:13.132Z
 ---
 
 # ING Bank N.V. Tokyo Branch
@@ -13,18 +13,18 @@ translated_at: 2026-05-31T15:29:03.925Z
 
 ## Wiki route
 
-This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Tokyo Branch]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-ING Bank N.V. Tokyo Branch is the Japan wholesale-banking branch of Netherlands-based ING Bank N.V. listed in the FSA foreign-bank branch register. Since the Tokyo branch opened in 1985, it should be read as a B2B branch centered on structured finance, export and project finance, cash management, lending, and correspondent banking.
+The ING Bank N.V. Tokyo Branch is the Netherlands / ING Bank N.V. Japan wholesale banking branch listed in the FSA's foreign-bank-branch list. Since the start of its Tokyo branch in 1985 年, read it as a B2B branch centered on structured finance, export / project finance, cash management, lending, and correspondent banking.
 
 ## 1. License / branch boundary
 
 | Item | Notes |
 |---|---|
-| FSA listed name | ING Bank N.V. |
-| Legal / branch name | ING Bank N.V. Tokyo Branch |
+| FSA listed name | アイエヌジーバンク エヌ・ヴイ |
+| Legal / branch name | アイエヌジーバンク エヌ・ヴイ東京支店 / ING Bank N.V. Tokyo Branch |
 | License route | Banking Act foreign bank branch; registered financial institution |
 | Home jurisdiction | Netherlands |
 | Parent / group | ING Bank N.V. / ING Group |

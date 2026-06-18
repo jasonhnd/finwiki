@@ -1,133 +1,133 @@
 ---
 source: foreign-financial-institutions/wells-fargo-japan
-source_hash: 5456f932c5e6d9e4
+source_hash: 94839bc0a741b453
 lang: zh
 status: machine
 fidelity: ok
-title: "富国银行，N.A.，东京分行"
-translated_at: 2026-06-01T02:31:57.124Z
+title: "富国银行 东京支店 (Wells Fargo Bank, N.A., Tokyo Branch)"
+translated_at: 2026-06-18T23:59:13.075Z
 ---
-# 富国银行，N.A.，东京分行
+# 富国银行 东京支店 (Wells Fargo Bank, N.A., Tokyo Branch)
 
-## 维基路线
+## Wiki 路径
 
-该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。对照 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。请与 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]]（同业 / 对比语境）以及 [[banking/INDEX|banking index]]（更广的系统 / 监管边界）对照阅读。
 
-## 长篇大论；博士
+## TL;DR
 
-美国大型商业银行 4  旗下 **Wells Fargo & Company**（纽约证券交易所代码：WFC、G-SIB Bucket 1）在日本的分行。 **企业专业** 我们的主要重点是支持美国公司向日本扩张，并支持日本银行和日本公司在美国开展业务。日本不提供零售（针对个人）。交易银行、外汇/贸易融资和全球现金管理是3 的支柱。虽然美国本身因2016 年之后的假账户事件而面临管理问题，但2024 年之后美国已进入再生阶段，以期解除美联储的资产限制。它在日本的业务规模小于花旗 [[foreign-financial-institutions/citigroup-japan]] / 摩根大通 [[foreign-financial-institutions/jpmorgan-japan]] / 美国银行，并且拥有专门从事批发的利基市场。 ^[extracted]
+美 4 大商业银行之一角 **Wells Fargo & Company**（NYSE: WFC、G-SIB Bucket 1）的在日分行。**法人专注型**，以支持美国企业进军日本以及为日本银行・日系企业提供美国业务支持为主轴。零售（面向个人）在日本无业务。交易银行、外汇・贸易融资、全球现金管理为 3 大支柱。美国母体自 2016 年以来背负着假账户事件的经营课题，但自 2024 年以来已着眼于联邦储备制度的资产上限解除而进入再增长阶段。在日存在感与花旗 [[foreign-financial-institutions/citigroup-japan]] / 摩根大通 [[foreign-financial-institutions/jpmorgan-japan]] / 美国银行相比规模较小，属批发专注型利基。^[extracted]
 
-## 1。公司简介
+## 1. 公司概况
 
-**官方名称（日本）**：富国银行东京分行
-**英文名称**：Wells Fargo Bank, N.A., Tokyo Branch
-**母公司**：富国银行公司（特拉华州公司，纽约证券交易所代码：WFC）
-**母公司总部**：美国加利福尼亚州旧金山
-**分公司类型**：美国公司在日本的分公司（分公司，非子公司）
-**监管**：金融服务局 (FSA)/母公司是 OCC（货币监理署）/FRB
-**地点**：东京（丸之内/大手町地区）
+**正式名称（在日）**: 富国银行 东京支店
+**英文名**: Wells Fargo Bank, N.A., Tokyo Branch
+**母公司**: Wells Fargo & Company（美国特拉华州法人，NYSE: WFC）
+**母公司总部**: 美国加利福尼亚州旧金山
+**分行形态**: 美国法人的在日分行（branch 而非 subsidiary）
+**主管监督**: 金融厅（FSA）/ 母公司为 OCC（美国货币监理署）・FRB
+**所在地**: 东京（在丸之内・大手町区域设在日据点）
 
-### 母公司富国银行及公司概况 ^[extracted]
+### 母公司 Wells Fargo & Company 概况 ^[extracted]
 
-|项目 |内容 |
+| 项目 | 内容 |
 |---|---|
-|正式名称 |富国银行公司|
-|列表 |纽约证券交易所：WFC（标准普尔 500  成分股）|
-|总部|美国加利福尼亚州旧金山 |
-|成立| 1852-03-18（由 Henry Wells + William Fargo 在纽约创立）|
-| G-SIB |桶 1（FSB 认证，+1.0% CET1  额外资本要求）|
-|美国排名|美国4 大型商业银行（与摩根大通/美国银行/花旗集团一起）|
-|优势 |全球最大的美国住房贷款、小企业贷款、全国分行网络 |
-|员工（总计）|人员规模约22 万 |
+| 正式名称 | Wells Fargo & Company |
+| 上市 | NYSE: WFC（S&P 500 成分股）|
+| 总部 | 美国加利福尼亚州旧金山 |
+| 创业 | 1852-03-18（由 Henry Wells + William Fargo 在纽约创立）|
+| G-SIB | Bucket 1（FSB 认定，+1.0% CET1 附加资本要求）|
+| 美国排名 | 美 4 大商业银行之一角（与 JPMorgan Chase / Bank of America / Citigroup 并列）|
+| 优势领域 | 美国住房贷款世界最大级・小微企业融资・全美分行网 |
+| 员工（整体）| 约 22 万人规模 |
 
-###主营业务（母公司）^[extracted]
+### 主要业务线（母公司）^[extracted]
 
-````
-富国银行公司（控股公司/纽约证券交易所代码：WFC）
-  └── 富国银行，N.A.（核心银行子公司）
-        ├── 消费者银行和贷款（美国个人/抵押贷款）
-        ├── 商业银行（中型企业）
-        ├── 企业与投资银行（大公司/IB）
-        │ └── 富国证券（证券/资本市场）
-        ├── 财富与投资管理
-        └── 国际（包括海外基地和东京）
-              └── 富国银行东京分行
-````
+```
+Wells Fargo & Company（持股公司・NYSE: WFC）
+  └── Wells Fargo Bank, N.A.（核心银行子公司）
+        ├── Consumer Banking and Lending（美国个人・住房贷款）
+        ├── Commercial Banking（面向中坚企业）
+        ├── Corporate and Investment Banking（大企业・IB）
+        │     └── Wells Fargo Securities（证券・资本市场）
+        ├── Wealth and Investment Management
+        └── International（海外据点・含东京）
+              └── 富国银行 东京支店
+```
 
-## 2。事业部门图（东京分店）
+## 2. 事业分部・图谱（东京支店）
 
-|服务 |内容 |主要客户 |
+| 服务 | 内容 | 主要客户 |
 |---|---|---|
-|交易银行|付款/账户管理/流动性|美国/日本公司|
-|外汇/FX |现货远期对冲|总部设在美国的日本公司和进军日本的美国公司|
-|贸易融资|进出口信用证/供应链金融|贸易公司|
-|全球现金管理|多币种资金集中/净额结算 |跨国公司|
-|美国通讯员 |日本银行的美元结算支持日本一般银行|
-|零售（个人）| **不适用于日本** | -（仅限美国）|
+| 交易银行 | 结算・账户管理・流动性 | 美日企业 |
+| 外汇・FX | 即期・远期・对冲 | 设有美国总部的日系・进军日本的美系 |
+| 贸易融资 | 进出口信用证・供应链金融 | 贸易企业 |
+| 全球现金管理 | 多币种资金归集・净额结算 | 跨国企业 |
+| 面向美国的代理行 | 日本银行的美元结算后备 | 日本银行整体 |
+| 零售（个人）| **日本无业务** | -（仅美国母体）|
 
-它与日本城市银行和日本花旗银行（原SMBC信托银行）的不同之处在于它不开展零售业务。虽然它在美国拥有庞大的零售网络，但在日本却完全专注于 B2B（企业）。
+无零售业务这一点，与日本银行的都市银行・花旗银行（旧 SMBC 信托的承接对象）有决定性区别。美国母体在本土拥有庞大的零售网络，而在日本则完全是 B2B（法人）专注型。
 
-### 母公司/美国富国银行历史 ^[extracted]
+### 母公司・美国 Wells Fargo 沿革 ^[extracted]
 
-|年份|活动 |
+| 年 | 事件 |
 |---|---|
-| 1852-03-18 | Wells, Fargo & Co. 由亨利·威尔斯 (Henry Wells) + 威廉·法戈 (William Fargo) 创立（纽约，最初是西部边境的金融和运输公司） |
-| 19  上世纪下半叶 |因其驿站马车和邮政服务而成为美国西部享有盛誉的品牌（公司徽标中驿站马车的由来）|
-| 1905  |独立的银行和运输业务|
-| 1969 |富国银行 (Wells Fargo & Company) 成为控股公司 |
-| 1986 |收购 Crocker National |
-| 1996 |收购第一州际银行 |
-| **1998** | **与Norwest Corporation合并**（实质性整合由原Norwest主导。总部位于旧金山，继承富国银行名称。当前富国银行的起点） |
-| 2008-12  | **收购美联银行（金融危机期间，约151 億美元）** → 4 加入美国大型商业银行 |
-| **2016-09** | **发现假账户事件**（因员工配额过多，未经客户同意开设多个200 万账户，被CFPB/OCC/洛杉矶市罚款$1.85 億） |
-| 2018-02 | **美联储对1.95 兆美元的总资产施加资产上限**（治理改革完成之前的增长限制。对美国大型银行的最大惩罚） |
-| 2019-10  | Charlie Scharf 被任命为首席执行官（原 BNY Mellon/Visa）|
-| 2020-2023  |降低成本、强化合规、减少分支机构、人员重组|
-| **2025** | **FRB资产上限提升观察（有条件）**→ 再生阶段|
+| 1852-03-18 | 由 Henry Wells + William Fargo 设立 Wells, Fargo & Co.（纽约，最初为面向西部开拓地的金融・运输业）|
+| 19 世纪后半 | 凭驿站马车・邮政业务成为全美西部名门（公司徽标中驿站马车的由来）|
+| 1905 | 将银行业务与运输业务分离 |
+| 1969 | Wells Fargo & Company 持股公司化 |
+| 1986 | 收购 Crocker National |
+| 1996 | 收购 First Interstate Bancorp |
+| **1998** | **与 Norwest Corporation 合并**（实为旧 Norwest 主导的整合。总部沿用旧金山、名称沿用 Wells Fargo。现体制 Wells Fargo 的起点）|
+| 2008-12 | **收购 Wachovia（金融危机之下，约 151 億美元）**→ 跻身美国 4 大商业银行 |
+| **2016-09** | **假账户事件曝光**（员工业绩指标过热，未经客户同意开立账户 200 万个以上，遭 CFPB / OCC / 洛杉矶市合计 1.85 億美元罚款）|
+| 2018-02 | **FRB 发动总资产 1.95 兆美元 的资产上限管制**（在治理改革完成前限制增长。美国巨型银行最大的处罚）|
+| 2019-10 | Charlie Scharf 就任 CEO（前 BNY Mellon・Visa）|
+| 2020-2023 | 削减成本・强化合规・压减分行・裁员 |
+| **2025** | **FRB 资产上限解除观测（附条件）**→ 再增长阶段 |
 
 ### 母公司整体战略
 
-- **美国国内集中度**：在美国 4  大商业银行中，对美国收入的依赖程度最高（相对于摩根大通/花旗的全球 IB）
-- **全球最大的零售抵押贷款**：美国市场小企业贷款和抵押贷款的压倒性份额
-- **资产上限法规下的重组**：由于2018-02的处罚，资产负债表扩张受到限制 → 专注于降低成本和加强合规性
-- **2024~25 再生**：随着资产上限有望取消，亚洲和国际业务的投资能力有望恢复
+- **美国国内集中型**: 在美 4 大商业银行中，对美国国内收益的依赖度最高（相对于 JPMorgan / Citi 的全球 IB）
+- **零售・住房贷款世界最大级**: 在美国市场，小微企业融资・住房贷款占压倒性份额
+- **资产上限管制下的重组**: 因 2018-02〜 的处罚，资产负债表扩张受限 → 集中于削减成本・强化合规
+- **2024〜25 再增长**: 因资产上限解除观测，对亚洲・国际业务的投资余力有望恢复
 
 ### 在日本的战略定位
 
-- **企业专业利基**：专门从事美国日本公司（美国总部/日本子公司）+对日本银行的美国业务支持
-- **冲突**：
-  - [[foreign-financial-institutions/citigroup-japan]]（城市）：同样专注于企业，规模较大/全球IB实力雄厚
-  - [[foreign-financial-institutions/jpmorgan-japan]]（摩根大通）：全球最大的IB/并购/贸易公司
-  - 美国银行东京分行：也是美国4 在日本的分行，专门从事批发。
-  - **富国银行的差异化**：利用美国网络（小企业、抵押贷款和西方客户群）开展日本和美国之间的双边业务。
-- **没有零售扩张**：考虑到富国银行从花旗银行（前身为花旗银行）出售给SMBC信托公司的历史，富国银行一开始就没有进入日本零售市场。美国大型银行的一个常见模式是从日本零售业撤资。
+- **法人专注型利基**: 专注于美国的日资企业（美国总部・日本子公司）+ 为日本银行的美国业务提供支持
+- **竞争**:
+  - [[foreign-financial-institutions/citigroup-japan]]（花旗）: 同样法人专注，规模更大・全球 IB 更强
+  - [[foreign-financial-institutions/jpmorgan-japan]]（摩根大通）: 全球 IB・并购・交易最大手
+  - Bank of America 东京支店: 同为美 4 大的在日分行，批发专注
+  - **Wells Fargo 的差异化**: 运用美国国内网络（小微企业・住房贷款・西部客户基础），开展日美双向业务
+- **不开展零售**: 鉴于花旗银行（旧）→ 出售予 SMBC 信托的经过，Wells Fargo 本就未进入日本零售。美国巨型银行从日本零售撤退是共同模式
 
-### 为日本银行提供的服务
+### 面向日本银行的服务
 
-- **美元结算代理行**：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]等大型银行的美元清算/代理行备份。
-- **美国市场准入**：日本银行向美国扩张时的本地支持（相对于三菱日联美洲控股公司的反向操作）
+- **美元结算代理行**: 为 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 等巨型银行的美元清算・代理行提供后备
+- **美国市场准入**: 在日本银行进军美国时提供当地支持（相对于 MUFG Americas Holdings 的反方向业务）
 
-## 5。法规/政策
+## 5. 监管・政策
 
-- **监管者（日本）**：金融厅 (FSA) 外资银行分行监管
-- **母公司（美国）**：OCC（货币监理署）+FRB（联邦储备系统）双重监管
-- **G-SIB Bucket 1**：FSB 认证（+1.0% CET1  额外资本要求）
-- **资产上限监管**：2018-02 FRB对整个母公司实施，2025 年解除^[extracted]
-- **假账户案的影响**：2016 ~ 累计罚款数十亿美元，多项 CFPB/DOJ/SEC 同意判决
+- **主管（在日）**: 金融厅（FSA）外国银行分行监督
+- **母公司（美国）**: OCC（货币监理署）+ FRB（联邦储备制度）双重监督
+- **G-SIB Bucket 1**: FSB 认定（+1.0% CET1 附加资本要求）
+- **资产上限管制**: 2018-02 由 FRB 对母公司整体发动，2025 年解除观测 ^[extracted]
+- **假账户事件影响**: 2016〜 罚款累计数十亿美元，CFPB / DOJ / SEC 同意裁决多起
 
-## 相关
+## 关联
 
 - [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 来源
 
-- **维基百科：富国银行**（https://en.wikipedia.org/wiki/Wells_Fargo，摘自 2026-05-19）
-- 富国银行 2024  年度报告（表格 10-K、2025-02  已发布）
-- 金融厅《外国银行分行一览表》（公开）
-- 富国银行官方公司网站（投资者关系/关于我们）
+- **Wikipedia: Wells Fargo**（https://en.wikipedia.org/wiki/Wells_Fargo, 2026-05-19 抽取）
+- Wells Fargo & Company 2024 Annual Report（Form 10-K, 2025-02 公布）
+- 金融厅「外国银行分行一览」（公布部分）
+- Wells Fargo 官方公司网站（Investor Relations / About us）
 
 ---
 
-> [!info] 验证状态
-> 置信度：**可能**（仅使用 v1.0  公开信息构建 2026-05-19）。基于维基百科+美国 SEC 披露（10-K），母公司信息高度可靠。由于外资银行分行的披露范围有限，因此将日本分行的具体收入、员工人数等整理成开放性问题。没有引用任何内幕消息。
+> [!info] 验证状况
+> confidence: **likely**（v1.0 仅以公开信息构建 2026-05-19）。母公司信息以 Wikipedia + 美国 SEC 披露（10-K）为基础，可信度高。在日分行的具体收益・员工人数等，因外国银行分行的披露范围有限，已整理至 Open questions。未引用任何内部信息。

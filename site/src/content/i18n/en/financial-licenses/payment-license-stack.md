@@ -1,12 +1,13 @@
 ---
 source: financial-licenses/payment-license-stack
-source_hash: 06a5abe22155e7d2
+source_hash: c0c768134f7f2966
 lang: en
 status: machine
 fidelity: ok
 title: "Japan payment license stack"
-translated_at: 2026-05-31T23:05:42.100Z
+translated_at: 2026-06-18T23:59:13.127Z
 ---
+
 # Japan payment license stack
 
 ## Overview
@@ -116,7 +117,7 @@ The Banking Act side uses `電子決済等取扱業` for bank-commissioned elect
 - FSA: funds-transfer service provider page and registry.
 - FSA: prepaid payment instruments policy pages and issuer registry.
 - FSA: FinTech Support Desk Q&A.
-- FSA: 2020  Payment Services Act reform explanation.
+- FSA: 2020 Payment Services Act reform explanation.
 - FSA: crypto-asset / electronic payment instrument policy pages.
 - FSA: electronic payment instruments transaction business page.
 - FSA: electronic payment handling business page.

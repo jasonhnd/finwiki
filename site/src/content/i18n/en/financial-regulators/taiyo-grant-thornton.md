@@ -1,102 +1,102 @@
 ---
 source: financial-regulators/taiyo-grant-thornton
-source_hash: 600c4ce759272201
+source_hash: b1d3e6c6f3562658
 lang: en
 status: machine
 fidelity: ok
-title: "Grant Thornton Taiyo LLC"
-translated_at: 2026-06-01T02:31:57.130Z
+title: "Grant Thornton Taiyo LLC (太陽有限責任監査法人)"
+translated_at: 2026-06-18T23:59:13.081Z
 ---
-# Grant Thornton Taiyo LLC
+# Grant Thornton Taiyo LLC (太陽有限責任監査法人)
 
 ## Wiki route
 
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]], [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]], [[financial-regulators/kpmg-azsa|あずさ]], and [[financial-regulators/pwc-aarata|PwC あらた]] for Big 4  comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around the Certified Public Accountants Act and audit quality control. The CPAAOB supervision context is under the jurisdiction of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]], [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]], [[financial-regulators/kpmg-azsa|あずさ]], [[financial-regulators/pwc-aarata|PwC あらた]] for the Big 4  comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary of the Certified Public Accountants Act / audit quality control. The CPAAOB oversight context falls within the remit of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
 
-## 1. Entity overview
+## 1. Firm overview
 
-- **Official name**: Grant Thornton Taiyo LLC ^[extracted]
+- **Legal name**: Grant Thornton Taiyo LLC (limited-liability audit corporation) ^[extracted]
 - **English name**: Grant Thornton Taiyo LLC ^[extracted]
-- **Entity form**: Limited liability audit corporation ^[extracted]
-- **Head office**: Akasaka, Minato-ku, Tokyo ^[extracted]
-- **Member network**: **Grant Thornton International Limited**, headquartered in London ^[extracted]
+- **Corporate form**: limited-liability audit corporation ^[extracted]
+- **Headquarters**: Akasaka, Minato-ku, Tokyo ^[extracted]
+- **Member network**: **Grant Thornton International Limited** (headquartered in London) ^[extracted]
 - **Group entities**:
-  - Taiyo Grant Thornton Tax Corporation
-  - Taiyo Grant Thornton Advisors Co., Ltd. (FAS)
-  - Taiyo Grant Thornton Risk Advisory Co., Ltd. ^[extracted]
+  - Grant Thornton Taiyo Tax Corporation
+  - Grant Thornton Taiyo Advisors Co., Ltd. (FAS)
+  - Grant Thornton Taiyo Risk Advisory Co., Ltd. ^[extracted]
 
 ## 2. History
 
 | Date | Event |
 |---|---|
-| **2008-07** | **Limited liability audit corporation system introduced through amendment of the Certified Public Accountants Act** ^[extracted] |
-| Mid-2010s | Became a **Grant Thornton International member firm** ^[extracted] |
-| Late-2010s | **Integrated under the "Taiyo Grant Thornton" brand** ^[extracted] |
-| 2020s | Entered crypto-asset VASP audits and strengthened IPO support ^[extracted] |
+| **2008-07** | **The limited-liability audit corporation system was introduced by the revision of the Certified Public Accountants Act** ^[extracted] |
+| Mid-2010s | **Became a Grant Thornton International member firm** ^[extracted] |
+| Late 2010s | **"Grant Thornton Taiyo" brand integration** ^[extracted] |
+| 2020s | Entry into crypto-asset VASP audits, strengthening of IPO support ^[extracted] |
 
-### IPO preparation support, the largest strength ^[extracted]
+### IPO-preparation support (greatest strength) ^[extracted]
 
-- Audits of companies preparing to list on TSE Growth Market / Standard Market.
-- A major receiver for midsize listed and listing-preparation companies that Big 4  firms do not cover deeply.
+- Audits of companies preparing to list on the TSE Growth market / Standard market
+- A major recipient of mid-tier listings where the Big 4  are thin
 
-### VASP / crypto assets ^[extracted]
+### VASP / crypto-assets ^[extracted]
 
-- Strong in **financial-statement audits and segregated-management audits for midsize VASPs**.
-- Handles cross-border crypto-asset cases through the **Grant Thornton global network**.
-- As noted in [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]], it is a representative mid-tier firm alongside Big 4 .
-- Complies with JICPA industry committee practical guideline 第 61 号. ^[extracted]
+- Strength in **financial-statement audits / segregation-of-customer-assets audits of mid-tier VASPs**
+- **Handles cross-border crypto-asset engagements via the Grant Thornton global network**
+- As mentioned in [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]], a representative quasi-major firm alongside the Big 4 
+- Compliant with the JICPA industry-specific committee practical guidelines 第 61 号 ^[extracted]
 
-## 4. Listed-FG client relationships (public basis)
+## 4. Major listed-FG client relationships (public basis)
 
-Taiyo Grant Thornton is strong in audits of midsize listed companies, IPO-preparation companies, and VASPs. However, auditors for individual companies change over time, so this entry does not list specific client names without verifiable primary sources. The latest status should be checked case by case in each company's EDINET securities report under "status of auditor."
+Grant Thornton Taiyo has strengths in audits of mid-tier listed companies, IPO-preparation companies, and VASPs, but because the auditor of any individual company changes over time, this entry does not enumerate specific client names without a verifiable primary source. The latest information should be checked as needed in the "status of the auditor" section of each company's securities report on EDINET.
 
-## 5. Regulation / supervision
+## 5. Regulation / oversight
 
-- **Primary law**: Certified Public Accountants Act ^[extracted]
+- **Governing law**: Certified Public Accountants Act ^[extracted]
 - **Registration**: Japanese Institute of Certified Public Accountants (JICPA) ^[extracted]
-- **Supervision**: The **Certified Public Accountants and Auditing Oversight Board (CPAAOB)** under the FSA conducts quality-control reviews / inspections ^[extracted]
-- **Mid-tier large-firm category**: CPAAOB classifies audit firms as "large," "mid-tier large," and "small / medium" when creating inspection plans. Taiyo is positioned in the **mid-tier large-firm category** ^[extracted]
+- **Oversight**: the **FSA's Certified Public Accountants and Auditing Oversight Board (CPAAOB)** conducts quality-control reviews / inspections ^[extracted]
+- **Quasi-major bracket**: the CPAAOB categorizes audit firms into "major," "quasi-major," and "small-and-medium" to formulate inspection plans. Taiyo is positioned in the **quasi-major bracket** ^[extracted]
 
 ### Disciplinary history
 
-- **2023-12-26 FSA administrative action**: over false certification in the audit of financial statements for D.D.S. Inc. from the 2017-12  periods through the 2022  1  quarter, the FSA issued the following to Grant Thornton Taiyo LLC:
-  - **Business suspension order**: suspended business related to new contract execution for 3  months, from 2024-01-01 to 2024-03-31, excluding renewal of existing contracts and IPO-related work
-  - **Business improvement order**: improvement of audit execution, review system, personnel management, and quality control, with improvement plan submission by 2024-01-31
-  - Prohibited review partner 1 名 from involvement in review work for 3  months
-  - The responsible CPAs 2 名 each received 6 -month business suspensions from 2024-01-01 to 2024-06-30
-- **2024-02-29 surcharge payment order**: for false certification of financial statements under Certified Public Accountants Act Article 34 -21 , paragraph 2 第 2 号, a **surcharge of 95,950,000 円** was ordered, with payment deadline 2024-04-30
+- **2023-12-26 FSA administrative disposition**: on the grounds of false attestation in the financial-document audit of D.D.S., Inc. (the 2017-12  period through the 2022  1 -th quarter), the following were issued against Grant Thornton Taiyo LLC
+  - **Business-suspension order**: suspension of business relating to the conclusion of new contracts for 3  months (2024-01-01 to 2024-03-31; the renewal of existing contracts and IPO-related matters were excluded)
+  - **Business-improvement order**: improvement of audit execution / review structure / personnel management / quality control (submission of an improvement plan 2024-01-31)
+  - The engagement-quality-review partner 1 名 was prohibited from involvement in review work for 3  months
+  - The engagement CPAs 2 名 were each suspended from business for 6  months (2024-01-01 to 2024-06-30)
+- **2024-02-29 surcharge-payment order**: for the false attestation of financial documents (Article 34 -21 , paragraph 2  of the Certified Public Accountants Act 第 2 号), a **surcharge of 95,950,000 円** (payment deadline 2024-04-30)
 
-## 6. Competitive relationships
+## 6. Competitive landscape
 
-| Layer | Firm | Strength axis |
+| Tier | Firm | Strength axis |
 |---|---|---|
-| Big 4  | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | Large listed companies and mega FG |
-| **Mid-tier large (Tier 2)** | **Taiyo Grant Thornton** | **Midsize listed / IPO / VASP** |
-| Mid-tier large (Tier 2) | BDO Sanyu & Co. | Midsize / foreign-affiliated |
-| Small and midsize | PwC Kyoto Audit Corporation, formerly, and many others | Regional / specialized |
+| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | Major listings / mega FGs |
+| **Quasi-major (Tier 2)** | **Grant Thornton Taiyo** | **Mid-tier listings / IPO / VASP** |
+| Quasi-major (Tier 2)| BDO Sanyu & Co. | Mid-tier / foreign-affiliated |
+| Small-and-medium | PwC Kyoto (former) / many others | Regional / specialized |
 
 ## Related
 
-- [[financial-regulators/ey-shinnihon]], Big 4  peer comparison
-- [[financial-regulators/deloitte-touche-tohmatsu]], Big 4  peer comparison
-- [[financial-regulators/kpmg-azsa]], Big 4  peer comparison
-- [[financial-regulators/pwc-aarata]], Big 4  peer comparison
-- [[megabanks/sbi-hd]], midsize independent FG-related client area, illustrative
-- [[financial-licenses/INDEX]], Certified Public Accountants Act and audit system
-- [[financial-regulators/fsa-supervision-bureau]], CPAAOB supervision context
-- [[exchanges/japan-crypto-audit-firm-landscape]], crypto-audit cross-domain
+- [[financial-regulators/ey-shinnihon]] (Big 4  peer comparison)
+- [[financial-regulators/deloitte-touche-tohmatsu]] (Big 4  peer comparison)
+- [[financial-regulators/kpmg-azsa]] (Big 4  peer comparison)
+- [[financial-regulators/pwc-aarata]] (Big 4  peer comparison)
+- [[megabanks/sbi-hd]] (related-client domain of mid-tier independent FGs — illustrative)
+- [[financial-licenses/INDEX]] (Certified Public Accountants Act / audit system)
+- [[financial-regulators/fsa-supervision-bureau]] (CPAAOB oversight context)
+- [[exchanges/japan-crypto-audit-firm-landscape]] (crypto-audit cross-domain)
 
 ## Sources
 
-- Taiyo Grant Thornton official: https://www.grantthornton.jp/
-- Taiyo Grant Thornton firm information: https://www.grantthornton.jp/about/firm/
+- Grant Thornton Taiyo official: https://www.grantthornton.jp/
+- Grant Thornton Taiyo firm information: https://www.grantthornton.jp/about/firm/
 - Japanese Institute of Certified Public Accountants (JICPA): https://jicpa.or.jp/
 - FSA Certified Public Accountants and Auditing Oversight Board (CPAAOB): https://www.fsa.go.jp/cpaaob/
 - EDINET: https://disclosure2.edinet-fsa.go.jp/
-- FSA disciplinary action against an audit corporation and CPAs (Grant Thornton Taiyo LLC, 2023-12-26): https://www.fsa.go.jp/news/r5/sonota/20231226-3/20231226.html
-- FSA decision on surcharge payment order (Grant Thornton Taiyo LLC, 2024-02-29): https://www.fsa.go.jp/news/r5/shouken/20240228.html
+- FSA, on disciplinary dispositions etc. of audit firms and certified public accountants (Grant Thornton Taiyo LLC, 2023-12-26): https://www.fsa.go.jp/news/r5/sonota/20231226-3/20231226.html
+- FSA, on the decision of a surcharge-payment order (Grant Thornton Taiyo LLC, 2024-02-29): https://www.fsa.go.jp/news/r5/shouken/20240228.html
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (v1.0 , based on public sources, 2026-05-24). The positioning as a mid-tier / midsize audit firm, Grant Thornton global membership, and CPAAOB classification are high-confidence on a public-source basis. Auditor assignments for specific clients should be checked case by case in EDINET primary filings.
+> [!info] Verification status
+> confidence: **likely** (v1.0  based on public sources, 2026-05-24). The positioning as a quasi-major / mid-tier audit firm, Grant Thornton global membership, and the CPAAOB categorization are highly reliable on a public basis. The auditor of any specific client should be confirmed as needed against EDINET primary materials.

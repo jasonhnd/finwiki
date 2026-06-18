@@ -1,21 +1,21 @@
 ---
 source: financial-regulators/pwc-aarata
-source_hash: ccfb71edf7a33389
+source_hash: a6a14ad4f498746a
 lang: ja
 status: machine
 fidelity: ok
 title: "PwC Japan 有限責任監査法人 (旧 PwC あらた)"
-translated_at: 2026-06-02T15:14:17.132Z
+translated_at: 2026-06-18T23:59:13.118Z
 ---
 # PwC Japan 有限責任監査法人 (旧 PwC あらた)
 
-## 要約
+## TL;DR
 
 **PwC Japan 有限責任監査法人**（旧称：**PwC あらた有限責任監査法人**）は **Big 4 系列** の一角で、グローバル **PricewaterhouseCoopers（PwC）** の日本メンバーファーム。**2006-07 中央青山監査法人 業務停止処分（カネボウ粉飾事件）→ あらた監査法人 設立** という日本監査業界再編史の中核を成した出自を持つ ^[extracted]。Big 4 内では上場監査クライアント数は他 3 法人より小規模だが、**FinTech / Web3 / NFT 戦略コンサル連携** と **PwC グローバル "Time for trust" 暗号資産フレームワーク** で差別化 ^[extracted]。**2023-04** に PwC Japan ブランドへ統合（旧 京都監査法人と合流）^[extracted]。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。[[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] と [[financial-regulators/ey-shinnihon|EY 新日本]] は Big 4  監査法人のピア文脈、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法 / 監査品質管理の規制境界としてあわせて読む。CPAAOB の監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
+本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。ピアとなる Big 4 監査の文脈としては [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] および [[financial-regulators/ey-shinnihon|EY 新日本]] と、公認会計士法／監査品質管理の規制境界としては [[financial-licenses/INDEX|金融ライセンス INDEX]] と併せて読むこと。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 
@@ -112,5 +112,5 @@ Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソント
 
 ---
 
-> [!info] 校核状态
+> [!info] 校核状態
 > confidence: **likely**（v1.0 公開ソース ベース、2026-05-24）。中央青山事件・あらた設立・PwC Japan 統合の流れは公開ベースで高信頼。具体的クライアント別監査人は EDINET 一次資料で都度確認すべき。

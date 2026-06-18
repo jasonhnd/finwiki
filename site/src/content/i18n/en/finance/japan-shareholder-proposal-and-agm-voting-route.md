@@ -1,11 +1,11 @@
 ---
 source: finance/japan-shareholder-proposal-and-agm-voting-route
-source_hash: a459043679b1735d
+source_hash: 168e5487f7ad9da3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan shareholder proposal and AGM voting route"
-translated_at: 2026-05-31T06:16:15.670Z
+translated_at: 2026-06-18T23:59:13.126Z
 ---
 
 # Japan shareholder proposal and AGM voting route
@@ -39,11 +39,11 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/jap
 | Article 299 | Written notice is required where written / electronic voting is adopted or where the company has a board. |
 | Article 301 | If written voting is adopted, reference documents and voting forms are sent with the notice. |
 | Article 302 | If electronic voting is adopted, reference documents are sent with the notice and voting-form information is provided electronically. |
-| Article 303 | For a company with a board, shareholders with 1% of votes or 300  votes held for six months or more may demand inclusion of matters in meeting purposes. |
+| Article 303 | For a company with a board, shareholders with 1% of votes or 300 votes held for six months or more may demand inclusion of matters in meeting purposes. |
 | Article 303 | The demand timing for board companies is no later than eight weeks before the meeting. |
 | Article 304 | Shareholders may submit proposals at the meeting on matters already within meeting purposes, subject to statutory limits. |
 | Article 305 | Qualifying shareholders may demand that a proposal summary be included in convocation materials. |
-| Article 305 | The same 1% / 300  votes, six-month holding, and eight-week timing fields apply for board-company proposal-summary demands. |
+| Article 305 | The same 1% / 300 votes, six-month holding, and eight-week timing fields apply for board-company proposal-summary demands. |
 | Article 312 | Electronic voting is possible with company approval and by Cabinet Order / Ministry of Justice Order route; electronically exercised votes count as votes of attending shareholders. |
 
 ## AGM Materials Route
@@ -79,8 +79,8 @@ JPX timely disclosure guidebook materials identify listed-company AGM / voting f
 | Agenda item | Convocation notice / reference documents. |
 | Company proposal | Board proposal section. |
 | Shareholder proposal | Proposal text, proposer name where disclosed, board position. |
-| Proposal-right threshold | Companies Act Articles 303  and 305. |
-| Proposal deadline | Eight-week route for board companies under Companies Act Articles 303  and 305. |
+| Proposal-right threshold | Companies Act Articles 303 and 305. |
+| Proposal deadline | Eight-week route for board companies under Companies Act Articles 303 and 305. |
 | Voting method | Written voting, electronic voting, in-person voting, institutional platform field where public. |
 | Voting result | Issuer voting-results disclosure. |
 | Governance code disclosure | JPX corporate-governance report. |

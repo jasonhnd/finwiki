@@ -1,17 +1,17 @@
 ---
 source: financial-regulators/kpmg-azsa
-source_hash: 91900b3d7f816160
+source_hash: 1c1be4cd70aeaf0d
 lang: ja
 status: machine
 fidelity: ok
-title: "有限責任 あずさ監査法人"
-translated_at: 2026-06-02T14:54:39.064Z
+title: "有限責任 あずさ監査法人 (KPMG AZSA)"
+translated_at: 2026-06-18T23:59:13.059Z
 ---
-# 有限責任 あずさ監査法人
+# 有限責任 あずさ監査法人 (KPMG AZSA)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] に属する。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] は Big 4  監査法人としての同業文脈、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法 / 監査品質管理の規制境界として併せて読む。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
+本エントリは [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。ピアの Big 4 監査の文脈として [[financial-regulators/ey-shinnihon|EY 新日本]] および [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] と並べて読み、公認会計士法 / 監査品質管理の規制境界として [[financial-licenses/INDEX|金融ライセンス INDEX]] と併せて読まれたい。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 
@@ -56,7 +56,7 @@ translated_at: 2026-06-02T14:54:39.064Z
 
 - **KPMG あずさ サステナビリティ株式会社** で SSBJ / ISSB 関連保証 ^[extracted]
 
-## 4. 主要上場 FG クライアント関係（公開ベース）
+## 4. 主要 listed FG クライアント関係（公開ベース）
 
 あずさは大手金融機関監査に強みを持つが、個別会社の最新監査人は EDINET 各社最新有価証券報告書「監査人の状況」セクションで都度確認すべき一次情報であり、当エントリでは具体的クライアント名の列挙を行わない。
 
@@ -82,7 +82,7 @@ translated_at: 2026-06-02T14:54:39.064Z
 
 Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人 ^[extracted]。
 
-## 関連項目
+## Related
 
 - [[financial-regulators/ey-shinnihon]]（Big 4 ピア）
 - [[financial-regulators/deloitte-touche-tohmatsu]]（Big 4 ピア）
@@ -93,7 +93,7 @@ Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソント
 - [[financial-regulators/fsa-supervision-bureau]]（CPAAOB 監督文脈）
 - [[exchanges/japan-crypto-audit-firm-landscape]]（クリプト監査クロスドメイン）
 
-## 出典
+## Sources
 
 - KPMG Japan：https://kpmg.com/jp/ja/home.html
 - あずさ監査法人：https://kpmg.com/jp/ja/home/about/azsa.html
@@ -105,5 +105,5 @@ Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソント
 
 ---
 
-> [!info] 校核状态
-> 信頼度: **おおむね高い**（v1.0 公開ソース ベース、2026-05-24）。法人形態・歴史的合流・Big 4 系列は公開ベースで高信頼。具体的クライアント別監査人は EDINET 一次資料で都度確認すべき。
+> [!info] 校核状態
+> confidence: **likely**（v1.0 公開ソース ベース、2026-05-24）。法人形態・歴史的合流・Big 4 系列は公開ベースで高信頼。具体的クライアント別監査人は EDINET 一次資料で都度確認すべき。

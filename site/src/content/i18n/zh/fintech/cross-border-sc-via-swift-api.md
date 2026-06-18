@@ -1,99 +1,99 @@
 ---
 source: fintech/cross-border-sc-via-swift-api
-source_hash: cf5b9261a5c5fe23
+source_hash: a23088cf7d6f53ae
 lang: zh
 status: machine
 fidelity: ok
 title: "跨境 SC via SWIFT API"
-translated_at: 2026-05-31T06:16:15.713Z
+translated_at: 2026-06-18T23:59:13.081Z
 ---
 
 # 跨境 SC via SWIFT API
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 之下。可与 [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] 一并阅读以获得相邻语境，并与 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] 一并阅读更广泛的系统边界。
 
 > [!info] TL;DR
-> 跨境 SC 普及最大的阻碍是"与银行工作流 / AML/CFT 的不兼容"。解决这一问题的现代模式是**以 SWIFT API 作为前端、在后端执行区块链结算的混合架构**。Project Pax（Progmat + Datachain · 2024-09）与 BIS Project Agorá 是该架构的代表实现。**TD（代币化存款）在 SWIFT API 兼容性方面处于领先**，**SC 因 §501(d) 互操作许可的不同而呈现分叉的接入模式**。
+> 跨境 SC 普及的最大阻碍是「与银行 workflow / AML/CFT 的不兼容」。解决这一问题的现代模式是 **将 SWIFT API 置于前端、由区块链 settlement 在后端执行的 hybrid 结构**。Project Pax（Progmat + Datachain · 2024-09）与 BIS Project Agorá 是该结构的代表实现。**TD（Tokenized Deposit）在 SWIFT API 兼容性上领先**，**SC 则视 §501(d) 互操作 许可证而定，其接入模式随之分化**。
 
 ## 基本模式
 
 ```
-银行（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / 瑞穗等）
+银行([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / Mizuho 等)
        ↓ SWIFT MT103 / ISO 20022 消息
-SWIFT API mock layer（Datachain）
-       ↓ 解析 → 结算指令
-[[payment-firms/progmat|Progmat Coin]] 合约（信托型 SC）
-       ↓ 链上交易
-IBC + LCP（跨链桥）
+SWIFT API mock layer(Datachain)
+       ↓ 解析 → settlement instruction
+[[payment-firms/progmat|Progmat Coin]] contract(信托型 SC)
+       ↓ on-chain transaction
+IBC + LCP(cross-chain bridge)
        ↓
 Ethereum / Polygon / Avalanche / Cosmos
-       ↓ TOKI 流动性池跨链互换
-接收方银行 → 以接收方货币到账
+       ↓ 在 TOKI 流动性池进行 cross-chain swap
+接收侧银行 → 以接收侧货币入账
 ```
 
-## 为何将 SWIFT API 置于前端
+## 为何将 SWIFT API 置于前面
 
 | 理由 | 内容 |
 |---|---|
-| **保护现有工作流** | 银行内部系统 / 企业 ERP 已在 SWIFT 基础上运行 50  年 |
-| **AML/CFT 兼容** | OFAC / FATF 旅行规则在 SWIFT 上已积累运营经验 |
-| **监管机构的安心感** | FSA / 金融厅将 SWIFT 经由视为已审核通道，更易认可 |
-| **阶段性迁移可行** | 完全链上化遥遥无期 · 通过 SWIFT 逐步将银行纳入，渐进提升链上比例 |
+| **保护既有 workflow** | 银行内部系统 / corporate ERP 以 SWIFT 为前提运行 50 年 |
+| **AML/CFT 兼容** | OFAC / FATF Travel Rule 在 SWIFT 上已积累运营经验 |
+| **监管当局的安心感** | FSA / 金融厅 若经由 SWIFT 则更易视为已审查 |
+| **可分阶段迁移** | full on-chain 是遥远的未来 · 用 SWIFT 把银行卷入，逐步提高 on-chain 比例 |
 
-## TD vs SC 的跨境路径分岔
+## TD vs SC 的跨境路径分化
 
-| 项目 | TD（JPM Kinexys / KDP）| 信托型 SC（Progmat / Project Pax）|
+| 项目 | TD(JPM Kinexys / KDP)| 信托型 SC(Progmat / Project Pax)|
 |---|---|---|
 | 法律性质 | 银行存款型 | 第 3 号 EPI 信托型 |
-| SWIFT API | **直接使用现有 SWIFT** | 经 SWIFT API mock layer |
-| 跨境商业化 | **已达 $1.5T / 月**（KDP）| 2026-H2 目标（进展延迟）|
-| §501(d) 是否必须 | **不需要**（TD 不受 SC 监管）| 需要（待未来取得）|
-| 互操作伙伴 | 现有美系银行合作方 | 亚洲合作方尚未确定 |
-| 利息 | 存款利息归银行 | 信托受托管理费 |
+| SWIFT API | **直接利用既有 SWIFT** | 经由 SWIFT API mock layer |
+| Cross-border 商用化 | **已达 $1.5T/月**(KDP)| 2026-H2 目标(延迟中)|
+| §501(d) 必须? | **不需要**(TD 在 SC 监管之外)| 需要(待将来取得)|
+| 互操作 partner | 美系 banking partner 既有 | 亚洲 partner 确定不足 |
+| 利息 | 存款利息归银行 | 信托受托报酬 |
 
-**含义**：Kinexys 通过 TD 路径**规避 §501  监管**，已实现商业化。Progmat 走 SC 路径，除非取得 §501(d) 级别，否则在跨境大额业务上相对 Kinexys 存在结构性劣势。
+**含义**：Kinexys 以 TD path **规避 §501 监管** 同时已达成商用化。Progmat 在 SC path 上，只要不取得 §501(d) tier，在 cross-border 大额业务上对 Kinexys 处于结构性劣势。
 
-## Project Pax 技术架构
+## Project Pax 的技术构成
 
-| 层 | 构成要素 | 提供方 |
+| Layer | 构成要素 | 提供者 |
 |---|---|---|
-| 应用层 | SWIFT API mock + 企业钱包 | Datachain |
-| 结算指令 | Progmat Coin 合约 | Progmat + Datachain |
-| 跨链 | IBC + LCP 中间件 | Datachain（Hyperledger Lab）|
-| 流动性 | TOKI 跨链池 | TOKI（Datachain 子公司）|
-| 公链 | Ethereum / Polygon / Avalanche / Cosmos | 各公链 |
-| 合规 | OFAC / 旅行规则 / KYC API | Progmat 共用 |
+| Application | SWIFT API mock + corporate wallet | Datachain |
+| Settlement instruction | Progmat Coin contract | Progmat + Datachain |
+| Cross-chain | IBC + LCP middleware | Datachain(Hyperledger Lab)|
+| Liquidity | TOKI cross-chain pool | TOKI(Datachain 子公司)|
+| Chains | Ethereum / Polygon / Avalanche / Cosmos | 各 chain |
+| Compliance | OFAC / Travel Rule / KYC API | Progmat 共通 |
 
 ## 与 BIS Project Agorá 的比较
 
 | 项目 | Project Pax | BIS Project Agorá |
 |---|---|---|
-| 主导方 | Progmat（民间 · 日本）| BIS（国际 · 7  央行）|
-| 目的 | 将日本 SC 接入 SWIFT | 批发 CBDC + 商业银行货币整合 |
-| 结算资产 | 信托型 SC | 批发 CBDC + TD |
-| 技术 | Avalanche L1  + IBC | Unified Ledger（BIS 设计）|
-| 商业化时间表 | 2026-H2  | 2027+（验证阶段）|
-| 与 §501(d) 的关系 | 个别 SC 互操作 | 主权网络基础设施 |
+| 主导 | Progmat(民间 · 日本)| BIS(国际 · 7 央行)|
+| 目的 | 让日本发的 SC 搭上 SWIFT | 批发 CBDC + commercial bank money 整合 |
+| Settlement asset | 信托型 SC | wholesale CBDC + TD |
+| 技术 | Avalanche L1 + IBC | Unified Ledger(BIS 设计)|
+| 商用 timeline | 2026-H2 | 2027+(实证阶段)|
+| 与 §501(d) 的关系 | 个别 SC 互操作 | 主权网络基盘 |
 
-**两者是互补关系**：Agorá 构建**国家间骨架**，Pax 解决**个别 SC ↔ SWIFT 的最后 1 英里**。
+**两者为互补关系**：Agorá 构建 **国家间骨架**，Pax 解决 **个别 SC ↔ SWIFT 的最后1英里**。
 
 ## 局限 / 风险
 
-- **§501(d) 通道尚未建立**：目前无法与 USDC 等美国合规 SC 直接互换
-- **延迟历史**：Pax 未能实现 2025  底的原定目标 → 技术风险已显现
-- **亚洲合作方不足**：香港 / 新加坡 / 韩国交易对手确认延迟
-- **SWIFT 依赖**：若 SWIFT 未来迁移至 ISO 20022 + 原生链上，mock layer 将面临淘汰
-- **JPM Kinexys 竞争**：同类功能已通过 TD 路径实现商业化
+- **§501(d) 通道未确立**：目前无法与 USDC 等美国合规 SC 直接 swap
+- **延迟历史**：Pax 未能达成 2025 末的当初目标 → 技术风险暴露
+- **亚洲 partner 不足**：HK / SG / 韩国 counter-party 确定延迟
+- **SWIFT 依赖**：若 SWIFT 自身将来迁移至 ISO 20022 + onchain native，mock layer 将陈旧化
+- **与 JPM Kinexys 的竞争**：TD path 已将同类功能商用化
 
 ## 应用
 
-- 适用于任何"区块链 + 现有银行工作流"整合讨论
-- 解读 SWIFT 改革（ISO 20022  / GPI / GPI for Corporates）与 SC 的关系
-- 亚洲发起的跨境 SC 设计讨论（韩国 KRW1  · 泰国 Project Inthanon · 新加坡 Project Ubin）
-- 结合 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] 进行多链 SC 转移设计
+- 可用于任何 "blockchain + 既有 banking workflow" 整合议题的参照
+- 解读 SWIFT 改革(ISO 20022 / GPI / GPI for Corporates)与 SC 的关系
+- 亚洲发起的 cross-border SC 设计议题(韩国 KRW1 · 泰国 Project Inthanon · 新加坡 Project Ubin)
+- 与 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] 结合进行多 chain SC 转移设计
 
 ---
 

@@ -1,129 +1,124 @@
 ---
 source: financial-conglomerates/sojitz-corp
-source_hash: 068acbbc607d7766
+source_hash: 662d1eea77af88f9
 lang: en
 status: machine
 fidelity: ok
-title: "Sojitz Corporation"
-translated_at: 2026-06-01T02:31:57.159Z
+title: "双日 (Sojitz Corporation)"
+translated_at: 2026-06-18T23:59:13.097Z
 ---
-# Sojitz Corporation
+# 双日 (Sojitz Corporation)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. It is positioned after the five major trading houses and within the middle-tier / quasi-major trading-company group. Read it against [[financial-conglomerates/marubeni-corp|Marubeni]] and [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/sojitz-finance|Sojitz Finance]], the internal CMS / group-finance arm that has the same model as major trading-house finance subsidiaries such as MCFS, MBFS, Itochu Finance, Marubeni Finance, and Sumitomo Corporation Financial Management. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** — positioned as the next layer below the 5  major trading houses, i.e. a **mid-tier trading house within the 7  major houses**. Read it against [[financial-conglomerates/marubeni-corp|丸紅]] (lower-middle of the 5  major houses, a position close to Sojitz) and [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (the other pole among the mid-tier / lower-end of the 5  major houses) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sojitz-finance|双日フィナンス]] (inward-facing CMS, the same group-treasury model as the 5  majors' MCFS / MBFS / Itochu Finance / Marubeni Finance / Sumitomo Corporation FM). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| Legal name | Sojitz Corporation ^[extracted] |
+| Legal name | Sojitz Corporation (双日株式会社) ^[extracted] |
 | English | Sojitz Corporation ^[extracted] |
 | Ticker | TSE PRIME **2768** ^[extracted] |
-| Listing | Tokyo Stock Exchange PRIME market, also including Nagoya listing ^[extracted] |
-| Established | 2004 年 4 月; Sojitz Holdings was formed through the integration of Nissho Iwai and Nichimen, followed by business-company integration ^[extracted] |
-| Head office | Marunouchi, Chiyoda-ku, Tokyo ^[extracted] |
+| Listing | Tokyo Stock Exchange PRIME market, including Nagoya listing ^[extracted] |
+| Founded | 2004 年 4 月 (Sojitz Holdings established through the management integration of Nichimen + Nissho Iwai, later integrating the operating companies) ^[extracted] |
+| Head office | Uchisaiwaicho, Chiyoda-ku, Tokyo ^[extracted] |
 | Accounting standard | IFRS ^[extracted] |
-| Main segments | Automotive; aerospace and transportation projects; infrastructure and healthcare; metals, resources and recycling; chemicals; lifestyle, agribusiness, retail and consumer services ^[extracted] |
+| Main segments | Automotive, aerospace industry & transportation projects, infrastructure & healthcare, metals/resources/recycling, chemicals, consumer industry & agribusiness, retail & consumer services ^[extracted] |
 
-### Major subsidiaries / related companies (JapanFG axis)
+### Main subsidiaries / affiliates (JapanFG context)
 
 ```
-Sojitz (2768,  TSE PRIME)
-  ??? [[trading-company-finance/sojitz-finance|Sojitz Finance]] (100%)          - internal CMS / group finance
-  ├── No large captive leasing subsidiary is apparent
-  │                            - external asset finance uses 3  major leasing companies / SMFL / Mizuho Leasing and others
-  ├── Sojitz Logistics         - logistics
-  └── Many overseas resource / infrastructure JVs, generally smaller in scale than the 5  major trading houses
+Sojitz (2768, TSE PRIME)
+  ├── [[trading-company-finance/sojitz-finance|双日フィナンス]] (100%)            — inward-facing CMS / group finance
+  ├── (no major captive leasing subsidiary)                          — outward-facing asset finance relies on external parties such as the 3  majors' leasing arms / SMFL / Mizuho Leasing
+  ├── Sojitz Logistics                                          — logistics
+  └── numerous overseas resource/infrastructure JVs (more limited in scale than the 5  major houses)
 ```
 
 ### Historical highlights ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1892  | Nichimen, formerly Japan Cotton Trading, founded |
-| 1896  | Nissho, formerly Suzuki & Co. line, founded |
-| 1928  | Iwatani Sangyo founded, historically a related trading house |
-| 1968  | Nissho and Iwai Sangyo merged to form Nissho Iwai |
-| 1990s | Nichimen and Nissho Iwai both faced large non-performing loans and business difficulty |
-| **2003** | Management integration of Nichimen and Nissho Iwai through Sojitz Holdings ^[extracted] |
-| **2004** | Sojitz Corporation launched through business-company integration and listed on TSE 1  Section |
-| 2010s onward | Medium-term plans strengthened earnings quality and targeted net profit above the 1,000 億円 level |
-| 2020s | Expanded shareholder return and strengthened SG / GX strategy |
+| 1892 | Nichimen (formerly Nippon Menka) founded (cotton-import trader) |
+| 1896 | Nissho (formerly of the Suzuki Shoten lineage) founded |
+| 1928 | Iwai Sangyo founded (a Kobe zaibatsu trading house) |
+| 1968 | Nissho + Iwai Sangyo merge → Nissho Iwai established |
+| 1990s | Both Nichimen and Nissho Iwai burdened with massive bad debts and management distress |
+| **2003** | Nichimen + Nissho Iwai management integration (Sojitz Holdings) ^[extracted] |
+| **2004** | Sojitz Corporation launched (integration of operating companies), listed on the TSE 1  Section |
+| 2010s〜 | Strengthened earnings profile under mid-term plans, net income reaching the 1,000 億円 level |
+| 2020s | Expanded shareholder returns, strengthened ESG / GX strategy |
 
 ## 2. Business-segment map
 
-| Segment | Main businesses | Representative subsidiaries / related entities |
+| Segment | Main businesses | Representative subsidiaries / affiliates |
 |---|---|---|
-| Automotive | Overseas dealer networks in Asia, the Middle East, Africa, and auto parts | - |
-| Aerospace / transportation projects | Commercial aircraft, Boeing / Airbus transactions, airports and rail infrastructure | - |
-| Infrastructure / healthcare | Power IPP, water, medical platform, limited infrastructure projects | - |
-| Metals / resources / recycling | Iron ore, coal such as Australia exposure, nonferrous metals, recycling | - |
-| Chemicals | Petrochemicals, functional chemicals, methanol | - |
-| Lifestyle / agribusiness | Food, fertilizer, agriculture | - |
-| Retail / consumer services | Distribution, consumer, lifestyle | - |
+| Automotive | Overseas dealer networks (Asia, Middle East, Africa), auto parts | — |
+| Aerospace industry & transportation projects | Passenger aircraft (Boeing / Airbus deals), airport & rail infrastructure | — |
+| Infrastructure & healthcare | Power-generation IPP, water and sewage, healthcare platforms (limited) | — |
+| Metals/resources/recycling | Iron ore & coal (Australia, etc.), non-ferrous metals, recycling | — |
+| Chemicals | Petrochemicals, functional chemicals, methanol | — |
+| Consumer industry & agribusiness | Food, fertilizer, agriculture | — |
+| Retail & consumer services | Distribution, consumer, lifestyle | — |
 
 ## 3. Financial-services adjacency
 
-| Finance subsidiary / related entity | Wiki anchor | Ownership | Function |
+| Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| Sojitz Finance | [[trading-company-finance/sojitz-finance]] | 100% | Internal CMS / group finance / bulk factoring |
+| Sojitz Finance | [[trading-company-finance/sojitz-finance]] | 100% | Inward-facing CMS / group finance / bulk factoring |
 
-**Comparison with the 5  major trading houses: Sojitz does not appear to have a large external captive leasing / asset-finance subsidiary.**
+**Comparison with the 5  major houses — Sojitz has no major outward-facing captive leasing / asset-finance subsidiary**:
+- 5  majors: [[financial-conglomerates/mitsubishi-corp|三菱]] → [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] (about 20% equity method), [[financial-conglomerates/mitsui-co|三井]] → [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (about 33%), [[financial-conglomerates/itochu-corp|伊藤忠]] → [[leasing-firms/tokyo-century|東京センチュリー]] (about 25%), [[financial-conglomerates/sumitomo-corp|住友]] → [[leasing-firms/smfl|SMFL]] (50% JV with SMFG), [[financial-conglomerates/marubeni-corp|丸紅]] → [[leasing-firms/mizuho-lease|みずほリース]] (about 20%, 2024〜)
 
-- Five majors: [[financial-conglomerates/mitsubishi-corp|Mitsubishi]] -> [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]; [[financial-conglomerates/mitsui-co|Mitsui]] -> [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]]; [[financial-conglomerates/itochu-corp|ITOCHU]] -> [[leasing-firms/tokyo-century|Tokyo Century]]; Marubeni and Sumitomo Corporation have their own finance / leasing adjacencies.
+In addition, **Sojitz's main banks**:
+- Former Nichimen lineage → [[megabanks/mizuho-fg|みずほ FG]] (former Fuji Bank / IBJ lineage)
+- Former Nissho Iwai lineage → [[megabanks/mufg|MUFG]] (former Sanwa Bank lineage / former Tokyo-Mitsubishi) + [[megabanks/smfg|SMFG]]
 
-Additional main-bank lineage for Sojitz:
+### Identity within the 7  major houses
 
-- Former Nichimen line -> [[megabanks/mizuho-fg|Mizuho FG]] (former Fuji Bank / Industrial Bank lineage)
-- Former Nissho Iwai line -> [[megabanks/mufg|MUFG]] (former Sanwa Bank lineage / former Tokyo-Mitsubishi) + [[megabanks/smfg|SMFG]]
+- **The next layer below the 5  majors**: in net income, on the order of 1/3〜1/4  of the 5  major houses, yet ranking among the upper tier within the 7  major houses (the ranking of mid-tier houses such as Sojitz > [[leasing-firms/kanematsu-leasing|兼松]] > [[financial-conglomerates/sojitz-corp|岩谷産業]] varies by period)
+- **Improved earnings profile after the 2004  integration**: Nichimen + Nissho Iwai integration → rationalization of overlapping businesses → net income reaching the 1,000 億円 level
+- **Niche strategy**: distinctive niches in areas where the 5  major houses are thin (aerospace industry, overseas dealer networks, agriculture)
 
-### 7  major-trading-house identity
+### Competitors
 
-- **Layer after the 5  majors**: in net profit, Sojitz is below the 5  major trading houses' 1 / 3 and 1 / 4  scale, but can be upper-ranked inside the 7  major group depending on the period, alongside mid-tier names such as [[leasing-firms/kanematsu-leasing|兼松]] and [[financial-conglomerates/sojitz-corp|岩谷産業]].
-- **Earnings-quality improvement after 2004  integration**: Nichimen + Nissho Iwai integration, restructuring of overlapping businesses, and net-profit progress toward 1,000 億円.
-- **Niche strategy**: independent niches in areas where the 5  majors are thin, such as aerospace, overseas dealer networks, and agriculture.
+- **Domestic**: the 5  major houses ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/mitsui-co|三井]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]]), [[financial-conglomerates/toyota-tsusho-corp|豊田通商]], mid-tier trading houses (Kanematsu, etc.)
+- **Aerospace industry**: trading houses of various countries, Boeing / Airbus dealerships
+- **Overseas dealer networks**: local distribution companies in each country
 
-### Competition
+## 5. Regulation & policy
 
-- **Domestic**: 5  major trading houses ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/mitsui-co|三井]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]]), [[financial-conglomerates/toyota-tsusho-corp|豊田通商]], and middle-tier trading houses such as Kanematsu.
-- **Aerospace**: foreign trading houses and Boeing / Airbus agencies.
-- **Overseas dealer networks**: local distribution companies in each country.
-
-## 5. Controls / policy
-
-- **Accounting**: IFRS adoption; high weight of equity-method investments ^[extracted].
+- **Accounting**: adopts IFRS, with a large weighting of equity-method investments ^[extracted]
 
 ## 6. Counterpoints
 
-Sojitz has strengthened profitability and shareholder returns, but still needs to be read as a smaller, more selective trading-house platform than the largest peers. The main JapanFG relevance is therefore not a large financial conglomerate, but the internal treasury arm and the comparison with other trading-company finance subsidiaries.
-
 ## 7. Open questions
 
-- Whether Sojitz can enter the 5  major trading-house profit range, above roughly 2,000 億円 net profit.
-- Whether establishing or acquiring an external captive leasing subsidiary is a strategic option.
-- Medium- to long-term strategy in aerospace, including aircraft dealers and airports.
-- Deepening in Africa / Middle East versus [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] CFAO.
-- Remaining integration synergy from Nichimen + Nissho Iwai and the next structural reform.
-- Strategy to move up into a higher valuation tier.
+- Is growth to the **5  major-house level** (net income exceeding 2,000 億円) possible
+- Is establishing / acquiring an **outward-facing captive leasing subsidiary** a strategic option
+- Mid-to-long-term strategy for the **aerospace industry** (passenger-aircraft dealerships, airports)
+- Deepening expansion into **Africa & the Middle East** (competing against [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] CFAO)
+- **Assessment of the Nichimen + Nissho Iwai integration**: have the integration synergies been exhausted, and what is the next structural reform
+- Strategy for a **ratings upgrade** (moving into the upper A range)
 
 ## Related
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (peer trading houses)
-- [[trading-company-finance/sojitz-finance|Sojitz Finance]] (internal group treasury)
-- [[leasing-firms/orix-corp|ORIX]] ? [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] ? [[leasing-firms/tokyo-century|Tokyo Century]] ? [[leasing-firms/smfl|SMFL]] ? [[leasing-firms/mizuho-lease|Mizuho Leasing]] (external leasing comparators)
-- [[megabanks/mizuho-fg|Mizuho FG]] ? [[megabanks/mufg|MUFG]] ? [[megabanks/smfg|SMFG]] (main-bank lineage)
-- [[finance/INDEX|finance index]] ? [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]]
+- [[trading-company-finance/sojitz-finance|双日フィナンス]] (inward-facing group treasury)
+- [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|みずほリース]] (external leasing counterparties)
+- [[megabanks/mizuho-fg|みずほ FG]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] (main-bank tier)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
 ## Sources
 
-- Sojitz (2768) official IR: https://www.sojitz.com/jp/ir/
-- Sojitz integrated report: https://www.sojitz.com/jp/ir/library/integrated/
-- EDINET securities reports, search: Sojitz / 2768, https://disclosure.edinet-fsa.go.jp/
-- JPX listed-company information 2768 : https://www2.jpx.co.jp/
+- Sojitz (2768) official IR — https://www.sojitz.com/jp/ir/
+- Sojitz integrated report — https://www.sojitz.com/jp/ir/library/integrated/
+- EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: 双日 / 2768)
+- JPX ticker information 2768 — https://www2.jpx.co.jp/
 
 ---
 
-> [!info] Validation status
-> confidence: **likely**. The public surface is sufficient for Sojitz. Consolidated net profit, Nichimen + Nissho Iwai post-integration trajectory after more than 20  years, and competitive standing against the 5  major trading houses should be updated from the latest securities report and integrated report.
+> [!info] Verification status
+> confidence: **likely**. Sojitz is sufficiently covered on the public surface. Consolidated net income, the assessment of the year 20  after the Nichimen + Nissho Iwai integration, and the competitive gap with the 5  major houses are to be updated as needed from the latest securities reports / integrated reports.

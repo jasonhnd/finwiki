@@ -1,13 +1,13 @@
 ---
 source: financial-regulators/jbic
-source_hash: 7d79a584c5c5fc07
+source_hash: ca6df8e1fc846933
 lang: en
 status: machine
 fidelity: ok
-title: "Japan Bank for International Cooperation (JBIC)"
-translated_at: 2026-05-31T23:59:49.371Z
+title: "Japan Bank for International Cooperation (JBIC) (国際協力銀行)"
+translated_at: 2026-06-18T23:59:13.128Z
 ---
-# Japan Bank for International Cooperation (JBIC)
+# Japan Bank for International Cooperation (JBIC) (国際協力銀行)
 
 ## Wiki route
 
@@ -15,105 +15,105 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-Japan's overseas-facing **policy finance institution** (a special company with the Minister of Finance as 100% shareholder). Through its 4  businesses of **export loans + overseas investment loans + untied loans + equity participation**, it supports Japanese companies' global expansion, resource and energy security, and GX. On 2012-04-01 it separated again from [[financial-regulators/jfc]] (Japan Finance Corporation) and became a special company. Its predecessors were the Export Bank of Japan, established in 1950  and later renamed the Export-Import Bank of Japan, and the Overseas Economic Cooperation Fund (OECF), established in 1961 . The old JBIC was launched by integrating the two in 1999-10 , was temporarily integrated into JFC in 2008-10 , and then separated again in 2012-04 . **Cofinancing with private megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) is the central scheme**, while the division with [[policy-finance/jica|jica]] is "JBIC = export / investment, JICA = ODA." ^[extracted]
+A Japanese **policy-finance institution** oriented toward overseas business (with the Minister of Finance as 100% shareholder; a special company). Through 4  lines of business — **export finance + overseas investment finance + untied loans + equity participation** — it supports Japanese companies' global expansion, securing of resources and energy, and GX. It was re-separated from [[financial-regulators/jfc]] (Japan Finance Corporation, JFC) in 2012-04-01 and turned into a special company. Its predecessors were the Export Bank of Japan (→ Export-Import Bank of Japan) established in 1950  and the Overseas Economic Cooperation Fund (OECF) established in 1961 . The two were merged in 1999-10  to launch the old JBIC; it was once integrated into JFC in 2008-10  → re-separated in 2012-04 . **Cofinancing** with private megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) is the **core scheme**, and it divides roles with [[policy-finance/jica|jica]] along the lines of "JBIC = export/investment, JICA = ODA". ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: Japan Bank for International Cooperation ^[extracted]
+**Official name**: Japan Bank for International Cooperation, Inc. (株式会社国際協力銀行) ^[extracted]
 **English name**: Japan Bank for International Cooperation (JBIC)
-**Legal basis**: Japan Bank for International Cooperation Act (Act 第 39 号 of 平成 23 年) ^[extracted]
-**Establishment**: **2012-04-01** (the international finance operations of Japan Finance Corporation were separated and converted into a special company) ^[extracted]
+**Legal basis**: Japan Bank for International Cooperation Act (法律 No. 平成 23 年-第 39 号) ^[extracted]
+**Establishment**: **2012-04-01** (the international-finance division of Japan Finance Corporation was separated and turned into a special company) ^[extracted]
 **Shareholder**: **Minister of Finance 100%** ^[extracted]
-**Head office**: Otemachi, Chiyoda-ku, Tokyo 1-4-1 ^[extracted]
-**Business type**: special company (a policy finance institution in stock-company form, unlisted)
+**Head office**: Ōtemachi, Chiyoda-ku, Tokyo 1-4-1 ^[extracted]
+**Business type**: Special company (a policy-finance institution in joint-stock-company form, unlisted)
 
-### History and Predecessors
+### History / predecessors
 
 ```
-1950-12   Export Bank of Japan established (export finance for postwar reconstruction)
+1950-12   Export Bank of Japan established (postwar-reconstruction export finance)
 1953-04   Renamed Export-Import Bank of Japan (import finance added)
-1961-03   Overseas Economic Cooperation Fund (OECF) established (core yen-loan / ODA institution)
-1999-10   Export-Import Bank of Japan + OECF -> Japan Bank for International Cooperation (old JBIC) launched
-2008-10   Integrated into Japan Finance Corporation (JFC) -> JBIC becomes JFC's international finance unit
-2012-04   Re-separated from JFC -> Japan Bank for International Cooperation (new JBIC) launched and converted into a special company
+1961-03   Overseas Economic Cooperation Fund (OECF) established (core of yen loans / ODA)
+1999-10   Export-Import Bank of Japan + OECF → "Japan Bank for International Cooperation (old JBIC)" launched
+2008-10   Integrated into Japan Finance Corporation (JFC) → JBIC becomes JFC's international-finance division
+2012-04   Re-separated from JFC → "Japan Bank for International Cooperation, Inc. (new JBIC)" launched / turned into a special company
 ```
 
-### Important Timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Date | Event |
+| Year-month | Event |
 |---|---|
 | **1950-12** | Export Bank of Japan established (postwar reconstruction / export finance) |
 | 1953-04 | Renamed Export-Import Bank of Japan (import finance added) |
 | **1961-03** | Overseas Economic Cooperation Fund (OECF) established (yen loans / ODA) |
-| **1999-10-01** | Export-Import Bank of Japan + OECF -> Japan Bank for International Cooperation (old JBIC) launched |
-| 2003-10 | OECF's ODA yen-loan operations transferred to JICA (starting point for business-reorganization debate) |
-| **2008-10-01** | Integrated into JFC -> JBIC becomes JFC's international finance unit |
-| **2012-04-01** | **Re-separated from JFC -> new JBIC launched (special-company conversion)** |
-| 2016 | Global investment and loan facility / special operations account established (strengthened risk-money supply) |
-| 2020 onward | **Stronger overseas investment related to GX (green investment) and decarbonization** |
-| 2022 onward | Economic-security projects / stronger semiconductor and rare-metal supply chains |
-| 2023 onward | Expansion of transition finance such as LNG, hydrogen, and ammonia |
+| **1999-10-01** | Export-Import Bank of Japan + OECF → "Japan Bank for International Cooperation (old JBIC)" launched |
+| 2003-10 | OECF's ODA yen-loan division → transferred to JICA (the starting point of debate on business restructuring) |
+| **2008-10-01** | Integrated into JFC → JBIC becomes JFC's international-finance division |
+| **2012-04-01** | **Re-separated from JFC → new JBIC launched (turned into a special company)** |
+| 2016 | Global investment-and-loan / special-operations account created (strengthening risk-money supply) |
+| 2020~ | **Strengthening overseas investment related to GX (green investment) and decarbonization** |
+| 2022~ | Economic-security projects / strengthening of semiconductor and rare-metal supply chains |
+| 2023~ | Expansion of transition finance for LNG, hydrogen, ammonia, etc. |
 
-## 2. Business Segment Map
+## 2. Business segments / map
 
 | Business | Content | Main targets |
 |---|---|---|
-| **Export loans** | Loans for Japanese companies' export projects, such as plants, ships, infrastructure, and defense equipment | Japanese exporters / overseas buyers |
-| **Import loans** | Financing to secure imports of energy and resources such as LNG, oil, and rare metals | Japanese trading companies, electric utilities, and gas companies |
-| **Overseas investment loans** | Financing for Japanese companies' overseas M&A, local subsidiaries, and JV equity funding | Overseas subsidiaries of Japanese companies |
-| **Untied loans** | Industrial-development support loans not tied to specific Japanese-company projects, mainly for middle-income countries | Middle-income country governments / public institutions |
-| **Equity participation** | Minority equity participation in strategic projects, supplying risk money | Infrastructure / resources / GX projects |
-| **Guarantees** | Guarantees for private financial institutions' loans and bonds | Private banks / institutional investors |
+| **Export finance** | Lending for Japanese companies' export projects (plants, ships, infrastructure, defense equipment, etc.) | Japanese exporters / overseas buyers |
+| **Import finance** | Import-securing finance for energy and resources (LNG / oil / rare metals, etc.) | Japanese trading companies, electric power, gas |
+| **Overseas investment finance** | Funds for Japanese companies' overseas M&A, local-subsidiary lending, and JV equity participation | Overseas subsidiaries of Japanese companies |
+| **Untied loans** | Industrial-development support finance (not tied to specific Japanese-company projects; for middle-income countries) | Middle-income-country governments / public institutions |
+| **Equity participation** | Minority equity stakes in strategic projects (risk-money supply) | Infrastructure / resource / GX projects |
+| **Guarantees** | Provision of guarantees on private financial institutions' loans and bonds | Private banks / institutional investors |
 
-### Business Schemes
+### Business schemes
 
-- **Cofinancing is central**: the typical pattern combines JBIC with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), regional banks, and overseas financial institutions.
-- **Special operations account** (from 2016 onward): risk-money supply framework for high-risk projects and GX projects.
-- **Division of roles with yen loans**: ODA yen loans are handled by [[policy-finance/jica|jica]] (transferred in 2008-10 ) -> JBIC focuses on commercially oriented overseas loans and investments.
+- **Cofinancing as the core**: a combination of JBIC with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) + regional banks + overseas financial institutions is typical
+- **Special-operations account** (2016~): a risk-money-supply allocation for high-risk and GX projects
+- **Division of roles with yen loans**: ODA yen loans are handled by [[policy-finance/jica|jica]] (transferred in 2008-10 ) → JBIC focuses on commercially oriented overseas investment and lending
 
-### 3  Strategic Axes
+### 3  strategic axes
 
-1. **Support for Japanese companies' global expansion**: M&A funding / plant exports / infrastructure exports
-2. **Securing resources and energy**: LNG / oil / rare metals / storage-battery materials
-3. **GX (green transformation)**: renewable energy / hydrogen / ammonia / CCS / EV supply chains ^[extracted]
+1. **Support for Japanese companies' global expansion**: M&A funds / plant exports / infrastructure exports
+2. **Securing resources and energy**: LNG / oil / rare metals / battery materials
+3. **GX (Green Transformation)**: renewables / hydrogen / ammonia / CCS / EV supply chains ^[extracted]
 
-### Partnership and Acquisition Strategy
+### Alliance / acquisition strategy
 
-- **Megabank cofinancing**: recurring cooperation with [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]], such as plant-export projects.
-- **Division of roles with JICA**: ODA = JICA, commercially oriented overseas loans and investments = JBIC (after the transfer of the yen-loan unit in 2008-10 円).
-- **NEXI linkage**: combination of Nippon Export and Investment Insurance (NEXI) export insurance with JBIC loans.
-- **Cooperation with overseas policy finance institutions**: cofinancing with the U.S. EXIM Bank, Korea Eximbank, France's Bpifrance, Germany's KfW IPEX, and others.
-- **International energy frameworks**: resource-diplomacy support linked with JOGMEC and METI.
+- **Megabank cofinancing**: ongoing coordination with [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] (plant-export projects, etc.)
+- **Division of roles with JICA**: ODA = JICA, commercially oriented overseas investment and lending = JBIC (since the transfer of the 2008-10 円 loan division)
+- **NEXI coordination**: combination of Nippon Export and Investment Insurance (NEXI) export insurance with JBIC financing
+- **Coordination with overseas policy-finance institutions**: cofinancing with the US EXIM Bank / Korea's K-EXIM / France's Bpifrance / Germany's KfW IPEX, etc.
+- **International energy frameworks**: resource-diplomacy support in conjunction with JOGMEC and METI
 
-### Relationship with Private Financial Institutions
+### Relationship with private financial institutions
 
-- Principle of **complementing private-sector finance**: complements projects that private financial institutions alone find difficult to risk-take, such as developing-country sovereign risk, long-term project finance, and projects with political risk.
+- **"Complementing private business"** principle: complements projects that private financial institutions alone find difficult to take on risk (developing-country sovereign risk / long-term project finance / projects with political risk, etc.)
 
-### Economic Security Shift (2022 onward)
+### Economic-security shift (2022~)
 
-- **Economic security amid U.S.-China tensions**: supply-chain resilience projects in semiconductors, critical minerals, batteries, bio, and related fields.
-- **Friend-shoring support**: financial support for Japanese-company relocation to allies and friendly countries.
+- **Economic security amid US-China confrontation**: supply-chain-resilience projects in semiconductors / critical minerals / batteries / biotech, etc.
+- **Friend-shoring support**: financial support for Japanese companies relocating to allied / friendly nations
 
-## 4. Regulation and Policy
+## 4. Regulation / policy
 
-- **Supervising ministry**: Ministry of Finance (shareholder and competent minister)
-- **Legal basis**: Japan Bank for International Cooperation Act (Act 第 39 号 of 平成 23 年) ^[extracted]
-- **Business scope**: the Act enumerates export loans, import loans, overseas investment loans, untied loans, equity participation, guarantees, and related businesses.
-- **Environmental and Social Consideration Guidelines** (JBIC Guidelines): environmental and social impact assessment framework aligned with the OECD Common Approaches and the Equator Principles.
-- **OECD Arrangement on Officially Supported Export Credits**: alignment with international rules for official export credit, including minimum interest rates and maximum repayment terms.
-  - From 2022 onward, linkage with the Economic Security Promotion Act
-  - From 2023 onward, linkage with the GX Promotion Act / GX Economy Transition Bonds (transition finance)
-  - From 2024 onward, response to the U.S. IRA / European CBAM and support for investment projects in the U.S. and Europe
+- **Competent authority**: Ministry of Finance (shareholder / competent minister)
+- **Legal basis**: Japan Bank for International Cooperation Act (法律 No. 平成 23 年-第 39 号) ^[extracted]
+- **Scope of business**: the Act enumerates export finance / import finance / overseas investment finance / untied loans / equity participation / guarantees, etc.
+- **Environmental and social consideration guidelines** (JBIC Guidelines): an environmental and social impact-assessment framework conforming to the OECD Common Approaches and the Equator Principles
+- **OECD Arrangement on Export Credits**: conforms to international rules for official export credits (minimum interest rates / maximum repayment terms)
+  - 2022~ in conjunction with the Economic Security Promotion Act
+  - 2023~ in conjunction with the GX Promotion Act / GX Economy Transition Bonds (transition finance)
+  - 2024~ responding to the US IRA / EU CBAM; supporting investment projects toward the US and Europe
 
-### Related Institution Ecosystem
+### Related-institution ecosystem
 
 ```
-Ministry of Finance ---- supervises ---- JBIC (overseas loans and investments / export finance)
-                  |
-Ministry of Foreign Affairs ---- supervises ---- JICA (ODA / yen loans / technical cooperation)
-                  |
-METI ---- supervises ---- NEXI (trade insurance)
-                  |
+Ministry of Finance ──── competent authority ──── JBIC (overseas investment and lending / export finance)
+                  │
+Ministry of Foreign Affairs ──── competent authority ──── JICA (ODA / yen loans / technical cooperation)
+                  │
+METI ──── competent authority ──── NEXI (trade insurance)
+                  │
               JOGMEC (resource development / equity participation)
 ```
 
@@ -125,10 +125,10 @@ METI ---- supervises ---- NEXI (trade insurance)
 
 ## Sources
 
-- **Wikipedia: Japan Bank for International Cooperation** (https://ja.wikipedia.org/wiki/株式会社国際協力銀行, extracted on 2026-05-19)
-- **JBIC official site, history and business overview** (https://www.jbic.go.jp/, referenced on 2026-05-19)
-- **Japan Bank for International Cooperation Act** (Act 第 39 号 of 平成 23 年)
-- Ministry of Finance materials related to policy finance institutions (public materials)
+- **Wikipedia: Japan Bank for International Cooperation, Inc.** (https://ja.wikipedia.org/wiki/株式会社国際協力銀行, extracted 2026-05-19)
+- **JBIC official website history / business overview** (https://www.jbic.go.jp/, accessed 2026-05-19)
+- **Japan Bank for International Cooperation Act** (法律 No. 平成 23 年-第 39 号)
+- Ministry of Finance materials related to policy-finance institutions (public portion)
 
 ---
 

@@ -1,12 +1,13 @@
 ---
 source: financial-regulators/okinawa-shinko
-source_hash: 1bd91d0d441849a4
+source_hash: f70381599975e41c
 lang: en
 status: machine
 fidelity: ok
 title: "Okinawa Development Finance Corporation (ODFC)"
-translated_at: 2026-06-01T00:41:50.424Z
+translated_at: 2026-06-18T23:59:13.109Z
 ---
+
 # Okinawa Development Finance Corporation (ODFC)
 
 ## Wiki route
@@ -15,175 +16,175 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-A policy-finance special corporation limited to Okinawa Prefecture. It was **established at the same time as Okinawa's reversion to mainland Japan in 1972-05-15** and is the prefecture's only comprehensive policy-finance institution, uniquely **integrating in one institution inside Okinawa Prefecture** the functions of mainland [[financial-regulators/jfc]] (national life, SMEs, agriculture / forestry / fisheries), [[financial-regulators/dbj]] (mid-sized and large companies), and the Japan Housing Finance Agency. It is a special corporation funded by the national government 100% and supervised by the Cabinet Office's Okinawa department. Through special interest rates and guarantees under the **Act on Special Measures for the Promotion and Development of Okinawa**, it supports businesses, home buyers, and remote-island residents in the prefecture. Even when mainland public finance institutions were integrated into JFC in the 2008  policy-finance reorganization, ODFC was one of the rare institutions **decided to remain standalone because of "Okinawa's special circumstances."** ^[extracted]
+A policy-finance special juridical person limited to Okinawa Prefecture. **Established simultaneously with 1972-05-15 Okinawa's reversion to mainland Japan**, it is the prefecture's only comprehensive policy-finance institution, a unique entity that **consolidates into a single institution within Okinawa Prefecture** the functions of the mainland's [[financial-regulators/jfc]] (citizen / small-and-medium enterprise / agriculture-forestry-fisheries) + [[financial-regulators/dbj]] (mid-tier and large enterprises) + the Japan Housing Finance Agency. It is a special juridical person funded by 100% national investment, with the Cabinet Office's Okinawa-affairs division as the competent authority. Based on the Okinawa Development Special Measures Act, it supports prefectural businesses, home buyers, and remote-island residents through special interest rates and special guarantees. Even when the mainland public corporations were consolidated into JFC in the 2008  policy-finance reorganization, it was a rare institution **whose standalone continuation was decided on the grounds of "Okinawa's special circumstances."** ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: Okinawa Development Finance Corporation ^[extracted]
+**Official name**: Okinawa Development Finance Corporation ^[extracted]
 **English name**: Okinawa Development Finance Corporation (ODFC)
-**Governing law**: Okinawa Development Finance Corporation Act (昭和 47 年 Act No. 第 31 号) ^[extracted]
-**Established**: 1972-05-15 (at the same time as Okinawa's reversion; succeeded Ryukyu Government financial institutions) ^[extracted]
-**Form**: Special corporation (not a stock-company form, and a separate organization from mainland JFC) ^[extracted]
-**Head office**: Omoromachi, Naha, Okinawa 1-2-26 (Naha Shintoshin district) ^[likely]
-**Investor**: Government of Japan 100% (general-account capital contribution + FILP borrowing) ^[extracted]
-**Supervisors**: Cabinet Office (Okinawa department) + Ministry of Finance (joint supervision) ^[extracted]
+**Governing law**: Okinawa Development Finance Corporation Act (昭和 47 年 Act 第 31 号) ^[extracted]
+**Establishment**: 1972-05-15 (simultaneously with Okinawa's reversion to mainland Japan, succeeding the Ryukyu Government's financial institutions) ^[extracted]
+**Form**: special juridical person (not a joint-stock-company form, and a separate organizational entity from the mainland's JFC) ^[extracted]
+**Head office**: Omoromachi 1-2-26, Naha City, Okinawa Prefecture (Naha City Shintoshin district) ^[likely]
+**Investor**: Government of Japan 100% (general-account investment + FILP borrowing) ^[extracted]
+**Competent authority**: Cabinet Office (Okinawa-affairs division) + Ministry of Finance (joint jurisdiction) ^[extracted]
 
-### Establishment Background ^[extracted]
+### Background to establishment ^[extracted]
 
-At the time of Okinawa's reversion in 1972-05-15, it integrated and succeeded the following 4  financial institutions under the Ryukyu Government:
+At the time of 1972-05-15 Okinawa's reversion to mainland Japan, the following 4  financial institutions under the Ryukyu Government were consolidated and succeeded:
 
-| Pre-integration institution (under Ryukyu Government) | Succeeded function |
+| Pre-consolidation institution (under the Ryukyu Government) | Succeeded function |
 |---|---|
-| Ryukyu Development Finance Corporation | Development loans for industrial infrastructure and mid-sized companies |
-| Civil Administration Industrial Development Finance Corporation | Loans for industrial promotion |
-| Public Finance Corporation | Loans for SMEs and small-scale businesses |
-| Ryukyu Housing Corporation | Housing acquisition and construction loans |
+| Ryukyu Development Finance Corporation | Development lending for industrial base / mid-tier enterprises |
+| Civil Administration Industrial Development Finance Corporation | Lending for industrial promotion |
+| Popular Finance Corporation | Lending for small and micro businesses |
+| Ryukyu Housing Corporation | Lending for home acquisition / construction |
 
--> Reorganized and launched as **Okinawa Development Finance Corporation** at the same time as mainland reversion
+→ Simultaneously with the reversion to mainland Japan, reorganized and consolidated to launch as **the Okinawa Development Finance Corporation**
 
-### Governance / Institutional Design
+### Governance / institutional design
 
-- **Governor**: Appointed by the competent minister with approval of the Prime Minister ^[likely]
-- Officers: Governor + deputy governor + directors + auditors (standard special-corporation governance)
-- Business operated through management committee / business committee
-- **Diet reporting obligation**: Submits annual business overview and financial statements to the Diet ^[likely]
-- **Board of Audit**: Continuously subject to audit because it is fully government-funded
+- **President**: appointed by the competent minister after authorization by the Prime Minister ^[likely]
+- Officers: president + vice president + directors + auditors (standard special-juridical-person governance)
+- Business operated through a Management Committee / Operations Committee
+- **Duty to report to the Diet**: submits an annual business outline and settlement of accounts to the Diet ^[likely]
+- **Board of Audit**: subject to constant audit because it is wholly funded by the government
 
-### Business Divisions (Prefecture-Complete, One-Institution Integrated Model)
+### Business divisions (prefecture-complete type, single-institution consolidation)
 
 ```
-ODFC (Okinawa Development Finance Corporation; 100% government funded)
-  ├── SME business
-  │     └── Working and equipment funds for Okinawa SMEs (Okinawa version of mainland JFC SME business + DBJ function)
+ODFC (Okinawa Development Finance Corporation, 100% national investment)
+  ├── Small and medium enterprise business
+  │     └── Working / capital funds for prefectural SMEs (Okinawa version of mainland JFC SME business + DBJ functions)
   ├── Industrial development business
-  │     └── Development loans for tourism, manufacturing, agriculture / fisheries processing, and logistics (Okinawa version of mainland DBJ function)
+  │     └── Development lending for tourism, manufacturing, agriculture-fisheries processing, logistics (Okinawa version of mainland DBJ functions)
   ├── Housing business
-  │     └── Individual housing loans and rental-housing construction (Okinawa version of mainland Japan Housing Finance Agency function)
-  ├── Agriculture, forestry, and fisheries business
-  │     └── Loans for Okinawa farmers, livestock, and fisheries (Okinawa version of mainland JFC agriculture / forestry / fisheries business)
-  ├── National life business
-  │     └── Loans for Okinawa sole proprietors and small-scale businesses (Okinawa version of mainland JFC national life business)
-  ├── Disaster recovery business
-  │     └── Special disaster-recovery loans for typhoons, earthquakes, tsunamis, and similar disasters
-  └── Education loan business
-        └── Scholarship loans / education loans for Okinawa university and vocational-school students
+  │     └── Personal home loans / rental-housing construction (Okinawa version of mainland Japan Housing Finance Agency functions)
+  ├── Agriculture-forestry-fisheries business
+  │     └── Lending for prefectural farmers / livestock / fisheries (Okinawa version of mainland JFC agriculture-forestry-fisheries business)
+  ├── Citizens' life business
+  │     └── Lending for prefectural sole proprietors / small businesses (Okinawa version of mainland JFC citizens' life business)
+  ├── Disaster-recovery business
+  │     └── Special disaster-recovery loans for typhoons, earthquakes, tsunamis, etc.
+  └── Education-loan business
+        └── Scholarship financing / education loans for university and vocational-school students in Okinawa Prefecture
 ```
 
-### Key Timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Year / month | Event |
+| Year/Month | Event |
 |---|---|
-| **1972-05-15** | **ODFC established at the same time as Okinawa's reversion** (integrated and succeeded 4  financial institutions under the Ryukyu Government) |
-| 1972〜1981 | **1 st Okinawa Promotion and Development Plan** (10  years after reversion; infrastructure development) |
-| 1982〜1991 | **2 nd Okinawa Promotion and Development Plan** (industrial promotion and tourism base) |
-| 1992〜2001 | **3 rd Okinawa Promotion and Development Plan** (transition to a self-sustaining economy) |
-| 2002〜2011 | **4 th plan (Okinawa Promotion Plan)** (Act on Special Measures for the Promotion and Development of Okinawa enacted; special free-trade zones) |
-| **2008-10-01** | **JFC launched through mainland policy-finance reorganization**, but ODFC was **decided to remain standalone to preserve Okinawa-specific functions** (exception in policy-finance reform) ★ |
-| 2011-03 | Great East Japan Earthquake - cooperative stance on support from Okinawa |
-| 2012〜2021 | **5 th plan (Okinawa 21  Century Vision Basic Plan)** (knowledge-intensive industry and international logistics hub) |
-| 2020-03〜 | COVID special loans implemented (response to tourism collapse; effectively interest-free, unsecured loans for Okinawa SMEs and tourism, running in parallel with mainland JFC) |
-| 2021-04 | Prolonged COVID impact on Okinawa tourism -> grace-period extensions and refinancing support |
-| **2022〜2031** | **6 th Okinawa Promotion Plan** (post-COVID tourism recovery + US military base-site redevelopment + remote-island promotion) |
-| 2022-05-15 | **50 th anniversary of Okinawa's reversion** - 50 th anniversary of ODFC establishment |
-| 2023〜 | Response to V-shaped tourism recovery - Naha Airport 2  runway entering full operation + financing-demand preparation period for JUNGLIA theme park opening |
-| **2024〜2026** | **Medium-term management plan** (COVID refinancing + tourism recovery + stronger financing for US military base-site redevelopment) |
+| **1972-05-15** | **ODFC established simultaneously with Okinawa's reversion to mainland Japan** (consolidating and succeeding 4  financial institutions under the Ryukyu Government) |
+| 1972〜1981 | **1  Okinawa Development Plan** (post-reversion 10  years, infrastructure development) |
+| 1982〜1991 | **2  Okinawa Development Plan** (industrial promotion / tourism base) |
+| 1992〜2001 | **3  Okinawa Development Plan** (transition to a self-reliant economy) |
+| 2002〜2011 | **4  (Okinawa Promotion Plan)** (enactment of the Okinawa Development Special Measures Act / Special Free Trade Zone) |
+| **2008-10-01** | **JFC launched in the mainland policy-finance reorganization**, but ODFC's **standalone continuation was decided on the grounds of maintaining Okinawa-specific functions** (an exceptional measure in the policy-finance reform) ★ |
+| 2011-03 | Great East Japan Earthquake — a cooperative stance toward support contributions from Okinawa |
+| 2012〜2021 | **5  (Okinawa 21 st-Century Vision Basic Plan)** (knowledge-intensive / international logistics hub) |
+| 2020-03〜 | Execution of COVID special loans (response to the devastation of the tourism industry; effectively interest-free, unsecured lending for prefectural SMEs / tourism, running in parallel with mainland JFC) |
+| 2021-04 | Prolonged COVID impact on Okinawa's tourism industry → extension of grace periods / refinancing response |
+| **2022〜2031** | **6  Okinawa Promotion Plan** (post-COVID tourism recovery + redevelopment of U.S. military base sites + remote-island promotion) |
+| 2022-05-15 | **50 th anniversary of Okinawa's reversion to mainland Japan** — 50 th anniversary of ODFC's establishment |
+| 2023〜 | Response to the V-shaped recovery of the tourism industry — full-scale start of operations of Naha Airport's 2 nd runway + financing demand during the JUNGLIA theme-park opening-preparation period |
+| **2024〜2026** | **Medium-term management plan** (COVID refinancing + tourism recovery + strengthened financing for U.S. military base-site redevelopment) |
 
-## 2. Business Segment Map
+## 2. Business segment map
 
-| Business division | Mainland counterpart | Main targets | Main menus |
+| Business division | Mainland counterpart | Main targets | Main menu |
 |---|---|---|---|
-| **SME business** | [[financial-regulators/jfc]] SME business + [[financial-regulators/dbj]] | Okinawa mid-sized and small companies | Okinawa Promotion Act special-rate loans / management-improvement funds / equipment funds / overseas expansion funds |
-| **Industrial development business** | [[financial-regulators/dbj]] | Major tourism, manufacturing, logistics, and agriculture / fisheries processing companies | Tourism development funds / industrial-park loans / port-logistics loans / US military site-redevelopment funds |
-| **Housing business** | Japan Housing Finance Agency | Okinawa individual home buyers and rental-housing constructors | Okinawa housing loans / Flat 35  Okinawa version / disaster-recovery housing funds |
-| **Agriculture, forestry, and fisheries business** | [[financial-regulators/jfc]] agriculture, forestry, and fisheries business | Okinawa farmers, sugarcane growers, livestock operators, and fishers | Super L funds / management-entity development / funds for sugar industry |
-| **National life business** | [[financial-regulators/jfc]] national life business | Okinawa sole proprietors, small businesses, and founders | Ordinary loans / new-business startup loans / Marukei loans (recommended by Okinawa chambers of commerce) |
-| **Disaster recovery business** | Emergency response by each institution | Businesses and residents affected by typhoons and earthquakes | Special disaster-recovery loans (interest-free, unsecured) |
-| **Education loan business** | [[financial-regulators/jfc]] national life business education loans | Okinawa university and vocational-school students | Advancement loans / scholarship loans (University of the Ryukyus, Okinawa International University, etc.) |
+| **Small and medium enterprise business** | [[financial-regulators/jfc]] SME business + [[financial-regulators/dbj]] | Prefectural mid-tier / small and medium enterprises | Okinawa Promotion Act special-interest-rate loans / management-improvement funds / capital funds / overseas-expansion funds |
+| **Industrial development business** | [[financial-regulators/dbj]] | Tourism, manufacturing, logistics, large agriculture-fisheries-processing firms | Tourism-development funds / industrial-park financing / port-logistics financing / military-site redevelopment funds |
+| **Housing business** | Japan Housing Finance Agency | Prefectural personal home buyers / rental-housing builders | Okinawa home loans / Okinawa version of Flat 35 / disaster-recovery housing funds |
+| **Agriculture-forestry-fisheries business** | [[financial-regulators/jfc]] agriculture-forestry-fisheries business | Prefectural farmers / sugarcane farmers / livestock / fisheries operators | Super L funds / management-entity development / sugar-industry funds |
+| **Citizens' life business** | [[financial-regulators/jfc]] citizens' life business | Prefectural sole proprietors / small businesses / startups | Ordinary loans / new-startup financing / Maru-kei loans (recommended by the Okinawa Chamber of Commerce and Industry) |
+| **Disaster-recovery business** | (emergency response of each institution) | Business operators / residents affected by typhoons / earthquakes | Special disaster-recovery loans (interest-free / unsecured) |
+| **Education-loan business** | [[financial-regulators/jfc]] citizens' life business education loans | Prefectural university / vocational-school students | Advancement loans / scholarship financing (University of the Ryukyus / Okinawa International University, etc.) |
 
-### Prefecture-Complete Special Character
+### Distinctiveness of the prefecture-complete type
 
-- **Provides the mainland's 3  public-finance functions through 1  institution**: JFC on the mainland separates "national life + SMEs + agriculture / forestry / fisheries" by division, but ODFC provides all of these inside Okinawa Prefecture, plus the DBJ function and Japan Housing Finance Agency function, in an **integrated** form.
-- **Special interest rates under the Act on Special Measures for the Promotion and Development of Okinawa**: Can apply policy rates one step lower than mainland JFC to Okinawa businesses.
-- **Island-region / remote-island support**: Unique loan menus for businesses and residents on Okinawa's remote islands such as Miyako, Yaeyama, and the Daito Islands.
+- **Providing mainland 3  public-corporation functions in 1  institution**: JFC is divided on the mainland into "citizens' life + SME + agriculture-forestry-fisheries," but ODFC, only within Okinawa Prefecture, **consolidates all of these plus DBJ functions + Japan Housing Finance Agency functions** into one
+- **Special interest rates based on the Okinawa Development Special Measures Act**: can apply a policy-interest-rate level one notch lower than mainland JFC to prefectural businesses
+- **Island-region (remote-island) response**: a unique lending menu for businesses and residents of the prefecture's remote islands such as Miyako, Yaeyama, and the Daito Islands
 
-### Private-Sector Complement Principle (Okinawa Version)
+### Private-sector-complementary principle (Okinawa Prefecture version)
 
-Like mainland JFC, ODFC exists to **cover risks that private financial institutions cannot lend against**, but its complementary relationship with Okinawa's 3 行 oligopolistic structure is distinctive:
+ODFC's raison d'être, like the mainland JFC, lies in "**covering risks that private financial institutions cannot lend against**," but its complementary relationship with the **3 行 oligopoly structure within Okinawa Prefecture** is distinctive:
 
-- **[[regional-banks/okinawa-fg]] Bank of Okinawa** (prefecture loan / deposit share roughly 30%, leading position)
-- **[[regional-banks/ryukyu-bank]] Bank of the Ryukyus** (same No. 2, alternates with Bank of Okinawa as prefecture-designated financial institution)
-- **Okinawa Kaiho Bank** (same No. 3)
+- **[[regional-banks/okinawa-fg]] Bank of Okinawa** (No. 1 in prefectural loan-deposit share, approx. 30%)
+- **[[regional-banks/ryukyu-bank]] Bank of the Ryukyus** (same, No. 2; entrusted as the prefecturally designated financial institution on an alternating-year basis with the Bank of Okinawa)
+- **Okinawa Kaiho Bank** (same, No. 3)
 
--> Coordinated lending that combines this 3 行 proprietary lending with ODFC policy lending is the standard form of Okinawa SME finance.
+→ This co-financing of 3 行 proper lending + ODFC policy lending is the standard form of SME finance within the prefecture
 
-### 4  Current Strategic Axes ^[likely]
+### The 4  axes of current strategy ^[likely]
 
-1. **Tourism recovery and expansion support**: Financing supply that supports post-COVID V-shaped tourism recovery, including Naha Airport 2  runway, JUNGLIA theme park (opening from 2025), and MICE hub development
-2. **US military base-site redevelopment**: Project finance associated with urban redevelopment and industrial-site conversion of scheduled-return sites (West Futenma, Camp Kinser, etc.)
-3. **Remote-island promotion / island-region support**: Support for businesses and residents on remote islands with economic structures different from mainland Japan, including Miyako, Yaeyama, and Daito
-4. **Disaster recovery / disaster prevention**: Standing recovery-loan framework reflecting the prefecture's exposure to frequent natural disasters such as typhoons, earthquakes, and tsunamis
+1. **Support for tourism-industry recovery / expansion**: financing supply to support the post-COVID V-shaped recovery of the tourism industry, such as Naha Airport's 2  runway + JUNGLIA theme park (opening from 2025〜) + development of MICE bases
+2. **Redevelopment of U.S. military base sites**: project financing accompanying the urban redevelopment / industrial-land conversion of sites scheduled for return (Nishi-Futenma, Camp Kinser, etc.)
+3. **Remote-island promotion / island-region support**: supporting businesses and residents of remote islands with economic structures different from the mainland, such as Miyako, Yaeyama, and the Daito Islands
+4. **Disaster recovery / disaster prevention**: constant maintenance of a recovery-financing system reflecting the prefectural circumstance of frequent natural disasters such as typhoons, earthquakes, and tsunamis
 
-### Linkage with the 6 th Okinawa Promotion Plan (2022〜2031) ^[extracted]
+### Linkage with the 6  Okinawa Promotion Plan (2022〜2031) ^[extracted]
 
-In the 2022-2031 年 fiscal-year 6 th Okinawa Promotion Plan, the following are priority fields, and ODFC is positioned as a core funding institution:
+In the 2022-2031 年 fiscal-year 6  Okinawa Promotion Plan, the following are designated as priority fields, with ODFC positioned as the core funding-provider institution:
 
-- **Upgrading tourism-related industries**
-- **Strengthening information and communications industries / IT hubs**
-- **Logistics and international hub functions (Naha Airport / Naha Port)**
-- **Health, medical, and bio-related industries**
-- **Higher value-added agriculture, forestry, and fisheries (sugarcane, mangoes, seafood processing, etc.)**
-- **Remote-island promotion and support for disadvantaged areas**
+- **Sophistication of tourism-related industries**
+- **Strengthening of information-and-communications-related industries / IT bases**
+- **Logistics / international hub functions (Naha Airport / Naha Port)**
+- **Health-care, medical, and bio-related industries**
+- **High-value-added agriculture-forestry-fisheries (sugarcane / mango / fisheries processing, etc.)**
+- **Remote-island promotion / support for disadvantaged regions**
 
-### Relationship with Private Financial Institutions
+### Relationship with private financial institutions
 
-- **Main actor in coordinated lending**: Combined use with proprietary loans from [[regional-banks/okinawa-fg]] / [[regional-banks/ryukyu-bank]] / Okinawa Kaiho Bank is the standard form for Okinawa SME and tourism financing.
-- **Complement principle with regional banks**: To avoid crowding out private business, priority is given to borrowers private lenders find hard to serve, such as startups, unsecured / non-guaranteed borrowers, remote islands, and disaster recovery.
-- **Division of labor with mainland public finance institutions**: With [[financial-regulators/jfc]] / [[financial-regulators/dbj]] / Japan Housing Finance Agency, the division is regional: ODFC for Okinawa Prefecture projects, mainland institutions for mainland projects.
+- **The main player in co-financing**: combined use with proper lending by [[regional-banks/okinawa-fg]] / [[regional-banks/ryukyu-bank]] / Okinawa Kaiho Bank is the standard form of prefectural SME / tourism-industry finance
+- **Complementary principle with prefectural regional banks**: to avoid crowding out private business, it prioritizes layers that private players find hard to lend to, such as the startup phase, the unsecured / no-guarantor segment, remote islands, and disaster recovery
+- **Demarcation with mainland public corporations**: with [[financial-regulators/jfc]] / [[financial-regulators/dbj]] / the Japan Housing Finance Agency, it divides work by region, as in "Okinawa Prefecture cases go to ODFC, mainland cases go to the mainland public corporations"
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
-- **Supervisors**: Cabinet Office (Okinawa department) + Ministry of Finance joint supervision ^[extracted]
-- **Governing law**: Okinawa Development Finance Corporation Act (昭和 47 年 Act No. 第 31 号)
-- **Basic law**: Act on Special Measures for the Promotion and Development of Okinawa (平成 14 年 Act No. 第 14 号, amended every 5  years)
-- **Board of Audit**: Continuously subject to audit because it is fully government-funded
-- **Diet reporting**: Reports annual business overview and financial statements to the Diet
+- **Competent authority**: Cabinet Office (Okinawa-affairs division) + Ministry of Finance, joint jurisdiction ^[extracted]
+- **Governing law**: Okinawa Development Finance Corporation Act (昭和 47 年 Act 第 31 号)
+- **Basic law**: Okinawa Development Special Measures Act (平成 14 年 Act 第 14 号, amended every 5  years)
+- **Board of Audit**: subject to constant audit because it is wholly funded by the government
+- **Diet report**: reports an annual business outline and settlement of accounts to the Diet
 - **Funding**: FILP borrowing + government-guaranteed bonds + own funds ^[likely]
 
-### Decision to Remain Standalone in the 2008  Policy-Finance Reorganization ^[extracted]
+### Decision on standalone continuation in the 2008  policy-finance reorganization ^[extracted]
 
-When the mainland's 4  policy-finance institutions (National Life Finance Corporation + Japan Finance Corporation for Small and Medium Enterprise + Agriculture, Forestry and Fisheries Finance Corporation + JBIC domestic division) were integrated into JFC in 2008-10-01, integration of ODFC was also discussed, but **standalone survival** was decided for the following reasons:
+When the mainland's 4  policy-finance institutions (National Life Finance Corporation + Japan Finance Corporation for Small and Medium Enterprise + Agriculture, Forestry and Fisheries Finance Corporation + JBIC's domestic division) were consolidated into JFC in 2008-10-01, there was discussion of consolidating ODFC as well, but its **standalone continuation** was decided for the following reasons:
 
-- **Okinawa-specific historical background** (succession of special measures linked to mainland reversion)
-- Need to maintain the **special interest-rate system under the Act on Special Measures for the Promotion and Development of Okinawa**
-- Unique know-how for **island-region and remote-island support**
-- Policy challenges not present in other prefectures, namely **US military bases and base-site redevelopment**
+- **Okinawa Prefecture's unique historical background** (succession of the special measures for reversion to mainland Japan)
+- The need to maintain the **special-interest-rate system based on the Okinawa Development Special Measures Act**
+- Unique know-how in **island-region / remote-island response**
+- The policy challenge, not found in other prefectures, of **U.S. military bases / base-site redevelopment**
 
--> ODFC was left as a standalone institution as an exception within policy-finance reform
+→ As an exceptional measure within the policy-finance reform, ODFC was left standalone
 
-### Recent Policy Issues
+### Recent policy issues
 
-- 2024〜 Concern about defaults among Okinawa tourism operators and SMEs as **repayment deadlines arrive** for COVID special loans
-- 2025〜 Response to expanding equipment-investment funding demand from the V-shaped tourism recovery
-- 2025〜 Long-term project finance for US military base-site redevelopment (West Futenma, Camp Kinser, etc.)
-- 2031  Debate over continuation of the institution and special-measures law after the 6 th Okinawa Promotion Plan ends
+- 2024〜 Concern over defaults among prefectural tourism operators / SMEs as the **repayment due dates** of COVID special loans arrive
+- 2025〜 Response to expanding demand for capital-investment funds accompanying the V-shaped recovery of the tourism industry
+- 2025〜 Long-term project financing for U.S. military base-site redevelopment (Nishi-Futenma, Camp Kinser, etc.)
+- 2031  Debate over whether to continue the institution / Special Measures Act after the 6  Okinawa Promotion Plan ends
 
 ## Related
 
-- [[financial-regulators/jfc]] (mainland comprehensive policy finance; mainland version of ODFC)
-- [[financial-regulators/dbj]] (mainland policy finance for mid-sized and large companies; mainland version of ODFC industrial development business)
-- [[financial-regulators/shoko-chukin]] (Shoko Chukin Bank; mainland SME policy finance)
-- [[financial-regulators/jbic]] (Japan Bank for International Cooperation; overseas finance)
-- [[regional-banks/okinawa-fg]] · [[regional-banks/ryukyu-bank]] (Okinawa regional banks and ODFC coordinated-lending partners)
+- [[financial-regulators/jfc]] (the mainland's comprehensive policy finance / the mainland version of ODFC)
+- [[financial-regulators/dbj]] (the mainland's policy finance for mid-tier and large enterprises / the mainland version of ODFC's industrial-development business)
+- [[financial-regulators/shoko-chukin]] (Shoko Chukin Bank / the mainland's SME policy finance)
+- [[financial-regulators/jbic]] (Japan Bank for International Cooperation / overseas finance)
+- [[regional-banks/okinawa-fg]] · [[regional-banks/ryukyu-bank]] (Okinawa prefectural regional banks / ODFC's co-financing counterparts)
 
 ## Sources
 
-- **Wikipedia: Okinawa Development Finance Corporation** (https://ja.wikipedia.org/wiki/沖縄振興開発金融公庫, extracted 2026-05-19)
-- **Okinawa Development Finance Corporation Act** (昭和 47 年 Act No. 第 31 号, e-Gov law search)
-- **Act on Special Measures for the Promotion and Development of Okinawa** (平成 14 年 Act No. 第 14 号, e-Gov law search)
-- **ODFC official site** (https://www.okinawakouko.go.jp/, history, business overview, business reports)
-- Cabinet Office "Okinawa Promotion Plan" materials (1 th to 6 th plans, published by Cabinet Office Okinawa department)
+- **Wikipedia: Okinawa Development Finance Corporation** (https://ja.wikipedia.org/wiki/沖縄振興開発金融公庫, 2026-05-19 extracted)
+- **Okinawa Development Finance Corporation Act** (昭和 47 年 Act 第 31 号, e-Gov statute search)
+- **Okinawa Development Special Measures Act** (平成 14 年 Act 第 14 号, e-Gov statute search)
+- **ODFC official website** (https://www.okinawakouko.go.jp/, history / business overview / business reports)
+- Cabinet Office "Okinawa Promotion Plan" materials (1 th〜6 th, published by the Cabinet Office's Okinawa-affairs division)
 
 ---
 
-> [!info] Validation Status
-> confidence: **likely** (v1.0  checked against Wikipedia + official public materials 2026-05-19). Personnel such as the governor and the latest business-report figures change materially by date, so latest values require ODFC official publications and Board of Audit reports. Detailed figures linked to the medium-term management plan during the 6 th Okinawa Promotion Plan (2022-2031) require official IR confirmation.
+> [!info] Verification status
+> confidence: **likely** (v1.0  Wikipedia + official public-materials check 2026-05-19). Officer appointments such as the president and the latest business-report figures fluctuate greatly over time, and the latest values should be referenced from ODFC's official public materials and the Board of Audit's audit reports. Detailed figures linked to the medium-term management plan during the 6  Okinawa Promotion Plan (2022-2031) period should be confirmed from official IR.

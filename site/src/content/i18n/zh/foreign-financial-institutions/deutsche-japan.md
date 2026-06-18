@@ -1,132 +1,132 @@
 ---
 source: foreign-financial-institutions/deutsche-japan
-source_hash: ec64eda744add451
+source_hash: 79dd72437cf5438a
 lang: zh
 status: machine
 fidelity: ok
-title: "德日日本"
-translated_at: 2026-05-31T15:29:03.938Z
+title: "德意志日本 (Deutsche Japan)"
+translated_at: 2026-06-18T23:59:13.064Z
 ---
 
-# 德日日本
+# 德意志日本 (Deutsche Japan)
 
-## 维基路线
+## Wiki route
 
-该条目位于[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]下。针对同行/对比上下文阅读 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+本条目归属于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。请将其与 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对照阅读以获取同业 / 对比语境，并参照 [[banking/INDEX|banking index]] 了解更广阔的体系 / 监管边界。
 
-## 长话短说
+## TL;DR
 
-德意志银行股份公司日本办事处的统称（总部位于法兰克福，**G-SIB Bucket2**）。 **东京分行（开设1972 ）+德意志证券（法人IB）** 2 轴为核心。在经历了本国的财务困难（2016 - 2019）后，由于2019 - 07 全球投资银行重组（18,000 全球人员减少），日本业务也有所减少。目前专注于**IB + 市场（债券/外汇优势）+ 资产管理 (DWS) + 私人银行**，没有零售业务发展。竞争对手有[[foreign-financial-institutions/citigroup-japan]]/[[foreign-financial-institutions/hsbc-japan]]/ 瑞银 / 巴克莱。
+德意志银行 (Deutsche Bank AG，法兰克福总部，**G-SIB Bucket 2**) 在日本的据点群之总称。**东京分行 (1972 开设) + 德意志证券 (法人 IB)** 的 2 轴为核心。历经本国的经营困境 (2016-2019)，并因 2019-07 全球投资银行重组 (全球裁员 18,000 人) 而使日本业务亦收缩。现集中于 **IB + 市场 (债券·FX 强项) + 资产管理 (DWS) + 私人银行**，未展开零售。竞争对手为 [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/hsbc-japan]] / UBS / 巴克莱。
 
-## 1 。公司简介
+## 1. 公司概要
 
-**母公司**：德意志银行（总部位于法兰克福，德国 DAX 上市公司 DBK / 纽约证券交易所代码：DB）
-**G-SIB**：桶 2（FSB 认证，+1.5%CET1 额外资本要求）
+**母公司**：Deutsche Bank AG（法兰克福总部，德国 DAX 上市 DBK / NYSE: DB）
+**G-SIB**：Bucket 2（FSB 认定，+1.5% CET1 附加资本要求）
 
-### 日本主要基地
+### 主要日本据点
 
-|公司|业务类型|评论|
+| 法人 | 业态 | 备注 |
 |---|---|---|
-|**德意志银行东京分行**（德意志银行东京分行）|外资银行分行|1972  成立，总部位于法兰克福|
-|**德意志证券公司**（德意志证券公司，DSI）|第一类金融工具交易业务|企业 IB 市场研究|
-|**DWS 集团日本基地**（原德意志资产管理公司）|资产管理|2018 -03 法兰克福 IPO 加强母公司和独立性|
-|**德意志银行财富管理**|私人银行业务|对于高净值个人和机构投资者|
+| **德意志银行 东京分行** (Deutsche Bank AG, Tokyo Branch) | 外资系银行分行 | 1972 开设，总行法兰克福 |
+| **德意志证券株式会社** (Deutsche Securities Inc., DSI) | 第一种金融商品交易业 | 法人 IB·市场·研究 |
+| **DWS 集团日本据点** (旧德意志资产管理) | 资产运用 | 2018-03 法兰克福 IPO 强化与母公司的独立色彩 |
+| **Deutsche Bank Wealth Management** | 私人银行 | 面向富裕层·机构投资者 |
 
-### 前公司（减少/关闭）
+### 旧法人（已收缩·关闭）
 
-- **德意志信托银行有限公司** — 信托业务，后来缩小规模并关闭
-- 部分证券后台/零售相关企业 -2019 因重组而重组
+- **德意志信托银行株式会社** — 信托业务，后收缩·关闭
+- 部分证券后台·零售相关法人 — 在 2019 重组中重整
 
-**组织设计**：总公司直属（东京分公司是总公司的海外基地，德意志证券是子公司）
-**监管机构**：金融服务局（FSA），主方为BaFin（德国联邦金融监管局）+欧洲央行
+**机构设计**：本社直辖（东京分行为总行的境外据点，德意志证券为子公司）
+**主管**：金融厅 (FSA)，本国侧为 BaFin (德国联邦金融监督厅) + ECB
 
-## 2 .历史/年表
+## 2. 沿革·年表
 
-|年和月|现象|
+| 年月 | 事象 |
 |---|---|
-|1870 |德意志银行成立（柏林）|
-|1971 |开设东京代表处|
-|**1972**|**东京分行开业** — 在日本开始全面的银行业务|
-|1980 年一代|IB 的扩张，尤其是债券做市业务|
-|1998 - 11 |信孚银行收购完成→美洲IB整合，日本投资银行部门加强|
-|2008 - 2009 |雷曼冲击后的行业重组，德意志银行相对持观望态度|
-|2010 年 前半部分|在日元债券 DCM、外汇和衍生品方面与包括日本银行在内的竞争对手保持一致|
-|**2016-2019**|**德意志银行全球管理困难** — 美国司法部 MBS 诉讼（2016 -12 和解72 億美元）、洗钱担忧、股价暴跌|
-|2018 - 03 |DWS 法兰克福 IPO（母公司 ~ 继续持有 80%）|
-|**2019-07**|**全球投行重组公告**——退出股票交易、全球18,000 裁员→日本也将裁员|
-|2020 - 2024 |集中管理资源服务机构投资者+资产管理（DWS）+富裕PB|
-|2023 - 03 |瑞士信贷危机过后，欧洲银行总体上仍保持相对稳定，备受关注|
+| 1870 | Deutsche Bank AG 创立 (柏林) |
+| 1971 | 东京驻在员事务所开设 |
+| **1972** | **东京分行开设** — 在日本正式开始银行业务 |
+| 1980 年年代 | IB 扩张，尤其在债券做市方面存在感强 |
+| 1998-11 | Bankers Trust 收购完成 → 美洲 IB 整合，日本的投资银行部门亦得到强化 |
+| 2008-2009 | 雷曼冲击后的行业重整，德意志相对挺住 |
+| 2010 年年代前半 | 在日元债 DCM·FX·衍生品方面处于与含日本银行在内的竞争对手并列的位置 |
+| **2016-2019** | **德意志银行全球经营困境** — 美国司法部 MBS 诉讼 (2016-12 和解 72 億美元)、洗钱担忧、股价低迷 |
+| 2018-03 | DWS 法兰克福 IPO (母公司持续持有 ~80%) |
+| **2019-07** | **宣布全球投资银行重组** — 退出股票交易，全球裁员 18,000 人 → 日本亦收缩 |
+| 2020-2024 | 将经营资源集中于面向机构投资者的服务 + 资产管理 (DWS) + 富裕层 PB |
+| 2023-03 | 瑞士信贷危机余波下，在欧洲银行整体受关注之中维持相对稳定 |
 
-## 3.业务板块图
+## 3. 业务分部图
 
-|部分|主要业务经营者|特征|
+| 分部 | 主要经营者 | 特征 |
 |---|---|---|
-|企业贷款/基金|东京分店|跨国公司日本法人的批发|
-|市场（FICC）|德意志证券|**债券、外汇和利率交付方面的优势**（传统优势领域）|
-|市场（股票）|—|2019  因退出全球股票交易而大幅减少|
-|IB咨询|德意志证券|跨境并购/DCM/ECM|
-|研究|德意志证券|机构投资者宏观部门外汇报告|
-|资产管理|DWS日本基地|机构投资者管理、投资信托组合|
-|私人银行业务|德意志银行财富管理|高净值个人/家族办公室|
-|零售|**未展开**|不得有个人存款、抵押贷款等。|
-|相信|**减少/关闭**|前德意志信托银行退出|
+| 法人融资 / 资金 | 东京分行 | 面向跨国企业日本法人，批发 |
+| 市场 (FICC) | 德意志证券 | **债券·FX·利率衍生品强项**（传统强势领域）|
+| 市场 (股票) | — | 因 2019 全球股票交易退出而大幅收缩 |
+| IB 顾问 | 德意志证券 | 跨境 M&A·DCM·ECM |
+| 研究 | 德意志证券 | 面向机构投资者的宏观·行业·FX 报告 |
+| 资产运用 | DWS 日本据点 | 面向机构投资者的运用，投信组建 |
+| 私人银行 | Deutsche Bank Wealth Management | 富裕层·家族办公室 |
+| 零售 | **未展开** | 不开展面向个人的存款·住房贷款等 |
+| 信托 | **收缩·关闭** | 旧德意志信托银行已撤出 |
 
-### 集中区域
+### 集中领域
 
-2019  全球重组后，我们在日本将重点关注以下方面：
-- **IB + 市场**：向日本市场提供本国的优势，特别是在固定收益（利率/信贷）和外汇方面
-- **资产管理（DWS）**：针对机构投资者、ETF（Xtrackers品牌）等。
-- **PB（财富管理）**：为富裕个人和机构提供跨境解决方案
-- **没有零售发展**：由于成本结构，与日本大型银行没有直接竞争。
+2019 全球重组后，在日本亦集中于以下:
+- **IB + 市场**: 尤其在债券 (Rates / Credit)·FX 方面，将本国的强项提供给日本市场
+- **资产管理 (DWS)**: 面向机构投资者，ETF (Xtrackers 品牌) 等
+- **PB (Wealth Management)**: 面向富裕层·机构的跨境解决方案
+- **零售未展开**: 受成本结构所限，不与日本大型银行正面竞争
 
-### 冲突映射
+### 竞争映射
 
-|竞赛|实力对比|
+| 竞争对手 | 强项比较 |
 |---|---|
-|[[foreign-financial-institutions/citigroup-japan]]|美国退出零售业后IB/市场的类似领域|
-|[[foreign-financial-institutions/hsbc-japan]]|英国，强大的亚洲网络，零售2012 提现|
-|瑞银日本|瑞士，1 位在全球的PB存在，IB正在萎缩|
-|巴克莱日本|英语、IB/市场方面的类似职位|
-|日本银行 IB ([[megabanks/mufg]]MUMSS /[[megabanks/smfg]]SMBC Nikko /[[megabanks/mizuho-fg]])|国内客户群势不可挡，与欧美企业跨境竞争|
+| [[foreign-financial-institutions/citigroup-japan]] | 美系，在零售撤出后的 IB·市场上处于相近领域 |
+| [[foreign-financial-institutions/hsbc-japan]] | 英系，亚洲网络强项，零售 2012 撤出 |
+| UBS 日本 | 瑞士系，在 PB 方面具世界 1 位的存在感，IB 趋于收缩 |
+| 巴克莱 日本 | 英系，在 IB·市场上处于类似位置 |
+| 日本银行 IB ([[megabanks/mufg]] MUMSS / [[megabanks/smfg]] SMBC 日兴 / [[megabanks/mizuho-fg]]) | 以国内客户基础压倒，在跨境领域与欧美系竞争 |
 
-### 与本国母公司的联系
+### 与本国母公司的联动
 
-- 2019 重组后，德意志银行缩减了IB，重组为公司银行、私人银行和资产管理的4 事业部体系。
-- 我们的日本基地也反映了这种结构性变化，退出全球股票交易并专注于 FICC 和 IB 咨询服务。
-- 2023 之后，与美国主要银行（JPM、GS、MS）的竞争依然激烈，与欧洲（[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]] / SocGen等）的差异化也是一个问题。
+- 德意志银行自 2019 重组以来，重整为 IB 收缩与 Corporate Bank·Private Bank·Asset Management 的 4 部门制
+- 日本据点也反映这一结构变革，退出全球股票交易，集中于 FICC 与 IB 顾问
+- 自 2023 以来，与美国大型银行 (JPM·GS·MS) 的竞争依然严峻，与欧洲内部 ([[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]] / SocGen 等) 的差异化亦为课题
 
-## 5 。法规/政策
+## 5. 监管·政策
 
-- **管理员（日本）**：金融厅 (FSA)
-- **所属管辖区**：BaFin（德国联邦金融监管局）+ ECB（单一监管机制）
-- **G-SIB Bucket2**：FSB 认证，+1.5%CET1 额外资本要求
-- **东京分行规定**：基于银行法的外国银行分行及资本规定以总行为准。
-- **德意志证券监管**：《金融工具和交易法》第 1 类，有义务维持200%或更高的资本充足率
-- **洗钱**：过去美国司法部、纽约DFS等（本国母公司）的巨额罚款 → 加强合规性仍然是一个问题
+- **主管 (日本)**: 金融厅 (FSA)
+- **本国主管**: BaFin (德国联邦金融监督厅) + ECB (Single Supervisory Mechanism)
+- **G-SIB Bucket 2**: FSB 认定，+1.5% CET1 附加资本要求
+- **东京分行监管**: 依银行法的外国银行分行，自有资本规制以总行为基础
+- **德意志证券监管**: 金商法第一种，须维持自有资本规制比率 200% 以上的义务
+- **洗钱**: 过去曾被美国司法部·NY DFS 等课以大额制裁金 (本国母公司) → 合规强化为持续课题
 
-## 7 .未决问题
+## 7. 待解问题
 
-- 2019  全球重组后日本的人员规模和利润贡献的最新数据是多少？ （仅限公开信息）
-- DWS日本基地的AUM规模与日本银行业务（[[megabanks/mufg]] AM等）相比如何？
-- 德意志银行财富管理 日本富人的市场份额是多少及其相对于竞争对手的地位（瑞银/瑞信 UBS 整合后）？
-- 日元债券一级交易商资格/参与国债拍卖的程度（公开排名之外的敏感部分）
-- 母公司的战略重组（2024 - 2025 中期计划）会对日本基地产生什么影响？
-- 过去和未来与日本银行巨头[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]结盟/合资的可能性？
+- 2019 全球重组后日本的人员规模·收益贡献的最新值如何？(限于公开信息)
+- DWS 日本据点的 AUM 规模、与日本银行系运用 ([[megabanks/mufg]] AM 等) 的比较如何？
+- Deutsche Bank Wealth Management 在日本的富裕层份额·与竞争对手 (UBS / 瑞士信贷在 UBS 合并后) 的位置关系如何？
+- 日元债主交易商资格·国债招标参与程度 (公开排名之外的敏感部分)
+- 本国母公司的战略重整 (2024-2025 中期计划) 对日本据点的影响如何？
+- 与日本大型银行 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 的联盟·合资过往与未来的可能性?
 
-## 8 。有关的
+## 8. Related
 
-- [[megabanks/mufg]] ·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]· [[megabanks/ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/hsbc-japan]]
-- （相关计划：[[foreign-financial-institutions/ubs-japan]]·[[foreign-financial-institutions/barclays-japan]]·[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]]·[[foreign-financial-institutions/socgen-japan|socgen-japan]]）
+- (关联预定: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]] · [[foreign-financial-institutions/socgen-japan|socgen-japan]])
 
-## 来源
+## Sources
 
-- **维基百科：德意志银行**（https://ja.wikipedia.org/wiki/ドイツ銀行 ・ https://en.wikipedia.org/wiki/Deutsche_Bank,2026-05-19提取）
-- 德意志银行日本官方网站 (db.com/japan)
-- 公开报道：路透社/彭博社/日本经济新闻/金融时报（2019 - 07 重组报告、2016 - 12 美国司法部和解报告等）
-- FSB G-SIB 列表（最新发布版本）
+- **维基百科: 德意志银行 / Deutsche Bank AG**（https://ja.wikipedia.org/wiki/ドイツ銀行 ・ https://en.wikipedia.org/wiki/Deutsche_Bank, 2026-05-19 抽取）
+- Deutsche Bank AG 官方日本网站 (db.com/japan)
+- 公开报道: Reuters / Bloomberg / 日本经济新闻 / Financial Times (2019-07 重组报道、2016-12 美国司法部和解报道 等)
+- FSB G-SIB List (最新公布版)
 
 ---
 
-> [!info] 学校核心状况
-> 置信度：**可能**（仅包含公共信息；不使用内部目录和非公开材料）。日本基地的人员数量和收入贡献的最新信息仅限于公开信息。为了跟上母公司在母国的战略变化，每年需要重新编辑。
+> [!info] 校核状态
+> confidence: **likely**（仅由公开信息构成，不使用内部目录·非公开资料）。日本据点的最新人员规模·收益贡献等为限于公开的信息。因与本国母公司的战略变动联动，需每年重新校核。

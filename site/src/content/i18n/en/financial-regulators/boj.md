@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/boj
-source_hash: f46b15b53cc2ac63
+source_hash: 8a9bc46cc32f0667
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of Japan (BoJ)"
-translated_at: 2026-05-31T11:13:44.931Z
+translated_at: 2026-06-18T23:59:13.079Z
 ---
 # Bank of Japan (BoJ)
 
@@ -15,118 +15,118 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-**The central bank of Japan** (**established 1882-10-10; JASDAQ securities code 8301**). The fully revised 1997 Bank of Japan Act clarified monetary-policy independence, the price-stability mandate, and business transparency. Its four core functions are currency issuance, monetary policy, bank-of-banks settlement through [[systems/bojnet|BoJ-NET]], and government banking for treasury operations and JGB issuance / circulation. The Policy Board, consisting of the Governor, two Deputy Governors, and six Members, decides monetary policy. Policy moved from QQE in 2013-04 to negative-rate QQE in 2016, the end of negative rates and YCC in 2024-03, and a rate-hike cycle from 2024-07 onward. Long-term JGB holdings exceeded JPY 600 trillion at the 2024 peak, among the largest central-bank balance-sheet positions globally.
+**Japan's central bank** (**established 1882-10-10, JASDAQ subscription-certificate code 8301**). The **1997  fully revised Bank of Japan Act** codified the "independence of monetary-policy decisions," the "price-stability mandate," and "operational transparency." **4  core functions**: currency issuance (Bank of Japan notes), monetary policy (steering short-term and long-term rates), bank of banks (opening private-bank accounts / fund settlement = [[systems/bojnet|BoJ-NET]]), and government's bank (treasury-fund operations + JGB issuance / circulation). The **Policy Board** (Governor + 2 名 Deputy Governors + 6 名 Policy Board members = 9 名 in total) decides monetary policy. 2013-04 [[financial-regulators/boj-monetary-policy|量的・質的金融緩和（QQE）]] → 2016  QQE with a negative interest rate → 2024-03  removal of the negative rate and YCC → 2024-07  start of rate hikes → transition to the **2024-2025  rate-hike cycle**. The balance of long-term JGB holdings exceeded 600 兆円 at the 2024  peak, among the largest in the world.
 
-## 1. Legal basis/establishment
+## 1. Legal basis / establishment
 
-**Official name**: Bank of Japan
+**Legal name**: Bank of Japan
 **English name**: Bank of Japan (BoJ)
-**Legal basis**: **Bank of Japan Act** (平成 9 年 Law第 89 号, 1998-04-01 enforcement)
+**Legal basis**: **Bank of Japan Act** (平成 9 年 Act 第 89 号, enacted 1998-04-01)
 **Established**: **1882-10-10** (Meiji 15 )
-**Head office**: Nihonbashihonkicho, Chuo-ku, Tokyo 2-1-1
-**Business type**: Licensed corporation (similar to special corporation, JASDAQ listed investment securities 8301)
-**Supervising**: Ministry of Finance (Personnel/Budget) + [[financial-regulators/fsa|金融庁]] (Coordination)
+**Head office**: Nihonbashi-Hongokucho, Chuo-ku, Tokyo 2-1-1
+**Type**: authorized corporation (similar to a special corporation; JASDAQ-listed subscription certificate 8301)
+**Supervisor**: Ministry of Finance (personnel / budget) + [[financial-regulators/fsa|金融庁]] (cooperation)
 
-### Investment structure
+### Capital structure
 
-- Investment 1 億円 (Investment securities = similar to stocks but without voting rights)
-- **Government investment 55%** + Private investment 45%
-- JASDAQ investment securities code 8301 (buying and selling possible, but dividends capped, no voting rights)
+- Capital 1 億円 (subscription certificate = similar to a share but without voting rights)
+- **Government subscription 55%** + private subscription 45%
+- JASDAQ subscription-certificate code 8301 (tradable but with a dividend cap and no voting rights)
 
-### Important Chronology
+### Key chronology
 
-| Month | Event |
+| Date | Event |
 |---|---|
-| **1882-10-10** | **Establishment of the Bank of Japan** (Masayoshi Matsukata's financial restructuring/basement of the silver standard) |
-| 1885 | Issuance of Bank of Japan notes (first bank notes) begins |
-| 1897 | Transition to the gold standard |
-| 1942 | Old Bank of Japan Law (strongly wartime control) |
-| **1997-06** | **Enactment of the New Bank of Japan Act** (establishing independence of monetary policy) |
-| **1998-04-01** | **Enforcement of the New Bank of Japan Act** (Policy Committee established, Inspection Bureau abolished) |
-| 1999-02 | **Zero interest rate policy** (first) |
-| **2001-03** | **Introduction of quantitative easing policy (QE)** (the world's first full-scale non-traditional monetary policy) |
-| 2006-03 | QE cancellation → short-term interest rates 0.25% |
-| 2008-09 | Lehman Shock → Emergency liquidity provision/purchase of corporate bonds, etc. |
-| 2010-10 | Included Financial Easing (CME) Begins |
-| **2013-04** | **Inauguration of Governor Haruhiko Kuroda → Start of quantitative and qualitative monetary easing (QQE)** (Doubling of monetary base 2 ) |
-| 2014-10 | QQE Part 2  expansion |
-| **2016-01** | **Introduction of QQE with negative interest rate** (Supplementary current account -0.1%) |
-| **2016-09** | **Introduction of yield curve control (YCC)** (10  annual interest rate 0% degree guidance) |
-| 2018-07 | YCC elasticity (10  annual interest rate fluctuation range ±0.2%) |
-| 2021-03 | YCC fluctuation range ±0.25% |
-| 2022-12 | YCC fluctuation range ±0.5% |
-| **2023-04** | **Kazuo Ueda appointed as president** (Kuroda 10  system ended, first post-war economist president) |
-| 2023-07 | YCC elasticity (upper limit 1.0% target) |
-| **2024-03-19** | **Negative interest rate/YCC abolition → Short-term interest rate 0-0.1%** (17 first interest rate hike in years) |
-| **2024-07-31** | **Raise to policy rate 0.25%** (additional rate hike) |
+| **1882-10-10** | **Bank of Japan established** (Matsukata Masayoshi's fiscal consolidation / silver-standard foundation) |
+| 1885 | Bank of Japan notes (the first banknotes) began to be issued |
+| 1897 | Shift to the gold standard |
+| 1942 | Old Bank of Japan Act (strongly wartime-control-tinged) |
+| **1997-06** | **New Bank of Japan Act enacted** (independence of monetary policy established) |
+| **1998-04-01** | **New Bank of Japan Act came into force** (Policy Board inaugurated, Inspection Bureau abolished) |
+| 1999-02 | **Zero interest-rate policy** (first time) |
+| **2001-03** | **Quantitative easing (QE) introduced** (the world's first full-scale unconventional monetary policy) |
+| 2006-03 | QE lifted → short-term rate 0.25% |
+| 2008-09 | Lehman shock → emergency liquidity provision / purchases of corporate bonds, etc. |
+| 2010-10 | Comprehensive Monetary Easing (CME) begun |
+| **2013-04** | **Governor Haruhiko Kuroda took office → Quantitative and Qualitative Easing (QQE) begun** (monetary base 2 -doubled) |
+| 2014-10 | QQE expansion No. 2  |
+| **2016-01** | **QQE with a negative interest rate introduced** (complementary deposit facility -0.1%) |
+| **2016-09** | **Yield Curve Control (YCC) introduced** (steering the 10 -year rate to around 0%) |
+| 2018-07 | YCC flexibilization (10 -year rate fluctuation band ±0.2%) |
+| 2021-03 | YCC fluctuation band ±0.25% |
+| 2022-12 | YCC fluctuation band ±0.5% |
+| **2023-04** | **Governor Kazuo Ueda took office** (end of the 10 -year Kuroda regime; the first economist governor in the postwar era) |
+| 2023-07 | YCC flexibilization (with 1.0% as the reference upper bound) |
+| **2024-03-19** | **Negative rate and YCC removed → short-term rate 0-0.1%** (first rate hike in 17  years) |
+| **2024-07-31** | **Policy rate hiked to 0.25%** (additional rate hike) |
 
 ### 1) Currency issuance
 
-- **Bank of Japan notes (banknotes)**: Exclusively issued by BoJ (coins are issued by the government)
-- 2024-07-03 New banknotes issued (Eiichi Shibusawa / Umeko Tsuda / Shibasaburo Kitasato)
-- Balance in circulation approximately 130 兆円 scale
+- **Bank of Japan notes (banknotes)**: issued exclusively by the BoJ (coins are issued by the government)
+- 2024-07-03 issuance of new banknotes (Shibusawa Eiichi / Tsuda Umeko / Kitasato Shibasaburo)
+- Circulation balance on the order of approx. 130 兆円
 
-### 2) Financial Policy (→ [[financial-regulators/boj-monetary-policy|詳細]])
+### 2) Monetary policy (→ [[financial-regulators/boj-monetary-policy|詳細]])
 
-- **Price stability target 2%** (2013 Joint statement with the government)
-- Policy tools: short-term interest rates + current account hierarchy + long-term government bond purchases + ETF/J-REIT purchases + lending support
-- Policy Committee 9 名 (President + Vice President 2  + Deliberation Committee members 6) majority vote
-- **Monetary Policy Meeting** (MPC) 8  times per year
+- **Price-stability target 2%** (joint statement with the 2013  government)
+- Policy tools: short-term rate + the tiered current-account structure + long-term JGB purchases + ETF / J-REIT purchases + lending support
+- Policy Board 9 名 (Governor + 2  Deputy Governors + 6 Policy Board members), by majority vote
+- 8  **Monetary Policy Meetings (MPC)** per year
 
-### 3) bank of banks (→ [[financial-regulators/boj-financial-system-dept|金融機構局]])
+### 3) Bank of banks (→ [[financial-regulators/boj-financial-system-dept|金融機構局]])
 
-- Open a **Bank of Japan current account** with a private bank
-- **[[systems/bojnet|BoJ-NET]]** (instant gross payment system) operation
-- Lender of last resort
-- Financial institution inspection/monitoring (division of labor/cooperation with [[financial-regulators/fsa|金融庁]])
+- Opens **BoJ current accounts** for private banks
+- Operates **[[systems/bojnet|BoJ-NET]]** (the real-time gross settlement system)
+- Lender-of-last-resort function
+- Inspection / monitoring of financial institutions (division of labour / cooperation with [[financial-regulators/fsa|金融庁]])
 
-### 4) Government Bank
+### 4) Government's bank
 
-- Accounting and disbursing of national treasury funds (taxes + public bonds)
-- **Issuance, distribution, and redemption of government bonds**
-- Administrative agency for foreign exchange market intervention (as directed by the Minister of Finance)
-- Foreign exchange reserve management agency
+- Receipts-and-payments operations for treasury funds (taxes + public-debt proceeds)
+- **Issuance / circulation / redemption operations for JGBs**
+- Acting as agent for FX-market intervention (on the Finance Minister's instruction)
+- Acting as agent for managing foreign reserves
 
 ## 3. Organizational structure
 
 ```
-President (5  year term, appointment agreed upon by both houses)
-├── Vice President 2 名
-├── Deliberation committee member 6 名 (economist, from industry and finance)
-│ = Policy Committee 9 名 (financial policy decisions)
+Governor (5 -year term, appointment with both houses' consent)
+   ├── Deputy Governors 2 名
+   ├── Policy Board members 6 名 (from academia / industry / financial sector)
+   │   = Policy Board 9 名 (monetary-policy decisions)
    │
-├── [[financial-regulators/boj-monetary-policy|企画局]] ── Financial Policy Planning・MPC Secretariat
-├── [[financial-regulators/boj-financial-markets-dept|金融市場局]] ─ Market operations/government bond buying and selling
-├── [[financial-regulators/boj-financial-system-dept|金融機構局]] ── Financial institution examination/monitoring
-├── [[financial-regulators/boj-payment-settlement-dept|決済機構局]] ── BoJ-NET / Payment system
-├── [[financial-regulators/boj-international-dept|国際局]] ── International Operations/G7/G20 Central Bank Cooperation
-├── Research and Statistics Bureau ── Economic statistics, Tankan, and price analysis
-├── Ticketing Bureau ── Manufacture and distribution management of banknotes
-├── Business Bureau ── National Treasury Affairs
-└── Policy Committee Office / Board of Auditors / Each branch (32  branch)
+   ├── [[financial-regulators/boj-monetary-policy|企画局]] ── monetary-policy planning / MPC secretariat
+   ├── [[financial-regulators/boj-financial-markets-dept|金融市場局]] ── market operations / JGB trading
+   ├── [[financial-regulators/boj-financial-system-dept|金融機構局]] ── financial-institution examination / monitoring
+   ├── [[financial-regulators/boj-payment-settlement-dept|決済機構局]] ── BoJ-NET / settlement systems
+   ├── [[financial-regulators/boj-international-dept|国際局]] ── international operations / G7/G20  central-bank cooperation
+   ├── Research and Statistics Department ── economic statistics / Tankan / price analysis
+   ├── Currency Issue Department ── banknote production / circulation management
+   ├── Operations Department ── treasury-fund operations
+   └── Policy Board Secretariat / Board of Auditors / branches (32  branches)
 ```
 
-### Negative interest rate/YCC abolition (2024-03)
+### Removal of the negative rate and YCC (2024-03)
 
-- 17 First real interest rate hike in years
-- Confirmation of virtuous cycle in wages and prices → 2% Sustainable and stable achievement of price targets is in sight
-- ETF / J-REIT buying and new rules buying stop
+- The first effective rate hike in 17  years
+- Confirmation of the virtuous cycle of wages and prices → the sustainable and stable achievement of the 2% price target comes into view
+- ETF / J-REIT purchases also stopped for new purchases
 
-### QT (quantitative tightening) started
+### Start of QT (quantitative tightening)
 
-- Gradually reduce the amount of long-term government bond purchases (aimed to be around 2024-07  months 6 兆円 → 2025-1Q months 3 兆円)
-- Normalization of BoJ balance sheet (peak 760 兆円) is a long-term issue
-- Avoidance of market shocks in exit strategy is an issue
+- Phased reduction of the long-term JGB purchase amount (2024-07  month 6 兆円 → 2025-1Q month, targeting around 3 兆円)
+- Normalization of the BoJ balance sheet (760 兆円 at the peak) is a long-term challenge
+- Avoiding a market shock from the exit strategy is a point of debate
 
-### Yen carry trade/exchange
+### Yen carry trade / FX
 
-- Narrowing of interest rate differential between Japan and the U.S. → Reassessment of exchange rates in favor of a stronger yen
-- 2024-08 円 carry unwind → Nikkei average 4 万円 break → BoJ vice president's market stabilization statement
-- Depending on the pace of interest rate hikes, it will affect exchange rates, government bond interest rates, and stocks.
+- Narrowing of the Japan-US rate differential → repricing of FX toward yen appreciation
+- 2024-08 円 unwinding of carry → the Nikkei Average broke below 4 万円 → market-stabilization remarks by the BoJ Deputy Governor
+- Depending on the pace of rate hikes, this spills over into FX, JGB yields, and equities
 
-### Digital Yen (CBDC)
+### Digital yen (CBDC)
 
-- 2023-04  Pilot experiment started
+- 2023-04  start of pilot experiments
 
 ## Related
 
@@ -138,12 +138,12 @@ President (5  year term, appointment agreed upon by both houses)
 
 ## Sources
 
-- **Wikipedia: Bank of Japan** (https://ja.wikipedia.org/wiki/日本銀行, 2026-05-25 extract)
-- **Bank of Japan official website** (see https://www.boj.or.jp/, 2026-05-25)
-- **Bank of Japan Organizational Structure** (https://www.boj.or.jp/about/organization/index.htm, 2026-05-25 Reference)
-- **Bank of Japan Act** (平成 9 年Law第 89 号)
-- **Bank of Japan Monetary Policy Meeting Minutes** (publicly available, each meeting)
+- **Wikipedia: Bank of Japan** (https://ja.wikipedia.org/wiki/日本銀行, extracted 2026-05-25)
+- **Bank of Japan official site** (https://www.boj.or.jp/, accessed 2026-05-25)
+- **Bank of Japan organizational structure** (https://www.boj.or.jp/about/organization/index.htm, accessed 2026-05-25)
+- **Bank of Japan Act** (平成 9 年 Act 第 89 号)
+- **Bank of Japan Monetary Policy Meeting minutes** (public portions, each session)
 
 ---
 
-> [!info] School core status
+> [!info] Verification status

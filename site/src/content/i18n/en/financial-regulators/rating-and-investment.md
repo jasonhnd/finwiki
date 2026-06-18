@@ -1,13 +1,13 @@
 ---
 source: financial-regulators/rating-and-investment
-source_hash: c1c97db5b6c6a2d5
+source_hash: 73a0d482012617d1
 lang: en
 status: machine
 fidelity: ok
-title: "Rating and Investment Information (R&I)"
-translated_at: 2026-06-01T00:41:50.388Z
+title: "Rating and Investment Information, Inc. (R&I) (格付投資情報センター)"
+translated_at: 2026-06-18T23:59:13.129Z
 ---
-# Rating and Investment Information (R&I)
+# Rating and Investment Information, Inc. (R&I) (格付投資情報センター)
 
 ## Wiki route
 
@@ -15,92 +15,92 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-Rating and Investment Information, Inc. (R&I) is one of the 2  major domestic credit-rating agencies in Japan; the other 1 社 is [[financial-regulators/jcr|JCR]]. It was formed in 1998-04  by the merger of Japan Bond Research Institute ([[megabanks/mizuho-fg|旧 IBJ・日本興業銀行系]] lineage) and Nippon Investors Service, a Nikkei-affiliated rating company. It is positioned as a Mizuho Financial Group-affiliated company, with [[megabanks/mizuho-fg|みずほ FG]] as a major shareholder. R&I covers sovereigns, financial institutions, corporates, structured finance, and investment-trust evaluation. Its parallel investment-trust evaluation business, R&I Fund Information, is a major differentiator from JCR. It is also a significant player in third-party opinions for sustainability finance, including green, social, and sustainability-linked bond frameworks.
+One of the **2  major players** among Japan's domestic credit-rating agencies (the other 1 社 being [[financial-regulators/jcr|JCR]]). Founded in 1998-04  through the merger of **Japan Bond Research Institute** ([[megabanks/mizuho-fg|旧 IBJ・日本興業銀行系]]) and **Nippon Investors Service** (of the Nikkei line). It is positioned as a **Mizuho Financial Group affiliate** (with [[megabanks/mizuho-fg|みずほ FG]] as the principal shareholder). It covers sovereigns / financial institutions / operating companies / structured finance / investment-trust evaluation, etc. A major differentiating factor from JCR is that it also runs an **investment-trust evaluation business (R&I Fund Information)**. It is also a major player in the sustainability-finance second-party-opinion (SPO) market.
 
 ## 1. Corporate structure / history
 
-**Formal name**: Rating and Investment Information, Inc.  
-**Japanese name**: 株式会社格付投資情報センター  
-**Established**: 1998-04-01, through the merger of Japan Bond Research Institute and Nippon Investors Service  
-**Head office**: Otemachi, Chiyoda-ku, Tokyo  
-**Business type**: Credit rating agency registered under Article 66 -27  of the Financial Instruments and Exchange Act  
-**Major shareholder**: [[megabanks/mizuho-fg|みずほフィナンシャルグループ]]-related ownership is central, giving it a Mizuho lineage  
-**Supervisor**: [[financial-regulators/fsa|金融庁]] for credit-rating-agency supervision
+**Official name**: Rating and Investment Information, Inc.
+**English name**: Rating and Investment Information, Inc. (R&I)
+**Establishment**: **1998-04-01** (merger of Japan Bond Research Institute + Nippon Investors Service)
+**Head office**: Ōtemachi, Chiyoda-ku, Tokyo
+**Business type**: Credit-rating agency (registered under Article 66 -27  of the Financial Instruments and Exchange Act)
+**Principal shareholder**: [[megabanks/mizuho-fg|みずほフィナンシャルグループ]]-affiliated entities at the core (Mizuho line)
+**Competent authority**: [[financial-regulators/fsa|金融庁]] (supervision of credit-rating agencies)
 
-### Predecessors
+### History / predecessors
 
 ```
-1979       Japan Bond Research Institute established (Industrial Bank of Japan lineage, later [[megabanks/mizuho-fg|みずほ FG]] lineage)
-1985       Nippon Investors Service established (Nikkei lineage)
-1998-04    Merger of the two firms, creating Rating and Investment Information (R&I)
+1979       Japan Bond Research Institute established (Industrial Bank of Japan line = source of what later became [[megabanks/mizuho-fg|みずほ FG]])
+1985       Nippon Investors Service established (Nihon Keizai Shimbun line)
+1998-04    The two merged → Rating and Investment Information, Inc. (R&I) launched
 ```
 
-### Key timeline
+### Key chronology
 
-| Date | Event |
+| Year-month | Event |
 |---|---|
-| 1979  | Japan Bond Research Institute established; IBJ / Mizuho-lineage predecessor |
-| 1985  | Nippon Investors Service established under the Nikkei lineage |
-| **1998-04** | **The two firms merge and R&I is launched** |
-| 2000-04  | Mizuho Holdings is created, clarifying the group relationship |
-| **2010-04** | **Registered as a credit rating agency** after the FIEA registration system begins |
-| 2013 | Transparency requirements strengthen for structured-finance ratings |
-| 2017 | R&I Green Bond Assessment and ESG-related evaluation businesses expand |
-| 2020 | Corporate-bond issuance rises during the COVID period, increasing rating activity |
+| 1979 | Japan Bond Research Institute established (IBJ line = Mizuho-line source) |
+| 1985 | Nippon Investors Service established (Nikkei line) |
+| **1998-04** | **The two merged → R&I launched** |
+| 2000-04 | Mizuho Holdings launched → R&I's affiliation relationship clarified |
+| **2010-04** | **Registration as a credit-rating agency** (in connection with the entry into force of the FIEA registration system) |
+| 2013~ | Strengthening transparency of structured-finance ratings |
+| 2017~ | Full-scale launch of ESG-evaluation business such as **R&I Green Bond Assessment** |
+| 2020~ | Surge in corporate-bond issuance during the COVID phase → increase in the number of ratings |
 
 ## 2. Business map
 
 | Area | Content |
 |---|---|
-| **Issuer ratings** | Sovereigns, financial institutions, corporates, and government-related entities |
-| **Structured finance** | RMBS, ABS, CMBS, ABCP, project finance |
-| **Insurance financial-strength ratings** | Life and non-life insurers |
-| **Investment-trust evaluation / R&I Fund Information** | One of Japan's largest domestic investment-trust evaluation services |
-| **ESG / sustainability evaluation** | Green, social, and sustainability-linked bond SPOs |
-| **Third-party opinions** | Opinions on framework alignment |
-| **Rating-related information services** | Data distribution and analytical reports |
+| **Issuer ratings** | Sovereigns / financial institutions / operating companies / government-related institutions |
+| **Structured finance** | RMBS / ABS / CMBS / ABCP / PF |
+| **Insurance financial-strength ratings** | Life / non-life |
+| **Investment-trust evaluation (R&I Fund Information)** | **One of the largest investment-trust evaluation services in Japan** |
+| **ESG / sustainability evaluation** | Green / social / sustainability-linked bond SPO |
+| **Second-party opinions** | Framework-conformity opinions |
+| **Rating-related information services** | Data distribution / analytical reports |
 
-### Rating scales
+### Rating scale
 
-- **Long-term ratings**: AAA to AA+ / AA / AA-, A+ / A / A-, BBB+ / BBB / BBB-, BB and below, down to D.
-- **Short-term ratings**: a-1+ / a-1  / a-2  / a-3  / b / c / d.
-- Insurance financial-strength ratings use a separate scale, from AA through D.
+- **Long-term ratings**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB and below → D
+- **Short-term ratings**: a-1+ / a-1 / a-2 / a-3 / b / c / d
+- The insurance financial-strength evaluation uses a separate scale (AAA → ... → D)
 
 ### vs JCR
 
 | Item | R&I | [[financial-regulators/jcr|JCR]] |
 |---|---|---|
-| Established | 1998, with predecessors going back to 1979 | 1985  |
-| Lineage | Mizuho-affiliated | Independent |
-| Investment-trust evaluation | Runs R&I Fund Information | None |
-| Issuer rating coverage | Large domestic scale | Large domestic scale |
+| Year of establishment | 1998 (predecessors from 1979) | 1985 |
+| Affiliation | **Mizuho line** | Independent |
+| Investment-trust evaluation | **Runs R&I Fund Information** | None |
+| Number of issuer ratings | On the scale of several thousand | On the scale of several thousand |
 | Structured finance | Strong | Strong |
-| ESG evaluation | Green bond assessment | Sustainability evaluation business |
+| ESG evaluation | Green Bond Assessment | Sustainability-evaluation business |
 
-### vs global 3  agencies: S&P / Moody's / Fitch
+### vs the global 3  majors (S&P / Moody's / Fitch)
 
-- In Japan's domestic market, an R&I + JCR 2 社 rating pattern is common; international issuers often add S&P or Moody's.
-- R&I is recognized as an ECAI (external credit assessment institution), making its ratings usable in bank risk-asset calculations under the Basel framework.
+- In the domestic market, the 2 社 ratings of R&I + JCR are standard, and international issuers conventionally additionally obtain S&P or Moody's
+- ECAI (External Credit Assessment Institution) certified → usable for banks' risk-weighted-asset calculation under the Basel standards
 
 ### Investment-trust evaluation business
 
-- **R&I Fund Information** is one of the largest domestic players in investment-trust evaluation.
-- It provides quantitative and qualitative fund evaluation, star ratings, and benchmark evaluation.
-- Financial-institution sales desks often refer to R&I fund evaluations.
-- Competitors include Morningstar, Mitsubishi Asset Brains, and similar evaluation providers.
+- **R&I Fund Information** is one of the largest players in domestic investment-trust evaluation
+- Quantitative / qualitative evaluation of funds, star ratings, benchmark evaluation, etc.
+- R&I's investment-trust evaluation is widely referenced at the sales front lines of financial institutions
+- Competitors: Morningstar, Mitsubishi Asset Brains, etc.
 
 ## 4. Supervision / regulation
 
-- **Supervisor**: [[financial-regulators/fsa|金融庁]].
-- **Legal basis**: Financial Instruments and Exchange Act Article 66 -27  and following.
-- **Registration**: registered credit rating agency; conflict-of-interest management is a key point because of the Mizuho lineage.
-- **ECAI recognition**: eligible under the Basel framework.
-- **IOSCO code-of-conduct alignment**.
+- **Competent authority**: [[financial-regulators/fsa|金融庁]]
+- **Governing law**: Financial Instruments and Exchange Act, Article 66 -27  and following
+- **Registration**: Credit-rating-agency registration (conflict-of-interest management concerning being of the Mizuho line is an important supervisory point)
+- **ECAI certification**: eligible under the Basel standards
+- **Conforms to the IOSCO Code of Conduct**
 
-### Conflict-of-interest management
+### Issues in conflict-of-interest management
 
-- Because R&I has a Mizuho lineage, independence in rating Mizuho FG group companies is a continuing supervision point.
-- R&I defines firewalls and separation of personnel, information, revenue, and credit-judgment processes in internal rules.
+- Insofar as it belongs to the Mizuho line, **ensuring independence in rating Mizuho FG group companies** is an ongoing supervisory point
+- R&I stipulates firewalls (separation of personnel / information / revenue / credit judgment) in its internal rules
 
 ## Related
 
@@ -112,11 +112,11 @@ Rating and Investment Information, Inc. (R&I) is one of the 2  major domestic cr
 
 ## Sources
 
-- **Wikipedia: Rating and Investment Information**: extracted 2026-05-25.
-- **R&I official site**: referenced 2026-05-25.
-- **R&I Fund Information**: referenced 2026-05-25.
-- **FSA credit rating agency list**: referenced 2026-05-25.
-- Financial Instruments and Exchange Act, Article 66 -27  and following.
+- **Wikipedia: Rating and Investment Information, Inc.** (https://ja.wikipedia.org/wiki/格付投資情報センター, extracted 2026-05-25)
+- **R&I official website** (https://www.r-i.co.jp/, accessed 2026-05-25)
+- **R&I Fund Information** (https://www.r-i.co.jp/rifi/, accessed 2026-05-25)
+- **FSA list of credit-rating agencies** (https://www.fsa.go.jp/menkyo/menkyoj/kakuduke.pdf, accessed 2026-05-25)
+- Financial Instruments and Exchange Act (Article 66 -27  and following)
 
 ---
 

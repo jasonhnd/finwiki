@@ -1,50 +1,51 @@
 ---
 source: insurance/economic-value-based-solvency
-source_hash: 7dfd548dfc28f602
+source_hash: 47d70b22eb5f0804
 lang: zh
 status: machine
 fidelity: ok
-title: "基于经济价值的偿付能力监管"
-translated_at: 2026-05-31T07:28:06.165Z
+title: "经济价值基础的偿付能力监管"
+translated_at: 2026-06-18T23:59:13.115Z
 ---
-# 基于经济价值的偿付能力监管
+
+# 经济价值基础的偿付能力监管
 
 ## TL;DR
 
-日本的基于经济价值的偿付能力制度，是一种穿透会计资产负债表、并以更符合市场一致性的经济价值基础来评估资产、负债、资本与风险的保险资本框架。金融厅（FSA）将这一制度概括为三大支柱：偿付能力监管、保险公司风险管理，以及面向保单持有人 / 市场参与者的信息披露。
+日本的经济价值基础偿付能力制度，是一套穿透会计资产负债表、以更贴近市场一致性的经济价值基础来评估资产、负债、资本与风险的保险资本框架。金融厅围绕三大支柱构建该制度：偿付能力监管、保险公司风险管理，以及面向投保人／市场参与者的信息披露。
 
-在 FinWiki 中，本页是 [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] 等保险公司页面的监管资本锚点。公司层面的比率解读请结合 [[insurance/esr-economic-value-solvency|ESR]]。
+对 FinWiki 而言，本页是 [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] 等保险公司页面的监管资本锚点。公司层面的比率解读请使用 [[insurance/esr-economic-value-solvency|ESR]]。
 
-## Regime Map
+## 制度图谱
 
-| Layer | What changes | Why it matters |
+| 层级 | 改变了什么 | 为何重要 |
 |---|---|---|
-| Balance-sheet view | 保险资产和负债按经济价值而非仅按账面会计价值评估。 | 长久期保证与市场风险会更清晰地显现。 |
-| Capital adequacy | 所需资本与风险画像挂钩，包括利率、市场、保险与操作风险。 | 期限错配严重或市场敞口较高的保险公司会面临更清晰的资本压力。 |
-| Risk management | FSA 的保险监管指引已要求综合风险管理与 ORSA 式风险 / 偿付能力自我评估。 | 监管不再只是一个申报比率，而成为管理体系本身。 |
-| Disclosure | 市场参与者和保单持有人可获得更可比的偿付能力信息。 | 投资分析可以在更一致的资本基础上比较寿险与非寿险集团。 |
+| 资产负债表视角 | 保险资产与负债以经济价值基础评估，而不仅仅依据账面会计数值。 | 长久期保证与市场风险变得更为可见。 |
+| 资本充足性 | 所需资本与风险状况挂钩，涵盖利率、市场、保险及操作风险。 | 存在久期错配或高市场敞口的保险公司面临更明确的资本压力。 |
+| 风险管理 | 金融厅的保险公司监管指引已要求实施综合风险管理以及 ORSA 式的风险／偿付能力自我评估。 | 监管成为一套管理体系，而不仅仅是一项上报的比率。 |
+| 信息披露 | 市场参与者与投保人获得更具可比性的偿付能力信息。 | 投资分析能够在更一致的资本基础上比较寿险与非寿险集团。 |
 
-## JapanFG Relevance
+## 与 JapanFG 的关联
 
-- [[life-insurers/dai-ichi-life|Dai-ichi Life]] 是最纯粹的股票市场案例，因为它是上市寿险控股公司；资本政策、回购、并购能力和 ESR 披露都可直接投资解读。
-- [[life-insurers/nippon-life|Nippon Life]] 是最大的相互会社案例；即便没有上市股权，经济偿付能力也会影响资本策略、保单红利能力以及海外并购空间。
-- [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO]] 之所以重要，是因为自然灾害风险、海外专业保险业务以及股权持有都可能显著影响资本波动。
-- [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 应将本页视为《保险业法》下的偿付能力与审慎监管路径。
+- [[life-insurers/dai-ichi-life|Dai-ichi Life]] 是最清晰的股票市场案例，因为它是一家上市的人寿保险控股公司；资本政策、回购、并购能力以及 ESR 披露均可直接作为投资标的考量。
+- [[life-insurers/nippon-life|Nippon Life]] 是最大的相互公司案例；即便没有上市股票，经济价值偿付能力也会影响其资本战略、投保人分红能力以及海外并购空间。
+- [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO]] 之所以重要，是因为自然巨灾风险、海外专业保险及股票持有可能显著影响资本波动性。
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 应将其视为《保险业法》下的偿付能力与审慎监管通道。
 
-## Decision Use
+## 决策用途
 
-使用本页时，通常是在问：
+在提出以下问题时使用本页：
 
-- 某家保险公司的资产负债表是否暴露于利率 / 市值冲击；
-- 股息、回购或并购是否受到监管资本约束；
-- 相互保险公司能否在支持海外扩张的同时维持长期保单持有人回报；
-- 某非寿险集团面对台风、洪水、地震和海外巨灾风险时是否有足够资本。
+- 某保险公司的资产负债表是否暴露于利率／市场价值冲击之下；
+- 分红、回购或并购是否受到监管资本的约束；
+- 相互保险公司能否在为海外扩张提供资金的同时维持长期投保人回报；
+- 非寿险集团是否拥有足够资本以应对台风、洪水、地震及海外巨灾敞口。
 
-## Boundary
+## 边界
 
-本页不是法律意见，也不能单独证明某家公司资本充足。做公司层面分析时，需要核对最新披露的 ESR / 偿付能力边际、该保险公司对合格资本的自有定义，以及 FSA 的任何过渡性措施。
+本页不构成法律意见，本身也不证明某公司资本充足。进行公司层面分析时，请核实最新披露的 ESR／偿付能力额度、该保险公司自身对合格资本的定义，以及金融厅的任何过渡措施。
 
-## Related
+## 相关
 
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
@@ -52,8 +53,8 @@ translated_at: 2026-05-31T07:28:06.165Z
 - [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- FSA：《关于基于经济价值的偿付能力监管等事项》。
-- FSA：《面向保险公司的综合监管指引》。
-- FSA：监管指引 II-2  财务健全性，以及 II-3  综合风险管理体制。
+- 金融厅: 経済価値ベースのソルベンシー規制等について.
+- 金融厅: 保険会社向けの総合的な監督指針.
+- 金融厅: 監督指針 II-2 財務の健全性 与 II-3 統合的リスク管理態勢.

@@ -1,55 +1,56 @@
 ---
 source: financial-regulators/fsa-strategy-bureau
-source_hash: d1ac3c4c4ea67193
+source_hash: 32e20154b17abfbb
 lang: ja
 status: machine
 fidelity: ok
-title: "総合政策局"
-translated_at: 2026-06-02T14:25:12.420Z
+title: "総合政策局 (FSA Strategy Development and Management Bureau)"
+translated_at: 2026-06-18T23:59:13.059Z
 ---
-# 総合政策局
 
-## ウィキ上の位置づけ
-この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置く。[[financial-regulators/fsa-supervision-bureau|FSA 監督局]] は監督側の対応部局、[[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] はルール策定側の対応部局として併読する。BoJ 側の国際政策レーンは [[financial-regulators/boj-international-dept|BoJ 国際局]] を経由し、より広い規制境界は [[financial-licenses/INDEX|legal / financial licenses]] を使う。
+# 総合政策局 (FSA Strategy Development and Management Bureau)
 
-## 要約
+## Wiki route
+本エントリは [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。監督側のカウンターパートについては [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] と、ルールメイキング側のカウンターパートについては [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] と対照して読まれたい。BoJ 側の国際政策レーンについては [[financial-regulators/boj-international-dept|BoJ 国際局]] を通じてアンカーし、より広い規制パースペクティブについては [[financial-licenses/INDEX|legal / financial licenses]] を通じてアンカーする。
 
-総合政策局は、2018 年7月の金融庁組織再編で設置された、金融庁内の部局横断調整と戦略を担う部局である。 金融庁全体の戦略企画、部局横断の政策調整、国際金融政策、金融教育、FinTech / サステナビリティ戦略、リスク分析・先行課題把握機能を所管する。
+## TL;DR
 
-JapanFG では、ルール策定や監督ではなく金融庁レベルの戦略を参照するページの適切なアンカーとなる。例として、金融システム政策の方向性、金融リテラシー施策、サステナビリティ開示ロードマップ、金融庁側からの国際基準設定主体との調整がある。
+総合政策局は、2018 年 7 月の金融庁の組織再編で創設された、金融庁の局横断的な調整・戦略の局である。金融庁全体の戦略立案、局横断的な政策調整、国際金融政策、金融教育、FinTech / サステナビリティ戦略、ならびに金融庁のリスク分析 / ホライズン・スキャニング機能を所管する。
 
-## 1. 機能・対象範囲
+JapanFG にとって、本局は、ページが（ルールメイキングや監督ではなく）金融庁レベルの戦略を参照する必要がある場合——たとえば金融庁の金融システム政策の方向性、金融リテラシーの取組み、サステナビリティ開示のロードマップ、または金融庁側からの国際的な基準設定主体との調整など——に適切なアンカーである。
 
-金融庁の英語版組織図では、総合政策局は次の事項を担当する部局として示されている:
+## 1. 機能 / 範囲
 
-- 金融庁全体の戦略と政策方向。翌年度の金融庁優先課題を枠付ける年次文書 *Strategic Priorities* を含む。
-- 監督、ルール策定、政策をまたぐ論点について、[[financial-regulators/fsa-supervision-bureau|監督局]] と [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] を横断して調整する。
-- 国際金融政策: FSB、IOSCO、IAIS、FATF、OECD 関連業務、および外国規制当局との二国間 / 多国間協力。これは BoJ の [[financial-regulators/boj-international-dept|国際局]] に対応する金融庁側の窓口である（機関は異なるが、論点は一部重なる）。
-- リスク分析と先行課題把握機能。デジタル資産、金融における AI、気候関連金融リスク、サイバーレジリエンスなど新興論点の分野横断モニタリングを含む。
-- 関係省庁横断の枠組みと連携した金融教育政策、および金融庁全体レベルの消費者保護戦略。
-- 金融庁の人事、研修、内部管理機能。
+金融庁の英語版組織図は、総合政策局を次の事項を担う局として位置づけている。
 
-この部局は意図的に広いマンデートを持つ。2018 年の再編は、従来の3局体制に欠けていた戦略・横断レイヤーを金融庁に持たせるためのものだった。
+- 金融庁全体の戦略および政策の方向性。これには、来る一年の金融庁の優先事項を枠づける年次の *Strategic Priorities*（戦略的重点事項）文書を含む。
+- 監督、ルールメイキング、政策を横断する論点に関する、[[financial-regulators/fsa-supervision-bureau|監督局]] と [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] にまたがる局横断的な調整。
+- 国際金融政策: FSB、IOSCO、IAIS、FATF、OECD の作業、ならびに外国の規制当局との二国間 / 多国間の協力。これは BoJ の [[financial-regulators/boj-international-dept|国際局]] に対する金融庁側のカウンターパートである（異なる機関であり、トピックは部分的に重複する）。
+- リスク分析およびホライズン・スキャニング機能——デジタル資産、金融における AI、気候関連の金融リスク、サイバー・レジリエンスといった新興の論点のセクター横断的なモニタリングを含む。
+- 金融教育政策（関連する省庁横断の枠組みと連携）、ならびに金融庁全体のレベルでの消費者保護戦略。
+- 金融庁の人事、研修、内部管理の機能。
 
-## 2. 相手方・相互作用
+本局は意図的に広範な所掌とされている。2018 年の組織再編は、従来の三局体制に欠けていた戦略 / 横断的な層を金融庁に与えるために、まさにこの局を創設したのである。
 
-相手方との接点は、個別企業レベルよりも制度・機関レベルが中心である:
+## 2. カウンターパーティ / 相互作用
 
-- **外国規制当局・基準設定主体**: FSB（バーゼル拠点）、IOSCO（証券）、IAIS（保険）、FATF（AML / CFT）、OECD、および Fed、ECB、BoE、MAS、HKMA、SFC を含む主要外国規制当局との二国間 MoU。
-- **他の日本当局**: FinTech / デジタル産業政策では METI、国際金融政策・為替論点では MOF、バーゼルや CPMI 関連では BoJ（[[financial-regulators/boj-international-dept|国際局]]）、さらに省庁横断の金融教育枠組み。
-- **金融庁内部**: [[financial-regulators/fsa-supervision-bureau|監督局]]、[[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] との部局横断ワーキンググループに加え、証券取引等監視委員会や [[financial-regulators/cpaaob|CPAAOB]] などの関連機関との連絡。
-- **業界向け戦略インターフェース**: FinTech Support Desk、Sandbox programme、サステナブルファイナンス作業部会、金融リテラシー施策。これらは戦略・政策上の接点であり、監督局が担う法定監督ではない。
+カウンターパーティとの相互作用は、企業レベルよりも機関レベルのものである。
 
-この部局は業務改善命令を出したり、オンサイト検査を実施したりする部局ではない。
+- **外国の規制当局および基準設定主体**: FSB（バーゼル拠点）、IOSCO（証券）、IAIS（保険）、FATF（AML / CFT）、OECD; Fed、ECB、BoE、MAS、HKMA、SFC を含む主要な外国規制当局との二国間 MoU。
+- **その他の日本の当局**: FinTech / デジタル産業政策については METI、国際金融政策および FX の論点については財務省、バーゼルおよび CPMI の作業については BoJ（[[financial-regulators/boj-international-dept|国際局]]）、ならびに省庁横断の金融教育の枠組み。
+- **金融庁内部**: [[financial-regulators/fsa-supervision-bureau|監督局]] および [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] との局横断のワーキンググループ、加えて証券取引等監視委員会や [[financial-regulators/cpaaob|CPAAOB]] といった関連組織との連絡。
+- **業界向けの戦略インターフェース**: FinTech サポートデスク、サンドボックス・プログラム、サステナブルファイナンスのワーキンググループ、金融リテラシーの取組み。これらは戦略 / 政策のインターフェースであり、法定の監督（これは監督局に属する）ではない。
 
-## 3. このページが重要な理由
+本局は、業務改善命令を発出することも、立入検査を実施することもない。
 
-- 「金融庁の戦略と国際政策が現在どこに置かれているか」を示す最も明確な公開アンカーであり、JapanFG ページが金融庁全体の優先課題や基準設定主体との調整に触れる際に必要になる。
-- 2018 年にこの部局が設置されたことを記録し、金融庁の改革前後の政策姿勢を比較する際の構造的な分岐点を示す。
-- 戦略 / 国際政策（本部局）、ルール策定（[[financial-regulators/fsa-planning-coordination-bureau|企画市場局]]）、監督（[[financial-regulators/fsa-supervision-bureau|監督局]]）を分ける。これは JapanFG ページでしばしば切り分けが必要になる三つの別レーンである。
-- まだルール策定や執行に至っていない FinTech / サステナビリティ / デジタル資産戦略の参照先として適切であり、監督部局やルール策定部局へ過剰に帰属させることを避けられる。
+## 3. なぜこのページが重要か
 
-## 関連項目
+- 「金融庁の戦略および国際政策は現在どこにあるのか」を示す、最も明快な公式アンカーである——JapanFG のページが金融庁全体の優先事項や基準設定主体との調整を参照する際にいつでも必要となる。
+- 本局の 2018 年の創設を記録している。これは、ページが改革前と改革後の金融庁の政策スタンスを比較する際に JapanFG が必要とする構造的な転換点である。
+- 戦略 / 国際政策（本局）を、ルールメイキング（[[financial-regulators/fsa-planning-coordination-bureau|企画市場局]]）および監督（[[financial-regulators/fsa-supervision-bureau|監督局]]）から切り分ける——JapanFG のページがしばしば区別する必要のある 3 つの異なるレーンである。
+- まだルールメイキングや執行に至っていない FinTech / サステナビリティ / デジタル資産の戦略への言及にとって、適切な拠り所を与える。これにより、ページがそれらを監督またはルールメイキングの局へ過度に帰属させることを防ぐ。
+
+## Related
 - [[financial-regulators/fsa-supervision-bureau|FSA 監督局 (Supervision Bureau)]]
 - [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局 (Planning and Coordination Bureau)]]
 - [[financial-regulators/fsa-inspection-bureau|FSA 検査局 (Inspection Bureau — historical)]]
@@ -59,15 +60,15 @@ JapanFG では、ルール策定や監督ではなく金融庁レベルの戦略
 - [[banking/INDEX|Banking landscape]]
 - [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 
-## 出典
+## Sources
 
-- FSA, "Organization Chart" (English) — https://www.fsa.go.jp/en/about/orgchart.html
+- FSA, "Organization Chart"（英語）— https://www.fsa.go.jp/en/about/orgchart.html
 - FSA, "Annual Report" — https://www.fsa.go.jp/en/about/annual.html
-- FSA, "Policy" (English) — https://www.fsa.go.jp/en/policy/index.html
+- FSA, "Policy"（英語）— https://www.fsa.go.jp/en/policy/index.html
 - FSA, "What's New" — https://www.fsa.go.jp/en/news/index.html
-- FSA (Japanese), "Organization" — https://www.fsa.go.jp/common/about/sosiki/index.html
+- FSA（日本語）, "組織" — https://www.fsa.go.jp/common/about/sosiki/index.html
 
 ---
 
 > [!info] 校核状態
-> 信頼度: **おおむね高い**。現在の金融庁資料では、この部局の英語表記は "Strategy Development and Management Bureau" である。2018 以前の資料には、2018 年再編で新設されたこの部局に相当するものは見つからない。次の *Strategic Priorities* と *Annual Report* が公表された時点で年次更新する。
+> confidence: **likely**。本局の英語名称は、現行の金融庁の資料では "Strategy Development and Management Bureau" である; 2018 年より前の参照では、本局は 2018 年の組織再編で創設されたため、相当する局は見つからない。次の *Strategic Priorities* と *Annual Report* が出るたびに、毎年更新すること。
