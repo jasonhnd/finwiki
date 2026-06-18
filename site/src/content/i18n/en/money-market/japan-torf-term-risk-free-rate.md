@@ -1,13 +1,13 @@
 ---
 source: money-market/japan-torf-term-risk-free-rate
-source_hash: 37030256cdbd98a8
+source_hash: 9db970d03edb689b
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "TORF (Tokyo Term Risk Free Rate)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-18T15:47:13.957Z
 ---
+
 # TORF (Tokyo Term Risk Free Rate)
 
 ## Wiki route
@@ -104,7 +104,6 @@ This governance is what lets TORF function as a usable reference rate rather tha
 - [[money-market/japan-money-market]]
 - [[money-market/japan-tibor-benchmark-rate]]
 - [[money-market/japan-money-market-benchmark-reform-tona]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/call-market-structure]]
 - [[derivatives/ois-tona-curve]]
 - [[derivatives/japan-irs-market]]

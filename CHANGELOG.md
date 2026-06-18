@@ -31,6 +31,17 @@
 
 ## 2026-06-08 (In progress)
 
+### i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-19 JST。
+- **背景**: #8 の merge / inbound 編集で stale になった **22 corpus page の ja/zh/en mirror(66 件)** を opus subagent(6 並列)で再翻訳。内訳: 3 merge canonical(`call-market-structure` / `point-program-unit-economics` / `japan-kabushiki-bunpai-spinoff-regime` — 統合した新章節を反映)+ 19 inbound page(退役 slug への旧リンクを現行 canonical リンクへ更新)。INDEX は mirror 対象外のため除外。
+- **範囲**: `site/src/content/i18n/**` の 66 mirror、`CHANGELOG.md`。corpus 本文・生成面は不変(mirror のみ)。
+- **検証**: `commit-translate` ok=66 / needs_review=0、占位符 leak 0、3 merge canonical は全 lang current、`i18n:status` stale **ja 364→342 / zh 545→523 / en 432→410**、orphaned=0 / missing=0、`wiki_link_audit` dead=0。残 stale は既知の良性数値/日付整形ドリフト(設計上の非目標、[[project_i18n-stale-residual-is-benign-drift]] 参照)。
+- **EN**: Retranslated the 66 ja/zh/en mirrors of the 22 corpus pages left stale by #8's merges/inbound edits (6 parallel opus subagents): the 3 merge canonicals (now reflecting the absorbed sections) + 19 inbound pages (old links to retired slugs updated to the current canonical links). INDEX pages excluded (not mirrored). Scope: 66 mirrors under `site/src/content/i18n/**` + `CHANGELOG.md`; no corpus body or generated surface changed. Verified: `commit-translate` ok=66/needs_review=0; zero placeholder leaks; the 3 canonicals current in all langs; `i18n:status` stale ja 364→342 / zh 545→523 / en 432→410, orphaned=0/missing=0; `wiki_link_audit` dead=0. Remaining stale is the documented benign numeric/date formatting drift (by-design non-goal).
+- **中文**: 用 6 个并行 opus 子代理重译了被 #8 合并/inbound 编辑搞 stale 的 22 个 corpus 页的 66 个 ja/zh/en 镜像:3 个合并 canonical(现已反映并入的新章节)+ 19 个 inbound 页(把指向已退役 slug 的旧链接更新为当前 canonical 链接)。INDEX 不在镜像范围,已排除。范围:`site/src/content/i18n/**` 的 66 个镜像 + `CHANGELOG.md`;未改 corpus 正文与生成面。已验证:`commit-translate` ok=66/needs_review=0;零占位符泄漏;3 个 canonical 全语言 current;`i18n:status` stale ja 364→342 / zh 545→523 / en 432→410,orphaned=0/missing=0;`wiki_link_audit` dead=0。残余 stale 为已记录的良性数值/日期格式漂移(设计上的非目标)。
+
 ### Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页
 
 #### 日本語記録 / English / 中文

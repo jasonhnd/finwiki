@@ -1,18 +1,18 @@
 ---
 source: corporate-strategy/japan-kaisha-bunkatsu-tax-regime
-source_hash: 706ede0691b6d26b
+source_hash: a5c1a8e8620ec7dc
 lang: en
 status: machine
 fidelity: ok
 title: "会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession"
-translated_at: 2026-05-30T15:31:43.920Z
+translated_at: 2026-06-18T15:47:13.950Z
 ---
 
 # 会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the transaction-finance overlay. Read with [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the comparison to distribution-type spinoffs, [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]] for the contrast with private take-out routes, and [[finance/japan-tender-offer-process|Japan tender offer process]] for the public-bid alternative.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the transaction-finance overlay. Read with [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] for the comparison to distribution-type spinoffs, [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]] for the contrast with private take-out routes, and [[finance/japan-tender-offer-process|Japan tender offer process]] for the public-bid alternative.
 
 ## TL;DR
 
@@ -50,7 +50,7 @@ The split company (分割会社) transfers a part of its business to an **alread
 
 The split company creates a **new** successor company at the moment of split. Consideration is the new company's own shares (sometimes paired with bonds).
 
-- Common use case: pre-spinoff structuring — split out the business into a newco, then distribute newco shares to parent's shareholders (which may use [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] if conditions met)
+- Common use case: pre-spinoff structuring — split out the business into a newco, then distribute newco shares to parent's shareholders (which may use [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] if conditions met)
 - Common use case: holding-company conversion — operating company splits into pure holding + operating newco
 - Common use case: joint-venture seed — two parents do parallel 新設分割 into a JV newco
 - Consideration in share form is the most common path because it preserves 適格 treatment
@@ -93,7 +93,7 @@ Three baseline scenarios, each with its own test set:
 |---|---|---|---|
 | Companies Act vehicle | 新設分割 + 剰余金配当 (in-kind) | 株式分配 (現物分配) | 事業譲渡 or 株式譲渡 |
 | Parent retained interest | Full (no distribution) or partial (post-spinoff) | Up to 20% retained (under partial-spinoff regime) | Zero (full divestiture) |
-| Tax at parent level | Deferred under 適格 | Deferred under [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] | Taxable gain on sale |
+| Tax at parent level | Deferred under 適格 | Deferred under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] | Taxable gain on sale |
 | Tax at shareholder level | None (no distribution) | None if regime conditions met | None (no distribution) |
 | Employee transfer | Automatic under 労働契約承継法 | Automatic under 労働契約承継法 | Negotiated case-by-case (事業譲渡 requires consent) |
 | Use case | Internal restructuring, JV seeding, pre-listing carve-out | Listed-parent simplification with retained alliance | Exit-focused divestiture |
@@ -166,7 +166,7 @@ Cross-border deals using Japanese 会社分割 to feed into a non-Japanese spin-
 
 ## Strategic reading
 
-- **会社分割 is the legal-plumbing layer; 適格 vs 非適格 is the tax layer; spinoff is one outcome among many.** Confusing the three is the single most common mistake outside specialist M&A practice. The relationship between 新設分割 (the plumbing) and [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] (the tax regime that lets the resulting newco's shares be distributed to parent's shareholders without shareholder-level tax) is one of layering, not substitution.
+- **会社分割 is the legal-plumbing layer; 適格 vs 非適格 is the tax layer; spinoff is one outcome among many.** Confusing the three is the single most common mistake outside specialist M&A practice. The relationship between 新設分割 (the plumbing) and [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] (the tax regime that lets the resulting newco's shares be distributed to parent's shareholders without shareholder-level tax) is one of layering, not substitution.
 - **Pre-IPO carve-out playbook**: parent uses 適格 新設分割 to put the carve-out business into a 100%-owned newco at historic basis. Newco builds independent management and audit history for 3-5 years. Newco lists via IPO (parent's interest dilutes through primary offering and possible secondary placement) — see [[finance/japan-ib-league-table|Japan IB league table]] for advisory landscape on these structures.
 - **Holding-company conversion**: parent uses 新設分割 to spin operating business into operating newco, leaving parent as pure HoldCo. 適格 treatment makes this routinely tax-neutral.
 - **Loss carryforward limitation matters**: the anti-trafficking provisions in Corporation Tax Act art. 57-3 restrict the use of loss carryforwards after qualified splits if specified ownership-change tests trigger. This is a quiet but consequential constraint in distressed restructurings.
@@ -175,7 +175,7 @@ Cross-border deals using Japanese 会社分割 to feed into a non-Japanese spin-
 ## Related
 
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]]
 - [[finance/INDEX|finance INDEX]]
 - [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]
 - [[finance/japan-tender-offer-process|Japan tender offer process]]

@@ -1,22 +1,22 @@
 ---
 source: business/sony-fg-partial-spinoff-case
-source_hash: 3cf5377bf02ebe63
+source_hash: f0f08badae4c49d6
 lang: en
 status: machine
 fidelity: ok
-title: "Sony Financial Group partial spinoff case — 株式分配方式 (in-kind share distribution method) + parent retention below 20% + tax deferral"
-translated_at: 2026-05-30T16:08:36.707Z
+title: "Sony Financial Group partial spinoff case — 株式分配方式 + parent retention below 20% + tax deferral"
+translated_at: 2026-06-18T15:47:13.940Z
 ---
 
-# Sony Financial Group partial spinoff case — 株式分配方式 (in-kind share distribution method) + parent retention below 20% + tax deferral
+# Sony Financial Group partial spinoff case — 株式分配方式 + parent retention below 20% + tax deferral
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] and [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] as peer Japan large-cap public-company restructurings, [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime mechanics, [[megabanks/sony-fg|Sony FG]] for the entity profile, and [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the broader corporate-split legal plumbing. Also pair with [[corporate-strategy/INDEX|corporate-strategy INDEX]] and [[finance/INDEX|finance INDEX]] for capital-markets context.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] and [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] as peer Japan large-cap public-company restructurings, [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] for the tax-regime mechanics, [[megabanks/sony-fg|Sony FG]] for the entity profile, and [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the broader corporate-split legal plumbing. Also pair with [[corporate-strategy/INDEX|corporate-strategy INDEX]] and [[finance/INDEX|finance INDEX]] for capital-markets context.
 
 ## TL;DR
 
-Sony Group's planned re-listing of **Sony Financial Group (SFG, ticker 8729)** via **株式分配型パーシャルスピンオフ** (partial spinoff via in-kind share distribution) is the canonical Japan large-cap case for the 2023 partial-spinoff tax-deferral regime created under [[corporate-strategy/partial-spinoff-tax-deferral|the partial-spinoff regime]]. Sony distributes ~80%+ of SFG shares to its own shareholders as an in-kind dividend, retaining a sub-20% stake to preserve brand cooperation and continued cross-sell, while qualifying for tax deferral at both parent-company and shareholder level. The transaction was announced 2024-05, METI-certified 2024-02 (industrial competitiveness plan), and targeted for re-listing on TSE Prime as of 2025-10-01.
+Sony Group's planned re-listing of **Sony Financial Group (SFG, ticker 8729)** via **株式分配型パーシャルスピンオフ** (partial spinoff via in-kind share distribution) is the canonical Japan large-cap case for the 2023 partial-spinoff tax-deferral regime created under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|the partial-spinoff regime]]. Sony distributes ~80%+ of SFG shares to its own shareholders as an in-kind dividend, retaining a sub-20% stake to preserve brand cooperation and continued cross-sell, while qualifying for tax deferral at both parent-company and shareholder level. The transaction was announced 2024-05, METI-certified 2024-02 (industrial competitiveness plan), and targeted for re-listing on TSE Prime as of 2025-10-01.
 
 For the broader sector context, this is the second major test of the 2023 regime after Kokuyo × Askul, and the first by a Tier-1 Japanese conglomerate carving out a fully-regulated financial-services subsidiary.
 
@@ -33,7 +33,7 @@ For the broader sector context, this is the second major test of the 2023 regime
 | Re-listing target | 2025-10-01 |
 | Legal authority | METI 産業競争力強化法 + パーシャルスピンオフ税制 |
 
-This combines a partial-spinoff regime (tax) with a 株式分配 distribution (Companies Act / Corporation Tax Act mechanism), routed through [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]] precursors as needed. See [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] for the full tax-regime test set.
+This combines a partial-spinoff regime (tax) with a 株式分配 distribution (Companies Act / Corporation Tax Act mechanism), routed through [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]] precursors as needed. See [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] for the full tax-regime test set.
 
 ## 2. Why Sony Chose Partial Spinoff Over Alternatives
 
@@ -113,7 +113,7 @@ The pattern most likely to replicate: large industrial parent with a captive ins
 
 ## Related
 
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral regime]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral regime]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 stock-distribution regime]]

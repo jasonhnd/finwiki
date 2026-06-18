@@ -1,13 +1,13 @@
 ---
 source: money-market/japan-tibor-benchmark-rate
-source_hash: f50035dac3730ce9
+source_hash: 58709e100ae3ffc4
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "TIBOR (Tokyo Interbank Offered Rate)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-18T15:47:13.952Z
 ---
+
 # TIBOR (Tokyo Interbank Offered Rate)
 
 ## Wiki route
@@ -109,7 +109,6 @@ This governance is what allowed TIBOR to survive the global IBOR transition that
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
 - [[money-market/japan-money-market-benchmark-reform-tona]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/boj-open-market-operations]]
 - [[derivatives/ois-tona-curve]]

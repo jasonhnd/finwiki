@@ -1,11 +1,11 @@
 ---
 source: finance/japan-private-equity-operating-model
-source_hash: 7d38413a1800cdf3
+source_hash: 1ada279a971ee6e0
 lang: en
 status: machine
 fidelity: ok
 title: "Japan private equity operating model"
-translated_at: 2026-05-31T06:16:15.659Z
+translated_at: 2026-06-18T15:47:13.951Z
 ---
 
 # Japan private equity operating model
@@ -216,7 +216,7 @@ LP base composition affects fund governance, side-letter terms, ESG reporting, a
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]
 - [[megabanks/mizuho-fg]]

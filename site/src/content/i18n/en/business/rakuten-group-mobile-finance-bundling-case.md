@@ -1,11 +1,11 @@
 ---
 source: business/rakuten-group-mobile-finance-bundling-case
-source_hash: 3558f5d8c7020d36
+source_hash: 5169a5b3dc46e01a
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits"
-translated_at: 2026-05-30T16:08:36.704Z
+translated_at: 2026-06-18T15:47:13.953Z
 ---
 
 # Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits
@@ -101,7 +101,7 @@ Rakuten is unique in the direction of subsidy: financial profits subsidize a los
 | Deal | Vehicle | Parent retained | Tax treatment |
 |---|---|---|---|
 | **Rakuten Bank 2023** | IPO partial sell-down | ~63% post-IPO (lockup gradual release) | Capital gain on sold portion |
-| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | Partial spinoff (株式分配) | <20% | Deferred under [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] |
+| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | Partial spinoff (株式分配) | <20% | Deferred under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] |
 | [[business/softbank-vision-fund-arm-ipo-template|Arm 2023]] | IPO partial sell-down | ~90% | Capital gain on sold portion |
 
 Rakuten chose IPO over partial spinoff because the cash-raise was central to the parent's recapitalization needs, not just valuation crystallization. See [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for full option set.

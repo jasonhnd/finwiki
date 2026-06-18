@@ -1,11 +1,11 @@
 ---
 source: finance/japan-m-a-deal-process-comparison-matrix
-source_hash: 516831cd5f4035c8
+source_hash: 2f6390b446ef56be
 lang: en
 status: machine
 fidelity: ok
 title: "Japan M&A deal process comparison matrix"
-translated_at: 2026-05-31T06:16:15.730Z
+translated_at: 2026-06-18T15:47:13.946Z
 ---
 
 # Japan M&A deal process comparison matrix
@@ -16,7 +16,7 @@ Japan M&A is not one process; it is at least seven distinct deal-type processes 
 
 ## Wiki route
 
-This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-acquisition-finance]] for the debt-stack interface, [[finance/japan-tender-offer-process]] for the public-bid mechanics, [[finance/japan-mbo-and-squeeze-out-process]] for management-led routes, [[finance/japan-leveraged-buyout-economics]] for sponsor cash-flow math, and [[finance/japan-ib-league-table]] for adviser-side franchise depth. Cross-domain links route into [[corporate-strategy/INDEX|corporate-strategy index]] for the [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|kaisha bunkatsu tax]] and [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff]] tax-deferral surfaces.
+This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-acquisition-finance]] for the debt-stack interface, [[finance/japan-tender-offer-process]] for the public-bid mechanics, [[finance/japan-mbo-and-squeeze-out-process]] for management-led routes, [[finance/japan-leveraged-buyout-economics]] for sponsor cash-flow math, and [[finance/japan-ib-league-table]] for adviser-side franchise depth. Cross-domain links route into [[corporate-strategy/INDEX|corporate-strategy index]] for the [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|kaisha bunkatsu tax]] and [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff]] tax-deferral surfaces.
 
 ## Why this matrix matters
 
@@ -165,7 +165,7 @@ Read against [[finance/japan-mbo-and-squeeze-out-process]] for the procedural se
 | Fairness opinion | Rare unless one party is listed and contribution is material. |
 | Minority appraisal rights | If formation involves listed-target carve-out, dissenting shareholders may exercise rights under Companies Act §785 / §806. |
 | Statutory thresholds | 2/3 vote if material asset transfer; 1/2 + 1 for ordinary JV approvals. |
-| Tax structure | Often structured as tax-qualified [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff]] / share-for-share to defer Japanese capital-gains. |
+| Tax structure | Often structured as tax-qualified [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff]] / share-for-share to defer Japanese capital-gains. |
 
 ### TOB-mandated transactions
 
@@ -357,7 +357,7 @@ Before relying on any cell above in a real-world process:
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime]]
 - [[securities-firms/nomura-hd]]
 - [[securities-firms/daiwa-sg]]
