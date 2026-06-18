@@ -1,23 +1,24 @@
 ---
 source: exchanges/crypto-custody-provider-landscape-matrix
-source_hash: 3d88eb602fdee7c5
+source_hash: d1441599f505f3cf
 lang: ja
 status: machine
 fidelity: ok
 title: "暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較"
-translated_at: 2026-06-02T12:19:04.213Z
+translated_at: 2026-06-18T23:33:48.288Z
 ---
+
 # 暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較
 
-## 要約
+## TL;DR
 
 機関向け暗号資産カストディ市場は **(1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension)** の三軸で分化している。本マトリクスは日本 3 強 ([[exchanges/jp-custody-ginco|Ginco]] / [[exchanges/jp-custody-komainu|Komainu]] / [[exchanges/jp-custody-fireblocks-japan|Fireblocks Japan]]) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) + Big Bank 系 2 社 (BNY Mellon Digital Asset / State Street) + Standard Custody / Custodiem を含む 10 社を **技術・規制・SLA・保険・日本ライセンス・資産カバレッジ・課金モデル** で側並び比較する。詳細は [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] / [[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ 5 本柱]] を起点に。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[exchanges/INDEX|exchanges index]] に属する。[[exchanges/jp-institutional-custody-three-pillars|JP 国内 3 強]] と [[exchanges/global-institutional-custody-five-pillars|グローバル 5 本柱]] を組み合わせたものに対する **プロバイダー軸 (vendor-axis)** の対応項目である。技術深掘りは [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] と [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold storage 分別管理]] を参照。規制境界は [[exchanges/jp-vasp-security-audit-certification|JP VASP セキュリティ監査・認証]] / [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 8 極比較]] を参照。Big Bank 側は [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] が anchor。
+本項目は [[exchanges/INDEX|exchanges index]] に属する。これは [[exchanges/jp-institutional-custody-three-pillars|JP 国内 3 強]] と [[exchanges/global-institutional-custody-five-pillars|グローバル 5 本柱]] の合成に対する **プロバイダー軸 (vendor-axis)** のカウンターパートである。技術深掘りは [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] と [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold storage 分別管理]] を参照。規制境界は [[exchanges/jp-vasp-security-audit-certification|JP VASP セキュリティ監査・認証]] / [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 8 極比較]] を参照。Big Bank 側は [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] が anchor。
 
-## このマトリクスが重要な理由
+## なぜこのマトリクスが重要か
 
 - 暗号資産カストディは **「VASP 自己保管」と「B2B vendor インフラ」と「Qualified Custodian」の三層構造** で運営される。VASP 自己保管 (bitFlyer / Coincheck / bitbank 等) は JVCEA 自主規制 + 内製で実装、B2B vendor (Ginco / Fireblocks / Komainu Connect) は VASP・銀行向けインフラ、Qualified Custodian (Coinbase Custody / Anchorage / BitGo / Komainu / Fidelity Digital) は ETF・年金・SWF 受託。
 - **米系 ETF カストディ集中**: BlackRock IBIT / Fidelity FBTC 等の 米現物 BTC ETF (2024-01 承認) の受託カストディアンは Coinbase Custody / Fidelity Digital / BitGo / Anchorage に集中。日本にはまだ現物 BTC ETF が承認されていない ([[exchanges/btc-spot-etf-japan-impact|JP BTC spot ETF 影響]] 参照)。
@@ -48,7 +49,7 @@ translated_at: 2026-06-02T12:19:04.213Z
 - **規制**: Jersey JFSC (2019) + UK FCA Crypto (2025) + UAE VARA (2023) + Italy OAM (2025)。**日本 FSA 未登録 / JVCEA 非加盟 / 日本拠点なし**
 - **課金**: 月額 + AUM ベース
 - **戦略**: Komainu Connect (取引所担保連携 2023-) + Komainu CORE (Collateral-as-a-Service 2026-04) + Propine 買収 (2024-10 シンガポール) でアジア拡大
-- **取締役会・幹部の重なり**: Laser Digital ([[exchanges/jp-exchange-laser-digital-japan|Laser Digital Japan]]) 幹部 + Blockstream の dual anchor
+- **取締役会の重複 (Board overlap)**: Laser Digital ([[exchanges/jp-exchange-laser-digital-japan|Laser Digital Japan]]) 幹部 + Blockstream の dual anchor
 
 #### A3. Fireblocks Japan (米国本社、東京拠点)
 - **本社**: New York City (R&D Tel Aviv、2018 設立)、東京拠点 LinkedIn 確認 5 名
@@ -57,7 +58,6 @@ translated_at: 2026-06-02T12:19:04.213Z
 - **顧客**: グローバル金融機関中心 + Western Union (USDPT) + 欧州銀行 12 行コンソーシアム Qivalis (EUR SC) + 三井物産 MDC (Zipangcoin) + SMBC × Ava Labs × TIS SC (2025-04) + みんなの銀行 + CoinTrade
 - **対応資産**: 50+ ブロックチェーン (定期拡張)、SC (USDC/USDT/EPI) + RWA + NFT
 - **規制**: Fireblocks Trust Company (米国信託、2024-) + MiCA 対応。**日本 FSA 登録なし** (インフラ SaaS のため不要)。SOC 2 Type II + ISO 27001
-
 - **課金**: Subscription
 - **戦略**: 日本拠点拡張中 (2026-05 CoinPost CEO インタビュー報道)、IPO 観測あり (2025-11 Bloomberg)
 
@@ -135,7 +135,7 @@ translated_at: 2026-06-02T12:19:04.213Z
 - **顧客**: 旧 FTX Japan 顧客 + bitFlyer グループ内
 - **戦略**: FTX 破綻後の顧客資産 100% 補填事例として注目 ([[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% return ケース]] 参照)
 
-## 大型比較マトリクス表
+## 大比較マトリクス表
 
 | 軸 | A1. Ginco | A2. Komainu | A3. Fireblocks | B1. Coinbase Custody | B2. Fidelity Digital | B3. Anchorage | B4. BitGo | C1. BNY Mellon | C2. State Street | D1. Standard Custody | D2. Custodiem |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -151,7 +151,7 @@ translated_at: 2026-06-02T12:19:04.213Z
 | **規制階層** | FSA 登録なし (B2B vendor) | Jersey JFSC + UK FCA + UAE VARA + Italy OAM | 米信託 (Fireblocks Trust Company 2024-) + MiCA | NY DFS Trust Charter | MA Trust + NY DFS | **OCC Federal Trust Bank** (米国唯一) | SD State Trust + multi-state + HK | NY DFS Trust (BNY Mellon) | MA State Trust + NY DFS (State Street) | NY DFS Trust | FSA 暗号資産交換業 |
 | **日本ライセンス** | (B2B 不要) | 未登録 (日本拠点なし) | 未登録 (拠点あり 5 名) | 暗号資産交換業 (Coinbase Japan dormant) | 拠点未進出 | 拠点なし (API のみ) | 三井物産 MDC 経由間接 | [[foreign-financial-institutions/bny-mellon-japan|BNY メロン信託銀行]] + 東京支店 (デジタル資産事業は国内未稼働) | [[foreign-financial-institutions/state-street-japan|ステート・ストリート信託銀行]] + 東京支店 (デジタル資産事業は国内未稼働) | 拠点なし | FSA 暗号資産交換業 |
 | **課金モデル** | ライセンス + per-tx | 月額 + AUM ベース | Subscription | AUM + per-tx | AUM ベース | AUM + per-tx | AUM + per-tx + 月額 | 銀行カストディ料金体系 | 銀行カストディ料金体系 | AUM + per-tx | bitFlyer 課金 |
-| **AUC/AUM (概算)** | 非公表 | 非公表 | $10T+ 累積取引高 (550M ウォレット) | $200B+ | 非公表 | 非公表 | 非公表 | (親会社 BK = $50T total) | (親会社 STT = $49-53T total) | 非公表 | bitFlyer 内 |
+| **AUC/AUM (概算)** | 非公表 | 非公表 | $10T+ 累積取引高 (550M ウォレット) | $200B+ | 非公表 | 非公表 | 非公表 | (parent BK = $50T total) | (parent STT = $49-53T total) | 非公表 | bitFlyer 内 |
 | **設立国** | 日本 | Jersey (英属領) | 米 (R&D イスラエル) | 米 | 米 | 米 | 米 | 米 | 米 | 米 | 日本 |
 | **VC バリュエーション** | (非上場) | Series B 2025-01 リード Blockstream | $8B (2022-01 Series E) | (Coinbase 公開) | (Fidelity 私募) | $3B (Series D 2021) | $1.75B (Series C 2023) | (BNY 公開) | (STT 公開) | 非公表 | (非公開) |
 | **代表事例** | みずほ証券 ST 実証 + 三菱 UFJ 信託 SC 開発 + 大和証券 ST | UAE 政府 + 英国警察 + Bitcoin ETP + OKX Connect | BlackRock 元 PM 顧問 + Western Union USDPT + Mitsui MDC | BlackRock IBIT + ARK 21Shares ETF | FBTC ETF | 連邦規制金融機関多数 | ETF 受託 + 三井物産 MDC | 機関 BTC/ETH | 米国機関 | PolySign 投資先 | FTX 破綻後 100% 返金 |
@@ -180,7 +180,7 @@ translated_at: 2026-06-02T12:19:04.213Z
 
 特徴: AUC/A $50T 級の伝統 custody バンク × デジタル資産。年金・SWF・財団の信認 floor を提供。日本では国内デジタル資産業務未稼働だが、機関の海外暗号資産配分時の receiver として機能。
 
-## 境界事例
+## 境界ケース
 
 ### B1. Komainu の「B2B vendor vs Qualified Custodian」境界
 
@@ -275,7 +275,7 @@ translated_at: 2026-06-02T12:19:04.213Z
 - Anchorage Digital が 2021-01 米国唯一の OCC Federal Trust 取得後、Circle が 2025 に追随。
 - 連邦監督対象金融機関 (大手商業銀行・年金) の暗号資産 / SC 利用拡大の前提整備が進む。日本にも将来的影響大。
 
-## 関連項目
+## 関連
 
 - [[exchanges/INDEX|exchanges index]]
 - [[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ 5 本柱]]
@@ -303,8 +303,8 @@ translated_at: 2026-06-02T12:19:04.213Z
 ## 出典
 
 - Ginco 会社概要: https://www.ginco.co.jp/company/outline
-- Komainu 会社概要: https://komainu.com/about/
-- Fireblocks 会社概要: https://www.fireblocks.com/about/
+- Komainu About: https://komainu.com/about/
+- Fireblocks About: https://www.fireblocks.com/about/
 - BitGo: https://www.bitgo.com/
 - Anchorage Digital: https://www.anchorage.com/
 - Coinbase Custody: https://www.coinbase.com/custody

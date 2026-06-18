@@ -1,59 +1,59 @@
 ---
 source: exchanges/korea-cex-five-pillars-comparison
-source_hash: 370eab60b01cc621
+source_hash: a2557d583b9505f2
 lang: zh
 status: machine
 fidelity: ok
 title: "韩国 5 大 CEX 制度比较 — Upbit / Bithumb / Coinone / Korbit / GOPAX"
-translated_at: 2026-05-31T06:16:15.666Z
+translated_at: 2026-06-18T23:33:48.357Z
 ---
 
 # 韩国 5 大 CEX 制度比较 — Upbit / Bithumb / Coinone / Korbit / GOPAX
 
 ## 韩国制度概要
 
-韩国通过**特定金融信息法（특정금융정보법，2021-03-25施行）**确立了**虚拟资产事业者（VASP / VA-OP，가상자산사업자）**注册制度。注册的 2 项必要条件：**(a) KISA（韩国互联网振兴院）的 ISMS 认证** + **(b) 与国内银行签订实名账户合约（실명확인 입출금 계정）**。同时满足两项条件后向**金融信息分析院（FIU，韩国版 FinCEN）**完成注册的交易所，方可提供 **KRW 交易对（KRW 现货市场）**。截至 2026 年，可进行 KRW 交易的仅有以下 **5 社家**。仅提供代币交易的交易所（代表：GDAC 等）即使已完成注册，也不支持 KRW 对。
+韩国通过 **特定金融信息法（특정금융정보법，2021-03-25 施行）** 成立了 **虚拟资产事业者（VASP / VA-OP，가상자산사업자）** 登记制度。登记的 2 项要件：**(a) KISA（Korea Internet & Security Agency）的 ISMS 认证** + **(b) 与国内银行的实名账户合同（실명확인 입출금 계정）**。只有满足两项要件并能在 **金融信息分析院（FIU，韩国版 FinCEN）** 完成登记的交易所，才可提供 **KRW 交易对（KRW spot market）**。截至 2026 年，可进行 KRW 交易的仅为下列 **5 社家**。仅限币种（coin-only）的交易所（代表：GDAC 等）即便已登记也不支持 KRW 交易对。
 
-## 5 强档案
+## 5 强概况
 
-| 交易所 | 母公司 | 创立 | 韩国现货市场份额 | 特征 |
+| 交易所 | 母公司 | 设立 | 韩国 spot 份额 | 特征 |
 |---|---|---|---|---|
-| **Upbit** | Dunamu（Kakao 系） | 2017-10 | **~70%**（压倒性第一） | 韩国最大，跻身全球 top 10 ，与 Kakao Bank 签订实名账户合约 |
-| **Bithumb** | Bithumb Korea | 2014-01 | ~25%（2 位） | 元老级最大交易所，**IPO 计划于 2026 进行中**（预计 KOSDAQ 上市），与 NH 农协银行签约 |
-| **Coinone** | Coinone | 2014-08 | ~3%（中等规模） | 2014 创立，与 Carrot Banking 系签订实名账户，独立系 |
-| **Korbit** | NHN（Naver 子公司） | 2013-07 | ~2% | **韩国首家 CEX**（2013），NHN PAYCO 系列，与新韩银行签约 |
-| **GOPAX** | Streami → Binance Korea | 2017-11 | ~1%（5 位） | 前身 Streami，**Binance 2023-02 取得过半数股份** → 韩国 FIU 抗议后部分后退（Binance 表决权稀释） |
+| **Upbit** | Dunamu（Kakao 系） | 2017-10 | **~70%**（压倒性首位） | 韩国最大，跻身全球 top 10 ，与 Kakao Bank 签实名账户合同 |
+| **Bithumb** | Bithumb Korea | 2014-01 | ~25%（2 位） | 老牌最大手，**IPO 计划 2026 推进中**（设想 KOSDAQ），与 NH农协银行签约 |
+| **Coinone** | Coinone | 2014-08 | ~3%（中坚） | 2014 设立，Carrot Banking 系的实名账户，独立系 |
+| **Korbit** | NHN（Naver 子公司） | 2013-07 | ~2% | **韩国首家 CEX**（2013），NHN Payco 系列，与 Shinhan 银行签约 |
+| **GOPAX** | Streami → Binance Korea | 2017-11 | ~1%（5 位） | 旧 Streami，**Binance 2023-02 取得过半数股权** → 因韩国 FIU 抗议而部分后退（Binance 表决权稀释） |
 
-## 实名账户银行合约（실명확인 입출금 계정）
+## 实名账户银行合同（실명확인 입출금 계정）
 
-韩国 5 大银行系列与 1 家交易所 1 家银行的原则：
-- **KB 国民 / 新韩 / NH 农协 / 韩亚 / 友利**是国内 5 大银行。
-- 无法接入的交易所**不得提供 KRW 现货交易** → 成为撤退原因（过去众多中小交易所因此条件被淘汰）
-- 银行方因须承担 AML/CFT 责任而消极签约 → 新进入者面临的高壁垒
+韩国 5 大银行系列的 1 交易所 1 银行原则：
+- **KB Kookmin / Shinhan / NH农协 / Hana / Woori** 为国内 5 大银行。
+- 无法接入的交易所 **不可经办 KRW spot** → 成为撤退因素（过去众多中小交易所因该要件被淘汰）。
+- 银行方因需承担 AML/CFT 责任而对签约消极 → 新进入的高壁垒。
 
 ## ISMS-CASP 认证
 
-**KISA** 负责审计的信息安全管理体系认证。
-- **基本 ISMS**：所有 VASP 必须。
-- **强化 ISMS-P**（个人信息）：交易量**超过 100 億韩元**的事业者须取得。
-- 每年进行更新审计，存在缺陷时可能被注销注册。
+由 **KISA** 审计的信息安全管理体系认证。
+- **基本 ISMS**：所有 VASP 必须具备。
+- **强化 ISMS-P**（Personal info）：交易额 **超 100 億韩元** 的事业者需要。
+- 设有年度更新审计，存在不合规时被注销登记的可能性。
 
 ## 国际比较
 
 | 项目 | 韩国 | 日本 | 美国 |
 |---|---|---|---|
-| 主要监管机构 | **FSC/FIU 单一** | FSA + [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 双重监督 | 州 + 联邦多重（NYDFS / SEC / CFTC / FinCEN） |
-| 注册制度 | [[exchanges/jp-vasp-regulatory-timeline|VASP 登録]]（2021-） | [[exchanges/fsa-vasp-registration-system|FSA VASP 登録]]（2017-） | MSB + 州 BitLicense |
-| 认证 | KISA ISMS | 金融厅检查 + JVCEA 自律规制 | 各州 |
-| 实名账户要求 | **强制 1:1 银行合约** | 推荐与银行签约但非强制 | 银行合约自由 |
+| 主监管机构 | **FSC/FIU 单一** | FSA + [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 双重监督 | 州+联邦多重（NYDFS / SEC / CFTC / FinCEN） |
+| 登记制度 | [[exchanges/jp-vasp-regulatory-timeline|VASP 登録]]（2021-） | [[exchanges/fsa-vasp-registration-system|FSA VASP 登録]]（2017-） | MSB + 州 BitLicense |
+| 认证 | KISA ISMS | 金融厅检查 + JVCEA 自律 | 各州不同 |
+| 实名账户要件 | **强制 1:1 银行合同** | 推荐银行合同但非必须 | 银行合同自由 |
 
-韩国以**单一监管机构 + 强制实名账户**制度性地形成了 5 社寡头垄断格局，这与日本的 [[fintech/japan-financial-regulation|二重監督モデル]] 及美国的多重牌照模式均不同。
+韩国以 **单一监管机构 + 实名账户强制** 在制度上造就了 5 社寡占，这一点既不同于日本的 [[fintech/japan-financial-regulation|二重監督モデル]]，也不同于美国的多重牌照模式。
 
-## Related
+## 相关
 
 - [[exchanges/global-cex-top10-comparison]] — Upbit 跻身全球 top 10 
 - [[exchanges/fsa-vasp-registration-system]] — 日本制度比较
-- [[exchanges/jvcea-self-regulatory-overview]] — 日本自律规制对比
+- [[exchanges/jvcea-self-regulatory-overview]] — 日本自律规则对照
 - [[fintech/japan-financial-regulation]] — 日本金融监管全貌
 
-来源：FSC（금융위원회）/ KISA 公告，韩国主要媒体（KBS / Korea Herald / 코인데스크 코리아），各公司官方 IR
+来源: FSC（금융위원회）/ KISA 公告，韩国主要媒体（KBS / Korea Herald / 코인데스크 코리아），各公司官方 IR

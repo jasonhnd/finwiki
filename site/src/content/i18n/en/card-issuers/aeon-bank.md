@@ -1,146 +1,146 @@
 ---
 source: card-issuers/aeon-bank
-source_hash: 1552bc3f7d44337c
+source_hash: c082123a745510f9
 lang: en
 status: machine
 fidelity: ok
-title: "Aeon Bank / Aeon Financial Service"
-translated_at: 2026-05-31T11:13:44.914Z
+title: "Aeon Bank / Aeon Financial Service (Aeon Bank / AFS)"
+translated_at: 2026-06-18T23:33:48.282Z
 ---
-# Aeon Bank / Aeon Financial Service
+# Aeon Bank / Aeon Financial Service (Aeon Bank / AFS)
 
-## Wiki Route
+## Wiki route
 
-This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[regional-banks/seven-bank|Seven Bank]] for retail-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[regional-banks/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Aeon Bank is the representative Japanese retailer-affiliated bank. Aeon Co., Ltd. sits at the top of the retail group; the listed intermediate holding company **Aeon Financial Service Co., Ltd.** (TSE PRIME 8570) owns **100% of Aeon Bank** and manages consumer-finance subsidiaries across seven Asian markets. The model combines **branches inside Aeon malls and roughly 6,500-plus ATMs**, **Aeon Card, WAON e-money, and Aeon housing loans**, and **Asian consumer-finance subsidiaries in Thailand, Malaysia, Hong Kong, and other markets**. Compared with Seven Bank and Lawson Bank, Aeon Bank is not merely an ATM-centered retail-bank model; it is a three-layer structure of full-service banking, credit cards, and Asian consumer finance.^[extracted]
+**The leading example of a distribution-affiliated bank**. With the general-merchandise-store [[retail/aeon-group]] Aeon Co., Ltd. standing at the apex, the intermediate holding company **Aeon Financial Service (AFS, TSE PRIME 8570)** bundles **Aeon Bank 100%** and an **Asian consumer-finance network across 7  countries**. **Stores = branches inside Aeon Mall + station-front ATMs of around 6,500  units**, **products = Aeon Card (top-ranked by domestic issuance volume) + WAON electronic money + Aeon mortgages**, **overseas = a group of Asian consumer-finance subsidiaries in Thailand, Malaysia, Hong Kong, etc.** It is a distribution-affiliated 3 -bank sibling alongside [[regional-banks/seven-bank]] / [[regional-banks/lawson-bank]], but unlike the ATM-single-function 7  Bank / Lawson Bank, it is a **3 -story model** of "universal bank + credit card + Asia." ^[extracted]
 
-## 1. Company Profile
+## 1. Company overview
 
-**Legal name**: Aeon Bank, Ltd.^[extracted]
-**Established**: 2006-10-03^[extracted]
-**Opened for business**: 2007-10-29^[extracted]
-**Head office**: Koto-ku, Tokyo^[extracted]
-**Parent**: Aeon Financial Service Co., Ltd., a 100% consolidated parent entity^[extracted]
-**Ultimate parent**: Aeon Co., Ltd. (major Japanese retailer, TSE PRIME 8267)^[extracted]
+**Formal name**: Aeon Bank, Ltd. ^[extracted]
+**Established**: 2006-10-03 ^[extracted]
+**Launched**: 2007-10-29 ^[extracted]
+**Head office**: Koto-ku, Tokyo ^[extracted]
+**Parent company**: **Aeon Financial Service Co., Ltd. (100% consolidated subsidiary)** ^[extracted]
+**Ultimate parent**: Aeon Co., Ltd. (largest distribution player, TSE PRIME 8267) ^[extracted]
 
-### Aeon Financial Service as Intermediate Holding Company
+### Aeon Financial Service (AFS) — intermediate holding company
 
-**Legal name**: Aeon Financial Service Co., Ltd.^[extracted]
-**Ticker**: TSE PRIME **8570**^[extracted]
-**Established**: 1981-06-20, originally Jusco Credit^[extracted]
-**Current structure**: On 2013-04-01, Aeon Credit Service changed its name to Aeon Financial Service, shifted into a holding-company structure, and made Aeon Bank a wholly owned subsidiary.^[extracted]
-**Head office**: Chiyoda-ku, Tokyo^[extracted]
+**Formal name**: Aeon Financial Service Co., Ltd. ^[extracted]
+**Securities code**: TSE PRIME **8570** ^[extracted]
+**Established**: 1981-06-20 (former Jusco Credit) ^[extracted]
+**Current structure**: 2013-04-01 Aeon Credit Service → renamed **Aeon Financial Service**, simultaneously converting to a holding company and making Aeon Bank a 100% subsidiary ^[extracted]
+**Head office**: Chiyoda-ku, Tokyo ^[extracted]
 
-### Group Structure
+### Group structure (overview)
 
-```text
-Aeon Co., Ltd. (8267; major Japanese retailer)
-        |-- Aeon Bank, Ltd. (100%) -- commercial bank, Aeon mall branches, and ATMs
-        |-- Aeon Allianz Life Insurance (joint venture with Allianz) -- life insurance
-        |-- Aeon Insurance Service -- in-store insurance shops
-        |-- AEON Thana Sinsap (Thailand) PCL -- Thai consumer finance, SET-listed
-        |-- AEON Credit Service (M) Bhd -- Malaysian consumer finance, Bursa-listed
-        |-- AEON Credit Service (Asia) Co., Ltd. -- Hong Kong consumer finance, HKEX-listed
-        |-- AEON Microfinance (Cambodia)
-        |-- PT AEON Credit Service Indonesia
-        |-- Vietnam and Myanmar subsidiaries under phased development
-        |-- Aeon Financial shared-service subsidiaries for systems and receivables servicing
+```
+Aeon Co., Ltd. (8267,  largest distribution player)
+        ├── Aeon Bank, Ltd. (100%) ── commercial bank / branches inside Aeon Mall + ATMs
+        ├── Aeon Allianz Life Insurance (JV with Allianz) ── life insurance
+        ├── Aeon Insurance Service ── walk-in insurance shops
+        ├── AEON Thana Sinsap (Thailand) PCL ── Thai consumer finance (SET listed)
+        ├── AEON Credit Service (M) Bhd ── Malaysian consumer finance (Bursa listed)
+        ├── AEON Credit Service (Asia) Co., Ltd. ── Hong Kong consumer finance (HKEX listed)
+        ├── AEON Microfinance (Cambodia) ── Cambodia
+        ├── PT AEON Credit Service Indonesia ── Indonesia
+        ├── Vietnam / Myanmar subsidiaries ── phased rollout
+        └── Aeon Financial-affiliated shared subsidiaries (systems / debt collection, etc.)
 ```
 
-### Key Subsidiaries and Related Entities
+### Key subsidiaries / affiliates
 
-- **Aeon Bank**: commercial-banking core, with staffed branches inside Aeon malls, ATMs in Aeon stores, and an emphasis on direct housing-loan sales.^[extracted]
-- **Aeon Allianz Life**: Allianz joint venture using in-store distribution channels.^[extracted]
-- **AEON Thana Sinsap (Thailand)**: SET-listed Thai business and the largest overseas AFS subsidiary.^[extracted]
-- **AEON Credit Service (Asia) / AEON Credit Service (M)**: listed local subsidiaries in Hong Kong and Malaysia.^[extracted]
+- **Aeon Bank**: the commercial-bank core. Stores = staffed branches inside Aeon Mall + ATMs inside Aeon stores. Strengthening direct mortgage sales. ^[extracted]
+- **Aeon Allianz Life**: JV with Germany's Allianz, walk-in sales channel ^[extracted]
+- **AEON Thana Sinsap (Thailand)**: listed on Thailand's SET, the largest overseas AFS subsidiary in Southeast Asia ^[extracted]
+- **AEON Credit Service (Asia) / (M)**: locally listed in Hong Kong and Malaysia respectively ^[extracted]
 
-## 2. Business Segment Map
+## 2. Business segment map
 
-| Segment | Main operator | Characteristics |
+| Segment | Main operators | Characteristics |
 |---|---|---|
-| Domestic commercial banking | Aeon Bank | Branches inside Aeon malls, 6,855 ATMs as of 2025-03-31 across all 47 prefectures, and strengthened direct housing-loan sales |
-| E-money | WAON, within the Aeon group | Retailer-affiliated electronic money linked with Aeon Bank accounts |
-| Life insurance | Aeon Allianz Life | In-store distribution |
-| Non-life insurance agency | Aeon Insurance Service | In-store insurance-shop format |
-| Overseas consumer finance, Thailand | AEON Thana Sinsap PCL, SET-listed | Largest overseas subsidiary |
-| Overseas consumer finance, Hong Kong | AEON Credit Service (Asia), HKEX-listed | Longstanding local subsidiary |
+| Commercial bank (domestic) | Aeon Bank | Branches inside Aeon Mall + 6,855  ATMs (2025-03-31, 47  prefectures nationwide), strengthening direct mortgage sales |
+| Electronic money | WAON (Aeon group) | Distribution-affiliated electronic money, linked with Aeon Bank accounts |
+| Life insurance | Aeon Allianz Life (JV) | Walk-in sales |
+| Non-life insurance / agency | Aeon Insurance Service | Walk-in insurance shops |
+| Overseas consumer finance (Thailand) | AEON Thana Sinsap PCL (SET listed) | Largest overseas subsidiary |
+| Overseas consumer finance (Hong Kong) | AEON Credit Service (Asia) (HKEX listed) | Long-established, the oldest in the region |
 
 ## 3. History
 
-| Date | Event |
+| Year/month | Event |
 |---|---|
-| 1981-06 | Jusco Credit established, predecessor of the current AFS group.^[extracted] |
-| 2001 | Renamed Aeon Credit Service as Jusco consolidated under the Aeon group brand.^[extracted] |
-| **2006-10-03** | **Aeon Bank, Ltd. established.**^[extracted] |
-| **2007-10-29** | **Aeon Bank opened for business**, becoming a representative retailer-affiliated bank.^[extracted] |
-| **2013-04-01** | **Aeon Credit Service renamed Aeon Financial Service**, shifted to a holding-company structure, and made Aeon Bank a wholly owned subsidiary.^[extracted] |
-| 2013 onward | Asian consumer-finance subsidiaries were reorganized under AFS while retaining local listings.^[extracted] |
-| 2020-03-31 | AFS acquired 60% of Allianz Life Insurance Japan, which became Aeon Allianz Life Insurance on 2020-05-01. |
-| 2025 | Aeon Allianz Life was transferred to Meiji Yasuda Life; Meiji Yasuda acquired roughly 85% on 2025-07-01, followed by the planned 2025-10-01 rename to Meiji Yasuda Trust Life Insurance. |
+| 1981-06  | Jusco Credit established (former Jusco-affiliated / predecessor of the current AFS) ^[extracted] |
+| 2001  | Renamed Aeon Credit Service (Jusco → integration into the Aeon group brand) ^[extracted] |
+| **2006-10-03** | **Aeon Bank, Ltd. established** ^[extracted] |
+| **2007-10-29** | **Aeon Bank launched** (leading case of a distribution-affiliated bank) ^[extracted] |
+| **2013-04-01** | **Aeon Credit Service → renamed Aeon Financial Service / converted to holding company, making Aeon Bank a 100% subsidiary** ^[extracted] |
+| 2013~ | Asian consumer-finance subsidiary group consolidated under AFS, maintaining local listings ^[extracted] |
+| 2020-03-31 | AFS acquired the shares 60% of Allianz Life Insurance → renamed 2020-05-01 "Aeon Allianz Life Insurance" |
+| 2025  | Aeon Allianz Life transferred to Meiji Yasuda Life (2025-07-01 Meiji Yasuda acquired approximately 85% → renamed 2025-10-01 "Meiji Yasuda Trust Life Insurance") |
 
-### Retailer-Affiliated Bank Model
+### Distribution-affiliated bank model (differentiation axis)
 
-- **Aeon malls as the branch network**: staffed branches and ATMs are embedded into shopping traffic at Aeon malls nationwide.^[extracted]
-- **6,855 ATMs as of 2025-03-31**: the network is smaller than Seven Bank's roughly 27,000 ATMs and Lawson Bank's roughly 13,000 ATMs, but it is concentrated inside Aeon retail sites.
-- **Housing-loan focus**: Aeon housing and direct sales use the mall footprint as a customer-acquisition channel.
+- **Aeon Mall = store network**: staffed branches + ATMs inside several hundred Aeon Malls nationwide, integrated with the shopping flow ^[extracted]
+- **6,855  ATMs (2025-03-31)**: a distribution-affiliated ATM network including Aeon stores, Ministop, etc. (mid-scale compared with [[regional-banks/seven-bank]]'s approximately 27,000  units and [[regional-banks/lawson-bank]]'s approximately 13,000  units, but concentrated within its own malls)
+- **Mortgage strengthening**: Aeon Housing + direct sales. Drawing customers in via the store flow
 
-### Asian Consumer Finance as a Second Pillar
+### Asian consumer finance as the 2  axis
 
-- AFS maintains local listed subsidiaries in **Thailand**, **Malaysia**, and **Hong Kong**, a rare structure for a Japanese retail-finance group.
-- It also has phased operations in **Cambodia, Indonesia, Vietnam, and Myanmar**.
+- A rare structure maintaining **local listings in 3  countries**: **Thailand** (AEON Thana Sinsap PCL, SET listed), **Malaysia** (Bursa listed), and **Hong Kong** (HKEX listed)
+- In addition, phased rollout in **Cambodia / Indonesia / Vietnam / Myanmar**
 
-### Competitive Environment
+### Competitive environment
 
-- **Retailer-affiliated bank trio**: Seven Bank is ATM-specialized under Seven & i; Lawson Bank is a later entrant linked with KDDI and ATMs; Aeon Bank is the only one with the full combination of banking, credit cards, and international consumer finance.
-- **Internet banks**: [[megabanks/sony-fg|Sony Financial Group]], Rakuten Bank, and Sumishin SBI Net Bank compete in housing-loan pricing.
-- **Retail e-money**: WAON competes with nanaco, Rakuten Edy, and PayPay.
-- **Credit cards**: Aeon Card competes with Rakuten Card, PayPay Card, and [[card-issuers/jcb|JCB]].
-- **Asian consumer finance**: AFS competes with Acom Easy Buy in Thailand, Orico, and local consumer-finance firms.
+- **Distribution-affiliated bank 3  siblings**: [[regional-banks/seven-bank]] (7&i / specialized in ATM single function) / [[regional-banks/lawson-bank]] (KDDI partnership / ATM + late-entrant retail) / Aeon Bank (universal bank + credit card + Asia) — **only Aeon Bank is fully equipped with "universal bank + international expansion"**
+- **Net banks**: [[megabanks/sony-fg]] / Rakuten Bank / SBI Sumishin Net Bank — competing on mortgage rate competition
+- **Distribution-affiliated electronic money**: WAON vs nanaco (7&i) vs Rakuten Edy vs PayPay
+- **Credit cards**: Aeon Card vs Rakuten Card vs PayPay Card vs [[card-issuers/jcb]]
+- **Asian consumer finance**: competing with Acom Easy Buy (Thailand) / Orico / local players
 
-### B2C Branding
+### B2C branding
 
-- Unified Aeon group brand architecture under the Aeon retail identity.
-- Aeon Card member rewards and WAON point linkage.
-- Aeon mall traffic serves as an advertising and sales channel.
+- Aeon group integrated brand (the "Aeon" magenta logo)
+- **Tokimeki Points** for Aeon Card members, linked with WAON points
+- The Aeon Mall customer flow serves as an advertising / sales channel
 
-## 5. Regulation and Policy
+## 5. Regulation / policy
 
-- **Supervisor**: Financial Services Agency; Aeon Bank holds an ordinary bank license.^[extracted]
-- **AFS listing**: Aeon Financial Service is listed on TSE PRIME under ticker 8570 and discloses under the Financial Instruments and Exchange Act.^[extracted]
-- **Current policy themes**:
-  - Bank of Japan policy-rate normalization and its effect on domestic deposit-loan spreads.
-  - Cashless-payment share competition among WAON, PayPay, and other payment ecosystems.
+- **Competent authority**: Financial Services Agency (FSA) — Aeon Bank holds an ordinary-bank license ^[extracted]
+- **AFS is listed on TSE PRIME (8570)**: disclosure on a Financial Instruments and Exchange Act basis ^[extracted]
+- **Recent policy themes** (general):
+  - BoJ policy-rate normalization → improvement of the domestic deposit-loan margin
+  - Battle for cashless-payment share (WAON vs PayPay, etc.)
 
 ## 6. Counterpoints
 
-> Subjective counterarguments concerning ATM scale, relative weakness, and the profitability of direct housing-loan sales are isolated in `.opinions/JapanFG/aeon-bank.md` as of 2026-05-29.
+> Subjective counterpoints (views on the inferiority of ATM scale / debates on the profitability of direct mortgage sales) are isolated in `.opinions/JapanFG/aeon-bank.md` (2026-05-29).
 
-## 7. Open Questions
+## 7. Open questions
 
-- What is the profit mix between Aeon Bank and Asian consumer finance within AFS consolidated results, and how does it map to the medium-term plan?
-- How should Aeon Card plus WAON position itself against PayPay and Rakuten inside the cashless-payment ecosystem?
-- In digital banking, can Aeon Bank differentiate against internet-only banks through store traffic alone?
+- What is the revenue-composition ratio of **Aeon Bank vs Asian consumer finance** in the AFS consolidation? What are the medium-term-plan targets?
+- The position of **Aeon Card + WAON** within the cashless camp — what is the competitive strategy against PayPay / Rakuten?
+- **Digital banking** strategy — is the differentiation axis against net-only banks ([[megabanks/sony-fg]] / Rakuten) only the store flow?
 
 ## 8. Related
 
-- [[regional-banks/seven-bank]] · [[regional-banks/lawson-bank]] -- retailer-affiliated bank peers
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- megabank comparison
-- [[megabanks/sony-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] -- retail digital bank and FG comparison
-- [[card-issuers/jcb]] -- domestic credit-card comparison
+- [[regional-banks/seven-bank]] · [[regional-banks/lawson-bank]] ── distribution-affiliated bank 3  siblings
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── megabank comparison
+- [[megabanks/sony-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] ── personal digital banks / FG comparison
+- [[card-issuers/jcb]] ── domestic credit-card comparison
 
 ## Sources
 
-- Wikipedia: Aeon Bank, extracted 2026-05-19.
-- Wikipedia: Aeon Financial Service, extracted 2026-05-19.
-- Aeon Financial Service official IR and securities reports, TSE PRIME 8570.
-- AEON Thana Sinsap (Thailand) PCL official disclosures, SET.
-- AEON Credit Service (Asia) Co., Ltd. official disclosures, HKEX.
-- AEON Credit Service (M) Bhd official disclosures, Bursa Malaysia.
-- Aeon Bank Disclosure 2025, including 6,855 ATMs as of 2025-03-31: https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf
-- Aeon Allianz Life Insurance history for the 2020 acquisition and 2025 rename sequence.
+- **Wikipedia: Aeon Bank, Ltd.** (https://ja.wikipedia.org/wiki/株式会社イオン銀行, extracted 2026-05-19)
+- **Wikipedia: Aeon Financial Service** (https://ja.wikipedia.org/wiki/イオンフィナンシャルサービス, extracted 2026-05-19)
+- Aeon Financial Service official IR / securities report (published portions, TSE PRIME 8570)
+- AEON Thana Sinsap (Thailand) PCL official (SET)
+- AEON Credit Service (Asia) Co., Ltd. official (HKEX)
+- AEON Credit Service (M) Bhd official (Bursa Malaysia)
+- Aeon Bank disclosure magazine 2025 (6,855  ATMs / 2025-03-31) — https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf
+- Aeon Allianz Life Insurance history (AFS acquired 60% in 2020-03-31 → renamed 2020-05-01 / transferred to 2025-10-01 Meiji Yasuda Trust Life) — https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険
 
 ---
 

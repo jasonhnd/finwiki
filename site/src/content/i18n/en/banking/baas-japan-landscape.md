@@ -1,28 +1,28 @@
 ---
 source: banking/baas-japan-landscape
-source_hash: 59004eaed7a6ecaf
+source_hash: 5483848c42f6a179
 lang: en
 status: machine
 fidelity: ok
 title: "Japan BaaS landscape"
-translated_at: 2026-05-30T18:10:53.980Z
+translated_at: 2026-06-18T23:33:48.303Z
 ---
 
 # Japan BaaS landscape
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/minna-bank-baas-model|Minna Bank BaaS model]] for peer context and [[banking/cooperative-banking-japan|cooperative banking in Japan]] for the broader system and regulatory boundary.
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/minna-bank-baas-model|みんなの銀行 BaaS model]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Japan's BaaS market is not a single "bank API product." It splits into at least four models: API provision, partner branches, banking-agent or white-label account acquisition, and narrow BaaS focused on payments, account transfers, and instant deposits. [[banking/minna-bank-baas-model|Minna Bank]] is the embedded-BaaS case for B2C applications; [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] is closer to corporate API and embedded finance; [[regional-banks/ssnb|Sumishin SBI Net Bank]] is best compared through the NEOBANK model.
+Japan's BaaS is not a single "bank API product." It splits into at least 4  types: API provision, partner branches, banking-agency / white-label-style account acquisition, and the narrow BaaS specialized in payment, account transfer, and instant deposit. [[banking/minna-bank-baas-model|みんなの銀行]] is compared as embedded BaaS for B2C apps, [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] as corporate / API / embedded-finance leaning, and [[regional-banks/ssnb|住信SBIネット銀行]] as the NEOBANK type.
 
 ## Landscape map
 
 | Type | What is embedded | Main value | Typical examples |
 |---|---|---|---|
-| API-provided banking | Account information, account transfer, payment instruction | External app UX improvement | Minna Bank API-provision model, [[banking/quick-deposit-four-methods|OAuth quick deposit]] |
+| API-provided banking | Account information, account transfer, payment instruction | External app UX improvement | みんなの銀行 API提供モデル, [[banking/quick-deposit-four-methods|OAuth quick deposit]] |
 | Partner branch | Branded branch / account experience | Partner brand + banking relationship | [[banking/mercari-bank|Mercari Bank]], pixiv branch, DMM branch |
 | NEOBANK / white-label bank | Bank account opened under partner proposition | Fuller embedded banking | [[regional-banks/ssnb|SSNB]] / NEOBANK type models |
 | Corporate API bank | Business account, payment, transfer, accounting integration | SME / SaaS / platform operation | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] adjacency |
@@ -35,7 +35,7 @@ The Japan-specific constraint is that UX and legal status do not move together. 
 
 ## Why Minna Bank matters
 
-Minna Bank is a clean case because it publicly frames BaaS as "+ finance" and separates the API-provision model from the partner-branch model. Its partner list also shows BaaS moving beyond pure finance into creative marketplaces, HR, retail, insurance, FX, entertainment, and C2C commerce.
+みんなの銀行 is a clean case because it publicly frames BaaS as「+金融」and separates API提供モデル from パートナー支店モデル. Its partner list also shows BaaS moving beyond pure finance into creative marketplaces, HR, retail, insurance, FX, entertainment, and C2C commerce.
 
 The 2025-12 Mercari launch is especially important because Mercari has a large wallet / sales-proceeds context. If BaaS can turn non-bank balances into bank deposits with low friction, BaaS becomes more than a referral channel.
 
@@ -61,7 +61,7 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 
 ## Sources
 
-- Minna Bank: Minna no BaaS official service page.
-- FFG IR Day, 2025-09-08: Minna Bank business strategy.
-- Minna Bank: partner-service and BaaS overview.
-- Financial Services Agency: list of licensed, permitted, and registered operators.
+- みんなの銀行: みんなのBaaS official service page.
+- FFG IR Day, 2025-09-08: みんなの銀行の事業戦略.
+- みんなの銀行: 提携サービス / BaaS overview.
+- 金融庁: 免許・許可・登録等を受けている事業者一覧.

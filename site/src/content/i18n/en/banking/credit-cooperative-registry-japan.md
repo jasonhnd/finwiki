@@ -1,11 +1,11 @@
 ---
 source: banking/credit-cooperative-registry-japan
-source_hash: 6cf80b8ee82b414a
+source_hash: 788abf6c3219bd0d
 lang: en
 status: machine
 fidelity: ok
 title: "Japan credit cooperative registry"
-translated_at: 2026-05-30T18:10:53.982Z
+translated_at: 2026-06-18T23:33:48.327Z
 ---
 
 # Japan credit cooperative registry
@@ -23,11 +23,11 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 | Item | Value |
 | --- | --- |
-| FSA as-of date | As of 2026-02-20 |
+| FSA as-of date | as of 令和8年2月20日 |
 | Central institution | [[cooperative-banks/zenshin-kumi]] |
 | Central rows in workbook | 1 |
 | Licensed credit cooperatives | 143 |
-| Legal / institutional route | Small and Medium-Sized Enterprise Cooperatives Act / Act on Financial Businesses by Cooperatives |
+| Legal / institutional route | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
 | Wiki treatment | Registry index; standalone pages only for central institutions or strategically material exceptions |
 
 ## 2. Coverage decision
@@ -39,22 +39,22 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 ## 3. Supervisory-bureau count
 
-| Supervisory bureau | Credit cooperative count |
+| Supervisory bureau | 信用組合 count |
 | --- | --- |
-| Chugoku Local Finance Bureau | 10 |
-| Kyushu Local Finance Bureau | 7 |
-| Hokkaido Local Finance Bureau | 7 |
-| Hokuriku Local Finance Bureau | 6 |
-| Shikoku Local Finance Bureau | 3 |
-| Tohoku Local Finance Bureau | 15 |
-| Tokai Local Finance Bureau | 15 |
-| Fukuoka Local Finance Branch Bureau | 10 |
-| Kinki Local Finance Bureau | 21 |
-| Kanto Local Finance Bureau | 49 |
+| 中国財務局 | 10 |
+| 九州財務局 | 7 |
+| 北海道財務局 | 7 |
+| 北陸財務局 | 6 |
+| 四国財務局 | 3 |
+| 東北財務局 | 15 |
+| 東海財務局 | 15 |
+| 福岡財務支局 | 10 |
+| 近畿財務局 | 21 |
+| 関東財務局 | 49 |
 
 ## 4. Prefecture count
 
-| Prefecture | Credit cooperative count |
+| Prefecture | 信用組合 count |
 | --- | --- |
 | 三重県 | 1 |
 | 京都府 | 1 |
@@ -298,16 +298,16 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[cooperative-banks/zenshin-kumi|National Federation of Credit Cooperatives]]
+- [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## Sources
 
 - FSA license / registration index: https://www.fsa.go.jp/menkyo/menkyo.html
-- FSA official workbook for credit cooperatives: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
+- FSA official workbook for 信用組合: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
 
 ---
 
 > [!info] Registry boundary
-> This page is complete at the official-name registry level for the FSA workbook as of 2026-02-20. It should be refreshed when the FSA workbook changes; it is not a ranking or financial-strength table.
+> This page is complete at the official-name registry level for the FSA workbook as of 令和8年2月20日. It should be refreshed when the FSA workbook changes; it is not a ranking or financial-strength table.

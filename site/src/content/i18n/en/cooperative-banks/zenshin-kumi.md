@@ -1,13 +1,14 @@
 ---
 source: cooperative-banks/zenshin-kumi
-source_hash: 9e7cf75728a1b4e9
+source_hash: d1f253889563ed04
 lang: en
 status: machine
 fidelity: ok
-title: "National Federation of Credit Cooperatives (Japan Federation of Credit Cooperatives)"
-translated_at: 2026-06-01T03:31:12.258Z
+title: "National Federation of Credit Cooperatives (Zenshinkumiren)"
+translated_at: 2026-06-18T23:33:48.310Z
 ---
-# National Federation of Credit Cooperatives (Japan Federation of Credit Cooperatives)
+
+# National Federation of Credit Cooperatives (Zenshinkumiren)
 
 ## Wiki route
 
@@ -15,132 +16,132 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-Japan's **central organization for the credit union (credit union) industry**. 1954-04  was established, and as of 2026-02-20 according to the Financial Services Agency registry, it is a cooperative financial institution whose member population is **143  Credit Union**. Along with Shinkin Central Bank [[cooperative-banks/shinkin-central]], it is part of the Chuo 2  group, but its size is approximately 1/10. The four pillars are fund management for member credit unions, surplus funds management, payment agency, system sharing center, and ATM coordination. **Credit unions = specializing in lending to small and medium-sized business association members + regional association members, membership requirements are stricter than credit unions**, and correspond to central banks. It has a regional financial safety net function. ^[extracted]
+The **central institution of Japan's credit-cooperative (shinkumi) industry**. Established 1954-04 , it is a cooperative financial institution whose member base, per the FSA registry, is **143  credit cooperatives** as of 2026-02-20. It is one wing of the "central 2  federations," alongside the Shinkin Central Bank [[cooperative-banks/shinkin-central]], but its scale is about 1/10 of the latter. Its four pillars are fund management for member shinkumi, surplus-fund management, settlement agency, a shared systems center, and ATM interconnection. **A credit cooperative = specialized in lending to SME members + regional members, with stricter membership than a credit union (shinkin)**, and this body acts as their central bank. It carries a regional-financial-safety-net function. ^[extracted]
 
-## 1. Company Profile
+## 1. Company overview
 
 **Official name**: National Federation of Credit Cooperatives ^[extracted]
-**English name**: National Federation of Credit Cooperatives (abbreviation Zenshinkumiren)
-**Established**: 1954-04  (cooperative financial institution based on the Credit Cooperative Act)
-**Based Law**: Small and Medium Enterprises Cooperatives Act + Act on Financial Business by Cooperatives (Cooperative Act)
-**Listed**: Unlisted (member = investment by credit union)
+**English name**: National Federation of Credit Cooperatives (abbreviated Zenshinkumiren)
+**Established**: 1954-04  (a cooperative financial institution under the Credit Cooperatives Act)
+**Governing law**: Small and Medium-sized Enterprise Cooperatives Act + Act on Financial Businesses by Cooperatives (the "Kyokin Act")
+**Listing**: unlisted (members = capital subscribed by credit cooperatives)
 **Headquarters**: Ichibancho, Chiyoda-ku, Tokyo 10
-**Number of members**: **143  Credit Union** (As of Financial Services Agency registry 2026-02-20)
-**Institutional Design**: Board of Representatives + Board of Directors + Board of Supervisors (Governance form of cooperative financial institutions)
+**Number of members**: **143  credit cooperatives** (as of the FSA registry 2026-02-20)
+**Institutional design**: general representatives' meeting + board of directors + board of auditors (the governance form of a cooperative financial institution)
 
-### Positioning of business type
+### Sector positioning
 
-| Central organization | Business type | Number of members (2024) | System relative size |
+| Central institution | Sector | Number of members (2024) | Relative system scale |
 |---|---|---|---|
-| [[cooperative-banks/norinchukin]] (Norinchukin Bank) | JA/JF/Mori Gumi | Approx. 5000+ | Maximum (total assets 100 兆円 scale) |
-| [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) | Shinkin Bank | 254  Shinkin Bank | Medium size (total assets approximately 40 兆円) |
-| **Zenshin Union** | **Credit Union** | **143  Credit Union** | **Small (about Shinkin Central Bank 1/10)** |
-| [[cooperative-banks/rokin-renraku|rokin-renraku]] (Labor Bank Federation) | Labor Bank | 13  Labor Bank | Small scale |
+| [[cooperative-banks/norinchukin]] (Norinchukin) | JA・JF・forestry cooperatives | approx. 5000+ | Largest (total assets on the order of 100 兆円) |
+| [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) | Credit unions (shinkin) | 254  shinkin | Medium (total assets approx. 40 兆円) |
+| **Zenshinkumiren** | **Credit cooperatives** | **143  shinkumi** | **Small (about 1/10 of the Shinkin Central Bank)** |
+| [[cooperative-banks/rokin-renraku|rokin-renraku]] (National Association of Labour Banks) | Labour banks (rokin) | 13  rokin | Small |
 
-### Characteristics of member credit unions
+### Characteristics of member shinkumi
 
-- **Credit union = Small and Medium Enterprise Cooperative Association Act + Cooperative Bank Act based, separate legal system from Shinkin Bank Act**
-- **Strict membership system**: Shinkin banks are limited to regions and occupations, but certain loans are available to non-members in their area of operation; credit unions are **as a general rule only for members** (with exceptions)
-- **3  classification**:
-  - **Regional credit union** (mostly for local union members)
-  - **Industry credit union** (Specific industry workers, e.g. Doctor's Credit Union, Metropolitan Police Department Employees Credit Union)
-  - **Occupational credit union** (members of specific companies/organizations)
-- Many **small credit unions** (Deposits size per 1  credit union: tens of billions to hundreds of billions of yen, smaller than the second regional bank)
+- **A credit cooperative = based on the SME Cooperatives Act + the Kyokin Act, a separate legal system from the Credit Union (Shinkin) Act**
+- **Strict membership**: credit unions are limited to a region / occupation but may lend to a degree to non-members in their business area; credit cooperatives are **in principle limited to members only** (with exceptions)
+- **3  classifications**:
+  - **Regional shinkumi** (the majority, serving regional members)
+  - **Industry shinkumi** (workers in a specific industry; e.g., physicians' shinkumi, Metropolitan Police staff shinkumi)
+  - **Occupational shinkumi** (those belonging to a specific company/organization)
+- Many are **small shinkumi** (deposit scale per 1  shinkumi in the hundreds of billions to several trillion yen, smaller than regional and second-tier regional banks)
 
-### 4  main pillar
+### The 4  pillars
 
 | Business | Overview |
 |---|---|
-| **Fund management for member credit unions** | Deposit surplus funds and provide loans from credit unions (central bank function) |
-| **Institutional Investment** | National bonds, local bonds, corporate bonds, stocks, and foreign currency-denominated asset management |
-| **Payment/ATM cooperation** | Domestic exchange between credit unions/**Credit union ATM network** (mutual use by member credit unions) |
-| **Cooperative Center** | **Credit Union System Cooperative Center** (integrated management of core system/accounting system IT) |
+| **Fund management for member shinkumi** | Accepting surplus-fund deposits from shinkumi and supplying loans (central-bank function) |
+| **Institutional investment** | Management of JGBs, municipal bonds, corporate bonds, equities, and foreign-currency assets |
+| **Settlement / ATM interconnection** | Inter-shinkumi domestic exchange and the **credit-cooperative ATM network** (mutual use among member shinkumi) |
+| **Shared center** | The **credit-cooperative shared systems center** (integrated operation of core / accounting-system IT) |
 
-### Credit Union System Collaboration Center
+### Credit-cooperative shared systems center
 
-- Large-scale IT investment is not possible for small and medium-sized credit unions alone → Zenshin Cooperative Union will lead joint management of core account system
-- Similar model to the Shinkin Central Bank's **Shinkin Collaborative Center**, but the Shinkin Group version is smaller in scale.
-- Individual credit unions can choose between having their own account system or joining a joint center.
+- Small and medium shinkumi cannot make large-scale IT investments on their own → Zenshinkumiren leads the joint operation of the core accounting system
+- The same model as the Shinkin Central Bank's **"Shinkin Shared Center,"** but the shinkumi version is smaller in scale
+- Individual shinkumi can choose between their own accounting system vs joining the shared center
 
-### Credit Union ATM Network
+### Credit-cooperative ATM network
 
-- Mutual member credit union **Use of ATMs with preferential fees** (Similar model to credit union ATM cooperation)
-- Collaboration with other ATMs such as Seven Bank, AEON Bank, and Japan Post Bank
-- Amid the trend of reducing the number of in-house ATMs of megabanks/regional banks, remaining as local infrastructure
+- **Fee-preferential ATM use** mutually among member shinkumi (a model similar to shinkin ATM interconnection)
+- Partnerships also with other-sector ATMs such as Seven Bank / Aeon Bank / Japan Post
+- Amid the trend of megabanks / regional banks cutting their own ATMs, it survives as regional infrastructure
 
 ## 3. History
 
 | Year | Event |
 |---|---|
-| **1953** | Small and Medium Enterprise Cooperative Association Law + Cooperative Bank Law Development (Credit Cooperative Financial Business Basis Law) |
-| **1954-04** | **National Credit Cooperative Federation established** ^[extracted] |
-| 1960~70  period | Peak number of credit unions (beyond 500  unions) — Many small credit unions in each region |
-| Late 1990 年 | Bubble burst → Non-performing loans and bankrupt credit unions continue to emerge, industry restructuring begins |
-| **2000 年 generation** | **Significant decrease in the number of credit unions** (merger/bankruptcy/business transfer) → 250 → 200 → 150 ^[extracted] |
-| 2010 年 era | Industry reorganization settled down; moved around the 140  level |
-| Late 2010 年 | FinTech / Collaborative Center Advancement |
-| **2026-02** | Check **143  Credit Union** on the Financial Services Agency registry |
+| **1953** | The SME Cooperatives Act + the Kyokin Act enacted (the basis laws for shinkumi financial business) |
+| **1954-04** | **National Federation of Credit Cooperatives established** ^[extracted] |
+| 1960s–70 s | Peak number of shinkumi (over 500  cooperatives) — many small shinkumi in each region |
+| Late 1990 年s | Bubble collapse → bad debts and a string of shinkumi failures; industry consolidation begins |
+| **2000 年s** | **Sharp decline in the number of credit cooperatives** (mergers, failures, business transfers) → 250 → 200 → 150 ^[extracted] |
+| 2010 年s | Industry reorganization settles down, hovering around 140  |
+| Late 2010 年s | Fintech / shared-center sophistication |
+| **2026-02** | **143  shinkumi** confirmed in the FSA registry |
 
-### History of rescue of failed credit unions
+### History of failed-shinkumi rescues
 
-- Late 1990 年 to early 2000 年: Many credit unions went bankrupt (Kansai Ikobank, Chogin, etc.)
-- **In collaboration with the Resolution and Collection Corporation (RCC)** Bankruptcy resolution → Focus on business transfer to sound credit unions
-- Zenshin Union is indirectly involved through **industry safety net contribution** (contribution to the credit union industry)
-- Bankruptcy of Bank of Korea credit union → Controversy due to injection of public funds (2000 年 generation became a political issue)
+- Late 1990 年s to early 2000 年s: many shinkumi failures (Kansai Kogin, the Chogin-affiliated cooperatives, etc.)
+- **Coordinated with the Resolution and Collection Corporation (RCC)** for failure resolution → centered on business transfers to sound shinkumi
+- Zenshinkumiren is indirectly involved through **industry-safety-net contributions** (credit-cooperative-industry contributions)
+- Failures of Chogin-affiliated shinkumi → controversy over injection of public funds (became a political issue in the 2000 年s)
 
-### Core Strategy
+### Core strategy
 
-- **Maintaining the function of the "Central Bank of Credit Unions"**: Credit union industry 143  Union's surplus funds management + liquidity provision
-- **Provision of common infrastructure for the credit union industry**: System joint center + ATM network
-- **Regional financial safety net**: Centralizes credit and operation operations that are difficult for credit unions to perform on their own.
+- **Maintaining the "central bank of credit cooperatives" function**: surplus-fund management + liquidity supply for the shinkumi industry's 143  cooperatives
+- **Providing common infrastructure for the shinkumi industry**: shared systems center + ATM network
+- **Regional financial safety net**: centrally aggregating credit and fund-management operations that shinkumi find difficult on their own
 
-### Comparison with Shinkin Central Bank
+### Contrast with the Shinkin Central Bank
 
-| Item | [[cooperative-banks/shinkin-central]] | Zenshin Union |
+| Item | [[cooperative-banks/shinkin-central]] | Zenshinkumiren |
 |---|---|---|
-| Business type | Shinkin bank (Shinkin Bank Act) | Credit union (Cooperative Association Act + Small and Medium Enterprise Cooperative Act) |
-| Number of members | 254  Shinkin Bank (2025-11 FSA registry) | **143  Shinkin Union** (2026-02 FSA registry) |
-| Deposit size (industry as a whole) | Approximately 145 兆円 | Approximately less than 20 兆円 |
-| Strictness of membership system | Medium (can be used by local residents) | **High (in principle only association members)** |
-| Listed | Unlisted | Unlisted |
-| Government/system support | Industry contribution + self-help | Industry contribution + self-help |
+| Sector | Credit unions (Credit Union Act) | Credit cooperatives (Kyokin Act + SME Cooperatives Act) |
+| Number of members | 254  shinkin (2025-11  FSA registry) | **143  shinkumi** (2026-02  FSA registry) |
+| Deposit scale (industry total) | approx. 145 兆円 | just under approx. 20 兆円 |
+| Membership strictness | Medium (regional residents may use) | **High (in principle members only)** |
+| Listing | Unlisted | Unlisted |
+| Government / system support | Industry contribution + self-help | Industry contribution + self-help |
 
-### Competing/alternative forces
+### Competitors / substitute forces
 
-- **Megabanks/regional banks** launch loan offensive to credit union members (SMEs) → Pressure to reduce credit union business
-- **Internet banking/Fintech** is encroaching on deposits and payments for individuals
-- Collaboration (investment/business partnership) with credit unions in **regional bank reorganization**
-- **Main customers = small and medium-sized enterprises, micro businesses, and regional cooperative members**, with residual value in areas where mega-regional banks do not come to collect.
+- **Megabanks / regional banks** mounting a lending offensive toward shinkumi members (SMEs) → pressure to shrink shinkumi business
+- **Net banks / fintech** eroding deposits and settlement for individuals
+- **Regional-bank reorganization** also brings cooperation with shinkumi (capital participation, business partnerships)
+- **Core customers = small, micro, and regional members**, with residual value in domains megabanks and regional banks do not pursue
 
-### Government/Regulatory Policy
+### Government / regulatory policy
 
-- **Supervising**: Financial Services Agency (FSA) + Ministry of Economy, Trade and Industry (Small and Medium Enterprises Cooperative Association Act)
-- **Cooperative Financial Institution Safety Net**: Participated in Deposit Insurance Corporation (DIC)
-- **Industry contribution**: Loss reserve contribution common to the credit union industry
-- **Responding to regional financial issues**: Renewed attention in 2020 年's "Issues for regional financial institutions" discussion
+- **Supervisor**: FSA + Ministry of Economy, Trade and Industry (the SME Cooperatives Act)
+- **Cooperative-financial-institution safety net**: enrollment in the Deposit Insurance Corporation (DIC)
+- **Industry contribution funds**: loss-reserve contributions common to the shinkumi industry
+- **Response to regional financial challenges**: drew renewed attention in the 2020 年s "challenges of regional financial institutions" debate
 
 ## 5. Governance
 
-- **General Representatives Association** (representatives of member credit unions) is the highest decision-making body
-- **Chairman** = Member credit union representative / Financial Services Agency/Ministry of Finance alumni, etc. appointed
-- Government involvement tends to be involved in executive appointments (same pattern for Chuo 2  Ren + Norinchukin Bank)
+- The **general representatives' meeting** (representatives of member shinkumi) is the highest decision-making body
+- The **chairman** = a representative of member shinkumi / former FSA or Ministry of Finance officials, etc.
+- Executive appointments tend toward government involvement (the central 2  federations + Norinchukin follow the same pattern)
 
 ## Related
 
-- [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) — Central institution of the Shinkin bank industry, closest peer business type
-- [[cooperative-banks/norinchukin]] (Norinchukin Bank) — Central organization for agriculture and forestry, the largest in the industry
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank (competitor for credit union member customers)
-- [[banking/cooperative-banking-japan]] — General cooperative financial institutions
-- [[banking/credit-cooperative-registry-japan]] — Registry index of credit union 143  union
+- [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) — the central institution of the credit-union industry, the closest peer sector
+- [[cooperative-banks/norinchukin]] (Norinchukin) — the central institution of the agricultural-forestry system, the largest by industry scale
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — megabanks (competitors for shinkumi member customers)
+- [[banking/cooperative-banking-japan]] — cooperative financial institutions in general
+- [[banking/credit-cooperative-registry-japan]] — the registry index of the credit cooperatives' 143  cooperatives
 
 ## Sources
 
-- **Wikipedia: National Federation of Credit Cooperatives** (https://ja.wikipedia.org/wiki/National Federation of Credit Cooperatives, extracted from 2026-05-19)
-- Zenshin Union Official Website/Disclosure Magazine (2024 年 Edition)
-- Financial Services Agency: Credit Cooperative Federation/Credit Cooperative Approval List (2026-02-20): https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
-- Credit union industry statistics
+- **Wikipedia: National Federation of Credit Cooperatives** (https://ja.wikipedia.org/wiki/全国信用協同組合連合会, extracted 2026-05-19)
+- Zenshinkumiren official website / disclosure magazine (FY 2024 年 edition)
+- FSA: list of credit-cooperative federations and credit-cooperative approvals (2026-02-20): https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
+- Credit-cooperative industry statistics
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (from public information base, Wikipedia + official disclosure + Financial Services Agency registry). The number of member credit unions is 2026-02-20 according to the Financial Services Agency registry, 143, and varies annually due to union reorganization. Detailed financial indicators must be confirmed directly with IR. The comparison size with Shinkin Chukin Bank is an industry relative estimate.
+> confidence: **likely** (based on public information, derived from Wikipedia + official disclosure + the FSA registry). The number of member shinkumi is 143 in the 2026-02-20 FSA registry, with annual variation due to cooperative reorganization. Detailed financial metrics require direct confirmation from IR. The comparative scale against the Shinkin Central Bank is a relative industry approximation.

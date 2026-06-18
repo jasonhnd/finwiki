@@ -1,149 +1,149 @@
 ---
 source: cooperative-banks/ja-kyosairen-fukushima
-source_hash: 9c16f7dd8fe5d348
+source_hash: cf20b3ecdfc83626
 lang: en
 status: machine
 fidelity: ok
-title: "JA Kyosai Ren Fukushima (Fukushima Prefectural Headquarters / Fukushima Prefectural Office of JA Kyosairen)"
-translated_at: 2026-05-31T15:29:03.958Z
+title: "JA Kyosairen Fukushima (Fukushima Prefectural Office / Fukushima Prefectural Office of JA Kyosairen)"
+translated_at: 2026-06-18T23:33:48.284Z
 ---
-# JA Kyosai Ren Fukushima (Fukushima Prefectural Headquarters / Fukushima Prefectural Office of JA Kyosairen)
+# JA Kyosairen Fukushima (Fukushima Prefectural Office / Fukushima Prefectural Office of JA Kyosairen)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap where the national JA mutual-aid federation existed but no prefectural federation anchor existed. Fukushima was selected for its disaster-recovery relevance after the 2011 Great East Japan Earthquake.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first prefectural-federation anchor for the JA Kyosairen system in FinWiki**, closing the audit gap that "JA Kyosairen exists but no prefectural Shinren anchors exist". Fukushima was selected for its disaster-recovery-context relevance (2011  Great East Japan Earthquake / nuclear accident + building-renewal mutual aid = "kenko" of large-scale payout track record). Read with [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]] for the national parent, [[regional-banks/fukushima-bank|福島銀行]] for the regional banking peer, [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-credit prefectural equivalent, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
 
 ## TL;DR
 
-**JA Kyosairen Fukushima Prefecture Headquarters = [[non-life-insurers/ja-kyosairen|JA 共済連]]'s Fukushima Prefecture area business base**. With the integration of 2000 年's prefectural headquarters (47  Prefectural Mutual Aid Federation → 1  Zenkyoren + 47  Prefectural Headquarters), the prefectural organization lost its corporate status and transitioned to the prefectural headquarters organization of the national headquarters (responsible for implementation of mutual aid projects by prefecture). ** 2011  During the Great East Japan Earthquake + Fukushima Daiichi Nuclear Accident, the Fukushima Prefectural Headquarters of the JA Mutual Aid Federation had a track record of providing large-scale building rehabilitation mutual aid (reconstruction)** = A representative case that embodies the role of cooperative mutual aid during the disaster recovery period by being in charge of implementing disaster benefits to households that are members of agricultural cooperatives in the prefecture. In collaboration with Fukushima prefecture's **5  JA (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba)**, we will carry out sales + appraisal + benefits of life mutual aid, pension mutual aid, building rehabilitation mutual aid, and automobile mutual aid for members. ^[extracted]
+**JA Kyosairen Fukushima Prefectural Office = the Fukushima-prefecture-area business base of [[non-life-insurers/ja-kyosairen|JA 共済連]]**. Through the prefectural-office integration of 2000 年 (47  prefectural Kyosairen → 1  Zenkyoren + 47  prefectural offices), the prefectural organization lost its legal personality and migrated to the national headquarters' prefectural-office organization (bearing the prefecture-by-prefecture execution of the mutual-aid business). **In the 2011  Great East Japan Earthquake + the Fukushima Daiichi nuclear accident, JA Kyosairen Fukushima Prefectural Office had a large-scale payout track record of building-renewal mutual aid (kenko)** = it bore the practical execution of disaster payouts to agricultural-cooperative member households within the prefecture, and it embodies the role of cooperative mutual aid in the disaster-recovery period as a representative case. In collaboration with **5  JA within Fukushima Prefecture (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba)**, it executes the sales + assessment + payout work of life mutual aid, pension mutual aid, building-renewal mutual aid, and automobile mutual aid for members. ^[extracted]
 
-## 1. License / Organizational Structure
+## 1. License / organizational structure
 
-| Item | Contents |
+| Item | Content |
 |---|---|
-| Official name | National Mutual Aid Agricultural Cooperative Federation Fukushima Prefecture Headquarters |
+| Formal name | National Mutual Insurance Federation of Agricultural Cooperatives, Fukushima Prefectural Office |
 | Common name | JA Kyosairen Fukushima / Zenkyoren Fukushima |
-| Legal form | **Prefectural headquarters of Zenkyoren ([[non-life-insurers/ja-kyosairen|JA 共済連]])** (after integration of 2000 年 prefectural headquarters) |
-| Establishment | 1951  (formerly Fukushima Prefecture Mutual Aid Agricultural Cooperative Federation) → 2000  Integrated into national headquarters |
-| Location | Fukushima City, Fukushima Prefecture (in JA Building) |
-| Related unions | Fukushima Prefecture 5  JA (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba) + Local union members |
-| Supervisory authorities | Ministry of Agriculture, Forestry and Fisheries (main) + Financial Services Agency (cooperative supervision) |
-| Wiki role | **JA Mutual Aid Federation's prefectural prefectural headquarters anchor** (47  Selected Fukushima as a representative example of prefectural headquarters) |
+| Legal form | **Prefectural office of Zenkyoren ([[non-life-insurers/ja-kyosairen|JA 共済連]])** (after the 2000 年 prefectural-office integration) |
+| Established | 1951  (former Fukushima Prefectural Mutual Insurance Federation of Agricultural Cooperatives) → integrated into the national headquarters in 2000  |
+| Location | Fukushima City, Fukushima Prefecture (inside the JA Building) |
+| Affiliated cooperatives | 5  JA within Fukushima Prefecture (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba) + regional members |
+| Supervisory authority | Ministry of Agriculture, Forestry and Fisheries (primary) + Financial Services Agency (cooperative supervision) |
+| Wiki role | **Prefectural-office anchor of JA Kyosairen** (Fukushima selected as the representative case of the 47  prefectural offices) |
 
-### History of prefectural mutual aid federation integration ( 2000 ) ^[extracted]
+### Background of the prefectural-Kyosairen integration (2000) ^[extracted]
 
-| Age | Event |
+| Era | Event |
 |---|---|
-| 1951 ~ | 47  Establishment of "Prefectural Mutual Aid Agricultural Cooperative Federation" by prefecture (independent federation with legal personality) |
-| 1960s-1990s | Operated under a two-tier structure of 47 prefectural mutual-aid federations plus the national federation |
-| ** 2000-04-01 ** | **Prefectural Mutual Aid Federation 47  institution → integrated into Zenkyoren**, reorganized into each prefectural headquarters ^[extracted] |
-| 2000 ~ | Unified management with Zenkyoren as the national headquarters and 47  prefectural organizations as the "prefectural headquarters" |
-| ** 2011-03-11 ** | **Great East Japan Earthquake + Fukushima Daiichi Nuclear Power Plant Accident** — Fukushima Prefectural Headquarters' rebuilding benefit practice becomes large-scale ^[extracted] |
-| 2012 ~ | Fukushima Prefecture JA + Continuing member services during the recovery period at the prefectural headquarters |
-| 2020 ~ | JA Mutual Aid App/AI Assessment Deployment at Prefectural Headquarters |
-| 2024 ~ | DX promotion + prefectural headquarters operational efficiency |
+| 1951~ | "Prefectural Mutual Insurance Federation of Agricultural Cooperatives" established in each of the 47  prefectures (independent federations with legal personality) |
+| the 1960~90 s | operated in a 2 -tier structure of 47  prefectural Kyosairen + 1  Zenkyoren |
+| **2000-04-01** | **prefectural Kyosairen, the 47  institution → integrated into Zenkyoren**, reorganized into each prefectural office ^[extracted] |
+| 2000~ | unified operation with Zenkyoren as the national headquarters and the 47  prefectural organizations as "prefectural offices" |
+| **2011-03-11** | **Great East Japan Earthquake + Fukushima Daiichi nuclear accident** — the kenko payout work of the Fukushima Prefectural Office became large-scale ^[extracted] |
+| 2012~ | continued member services in the recovery period by JA within Fukushima Prefecture + the prefectural office |
+| 2020~ | prefectural-office rollout of the JA Kyosai app / AI assessment |
+| 2024~ | DX promotion + improvement of prefectural-office operational efficiency |
 
-### Zenkyoren + 47  Integrated operation of prefectural headquarters ^[extracted]
+### Unified operation of Zenkyoren + 47  prefectural offices ^[extracted]
 
 ```
 [[non-life-insurers/ja-kyosairen|JA 共済連 (全共連) 全国本部]]
-  ├── 北海道本部
-  ??? Six Tohoku prefectural headquarters: Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima; Fukushima is this page
-  ├── 関東甲信越 県本部
-  ├── 東海 県本部
-  ├── 近畿 県本部
-  ├── 中国四国 県本部
-  └── 九州沖縄 県本部
-      ? Each prefectural headquarters operates as a business-execution unit of the national federation
-      ? Mutual-aid sales, assessment, and benefit payment for prefectural JA members and households
+  ├── Hokkaido Office
+  ├── Tohoku 6  prefectural offices (Aomori / Iwate / Miyagi / Akita / Yamagata / Fukushima) ★Fukushima = this page
+  ├── Kanto-Koshinetsu prefectural offices
+  ├── Tokai prefectural offices
+  ├── Kinki prefectural offices
+  ├── Chugoku-Shikoku prefectural offices
+  └── Kyushu-Okinawa prefectural offices
+      ↓ each prefectural office operates as the business-execution organization of Zenkyoren
+      → mutual-aid sales + assessment + payouts to JA + member households within the prefecture
 ```
 
-### Main duties (specific to prefectural headquarters) ^[extracted]
+### Main operations (specific to prefectural offices) ^[extracted]
 
-| Business | Contents |
+| Operation | Content |
 |---|---|
-| **Mutual aid sales support** | Prefecture 5  JA mutual aid promotion staff training and sales target management |
-| **Assessment practice** | On-site assessment of automobile accidents, fires, and natural disasters within the prefecture |
-| **Benefit payment** | Mutual aid payment practices to member households |
-| **Promotion of building rehabilitation mutual aid (reconstruction)** | Sales of main products that include fire + natural disaster + death protection |
-| **Member education** | Risk management/mutual aid usage education |
-| **Disaster recovery period response** | Intensive assessment + benefit practices during large-scale disasters |
+| **Mutual-aid sales support** | education of mutual-aid promoters and sales-target management of the 5  JA within the prefecture |
+| **Assessment work** | on-site assessment of automobile accidents / fires / natural disasters within the prefecture |
+| **Payout disbursement** | mutual-aid-money disbursement work to member households |
+| **Building-renewal mutual aid (kenko) promotion** | sales of the flagship product integrating fire + natural disaster + death protection |
+| **Member education** | risk management / mutual-aid-usage education |
+| **Disaster-recovery-period response** | concentrated assessment + payout work in times of large-scale disaster |
 
-### 2011  Great East Japan Earthquake + Reconstruction benefits due to the nuclear power plant accident ^[extracted]
+### Kenko payouts in the 2011  Great East Japan Earthquake + nuclear accident ^[extracted]
 
-- **2011-03-11 Great East Japan Earthquake**: Severe damage in the area under the jurisdiction of Fukushima prefecture headquarters
-- Tsunami damage (coastal area) + Earthquake damage (inland area) + Fukushima Daiichi nuclear power plant accident (evacuation area)
-- **Building rehabilitation mutual aid (reconstruction)** = fire + natural disaster + integrated death benefit → large-scale benefits
+- **2011-03-11 Great East Japan Earthquake**: enormous damage in the area under the jurisdiction of the Fukushima Prefectural Office
+  - tsunami damage (coastal areas) + earthquake damage (inland areas) + Fukushima Daiichi nuclear accident (evacuation zones)
+- **Building-renewal mutual aid (kenko)** = integrated fire + natural disaster + death protection → large-scale payouts
 
-### Agriculture/JA structure in Fukushima prefecture ^[extracted]
+### Fukushima Prefecture's agriculture / JA structure ^[extracted]
 
-- **Fukushima Prefecture JA**: JA Fukushima Mirai (Northern/Central Prefecture) / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba's 5  JA
-- **Major production areas for rice, vegetables, fruits (peaches, pears)**, and livestock
-- **Countermeasures against reputational damage after the nuclear power plant accident** + Continued JA involvement in food distribution safety programs
+- **JA within Fukushima Prefecture**: the 5  JA of JA Fukushima Mirai (north / central prefecture) / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba
+- a major production area for **rice / vegetables / fruit (peaches / pears)** and livestock
+- continued JA involvement in **measures against reputational damage after the nuclear accident** + food-distribution-safety programs
 
-### Financial scale of prefectural headquarters
+### Financial scale of the prefectural office
 
-- **KPIs for the prefectural headquarters are not disclosed** — The prefectural headquarters does not have its own financial statements because it is a business base within Zenkyoren's organization ^[extracted]. The ``Disclosure'' on the official website of the Fukushima Prefectural Headquarters has also been forwarded to the national JA Mutual Aid Federation, and figures by prefecture (in-force contract amount and number of member households) are not made public (confirmed by 2026-05-29). Estimates of approximate numbers by prefecture are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md` due to lack of sources.
+- **The prefectural office's standalone KPIs are not disclosed** — the prefectural office is an internal business base of Zenkyoren and therefore does not have its own financial statements ^[extracted]. The "disclosure" on the Fukushima Prefectural Office official site is also forwarded to the national JA Kyosairen disclosure, and prefecture-by-prefecture figures (in-force contract amount / number of member households) are not published (confirmed 2026-05-29). Estimates of prefecture-by-prefecture approximate figures lack sources and are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md`.
 
-### Position of Fukushima prefecture headquarters within Zenkyoren
+### Position of the Fukushima Prefectural Office within Zenkyoren
 
-- **47  One of the Tohoku prefectural headquarters 6  One of the prefectural headquarters**
-- Experienced the special environment of **2011  earthquake + nuclear power plant accident** in the Tohoku region (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)
-- Disaster response ability + member-based services **Prefectural headquarters model example**
-- **Knowledge center for disaster benefit practices** within Zenkyoren
+- **one of the Tohoku 6  prefectural offices among the 47  prefectural offices**
+- experienced the special environment of the **2011  earthquake + nuclear accident** in the Tohoku district (Aomori / Iwate / Miyagi / Akita / Yamagata / Fukushima)
+- a **representative case of the prefectural-office model** of disaster-response capability + member-proximate service
+- a **knowledge-aggregation place for disaster-payout work** within Zenkyoren
 
-### Cooperative mutual aid model during disaster recovery period
+### Cooperative mutual-aid model in the disaster-recovery period
 
-- Compared to private insurance companies (non-life insurance), JA Kyosairen = Benefits based on the philosophy of ``mutual aid for members''**
-- **Building Rehabilitation Mutual Aid (Reconstruction)** = Fire + Earthquake + Natural Disaster + Death Coverage → Unique product not found in private non-life insurance
-- Fukushima Prefectural Headquarters 2011  Earthquake response = **Demonstrating the social significance of rebuilding**
+- compared with private insurance companies (non-life insurers), JA Kyosairen = payouts based on the philosophy of **"member mutual aid"**
+- **building-renewal mutual aid (kenko)** = integrated fire + earthquake + natural disaster + death protection → a unique product not found in private non-life insurance
+- the Fukushima Prefectural Office's 2011  earthquake response = demonstrated the **social significance of kenko**
 
 ## 4. KPI
 
 | Indicator | Value | Source |
 |---|---|---|
-| Number of JAs in the prefecture | 5  JA | JA Kyosai Ren Fukushima official website ^[extracted] |
+| Number of JA within the prefecture | 5  JA | JA Kyosairen Fukushima official site ^[extracted] |
 
-> Note: JA Mutual Aid Federation is operated by the national headquarters, so the contract amount in force and the number of member households of the prefectural headquarters alone are not disclosed (no primary data for prefectural figures, confirmed by 2026-05-29). Estimated numbers by prefecture are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md`. Please refer to the Zenkyoren Annual Report + JA Group Factbook 2026  for the amount of policies in force on a nationwide (Zenkyoren) basis.
+> Note: Because JA Kyosairen is operated in a unified manner by the national headquarters, the prefectural office's standalone in-force contract amount / number of member households is not disclosed (no primary source for prefecture-by-prefecture figures, confirmed 2026-05-29). Estimates of prefecture-by-prefecture approximate figures are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md`. For the national (Zenkyoren) -basis in-force contract amount, etc., refer to the Zenkyoren annual report + JA Group Factbook 2026 .
 
-## 5. Supervision/Regulation
+## 5. Supervision / regulation
 
-- **Supervising**: Ministry of Agriculture, Forestry and Fisheries (main) + Financial Services Agency (cooperative supervision) + Fukushima Prefecture Agriculture, Forestry and Fisheries Department (prefectural union supervision)
-- **Legal basis**: Agricultural Cooperative Law (Mutual aid business provisions) + Mutual aid business guidelines
-- **Current policy issues**:
-- Continuous evolution of **reconstruction benefit model during disaster recovery period**
-- **AI assessment + digital contract** deployment at prefectural headquarters
-- Role of prefectural headquarters + prefectural JA in **food security plan (2026 ~)**
-- Long-term reconstruction of the **nuclear accident area** and continuation of member services
+- **Competent authority**: Ministry of Agriculture, Forestry and Fisheries (primary) + Financial Services Agency (cooperative supervision) + Fukushima Prefecture Department of Agriculture, Forestry and Fisheries (prefectural-cooperative supervision)
+- **Legal basis**: Agricultural Cooperatives Act (mutual-aid-business provisions) + mutual-aid-business guidelines
+- **Recent policy points**:
+  - continued evolution of the **kenko payout model in the disaster-recovery period**
+  - prefectural-office rollout of **AI assessment + digital contracts**
+  - the role of the prefectural office + JA within the prefecture in the **food-security plan (2026~)**
+  - long-term recovery of the **nuclear-accident zones** and continued member services
 
 ## Related
 
-- [[non-life-insurers/ja-kyosairen]] — JA Mutual Aid Federation National Headquarters (above this prefectural headquarters)
-- [[cooperative-banks/ja-zenchu]] — JA Zenchu ​​(JA Group Representative)
-- [[cooperative-banks/ja-zen-noh]] — JA Zennoh (JA Group Economic Business)
-- [[cooperative-banks/ja-shinnoren]] — JA Shinren (peer prefectural headquarters / credit business)
+- [[non-life-insurers/ja-kyosairen]] — JA Kyosairen national headquarters (the superior of this prefectural office)
+- [[cooperative-banks/ja-zenchu]] — JA Zenchu (representative of the JA Group)
+- [[cooperative-banks/ja-zen-noh]] — JA Zen-Noh (economic business of the JA Group)
+- [[cooperative-banks/ja-shinnoren]] — JA Shinren (peer prefectural office / credit business)
 - [[cooperative-banks/ja-bank-tokyo-shinren]] — JA Bank Tokyo Shinren (peer prefectural anchor)
-- [[cooperative-banks/norinchukin]] — Norinchukin Bank (center of JA Bank system)
-- [[regional-banks/fukushima-bank]] — Fukushima Bank (peer bank in Fukushima prefecture)
-- [[non-life-insurers/kyoritsu-fire-marine]] — Kyoei Fire and Marine Insurance (JA Kyosairen 74.20% invested subsidiary)
-- [[cooperative-banks/jf-shingyoren]] — JF Shingyoren (fishing cooperative peer)
+- [[cooperative-banks/norinchukin]] — Norinchukin Bank (the center of the JA Bank system)
+- [[regional-banks/fukushima-bank]] — Fukushima Bank (peer bank within Fukushima Prefecture)
+- [[non-life-insurers/kyoritsu-fire-marine]] — Kyoei Fire and Marine Insurance (subsidiary with 74.20% investment from JA Kyosairen)
+- [[cooperative-banks/jf-shingyoren]] — JF Shingyoren (fisheries-cooperative peer)
 - [[banking/ja-bank-system-japan]] — JA Bank system
-- [[banking/cooperative-banking-japan]] — Overall cooperative finance
-- [[insurance/INDEX]] — Insurance domain (mutual aid comparison)
+- [[banking/cooperative-banking-japan]] — cooperative-organization finance overall
+- [[insurance/INDEX]] — insurance domain (mutual-aid comparison)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 
-- **JA Kyosairen Official**: https://www.ja-kyosai.or.jp/
-- **JA Kyosairen Company Profile**: https://www.ja-kyosai.or.jp/about/
-- **JA Kyosairen National Headquarters/Prefectural Headquarters Organizational Chart**: https://www.ja-kyosai.or.jp/about/zenken/
-- **JA Kyosairen Disclosure (all national headquarters)**: https://www.ja-kyosai.or.jp/about/disclosure/ — Disclosure is based on national headquarters, figures by prefecture are not published
-- **JA Kyosairen Fukushima Prefectural Headquarters official site**: https://www.jakyosai-fukushima.jp/ ? describes coordination with five JA organizations in Fukushima Prefecture: JA Fukushima Mirai, JA Fukushima Sakura, JA Yume Minami, JA Tozai Shirakawa, and JA Aizu Yotsuba (checked 2026-05-30; older eight-JA statement corrected to five). The disclosure link redirects to national disclosure, with no separate prefecture-level figures.
-- **JA Group Factbook 2026 **: https://org.ja-group.jp/pdf/jafactbook/jafactbook_ 2026.pdf
-- Agricultural Cooperative Law ( 昭和 22 年 Law 第 132 号 )
-- 2011  Great East Japan Earthquake + Fukushima Daiichi Nuclear Power Plant Accident-related JA Mutual Insurance Benefits Results Materials
+- **JA Kyosairen official**: https://www.ja-kyosai.or.jp/
+- **JA Kyosairen company overview**: https://www.ja-kyosai.or.jp/about/
+- **JA Kyosairen national-headquarters / prefectural-office organization chart**: https://www.ja-kyosai.or.jp/about/zenken/
+- **JA Kyosairen disclosure (national-headquarters unified)**: https://www.ja-kyosai.or.jp/about/disclosure/ — disclosure is on a national-headquarters basis, prefecture-by-prefecture figures are not listed
+- **JA Kyosairen Fukushima Prefectural Office official**: https://www.jakyosai-fukushima.jp/ — "while cooperating and coordinating with the 5  JA within the prefecture (JA Fukushima Mirai, JA Fukushima Sakura, JA Yume Minami, JA Tozai Shirakawa, JA Aizu Yotsuba), comprehensively backs up the JA mutual-aid business" (confirmed 2026-05-30. Corrected the old version's "8  JA" to 5  JA). The "disclosure" link is forwarded to the national disclosure (no independent disclosure of prefecture-by-prefecture figures)
+- **JA Group Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
+- Agricultural Cooperatives Act (昭和 22 年 Act No. 第 132 号)
+- materials on the JA Kyosairen payout track record related to the 2011  Great East Japan Earthquake + Fukushima Daiichi nuclear accident
 
 ---
 
-> [!info] School core status
-> confidence: **likely**. Prefectural Headquarters = Zenkyoren's internal business base and does not have corporate status, so there are no primary materials disclosing the amount of contracts in force or the number of member households by prefecture (Disclosure on the official Fukushima Prefectural Headquarters website was also forwarded to national disclosure, confirmed by 2026-05-29). The previous approximate numbers by prefecture (billions of yen for life insurance, hundreds of billions of yen for non-life insurance, hundreds of thousands of member households) are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md` due to lack of sources. **Correction (2026-05-30): The old version of "Prefecture 8  JA" is incorrect. The official website of JA Mutual Aid Federation Fukushima clearly states, ``Prefectural 5  JA (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba)''. ** The facts left in the text (5  JA within the prefecture, 2000  integration of prefectural headquarters, 2011  context of earthquake disaster and reconstruction benefits) are structural facts.
+> [!info] Verification status
+> confidence: **likely**. The prefectural office = an internal business base of Zenkyoren that does not have legal personality, and no primary source exists that discloses the prefecture-by-prefecture in-force contract amount / number of member households (the disclosure on the Fukushima Prefectural Office official site is also forwarded to the national disclosure, confirmed 2026-05-29). The previous prefecture-by-prefecture approximate figures (life-type several trillion yen / non-life-type several hundred billion yen / member households several hundred thousand people) lack sources and are isolated in `.opinions/JapanFG/ja-kyosairen-fukushima.md`. **Correction point (2026-05-30): the old version's "8  JA within the prefecture" is incorrect. The JA Kyosairen Fukushima official site clearly states "5  JA within the prefecture (JA Fukushima Mirai / JA Fukushima Sakura / JA Yume Minami / JA Tozai Shirakawa / JA Aizu Yotsuba)."** The facts retained in the body (5  JA within the prefecture, 2000  prefectural-office integration, the context of the 2011  earthquake / kenko payouts) are structural facts.

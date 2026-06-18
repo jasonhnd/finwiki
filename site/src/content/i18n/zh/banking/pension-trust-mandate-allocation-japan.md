@@ -1,208 +1,208 @@
 ---
 source: banking/pension-trust-mandate-allocation-japan
-source_hash: c63058e18e9a15a9
+source_hash: 20586bcbd701c454
 lang: zh
 status: machine
 fidelity: ok
-title: "日本养老金信托委托分配"
-translated_at: 2026-05-31T03:19:56.386Z
+title: "日本养老金信托委托配置"
+translated_at: 2026-06-18T23:33:48.295Z
 ---
 
-# 日本养老金信托委托分配
+# 日本养老金信托委托配置
 
 ## Wiki route
 
-本条目归于 [[banking/INDEX|banking index]] 之下，连接养老金端的需求与信托银行端的供给。请与机构锚点 [[trust-banks/master-trust-bank|MTBJ]] 和 [[trust-banks/custody-bank|CBJ]]、运营模式 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] 和 [[banking/custody-bank-operating-model|Custody Bank operating model]]、全景视图 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 以及费用研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] 一并阅读。配合 [[banking/jasdec-settlement-operations|JASDEC settlement operations]] 了解结算轨道；配合 [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] 了解监管层级；配合 [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]] 和 [[trust-banks/mizuho-trust-bank|Mizuho Trust]] 了解前台信托银行侧；配合 [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] 了解外币资产环节的次级托管。机构背景见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+本词条位于 [[banking/INDEX|banking index]] 之下，将养老金侧的需求与信托银行侧的供给相联结。请与机构锚点 [[trust-banks/master-trust-bank|MTBJ]] 和 [[trust-banks/custody-bank|CBJ]]、运营模式 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] 和 [[banking/custody-bank-operating-model|Custody Bank operating model]]、全景视图 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 及费用研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] 一并阅读。就轨道与 [[banking/jasdec-settlement-operations|JASDEC settlement operations]] 配对；就监管层级与 [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] 配对；就前台信托银行侧与 [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]] 和 [[trust-banks/mizuho-trust-bank|Mizuho Trust]] 配对；就外币资产端的次级托管与 [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] 配对。机构背景参见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## TL;DR
 
-日本养老金信托委托分为三个层级：GPIF（资产约 ¥250 万亿，公共养老金）、企业 DB 计划（確定給付企業年金）以及 DC 计划（確定拠出年金，含 iDeCo）。每个层级都将投资管理（運用機関）与资产管理（資産管理機関）分离——后者正是 MTBJ、CBJ 与各大型银行信托部门竞争之处。GPIF 的模式有充分公开记录：一组外部 運用機関（资产管理人）负责主动与被动委托，外加一组独立的信托银行 資産管理機関 名单（MTBJ + CBJ + 选定的全能型信托银行）负责托管与管理。企业 DB 计划复制了同样的分离结构，通常每个计划配一到两家信托银行。DC 计划增加了一个 運営管理機関 层（成员账户记录），由大型银行信托部门与专业 DC 运营商竞争。所有层级的外币资产环节均通过全球托管行作为日本次级托管接入。其结果是一个分层的委托分配体系：MTBJ 与 CBJ 锚定资产管理这一公用事业功能，而大型银行信托银行与全球托管行则在前台投资管理与 DC 运营管理侧展开竞争。
+日本的养老金信托委托分为三层：GPIF（资产约 ¥250 万亿，公共养老金）、企业 DB 计划（确定给付企业年金）及 DC 计划（确定拠出企业年金，含 iDeCo）。每一层都将投资管理（运用机关）与资产管理（资产管理机关）分离 —— 后者正是 MTBJ、CBJ 及大型银行的信托银行部门竞争之处。GPIF 的模式有充分文献记载：为主动与被动委托设立的一组外部 运用机关（资产管理公司）名单，加上一组单独的 资产管理机关 信托银行名单（MTBJ + CBJ + 精选的全服务信托银行）负责托管与管理。企业 DB 计划镜像同样的分离，通常每个计划配 1 至 2 家信托银行。DC 计划增加了一个 运営管理机关 层（成员账户的记录保管），大型银行的信托银行部门与专门的 DC 运营商在此竞争。各层的外币资产端均经由作为日本次级托管人的全球托管银行。其结果是一个分层的委托配置体系，其中 MTBJ 与 CBJ 锚定资产管理基础设施，而大型银行的信托银行与全球托管银行在前台投资管理与 DC 运营管理者侧竞争。
 
-### 养老金体系三层级
+### 养老金体系三层
 
-| 层级 | 说明 | 法规 | 大致规模 |
+| 层 | 说明 | 法令 | 大致规模 |
 |---|---|---|---|
-| **GPIF**（年金積立金管理運用独立行政法人） | 公共养老金储备基金 | 厚生年金保険法 + 国民年金法 + 独立行政法人法 | AUM 约 ¥250 万亿 |
-| **企业 DB**（確定給付企業年金） | 企业发起的确定给付型养老金信托 | 確定給付企業年金法（2001） | 受托资产约 ¥66.0 万亿（確定給付企業年金，令和5年3月末；DB+厚生年金基金 合计约 ¥80.5 万亿） |
-| **企业 DC + iDeCo**（確定拠出年金） | 企业发起 / 个人 DC | 確定拠出年金法（2001） | 合计约 ¥29 万亿（企業型DC ¥22.8 万亿 + iDeCo ¥6.2 万亿，2024-03末）；NISA / DC 改革后快速增长 |
+| **GPIF**（年金积立金管理运用独立行政法人） | 公共养老金储备基金 | 厚生年金保险法 + 国民年金法 + 独立行政法人法 | 约 ¥250 万亿 AUM |
+| **企业 DB**（确定给付企业年金） | 企业发起的确定给付养老金信托 | 确定给付企业年金法（2001） | 受托资产约 ¥66.0 万亿（确定给付企业年金，令和5年3月 末；DB + 厚生年金基金 合计约 ¥80.5 万亿） |
+| **企业型 DC + iDeCo**（确定拠出年金） | 企业发起 / 个人型 DC | 确定拠出年金法（2001） | 合计约 ¥29 万亿（企业型 DC ¥22.8 万亿 + iDeCo ¥6.2 万亿，2024-03 末）；在 NISA / DC 改革后快速增长 |
 
-### 委托分配的角色分离
+### 委托配置的角色分离
 
 | 角色 | 职能 | 示例 |
 |---|---|---|
-| 運用機関（投资管理人） | 自主投资决策；组合构建；交易执行 | 资产管理人——Nomura AM、MUFG AM、Daiwa AM、SBI AM、日本本土外部管理人、外币资产管理人（如 Vanguard、BlackRock、State Street SSGA、Goldman Sachs AM、PIMCO 等） |
-| 資産管理機関（资产管理人 / 信托银行） | 信托账户保管、NAV 计算、结算、公司行为处理、表决管理 | MTBJ、CBJ、MUFG Trust、SMTB、Mizuho Trust、Norinchukin Trust |
-| 受託金融機関（受托金融机构） | 养老金信托设立、信托的受信持有人 | 同上各信托银行，以信托受托人身份 |
-| 運営管理機関（DC 运营管理机构） | 成员账户记录；投资菜单提供；面向成员的界面 | 信托银行、证券公司、专门的 DC 运营商（NRK 日本レコード・キーピング・ネットワーク） |
-| 次级托管行（外币资产） | 外币资产簿记、结算、外汇、外币公司行为 | BNY Mellon、State Street、JP Morgan、Citi（作为全球托管行）——经由日本信托银行接入 |
+| 运用机关（投资管理人） | 裁量性投资判断；组合构建；交易执行 | 资产管理公司 —— 野村 AM、三菱 UFJ AM、大和 AM、SBI AM、JP 侧外部管理人、外币资产管理人（如 Vanguard、BlackRock、State Street SSGA、Goldman Sachs AM、PIMCO 等） |
+| 资产管理机关（资产管理人 / 信托银行） | 信托账户保管、基准价额计算、结算、公司行为处理、表决权管理 | MTBJ、CBJ、三菱 UFJ 信托、SMTB、瑞穗信托、农中信托 |
+| 受託金融机关（信托受托金融机构） | 养老金信托设立、信托的受托保有人 | 同上各信托银行，以受托人身份 |
+| 运営管理机关（DC 运营管理者） | 成员账户记录保管；投资菜单提供；面向成员的 UI | 信托银行、证券公司、专门 DC 运营商（NRK 日本记录保管网络） |
+| 次级托管人（外币资产） | 外币资产簿记、结算、外汇、外币公司行为 | BNY Mellon、State Street、JP Morgan、Citi（作为全球托管人）—— 经由日本信托银行接入 |
 
-### GPIF 委托分配
+### GPIF 的委托配置
 
-GPIF（AUM 约 ¥250 万亿）运营着日本最大的单一养老金资产池，也是全球最大的养老基金。其委托分配模式在 GPIF 年度报告中有公开记录。
+GPIF（约 ¥250 万亿 AUM）运营着日本最大的单一养老金资产池，也是全球最大的养老金基金。其委托配置模式在 GPIF 的年度报告中有公开文献记载。
 
-| GPIF 委托名额 | 分配者 | 典型参与者类型 |
+| GPIF 委托档位 | 配置者 | 典型参与者类型 |
 |---|---|---|
-| 国内股票主动 | 運用機関（外部） | Nomura AM、MUFG AM、Daiwa AM、Asset Management One、Goldman Sachs AM Japan、JPM AM Japan 等 |
-| 国内股票被动 | 運用機関（外部） | Asset Management One、MUFG AM、Nomura AM、Daiwa AM、BlackRock JP、State Street GA JP 等 |
-| 外国股票主动 | 運用機関（外部） | 运行全球股票策略的国际 + 日本关联资产管理人 |
-| 外国股票被动 | 運用機関（外部） | BlackRock、State Street GA、Vanguard（相关情形下）、地区性资产管理人关联机构 |
-| 国内债券主动 / 被动 | 運用機関（外部） | Asset Management One、MUFG AM、Nomura AM 等 |
-| 外国债券主动 / 被动 | 運用機関（外部） | PIMCO、JPM AM、BlackRock 等 |
-| 另类（PE / 基础设施 / 房地产） | 運用機関（外部） | 专业 PE / 基础设施 / 房地产管理人；基金中的基金结构 |
-| 资产管理（托管、NAV、公司行为、表决） | 資産管理機関（外部） | MTBJ + CBJ（锚定）+ 选定的全能型信托银行 |
-| 外币资产次级托管 | 次级托管链 | 经由 MTBJ / CBJ → 全球托管行（BNY / State Street / JPM / Citi） |
+| 国内股票主动 | 运用机关（外部） | 野村 AM、三菱 UFJ AM、大和 AM、Asset Management One、Goldman Sachs AM Japan、JPM AM Japan、其他 |
+| 国内股票被动 | 运用机关（外部） | Asset Management One、三菱 UFJ AM、野村 AM、大和 AM、BlackRock JP、State Street GA JP、其他 |
+| 外国股票主动 | 运用机关（外部） | 运营全球股票策略的国际 + JP 系列 AM |
+| 外国股票被动 | 运用机关（外部） | BlackRock、State Street GA、Vanguard（在相关时）、区域 AM 系列 |
+| 国内债券主动 / 被动 | 运用机关（外部） | Asset Management One、三菱 UFJ AM、野村 AM、其他 |
+| 外国债券主动 / 被动 | 运用机关（外部） | PIMCO、JPM AM、BlackRock、其他 |
+| 另类（PE / 基础设施 / 房地产） | 运用机关（外部） | 专门 PE / 基础设施 / RE 管理人；母子基金结构 |
+| 资产管理（托管、基准价额、公司行为、表决） | 资产管理机关（外部） | MTBJ + CBJ（锚点） + 精选的全服务信托银行 |
+| 外币资产次级托管 | 次级托管链 | 经由 MTBJ / CBJ → 全球托管人（BNY / State Street / JPM / Citi） |
 
-### 企业 DB 计划委托分配模式
+### 企业 DB 计划的委托配置模式
 
-| 名额 | 分配者 | 典型参与者 |
+| 档位 | 配置者 | 典型参与者 |
 |---|---|---|
-| 计划受托人（受託金融機関） | 信托银行 | MUFG Trust、SMTB、Mizuho Trust、地区性信托银行替代选项 |
-| 投资管理委托 | 運用機関（外部 + 计划方指示） | 资产管理人——通常每个计划数家，有时包括外国资产管理人 |
-| 资产管理 | 資産管理機関 | 计划受托人自有托管部门 或 外部（MTBJ / CBJ）——取决于计划结构 |
-| 精算 / 咨询 | 信託銀行 PB / 年金コンサル | MUFG Trust、SMTB、Mizuho Trust、专业养老金顾问 |
+| 计划受托人（受託金融机关） | 信托银行 | 三菱 UFJ 信托、SMTB、瑞穗信托、区域信托银行替代 |
+| 投资管理委托 | 运用机关（外部 + 计划侧指示） | 资产管理公司 —— 通常每个计划数家，有时包括外币 AM |
+| 资产管理 | 资产管理机关 | 计划受托人自有的托管部门 或 外部（MTBJ / CBJ）—— 视计划结构而定 |
+| 精算 / 顾问 | 信托银行 PB / 养老金顾问 | 三菱 UFJ 信托、SMTB、瑞穗信托、专门养老金顾问 |
 | 给付支付运营 | 计划受托人 | 信托银行内部 |
 
-### DC 计划委托分配模式
+### DC 计划的委托配置模式
 
-| 名额 | 分配者 | 典型参与者 |
+| 档位 | 配置者 | 典型参与者 |
 |---|---|---|
-| 運営管理機関（记录、成员管理） | 发起人 / 计划规则 | 信托银行（MUFG Trust、SMTB、Mizuho Trust 的 DC 部门）、证券公司（Nomura、Daiwa、SMBC Nikko）、专门运营商 NRK |
-| 投资菜单提供 | 運営管理機関 | 选定的 投信 阵容 |
-| 信托侧托管（资产管理） | 資産管理機関 | MTBJ / CBJ 经由 運営管理機関 选定的 投信 受託会社 |
-| 菜单中每只基金的 投信受託会社 | 信托银行作为 投信受託 | MTBJ / CBJ / 大型银行信托部门 |
-| 外币资产环节 | 次级托管链 | 经由信托银行 → 全球托管行 |
+| 运営管理机关（记录保管、成员管理） | 发起人 / 计划规则 | 信托银行（三菱 UFJ 信托、SMTB、瑞穗信托的 DC 部门）、证券公司（野村、大和、SMBC 日兴）、专门运营商 NRK |
+| 投资菜单提供 | 运営管理机关 | 精选的 投信 阵容 |
+| 信托侧托管（资产管理） | 资产管理机关 | 经由 运営管理机关 所选 投信 受托会社 的 MTBJ / CBJ |
+| 菜单中各基金的 投信受托会社 | 作为 投信受托 的信托银行 | MTBJ / CBJ / 大型银行信托部门 |
+| 外币资产端 | 次级托管链 | 经由信托银行 → 全球托管人 |
 
 ### 为何角色分离重要
 
 | 解读 | 含义 |
 |---|---|
-| 投資判断（投资决策）位于 運用機関 | 是资产管理人——而非信托银行——挑选证券并表决（依据 議決権行使ガイドライン） |
-| 資産保管（托管）位于 資産管理機関 | 信托银行以"信託口"名义持有——出现在发行人股东名册上 |
-| 受託者責任（受信义务）分离 | 信托银行承担资产安全受信义务；资产管理人承担投资判断受信义务 |
-| 表决权 | 依据资产管理人的 議決権行使ガイドライン 运作，由信托银行机械执行 |
-| 成员余额（DC） | 持于 運営管理機関——但底层 投信 持仓作为 受託会社 位于信托银行 |
+| 投资判断 位于 运用机关 | 是资产管理公司而非信托银行选择证券并行使表决权（依据表决权行使指引） |
+| 资产保管 位于 资产管理机关 | 信托银行以「信托口」名义持有 —— 出现在发行体股东名册上 |
+| 受托人责任 的分割 | 信托银行承担资产安全的受托责任；资产管理公司承担投资判断的受托责任 |
+| 表决权权限 | 依据资产管理公司的表决权行使指引运作，由信托银行机械执行 |
+| 成员余额（DC） | 在 运営管理机关 处持有 —— 但基础的 投信 持仓作为 受托会社 位于信托银行 |
 
-这一分离正是"MTBJ + CBJ"作为每一只 TOPIX 发行人的顶级股东出现却不能被解读为统一表决集团的结构性原因。
+这种分离是「MTBJ + CBJ」作为每一个 TOPIX 发行体的顶级股东出现却不能被解读为统一表决权集团的结构性原因。
 
-### 跨养老金层级竞争图
+### 跨养老金层的竞争图
 
-| 养老金层级 | 前台（運用機関）竞争 | 后台（資産管理機関）竞争 | 成员侧（運営管理機関）竞争 |
+| 养老金层 | 前台（运用机关）竞争 | 后台（资产管理机关）竞争 | 成员侧（运営管理机关）竞争 |
 |---|---|---|---|
-| GPIF | 名单广泛——日本资产管理人 + 外国资产管理人争夺委托份额 | MTBJ + CBJ + 选定的全能型信托银行 | 不适用（GPIF 为公共养老金，无 DC 那样的成员级管理） |
-| 企业 DB | 计划受托人侧资产管理人 + 外部资产管理人 | 计划受托人内部 + MTBJ / CBJ 承担单独委托的管理 | 不适用（DB 无成员级管理记录） |
-| 企业 DC | 運営管理機関 选定的 投信 阵容 → 底层 運用機関 | MTBJ / CBJ 经由 受託会社 层 | MUFG Trust / SMTB / Mizuho Trust / Nomura / Daiwa / SMBC Nikko / NRK |
-| iDeCo | 同 DC | 同 DC | 同样的 DC 运营商（常为面向零售的证券公司 / 在线券商） |
+| GPIF | 广泛名单 —— JP AM + 外币 AM 争夺委托份额 | MTBJ + CBJ + 精选的全服务信托银行 | 不适用（GPIF 为公共养老金，无 DC 那样的成员级管理） |
+| 企业 DB | 计划受托人侧 AM + 外部 AM | 计划受托人内部 + 单独委托管理的 MTBJ / CBJ | 不适用（DB 无成员级管理记录） |
+| 企业型 DC | 运営管理机关 所选 投信 阵容 → 基础 运用机关 | 经由 受托会社 层的 MTBJ / CBJ | 三菱 UFJ 信托 / SMTB / 瑞穗信托 / 野村 / 大和 / SMBC 日兴 / NRK |
+| iDeCo | 同 DC | 同 DC | 相同 DC 运营商（常为面向零售的证券公司 / 在线券商） |
 
-### 跨信托银行养老金委托竞争
+### 跨信托银行的养老金委托竞争
 
-| 信托银行 | GPIF 委托侧 | 企业 DB 侧 | DC 運営管理 侧 |
+| 信托银行 | GPIF 委托侧 | 企业 DB 侧 | DC 运営管理 侧 |
 |---|---|---|---|
-| MTBJ | 主要 資産管理機関 | 主要 資産管理機関 | 有限（纯托管专业机构） |
-| CBJ | 主要 資産管理機関 | 主要 資産管理機関 | 有限（纯托管专业机构） |
-| MUFG Trust | 选用 資産管理機関 | 主要计划受托人 + 管理 | 主要 DC 運営管理機関（企业 DC） |
-| SMTB | 选用 資産管理機関 | 主要计划受托人 + 管理 | 主要 DC 運営管理機関 |
-| Mizuho Trust | 选用 資産管理機関 | 主要计划受托人 + 管理 | 主要 DC 運営管理機関 |
-| Norinchukin Trust | 有限 | 農林系 计划受托人 + 管理 | 有限 |
-| SMBC Trust | 有限（PB 情形） | 有限 | 有限 |
-| Nomura Trust | 有限（集团内部） | 有限 | 与集团绑定的 DC 运营商支持 |
+| MTBJ | 主要 资产管理机关 | 主要 资产管理机关 | 有限（仅托管的专门机构） |
+| CBJ | 主要 资产管理机关 | 主要 资产管理机关 | 有限（仅托管的专门机构） |
+| 三菱 UFJ 信托 | 精选 资产管理机关 使用 | 主要计划受托人 + 管理 | 主要 DC 运営管理机关（企业型 DC） |
+| SMTB | 精选 资产管理机关 使用 | 主要计划受托人 + 管理 | 主要 DC 运営管理机关 |
+| 瑞穗信托 | 精选 资产管理机关 使用 | 主要计划受托人 + 管理 | 主要 DC 运営管理机关 |
+| 农中信托 | 有限 | 农林系计划受托人 + 管理 | 有限 |
+| SMBC 信托 | 有限（PB 语境） | 有限 | 有限 |
+| 野村信托 | 有限（集团内部） | 有限 | 集团关联的 DC 运营商支持 |
 
 ### 为何 MTBJ + CBJ 主导资产管理
 
 | 驱动因素 | 效果 |
 |---|---|
-| NAV 计算 + 公司行为处理的规模经济 | 利好单一用途的公用事业机构，而非大型银行内部管理 |
-| GPIF 历史上对专业托管的招标偏好 | 锚定 MTBJ + CBJ 为默认中标方 |
-| 大型银行信托银行偏好在前台委托上单独运作 | 将资产管理这一公用事业功能留给 MTBJ + CBJ |
-| MTBJ + CBJ 的成本回收型定价 | 其他机构难以压价 |
-| 信託銀行 牌照 + JASDEC 参与 + 信託口 名义人逻辑 | 限制新进入者 |
+| 基准价额计算 + 公司行为处理的规模经济 | 相较大型银行内部管理更利于单一用途的基础设施 |
+| GPIF 对专门托管的历史性招标偏好 | 将 MTBJ + CBJ 锚定为默认赢家 |
+| 大型银行信托银行在前台委托上单独运营的偏好 | 将资产管理基础设施留给 MTBJ + CBJ |
+| MTBJ + CBJ 的成本回收定价 | 其他主体难以压低 |
+| 信托银行 牌照 + JASDEC 参与 + 信托口 名义人逻辑 | 限制新进入者 |
 
-## 4. 手数料・収益構造
+## 4. 手续费・收益结构
 
-| 养老金层级 | 前台费用模式（運用機関） | 后台费用模式（資産管理機関） | 成员侧费用模式（運営管理機関） |
+| 养老金层 | 前台费用模式（运用机关） | 后台费用模式（资产管理机关） | 成员侧费用模式（运営管理机关） |
 |---|---|---|---|
-| iDeCo | 同 DC | 同 DC | 按成员年计的运营商费用（通常每月数百日元） |
+| iDeCo | 同 DC | 同 DC | 按成员-年的运营商费用（常为每月数百日元） |
 
-逐家银行的细粒度费用分析见 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]]。
+按银行的细粒度费用分析参见 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]]。
 
 ### 监管框架
 
-| 法规 / 监管者 | 涵盖范围 |
+| 法令 / 监管机构 | 涵盖范围 |
 |---|---|
-| 厚生年金保険法 + 国民年金法 | 公共养老金，GPIF 设立权限 |
-| 独立行政法人通則法 + GPIF 個別法 | GPIF 治理与运营框架 |
-| 確定給付企業年金法 | 企业 DB 计划 |
-| 確定拠出年金法 | 企业 DC + iDeCo |
-| 信託業法 + 銀行法 | 养老金信托 受託 的信托银行牌照 |
-| 金商法（投信受託 / 托管运营） | 投信 受託会社 / 托管标准 |
-| 厚生労働省 監督指針 | 养老金计划监督 |
-| 金融庁 監督指針（信託業 + 信託銀行） | 信托银行监督 |
-| GPIF 投資原則 / スチュワードシップ原則 | GPIF 特定治理 / 尽责管理 |
-| 個人情報保護法 + 金融分野ガイドライン | 成员数据保护 |
+| 厚生年金保险法 + 国民年金法 | 公共养老金，GPIF 设立依据 |
+| 独立行政法人通则法 + GPIF 个别法 | GPIF 治理与运营框架 |
+| 确定给付企业年金法 | 企业 DB 计划 |
+| 确定拠出年金法 | 企业型 DC + iDeCo |
+| 信托业法 + 银行法 | 养老金信托 受托 的信托银行牌照 |
+| 金商法（投信受托 / 托管 ops） | 投信 受托会社 / 托管标准 |
+| 厚生劳动省 监督指针 | 养老金计划监督 |
+| 金融厅 监督指针（信托业 + 信托银行） | 信托银行监督 |
+| GPIF 投资原则 / 尽责管理原则 | GPIF 特有的治理 / 尽责管理 |
+| 个人信息保护法 + 金融领域指引 | 成员数据保护 |
 
-### 受信义务分配
+### 受托人责任的配置
 
-| 当事方 | 受信义务范围 |
+| 当事方 | 受托人责任范围 |
 |---|---|
-| 资产管理人（運用機関） | 投资判断义务：组合构建、证券选择、表决意见 |
-| 信托银行（資産管理機関 / 受託金融機関） | 资产安全义务：保管、隔离、准确记录、机械化表决执行 |
-| DC 運営管理機関 | 成员账户受信：准确记录、公平菜单提供、提取合规 |
-| 计划发起人（企业 DB / DC） | 计划设计受信：计划规则、缴费水平、治理 |
+| 资产管理公司（运用机关） | 投资判断责任：组合构建、证券选择、表决意见 |
+| 信托银行（资产管理机关 / 受託金融机关） | 资产安全责任：保管、隔离、准确记录、机械式表决执行 |
+| DC 运営管理机关 | 成员账户受托责任：准确记录保管、公平菜单提供、提取合规 |
+| 计划发起人（企业 DB / DC） | 计划设计受托责任：计划规则、缴款水平、治理 |
 
 ### 会计视角
 
 | 项目 | 确认之处 |
 |---|---|
 | 养老金计划信托资产 | 对信托银行为表外；对养老金计划 / GPIF 为表内 |
-| 养老金信托管理费 | 信托银行损益表收入 |
-| 养老金计划成员余额（DC） | 持于 運営管理機関 记录；以 投信 应收 + 现金支撑 |
-| 养老金计划资金（DB） | 在计划 / 发起人处，非信托银行 |
+| 养老金信托管理费 | 信托银行损益表中的收益 |
+| 养老金计划成员余额（DC） | 在 运営管理机关 记录中持有；以 投信 应收款 + 现金支撑 |
+| 养老金计划缴款（DB） | 在计划 / 发起人处，而非信托银行 |
 
 ## 6. JASDEC / 清算基础设施连接
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│ Pension plan layers                                                   │
-│ - GPIF (~¥250tn)                                                       │
-│ - Corporate DB (多数の plans)                                          │
-│ - Corporate DC + iDeCo (多数の plans, member accounts)                 │
+│ 养老金计划各层                                                         │
+│ - GPIF（约 ¥250 万亿）                                                 │
+│ - 企业 DB（众多 plans）                                                │
+│ - 企业型 DC + iDeCo（众多 plans，成员账户）                            │
 └────────────┬────────────────────────────────────────────────────────┬─┘
-             │ mandate                                                 │ member admin (DC)
+             │ 委托                                                    │ 成员管理（DC）
              ▼                                                         ▼
 ┌────────────────────────────────┐                          ┌─────────────────────────┐
-│ 運用機関 (asset managers)        │                          │ DC 運営管理機関 (DC ops)  │
-│ — JP-AMs + foreign-AMs           │                          │ — MUFG Trust DC,         │
-│ — discretionary investment       │                          │   SMTB DC, Mizuho Trust  │
-│   decision + voting opinion      │                          │   DC, Nomura, Daiwa,     │
-└────────────┬───────────────────┘                          │   SMBC Nikko, NRK        │
-             │ trade instruction                              └─────────────────────────┘
+│ 运用机关（资产管理公司）        │                          │ DC 运営管理机关（DC ops） │
+│ — JP-AM + 外币-AM                │                          │ — 三菱 UFJ 信托 DC、     │
+│ — 裁量性投资                     │                          │   SMTB DC、瑞穗信托      │
+│   判断 + 表决意见                │                          │   DC、野村、大和、       │
+└────────────┬───────────────────┘                          │   SMBC 日兴、NRK         │
+             │ 交易指令                                       └─────────────────────────┘
              ▼
 ┌──────────────────────────────────────────────────────────────────────┐
-│ 資産管理機関 / 受託金融機関 (trust banks)                              │
-│ — MTBJ + CBJ (custody-only utility)                                   │
-│ — MUFG Trust / SMTB / Mizuho Trust (full-service + admin)             │
-│ — Norinchukin Trust (cooperative-finance)                             │
+│ 资产管理机关 / 受託金融机关（信托银行）                                │
+│ — MTBJ + CBJ（仅托管基础设施）                                        │
+│ — 三菱 UFJ 信托 / SMTB / 瑞穗信托（全服务 + 管理）                     │
+│ — 农中信托（协同组织金融）                                            │
 └─┬────────────┬────────────┬───────────────┬────────────────────────┬─┘
   │            │            │               │                        │
   ▼            ▼            ▼               ▼                        ▼
 ┌───────────┐┌─────────────┐┌──────────────┐┌──────────────────────┐┌─────────────────┐
-│ JASDEC    ││ JSCC        ││ BoJ JGB      ││ Global custodians    │ │ ICJ / proxy plat│
-│ (equities,││ (CCP for    ││ book-entry   ││ (BNY / State Street /│ │ (voting exec.)  │
-│ corp bonds││ cash equity)││ (JGB         ││ JPM / Citi for       │ │                 │
-│ CP, 投信) ││             ││ settlement)  ││ foreign-asset legs)  │ │                 │
+│ JASDEC    ││ JSCC        ││ BoJ JGB      ││ 全球托管人            │ │ ICJ / 表决      │
+│ （股票、  ││ （现货股票  ││ 簿记         ││ （面向外币资产端的    │ │ 平台            │
+│ 公司债、  ││ 的 CCP）    ││ （JGB        ││ BNY / State Street /  │ │ （表决执行）    │
+│ CP、投信）││             ││ 结算）       ││ JPM / Citi）          │ │                 │
 └───────────┘└─────────────┘└──────────────┘└──────────────────────┘└─────────────────┘
 ```
 
-### 养老金委托的外币资产环节
+### 养老金委托的外币资产端
 
-当养老金委托包含外国股票 / 债券 / 另类资产时：
+当养老金委托包含外国股票 / 债券 / 另类时：
 
 ```
-Pension plan
-  → 運用機関 (asset manager)
-    → 資産管理機関 (MTBJ / CBJ / megabank trust bank)
-      → Foreign sub-custodian (BNY / State Street / JPM / Citi Japan)
-        → Local sub-custodian in foreign market
-          → Local CSD or ICSD
+养老金计划
+  → 运用机关（资产管理公司）
+    → 资产管理机关（MTBJ / CBJ / 大型银行信托银行）
+      → 外币次级托管人（BNY / State Street / JPM / Citi Japan）
+        → 外国市场的本地次级托管人
+          → 本地 CSD 或 ICSD
 ```
 
 ## Related
@@ -238,13 +238,13 @@ Pension plan
 
 ## Sources
 
-- GPIF: official site, operational format page, English summary.
-- 厚生労働省: corporate pension policy pages.
-- Master Trust Bank of Japan: official site.
-- Custody Bank of Japan: official site.
-- Trust Companies Association of Japan: trust-bank explanation, trust-assets statistics.
-- 企業年金連合会 (Pension Fund Association): corporate-pension data.
-- 投資信託協会: investment-trust statistics.
-- FSA: trust-business financial institution list.
-- 信託協会・生命保険協会・JA共済連「企業年金（確定給付型）の受託概況（令和5年3月末現在）」(DB 資産残高 66兆238億円 / DB+厚生年金基金 合計 80兆5,006億円): https://www.shintaku-kyokai.or.jp/archives/013/202305/NR20230530-1.pdf
-- 運営管理機関連絡協議会「確定拠出年金統計資料（2024年3月末）」(企業型DC 22兆7,880億円 / iDeCo 6兆1,883億円): https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf
+- GPIF: 官方网站、运用形态页面、英文摘要。
+- 厚生劳动省: 企业年金政策页面。
+- 日本 Master Trust 信托银行: 官方网站。
+- 日本 Custody 银行: 官方网站。
+- 信托协会: 信托银行说明、信托财产统计。
+- 企业年金联合会: 企业年金数据。
+- 投资信托协会: 投资信托统计。
+- FSA: 信托业金融机构一览。
+- 信托协会・生命保险协会・JA共济连「企业年金（确定给付型）受托概况（令和5年3月 末现在）」（DB 资产余额 66兆238億円 / DB+厚生年金基金 合计 80兆5,006億円）: https://www.shintaku-kyokai.or.jp/archives/013/202305/NR20230530-1.pdf
+- 运营管理机关联络协议会「确定拠出年金统计资料（2024年3月 末）」（企业型DC 22兆7,880億円 / iDeCo 6兆1,883億円）: https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf

@@ -1,149 +1,149 @@
 ---
 source: cooperative-banks/ja-kyosairen-fukushima
-source_hash: 9c16f7dd8fe5d348
+source_hash: cf20b3ecdfc83626
 lang: zh
 status: machine
 fidelity: ok
-title: "JA共济连福岛（福岛县总部/福岛县JA共济连办事处）"
-translated_at: 2026-05-31T15:29:03.957Z
+title: "JA 共济连福岛 (福岛县本部 / Fukushima Prefectural Office of JA Kyosairen)"
+translated_at: 2026-06-18T23:33:48.284Z
 ---
-# JA共济连福岛（福岛县总部/福岛县JA共济连办事处）
+# JA 共济连福岛 (福岛县本部 / Fukushima Prefectural Office of JA Kyosairen)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first prefectural-federation anchor for the JA Kyosairen system in FinWiki**, closing the audit gap that "JA 共済連 exists but no prefectural 信連 anchors exist". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績). Read with [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]] for the national parent, [[regional-banks/fukushima-bank|福島銀行]] for the regional banking peer, [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-credit prefectural equivalent, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
+本条目归属于 [[cooperative-banks/INDEX|cooperative-banks INDEX]]，作为 **FinWiki 中 JA 共济连体系的首个县级联合会锚点**，弥补"JA 共济连存在但不存在任何县级信连锚点"的审计缺口。福岛因其灾后重建背景的相关性而被选定（2011  东日本大震灾・核事故 + 建物更生共济 = 建更 的大规模给付实绩）。请与 [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]]（全国母体）、[[regional-banks/fukushima-bank|福島銀行]]（地区银行同业）、[[cooperative-banks/ja-shinnoren|JA 信連]]（农业信用县级对等机构）、[[banking/ja-bank-system-japan|JA Bank system]]（体系边界）一同阅读。
 
 ## TL;DR
 
-**JA Kyosaren 福岛县总部 = [[non-life-insurers/ja-kyosairen|JA 共済連]] 福岛县地区业务基地**。随着2000 年的都道府县本部（47 都道府县互助联盟→1 全协联+47 都道府县本部）的整合，都道府县组织失去法人地位，转型为国家总部的都道府县本部组织（负责都道府县互助项目的实施）。 ** 2011  在东日本大地震 + 福岛第一核电站事故期间，JA 互助联盟福岛县总部有提供大规模建筑修复互助（重建）的记录** = 负责向县内农业合作社成员家庭落实灾害福利，体现灾后恢复期间合作互助作用的代表性案例。我们将与福岛县**5  JA（JA福岛未来/JA福岛樱花/JA南梦/JA东财白川/JA会津四叶）**合作，对会员进行销售+鉴定+生活互助、养老金互助、建筑复兴互助、汽车互助等福利。 ^[extracted]
+**JA 共济连福岛县本部 = [[non-life-insurers/ja-kyosairen|JA 共済連]] 的福岛县区域事业据点**。在 2000 年 的县本部统合（47  都道府县共济连 → 1  全共连 + 47  县本部）中，县组织丧失法人格，转移为全国本部的县本部组织（承担共济事业的分县实施）。**在 2011  东日本大震灾 + 福岛第一核电站事故中，JA 共济连福岛县本部拥有建物更生共济（建更）的大规模给付实绩** = 承担向县内农协组合员家庭进行灾害给付的实务执行，作为代表性案例体现了灾后重建期协同组合共济的作用。与福岛县的 **县内 5  JA（JA 福岛未来 / JA 福岛樱花 / JA 梦南 / JA 东西白河 / JA 会津四叶）** 协作，执行面向组合员的生命共济・年金共济・建物更生共济・汽车共济的销售 + 查定 + 给付实务。^[extracted]
 
-## 1 。执照/组织结构
+## 1. License / 组织结构
 
-|项目 |内容 |
+| 项目 | 内容 |
 |---|---|
-|正式名称 |全国互助农业合作社联合会福岛县总部|
-|通用名| JA Kyosairen 福岛 / Zenkyoren 福岛 |
-|法律形式| **Zenkyoren 县总部 ([[non-life-insurers/ja-kyosairen|JA 共済連]])**（整合 2000 年 县总部后）|
-|成立| 1951 （原福岛县互助农业合作社联合会）→ 2000  并入国家总部 |
-|地点 |福岛县福岛市（JA 大楼内） |
-|相关工会 |福岛县 5  JA（JA 福岛未来 / JA 福岛樱 / JA 南梦 / JA 白川东哉 / JA 会津四叶）+ 当地工会成员 |
-|监管机构|农林水产省（主）+金融厅（合作监管）|
-|维基角色 | **JA互助联盟的县本部锚**（47 选择福岛作为县本部的代表示例）|
+| 正式名 | 全国共济农业协同组合连合会 福岛县本部 |
+| 通称 | JA 共济连福岛 / 全共连福岛 |
+| 法律形态 | **全共连 ([[non-life-insurers/ja-kyosairen|JA 共済連]]) 的县本部**（2000 年 县本部统合后） |
+| 设立 | 1951 （旧 福岛县共济农业协同组合连合会）→ 2000  统合至全国本部 |
+| 所在地 | 福岛县福岛市 (JA 大厦内) |
+| 关系组合 | 福岛县内 5  JA (JA 福岛未来 / JA 福岛樱花 / JA 梦南 / JA 东西白河 / JA 会津四叶) + 地区组合员 |
+| 监督官厅 | 农林水产省 (主) + 金融厅 (协力监督) |
+| Wiki role | **JA 共济连的县级县本部 anchor**（选定福岛作为 47  县本部的代表性案例） |
 
-### 都道府县互助联合会整合历史 ( 2000 ) ^[extracted]
+### 县共济连统合 (2000) 的经过 ^[extracted]
 
-|年龄 |活动 |
+| 年代 | 事象 |
 |---|---|
-| 1951 ~ | 47  都道府县成立“都道府县互助农业合作社联合会”（具有法人资格的独立联合会）|
-| 1960〜90 年代 | 47 県共済連 + 1 全共連の 2 段構造で運営 |
-| ** 2000-04-01 ** | **都道府县互助联盟47 机构→并入全协联**，改组为各都道府县本部^[extracted]|
-| 2000 ~ |以Zenkyoren为国家总部、47 县组织为“县总部”统一管理|
-| ** 2011-03-11 ** | **东日本大地震+福岛第一核电站事故** — 福岛县本部重建补助实践规模化 ^[extracted] |
-| 2012 ~ |福岛县JA + 县本部恢复期间的持续会员服务|
-| 2020 ~ |县本部开发JA互助应用程序/AI评估|
-| 2024 ~ | DX提升+县本部运营效率|
+| 1951〜 | 按 47  都道府县分别设立「县共济农业协同组合连合会」（具有法人格的独立联合会） |
+| 1960〜90  年代 | 以 47  县共济连 + 1  全共连的 2  段结构运营 |
+| **2000-04-01** | **县共济连 47  机关 → 统合至全共连**，重组为各县本部 ^[extracted] |
+| 2000〜 | 以全共连为全国本部、47  县组织为「县本部」的一体运营化 |
+| **2011-03-11** | **东日本大震灾 + 福岛第一核电站事故** — 福岛县本部的建更给付实务大规模化 ^[extracted] |
+| 2012〜 | 福岛县内 JA + 县本部在重建期持续提供组合员服务 |
+| 2020〜 | JA 共济 app・AI 查定的县本部展开 |
+| 2024〜 | DX 推进 + 县本部的业务效率化 |
 
-### Zenkyoren + 47  县本部综合运营 ^[extracted]
+### 全共连 + 47  县本部的一体运营 ^[extracted]
 
 ```
 [[non-life-insurers/ja-kyosairen|JA 共済連 (全共連) 全国本部]]
   ├── 北海道本部
-  ├── 東北 6 県本部 (青森・岩手・宮城・秋田・山形・福島) ★福島=本ページ
-  ├── 関東甲信越 県本部
-  ├── 東海 県本部
-  ├── 近畿 県本部
-  ├── 中国四国 県本部
-  └── 九州沖縄 県本部
-      ↓ 各県本部は 全共連の事業実施組織として運営
-      → 県内 JA + 組合員世帯への共済販売 + 査定 + 給付
+  ├── 东北 6  县本部 (青森・岩手・宫城・秋田・山形・福岛) ★福岛=本页
+  ├── 关东甲信越 县本部
+  ├── 东海 县本部
+  ├── 近畿 县本部
+  ├── 中国四国 县本部
+  └── 九州冲绳 县本部
+      ↓ 各县本部作为全共连的事业实施组织运营
+      → 向县内 JA + 组合员家庭进行共济销售 + 查定 + 给付
 ```
 
-### 主要职责（具体到县总部） ^[extracted]
+### 主要业务 (县本部固有) ^[extracted]
 
-|业务 |内容 |
+| 业务 | 内容 |
 |---|---|
-| **互助销售支持** |都道府县5  JA互助促进人员培训及销售目标管理|
-| **评估练习** |县内车祸、火灾、自然灾害现场评估|
-| **福利金** |会员户互助金发放做法|
-| **促进楼宇修复互助（重建）** |火灾+自然灾害+死亡保障等主要产品销售|
-| **会员教育** |风险管理/互助使用教育|
-| **灾难恢复期响应** |大规模灾害期间强化评估+效益实践|
+| **共济销售支援** | 县内 5  JA 的共济推进员教育・销售目标管理 |
+| **查定实务** | 县内汽车事故・火灾・自然灾害的现地查定 |
+| **给付支付** | 向组合员家庭支付共济金的实务 |
+| **建物更生共济 (建更) 推进** | 火灾 + 自然灾害 + 死亡保障一体型主力商品的销售 |
+| **组合员教育** | 风险管理・共济利用教育 |
+| **灾后重建期应对** | 大规模灾害时的集中查定 + 给付实务 |
 
-### 2011  东日本大地震 + 核电站事故带来的重建效益 ^[extracted]
+### 2011  东日本大震灾 + 核事故中的建更给付 ^[extracted]
 
-- **2011-03-11 东日本大地震**：福岛县本部管辖地区遭受严重破坏
-- 海啸灾害（沿海地区）+地震灾害（内陆地区）+福岛第一核电站事故（疏散地区）
-- **建筑修复互助（重建）**=火灾+自然灾害+综合身故赔付→大规模赔付
+- **2011-03-11 东日本大震灾**：福岛县本部管辖区域遭受巨大损失
+  - 海啸损失 (沿岸部) + 地震损失 (内陆部) + 福岛第一核电站事故 (避难区域)
+- **建物更生共济 (建更)** = 火灾 + 自然灾害 + 死亡保障一体型 → 大规模给付
 
-### 福岛县农业/JA 结构 ^[extracted]
+### 福岛县的农业・JA 结构 ^[extracted]
 
-- **福岛县 JA**：JA 福岛未来（县北部/中部）/JA 福岛樱/JA 南梦/JA 东哉白川/JA 会津四叶的 5  JA
-- **水稻、蔬菜、水果（桃、梨）**和牲畜的主要产区
-- **核电站事故后声誉受损的对策** + JA 继续参与食品流通安全计划
+- **福岛县内 JA**：JA 福岛未来 (县北・县中) / JA 福岛樱花 / JA 梦南 / JA 东西白河 / JA 会津四叶 的 5  JA
+- **米・蔬菜・水果 (桃・梨)**・畜产的主要产地
+- **核事故后的风评损害对策** + 食品流通安全计划中 JA 参与的持续
 
-### 都道府县本部财务规模
+### 县本部的财务规模
 
-- **县总部的 KPI 未公开** — 县总部没有自己的财务报表，因为它是 Zenkyoren 组织 ^[extracted] 内的业务基地。福岛县总部官方网站上的“披露”也已转发给全国JA互助联盟，并且各县的数据（有效合同金额和会员家庭数量）未公开（由2026-05-29确认）。由于缺乏来源，各县的大致数字估计被隔离在“.opinions/JapanFG/ja-kyosaren-fukushima.md”中。
+- **县本部单独 KPI 非披露** — 县本部是全共连的组织内事业据点，因此不具有独立财务报表 ^[extracted]。福岛县本部官方网站的"披露"也转送至全国 JA 共济连的披露，分县计数 (保有合同额・组合员家庭数) 未公开 (2026-05-29 确认)。分县概数的推定因缺乏出处，隔离于 `.opinions/JapanFG/ja-kyosairen-fukushima.md`。
 
-### 福岛县本部在全协连内的位置
+### 全共连内福岛县本部的定位
 
-- **47  东北县总部之一 6  县总部之一**
-- 体验东北地区**2011 地震+核电站事故**的特殊环境（青森、岩手、宫城、秋田、山形、福岛）
-- 灾害应对能力+会员制服务 **都道府县总部模型示例**
-- **Zenkyoren 内的灾难福利实践知识中心**
+- **47  县本部中东北 6  县本部之一**
+- 在东北地区 (青森・岩手・宫城・秋田・山形・福岛) 经历了 **2011  震灾 + 核事故** 这一特殊环境
+- 灾害应对能力 + 组合员紧密服务的 **县本部模式代表性案例**
+- 全共连内 **灾害给付实务的知见集约地**
 
-###灾后恢复合作互助模式
+### 灾后重建期的协同组合共济模式
 
-- 与私人保险公司（非人寿保险）相比，JA Kyosairen = 基于“会员互助”理念的福利**
-- **建筑修复互助（重建）** = 火灾 + 地震 + 自然灾害 + 死亡保险 → 私人非人寿保险中没有的独特产品
-- 福岛县总部 2011  地震响应 = **展示重建的社会意义**
+- 与民间保险公司 (财险) 相比，JA 共济连 = 基于 **"组合员互助"** 理念的给付
+- **建物更生共济 (建更)** = 火灾 + 地震 + 自然灾害 + 死亡保障一体 → 民间财险所没有的独有商品
+- 福岛县本部的 2011  震灾应对 = 实证了 **建更的社会意义**
 
 ## 4. KPI
 
-|指标|价值|来源 |
+| 指标 | 值 | 出处 |
 |---|---|---|
-|县内 JAs 数量 | 5  JA | JA共济连福岛官方网站^[extracted] |
+| 县内 JA 数 | 5  JA | JA 共济连福岛 官方网站 ^[extracted] |
 
-> 注：JA互助会由全国总部运营，因此仅公布县总部的有效合同金额和会员户数（县数据无原始数据，由2026-05-29确认）。按都道府县的估计数字在“.opinions/JapanFG/ja-kyosairen-fukushima.md”中进行了隔离。请参阅 Zenkyoren 年度报告 + JA 集团概况手册 2026 ，了解全国 (Zenkyoren) 上有效的保单数量。
+> 注：因 JA 共济连为全国本部一体运营，县本部单独的保有合同额・组合员家庭数非披露 (无分县计数的一次资料，2026-05-29 确认)。分县概数的推定隔离于 `.opinions/JapanFG/ja-kyosairen-fukushima.md`。全国 (全共连) 基础的保有合同额等请参照全共连年次报告书 + JA 集团 Factbook 2026 。
 
-## 5 。监督/监管
+## 5. 监督・监管
 
-- **监管**：农林水产省（主）+金融厅（合作监管）+福岛县农林水产省（县工会监管）
-- **法律依据**：农业合作社法（互助经营规定）+互助经营指引
-- **当前政策问题**：
-- **灾后恢复期重建效益模型持续演进**
-- **人工智能评估+数字合同**在县总部部署
-- 都道府县总部+都道府县JA在**粮食安全计划（2026 ~）**中的作用
-- **核事故区**的长期重建和会员服务的延续
+- **主管**：农林水产省 (主) + 金融厅 (协力监督) + 福岛县农林水产部 (县组合监督)
+- **法律依据**：农业协同组合法 (共济事业条款) + 共济事业指引
+- **近期政策要点**：
+  - **灾后重建期建更给付模式** 的持续演进
+  - **AI 查定 + 数字合同** 的县本部展开
+  - **粮食安全保障计划 (2026〜)** 中县本部 + 县内 JA 的作用
+  - **核事故区域** 的长期重建与组合员服务持续
 
 ## Related
 
-- [[non-life-insurers/ja-kyosairen]] — JA互助联盟全国总部（本县总部上方）
-- [[cooperative-banks/ja-zenchu]] — JA Zenchu（JA 集团代表）
-- [[cooperative-banks/ja-zen-noh]] — JA Zennoh（JA 集团经济业务）
-- [[cooperative-banks/ja-shinnoren]] — JA Shinren（同行县总部/信贷业务）
-- [[cooperative-banks/ja-bank-tokyo-shinren]] — JA 银行东京 Shinren（同行县主播）
-- [[cooperative-banks/norinchukin]] — Norinchukin 银行（JA 银行系统中心）
-- [[regional-banks/fukushima-bank]] — 福岛银行（福岛县的同行银行）
-- [[non-life-insurers/kyoritsu-fire-marine]] — Kyoei Fire and Marine Insurance（JA Kyosairen 74.20% 投资子公司）
-- [[cooperative-banks/jf-shingyoren]] — JF Shinyoren（渔业合作伙伴）
+- [[non-life-insurers/ja-kyosairen]] — JA 共济连 全国本部 (本县本部的上位)
+- [[cooperative-banks/ja-zenchu]] — JA 全中 (JA 集团代表)
+- [[cooperative-banks/ja-zen-noh]] — JA 全农 (JA 集团经济事业)
+- [[cooperative-banks/ja-shinnoren]] — JA 信连 (peer 县本部 / 信用事业)
+- [[cooperative-banks/ja-bank-tokyo-shinren]] — JA 银行东京 信连 (peer prefectural anchor)
+- [[cooperative-banks/norinchukin]] — 农林中央金库 (JA Bank system 的中央)
+- [[regional-banks/fukushima-bank]] — 福岛银行 (福岛县内 peer 银行)
+- [[non-life-insurers/kyoritsu-fire-marine]] — 共荣火灾海上保险 (JA 共济连 74.20% 出资子公司)
+- [[cooperative-banks/jf-shingyoren]] — JF 信渔连 (渔协系 peer)
 - [[banking/ja-bank-system-japan]] — JA Bank system
-- [[banking/cooperative-banking-japan]] — 整体合作金融
-- [[insurance/INDEX]] — 保险领域（互助比较）
+- [[banking/cooperative-banking-japan]] — 协同组织金融整体
+- [[insurance/INDEX]] — 保险领域 (共济比较)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 
-- **JA Kyosairen 官方**：https://www.ja-kyosai.or.jp/
-- **JA Kyosairen 公司简介**：https://www.ja-kyosai.or.jp/about/
-- **JA Kyosairen国家总部/县总部组织结构图**：https://www.ja-kyosai.or.jp/about/zenken/
-- **JA Kyosairen 披露（所有国家总部）**：https://www.ja-kyosai.or.jp/about/disclosure/ — 披露基于国家总部，未公布各县的数据
-- **JA 共済連 福島県本部 公式**: https://www.jakyosai-fukushima.jp/ — 「県内 5 JA（JA ふくしま未来、JA 福島さくら、JA 夢みなみ、JA 東西しらかわ、JA 会津よつば）と連携・協調しながら、JA の共済事業を総合的にバックアップ」(2026-05-30 確認。旧版の「8 JA」を 5 JA に訂正)。「ディスクロージャー」リンクは全国開示に転送 (県別計数の独自開示なし)
-- **JA 集团概况手册 2026 **：https://org.ja-group.jp/pdf/jafactbook/jafactbook_ 2026.pdf
-- 农业合作社法（昭和 22 年法第 132 号）
-- 2011  东日本大地震 + 福岛第一核电站事故相关 JA 相互保险给付结果资料
+- **JA 共济连 官方**：https://www.ja-kyosai.or.jp/
+- **JA 共济连 公司概要**：https://www.ja-kyosai.or.jp/about/
+- **JA 共济连 全国本部・县本部组织图**：https://www.ja-kyosai.or.jp/about/zenken/
+- **JA 共济连 披露 (全国本部一体)**：https://www.ja-kyosai.or.jp/about/disclosure/ — 披露基于全国本部，分县计数未刊载
+- **JA 共济连 福岛县本部 官方**：https://www.jakyosai-fukushima.jp/ — 「与县内 5  JA（JA 福岛未来、JA 福岛樱花、JA 梦南、JA 东西白河、JA 会津四叶）合作・协调的同时，综合性地支持 JA 的共济事业」(2026-05-30 确认。将旧版的「8  JA」订正为 5  JA)。「披露」链接转送至全国披露 (无分县计数的独自披露)
+- **JA 集团 Factbook 2026**：https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
+- 农业协同组合法 (昭和 22 年 法律 第 132 号)
+- 2011  东日本大震灾 + 福岛第一核电站事故相关的 JA 共济连给付实绩资料
 
 ---
 
-> [!info] 学校核心状况
-> 信心：**可能**。县本部=全共联的内部业务据点，不具有法人资格，因此没有公开各县有效合同金额或会员户数的主要材料（福岛县本部官方网站上的披露也被转发至国家披露，经2026-05-29确认）。由于缺乏来源，之前各县的大致数字（寿险数十亿日元，非寿险数千亿日元，数十万会员家庭）在“.opinions/JapanFG/ja-kyosaren-fukushima.md”中被隔离。 **更正 (2026-05-30)：旧版本的“县 8  JA”不正确。 JA福岛互助联盟的官方网站明确指出，“县级5  JA（JA福岛未来/JA福岛樱花/JA Yume Minami/JA Tozai Shirakawa/JA Aizu Yotsuba）”。 ** 文中留下的事实（5 县内JA、2000 县总部一体化、2011 地震灾害背景和重建效益）是结构性事实。
+> [!info] 校核状态
+> confidence: **likely**。县本部 = 全共连的组织内事业据点，不具有法人格，不存在披露分县保有合同额・组合员家庭数的一次资料 (福岛县本部官方网站的披露亦转送至全国披露，2026-05-29 确认)。此前的分县概数 (生命系 数兆日元 / 损害系 数千亿日元 / 组合员家庭 数十万人) 因缺乏出处，隔离于 `.opinions/JapanFG/ja-kyosairen-fukushima.md`。**订正点 (2026-05-30)：旧版的「县内 8  JA」有误。JA 共济连福岛 官方网站明确记载「县内 5  JA（JA 福岛未来 / JA 福岛樱花 / JA 梦南 / JA 东西白河 / JA 会津四叶）」。** 正文中保留的事实 (县内 5  JA, 2000  县本部统合, 2011  震灾・建更给付的背景) 为结构性事实。

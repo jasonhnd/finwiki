@@ -1,11 +1,11 @@
 ---
 source: finance/carve-out-divestiture-japan
-source_hash: 74285118d0c326b2
+source_hash: 99c94a06e5640d91
 lang: en
 status: machine
 fidelity: ok
 title: "Carve-out and divestiture process in Japan"
-translated_at: 2026-05-31T06:16:15.667Z
+translated_at: 2026-06-18T23:33:48.375Z
 ---
 
 # Carve-out and divestiture process in Japan
@@ -22,8 +22,8 @@ This page sits in [[finance/INDEX|finance]] alongside [[finance/cross-border-m-a
 |---|---|---|---|---|
 | **Asset deal** (事業譲渡) | Sell defined assets + contracts | Asset-by-asset transfer tax, real-estate registration tax; capital gain at seller; book-up at buyer | Each material contract counterparty consent; employee consent for transfer | Cherry-pick assets, leave legacy liabilities behind |
 | **Share deal** (株式譲渡) | Sell shares of subsidiary | Capital gain at seller; basis carries at buyer | Limited (change-of-control clauses only) | Clean entity transfer, including liabilities |
-| **Company split** (会社分割) — absorption-type / incorporation-type | Statutory split under Companies Act Articles 757-816 | Tax-qualified ("適格") split is tax-deferred; non-qualified is taxable | Creditor objection procedure; employee succession under Labor Contract Succession Act | Reorganize before sale; clean separation with statutory succession |
-| **Stock-distribution / spin-off** (株式分配) | Parent distributes subsidiary shares to its shareholders | 2017  reform: tax-qualified spin-off route under Article 2-12-15-2  of Corporation Tax Act | AGM if material; class-1  shareholder approval | Listed parent distributes a listed sub; institutional reshape (Toshiba / Sony Financial cases) |
+| **Company split** (会社分割) — absorption-type / incorporation-type | Statutory split under Companies Act Articles 757-816  | A tax-qualified ("適格") split is tax-deferred; non-qualified is taxable | Creditor objection procedure; employee succession under the Labor Contract Succession Act | Reorganize before sale; clean separation with statutory succession |
+| **Stock-distribution / spin-off** (株式分配) | Parent distributes subsidiary shares to its shareholders | The 2017  reform: tax-qualified spin-off route under Article 2-12-15-2  of the Corporation Tax Act | AGM if material; class-1  shareholder approval | A listed parent distributes a listed sub; institutional reshape (Toshiba / Sony Financial cases) |
 | **IPO carve-out** | Sub listed separately; parent retains majority or minority | Parent retains book; gain on partial dilution | TSE listing process; underwriter due diligence | Monetize while keeping operational control |
 
 ## Asset deal vs share deal
@@ -47,7 +47,7 @@ This page sits in [[finance/INDEX|finance]] alongside [[finance/cross-border-m-a
 | Cash to parent | None (pure distribution) | Full purchase price |
 | Tax to parent | Deferred if qualifying spin-off | Taxable gain |
 | Speed | 6-12  months | 6-18  months including [[finance/jftc-merger-control-process|JFTC clearance]] |
-| Control outcome | Sub becomes standalone listed entity | Sub goes into buyer's group |
+| Control outcome | Sub becomes a standalone listed entity | Sub goes into the buyer's group |
 | Strategic logic | Conglomerate discount unwind | Capital recycling, focus, debt paydown |
 
 ## TSA — transition services agreement
@@ -57,13 +57,13 @@ Carve-outs from a multi-product parent almost always require a TSA — the paren
 | Service | Typical TSA scope |
 |---|---|
 | IT / ERP | SAP / Oracle instance migration; data segregation, custom-code carve-out |
-| HR / payroll | Continued payroll processing until sub builds capacity |
-| Treasury / cash management | Inter-company cash pool unwind; new banking arrangement at sub |
-| Procurement | Shared supplier contracts; bridge purchasing until sub renegotiates |
+| HR / payroll | Continued payroll processing until the sub builds capacity |
+| Treasury / cash management | Inter-company cash-pool unwind; new banking arrangement at the sub |
+| Procurement | Shared supplier contracts; bridge purchasing until the sub renegotiates |
 | Legal / compliance | Shared regulatory licenses (esp. financial-services under [[financial-licenses/securities-license-stack|securities-license stack]]) |
 | Real estate | Continued shared office occupancy with cost allocation |
 
-TSA pricing is typically **cost-plus 5-10%**, with step-ups to incentivize exit. Reverse-TSAs flow services from sub back to parent for retained obligations.
+TSA pricing is typically **cost-plus 5-10%**, with step-ups to incentivize exit. Reverse-TSAs flow services from the sub back to the parent for retained obligations.
 
 ## Tax considerations
 
@@ -73,33 +73,33 @@ Japanese tax-qualified ("適格") reorganization rules (Corporation Tax Act Arti
 - **Joint-business reorganization** — substantial-business test (>80% workforce continues, business continues, exchange-of-equity)
 - **2017  spin-off route** — direct stock-distribution to parent shareholders without prior asset-restructuring
 
-Non-qualified split triggers **mark-to-market gain at parent level** and stamp-duty inefficiencies. NTA private rulings increasingly common for novel carve-out structures — see also [[finance/multi-jurisdiction-identity-tax-leverage|tax-jurisdiction comparison]] for cross-border carve-outs.
+A non-qualified split triggers **mark-to-market gain at the parent level** and stamp-duty inefficiencies. NTA private rulings are increasingly common for novel carve-out structures — see also [[finance/multi-jurisdiction-identity-tax-leverage|tax-jurisdiction comparison]] for cross-border carve-outs.
 
 ## Carve-out workstreams
 
-1. **Perimeter definition** — which assets, contracts, employees, IP, real estate, regulatory licenses transfer
-2. **Standalone carve-out financials** — restate sub financials excluding parent allocations
-3. **Day-1  readiness** — TSA scope, IT cut-over plan, treasury setup, bank account opening
+1. **Perimeter definition** — which assets, contracts, employees, IP, real estate, and regulatory licenses transfer
+2. **Standalone carve-out financials** — restate the sub's financials excluding parent allocations
+3. **Day-1  readiness** — TSA scope, IT cut-over plan, treasury setup, bank-account opening
 4. **Regulatory** — [[finance/jftc-merger-control-process|JFTC]] notification if turnover crosses thresholds; sector regulators (banking, telecom); foreign FDI if cross-border
-5. **Tax structuring** — pursue 適格 status; secure NTA ruling on novel points
-6. **Employee transfer** — Labor Contract Succession Act compliance for company-split; individual consent for asset deal
+5. **Tax structuring** — pursue 適格 status; secure an NTA ruling on novel points
+6. **Employee transfer** — Labor Contract Succession Act compliance for a company-split; individual consent for an asset deal
 7. **Customer / supplier consent** — change-of-control walk-throughs
 
 ## Recent examples (2023-2026)
 
 | Year | Parent | Carved-out business | Path | Notes |
 |---|---|---|---|---|
-| 2023 | Toshiba | Multiple post-private restructuring | Trade-sale + spin-off mix | Post-go-private optimization |
-| 2024 | Sony FG | Sony Financial Group spin-off (re-listed 2025) | Stock-distribution spin-off | 2017-reform spin-off mechanic; tax-qualified |
-| 2024 | Hitachi | Astemo (auto components) | Trade sale to PE | Continued portfolio-pruning theme |
-| 2025 | Various TSA Prime | Non-core conglomerate disposals | Mixed | TSE PBR<1  reform pressure driving carve-outs |
+| 2023  | Toshiba | Multiple post-private restructuring | Trade-sale + spin-off mix | Post-go-private optimization |
+| 2024  | Sony FG | Sony Financial Group spin-off (re-listed 2025) | Stock-distribution spin-off | 2017-reform spin-off mechanic; tax-qualified |
+| 2024  | Hitachi | Astemo (auto components) | Trade sale to PE | Continued portfolio-pruning theme |
+| 2025  | Various TSE Prime | Non-core conglomerate disposals | Mixed | TSE PBR<1  reform pressure driving carve-outs |
 
 ## Research checklist
 
 1. Pull TDnet / EDINET filings for the announcement, structure (asset / share / split / spin-off), and tax-qualified election.
 2. Map [[finance/jftc-merger-control-process|JFTC]] notification timing vs deal-close conditions.
 3. Identify TSA scope and termination triggers in the press release.
-4. Check whether [[finance/japan-tender-offer-process|TOB]] is required (if listed-sub shares change hands above threshold).
+4. Check whether [[finance/japan-tender-offer-process|TOB]] is required (if listed-sub shares change hands above the threshold).
 5. Cross-reference with [[finance/japan-listed-financial-groups-investable-universe|listed FG universe]] for parent / sub valuation impact.
 
 ## Related

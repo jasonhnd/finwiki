@@ -1,173 +1,173 @@
 ---
 source: banking/trust-bank-fee-structure-comparison
-source_hash: 95ad2f85422c074a
+source_hash: afb3190ea2408f2a
 lang: zh
 status: machine
 fidelity: ok
-title: "信托银行费用结构比较"
-translated_at: 2026-05-31T03:19:56.387Z
+title: "信托银行手续费结构对比"
+translated_at: 2026-06-18T23:33:48.340Z
 ---
 
-# 信托银行费用结构比较
+# 信托银行手续费结构对比
 
-## Wiki route
+## Wiki 路径
 
-本条目归于 [[banking/INDEX|banking index]] 之下，与运营模式深度剖析互为补充——请与 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] 以及运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 一并阅读。配合实体页 [[trust-banks/master-trust-bank|MTBJ]]、[[trust-banks/custody-bank|CBJ]]、[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[trust-banks/smbc-trust-bank|SMBC Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] 和 [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]]。结算轨道背景见 [[banking/jasdec-settlement-operations|JASDEC settlement operations]]。机构背景见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+本条目归属于 [[banking/INDEX|banking index]]，是对运营模式深度剖析的补充——请结合 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] 以及运营对比 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 一并阅读。请与实体页面 [[trust-banks/master-trust-bank|MTBJ]]、[[trust-banks/custody-bank|CBJ]]、[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[trust-banks/smbc-trust-bank|SMBC Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] 搭配阅读。关于结算轨道背景，参见 [[banking/jasdec-settlement-operations|JASDEC settlement operations]]。关于机构背景，参见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## TL;DR
 
-日本信托银行的费用经济学由三大驱动因素主导：证券托管与 投信受託 的 AUC 基点定价、长久期委托的养老金信托管理费，以及全能型信托银行侧的房地产信托费。细粒度费率表大体不公开——只能从股东合并披露与各 投信 招募说明书（信託約款）中作总量级推断。在 6  家日本信托银行（MTBJ、CBJ、MUFG Trust、SMTB、Mizuho Trust、SMBC Trust）与 4  家全球托管行（BNY Mellon、State Street、Citi、JPM）之间，结构性定价模式相似——AUC 基点 + 单笔交易费 + 收入分成型证券出借——但其构成与定价能力因客户细分而显著不同。国内纯托管专业机构（MTBJ、CBJ）以成交量锚定低基点；全能型信托银行将利润率更高的房地产 / 养老金 / 继承费与托管捆绑；全球托管行因跨境 + ICSD 连接而收取相对溢价。委托层级的定价并未公开披露；因此本条目中的费用量级细节属于行业层级推断而非实体特定事实，并被隔离至 `.opinions/banking/trust-bank-fee-structure-comparison.md`。
+日本信托银行的手续费经济性由三大驱动因素主导：证券托管与投信受託上的 AUC-bps 定价、长久期委托上的养老金信托管理费，以及全方位服务信托银行侧的不动产信托费。细化的费率表大多不公开——仅能从股东并表披露和个别投信招募说明书（信託約款）进行汇总层面的推断。在 6 家日本信托银行（MTBJ、CBJ、MUFG 信托、SMTB、瑞穗信托、SMBC 信托）与 4 家全球托管行（BNY Mellon、State Street、Citi、JPM）之间，结构性定价模型相似——AUC bps + 每笔交易费 + 收入分成型借券——但其构成与定价权因客户细分而显著不同。国内托管专营机构（MTBJ、CBJ）以规模锚定低 bps; 全方位服务信托银行将高利润率的不动产／养老金／继承费用与托管捆绑; 全球托管行就跨境 + ICSD 连接性收取相对溢价。委托层面的定价未公开披露; 因此本条目中的费用规模细节属于行业层面的推断而非实体特定的事实，并被隔离至 `.opinions/banking/trust-bank-fee-structure-comparison.md`。
 
-## 1. 機関位置
+## 1. 机构定位
 
-| 实体 | 类别 | 公开 AUC 锚点 | 上市情况 | 细粒度费用披露 |
+| Entity | Category | Public AUC anchor | Listing | Granular fee disclosure |
 |---|---|---|---|---|
-| [[trust-banks/master-trust-bank|MTBJ]] | 日本纯托管专业机构 | 约 ¥770 万亿（2025-03末，MTBJ 披露） | 非上市 | 无逐项披露；汇总于 MUFG / 4 股东合并报表 | 
-| [[trust-banks/custody-bank|CBJ]] | 日本纯托管专业机构 | 约 ¥696 万亿（2025-03末，CBJ 披露） | 非上市 | 无逐项披露；汇总于 SMTB / Mizuho 侧合并报表 |
-| [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] | 日本全能型信托银行 | 信托资产达 100 万亿级；AUC + 房地产 + 养老金 | [[megabanks/mufg|MUFG]]（上市）的子公司 | 汇总分部披露 |
-| [[trust-banks/sumitomo-mitsui-trust|SMTB]] | 日本全能型信托银行 | 信托资产达 100 万亿级 | [[trust-banks/sumitomo-mitsui-trust|SMT Holdings]]（上市）的子公司 | 汇总分部披露 |
-| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | 日本全能型信托银行 | 信托资产达 10 至 100 万亿级 | [[megabanks/mizuho-fg|Mizuho FG]]（上市）的子公司 | 汇总分部披露 |
-| [[trust-banks/smbc-trust-bank|SMBC Trust]] | 日本零售-PB 导向信托银行 | <¥10 万亿（PB / 富裕層 聚焦） | [[megabanks/smbc-group|SMBC Group]]（上市）的子公司 | 汇总于零售 / PB 分部下 |
-| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | 全球托管行——日本单位 | 日本特定 AUC 未披露；母公司约 $50 万亿 AuC/A | BNY Mellon（NYSE）的子公司 | 仅母公司层级汇总 |
-| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | 全球托管行——日本单位 | 日本特定 AUC 未披露；母公司约 $46.6 万亿 AuC/A（2024-12） | State Street（NYSE）的子公司 | 仅母公司层级汇总 |
-| [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | 全球托管行——日本单位 | 日本特定 AUC 未披露；母公司约 $35 万亿+ AuC（2024末） | JPMorgan Chase（NYSE）的子公司 | 仅母公司层级汇总 |
-| [[foreign-financial-institutions/citigroup-japan|Citi Japan]] | 全球托管行——日本单位 | 日本特定 AUC 未披露；母公司约 $26.3 万亿 AuC/A（2024-09） | Citigroup（NYSE）的子公司 | 仅母公司层级汇总 |
+| [[trust-banks/master-trust-bank|MTBJ]] | JP custody-only specialist | ~¥770万亿日元 (2025-03末, MTBJ disclosure) | Non-listed | None at line-item; aggregated in MUFG / 4-shareholder consolidated | 
+| [[trust-banks/custody-bank|CBJ]] | JP custody-only specialist | ~¥696万亿日元 (2025-03末, CBJ disclosure) | Non-listed | None at line-item; aggregated in SMTB / Mizuho-side consolidated |
+| [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] | JP full-service trust bank | Trust assets in 100s of trillions; AUC + real-estate + pension | Subsidiary of [[megabanks/mufg|MUFG]] (listed) | Aggregated segment disclosure |
+| [[trust-banks/sumitomo-mitsui-trust|SMTB]] | JP full-service trust bank | Trust assets in 100s of trillions | Subsidiary of [[trust-banks/sumitomo-mitsui-trust|SMT Holdings]] (listed) | Aggregated segment disclosure |
+| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | JP full-service trust bank | Trust assets in 10s-100s of trillions | Subsidiary of [[megabanks/mizuho-fg|Mizuho FG]] (listed) | Aggregated segment disclosure |
+| [[trust-banks/smbc-trust-bank|SMBC Trust]] | JP retail-PB-oriented trust bank | <¥10万亿日元 (PB / 富裕層 focus) | Subsidiary of [[megabanks/smbc-group|SMBC Group]] (listed) | Aggregated under retail / PB segment |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$50tn AuC/A | Subsidiary of BNY Mellon (NYSE) | Parent-level aggregate only |
+| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$46.6tn AuC/A (2024-12) | Subsidiary of State Street (NYSE) | Parent-level aggregate only |
+| [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$35tn+ AuC (end-2024) | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
+| [[foreign-financial-institutions/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$26.3tn AuC/A (2024-09) | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
 
 ### 托管费机制
 
-| 费用组成 | 定价逻辑 | 典型量级（行业推断，非实体特定） |
+| Fee component | Pricing logic | Typical magnitude (industry inference, not entity-specific) |
 |---|---|---|
 
 ### 养老金信托管理费
 
-| 组成 | 定价逻辑 | 量级推断 |
+| Component | Pricing logic | Magnitude inference |
 |---|---|---|
 
 ### 证券投资信托管理费
 
-| 组成 | 定价逻辑 | 公开观测来源 |
+| Component | Pricing logic | Source for public observation |
 |---|---|---|
-| 基金会计 / NAV 计算 | 捆绑入 受託会社報酬 | 仅以捆绑费率表述 |
-| 分销处理 | 捆绑 | 不单独披露 |
+| Fund accounting / NAV calc | Bundled into 受託会社報酬 | Stated only as bundled rate |
+| Distribution processing | Bundled | Not separately disclosed |
 
-在 投信 行业中，受託会社報酬 通常仅占基金总费用率的一小部分——费用率的大头位于资产管理人（運用会社報酬）与分销商（販売会社報酬），而非信托银行。
+在整个投信行业，受託会社報酬通常仅占基金总费用率的一小部分——费用率的大头位于资产管理人（運用会社報酬）和销售机构（販売会社報酬），而非信托银行。
 
-### 房地产信托费（仅全能型信托银行）
+### 不动产信托费（仅限全方位服务信托银行）
 
-| 组成 | 定价逻辑 | 量级 |
+| Component | Pricing logic | Magnitude |
 |---|---|---|
 
-此条目在 MTBJ 与 CBJ 处缺失——纯托管专业机构不经营房地产信托。
+这一项在 MTBJ 和 CBJ 处缺失——托管专营机构不经营不动产信托。
 
-### 跨银行费用经济矩阵（10  家实体）
+### 跨银行费用经济性矩阵（10 家实体）
 
-| 费用维度 | MTBJ | CBJ | MUFG Trust | SMTB | Mizuho Trust | SMBC Trust | BNY JP | SS JP | JPM JP | Citi JP |
+| Fee dimension | MTBJ | CBJ | MUFG Trust | SMTB | Mizuho Trust | SMBC Trust | BNY JP | SS JP | JPM JP | Citi JP |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 证券托管费 | 极低（公用事业规模） | 极低（公用事业规模） | 中（全能型捆绑） | 中（全能型捆绑） | 中（全能型捆绑） | 高（PB 捆绑，低成交量） | 中高（跨境溢价） | 中高（跨境溢价） | 中高（跨境溢价） | 中高（跨境溢价） |
-| 投信受託 管理费 | 低（公用事业规模） | 低（公用事业规模） | 低-中 | 低-中 | 低-中 | 有限条目 | 有限（日本 投信 非核心） | 有限（日本 投信 非核心） | 有限 | 有限 |
-| 养老金信托管理费 | GPIF 规模低；企业 DB 中 | GPIF 规模低；企业 DB 中 | 中（与前台捆绑） | 中（与前台捆绑） | 中（与前台捆绑） | 有限 | 中（外国养老金侧） | 中（外国养老金侧） | 中（外国养老金侧） | 有限 |
-| 房地产信托费 | 无 | 无 | 高（庞大房地产信托账册） | 高（庞大房地产信托账册） | 中高 | 有限（仅 PB 情形） | 无（无日本房地产信托） | 无 | 无 | 无 |
-| 证券出借代理费 | 与受益所有人收入分成 | 与受益所有人收入分成 | 收入分成 | 收入分成 | 收入分成 | 有限 | 收入分成（大型代理出借方侧） | 收入分成（大型代理出借方） | 收入分成 | 收入分成 |
-| 现金管理利差 | 小 | 小 | 较大（完整资产负债表） | 较大（完整资产负债表） | 较大 | PB 情形 | 美元情形下大 | 美元情形下大 | 美元情形下大 | 美元情形下大 |
-| 继承 / 遺言 费 | 无 | 无 | 有（高利润率） | 有（高利润率） | 有 | 有（PB） | 无 | 无 | 无 | 无 |
-| PB / 财富咨询费 | 无 | 无 | 有 | 有 | 有 | 核心（高利润率） | 仅 UHNW | 仅 UHNW | 仅 UHNW | 仅 UHNW |
+| Securities custody fee | Very low (utility scale) | Very low (utility scale) | Medium (full-service bundled) | Medium (full-service bundled) | Medium (full-service bundled) | High (PB-bundled, low volume) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) |
+| 投信受託 admin fee | Low (utility scale) | Low (utility scale) | Low-medium | Low-medium | Low-medium | Limited line | Limited (JP-投信 not core) | Limited (JP-投信 not core) | Limited | Limited |
+| Pension trust admin fee | Low at GPIF scale; medium at corp DB | Low at GPIF scale; medium at corp DB | Medium (bundled with front-office) | Medium (bundled with front-office) | Medium (bundled with front-office) | Limited | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Limited |
+| Real-estate trust fee | None | None | High (large real-estate trust book) | High (large real-estate trust book) | Medium-high | Limited (PB context only) | None (no JP real-estate trust) | None | None | None |
+| Securities-lending agent fee | Revenue-share with beneficial owner | Revenue-share with beneficial owner | Revenue-share | Revenue-share | Revenue-share | Limited | Revenue-share (large agent-lender side) | Revenue-share (large agent-lender) | Revenue-share | Revenue-share |
+| Cash-management spread | Small | Small | Larger (full balance-sheet) | Larger (full balance-sheet) | Larger | PB context | Large in $ context | Large in $ context | Large in $ context | Large in $ context |
+| Inheritance / 遺言 fees | None | None | Yes (high-margin) | Yes (high-margin) | Yes | Yes (PB) | None | None | None | None |
+| PB / wealth advisory fees | None | None | Yes | Yes | Yes | Core (high-margin) | UHNW only | UHNW only | UHNW only | UHNW only |
 
-### 定价能力总结
+### 定价权概要
 
-| 服务 | 最强定价能力 | 原因 |
+| Service | Strongest pricing power | Reason |
 |---|---|---|
-| GPIF 规模国内托管 | MTBJ / CBJ | 公用事业规模 + 两者之间的 GPIF 招标竞争 |
-| 大众投资者 投信 受託会社 | MTBJ / CBJ | 成交量公用事业，基点紧，但成交量驱动收入 |
-| 企业 DB 养老金信托管理 | MTBJ / CBJ / 大型银行信托部门 | 混合——公用事业专业机构以基点取胜，全能型以捆绑取胜 |
-| 房地产信托设立 | MUFG Trust / SMTB / Mizuho Trust | 专业 + 关系驱动；纯托管专业机构无法竞争 |
-| 继承 / 相続 / 遺言 | MUFG Trust / SMTB / Mizuho Trust / SMBC Trust | 高利润率财富管理条目；纯托管专业机构与全球托管行均无 |
-| 跨境 / 外币资产托管 | BNY / State Street / JPM / Citi | 跨境 ICSD + 次级托管网络溢价 |
-| 证券出借（大型机构） | BNY / State Street / JPM（以及 MTBJ / CBJ 在日本股票境内流） | 混合；代理出借方规模取胜 |
-| 美国上市的日本证券（ADR） | BNY / Citi / JPM | ADR 存托费 |
+| GPIF-scale domestic custody | MTBJ / CBJ | Utility scale + GPIF tender competition between the two |
+| Mass-investor 投信 受託会社 | MTBJ / CBJ | Volume utility, tight bps, but volume drives revenue |
+| Corp-DB pension trust admin | MTBJ / CBJ / megabank trust arms | Mixed — utility specialists win on bps, full-service wins on bundling |
+| Real-estate trust setup | MUFG Trust / SMTB / Mizuho Trust | Specialized + relationship-driven; no competition from custody-only specialists |
+| Inheritance / 相続 / 遺言 | MUFG Trust / SMTB / Mizuho Trust / SMBC Trust | High-margin wealth-management line; absent at custody-only specialists and at global custodians |
+| Cross-border / foreign-asset custody | BNY / State Street / JPM / Citi | Cross-border ICSD + sub-custody network premium |
+| Securities lending (large institutional) | BNY / State Street / JPM (and MTBJ / CBJ on JP equity domestic flows) | Mixed; agent-lender scale wins |
+| US-listed JP-securities (ADR) | BNY / Citi / JPM | ADR depository fees |
 
-### 隐含费用收入（非常粗略的行业推断）
+### 隐含的费用收入（极其粗略的行业推断）
 
-每实体的细粒度逐项费用收入并未公开披露。量级推断（仅行业层级，非实体特定保证）如下：
+每家实体的细化逐项费用收入未公开披露。数量级（数量级）的推断（仅限行业层面，并非实体特定的保证）如下：
 
-| 纯托管专业机构每 ¥100 万亿 AUC 的隐含收入 | 行业粗略推断（非实体特定） |
+| Implied revenue per ¥100万亿日元 AUC at custody-only specialist | Industry-rough inference (not entity-specific) |
 |---|---|
-| 若平均托管基点 = 0.5  基点/年 | ¥50 十亿 / 年收入 |
-| 若平均托管基点 = 1  基点/年 | ¥100 十亿 / 年收入 |
-| 若平均托管基点 = 2  基点/年 | ¥200 十亿 / 年收入 |
+| If average custody bps = 0.5 bp/year | ¥50亿日元 / year revenue |
+| If average custody bps = 1 bp/year | ¥100亿日元 / year revenue |
+| If average custody bps = 2 bps/year | ¥200亿日元 / year revenue |
 
-将这些假设性基点应用于 MTBJ / CBJ AUC 所隐含的每实体总托管收入仅为行业层级推断，不可归属于任何已披露的费用条目；该推断被隔离至 `.opinions/banking/trust-bank-fee-structure-comparison.md`。
+将这些假设性的 bps 应用于 MTBJ / CBJ 的 AUC 所隐含的每家实体的总托管收入，仅为行业层面的推断，不可归属于任何已披露的费用项; 该推断被隔离至 `.opinions/banking/trust-bank-fee-structure-comparison.md`。
 
 ### 费用趋势
 
-| 趋势 | 对信托银行损益表的影响 |
+| Trend | Effect on trust-bank P&L |
 |---|---|
-| 被动型基金 AUM 增长 | 成交量上升，单基点下降 → 净收入温和增长，利润率压缩 |
-| 外国投资者日本配置增长 | MTBJ / CBJ 的外国次级托管收入与全球托管行费率表挂钩 |
-| NISA 扩张（2024  起） | 投信 受託会社 费用成交量增长 |
-| DC 养老金改革（2025  起） | DC 成员余额报告量增长 |
-| 房地产市场周期性 | 对全能型信托银行波动大；纯托管者无 |
+| Passive-fund AUM growth | Volume up, per-bp down → modest net revenue growth, margin compression |
+| Foreign-investor JP allocation growth | Foreign sub-custody revenue at MTBJ / CBJ tied to global-custodian fee schedules |
+| NISA expansion (2024 onward) | Volume growth in 投信 受託会社 fees |
+| DC pension reform (2025 onward) | DC member-balance reporting volume growth |
+| Real-estate market cyclicality | Volatile for full-service trust banks; absent for custody-only |
 
-### 为何细粒度逐家银行费用表无法对外公布
+### 为何无法对外公布逐家银行的细化费用表
 
-| 原因 | 影响 |
+| Reason | Impact |
 |---|---|
-| 托管费为委托特定合同 | 每家银行无单一资费 |
-| 集团合并披露汇总众多费用条目 | 无法从其他信托银行费用中分离出托管 |
-| 投信 受託会社報酬 仅在每只基金的 信託約款 中披露 | 需跨所有基金人工汇总 |
-| 养老金信托管理费逐一协商 | 包括 GPIF |
-| 全球托管行日本单位不披露日本特定条目 | 仅母公司层级汇总 |
-| 房地产信托费因交易而异 | 无法对标到单基点标准 |
+| 托管费是委托特定的合同 | 不存在每家银行的单一资费 |
+| 集团并表披露汇总了众多费用项 | 无法将托管从其他信托银行费用中剥离 |
+| 投信受託会社報酬仅在各信託約款中按基金披露 | 需要跨所有基金手工汇总 |
+| 养老金信托管理费按个案协商 | 包括 GPIF |
+| 全球托管行的日本部门不披露日本特定的费用项 | 仅有母公司层面的汇总 |
+| 不动产信托费因交易而异 | 无法对标至每 bp 标准 |
 
-### 可公开观测的每只基金 投信 受託会社報酬
+### 公开可观察的逐基金投信受託会社報酬
 
-对于结构化公开数据研究，主要基金家族的 投信 受託会社報酬 是最可观测的条目：
+对于结构化的公开数据研究，跨主要基金家族的投信受託会社報酬是最可观察的费用项：
 
-| 资产管理人家族 | 受託会社（最常见） | 典型 受託会社報酬（年化） |
+| Asset manager family | 受託会社 (most common) | Typical 受託会社報酬 (annualized) |
 |---|---|---|
 
-精确的研究将抓取主要基金的 信託約款 以获取记录的每只基金 受託会社報酬——数据按基金公开但汇总费力。
+精确的研究将抓取领先基金的信託約款以获取记录在案的逐基金受託会社報酬——该数据按基金公开，但汇总颇为费力。
 
-### 监管费用约束
+### 监管性费用约束
 
-| 层级 | 约束 |
+| Layer | Constraint |
 |---|---|
-| 信託業法 受信义务规则 | 费用须公平且披露；利益冲突控制 |
-| 金商法 投信運用報告書 披露 | 须披露基金层级费用，含 受託会社報酬 |
-| 养老基金 受託者責任 | 费用须经养老金受托人受信审查 |
-| 尽责管理守则 | 自愿性；鼓励在可能情形下透明披露费用 |
-| FSA 监督指引 | 一般合理性审查；无费率上限制度 |
+| 信託業法受信义务规则 | 费用必须公平且披露; 利益冲突控制 |
+| 金商法 投信運用報告書 披露 | 必须披露包括受託会社報酬在内的基金层面费用 |
+| 养老金基金受信责任 | 费用须经养老金受托人受信审查 |
+| Stewardship Code | 自愿; 鼓励在可能情况下透明披露费用 |
+| FSA supervisory guidance | 一般合理性审查; 无费率上限制度 |
 
 ### 会计视角
 
-| 项目 | 确认的实体 |
+| Item | Entity that recognizes |
 |---|---|
-| 托管 / 管理费作为收入 | 信托银行损益表 |
-| 托管 / 管理费作为费用 | 资产所有人 / 投信ファンド |
-| 表外信托 AUC | 不在信托银行资产负债表上 |
-| 表内结算账户余额 | 信托银行资产负债表（小） |
-| 出借收入分成 | 信托银行收入 + 受益所有人收入（按合同拆分） |
+| 作为收入的托管／管理费 | 信托银行损益表 |
+| 作为费用的托管／管理费 | 资产所有者 / 投信基金 |
+| 表外信托 AUC | 不在信托银行的资产负债表上 |
+| 表内结算账户残余 | 信托银行的资产负债表（规模较小） |
+| 借券收入分成 | 信托银行收入 + 实益所有人收入（按合同分割） |
 
 ### 可比性问题
 
-| 问题 | 影响 |
+| Problem | Effect |
 |---|---|
-| AUC 与 AuA 定义差异 | "托管下资产"与"管理下资产"在各实体间计量不同；跨实体 AUC 数字并非严格可比 |
-| 跨资产类别的构成效应 | 一实体的构成权重（国内股票 / JGB / 外国 / 投信）与另一实体显著不同 |
-| 纯国内与全球汇总 | 全球托管行报告母公司层级数字；日本特定条目不透明 |
-| 投信 受託会社 按基金的费用与按银行汇总 | 按基金披露可人工汇总，但未经官方汇总 |
-| 房地产费收入呈块状 | 全能型信托银行有块状的交易驱动型房地产费 |
+| AUC 与 AuA 定义差异 | 「assets under custody」与「assets under administration」在不同实体间以不同方式计量; 跨实体 AUC 数字并非严格可比 |
+| 跨资产类别的构成效应 | 一家实体的构成权重（国内股票／JGB／外国／投信）与另一家显著不同 |
+| 仅国内与全球汇总 | 全球托管行报告母公司层面数字; 日本特定的费用项不透明 |
+| 逐基金投信受託会社费用与逐银行汇总 | 逐基金披露可手工汇总但未经官方汇总 |
+| 不动产费用收入波动 | 全方位服务信托银行拥有受交易驱动而波动的不动产费用 |
 
-### 来自基础设施参与的费用成本侧
+### 来自基础设施参与的成本侧费用
 
-| 基础设施 | 信托银行支付的费用（投入成本） |
+| Infrastructure | Fee paid by trust bank (input cost) |
 |---|---|
-| [[banking/jasdec-settlement-operations|JASDEC]] 参与 + 单笔交易 | 固定年费 + 单笔费；公布于 JASDEC 资费表 |
-| JSCC 清算 | 清算会员成本 + 单笔交易清算费 |
-| BoJ JGB 簿记 | BoJ 系统参与成本 |
-| BoJ-net 现金结算 | 单笔交易成本 |
-| 全銀ネット | 单笔交易成本 |
-| ICSD（经由全球托管行） | 转嫁的全球托管费 |
-| 表决平台（ICJ 等） | 平台费 |
+| [[banking/jasdec-settlement-operations|JASDEC]] participation + per-transaction | Fixed annual + per-ticket fee; published in JASDEC tariff |
+| JSCC clearing | Clearing-membership cost + per-trade clearing fee |
+| BoJ JGB book-entry | BoJ system participation cost |
+| BoJ-net cash settlement | Per-transaction cost |
+| 全銀ネット | Per-transaction cost |
+| ICSD (via global custodians) | Pass-through global-custody fee |
+| Voting platform (ICJ etc.) | Platform fee |
 
 ## Related
 

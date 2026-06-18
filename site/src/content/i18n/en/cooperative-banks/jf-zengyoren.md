@@ -1,13 +1,13 @@
 ---
 source: cooperative-banks/jf-zengyoren
-source_hash: e1c28b381f7eb1cc
+source_hash: a89009651daebb3e
 lang: en
 status: machine
 fidelity: ok
-title: "JF Zengyoren (National Federation of Fisheries Cooperative Associations)"
-translated_at: 2026-05-31T23:59:49.322Z
+title: "JF Zengyoren (National Federation of Fisheries Cooperative Associations / 全国漁業協同組合連合会)"
+translated_at: 2026-06-18T23:33:48.371Z
 ---
-# JF Zengyoren (National Federation of Fisheries Cooperative Associations)
+# JF Zengyoren (National Federation of Fisheries Cooperative Associations / 全国漁業協同組合連合会)
 
 ## Wiki route
 
@@ -15,138 +15,138 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 ## TL;DR
 
-**The national representative organization of the JF (fisheries cooperative) Group.** Established in 1952  and grounded in the Fisheries Cooperative Associations Act, it is a **national federation**. Unlike the JA Group's 4  major national federations ([[cooperative-banks/ja-zenchu|全中]] + [[cooperative-banks/ja-zen-noh|全農]] + [[non-life-insurers/ja-kyosairen|共済連]] + [[cooperative-banks/norinchukin|農林中金]]), the fisheries-cooperative group has **JF Zengyoren combining representation + economic business** (sales, purchasing, system seafood processing, etc.). Separately, **JF Kyosuiren (National Mutual Insurance Federation of Fishery Cooperatives)** handles mutual-aid business, while the credit business is structured around prefectural [[cooperative-banks/jf-shingyoren|信漁連]] plus central [[cooperative-banks/norinchukin|農林中央金庫]]. **Members = nationwide fisheries cooperatives (JF), 71  cooperatives + prefectural federations + related corporations** (the same population as [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]). Businesses include **(1) seafood sales (fish markets / distribution)**, **(2) purchasing (fishing gear / fuel)**, **(3) fisheries-policy movements and representation**, and **(4) system seafood processing / export promotion**. Its scale is at the level of several percent of JA Zen-Noh, reflecting the smaller fishery-production value relative to agriculture. ^[extracted]
+**The national representative organization of the JF (fisheries cooperative) group**. Established in 1952 , it is a **national federation** based on the Fisheries Cooperative Association Act (Suikyo Act). Unlike the 4  major national federations of the JA group ([[cooperative-banks/ja-zenchu|全中]] + [[cooperative-banks/ja-zen-noh|全農]] + [[non-life-insurers/ja-kyosairen|共済連]] + [[cooperative-banks/norinchukin|農林中金]]), in the fisheries-cooperative group the structure is one where **JF Zengyoren serves both as the representative and as the economic-business arm (sales / purchasing / system seafood processing, etc.)**, while a separate **JF Kyosuiren (National Mutual Insurance Federation of Fisheries Cooperatives)** handles mutual-insurance business, and credit business is handled by the **prefectural [[cooperative-banks/jf-shingyoren|信漁連]] + the central [[cooperative-banks/norinchukin|農林中央金庫]]**. **Members = the nation's fisheries cooperatives (JF) 71  cooperatives + prefectural fisheries federations + affiliated corporations** (the same population as [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]). Its businesses are **(1) seafood sales (fish markets / distribution)**, **(2) purchasing (fishing gear / fuel)**, **(3) fisheries-policy advocacy / representative functions**, and **(4) system seafood processing / export promotion**. **In scale, it is at the level of a few % of JA Zen-Noh** (fisheries output being small relative to agriculture). ^[extracted]
 
-## 1. Organization structure
+## 1. Organizational structure
 
 | Item | Details |
 |---|---|
-| Legal name | 全国漁業協同組合連合会 |
+| Formal name | National Federation of Fisheries Cooperative Associations |
 | Common name | JF Zengyoren / Zengyoren |
 | English name | National Federation of Fisheries Cooperative Associations (Zengyoren) |
-| Legal form | **Federation under the Fisheries Cooperative Associations Act** (combining representation and business-federation roles) |
-| Established | 1952  (postwar fisheries-cooperative reorganization period) ^[extracted] |
-| Headquarters | Uchisaiwaicho, Chiyoda-ku, Tokyo 1-2-1  |
-| Members | Nationwide 71  JFs + prefectural fisheries federations + related corporations (same population as [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]) |
+| Legal form | **A federation based on the Suikyo Act** (serving as both representative and a business federation) |
+| Established | 1952  (the postwar fisheries-cooperative reorganization period) ^[extracted] |
+| Headquarters | 1-2-1  Uchisaiwai-cho, Chiyoda-ku, Tokyo |
+| Members | The nation's 71  JF + prefectural fisheries federations + affiliated corporations (the same population as [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]) |
 
-### Role division among JF Group national organizations ^[extracted]
+### Division of roles among the JF group's national organizations ^[extracted]
 
 | National federation | Domain | Character |
 |---|---|---|
-| **JF Zengyoren** | **Representation, economic business (sales / purchasing), policy movements** | Federation (representation + economic business) ★ this page |
-| **JF Kyosuiren** | Mutual-aid business | Federation (mutual-aid business) |
+| **JF Zengyoren** | **Representative / economic business (sales / purchasing) / policy advocacy** | Federation (representative + economic business) ★this page |
+| **JF Kyosuiren** | Mutual-insurance business | Federation (mutual-insurance business) |
 | [[cooperative-banks/jf-shingyoren|信漁連]] | Credit business (prefectural layer) | Prefectural federation |
 | [[cooperative-banks/norinchukin|農林中央金庫]] | Credit (central layer) | Special corporation |
 
-> Note: In the JA Group, representation (Zenchu) and economic business (Zen-Noh) are separated. In the JF Group, the major structural difference is that **JF Zengyoren combines both functions**. ^[extracted]
+> Note: In the JA group, the representative (Zenchu) and economic business (Zen-Noh) are separated, but a major difference in organizational structure is that in the JF group **JF Zengyoren serves both functions**. ^[extracted]
 
-### Key timeline ^[extracted]
+### Important chronology ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1948  | Fisheries Cooperative Associations Act enacted; postwar fisheries-cooperative reorganization begins |
-| **1952** | **National Federation of Fisheries Cooperative Associations (JF Zengyoren) established** |
-| 1960-70 s | Number of fisheries cooperatives peaks (about 2000  cooperatives), mainly coastal-village fisheries cooperatives |
-| 1990-2000 年s | Fishery production value declines + fisheries workers age -> number of fisheries cooperatives falls sharply |
-| 2000 年s | **"JF" (Japan Fishery cooperatives) brand unified** |
-| 2015 onward | **Fisheries-cooperative reform** — Regulatory Reform Council discusses "strengthening fisheries-cooperative competitiveness" |
-| **2018 onward** | **Fisheries Act amended** (first fundamental overhaul in 70  years), revising fishery-right allocation and redefining fisheries-cooperative roles ^[extracted] |
-| 2020 onward | **JF Marine Bank system** integrated operation strengthened (boundary of [[banking/jf-marine-bank-system-japan|JF Marine Bank]]) |
-| 2024  | As of 2025-04-01, 71  JFs + 10  credit fisheries federations + 1  Norinchukin Bank (according to [[cooperative-banks/norinchukin|農林中金]] public materials) ^[extracted] |
+| 1948  | Enactment of the Fisheries Cooperative Association Act; start of postwar fisheries-cooperative reorganization |
+| **1952** | **Establishment of the National Federation of Fisheries Cooperative Associations (JF Zengyoren)** |
+| 1960–70 s | Peak in the number of fisheries cooperatives (about 2000  cooperatives) — village fisheries cooperatives of coastal fishing predominated |
+| 1990–2000 年s | Decline in fisheries output + aging of fishers → sharp decrease in the number of fisheries cooperatives |
+| 2000 年s | **Unification of the "JF (Japan Fishery cooperatives)" brand** |
+| 2015– | **Fisheries-cooperative reform** — debate over "strengthening the competitiveness of fisheries cooperatives" at the Council for Regulatory Reform |
+| **2018–** | **Amendment of the Fisheries Act** (for the first time in 70  years) — review of fishing-rights allocation, redefinition of the role of fisheries cooperatives ^[extracted] |
+| 2020– | Strengthening of the integrated operation of the **JF Marine Bank system** (the boundary of [[banking/jf-marine-bank-system-japan|JF Marine Bank]]) |
+| 2024  | **As of 2025-04-01: 71  JF + 10  Shingyoren + 1  Norinchukin** (per [[cooperative-banks/norinchukin|農林中金]] public materials) ^[extracted] |
 
 ### Main businesses ^[extracted]
 
 | Business | Details |
 |---|---|
-| **Seafood sales** | Sales of seafood collected by JFs nationwide through wholesale markets and exports |
-| **Purchasing business** | Supply of fishing gear, nets, fuel, ice, and aquaculture feed |
-| **Representative function** | External representative of the fisheries-cooperative group (government, Fisheries Agency, international organizations) |
-| **Policy movements** | Lobbying on fisheries policy, fishery rights, and resource management |
-| **System seafood processing** | System-linked processed seafood distribution |
-| **Education and information provision** | JF officer training and fisheries information publications |
+| **Seafood sales** | Sales via wholesale markets of seafood collected nationwide by JF, and overseas exports |
+| **Purchasing business** | Supply of fishing gear / fishing nets / fuel / ice / aquaculture feed |
+| **Representative function** | External representation of the fisheries-cooperative group (government / Fisheries Agency / international organizations) |
+| **Policy advocacy** | Lobbying on fisheries policy / fishing rights / resource management |
+| **System seafood processing** | System transactions in processing and distribution |
+| **Education / information provision** | JF officer training / fisheries information magazines, etc. |
 
 ### Relationship with the JF Marine Bank system ^[extracted]
 
-- **JF Zengyoren = representation + economic business**.
-- **[[banking/jf-marine-bank-system-japan|JF Marine Bank system]] = credit-business framework**, consisting of [[cooperative-banks/jf-shingyoren|JF 信漁連]] (prefectural) + [[cooperative-banks/norinchukin|農林中央金庫]] (central).
-- JF Zengyoren is **not the direct operator of JF Marine Bank**, but it participates as representative of the whole group.
+- **JF Zengyoren = representative + economic business**
+- **[[banking/jf-marine-bank-system-japan|JF Marine Bank system]] = the framework of the credit business** — composed of [[cooperative-banks/jf-shingyoren|JF 信漁連]] (prefectural) + [[cooperative-banks/norinchukin|農林中央金庫]] (central)
+- JF Zengyoren is **not the direct operator of JF Marine Bank**, but is involved as the representative of the group as a whole
 
-### National organization map
+### National organization chart
 
 ```
-JF (fisheries cooperative) Group
-  ├── JF Zengyoren (representation / economic business) ★ this page
-  ├── JF Kyosuiren (mutual-aid business)
+JF (fisheries cooperative) group
+  ├── JF Zengyoren (representative / economic business) ★this page
+  ├── JF Kyosuiren (mutual-insurance business)
   ├── Prefectural fisheries federations (economic business / local layer)
-  ├── Prefectural credit fisheries federations (credit business / local layer) → [[cooperative-banks/jf-shingyoren]]
-  ├── Norinchukin Bank (credit / central layer) → [[cooperative-banks/norinchukin]]
-  └── Nationwide 71  JFs (individual fisheries cooperatives) → [[banking/jf-marine-bank-system-japan]] target
+  ├── Prefectural Shingyoren (credit business / local layer) → [[cooperative-banks/jf-shingyoren]]
+  ├── Norinchukin (credit / central layer) → [[cooperative-banks/norinchukin]]
+  └── The nation's 71  JF (individual fisheries cooperatives) → covered by [[banking/jf-marine-bank-system-japan]]
 ```
 
-### Fisheries reform and the rationale for fisheries cooperatives
+### Fisheries reform and the raison d'être of fisheries cooperatives
 
-- **2018  Fisheries Act amendment**: first fundamental reform in 70  years; **liberalization of fishery-right allocation** expanded room for non-cooperative operators to enter ^[extracted].
-- JF Zengyoren argues that **"fisheries cooperatives are local fisheries infrastructure"**, countering through a food-security + regional-revitalization frame.
-- However, **young fisheries workers moving away from JF** and **business expansion by large fisheries companies (Maruha Nichiro, Nippon Suisan, etc.)** create pressure on the fisheries-cooperative base.
+- **2018  amendment of the Fisheries Act**: the first fundamental amendment in 70  years, **liberalizing fishing-rights allocation** → expanding room for entry by operators other than fisheries cooperatives ^[extracted]
+- JF Zengyoren asserts its raison d'être as **"fisheries cooperatives being the infrastructure of regional fishing"** — countering within a framework of food security + regional revitalization
+- However, the cooperative base is under shrinking pressure from **young fishers drifting away from the cooperatives** + **the business expansion of large seafood companies (Maruha Nichiro, Nippon Suisan, etc.)**
 
 ### Seafood export promotion
 
-- Part of the **"seafood export 5 兆円 target"**, strengthening exports through the JF system.
-- Finding alternative markets is an issue because of the China-bound import ban (from 2023 onward).
+- As one wing of the **"seafood export 5 兆円 target,"** strengthening of exports via the JF system
+- With the **export ban to China (from 2023)** problem, the development of alternative markets is a challenge
 
-### Fishery resource management
+### Fisheries resource management
 
-- Cooperation in operating the **TAC (total allowable catch) system**.
-- Response to **resource recovery plans** and fisheries IT adoption.
+- Cooperation in the operation of the **TAC (total allowable catch) system**
+- Response to **resource-recovery plans** and the IT-ization of fisheries
 
 ### Strengths / weaknesses
 
 **Strengths**
-- The only organization that **aggregates nationwide fisheries cooperatives**, giving it representativeness in fisheries policy.
-- **Close relationship** with the Fisheries Agency.
-- Political weight under the food-security frame.
+- The only organization that **consolidates fisheries cooperatives nationwide** — representativeness in fisheries policy
+- A **close relationship** with the Fisheries Agency
+- Political weight within the food-security framework
 
 **Weaknesses**
-- **Fishery production value itself is shrinking** (from a 1980 年s peak of 1200 万 tons to the 2020 年s at the 400 万-ton level).
-- Pressure from younger fisheries workers **leaving JF** and preferring direct transactions with large fisheries companies.
-- **Scale disadvantage** in competition with large listed fisheries companies.
+- **Fisheries output itself is shrinking** (peak in the 1980 年s of 1200 万 tons → the 400 万-ton range in the 2020 年s)
+- Pressure from young fishers **leaving JF** (a preference for direct transactions with large seafood companies)
+- A **disadvantage in scale** in competition with large seafood companies (listed firms)
 
 ## 4. Supervision / regulation
 
-- **Primary authority**: Fisheries Agency (within MAFF) + Cabinet Office Regulatory Reform Promotion Office (reform debate)
-- **Legal basis**: Fisheries Cooperative Associations Act + Fisheries Act (2018  amendment)
+- **Supervisor**: Fisheries Agency (within the Ministry of Agriculture, Forestry and Fisheries) + the Cabinet Office Regulatory Reform Promotion Office (reform debate)
+- **Legal basis**: Fisheries Cooperative Association Act (Suikyo Act) + Fisheries Act (2018  amendment)
 - **Recent policy issues**:
-  - **Operation of the amended Fisheries Act** (fishery-right allocation / new entrants)
-  - **Seafood export promotion** (5 兆円 target)
+  - **Operation of the amended Fisheries Act** (fishing-rights allocation / new entry)
+  - **Seafood export promotion** (the 5 兆円 target)
   - **Resource management (TAC) and the role of fisheries cooperatives**
-  - **Redefinition of JF Zengyoren functions in food-security planning (2026 onward)**
-  - **Response to the suspension of exports to China** (2023 onward)
+  - Redefinition of JF Zengyoren's functions in the **food-security plan (from 2026)**
+  - Response to the **suspension of exports to China** (from 2023)
 
 ## Related
 
-- [[cooperative-banks/norinchukin]] — credit core (central institution of JF Marine Bank)
-- [[cooperative-banks/jf-shingyoren]] — prefectural credit fisheries federations (intermediate layer of JF credit business)
-- [[cooperative-banks/ja-zenchu]] — agricultural-cooperative counterpart national organization (representative function)
-- [[cooperative-banks/ja-zen-noh]] — agricultural-cooperative counterpart national organization (economic business)
-- [[non-life-insurers/ja-kyosairen]] — agricultural-cooperative mutual-aid core
+- [[cooperative-banks/norinchukin]] — Credit core (the central institution of JF Marine Bank)
+- [[cooperative-banks/jf-shingyoren]] — Prefectural Shingyoren (the intermediate layer of JF's credit business)
+- [[cooperative-banks/ja-zenchu]] — The corresponding national organization of the agricultural-cooperative system (representative function)
+- [[cooperative-banks/ja-zen-noh]] — The corresponding national organization of the agricultural-cooperative system (economic business)
+- [[non-life-insurers/ja-kyosairen]] — The mutual-insurance core of the agricultural-cooperative system
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
-- [[banking/cooperative-banking-japan]] — cooperative finance overall
+- [[banking/cooperative-banking-japan]] — Cooperative finance as a whole
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 
 - **JF Zengyoren official site**: https://www.zengyoren.or.jp/
-- **JF Zengyoren company overview**: https://www.zengyoren.or.jp/about/
+- **JF Zengyoren company profile**: https://www.zengyoren.or.jp/about/
 - **JF Marine Bank official**: https://www.jfmbk.org/
 - **JF Marine Bank basic policy**: https://www.jfmbk.org/about/housin.html
-- Fisheries Cooperative Associations Act (昭和 23 年 Act 第 242 号)
+- Fisheries Cooperative Association Act (昭和 23 年 Act 第 242 号)
 - Fisheries Act (2018  amendment)
-- Regulatory Reform Council fisheries-cooperative reform minutes
-- **Minato Shimbun, "Zengyoren 22  fiscal-year sales up 6% / sardine exports strong"** (https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/134074, 2026-05-29 reference) — JF Zengyoren standalone federation 2022 年 fiscal-year sales 934 億 2,000 万円
-- **JF Group overview** (https://www.zengyoren.or.jp/about/summary-jfgroup/, 2026-05-29 reference) — scale of system (JF / prefectural JF) sales-handling and purchasing-handling amounts
+- Council for Regulatory Reform fisheries-cooperative reform minutes
+- **Minato Shimbun, "Zengyoren FY 22  sales up 6% / sardine exports strong"** (see https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/134074, 2026-05-29) ── JF Zengyoren (the federation alone) FY 2022 年 sales 934 億 2,000 万円
+- **Overview of the JF group** (see https://www.zengyoren.or.jp/about/summary-jfgroup/, 2026-05-29) ── A sense of the scale of the system (JF / prefectural JF) sales-handling volume and purchasing-handling volume
 
 ---
 
-> [!info] Validation status
-> confidence: **likely**. Based on public information (JF Zengyoren official + JF Marine Bank official + Fisheries Cooperative Associations Act + Fisheries Act amendment materials). The 71  JF cooperatives + 10  credit fisheries federations are as of 2025-04-01 (according to Norinchukin public materials) ^[extracted]. JF Zengyoren's standalone federation 2022 年 fiscal-year sales were **about 934 億円** (up 6% year on year, reported by Minato Shimbun 2023 ), at the **several-hundred-billion-yen scale**. The latest figures require annual-report confirmation.
+> [!info] Verification status
+> confidence: **likely**. Based on public information (JF Zengyoren official + JF Marine Bank official + Suikyo Act + Fisheries Act amendment materials). The number of member JF, 71  cooperatives, + Shingyoren, 10  federations, are as of 2025-04-01 (per Norinchukin public materials) ^[extracted]. JF Zengyoren's (the federation alone) FY 2022 年 sales are **approximately 934 億円** (year-on-year +6%, per Minato Shimbun's 2023  reporting), on the **scale of tens of billions of yen**. For the latest, see the annual report.

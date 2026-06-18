@@ -1,17 +1,17 @@
 ---
 source: cooperative-banks/aichi-shogin-shinkumi
-source_hash: 7d1f3eabcf8d45ab
+source_hash: da66a7cd18196675
 lang: ja
 status: machine
 fidelity: ok
 title: "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)"
-translated_at: 2026-06-02T14:01:20.959Z
+translated_at: 2026-06-18T23:33:48.330Z
 ---
 # 信用組合愛知商銀 (Aichi Shogin Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下にあり、[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西）を補完する商銀系（在日韓国系事業者）信用組合ネットワークの **中部（中京）代表**である。[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] を通じて、より広い 143 協同組織金融全体へ接続する。
+本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に、**商銀系 (在日韓国人ビジネス) 信組ネットワークの中部 (中京) 代表** として位置し、[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (関西) を補完し、より広範な 143-協同組合の母集団については [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] を経由する。
 
 ## 1. 法人概要
 
@@ -68,7 +68,7 @@ translated_at: 2026-06-02T14:01:20.959Z
 | 1950〜60 年代 | 在日韓国・朝鮮人商工人向け相互扶助金融として **「商銀」**系信組が各地に設立 |
 | 1970〜80 年代 | 名古屋・東京・大阪等主要都市に商銀信組ネットワーク確立 |
 | 1990 年代 | バブル崩壊で **不動産・建設業向け融資**の不良債権化 |
-| 2002〜2003 | **関西商銀信組連鎖破綻問題** + 朝銀系信組破綻問題 |
+| 2002〜2003  | **関西商銀信組連鎖破綻問題** + 朝銀系信組破綻問題 |
 | 2003〜 | 受け皿信組への事業譲渡 + **商銀系信組の再編・統合**進行 |
 | 2010 年代〜 | 在日コミュニティの世代交代対応 + AML/CFT 強化 |
 
@@ -107,7 +107,7 @@ translated_at: 2026-06-02T14:01:20.959Z
   - **組合員世代交代** (在日 2 世・3 世以降の信組離れリスク)
   - **韓国系銀行の中京進出** — 新韓銀行名古屋支店等との競合
 
-## 関連項目
+## Related
 
 - [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (peer 商銀系信組、関西版)
 - [[cooperative-banks/yokohama-kogin-shinkumi]] — 横浜幸銀信用組合 (peer 民族系信組、関東神奈川)
@@ -117,11 +117,11 @@ translated_at: 2026-06-02T14:01:20.959Z
 - [[megabanks/mufg]] — 三菱UFJ銀行 (旧東海銀行ホームマーケット)
 - [[regional-banks/aichi-fg]] — あいちFG (地域金融再編 FG)
 - [[financial-regulators/dic]] — 預金保険機構
-- 公開情報に基づく当該項目の位置づけを説明する。 [[banking/credit-cooperative-registry-japan]] 143
+- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 1180005003442, registry No. 82)
 - **信用組合愛知商銀 ディスクロージャー**: https://www.a-sg.jp/shogin/discloser/
@@ -136,4 +136,4 @@ translated_at: 2026-06-02T14:01:20.959Z
 ---
 
 > [!info] 校核状態
-> 公開情報に基づく当該項目の位置づけを説明する。 ^[extracted] 2025-03-31 1954-12-27 1958 年 13
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・純資産・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2025-03-31 現在) で出典付与済み (組合員数のみ要参照)。沿革 (1954-12-27 金剛信用組合として設立、1958 年に現商号へ改称、愛知・三重で営業) も Wikipedia で出典付与済み。商銀系民族信組の中京代表として Wave 13 拡張で追加。

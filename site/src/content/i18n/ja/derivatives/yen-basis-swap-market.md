@@ -1,125 +1,126 @@
 ---
 source: derivatives/yen-basis-swap-market
-source_hash: 2bf45631b6f75634
+source_hash: 0e43ee111d2a317f
 lang: ja
 status: machine
 fidelity: ok
-title: "円-米ドル・クロスカレンシー・ベーシススワップ市場"
-translated_at: 2026-06-02T12:19:04.218Z
+title: "円・米ドル通貨ベーシス・スワップ市場"
+translated_at: 2026-06-18T23:33:48.373Z
 ---
-# 円-米ドル・クロスカレンシー・ベーシススワップ市場
 
-## 要約
+# 円・米ドル通貨ベーシス・スワップ市場
 
-円-米ドル・クロスカレンシー・ベーシススワップ（CCBS）は、2つの取引相手が複数年の期間にわたり、元本と定期的な変動金利支払いを異なる2通貨間、典型的には JPY と USD の間で交換する OTC デリバティブである。「basis」は片方のレッグ、通常は JPY レッグに上乗せされるスプレッド（bp）であり、円資産を保有する非米国主体にとっての USD funding の相対的な希少性を価格化する。
+## TL;DR
 
-円-米ドル basis は構造的にマイナスである（JPY レッグが USD 変動指数からスプレッドを差し引いた水準を支払う）。日本の銀行、生命保険会社、事業会社は、円建て負債に対して USD funding を必要とする需要が逆方向よりはるかに大きいためである。basis は、四半期末、年末、ドル不足局面（3月 2020, 、9月 2008–2009, 、12月 2011）など USD funding が逼迫すると拡大（よりマイナス）し、USD 供給が正常化すると縮小する。
+円・米ドル通貨ベーシス・スワップ（CCBS）とは、2 つの取引相手が、異なる 2 通貨（典型的には円対米ドル）で元本と定期的な変動金利の利払いを、複数年の期間にわたって交換する OTC デリバティブである。「ベーシス」とは、一方のレッグ（通常は円レッグ）に上乗せされるスプレッド（ベーシスポイント単位）であり、円資産を保有する非米国勢にとっての米ドル調達の相対的な希少性を価格付けするものである。
 
-FinWiki にとって、この市場は日本におけるドル調達価格そのものであり、メガバンクの USD 資産 funding、生命保険会社の外国債券ヘッジコスト、事業会社による USD 債発行後の円スワップバック採算、BoJ / Federal Reserve の USD swap line 政策に直接関係する。
+円・米ドルベーシスが構造的にマイナス（円レッグは米ドル変動指標からスプレッドを差し引いて支払う）であるのは、日本の銀行・生命保険会社・事業会社が、その円建て負債に対して米ドル調達を求める度合いが、その逆をはるかに上回るためである。ベーシスは、米ドル調達が希少になるとき——四半期末、年末、ドル不足局面（2020, 年 3 月、2008–2009, 年 9 月、2011年 12 月）——に拡大（よりマイナスに）し、米ドル供給が正常化すると縮小する。
 
-## ウィキ上の位置づけ
+FinWiki にとってこの市場が重要なのは、それが日本にとってのドル調達の価格であり、次のものへの直接的なインプットとなるからである。すなわち、メガバンクの米ドル資産調達、生命保険会社の外債ヘッジコスト、事業会社の米ドル債を円にスワップバックする際の経済性、そして日銀／連邦準備制度（FRB）の米ドルスワップライン政策である。
 
-本項目は [[derivatives/INDEX|derivatives index]] 配下に位置づける。単一通貨金利側は [[derivatives/japan-irs-market]]、JPY discounting curve は [[derivatives/ois-tona-curve]] と併読する。現金 funding 側は [[money-market/japan-money-market]]、事業会社エンドユーザー側は [[finance/japan-corporate-fx-and-rate-hedge-policy]] で扱う。
+## Wiki route
 
-## 商品メカニクス
+本項は [[derivatives/INDEX|derivatives index]] に属する。単一通貨の金利サイドについては [[derivatives/japan-irs-market]] と、円のディスカウント・カーブについては [[derivatives/ois-tona-curve]] と対照して読むこと。現金の調達サイドは [[money-market/japan-money-market]] であり、事業会社のエンドユーザー・サイドは [[finance/japan-corporate-fx-and-rate-hedge-policy]] である。
 
-標準的な JPY-USD CCBS は以下の構造を持つ。
+## 商品のメカニクス
+
+標準的な円・米ドル CCBS は次の構造を持つ。
 
 | 要素 | 詳細 |
 |---|---|
-| 期間 | 1か月から 30年。流動性の高いポイントは通常、3M、6M、1Y、2Y、3Y、5Y、7Y、10Y、30Y。 |
-| 元本交換 | 取引開始時にその時点の spot FX rate で元本を交換し、満期時に同じレートで再交換する（swap 内に FX 再評価を組み込まない）。 |
-| 変動レッグ | 歴史的には USD-LIBOR 対 JPY-LIBOR。IBOR 移行後は、SOFR（USD）対 TONA（JPY）の後決め複利に固定 basis spread を加える。 |
-| basis spread | JPY レッグに加えるスプレッド（bp、JPY ではほぼ常にマイナス）。気配値は慣例的に「JPY pays SOFR + JPY-leg = TONA + basis」と表現される。basis が −60 bp の場合、JPY 支払者は SOFR flat を支払う代わりに TONA − 60 bp を受け取る。 |
-| リセット頻度 | 通常は四半期ごと。 |
-| 担保 | 日次 VM 付き CSA。post-2008  rules の下では、非清算相対取引の IM 交換は UMR phase-in に従う。 |
-| 清算 | 標準化された一部 tenor は CCP 清算の対象となるが、FX 元本交換と非標準 tenor のため、多くの CCBS は相対取引として残る。 |
+| 期間 | 1か月から 30年まで。流動性のあるポイントは典型的に 3M、6M、1Y、2Y、3Y、5Y、7Y、10Y、30Y。 |
+| 元本交換 | 元本は取引開始時に当時のスポット為替レートで交換され、満期時に同一レートで再交換される（為替の再評価はスワップに組み込まれない）。 |
+| 変動レッグ | 歴史的には米ドル LIBOR 対円 LIBOR。IBOR 移行後は SOFR（米ドル）対 TONA（円）の後決め複利に、固定のベーシス・スプレッドを加えたもの。 |
+| ベーシス・スプレッド | 円レッグに加えられるスプレッド（bp 単位、円ではほぼ常にマイナス）。クォートは慣例的に「円は SOFR を支払い、円レッグ = TONA + ベーシス」となる。ベーシスが −60 bp とは、円の支払い手が SOFR をフラットで支払う代わりに TONA − 60 bp を受け取ることを意味する。 |
+| リセット頻度 | 典型的には四半期ごと。 |
+| 担保 | 日次の VM を伴う CSA。2008 年以降のルールの下では、非清算の相対取引の IM 交換は UMR の段階的導入によって規律される。 |
+| 清算 | 標準化された期間の一部は CCP 清算の対象となる。多くの CCBS は、為替元本の交換および非標準的な期間のため、相対のまま残る。 |
 
-経済的には、USD 変動金利を支払い、JPY 変動金利からスプレッドを差し引いたものを受け取る取引は、ドルを借りて円に swap することで円資産を funding する合成取引と等価である。
+経済的な内容は、米ドル変動を支払い、円変動からスプレッドを差し引いた分を受け取ることが、ドルを借りて円にスワップすることで円資産を調達することの合成的等価物である、ということである。
 
-## post-2008  の変化
+## 2008 年以降の進化
 
-世界金融危機以前、JPY-USD basis はほぼゼロだった。銀行が乖離を裁定していたため、カバー付き金利平価（CIP）は強く維持されていた。2008,  以降、持続的な非ゼロ basis は以下を反映している。
+世界金融危機以前は、円・米ドルベーシスはゼロに近かった。カバー付き金利平価（CIP）は厳密に成立していた。銀行があらゆる乖離を裁定取引していたからである。2008, 年以降、持続的な非ゼロのベーシスは次のことを反映してきた。
 
-| 要因 | basis への影響 |
+| ドライバー | ベーシスへの影響 |
 |---|---|
-| 銀行のバランスシートコスト（leverage ratio、GSIB surcharge、FX swaps の RWA） | マイナス。乖離を閉じるためにバランスシートを拡大する裁定参加者が減る。 |
-| 四半期末 / 年末の window dressing | マイナス方向の急拡大。dealer が repo と swap のバランスシート使用量を減らすため basis が拡大（よりマイナス）する。 |
-| 生命保険会社、メガバンク、事業会社による日本国内の USD 需要 | JPY 負債を持つ国内主体が USD 債を買うため、持続的なマイナス圧力になる。 |
-| BoJ マイナス金利期（2016–2024） | USD 債を通じた利回り需要が増幅し、basis が −50 から −80 bp の期間が 5Y で長く続いた。 |
-| Federal Reserve の dollar swap lines（BoJ-Fed standing arrangement） | 極端な市場混乱の上限として機能する。3月 2020 （COVID）および過去の 2008–2009 で発動された。 |
+| 銀行のバランスシート・コスト（レバレッジ比率、GSIB サーチャージ、為替スワップの RWA） | マイナス——ギャップを埋めるためにバランスシートを拡大しようとする裁定者が減る。 |
+| 四半期末／年末のウィンドウ・ドレッシング | マイナスのスパイク——ディーラーがレポおよびスワップのバランスシート使用を削減するため、ベーシスは拡大（よりマイナスに）する。 |
+| 生命保険会社・メガバンク・事業会社からの日本国内の米ドル需要 | 円建て負債を保有する国内勢が米ドル債を購入するため、持続的なマイナス圧力。 |
+| 日銀のマイナス金利時代（2016–2024年） | 米ドル債を通じた利回り追求の需要を増幅。ベーシスは 5Y で −50 から −80 bp に長期間とどまった。 |
+| FRB のドルスワップライン（日銀・FRB の常設取極） | 極端な乖離に対するキャップ。2020 年 3 月（コロナ）に発動され、歴史的には 2008–2009年にも発動された。 |
 
-CIP の乖離は現在、裁定機会ではなく構造的特徴である。規制資本、与信枠、バランスシート使用料という裁定制約が実在するためである。
+CIP の破れは、いまや裁定機会ではなく構造的特徴である。裁定の限界が現実のもの（規制資本、与信枠、バランスシートのレンタルコスト）だからである。
 
-## JPY funding swap による事業会社の USD funding
+## 円調達スワップを通じた事業会社の米ドル調達
 
-日本の事業会社または金融機関が USD 資産購入を funding する方法は2つある。
+日本の事業会社または金融機関は、米ドル資産の購入を 2 つの方法で調達できる。
 
-1. **直接 USD 借入** — USD 債を発行する、USD 銀行ローンを引き出す、または USD CP を利用する。
-2. **JPY 借入 + JPY-USD swap（合成 USD）** — JPY 債を発行する、または JPY ローンを借り入れたうえで、CCBS と取引開始時の FX swap により JPY 元本とクーポンフローを USD に swap する。
+1. **直接の米ドル借入**——米ドル債を発行し、米ドル銀行貸出を引き出し、または米ドル CP を活用する。
+2. **円借入 + 円・米ドルスワップ（合成米ドル）**——円債を発行し、または円貸出を受け、その円の元本とクーポンの流列を、CCBS に取引開始時の為替スワップを加えて米ドルにスワップする。
 
-合成 USD の all-in cost は以下で表せる。
+合成米ドルのオールイン・コストは次のとおりである。
 
 ```
-synthetic USD cost ≈ JPY funding rate − basis (in bp, applied to JPY leg)
-                    + SOFR + credit spread on the USD-receiving leg
+合成米ドルコスト ≈ 円調達金利 − ベーシス（bp 単位、円レッグに適用）
+                 + SOFR + 米ドル受取レッグの信用スプレッド
 ```
 
-basis が −60 bp の場合、JPY funding による合成 USD は、比較可能な native-USD borrowing より 60 bp 高くなる。つまり、発行体に USD 債の franchise があるなら、より安い経路は USD を直接発行することになる。逆に、円 funding を求める米ドル保有者は、swap に USD を貸し出すことで 60 bp の pickup を得る。これは basis が広いときに裁定資本が追う「yen pickup trade」である。
+ベーシスが −60 bp のとき、円で調達した合成米ドルは、比較可能なネイティブ米ドル借入より 60 bp 割高となる——つまり、発行体が米ドル債のフランチャイズを持つなら、より安い経路は米ドルを直接発行することである。逆に、円調達を望む米ドル保有者は、スワップに米ドルを貸し出すことで 60 bp のピックアップを受け取る。これがベーシスが拡大したときに裁定資本が追求する「円ピックアップ・トレード」である。
 
-日本のメガバンク treasury にとって、basis は円建て預金（安価で潤沢）と USD 資産（高価で希少）の funding gap を直接価格化する。そのため、メガバンクの wholesale funding 戦略は basis 変動に敏感である。franchise レベルについては [[banking/INDEX]]、[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]] を参照。
+日本のメガバンクのトレジャリーにとって、ベーシスは円建て預金（安価で潤沢）と米ドル資産（高価で希少）との間の調達ギャップを直接価格付けする。これがメガバンクのホールセール調達戦略がベーシスの変動に敏感である理由である。フランチャイズ・レベルについては [[banking/INDEX]]、[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]] を参照。
 
-## メガバンク dealer franchise
+## メガバンクのディーラー・フランチャイズ
 
-3メガバンクの dealer franchise、すなわち MUFG、SMFG、Mizuho FG とそれぞれの証券関連会社は、グローバル銀行（JPMorgan、Goldman Sachs、Citi、Deutsche Bank、BNP Paribas）および日本の証券会社（Nomura、Daiwa）と並ぶ、JPY-USD basis 市場の主要 market maker である。
+3 つのメガバンクのディーラー・フランチャイズ——MUFG、SMFG、みずほ FG とそれらの証券子会社——は、グローバル銀行（JP モルガン、ゴールドマン・サックス、シティ、ドイツ銀行、BNP パリバ）および日本の証券会社（野村、大和）とともに、円・米ドルベーシス市場の支配的なマーケットメイカーである。
 
-franchise には2つの側面がある。
+このフランチャイズには 2 つの側面がある。
 
-- **Client flow** — 日本の生命保険会社による USD 債購入、事業会社による USD 投資プログラムのヘッジ、海外発行体による円建て Samurai 債や Uridashi 債の調達資金を本国通貨へ swap back する取引。この flow は構造的に一方向（円 funding → USD 資産）であり、dealer はそこから生じる basis exposure を warehouse する。
-- **Inventory and warehousing** — dealer は repo、FX-swap 市場、OTC counterparties を通じて basis を再循環させ、顧客需要を相殺する。warehousing 能力は RWA capacity、LCR / NSFR ratios、CSA terms に左右される。
+- **顧客フロー**——米ドル債を購入する日本の生命保険会社、米ドル投資プログラムをヘッジする事業会社、円建てで発行したサムライ債やユーリ債の調達金を母国通貨にスワップバックする外国の発行体。このフローは構造的に一方向（円調達→米ドル資産）であり、ディーラーは結果として生じるベーシス・エクスポージャーを在庫として抱える。
+- **在庫と保管（ウェアハウジング）**——ディーラーは、レポ、為替スワップ市場、OTC 取引相手を通じてベーシスをリサイクルすることで顧客需要を相殺する。彼らの保管能力は、RWA のキャパシティ、LCR／NSFR 比率、CSA の条件に依存する。
 
-dealer が bid-ask と run-rate carry を獲得できるとき、この双方向ビジネスは収益性がある。ただし 2015 以降、バランスシートコストが margin を圧縮している。ストレス時には dealer が退き basis が拡大する。これは BIS と BoJ の研究で記録されている CIP violation の「dealer-balance-sheet channel」である。
+この双方向のビジネスは、ディーラーがビッド・アスクに加えてランレートのキャリーを稼げるときに収益性があるが、バランスシート・コストが 2015年以降マージンを圧縮してきた。ストレス時にはディーラーが撤退してベーシスが拡大する——これが BIS および日銀の調査で記録された CIP 違反の「ディーラー・バランスシート・チャネル」である。
 
-関連する単一通貨金利 franchise は [[derivatives/japan-irs-market]]、どの主体が dealer になれるかを規定する規制レイヤーは [[banking/japan-banking-license-tier-comparison-matrix]] を参照。
+関連する単一通貨の金利フランチャイズについては [[derivatives/japan-irs-market]] を、どの主体がディーラーになれるかを規律する規制レイヤーについては [[banking/japan-banking-license-tier-comparison-matrix]] を参照。
 
-## basis 拡大トリガー
+## ベーシス拡大のトリガー
 
-| トリガー | メカニズム | 典型的な規模（5Y JPY-USD basis） |
+| トリガー | メカニズム | 典型的なマグニチュード（5Y 円・米ドルベーシス） |
 |---|---|---|
-| 四半期末 | dealer がバランスシート snapshot を減らすため FX-swap と CCBS book を圧縮する一方、顧客の USD 需要は変わらない。 | 数日で −10 から −30 bp の拡大。 |
-| 年末（12月） | 最も強い四半期末効果に、グローバル銀行の会計・報告期間が重なる。 | −20 から −60 bp の拡大。年末の 10–15 取引日前に peak となることが多い。 |
-| ドル不足局面（2008, 2011, 2020） | グローバルな USD funding stress。クロスボーダーの interbank market が乾く。 | peak で −100 から −300+ bp。 |
-| 日本固有の資金流出急増 | 生命保険会社または事業会社による USD 資産購入が継続する。 | −40 から −80 bp が 5Y で持続する期間がある。 |
-| BoJ-Fed swap line activation | BoJ が担保に対して日本の銀行へ再貸出するための USD liquidity を供給する。発動 tenor で basis の下限を作る。 | swap-line cost（通常 OIS + fixed spread）で拡大を抑える。 |
-| 規制再調整（例: 米銀の SLR exemption changes） | 米銀が裁定参加者として行動する意思を変化させる。 | 複数年にわたる持続的な shift。 |
+| 四半期末 | ディーラーがバランスシートのスナップショットを縮小するため為替スワップおよび CCBS のブックをカットする。顧客の米ドル需要は不変。 | 数日にわたり −10 から −30 bp の拡大。 |
+| 年末（12 月） | 最も強い四半期末効果に、グローバル銀行の会計報告期間が加わる。 | −20 から −60 bp の拡大。しばしば年末の 10–15 営業日前にピークをつける。 |
+| ドル不足局面（2008, 2011, 2020） | グローバルな米ドル調達のストレス。クロスボーダーのインターバンク市場が干上がる。 | ピークで −100 から −300+ bp。 |
+| 日本固有の流出急増 | 生命保険会社または事業会社による持続的な米ドル資産の購入。 | 一部の期間で 5Y において持続的に −40 から −80 bp。 |
+| 日銀・FRB スワップライン発動 | 担保と引き換えに日本の銀行へ転貸するための米ドル流動性を日銀に供給する。発動された期間でベーシスにフロアを設ける。 | スワップラインのコスト（典型的には OIS + 固定スプレッド）で拡大にキャップをかける。 |
+| 規制の再調整（例：米銀の SLR 適用除外の変更） | 米銀が裁定者として行動する意欲を変える。 | 持続的な複数年のシフト。 |
 
-新四半期の最初の週に反転しない四半期末 basis 拡大は、単なる window dressing を超える underlying funding stress を示すことが多い。
+新四半期の最初の週に反転しない四半期末のベーシス拡大は、通常、単なるウィンドウ・ドレッシングを超えた根底にある調達ストレスを示唆する。
 
-## EUR-USD basis との比較
+## ユーロ・米ドルベーシスとの比較
 
-| 観点 | JPY-USD basis | EUR-USD basis |
+| 次元 | 円・米ドルベーシス | ユーロ・米ドルベーシス |
 |---|---|---|
-| 符号 | 持続的にマイナス（JPY レッグが USD floating から spread を差し引いて支払う）。 | 持続的にマイナスだが、規模は小さい。 |
-| 要因 | 日本国内の USD 需要（生命保険会社、メガバンク、事業会社）。 | Eurozone bank の USD 資産 funding と、Greek crisis、Italian banking stress など周期的な eurozone stress。 |
-| 近年の典型的な 5Y 水準 | 平時は −30 から −80 bp、危機時は −150 から −300+ bp。 | 平時は −20 から −50 bp、危機時は −100 から −200 bp。 |
-| 年末の規模 | 日本固有の効果が大きい（会計年度の alignment、生命保険会社の reporting）。 | より小さいが、なお重要。 |
-| 政策 backstop | BoJ-Fed standing USD swap line と permanent CCY swap arrangement。 | ECB-Fed swap line で、構造は類似。 |
-| dealer set | 日本のメガバンクとグローバル dealer。 | 欧州銀行（BNP、SocGen、Deutsche）とグローバル dealer。 |
+| 符号 | 持続的にマイナス（円レッグは米ドル変動からスプレッドを差し引いて支払う）。 | 持続的にマイナスだがマグニチュードは小さい。 |
+| ドライバー | 日本国内の米ドル需要（生命保険会社、メガバンク、事業会社）。 | ユーロ圏の銀行の米ドル資産調達に、周期的なユーロ圏のストレス（ギリシャ危機、イタリアの銀行ストレス）が加わる。 |
+| 典型的な 5Y 水準（近年） | 平常時は −30 から −80 bp、危機時は −150 から −300+ bp。 | 平常時は −20 から −50 bp、危機時は −100 から −200 bp。 |
+| 年末のマグニチュード | より大きい日本固有の効果（会計年度の整合、生命保険会社の報告）。 | より小さいが依然として相応に大きい。 |
+| 政策のバックストップ | 日銀・FRB の常設米ドルスワップラインに、恒久的な通貨スワップ取極が加わる。 | ECB・FRB のスワップライン、構造的に類似。 |
+| ディーラー群 | 日本のメガバンクにグローバル・ディーラーが加わる。 | 欧州の銀行（BNP、ソシエテ・ジェネラル、ドイツ銀行）にグローバル・ディーラーが加わる。 |
 
-JPY-USD basis は、主要通貨 CCBS pairs の中で通常最も広く、最も変動しやすい。日本は非 USD 圏の中で最大の構造的 USD 資産需要を持ち、同時にドル収益を求める最大級の円建て balance sheet を抱えているためである。
+円・米ドルベーシスは、主要通貨の CCBS ペアのなかで典型的に最も幅が広く、最も変動が激しい。日本が非米ドル経済のなかで最大の構造的な米ドル資産需要を持ち、加えてドル収益を求める最大の円建てバランスシートを抱えているからである。
 
-## データ面
+## データ・サーフェス
 
-公開データ:
+公開データ：
 
-- **BIS Triennial Central Bank Survey and Semi-annual OTC Derivatives Statistics** — FX と金利デリバティブの gross notional と gross market value を、通貨ペア別・counterparty type 別に示す。
-- **BoJ statistics** — BIS OTC derivatives survey の日本部分を半期ごとに公表。同じ release window で公開される。
-- **ISDA SwapsInfo** — 清算済みおよび相対取引の weekly aggregated notional traded。
-- **Tradeweb、Bloomberg、ICAP、BGC indicative quotes** — 日次の indicative basis curves。直接の取引データではない。
+- **BIS 中央銀行三年次サーベイおよび半期 OTC デリバティブ統計**——為替および金利デリバティブのグロス想定元本とグロス市場価値。通貨ペアと取引相手タイプ別に分解。
+- **日銀統計**——BIS の OTC デリバティブ・サーベイの半期の日本部分。同じリリース・ウィンドウで公表される。
+- **ISDA SwapsInfo**——週次で集計された清算済みおよび相対の取引想定元本。
+- **Tradeweb、ブルームバーグ、ICAP、BGC のインディカティブ・クォート**——日次のインディカティブなベーシス・カーブ。直接の取引データではない。
 
-公開データは、FX-derivatives 全般について multi-trillion USD equivalent 規模の aggregate notional outstanding を示すが、個別取引の pricing、dealer P&L、具体的な counterparty exposures は示さない。dealer bank の IR disclosures は「FX and rates からの non-interest income」に言及することがあるが、basis P&L を切り出していない。
+公開データは、想定元本残高の総額（為替デリバティブ全般で複数兆ドル相当）を示すが、個別取引の価格付け、ディーラーの損益、特定の取引相手のエクスポージャーは示さない。ディーラー銀行の IR 開示は、ときに「為替および金利からの非金利収益」に言及するが、ベーシスの損益を切り分けることはない。
 
-## 関連項目
+## Related
 
 - [[derivatives/INDEX]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
@@ -140,13 +141,13 @@ JPY-USD basis は、主要通貨 CCBS pairs の中で通常最も広く、最も
 - [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- Bank for International Settlements: Semi-annual OTC derivatives statistics（通貨ペア別・商品種別の FX derivatives）。
-- Bank for International Settlements: CIP deviations と FX-swap markets に関する Quarterly Review articles（複数、2016  以降）。
-- Bank of Japan: BIS OTC derivatives survey の日本部分。
-- Bank of Japan: Money Market surface と Tokyo Money Market Survey commentary。
-- ISDA: SwapsInfo weekly aggregated transaction reports。
-- Financial Services Agency: OTC derivatives oversight に関する FIEA framework。
-- Japan Securities Clearing Corporation: clearing scope and product list。
-- Federal Reserve and Bank of Japan: standing USD swap line documentation and usage releases。
+- 国際決済銀行（BIS）：半期 OTC デリバティブ統計（通貨ペア・商品タイプ別の為替デリバティブ）。
+- 国際決済銀行（BIS）：CIP 乖離および為替スワップ市場に関する四半期報告（Quarterly Review）記事（複数、2016 年以降）。
+- 日本銀行：BIS の OTC デリバティブ・サーベイの日本部分。
+- 日本銀行：マネー・マーケット・サーフェスおよび東京短期金融市場サーベイの解説。
+- ISDA：SwapsInfo 週次集計取引レポート。
+- 金融庁：OTC デリバティブ監督のための金融商品取引法（FIEA）の枠組み。
+- 日本証券クリアリング機構：清算範囲および商品リスト。
+- 連邦準備制度および日本銀行：常設米ドルスワップラインの文書および利用状況のリリース。

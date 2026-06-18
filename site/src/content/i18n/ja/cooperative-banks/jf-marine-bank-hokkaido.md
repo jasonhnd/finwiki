@@ -1,23 +1,23 @@
 ---
 source: cooperative-banks/jf-marine-bank-hokkaido
-source_hash: 5951f6ad9d5cba9b
+source_hash: d50e367ffdc89587
 lang: ja
 status: machine
 fidelity: ok
-title: "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)"
-translated_at: 2026-06-02T14:25:12.417Z
+title: "JF Marine Bank 北海道（北海道信用漁業協同組合連合会 / Hokkaido Shingyoren）"
+translated_at: 2026-06-18T23:33:48.351Z
 ---
-# JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)
+# JF Marine Bank 北海道（北海道信用漁業協同組合連合会 / Hokkaido Shingyoren）
 
-## ウィキ上の位置づけ
+## ウィキ経路
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に位置し、FinWiki で最初の **JF Marine Bank 都道府県信漁連運営会社アンカー**である。集合項目としての JF 信漁連は文書化済みだったが、都道府県別信漁連アンカーが存在しないという監査ギャップを埋める。北海道は、サケ・ホタテ・コンブ・沿岸漁業等の生産額で国内最大級の水産地域であり、10 信漁連地図の中でも最も目立つ地域連合会として選定した。全国の都道府県連合会文脈は [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]]、JF グループの全国代表・経済事業連合会は [[cooperative-banks/jf-zengyoren|JF 全漁連]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、農協側の都道府県別比較アンカーは [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]]、システム境界は [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] とあわせて読む。
+本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置し、**FinWiki における最初の JF Marine Bank 県信漁連の事業会社アンカー**として、JF 信漁連（集合的）は記録されていたものの県別の信漁連アンカーが存在しなかったという監査ギャップを埋めるものである。北海道は **日本最大の単一漁業地域**（サケ / ホタテ / コンブ / 沿岸漁業 等の生産額トップ）+ **10信漁連ランドスケープで最も顕著な地域連合会**として選定された。全国の県信漁連の文脈については [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]]、JF グループ全国代表 + 経済事業連合会については [[cooperative-banks/jf-zengyoren|JF 全漁連]]、その上位の中央機関については [[cooperative-banks/norinchukin|農林中央金庫]]、農業側のピア県アンカーについては [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]]、システム境界については [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] とともに読むこと。
 
-## 要約
+## TL;DR
 
-**北海道信用漁業協同組合連合会 (北海道信漁連 / 道信漁連) = [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 内で国内最大の漁協系信用事業連合会**。水産業協同組合法を根拠とし、北海道内の沿岸 + 沖合漁業協同組合 (JF) の余資集約・[[cooperative-banks/norinchukin|農林中央金庫]] への預け入れ + 域内 JF への流動性供給を担う。**10 信漁連 (2025-04-01 時点) の中で総資産・預金規模最大**、北海道が国内漁業生産額の約 25% + 漁獲量の約 20% を占めるという **漁業集中地域** の信用基盤を担う。**サケ・ホタテ・コンブ・スケトウダラ・カニ等の北方系水産物**の販売前資金繰り融資 + 漁業設備資金 + 漁港インフラ融資が中核業務。**「71 JF → 10 信漁連 → 1 農林中金」の三段構造**の中で、地域漁業のセーフティネット + 系統金融機能を体現する代表的事例。^[extracted]
+**北海道信用漁業協同組合連合会（北海道信漁連 / 道信漁連）= [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 内で国内最大の漁協系信用事業連合会**。水産業協同組合法を根拠とし、北海道内の沿岸 + 沖合漁業協同組合 (JF) の余資集約・[[cooperative-banks/norinchukin|農林中央金庫]] への預け入れ + 域内 JF への流動性供給を担う。**10 信漁連 (2025-04-01 時点) の中で総資産・預金規模最大**、北海道が国内漁業生産額の約 25% + 漁獲量の約 20% を占めるという **漁業集中地域** の信用基盤を担う。**サケ・ホタテ・コンブ・スケトウダラ・カニ等の北方系水産物**の販売前資金繰り融資 + 漁業設備資金 + 漁港インフラ融資が中核業務。**「71 JF → 10 信漁連 → 1 農林中金」の三段構造**の中で、地域漁業のセーフティネット + 系統金融機能を体現する代表的事例。^[extracted]
 
-## 1. ライセンス・組織構造
+## 1. 免許 / 組織構造
 
 | 項目 | 内容 |
 |---|---|
@@ -28,7 +28,7 @@ translated_at: 2026-06-02T14:25:12.417Z
 | 系統 | [[cooperative-banks/norinchukin|農林中央金庫]] 直系 ([[banking/jf-marine-bank-system-japan|JF Marine Bank system]]) |
 | 監督官庁 | 金融庁・北海道財務局 + 農林水産省・水産庁 + 北海道庁 |
 | ホームマーケット | 北海道全域 (沿岸全 14 振興局 + 沖合) |
-| Wiki 上の役割 | **JF Marine Bank 都道府県信漁連運営会社として最初のアンカー** (10 信漁連最大の代表事例) |
+| Wiki role | **最初の JF Marine Bank 県信漁連事業会社アンカー** (10 信漁連最大の代表事例) |
 
 ### 北海道漁業の規模感 ^[extracted]
 
@@ -52,16 +52,16 @@ translated_at: 2026-06-02T14:25:12.417Z
 | 九州南部信漁連 | 熊本・鹿児島 | 中 |
 | 沖縄信漁連 | 沖縄 | 小 |
 
-### JF Marine Bank システム 内の北海道信漁連の位置付け ^[extracted]
+### JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]
 
 ```
 [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] (3 層構造)
-  階層 1: 全国 71 JF (うち北海道 JF 数十組合)
+  Layer 1: 全国 71 JF (うち北海道 JF 数十組合)
                 ↓ 余資預け入れ
-  階層 2: 10 信漁連
+  Layer 2: 10 信漁連
             ★ 北海道信漁連 (本ページ、最大規模)
                 ↓ 余資預け入れ
-  階層 3: 1 [[cooperative-banks/norinchukin|農林中央金庫]] (中央)
+  Layer 3: 1 [[cooperative-banks/norinchukin|農林中央金庫]] (中央)
                 ↓ 機関投資・系統還元
 ```
 
@@ -73,9 +73,9 @@ translated_at: 2026-06-02T14:25:12.417Z
 | 1950〜70 年代 | 北海道沿岸漁業の発展期、信漁連基盤確立 |
 | 1980〜90 年代 | 漁業生産ピーク (1980 年代後半 1200 万トン全国) → 縮小開始 |
 | 1990 年代後半 | 漁協数縮小 + 信漁連経営課題 |
-| 2000 年代 | **「JF (日本の漁業協同組合)」ブランド統一化** |
+| 2000 年代 | **「JF (Japan Fishery cooperatives)」ブランド統一化** |
 | **2010 年代** | **「[[banking/jf-marine-bank-system-japan|JF Marine Bank]]」ブランド統一化** ^[extracted] |
-| 2015〜 | **JF Marine Bank 基本方針** 一体運営強化 ^[extracted] |
+| 2015〜 | **JF Marine Bank Basic Policy** 一体運営強化 ^[extracted] |
 | 2020 年代 | 中国向け水産物輸出停止 (2023〜) への対応 |
 | **2025-04-01** | **10 信漁連体制内で北海道信漁連は最大規模で継続稼働** ^[extracted] |
 
@@ -135,27 +135,27 @@ translated_at: 2026-06-02T14:25:12.417Z
 - **直近政策論点**:
   - **中国向け禁輸 (2023〜) 対策** + 代替市場開拓融資
   - **2018 漁業法改正** の運用と漁業権配分の影響
-  - **JF Marine Bank 基本方針 高度化** + DX 推進
+  - **JF Marine Bank Basic Policy 高度化** + DX 推進
   - **2024〜農林中金米債損失** の信漁連配当への影響
   - **食料安全保障計画 (2026〜)** での北方系水産物の役割
   - **漁業者高齢化** + 新規就業者支援
 
-## 関連項目
+## 関連
 
 - [[cooperative-banks/jf-shingyoren]] — JF 信漁連 (全国集合エントリ、本道信漁連の上位カテゴリ)
 - [[cooperative-banks/jf-zengyoren]] — JF 全漁連 (JF グループ代表 + 経済事業)
 - [[cooperative-banks/norinchukin]] — 農林中央金庫 (本信漁連の上位中央)
-- [[cooperative-banks/ja-bank-tokyo-shinren]] — JA バンク東京信連 (都道府県別の比較アンカー / 農協系)
-- [[cooperative-banks/ja-kyosairen-fukushima]] — JA 共済連福島 (都道府県別の比較アンカー / 共済側)
+- [[cooperative-banks/ja-bank-tokyo-shinren]] — JA バンク東京信連 (peer prefectural anchor / 農協系)
+- [[cooperative-banks/ja-kyosairen-fukushima]] — JA 共済連福島 (peer prefectural anchor / 共済側)
 - [[cooperative-banks/ja-shinnoren]] — JA 信連 (農協系全国集合 peer)
 - [[regional-banks/hokkaido-bank]] — 北海道銀行 (道内 peer 銀行)
 - [[regional-banks/north-pacific-bank]] — 北洋銀行 (道内 peer 銀行)
-- [[banking/jf-marine-bank-system-japan]] — JF Marine Bank システム
-- [[banking/ja-bank-system-japan]] — JA Bank システム (比較対象システム)
+- [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
+- [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **JF Marine Bank 公式**: https://www.jfmbk.org/
 - **JF Marine Bank 基本方針**: https://www.jfmbk.org/about/housin.html
@@ -170,4 +170,4 @@ translated_at: 2026-06-02T14:25:12.417Z
 ---
 
 > [!info] 校核状態
-> 信頼度: **likely**。財務計数 (総資産 809,869 百万円 / 貯金等残高 765,436 百万円 / 職員数 154 人 / 単体自己資本比率 16.15%, 令和7年3月末) は北海道信用漁業協同組合連合会の公式ディスクロージャー (2025) による確定値。設立 1949 年。10 信漁連の構成一覧は推定 (^[extracted / inferred]) であり、2021 以降の東日本信漁連・九州信漁連・西日本信漁連の統合再編を要反映。
+> confidence: **likely**。財務計数 (総資産 809,869 百万円 / 貯金等残高 765,436 百万円 / 職員数 154 人 / 単体自己資本比率 16.15%, 令和7年3月末) は北海道信用漁業協同組合連合会の公式ディスクロージャー (2025) による確定値。設立 1949 年。10 信漁連の構成一覧は推定 (^[extracted / inferred]) であり、2021 以降の東日本信漁連・九州信漁連・西日本信漁連の統合再編を要反映。

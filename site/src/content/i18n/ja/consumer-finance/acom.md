@@ -1,20 +1,20 @@
 ---
 source: consumer-finance/acom
-source_hash: 4c9432ea1af3c549
+source_hash: 28fe7d7ad6474d50
 lang: ja
 status: machine
 fidelity: ok
 title: "アコム株式会社 (Acom)"
-translated_at: 2026-06-02T14:01:20.958Z
+translated_at: 2026-06-18T23:33:48.307Z
 ---
 
 # アコム株式会社 (Acom)
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-この項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の配下に位置する。ピア比較 / 対照文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
+本エントリは [[consumer-finance/INDEX|consumer-finance INDEX]] の下に位置する。ピア / 対照の文脈については [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と、より広範なシステム / 規制の境界については [[banking/INDEX|banking index]] と照らして読むこと。
 
-## 要約
+## TL;DR
 
 [[megabanks/mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[megabanks/mufg]] 系列）・プロミス（[[megabanks/smfg]] 内 SMBCCF）・アイフル（[[consumer-finance/aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]
 
@@ -72,7 +72,7 @@ translated_at: 2026-06-02T14:01:20.958Z
 
 ### Easy Buy PCL（タイ Easy Buy）★
 
-公開情報に基づく当該項目の位置づけを説明する。 71% [[megabanks/mufg]] ^[extracted]
+**タイ消費者金融の業界先行モデル**。「Umay+」ブランドで二輪車ローンを軸に展開、アコムが 71% 出資する連結子会社。タイ景気・バーツ・規制リスクと連動するが、ASEAN 個人向け小口金融で他社より先行している。MUFG の ASEAN 戦略（[[megabanks/mufg]] Krungsri / Bank Danamon）とも整合。^[extracted]
 
 ### 信用保証事業（MUFG 連携）
 
@@ -155,7 +155,7 @@ translated_at: 2026-06-02T14:01:20.958Z
   - 過払い金請求は減少基調だが完全消滅していない
   - 銀行カードローンの「実質総量規制超過」問題（業界自主規制）
 
-## 関連項目
+## 関連
 
 - [[megabanks/mufg]] — 親会社（持分法 37.6% + 信託 2.0% = 39.6%）
 - [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
@@ -177,5 +177,5 @@ translated_at: 2026-06-02T14:01:20.958Z
 
 ---
 
-> [!info] 校核状态
-> 公開情報に基づく論点を日本語で整理する。 2026-05-19 1936  1978 1996 10  2008-10-22 39.6% 71% 2024
+> [!info] 検証状況
+> confidence: **likely**（公開情報のみで構成、2026-05-19）。創業年（1936 神戸・丸糸呉服店）・改称年（1978）・上場年（1996-10 東証一部）・MUFG TOB（2008-10-22）・持分法比率（39.6%）・Easy Buy（タイ 71%）は Wikipedia + MUFG 公開有報 + 公開判例で確認可能な範囲。FY2024 個別数値は公開分のみ、内部資料・非公開情報は一切含まず。

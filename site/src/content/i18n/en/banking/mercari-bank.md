@@ -1,14 +1,14 @@
 ---
 source: banking/mercari-bank
-source_hash: 1eb4016940a0cfb4
+source_hash: 385edc86a2548249
 lang: en
 status: machine
 fidelity: ok
-title: "Mercari Bank (メルカリバンク / Mercari Bank)"
-translated_at: 2026-05-30T18:52:47.786Z
+title: "メルカリバンク (Mercari Bank)"
+translated_at: 2026-06-18T23:33:48.271Z
 ---
 
-# Mercari Bank (メルカリバンク / Mercari Bank)
+# メルカリバンク (Mercari Bank)
 
 ## Wiki route
 
@@ -16,41 +16,41 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-Mercari Bank is a BaaS service that lets users use a Minna Bank account inside the Mercari app. 2025-12-18, it launched through a BaaS business partnership between Minna Bank and Merpay. The banking entity is [[banking/minna-bank-baas-model|みんなの銀行]], while Merpay handles the API-linkage / electronic-payment-agency layer.
+Mercari Bank is a BaaS service that makes a Minna Bank account usable inside the Mercari app. It launched on 2025-12-18 through a BaaS business partnership between Minna Bank and Merpay. The banking entity is [[banking/minna-bank-baas-model|みんなの銀行]], while Merpay handles the API-connection / electronic-payment-intermediary layer.
 
 ## Product map
 
 | Component | Description |
 |---|---|
 | Service front | Balance / wallet flow within the Mercari app |
-| Bank account | Minna Bank ordinary deposit account, partner branch "Mercari Branch" |
-| API connector | API linkage between Merpay and Minna Bank |
-| Core use case | Move Mercari sales proceeds / Merpay balance to the bank account instantly and fee-free |
-| Cash-out | Cash-withdrawal flow via Seven Bank ATMs and others, with preferential conditions |
+| Bank account | Minna Bank ordinary deposit account, the partner branch "Mercari Branch" |
+| API connector | API connection between Merpay and Minna Bank |
+| Core use case | Move Mercari sales proceeds / Merpay balance to a bank account instantly and free of charge |
+| Cash-out | Withdrawal flow via Seven Bank ATMs and others, with preferential terms |
 
 ## Strategic read
 
-The essence of Mercari Bank is to lower the friction of converting flea-market sales proceeds into bank deposits. The conventional "withdraw your sales proceeds" UX tends to make fees, waiting time, and external-bank-account registration a psychological burden. By placing sales proceeds, the Merpay balance, and the bank account in the same in-app flow, Mercari Bank connects selling, spending, and saving.
+The essence of Mercari Bank is reducing the friction of converting flea-market sales proceeds into bank deposits. The conventional "withdraw your sales proceeds" UX tends to impose psychological burden through fees, waiting time, and the registration of an external bank account. By placing sales proceeds, Merpay balance, and a bank account in the same in-app flow, Mercari Bank connects selling, spending, and saving.
 
-This structure is a strong example even within [[banking/baas-japan-landscape|Japan BaaS landscape]]. Mercari holds a high-frequency C2C marketplace and settlement balances, while Minna Bank holds a banking license and an API / partner branch. By combining the two, it can capture everyday touchpoints that a bank would find hard to reach on its own.
+This structure is a strong example even within [[banking/baas-japan-landscape|Japan BaaS landscape]]. Mercari has a high-frequency C2C marketplace and payment balances, while Minna Bank has a banking license and an API / partner branch. By combining the two, the bank can acquire a touchpoint with daily life that it would find hard to capture on its own.
 
 ## What it is not
 
 - It is not a service in which Merpay obtained a banking license.
-- The Mercari Branch is a partner branch of Minna Bank, not a deposit bank operated solely by Mercari.
-- Per the public FAQ, the Mercari Branch has restrictions on API linkages other than Mercari Bank, so it does not necessarily offer the same UX as a general Minna Bank account.
+- The Mercari Branch is a partner branch of Minna Bank, not a deposit-taking bank operated solely by Mercari.
+- Per the public FAQ, the Mercari Branch has restrictions on API connections other than Mercari Bank, so it is not necessarily the same UX as a general-purpose Minna Bank account.
 
 ## Competitive meaning
 
-Mercari Bank differs from a full-banking-group strategy such as [[banking/rakuten-bank|楽天銀行]] or [[banking/paypay-bank|PayPay 銀行]]. Rather than owning a bank itself, Mercari has chosen to embed financial functions inside its app using BaaS.
+Mercari Bank differs from full banking-group strategies such as [[banking/rakuten-bank|楽天銀行]] or [[banking/paypay-bank|PayPay 銀行]]. Rather than owning a bank in-house, Mercari has chosen the path of embedding financial functions inside the app using BaaS.
 
-Its comparison axes are therefore not "all-round strength as a bank" but the following 3  points.
+For that reason, the axes of comparison are not "comprehensive strength as a bank" but the following 3  points.
 
 | Axis | Question |
 |---|---|
-| Conversion | How much of the sales proceeds / balance can be converted into deposits |
-| Stickiness | Whether the usage frequency of the Mercari app can be converted into a financial flow |
-| License leverage | How far the boundary between its own licenses and the Minna Bank API can be expanded |
+| Conversion | How much of the sales proceeds / balance can be turned into deposits |
+| Stickiness | Whether the Mercari app's usage frequency can be converted into a financial flow |
+| License leverage | How far the boundary between its own license and the Minna Bank API can be expanded |
 
 ## Related
 
@@ -67,4 +67,4 @@ Its comparison axes are therefore not "all-round strength as a bank" but the fol
 - Minna Bank / Merpay, 2025-12-18: Mercari Bank service launch release.
 - Minna Bank: Mercari Branch official FAQ / branch page.
 - Mercari Help: Linking a Minna Bank account to Merpay.
-- Mercari: Disclosures regarding the electronic payment agency business.
+- Mercari: Disclosures regarding electronic payment intermediary business.

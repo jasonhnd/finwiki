@@ -1,21 +1,21 @@
 ---
 source: cooperative-banks/aichi-iryo-shinkumi
-source_hash: ff63a7b3799af047
+source_hash: cc2563bbf1dedf3b
 lang: ja
 status: machine
 fidelity: ok
 title: "愛知県医療信用組合 (Aichi Medical Credit Cooperative)"
-translated_at: 2026-06-02T14:01:20.952Z
+translated_at: 2026-06-18T23:33:48.320Z
 ---
 # 愛知県医療信用組合 (Aichi Medical Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に置かれ、中京圏の **業域（医療職域）信用組合アンカー**として、職域型の [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察）および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（公務員）と並ぶ。医療系信組は、日本の 143 協同組織金融のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理された母集団で **最大の単一業域カテゴリ**を形成する。
+このエントリは、中京地域の **業域（医療職域）信組のアンカー**として [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に位置し、職域に基づく [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察）および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（公務員）のピアである。医療信組は、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] にカタログ化された日本の 143 協同組織の母集団において、**単一業種の信組カテゴリとして最大**を成す。
 
-## 要約
+## TL;DR
 
-愛知県医療信用組合は、愛知県名古屋市中区丸の内 (愛知県歯科医師会館 6 階) に本店を置く **歯科医師を組合員とする業域型信用組合** (公式サイトで「歯科医の歯科医による歯科医のための組合」と明記)。FSA 登録番号 79 (東海財務局所管)、法人番号 6180005003438。1962 年に愛知県歯科医師会員向けに設立され、2015 年に岐阜県・三重県の歯科医師会員へ地区を拡大。同じ愛知県内に [[cooperative-banks/aichi-ishi-shinkumi|愛知県医師信用組合]] (登録番号 78, 医師対象) が並存し、両者は **歯科医師 / 医師**で棲み分ける。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。組合員 (歯科医師) 向けの **住宅ローン・開業資金・医療機器ローン**等が事業の中核。^[extracted]
+愛知県医療信用組合は、愛知県名古屋市中区丸の内 (愛知県歯科医師会館 6 階) に本店を置く **歯科医師を組合員とする業域型信用組合** (公式サイトで「歯科医の歯科医による歯科医のための組合」と明記)。FSA registry No. 79 (東海財務局所管)、法人番号 6180005003438。1962 年に愛知県歯科医師会員向けに設立され、2015 年に岐阜県・三重県の歯科医師会員へ地区を拡大。同じ愛知県内に [[cooperative-banks/aichi-ishi-shinkumi|愛知県医師信用組合]] (registry No. 78, 医師対象) が並存し、両者は **歯科医師 / 医師**で棲み分ける。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。組合員 (歯科医師) 向けの **住宅ローン・開業資金・医療機器ローン**等が事業の中核。^[extracted]
 
 ## 1. 法人概要
 
@@ -25,7 +25,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 | 通称 | 医療信組 / 県医療信組 |
 | 設立 | 1962-09 (愛知県歯科医師会員向けに設立、2015 年に岐阜・三重へ地区拡大) |
 | 法人番号 | **6180005003438** ^[extracted FSA registry] |
-| FSA 登録番号 | **79** (東海財務局) |
+| FSA registry No. | **79** (東海財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
 | 本店所在地 | 愛知県名古屋市中区丸の内3-5-18 愛知県歯科医師会館 6 階 (郵便番号 460-0002) ^[extracted FSA registry] |
 | 系統 | [[cooperative-banks/zenshin-kumi|全信組連]] 会員 |
@@ -46,7 +46,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 
 ### 愛知県医療系信組 2 行体制 ^[extracted FSA registry]
 
-| 信組 | 本店 | 組合員 | 登録番号 |
+| 信組 | 本店 | 組合員 | registry No. |
 |---|---|---|---|
 | 愛知県医師信用組合 | 名古屋市中区栄 | 医師 (医師会員) | 78 |
 | **愛知県医療信用組合** ★本ページ | **名古屋市中区丸の内 (歯科医師会館内)** | **歯科医師 (歯科医師会員)** | **79** |
@@ -55,7 +55,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 
 医療系信組は全国 17 県以上に存在、信組業界最大の業域カテゴリの一つ:
 
-| 信組 | 県 | 登録番号 |
+| 信組 | 県 | registry No. |
 |---|---|---|
 | 岩手県医師信用組合 | 岩手 | 9 |
 | 山形県医師信用組合 | 山形 | 16 |
@@ -126,21 +126,21 @@ translated_at: 2026-06-02T14:01:20.952Z
   - **医療法人 M&A 急増**に伴う融資需要構造変化
   - **医師の独立開業減少**トレンド (勤務医増加)
 
-## 関連項目
+## 関連
 
-- [[cooperative-banks/aichi-shogin-shinkumi]] — 信用組合愛知商銀 (ピア 愛知 8 信組内、業域対比)
+- [[cooperative-banks/aichi-shogin-shinkumi]] — 信用組合愛知商銀 (peer 愛知 8 信組内、業域対比)
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
-- [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (ピア 職域信組、公務員系)
+- [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (peer 職域信組、公務員系)
 - [[financial-regulators/dic]] — 預金保険機構
 - [[financial-regulators/dbj]] — 日本政策投資銀行 (医療セクター融資の競合)
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (ピア 地域型信組、業態対比)
+- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
-- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 6180005003438, 登録番号 79)
+- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 6180005003438, registry No. 79)
 - **愛知県医療信用組合 公式 (組合員資格・ディスクロージャー)**: https://www.iryoushin.com/
 - **Wikipedia「愛知県医療信用組合」** (財務諸数値 2022-03-31 現在、設立・組合員資格): https://ja.wikipedia.org/wiki/愛知県医療信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
@@ -152,4 +152,4 @@ translated_at: 2026-06-02T14:01:20.952Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・登録番号・本店所在地 (愛知県歯科医師会館内) は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み (組合員数のみ要参照)。愛知県医師信組 (登録番号 78) との関係も出典付与済み — 本組合は **歯科医師** を組合員とする業域信組 (公式サイト・Wikipedia で確認、2015 年に岐阜・三重の歯科医師会員へ地区拡大)、医師信組は **医師** が対象で、両者は歯科医師 / 医師で棲み分ける。医療業域信組の代表アンカーとして Wave 13 拡張で追加。**修正注記**: 当初記載の「医療従事者全般」を組合員基盤とする旨は出典 (公式サイト「歯科医の歯科医による歯科医のための組合」・Wikipedia) と齟齬があり、組合員資格は歯科医師中心に訂正済み。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (愛知県歯科医師会館内) は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み (組合員数のみ要参照)。愛知県医師信組 (registry No. 78) との関係も出典付与済み — 本組合は **歯科医師** を組合員とする業域信組 (公式サイト・Wikipedia で確認、2015 年に岐阜・三重の歯科医師会員へ地区拡大)、医師信組は **医師** が対象で、両者は歯科医師 / 医師で棲み分ける。医療業域信組の代表アンカーとして Wave 13 拡張で追加。**修正注記**: 当初記載の「医療従事者全般」を組合員基盤とする旨は出典 (公式サイト「歯科医の歯科医による歯科医のための組合」・Wikipedia) と齟齬があり、組合員資格は歯科医師中心に訂正済み。

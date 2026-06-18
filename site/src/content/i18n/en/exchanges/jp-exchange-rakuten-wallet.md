@@ -1,115 +1,115 @@
 ---
 source: exchanges/jp-exchange-rakuten-wallet
-source_hash: 5e89dba04394ddca
+source_hash: ad7adca32cca9b49
 lang: en
 status: machine
 fidelity: ok
-title: "Rakuten Wallet, Inc. — Japanese Crypto-Asset Exchange Operator overview"
-translated_at: 2026-05-31T05:31:05.773Z
+title: "Rakuten Wallet, Inc. — Japan crypto-asset exchange overview"
+translated_at: 2026-06-18T23:33:48.315Z
 ---
 
-# Rakuten Wallet, Inc. — Japanese Crypto-Asset Exchange Operator overview
+# Rakuten Wallet, Inc. — Japan crypto-asset exchange overview
 
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system: numbering, Local Finance Bureau jurisdiction, and registration requirements]] for adjacent context and [[fintech/japan-financial-regulation|Japanese financial regulation for tokens, crypto-assets, and payments]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
-> FSA registration number, Kanto Local Finance Bureau No. 00015 · JVCEA member #1018 · Registration date 2019-03-25
+> FSA registration number Kanto Local Finance Bureau 第00015号 · JVCEA member #1018 · registration date 2019-03-25
 
-## 1. Corporate Entity / Shareholders
+## 1. Corporation / shareholders
 
-- **Trade name**: Rakuten Wallet, Inc. (Japanese: 楽天ウォレット株式会社)
-- **Date of establishment**: 2016-12-15 (former trade name: Minna no Bitcoin Inc.)
-- **Head office location**: Rakuten Crimson House Aoyama, 6-21 Minamiaoyama 2-chome, Minato-ku, Tokyo 〒107-0062
-- **Capital**: JPY 1,850 million (JPY 1.85 billion)
-- **Parent company**: Rakuten Securities Holdings, Inc. (holding 100%). Rakuten Securities Holdings is under Rakuten Group, Inc. (TSE Prime 4755).
+- **Trade name**: Rakuten Wallet, Inc. (English: Rakuten Wallet, Inc.)
+- **Date of establishment**: 2016年12月15日 (former trade name: Minna no Bitcoin, Inc.)
+- **Head office location**: 〒107-0062  Rakuten Crimson House Aoyama, 6-21号 Minami-Aoyama 2-chome, Minato-ku, Tokyo
+- **Capital**: 1,850百万円 (18.5億円)
+- **Parent company**: Rakuten Securities Holdings, Inc. (100% stake). Rakuten Securities Holdings is under Rakuten Group, Inc. (TSE Prime 4755).
 - **Corporate number**: 7010401128837
-- **President and Representative Director**: Tatsuya Yamada
+- **Representative Director and President**: Tatsuya Yamada
 
-## 2. Licenses / Registration Status
+## 2. License / registration status
 
-- **Crypto-asset exchange business**: Director-General of the Kanto Local Finance Bureau No. 00015 (registration completed 2019-03-25)
-- **Electronic payment instrument trading business**: Director-General of the Kanto Local Finance Bureau (Dendai) No. 48
-- **Financial instruments business (Type I)**: Director-General of the Kanto Local Finance Bureau (Kinsho) No. 3190 (registration completed 2020-05)
-- **JVCEA membership type**: Class I, member number 1018. Holds both crypto-asset exchange business and crypto-asset derivatives trading qualifications.
+- **Crypto-asset exchange business**: Director-General of the Kanto Local Finance Bureau 第00015号 (registration completed 2019年3月25日)
+- **Electronic-payment-instrument business**: Director-General of the Kanto Local Finance Bureau (Dendai) 第48号
+- **Financial instruments business (Type 1)**: Director-General of the Kanto Local Finance Bureau (Kinsho) 第3190号 (registration completed 2020年5月)
+- **JVCEA membership type**: Type 1, member number 1018. Holds both crypto-asset exchange business and crypto-asset derivatives trading qualifications.
 - **ISMS certification**: ISO/IEC 27001:2013 (certification registration number IS 510581)
 
-## 3. Supported Currencies
+## 3. Handled currencies
 
-**Number of supported assets**: 16 assets (as of 2026-05-18, per the official site's list of supported crypto-assets)
+**Number of handled currencies**: 16 currencies (as of 2026-05-18, from the official-site handled-crypto-asset list)
 
-| Category | Assets |
+| Category | Currencies |
 |---------|------|
-| Spot trading available | BTC, ETH, BCH, XRP, ADA, DOT, XLM, POL, SOL, TRX, AVAX, DOGE, SHIB, TON |
+| With spot trading | BTC, ETH, BCH, XRP, ADA, DOT, XLM, POL, SOL, TRX, AVAX, DOGE, SHIB, TON |
 | Margin trading only | LTC, XTZ |
 
-Margin trading (crypto-asset derivatives) supports the 9 assets BTC, ETH, BCH, LTC, XRP, ADA, DOT, XLM, and XTZ.
+Margin trading (crypto-asset derivatives) supports the 9 currencies of BTC, ETH, BCH, LTC, XRP, ADA, DOT, XLM, and XTZ.
 
-**Characteristics**: Leverages integration with the Rakuten ecosystem as a strength, with a balanced asset lineup centered on major coins. Relatively new meme / utility coins such as SHIB and TON are also added in sequence (shown as "NEW" as of 2026).
+**Characteristics**: With its strength in linkage with the Rakuten ecosystem, a balanced currency lineup centered on major coins. Relatively new meme / utility coins such as SHIB and TON are also added sequentially (marked "NEW" as of 2026年).
 
-## 4. Scope of Business
+## 4. Scope of business
 
-- **Spot trading**: Available (smartphone app and web)
-- **Crypto-asset margin trading (derivative)**: Available. Service launched 2020-03. Provides a dedicated website, "Margin Exchange."
-- **Rakuten Point exchange**: Rakuten Points (regular points) can be exchanged for spot-trading assets at 1 point = JPY 1 equivalent (minimum 100 points). Launched 2021-03 as "Point Bitcoin by Rakuten PointClub."
-- **Rakuten Cash charge**: Held crypto-assets can be converted and charged to Rakuten Cash and used at Rakuten Pay merchants (launched 2021-02).
-- **web3 wallet**: A separate NFT / web3 wallet app usable with a Rakuten ID is provided (a different service from the crypto-asset trading app).
-- **Corporate accounts**: Available (corporate account-opening service provided).
-- **API**: Provides a trading API for external developers (including "GPT-Trade" integration).
-- **Deposit channels**: Supports real-time deposits linked to a Rakuten Bank account, bank transfers, and deposits/withdrawals available on weekends and holidays.
+- **Spot trading (spot)**: yes (smartphone app and web)
+- **Crypto-asset margin trading (derivative)**: yes. Service started 2020年3月. Provides a dedicated website, the "Margin Trading Exchange."
+- **Rakuten Point exchange**: Rakuten Points (regular points) can be exchanged for spot-trading currencies at 1 points = the equivalent of 1円 (minimum 100 points). Started 2021年3月 as "Point Bitcoin by Rakuten PointClub."
+- **Rakuten Cash charge**: held crypto-assets can be converted and charged to Rakuten Cash and used at Rakuten Pay member stores (started 2021年2月).
+- **web3 wallet**: separately provides an NFT/web3 wallet app usable with a Rakuten ID (a separate service from the crypto-asset trading app).
+- **Corporate accounts**: yes (provides a corporate account-opening service).
+- **API**: provides a trading API for external developers (including "GPT-Trade" linkage).
+- **Deposit channels**: supports instant deposit linked to a Rakuten Bank account, bank transfer, and deposits/withdrawals supported on weekends and holidays.
 
-## 5. Market Share / Trading Volume
+## 5. Market share / trading volume
 
-- Account count and monthly trading volume are not disclosed (as of 2026-05-18).
-- A customer base leveraging the ecosystem of the Rakuten Group (over 100 million members) is a differentiating factor. Through integration with Rakuten Points and Rakuten Cash, it seeks to onboard Rakuten users with no crypto-asset experience.
-- Position among competitors: Mid tier. While [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] form the upper ranks, it has established a distinctive position in [[payment-firms/rakuten-fg|Rakuten economic sphere]] (the [[exchanges/jp-cex-points-economy-integration|JP CEX point-economy integration]] pattern). It leans more toward a retail-specialized character than institutional-investor services.
+- The number of accounts / monthly trading volume is not published (as of 2026-05-18).
+- A customer base leveraging the ecosystem of the Rakuten Group (over 1億 members) is a differentiating factor. Through linkage with Rakuten Points / Rakuten Cash, it aims to onboard Rakuten users with no crypto-asset experience.
+- Position among competitors: mid-tier. Amid a configuration where [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMOコイン]] form the top, it has established a unique position in [[payment-firms/rakuten-fg|楽天経済圏]] (the [[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] pattern). It has a stronger retail-specialized character than institutional-investor services.
 
-## 6. History / Major Events
+## 6. History / major events
 
-| Year/Month | Event |
+| Date | Event |
 |------|--------|
-| 2016-12 | Traders Holdings established **Minna no Bitcoin Inc.** |
-| 2017-03 | Launched a virtual-currency exchange service |
-| 2017-09 | Submitted a virtual-currency exchange operator registration application to the Kanto Local Finance Bureau |
-| 2018-04 | Received a business improvement order from the Kanto Local Finance Bureau (as a deemed operator before registration) |
-| 2018-10 | Rakuten Card acquired all shares of Minna no Bitcoin from a Traders Holdings subsidiary, making it a subsidiary |
-| 2019-03 | Changed trade name to **Rakuten Wallet, Inc.** Completed FSA crypto-asset exchange operator registration (No. 00015) |
-| 2019-04 | Became a 100% subsidiary of Rakuten Payment, Inc. through a reorganization within the Rakuten Group |
-| 2019-08 | Launched crypto-asset spot trading service |
-| 2020-03 | Launched crypto-asset margin trading service |
-| 2020-05 | Completed Type I financial instruments operator registration (Director-General of the Kanto Local Finance Bureau (Kinsho) No. 3190) |
-| 2020-06 | Relocated headquarters from Tamagawa, Setagaya-ku, Tokyo, to Minamiaoyama, Minato-ku, Tokyo |
-| 2020-10 | Reduced capital to JPY 100 million (later increased; currently JPY 1.85 billion) |
-| 2021-02 | Launched crypto-asset → Rakuten Cash charge service |
-| 2021-03 | Launched Rakuten Points → BTC pseudo-investment "Point Bitcoin by Rakuten PointClub" |
-| 2022-07 | Became a 100% subsidiary of Rakuten Securities through a reorganization within the Rakuten Group |
-| 2022-10 | Reorganized as a 100% subsidiary of Rakuten Securities Holdings |
+| 2016年12月 | Traders Holdings established **Minna no Bitcoin, Inc.** |
+| 2017年3月 | Started a virtual-currency exchange service |
+| 2017年9月 | Submitted a virtual-currency-exchange-operator registration application to the Kanto Local Finance Bureau |
+| 2018年4月 | Received a business improvement order from the Kanto Local Finance Bureau (as a deemed operator before registration) |
+| 2018年10月 | Rakuten Card acquired all shares of Minna no Bitcoin from a Traders Holdings subsidiary, making it a subsidiary |
+| 2019年3月 | Changed the trade name to **Rakuten Wallet, Inc.** Completed FSA crypto-asset-exchange-operator registration (第00015号) |
+| 2019年4月 | Became a 100% subsidiary of Rakuten Payment, Inc. via reorganization within the Rakuten Group |
+| 2019年8月 | Started a crypto-asset spot-trading service |
+| 2020年3月 | Started a crypto-asset margin-trading service |
+| 2020年5月 | Completed Type 1 financial-instruments-operator registration (Director-General of the Kanto Local Finance Bureau (Kinsho) 第3190号) |
+| 2020年6月 | Relocated headquarters from Tamagawa, Setagaya-ku, Tokyo, to Minami-Aoyama, Minato-ku, Tokyo |
+| 2020年10月 | Reduced capital to 1億円 (later increased capital, now 18.5億円) |
+| 2021年2月 | Started the crypto-asset → Rakuten Cash charge service |
+| 2021年3月 | Started the Rakuten Point → BTC pseudo-investment "Point Bitcoin by Rakuten PointClub" |
+| 2022年7月 | Became a 100% subsidiary of Rakuten Securities via reorganization within the Rakuten Group |
+| 2022年10月 | Reorganized into a 100% subsidiary of Rakuten Securities Holdings |
 
-Principal administrative disposition: the business improvement order of 2018-04 (during the period as a deemed operator before registration, disclosed by parent company Traders Holdings). No record of post-registration administrative disposition has been confirmed in public information.
+Major administrative dispositions: the 2018年4月 business improvement order (during the period as a deemed operator before registration, disclosed by the parent company Traders Holdings). No record of administrative dispositions after registration has been confirmed in public information.
 
-## 7. Strategic Developments
+## 7. Strategic trends
 
-- **Deepening integration of the Rakuten economic sphere**: Through integration with Rakuten Points, Rakuten Cash, and Rakuten Pay, continues a strategy of treating the over-20 million Rakuten Point members as a potential customer base.
-- **web3 wallet rollout**: Since 2025, provides an NFT- and web3-compatible app as an independent service. A design using single sign-on via Rakuten ID lowers the entry barrier for existing users.
-- **GPT-Trade integration**: Provides an AI-driven trading interface as an official service (as of 2026).
-- **SPU (Super Point Up Program)**: Incorporates Rakuten Wallet usage into the conditions for raising the point-reward rate on Rakuten Ichiba purchases, seeking mutual customer referral with other Rakuten services.
-- **Expansion of supported assets**: Around 2026, added meme-type / high-liquidity assets such as SHIB, TON, and DOGE, strengthening the lineup.
+- **Deepening Rakuten-economic-zone integration**: continuing a strategy of treating the over-2,000万 Rakuten Point members as a potential customer base through linkage with Rakuten Points / Rakuten Cash / Rakuten Pay.
+- **web3 wallet expansion**: since 2025年, providing NFT / web3-compatible apps as a standalone service. A design that lowers the entry barrier for existing users via single sign-on with a Rakuten ID.
+- **GPT-Trade linkage**: providing an AI-leveraging trading interface as an official service (as of 2026年).
+- **SPU (Super Point Up Program)**: incorporating the use of Rakuten Wallet into the conditions for boosting the point-reward rate on Rakuten Ichiba purchases, seeking mutual customer referral with other Rakuten services.
+- **Handled-currency expansion**: added meme / high-liquidity currencies such as SHIB, TON, and DOGE around 2026年, strengthening the lineup.
 
-## 8. Related People
+## 8. Related figures
 
-- **Tatsuya Yamada**: President and Representative Director (publicly disclosed information)
-- **Original starting point**: Traders Holdings (an FX-related corporate group) established the original entity, but it fully transitioned to the Rakuten Group in 2018-10. Details of the founder and officers at the time of establishment are not stated in public materials.
+- **Tatsuya Yamada**: Representative Director and President (disclosed information)
+- **The original starting point**: Traders Holdings (an FX-affiliated corporate group) established the original corporation, but it fully transitioned to the Rakuten Group in 2018年10月. Details of the founder / officers at the time of establishment are not recorded in disclosed materials.
 
 ## Related
 
-- [[fintech/japan-financial-regulation]] — Japan's financial regulation overall
-- [[fintech/japan-stablecoin-regulatory-landscape]] — Related stablecoin framework
-- [[fintech/jp-trust-type-sc-architecture]] — Related SC framework
-- [[fintech/japan-bittrade-listing-process]] — General theory of the listing process
-- [[exchanges/jp-exchange-gmo-coin]] — Peer GMO Coin overview
-- [[exchanges/jp-exchange-mercoin]] — Peer Mercoin overview
-- [[exchanges/jp-exchange-binance-japan]] — Peer Binance Japan overview
+- [[fintech/japan-financial-regulation]] — Japanese financial regulation overall
+- [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin regime
+- [[fintech/jp-trust-type-sc-architecture]] — related SC regime
+- [[fintech/japan-bittrade-listing-process]] — general discussion of the listing process
+- [[exchanges/jp-exchange-gmo-coin]] — peer GMO Coin overview
+- [[exchanges/jp-exchange-mercoin]] — peer MercCoin overview
+- [[exchanges/jp-exchange-binance-japan]] — peer Binance Japan overview
 - [[payment-firms/rakuten-fg]] — Rakuten Group parent-company profile
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX point-economy integration
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent-company map
@@ -117,9 +117,9 @@ Principal administrative disposition: the business improvement order of 2018-04 
 ## Sources
 
 - [Rakuten Wallet company overview](https://www.rakuten-wallet.co.jp/company/company.html) (retrieved 2026-05-18)
-- [Rakuten Wallet supported crypto-assets list](https://www.rakuten-wallet.co.jp/start/cryptoassets.html) (retrieved 2026-05-18)
-- [Rakuten Wallet investment with Rakuten Points](https://www.rakuten-wallet.co.jp/point/) (retrieved 2026-05-18)
+- [Rakuten Wallet handled-crypto-asset list](https://www.rakuten-wallet.co.jp/start/cryptoassets.html) (retrieved 2026-05-18)
+- [Rakuten Wallet investing with Rakuten Points](https://www.rakuten-wallet.co.jp/point/) (retrieved 2026-05-18)
 - [Rakuten Wallet disclosure information](https://www.rakuten-wallet.co.jp/irpress/statement.html) (retrieved 2026-05-18)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
-- [Rakuten Wallet - Wikipedia](https://ja.wikipedia.org/wiki/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88) (retrieved 2026-05-18; cross-check use)
-- [FSA crypto-asset exchange operator registration list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot equivalent to 2026-04-01)
+- [Rakuten Wallet - Wikipedia](https://ja.wikipedia.org/wiki/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88) (retrieved 2026-05-18, for cross-check purposes)
+- [FSA crypto-asset exchange registration list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (equivalent to snapshot 2026-04-01)

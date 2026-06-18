@@ -1,130 +1,130 @@
 ---
 source: cooperative-banks/hana-shinkumi
-source_hash: 527868c0a57b2e4a
+source_hash: de7d71e157cfbf87
 lang: en
 status: machine
 fidelity: ok
-title: "Hana Credit Cooperative"
-translated_at: 2026-05-31T15:29:03.902Z
+title: "Hana Credit Cooperative (Hana Credit Cooperative)"
+translated_at: 2026-06-18T23:33:48.361Z
 ---
-# Hana Credit Cooperative
+# Hana Credit Cooperative (Hana Credit Cooperative)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a ** Capital Metropolitan Area (Tokyo) in Japan shinkumi anchor**, peer to [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai 商bank department)・[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (Kanagawa 行bank department)・[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]] (Chukyo 商bank department) within the broader Korean-business shinkumi sub-population cataloged in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Tokyo-metropolitan-area (Tokyo) Zainichi-Korean ethnic shinkumi anchor**, a peer to [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai Shogin lineage), [[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (Kanagawa Kogin lineage), and [[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]] (Chukyo Shogin lineage) within the broader Korean-business shinkumi sub-population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
-## 1. Corporate profile
+## 1. Corporate overview
 
-|project|content|
+| Item | Details |
 |---|---|
-|formal name|Hana Credit Union|
-|Common name|HANA Credit Cooperative|
-|Corporate number|**4011005001243** ^[extracted FSA registry]|
-|FSA registry No.|**53** (Kanto Local Finance Bureau)|
-|form of law|**Credit Cooperative** (Compliant with the Small and Medium Enterprise Cooperatives Act)|
-|Our store location|Sendagaya, Shibuya-ku, Tokyo 5-29-10  (Postal code 151-0051) ^[extracted FSA registry]|
-|system|[[cooperative-banks/zenshin-kumi|全信組連]] Member|
-|supervisory authority|Financial Services Agency/Kanto Local Finance Bureau|
-|deposit insurance|[[financial-regulators/dic|預金保険機構]] Target|
-|home market|Korean community in Japan in the metropolitan area|
-|message group type|**Ethnic credit union** (Korean residents in Japan, Korean ancestry, former Bank of Korea lineage succession)|
+| Formal name | Hana Credit Cooperative |
+| Common name | Hana Shinkumi / HANA Credit Cooperative |
+| Corporate number | **4011005001243** ^[extracted FSA registry] |
+| FSA registry No. | **53** (Kanto Local Finance Bureau) |
+| Legal form | **Credit cooperative** (under the Small and Medium-Sized Enterprise Cooperatives Act) |
+| Head-office location | 5-29-10 Sendagaya, Shibuya-ku, Tokyo (postal code 151-0051) ^[extracted FSA registry] |
+| System | [[cooperative-banks/zenshin-kumi|全信組連]] member |
+| Supervisory authority | Financial Services Agency / Kanto Local Finance Bureau |
+| Deposit insurance | [[financial-regulators/dic|預金保険機構]] covered |
+| Home market | Tokyo-metropolitan-area Zainichi-Korean community |
+| Shinkumi type | **Ethnic credit cooperative** (Zainichi South/North Korean lineage; successor to the former Chogin system) |
 
-### Group Membership ^[extracted]
+### Membership eligibility ^[extracted]
 
-As it is an ethnic credit union, the membership status is dual structure of **business area + ethnic community** (according to the Small and Medium Enterprise Cooperative Association Act):
+As an ethnic shinkumi, membership eligibility has a **dual structure of business domain + ethnic community** (under the Small and Medium-Sized Enterprise Cooperatives Act):
 
-1. **Business field requirements**: Focused on commercial and commercial businesses and self-employed people (strict use by non-members)
-2. **Ethnic community**: Korean residents in Japan + their spouses, relatives, and related businesses
-3. **Area requirements**: Persons who live, work, or have a business office in the area designated by the articles of incorporation, mainly in the Kanto area
+1. **Business-domain requirement**: centered on commercial/industrial operators and the self-employed (strict on non-member use)
+2. **Ethnic community**: Zainichi South/North Koreans + their spouses, relatives, and affiliated business operators
+3. **District requirement**: those residing, working, or having a place of business in the articles-designated district centered on the Kanto region
 
-### Tokyo Ethnic Information Group (registry comparison)
+### Ethnic shinkumi within Tokyo (registry comparison)
 
-Tokyo 19 Ethnic credit unions:
+Among Tokyo's 19 shinkumi, the ethnic shinkumi:
 
-|credit union|Main store|system|
+| Shinkumi | Head office | System |
 |---|---|---|
-|**Hana Credit Union** ★This page|**Sendagaya, Shibuya Ward**|**Former Bank of Chosen lineage succession (ethnic lineage)**|
-|(Separate confirmation required for Tokyo Commercial Bank Credit Union - Commercial Bank System)|—|Commercial and Banking Department|
+| **Hana Credit Cooperative** ★this page | **Sendagaya, Shibuya-ku** | **Successor to the former Chogin system (ethnic)** |
+| (Tokyo Shogin Credit Cooperative requires separate verification — Shogin lineage) | — | Shogin lineage |
 
-> Note: Of the Tokyo 19  credit unions, ethnic credit unions (Hana Shinglemi) can be identified from their registered name/logo and head office location.
+> Note: Among Tokyo's 19 shinkumi, the ethnic shinkumi (Hana Shinkumi) can be identified from its registered name / logo and head-office location.
 
-### Position within Zenshin Union
+### Position within the Zenshinkumiren
 
-- Kanto block member line of **[[cooperative-banks/zenshin-kumi|全信組連]]**
-- Kanto 49 Tokyo of Shin-Gumi 19 Part of Shin-Gumi
-- System ATM coordination and surplus funds management are via Zenshin Union
+- A Kanto-block member institution of **[[cooperative-banks/zenshin-kumi|全信組連]]**
+- One wing of Tokyo's 19 shinkumi among Kanto's 49 shinkumi
+- System ATM linkage and surplus-fund management go through the Zenshinkumiren
 
-### Historical background of Chogin-affiliated credit unions ^[extracted/inferred]
+### Historical background of the Chogin credit cooperatives ^[extracted/inferred]
 
-|Era|phenomenon|
+| Era | Event |
 |---|---|
-|1950~60 s|``Chogin'' credit unions were established in various locations as mutual aid financing for Korean residents in Japan (mainly those supporting North Korea) and merchants.|
-|1970~80 s|Establishment of the Asahi Bank Credit Union network in major cities nationwide|
-|1990 年 generation|With the bursting of the bubble economy, non-performing loans in real estate and construction industry loans have become more serious.|
-|2001〜2002 |**Created bankruptcies of Asahi Bank credit unions** - Several banks of the Bank of Japan went bankrupt across the country, and received large-scale financial support from the Deposit Insurance Corporation (Hana Shingumi's successor unions included the 5  unions of Asahi Bank Tokyo, Asahi Bank Chiba, Asahi Bank Niigata, Asahi Bank Nagano, and Asahi Bank Kanto, and approximately 4,000 億円 of public funds were invested in their business revitalization.)|
-|2002-03-20|**Established Hana Credit Union** (opened in the same year 12-30 ). The trade name "Hana" means "one/unification" in Korean, and symbolizes the business integration of multiple former Bank of Korea Credit Unions.|
-|2010 年 generation~|Responding to generational changes in the Japanese community + AML/CFT reinforcement|
+| 1950–60 s | **"Chogin"**-lineage credit cooperatives were established in various regions as mutual-aid finance for Zainichi Korean (mainly pro-North Korea) commercial/industrial operators |
+| 1970–80 s | A Chogin shinkumi network was established in major cities nationwide |
+| The 1990 年s | With the bursting of the bubble, the non-performing-loan problem in **real-estate/construction-sector lending** became serious |
+| 2001–2002  | **The Chogin shinkumi chain-failure problem** — several Chogin shinkumi across the country went into management failure, with large-scale financial assistance from the Deposit Insurance Corporation (the successor scope of Hana Shinkumi includes the 5  cooperatives of Chogin Tokyo, Chogin Chiba, Chogin Niigata, Chogin Nagano, and Chogin Kanto, and about 4,000 億円 in public funds was injected into the business rehabilitation) |
+| 2002-03-20 | **Establishment of Hana Credit Cooperative** (opened 12-30  the same year). The trade name "Hana" means "one / unification" in Korean, symbolizing the business integration of multiple former Chogin shinkumi |
+| The 2010 年s onward | Responding to generational change in the Zainichi community + strengthening AML/CFT compliance |
 
 ### Main business ^[extracted]
 
-|business|content|
+| Business | Details |
 |---|---|
-|**Small and Medium Enterprise Loans**|Working capital and equipment capital for Korean SMEs living in Japan (restaurants, retail, pachinko, real estate, construction, etc.)|
-|**Personal deposit**|Term/liquid deposits for member households|
-|**Mortgage Loan**|Housing acquisition funds for association members|
-|**International remittance**|Cross-border remittances for communities in Korea (specific demand of ethnic credit unions)|
-|**Community Finance**|Living funds for members for education, ceremonial occasions, etc.|
-|**Asset management consultation**|Government bond/investment trust counter sales (via system)|
+| **Lending to SMEs** | Working capital / equipment funds for Zainichi Korean SMEs (food service, retail, pachinko, real estate, construction, etc.) |
+| **Personal deposits** | Time and liquidity deposits for member households |
+| **Mortgage loans** | Home-acquisition funds for members |
+| **International remittance** | Cross-border remittance to Korea and the community (an inherent need of ethnic shinkumi) |
+| **Community finance** | Living funds for members for education, ceremonial occasions, etc. |
+| **Asset-management consultation** | Over-the-counter sales of JGBs / investment trusts (via the system) |
 
-## 5. KPI
+## 5. KPIs
 
-|index|value|source|
+| Metric | Value | Source |
 |---|---|---|
-|total assets|About 3,533 億円 (2025-03-31)|Wikipedia (according to Disclosure magazine)|
-|net worth|About 177.7 億円 (2025-03-31)|Same as above|
-|Contribute funds|About 38.5 億円 (2025-03-31)|Same as above|
-|Deposit balance|About 2,397 億円 (2022-03-31)|Same as above|
-|Loan balance|About 1,889 億円 (2022-03-31)|Same as above|
-|Number of employees|188 people (2025-03-31)|Same as above|
-|Number of stores|17 店|Same as above|
+| Total assets | Approx. 3,533 億円 (2025-03-31) | Wikipedia (per disclosure magazine) |
+| Net assets | Approx. 177.7 億円 (2025-03-31) | Same as above |
+| Capital subscription | Approx. 38.5 億円 (2025-03-31) | Same as above |
+| Deposit balance | Approx. 2,397 億円 (2022-03-31) | Same as above |
+| Loan balance | Approx. 1,889 億円 (2022-03-31) | Same as above |
+| Number of employees | 188  (2025-03-31) | Same as above |
+| Number of branches | 17 店 | Same as above |
 
-> Note: Please refer to our union disclosure magazine for the number of union members. For the latest figures, please refer to [Hana Shinkumi Disclosure](https://www.hanashinkumi.com/info/disclosure.php).
+> Note: The number of members should be checked against the cooperative's disclosure magazine. For the latest figures, see the [Hana Shinkumi disclosure](https://www.hanashinkumi.com/info/disclosure.php).
 
-## 6. Supervision and Regulation
+## 6. Supervision / regulation
 
-- **Supervising**: Financial Services Agency/Kanto Local Finance Bureau
-- **Legal basis**: Small and Medium Enterprises Cooperatives Act + Act on Financial Business by Cooperatives (Cooperatives Act)
-- **Deposit insurance**: [[financial-regulators/dic|預金保険機構]] General financial institution limit
-- **Current policy issues**:
-- **Strengthening AML/CFT** (Cross-border remittance monitoring) — Regulation compliance costs specific to ethnic credit unions + **Sanctions monitoring requirements related to sanctions against North Korea**
-- **Generational change of members** (risk of leaving credit unions after 2  and 3  in Japan)
-- Competition with **Korean banks (Shinhan Bank Tokyo Branch, etc.)**
+- **Jurisdiction**: Financial Services Agency / Kanto Local Finance Bureau
+- **Legal basis**: Small and Medium-Sized Enterprise Cooperatives Act + the Act on Financial Businesses by Cooperatives (Kyokin Act)
+- **Deposit insurance**: [[financial-regulators/dic|預金保険機構]] general-financial-institution category
+- **Recent policy issues**:
+  - **Strengthening AML/CFT** (cross-border remittance monitoring) — ethnic-shinkumi-specific regulatory compliance costs + sanctions-monitoring requirements related to **North Korea sanctions**
+  - **Generational change among members** (risk of the 2 rd / 3 th-generation-onward Zainichi drifting away from the shinkumi)
+  - Competition with **Korean banks (e.g., Shinhan Bank Tokyo Branch)**
 
 ## Related
 
-- [[cooperative-banks/osaka-shogin-shinkumi]] — Osaka Commercial Bank Credit Group (peer ethnic credit group, Kansai Commercial Bank Group)
-- [[cooperative-banks/yokohama-kogin-shinkumi]] — Yokohama Kobankin Credit Union (peer ethnic credit union, Kanagawa Kobankin affiliated)
-- [[cooperative-banks/aichi-shogin-shinkumi]] — Credit portfolio Aichi Bank (peer ethnic credit group, Chukyo Bank)
-- [[cooperative-banks/zenshin-kumi]] — National Federation of Credit Cooperatives (Central organization of the credit union industry)
-- [[financial-regulators/dic]] — Deposit Insurance Corporation (Bank of Korea crisis public funding entity)
-- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi entire)
-- [[banking/cooperative-banking-japan]] — Coordinate and organize the financial community
-- [[cooperative-banks/iwaki-shinkumi]] — Iwaki Credit Union (peer regional credit union, comparison by business type)
+- [[cooperative-banks/osaka-shogin-shinkumi]] — Osaka Shogin Credit Cooperative (peer ethnic shinkumi, Kansai Shogin lineage)
+- [[cooperative-banks/yokohama-kogin-shinkumi]] — Yokohama Kogin Credit Cooperative (peer ethnic shinkumi, Kanagawa Kogin lineage)
+- [[cooperative-banks/aichi-shogin-shinkumi]] — Aichi Shogin Credit Cooperative (peer ethnic shinkumi, Chukyo Shogin lineage)
+- [[cooperative-banks/zenshin-kumi]] — National Federation of Credit Cooperatives (central body of the shinkumi industry)
+- [[financial-regulators/dic]] — Deposit Insurance Corporation (the entity that injected public funds in the Chogin crisis)
+- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (all 143 shinkumi)
+- [[banking/cooperative-banking-japan]] — cooperative finance as a whole
+- [[cooperative-banks/iwaki-shinkumi]] — Iwaki Credit Cooperative (peer regional-type shinkumi, business-type comparison)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 
-- **Financial Services Agency credit union license list**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (Corporate number 4011005001243, registry No. 53)
-- **Hana Credit Union Disclosure**: https://www.hanashinkumi.com/info/disclosure.php
-- **Wikipedia "Hana Credit Union"** (Financial figures, establishment history, successor bank of Chosoku 5  union, public funding 4,000 億円, origin of trade name): https://ja.wikipedia.org/wiki/Hana Credit Union
-- **National Credit Union Central Association**: https://www.shinyokumiai.or.jp/
-- **Zenshinkumiren (National Credit Cooperative Federation) Official**: https://www.zenshinkumiren.jp/
-- **Deposit Insurance Corporation Official**: https://www.dic.go.jp/
-- Collaborative combination method for small and medium-sized enterprises, etc.
-- Act on financial business by cooperatives (Cooperative Act)
-- 2001 ~ 2002  Deposit Insurance Corporation public disclosure materials related to the Bank of Chosen Credit Union bankruptcy
+- **FSA list of credit-cooperative licenses**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 4011005001243, registry No. 53)
+- **Hana Credit Cooperative disclosure**: https://www.hanashinkumi.com/info/disclosure.php
+- **Wikipedia "Hana Credit Cooperative"** (financial figures, founding history, the 5  predecessor Chogin cooperatives, public funds of approx. 4,000 億円, origin of the trade name): https://ja.wikipedia.org/wiki/ハナ信用組合
+- **National Central Society of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
+- **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
+- **Deposit Insurance Corporation official**: https://www.dic.go.jp/
+- Small and Medium-Sized Enterprise Cooperatives Act
+- The Act on Financial Businesses by Cooperatives (Kyokin Act)
+- 2001–2002  Chogin shinkumi failure-related Deposit Insurance Corporation public materials
 
 ---
 
-> [!info] School core status
-> confidence: **likely**. The corporate number, registry number, and head office address derived from the FSA registry are ^[extracted] (public information). The KPIs of total assets, deposits, loans, capital investment, number of employees, and number of stores have been cited in Wikipedia (based on disclosure magazine) (required reference only for number of union members). The history of establishment, the successor to the Bank of Chosen 5  union, the scale of public funding, and the origin of the trade name "Hana" are also cited on Wikipedia. Added in Wave 13  expansion as a representative credit union after the reorganization of the Asahi Bank system.
+> [!info] 校核状態
+> confidence: **likely**. The corporate number, registry No., and head-office location derived from the FSA registry are ^[extracted] (public information). The KPIs for total assets, deposits, loans, capital subscription, number of employees, and number of branches have been sourced via Wikipedia (per the disclosure magazine) (only the number of members needs to be checked). The founding history, the 5  predecessor Chogin cooperatives, the scale of public funds, and the origin of the trade name "Hana" have also been sourced via Wikipedia. Added in the Wave 13  expansion as a representative receiving shinkumi after the reorganization of the Chogin system.
