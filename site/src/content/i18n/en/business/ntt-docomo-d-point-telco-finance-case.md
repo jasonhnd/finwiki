@@ -1,11 +1,11 @@
 ---
 source: business/ntt-docomo-d-point-telco-finance-case
-source_hash: 78ef5ec466ed7337
+source_hash: dd739ac0fdefaf09
 lang: en
 status: machine
 fidelity: ok
 title: "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up"
-translated_at: 2026-05-30T16:08:36.702Z
+translated_at: 2026-06-18T15:47:13.949Z
 ---
 
 # NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up
@@ -121,7 +121,7 @@ The Docomo model is structurally more defensible because no subsidiary is loss-m
 
 - Will the SMBC tie-up extend to deeper integration (e.g., joint-branded deposit accounts, lending products)?
 - Can d-Barai close the gap with PayPay before QR-payment market consolidates further?
-- Will NTT spin out a unified financial-services entity using [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] in future?
+- Will NTT spin out a unified financial-services entity using [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] in future?
 - How does the Docomo + SMBC alliance interact with [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Securities × Mizuho]] and au + MUFG (au Jibun Bank)?
 - What is the AI-agent-payment angle (per [[fintech/ai-payment-two-tracks|AI payment two tracks]]) for the Docomo + SMBC stack?
 
@@ -138,7 +138,7 @@ The Docomo model is structurally more defensible because no subsidiary is loss-m
 - [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

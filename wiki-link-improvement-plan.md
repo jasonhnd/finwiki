@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 2 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,8 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `financial-licenses/japan-trust-business-license-stack.md` | `??` | 13 | ok |
-| `financial-licenses/INDEX.md` | `M` | 180 | ok |
 
 ## Domain Snapshot
 

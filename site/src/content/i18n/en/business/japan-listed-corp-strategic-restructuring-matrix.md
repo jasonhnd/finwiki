@@ -1,11 +1,11 @@
 ---
 source: business/japan-listed-corp-strategic-restructuring-matrix
-source_hash: 9aa874390dffbcd9
+source_hash: e1679a7cc1af9f32
 lang: en
 status: machine
 fidelity: ok
 title: "Japan listed corporate strategic restructuring matrix"
-translated_at: 2026-05-30T16:08:36.698Z
+translated_at: 2026-06-18T15:47:13.938Z
 ---
 
 # Japan listed corporate strategic restructuring matrix
@@ -16,7 +16,7 @@ Between 2018 and 2026 the Japan listed-corp restructuring shelf has been unusual
 
 ## Wiki route
 
-This page sits under [[business/INDEX|business index]] as a cross-cutting comparison surface for Japan listed-corporate strategic restructuring. Per-case anchors: [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]], [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]], [[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]], [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]. Process scaffolding: [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]], [[finance/japan-takeover-defense-poison-pill|Japan takeover defense poison pill]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-leveraged-buyout-economics|Japan LBO economics]], [[finance/carve-out-divestiture-japan|carve-out / divestiture Japan]], [[finance/japan-m-a-deal-process-comparison-matrix|Japan M&A deal process comparison matrix]]. Tax / vehicle context: [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]], [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]], [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式分配 stock distribution regime]], [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]. Market context: [[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro|Japan IPO 2024-2025 case study — Kioxia / Tokyo Metro]].
+This page sits under [[business/INDEX|business index]] as a cross-cutting comparison surface for Japan listed-corporate strategic restructuring. Per-case anchors: [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]], [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]], [[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]], [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]. Process scaffolding: [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]], [[finance/japan-takeover-defense-poison-pill|Japan takeover defense poison pill]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-leveraged-buyout-economics|Japan LBO economics]], [[finance/carve-out-divestiture-japan|carve-out / divestiture Japan]], [[finance/japan-m-a-deal-process-comparison-matrix|Japan M&A deal process comparison matrix]]. Tax / vehicle context: [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]], [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]], [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式分配 stock distribution regime]], [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]. Market context: [[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro|Japan IPO 2024-2025 case study — Kioxia / Tokyo Metro]].
 
 ## Why this matrix matters
 
@@ -48,7 +48,7 @@ The set deliberately mixes 2010s reference cases (Sharp / Foxconn 2016, Olympus 
 
 | Case | Corporate-action type | Legal vehicle | Tax regime | Shareholder consideration | Sponsor / counterparty | Execution year | Post-action ownership | Public market-cap impact |
 |---|---|---|---|---|---|---|---|---|
-| **Sony Group → Sony FG** | **Partial spinoff** + new listing | 株式分配 (kabushiki koufu / stock distribution) under [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] regime | **Qualifying tax-deferred** under 2023-amended regime | Sony Group shareholders receive SFG shares in proportion | None (internal); Sony Group retains a portion | 2026 (effective date as scheduled) | Public SFG float + Sony Group residual retention | Re-rating of SFG as pure-play financial conglomerate; Sony Group sum-of-parts simplification |
+| **Sony Group → Sony FG** | **Partial spinoff** + new listing | 株式分配 (kabushiki koufu / stock distribution) under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] regime | **Qualifying tax-deferred** under 2023-amended regime | Sony Group shareholders receive SFG shares in proportion | None (internal); Sony Group retains a portion | 2026 (effective date as scheduled) | Public SFG float + Sony Group residual retention | Re-rating of SFG as pure-play financial conglomerate; Sony Group sum-of-parts simplification |
 | **SoftBank Group → Arm Holdings** | **IPO of subsidiary** | Public listing on Nasdaq (US registration via F-1) | Cross-border IPO; SoftBank retained majority — no parent-level taxable disposition at IPO | New investors receive Arm shares via primary + secondary | None — public market | 2023-09 IPO; further secondary placements 2024-2025 | SoftBank retains ~90% majority initially; gradually trims through secondary offerings | Re-rating of Arm at high P/E; SoftBank Group NAV partially crystalised |
 | **Toshiba → JIP** | **Going-private (TOB + squeeze-out)** | [[finance/japan-tender-offer-process|TOB]] followed by [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] via share consolidation / cash-out | **Taxable disposition** for selling shareholders | Cash per share at TOB premium | **Domestic PE** — Japan Industrial Partners (JIP) plus domestic LP consortium | 2023 (TOB completed late 2023, squeeze-out and delisting 2024-Q1) | Going-private under JIP-led ownership | Delisting from TSE Prime; market-cap on tender base ~¥2tn |
 | **Rakuten Group internal reorg** | **Re-IPO of [[banking/rakuten-bank|Rakuten Bank]] + cross-subsidy** | Sub-IPO of Rakuten Bank via [[securities/japan-ipo-listing-disclosure-route|IPO route]]; parent retains majority | Standard IPO regime (no parent-level taxable spin) | New shareholders receive Rakuten Bank shares | None — public market | 2023-04 Rakuten Bank IPO; ongoing 2024-2026 cross-subsidy reshuffling | Rakuten Group retains majority of Rakuten Bank; cash returns to parent | Re-rating of Rakuten Bank as standalone; partial recapitalisation of parent's mobile-finance balance sheet |
@@ -61,7 +61,7 @@ The set deliberately mixes 2010s reference cases (Sharp / Foxconn 2016, Olympus 
 
 The cases group neatly into four legal-vehicle clusters:
 
-1. **株式分配 (stock distribution) / partial-spinoff** — Sony Group → SFG. The newest vehicle under [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] (post-2023 amendment). Designed specifically to enable tax-deferred separation of a listed subsidiary into a separately-listed company.
+1. **株式分配 (stock distribution) / partial-spinoff** — Sony Group → SFG. The newest vehicle under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] (post-2023 amendment). Designed specifically to enable tax-deferred separation of a listed subsidiary into a separately-listed company.
 2. **Going-private via TOB + squeeze-out** — Toshiba → JIP. The legacy vehicle for full delisting; uses [[finance/japan-tender-offer-process|tender offer]] followed by [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] under share-consolidation or demand-for-sale mechanics.
 3. **Sub-IPO of subsidiary** — SoftBank → Arm (cross-border on Nasdaq), Rakuten Group → Rakuten Bank (domestic re-IPO), Toshiba → Kioxia (carve-out IPO). The subsidiary becomes its own listed entity while the parent retains majority. No parent-level tax-deferred regime; standard IPO.
 4. **Carve-out + sale or JV** — Olympus → OM Digital (full sale to PE via 会社分割), Hitachi → Astemo (JV with strategic + later partial sale to PE), Sharp ← Foxconn (foreign strategic acquires control via third-party allotment plus tender). The business is divested through a hybrid structure.
@@ -72,7 +72,7 @@ The cases group neatly into four legal-vehicle clusters:
 
 | Vehicle | Tax regime | Practical consequence |
 |---|---|---|
-| Qualifying 株式分配 (partial spinoff) | **Tax-deferred** | Shareholders defer gain; spinoff doesn't trigger immediate tax — see [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] |
+| Qualifying 株式分配 (partial spinoff) | **Tax-deferred** | Shareholders defer gain; spinoff doesn't trigger immediate tax — see [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] |
 | TOB at premium + squeeze-out | **Taxable** | Selling shareholders realise gain on TOB cash receipt |
 | Sub-IPO of subsidiary | **Standard IPO regime** | No parent-level immediate tax; secondary sales over time generate parent-level taxable gain |
 | 会社分割 (kaisha bunkatsu) carve-out + sale | Mixed | [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|Tax regime]] depends on consideration and continuity tests |
@@ -119,7 +119,7 @@ The frequency rises notably in 2023-2024 as PE bid-volume, [[finance/japan-activ
 
 ### Sony Group → SFG (2026 partial spinoff)
 
-Anchors the **new template** for Japan tax-deferred partial spinoffs. The 2023-amended regime ([[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]) provides domestic listed parents with a clean vehicle to separate a listed subsidiary into a separately-traded company without triggering shareholder-level tax events. Sony's execution is the first high-profile domestic application; future cases will read against this template. See [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for full case detail.
+Anchors the **new template** for Japan tax-deferred partial spinoffs. The 2023-amended regime ([[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]) provides domestic listed parents with a clean vehicle to separate a listed subsidiary into a separately-traded company without triggering shareholder-level tax events. Sony's execution is the first high-profile domestic application; future cases will read against this template. See [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for full case detail.
 
 ### SoftBank Group → Arm (2023 cross-border IPO)
 
@@ -178,7 +178,7 @@ The **partial-spinoff vehicle is the modern frontier** for domestic restructurin
 
 1. Each case has its own dedicated entry (linked above) with deeper case-specific public-source detail. This matrix is a comparison surface, not a substitute for the per-case readings.
 2. Deal-value figures are from public disclosure at the deal time. Market-cap-impact judgements are qualitative.
-3. The 2023-amended partial-spinoff regime details are evolving; check [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff tax deferral]] for current legal-status updates.
+3. The 2023-amended partial-spinoff regime details are evolving; check [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff tax deferral]] for current legal-status updates.
 4. The Rakuten Group internal-reorg row aggregates several sub-actions across 2023-2026; see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the granular timeline.
 5. The Hitachi Astemo IPO trajectory is still in flight; the row reflects publicly announced staging only.
 
@@ -190,7 +190,7 @@ The **partial-spinoff vehicle is the modern frontier** for domestic restructurin
 - [[business/rakuten-group-mobile-finance-bundling-case]]
 - [[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case]]
 - [[corporate-strategy/spinoff-decision-tree-japan]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime]]
 - [[finance/japan-tender-offer-process]]

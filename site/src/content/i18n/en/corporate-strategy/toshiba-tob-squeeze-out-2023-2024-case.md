@@ -1,11 +1,11 @@
 ---
 source: corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case
-source_hash: 5b6fb70ec1985c96
+source_hash: 5c08166f9979ec59
 lang: en
 status: machine
 fidelity: ok
 title: "Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template"
-translated_at: 2026-05-30T15:31:43.925Z
+translated_at: 2026-06-18T15:47:13.963Z
 ---
 
 # Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template
@@ -121,7 +121,7 @@ This template applies whenever: (a) a public company has chronic activist fricti
 
 ## 8. Comparison With Pre-2023-Regime Partial-Spinoff Path
 
-If the partial-spinoff regime ([[corporate-strategy/partial-spinoff-tax-deferral|see regime]]) had been more mature in 2021-2022, could Toshiba have used it instead? Key differences:
+If the partial-spinoff regime ([[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|see regime]]) had been more mature in 2021-2022, could Toshiba have used it instead? Key differences:
 
 | Dimension | Toshiba TOB take-private | Alternative: partial-spinoff route |
 |---|---|---|
@@ -159,12 +159,12 @@ Toshiba's TOB process complied with these guidelines (special committee formed, 
 - Will Toshiba's portfolio be broken up (multiple smaller IPOs) or re-listed as a single entity?
 - Does the JIP-led template encourage more activist-pressure-driven take-privates of Japanese listed companies?
 - How will the squeeze-out appraisal litigation by dissenting shareholders ultimately resolve?
-- Will the partial-spinoff regime (now available, see [[corporate-strategy/partial-spinoff-tax-deferral|here]]) reduce the demand for TOB take-privates in non-activist situations?
+- Will the partial-spinoff regime (now available, see [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|here]]) reduce the demand for TOB take-privates in non-activist situations?
 
 ## Related
 
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]]

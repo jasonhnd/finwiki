@@ -1,13 +1,13 @@
 ---
 source: loyalty/point-program-unit-economics
-source_hash: cc2d7535c00c5f23
+source_hash: e642486f2a1c480f
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Point program unit economics (JP loyalty funding, float, breakage, CPA)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-18T15:47:13.956Z
 ---
+
 # Point program unit economics (JP loyalty funding, float, breakage, CPA)
 
 ## Wiki route
@@ -66,6 +66,41 @@ Between granting a point and paying for its redemption, the operator holds an **
 
 The float reading is what makes point liabilities interesting to a financial group: a point operator inside a bank / telco group ([[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]]) contributes a customer-funded balance and a daily-frequency touchpoint at once.
 
+## Balance-sheet view: the liability as customer-funded float
+
+Stepping back from the per-unit equation, the *aggregate* outstanding point balance has a distinct profile on the balance sheet. Once granted, unredeemed points are a standing liability, and four properties together give it the textbook shape of a **float**:
+
+| Property | Implication |
+|---|---|
+| Granted before settled | The operator holds value it has not yet paid out |
+| Customer-funded | The balance exists because customers earned, not because the operator borrowed |
+| Interest-free | No coupon is paid on the outstanding point liability |
+| Slow-moving | For a large common point, the aggregate balance is sticky and replenished faster than it drains |
+
+### How it differs from prepaid stored value
+
+A loyalty point balance and a **prepaid stored-value balance** (electronic money, gift balance) both look like customer-funded float, but they are not the same instrument:
+
+| Dimension | Loyalty point liability | Prepaid stored value |
+|---|---|---|
+| Origin | Granted as a reward (no cash in) | Customer loaded cash |
+| Regulatory home | Loyalty / revenue-recognition accounting | Payment Services Act prepaid regime (asset-preservation, registration) |
+| Cash-equivalence | Usually limited-use, lower cash-likeness | Closer to cash; redeemability / transferability matter |
+| Breakage logic | Expiry-driven, estimate-heavy | Constrained by prepaid rules / unused-balance treatment |
+
+The line between them is precisely the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] — a point that becomes cash-charged or freely transferable can **cross** into the prepaid regime, changing both its regulation and its float treatment.
+
+### The risk side of the float
+
+Customer-funded float is not free money; it carries balance-specific risks an analyst should price:
+
+| Risk | What it is | Read against |
+|---|---|---|
+| Redemption surge | A campaign or expiry change accelerates redemption → the float drains and cash goes out faster than modelled | [[loyalty/point-program-unit-economics|unit economics]] |
+| Breakage misestimate | Optimistic breakage pulls revenue forward; a true-up reverses it | [[loyalty/point-liability-accounting-boundary|accounting boundary]] |
+| Reclassification | A point that becomes cash-like migrates into the prepaid regime, raising preservation / registration duties | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] |
+| Cross-program leakage | Exchange into other operators / mileage moves value off-balance at a settlement rate | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
+
 ## Monetisation: where thin programs turn profitable
 
 A point program judged on funding − redemption − cost alone can look marginal. The terms that flip it are **breakage**, **float**, and **monetisation of the ID graph** — the retail-media + finance cross-sell flywheel set out in [[loyalty/retail-media-points-data-loop|the retail-media data-loop page]]. This is the reconciliation for "loss-making" wallets:
@@ -92,6 +127,7 @@ So the profitability question is never "what is the reward rate"; it is "merchan
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]
 - [[payments/INDEX|payments INDEX]]
 - [[payment-firms/rakuten-fg|Rakuten FG]]

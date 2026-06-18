@@ -1,11 +1,11 @@
 ---
 source: finance/japan-cross-shareholding-unwinding-economics
-source_hash: b379c3120db556d0
+source_hash: 6e8ffc00b5e25eeb
 lang: en
 status: machine
 fidelity: ok
 title: "Japan cross-shareholding unwinding economics"
-translated_at: 2026-05-31T06:16:15.668Z
+translated_at: 2026-06-18T15:47:13.941Z
 ---
 
 # Japan cross-shareholding unwinding economics
@@ -16,7 +16,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-Japan cross-shareholding (政策保有株, *seisaku hoyū kabushiki*, or "policy holding stock") is the legacy practice of listed corporates holding shares in business partners, customers, suppliers, banks, and group companies for relationship rather than investment-return reasons. Post-2015  CG code revisions, with reinforcement in 2018 / 2021 / 2024,  and FSA / METI scrutiny have driven a sustained unwinding programme. Accounting treatment shifted from cost / available-for-sale to fair-value-through-OCI under IFRS 9  (with no recycling to P&L on disposal) and similar FV-OCI mechanics under revised JGAAP. Tax-efficient disposal routes include market sales, ToSTNeT block trades, share buyback by the issuer, and exchangeable-bond monetisation. Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]), insurers, and shōsha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]]) are leading the unwinding programme.
+Japan cross-shareholding (政策保有株, *seisaku hoyū kabushiki*, or "policy holding stock") is the legacy practice of listed corporates holding shares in business partners, customers, suppliers, banks, and group companies for relationship rather than investment-return reasons. Post-2015 CG code revisions, with reinforcement in 2018 / 2021 / 2024, and FSA / METI scrutiny have driven a sustained unwinding programme. Accounting treatment shifted from cost / available-for-sale to fair-value-through-OCI under IFRS 9 (with no recycling to P&L on disposal) and similar FV-OCI mechanics under revised JGAAP. Tax-efficient disposal routes include market sales, ToSTNeT block trades, share buyback by the issuer, and exchangeable-bond monetisation. Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]), insurers, and shōsha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]]) are leading the unwinding programme.
 
 ## What counts as policy-holding stock
 
@@ -43,7 +43,7 @@ Definition is principle-based. A stake may be reclassified between pure-investme
 
 CG code is "comply or explain". Listed corporates must publish their policy on policy-holdings, the board-review process, and individual holding-by-holding economic rationale.
 
-### IFRS 9  (for issuers applying IFRS)
+### IFRS 9 (for issuers applying IFRS)
 
 | Field | Treatment |
 |---|---|
@@ -54,7 +54,7 @@ CG code is "comply or explain". Listed corporates must publish their policy on p
 | Disposal | No recycling to P&L; cumulative gain / loss transferred within equity only |
 | Impairment | Not applicable under FV-OCI for equity (no impairment test required, but fair value reflects market) |
 
-The non-recycling rule means disposal does not produce a P&L gain. This is the critical accounting-incentive change vs the legacy IAS 39  available-for-sale model where realised gain went to P&L.
+The non-recycling rule means disposal does not produce a P&L gain. This is the critical accounting-incentive change vs the legacy IAS 39 available-for-sale model where realised gain went to P&L.
 
 ### Revised JGAAP
 
@@ -78,7 +78,7 @@ Issuers applying legacy JGAAP without full FV-OCI alignment should be read in co
 | ToSTNeT block trade | JPX off-auction block | Same tax treatment, lower market-impact |
 | Share buyback by issuer | Issuer repurchases own shares from holder | Treated as deemed dividend + capital gain split; can be tax-efficient for holder |
 | Exchangeable bond | Issuer monetises holding via exchangeable bond — see [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]] | Defers disposition to conversion; bondholders bear equity risk |
-| Spin-off / partial spinoff | Distribute holding shares to own shareholders | Possible tax-deferral routes — see [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] |
+| Spin-off / partial spinoff | Distribute holding shares to own shareholders | Possible tax-deferral routes — see [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] |
 | In-kind dividend | Distribute holding shares to own shareholders | Treated as dividend in kind; tax treatment depends on structure |
 | Cross-trade | Coordinated sale between counter-holders | Symmetric unwind |
 | Auction / secondary equity offering | Large block placed via secondary equity offering | Often used for very large stakes |
@@ -89,12 +89,12 @@ Corporate-income tax on disposal gain is the dominant tax friction. Share-buybac
 
 | Signal | Interpretation |
 |---|---|
-| Megabank unwinding accelerating | Demonstrates CG-code compliance, frees capital, supports CET1  ratios |
+| Megabank unwinding accelerating | Demonstrates CG-code compliance, frees capital, supports CET1 ratios |
 | Shōsha unwinding selective | Some retained as strategic / supply-chain anchor; disposal of pure-financial holdings |
 | Insurer unwinding | ALM and solvency-margin alignment; reduces equity-vol burden |
 | Counter-holder unwinding asymmetry | One-side disposal may signal relationship deterioration |
 | Activist-targeted unwinding | Activist demands often include policy-holding disposal to fund buyback / dividend |
-| Retention rationale | Detailed board-review disclosure expected post-2024  |
+| Retention rationale | Detailed board-review disclosure expected post-2024 |
 
 Holders disposing of stakes typically pair the unwinding with capital-return programmes (share buybacks, dividend increase) to demonstrate that freed capital is recycled to shareholders rather than re-deployed at low return.
 
@@ -110,7 +110,7 @@ The right comparison uses publicly disclosed Securities Report holdings and CG-r
 | [[megabanks/smfg|SMFG]] | SMFG annual securities report and integrated report; CG report on TSE |
 | [[megabanks/mizuho-fg|Mizuho FG]] | Mizuho FG annual securities report and integrated report; CG report on TSE |
 
-Megabanks have publicly committed to multi-year reduction targets in policy-holdings (typically expressed as percentage of CET1  capital or as absolute book / fair-value balance). Disclosure cycles align with annual financial reporting.
+Megabanks have publicly committed to multi-year reduction targets in policy-holdings (typically expressed as percentage of CET1 capital or as absolute book / fair-value balance). Disclosure cycles align with annual financial reporting.
 
 ### Shōsha
 
@@ -138,7 +138,7 @@ Industrial corporates hold cross-stakes in suppliers, customers, and group compa
 | CG Report (コーポレートガバナンス報告書) | Periodic CG-code compliance report on TSE; policy on policy-holdings |
 | Integrated Report | Voluntary annual narrative; often includes policy-holding strategy detail |
 | TDnet | Timely disclosure of significant disposal / acquisition |
-| EDINET large shareholding reports | When disposal crosses 5  percent threshold downward, change reports filed (see [[finance/japan-large-shareholding-disclosure|large shareholding disclosure]]) |
+| EDINET large shareholding reports | When disposal crosses 5 percent threshold downward, change reports filed (see [[finance/japan-large-shareholding-disclosure|large shareholding disclosure]]) |
 | AGM convocation notice | Voting-policy detail for policy-holdings; can become activist-proposal item (see [[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]]) |
 
 ## Activist interface
@@ -170,7 +170,7 @@ Policy-holding stock affects regulatory capital and capital-efficiency ratios:
 
 | Metric | Effect of disposal |
 |---|---|
-| Megabank CET1 / risk-weighted assets | Reduces equity-RWA burden; supports CET1  ratio |
+| Megabank CET1 / risk-weighted assets | Reduces equity-RWA burden; supports CET1 ratio |
 | Insurer solvency margin | Reduces equity-risk allocation, supports solvency margin |
 | Corporate ROE | Disposal can fund buyback, reducing equity base and lifting ROE |
 | Capital efficiency narrative | Demonstrates discipline to capital-allocation-conscious investors |
@@ -196,7 +196,7 @@ TSE Prime market introduced explicit pressure on listed companies with persisten
 - [[finance/cross-border-m-a-japan]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[securities/japan-underwriting-market-structure]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]
