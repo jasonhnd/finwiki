@@ -4,18 +4,16 @@
 
 ## 当前优先级（GitHub Issues 驱动）
 
-> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**；下表只反映当前 open issue，已完成项见 [roadmap.md](roadmap.md)「已完成」。Phase A–D 的 tooling/ops 门禁已全部完成并关闭，下方历史小节保留作记录。
+> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**。**截至 2026-06-19：#1–#21 全部关闭、无 open issue**；下表为最近一轮完结项快照，详情见 [roadmap.md](roadmap.md)「已完成」。**下一步工作待新 issue 立项。**
 
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
-| 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。已关闭，详见 roadmap 已完成。 |
-| 🟢 | #10 / #11 / #12 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX 保留为 baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
-| 🟡 | #13 | UI/UX 现行 baseline 文档化 | 已提交（`57069281`），`needs-review`，待 review 后关闭。 |
-| 🔴 | #14 | backlog / roadmap 校正 | 本条（让规划文档与 issue 状态一致）。 |
-| 🔴 | #17 | i18n 刷新批次规划 | 据 `i18n:status`（约 7 成 mirror stale）拟定刷新批次任务包。 |
-| 🔴 | #15 | v12 双批去重任务包规划 | 完成后解锁 #8。 |
-| 🔴 | #16 | 小域扩充候选清单 | 完成后解锁 #9。 |
-| 🔵 blocked | #8 / #9 | Phase E 内容（v12 去重 / 小域扩充） | 前置 tooling 已就绪；待 #15 / #16 规划落地后开做。 |
+| 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
+| 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
+| 🟢 | #14–#17 | 规划 / 对账任务包 | #14 backlog/roadmap 对账；#15 v12 双批去重任务包；#16 小域扩充候选清单；#17 i18n 刷新批次规划。 |
+| 🟢 | #8 / #9 | Phase E 内容 | #8 v12 双批去重（3 合并、退役 3 页）；#9 日本信托业 license stack 页。 |
+| 🟢 | #19 / #20 / #21 | i18n 批次 | #19 financial-licenses 镜像迁移；#20 cooperative-banks 缺译 + 清 en needs_review；#21 stale 分类 + 刷新（C-1 re-sync / C-2a remap / C-2b 重译）。 |
+| 🟢 | — | **i18n stale 清零（2026-06-19）** | #21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部 opus 重译。`i18n:status` **stale ja/zh/en = 0/0/0**（current=1436、fidelity ok、orphaned/missing/drift 全 0）。详见 [CHANGELOG](../../CHANGELOG.md)。 |
 
 ## historical canonical_anchor（P1）
 
