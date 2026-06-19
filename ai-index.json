@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-19T00:48:39+09:00",
+  "generated_at": "2026-06-19T22:59:34+09:00",
   "counts": {
     "markdown_files": 1564,
     "public_markdown_pages": 1563,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11089522,
-    "word_like_tokens": 1789420,
+    "nonspace_utf8_chars": 11092729,
+    "word_like_tokens": 1790029,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
         "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像",
         "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页",
-        "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选",
-        "Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并"
+        "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 611818,
-      "word_like_tokens": 109309,
+      "nonspace_chars": 615025,
+      "word_like_tokens": 109918,
       "last_modified": "2026-06-19"
     },
     {
@@ -1439,7 +1439,7 @@
       ],
       "nonspace_chars": 71028,
       "word_like_tokens": 12500,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-06-19"
     },
     {
       "source_path": "SCHEMA.md",
