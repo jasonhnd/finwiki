@@ -1,143 +1,148 @@
 ---
 source: regional-banks/yamagata-bank
-source_hash: e37d6f063ef0500e
+source_hash: 123ee7afbbf534b1
 lang: zh
 status: machine
 fidelity: ok
-title: "Yamagata Bank"
-translated_at: 2026-06-01T02:31:57.164Z
+title: "株式会社山形银行"
+translated_at: 2026-06-19T12:43:19.974Z
 ---
-# Yamagata Bank
+# 株式会社山形银行
 
 ## Wiki route
 
-本条目位于[[regional-banks/INDEX|regional-banks INDEX]]之下。可与[[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]对读，以把握同业 / 对比背景；也可与[[banking/INDEX|banking index]]对读，以理解更广的系统与监管边界。
+本条目归属于 [[regional-banks/INDEX|regional-banks INDEX]]。请对照 [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]] 了解同业／对比背景，对照 [[banking/INDEX|banking index]] 了解更广泛的系统／监管边界。
 
 ## TL;DR
 
-Yamagata Bank 是总部位于山形县的独立地方银行。它在1896 （明治29）以“两羽银行”创立，后于1965 年改为现商号，并在1949 年上市后以8344代码维持 TSE PRIME 上市。它不是第二地方银行，而是第一地方银行，也是山形县内按存款份额最大的金融机构，县内 No.1 。第二地方银行竞争者是[[regional-banks/jimoto-hd]]侧的 Kirayaka Bank，邻近的秋田 / 庄内地理则在[[regional-banks/fidea-hd]]中体现。与[[regional-banks/jimoto-hd]]、[[regional-banks/fidea-hd]]不同，Yamagata Bank 未转为控股公司，而是维持独立地方银行形态。其本地经济与旅游、农业和制造业紧密相连。^[extracted]
+以山形县为地盘的**东北地区单独地方银行**。1896 (明治 29) 年作为「两羽银行」创业，1965 年变更为现商号。**东证 PRIME 8344**(1949 年上市)，并非第二地方银行而是**第一地方银行**，是山形县内存款份额 No.1 的县内最大金融机构。与第二地方银行的[[regional-banks/jimoto-hd]]旗下・吉乡银行(きらやか銀行)为县内竞争关系。在邻县，与[[regional-banks/fidea-hd]]旗下・庄内银行(鹤冈市)・北都银行(秋田)的辖区重叠。**未控股公司化，仍以单独地方银行**经营，是东北地区的独立系。支撑观光(藏王・山寺・银山温泉)・农业(樱桃产量日本第一・米泽牛・艳姬米)・制造业(精密机械・电子部件)的地域经济。^[extracted]
 
 ## 1. 公司概要
 
-**法定名称**：The Yamagata Bank, Ltd. ^[extracted]  
-**英文名称**：The Yamagata Bank, Ltd.  
-**证券代码**：TSE PRIME **8344**（1949 年上市，市场重组后继续 PRIME）^[extracted]  
-**创立**：**1896 （明治29 / 29 ）3 月12 日**，作为“两羽银行”创立 ^[extracted]  
-**现商号**：1965 （昭和40）4 月改为 The Yamagata Bank, Ltd. ^[extracted]  
-**总部**：山形县山形市七日町3-1-2  ^[extracted]  
-**机构设计**：设审计等委员会公司，许多地方银行采用类似形式 ^[likely]  
-**控股公司**：**未迁移，维持独立地方银行形态**。这一点不同于 Kirayaka / Sendai 和 Shonai / Hokuto 这类采用控股公司结构的集团。^[extracted]
+**正式名称**: 株式会社山形银行 ^[extracted]
+**英文名**: The Yamagata Bank, Ltd.
+**证券代码**: 东证 PRIME **8344**(1949 年上市，市场重编后维持 PRIME)^[extracted]
+**创业**: **1896 (明治 29) 年 3 月 12 日**(作为「两羽银行」)^[extracted]
+**现商号**: 1965 (昭和 40) 年 4 月变更商号为「株式会社山形银行」^[extracted]
+**总行**: 山形县山形市七日町 3-1-2 ^[extracted]
+**机关设计**: 监查等委员会设置公司(与 ^[likely] 众多地方银行相同)
+**控股公司**: **未移转(仍为单独地方银行)**。与 [[regional-banks/jimoto-hd]] (吉乡・仙台银)・[[regional-banks/fidea-hd]] (庄内・北都) 不同，未控股公司化 ^[extracted]
 
-### FY2024 （2025-03 期）业绩，公开披露基准 ^[likely]
+### FY2024 (2025-03 期) 决算 (公布基础・合并) ^[likely]
 
-| 项目 | 规模解读 |
+| 项目 | 规模感 |
 |---|---|
-| 存款余额 | 约3 兆円规模，山形县内存款份额 No.1 |
-| 贷款余额 | 约2 兆円规模 |
+| 存款余额 | 约 3 兆円规模 (山形县存款份额 No.1) |
+| 贷款余额 | 约 2 兆円规模 |
 | 经常收益 | 数百亿日元级 |
-| 净利润 | 数十亿日元级，中位地方银行区间 |
-| 自有资本比率 | 高于国内标准行10%门槛 ^[likely] |
-| 员工数 | 约1,200至1,400 名 |
-| 店铺数 | 约80至90 店家，中心在山形县，另有宫城、东京、大阪据点 |
+| 净利润 | 数十亿日元级 (地方银行中位区间) |
+| 自有资本比率 | 国内基准行・10% 前后 (^[likely]) |
+| 员工数 | 约 1,200〜1,400 名规模 |
+| 店铺数 | 约 80〜90 店铺 (以山形县内为中心・在宫城／东京／大阪设据点) |
 
-> 精确 FY2024 数值应以 Yamagata Bank 官方 IR、有价证券报告和决算短信复核。本节为^[likely]基准的摘要。
+> 严格的 FY2024 数值需参照山形银行 官方 IR (有价证券报告书・决算短信)。本节为^[likely]基础。
 
-### 主要股东（^[likely]，地方银行典型结构）
+### 主要股东 (^[likely]、地方银行的典型构成)
 
-作为地方银行，典型股东包括本地优良企业、地方自治体、信托银行名义账户，以及以本地为中心的个人股东。
+作为地方银行的典型:
+- 本地优良企业 (山形县内制造业・流通业)
+- 山形县内自治体相关
+- 信托银行账户 (机构投资者)
+- 个人股东 (以本地为中心)
 
-### 集团 / 关联公司
+### 集团・关联公司
 
 ```
-Yamagata Bank（上市母体 8344）
-  ├── Yamagata Card（信用卡子公司）
-  ├── Yamagata Guarantee Securities（^[likely]）
-  ├── Yamagata Lease（^[likely]）
-  ├── 地域发展投资有限责任组合 / VC fund
-  └── 经营咨询和区域活性化相关公司
+山形银行 (本体・上市 8344)
+  ├── やまぎんカード (信用卡子公司)
+  ├── やまぎん抵当証券 (^[likely])
+  ├── やまぎんリース (^[likely])
+  ├── やまぎん地域づくり投资事业有限责任组合 (地域 VC 基金)
+  └── 关联公司 (经营咨询・地域活性化)
 ```
 
-子公司 / 关联公司准确结构应以官方 IR 复核。
+(子公司・关联公司的准确构成需参照官方 IR)
 
-### 重要年表（公开信息）^[extracted]
+### 重要年表 (公开信息) ^[extracted]
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| **1896-03-12** | 在山形市以“两羽银行”创立 |
-| 1949  | 在东京证券交易所上市，证券代码8344 |
-| **1965-04** | 商号变更为 The Yamagata Bank, Ltd. |
-| 战后高度增长期 | 建立山形县内支店网络，确立县内 No.1 地位 |
-| 2000 年年代 | 与 Shonai Bank、Kirayaka Bank 等邻近东北地方银行竞争激化 |
-| 2009  | Kirayaka Bank + Sendai Bank 设立[[regional-banks/jimoto-hd]]（^[extracted]） |
-| 2009-10  | Shonai Bank + Hokuto Bank 设立[[regional-banks/fidea-hd]]（^[extracted]） |
-| 2022-04  | 东证市场重组，迁移至 **PRIME 市场** |
-| 2018 以后 | 最新经营计划聚焦数字化和区域产业支持 |
+| **1896-03-12** | **作为「两羽银行」创业** (明治 29 年・山形市) |
+| 1949 | 东京证券交易所上市 (证券代码 8344) |
+| **1965-04** | **变更商号为株式会社山形银行** |
+| 战后〜高速增长期 | 构建山形县内支店网络・确立县内 No.1 地位 |
+| 2000 年年代 | 与东北地区他行 (庄内银・吉乡银) 的竞争激化 |
+| 2009 | 吉乡银行 + 仙台银行 → 设立 [[regional-banks/jimoto-hd]] (^[extracted]) |
+| 2009-10 | 庄内银行 + 北都银行 → 设立 [[regional-banks/fidea-hd]] (^[extracted]) |
+| 2022-04 | 东证市场重编 → **移转至 PRIME 市场** |
 
-## 2. 业务分段图
+(2018 以后的中期经营计划名称・最新的业务提携需参照官方 IR)
 
-| 分段 | 内容 | 特征 |
+## 2. 事业板块・地图
+
+| 板块 | 内容 | 特征 |
 |---|---|---|
-| 个人金融 | 存款、住房贷款、汽车贷款、资产运用 | 县内存款份额 No.1，与 JA Bank Yamagata 分工 |
-| 法人金融 | 中小企业融资、运营资金、设备资金 | 面向县内制造业、旅游、农业 |
-| 旅游相关 | 面向藏王温泉、山寺、银山温泉、最上川舟运等旅游业者融资 | inbound 恢复收益 ^[likely] |
-| 农业相关 | 樱桃、米泽牛、Tsuyahime、大果榅桲等生产者 | 支持6 次产业化和 GAP 认证 ^[likely] |
-| 公金 | 山形县内市町村指定金融机构 | 山形市和主要县内自治体的收纳代理 ^[likely] |
-| 县外据点 | 仙台、东京、大阪 | 出身者网络和进出东京企业的 main bank |
-| 国际 | 海外 correspondent 协议，包括中国、东南亚 | 支持县内出口企业的贸易金融 ^[likely] |
-| Digital | Yamagata Bank app、internet banking | 地方银行共同服务利用 ^[likely] |
+| 个人金融 | 存款・住房贷款・卡贷款・资产运用 | 山形县内份额 No.1・与 JA 银行山形分工 |
+| 法人金融 | 中小企业融资・运转资金・设备投资 | 面向县内制造业 (电子部件・精密机械) ・观光・农业 |
+| 观光相关 | 面向藏王温泉・山寺・银山温泉・最上川漂流的旅馆・观光业者的融资 | 入境游恢复利好 (^[likely]) |
+| 农业相关 | 面向樱桃 (产量日本第一) ・米泽牛・艳姬米・拉法兰西梨农户 | 6 次产业化支援・GAP 认证取得支援 (^[likely]) |
+| 公金 | 山形县・市町村指定金融机构 | 山形市・米泽市 等县内主要市的收纳代理 (^[likely]) |
+| 县外据点 | 仙台・东京・大阪 | 出身者网络・东京进军企业的主办银行 |
+| 国际 | 海外代理行契约 (中国・东南亚 其他) | 县内出口企业的贸易金融支援 (^[likely]) |
+| 数字化 | やまぎん App・网络银行 | 利用地方银行共同服务 (^[likely]) |
 
-### 竞争结构（山形县 / 东北）
+### 竞争格局 (山形县・东北地区)
 
-| 竞争者 | 关系 | 区域 |
+| 竞争对手 | 关系性 | 辖区 |
 |---|---|---|
-| **[[regional-banks/jimoto-hd]] / Kirayaka Bank** | 县内最大竞争者，第二地方银行 | 山形县内 |
-| **[[regional-banks/fidea-hd]] / Shonai Bank** | 在庄内区域竞争的第二地方银行 | 山形县庄内区域 |
-| [[regional-banks/fidea-hd]] / Hokuto Bank | 邻县最大地方银行，部分重叠 | 秋田县和山形县北部 |
-| 77 Bank（仙台） | 通过仙台支店竞争 | 宫城 / 东北核心 |
-| Toho Bank（福岛） | 米泽 / 置赐地方存在部分竞争 | 福岛县和山形县南部 |
-| JA Bank Yamagata | 农业金融重叠 | 山形县农业地带 |
-| [[regional-banks/jimoto-hd]] | 县内全域个人存款 | 山形县内 |
-| PayPay Bank / Rakuten Bank 等网络银行 | 年轻层流失风险 | 全国 |
+| **[[regional-banks/jimoto-hd]]・吉乡银行**(山形市)| **县内最大的竞争对手**・第二地方银行 | 山形县全域 |
+| **[[regional-banks/fidea-hd]]・庄内银行**(鹤冈市)| 在庄内地方竞争・第二地方银行 | 山形县庄内地方 |
+| [[regional-banks/fidea-hd]]・北都银行 (秋田市) | 邻县・在最上地方部分竞争 | 秋田县・山形县北部 |
+| 七十七银行 (仙台) | 在仙台支店竞争 | 宫城县・东北全域 |
+| 东邦银行 (福岛) | 在米泽・置赐地方部分竞争 | 福岛县・山形县南部 |
+| JA 银行山形 | 在农业金融重叠 | 山形县农业地带 |
+| 邮储银行 | 县内全域・个人存款 | 山形县全域 |
+| 网络银行 (PayPay 银・乐天银 等) | 年轻层流失因素 | 全国 |
 
-**战略位置**：在其他县内银行通过[[regional-banks/fidea-hd]]等 HD 整合的环境下，Yamagata Bank 选择独立路线，并维持 standalone 规模。^[extracted]
+**战略定位**: 仍以单独地方银行维持规模。在邻县他行进行 HD 整合 ([[regional-banks/jimoto-hd]]・[[regional-banks/fidea-hd]]) 之际，选择**独立路线**。^[extracted]
 
-### 区域战略
+### 地域战略
 
-- **旅游金融**：面向藏王温泉、山寺、银山温泉、最上川舟运等旅游业者提供融资和咨询。
-- **农业和6 次产业化**：支持樱桃、米泽牛、Tsuyahime、大果榅桲、La France 等的加工与销售渠道开发。^[likely]
-- **制造业支持**：面向山形 / 米泽的电子零部件、精密机械企业提供事业承继和 M&A 中介。^[likely]
-- **Inbound**：伴随藏王滑雪场和银山温泉外国游客恢复，支持旅游业者。^[likely]
+- **观光金融**: 面向藏王・山寺・银山温泉・最上川漂流 等观光业者的融资・咨询
+- **农业 6 次产业化**: 樱桃・米泽牛・艳姬米・拉法兰西梨的加工・销路开拓支援 (^[likely])
+- **制造业支援**: 电子部件 (山形・米泽) ・精密机械的事业承继・M&A 中介 (^[likely])
+- **入境游**: 伴随藏王滑雪场・银山温泉外国游客恢复的观光业者支援 (^[likely])
 
-### Digital / 地方银行协同
+### 数字化・地方银行协同
 
-- 使用地方银行共同中心，这是东北地方银行的标准模式之一。^[likely]
-- 支持智能手机 App 和 QR code 支付。
+- 利用地方银行共同中心 (^[likely]、东北地方银行的标准)
+- 智能手机 App・QR 码支付对应
 
-## 4. 控制 / 政策
+## 4. 监管・政策
 
-- **主管**：FSA 和东北财务局。
-- **监管**：《银行法》以及全国地方银行协会第一地方银行会员。
-- **存款保险**：加入 Deposit Insurance Corporation of Japan；每一存款人在每一金融机构的受保护存款本金1000 万円及利息受保护。1  1 
-- **近期政策议题**（^[likely]）：
-  - 2024：BOJ 政策利率正常化，以及国内利差改善 / duration risk。
-  - 2025：山形县人口减少和县内市场规模收缩。
-  - 地方银行再编压力，以及 standalone continuation vs integration 的选择。
-  - 旅游 DX 和农业 DX 支持需求。
+- **主管**: 金融厅 (FSA) ・东北财务局
+- **规制**: 银行法 (第一地方银行・全国地方银行协会加盟)
+- **存款保险**: 预金保险机构加盟 (1 存款人・1 金融机构 保护至 1000 万円)
+- **近期政策论点** (^[likely]):
+  - 2024〜 日银政策利率正常化 → 国内利率边际改善红利
+  - 2025〜 人口减少 (山形县人口减少率居上位) → 县内市场缩小压力
+  - 地方银行重组压力 (金融厅・公正交易委员会的反垄断法特例) → 单独路线延续 vs 整合的选择
+  - 观光 DX・农业 DX 支援要求
 
 ## Related
 
-- [[regional-banks/jimoto-hd]]（Kirayaka Bank / Sendai Bank HD，山形县内最大竞争者）
-- [[regional-banks/fidea-hd]]（Shonai Bank / Hokuto Bank HD，在庄内和秋田存在部分竞争）
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（megabank / 东京经济圈交易关系）
-- [[megabanks/ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]]（^[likely]邻接）
+- [[regional-banks/jimoto-hd]] (吉乡银・仙台银 HD・山形县内最大的竞争对手)
+- [[regional-banks/fidea-hd]] (庄内银・北都银 HD・在庄内地方／秋田部分竞争)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (大型银行・经由东京的交易关系)
+- [[megabanks/ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]] (^[likely] 关联性低)
 
 ## Sources
 
-- **Wikipedia: The Yamagata Bank, Ltd.** (https://ja.wikipedia.org/wiki/山形銀行, 2026-05-19 extraction base)
-- Yamagata Bank official site (https://www.yamagatabank.co.jp/)
-- Yamagata Bank IR / securities reports (FY2024  = 2025-03  term, public-disclosure base)
-- Regional Banks Association of Japan member-bank list
+- **Wikipedia: 株式会社山形银行**(https://ja.wikipedia.org/wiki/山形銀行, 2026-05-19 抽取基础)
+- 山形银行 官方网站 (https://www.yamagatabank.co.jp/)
+- 山形银行 IR・有价证券报告书 (FY2024 = 2025-03 期，官方公布基础)
+- 全国地方银行协会 加盟行一览
 
 ---
 
-> [!info] Validation status
+> [!info] 验证状况

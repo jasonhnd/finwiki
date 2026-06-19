@@ -1,13 +1,13 @@
 ---
 source: regional-banks/toho-bank
-source_hash: ba386d30e537a206
+source_hash: 5af1f465664b2356
 lang: en
 status: machine
 fidelity: ok
-title: "Toho Bank"
-translated_at: 2026-06-01T02:31:57.112Z
+title: "Toho Bank (東邦銀行)"
+translated_at: 2026-06-19T12:43:19.937Z
 ---
-# Toho Bank
+# Toho Bank (東邦銀行)
 
 ## Wiki route
 
@@ -15,32 +15,32 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-**Fukushima Prefecture's only first regional bank, with prefectural share No. 1**, headquartered in Fukushima City and listed on TSE PRIME 8346. It was founded through 1941-11-21 wartime integration of 5 行 within Fukushima Prefecture and listed on the TSE in 1949 . It maintains a **standalone bank structure** and participates in the **TSUBASA Alliance led by 2015  [[regional-banks/chiba-bank]]**, advancing shared systems and wider-area collaboration. It experienced the dual disaster of the **2011-03-11 Great East Japan Earthquake + Fukushima Daiichi nuclear accident** and plays a core role in reconstruction finance and transactions related to difficult-to-return zones after the nuclear accident. ★ Its nickname is "Toho". ^[extracted]
+**The only first-tier regional bank in Fukushima Prefecture / No.1 share within Fukushima Prefecture**, head office in Fukushima City, TSE PRIME 8346. Established at 1941-11-21 by consolidating 5 行 within Fukushima Prefecture through wartime consolidation; listed on the TSE at 1949 . Maintaining a **standalone-bank structure**, it **participates in the TSUBASA Alliance** led by 2015 [[regional-banks/chiba-bank]], advancing systems sharing and wide-area cooperation. Having experienced the **2011-03-11 double disaster of the Great East Japan Earthquake + the Fukushima Daiichi nuclear accident**, it plays a central role in reconstruction lending and transactions in the nuclear-accident-related difficult-to-return zones ★. Abbreviated "Toho." ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: The Toho Bank, Ltd. ^[extracted]
+**Legal name**: The Toho Bank, Ltd. ^[extracted]
 **English name**: The Toho Bank, Ltd. ^[extracted]
 **Securities code**: TSE PRIME 8346 ^[extracted]
-**Established**: **1941-11-21** (wartime integration of 5 行 within Fukushima Prefecture) ^[extracted]
+**Established**: **1941-11-21** (consolidating 5 行 within Fukushima Prefecture through wartime consolidation) ^[extracted]
 **Head office**: 3-25  Omachi, Fukushima City, Fukushima Prefecture ^[extracted]
-**Governance design**: Company with audit and supervisory committee
-**Main supervisors**: FSA, Tohoku Local Finance Bureau, Bank of Japan Fukushima Branch
+**Governance structure**: Company with an Audit and Supervisory Committee
+**Main supervisors**: FSA, Tohoku Local Finance Bureau, BOJ Fukushima Branch
 
-### Business characteristics
+### Characteristics of the business type
 
-- **Standalone bank, not converted to a holding company** ^[extracted]
-  - Like [[regional-banks/77-bank]], [[regional-banks/chiba-bank]], and [[regional-banks/shizuoka-fg|shizuoka-bank]], it follows a standalone route without choosing holding-company conversion.
-  - It has maintained independence while neighboring Aomori Bank -> [[regional-banks/proclair-hd]], Ashikaga Bank -> [[regional-banks/mebuki-fg]], and Joyo Bank -> [[regional-banks/mebuki-fg]] moved into holding-company integrations.
+- **Standalone bank / no holding-company formation** ^[extracted]
+  - Like [[regional-banks/77-bank]] / [[regional-banks/chiba-bank]] / [[regional-banks/shizuoka-fg|shizuoka-bank]], a standalone path that does not opt for holding-company formation
+  - Maintaining independence while neighboring-prefecture banks have integrated under holding companies: Aomori Bank→[[regional-banks/proclair-hd]], Ashikaga Bank→[[regional-banks/mebuki-fg]], Joyo Bank→[[regional-banks/mebuki-fg]]
 - **TSUBASA Alliance member bank** ^[extracted]
-  - Regional-bank alliance established under the leadership of 2015  [[regional-banks/chiba-bank]], with 11 行 cooperation.
-  - Gains scale benefits through shared systems, overseas support, and common products while avoiding holding-company conversion.
-  - Fukushima-prefecture deposit share No. 1 and the only prefectural first regional commercial bank.
+  - A regional-bank alliance established under the leadership of 2015 [[regional-banks/chiba-bank]]; 11 行 collaboration
+  - Acquiring scale merits while avoiding holding-company formation through systems sharing, overseas support, and product standardization
+  - No.1 deposit share within Fukushima Prefecture; the only within-prefecture first-tier regional bank as a commercial bank
 
-### Key affiliates ^[extracted]
+### Major affiliates ^[extracted]
 
 ```
-Toho Bank (standalone / listed 8346)
+Toho Bank (standalone, listed 8346)
   ├── Toho Lease
   ├── Toho Card Co., Ltd.
   ├── Toho Credit Guarantee
@@ -48,98 +48,98 @@ Toho Bank (standalone / listed 8346)
   ├── Toho Smile Co., Ltd.
   ├── Toho Consulting Partners Co., Ltd.
   ├── Toho IT Human Solutions Co., Ltd.
-  └── (No holding company; bank entity directly operates the group)
+  └── (no holding company; directly operated by the bank itself)
 ```
 
-> Note: for a comprehensive lineup of group subsidiaries, consult the official annual disclosure publication.
+> Note: The comprehensive lineup of affiliated subsidiaries should be checked against the official disclosure publication (annual).
 
-### Wartime integration period: launch under the one-prefecture-one-bank policy
+### Wartime-consolidation period: launch under the one-prefecture-one-bank policy
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1872 | National Bank Act promulgated |
-| 1878-1898 | Multiple national banks established in Fukushima Prefecture, forming later predecessor-bank groups |
-| 1936-1945 | Wartime integration / one-prefecture-one-bank policy |
-| **1941-11-21** | **The Toho Bank, Ltd. established** through integration of 5 行 in Fukushima Prefecture ^[extracted] |
+| 1872 | National Bank Ordinance promulgated |
+| 1878〜1898 | Multiple national banks established within Fukushima Prefecture (the later predecessor-bank group) |
+| 1936-1945 | Wartime consolidation / one-prefecture-one-bank policy |
+| **1941-11-21** | **The Toho Bank, Ltd. established** (consolidating 5 行 within Fukushima Prefecture) ^[extracted] |
 | **1949** | **Listed on the Tokyo Stock Exchange** ^[extracted] |
 
-### Postwar to bubble period
+### Postwar〜bubble period
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1950s-1980s | Expanded branch network across Fukushima Prefecture during the high-growth period and entered the Tokyo metropolitan area plus neighboring prefectures such as Miyagi and Ibaraki |
-| 1990s | Maintained standalone route even during the post-bubble regional-bank industry consolidation period |
+| 1950s〜1980s | Expanded its branch network across all of Fukushima Prefecture during the high-growth period, advancing into neighboring prefectures such as the metropolitan area, Miyagi, and Ibaraki |
+| 1990s | Maintained the standalone path even through the regional-bank-industry reorganization period after the bursting of the bubble |
 
 ### Great East Japan Earthquake + nuclear accident (most important) ★
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| **2011-03-11** | **Great East Japan Earthquake occurred** ★ Coastal Fukushima branches were damaged by the tsunami, and inland branches also suffered earthquake damage ^[extracted] |
-| **2011-03-12** | **TEPCO Fukushima Daiichi nuclear accident** ★ Branches in Futaba District and the northern Hamadori area were designated as difficult-to-return zones / evacuation-order zones and faced long-term closures ^[extracted] |
-| 2011-03-04 | Donations, emergency loans, and special measures for disaster victims to withdraw deposits without passbooks or seals ^[extracted] |
-| 2012-2015 | Intensive 5 -year reconstruction period: special lending program for Great East Japan Earthquake recovery, group subsidies, and financing related to nuclear-damage compensation |
-| **2015** | **Joined the TSUBASA Alliance** as a launch-time member of the 11 行 alliance led by [[regional-banks/chiba-bank]] ^[extracted] |
-| **2022-04** | **Listed on TSE PRIME** after market-segment reform ^[extracted] |
+| **2011-03-11** | **Great East Japan Earthquake occurred** ★ Branches on the Fukushima Prefecture coast suffered tsunami damage, and inland branches also suffered earthquake damage ^[extracted] |
+| **2011-03-12** | **TEPCO Fukushima Daiichi nuclear accident** ★ Branches in the Futaba district and northern Hamadori were designated as difficult-to-return zones / evacuation-order zones and were closed long-term ^[extracted] |
+| 2011-03〜04 | Relief money / emergency lending, special measures for deposit withdrawals by disaster victims (handling without passbooks or seals) ^[extracted] |
+| 2012-2015 | The 5 -year intensive reconstruction period: the Great East Japan Earthquake reconstruction special-lending system, group subsidies, nuclear-damage-compensation-related lending |
+| **2015** | **Joined the TSUBASA Alliance** (a founding member of the 11 行 alliance led by [[regional-banks/chiba-bank]]) ^[extracted] |
+| **2022-04** | **Listed on TSE PRIME** (market-segment review) ^[extracted] |
 
-### Geographic franchise
+### Geographic base
 
-- **Main area**: All of Fukushima Prefecture, covering the 3  regions of Nakadori, Hamadori, and Aizu ^[extracted]
+- **Main**: all of Fukushima Prefecture (the 3  regions of Nakadori, Hamadori, and Aizu) ^[extracted]
 
 ### Competitive landscape
 
 | Competitor | Base | Relationship |
 |---|---|---|
-| **Daito Bank** | Koriyama, Fukushima Prefecture | Fukushima second regional bank; competitor in SME and small-business relationships |
-| **[[regional-banks/77-bank]]** | Sendai | Neighboring Miyagi's Tohoku No. 1  regional bank; competitor in Tokyo-metro and Tohoku corridor transactions |
-| **[[regional-banks/jimoto-hd]]** | Sendai / Yamagata | Sendai Bank + Kirayaka Bank, neighboring regional-bank group |
-| **[[regional-banks/mebuki-fg]]** | Ibaraki / Tochigi | Joyo Bank + Ashikaga Bank, neighboring integrated regional bank |
-| **Megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])| Tokyo | Compete in large-company and Tokyo-metro transactions; Toho has advantage with local SMEs |
-| **Shinkin / credit cooperatives** (Fukushima Shinkin, etc.)| Various local areas | Local microbusinesses and individuals |
+| **Daito Bank** | Koriyama City, Fukushima Prefecture | A second-tier regional bank in Fukushima Prefecture, competing in SMEs and small-scale corporates |
+| **[[regional-banks/77-bank]]** | Sendai | The No.1  Tohoku regional bank in neighboring Miyagi, competing in metropolitan-area and Tohoku-traversing transactions |
+| **[[regional-banks/jimoto-hd]]** | Sendai / Yamagata | Sendai Bank + Kirayaka Bank, a neighboring-prefecture regional-bank group |
+| **[[regional-banks/mebuki-fg]]** | Ibaraki / Tochigi | Joyo Bank + Ashikaga Bank, a neighboring integrated regional bank |
+| **Megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])| Tokyo | Competing in large-corporate / metropolitan-area transactions; Toho is dominant in local SMEs |
+| **Shinkin / shinkumi** (Fukushima Shinkin, etc.)| Various locations | Local micro-corporates / individuals |
 
-### Scale (public-information basis)
+### Sense of scale (based on public information)
 
 | Item | Scale |
 |---|---|
-| Total assets | About 6兆6,532億円 (end of 2025-03 ) ^[extracted] |
-| Deposits | 6兆1,205億円 (end of 2025-09 ) ^[extracted] |
-| Loans | 4兆1,561億円 (end of 2025-09 ) ^[extracted] |
-| Employees | Non-consolidated 1,916 名 / consolidated 2,018 名 (end of 2025-09  and end of 2025-03 ) ^[extracted] |
-| Branches | 123  head and branch offices (end of 2025-09 ) ^[extracted] |
+| Total assets | approx. 6兆6,532億円 (end of 2025-03 ) ^[extracted] |
+| Deposit balance | 6兆1,205億円 (end of 2025-09 ) ^[extracted] |
+| Loan balance | 4兆1,561億円 (end of 2025-09 ) ^[extracted] |
+| Employees | non-consolidated 1,916 名 / consolidated 2,018 名 (end of 2025-09  / end of 2025-03 ) ^[extracted] |
+| Number of branches | 123  head office and branches (end of 2025-09 ) ^[extracted] |
 
-> Note: deposits, loans, employees, and branch count are based on Toho Bank's official "Company Overview" as of end 2025-09 ; total assets are based on 2025-03  period financial results. Consult official IR for the latest figures.
+> Note: Deposits, loans, employees, and number of branches are from Toho Bank's official "Company overview" (as of end of 2025-09 ); total assets are on a 2025-03 -term-results basis. The latest figures should be checked against the official IR.
 
 ## 5. Regulation / policy
 
-- **Primary supervisors**: FSA and Tohoku Local Finance Bureau
-- **Deposit insurance**: Member of Deposit Insurance Corporation of Japan
-- **G-SIB / D-SIB designation**: Not applicable because it is a regional bank
-- **Recent policy issues**:
-  - 2024- BOJ policy-rate normalization -> expected improvement in loan-deposit spreads
-  - 2011- Role as a local financial institution under the Fukushima Reconstruction Special Measures Act and related Fukushima reconstruction / revitalization special legislation
-  - 2020s- Financing connected to the Fukushima Innovation Coast Framework, hydrogen, renewable energy, and decommissioning industry clusters
+- **Supervisor**: FSA / Tohoku Local Finance Bureau
+- **Deposit insurance**: Member of the Deposit Insurance Corporation
+- **G-SIB / D-SIB designation**: Not applicable (as a regional bank)
+- **Recent policy points**:
+  - 2024〜 BOJ policy-rate normalization → expectation of improved deposit-lending margins
+  - 2011〜 its role as a local financial institution under the Fukushima Reconstruction Special Act / the Act on Special Measures for the Reconstruction and Revitalization of Fukushima
+  - 2020s〜 lending related to the Fukushima Innovation Coast Framework, hydrogen, renewable energy, and the decommissioning-industry cluster
 
 ## 6. Branding / culture
 
-- **Abbreviation / common name**: "Toho"
-- **CSR**: Recovery from the earthquake and nuclear accident, local education and culture support, and support for decommissioning-related communities
+- **Abbreviation / common name**: "Toho," "Toho"
+- **CSR**: Earthquake / nuclear-accident reconstruction, local education / culture support, decommissioning-related regional support
 
 ## Related
 
 - [[regional-banks/77-bank]] · [[regional-banks/jimoto-hd]] · [[regional-banks/mebuki-fg]] · [[regional-banks/proclair-hd]]
-- [[regional-banks/chiba-bank]] (lead bank in the TSUBASA Alliance)
-- [[megabanks/sbi-regional-bank-hd]] (adjacent competitor: Fukushima Bank group)
+- [[regional-banks/chiba-bank]] (TSUBASA Alliance lead bank)
+- [[megabanks/sbi-regional-bank-hd]] (neighboring competitor: Fukushima Bank affiliation)
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 
-- **Wikipedia: The Toho Bank, Ltd.** (https://ja.wikipedia.org/wiki/東邦銀行, extracted 2026-05-19; governance design, subsidiaries, and TSUBASA participation checked)
-- Toho Bank official company profile -- https://www.tohobank.co.jp/company/information/data/ (deposits, loans, employees, branches, end 2025-09 )
-- Toho Bank 2025年3月 period financial results -- https://www.tohobank.co.jp/cms_source/data/zaimu/tanshin/files/20250509-1.pdf
-- Toho Bank integrated report / disclosure publication (2025年3月 period) -- https://www.tohobank.co.jp/company/ir/library/disclosure/2025/
-- TSUBASA Alliance official information (Toho joined in 2012-04 ) -- https://tsubasa-al.co.jp/
-- Public materials related to the Fukushima Reconstruction and Revitalization Special Measures Act
+- **Wikipedia: The Toho Bank, Ltd.** (https://ja.wikipedia.org/wiki/東邦銀行, extracted 2026-05-19. Confirmed governance structure, subsidiaries, and TSUBASA participation)
+- Toho Bank official company overview — https://www.tohobank.co.jp/company/information/data/ (deposits, loans, employees, number of branches, as of end of 2025-09 )
+- Toho Bank 2025年3月-term earnings report — https://www.tohobank.co.jp/cms_source/data/zaimu/tanshin/files/20250509-1.pdf
+- Toho Bank integrated report / disclosure publication (2025年3月 term) — https://www.tohobank.co.jp/company/ir/library/disclosure/2025/
+- TSUBASA Alliance official information (Toho joined at 2012-04 ) — https://tsubasa-al.co.jp/
+- Public materials related to the Act on Special Measures for the Reconstruction and Revitalization of Fukushima
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  public-information basis 2026-05-19, 2026-05-29 figure check). Qualitative information on history and earthquake / nuclear-accident response is publicly checkable through Wikipedia. Financial figures (total assets, deposits, loans, employees, branches) are fixed from Toho Bank's official "Company Overview" (end 2025-09 ) and 2025-03  period financial results; governance design (company with audit and supervisory committee), subsidiary line, and TSUBASA participation (2012-04) have also been confirmed. Nuclear-accident-related allowances are not quantified in the body. At the next review (2026-11-15), update to the latest period figures. **Composed only from public information; no internal inventory is cited.** Note that the official company profile states the establishment date as 1941-11-04, which differs from 1941-11-21 in this draft and requires closer checking.
+> confidence: **likely** (v1.0  based on public information 2026-05-19, 2026-05-29 figure cross-check). Qualitative information on the history and the earthquake / nuclear-accident response can be publicly confirmed via Wikipedia. Financial figures (total assets, deposits, loans, employees, number of branches) are fixed on the basis of Toho Bank's official "Company overview" (as of end of 2025-09 ) and the 2025-03 -term results; the governance structure (company with an Audit and Supervisory Committee), subsidiary lineup, and TSUBASA participation (2012-04) have also been confirmed. Nuclear-accident-related provisions are not quantified in the body. To be updated with the latest-term figures at the next review (2026-11-15). Note that the date of establishment is recorded as 1941-11-04 in the official company overview (there is a discrepancy with this article's 1941-11-21, which requires scrutiny).

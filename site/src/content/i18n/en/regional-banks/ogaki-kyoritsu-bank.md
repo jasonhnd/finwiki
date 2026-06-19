@@ -1,13 +1,14 @@
 ---
 source: regional-banks/ogaki-kyoritsu-bank
-source_hash: fac55df416c5df6d
+source_hash: 189e59aaa0d72381
 lang: en
 status: machine
 fidelity: ok
-title: "The Ogaki Kyoritsu Bank (OKB)"
-translated_at: 2026-06-01T00:41:50.452Z
+title: "大垣共立銀行 (OKB)"
+translated_at: 2026-06-19T12:43:19.905Z
 ---
-# The Ogaki Kyoritsu Bank (OKB)
+
+# 大垣共立銀行 (OKB)
 
 ## Wiki route
 
@@ -15,120 +16,120 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Ogaki Kyoritsu Bank is a regional bank in the Tokai region headquartered in Ogaki, Gifu Prefecture. Founded in 1896-03  and listed on TSE PRIME 8361 , it remains a **standalone bank structure** without conversion into a holding company. Its home ground is the Seino area of Gifu Prefecture, and its main operating area is the **northern edge of the Chukyo economic zone**, including northwestern Aichi and northern Mie. The visual identity abbreviation "**OKB**" was introduced in 1991 年. The bank is known for distinctive initiatives such as drive-through branches, pink-toned branch interiors, and mobile branch vehicles under a "**fun bank**" concept, and it also promotes itself as "**Japan's leading bank for women's advancement**". In Gifu market share, it is one of the two major banks alongside [[regional-banks/juroku-fg]]. ^[extracted]
+A regional bank of the Tokai region headquartered in Ogaki City, Gifu Prefecture. Founded in 1896-03 , listed on TSE PRIME 8361 , with a **single-bank structure** that has not become a holding company. Based in the Seino area of Gifu Prefecture, it takes the **northern edge of the Chukyo economic zone** in the northwestern part of Aichi Prefecture and the northern part of Mie Prefecture as its main business area. VI abbreviation "**OKB**" (introduced 1991 年). Under the concept of a "**fun bank**," it is known for unique measures such as drive-through branches・pink-toned interior decoration・mobile branch vehicles, and also espouses being "**Japan's number-one bank for women's empowerment**." In terms of intra-prefecture share, it is one of the two major banks alongside [[regional-banks/juroku-fg]]. ^[extracted]
 
-## 1. Company overview
+## 1. 会社概要
 
-**Official name**: The Ogaki Kyoritsu Bank, Ltd. ^[extracted]
-**English name**: The Ogaki Kyoritsu Bank, Ltd. ^[extracted]
-**Securities code**: TSE PRIME 8361  / Nagoya Stock Exchange Premier 8361 ^[extracted]
-**Founded**: 1896-03 , Meiji 29 , as Ogaki Kyoritsu Bank ^[extracted]
-**Incorporated**: 1929 ^[extracted]
-**TSE listing**: 1949 ^[extracted]
-**Head office**: Kuruwamachi, Ogaki, Gifu Prefecture 3-98 ^[extracted]
-**Uniform financial institution code**: 0152 ^[extracted]
+**正式名**：株式会社大垣共立銀行 ^[extracted]
+**英名**：The Ogaki Kyoritsu Bank, Ltd. ^[extracted]
+**証券コード**：東証 PRIME 8361 / 名証プレミア 8361 ^[extracted]
+**創業**：1896-03 (明治 29 年・大垣共立銀行として) ^[extracted]
+**株式会社化**：1929 ^[extracted]
+**東証上場**：1949 ^[extracted]
+**本店**：岐阜県大垣市郭町 3-98 ^[extracted]
+**統一金融機関コード**：0152 ^[extracted]
 
-### Key figures (consolidated, end of 2025年3月)
+### 主要数値 (2025年3月末・連結)
 
-| Item | Figure |
+| 項目 | 数値 |
 |---|---|
-| Business type | Regional bank, member of the Regional Banks Association of Japan |
-| Deposits, consolidated | 5 兆 7,232 億円, down 75 億円 from previous fiscal year-end |
-| Loans, consolidated | 4 兆 4,947 億円, down 339 億円 from previous fiscal year-end |
-| Total assets, consolidated | 6 兆 5,418 億円 |
-| Branches | 149 店 domestic locations, including 32 sub-branches, plus 4  overseas representative office, mainly Gifu / Aichi / Mie |
-| Employees | About 2,300 名 standalone / about 2,960 名 consolidated |
+| 業態 | 地方銀行 (全国地方銀行協会加盟) |
+| 預金残高 (連結) | 5 兆 7,232 億円 (前年度末比 △75 億円) |
+| 貸出金残高 (連結) | 4 兆 4,947 億円 (前年度末比 △339 億円) |
+| 総資産 (連結) | 6 兆 5,418 億円 |
+| 店舗数 | 国内 149 店舗 (うち出張所 32) + 海外駐在員事務所 4 (岐阜県・愛知県・三重県中心) |
+| 従業員数 | 単体 約 2,300 名 / 連結 約 2,960 名 |
 
-### Group structure
+### グループ構造
 
 ```
-Ogaki Kyoritsu Bank (standalone listed bank 8361)
-  ├── OKB Credit Guarantee (mortgage and consumer-loan guarantees)
-  ├── OKB Business Service (administrative outsourcing and staffing)
-  ├── OKB Card (credit card, JCB partnership)
-  ├── OKB Research Center (regional think tank)
-  ├── OKB Lease (leasing)
-  └── OKB Venture Capital / investment-fund subsidiaries
+大垣共立銀行 (単独銀行・上場 8361)
+  ├── OKB 信用保証 (住宅ローン・消費者ローン保証)
+  ├── OKB ビジネスサービス (事務代行・人材派遣)
+  ├── OKB カード (クレジットカード・JCB 提携)
+  ├── OKB リサーチセンター (地域シンクタンク)
+  ├── OKB リース (リース)
+  └── OKB ベンチャーキャピタル / 投資ファンド系子会社
 ```
 
-> A defining feature is that it has not shifted to a holding-company structure. While many large regional banks have become financial groups, OKB remains listed on PRIME as a **standalone bank**. ^[extracted]
+> The point that it has not become a holding company is a distinctive feature. While many major regional banks become FGs, OKB maintains its PRIME listing as a **single bank**. ^[extracted]
 
-### Selected timeline ^[extracted]
+### 重要年表 (抜粋) ^[extracted]
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| 1896-03  | Ogaki Kyoritsu Bank established in Ogaki |
-| 1929  | Incorporated as a stock company |
-| 1944  | Merged with small and midsize Gifu banks during wartime consolidation |
-| 1949  | Listed on the Tokyo Stock Exchange |
-| 1989  | Listed on the Nagoya Stock Exchange; third-generation online computer system went live |
-| **1991** | **"OKB" visual identity introduced**, refreshing the brand under President Takashi Tsuchiya |
-| 1995  | Reconstruction support activity after the Great Hanshin-Awaji Earthquake |
-| 2000 年s | "Fun bank" concept expanded; drive-through branch rollout |
-| 2010 年s | Mobile branch vehicle "OKB Heartful Plaza" operated; pink branches expanded |
-| Around 2014 年 | Declared a goal of becoming "Japan's leading bank for women's advancement" |
-| 2022-04  | Shifted to the PRIME Market under TSE market-section reform |
-| 2024  | Medium-term management plan formulated, emphasizing sustainability |
+| 1896-03 | 大垣共立銀行 設立 (大垣) |
+| 1929 | 株式会社化 |
+| 1944 | 戦時統合で岐阜県内中小銀行を合併 |
+| 1949 | 東証上場 |
+| 1989 | 名証上場・コンピュータシステム第三次オンライン稼働 |
+| **1991** | **「OKB」VI 導入** (頭取・土屋嶢のもとブランディング刷新) |
+| 1995 | 阪神・淡路大震災復興支援活動 |
+| 2000 年代 | 「楽しい銀行」コンセプト本格化・ドライブスルー支店展開 |
+| 2010 年代 | 移動店舗車「OKB ハートフルプラザ」運行・ピンク店舗増設 |
+| 2014 年頃 | 「日本一の女性活躍銀行」宣言 |
+| 2022-04 | 東証市場区分見直しで PRIME 市場へ移行 |
+| 2024 | 中期経営計画策定・サステナビリティ重視 |
 
-## 2. Business segment map
+## 2. 事業セグメント・マップ
 
-| Segment | Main targets | Features |
+| セグメント | 主な対象 | 特徴 |
 |---|---|---|
-| Individual deposits / mortgages | Residents of Gifu, northwestern Aichi, and northern Mie | "Fun bank" B2C brand |
-| SME lending | Manufacturers in the Seino area, including auto parts, textiles, and food | Chukyo economic-zone supply chain |
-| Tourism / regional lending | Tourism around Yoro, Sekigahara, and Ogaki Castle town | Tourism-promotion lending |
-| ATM network | Convenience stores and drive-through channels | 365 -day year-round operation and partner-bank ATM network |
-| Credit card | OKB Card, JCB partnership | - |
-| Leasing / investment trusts | OKB Lease and others | - |
+| 個人預金・住宅ローン | 岐阜県・愛知県北西部・三重県北部住民 | 「楽しい銀行」B2C ブランド |
+| 中小企業融資 | 西濃地方の製造業 (自動車部品・繊維・食品) | 中京経済圏サプライチェーン |
+| 観光・地域融資 | 養老・関ヶ原・大垣城下町観光業 | 観光振興融資 |
+| ATM ネットワーク | コンビニ・ドライブスルー | 365 日年中無休稼動・他行 ATM 提携網 |
+| クレカ | OKB カード (JCB 提携) | - |
+| リース・投信 | OKB リース・他 | - |
 
-### "Fun bank" branding
+### 「楽しい銀行」ブランディング
 
-- **Drive-through branches**: Deposits, withdrawals, and transfers can be made from inside a car. An early example in the regional-bank industry. ^[extracted]
-- **Pink-toned branch interiors**: Deliberately deconstructs the image that "banks are stiff" and supports a strategy to attract female customers.
-- **Mobile branch vehicles**: Roving services for depopulated areas and elderly customers.
-- **OKB Renga-dori around the Ogaki head office**: A regional community hub with cultural facilities and halls.
+- **Drive-through branches**: deposits・withdrawals・transfers possible while staying in the car. A pioneering case in the regional-bank industry ^[extracted]
+- **Pink-toned interior**: intentionally deconstructing the "banks are stiff" image. A strategy to capture female customers
+- **Mobile branch vehicles**: itinerant services for depopulated areas・the elderly
+- **OKB レンガ通り (around the Ogaki head office)**: making it a regional-community base by attaching cultural facilities・a hall
 
-### "Japan's leading bank for women's advancement"
+### 「日本一の女性活躍銀行」
 
-- Initiatives include raising the female manager ratio, childcare-support programs, and financial products for women. ^[extracted]
+- raising the ratio of female managers・childcare-support systems・financial products for women ^[extracted]
 
-### Competitive relationships
+### 競合関係
 
-- **[[regional-banks/juroku-fg]] (Juroku FG, Gifu head office)** ★ largest competitor: overlaps across Gifu Prefecture and northern Aichi. Within Gifu, Juroku leans toward northern Gifu / Gifu City, while OKB is more Seino-oriented, but they directly compete in both deposits and lending. ^[extracted]
-- **[[regional-banks/san-jusan-fg]] (San ju San FG, Mie)**: overlaps in northern Mie, including Kuwana and Yokkaichi.
-- **Bank of Nagoya (Aichi)**: overlaps in northwestern Aichi.
-- **Megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: compete in lending to large companies in Nagoya.
-- **Shinkin banks and JA**: small businesses and agricultural finance in the Seino area.
+- **[[regional-banks/juroku-fg]] (Juroku FG・Gifu head office)** ★largest competitor: overlapping across all of Gifu Prefecture + northern Aichi. Within Gifu Prefecture, Juroku leans toward the north of the prefecture / Gifu City and OKB toward Seino, so there is a division, but both deposits and loans are in direct competition ^[extracted]
+- **[[regional-banks/san-jusan-fg]] (San-jusan FG・Mie)**: overlapping in the northern part of Mie Prefecture (Kuwana・Yokkaichi)
+- **Nagoya Bank (Aichi)**: overlapping in the northwestern part of Aichi Prefecture
+- **Megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: competing in lending to large enterprises within Nagoya City
+- **Shinkin・JA**: small-scale businesses・agricultural finance in the Seino area
 
-### Geographic positioning
+### 地理的ポジショニング
 
-- Home ground is **the Seino area of Gifu Prefecture**, including Ogaki, Yoro, Sekigahara, Ibigawa, Kaizu, and surrounding areas. ^[extracted]
-- Cross-border expansion into **northwestern Aichi**, including Ichinomiya, Inazawa, and Tsushima.
-- Also operates in **northern Mie**, including Kuwana and Inabe.
-- Positioning as the "**northern edge of the Chukyo economic zone**" — access to Nagoya's economy plus tourism, agriculture, and auto-parts supply-chain lending.
+- Based in the **Seino area of Gifu Prefecture** (Ogaki City・Yoro Town・Sekigahara Town・Ibigawa Town・Kaizu City, etc.) ^[extracted]
+- Cross-border expansion into the **northwestern part of Aichi Prefecture (Ichinomiya・Inazawa・Tsushima, etc.)**
+- Also expanding into the **northern part of Mie Prefecture (Kuwana・Inabe, etc.)**
+- A "**northern edge of the Chukyo economic zone**" position — Nagoya-economic-zone access + tourism・agriculture + auto-parts supply-chain lending
 
-### Tourism lending
+### 観光融資
 
-- Tourism-related lending demand from Chukyo-area visitors and the recovery of inbound travel.
+- tourist inflows from the Chukyo region + inbound recovery create tourism-related lending needs
 
-### Medium-term management plan (from 2024)
+### 中期経営計画 (2024〜)
 
-- Strengthen sustainability and ESG.
-- DX and branch digitization.
-- Women's advancement and human-capital investment.
+- strengthening sustainability・ESG
+- DX・branch digitalization
+- women's empowerment・human-capital investment
 
-## 4. Regulation / policy
+## 4. 規制・政策
 
-- **Supervisors**: Financial Services Agency and Tokai Local Finance Bureau.
-- **Industry association**: Regional Banks Association of Japan.
-- **Recent policy issues**:
-  - From 2024, Bank of Japan policy-rate normalization creates expectations for regional-bank margin improvement.
-  - From 2025, pressure for regional-bank consolidation, including bank-to-bank integration and FG conversion; OKB continues as a standalone bank.
-  - Structural change in the Chukyo auto industry, including the EV shift, may affect local SME lending.
+- **主管**: 金融庁 (FSA) ・東海財務局
+- **加盟協会**: 全国地方銀行協会 (地銀協)
+- **直近政策論点**:
+  - 2024〜 BOJ policy-rate normalization → expectations of margin improvement for regional banks
+  - 2025〜 regional-bank restructuring pressure (management integration among regional banks・FG-ization) — OKB maintains its single-bank status
+  - the structural transformation of the auto industry in the Chukyo economic zone (EV shift) affects lending to local SMEs
 
-### President / management
+### 頭取・経営
 
-- **Takashi Tsuchiya**: Long-serving top executive who led the "OKB" visual identity introduction in 1991 and advanced the "fun bank" concept; treated as a key revitalizing figure. ^[extracted]
+- **Tsuchiya Takashi (土屋嶢)**: a figure who served at the top of management for a long time and is something of a "restorer," driving the introduction of the "OKB" VI (1991)・and the "fun bank" concept ^[extracted]
 
 ## Related
 
@@ -136,12 +137,12 @@ Ogaki Kyoritsu Bank (standalone listed bank 8361)
 
 ## Sources
 
-- **Wikipedia: The Ogaki Kyoritsu Bank, Ltd.** (https://ja.wikipedia.org/wiki/大垣共立銀行, extracted 2026-05-19; 149 店 domestic locations, employees 2,300  standalone / 2,960 consolidated, 365 -day year-round ATM)
-- **Ogaki Kyoritsu Bank 2025年3月 fiscal-year financial results under Japanese GAAP, consolidated** (disclosed 2025-05-09; deposits 5兆7,232億円 / loans 4兆4,947億円 / consolidated total assets 6兆5,418億円: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf)
-- **Ogaki Kyoritsu Bank 2025年3月 fiscal-year results briefing materials** (deposit and loan ending-balance confirmation: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf)
-- Ogaki Kyoritsu Bank official corporate site, history and management-philosophy pages, public information
+- **Wikipedia: 株式会社大垣共立銀行** (https://ja.wikipedia.org/wiki/大垣共立銀行, extracted 2026-05-19; domestic 149 店 branches・employees single 2,300 / consolidated 2,960・365 -day year-round ATMs)
+- **大垣共立銀行 2025年3月期 決算短信〔日本基準〕（連結）** (disclosed 2025-05-09, deposits 5兆7,232億円 / loans 4兆4,947億円 / total assets consolidated 6兆5,418億円: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf)
+- **大垣共立銀行 2025年3月期 決算説明資料** (confirmation on a deposit・loan period-end-balance basis: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf)
+- 大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ、public information)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0 Wikipedia + official public information base, created 2026-05-19). Specific financial figures, branch counts, ATM counts, and similar figures change by date, so refer directly to OKB official IR materials and securities reports for the latest values. This note centers on structural information via Wikipedia and does not guarantee the point-in-time accuracy of quantitative values.
+> confidence: **likely** (based on v1.0  Wikipedia + official-site public information, created 2026-05-19). Specific settlement figures・number of branches・number of ATMs, etc. fluctuate over time, so for the latest values refer directly to OKB's official IR・有価証券報告書. This note centers on structural information via Wikipedia and does not guarantee the point-in-time accuracy of quantitative figures.

@@ -1,41 +1,43 @@
 ---
 source: regional-banks/ikeda-senshu-bank
-source_hash: e92013ce9f1c65c4
+source_hash: 6ec6c7f75ace3015
 lang: zh
 status: machine
 fidelity: ok
 title: "池田泉州银行"
-translated_at: 2026-05-31T15:29:03.868Z
+translated_at: 2026-06-19T12:43:19.947Z
 ---
+
 # 池田泉州银行
 
-## Wiki 路径
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]]、[[regional-banks/kyoto-bank|Kyoto Bank]]、[[regional-banks/kiyo-bank|Kiyo Bank]] 以及 [[banking/INDEX|银行索引]] 对照阅读，理解关西地区地方银行整合格局。
+## Wiki route
+
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/kansai-mirai-bank|関西みらい銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-池田泉州银行是 [[regional-banks/ikeda-senshu-hd|Ikeda Senshu Holdings]] 的核心运营银行，列入金融厅银行牌照名单。它由旧池田银行与旧泉州银行整合而来，主要服务大阪府、北摄、泉州以及兵库东南部市场，承担集团的存款、住房贷款、中小企业金融与区域咨询功能。
+株式会社池田泉州银行是总部位于大阪府、列入金融厅银行牌照一览的地方银行。它是 [[regional-banks/ikeda-senshu-hd]] 的 core operating bank，作为旧池田银行与旧泉州银行整合后的 bank-license entity 处理。
 
-## 1. 牌照与集团边界
+## 1. License / group boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | Senshu Ikeda Bank, Ltd. |
-| 牌照路径 | 《银行法》下的地方银行；列入金融厅银行牌照名单 |
-| 集团边界 | [[regional-banks/ikeda-senshu-hd|Ikeda Senshu Holdings]] 核心运营银行 |
-| 主要市场 | 大阪、北摄、泉州及兵库东南部 |
-| Wiki 作用 | 大阪地方银行运营公司页面 |
+| Legal name | 株式会社池田泉州银行 |
+| License route | Banking Act regional bank; FSA bank license list |
+| Group boundary | [[regional-banks/ikeda-senshu-hd]] core operating bank |
+| Home market | Osaka / Hokusetu, Senshu, and southeastern Hyogo |
+| Wiki role | Osaka regional-bank operating-company page |
 
-## 2. 经营模型
+## 2. Operating model
 
-池田泉州银行以区域零售存款、中小企业融资、房地产与物流金融、住房贷款以及区域咨询为核心。控股公司页面适合承载资本政策和集团战略；本页则用于界定银行牌照、运营范围和同业比较。
+池田泉州银行以大阪府北摄·泉州地区与兵库县东南部为中心，承担 retail deposits, SME finance, real-estate / logistics finance, and regional consulting 的 regional bank。HD page 处理 group strategy，本页处理 banking operations and license boundary。Kansai regional-bank consolidation context 请参阅 [[banking/regional-bank-consolidation-pattern]]。
 
-## 3. 本页为何重要
+## 3. Why this page matters
 
-- 补齐金融厅精确名称下的运营银行条目。
-- 将银行实体与 [[regional-banks/ikeda-senshu-hd|Ikeda Senshu Holdings]] 的控股公司战略区分开来。
-- 为 [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]]、[[regional-banks/kyoto-bank|Kyoto Bank]]、[[regional-banks/kiyo-bank|Kiyo Bank]] 等关西同业提供比较锚点。
+- Closes the FSA exact-name operating-company gap for 池田泉州银行.
+- Separates the bank entity from [[regional-banks/ikeda-senshu-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/kansai-mirai-bank]], [[regional-banks/kyoto-bank]], and [[regional-banks/kiyo-bank]].
 
 ## Related
 
@@ -48,5 +50,5 @@ translated_at: 2026-05-31T15:29:03.868Z
 
 ## Sources
 
-- 金融厅银行牌照名单，地方银行，截至 2026-01-01。
-- 池田泉州银行官方公司概要。
+- FSA: bank license list, regional banks, as of 2026-01-01.
+- Ikeda Senshu Bank official company profile.

@@ -1,84 +1,85 @@
 ---
 source: securities-firms/imamura-securities
-source_hash: aa95bf836d076e19
+source_hash: cf465e38c9ee3dd9
 lang: en
 status: machine
 fidelity: ok
-title: "Imamura Securities"
-translated_at: 2026-05-31T15:29:03.893Z
+title: "Imamura Securities (今村証券)"
+translated_at: 2026-06-19T12:43:19.986Z
 ---
 
-# Imamura Securities
+# Imamura Securities (今村証券)
 
 ## Wiki route
 
-This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/marusan-securities|Marusan Securities]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA financial instruments business operator index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
 
 ## TL;DR
 
-Imamura Securities is a **mid-sized regional independent securities firm based in Kanazawa, Ishikawa Prefecture** and listed on Tokyo Stock Exchange STANDARD under **7175**. It operates as a face-to-face retail broker in the Hokuriku region, emphasizing locally embedded consulting relationships. In the FSA financial instruments business operator list it appears as Imamura Securities Co., Ltd., registered with the Director-General of the Hokuriku Local Finance Bureau under Financial Instruments Business Operator No. 3. It is a regular member of the [[financial-regulators/jsda|Japan Securities Dealers Association]]. Unlike other regional independent securities firms such as [[securities-firms/iwai-cosmo-hd|IwaiCosmo Holdings]] in Osaka or [[securities-firms/okasan-sg|Okasan Securities Group]] in the Chukyo region, its distinctive feature is a standalone Hokuriku / Kanazawa regional base centered on long-term face-to-face relationships with local customers.
+Imamura Securities is a **mid-sized regional independent securities firm headquartered in Kanazawa City, Ishikawa Prefecture** (TSE STANDARD **7175**), operating as a face-to-face retail securities firm in the Hokuriku region with locally rooted consulting sales. In the FSA's list of financial instruments business operators it is listed as "今村証券株式会社," registered as Director-General of the Hokuriku Local Finance Bureau (Kinsho) No.第3号. It is a **full member of the Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]])**. It is characterized by a **standalone Hokuriku (Kanazawa) regional base**, different from other regionally based mid-sized independent securities firms ([[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] Osaka / [[securities-firms/okasan-sg|岡三 SG]] Chukyo), with long-term face-to-face relationships with local customers as its mainstay.
 
-## 1. Entity and license boundary
+## 1. Corporate / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal name | Imamura Securities Co., Ltd. |
+| Legal name | 今村証券株式会社 |
 | English name | Imamura Securities Co., Ltd. |
-| Securities code | Tokyo Stock Exchange STANDARD 7175 |
-| FSA registration | Director-General of the Hokuriku Local Finance Bureau, Financial Instruments Business Operator No. 3 |
-| FIEA scope | Type I Financial Instruments Business Operator |
-| SRO membership | Regular member of [[financial-regulators/jsda|Japan Securities Dealers Association]] |
-| Head office | Kanazawa, Ishikawa Prefecture |
-| Business type | Mid-sized regional independent securities firm focused on Hokuriku |
+| Securities code | TSE STANDARD 7175  |
+| FSA registration | Director-General of the Hokuriku Local Finance Bureau (Kinsho) No.第3号 (local finance bureau registration) |
+| FIEA scope | Type I Financial Instruments Business (securities business) |
+| SRO membership | Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]]) full member |
+| Head office | Kanazawa City, Ishikawa Prefecture |
+| Business type | Mid-sized regional independent securities firm (rooted in the Hokuriku region) |
 
-## 2. Company overview
+## 2. Company profile
 
-**Legal name**: Imamura Securities Co., Ltd.
+**Legal name**: 今村証券株式会社
 **English name**: Imamura Securities Co., Ltd.
-**Securities code**: Tokyo Stock Exchange STANDARD 7175 ^[extracted]
-**Head office**: Kanazawa, Ishikawa Prefecture ^[extracted]
-**FSA registration**: Director-General of the Hokuriku Local Finance Bureau, Financial Instruments Business Operator No. 3, indicating local-finance-bureau rather than Kanto registration ^[extracted]
-**Business type**: Type I Financial Instruments Business Operator, mid-sized regional independent securities firm
-**Regional base**: face-to-face retail centered on the three Hokuriku prefectures of Ishikawa, Toyama, and Fukui
+**Securities code**: TSE STANDARD 7175 ^[extracted]
+**Head office**: ^[extracted], Kanazawa City, Ishikawa Prefecture
+**FSA registration**: **Director-General of the Hokuriku Local Finance Bureau (Kinsho) No.第3号** (local finance bureau registration, not the Kanto Local Finance Bureau) ^[extracted]
+**Business type**: Financial instruments business (Type I Financial Instruments Business Operator) — mid-sized regional independent securities firm
+**Regional base**: Face-to-face retail centered on the 3  Hokuriku prefectures (Ishikawa, Toyama, Fukui)
 
-### Business-type characteristics
+### Characteristics of the business type
 
-Imamura Securities is not based in one of the three major metropolitan securities markets of Tokyo, Osaka, or Nagoya. It is a mid-sized independent securities firm with a standalone **Hokuriku / Kanazawa** regional base. The local-finance-bureau registration makes its regional securities positioning explicit. It belongs to the same broad category of regional-origin independent brokers as [[securities-firms/okasan-sg|Okasan Securities Group]] in Chukyo and [[securities-firms/iwai-cosmo-hd|IwaiCosmo Holdings]] in Kansai, but operates on a more limited regional scale.
+Imamura Securities is a mid-sized independent securities firm with a **standalone Hokuriku (Kanazawa) regional base**, rather than the three major metropolitan areas of Tokyo, Osaka, and Nagoya. Its FSA registration number is also "Director-General of the Hokuriku Local Finance Bureau (Kinsho) No.第3号," a local finance bureau registration, clearly positioning it as a regional securities firm. It falls in the "independent securities firm of regional origin" category alongside [[securities-firms/okasan-sg|岡三 SG]] in Chukyo and [[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] in Kansai, but its regional scale is more limited.
 
-### Key timeline: public-information basis
+### Key chronology (based on public information)
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 2022-04 | Tokyo Stock Exchange market-segment revision -> Tokyo Stock Exchange STANDARD (7175) ^[extracted] |
+| 2022-04  | Review of TSE market segments → TSE STANDARD (7175) ^[extracted] |
 
 ## 3. Business segment map
 
 | Segment | Content | Characteristics |
 |---|---|---|
-| **Domestic equities: face-to-face retail** | Equity brokerage for individual investors | Core head-office business with close Hokuriku customer relationships |
-| Investment trusts | Public investment-trust sales | Stable revenue source |
-| Bonds | Japanese government bonds for individuals and foreign bonds | Complementary products |
-| Corporate transactions | SMEs in the Hokuriku region | Locally embedded |
-| Online trading | Online branch attached | Face-to-face business remains the core |
+| **Domestic equities (face-to-face retail)** ★ | Equity brokerage for individual investors | **Core of the head office**, closely rooted in Hokuriku regional customers |
+| Investment trusts | Sales of public-offering investment trusts | Stable revenue source |
+| Bonds | JGBs for individuals / foreign bonds | Complementary products |
+| Corporate transactions | Small and mid-sized corporations in the Hokuriku region | Locally rooted |
+| Online trading | Online branch attached | Face-to-face is the mainstay |
 
-### Position as a locally embedded independent securities firm
+### Position as a locally rooted independent securities firm
 
-Imamura Securities operates as a regional securities firm centered on the three Hokuriku prefectures of Ishikawa, Toyama, and Fukui, with business built around long-term face-to-face relationships with local customers. Unlike major metropolitan securities firms ([[securities-firms/nomura-hd|Nomura]] / [[securities-firms/daiwa-sg|Daiwa]] / [[securities-firms/smbc-nikko|SMBC Nikko]]) and other mid-sized independents ([[securities-firms/marusan-securities|Marusan]] / [[securities-firms/aizawa-sg|Aizawa Securities Group]]), it pursues a niche strategy anchored in a single regional base.
+As a **regional securities firm centered on the 3  Hokuriku prefectures (Ishikawa, Toyama, Fukui)**, Imamura Securities develops its business around long-term face-to-face relationships with local customers. Unlike the major securities firms of the three metropolitan areas ([[securities-firms/nomura-hd|野村]] / [[securities-firms/daiwa-sg|大和]] / [[securities-firms/smbc-nikko|SMBC 日興]]) and mid-sized independent securities firms ([[securities-firms/marusan-securities|丸三]] / [[securities-firms/aizawa-sg|アイザワ]]), it pursues a niche strategy of surviving on a **standalone regional base**.
 
 ### Competitive relationships
 
-- **Hokuriku regional banks**: competition with securities subsidiaries and agency channels of [[regional-banks/hokkoku-fhd|Hokkoku FHD]], [[regional-banks/hokuriku-bank|Hokuriku Bank]], and similar institutions.
-- **Online brokers**: expanding online access from [[securities-firms/sbi-securities|SBI Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]], and [[securities-firms/matsui-sec|Matsui Securities]].
-- **Major face-to-face securities firms**: Hokuriku branch networks of national brokers.
+- Competition with securities subsidiaries / agencies of **Hokuriku regional banks** ([[regional-banks/hokkoku-fhd|北國 FHD]] / [[regional-banks/hokuriku-bank|北陸銀行]], etc.)
+- Expanding online access of **online securities firms** ([[securities-firms/sbi-securities|SBI]] / [[securities-firms/rakuten-securities|楽天]] / [[securities-firms/matsui-sec|松井]])
+- Hokuriku branch networks of **major face-to-face securities firms**
 
-The differentiation axis is local embeddedness plus trusted face-to-face relationships. It counters low-fee online brokers through a community-deepening model rather than price competition.
+Its axis of differentiation is "local rootedness + face-to-face trust relationships," countering the low-fee trend of online securities firms with a **deep-cultivation-of-the-local-community model**.
 
-## 5. Regulation and policy
+## 5. Regulation / policy
 
-- **Supervisor**: FSA and the Hokuriku Local Finance Bureau.
-- **Business type**: Type I Financial Instruments Business Operator.
-- **Regulation**: Financial Instruments and Exchange Act plus self-regulation by [[financial-regulators/jsda|Japan Securities Dealers Association]].
-- **Current policy issue**: strengthening of customer-oriented business conduct principles, requiring face-to-face consulting sales to justify value and costs.
+- **Supervisor**: Financial Services Agency (FSA) / **Hokuriku Local Finance Bureau** (local finance bureau registration)
+- **Business type**: Type I Financial Instruments Business (securities business)
+- **Regulation**: Financial Instruments and Exchange Act / Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]]) self-regulation
+- **Recent policy topics**:
+  - Strengthening of customer-oriented business operation (FD principles): justification for the face-to-face consulting sales model
 
 ## Related
 
@@ -89,6 +90,6 @@ The differentiation axis is local embeddedness plus trusted face-to-face relatio
 
 ## Sources
 
-- FSA, financial instruments business operator registration list, `kinyushohin.xlsx`.
-- Japan Securities Dealers Association (JSDA), member list.
-- Imamura Securities Co., Ltd., company overview on the official corporate site.
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (public Excel list).
+- Japan Securities Dealers Association (JSDA), "協会員名簿".
+- 今村証券株式会社, "会社概要" (official corporate site).

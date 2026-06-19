@@ -1,169 +1,170 @@
 ---
 source: payments/visa-mastercard-amex-jcb-japan-operating-comparison
-source_hash: 1c001bab672eff70
+source_hash: 42288ade60cedf39
 lang: ja
 status: machine
 fidelity: ok
-title: "Visa Mastercard AMEX JCB 日本事業比較"
-translated_at: 2026-06-02T16:33:58.528Z
+title: "Visa Mastercard AMEX JCB 日本 オペレーション比較"
+translated_at: 2026-06-19T06:09:18.152Z
 ---
-# Visa Mastercard AMEX JCB 日本事業比較
 
-## ウィキ上の位置づけ
+# Visa Mastercard AMEX JCB 日本 オペレーション比較
 
-このエントリは、**4ブランド横断比較ページ**として [[payments/INDEX|payments index]] 配下に位置する。JCB 個別の深掘りは [[payments/jcb-three-party-operating-model|JCB three-party operating model]]、役割分離フレームワークは [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]、手数料フロー上の帰結は [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]、スキーム横断の経済性視点は [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、4ブランドすべてに同時にかかる [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] の EMV 3-DS / J-CSC 義務の着地点と組み合わせる。ブランドアンカーは [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]]、[[payment-firms/mastercard-japan|Mastercard Japan]]、[[payment-firms/american-express-international-japan|American Express International Japan]]、[[card-issuers/jcb|JCB Co Ltd]] / [[payment-firms/jcb-international|JCB International]] である。参照される主要なイシュアー / アクワイアラの相手方には、[[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]]、[[card-issuers/epos-card|Epos Card]]、[[card-issuers/paypay-card|PayPay Card]] が含まれる。
+## Wiki ルート
 
-## 要約
+このエントリは [[payments/INDEX|payments index]] の配下に、**4ブランドのクロス比較ページ**として位置し、JCB 固有の詳細については [[payments/jcb-three-party-operating-model|JCB three-party operating model]]、役割分離のフレームワークについては [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]、手数料フローの帰結については [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]、クロススキームの経済性ビューについては [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、4ブランドすべてに同時に着地する EMV 3-DS / J-CSC 義務については [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] とペアになる。ブランドアンカーは [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]]、[[payment-firms/mastercard-japan|Mastercard Japan]]、[[payment-firms/american-express-international-japan|American Express International Japan]]、[[card-issuers/jcb|JCB Co Ltd]] / [[payment-firms/jcb-international|JCB International]] である。参照される主要な発行体 / アクワイアラーのカウンターパーティには [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]]、[[card-issuers/epos-card|Epos Card]]、[[card-issuers/paypay-card|PayPay Card]] が含まれる。
 
-日本で事業を行う4つの国際ブランド、**Visa、Mastercard、American Express、JCB** は、しばしば互換的な「クレジットカードブランド」として扱われるが、実際には**構造的に異なる事業上の位置**にある。Visa と Mastercard は、分離されたライセンス済みイシュアーとアクワイアラを持つ**4者間スキーム**を運営し、日本では主に [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]] その他のライセンシーを通じて展開される。American Express は自社日本拠点を中心とする**3者間クローズドループ・スキーム**を運営し、外部イシュアー・パートナーの主軸は **Saison-AMEX Persona 提携を通じた Credit Saison** である。JCB は、JCB Co Ltd のブランド / アクワイアラ / イシュアー機能と、日本国内約 30 社のパートナーイシュアーを組み合わせた、**ハイブリッドなイシュアーライセンス層を持つ3者間ブランドモデル**である。4ブランドは、法人、国内加盟店受入シェア (JCB と Visa が受入を主導し、AMEX は劣後)、銀行 JV 構造 (V/MC は MUFG NICOS、AMEX は AMEX-Saison Persona)、および **2025-2026  の代理決済 / push-to-card オーバーレイ** (Visa Direct、Mastercard Send、JCB-Pay オーバーレイ) でも異なる。このマトリクスは、日本における手数料経済性、加盟店選択、イシュアー関係、競争上の位置を実際に決める事業次元に沿って4ブランドを並べる。
+## TL;DR
+
+日本で事業を行う4つの国際ブランド — **Visa、Mastercard、American Express、JCB** — は一般に互換可能な「クレジットカードブランド」として扱われるが、それらは **構造的に異なるオペレーションのポジション** に位置する。Visa と Mastercard は、別々の被免許の発行体とアクワイアラーを持つ **4者スキーム** を運営し、日本では主として [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]] その他の被免許者を通じて流通する。American Express は、自社の日本主体を中心とする **3者クローズドループ・スキーム** を運営し、主たる外部発行体パートナーとして **Saison-AMEX Persona 提携を通じた Credit Saison** を持つ。JCB は、JCB Co Ltd のブランド / アクワイアラー / 発行体の役割を、日本における ~30 のパートナー発行体企業と組み合わせる、**ハイブリッドな発行体ライセンス層を持つ3者ブランドモデル** を運営する。4ブランドはまた、法的主体、JP 加盟店の受入シェア（JCB と Visa が受入をリード；AMEX は後塵を拝する）、銀行 JV 構造（V/MC については MUFG NICOS；AMEX については AMEX-Saison Persona）、および各ブランドの戦略が分岐する **2025-2026 エージェント決済 / プッシュ・トゥ・カードのオーバーレイ**（Visa Direct、Mastercard Send、JCB-Pay のオーバーレイ）の点で異なる。このマトリクスは、日本における手数料の経済性、加盟店の選択、発行体関係、競争上のポジションを実際に決定するオペレーションの次元に沿って、4ブランドを並べる。
 
 ## この比較が重要な理由
 
-4ブランド分析では、3つの主張が混同されやすい。第一に、「すべてただのカードブランド」という見方は、4者間と3者間の違い ([[payments/jcb-three-party-operating-model|JCB three-party operating model]] 参照) を平板化し、加盟店手数料の経済性を動かすインターチェンジ有無の差を隠す。第二に、「JCB は国内でしか重要でない」という見方は、JCB International のグローバルなアクワイアラ提携 (Discover Global Network、CTBC、KB Kookmin など) と、韓国 / 台湾 / 東南アジアからの訪日客受入における JCB の役割を過小評価する。第三に、「AMEX はプレミアムだけ」という見方は、**Credit Saison Persona JV** の発行ラインにより、AMEX がクローズドループの評判以上に広い日本でのイシュアー・フットプリントを持つことを見落とす。このマトリクスは、その3点を直接読める形にする。
+3つの主張が4ブランド分析をしばしば混乱させる。第一に、「それらはみな単なるカードブランドだ」 — 4者対3者の区別（[[payments/jcb-three-party-operating-model|JCB three-party operating model]] を参照）を平板化することは、加盟店の手数料の経済性を駆動するインターチェンジあり対なしの分岐を隠す。第二に、「JCB は国内でしか重要でない」 — JCB International のグローバルなアクワイアラー提携（Discover Global Network、CTBC、KB Kookmin など）と、韓国 / 台湾 / 東南アジアにおける JCB のインバウンド観光客受入の役割は、JCB を見出しの受入フットプリントが示唆するより、よりグローバルに関連したものにする。第三に、「AMEX は単にプレミアムなだけだ」 — **Credit Saison Persona JV** の発行ラインは、AMEX がそのクローズドループの評判が示唆するより、実質的により広範な日本の発行体フットプリントを持つことを意味する。このマトリクスは、この3つすべてを直接読めるよう浮き彫りにする。
 
 ## 4大ブランド比較マトリクス
 
 | 次元 | Visa | Mastercard | American Express | JCB |
 |---|---|---|---|---|
-| **日本法人 (主)** | Visa Worldwide Pte Ltd (日本支店) ([[payment-firms/visa-worldwide-japan\|Visa Worldwide Japan]]) | Mastercard Japan K.K. ([[payment-firms/mastercard-japan\|Mastercard Japan]]) | American Express International Inc. (日本支店) ([[payment-firms/american-express-international-japan\|AMEX International Japan]]) | JCB Co Ltd ([[card-issuers/jcb\|JCB]]) + JCB International Co Ltd ([[payment-firms/jcb-international\|JCB International]]) |
-| **グループ親会社** | Visa Inc. (NYSE: V, 米国上場) | Mastercard Inc. (NYSE: MA, 米国上場) | American Express Co. (NYSE: AXP, 米国上場) | 非公開会社 (主要株主に MUFG、SMFG、Mizuho、Nippon Life、Tokio Marine、NTT Data など) |
-| **スキーム種別** | 4者間 (オープン) | 4者間 (オープン) | 3者間 (クローズドループ中核) + パートナーイシュアー層 | 広範なパートナーイシュアー・エコシステムを持つ3者間 (ハイブリッド) |
-| **日本でのブランド役割** | 純粋なブランド / ネットワーク運営者。直接発行・加盟店獲得は行わない | 純粋なブランド / ネットワーク運営者。直接発行・加盟店獲得は行わない | ブランド + 主要イシュアー + 主要アクワイアラ (クローズドループ) | ブランド + 主要イシュアー + 主要アクワイアラ + 約 30 社へのイシュアーライセンサー |
-| **日本の主要イシュアー** | [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]]、[[card-issuers/epos-card\|Epos Card]]、[[card-issuers/paypay-card\|PayPay Card]]、View Card (JR East) | Visa と同じ多イシュアー国内フットプリント: [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]] | AMEX 直接発行 (プレミアム独自ライン)、Persona JV 経由の [[card-issuers/credit-saison\|Credit Saison]]、一部提携カードの [[card-issuers/mufg-nicos\|MUFG]] | JCB Co Ltd 直接発行、[[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]]、JR (View)、Lifecard、その他約 25 社 |
-| **日本の主要アクワイアラ** | [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/jcb\|JCB Co]] (クロスライセンス・アクワイアラ)、[[card-issuers/credit-saison\|Credit Saison]] ライン、さらに [[payment-firms/gmo-payment-gateway\|GMO-PG]] / [[payment-firms/sb-payment-service\|SBPS]] / [[payment-firms/dg-financial-technology\|DGFT]] を通じた PSP ルーティング | 同じ集合: [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/jcb\|JCB Co]]、[[card-issuers/credit-saison\|Credit Saison]]、主要 PSP 経由のルーティング | AMEX 直接加盟店アクワイアラ (クローズドループ中核)。低価格帯加盟店の広がりでは一部アクワイアラ提携 | JCB Co Ltd 直接 (主要アクワイアラ)、共同加盟店の協力アクワイアラとして [[card-issuers/mufg-nicos\|MUFG NICOS]]、PSP 経由のパートナー・ルーティング |
-| **受入シェア (CPC / Visa-MC データ、参考)** | データ未公開 (CPC / METI はブランド別受入シェアを公表していない)。定性的には日本で最大の国際ブランド受入 | 国際ブランド受入で2位。加盟店所在地ベースでは Visa に近い | 歴史的には V/MC/JCB より狭い。AMEX-JCB 相互受入 + Saison Persona 拡大後は改善 | プレミアムブランドの中で国内最強の日本受入。大手加盟店ではほぼ普遍的。マイクロ加盟店では V/MC より弱い |
-| **インターチェンジ / スキーム手数料構造** | ブランド設定の公表インターチェンジ料率 (日本標準、2023 ロードマップ以降開示)。明示的なアクワイアラ向けスキーム手数料 | Visa と同じ構造。2023 ロードマップ以降、日本標準インターチェンジを公表。明示的なアクワイアラ向けスキーム手数料 | AMEX が加盟店割引料率を相対で設定するクローズドループ (中核ではイシュアー = アクワイアラのため別イシュアーとのインターチェンジ分割なし)。Saison 等のパートナー発行カードには内部配分 | JCB Co Ltd 直接加盟店: インターチェンジ分割なし (イシュアー = アクワイアラ)。パートナー発行カード: JCB アクワイアラとパートナーイシュアー間のインターチェンジを 2023-06  に開示 (日本大手ブランド初) |
-| **銀行 JV 構造 (日本)** | [[card-issuers/mufg-nicos\|MUFG NICOS]] (MUFG アンカー、V/MC デュアルブランド)、アクワイアリングでは [[card-issuers/smbc-card\|SMBC Card]] との SMBC GMO PAYMENT JV | [[card-issuers/mufg-nicos\|MUFG NICOS]] (Visa とのデュアルブランド)、[[card-issuers/smbc-card\|SMBC Card]] との SMBC GMO PAYMENT JV | **AMEX-Saison Persona 提携** ([[card-issuers/credit-saison\|Credit Saison]] イシュアー JV、2000 から)、[[card-issuers/mufg-nicos\|MUFG]] 提携カード | 株主構造は銀行 FG (MUFG、SMFG、Mizuho) をまたぐ。JCB Co Ltd 自体がブランド・銀行・イシュアーのハイブリッドとして機能。主要カード会社の多くとパートナーイシュアー JV |
-| **チャージバックに対するイシュアー側責任** | イシュアーがチャージバックリスクを負担。ブランド仲裁層あり | イシュアーがチャージバックリスクを負担。ブランド仲裁層あり | AMEX 直接: クローズドループ内処理。Saison 発行: Persona 条件の下で Saison がイシュアー側チャージバックリスクを負担 | JCB 直接: 内部処理 (イシュアー = アクワイアラ)。パートナー発行: パートナーがイシュアー側リスクを負担 |
-| **EMV 3-DS / J-CSC 6.0 義務対応 (2025-03)** | 必須。Visa Secure (3-DS 2.x) が広く導入 | 必須。Mastercard Identity Check (3-DS 2.x) が広く導入 | 必須。AMEX SafeKey 3-DS を導入 | 必須。J/Secure 3-DS を導入。ブランドが3者間ルールで直接コンプライアンスを管理 |
-| **QR / コード決済オーバーレイ** | **Visa Direct** push-to-card レール、Visa カードの Tap-to-Pay / NFC contactless | **Mastercard Send** push-to-card、Mastercard カードの Tap-to-Pay / NFC contactless | AMEX contactless / NFC 標準。主要な QR オーバーレイ商品はない | JCB Tap (contactless)、一部市場の JCB Pay コード決済商品 |
-| **代理決済 / トークン化ロードマップ (2025-2026)** | 代理人起点決済向け **Visa Agentic Commerce** / **Visa Intelligent Commerce**、Visa Token Service のネットワークトークン | 代理人起点決済向け **Mastercard Agent Pay** / **Mastercard Agentic Tokens**、Mastercard Digital Enablement Service (MDES) | AMEX の agentic-pay ロードマップは開発中。SafeKey が agentic フローに適応 | JCB のロードマップは公開情報が少ない。J/Secure がパートナー発行ポートフォリオ上の agentic フローに適応 |
-| **訪日客受入 (海外発行カードの日本利用)** | 日本加盟店で最大の訪日客受入範囲 | 2番目に大きな訪日客受入範囲。Visa とほぼ同等 | 小規模加盟店では V/MC より狭い。ホテル / プレミアム / 訪日客向け小売では広い | 韓国 / 台湾 / 中国発行の JCB カードが重要な訪日客セグメント。JCB International アクワイアラ側 |
-| **海外利用 (日本発行カードの国外利用)** | 世界的に普遍的な受入 | 世界的に普遍的な受入 | グローバルなプレミアム受入。国外のマイクロ加盟店では弱い | 韓国 / 台湾 / 香港 / 東南アジアで強い。Discover 提携で米国フットプリント。欧州では弱い |
-| **国内規制対話 (METI / JFTC)** | 日本代表拠点を通じる。グローバル本社と調整 | 日本代表拠点を通じる。グローバル本社と調整 | 日本代表拠点を通じる。米国本社と調整 | 国内で直接関与 (本社が日本)。2023 手数料開示要請に最初に対応 |
-| **ブランド手数料の開示有無** | 日本標準インターチェンジを 2023-08  に公表 (Payments Japan ロードマップ) | 日本標準インターチェンジを 2023-08  に公表 (Payments Japan ロードマップ) | 別個開示なし (クローズドループ加盟店割引料率は内部) | イシュアー / アクワイアラ分割を 2023-06  に開示 (日本大手ブランド初) |
+| **日本の法的主体（主たるもの）** | Visa Worldwide Pte Ltd（日本支店）（[[payment-firms/visa-worldwide-japan\|Visa Worldwide Japan]]） | Mastercard Japan K.K.（[[payment-firms/mastercard-japan\|Mastercard Japan]]） | American Express International Inc.（日本支店）（[[payment-firms/american-express-international-japan\|AMEX International Japan]]） | JCB Co Ltd（[[card-issuers/jcb\|JCB]]）+ JCB International Co Ltd（[[payment-firms/jcb-international\|JCB International]]） |
+| **グループ親会社** | Visa Inc.（NYSE: V、米国上場） | Mastercard Inc.（NYSE: MA、米国上場） | American Express Co.（NYSE: AXP、米国上場） | 非公開（主要株主には MUFG、SMFG、みずほ、日本生命、東京海上、NTT データ その他が含まれる） |
+| **スキーム種別** | 4者（オープン） | 4者（オープン） | 3者（クローズドループのコア）+ パートナー発行体層 | 広範なパートナー発行体エコシステムを持つ3者（ハイブリッド） |
+| **日本におけるブランドの役割** | 純粋なブランド / ネットワーク運営者；自ら発行もアクワイアリングもしない | 純粋なブランド / ネットワーク運営者；自ら発行もアクワイアリングもしない | ブランド + 主たる発行体 + 主たるアクワイアラー（クローズドループ） | ブランド + 主たる発行体 + 主たるアクワイアラー + ~30 パートナーへの発行体ライセンサー |
+| **日本の主たる発行体** | [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]]、[[card-issuers/epos-card\|Epos Card]]、[[card-issuers/paypay-card\|PayPay Card]]、View Card（JR 東日本） | Visa と同じマルチ発行体の日本フットプリント：[[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]] | AMEX 直接（プレミアムなプロプライエタリのラインナップ）；Persona JV を通じた [[card-issuers/credit-saison\|Credit Saison]]；一部のコブランドについては [[card-issuers/mufg-nicos\|MUFG]] | JCB Co Ltd 直接；[[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/aeon-financial-service\|AEON Financial Service]]、[[card-issuers/rakuten-card\|Rakuten Card]]、[[card-issuers/credit-saison\|Credit Saison]]、[[card-issuers/jaccs\|JACCS]]、[[card-issuers/orico\|Orico]]、JR（View）、Lifecard、その他 ~25  |
+| **日本の主たるアクワイアラー** | [[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/jcb\|JCB Co]]（クロスライセンスのアクワイアラー）、[[card-issuers/credit-saison\|Credit Saison]] ライン、加えて [[payment-firms/gmo-payment-gateway\|GMO-PG]] / [[payment-firms/sb-payment-service\|SBPS]] / [[payment-firms/dg-financial-technology\|DGFT]] を通じた PSP 経由のアクワイアリング | 同じセット：[[card-issuers/mufg-nicos\|MUFG NICOS]]、[[card-issuers/smbc-card\|SMBC Card]]、[[card-issuers/jcb\|JCB Co]]、[[card-issuers/credit-saison\|Credit Saison]]、主要な PSP を通じて経路設定 | AMEX 直接の加盟店アクワイアラー（クローズドループのコア）；ローエンドの加盟店の広がりについては一部アクワイアラー提携 | JCB Co Ltd 直接（主たるアクワイアラー）；共同加盟店のための協力アクワイアラーとして [[card-issuers/mufg-nicos\|MUFG NICOS]]；PSP を通じてパートナー経由 |
+| **受入シェア（CPC / Visa-MC データ、参考）** | n.d.（ブランド別の受入シェアは CPC / METI により未公表）；定性的には日本で最大の国際ブランド受入 | 二番手に大きい国際ブランド受入；加盟店ロケーションのフットプリントで Visa に近い | 歴史的に V/MC/JCB より狭い受入；AMEX-JCB クロス受入 + Saison Persona の拡大以降は広がっている | プレミアムブランドの中で最強の国内日本受入；大規模加盟店ではほぼ普遍的；マイクロ加盟店では V/MC より弱い |
+| **インターチェンジ / スキーム手数料の構造** | ブランドが定める公表インターチェンジ・レート（日本標準、2023 ロードマップ以降開示）；明示的なアクワイアラー・スキーム手数料 | Visa と同じ構造；2023 ロードマップ以降、日本標準インターチェンジを公表；明示的なアクワイアラー・スキーム手数料 | クローズドループの加盟店ディスカウントレートは AMEX が二者間で設定（クローズドループのコアでは発行体 = アクワイアラーであるため、別個の発行体とのインターチェンジ分割なし）；パートナー発行カード（Saison など）は内部配分を持つ | JCB Co Ltd 直接の加盟店：インターチェンジ分割なし（発行体 = アクワイアラー）；パートナー発行カード：JCB アクワイアラーとパートナー発行体の間のインターチェンジを 2023-06 に開示（日本初の主要ブランド） |
+| **銀行 JV 構造（日本）** | [[card-issuers/mufg-nicos\|MUFG NICOS]]（MUFG をアンカーとする、V/MC のデュアルブランド）；アクワイアリングのための [[card-issuers/smbc-card\|SMBC Card]] との SMBC GMO PAYMENT JV | [[card-issuers/mufg-nicos\|MUFG NICOS]]（Visa とのデュアルブランド）；[[card-issuers/smbc-card\|SMBC Card]] との SMBC GMO PAYMENT JV | **AMEX-Saison Persona 提携**（[[card-issuers/credit-saison\|Credit Saison]] 発行体 JV、2000に遡る）；[[card-issuers/mufg-nicos\|MUFG]] コブランドカード | 株主構造は銀行 FG（MUFG、SMFG、みずほ）にまたがる；JCB Co Ltd 自身がブランド-銀行-発行体のハイブリッドとして機能；大半の主要カード会社とのパートナー発行体 JV |
+| **チャージバックに対する発行体側の責任** | 発行体がチャージバックリスクを負う；ブランド調停の階層が利用可能 | 発行体がチャージバックリスクを負う；ブランド調停の階層が利用可能 | AMEX 直接：クローズドループの内部処理；Saison 発行：Persona 条項の下で Saison が発行体チャージバックリスクを負う | JCB 直接：内部処理（発行体 = アクワイアラー）；パートナー発行：パートナーが発行体チャージバックリスクを負う |
+| **EMV 3-DS / J-CSC 6.0 義務の遵守（2025-03）** | 必須；Visa Secure（3-DS 2.x）が広く展開 | 必須；Mastercard Identity Check（3-DS 2.x）が広く展開 | 必須；AMEX SafeKey 3-DS が展開 | 必須；J/Secure 3-DS が展開；ブランドが3者ルールを通じて遵守を直接管理 |
+| **QR / コード決済のオーバーレイ** | **Visa Direct** プッシュ・トゥ・カードのレール；Visa カード上の Tap-to-Pay / NFC 非接触 | **Mastercard Send** プッシュ・トゥ・カード；Mastercard カード上の Tap-to-Pay / NFC 非接触 | AMEX 非接触 / NFC 標準；主要な QR オーバーレイ商品なし | JCB Tap（非接触）；一部市場における JCB Pay コード決済商品 |
+| **エージェント決済 / トークン化のロードマップ（2025-2026）** | エージェント開始決済のための **Visa Agentic Commerce** / **Visa Intelligent Commerce**；Visa Token Service ネットワークトークン | エージェント開始決済のための **Mastercard Agent Pay** / **Mastercard Agentic Tokens**；Mastercard Digital Enablement Service（MDES） | AMEX エージェント決済のロードマップは開発中；SafeKey がエージェントフローに適応 | JCB のロードマップは公的にあまり開示されていない；J/Secure がパートナー発行ポートフォリオでエージェントフローに適応 |
+| **インバウンド観光客の受入（日本における外国発行カード）** | 日本の加盟店の中で最大のインバウンド受入フットプリント | 二番手に大きいインバウンド受入フットプリント；Visa とほぼ同等 | 小規模加盟店では V/MC より狭い；ホテル / プレミアム / インバウンド向けリテールでは広い | 韓国 / 台湾 / 中国からの JCB カードは有意なインバウンドセグメント；JCB International がアクワイアラー側 |
+| **アウトバウンド観光客の受入（海外における日本発行カード）** | 普遍的なグローバル受入 | 普遍的なグローバル受入 | グローバルなプレミアム受入；海外のマイクロ加盟店では弱い | 韓国 / 台湾 / 香港 / 東南アジアで強い；Discover アライアンスが米国フットプリントを与える；欧州では弱い |
+| **国内の規制対話（METI / JFTC）** | 日本の代表事務所を通じて；グローバル HQ と調整 | 日本の代表事務所を通じて；グローバル HQ と調整 | 日本の代表事務所を通じて；米国 HQ と調整 | 直接の国内エンゲージメント（HQ が日本にある）；2023 手数料開示要請に最初に応答 |
+| **ブランド手数料は開示されているか？** | 日本標準インターチェンジを 2023-08 に公表（Payments Japan ロードマップ） | 日本標準インターチェンジを 2023-08 に公表（Payments Japan ロードマップ） | 個別には開示なし（クローズドループの加盟店ディスカウントは内部） | 発行体 / アクワイアラーの分割を 2023-06 に開示（日本の主要ブランドの中で初） |
 
-### Visa (Visa Worldwide Pte Ltd 日本支店)
+### Visa（Visa Worldwide Pte Ltd 日本支店）
 
-[[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] は Visa Inc. (NYSE: V) の日本における主要拠点である。**純粋な4者間スキーム**を運営する。Visa は日本でカードを直接発行せず、加盟店を直接獲得もしない。代わりに、発行と加盟店獲得を日本国内事業者へライセンスする。日本の主要イシュアーは、銀行 FG 系カードライン ([[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]])、独立系カード会社 ([[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]])、EC エコシステムカード ([[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]])、小売アンカー型カード ([[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/epos-card|Epos Card]])、交通アンカー型カード (JR East 経由の View Card) に広がる。アクワイアリングも同様に、銀行 FG 系アクワイアラと PSP ([[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]) に分散している。
+[[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] は Visa Inc.（NYSE: V）の主たる日本のプレゼンスである。**純粋な4者スキーム** を運営する：Visa は日本でカードの発行も加盟店のアクワイアリングも直接行わない — 代わりに日本国内のオペレーターに発行とアクワイアリングをライセンスする。主たる日本の発行体は、銀行 FG のカードライン（[[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/smbc-card|SMBC Card]]）、独立系カード会社（[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]]）、EC エコシステムのカード（[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]）、リテールをアンカーとするカード（[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/epos-card|Epos Card]]）、交通系をアンカーとするカード（JR 東日本を通じた View Card）にまたがる。アクワイアリングも同様に、銀行 FG のアクワイアラーと PSP（[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]）にまたがって分散している。
 
-Visa の日本での特徴的な位置づけは、**最大の国際ブランド受入範囲 + JCB とのデュアルブランドカードによる普遍的な発行カバレッジ**である。日本発行のクレジットカードの多くは、JCB 国内基盤の上に国際ブランドとして Visa または Mastercard を載せているため、Visa は直接発行を行わなくても、実質的に日本でほぼ普遍的な発行リーチを持つ。2025-2026  の **Visa Direct push-to-card** オーバーレイと **Visa Agentic Commerce** / **Visa Intelligent Commerce** の展開は、Visa を日本の代理人起点カード決済の主要インフラに位置づける。
+Visa の特徴的な日本のポジショニング：**最大の国際ブランド受入フットプリント + JCB とのデュアルブランドカードを通じた普遍的な発行体カバレッジ**。日本で発行される大半のクレジットカードは、JCB の国内ベースの上に国際ブランドとして Visa または Mastercard を載せており、Visa は直接発行しないにもかかわらず、実質的にほぼ普遍的な日本の発行リーチを得ている。2025-2026 の **Visa Direct プッシュ・トゥ・カード** のオーバーレイと **Visa Agentic Commerce** / **Visa Intelligent Commerce** のロールアウトは、Visa を日本におけるエージェント開始のカード決済の主たるインフラとして位置づける。
 
-### Mastercard (Mastercard Japan K.K.)
+### Mastercard（Mastercard Japan K.K.）
 
-[[payment-firms/mastercard-japan|Mastercard Japan]] は Mastercard Inc. (NYSE: MA) の日本における主要拠点である。スキーム種別 (4者間)、ライセンス済みイシュアーモデル、アクワイアラ関係の面で Visa と構造的に同一である。日本の主要イシュアーとアクワイアラは Visa とほぼ完全に重なる。[[card-issuers/mufg-nicos|MUFG NICOS]] (V/MC デュアルブランド発行)、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]] などは通常、両ブランドを発行する。
+[[payment-firms/mastercard-japan|Mastercard Japan]] は Mastercard Inc.（NYSE: MA）の主たる日本のプレゼンスである。スキーム種別（4者）、被免許の発行体モデル、アクワイアラー関係の点で、構造的に Visa と同一である。主たる日本の発行体とアクワイアラーは、Visa のセットとほぼ完全に重なる — [[card-issuers/mufg-nicos|MUFG NICOS]]（V/MC のデュアルブランド発行）、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/orico|Orico]] その他が通常両ブランドを発行する。
 
-Mastercard の日本での特徴的な位置づけは、**プレミアム寄りの提携ブランドへのやや強い傾き**と、**2025-2026  の Mastercard Send / Mastercard Agent Pay** オーバーレイである。Mastercard は歴史的に、日本の国際ブランド受入では Visa に次ぐ強い2番手として位置づけられてきたが、加盟店受入範囲レベルでは差は小さい。**Mastercard Digital Enablement Service (MDES)** のネットワークトークン化レイヤーが、Mastercard の agentic commerce ロードマップを支えており、Visa Token Service と機能的に並行している。
+Mastercard の特徴的な日本のポジショニング：**プレミアムセグメントのコブランドへのわずかな傾き** と **2025-2026 Mastercard Send / Mastercard Agent Pay** のオーバーレイ。Mastercard は歴史的に、日本の国際ブランド受入で Visa に次ぐ強力な2番手として位置づけられてきたが、その差は加盟店受入のフットプリントのレベルでは小さい。**Mastercard Digital Enablement Service（MDES）** のネットワークトークン化層は、Mastercard のエージェントコマースのロードマップを下支えし、機能的に Visa Token Service と並行する。
 
-### American Express (American Express International Inc. Japan)
+### American Express（American Express International Inc. Japan）
 
-[[payment-firms/american-express-international-japan|AMEX International Japan]] は日本で AMEX ブランドを**中核的には3者間クローズドループ・スキーム**として運営する。AMEX は自社のプレミアムカード (Platinum、Gold、Green など) を日本のカード保有者へ直接発行し、加盟店とも直接契約する。歴史的にこの狭いクローズドループは日本での受入範囲を制限したが、2つの構造的展開により AMEX のフットプリントは大きく拡大した。
+[[payment-firms/american-express-international-japan|AMEX International Japan]] は、そのコアにおいて **3者クローズドループ・スキーム** として日本で AMEX ブランドを運営する。AMEX は自社のプレミアムカード（Platinum、Gold、Green など）を日本のカード会員に直接発行し、受入のために加盟店と直接契約する。歴史的にこの狭いクローズドループは日本の受入の広がりを制限したが、2つの構造的な進展が AMEX のフットプリントを実質的に拡大した：
 
-1. **Credit Saison Persona JV** (saisoncard.co.jp/company/persona/): Credit Saison ([[card-issuers/credit-saison|Credit Saison]]) は、2000 からの **Persona** ブランド提携の下で、日本で AMEX ブランドカードを発行している。これにより AMEX は、クローズドループという評判を大きく上回る日本でのイシュアー・パートナーシップのフットプリントを得ている。日本の「AMEX カード」の多くが、実際には Persona JV の下で Saison が発行する AMEX ブランドカードであり、JCB のパートナーイシュアーモデルに構造的に近い提携イシュアーの仕組みであることを意味する。
-2. **AMEX-JCB 相互受入**: AMEX カードは、AMEX-JCB 相互受入提携を通じて、日本の JCB 獲得加盟店で受け入れられる。これにより AMEX は、それらの加盟店を自ら直接獲得せずに、JCB のより広い日本受入範囲を利用できる。
+1. **Credit Saison Persona JV**（saisoncard.co.jp/company/persona/）：Credit Saison（[[card-issuers/credit-saison|Credit Saison]]）は **Persona** ブランド提携の下で日本で AMEX ブランドのカードを発行し、2000に遡る。これは AMEX に、そのクローズドループの評判を実質的に上回る日本の発行体提携フットプリントを与え、多くの「日本の AMEX カード」が実際には Persona JV の下で Saison が発行する AMEX ブランドのカードであることを意味する — JCB のパートナー発行体モデルと構造的に類似する、パートナー発行体の取り決めである。
+2. **AMEX-JCB クロス受入**：AMEX カードは AMEX-JCB クロス受入アライアンスを通じて日本で JCB がアクワイアリングする加盟店で受け入れられ、AMEX がそれらの加盟店を直接アクワイアリングする必要なしに、実質的に AMEX に JCB のより広範な日本の受入フットプリントの利用を与える。
 
-AMEX の日本での特徴的な位置づけは、**クローズドループのプレミアム中核 + Persona パートナー発行 + JCB 相互受入**である。その結果、AMEX は多くの他市場における AMEX スキームより、日本でかなり広いフットプリントを持つ3者間スキームになっている。AMEX の agentic commerce ロードマップ (SafeKey 適応) は、Visa / Mastercard の公開情報に比べて開発・開示の段階が早い。
+AMEX の特徴的な日本のポジショニング：**クローズドループのプレミアムなコア + Persona のパートナー発行 + JCB のクロス受入**。その結果は、AMEX スキームが多くの他の市場で持つよりも、有意に広範な日本のフットプリントを持つ3者スキームである。AMEX のエージェントコマースのロードマップ（SafeKey 適応）は、Visa / Mastercard の公的側の開示よりも早期の開発段階にある。
 
-### JCB (JCB Co Ltd + JCB International Co Ltd)
+### JCB（JCB Co Ltd + JCB International Co Ltd）
 
-JCB は、**ハイブリッドなイシュアーライセンス層を持つ3者間ブランドモデル**を運営しており、詳細は [[payments/jcb-three-party-operating-model|JCB three-party operating model]] で扱う。[[card-issuers/jcb|JCB Co Ltd]] (日本国内ブランド + 主要アクワイアラ + イシュアー + イシュアーライセンサー) と [[payment-firms/jcb-international|JCB International]] (国際アクワイアラ提携 + クロスボーダー精算) の法人分割は、JCB の事業モデルの基礎である。日本国内の約 30 社のパートナーイシュアー・フットプリント (MUFG NICOS、AEON、Rakuten Card、Saison、JACCS、Orico、JR View、地域銀行、Lifecard など) により、JCB は AMEX の Persona アンカー型パートナー発行より大きな日本のイシュアーリーチを持つ。
+JCB は **ハイブリッドな発行体ライセンス層を持つ3者ブランドモデル** を運営する — [[payments/jcb-three-party-operating-model|JCB three-party operating model]] で深く扱われる。[[card-issuers/jcb|JCB Co Ltd]]（日本国内のブランド + 主たるアクワイアラー + 発行体 + 発行体ライセンサー）と [[payment-firms/jcb-international|JCB International]]（国際的なアクワイアラー提携 + クロスボーダー決済）の間の企業上の分割は、JCB のオペレーションモデルの基礎である。日本における ~30 のパートナー発行体フットプリント（MUFG NICOS、AEON、Rakuten Card、Saison、JACCS、Orico、JR View、地方銀行、Lifecard など）は、JCB に AMEX の Persona をアンカーとするパートナー発行よりも有意に大きい日本の発行体リーチを与える。
 
-JCB の特徴的な日本での位置づけは、**日本発の唯一の国際ブランド**、強い国内プレミアム受入、米国受入のための **Discover Global Network 提携**、韓国 / 台湾 / 東南アジアでの地域アクワイアラ提携である。JCB は、日本の大手ブランドとして初めてイシュアー / アクワイアラ手数料配分率を公表した (2023-06-01 METI / JFTC 共同リリース)。これは3者間モデルの下で、JCB が加盟店手数料分割の両端を管理していることを反映している。
+JCB の特徴的な日本のポジショニング：**唯一の国内日本の国際ブランド**、プレミアムな国内受入、米国受入のための **Discover Global Network アライアンス**、韓国 / 台湾 / 東南アジアにおける地域のアクワイアラー提携。JCB は、その発行体 / アクワイアラーの手数料配分レートを公的に開示した最初の主要な日本ブランドであった（2023-06-01 METI / JFTC 共同リリース）。これは、3者モデルの下で JCB が加盟店手数料の分割の両端を管理することを反映している。
 
-## イシュアー / アクワイアラ横断保有マトリクス
+## 発行体 / アクワイアラーのクロスオーナーシップ・マトリクス
 
-日本の主要カードイシュアーの多くは、複数ブランドを発行している。この横断保有パターンは、日本のイシュアー競争が**ブランドで分断されるのではなく、ブランド重複型**である理由を理解するうえで構造的に重要である。
+大半の主要な日本のカード発行体は複数のブランドを発行する。クロスオーナーシップのパターンは、日本における発行体競争が **ブランドでセグメント化されているのではなく、ブランドで重なっている** 理由を理解するために構造的に重要である：
 
-| イシュアー | Visa 発行 | Mastercard 発行 | AMEX 発行 | JCB 発行 | 注記 |
+| 発行体 | Visa を発行？ | Mastercard を発行？ | AMEX を発行？ | JCB を発行？ | 備考 |
 |---|---|---|---|---|---|
-| [[card-issuers/mufg-nicos\|MUFG NICOS]] | あり (アンカー) | あり (アンカー) | あり (一部提携) | あり (アンカーパートナー) | デュアル / トリプルブランドカードが一般的 |
-| [[card-issuers/smbc-card\|SMBC Card]] | あり (アンカー) | あり (アンカー) | あり (一部提携) | あり (一部) | SMBC Olive カードはトリプルブランド |
-| [[card-issuers/credit-saison\|Credit Saison]] | あり | あり | あり (Persona JV) | あり | 4ブランドのイシュアー・フットプリント |
-| [[card-issuers/rakuten-card\|Rakuten Card]] | あり | あり | あり (Rakuten Premium Card) | あり | 消費者基盤上の4ブランド |
-| [[card-issuers/aeon-financial-service\|AEON Financial Service]] | あり | あり | あり (一部) | あり (アンカーパートナー) | AEON CARD Select の複数ブランド |
-| [[card-issuers/jaccs\|JACCS]] | あり | あり | あり (一部) | あり | 複数ブランド提携カード |
-| [[card-issuers/orico\|Orico]] | あり | あり | あり (一部) | あり | 複数ブランド提携カード |
-| [[card-issuers/epos-card\|Epos Card]] | あり (アンカー) | — | — | — | Visa 単一ブランド提携カード |
-| [[card-issuers/paypay-card\|PayPay Card]] | あり (アンカー) | あり | — | あり | PayPay アンカー型イシュアー |
-| View Card (JR East) | あり | あり | — | あり (VIEW JCB) | JR チャネルカード |
+| [[card-issuers/mufg-nicos\|MUFG NICOS]] | あり（アンカー） | あり（アンカー） | あり（一部コブランド） | あり（アンカーパートナー） | デュアル / トリプルブランドのカードが一般的 |
+| [[card-issuers/smbc-card\|SMBC Card]] | あり（アンカー） | あり（アンカー） | あり（一部コブランド） | あり（一部） | トリプルブランドの SMBC Olive カード |
+| [[card-issuers/credit-saison\|Credit Saison]] | あり | あり | あり（Persona JV） | あり | クアッドブランドの発行体フットプリント |
+| [[card-issuers/rakuten-card\|Rakuten Card]] | あり | あり | あり（Rakuten Premium Card） | あり | 消費者ベースでのクアッドブランド |
+| [[card-issuers/aeon-financial-service\|AEON Financial Service]] | あり | あり | あり（一部） | あり（アンカーパートナー） | AEON CARD Select のマルチブランド |
+| [[card-issuers/jaccs\|JACCS]] | あり | あり | あり（一部） | あり | マルチブランドのコブランド |
+| [[card-issuers/orico\|Orico]] | あり | あり | あり（一部） | あり | マルチブランドのコブランド |
+| [[card-issuers/epos-card\|Epos Card]] | あり（アンカー） | — | — | — | Visa モノブランドのコブランド |
+| [[card-issuers/paypay-card\|PayPay Card]] | あり（アンカー） | あり | — | あり | PayPay をアンカーとする発行体 |
+| View Card（JR 東日本） | あり | あり | — | あり（VIEW JCB） | JR チャネルのカード |
 
-このパターンは、**消費者・イシュアーレベルでは、ブランド選択が通常、イシュアー間の競争選択ではなく商品ライン上の選択である**ことを示す。消費者が MUFG-NICOS カードを選ぶとき、Visa、Mastercard、JCB は同じイシュアーのブランド変種であり、異なるイシュアー間の選択ではない。
+パターン：**消費者-発行体のレベルでは、ブランドの選択は通常、発行体間の競争上の選択ではなく、商品ラインの決定である**。MUFG-NICOS のカードの間で選ぶ消費者は、異なる発行体の間の選択としてではなく、同じ発行体のブランドのバリアントとして Visa か Mastercard か JCB を選ぶ。
 
-## 日本加盟店での受入シェア (参考)
+## 日本の加盟店における受入シェア（参考）
 
-Cashless Promotion Council と METI の公開データは、このセクションが本来必要とする精度でブランド別受入シェアを継続的に分解していない。権威あるブランド別シェア数値が公表されていないため、下表のシェア特性欄は `n.d.` (データ未公開) とし、定性的な受入範囲の観察のみを残す。
+公的な Cashless Promotion Council と METI のデータは、このセクションが理想的に要求する精度でブランド別の受入シェアを一貫して内訳していない。権威あるブランド別シェアの数値が公表されていないため、以下のシェア特徴づけの列は `n.d.`（データ未公開）とマークされる；定性的な受入の広がりの観察のみが保持される。
 
-| ブランド | 日本加盟店での受入範囲 | 参考シェア特性 | 注記 |
+| ブランド | 受入の広がり（日本の加盟店） | 参考的なシェアの特徴づけ | 備考 |
 |---|---|---|---|
-| Visa | 最大の国際ブランド・フットプリント。チェーン加盟店とオンラインでほぼ普遍的 | n.d. (ブランド別シェア未公表) | ブランド受入では普遍的 |
-| Mastercard | チェーン加盟店とオンラインで Visa にほぼ並ぶ | n.d. (ブランド別シェア未公表) | ブランド受入では普遍的 |
-| AMEX | マイクロ加盟店では狭い。JCB 相互受入により広がる | n.d. (ブランド別シェア未公表) | プレミアム寄りの受入 |
-| JCB | 最大の国内ブランド・フットプリント。大手加盟店で強く、主要小売では普遍的 | n.d. (ブランド別シェア未公表) | 国内主導の受入 |
+| Visa | 最大の国際ブランドのフットプリント；チェーン加盟店およびオンラインでほぼ普遍的 | n.d.（ブランド別シェアは未公表） | ブランド受入で普遍的 |
+| Mastercard | チェーン加盟店およびオンラインで Visa とほぼ同等 | n.d.（ブランド別シェアは未公表） | ブランド受入で普遍的 |
+| AMEX | マイクロ加盟店では狭い；JCB クロス受入を通じて広い | n.d.（ブランド別シェアは未公表） | プレミアムに傾いた受入 |
+| JCB | 最大の国内ブランドのフットプリント；大規模加盟店で強い；主要小売で普遍的 | n.d.（ブランド別シェアは未公表） | 国内をリードする受入 |
 
-検証可能なデータソースは、METI 2025  キャッシュレスデータリリース (https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html)、Cashless Promotion Council のコード決済調査 (https://paymentsjapan.or.jp/category/publications/)、Japan Credit Association (https://www.j-credit.or.jp/) の業界統計である。
+検証可能なデータソース：METI 2025 キャッシュレスデータリリース（https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html）、Cashless Promotion Council のコード決済調査（https://paymentsjapan.or.jp/category/publications/）、日本クレジット協会（https://www.j-credit.or.jp/）の業界統計。
 
-## QR / コード決済オーバーレイ戦略比較
+## QR / コード決済のオーバーレイ戦略の比較
 
-日本でカード決済と並んで広がった QR / コード決済レーン ([[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] で扱う) に4ブランドが参加するか、どう参加するかは大きく異なる。
+4ブランドは、日本でカード決済と並んで台頭した QR / コード決済レーン（[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] で扱われる）に参加するかどうか、およびどのように参加するかについて、有意に分岐する：
 
-| ブランド | Push-to-card / 即時決済商品 | コード決済の直接商品 | ウォレット発行カードの経済性 |
+| ブランド | プッシュ・トゥ・カード / 即時決済の商品 | コード決済の直接商品 | ウォレット発行カードの経済性 |
 |---|---|---|---|
-| Visa | **Visa Direct** (push-to-card、個人間、企業から消費者、クロスボーダー) | 直接商品なし。Visa カードは PayPay / Rakuten / 各ウォレットの資金源として利用される | 普遍的 — 日本の多くのウォレットが Visa カードチャージを受け入れる |
-| Mastercard | **Mastercard Send** (Visa Direct と機能的に並行) | 直接商品なし。Mastercard カードは日本のウォレットの資金源として利用される | 普遍的 — 日本の多くのウォレットが Mastercard カードチャージを受け入れる |
-| AMEX | AMEX Send (push-to-card、日本でのフットプリントはより限定的) | 直接商品なし。AMEX カードを受け入れる日本のウォレットは V/MC より限定的 | 狭い — MDR 経済性により AMEX カードチャージを受け入れる日本のウォレットは少ない |
-| JCB | 一部市場の J-RPay / 国内オーバーレイ商品 | 限定的。一部市場に JCB ブランドのウォレット | 普遍的 — 日本の多くのウォレットが JCB カードチャージを受け入れる |
+| Visa | **Visa Direct**（プッシュ・トゥ・カード；個人間、企業対消費者、クロスボーダー） | 直接はなし；Visa カードは PayPay / Rakuten / 各 ウォレットによって資金供給元として消費される | 普遍的 — 日本の大半のウォレットが Visa カードの資金供給を受け入れる |
+| Mastercard | **Mastercard Send**（機能的に Visa Direct と並行） | 直接はなし；Mastercard カードは日本のウォレットによって資金供給元として消費される | 普遍的 — 日本の大半のウォレットが Mastercard カードの資金供給を受け入れる |
+| AMEX | AMEX Send（プッシュ・トゥ・カード；より限定的な日本のフットプリント） | 直接はなし；AMEX カードが日本のウォレットによって消費されることは V/MC より限定的 | 狭い — MDR の経済性のため AMEX カードの資金供給を受け入れる日本のウォレットは少ない |
+| JCB | 一部市場における J-RPay / 国内オーバーレイ商品 | 限定的；一部市場における JCB ブランドのウォレット | 普遍的 — 日本の大半のウォレットが JCB カードの資金供給を受け入れる |
 
-構造的には、**Visa Direct と Mastercard Send が、主要なグローバル push-to-card レール**であり、日本のウォレットや送金商品はこれらへのルーティングを増やしている。AMEX Send は機能的に類似するが、日本でのフットプリントは狭い。JCB は同規模の直接競合 push-to-card 商品を構築しておらず、JCB の国内日本フォーカスを反映している。
+構造的なパターン：**Visa Direct と Mastercard Send は、日本のウォレットと送金商品がますます経路設定する2つの主たるグローバルなプッシュ・トゥ・カードのレールである**。AMEX Send は機能的に類似するが、より狭い日本のフットプリントを持つ。JCB は同じ規模で直接競合するプッシュ・トゥ・カードの商品を構築しておらず、JCB の国内日本へのフォーカスを反映している。
 
 ## エージェント決済オーバーレイのロードマップ比較
 
-2025-2026  に出現した AI エージェント起点コマース (決済側では [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] で扱う) は、4ブランドが自社のトークン化 / 認証 / 承認インフラを agentic payments の標準レールとして位置づけるための並行競争を生んでいる。
+AI エージェント開始のコマース（決済側で [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] で扱われる）の 2025-2026 台頭は、自社のトークン化 / 認証 / 認可のインフラをエージェント決済の標準レールとして位置づけるための、4ブランド間の並行レースを生み出す：
 
-| ブランド | Agentic-pay 商品 / フレームワーク | トークン化レイヤー | 認証の適応 |
+| ブランド | エージェント決済の商品 / フレームワーク | トークン化層 | 認証の適応 |
 |---|---|---|---|
-| Visa | **Visa Intelligent Commerce** / **Visa Agentic Commerce** | Visa Token Service (ネットワークトークン、単回利用トークン) | Visa Secure (3-DS 2.x) を agent フロー向けの委任認証で拡張 |
-| Mastercard | **Mastercard Agent Pay** / **Mastercard Agentic Tokens** | Mastercard Digital Enablement Service (MDES) | Mastercard Identity Check (3-DS 2.x) を agent フロー向けの委任認証で拡張 |
-| AMEX | Agentic-pay ロードマップは公開情報が少ない | AMEX 内部トークン化 | AMEX SafeKey 3-DS を agent フロー向けに適応 |
-| JCB | Agentic-pay ロードマップは公開情報が少ない。パートナーイシュアー依存 | J/Secure トークン化 | J/Secure 3-DS を agent フロー向けに適応 |
+| Visa | **Visa Intelligent Commerce** / **Visa Agentic Commerce** | Visa Token Service（ネットワークトークン、ワンタイムトークン） | エージェントフローのための委任認証で拡張された Visa Secure（3-DS 2.x） |
+| Mastercard | **Mastercard Agent Pay** / **Mastercard Agentic Tokens** | Mastercard Digital Enablement Service（MDES） | エージェントフローのための委任認証で拡張された Mastercard Identity Check（3-DS 2.x） |
+| AMEX | エージェント決済のロードマップは公的にあまり開示されていない | AMEX 内部のトークン化 | エージェントフローに適応された AMEX SafeKey 3-DS |
+| JCB | エージェント決済のロードマップは公的にあまり開示されていない；パートナー発行体への依存 | J/Secure トークン化 | エージェントフローに適応された J/Secure 3-DS |
 
-Visa と Mastercard は agentic-pay インフラについて最も進んだ公開側の開示を持つ。AMEX と JCB はロードマップ開示の段階がより早い。日本国内の agentic commerce 市場が Visa / Mastercard のグローバルレールへ収れんするのか、それともウォレット・PSP レイヤーを通じた日本固有のオーバーレイを発展させるのかは未解決の問いである。[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] を参照。
+Visa と Mastercard は、エージェント決済インフラの最も先進的な公的側の開示を持つ；AMEX と JCB はより早期のロードマップ開示段階にある。日本国内のエージェントコマース市場が Visa / Mastercard のグローバルなレールに収束するのか、それともウォレット-PSP 層を通じて日本固有のオーバーレイを発展させるのかは、未解決の問いである — [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] を参照。
 
-## 銀行 JV・提携構造比較
+## 銀行 JV とパートナーシップ構造の比較
 
-4ブランドは、日本の銀行および銀行 FG と構造的に異なる関係を持つ。
+4ブランドは日本の銀行および銀行 FG と構造的に異なる関係を持つ：
 
-| ブランド | 銀行 FG アンカー関係 | JV / 提携構造 | 流通チャネル |
+| ブランド | 銀行 FG のアンカー関係 | JV / パートナーシップ構造 | 流通チャネル |
 |---|---|---|---|
-| Visa | MUFG ([[card-issuers/mufg-nicos\|MUFG NICOS]] 経由)、SMFG ([[card-issuers/smbc-card\|SMBC Card]] + SMBC GMO PAYMENT JV 経由) | ライセンス関係。資本 JV なし | 銀行 FG カードライン + 複数ブランド提携カード |
-| Mastercard | Visa と同じ銀行 FG アンカー | ライセンス関係。資本 JV なし | 銀行 FG カードライン + 複数ブランド提携カード |
-| AMEX | **Saison Persona JV** ([[card-issuers/credit-saison\|Credit Saison]]、2000 から) | 収益分配を伴うイシュアー提携 JV | Persona 発行カード + AMEX 直接発行プレミアムカード |
-| JCB | JCB Co Ltd の株主構造には MUFG、SMFG、Mizuho、Nippon Life、Tokio Marine、NTT Data が主要株主として含まれる | ブランド兼株主ハイブリッド | JCB 直接 + 30+ パートナーイシュアーカード |
+| Visa | MUFG（[[card-issuers/mufg-nicos\|MUFG NICOS]] を通じて）、SMFG（[[card-issuers/smbc-card\|SMBC Card]] + SMBC GMO PAYMENT JV を通じて） | ライセンス関係；エクイティ JV なし | 銀行 FG のカードライン + マルチブランドのコブランドカード |
+| Mastercard | Visa と同じ銀行 FG のアンカー | ライセンス関係；エクイティ JV なし | 銀行 FG のカードライン + マルチブランドのコブランドカード |
+| AMEX | **Saison Persona JV**（[[card-issuers/credit-saison\|Credit Saison]]、2000以降） | 収益分配を伴う発行体パートナーシップ JV | Persona 発行カード + AMEX 直接発行のプレミアム |
+| JCB | JCB Co Ltd の株主構造には MUFG、SMFG、みずほ、日本生命、東京海上、NTT データが有力株主として含まれる | ブランド-アンド-株主のハイブリッド | JCB 直接 + 30+ パートナー発行体のカード |
 
-**AMEX-Saison Persona** 提携と **JCB の株主構造**は、銀行関係の中で最も構造的に特徴的な取り決めである。AMEX は Persona の下で広い日本発行を Saison に依存することで、純粋なクローズドループからハイブリッドスキームへ実質的に転換している。JCB の銀行 FG 株主構造は、国際ブランドが再現していない日本の銀行セクターとの構造的整合を JCB に与えている。
+**AMEX-Saison Persona** 提携と **JCB の株主構造** は、最も構造的に特徴的な2つの銀行関係の取り決めである。AMEX の Persona の下での広範な日本の発行のための Saison への依存は、AMEX を純粋なクローズドループからハイブリッドスキームへと実質的に転換する；JCB の銀行 FG の株主保有は、国際ブランドが複製しない日本の銀行セクターとの構造的なアライメントを JCB に与える。
 
-## 手数料開示と JFTC 圧力の着地点
+## 手数料開示と JFTC の圧力の着地
 
-2022-04-08 の JFTC クレジットカード加盟店手数料報告書と、2023-06-01 の JCB 手数料開示に関する METI / JFTC 共同リリースは、日本のカードブランド事業経済性に対する重要な継続的規制圧力を示している。
+2022-04-08 JFTC のクレジットカード加盟店手数料報告書と、JCB の手数料開示に関する 2023-06-01 METI / JFTC 共同リリースは、日本のカードブランドのオペレーションの経済性に対する有意な進行中の規制圧力を表す：
 
-| ブランド | 手数料開示状況 (日本、2026-05) | JFTC との関係 |
+| ブランド | 手数料開示の状況（日本、2026-05） | JFTC エンゲージメント |
 |---|---|---|
-| Visa | 日本標準インターチェンジを 2023-08  に公表 (Payments Japan ロードマップ)。アクワイアラ別分割は未開示 | ライセンス関係により中央開示は限定される |
-| Mastercard | 日本標準インターチェンジを 2023-08  に公表 (Payments Japan ロードマップ)。アクワイアラ別分割は未開示 | ライセンス関係により中央開示は限定される |
-| AMEX | クローズドループ加盟店割引料率: 別個開示なし。Persona 側配分: 内部 | クローズドループにより取引ごとのインターチェンジに関する JFTC の射程は狭まる |
-| JCB | イシュアー / アクワイアラ手数料配分を 2023-06  に開示 (日本大手ブランド初) | 直接関与。開示の先行者 |
+| Visa | 日本標準インターチェンジを 2023-08 に公表（Payments Japan ロードマップ）；アクワイアラー別の分割は未開示 | ライセンス関係が中央の開示を制限する |
+| Mastercard | 日本標準インターチェンジを 2023-08 に公表（Payments Japan ロードマップ）；アクワイアラー別の分割は未開示 | ライセンス関係が中央の開示を制限する |
+| AMEX | クローズドループの加盟店ディスカウント：個別には未開示；Persona 側の配分：内部 | クローズドループが取引ごとのインターチェンジに対する JFTC のスコープを縮小する |
+| JCB | 発行体 / アクワイアラーの手数料配分の分割を 2023-06 に開示（日本の主要ブランドの中で初） | 直接のエンゲージメント；開示の先行者 |
 
-JCB が手数料開示で先行したことは、3者間モデルを反映している。JCB Co Ltd は手数料分割の両端を管理しているため単独で開示できるが、Visa と Mastercard は複数のライセンス済みアクワイアラとの調整が必要になる (構造的説明は [[payments/jcb-three-party-operating-model|JCB three-party operating model]] 参照)。
+JCB の手数料開示における先行者のポジションは、3者モデルを反映している：JCB Co Ltd は手数料の分割の両端を管理し、一方的に開示できるのに対し、Visa と Mastercard は複数の被免許のアクワイアラーにまたがって調整しなければならない（構造的な説明については [[payments/jcb-three-party-operating-model|JCB three-party operating model]] を参照）。
 
-## 他のマトリクスとの相互参照
+## 他のマトリクスとのクロスリファレンス
 
-- vs **[[payments/jcb-three-party-operating-model|JCB three-party operating model]]**: そのエントリは JCB の3者間アーキテクチャを深掘りする。本マトリクスは JCB をブランド横断文脈に置く。
-- vs **[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]**: そのエントリは役割分離フレームワークを定義する。本マトリクスは各ブランドがどの役割を結合または分離するかを名指しする。
-- vs **[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]**: そのマトリクスはカード vs コード vs A2A vs プリペイドをスキームクラスレベルで扱う。本マトリクスはカードクラスを4ブランド事業者に分解する。
-- vs **[[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]**: そのエントリはインターチェンジ / スキーム / アクワイアラ手数料構造を扱う。本マトリクスはブランド別手数料アーキテクチャを対応づける。
-- vs **[[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]]**: そのマトリクスは加盟店とブランドの間にある PSP / ゲートウェイ層を扱う。本マトリクスは PSP の上にあるブランド層を扱う。
-- vs **[[payments/japan-jcb-issuer-ecosystem-positioning-matrix|Japan JCB issuer ecosystem positioning matrix]]**: そのマトリクスは JCB パートナーイシュアー集合を分解する。本マトリクスはその周囲にブランド比較フレームを置く。
+- **[[payments/jcb-three-party-operating-model|JCB three-party operating model]]** vs：そのエントリは JCB の3者アーキテクチャを深掘りする；このマトリクスは JCB をクロスブランドの文脈に置く。
+- **[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]** vs：そのエントリは役割分離のフレームワークを確立する；このマトリクスはブランドを名指しし、各ブランドが役割をどう組み合わせるか・分離するかを示す。
+- **[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]** vs：そのマトリクスはスキームクラスのレベルでカード対コード対 A2A 対前払いを扱う；このマトリクスはカードクラスをその4ブランドのオペレーターに分解する。
+- **[[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]** vs：そのエントリはインターチェンジ / スキーム / アクワイアラー手数料の構造を扱う；このマトリクスはブランド固有の手数料アーキテクチャをマッピングする。
+- **[[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]]** vs：そのマトリクスは加盟店とブランドの間に位置する PSP / ゲートウェイ層を扱う；このマトリクスは PSP の上のブランド層を扱う。
+- **[[payments/japan-jcb-issuer-ecosystem-positioning-matrix|Japan JCB issuer ecosystem positioning matrix]]** vs：そのマトリクスは JCB のパートナー発行体のセットを分解する；このマトリクスはその周りにブランド比較のフレームを置く。
 
-## 関連項目
+## 関連
 
 - [[payments/INDEX]]
 - [[payments/jcb-three-party-operating-model]]
@@ -194,21 +195,21 @@ JCB が手数料開示で先行したことは、3者間モデルを反映して
 
 ## 出典
 
-- Visa Japan 企業サイト: https://www.visa.co.jp/
-- Visa Japan 概要ページ: https://www.visa.co.jp/about-visa.html
-- Mastercard Japan 企業サイト: https://www.mastercard.co.jp/
-- Mastercard Japan 概要ページ: https://www.mastercard.co.jp/ja-jp/business/about-mastercard.html
-- American Express Japan: https://www.americanexpress.com/jp/
-- American Express Japan 企業情報: https://www.americanexpress.com/ja-jp/company/
-- JCB グローバルサイト (日本語): https://www.global.jcb/ja/
-- JCB 事業領域 / ブランド: https://www.global.jcb/ja/about-us/business-area/brand/
-- JCB Japan: https://www.jcb.co.jp/
-- Credit Saison Persona 提携: https://www.saisoncard.co.jp/company/persona/
-- MUFG NICOS 企業情報: https://www.cr.mufg.jp/corporate/
-- JCB 手数料開示に関する METI 2023-06-01 リリース: https://www.meti.go.jp/press/2023/06/20230601003/20230601003.html
-- METI 2025  キャッシュレス決済比率リリース: https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
-- METI キャッシュレス政策ポータル: https://www.meti.go.jp/policy/mono_info_service/cashless/index.html
-- Payments Japan Association 2023  キャッシュレスロードマップ: https://paymentsjapan.or.jp/wp-content/uploads/2023/08/roadmap2023.pdf
-- Payments Japan Association 公表資料: https://paymentsjapan.or.jp/category/publications/
-- Japan Credit Association: https://www.j-credit.or.jp/
-- JFTC 2022-04-08 クレジットカード加盟店手数料報告書: https://www.jftc.go.jp/houdou/pressrelease/2022/apr/220408.html
+- Visa Japan コーポレートサイト：https://www.visa.co.jp/
+- Visa Japan について のページ：https://www.visa.co.jp/about-visa.html
+- Mastercard Japan コーポレートサイト：https://www.mastercard.co.jp/
+- Mastercard Japan について のページ：https://www.mastercard.co.jp/ja-jp/business/about-mastercard.html
+- American Express Japan：https://www.americanexpress.com/jp/
+- American Express Japan コーポレート：https://www.americanexpress.com/ja-jp/company/
+- JCB グローバルサイト（日本語）：https://www.global.jcb/ja/
+- JCB ビジネスエリア / ブランド：https://www.global.jcb/ja/about-us/business-area/brand/
+- JCB Japan：https://www.jcb.co.jp/
+- Credit Saison Persona 提携：https://www.saisoncard.co.jp/company/persona/
+- MUFG NICOS コーポレート：https://www.cr.mufg.jp/corporate/
+- METI 2023-06-01 の JCB 手数料開示に関するリリース：https://www.meti.go.jp/press/2023/06/20230601003/20230601003.html
+- METI 2025 キャッシュレス決済比率リリース：https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
+- METI キャッシュレス政策ポータル：https://www.meti.go.jp/policy/mono_info_service/cashless/index.html
+- Payments Japan Association 2023 キャッシュレス・ロードマップ：https://paymentsjapan.or.jp/wp-content/uploads/2023/08/roadmap2023.pdf
+- Payments Japan Association の刊行物：https://paymentsjapan.or.jp/category/publications/
+- 日本クレジット協会：https://www.j-credit.or.jp/
+- JFTC 2022-04-08 のクレジットカード加盟店手数料報告書：https://www.jftc.go.jp/houdou/pressrelease/2022/apr/220408.html

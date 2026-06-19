@@ -1,11 +1,11 @@
 ---
 source: regional-banks/suruga-bank
-source_hash: 20e63ffad4da2c85
+source_hash: 19cec5f52f7493c6
 lang: en
 status: machine
 fidelity: ok
 title: "Suruga Bank"
-translated_at: 2026-06-01T02:31:57.129Z
+translated_at: 2026-06-19T12:43:19.928Z
 ---
 # Suruga Bank
 
@@ -15,135 +15,135 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A midsize regional bank based in eastern Shizuoka Prefecture, around Numazu. It was **founded as Negata Bank in 1895 年 and has a 130 -year history**. From the 1990 年s to the 2010 年s it was highly regarded as an "honor student among regional banks" focused on personal loans and boasting high ROE, but its reputation changed completely after the **2018 年 fraudulent-loan case for the share-house project "Kabocha no Basha."** Document falsification and screening fraud were carried out organizationally in more than 1 兆円 of loans to individual investors, leading to an FSA business-improvement order and mass resignation of management. Since 2020 年, Suruga has been in a trust-recovery phase centered on a **capital and business alliance with [[megabanks/au-fh|ノジマ]]**. It structurally competes with [[regional-banks/shizuoka-fg]], the No. 1  bank in the prefecture. ^[extracted]
+A mid-sized regional bank based in eastern Shizuoka Prefecture (Numazu). **Founded as Negata Bank in 1895 年, with a history of 130  years**. From the 1990 年s to the 2010 年s it boasted high ROE as "the honor student of personal-loan-specialized regional banks", but its reputation changed completely with the **2018 年 fraudulent-lending scandal for the share-house "Kabocha no Basha"**. In over 1 兆円 of lending to individual investors, document falsification and screening fraud were carried out systematically, leading to an FSA business-improvement order and the en-masse resignation of the management. Since 2020 年 it has been in a trust-recovery phase centered on its **capital and business alliance with [[megabanks/au-fh|ノジマ]]**. It competes structurally with [[regional-banks/shizuoka-fg]], the in-prefecture No. 1 . ^[extracted]
 
 ## 1. Company overview
 
-**Official name**: Suruga Bank Ltd. ^[extracted]
+**Formal name**: Suruga Bank Ltd. ^[extracted]
 **English name**: Suruga Bank Ltd.
 **Securities code**: TSE PRIME 8358 ^[extracted]
-**Founded**: 1895-10-01, as the former Negata Bank in Sunto District, Shizuoka Prefecture ^[extracted]
-**Established / current entity**: 1912, renamed Suruga Bank
-**Head office**: 23 Toriyokocho, Numazu, Shizuoka Prefecture (Numazu head-office branch) ^[extracted]
-**Governance design**: Company with audit and supervisory committee
+**Founded**: 1895-10-01 (former Negata Bank as Suntō District, Shizuoka Prefecture) ^[extracted]
+**Established (current entity)**: 1912 (renamed Suruga Bank)
+**Head office**: 23 Toriyokocho, Numazu City, Shizuoka Prefecture (Numazu head-office banking department) ^[extracted]
+**Governance design**: Company with an audit and supervisory committee
 
-### Major shareholders (latest public base) ^[extracted]
+### Major shareholders (recent / public basis) ^[extracted]
 
-| Shareholder | Ratio (approx.) |
+| Shareholder | Ratio (approximate) |
 |---|---|
-| Nojima, electronics retailer listed on TSE PRIME 7419 | around ~18% |
-| Local corporations and customers in eastern Shizuoka Prefecture | Dispersed holdings |
-| Trust banks, trust accounts | Floating |
-| Individual shareholders | Relatively high, reflecting regional-bank characteristics |
+| Nojima (consumer-electronics retailer, TSE PRIME 7419) | ~18% or so |
+| Eastern Shizuoka Prefecture local corporates / clients | Dispersed holdings |
+| Trust banks (trust accounts) | Floating |
+| Individual shareholders | Relatively high ratio (regional-bank characteristic) |
 
-### Key timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1895-10-01 | Negata Bank established in Numazu / Sunto District |
-| 1912  | Renamed **Suruga Bank** in kanji form |
-| 1957  | Renamed **Suruga Bank** in katakana form |
-| 1990s-2010s | Built a **personal-loan-focused strategy**, high ROE, and an "honor student among regional banks" reputation |
-| Around 2007  | Full-scale share-house lending begins, creating the breeding ground for the later scandal |
-| **2018-01 to 04** | Smart Days, operator of the "Kabocha no Basha" share houses, fails and owner losses surface |
-| **2018-05** | **Share-house fraudulent-loan case surfaces through reporting** ★ |
-| 2018-09-07 | Third-party committee investigation report published, finding document falsification and organizational fraud |
-| **2018-10-05** | **FSA business-improvement order**, including 6 -month suspension of share-house-related investment-real-estate lending |
-| 2018-2019  | Management resigns en masse, many outside directors appointed, governance rebuilt |
-| 2019-2020  | Negotiations with share-house owners on debt relief and claim transfer, including DDS / principal reduction |
-| **2020-05** | **Capital and business alliance with Nojima, TSE PRIME 7419** ★ |
-| 2021-2022  | Expansion of "Suruga Bank in-store bank" locations inside Nojima stores |
-| 2023-2024  | Medium-term management-plan phase of "trust recovery and regional co-creation" |
+| 1895-10-01 | Negata Bank established (Numazu, Suntō District) |
+| 1912 | Renamed **Suruga Bank** |
+| 1957 | Renamed **Suruga Bank** (katakana notation) |
+| 1990s〜2010s | High ROE / "regional-bank honor student" reputation via the **personal-loan-specialized strategy** |
+| Around 2007 〜 | Full-scale lending for share houses (the breeding ground for the later scandal) |
+| **2018-01〜04** | Smart Days (the operator of "Kabocha no Basha") collapses / owner damage surfaces |
+| **2018-05** | **The share-house fraudulent-lending scandal surfaces through reporting** ★ |
+| 2018-09-07 | Third-party committee investigation report published (document falsification / systematic fraud recognized) |
+| **2018-10-05** | **FSA business-improvement order** (share-house-related investment-real-estate lending suspended for 6  months) |
+| 2018-2019 | En-masse resignation of management, mass appointment of outside directors, governance reconstruction |
+| 2019-2020 | Debt-relief / debt-assignment negotiations with share-house owners (DDS / principal reduction) |
+| **2020-05** | **Capital and business alliance with Nojima (TSE PRIME 7419)** ★ |
+| 2021-2022 | Expansion of the "Suruga Bank in-store bank" within Nojima stores |
+| 2023-2024 | Medium-term management plan "Trust Recovery / Regional Co-creation" phase |
 
 ## 2. Business segment map
 
-| Segment | Content | Features |
+| Segment | Content | Characteristics |
 |---|---|---|
-| Personal loans, former mainstay | Housing loans, investment real estate, card loans | High-ROE engine before the scandal -> sharply reduced |
-| Individual deposits | Eastern Shizuoka and western Kanagawa | Local base, relatively thick retired generation |
-| Corporate lending | Midsize and SME companies | Previously weak area, post-scandal growth axis |
-| Investment trusts / insurance sales | Asset formation for individuals | Retail fee business |
-| In-store bank with Nojima alliance | In-store ATMs and account counters inside Nojima stores | Core of the alliance from 2020 onward |
-| Regional collaboration | Municipal and academic / industry collaboration in eastern Shizuoka and western Kanagawa | Public-sector area in the trust-recovery phase |
+| Personal loans (former mainstay) | Mortgages / investment real estate / card loans | The high-ROE engine before the scandal → significantly reduced |
+| Individual deposits | Eastern Shizuoka Prefecture / western Kanagawa Prefecture | Local rootedness, relatively heavy retiree generation |
+| Corporate lending | Mid-sized / small and medium enterprises | A formerly weak area, the post-scandal growth axis |
+| Investment-trust / insurance sales | Asset formation for individuals | Retail fee business |
+| Nojima-partnered in-store bank | ATMs / account windows within Nojima stores | The core of the 2020〜 alliance |
+| Regional collaboration | Eastern Shizuoka Prefecture / western Kanagawa municipalities / industry-academia collaboration | The public domain of the trust-recovery phase |
 
-### Strategy in the trust-recovery phase
+### Strategy of the trust-recovery phase
 
-- **Move away from personal-loan concentration**: shift from investment-real-estate lending toward corporate and regional collaboration.
-- **Capital and business alliance with Nojima** (2020-05): bank counters inside electronics-retailer stores and expanded youth touchpoints.
-- **Strengthened compliance and governance**: reflecting third-party committee findings, expanded outside directors and audit functions.
-- **Digital investment**: online-bank functions and mobile accounts.
+- **Breaking away from personal-loan specialization**: shifting the footing from investment-real-estate lending → to corporate / regional collaboration
+- **Capital and business alliance with Nojima** (2020-05): bank windows inside consumer-electronics retail stores, expanding contact points with the younger generation
+- **Strengthening compliance / governance**: reflecting the third-party committee's findings, expanding outside-director / audit functions
+- **Digital investment**: online-banking functions / mobile accounts
 
-### Competitive relationships
+### Competitive relations
 
-- **Inside the prefecture**: [[regional-banks/shizuoka-fg]] / [[regional-banks/shizuoka-bank]] are No. 1 across the prefecture. [[regional-banks/shimizu-bank]] and [[regional-banks/shizuoka-chuo-bank]] are separate local-bank peers; Suruga is weighted toward eastern Shizuoka.
-- **Out-of-prefecture expansion**: branches in western Kanagawa and western Tokyo put it in direct competition with large regional banks, megabanks, and [[regional-banks/concordia-fg]].
-- **Personal-loan residue**: as real-estate lending contracts, younger customers leak to online banks such as [[megabanks/paypay-fg]] / [[megabanks/au-fh]] / [[megabanks/sony-fg]].
+- **Within the prefecture**: [[regional-banks/shizuoka-fg]] / [[regional-banks/shizuoka-bank]] are No. 1 across the whole prefecture. [[regional-banks/shimizu-bank]] and [[regional-banks/shizuoka-chuo-bank]] are separate local-bank peers; Suruga is concentrated in the eastern part of the prefecture
+- **Out-of-prefecture expansion**: it also has branches in western Kanagawa Prefecture / western Tokyo → direct competition with major regional banks / megabanks / [[regional-banks/concordia-fg]]
+- **Personal-loan residue**: in the phase of contracting real-estate lending, the younger generation flows out to online banks such as [[megabanks/paypay-fg]] / [[megabanks/au-fh]] / [[megabanks/sony-fg]]
 
 ### Alliance / acquisition strategy
 
-- **Nojima capital and business alliance** (2020-05): Nojima invested around 18%, combining in-store banking with digital.
-- **Regional collaboration**: regional-revitalization agreements with Shizuoka Prefecture, Numazu City, and municipalities in western Kanagawa.
-- **Megabank relationships**: long-standing personnel exchange with city banks, strengthened acceptance of outside personnel after the scandal.
+- **Nojima capital and business alliance** (2020-05): Nojima invests about 18%, in-store bank + digital fusion
+- **Regional collaboration**: regional-revitalization agreements with Shizuoka Prefecture / Numazu City / western Kanagawa municipalities
+- **Relationship with megabanks**: longstanding personnel exchange with city banks, strengthened personnel acceptance after the scandal
 
-## 4. Regulation / policy
+## 4. Regulation and policy
 
-- **Primary supervisors**: Financial Services Agency (FSA) + Kanto Local Finance Bureau
+- **Supervisor**: Financial Services Agency (FSA) + Kanto Local Finance Bureau
 - **2018-10-05 business-improvement order** ^[extracted]:
-  - 6 -month suspension of share-house-related investment-real-estate lending
-  - Clarification of management responsibility and fundamental review of governance
-  - Customer protection, including creation of a response scheme for affected owners
-- **Third-party committee report (2018-09-07)**: found organizational conduct including document falsification, forged withholding-tax certificates, rent-roll falsification, "show money" in passbooks, and skipped loan review.
-- **G-SIB**: Not applicable, regional-bank scale
-- **Current policy issues**:
-  - BOJ policy-rate normalization -> improved deposit-loan margins, a tailwind for regional banks generally
-  - Regional-bank consolidation pressure, led by the FSA; Suruga follows an independent route centered on Nojima
-  - Ongoing monitoring of progress in trust recovery
+  - Share-house-related investment-real-estate lending suspended for 6  months
+  - Clarification of management responsibility, fundamental review of governance
+  - Customer protection (building a response scheme for damaged owners)
+- **Third-party committee report (2018-09-07)**: recognized that document falsification, forgery of withholding slips, falsification of rent rolls, "show money" in deposit passbooks, and screening skipping were carried out systematically
+- **G-SIB**: Not applicable (regional-bank scale)
+- **Recent policy topics**:
+  - BOJ policy-rate normalization → deposit-loan margin improvement (a tailwind for regional banks in general)
+  - Regional-bank restructuring pressure (FSA-led regional-bank consolidation) — Suruga takes an independent path / the Nojima axis
+  - Continued monitoring of trust-recovery progress
 
-## 5. Key incident: share-house "Kabocha no Basha" fraudulent lending ★
+## 5. Major incident: the share-house "Kabocha no Basha" fraudulent lending ★
 
-An organizational fraud case that shook the industry. It later triggered regional-bank governance debate and tighter supervision of investment-real-estate lending.
+A systematic fraud incident that shook the industry. A later trigger for the regional-bank governance debate / the strengthening of investment-real-estate-lending regulation.
 
-### Case structure ^[extracted]
+### Structure of the incident ^[extracted]
 
-- **Stage**: Smart Days, the share-house operator behind the women-only share-house brand "Kabocha no Basha."
-- **Scheme**: Smart Days sold properties to individual investors -> Suruga Bank provided large loans, more than 1 億円 across 1  properties -> Smart Days guaranteed rent through sublease contracts.
-- **2018-01 to 04**: Smart Days stopped rent payments -> collapsed -> about 700 名 owners / individual investors became unable to repay.
-- **Organizational fraud**:
-  - Falsification of deposit-balance certificates and withholding-tax certificates, disguising annual income
-  - Rent-roll falsification
-  - Disguising own funds through "show money"
-  - Skipping loan review to meet sales targets
-  - Found to be not merely isolated conduct by some branches or salespeople, but **branch-wide conduct and head-office acquiescence**
-- **Total loan amount**: more than about 1 兆円, across investment real estate overall; share houses were a portion
-- **Damage**: about 700 名 owners, with average loans over 1 億円
+- **Setting**: share-house operator Smart Days (the women's-only share-house "Kabocha no Basha" brand)
+- **Scheme**: Smart Days sold properties to individual investors → Suruga Bank made high-amount loans (over 1 億円 per 1  property) → Smart Days provided rent guarantees via sublease
+- **2018-01〜04**: Smart Days stopped rent payments → management collapse → about 700 名 of owners (individual investors) unable to repay
+- **The systematic nature of the fraud**:
+  - Falsification of deposit-balance certificates / withholding slips (income falsification)
+  - Falsification of rent rolls (rent ledgers)
+  - Falsification of own funds with "show money"
+  - Screening skipping to meet sales quotas
+  - Recognized not as the standalone act of some branches / sales personnel but as **branch-wide / head-office tacit approval**
+- **Total lending amount**: about over 1 兆円 (investment real estate as a whole, share houses being a part of it)
+- **Damage**: about 700 名 owners, average loan over 1 億円
 
-### Resolution path ^[extracted]
+### Resolution developments ^[extracted]
 
-- 2018-09: third-party committee report -> organizational fraud recognized
+- 2018-09: Third-party committee report → systematic fraud recognized
 - 2018-10: FSA business-improvement order
-- 2018-2019: management resigned en masse, including the president and senior managing executives; many outside directors appointed
-- 2019-2020: debt-relief negotiations with affected owners, including claim transfer and principal reduction
-- Litigation: some criminal complaints and civil lawsuits continued
+- 2018-2019: En-masse resignation of management (president, executive director, and below), mass appointment of outside directors
+- 2019-2020: Debt-relief negotiations with damaged owners (debt assignment + principal reduction)
+- Litigation: some criminal complaints / civil lawsuits ongoing
 
-### Industry impact
+### Impact on the industry
 
-- **Tighter supervision of investment-real-estate lending overall**: the FSA also reviewed real-estate lending at other regional banks and megabanks.
-- **Governance debate**: reconsideration of outside-director and audit functions at regional banks.
-- **Limits of the personal-loan-focused model**: the risks behind high ROE became visible, prompting debate on regional-bank business-model redesign.
+- **Strengthening of supervision over investment-real-estate lending in general**: the FSA conducted a full inspection of real-estate lending at other regional banks / megabanks as well
+- **Governance debate**: reconsidering the proper form of regional banks' outside-director / audit functions
+- **The limits of the personal-loan-specialized model**: the risk behind high ROE surfaced, prompting a debate on reviewing the regional-bank business model
 
 ## Related
 
 - [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
-- [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/aozora-bank]], former personal-loan-focused peers
+- [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/aozora-bank]] (former personal-loan-specialized type)
 
 ## Sources
 
-- **Wikipedia: Suruga Bank** (https://ja.wikipedia.org/wiki/スルガ銀行, extracted 2026-05-19)
-- Suruga Bank securities report for the 213 th period (2025-03  period)
-- FSA business-improvement order, published 2018-10-05
-- Third-party committee investigation report, published 2018-09-07
+- **Wikipedia: Suruga Bank** (https://ja.wikipedia.org/wiki/スルガ銀行, 2026-05-19 extraction)
+- Suruga Bank 213 th (2025-03  period) securities report
+- FSA business-improvement order (published 2018-10-05)
+- Third-party committee investigation report (published 2018-09-07)
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (v1.0 , based on Wikipedia + public IR / FSA releases, 2026-05-19). Share-house-case material is based on the public third-party committee report and FSA business-improvement order. Financial figures are approximate / reference values; details require the latest securities report. Damage scale and litigation outcomes may change by timing.
+> [!info] Verification status
+> confidence: **likely** (based on v1.0  Wikipedia + public IR / FSA announcements 2026-05-19). Items related to the share-house incident are based on the public third-party committee report / FSA business-improvement order. Financial figures are approximate / reference values; for details refer to the latest securities report. The scale of damage / litigation outcome is subject to change over time.

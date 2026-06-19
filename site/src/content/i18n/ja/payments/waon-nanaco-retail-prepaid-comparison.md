@@ -1,143 +1,144 @@
 ---
 source: payments/waon-nanaco-retail-prepaid-comparison
-source_hash: 23c09c2a5fc481f3
+source_hash: 591f52e7b4b7a270
 lang: ja
 status: machine
 fidelity: ok
-title: "WAON対nanaco: 小売系プリペイド電子マネー比較"
-translated_at: 2026-06-03T00:53:08.253Z
+title: "WAON 対 nanaco：小売プリペイド電子マネー比較"
+translated_at: 2026-06-19T06:09:18.169Z
 ---
-# WAON対nanaco: 小売系プリペイド電子マネー比較
 
-## ウィキ上の位置づけ
+# WAON 対 nanaco：小売プリペイド電子マネー比較
 
-この項目は、[[payments/INDEX|payments index]]配下のAEON対Seven & iの小売系プリペイド比較ページである。FSA登録の第三者型前払式支払手段の視点では[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]、4類型スキーム比較では[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]と組み合わせる。鉄道を軸にしたピアは[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]]、プラットフォーム非依存のFeliCaプリペイド代替は[[payment-firms/rakuten-edy|Rakuten Edy]]、コンビニ系コード決済の対応物は[[payments/famipay-valucreate-strategy|FamiPay]]と比較する。グループ軸の企業文脈は[[retail/aeon-group|AEON Group]]と[[retail/seven-and-i-hd|Seven & i HD]]、決済運営者のアンカーは[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/aeon-bank|AEON Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]]である。
+## Wiki ルート
 
-## 要約
+このエントリは [[payments/INDEX|payments index]] の配下にあり、FSA 登録の第三者型プリペイドの視点については [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と、4 クラスのスキーム比較については [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] とペアになる、イオン対セブン＆アイの小売プリペイド比較ページである。レール（鉄道）をアンカーとするピアについては [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]] と、プラットフォーム非依存の FeliCa プリペイドの代替については [[payment-firms/rakuten-edy|Rakuten Edy]] と、コンビニエンスストアのコード決済のカウンターパートについては [[payments/famipay-valucreate-strategy|FamiPay]] と比較すること。グループアンカーの企業文脈は [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]]；決済オペレーターのアンカーは [[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/aeon-bank|AEON Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]] である。
 
-**WAON**（AEONが運営し、AEONモール／スーパー／コンビニ網を軸にする）と**nanaco**（Seven Card Serviceが運営し、Seven & i GroupのコンビニとIto-Yokadoスーパーを軸にする）は、日本の主要な**小売系プリペイド電子マネー・ブランド**である。どちらもFeliCa（[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]]と同じ技術スタック）で稼働し、どちらもFSAの下で第三者型前払式支払手段として登録され、どちらも親会社の小売グループのロイヤルティプログラム（WAON POINTとnanacoポイント）に深く統合されている。また、どちらもチャージ／ATM利便性のためにグループ銀行（AEON Bank、Seven Bank）と組み合わされている。競争の力学は、オープン加盟店型のコード決済競争ではなく、**グループ小売内のクローズドループ**である。FamiPayに近いが、QRコードではなくFeliCaプリペイドで実行されている。導入済み基盤の粘着性は高いが、コード決済（[[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い）が限界的な新規ユーザー層を獲得したため、成長は鈍化している。
+## TL;DR
 
-## 発行体の横並び概観
+**WAON**（イオンが運営、イオンのモール / スーパーマーケット / コンビニエンスストアのネットワークをアンカーとする）と **nanaco**（セブン・カードサービスが運営、セブン＆アイグループのコンビニエンスストアおよびイトーヨーカドーのスーパーマーケットをアンカーとする）は、日本における 2 つの主要な **小売をアンカーとするプリペイド電子マネーブランド** である。両者とも FeliCa（[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]] と同じテクノロジースタック）上で動作し、両者とも FSA のもとで第三者型前払式支払手段として登録され、両者とも親小売グループのロイヤルティプログラム（WAON POINT と nanaco ポイント）と緊密に統合され、両者ともチャージ / ATM の利便性のためにグループ銀行（イオン銀行、セブン銀行）とペアになっている。競争のダイナミクスは、オープン加盟店のコード決済の競争ではなく **グループ小売内のクローズドループ** である — FamiPay に匹敵するが、QR コードではなく FeliCa プリペイドで実行される。両者のインストールベースのポジションは粘着的だが、コード決済（[[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い）が限界的な新規ユーザーコホートを捉えるにつれて成長は鈍化している。
+
+## 発行者の横並び概観
 
 | 次元 | WAON | nanaco |
 |---|---|---|
-| ブランド所有者 | AEON Co Ltd | Seven & i Holdings |
-| 発行体（FSA登録の第三者型前払式支払手段） | [[card-issuers/aeon-financial-service\|AEON Financial Service]] / WAON運営 | [[card-issuers/seven-card-service\|Seven Card Service]] |
+| ブランドオーナー | イオン株式会社 | セブン＆アイ・ホールディングス |
+| 発行者（FSA 登録の第三者型プリペイド） | [[card-issuers/aeon-financial-service\|AEON Financial Service]] / WAON オペレーション | [[card-issuers/seven-card-service\|Seven Card Service]] |
 | グループ銀行 | [[card-issuers/aeon-bank\|AEON Bank]] | [[regional-banks/seven-bank\|Seven Bank]] |
-| 決済／支払サービス | AEON Financial Service group | [[payment-firms/seven-payment-service\|Seven Payment Service]] |
+| 決済 / 決済サービス | イオンフィナンシャルサービスグループ | [[payment-firms/seven-payment-service\|Seven Payment Service]] |
 | 開始年 | 2007 | 2007 |
-| 技術 | FeliCa | FeliCa |
-| 主な受入アンカー | AEONモール、MaxValu、AEONスーパー、ministopコンビニ | 7-Eleven、Ito-Yokado、Sogo & Seibu、Akachan Honpo、Denny's Japan |
-| グループ外加盟店の広がり | AEON外での受入も相応に広い（ドラッグストア、ファストフード、以前のMcDonald'sなど） | Seven外での受入も相応に広い（Tower Records、以前のAEON Cinemaなど） |
-| モバイル経路 | Osaifu KeitaiのMobile WAON、Apple Pay上のWAON（一部端末）、AEON PayアプリQR | Osaifu KeitaiのMobile nanaco、nanacoアプリ |
+| テクノロジー | FeliCa | FeliCa |
+| 主要なアクセプタンスアンカー | イオンモール、マックスバリュ、イオンのスーパーマーケット、ミニストップのコンビニエンスストア | 7-イレブン、イトーヨーカドー、そごう・西武、アカチャンホンポ、デニーズジャパン |
+| クロス加盟店のフットプリント | イオン外での相当のアクセプタンス（ドラッグストア、ファストフード、以前はマクドナルド） | セブン外での相当のアクセプタンス（タワーレコード、以前はイオンシネマ、等） |
+| モバイルレール | おサイフケータイ経由のモバイル WAON、Apple Pay 上の WAON（限定デバイス）、AEON Pay アプリ QR | おサイフケータイ経由のモバイル nanaco、nanaco アプリ |
 | チャージ上限 | ¥50,000 | ¥50,000 |
-| 1取引あたり上限 | 多くのカテゴリで残高上限と同じ | 同じ |
-| グループ銀行からのオートチャージ | あり、AEON Bank連携 | あり、Seven Bank連携 |
-| グループカードからのオートチャージ | あり、AEON Card | あり、セブンカード・プラス |
-| グループポイント通貨 | WAON POINT | nanacoポイント |
-| ポイントから残高への交換 | 1 point = WAON残高1 yen | 1 point = nanaco残高1 yen |
+| 取引あたりの上限 | ほとんどのカテゴリで残高上限と同じ | 同じ |
+| グループ銀行からのオートチャージ | あり、イオン銀行連携 | あり、セブン銀行連携 |
+| グループカードからのオートチャージ | あり、イオンカード | あり、セブンカード・プラス |
+| グループポイント通貨 | WAON POINT | nanaco ポイント |
+| ポイントの残高への換算 | 1  ポイント = 1  円 WAON 残高 | 1  ポイント = 1  円 nanaco 残高 |
 
-## チャージ／資金供給レール比較
+## チャージ / 資金供給レールの比較
 
-小売系プリペイドの経済モデルは、消費者がプリペイド残高へ入金する際に使う資金供給レールに大きく依存する。各レールは発行体にとって異なるコスト／マージン構造を持つ。
+小売プリペイドの経済モデルは、消費者がプリペイド残高をロードするためにどの資金供給レールを使用するかに大きく依存する。各レールは発行者にとって異なるコスト / マージンのプロファイルを持つ。
 
-| 資金供給レール | WAON対応 | nanaco対応 |
+| 資金供給レール | WAON のサポート | nanaco のサポート |
 |---|---|---|
-| レジでの現金チャージ | あり、AEONグループ全店 | あり、7-Eleven / Ito-Yokado全店 |
-| グループATMでの現金チャージ | あり、AEON Bank ATM | あり、Seven Bank ATM |
-| グループ銀行からのオートチャージ | あり、AEON Bank | あり、Seven Bank |
-| グループカードからのオートチャージ | あり、AEON Card | あり、セブンカード・プラス |
-| その他クレジットカードチャージ | 限定的。歴史的にはポイント面でAEON Cardが優先 | 限定的。セブンカード・プラスが優先 |
+| レジでの現金 | あり、すべてのイオングループ店舗 | あり、すべての 7-イレブン / イトーヨーカドー |
+| グループ ATM での現金 | あり、イオン銀行 ATM | あり、セブン銀行 ATM |
+| グループ銀行からのオートチャージ | あり、イオン銀行 | あり、セブン銀行 |
+| グループカードからのオートチャージ | あり、イオンカード | あり、セブンカード・プラス |
+| その他のクレジットカードチャージ | 限定的 — 歴史的にポイントのためイオンカードが推奨 | 限定的 — セブンカード・プラスが推奨 |
 | 非グループ口座からの銀行振込 | 限定的 | 限定的 |
-| モバイルアプリチャージ | Osaifu KeitaiまたはAEON Pay経由 | Osaifu Keitaiまたはnanaco mobile経由 |
+| モバイルアプリチャージ | おサイフケータイまたは AEON Pay 経由 | おサイフケータイまたは nanaco モバイル経由 |
 
-グループ銀行とグループカードを強く優先することは意図的である。資金調達コストをグループ内に保ち、外部カード発行会社へのインターチェンジ流出を避け、ポイント付与をグループのロイヤルティ経済内に集中させるためである。PayPay級ウォレットと比べると、資金源ミックスははるかに多様であり、銀行口座からの直接引落と外部カードチャージの双方をかなり大きな割合で含む。
+強いグループ銀行およびグループカードの選好は意図的である — それは資金供給コストをグループ内に保ち、外部のカード発行者へのインターチェンジの漏出を回避し、ポイントの獲得をグループのロイヤルティ経済内に集中させる。資金供給ソースのミックスがはるかに多様で、銀行口座の口座引落と外部カードチャージの両方を実質的により大きな比率で含む PayPay クラスのウォレットと比較すること。
 
-## グループ小売との統合
+## グループ小売の統合
 
-小売系プリペイドの主要な経済的意義は、単独ウォレットの収益性ではなく、**グループ小売事業における頻度とマージンの押し上げ**である。
+小売をアンカーとするプリペイドの主要な経済的根拠は、スタンドアロンのウォレットの収益性ではなく、**グループ小売事業における頻度とマージンの引き上げ** である。
 
-### AEON / WAONの統合接点
+### イオン / WAON の統合タッチポイント
 
-| 接点 | 統合内容 |
+| タッチポイント | 統合 |
 |---|---|
-| AEON、MaxValu、AEON Styleスーパー | WAON受入、AEON Card優待価格、WAON POINTの高倍率付与 |
-| AEON Mallフードコート／専門店テナント | テナントミックス全体で広範にWAONを受入 |
-| Ministopコンビニ | WAON受入、ブランド内統合 |
-| Welciaドラッグストア（AEON子会社） | WAON受入 |
-| Maxvalu / KASUMI / United Super Markets | グループスーパー各ブランドでWAON受入 |
-| AEON Cinema | WAON受入とAEON Card割引 |
-| AEON Bank | オートチャージ連携、預金 ↔ WAON交換 |
-| AEON Financial Service | AEON Card発行、BNPL／分割、保険クロスセル |
-| AEONのお客さま感謝デー（毎月20日・30日の5%割引） | AEON Card／WAON利用に連動 |
+| イオン、マックスバリュ、イオンスタイルのスーパーマーケット | WAON アクセプタンス、イオンカードの優遇価格、より高い倍率での WAON POINT 獲得 |
+| イオンモールのフードコート / 専門テナント | テナントミックス全体にわたる広範な WAON アクセプタンス |
+| ミニストップのコンビニエンスストア | WAON アクセプタンス、オンブランドの統合 |
+| ウエルシアドラッグストア（イオン子会社） | WAON アクセプタンス |
+| マックスバリュ / カスミ / ユナイテッド・スーパーマーケット | グループのスーパーマーケットの看板にわたる WAON アクセプタンス |
+| イオンシネマ | WAON アクセプタンスとイオンカード割引 |
+| イオン銀行 | オートチャージ連携、預金 ↔ WAON 換算 |
+| イオンフィナンシャルサービス | イオンカード発行、BNPL / 割賦、保険のクロスセル |
+| イオンのお客さま感謝デー（毎月 20 日、30 日 5% 割引） | イオンカード / WAON の利用に連動 |
 
-### Seven & i / nanacoの統合接点
+### セブン＆アイ / nanaco の統合タッチポイント
 
-| 接点 | 統合内容 |
+| タッチポイント | 統合 |
 |---|---|
-| 7-Eleven Japan | nanaco受入、nanaco ポイント付与 |
-| Ito-Yokado | nanaco受入、グループ銀行預金との相互作用 |
-| Sogo & Seibu（百貨店） | 百貨店ロイヤルティと組み合わせたnanaco受入 |
-| Akachan Honpo（ベビー用品） | ファミリー向けロイヤルティと組み合わせたnanaco受入 |
-| Denny's Japan | nanaco受入 |
-| Seven Bank | オートチャージ連携、ATM現金チャージ、グループ銀行預金 |
-| Seven Bank ATM network | 全国でnanaco対応ATM現金チャージ |
-| セブンカード・プラス | nanaco統合チャージ機能を持つ提携カード |
-| 7iDエコシステム | nanacoと結びついたSeven & i Groupの統一顧客IDシステム |
-| 国税納付（nanacoによる納税） | 7-Elevenレジでnanaco残高を使う納税。歴史的機能 |
+| 7-イレブン・ジャパン | nanaco アクセプタンス、nanaco ポイント獲得 |
+| イトーヨーカドー | nanaco アクセプタンス、グループ銀行の預金との相互作用 |
+| そごう・西武（百貨店） | 百貨店ロイヤルティ付きの nanaco アクセプタンス |
+| アカチャンホンポ（ベビー用品） | ファミリーロイヤルティ統合付きの nanaco アクセプタンス |
+| デニーズジャパン | nanaco アクセプタンス |
+| セブン銀行 | オートチャージ連携、ATM 現金チャージ、グループ銀行の預金 |
+| セブン銀行 ATM ネットワーク | 全国の nanaco 対応 ATM 現金チャージ |
+| セブンカード・プラス | nanaco 統合チャージ付きのコブランドカード |
+| 7 iD エコシステム | nanaco に連動した統一のセブン＆アイグループ顧客 ID システム |
+| 国税納付（nanaco 経由の税金支払い） | 7-イレブンのレジで nanaco を使用した nanaco による税金支払い — ヘリテージ機能 |
 
-**nanaco経由の国税納付**機能は、消費者がクレジットカードでnanacoへチャージし（カードポイントを獲得）、その後7-Elevenレジでnanacoを使って税金を支払うという、複数商品をまたぐ注目すべきユースケースだった。これは、クレジットカードポイントで賄う納税ルートである。Seven Card Serviceは時間の経過とともにこのルールを厳格化した。この機能は、小売系プリペイドの受入が、当初の商品意図と一致しないサイドチャネル最適化を生み得ることを示している。
+**nanaco 経由の国税納付** 機能は、消費者がクレジットカード経由で nanaco に資金供給し（カードポイントを獲得）、その後 7-イレブンのレジで nanaco を使用して税金を支払う、歴史的に注目すべきクロスプロダクトのユースケースであった — クレジットカードポイントで資金供給される税金支払いの経路である。セブン・カードサービスは時とともにこれに関するルールを厳格化した；この機能は、小売プリペイドのアクセプタンスが本来の商品意図と整合しない可能性のあるサイドチャネルの最適化をどのように生み出すかを例示している。
 
-## Rakuten Edyとの比較
+## 楽天 Edy との比較
 
-Edy（[[payment-firms/rakuten-edy|Rakuten Edy]]が運営）は、特定小売グループの自社店舗網に**依存しない**最も近いピアである。Edyは2001 に開始され（WAONとnanacoの双方に先行）、プラットフォーム型の加盟店受入戦略を追求した。FeliCaプリペイド受入を希望する加盟店は、Edyリーダーを設置し、Rakuten Edyと契約できる。このため、WAONやnanacoより広い加盟店横断の受入を実現したが、同じグループ小売の経済的アンカーは持たなかった。
+Edy（[[payment-firms/rakuten-edy|Rakuten Edy]] が運営）は、特定の小売グループの自社店舗ネットワークをアンカーと **しない** 最も近いピアである。Edy は 2001  に開始し（WAON と nanaco の両方に先行）、プラットフォームスタイルの加盟店アクセプタンス戦略を追求した：FeliCa プリペイドのアクセプタンスを望むあらゆる加盟店は Edy リーダーを設置し、楽天 Edy と契約できる。これは WAON や nanaco が達成したよりも広いクロス加盟店のアクセプタンスを作り出したが、同じグループ小売の経済的アンカーは持たなかった。
 
 | 次元 | WAON | nanaco | Edy |
 |---|---|---|---|
-| 小売アンカー | AEON group | Seven & i group | なし。オープン加盟店ネットワーク |
-| グループ銀行資金供給 | AEON Bank | Seven Bank | Rakuten Bank（RakutenによるEdy取得2009後） |
-| グループカード資金供給 | AEON Card | セブンカード・プラス | Rakuten Card（取得後） |
-| ポイント通貨 | WAON POINT | nanacoポイント | 楽天ポイント（取得後の統合） |
-| モバイル経路 | Osaifu Keitai、AEON Pay | Osaifu Keitai、nanaco mobile | Osaifu Keitai、Edy app、Apple Pay（一部） |
-| 加盟店横断受入 | 広いがAEONがアンカー | 広いが7-Elevenがアンカー | 広く、単一アンカーなし |
-| コード決済への移行経路 | AEON Pay（QRアプリ。FeliCa WAONとは別） | Seven & i内部のコード決済実験 | 楽天ペイ（別建てのRakuten QRウォレット） |
+| 小売アンカー | イオングループ | セブン＆アイグループ | なし — オープンな加盟店ネットワーク |
+| グループ銀行の資金供給 | イオン銀行 | セブン銀行 | 楽天銀行（楽天が Edy を買収した後 2009） |
+| グループカードの資金供給 | イオンカード | セブンカード・プラス | 楽天カード（買収後） |
+| ポイント通貨 | WAON POINT | nanaco ポイント | 楽天ポイント（買収後の統合） |
+| モバイルレール | おサイフケータイ、AEON Pay | おサイフケータイ、nanaco モバイル | おサイフケータイ、Edy アプリ、Apple Pay（限定） |
+| クロス加盟店アクセプタンス | 広いがイオンにアンカー | 広いが 7-イレブンにアンカー | 広い、単一のアンカーなし |
+| コード決済への移行経路 | AEON Pay（QR アプリ、FeliCa WAON とは別） | セブン＆アイ内部のコード実験 | 楽天ペイ（別の楽天 QR ウォレット） |
 
-3つの小売系プリペイドブランドはいずれも、FeliCaを廃止するのではなく、**隣接するQR／コード決済商品**を立ち上げてきた。FeliCaの既存加盟店基盤は捨てるには価値が大きすぎる一方、コード決済の波が限界的な新規ユーザー層を取り込んでいることを認識しているためである。AEON Pay、Seven Pay（一時的。セキュリティ事故後の2019 に終了）、楽天ペイは、この並行戦略を示している。
+3 つの小売プリペイドブランドすべてが、FeliCa を引退させるのではなく **隣接する QR / コード決済商品を開始** している — FeliCa のインストール済み加盟店ベースが、コード決済の波が限界的な新規ユーザーコホートを捉える間に放棄するにはあまりに価値があるという認識である。AEON Pay、Seven Pay（短期間 — セキュリティインシデント後の 2019  に廃止）、楽天ペイがその並行戦略を例示している。
 
-## 前払式支払手段法制上の取扱い
+## 前払式支払手段法の取り扱い
 
-WAONとnanacoはいずれも、資金決済法上の**第三者型前払式支払手段**として登録されている。交通系プリペイドと同じ義務が適用される。
+WAON と nanaco の両者は、資金決済法のもとで **第三者型前払式支払手段** として登録されている。交通プリペイドと同じ義務が適用される：
 
 | 義務 | 詳細 |
 |---|---|
-| 利用者資金の保全 | 3月末および9月末時点の未使用残高額の50%を保全しなければならない |
-| 払戻しは廃止時のみ | 未使用残高は請求に応じて現金払戻しできない。発行業務の廃止時のみ |
-| 終了手続 | 廃止する場合、払戻手続は資金決済法上の手続に従う必要がある |
-| 利用者間送金なし | 残高をピアツーピアで送ることはできない |
-| 有効期限ルール | 発行体規約で定める |
+| 利用者資金の保全 | 未使用残高額の 50% が 3 月末および 9 月末に保全されなければならない |
+| 廃止時のみの払い戻し | 未使用残高は要求に応じて現金で払い戻し不可 — 発行廃止時のみ |
+| 終了手続き | 廃止される場合、払い戻しプロセスは資金決済法の手続きに従わなければならない |
+| ユーザー間の移転なし | 残高はピアツーピアで送ることができない |
+| 失効ルール | 発行者の規約により設定される |
 
-ブレークエージの経済性は存在するが、WAONとnanacoは一回限り利用の旅行者ではなく、安定した支出パターンを持つ国内消費者が主に保有するため、交通系プリペイドほど重要ではない。
+ブレッカジの経済性は適用されるが、WAON と nanaco は一度きりのユースケースを持つ観光客ではなく、安定した支出パターンを持つ国内消費者によって主に保有されているため、交通プリペイドよりも重要性は低い。
 
-## 廃止されたSeven Pay 2019
+## 廃止された Seven Pay との比較 2019
 
-との比較2019-07 のSeven Pay開始と、セキュリティ事故による急速な撤退は、Seven & iがその後の数年間に新たな独自コード決済商品の投入に非常に慎重だった理由を理解するうえで重要な参照点である。一方で、nanacoのFeliCaプリペイドの系譜は、同グループの主要な独自キャッシュレス接点として残った。Seven Payは、PayPayやその他QRウォレットに対抗するコード決済として構想された。しかし事故により、認証／2FAリセットの根本的な弱点が露呈し、不正なアカウント乗っ取りと残高利用を許した。Seven & iは数カ月で同商品を廃止し、7-Elevenでの第三者ウォレット受入（ユニバーサルQRウォレット受入）とnanacoへの継続投資を軸にキャッシュレス戦略を再構築した。
+ 2019-07  の Seven Pay の開始とセキュリティインシデントによる急速な撤退は、その後の数年でセブン＆アイがなぜ新たな独自のコード決済商品の開始に著しく慎重であったかを理解するための重要な参照であり、一方で nanaco の FeliCa プリペイドのヘリテージはグループの主要な独自のキャッシュレスサーフェスであり続けている。Seven Pay は PayPay やその他の QR ウォレットへのコード決済の競合として意図されていた；このインシデントは、不正なアカウントの乗っ取りと残高の使用を許した根本的な認証 / 2FA リセットの脆弱性を露呈した。セブン＆アイは数ヶ月以内に商品を廃止し、7-イレブンでの第三者ウォレットのアクセプタンス（ユニバーサルな QR ウォレットのアクセプタンス）に加えて nanaco への継続的な投資を中心にキャッシュレス戦略を再構築した。
 
-AEON Payとの対比は示唆的である。AEON Payは、Seven Pay撤退後に、そのセキュリティ失敗モードを観察したうえで投入されたAEONのQRコードウォレットである。AEONはWAONを置き換えるのではなく、WAONへの継続投資と並行してAEON Payを投入し、AEON Payは開始時からより強い認証／端末紐付けを設計した。FamilyMartで保守的な認証設計のもと[[payments/famipay-valucreate-strategy|FamiPay]]が投入されたことにも同じパターンが見られる。
+AEON Pay（イオンの QR コードウォレット、Seven Pay の撤退後にセキュリティの失敗モードを観察する利点を持って開始）との対比は示唆に富む — イオンは WAON を置き換えるのではなく、WAON への継続的な投資と並行して AEON Pay を出荷し、AEON Pay は開始時からより強い認証 / デバイスバインディングで設計された。同じパターンは、保守的な認証設計で開始された [[payments/famipay-valucreate-strategy|FamiPay]] とともにファミリーマートでも現れる。
 
-## グループ銀行による資金調達コスト優位
+## グループ銀行の資金供給コストの優位
 
-WAONとnanacoにとって、**グループ銀行との結びつき**の経済的重要性は、繰り返し過小評価されがちな点である。消費者がAEON Bank口座からWAONへオートチャージする場合、発行体（AEON Financial Service／WAON運営）にとっての資金調達コストは実質的にゼロである。銀行からウォレットへの流れがAEONグループ内部で完結するためである。比較すると次の通りである。
+WAON と nanaco にとっての **グループ銀行の連携** の経済的重要性は、繰り返し過小評価されるポイントである。消費者がイオン銀行口座から WAON をオートチャージする場合、発行者（イオンフィナンシャルサービス / WAON オペレーション）への資金供給コストは、銀行からウォレットへのフローがイオングループ内部であるため本質的にゼロである。以下と比較すること：
 
-| 資金供給レール比較 | WAON ex-AEON Bank | WAON ex-external credit card |
+| 資金供給レールの比較 | WAON イオン銀行経由 | WAON 外部クレジットカード経由 |
 |---|---|---|
-| 発行体の資金調達コスト | グループ内移転コストのみ | カードMDRのパススルー（例: 約1.5-2.5%） |
-| その後の小売支出で保持されるマージン | 小売加盟店手数料の全額 | カード資金調達コストのパススルー分だけ減少 |
-| ロイヤルティ統合 | 強い（AEON Card + AEON Bank + WAON POINTの三重連携） | 限定的 |
-| 消費者の手数料負担 | ゼロ | ゼロ（コストは発行体側） |
+| 発行者の資金供給コスト | グループ内部の移転コストのみ | カード MDR のパススルー（例：~1.5-2.5%） |
+| その後の小売支出で保持されるマージン | 完全な小売加盟店手数料 | カード資金供給コストのパススルーにより減少 |
+| ロイヤルティ統合 | 緊密（イオンカード + イオン銀行 + WAON POINT のトリプルリンク） | 限定的 |
+| 消費者の手数料負担 | ゼロ | ゼロ（コストは発行者側） |
 
-同じ論理は、nanaco / Seven Bank / セブンカード・プラスにも当てはまる。グループ銀行との結びつきは、構造的な資金調達コスト優位である。グループ銀行を持たない純粋なプラットフォーム型コード決済ウォレットは、銀行口座からの直接オートチャージによってこれを再現しなければならない。PayPayはPayPay Bank連携で、楽天ペイはRakuten Bankで、au PAYはau じぶん銀行でこれを実現している。
+同じロジックが nanaco / セブン銀行 / セブンカード・プラスにも適用される。グループ銀行の連携は、グループ銀行のアフィリエーションを持たない純粋プラットフォームのコード決済ウォレットが直接の銀行口座オートチャージ経由で複製しなければならない構造的な資金供給コストの優位である（PayPay は PayPay 銀行の連携を通じてこれを達成；楽天ペイは楽天銀行を通じて；au PAY は au じぶん銀行を通じて）。
 
-## 関連項目
+## 関連
 
 - [[payments/INDEX]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
@@ -160,12 +161,12 @@ WAONとnanacoにとって、**グループ銀行との結びつき**の経済的
 
 ## 出典
 
-- WAON official site (waon.net).
-- AEON Co Ltd: sustainability / cashless explanation pages.
-- AEON Bank: official site.
-- AEON Financial Service: official site.
-- nanaco official site (nanaco-net.jp).
-- Seven Card Service: official site.
-- Seven Bank: official site.
-- FSA: prepaid policy portal; third-party prepaid issuer registry.
-- METI: cashless payment policy portal.
+- WAON 公式サイト（waon.net）。
+- イオン株式会社：サステナビリティ / キャッシュレス説明ページ。
+- イオン銀行：公式サイト。
+- イオンフィナンシャルサービス：公式サイト。
+- nanaco 公式サイト（nanaco-net.jp）。
+- セブン・カードサービス：公式サイト。
+- セブン銀行：公式サイト。
+- FSA：前払式ポリシーポータル；第三者型プリペイド発行者登録。
+- METI：キャッシュレス決済ポリシーポータル。

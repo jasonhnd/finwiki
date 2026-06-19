@@ -1,13 +1,14 @@
 ---
 source: regional-banks/jimoto-hd
-source_hash: 1165535985db1bb6
+source_hash: a749fb9e95870377
 lang: en
 status: machine
 fidelity: ok
-title: "Jimoto Holdings"
-translated_at: 2026-05-31T23:59:49.373Z
+title: "じもとホールディングス (JIMOTO HD)"
+translated_at: 2026-06-19T13:13:22.625Z
 ---
-# Jimoto Holdings
+
+# じもとホールディングス (JIMOTO HD)
 
 ## Wiki route
 
@@ -15,143 +16,143 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## TL;DR
 
-Jimoto Holdings is a northeastern Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kirayaka Bank** + **Sendai Bank**). It was established through post-2012-10-01 Great East Japan Earthquake management integration. **In 2024-06-20, the Resolution and Collection Corporation (RCC) acquired 63.52% of voting rights, creating de facto nationalization**; the FSA approved a **13 -year extension of the repayment deadline for 2024-09  public funds 200 億円 (2024-09  → 2037-09)**, and management was fully replaced in 2024-04 . SBI Holdings (SBI Regional Bank HD) became the largest shareholder through a 35 億円 third-party allotment in 2020-11 , but the RCC nationalization changed the ranking. ^[extracted]
+A Northern-Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kirayaka Bank** + **Sendai Bank**). Established through a 2012-10-01 post-Great-East-Japan-Earthquake business integration. **The 2024-06-20 Resolution and Collection Corporation (RCC) acquired voting rights of 63.52%, effectively nationalising it**, **the repayment deadline of the 2024-09 public funds of 200 億円 was extended by 13  years (2024-09 → 2037-09) with FSA approval**, and the 2024-04  top management was wholly overhauled. SBI Holdings (SBI Regional Bank HD) became the largest shareholder via a third-party allotment of 35 億円 in 2020-11  → the ranking was reshuffled by the RCC nationalisation. ^[extracted]
 
 ## 1. Company overview
 
-**Official name**: Jimoto Holdings, Inc. ^[extracted]
+**Formal name**: Kabushiki Kaisha Jimoto Holdings ^[extracted]
 **English name**: Jimoto Holdings, Inc.
-**Ticker**: TSE Standard (former 2  Section) **7161** ^[extracted]
-**Established**: 2012-10-01 (management integration by share transfer; originally planned for 2011  → postponed by 1  years because of the earthquake) ^[extracted]
-**Head office**: Sendai Bank Building 9F, 1 -1 号 Ichibancho 2-chome, Aoba-ku, Sendai City, Miyagi Prefecture ^[extracted]
-**Business type**: bank holding company (second-tier regional-bank FG)
+**Securities code**: TSE Standard (former 2  section) **7161** ^[extracted]
+**Established**: 2012-10-01 (business integration via share transfer; originally planned for 2011  → postponed by 1  years due to the earthquake) ^[extracted]
+**Head office**: Sendai Bank Building 9F, 1 -1 号 Ichibancho 2-chome, Aoba-ku, Sendai-shi, Miyagi-ken ^[extracted]
+**Business type**: Bank holding company (second-tier regional bank FG)
 
 ### Group structure
 
 ```
-Jimoto Holdings (holding company; TSE STD 7161)
-  ├── Kirayaka Bank, Ltd. (100%) ── Yamagata-based second-tier regional bank
-  │     ├── Head office: Yamagata City
-  │     ├── Branch count: about 79 店 (2019-03  period)
-  │     └── Total assets: about 1.39 兆円 (2019-03  period)
-  └── Sendai Bank, Ltd. (100%) ── Miyagi-based second-tier regional bank
-        ├── Head office: Ichibancho, Aoba-ku, Sendai City
-        ├── Branch count: 62 店 (2015-03  period; all branches in Miyagi Prefecture)
-        └── Total assets: about 1.14 兆円 (2015-03  period)
+じもとホールディングス（持株会社・東証 STD 7161）
+  ├── 株式会社きらやか銀行（100%）── 山形県地盤・第二地銀
+  │     ├── 本店: 山形市
+  │     ├── 店舗数: 約 79 店（2019-03 期）
+  │     └── 総資産: 約 1.39 兆円（2019-03 期）
+  └── 株式会社仙台銀行（100%）── 宮城県地盤・第二地銀
+        ├── 本店: 仙台市青葉区一番町
+        ├── 店舗数: 62 店（2015-03 期、全店宮城県内）
+        └── 総資産: 約 1.14 兆円（2015-03 期）
 ```
 
 ### Consolidated results (public basis) ^[extracted]
 
-| Item | Figure | Source timing |
+| Item | Figure | Source point |
 |---|---|---|
-| Consolidated total assets | about **2 兆 6,639 億円** | 2021-03  period |
-| Consolidated net income | **negative 31 億 76 百万円** | 2021-03  period |
-| Consolidated net income (after revision) | **negative 234 億円** | 2024-03  period |
+| Consolidated total assets | Approx. **2 兆 6,639 億円** | 2021-03  term |
+| Consolidated net profit/loss | **△31 億 76 百万円** (loss) | 2021-03  term |
+| Consolidated net profit/loss (revised) | **△234 億円** (downward revision) | 2024-03  term |
 
-> For the 2024-03  period, full-year guidance was sharply revised downward from "17 億円 profit" to "234 億円 loss." The company announced that Kirayaka Bank's non-performing loans and securities losses were the main causes. ^[extracted]
+> For the 2024-03  term, the full-year forecast was substantially revised downward from "17 億円 profit → 234 億円 loss". Kirayaka Bank's non-performing loans and securities losses were announced as the main causes. ^[extracted]
 
-### Major shareholders (after 2024-06-20) ^[extracted]
+### Major shareholders (from 2024-06-20) ^[extracted]
 
-| Shareholder | Voting-right ratio |
+| Shareholder | Voting-rights ratio |
 |---|---|
-| **Resolution and Collection Corporation (RCC)** | **63.52%** (voting rights acquired by converting preferred shares to common shares) |
-| SBI Regional Bank Holdings | (became largest shareholder through 35 億円 third-party allotment in 2020-11  and obtained bank major-shareholder approval in 2021-03 ; ranking changed after RCC nationalization) |
+| **Resolution and Collection Corporation (RCC)** | **63.52%** (acquired voting rights via conversion of preferred shares → common shares) |
+| SBI Regional Bank Holdings | (became largest shareholder via the 2020-11  third-party allotment of 35 億円・obtained 2021-03  bank-major-shareholder approval; ranking reshuffled by RCC nationalisation) |
 
-### Timeline ^[extracted]
+### Chronology ^[extracted]
 
 | Date | Event |
 |---|---|
-| 1914-01-03 | Yamagata Shokusan Co., Ltd. established (registered starting point of the current Kirayaka Bank line) |
-| 1951-07-05 | Shinko Mujin Co., Ltd. established (predecessor of Sendai Bank) |
-| 1952 | Shinko Mujin renamed Shinko Sogo Bank |
-| 1989 | Shinko Sogo Bank converted to ordinary bank as **Sendai Bank** |
-| 1989 | Shokusan Bank (later 1992  Kirayaka Bank) / related credit association moved into the Shiawase Bank line |
-| 2007-05-07 | **Shokusan Bank + Yamagata Shiawase Bank merged → Kirayaka Bank launched** |
-| 2008-10-01 | Kirayaka Bank absorbed parent Kirayaka HD and relisted on TSE 2  Section |
-| **2009-09** | **Kirayaka Bank received 200 億円 in public funds** (Act on Special Measures for Strengthening Financial Functions; 3  sector package) ★ |
-| **2011-03-11** | **Great East Japan Earthquake** → Sendai Bank head-office / branch buildings damaged; temporary branches and BIB conversion ★ |
-| **2012-10-01** | **Jimoto HD launched** (Kirayaka + Sendai management integration, aimed at earthquake recovery and expanded public-funds framework) ★ |
-| **2011-09** | **Sendai Bank received 300 億円 in public funds** (Act on Special Measures for Strengthening Financial Functions earthquake special measure; preferred-share payment completed 2011-09-30) ★ |
-| 2012 | Kirayaka Bank received 300 億円 in public funds (Act on Special Measures for Strengthening Financial Functions earthquake special measure) |
-| **2020-11** | **SBI Regional Bank HD underwrote 35 億円 third-party allotment → became largest shareholder** (one piece of SBI's 4  major-regional-bank concept) |
-| 2023-09-01 | Kirayaka Bank received **additional 180 億円 in public funds** (COVID special measure / Act on Special Measures for Strengthening Financial Functions) ★ |
-| 2023-11 | Jimoto HD introduced common ATM service within the group, the first such nationwide case (all 292  units replaced by 2024-03 ) |
-| **2024-04-26** | **Announced downward revision of 2024-03  forecast from 17 億 profit to 234 億 loss and full management renewal** ★ |
-| 2024-04 | Stated that repayment of 2009  injection portion 200 億円 in 9  was "difficult"; began discussions with the FSA |
-| **2024-06-20** | **Resolution and Collection Corporation (RCC) acquired 63.52% of voting rights → de facto nationalization** ★ |
-| **2024-09** | **FSA formally approved 13 -year extension of repayment deadline for 200 億円 in public funds (2024-09  → 2037-09)** ★ |
-| During 2024  | Medium-term management plan (2024-2026 年 fiscal years, 3 -year plan) begins |
+| 1914-01-03 | Yamagata Shokusan Kabushiki Kaisha established (the registered starting point of the present Kirayaka Bank lineage) |
+| 1951-07-05 | Shinko Mujin Kabushiki Kaisha established (predecessor of Sendai Bank) |
+| 1952 | Shinko Mujin → Shinko Sogo Bank renamed |
+| 1989 | Shinko Sogo Bank → **Sendai Bank** converted to an ordinary bank |
+| 1989 | Shokusan Bank (→ 1992  to Kirayaka Bank) / affiliated credit union → into the Shiawase Bank lineage |
+| 2007-05-07 | **Shokusan Bank + Yamagata Shiawase Bank merger → Kirayaka Bank established** |
+| 2008-10-01 | Kirayaka Bank absorbed its parent Kirayaka HD, re-listed on the TSE 2  section |
+| **2009-09** | **Kirayaka Bank public funds of 200 億円 injected** (Act on Strengthening Financial Functions・3  sector-wide) ★ |
+| **2011-03-11** | **Great East Japan Earthquake** → Sendai Bank's head office and branch buildings damaged, temporary branches・BIB conversion ★ |
+| **2012-10-01** | **Jimoto HD established** (Kirayaka + Sendai business integration, for post-earthquake recovery and expansion of the public-funds frame) ★ |
+| **2011-09** | **Sendai Bank public funds of 300 億円 injected** (Act on Strengthening Financial Functions earthquake special provision, preferred-share payment completed 2011-09-30) ★ |
+| 2012 | Kirayaka Bank public funds of 300 億円 injected (Act on Strengthening Financial Functions earthquake special provision) |
+| **2020-11** | **SBI Regional Bank HD subscribed to the third-party-allotment capital increase of 35 億円 → became largest shareholder** (one piece of the SBI 4 -regional-bank concept) |
+| 2023-09-01 | Kirayaka Bank public funds **of 180 億円 additionally injected** (Covid special provision・Act on Strengthening Financial Functions) ★ |
+| 2023-11 | Jimoto HD became the first in the nation to introduce a common ATM service within the group (all 292  units replaced by 2024-03 ) |
+| **2024-04-26** | **2024-03  term forecast revised downward from profit 17 億 → loss 234 億・wholesale overhaul of top management announced** ★ |
+| 2024-04 | Stated that repayment of the 200 億円 portion injected in 2009  in 9  would be "difficult", and began consultations with the FSA |
+| **2024-06-20** | **Resolution and Collection Corporation (RCC) acquired voting rights of 63.52% → effective nationalisation** ★ |
+| **2024-09** | **Repayment deadline of public funds of 200 億円 extended by 13  years (2024-09 → 2037-09) formally approved by the FSA** ★ |
+| During 2024 | Medium-term management plan (FY 2024〜2026 年, 3  years) commenced |
 
-### Predecessor banks in detail
+### Predecessor-bank details
 
-**Kirayaka Bank line (Yamagata)**
-- Yamagata Shokusan Co., Ltd. (established 1914-01-03) → 1915  Yamagata Shokusan Mujin → 1951  Shokusan Sogo Bank → 1989  Shokusan Bank (ordinary-bank conversion)
-- Yamagata Shiawase Bank (separate line)
-- In 2007-05-07, the two banks merged and **Kirayaka Bank** was launched
+**Kirayaka Bank lineage (Yamagata)**
+- Yamagata Shokusan Kabushiki Kaisha (established 1914-01-03) → 1915  Yamagata Shokusan Mujin → 1951  Shokusan Sogo Bank → 1989  Shokusan Bank (converted to an ordinary bank)
+- Yamagata Shiawase Bank (separate lineage)
+- 2007-05-07 **Kirayaka Bank** established via the merger of the two banks
 
-**Sendai Bank line (Miyagi)**
-- 1951-07-05 Shinko Mujin → 1952  Shinko Sogo Bank → 1989  Sendai Bank (ordinary-bank conversion)
+**Sendai Bank lineage (Miyagi)**
+- 1951-07-05 Shinko Mujin → 1952  Shinko Sogo Bank → 1989  Sendai Bank (converted to an ordinary bank)
 
 ### Management strategy
 
-- **Dual Yamagata + Miyagi home base**: 2 -prefecture wide-area FG of Kirayaka (Yamagata) + Sendai (Miyagi)
-- **Earthquake recovery lending + SME support**: core purpose at establishment
-- **Medium-term management plan (2024-2026 年 fiscal years)**: 3 -year plan targeting profit accumulation as the source for public-fund repayment ^[extracted]
-- **SBI alliance**: since SBI Regional Bank HD investment in 2020-11 , a northeastern Tohoku piece of SBI's 4  major-regional-bank concept. Common ATM and system linkage.
-- **Public-funds reduction scenario**: announced that Sendai Bank could repay 300 億円 public funds by 2036-03  through accumulation of retained earnings of 188 億円 (2025-03  period, +9 億円 yoy) ^[extracted]
+- **Yamagata + Miyagi dual base**: a 2 -prefecture wide-area FG of Kirayaka (Yamagata) + Sendai (Miyagi)
+- **Earthquake-recovery lending + SME support**: the core of the establishment purpose
+- **Medium-term management plan (FY 2024-2026 年)**: a 3 -year plan that targets the accumulation of profits as the source for public-funds repayment ^[extracted]
+- **SBI tie-up**: since the SBI Regional Bank HD investment of 2020-11 , the Northern-Tohoku piece of the SBI 4 -regional-bank concept. Common ATM・system linkage.
+- **Public-funds-reduction scenario**: announced that, by accumulating Sendai Bank's retained earnings of 188 億円 (2025-03  term, +9 億円 yoy), the 300 億円 public funds could be repaid by 2036-03  ^[extracted]
 
 ### Competition and market position
 
 | Category | Competitor | Jimoto HD position |
 |---|---|---|
-| Miyagi Prefecture No.1  regional bank | **77 Bank** (TSE PRIME 8341) | Sendai Bank is the 2  regional-bank player |
-| Yamagata Prefecture No.1  regional bank | **Yamagata Bank** (TSE PRIME 8344) | Kirayaka Bank is the 2  regional-bank player |
-| Northeastern Tohoku second-tier regional-bank FG | **Fidea HD** (TSE PRIME 8713; Yamagata + Akita) | Overlaps with [[regional-banks/fidea-hd]] in Yamagata and competes in operating base |
-| Adjacent first-tier regional banks | Bank of Iwate, Toho Bank (Fukushima) | Outer edge of operating area |
-| SBI 4  major-regional-bank frame | Fukushima Bank, Shimane Bank, Chikuho Bank | Other regional banks in SBI alliance group |
+| Miyagi-ken No.1  regional bank | **77 Bank** (TSE PRIME 8341) | Sendai Bank is the No.2  regional bank |
+| Yamagata-ken No.1  regional bank | **Yamagata Bank** (TSE PRIME 8344) | Kirayaka Bank is the No.2  regional bank |
+| Northern-Tohoku second-tier regional-bank FG | **Fidea HD** (TSE PRIME 8713・Yamagata + Akita) | Overlaps with [[regional-banks/fidea-hd]] in Yamagata・operating-base competition |
+| Adjacent first-tier regional banks | Iwate Bank・Toho Bank (Fukushima) | Periphery of the operating area |
+| SBI 4 -regional-bank frame | Fukushima Bank・Shimane Bank・Chikuho Bank | Other regional-bank group of the SBI alliance |
 
-## 4. Regulation / policy
+## 4. Regulation・policy
 
 - **Supervisor**: Financial Services Agency (FSA)
-- **Act on Special Measures for Strengthening Financial Functions**: legal basis for public-funds injection (Kirayaka 2009 200 億円 / 2012 300 億円 / 2023 180 億円; Sendai 2011 300 億円) ^[extracted]
-- **Resolution and Collection Corporation (RCC)**: after 2024-06 , holds 63.52% voting rights → **effectively under state control** ^[extracted]
-- **Management-strengthening plan performance reports**: must be submitted to the FSA every half year (published 2024-12  / 2025-06 ) ^[extracted]
-- **TSE market segment**: Standard (former TSE 2  Section)
+- **Act on Strengthening Financial Functions**: the basis act for public-funds injection (Kirayaka 2009 200 億円・2012 300 億円・2023 180 億円 / Sendai 2011 300 億円) ^[extracted]
+- **Resolution and Collection Corporation (RCC)**: holds voting rights of 63.52% since 2024-06  → **effectively under state management** ^[extracted]
+- **Management-strengthening-plan implementation-status report**: obligated to be submitted to the FSA every half-year (published 2024-12 / 2025-06 ) ^[extracted]
+- **TSE market segment**: Standard (former TSE 2  section)
 
 ### Recent policy issues
 
 - The **13 -year repayment extension** approved by the FSA in 2024-09  (deadline 2037-09 ) is effectively a rescheduling
-- Accumulation of Sendai Bank earnings + disposal of Kirayaka Bank non-performing loans are key to repayment capacity
+- Sendai Bank's profit accumulation + Kirayaka Bank's non-performing-loan disposal are the keys to the repayment source
 
 ## 5. Officers (public basis) ^[extracted]
 
 | Position | Name | Appointment |
 |---|---|---|
-| Representative director and chair | Hideki Nishizuka | 2024-04  management renewal |
-| Representative director and president | Toshio Sakazume | 2024-04  management renewal |
+| Representative Director and Chairman | Hideki Nishizuka | 2024-04  management overhaul |
+| Representative Director and President | Toshio Sakazume | 2024-04  management overhaul |
 
-> The full management renewal in 2024-04  was a responsibility-taking personnel move after the 234 億円 downward revision to loss and statement that public funds could not be repaid.
+> The 2024-04  wholesale overhaul of top management was an accountability-driven personnel change tied to the 234 億円 downward loss revision and the declaration of inability to repay public funds.
 
 ## Related
 
-- [[regional-banks/fidea-hd]] (Yamagata + Akita, northeastern Tohoku second-tier regional-bank competitor + overlapping operating area)
-- [[megabanks/sbi-hd]] (2020-11  third-party allotment 35 億円; SBI 4  major-regional-bank concept)
+- [[regional-banks/fidea-hd]] (Yamagata + Akita・Northern-Tohoku second-tier regional-bank competition + operating-area overlap)
+- [[megabanks/sbi-hd]] (2020-11  third-party allotment 35 億円・SBI 4 -regional-bank concept)
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks)
 
 ## Sources
 
-- **Wikipedia: Jimoto Holdings** (https://ja.wikipedia.org/wiki/じもとホールディングス, extracted 2026-05-19)
-- **Wikipedia: Kirayaka Bank** (extracted 2026-05-19)
-- **Wikipedia: Sendai Bank** (extracted 2026-05-19)
-- FSA "Management-strengthening plan performance report" 2024-12 (https://www.fsa.go.jp/status/keieikyoka/2025b/0328/03-1.pdf)
-- FSA "Management-strengthening plan performance report" 2025-06 (https://www.fsa.go.jp/status/keieikyoka/2025b/0922/01-1.pdf)
-- Public reporting by Nikkei and Jiji Press (2024-04  management renewal / 2024-06  RCC nationalization / 2024-09  approval of 13 -year extension)
-- **RIETI, "Looking back at the earthquake special measures under the Act on Special Measures for Strengthening Financial Functions"** (confirms Sendai Bank 2011-09 300 億円 and Kirayaka Bank 2012 300 億円 earthquake special-measure injections) https://www.rieti.go.jp/jp/columns/a01_0635.html
-- **SBI Holdings, "Notice concerning acquisition of bank major-shareholder approval for banks2行 under Jimoto Holdings"** (2021-03-18) https://www.sbigroup.co.jp/news/2021/0318_12370.html
-- **Wikipedia: Shokusan Bank** (confirms Yamagata Shokusan Co., Ltd. established 1914-01-03; 1895  founding theory unconfirmed) https://ja.wikipedia.org/wiki/殖産銀行
-- **Wikipedia: Sendai Bank** (confirms preferred-share payment completion 2011-09-30) https://ja.wikipedia.org/wiki/仙台銀行
+- **Wikipedia: じもとホールディングス** (https://ja.wikipedia.org/wiki/じもとホールディングス, extracted 2026-05-19)
+- **Wikipedia: きらやか銀行** (extracted 2026-05-19)
+- **Wikipedia: 仙台銀行** (extracted 2026-05-19)
+- FSA "Management-strengthening-plan implementation-status report" 2024-12 (https://www.fsa.go.jp/status/keieikyoka/2025b/0328/03-1.pdf)
+- FSA "Management-strengthening-plan implementation-status report" 2025-06 (https://www.fsa.go.jp/status/keieikyoka/2025b/0922/01-1.pdf)
+- Nihon Keizai Shimbun・Jiji Press public reporting (2024-04  management overhaul / 2024-06  RCC nationalisation / 2024-09  13 -year extension approval)
+- **RIETI Research Institute of Economy, Trade and Industry "Looking back at the earthquake special provision of the Act on Strengthening Financial Functions"** (confirmed Sendai Bank 2011-09 300 億円・Kirayaka Bank 2012 300 億円 earthquake-special-provision injection) https://www.rieti.go.jp/jp/columns/a01_0635.html
+- **SBI Holdings "Notice Regarding Acquisition of Bank Major Shareholder Approval for the Banks 2行 under Jimoto Holdings"** (2021-03-18) https://www.sbigroup.co.jp/news/2021/0318_12370.html
+- **Wikipedia: 殖産銀行** (confirmed the establishment of Yamagata Shokusan Kabushiki Kaisha in 1914-01-03; the 1895  founding theory unconfirmed) https://ja.wikipedia.org/wiki/殖産銀行
+- **Wikipedia: 仙台銀行** (confirmed preferred-share payment completion in 2011-09-30) https://ja.wikipedia.org/wiki/仙台銀行
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.1  public information only: Wikipedia + FSA public materials + RIETI + public reporting, rechecked 2026-05-29). For predecessor-bank founding year, Wikipedia's Shokusan Bank page confirms **Yamagata Shokusan Co., Ltd. established 1914-01-03** (the 1895  founding theory could not be confirmed by sources and is isolated). Earthquake special-measure public funds are confirmed by RIETI as **Sendai Bank 2011-09 300 億円 and Kirayaka Bank 2012 300 億円** (the previous statement "2014  Kirayaka additional injection" lacked a source and was corrected). RCC voting rights 63.52% are the public figure as of 2024-06-20.
+> confidence: **likely** (v1.1  public information only・Wikipedia + FSA public materials + RIETI + public reporting, re-verified 2026-05-29). The founding year of the predecessor bank is confirmed as **establishment of Yamagata Shokusan Kabushiki Kaisha in 1914-01-03** in the Wikipedia Shokusan Bank article (the 1895  founding theory could not be confirmed in the sources and is isolated). The earthquake-special-provision public funds are confirmed by RIETI as **Sendai Bank 2011-09 300 億円・Kirayaka Bank 2012 300 億円** (the old description of "2014  Kirayaka additional injection" had no source and is corrected). The RCC voting rights of 63.52% are the figure published as of 2024-06-20.

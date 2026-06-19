@@ -1,43 +1,45 @@
 ---
 source: non-life-insurers/sompo-direct
-source_hash: 005ab2b01eae0462
+source_hash: 6647de9d453da0e4
 lang: ja
 status: machine
 fidelity: ok
 title: "SOMPOダイレクト損害保険"
-translated_at: 2026-06-02T15:14:17.120Z
+translated_at: 2026-06-19T06:09:18.061Z
 ---
+
 # SOMPOダイレクト損害保険
 
-## ウィキ上の位置づけ
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] とあわせて読んでください。
+## Wiki ルート
 
-## 要約
+本項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア／対比の文脈については [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]] と、より広いシステム／規制上の境界については [[insurance/INDEX|insurance index]] と併せて読むこと。
 
-SOMPOダイレクト損害保険株式会社は、[[non-life-insurers/sompo]] グループの直販型損害保険事業会社。旧セゾン自動車火災の保険事業面を含み、金融庁の損害保険会社免許一覧には現在の正式名称で掲載される。
+## TL;DR
 
-## 1. ライセンス・グループ境界
+SOMPOダイレクト損害保険株式会社は、[[non-life-insurers/sompo]] グループのダイレクト型損害保険事業会社。旧セゾン自動車火災の insurance surface を含み、金融庁の損害保険会社免許一覧に現行法人名で掲載される。
 
-| 項目 | 注記 |
+## 1. License / group boundary
+
+| Item | Notes |
 |---|---|
-| 正式名 | ＳＯＭＰＯダイレクト損害保険株式会社 |
-| 旧称・商品上の関連 | セゾン自動車火災 / おとなの自動車保険 |
-| ライセンス経路 | 保険業法上の損害保険会社。金融庁の損害保険会社免許一覧に掲載 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ境界 | [[non-life-insurers/sompo]] の直販型損害保険事業会社 |
+| Legal name | ＳＯＭＰＯダイレクト損害保険株式会社 |
+| Former / product association | セゾン自動車火災 / おとなの自動車保険 |
+| License route | 保険業法上の損害保険会社；金融庁の損害保険会社一覧 |
+| Protection scheme | 損害保険契約者保護機構 会員 |
+| Group boundary | [[non-life-insurers/sompo]] ダイレクト型損害保険事業会社 |
 
-## 2. 事業モデル
+## 2. Operating model
 
-SOMPOダイレクトは、代理店主導の [[non-life-insurers/sompo-japan-insurance]] とは異なるデジタル・直販チャネルを SOMPO に提供する。ダイレクト自動車保険、Web 見積もり、コールセンター運営、低コスト販売が主な分析軸になる。
+SOMPOダイレクトは、代理店主導の [[non-life-insurers/sompo-japan-insurance]] とは異なるデジタル／ダイレクトチャネルを SOMPO に提供する。ダイレクト自動車保険、ウェブ見積もり、コールセンター運営、低コストの販売チャネルが主要な分析軸となる。
 
-## 3. このページが重要な理由
+## 3. Why this page matters
 
-- SOMPO の直販チャネル型損害保険事業会社を記録する。
-- 既存の [[insurance/saison-automobile-fire]] 概念ページを補完する。
-- 登録情報に裏付けられた D4  直販 / デジタル損害保険ページとして使う。
+- SOMPO のダイレクトチャネル損害保険事業会社を捉える。
+- 既存の [[insurance/saison-automobile-fire]] コンセプトページを補完する。
+- レジストリに裏付けられた D4 ダイレクト／デジタル損保ページ。
 
-## 関連項目
+## Related
 
 - [[non-life-insurers/sompo]]
 - [[non-life-insurers/sompo-japan-insurance]]
@@ -45,8 +47,8 @@ SOMPOダイレクトは、代理店主導の [[non-life-insurers/sompo-japan-ins
 - [[non-life-insurers/sony-insurance]]
 - [[non-life-insurers/tokio-marine-direct]]
 
-## 出典
+## Sources
 
-- 金融庁: 2026-04-01時点の損害保険会社免許一覧。
-- 損害保険契約者保護機構: 2026-04時点の会員会社一覧。
+- 金融庁: 損害保険会社免許一覧、2026-04-01 時点。
+- 損害保険契約者保護機構: 会員会社一覧、2026-04 時点。
 - SOMPOダイレクト 公式会社概要。

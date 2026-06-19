@@ -1,93 +1,93 @@
 ---
 source: trading-company-finance/itochu-finance
-source_hash: 91d3c5e7a2edbe0e
+source_hash: 2f40a64a3e029d99
 lang: zh
 status: machine
 fidelity: ok
-title: "伊藤忠财务公司"
-translated_at: 2026-05-31T15:29:03.967Z
+title: "伊藤忠 Finance（伊藤忠ファイナンス / ITOCHU Finance Corporation）"
+translated_at: 2026-06-19T12:43:19.874Z
 ---
 
-# 伊藤忠财务公司
+# 伊藤忠 Finance（伊藤忠ファイナンス / ITOCHU Finance Corporation）
 
-## 维基路线
+## Wiki 路线
 
-该条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 下。对照[[leasing-firms/tokyo-century|東京センチュリー]]（同母公司**外部租赁/资产融资**平台——伊藤忠+瑞穗FG的2 轴股东结构，上市8439）和[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同行贸易公司集团财务部门）来阅读。对于更广泛的对等集，请参阅 [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]。请参阅 [[banking/INDEX|banking index]] 了解更广泛的监管范围。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。请对照 [[leasing-firms/tokyo-century|東京センチュリー]]（同一母公司的**对外租赁与资产金融**平台——伊藤忠 + みずほ FG 的 2 主轴股东结构，已上市 8439）以及 [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同业商社系集团财资部门）一并阅读。关于更广泛的同业集合，参见 [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]。关于更广泛的监管边界，参见 [[banking/INDEX|banking index]]。
 
-## 1。公司简介
+## 1。公司概况
 
-|物品|笔记|
+| 项目 | 备注 |
 |---|---|
-|维基角色|**伊藤忠集团内部财务**：CMS / 集团保理 / 集团财务|
+| Wiki 角色 | **伊藤忠集团的对内金融**：CMS / 集团保理 / 集团融资 |
 
-### 伊藤忠商事财务职能的结构
+### 伊藤忠系金融职能的结构
 
-|层|主题|角色|
+| 层 | 主体 | 角色 |
 |---|---|---|
-|**外部银行（主要交易）**|[[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/mufg|MUFG]]|商业银行/外资金融服务|
-|**外部租赁（列出）**|[[leasing-firms/tokyo-century|東京センチュリー]] (8439)|大型租赁/飞机（美国ACG）/海外项目/移动 — 伊藤忠+瑞穗 FG 2  轴|
-|**内部/集团财务**|**伊藤忠财务（本页）**|各集团公司的内部银行/CMS/内部保理|
+| **对外银行（主要往来）** | [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/mufg|MUFG]] | 商业银行・对外金融服务 |
+| **对外租赁（上市）** | [[leasing-firms/tokyo-century|東京センチュリー]]（8439） | 大型租赁・飞机（美国 ACG）・海外案件・移动出行 — 伊藤忠 + みずほ FG 2 主轴 |
+| **对内 / 集团金融** | **伊藤忠 Finance（本页）** | 集团各公司的 internal banking / CMS / 内部保理 |
 
-## 2。业务板块图
+## 2。事业分部地图
 
-|部分|内容|
+| 分部 | 内容 |
 |---|---|
-|**CMS（现金管理服务）**|伊藤忠集团各公司的集中支付/资金池|
-|**批量保理**|向集团公司/支付机构购买应收账款|
-|**集团财务**|向集团公司提供的短期/中期贷款|
-|**外汇/利率风险对冲中介**|集团公司的衍生品经纪|
-|**海外汇款服务**|集团公司境外汇款及收款|
-|**贸易融资援助**|与伊藤忠商事的纺织、机械、食品、住房、信息、金属、能源和化学品交易相关的信贷补贴|
+| **CMS（现金管理服务）** | 伊藤忠集团各公司的结算集中・资金池 |
+| **一括保理** | 集团各公司的应收账款买取 / 付款代理 |
+| **集团融资** | 对集团内公司的 short-term / mid-term 贷款 |
+| **汇率・利率风险对冲中介** | 面向集团各公司的衍生品中介 |
+| **海外汇款服务** | 集团各公司面向海外的汇款・回收 |
+| **贸易金融辅助** | 与伊藤忠本体的纺织・机械・食料・住生活・信息・金属・能源・化学品 交易挂钩的授信辅助 |
 
-### 与伊藤忠商事的业务结构的关系
+### 与伊藤忠商事事业结构的关系
 
-尤其是**食品/家居/信息**板块与中小供应商的交易较多，是通过CMS/批量保理同时实现供应商端现金流稳定和总行端支付成本优化的典型例子。
+特别是 **食料 / 住生活 / 信息** 分部与中小供应商的交易较多，通过 CMS / 一括保理同时实现供应商一侧的现金流稳定化与总部一侧付款成本最优化的典型案例。
 
-### 竞争/同行
+### 竞争 / Peer
 
-|贸易公司|境内金融子公司|外部租赁系统|
+| 商社 | 对内金融子公司 | 对外租赁系 |
 |---|---|---|
-|伊藤忠商事|**伊藤忠财务（本页）**|[[leasing-firms/tokyo-century|東京センチュリー]]（瑞穗合资，已上市）|
-|三菱商事株式会社|[[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]|[[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（已列出）|
-|三井物产|[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]|[[cooperative-banks/ja-mitsui-leasing|JA三井リース]]|
-|住友商事株式会社|[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]|[[leasing-firms/smfl|SMFL]]（SMFG 合资公司）|
-|丸红|[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]|[[leasing-firms/mizuho-lease|みずほリース]]（战略股东）|
-|丰田通商|[[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]|圈养在群体内|
-|双日|[[trading-company-finance/sojitz-finance|双日フィナンス]]|没有全职工作|
+| 伊藤忠 | **伊藤忠 Finance（本页）** | [[leasing-firms/tokyo-century|東京センチュリー]]（みずほ合资、上市） |
+| 三菱商事 | [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（上市） |
+| 三井物产 | [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] | [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] |
+| 住友商事 | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] | [[leasing-firms/smfl|SMFL]]（SMFG 合资） |
+| 丸红 | [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] | [[leasing-firms/mizuho-lease|みずほリース]]（战略股东） |
+| 丰田通商 | [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] | 集团内 captive |
+| 双日 | [[trading-company-finance/sojitz-finance|双日フィナンス]] | 无专营 |
 
-## 4。法规/政策
+## 4。监管・政策
 
-- **主管**：金融厅（放贷业务/兑换业务相关）
-- **监管问题**：
-  - **集团内部金融交易的转让定价税**
-  - 集团保理与**分期付款销售法/放贷业务法**之间的界限
-  - **合并会计中消除公司间交易**
-- **当前政策问题**：
-  - 2024~ [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → 集团内利率分配重新评估
-  - 2025~ 加强海外汇款/跨境资金转移的反洗钱/反恐融资
+- **主管**：金融厅（贷金业 / 外汇业务相关）
+- **监管要点**：
+  - 集团内金融交易的 **转移定价税制**
+  - 集团保理与 **分期付款销售法 / 贷金业法** 的边界
+  - 合并会计上的 **内部交易抵销**
+- **近期政策要点**：
+  - 2024〜 [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → 集团内利率赋予的重新评估
+  - 2025〜 海外汇款 / 跨境资金移动的 AML/CFT 强化
 
-## 有关的
+## 关联
 
-- [[leasing-firms/tokyo-century|東京センチュリー]]（外部租赁，同一伊藤忠公司）
-- [[megabanks/mizuho-fg|みずほ FG]]（主要银行）
-- [[payment-firms/famima-digital-one|ファミマデジタルワン]]（伊藤忠经济区内支付）
-- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]（对等）
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]（对等）
-- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]（对等）
-- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]（对等）
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（对等）
-- [[trading-company-finance/sojitz-finance|双日フィナンス]]（对等）
+- [[leasing-firms/tokyo-century|東京センチュリー]]（对外租赁、同属伊藤忠系）
+- [[megabanks/mizuho-fg|みずほ FG]]（主要往来银行）
+- [[payment-firms/famima-digital-one|ファミマデジタルワン]]（伊藤忠经济圈内结算）
+- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]（peer）
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]（peer）
+- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]（peer）
+- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]（peer）
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（peer）
+- [[trading-company-finance/sojitz-finance|双日フィナンス]]（peer）
 - [[banking/INDEX|banking index]]
 - [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
-## 来源
+## 出处
 
-- 伊藤忠商事株式会社 (8001) 证券报告（EDINET 披露） — 关联公司名单
-- 伊藤忠商事官方IR/综合报告（集团公司一览）
-- 日本租赁协会 (JLA) https://www.leasing.or.jp/
-- EDINET 证券报告搜索 https://disclosure.edinet-fsa.go.jp/
+- 伊藤忠商事株式会社（8001）有价证券报告书（EDINET 披露）— 关系公司一览
+- 伊藤忠商事 官方 IR / 综合报告书（集团公司一览）
+- 公益社团法人租赁事业协会（JLA）https://www.leasing.or.jp/
+- EDINET 有价证券报告书检索 https://disclosure.edinet-fsa.go.jp/
 
 ---
 
-> [!info] 验证状态
-> 置信度：**暂定**（公共信息库 2026-05-24）。伊藤忠财务是一家非上市子公司，对外披露有限。最新的业务范围/子公司名单请参见伊藤忠商事证券报告书关联公司一览表。 **母公司贸易公司页面`itochu-corp.md`尚未创建→将来将作为积压添加**。
+> [!info] 校核状态
+> confidence: **tentative**（基于公开信息 2026-05-24）。伊藤忠 Finance 是非上市子公司，对外披露有限。最新业务范围 / 子公司一览须参照伊藤忠有价证券报告书关系公司一览。**母公司商社页面 `itochu-corp.md` 尚未创建 → 未来作为 backlog 计划补充**。

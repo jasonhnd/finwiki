@@ -1,11 +1,11 @@
 ---
 source: payments/waon-prepaid-aeon
-source_hash: 06a312e575b1caae
+source_hash: 6452b79c65ae7a78
 lang: en
 status: machine
 fidelity: ok
 title: "WAON: AEON Group nationwide IC prepaid e-money"
-translated_at: 2026-06-01T03:31:12.294Z
+translated_at: 2026-06-19T06:09:18.184Z
 ---
 
 # WAON: AEON Group nationwide IC prepaid e-money
@@ -27,15 +27,15 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON-anchored pre
 | Settlement / financial services | [[card-issuers/aeon-financial-service\|AEON Financial Service]] group |
 | Group bank rail | [[card-issuers/aeon-bank\|AEON Bank]] (auto-charge, ATM charge, account linkage) |
 | Group card rail | AEON Card (Visa / Mastercard / JCB co-brand with WAON IC embedded) |
-| Launch year | 2007-04  |
+| Launch year | 2007-04 |
 | Technology | FeliCa contactless IC |
 | Mobile rail | Mobile WAON (Osaifu Keitai), Apple Pay (iPhone 8+ with Japan-region SIM), AEON Pay app QR |
 | Charge ceiling | ¥50,000 per card |
 | Single charge max | ¥29,000 typical |
 
-## Legal basis: third-party prepaid payment instrument
+## Legal basis: 前払式支払手段 (third-party prepaid payment instrument)
 
-WAON is registered as a **Third Party Prepaid Payment Instrument** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] Chapter 3 prepaid-instrument framework. Key regulatory consequences:
+WAON is registered as a **第三者型前払式支払手段** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] Chapter 3 prepaid-instrument framework. Key regulatory consequences:
 
 - Issuer must register with FSA (relevant local finance bureau) and appears in [[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]].
 - Half-yearly **unused-balance deposit** obligation: if outstanding balance > ¥10M, issuer must deposit half of unused balance with Legal Affairs Bureau (供託) as user-fund protection.
@@ -56,11 +56,11 @@ The acceptance network is structured in concentric circles:
 | Outer — Cross-merchant | Non-group merchants accepting WAON tap | McDonald's (historic), Yoshinoya, drugstore chains, gas stations |
 | Mobile rail | Apple Pay / Osaifu Keitai global-merchant FeliCa terminals | Any FeliCa-accepting POS |
 
-The size of the inner-tier network (over 20,000 AEON Group stores) underwrites WAON's installed-base position even as code-payment ([[payment-firms/paypay|PayPay]], [[payment-firms/au-payment|au PAY]], Rakuten Pay, d Pay) has captured marginal new-user growth.
+The size of the inner-tier network (over 20,000 AEON Group stores) underwrites WAON's installed-base position even as code-payment ([[payment-firms/paypay|PayPay]], [[payment-firms/au-payment|au PAY]], 楽天ペイ, d払い) has captured marginal new-user growth.
 
 ## KPI snapshot
 
-Quantitative KPIs are reported publicly by AEON in IR materials and integrated reports:
+Quantitative KPIs are reported publicly by AEON in IR materials and 統合報告書 (integrated reports):
 
 | Metric | Reading (most recent public disclosure) |
 |---|---|
@@ -76,7 +76,7 @@ Exact period-on-period growth figures live in AEON Co Ltd disclosure and AEON Fi
 
 WAON's strategic role inside the AEON Group is **closed-loop loyalty + retail-anchored cashless** rather than open-merchant code-payment competition. The strategic logic:
 
-1. **Group lock-in** — WAON balance is most economically used at AEON-group stores (best WAON POINT accrual rates, 5% off "Customer Appreciation Day" 20th / 30th of month discounts).
+1. **Group lock-in** — WAON balance is most economically used at AEON-group stores (best WAON POINT accrual rates, 5% off "お客さま感謝デー" 20th / 30th of month discounts).
 2. **Financial-services cross-sell** — WAON usage feeds [[card-issuers/aeon-bank|AEON Bank]] account openings, [[card-issuers/aeon-financial-service|AEON Financial Service]] card issuance, AEON Insurance products.
 3. **Brand differentiation vs nanaco** — WAON's mall / supermarket / drugstore footprint contrasts with nanaco's convenience-store-anchored scope; the head-to-head split is documented in [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco comparison]].
 4. **Code-payment supplement, not substitute** — AEON Pay app provides QR-code interface for code-payment-preferring customers without abandoning the FeliCa-anchored installed base.

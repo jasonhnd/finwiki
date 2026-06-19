@@ -1,88 +1,89 @@
 ---
 source: payments/nanaco-prepaid-seven-i
-source_hash: 3474b1a3e75c4ec0
+source_hash: b3714cc0eeab2d1d
 lang: zh
 status: machine
 fidelity: ok
-title: "nanaco：Seven & i 集团便利店锚定预付电子货币"
-translated_at: 2026-06-01T03:31:12.303Z
+title: "nanaco：以 Seven & i 集团便利店为锚的预付电子货币"
+translated_at: 2026-06-19T06:09:18.110Z
 ---
-# nanaco：Seven & i 集团便利店锚定预付电子货币
 
-## Wiki 路径
+# nanaco：以 Seven & i 集团便利店为锚的预付电子货币
 
-本条目位于 [[payments/INDEX|支付索引]]，作为 Seven & i 集团锚定的预付发行人页面，并与 [[payments/prepaid-payment-instrument-issuers-japan-index|预付式支付工具发行人登记索引]] 配套，说明金融厅登记口径。可与 [[payments/waon-nanaco-retail-prepaid-comparison|WAON 与 nanaco 零售预付比较]]、[[payments/waon-prepaid-aeon|WAON]]、[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|交通预付经济学]] 和 [[payments/famipay-valucreate-strategy|FamiPay]] 对照。发行人与集团锚点包括 [[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]] 和 [[retail/seven-and-i-hd|Seven & i Holdings]]。
+## Wiki route
+
+本条目位于 [[payments/INDEX|payments index]] 之下，是以 Seven & i 为锚的预付发行体页面，在 FSA 登记簿视角上与 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 配对，在零售锚点的正面比较上与 [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] 配对。请与 [[payments/waon-prepaid-aeon|WAON]]（永旺对应物）、[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]]（FeliCa 同业方案）和 [[payments/famipay-valucreate-strategy|FamiPay]]（便利店码支付对应物）比较。发行体／集团锚点为 [[card-issuers/seven-card-service|Seven Card Service]]（FSA 登记的预付发行体）、[[payment-firms/seven-payment-service|Seven Payment Service]]（结算服务）、[[regional-banks/seven-bank|Seven Bank]]（集团银行轨道）和 [[retail/seven-and-i-hd|Seven & i Holdings]]；忠诚度整合就 nanaco 积分经济性路由至 [[loyalty/japan-points-landscape|Japan points landscape]]。
 
 ## TL;DR
 
-**nanaco** 是 Seven & i Holdings 集团的**便利店锚定型预付电子货币**，2007-04 推出，与 WAON 同期形成日本零售集团预付竞争格局。它由 [[card-issuers/seven-card-service|Seven Card Service]] 发行，作为金融厅登记的第三方预付式支付工具发行人，法人编号为 4010001088278，登记日期为 2007-02-22。nanaco 运行在 **FeliCa** 非接触 IC 上，覆盖 20,000 家以上 7-Eleven Japan 门店，并扩展至 Ito-Yokado、Sogo & Seibu、Akachan Honpo、Denny's Japan 及集团外商户。结算和集团金融服务通过 [[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]] 和 Seven Card 系列信用卡协同。nanaco point 可按 1:1 转化为可消费余额，经济结构接近 WAON POINT。
+**nanaco** 是 Seven & i 控股集团 **以便利店为锚的预付电子货币**，于 2007-04  推出，与同期的 WAON 推出并行。由 [[card-issuers/seven-card-service|株式会社セブン・カードサービス]]（FSA 登记的第三者型前払式支払手段发行体，法人番号 4010001088278, ，2007-02-22 登记）发行，nanaco 运行于 **FeliCa** 非接触 IC 上，是 **20,000 家以上 Seven-7 Japan 店铺网络** 以及伊藤洋华堂超市、崇光西武百货店、阿卡佳本铺、Denny's Japan 及广泛的集团外商户布局中占主导地位的预付电子货币。结算在 [[banking/INDEX|Seven & i financial-services platform]] 之下经由 [[payment-firms/seven-payment-service|Seven Payment Service]] 运行，并与 [[regional-banks/seven-bank|Seven Bank]]（集团银行轨道、ATM 充值）及用于自动充值的 Seven Card Plus 信用卡联名卡并列。nanaco 积分忠诚度货币以 1:1  转换为可消费余额，与 WAON POINT 模式并行。
 
-## 发行人与运营结构
+## Issuer and operational structure
 
-| 维度 | 解读 |
+| Dimension | Reading |
 |---|---|
-| 品牌所有者 | Seven & i Holdings |
-| 金融厅预付发行主体 | [[card-issuers/seven-card-service|Seven Card Service]] |
-| 法人编号 | 4010001088278 |
-| 金融厅登记日期 | 2007-02-22 |
-| 结算 / 支付服务 | [[payment-firms/seven-payment-service|Seven Payment Service]] |
-| 集团银行轨道 | [[regional-banks/seven-bank|Seven Bank]]（ATM 充值、自动充值） |
-| 集团卡轨道 | Seven Card Plus（Visa / JCB 联名，内嵌 nanaco IC） |
-| 推出年份 | 2007-04 |
-| 技术 | FeliCa 非接触 IC |
-| 移动轨道 | Mobile nanaco、Osaifu Keitai、nanaco app、Apple Pay 部分设备支持 |
-| 充值上限 | 每张卡 50,000 日元 |
-| 单次充值上限 | 通常为 29,000 日元 |
+| Brand owner | Seven & i Holdings |
+| FSA prepaid issuer of record | [[card-issuers/seven-card-service\|株式会社セブン・カードサービス]] |
+| Corporate number | 4010001088278 |
+| FSA registration date | 2007-02-22 |
+| Settlement / payment services | [[payment-firms/seven-payment-service\|株式会社セブン・ペイメントサービス]] |
+| Group bank rail | [[regional-banks/seven-bank\|株式会社セブン銀行]] (ATM charge, auto-charge) |
+| Group card rail | セブンカード・プラス (Visa / JCB co-brand with nanaco IC embedded) |
+| Launch year | 2007-04 |
+| Technology | FeliCa contactless IC |
+| Mobile rail | Mobile nanaco (Osaifu Keitai), nanaco app, Apple Pay (limited devices via Wallet integration) |
+| Charge ceiling | ¥50,000 per card |
+| Single charge max | ¥29,000 typical |
 
-## 法律基础：第三方预付式支付工具
+## Legal basis: 前払式支払手段 (third-party prepaid payment instrument)
 
-与 [[payments/waon-prepaid-aeon|WAON]] 一样，nanaco 依据 [[payments/funds-transfer-vs-prepaid-boundary|《资金结算法》]]第 3 章预付框架登记为**第三方预付式支付工具**。主要监管后果包括：
+与 [[payments/waon-prepaid-aeon|WAON]] 一样，nanaco 在 [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] 第 3  章的预付框架下登记为 **第三者型前払式支払手段**。主要监管后果：
 
-- [[card-issuers/seven-card-service|Seven Card Service]] 在金融厅登记，并出现在 [[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]] 中。
-- 半年一次的**未使用余额保证金**义务：当未使用余额超过法定阈值时，发行人需向法务局供托一定比例资金，以保护用户余额。
-- 除发行终止等例外情形外，原则上不得向原付款人现金退款。
-- 休眠卡、遗失卡和未使用余额可能形成发行人损益中的 breakage。
-- 在预付工具限额和闭环 / 第三方边界内，适用相应 AML / KYC 处理。
+- [[card-issuers/seven-card-service|Seven Card Service]] 在 FSA（关东财务局）登记，并列于 [[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]]。
+- 每半年的 **未使用余额供托** 义务：当超过阈值（¥10M）时，将未使用余额结余的一半向法务局（供托）作为用户资金保护进行供托。
+- 除发行终止外，**不向原付款人退款**。
+- 对休眠／遗失卡的 **失效收益（breakage）** 计入发行体损益；Seven & i 在集团 IR 中披露余额数字。
+- 在 PSA 预付阈值下适用 AML／KYC 豁免。
 
-nanaco 与 2023 年《资金结算法》修订后的稳定币 / 电子支付工具框架不同：其价值只能在商户网络内消费，不能作为点对点转移工具。
+2023 PSA 修订下与 [[fintech/japan-stablecoin-regulatory-landscape|stablecoin / electronic-payment-instrument]] 框架的结构性区别使 nanaco 留在预付通道中 — 价值仅限店内，不可点对点转移。
 
-## 受理网络
+## Acceptance footprint
 
-nanaco 的受理网络先以 Seven & i 集团零售网络为核心，再向集团外商户扩张：
+受理网络首先按 Seven & i 集团零售锚点构建，然后向集团外扩展：
 
-| 层级 | 说明 | 例子 |
+| Tier | Description | Examples |
 |---|---|---|
-| 内圈：Seven & i 集团 | 集团便利店和零售锚点 | 7-Eleven Japan（约 21,000 家）、Ito-Yokado、Sogo & Seibu、Akachan Honpo、Denny's Japan、York Mart、York Benimaru |
-| 中圈：集团银行轨道 | ATM 充值、Seven Bank 与 Seven Card 自动充值 | [[regional-banks/seven-bank|Seven Bank]] ATM、Seven Bank 账户自动充值 |
-| 外圈：跨商户受理 | 集团外 nanaco 触碰支付商户 | 唱片店、加油站、药妆店、快餐、票务柜台等 |
-| 移动轨道 | Apple Pay / Osaifu Keitai 对应 FeliCa 终端 | 支持 FeliCa 的 POS |
-| 税费 / 公共事业支付 | nanaco 特有的票据支付用例 | 通过 7-Eleven 收银台使用 nanaco 支付所得税、固定资产税和公共事业账单 |
+| Inner — Seven & i Group | Group convenience-store and retail anchors | 7-Eleven Japan (~21,000 stores), Ito-Yokado, Sogo & Seibu, Akachan Honpo, Denny's Japan, York Mart, York Benimaru |
+| Middle — Group bank rail | ATM charge, auto-charge via Seven Bank and Seven Card | [[regional-banks/seven-bank\|Seven Bank]] ATMs (countrywide, including non-Seven locations), Seven Bank account auto-charge |
+| Outer — Cross-merchant | Non-group merchants accepting nanaco tap | Tower Records (formerly), gas stations, drugstores, fast food, Pia ticket counters |
+| Mobile rail | Apple Pay / Osaifu Keitai global FeliCa terminals | Any FeliCa-accepting POS |
+| Tax / utility payment | nanaco-specific receipt payment use case | Income tax / property tax payment via 7-Eleven レジ (using nanaco to pay 払込票) — a distinctive nanaco-only flow |
 
-税费与公共事业票据支付是 nanaco 的结构性特色。由于 7-Eleven 接受纳税通知和公共事业账单等公共款项收银，并可使用 nanaco 支付，消费者可以将原本现金化的柜台支付转化为无现金支付。[[payments/waon-prepaid-aeon|WAON]] 不具备同等范围的税费 / 公共事业受理场景。
+**税／公共费用的払込票支付** 用例是一项结构上重要的 nanaco 特有流程：由于 7-Eleven 在收银台受理公款払込票（税单、公共费用账单）且该处受理 nanaco，纳税人可就这些支付赚取 nanaco 积分 — 这是 [[payments/waon-prepaid-aeon|WAON]] 不能同等提供的流程，因为永旺不受理同样范围的公共费用／税务払込票。
 
-## KPI 轮廓
+## KPI snapshot
 
-| 指标 | 解读 |
+| Metric | Reading (most recent public disclosure) |
 |---|---|
-| 累计发行卡 / ID | 数千万量级；Seven & i 综合报告通常将 nanaco 列为日本主要零售预付品牌之一 |
-| 年交易笔数 | 便利店收银台高频触碰支付使其处于零售预付上位层 |
-| 7-Eleven 门店覆盖 | 全国约 21,000 家门店均支持 nanaco |
-| 集团受理点 | 覆盖 Seven & i 主要零售网络 |
-| nanaco point 发行 | 7-Eleven 典型基础返还率为 200 日元 1 点 |
+| Cumulative issued cards / IDs | Tens of millions; Seven & i 統合報告書 reports cumulative nanaco issuance among top-3 retail prepaid brands by card count |
+| Annual transaction count | Top-tier retail-prepaid by tap count at convenience-store registers (very high tap-frequency anchor) |
+| 7-Eleven store coverage | ~21,000 stores nationwide (all accept nanaco) |
+| Group acceptance points | Substantial — Seven & i full retail footprint |
+| nanacoポイント issuance | ¥200 = 1 point at 7-Eleven typical base rate |
 
-具体交易额、交易笔数和期间变动由 [[retail/seven-and-i-hd|Seven & i HD]] 及 [[card-issuers/seven-card-service|Seven Card Service]] 相关公开资料披露；FinWiki 引用公开资料而不复制每季数值。
+逐期的确切交易金额／件数在 [[retail/seven-and-i-hd|Seven & i HD]] 分部 IR 及 [[card-issuers/seven-card-service|Seven Card Service]] 报告中披露 — FinWiki 引用 IR 文档而非重现季度数字。
 
-## 战略定位：便利店无现金锚点
+## Strategy: convenience-store cashless anchor
 
-nanaco 在 Seven & i 集团内的战略角色包括：
+nanaco 在 Seven & i 内部的战略角色：
 
-1. **便利店收银速度**：FeliCa 触碰支付在高峰时段 7-Eleven 收银台具有速度优势。
-2. **税费 / 公共事业票据无现金化**：通过 7-Eleven 收银台将现金缴纳场景转化为电子货币支付。
-3. **集团金融服务交叉销售**：nanaco 使用可带动 [[regional-banks/seven-bank|Seven Bank]] 账户和 Seven Card 信用卡。
-4. **访日游客受理**：移动 nanaco / Apple Pay 与高密度门店网络结合，形成城市消费场景。
-5. **与码支付共存**：Seven & i 同时受理 PayPay、Rakuten Pay、d Barai、au PAY 等码支付；nanaco 是集团忠诚度锚定轨道，而非单纯的码支付竞争者。
+1. **便利店收银速度** — 在峰值吞吐的 7-Eleven 收银台，FeliCa 触碰比码支付的二维码扫描更快；nanaco 保有码支付难以撼动的结构性速度优势。
+2. **税／公共费用払込票的无现金转换** — 通过 7-Eleven 收银台受理，处于将税／公共费用现金支付转换为无现金的独特位置。
+3. **集团金融服务交叉销售** — nanaco 的使用为 [[regional-banks/seven-bank|Seven Bank]] 开户及 Seven Card 信用卡发行供给。
+4. **入境游客受理** — Mobile nanaco／Apple Pay 触达在日本的海外 iPhone 用户；结合 Seven & i 高密度的城市店铺网络，这是一条有意义的游客无现金通道。
+5. **与码支付共存** — Seven & i 集团也在 7-Eleven 收银台运营 PayPay 受理、乐天 Pay、d 支付、au PAY；nanaco 是多轨受理中 **以集团忠诚度为锚的** 轨道，而非码支付竞争对手。
 
-2019 年 7pay 事件强化了 Seven & i 对 nanaco 作为长期集团无现金锚点的定位，而不是重新依赖 Seven 品牌码支付。
+2019 7pay 事件（在安全失败后被撤回的短命 7pay 码支付产品）强化了 Seven & i 将 nanaco 定位为持久的集团无现金锚点、而非再次尝试 Seven 品牌码支付的立场。
 
 ## Related
 
@@ -105,9 +106,9 @@ nanaco 在 Seven & i 集团内的战略角色包括：
 
 - nanaco official site (nanaco-net.jp).
 - Seven Card Service corporate site (7card.co.jp).
-- Seven & i Holdings corporate site (7andi.com), group structure and IR.
-- Seven-Eleven Japan corporate site (sej.co.jp), store network and register acceptance.
-- Seven Bank corporate site (7bank.co.jp), group bank rail and ATM charge.
-- FSA, `daisan.xlsx`, third-party prepaid-instrument issuer registration list.
+- Seven & i Holdings corporate site (7andi.com) — group structure and IR.
+- Seven-Eleven Japan corporate site (sej.co.jp) — store network and register acceptance.
+- Seven Bank corporate site (7bank.co.jp) — group bank rail and ATM charge.
+- FSA, `daisan.xlsx` — third-party prepaid-instrument issuer registration list (Seven Card Service entry, registered 2007-02-22).
 - FSA prepaid payment instruments policy page.
 - METI cashless policy page.

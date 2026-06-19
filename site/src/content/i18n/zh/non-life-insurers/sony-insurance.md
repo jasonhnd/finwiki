@@ -1,52 +1,54 @@
 ---
 source: non-life-insurers/sony-insurance
-source_hash: 893562b91cc60970
+source_hash: 9b9c34fd897573d7
 lang: zh
 status: machine
 fidelity: ok
-title: "Sony Assurance"
-translated_at: 2026-06-01T02:31:57.160Z
+title: "ソニー損害保険"
+translated_at: 2026-06-19T06:09:18.047Z
 ---
-# Sony Assurance
 
-## Wiki route
+# ソニー損害保険
 
-本条目位于[[non-life-insurers/INDEX|non-life-insurers INDEX]]之下。可与[[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
+
+## Wiki 路径
+
+本词条归属于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。请对照 [[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] 了解同类／对比背景，并对照 [[insurance/INDEX|insurance index]] 了解更广泛的系统／监管边界。
 
 ## TL;DR
 
-Sony Assurance Inc. 是[[megabanks/sony-fg]]集团的直营型财产保险运营公司。它列入 FSA 损害保险公司许可清单和日本损害保险保单持有人保护机构会员名单，是 direct auto insurance / online insurance 模式的代表案例。
+ソニー損害保険株式会社是 [[megabanks/sony-fg]] group 的 direct 财产保险经营公司。作为列于金融厅损害保险公司牌照一览及损害保险契约者保护机构成员一览的 licensed insurer，是 direct auto insurance／online insurance model 的代表案例。
 
-## 1. 牌照 / 集团边界
+## 1. 牌照／集团边界
 
-| 项目 | 说明 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | Sony Assurance Inc. |
+| 法定名称 | ソニー損害保険株式会社 |
 | 英文名称 | Sony Assurance Inc. |
-| 牌照路径 | 《保险业法》下的损害保险公司；FSA 损害保险公司清单 |
-| 保护机制 | 损害保险保单持有人保护机构会员 |
-| 集团边界 | [[megabanks/sony-fg]]直营型损害保险运营公司 |
+| 牌照路径 | 保险业法下的损害保险公司；金融厅损害保险公司一览 |
+| 保护机制 | 损害保险契约者保护机构成员 |
+| 集团边界 | [[megabanks/sony-fg]] direct 财产保险经营公司 |
 
-## 2. 运营模式
+## 2. 经营模式
 
-Sony Assurance 是以 direct channel、呼叫中心、网页 / App 报价和直营车险品牌为轴心的保险公司，不同于以代理店为主的大型损保公司。它与[[life-insurers/sony-life]]、[[regional-banks/sony-bank]]共同构成 Sony Financial Group 的消费金融 / 保险生态。
+ソニー損保与以代理店为主体的大型损保不同，是以 direct channel、call center、web／app quotation、direct auto insurance branding 为轴心成长起来的 insurer。它与 [[life-insurers/sony-life]] 及 [[banking/sony-bank]] 一起，构成了 Sony Financial Group 的 consumer finance／insurance 生态系统。
 
-## 3. 为什么此页重要
+## 3. 本页的意义
 
-- 是比较直营车险的锚点。
-- 将[[megabanks/sony-fg]]的控股公司战略与损害保险承保实体区分开。
-- 提供有注册清单支撑的 D4  direct / digital non-life 页面。
+- 作为 direct auto insurance 比较的锚点。
+- 将 [[megabanks/sony-fg]] 的控股公司战略与财产承保区分开来。
+- 由注册登记支撑的 D4 direct／digital 财产保险页面。
 
-## Related
+## 相关
 
 - [[megabanks/sony-fg]]
 - [[life-insurers/sony-life]]
-- [[regional-banks/sony-bank]]
+- [[banking/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 
-## Sources
+## 来源
 
-- FSA: non-life insurance company license list, as of 2026-04-01.
-- Non-Life Insurance Policyholders Protection Corporation of Japan: member-company list, as of 2026-04.
-- Sony Assurance official company profile.
+- 金融厅：损害保险公司牌照一览，截至 2026-04-01。
+- 日本损害保险契约者保护机构：成员公司一览，截至 2026-04。
+- ソニー損保 官方公司简介。

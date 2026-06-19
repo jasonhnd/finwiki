@@ -1,130 +1,140 @@
 ---
 source: policy-finance/japan-project-finance-stack-diagram
-source_hash: 27c1b1e0ac79de9f
+source_hash: 8654ee6cf4aa61f1
 lang: zh
 status: machine
 fidelity: ok
-title: "日本项目融资堆栈图（JOGMEC / JBIC / NEXI / megabank / SPV）"
-translated_at: 2026-06-01T03:31:12.252Z
+title: "日本项目融资堆栈图 (JOGMEC / JBIC / NEXI / 大型银行 / SPV)"
+translated_at: 2026-06-19T06:09:18.067Z
 ---
-# 日本项目融资堆栈图（JOGMEC / JBIC / NEXI / megabank / SPV）
 
-## 维基路线
+# 日本项目融资堆栈图 (JOGMEC / JBIC / NEXI / 大型银行 / SPV)
 
-该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为日本如何为海外资源和基础设施项目融资的跨机构地图。单独阅读每个机构的 [[financial-regulators/jbic]]、[[policy-finance/nexi]] 和 [[policy-finance/jogmec]]，[[policy-finance/oecd-export-credit-arrangement]] 代表官方条款的监管上限，[[finance/japan-acquisition-finance]] 代表同一大型银行如何在政策金融领域之外构建私人银团债务。
+## Wiki 路径
 
-## 长篇大论；博士
+本条目位于 [[policy-finance/INDEX|policy-finance index]] 之下，是关于日本如何为海外资源与基础设施项目融资的跨机构地图。请将其与 [[financial-regulators/jbic]]、[[policy-finance/nexi]]、[[policy-finance/jogmec]] 一同阅读以单独了解每个机构，与 [[policy-finance/oecd-export-credit-arrangement]] 了解官方条件的监管上限，并与 [[finance/japan-acquisition-finance]] 了解同样这些大型银行如何在政策金融周界之外组成私营银团债务。
 
-典型的日本海外资源或基础设施项目不会出现在一张资产负债表上。风险分为四个国家和私人层面，分别位于赞助商SPV背后：[[policy-finance/jogmec|JOGMEC]]在上游承担股权和勘探/地质风险，[[financial-regulators/jbic|JBIC]]提供与主权相关的海外投资贷款、不附带条件的贷款和出口买方信贷，[[policy-finance/nexi|NEXI]]在商业银行贷款和大型银行银团的基础上确保政治和商业风险（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]]）提供商业贷款，通常由一家银行作为代理/融资银行。之所以存在这种堆栈，是因为没有任何一个单一的资产负债表（无论是公共还是私人）能够独自承担全部勘探风险、主权风险、政治风险和长期商业风险。
+## TL;DR
 
-## 堆栈的 ASCII 图````
-                         +------------------------------------------------+
-                         |        赞助 SPV / 项目公司 |
-                         |  （贸易公司、石油巨头、IPP / |
-                         |   矿工；股权发起人；             |
-                         |   有限追索权借款人）|
-                         +--------------------------------+--------------------+
+一个典型的日本海外资源或基础设施项目并不坐落于单一资产负债表之上。风险被切分为堆叠在发起人 SPV 背后的四个公共与私营层: [[policy-finance/jogmec|JOGMEC]] 在上游层承担股权与勘探／地质风险，[[financial-regulators/jbic|JBIC]] 提供与主权对齐的海外投资贷款、非捆绑贷款与出口买方信贷，[[policy-finance/nexi|NEXI]] 在商业银行贷款之上为政治与商业风险投保，而大型银行银团（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]]）提供商业贷款，常由一家银行担任代理／融资行。该堆栈之所以存在，是因为没有任何单一资产负债表 —— 无论公共还是私营 —— 能独自承担勘探风险、主权风险、政治风险与长期商业风险的全部组合。
+
+## 堆栈的 ASCII 图
+
+```
+                         +---------------------------------------+
+                         |        SPONSOR SPV / PROJECT CO       |
+                         |  (trading houses, oil majors, IPP /   |
+                         |   miners; equity sponsors;             |
+                         |   limited-recourse borrower)           |
+                         +-------------------+-------------------+
                                              ^
-                                             |  股权+优先债务
+                                             |  equity + senior debt
                                              |
-       +----------+ 股权 / +-------------+------------+ 商业贷款
-       |          |  除险 |       融资堆栈|   批次
-       |  JOGMEC |----------->|                           |<------------------+
-       |          |  资源|   高级债务|  股权 |                   |
-       +----------+ 股权 |   批次 |  层 |                   |
-            ^ +---+-----+------+----+-----+ |
-            |  政策/ |     |           |                         |
-            |  能源安全|     |           |                         |
-            |                      v v v |
-       +----+----+ +--------+ +--------+ +---------+ +--------+--------+
-       |  日本经济产业省 / |        |  日本国际协力银行 |   |内克西 |   |  其他|        |    兆丰银行|
-       |  外交部 |        | (ECA | |(ECA | | ECA / | | 辛迪加 |
-       |  政策|        |直接|   |保险- |   |多边开发银行 |        |三菱日联金融集团 / 三井住友银行 / |
-       +---------+ |贷款/ |   | 恩斯) |   | （共同鳍）|        |    瑞穗|
-                          |解开|   |       |   |         |        | （商业 |
-                          |贷款/ |   |       |   |         |        |  贷款、代理|
-                          |买家 |   |       |   |         |        |  银行、树篱）|
-                          |信用）|   |       |   |         |        +--------+--------+
-                          +---+----+ +---+---+ +----+----+ |
+       +----------+   equity / +-------------+-------------+   commercial loan
+       |          |  ex-risk   |       FINANCING STACK     |   tranche
+       |  JOGMEC  |----------->|                           |<------------------+
+       |          |  resource  |   senior debt  |  equity  |                   |
+       +----------+  equity    |   tranches     |  layer   |                   |
+            ^                  +---+-----+------+----+-----+                   |
+            |  policy /            |     |           |                         |
+            |  energy security     |     |           |                         |
+            |                      v     v           v                         |
+       +----+----+        +--------+   +-------+   +---------+        +--------+--------+
+       |  METI / |        |  JBIC  |   | NEXI  |   |  Other  |        |    Megabank    |
+       |  MOFA   |        | (ECA   |   |(ECA   |   | ECAs /  |        |    syndicate   |
+       |  policy |        | direct |   |insur- |   | MDBs    |        | MUFG / SMBC /  |
+       +---------+        | loan / |   |ance)  |   | (co-fin)|        |    Mizuho      |
+                          | untied |   |       |   |         |        | (commercial    |
+                          | loan / |   |       |   |         |        |  loans, agent  |
+                          | buyer  |   |       |   |         |        |  bank, hedges) |
+                          | credit)|   |       |   |         |        +--------+-------+
+                          +---+----+   +---+---+   +----+----+                 |
                               |            |            |                      |
-                              |  贷款|  保险|  共同融资|商业
-                              |  收益 |  封面|                      |贷款
-                              维维维维
-                         +----+------------+------------+------------------------+----+
-                         |               通用条款/债权人 |
-                         |  经合组织安排最低溢价+期限上限；          |
-                         |  赤道原则 ESG 屏幕；共同安全信托|
-                         +----------------------------------------+----------------------------------------+
+                              |  loan      |  insurance |  co-financing        | commercial
+                              |  proceeds  |  cover     |                      | loan
+                              v            v            v                      v
+                         +----+------------+------------+----------------------+----+
+                         |               COMMON TERMS / INTERCREDITOR              |
+                         |  OECD Arrangement minimum premia + tenor caps;          |
+                         |  Equator Principles ESG screen; common security trust   |
+                         +----------------------------+---------------------------+
                                                       |
                                                       v
-                                                项目现金流量
-                                          （液化天然气排放、采矿排放、电力 PPA、基础设施可用性）
-````
+                                                Project cash flows
+                                          (LNG offtake, mining offtake,
+                                           power PPA, infra availability)
+```
 
-该图是风格化的。真正的交易会改变顺序——例如，JBIC 可能通过其特别业务账户直接持有股权，NEXI 可能会打包一部分商业贷款而不是出口合同，而多边机构（亚洲开发银行、世界银行、亚投行）或同行 ECA（K-EXIM、美国 EXIM、EDC、KfW IPEX）通常与日本堆栈并列。
+该图是样式化的。真实交易会打乱顺序 —— 例如，JBIC 可能经由其特别业务账户取得直接股权，NEXI 可能包裹商业贷款的一部分而非出口合同，而多边机构（ADB、世界银行、AIIB）或同业 ECA（K-EXIM、US EXIM、EDC、KfW IPEX）常与日本堆栈并列。
 
-### JOGMEC — 股权/勘探风险
+### JOGMEC — 股权／勘探风险
 
-[[policy-finance/jogmec|JOGMEC]]是资源安全节点。在项目融资堆栈上，它承担着其他贷款人拒绝承保的风险：最终投资决定前的勘探、地质和储量风险，以及上游石油、天然气和关键矿产资产的股权参与。工具包括向日本贸易公司和公用事业公司的资源开发子公司注资、资产收购支持以及勘探借款的责任担保。 JOGMEC 出现在股权结构表中通常是让 [[financial-regulators/jbic|JBIC]] 和大型银行财团向前迈进的信号——一旦储量得到证实并且项目可以融资，高级债务层的规模就可以确定。
+[[policy-finance/jogmec|JOGMEC]] 是资源安全节点。在项目融资堆栈上，它承担其他贷款人拒绝承保的风险: FID 前勘探、地质与储量风险，以及对上游石油、天然气与关键矿产资产的股权参与。工具包括向日本商社与公用事业公司的资源开发子公司注入股权资本、资产收购支持，以及为勘探借款提供债务担保。JOGMEC 在股本结构表中的存在，往往是让 [[financial-regulators/jbic|JBIC]] 与大型银行银团得以推进的信号 —— 一旦储量被证实、项目可融资，便可对高级债务层进行定额。
 
-### JBIC — 主权海外投资贷款、无条件贷款、出口买方信贷
+### JBIC — 与主权对齐的海外投资贷款、非捆绑贷款、出口买方信贷
 
-[[financial-regulators/jbic|JBIC]] 是日本政府针对海外项目的直接贷款机构。在堆栈上，它通常显示为以下一项或多项：向日本设备（例如涡轮机、液化列车、铁路系统）的外国买家提供的**出口买家信贷**；向日本附属 SPV 与大型银行共同贷款的**海外投资贷款**；或向主权或主权相邻借款人提供**不附带条件的贷款**，以确保将长期资源进口回日本。日本国际协力银行的作用部分是提供与主权一致的期限（资源和基础设施的15-25 年），部分是提供商业银行可以支持的国家对手方。
+[[financial-regulators/jbic|JBIC]] 是日本国家针对海外项目的直接放贷部门。在堆栈上，它通常表现为以下一项或多项: 向日本设备（例: 涡轮机、液化列车、铁路系统）的外国买方提供的 **出口买方信贷**; 向与大型银行并肩协调融资的日本系 SPV 提供的 **海外投资贷款**; 或向主权或主权邻接借款人提供的、以确保对日本的长期资源进口的 **非捆绑贷款**。JBIC 的角色部分在于带来与主权对齐的期限（资源与基础设施为 15–25  年），部分在于提供一个商业银行可以坐落其后的国家交易对手。
 
-### NEXI — 政治风险/商业风险保险
+### NEXI — 政治风险／商业风险保险
 
-[[policy-finance/nexi|NEXI]] 包含了商业贷款机构不会裸露的风险。项目融资核心产品有**海外投资保险**（涵盖征用、战争、限制转让、股权投资违约等）； **买方信贷贸易和投资保险**（涵盖商业银行向外国买方贷款的政治和商业违约风险）； **贷款保险**（涵盖海外贷款的政治/商业违约）。有了 NEXI 的保障，大型银行部分实际上得到了部分国家担保，用于风险加权资产目的和国家限制目的。
+[[policy-finance/nexi|NEXI]] 包裹商业贷款人不会裸露承担的风险。项目融资堆栈上的核心产品是 **海外投资保险**（覆盖对股权投资的征收、战争、转移限制与违约）; **贸易与投资保险之买方信贷用**（覆盖对外国买方的商业银行贷款的政治与商业违约风险）; 以及 **贷款保险**（覆盖对海外放贷的政治／商业违约）。有了 NEXI 保障，大型银行分批就风险加权资产目的与国家额度目的而言实际上获得部分国家担保。
 
-### Megabank 银团 — 商业银行贷款、代理银行角色日本三大银行——[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]] 和 [[megabanks/mizuho-fg|Mizuho FG]]——提供商业贷款部分，几乎总是与外国银行（法国、新加坡、美国、澳大利亚）一起进行大型液化天然气和采矿交易。一家银行通常扮演**代理/设施代理**的角色，运行债权人间机制，并管理提款和瀑布。大型银行还提供辅助服务：外汇和利率对冲、营运资本额度、承购流量的贸易融资以及债券或可持续发展相关市场的货到付款后再融资。在政策金融领域之外，同样的银行构建纯粹的私人交易——请参阅 [[finance/japan-acquisition-finance|Japan acquisition finance]]，了解如何将相同的辛迪加机制重新用于杠杆收购和企业并购。
+### 大型银行银团 — 商业银行贷款、代理行角色
 
-### Sponsor SPV — 项目公司、股权发起人
+日本大型银行三家 —— [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] —— 提供商业贷款分批，在大型 LNG 与采矿交易中几乎总是与外国银行（法国、新加坡、美国、澳大利亚）并肩提供。通常由一家银行担任 **代理／融资代理** 角色，运营债权人间机制，并管理提款与瀑布。大型银行还提供附带服务: 外汇与利率对冲、运转资金额度、为承购流提供的贸易融资，以及 COD 后向债券或可持续发展挂钩市场的再融资。在政策金融周界之外，同样这些银行组成纯私营交易 —— 关于同样的银团机构如何被重复用于 LBO 与企业 M&A，参见 [[finance/japan-acquisition-finance|Japan acquisition finance]]。
 
-记录借款人是一家单一目的项目公司。股权发起人通常是以下财团： 日本贸易公司（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] 不是股权发起人 - 贸易公司包括：三井物产、三菱商事、住友商事、伊藤忠商事、丸红、双日）、 日本公用事业公司（JERA、东京燃气、大阪燃气、关西电力）、东道国国家石油公司或国家矿业公司，以及一个或多个国际资源巨头（例如 TotalEnergies、壳牌、必和必拓、力拓）。 SPV 的追索权有限：贷方主要关注项目现金流，而不是赞助商的资产负债表。
+### 发起人 SPV — 项目公司、股权发起人
 
-## 典型交易流程时间表
+记录上的借款人是一家单一目的项目公司。股权发起人通常是以下各方的联合体: 一家日本商社（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] 并非股权发起人 —— 商社是: 三井、三菱商事、住友商事、伊藤忠、丸红、双日），一家日本公用事业公司（JERA、东京瓦斯、大阪瓦斯、关西电力），一家东道国国营石油公司或国营采矿公司，以及一家或多家国际资源巨头（例: TotalEnergies、Shell、BHP、Rio Tinto）。SPV 是有限追索的: 贷款人主要看项目现金流，而非发起人资产负债表。
 
-|舞台|从开始起的几个月 |会发生什么 |谁在开车 |
+## 典型的交易流程时间线
+
+| Stage | Months from start | What happens | Who is driving |
 |---|---|---|---|
-|概念/意向书 | 0–6 |预可行性、资源识别、东道国谅解备忘录、赞助商之间的条款表 |贸易公司，JOGMEC 范围界定 |
-|预喂食/喂食| 6–24 |工程研究、环境和社会影响评估、财政制度谈判|赞助商、EPC 承包商 |
-|银行融资工作| 18–36 |贷款人技术顾问、市场顾问、法律尽职调查、保险经纪人绑定结构| Megabanks、JBIC、NEXI 承销商 |
-| FID | 〜24–36 |赞助商以融资为条件做出最终投资决定 |赞助商板 |
-|财务结算| 24–42 |共同条款协议、债权人协议、ECA 文件、安全信托 |代理银行、贷款人法律顾问 |
-|回撤/建设| 36–84 | JBIC、NEXI 涵盖的商业部分、赞助商股权按比例提款 | EPC、业主工程师|
-|货到付款/头货 | 〜7 年|机械完工、贷款人可靠性测试、从赞助商支持转向项目现金流 |项目合作|
-|运营/再融资| 7+ 年 |从承购收入中偿还高级债务；商业部分潜在的债券再融资|财务主管/代理银行|
+| Concept / LOI | 0–6 | Pre-feasibility, resource identification, host-country MOU, term sheet between sponsors | Trading houses, JOGMEC scoping |
+| Pre-FEED / FEED | 6–24 | Engineering studies, environmental and social impact assessment, fiscal regime negotiation | Sponsors, EPC contractors |
+| Bankability work | 18–36 | Lenders' technical advisor, market consultant, legal due diligence, insurance broker bind structure | Megabanks, JBIC, NEXI underwriters |
+| FID | ~24–36 | Final investment decision by sponsors conditional on financing | Sponsor boards |
+| Financial close | 24–42 | Common terms agreement, intercreditor agreement, ECA documentation, security trust | Agent bank, lenders' counsel |
+| Drawdown / construction | 36–84 | Pro-rata drawdowns across JBIC, NEXI-covered commercial tranches, sponsor equity | EPC, owner's engineer |
+| COD / first cargo | ~7 years | Mechanical completion, lender reliability test, switch from sponsor support to project cash flow | Project Co operations |
+| Operations / refinance | 7+ years | Senior debt repayment from offtake revenues; potential bond refinancing of commercial tranche | Treasurer / agent bank |
 
-真实交易下滑。液化天然气大型项目从最终投资决定到第一批货物通常需要 5–8  年，并需要 10–15  年才能全额偿还高级债务。
+真实交易会拖延。LNG 大型项目从 FID 到首船货往往需要 5–8  年，再加 10–15  年才能完成高级债务全额偿还。
 
-## 最近的说明性示例
+## 近期示例案例
 
-此处仅提及公开宣布的参与；批次规模和结构得到简化。- **莫桑比克液化天然气（1区域）** — JBIC安排了一笔优先贷款，作为多ECA一揽子计划的一部分； NEXI 为商业银行部分提供保险；日本大型银行与美国 EXIM、UKEF 和其他 ECA 一起参与了商业部分。赞助商财团包括 TotalEnergies（运营商）、三井物产、ONGC Videsh 等。该项目展示了 2021  安全事件后 ECA 在不可抗力压力下的堆积情况。
-- **澳大利亚液化天然气（Ichthys、Wheatstone 和早期的西北陆架扩建项目）** — 日本主导的多个液化天然气开发项目，由 JBIC 直接贷款、NEXI 涵盖的商业银行部分和大型银行银团提供资金。赞助商包括 INPEX（Ichthys 运营商）、雪佛龙、壳牌和日本贸易公司/公用事业股权部门。
-- **铜/锂开采** — JOGMEC 已公开宣布通过日本贸易公司参股铜、镍和锂项目（例如，过去对智利和澳大利亚铜、加拿大和澳大利亚锂、印度尼西亚镍的投资） — 典型的 JOGMEC 股权是日本赞助商背后的少数股权，在 JOGMEC 之外拥有商业债务。
-- **基础设施：电力和铁路** — JBIC 海外投资贷款加上 NEXI 买方信用保险支持了日本主导的南亚和东南亚 IPP 项目（燃气和可再生能源），以及与日本铁路制造商相关的机车车辆/城市铁路套餐（例如捷运/地铁交付）。
+此处仅列出公开宣布的参与; 分批规模与结构已简化。
 
-对于具体的批次规模，请根据 JBIC 和 NEXI 新闻稿确认确切的设施名称和日期。
+- **莫桑比克 LNG（Area 1）** — JBIC 作为多 ECA 一揽子方案的一部分安排了一笔高级贷款; NEXI 对商业银行分批提供保险保障; 日本大型银行与 US EXIM、UKEF 及其他 ECA 并肩参与商业分批。发起人联合体包括 TotalEnergies（运营方）、三井、ONGC Videsh 等。该项目示例了 2021  安全事件后在不可抗力压力下的 ECA 堆叠。
+- **澳大利亚 LNG（Ichthys、Wheatstone 及更早的 North West Shelf 扩建）** — 多个日本主导的 LNG 开发以 JBIC 直接放贷、NEXI 保障的商业银行分批及大型银行银团融资。发起人包括 INPEX（Ichthys 运营方）、Chevron、Shell 及日本商社／公用事业公司的股权切片。
+- **铜／锂采矿** — JOGMEC 已公开宣布经由日本商社对铜、镍、锂项目的股权参与（例: 对智利与澳大利亚铜、加拿大与澳大利亚锂、印度尼西亚镍的过往投资）—— 典型的 JOGMEC 持股是在日本发起人背后的少数股权额度，商业债务在 JOGMEC 之外。
+- **基础设施: 电力与铁路** — JBIC 海外投资贷款加 NEXI 买方信贷保险已支持南亚与东南亚日本主导的 IPP 项目（燃气与可再生能源），以及与日本铁路制造商挂钩的车辆／城市铁路一揽子（例: MRT / 地铁交付）。
 
-## 这与纯粹的商业银团贷款有何不同
+关于具体分批规模，请对照 JBIC 与 NEXI 的新闻稿核实确切的设施名称与日期。
 
-用于日本国内收购或企业再融资的纯商业银团贷款不需要 JOGMEC、JBIC 或 NEXI。大型银行根据企业资产负债表在自己的账簿上放贷，通常与杠杆和利息保障挂钩，期限为 5–10  年。该结构请参见 [[finance/japan-acquisition-finance|Japan acquisition finance]]。
+## 这与纯商业银团贷款有何不同
 
-项目融资堆栈在五个方面有所不同：
-1。 **风险切片**：每一层都有一个明确的切片（勘探、主权期限、政治风险、商业信用），而不是一个资产负债表吸收所有内容。
-2。 **期限**：ECA 部分将优先债务推至 15–25  年，超出了私人银团的支持范围。
-3。 **定价规则**：[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] 下的最低溢价和 CIRR 下限可防止 ECA 价格竞争导致利润率下降。
-4。 **追索权**：仅限于项目现金流和明确的赞助商支持范围，而不是完整的公司追索权。
-5。 **文件重量**：通用条款协议、债权人间协议和ECA特定契约使文件包比国内银团贷款重一个数量级。
+一笔纯商业银团贷款 —— 用于日本国内收购或企业再融资 —— 不需要 JOGMEC、JBIC 或 NEXI。大型银行以自有账簿对照企业资产负债表放贷，常带有与杠杆与利息覆盖挂钩的契约，期限为 5–10  年。该结构参见 [[finance/japan-acquisition-finance|Japan acquisition finance]]。
 
-## 为什么每一层都存在——市场失灵框架- **勘探风险（JOGMEC）**：上游地质风险具有重尾损失分布和较长的交付时间。仅私募股权资本不愿意为最终投资决定前在地缘政治敏感司法管辖区的边际回报关键矿产勘探提供资金。国家股权/风险分担工具是按日本政策目标（资源安全）要求的价格购买该风险的唯一买家。
-- **主权期限贷款（JBIC）**：商业银行面临巴塞尔风险权重和存款人期限不匹配的问题，这使得20年的未对冲主权风险贷款在经济上没有吸引力。能够获得政府支持资金的国有贷款机构可以以政治上可以承受的价格延长这一期限。
-- **政治风险保险 (NEXI)**：私人政治风险保险市场（劳合社、MIGA、私人辛迪加）对每个国家和每种风险都有容量上限。对于边境国家数十亿美元的液化天然气项目，私人产能不足；国家保险填补了这一空白。
-- **商业银行银团（大型银行）**：即使有ECA的支持，私人银行也需要提供辅助服务（对冲、代理角色、营运资金）并提供纯国家金融所缺乏的市场定价规则。 [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]] 和 [[megabanks/mizuho-fg|Mizuho FG]] 的存在也使该项目符合赤道原则 ESG 尽职调查，国家机构也参考了这一点。
-- **SPV /赞助商**：需要有限追索权工具，以便项目失败不会损害贸易公司或公用事业母公司评级的资产负债表，这使得母公司能够参与多个并行项目。
+项目融资堆栈在五个方面不同:
+1. **风险切分**: 每一层承担一个定义的切片（勘探、主权期限、政治风险、商业信用），而非由一个资产负债表吸收一切。
+2. **期限**: ECA 分批将高级债务推至 15–25  年，超出私营银团所支持的范围。
+3. **定价纪律**: [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] 下的最低保费与 CIRR 下限防止 ECA 价格竞争压垮利差。
+4. **追索**: 限定于项目现金流与一个定义的发起人支持范围，而非全企业追索。
+5. **文件分量**: 共同条款协议、债权人间协议与 ECA 特定契约，使文件一揽子比国内银团贷款重一个数量级。
 
-每一层都吸收其下面的层无法定价的风险。去掉任何一层，交易就无法达成——或者只能通过竞争对手的政策-金融堆栈来达成。
+## 为何每一层都存在 — 市场失灵框架
 
-## 相关
+- **勘探风险（JOGMEC）**: 上游地质风险具有重尾损失分布与长前置期。仅靠私营股权资本不愿在地缘政治敏感的法域为边际回报的关键矿产资助 FID 前勘探。国家股权／风险分担载体是以日本政策目标（资源安全）所要求的价格承接该风险的唯一买方。
+- **主权期限放贷（JBIC）**: 商业银行面临巴塞尔风险加权与存款人期限错配，使 20 年未对冲的主权敞口放贷在经济上缺乏吸引力。具有政府支持资金渠道的国家贷款人能以政治上可容忍的价格延长该期限。
+- **政治风险保险（NEXI）**: 私营政治风险保险市场（Lloyd's、MIGA、私营银团）按国家、按险种设有容量上限。对于前沿国家数十亿美元的 LNG 项目，私营容量不足; 国家保险填补该缺口。
+- **商业银行银团（大型银行）**: 即便有 ECA 支持，仍需私营银行提供附带服务（对冲、代理角色、运转资金），并提供纯国家金融所缺乏的市场定价纪律。[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]] 与 [[megabanks/mizuho-fg|Mizuho FG]] 的存在还使项目对国家机构亦参照的 Equator Principles ESG 尽职调查保持合规。
+- **SPV / 发起人**: 需要一个有限追索载体，以使项目失败不会损害商社或公用事业母公司的评级资产负债表，这正是允许母公司参与多个并行项目的原因。
+
+每一层吸收其下各层无法定价的风险。移除任何一层，交易便无法建成 —— 或仅由竞争对手的政策金融堆栈建成。
+
+## Related
 
 - [[policy-finance/INDEX]]
 - [[financial-regulators/jbic]]
@@ -137,11 +147,11 @@ translated_at: 2026-06-01T03:31:12.252Z
 - [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
-## 来源
+## Sources
 
-- JBIC 官方网站 (https://www.jbic.go.jp/en/) — 机构角色、贷款产品、海外投资贷款/不附带条件贷款/出口买方信贷定义。
-- NEXI 官方网站 (https://www.nexi.go.jp/en/) — 海外投资保险、贸易投资保险、贷款保险产品说明。
-- JOGMEC 官方网站 (https://www.jogmec.go.jp/english/) — 股权参与、资产收购支持、勘探/开发风险分担授权。
-- 经合组织关于官方支持出口信贷的安排 (https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) — 最低溢价、还款期限上限、部门谅解，包括煤炭部门谅解。
-- JBIC和项目赞助商关于莫桑比克液化天然气融资的公开新闻稿。
-- METI 出口和投资保险概述 (https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html) — NEXI / JBIC 角色的政策框架。
+- JBIC official site (https://www.jbic.go.jp/en/) — institutional role, lending products, overseas investment loan / untied loan / export buyer credit definitions.
+- NEXI official site (https://www.nexi.go.jp/en/) — Overseas Investment Insurance, Trade and Investment Insurance, Loan Insurance product descriptions.
+- JOGMEC official site (https://www.jogmec.go.jp/english/) — equity participation, asset acquisition support, exploration / development risk-sharing mandate.
+- OECD Arrangement on Officially Supported Export Credits (https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) — minimum premia, repayment-term caps, sector understandings including the Coal Sector Understanding.
+- JBIC and project-sponsor public press releases for Mozambique LNG financing.
+- METI export and investment insurance overview (https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html) — policy framing of NEXI / JBIC roles.

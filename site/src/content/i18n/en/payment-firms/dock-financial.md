@@ -1,162 +1,162 @@
 ---
 source: payment-firms/dock-financial
-source_hash: 30d0e0946679c698
+source_hash: be94c7c757f4ed9d
 lang: en
 status: machine
 fidelity: ok
 title: "SB Payment Service (SoftBank Payment Service)"
-translated_at: 2026-05-31T15:29:03.885Z
+translated_at: 2026-06-19T06:09:18.120Z
 ---
 # SB Payment Service (SoftBank Payment Service)
 
 > [!note] Naming note
-> This page was originally requested under the dock-financial slot. Because no independent Japanese financial group named Dock Financial Group could be confirmed from public sources, the page uses **SB Payment Service (SBPS)**, SoftBank Group payment-processing subsidiary, as the relevant operating-company anchor for SoftBank financial functions.
+> This page was originally requested as a slot under the name "dock-financial," but since no independent financial group entity called "Dock Financial Group" can be confirmed in Japan, the **SoftBank group's payment-agency subsidiary "SB Payment Service (SBPS)"** is substituted instead. It is positioned as the operating-company anchor for the SoftBank group's financial functions.
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **operating-company anchor** for SB Payment Service (SBPS), the SoftBank Corp. payment-processing and financial-services subsidiary. Read it against [[megabanks/paypay-fg|PayPay Financial Group]] for the sister SoftBank-affiliated payment / fintech cluster, [[megabanks/au-fh|au Financial Holdings]] for the telco-captive financial group peer, [[megabanks/ndfg|NTT docomo FG]] for the telco-financial-group peer, [[payments/INDEX|payments index]] for the PSP / merchant-payment-service context, and [[payments/cashless-jp-landscape|Japan cashless payment landscape]] for system-level positioning.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **operating-company anchor** for **SB Payment Service (SBPS), the payment-agency / financial-services subsidiary** of the group of SoftBank Corp. (TSE PRIME 9434, core telecom business). Read it against [[megabanks/paypay-fg|PayPay 金融グループ]] for the sister SoftBank-affiliated payment / fintech cluster, [[megabanks/au-fh|au フィナンシャル HD]] for the telco-captive financial group peer, [[megabanks/ndfg|NTT ドコモ FG]] for the telco-financial-group peer, [[payments/INDEX|payments index]] for the PSP / merchant-payment-service context, and [[payments/cashless-jp-landscape|キャッシュレス日本ランドスケープ]] for system-level positioning.
 
 ## TL;DR
 
-SB Payment Service Corp. is the payment service provider (PSP) subsidiary of SoftBank Corp. (TSE PRIME 9434). Established in 2004 and wholly owned by SoftBank, it provides a multi-payment processing platform for e-commerce merchants, including credit cards, convenience-store payments, electronic money, QR-code payments including [[payments/paypay|PayPay]], carrier billing, and bank-transfer rails. In Japan domestic e-commerce payments, SBPS sits among the major PSP operators alongside [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and [[payment-firms/digital-garage|Digital Garage / VeriTrans]]. Direct B2C financial functions are handled mainly by [[megabanks/paypay-fg|PayPay Financial Group]]; SBPS specializes in B2B / B2B2C merchant payment-processing infrastructure.^[likely]
+The **payment-agency service (PSP = Payment Service Provider) subsidiary** of the group of SoftBank Corp. (the telecom-business SoftBank Corp., TSE PRIME 9434). Established in 2004 , a wholly owned subsidiary of SoftBank. It provides a **multi-payment processing platform for EC merchants covering credit cards, convenience-store payment, electronic money, QR code payment (including [[payments/paypay|PayPay]]), carrier billing (SoftBank Matomete Shiharai), and the like**. It forms **one of the top 3  PSPs** ([[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]・[[payment-firms/digital-garage|デジタルガレージ／VeriTrans]]・SBPS) in Japan's domestic EC payment market. Direct B2C financial functions are handled by [[megabanks/paypay-fg|PayPay 金融グループ]], while SBPS specializes in **B2B / B2B2C merchant-facing payment-processing infrastructure**. ^[likely]
 
-## 1. Entity overview
+## 1. Company overview
 
 | Item | Content |
 |---|---|
-| Legal name | SB Payment Service Corp. ^[extracted] |
+| Formal name | SB Payment Service Corp. ^[extracted] |
 | English name | SB Payment Service Corp. |
 | Abbreviation | SBPS |
-| Established | **2004-10** ^[extracted] |
-| Parent company | SoftBank Corp. (TSE PRIME 9434; 100% subsidiary) |
-| Head office | Tokyo Port City Takeshiba, Kaigan 1-7-1, Minato-ku, Tokyo |
-| Business type | Comprehensive credit-purchase intermediary under the Installment Sales Act + prepaid payment instrument issuer under the Payment Services Act + funds transfer service provider under the Payment Services Act + merchant PSP |
-| Main services | **Online payment services** integrating credit cards, convenience-store payments, electronic money, carrier billing, QR payments, and bank transfers |
+| Establishment | **2004-10** ^[extracted] |
+| Parent company | SoftBank Corp. (TSE PRIME 9434, 100% subsidiary)|
+| Head office | Tokyo Port City Takeshiba, 1-7-1  Kaigan, Minato-ku, Tokyo |
+| Business type | Comprehensive credit-purchase intermediation business (Installment Sales Act) + prepaid payment instrument issuer (Payment Services Act) + funds-transfer business (Payment Services Act) + merchant payment-agency service (PSP) |
+| Flagship service | **Online payment service** (integrated payment of credit cards, convenience stores, electronic money, carrier billing, QR, and bank transfers)|
 
-### 2.1 Online payment services（PSP）
+### 2.1  Online payment service (PSP)
 
 | Payment method | Coverage |
 |---|---|
 | **Credit cards** | Visa / Mastercard / JCB / American Express / Diners |
-| **Convenience-store payments** | Seven-Eleven, Lawson, FamilyMart, and other major chains |
-| **Electronic money** | [[payments/suica-prepaid-jr-east|Suica]], PASMO, Rakuten Edy, WAON, and other transport / retail stored-value schemes |
-| **QR-code payments** | **[[payments/paypay|PayPay]]** within the parent group, Rakuten Pay, d-Barai, au PAY, LINE Pay, and others |
-| **Carrier billing** | SoftBank carrier billing, NTT docomo carrier billing, and au easy payment |
-| **Bank transfer / direct debit** | Online banking payments and direct-debit payments |
-| **Deferred payment** | BNPL linkage such as NP Atobarai |
+| **Convenience-store payment** | Seven-Eleven, Lawson, FamilyMart, etc. |
+| **Electronic money** | [[payments/suica-prepaid-jr-east|Suica]]・PASMO・Rakuten Edy・WAON and other major transit IC / retail-affiliated |
+| **QR code payment** | **[[payments/paypay|PayPay]]** (parent-company group)・Rakuten Pay・d-barai・au PAY・LINE Pay, etc. |
+| **Carrier billing** | SoftBank Matomete Shiharai・Docomo Barai・au Kantan Kessai |
+| **Bank transfer / direct debit** | Internet-banking payment・direct-debit payment |
+| **Deferred payment** | BNPL (Buy Now Pay Later) integration such as NP Atobarai |
 
-### 2.2 Merchant scale
+### 2.2  Merchant scale
 
-- Distribution strength from the telecom parent plus major e-commerce platform links, including Yahoo! Shopping and LOHACO.
-- Strong QR-payment positioning through overlap with the **PayPay merchant base**.
+- Channel strength of the telecom-carrier parent company + integration with major EC platforms (Yahoo! Shopping / LOHACO, etc.)
+- Strength in the QR-payment area through **overlap with PayPay merchants**
 
-### 2.3 Subsegments
+### 2.3  Sub-segments
 
-- **Electronic ticketing**: payment processing for events and entertainment ticket sales.
-- **Recurring billing**: monthly and annual billing for SaaS and subscription services.
-- **Corporate invoice / expense-settlement payments**: B2B corporate payment use cases.
+- **Electronic ticketing**: payment for ticket sales of events and shows
+- **Recurring billing (subscriptions)**: monthly / annual billing for SaaS and subscription services
+- **Corporate invoice / expense-settlement payment**: corporate B2B payment
 
-## 3. Parent-company relationship within the SoftBank financial structure
+## 3. Parent-company relationship (within the SoftBank Group's financial structure)
 
 ```
 SoftBank Group Corp. (TSE PRIME 9984)
-  +-- Overseas investment, including SVF and fund businesses
-  +-- SoftBank Corp. (TSE PRIME 9434; core telecom business)
-        +-- Telecom business: mobile, FTTH, and corporate ICT
-        +-- Yahoo / LINE integrated business through LY Corporation
-        +-- PayPay Financial Group ([[megabanks/paypay-fg]])
-        |     +-- [[payment-firms/paypay|PayPay Corp.]] -- QR-code payments
-        |     +-- [[banking/paypay-bank|PayPay Bank]] -- internet bank
-        |     +-- [[card-issuers/paypay-card|PayPay Card]] -- card issuer
-        |     +-- [[securities-firms/paypay-securities|PayPay Securities]] -- securities
-        +-- **SB Payment Service** (this page; PSP)
-        +-- Other financial subsidiaries, including finance and leasing
+  ├── Overseas investment (SVF, etc., fund business)
+  └── SoftBank Corp. (TSE PRIME 9434, core telecom business)
+        ├── Telecom business (mobile / FTTH / corporate ICT)
+        ├── Yahoo / LINE integrated business (LY Corporation subsidiary)
+        ├── PayPay financial group ([[megabanks/paypay-fg]])
+        │     ├── [[payment-firms/paypay|PayPay 株式会社]] ── QR code payment
+        │     ├── [[banking/paypay-bank|PayPay 銀行]] ── internet bank
+        │     ├── [[card-issuers/paypay-card|PayPay カード]] ── card issuance
+        │     └── [[securities-firms/paypay-securities|PayPay 証券]] ── securities
+        ├── **SB Payment Service** (this page, PSP)
+        └── Other financial subsidiaries (finance / leasing, etc.)
 ```
 
-### Division of roles: SBPS vs [[megabanks/paypay-fg|PayPay Financial Group]]
+### Division of roles between SBPS and [[megabanks/paypay-fg|PayPay 金融グループ]]
 
-| Function | SBPS | PayPay Financial Group |
+| Function | SBPS | PayPay financial group |
 |---|---|---|
-| Target | **B2B merchant payment-processing infrastructure** | **B2C consumer payments, banking, cards, and securities** |
-| Licenses | Comprehensive credit-purchase intermediary + prepaid instruments + funds transfer service + PSP | QR payments, funds transfer service, banking, cards, and securities |
-| Parent-group position | 100% subsidiary of SoftBank Corp. | SoftBank + Yahoo + LINE integrated group |
-| Main revenue | Merchant payment-processing fees | Merchant fees + interest income + investment / asset-management revenue |
+| Target | **B2B (merchant-facing payment-processing infrastructure)** | **B2C (consumer-facing payment / bank / card)**|
+| License | Comprehensive credit-purchase intermediation + prepaid + funds-transfer business + PSP | QR payment (funds-transfer business)・bank・card・securities |
+| Position within parent company | SoftBank Corp. 100% subsidiary | SoftBank + Yahoo + LINE integrated group |
+| Main revenue | Merchant payment-processing fees | Merchant fees + interest income + investment management |
 
-=> **PayPay faces consumers; SBPS faces merchants.** SoftBank group payment functions are split across that line.
+→ SoftBank group's payment functions are divided with **PayPay = consumer side, SBPS = merchant side**
 
-## 4. KPIs based on public information
+## 4. KPI (based on public information, reference values)
 
-| Metric | Indicative scale |
+| Indicator | Scale |
 |---|---|
-| **Merchant count** | Detailed figure not disclosed; industry observation places SBPS among the major domestic PSP operators. |
-| **Processed payment value** | Trillion-yen scale, including B2B processing related to PayPay transactions.^[likely] |
-| Employees | 348 (gBizINFO registration; corporate number 4010401058731) |
-| Position inside SoftBank | Payment subsidiary within the enterprise-business orbit |
-| PSP market share | One of the major domestic PSP operators, alongside [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and [[payment-firms/digital-garage|Digital Garage / VeriTrans]] |
+| **Number of merchants** | Precise figures undisclosed (industry observation as one of the top 3  PSPs)|
+| **Payment transaction value** | Trillion-yen scale (including the B2B processing portion of PayPay's transaction value) ^[likely] |
+| Number of employees | 348 名 (gBizINFO registered information, corporate number 4010401058731)|
+| Position within parent company SoftBank | Payment subsidiary within the enterprise-business segment |
+| PSP market share | One of the top 3  domestic PSPs (alongside [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]・[[payment-firms/digital-garage|デジタルガレージ／VeriTrans]])|
 
-> Detailed financial KPIs are disclosed in SoftBank Corp. segment reporting. Use official IR for current figures.
+> Detailed financial KPIs are disclosed in the segment information of the parent company SoftBank's (9434) securities report. For the latest figures, refer to the official IR.
 
-### 5.1 Position among the major domestic PSP operators
+### 5.1  Position as one of the top 3  PSPs
 
-Domestic PSP competitors include:
-- **[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]** (TSE PRIME 3769; largest dedicated PSP)
-- **[[payment-firms/digital-garage|Digital Garage / VeriTrans]]** (TSE PRIME 4819; media + PSP operator)
-- **SBPS** (this page; SoftBank-affiliated PSP with PayPay linkage)
+The competitive structure of the domestic PSP market:
+- **[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]** (TSE PRIME 3769, the largest PSP specialist)
+- **[[payment-firms/digital-garage|デジタルガレージ／VeriTrans]]** (TSE PRIME 4819, media + PSP dual business)
+- **SBPS** (this page, SoftBank group-affiliated, advantage in PayPay integration)
 
-SBPS differentiates through **SoftBank / Yahoo / LINE / PayPay group channels and connectivity to PayPay QR-payment merchants**.
+SBPS's differentiation axis: **the parent-company group channel of SoftBank / Yahoo / LINE / PayPay + connectivity with PayPay QR-payment merchants**
 
-### 5.2 B2B foundation of the [[payments/paypay|PayPay]] ecosystem
+### 5.2  The B2B foundation of the [[payments/paypay|PayPay]] ecosystem
 
-- SBPS sells multi-payment acceptance, including PayPay QR payments, through a unified API that lets merchants consolidate payment UX.
-- It functions as a payment-processing component within the parent group.
+- With multi-payment processing including PayPay QR payment, it markets "**accepting everything through 1  API**" to integrate merchants' payment UX
+- Positioned as the **"payment piece"** of the parent-company group
 
-### 5.3 E-commerce platform linkage
+### 5.3  EC platform integration
 
-- Yahoo! Shopping, LOHACO, and Z Holdings / LY Corporation e-commerce platforms
-- ZOZOTOWN（Z Holdings 系）
-- Large-company owned e-commerce sites, including manufacturer D2C and brand e-commerce
-- B2B e-commerce, including wholesale and industrial e-commerce
+- Yahoo! Shopping・LOHACO・Z Holdings-affiliated EC platforms
+- ZOZOTOWN (Z Holdings-affiliated)
+- Major companies' own EC sites (manufacturer D2C・brand EC)
+- BtoB EC (wholesale / industrial EC)
 
-### 5.4 BNPL and electronic-ticketing expansion
+### 5.4  BNPL (deferred payment) / electronic-ticketing expansion
 
-- Expansion of BNPL linkage such as NP Atobarai.
-- Expansion into non-standard e-commerce categories such as electronic ticketing and recurring subscription billing.
-- Response to diversifying merchant-side payment needs.
+- Expanding **BNPL (Buy Now Pay Later) integration such as NP Atobarai**
+- Expansion into **atypical EC areas** such as electronic ticketing and recurring billing (subscriptions)
+- Responding to the diversification of merchants' payment needs
 
-## 6. Regulation and supervision
+## 6. Regulation / supervision
 
 | Item | Content |
 |---|---|
-| Regulator | FSA under the Payment Services Act + METI under the Installment Sales Act |
-| Licenses | Comprehensive credit-purchase intermediary registration with METI + prepaid payment instrument issuer registration with FSA + type-II funds transfer service registration with FSA |
+| Supervisory authority | Financial Services Agency (Payment Services Act) + Ministry of Economy, Trade and Industry (Installment Sales Act)|
+| License | Comprehensive credit-purchase intermediation business (METI registration) + prepaid payment instrument issuer (FSA registration) + funds-transfer business (FSA registration, Type II)|
 | PCI DSS | International security standard for credit-card processing |
-| Personal information protection | Act on the Protection of Personal Information and information-protection duties under the Installment Sales Act |
-| Listing | Unlisted; parent SoftBank Corp. is listed on TSE PRIME 9434 |
+| Personal-information protection | Act on the Protection of Personal Information・Installment Sales Act information-protection obligations |
+| Listing | Unlisted (parent company SoftBank is TSE PRIME 9434)|
 
 ## Related
 
-- SoftBank Corp. (parent company; TSE PRIME 9434)
-- [[megabanks/paypay-fg]] ? group sibling and B2C financial group
-- [[payment-firms/paypay]] ? QR-payment merchant linkage
-- [[banking/paypay-bank]] ? group bank
-- [[card-issuers/paypay-card]] ? group card issuer
-- [[payment-firms/gmo-payment-gateway]] ? major PSP competitor within [[payment-firms/INDEX]]
-- [[payment-firms/digital-garage]] ? major PSP competitor
-- [[megabanks/au-fh]] ? telecom financial-group peer
-- [[megabanks/ndfg]] ? telecom financial-group peer
-- [[payments/cashless-jp-landscape]] ? Japan cashless-payment overview
+- SoftBank Corp. (parent company, TSE PRIME 9434)
+- [[megabanks/paypay-fg]] — group sibling (B2C financial group)
+- [[payment-firms/paypay]] — QR payment (merchant integration partner)
+- [[banking/paypay-bank]] — group bank
+- [[card-issuers/paypay-card]] — group card
+- [[payment-firms/gmo-payment-gateway]] — major PSP competitor (within [[payment-firms/INDEX]])
+- [[payment-firms/digital-garage]] — major PSP competitor
+- [[megabanks/au-fh]] — telco-affiliated financial group peer
+- [[megabanks/ndfg]] — telco-affiliated financial group peer
+- [[payments/cashless-jp-landscape]] — cashless overview
 - [[payments/INDEX]] — payments namespace index
 - [[payment-firms/INDEX]] — JapanFG namespace index
 
 ## Sources
 
-- SBPS official company overview (profile/)
-- SBPS official history (history/)
-- SoftBank official group-company list (softbank.jp/corp/group/sb/)
-- FSA funds-transfer service provider list
-- METI Installment Sales Act registered operator lists
-- **gBizINFO (METI corporate data): SB Payment Service Corp.** (corporate number 4010401058731; 348 employees; established 2004-10-01; head office Kaigan 1-7-1, Minato-ku, Tokyo) https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401058731
-- Wikipedia: SB Payment Service (public information, extracted 2026-05-25)
+- SBPS official: company overview (profile/)
+- SBPS official: history (history/)
+- SoftBank official: group company list (softbank.jp/corp/group/sb/)
+- Financial Services Agency: funds-transfer service provider list
+- Ministry of Economy, Trade and Industry: Installment Sales Act registered-business list
+- **gBizINFO (METI corporate information): SB Payment Service Corp.** (corporate number 4010401058731, number of employees 348 名, establishment 2004-10-01, head office 1-7-1 Kaigan, Minato-ku, Tokyo) https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401058731
+- Wikipedia: SB Payment Service (public information, 2026-05-25 extraction)
 
 ---
 

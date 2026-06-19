@@ -1,15 +1,14 @@
 ---
 source: manufacturer-finance/floorplan-finance-mechanism
-source_hash: dfab25e1e3afc968
+source_hash: 8e95169052f1063a
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
-title: "Floorplan / Wholesale Finance Mechanism (floorplan / inventory finance)"
-translated_at: 2026-06-05T00:00:00.000Z
+title: "Floorplan / Wholesale Finance Mechanism"
+translated_at: 2026-06-19T06:09:18.057Z
 ---
 
-# Floorplan / Wholesale Finance Mechanism (フロアプラン・在庫金融の仕組み)
+# Floorplan / Wholesale Finance Mechanism
 
 ## Wiki route
 
@@ -17,53 +16,53 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as a **
 
 ## TL;DR
 
-**Floorplan finance (floorplan / inventory finance, also called wholesale finance)** is the mechanism by which a manufacturer captive or a financial institution supports, via a commitment line, **the credit at the stage where a dealer procures inventory (new cars, used cars, construction equipment, ships, etc.)**. It is the **upstream (distribution stage)** of the retail finance that a captive extends to consumers ([[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]]). Its essence is that **the lender advances the "manufacturer → dealer → consumer" distribution inventory until it sells**. The lender pays the manufacturer/auction directly and takes **the inventory itself as collateral**. Repayment is fundamentally **pay-as-sold**, and **curtailment (partial early repayment of principal)** is imposed on long-aged inventory. From a manufacturing standpoint, the core is that by holding both retail and wholesale, the captive can **dominate the sales channel from upstream**.
+**Floorplan finance (also called wholesale finance)** is the arrangement whereby the credit at the stage where a dealer (retail outlet) procures inventory (new cars, used cars, construction machinery, ships, etc.) is supported by a manufacturer captive or a financial institution through a committed line. It corresponds to the **upstream (distribution stage)** of the retail finance ([[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]]) that a captive extends to consumers. In essence, **the lender advances funds for the "manufacturer → dealer → consumer" distribution inventory during the period until it is sold**. The lender pays the manufacturer/auction directly and takes the **inventory itself as collateral**. Repayment is fundamentally **pay-as-sold (repay once sold)**, and long-stagnant inventory is subject to **curtailment (partial prepayment of principal)**. From a manufacturing perspective, the core point is that by holding both retail and wholesale, the captive can **control the sales channel from upstream**.
 
-## 1. What is floorplan finance
+## 1. What floorplan finance is
 
-| Aspect | Details |
+| Perspective | Content |
 |---|---|
 | Credit target | The dealer (distribution stage). Not the consumer |
-| Collateral | The inventory asset itself (vehicles, construction equipment, ships, etc.), often chattel collateral |
+| Collateral | The inventory asset itself (vehicles, construction machinery, ships, etc.), often as a security interest in movables |
 | Flow of funds | The lender pays the manufacturer/auction directly, and the dealer receives the inventory |
-| Repayment model | **pay-as-sold (repay that credit with the proceeds of the individual unit that sold)** + accrued interest |
-| Aging response | **curtailment**: partial early repayment of principal at set intervals |
+| Repayment model | **pay-as-sold (the credit for a given inventory item is repaid from the proceeds of selling that item)** + accrued interest |
+| Stagnation handling | **curtailment**: at fixed intervals, part of the principal is prepaid |
 | Audit | Periodic **inventory inspection (floor check / audit)** by the lender |
 | Provider | Manufacturer captive, bank, independent wholesale lender |
 
-Floorplan is the counterpart concept to retail (consumer-facing); together, the captive controls the entire distribution from a financial standpoint. For the retail-side mechanism, see [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]].
+Floorplan is the counterpart concept to retail (consumer-facing); together the two let the captive control the entire distribution from the financing side. For the mechanism on the retail side, see [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]].
 
-## 2. Why floorplan is needed (dealer standpoint / manufacturer standpoint)
+## 2. Why floorplan is needed (dealer view / manufacturer view)
 
-- **Dealer standpoint**: Procuring inventory with cash ties up huge working capital. With floorplan, the dealer can **secure inventory with no / a small down payment** and defer payment until it sells. Liquidity and procurement capacity improve, and the assortment and demand response become faster.
-- **Manufacturer standpoint**: When the captive provides floorplan, **the manufacturer can book the sale at the point of shipment** (because the dealer takes the inventory). This leads to smoothing production and shipment, securing dealer loyalty, and maintaining the sales network. When the captive runs retail and wholesale as one, it can hold both the lead-generation and the credit from upstream to downstream.
-- **Trade-off**: For the manufacturer captive, floorplan is a business that bears the dealer's credit risk, inventory-aging risk, and fraud (sold-out-of-trust = not repaying despite having sold) risk. These are managed with curtailment and audit.
+- **Dealer view**: Procuring inventory with cash ties up a huge amount of working capital. Floorplan lets the dealer **secure inventory with no / minimal down payment** and defer payment until it is sold. Liquidity and procurement capacity improve, and the assortment and demand response become faster.
+- **Manufacturer view**: When the captive provides floorplan, **the manufacturer can book sales at the point of shipment** (because the dealer takes the inventory). This leads to smoothing of production / shipment, securing dealer loyalty, and maintaining the sales network. When the captive runs retail and wholesale as one, it can hold both customer referral and credit from upstream to downstream.
+- **Trade-off**: For the manufacturer captive, floorplan is a business that bears the dealer's credit risk, inventory-stagnation risk, and fraud (sold-out-of-trust = selling but not repaying) risk. These are managed via curtailment and audit.
 
-## 3. curtailment and audit (managing aging and fraud)
+## 3. curtailment and audit (managing stagnation / fraud)
 
-The core risks of floorplan are that **inventory sits unsold for a long time** and that **it sells but is not repaid**. The lender manages these as follows.
+The core risks of floorplan are that **inventory remains unsold for a long time** and that **it is sold but not repaid**. The lender manages these as follows.
 
-- **Curtailment (partial principal repayment)**: When inventory remains unsold for a set period (e.g., 30 / 60 / 90 / 120 days), the dealer repays part of the principal early (typically around 5〜20% of the original credit amount). This gradually reduces the credit balance on aged inventory and restrains obsolescence and price-decline risk. The curtailment schedule differs by lender / product.
-- **Floor check / audit (inventory inspection)**: The lender checks the physical inventory periodically and by surprise, reconciling it against the ledger. It verifies whether the collateral still exists or has already been sold, to prevent **sold-out-of-trust** (the fraud of not repaying floorplan despite having sold).
-- **Interest and fees**: Interest accrues according to the inventory-holding period and may be mitigated by the manufacturer's promotional campaigns (interest subsidy for a set period = floorplan subvention). This is a promotional tool of the same type as the lease subvention on the retail side.
+- **Curtailment (partial repayment of principal)**: When inventory remains unsold for a fixed period (e.g., 30 / 60 / 90 / 120  days), the dealer prepays part of the principal (typically on the order of 5–20% of the original credit amount). This gradually reduces the credit balance on stagnant inventory and curbs the risk of obsolescence and price decline. The curtailment schedule differs by lender / product.
+- **Floor check / audit (inventory inspection)**: The lender checks the physical inventory on a periodic and surprise basis and reconciles it against the ledger. It verifies whether the collateral still exists and whether it has already been sold, preventing **sold-out-of-trust** (the fraud of not repaying floorplan despite having sold the item).
+- **Interest / fees**: Interest accrues according to the inventory-holding period and may be reduced by the manufacturer's sales-promotion campaign (interest subsidy for a fixed period = floorplan subvention). This is a sales-promotion tool of the same type as lease subvention on the retail side.
 
-## 4. Floorplan-provision patterns by provider
+## 4. Floorplan provision patterns by provider
 
 | Provider | Example | Characteristics |
 |---|---|---|
-| **OEM captive (automotive)** | [[manufacturer-finance/toyota-financial-services|TFS]] / [[manufacturer-finance/honda-finance|AHFC]] / [[manufacturer-finance/nissan-financial-services|NMAC]] | The captive extends wholesale credit on its own dealer network's inventory. Run as one with retail |
-| **OEM captive (construction / heavy equipment)** | [[manufacturer-finance/komatsu-captive-finance|Komatsu Financial]] | Provides wholesale / retail / lease to 30+ distributors and customers |
-| **Bank / independent wholesale lender** | Bank, dedicated wholesale finance | Extends credit on the dealer inventory of manufacturers that lack / supplement a captive |
-| **Bank-affiliated leasing company** | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/tokyo-century|東京センチュリー]] | Competes / partners with captives on leasing and inventory finance |
+| **OEM captive (automotive)** | [[manufacturer-finance/toyota-financial-services|TFS]] / [[manufacturer-finance/honda-finance|AHFC]] / [[manufacturer-finance/nissan-financial-services|NMAC]] | The captive extends wholesale credit on the inventory of its own dealer network. Operated as one with retail |
+| **OEM captive (construction / heavy machinery)** | [[manufacturer-finance/komatsu-captive-finance|Komatsu Financial]] | Provides wholesale / retail / lease to 30+ distributors and customers |
+| **Bank / independent wholesale lender** | Bank / specialist wholesale finance | Extends credit on the dealer inventory of manufacturers that have no / complement a captive |
+| **Bank-affiliated leasing company** | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/tokyo-century|東京センチュリー]] | Competes / partners with the captive in leasing and inventory finance |
 
-The contrast between the "captive runs floorplan in-house" type (Toyota / Honda / Nissan / Komatsu) and the "delegate to bank-affiliated / independent" type is one of this domain's analytical axes. For the type that does not hold a captive, see [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]].
+The contrast between the "captive runs its own floorplan" type (Toyota / Honda / Nissan / Komatsu) and the "delegate to bank-affiliated / independent" type is one of the analytical axes of this domain. For the type that has no captive, see [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]].
 
-## 5. Regulation, policy, and funding
+## 5. Regulation / policy / funding
 
-- **Chattel collateral and registration (domestic)**: Because inventory (chattel) is taken as collateral, collateral law such as chattel-assignment registration is involved. On the installment-sales and money-lending side, it can become subject to the Installment Sales Act and the Money Lending Business Act.
-- **Supervision (US)**: floorplan lending is examined as a lending category in banking supervision (the FDIC's examination policy has an item on floor plan lending). The captive becomes subject to securitization disclosure.
-- **Funding (securitization)**: wholesale (floorplan) receivables can also be securitized in a dealer floorplan ABS / master trust structure, one of the captive's funding tools. For the relationship with retail auto ABS, see [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan]] and [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]].
-- **Accounting**: Whether the manufacturer can book the sale at the time of shipment to the dealer depends on the judgment of the transfer of control over the inventory (the revenue-recognition standard).
+- **Security interest in movables / registration (domestic)**: Because inventory (movables) is taken as collateral, security-interest law such as the registration of assignment of movables is involved. On the installment-sale / money-lending side, it can fall under the Installment Sales Act and the Money Lending Business Act.
+- **Supervision (US)**: floorplan lending is examined as a lending category in bank supervision (the FDIC examination policy has a floor plan lending item). The captive is subject to securitization disclosure.
+- **funding (securitization)**: wholesale (floorplan) receivables are sometimes securitized in a dealer floorplan ABS / master trust structure, and are one of the captive's funding means. For the relationship with retail auto ABS, see [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan]] and [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]].
+- **Accounting**: Whether the manufacturer can book sales at the time of shipment to the dealer depends on the judgment of transfer of control over the inventory (revenue-recognition standard).
 
 ## Related
 
@@ -75,12 +74,12 @@ The contrast between the "captive runs floorplan in-house" type (Toyota / Honda 
 
 ## Sources
 
-- FDIC「Floor Plan Lending」(検査方針): https://www.fdic.gov/risk-management-manual-examination-policies/floor-plan-lending
-- DLL「Floor plan financing in the construction, transportation and industrial sectors」: https://www.dllgroup.com/us/en-us/blog/latest/Floor-plan-financing-in-the-construction-transportation-and-industrial-sectors
-- AutoFinance「What is Dealer Floor Plan Financing?」: https://www.autofinance.com/insights/floorplan-financing/
-- EDINET (メーカー / captive のセグメント開示): https://disclosure2.edinet-fsa.go.jp/
+- FDIC "Floor Plan Lending" (examination policy): https://www.fdic.gov/risk-management-manual-examination-policies/floor-plan-lending
+- DLL "Floor plan financing in the construction, transportation and industrial sectors": https://www.dllgroup.com/us/en-us/blog/latest/Floor-plan-financing-in-the-construction-transportation-and-industrial-sectors
+- AutoFinance "What is Dealer Floor Plan Financing?": https://www.autofinance.com/insights/floorplan-financing/
+- EDINET (segment disclosures of manufacturers / captives): https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
 > [!info] Proofreading status
-> confidence: **likely**. The floorplan / wholesale finance, pay-as-sold, curtailment, floor check (audit), and sold-out-of-trust mechanisms are a description of the mechanism based on public industry commentary (DLL / AutoFinance), the FDIC examination policy, and the general operation of OEM captives. The curtailment ratios (5〜20% / 30, 60, 90, 120 days) are general industry rules of thumb, and the actual terms differ by lender / product. Specific companies' floorplan balances and interest rates are not covered on this page and are left to company-specific entries. Prioritizing mechanism knowledge over fragile financial figures.
+> confidence: **likely**. The mechanisms of floorplan / wholesale finance, pay-as-sold, curtailment, floor check (audit), and sold-out-of-trust are descriptions of arrangements based on published industry explanations (DLL / AutoFinance), the FDIC examination policy, and the general operation of OEM captives. The curtailment ratios (5–20% / 30・60・90・120  days) are general industry rules of thumb; actual terms differ by lender / product. Specific firms' floorplan balances / interest rates are not handled on this page and are left to per-company entries. Mechanism knowledge is prioritized over fragile financial figures.

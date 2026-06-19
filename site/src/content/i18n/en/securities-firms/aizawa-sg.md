@@ -1,12 +1,13 @@
 ---
 source: securities-firms/aizawa-sg
-source_hash: be5e572e8d314df8
+source_hash: 38d8355b3dae1184
 lang: en
 status: machine
 fidelity: ok
 title: "Aizawa Securities Group"
-translated_at: 2026-05-31T07:28:06.152Z
+translated_at: 2026-06-19T12:43:19.915Z
 ---
+
 # Aizawa Securities Group
 
 ## Wiki route
@@ -15,95 +16,95 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Mid-sized independent securities holding company (TSE Standard **8708**). Founded by 1918-02  Yaichi Aizawa in Tokyo's Nihonbashi-Kabutocho as Aizawa Securities Shop → incorporated in 1948  → listed on JASDAQ in 1989  → converted into a holding company in 2017-04 . It has established a distinct position as a **"specialist securities house for investment in emerging Asia."** Among Japanese securities companies, it has one of the broadest coverages of emerging Asian markets (Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc.). Retail-focused, with limited corporate IB. Competitors are [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] in the same independent mid-tier bracket, and internet-based [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]. ^[extracted]
+A mid-tier independent securities holding company (TSE STD **8708**). In 1918-02 , Yahachi Aizawa founded Aizawa Shoken-ten in Tokyo's Nihonbashi-Kabutocho → incorporated 1948  → listed on JASDAQ 1989  → became a holding company 2017-04 . It established a unique position as a **"securities firm specialized in emerging-Asia investment."** It has the broadest emerging-Asia coverage among Japanese securities firms (Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc.). Retail-centered, with limited corporate IB. Competitors are [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] in the same independent-mid-tier bracket and the online players [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]. ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: Aizawa Securities Group Co., Ltd. ^[extracted]  
-**English name**: Aizawa Securities Group Co., Ltd.  
-**Ticker**: TSE STANDARD **8708** ^[extracted]  
-**Founded**: 1918-02 (Yaichi Aizawa founded Aizawa Securities Shop in Nihonbashi-Kabutocho, Tokyo) ^[extracted]  
-**Incorporated**: 1948 (Aizawa Securities Co., Ltd.) ^[extracted]  
-**Converted to holding company**: **2017-04-03** interim holding-company transition (Aizawa Securities Group Co., Ltd. established) ^[extracted]  
-**Head office**: ^[extracted] Kabutocho, Nihonbashi, Chuo-ku, Tokyo
+**Legal name**: Aizawa Securities Group Co., Ltd. ^[extracted]
+**English name**: Aizawa Securities Group Co., Ltd.
+**Securities code**: TSE STANDARD **8708** ^[extracted]
+**Founded**: 1918-02 (founded by Yahachi Aizawa, Aizawa Shoken-ten / Tokyo's Nihonbashi-Kabutocho) ^[extracted]
+**Incorporated**: 1948 (Aizawa Shoken Co., Ltd.) ^[extracted]
+**Holding-company conversion**: **2017-04-03** intermediate holding-company conversion (Aizawa Securities Group Co., Ltd. established) ^[extracted]
+**Headquarters**: Nihonbashi-Kabutocho ^[extracted], Chuo-ku, Tokyo
 
-### Main subsidiaries
+### Major subsidiaries
 
-```text
-Aizawa Securities Group (holding company, TSE STD 8708)
-  ├── Aizawa Securities Co., Ltd. (100%) -- core retail securities arm
-  │     ├── Domestic branch network (Tokyo, Osaka, Nagoya, Fukuoka, etc.)
-  │     └── Local Asian subsidiary network (below)
-  ├── PT. Aizawa Securities Indonesia (local Indonesian subsidiary)
-  ├── Aizawa Securities Vietnam Co., Ltd. (local Vietnamese subsidiary)
-  └── Affiliated business companies (asset management / investment advisory, limited scale)
+```
+Aizawa Securities Group (holding company / TSE STD 8708)
+  ├── Aizawa Securities Co., Ltd. (100%) ── retail-securities core
+  │     ├── domestic branch network (Tokyo, Osaka, Nagoya, Fukuoka, etc.)
+  │     └── Asia local-subsidiary network (below)
+  ├── PT. Aizawa Securities Indonesia (Indonesia local subsidiary)
+  ├── Aizawa Securities Vietnam Co., Ltd. (Vietnam local subsidiary)
+  └── affiliated operating companies (asset management / investment advisory, etc.; limited in scale)
 ```
 
-### Key timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Year / month | Event |
+| Year/month | Event |
 |---|---|
-| **1918-02** | **Yaichi Aizawa founded Aizawa Securities Shop in Nihonbashi-Kabutocho, Tokyo** |
-| 1948  | Aizawa Securities Co., Ltd. established (incorporation) |
-| 1989  | JASDAQ listing (over-the-counter registration) |
-| 2000 年 era onward | Full-scale expansion of brokerage for emerging Asian markets, centered on Vietnam and Indonesia |
-| **2017-04-03** | **Aizawa Securities Group Co., Ltd. established (intermediate holding company conversion)** |
-| 2022-04  | TSE market restructuring → TSE STANDARD 8708  |
+| **1918-02** | **Yahachi Aizawa founded Aizawa Shoken-ten in Tokyo's Nihonbashi-Kabutocho** |
+| 1948 | Aizawa Shoken Co., Ltd. established (incorporation) |
+| 1989 | Listed on JASDAQ (over-the-counter registration) |
+| The 2000 年s~ | Began full-scale development of investment brokerage into emerging Asia (centered on Vietnam and Indonesia) |
+| **2017-04-03** | **Aizawa Securities Group Co., Ltd. established (intermediate holding-company conversion)** |
+| 2022-04 | TSE market-segment review → TSE STANDARD 8708 |
 
-## 2. Business segment map
+## 2. Business-segment map
 
-| Segment | Main operator | Characteristics |
+| Segment | Main operator | Features |
 |---|---|---|
-| **Emerging Asian equity brokerage** ★ | Aizawa Securities | **Largest differentiator for the group.** Brokers frontier-market names for retail investors in Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc. |
-| U.S. equities | Aizawa Securities | Major U.S. names and ETFs |
-| Advanced Asian markets | Aizawa Securities | Hong Kong, Singapore, Taiwan, Korea |
-| Domestic retail equities | Aizawa Securities | Face-to-face sales centered on affluent and senior customers |
-| Investment trusts | Aizawa Securities | Product lineup centered on Asia funds |
-| Bonds | Aizawa Securities | Relatively strong in foreign bonds (U.S. Treasuries and emerging-market bonds) |
-| Corporate IB | Limited | As a mid-sized independent securities firm, it does not handle large-scale IB mandates |
-| Asset management / investment advisory | Group affiliates | Limited scale |
+| **Emerging-Asia equity brokerage** ★ | Aizawa Securities | **The group's biggest differentiation axis.** Brokers frontier-market issues such as Vietnam, Indonesia, Thailand, Cambodia, and Myanmar to individual investors |
+| US equities | Aizawa Securities | Major US issues, ETFs |
+| Developed-Asia markets | Aizawa Securities | Hong Kong, Singapore, Taiwan, South Korea |
+| Domestic equity retail | Aizawa Securities | Face-to-face-sales-centered, the wealthy / senior demographics |
+| Investment trusts | Aizawa Securities | Asia-investment-trust-centered lineup |
+| Bonds | Aizawa Securities | Relatively strong in foreign bonds (US Treasuries / emerging-market bonds) |
+| Corporate IB | Limited | As a mid-tier independent securities firm, it does not handle large IB deals |
+| Asset management / investment advisory | Group affiliates | Limited in scale |
 
-### Differentiation axis: "specialist securities house for investment in emerging Asia"
+### Differentiation axis: "securities firm specialized in emerging-Asia investment"
 
-- Among Japanese securities firms, it has **one of the broadest coverages of emerging Asian markets** (including frontier markets) ^[extracted]
-- Local networks in Vietnam, Indonesia, Thailand, Cambodia, and Myanmar
-- Provides brokerage access, with face-to-face service, to frontier-market names that individual investors find hard to access
-- Secures a niche by concentrating on geographies not covered by major houses ([[megabanks/ndfg]] / Daiwa / SMBC Nikko)
+- The **broadest emerging-Asia coverage** among Japanese securities firms (including frontier markets) ^[extracted]
+- Local networks in Vietnam, Indonesia, Thailand, Cambodia, Myanmar
+- Brokers frontier-market issues that are hard for individual investors to access, bundled with face-to-face service
+- Secures a niche market by concentrating on regions that major securities firms ([[megabanks/ndfg]] / Daiwa / SMBC Nikko) do not handle
 
 ### Domestic position
 
-- In the mid-sized independent securities bracket (alongside [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]])
-- Specialized in retail clients; does not meaningfully pursue corporate IB
-- Hybrid of face-to-face sales + partial online trading (not a pure online broker)
+- The mid-tier independent securities bracket (alongside [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]])
+- Specialized in retail (individual clients), does not handle corporate IB
+- A hybrid of face-to-face sales + some online trading (not online-only)
 
 ### Overseas strategy
 
-- **5  Asian emerging countries as priority markets**: Vietnam, Indonesia, Thailand, Cambodia, Myanmar
-- The U.S. is positioned as a supplementary market (more commoditized because of competition with major face-to-face and online brokers)
+- **Emerging-Asia 5  countries as priority markets**: Vietnam, Indonesia, Thailand, Cambodia, Myanmar
+- The US is positioned as a complementary market (commoditized due to competition with major face-to-face / online players)
 
-### Competitive landscape
+### Competitive relationships
 
 | Competitor | Axis |
 |---|---|
-| [[securities-firms/iwai-cosmo-hd]] (IwaiCosmo Holdings) | Same mid-sized independent bracket, Kansai origin, hybrid of face-to-face + online |
-| [[securities-firms/okasan-sg]] (Okasan Securities Group) | Mid-sized independent broker originating in the Chukyo area, online + face-to-face |
-| [[securities-firms/tokai-tokyo-fh]] (Tokai Tokyo Financial Holdings) | Mid-sized Chukyo + Kanto player with many regional-financial tie-ups |
-| [[securities-firms/matsui-sec]] (Matsui Securities) | Pure online broker, centered on younger customers |
-| [[securities-firms/monex-group]] (Monex Group) | Pure online broker, differentiated by U.S. equities + crypto assets |
-| [[securities-firms/smbc-nikko]] (SMBC Nikko) | Major 5 -house securities firm under a megabank group |
+| [[securities-firms/iwai-cosmo-hd]] (Iwai Cosmo HD) | Same mid-tier independent securities, Kansai-originated, a face-to-face + online hybrid |
+| [[securities-firms/okasan-sg]] (Okasan SG) | A mid-tier independent securities firm originating in the Chukyo economic zone, online securities + face-to-face |
+| [[securities-firms/tokai-tokyo-fh]] (Tokai Tokyo FH) | A mid-tier player in Chukyo + Kanto, with many partnerships with regional financial institutions |
+| [[securities-firms/matsui-sec]] (Matsui Securities) | Online-only, centered on younger demographics |
+| [[securities-firms/monex-group]] (Monex G) | Online-only, differentiating with US stocks + crypto-assets |
+| [[securities-firms/smbc-nikko]] (SMBC Nikko) | A major 5  securities firm, under a megabank |
 
 ## 4. Regulation / policy
 
-- **Primary supervisors**: Financial Services Agency (FSA) and Kanto Local Finance Bureau
+- **Supervision**: FSA / Kanto Local Finance Bureau
 - **Business type**: Type I Financial Instruments Business (securities business)
-- **Rules**: Financial Instruments and Exchange Act + JSDA self-regulation
+- **Regulation**: Financial Instruments and Exchange Act / Japan Securities Dealers Association (JSDA) self-regulation
 - **Overseas regulation**:
   - Vietnam: State Securities Commission of Vietnam (SSC)
   - Indonesia: OJK (Otoritas Jasa Keuangan)
   - Thailand: SEC Thailand
   - Cambodia / Myanmar: local securities regulators
-- **Recent policy topic**:
-  - Since 2025, customer-oriented business conduct (FD principles): sustainability of an education-oriented sales model
+- **Recent policy points**:
+  - 2025~ Customer-first business operation (FD principle): the continuity of education-style sales
 
 ## Related
 
@@ -113,11 +114,11 @@ Aizawa Securities Group (holding company, TSE STD 8708)
 
 ## Sources
 
-- **Wikipedia: アイザワ証券グループ** (https://ja.wikipedia.org/wiki/アイザワ証券グループ, extracted 2026-05-19)
-- **Wikipedia: アイザワ証券** (https://ja.wikipedia.org/wiki/アイザワ証券, extracted 2026-05-19)
-- Aizawa Securities Group official IR (based on securities report published in 2025-06 )
+- **Wikipedia: Aizawa Securities Group** (https://ja.wikipedia.org/wiki/アイザワ証券グループ, 2026-05-19 extraction)
+- **Wikipedia: Aizawa Securities** (https://ja.wikipedia.org/wiki/アイザワ証券, 2026-05-19 extraction)
+- Aizawa Securities Group official IR (based on the 2025-06  published Securities Report)
 
 ---
 
-> [!info] Review status
-> confidence: **likely** (constructed from public information via v1.0  Wikipedia, created 2026-05-19). Key items (founded 1918, holding-company conversion 2017-04, TSE Standard 8708, emerging-Asia specialization) are verifiable from public sources derived from Wikipedia. Specific earnings figures and revenue contribution by local subsidiaries require the latest securities report and are omitted here.
+> [!info] 校核状态
+> confidence: **likely** (based on v1.0  public information via Wikipedia, created 2026-05-19). Key items (founding 1918, holding-company conversion 2017-04, TSE STD 8708, the emerging-Asia specialization axis) can be verified against public information sourced from Wikipedia. Specific results figures / local-subsidiary revenue contribution require reference to the latest Securities Report (omitted here).

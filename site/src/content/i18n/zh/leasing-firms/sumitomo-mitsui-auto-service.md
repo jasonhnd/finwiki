@@ -1,114 +1,115 @@
 ---
 source: leasing-firms/sumitomo-mitsui-auto-service
-source_hash: 1bc5653f341c7ebb
+source_hash: f59dbaf7ce1be4cd
 lang: zh
 status: machine
 fidelity: ok
-title: "三井住友汽车服务 (Sumitomo Mitsui Auto Service / SMAS)"
-translated_at: 2026-06-01T02:31:57.102Z
+title: "住友三井汽车服务 (Sumitomo Mitsui Auto Service / SMAS)"
+translated_at: 2026-06-19T06:09:18.126Z
 ---
-# 三井住友汽车服务 (Sumitomo Mitsui Auto Service / SMAS)
+
+# 住友三井汽车服务 (Sumitomo Mitsui Auto Service / SMAS)
 
 ## Wiki route
 
-本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可与 [[leasing-firms/smfl|SMFL]] 对读，后者是同一组母公司之间的姊妹综合租赁 JV，即 [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]；也可与 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] 对读，后者是住友商事的集团内部资金管理主体。汽车 / 车队金融同业参见 [[card-issuers/toyota-finance|トヨタファイナンス]] 和 [[leasing-firms/toyota-financial|TFS]]。商社系金融同业集合参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]] / [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。更广的监管边界参见 [[banking/INDEX|banking index]]。
+本条目归属于 [[leasing-firms/INDEX|leasing-firms INDEX]]。请对照 [[leasing-firms/smfl|SMFL]]（同一对母公司之间的姊妹综合租赁合资公司 — [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]）及 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（住友商事内部资金管理部门）阅读。同业汽车／车队金融，参见 [[card-issuers/toyota-finance|トヨタファイナンス]]（丰田经销商／汽车融资）与 [[leasing-firms/toyota-financial|TFS]]。商社系金融同业集合：[[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]／[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]／[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]／[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]／[[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]／[[trading-company-finance/sojitz-finance|双日フィナンス]]／[[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。更广泛的监管边界参见 [[banking/INDEX|banking index]]。
 
-## 1. 公司概要
+## 1. 会社概要
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | 三井住友汽车服务株式会社 ^[extracted] |
-| 英文 | Sumitomo Mitsui Auto Service Company, Limited ^[extracted] |
-| Wiki 角色 | **SMFG + 住友商事的汽车 JV**，也是 [[leasing-firms/smfl|SMFL]] 的姊妹公司；日本最大级别的汽车租赁 / 车队管理参与者之一 |
+| Legal name | 住友三井汽车服务株式会社 ^[extracted] |
+| English | Sumitomo Mitsui Auto Service Company, Limited ^[extracted] |
+| Wiki role | **SMFG + 住友商事 的汽车版合资公司** ([[leasing-firms/smfl|SMFL]] 的姊妹公司)、日本最大级的汽车租赁・车队管理参与者 |
 
-### “SMFL = 设备 / SMAS = 汽车”的双支柱结构
+### 「SMFL = 通用 / SMAS = 汽车」的双支柱结构
 
 | 公司 | 领域 |
 |---|---|
-| [[leasing-firms/smfl|SMFL]] | 通用设备、产业机械、不动产、环境、航空器、船舶和海外资产 |
-| **SMAS（本页）** | 面向法人车辆的汽车租赁、商用车 / 乘用车、车队管理和 EV 转型支持 |
+| [[leasing-firms/smfl|SMFL]] | 一般设备・产业设备・不动产・环境・飞机・船舶・海外 |
+| **SMAS (本页面)** | 面向法人的汽车 (商用车・乘用车) + 车队管理 + EV 化支持 |
 
-### 设立路径（2007 年 合并）
+### 设立沿革 (2007 年合并)
 
-| 原公司 | 来源 |
+| 旧公司 | 出身 |
 |---|---|
 
-## 2. 业务分部图
+## 2. 事业分部・地图
 
 | 分部 | 内容 |
 |---|---|
-| **法人车辆租赁** | 商用车、乘用车和特殊车辆的经营租赁 / 融资租赁 |
-| **维护租赁** | 车辆租赁加维护、事故应对、代车和整套服务 |
-| **车队管理 (TCO)** | 燃料费、运行、维护、事故、合同和更新管理 |
-| **Telematics / 运行管理** | 车辆 GPS、驾驶数据和事故防止服务 |
-| **EV / 碳中和支持** | EV 导入咨询、EV 专用车队计划和充电基础设施支持 |
-| **共享用车 / 移动服务** | 面向法人的共享用车、调度和车辆共享 |
-| **二手车流通** | 租赁期满车辆进入二手车市场的再销售 |
+| **面向法人的车辆租赁** | 商用车・乘用车・特种车辆的经营性租赁 / 融资租赁 |
+| **维护租赁** | 车辆租赁 + 维修 + 故障应对 + 代用车 的全套服务 |
+| **车队管理 (TCO)** | 燃料管理・行驶管理・维修管理・事故应对・报废处分的运营受托 |
+| **车载信息・运行管理** | 车辆 GPS / 驾驶数据 / 事故防止服务 |
+| **EV / 碳中和支持** | EV 导入咨询 + EV 专用车队 + 充电基础设施建设支持 |
+| **汽车共享 / 出行服务** | 面向法人的汽车共享・配送车辆共享 |
+| **二手车流通** | 租赁到期车辆的二手车市场流通 |
 
 ### 汽车租赁市场的竞争结构
 
 | 参与者 | 系列 |
 |---|---|
-| **ORIX Auto** | [[leasing-firms/orix-corp|オリックス]] 系 |
-| **三井住友汽车服务（本页）** | [[megabanks/smfg|SMFG]] + 住友商事 |
-| **三井住友信托 / Panasonic Finance 系汽车租赁** | [[trust-banks/smtb|SMTB]] + Panasonic |
-| **Toyota Rent a Lease** | [[leasing-firms/toyota-financial|TFS]] 系 |
-| **Nissan Fleet Service** | 日产汽车系 |
-| **Tokyo Century（NRS 系）** | [[leasing-firms/tokyo-century|東京センチュリー]]，原 Nippon Rent-A-Car 相关 |
-| **ORIX Rent-A-Car** | [[leasing-firms/orix-corp|オリックス]] 系 |
+| **欧力士汽车** | [[leasing-firms/orix-corp|オリックス]] 系 |
+| **住友三井汽车服务 (本页面)** | [[megabanks/smfg|SMFG]] + 住友商事 |
+| **三井住友信托・松下金融系汽车租赁** | [[trust-banks/smtb|SMTB]] + 松下 |
+| **丰田租赁** | [[leasing-firms/toyota-financial|TFS]] 系 |
+| **日产车队服务** | 日产汽车系 |
+| **东京 Century (NRS 系)** | [[leasing-firms/tokyo-century|東京センチュリー]] (旧 Nippon Rent-A-Car) |
+| **欧力士租车** | [[leasing-firms/orix-corp|オリックス]] 系 |
 
-- 来自 **SMFG 银行网络** 的法人客户送客。
-- 来自 **住友商事全球网络** 的亚洲跨境支持。
-- 2007 年 合并以来的规模效应。
-- 车队管理和 TCO 服务的纵深。
+- 来自 **SMFG 银行网络** 的法人客户引流
+- 来自 **住友商事 全球网络** 的面向亚洲的跨境对应
+- **2007 年合并以来的规模效应**
+- **车队管理 (TCO) 系附加服务** 的充实
 
-### 在商社系金融子公司生态中的位置
+### 在商社系金融子公司 ecosystem 内的定位
 
-在住友商事相关金融机构中，SMAS 代表 **特定资产类别特化 JV，即汽车**。它与 [[leasing-firms/smfl|SMFL]]（设备租赁）和 [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]（内部 CMS / 资金管理）并列，构成住友商事 + SMFG 系金融机构的“JV / 子公司功能分工生态”。
+在住友商事系金融功能中，SMAS 是 **特定资产类别专精型合资公司 (= 汽车)** 的代表例。同样的模式与 [[leasing-firms/smfl|SMFL]] (通用租赁)・[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (对内 CMS) 并列，构成住友商事 + SMFG 系金融功能的 **「合资公司 / 子公司的功能分工 ecosystem」**。
 
-## 4. 监管 / 政策
+## 4. 规制・政策
 
-- **主管**：部分由经济产业省管辖；汽车维护、道路运输和车辆法规相关领域也涉及国土交通省。
-- **行业团体**：公益社团法人租赁事业协会（JLA）和日本汽车租赁协会联合会（JALA）。
-- **监管主题**：
-  - 租赁会计准则，包括 IFRS 16  / J-GAAP 应对。
-  - 汽车回收法和二手车流通监管。
-  - EV 充电基础设施相关规则和政策支持。
-  - 车队管理数据的个人信息保护，尤其是驾驶数据。
-- **近期政策问题**：
-  - 2024 至 [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]]：租赁采购成本上升。
-  - EV 化和碳中和政策：大规模需求扩张。
-  - 汽车行业 MaaS / 共享用车化。
-  - 二手车市场的 AI 检查和线上流通扩张。
+- **主管**：金融厅 (部分)・国土交通省 (汽车维修・道路运送车辆法相关)
+- **行业团体**：公益社团法人租赁事业协会 (JLA)・日本汽车租赁协会联合会 (JALA)
+- **规制论点**：
+  - 租赁会计准则 (IFRS 16 / J-GAAP) 对应
+  - **汽车回收法** + 二手车流通规制
+  - 关于 EV 充电基础设施建设的各类规制
+  - 车队管理数据的个人信息保护 (驾驶数据)
+- **近期政策论点**:
+  - 2024〜 [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → 租赁筹资成本上升
+  - EV 化・碳中和政策 → 大规模需求扩大
+  - 汽车行业的 MaaS / 汽车共享化转移
+  - 二手车市场的 AI 估价 / 在线流通扩大
 
 ## Related
 
-- [[leasing-firms/smfl|SMFL]]（姊妹设备租赁 JV，同为 SMFG + 住友商事）
-- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]（集团内部资金管理，住友商事系）
-- [[megabanks/smfg|SMFG]]（母公司 1）
+- [[leasing-firms/smfl|SMFL]] (姊妹通用租赁合资公司、同为 SMFG + 住友商事)
+- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (对内 group-treasury、同为住友商事系)
+- [[megabanks/smfg|SMFG]] (母公司 1)
 - [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]
-- [[leasing-firms/orix-corp|オリックス]]（主要汽车租赁竞争者）
-- [[leasing-firms/toyota-financial|TFS]] / [[card-issuers/toyota-finance|トヨタファイナンス]]（Toyota 系汽车金融同业）
-- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]（商社系金融同业）
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]（同业）
-- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]（同业）
-- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]（同业）
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（同业）
-- [[trading-company-finance/sojitz-finance|双日フィナンス]]（同业）
-- [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]（商社系金融同业）
+- [[leasing-firms/orix-corp|オリックス]] (汽车租赁主要竞争对手)
+- [[leasing-firms/toyota-financial|TFS]] / [[card-issuers/toyota-finance|トヨタファイナンス]] (丰田系 auto finance peer)
+- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (peer 商社系金融)
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (peer)
+- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (peer)
+- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (peer)
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
+- [[trading-company-finance/sojitz-finance|双日フィナンス]] (peer)
+- [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]] (peer 商社系金融)
 - [[banking/INDEX|banking index]]
 - [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
 ## Sources
 
-- Sumitomo Corporation (8053) securities report / EDINET filing: affiliated-company list.
-- [[megabanks/smfg|SMFG]] (8316) securities report: affiliated-company list.
-- Japan Leasing Association (JLA): https://www.leasing.or.jp/
-- Japan Automobile Leasing Association (JALA).
-- Sumitomo Mitsui Auto Service official corporate site.
-- EDINET securities-report search: https://disclosure.edinet-fsa.go.jp/
+- 住友商事株式会社 (8053) 有价证券报告书 (EDINET 披露) — 关联公司一览
+- [[megabanks/smfg|SMFG]] (8316) 有价证券报告书 — 关联公司一览
+- 公益社团法人租赁事业协会 (JLA) https://www.leasing.or.jp/
+- 日本汽车租赁协会联合会 (JALA)
+- 住友三井汽车服务 官方公司网站
+- EDINET 有价证券报告书检索 https://disclosure.edinet-fsa.go.jp/
 
 ---
 
-> [!info] 验证状态
-> confidence: **tentative**（公开信息基础 2026-05-24）。SMAS 最新保有车辆台数、收入、营业利润和出资比例应以住友商事 + SMFG 的证券报告关联公司清单核对。“SMFG + 住友商事的汽车 JV”“SMFL 姊妹公司”“日本最大级别汽车租赁参与者之一”的定位较稳固，但行业排名和市场份额具有时点性。母公司商社页面 `sumitomo-corp.md` 尚未创建，应作为 backlog 补充。
+> [!info] 検証状況
+> confidence: **tentative** (基于公开信息 2026-05-24)。SMAS 的最新持有车辆台数 / 销售额 / 营业利润 / 出资比率需参照 住友商事 + SMFG 有价证券报告书 关联公司一览。「SMFG + 住友商事 的汽车版合资公司」「SMFL 的姊妹公司」「日本最大级汽车租赁的一角」的定位是确实的，但行业排名 / 市场份额随时点变动。**母商社页面 `sumitomo-corp.md` 尚未创建 → 将来作为 backlog 计划追加**。

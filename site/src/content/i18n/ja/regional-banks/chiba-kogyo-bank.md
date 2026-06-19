@@ -1,21 +1,22 @@
 ---
 source: regional-banks/chiba-kogyo-bank
-source_hash: 9f57a1966f84b084
+source_hash: 1e1611aa69605622
 lang: ja
 status: machine
 fidelity: ok
 title: "千葉興業銀行 (Chiba Kogyo Bank)"
-translated_at: 2026-06-02T14:01:20.903Z
+translated_at: 2026-06-19T12:43:19.889Z
 ---
+
 # 千葉興業銀行 (Chiba Kogyo Bank)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。ピア比較・対比の文脈は [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
-千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足し、信金転換 → 普通銀行転換 → 1973 現社名となった。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[regional-banks/chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[megabanks/mizuho-fg]]）** の戦略株主受け入れにより、事実上のみずほ系第二地銀として再生した。中小企業融資・地域密着営業に特化し、ホールセール領域では [[megabanks/mizuho-fg]] とのリファラル / シナジーを活用する。^[extracted]
+千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足、信金転換 → 普通銀行転換 → 1973 現社名。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[regional-banks/chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[megabanks/mizuho-fg]]）** の戦略株主受け入れにより事実上のみずほ系第二地銀として再生。中小企業融資・地域密着営業に特化し、ホールセール領域では [[megabanks/mizuho-fg]] とのリファラル/シナジーを活用。^[extracted]
 
 ## 1. 会社概要
 
@@ -50,7 +51,7 @@ translated_at: 2026-06-02T14:01:20.903Z
 | みずほ銀行 / [[megabanks/mizuho-fg]] 関連 | 15.25% ^[extracted] |
 | 日本カストディ銀行（信託口）| 5.75% ^[extracted] |
 
-> 注：2025-03-28 に [[regional-banks/chiba-bank]] が投資ファンド保有分を取得し筆頭株主化した。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済みである。
+> 注: 2025-03-28 に [[regional-banks/chiba-bank]] が投資ファンド保有分を取得し筆頭株主化。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済み。
 
 ### 主要子会社・関連会社（公開）
 
@@ -91,18 +92,18 @@ translated_at: 2026-06-02T14:01:20.903Z
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 法人融資 | 千葉興業銀行（本体）| 千葉県内中小企業の主取引銀行、地域密着 |
+| 法人融資 | 千葉興業銀行（本体）| 千葉県内中小企業 main bank、地域密着 |
 | 個人預金・住宅ローン | 千葉興業銀行（本体）| 千葉県内 No.2、ローカル支店網 |
 | リース | ちば興銀リース | 法人向け |
 | カード/保証 | ちば興銀カードサービス 等 ^[extracted] | 地銀標準ライン |
 
 ### 戦略ポジション
 
-- **千葉県地盤・県内 No.2**：No.1 [[regional-banks/chiba-bank]] とはシェア差が大きいが、第二地銀として中小企業層に密着する。
+- **千葉県地盤・県内 No.2**: No.1 [[regional-banks/chiba-bank]] とはシェア差が大きいが、第二地銀として中小企業層に密着
 
 ### デジタル戦略
 
-- 詳細は最新 IR / 中期経営計画を要参照。
+- 詳細は最新 IR / 中期経営計画を要参照
 
 ### 競合関係
 
@@ -113,42 +114,39 @@ translated_at: 2026-06-02T14:01:20.903Z
 | [[regional-banks/musashino-bank]] | 埼玉地盤の第二地銀（[[regional-banks/chiba-bank]] 主導 TSUBASA 加盟、隣県競合）|
 | [[regional-banks/concordia-fg]] | 神奈川地盤の首都圏地銀 FG（広域競合）|
 | [[regional-banks/mebuki-fg]]（常陽 + 足利）| 茨城・栃木地盤の地銀 FG（首都圏東部広域競合）|
-| メガバンク（[[megabanks/mizuho-fg]]・[[megabanks/mufg]]・[[megabanks/smfg]]）| 千葉県内法人取引で競合。ただしみずほは戦略株主で部分的に協調。 |
+| メガバンク（[[megabanks/mizuho-fg]]・[[megabanks/mufg]]・[[megabanks/smfg]]）| 千葉県内法人取引で競合、但しみずほは戦略株主で部分的協調 |
 
 ### ホールディング非実施戦略
 
-- **代替策**：[[megabanks/mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完する。
+- **代替**: [[megabanks/mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完
 
 ## 4. 規制・政策
 
-- **主管**：金融庁（FSA）。
-- **業態**：第二地方銀行（一般社団法人 第二地方銀行協会 加盟）。
-- **直近政策論点**：
-  - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善ボーナス（第二地銀も恩恵）。
-  - 2024〜 地銀再編圧力（金融庁の統合促進政策）— 千葉興業の単独路線継続可否。
-  - 千葉県内人口動態（高齢化・都市部移動）の経営影響。
+- **主管**: 金融庁（FSA）
+- **業態**: 第二地方銀行（一般社団法人 第二地方銀行協会 加盟）
+- **直近政策論点**:
+  - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善ボーナス（第二地銀も恩恵）
+  - 2024〜 地銀再編圧力（金融庁の統合促進政策）— 千葉興業の単独路線継続可否
+  - 千葉県内人口動態（高齢化・都市部移動）の経営影響
 
-## 関連
+## Related
 
 - [[megabanks/mizuho-fg]] · [[regional-banks/chiba-bank]] · [[regional-banks/musashino-bank]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
 - 第二地方銀行協会 加盟行
 
-## 出典
+## Sources
 
 - **Wikipedia: 千葉興業銀行**（https://ja.wikipedia.org/wiki/千葉興業銀行, 2026-05-19 抽出。本店・子会社・2000 年再建経緯・機関設計を確認）
 - 千葉興業銀行 2025年3月期 決算短信 — https://www.chibakogyo-bank.co.jp/news/topics/assets/2989.pdf
 - 千葉興業銀行 こうゆう2025 ミニ・ディスクロージャー誌（2025年3月期）— https://www.chibakogyo-bank.co.jp/ir/library/mini-disclosure/pdf/2025_3.pdf
 - 千葉銀行 開示「投資ファンド保有株取得・筆頭株主化」（2025-03-28）— https://www.chibabank.co.jp/news/news20250328_03_001
-
 - 千葉銀行・千葉興業銀行 経営統合 基本合意（2025-09-29）— https://www.chibakogyo-bank.co.jp/news/topics/assets/3025.pdf
 - 千葉銀行・千葉興業銀行 経営統合 最終合意（2026-03-25）— https://www.chibabank.co.jp/news/news20260325_02
-
 - 関東財務局「千葉銀行と千葉興業銀行の経営統合に関する基本合意について」— https://lfb.mof.go.jp/kantou/kinyuu/pagekt_cnt_20250919001.html
 - 千葉銀行 2025年3月期 決算（競合規模の参照）— https://www.chibabank.co.jp/news/news20250508_01_001
-
 - 第二地方銀行協会 公開情報
 
 ---
 
-> [!info] 校核状態
-> 確度：**高い**（v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核）。総資産・預金・貸出金・従業員・本店所在地・子会社・大株主比率を 2025年3月期 決算短信／ミニディスクロージャー誌／公式適時開示で確定。**重要更新**：旧稿の「みずほ系戦略株主下の単独銀行」という位置づけは現状と異なる。[[regional-banks/chiba-bank]] が 2025-03-28 に筆頭株主化（19.00%、みずほは 15.25%）し、2025-09-29 基本合意・2026-03-25 最終合意により 2027-04 に [[regional-banks/chiba-bank]] と共同持株会社「ちばフィナンシャルグループ」を設立予定。経営悪化・みずほ系列入りの契機は 2000 の富士銀行出資・公的資金注入（旧稿「1991 頃」は不正確のため修正）。
+> [!info] 校核状态
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核）。総資産・預金・貸出金・従業員・本店所在地・子会社・大株主比率を 2025年3月期 決算短信／ミニディスクロージャー誌／公式適時開示で確定。**重要更新**: 旧稿の「みずほ系戦略株主下の単独銀行」という位置づけは現状と異なる — [[regional-banks/chiba-bank]] が 2025-03-28 に筆頭株主化（19.00%、みずほは 15.25%）し、2025-09-29 基本合意・2026-03-25 最終合意により 2027-04 に [[regional-banks/chiba-bank]] と共同持株会社「ちばフィナンシャルグループ」を設立予定。経営悪化・みずほ系列入りの契機は 2000 の富士銀行出資・公的資金注入（旧稿「1991 頃」は不正確のため修正）。

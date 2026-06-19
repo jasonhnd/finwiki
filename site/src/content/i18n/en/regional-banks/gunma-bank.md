@@ -1,137 +1,137 @@
 ---
 source: regional-banks/gunma-bank
-source_hash: 76c21209eedb8e13
+source_hash: 4b982d0b191a5ca5
 lang: en
 status: machine
 fidelity: ok
-title: "The Gunma Bank, Ltd."
-translated_at: 2026-05-31T15:29:03.943Z
+title: "The Gunma Bank, Ltd. (群馬銀行)"
+translated_at: 2026-06-19T12:43:19.961Z
 ---
 
-# The Gunma Bank, Ltd.
+# The Gunma Bank, Ltd. (群馬銀行)
 
 ## Wiki route
 
-This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it against[[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-A regional bank based in Gunma Prefecture (TSE PRIME 8334). **1932 -09 Established as Gunma Daido Bank** (integration of Daido Bank + Gunma Shoko Bank + Kuroiwa Bank) → **1955 Renamed Gunma Bank**. **Representative PRIME-listed regional bank in the Tokyo metropolitan area that maintains a stand-alone bank system without becoming a holding company.** Automotive-related supply chain financing is an important customer base backed by **SUBARU Ota Plant and Joshin-Etsu Expressway Economic Zone**.2015 Participating in the TSUBASA Alliance to share systems and collaborate with overseas support. ^[extracted]
+A regional bank based in Gunma Prefecture (TSE PRIME 8334). **Established as Gunma Daido Bank in 1932-09 ** (merger of Daido Bank + Gunma Shoko Bank + Kuroiwa Bank) → **renamed Gunma Bank in 1955 **. A leading example of a Tokyo-metropolitan-area PRIME-listed regional bank that maintains a **standalone-bank structure without converting to a holding company**. Against the backdrop of the **SUBARU Ota plant / Joshin-etsu Expressway economic zone**, automotive-related supply-chain lending is an important customer base. 2015 Through participation in the TSUBASA Alliance, it shares systems and coordinates overseas support. ^[extracted]
 
-## 1 . Company profile
+## 1. Company overview
 
-**Official name**: Gunma Bank, Ltd. ^[extracted]
+**Legal name**: The Gunma Bank, Ltd. (株式会社群馬銀行) ^[extracted]
 **English name**: The Gunma Bank, Ltd.
-**Securities code**: TSE PRIME8334(1949  Continuation of PRIME due to listing/market classification review) ^[extracted]
-**Establishment**:1932-09(as Gunma Daido Bank) ^[extracted]
-**Current trade name**:1955 Gunma Bank Renamed ^[extracted]
-**Head Office**: Motosoja-cho, Maebashi City, Gunma Prefecture ^[extracted]
-**Organizational design**: Company with audit and supervisory committee ^[likely]
-**Business type**: Regional bank (member of the National Regional Banks Association) / Independent bank (not converted into a holding company) ^[extracted]
+**Securities code**: TSE PRIME 8334 (listed 1949 ; continued PRIME under the market-segment review) ^[extracted]
+**Established**: 1932-09 (as Gunma Daido Bank) ^[extracted]
+**Current name**: 1955 renamed Gunma Bank ^[extracted]
+**Head office**: Motosoja-machi, Maebashi City, Gunma Prefecture ^[extracted]
+**Governance design**: Company with an audit and supervisory committee ^[likely]
+**Business category**: Regional bank (member of the Regional Banks Association of Japan) / standalone bank (not converted to a holding company) ^[extracted]
 
-### Issues with not becoming a holding company
+### The point on not converting to a holding company
 
-Megabank3 行・While leading regional banks ([[regional-banks/mebuki-fg]] /[[regional-banks/concordia-fg]]/ [[regional-banks/fukuoka-fg]], etc.) are converting into holding companies, **Gunma Bank maintains its standalone banking system**. this is:
-- Small business diversification benefits of holding company with regional focus and single prefecture base
-- Subsidiaries (lease, card, consulting) can be fully managed as a subsidiary directly under the bank.
-- No merger/management integration partner (only PRIME regional bank in the prefecture)
+While mega-banks 3 行 and leading regional banks (such as [[regional-banks/mebuki-fg]] / [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]]) move toward holding-company conversion, **Gunma Bank maintains a standalone-bank structure**. This is because:
+- As a region-focused, single-prefecture bank, the business-diversification benefit of holding-company conversion is small
+- Subsidiaries (leasing, cards, consulting) can be adequately managed as direct subsidiaries under the bank
+- There is no integration / management-integration counterpart (the only PRIME regional bank in the prefecture)
 
-### Main subsidiaries and related businesses ^[likely]
+### Major subsidiaries / affiliated businesses ^[likely]
 
-````
-Gunma Bank (single/listed 8334)
-  ├── Gungin Lease ── Lease subsidiary
-  ├── Gungin Card Service ── Credit card loan
-  ├── Gungin Securities ── Bank-securities collaboration (regional bank securities subsidiary model)
-  ├── Gungin Consulting ── Corporate solutions
-  ├── Gungin Business Service ── Administrative agency
-  └── Gunma Bank (China / NY / Hong Kong, etc.) Representative Office ── Overseas Support
-````
+```
+Gunma Bank (standalone / listed 8334)
+  ├── Gungin Lease ── leasing subsidiary
+  ├── Gungin Card Service ── credit cards / loans
+  ├── Gungin Securities ── bank-securities cooperation (regional-bank securities-subsidiary model)
+  ├── Gungin Consulting ── corporate solutions
+  ├── Gungin Business Service ── back-office outsourcing
+  └── Gunma Bank (China / NY / Hong Kong, etc.) representative offices ── overseas support
+```
 
-### Important chronology (excerpt) ^[extracted]
+### Key chronology (excerpt) ^[extracted]
 
-| Month | Event |
+| Date | Event |
 |---|---|
-|1932-09 | **Establishment of Gunma Daido Bank** (Integration of Daido Bank + Gunma Shoko Bank + Kuroiwa Bank 3 行) |
-|1949 | **Listed on the Tokyo Stock Exchange** (post-war reconstruction period) |
-| **1955** | **Gunma Bank renamed** (current trade name) |
-| Period of high economic growth | Expansion of sales base in Gunma Prefecture and northern Saitama area |
-|1990s | Maintained independence even during the bubble burst and regional bank reorganization |
-| **2015** | **TSUBASA Alliance participation** (regional bank wide-area alliance led by Chiba Bank) |
-|2010s second half | Expansion of overseas representative offices (China, Hong Kong, NY, etc.) |
-|2022-04 | TSE market classification review → TSE PRIME8334 continued |
-|2024 | Medium-term management plan (Please refer to the published IR for specific period and name)^[likely]|
+| 1932-09 | **Gunma Daido Bank established** (merger of Daido Bank + Gunma Shoko Bank + Kuroiwa Bank 3 行) |
+| 1949 | **Listed on the TSE** (postwar reconstruction period) |
+| **1955** | **Renamed Gunma Bank** (current name) |
+| High-growth period | Expansion of the operating base in Gunma Prefecture and northern Saitama in the metropolitan area |
+| 1990s | Maintained independence even through the bubble collapse and regional-bank reorganization period |
+| **2015** | **Joined the TSUBASA Alliance** (the wide-area regional-bank alliance led by Chiba Bank) |
+| Late 2010s | Expanded overseas representative offices (China, Hong Kong, NY, etc.) |
+| 2022-04 | TSE market-segment review → continued TSE PRIME 8334  |
+| 2024 | Medium-term management plan (specific period and name should be checked against published IR) ^[likely] |
 
-## 2 .Business segment map
+## 2. Business segment map
 
-| Segment | Features |
+| Segment | Characteristics |
 |---|---|
-| Corporations in the prefecture | Automotive-related (SUBARU Ota factory system/parts suppliers)/manufacturing industry cluster |
-| Expansion of the metropolitan area | Sales development in northern Saitama (Kumagaya, Honjo, Fukaya) and northern Tokyo |
-| Individuals | Largest share in the prefecture, mainly housing loans and pension accounts |
-| Bank-securities collaboration | Investment trusts, bonds, and fund wraps via Gungin Securities |
-| Lease/Card | Gungin Lease / Gungin Card Service |
-| Overseas support | Representative office (China, NY, Hong Kong, etc.) → Complement via TSUBASA |
-| Digital | TSUBASA joint infrastructure + own bank app |
+| In-prefecture corporate | Automotive-related (SUBARU Ota plant group / parts suppliers) / manufacturing clusters |
+| Metropolitan expansion | Operating expansion in northern Saitama (Kumagaya, Honjo, Fukaya) / northern Tokyo |
+| Individual | Largest in-prefecture share, centered on mortgages / pension accounts |
+| Bank-securities cooperation | Investment trusts / bonds / fund wraps via Gungin Securities |
+| Leasing / cards | Gungin Lease / Gungin Card Service |
+| Overseas support | Representative offices (China, NY, Hong Kong, etc.) → complemented via TSUBASA |
+| Digital | TSUBASA shared infrastructure + own app |
 
-### Sales area geography
+### Operating-area geography
 
-- **Headquarters**: All of Gunma prefecture (Maebashi, Takasaki, Ota, Kiryu, Isesaki, Tatebayashi, etc.)
-- **Advance into neighboring prefectures**: Saitama Prefecture (Kumagaya, Honjo, Fukaya, Kawagoe) / Tochigi Prefecture / Northern Tokyo / Kanagawa / Chiba / Osaka / Nagoya
-- **Characteristics**: **Joshinetsu Expressway Economic Zone** (Kanetsu Expressway + Joshinetsu Expressway) Logistics and manufacturing industries along the line → Automobiles, parts, and electrical equipment supply chain financing
+- **Base**: All of Gunma Prefecture (Maebashi, Takasaki, Ota, Kiryu, Isesaki, Tatebayashi, etc.)
+- **Expansion into adjacent prefectures**: Saitama Prefecture (Kumagaya, Honjo, Fukaya, Kawagoe) / Tochigi Prefecture / northern Tokyo / Kanagawa / Chiba / Osaka / Nagoya
+- **Characteristics**: Logistics / manufacturing along the **Joshin-etsu Expressway economic zone** (Kan-etsu Expressway + Joshin-etsu Expressway) → automotive / parts / electronics supply-chain lending
 
-### Industrial infrastructure characteristics
+### Industrial-base characteristics
 
-- **SUBARU (Fuji Heavy Industries) Ota Factory**: Main assembly factory in Ota City, Gunma Prefecture → Hundreds of parts suppliers are concentrated in the prefecture → Gunma Bank Core customer group for corporate financing
-- **Joshinetsu Expressway Economic Zone**: Gunma, Nagano, Niigata Logistics Arteries → Warehousing/Logistics/EC-related corporate financing
-- **Tourism**: Hot spring areas such as Kusatsu and Ikaho, Tomioka Silk Mill (World Heritage Site) → Tourism loan
-- **Agriculture**: Konjac, cabbage, sericulture (history) → Agricultural corporation financing
+- **SUBARU (Fuji Heavy Industries) Ota plant**: The flagship assembly plant in Ota City, Gunma → hundreds of parts suppliers clustered in the prefecture → the core customer group for Gunma Bank corporate lending
+- **Joshin-etsu Expressway economic zone**: Gunma / Nagano / Niigata logistics artery → warehouse / logistics / e-commerce-related corporate lending
+- **Tourism**: Hot-spring resorts such as Kusatsu and Ikaho, the Tomioka Silk Mill (World Heritage) → tourism-industry loans
+- **Agriculture**: Konjac, cabbage, sericulture (historical) → agricultural-corporation lending
 
-### Participation in TSUBASA Alliance
+### TSUBASA Alliance participation
 
-**TSUBASA Alliance** = Regional bank wide-area collaboration framework led by Chiba Bank. Participating banks: Chiba Bank, Daishi Hokuetsu Bank, Chugoku Bank, Iyo Bank, Toho Bank, North Pacific Bank, Musashino Bank, Shiga Bank, Ryukyu Bank, Gunma Bank, etc. ^[extracted].
+**TSUBASA Alliance** = the wide-area regional-bank cooperation framework led by Chiba Bank. Member banks: Chiba Bank, Daishi Hokuetsu Bank, Chugoku Bank, Iyo Bank, Toho Bank, Hokuyo Bank, Musashino Bank, Shiga Bank, Ryukyu Bank, Gunma Bank, etc. ^[extracted].
 
-Benefits of joining Gunma Bank:
-- **Cooperation of core systems** (cost distribution)
-- **Overseas support** (Use of overseas bases of participating banks → No need to handle it yourself)
-- **Product/service joint development** (investment trusts, fund wraps, cyber countermeasures)
-- **Human resource exchange/training**
+Benefits of Gunma Bank's participation:
+- **Core-system sharing** (cost distribution)
+- **Overseas support** (use of member banks' overseas bases → no need to hold its own)
+- **Joint product / service development** (investment trusts, fund wraps, cyber measures)
+- **Personnel exchange / training**
 
-### competitive structure
+### Competitive structure
 
-| Competition | Features |
+| Competitor | Characteristics |
 |---|---|
-| **[[regional-banks/towa-bank]]** Towa Bank | Gunma Prefecture No.2 Regional bank, Maebashi City main branch, independent banking system, Gunma Bank's biggest competitor in the prefecture |
-| **Gunmamirai Credit Union** | Credit union (2012 -11 Kamitsuke Credit Union + Higashi Gunma Credit Union merged, Takasaki City main branch), small-lot, community-based |
-| **[[regional-banks/mebuki-fg]]Ashikaga Bank** | Base in Tochigi Prefecture, but business competition in eastern Gunma/northern Saitama, Mebuki FG holding company structure |
-| **Musashino Bank** | Based in Saitama Prefecture, competing with Gunma Bank's expansion into northern Saitama |
-| **Mega3 行** | Competing with[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]for large corporations and listed companies |
+| **[[regional-banks/towa-bank]]** Towa Bank | The No. 2  regional bank in Gunma Prefecture, head office in Maebashi City, standalone-bank structure, Gunma Bank's largest in-prefecture competitor |
+| **Gunma Mirai Credit Cooperative** | A credit cooperative (formed by the 2012-11 merger of Kamitsuke Credit Cooperative + Higashi-Gunma Credit Cooperative, head office in Takasaki City), small-lot / community-focused |
+| **[[regional-banks/mebuki-fg]]** Ashikaga Bank | Based in Tochigi Prefecture but competes operationally in eastern Gunma / northern Saitama, Mebuki FG holding-company structure |
+| **Musashino Bank** | Based in Saitama Prefecture, competes with Gunma Bank's expansion into northern Saitama |
+| **Mega 3 行** | Competes with [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] for large corporates / listed companies |
 
-## 4 . Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervised by**: Financial Services Agency (FSA)/Kanto Local Finance Bureau
-- **Industry**: Member of the National Regional Banks Association (Regional Bank Association), non-member of the Second Regional Bank Association (No.1 Regional Bank)
-- **Capital Control**: Basel III Domestic Standard Bank ^[likely]
-- **Deposit Insurance**: Member of Deposit Insurance Corporation
-- **Current policy issues**:
-  - 2024 ~ Bank of Japan policy rate normalization → Domestic deposit and lending rate improvement → Regional bank profit bonus
-  - Pressure to reorganize regional banks (Financial Services Agency/public funds/recommendation of holding company formation) vs. decision to maintain independent banks
-  - Automotive industry EV conversion → Risk of structural change in parts supply chain (dependency on SUBARU financing sources)
+- **Supervision**: Financial Services Agency (FSA) / Kanto Local Finance Bureau
+- **Industry**: Member of the Regional Banks Association of Japan (Chigin-kyo); not a member of the Second Association of Regional Banks (a No. 1  regional bank)
+- **Capital regulation**: Basel III domestic-standard bank ^[likely]
+- **Deposit insurance**: Member of the Deposit Insurance Corporation
+- **Recent policy issues**:
+  - 2024〜 BOJ policy-rate normalization → improved domestic deposit-loan spreads → regional-bank earnings bonus
+  - Regional-bank reorganization pressure (FSA / public funds / recommendation of holding-company conversion) vs the decision to maintain a standalone bank
+  - Automotive-industry EV transition → risk of structural change in the parts supply chain (dependence on SUBARU-group borrowers)
 
 ## Related
 
-- [[regional-banks/towa-bank]] ·[[regional-banks/mebuki-fg]]·[[megabanks/mufg]]·[[megabanks/smfg]]· [[megabanks/mizuho-fg]]
-- TSUBASA Alliance: Chiba Bank / Daishi Hokuetsu Bank / Bank of China / Iyo Bank / Toho Bank, etc.
+- [[regional-banks/towa-bank]] · [[regional-banks/mebuki-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- TSUBASA Alliance: Chiba Bank / Daishi Hokuetsu Bank / Chugoku Bank / Iyo Bank / Toho Bank, etc.
 
 ## Sources
 
-- **Wikipedia: Gunma Bank, Ltd.** (https://ja.wikipedia.org/wiki/群馬銀行,2026-05-19extraction)
-- Gunma Bank Official IR (Medium-term Management Plan/Securities Report) Public Materials
-- TSUBASA Alliance Official
-- List of member banks of the National Regional Banks Association
-- **Wikipedia: Gunmamirai Credit Union** (https://ja.wikipedia.org/wiki/ぐんまみらい信用組合,2026-05-30confirmation — official name, business type, and merger history of competing credit unions in the prefecture)
+- **Wikipedia: 株式会社群馬銀行**（https://ja.wikipedia.org/wiki/群馬銀行, 2026-05-19 抽出）
+- 群馬銀行 公式 IR（中期経営計画・有価証券報告書）公開資料
+- TSUBASA アライアンス 公式
+- 全国地方銀行協会 加盟行リスト
+- **Wikipedia: ぐんまみらい信用組合**（https://ja.wikipedia.org/wiki/ぐんまみらい信用組合, 2026-05-30 確認 — 県内競合の信用組合の正式名称・業態・合併沿革）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v2.0 Wikipedia + public IR reference 2026-05-19). Date of establishment (1932 - 09), year of name change (1955), listing (TSE PRIME 8334), and participation in TSUBASA (2015) are based on public information. Medium-term management plan Please refer to the official IR for specific figures, subsidiary equity, and latest financial results. SUBARU supply chain financing concentration is estimated as a structural characteristic (not publicly disclosed).
+> confidence: **likely** (v2.0 Wikipedia + published IR reference 2026-05-19). The establishment date (1932-09), renaming year (1955), listing (TSE PRIME 8334), and TSUBASA participation (2015) are based on public information. Specific medium-term-management-plan figures, subsidiary stakes, and the latest financial results should be checked against official IR. The SUBARU supply-chain lending concentration is inferred as a structural characteristic (no public disclosure).

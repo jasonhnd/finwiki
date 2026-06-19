@@ -1,146 +1,146 @@
 ---
 source: trust-banks/custody-bank
-source_hash: f8ee68ff4bce2ea4
+source_hash: 4a0c6785c098d2a6
 lang: zh
 status: machine
 fidelity: ok
 title: "日本托管银行 (CBJ)"
-translated_at: 2026-05-31T15:29:03.936Z
+translated_at: 2026-06-19T13:13:22.641Z
 ---
 
 # 日本托管银行 (CBJ)
 
-## 维基路线
+## Wiki 路线
 
-该条目位于[[trust-banks/INDEX|trust-banks INDEX]]下。针对同行/对比上下文阅读 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+本条目归属于 [[trust-banks/INDEX|trust-banks INDEX]]。请对照 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] 了解同类 / 对比背景，对照 [[banking/INDEX|banking index]] 了解更广泛的体系 / 监管边界。
 
-## 长话短说
+## TL;DR
 
-日本最大的专门从事信托托管的银行之一（信托总资产约为 476 兆円，托管总资产（包括账户管理业务）约为 696 兆円，均截至2025-03 期末）。 **2020-07-27 日本信托服务银行 (JTSB) + 信托和托管服务银行 (TCSB) 合并启动**。 [[trust-banks/sumitomo-mitsui-trust]]（三井住友信托集团）33.3%+[[megabanks/mizuho-fg]]27.0% + Resona 银行16.7%+[[life-insurers/dai-ichi-life]]第一生命8.0%+ 朝日生命5.0%+ 明治安田生命4.5%+ 日本邮政3.5% + Fukoku Life 2.0%（现为2020-07-27）的保险合资公司。 **经常在上市公司大股东栏中以“日本托管银行（信托账户）”的形式出现★**。日本Master Trust信托[[trust-banks/master-trust-bank]]（MUFG [[megabanks/mufg]]+[[life-insurers/nippon-life]]系列）及国内2 强信托账户股东（证券存储2 强结构）。 ^[extracted]
+日本最大级的信托托管专营银行（信托财产总额约 476 兆円，含账户管理业务等的受托资产总额约 696 兆円，二者均为 2025-03  末时点）。**2020-07-27 由日本信托服务信托银行 (JTSB) + 资产管理服务信托银行 (TCSB) 合并成立**。系 [[trust-banks/sumitomo-mitsui-trust]]（三井住友信托集团）33.3% + [[megabanks/mizuho-fg]] 27.0% + 里索那银行 16.7% + [[life-insurers/dai-ichi-life]] 第一生命 8.0% + 朝日生命 5.0% + 明治安田生命 4.5% + 简保生命 3.5% + 富国生命 2.0% 的合资（截至 2020-07-27）。**作为"日本托管银行（信托口）"常见出现在上市公司主要股东栏 ★**。与日本Master Trust信托 [[trust-banks/master-trust-bank]]（MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] 系）并列为国内 2  强的信托口股东（证券保管 2  强体制）。^[extracted]
 
-## 1 。公司简介
+## 1. 公司概要
 
-**正式名称**：日本托管银行 ^[extracted]
-**英文名称**：日本托管银行有限公司（CBJ）
+**正式名称**：株式会社日本托管银行 ^[extracted]
+**英文名**：Custody Bank of Japan, Ltd. (CBJ)
 **成立**：2020-07-27（JTSB + TCSB 合并成立）^[extracted]
-**业务类型**：信托托管专业银行（信托银行业务/银行法+信托业务法）^[extracted]
-**上市**：非上市（合资/多重信托FG投资）^[extracted]
-**总公司**：东京都中央区晴海晴海岛 Triton Square 办公楼 Z1 -8- 12
+**业态**：信托托管专营银行（信托银行业 / 银行法 + 信托业法）^[extracted]
+**上市**：非上市（合资 / 多家信托 FG 出资）^[extracted]
+**总店**：东京都中央区晴海 1-8-12  晴海岛三角广场办公塔 Z
 
-### 主要股东（公开资料，现为2020-07-27） ^[extracted]
+### 主要股东（公开资料，截至 2020-07-27）^[extracted]
 
-|股东|比率|
+| 股东 | 比例 |
 |---|---|
-|[[trust-banks/sumitomo-mitsui-trust]]（三井住友信托集团）|**33.3%**|
-|[[megabanks/mizuho-fg]]（瑞穗金融集团）|**27.0%**|
-|理索纳银行|**16.7%**|
-|[[life-insurers/dai-ichi-life]] 第一生命保险|**8.0%**|
-|朝日人寿保险|**5.0%**|
-|明治安田生命保险|**4.5%**|
-|日本邮政保险|**3.5%**|
-|富国生命保险|**2.0%**|
+| [[trust-banks/sumitomo-mitsui-trust]]（三井住友信托集团）| **33.3%** |
+| [[megabanks/mizuho-fg]]（瑞穗金融集团）| **27.0%** |
+| 里索那银行 | **16.7%** |
+| [[life-insurers/dai-ichi-life]] 第一生命保险 | **8.0%** |
+| 朝日生命保险 | **5.0%** |
+| 明治安田生命保险 | **4.5%** |
+| 简保生命保险 | **3.5%** |
+| 富国生命保险 | **2.0%** |
 
-### 重要性★
+### 重要性 ★
 
-- 经常出现在几乎所有日本上市公司的大股东栏目中**“日本托管银行（信托账户）”**
-- [[trust-banks/master-trust-bank]]，与 Japan Master Trust Trust2 一起为“信托账户股东”
-- 信托资产总额：约**476 兆円 **，包括账户管理服务等 **托管资产总额：约696 兆円 **（全部截至2025 - 03 ，CBJ披露杂志2025年底）
-- 国内养老金（职工养老金、私人养老金、固定缴款养老金等）中央托管和管理机构的一部分
+- 作为**"日本托管银行（信托口）"**常见出现在日本几乎所有上市公司的主要股东栏
+- 与日本Master Trust信托 [[trust-banks/master-trust-bank]] 并列为"信托口股东"的 2  强
+- 信托财产总额约 **476 兆円**，含账户管理业务等的**受托资产总额约 696 兆円**（二者均为 2025-03  末时点，CBJ 信息披露刊 2025）
+- 国内养老金（厚生年金 / 私人养老金 / 确定缴费年金 等）中央保管 / 运营机构的一翼
 
-### 合并历史/前身
+### 合并历史 / 前身
 
-````
-JTSB系列（原SuMi TRUST系列）
-  日本信托服务银行（2000  成立）
-    ├── 原中央三井信托银行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
-    ├── 原住友信托银行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
-    └── 第一生命[[life-insurers/dai-ichi-life]]等
+```
+JTSB 系（旧 SuMi TRUST 系）
+  日本信托服务信托银行（2000  成立）
+    ├── 旧 中央三井信托银行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
+    ├── 旧 住友信托银行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
+    └── 第一生命 [[life-insurers/dai-ichi-life]] 等
 
-TCSB系列（原Mizuho + Resona系列）
-  资产管理服务信托银行（2004 设立）
-    ├── 瑞穗信托银行 ([[megabanks/mizuho-fg]])
-    ├── Resona 银行（原大和/朝日信托）
-    ├── 朝日生命保险、明治安田生命保险、日本邮政保险、富国生命保险等
-    └── 旧第一劝行富士信托/安田信托系统
+TCSB 系（旧 瑞穗 + 里索那系）
+  资产管理服务信托银行（2004  成立）
+    ├── 瑞穗信托银行（[[megabanks/mizuho-fg]]）
+    ├── 里索那银行（旧 大和 / 朝日信托系统）
+    ├── 朝日生命 / 明治安田生命 / 简保生命 / 富国生命 等
+    └── 旧第一劝业富士信托 / 安田信托 系统
 
-  ↓2020-07-27合并
+  ↓ 2020-07-27 合并
 
 日本托管银行 (CBJ)
-  ├── 三井住友信托集团[[trust-banks/sumitomo-mitsui-trust]]33.3%
-  ├── 瑞穗 FG[[megabanks/mizuho-fg]]27.0%
-  ├── 理索纳银行 16.7%
-  ├── 第一生命[[life-insurers/dai-ichi-life]]8.0%
-  └── 朝日生命保险5.0%/ 明治安田生命保险4.5%/ 日本邮政保险3.5%/ 福国生命保险 2.0%
-````
+  ├── 三井住友信托集团 [[trust-banks/sumitomo-mitsui-trust]] 33.3%
+  ├── 瑞穗 FG [[megabanks/mizuho-fg]] 27.0%
+  ├── 里索那银行 16.7%
+  ├── 第一生命 [[life-insurers/dai-ichi-life]] 8.0%
+  └── 朝日生命 5.0% / 明治安田生命 4.5% / 简保生命 3.5% / 富国生命 2.0%
+```
 
-## 2.业务板块图
+## 2. 业务分部图
 
-|部分|主营业务|特征|
+| 分部 | 主要业务 | 特点 |
 |---|---|---|
-|信托托管|上市股票、债券和投资信托的存储|以信托账户名义行使投票权|
-|养老金信托|职工养老基金、设定受益企业年金、设定缴存养老金|信托委托/经营报告/福利事务|
-|投资信托 信托|公共投资信托和私人投资信托的信托合同|投资信托协会资金的存储和计算|
-|特定资金信托（tokukin）|机构投资者和公司的管理工具|调试/管理|
-|资产管理服务|机构投资者的主托管|投资指令委托/运营报告|
+| 信托托管 | 上市股票 / 债券 / 投信的保管 | 以信托口名义行使表决权 |
+| 年金信托 | 厚生年金基金 / 确定给付企业年金 / 确定缴费年金 | 信托受托 / 运用报告 / 给付事务 |
+| 投资信托受托 | 公募投信 / 私募投信的信托合同 | 投信协会会员基金的保管 / 计算 |
+| 特定金钱信托（特金）| 机构投资者 / 事业法人的运用载体 | 受托 / 运营 |
+| 资产管理服务 | 面向机构投资者的 Master Custody | 投资指令受托 / 运用报告 |
 
-### 全职职位
+### 专营定位
 
-- 信托托管+养老金信托 **专业**：无商业银行、证券或零售业务
-- 母公司SuMi TRUST[[trust-banks/sumitomo-mitsui-trust]]/ Mizuho Trust [[megabanks/mizuho-fg]]是**前台**（运营和销售），CBJ是**后台**（存储、计算、管理）。
+- 信托托管 + 年金信托 **专营**：不持有商业银行业务 / 证券业务 / 零售
+- 母公司 SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]] / 瑞穗信托 [[megabanks/mizuho-fg]] 担任**前台**（运用 / 营业），CBJ 担任**后台**（保管 / 计算 / 事务）的分工
 
-### 竞争对手/国内2 结构坚固
+### 竞争 / 国内 2  强体制
 
-- **Master Trust Bank[[trust-banks/master-trust-bank]]**（MUFG[[megabanks/mufg]]+[[life-insurers/nippon-life]]Nippon Life Insurance）：最大竞争对手
-- 日本证券托管/信托账户股东为 CBJ + Master Trust **2 结构坚固** ^[extracted]
-- 双方实际上垄断了存储日本机构投资者和养老金资产的后台。
+- **Master Trust信托银行 [[trust-banks/master-trust-bank]]**（MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] 日本生命 系）：最大竞争对手
+- 日本的证券保管 / 信托口股东由 CBJ + Master Trust 构成 **2  强体制** ^[extracted]
+- 二者实质上寡占了日本机构投资者 / 养老金资产的保管后台
 
-### 作为信托账户股东的影响力
+### 作为信托口股东的影响力
 
-- 上市公司大股东栏目中以“日本托管银行（信托账户）”出现
-- 原则上，投票权必须按照管理机构（信托主要所有者）的指令行使（CBJ本身不独立行使投票权）
+- 作为"日本托管银行（信托口）"出现在上市公司主要股东栏
+- 表决权行使原则上**遵从运用机构（信托本金所有者的指令）**（CBJ 自身不独立行使表决权）
 
-### 整合协同
+### 整合协同效应
 
-- JTSB + TCSB 合并（2020 - 07）的主要目标：系统集成、规模效应和运营成本降低
-- 将母公司重复的**托管系统/投资信托计算系统**与CBJ统一
+- JTSB + TCSB 合并（2020-07）的主要目的：系统整合 / 规模效应 / 运营成本削减
+- 将按母公司分别重复的**托管系统 / 投信计算系统**在 CBJ 统一化
 
-## 4 。法规/政策
+## 4. 监管 / 政策
 
-- **监管**：金融服务局 (FSA)
-- **法律地位**：银行法+信托业务法（信托业务）
-- **存款保险**：存款保险公司会员（因专门从事信托托管，一般存款人的存款受到限制）
-- **间接监管**：信托协会、投资信托协会、日本证券交易商协会
-- **当前政策问题**：
-  - 2024 ~ NISA 扩张 → 投资信托资产增加
-  - 2025 ~ 固定缴款养老金制度改革（提高缴款限额）→扩大信托资产的压力
+- **主管**：金融厅（FSA）
+- **法律定位**：银行法 + 信托业法（信托兼营）
+- **存款保险**：加入存款保险机构（因信托托管专营，面向一般存款人的存款有限）
+- **间接监管**：信托协会 / 投资信托协会 / 日本证券业协会
+- **近期政策议题**：
+  - 2024～ NISA 扩充 → 投信保管资产增加
+  - 2025～ 确定缴费年金制度改革（缴费限额扩大）→ 信托资产扩大压力
 
-## 5 。重要年表
+## 5. 重要年表
 
-|年和月|现象|
+| 年月 | 事件 |
 |---|---|
-|2000 |日本信托服务银行（JTSB）成立（原中央三井信托+住友信托+第一生命等）|
-|2004 |设立信托托管服务银行（TCSB）（瑞穗+朝日生命+富国生命等）|
-|2011 - 04 |中央三井信托 + 住友信托 → 三井住友信托 HD[[trust-banks/sumitomo-mitsui-trust]]推出 → JTSB 母公司整合|
-|**2020-07-27**|**JTSB + TCSB 合并 → 日本托管银行 (CBJ) 成立** ★|
-|2024 |中期计划（具体细节未向IR透露）|
+| 2000 | 日本信托服务信托银行 (JTSB) 成立（旧 中央三井信托 + 住友信托 + 第一生命 等）|
+| 2004 | 资产管理服务信托银行 (TCSB) 成立（瑞穗系 + 朝日生命 + 富国生命 等）|
+| 2011-04 | 中央三井信托 + 住友信托 → 三井住友信托 HD [[trust-banks/sumitomo-mitsui-trust]] 成立 → JTSB 母公司整合 |
+| **2020-07-27** | **JTSB + TCSB 合并 → 日本托管银行 (CBJ) 成立** ★ |
+| 2024 | 中期经营计划（具体内容 IR 未公开）|
 
-## 有关的
+## 相关
 
-- [[trust-banks/master-trust-bank]] ·[[trust-banks/sumitomo-mitsui-trust]]·[[megabanks/mizuho-fg]]· [[life-insurers/dai-ichi-life]]
-- Resona银行（CBJ号3 位股东16.7%）
-- [[megabanks/mufg]]·[[life-insurers/nippon-life]]（主信任方）
-- 相关wiki：信托银行业务/托管/信托账户股东/投票权行使
+- [[trust-banks/master-trust-bank]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]]
+- 里索那银行（CBJ 第 3 位 股东 16.7%）
+- [[megabanks/mufg]] · [[life-insurers/nippon-life]]（Master Trust 一方）
+- 相关 wiki：信托银行业 / 托管 / 信托口股东 / 表决权行使
 
 ## 来源
 
-- **维基百科：日本托管银行有限公司**https://ja.wikipedia.org/wiki/日本カストディ銀行— 股东构成（目前为 2020-07-27）：三井住友信托集团33.3%/ Mizuho FG27.0%/ Resona Bank16.7%/ Dai-ichi Life8.0%/ Asahi Life5.0%/明治安田生命4.5%/ 日本邮政保险3.5%/ 福国生命 2.0%（2026-05-30 已确认。更正旧版本“SMTB46.5%/ 瑞穗27%/ 第一生命 8%”）
-- **维基百科：日本信托服务银行 (JTSB)**（摘自 2026-05-19）
-- **维基百科：信托和托管服务银行 (TCSB)**（摘自 2026-05-19）
-- **三井住友信托银行：追求规模经济** （日本托管银行信托资产总额476 兆円・包括账户管理等在内的托管资产总额696 兆円、2025-03 截至年底） https://www.smtb.jp/business/instrument/management/scale
-- **日本托管银行：披露杂志2025**（信托资产总额 476 兆円、2025 -03 结束） https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
-- 母公司IR披露（[[trust-banks/sumitomo-mitsui-trust]] /[[megabanks/mizuho-fg]]/ [[life-insurers/dai-ichi-life]]）
+- **Wikipedia：株式会社日本カストディ銀行** https://ja.wikipedia.org/wiki/日本カストディ銀行 — 股东构成（截至 2020-07-27）：三井住友信托集团 33.3% / 瑞穗 FG 27.0% / 里索那银行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田生命 4.5% / 简保生命 3.5% / 富国生命 2.0%（2026-05-30 确认。订正了旧版的"SMTB 46.5% / 瑞穗 27% / 第一生命 8%"）
+- **Wikipedia：日本トラスティ・サービス信託銀行 (JTSB)**（2026-05-19 抽取）
+- **Wikipedia：資産管理サービス信託銀行 (TCSB)**（2026-05-19 抽取）
+- **三井住友信托银行：追求规模效益**（日本托管银行的信托财产总额 476 兆円 / 含账户管理等的受托资产总额 696 兆円，截至 2025-03  末）https://www.smtb.jp/business/instrument/management/scale
+- **日本托管银行：信息披露刊 2025**（信托财产总额 476 兆円，2025-03  末）https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
+- 母公司 IR 披露（[[trust-banks/sumitomo-mitsui-trust]] / [[megabanks/mizuho-fg]] / [[life-insurers/dai-ichi-life]]）
 
 ---
 
-> [!info] 学校核心状况
-> 信心：**可能**（v1.0 维基百科 + 公共 IR 核心 2026-05-19、2026-05-29 确认了委托资产来源，更正了2026-05-30股东构成）。 **修正（2026-05-30）：之前版本的投资比例“SMTB46.5%/ Mizuho27.0%/ Dai-ichi Life 8.0%”不正确（46.5%是日本Master Trust Trust中MUFG Trust比例的错误转录）。正确的 CBJ 股东结构（截至 2020-07-27）为 三井住友信托集团33.3%/ Mizuho FG27.0%/ Resona Bank16.7%/ Dai-ichi Life8.0%/ Asahi Life5.0%/ Meiji Yasuda Life4.5%/ Japan Post Insurance3.5%/ Fukoku Life 2.0%（与维基百科确认匹配+多个辅助来源）。 ** 就职日期 (2020-07-27) 基于公开材料。托管资产规模在《CBJ Disclosure》杂志2025（通过三井住友信托银行网站）中确认： 托管资产总额：约476 兆円 - 托管资产总额，包括账户管理业务等：约696 兆円（均位于2025 - 03 的末尾）。具体合同份额和综合协同量化结果未披露，因此分为开放问题/单独。
+> [!info] 校核状态
+> confidence: **likely**（v1.0  Wikipedia + 公开 IR 校核 2026-05-19，2026-05-29 受托资产经出典确认，2026-05-30 股东构成订正）。**订正点 (2026-05-30): 旧版的出资比例"SMTB 46.5% / 瑞穗 27.0% / 第一生命 8.0%"有误（46.5% 是将日本Master Trust信托中 MUFG 信托的比例误抄而来）。正确的 CBJ 股东构成（截至 2020-07-27）为 三井住友信托集团 33.3% / 瑞穗 FG 27.0% / 里索那银行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田生命 4.5% / 简保生命 3.5% / 富国生命 2.0%（Wikipedia + 多个二次来源一致确认）。** 成立日（2020-07-27）以公开资料为基础。受托资产规模经 CBJ 信息披露刊 2025（经由三井住友信托银行网站）确认：信托财产总额约 476 兆円 / 含账户管理业务等的受托资产总额约 696 兆円（二者均为 2025-03  末）。具体的受托份额 / 整合协同的定量实绩因未公开，分离至 Open questions / 隔离。

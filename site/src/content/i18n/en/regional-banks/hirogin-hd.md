@@ -1,130 +1,130 @@
 ---
 source: regional-banks/hirogin-hd
-source_hash: a382a657aecdc9fe
+source_hash: ce70ec3d3d2bf6a9
 lang: en
 status: machine
 fidelity: ok
-title: "Hirogin HD (Hirogin Holdings)"
-translated_at: 2026-05-31T15:29:03.954Z
+title: "ひろぎん HD (Hirogin Holdings)"
+translated_at: 2026-06-19T12:43:19.853Z
 ---
 
-# Hirogin HD (Hirogin Holdings)
+# ひろぎん HD (Hirogin Holdings)
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|Fukuoka FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Hirogin Holdings is one of the largest regional-bank holding companies in the Chugoku region, anchored in Hiroshima Prefecture. It became a holding company on 2020-10-01 through a sole-share-transfer by Hiroshima Bank. Core subsidiaries include [[regional-banks/hiroshima-bank|Hiroshima Bank]], Hirogin Securities, Hirogin Credit Guarantee, and the Hirogin Economic Research Institute. The group has the No. 1 deposit and loan share in Hiroshima Prefecture and has a strong lending base around Mazda and the local automotive parts supply chain. In the Chugoku region it is commonly compared with [[regional-banks/chugin-okayama|Chugin FG]], [[regional-banks/san-in-godo-bank|San-in Godo Bank]], and [[regional-banks/yamaguchi-fg|Yamaguchi FG]].
+A Chugoku-region top-tier regional-bank holding group based in Hiroshima Prefecture. **Converted to a holding-company structure via a sole share transfer of Hiroshima Bank in 2020-10-01.** Its subsidiaries include **[[regional-banks/hiroshima-bank|広島銀行]]** (the core, with a predecessor founded in 1878 ), Hirogin Securities, Hirogin Credit Guarantee, Hirogin Research Institute, and others. Its within-Hiroshima-Prefecture share is **No.1** (top in the prefecture for both loans and deposits). Lending to Mazda and the local auto-parts supply chain is a strength. In the Chugoku region it forms a "Chugoku 4 行" configuration alongside [[regional-banks/chugin-okayama|chugin-fg]] ([[regional-banks/chugoku-bank|中国銀行]] / Okayama), [[regional-banks/san-in-godo-bank]] (San-in Godo / Matsue), and [[regional-banks/yamaguchi-fg]] (Yamaguchi FG / Shimonoseki).
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: Hirogin Holdings Co., Ltd.
+**Legal name**: 株式会社ひろぎんホールディングス
 **English name**: Hirogin Holdings, Inc.
-**Stock code**: TSE PRIME ** 7337 **
-**Establishment**: 2020-10-01 (Hiroshima Bank became a holding company through sole stock transfer)
-**Head office**: Kamiyacho, Naka-ku, Hiroshima 1 - 3 - 8 (Hiroshima Bank Head Office)
-**Organizational design**: Company with audit and supervisory committee
+**Securities code**: TSE PRIME **7337**
+**Established**: 2020-10-01 (holding-company conversion via sole share transfer of Hiroshima Bank)
+**Head office**: Kamiya-cho 1-3-8, Naka-ku, Hiroshima City (Hiroshima Bank head office)
+**Governance design**: Company with an Audit and Supervisory Committee
 
-### Major subsidiaries (consolidated)
+### Main subsidiaries (consolidated)
 
 ```
-Hirogin HD (listed holding company, 7337)
-  |-- Hiroshima Bank (100%) -- core banking business; established in 1950, with Geibi Bank as predecessor from 1945
-  |     |-- Domestic: No. 1 share in Hiroshima Prefecture; expansion across Sanyo and Sanin
-  |     `-- Overseas offices: Shanghai, Hong Kong, Singapore, Bangkok, New York, and others
-  |-- Hirogin Securities (100%) -- former Hirogin Securities; retail securities
-  |-- Hirogin Credit Guarantee (100%) -- personal-loan guarantees
-  |-- Hirogin Economic Research Institute (100%) -- regional think tank
-  |-- Hirogin Lease (100%)
-  |-- Hirogin Capital Partners (100%) -- PE and fund management
-  |-- Hirogin IT Solutions (100%) -- systems subsidiary
-  |-- Hirogin Human Resources Consulting (100%) -- recruitment services
-  `-- Hirogin Business Services (100%) -- BPO
+ひろぎん HD（持株会社・上場 7337）
+  ├── 広島銀行（100%）── コア事業・1950 設立（前身 芸備銀行 1945-）
+  │     ├── 国内: 広島県内シェア No.1・山陽 / 山陰へ域外展開
+  │     └── 海外駐在: 上海・香港・シンガポール・バンコク・NY 等
+  ├── ひろぎん証券(100%)── 旧 広銀証券、リテール証券
+  ├── ひろぎん信用保証(100%)── 個人ローン保証
+  ├── ひろぎん地域経済研究所(100%)── 地域シンクタンク
+  ├── ひろぎんリース(100%)
+  ├── ひろぎんキャピタルパートナーズ(100%)── PE / ファンド運営
+  ├── ひろぎん IT ソリューションズ(100%)── システム子会社
+  ├── ひろぎん人材コンサルティング(100%)── 人材紹介
+  └── ひろぎんビジネスサービス(100%)── BPO
 ```
 
 ### History
 
-| Year | Event |
+| 年 | 事象 |
 |---|---|
-| ** 1878 ** | Establishment of the 66th National Bank and 149th National Bank (Hiroshima/Kure bases) |
-| ** 1894 ** | Establishment of Sanjuroku Bank (Kure) |
-| ** 1945 ** | Under wartime control, former Hiroshima Godo Savings Bank + Sanjuroku Bank + Hiroshima Bank, etc. merged → **Geibi Bank** launched |
-| ** 1950 ** | **Geibi Bank → Hiroshima Bank name changed** |
-| 1953  | Listed on Tokyo/Osaka Stock Exchange |
-| 1973  | Overseas representative office opened (New York) |
-| 2010 年s | Strengthening expansion outside the Sanyo (Okayama/Yamaguchi) area |
-| ** 2020-10-01 ** | **Hirogin HD established through stock transfer** (Hiroshima Bank became a wholly owned subsidiary) |
-| 2021 ~ | Hirogin Securities, Hirogin Credit Guarantee, etc. will become subsidiaries and group reorganization |
-| 2024  | Medium-term management plan formulation (2024 to 2026 年 degrees) |
+| **1878** | 第六十六国立銀行・第百四十九国立銀行 設立（広島・呉拠点）|
+| **1894** | 三十六銀行（呉）設立 |
+| **1945** | 戦時統制下 旧 廣島合同貯蓄銀行 + 三十六銀行 + ひろしま銀行 等 合併 → **芸備銀行** 発足 |
+| **1950** | **芸備銀行 → 広島銀行 改称** |
+| 1953 | 東京・大阪証券取引所 上場 |
+| 1973 | 海外駐在員事務所開設（ニューヨーク）|
+| 2010 年代 | 山陽（岡山・山口）域外展開強化 |
+| **2020-10-01** | **株式移転で ひろぎん HD 設立**（広島銀行を完全子会社化）|
+| 2021〜 | ひろぎん証券・ひろぎん信用保証 等を順次子会社化・グループ再編 |
+| 2024 | 中期経営計画策定（2024〜2026 年度）|
 
-## 2. Business segment map
+## 2. Business-segment map
 
-| Segment | Main Operator | Features |
+| セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| Bank (core) | Hiroshima Bank | Hiroshima Prefecture No. 1 in deposits and loans |
-| Corporate financing | Hiroshima Bank | Main customer base is Mazda Motors and local auto parts supply chain |
-| Individual | Hiroshima Bank/Hirogin Credit Guarantee | Home Loan/Card Loan |
-| Securities | Hirogin Securities | Retail Securities/Group Synergy |
-| Lease | Hirogin Lease | Equipment lease for small and medium-sized businesses |
-| PE | Hirogin Capital Partners | Business succession fund for local companies |
-| Think Tank | Hirogin Regional Economic Research Institute | Chugoku Regional Economic Trend Report |
-| Human Resources | Hirogin Human Resources Consulting | Human Resources Introduction for Small and Medium Enterprises |
-| IT | Hirogin IT Solutions | In-group systems |
-| Overseas | Hiroshima Bank Overseas Representative Offices | Shanghai, Hong Kong, Singapore, Bangkok, NY |
+| 銀行（コア）| 広島銀行 | 広島県内シェア No.1・預貸金とも首位 |
+| 法人融資 | 広島銀行 | マツダ自動車・地元自動車部品サプライチェーンが主要顧客層 |
+| 個人 | 広島銀行・ひろぎん信用保証 | 住宅ローン・カードローン |
+| 証券 | ひろぎん証券 | リテール証券・グループシナジー |
+| リース | ひろぎんリース | 中小企業向け設備リース |
+| PE | ひろぎんキャピタルパートナーズ | 地域企業向け事業承継ファンド |
+| シンクタンク | ひろぎん地域経済研究所 | 中国地方経済動向レポート |
+| 人材 | ひろぎん人材コンサルティング | 中小企業向け人材紹介 |
+| IT | ひろぎん IT ソリューションズ | グループ内システム |
+| 海外 | 広島銀行 海外駐在員事務所 | 上海・香港・シンガポール・バンコク・NY |
 
-### Ground strategy
+### Home-base strategy
 
-- **Hiroshima prefecture base**: Prefecture share No. 1 (Deposits and loans)/Core bank in the Chugoku regional economic zone
-- **Mazda Automotive and Parts Supply Chain Financing**: The backbone is financing for key industries in Hiroshima. Mazda Head Office (Fuchu Town, Hiroshima Prefecture) + Trading base of hundreds of suppliers
-- **Extra-regional expansion**: Expand base to Sanyo region (Okayama/Yamaguchi) + Sanin (Shimane/Tottori). Chugoku region 5  Aiming to cover the entire prefecture
-- **Overseas**: Following Mazda's overseas supply chain, Shanghai, Hong Kong, Singapore, Bangkok, etc.
+- **Hiroshima Prefecture base**: No.1 share in the prefecture (loans and deposits); core bank of the Chugoku-region economic zone
+- **Mazda / parts-supply-chain lending**: Lending to Hiroshima's key industry is the backbone. A transaction base of Mazda's head office (Fuchu-cho, Hiroshima Prefecture) plus several hundred suppliers
+- **Out-of-area expansion**: Expanding locations into the Sanyo area (Okayama / Yamaguchi) plus San-in (Shimane / Tottori). Aiming to cover all 5  prefectures of the Chugoku region
+- **Overseas**: Shanghai, Hong Kong, Singapore, Bangkok, and elsewhere, following Mazda's overseas supply chain
 
-### Competitive structure in the Chugoku region
+### Chugoku-region competitive configuration
 
-| Line | Head Office | Parent Company | Features |
+| 行 | 本店 | 親会社 | 特徴 |
 |---|---|---|---|
-| **Hiroshima Bank** | Hiroshima City | Hirogin HD (7337) | Hiroshima Prefecture No. 1; largest in the Chugoku region |
-| Chugoku Bank | Okayama City | [[regional-banks/chugin-okayama|Chugin FG]] | Okayama Prefecture No. 1; converted into a holding company in 2024 |
-| Sanin Godo Bank | Matsue City | [[regional-banks/san-in-godo-bank]] | Shimane/Tottori No. 1  |
-| Yamaguchi Bank, Momiji Bank, Kitakyushu Bank | Shimonoseki | [[regional-banks/yamaguchi-fg]] | Yamaguchi + Hiroshima (Momiji) + Kitakyushu 3 行 System |
+| **広島銀行** | 広島市 | ひろぎん HD（7337）| 広島県 No.1・中国地方最大級 |
+| 中国銀行 | 岡山市 | [[regional-banks/chugin-okayama|chugin-fg]] | 岡山県 No.1・2024 持株会社化 |
+| 山陰合同銀行 | 松江市 | [[regional-banks/san-in-godo-bank]] | 島根・鳥取 No.1 |
+| 山口銀行・もみじ銀行・北九州銀行 | 下関 | [[regional-banks/yamaguchi-fg]] | 山口 + 広島（もみじ）+ 北九州 3 行体制 |
 
-Especially in Hiroshima Prefecture, it competes directly with Momiji Bank, which is affiliated with [[regional-banks/yamaguchi-fg]]**. Yamaguchi FG has a history of 2006  Yamaguchi Bank + Momiji HD (separated from the former Hirogin Financial Restructuring) and is geographically closest to Hiroshima Bank.
+In particular, **within Hiroshima Prefecture it competes directly with "Momiji Bank" under [[regional-banks/yamaguchi-fg]]**. Yamaguchi FG has an integration history of 2006  Yamaguchi Bank + Momiji HD (split off from the old Hirogin Sogo Kinyu reorganization), and geographically it is the closest to Hiroshima Bank.
 
-### Strategic significance of becoming a holding company
+### Strategic significance of the holding-company conversion
 
-- ** 2020 - 10  Establishment of Hirogin HD**: Became a holding company through sole share transfer (Hiroshima Bank only). Separate peripheral businesses such as securities, guarantees, and leases from the main bank → Make them specialized subsidiaries → Aim for group synergies
-- In the Chugoku region, it has been converted into a holding company along with 2022  [[regional-banks/yamaguchi-fg]], 2024  and [[regional-banks/chugin-okayama|chugin-fg]].
-- Developing a holding company platform for cross-regional M&A and regional bank restructuring scenarios
+- **Establishment of Hirogin HD in 2020-10 **: Holding-company conversion via a sole share transfer (Hiroshima Bank only). Separating peripheral businesses such as securities, guarantee, and leasing from the bank entity → making them specialized subsidiaries → pursuing group synergy
+- In the Chugoku region, it has completed holding-company conversion alongside 2022 [[regional-banks/yamaguchi-fg]] and 2024 [[regional-banks/chugin-okayama|chugin-fg]]
+- Building a holding-company platform for out-of-area M&A and regional-bank-restructuring scenarios
 
-### Medium-term management plan (2024 ~ 2026 年 degrees)
+### Medium-term business plan (FY2024–FY2026 年)
 
-- Regional economic revitalization, SDGs, and DX as the main pillars of 3
-- Strengthen core business support for corporations (business succession, M&A, IT support)
-- Deepen cross-selling across the group
+- 3  pillars of regional-economy revitalization, SDGs, and DX
+- Strengthening core-business support for corporates (business succession, M&A, IT-adoption support)
+- Deepening group-wide cross-selling
 
-## 4. Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervising**: Financial Services Agency (FSA) + China Finance Bureau
-- **Bank holding-company regulation**: Banking Act Article 52-17
-- **Current policy issues**:
-- 2024 ~ Bank of Japan policy rate normalization → Domestic deposit-lending spread improves
-- Mazda's EV shift/North American tariff risk → Credit risk of supply chain financing
-- Pressure on regional bank restructuring (Promotion of regional bank integration by the Financial Services Agency) → Restructuring scenario within the Chugoku region
+- **Supervisor**: Financial Services Agency (FSA) + Chugoku Local Finance Bureau
+- **Holding-company regulation**: Banking Act Article 52 -17 (bank holding company)
+- **Recent policy issues**:
+  - From 2024 onward, BoJ policy-rate normalization → improvement in the domestic loan-deposit margin
+  - Mazda's EV shift / North American tariff risk → credit risk on supply-chain lending
+  - Regional-bank-restructuring pressure (the FSA's promotion of regional-bank integration) → restructuring scenarios within the Chugoku region
 
 ## Related
 
 - [[regional-banks/chugin-okayama|chugin-fg]] · [[regional-banks/san-in-godo-bank]] · [[regional-banks/yamaguchi-fg]] — Chugoku region 4 行
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — megabanks
 - [[megabanks/ndfg]]
 
 ## Sources
 
-- **Wikipedia: Hirogin Holdings / Hiroshima Bank** (2026-05-19 extract)
-- Hirogin HD Official IR/Securities Report
+- **Wikipedia: ひろぎんホールディングス / 広島銀行**（2026-05-19 抽出）
+- ひろぎん HD 公式 IR / 有価証券報告書
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v 1.0  Wikipedia + official IR verification 2026-05-19 ). Specific figures (total assets, net income, number of branches, etc.) are not listed in this entry, but will be supplemented from the latest IR at the next update. A quantitative comparison of the market share of competitive structures in the Chugoku region needs to be added.
+> confidence: **likely** (v1.0  Wikipedia + official IR verification 2026-05-19). Specific figures (total assets, net profit, number of branches, etc.) are not recorded in this entry and are planned to be supplemented from the latest IR at the next update. A quantitative comparison of market share in the Chugoku-region competitive configuration remains to be added.

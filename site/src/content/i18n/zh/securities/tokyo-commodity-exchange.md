@@ -1,54 +1,54 @@
 ---
 source: securities/tokyo-commodity-exchange
-source_hash: d2e7b444333f96c6
+source_hash: 00e3b0ea36056073
 lang: zh
 status: machine
 fidelity: ok
 title: "东京商品交易所 (TOCOM)"
-translated_at: 2026-06-01T04:15:40.141Z
+translated_at: 2026-06-19T12:43:19.895Z
 ---
 # 东京商品交易所 (TOCOM)
 
-## Wiki 路由
+## Wiki route
 
-本条目位于 [[securities/INDEX|securities index]] 之下。可对照 [[securities/osaka-exchange|大阪取引所 (OSE)]] 阅读，以获得同业 / 对比语境；也可对照 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 阅读，以理解更广泛的系统 / 监管边界。
+本条目归属于 [[securities/INDEX|securities index]]。请对照 [[securities/osaka-exchange|大阪取引所 (OSE)]] 了解同业／对比背景，并对照 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 了解更广泛的系统／监管边界。
 
 ## TL;DR
 
-Tokyo Commodity Exchange 是 JPX 旗下负责商品交易所业务的子公司，专注于能源期货。JPX 官方简介称，TOCOM 提供并运营用于能源期货交易的商品市场。
+东京商品交易所是 JPX 旗下专营能源期货的商品交易所子公司。JPX 的官方简介称，TOCOM 为能源期货交易提供并运营商品市场。
 
-对 FinWiki 而言，TOCOM 是 JPX 体系中的商品衍生品分支，应与 [[securities/osaka-exchange|OSE]] 金融衍生品以及 [[securities/tokyo-stock-exchange|TSE]] 现金证券明确区分。
+对 FinWiki 而言，TOCOM 是 JPX 体系中的商品衍生品分支，应与 [[securities/osaka-exchange|OSE]] 金融衍生品以及 [[securities/tokyo-stock-exchange|TSE]] 现货证券保持区分。
 
-## 系统图
+## System Map
 
-| 层级 | TOCOM 解读 |
+| Layer | TOCOM reading |
 |---|---|
-| 母公司 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
-| 法律形式 | Tokyo Commodity Exchange, Inc. |
-| 成立 | 1951-02-19 |
-| 功能 | 能源商品期货市场运营。 |
-| 清算 | 商品清算整合后由 [[securities/japan-securities-clearing-corp|JSCC]] 负责。 |
+| Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
+| Legal form | Tokyo Commodity Exchange, Inc. |
+| Founded | 1951-02-19 |
+| Function | Energy commodity futures market operation. |
+| Clearing | [[securities/japan-securities-clearing-corp|JSCC]] after commodity-clearing integration. |
 
-## 市场角色
+## Market Role
 
-| 产品族 | 解读 |
+| Product family | Reading |
 |---|---|
-| 能源期货 | 官方核心业务范围。 |
-| 商品衍生品 | 商品法律与交易所规则不同于普通上市股票市场。 |
-| 清算 / 保证金 | 商品衍生品接入 JSCC 在 2020  之后的综合清算结构。 |
+| Energy futures | The core official business scope. |
+| Commodity derivatives | Commodity law and exchange rules differ from ordinary listed equity markets. |
+| Clearing / margin | Commodity derivatives connect into JSCC's post-2020 comprehensive clearing structure. |
 
-## 战略解读
+## Strategic Reading
 
-当问题不是股权融资，而是能源价格风险、商品套期保值以及日本综合交易所模式时，TOCOM 就很重要。它也有助于解释为什么 JPX 不只是一个证券交易所控股公司。
+当问题不在于股权融资，而在于能源价格风险、商品对冲以及日本的综合交易所模式时，TOCOM 就显得重要。它还有助于解释为何 JPX 比一家股票交易所控股公司更为宽泛。
 
-## 相关
+## Related
 
 - [[financial-regulators/japan-exchange-group]]
 - [[securities/osaka-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[trade/jetro-organization-structure]]
 
-## 来源
+## Sources
 
 - JPX: Company Profile, Tokyo Commodity Exchange.
 - JPX: Energy derivatives information.

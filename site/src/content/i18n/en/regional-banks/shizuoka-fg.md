@@ -1,13 +1,14 @@
 ---
 source: regional-banks/shizuoka-fg
-source_hash: 93c3b0b94d21b881
+source_hash: 2351ba9b7a756e86
 lang: en
 status: machine
 fidelity: ok
-title: "Shizuoka FG"
-translated_at: 2026-06-01T02:31:57.108Z
+title: "しずおか FG (Shizuoka FG)"
+translated_at: 2026-06-19T12:43:19.905Z
 ---
-# Shizuoka FG
+
+# しずおか FG (Shizuoka FG)
 
 ## Wiki route
 
@@ -15,112 +16,110 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Shizuoka Financial Group is a standalone regional-bank holding company based in Shizuoka Prefecture and one of Japan's largest single regional-bank groups. It was launched in 2022-10-03 when Shizuoka Bank converted to a holding-company structure through a sole-share-transfer. **A No. 1  Shizuoka-prefecture franchise with dominant local share and a manufacturing cluster, overseas expansion including Mongolia, and coexistence with local peers [[regional-banks/suruga-bank|スルガ銀行]] and [[regional-banks/shimizu-bank|清水銀行]]** define the group. Its strategy is to improve capital efficiency and preserve room for M&A through standalone regional-bank holding-company conversion.
+A standalone regional-bank holding company based in Shizuoka Prefecture (as a regional-bank single entity, one of the largest in the country). Launched when 2022-10-03 Shizuoka Bank became a holding company via a sole share transfer. **No.1  base within Shizuoka Prefecture (overwhelming intra-prefecture share・a manufacturing-cluster area) + overseas advance into Mongolia, etc. + coexistence with intra-prefecture peers [[regional-banks/suruga-bank|スルガ銀行]]・[[regional-banks/shimizu-bank|清水銀行]]**. A strategy to secure capital-efficiency improvement and M&A headroom through the holding-company-ization of a standalone regional bank.
 
-## 1. Company profile
+## 1. 会社概要
 
-**Official name**: Shizuoka Financial Group, Inc.
-**English name**: Shizuoka Financial Group, Inc.
-**Securities code**: TSE PRIME 5831
+**正式名**：株式会社しずおかフィナンシャルグループ
+**英名**：Shizuoka Financial Group, Inc.
+**証券コード**：東証 PRIME 5831
+**設立**：2022-10-03（静岡銀行が単独株式移転で持株会社化）
+**本社**：静岡県静岡市葵区呉服町 1-10（静岡銀行本店ビル内）
 
-**Established**: 2022-10-03 (Shizuoka Bank became a holding company through a sole-share-transfer)
-**Head office**: 1-10 Gofukucho, Aoi-ku, Shizuoka City, Shizuoka Prefecture (inside the Shizuoka Bank head-office building)
-
-### Key subsidiaries / holdings
+### 主要子会社・持分
 
 ```
-Shizuoka FG (listed holding company 5831)
-  ├── Shizuoka Bank (100%) -- Shizuoka-prefecture core franchise; local share No. 1
-  
-  │     ├── Shizuoka-prefecture branch network (Izu to Enshu, covering the manufacturing cluster)
-  │     ├── Out-of-prefecture bases such as Tokyo, Osaka, and Nagoya
-  │     └── Overseas representative offices (New York / Los Angeles / Shanghai / Singapore, etc.)
-  ├── Shizugin TM Securities / group securities (former Shizugin Securities lineage) -- prefecture retail securities
-  ├── Shizugin Lease / Shizugin Capital / Shizugin Credit Guarantee, etc. -- group financial subsidiaries
-  ├── Overseas local entities / affiliates (Mongolia MFG Bank, etc.) -- investment lineage from former High Mongolia Bank
-  └── System / consulting subsidiaries (Shizugin Management Consulting, etc.)
+しずおか FG（持株会社・上場 5831）
+  ├── 静岡銀行（100%）── 静岡県地盤コア・県内シェア No.1
+  │     ├── 静岡県内営業ネットワーク（伊豆〜遠州、製造業集積地カバー）
+  │     ├── 東京・大阪・名古屋等の県外拠点
+  │     └── 海外駐在員事務所（ニューヨーク / ロサンゼルス / 上海 / シンガポール 等)
+  ├── 静銀ティーエム証券 / グループ証券（旧 静銀証券系統）── 県内リテール証券
+  ├── しずぎんリース / 静銀キャピタル / 静銀信用保証 等 ── グループ金融子会社群
+  ├── 海外現地法人・関連会社（モンゴル MFG 銀行 等）── 旧ハイ・モンゴル銀行系の出資
+  └── システム・コンサル子会社（しずぎん経営コンサルティング 等)
 ```
 
-### Merger history / predecessors
+### 合併歴史・前身
 
-- Former **Shizuoka Sanjugo Bank** (Meiji-era lineage from the 35th National Bank)
-- Former **Hamamatsu Bank** (Enshu franchise)
-- Former **Shizuoka Nanajushi Bank** (lineage from the 74th National Bank)
-- **1943  Shizuoka Bank established**: wartime integration of major prefectural 3 行 including Shizuoka Sanjugo, Hamamatsu, and Shizuoka Nanajushi
-- **Shizuoka Bank listed on the TSE First Section**: long listed as a postwar regional-bank core; PRIME migration came with the 2022-04  market-segment reform
-- **2022-10-03 Shizuoka FG established**: Shizuoka Bank converted into a holding company through a sole-share-transfer, a typical standalone regional-bank holding-company case
+- Former **Shizuoka Sanjugo Bank** (Meiji era, of the 第三十五国立銀行 lineage)
+- Former **Hamamatsu Bank** (Enshu base)
+- Former **Shizuoka Nanajuyon Bank** (of the 第七十四国立銀行 lineage)
+- **1943  establishment of Shizuoka Bank**: a wartime-consolidation merger of the prefecture's major 3 行 (Shizuoka Sanjugo + Hamamatsu + Shizuoka Nanajuyon, etc.)
+- **Shizuoka Bank TSE First Section listing** (a long-time listing as a postwar regional-bank core; the PRIME migration was the 2022-04  market-classification review)
+- **2022-10-03 establishment of Shizuoka FG**: Shizuoka Bank became a holding company via a sole share transfer (a typical case of standalone regional-bank holding-company-ization)
 
-> Integration background: the standalone regional-bank holding-company conversion aimed at the following 3  points: 1 organizing group financial functions such as securities, leasing, and credit guarantee directly under the holding company to improve capital efficiency, 2 securing room for M&A and new-business expansion outside the bank entity, and 3 increasing agility for out-of-prefecture and overseas expansion. Unlike earlier standalone FG cases such as [[regional-banks/fukuoka-fg|FFG]], its defining feature is a "sole-share-transfer" rather than a merger.
+> Integration background: through standalone regional-bank holding-company-ization, it aims for the 3  points of (1) improving capital efficiency by organizing group financial functions such as the subsidiarized securities・leasing・credit-guarantee businesses directly under the holding company, (2) securing headroom for M&A・new-business-format advances not confined to the bank proper, and (3) enhancing the agility of out-of-prefecture advances・overseas expansion. Unlike preceding examples such as [[regional-banks/fukuoka-fg|FFG]], this similar standalone FG-ization is characterized by being "not a merger but a sole share transfer."
 
-### Key timeline (excerpt)
+### 重要年表（抜粋）
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| 1943 | **Shizuoka Bank established** through a merger of major prefectural 3 行 |
-| Postwar | Shizuoka Bank listed on the TSE First Section as a regional-bank core |
-| 1980- | Established No. 1  prefectural share and main-bank status for manufacturing industries such as automobiles, musical instruments, and food |
-| 2000 年s | Overseas investment and local-entity expansion including Mongolia MFG Bank (former High Mongolia Bank) |
-| 2022-04 | TSE market-segment reform -> TSE PRIME 5831, migrating from the former TSE First Section |
-| **2022-10-03** | **Shizuoka FG established** through Shizuoka Bank's sole-share-transfer holding-company conversion |
-| 2024- | Medium-term management plan as the strategy phase after standalone regional-bank FG conversion |
+| 1943 | **静岡銀行 設立**（県内主要 3 行 合併）|
+| 戦後 | 静岡銀行 東証一部上場（地銀コア）|
+| 1980〜 | 県内シェア No.1 確立、製造業（自動車・楽器・食品）main bank 化 |
+| 2000 年代 | モンゴル MFG 銀行（旧 ハイ・モンゴル銀行）等への海外出資・現地法人展開 |
+| 2022-04 | 東証市場区分見直し → 東証 PRIME 5831（旧東証一部から移行）|
+| **2022-10-03** | **しずおか FG 設立**（静岡銀行が単独株式移転で持株会社化）|
+| 2024〜 | 中期経営計画（地銀単独 FG 化後の戦略フェーズ）|
 
-## 2. Business segment map
+## 2. 事業セグメント・マップ
 
-| Segment | Main operator | Features |
+| セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| Core franchise | Shizuoka Bank | Shizuoka-prefecture No. 1 franchise; manufacturing main bank |
-| Prefectural retail | Shizuoka Bank / group securities | Shizuoka prefecture population 360 万; deep affluent and individual-deposit base |
-| Out-of-prefecture corporates | Shizuoka Bank Tokyo, Osaka, and Nagoya bases | Follow-up for Shizuoka-headquartered companies' outside-prefecture transactions plus Kanto mid-sized companies |
-| Group finance | Shizugin Lease / credit guarantee / capital, etc. | Repositioned in parallel by holding-company conversion |
+| 地盤コア | 静岡銀行 | 静岡県地盤 No.1、製造業 main bank |
+| 県内リテール | 静岡銀行・グループ証券 | 静岡県人口 360 万、富裕層 / 個人預金厚い |
+| 県外法人 | 静岡銀行東京・大阪・名古屋拠点 | 本社静岡企業の県外取引フォロー + 関東圏中堅企業 |
+| グループ金融 | 静銀リース / 信用保証 / キャピタル 等 | 持株会社化で並列再配置 |
 
-### Prefectural franchise strategy
+### 県内地盤戦略
 
-- **Shizuoka Prefecture = manufacturing cluster**: population around 360 万 (roughly 10 位 nationally), with powerful mid-sized companies in automobiles (Suzuki, Yamaha Motor, Toyota affiliates), musical instruments (Yamaha, Roland, Kawai), food, tea, and related fields. Main-bank positions with these companies are the earnings base.
-- **Coexistence with local peers**:
-  - [[regional-banks/suruga-bank|スルガ銀行]], a second regional bank headquartered in Numazu, Shizuoka Prefecture, competing in the eastern prefecture and rebuilding after the past Kabocha no Basha investment problem.
-  - [[regional-banks/shimizu-bank|清水銀行 等]], a smaller in-prefecture regional bank with a competitive and segmented relationship.
-- **Dominant local share**, but population decline and youth outmigration are medium- to long-term structural issues.
+- **Shizuoka Prefecture = a manufacturing-cluster area**: population of approximately 360 万 (around 10 位 nationally), with a cluster of strong mid-tier enterprises in automobiles (Suzuki・Yamaha Motor・Toyota-affiliated), musical instruments (Yamaha・Roland・Kawai Musical Instruments), food・tea, etc. The main-bank position for these is the earnings base
+- **Coexistence with intra-prefecture peers**:
+  - [[regional-banks/suruga-bank|スルガ銀行]] (Numazu head office in Shizuoka Prefecture, a second regional bank) ── a competitor in the eastern part of the prefecture, under management rehabilitation due to the past Kabocha no Basha investment problem
+  - [[regional-banks/shimizu-bank|清水銀行 等]] ── competition・division with small and mid-tier regional banks within the prefecture
+- **Intra-prefecture share is overwhelming**, but population decline and the outflow of younger generations are medium-to-long-term structural challenges
 
-### Overseas strategy
+### 海外戦略
 
-- **Overseas representative offices** in New York / Los Angeles / Shanghai / Singapore / Bangkok and elsewhere, a traditional global network dating back to the Shizuoka Bank era.
-- The original rationale is to support overseas expansion by in-prefecture manufacturers, especially automotive supply chains and OEM transactions.
+- **Overseas representative offices** in New York / Los Angeles / Shanghai / Singapore / Bangkok, etc. (a traditional global base network since the Shizuoka Bank era)
+- Supporting the overseas advance of intra-prefecture manufacturers (automotive supply chains・OEM transactions) is the original motivation
 
-### Strategic meaning of holding-company conversion
+### 持株会社化の戦略意義
 
-- **Capital-efficiency improvement**: Securities, leasing, credit guarantee, and other functions that had remained inside the bank are placed in parallel directly under the holding company, making groupwide resource allocation more flexible.
-- **Room for M&A**: New-business acquisitions inside the bank entity face heavier Banking Act constraints; routing through the holding company is more flexible.
-- **Digital / cross-industry alliances**: Establishing and investing in fintech subsidiaries directly under the holding company becomes easier.
-- **Meaning of standalone FG conversion**: Choosing a "sole-share-transfer" rather than a merger signals a preference for maintaining independence plus simplifying governance.
+- **Capital-efficiency improvement**: placing securities・leasing・credit-guarantee, etc. that had been stagnating within the bank proper in parallel directly under the holding company → flexibilization of resource allocation across the whole group
+- **Securing M&A headroom**: acquiring a new business format within the bank proper faces large Banking Act constraints; via the holding company it is more flexible
+- **Digital / cross-industry linkage**: establishing・investing in Fintech subsidiaries directly under the holding company is easier
+- **The significance of standalone FG-ization**: the point of choosing "not a merger but a sole share transfer" aims at maintaining independence + simplifying governance
 
-### Position in regional-bank consolidation
+### 地銀再編における位置
 
-- **One of Japan's largest standalone regional-bank groups** (alongside bases such as [[regional-banks/fukuoka-fg|FFG]], [[regional-banks/chiba-bank|千葉銀行 FG]], and [[regional-banks/concordia-fg|コンコルディア FG]]).
-- Takes an independent path at a distance from the SBI No. 4  mega concept because of its strong franchise and manufacturing main-bank position.
-- Against megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it competes through local rootedness plus manufacturing-cluster concentration.
+- **As a standalone regional-bank group, one of the largest in the country** (a base on a par with [[regional-banks/fukuoka-fg|FFG]]・[[regional-banks/chiba-bank|千葉銀行 FG]]・[[regional-banks/concordia-fg|コンコルディア FG]], etc.)
+- **An independent path that keeps its distance from the SBI 4 th-megabank concept** (it has the strength of its base and a manufacturing main-bank position)
+- **Against megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it competes with regional rootedness + manufacturing clustering**
 
-## 4. Regulation / policy
+## 4. 規制・政策
 
-- **Primary supervisors**: FSA + Tokai Local Finance Bureau
-- **Holding-company regulation**: Banking Act Article 52 -17 (bank holding company)
-- **Overseas subsidiary regulation**: Local supervisors such as the Bank of Mongolia
-- **Recent policy issues**:
-  - 2024- BOJ policy-rate normalization -> improved regional-bank margins, with relatively larger benefit than for megabanks
-  - 2025- accelerated regional-bank consolidation due to population decline and digital-investment burden -> Shizuoka FG faces a decision between maintaining independence and forming alliances with nearby regional banks
-  - Pace of M&A and new-business expansion after standalone FG conversion
+- **主管**：金融庁（FSA）+ 東海財務局
+- **持株会社規制**：銀行法 第 52 条の 17（銀行持株会社）
+- **海外子会社規制**：モンゴル中央銀行（Bank of Mongolia）等の現地監督
+- **直近政策論点**：
+  - 2024〜 BOJ policy-rate normalization → regional-bank margin improvement (relatively larger benefit than for megabanks)
+  - 2025〜 acceleration of regional-bank restructuring (population decline + digital-investment burden) → Shizuoka FG faces a judgment phase of whether to maintain independence or to ally with neighboring regional banks
+  - the pace of M&A・new-business-format advances after standalone FG-ization
 
 ## Related
 
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks 3 行)
-- [[regional-banks/fukuoka-fg]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]] (regional and second-regional banks)
-- [[banking/minna-bank-baas-model]] (regional-bank digital strategy comparison)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（megabanks 3 行）
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]]（regional banks・second-regional-bank group）
+- [[banking/minna-bank-baas-model]]（regional-bank digital-strategy comparison）
 
 ## Sources
 
-- **Wikipedia: Shizuoka Financial Group** (https://ja.wikipedia.org/wiki/しずおかフィナンシャルグループ, extracted 2026-05-19)
-- **Wikipedia: Shizuoka Bank** (https://ja.wikipedia.org/wiki/静岡銀行, extracted 2026-05-19)
+- **Wikipedia: しずおかフィナンシャルグループ**（https://ja.wikipedia.org/wiki/しずおかフィナンシャルグループ, extracted 2026-05-19）
+- **Wikipedia: 静岡銀行**（https://ja.wikipedia.org/wiki/静岡銀行, extracted 2026-05-19）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  Wikipedia-based check 2026-05-19). History (1943  establishment and 2022-10-03 holding-company conversion) and listing segment (TSE PRIME 5831) are confirmed in public sources. Details of the subsidiary structure, including Mongolia MFG Bank's ownership ratio and official names of group financial subsidiaries, financial figures, and medium-term-plan targets are not included in this version and require direct checking against Shizuoka FG official IR / securities reports. Competitive trends with local peers (Suruga / Shimizu) and the group's position in regional-bank consolidation remain monitoring items.
+> confidence: **likely** (v1.0  Wikipedia-based verification 2026-05-19). The history (1943  establishment・2022-10-03 holding-company-ization)・listing classification (TSE PRIME 5831) are confirmed from public information. The details of the subsidiary structure (the investment ratio of Mongolia MFG Bank・the official corporate names of the group financial subsidiaries, etc.), settlement figures, and mid-term-plan targets are not included in this edition — direct confirmation of Shizuoka FG's official IR / 有価証券報告書 required. The competitive trends with intra-prefecture peers (Suruga / Shimizu) and the positioning within regional-bank restructuring are items for continued observation.

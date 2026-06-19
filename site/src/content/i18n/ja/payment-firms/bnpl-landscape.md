@@ -1,77 +1,78 @@
 ---
 source: payment-firms/bnpl-landscape
-source_hash: 72f658c26d821a6e
+source_hash: 99b6c4d9ee1c40e2
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の BNPL 市場構造"
-translated_at: 2026-06-02T14:01:20.926Z
+title: "日本の BNPL ランドスケープ"
+translated_at: 2026-06-19T06:09:18.093Z
 ---
-# 日本の BNPL 市場構造
 
-## ウィキ上の位置づけ
+# 日本の BNPL ランドスケープ
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] に属する。ピア / 対比の文脈では [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] を、より広いシステム / 規制境界では [[payments/INDEX|payments index]] を参照する。
+## Wiki route
 
-## 要約
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。同業 / 対比の文脈については [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] と、より広いシステム / 規制境界については [[payments/INDEX|payments index]] と対比して読むこと。
 
-日本の BNPL / 「あと払い」市場は、**加盟店チェックアウトと消費者信用の境界問題**として理解するのが最もよい。[[payment-firms/paidy|Paidy]] はアンカー事例である。PayPal が同社を買収したのは、日本国内決済での関連性を高めるためだった。ただし BNPL は、クレジットカード、分割販売、コンビニ決済、ウォレット残高、ポイント主導のチェックアウトとも重なり合う。
+## TL;DR
 
-JapanFG での統制上の問いは、**その商品が単なる後払い決済なのか、それとも分割信用、信用購入あっせん、貸金、カード類似の信用なのか**である。
+日本の BNPL /「あと払い」市場は、**加盟店チェックアウトと消費者信用の境界問題** として理解するのが最善である。PayPal が国内の日本決済における関連性を拡大するために買収したことから [[payment-firms/paidy|Paidy]] がアンカーケースとなるが、BNPL はクレジットカード、割賦販売、コンビニ決済、ウォレット残高、ロイヤルティ主導のチェックアウトとも重なり合う。
 
-## 市場マップ
+JapanFG にとって、コントロールの問いは次のとおりである：**その商品は単なる支払い後ろ倒しなのか、それとも割賦信用 / 信用購入あっせん / 貸金 / カード的な信用なのか？**
 
-| レイヤー | 日本での例 | 重要な理由 |
+## マーケットマップ
+
+| 層 | 日本の例 | なぜ重要か |
 |---|---|---|
-| 専業 BNPL | [[payment-firms/paidy|Paidy]] | 日本を代表する BNPL プラットフォームであり、PayPal 傘下にあるためグローバル決済との橋渡しになる。 |
-| カード分割 / リボ | [[card-issuers/jcb|JCB]]、[[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/credit-saison|Credit Saison]] | 既存の日本のクレジットには、すでに分割とリボの仕組みがある。 |
-| コード決済系クレジット | PayPay、Rakuten、Merpay、d払い派生サービス | アプリウォレットは、既存の決済頻度の周辺に後払いや信用商品を追加できる。 |
-| 加盟店チェックアウト | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、PSP、EC プラットフォーム | BNPL には加盟店での受入れと決済連携が必要である。 |
-| コンビニ返済 | Paidy 型のコンビニ支払い行動 | オンライン購入からオフライン現金返済へつなぐ、日本固有の橋渡しである。 |
+| 専用 BNPL | [[payment-firms/paidy|Paidy]] | 日本を代表する BNPL プラットフォーム；PayPal の所有がグローバル決済の橋渡しにする |
+| カード割賦 / リボ | [[card-issuers/jcb|JCB]]、[[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/credit-saison|Credit Saison]] | 既存の日本のクレジットはすでに割賦とリボの仕組みを持つ |
+| コード決済の信用 | PayPay、楽天、Merpay、d払い のバリエーション | アプリウォレットは既存の決済頻度の周りに後払いまたは信用商品を追加できる |
+| 加盟店チェックアウト | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、PSP、EC プラットフォーム | BNPL は加盟店の受容と決済の統合を必要とする |
+| コンビニ返済 | Paidy 型のコンビニ払い行動 | オンライン購入からオフライン現金返済への日本特有の橋渡し |
 
-## 法務 / 商品境界
+## 法的 / 商品の境界
 
-| 商品設計 | 法的論点 |
+| 商品設計 | 法的な問い |
 |---|---|
-| 翌月一括請求で支払う | 後払いなのか、信用購入あっせんなのか、別の規制対象信用サービスなのか。 |
-| 3  / 6  / 12 回に分けて支払う | 割賦販売または貸金に近い分析を誘発するか。 |
-| 加盟店が BNPL 事業者に手数料を支払う | 加盟店手数料モデルはカード acquiring に似るが、消費者信用ルールもなお重要である。 |
-| アプリウォレットが後払いを提供する | ウォレット残高、資金移動、前払式支払手段、信用、加盟店決済を切り分ける必要がある。 |
-| バーチャルカード / カード類似利用 | カードネットワーク、割賦販売、発行体 / acquirer、カード番号取扱いの論点が現れる場合がある。 |
-| 延滞 / 回収 | 消費者保護、信用情報、苦情対応、債権回収管理が重要になる。 |
+| 翌月に一括請求で支払う | これは支払い後ろ倒しか、信用購入あっせんか、または別の規制された信用サービスか？ |
+| 3 / 6 / 12 回の支払いに分割する | 割賦販売または貸金的な分析を引き起こすか？ |
+| 加盟店が BNPL 事業者に支払う | 加盟店手数料モデルはカードアクワイアリングに似るが、消費者信用ルールも依然重要 |
+| アプリウォレットが後払いを提供 | ウォレット残高、資金移動、前払式、信用、加盟店決済を分離する必要がある |
+| バーチャルカード / カード的な利用 | カードネットワーク、割賦販売、イシュア / アクワイアラ、カード番号の取扱いの問題が現れうる |
+| 延滞 / 回収 | 消費者保護、信用情報、苦情、債権回収のコントロールが重要になる |
 
-## Paidy の位置づけ
+## Paidy アンカー
 
-Paidy が重要なのは、BNPL を日本向けにローカライズしたためである。
+Paidy が重要なのは、BNPL を日本向けにローカライズしたからである：
 
-- 従来型カード登録ではなく、スマートフォン起点のチェックアウトを採用した。
-- 月次でまとめて請求する方式を提供した。
-- 設定に応じて、コンビニ、銀行振込、口座振替で返済できる。
-- 加盟店側にはチェックアウト転換率を高める価値提案がある。
-- PayPal 傘下であることが、グローバルな販売網とガバナンス層になる。
+- 伝統的なカード登録ではなくスマートフォン優先のチェックアウト；
+- 統合された月次請求；
+- 設定に応じてコンビニ、銀行振込、または口座引落を通じた返済；
+- チェックアウトのコンバージョン周りの加盟店側の価値提案；
+- グローバルな販売・ガバナンス層としての PayPal の所有。
 
-## 日本で BNPL が異なる理由
+## なぜ日本では BNPL が異なるのか
 
-日本では、グローバル BNPL が普及する前から、成熟したクレジットカードの分割 / リボ制度と、強いコンビニ決済文化が存在していた。そのため BNPL はカードだけでなく、次とも競合する。
+日本は、グローバルな BNPL が普及する前から、成熟したクレジットカードの割賦 / リボシステムと強いコンビニ決済文化をすでに持っていた。つまり BNPL は、カードだけでなく以下とも競合する：
 
-- 代金引換のレガシー行動。
-- コンビニ払込票と現金返済。
-- 若年層またはカード利用が薄いユーザー。
-- チェックアウト摩擦を減らしたい加盟店。
-- ポイントで信用供与を補助できるアプリ経済圏。
+- 代金引換のレガシー行動；
+- コンビニの払込票と現金返済；
+- 若年層またはカード保有の少ないユーザー；
+- チェックアウトの摩擦を減らしたい加盟店；
+- ポイントで信用を補助できるアプリエコシステム。
 
-## JapanFG での意味
+## JapanFG 関連性
 
-| JapanFG エンティティ | 関連性 |
+| JapanFG 事業体 | 関連性 |
 |---|---|
-| [[payment-firms/paidy|Paidy]] | 専業 BNPL のアンカーであり、PayPal の日本拡張事例である。 |
-| [[card-issuers/jcb|JCB]] | 既存カード / 分割ネットワークと 発行体経済性。 |
-| [[card-issuers/orico|Orico]] / [[card-issuers/jaccs|JACCS]] | 信用購入 / 割賦販売の既存事業者。 |
-| [[card-issuers/credit-saison|Credit Saison]] | 加盟店および消費者信用との接点を持つカード / 金融の既存事業者。 |
-| [[megabanks/paypay-fg|PayPay FG]] / [[payment-firms/rakuten-fg|Rakuten FG]] | 信用商品を追加し得るアプリ型決済 / ポイント経済圏。 |
-| [[payments/cashless-jp-landscape|Cashless JP landscape]] | BNPL は、より広いキャッシュレス・チェックアウト・スタックの一層である。 |
+| [[payment-firms/paidy|Paidy]] | 専用 BNPL アンカーおよび PayPal Japan 拡大のケース |
+| [[card-issuers/jcb|JCB]] | 既存のカード / 割賦ネットワークとイシュアの経済性 |
+| [[card-issuers/orico|Orico]] / [[card-issuers/jaccs|JACCS]] | 信用購入 / 割賦販売の既存事業者 |
+| [[card-issuers/credit-saison|Credit Saison]] | 加盟店および消費者信用のリンクを持つカード / 金融の既存事業者 |
+| [[megabanks/paypay-fg|PayPay FG]] / [[payment-firms/rakuten-fg|Rakuten FG]] | 信用商品を追加できるアプリベースの決済 / ポイントエコシステム |
+| [[payments/cashless-jp-landscape|Cashless JP landscape]] | BNPL はより広いキャッシュレス・チェックアウトのスタック内の一つの層である |
 
-## 関連項目
+## Related
 
 - [[payment-firms/paidy|Paidy]]
 - [[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]
@@ -84,8 +85,8 @@ Paidy が重要なのは、BNPL を日本向けにローカライズしたため
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- Paidy 公式会社プロフィール。
-- PayPal 投資家向け Paidy 買収リリース, 2021。
-- PayPal Japan ニュースルームの Paidy 買収リリース, 2021。
+- Paidy 公式会社概要。
+- Paidy 買収に関する PayPal インベスターリリース、2021。
+- Paidy 買収に関する PayPal Japan ニュースルームリリース、2021。

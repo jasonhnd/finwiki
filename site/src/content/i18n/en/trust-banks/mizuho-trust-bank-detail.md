@@ -1,147 +1,149 @@
 ---
 source: trust-banks/mizuho-trust-bank-detail
-source_hash: 29c023efd6855892
+source_hash: 04ec75fa24762977
 lang: en
 status: machine
 fidelity: ok
-title: "Mizuho Trust & Banking Operating Profile"
-translated_at: 2026-05-31T23:05:42.105Z
+title: "Mizuho Trust & Banking Operating Profile (みずほ信託銀行 事業詳細)"
+translated_at: 2026-06-19T12:43:19.920Z
 ---
-# Mizuho Trust & Banking Operating Profile
+
+# Mizuho Trust & Banking Operating Profile (みずほ信託銀行 事業詳細)
+
 
 ## Wiki route
 
-This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|みずほFG]] / [[megabanks/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-[[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking Co., Ltd.]] is a **trust-bank operating company under [[megabanks/mizuho-fg|Mizuho Financial Group]]**. While [[megabanks/mizuho-bank|Mizuho Bank]] serves as the core commercial bank, Mizuho Trust & Banking handles the trust, pension, real estate, stock transfer agency, and entrusted-assets side of the group's internal business division. Among the three major trust banks, it is mid-scale.
+[[trust-banks/mizuho-trust-bank|みずほ信託銀行株式会社]] is the **trust-bank operating company under [[megabanks/mizuho-fg|みずほフィナンシャルグループ]]**. While [[megabanks/mizuho-bank|みずほ銀行]] carries the commercial-banking core, Mizuho Trust & Banking carries the **trust + pension + real estate + securities agency + entrusted assets** side — one wing of the intra-FG business division of labor. Its origins are **"Chuo Trust"**, established in 1925-05 , and **"Yasuda Trust"** (the later Fuji Trust Bank lineage) — and it reached its present corporate form through the trust-function consolidation that accompanied the 2000-2003  integration of the former 3 行 (Dai-Ichi Kangyo Bank / Fuji Bank / Industrial Bank of Japan). This entry addresses the **operating-level depth** of business segments, pension trust, real-estate trust, securities agency, international business, and intra-FG banking-trust cooperation. Among the 3  major trust banks (Mizuho Trust / [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]]), it is of mid-tier scale.
 
 ## 1. Parent-group relationship (Mizuho FG)
 
-- **Holding company**: [[megabanks/mizuho-fg|Mizuho Financial Group]] (8411 / TSE PRIME), with Mizuho Trust as a 100% subsidiary.
-- **Business division inside the FG**:
-  - [[megabanks/mizuho-bank|Mizuho Bank]] ? commercial banking, domestic corporates, and retail.
-  - **Mizuho Trust & Banking** — trust functions, pensions, real estate, stock transfer agency, and entrusted assets.
-  - [[securities-firms/mizuho-securities|Mizuho Securities]] ? investment banking and securities.
-- **One Mizuho strategy**: 3 社 bank + trust + securities model, strengthening cross-sell and customer referrals across the group.
-- **Board structure**: FG-dispatched executives plus trust-specialist executives.
+- **Holding company**: a 100% subsidiary of [[megabanks/mizuho-fg|みずほフィナンシャルグループ]] (8411 / TSE PRIME)
+- **Intra-FG business division of labor**:
+  - [[megabanks/mizuho-bank|みずほ銀行]] — commercial banking / domestic corporate / retail
+  - **Mizuho Trust & Banking** — trust functions / pension / real estate / securities agency / entrusted assets
+  - [[securities-firms/mizuho-securities|みずほ証券]] — investment banking / securities business
+- **One Mizuho strategy**: an FG-wide model strengthening the cross-sell / client referral of 3 社 (bank + trust + securities)
+- **Board of directors**: FG-dispatched officers + trust-specialist officers
 
 ## 2. Corporate history
 
-- **Root 1  (1925-05)**: Chuo Trust Co., Ltd. established.
-- **Root 2**: Yasuda Trust Bank, a former Yasuda zaibatsu trust-function entity that later became part of the Fuji Trust Bank line.
-- **Integration**: consolidation and aggregation of trust functions alongside the 2000-2003  establishment of Mizuho FG.
-- **Current structure**: Mizuho Trust & Banking Co., Ltd., a 100% subsidiary of Mizuho FG.
+- **Origin 1  (1925-05)**: Chuo Trust Co., Ltd. established
+- **Origin 2**: Yasuda Trust Bank (the former Yasuda-zaibatsu trust function, the later Fuji Trust Bank)
+- **Integration**: the consolidation / integration of trust functions accompanying the 2000-2003  establishment of Mizuho FG
+- **Current structure**: Mizuho Trust & Banking Co., Ltd. (a 100% subsidiary of Mizuho FG)
 
-## 3. License and regulatory boundary
+## 3. License / regulatory boundary
 
-- **Ordinary bank**: ordinary bank license under the Banking Act, licensed by the Director-General of the Kanto Local Finance Bureau.
-- **Trust business**: trust-business authorization under the Concurrent Business Act, specific to trust banks.
-- **Industry associations**:
-  - Japanese Bankers Association.
-  - **Trust Companies Association of Japan**, the trust-bank-specific industry self-regulatory body.
-- **Deposit Insurance Corporation**: member.
+- **Ordinary bank**: an ordinary-bank license under the Banking Act (Kanto Local Finance Bureau Director-General's license)
+- **Trust business**: trust-business authorization under the Concurrent Operation Act (specific to trust banks)
+- **Industry-body membership**:
+  - Japanese Bankers Association
+  - **Trust Companies Association of Japan** (an industry self-regulatory body specific to trust banks)
+- **Deposit Insurance Corporation**: member
 
-## 4. Business segment detail
+## 4. Business-segment details
 
-### 4.1  Pension trusts and pension management
+### 4.1  Pension trust / pension management
 
-- **Customers**: corporate pensions, including defined-benefit and defined-contribution plans, plus public pensions.
-- **Business**: pension-asset entrustment, management, and pension-payment administration.
-- **Positioning**: a core business among the 3  major trust banks; Mizuho Trust has a long-standing corporate-pension customer base.
-- **Regulation**: Defined Benefit Corporate Pension Act, Defined Contribution Pension Act, and Employees' Pension Insurance Act.
+- **Target**: corporate pensions (defined-benefit / defined-contribution pensions) / public pensions
+- **Business**: pension-asset entrustment / management / pension-payment administration
+- **Positioning**: a flagship business of the 3  major trust banks — Mizuho Trust **holds a long-term client base in the corporate-pension field**
+- **Regulation**: Defined-Benefit Corporate Pension Act / Defined-Contribution Pension Act / Employees' Pension Insurance Act
 
-### 4.2  Real-estate trusts and real-estate brokerage
+### 4.2  Real-estate trust / real-estate brokerage
 
-- **Real-estate trust beneficiary rights**: structuring of trust beneficiary rights for real-estate securitization schemes and REIT-related transactions.
-- **Real-estate brokerage**: real-estate sale / purchase brokerage and consulting for corporations and affluent individuals.
-- **Real-estate funds**: private real-estate fund formation.
-- **Competitors**: [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / major real-estate companies, including [[trust-banks/INDEX|trust-banks INDEX]] and Mitsubishi Estate.
+- **Real-estate trust beneficiary rights**: structuring of trust beneficiary rights for real-estate-liquidation schemes / REIT-related
+- **Real-estate brokerage**: real-estate sale-and-purchase brokerage / consulting for corporates / the wealthy
+- **Real-estate funds**: structuring of private real-estate funds
+- **Competitors**: [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / major real-estate companies ([[trust-banks/INDEX|trust-banks INDEX]] · Mitsubishi Estate, etc.)
 
-### 4.3  Stock transfer agency (shareholder-register administration)
+### 4.3  Securities agency (shareholder-register administration)
 
-- **Business**: shareholder-register administration, shareholder-meeting administration, and dividend-payment administration for listed companies.
-- **Customers**: listed companies, especially counterparties related to former Mizuho FG-line main-bank relationships.
-- **Market share**: the 3 major trust banks plus [[trust-banks/INDEX|trust-banks INDEX]] and others account for most of the Japanese market.
+- **Business**: shareholder-register administration / shareholder-meeting administration / dividend-payment administration for listed companies
+- **Clients**: listed companies (centered on main-bank relationships of the former Mizuho FG-lineage banks)
+- **Market share**: the 3  major trust banks + [[trust-banks/INDEX|trust-banks INDEX]], etc. nearly monopolize the Japanese market
 
-### 4.4  Entrusted assets (asset-management entrustment and custody)
+### 4.4  Entrusted assets (asset-management entrustment / custody)
 
-- **Investment-trust entrustment**: trustee and accounting services for investment-trust assets.
-- **Specified money trusts**: investment trusts for corporations and affluent individuals.
-- **Custody services**: custody services for institutional investors.
+- **Investment-trust entrustment**: trust-asset entrustment / accounting of investment trusts
+- **Specified money trusts**: management trusts for corporates / wealthy individuals
+- **Custody services**: custody business for institutional investors
 
-### 4.5  Personal trusts and inheritance-related services
+### 4.5  Personal trust / inheritance-related
 
-- **Testamentary trusts**: will-preparation support and will execution.
-- **Inheritance-related services**: estate administration and coordination with inheritance-tax filing.
-- **Education-fund gift trusts / marriage and child-rearing support trusts**: intergenerational family asset-transfer trusts using gift-tax exemptions.
-- **Real-estate administration / disposal trusts**: family-trust style services for inheritance and aging-society needs.
+- **Testamentary trust**: will-drafting support / will execution
+- **Inheritance-related business**: estate-settlement business / inheritance-tax-filing cooperation
+- **Education-fund gift trust / marriage-and-childcare-support trust**: inter-family asset-transfer trusts utilizing gift-tax exemption allowances
+- **Real-estate management-and-disposal trust**: family trusts addressing inheritance / aging
 
 ### 4.6  International business
 
-- **Asia and the Americas**: support for Japanese companies through representative offices and local entities.
-- **Overseas real-estate trusts**: trust services for Japanese investors investing in overseas real estate.
+- **Asia / the Americas**: support for Japanese companies through representative offices / local subsidiaries
+- **Overseas real-estate trust**: entrustment of overseas real-estate investment by Japanese investors
 
-## 5. Competition and industry position (3  major trust banks)
+## 5. Competition / industry position (the 3  major trust banks)
 
-| Trust bank | Parent FG | Scale impression (trust assets) |
+| Trust bank | Parent FG | Scale (trust assets) |
 |---|---|---|
-| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **Largest among the 3  major trust banks** (over 300 兆円) |
-| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | [[trust-banks/INDEX|trust-banks INDEX]] | Over 300tn yen, with strength in pensions |
-| **Mizuho Trust & Banking** | Mizuho FG | Mid-scale, in the 200 兆円 range |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **Largest of the 3  major trust banks** (over 300 兆円) |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[trust-banks/INDEX|trust-banks INDEX]] | over 300 兆円 (ahead in pensions) |
+| **Mizuho Trust & Banking** | Mizuho FG | mid-tier scale (the 200 兆円 class) |
 
-Other trust subsidiaries, including regional-bank trust subsidiaries such as the [[trust-banks/INDEX|trust-banks INDEX]] group and independent trust subsidiaries such as Orix and Tokio Marine, also complement the market.
+In addition, the trust subsidiaries of regional-bank-affiliated trusts (the [[trust-banks/INDEX|trust-banks INDEX]] group, etc.) and independent trusts (ORIX, Tokio Marine, etc.) provide complements.
 
-## 6. Strategy and recent trends
+## 6. Strategy / recent developments
 
-- **One Mizuho strategy**: customer referral and cross-sell through [[megabanks/mizuho-bank|Mizuho Bank]] + [[securities-firms/mizuho-securities|Mizuho Securities]] and three-company coordination, especially in corporate IPOs, business succession, affluent asset formation, and pensions.
-- **Real-estate business strengthening**: corporate CRE strategy plus REIT sponsor support.
-- **Digital inheritance / family trusts**: trust-product development for an aging society.
-- **Wealth Management**: strengthening integrated asset-management services for affluent customers.
-- **ESG trusts / impact investing**: incorporating sustainability elements into pension management.
-- **DX investment**: digitization of trust administration, electronic contracts, and blockchain-use exploration.
+- **One Mizuho strategy**: client referral / cross-sell from 3 社 cooperation with [[megabanks/mizuho-bank|みずほ銀行]] + [[securities-firms/mizuho-securities|みずほ証券]] (particularly corporate IPO / business succession / wealthy-client asset formation / pensions)
+- **Real-estate business strengthening**: corporate CRE (corporate real estate) strategy + REIT-sponsor support
+- **Digital inheritance / family trusts**: development of trust products addressing an aging society
+- **Wealth Management**: strengthening of integrated asset-management services for the wealthy
+- **ESG trust / impact investment**: incorporation of sustainability factors into pension management
+- **DX investment**: digitization of trust administration / electronic contracts / consideration of blockchain use
 
-## 7. Key KPI overview / standalone basis
+## 7. Key KPIs (overview / standalone)
 
-| Item | Scale impression |
+| Item | Scale |
 |---|---|
 | Standalone total assets | 8-10 兆円 range |
-| Standalone trust-asset balance | 200 兆円 range, including entrusted assets |
-| Standalone deposit balance | Several-trillion-yen range |
-| Standalone ordinary profit | Several-hundred-billion-yen range |
-| Standalone capital adequacy ratio | Basel III compliant |
-| Employees (standalone) | Around 3,500 名 |
+| Standalone trust-asset balance | the 200 兆円 class (including entrusted assets) |
+| Standalone deposit balance | several-trillion-yen range |
+| Standalone ordinary profit | several-tens-of-billions-of-yen range |
+| Standalone capital-adequacy ratio | compliant with the Basel III standard |
+| Employees (standalone) | approx. 3,500 名 |
 
-For details, see EDINET annual securities reports, Mizuho FG IR materials, and Mizuho Trust & Banking disclosure magazines.
+For details, refer to the EDINET Securities Report / Mizuho FG IR / Mizuho Trust & Banking disclosure magazine.
 
-## 8. Risk and regulatory topics
+## 8. Risk / regulatory points
 
-- **Pension trustee fee compression**: pressure on pension trustee fees as investment yields decline in a low-interest-rate environment.
-- **Dependence on real-estate market conditions**: domestic real-estate prices and REIT market movements affect real-estate trust and brokerage earnings.
-- **Parent-subsidiary listed-company governance not applicable inside the FG**: Mizuho Trust is a 100% subsidiary. However, the effectiveness of the One Mizuho strategy remains a group-level topic.
-- **TCFD / sustainability**: climate-related risk disclosure for pension management and real-estate investments.
-- **Recovery of DX investment**: monetization of large-scale investment in trust-administration digitization.
-- **Explanation responsibility for personal trusts**: suitability and explanation duties for elderly customers using testamentary trusts, family trusts, and related products.
-- **Money laundering (AML)**: continued monitoring of money-laundering risk through trust schemes.
+- **Pension-entrustment-fee compression**: pressure on pension-entrustment fees accompanying the decline in management yields under the low-interest-rate environment
+- **Real-estate-market dependence**: domestic real-estate prices / REIT-market volatility affecting real-estate-trust / brokerage revenue
+- **Intra-FG parent-subsidiary listing governance is not applicable** (because Mizuho Trust is a 100% subsidiary). However, the effectiveness of the One Mizuho strategy across the FG as a whole remains an ongoing issue
+- **TCFD / sustainability**: climate-related risk disclosure in pension management / real-estate investment
+- **Recovery of DX investment**: monetization of large-scale investment in the digitization of trust administration
+- **Accountability of personal trusts**: compliance with the duty of explanation / suitability principle for products aimed at elderly clients, such as testamentary trusts / family trusts
+- **Money laundering (AML)**: ongoing monitoring of money-laundering risk using trust schemes
 
 ## Related
 
-- [[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking]] ? parent entry
-- [[megabanks/mizuho-fg|Mizuho FG]] ? parent group
-- [[megabanks/mizuho-bank|Mizuho Bank]] ? commercial-bank sister inside the FG
-- [[securities-firms/mizuho-securities|Mizuho Securities]] ? securities sister inside the FG
-- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3  major trust-bank competitor
-- [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] — 3  major trust-bank competitor
-- [[trust-banks/smbc-trust-bank|SMBC信託銀行]] — SMFG-line trust bank, smaller scale
+- [[trust-banks/mizuho-trust-bank|みずほ信託銀行]] — parent entry
+- [[megabanks/mizuho-fg|みずほFG]] — parent group
+- [[megabanks/mizuho-bank|みずほ銀行]] — intra-FG commercial-banking sister
+- [[securities-firms/mizuho-securities|みずほ証券]] — intra-FG securities sister
+- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3  major-trust competitor
+- [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] — 3  major-trust competitor
+- [[trust-banks/smbc-trust-bank|SMBC信託銀行]] — SMFG-lineage trust (small scale)
 - [[trust-banks/INDEX|trust-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources
 
 - Mizuho Trust & Banking official company information: https://www.mizuho-tb.co.jp/company/about/
-- Mizuho Trust & Banking official detailed company profile: https://www.mizuho-tb.co.jp/company/about/info.html
+- Mizuho Trust & Banking official company-overview details: https://www.mizuho-tb.co.jp/company/about/info.html
 - EDINET disclosure-document search: https://disclosure2.edinet-fsa.go.jp/
 - FSA licensed / registered banks: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
-- Mizuho FG integrated report, trust-bank segment disclosures.
-- Trust Companies Association of Japan official materials.
+- Mizuho FG integrated report (trust-bank segment disclosure portion)
+- Trust Companies Association of Japan official

@@ -1,13 +1,14 @@
 ---
 source: regional-banks/yamaguchi-fg
-source_hash: 7ee0304573e68963
+source_hash: 9db23633a6c2b149
 lang: en
 status: machine
 fidelity: ok
-title: "Yamaguchi Financial Group (YMFG)"
-translated_at: 2026-06-01T02:31:57.173Z
+title: "山口 FG (YMFG)"
+translated_at: 2026-06-19T12:43:19.986Z
 ---
-# Yamaguchi Financial Group (YMFG)
+
+# 山口 FG (YMFG)
 
 ## Wiki route
 
@@ -15,108 +16,108 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-YMFG is a wide-area regional banking group with a footprint in western Chugoku and Kitakyushu. It was formed when Yamaguchi Bank became a holding company through a sole share transfer in 2006-10-02, and later added [[regional-banks/momiji-bank|もみじ銀行]] and [[regional-banks/kitakyushu-bank|北九州銀行]] to create the **3 行-bank structure** of Yamaguchi Bank / Momiji Bank / Kitakyushu Bank, an unusual structure for a single-bank-origin regional FG. It represents a wide-area alliance across the Sanyo / Kanmon Strait economy (Yamaguchi + Hiroshima + Kitakyushu) plus an extra-regional cooperation axis with Yokohama Bank (Concordia) 2 . It is a representative model of cross-prefecture regional-bank integration and a "3 行 3  brand" structure.
+A wide-area regional bank group based in the western Chugoku region + Kitakyushu. 2006-10-02 Yamaguchi Bank became a holding company through a sole share transfer and was launched, later adding [[regional-banks/momiji-bank|もみじ銀行]] and [[regional-banks/kitakyushu-bank|北九州銀行]] to form a **3 行 structure** (Yamaguchi Bank / Momiji Bank / Kitakyushu Bank), an unusual structure for a standalone regional-bank FG. **Its 2  axis is a wide-area alliance of the Sanyo / Kanmon Strait economic zone (Yamaguchi + Hiroshima + Kitakyushu) + an out-of-region cooperation tie-up with Bank of Yokohama (Concordia)**. It is a representative example of cross-prefecture regional-bank consolidation and the "3 行 3  brand" model.
 
-## 1. Company overview
+## 1. Company profile
 
-**Official name**: Yamaguchi Financial Group, Inc.
+**Legal name**: 株式会社山口フィナンシャルグループ
 **English name**: Yamaguchi Financial Group, Inc.
-**Securities code**: TSE PRIME 8418 / Fukuoka Stock Exchange 8418
+**Securities code**: TSE PRIME 8418 / Fukuoka SE 8418
 **Established**: 2006-10-02 (Yamaguchi Bank became a holding company through a sole share transfer)
-**Headquarters**: 4-2-36  Takezaki-cho, Shimonoseki, Yamaguchi Prefecture / Sakae, Naka-ku, Nagoya, with bases in Tokyo, Osaka, and Nagoya
+**Head office**: 4-2-36  Takezaki-cho, Shimonoseki City, Yamaguchi Prefecture / Sakae, Naka-ku, Nagoya City (bases in Tokyo, Osaka, and Nagoya)
 
-### Major subsidiaries and holdings
+### Main subsidiaries / equity holdings
 
 ```
 YMFG (holding company, listed 8418)
-  ├── Yamaguchi Bank (100%) -- Yamaguchi Prefecture footprint, group origin, head office in Shimonoseki
-  │     └── Dominant share in Yamaguchi Prefecture, with stores also in Kanmon and northern Fukuoka
-  ├── Momiji Bank (100%) -- [[regional-banks/momiji-bank]] / Hiroshima Prefecture footprint, joined Yamaguchi Bank lineage in 2001  -> joined FG in 2006 
-  │     └── Second regional bank created by the merger of former Hiroshima Sogo Bank and Setouchi Bank
-  ├── Kitakyushu Bank (100%) -- [[regional-banks/kitakyushu-bank]] / established in 2011-10 , Kitakyushu-city footprint (spun out from Yamaguchi Bank's Kitakyushu branches)
+  ├── Yamaguchi Bank (100%) ── Yamaguchi Prefecture base, group parent body, head office in Shimonoseki
+  │     └── Overwhelming share within Yamaguchi Prefecture, branches also in Kanmon / northern Fukuoka
+  ├── Momiji Bank (100%) ── [[regional-banks/momiji-bank]] / Hiroshima Prefecture base, 2001  joined the Yamaguchi Bank group → 2006  joined the FG
+  │     └── A second-regional bank from the consolidation of the former Hiroshima Sogo Bank + Setouchi Bank
+  ├── Kitakyushu Bank (100%) ── [[regional-banks/kitakyushu-bank]] / established 2011-10 , Kitakyushu City base (spun off from Yamaguchi Bank's Kitakyushu branch)
   │     └── Operates in the Kitakyushu area of Fukuoka Prefecture under an independent brand
-  ├── YM Career (100%) -- personnel placement and dispatch
-  ├── YM Securities (100%) -- group securities company (history of dissolving JV with [[regional-banks/saikyo-bank|西京銀行]])
-  └── Data / service subsidiaries, etc.
+  ├── Y・M Career (100%) ── personnel placement / dispatch
+  ├── Y・M Securities (100%) ── group securities (has a history of dissolving a joint venture with [[regional-banks/saikyo-bank|西京銀行]])
+  └── data / service subsidiaries, etc.
 ```
 
-### Merger history and predecessors
+### Merger history / predecessors
 
-- Former **Yamaguchi Bank**: founded in 1944 . Its predecessors include the former Yamaguchi Mujin and Oshima Bank lineages, formed through wartime consolidation of banks within the prefecture; headquartered in Shimonoseki and operating across Yamaguchi Prefecture
-- Former **Hiroshima Sogo Bank**: former Hiroshima Sogo Bank / mutual-bank lineage; converted to ordinary bank and operated as a second regional bank in Hiroshima Prefecture
-- Former **Setouchi Bank**: former Kure mutual-bank lineage, with a Setouchi coastal footprint
-- **Momiji Bank**: formed in 2001  through the merger of Hiroshima Sogo Bank and Setouchi Bank, then received management support from and entered the Yamaguchi Bank lineage
-- **Kitakyushu Bank**: created in 2011-10  by separating Yamaguchi Bank's Kitakyushu branches through a new split; at the time it was the first new regional bank in 47  years
+- Former **Yamaguchi Bank**: established 1944 . Its predecessor was formed through the consolidation of the former Yamaguchi Mujin / Oshima Bank, etc., established through the wartime-controlled consolidation of prefectural banks. Headquartered in Shimonoseki, it expanded across the whole of Yamaguchi Prefecture
+- Former **Hiroshima Sogo Bank**: after the former Hiroshima Mutual Bank (mujin lineage) converted to an ordinary bank, it was based in Hiroshima Prefecture as a second-regional bank
+- Former **Setouchi Bank**: of the former Kure Mutual Bank lineage, a second-regional bank based on the Seto Inland Sea coast
+- **Momiji Bank**: 2001  merger of Hiroshima Sogo Bank + Setouchi Bank → Yamaguchi Bank provided management support and brought it into its group
+- **Kitakyushu Bank**: born in 2011-10  by spinning off Yamaguchi Bank's Kitakyushu branch via an incorporation-type split (the first new regional bank in 47  years at the time)
 
-> Integration background: population decline and low-rate margin pressure among regional banks in western Chugoku drove a cross-prefecture wide-area alliance strategy. By combining support for Hiroshima's second regional bank (Momiji Bank) with an independent-brand expansion into the Kitakyushu district of Fukuoka Prefecture (Kitakyushu Bank), the group built a rare "3 行 3  brand" structure for a single-bank-origin regional FG.
+> Consolidation background: population decline of regional banks in the western Chugoku region and low-interest-rate margin pressure → a wide-area alliance strategy crossing prefectural borders. By combining the rescue of a Hiroshima second-regional bank (Momiji Bank) with entry into the Kitakyushu area of Fukuoka Prefecture under its own brand (Kitakyushu Bank), it built the "3 行 3  brand" structure that has no precedent among standalone regional-bank FGs.
 
-### Key timeline
+### Key chronology
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1944 | Yamaguchi Bank founded (prefecture-wide bank consolidation) |
-| 2001 | Momiji Bank launched (Hiroshima Sogo Bank + Setouchi Bank) -> entered Yamaguchi Bank lineage |
-| **2006-10-02** | **Yamaguchi FG established** (Yamaguchi Bank became a holding company through a sole share transfer and made Momiji Bank a wholly owned subsidiary) |
-| **2011-10-03** | **Kitakyushu Bank established** (Yamaguchi Bank's Kitakyushu branches separated into an independent bank, the first new regional bank in 47  years) |
-| 2021 | **Business-cooperation alliance with Yokohama Bank (Concordia FG)** (extra-regional alliance) |
+| 1944 | Yamaguchi Bank established (consolidation of prefectural banks)|
+| 2001 | Momiji Bank launched (Hiroshima Sogo Bank + Setouchi Bank) → joined the Yamaguchi Bank group |
+| **2006-10-02** | **Yamaguchi FG established** (Yamaguchi Bank became a holding company through a sole share transfer, making Momiji Bank a wholly owned subsidiary)|
+| **2011-10-03** | **Kitakyushu Bank established** (spun off Yamaguchi Bank's Kitakyushu branch, the first new regional bank in 47  years)|
+| 2021 | **Business-cooperation tie-up with Bank of Yokohama (Concordia FG)** (out-of-region linkage)|
 | 2024 | Medium-term management plan formulated |
 
 ## 2. Business segment map
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
-| Core footprint (Yamaguchi) | Yamaguchi Bank | Dominant share in Yamaguchi Prefecture, also operating in Kanmon and northern Fukuoka |
-| Footprint (Hiroshima) | [[regional-banks/momiji-bank|もみじ銀行]] | Second-regional-bank position in Hiroshima Prefecture, Setouchi coast |
-| Footprint (Kitakyushu) | [[regional-banks/kitakyushu-bank|北九州銀行]] | Independent brand in the Kitakyushu district of Fukuoka Prefecture, newly established in 2011  |
-| Securities | YM Securities | Group securities company |
-| Human resources | YM Career | Personnel placement and dispatch |
-| Extra-regional cooperation | Yokohama Bank (Concordia) | Business-cooperation alliance from 2021 onward |
+| Core base (Yamaguchi)| Yamaguchi Bank | Overwhelming share within Yamaguchi Prefecture, also expanding into Kanmon / northern Fukuoka |
+| Base (Hiroshima)| [[regional-banks/momiji-bank|もみじ銀行]] | Second-regional-bank position in Hiroshima Prefecture, Seto Inland Sea coast |
+| Base (Kitakyushu)| [[regional-banks/kitakyushu-bank|北九州銀行]] | Independent brand in the Kitakyushu area of Fukuoka Prefecture, newly established 2011  |
+| Securities | Y・M Securities | Group securities |
+| Personnel | Y・M Career | Personnel placement / dispatch |
+| Out-of-region cooperation | Bank of Yokohama (Concordia)| 2021~ business-cooperation tie-up |
 
 ### "YMFG ZONE Planning" 3 行 structure
 
-- Maintains the **3  parallel brands** of Yamaguchi Bank, Momiji Bank, and Kitakyushu Bank. The strategy is to preserve customer-contact brands for each region rather than consolidate everything through merger
-- A representative example of cross-prefecture regional-bank integration; in Fukuoka Prefecture it competes regionally with [[regional-banks/fukuoka-fg]] ([[regional-banks/fukuoka-bank|福岡銀行]], [[regional-banks/kumamoto-bank|熊本銀行]], [[regional-banks/18-shinwa-bank|十八親和銀行]], and Minna Bank)
-- Holding 3 行 under 1  single FG is unusual compared with other regional FGs, many of which have a 2 行 structure or a single-prefecture structure
+- Maintains the **parallel 3  brands** of Yamaguchi Bank / Momiji Bank / Kitakyushu Bank. A strategy of keeping a customer-touchpoint brand for each region rather than merging and consolidating them
+- A representative example of cross-prefecture regional-bank consolidation; within Fukuoka Prefecture, it is in a regionally competitive relationship with [[regional-banks/fukuoka-fg]] ([[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]・Minna no Bank)
+- The structure in which 1  FG single-handedly holds 3 行 is unusual compared with other regional-bank FGs (most of which have a 2 行 structure or are standalone within a prefecture)
 
-### Sanyo / Kanmon Strait economy
+### Sanyo / Kanmon Strait economic zone
 
-- Geographic strategy that treats Yamaguchi Prefecture (Shimonoseki) + Hiroshima Prefecture + Kitakyushu, Fukuoka Prefecture as one 1  economic zone
-- Positions Shimonoseki and Kitakyushu across the Kanmon Strait as one economic zone, with headquarters in Shimonoseki and expansion into Fukuoka Prefecture under the Kitakyushu brand
-- A unique position with bridgeheads on both sides of the Chugoku / Kyushu boundary area
+- A geographic strategy that treats Yamaguchi Prefecture (Shimonoseki) + Hiroshima Prefecture + Kitakyushu in Fukuoka Prefecture as 1  economic zone(s)
+- Positions Shimonoseki / Kitakyushu, which face each other across the Kanmon Strait, as the "same economic zone," and while keeping its head office in Shimonoseki, enters Fukuoka Prefecture under the Kitakyushu brand
+- A unique position with bridgeheads on both sides in the boundary area of Chugoku / Kyushu
 
-### Business-cooperation alliance with Yokohama Bank (Concordia FG) (2021 onward)
+### Business-cooperation tie-up with Bank of Yokohama (Concordia FG) (2021~)
 
-- A representative extra-regional alliance. Instead of a management integration, the regional banks keep the arrangement at **business cooperation**, maintaining independence while collaborating through corporate-client referrals, ATM mutual access, and similar measures
-- Presents a "survive through partnership without merger" model as an option in regional-bank consolidation
+- A representative example of out-of-region linkage. Between regional banks, it stops at **"business cooperation"** rather than management integration, and while maintaining each other's independence, links up through corporate-transaction referrals and mutual ATM opening, etc.
+- As an option for regional-bank realignment, it presents a model of "surviving through a tie-up without merging"
 
 ### B2C branding
 
-- The 3  brands "Yamaguchi Bank," "Momiji Bank," and "Kitakyushu Bank" each use a direct region-name + bank identity
-- The core strategy is not a unified group brand, but maintenance of 3 行 3  brands
+- "Yamaguchi Bank," "Momiji Bank," and "Kitakyushu Bank" 3  brands are each a straightforward locally rooted form of region name + bank
+- The core of the strategy is not a group-unified brand but maintaining 3 行 3  brands
 
-## 4. Regulation and policy
+## 4. Regulation / policy
 
-- **Main authorities**: FSA / Chugoku Local Finance Bureau
+- **Supervisor**: Financial Services Agency (FSA) / Chugoku Local Finance Bureau
 - **Regional-bank regulation**: Banking Act
-- **Regional-bank consolidation debate**: subject to FSA policies encouraging regional-bank consolidation (2017 onward), although YMFG is already integrated and keeps some distance from the 4  megabank concept and SBI-related regional-bank ideas
+- **Regional-bank realignment debate**: a target of the FSA's regional-bank realignment-inducement policy (2017~), but YMFG has already consolidated and keeps its distance from the 4 -mega concept (the SBI camp), etc.
 - **Recent policy topics**:
-  - 2024 onward: Bank of Japan policy-rate normalization -> improvement bonus for regional-bank lending margins, also expected to benefit YMFG
-  - Local population decline -> continued cross-prefecture wide-area alliance strategy
-  - 2021 onward: extra-regional cooperation alliance with Yokohama Bank -> possible spread of similar models
+  - 2024~ BOJ policy-rate normalization → bonus to regional banks' lending margins (YMFG is also assumed to benefit)
+  - Regional population decline → continuation of the cross-prefecture wide-area alliance strategy
+  - 2021~ out-of-region cooperation tie-up with Bank of Yokohama → spread of the same-type model
 
 ## Related
 
-- [[regional-banks/fukuoka-fg]] ? [[megabanks/mufg]] ? [[megabanks/smfg]] ? [[megabanks/mizuho-fg]] ? [[megabanks/resona-hd]]
-- Chugoku-region regional banks: Hiroshima Bank (Hirogin HD) ? Chugoku Bank ? [[regional-banks/saikyo-bank|西京銀行]]
-- Regional-bank consolidation / extra-regional alliances: Yokohama Bank (Concordia FG)
+- [[regional-banks/fukuoka-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]]
+- Chugoku-region regional banks: Hiroshima Bank (Hirogin HD) · Chugoku Bank · [[regional-banks/saikyo-bank|西京銀行]]
+- Regional-bank realignment / out-of-region linkage: Bank of Yokohama (Concordia FG)
 
 ## Sources
 
-- **Wikipedia: Yamaguchi Financial Group** (https://ja.wikipedia.org/wiki/山口フィナンシャルグループ, extracted 2026-05-19)
-- **Wikipedia: Yamaguchi Bank / Momiji Bank / Kitakyushu Bank** (individual articles, extracted 2026-05-19)
-- YMFG official IR (corporate profile and history)
+- **Wikipedia: 山口フィナンシャルグループ** (https://ja.wikipedia.org/wiki/山口フィナンシャルグループ, extracted 2026-05-19)
+- **Wikipedia: 山口銀行 / もみじ銀行 / 北九州銀行** (each individual article, extracted 2026-05-19)
+- YMFG official IR (corporate profile / history)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  Wikipedia check 2026-05-19). Basic information such as establishment date, subsidiary structure, and 3 行-bank structure is based on Wikipedia and official IR. Latest financial figures (total assets, net income) and medium-term-plan details should be checked in YMFG IR's latest annual securities report. The depth of the Yokohama Bank alliance and concrete Kitakyushu Bank share require separate tracking.
+> confidence: **likely** (cross-checked against v1.0  Wikipedia 2026-05-19). Basic information such as the establishment date / subsidiary composition / 3 行 structure is based on Wikipedia + official IR. The latest results figures (total assets, net income) and medium-term-plan details should be checked against YMFG IR's latest securities report. The depth of the tie-up with Bank of Yokohama and Kitakyushu Bank's specific share, etc., require separate tracking.

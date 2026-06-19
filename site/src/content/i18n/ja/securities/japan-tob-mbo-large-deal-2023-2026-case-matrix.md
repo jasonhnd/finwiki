@@ -1,194 +1,195 @@
 ---
 source: securities/japan-tob-mbo-large-deal-2023-2026-case-matrix
-source_hash: 875121ccd3edabe9
+source_hash: 15eebfef07626ea7
 lang: ja
 status: machine
 fidelity: ok
-title: "日本のTOB／MBO大型案件2023-2026 ケースマトリクス"
-translated_at: 2026-06-03T00:53:08.260Z
+title: "日本 TOB / MBO 大型案件 2023-2026 ケースマトリクス"
+translated_at: 2026-06-19T12:43:19.917Z
 ---
-# 日本のTOB／MBO大型案件2023-2026 ケースマトリクス
 
-## 要約
+# 日本 TOB / MBO 大型案件 2023-2026 ケースマトリクス
 
-2023 から2026 にかけて、複数の大型日本TOB／MBO取引（各案件の取引価値は¥100bn超、数件は¥1tn超）が相次ぎ、[[finance/japan-tender-offer-process|Japan tender offer process]]と[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]の下での上場対象会社に関する**公正M&Aプロセス期待**を再価格付けした。このマトリクスは、主要案件、すなわちToshiba / JIP（2023, 約¥2tn）、Outsourcing / Bain（2024）、Sapporo Holdings（3D／アクティビスト主導）、Asahi Intec（特殊状況）、Yodogawa Steel、Tokio Marine子会社対応、Itochu / Descenteフォローオン、Daiichi Sankyo Espha関連再編を収集し、対象会社、買収者、取引価値、プレミアム、公開買付の仕組み、防衛対応、METI Fair M&A Guidelinesとの整合性、JFTC審査経路、特別委員会の役割、結果ごとに比較する。[[finance/japan-takeover-defense-poison-pill|takeover defense]]分析と[[finance/japan-acquisition-finance|acquisition finance]]の規模把握のための、公開情報ベースの大型案件参照棚として使う。
+## TL;DR
 
-## ウィキ上の位置づけ
+2023 年から 2026 年にかけて、一連の大型日本 TOB / MBO 取引（各案件の取引額は ¥100十億超、いくつかは ¥1兆超）が、[[finance/japan-tender-offer-process|Japan tender offer process]] および [[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]] の下にある上場対象会社に対する **公正な M&A プロセスの期待**を再設定した。本マトリクスは主要なケースを収集する——東芝 / JIP（2023, 、約 ¥2兆）、アウトソーシング / ベイン（2024）、サッポロホールディングス（3D / アクティビスト主導）、朝日インテック（スペシャルシチュエーション）、淀川製鋼所、東京海上の子会社アクション、伊藤忠 / デサント追加ラウンド、第一三共エスファ関連の再編——そしてこれらを対象会社、買収者、取引額、プレミアム、オファー方式、防衛対応、経済産業省「公正な M&A 指針」との整合性、JFTC 審査経路、特別委員会の役割、結果によって比較する。[[finance/japan-takeover-defense-poison-pill|takeover defense]] の分析および [[finance/japan-acquisition-finance|acquisition finance]] のサイジングのための公開情報ベースの大型案件リファレンス棚として使用すること。
 
-このページは、[[securities/INDEX|securities index]]配下の2023-2026 大型TOB／MBO案件比較サーフェスである。証券のピアページは、[[securities/japan-ipo-listing-disclosure-route|IPO listing disclosure route]]（TOB結果 ↔ 取引後再IPOオプション）、[[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro|Kioxia / Tokyo Metro IPO case]]、[[securities/japan-margin-trading-and-securities-finance|margin trading]]。プロセスの足場は[[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]、[[finance/japan-takeover-defense-poison-pill|Japan takeover defense / poison pill]]、[[finance/japan-large-shareholding-disclosure|Japan large shareholding disclosure]]。プロセス比較は[[finance/japan-m-a-deal-process-comparison-matrix|Japan M&A deal process comparison matrix]]。アクティビスト文脈は[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/japan-shareholder-proposal-and-agm-voting-route|Japan shareholder proposal AGM voting route]]。資金調達文脈は[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure matrix]]、[[finance/japan-private-equity-operating-model|Japan PE operating model]]。JFTC／独禁法は[[finance/jftc-merger-control-process|JFTC merger control process]]。戦略的再編の概観は[[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed corp strategic restructuring matrix]]。クロスボーダーM&A文脈は[[finance/cross-border-m-a-japan|cross-border M&A Japan]]。
+## Wiki route
 
-## 2023-2026 大型案件マトリクスが重要な理由
+本ページは、2023-2026 大型案件 TOB / MBO ケース比較サーフェスとして [[securities/INDEX|securities index]] の下に位置する。ピア証券ページ：[[securities/japan-ipo-listing-disclosure-route|IPO listing disclosure route]]（TOB の結果 ↔ 取引後の再 IPO オプション）、[[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro|Kioxia / Tokyo Metro IPO case]]、[[securities/japan-margin-trading-and-securities-finance|margin trading]]。プロセスの足場：[[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]、[[finance/japan-takeover-defense-poison-pill|Japan takeover defense / poison pill]]、[[finance/japan-large-shareholding-disclosure|Japan large shareholding disclosure]]。プロセス比較：[[finance/japan-m-a-deal-process-comparison-matrix|Japan M&A deal process comparison matrix]]。アクティビスト文脈：[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/japan-shareholder-proposal-and-agm-voting-route|Japan shareholder proposal AGM voting route]]。ファイナンス文脈：[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure matrix]]、[[finance/japan-private-equity-operating-model|Japan PE operating model]]。JFTC / 独禁：[[finance/jftc-merger-control-process|JFTC merger control process]]。戦略的再編の概観：[[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed corp strategic restructuring matrix]]。クロスボーダー M&A 文脈：[[finance/cross-border-m-a-japan|cross-border M&A Japan]]。
 
-3つの構造変化により、2023-2026 は横並び比較に値する独立したコホートになっている。
+## なぜ 2023-2026 大型案件マトリクスが重要なのか
 
-1. **METI Fair M&A Guidelines（2019 以降 + 2023 改訂）がコホート全体に定着した。** 公正プロセス期待、すなわち特別委員会、フェアネスオピニオン、マーケットチェック、MoM（majority-of-minority）考慮は、この期間に「望ましい実務」からベースライン期待へ移った。このコホートは、各案件がそれらの期待にどう対応したかを示す。
-2. **日本でアクティビスト圧力が強まった。** 複数の著名な[[finance/japan-activist-investor-playbook|activist]]キャンペーンがTOB結果を引き起こし、または形づくった。Sapporo Holdings（3D）、Outsourcing（公開買付前のアクティビスト圧力）、その他案件にはアクティビスト先行要因が明確に見える。
-3. **PEの大規模入札能力が成熟した。** Bain Capital、JIP、KKR、Carlyle、その他PEスポンサーは、2023-2026に日本TOB／MBO取引へ数兆円規模の資金を投じた。このコホートは、大規模[[finance/japan-acquisition-finance|acquisition finance]]の運用上のベンチマークを記録する。
+三つの構造的シフトが、2023-2026 を横並びで比較する価値のある独立したコホートにしている：
 
-## 対象案件
+1. **経済産業省「公正な M&A 指針」（2019 ＋ 2023 改訂）がコホート全体に定着した。** 公正なプロセスの期待——特別委員会、フェアネス・オピニオン、マーケットチェック、MoM（マジョリティ・オブ・マイノリティ）の考慮——は、この期間を通じて「ベストプラクティス」から基準的な期待へと移行した。本コホートは、各案件がそれらの期待に対してどのように対応したかを明らかにする。
+2. **日本でアクティビストの圧力が強まった。** 複数の注目度の高い [[finance/japan-activist-investor-playbook|activist]] キャンペーンが TOB の結果を引き起こし、あるいは形作った。サッポロホールディングス（3D）、アウトソーシング（公開買付前のアクティビスト圧力）、その他のケースは、目に見えるアクティビストの前兆を伴っている。
+3. **PE の大規模入札能力が成熟した。** ベインキャピタル、JIP、KKR、カーライル、その他の PE スポンサーが、2023-2026に数兆円規模のキャパシティを日本の TOB / MBO 取引に投入した。本コホートは、大規模での [[finance/japan-acquisition-finance|acquisition finance]] の運用上のベンチマークを記録している。
 
-このマトリクスは、取引価値¥100bn超の大型案件として、2023-2026 における公開TOB／MBO取引のうち、公開情報によるプロセス開示がある案件を含む。
+## 対象範囲のケース
 
-- **Toshiba ← Japan Industrial Partners（JIP）（2023）**。国内PE主導TOBとスクイーズアウトにより上場廃止（約¥2tn）。[[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]]参照。
-- **Outsourcing Inc. ← Bain Capital（2024）**。Bain CapitalによるOutsourcing Inc.への段階的TOB。修正公開買付の経緯と特別委員会プロセスが注目点（公開報道ベースで約¥390bnレンジ）。
-- **Sapporo Holdings — 3D Investment Partnersアクティビズム（進行中）**。Yebisu Beer Garden不動産カーブアウトと価値改革を求めるアクティビスト圧力。アクティビスト主導再編の参照案件。
-- **Itochu / Descenteフォローオンラウンド（2024）**。2019 のItochuによるDescente TOBは基礎的案件であり、2024 フォローオンラウンドでItochu持分がさらに増加。
-- **Asahi Intec ←（特殊状況TOBシナリオ）**。医療機器業界の支配権取引分析の参照として含める。
-- **Tokio Marine HD子会社対応**。公開買付メカニクスが適用された[[non-life-insurers/tokio-marine-nichido|TMNF]]内部子会社再配置を含む。
-- **Yodogawa Steel — 支配権取引参照**。鉄鋼業界の支配権取引事例として参照。
-- **Daiichi Sankyo Espha関連再編**。少数株主スクイーズアウトのために公開買付メカニクスが適用された医薬品子会社再編事例。
+本マトリクスは、2023-2026 における大型案件（取引額 ¥100十億超）の公開 TOB / MBO 取引のうち、公開情報によるプロセス開示があるものを含む：
 
-このセットは完了状況が混在する。完了・決済済みの案件、進行中の案件、より広いコホートの参照案件が含まれる。マトリクスでは案件ごとのステータスを示す。
+- **東芝 ← 日本産業パートナーズ（JIP）（2023）** — 上場廃止に至った国内 PE 主導の TOB およびスクイーズアウト（約 ¥2兆）。[[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]] を参照。
+- **アウトソーシング ← ベインキャピタル（2024）** — ベインキャピタルによるアウトソーシングに対する段階的 TOB。本ケースには注目すべき修正オファーの経緯と特別委員会プロセスがある。（公開報道ベースで約 ¥390十億レンジ。）
+- **サッポロホールディングス — 3D インベストメント・パートナーズのアクティビズム（継続中）** — ヱビスビアガーデン不動産のカーブアウトと価値改革を求めるアクティビスト圧力；アクティビスト主導の再編のリファレンスケース。
+- **伊藤忠 / デサント追加ラウンド（2024）** — 伊藤忠による 2019 デサント TOB は基礎的なケースであり、2024 追加ラウンドが伊藤忠の持分をさらに増加させた。
+- **朝日インテック ←（スペシャルシチュエーション TOB シナリオ）** — 医療機器業界の支配権取引分析のリファレンスとして含める。
+- **東京海上 HD の子会社アクション** — 公開買付の仕組みが適用された [[non-life-insurers/tokio-marine-nichido|TMNF]] 内部子会社の再配置を含む。
+- **淀川製鋼所 — 支配権取引リファレンス** — 鉄鋼業界の支配権取引ケースとして参照。
+- **第一三共エスファ関連の再編** — 少数株主スクイーズアウトのために公開買付の仕組みが適用された医薬子会社再編ケースのリファレンス。
+
+このセットは完了状況が混在している：完了・決済済みの案件、まだ進行中の案件、より広範なコホートのためのリファレンスケースがある。本マトリクスはケースごとにステータスを示す。
 
 ## マスター比較マトリクス
 
-| 案件 | 対象会社（ティッカー／市場） | 買収者 | 取引価値 | プレミアム% | 公開買付の仕組み | 防衛対応 | METI Fair M&A整合性 | JFTC審査 | 特別委員会の役割 | 結果 |
+| ケース | 対象会社（ティッカー / 市場）| 買収者 | 取引額 | プレミアム % | オファー方式 | 防衛対応 | 経産省「公正な M&A」整合性 | JFTC 審査 | 特別委員会の役割 | 結果 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Toshiba ← JIP** | Toshiba（6502, TSE Prime） | **JIP主導の国内PEコンソーシアム**（[[JapanFG/orix|ORIX]]、Chubu Electric Power、CDPQ連動LPなどを含む） | 約¥2tn | プロセス前市場価格比で約10-12% | [[finance/japan-tender-offer-process|TOB]]の後、株式併合による[[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] | なし（戦略検討委員会後の協調プロセス） | 完全整合。複数年の戦略検討委員会、MoM考慮、フェアネスオピニオン | JFTC Phase Iでクリア（Phase IIなし） | 独立特別委員会がプロセスを中心的に主導 | **成立。TOBとスクイーズアウト完了、2024-Q1に上場廃止** |
-| **Outsourcing Inc. ← Bain Capital** | Outsourcing Inc.（2427, TSE Prime） | Bain Capital | 約¥390bnレンジ | 修正後プレミアム（初回入札批判後に引上げ） | 修正公開買付履歴を伴うTOB | なし。少数株主／市場圧力が価格修正を促した | 混合的。初回価格は少数株主批判を受け、修正公開買付が対応 | JFTC Phase Iでクリア | 特別委員会が活動し、修正公開買付をレビュー | **成立。修正公開買付後に完了** |
-| **Sapporo HD — 3D Investment Partners圧力** | Sapporo Holdings（2501, TSE Prime） | **アクティビスト（3D Investment Partners）**。買収者ではなく、不動産カーブアウトを求める圧力 | 該当なし（買収ではなくアクティビスト圧力） | 該当なし | 該当なし。アクティビスト提案／エンゲージメント | 防衛対応はエンゲージメントと代替計画提示を含む | [[finance/japan-activist-investor-playbook|playbook]]下のアクティビスト案件 | 該当なし | 取締役会／特別委員会とのアクティビスト・エンゲージメント | **進行中／未決**。価値改革を交渉中 |
-| **Itochu / Descente** | Descente（8114, TSE Prime、後に上場廃止） | Itochu Corporation | 2019 初回TOBは追加持分に対し約¥21bn。2024 フォローオンラウンドでItochu持分をさらに引上げ | 2019: 約50%プレミアム（日本における重要な敵対的公開買付の先例） | TOB | 2019: 対象会社取締役会は当初反対 | 2019 案件はFair Guideline厳格化前。2024 フォローオンラウンドは現行ガイドラインに準拠 | JFTCクリア | 2024 フォローオンラウンドで特別委員会 | **成立。Itochuが過半取得し、その後統合** |
-| **Asahi Intec（参照）** | Asahi Intec（7747, TSE Prime） | 業界支配権取引分析の参照案件 | 参照 | 参照 | 参照TOB構造 | 該当なし | 現行Fair Guideline対象 | JFTC審査経路 | 標準的な特別委員会 | 参照案件 |
-| **Tokio Marine HD子会社対応** | 各種TMNF／子会社事業体 | Tokio Marine HD親会社 | 複数の¥100bn超子会社再配置 | 可変 | 子会社少数株主に対するTOB／公開買付 | 該当なし（親子会社） | 強い整合性。親子会社支配権取引はFair Guidelines下で最も厳しく精査される | 該当なし（同一企業グループ） | 親子会社公開買付には独立特別委員会が必要 | 段階的に完了 |
-| **Yodogawa Steel（参照）** | Yodogawa Steel（5451, TSE Prime） | 参照 | 参照 | 参照 | TOB | 参照 | 現行ガイドライン対象 | JFTC経路 | 特別委員会 | 参照案件 |
-| **Daiichi Sankyo Espha** | Daiichi Sankyo Espha（子会社） | Daiichi Sankyo親会社による再編 | 子会社スクイーズアウト規模 | 現行実務に基づくスクイーズアウト・プレミアム | 親会社主導公開買付 + スクイーズアウト | 該当なし | 親子会社支配権取引。Fair Guideline適用 | 該当なし | 必須 | 親子会社統合完了 |
+| **東芝 ← JIP** | 東芝（6502, 東証プライム）| **JIP 主導の国内 PE コンソーシアム**（[[JapanFG/orix|ORIX]]、中部電力、CDPQ 連携 LP 等を含む）| 約 ¥2兆 | プロセス前の市場価格に対して約 10-12% | [[finance/japan-tender-offer-process|TOB]] ののち株式併合による [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] | なし（戦略レビュー委員会後の協調的プロセス）| 完全整合 — 複数年にわたる戦略レビュー委員会、MoM の考慮、フェアネス・オピニオン | JFTC フェーズ I クリア（フェーズ II なし）| 独立特別委員会がプロセスを中心的に推進 | **成功 — TOB およびスクイーズアウト完了；上場廃止 2024-Q1** |
+| **アウトソーシング ← ベインキャピタル** | アウトソーシング（2427, 東証プライム）| ベインキャピタル | 約 ¥390十億レンジ | 修正プレミアム（当初入札への批判を受けて引き上げ）| 修正オファー経緯のある TOB | なし — 少数株主 / 市場の圧力が価格修正を強いた | 混在 — 当初価格が少数株主の批判を招いた；修正オファーで対応 | JFTC フェーズ I クリア | 特別委員会が活動；修正オファーをレビュー | **成功 — 修正オファー後に完了** |
+| **サッポロ HD — 3D インベストメント・パートナーズの圧力** | サッポロホールディングス（2501, 東証プライム）| **アクティビスト（3D インベストメント・パートナーズ）** — 買収者ではなく、不動産カーブアウトを求める圧力 | 該当なし（アクティビスト圧力であり、買収ではない）| 該当なし | 該当なし — アクティビストの提案 / エンゲージメント | 防衛対応にはエンゲージメント、代替案の提示を含む | [[finance/japan-activist-investor-playbook|playbook]] の下のアクティビストケース | 該当なし | 取締役会 / 特別委員会とのアクティビスト・エンゲージメント | **継続中 / 保留中** — 価値改革を交渉中 |
+| **伊藤忠 / デサント** | デサント（8114, 東証プライム；後に上場廃止）| 伊藤忠商事 | 2019 当初 TOB は追加持分について約 ¥21十億；2024 追加ラウンドが伊藤忠の持分をさらに引き上げ | 2019：約 50% プレミアム（日本における注目すべき敵対的公開買付の前例）| TOB | 2019：対象会社の取締役会は当初反対 | 2019 ケースは公正指針の厳格化前；2024 追加ラウンドは現行指針に準拠 | JFTC クリア | 2024 追加ラウンドでは特別委員会 | **成功 — 伊藤忠の過半数取得とその後の連結化** |
+| **朝日インテック（リファレンス）** | 朝日インテック（7747, 東証プライム）| 業界支配権取引分析のリファレンスケース | リファレンス | リファレンス | リファレンス TOB ストラクチャー | 該当なし | 現行の公正指針の対象 | JFTC 審査トラック | 標準的な特別委員会 | リファレンスケース |
+| **東京海上 HD の子会社アクション** | 各種 TMNF / 子会社エンティティ | 東京海上 HD 親会社 | 複数の ¥100十億超の子会社再配置 | 可変 | 子会社少数株主向けの TOB / 公開買付 | 該当なし（親子）| 強い整合 — 親子間の支配権取引は公正指針の下で最も精査される | 該当なし（単一企業グループ）| 親子公開買付には独立特別委員会が必要 | 段階的に完了 |
+| **淀川製鋼所（リファレンス）** | 淀川製鋼所（5451, 東証プライム）| リファレンス | リファレンス | リファレンス | TOB | リファレンス | 現行指針の対象 | JFTC トラック | 特別委員会 | リファレンスケース |
+| **第一三共エスファ** | 第一三共エスファ（子会社）| 第一三共親会社の再編 | 子会社スクイーズアウト規模 | 現行慣行に基づくスクイーズアウト・プレミアム | 親会社主導の公開買付 + スクイーズアウト | 該当なし | 親子間の支配権 — 公正指針が適用 | 該当なし | 必要 | 親子統合完了 |
 
-上記の複数行は、比較の足場を作るために含めた参照案件である。最も深い公開資料を持つヘッドライン案件は、Toshiba / JIP、Outsourcing / Bain、Itochu / Descenteフォローオンである。
+上記のいくつかの行は、比較の足場を組むために含めたリファレンスケースである；ヘッドラインとなる案件の行は東芝 / JIP、アウトソーシング / ベイン、伊藤忠 / デサント追加ラウンドであり、これらが最も深い公開情報による文書化を伴っている。
 
-## 次元別の読み方
+## ディメンションの読み方
 
-### 対象会社の類型（親子会社対無関係PE／戦略買収）
+### 対象タイプ（親子 vs 無関係の PE / 戦略）
 
-| 対象会社類型 | マトリクス内の例 | 実務上の帰結 |
+| 対象タイプ | マトリクス内の例 | 実務上の帰結 |
 |---|---|---|
-| **親子会社公開買付** | Tokio Marine HD子会社対応、Daiichi Sankyo Espha、Itochu / Descente（Itochu過半取得後） | 特別委員会 + MoM考慮が必須。METI Fair Guideline上の精査が最も強い |
-| **無関係PEによる非公開化** | Toshiba / JIP、Outsourcing / Bain | 応募株主は現金化し、完全上場廃止へ進む。LBOファイナンスが必要 |
-| **戦略／クロスボーダー（外国買収者）** | 2023-2026 にまたがる参照セットには複数の外国戦略買収案件が含まれる | [[finance/cross-border-m-a-japan|Cross-border M&A]]の動態が適用され、外国投資届出が規制手続として追加される |
-| **アクティビスト主導再編（TOBなし）** | Sapporo HD / 3D | アクティビストは、TOBそのものなしに、カーブアウト、資本還元、戦略変更へ経営陣を圧迫する |
+| **親子公開買付** | 東京海上 HD の子会社アクション；第一三共エスファ；伊藤忠 / デサント（伊藤忠が過半数取得後）| 特別委員会 + MoM の考慮が不可欠 — 経産省公正指針の精査が最も高い |
+| **無関係の PE による非公開化** | 東芝 / JIP；アウトソーシング / ベイン | 応募株主は現金化する；完全な上場廃止が続く；LBO ファイナンスが必要 |
+| **戦略的 / クロスボーダー（外国の買収者）** | 2023-2026 にわたるリファレンスセットには複数の外国戦略ケースを含む | [[finance/cross-border-m-a-japan|Cross-border M&A]] のダイナミクスが適用される；対内投資の届出が規制上のステップを追加 |
+| **アクティビスト主導の再編（TOB なし）** | サッポロ HD / 3D | アクティビストは TOB そのものなしに、カーブアウト、資本還元、戦略変更へと経営陣に圧力をかける |
 
-### 公開買付の仕組み
+### オファー方式
 
-仕組みの選択は、取引の**意図**を示す。
+方式の選択は取引の **意図**を示す：
 
-- **TOB + 株式併合によるスクイーズアウト**。Toshiba / JIP。大規模非公開化の標準経路。
-- **TOB + 株式売渡請求によるスクイーズアウト**。買収者が90%以上を保有した場合の一般的なバリエーション。
-- **修正公開買付履歴を伴う公開買付**。Outsourcing / Bain。初回価格に対する市場／少数株主圧力を反映。
-- **アクティビスト・エンゲージメント（TOBなし）**。Sapporo / 3D。公開買付ではなく[[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]]とエンゲージメントを使う。
+- **TOB + 株式併合によるスクイーズアウト** — 東芝 / JIP。大規模での非公開化の標準的経路。
+- **TOB + 売渡請求（株式売渡請求）によるスクイーズアウト** — 買収者が 90%超を保有した時点での一般的なバリアント。
+- **修正オファー経緯のある公開買付** — アウトソーシング / ベイン。当初価格に対する市場 / 少数株主の圧力を反映。
+- **アクティビスト・エンゲージメント（TOB なし）** — サッポロ / 3D。公開買付ではなく [[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]] とエンゲージメントを用いる。
 
 ### 防衛対応
 
-- **防衛なし（協調プロセス）**。Toshiba（戦略検討プロセス後）、親子会社案件。
-- **価格修正による防衛**。Outsourcing / Bain（少数株主批判後の修正公開買付）。
-- **エンゲージメント／代替計画による防衛**。Sapporo（アクティビスト案件）。
-- **能動的防衛／[[finance/japan-takeover-defense-poison-pill|poison pill]]**。上記コホートの中心ではないが、敵対的公開買付シナリオでは買収防衛策枠組みが参照される。
+- **防衛なし（協調的プロセス）** — 東芝（戦略レビュープロセス後）；親子ケース。
+- **価格修正による防衛** — アウトソーシング / ベイン（少数株主の批判後の修正オファー）。
+- **エンゲージメント / 代替案による防衛** — サッポロ（アクティビストケース）。
+- **積極的防衛 / [[finance/japan-takeover-defense-poison-pill|poison pill]]** — 上記コホートの中心ではないが、買収防衛の枠組みは敵対的公開買付シナリオのリファレンスである。
 
-### METI Fair M&A Guidelineとの整合性
+### 経産省「公正な M&A」指針との整合性
 
-[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]はMETI Fair Guidelineの期待を文書化している。このコホートはおおむね整合している。
+[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]] は経産省公正指針の期待を文書化している。コホートは概ね整合している：
 
-- **完全整合**。Toshiba / JIP、Tokio Marine子会社対応。プロセスには独立特別委員会、フェアネスオピニオン、MoM考慮、該当する場合のマーケットチェック、詳細開示が含まれた。
-- **混合的整合**。Outsourcing / Bain。初回プロセスは価格面で批判され、修正公開買付により整合性が改善した。
-- **ガイドライン前の参照**。Itochu / Descente 2019 （完全なガイドライン厳格化前）。2024 フォローオンラウンドは現行ガイドラインに整合。
+- **完全整合** — 東芝 / JIP、東京海上の子会社アクション。プロセスには独立特別委員会、フェアネス・オピニオン、MoM の考慮、該当する場合のマーケットチェック、詳細な開示が含まれた。
+- **混在した整合** — アウトソーシング / ベイン：当初プロセスは価格について異議を唱えられた；修正オファーがそれを整合へと導いた。
+- **指針以前のリファレンス** — 伊藤忠 / デサント 2019 （完全な指針の厳格化に先行）；2024 追加ラウンドは現行指針に整合。
 
-### JFTC審査経路
+### JFTC 審査経路
 
-[[finance/jftc-merger-control-process|JFTC merger control process]]は、取引が届出閾値に達する場合に呼び出される。
+[[finance/jftc-merger-control-process|JFTC merger control process]] は、案件が届出基準を満たした場合に発動される：
 
-- **Phase Iクリア**。マトリクス内の多くの案件（Toshiba / JIP、Outsourcing / Bain）。Phase Iは標準的な30日審査期間である。
-- **Phase II**。上記マトリクスにはない。JFTCがより深い実体審査を必要とする場合、通常は水平統合懸念がある場合に発動される。
-- **該当なし**。同一グループ内の親子会社再配置。
+- **フェーズ I クリア** — マトリクス内の大半のケース（東芝 / JIP、アウトソーシング / ベイン）。フェーズ I はデフォルトの 30日審査ウィンドウ。
+- **フェーズ II** — 上記マトリクスにはなし；フェーズ II は JFTC がより深い実体的審査（通常は水平的合併の懸念）を要する場合に発動される。
+- **該当なし** — 同一グループ内の親子再配置。
 
 ### 特別委員会の役割
 
-すべての親子会社支配権取引と、すべての大規模MBO／PE主導公開買付では、METI Fair Guidelineの下で、2023-2026 に独立特別委員会が必要となる。このコホートは、それが普遍的実務になったことを確認している。特別委員会の成果物には通常、次が含まれる。
+あらゆる親子間の支配権取引、および大規模なあらゆる非公開化 MBO / PE 主導の公開買付 2023-2026 は、経産省公正指針の下で独立特別委員会を必要とする。本コホートはこれが普遍的な慣行であることを確認している。特別委員会のアウトプットには典型的に以下が含まれる：
 
-- 独立FAによるフェアネスオピニオン。
+- 独立したフェアネス・オピニオン（独立した FA から）。
 - マーケットチェックまたはマーケットテスト報告。
-- 価格交渉の記録。
-- 利益相反評価。
-- 取締役会への最終委員会勧告。
+- 価格交渉の交渉記録。
+- 利益相反の評価。
+- 取締役会への最終的な委員会勧告。
 
 ### 結果
 
-- **成立・完了**。Toshiba / JIP、Outsourcing / Bain（価格修正後）、Itochu / Descenteフォローオン、親子会社案件。
-- **未決／進行中**。Sapporo HD（アクティビスト・エンゲージメント進行中）。
-- **撤回／競合入札**。この2023-2026 マトリクスに含まれる規模では該当なし。日本の2024-2025 コホートでは、この>¥100bn範囲に含まれない非大型株セグメントで競合入札シナリオが一部あった。
+- **成功 — 完了** — 東芝 / JIP、アウトソーシング / ベイン（価格修正後）、伊藤忠 / デサント追加ラウンド、親子ケース。
+- **保留 / 進行中** — サッポロ HD（アクティビスト・エンゲージメント継続中）。
+- **撤回 / 対抗入札** — 含まれる規模における本 2023-2026 マトリクスにはなし；日本の 2024-2025 コホートには、本 >¥100十億の範囲外の非大型株セグメントにおいて、いくつかの対抗入札シナリオが含まれていた。
 
-## クラスター別の読み方
+## クラスターの読み方
 
-### クラスター1 : PE主導の大規模非公開化
+### クラスター 1 — 大規模な PE 主導の非公開化
 
-- **アンカー案件**: Toshiba / JIP。
-- **ピア案件**: Outsourcing / Bain。
-- **パターン**: [[finance/japan-acquisition-finance|Japan acquisition finance]]下の複数銀行LBOファイナンス、公正ガイドライン完全プロセス、スクイーズアウトと上場廃止。
-- **資本上の含意**: 複数LPを伴うPEコンソーシアム構造（戦略事業会社LP、ソブリンウェルス、信託銀行運用プールを含むことが多い）。[[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure matrix]]参照。
+- **アンカーケース**：東芝 / JIP。
+- **ピアケース**：アウトソーシング / ベイン。
+- **パターン**：[[finance/japan-acquisition-finance|Japan acquisition finance]] の下での複数行 LBO ファイナンス；完全な公正指針プロセス；スクイーズアウトと上場廃止。
+- **資本上の含意**：複数の LP（多くの場合、戦略的事業会社 LP、ソブリン・ウェルス、信託銀行運用プールを含む）を伴う PE コンソーシアム構造。[[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure matrix]] を参照。
 
-### クラスター2 : アクティビスト主導（公開買付なし、価値改革圧力）
+### クラスター 2 — アクティビスト主導（公開買付なし、価値改革の圧力）
 
-- **アンカー案件**: Sapporo HD ← 3D Investment Partners。
-- **パターン**: アクティビストが大きな少数持分を蓄積し、経営陣と対話し、[[finance/japan-shareholder-proposal-and-agm-voting-route|AGM voting route]]を通じて株主提案を提出し、不動産カーブアウト／資本還元／戦略変更を提案。
-- **結果の軌道**: 通常は合意された再編、部分カーブアウト、継続的エンゲージメントに落ち着く。この規模の日本案件で敵対的TOBまでエスカレートすることはまれである。
+- **アンカーケース**：サッポロ HD ← 3D インベストメント・パートナーズ。
+- **パターン**：アクティビストが大規模な少数持分を蓄積し、経営陣にエンゲージし、[[finance/japan-shareholder-proposal-and-agm-voting-route|AGM voting route]] を通じて株主提案を提出し、不動産カーブアウト / 資本還元 / 戦略変更を提案する。
+- **結果の軌跡**：通常、合意された再編、部分的カーブアウト、または持続的なエンゲージメントに落ち着く；日本ではこの規模で敵対的 TOB へとエスカレートすることは稀。
 
-### クラスター3 : 親子会社公開買付／スクイーズアウト
+### クラスター 3 — 親子公開買付 / スクイーズアウト
 
-- **アンカー案件**: Tokio Marine HD子会社対応、Daiichi Sankyo Espha型案件。
-- **パターン**: 親会社がすでに過半を保有し、少数株主に公開買付を行い、残余株主をスクイーズアウトし、完全子会社化する。
-- **プロセス強度**: 固有の利益相反があるため、Fair Guideline上の精査は最も強い。MoM考慮と独立特別委員会が必要。
+- **アンカーケース**：東京海上 HD の子会社アクション；第一三共エスファ型のケース。
+- **パターン**：親会社が既に過半数を保有；少数株主に対して公開買付；残りの株主をスクイーズアウト；完全子会社として連結化する。
+- **プロセスの強度**：本質的な利益相反ゆえに、公正指針の精査が最も高い。MoM の考慮と独立特別委員会が必要。
 
-### クラスター4 : 戦略／業界再編型公開買付
+### クラスター 4 — 戦略的 / 業界再編の公開買付
 
-- **アンカー案件**: Itochu / Descente（2019 の敵対的先例と2024 フォローオンラウンド）。
-- **パターン**: 戦略買収者が、連続するTOBを通じて時間をかけて支配権を蓄積する。親会社への統合または過半所有へ進む。
+- **アンカーケース**：伊藤忠 / デサント（2019 の敵対的前例と 2024 追加ラウンド）。
+- **パターン**：戦略的買収者が連続する TOB を通じて時間をかけて支配権を蓄積する；親会社への連結化または過半数所有へ。
 
 ## 横断的な観察
 
-### プレミアム水準の標準化
+### プレミアム水準の正常化
 
-2023-2026 コホートの日本TOBプレミアムは、無関係PEによる非公開化では一般に**15-30%**に集まっており、協調的な親子会社取引では一桁台プレミアムも見られ、争われた案件またはFair Guideline前の歴史的案件では約50%超のプレミアムが見られる（Itochu / Descente 2019）。Fair Guideline期待がプロセスを標準化するにつれて、このコホートのプレミアム分散は狭まっている。
+2023-2026 コホートにおける日本の TOB プレミアムは、無関係の PE による非公開化では概ね **15-30%** に集中しており、協調的な親子取引では一桁のプレミアム、対立的または公正指針以前の歴史的ケース（伊藤忠 / デサント 2019）では約 50%超のプレミアムがある。公正指針の期待がプロセスを標準化するにつれて、コホートのプレミアム分散は狭まりつつある。
 
-### Fair Guidelineが手続上の床になった
+### 手続き上のフロアとしての公正指針
 
-2026 までに、METI Fair Guidelineは、大型TOB／MBO／親子会社公開買付における**手続上の床**となった。床を下回る案件（Outsourcing / Bainの初回公開買付）は、少数株主批判を受け、価格修正圧力または裁判所の価格決定リスクにさらされ得る。
+2026 までに、経産省公正指針は、あらゆる大型株 TOB / MBO / 親子公開買付の **手続き上のフロア**に事実上なった。フロアに達しないケース（アウトソーシング / ベインの当初オファー）は少数株主の批判を招き、価格修正の圧力または司法による価格決定（公正な価格の鑑定）へのエクスポージャーに直面する可能性がある。
 
-### PEファイナンスの厚み
+### PE ファイナンスの深さ
 
-このコホートは、日本の[[finance/japan-acquisition-finance|acquisition finance]]市場、すなわち[[megabanks/mufg|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]信託銀行プール、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]を中心とする市場が、外部シンジケーションに無理をせず、数兆円LBO（Toshiba）と数千億円LBO（Outsourcing）を資金調達できる能力を持つことを確認している。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]はEBITDA倍率とレバレッジ倍率の規範を文書化している。
+本コホートは、[[megabanks/mufg|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]] 信託銀行プール、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] が主導する日本の [[finance/japan-acquisition-finance|acquisition finance]] 市場が、外部シンジケーションのストレッチなしに数兆円の LBO（東芝）および数千億円の LBO（アウトソーシング）をファイナンスする能力を有することを確認している。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]] は EBITDA 倍率およびレバレッジ倍率の規範を文書化している。
 
-### 特別委員会品質のばらつき
+### 特別委員会の質のばらつき
 
-特別委員会の設置が普遍化しても、**特別委員会プロセスの品質差**は依然として重要である。
+特別委員会の普遍的な設置をもってしても、特別委員会プロセスにおける **質のばらつき**は依然として大きい：
 
-- **高品質プロセス**。広範なマーケットチェック、複数FAのフェアネスオピニオン、強固な交渉記録。
-- **標準プロセス**。単一FAのフェアネスオピニオン、最小限のマーケットチェック、形式的なMoM考慮。
-- **プロセス品質への疑義**。初回公開買付が少数株主批判を招く場合（Outsourcing / Bain初回入札）、委員会のマーケットチェックと価格交渉の厳密性が診断軸となる。
+- **質の高いプロセス** — 広範なマーケットチェック、複数の FA フェアネス・オピニオン、堅牢な交渉記録。
+- **標準的なプロセス** — 単一の FA フェアネス・オピニオン、最小限のマーケットチェック、形式的な MoM の考慮。
+- **プロセス品質の課題** — 当初オファーが少数株主の批判を招いた場合（アウトソーシング / ベインの当初入札）、委員会のマーケットチェックと価格交渉の厳格さが診断軸となる。
 
-### 日本における競合入札パターン
+### 日本における対抗入札のパターン
 
-2023-2026 の期間、日本の大型TOBでは、米国／英国実務と比べて競合入札は**まれ**である。事前の戦略検討委員会（Toshiba）は、通常、ソフトなマーケットチェックの代替として機能する。大型2023-2026 案件で開かれた競合入札シナリオを誘発したものは少ない。
+対抗入札は、米国 / 英国の慣行と比べて、2023-2026 において **日本の大型案件 TOB では依然として稀**である。プロセス前の戦略レビュー委員会（東芝）が概してソフトなマーケットチェックの代替として機能する。オープンな対抗入札シナリオを引き起こした大型 2023-2026 ケースはほとんどなかった。
 
-## 出典上の注意
+## 出典に関する留意点
 
-1. 引用した取引価値は、当時のプレスリリースと公開買付届出書に基づく公開情報上の概算である。正確な公開買付金額の開示はEDINET上のTOB書類を使う。
-2. プレミアム率は参照価格（1カ月平均、3カ月平均、非影響価格）に依存する。レポートによって異なるプレミアム水準が引用されることがある。
-3. Sapporo HD / 3Dアクティビズム案件は進行中であり、結果および生じ得る取引は未決である。
-4. Asahi Intec、Yodogawa Steel、Daiichi Sankyo Espha関連行は、クラスター読みの足場として含めた参照案件である。完全な案件詳細は、各社IRページとEDINET提出書類を追う。
-5. JFTC審査記録はJFTCプレスリリースで公開されている。Phase IかPhase IIかの結論はJFTC公表リストで確認する。
-6. Tokio Marine HD子会社対応は複数の発表にまたがる。この行は単一取引ではなくクラスターを集約している。
+1. 引用される取引額は、当時のプレスリリースおよび公開買付届出書からの公開情報による概算である。正確な公開買付額の開示については、EDINET の TOB 届出を使用すること。
+2. プレミアム率は、使用される参照価格（1ヶ月平均、3ヶ月平均、無撹乱価格）に依存する。報告によって異なるプレミアム水準を引用する場合がある。
+3. サッポロ HD / 3D のアクティビズムケースは継続中である；結果および結果として生じる取引は保留中である。
+4. 朝日インテック、淀川製鋼所、第一三共エスファ関連の行は、クラスターの読み方の足場を組むためのリファレンスケースとして含めている。完全なケース詳細については、各社の IR ページおよび EDINET 届出を参照すること。
+5. JFTC 審査記録は JFTC プレスリリースを通じて公開されている；JFTC 公表リストでフェーズ I かフェーズ II かの結論を確認すること。
+6. 東京海上 HD の子会社アクションは複数の公表にまたがる；当該行は単一の取引ではなくクラスターを集約している。
 
-## 調査チェックリスト
+## リサーチ・チェックリスト
 
-このマトリクスを新規案件分析に使う場合:
+新しいケースを分析するために本マトリクスを使用する際は：
 
-1. EDINETで公開買付届出書と対象会社意見表明を取得する。
-2. 開示されている場合、特別委員会報告書とフェアネスオピニオンを読む。
-3. [[finance/japan-tender-offer-process|tender offer process]]でタイミングと訂正経路を確認する。
-4. 公開買付後スクイーズアウトについて[[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out]]のメカニクスを確認する。
-5. [[finance/jftc-merger-control-process|JFTC merger control process]]下の企業結合審査経路についてJFTCプレスリリースを確認する。
-6. TOB前の株式取得について[[finance/japan-large-shareholding-disclosure|large shareholding disclosure]]を確認する。
-7. [[finance/japan-acquisition-finance|acquisition finance]]と[[finance/japan-leveraged-buyout-economics|LBO economics]]を使って資金調達構造を規模把握する。
-8. ビークル分類文脈は[[business/japan-listed-corp-strategic-restructuring-matrix|listed corp strategic restructuring matrix]]と横読みする。
+1. EDINET 上の TOB 届出書および対象会社意見を取得する。
+2. 開示されていれば特別委員会報告書およびフェアネス・オピニオンを読む。
+3. タイミングおよび修正経路について [[finance/japan-tender-offer-process|tender offer process]] を確認する。
+4. 公開買付後のスクイーズアウトについて [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out]] の仕組みを確認する。
+5. [[finance/jftc-merger-control-process|JFTC merger control process]] の下での合併審査経路について JFTC プレスリリースを確認する。
+6. TOB 前の持分積み上げについて [[finance/japan-large-shareholding-disclosure|large shareholding disclosure]] を確認する。
+7. [[finance/japan-acquisition-finance|acquisition finance]] と [[finance/japan-leveraged-buyout-economics|LBO economics]] を用いてファイナンス構造をサイジングする。
+8. ビークル分類の文脈について [[business/japan-listed-corp-strategic-restructuring-matrix|listed corp strategic restructuring matrix]] とクロスリードする。
 
-## 関連項目
+## Related
 
 - [[securities/INDEX]]
 - [[securities/tokyo-stock-exchange]]
@@ -216,7 +217,7 @@ translated_at: 2026-06-03T00:53:08.260Z
 - [[JapanFG/orix]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
 - FSA tender offer disclosure guideline (statutory framework for TOB disclosure).
 - METI Fair M&A Guidelines (procedural framework for fair-process tenders, MBOs, and parent-subsidiary tenders).

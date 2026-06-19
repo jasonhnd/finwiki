@@ -1,11 +1,11 @@
 ---
 source: payments/waon-nanaco-retail-prepaid-comparison
-source_hash: 23c09c2a5fc481f3
+source_hash: 591f52e7b4b7a270
 lang: en
 status: machine
 fidelity: ok
 title: "WAON vs nanaco: retail prepaid e-money comparison"
-translated_at: 2026-06-01T03:31:12.284Z
+translated_at: 2026-06-19T06:09:18.170Z
 ---
 
 # WAON vs nanaco: retail prepaid e-money comparison
@@ -16,7 +16,7 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 
 ## TL;DR
 
-**WAON** (operated by AEON) and **nanaco** (operated by Seven Card Service) are Japan's two principal retail-anchored prepaid e-money brands. Both use FeliCa, both are registered as third-party prepaid payment instruments under the FSA framework, both integrate tightly with parent retail loyalty programs, and both connect to group-bank convenience through AEON Bank or Seven Bank. The competitive dynamic is closed-loop retail loyalty rather than open merchant code-payment competition.
+**WAON** (operated by AEON, anchored at AEON mall / supermarket / convenience-store network) and **nanaco** (operated by Seven Card Service, anchored at Seven & i Group convenience stores and Ito-Yokado supermarkets) are the two principal **retail-anchored prepaid e-money brands** in Japan. Both run on FeliCa (same technology stack as [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]]), both register as third-party prepaid payment instruments under FSA, both are tightly integrated with their parent retail-group loyalty programs (WAON POINT and nanacoポイント), and both are paired with a group bank (AEON Bank, Seven Bank) for charge / ATM convenience. The competitive dynamic is **closed-loop within group retail** rather than open-merchant code-payment competition — comparable to FamiPay but executed on FeliCa prepaid rather than QR code. Their installed-base position is sticky but growth has slowed as code payment ([[payment-firms/paypay|PayPay]], [[payment-firms/au-payment|au PAY]], 楽天ペイ, d払い) has captured the marginal new-user cohort.
 
 ## Side-by-side issuer overview
 
@@ -34,8 +34,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 | Charge ceiling | ¥50,000 | ¥50,000 |
 | Per-transaction ceiling | Same as balance ceiling for most categories | Same |
 | Auto-charge from group bank | Yes, AEON Bank linkage | Yes, Seven Bank linkage |
-| Auto-charge from group card | Yes, AEON Card | Yes, Seven Card Plus |
-| Group point currency | WAON POINT | nanaco points |
+| Auto-charge from group card | Yes, AEON Card | Yes, セブンカード・プラス |
+| Group point currency | WAON POINT | nanacoポイント |
 | Point conversion to balance | 1 point = 1 yen WAON balance | 1 point = 1 yen nanaco balance |
 
 ## Charge / funding rails comparison
@@ -47,8 +47,8 @@ The retail-prepaid economic model depends heavily on what funding rail the consu
 | Cash at register | Yes, all AEON-group stores | Yes, all 7-Eleven / Ito-Yokado |
 | Cash at group ATM | Yes, AEON Bank ATM | Yes, Seven Bank ATM |
 | Auto-charge from group bank | Yes, AEON Bank | Yes, Seven Bank |
-| Auto-charge from group card | Yes, AEON Card | Yes, Seven Card Plus |
-| Other credit card charge | Limited; AEON Card is preferred for points | Limited; Seven Card Plus is preferred |
+| Auto-charge from group card | Yes, AEON Card | Yes, セブンカード・プラス |
+| Other credit card charge | Limited — historically AEON Card preferred for points | Limited — セブンカード・プラス preferred |
 | Bank transfer from non-group account | Limited | Limited |
 | Mobile app charge | Via Osaifu Keitai or AEON Pay | Via Osaifu Keitai or nanaco mobile |
 
@@ -70,24 +70,24 @@ The principal economic case for retail-anchored prepaid is **frequency-and-margi
 | AEON Cinema | WAON acceptance and AEON Card discount |
 | AEON Bank | Auto-charge linkage, deposit ↔ WAON conversion |
 | AEON Financial Service | AEON Card issuance, BNPL / installment, insurance cross-sell |
-| AEON Customer Appreciation Day (20th and 30th of each month, 5% discount) | Tied to AEON Card / WAON usage |
+| AEON's お客さま感謝デー (20th, 30th of month 5% discount) | Tied to AEON Card / WAON usage |
 
 ### Seven & i / nanaco integration touchpoints
 
 | Touchpoint | Integration |
 |---|---|
-| 7-Eleven Japan | nanaco acceptance and nanaco point earning |
+| 7-Eleven Japan | nanaco acceptance, nanaco ポイント earning |
 | Ito-Yokado | nanaco acceptance, group-bank deposit interaction |
 | Sogo & Seibu (department stores) | nanaco acceptance with department-store loyalty |
 | Akachan Honpo (baby goods) | nanaco acceptance with family-loyalty integration |
 | Denny's Japan | nanaco acceptance |
 | Seven Bank | Auto-charge linkage, ATM cash charge, group-bank deposit |
 | Seven Bank ATM network | nanaco-compatible ATM cash-charge nationwide |
-| Seven Card Plus | Co-branded card with nanaco-integrated charge |
+| セブンカード・プラス | Co-branded card with nanaco-integrated charge |
 | 7iD ecosystem | Unified Seven & i Group customer ID system tied to nanaco |
-| (tax payment via nanaco) | nanaco-funded tax payment at 7-Eleven cashier — heritage feature |
+| 国税納付 (tax payment via nanaco) | nanaco-funded tax payment at 7-Eleven cashier — heritage feature |
 
-The ** via nanaco** feature was historically a notable cross-product use case where consumers funded nanaco via credit card (earning card points) then paid taxes via 7-Eleven cashier using nanaco — a credit-card-points-funded tax payment route. Seven Card Service tightened the rules around this over time; the feature illustrates how retail-prepaid acceptance creates side-channel optimization that may not align with original product intent.
+The **国税納付 via nanaco** feature was historically a notable cross-product use case where consumers funded nanaco via credit card (earning card points) then paid taxes via 7-Eleven cashier using nanaco — a credit-card-points-funded tax payment route. Seven Card Service tightened the rules around this over time; the feature illustrates how retail-prepaid acceptance creates side-channel optimization that may not align with original product intent.
 
 ## Comparison with Rakuten Edy
 
@@ -97,13 +97,13 @@ Edy (operated by [[payment-firms/rakuten-edy|Rakuten Edy]]) is the closest peer 
 |---|---|---|---|
 | Retail anchor | AEON group | Seven & i group | None — open merchant network |
 | Group bank funding | AEON Bank | Seven Bank | Rakuten Bank (after Rakuten acquired Edy 2009) |
-| Group card funding | AEON Card | Seven Card Plus | Rakuten Card (post-acquisition) |
-| Point currency | WAON POINT | nanaco points | Rakuten Points (post-acquisition integration) |
+| Group card funding | AEON Card | セブンカード・プラス | Rakuten Card (post-acquisition) |
+| Point currency | WAON POINT | nanacoポイント | 楽天ポイント (post-acquisition integration) |
 | Mobile rail | Osaifu Keitai, AEON Pay | Osaifu Keitai, nanaco mobile | Osaifu Keitai, Edy app, Apple Pay (limited) |
 | Cross-merchant acceptance | Wide but anchored at AEON | Wide but anchored at 7-Eleven | Wide, no single anchor |
-| Code-payment migration path | AEON Pay (QR app, separate from FeliCa WAON) | Internal Seven & i code experimentation | Rakuten Pay (separate Rakuten QR wallet) |
+| Code-payment migration path | AEON Pay (QR app, separate from FeliCa WAON) | Internal Seven & i code experimentation | 楽天ペイ (separate Rakuten QR wallet) |
 
-All three retail-prepaid brands have launched adjacent QR / code-payment products rather than retiring FeliCa, reflecting the value of the installed FeliCa merchant base even as code payment captures marginal new-user growth. AEON Pay, Seven Pay, and Rakuten Pay illustrate the parallel strategies.
+All three retail-prepaid brands have launched **adjacent QR / code-payment products** rather than retiring FeliCa — recognition that the FeliCa installed-merchant base is too valuable to abandon while the code-payment wave captures the marginal new-user cohort. AEON Pay, Seven Pay (briefly — discontinued 2019 after security incident), and 楽天ペイ illustrate the parallel strategies.
 
 ## Prepaid Payment Instrument Act treatment
 
@@ -136,7 +136,7 @@ The economic significance of the **group-bank tie-in** for WAON and nanaco is a 
 | Loyalty integration | Tight (AEON Card + AEON Bank + WAON POINT triple link) | Limited |
 | Consumer fee burden | Zero | Zero (cost is on issuer side) |
 
-The same logic applies for nanaco / Seven Bank / Seven Card Plus. The group-bank tie-in is a structural funding-cost advantage that pure-platform code-payment wallets without group-bank affiliation must replicate via direct bank-account auto-charge.
+The same logic applies for nanaco / Seven Bank / セブンカード・プラス. The group-bank tie-in is a structural funding-cost advantage that pure-platform code-payment wallets without group-bank affiliation must replicate via direct bank-account auto-charge (PayPay achieves this through PayPay Bank linkage; 楽天ペイ through Rakuten Bank; au PAY through au じぶん銀行).
 
 ## Related
 

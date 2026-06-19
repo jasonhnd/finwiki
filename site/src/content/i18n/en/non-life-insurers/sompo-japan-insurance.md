@@ -1,13 +1,15 @@
 ---
 source: non-life-insurers/sompo-japan-insurance
-source_hash: 19696e937cfbabc7
+source_hash: 43e7da11e62ab641
 lang: en
 status: machine
 fidelity: ok
 title: "Sompo Japan Insurance"
-translated_at: 2026-06-01T02:31:57.109Z
+translated_at: 2026-06-19T06:09:18.075Z
 ---
+
 # Sompo Japan Insurance
+
 
 ## Wiki route
 
@@ -15,7 +17,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Sompo Japan Insurance Inc. is the core non-life insurance operating company of the [[non-life-insurers/sompo]] group. It is a licensed insurer listed in the FSA non-life insurance company license list and the Non-Life Insurance Policyholders Protection Corporation member list, and it carries the SOMPO group's Japan non-life underwriting, claims, agency, and commercial-risk surface.
+Sompo Japan Insurance Inc. is the core non-life insurance operating company of the [[non-life-insurers/sompo]] group. It is a licensed insurer listed on the FSA's non-life insurance company license list and on the member list of the Non-Life Insurance Policyholders Protection Corporation, carrying the SOMPO group's Japan non-life underwriting, claims, agency and commercial-risk surface.
 
 ## 1. License / group boundary
 
@@ -29,13 +31,13 @@ Sompo Japan Insurance Inc. is the core non-life insurance operating company of t
 
 ## 2. Operating model
 
-SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. Sompo Japan Insurance is the domestic non-life operating-company anchor; [[life-insurers/sompo-himawari-life]] is the life-insurance arm.
+The SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. Sompo Japan Insurance is the domestic non-life operating-company anchor; [[life-insurers/sompo-himawari-life]] is the life-insurance arm.
 
 ## 3. Why this page matters
 
 - Separates [[non-life-insurers/sompo]] holding-company strategy from non-life operating-company analysis.
 - Core peer for Tokio Marine and MS&AD operating-company pages.
-- Registry-backed D3  non-life major page.
+- Registry-backed D3 non-life major page.
 
 ## Related
 

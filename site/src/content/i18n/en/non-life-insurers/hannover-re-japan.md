@@ -1,46 +1,46 @@
 ---
 source: non-life-insurers/hannover-re-japan
-source_hash: 1d11f873d0f4b8cb
+source_hash: 7e66397c172f5452
 lang: en
 status: machine
 fidelity: ok
 title: "Hannover Re Japan Branch"
-translated_at: 2026-05-31T15:29:03.922Z
+translated_at: 2026-06-19T06:09:18.132Z
 ---
 
 # Hannover Re Japan Branch
 
 ## Wiki route
 
-This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/munich-re-japan|Munich Re Japan Branch]] and [[non-life-insurers/swiss-re-japan|Swiss Re Japan Branch]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] and [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|トーア再保険]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
 
 ## TL;DR
 
-Hannover Re Japan Branch is the Japanese branch of Hannover Rueck SE, listed in Frankfurt. It is generally read as the Japan branch of a global reinsurer positioned around third place after Munich Re and Swiss Re, although rankings vary by year and metric. It appears in the FSA non-life insurer license list for foreign non-life insurers and supplies reinsurance capacity to Japanese primary insurers through a cost-efficient operating model and specialist underwriting lines.
+The Japan branch of Hannover Rück SE (Hannover Re, listed in Frankfurt). The Japan branch of a **global reinsurer ranked around the world's no. 3 位**, behind Munich Re / Swiss Re. Listed on the FSA's non-life insurance company license list (foreign non-life insurance companies, etc.), it supplies reinsurance capacity to Japan's primary non-life insurers through a low-cost structure and specialty-line underwriting.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Hannover Rueck SE Japan Branch |
-| Parent | Hannover Rueck SE, based in Hannover, listed in Frankfurt, with Talanx Group as majority shareholder |
-| License route | Insurance Business Act foreign non-life insurer route / FSA foreign non-life license framework |
-| Protection scheme | Outside the Non-Life Insurance Policyholders Protection Corporation because it is a specialist reinsurer |
+| Legal name | Hannover Rück SE Japan Branch (Hannover Re Japan Branch) |
+| Parent | Hannover Rück SE (Hannover, Germany; listed in Frankfurt; Talanx group majority shareholder) |
+| License route | Insurance Business Act foreign non-life insurance companies, etc. / FSA foreign non-life license slot |
+| Protection scheme | As a reinsurance-only carrier, outside the scope of the Non-Life Insurance Policyholders Protection Corporation |
 | Business type | Property & Casualty Reinsurance + Life & Health Reinsurance |
 | Wiki role | Foreign reinsurer Japan branch — European "third pillar" |
 
 ## 2. Business lines in Japan
 
-- **Property & Casualty Reinsurance** — earthquake and typhoon catastrophe risk, liability, motor, and other non-life reinsurance.
-- **Life & Health Reinsurance** — mortality, medical, disability, and longevity-risk reinsurance.
-- **Structured Reinsurance / Financial Solutions** — financial reinsurance and capital solutions.
-- **Specialty lines** — marine, aviation, credit and surety, cyber, and other specialist lines.
+- **Property & Casualty Reinsurance** — non-life reinsurance such as earthquake / typhoon catastrophe, liability, and motor
+- **Life & Health Reinsurance** — life reinsurance such as death, medical, and disability cover, plus longevity risk
+- **Structured Reinsurance / Financial Solutions** — financial reinsurance, capital solutions
+- **Specialty lines** — specialty areas such as Marine, Aviation, Credit & Surety, and Cyber
 
 ## 4. Why this page matters
 
-- It anchors the European "third pillar" reinsurer in Japan and prevents the Japan reinsurance panel from being reduced to only Munich Re and Swiss Re.
-- It connects the [[insurance/natcat-reinsurance-japan]] system page with the major Japanese primary non-life insurers.
-- It is necessary for a structural map that compares domestic [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] capacity with foreign reinsurer branches such as [[non-life-insurers/munich-re-japan]] and [[non-life-insurers/swiss-re-japan]].
+- The Japan-branch anchor of the European reinsurance "third pillar" — complements the panel structure of a Japan reinsurance market that is incomplete with only the "Big 2"
+- Connects the [[insurance/natcat-reinsurance-japan]] system page with the primary mega non-life insurer group
+- Indispensable to the structural map of Japan's reinsurance market alongside domestic [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] and foreign [[non-life-insurers/munich-re-japan]] / [[non-life-insurers/swiss-re-japan]]
 
 ## Related
 
@@ -56,11 +56,11 @@ Hannover Re Japan Branch is the Japanese branch of Hannover Rueck SE, listed in 
 
 ## Sources
 
-- Hannover Re official Japan branch page: https://www.hannover-re.com/957070/japan-branch, referenced 2026-05-24.
-- FSA insurance company license list: https://www.fsa.go.jp/menkyo/hoken.pdf, referenced 2026-05.
-- FSA non-life insurer license list, including foreign non-life insurers: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf.
+- Hannover Re official: Japan branch page (https://www.hannover-re.com/957070/japan-branch, see 2026-05-24)
+- FSA: insurance company license list (https://www.fsa.go.jp/menkyo/hoken.pdf, see 2026-05 )
+- FSA: non-life insurance company license list (including foreign non-life, https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf)
 
 ---
 
-> [!info] Validation status
-> confidence: **likely**. Hannover Re's position around third place globally is broadly consistent with public information, although rankings can vary by year and by comparison set. Japan-branch business scope and underwriting volume are only partially disclosed, so this page should be read as a structural overview.
+> [!info] Verification status
+> confidence: **likely**. Hannover Re's position as the world's no. 3 位 reinsurer is broadly in line with public information (the ranking of Hannover Re / Berkshire Re / SCOR shifts by year). The Japan branch's business scope and underwriting scale are largely subject to voluntary disclosure, and this article is a structural overview.

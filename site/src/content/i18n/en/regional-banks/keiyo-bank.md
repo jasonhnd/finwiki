@@ -1,13 +1,14 @@
 ---
 source: regional-banks/keiyo-bank
-source_hash: a46a82cbddf9858a
+source_hash: a92adb1c46cdb6db
 lang: en
 status: machine
 fidelity: ok
-title: "The Keiyo Bank, Ltd."
-translated_at: 2026-05-31T23:59:49.363Z
+title: "株式会社京葉銀行"
+translated_at: 2026-06-19T12:43:19.904Z
 ---
-# The Keiyo Bank, Ltd.
+
+# 株式会社京葉銀行
 
 ## Wiki route
 
@@ -15,100 +16,97 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Chiba Prefecture's No. 2  regional bank (prefectural share 2 位; No. 1  is [[regional-banks/chiba-bank]]). It emerged as one of the "latest-converting ordinary banks": 1943  Chiba Godo Mujin -> 1951  Chiba Sogo Bank -> **ordinary-bank conversion in 1989-04  and TSE 2  section listing in 9  of the same year**. It is abbreviated "Keiyo" and is listed on TSE PRIME under 8544. It maintains an independent route without joining TSUBASA, with a focus on **SMEs + personal loans and concentration in the Keiyo area (Chiba City, Ichihara, Kisarazu, Funabashi, Matsudo)**. It is a member of the Second Association of Regional Banks and sits in the upper group among second regional banks by both total assets and deposits.
+The No.2  regional bank in Chiba Prefecture (intra-prefecture share 2 位, with No.1  being [[regional-banks/chiba-bank]]). One of the "latest-arriving ordinary banks," born from 1943  Chiba Goudou Mujin → 1951  Chiba Sogo Bank → **1989-04  ordinary-bank conversion・and TSE 2  Section listing in 9  of the same year**. Abbreviated "Keiyo," TSE PRIME 8544. **Specializing in SMEs + personal loans・concentrated in the Keiyo area (Chiba City・Ichihara・Kisarazu・Funabashi・Matsudo)**, it maintains an independent path by not joining TSUBASA. A member of the Second Association of Regional Banks, it is in the upper group among second regional banks in both total assets and deposits.
 
-## 1. Company Overview
+## 1. 会社概要
 
-**Official name**: The Keiyo Bank, Ltd.
-**English name**: The Keiyo Bank, Ltd.
-**Securities code**: TSE PRIME 8544 (listed 1989-09 )
-**Established**: 1943-03 (as Chiba Godo Mujin)
-**Ordinary-bank conversion**: 1989-04-01 (Chiba Sogo Bank -> renamed Keiyo Bank and converted to an ordinary bank)
-**Head office**: 1-11-11
- Fujimi, Chuo-ku, Chiba City, Chiba Prefecture
-**Second Association of Regional Banks**: Member (Keiyo Bank is the only member in Chiba Prefecture)
-**Unified financial institution code**: 0522
+**正式名**：株式会社京葉銀行
+**英名**：The Keiyo Bank, Ltd.
+**証券コード**：東証 PRIME 8544（1989-09 上場）
+**設立**：1943-03（千葉合同無尽として）
+**普銀転換**：1989-04-01（千葉相互銀行 → 京葉銀行へ商号変更・普通銀行転換）
+**本店**：千葉県千葉市中央区富士見 1-11-11
+**第二地銀協**：加盟（千葉県内では京葉銀行のみ）
+**統一金融機関コード**：0522
 
+### 概要数値（公開ベース・概数）
 
-
-### Overview Figures (public basis, approximate)
-
-| Item | Scale |
+| 項目 | 規模感 |
 |---|---|
-| Total assets | Around 5 兆円 (upper tier even among second regional banks) |
-| Deposits | Around 4 兆円 |
-| Loans | Around 3 兆円 |
-| Branch network | Mainly Chiba Prefecture + some Tokyo = more than 100 店 |
-| Employees | Around 2,000 名 scale |
+| 総資産 | 約 5 兆円台（第二地銀でも上位） |
+| 預金 | 約 4 兆円台 |
+| 貸出金 | 約 3 兆円台 |
+| 店舗網 | 千葉県内中心 + 東京一部 = 100 店舗超 |
+| 従業員 | 約 2,000 名規模 |
 
-### History (excerpt)
+### 沿革（抜粋）
 
-| Year / month | Event |
+| 年月 | 事象 |
 |---|---|
-| 1943-03 | Chiba Godo Mujin established (merger of 6  mutual-loan companies in Chiba Prefecture) |
-| 1951-10 | Mutual Banking Act came into force -> renamed **Chiba Sogo Bank** |
-| 1989-04-01 | Converted to an ordinary bank -> renamed **The Keiyo Bank, Ltd.** |
-| 1989-09 | Listed on TSE 2  section |
-| 2000 年s | Established a Keiyo-area concentration and housing-loan expansion strategy |
-| 2013-07 | Transferred to TSE 1  section |
-| 2022-04 | TSE market restructuring -> **TSE PRIME** |
+| 1943-03 | 千葉合同無尽 設立（千葉県内 6 無尽合併） |
+| 1951-10 | 相互銀行法施行 → **千葉相互銀行** に商号変更 |
+| 1989-04-01 | 普通銀行転換 → **株式会社京葉銀行** に商号変更 |
+| 1989-09 | 東証 2 部 上場 |
+| 2000 年代 | 京葉地区集中・住宅ローン強化路線確立 |
+| 2013-07 | 東証 1 部 指定替え |
+| 2022-04 | 東証市場区分見直し → **東証 PRIME** |
 
-## 2. Business Segment Map
+## 2. 事業セグメント・マップ
 
-| Division | Core products | Positioning |
+| 部門 | 主力商品 | 位置付け |
 |---|---|---|
-| Corporate | SME lending and business succession support | Close to SMEs in the Keiyo area, with a high local main-bank ratio |
-| Personal loans | Housing loans, card loan "QUICK Power", and related products | **Personal-loan specialization is the bank's DNA**; personal-loan ratio is high even among second regional banks |
-| Deposits and asset formation | Yen time deposits, investment trusts, individual annuities | Stable base of personal deposits in Chiba Prefecture |
-| International | FX and trade finance | Limited scale, mainly through correspondent routes |
-| Affiliates / related companies | Keigin General Lease, Keigin Card Service, Keigin Business Service, and others | Regionally rooted group companies |
+| 法人 | 中小企業向け融資・事業承継支援 | 京葉地区中小企業に密着、メインバンク比率が地元で高い |
+| 個人ローン | 住宅ローン・カードローン「QUICK パワー」等 | **個人ローン特化が同行の DNA**、第二地銀の中でも個人ローン比率が高水準 |
+| 預金・資産形成 | 円定期・投信・個人年金 | 千葉県内個人預金の安定基盤 |
+| 国際 | 為替・貿易金融 | 規模は限定的、コルレス経由が中心 |
+| 系列・関連 | けいぎん総合リース、けいぎんカードサービス、けいぎんビジネスサービス 等 | 地域密着型のグループ会社 |
 
-### Chiba Prefecture Market Structure
+### 千葉県内市場構造
 
-| Bank | Type | Positioning |
+| 銀行 | 種別 | 位置付け |
 |---|---|---|
-| [[regional-banks/chiba-bank]] (Chiba Bank 8331) | First regional bank | **Chiba Prefecture No. 1**, lead bank of the TSUBASA Alliance, leading regional bank in Kanto |
-| **Keiyo Bank (8544)** | Second regional bank | **Chiba Prefecture No. 2**, member of the Second Association of Regional Banks, specialized in the Keiyo area |
-| [[regional-banks/chiba-kogyo-bank]] (Chiba Kogyo Bank 8337) | First regional bank | Chiba Prefecture 3 位, historically colored by the old Mizuho lineage (relationship with [[megabanks/mizuho-fg]]) |
+| [[regional-banks/chiba-bank]]（千葉銀行 8331）| 第一地銀 | **千葉県 No.1**、TSUBASA アライアンス主導行、関東地銀の雄 |
+| **京葉銀行（8544）** | 第二地銀 | **千葉県 No.2**、第二地銀協、京葉地区特化 |
+| [[regional-banks/chiba-kogyo-bank]]（千葉興業銀行 8337）| 第一地銀 | 千葉県内 3 位、旧 みずほ系列色（[[megabanks/mizuho-fg]] と歴史的関係） |
 
-Chiba Prefecture is a special market with **3 行 coexisting banks**: 2 行 first regional banks (Chiba Bank and Chiba Kogyo Bank) + 1 行 second regional bank (Keiyo). Keiyo Bank is smaller than Chiba Bank in scale, but it maintains a clear presence in the **SME and individual segments**.
+Chiba Prefecture is a special market with **3 行 coexistence**: first regional banks 2 行 (Chiba Bank・Chiba Kogyo) + a second regional bank 1 行 (Keiyo). Keiyo Bank is inferior to Chiba Bank in scale, but holds a position that **maintains its presence in the SME / personal segments**.
 
-### Independent Route — Not a TSUBASA Participant
+### 独立路線 — TSUBASA 未参加
 
-Keiyo Bank does **not participate** in the **TSUBASA Alliance** led by [[regional-banks/chiba-bank]] (a wide-area alliance of first regional banks including Chiba, Daishi Hokuetsu, Chugoku, Iyo, Toho, Hokuyo, Musashino, Shiga, and Ryukyu). This reflects:
+**Keiyo Bank does not participate** in the **TSUBASA Alliance** led by [[regional-banks/chiba-bank]] (a wide-area alliance of first regional banks such as Chiba・Daishi Hokuetsu・Chugoku・Iyo・Toho・Hokuyo・Musashino・Shiga・Ryukyu). This reflects:
 
-- the structural reason that it is a second regional bank directly competing with Chiba Bank inside Chiba Prefecture;
-- its distinct position as a member of the Second Association of Regional Banks;
-- the relatively smaller benefit of wide-area system sharing because of its specialization in in-prefecture SME and individual segments.
+- the structural reason of being a second regional bank in a directly competitive relationship with Chiba Bank within Chiba Prefecture
+- its own position as a member of the Second Association of Regional Banks
+- the relatively small merit of wide-area system pooling given its specialization in the intra-prefecture SME / personal segments.
 
-Instead, it responds through joint back-office centers and joint systems provided through the Second Association of Regional Banks, plus its own IT strategy.
+Instead, it responds via the Second Association of Regional Banks' joint back-office center・joint system use, or its own IT strategy.
 
-### SME + Personal Loan Specialization
+### 中小企業 + 個人ローン特化
 
-- **Housing loans**: Second only to Chiba Bank by housing-loan balance in Chiba Prefecture. Captures demand from emerging residential areas in the Keiyo area (Chiba City, Ichihara, Kisarazu, Funabashi, Matsudo).
-- **Card loans**: Active unsecured-loan rollout for a second regional bank, including the "QUICK Power" series.
-- **Business succession / M&A**: Generational-transition support for SMEs in the Keiyo area.
-- **Personal deposit ratio**: The ratio of personal deposits is relatively higher than corporate deposits, giving the bank a strong retail character.
+- **住宅ローン**：千葉県内住宅ローン残高で千葉銀に次ぐシェア。京葉地区（千葉市・市原・木更津・船橋・松戸）の新興住宅地需要を取り込む
+- **カードローン**：「QUICK パワー」シリーズ等、第二地銀としては積極的な無担保ローン展開
+- **事業承継・M&A**：京葉地区中小企業向けの世代交代支援
+- **個人預金比率**：個人預金の比率が法人預金より高め、リテール色が濃い
 
-### Competitive Relationship Map
+### 競合関係 map
 
-| Competitive axis | Main competitors |
+| 競合軸 | 主要競合 |
 |---|---|
-| Chiba Prefecture overall | [[regional-banks/chiba-bank]] (dominant No. 1), [[regional-banks/chiba-kogyo-bank]] |
-| Kanto regional banks | [[regional-banks/mebuki-fg]] (Joyo + Ashikaga, northern Kanto base), [[regional-banks/concordia-fg]] (Yokohama + Higashi-Nippon, Kanagawa base) |
-| Second regional banks | Kita-Nippon Bank, Higashi-Nippon Bank (former group), Momiji Bank, and others |
-| Megabank personal banking | Chiba Prefecture branches of [[megabanks/smfg]], [[megabanks/mufg]], and [[megabanks/mizuho-fg]] |
-| Internet banks / retail-affiliated banks | Rakuten Bank, SBI Sumishin Net Bank, [[megabanks/paypay-fg]], PayPay Bank — encroaching in the personal-loan field |
+| 千葉県内総合 | [[regional-banks/chiba-bank]]（圧倒的 No.1）、[[regional-banks/chiba-kogyo-bank]] |
+| 関東地銀 | [[regional-banks/mebuki-fg]]（常陽 + 足利、北関東地盤）、[[regional-banks/concordia-fg]]（横浜 + 東日本、神奈川地盤）|
+| 第二地銀 | 北日本銀行・東日本銀行（旧グループ）、もみじ銀行 等 |
+| メガバンク 個人 | [[megabanks/smfg]]・[[megabanks/mufg]]・[[megabanks/mizuho-fg]] の千葉県内支店 |
+| ネット銀・流通系 | 楽天銀・住信 SBI ネット銀・[[megabanks/paypay-fg]]・PayPay 銀行 — 個人ローン領域で侵食 |
 
-## 4. Regulation and Policy
+## 4. 規制・政策
 
-- **Regulator**: Financial Services Agency (FSA)
-- **Industry association**: Second Association of Regional Banks
-- **Deposit insurance**: Member of the Deposit Insurance Corporation of Japan
-- **Current policy topics**:
-  - 2024 onward: BOJ policy-rate normalization -> improved domestic lending-rate margins (a bonus for regional banks overall)
-  - 2025 onward: Chiba Prefecture demographics (Chiba City and Funabashi have net inflows, while Uchibo and Sotobo face outflows) -> branch restructuring pressure
-  - Encroachment in the personal-loan field by **internet banks and retail-affiliated banks ([[megabanks/paypay-fg]], Rakuten Bank, SBI Sumishin)** -> retail DX challenge
+- **主管**：金融庁（FSA）
+- **業界団体**：第二地方銀行協会
+- **預金保険**：預金保険機構 加盟
+- **直近政策論点**：
+  - 2024〜 BOJ policy-rate normalization → improvement in domestic lending-rate margins (a bonus for regional banks overall)
+  - 2025〜 population dynamics within Chiba Prefecture (Chiba City・Funabashi City have net inflows, Uchibo・Sotobo have outflows) → branch-restructuring pressure
+  - **encroachment from internet banks・distribution-affiliated banks ([[megabanks/paypay-fg]]・Rakuten Bank・Sumishin SBI)** in the personal-loan area → retail DX challenge
 
 ## Related
 
@@ -117,11 +115,11 @@ Instead, it responds through joint back-office centers and joint systems provide
 
 ## Sources
 
-- **Wikipedia: The Keiyo Bank, Ltd.** (public information, extracted 2026-05-19)
-- Keiyo Bank official IR disclosure magazine (public, latest fiscal year)
-- Japanese Bankers Association member-bank list (Second Association of Regional Banks)
+- **Wikipedia: 株式会社京葉銀行**（public information, extracted 2026-05-19）
+- 京葉銀行 公式 IR ディスクロージャー誌（public, latest year）
+- 全国銀行協会 加盟行リスト（第二地方銀行協会）
 
 ---
 
-> [!info] Verification Status
-> confidence: **likely** (public-information base, for structural understanding). History, listing segment, Second Association of Regional Banks membership, and Chiba Prefecture position can be confirmed from official sources. **FY2024  consolidated figures are approximate** — confirmed values such as net income and capital ratio should be checked against the official securities report (FSA EDINET) and Keiyo Bank official disclosure magazine. Figures are scheduled to be updated with the latest results at the next review.
+> [!info] Verification status
+> confidence: **likely** (public-information based, for structural understanding). The history・listing classification・Second Association of Regional Banks membership・intra-Chiba-Prefecture position can be confirmed from official sources. **FY2024  consolidated figures are in approximate notation** — confirmed values for net income・capital-adequacy ratio, etc. require reference to the official 有価証券報告書 (FSA EDINET)・Keiyo Bank's official disclosure magazine. Figures are scheduled to be updated with the latest settlement at the next review.

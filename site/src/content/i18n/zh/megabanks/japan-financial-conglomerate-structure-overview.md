@@ -1,90 +1,91 @@
 ---
 source: megabanks/japan-financial-conglomerate-structure-overview
-source_hash: 0c9309d16b515125
+source_hash: 5535ad674c33dad3
 lang: zh
 status: machine
 fidelity: ok
-title: "日本金融集团结构概览"
-translated_at: 2026-05-31T23:59:49.415Z
+title: "Japan financial conglomerate structure overview"
+translated_at: 2026-06-19T06:09:18.104Z
 ---
-# 日本金融集团结构概览
+
+# Japan financial conglomerate structure overview
 
 ## TL;DR
 
-**日本金融综合集团**（financial conglomerate / 金融集团）是由单一最终母公司组织的一组受监管金融实体，通常以 **金融控股公司**（FHC）为核心，将银行、信托、证券、保险、支付、消费金融、资产管理，以及越来越多的 crypto / digital-asset 实体纳入共同所有权和治理之下。
+**日本金融康采恩**（金融コングロマリット / 金融グループ）是指在单一最终母公司 — 通常是 **金融控股公司**（持株会社 / FHC）— 之下组织起来的一组受监管金融实体，将银行、信托、证券、保险、支付、消费金融、资产管理，以及（越来越多的）加密／数字资产实体置于共同所有与治理之下进行合并。
 
-日本的金融集团格局可分为六个集群：
+日本的康采恩格局建立在一个六集群分类法之上：
 
-1. **Megabank FG**（3 家）— MUFG、SMFG、Mizuho FG。具备全球 G-SIB 身份的 universal-bank franchise。
-2. **Trust-dominant FG**（2 家）— Sumitomo Mitsui Trust HD、Mitsubishi UFJ Trust（MUFG 内部）。重点是资产管理行政、养老金信托。
-3. **Postal / public-finance FG**（3 家）— 日本邮政（Japan Post Holdings）整合 Yucho Bank、Kampo Life；Norinchukin Bank；JFC / JBIC / DBJ 等政策金融机构。
-4. **Communications / payment FG**（4 家）— au FH（KDDI）、PayPay FG（SoftBank / LY）、Rakuten FG、Sony FG、NTT Docomo FG（ndfg）。这些集团从 telecom 或 EC 起步，如今整合 bank / securities / insurance / payment 牌照。
-5. **Independent securities / asset-management FG**（3+ 家）— Nomura HD、Daiwa SG、SBI HD。以证券为主轴，并邻接银行和资产管理。
-6. **Regional bank FG**（20+ 家）— Concordia FG、Mebuki FG、Yamaguchi FG、Fukuoka FG、Kyushu FG、Kyoto FG、Hokuhoku FG、Shizuoka FG 等。两家或更多地方银行整合到单一控股公司之下。
+1. **超大型银行 FG**（3  家实体）— MUFG、SMFG、Mizuho FG。具有全球 G-SIB 指定的全能银行特许经营。
+2. **信托主导 FG**（2  家实体）— 三井住友信托 HD、三菱 UFJ 信托（在 MUFG 内）。聚焦资产管理与养老金信托。
+3. **邮政／公共金融 FG**（3  家实体）— 合并 Yucho 银行、Kampo 生命的日本邮政（日本邮政控股）；农林中央金库；作为政策金融机构的 JFC / JBIC / DBJ。
+4. **通信／支付 FG**（4  家实体）— au FH（KDDI）、PayPay FG（软银 / LY）、乐天 FG、Sony FG、NTT Docomo FG（ndfg）。起步于电信或电商，如今正合并银行／证券／保险／支付牌照。
+5. **独立证券／资产管理 FG**（3 家以上实体）— 野村 HD、大和 SG、SBI HD。以证券为主导，伴有银行与资产管理的相邻领域。
+6. **地方银行 FG**（20 家以上实体）— Concordia FG、Mebuki FG、山口 FG、福冈 FG、九州 FG、京都 FG、Hokuhoku FG、静冈 FG 等。两家或以上地方银行合并于单一控股公司之下。
 
-本条目是横向 anchor，用来解释控股公司结构、金融厅集团监管框架，以及日本 FG 格局形成当前形态的结构性原因。
+本条目是横切性的锚点，解释控股公司结构、FSA 康采恩监管框架，以及日本 FG 格局之所以呈现当前面貌的结构性原因。
 
-## Wiki 路径
+## Wiki route
 
-本条目作为横向概览位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[banking/japan-banking-license-tier-comparison-matrix]] 对读以理解牌照层级覆盖，与 [[financial-licenses/INDEX|JapanFG legal-license INDEX]] 对读以理解 license-stack catalog，与 [[finance/japan-listed-financial-groups-investable-universe]] 对读以理解上市 FG 可投资范围，并与 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] 对读以理解地方银行整合族谱。
+本条目作为横切性概览位于 [[megabanks/INDEX|megabanks INDEX]] 之下。请将其与 [[banking/japan-banking-license-tier-comparison-matrix]] 配对以了解牌照层级叠加，与 [[financial-licenses/INDEX|JapanFG legal-license INDEX]] 配对以了解牌照堆栈目录，与 [[finance/japan-listed-financial-groups-investable-universe]] 配对以了解上市 FG 可投资范围，与 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] 配对以了解地方银行合并家系图。
 
-### 1. Megabank FG（G-SIB 层级）
+### 1. Mega-bank FG (G-SIB tier)
 
-| 实体 | 控股 | 银行 | 证券 | 信托 | 其他 | G-SIB bucket |
+| Entity | Holding | Bank | Securities | Trust | Other | G-SIB bucket |
 |---|---|---|---|---|---|---|
-| [[megabanks/mufg|MUFG]] | Mitsubishi UFJ FG | [[megabanks/mufg-bank|MUFG Bank]] | [[securities-firms/mufg-mums|Mitsubishi UFJ Morgan Stanley Securities]]（与 Morgan Stanley 的 JV） | Mitsubishi UFJ Trust and Banking | [[card-issuers/mufg-nicos|MUFG Nicos]]（card）、[[asset-managers/mufg-asset-management|MUFG Asset Management]]、Acom | 1 |
-| [[megabanks/smfg|SMFG]] | Sumitomo Mitsui FG | [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | SMBC Trust Bank | SMCC（card）、Sumitomo Mitsui DS Asset Management | 1 |
-| [[megabanks/mizuho-fg|Mizuho FG]] | Mizuho FG | [[megabanks/mizuho-bank|Mizuho Bank]] | Mizuho Securities | Mizuho Trust and Banking | Mizuho-DL Financial Technology、Asset Management One | 1 |
+| [[megabanks/mufg|MUFG]] | Mitsubishi UFJ FG | [[megabanks/mufg-bank|MUFG Bank]] | [[securities-firms/mufg-mums|Mitsubishi UFJ Morgan Stanley Securities]] (JV with Morgan Stanley) | Mitsubishi UFJ Trust and Banking | [[card-issuers/mufg-nicos|MUFG Nicos]] (card), [[asset-managers/mufg-asset-management|MUFG Asset Management]], Acom | 1 |
+| [[megabanks/smfg|SMFG]] | Sumitomo Mitsui FG | [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | SMBC Trust Bank | SMCC (card), Sumitomo Mitsui DS Asset Management | 1 |
+| [[megabanks/mizuho-fg|Mizuho FG]] | Mizuho FG | [[megabanks/mizuho-bank|Mizuho Bank]] | Mizuho Securities | Mizuho Trust and Banking | Mizuho-DL Financial Technology, Asset Management One | 1 |
 
-三大集团均为 FSB 指定的 G-SIB，位于 Bucket 1。它们运营 universal-bank 模式：商业银行 + 投资银行 + 信托 + 资产管理 + 卡业务 + 消费金融 + 全球业务。
+三家均为 Bucket 1 的 FSB 指定 G-SIB。各家运营全能银行模式：商业银行 + 投资银行 + 信托 + 资产管理 + 卡片 + 消费金融 + 全球业务。
 
-### 2. Trust-dominant FG（独立信托线）
+### 2. Trust-dominant FG (independent trust line)
 
-| 实体 | 控股 | 信托银行 | 特色 |
+| Entity | Holding | Trust bank | Specialty |
 |---|---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|SuMi Trust HD]] | Sumitomo Mitsui Trust Holdings | Sumitomo Mitsui Trust Bank | 养老金信托、master-trust / custody、不动产信托、资产管理行政。 |
+| [[trust-banks/sumitomo-mitsui-trust|SuMi Trust HD]] | Sumitomo Mitsui Trust Holdings | Sumitomo Mitsui Trust Bank | Pension trust, master-trust / custody, real-estate trust, asset administration. |
 
-SuMi Trust 与 SMFG 在结构上是分开的，尽管名称相似，并非同一集团。SuMi Trust 是日本最大的纯信托集团。custody 比较参见 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]]，master-trust 格局参见 [[banking/japan-master-trust-and-custody-bank-landscape]]。
+SuMi 信托在结构上与 SMFG 相互独立 — 尽管命名相似，二者并非同一集团。SuMi 信托是日本最大的纯信托集团。托管比较参见 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]]，主信托格局参见 [[banking/japan-master-trust-and-custody-bank-landscape]]。
 
-### 3. 邮政与政策金融机构
+### 3. Postal and policy-finance institutions
 
-| 实体 | 类型 | 范围 |
+| Entity | Type | Scope |
 |---|---|---|
-| [[megabanks/nippon-post|Nippon Post (Japan Post Holdings)]] | 邮政 HD | 整合 [[regional-banks/yucho|Yucho Bank]]（日本最大存款银行）与 [[life-insurers/kampo-life|Kampo Life]]。 |
-| [[cooperative-banks/norinchukin|Norinchukin Bank]] | 协同组织中央银行 | JA Bank / JF Marine Bank 协同组织系统的中央银行。按资产规模为全球最大的协同组织银行。参见 [[banking/ja-bank-system-japan]] 和 [[banking/jf-marine-bank-system-japan]]。 |
-| [[financial-regulators/jfc|JFC]] | 政策金融 | 国内 SME / startup / agriculture / education-adjacent 政策金融。 |
-| [[financial-regulators/jbic|JBIC]] | 政策金融 | 海外投资、出口、基础设施和战略性海外金融。 |
-| [[financial-regulators/dbj|DBJ]] | 政策金融 | 中大型企业开发金融。 |
+| [[megabanks/nippon-post|Nippon Post (Japan Post Holdings)]] | Postal HD | Consolidates [[regional-banks/yucho|Yucho Bank]] (largest-deposit bank in Japan) and [[life-insurers/kampo-life|Kampo Life]]. |
+| [[cooperative-banks/norinchukin|Norinchukin Bank]] | Cooperative central bank | The central bank for the JA Bank / JF Marine Bank cooperative system. World's largest cooperative bank by assets. See [[banking/ja-bank-system-japan]] and [[banking/jf-marine-bank-system-japan]]. |
+| [[financial-regulators/jfc|JFC]] | Policy finance | Domestic SME / startup / agriculture / education-adjacent policy finance. |
+| [[financial-regulators/jbic|JBIC]] | Policy finance | Overseas investment, export, infrastructure, and strategic overseas finance. |
+| [[financial-regulators/dbj|DBJ]] | Policy finance | Mid-to-large enterprise development finance. |
 
-这些机构具有公共或准公共性质，并依据特定法律运行，而不是标准 FIEA / Banking Act 商业框架。系统图参见 [[policy-finance/japan-policy-finance-system]]。
+这些机构在性质上属于公共或准公共，依据特定法规而非标准的 FIEA／银行法商业框架运营。系统地图参见 [[policy-finance/japan-policy-finance-system]]。
 
-### 4. Communications and payment FG（电信 / EC 起源集团）
+### 4. Communications and payment FG (telecom / EC-origin conglomerates)
 
-| 实体 | 起源 | 银行 | 证券 | 保险 | 支付 | 卡 |
+| Entity | Origin | Bank | Securities | Insurance | Payment | Card |
 |---|---|---|---|---|---|---|
-| [[megabanks/au-fh|au FH]] | KDDI（telecom） | [[banking/au-jibun-bank|au Jibun Bank]] | au Kabucom Securities | [[non-life-insurers/au-insurance|au Insurance]] | [[payment-firms/au-payment|au Payment]]（au PAY） | au PAY Card |
+| [[megabanks/au-fh|au FH]] | KDDI (telecom) | [[banking/au-jibun-bank|au Jibun Bank]] | au Kabucom Securities | [[non-life-insurers/au-insurance|au Insurance]] | [[payment-firms/au-payment|au Payment]] (au PAY) | au PAY Card |
 | [[megabanks/paypay-fg|PayPay FG]] | SoftBank / LY | [[banking/paypay-bank|PayPay Bank]] | [[securities-firms/paypay-securities|PayPay Securities]] | PayPay Insurance | [[payment-firms/paypay|PayPay]] | [[card-issuers/paypay-card|PayPay Card]] |
-| [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten（EC） | [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Securities（49% sold to Mizuho FG） | Rakuten Life, Rakuten Non-life | Rakuten Pay | Rakuten Card |
+| [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten (EC) | [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Securities (49% sold to Mizuho FG) | Rakuten Life, Rakuten Non-life | Rakuten Pay | Rakuten Card |
 | [[megabanks/sony-fg|Sony FG]] | Sony Group | [[banking/sony-bank|Sony Bank]] | (planned) | [[life-insurers/sony-life|Sony Life]], Sony Assurance | — | — |
-| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo（telecom） | (planned 2026-07) | (planned) | (planned) | d Barai (d Payment) | d Card |
+| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo (telecom) | (planned 2026-07) | (planned) | (planned) | d Barai (d Payment) | d Card |
 
-这些 FG 围绕其核心 telecom 或 EC franchise 搭建金融牌照 stack。模式是：大型客户基础 + 品牌支付 → 增加银行 / 证券 / 保险 / 卡，以货币化客户生命周期。更广模式参见 [[fintech/embedded-wallet-fintech-disintermediation-overview]]。
+这些 FG 围绕其核心电信或电商特许经营构建了金融牌照堆栈。其模式为：庞大的客户基础 + 品牌支付 → 增加银行／证券／保险／卡片以变现客户生命周期。更广泛的模式参见 [[fintech/embedded-wallet-fintech-disintermediation-overview]]。
 
 ### 5. Independent securities / asset-management FG
 
-| 实体 | Anchor | 银行邻接 | 备注 |
+| Entity | Anchor | Bank adjacency | Notes |
 |---|---|---|---|
-| [[securities-firms/nomura-hd|Nomura HD]] | Nomura Securities | Nomura Trust and Banking (small) | 日本最大的独立证券公司；全球投资银行 franchise。 |
-| [[securities-firms/daiwa-sg|Daiwa SG]] | Daiwa Securities | Daiwa Next Bank | 日本第二大独立证券公司。 |
-| [[megabanks/sbi-hd|SBI HD]] | SBI Securities | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] | 以网络证券为主导；通过 Shinsei 收购银行。 |
+| [[securities-firms/nomura-hd|Nomura HD]] | Nomura Securities | Nomura Trust and Banking (small) | Largest independent Japanese securities firm; global investment-banking franchise. |
+| [[securities-firms/daiwa-sg|Daiwa SG]] | Daiwa Securities | Daiwa Next Bank | Second-largest independent Japanese securities firm. |
+| [[megabanks/sbi-hd|SBI HD]] | SBI Securities | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] | Online-securities led; bank acquired via Shinsei. |
 
 ### 6. Regional bank FG
 
-地方银行 FG（地银 FG）通常是两家或更多都道府县银行整合到单一控股公司之下。2010  之后的整合模式已产生 20+ 个此类 FG。完整族谱参见 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]]。
+地方银行 FG（地銀 FG）通常是两家或以上的县级银行合并于单一控股公司之下。2010  年以后的合并模式已产生 20 家以上此类 FG。完整家系图参见 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]]。
 
-Selected examples:
+精选示例：
 
-| 实体 | 成员银行 | Anchor region |
+| Entity | Member banks | Anchor region |
 |---|---|---|
 | [[regional-banks/concordia-fg|Concordia FG]] | Bank of Yokohama + Higashi-Nippon Bank | Kanto |
 | [[regional-banks/mebuki-fg|Mebuki FG]] | Joyo Bank + Ashikaga Bank | North Kanto |
@@ -96,27 +97,27 @@ Selected examples:
 | [[regional-banks/shizuoka-fg|Shizuoka FG]] | Shizuoka Bank | Shizuoka |
 | [[megabanks/resona-hd|Resona HD]] | Resona Bank + Saitama Resona Bank + Kansai Mirai Bank | Kanto / Kansai |
 
-## FSA 集团监管
+## FSA Conglomerate Supervision
 
-FSA 通过以下机制监管金融集团：
+FSA 通过以下方式监督金融康采恩：
 
-| 机制 | 功能 |
+| Mechanism | Function |
 |---|---|
-| Banking Act（银行法） | 通过 FSA approval 监管银行控股公司。 |
-| Insurance Business Act（保险业法） | 监管保险控股公司。 |
-| FIEA（金融商品交易法） | 监管证券控股公司和集团披露。 |
-| Financial Conglomerate Supervisory Guidelines | FSA 关于集团层面风险管理、资本充足、集团内交易、治理的指引。 |
-| G-SIB / D-SIB designation | 三大 megabank 为 FSB 指定 G-SIB。FSA 也指定 D-SIB（国内系统重要银行）并施加额外资本附加。 |
-| Reverse-stress-test and resolution planning | G-SIB 的 TLAC 要求；FSA 监管下的恢复与处置规划。 |
+| Banking Act (銀行法) | Governs bank holding companies under FSA approval. |
+| Insurance Business Act (保険業法) | Governs insurance holding companies. |
+| FIEA (金融商品取引法) | Governs securities holding companies and conglomerate disclosure. |
+| Financial Conglomerate Supervisory Guidelines | FSA guideline on group-level risk management, capital adequacy, intra-group transactions, governance. |
+| G-SIB / D-SIB designation | The three megabanks are FSB-designated G-SIBs. FSA also designates D-SIBs (domestic systemically important banks) with additional capital surcharges. |
+| Reverse-stress-test and resolution planning | TLAC requirements for G-SIBs; recovery and resolution planning under FSA supervision. |
 
-## 日本集团格局为何如此
+## Why Japan's Conglomerate Landscape Looks This Way
 
-1. **Universal-bank holding model（1998 放松监管之后）** — 日本从战前财阀（直接综合集团）转向战后 keiretsu（交叉持股），再在 1998  后转向 FHC 模式。1998  金融改革（金融 Big Bang）使控股公司能够整合银行 / 信托 / 证券 / 保险子公司。
-2. **Big-bang consolidation** — 1999–2005  megabank 整合把十几家历史城市银行整合为今天的三大 megabank。
-3. **Regional bank consolidation pressure** — 人口与经济压力推动 2010,  以来的持续地方银行整合，并形成 20+ 个 regional FG。
-4. **Communications-FG ascent** — 2010 年代，KDDI、SoftBank、Rakuten、Sony 等 telecom 和 EC 企业围绕核心 franchise 搭建金融牌照 stack，形成并行的非银行主导 FG 集群。
-5. **Trust-bank separation** — 信托银行长期在独立信托银行牌照下运行，SuMi Trust 是最大的纯信托集团。参见 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]]。
-6. **Public-finance separation** — 邮政、协同组织中央、政策金融机构依据特定法律运行，并非 FIEA / Banking Act 意义上的商业集团。参见 [[policy-finance/japan-policy-finance-system]]。
+1. **全能银行控股模式（1998  年放松管制以后）** — 日本从战前的财阀（本身即直接的康采恩）转向战后的系列（交叉持股），并在 1998  年以后转向 FHC 模式。1998  年的金融改革（金融大爆炸）使控股公司得以合并银行／信托／证券／保险子公司。
+2. **大爆炸式合并** — 1999–2005  年的超大型银行合并，从十余家历史性城市银行中产生了今天的三家超大型银行。
+3. **地方银行合并压力** — 人口与经济压力自 2010,  年以来推动了持续的地方银行合并，产生了 20 家以上地方 FG。
+4. **通信 FG 的崛起** — 2010 年代见证电信与电商企业（KDDI、软银、乐天、索尼）围绕其核心特许经营构建金融牌照堆栈，创造出一个并行的非银行主导 FG 集群。
+5. **信托银行的分离** — 信托银行业历来在独立的信托银行牌照下运营，SuMi 信托是最大的纯信托集团。参见 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]]。
+6. **公共金融的分离** — 邮政、合作中央及政策金融机构依据特定法规运营，并非 FIEA／银行法意义上的商业康采恩。参见 [[policy-finance/japan-policy-finance-system]]。
 
 ## Related
 

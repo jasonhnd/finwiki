@@ -1,19 +1,20 @@
 ---
-source: manufacturing/mitsubishi-heavy-export-finance
-source_hash: 2b7d2031e397167b
+source: manufacturer-finance/mitsubishi-heavy-export-finance
+source_hash: c3f8276af16f08ca
 lang: ja
 status: machine
 fidelity: ok
-title: "三菱重工 輸出金融 (Mitsubishi Heavy Export Finance)"
-translated_at: 2026-06-02T16:33:58.496Z
+title: "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)"
+translated_at: 2026-06-19T13:31:34.047Z
 ---
-# 三菱重工 輸出金融 (Mitsubishi Heavy Export Finance)
 
-## ウィキ上の位置づけ
+# Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)
 
-この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。産業コングロマリットの金融部門ピアとして [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] と照らして読む。政策金融側の対応関係については [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]、輸出支援スタック全体については [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]、より広い三菱系列の文脈については [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] と組み合わせる。
+## Wiki route
 
-## 要約
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] for the policy-finance counterpart, [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] for the export-support stack overview, and [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader Mitsubishi-keiretsu context.
+
+## TL;DR
 
 三菱重工業 (MHI, 7011) は、防衛・航空・エネルギー・産業機械・物流機器を抱える日本最大級の重工業メーカー。**Toyota / Sony / Hitachi と異なり、本体直系の銀行・保険・カード captive を持たない** が、**大型案件 (防衛装備、商業航空、火力・原子力タービン、船舶、化学プラント、ロケット) の輸出には常に [[financial-regulators/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険 + メガバンク シンジケート + ECA が組合せ** で必要になり、それらの組成・調整を MHI コーポレート財務とプロジェクト本部が一体で担う。manufacturing 視点では「メーカーが captive を持たず、**政策金融・商業銀行・ECA を組合せた輸出金融プラットフォーム** を実質的に運用する」モデル。直近では F-X (将来戦闘機) の **GIGO/GCAP プログラム** (日英伊共同開発、旧称「X-2 心神」の延長線)、**サファイア (Sapphire) 防衛装備イニシアチブ**、AP1000 系・三菱重工 PWR 海外案件、H-IIA / H3 ロケット商業化が論点。
 
@@ -70,7 +71,7 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 
 - **GCAP/GIGO (Global Combat Air Programme / GCAP International Government Organisation)**: 日英伊次世代戦闘機共同開発。旧三菱重工 X-2「心神」の技術的延長線にあり、F-X として日本の次期主力戦闘機を構成する。GCAP International Government Organisation が 2023 年末に英国本部で発足、日英伊 3 ヵ国による共同合弁事業会社が組成される。MHI は日本側プライム。商業金融の関与は限定的で、防衛予算ベース。
 - **「Sapphire (サファイア)」防衛装備イニシアチブ**: MHI 名乗りの防衛装備海外展開イニシアチブで、Anti-Air / 艦艇・ミサイル防衛系の輸出案件を欧州・東南アジア向けに進める。装備品輸出 3 原則の運用見直し後に商業案件化されつつあるが、NEXI カバーの活用設計が論点。
-- **AP1000 系・三菱重工 PWR 海外案件**: トルコ・東欧・中東への大型原子力輸出案件。JBIC + 政府保証 + 現地政府支援が組み合わさる典型ケース。
+- **AP1000 系・三菱重工 PWR 海外案件**: トルコ・東欧・中東への大型原子力輸出案件。JBIC + 政府保証 + 現地政府支援が組合さる典型ケース。
 - **H3 ロケット商業化**: JAXA 連携の H3 ロケットを商業打上市場に展開、衛星オペレーター契約 + 保険組成が必要。
 
 ## 3. KPI (FY2024 連結)
@@ -107,7 +108,7 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 - 原子力輸出は IAEA セーフガード、輸出先国の原子力規制当局審査、政府間原子力協定 (123 協定 / 日本の二国間原子力協定) が必要。
 - グリーン分野では METI GX 推進法、JBIC GX 枠の活用余地が広がる。
 
-## 関連項目
+## Related
 
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
@@ -115,7 +116,7 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
 - Mitsubishi Heavy Industries「Investor Information / Library」: https://www.mhi.com/jp/finance/library
 - Mitsubishi Heavy Industries「Financial Reports」: https://www.mhi.com/finance/library/financial

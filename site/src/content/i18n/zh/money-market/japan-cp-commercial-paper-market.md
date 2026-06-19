@@ -1,103 +1,103 @@
 ---
 source: money-market/japan-cp-commercial-paper-market
-source_hash: b67a46f694dbba93
+source_hash: e9ecbe2b0f0da38d
 lang: zh
 status: machine
 fidelity: ok
-title: "日本商业票据(CP)市场"
-translated_at: 2026-05-30T14:13:23.424Z
+title: "Japan CP (commercial paper) market"
+translated_at: 2026-06-19T06:09:18.105Z
 ---
 
-# 日本商业票据(CP)市场
+# Japan CP (commercial paper) market
 
-## Wiki 路线
+## Wiki route
 
-此条目位于 [[money-market/INDEX|money-market index]] 下。请与 [[money-market/japan-ncd-negotiable-cd-market|Japan NCD market]] 对照阅读以获得同类/对比背景,与 [[money-market/boj-open-market-operations|BoJ open market operations]] 对照阅读以获得更广泛的系统/监管边界。
+本条目位于 [[money-market/INDEX|money-market index]] 之下。请将其与 [[money-market/japan-ncd-negotiable-cd-market|Japan NCD market]] 对照阅读以了解同业／对比背景，并与 [[money-market/boj-open-market-operations|BoJ open market operations]] 对照以了解更广泛的体系／监管边界。
 
 ## TL;DR
 
-商业票据(CP)是由符合条件的日本公司、银行和非银行金融机构发行的短期无抵押本票。CP 是非实物形式,通过 [[securities/japan-securities-depository-center|JASDEC]] 在《账簿转账法》短期公司债框架下结算(短期社債振替制度)。对于 FinWiki,CP 是位于 [[money-market/japan-ncd-negotiable-cd-market|negotiable CDs]](银行发行)和 [[money-market/japan-tbill-treasury-discount-bill|Treasury Discount Bills]](主权发行)旁边的公司发行人短期融资通道。
+商业票据（CP）是日本的适格法人、银行及非银行金融机构发行的短期无担保本票。CP 已无纸化，并在短期公司债（短期社債振替制度）的账簿划拨法（Book-Entry Transfer Act）框架下经由 [[securities/japan-securities-depository-center|JASDEC]] 结算。对 FinWiki 而言，CP 是位于 [[money-market/japan-ncd-negotiable-cd-market|negotiable CDs]]（银行发行）与 [[money-market/japan-tbill-treasury-discount-bill|Treasury Discount Bills]]（主权发行）旁侧的法人发行体短期融资通道。
 
-CP 市场很重要,因为它是债券市场外蓝筹公司最可观的资金成本信号,并且日本央行在压力和政策扩张期间使用 CP 直接购买和 CP 回购操作作为 [[money-market/boj-open-market-operations|open market operation]] 工具包的一部分。
+CP 市场之所以重要，是因为它是债券市场之外蓝筹企业资金成本最易观测的信号，也因为日本央行在压力期与政策扩张期曾将 CP 买断与 CP 回购操作作为 [[money-market/boj-open-market-operations|open market operation]] 工具箱的一部分加以运用。
 
-## 市场地图
+## Market Map
 
-| 层级 | 功能 | FinWiki 路线 |
+| Layer | Function | FinWiki route |
 |---|---|---|
-| 发行人 | 公司、银行、非银行金融机构和特殊目的实体筹集短期资金。 | [[finance/japan-corporate-treasury-and-cash-management|corporate treasury]] |
-| 安排商/交易商 | 证券公司和银行安排、分销和做市 CP 发行。 | [[securities/japan-underwriting-market-structure]] |
-| 投资者 | 银行、资产管理公司、MMF/MRF、保险公司和外国投资者持有短期收益的 CP。 | [[money-market/japan-mmf-money-market-mutual-fund]] |
-| 结算/登记 | JASDEC 短期公司债账簿转账系统以非实物形式持有 CP 头寸。 | [[securities/japan-securities-depository-center]] |
-| 操作交易对手 | 日本央行接受符合条件的 CP 作为抵押品,并定期进行直接 CP 购买操作。 | [[money-market/boj-open-market-operations]] |
-| 统计 | 日本央行短期金融市场统计;JSDA CP 发行/未清偿表。 | 日本央行/JSDA 公开表面 |
+| Issuer | 法人、银行、非银行金融机构及特殊目的载体筹集短期资金。 | [[finance/japan-corporate-treasury-and-cash-management|corporate treasury]] |
+| Arranger / dealer | 证券公司与银行安排、分销并做市 CP 发行。 | [[securities/japan-underwriting-market-structure]] |
+| Investor | 银行、资产管理公司、MMF／MRF、保险公司及外国投资者为短期收益持有 CP。 | [[money-market/japan-mmf-money-market-mutual-fund]] |
+| Settlement / register | JASDEC 短期公司债账簿划拨系统以无纸化形式持有 CP 头寸。 | [[securities/japan-securities-depository-center]] |
+| Operation counterparty | 日本央行接受适格 CP 作为担保，并曾定期实施 CP 买断操作。 | [[money-market/boj-open-market-operations]] |
+| Statistics | 日本央行短期金融市场统计；JSDA 的 CP 发行／余额表。 | BoJ / JSDA public surfaces |
 
-## 工具机制
+## Instrument Mechanics
 
-| 要素 | 阅读 |
+| Element | Reading |
 |---|---|
-| 法律形式 | 《账簿转账法》下的短期公司债(短期社債),取代了旧的本票格式。 |
-| 期限范围 | 通常从 1 天到 1 年以下;大多数发行集中在 1 月、3 月及季度末期限。 |
-| 形式 | 通过 JASDEC 短期公司债账簿转账系统完全非实物化。 |
-| 发行方式 | 折扣基础;发行价格与赎回价值之间的差异是投资者收益。 |
-| 等级 | 国内 CP 等级(R&I、JCR、S&P Japan、Moody's Japan)通常为 a-1 /J-1  层;等级影响交易商投放和日本央行抵押品资格。 |
-| 税收 | 预扣税处理因投资者类型而异;机构 MRF/MMF 持有是主要零售渠道。 |
+| Legal form | 账簿划拨法下的短期公司债（短期社債），取代旧有的本票形式。 |
+| Maturity range | 通常为 1  天至 1  年以内；多数发行集中于 1  个月、3  个月及季末到期附近。 |
+| Form | 通过 JASDEC 的短期公司债账簿划拨系统完全无纸化。 |
+| Issuance method | 贴现方式；发行价与赎回价之差即投资者收益。 |
+| Rating | 国内 CP 评级（R&I、JCR、S&P Japan、Moody's Japan）通常为 a-1 ／ J-1  级；评级影响交易商分销及日本央行担保适格性。 |
+| Tax | 预扣税待遇因投资者类别而异；机构 MRF／MMF 持有是主导的零售渠道。 |
 
-## 期限和发行人组成
+## Tenor and Issuer Composition
 
-CP 发行集中在短期限,由高等级名称主导:
+CP 发行集中于短期限并由高评级名称主导：
 
-- **银行关联和银行集团 CP**:大型银行集团为短期融资和集团 ALM 的大量发行,包括金融子公司 CP 和银行控股公司计划。
-- **非银行 CP**:消费信贷、租赁和贸易融资发行人通过滚动 CP 项目为应收账款和营运资本融资。参见 [[finance/japan-consumer-credit-and-leasing-finance-landscape|consumer credit / leasing landscape]] 了解发行人集群。
-- **公司 CP**:蓝筹制造商、公用事业和贸易公司为营运资本、股息和税收支付时间发行 CP。贸易公司集群与 [[finance/japan-trading-house-finance-arm-landscape|sogo shosha finance arms]] 重叠。
-- **资产支持 CP(ABCP)**:由贸易应收账款、租赁应收账款或汽车贷款支持的资产证券化。ABCP 发行小于普通 CP,但是规范的结构化融资短期融资通道。
+- **银行系及银行集团 CP**：由超大型银行集团为短期融资及集团 ALM 进行的大规模发行，包括金融子公司 CP 及银行控股公司项目。
+- **非银行 CP**：消费信贷、租赁及贸易融资发行体通过滚动 CP 项目为应收账款与营运资金融资。发行体集群参见 [[finance/japan-consumer-credit-and-leasing-finance-landscape|consumer credit / leasing landscape]]。
+- **公司 CP**：蓝筹制造商、公用事业及商社为营运资金、分红及纳税时点发行 CP。商社集群与 [[finance/japan-trading-house-finance-arm-landscape|sogo shosha finance arms]] 重叠。
+- **资产支持 CP（ABCP）**：由贸易应收账款、租赁应收账款或汽车贷款支持的导管。ABCP 发行规模小于普通 CP，但是结构化融资短期资金的典型轨道。
 
-期限分布向 1 月和 3 月窗口倾斜,因为来自 MRF、银行财务和企业现金管理的投资者需求集中在那里。季度末和财政年度末的发行可能会显示利差扩大,当资产负债表容量收紧时。
+期限分布偏向 1 个月及 3 个月窗口，因为来自 MRF、银行财务及法人现金管理的投资者需求集中于此。季末与财年末附近的发行在资产负债表容量收紧时可能出现利差走阔。
 
-## 日本央行资格和操作
+## BoJ Eligibility and Operations
 
-| 日本央行工具 | CP 联系 |
+| BoJ tool | CP linkage |
 |---|---|
-| 抵押品框架 | 符合条件的 CP 被接受作为日本央行联合抵押品贷款和类似操作的抵押品。资格规则涵盖等级、剩余期限、发行人类型和非实物化地位。 |
-| CP 回购操作 | 日本央行进行了带有回购协议的 CP 购买操作作为供给资金工具。 |
-| 直接 CP 购买 | 在金融压力和量化扩张期间,日本央行进行了直接 CP 购买操作作为资产购买工具包的一部分。 |
-| 后 2024 框架 | 在 2024 年 3 月远离负利率的政权改变后,日本央行逐步撤销了非常规企业资产购买项目,同时保持标准的抵押品和回购便利。请始终检查当前日本央行市场操作页面以了解实时菜单。 |
+| Collateral framework | 适格 CP 被接受为日本央行针对共同担保的贷款及类似操作的担保。适格性规则涵盖评级、剩余期限、发行体类型及无纸化状态。 |
+| CP repo operations | 日本央行曾将附回购协议的 CP 买入操作作为资金供给工具加以实施。 |
+| Outright CP purchases | 在金融压力期与量化扩张期，日本央行曾将 CP 买断操作作为资产购买工具箱的一部分加以实施。 |
+| Post-2024 framework | 在 2024  年 3 月脱离负利率的体制转变之后，日本央行在保留标准担保及回购便利的同时，逐步收缩了非常时期的公司资产购买项目。务必查阅当前日本央行市场操作页面以了解实时菜单。 |
 
-CP 购买工具在历史上一直是重要的危机应对表面(2008-2009 GFC、2020 COVID-19 融资压力),但它不是永久的货币政策工具。
+CP 购买工具历来是重要的危机应对界面（2008-2009 GFC、2020 COVID-19 融资压力），但它并非永久性的货币政策工具。
 
-## 市场规模和阅读规则
+## Market Size and Reading Rules
 
-| 来源 | 显示内容 |
+| Source | What it shows |
 |---|---|
-| 日本央行短期金融市场统计 | 按工具的未清偿余额,包括 CP、TDB、NCD 和拆借余额。 |
-| JSDA CP 发行/未清偿表 | 发行量、未清偿余额、按行业和等级的发行人细分。 |
-| JASDEC 短期公司债统计 | 账簿转账登记余额显示非实物化 CP 持有。 |
-| 评级机构项目报告 | 单个发行人项目规模、等级和最近发行步伐。 |
+| BoJ short-term financial market statistics | 按工具划分的余额，包括 CP、TDB、NCD 及拆借余额。 |
+| JSDA CP issuance / outstanding tables | 发行量、余额、按行业及按评级的发行体细分。 |
+| JASDEC short-term corporate bond statistics | 显示无纸化 CP 持有的账簿划拨余额。 |
+| Rating agency program reports | 单个发行体的项目规模、评级及近期发行节奏。 |
 
-阅读 CP 未清偿余额作为企业短期融资需求的流量指标。将 CP 余额与 [[money-market/japan-ncd-negotiable-cd-market|NCD]] 和 [[money-market/japan-tbill-treasury-discount-bill|TDB]] 余额进行比较,以三角测量短期日元流动性停放的位置。
+将 CP 余额作为法人短期融资需求的流量指标来解读。将 CP 余额与 [[money-market/japan-ncd-negotiable-cd-market|NCD]] 及 [[money-market/japan-tbill-treasury-discount-bill|TDB]] 余额比较，以三角定位短期日元流动性的停泊之处。
 
-## JapanFG 相关性
+## JapanFG Relevance
 
-- 大型银行集团 [[megabanks/mufg]], [[megabanks/smfg]] 和 [[megabanks/mizuho-fg]] 是通过他们的银行账簿和信托子公司的主要 CP 投资者。
-- 证券公司 [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] 和 [[securities-firms/smbc-nikko]] 安排 CP 项目并运营主要分销。
-- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]] 和 [[financial-regulators/ueda-yagi-tanshi]] 中介短期资金,并提供与拆借和回购活动相邻的 CP 市场经纪支持。
-- [[financial-regulators/japan-securities-finance]] 参与与 CP 互动的抵押品和短期融资管道。
+- 超大型银行集团 [[megabanks/mufg]]、[[megabanks/smfg]] 及 [[megabanks/mizuho-fg]] 通过其银行账簿及信托子公司成为主要的 CP 投资者。
+- 证券公司 [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] 及 [[securities-firms/smbc-nikko]] 安排 CP 项目并运营一级分销。
+- [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]] 及 [[financial-regulators/ueda-yagi-tanshi]] 中介短期资金，并提供与拆借及回购活动相邻的 CP 市场经纪支持。
+- [[financial-regulators/japan-securities-finance]] 参与与 CP 相互作用的担保及短期融资管道。
 
-## 边界情况
+## Boundary Cases
 
-- **CP 与 NCD**:CP 是企业/非银行发行;NCD 是银行存款发行。投资者根据信用、税收和资产负债表处理进行选择。
-- **CP 与 TDB**:TDB 是主权折扣发行;CP 承担发行人信用风险,并以 TDB/OIS 价差交易。
-- **CP 与短期债**:残余期限不足 1年的短期公司债在经济上重叠,但遵循不同的法律和登记路线。
-- **CP 与 ABCP**:普通公司 CP 是无抵押品的;ABCP 是由应收账款池支持的结构化融资发行,应以结构化信用视角阅读。
+- **CP vs NCD**：CP 是法人／非银行发行；NCD 是银行存款发行。投资者基于信用、税务及资产负债表处理进行选择。
+- **CP vs TDB**：TDB 是主权贴现发行；CP 承担发行体信用风险，并以高于 TDB／OIS 的利差交易。
+- **CP vs short bonds**：剩余期限 1 年以内的短期公司债在经济上重叠，但遵循不同的法律及登记路径。
+- **CP vs ABCP**：普通公司 CP 为无担保；ABCP 是由应收账款池支持的结构化融资发行，需以结构化信用视角来解读。
 
-## 阅读检查清单
+## Reading Checklist
 
-1. 在阅读利差或定价之前,确认发行人类型(公司/银行关联/非银行/ABCP)。
-2. 验证等级和日本央行抵押品资格状态(如果问题涉及运营流动性)。
-3. 检查期限分布;不要假设平均期限等于标题期限范围。
-4. 区分主要发行步伐与未清偿余额变化。
-5. 针对 [[money-market/jgb-repo-market-japan|JGB repo]] 条件和日本央行操作菜单变化读取 CP 市场压力。
+1. 在解读利差或定价之前，确认发行体类型（公司／银行系／非银行／ABCP）。
+2. 若问题涉及运营流动性，核实评级及日本央行担保适格性状态。
+3. 检查期限分布；不要假设平均期限等同于头条到期分桶。
+4. 将一级发行节奏与余额变化区分开。
+5. 将 CP 市场压力对照 [[money-market/jgb-repo-market-japan|JGB repo]] 状况及日本央行操作菜单的变化来解读。
 
-## 相关条目
+## Related
 
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
@@ -116,10 +116,10 @@ CP 购买工具在历史上一直是重要的危机应对表面(2008-2009 GFC、
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- 日本央行:货币市场概览和短期金融市场统计。
-- 日本央行:记录 CP 资格和 CP 相关操作工具的开放市场操作页面。
-- JSDA:商业票据发行和未清偿统计表面。
-- JASDEC:短期公司债账簿转账系统概览。
-- FSA:关于短期公司债财务工具分类的 FIEA 常见问题。
+- Bank of Japan: Money Market overview and short-term financial market statistics.
+- Bank of Japan: open market operations page documenting CP eligibility and CP-related operation tools.
+- JSDA: commercial paper issuance and outstanding statistics surface.
+- JASDEC: short-term corporate bond book-entry system overview.
+- FSA: FIEA FAQ on financial-instruments classification relevant to short-term corporate bonds.

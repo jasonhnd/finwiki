@@ -1,49 +1,91 @@
 ---
 source: leasing-firms/nec-leasing
-source_hash: 6661db581eac7f04
+source_hash: eb00f81df00ae2ba
 lang: en
 status: machine
 fidelity: ok
-title: "NEC Capital Solutions"
-translated_at: 2026-06-01T00:41:50.403Z
+title: "NECキャピタルソリューション"
+translated_at: 2026-06-19T06:09:18.040Z
 ---
-# NEC Capital Solutions
+
+# NECキャピタルソリューション
 
 ## Wiki route
 
-This translated worker file keeps the JapanFG source route intact. The protected anchors below preserve source links, dates, figures, markers, and numbered headings for later unmasking.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/ricoh-leasing|リコーリース]] for peer / contrast context (both are operating-company captive lease) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[leasing-firms/fuyo-lease|芙蓉総合リース]] for the upper-mid-tier leasing peer set.
 
 ## TL;DR
 
-NEC Capital Solutions is treated here as a listed leasing and finance company rooted in NEC group captive leasing. The page scope is IT equipment leasing, public-sector and PFI finance, solution finance, and peer comparison with major leasing companies. This translation keeps to the public-source boundary of the original entry and does not add new factual claims beyond the protected source material.
+NEC Capital Solutions (formerly NEC Lease) was established in 1978 年 as the captive leasing subsidiary of the NEC group, and is now an upper-mid-tier integrated leasing company listed on TSE PRIME 8793 . Starting from a captive lease base of NEC-made IT equipment, servers, network equipment, and PCs, it has diversified into IT-service-fused finance, PFI / concession, leasing for local governments, and environment-related leasing. Its business profile of "IT-equipment specialization + solution-proposal-type leasing" differentiates it from other leasing companies, and its contrast with Ricoh Leasing (Ricoh products) is the typical operating-company captive-leasing peer set.
 
-## Boundary map
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Entity | NEC Capital Solutions |
-| Functional role | a listed leasing and finance company rooted in NEC group captive leasing |
-| Translation boundary | Preserve the original public-source anchors and avoid expanding beyond the source file. |
+| Legal name | NECキャピタルソリューション株式会社 / NEC Capital Solutions Limited |
+| Listing | Listed on TSE PRIME 8793  |
+| Headquarters | Minato-ku, Tokyo |
+| Founded | 1978-04-01 (formerly Nippon Electric Lease → later NEC Lease → 2006  renamed to NEC Capital Solutions) |
+| Parent / group | NEC is the top shareholder. NEC group + strategic shareholders (formerly Mizuho-affiliated / formerly Sumitomo-affiliated bank syndicate) |
+| License route | No banking license. Holds money-lending business registration (FSA money-lending business registration) for the relevant scope of business |
+| Wiki role | NEC group's captive lease + general integrated leasing hybrid function. Specializes in the IT, local-government, and PFI domains |
 
-## Business role
+## 2. Business lines
 
-- Identifies the entity's position within Japan's financial system.
-- Separates the operating company, holding company, license route, group perimeter, and peer set where relevant.
-- Keeps historical, regulatory, product, and strategy references tied to the protected source anchors.
+- **IT equipment leasing (vendor lease)**: captive lease of parent NEC-made servers, network equipment, and storage
+- **PC / OA equipment leasing**: general leasing for corporations
+- **Solution leasing**: packaging IT equipment + operations, maintenance, and migration
+- **Leasing for local governments / public sector**: local-government IT infrastructure, government-building facilities, PFI-related
+- **PFI / concession**: private-operation project finance for public infrastructure
+- **Environment-related**: leasing of energy-saving equipment such as solar power generation and LED
+- **General equipment leasing**: machine tools and industrial machinery
+- **Real-estate-related leasing**: data-center buildings, etc.
 
-## Peer / contrast
+## 3. Strategy & competitive position
 
-Read this entry together with the related banks, insurers, leasing companies, asset managers, cooperatives, policy bodies, and group pages represented by the protected anchors below.
+NEC Capital Solutions is positioned around "IT-equipment specialization + local-government / public-sector strength." Compared with the big three leasing companies ([[leasing-firms/orix-corp|オリックス]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century|東京センチュリー]]) and [[leasing-firms/fuyo-lease|芙蓉総合リース]], it is mid-ranked in business scale, but holds unique competitive strength in **PFI / IT projects for local governments**.
 
-## Preserved source anchors
+Its contrast with Ricoh Leasing ([[leasing-firms/ricoh-leasing|リコーリース]]) is the typical operating-company captive-lease peer set:
 
-- [[leasing-firms/INDEX|leasing-firms INDEX]]; [[leasing-firms/ricoh-leasing|Ricoh Leasing]]; [[banking/INDEX|banking index]]; [[leasing-firms/fuyo-lease|Fuyo General Lease]]; 1978; 8793; 1978-04-01; 2006; [[leasing-firms/orix-corp|Orix]]; [[leasing-firms/tokyo-century|Tokyo Century]].
-- 8566; [[finance/japan-acquisition-finance|Japan acquisition finance]]; [[leasing-firms/ricoh-leasing|Ricoh Leasing]]; [[card-issuers/toyota-finance|Toyota Finance]]; [[leasing-firms/fuyo-lease|Fuyo General Lease]]; [[leasing-firms/mizuho-lease|Mizuho Leasing]]; [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]; [[banking/INDEX|banking index]]; 8793; 2026-05-24.
+| Aspect | NEC Capital Solutions | [[leasing-firms/ricoh-leasing|リコーリース]] |
+|---|---|---|
+| Parent | NEC (IT infrastructure) | Ricoh (OA equipment, multifunction printers) |
+| Captive axis | Servers, network IT | Multifunction printers, printers |
+| Non-lease revenue | Local-government PFI, solutions | Collection agency, factoring |
+| Listing | TSE PRIME 8793 | TSE PRIME 8566 |
+
+In line with the trend of NEC itself transforming into an "IT solutions / systems integration company," NEC Capital Solutions is also shifting from "simple IT leasing" to "solution finance including IT operations," which is a strategic characteristic.
+
+In the context of [[finance/japan-acquisition-finance|日本アクイジションファイナンス]], long-term project finance in PFI / concession for local governments is the main area of involvement.
+
+## 4. Why this page matters
+
+- A representative example of operating-company captive leasing (a peer set alongside [[leasing-firms/ricoh-leasing|リコーリース]] / [[card-issuers/toyota-finance|トヨタファイナンス]])
+- The fusion of IT infrastructure × leasing in the local-government / PFI domain is a competitive area that other leasing companies do not have
+- An angle for understanding the linkage with NEC's own business-structure change (hardware → solutions)
+- A sample of the differentiation axis of upper-mid-tier leasing (if you cannot win on scale, win on specialization)
 
 ## Related
 
-- Related entries, dates, figures, source markers, and section numbers are preserved in the protected source anchors.
+- [[leasing-firms/ricoh-leasing|リコーリース]]
+- [[leasing-firms/fuyo-lease|芙蓉総合リース]]
+- [[leasing-firms/mizuho-lease|Mizuho Leasing]]
+- [[leasing-firms/tokyo-century|東京センチュリー]]
+- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[leasing-firms/orix-corp|オリックス]]
+- [[card-issuers/toyota-finance|トヨタファイナンス]]
+- [[banking/INDEX|banking index]]
+- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
 ## Sources
 
-- Public company, regulator, industry-association, IR, disclosure, and source materials are those represented by the original entry and the protected anchors above.
+- NEC Capital Solutions official corporate site (https://www.necap.co.jp/)
+- NEC Capital Solutions IR / securities reports
+- Japan Leasing Association (JLA) statistics (https://www.leasing.or.jp/)
+- TSE PRIME 8793  listing public information
+- NEC group corporate public information
+
+---
+
+> [!info] Verification status
+> confidence: **likely** (based on public information 2026-05-24). The parent-subsidiary strategy driven by the linkage with NEC's own business-structure change (hardware → IT solutions) is a variable factor. Details on the revenue contribution of local-government PFI projects should be checked against the latest version of IR materials.

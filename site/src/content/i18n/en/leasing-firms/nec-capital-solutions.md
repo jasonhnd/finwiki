@@ -1,109 +1,115 @@
 ---
 source: leasing-firms/nec-capital-solutions
-source_hash: c9333a9a24ecba06
+source_hash: ddf1ef8ab2ad52c0
 lang: en
 status: machine
 fidelity: ok
-title: "NEC Capital Solutions"
-translated_at: 2026-06-01T00:41:50.394Z
+title: "NEC Capital Solutions (NECキャピタルソリューションズ)"
+translated_at: 2026-06-19T06:09:18.028Z
 ---
-# NEC Capital Solutions
+
+# NEC Capital Solutions (NECキャピタルソリューションズ)
+
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/hitachi-capital|former Hitachi Capital]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] for vendor-system-integrator leasing peer context, [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]] for large general lessor peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/hitachi-capital|日立キャピタル（旧）]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] for vendor-system-integrator leasing peer context, [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] for large general lease peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-NEC Capital Solutions Limited is a **mid-sized general leasing company linked to the NEC group**, listed on TSE PRIME under **8793**. It was founded in 1978-08 as the former Japan Electric Leasing Co., Ltd. to lease NEC-related equipment, then changed its name to the current NEC Capital Solutions. Its core is **NEC Group vendor finance for IT solutions, telecommunications equipment, and industrial equipment**, while it has also expanded into non-NEC deals such as medical equipment, industrial facilities, ships / aircraft, and the public sector. NEC's ownership is in the 37-40% range and treated under the equity method, so it is not a consolidated subsidiary, but strategic and sales cooperation remains close. Peers include vendor-linked names such as [[leasing-firms/hitachi-capital|former Hitachi Capital]], Fujitsu Leasing, Ricoh Leasing, and [[leasing-firms/ricoh-leasing|Ricoh Leasing]], as well as large general lessors [[leasing-firms/orix-corp|ORIX]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]].
+NEC Capital Solutions Limited is a **mid-tier general leasing company in the [[leasing-firms/INDEX|leasing-firms INDEX]] group**, listed on TSE PRIME **8793**. Established in 1978-08  as the former "Nippon Electric Lease" primarily for leasing NEC-group equipment, it was later renamed and is now "NEC Capital Solutions." Its core is the **NEC-group vendor-finance base covering IT solutions, telecom equipment, and industrial equipment**, while it continues to expand into non-NEC business (medical equipment, industrial facilities, ships / aviation, public sector). With **parent NEC's equity stake in the 37-40% range (equity-method affiliate)**, it is not a consolidated subsidiary, but the strategic alliance and sales collaboration are close. Competitors include the same vendor-group [[leasing-firms/hitachi-capital|日立キャピタル]] / Fujitsu Leasing / Ricoh Leasing ([[leasing-firms/ricoh-leasing|リコーリース]]), and the top general-leasing names [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]].
 
-## 1. Entity / shareholders
+## 1. Corporate entity / shareholders
 
-- **Name**: NEC Capital Solutions Limited.
-- **Established**: 1978-08 as the former Japan Electric Leasing Co., Ltd.
-- **Name change**: renamed NEC Capital Solutions Limited in 2002-04.
-- **Head office**: Shinagawa Intercity C Tower, 15-3, Konan 2-chome, Minato-ku, Tokyo, 108-6219.
-- **Capital**: JPY 3.7 billion.
-- **Listing segment**: TSE PRIME **8793**.
-- **Major shareholder**: NEC Corporation, with an equity-method ownership ratio in the 30-40% range; trust accounts, affiliates, and trading partners also appear in the register.
-- **Representative**: President and Representative Director.
-- **Employees**: approximately 500 non-consolidated and approximately 800 consolidated.
+- **Corporate name**: NEC Capital Solutions Limited (Japanese: NECキャピタルソリューションズ株式会社)
+- **Established**: 1978 年 8 月 (former "Nippon Electric Lease Co., Ltd.")
+- **Renaming**: 2002 年 4 月 renamed "NEC Capital Solutions Limited"
+- **Head office location**: 〒108-6219  Shinagawa Intercity Tower C, 2 -chome 15 -3 号 Konan, Minato-ku, Tokyo
+- **Capital**: over 37 億円
+- **Listing category**: TSE PRIME **8793**
+- **Major shareholders**:
+  - **NEC Corporation (Nippon Electric)** equity-method application ratio (30-40% range)
+  - Trust accounts, affiliated companies, business partners
+- **Representative**: President & Representative Director
+- **Number of employees**: approx. 500 名 non-consolidated, approx. 800 名 consolidated
 
-## 2. Licenses / industry registration
+## 2. Licenses / industry registrations
 
-- **Money lending**: registered money-lending business for leasing / finance-adjacent lending.
-- **Industry associations**: member of the Japan Leasing Association and lease-finance industry groups that function as main self-disciplinary bodies.
-- **Financial instruments business**: Type II financial instruments business / investment advisory functions in some subsidiaries.
+- **Money-lending business**: money-lending business registration (incidental money-lending for lease / finance operations)
+- **Industry-body membership**:
+  - **Japan Leasing Association (public-interest incorporated association)** (the industry's main self-regulatory organization)
+  - Japan Lease / Finance Association
+- **Financial instruments business**: Type II Financial Instruments Business / Investment Advisory Business (some subsidiaries)
 
 ## 3. Business segments
 
-| Segment | Contents | Customers |
+| Segment | Content | Customers |
 |---|---|---|
-| **IT solutions / services** | Leasing of NEC-related IT equipment, including servers, storage, PCs, networks, and software | Corporate / public sector |
-| Telecommunications equipment leasing | Leasing of NEC-related telecom facilities, base stations, and network equipment | Telecom operators / large enterprises |
-| Industrial equipment leasing | Machine tools, medical equipment, printing equipment | Mid-sized and SME customers |
-| Real estate-related | Industrial and logistics real-estate finance | Corporates |
-| Public sector | Local-government leasing, PFI, and maintenance / management | Public sector |
-| Overseas business | IT equipment leasing in the United States and Asia | Corporates |
-| Environment / renewable energy | Solar and renewable-energy equipment finance | Corporates / SPCs |
+| **IT solutions / services** | NEC-group IT equipment (servers, storage, PCs, networks) + software leasing | Corporate / public |
+| Telecom equipment leasing | NEC-group telecom facilities (base stations, network equipment) leasing | Telecom carriers / large enterprises |
+| Industrial equipment leasing | Machine tools, medical equipment, printing machines | Mid-tier / SME |
+| Real-estate related | Industrial real estate / logistics real estate finance | Corporate |
+| Public sector | Leasing for municipalities / PFI / designated management | Public |
+| Overseas business | IT equipment leasing in the US and Asia | Corporate |
+| Environment / renewables | Solar / renewable-energy facility finance | Corporate / SPC |
 
-## 4. Relationship with parent group: NEC
+## 4. Parent-group relationship (NEC)
 
-- **NEC ownership**: equity-method affiliate rather than a consolidated lease subsidiary of NEC; strategic partner.
-- **Vendor finance**: NEC sells IT solutions, telecom equipment, and public systems to customers, while NEC Capital takes on the leasing, installment-sale, or financing component. This is the classic vendor-finance model.
-- **NEC brand linkage**: use of NEC's brand, customer base, and sales network is central to the business base.
-- **Synchronization with NEC strategy**: as NEC shifts toward cloud, SaaS, and DX, NEC Capital also adapts from ownership models toward services, XaaS, and recurring contracts.
+- **NEC (Nippon Electric) equity stake**: equity-method application — not a consolidated-basis subsidiary of NEC, but a strategic partner
+- **Vendor finance**: NEC sells IT solutions, telecom equipment, and public systems to customers → NEC Capital takes on the leasing / installment / financing of that equipment, a typical vendor-finance model
+- **NEC brand collaboration**: leveraging the "NEC" brand, customer base, and sales network is the core of the business base
+- **Synchronization with NEC strategy**: in line with NEC's shift to cloud / SaaS / DX, it also advances the move from an ownership model → servicization (XaaS / recurring)
 
-## 5. Competition / industry position
+## 5. Competition / industry positioning
 
-| Category | Players | Scale image |
+| Category | Players | Scale |
 |---|---|---|
-| Large general leasing | [[leasing-firms/orix-corp|ORIX]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|Mizuho Leasing]] | Operating assets around JPY 5-10 trillion |
-| Vendor-linked leasing | **NEC Capital** / [[leasing-firms/hitachi-capital|former Hitachi Capital]], now integrated into Mitsubishi HC Capital, Fujitsu Leasing, [[leasing-firms/ricoh-leasing|Ricoh Leasing]], Canon Finance | Operating assets around JPY 500 billion to JPY 1 trillion |
-| Bank-linked leasing | Megabank-affiliated leasing companies | Several trillion yen in operating assets |
-| Trading-house-linked leasing | Mitsui & Co. and Itochu-linked names | Hundreds of billions to trillion-yen scale |
+| Large general leasing | [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|みずほリース]] | Operating assets over 5 兆〜10 兆円 |
+| Vendor-group leasing | **NEC Capital** / [[leasing-firms/hitachi-capital|日立キャピタル]] (now integrated into Mitsubishi HC Capital) / Fujitsu Leasing / [[leasing-firms/ricoh-leasing|リコーリース]] / Canon Finance | Operating assets in the 5,000 億〜trillion-yen range |
+| Bank-group leasing | Each megabank-affiliated leasing company | Operating assets in the several-trillion-yen range |
+| Trading-company-group leasing | Mitsui & Co. / Itochu-affiliated | Operating assets from several hundred billion〜trillion yen |
 
-NEC Capital is a representative mid-sized vendor-linked lessor.
+NEC Capital is the representative of the mid-tier, vendor-group segment.
 
-## 6. Strategy / recent trends
+## 6. Strategy / recent developments
 
-- **Shift to XaaS / recurring models**: movement from traditional finance leases toward IT-service-fee and SaaS-style contracts.
-- **Environment and renewable-energy finance**: investment in renewable-energy facilities, storage batteries, EV charging, hydrogen-related assets, and similar fields.
-- **Overseas business in the United States and Asia**: U.S. IT equipment leasing subsidiary and NEC-linked deals in Asia, especially Southeast Asia.
-- **Public-sector strengthening**: leasing proposals for local-government DX, public-infrastructure renewal, school GIGA programs, and administrative digitalization.
-- **Deeper NEC strategic alliance**: NEC Capital accompanies NEC's overseas IT solutions and telecom equipment deals as the finance function.
-- **Data-center finance**: equipment leasing and project finance for data centers driven by AI and cloud demand.
+- **Shift to "XaaS / recurring" type**: migration from traditional finance-lease type to IT-service-fee type (DaaS / SaaS) contracts
+- **Environment / renewable-energy finance**: expanding investment into renewable-energy facilities / storage batteries / EV charging / hydrogen-related, etc.
+- **Overseas business (US / Asia)**: US IT-equipment leasing subsidiary, NEC-collaboration projects in Asia (Southeast Asia)
+- **Public-sector strengthening**: providing leasing in municipal DX / public-infrastructure renewal (school GIGA School / administrative digitalization)
+- **Deepening the strategic alliance with NEC**: NEC Capital accompanies NEC's overseas IT-solution / telecom-equipment projects with a finance function
+- **Data-center finance**: data-center facility leasing / project finance amid expanding AI / cloud demand
 
-## 7. Key KPI overview / consolidated
+## 7. Key KPIs (overview / consolidated)
 
-| Item | Scale image |
+| Item | Scale |
 |---|---|
-| Consolidated operating assets | Around JPY 900 billion to JPY 1 trillion |
-| Consolidated operating revenue | JPY 150-200 billion range |
-| Consolidated ordinary profit | Around JPY 10 billion |
-| Listing | TSE PRIME 8793  |
-| NEC ownership ratio | 37-40% range, equity-method affiliate |
-| Employees, consolidated | Approximately 800 |
+| Consolidated operating assets | approx. 9,000 億円〜1 兆円 range |
+| Consolidated operating revenue | 1,500-2,000 億円 range |
+| Consolidated ordinary profit | 100 億円 range |
+| Listing | TSE PRIME 8793 |
+| NEC equity ratio | 37-40% range (equity-method application) |
+| Employees (consolidated) | approx. 800 名 |
 
-For details, see EDINET securities reports and NEC Capital IR earnings releases.
+For details, refer to the EDINET securities report and NEC Capital IR earnings reports.
 
 ## 8. Risk / regulatory issues
 
-- **NEC parent-subsidiary listed-company governance**: listed subsidiary / equity-method affiliate status creates parent-company conflict and minority-shareholder protection issues, especially under TSE PRIME market reforms and parent-subsidiary listing debates.
-- **Interest-rate resilience**: margin management when lease funding costs rise.
-- **NEC business-structure change risk**: a shrinking NEC hardware business or cloud shift can change the quality and volume of lease assets.
-- **Environment / ESG disclosure**: TCFD and sustainability factors are increasingly built into lease transactions.
-- **Public-sector procurement rules**: compliance for local-government and national-government projects, including antitrust and bid-rigging prevention.
+- **NEC parent-subsidiary listing governance**: conflicts of interest between the listed subsidiary (strictly, an equity-method affiliate) and the parent company, and minority-shareholder-protection issues — a subject of the TSE PRIME market reform / parent-subsidiary-listing review debate
+- **Resilience to rising interest rates**: spread management in a phase of rising funding rates for lease originations
+- **Risk of changes in NEC's business structure**: qualitative changes in lease-target assets accompanying the shrinkage of NEC's hardware business / shift to cloud
+- **Environment / ESG disclosure**: climate-related financial disclosure (TCFD) / incorporating sustainability factors into lease transactions
+- **Public-sector procurement rules**: compliance for municipal / national projects (antitrust law / bid-rigging prevention)
 
 ## Related
 
-- [[leasing-firms/hitachi-capital|former Hitachi Capital]]: vendor-linked competitor, legacy route
-- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]: post-integration vendor-linked major player
-- [[leasing-firms/ricoh-leasing|Ricoh Leasing]]: vendor-linked competitor
-- [[leasing-firms/tokyo-century|Tokyo Century]]: large general lessor
-- [[leasing-firms/orix-corp|ORIX]]: largest general lessor
-- [[leasing-firms/smfl|SMFL]]: bank-linked leasing
-- [[leasing-firms/mizuho-lease|Mizuho Leasing]]: bank-linked leasing
+- [[leasing-firms/hitachi-capital|日立キャピタル]] — vendor-group competitor (former)
+- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] — post-integration vendor-group major
+- [[leasing-firms/ricoh-leasing|リコーリース]] — vendor-group competitor
+- [[leasing-firms/tokyo-century|東京センチュリー]] — general-leasing major
+- [[leasing-firms/orix-corp|オリックス]] — largest general-leasing company
+- [[leasing-firms/smfl|SMFL]] — bank-group leasing
+- [[leasing-firms/mizuho-lease|みずほリース]] — bank-group leasing
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
@@ -111,6 +117,6 @@ For details, see EDINET securities reports and NEC Capital IR earnings releases.
 
 - NEC Capital Solutions official company profile: https://www.necap.co.jp/company/profile/
 - NEC Capital Solutions official IR: https://www.necap.co.jp/ir/
-- EDINET disclosure search: https://disclosure2.edinet-fsa.go.jp/
-- Japan Leasing Association: https://www.lease.or.jp/
-- NEC securities report, equity-method affiliate disclosure section.
+- EDINET disclosure document search: https://disclosure2.edinet-fsa.go.jp/
+- Japan Leasing Association official: https://www.lease.or.jp/
+- NEC securities report (equity-method affiliate disclosure section)

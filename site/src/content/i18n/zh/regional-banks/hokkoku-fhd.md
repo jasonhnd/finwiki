@@ -1,121 +1,120 @@
 ---
 source: regional-banks/hokkoku-fhd
-source_hash: e8f0c64f835e4c32
+source_hash: c96b91813039ecb9
 lang: zh
 status: machine
 fidelity: ok
-title: "Hokkoku Financial Holdings（历史上的 Hokkoku FHD）"
-translated_at: 2026-05-31T15:29:03.933Z
+title: "北国 FHD（北國 FHD / Hokkoku FHD）"
+translated_at: 2026-06-19T12:43:19.866Z
 ---
 
-# Hokkoku Financial Holdings（历史上的 Hokkoku FHD）
+# 北国 FHD（北國 FHD / Hokkoku FHD）
 
-## Wiki 路径
+## Wiki 路线
 
-本条目属于 [[regional-banks/INDEX|regional-banks INDEX]]。可结合 [[regional-banks/fukuoka-fg|Fukuoka Financial Group (FFG)]] 进行同业对照，并结合 [[banking/INDEX|banking index]] 了解更广泛的银行与监管背景。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。请对照 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]（同业 / 对比语境）以及 [[banking/INDEX|banking index]]（更广泛的系统 / 监管边界）一并阅读。
 
-当前名称路径：[[financial-regulators/cci-group|CCI Group]]。本页保留为历史上的 Hokkoku FHD 桥接页，用于承接较早研究笔记与反向链接。
+现用名路线：[[financial-regulators/cci-group|CCIグループ]]。本页作为旧名 Hokkoku FHD 的历史桥接，保留供较早的研究笔记与链接使用。
 
 ## 概览
 
-Hokkoku Financial Holdings 是一家以石川县为基础的地区银行控股公司，曾以代码 7381 在东京证券交易所 Prime Market 上市。该公司于 2021-10-01 由 Hokkoku Bank 通过单独股份转移设立，并于 2025-10-01 将商号变更为 [[financial-regulators/cci-group|CCI Group]]。虽然其资产规模处于中型地区银行梯队，但该集团在日本地区银行中长期被视为较为例外的数字化领先者。
+以石川县为地盘的地方银行控股公司（东证 PRIME 7381）。由 2021-10-01 北国银行单独股份转移成立，并于 2025-10-01 更名为 [[financial-regulators/cci-group|株式会社CCIグループ]]。资产规模属中坚地银档次，但作为**地银业界别具一格的「数字先进地银」**而闻名。在 2008 年率先在地银中采用 Microsoft Azure，在 2010 年将核心系统迁移至开放式核心系统（Windows 服务器 + .NET 基础），在 2017 年将营业网点柜台终端革新为 Surface，**贯彻了领先业界常识 10 年以上的 IT 路线**。2023 年设立 ICT 咨询子公司「Digital Value」与 BaaS 平台「Tonari」，推进**向「地银发数字平台运营商」的业态转型**。是与 [[regional-banks/fukuoka-fg]]（みんなの銀行）并列的地银 DX 领军者之一。
 
-其战略画像由一套较早启动的技术计划塑造：2008 年采用 Microsoft Azure，2010 年将核心银行系统迁移至开放式 Windows Server 和 .NET 架构，2017 年以 Surface 设备替代营业网点柜面终端。2023 年，集团设立 ICT 咨询子公司 Digital Value，并推出 Tonari BaaS 平台，将自身定位为由地区银行发展而来的数字平台提供方。与 [[regional-banks/fukuoka-fg|Fukuoka Financial Group 的 Minna Bank]] 一样，Hokkoku FHD 是日本地区银行数字化转型的参考案例之一。
+## 1。公司概况
 
-## 1. 公司概况
+**正式名称**：株式会社北國フィナンシャルホールディングス
+**英名**：Hokkoku Financial Holdings, Inc.
+**证券代码**：东证 PRIME 7381
+**设立**：2021-10-01（北国银行单独股份转移实现控股公司化）
+**总部**：石川县金泽市广冈 2-12-6（北国银行总行大楼）
 
-**法定名称**: Hokkoku Financial Holdings, Inc.
-**证券代码**: Tokyo Stock Exchange Prime 7381
-**设立时间**: 2021-10-01，由 Hokkoku Bank 通过单独股份转移改组为控股公司结构
-**总部**: Hokkoku Bank Head Office Building, 2-12-6 Hirooka, Kanazawa, Ishikawa
+### 主要子公司・持股
 
-### 主要子公司与持股结构
-
-```text
-Hokkoku FHD（上市控股公司，7381）
-  - Hokkoku Bank（100%）-- 以石川县领先份额为核心的地区银行业务
-    - 以石川县为基础，并在富山、福井、东京、大阪及邻近市场设有网点
-  - Digital Value（100%，设立于 2023-04）-- ICT 咨询子公司
-    - 企业 DX 支援与自治体 DX 支援
-  - Hokkoku Management（100%）-- 管理咨询与区域企业支援
-  - Hokkoku Credit（100%）-- 信用卡业务
-  - Hokkoku e Payment（100%）-- 支付相关业务
+```
+北国 FHD（控股公司・上市 7381）
+  ├── 北国银行（100%）── 石川县份额 No.1 地银・核心事业
+  │     └── 石川县内 + 富山・福井・东京・大阪等邻接展开
+  ├── Digital Value（100%, 2023-04 设立）── ICT 咨询子公司
+  │     └── 面向法人的 DX 支援・自治体 DX
+  ├── 北国 Management（100%）── 经营咨询・地域企业支援
+  ├── 北国 Credit（100%）── 信用卡
+  └── 北国 e Payment（100%）── 结算相关
 ```
 
-Tonari 更适合被理解为由 Hokkoku Bank 与 Digital Value 面向其他地区银行及本地金融机构提供的 BaaS（Banking as a Service）平台品牌，而不是传统意义上的子公司。
+「Tonari」与其说是子公司，不如说是北国银行 / Digital Value 面向其他地银・地域金融机构提供的 **BaaS（Banking as a Service）平台** 品牌。
 
-## 2. 合并与公司沿革
+## 2。合并・沿革
 
-- **1943**：Hokkoku Bank 通过战时整合设立，整合对象包括 Kashu Bank、Kano Godo Bank 与 Noto Bank。
-- **2008**：Hokkoku 成为首家采用 Microsoft Azure 的日本地区银行，因而受到业界关注。
-- **2010**：该行将核心银行系统迁移至开放式 Windows 和 .NET 架构，这在地区银行板块中较为少见。
-- **2017**：营业网点柜面终端被 Surface 平板替代，以支持更广泛的去纸化运营改造。
-- **2021-10-01**：Hokkoku FHD 通过单独股份转移成立，Hokkoku Bank 成为其全资子公司。
-- **2023-04**：Digital Value 设立为 ICT 咨询子公司，同时推出 Tonari BaaS 平台。
-- **2024-01-01**：能登半岛地震使受灾地区金融服务连续性成为直接的经营与社会责任议题。
-- **2024**：集团提出面向区域 DX 平台服务的新中期计划。
+- **1943**：北国银行 设立（加州银行 + 加能合同银行 + 能登银行 等的战时整合）
+- **2008**：作为地银率先采用 Microsoft Azure，震动业界
+- **2010**：将核心系统迁移至 **开放式核心系统**（Windows + .NET 基础）— 在地银业界前所未有，引发话题
+- **2017**：将营业网点柜台终端革新为 **Surface 平板**，从根本上重审纸质业务
+- **2021-10-01**：以单独股份转移成立北国 FHD，北国银行成为 100% 子公司
+- **2023-04**：设立 ICT 咨询子公司 **Digital Value**，同时开始提供 BaaS 平台 **「Tonari」**
+- **2024-01-01**：能登半岛地震发生（震源地为石川县，受灾地金融职能维持成为经营课题）
+- **2024**：新中期经营计划（地域 DX 平台运营商导向）
 
-## 3. 业务板块图
+## 3。事业分部地图
 
-| 板块 | 主要经营主体 | 特征 |
+| 分部 | 主要事业者 | 特征 |
 |---|---|---|
-| 石川县零售银行业务 | Hokkoku Bank | 在石川县的存款与贷款份额领先，本地网络密集 |
-| 石川县公司金融业务 | Hokkoku Bank | 面向北陆地区中坚企业与中小企业的主办行角色 |
-| 邻近地区网点 | Hokkoku Bank | 以北陆为基础，在富山、福井、东京和大阪设有网点 |
-| ICT 咨询 | Digital Value | 面向区域企业与自治体提供 DX 支援，将内部经验外部化 |
-| BaaS | Tonari | 面向其他地区银行提供核心银行、API 与业务系统服务 |
-| 卡与支付 | Hokkoku Credit / Hokkoku e Payment | 本地卡支付与支付基础设施 |
-| Microsoft 合作 | 集团整体 | 以 Azure、Surface 和 Microsoft 365 为核心运营基础设施 |
+| 县内 retail | 北国银行 | 石川县内份额 No.1（存款・贷款均是），地盘压倒 |
+| 县内法人 | 北国银行 | 北陆当地企业 main bank，对中坚・中小厚实 |
+| 邻接县展开 | 北国银行 | 富山・福井・东京・大阪设有支店，以北陆为基础 |
+| ICT 咨询 | Digital Value | 面向地域企业 / 自治体的 DX 支援（自有知识对外销售） |
+| BaaS | Tonari | 面向其他地银提供核心系统 / API / 业务系统 |
+| 信用卡・结算 | 北国 Credit・北国 e Payment | 地域结算 |
+| Microsoft 合作 | 全公司横跨 | 将 Azure / Surface / Microsoft 365 作为全业务基础 |
 
-### 地区银行数字平台战略
+### 「地银发数字平台运营商」导向
 
-Hokkoku FHD 的战略在地区银行板块中较为特殊。许多地区银行依赖 NTT DATA、BIPROGY 或 Hitachi 等提供商主导的共享核心系统。Hokkoku 则自 2008 年起建设以 Microsoft 为中心的内部平台，并逐步开放其核心银行架构。Tonari 在 2023 年将这套积累商业化，把内部 DX 基础转变为可对其他地区银行销售的平台。其战略意义不仅在于降本，也在于从银行经营者向技术基础设施提供者的角色转变。
+北国 FHD 的战略，在地银业界可谓**独一无二**。一般地银搭乘「委托厂商的共同核心系统（NTT Data・日本 Unisys・日立等）」，而北国 **自 2008 年以来将 Microsoft Azure 置于自有基础之上，并将核心系统本身开放化**。将这一积累商品化的，正是 2023 年的 **Tonari**（BaaS），它将自身作为使用者的 DX 基础对外销售给其他地银，迈入 **「IT 公司化」战略**。
 
-### 长期持续的 Microsoft 合作
+### Microsoft 长期合作
 
-始于 2008 年的 Microsoft / Azure 关系，是日本地区银行板块中持续时间较长的一条合作线。2017 年部署 Surface 平板，以及集团范围内使用 Microsoft 365，反映出其有意识地把运营模式改革与实施速度放在较高优先级。
+自 2008 年以来的 Microsoft / Azure 合作是地银业界最长档次。Surface 平板导入（2017）、Microsoft 365 全公司展开等，也是甘愿吞下厂商锁定、优先业务改革速度的选择。
 
-### 竞争参照点
+### 竞争・参照对象
 
-最接近的数字化转型参照对象是 [[regional-banks/fukuoka-fg|Fukuoka Financial Group]]，其通过 Minna Bank 运营云原生数字银行。对比点很重要：FFG 创建了一个新的全国性数字品牌，而 Hokkoku FHD 则是把既有地区银行的运营底座数字化，并尝试将该底座出售给同业机构。因此，两者的收入模型和转型路径存在实质差异。
+作为地银 DX 领军者的参照对象，首推 [[regional-banks/fukuoka-fg]]（みんなの銀行 = 全云原生・数字银行）。不过两者战略形成对照，ふくおか FG 是 **「以新品牌全国数字展开」**，北国 FHD 是 **「将既有地银的业务基础本身数字化，并卖给其他地银」**。所瞄准的收益来源也不同。
 
 ### 能登半岛地震（2024-01-01）
 
-由于地震影响石川县与能登地区，维持受损社区的金融服务既成为业务连续性问题，也成为社会责任问题。Hokkoku 的数字化运营底座因此被视为与 BCP 韧性有关，而重建贷款、网点网络调整以及信用成本风险可能影响中期财务表现。
+震源地为石川县・能登地方，受灾地金融职能的维持既是经营课题也是社会责任。数字化的推进被评价为在 BCP（业务连续性）中发挥了作用，另一方面，受灾地复兴融资・网点网重组的负荷可能在中长期影响财务。
 
-## 5. 监管与政策背景
+## 5。监管・政策
 
-- **监管机构**：金融厅 / FSA 与北陆财务局。
-- **业务类别**：依据《银行法》设立的银行控股公司；日本地区银行协会成员。
-- **当前政策议题**：
-  - 自 2024 年起日本银行政策利率正常化，改善地区银行净息差。
-  - 能登半岛地震后的重建金融与宽限应对。
-  - BaaS 与共享核心系统市场重组，其中 Tonari 被定位为 NTT DATA 地区银行共享中心及 STELLA CUBE 之外的替代方案。
+- **主管**：金融厅（FSA）、北陆财务局
+- **业态**：银行控股公司（银行法）、地方银行协会加盟
+- **近期政策要点**：
+  - 2024〜 日本央行政策利率正常化 → 地银整体的利率利润率改善红利
+  - 2024〜 能登半岛地震受灾地复兴（特别融资・暂缓还款应对）
+  - 2024〜 BaaS / 共同核心系统市场的整理（作为对 NTT Data「地银共同中心」「STELLA CUBE」阵营的替代选项的 Tonari）
 
-## 7. Open questions
+## 7。Open questions
 
-- Tonari 在采用银行数量与收入规模上能扩展到什么程度，能否替代来自 NTT DATA 或 BIPROGY 相关系统的共享核心安排？
-- 能登半岛地震后的重建贷款中，不良贷款风险在 2026-2027 拨备周期内会变得多么实质？
-- Digital Value 能否将自治体 DX 服务扩展至石川县之外？
-- Hokkoku FHD 会继续保持独立，还是会参与 SBI“第四大超级银行”概念或邻近 [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]] 相关的地区银行整合？
-- 与 Microsoft 的合作会在生成式 AI 与 Copilot 相关落地上深化到什么程度？
+- Tonari 的采用地银数・收益规模能增长到何种程度？是否会出现从 NTT Data 系・日本 Unisys 系的共同核心系统转投的地银？
+- 能登半岛地震后受灾地复兴融资的不良债权化风险如何？2026〜2027 期间的拨备推移
+- Digital Value 的自治体 DX 业务能在石川县外扩展到何种程度？
+- 北国 FHD 是否会被纳入地银重组（SBI 第 4 巨头构想 / 邻接 [[regional-banks/hokuhoku-fg]] 等），抑或贯彻独立路线？
+- 与 Microsoft 的合作深化能推进到何种程度（生成式 AI / Copilot 领域的实现可能性）
 
-## 8. Related
+## 8。Related
 
-- [[regional-banks/fukuoka-fg|Fukuoka Financial Group]] -- 另一条通过 Minna Bank 展开的主要地区银行 DX 参考案例。
-- [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]] -- 邻近的北陆地区银行集团。
-- [[regional-banks/shizuoka-fg|Shizuoka Financial Group]] · [[regional-banks/concordia-fg|Concordia Financial Group]] · [[regional-banks/mebuki-fg|Mebuki Financial Group]] -- 中型至大型地区银行集团。
-- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho Financial Group]] -- 超级银行参照。
-- [[megabanks/sbi-hd|SBI Holdings]] -- “第四大超级银行”概念下的地区银行联盟战略。
-- 相关 wiki：[[banking/minna-bank-baas-model|Minna Bank BaaS model comparison]]。
+- [[regional-banks/fukuoka-fg]] — 持有みんなの銀行的另一位地银 DX 领军者，战略形成对照
+- [[regional-banks/hokuhoku-fg]] — 邻接北陆地盘（富山・北海道）的地银 FG
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]] — 中坚〜大型地银 FG
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — 巨型银行（参照）
+- [[megabanks/sbi-hd]] — 以第 4 巨头构想组建地银联合
+- 关联 wiki：[[banking/minna-bank-baas-model]]（BaaS 比较）
 
-## Sources
+## 出处
 
-- Wikipedia: Hokkoku Financial Holdings.
-- Wikipedia: Hokkoku Bank, including public information on Microsoft Azure adoption, open core-banking migration, and Surface deployment.
-- Hokkoku FHD public IR materials covering the 2021-10-01 holding-company formation, the 2023-04 establishment of Digital Value, and the 2023 Tonari launch.
+- **Wikipedia: 北國フィナンシャルホールディングス**（公开信息）
+- **Wikipedia: 北國銀行**（公开信息，Microsoft Azure 采用 / 核心系统开放化 / Surface 导入 各项记载）
+- 北国 FHD 官方 IR（控股公司设立 2021-10-01、Digital Value 设立 2023-04、Tonari 提供开始 2023）
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (v1.0 public-information base, 2026-05-19). The Azure adoption year (2008), open core-banking migration year (2010), Surface deployment year (2017), and Digital Value / Tonari launch timing (2023-04) are based on Wikipedia and public IR materials. The precise financial impact of the Noto Peninsula earthquake should be checked against securities reports from the fiscal year ended 2025-03 onward.
+> [!info] 校核状态
+> confidence: **likely**（基于 v1.0 公开信息 2026-05-19）。Microsoft Azure 采用年（2008）、核心系统开放化年（2010）、Surface 导入年（2017）、Digital Value 设立 / Tonari 提供开始年（2023-04）基于 Wikipedia / 公开 IR。能登半岛地震受灾影响的具体财务影响须在 2025-03 期以后的有价证券报告书中确认。

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/gibraltar-life
-source_hash: 0b6ffa2940d830a5
+source_hash: fc91bfb044a882a3
 lang: en
 status: machine
 fidelity: ok
 title: "Gibraltar Life Insurance"
-translated_at: 2026-05-31T15:29:03.942Z
+translated_at: 2026-06-19T06:09:18.114Z
 ---
 
 # Gibraltar Life Insurance
@@ -13,27 +13,27 @@ translated_at: 2026-05-31T15:29:03.942Z
 
 ## Wiki route
 
-This entry sits under[[life-insurers/INDEX|life-insurers INDEX]]. Read it against[[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]]for peer / contrast context and[[insurance/INDEX|insurance index]]for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Gibraltar Life Insurance Co., Ltd. is a Japan life-insurance operating company affiliated with the Prudential group and is listed on the Financial Services Agency's life-insurer list.[[life-insurers/prudential-japan]]It has a separate brand / channel / underwriting boundary that is difficult to see with just an umbrella page.
+Gibraltar Life Insurance Co., Ltd. is a Prudential group-affiliated Japan life-insurance operating company listed on the FSA life-insurer list. It has a separate brand / channel / underwriting boundary that is hard to see from the [[life-insurers/prudential-japan]] umbrella page alone.
 
-## 1 . License / group boundary
+## 1. License / group boundary
 
-|Item|Notes|
+| Item | Notes |
 |---|---|
-|Legal name|Gibraltar Life Insurance Co., Ltd.|
-|License route|Insurance Business Act life-insurance company; FSA life insurer list|
-|Industry body|Life Insurance Association of Japan member|
-|Group boundary|Prudential group Japan life-insurance brand; see [[life-insurers/prudential-japan]]|
-|Wiki role|Prudential Japan cluster operating-company page|
+| Legal name | Gibraltar Life Insurance Co., Ltd. |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group boundary | Prudential group Japan life-insurance brand; see [[life-insurers/prudential-japan]] |
+| Wiki role | Prudential Japan cluster operating-company page |
 
-## 2 .Operating model
+## 2. Operating model
 
-Gibraltar Life is a life insurer with a standalone brand and distribution surface within the Prudential Japan cluster. At FinWiki, we will cut out [[life-insurers/prudential-japan]]'s umbrella analysis and use life-planner / advisor-led distribution, teacher / affinity channels, and product mix as anchors for future follow-up.
+Gibraltar Life is a life insurer with a standalone brand and distribution surface within the Prudential Japan cluster. In FinWiki it is carved out from the [[life-insurers/prudential-japan]] umbrella analysis and used as an anchor for tracking life-planner / advisor-led distribution, teacher / affinity channels, and product mix going forward.
 
-## 3 . Why this page matters
+## 3. Why this page matters
 
 - Prevents Prudential Japan coverage from collapsing several legal entities into one page.
 - Useful for comparing advisor-led life-insurance distribution with bank-channel or direct-channel models.

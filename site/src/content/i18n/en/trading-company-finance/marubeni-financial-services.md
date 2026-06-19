@@ -1,91 +1,92 @@
 ---
 source: trading-company-finance/marubeni-financial-services
-source_hash: 95170397741da394
+source_hash: e9df83ef8c949d24
 lang: en
 status: machine
 fidelity: ok
-title: "Marubeni Finance Corporation"
-translated_at: 2026-05-31T23:59:49.312Z
+title: "Marubeni Finance Corporation (丸紅フィナンス)"
+translated_at: 2026-06-19T13:13:22.622Z
 ---
-# Marubeni Finance Corporation
+
+# Marubeni Finance Corporation (丸紅フィナンス)
 
 ## Wiki route
 
-This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing]] and [[leasing-firms/fuyo-lease|Fuyo General Lease]] for leasing-sector context. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], and [[trading-company-finance/itochu-finance|ITOCHU Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where Marubeni became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the Fuyo Group peer leasing arm — Marubeni is part of the Fuyo community). For peer trading-company group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company Overview
+## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| Wiki role | **Internal finance for the Marubeni Group** + one part of the Fuyo Group financial-function layer |
+| Wiki role | **Marubeni Group's inward-facing finance** + one wing of the Fuyo Group's financial functions |
 
-### Placement of Marubeni-Affiliated Financial Functions
+### Placement of Marubeni's financial functions
 
 | Layer | Entity | Role |
 |---|---|---|
-| **External-facing banks (main relationship)** | [[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]] | Commercial banking and external financial services |
-| **External-facing leasing (main)** | [[leasing-firms/mizuho-lease|Mizuho Leasing]] | Marubeni joined as a strategic shareholder in 2024 |
-| **External-facing leasing (Fuyo)** | [[leasing-firms/fuyo-lease|Fuyo General Lease]] (8424) | Fuyo Group lineage; Marubeni is also a historical shareholder |
-| **Non-life insurance (Fuyo lineage)** | [[non-life-insurers/tokio-marine|東京海上HD]] | Major Fuyo Group non-life insurer |
-| **Internal / group finance** | **Marubeni Finance Corporation (this page)** | Internal banking / CMS / internal factoring for group companies |
+| **Outward-facing bank (main relationship)** | [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/mizuho-bank|みずほ銀行]] | Commercial banking / external financial services |
+| **Outward-facing leasing (main)** | [[leasing-firms/mizuho-lease|みずほリース]] | Marubeni participates in 2024 年 as a strategic shareholder |
+| **Outward-facing leasing (Fuyo)** | [[leasing-firms/fuyo-lease|芙蓉総合リース]] (8424) | Fuyo Group affiliate; Marubeni is also a historical shareholder |
+| **Non-life insurance (Fuyo affiliate)** | [[non-life-insurers/tokio-marine|東京海上HD]] | Principal non-life insurer of the Fuyo Group |
+| **Inward-facing / group finance** | **Marubeni Finance (this page)** | Internal banking / CMS / internal factoring for group companies |
 
-## 2. Business Segment Map
+## 2. Business segment map
 
 | Segment | Content |
 |---|---|
-| **CMS (cash management services)** | Centralized settlement and cash pooling for Marubeni group companies |
-| **Bulk factoring** | Purchase of receivables / payment agency for group companies |
-| **Group finance** | Short-term / mid-term loans to group companies |
-| **FX and interest-rate risk hedge intermediation** | Derivatives intermediation for group companies |
-| **Overseas remittance services** | Overseas remittance and collection for group companies |
-| **Trade finance support** | Credit support tied to Marubeni's power, plant, food, agricultural chemical, and chemical product transactions |
+| **CMS (cash management services)** | Payment concentration / cash pooling for Marubeni Group companies |
+| **Bulk factoring** | Purchase of accounts receivable / payment agency for group companies |
+| **Group finance** | Short-term / mid-term loans to companies within the group |
+| **FX / interest-rate risk-hedging intermediation** | Derivatives intermediation for group companies |
+| **Overseas remittance services** | Overseas remittance / collection for group companies |
+| **Trade-finance support** | Credit support tied to Marubeni's own transactions in power, plants, food, agrochemicals, and chemicals |
 
 ### Competitors / Peers
 
-| Trading house | Internal finance subsidiary | External-facing leasing arm |
+| Trading company | Inward-facing finance subsidiary | Outward-facing leasing affiliate |
 |---|---|---|
-| Marubeni | **Marubeni Finance Corporation (this page)** | [[leasing-firms/mizuho-lease|Mizuho Leasing]] (strategic shareholder from 2024 onward) / [[leasing-firms/fuyo-lease|Fuyo General Lease]] |
-| Mitsubishi Corporation | [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] | [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
-| Mitsui & Co. | [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]] | [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] |
+| Marubeni | **Marubeni Finance (this page)** | [[leasing-firms/mizuho-lease|みずほリース]] (2024〜strategic shareholder) / [[leasing-firms/fuyo-lease|芙蓉総合リース]] |
+| Mitsubishi Corporation | [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
+| Mitsui & Co. | [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] | [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] |
 | Sumitomo Corporation | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] | [[leasing-firms/smfl|SMFL]] (SMFG joint venture) |
-| Itochu | [[trading-company-finance/itochu-finance|ITOCHU Finance]] | [[leasing-firms/tokyo-century|Tokyo Century]] (Mizuho joint venture, listed) |
-| Toyota Tsusho | [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] | In-group captive |
-| Sojitz | [[trading-company-finance/sojitz-finance|Sojitz Finance]] | No dedicated operator |
+| Itochu | [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] | [[leasing-firms/tokyo-century|東京センチュリー]] (Mizuho joint venture, listed) |
+| Toyota Tsusho | [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] | In-group captive |
+| Sojitz | [[trading-company-finance/sojitz-finance|双日フィナンス]] | No dedicated arm |
 
-## 4. Regulation and Policy
+## 4. Regulation / policy
 
-- **Regulator**: Financial Services Agency (money lending / FX-business related)
+- **Supervisor**: Financial Services Agency (related to moneylending / FX business)
 - **Regulatory issues**:
-  - **Transfer pricing taxation** for intra-group financial transactions (especially overseas IPP / plant projects)
-  - Boundary between group factoring and the **Installment Sales Act / Money Lending Business Act**
-  - **Elimination of internal transactions** in consolidated accounting
-- **Current policy topics**:
-  - 2024 onward: [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] -> reassessment of intra-group interest attribution
-  - 2024 onward: expansion of capital relationship with Mizuho Leasing -> strengthening of external-facing asset finance function
+  - **Transfer-pricing taxation** of intra-group financial transactions (especially overseas IPP / plant deals)
+  - The boundary between group factoring and the **Installment Sales Act / Moneylending Business Act**
+  - **Elimination of intercompany transactions** in consolidated accounting
+- **Recent policy issues**:
+  - 2024〜 [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → reassessment of intra-group interest pricing
+  - 2024〜 expansion of Mizuho Leasing capital ties → strengthening of outward-facing asset-finance functions
 
 ## Related
 
-- [[leasing-firms/mizuho-lease|Mizuho Leasing]] (strategic shareholder from 2024 onward)
-- [[leasing-firms/fuyo-lease|Fuyo General Lease]] (Fuyo Group peer)
-- [[megabanks/mizuho-fg|Mizuho FG]] (main relationship bank)
+- [[leasing-firms/mizuho-lease|みずほリース]] (2024〜strategic shareholder)
+- [[leasing-firms/fuyo-lease|芙蓉総合リース]] (Fuyo Group peer)
+- [[megabanks/mizuho-fg|みずほ FG]] (main relationship bank)
 - [[non-life-insurers/tokio-marine|東京海上HD]] (Fuyo Group non-life insurer)
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (peer)
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[trading-company-finance/itochu-finance|ITOCHU Finance]] (peer)
-- [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
-- [[trading-company-finance/sojitz-finance|Sojitz Finance]] (peer)
+- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (peer)
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
+- [[trading-company-finance/sojitz-finance|双日フィナンス]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|Japan acquisition finance]]
+- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
 ## Sources
 
-- Marubeni Corporation (8002) securities report (EDINET disclosure) — affiliates list
-- Marubeni official IR / integrated report (group company list)
+- Marubeni Corporation (8002) securities report (EDINET disclosure) — list of affiliated companies
+- Marubeni official IR / integrated report (list of group companies)
 - Japan Leasing Association (JLA) https://www.leasing.or.jp/
-- EDINET securities report search https://disclosure.edinet-fsa.go.jp/
+- EDINET securities-report search https://disclosure.edinet-fsa.go.jp/
 
 ---
 
-> [!info] Verification Status
-> confidence: **tentative** (public-information base 2026-05-24). Marubeni Finance Corporation is an unlisted subsidiary, so external disclosure is limited. Latest business scope / subsidiary list should be checked against the affiliates list in Marubeni's securities report. **Parent trading-house page `marubeni-corp.md` has not been created -> planned as a future backlog item**.
+> [!info] Verification status
+> confidence: **tentative** (based on public information 2026-05-24). Marubeni Finance is an unlisted subsidiary with limited external disclosure. The latest scope of business / list of subsidiaries should be checked against Marubeni's securities-report list of affiliated companies. **The parent trading-company page `marubeni-corp.md` has not yet been created → planned to be added as backlog in the future**.

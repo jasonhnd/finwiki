@@ -1,113 +1,113 @@
 ---
 source: payment-firms/gmo-payment-gateway
-source_hash: 108f0578b7e47522
+source_hash: ac10b6c103dd93b4
 lang: zh
 status: machine
 fidelity: ok
-title: "GMO 支付网关"
-translated_at: 2026-05-31T15:29:03.900Z
+title: "GMO ペイメントゲートウェイ"
+translated_at: 2026-06-19T06:09:18.063Z
 ---
 
-# GMO 支付网关
+# GMO ペイメントゲートウェイ
 
-## 维基路线
+## Wiki route
 
-此条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。针对同行/对比背景阅读 [[payment-firms/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]]，针对更广泛的系统/监管边界阅读 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。请与 [[payment-firms/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]] 对照阅读以了解同业／对比背景，并与 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] 一同阅读以了解更广泛的系统／监管边界。
 
-##TL;博士
+## TL;DR
 
-日本最大的支付服务提供商（PSP，Payment Service Provider）之一。我们为EC商户提供一站式服务：Visa/Master/JCB/Amex等卡支付+便利店支付+银行转账+电子货币。 1995-03-25 成立Card Commerce Co., Ltd.，更名为2000 、2005 TSE Mothers、2008 在东京证券交易所第一部上市（目前PRIME 3769）。 GMO Internet Group 合并子公司。与三井住友卡（[[megabanks/smfg]]系列）的战略联盟以及在亚洲的扩张（越南NextPay/台湾ECPay等）是中期计划的支柱。 ^[extracted]
+国内最大级的支付代理（PSP, Payment Service Provider）。面向 EC 加盟店一站式提供 Visa/Master/JCB/Amex 等卡支付 + 便利店支付 + 银行转账 + 电子货币。1995-03-25 以「株式会社カードコマース」成立，2000 更名，2005 东证 Mothers 上市，2008 东证一部上市（现 PRIME 3769）。GMO 互联网集团并表子公司。与三井住友卡（[[megabanks/smfg]] 系）的战略提携・亚洲（越南 NextPay / 台湾 ECPay 等）拓展为中期计划支柱。^[extracted]
 
-## 1。公司简介
+## 1. 公司概要
 
-**正式名称**：GMO Payment Gateway, Inc. ^[extracted]
-**英文名称**：GMO Payment Gateway, Inc.
-**股票代码**：TSE PRIME 3769 ^[extracted]
-**成立**：1995-03-25（原Card Commerce Co., Ltd.）^[extracted]
+**正式名**：GMO ペイメントゲートウェイ株式会社 ^[extracted]
+**英文名**：GMO Payment Gateway, Inc.
+**证券代码**：东证 PRIME 3769 ^[extracted]
+**设立**：1995-03-25（旧 株式会社カードコマース）^[extracted]
 **总部**：东京都涩谷区
-**母公司**：[[business/gmo-internet-group|gmo-internet-group]]（合并子公司）^[extracted]
-**业务类型**：支付服务提供商（PSP，Payment Service Provider）
+**母公司**：[[business/gmo-internet-group|gmo-internet-group]]（并表子公司）^[extracted]
+**业态**：支付代理（PSP, Payment Service Provider）
 
-## 2。业务板块图
+## 2. 事业分部・map
 
-|部分|主要服务|特征|
+| 分部 | 主要服务 | 特征 |
 |---|---|---|
-|EC 决済代行|信用卡（Visa/Master/JCB/Amex）+便利店支付+银行转账+电子货币|经营店铺171,257 店（2026-03 结尾，包括fincode byGMO等829,062 店）|
-|企业对企业支付|企业间账单结算/延期付款|完整的信用/催收机构|
-|简单支付SDK|支付宝|对于开发人员/许多受雇的初创公司|
-|海外支付|全球支付网关|与 Stripe/Adyen 竞争|
-|亚洲扩张|NextPay（越南）/ECPay（台湾）/泰国|投资/合资基地|
-|周边业务|金融服务/汇款/交易借贷|利用会员店数据进行贷款|
+| EC 支付代理 | 信用卡 (Visa/Master/JCB/Amex) + 便利店支付 + 银行转账 + 电子货币 | 在运店铺 171,257 店（截至 2026-03 ，含 fincode byGMO 等则为 829,062 店）|
+| BtoB 支付 | 法人间账单支付・后付 | 授信・回收一并代理 |
+| 简易支付 SDK | Pay.JP | 面向开发者・初创采用多 |
+| 海外支付 | 全球支付网关 | 与 Stripe / Adyen 竞争 |
+| 亚洲拓展 | NextPay (越南) / ECPay (台湾) / 泰国 | 出资・JV 为基础 |
+| 周边业务 | 金融服务・汇款・交易借贷 | 利用加盟店数据的融资 |
 
 ## 3. 沿革
 
-|年月|现象|
+| 年月 | 事件 |
 |---|---|
-|1995-03-25|卡商务有限公司成立^[extracted]|
-|2000 |GMO 支付网关更名为 ^[extracted]|
-|2005 |在 TSE Mothers ^[extracted] 上市|
-|2008 |东京证券交易所第一部上市^[extracted]|
-|2015 |与三井住友银行合资成立SMBC GMO PAYMENT（与三井住友卡于2019 就下一代支付平台达成基本协议）|
-|2015〜|进军亚洲（投资台湾Neweb Technologies、Z.com Payment等）|
+| 1995-03-25 | 株式会社カードコマース 设立 ^[extracted] |
+| 2000 | GMO ペイメントゲートウェイ 更名 ^[extracted] |
+| 2005 | 东证 Mothers 上市 ^[extracted] |
+| 2008 | 东证一部 上市 ^[extracted] |
+| 2015 | 与三井住友银行合资设立 SMBC GMO PAYMENT（2019 与三井住友卡就下一代支付平台达成基本协议）|
+| 2015〜 | 亚洲拓展（出资台湾 Neweb Technologies・Z.com Payment 等）|
 
-### 国内策略
+### 国内战略
 
-- **EC附属店铺基地**：运营店铺网络为171,257 店（2026-03 、829,062 店结尾，包括fincode byGMO等）
-- **与三井住友卡的战略联盟**：加深与[[megabanks/smfg]]家族卡公司的关系，并开发SMBC GMO PAYMENT（与SMBC合资，成立2015 。2021 重组为三井住友卡50% / GMO-PG 40% /三井住友银行10%）
-- **Pay.JP**：方便开发者与 Stripe 竞争的支付 SDK
+- **EC 加盟店基础**：在运店铺 171,257 店（截至 2026-03 ，含 fincode byGMO 等则为 829,062 店）的加盟店网络为护城河
+- **三井住友卡 战略提携**：深化与 [[megabanks/smfg]] 系卡公司的关系，SMBC GMO PAYMENT（与 SMBC 的合资，2015 设立。于 2021 重组为三井住友卡 50% / GMO-PG 40% / 三井住友银行 10%）亦展开
+- **Pay.JP**：对标 Stripe 的面向开发者简易支付 SDK
 
 ### 海外战略
 
-- **专注亚洲**：越南NextPay / 台湾ECPay / 泰国投资/合资等
+- **亚洲集中**：对越南 NextPay / 台湾 ECPay / 泰国等的出资・JV
 
-### 冲突地图
+### 竞争 map
 
-|竞赛|优势|站立姿势|
+| 竞争对手 | 强项 | 立足点 |
 |---|---|---|
-|SB支付服务|[[megabanks/paypay-fg]] / 软银集团/PayPay 合作|国内最大级、QR 决済亲和性|
-|DG 金融科技（原 VeriTrans）|数字车库/老式 PSP|EC老牌会员店|
-|SMBC GMO 支付|SMBC × GMO-PG 合弁|银行渠道|
-|条纹/Adyen|全球开发者优先|跨境电商|
-|方形（块）|POS+线上整合|SMB 物贩|
+| SB ペイメントサービス | [[megabanks/paypay-fg]] / SoftBank 集团・PayPay 联动 | 国内最大级，QR 支付亲和 |
+| DG Financial Technology (旧 ベリトランス) | 数字车库系・老牌 PSP | EC 老字号加盟店 |
+| SMBC GMO PAYMENT | SMBC × GMO-PG 合资 | 银行系渠道 |
+| Stripe / Adyen | 全球开发者优先 | 跨境 EC |
+| Square (Block) | POS + 在线整合 | SMB 实物销售 |
 
 ## 5. 规制・政策
 
-- **监督**：金融厅/经济产业省（分期销售法/资金结算法）
-- **业务类型**：支付代理业务（无需注册，但商业合同和 PCI DSS 合规性是实际的进入壁垒）
-- **监管问题**：
+- **主管**：金融厅・经济产业省 (割赋销售法・资金结算法)
+- **业态**：支付代理业 (并非登记制，但加盟店合同・PCI DSS 合规为实质性进入壁垒)
+- **规制论点**:
 
-## 6。对位法
+## 6. Counterpoints
 
-> 主观反驳（母公司依赖与独立、SMBC GMO PAYMENT 的客户同类相食）被隔离在`.opinions/JapanFG/gmo- payment-gateway.md` (2026-05-29) 中。
+> 主观性反驳点（母公司依赖 vs 独立性・与 SMBC GMO PAYMENT 的客户蚕食论）隔离于 `.opinions/JapanFG/gmo-payment-gateway.md`（2026-05-29）。
 
-## 7。开放式问题
+## 7. Open questions
 
-- 超过 30 万 商店的会员商店数量的具体细目是什么（活跃与休眠）？
-- 2024 中期计划的数值目标（销售额、营业收入、海外比例）的详细内容是什么？
-- GMO-PG在稳定币体系下的地位如何（对应Progmat等）？
-- 与Stripe/Adyen全面竞争的场景是什么？
-- 你们与母公司 GMO Internet Group 的交叉持股和股息政策是什么？
+- 加盟店数 30 万店超的准确明细（活跃 vs 休眠）如何?
+- 2024 中期计划的数值目标（销售额・营业利润・海外比率）的细节如何?
+- 稳定币制度下 GMO-PG 的定位（对 Progmat 等的应对）如何?
+- 与 Stripe / Adyen 的竞争正式化情景如何?
+- 与母公司 GMO 互联网集团的交叉持股・分红政策如何?
 
-## 8。有关的
+## 8. Related
 
-- [[megabanks/smfg]]（三井住友卡合作伙伴/SMBC GMO PAYMENT 合资母公司）
-- [[megabanks/paypay-fg]]（SB 支付服务竞争对手）
-- [[card-issuers/jcb]]（卡国际品牌）
-- [[megabanks/mufg]]（卡行业，通过三菱 UFJ Nikos）
-- [[payment-firms/money-forward]] · [[payment-firms/freee]]（会计 SaaS 集成）
-- [[payment-firms/paidy]]（延期付款冲突/补充）
-- [[payment-firms/mercari-hd]] (EC 顾客层)
+- [[megabanks/smfg]] (三井住友卡 提携・SMBC GMO PAYMENT 合资母体)
+- [[megabanks/paypay-fg]] (SB ペイメントサービス 竞争)
+- [[card-issuers/jcb]] (卡国际品牌)
+- [[megabanks/mufg]] (经由 三菱 UFJ 尼科斯 的卡行业)
+- [[payment-firms/money-forward]] · [[payment-firms/freee]] (会计 SaaS 联动)
+- [[payment-firms/paidy]] (后付竞争・补充)
+- [[payment-firms/mercari-hd]] (EC 客户层)
 
-## 来源
+## Sources
 
-- **维基百科：GMO 支付网关**（https://ja.wikipedia.org/wiki/GMO 支付网关，2026-05-19 摘录）
-- **GMO 支付网关官方 IR**（参见 corp.gmo-pg.com，2026-05-19）
-- GMO互联网集团证券报告（合并子公司信息）
-- GMO 支付网关 IR 常见问题解答 — 经营商店 171,257 店（2026-03  结尾，包括 fincode byGMO 829,062 店） — https://www.gmo-pg.com/en/ir/faq/
-- GMO-PG x 三井住友卡关于下一代支付平台的基本协议 (2019) — https://www.gmo-pg.com/en/news/press/gmo- paymentgateway/2019/0212.html
+- **Wikipedia: GMO ペイメントゲートウェイ** (https://ja.wikipedia.org/wiki/GMOペイメントゲートウェイ, 2026-05-19 抽取)
+- **GMO Payment Gateway 官方 IR** (corp.gmo-pg.com, 2026-05-19 参照)
+- GMO 互联网集团 有价证券报告书 (并表子公司信息)
+- GMO Payment Gateway IR FAQ — 在运店铺 171,257 店（截至 2026-03 ，含 fincode byGMO 829,062 店） — https://www.gmo-pg.com/en/ir/faq/
+- GMO-PG × 三井住友卡 下一代支付平台基本协议（2019） — https://www.gmo-pg.com/en/news/press/gmo-paymentgateway/2019/0212.html
 - GMO-PG 台湾 Neweb Technologies 业务资本提携（2015） — https://www.gmo-pg.com/corp/newsroom/press/gmo-paymentgateway/2015/0819.html
 
 ---
 
-> [!info] 验证状态
-> 信心：**可能**（公开信息库/由2026-05-19创建，经营商店数量、SMBC合资企业和台资在2026-05-29的官方IR中确认）经营商店171,257 店是截至2026-03 年底的官方值（可能会随时间变化，请参阅GMO-PG IR季度材料了解最新信息）。成立年份、上市历史、母公司关系以及SMBC GMO PAYMENT合资公司均根据公开信息确定。
+> [!info] 验证状况
+> confidence: **likely** (基于公开信息・2026-05-19 创建，于 2026-05-29 以官方 IR 确定在运店铺数・SMBC 合资・台湾出资)。在运店铺 171,257 店为截至 2026-03 的官方值（存在时点变动，最新请参照 GMO-PG IR 季度资料）。设立年・上市历史・母公司关系・SMBC GMO PAYMENT 合资以公开信息确定。

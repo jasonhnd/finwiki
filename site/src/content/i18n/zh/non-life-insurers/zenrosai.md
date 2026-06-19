@@ -1,138 +1,141 @@
 ---
 source: non-life-insurers/zenrosai
-source_hash: 2eb24dc4cd81b277
+source_hash: f8d660339079bd6a
 lang: zh
 status: machine
 fidelity: ok
-title: "Zenrosai / Kokumin Kyosai coop（全国工人和消费者保险合作社联合会）"
-translated_at: 2026-06-01T03:31:12.247Z
+title: "全劳济 / こくみん共济 coop (全国劳动者共济生活协同组合连合会 / National Federation of Workers and Consumers Insurance Cooperatives)"
+translated_at: 2026-06-19T06:09:18.181Z
 ---
-# Zenrosai / Kokumin Kyosai coop（全国工人和消费者保险合作社联合会）
 
-## 维基路线
+# 全劳济 / こくみん共济 coop (全国劳动者共济生活协同组合连合会 / National Federation of Workers and Consumers Insurance Cooperatives)
 
-该条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下，作为 JA / JF / shinkin / shinkumi 轴之外的 **工人/消费者合作社互助联盟**。与 [[non-life-insurers/ja-kyosairen|JA 共済連]] 一起阅读农业合作社 kyosai 同行，[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] 合作社系统非生命邻接，[[insurance/INDEX|insurance domain]] 共济与保险监管边界，以及 [[cooperative-banks/rokin-renraku|労働金庫連合会]] 银行业工人合作金融同行。
+## Wiki route
 
-## 长篇大论；博士
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as a **workers' / consumer-cooperative-based mutual-aid (共济) federation** outside the JA / JF / shinkin / shinkumi axis. Read with [[non-life-insurers/ja-kyosairen|JA 共済連]] for the agricultural cooperative kyosai peer, [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] for cooperative-system non-life adjacency, [[insurance/INDEX|insurance domain]] for the kyosai-vs-insurance regulatory boundary, and [[cooperative-banks/rokin-renraku|労働金庫連合会]] for the workers' cooperative finance peer in banking.
 
-**负责与消费者合作社相关的工人和消费者“互助”业务的全国性联合会**。 1957  根据消费者合作社协会法（合作社法），作为**合作社联盟**（合作社法，而非农业合作社法）成立。在**国民共济合作社（原国民共济）**品牌下，我们向工会、工人和当地居民提供生活互助+损害互助（火灾、汽车、伤害等）。 **成员=全国地方工人合作社+职业合作社+县工人合作社**。 **作为一家合作保险公司，其有效保单和会员人数超过1000 万**，与JA共财连并列为日本大型互助组织。 **厚生劳动省**负责（根据消费者合作社法；消费者合作社隶属于厚生劳动省），监管制度与保险公司不同，保险公司受保险业法管辖。 ^[extracted]
+## TL;DR
 
-## 1.组织结构
+**承担面向劳动者・消费者的生活协同组合系「共济」事业的全国连合会**。于 1957 设立，是以《消费生活协同组合法》(生协法) 为依据的 **生协连合会** (并非农协法而是生协法)。以 **「こくみん共济 coop (旧 こくみん共济)」** 品牌，面向工会・劳动者・地区居民提供生命共济 + 损害共济 (火灾・汽车・伤害等)。**会员 = 全国的地区劳动者生协 + 职域生协 + 都道府县的劳动者生协**。作为 **以保有契约・组合员数计超过 1000 万人的合作社系保险经营者**，是与 JA 共济连并列的国内大规模 mutual-aid 组织。**主管为厚生劳动省** (生协法所管，生活协同组合归厚劳省管辖)，与受保险业法监管的保险公司监管系统不同。^[extracted]
 
-|项目 |内容 |
+## 1. 组织结构
+
+| 项目 | 内容 |
 |---|---|
-|正式名称 |全国职工互助消费合作联会|
-|通用名| Zenrosai / 国民共济合作社 (2019~) |
-|英文名|全国工人和消费者保险合作社联合会|
-|法律形式| **基于《消费者合作社法》的联盟**（消费者合作社联盟）|
-|成立| 1957 （与战后劳工运动有关） ^[extracted] |
-|总部|东京都涩谷区代代木 2-12-10 |
-|会员资格 |全国各地地方工人合作社+职业合作社+地级劳动合作社等 |
-|监管机构 | **厚生劳动省**（监督合作社法）|
+| 正式名称 | 全国劳动者共济生活协同组合连合会 |
+| 通称 | 全劳济 / こくみん共济 coop (2019〜) |
+| 英文名称 | National Federation of Workers and Consumers Insurance Cooperatives |
+| 法律形态 | **基于生协法的连合会** (消费生活协同组合连合会) |
+| 设立 | 1957 (与战后劳动运动相关) ^[extracted] |
+| 本部 | 东京都涩谷区代代木 2-12-10 |
+| 会员 | 全国的地区劳动者生协 + 职域生协 + 都道府县劳济等 |
+| 监督官厅 | **厚生劳动省** (生协法主管) |
 
-###合作社互助 vs 农业合作互助 ^[extracted]
+### 生协系共济 vs 农协系共济 ^[extracted]
 
-|轴| JA Kyosaren ([[non-life-insurers/ja-kyosairen]]) |善罗斋 |
+| 轴 | JA 共济连 ([[non-life-insurers/ja-kyosairen]]) | 全劳济 |
 |---|---|---|
-|基本法|农业合作社法|消费者合作法（消费者合作法）|
-|主管|农林水产省+金融厅合作| **厚生劳动省** + 与金融厅的合作|
-|客户群 |农业合作社社员+非社员配额|工人、当地工人、当地居民|
-|规模（有效合同）|超过约200 兆円（令和6年度）有效合同金额约210 兆円）|合同金额约791 兆円（2024 年度）|
-|产品品牌 | JA互助|国民互助合作社 |
-|销售渠道|全国497 JA+上门销售|县劳动保险+网络+工会|
+| 依据法 | 农业协同组合法 | 消费生活协同组合法 (生协法) |
+| 主管 | 农林水产省 + 金融厅协力 | **厚生劳动省** + 金融厅协力 |
+| 客户基础 | 农协组合员 + 员外利用额度 | 劳动者・地区劳动者・地区居民 |
+| 规模 (保有契约) | 约 200 兆円超 (令和6年年度 保有契约高 约 210 兆円) | 契约高 约 791 兆円 (2024 年年度) |
+| 产品品牌 | JA 共济 | こくみん共济 coop |
+| 销售渠道 | 全国 497 JA + 上门销售 | 都道府县劳济 + Web + 经由工会 |
 
 ### 重要年表 ^[extracted]
 
-|年份|活动 |
+| 年 | 事件 |
 |---|---|
-| 1948 |消费者合作社法（合作社法）的制定|
-| 1950 年一代|战后劳工运动中的**工人合作社**全国组织 |
-| **1957** | **全国工人互助消费者合作社联合会（Zenrosai）成立** |
-| 1960~70  期间 | “善露彩”品牌下的生活互助和汽车互助发展|
-| 1980 年一代|消防互助/住房（国民互助）扩张|
-| 2002 | “国民共济”品牌成为中流砥柱|
-| 2010 年 价格 |数字化/网络应用扩展|
-| **2019** | **统一品牌为“Kokumin Kyosai Coop”**（Zenrosai 的通用名称）^[extracted] |
+| 1948 | 制定《消费生活协同组合法》(生协法) |
+| 1950 年年代 | 与战后劳动运动一体地将 **劳动者生协** 全国组织化 |
+| **1957** | **全国劳动者共济生活协同组合连合会 (全劳济) 设立** |
+| 1960〜70 年代 | 以「全劳济」品牌展开生命共济・汽车共济 |
+| 1980 年年代 | 扩充火灾共济・住宅 (こくみん共济) |
+| 2002 | 「こくみん共济」品牌成为主力 |
+| 2010 年年代 | 数字化・扩充 Web 申请 |
+| **2019** | **品牌统一为「こくみん共济 coop」**(全劳济的通称) ^[extracted] |
 
-### 主要互助产品^[extracted]
+### 主力共济产品 ^[extracted]
 
-|产品 |内容 |
+| 产品 | 内容 |
 |---|---|
-| **国民互助（生活）** |终身互助、养老互助、医疗互助|
-| **国民互助（伤害）** |汽车互助（私家车互助）、消防互助（生活互助）、事故互助 |
-| **团体互助** |工会和公司团体人寿和团体损害保险 |
-| **集体生活互助** |工会成员死亡抚恤金|
+| **こくみん共济 (生命)** | 终身共济・养老共济・医疗共济 |
+| **こくみん共济 (损害)** | 汽车共济 (私家车共济)・火灾共济 (住まいる共济)・伤害共济 |
+| **团体共济** | 面向工会・企业的团体生命・团体损害 |
+| **团体生命共济** | 面向工会会员的死亡保障 |
 
 ### 销售渠道
 
-- **县罗赛** (47  县组织) — 直营分公司 + 代理机构
-- **通过工会** — 与联合会和特定行业工会的密切关系
-- **便利店存储/自动转账** — 简化支付存储
+- **都道府县劳济** (47 都道府县组织) — 直营分店 + 代理店
+- **经由工会** — 与连合・各产别工会关系紧密
+- **便利店收纳・自动转账** — 缴费收纳的效率化
 
-### 规模感（2024 年 财政年度结束 / 2025-05-31 财政年度结束）
+### 规模概念 (2024 年年度决算 / 2025-05-31 期末)
 
-- **会员人数**：58  会员（47  都道府县劳动协会 + 8  职业劳动协会 + 3  消费者合作社联合会）
-- **合约数量**：2,893 万（合约数量38.7 億）
-- **合同金额**：约。 791 兆円
-- **总资产**：4 兆 27 億円 (4,002,681 百万円)
-- **接受互助保费**：5,299 億円 (529,928 百万円)
-- **互助金**：3,175 億円 / **普通收入**：6,461 億円
+- **会员数**: 58 会员 (47 都道府县劳济 + 8 职域劳济 + 3 生协连合会)
+- **契约件数**: 2,893 万件 (契约口数 38.7 億口)
+- **契约高**: 约 791 兆円
+- **总资产**: 4 兆 27 億円 (4,002,681 百万円)
+- **收入共济缴费**: 5,299 億円 (529,928 百万円)
+- **支付共济金**: 3,175 億円 / **经常收益**: 6,461 億円
 
-###“国民共济合作社”品牌战略
+### 「こくみん共济 coop」品牌战略
 
-- **2019  品牌统一**：“Zenrosai”名称是旧名称，并作为 **“Kokumin Kyosai coop”** ^[extracted] 对外进行广告和销售
-- “coop” = 强调消费者合作社的特征
-- 吸引年轻人和城市工人+提高知名度
+- **2019 品牌统一**: 「全劳济」名称为旧称，对外以 **「こくみん共济 coop」** 进行广告・销售 ^[extracted]
+- 「coop」= 将作为生协连合体的性格突出
+- 吸纳年轻群体・城市劳动者 + 提高知名度
 
-### 主要竞争对手- **JA互助会**（[[non-life-insurers/ja-kyosairen]]）——同类型最大的互助机构
-- **都道府县互助会（全国消费者合作社联合会）** — 另一个合作社附属互助会
-- **人寿保险大 4** ([[life-insurers/nippon-life|日本生命]] / [[life-insurers/dai-ichi-life|第一生命]] / [[life-insurers/meiji-yasuda|明治安田]] / [[life-insurers/sumitomo-life|住友生命]]) — 人寿产品的竞争对手
-- **3  一般保险** ([[non-life-insurers/tokio-marine|東京海上]] / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]]) — 参加汽车和火灾比赛
-- **网险**（[[life-insurers/lifenet|ライフネット生命]]等）——与直销模式的价格竞争
+### 主要竞争对手
 
-### 与劳工运动的联系
+- **JA 共济连** ([[non-life-insurers/ja-kyosairen]]) — 共济规模最大的同型机构
+- **都道府县民共济 (全国生协连)** — 另一个生协系共济连合会
+- **寿险 Big 4** ([[life-insurers/nippon-life|日本生命]] / [[life-insurers/dai-ichi-life|第一生命]] / [[life-insurers/meiji-yasuda|明治安田]] / [[life-insurers/sumitomo-life|住友生命]]) — 在生命系产品上竞争
+- **3 大财产险** ([[non-life-insurers/tokio-marine|東京海上]] / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]]) — 在汽车・火灾上竞争
+- **网络保险** ([[life-insurers/lifenet|ライフネット生命]] 等) — 以直销模式进行价格竞争
 
-- 与**Rengo（日本工会联合会）**密切关系 — 利用工会作为互助的销售渠道
-- 在公务员工会和教师工会等**职业领域**拥有坚实的基础
+### 与劳动运动的结合
 
-### 数字化战略
+- **连合 (日本工会总连合会)** 关系紧密 — 将经由工会作为共济的销售渠道加以运用
+- 在公务员工会・教职员工会等 **职域领域** 拥有强大基础
 
-- 网络应用程序/合同管理应用程序
+### 数字战略
 
-## 4。监督/监管
+- Web 申请・契约管理应用
 
-- **监督**：**厚生劳动省**（合作社法的管辖权）+金融厅（金融稳健性和消费者保护的合作监督）
-- **法律依据**：消费者合作社法（昭和 23 年法第 200 号）+消费者合作社互助条例
-- **当前政策问题**：
-  - **互助=保险监管差距**（保险商法vs消费者合作法的竞争公平性）
-  - 加强**合作互助规定**的方向（厚生劳动省/金融厅合作监督）
-  - 通过**我的号码联动**实现税收减免等的数字化
-  - 自愿披露**ESR类似指标**
+## 4. 监督・监管
 
-## 相关
+- **主管**: **厚生劳动省** (生协法所管) + 金融厅 (在金融健全性・消费者保护方面协力监督)
+- **法律依据**: 《消费生活协同组合法》(昭和 23 年法律第 200 号) + 生协共济监管
+- **近期政策议题**:
+  - **共济 = 保险的监管缺口** (保险业法 vs 生协法的竞争公平性)
+  - **生协共济监管** (厚劳省・金融厅协力监督) 的强化方向
+  - 以 **My Number 联动** 实现税收抵扣等的数字化
+  - **ESR 类似指标** 的自主披露
 
-- [[non-life-insurers/ja-kyosairen]] — 农业合作社所属全国互助联合会（同行）
-- [[non-life-insurers/kyoritsu-fire-marine]] — 共荣火灾和海上保险（合作非人寿保险）
-- [[cooperative-banks/rokin-renraku]] — 劳工银行联合会（银行版工人合作社）
-- [[cooperative-banks/norinchukin]] — 农业合作信贷核心（最大合作金融）
-- [[financial-regulators/zenchugin-kyo]] — 银行业同行行业机构
--[[insurance/INDEX|insurance domain]]
--[[insurance/mutual-vs-stock-life-insurer]]
--[[banking/cooperative-banking-japan]]
--[[non-life-insurers/INDEX|non-life-insurers INDEX]]
+## Related
 
-## 来源
+- [[non-life-insurers/ja-kyosairen]] — 农协系对应的国共济连合会 (peer)
+- [[non-life-insurers/kyoritsu-fire-marine]] — 共荣火灾海上保险 (合作社系财产险)
+- [[cooperative-banks/rokin-renraku]] — 劳动金库连合会 (劳动者协同组合的银行版)
+- [[cooperative-banks/norinchukin]] — 农协系信用核心 (合作社系金融的最大级)
+- [[financial-regulators/zenchugin-kyo]] — 银行业界的 peer industry body
+- [[insurance/INDEX|insurance domain]]
+- [[insurance/mutual-vs-stock-life-insurer]]
+- [[banking/cooperative-banking-japan]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
-- **Zenrosai / Kokumin Kyosai 合作社官方网站**：https://www.zenrosai.coop/
-- **Zenrosai / Kokumin Kyosai Coop 公司简介**：https://www.zenrosai.coop/about/
-- **国民互助社 2024 年 财务报表**（合同金额 791 兆円、收到的互助保费 5,299 億円、总资产 4 兆 27 億円、合同数量 2,893 万、有偿互助3,175 億円・普通收入6,461 億円)：https://www.zenrosai.coop/zenrosai/topics/2025/32152.html
-- **国民互助合作社数量**（2024 年 学位）：https://www.zenrosai.coop/about/number.html
-- **日本互助协会**：https://www.kyosai-cc.or.jp/（合作社间联络）
-- 消费者合作法（昭和 23 年法第 200 号）
-- 金融服务机构保险公司执照清单（https://www.fsa.go.jp/menkyo/hoken.pdf）- 用于监管系统比较
-- **JA互助联盟令和5年年度结算**（JA互助比较：有效保单金额约为210 兆円）：https://www.ja-kyosai.or.jp/files/2024/202407-2.pdf
+## Sources
+
+- **全劳济 / こくみん共济 coop 官方网站**: https://www.zenrosai.coop/
+- **全劳济 / こくみん共济 coop 公司概要**: https://www.zenrosai.coop/about/
+- **こくみん共济 coop 2024 年年度决算报告** (契约高 791 兆円・收入共济缴费 5,299 億円・总资产 4 兆 27 億円・契约件数 2,893 万件・支付共济金 3,175 億円・经常收益 6,461 億円): https://www.zenrosai.coop/zenrosai/topics/2025/32152.html
+- **数字看こくみん共济 coop** (2024 年年度): https://www.zenrosai.coop/about/number.html
+- **日本共济协会**: https://www.kyosai-cc.or.jp/ (合作社间联络)
+- 《消费生活协同组合法》(昭和 23 年法律第 200 号)
+- 金融厅 保险公司牌照一览 (https://www.fsa.go.jp/menkyo/hoken.pdf) — 用于监管系统对比
+- **JA 共济连 令和5年年度决算** (JA 共济比较: 保有契约高 约 210 兆円): https://www.ja-kyosai.or.jp/files/2024/202407-2.pdf
 
 ---
 
-> [!info] 学校核心状况
-> 信心：**可能**。根据公开信息（Zenrosai /国民共济合作社官方+合作法+日本互助协会）。合同金额、资产总额、收到的互助保费均为截至2024 年截止日（2025-05-31期末，经145 股东大会2025-08-27批准）的实际数字。请参阅协会披露（事实手册）以了解最新信息。 “Kokumin Kyosai Coop”是2019 更名后的主要品牌名称，“Zenrosai”是公司正式名称的通用名称。
+> [!info] 校核状态
+> confidence: **likely**。基于公开信息 (全劳济 / こくみん共济 coop 官方 + 生协法 + 日本共济协会)。契约高・总资产・收入共济缴费为 2024 年年度决算 (2025-05-31 期末，第 145 回常规总会 2025-08-27 批准) 的实际数值。最新请参照该会信息披露 (FACT BOOK)。「こくみん共济 coop」是 2019 改名后的主力品牌名，「全劳济」为法人正式名称的通称。

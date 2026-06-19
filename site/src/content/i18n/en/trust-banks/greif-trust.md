@@ -1,41 +1,42 @@
 ---
 source: trust-banks/greif-trust
-source_hash: de33f641697b836d
+source_hash: 854d27b526706917
 lang: en
 status: machine
 fidelity: ok
-title: "Greif Trust"
-translated_at: 2026-05-31T15:29:03.932Z
+title: "Greif Trust / グライフ信託"
+translated_at: 2026-06-19T12:43:19.861Z
 ---
-# Greif Trust
 
-Wiki route: [[trust-banks/INDEX|trust-banks INDEX]] -> [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]] -> Greif Trust.
+# Greif Trust / グライフ信託
+
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/greif-trust]]
 
 ## Overview
 
-Greif Trust is a trust-company entry associated with the Chugoku Finance Bureau register. In FinWiki it serves as a regional trust-company route, useful alongside [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]] and other regional trust-company profiles.
+Greif Trust is a Chugoku Finance Bureau trust-company row with public company-profile material and multiple regional branch references. In FinWiki it is a regional trust-company route, useful beside [[trust-banks/sumire-regional-trust]] and [[trust-banks/miyoshi-smile-trust]].
 
-## Entity boundary
+## Entity Boundary
 
-This page covers Greif Trust Co., Ltd. Public materials also mention financial-instruments and real-estate permissions; those permissions should be mapped only where the cited source explicitly supports the license-specific claim.
+This page covers 株式会社グライフ信託. Public materials also mention financial-instruments and real-estate permissions; those should be mapped only where supported by source-specific license text.
 
-## Business role map
+## Business Role Map
 
 | Route | Reading |
 |---|---|
 | Regional trust company | Headquarters route outside the Tokyo / Kinki concentration. |
-| Multi-branch footprint | Public company-profile material lists multiple domestic office locations. |
-| Adjacent licenses | Securities and real-estate permissions are license-bound facts, not broad business claims. |
-| Registry control | Match against the FSA trust-company registry before extending coverage. |
+| Multi-branch footprint | Public company profile lists several domestic office locations. |
+| Adjacent licenses | Treat securities / real-estate permissions as license-bound facts, not broad business claims. |
+| Registry control | Row in [[trust-banks/trust-companies-japan-index]]. |
 
-## Public context
+## Public Context
 
-Greif Trust helps show that Japan's trust-company registry includes regional and multi-office operators, not only bank groups, housing groups, or professional-service boutiques.
+Greif Trust helps FinWiki show that the trust-company registry includes regional and multi-office operators, not only bank groups, housing groups, or professional-service boutiques.
 
-## Research checklist
+## Research Checklist
 
-1. Confirm current license descriptions from the official profile and FSA registry before adding claims.
-2. Link any securities-registration context to the financial-instruments registration index.
+1. Confirm current license descriptions from official profile and FSA registry before adding claims.
+2. Link any securities-registration context to [[financial-licenses/securities-license-stack]].
 3. Compare with other regional trust-company pages as source depth improves.
 
 ## Related
@@ -48,5 +49,5 @@ Greif Trust helps show that Japan's trust-company registry includes regional and
 
 ## Sources
 
-- FSA trust-company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
+- FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
 - Greif Trust company profile: https://www.greif-trust.com/company/

@@ -1,12 +1,13 @@
 ---
 source: structured-finance/npl-securitization-japan
-source_hash: 7a8317d8e81dd5bf
+source_hash: 5711fb9d151e7534
 lang: en
 status: machine
 fidelity: ok
 title: "NPL securitisation in Japan — post-1997 cycle, RCC, and distressed-debt buyers"
-translated_at: 2026-06-01T04:15:40.177Z
+translated_at: 2026-06-19T13:13:22.646Z
 ---
+
 # NPL securitisation in Japan — post-1997 cycle, RCC, and distressed-debt buyers
 
 ## TL;DR
@@ -111,7 +112,6 @@ COVID-19 disrupted small-business cash flow, particularly in:
 
 The Japanese government's policy response (including [[policy-finance/INDEX|policy-finance]] facilities from [[financial-regulators/jbic|JBIC]] and the JFC, plus extended commercial-bank loan forbearance) prevented the kind of immediate NPL spike seen in some other jurisdictions. However:
 - A residual stock of weakly-performing SME loans accumulated through 2022–2024
-
 - Regional banks have begun selectively disposing problem loans
 - Distressed-debt buyers (a mix of returning foreign names and Japanese specialists) have resumed selective acquisitions
 
@@ -180,5 +180,5 @@ NPL securitisation is structurally a **distressed-credit private fund wrapped in
 
 ---
 
-> [!info] Verification status
+> [!info] 校核状态
 > confidence: **likely**. The post-1997 NPL cycle, RCC role, and the involvement of major foreign distressed-debt firms are well-documented in academic and policy literature, with high-level public disclosures from FSA, BOJ, and RCC. Specific deal sizes and IRR outcomes are not disclosed at the pool level — descriptions are abstracted from industry-standard ranges discussed at the time. Post-pandemic mini-cycle is still emerging and scale is described in directional terms.

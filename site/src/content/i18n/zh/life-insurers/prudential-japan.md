@@ -1,154 +1,154 @@
 ---
 source: life-insurers/prudential-japan
-source_hash: fed936f081eb3bb8
+source_hash: 5646bf99578c6951
 lang: zh
 status: machine
 fidelity: ok
-title: "Prudential Gibraltar Financial / Prudential Japan"
-translated_at: 2026-06-01T00:41:50.387Z
+title: "保德信吉布罗陀金融 (Prudential Japan)"
+translated_at: 2026-06-19T06:09:18.115Z
 ---
-# Prudential Gibraltar Financial / Prudential Japan
+
+# 保德信吉布罗陀金融 (Prudential Japan)
 
 ## Wiki route
 
-本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。可与 [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。请将其与 [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] 对照阅读以获取同业／对比背景，并与 [[insurance/INDEX|insurance index]] 对照阅读以了解更广泛的系统／监管边界。
 
 ## TL;DR
 
-本页覆盖美国 **Prudential Financial, Inc.**（NYSE: PRU，美国大型寿险公司）的日本法人群。在中间控股公司 Prudential Holdings of Japan 之下，集团运营 **Prudential Life**（1987  开业，Life Planner 渠道代表）、**Gibraltar Life**（2001-03  收购破产的旧协荣生命）以及 **PGF Life**（2008-08  收购旧 AIG Edison / AIG Star 生命后整合）。这是较少见的 3  家寿险公司并立结构，并按销售渠道使用不同品牌：Prudential = Life Planner / LP 高度专业销售职员，Gibraltar = 代理店和教职员渠道，PGF = 银行窗口销售。美国 Prudential Financial 与英国 Prudential plc（现已与 M&G plc 分离）是完全不同的法人，注意不要混同。3  ^[extracted]
+美国 **Prudential Financial, Inc.**（NYSE: PRU，美国大型寿险）的日本法人群。在中间控股公司 **保德信日本控股株式会社（プルデンシャル・ホールディング・オブ・ジャパン株式会社）** 之下，运营 **保德信人寿（プルデンシャル生命）**（1987 开业，寿险规划师渠道代表）+ **吉布罗陀人寿（ジブラルタ生命）**（2001-03 旧 协荣生命破产收购）+ **PGF 人寿**（2008-08 旧 AIG Edison/AIG Star 生命收购）的 3 家寿险这一罕见结构。**按销售渠道区分使用 3 品牌**：保德信 = 寿险规划师（LP，高度资格营业员）、吉布罗陀 = 代理店 + 教职员、PGF = 银行窗口销售。美国保德信本体（美国）与 **英国 Prudential plc（英国系・现已分拆 M&G plc）是完全独立的法人**，注意勿混淆。^[extracted]
 
 ## 1. 公司概要
 
-**母公司**：Prudential Financial, Inc.，美国，NYSE: PRU，1875  创业，总部位于新泽西州纽瓦克。^[extracted]  
-**日本中间控股公司**：Prudential Holdings of Japan, Inc.（PHJ）。^[extracted]  
-**总部所在地**：东京都千代田区永田町 2-13-10，Prudential Tower。^[extracted]
+**母公司**：Prudential Financial, Inc.（美国，NYSE: PRU，1875 创立，总部位于新泽西州纽瓦克）^[extracted]
+**日本中间控股公司**：保德信日本控股株式会社（PHJ）^[extracted]
+**总部所在地**：东京都千代田区永田町 2-13-10（保德信大厦）^[extracted]
 
-> 注意：美国 Prudential Financial 与 **英国 Prudential plc 是完全不同的公司**。经历 19  世纪的商标争议后，双方分别拥有不同地域的商标权。英国 Prudential plc 目前以亚洲和非洲为中心，原英国寿险业务已在 2019  分拆为 M&G plc 并上市。^[extracted]
+> 注意：美国 Prudential Financial 与 **英国 Prudential plc 是完全独立的法人**。历经 19 世纪的商标纠纷后，各自拥有按地区划分的商标权。英国 Prudential plc 现以亚洲・非洲为中心，英国寿险业务已分拆并以 2019 M&G plc 单独上市。^[extracted]
 
-### 3  家寿险公司的合并位置 ^[extracted]
+### 3 家寿险的合并地位 ^[extracted]
 
-| 法人 | 设立 / 收购 | 主要渠道 | 品牌角色 |
+| 法人 | 设立/收购 | 主要渠道 | 品牌角色 |
 |---|---|---|---|
-| Prudential Life Insurance | 1987  作为 Prudential of Japan 开业 | Life Planner（LP） | 经营者保险、富裕层、LP 销售模式代表 |
-| Gibraltar Life Insurance | 2001-03  收购旧协荣生命破产资产 | 代理店 / 教职员渠道 | 面向教职员和代理店渠道的大众层 |
-| Prudential Gibraltar Financial Life（PGF Life） | 2008-08  收购并整合旧 AIG Edison + AIG Star | 银行窗口销售 | 银行代理渠道和一次缴产品 |
+| 保德信人寿保险 | 1987 开业（作为 Prudential of Japan）| 寿险规划师（LP）| 经营者保险・富裕层・LP 模式的代表 |
+| 吉布罗陀人寿保险 | 2001-03 旧 协荣生命破产 → 美国保德信收购 | 代理店・教职员渠道 | 教职员共济・经代理店的大众层 |
+| 保德信吉布罗陀金融人寿（PGF 人寿）| 2008-08 旧 AIG Edison + AIG Star → 美国保德信收购・整合 | 银行窗口销售 | 银行代理店路线・趸缴产品 |
 
 ### 主要结构图
 
 ```
 Prudential Financial, Inc.（美国，NYSE: PRU）
-  └── Prudential Holdings of Japan, Inc.（PHJ，中间控股）
-        ├── Prudential Life Insurance Co., Ltd.（1987 起，LP 渠道）
-        ├── Gibraltar Life Insurance Co., Ltd.（2001 起，代理店 / 教职员）
-        └── Prudential Gibraltar Financial Life Insurance Co., Ltd.（PGF Life，2008 起，银行窗口销售）
+  └── 保德信日本控股株式会社（PHJ，中间控股）
+        ├── 保德信人寿保险株式会社（1987～，LP 渠道）
+        ├── 吉布罗陀人寿保险株式会社（2001～，代理店・教职员）
+        └── 保德信吉布罗陀金融人寿保险株式会社（PGF 人寿，2008～，银行窗口销售）
 ```
 
-### 合并历史 / 收购谱系
+### 合并历史・收购谱系
 
-- **Prudential Life**：1987  作为 Prudential of Japan 开业。它向日本寿险业导入了 **Life Planner 模式**，即源自 The Prudential Insurance Company of America 的高度专业、全佣金销售职员模型。^[extracted]
-- **Gibraltar Life 的前身协荣生命**：协荣生命创立于 1935 ，长期为中型寿险公司，但在泡沫崩溃后因逆差和经营恶化，于 1990 年 破产；美国 Prudential 在 2000-10  收购，并在 2001-03  以 Gibraltar Life 重新出发。^[extracted]
-- **PGF Life 的前身 AIG Edison Life + AIG Star Life**：AIG 旗下 2  家日本寿险公司在 2008  Lehman shock / AIG 救济问题后成为出售对象；美国 Prudential 于 2008-08  取得，之后整合为 **Prudential Gibraltar Financial Life（PGF Life）**。^[extracted]
+- **保德信人寿**：1987 作为美国 Prudential of Japan 开业。引入了日本寿险业界首创的 **"寿险规划师（Life Planner）"模式**（高度资格・全佣金营业员），将美国 The Prudential Insurance Company of America 的业界模式移植到日本 ^[extracted]
+- **吉布罗陀人寿的前身（协荣生命）**：1935 创立的协荣生命保险（昭和初期以来的中坚寿险）在 1990 年年代后期泡沫破裂后的负利差・经营恶化下，**2000-10 经营破产** → 2001-03 美国保德信收购 → 作为吉布罗陀人寿保险重新起步 ^[extracted]
+- **PGF 人寿的前身（AIG Edison 生命 + AIG Star 生命）**：美国 AIG 旗下的 2 家寿险（Edison 生命・Star 生命）因 2008 雷曼冲击・AIG 救助问题成为出售对象，**2008-08 被美国保德信收购** → 后作为 **保德信吉布罗陀金融人寿（PGF 人寿）** 整合 ^[extracted]
 
-### 重要年表 ^[extracted]
+### 重要年表（摘录）^[extracted]
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| 1875  | Prudential Financial 在美国新泽西州创立 |
-| 1987  | Prudential Life 作为 Prudential of Japan 在日本开业 |
-| 2000-10  | 旧协荣生命保险经营破产 |
-| **2001-03** | **美国 Prudential 收购旧协荣生命，并成立 Gibraltar Life** |
-| 2001-12  | Prudential Financial 以 PRU 在 NYSE 上市 |
-| 2007-04  | Prudential Life 扩大 Life Planner 渠道 |
-| **2008-08** | **美国 Prudential 收购旧 AIG Edison Life 和 AIG Star Life** |
-| 2008  | 旧 2 社 公司整合为 Prudential Gibraltar Financial Life（PGF Life） |
-| 2010-2020  | LP 渠道和经营者保险品牌确立 |
-| 2018 | PGF Life 的银行窗口销售一次缴外币保险成为主力 |
-| 2020 | COVID 阶段推动 LP 面对面销售数字化 |
-| 2024 | 日本央行正常化阶段改善投资收益率和预定利率上调余地 |
+| 1875 | 美国 Prudential Financial 创立（美国新泽西州）|
+| 1987 | 保德信人寿保险 日本开业（作为 Prudential of Japan）|
+| 2000-10 | 旧 协荣生命保险 经营破产 |
+| **2001-03** | **美国保德信 收购旧协荣生命 → 吉布罗陀人寿保险 成立** ★ |
+| 2001-12 | 保德信 Financial 在美国 NYSE 上市（PRU）|
+| 2007-04 | 保德信人寿 扩大寿险规划师渠道 |
+| **2008-08** | **美国保德信 收购旧 AIG Edison 生命 + AIG Star 生命** ★ |
+| 2008 | 旧 2 社整合 → 保德信吉布罗陀金融人寿（PGF 人寿）|
+| 2010～2020 | LP 渠道・经营者保险品牌确立期 |
+| 2018～ | 银行窗口销售的趸缴外币计价保险 主力化（PGF 人寿）|
+| 2020～ | 新冠疫情 → LP 面对面营业数字化加速 |
+| 2024～ | 在日银正常化局面下运用收益率改善、奖金、上调预定利率 |
 
-## 2. 业务分部地图
+## 2. 事业分部地图
 
-| 分部 | 主要法人 | 特点 |
+| 分部 | 主要运营者 | 特征 |
 |---|---|---|
-| 个人保险 / 高额层 | Prudential Life | 经营者保险、终身保险、LP 渠道代表 |
-| 个人保险 / 大众层 | Gibraltar Life | 代理店和教职员共济渠道 |
-| 银行窗口销售 / 一次缴 | PGF Life | 外币一次缴终身和年金 |
-| 法人保险 | 以 Prudential Life 为中心 | 中小企业 owner-manager 和事业承继 |
-| 教职员市场 | Gibraltar Life | 承继旧协荣生命时代的教职员网络 |
-| 资产运用 / 寿险资产 | Prudential Investment Management Japan / PGIM Japan | 母公司系 PGIM 品牌 |
+| 个人保险・高额层 | 保德信人寿 | 经营者保险・终身保险・LP 渠道的代表 |
+| 个人保险・大众层 | 吉布罗陀人寿 | 代理店・教职员共济 |
+| 银行窗口销售・趸缴 | PGF 人寿 | 外币计价趸缴终身・年金 |
+| 法人保险 | 以保德信人寿为中心 | 中小企业业主・事业承继 |
+| 教职员市场 | 吉布罗陀人寿 | 继承旧协荣生命时代以来的教职员共济网络 |
+| 资产运用（寿险资产）| Prudential Investment Management Japan / PGIM Japan | 母公司系 PGIM 品牌 |
 
-### Life Planner（LP）模式
+### 寿险规划师（LP）模式
 
-- **LP = Life Planner**：具备高度专业能力的全佣金销售人员。^[extracted]
-- 与日本大型寿险的广泛「sales lady」招聘模式不同，LP 模式聚焦转职者和有资质人才，并提供专业教育。
-- 目标客户包括经营者、富裕层、专业人士、高额终身保险和经营者保险。
-- 类似 / 竞争模式：[[megabanks/sony-fg]] Sony Life 也是 LP 模式代表；外资寿险包括 MetLife、AXA、Manulife 等。
+- **LP = Life Planner**：拥有高度资格的全佣金营业员 ^[extracted]
+- 与国内大型寿险的"营业女士"大众招聘模式不同，**将招聘收窄至转职者・有资格者 + 专门教育**
+- 对象为经营者・富裕层・专业人士，以高额终身保险・经营者保险为中心
+- 竞争・类似模式：**[[megabanks/sony-fg]] 索尼人寿**（同为 LP 模式代表）、外资系寿险（大都会人寿、安盛、宏利等）
 
-### 3  品牌区分战略
+### 3 品牌区分使用战略
 
 | 品牌 | 渠道 | 目标 |
 |---|---|---|
-| **Prudential Life** | Life Planner / 高度直销 | 经营者、高额层、专业人士 |
-| **Gibraltar Life** | 代理店 / 教职员共济网络 | 教职员和代理店渠道大众层 |
-| **PGF Life** | 银行窗口销售 | 银行客户、一次缴外币产品购买层 |
+| **保德信人寿** | 寿险规划师（直销高度营业）| 经营者・高额层・专业人士 |
+| **吉布罗陀人寿** | 代理店・教职员共济 | 教职员・经代理店的大众层 |
+| **PGF 人寿** | 银行窗口销售 | 银行客户・趸缴外币计价购买层 |
 
-- **战略意义**：将 3  个不同销售渠道作为不同法人和品牌运营，避免渠道冲突，并针对各 segment 优化。
-- 从普通客户视角看，3 社 个品牌共享同一美国 Prudential 母公司这一点并不总是明显。
+- **战略意义**：通过以**独立法人 × 独立品牌运营** 3 个不同的销售渠道，规避渠道冲突 + 针对各分部进行优化
+- 从一般客户视角看，该设计使人**难以看出 3 社 属于同一母公司（美国保德信）**
 
-### 主要竞争者 ^[extracted]
+### 主要竞争对手 ^[extracted]
 
 | 竞争类别 | 主要对手 |
 |---|---|
-| 国内 LP 模式代表 | [[megabanks/sony-fg]] Sony Life，同样是高度顾问模式 |
-| 外资寿险 | MetLife、AXA Life、Manulife、Aflac |
-| 国内大型寿险 | [[life-insurers/dai-ichi-life]] Dai-ichi Life、[[life-insurers/meiji-yasuda]] Meiji Yasuda Life、日本生命、住友生命 |
-| 银行窗口销售层 | 日本生命一次缴产品、Dai-ichi Frontier Life（[[life-insurers/dai-ichi-life]] 子公司）、Manulife |
+| LP 模式国内代表 | [[megabanks/sony-fg]] 索尼人寿（同样的高度营业员模式）|
+| 外资系寿险 | 大都会人寿、安盛人寿、宏利人寿、Aflac 人寿 |
+| 国内大型寿险 | [[life-insurers/dai-ichi-life]] 第一生命、[[life-insurers/meiji-yasuda]] 明治安田生命、日本生命、住友生命 |
+| 银行窗口销售层 | 日本生命（趸缴）、第一 Frontier 生命（[[life-insurers/dai-ichi-life]] 子公司）、宏利 |
 
-### 日本在美国 Prudential Financial 中的位置
+### 母公司（美国 Prudential Financial）中日本的定位
 
-- 日本是母公司国际保险组合中的大型非美国市场。
-- 主要风险包括日元负债、日本利率环境、日本人口动态和寿险市场缩小。
+- 风险因素：日元贬值・日本利率环境变动・日本人口动态（保险市场萎缩）
 
-## 4. 监管 / 政策
+## 4. 监管・政策
 
-- **主管**：金融厅。
-- **相关法律**：《保险业法》，涵盖寿险公司认可和健全性监管。
-- **近期政策议题**：
-  - 2024：日本央行政策利率正常化，为日元保险产品预定利率上调提供空间。
-  - 2025：经济价值基础新偿付能力监管 / ICS 的国内正式适用。
-  - 银行窗口销售监管，尤其与 PGF Life 相关。
-  - 外币一次缴产品的销售适合性问题，金融厅监控强化。
+- **主管**：金融厅（FSA）
+- **相关法**：保险业法（保险公司的认可・健全性监管）
+- **近期政策论点**：
+  - 2024～ 日银政策利率正常化 → 日元计价保险产品预定利率的上调空间
+  - 2025～ 经济价值基础新偿付能力监管（ICS 国内适用全面化）
+  - 银行窗口销售监管（PGF 人寿相关）的持续重审
+  - 外币计价趸缴产品的销售适当性问题（金融厅监测强化）
 
-### 为什么维持 3 社 家并立结构
+### 为何维持 3 社并立结构
 
-- **按渠道优化**：LP 高度直销、代理店、银行窗口销售在产品设计、成本结构和销售方法上差异很大。
-- **法人整合成本大于协同**：整合可能扰乱销售现场、代理店合同和教职员网络。
+- **按渠道优化**：LP（高度直销）・代理店・银行窗口销售在产品设计・成本结构・营业手法上差异巨大
+- **法人整合的成本 > 整合协同**：一旦整合，营业一线・代理店合同・教职员网络将陷入混乱
 
 ### 旧协荣生命收购（2001）的意义
 
-- 1997 至 2001  的寿险破产阶段包括 Nissan Life、Toho Life、Daihyaku Life、Taisho Life、Chiyoda Life、Kyoei Life、Tokyo Life，是外资正式进入日本寿险市场的决定性时期。
-- 对美国 Prudential 来说，该交易一次性取得第二条渠道：Prudential Life 的 LP 直销 + Gibraltar Life 的代理店 / 教职员网络。^[extracted]
+- 在寿险破产潮期（1997～2001 日产生命・东邦生命・第百生命・大正生命・千代田生命・协荣生命・东京生命）中**外资系全面进入的决定性一击**
+- 对美国保德信而言，一举获得 **LP 直销（保德信人寿）+ 代理店・教职员（吉布罗陀人寿）的双刀流** ^[extracted]
 
-### 旧 AIG 系 2 社 收购（2008）的意义
+### 旧 AIG 系 2 社收购（2008）的意义
 
-- 在 Lehman shock 和 AIG 救济后，AIG 被迫出售日本寿险子公司。
-- 美国 Prudential 获得旧 Star / Edison Life 的银行窗口销售渠道，完成 3  渠道体制。^[extracted]
+- AIG 因 **雷曼冲击・AIG 救助** 被迫出售日本寿险子公司的局面
+- 美国保德信 **获得银行窗口销售渠道（旧 Star/Edison 生命）**，完成 3 渠道体制 ^[extracted]
 
 ## Related
 
-- [[megabanks/sony-fg]] - 同为 LP 模式代表，也是主要战略同业
-- [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda]] - 国内大型寿险
-- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] - 银行和银行窗口销售渠道提供方
+- [[megabanks/sony-fg]]（同为 LP 模式代表，最大的战略竞争对手）
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda]]（国内大型寿险）
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（提供银行窗口销售渠道）
 
 ## Sources
 
-- **Wikipedia: Prudential Life Insurance**：2026-05-19 抽出。
-- **Wikipedia: Gibraltar Life Insurance**：2026-05-19 抽出。
-- **Wikipedia: Prudential Gibraltar Financial Life Insurance**：2026-05-19 抽出。
-- Prudential Financial, Inc. Form 10-K，公开 SEC filing。
-- 金融厅公开保险公司业务报告。
+- **Wikipedia: プルデンシャル生命保険**（2026-05-19 抽取）
+- **Wikipedia: ジブラルタ生命保険**（2026-05-19 抽取）
+- **Wikipedia: プルデンシャル ジブラルタ ファイナンシャル生命保険**（2026-05-19 抽取）
+- Prudential Financial, Inc. Form 10-K（公开・美国 SEC 提交）
+- 金融厅 保险公司的业务报告（公开）
 
 ---
 
-> [!info] 校验状态
-> confidence: **likely**。基于 1.0  Wikipedia 和公开 IR 校核 2026-05-19。3 社 并立结构、2001  协荣 / 2008  AIG 系收购谱系是可通过 Wikipedia 和公开披露确认的公开信息。单体合并财务细节披露有限，主要来源是美国 PRU Form 10-K 分部披露。3 社 的业务规模和渠道比例细节取决于披露时点，请参照最新母公司 10-K。
+> [!info] 验证状况
+> confidence: **likely**（v1.0 Wikipedia + 公开 IR 校核 2026-05-19）。3 社并立结构・收购谱系（2001 协荣 / 2008 AIG 系）为经由 Wikipedia 可确认的公开信息。合并财务数值的个别披露有限，美国 PRU Form 10-K 分部披露为主要来源。3 社的事业规模・渠道比率详情取决于 IR 披露时点，最新值请参照母公司 10-K。

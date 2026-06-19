@@ -1,44 +1,44 @@
 ---
 source: non-life-insurers/tokio-marine-direct
-source_hash: 0aa4206ca6933630
+source_hash: 4ac4b2b267329e10
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上ダイレクト損害保険"
-translated_at: 2026-06-02T16:33:58.472Z
+translated_at: 2026-06-19T06:09:18.132Z
 ---
+
 # 東京海上ダイレクト損害保険
 
+## Wiki route
 
-## ウィキ上の位置づけ
+本エントリは [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア／対比の文脈については [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] と、より広範な体系／規制境界については [[insurance/INDEX|insurance index]] と照らし合わせて読むこと。
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置かれる。比較・対照の文脈では [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] を、より広い制度・規制上の境界については [[insurance/INDEX|insurance index]] を参照する。
+## TL;DR
 
-## 要約
+東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] グループのダイレクト損保。旧イーデザイン損保の系譜を持ち、金融庁の損害保険会社免許一覧では現行の法人名として掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別のダイレクトチャネル事業会社。
 
-東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] group のダイレクト型損害保険会社。旧イーデザイン損保の系譜を持ち、金融庁の損害保険会社免許一覧では現在の法人名で掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別のダイレクトチャネル運営会社。
+## 1. License / group boundary
 
-## 1. 法人・グループ境界
-
-| 項目 | 内容 |
+| Item | Notes |
 |---|---|
-| 法人名 | 東京海上ダイレクト損害保険株式会社 |
-| 旧ブランド | イーデザイン損保 |
-| 免許経路 | 保険業法上の損害保険会社；FSA 損害保険会社一覧 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ境界 | [[non-life-insurers/tokio-marine]] のダイレクト型損害保険運営会社 |
+| Legal name | 東京海上ダイレクト損害保険株式会社 |
+| Former brand | イーデザイン損保 |
+| License route | 保険業法 損害保険会社；金融庁 損害保険会社免許一覧 |
+| Protection scheme | 損害保険契約者保護機構 会員 |
+| Group boundary | [[non-life-insurers/tokio-marine]] ダイレクト損保事業会社 |
 
-## 2. 事業モデル
+## 2. Operating model
 
-東京海上ダイレクトは、同グループのダイレクト / デジタル型損害保険部門であり、従来型の代理店主導の [[non-life-insurers/tokio-marine-nichido-fire]] とは分けて運営される。この分担により、Tokio Marine はフルサービスの代理店チャネルと、デジタル直販の自動車保険を別ブランド・別システムで併走させている。
+東京海上ダイレクトは、従来の代理店主導型である [[non-life-insurers/tokio-marine-nichido-fire]] とは別の、グループのダイレクト／デジタル損保部門である。この分割により、東京海上はフルサービスの代理店チャネルと、デジタルのダイレクト自動車保険とを、別々のブランド・システムの下で両立して運営できる。
 
-## 3. 独立ページとする理由
+## 3. Why this page matters
 
-- eDesign から Tokio Marine Direct への名称変更・旧ブランド境界を記録する。
-- Tokio Marine の損害保険運営会社の分担を補完する。
-- レジストリで確認できる D4 ダイレクト / デジタル型損害保険ページ。
+- イーデザインから東京海上ダイレクトへの名称変更／旧ブランド境界を捉える。
+- 東京海上の損害保険事業会社分割を完成させる。
+- 注册登记に裏付けられた D4 ダイレクト／デジタル損保ページ。
 
-## 関連項目
+## Related
 
 - [[non-life-insurers/tokio-marine]]
 - [[non-life-insurers/tokio-marine-nichido-fire]]
@@ -46,8 +46,8 @@ translated_at: 2026-06-02T16:33:58.472Z
 - [[non-life-insurers/sompo-direct]]
 - [[insurance/INDEX]]
 
-## 出典
+## Sources
 
-- FSA: 2026-04-01 時点の損害保険会社免許一覧。
-- 損害保険契約者保護機構: 2026-04 時点の会員会社一覧。
+- 金融庁：損害保険会社免許一覧、2026-04-01 時点。
+- 損害保険契約者保護機構：会員会社一覧、2026-04 時点。
 - 東京海上ダイレクト 公式会社概要。

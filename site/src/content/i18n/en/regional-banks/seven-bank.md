@@ -1,13 +1,14 @@
 ---
 source: regional-banks/seven-bank
-source_hash: efbf9cab130bc899
+source_hash: ec80bb6986622b9e
 lang: en
 status: machine
 fidelity: ok
-title: "Seven Bank"
-translated_at: 2026-06-01T00:41:50.449Z
+title: "セブン銀行 (Seven Bank)"
+translated_at: 2026-06-19T12:43:19.856Z
 ---
-# Seven Bank
+
+# セブン銀行 (Seven Bank)
 
 ## Wiki route
 
@@ -15,110 +16,110 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-An **ATM-specialized bank**. Based on about **27,990 ** ATMs (as of 2025-03  end) installed across the Seven-Eleven store network, it is a B2B2C model whose main earnings come from **ATM usage fees** from partner financial institutions. It was established as IY Bank in 2001-04-10, opened in 2001-05-21, and changed its trade name to Seven Bank in 2005-10 . The largest shareholder is the [[retail/seven-and-i-hd|seven-and-i-hd]] group (through Seven-Eleven Japan). Through the share buyback in 2025-06 , that HD reduced its voting-right ratio from about 46% (as of 2025-03 ) to **39.93%**, and Seven Bank moved from consolidated subsidiary to **equity-method affiliate**. TSE PRIME 8410. Its own lending and deposit-taking are limited, making it an "ATM platformer" business type different from traditional banking. Inbound tourism demand (support for overseas-issued cards) and ASEAN expansion (Philippines / Indonesia) are new growth axes. ^[extracted]
+**An ATM-specialized bank.** Built on approximately **27,990  ATMs** (as of end-2025-03 ) installed across the Seven-Eleven store network, it operates a B2B2C model whose primary revenue is **ATM-usage fees** from partner financial institutions. Established as IY Bank in 2001-04-10, it opened in 2001-05-21 and changed its name to Seven Bank in 2005-10 . Its largest shareholder is the [[retail/seven-and-i-hd|seven-and-i-hd]] group (via Seven-Eleven Japan). Through share buybacks in 2025-06 , that HD lowered its voting-rights ratio from approximately 46% (as of 2025-03 ) to **39.93%**, and Seven Bank shifted from a consolidated subsidiary to an **equity-method affiliate**. TSE PRIME 8410. Its own lending and deposits are limited, making it an "ATM platformer" business model that differs from traditional banking. Inbound-tourism demand (support for overseas-issued cards) and ASEAN expansion (the Philippines, Indonesia) are new growth axes. ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: Seven Bank, Ltd. ^[extracted]
+**Legal name**: 株式会社セブン銀行 ^[extracted]
 **English name**: Seven Bank, Ltd.
-**Securities code**: TSE PRIME 8410 (2011-04  TSE First Section listing, 2022-04  PRIME segment migration) ^[extracted]
-**Former code**: JASDAQ 8410 (2008-02  listing → 2011-04  First Section transfer)
-**Establishment**: 2001-04-10 (as IY Bank Co., Ltd.) ^[extracted]
-**Opening**: 2001-05-21 ^[extracted]
-**Trade-name change**: 2005-10 (renamed Seven Bank) ^[extracted]
+**Securities code**: TSE PRIME 8410 (2011-04  TSE First Section listing, 2022-04  migration to the PRIME segment) ^[extracted]
+**Former code**: JASDAQ 8410 (2008-02  listing → 2011-04  migration to the First Section)
+**Established**: 2001-04-10 (as IY Bank Co., Ltd. / 株式会社アイワイバンク銀行) ^[extracted]
+**Opened**: 2001-05-21 ^[extracted]
+**Name change**: 2005-10 (renamed Seven Bank) ^[extracted]
 **Head office**: Marunouchi Center Building, 1-6-1  Marunouchi, Chiyoda-ku, Tokyo ^[extracted]
-**Largest shareholder**: Seven-Eleven Japan Co., Ltd. (voting rights **39.93%**, 2025-09  end). Indirectly held by the parent company Seven & i Holdings Co., Ltd. In response to the share buyback in 2025-06  (announced 2025-06-19, purchase started 2025-06-20), Seven & i HD's ownership ratio fell from about 46% (as of 2025-03 ) to 39.93%, and Seven Bank moved from consolidated subsidiary of that HD to **equity-method affiliate**.
+**Largest shareholder**: Seven-Eleven Japan Co., Ltd. (voting rights **39.93%**, as of end-2025-09 ). Its parent, Seven & i Holdings Co., Ltd., holds an indirect stake. In response to the share buyback of 2025-06  (announced 2025-06-19, acquisition started 2025-06-20), Seven & i HD's holding ratio fell from approximately 46% (as of 2025-03 ) to 39.93%, and Seven Bank shifted from a consolidated subsidiary of that HD to an **equity-method affiliate**
 
-### Major Subsidiaries / Group ^[extracted]
+### Main subsidiaries / group ^[extracted]
 
 ```
-Seven Bank (listed 8410, , largest shareholder = Seven-Eleven Japan 39.93%)
-  ├── ATM business (domestic) ── about 27,990  units (2025-03  end)
-  ├── Overseas remittance business ── Western Union partnership
-  ├── Seven Bank ATM Philippines (Philippines) ── from 2018-04
-  ├── PT. ABADI TAMBAH MULIA INTERNASIONAL (ATMi, Indonesia) ── from 2019-08
-  ├── FCTI, Inc. (US) ── Americas ATM network
-  └── Bank Business Factory (business outsourcing)
+セブン銀行（上場 8410, 筆頭株主=セブン-イレブン・ジャパン 39.93%）
+  ├── ATM 事業（国内）── 約 27,990 台（2025-03 末）
+  ├── 海外送金事業 ── Western Union 提携
+  ├── Seven Bank ATM Philippines（フィリピン）── 2018-04〜
+  ├── PT. ABADI TAMBAH MULIA INTERNASIONAL（ATMi、インドネシア）── 2019-08〜
+  ├── FCTI, Inc.（米国）── 米州 ATM ネットワーク
+  └── Bank Business Factory（業務代行）
 ```
 
-### Shareholder Structure
+### Shareholder structure
 
-- Seven-Eleven Japan (Seven & i HD group): **39.93%** (voting rights, 2025-09  end) — about 46% before the 2025-06  share buyback (2025-03)
-- Institutional investors (trust and custody firms)
+- Seven-Eleven Japan (Seven & i HD group): **39.93%** (voting rights, as of end-2025-09 ) — before the share buyback of 2025-06  it was approximately 46% (2025-03)
+- Institutional investors (trust / custody companies)
 - Individual shareholders
 
-### Important Timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| **2001-04-10** | **IY Bank Co., Ltd. established** (retail-group bank concept led by Ito-Yokado) |
-| **2001-05-21** | **Opened for business** (start of convenience-store ATM-specialized bank model) |
-| 2005-10 | **Trade name changed → Seven Bank, Ltd.** (along with the launch of Seven & i HD) |
-| 2008-02 | Listed on JASDAQ (securities code 8410) |
-| **2011-04** | **Listed on TSE First Section** (predecessor qualification for Prime Market) |
-| 2011 onward | Sequential upgrade from 2 th-generation ATM machines to 3 th-generation ATM machines |
-| **2018-04** | **Overseas ATM expansion (Philippines) started** ── Seven Bank ATM Philippines |
-| 2019-08 | **Overseas ATM expansion (Indonesia)** ── PT. ABADI TAMBAH MULIA INTERNASIONAL (ATMi) |
-| 2020-2023 | COVID period ── international ATM revenue declined as inbound tourism disappeared; domestic visits also fell |
-| 2022-04 | TSE PRIME segment migration (market-segment review) |
-| 2023 onward | **V-shaped recovery in inbound tourism** → increased overseas-issued card ATM usage |
-| 2024 onward | **Sequential rollout of 4 th-generation ATM machines** (facial recognition, smartphone linkage, cardless support) |
+| **2001-04-10** | **株式会社アイワイバンク銀行 設立**（イトーヨーカ堂主導の流通系銀行構想）|
+| **2001-05-21** | **開業**（コンビニ ATM 専業銀行モデル開始）|
+| 2005-10 | **商号変更 → 株式会社セブン銀行**（セブン&アイ HD 発足に合わせて）|
+| 2008-02 | ジャスダック上場（証券コード 8410）|
+| **2011-04** | **東証一部上場**（プライム市場予備格） |
+| 2011〜 | 第 2 世代 ATM 機 → 第 3 世代 ATM 機 順次更新 |
+| **2018-04** | **ATM 海外展開（フィリピン）開始** ── Seven Bank ATM Philippines |
+| 2019-08 | **ATM 海外展開（インドネシア）** ── PT. ABADI TAMBAH MULIA INTERNASIONAL（ATMi）|
+| 2020〜2023 | コロナ禍 ── 訪日インバウンド消失で国際 ATM 収益低下、国内も来店減 |
+| 2022-04 | 東証 PRIME 区分移行（市場区分見直し）|
+| 2023〜 | **訪日インバウンド V 字回復** → 海外発行カード ATM 利用増 |
+| 2024〜 | **第 4 世代 ATM 機 順次展開**（顔認証・スマホ連携・カードレス対応）|
 
-## 2. Business Segment Map
+## 2. Business-segment map
 
-| Segment | Main business | Characteristics |
+| セグメント | 主要事業 | 特徴 |
 |---|---|---|
-| Domestic ATM | About 27,990  units (2025-03  end), about 600 行 partners | Domestic ATM installation count is the 2 位 largest after Japan Post Bank |
-| Inbound-visitor ATM | Supports overseas-issued cards (VISA / Mastercard / UnionPay / JCB / AMEX / Discover, etc.) | Linked to inbound demand |
-| Individual banking | Own Seven Bank accounts (internet banking) | Limited (not main earnings axis) |
-| Credit / debit cards | Seven Bank cash card with debit, etc. | Retail route |
-| Overseas remittance | Western Union partnership | For foreign workers in Japan |
-| ASEAN expansion | Philippines (from 2018) / Indonesia (from 2019) | Local ATM networks |
-| Americas | FCTI, Inc. | US ATM network |
-| BaaS / operations outsourcing | Bank Business Factory | Banking operations outsourcing service |
+| 国内 ATM | 約 27,990 台（2025-03 末）、提携 約 600 行 | 国内 ATM 設置数はゆうちょ銀行に次ぐ第 2 位規模 |
+| 訪日外国人 ATM | 海外発行カード対応（VISA / Mastercard / UnionPay / JCB / AMEX / Discover 等）| 訪日需要連動 |
+| 個人銀行業務 | 自前のセブン銀行口座（ネットバンキング） | 限定的（収益主軸ではない）|
+| クレカ・デビット | セブン銀行デビット付きキャッシュカード等 | リテール導線 |
+| 海外送金 | Western Union 提携 | 在日外国人労働者向け |
+| ASEAN 展開 | フィリピン（2018-）・インドネシア（2019-）| 現地 ATM ネットワーク |
+| 米州 | FCTI, Inc. | 米国 ATM ネットワーク |
+| BaaS / 業務代行 | Bank Business Factory | 銀行業務代行サービス |
 
-### Earnings Model (B2B2C)
+### Revenue model (B2B2C)
 
-1. **Customers** (users of partner banks) withdraw cash / check balances at ATMs inside Seven-Eleven stores
-2. **Seven Bank** sends "ATM usage notice" to partner banks + bills fees
-3. **Partner banks** pay a fixed fee (customer-borne portion + own-bank-borne portion)
+1. A **customer** (a user of a partner bank) withdraws cash or checks a balance at an in-store ATM at a Seven-Eleven
+2. **Seven Bank** sends an "ATM usage notice" + fee billing to the partner bank
+3. The **partner bank** pays a certain fee (the portion borne by the customer + the portion borne by the bank itself)
 
-### Core Platform Strategy
+### Core-platform strategy
 
-- **Seven-Eleven × bank retail integration**: ATMs are embedded in parent Seven & i HD's store network (over about 21,000 店 nationwide), turning the customer store-visit route itself into banking infrastructure.
-- **About 600 行 partners**: partner network broadly covers Japanese banks, shinkin banks, credit cooperatives, rokin, and overseas card companies.
-- **4 th-generation ATM machines** (from 2024 onward): facial authentication, smartphone linkage, and cardless transaction support → advanced platformization of ATMs
+- **Retail integration of Seven-Eleven × banking**: By embedding ATMs into the store network of parent Seven & i HD (approximately 21,000 店+ nationwide), it turns the very flow of store visitors into banking infrastructure
+- **Approximately 600 行 partners**: A partner network broadly covering domestic banks, shinkin banks, credit cooperatives, and labor banks + overseas card companies
+- **4 -generation ATMs** (from 2024): Face authentication, smartphone linkage, and cardless transactions → advanced platformization of the ATM
 
-### Inbound Tourism Linkage
+### Inbound-tourism linkage
 
-- **Overseas-issued card support**: supports major international brands including VISA / Mastercard / UnionPay (China UnionPay) / JCB / AMEX / Discover / Diners.
-- **Multilingual support**: when using overseas-issued cards, ATM screens, receipts, and voice support **12  languages** (Japanese, English, Simplified Chinese, Traditional Chinese, Korean, Thai, Malay, Indonesian, Vietnamese, French, German, Portuguese; expanded from 5  languages in 2015-12 ). For Seven Bank cash card use, support is 9  languages.
-- **2023 onward inbound V-shaped recovery**: international travel revival after COVID expanded overseas-issued card usage again.
+- **Overseas-issued card support**: Supports major international brands such as VISA / Mastercard / UnionPay (China UnionPay) / JCB / AMEX / Discover / Diners
+- **Multilingual support**: When an overseas-issued card is used, the ATM screen, statement slip, and audio support **12  languages** (Japanese, English, Simplified Chinese, Traditional Chinese, Korean, Thai, Malay, Indonesian, Vietnamese, French, German, Portuguese; expanded from 5  languages in 2015-12 ). When a Seven Bank cash card is used, it supports 9  languages
+- **V-shaped inbound recovery from 2023 onward**: With the revival of international travel from the COVID period, the use of overseas-issued cards is re-expanding
 
-### Overseas Expansion
+### Overseas expansion
 
-- **Philippines** (from 2018-04): Seven Bank ATM Philippines, linked with the local Seven-Eleven network
+- **The Philippines** (from 2018-04): Seven Bank ATM Philippines, linked with the local Seven-Eleven network
 - **Indonesia** (from 2019-08): PT. ABADI TAMBAH MULIA INTERNASIONAL (ATMi)
-- **United States**: FCTI, Inc. ── Americas ATM network
+- **The Americas**: FCTI, Inc. ── the U.S. ATM network
 
-### Cross-Border Payments
+### Cross-border settlement
 
-- **Western Union partnership**: captures overseas remittance demand from foreign workers in Japan through ATMs
-- **International brand support**: captures cross-border demand on both axes of visitors to Japan and foreign residents in Japan
+- **Western Union partnership**: Absorbs the overseas-remittance demand of foreign workers in Japan via ATMs
+- **International-brand support**: Captures cross-border demand along both axes of inbound foreign visitors + foreign residents in Japan
 
-### Competition
+### Competitive relationships
 
-- **Aeon Bank**: another representative retail-group bank (Aeon group store network + ATM strategy)
-- **Convenience-store ATMs**: Lawson Bank ([[regional-banks/lawson-bank]]), E-net (FamilyMart line; parent company = [[megabanks/smfg]] group)
+- **Aeon Bank**: Another representative of distribution-affiliated banks (Aeon group's store network + ATM strategy)
+- **Convenience-store ATMs**: Lawson Bank ([[regional-banks/lawson-bank]]), E-net (FamilyMart-affiliated; parent = [[megabanks/smfg]] group)
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
 - **Supervisor**: Financial Services Agency (FSA)
-- **Business type**: commercial bank under the Banking Act (retail-group internet bank category)
+- **Business model**: An ordinary bank under the Banking Act (distribution-affiliated net-bank category)
 - **Recent policy issues**:
-  - 2024 onward: **promotion of cashless payments** vs **maintenance of ATM usage** → long-term cash-demand decline risk
-  - 2024 onward: **inbound revival** restoring international ATM demand
-  - 2025 onward: **rollout of 4 th-generation ATM machines** (new functions such as facial recognition → compliance / privacy regulation response)
+  - From 2024 onward, **promotion of cashless payments** vs **maintaining ATM use** → risk of a long-term decline in cash demand
+  - From 2024 onward, **recovery of international ATM demand** with the inbound revival
+  - From 2025 onward, **rollout of 4 -generation ATMs** (new functions such as face authentication → compliance / privacy-regulation response)
 
 ## Related
 
@@ -128,14 +129,14 @@ Seven Bank (listed 8410, , largest shareholder = Seven-Eleven Japan 39.93%)
 
 ## Sources
 
-- **Wikipedia: Seven Bank, Ltd.** (https://ja.wikipedia.org/wiki/セブン銀行, extracted 2026-05-19)
-- Seven Bank official corporate site history (see 2026-05-19)
-- Seven & i Holdings securities report (2025-02  period)
-- **Nikkei: "Seven & i reduces Seven Bank shareholding ratio to 39.9％, makes it equity-method affiliate"** (https://www.nikkei.com/article/DGXZQOUC195J00Z10C25A6000000/, 2025-06-19) ── ownership ratio 39.93% and equity-method affiliate conversion
-- **Seven Bank FAQ: "Languages supported on ATM screens and interphones"** (https://faqsearch.sevenbank.co.jp/answer/68c01bae0aed5a17102b5816/) ── overseas-issued cards 12  languages / own-bank cards 9  languages
-- **Seven & i Holdings share status** (https://www.7andi.com/ir/stocks/overview.html)
+- **Wikipedia: 株式会社セブン銀行**（https://ja.wikipedia.org/wiki/セブン銀行, 2026-05-19 抽出）
+- セブン銀行 公式コーポレートサイト 沿革（2026-05-19 参照）
+- セブン&アイ・ホールディングス 有価証券報告書（2025-02 期）
+- **日本経済新聞「セブン＆アイ、セブン銀行株保有比率39.9％に低下 持ち分法適用会社に」**（https://www.nikkei.com/article/DGXZQOUC195J00Z10C25A6000000/, 2025-06-19）── 持株比率 39.93%・持分法適用会社化
+- **セブン銀行 FAQ「ATM 画面やインターホンで対応している言語」**（https://faqsearch.sevenbank.co.jp/answer/68c01bae0aed5a17102b5816/）── 海外発行カード 12 言語 / 自行カード 9 言語
+- **セブン&アイ・ホールディングス 株式の状況**（https://www.7andi.com/ir/stocks/overview.html）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.1  Wikipedia + official IR + public reporting basis, updated 2026-05-19 / shareholding ratio with 2025-06  disclosures). ATM installation count (about 27,990  units, 2025-03  end) and 12  supported languages confirmed from official information. Seven & i HD's holding ratio fell from about 46% to 39.93% through the 2025-06  share buyback, and Seven Bank moved from consolidated subsidiary to equity-method affiliate (confirmed by Nikkei 2025-06-19 reporting). Number of partner financial institutions (about 600 行) is an approximate public-information figure. Specific financial results figures (ordinary income, net income, etc.) are not covered in this article; see official IR separately.
+> confidence: **likely** (based on Wikipedia v1.1  + official IR + public reporting; 2026-05-19 / the holding ratio is updated per the 2025-06  disclosure). The number of ATMs installed (approximately 27,990  as of end-2025-03 ) and the 12  supported languages are confirmed from official information. Seven & i HD's holding ratio fell from approximately 46% to 39.93% due to the share buyback of 2025-06 , and Seven Bank shifted from a consolidated subsidiary to an equity-method affiliate (confirmed by Nikkei reporting 2025-06-19). The number of partner financial institutions (approximately 600 行) is an approximate figure on a public-information basis. Specific performance figures (ordinary revenue, net profit, etc.) are not taken up in this article; refer separately to official IR.

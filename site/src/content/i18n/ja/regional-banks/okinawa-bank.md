@@ -1,45 +1,45 @@
 ---
 source: regional-banks/okinawa-bank
-source_hash: fa0965eff57e2b78
+source_hash: 81e14a244c3b0e01
 lang: ja
 status: machine
 fidelity: ok
 title: "沖縄銀行"
-translated_at: 2026-06-02T15:14:17.130Z
+translated_at: 2026-06-19T12:43:19.913Z
 ---
 
 # 沖縄銀行
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア比較・対比の文脈では [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
+本エントリは [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。ピア / 対比の文脈として [[regional-banks/fukuoka-bank|福岡銀行]] と、より広範なシステム / 規制の境界として [[banking/INDEX|banking index]] と対比して読むこと。
 
-## 要約
+## TL;DR
 
-株式会社沖縄銀行は、金融庁の銀行免許一覧に掲載される沖縄県本店の地方銀行。[[regional-banks/okinawa-fg]] の中核銀行法人であり、沖縄県内 No.1  の地方銀行 operating-company アンカーとして扱う。
+株式会社沖縄銀行は、金融庁の銀行免許一覧に掲載される沖縄県本店の地方銀行。[[regional-banks/okinawa-fg]] の中核営業銀行であり、沖縄県内 No.1 の地方銀行営業会社アンカーとして扱う。
 
-## 1. 免許・グループ境界
+## 1. 免許 / グループ境界
 
-| 項目 | 備考 |
+| 項目 | 注記 |
 |---|---|
-| 法人名 | 株式会社沖縄銀行 |
+| 正式名称 | 株式会社沖縄銀行 |
 | 免許ルート | 銀行法上の地方銀行；金融庁の銀行免許一覧 |
-| グループ境界 | [[regional-banks/okinawa-fg]] の中核銀行法人 |
-| 主な地盤 | 沖縄 / 那覇 |
-| ウィキ上の役割 | 沖縄の地方銀行 operating-company ページ |
+| グループ境界 | [[regional-banks/okinawa-fg]] の中核営業銀行 |
+| 本拠市場 | 沖縄 / 那覇 |
+| Wiki 上の役割 | 沖縄の地方銀行営業会社ページ |
 
 ## 2. 事業モデル
 
-沖縄銀行は、沖縄県を中心に、個人預金、中小企業金融、観光・建設向け金融、信託代理に隣接するサービス、島しょ経済に根ざしたリレーションシップ・バンキングを担う地方銀行。[[regional-banks/okinawa-fg]] ページは持株会社の戦略とグループ財務を扱い、本ページは銀行免許を持つ法人を扱う。沖縄 / 九州の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照。
+沖縄銀行は、沖縄県を中心にリテール預金、中小企業金融、観光 / 建設金融、信託代理隣接サービス、および島嶼経済のリレーションシップバンキングを担う地方銀行。[[regional-banks/okinawa-fg]] ページは持株会社戦略およびグループ財務を扱い、本ページは銀行免許エンティティを扱う。沖縄 / 九州の地方銀行再編の文脈は [[banking/regional-bank-consolidation-pattern]] を参照。
 
-## 3. この項目が重要な理由
+## 3. 本ページの意義
 
-- 金融庁一覧上の正式名称に対応する沖縄銀行の operating-company gap を埋める。
-- 銀行免許を [[regional-banks/okinawa-fg]] の持株会社カバレッジから分離する。
-- [[regional-banks/ryukyu-bank]] と [[regional-banks/okinawa-kaiho-bank]] のピア比較アンカーを提供する。
+- 沖縄銀行についての金融庁正式名称ベースの営業会社のギャップを埋める。
+- 銀行免許を [[regional-banks/okinawa-fg]] 持株会社のカバレッジから分離する。
+- [[regional-banks/ryukyu-bank]] および [[regional-banks/okinawa-kaiho-bank]] のためのピアアンカーを提供する。
 
-## 関連
+## Related
 
 - [[regional-banks/okinawa-fg]]
 - [[regional-banks/ryukyu-bank]]
@@ -47,7 +47,7 @@ translated_at: 2026-06-02T15:14:17.130Z
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 
-## 出典
+## Sources
 
 - 金融庁：銀行免許一覧、地方銀行、2026-01-01 時点。
 - 沖縄銀行 公式会社概要。

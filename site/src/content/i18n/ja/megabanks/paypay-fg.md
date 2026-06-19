@@ -1,20 +1,20 @@
 ---
 source: megabanks/paypay-fg
-source_hash: 5af77f802b8d347e
+source_hash: dca4e14438e65a5d
 lang: ja
 status: machine
 fidelity: ok
 title: "PayPay 金融グループ"
-translated_at: 2026-06-02T15:14:17.115Z
+translated_at: 2026-06-19T06:09:18.177Z
 ---
 
 # PayPay 金融グループ
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[megabanks/INDEX|megabanks INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[megabanks/au-fh|au フィナンシャルホールディングス (au-FH)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/au-fh|au フィナンシャルホールディングス (au-FH)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 SoftBank 株式会社 + LY Corporation 系の決済中核金融グループ。**コード決済「[[payment-firms/paypay|PayPay]]」登録ユーザー 7000 万超**（2025-07 時点、国内人口の過半数）、QR コード決済シェア約 2/3 で圧倒的首位。銀行・証券・カード・保険のクロスセル「スーパーアプリ」モデル。明示的な持株会社「PayPay 金融グループ」名称は **2024 年頃から使用**（純粋な金融持株会社ではなく機能的グルーピング呼称）。Z Holdings → LY Corporation 統合（2023-10）と **LINE Pay 国内終了（2025-04-30）完遂**を経て、PayPay 経済圏として再編完了。**2025-Q1 から SoftBank の Finance セグメントへ PayPay 銀行が再編入**（売上 4045 億円、社内全セグメント最大成長）。[[payment-firms/rakuten-fg|楽天経済圏]] / [[megabanks/au-fh|au 経済圏]] / d 経済圏 と並ぶ 4 大「通信・決済系経済圏」の一角。**PayPay 株式会社の IPO 観測**が SoftBank FY2025 通期決算（売上 7 兆円超で初）で本格化。
 
@@ -171,12 +171,12 @@ SoftBank Group Corp.（9984、東証 PRIME）
   - 個人情報保護法・金商法・銀行法横断のスーパーアプリ規制論点
   - LINE Pay 残高移行時の資金決済法準拠（払い戻し義務）
 
-## 関連項目
+## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
-## 出典
+## Sources
 
 - **Wikipedia: PayPay**（https://ja.wikipedia.org/wiki/PayPay, 2026-05-19 抽出）
 - **Wikipedia: PayPay銀行**（https://ja.wikipedia.org/wiki/PayPay銀行, 2026-05-19 抽出）
@@ -184,7 +184,7 @@ SoftBank Group Corp.（9984、東証 PRIME）
 - **Wikipedia: PayPayカード**（https://ja.wikipedia.org/wiki/PayPayカード, 2026-05-19 抽出）
 - **Wikipedia: LY Corporation**（https://ja.wikipedia.org/wiki/LYコーポレーション, 2026-05-19 抽出）
 - **Wikipedia: ジャパンネット銀行**（沿革参照）
-- PayPay 株式会社 公式 PR: 「登録ユーザー 70  万人」（2025-07-15）/「7.46  十億回の 2024 年決済」（2025-03-31）/「LINE Pay 残高の PayPay への移行」（2025-01-27）
+- PayPay 株式会社 公式 PR: "70 Million Registered Users"（2025-07-15）/ "7.46 Billion Transactions in 2024"（2025-03-31）/ "LINE Pay Balance Transferable to PayPay"（2025-01-27）
 - LINE ヤフー株式会社 公式（LINE Pay 国内サービス終了告知）
 - SoftBank Corp (9434) FY2025 通期決算説明資料（2025-11-05）
 - PayPay 株式会社 公式コーポレートサイト
@@ -195,4 +195,4 @@ SoftBank Group Corp.（9984、東証 PRIME）
 ---
 
 > [!info] 検証状況
-> 信頼度: **高め**（v1.1 公式 PR + SoftBank IR + Wikipedia ベース 2026-05-19 更新）。**2025 年 KPI を全面更新**: ユーザー 7000 万、銀行口座 900 万、預金 1.9 兆円、GMV 12.5 兆円、Finance セグメント 4045 億円。LINE Pay 統合は 2025-04-30 完遂、事業譲渡なしの残高移行のみ。「PayPay 金融グループ」は機能的呼称で、正式持株会社ではない点に留意。PayPay カード有効会員は 2023-03 時点（最新公開）で 1000 万超止まり、最新値は要確認。PayPay 証券は FY2020 が最新公開財務で黒字化状況不明。
+> confidence: **likely**（v1.1 公式 PR + SoftBank IR + Wikipedia ベース 2026-05-19 更新）。**2025 年 KPI を全面更新**: ユーザー 7000 万、銀行口座 900 万、預金 1.9 兆円、GMV 12.5 兆円、Finance セグメント 4045 億円。LINE Pay 統合は 2025-04-30 完遂、事業譲渡なしの残高移行のみ。「PayPay 金融グループ」は機能的呼称で、正式持株会社ではない点に留意。PayPay カード有効会員は 2023-03 時点（最新公開）で 1000 万超止まり、最新値は要確認。PayPay 証券は FY2020 が最新公開財務で黒字化状況不明。

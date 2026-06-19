@@ -1,128 +1,128 @@
 ---
 source: payment-firms/gmo-aozora-net
-source_hash: ecc9ba5ced5fec7a
+source_hash: 9bb0e217ef0f7e63
 lang: zh
 status: machine
 fidelity: ok
 title: "GMO 青空网络银行"
-translated_at: 2026-05-31T15:29:03.952Z
+translated_at: 2026-06-19T06:09:18.164Z
 ---
 
 # GMO 青空网络银行
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[regional-banks/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。请与 [[regional-banks/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] 对照阅读以获取同业／对比语境，并与 [[banking/INDEX|banking index]] 对照以了解更广泛的体系／监管边界。
 
 ## TL;DR
 
-**法人特化 BaaS（Banking as a Service）軸**のネット銀行。旧 **あおぞら信託銀行**（[[regional-banks/aozora-bank]] 子会社）を母体に、2018-07 **GMO インターネットグループ**が議決権の過半を取得して改称・ネット銀行化。種類株式の再編後、株主構成は**普通株（持株）比率であおぞら銀行 50.00% / GMO インターネットグループ 25.00% / GMO フィナンシャルホールディングス 25.00%**、**議決権比率ではあおぞら銀行 85.12% / GMO 両社各 7.43%**（2026-02-20 時点、あおぞら保有分の一部が議決権制限付種類株式のため持株比率と議決権比率が乖離）。**個人重視の楽天銀行・PayPay 銀行・住信 SBI ネット銀行とは異なり、フリーランス・スタートアップ・fintech 連動の法人口座 + API 連携を主軸**に据える。代表サービスは「**あんしんワイド**」（法人向けビジネスローン）と「**銀行 API for Developers**」。freee・マネーフォワード・Square・Stripe 等の fintech との戦略提携でポジションを築いている。^[extracted]
+以 **法人专注 BaaS（Banking as a Service）为轴** 的网络银行。以旧 **青空信托银行**（[[regional-banks/aozora-bank]] 子公司）为母体，2018-07 由 **GMO 互联网集团** 取得表决权过半而更名・网络银行化。在种类股票重组后，股东构成为**以普通股（持股）比例计 青空银行 50.00% / GMO 互联网集团 25.00% / GMO 金融控股 25.00%**，**以表决权比例计 青空银行 85.12% / GMO 两家公司各 7.43%**（2026-02-20 时点，因青空持有部分中有一部分为附表决权限制的种类股票，故持股比例与表决权比例出现背离）。**与重视个人的乐天银行・PayPay 银行・住信 SBI 网络银行不同，它以自由职业者・初创企业・fintech 联动的法人账户 + API 连接为主轴**。代表服务为「**安心 Wide**」（面向法人的商业贷款）与「**银行 API for Developers**」。通过与 freee・Money Forward・Square・Stripe 等 fintech 的战略合作建立其定位。^[extracted]
 
-## 1 。公司简介
+## 1. 公司概要
 
-**正式名称**：GMO Aozora Net Bank, Inc. ^[extracted]
-**英文名称**：GMO Aozora Net Bank, Ltd.
-**成立**：2004 - 04（以 Aozora 信托银行开始）^[extracted]
-**当前结构已启动**：2018 - 07（GMO Internet Group 获得多数股权 → 重命名）^[extracted]
-**总部**：东京涩谷区 ^[extracted]
-**业务类型**：银行业务（普通银行/网银）
+**正式名称**：株式会社 GMO 青空网络银行 ^[extracted]
+**英文名**：GMO Aozora Net Bank, Ltd.
+**成立**：2004-04（作为青空信托银行开业）^[extracted]
+**现体制成立**：2018-07（GMO 互联网集团取得过半数 → 更名）^[extracted]
+**总部**：东京都涩谷区 ^[extracted]
+**业态**：银行业（普通银行 / 网络银行）
 
-### 主要股东（截至 2026-02-20，官方公司简介）
+### 主要股东（2026-02-20 时点・官方公司概要）
 
-|股东|持股比例|投票权比例 |
+| 股东 | 持股比例 | 表决权比例 |
 |---|---|---|
-| [[regional-banks/aozora-bank]] (TSE PRIME 8304) | 50.00% | 85.12% |
-| GMO 互联网集团 (TSE PRIME 9449 ) | 25.00% | 7.43% |
-| GMO金融控股| 25.00% | 7.43% |
+| [[regional-banks/aozora-bank]]（东证 PRIME 8304）| 50.00% | 85.12% |
+| GMO 互联网集团（东证 PRIME 9449）| 25.00% | 7.43% |
+| GMO 金融控股 | 25.00% | 7.43% |
 
-> 経緯：GMO は当初 15% 出資（2016-05）→ 2018-07 にネット銀行化（議決権ベースで過半取得）。2016 年の株主間契約に基づき、2023 年にあおぞら銀行保有の種類株式が GMO フィナンシャルホールディングスへ譲渡。普通株（持株）ベースではあおぞら 50% / GMO 両社計 50% だが、あおぞら保有分の一部が議決権制限付種類株式のため、**議決権ではあおぞら 85.12% / GMO 両社各 7.43%** となる。比率は IR 開示で動くため最新は各社開示を参照。
+> 经纬：GMO 最初出资 15%（2016-05）→ 2018-07 网络银行化（以表决权计取得过半）。基于 2016 年的股东间合同，于 2023 年将青空银行持有的种类股票转让给 GMO 金融控股。以普通股（持股）计为青空 50% / GMO 两家公司合计 50%，但因青空持有部分中有一部分为附表决权限制的种类股票，故**以表决权计为青空 85.12% / GMO 两家公司各 7.43%**。比例会因 IR 披露而变动，最新值请参照各家公司披露。
 
-### 在组内的位置
+### 集团内定位
 
 ```
-GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
-  ├── GMO あおぞらネット銀行（持株 25% [GMO IG] + 25% [GMO FH]、議決権各 7.43%）── 法人 BaaS ネット銀行
-  ├── GMO ペイメントゲートウェイ（東証 PRIME 3769）── 決済処理 ICT
-  ├── GMO コイン ── 暗号資産取引所
-  ├── GMO クリック証券 ── ネット証券・FX
-  ├── GMO クラウド / GMO ペパボ ── インフラ・ホスティング
-  └── GMO リサーチ / GMO アドパートナーズ ── 広告・調査
-[[regional-banks/aozora-bank]]（東証 PRIME 8304）
-  └── GMO あおぞらネット銀行（持株 50%・議決権 85.12%、種類株式中心）── 筆頭株主
+GMO 互联网集团（东证 PRIME 9449・熊谷正寿）
+  ├── GMO 青空网络银行（持股 25% [GMO IG] + 25% [GMO FH]，表决权各 7.43%）── 法人 BaaS 网络银行
+  ├── GMO Payment Gateway（东证 PRIME 3769）── 结算处理 ICT
+  ├── GMO Coin ── 加密资产交易所
+  ├── GMO Click 证券 ── 网络证券・FX
+  ├── GMO Cloud / GMO Pepabo ── 基础设施・主机托管
+  └── GMO Research / GMO AD Partners ── 广告・调查
+[[regional-banks/aozora-bank]]（东证 PRIME 8304）
+  └── GMO 青空网络银行（持股 50%・表决权 85.12%，以种类股票为主）── 第一大股东
 ```
 
-### 历史记录 ^[extracted]
+### 沿革 ^[extracted]
 
-|月 |活动 |
+| 年月 | 事件 |
 |---|---|
-| 2004 - 04  | **青空信托银行**开业（[[regional-banks/aozora-bank]] 100%子公司，主要信托业务）|
-| 2016 - 05  | GMO Internet向Aozora Trust Bank投资15% → 为合资公司转型为网上银行做准备|
-| 2018 - 07  | **GMO 多数股权 → GMO Aozora Net Bank 更名并开始运营**（开始开设个人/企业账户）|
-| 2019 ~ |企业金融科技关联账户是增长轴。 freee / 扩大与 Money Forward 等的 API 合作 |
-| 2020 ~ | “安心宽”（企业商业贷款）上线，加速与BaaS合作伙伴合作|
-| 2022 ~ |扩大与Stripe/Square/Wise等支付金融科技合作|
-| 2023  |将Aozora Bank持有的类别股份转让给GMO Financial Holdings（基于股东协议）|
+| 2004-04 | **青空信托银行** 开业（[[regional-banks/aozora-bank]] 100% 子公司，以信托业务为中心） |
+| 2016-05 | GMO 互联网 向青空信托银行 15% 出资 → 准备转型网络银行的合资 |
+| 2018-07 | **GMO 取得过半数 → GMO 青空网络银行 更名・开始营业**（开始开设个人・法人账户） |
+| 2019起 | 法人 fintech 联动账户成为成长轴。与 freee / Money Forward 等的 API 连接扩大 |
+| 2020起 | 「安心 Wide」（面向法人的商业贷款）启动，BaaS 伙伴联动加速 |
+| 2022起 | 与 Stripe / Square / Wise 等结算 fintech 的联动扩大 |
+| 2023 | 基于股东间合同，将青空银行持有的种类股票转让给 GMO 金融控股 |
 
-## 2 。业务板块图
+## 2. 事业分部・地图
 
-|细分 |主营业务 |特点|
+| 分部 | 主要事业 | 特征 |
 |---|---|---|
-|企业账户|自由职业者、独资企业和初创账户|金融科技客户可在线完成开户手续并当天开户 |
-|企业贷款| **Anshin Wide**（无担保商业贷款）| AI信用模型+GMO PG支付数据联动 |
-| API/BaaS | **面向开发人员的银行 API** |对于企业/金融科技（开放API用于余额查询、转账、开户等）|
-|合作伙伴协作 | freee / Money Forward / Square / Stripe / Wise 等 |账户直接链接到会计/支付SaaS |
-|个人账户|对于自由职业者和副业|避免与个人专用网上银行（Rakuten / PayPay / Sumishin SBI等）直接竞争 |
-|加密资产合作 | [[payment-firms/gmo-coin]]（姐妹公司）| GMO 集团内部的协同效应 |
-|支付联动 | GMO 支付网关（姐妹公司/TSE PRIME 3769）|支付处理/商户数据联动 |
+| 法人账户 | 自由职业者・个人事业主・初创企业账户 | 开户手续线上完成・支持当日开户，在 fintech 层强 |
+| 法人贷款 | **安心 Wide**（无担保商业贷款）| AI 授信模型 + GMO PG 结算数据联动 |
+| API / BaaS | **银行 API for Developers** | 面向法人 / fintech（开放余额查询・转账・开户等 API） |
+| 伙伴联动 | freee / Money Forward / Square / Stripe / Wise 等 | 与会计・结算 SaaS 直连的账户 |
+| 个人账户 | 面向自由职业者层・副业层 | 回避与个人专注网络银行（乐天 / PayPay / 住信 SBI 等）的正面对决 |
+| 加密资产联动 | [[payment-firms/gmo-coin]]（兄弟公司）| GMO 集团内协同 |
+| 结算联动 | GMO Payment Gateway（兄弟公司・东证 PRIME 3769）| 结算处理・加盟店数据联动 |
 
-###企业BaaS轴的差异化
+### 法人 BaaS 轴的差异化
 
-- **从专门针对个人的网上银行（Rakuten Bank / PayPay Bank / [[regional-banks/ssnb|sbi-sumishin-net]] / au Jibun Bank等）改变战场**：不与个人账户数量竞争，专注于**对应企业BaaS和API经济**
-- “Anshin Wide”（企业商业贷款）使用GMO Payment Gateway的支付数据进行信贷 → 典型的集团协同效应
-- 目标是“**已经使用会计SaaS/支付SaaS/云ERP的中小企业/个体工商户**”——金融科技关联账户的标准定位
+- **与个人专注的网络银行（乐天银行 / PayPay 银行 / [[regional-banks/ssnb|sbi-sumishin-net]] / au Jibun 银行 等）改变战场**：不以个人账户数比拼，而集中于**法人 BaaS 与 API 经济的应对**
+- 「安心 Wide」（面向法人的商业贷款）将 GMO Payment Gateway 的结算数据活用于授信 → 集团协同的典型
+- 目标是「**已在使用会计 SaaS / 结算 SaaS / 云 ERP 的中小 / 个人事业主**」层 — fintech 联动账户的标准定位
 
-### 与母公司转基因生物的协同作用
+### 与母公司 GMO 的协同
 
-- **GMO 支付网关**（支付）/** [[payment-firms/gmo-coin]] **（加密资产）/**GMO Click 证券**（证券/外汇）和相互推荐
-- 整个GMO集团“**互联网金融经济区**”的银行层（支付+证券+加密资产+银行）
-- 虽然与 Rakuten、PayPay 和 SBI 的经济区相比规模较小，但它是一个明显针对企业/自由职业阶层的职位。
+- **GMO Payment Gateway**（结算）/ **[[payment-firms/gmo-coin]]**（加密资产）/ **GMO Click 证券**（证券・FX）相互送客
+- GMO 集团整体的「**互联网金融经济圈**」的银行层（结算 + 证券 + 加密资产 + 银行）
+- 与乐天・PayPay・SBI 的经济圈相比规模较小，但明确押注于**法人 / 自由职业者层**的定位
 
-### API / 开放银行战略
+### API / Open Banking 战略
 
-- “**Bank API for Developers**”：为金融科技开发者提供余额查询、转账、开户等开放API。
-- 直接连接freee / Money Forward等会计云 → 存款和取款自动记录
-- 对接Stripe / Square等海外支付金融科技 → 支持跨境支付
-- 捕捉“**个人金融科技专注于支付**”和“企业金融科技专注于会计/费用/信贷**”之间的细分差异
+- 「**银行 API for Developers**」：面向 fintech 开发者整备余额查询・转账・开户等 API 的开放
+- 与 freee / Money Forward 等会计云直连 → 收支自动记账
+- 与 Stripe / Square 等海外结算 fintech 也连接 → 应对跨境结算
+- 把握「**个人 fintech 以结算为中心**」与「**法人 fintech 以会计 / 费用 / 授信为中心**」这一分部差异
 
-> 关于上市可能性的观察报告和猜测被隔离在“.opinions/JapanFG/gmo-aozora-net.md”（2026-05-29，未经证实）中。
+> 关于上市可能性的观测报道・推测被隔离至 `.opinions/JapanFG/gmo-aozora-net.md`（2026-05-29，无确证）。
 
-## 4 。法规/政策
+## 4. 监管・政策
 
-- **监督**：金融服务局 (FSA)
-- **业务类型**：银行法规定的银行（普通银行）
-- **存款保险**：加入存款保险公司
-- **API 法规**：根据《银行法修正案》(2017) 提供开放 API 的义务 → “面向开发者的银行 API”是对此的系统扩展
-- **与资金转账行业/虚拟货币行业的联系**：多业务许可证的集成是与 GMO 集团内的 [[payment-firms/gmo-coin]] 和 GMO 支付网关合作的一个问题
-- **洗钱法规**：开设公司账户时进行更严格的身份识别/实质控制人验证（2023 ~ FATF 4 st 筛选兼容）
+- **主管**：金融厅（FSA）
+- **业态**：银行法上的银行（普通银行）
+- **存款保险**：加入存款保险机构
+- **API 监管**：基于银行法修订（2017）的 Open API 提供义务 → 「银行 API for Developers」是其制度性延伸
+- **与资金移动业 / 虚拟货币业的连接**：与 GMO 集团内 [[payment-firms/gmo-coin]] 或 GMO Payment Gateway 的联动中，多个业法牌照的整合成为议题
+- **反洗钱监管**：法人开户的本人确认 / 实质支配者确认的严格化（2023起 FATF 第 4 次审查应对）
 
-## Related
+## 关联
 
-- [[regional-banks/aozora-bank]]（前母公司/现任 ~ 15% 股东）
-- [[payment-firms/gmo-coin]]（姐妹公司/加密资产）
-- [[regional-banks/ssnb|sbi-sumishin-net]]（住信 SBI 网上银行/竞争对手 BaaS）
-- [[banking/paypay-bank|paypay-bank]]·[[banking/rakuten-bank|rakuten-bank]]·[[banking/au-jibun-bank|au-jibun-bank]]（个人网银/独立战场）
-- [[banking/minna-bank-baas-model|minna-bank]] · [[banking/mercari-bank|mercari-bank]]（来自区域银行/竞争对手的新 BaaS/数字银行）
+- [[regional-banks/aozora-bank]]（旧母公司・现 ~15% 股东）
+- [[payment-firms/gmo-coin]]（兄弟公司・加密资产）
+- [[regional-banks/ssnb|sbi-sumishin-net]]（住信 SBI 网络银行・竞争 BaaS）
+- [[banking/paypay-bank|paypay-bank]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/au-jibun-bank|au-jibun-bank]]（个人网络银行・另一战场）
+- [[banking/minna-bank-baas-model|minna-bank]] · [[banking/mercari-bank|mercari-bank]]（新型 BaaS / 地方银行发起的数字银行・竞争对手）
 - [[banking/baas-japan-landscape]]（^[planned] 日本 BaaS 地图）
 
-## Sources
+## 出处
 
-- **维基百科：GMO Aozora 网络银行**（https://ja.wikipedia.org/wiki/GMO Aozora 网络银行，2026-05-19 摘录）
-- **GMO Aozora 网银官方网站**（参见 https://gmo-aozora.com/, 2026-05-19）
-- **GMO Internet Group IR**（参见 TSE PRIME 9449,  2026-05-19）
-- GMO Aozora 网络银行公司简介（控股：Aozora 50% / GMO IG 25% / GMO FH 25%，投票权：Aozora 85.12% / GMO 7.43%，2026-02-20） — https://gmo-aozora.com/company/outline.html
-- GMO互联网集团《关于收购GMO Aozora Net Bank类别股份的通知》（2023-06-19，根据股东协议转让类别股份） — https://group.gmo/news/article/ 8450/
+- **Wikipedia: GMO 青空网络银行**（https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行, 2026-05-19 抽取）
+- **GMO 青空网络银行 官方网站**（https://gmo-aozora.com/, 2026-05-19 参照）
+- **GMO 互联网集团 IR**（东证 PRIME 9449, 2026-05-19 参照）
+- GMO 青空网络银行 公司概要（持股：青空 50% / GMO IG 25% / GMO FH 25%，表决权：青空 85.12% / GMO 各 7.43%，2026-02-20） — https://gmo-aozora.com/company/outline.html
+- GMO 互联网集团「关于取得 GMO 青空网络银行种类股票的通知」（2023-06-19，基于股东间合同的种类股票转让） — https://group.gmo/news/article/8450/
 
 ---
 
-> [!info] 验证状态
-> 信心：**可能**（维基百科 + 官方 + 母公司 GMO IR 基础 2026-05-19，将官方公司简介中的股东构成更正为 2026-05-29）。 **最初表述的股东构成不正确，为“GMO ~ 85% / Aozora ~ 15%”** — 正确的是，持股比例为 Aozora 50.00% / GMO IG 25.00% / GMO FH 25.00%，投票权比例为 Aozora 85.12% / GMO 各 7.43% （2026-02-20，由于类别库存而导致的差异）。请参阅 GMO Aozora Net Bank 公司简介和各公司的 IR 了解最新值。上市准备报告独立于“.opinions”，未经证实。贷款余额/API合作伙伴数量等量化数据尚未收集（需补充）。
+> [!info] 验证状况
+> confidence: **likely**（基于 Wikipedia + 官方 + 母公司 GMO IR 2026-05-19，于 2026-05-29 以官方公司概要订正股东构成）。**股东构成 最初记载的「GMO ~85% / 青空 ~15%」有误** — 正确为持股比例 青空 50.00% / GMO IG 25.00% / GMO FH 25.00%，表决权比例 青空 85.12% / GMO 两家公司各 7.43%（2026-02-20，因种类股票产生背离）。最新值需参照 GMO 青空网络银行 公司概要及各家公司 IR。上市准备报道无确证，已隔离至 `.opinions`。融资余额 / API 伙伴数等定量数据尚未收集（需补充）。

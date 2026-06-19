@@ -1,176 +1,181 @@
 ---
 source: regional-banks/shiga-bank
-source_hash: 44ad3f245c832b47
+source_hash: d9df5969ebfd7497
 lang: zh
 status: machine
 fidelity: ok
-title: "The Shiga Bank, Ltd."
-translated_at: 2026-06-01T00:41:50.480Z
+title: "株式会社滋贺银行（The Shiga Bank）"
+translated_at: 2026-06-19T12:43:19.869Z
 ---
-# The Shiga Bank, Ltd.
 
-## Wiki route
+# 株式会社滋贺银行（The Shiga Bank）
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+## Wiki 路线
+
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。请对照 [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]]（同业 / 对比语境）以及 [[banking/INDEX|banking index]]（更广泛的系统 / 监管边界）一并阅读。
 
 ## TL;DR
 
-The Shiga Bank 是以滋贺县为地盘的独立银行，也是**尚未转为持股公司结构的地方银行**之一。1933-10-01 由 Hachijusan Bank 与 Omi Bank 合并成立，源流可追溯到 **1879  Hikone 的第六十四国立银行**。简称 **Shigagin**。收益核心是**滋贺县内 share No.1 、向京都府北部 / 大阪府北摄 / 名古屋圈扩展的 Kansai-Tokai border area 布局、围绕 Lake Biwa 的环境金融、以及 ESG / sustainability 先进性**。它也是**较早采纳 UN Principles for Responsible Banking (UN PRB) 的地方银行** 2019，确立 ESG leader 定位。作为 [[regional-banks/chiba-bank]] 主导的 **TSUBASA Alliance member bank**，其参与 system commonization 与 overseas support。相邻的 Kansai regional banks [[regional-banks/kyoto-fg]] / [[megabanks/resona-hd]]（含 Kansai Mirai Bank）以及 [[regional-banks/ikeda-senshu-hd]] / [[regional-banks/nanto-bank]] 与其在区域上接触。
+以滋贺县为地盘的单独银行（**未实施控股公司化的地银**之一）。由 1933-10-01 八十三银行 + 近江银行 整合而成立，根源为 **1879 第六十四国立银行（彦根）**。略称「**しがぎん**」。**滋贺县内份额 No.1 + 向京都府北部 / 大阪府北摄 / 名古屋圈 的关西・东海边界区域展开 + 琵琶湖周边的环境金融 + ESG / 可持续性先进性** 是收益核心。作为 **采纳联合国负责任银行原则（UN PRB）的地银先驱**（2019，地银首家）确立了 ESG 领军地位。是 [[regional-banks/chiba-bank]] 主导的 **TSUBASA 联盟加盟行**，参与系统共同化・海外支援。与邻接的关西地银 [[regional-banks/kyoto-fg]] / [[megabanks/resona-hd]]（含关西未来银行）/ [[regional-banks/ikeda-senshu-hd]] / [[regional-banks/nanto-bank]] 在区域上接触。
 
-## 1. 公司概要
-**法定名称**: The Shiga Bank, Ltd.
-**英文名称**: The Shiga Bank, Ltd.
-**证券代码**: TSE PRIME 8366（从旧 TSE First Section 于 2022-04  移行）
-**设立**: 1933-10-01，由 Hachijusan Bank + Omi Bank 合并
-**总部**: 滋贺县大津市浜町 1-38
+## 1。公司概况
 
-**业态**: 独立银行。其**未转为 holding company**这一点，与近邻 [[regional-banks/kyoto-fg|京都 FG]]、[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等 Kansai regional-bank FG 化趋势形成对照。
+**正式名称**：株式会社滋賀銀行
+**英名**：The Shiga Bank, Ltd.
+**证券代码**：东证 PRIME 8366（从旧东证一部于 2022-04 迁移）
+**设立**：1933-10-01（八十三银行 + 近江银行 整合）
+**总行**：滋贺县大津市浜町 1-38
+**业态**：单独银行（**未实施控股公司化**这一点，与邻近的 [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等关西地银 FG 化趋势形成对照）
 
-### 主要财务（第 138 期 / FY2024，2025-03-31 现在）
+### 主要财务（第138期 / FY2024，2025-03-31 现在）
 
-| 指标 | 数值（consolidated / non-consolidated） |
+| 指标 | 数值（合并 / 单体）|
 |---|---|
-| Total assets | 7兆5,282億円（consolidated）/ 7兆5,052億円（non-consolidated） |
-| Deposits | 5兆8,125億円 |
-| Loans | 4兆5,633億円 |
-| Employees | 2,171 名（consolidated）/ 1,873 名（non-consolidated） |
-| Offices | 133  locations，包括 branches / sub-branches / agencies |
+| 总资产 | 7兆5,282億円（合并）/ 7兆5,052億円（单体）|
+| 存款余额 | 5兆8,125億円 |
+| 贷款余额 | 4兆5,633億円 |
+| 员工数 | 2,171 名（合并）/ 1,873 名（单体）|
+| 网点数 | 133 处（本支店・办事处・代理店）|
 
-> Source: Shiga Bank 第 138 期 securities report，并经 Wikipedia “Shiga Bank” summary 在 2025-03-31 时点确认。
+> 出处：滋贺银行 第138期有价证券报告书（经 Wikipedia「滋賀銀行」，2025-03-31 现在）。
 
-### 主要子公司与持股
+### 主要子公司・持股
 
 ```
-The Shiga Bank（independent listed bank 8366）
-  ├── Shigagin Lease -- group finance subsidiary / lease business
-  ├── Shigagin Credit Guarantee -- housing loans 等 credit guarantee
-  ├── Shigagin JCB -- JCB-affiliated credit card
-  ├── Shigagin Economic and Cultural Center -- think tank / regional economic research
-  ├── Shigagin Business Service -- administrative outsourcing / peripheral operations
+滋贺银行（单独银行・上市 8366）
+  ├── しがぎんリース ── 集团金融子公司（租赁业务）
+  ├── しがぎん信用保証 ── 住宅贷款等的信用保证
+  ├── しがぎんジェーシービー ── JCB 提携信用卡
+  ├── しがぎん経済文化センター ── 智库・地域经济调查
+  ├── しがぎんビジネスサービス ── 事务代行・周边业务
 ```
 
-### 合并历史与前身
+### 合并历史・前身
 
-- **1879  Sixty-Fourth National Bank 设立**，地点为 Hikone，依据 Meiji-period national bank ordinance，以 第 64 号 为基础；这是 Shiga Bank 最古老源流，也是 Shigagin 的 Hikone root。
-- 战前，滋贺县内并立 Hachijusan Bank（Otsu）、Omi Bank、Sixty-Fourth Bank lineage 等 regional banks。
-- **1933-10-01 The Shiga Bank 成立**，在战时“一县一行主义”政策流向中，由 Hachijusan Bank + Omi Bank 合并而来；与 Nanto Bank 1934-06-01 并列，是 wartime consolidation 的早期例子。
-- 战后作为滋贺县 core bank 长期 listing，维持并扩大县内 share。
-- **2015  加入 TSUBASA Alliance**（[[regional-banks/chiba-bank|千葉銀行]] 主导），参与 system commonization 与 overseas-support cooperation。
-- **2019  采纳 UN Principles for Responsible Banking (UN PRB)** *，作为 first regional-bank adopter，确立 ESG leader frame。
-- **2022-04  TSE market-segment review** -> TSE PRIME 8366，从旧 TSE First Section 移行。
+- **1879 第六十四国立银行 设立**（彦根，明治期国立银行条例下，第 64 号设立）— 滋贺银行最古老的源流（**しがぎん的源流彦根**）
+- 战前期，滋贺县内 八十三银行（大津）・近江银行・第六十四银行系等地银并立
+- **1933-10-01 滋贺银行 成立**：战时「一县一行主义」政策的潮流中由 八十三银行 + 近江银行 整合成立（**与南都银行 1934-06-01 并为战时整合的先驱例**）
+- 战后，作为滋贺县内的核心银行长期上市，维持・扩大滋贺县内份额
+- **2015 TSUBASA 联盟加盟**（[[regional-banks/chiba-bank|千葉銀行]] 主导）★ — 系统共同化・海外支援联合
+- **2019 采纳联合国负责任银行原则（UN PRB）** ★ — **地银首家采纳行**，确立 ESG 领军地位
+- **2022-04 东证市场区分重审** → 东证 PRIME 8366（从旧东证一部迁移）
 
 ### 重要年表（摘录）
 
-| 日期 | 事件 |
+| 年月 | 事件 |
 |---|---|
-| 1879  | **Sixty-Fourth National Bank 设立**，Hikone，依据 Meiji national bank ordinance；Shigagin 的源流 |
-| **1933-10-01** | **The Shiga Bank 成立**，由 Hachijusan Bank + Omi Bank 合并 |
-| 战后 | TSE listing，确立滋贺县内 No.1  regional-bank position |
-| 1990-2000 年 era | 向京都府北部、大阪府北摄、名古屋圈扩张营业区域，并较早推进 Lake Biwa environmental finance |
-| **2015** | **加入 TSUBASA Alliance**，[[regional-banks/chiba-bank]] 主导、11 行 bank framework；system commonization / overseas support |
-| **2019** | **采纳 UN Principles for Responsible Banking (UN PRB)** *，作为 first regional-bank adopter 确立 ESG leader frame |
-| 2022-04  | TSE market-segment review -> TSE PRIME 8366，从旧 TSE First Section 移行 |
+| 1879 | **第六十四国立银行 设立**（彦根，明治期国立银行条例下）— しがぎん的源流 |
+| **1933-10-01** | **滋贺银行 成立**（八十三银行 + 近江银行 整合）|
+| 战后 | 东证上市，确立滋贺县内 No.1 地银地位 |
+| 1990〜2000 年年代 | 向京都府北部・大阪府北摄・名古屋圈扩大营业区域，琵琶湖环境保全融资的先驱 |
+| **2015** | **TSUBASA 联盟加盟**（[[regional-banks/chiba-bank]] 主导 11 行体制）★ — 系统共同化・海外支援 |
+| **2019** | **采纳联合国负责任银行原则（UN PRB）** ★ — **地银首家**，确立 ESG 领军地位 |
+| 2022-04 | 东证市场区分重审 → 东证 PRIME 8366（从旧东证一部迁移）|
 
-## 2. 业务板块地图
-| Segment | Main operator | Features |
+## 2。事业分部地图
+
+| 分部 | 主要事业者 | 特征 |
 |---|---|---|
-| Local core | The Shiga Bank itself | 滋贺县地盘 No.1，县内 share 强 |
-| Prefectural retail | The Shiga Bank | 滋贺县人口约 140 万，个人 deposits 厚 |
-| Manufacturing finance | The Shiga Bank | 滋贺县 domestic manufacturing clusters（auto parts / electronics / materials）中的 mid-sized manufacturers main bank |
-| Kansai / Tokai area expansion | The Shiga Bank | Shiga base + northern Kyoto + northern Osaka + Nagoya region = Kansai / Tokai 4  prefectural-border area 的 regional-bank position |
-| Group finance | Shigagin Lease / Credit Guarantee / JCB / Economic and Cultural Center | 围绕银行本体的 complementary functions |
-| Out-of-prefecture corporates | The Shiga Bank（Kyoto / Osaka / Nagoya / Tokyo 等 out-of-prefecture offices） | Follow Shiga-headquartered companies' out-of-prefecture transactions |
-| Digital | Shigagin app / TSUBASA system commonization | 因为是 independent bank，通过 TSUBASA 获取 scale benefit |
-| ESG | The Shiga Bank / UN PRB | **First regional-bank adopter of UN PRB** 2019；ESG disclosure / climate-related financial information (TCFD) early mover |
+| 地盘核心 | 滋贺银行本体 | 滋贺县地盘 No.1，县内份额压倒 |
+| 县内零售 | 滋贺银行 | 滋贺县人口约 140 万，个人存款厚实 |
+| 制造业融资 | 滋贺银行 | 滋贺县是内陆制造业集聚地（汽车零部件・电机・素材），中坚制造业 main bank |
+| 关西・东海边界展开 | 滋贺银行 | 滋贺县全域 + 京都府北部 + 大阪府北摄 + 名古屋圈 = 关西・东海 4 府县边界区域的地银定位 |
+| 集团金融 | しがぎんリース / 信用保証 / JCB / 経済文化センター | 银行本体周边的补充职能 |
+| 县外法人 | 滋贺银行（京都・大阪・名古屋・东京等的县外据点）| 跟进滋贺总部企业的县外交易 |
+| 数字 | しがぎんアプリ・TSUBASA 系统共同化 | 因是单独银行，经 TSUBASA 获取规模优势 |
+| ESG | 滋贺银行 UN PRB | **地银首家采纳 UN PRB**（2019），ESG 披露・气候相关财务信息（TCFD）应对的先驱 |
 
-### ESG leader strategy *
-- **采纳 UN Principles for Responsible Banking (UN PRB)** 于 2019，作为 first regional bank；在 ESG disclosure、sustainability target-setting、climate-related financial information (TCFD) 方面确立 regional-bank leader frame。
-- ESG leader frame 可能成为 regional-bank reorganization / alliance negotiation 中的差异化要素。
+### ESG 领军战略 ★
 
-### TSUBASA Alliance participation strategy *
-**2015  加入**。由 [[regional-banks/chiba-bank|千葉銀行]] 主导、11 行 participating banks 的 alliance，是在避免 regional-bank holding-company conversion 的同时获取 scale benefit 的 alternative model。
+- **采纳联合国负责任银行原则（UN PRB）**（2019，地银首家）：确立 ESG 披露・可持续性目标设定・气候相关财务信息（TCFD）应对的地银领军地位
+- ESG 领军地位可能成为地银重组 / 联盟谈判中的差异化要素
 
-| Member bank | Local base |
+### TSUBASA 联盟参加战略 ★
+
+**2015 加盟**（[[regional-banks/chiba-bank|千葉銀行]] 主导 11 行联盟）：**在回避地银控股化的同时获取规模优势**的替代模式。
+
+| 加盟行 | 地盘 |
 |---|---|
-| [[regional-banks/chiba-bank|千葉銀行]] | Chiba Prefecture, lead bank |
-| Hokuyo Bank | Hokkaido |
-| Musashino Bank | Saitama Prefecture |
-| **The Shiga Bank** | **Shiga Prefecture** * |
-| Daishi Hokuetsu Bank | Niigata Prefecture |
-| Chugoku Bank | Okayama Prefecture |
-| Iyo Bank | Ehime Prefecture |
-| Toho Bank | Fukushima Prefecture |
-| Hokkoku Bank | Ishikawa Prefecture |
-| [[regional-banks/kyoto-fg|京都銀行]] | Kyoto Prefecture |
-| Gunma Bank | Gunma Prefecture |
+| [[regional-banks/chiba-bank|千葉銀行]] | 千叶县（主导行）|
+| 北洋银行 | 北海道 |
+| 武藏野银行 | 埼玉县 |
+| **滋贺银行** | **滋贺县** ★ |
+| 第四北越银行 | 新潟县 |
+| 中国银行 | 冈山县 |
+| 伊予银行 | 爱媛县 |
+| 东邦银行 | 福岛县 |
+| 北国银行 | 石川县 |
+| [[regional-banks/kyoto-fg|京都銀行]] | 京都府 |
+| 群马银行 | 群马县 |
 
-**TSUBASA 的战略意义**:
-- **System commonization**: core banking / peripheral systems commonization 可降低 IT cost，弥补 independent regional bank 的 scale shortfall。
-- **Overseas support**: member banks 可互相利用 Singapore / overseas support bases，Shiga Bank 不必单独扩张 overseas footprint。
-- **Business cooperation**: trust / securities / leasing 等业务合作提高 adjacent-business deployment 的自由度。
-- **与 neighboring member [[regional-banks/kyoto-fg|京都銀行]] 的关系**: 在 TSUBASA 内合作，但在 Shiga / Kyoto border area 也存在竞争这一双重性。
+**TSUBASA 的战略意义**：
+- **系统共同化**：通过核心系统・周边系统的共同化削减 IT 成本（单独地银规模不足）
+- **海外支援**：相互利用加盟行的新加坡 / 海外据点，滋贺银行无需单独扩张海外据点
+- **业务联合**：通过信托・证券・租赁等业务联合确保跨业展开的自由度
+- **与邻县加盟行 [[regional-banks/kyoto-fg|京都銀行]] 的关系**：在 TSUBASA 同盟内合作，在滋贺县・京都府边界区域竞争的两面性
 
-### Prefectural franchise strategy
+### 县内地盘战略
 
-- **Shiga Prefecture = domestic manufacturing major prefecture**: auto parts / electronics / materials 等 mid-sized manufacturers 集聚，形成 main-bank position。
-- **Lake Biwa 周边的特殊性**: Lake Biwa 是 Keihanshin 约 1400 万 人的 water source，environmental finance / ESG finance 可成为对县外发信的主题。
-- **Northern Kyoto / northern Osaka / Nagoya region**: 因为仅靠 Shiga Prefecture volume 有限，强化向京都市东部 / 北部、大阪府 Takatsuki / Ibaraki、以及经 Maibara 进入 Nagoya region 的布局。
-- **县内 share 强**，但滋贺县兼具 Keihanshin bedroom-town 化（南部 Otsu / Kusatsu / Ritto）与北部（Hikone / Nagahama / Maibara）人口下降的双重性。
+- **滋贺县 = 内陆制造业大县**：汽车零部件・电机・素材产业的中坚制造业集聚，居于这些企业的 main bank 地位
+- **琵琶湖周边的特殊性**：琵琶湖是京阪神 1400 万人的水源，作为环境保全融资 / ESG 金融的主题成为向县外发信的素材
+- **京都府北部・大阪府北摄・名古屋圈**：因仅靠滋贺县内规模有限，强化向京都市东部 / 北部 + 大阪府高槻・茨木 + 名古屋圈（经米原）的展开
+- **县内份额压倒**，但滋贺县兼具京阪神卧城化（南部・大津・草津・栗东）与县北部（彦根・长浜・米原）人口减少的两面性
 
-### Competition structure in the Kansai / Tokai border area
+### 关西・东海边界的竞争结构
 
-- **Kansai / Tokai border area 的特殊性**: 滋贺县西接 Kyoto、南接 Mie（跨 Suzuka）、东接 Gifu、北接 Fukui、西北接 Kyoto Tango，位于 4  prefectural-border area。地理上处在 Keihanshin economy 与 Tokai / Nagoya economy 之间。
-- **与 megabanks（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）竞争**: Keihanshin / Nagoya urban large-corporate deals 容易流向 megabanks；Shiga Bank 以 Shiga franchise + neighboring mid-market manufacturing main-bank position 对抗。
-- **与 Kansai regional banks 竞争**:
-  - [[regional-banks/kyoto-fg|京都 FG]]: Kyoto Bank；Kyoto base + southern Shiga + northern Osaka，既是 TSUBASA ally 也是 neighboring competitor。
-  - [[megabanks/resona-hd|りそな HD]]: former Daiwa Bank + Asahi Bank，包括 Kansai Mirai Bank；Kansai 最大 regional-bank group，在 Osaka / Kyoto 间接竞争。
-  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]: northern Osaka area 的 indirect competitor。
-  - [[regional-banks/nanto-bank|南都銀行]]: Nara base，在 Todaiji / Kasagi area 从东侧接触。
-- **与 Tokai regional banks 竞争**:
-  - [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]: western Gifu，经 Maibara 接触。
-  - [[regional-banks/juroku-fg|十六 FG]]: Gifu / Sekigahara area 间接竞争。
-  - Mie Bank / [[regional-banks/san-jusan-fg|三十三 FG]]: Mie Prefecture，经 Suzuka 间接竞争。
+- **关西・东海边界区域的特殊性**：滋贺县西邻京都府・南邻三重县（越铃鹿）・东邻岐阜县・北邻福井县・西北邻京都府丹后，位于 4 府县边界。具有处于京阪神经济圈与东海经济圈（名古屋）中间的地理特殊性
+- **与巨型银行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）的竞争**：京阪神 / 名古屋都市部的大企业案件呈流向巨型银行的结构，滋贺银行以滋贺县内 + 邻县中坚・中小制造业 main bank 地位对抗
+- **与关西地银群的竞争**：
+  - [[regional-banks/kyoto-fg|京都 FG]]（京都银行）：京都府全域 + 滋贺县南部 + 大阪府北部，TSUBASA 同盟兼邻县竞争的两面性
+  - [[megabanks/resona-hd|りそな HD]]（旧大和银 + 朝日银，含关西未来银）：关西最大的地银集团，在大阪府 / 京都府间接竞争
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]：在大阪府北摄区域间接竞争
+  - [[regional-banks/nanto-bank|南都銀行]]：以奈良县为地盘，东侧县境接触（东大寺・笠置区域）
+- **与东海地银群的竞争**：
+  - [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]：岐阜县西部，经米原县境接触
+  - [[regional-banks/juroku-fg|十六 FG]]：岐阜县，关原区域间接竞争
+  - 三重银行 / [[regional-banks/san-jusan-fg|三十三 FG]]：三重县，越铃鹿间接竞争
 
-### 独立银行的战略意义
+### 单独银行的战略意义
 
-- **未转为 holding company** 这一点，与近邻 Kansai regional-bank FG trend 形成对照，例如 [[regional-banks/kyoto-fg|京都 FG]]（2009  independent FG conversion）与 [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]（2009  integration）。Shiga Bank 作为 audit-and-supervisory-board company structure 的 independent listed bank 存续。
-- 独立银行模式的优点: 1) governance 简洁，2) management resources 集中在银行本体，3) 不需要 holding-company conversion 的 additional cost。
-- **TSUBASA membership + UN PRB adoption** 构成在维持 independent bank 的同时获取 scale / ESG differentiation 的独自 model。
+- **未实施控股公司化**这一点，与邻近 [[regional-banks/kyoto-fg|京都 FG]]（2009 单独 FG 化）・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]]（2009 整合）等关西地银 FG 化趋势形成对照（滋贺银行作为设监事会公司的单独上市银行存续）
+- 单独银行的优点：(1) 治理简洁，(2) 将经营资源集中于银行本体，(3) 无需控股公司化的额外成本
+- 以 **TSUBASA 加盟 + UN PRB 采纳** 在保持单独银行的同时获取规模 / ESG 差异化的独特模式
 
-### Position in regional-bank reorganization
+### 在地银重组中的位置
 
-- **作为 Shiga Prefecture standalone regional-bank leader 维持独立路线**，与 megabank alliances 和 SBI 第 4  megabank concept 保持距离。
-- **TSUBASA + UN PRB 两根支柱**强化 independent-maintenance strategy。
-- ESG leader frame 未来可能有助于 reorganization negotiations 中的 bargaining power。
+- **作为滋贺县的单独地银领军者维持独立路线**（与巨型银行的提携・SBI 第 4 巨头构想保持距离）
+- 以 **TSUBASA + UN PRB 两根支柱** 强化单独维持的战略
+- ESG 领军地位可能有助于重组时的谈判力
 
-## 4. 监管与政策
-- **主管**: Financial Services Agency (FSA) / Kinki Local Finance Bureau。
-- **Banking regulation**: Banking Act。因其为 independent bank，bank-holding-company regulation 不直接适用。
-- **International framework participation**: **采纳 UN Principles for Responsible Banking (UN PRB)** 于 2019，作为 first regional bank；climate-related financial disclosure aligned with TCFD recommendations。
-- **近期政策论点**:
-  - 2024 起: BOJ policy-rate normalization -> regional-bank margin improvement，相比 megabanks 受益可能更大。
-  - 2025 起: regional-bank reorganization acceleration（population decline + digital-investment burden）；与 Kansai regional banks 的 cooperation / reorganization decision。
-  - 继续作为 independent bank，还是转向 holding-company / FG structure 的判断。
-  - ESG / sustainability disclosure 的高度化，含 GFANZ / NZBA 等 global initiatives。
-  - Lake Biwa environmental finance 的政策定位，包括 environmental bonds 与 Shiga Prefecture cooperation。
+## 4。监管・政策
 
-## Related
+- **主管**：金融厅（FSA）+ 近畿财务局
+- **银行业监管**：银行法（因是单独银行，不属于银行控股公司监管对象）
+- **国际框架参与**：**采纳联合国负责任银行原则（UN PRB）**（2019，地银首家），符合 TCFD 提言的气候相关财务信息披露
+- **近期政策要点**：
+  - 2024〜 日本央行政策利率正常化 → 地银利润率改善（受益相对大于巨型银行）
+  - 2025〜 地银重组加速（人口减 + 数字投资负担）→ 与关西地银群的联合 / 重组判断
+  - 是维持单独银行，还是转向控股公司化（FG 化）的判断
+  - ESG / 可持续性披露的高度化（GFANZ / NZBA 等国际倡议动向）
+  - 琵琶湖环境保全融资的制度性定位（与环境省 / 滋贺县的联合）
 
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（three megabanks 3 行，在 Keihanshin / Nagoya large-corporate deals 中竞争）
-- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]]（Kansai regional-bank group）
-- [[regional-banks/chiba-bank]]（TSUBASA Alliance lead bank）
-- [[regional-banks/ogaki-kyoritsu-bank]] · [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]]（Tokai regional-bank group / prefectural-border competition）
-- [[regional-banks/hachijuni-bank]]（independent regional-bank comparison） · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]]（与 regional-bank FG conversion cases 比较）
-- [[banking/minna-bank-baas-model]]（regional-bank digital strategy comparison）
+## 关联
 
-## Sources
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（巨型银行 3 行，在京阪神・名古屋大企业案件上竞争）
+- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]]（关西地银群）
+- [[regional-banks/chiba-bank]]（TSUBASA 联盟 主导行）
+- [[regional-banks/ogaki-kyoritsu-bank]] · [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]]（东海地银群，县境竞争）
+- [[regional-banks/hachijuni-bank]]（单独地银比较）· [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]]（与地银 FG 化先行例的比较）
+- [[banking/minna-bank-baas-model]]（地银数字战略比较）
 
-- **Wikipedia: The Shiga Bank**: https://ja.wikipedia.org/wiki/滋賀銀行, 2026-05-19 extracted / FY2024  figures 2026-05-29 checked
-- Shiga Bank 第 138 期 securities report（FY2024，2025-03-31 现在）- total assets / deposits / loans / employees / office count
-- Shiga Bank official history / IR disclosure materials 2025
-- TSUBASA Alliance official information
+## 出处
+
+- **Wikipedia: 滋賀銀行**（https://ja.wikipedia.org/wiki/滋賀銀行, 2026-05-19 抽出 / FY2024 数值 2026-05-29 确认）
+- 滋贺银行 第138期有价证券报告书（FY2024，2025-03-31 现在 — 总资产・存款・贷款・员工・网点数）
+- 滋贺银行 官方沿革・IR 披露资料（2025）
+- TSUBASA 联盟官方信息
 
 ---
 
-> [!info] 验证状态
-> confidence: **likely**。Public-information base calibration 于 1.1 ，ambiguous items 于 2026-05-19 / 2026-05-29 重新检查。沿革（1933-10-01 设立、Hachijusan + Omi 合并、Sixty-Fourth National Bank 1879  Hikone root）、market segment（TSE PRIME 8366）、independent-bank structure、head-office location（Otsu, Hamamachi 1-38）、TSUBASA Alliance membership（2015）、UN PRB adoption（2019，first regional bank）均由公开信息确认。**FY2024 / 第 138 期 / 2025-03-31 financial figures** 按 securities-report base 收集: total assets 7.53 兆円、deposits 5.81 兆円、loans 4.56 兆円、consolidated employees 2,171 名、offices 133。“未转为 holding company” 是经 Wikipedia（audit-and-supervisory-board company 的 independent listed bank）确认，并与其他 independent regional banks（[[regional-banks/chiba-bank|千葉銀]]・[[regional-banks/nanto-bank|南都銀]]・[[regional-banks/hachijuni-bank|八十二銀]] 等）并列整理。Subsidiary ownership ratios、2024  medium-term management plan 的 concrete target values、overseas representative offices 的 exact locations，以及 ESG finance / Lake Biwa environmental finance performance scale 未在本版收集，需要直接确认 Shiga Bank official IR。战略核心是以 TSUBASA + UN PRB 两根支柱强化独立维持的独特 model，覆盖 Kansai / Tokai border area（Shiga + northern Kyoto + northern Osaka + Nagoya）。
+> [!info] 校核状态
+> confidence: **likely**（基于 v1.1 公开信息校核 2026-05-19，ambiguous 复检 2026-05-29）。沿革（1933-10-01 设立・八十三 + 近江 整合・第六十四国立银行 1879 彦根 源流）与上市区分（东证 PRIME 8366）・单独银行体制・总行所在地（大津市浜町 1-38）・TSUBASA 联盟加盟（2015）・联合国 PRB 采纳（2019，地银首家）经公开信息确定。**收载 FY2024（第138期，2025-03-31）决算数值（总资产 7.53 兆円・存款 5.81 兆円・贷款 4.56 兆円・员工 2,171 名合并・网点 133）基于有价证券报告书**。「未实施控股公司化」一点经 Wikipedia（设监事会公司的单独上市银行）确认，与其他单独地银（[[regional-banks/chiba-bank|千葉銀]]・[[regional-banks/nanto-bank|南都銀]]・[[regional-banks/hachijuni-bank|八十二銀]]等）并列梳理。子公司的出资比例、2024 中期经营计划的具体目标值、海外驻在员事务所的准确所在、ESG 金融 / 琵琶湖环境保全融资的实绩规模在本版未收载 — 须直接确认滋贺银行 官方 IR。关西・东海边界（滋贺 + 京都府北部 + 大阪府北摄 + 名古屋圈）战略，以及以 TSUBASA + UN PRB 两根支柱强化单独维持的独特模式，是战略上的核心。

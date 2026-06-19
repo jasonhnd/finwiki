@@ -1,88 +1,88 @@
 ---
 source: loyalty/v-point-smbc-ccc-case
-source_hash: 728325f8f3b8edfa
+source_hash: 76125fbe074acae1
 lang: zh
 status: machine
 fidelity: ok
-title: "V Point (SMBC × CCC) —— 银行主导通用积分案例"
-translated_at: 2026-05-30T14:48:27.672Z
+title: "V Point (SMBC × CCC) — 银行主导的共通积分案例"
+translated_at: 2026-06-19T06:09:18.177Z
 ---
 
-# V Point (SMBC × CCC) —— 银行主导通用积分案例
+# V Point (SMBC × CCC) — 银行主导的共通积分案例
 
 ## TL;DR
 
-现行形态的 V Point（2024-04-22 起）是日本的**银行主导通用积分案例**：SMBC 既有的 V Point 与 CCCMK Holdings 的 T Point 统一为 V Point 品牌下的单一积分，以 [[megabanks/smfg|SMFG]] 的 [[card-issuers/smbc-card|SMBC Card]]（SMCC）作为发行金融骨干，并继承自 T Point 的 [[payments/INDEX|payments]] / [[retail/INDEX|retail]] 合作网络。它是对抗电信主导（dポイント）、电商主导（Rakuten Points）与支付 app 主导（PayPay points）通用积分系统最可信的制衡力量。
+当前形态 (2024-04-22 起) 的 V Point 是日本 **银行主导的共通积分案例**：SMBC 既有的 V Point 与 CCCMK 控股的 T Point 在 V Point 品牌下统一为单一积分，以 [[megabanks/smfg|SMFG]] 的 [[card-issuers/smbc-card|SMBC Card]] (SMCC) 作为发行金融骨干，并拥有从 T Point 继承的 [[payments/INDEX|payments]] / [[retail/INDEX|retail]] 合作伙伴网络。它是对电信主导 (dポイント)、电商主导 (楽天ポイント) 及支付应用主导 (PayPay ポイント) 共通积分体系最可信的制衡力量。
 
-关于此类统一内部「积分负债」实际含义的会计框架，见 [[loyalty/point-liability-accounting-boundary]]。更广的竞争地图见 [[loyalty/japan-points-landscape]] 与 [[loyalty/INDEX|loyalty index]]。
+关于在此类统一中"积分负债"实际意味着什么的会计框架，参见 [[loyalty/point-liability-accounting-boundary]]。关于更广泛的竞争图谱，参见 [[loyalty/japan-points-landscape]] 和 [[loyalty/INDEX|loyalty index]]。
 
 ## 时间线
 
 | 日期 | 事件 |
 |---|---|
-| 2003 | T Point 作为日本首个全国通用积分由 CCC（Culture Convenience Club）运营推出 —— 锚点合作方：Tsutaya、FamilyMart、ENEOS |
-| 2020 | Vポイント 作为 SMBC Card 专属信用卡奖励积分推出（对许多持卡人而言是 ワールドプレゼント 的替代） |
-| 2022-10 | CCC 与 SMFG / SMBC 宣布有意统一 T Point 与 V Point |
-| 2023-03 | CCC 将 T Point 运营重组进 CCCMK Holdings（与 SMFG 集团共有的合资载体） |
-| 2023-06 | CCCMK Holdings 设立（SMFG 一侧资本参与） |
-| 2024-04-22 | T Point 与 Vポイント 在「Vポイント」品牌下统一；通用积分业务的 T Point 品牌终止 |
-| 2024- | SMBC Olive Account 将 V Point 赚取整合为该行旗舰零售产品的核心忠诚度层 |
-| 2025- | 遗留 T-card 持有者向 V-card 设计的滚动迁移；合作商户网络转入 V Point 受理 |
+| 2003 | T Point 作为由 CCC (Culture Convenience Club) 运营的日本首个全国性共通积分上线 — 锚定合作伙伴：Tsutaya、FamilyMart、ENEOS |
+| 2020 | Vポイント 作为 SMBC 卡自有的信用卡奖励积分上线 (对许多持卡人而言取代了 ワールドプレゼント) |
+| 2022-10 | CCC 与 SMFG / SMBC 宣布统一 T Point 与 V Point 的意向 |
+| 2023-03 | CCC 将 T Point 业务重组为 CCCMK 控股 (与 SMFG 集团共同持有的合资载体) |
+| 2023-06 | CCCMK 控股成立 (SMFG 一方资本参与) |
+| 2024-04-22 | T Point 与 Vポイント 在「Vポイント」品牌下统一；共通积分业务的 T Point 品牌终止 |
+| 2024- | SMBC Olive 账户将 V Point 获取整合为该行旗舰零售产品的核心忠诚度层 |
+| 2025- | 遗留 T 卡持卡人向 V 卡设计的滚动迁移；合作商户网络切换至 V Point 受理 |
 
 ## 参与方
 
-- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]]（Sumitomo Mitsui Card Company, SMCC）** —— 银行侧锚点。作为 SMBC 信用卡与 Olive Account 的奖励层发行 V Point。提供信用与支付轨道。
-- **CCC / CCCMK Holdings** —— 历史通用积分运营方；带来 T Point 合作商户网络（FamilyMart、ENEOS、Tsutaya、药妆店、餐厅、酒店）、约 70 百万 T-Card 持有者的用户基础，以及数据营销运营。
-- **Tカード → Vカード 迁移** —— 遗留 T-card 在既定迁移窗口期内继续在参与商户赚取 V Point；新发行为 V-card 品牌。
-- **Olive Account** —— SMBC 的「一站式」零售产品（借记 + 信用 + 支付 + 投资），以 V Point 为其忠诚度层。于 2023, 推出，贯穿 2024-2025拓展。
+- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]] (三井住友卡公司，SMCC)** — 银行一方的锚。作为 SMBC 信用卡与 Olive 账户的奖励层发行 V Point。提供信用与支付通道。
+- **CCC / CCCMK 控股** — 历史上的共通积分运营方；带来 T Point 的合作商户网络 (FamilyMart、ENEOS、Tsutaya、药妆店、餐厅、酒店)、约 70 百万 T 卡持卡人的用户基础，以及数据营销业务。
+- **Tカード → Vカード 迁移** — 遗留 T 卡在规定的迁移窗口期内继续在参与商户获取 V Point；新发行为 V 卡品牌。
+- **Olive 账户** — SMBC 的「一体化」零售产品 (借记 + 信用 + 支付 + 投资)，以 V Point 作为其忠诚度层。于 2023, 上线，并通过 2024-2025扩展。
 
 ## 机制
 
-| 赚取界面 | V Point 如何累积 |
+| 获取面 | V Point 的累积方式 |
 |---|---|
-| SMBC Card / SMCC 信用卡消费 | 基础费率加奖励类别（便利店、快餐）；在「Vポイントアッププログラム」商户更高费率 |
-| Olive Account | 银行账户活动、借记消费、直接扣款设置、工资入账及其他「選べる特典」选择驱动积分赚取 |
-| POS 合作商户扫码 | 继承自 T Point 在 FamilyMart、ENEOS、药妆店、餐厅的实体卡 / app 扫码流程 |
-| V Point app | 码支付 / 扫码赚取 / 活动返现 |
-| 投资促销 | SBI証券 合作（SMBC + SBI 联盟）让 V Point 可用于部分基金购买 —— 这是 Rakuten Points / dポイント 对 SMBC 对齐客户而言无直接对等的特征 |
+| SMBC 卡 / SMCC 信用卡消费 | 基础费率加奖励类别 (便利店、快餐)；在「Vポイントアッププログラム」商户费率更高 |
+| Olive 账户 | 银行账户活动、借记消费、自动扣款设置、工资入账及其他「選べる特典」选择均贡献积分获取 |
+| POS 处合作商户扫描 | 在 FamilyMart、ENEOS、药妆店、餐厅继承的 T Point 实体卡 / 应用扫描流程 |
+| V Point 应用 | 码支付 / 扫码获取 / 活动返现 |
+| 投资促销 | SBI証券 合作 (SMBC + SBI 联盟) 让 V Point 可用于部分基金购买 — 对 SMBC 关联客户而言，这是楽天ポイント / dポイント 没有直接对等物的功能 |
 
-## 规模与合作商户转入
+## 规模与合作商户切换
 
-2024 统一的战略要点不仅是相加 —— 而是将 T Point 合作商户网络（在便利店、加油站、药妆店、餐厅深耕）绑定到一个银行发行的通用积分。统一后，V Point 继承：
+2024 统一的战略要点不仅仅是加法 — 而是要将 T Point 的合作商户网络 (深植于便利店、加油站、药妆店、餐厅) 与一种银行发行的共通积分绑定。统一后，V Point 继承了：
 
-- 一个声称达数千万的总会员基础（SMBC + CCCMK 历史两侧合计）。
-- 一个在 2024之前就已比 SMBC 独立 V Point 更广的实体商户受理网络。
-- 历史上由 CCC 运营的营销数据基础设施 —— 即在奖励经济学之外使 T Point 具备商业价值的客户 ID 图谱。
+- 号称达数千万规模的会员总基础 (SMBC + CCCMK 历史两方合并)。
+- 一个在 2024之前就已比 SMBC 独立的 V Point 更广的实体商户受理网络。
+- 历史上由 CCC 运营的营销数据基础设施 — 即让 T Point 在奖励经济之外具有商业价值的客户 ID 图谱。
 
-网络转入的清晰版本是任何受理 T-Point 的商户在迁移日历上成为受理 V-Point 的商户。摩擦版本是某些长尾商户未维持参与，某些连锁重新协商了参与条款。
+网络切换的理想版本是，任何受理 T Point 的商户都会在迁移日历上成为受理 V Point 的商户。摩擦版本则是，一些长尾商户未维持参与，一些连锁重新谈判了参与条款。
 
 ## 竞争定位
 
-| 通用积分系统 | 锚点类型 | 最强渠道 | V Point 的相对位置 |
+| 共通积分体系 | 锚定类型 | 最强渠道 | V Point 的相对位置 |
 |---|---|---|---|
-| Rakuten Points（[[payment-firms/rakuten-fg|Rakuten FG]]） | 电商主导 | 在线购物 + Rakuten Card + 楽天ペイ + Rakuten Mobile | V Point 在线较弱，在实体锚点商户较强 |
-| dポイント（[[megabanks/ndfg|NDFG]] / NTT docomo） | 电信主导 | 移动线路 ID、d払い、dカード | V Point 不绑定电信；在非 docomo 用户上有优势 |
-| PayPay Points（[[megabanks/paypay-fg|PayPay FG]]） | 支付 app 主导 | 码支付频率 + 活动 | V Point 活动驱动较少；每日元经济学更持久 |
-| Ponta（[[megabanks/au-fh|au FH]] / Loyalty Marketing） | 电信 + 零售联盟 | Lawson、KDDI / au PAY、Hot Pepper | V Point 在便利店赚取上重叠，但带银行侧锚点 |
-| WAON POINT（[[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]） | 零售集团主导 | AEON 商城 / 超市 | 不同定位 —— 门店频率忠诚度 vs 跨商户通用积分 |
-| nanaco point（[[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]） | 便利店主导 | Seven-Eleven / Ito-Yokado | 不同定位 —— 便利店忠诚度 vs 跨商户通用积分 |
+| 楽天ポイント ([[payment-firms/rakuten-fg|Rakuten FG]]) | 电商主导 | 线上购物 + 楽天卡 + 楽天ペイ + 楽天移动 | V Point 线上较弱，在实体锚定商户较强 |
+| dポイント ([[megabanks/ndfg|NDFG]] / NTT docomo) | 电信主导 | 移动线路 ID、d払い、dカード | V Point 不绑定电信；对非 docomo 用户有优势 |
+| PayPay Points ([[megabanks/paypay-fg|PayPay FG]]) | 支付应用主导 | 码支付频次 + 活动 | V Point 较少由活动驱动；每日元的经济性更持久 |
+| Ponta ([[megabanks/au-fh|au FH]] / Loyalty Marketing) | 电信 + 零售联盟 | Lawson、KDDI / au PAY、Hot Pepper | V Point 在便利店获取上有重叠，但带银行一方锚定 |
+| WAON POINT ([[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]) | 零售集团主导 | AEON 商场 / 超市 | 定位不同 — 门店频次忠诚度对跨商户共通积分 |
+| nanaco point ([[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]) | 便利店主导 | Seven-Eleven / Ito-Yokado | 定位不同 — 便利店忠诚度对跨商户共通积分 |
 
-V Point 的战略新颖性在于银行主导形态：
+V Point 的战略新颖之处在于其银行主导的形态：
 
-- **电信主导**（dポイント、Ponta-au）：身份来自移动线路账户；忠诚度延伸支付。
-- **电商主导**（Rakuten）：身份来自购物车；忠诚度驱动金融交叉销售。
-- **支付 app 主导**（PayPay）：身份来自钱包 app；忠诚度是活动出资的获取。
-- **零售集团主导**（WAON、nanaco）：身份来自门店；忠诚度深化门店频率。
-- **银行主导**（V Point / SMBC / Olive）：身份来自银行账户与卡；忠诚度从信用卡经济学向外延伸进合作商户网络。
+- **电信主导** (dポイント、Ponta-au)：身份来自移动线路账户；忠诚度延伸支付。
+- **电商主导** (楽天)：身份来自购物车；忠诚度驱动金融交叉销售。
+- **支付应用主导** (PayPay)：身份来自钱包应用；忠诚度是由活动出资的获客。
+- **零售集团主导** (WAON、nanaco)：身份来自门店；忠诚度加深门店频次。
+- **银行主导** (V Point / SMBC / Olive)：身份来自银行账户与卡；忠诚度从信用卡经济性向外延伸至合作商户网络。
 
-银行主导形态赋予 V Point 进入投资与储蓄交叉销售（经 SMBC + SBI）以及「主银行账户」工作流（经 Olive）的最自然路径。代价是在线商务引力弱于 Rakuten，码支付活动力量弱于 PayPay。
+银行主导的形态为 V Point 提供了通往投资与储蓄交叉销售 (经由 SMBC + SBI) 以及通往「主银行账户」工作流 (经由 Olive) 的最自然路径。其权衡在于线上商务引力弱于楽天，码支付活动力量弱于 PayPay。
 
-## 这为何对 JapanFG 分析重要
+## 为何这对 JapanFG 分析重要
 
-- V Point 是日本**大型银行主导通用积分分发层**最清晰的现行案例。阅读 [[megabanks/smfg|SMFG]] 时不纳入它会低估 SMBC 的零售战略。
-- 它是 SMBC × SBI 联盟下 SBI証券 一侧投资产品的自然交叉销售轨道 —— 与证券分销分析相关。
-- 对任何商户收单 / PSP 分析而言，V Point 合作商户网络如今是与 Rakuten 及 dポイント 并列的第三个重要通用积分足迹。
-- 对消费者银行竞争分析而言，Olive Account + V Point 捆绑是日本大型银行最显眼的「主银行即金融科技 app」尝试，与 [[megabanks/mufg|MUFG]] 及 [[megabanks/mizuho-fg|Mizuho FG]] 的做法形成对照。
+- V Point 是日本 **大型银行主导的共通积分分销层** 最干净的现行案例。不结合它来阅读 [[megabanks/smfg|SMFG]] 会低估 SMBC 的零售战略。
+- 它是 SMBC × SBI 联盟下 SBI証券 一方投资产品的天然交叉销售通道 — 与证券分销分析相关。
+- 对任何商户收单 / PSP 分析而言，V Point 的合作商户网络如今是与楽天和 dポイント 并列的第三个重要共通积分足迹。
+- 对消费者银行竞争分析而言，Olive 账户 + V Point 捆绑是日本大型银行最显眼的「主银行即金融科技应用」尝试，与 [[megabanks/mufg|MUFG]] 和 [[megabanks/mizuho-fg|Mizuho FG]] 的做法形成对照。
 
 ## 相关
 
@@ -103,9 +103,9 @@ V Point 的战略新颖性在于银行主导形态：
 
 ## 来源
 
-- Vポイント公式サイト（https://vpoint.jp/）。
-- SMBC Olive Account 官方网站（https://www.smbc.co.jp/kojin/olive/）。
-- SMBC Card（SMCC）V Point 服务页面。
-- CCC / CCCMK Holdings 关于 T Point 与 V Point 统一的新闻稿。
-- SMFG 关于 T Point 联盟与 V Point 整合的新闻稿。
+- Vポイント公式サイト (https://vpoint.jp/)。
+- SMBC Olive 账户官方网站 (https://www.smbc.co.jp/kojin/olive/)。
+- SMBC 卡 (SMCC) V Point 服务页面。
+- CCC / CCCMK 控股 关于 T Point 与 V Point 统一的新闻稿。
+- SMFG 关于 T Point 联盟与 V Point 整合的新闻发布。
 - 关于 2024-04-22 T Point + V Point 统一的公开报道。

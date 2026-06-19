@@ -1,13 +1,14 @@
 ---
 source: life-insurers/meiji-yasuda
-source_hash: 75a37e4297f811af
+source_hash: c02e5d4a2e15f856
 lang: en
 status: machine
 fidelity: ok
-title: "Meiji Yasuda Life Insurance Company"
-translated_at: 2026-05-31T23:59:49.331Z
+title: "明治安田生命保険相互会社"
+translated_at: 2026-06-19T06:09:18.056Z
 ---
-# Meiji Yasuda Life Insurance Company
+
+# 明治安田生命保険相互会社
 
 ## Wiki route
 
@@ -15,128 +16,128 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-One of Japan's major 4  life insurers, formed in 2004-01-01 through the merger of **Meiji Life**, Japan's first modern life insurance company (founded 1881 ), and **Yasuda Life** (1880  Kyosai Gohyaku-Meisha -> 1894  Yasuda Life). It maintains a **mutual company form** (unlisted; members = policyholders) and puts policyholder-oriented dividends at the center of management. Its 3 -axis structure consists of the sales staff "MY Link Coordinator" channel x corporate business (group insurance for mid-sized companies) x U.S. StanCorp Financial Group (made wholly owned in 2016 , about 5000 億円). B2C brand exposure is strong through the J.League title partnership and Yomiuri Giants sponsorship. It is executing the medium-term plan "MY Mutual Way II."
+One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji Life** (founded 1881 ), Japan's first modern life insurance company, and **Yasuda Life** (Kyosai Gohyaku Meisha 1880  → Yasuda Life 1894 ). It maintains the **mutual-company form** (unlisted; members = policyholders) and places policyholder-focused dividends at the core of management. A 3 -axis structure of the sales-staff "MY Link Coordinator" channel × corporate (group insurance for mid-sized companies) × the US StanCorp Financial Group (fully consolidated in 2016 , approx. 5000 億円). With the J.League title partnership and Yomiuri Giants sponsorship, B2C brand exposure is strong. The mid-term plan "MY Mutual Way Ⅱ" is in progress.
 
 ## 1. Company overview
 
-**Legal name**: Meiji Yasuda Life Insurance Company
+**Official name**: 明治安田生命保険相互会社
 **English name**: Meiji Yasuda Life Insurance Company
-**Legal form**: **mutual company** (not listed; policyholders = members hold voting rights)
-**Established**: 2004-01-01 (merger of former Meiji Life Insurance + former Yasuda Life Insurance)
-**Head office**: Marunouchi, Chiyoda-ku, Tokyo 2-1-1 (Meiji Yasuda Life Building)
-**Industry position**: one of the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
+**Corporate form**: **mutual company** (not listed; policyholders = members hold voting rights)
+**Establishment**: 2004-01-01 (merger of former Meiji Life Insurance + former Yasuda Life Insurance)
+**Head office**: 2-1-1 Marunouchi, Chiyoda-ku, Tokyo (Meiji Yasuda Life Building)
+**Industry ranking**: one of the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
 
 ### Points of the mutual-company form
 
-- Not a stock company but a **mutual company** (Insurance Business Act Article 18  and following)
-- No shareholders; insurance policyholders participate in management as "members" through the board of policyholder representatives
-- Dividends are returned to policyholders, not shareholders (policyholder dividends)
-- Cannot list, so equity fundraising from capital markets is unavailable; internal reserves and subordinated debt are central
-- Peers with the same form: [[life-insurers/nippon-life]], Sumitomo Life, Fukoku Life, Asahi Life
+- Not a stock company but a **mutual company** (Insurance Business Act, Article 18  and following)
+- No shareholders exist; policyholders participate in management as "members" through the general meeting of representatives
+- Dividends are returned not to shareholders but to policyholders (policyholder dividends)
+- Because it cannot list, equity financing from the capital markets is impossible; it centers on retained earnings and subordinated debt
+- Peers of the same form: [[life-insurers/nippon-life]] / Sumitomo Life / Fukoku Life / Asahi Life
 
-### Predecessor 2  lines
+### Predecessor 2  lineages
 
-- **Meiji Life**: founded 1881-07  by Zenjiro Yasuda, Taizo Abe, and others as Japan's first modern life insurance company
-- **Yasuda Life**: 1880  Kyosai Gohyaku-Meisha -> 1894  Yasuda Life Insurance Partnership -> Yasuda zaibatsu line
-- **Teikoku Life**: renamed **Meiji Life Insurance** in 1947  postwar reorganization (wartime integration unwound)
+- **Meiji Life**: founded 1881-07 , Japan's first modern life insurance company, by Yasuda Zenjiro, Abe Taizo, and others
+- **Yasuda Life**: Kyosai Gohyaku Meisha 1880  → Yasuda Life Insurance limited partnership 1894  → Yasuda zaibatsu affiliated
+- **Teikoku Life**: renamed to **Meiji Life Insurance** in the 1947  postwar reorganization (dissolution of wartime consolidation)
 
-### Key timeline
+### Key chronology
 
-| Year / month | Event |
+| Year/Month | Event |
 |---|---|
-| 1880  | Kyosai Gohyaku-Meisha founded |
-| 1881-07  | Meiji Life founded (Japan's first modern life insurance company) |
-| 1894  | Kyosai Gohyaku-Meisha -> Yasuda Life Insurance Partnership |
-| 1947  | Teikoku Life -> renamed Meiji Life Insurance |
-| **2004-01-01** | **Meiji Life + Yasuda Life -> Meiji Yasuda Life** merger launched |
-| 2005-2006  | **Insurance claim non-payment scandal** -> business improvement orders / administrative actions from the FSA |
-| 2010  | Began considering acquisition of U.S. **StanCorp Financial Group** |
-| **2016-03-07** | **StanCorp Financial Group made wholly owned** (about 5000 億円) |
-| 2024  | Medium-term management plan "MY Mutual Way II" started |
+| 1880 | Kyosai Gohyaku Meisha founded |
+| 1881-07 | Meiji Life founded (Japan's first modern life insurance company) |
+| 1894 | Kyosai Gohyaku Meisha → Yasuda Life Insurance limited partnership |
+| 1947 | Teikoku Life → Meiji Life Insurance renaming |
+| **2004-01-01** | **Meiji Life + Yasuda Life → Meiji Yasuda Life** merger established |
+| 2005〜2006 | **insurance-claim non-payment incident** → FSA business-improvement order / administrative disposition |
+| 2010 | began studying acquisition of the US **StanCorp Financial Group** |
+| **2016-03-07** | **StanCorp Financial Group fully consolidated** (approx. 5000 億円) |
+| 2024 | mid-term management plan "MY Mutual Way Ⅱ" launched |
 
-### Major subsidiaries / related entities
+### Main subsidiaries / affiliates
 
-- **StanCorp Financial Group** (U.S., 100%, made 2016  wholly owned) -- group insurance platform, U.S. Northwest franchise
-- **Meiji Yasuda Asset Management** -- asset-management subsidiary
-- **Meiji Yasuda U.S. Real Estate** -- U.S. real estate investment SPC
-- **Meiji Yasuda System Technology** -- information systems subsidiary
-- **Meiji Yasuda Life Planning Center** -- think tank
+- **StanCorp Financial Group** (US, 100%, fully consolidated 2016 ) ── group-insurance platform, US Northwest base
+- **Meiji Yasuda Asset Management** ── asset-management subsidiary
+- **Meiji Yasuda US Realty** ── US real-estate investment SPC
+- **Meiji Yasuda System Technology** ── information-systems subsidiary
+- **Meiji Yasuda Life Planning Center** ── think tank
 
 ## 3. Business segment map
 
-| Segment | Content | Features |
+| Segment | Content | Characteristics |
 |---|---|---|
-| Individual insurance (sales staff) | MY Link Coordinators | Main channel, face-to-face |
-| Corporate insurance | Group insurance for mid-sized companies | Corporate strength, retirement-benefit mutual aid, etc. |
-| Group pensions | Corporate pensions (defined benefit / defined contribution) | One of the major providers |
-| Overseas (U.S.) | StanCorp Financial Group | Group insurance platform, U.S. Northwest |
-| Asset management | Meiji Yasuda Asset Management | Domestic bonds / equities / alternatives |
-| Real estate | Meiji Yasuda U.S. Real Estate, etc. | Owns office buildings in Otemachi / Marunouchi |
-| Healthcare | Health-promotion insurance such as "Best Style" | Health age / Minna no Kenkatsu Project |
+| Individual insurance (sales staff) | MY Link Coordinator | main channel, face-to-face type |
+| Corporate insurance | group insurance for mid-sized companies | corporate-strong, retirement-allowance mutual aid, etc. |
+| Group annuity | corporate pensions (defined-benefit / defined-contribution) | one of the majors |
+| Overseas (US) | StanCorp Financial Group | group-insurance platform, US Northwest |
+| Asset management | Meiji Yasuda Asset Management | domestic bonds / equities / alternatives |
+| Real estate | Meiji Yasuda US Realty, etc. | owns Otemachi / Marunouchi office buildings |
+| Healthcare | health-promotion-type insurance "Best Style," etc. | health age / Everyone's Kenkatsu Project |
 
-### Management policy (medium-term plan "MY Mutual Way II")
+### Management policy (mid-term plan "MY Mutual Way Ⅱ")
 
-- **Maintaining the mutual-company form**: no listing; policyholder returns placed at the center of management
-- **Depth of policyholder dividends**: emphasizes one of the industry's top dividend resources
-- **"Minna no Kenkatsu Project"**: health-promotion insurance + municipality partnerships, creating B2C exposure
-- **Overseas (centered on StanCorp)**: turns the U.S. group insurance platform into a "second earnings base"
+- **Firm maintenance of the mutual-company form**: not listing, placing policyholder return at the center of management
+- **Depth of policyholder dividends**: promotes securing of industry-top-class dividend resources
+- **"Everyone's Kenkatsu Project"**: health-promotion-type insurance + local-government coordination for B2C exposure
+- **Overseas (centered on StanCorp)**: turning the US group-insurance platform into a "second earnings base"
 
 ### Channel strategy
 
-- **MY Link Coordinators** (sales staff): main channel, face-to-face consulting
-- **Corporate strength**: long-term relationships in group insurance and retirement-benefit mutual aid for mid-sized companies
-- **Agencies / bancassurance**: complementary position through megabanks and regional banks
+- **MY Link Coordinator** (sales staff): main, face-to-face consultation
+- **Corporate-strong**: long-term relationships through group insurance / retirement-allowance mutual aid of mid-sized companies
+- **Agencies / bancassurance**: complementary positioning, via megabanks / regional banks
 
-### B2C branding (stands out in the industry)
+### B2C branding (industry-outstanding)
 
-- **J.League title partner** ("Meiji Yasuda J.League" naming) -- exposure across Japanese soccer
+- **J.League title partner** (the "Meiji Yasuda J.League" designation) ── exposure to Japanese soccer as a whole
 - **Yomiuri Giants sponsor** (Tokyo Dome outfield fence, etc.)
-- **"Minna no Kenkatsu Project"**: health-promotion partnerships with municipalities and universities
-- Among industry 4 社, **B2C recognition is top class** (especially among younger people and sports fans)
+- **"Everyone's Kenkatsu Project"**: health-promotion coordination with local governments / universities
+- Within the industry 4 社, **B2C name recognition is top-class** (especially among the young and sports-fan segments)
 
 ### Overseas strategy
 
-- **StanCorp focus**: U.S. group insurance platform, about 5000 億円 invested through 2016  full acquisition
-- Asia expansion is more restrained compared with peers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]])
-- Concentrated risk on the U.S. 1  axis, paired with specialized focus
+- **StanCorp concentration**: US group-insurance platform, with approx. 5000 億円 invested through the 2016  full consolidation
+- Asia expansion is modest compared with peers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]])
+- The flip side of the US 1 -axis concentration risk is specialization
 
 ## 5. Regulation / policy
 
-- **Supervisor**: FSA insurance supervision
-- **Legal basis for entity form**: Insurance Business Act Article 18  and following (mutual-company provisions)
-- **Solvency margin ratio**: industry minimum 200%; major 4  life insurers usually exceed 800-1000%
-- **Overseas regulation**: U.S. NAIC and state insurance supervisors (through StanCorp)
-- **Recent policy issues**:
-  - From 2024: BOJ rate normalization -> higher long-term yen rates creating **liability-side valuation gains** (positive for life insurers)
-  - Response to **economic value-based solvency regulation** (introduced 2025-04 )
-  - Boundary between health-promotion insurance and the Pharmaceuticals and Medical Devices Act / Medical Care Act
-  - Tightening regulation of sales-staff channels (customer-oriented business conduct)
+- **Supervising authority**: FSA insurance supervision
+- **Basis of corporate form**: Insurance Business Act, Article 18  and following (mutual-company provisions)
+- **Solvency margin ratio**: industry minimum 200%; major 4  life insurers usually exceed 800〜1000%
+- **Overseas regulation**: US NAIC / state insurance commissioners (via StanCorp)
+- **Recent policy points**:
+  - 2024〜 BOJ rate normalization → yen-denominated long-term rate rise produces **liability-side valuation gains** (a plus for life insurers)
+  - Response to **economic-value-based solvency regulation** (introduced 2025-04 )
+  - The boundary between health-promotion-type insurance and the Pharmaceutical and Medical Devices Act / Medical Care Act
+  - Strengthened regulation of the sales-staff channel (customer-oriented business operation)
 
 ## 6. Counterpoints
 
-- "2005-2006  non-payment scandal": a history that damaged trust across the industry; continued commitment to preventing recurrence
+- The "2005-2006  non-payment incident": a history that damaged industry-wide trust; the recurrence-prevention commitment continues
 
 ## 7. Open questions
 
-- What is the outlook for numerical achievement under the "MY Mutual Way II" medium-term plan?
-- Will overseas expansion beyond StanCorp (Asia, etc.) become serious, or will the company maintain the U.S. 1 -axis focus?
-- Under economic value-based solvency regulation (from 2025-04 onward), what is the impact on surplus capacity and dividend policy?
-- What is the progress of digital integration of the sales-staff channel (hybrid model)?
-- In 4 社 competition with [[life-insurers/nippon-life]] and [[life-insurers/dai-ichi-life]], is the mutual-company advantage sustainable?
+- What is the outlook for achieving the numerical targets of the "MY Mutual Way Ⅱ" mid-term plan?
+- Will overseas expansion other than StanCorp (Asia, etc.) be fully launched, or will the US 1 -axis be maintained?
+- What is the impact on the surplus / dividend policy under economic-value-based solvency regulation (2025-04〜)?
+- What is the progress of digital integration (hybrid type) of the sales-staff channel?
+- Is the mutual company's advantage sustainable in the 4 社 competition with [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]]?
 
 ### Related
 
-- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] (same major 4  life-insurer peers)
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] (corporate transactions and bancassurance with megabanks)
-- Sumitomo Life, Fukoku Life, Asahi Life (same mutual-company form)
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] (same / major 4  life insurers)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] (corporate transactions with megabanks / bancassurance)
+- Sumitomo Life / Fukoku Life / Asahi Life (same / mutual-company form)
 
 ### Sources
 
 - **Wikipedia: Meiji Yasuda Life Insurance** (https://ja.wikipedia.org/wiki/明治安田生命保険, extracted 2026-05-19)
-- Meiji Yasuda Life official website history / company profile (see 2026-05-19)
-- FSA published materials "Management status of insurance companies"
+- Meiji Yasuda Life official site, corporate history / company overview (refer 2026-05-19)
+- FSA "Management status of insurance companies" published materials
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  public information only, 2026-05-19). This article is based only on public information (Wikipedia / official website / FSA published materials). Specific financial figures (total assets, premiums and other income, core profit, etc.) require the latest disclosure booklet. StanCorp acquisition amount and timeline are based on public reporting.
+> confidence: **likely** (v1.0  public information only / 2026-05-19). This article is based only on public information (Wikipedia / official site / FSA published materials). Specific financial figures (total assets / premium and other income / core profit, etc.) should be referred to in the latest disclosure publication. The StanCorp acquisition amount / chronology is based on public reporting.

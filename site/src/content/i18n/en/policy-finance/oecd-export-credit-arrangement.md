@@ -1,11 +1,11 @@
 ---
 source: policy-finance/oecd-export-credit-arrangement
-source_hash: f45549a4af4595e8
+source_hash: 307d859da6c65077
 lang: en
 status: machine
 fidelity: ok
 title: "OECD Arrangement on Officially Supported Export Credits"
-translated_at: 2026-06-01T03:31:12.297Z
+translated_at: 2026-06-19T12:43:19.887Z
 ---
 
 # OECD Arrangement on Officially Supported Export Credits
@@ -78,13 +78,13 @@ The OECD maintains a single **Country Risk Classification (CRC)** scale from **0
 
 | CRC | Approximate country examples (illustrative; subject to current OECD review) |
 |---|---|
-| 0  | High-income OECD (Japan, US, UK, Germany, France, Canada, Korea, Australia, Singapore, etc.) |
-| 1  | Lower-risk emerging markets (Taiwan, Czech, UAE, Saudi Arabia, etc. at various points) |
-| 2  | Various emerging markets (Indonesia, India, Malaysia, Mexico, Brazil, etc. at various points) |
-| 3-4  | Mid-tier emerging markets (Philippines, Egypt, Türkiye, Vietnam, etc. at various points) |
-| 5  | Higher-risk emerging markets |
-| 6  | High-risk countries with significant debt-sustainability concerns |
-| 7  | Highest-risk countries with imminent / actual default risk |
+| 0 | High-income OECD (Japan, US, UK, Germany, France, Canada, Korea, Australia, Singapore, etc.) |
+| 1 | Lower-risk emerging markets (Taiwan, Czech, UAE, Saudi Arabia, etc. at various points) |
+| 2 | Various emerging markets (Indonesia, India, Malaysia, Mexico, Brazil, etc. at various points) |
+| 3-4 | Mid-tier emerging markets (Philippines, Egypt, Türkiye, Vietnam, etc. at various points) |
+| 5 | Higher-risk emerging markets |
+| 6 | High-risk countries with significant debt-sustainability concerns |
+| 7 | Highest-risk countries with imminent / actual default risk |
 
 The MPR is calculated as a function of CRC, tenor, transaction structure (sovereign vs sovereign-adjacent vs corporate), and credit risk mitigation (collateral, third-party guarantees). The MPR is a **floor** — ECAs may price above MPR but not below. The MPR-MTRO (Most Restrictive Other Terms) discipline ensures terms-package cannot be loosened through other levers to compensate for MPR.
 
@@ -150,26 +150,26 @@ The CRC has analytic uses beyond Arrangement compliance: it is one of the few pu
 
 | Year | Event |
 |---|---|
-| 1976  | Original Consensus on Officially Supported Export Credits established among OECD members |
-| 1978  | Renamed "Arrangement"; formal structure adopted |
-| 1983  | First major revision; basic disciplines codified |
-| 1992  | Helsinki Package — tied aid disciplines added |
-| 1997  | Knaepen Package — MPR system introduced for the first time, linking premium to country risk |
-| 1998  | Anti-bribery provisions integrated |
-| 2007  | Common Approaches on environmental due diligence formalised |
-| 2008  | Ship Sector Understanding revised |
-| 2009-04  | Tokyo Action Statement responding to global financial crisis — significant structural review of Arrangement framework |
-| 2011  | Aircraft Sector Understanding (ASU) revised — major elaboration of risk-based pricing |
-| 2012  | Climate Change Sector Understanding (CCSU) established — first climate-specific tenor extension |
-| 2014  | Common Approaches revised; environmental due diligence tightened |
-| 2015  | First Coal-Fired Electricity Generation Sector Understanding (CFSU) established with limited disciplines |
-| 2018-2020  | Climate-finance debate intensifies; CFSU tightening pressure builds; CCSU expansion preparation |
-| 2021-09  | CFSU substantially tightened — new unabated coal-fired power export finance effectively prohibited among participants |
-| 2022-02  | Russia invasion of Ukraine — Arrangement participants implement sanctions overlay; Russia-related export-credit pipeline closed |
-| 2023-04  | CCSU 2023 modernisation — substantially expanded tenor (up to 22 years for many categories) and category coverage (hydrogen, ammonia, CCS, expanded renewables, climate-friendly water and rail metro) |
-| 2024  | Continuing debate on possible Critical Minerals Sector Understanding |
-| 2024-2025  | China-non-Arrangement competition framing intensifies in semiconductor, EV / battery, hydrogen / ammonia, and critical-minerals supply-chain contexts; calls for Arrangement modernisation to address China-finance asymmetry |
-| 2025  | Continuing CRC review cycle; Russia / Ukraine / Belarus CRC at 7; sovereign-stress cases (Sri Lanka, Pakistan, Lebanon, Argentina, Egypt) flow through CRC adjustments |
+| 1976 | Original Consensus on Officially Supported Export Credits established among OECD members |
+| 1978 | Renamed "Arrangement"; formal structure adopted |
+| 1983 | First major revision; basic disciplines codified |
+| 1992 | Helsinki Package — tied aid disciplines added |
+| 1997 | Knaepen Package — MPR system introduced for the first time, linking premium to country risk |
+| 1998 | Anti-bribery provisions integrated |
+| 2007 | Common Approaches on environmental due diligence formalised |
+| 2008 | Ship Sector Understanding revised |
+| 2009-04 | Tokyo Action Statement responding to global financial crisis — significant structural review of Arrangement framework |
+| 2011 | Aircraft Sector Understanding (ASU) revised — major elaboration of risk-based pricing |
+| 2012 | Climate Change Sector Understanding (CCSU) established — first climate-specific tenor extension |
+| 2014 | Common Approaches revised; environmental due diligence tightened |
+| 2015 | First Coal-Fired Electricity Generation Sector Understanding (CFSU) established with limited disciplines |
+| 2018-2020 | Climate-finance debate intensifies; CFSU tightening pressure builds; CCSU expansion preparation |
+| 2021-09 | CFSU substantially tightened — new unabated coal-fired power export finance effectively prohibited among participants |
+| 2022-02 | Russia invasion of Ukraine — Arrangement participants implement sanctions overlay; Russia-related export-credit pipeline closed |
+| 2023-04 | CCSU 2023 modernisation — substantially expanded tenor (up to 22 years for many categories) and category coverage (hydrogen, ammonia, CCS, expanded renewables, climate-friendly water and rail metro) |
+| 2024 | Continuing debate on possible Critical Minerals Sector Understanding |
+| 2024-2025 | China-non-Arrangement competition framing intensifies in semiconductor, EV / battery, hydrogen / ammonia, and critical-minerals supply-chain contexts; calls for Arrangement modernisation to address China-finance asymmetry |
+| 2025 | Continuing CRC review cycle; Russia / Ukraine / Belarus CRC at 7; sovereign-stress cases (Sri Lanka, Pakistan, Lebanon, Argentina, Egypt) flow through CRC adjustments |
 
 ## 6. Climate transition update (2023-2025)
 
@@ -200,10 +200,10 @@ This creates asymmetric competition in markets where Japanese ECAs and Chinese s
 | Sector Understandings active | 5 (SSU, ASU, NSU, CCSU, CFSU) | OECD |
 | Country Risk Classification scale | 0-7 (8 levels) | OECD CRC |
 | CRC review frequency | Several times per year | OECD |
-| CCSU maximum tenor | Up to 22 years for eligible categories | OECD CCSU 2023  |
+| CCSU maximum tenor | Up to 22 years for eligible categories | OECD CCSU 2023 |
 | General Arrangement maximum tenor (Category I countries) | 5 years generally | OECD Arrangement |
 | General Arrangement maximum tenor (Category II countries) | 10 years generally | OECD Arrangement |
-| CFSU 2021 disposition on new unabated coal | Effectively prohibited among participants | OECD CFSU 2021  |
+| CFSU 2021 disposition on new unabated coal | Effectively prohibited among participants | OECD CFSU 2021 |
 | Berne Union peer (separate but related forum) | ~80 member ECAs / insurers globally | Berne Union |
 
 ## 9. Counterpoints

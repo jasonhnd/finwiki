@@ -1,43 +1,45 @@
 ---
 source: life-insurers/td-financial-life
-source_hash: bc685cc14a964c1e
+source_hash: 2b9538b328308630
 lang: zh
 status: machine
 fidelity: ok
-title: "T&D Financial Life Insurance"
-translated_at: 2026-06-01T02:31:57.161Z
+title: "T&D金融生命保险（T&Dフィナンシャル生命保険）"
+translated_at: 2026-06-19T06:09:18.190Z
 ---
-# T&D Financial Life Insurance
+
+# T&D金融生命保险（T&Dフィナンシャル生命保険）
+
 
 ## Wiki route
 
-本条目位于[[life-insurers/INDEX|life-insurers INDEX]]之下。可与[[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-T&D Financial Life Insurance Co., Ltd. 是[[life-insurers/td-hd]]集团的人寿保险运营公司。它与[[life-insurers/daido-life]]、[[life-insurers/taiyo-life]]并列，是 T&D group 的核心法人实体之一，也是分析金融机构 / 店铺渠道导向产品的独立锚点。
+T&D金融生命保险股份有限公司（T&Dフィナンシャル生命保険株式会社）是 [[life-insurers/td-hd]] group 旗下的 life-insurance operating company。它与 [[life-insurers/daido-life]]、[[life-insurers/taiyo-life]] 并列，是 T&D group 的 core legal entity，也是分析 financial-institution / shop-channel oriented products 的 standalone anchor。
 
-## 1. 牌照 / 集团边界
+## 1. License / group boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | T&D Financial Life Insurance Co., Ltd. |
-| 牌照路径 | 《保险业法》下的生命保险公司；FSA 生命保险公司清单 |
-| 行业团体 | Life Insurance Association of Japan 会员 |
-| 集团边界 | [[life-insurers/td-hd]]运营公司 |
-| Wiki 角色 | T&D group 面向金融机构 / 店铺渠道的专门保险公司 |
+| Legal name | Ｔ＆Ｄフィナンシャル生命保険株式会社 |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group boundary | [[life-insurers/td-hd]] operating company |
+| Wiki role | T&D group specialist insurer for financial-institution / shop channels |
 
-## 2. 运营模式
+## 2. Operating model
 
-T&D group 更容易被理解为三实体结构：[[life-insurers/taiyo-life]]面向个人 / 家庭渠道，[[life-insurers/daido-life]]面向中小企业 / 企业主渠道，T&D Financial Life 面向金融机构 / 店铺渠道产品。
+T&D group is easier to understand as a three-entity structure: [[life-insurers/taiyo-life]] for individual / household channels, [[life-insurers/daido-life]] for SME / owner channels, and T&Dフィナンシャル生命 for financial-institution / shop-channel products.
 
-本页将渠道经济性、产品风险和适合性问题与控股公司页面分开。
+This page keeps channel economics, product risk, and suitability issues separate from the holding-company page.
 
-## 3. 为什么此页重要
+## 3. Why this page matters
 
-- 补全 T&D group 主要寿险运营公司的拆分。
-- 对银行 / 店铺渠道产品分析很重要。
-- 提供有注册清单支撑的 D2  specialty insurer 页面。
+- Completes the main T&D group life-insurer operating-company split.
+- Important for bank / shop channel product analysis.
+- Registry-backed D2 specialty insurer.
 
 ## Related
 
@@ -51,4 +53,4 @@ T&D group 更容易被理解为三实体结构：[[life-insurers/taiyo-life]]面
 
 - FSA: life-insurance company license list, as of 2026-04-13.
 - Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- T&D Financial Life official website.
+- T&Dフィナンシャル生命 official website.

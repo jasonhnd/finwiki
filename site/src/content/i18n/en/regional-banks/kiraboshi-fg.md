@@ -1,12 +1,13 @@
 ---
 source: regional-banks/kiraboshi-fg
-source_hash: fed5078462be92c2
+source_hash: 0fb35cf365098109
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Kiraboshi FG"
-translated_at: 2026-05-31T23:59:49.385Z
+translated_at: 2026-06-19T12:43:19.912Z
 ---
+
 # Tokyo Kiraboshi FG
 
 ## Wiki route
@@ -15,116 +16,115 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A rare **Tokyo-specialized "Tokyo-only regional bank"** group. In 2014-10-01, **Tokyo Tomin Bank + Yachiyo Bank** integrated management to launch "Tokyo TY Financial Group" -> in 2016-04  it integrated **ShinGinko Tokyo** (disposing of a negative legacy of the former Ishihara Tokyo metropolitan administration) -> in 2018-05-01, **the 3 行 merger created "Kiraboshi Bank" and the FG was renamed "Tokyo Kiraboshi FG."** Its franchise is narrowly focused on Tokyo (plus parts of Kanagawa and Chiba), making it a rare regional-bank model. The strategy seeks the "Tokyo-area SMEs / startups / affluent customers" niche through SME finance + affluent customers in central urban locations + digital strategy such as "Kiraboshi Digital Bank" and "UI Bank" + BaaS / iBank partnerships ^[extracted].
+A rare "Tokyo-only regional bank" group **specialized in the Tokyo metropolitan area**. In 2014-10-01, the business integration of **Tokyo Tomin Bank + Yachiyo Bank** formed "Tokyo TY Financial Group" → 2016-04  integrated **ShinGinko Tokyo** (handling the negative legacy of the former Ishihara administration) → 2018-05-01 the **3 行 merger created "Kiraboshi Bank," and the FG was also renamed "Tokyo Kiraboshi FG."** A rare regional-bank model with its base narrowed to the Tokyo metropolitan area (and parts of Kanagawa / Chiba). Its strategy is to capture the "Tokyo-area SME / startup / wealthy" niche through SME finance + downtown-located wealthy clientele + digital strategies such as "Kiraboshi Digital Bank" and "UI Bank" + BaaS / iBank partnerships ^[extracted].
 
 ## 1. Company overview
 
 **Legal name**: Tokyo Kiraboshi Financial Group, Inc. ^[extracted]
 **English name**: Tokyo Kiraboshi Financial Group, Inc.
-**Securities code**: TSE Prime 7173  ^[extracted]
-**Established**: 2014-10-01 (as Tokyo TY Financial Group, integrating Tokyo Tomin Bank + Yachiyo Bank) ^[extracted]
-**Current trade name**: 2018-05-01 (Tokyo TY FG -> Tokyo Kiraboshi FG name change) ^[extracted]
-**Head office**: Minami-Aoyama, Minato-ku, Tokyo 3-10-43  ^[extracted]
-**Franchise**: all of Tokyo + parts of Kanagawa and Chiba ^[extracted]
+**Securities code**: TSE PRIME 7173 ^[extracted]
+**Established**: 2014-10-01 (as Tokyo TY Financial Group, integration of Tokyo Tomin Bank + Yachiyo Bank) ^[extracted]
+**Current name transition**: 2018-05-01 (Tokyo TY FG → renamed Tokyo Kiraboshi FG) ^[extracted]
+**Head office**: Minami-Aoyama 3-10-43 , Minato-ku, Tokyo ^[extracted]
+**Base**: All of the Tokyo metropolitan area + parts of Kanagawa / Chiba ^[extracted]
 
-### Major subsidiaries / affiliates ^[extracted]
+### Major subsidiaries / affiliated companies ^[extracted]
 
 ```
-Tokyo Kiraboshi FG (listed holding company 7173)
-  ├── Kiraboshi Bank (100%) -- core regional bank (created by 2018-05  3 行-way merger)
-  │     ├── Kiraboshi Digital Bank brand -- digital strategy
+Tokyo Kiraboshi FG (holding company / listed 7173)
+  ├── Kiraboshi Bank (100%) ── core regional bank (created by the 2018-05 3 行 merger)
+  │     ├── Kiraboshi Digital Bank brand ── digital strategy
   │     └── UI Bank (smartphone-only banking for individuals, operated by Kiraboshi Bank) ★
-  ├── Kiraboshi Consulting -- consulting for SMEs
-  ├── Kiraboshi Capital -- PE / venture investment
-  ├── Kiraboshi Tech -- systems subsidiary
-  ├── Kiraboshi Securities -- retail securities (structure reorganized in the 2020 年s)
-  └── Kiraboshi Life Design Securities, etc. -- affluent-customer services
+  ├── Kiraboshi Consulting ── consulting for SMEs
+  ├── Kiraboshi Capital ── PE / venture investment
+  ├── Kiraboshi Tech ── systems subsidiary
+  ├── Kiraboshi Securities ── retail securities (structure reorganized in the 2020 年s)
+  └── Kiraboshi Life Design Securities, etc. ── for the wealthy
 ```
 
-### Key timeline (integration history including predecessors) ^[extracted]
+### Key chronology (integration history including predecessors) ^[extracted]
 
-| Year / month | Event |
+| Year/month | Event |
 |---|---|
-| **1924** | **Tokyo Shokusan Mujin established** (source of Yachiyo Bank) |
-| **1951** | **Yachiyo Mutual Bank reorganized** (mujin -> mutual bank) |
-| **1951** | **Tokyo Tomin Bank established** (SME-finance focus, Tokyo Metropolitan Government participated as investor) |
-| **1990** | **Yachiyo Bank converted to an ordinary bank** (mutual -> ordinary bank, joined Second Association of Regional Banks) |
-| **2003** | **ShinGinko Tokyo established** (headline policy bank of Shintaro Ishihara's metropolitan administration, intended to rescue SME finance) ★ |
-| 2008-2011  | ShinGinko Tokyo management deteriorated and unprofitable operations surfaced (large NPLs, additional public support became an issue) |
+| **1924** | **Tokyo Shokusan Mujin established** (the origin of Yachiyo Bank) |
+| **1951** | **Yachiyo Mutual Bank reorganized** (mujin → mutual bank) |
+| **1951** | **Tokyo Tomin Bank established** (specialized in SME finance, with Tokyo Metropolis participating as an investor) |
+| **1990** | **Yachiyo Bank converted to ordinary bank** (mutual → ordinary bank, joined the Second Association of Regional Banks) |
+| **2003** | **ShinGinko Tokyo established** (launched with fanfare by the Shintaro Ishihara administration, for the purpose of SME-finance relief) ★ |
+| 2008~2011 | ShinGinko Tokyo's management deteriorated / unprofitability issues erupted (large non-performing loans, additional public-support issues becoming a problem) |
 | **2014-10-01** | **Tokyo TY Financial Group established** (integration of Tokyo Tomin Bank + Yachiyo Bank) ★ |
-| **2016-04** | **Tokyo TY FG integrated ShinGinko Tokyo (absorbed through merger)** ★ |
-| **2018-05-01** | **Kiraboshi Bank launched** (3 行-way merger of Tokyo Tomin Bank + Yachiyo Bank + ShinGinko Tokyo) + **FG name changed to "Tokyo Kiraboshi FG"** ★ |
-| 2019 onward | Digital strategy strengthened -- "UI Bank" concept |
+| **2016-04** | **Tokyo TY FG integrated ShinGinko Tokyo (absorbed via merger)** ★ |
+| **2018-05-01** | **Kiraboshi Bank launched** (the 3 行 merger of Tokyo Tomin Bank + Yachiyo Bank + ShinGinko Tokyo) + the **FG name was also renamed "Tokyo Kiraboshi FG"** ★ |
+| 2019~ | Digital-strategy strengthening — the "UI Bank" concept |
 | **2022-01** | **UI Bank service launched** (smartphone-only banking for individuals operated by Kiraboshi Bank) ★ ^[extracted] |
-| 2023 onward | Strengthened digital / startup lending for SMEs |
-| 2024 onward | BOJ policy-rate normalization -> domestic interest-margin improvement bonus |
+| 2023~ | Strengthening of SME-oriented digital / startup-oriented lending |
+| 2024~ | BOJ policy-rate normalization → domestic interest-margin improvement bonus |
 
-### Integration background: history of the 3 行 merger
+### Integration background: the course of the 3 行 merger
 
-- **Tokyo Tomin Bank** (established 1951 ): postwar SME-finance-focused regional bank with Tokyo Metropolitan Government investment legacy
-- **Yachiyo Bank** (1924  mujin -> 1951  mutual bank -> 1990  ordinary bank): mutual-bank-to-ordinary-bank conversion, second regional bank
-- **ShinGinko Tokyo** (established 2003 ): symbolic policy bank of the Ishihara metropolitan administration -> unprofitable and management problems -> integrated in 2016-04  as disposal of a negative metropolitan-policy legacy
-- Integration method: holding-company approach (TY FG) in 2014-10  to integrate Tomin + Yachiyo -> absorbed ShinGinko Tokyo in 2016-04  -> fully merged 2018-05  3 行 into "Kiraboshi Bank," and unified the FG name as "Kiraboshi" ^[extracted]
+- **Tokyo Tomin Bank** (established 1951 ): a postwar SME-finance-specialized regional bank, a Tokyo Metropolis investment legacy
+- **Yachiyo Bank** (1924  mujin → 1951  mutual → 1990  ordinary bank): a mutual-to-ordinary-bank conversion cohort, a second-tier regional bank
+- **ShinGinko Tokyo** (established 2003 ): the Ishihara administration's symbolic policy bank → became a management problem due to unprofitability → integrated 2016-04  as the handling of the metropolitan government's negative legacy
+- Integration method: 2014-10  integrated Tomin + Yachiyo via a holding-company method (TY FG) → 2016-04  absorbed ShinGinko Tokyo → 2018-05  fully merged 3 行 as "Kiraboshi Bank," unifying the FG name to "Kiraboshi" as well ^[extracted]
 
-### Name origin
+### Origin of the name
 
-- **"TY" (former name)**: initials of Tokyo (**T**okyo) + Yachiyo (**Y**achiyo), a provisional name at the time of merger
+- **"TY" (former name)**: the initials of Tokyo (**T**okyo) + Yachiyo (**Y**achiyo), the provisional name at the time of the merger
 
-## 2. Business segment map
+## 2. Business-segment map
 
-| Segment | Main products | Features |
+| Segment | Flagship products | Features |
 |---|---|---|
-| SME finance | Business loans, syndication, private placement bonds | **Core business** -- traditional domain since former Tomin Bank |
-| Affluent customers | Private banking, inheritance, real estate | Many central Tokyo locations -- Minato, Chiyoda, Chuo |
-| Personal loans | Mortgages, card loans | Mainly Tokyo commuter households |
-| **Digital (UI Bank)** | **Smartphone-only banking** | **Started in 2022-01 ** -- acquiring Gen Z / young customers ★ |
-| Startup finance | Venture loans, CVC (Kiraboshi Capital) | Captures Tokyo startup ecosystem |
-| Real estate | Tokyo real estate lending, rental real estate | Strength from former Yachiyo Bank line |
+| SME finance | Business loans, syndicates, private placements | **Core business** — the traditional domain since the former Tomin Bank |
+| Wealthy | Private banking, inheritance, real estate | Many downtown locations — Minato, Chiyoda, Chuo |
+| Personal loans | Mortgages, card loans | Centered on Tokyo commuters |
+| **Digital (UI Bank)** | **Smartphone-only banking** | **Launched 2022-01 ** — acquiring Gen Z / younger demographics ★ |
+| Startup finance | Venture lending, CVC (Kiraboshi Capital) | Incorporating Tokyo's startup ecosystem |
+| Real estate | Tokyo real-estate lending, rental real estate | A strength of the former Yachiyo Bank lineage |
 | Securities | Kiraboshi Securities / Life Design Securities | Retail securities |
 
-### "Tokyo-specialized regional bank" model
+### The "Tokyo-specialized regional bank" model
 
-- **Narrows its franchise to Tokyo** -- a rare position among Japan's regional banks as an institution whose "main battlefield is Tokyo" ^[extracted]
-- A niche combining "agility versus megabanks + regional-bank local relationship network"
+- **Narrowing its base to the Tokyo metropolitan area** — a rare position among Japan's regional banks of treating "Tokyo Metropolis as the main battlefield" ^[extracted]
+- A niche fusing "the agility of a small player against the megabanks + the local network of a regional bank"
 
 ### Digital strategy
 
-- **UI Bank** (service launched 2022-01 ) ★: smartphone-only banking for individuals operated by Kiraboshi Bank; channel to acquire Gen Z / young customers ^[extracted]
-- "Kiraboshi Digital Bank" brand: digital branch for corporations
+- **UI Bank** (service launched 2022-01 ) ★: smartphone-only banking for individuals operated by Kiraboshi Bank, a channel for acquiring Gen Z / younger demographics ^[extracted]
+- "Kiraboshi Digital Bank" brand: a digital branch for corporates
 
-### Legacy handling of former ShinGinko Tokyo
+### Handling of the former ShinGinko Tokyo legacy
 
-- **The ShinGinko Tokyo integration (2016-04) was not simply a business integration; it was an assumption of Tokyo Metropolitan Government policy burden** ^[extracted]
+- **The integration of ShinGinko Tokyo (2016-04) was not a simple business integration but the assumption of Tokyo Metropolis's policy burden** ^[extracted]
 
 ### Partnership / acquisition strategy
 
-- **Startup collaboration**: CVC through Kiraboshi Capital + Tokyo VC network
+- **Startup collaboration**: CVC via Kiraboshi Capital + Tokyo's VC network
 
 ## 4. Regulation / policy
 
-- **Supervisor**: FSA + Kanto Local Finance Bureau
+- **Supervision**: FSA + Kanto Local Finance Bureau
 - **Holding-company regulation**: Banking Act Article 52 -17
-
-- **Recent policy issues**:
-  - From 2024: BOJ policy-rate normalization -> domestic interest-margin improvement (bonus for regional banks generally)
-  - From 2025: business succession / M&A support for SMEs -- government expectations for regional-bank roles
+- **Recent policy points**:
+  - 2024~ BOJ policy-rate normalization → domestic interest-margin improvement (a bonus for regional banks overall)
+  - 2025~ SME business succession / M&A support — the government's expectations of regional banks' role
 
 ## Related
 
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (mega 3 行, Tokyo retail competitors)
-- [[megabanks/ndfg]] (Chiba Bank line, comparison axis for metropolitan-area regional banks)
-- [[regional-banks/fukuoka-fg]] (iBank Marketing, advanced regional-bank digital example)
-- [[megabanks/resona-hd]] (metropolitan-area regional bank / Resona line comparison axis)
-- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]] (individual digital-bank competitors)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks 3 行, Tokyo retail competitors)
+- [[megabanks/ndfg]] (Chiba Bank lineage, a metropolitan-area regional-bank comparison axis)
+- [[regional-banks/fukuoka-fg]] (iBank marketing, an advanced regional-bank digital example)
+- [[megabanks/resona-hd]] (metropolitan-area regional bank / Resona-lineage comparison axis)
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]] (personal digital-bank competitors)
 
 ## Sources
 
-- **Wikipedia: Tokyo Kiraboshi Financial Group** (https://ja.wikipedia.org/wiki/東京きらぼしフィナンシャルグループ, extracted 2026-05-19)
-- **Wikipedia: Kiraboshi Bank** (https://ja.wikipedia.org/wiki/きらぼし銀行, extracted 2026-05-19)
-- **Wikipedia: Tokyo Tomin Bank / Yachiyo Bank / ShinGinko Tokyo** (respective entries, extracted 2026-05-19)
-- Tokyo Kiraboshi FG 2025-03  period earnings release / official IR
+- **Wikipedia: Tokyo Kiraboshi Financial Group** (https://ja.wikipedia.org/wiki/東京きらぼしフィナンシャルグループ, 2026-05-19 extraction)
+- **Wikipedia: Kiraboshi Bank** (https://ja.wikipedia.org/wiki/きらぼし銀行, 2026-05-19 extraction)
+- **Wikipedia: Tokyo Tomin Bank / Yachiyo Bank / ShinGinko Tokyo** (each entry, 2026-05-19 extraction)
+- Tokyo Kiraboshi FG 2025-03  results report / official IR
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (v1.0  Wikipedia public-information basis, 2026-05-19). Key dates (2014-10  TY FG launch, 2016-04  ShinGinko Tokyo integration, 2018-05  Kiraboshi Bank 3 行-way merger + FG rename, 2022-01  UI Bank launch) have been checked through public sources via Wikipedia. Specific financial metrics, shareholding ratios, and UI Bank user numbers require primary IR confirmation.
+> [!info] 検証状況
+> confidence: **likely** (based on v1.0  Wikipedia public information, 2026-05-19). Key dates (2014-10  TY FG founding, 2016-04  ShinGinko Tokyo integration, 2018-05  Kiraboshi Bank 3 行 merger + FG renaming, 2022-01  UI Bank launch) confirmed via Wikipedia through public sources. Specific financial metrics / shareholding ratios / UI Bank user counts require confirmation against primary IR materials.

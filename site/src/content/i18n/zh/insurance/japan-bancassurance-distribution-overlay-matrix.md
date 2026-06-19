@@ -1,93 +1,95 @@
 ---
 source: insurance/japan-bancassurance-distribution-overlay-matrix
-source_hash: 42ac18ff3f5086d1
+source_hash: 287e6701185ff57f
 lang: zh
 status: machine
 fidelity: ok
-title: "日本银行保险分销叠加矩阵"
-translated_at: 2026-05-31T07:28:06.149Z
+title: "Japan bancassurance distribution overlay matrix"
+translated_at: 2026-06-19T06:09:18.099Z
 ---
-# 日本银行保险分销叠加矩阵
+
+
+# Japan bancassurance distribution overlay matrix
 
 ## TL;DR
 
-日本的银行保险（銀行窓販 / 窓販）在 2001  至 2007  期间分三阶段放开，如今已成为外币年金、外币趸缴储蓄、附医疗附加险的外币平准保费终身寿险以及日元趸缴储蓄的主导渠道。该叠加矩阵映射出各大银行渠道销售哪些寿险公司的产品，以及以何种经济结构销售。大型银行渠道——[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]]、[[regional-banks/japan-post-bank|Japan Post Bank]]——连同主要地银货架，共同承载来自 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]（第一生命 HD 的银行保险子公司）、[[life-insurers/ms-primary-life|MS Primary Life]]（MS&AD 的银行保险子公司）、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/sbi-life|SBI Life]]（住信 SBI 网络银行联动）、[[life-insurers/aflac-japan|Aflac]]（邮储癌症保险合作）的产品投放。矩阵中真正重要的轴包括：（1）排他式还是货架式——银行渠道是在卖一家保险公司的产品还是精选的多家公司货架；（2）趸缴与平准缴产品的拆分——银行保险高度偏向趸缴储蓄型产品；（3）外币年金主导——美元 / 澳元计价产品承载了大部分银行保险新业务价值；（4）佣金结构——趸缴产品的典型前置佣金比率显著高于平准保费产品，这一直是 FSA 长期关注的行为议题；（5）近期重新绑定变化，包括 SBI 收购后 [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] / [[life-insurers/sbi-life|SBI Life]] 分组；以及（6）FSA 行为规则压力——高龄客户适合性、外币产品说明、以及佣金披露进展。银行保险与 [[insurance/life-insurance-channel-mix|life insurance channel mix]] 所述更广的渠道架构，以及与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]] 所述外资竞争集合相互作用。
+日本的银行保险（银行窗口销售 / 窗口销售）在 2001  年至 2007  年间分三阶段自由化，如今已成为外币年金、外币一次性缴费储蓄型、附医疗特约的平准缴费外币终身寿险，以及日元一次性缴费储蓄型的主导渠道。本叠加矩阵映射各主要银行渠道经由哪家人寿保险公司、以何种经济条件进行销售。超大型银行渠道 — [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]]、[[regional-banks/japan-post-bank|Japan Post Bank]] — 与主要地方银行货架相结合，承载来自 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]（第一生命 HD 的银行保险系列公司）、[[life-insurers/ms-primary-life|MS Primary Life]]（MS&AD 的银行保险系列公司）、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/sbi-life|SBI Life]]（住信 SBI 网络银行联动）及 [[life-insurers/aflac-japan|Aflac]]（Yucho 银行癌症保险合作）的产品配置。重要的矩阵轴：（1）专属对货架 — 银行渠道是销售单一保险公司还是数家精选构成的货架；（2）一次性缴费对平准缴费的产品划分 — 银行保险严重偏向一次性缴费储蓄型；（3）外币年金的主导 — USD／AUD 计价产品承载银行保险新业务价值的大部分；（4）佣金结构 — 一次性缴费产品的典型前置佣金比率显著高于平准缴费产品，并一直是金融厅长期的行为监管议题；（5）包括 SBI 收购后 [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] / [[life-insurers/sbi-life|SBI Life]] 分组在内的近期再合作变更；以及（6）金融厅行为规则压力 — 对老年客户的适合性、外币产品说明，以及佣金披露的进展。银行保险与 [[insurance/life-insurance-channel-mix|life insurance channel mix]] 中阐述的更广泛渠道架构相互作用，并与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]] 的外资竞争对手集相互作用。
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the bank-side companion to [[insurance/bancassurance-economics-japan|bancassurance economics Japan]]. Read it together with [[insurance/life-insurance-channel-mix|life insurance channel mix]], [[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]], [[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]], [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]], [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]], [[insurance/japan-medical-insurance-rider-product-matrix|the medical insurance rider product matrix]], [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]], [[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]], [[insurance/internet-life-insurance-business-model|the internet life insurance business model]], and [[insurance/economic-value-based-solvency|economic-value-based solvency]] for the regulatory-capital context that affects how insurers price single-premium savings.
+本页位于 [[insurance/INDEX|insurance INDEX]] 之下，是 [[insurance/bancassurance-economics-japan|bancassurance economics Japan]] 的银行侧配套。请将其与 [[insurance/life-insurance-channel-mix|life insurance channel mix]]、[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]]、[[insurance/japan-medical-insurance-rider-product-matrix|the medical insurance rider product matrix]]、[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]、[[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/economic-value-based-solvency|economic-value-based solvency]] 一同阅读，以了解影响保险公司如何为一次性缴费储蓄型定价的监管资本背景。
 
-The clean bank anchors for this overlay include [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|MUFG Bank]], [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/resona-hd|Resona HD]] / [[megabanks/resona-bank|Resona Bank]], [[megabanks/saitama-resona-bank|Saitama Resona Bank]], [[regional-banks/japan-post-bank|Japan Post Bank]] / [[megabanks/nippon-post|Japan Post group]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[regional-banks/sony-bank|Sony Bank]], and the [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]] / [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] / [[regional-banks/kita-nippon-bank|Kita-Nippon Bank]] / [[regional-banks/minami-nippon-bank|Minami-Nippon Bank]] regional examples. The insurer anchors include [[life-insurers/manulife-japan|Manulife Japan]], [[life-insurers/prudential-japan|Prudential Japan]], [[life-insurers/axa-japan|AXA Japan]], [[life-insurers/sumitomo-life|Sumitomo Life]], [[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]], [[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]], [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]], [[life-insurers/sony-life|Sony Life]], [[life-insurers/sbi-life|SBI Life]], [[life-insurers/ms-primary-life|MS Primary Life]], [[life-insurers/aflac-japan|Aflac Japan]], and [[life-insurers/kampo-life|Kampo Life]].
+本叠加的清晰银行锚点包括 [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|MUFG Bank]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-hd|Resona HD]] / [[megabanks/resona-bank|Resona Bank]]、[[megabanks/saitama-resona-bank|Saitama Resona Bank]]、[[regional-banks/japan-post-bank|Japan Post Bank]] / [[megabanks/nippon-post|Japan Post group]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[regional-banks/sony-bank|Sony Bank]]，以及 [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]] / [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] / [[regional-banks/kita-nippon-bank|Kita-Nippon Bank]] / [[regional-banks/minami-nippon-bank|Minami-Nippon Bank]] 等地方银行示例。保险公司锚点包括 [[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]、[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/sbi-life|SBI Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/aflac-japan|Aflac Japan]]、[[life-insurers/kampo-life|Kampo Life]]。
 
-## 为什么这个矩阵重要
+## Why this matrix matters
 
-把日本银行保险看成单一渠道，会掩盖底层差异。其下存在三个结构性问题：
+将日本银行保险作为单一渠道来解读会掩盖底层的差异。其下存在三个结构性问题：
 
-1. **银行货架是排他式还是精选式？** 有些银保关系在某些产品线上几乎等同于单一承保方（例如历史上的日本邮储 / Aflac 癌症保险安排），而另一些则是为实现产品多样化而构建的多承保方货架。两者的经济激励结构不同。  
-2. **实际被摆上去的产品结构是什么？** 按新业务价值计，趸缴外币年金是主导型银行保险产品；日元趸缴储蓄与附医疗附加险的外币平准保费终身险属于第二梯队。平准保费定期保障型产品很少通过银行保险渠道销售。  
-3. **佣金结构与行为规则负担是什么？** 趸缴产品的前置佣金比率明显高于平准保费产品。FSA 多年来持续对高龄客户适合性与外币产品说明施加行为监管压力。佣金披露方向也在逐步提高透明度。  
+1. **银行货架是专属还是精选？** 一些银行 - 保险公司关系对选定的产品线实际上是单一承保人（例如历史上的 Yucho 银行 / Aflac 癌症保险安排），而另一些则是为产品多元化而精选的多承保人货架。经济激励结构不同。
+2. **实际配置的产品组合是什么？** 一次性缴费外币年金按新业务价值是主导的银行保险产品；日元一次性缴费储蓄型与附医疗特约的平准缴费外币终身寿险居次。平准缴费的保障型定期寿险很少作为银行保险产品。
+3. **佣金结构与行为规则负担是什么？** 一次性缴费产品的前置佣金比率显著高于平准缴费产品。金融厅就对老年客户的适合性及外币产品说明施加了多年的行为规则压力。佣金披露的方向已逐渐转向更高的透明度。
 
-下方矩阵将这些轴记录为“路由关系”，而不是某一时点的金额数字。具体佣金比率、货架构成与绑定深度具有日期敏感性，应以各银行已发布分销披露、各保险公司 IR 资料、FSA 行为监管刊物，以及生保协会与全国银行协会行业数据为准。
+下方矩阵将这些轴记录为路由，而非特定时点的美元数值。具体的佣金比率、货架构成及合作深度均为时点特定，应从各银行公布的分销披露、各保险公司的 IR 资料、金融厅的行为规则公布物，以及生保和全国银行协会的行业数据中取得出处。
 
-## MUFG 渠道 —— 多货架 + 部分精选排他
+## MUFG channel — multi-shelf with selected exclusives
 
-[[megabanks/mufg-bank|MUFG Bank]] 运营的是多承保方银行保险货架，覆盖外币年金、日元趸缴储蓄、附医疗附加险的外币终身险、平准保费储蓄型产品，以及部分医疗 / 癌症产品。该货架通常包括 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] 等，具体货架会随各财政年度变化。MUFG 集团资产管理载体 [[asset-managers/mufg-asset-management|MUFG Asset Management]] 是与银行保险货架并行的独立基金分销渠道。信托银行 [[trust-banks/sumitomo-mitsui-trust|trust-bank]]（三菱 UFJ 信托体系内）则有其自身的私人银行分销。
+[[megabanks/mufg-bank|MUFG Bank]] 运营一个跨外币年金、日元一次性缴费储蓄型、附医疗特约外币终身寿险、平准缴费储蓄型及选定的医疗／癌症产品的多承保人银行保险货架。货架通常包括 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] 及其他，确切货架每财年都在演变。MUFG 集团的资产管理载体 [[asset-managers/mufg-asset-management|MUFG Asset Management]] 是与银行保险货架并行的投资信托独立分销渠道。信托银行 [[trust-banks/sumitomo-mitsui-trust|trust-bank]]（经由三菱 UFJ 信托跨集团，另行）拥有自己的私人银行分销。
 
-## SMBC 渠道 —— 大型外币年金货架 + SMBC Trust Bank 私人银行
+## SMBC channel — large foreign-currency annuity shelf with SMBC Trust Bank private banking
 
-[[megabanks/sumitomo-mitsui-banking-corp|SMBC]] 运营大型银行保险货架，包括 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]（集团关联方）、[[life-insurers/axa-japan|AXA Japan]] 等。[[trust-banks/smbc-trust-bank|SMBC Trust Bank]] 则运行以外币产品为重点的高净值银行保险货架。由于住友生命与 SMBC 的集团关联历史，该集团的寿险关联路线更宽，见 [[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]。
+[[megabanks/sumitomo-mitsui-banking-corp|SMBC]] 运营一个与 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]（集团系列公司）、[[life-insurers/axa-japan|AXA Japan]] 及其他构成的大型银行保险货架。[[trust-banks/smbc-trust-bank|SMBC Trust Bank]] 运营一个以外币产品为重点的高净值银行保险货架。该集团的人寿系列路径更为广泛，因为住友生命与 SMBC 有集团系列的历史 — 参见 [[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]。
 
-## Mizuho 渠道 —— 多货架 + Asset Management One 重叠
+## Mizuho channel — multi-shelf with Asset Management One overlap
 
-[[megabanks/mizuho-bank|Mizuho Bank]] 运营多承保方货架，包括 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/axa-japan|AXA Japan]] 等。[[trust-banks/mizuho-trust-bank|Mizuho Trust]] 私人银行部门面向高净值客户销售银行保险货架。与 [[asset-managers/asset-management-one|Asset Management One]]（第一生命 HD / 瑞穗 FG 合资）之间的资管联动，与银行保险货架并行但彼此区分。
+[[megabanks/mizuho-bank|Mizuho Bank]] 运营一个包括 [[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/axa-japan|AXA Japan]] 及其他的多承保人货架。[[trust-banks/mizuho-trust-bank|Mizuho Trust]] 私人银行部门拥有一个高净值银行保险货架。向 [[asset-managers/asset-management-one|Asset Management One]]（第一生命 HD / 瑞穗 FG 合资）的资产管理联动与银行保险货架并行但有别。
 
-## Resona / Saitama Resona 渠道 —— 零售银行保险专长
+## Resona / Saitama Resona channel — retail-bancassurance specialty
 
-[[megabanks/resona-bank|Resona Bank]] 与 [[megabanks/saitama-resona-bank|Saitama Resona Bank]] 运营以个人客户为核心的零售银行保险货架。货架包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/axa-japan|AXA Japan]] 等。Resona 对零售的聚焦，使银行保险长期成为其手续费收入的重要组成部分。
+[[megabanks/resona-bank|Resona Bank]] 与 [[megabanks/saitama-resona-bank|Saitama Resona Bank]] 运营一个具有强烈个人客户聚焦的零售银行保险货架。货架包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/axa-japan|AXA Japan]] 及其他。Resona 的零售聚焦在历史上使银行保险成为一项有意义的手续费收入贡献。
 
-## Japan Post Bank 渠道 —— Kampo Life + Aflac 癌症险 + 精选外币货架
+## Japan Post Bank channel — Kampo Life + Aflac cancer + curated foreign-currency shelf
 
-[[regional-banks/japan-post-bank|Japan Post Bank]] 以网点数量计是日本最大的单一银行保险渠道。其结构性产品投放包括：
+[[regional-banks/japan-post-bank|Japan Post Bank]] 按支店数是日本最大的单一银行保险渠道。结构性的产品配置为：
 
-- **Kampo Life**：通过邮局网络销售的历史邮政系寿险产品；其产品审批受到特别法约束——见 [[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]。
-- **Aflac 癌症保险**：Aflac 癌症险通过 Japan Post Bank / 日本邮政（邮便局）柜台销售的长期结构性合作。
-- **外币年金与银行保险货架**：由 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/manulife-japan|Manulife]] 等组成的精选货架。
+- **Kampo Life**：经由邮局网络销售的与邮政相关的历史性人寿产品；受关于产品批准的特别法约束 — 参见 [[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]。
+- **Aflac 癌症保险**：长期的结构性合作，Aflac 癌症产品经由 Yucho 银行 / 日本邮政（邮局）柜台分销。
+- **外币年金与银行保险货架**：与 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/manulife-japan|Manulife]] 及其他构成的精选货架。
 
-这一邮政网络分销约束，在各大渠道中具有独特性，因为它受邮政民营化后法定框架所约束。
+邮政网络分销约束在主要渠道中独一无二，因为存在邮政民营化时代的法定框架。
 
-## SBI Shinsei Bank 渠道 —— SBI Life 整合
+## SBI Shinsei Bank channel — SBI Life integration
 
-[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]（[[megabanks/sbi-hd|SBI HD]] 后完成对旧新生银行的整合）已将 [[life-insurers/sbi-life|SBI Life]] 纳入更广泛的 SBI 集团银行保险路径，同时保留自 Shinsei 继承的精选多承保方货架。SBI 生态还包括 [[securities-firms/sbi-securities|SBI Securities]] 和 [[non-life-insurers/sbi-insurance-group|SBI Insurance Group]] 用于跨条线分销。参见 [[insurance/internet-life-insurance-business-model|the internet life model]] 了解 SBI Life 的直销线上渠道。
+[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]（旧新生银行 [[megabanks/sbi-hd|SBI HD]] 整合后）已将 [[life-insurers/sbi-life|SBI Life]] 整合进更广泛的 SBI 集团银行保险路径，与从新生继承的精选多承保人货架并列。SBI 生态还包括用于跨线分销的 [[securities-firms/sbi-securities|SBI Securities]] 与 [[non-life-insurers/sbi-insurance-group|SBI Insurance Group]]。SBI Life 的直营线上渠道参见 [[insurance/internet-life-insurance-business-model|the internet life model]]。
 
-## Sony Bank 及其他数字银行 —— 银行保险叠加层
+## Sony Bank and other digital banks — bancassurance overlay
 
-[[regional-banks/sony-bank|Sony Bank]] 运营以外币产品为重点的数字银行银行保险货架。[[megabanks/sony-fg|Sony FG]] 体系中还包括 [[life-insurers/sony-life|Sony Life]]（lifeplanner 渠道）与 [[non-life-insurers/sony-insurance|Sony Insurance]]（线上财险）。与大型银行网点相比，数字银行整体在银行保险中的份额较小，但对高净值 / 更年轻的数字化客户群仍有意义。
+[[regional-banks/sony-bank|Sony Bank]] 运营一个以外币产品为重点的数字银行保险货架。[[megabanks/sony-fg|Sony FG]] 伞下还包括 [[life-insurers/sony-life|Sony Life]]（lifeplanner 渠道）与 [[non-life-insurers/sony-insurance|Sony Insurance]]（线上非寿险）。相较于超大型银行网络，数字银行在更广泛意义上对银行保险而言是较小的渠道，但对高净值／较年轻数字客户细分而言很重要。
 
-## 地域银行货架 —— 承保方覆盖广
+## Regional bank shelves — wide carrier coverage
 
-主要地银运营宽窄不一的银行保险货架。典型货架包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 等。Wiki 锚点中的例子包括 [[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]] 旗下的 [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]]，以及较小的 [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] / [[regional-banks/kita-nippon-bank|Kita-Nippon Bank]] / [[regional-banks/minami-nippon-bank|Minami-Nippon Bank]] 示例；但各地银实际承保方货架会因关系不同而变化。
+主要地方银行运营宽度各异的银行保险货架。典型货架包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 及其他。维基锚点集中的示例包括 [[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]] 之下的 [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]]，以及较小的 [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] / [[regional-banks/kita-nippon-bank|Kita-Nippon Bank]] / [[regional-banks/minami-nippon-bank|Minami-Nippon Bank]] 示例；各地方银行的实际承保人货架因关系而异。
 
-## 大型比较矩阵表
+## Big comparison matrix table
 
-下方矩阵以“概念性产品投放”方式，映射银行渠道 × 保险承保方。每家货架的具体承保方名单与深度具有日期敏感性；下列单元格意在呈现概念结构，而非作为权威的货架披露。
+下方矩阵就驱动银行保险新业务价值的概念性产品配置，映射银行渠道 × 保险公司承保人。各货架上具体的承保人名称与货架深度均为时点特定；下方单元格是对概念性组合的示例，而非确定性的货架披露。
 
-### 银行渠道身份与银行保险角色
+### Bank channel identity and bancassurance role
 
 | Bank channel | Group parent | Branch reach | Bancassurance role tilt |
 |---|---|---|---|
-| [[megabanks/mufg-bank|MUFG Bank]] | [[megabanks/mufg|MUFG]] | 资产规模最大的超级银行 | 多承保方货架；信托银行有私人银行层 |
-| [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] | [[megabanks/sumitomo-mitsui-banking-corp|SMBC group]] | 超级银行 | 多承保方货架，并有住友生命集团关联路线 |
-| [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] | SMBC | 私人银行渠道 | 高净值银行保险专长 |
-| [[megabanks/mizuho-bank|Mizuho Bank]] | [[megabanks/mizuho-fg|Mizuho FG]] | 超级银行 | 多承保方货架 |
-| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | Mizuho FG | 私人银行渠道 | 高净值银行保险专长 |
-| [[megabanks/resona-bank|Resona Bank]] | [[megabanks/resona-hd|Resona HD]] | 主要零售银行 | 零售银行保险专长 |
-| [[megabanks/saitama-resona-bank|Saitama Resona Bank]] | Resona HD | 区域 / 都市圈零售银行 | 零售银行保险专长 |
-| [[regional-banks/japan-post-bank|Japan Post Bank]] | [[megabanks/nippon-post|Japan Post group]] | 日本最大网点网络（邮政网络） | 多承保方货架 + Kampo + Aflac 结构性合作 |
-| [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] | [[megabanks/sbi-hd|SBI HD]] | 主要零售银行 | 多承保方货架 + SBI Life 整合 |
-| [[regional-banks/sony-bank|Sony Bank]] | [[megabanks/sony-fg|Sony FG]] | 数字银行 | 多承保方货架，偏重外币 |
-| 主要地银 | Various FG | 按区域覆盖 | 多承保方货架 |
+| [[megabanks/mufg-bank|MUFG Bank]] | [[megabanks/mufg|MUFG]] | Largest megabank by assets | Multi-carrier shelf; private-banking layer at trust-bank |
+| [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] | [[megabanks/sumitomo-mitsui-banking-corp|SMBC group]] | Megabank | Multi-carrier shelf with Sumitomo Life group affiliation route |
+| [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] | SMBC | Private-banking channel | High-net-worth bancassurance specialty |
+| [[megabanks/mizuho-bank|Mizuho Bank]] | [[megabanks/mizuho-fg|Mizuho FG]] | Megabank | Multi-carrier shelf |
+| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | Mizuho FG | Private-banking channel | High-net-worth bancassurance specialty |
+| [[megabanks/resona-bank|Resona Bank]] | [[megabanks/resona-hd|Resona HD]] | Major retail bank | Retail-bancassurance specialty |
+| [[megabanks/saitama-resona-bank|Saitama Resona Bank]] | Resona HD | Regional / metropolitan-area retail bank | Retail-bancassurance specialty |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] | [[megabanks/nippon-post|Japan Post group]] | Largest branch network in Japan (postal network) | Multi-carrier shelf + Kampo + Aflac structural tie-up |
+| [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] | [[megabanks/sbi-hd|SBI HD]] | Major retail bank | Multi-carrier shelf + SBI Life integration |
+| [[regional-banks/sony-bank|Sony Bank]] | [[megabanks/sony-fg|Sony FG]] | Digital bank | Multi-carrier shelf with foreign-currency tilt |
+| Major regional banks | Various FG | Region-specific reach | Multi-carrier shelf |
 
-### 保险承保方 × 银行渠道矩阵（概念性）
+### Insurer carrier × bank channel matrix (conceptual)
 
 | Insurer | MUFG Bank | SMBC | SMBC Trust | Mizuho Bank | Mizuho Trust | Resona / Saitama Resona | Japan Post Bank | SBI Shinsei Bank | Sony Bank | Regional bank shelf |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -104,159 +106,159 @@ The clean bank anchors for this overlay include [[megabanks/mufg|MUFG]] / [[mega
 | [[life-insurers/aflac-japan|Aflac Japan]] (cancer-specialty) | Selective | Selective | Selective | Selective | Selective | Selective | Yes (structural tie-up) | Selective | Selective | Selective |
 | [[life-insurers/kampo-life|Kampo Life]] | n/a | n/a | n/a | n/a | n/a | n/a | Yes (Japan Post group route) | n/a | n/a | n/a |
 
-注：“Yes” 表示该承保方在公开报道的某一时点出现在该银行渠道的银行保险货架上；“Selective” 表示有限或特定产品投放；“n/a” 表示在当前结构下不存在。具体货架构成会随财政年度与产品周期变化。
+注："Yes" 表示承保人在某一时点公开报告的产品配置中出现在该银行渠道的银行保险货架上；"Selective" 表示有限或产品特定的配置；"n/a" 表示在当前结构下不存在。具体货架构成随各财年及产品周期而变化。
 
-### 趸缴与平准缴产品拆分
+### Single-premium vs level-premium product split
 
 | Product category | Bancassurance presence | Notes |
 |---|---|---|
-| 外币趸缴年金（USD / AUD） | 按新业务价值计最主导的银行保险产品 | 佣金最高，也是 FSA 行为监管最关注的产品 |
-| 外币趸缴终身寿险 | 主要银行保险产品 | 常附带医疗附加险 |
-| 日元趸缴储蓄（定额終身 / 一時払終身） | 主要银行保险产品 | 需求对利率环境敏感 |
-| 附医疗附加险的外币平准保费终身寿险 | 增长中的银行保险产品 | 以 Manulife / Prudential / 同类公司为代表 |
-| 日元平准保费储蓄 / 年金 | 中等强度银行保险产品 | 份额低于趸缴产品 |
-| 平准保费定期保障 | 银行保险中占比有限 | 仍以专属渠道与代理人为主 |
-| 医疗 / 癌症专科 | 有选择性的银行保险产品 | Japan Post Bank / Aflac 的结构性合作是最大单点投放 |
-| 变额年金（变额回报型储蓄） | 历史上的银行保险产品；FSA 主导产品重设计后已减少 | 基本被外币年金所替代 |
+| Foreign-currency single-premium annuity (USD / AUD) | Dominant bancassurance product by new business value | Largest commission and the central FSA conduct-rule focus |
+| Foreign-currency single-premium whole-life | Major bancassurance product | Often bundled with medical rider |
+| Yen single-premium savings (定額終身 / 一時払終身) | Major bancassurance product | Demand sensitive to rate environment |
+| Foreign-currency level-premium whole-life with medical rider | Growing bancassurance product | Anchored by Manulife / Prudential / similar |
+| Yen level-premium savings / annuity | Moderate bancassurance product | Smaller share than single-premium |
+| Level-premium term protection | Limited bancassurance product | Tied-channel and agency dominant |
+| Medical / cancer specialty | Selective bancassurance product | Japan Post Bank / Aflac structural tie-up is the largest single placement |
+| Variable annuity (variable-return savings) | Historic bancassurance product; reduced after FSA-led product redesign | Replaced largely by foreign-currency annuity |
 
-### 渠道排他性与货架精选
+### Channel exclusivity and shelf curation
 
 | Bank channel | Exclusive / shelf tilt | Notes |
 |---|---|---|
-| MUFG Bank | 精选式多承保方货架 | 集团资管渠道并行 |
-| SMBC | 精选式多承保方货架 | 住友生命集团关联路线 |
-| Mizuho Bank | 精选式多承保方货架 | Asset Management One 并行 |
-| Resona / Saitama Resona | 精选式多承保方货架 | 零售导向 |
-| Japan Post Bank | 精选式多承保方货架 + Kampo 集团路线 + Aflac 结构性癌症合作 | 特别法 / 邮政民营化时代约束 |
-| SBI Shinsei Bank | 精选式多承保方货架 + SBI Life 集团整合 | SBI HD 收购后的再调整 |
-| Sony Bank | 精选式多承保方货架 | 集团 Sony Life lifeplanner 单独存在 |
-| 主要地银 | 精选式多承保方货架 | 承保方集合因关系不同而异 |
+| MUFG Bank | Curated multi-carrier shelf | Group asset-management vehicle parallel |
+| SMBC | Curated multi-carrier shelf | Sumitomo Life group affiliation route |
+| Mizuho Bank | Curated multi-carrier shelf | Asset Management One parallel |
+| Resona / Saitama Resona | Curated multi-carrier shelf | Retail focus |
+| Japan Post Bank | Curated multi-carrier shelf + Kampo group route + Aflac structural cancer tie-up | Special-law / post-privatization-era constraints |
+| SBI Shinsei Bank | Curated multi-carrier shelf + SBI Life group integration | Post-SBI HD acquisition realignment |
+| Sony Bank | Curated multi-carrier shelf | Group Sony Life lifeplanner separately |
+| Major regional banks | Curated multi-carrier shelf | Carrier set varies by relationship |
 
-### 佣金结构与行为规则（概念性）
+### Commission structure and conduct rules (conceptual)
 
 | Axis | Single-premium foreign-currency annuity | Level-premium foreign-currency whole-life | Yen single-premium savings | Level-premium yen savings | Medical / cancer |
 |---|---|---|---|---|---|
-| 典型佣金倾向 | 更高的前置佣金 | 前置佣金与持续佣金混合 | 中等前置佣金 | 较低前置佣金 | 较低前置佣金 |
-| 适合性规则重点 | 高龄客户 + 外币风险 | 高龄客户 + 外币风险 + 医疗附加险说明 | 利率 / 市场时点适合性 | 标准适合性 | 标准适合性 |
-| FSA 行为监管关注度 | 高（持续多年） | 上升中 | 中等 | 标准 | 标准 |
-| 佣金披露方向 | 朝更高透明度推进 | 同样 | 同样 | 同样 | 同样 |
-| 产品重设计历史 | 变额年金 → 外币年金迁移 | 外币终身险扩张 | 周期性重设计 | 稳定 | 稳定 |
+| Typical commission tilt | Higher front-load | Mixed front-load and ongoing | Mid-range front-load | Lower front-load | Lower front-load |
+| Suitability rule focus | Elderly customer + foreign-currency risk | Elderly customer + foreign-currency risk + medical rider explanation | Rate / market timing suitability | Standard suitability | Standard suitability |
+| FSA conduct-rule attention | High (multi-year) | Increasing | Moderate | Standard | Standard |
+| Commission-disclosure direction | Moving toward more transparency | Same | Same | Same | Same |
+| Product redesign history | Variable annuity → foreign-currency annuity shift | Foreign-currency whole-life expansion | Periodic redesigns | Stable | Stable |
 
-### 重新绑定历史与结构变化
+### Re-tie-up history and structural changes
 
 | Bank channel | Selected structural change |
 |---|---|
-| Japan Post Bank / Aflac | 长期癌症保险分销合作；资本与运营协同随时间演化 |
-| Japan Post Bank / Kampo | 日本邮政集团内部路线，形成于邮政民营化之后 |
-| SBI Shinsei Bank / SBI Life | 2021–2023  SBI HD 整合旧新生银行后，SBI Life 更贴近该行银行保险路径 |
-| MUFG / SMBC / Mizuho | 货架周期性再平衡；外币年金仍是各周期中的主导产品族 |
-| Resona / Saitama Resona | 零售银行保险专长持续，并定期复核货架 |
-| Mizuho / Asset Management One | 第一生命 HD / 瑞穗 FG 的资管合资，与瑞穗银行保险货架并行但分离 |
-| Sony Bank | 通往 Sony Life lifeplanner 的集团路线与银行保险货架并行 |
+| Japan Post Bank / Aflac | Long-running cancer-insurance distribution tie-up; capital and operational alignment evolved over time |
+| Japan Post Bank / Kampo | Group-internal route under Japan Post group post-privatization |
+| SBI Shinsei Bank / SBI Life | Post-2021–2023 SBI HD consolidation of legacy Shinsei Bank brought SBI Life closer into the bank's bancassurance route |
+| MUFG / SMBC / Mizuho | Periodic shelf rebalancing; foreign-currency annuity remained the dominant product family across cycles |
+| Resona / Saitama Resona | Retail-bancassurance specialisation continued with periodic shelf review |
+| Mizuho / Asset Management One | Dai-ichi Life HD / Mizuho FG joint venture in asset management; parallel to but distinct from the Mizuho bancassurance shelf |
+| Sony Bank | Group route to Sony Life lifeplanner parallel to bancassurance shelf |
 
-### 银行侧手续费收入贡献（概念性）
+### Bank-side fee-income contribution (conceptual)
 
 | Bank channel | Bancassurance fee-income role |
 |---|---|
-| MUFG Bank | 零售手续费收入的重要贡献项；与资管及其他手续费业务再平衡 |
-| SMBC | 重要贡献项；与资管及证券交叉销售再平衡 |
-| Mizuho Bank | 重要贡献项；与资管及证券交叉销售再平衡 |
-| Resona / Saitama Resona | 零售手续费收入的重要组成 |
-| Japan Post Bank | 重要贡献项；由 Kampo 路线 + Aflac 结构合作 + 外币货架共同构成 |
-| SBI Shinsei Bank | 随 SBI Life 整合而增长中的贡献项 |
-| Sony Bank | 选择性贡献项，偏重外币 |
-| 主要地银 | 在许多地银中是重要的零售手续费来源 |
+| MUFG Bank | Material contributor to retail fee income; rebalanced against AM and other fee lines |
+| SMBC | Material contributor; rebalanced against AM and securities cross-sell |
+| Mizuho Bank | Material contributor; rebalanced against AM and securities cross-sell |
+| Resona / Saitama Resona | Significant contributor to retail fee income |
+| Japan Post Bank | Major contributor; Kampo route plus Aflac structural tie-up plus foreign-currency shelf |
+| SBI Shinsei Bank | Growing contributor with SBI Life integration |
+| Sony Bank | Selective contributor with foreign-currency emphasis |
+| Major regional banks | Significant retail fee-income contributor at many regionals |
 
-### 保险公司侧新业务价值（NBV）渠道结构
+### Insurer-side new business value (NBV) channel mix
 
 | Insurer | Bancassurance NBV share (conceptual) | Notes |
 |---|---|---|
-| Manulife Japan | 显著 —— 银行保险是主要渠道 | 以附医疗附加险的美元终身险为锚 |
-| Prudential Japan | 银行保险 + lifeplanner 混合 | 银行保险次于 lifeplanner |
-| AXA Japan | 含银行保险在内的多渠道混合 | 银行保险占比较大 |
-| Dai-ichi Frontier Life | 按设计，银行保险是主要渠道 | 第一生命 HD 专门的银行保险子公司 |
-| MS Primary Life | 按设计，银行保险是主要渠道 | MS&AD 专门的银行保险子公司 |
-| Sumitomo Life | 专属销售队伍 + 银行保险 + 代理混合 | 银行保险补充专属销售队伍 |
-| Tokio Marine & Nichido Life | 代理 + 银行保险混合 | 银行保险居次 |
-| Mitsui Sumitomo Aioi Life | 代理 + 银行保险混合 | 银行保险居次 |
-| Sony Life | lifeplanner 主导 | 银行保险有限 |
-| SBI Life | 线上 + 集团银行保险 | 通过 SBI Shinsei Bank 路线增长中 |
-| Aflac Japan | 代理 + 企业 + Japan Post Bank 合作 | 经由 Japan Post Bank 癌症险渠道，银行保险占比有意义 |
-| Kampo Life | Japan Post Bank / Japan Post 网络 | 集团内部渠道 |
+| Manulife Japan | Significant — bancassurance is a primary channel | USD whole-life with medical rider anchor |
+| Prudential Japan | Bancassurance + lifeplanner mix | Bancassurance is secondary to lifeplanner |
+| AXA Japan | Multi-channel mix including bancassurance | Bancassurance is significant |
+| Dai-ichi Frontier Life | Bancassurance is the primary channel by design | Dedicated bancassurance affiliate of Dai-ichi HD |
+| MS Primary Life | Bancassurance is the primary channel by design | Dedicated bancassurance affiliate of MS&AD |
+| Sumitomo Life | Tied + bancassurance + agency mix | Bancassurance complements tied sales force |
+| Tokio Marine & Nichido Life | Agency + bancassurance mix | Bancassurance is secondary |
+| Mitsui Sumitomo Aioi Life | Agency + bancassurance mix | Bancassurance is secondary |
+| Sony Life | Lifeplanner-dominant | Bancassurance is limited |
+| SBI Life | Online + group bancassurance | Bancassurance is growing via SBI Shinsei Bank route |
+| Aflac Japan | Agency + corporate + Japan Post Bank tie-up | Bancassurance is a meaningful share via Japan Post Bank cancer route |
+| Kampo Life | Japan Post Bank / Japan Post network | Group-internal distribution |
 
-### FSA 行为规则叠加层
+### FSA conduct-rule overlay
 
 | Rule area | Application | Notes |
 |---|---|---|
-| 高龄客户适合性 | 所有银行保险销售 | FSA 多年指导演进；要求产品说明程序与记录确认 |
-| 外币产品说明 | 外币年金、外币终身寿险 | 销售前必须说明汇率风险与解约价值的汇率敞口 |
-| 佣金披露方向 | 所有银行保险销售 | 经历多轮 FSA 推动，逐渐趋于透明 |
-| 冷静期 | 标准寿险合同规则 | 一般为自签约 / 交付较早者起 8  天 |
-| 产品审批流程 | 所有 FSA 边界内产品 | 变额年金浪潮在 FSA 主导重设计后大体被外币年金取代 |
-| 销售人员 / 代理资格 | 所有银行保险销售 | 基于《保险业法》的保险募集人资格 |
+| Suitability for elderly customers | All bancassurance sales | Multi-year FSA guidance evolution; product-explanation procedures and recorded confirmation required |
+| Foreign-currency-product explanation | Foreign-currency annuity, foreign-currency whole-life | Required pre-sale explanation of FX risk and surrender-value FX exposure |
+| Commission-disclosure direction | All bancassurance sales | Movement toward more transparency over multiple FSA initiatives |
+| Cooling-off | Standard for life insurance contracts | Generally 8 days from earlier of contract / delivery |
+| Product approval process | All FSA-perimeter products | Variable annuity wave was largely replaced by foreign-currency annuity after FSA-led product redesign |
+| Solicitor / agent qualification | All bancassurance sales | Insurance solicitor license under Insurance Business Act |
 
-### 外币年金的汇率风险转移
+### Foreign-currency annuity FX-risk transfer
 
 | Axis | Foreign-currency single-premium annuity | Yen single-premium savings |
 |---|---|---|
-| 汇率风险 | 发行时即转移给保单持有人 | 无 |
-| 解约价值行为 | 以外币计价；暴露于日元升值 | 以日元计价；更稳定 |
-| 保险公司资产负债表 | 以外币债券支持；对冲成本低于对冲后的美元债簿记 | 以日元债券支持；利率周期主导 |
-| 客户画像 | 寻求高于日元利率收益的年长客户，也包括部分寻求分散化的较年轻客户 | 寻求日元稳定性的年长客户 |
-| 适合性敏感度 | 高；FSA 行为监管重点 | 标准 |
-| 保险公司 ALM 后果 | 资产 / 负债同币种计价；汇率风险取决于保单持有人行为净额 | 标准日元 ALM |
+| FX risk | Transferred to policyholder at issuance | None |
+| Surrender-value behaviour | Foreign-currency-denominated; exposed to JPY appreciation | Yen-denominated; stable |
+| Insurer balance sheet | Backed by foreign-currency bonds; less hedging cost than hedged-USD bond book | Backed by yen bonds; rate-cycle dominant |
+| Customer profile | Older customers seeking yield uplift over JPY rates; some younger customers seeking diversification | Older customers seeking yen stability |
+| Suitability sensitivity | High; FSA conduct-rule focus | Standard |
+| ALM consequence for insurer | Asset / liability denominated in same foreign currency; FX risk net of policyholder behaviour | Standard yen ALM |
 
-### 近期重新绑定与结构变化（概念性）
+### Recent re-tie-up and structural changes (conceptual)
 
 | Event / theme | Detail |
 |---|---|
-| SBI HD 整合 Shinsei Bank | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] 纳入 SBI 集团，引入 SBI Life / SBI Insurance Group / SBI Securities 的跨渠道路线 |
-| Japan Post Bank / Aflac 结构协同 | 在长期分销合作之外，日本邮政集团与 Aflac 的资本协同 |
-| 外币年金主导 | 在 2010s 与 2020s 各周期中，外币年金一直是主导型趸缴银行保险产品族 |
-| 变额年金衰退 | 在 2010s FSA 主导产品重设计后，变额年金大体被外币年金替代 |
-| FSA 适合性框架演进 | FSA 多年持续对高龄客户适合性、外币产品说明与佣金披露方向施压 |
-| ESR rollout 2025  | FSA 经济价值偿付能力制度改变了保险公司对外币年金负债的资本处理——见 [[insurance/economic-value-based-solvency|economic-value-based solvency]] |
-| 银行保险专属子公司模式 | [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 与 [[life-insurers/ms-primary-life|MS Primary Life]] 结构继续作为第一生命 HD 与 MS&AD 的专属银行保险子公司存在 |
+| SBI HD consolidation of Shinsei Bank | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] joined the SBI group, bringing SBI Life / SBI Insurance Group / SBI Securities cross-channel routes |
+| Japan Post Bank / Aflac structural alignment | Capital alignment between Japan Post group and Aflac alongside the long-running distribution tie-up |
+| Foreign-currency annuity dominance | Foreign-currency annuity remained the dominant single-premium bancassurance product family across the 2010s and 2020s |
+| Variable annuity decline | Variable annuity was largely replaced by foreign-currency annuity after FSA-led product redesign in the 2010s |
+| FSA suitability framework progression | Multi-year FSA Conduct Supervision pressure on suitability for elderly customers, foreign-currency-product explanation, and commission-disclosure direction |
+| ESR rollout 2025 | FSA economic-value-based solvency regime changes the capital treatment of foreign-currency annuity liabilities for the insurer — see [[insurance/economic-value-based-solvency|economic-value-based solvency]] |
+| Bancassurance-dedicated affiliate model | [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] and [[life-insurers/ms-primary-life|MS Primary Life]] structures continue as dedicated bancassurance affiliates of Dai-ichi HD and MS&AD |
 
-## 历史与结构背景
+## Historical and structural context
 
-日本当前的银行保险结构反映了三个放开阶段以及数十年的产品演进：
+当前日本银行保险结构反映了三个自由化阶段及数十年的产品演变：
 
-- **2001  第一阶段放开** 允许银行在柜台销售部分保险产品，起点是按揭相关寿险和部分储蓄型产品。
-- **2002  第二阶段放开** 扩大了可销售的银行保险产品集合。
-- **2007  全面放开** 取消了剩余产品线限制，使银行可销售全范围寿险产品（同时附带行为规则保障）。此后外币年金与附医疗附加险的外币终身险迅速扩张。
-- **2007  日本邮政民营化** 在 [[megabanks/nippon-post|Japan Post group]] 内形成了 [[regional-banks/japan-post-bank|Japan Post Bank]] 与 [[life-insurers/kampo-life|Kampo Life]]。Japan Post Bank 柜台网络成为按网点数计最大的单一银行保险渠道。
-- **2010s 变额年金衰退**，由于 FSA 主导的产品重设计和行为监管压力削弱了变额回报型储蓄的吸引力，外币年金成为替代产品族。
-- **2010s–2020s 外币年金主导**，以美元和澳元计价的趸缴产品承载了大部分银行保险新业务价值。Manulife、Prudential、AXA、Dai-ichi Frontier Life、MS Primary Life、Sumitomo Life 等是最突出的供应方。
-- **2021–2023  SBI 对 Shinsei Bank 的整合**，把 SBI Life 及 SBI 集团跨条线分销带入一个主要零售银行渠道。
-- **2025  ESR rollout** 在 FSA 经济价值偿付能力制度下，影响了保险公司对外币年金负债的定价，以及银行保险产品销售如何转化为资本消耗。
-- **FSA 周期性的行为监管轮次** 不断演化高龄客户适合性框架、外币产品说明要求和佣金披露方向。
+- **2001  年第一阶段自由化** 允许银行在柜台销售选定的保险产品，始于与住房贷款挂钩的人寿保险及选定的储蓄型产品。
+- **2002  年第二阶段自由化** 扩大了许可的银行保险产品集。
+- **2007  年完全自由化** 取消了剩余的产品线限制，允许银行（在行为规则保障下）销售全范围的人寿保险产品。外币年金及附医疗特约外币终身寿险在此之后迅速扩张。
+- **2007  年日本邮政民营化** 在 [[megabanks/nippon-post|Japan Post group]] 内部创设了 [[regional-banks/japan-post-bank|Japan Post Bank]] 与 [[life-insurers/kampo-life|Kampo Life]]。Yucho 银行柜台网络成为按支店数计最大的单一银行保险渠道。
+- **2010 年代变额年金的衰退**。金融厅主导的产品重新设计与行为规则压力降低了变额型储蓄的吸引力；外币年金成为替代的产品族。
+- **2010 年代～2020 年代外币年金的主导**，USD 与 AUD 计价的一次性缴费产品承载银行保险新业务价值的大部分。Manulife、Prudential、AXA、Dai-ichi Frontier Life、MS Primary Life 及 Sumitomo Life 位列最显著的供应商之中。
+- **2021–2023  年 SBI 对新生银行的整合** 将 SBI Life 及 SBI 集团的跨线分销带入一个主要的零售银行渠道。
+- **2025  年 ESR 推出**，在金融厅经济价值基础偿付能力制度之下，影响保险公司如何为外币年金负债定价，以及银行保险产品销售如何转换为资本消耗。
+- **金融厅行为规则的周期性循环** 持续演进着适合性框架、外币产品说明要求及佣金披露方向。
 
 ## Decision use
 
-当需要理解日本银行渠道 × 保险公司关系时，应使用此矩阵，而不是孤立地阅读银行侧或保险侧。实践中的分析问题包括：
+在解读日本的银行渠道 × 保险公司关系时使用本矩阵，而非孤立地解读任一方。实务性的分析问题：
 
-- **承保方货架重叠。** 大多数大型银行货架都包含同一组核心银行保险承保方（[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/axa-japan|AXA]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier]]、[[life-insurers/ms-primary-life|MS Primary]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 等），差异体现在货架深度、产品投放，以及长尾的选择性布局和排他 / 结构性绑定。
-- **集团关联路线。** 有些承保方投放源于集团关联历史（SMBC / 住友生命；Mizuho / 第一生命经由 Asset Management One 的联结；Japan Post Bank / Kampo Life）。若不叠加集团关联视角，就无法读懂货架中的结构性投放。
-- **趸缴与平准缴的经济性不同。** 趸缴外币年金是佣金最高的产品族。附医疗附加险的外币平准终身险则对应不同的佣金结构与客户画像。银行保险对保险公司 NBV 的贡献取决于这种组合。
-- **行为规则负担。** FSA 多年来针对高龄客户适合性和外币产品说明的压力，已经重塑了销售流程。披露与记录确认的负担对银行和保险公司都很显著。
-- **Japan Post Bank 在结构上特殊。** 它的网点覆盖、Aflac 癌症险合作、Kampo 内部路线，以及外币货架，共同构成日本最大的单一银行保险渠道。邮政民营化后的法定框架是其独特约束。
-- **银行保险专属子公司模式。** [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 与 [[life-insurers/ms-primary-life|MS Primary Life]] 分别是 [[life-insurers/dai-ichi-life|Dai-ichi HD]] 与 [[non-life-insurers/msad|MS&AD]] 的专属银行保险子公司。它们唯一的渠道就是银行保险，因此其盈利如何映射到母集团的方式也不同。
-- **ESR 对产品经济性的影响。** 2025  的 FSA ESR rollout 重塑了外币年金负债的资本成本。随着保险公司重新优化资本消耗，银行保险产品定价与货架构成可能持续变化。
+- **承保人货架重叠。** 大多数超大型银行的货架在货架深度与产品配置上存在差异，却包含同一核心的银行保险承保人集（[[life-insurers/manulife-japan|Manulife]]、[[life-insurers/prudential-japan|Prudential]]、[[life-insurers/axa-japan|AXA]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier]]、[[life-insurers/ms-primary-life|MS Primary]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 等）。差异化在于选择性配置的长尾，以及专属／结构性合作。
+- **集团系列路径。** 一些承保人配置源自集团系列历史（SMBC / Sumitomo Life；瑞穗 / 第一经由 Asset Management One 的联动；Yucho 银行 / Kampo Life）。在没有集团系列叠加的情况下解读货架会遗漏结构性配置。
+- **一次性缴费对平准缴费的经济性不同。** 一次性缴费外币年金是最高佣金的产品族。附医疗特约的平准缴费外币终身寿险具有不同的佣金与客户画像组合。银行保险对保险公司 NBV 的贡献取决于组合。
+- **行为规则负担。** 金融厅就对老年客户的适合性及外币产品说明施加的多年行为规则压力，已重塑销售流程。披露与记录确认的负担对银行和保险公司双方都很重要。
+- **Yucho 银行在结构上很特殊。** 其支店网络触达、Aflac 癌症合作、Kampo 的集团内路径及外币货架共同使其成为最大的单一银行保险渠道。邮政民营化时代的法定框架是一项独特的结构性约束。
+- **银行保险专属系列公司模式。** [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 与 [[life-insurers/ms-primary-life|MS Primary Life]] 分别是 [[life-insurers/dai-ichi-life|Dai-ichi HD]] 与 [[non-life-insurers/msad|MS&AD]] 的专属银行保险系列公司。其唯一渠道是银行保险，这改变了各系列公司的收益相对于母集团如何转换。
+- **ESR 对产品经济性的影响。** 2025  年金融厅 ESR 推出重塑了外币年金负债的资本成本。随着承保人重新优化资本消耗，银行保险的产品定价与货架构成可能随时间变化。
 
 ## Boundary cases / caveats
 
-- **数字为概念性。** 承保方货架构成、佣金比率、NBV 渠道占比与客户画像都具有日期敏感性。来源应包括 FSA 行为监管刊物、各银行分销披露、各保险公司 IR、生保协会行业数据及全国银行协会摘要。
-- **“Yes” / “Selective” 仅为说明性。** 矩阵表示的是各承保方在各银行渠道中的概念性存在，基于广泛报道的银行保险货架；若需确认某一财年、某一产品层面的投放，应以银行当前的银行保险披露为准。
-- **地银货架差异很大。** 主要地银的承保方组合取决于关系与历史绑定。矩阵把地银合并处理；若要逐家分析，需单独审查。
-- **线上银行银行保险规模更小。** [[regional-banks/sony-bank|Sony Bank]] 是 Wiki 锚点集中最大的数字银行银行保险渠道；其他数字银行货架更小。互联网直销寿险渠道（[[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] direct）则是另一条路线——见 [[insurance/internet-life-insurance-business-model|the internet life model]]。
-- **共济边界替代。** 银行保险明确属于 FSA 边界内。合作（共济）边界有其自身的会员分销路径——见 [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]。
-- **信托银行银行保险。** SMBC Trust、Mizuho Trust 与 Mitsubishi UFJ Trust 的私人银行渠道，拥有独立的高净值银行保险货架，且偏重外币产品。其披露颗粒度并不总是与超级银行零售货架相同。
-- **癌症险专科投放。** [[life-insurers/aflac-japan|Aflac]] 癌症保险分销高度集中在 Japan Post Bank 这一结构性合作渠道，其他银行渠道则只是选择性投放。
-- **Kampo Life 特别法。** [[life-insurers/kampo-life|Kampo Life]] 属于 FSA 边界，但受到邮政民营化后产品审批与分销约束——见 [[insurance/kampo-japan-post-insurance|the Kampo entry]]。
-- **重新绑定敏感性。** 承保方货架会随着财政年度以及重大集团重组事件而变化（尤其是 SBI HD / Shinsei Bank 整合）。该矩阵反映的是页面日期下的概念结构。
-- **FSA 行为规则演进。** 适合性、外币产品说明与佣金披露规则仍在持续演进；新的 FSA 倡议可能改变银行保险的经济方向。
-- **变额年金存量。** 历史年度的变额年金风险仍留在保险公司资产负债表上；当前新增银行保险流量已由外币年金与附医疗附加险的外币终身险主导。
+- **数值为概念性。** 承保人货架构成、佣金比率、NBV 渠道划分及客户画像均为时点特定。来源为金融厅行为规则公布物、各银行公布的分销披露、各保险公司的 IR 资料、生保行业数据，以及全国银行协会的行业摘要。
+- **"Yes" / "Selective" 单元格为示例。** 矩阵基于广泛报告的银行保险货架，表示各承保人在各银行渠道上的概念性存在；某一财年逐产品的配置应对照该银行当前的银行保险披露加以确认。
+- **地方银行货架差异很大。** 主要地方银行的承保人构成因关系与历史系列而异。矩阵将地方银行笼统归并；具体的逐家地方银行货架需要单独审阅。
+- **线上银行的银行保险规模更小。** [[regional-banks/sony-bank|Sony Bank]] 是维基锚点集中数字银行保险渠道里最大的；其他数字银行的货架更小。互联网直营人寿渠道（[[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] 直营）另行存在 — 参见 [[insurance/internet-life-insurance-business-model|the internet life model]]。
+- **共济边界的替代。** 银行保险牢固地处于金融厅边界之内。合作社（共济）边界拥有自身的会员分销路径 — 参见 [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]。
+- **信托银行的银行保险。** SMBC 信托、瑞穗信托及三菱 UFJ 信托的私人银行渠道承载以外币产品为重点的独立高净值银行保险货架。这些并不总是以与超大型银行零售货架相同的颗粒度披露。
+- **癌症专门配置。** [[life-insurers/aflac-japan|Aflac]] 的癌症保险分销作为结构性合作渠道集中于 Yucho 银行，在其他银行渠道则为选择性。
+- **Kampo Life 特别法。** [[life-insurers/kampo-life|Kampo Life]] 处于金融厅边界之内，但伴有邮政民营化后的产品批准与分销约束 — 参见 [[insurance/kampo-japan-post-insurance|the Kampo entry]]。
+- **再合作的敏感性。** 承保人货架在每个财年及主要集团重组事件（尤其是 SBI HD / 新生银行整合）前后变化。矩阵捕捉了页面日期时点的概念性结构。
+- **金融厅行为规则的进展。** 适合性、外币产品说明及佣金披露规则持续演进。较新的金融厅举措可能改变银行保险经济性的方向。
+- **变额年金遗留。** 变额年金敞口从历史年份残留在保险公司资产负债表上；当前的银行保险流量由外币年金及附医疗特约外币终身寿险主导。
 
 ## Related
 

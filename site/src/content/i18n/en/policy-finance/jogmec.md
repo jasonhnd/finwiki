@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jogmec
-source_hash: e827d5dfffbc6cd2
+source_hash: e19e8d0dcd0c4916
 lang: en
 status: machine
 fidelity: ok
 title: "JOGMEC (Japan Organization for Metals and Energy Security)"
-translated_at: 2026-06-01T03:31:12.230Z
+translated_at: 2026-06-19T13:13:22.637Z
 ---
 
 # JOGMEC (Japan Organization for Metals and Energy Security)
@@ -16,18 +16,18 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the resou
 
 ## TL;DR
 
-JOGMEC, the Japan Organization for Metals and Energy Security, formerly Japan Oil, Gas and Metals National Corporation, is Japan's resource-security state agency supervised by METI through the Agency for Natural Resources and Energy. The institution sits at the upstream end of Japan's energy and critical-minerals supply chain, with three structural product legs: exploration-stage equity and risk-sharing capital injections into Japanese-affiliated upstream SPVs; development-stage equity in proven projects after final investment decision; and state stockpiling of rare metals and oil reserves. A supporting fourth leg consists of liability guarantees and loan support for exploration borrowings. Equity tickets are typically minority slices behind a Japanese sponsor, such as the major sogo-shosha trading houses Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, and Sojitz, major utilities, or specialty mining companies. The state objective is **offtake back to Japan**: long-term LNG, oil, copper, nickel, lithium, cobalt, rare-earth, and uranium volumes routed into Japanese energy-utility and battery / EV supply chains. The 2023-04 statutory rebranding to the current energy and metals security mandate was structurally significant because it codified the **economic-security pivot**: explicit broadening from oil, gas, and metals to critical minerals essential to GX, hydrogen / ammonia / CCS, semiconductor materials, and battery-EV minerals. The 2022-2025 period also saw forced reallocation of Russia-exposed energy assets, including Sakhalin-1 / Sakhalin-2 LNG impairment under sanctions exposure, alongside a critical-minerals pivot into lithium, cobalt, and rare-earth equity entries with Australian, Latin American, and African sponsors. JOGMEC's role in the project-finance stack is the equity and exploration-risk seat that megabank syndicates and JBIC cannot price; its presence in the cap table is often the signal that lets the senior-debt layer come together.
+JOGMEC (独立行政法人 エネルギー・金属鉱物資源機構 — formerly 石油天然ガス・金属鉱物資源機構 / Japan Oil, Gas and Metals National Corporation) is Japan's resource-security state agency, METI-supervised (経済産業大臣 主管 through 資源エネルギー庁). The institution sits at the upstream end of the Japanese energy and critical-minerals supply chain, with three structural product legs — **探鉱出資** (exploration-stage equity / risk-sharing capital injection into Japanese-affiliated upstream SPVs), **開発出資** (development-stage equity in proven projects post-FID), and **鉱物備蓄 / 石油備蓄** (state stockpiling of rare metals and oil reserves) — plus a supporting fourth leg of **liability guarantees and loan support** for exploration borrowings. Equity tickets are typically minority slices behind a Japanese sponsor (the major sogo-shosha trading houses Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz; major utilities; specialty mining companies). The state objective is **offtake back to Japan** — long-term LNG, oil, copper, nickel, lithium, cobalt, rare-earth, and uranium volumes routed into Japanese energy-utility and battery / EV supply chains. The 2023-04 statutory rebranding from 石油天然ガス・金属鉱物資源機構 to エネルギー・金属鉱物資源機構 was structurally significant — it codified the **economic-security pivot**: explicit broadening from oil / gas / metals to critical minerals essential to GX (green transformation), hydrogen / ammonia / CCS, semiconductor materials, and battery-EV minerals. The 2022-2025 period also saw a dramatic forced reallocation of the Russia-exposed energy portfolio (Sakhalin-1 / Sakhalin-2 LNG asset value impairment under sanctions exposure) and parallel critical-minerals pivot (lithium, cobalt, rare-earth equity entries with Australian / Latin American / African sponsors). JOGMEC's role in the project-finance stack is the equity / exploration-risk seat that megabank syndicate and JBIC cannot price — its presence in the cap table is often the signal that lets the senior-debt layer come together.
 
 ## 1. Institutional structure
 
 | Item | Detail |
 |---|---|
-| Legal entity | Japan Organization for Metals and Energy Security (JOGMEC), an incorporated administrative agency |
-| Statutory basis | Act on the Japan Organization for Metals and Energy Security, formerly the act for Japan Oil, Gas and Metals National Corporation; rebranded by amendment in 2023-04 |
+| Legal entity | 独立行政法人 エネルギー・金属鉱物資源機構 (Japan Organization for Metals and Energy Security — JOGMEC) |
+| Statutory basis | 独立行政法人エネルギー・金属鉱物資源機構法 (formerly 独立行政法人石油天然ガス・金属鉱物資源機構法; rebranded 2023-04 by amending Act) |
 | Form | 独立行政法人 (Incorporated Administrative Agency); not a 株式会社 / 特殊会社 |
-| Supervising minister | Minister of Economy, Trade and Industry, with principal supervision through the Agency for Natural Resources and Energy |
+| Supervising minister | 経済産業大臣 (METI; principal supervisor through 資源エネルギー庁) |
 | Coordinating supervisor | 環境省 on environmental / decommissioning aspects; MoF on FILP-related funding aspects |
-| Predecessor | Japan National Oil Corporation, established in 1967, plus Metal Mining Agency of Japan, established in 1963; merged on 2004-02-29 into the former Japan Oil, Gas and Metals National Corporation; 2023-04 rebrand and mandate expansion |
+| Predecessor | 石油公団 (Japan National Oil Corporation — JNOC, 1967 established) + 金属鉱業事業団 (Metal Mining Agency of Japan — MMAJ, 1963 established) → 2004-02-29 merger into 旧 JOGMEC (石油天然ガス・金属鉱物資源機構) → 2023-04 rebrand + mandate expansion |
 | Founding date | 2004-02-29 (current legal entity) |
 | Capital | Per official overview, ~¥1,828 billion (約 1,828 億 of equity capital) as of 2026-04-01 — note: this is government-injected appropriation capital, not share capital |
 | Funding base | Annual government appropriation (subsidy + capital injection from General Account) + recovered investment returns + selective debt raising |
@@ -41,7 +41,7 @@ JOGMEC, the Japan Organization for Metals and Energy Security, formerly Japan Oi
 ### 1.1 What JOGMEC does — and what it does not
 
 - **Does**: take equity in upstream resource projects (exploration + development), share exploration risk via direct equity + liability guarantees, run state stockpiles (oil + rare metals), provide liability guarantees on exploration borrowings, run geological / R&D activities, conduct domestic geothermal exploration support, run methane-hydrate R&D, and (post-2023) coordinate CCS / hydrogen / ammonia supply-chain support.
-- **Does not**: lend operating loans (that is [[financial-regulators/jbic|JBIC]] or megabank territory); insure political risk on equity (that is [[policy-finance/nexi|NEXI]]); trade physical commodities or operate downstream refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities); set Japan's energy strategy (METI / Agency for Natural Resources and Energy / Cabinet do that).
+- **Does not**: lend operating loans (that is [[financial-regulators/jbic|JBIC]] or megabank territory); insure political risk on equity (that is [[policy-finance/nexi|NEXI]]); trade physical commodities or operate downstream refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities); set Japan's energy strategy (METI / 資源エネルギー庁 / Cabinet do that).
 
 The boundary with JBIC and NEXI is structural and rarely contested: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
@@ -60,8 +60,8 @@ JOGMEC's funding is government-appropriated and outcomes-evaluated, but its inst
 | 探鉱出資 | Liability guarantee for exploration borrowings | Guarantee against bank loans funding exploration capex | Japanese sponsor + lending bank | Oil, gas, metals |
 | **開発出資** (Development equity) | Equity injection at development stage (post-FID) | Equity portion of development / construction cap table | Japanese sponsor consortium | LNG, copper, nickel, lithium, rare earths, uranium |
 | 開発出資 | Loan support / quasi-equity for development-stage SPV | Subordinated debt / quasi-equity bridging equity portion | Japanese sponsor | Same sectors |
-| **Mineral stockpiling** | State stockpile of strategic rare metals | Inventory held for emergency / market-disruption release | METI / Agency for Natural Resources and Energy directed | Ni, Cr, Mn, V, Mo, W, Co, REE |
-| **Oil stockpiling** | National petroleum / petroleum-products stockpile management | Strategic petroleum reserve in coordination with private stockpiles | Agency for Natural Resources and Energy | Crude oil + petroleum products |
+| **鉱物備蓄** (Mineral stockpiling) | State stockpile of strategic rare metals | Inventory held for emergency / market-disruption release | METI / 資源エネルギー庁 directed | Ni, Cr, Mn, V, Mo, W, Co, REE |
+| **石油備蓄** (Oil stockpiling) | National petroleum / petroleum-products stockpile management | Strategic petroleum reserve in coordination with private stockpiles | 資源エネルギー庁 | Crude oil + petroleum products |
 | **技術開発 / 地質調査** | Technology development, geological survey | Pre-competitive R&D, geological mapping, frontier-resource R&D | Universities, research consortia, industry | Oil, gas, geothermal, methane hydrate, CCS |
 | **地熱** | Geothermal exploration / development support | Domestic geothermal exploration equity / loan support | Domestic developers | Geothermal |
 | **CCS / hydrogen / ammonia** | New mandate area added 2023-04 rebrand + 2024 expansion | Carbon-storage development, hydrogen / ammonia supply-chain support | Industrial consortia | CCS, hydrogen, ammonia |
@@ -94,7 +94,7 @@ The stockpiling function is structurally separate from the equity-investment fun
 | Headcount | 1,147 employees as of 2026-04-01 | JOGMEC official overview |
 | Outstanding equity participation (cumulative) | Several-hundred-project portfolio with substantial book value; not single-headline disclosed | JOGMEC Annual Report |
 | Annual government appropriation (subsidy + capital injection) | Several hundred billion yen range per year, with supplementary-budget topups for economic-security expansion since 2022 | JOGMEC budget disclosure |
-| National petroleum reserve days-of-imports cover | ~150-180 days combined (public + private) under the Petroleum Stockpiling Act | Agency for Natural Resources and Energy disclosure |
+| National petroleum reserve days-of-imports cover | ~150-180 days combined (public + private) under 石油備蓄法 | 資源エネルギー庁 disclosure |
 | Rare metals stockpile (national portion) | Targeted ~60 days of consumption for designated rare metals | METI / JOGMEC disclosure |
 | Major equity holdings | Sakhalin-1 / Sakhalin-2 LNG (impaired post-2022); LNG Canada; PNG LNG; Mozambique LNG (suspended due to security); Cameron LNG; Wheatstone / Ichthys / Prelude LNG; Escondida / Sierra Gorda copper; lithium / cobalt entries 2023-2025 | JOGMEC press releases per project |
 | Annual exploration support expenditure | Public; categorical disclosure in JOGMEC Annual Report | JOGMEC disclosure |
@@ -108,12 +108,12 @@ JOGMEC headline numbers are difficult to summarize as a single book value becaus
 |---|---|
 | 1963 | 金属鉱業事業団 (Metal Mining Agency of Japan — MMAJ) established |
 | 1967 | 石油公団 (Japan National Oil Corporation — JNOC) established |
-| 1973 | First oil shock; JNOC's exploration and equity-participation function becomes politically central |
-| 1979 | Second oil shock; confirms JNOC mandate and initiates the national petroleum reserve |
+| 1973 | 第一次オイルショック — JNOC's exploration / equity-participation function becomes politically central |
+| 1979 | 第二次オイルショック — confirms JNOC mandate; National Petroleum Reserve initiated |
 | 1980s-1990s | JNOC equity portfolio expands across Middle East / Southeast Asia LNG; MMAJ supports metals exploration |
 | 1998-2001 | JNOC reform debate: equity-investment losses on dry-hole exploration prompt institutional rebuilding |
 | 2002 | JNOC dissolution decided; functions reorganized |
-| 2004-02-29 | Former JOGMEC, Japan Oil, Gas and Metals National Corporation, established by merger of JNOC and MMAJ as an incorporated administrative agency |
+| 2004-02-29 | 旧 JOGMEC (石油天然ガス・金属鉱物資源機構) established by merger of JNOC + MMAJ; legal form 独立行政法人 |
 | 2008-2010 | Critical-minerals supply-chain concerns rise (rare-earth export-restriction episodes); JOGMEC role in metals stockpiling expanded |
 | 2010-09 | China rare-earth export-restriction event; Japan-China critical-minerals supply-chain concerns crystallize; JOGMEC metals mandate expanded with stockpile build-out |
 | 2011-03 | 東日本大震災 + Fukushima — energy-security framing shifts toward LNG; JOGMEC oil-gas equity activity intensifies |
@@ -121,7 +121,7 @@ JOGMEC headline numbers are difficult to summarize as a single book value becaus
 | 2017-2021 | Climate / decarbonization framing rises; JOGMEC begins to broaden into hydrogen / ammonia / CCS preparatory work |
 | 2022-02 | Russia invasion of Ukraine; Sakhalin-1 / Sakhalin-2 LNG asset value comes under impairment review; Japanese government policy is to preserve LNG access where consistent with G7 sanctions; JOGMEC's Russia-exposed equity portfolio enters multi-year resolution cycle |
 | 2022-2023 | Critical-minerals supply-chain pivot accelerates: lithium / cobalt / rare-earth equity entries with Australian (lithium), Argentinian / Chilean (lithium), DRC / Indonesia (cobalt / nickel), and Mozambique / Madagascar (graphite) sponsors |
-| 2023-04 | Statutory rebrand from Japan Oil, Gas and Metals National Corporation to Japan Organization for Metals and Energy Security; mandate explicitly broadened to include critical minerals essential to GX and economic security |
+| 2023-04 | 統合行政法人エネルギー・金属鉱物資源機構法 — statutory rebrand from 石油天然ガス・金属鉱物資源機構 to エネルギー・金属鉱物資源機構; mandate explicitly broadened to include critical minerals essential to GX and 経済安全保障 |
 | 2024 | Dedicated minerals-fund / risk-bearing-authority expansion under amended Act takes effect; JOGMEC equity / guarantee menu in critical-minerals broadened |
 | 2024-2025 | Hydrogen / ammonia supply-chain equity / loan-guarantee menu under post-2023 mandate is operationalised; selective offtake-backed equity in hydrogen / ammonia production projects (Middle East, Australia) |
 
@@ -165,7 +165,7 @@ The sibling [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity a
 ## Sources
 
 - JOGMEC official overview.
-- Act on the Japan Organization for Metals and Energy Security, rebranded in 2023-04.
-- Agency for Natural Resources and Energy strategy and critical-minerals policy pages.
+- 独立行政法人エネルギー・金属鉱物資源機構法 (rebranded 2023-04).
+- 資源エネルギー庁 energy strategy and critical-minerals policy pages.
 - JOGMEC Annual Report and project-by-project press releases.
 - METI critical-minerals / GX policy pages.

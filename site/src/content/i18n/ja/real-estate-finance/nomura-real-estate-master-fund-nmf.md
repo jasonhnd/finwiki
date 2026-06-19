@@ -1,104 +1,105 @@
 ---
 source: real-estate-finance/nomura-real-estate-master-fund-nmf
-source_hash: 006e067abe435057
+source_hash: ca7f6b1f61ca4220
 lang: ja
 status: machine
 fidelity: ok
-title: "野村不動産マスターファンド（NMF、J-REIT 3462）"
-translated_at: 2026-06-03T00:53:08.331Z
+title: "野村不動産マスターファンド（NMF, J-REIT 3462）"
+translated_at: 2026-06-19T12:43:19.877Z
 ---
-# 野村不動産マスターファンド（NMF、J-REIT 3462）
 
-## 要約
+# 野村不動産マスターファンド（NMF, J-REIT 3462）
 
-**Nomura Real Estate Master Fund Inc.（NMF、TSE J-REIT 3462）** は、**Nomura Real Estate Holdings**（TSE Prime 3231）をスポンサーとし、Nomura Real Estate Asset Management が運用する **総合型ポートフォリオ J-REIT** である。NMF は、野村不動産がスポンサーとなっていた三つの J-REIT、すなわち **Nomura Real Estate Office Fund**、**Nomura Real Estate Residential Fund**、**Nomura Real Estate Master Fund（旧 NMF）** を単一の総合型ビークルに統合して成立した、2015  後の合併体である。ポートフォリオは **オフィス、住宅、商業施設、物流** 資産にまたがる。2015  の合併により、NMF は当時 **AUM で最大級の J-REIT** の一つとなり、「総合型メガ J-REIT」モデルの代表例となった。安定したオフィスのキャッシュフロー、人口動態に支えられた住宅収益、商業施設による分散、物流の成長を一つのビークルに組み合わせ、投資家に単一資産クラス集中リスクのない広範な不動産エクスポージャーを提供するモデルである。
+## TL;DR
 
-FinWiki にとって、NMF は **総合型 J-REIT のテンプレート** である。[[real-estate-finance/nippon-building-fund-j-reit-8951|NBF]] や [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]] のようなオフィス特化型 J-REIT、[[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] や [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]] のような物流特化型 J-REIT との対照軸になる。総合型の性格はサイクルを通じて DPU を滑らかにする一方、純粋なテーマ投資を求める投資家にとっては資産クラスの輪郭がやや曖昧になる。
+**野村不動産マスターファンド投資法人（NMF, 東証 J-REIT 3462）** は、**野村不動産ホールディングス**（東証プライム 3231）がスポンサーを務め、野村不動産投資顧問が運用する **総合型ポートフォリオ J-REIT** である。NMF は、3 つの野村スポンサー J-REIT — **野村不動産オフィスファンド**、**野村不動産レジデンシャルファンド**、**野村不動産マスターファンド（旧）** — を統合し、**オフィス、住宅、小売、物流** 資産にわたるポートフォリオエクスポージャーを持つ単一の総合型ビークルに統合して形成された 2015  後の合併エンティティである。2015  の合併は、当時 **AUM ベースで最大級の J-REIT** の 1 つを生み出し、NMF を「総合型メガ J-REIT」モデルの主導的事例として確立した — 安定的なオフィスキャッシュフロー、人口動態に裏付けられた住宅収益、小売の分散、物流の成長を 1 つのビークルに組み合わせ、単一資産クラス集中リスクなしに投資家に広範な不動産エクスポージャーを提供する。
 
-## ウィキ上の位置づけ
+FinWiki にとって、NMF は **総合型 J-REIT のテンプレート** である — [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF]] や [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]] のような純粋なオフィス J-REIT、および [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] や [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]] のような純粋な物流 J-REIT との対比。総合型プロファイルはサイクルを通じてより滑らかな DPU を提供するが、純粋なテーマを求める投資家にとっては資産クラスエクスポージャーが鮮明でなくなるという代償を伴う。
 
-この項目は、**総合型 J-REIT のアンカー** として [[real-estate-finance/INDEX|real-estate-finance index]] 配下に置かれる。J-REIT 横断の位置づけは [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]]、オフィス特化型との対照は [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] と [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]、物流特化型との対照は [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] / [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]] とあわせて読む。ガバナンスの枠組みは [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] と [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]] である。スポンサー親会社のコーポレートファイナンス側は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
+## Wiki ルート
+
+本項目は [[real-estate-finance/INDEX|real-estate-finance index]] の下に **総合型 J-REIT アンカー** として位置づけられる。クロス J-REIT ポジショニングとして [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] と、純粋オフィスとの対比として [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] および [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]] と、純粋物流との対比として [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] / [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]] と併せて読むこと。ガバナンスの枠組みは [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] と [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]] である。スポンサー親会社のコーポレートファイナンス側については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
 
 ## 1. 企業アイデンティティ
 
 | 項目 | 詳細 |
 |---|---|
-| ティッカー | TSE J-REIT **3462** |
-| 投資法人 | Nomura Real Estate Master Fund Inc.（野村不動産マスターファンド投資法人） |
-| 資産運用会社 | Nomura Real Estate Asset Management Co., Ltd.（スポンサー: Nomura Real Estate Holdings） |
-| スポンサー | Nomura Real Estate Holdings（TSE Prime 3231）。最終親会社: [[securities-firms/nomura-hd|Nomura Holdings]] |
-| 上場日 | 合併後の承継体として October 2015  に上場（旧 NMF はそれ以前に上場。合併により三つの野村系 J-REIT を統合） |
-| 資産フォーカス | 総合型 — オフィス、住宅、商業施設、物流 |
-| 資産管理受託者 | 信託銀行受託者 — 物件により異なる |
-| 格付け | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] による高い投資適格格付け。分散と規模により、J-REIT の中でも相対的に高格付け |
-| 指数採用 | TSE REIT Index、GPR / FTSE EPRA Nareit Developed Asia |
+| ティッカー | 東証 J-REIT **3462** |
+| 投資法人 | 野村不動産マスターファンド投資法人（野村不動産マスターファンド投資法人） |
+| 資産運用会社 | 野村不動産投資顧問株式会社（スポンサー：野村不動産ホールディングス） |
+| スポンサー | 野村不動産ホールディングス（東証プライム 3231）；究極の親会社：[[securities-firms/nomura-hd|Nomura Holdings]] |
+| 上場日 | 合併後継として 2015  年 10 月に上場（旧 NMF はより早く上場；合併が 3 つの野村 J-REIT を統合） |
+| 資産フォーカス | 総合型 — オフィス、住宅、小売、物流 |
+| 資産管理受託者 | 信託銀行受託者 — 物件により変動 |
+| 格付け | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] による高い投資適格；分散とスケールを踏まえ J-REIT の中でも高格付けの部類 |
+| 指数組入れ | 東証 REIT 指数、GPR / FTSE EPRA Nareit Developed Asia |
 
-## 2. 2015  の三者合併
+## 2. 2015  三者合併
 
-現在の NMF は、October 2015  に、野村不動産がスポンサーとなる三つの J-REIT を統合して作られた。
+NMF は現在の形態において、3 つの野村不動産スポンサー J-REIT の 2015  年 10 月の統合によって創出された：
 
-| 合併前 J-REIT | 資産フォーカス | 合併での役割 |
+| 合併前 J-REIT | 資産フォーカス | 合併における役割 |
 |---|---|---|
-| Nomura Real Estate Office Fund | オフィス | オフィスポートフォリオを拠出 |
-| Nomura Real Estate Residential Fund | 住宅 | 住宅ポートフォリオを拠出 |
-| Nomura Real Estate Master Fund（旧） | 総合型の種資産 | 存続法人 / 取得者 |
+| 野村不動産オフィスファンド | オフィス | オフィスポートフォリオを拠出 |
+| 野村不動産レジデンシャルファンド | 住宅 | 住宅ポートフォリオを拠出 |
+| 野村不動産マスターファンド（旧） | 総合型シード | 存続エンティティ / 取得者 |
 
-| 合併の合理性 | 読み方 |
+| 合併の根拠 | 読み |
 |---|---|
-| 規模 | 統合後の AUM は J-REIT の上位層に入り、指数ウェイトと流動性を改善した |
-| 分散 | 単一の総合型ビークルにより、三つの資産クラス別ビークルより DPU が平準化された |
-| コスト効率 | 資産運用会社の構造を統合し、三つの AM チームを別々に運営するより間接費を削減した |
-| パイプライン効率 | 三つの内部配分チャネルが競合するのではなく、Nomura Real Estate Holdings からの単一取得パイプラインになった |
-| スポンサー戦略 | より統合的な不動産プラットフォームへ移行する Nomura Real Estate Holdings の方針と整合した |
+| スケール | 合算 AUM により合併後 NMF を規模ベースで J-REIT の最上位層に位置づけ、指数ウェイトと流動性を改善 |
+| 分散 | 単一の総合型ビークルが、3 つの個別資産クラス特化ビークルに対して DPU を平準化 |
+| コスト効率 | 統合された資産運用会社構造が、3 つの個別 AM チームを運営することに対してオーバーヘッドを削減 |
+| パイプライン効率 | 3 つの競合する内部配分チャネルではなく、野村不動産ホールディングスからの単一の取得パイプライン |
+| スポンサー戦略 | 野村不動産ホールディングスのより統合された不動産プラットフォームへのシフトと整合 |
 
-2015  の合併は、後のスポンサー内 J-REIT 統合の先例となった（例: KJR Management による Mitsubishi Corp / KKR アンカーの複数 J-REIT 統合）。
+2015  の合併は、後のスポンサー内 J-REIT 統合（例：複数の三菱商事 / KKR アンカー J-REIT を統合する KJR マネジメント）の先例となった。
 
 ## 3. ポートフォリオ構成
 
 |---|---|
-| オフィス | 最大のスリーブ — 旧 Nomura Real Estate Office Fund から承継した重要なオフィスポートフォリオ |
-| 住宅 | 重要な比重 — 旧 Residential Fund から承継。人口動態に支えられた収入 |
-| 商業施設 | 選別的な商業施設保有 — 近隣型 / 郊外型商業施設 |
-| 物流 | 分散戦略の一環として追加された成長スリーブ |
-| その他 | ホテル、複合用途の機会投資 |
+| オフィス | 最大のスリーブ — 旧 野村不動産オフィスファンドから引き継いだ有意なオフィスポートフォリオ |
+| 住宅 | 重要なウェイト — 旧 レジデンシャルファンドから引き継ぎ；人口動態に裏付けられた収益 |
+| 小売 | 選択的な小売保有 — 近隣 / 郊外型小売 |
+| 物流 | 分散戦略の一環として追加された成長中の物流スリーブ |
+| その他 | ホテル、複合用途のオポチュニスティック |
 
-具体的な比率は取得・売却により変化する。NMF の IR 資料は最新のセクター構成を公表している。ポートフォリオは東京圏、大阪、名古屋、その他主要都市に地理的に分散している。
+具体的なウェイトは取得と処分により変動する；NMF の IR 資料は現在のセクターミックスを公表している。ポートフォリオは東京都市圏、大阪、名古屋、その他主要都市にわたって地理的に分散されている。
 
 ## 4. 資本とレバレッジ
 
 | 項目 | NMF のパターン |
 |---|---|
-| LTV 方針レンジ | 中位 40% ゾーンが典型 |
-| 負債構成 | 銀行借入と公募投資法人債。野村グループとの関係により資本市場アクセスで恩恵を受ける |
-| 債券カーブ | 国内格付け AA ゾーン。複数年限の残高あり |
-| スポンサー支援持分 | Nomura Real Estate Holdings がスポンサー支援として投資口持分を保有 |
-| 分配方針 | 半期 DPU。J-REIT 90% パススルー |
-| 外国人投資家比率 | 重要な比率。大型総合型銘柄としてグローバル REIT ファンドを引きつける |
+| LTV ポリシーバンド | 中位 40% ゾーンが典型的 |
+| 負債ミックス | 銀行借入プラス公募投資法人債；資本市場アクセスにおける野村系列の恩恵 |
+| 債券カーブ | AA ゾーンの国内格付け；複数のテナーが発行残高 |
+| スポンサー支援持分 | 野村不動産ホールディングスがスポンサー支援投資口持分を保持 |
+| 分配ポリシー | 半期 DPU；J-REIT 90% パススルー |
+| 外国投資家シェア | 重要 — 大型総合型銘柄がグローバル REIT ファンドを惹きつける |
 
-## 5. 総合型と特化型 J-REIT の比較
+## 5. 総合型 vs 純粋型 J-REIT
 
-| 観点 | 総合型（NMF） | オフィス特化型（NBF / JRE） | 物流特化型（GLP J-REIT / NPR） |
+| 次元 | 総合型（NMF） | 純粋オフィス（NBF / JRE） | 純粋物流（GLP J-REIT / NPR） |
 |---|---|---|---|
-| 資産クラスの焦点 | 複数スリーブ | 単一（オフィス） | 単一（物流） |
-| DPU 変動性 | 低い — 分散がサイクルを平準化 | 高い — 単一資産クラスのサイクルにさらされる | 高い — 物流サイクルにさらされる |
-| キャップレート感応度 | 資産クラス横断でブレンド | オフィスのキャップレートが主導 | 物流のキャップレートが主導 |
-| 投資家の使い方 | 広範な不動産エクスポージャー | オフィス純粋テーマ | 物流純粋テーマ |
-| AUM 規模 | 合併により上位層 | デベロッパースポンサーの規模により上位層 | 銘柄により中位から大型 |
-| 外国人投資家への訴求 | 日本不動産の総合型代理銘柄 | 日本オフィスのベンチマーク | 日本物流のベンチマーク |
+| 資産クラスフォーカス | 複数のスリーブ | 単一（オフィス） | 単一（物流） |
+| DPU ボラティリティ | より低い — 分散がサイクルを平準化 | より高い — 単一資産クラスのサイクルエクスポージャー | より高い — 物流サイクルエクスポージャー |
+| キャップレート感応度 | 資産クラス全体でブレンド | オフィスキャップレート駆動 | 物流キャップレート駆動 |
+| 投資家ユースケース | 広範な不動産エクスポージャー | 純粋オフィステーマ | 純粋物流テーマ |
+| AUM スケール | 合併を踏まえ最上位層 | デベロッパースポンサーのスケールを踏まえ最上位層 | 銘柄により中〜大 |
+| 外国投資家アピール | 総合型の日本不動産プロキシ | ベンチマーク日本オフィス | ベンチマーク日本物流 |
 
-総合型と特化型の選択は、投資家の銘柄選択において根本的である。丸の内エクスポージャーを望む投資家は JRE を、物流テーマを望む投資家は GLP J-REIT または NPR を、広範な日本不動産を望む投資家は NMF を選ぶ。
+総合型 vs 純粋型の選択は投資家選択にとって根本的である：丸の内エクスポージャーを求める投資家は JRE を選び、物流テーマを求める投資家は GLP J-REIT または NPR を選び、広範な日本不動産を求める投資家は NMF を選ぶ。
 
 ## 6. J-REIT エコシステムにおける NMF の役割
 
 | 機能 | NMF の役割 |
 |---|---|
-| スポンサー資本循環 | Nomura Real Estate Holdings の安定化済み資産を上場市場の流動性へ循環させる |
-| 外国人投資家の入口 | グローバル運用枠に対し、単一銘柄で分散された日本不動産エクスポージャーを提供する |
-| 指数ウェイト | TSE REIT Index の最大級構成銘柄の一つとして、J-REIT 指数全体の動きに寄与する |
-| 債券市場発行 | J-REIT 投資法人債セグメントにおけるベンチマーク発行体 |
-| 総合型テンプレート | 他の複数資産クラス J-REIT（Orix JREIT、JMF など）の参照モデル |
+| スポンサー資本リサイクル | 野村不動産ホールディングスの安定化資産を上場市場の流動性にリサイクル |
+| 外国投資家エントリーポイント | グローバルマンデート向けに単一銘柄の総合型日本不動産エクスポージャーを提供 |
+| 指数ウェイト | 東証 REIT 指数の最大構成銘柄の 1 つであり、J-REIT 指数全体のダイナミクスに寄与 |
+| 債券市場発行 | J-REIT 投資法人債セグメントのベンチマーク発行体 |
+| 総合型テンプレート | 他のマルチアセットクラス J-REIT（オリックス JREIT、JMF など）の参照モデル |
 
-## 関連項目
+## 関連
 
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]]
@@ -120,8 +121,8 @@ FinWiki にとって、NMF は **総合型 J-REIT のテンプレート** であ
 
 ## 出典
 
-- NMF — 公式サイト https://www.nre-mf.co.jp/ および English IR。
-- Nomura Real Estate Holdings IR — https://www.nomura-re-hd.co.jp/english/
-- JPX — REIT Market English landing。
-- ARES — English landing。
-- FSA — 投資法人の枠組み。
+- NMF — 公式サイト https://www.nre-mf.co.jp/ および英語 IR。
+- 野村不動産ホールディングス IR — https://www.nomura-re-hd.co.jp/english/
+- JPX — REIT Market 英語ランディング。
+- ARES — 英語ランディング。
+- FSA — 投資法人フレームワーク。

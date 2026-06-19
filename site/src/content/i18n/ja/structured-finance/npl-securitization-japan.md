@@ -1,43 +1,44 @@
 ---
 source: structured-finance/npl-securitization-japan
-source_hash: 7a8317d8e81dd5bf
+source_hash: 5711fb9d151e7534
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の NPL 証券化 — 1997 後サイクル、RCC、ディストレスト債務買い手"
-translated_at: 2026-06-03T00:53:08.357Z
+title: "日本における不良債権（NPL）の証券化 — 1997 後のサイクル、RCC、ディストレスト債権バイヤー"
+translated_at: 2026-06-19T13:13:22.645Z
 ---
-# 日本の NPL 証券化 — 1997 後サイクル、RCC、ディストレスト債務買い手
 
-## 要約
+# 日本における不良債権（NPL）の証券化 — 1997 後のサイクル、RCC、ディストレスト債権バイヤー
 
-日本の NPL（不良債権）証券化は、1997 後の銀行危機によって生じた巨額の不良債権の滞留を処理する構造的メカニズムだった。破綻銀行は問題債権を**整理回収機構（[[financial-regulators/rcc|RCC]]）**へ移転し、RCC は債権プールを（多くは[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]]証券化を通じて）少数の海外ディストレスト債務買い手、すなわち **Cerberus、Lone Star、Goldman Sachs、Apollo** と複数の小規模専門業者へ売却した。これらの買い手は、1990年代後半から2000年代半ばにかけて、日本で大規模なディストレスト債務フランチャイズを構築した。構造は、NPL プール → SPV → シニアトランチをレバレッジ投資家へ販売し、ジュニアトランチ / エクイティをディストレスト債務スポンサーがリターンエンジンとして保有する、というものだった。2005 後、銀行再編が終わり NPL 比率が約1%へ低下すると、案件フローは崩壊した。2020 後には小規模事業者の COVID 関連ストレスと地域銀行再編から控えめな新サイクルが生じたが、その規模は1997 後の波の一部にすぎない。この時代は、日本のディストレスト債務サービサーと東京の法律 / アドバイザー・エコシステムという恒久的なインフラを残した。
+## TL;DR
 
-## ウィキ上の位置づけ
+日本における不良債権（NPL）の証券化は、1997 後の銀行危機の巨大な不良債権の積み残しを処理した構造的メカニズムであった: 破綻しつつある銀行は問題債権を **整理回収機構（[[financial-regulators/rcc|RCC]]）** へ移転し、同機構はその後、債権プールを（しばしば [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 証券化を経由して）少数の外国ディストレスト債権バイヤー — **Cerberus、Lone Star、Goldman Sachs、Apollo** に加えていくつかのより小規模な専門業者 — に売却し、それらが 1990年代後半から 2000年代半ばにかけて大規模な日本ディストレスト債権フランチャイズを構築した。その構造: NPLプール → SPV → シニアトランシェをレバレッジ投資家に売却、ジュニアトランシェ / エクイティはリターンエンジンとしてディストレスト債権スポンサーが保有。2005 以降、銀行がリストラクチャリングを完了しNPL比率が約 1%へと低下するなかでディールフローは崩壊した。2020 以降、小企業のコロナ関連ディストレスおよび地方銀行のリストラクチャリングから控えめな新サイクルが現れたが、その規模は 1997 後の波のごく一部である。この時代は、日本のディストレスト債権サービサーと東京の法務 / アドバイザーエコシステムという恒久的なインフラを残した。
 
-この項目は[[structured-finance/INDEX|structured-finance index]]の下に置かれる、**ディストレストクレジット証券化**のノードである。正常債権の証券化市場は[[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、使われる法的構造は[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、格付上の取扱いは[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、不動産担保との重なりは[[real-estate-finance/INDEX|real-estate-finance index]]と照らして読む。システム枠組みは、より広い信用サイクル文脈の[[finance/INDEX|finance index]]、公的整理ビークルの[[financial-regulators/rcc|RCC]]である。
+## Wiki route
 
-## 1. 1997 後 NPL 危機 — セットアップ
+本項目は [[structured-finance/INDEX|structured-finance index]] の下に **ディストレスト・クレジット証券化** ノードとして位置する。正常債権の証券化市場については [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、用いられる法的構造については [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、格付けの取扱いについては [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、不動産担保との重複については [[real-estate-finance/INDEX|real-estate-finance index]] と対照して読むこと。システムフレーム: より広い信用サイクルの文脈については [[finance/INDEX|finance index]]、公的部門の整理ビークルについては [[financial-regulators/rcc|RCC]]。
 
-資産価格バブル崩壊（1989–1992）、その後の**1997 アジア金融危機**、北海道拓殖銀行、山一證券、さらに後の日本長期信用銀行 / 日本債券信用銀行の破綻により、巨額の NPL が積み上がった。
-- 日本の銀行全体の不良債権比率は、システム全体で約8–9%までピークアウトした
-- 大手7 都市銀行の NPL 残高は数十兆円規模だった
-- 国会は金融再生法（1998）を制定し、公的資金で銀行を資本注入した
-- 2002–2005 の「**竹中プラン**」は、銀行に対して定められた期間内に NPL 比率を半減させることを迫った
+## 1. Post-1997 NPL crisis — the setup
 
-この規模の NPL 処理には、1998 年時点の日本には存在しなかった市場インフラが必要だった。そのため、この期間に海外ディストレスト債務買い手、証券化弁護士、サービサーが日本拠点を構築する波が起きた。
+資産価格バブルの崩壊（1989–1992）に続く **1997 アジア金融危機** と、北海道拓殖銀行、山一證券、（後の）日本長期信用銀行 / 日本債券信用銀行の破綻が、巨大なNPLの積み残しを生んだ:
+- 日本の銀行全体の不良債権比率は約 8–9% でピークに達した（システム全体）
+- 大手 7 都市銀行のNPLストックは数十兆円規模であった
+- 国会は金融再生法（1998）を制定し、公的資金で銀行を再資本化した
+- 2002–2005 の「**竹中プラン**」は、銀行に対し定められた期間内にNPL比率を半減させることを強制した
 
-## 2. RCC の役割
+この規模でのNPL処分は、1998 の日本には存在しなかった市場インフラを必要とした — それゆえに、この時期に日本での事業を構築した外国ディストレスト債権バイヤー、証券化弁護士、サービサーの波が生じた。
 
-[[financial-regulators/rcc|RCC (Resolution and Collection Corporation)]]は、以下を担う公的資産管理会社として設立された。
-- 破綻金融機関から NPL を受け入れる
-- 健全銀行から NPL を購入する（特に2003+ の加速プログラム下）
-- 債権をオークション、直接売却、または証券化で処分する
-- 個別債務者に対して回収行為を行う
+## 2. RCC's role
 
-RCC のオークション手続きは、海外ディストレスト債務買い手にとって主要な「供給」チャネルだった。価格はしばしば額面に対して大幅なディスカウント（5–20%程度の場合もある）であり、これは (i) 担保品質、(ii) サービサーへのアクセス、(iii) 日本における法的執行タイミング（1998–2002 期の日本での商業不動産担保の競売は遅く不確実だった）を反映していた。
+[[financial-regulators/rcc|RCC (Resolution and Collection Corporation)]] は、以下を行う公的資産管理会社として設立された:
+- 破綻金融機関からNPLを受け取る
+- 健全な銀行からNPLを購入する（特に 2003+ の加速プログラムの下で）
+- 競売、相対売却、または証券化を通じて債権を処分する
+- 個別の債務者に対し回収行動を取る
 
-## 3. NPL プールの証券化構造
+RCCの競売プロセスは、外国ディストレスト債権バイヤーにとっての主要な「供給」チャネルであった。価格付けはしばしば額面に対する大幅なディスカウント（時に額面の 5–20%）であり、(i) 担保の質、(ii) サービサーのアクセス、(iii) 日本における法的執行のタイミング（1998–2002 における日本の商業用不動産担保の差押えは遅く不確実であった）を反映していた。
+
+## 3. Securitisation structure for NPL pools
 
 ```
 NPL pool (from RCC auction or
@@ -69,96 +70,95 @@ NPL pool (from RCC auction or
 +---------+ +-----------+
 ```
 
-レバレッジレイヤーは通常、投資銀行（Goldman、Lehman、Morgan Stanley、または日本のメガバンクが多い）によって中程度の LTV で提供され、元本を最初に回収した。エクイティレイヤーはスポンサーのリターンエンジンであり、担保回収がモデル化されたベースケースを上回れば、集中したアップサイドを得た。
+レバレッジ層は典型的に投資銀行（しばしばGoldman、Lehman、Morgan Stanley、または日本のメガバンク）が中程度のLTVで提供し、元本を最初に回収した; エクイティ層はスポンサーのリターンエンジンであり — 担保回収がモデル化されたベースケースを上回ればアップサイドが集中する。
 
-主な特徴は以下の通りである。
-- **シニアレバレッジ** = エクイティレイヤーの IRR を拡大するための金融
-- **エクイティ = 回収アップサイドをスポンサーに集中**
-- **サービサー = 独立専門業者**で、回収マンデートを持つ。スポンサーが過半保有することが多い
-- **プール構成** = 不動産担保付き商業ローン、無担保企業ローン、ときに消費者ローン
+主要な特徴:
+- **シニアレバレッジ** = エクイティ層のIRRを拡大するためのファイナンス
+- **エクイティ = スポンサーによる回収アップサイドの集中**
+- **サービサー = 独立した専門業者** であり回収マンデートを持ち、しばしばスポンサーが過半数を所有する
+- **プール構成** = 不動産担保付き商業ローン、無担保の事業者ローン、時に消費者ローン
 
-## 4. 海外ディストレスト債務買い手
+## 4. The foreign distressed-debt buyers
 
-少数の海外ディストレスト債務フランチャイズが支配的だった。
+少数の外国ディストレスト債権フランチャイズが支配した:
 
-| スポンサー | 日本でのビークル / ブランド | 戦略上の重点 |
+| Sponsor | Japan vehicle / brand | Strategy emphasis |
 |---|---|---|
-| **Cerberus** | Cerberus Japan、Aozora Bank 取得（旧 Nippon Credit Bank） | 銀行プラットフォーム戦略 + NPL プール |
-| **Lone Star** | Lone Star Japan、KKR Japan（後年） | 不動産担保付き NPL、直接資産ワークアウト |
-| **Goldman Sachs** | Goldman Sachs Realty Japan、principal-investments NPL デスク | 混合プール取得、レバレッジファイナンス |
-| **Apollo** | Apollo Japan principal investments | 選択的な大型プール取得 |
-| **Morgan Stanley** | MSREF（Morgan Stanley Real Estate Funds）Japan | 不動産担保に焦点 |
-| **その他** | Ripplewood 傘下の Shinsei Bank（後年）、小規模専門ファンド | 銀行プラットフォーム + プール取得 |
+| **Cerberus** | Cerberus Japan; Aozora Bank acquisition (former Nippon Credit Bank) | Bank-platform play + NPL pools |
+| **Lone Star** | Lone Star Japan; KKR Japan (later) | Real-estate-secured NPL, direct asset workout |
+| **Goldman Sachs** | Goldman Sachs Realty Japan; principal-investments NPL desks | Mixed-pool acquisitions, leverage finance |
+| **Apollo** | Apollo Japan principal investments | Selective large-pool acquisitions |
+| **Morgan Stanley** | MSREF (Morgan Stanley Real Estate Funds) Japan | Real-estate-collateral focus |
+| **Other** | Shinsei Bank under Ripplewood (later); smaller specialist funds | Bank-platform + pool acquisitions |
 
-これらのうち複数は、日本のディストレスト債務とストラクチャードクレジットのチームを構築し、初期 NPL 波の後も長く活動を続け、正常債権貸付、不動産エクイティ、J-REIT 組成へ移行した。
+これらのうちいくつかは、当初のNPLの波をはるかに過ぎても活動を続けた日本のディストレスト債権・ストラクチャードクレジットチームを構築し、正常クレジット融資、不動産エクイティ、J-REIT組成へと移行していった。
 
-## 5. サイクルの衰退（2005–2019）
+## 5. Decline of the cycle (2005–2019)
 
-2000年代半ばまでに、NPL の滞留は大幅に処理された。
-- システム全体の NPL 比率は約2%へ2006, 年までに、さらに約1%へ2010年代後半までに低下した
-- 竹中プランは概ね完了したとみなされた
-- RCC の案件フローは劇的に縮小した
-- 海外ディストレスト債務ファンドは、日本戦略を直接不動産エクイティ、J-REIT 上場前案件、正常債権の私募プレースメントへ移した
+2000年代半ばまでにNPLのバックログは実質的に処理されていた:
+- システム全体のNPL比率は 2006, までに約 2%へと低下し、その後 2010年代後半までに約 1%へと低下した
+- 竹中プランは実質的に完了したとみなされた
+- RCCのディールフローは劇的に縮小した
+- 外国ディストレスト債権ファンドは、日本戦略を直接の不動産エクイティ、J-REITのプレIPO、正常クレジットの私募へとシフトした
 
-構造的インフラ（サービサー、弁護士、税務専門家、[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]]ツール、ディストレスト債務評価スキル）は残り、2020まで大規模には到来しなかった次のサイクルを待つ形となった。
+構造的インフラ（サービサー、弁護士、税務専門家、[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] ツーリング、ディストレスト債権バリュエーションスキル）は残り、2020まで大規模には到来しなかった次のサイクルを待っていた。
 
-## 6. パンデミック後のミニサイクル（2020–現在）
+## 6. Post-pandemic mini-cycle (2020–present)
 
-COVID-19 は、特に以下の小規模事業者のキャッシュフローを混乱させた。
-- ホスピタリティ（ホテル、レストラン、旅館）
+コロナ 19 は、特に以下において小企業のキャッシュフローを混乱させた:
+- 宿泊（ホテル、レストラン、旅館）
 - 中小企業（SME）サービス
-- 地方小売 / 商業不動産
+- 地方の小売 / 商業用不動産
 
-日本政府の政策対応（[[policy-finance/INDEX|policy-finance]]ファシリティを[[financial-regulators/jbic|JBIC]]および JFC が提供したこと、ならびに商業銀行の返済猶予延長を含む）は、一部の他法域で見られたような即時の NPL 急増を防いだ。しかし以下は残った。
-- 2022–2024
-を通じて、弱含みの SME ローン残高が累積した
-- 地域銀行は問題債権を選択的に処分し始めた
-- ディストレスト債務買い手（戻ってきた海外勢と日本の専門業者の混合）は、選択的な取得を再開した
+日本政府の政策対応（[[financial-regulators/jbic|JBIC]] および日本政策金融公庫からの [[policy-finance/INDEX|policy-finance]] ファシリティ、加えて商業銀行融資の返済猶予の延長を含む）は、一部の他の管轄区域で見られたような即座のNPL急増を防いだ。しかしながら:
+- 業績の弱いSMEローンの残存ストックが 2022–2024
+を通じて蓄積した- 地方銀行は問題債権の選択的処分を開始した
+- ディストレスト債権バイヤー（回帰する外国の名前と日本の専門業者の混合）は選択的な取得を再開した
 
-規模は1997 後の波より大幅に小さい。数十兆円ではなく、一桁兆円規模のプールである。
+その規模は 1997 後の波よりも実質的に小さい — 数十兆円ではなく一桁兆円のプールである。
 
-## 7. メカニクス — 例示的な NPL 証券化
+## 7. Mechanics — illustrative NPL securitisation
 
-仮想プールの場合:
-- 額面: ¥100bn
-- 取得価格: ¥20bn（額面の20%）
-- シニアレバレッジ（取得価格に対する50% LTV）: ¥10bn
+仮想的なプールについて:
+- 額面価値: ¥100bn
+- 取得価格: ¥20bn（額面の 20%）
+- シニアレバレッジ（取得額に対する 50% LTV）: ¥10bn
 - スポンサーエクイティ: ¥10bn
-- モデル回収額: ¥30bn を3–4 年で回収
-- エクイティのモデル IRR: high-teens から low-20s%
+- モデル化された回収: ¥30bn を 3–4 年にわたって
+- モデル化されたエクイティIRR: 十代後半から 20代前半%
 
-実際の結果は、サービサーの有効性、担保再販環境、債務者の協力度に依存し、分散が大きい。
+実際の結果は、サービサーの有効性、担保の再販条件、債務者の協力に依存する — 高い分散。
 
-## 8. 正常債権 ABS との比較
+## 8. Comparison to performing-loan ABS
 
-| 次元 | 正常債権 ABS | NPL 証券化 |
+| Dimension | Performing-loan ABS | NPL securitisation |
 |---|---|---|
-| 裏付け | 自動車ローン、住宅ローン、設備 | デフォルト済み / リストラクチャリング済みローン |
-| キャッシュフロー | 予定償却 + 期限前返済 | ワークアウト、売却、再編による回収 |
-| 格付 | 投資適格シニアトランチ | 多くは無格付。スポンサー保有エクイティ |
-| 投資家層 | 銀行、生保、MMF | 専門ディストレストファンド + レバレッジ提供者 |
-| 期間 | 2–7 年 | 3–5 年の回収プロファイル |
-| 税務 | パススルー用の TK / GK 構造 | 同じ法的ビークルだが、キャピタルゲイン処理に重点 |
+| Underlying | Auto loans, mortgages, equipment | Defaulted / restructured loans |
+| Cash flow | Scheduled amortisation + prepayment | Recovery via workout, sale, restructuring |
+| Rating | Investment-grade senior tranches | Often unrated; sponsor-held equity |
+| Investor base | Banks, life insurers, MMFs | Specialist distressed funds + leverage providers |
+| Tenor | 2–7 years | 3–5 years recovery profile |
+| Tax | TK / GK structure for pass-through | Same legal vehicles but emphasis on capital-gain treatment |
 
-NPL 証券化は、標準的な格付 ABS というより、**レバレッジ効率のために証券化ビークルで包んだディストレストクレジット私募ファンド**である。
+NPLの証券化は、構造的には標準的な格付けABSというよりも、**レバレッジ効率のために証券化ビークルに包まれたディストレスト・クレジットのプライベートファンド** である。
 
-## 9. 反論・留意点
+## 9. Counterpoints
 
-- **「ディストレスト債務買い手は公的負担で過剰な価値を抜いた」** — [[financial-regulators/rcc|RCC]]プール売却の価格設定は当時から論争的だった。公的部門の価格設定が海外買い手に有利で、より多くの価値が日本側の帳簿に残るべきだったと批判する声もあった
-- **「NPL 定義の裁定」** — 日本の銀行は長年、厳格な規制上の NPL 定義を使うべきか、より緩い経済的定義を使うべきかを議論していた。公開される「NPL」残高は定義選択に敏感だった
-- **「サービサー品質が決定要因」** — NPL プールの IRR はサービサー品質により大きく変動した。1997 後サイクルの最高リターンの多くは、戦略のために構築または取得した強力なサービサープラットフォームを持つスポンサーに帰属した
-- **「税務主導のストラクチャリング」** — 一部の構造は経済的整合性より TK / GK の税効率を重視した。後に税務当局がルールを引き締め、一部 SPV 構造の魅力が低下した
-- **「パンデミック後のミニサイクルは想定より小さい」** — 相応の SME デフォルト波が期待されたにもかかわらず、政策的な返済猶予により NPL 比率は低く抑えられ、証券化に利用できる供給は限定された
+- **「ディストレスト債権バイヤーは公的負担で過剰な価値を抽出した」** — [[financial-regulators/rcc|RCC]] プール売却の価格付けは当時争点となった; 一部の批判者は、公的部門の価格付けが外国バイヤーに有利であり、より多くの価値が日本のブックに残されるべきだったと論じた
+- **「NPL定義のアービトラージ」** — 日本の銀行は長年、厳格な規制上のNPL定義を用いるか、より緩い経済的定義を用いるかを議論した; 公的な「NPL」ストックは定義の選択に敏感であった
+- **「サービサーの質が決定要因」** — NPLプールのIRRの結果はサービサーの質に基づき大きく異なった; 1997 後のサイクルの最良のリターンの多くは、最も強力なサービサープラットフォーム（しばしば当該戦略のために特別に構築または取得された）を持つスポンサーに帰した
+- **「税主導のストラクチャリング」** — 一部の構造は経済的整合性よりもTK / GKの税効率を重視した; 税務当局は後に、特定のSPV構造の魅力を低下させる形でルールを厳格化した
+- **「パンデミック後のミニサイクルは予想より小さい」** — 意味のあるSMEデフォルトの波への期待にもかかわらず、政策的な返済猶予がNPL比率を低く保ち、証券化に利用可能な供給を制限してきた
 
-## 10. 未解決の問い
+## 10. Open questions
 
-- [[financial-regulators/boj|BOJ]]の金利正常化が SME ローンのデフォルトを加速し、より実質的な新しい NPL サイクルを生むかどうか
-- 次のサイクルにおける[[financial-regulators/rcc|RCC]]の役割。主要な処分チャネルとして再稼働するのか、管理モードにとどまるのか
-- 2010年代および2020年代にかけて発展してきた日本国内のディストレスト債務ファンドが、次のサイクルで海外スポンサーを置き換えるかどうか
-- NPL 証券化と[[real-estate-finance/INDEX|real-estate-finance]]市場の相互作用。地方商業不動産ストレスは、NPL / CMBS の共同ワークアウトを生み得る
-- [[finance/japan-leveraged-buyout-economics|LBO]]関連の信用ストレスが、独立したディストレスト LBO サブマーケットを生むかどうか
+- [[financial-regulators/boj|BOJ]] の金利正常化がSMEローンのデフォルトを加速し、より実質的な新たなNPLサイクルを生むかどうか
+- 次のサイクルにおける [[financial-regulators/rcc|RCC]] の役割 — それが主要な処分チャネルとして再活性化されるか、管財モードにとどまるか
+- 日本国内のディストレスト債権ファンド（2010年代および 2020年代を通じて発展中）が次のサイクルで外国スポンサーを置き換えるかどうか
+- NPL証券化と [[real-estate-finance/INDEX|real-estate-finance]] 市場との相互作用 — 地方の商業用不動産ディストレスが共同のNPL / CMBSワークアウトを駆動し得る
+- [[finance/japan-leveraged-buyout-economics|LBO]] 関連の信用ストレスが、独自のディストレストLBOサブマーケットを生むかどうか
 
-## 関連項目
+## Related
 
 - [[structured-finance/INDEX|structured-finance index]]
 - [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
@@ -170,7 +170,7 @@ NPL 証券化は、標準的な格付 ABS というより、**レバレッジ効
 - [[financial-regulators/rcc|RCC]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 
-## 出典
+## Sources
 
 - RCC (Resolution and Collection Corporation) public disclosures
 - JSDA structured-finance statistics — https://www.jsda.or.jp/en/
@@ -180,5 +180,5 @@ NPL 証券化は、標準的な格付 ABS というより、**レバレッジ効
 
 ---
 
-> [!info] 校核状態
-> 信頼度: **おおむね高い**。1997 後の NPL サイクル、RCC の役割、主要な海外ディストレスト債務会社の関与は、学術文献および政策文献でよく記録されており、FSA、BOJ、RCC の高水準の公開開示もある。具体的な案件規模と IRR 結果はプール単位では開示されていないため、記述は当時議論されていた業界標準レンジから抽象化している。パンデミック後のミニサイクルはまだ形成途上であり、規模は方向感として記述している。
+> [!info] 校核状态
+> confidence: **likely**. The post-1997 NPL cycle, RCC role, and the involvement of major foreign distressed-debt firms are well-documented in academic and policy literature, with high-level public disclosures from FSA, BOJ, and RCC. Specific deal sizes and IRR outcomes are not disclosed at the pool level — descriptions are abstracted from industry-standard ranges discussed at the time. Post-pandemic mini-cycle is still emerging and scale is described in directional terms.

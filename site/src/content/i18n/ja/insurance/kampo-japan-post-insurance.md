@@ -1,118 +1,118 @@
 ---
 source: insurance/kampo-japan-post-insurance
-source_hash: a31a72c13056b722
+source_hash: e86e54ebc94b9594
 lang: ja
 status: machine
 fidelity: ok
-title: "かんぽ生命 / Japan Post Insurance"
-translated_at: 2026-06-02T14:01:20.937Z
+title: "かんぽ / 日本郵政保険"
+translated_at: 2026-06-19T06:09:18.026Z
 ---
 
-# かんぽ生命 / Japan Post Insurance
+# かんぽ / 日本郵政保険
 
-## 要約
+## TL;DR
 
-[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]] は、責任準備金と資産規模で見て日本最大級の生命保険バランスシートの一つである。郵便貯金時代の国営保険制度（郵便貯金 / 簡易保険 / "Kanpo"）を起源とし、現在は [[megabanks/japan-post-holdings|Japan Post Holdings (6178)]] グループ内の上場子会社であり、同グループは Japan Post Bank（7182）と Japan Post Co. も保有する。このフランチャイズは、他の [[insurance/japan-life-insurance-big-four|life big-four]] 保険会社にはない3本柱、すなわち Japan Post Co. の支店網との郵便局チャネル販売契約、民営化から承継したレガシー簡易保険（kanpo）の構造的に大きな保有契約ブック、低金利 / ゼロ金利後の時代に [[insurance/japan-life-insurance-alm-overview|the Japan life ALM]] の力学の下でALMを行う長期円負債バランスシートに支えられる。2019  の不適正募集問題（不適切な乗換、二重払い、郵便局販売網全体での適合性不備）は、近年の決定的なガバナンス事象であり、販売、監督、商品ミックスを作り替えた。FSA / MIC の業務改善命令、自主的な販売停止、その後の販売インフラ再構築により、バランスシート規模は大手民間相互会社と同等であり続ける一方、かんぽの 2019  後の軌道は 2019  前とは構造的に異なる。
+[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]] は、準備金および資産規模で日本最大級の生命保険バランスシートの一つであり、郵便貯金時代の国民的保険スキーム（郵便貯金 / 簡易保険 / 「かんぽ」）として始まり、現在は [[megabanks/japan-post-holdings|Japan Post Holdings (6178)]] グループ内の上場子会社である。同グループはゆうちょ銀行（7182）および日本郵便株式会社も保有する。このフランチャイズは、他のいかなる [[insurance/japan-life-insurance-big-four|life big-four]] 保険会社も共有しない 3 つの柱の上に成り立っている：日本郵便株式会社の支店ネットワークとの郵便チャネル販売契約、民営化から引き継いだ構造的に大きなレガシー簡易保険（かんぽ）契約の保有契約ブック、そして低金利 / ゼロ金利後の時代に [[insurance/japan-life-insurance-alm-overview|the Japan life ALM]] ダイナミクスのもとで ALM を運用する長期円建て負債バランスシートである。2019 不適正募集問題（postal sales force にわたる不適切な転換、二重請求、適合性の失敗）は、近年を規定するガバナンス事象であり、販売・監督・商品ミックスを再形成した。金融庁 / 総務省の業務改善命令、自主的な販売停止、そしてその後の販売インフラの再構築は、かんぽの 2019 以降の軌道が、バランスシート規模は依然として最大級の民間相互生命保険会社に匹敵するとはいえ、2019 以前の軌道とは構造的に異なるものになったことを意味する。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-このページは [[insurance/INDEX|insurance INDEX]] 配下に置き、[[insurance/japan-life-insurance-big-four|the Japan life big four]] と [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]] に対応する郵政生命保険側の項目である。資産負債問題は [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、会社形態の対比（かんぽは第一生命HDと同様に上場しているが、親会社かつ最終所有者は一部国との関係を持つJP Holdings）は [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]、主要資本指標は [[insurance/economic-value-based-solvency|economic-value-based solvency]] と [[insurance/esr-economic-value-solvency|ESR]]、郵便局チャネル上の位置づけは [[insurance/life-insurance-channel-mix|the life insurance channel mix]]、チャネル再構築は [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]]（post-2019 ）と併読する。エンティティのアンカーは [[life-insurers/kampo-life|Kampo Life / 7181]] と [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]] である。監督マップは [[financial-regulators/fsa|the FSA]] および総務省（MIC）の郵便事業監督を参照する。
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/japan-life-insurance-big-four|the Japan life big four]] および [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]] の郵便生命対応物である。資産負債問題については [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、法人形態の対比（かんぽは第一生命 HD のように上場しているが、親会社かつ最終的なオーナーは部分的に国に関連する JP ホールディングスである）については [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]、見出しとなる資本指標については [[insurance/economic-value-based-solvency|economic-value-based solvency]] と [[insurance/esr-economic-value-solvency|ESR]]、郵便チャネルの位置づけについては [[insurance/life-insurance-channel-mix|the life insurance channel mix]]、2019 以降のチャネル再構築については [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] と併せて読まれたい。エンティティのアンカーは [[life-insurers/kampo-life|Kampo Life / 7181]] と [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]] である。監督者マップについては [[financial-regulators/fsa|the FSA]] および総務省（MIC / 総務省）の郵便事業監督を参照されたい。
 
 ## アイデンティティとグループ構造
 
-かんぽ生命は、日本郵政の民営化前の簡易保険（kanpo）事業を法人として正式に承継した会社である。2007  の郵政民営化時に株式会社形態の生命保険会社として設立され、2015  に Japan Post Holdings および Japan Post Bank とともに東京証券取引所へ上場した。グループ階層は次の通りである。
+かんぽ生命は、日本郵政の民営化前の簡易保険（かんぽ）事業の正式な法人承継者であり、2007 の郵政民営化の際に株式会社形態の生命保険会社として設立され、2015 に日本郵政ホールディングスおよびゆうちょ銀行とともに東京証券取引所に上場した。グループ階層は以下の通り：
 
-- **[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]** — listed holding company; the Japanese government retains a strategic shareholding in the holdco.
-- **[[regional-banks/japan-post-bank|Japan Post Bank (7182)]]** — listed bank subsidiary.
-- **[[life-insurers/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — listed life-insurer subsidiary.
-- **Japan Post Co.** — unlisted postal-service operating subsidiary; runs the post-office branch network through which Kampo policies are distributed.
+- **[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]** — 上場持株会社；日本政府は持株会社に戦略的株式保有を維持している。
+- **[[regional-banks/japan-post-bank|Japan Post Bank (7182)]]** — 上場銀行子会社。
+- **[[life-insurers/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — 上場生命保険子会社。
+- **日本郵便株式会社** — 非上場の郵便サービス事業子会社；かんぽの契約が販売される郵便局支店ネットワークを運営する。
 
-3つの事業エンティティがすべて上場していること自体が異例である。持株会社とその事業子会社2社がそれぞれ上場しているため、かんぽは JP Holdings からの持株会社株主ガバナンス、自社上場による公開市場ガバナンス、JP Holdings レベルのグループ資本・グループ事業上の考慮を同時に負う。JP Holdings によるかんぽ / Japan Post Bank 株式の売却を含む資本アクションは、継続的な構造的オーバーハングである。
+3 つの事業会社すべてが上場していること自体が異例である：持株会社とその事業子会社のうち 2 社がすべて別々に上場しており、これはかんぽが JP ホールディングスからの持株会社株主ガバナンス、自社の上場による公開市場ガバナンス、そして JP ホールディングスレベルからのグループレベルの資本およびグループ事業上の考慮を負っていることを意味する。資本施策（JP ホールディングスによるかんぽ / ゆうちょ銀行株式の売却を含む）は継続中の構造的なオーバーハングである。
 
 ## バランスシートと規模
 
-かんぽの一般勘定資産は、最大手の [[insurance/japan-life-insurance-big-four|life big-four]] 相互会社と同じ規模帯にある。責任準備金と資産プロファイルは次の要素に支配される。
+かんぽの一般勘定資産は、最大級の [[insurance/japan-life-insurance-big-four|life big-four]] 相互会社と同じ規模帯に位置する。準備金および資産プロファイルは以下によって支配されている：
 
-- **[[JapanFG/japanese-government-bonds|JGBs]]** — 歴史的に総資産の非常に大きな割合を占めてきた。保守的な公的部門の出自と長期円負債ブックを反映する。保険会社が他資産クラスへ広げるにつれ、JGB配分比率は徐々に低下している。
-- **Domestic credit, foreign-currency bonds, equities, and alternatives** — diversification away from the JGB-dominant legacy.
-- **Hedged foreign-bond book** — the same ALM problem as the private big-four; see [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] for the framework.
-- **レガシーkanpoブロック** — 民営化前の簡易保険契約は別の管理枠組みで会計処理される（郵便貯金・簡易生命保険管理・郵便局ネットワーク支援機構との契約に基づき管理）。これは 2007  後の新かんぽブロックに重なる。
+- **[[JapanFG/japanese-government-bonds|JGBs]]** — 歴史的に総資産の非常に大きな割合を占め、保守的な公的セクターの遺産と長期円建て負債ブックを反映している；JGB の配分比率は、保険会社が他の資産クラスに拡大するにつれて徐々に低下してきた。
+- **国内信用、外貨建て債券、株式、オルタナティブ** — JGB が支配的なレガシーからの分散。
+- **ヘッジ済み外債ブック** — 民間ビッグフォーと同じ ALM 問題；そのフレームワークについては [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] 参照。
+- **レガシーかんぽブロック** — 民営化前の簡易保険契約は、別の管理フレームワークのもとで会計処理され（郵便貯金・簡易生命保険管理・郵便局ネットワーク支援機構との契約のもとで管理される）、2007 以降の新しいかんぽブロックに重なっている。
 
-レガシーkanpo + 新かんぽという二重構造が、かんぽのバランスシートを民間大手4社から区別する主要特徴である。資産クラス配分とALMは連結ベースで報告されるが、基礎にある負債構造には2つの異なる年代層がある。
+二重構造 — レガシーかんぽ + 新しいかんぽ — が、かんぽのバランスシートを民間ビッグフォーから区別する重要な特徴である。資産クラス配分と ALM は連結ベースで報告されるが、基礎となる負債構造には 2 つの異なるヴィンテージがある。
 
-## Distribution: postal channel
+## 販売：郵便チャネル
 
-販売面の決定的特徴は Japan Post Co. との郵便局チャネル契約である。かんぽ商品は、日本最大の物理的リテール網である約 20,000 局の郵便局ネットワークと、かんぽ直属の営業職員を通じて販売される。[[life-insurers/nippon-life|Nippon Life]] のニッセイ・レディモデルに相当する専属女性営業職員網はなく、郵便局窓口職員とかんぽ営業職員が支配的チャネルを形成する。
+規定的な販売の特徴は、日本郵便株式会社との郵便チャネル契約である — かんぽの契約は、約 20,000店舗の郵便局ネットワーク（日本最大の物理的小売フットプリント）および直接雇用のかんぽ販売スタッフを通じて販売される。[[life-insurers/nippon-life|Nippon Life]] の Nissay Lady モデルに相当する系列女性販売部隊はない；代わりに郵便局のカウンタースタッフとかんぽ販売スタッフが支配的なチャネルを形成する。
 
-その他のチャネル、すなわち銀行窓販、独立代理店、インターネット直販も存在するが、規模ははるかに小さい。郵便局チャネルへの依存は、競合が再現できない顧客基盤と物理ネットワーク到達力という構造的優位である一方、同じネットワークが不正を誘発する販売インセンティブ圧力を生んだため、2019  不祥事の源泉でもあった。
+その他のチャネル — バンカシュアランス、独立代理店、インターネット・ダイレクト — は存在するが、はるかに小規模である。郵便チャネルへの依存は、フランチャイズの構造的な優位性（どの競合も及ばない顧客基盤と物理的ネットワークのリーチ）であると同時に、2019 問題の源泉でもある（同じネットワークが不正行為を駆動した販売インセンティブ圧力を生み出した）。
 
-See [[insurance/bancassurance-economics-japan|the bancassurance economics Japan]] ページ and [[insurance/life-insurance-channel-mix|the life insurance channel mix]] for the broader channel context.
+[[insurance/bancassurance-economics-japan|the bancassurance economics Japan]] ページと、より広範なチャネルコンテキストについては [[insurance/life-insurance-channel-mix|the life insurance channel mix]] を参照されたい。
 
-## The 2019 fraudulent-sales scandal
+## 2019 不適正募集問題
 
-The 2019 不適正募集問題 / "improper-sales" scandal is the defining recent governance event:
+2019 不適正募集問題 / 「不適切販売」問題は、近年を規定するガバナンス事象である：
 
-- **何が起きたか。** 内外のレビューにより、郵便局チャネルで広範な不適正募集が明らかになった。既契約を解約して十分な適合性確認なしに再契約させる乗換不正、移行期間に旧新両契約の保険料を払わせる二重払い、高齢者・脆弱顧客への説明不足を含む適合性不備、かんぽ営業職員と郵便局窓口職員の双方によるインセンティブ主導の件数押し上げが含まれる。
-- **Scale.** Tens of thousands of policies were identified as potentially problematic in the initial investigation; the figure expanded over subsequent reviews.
-- **規制対応。** [[financial-regulators/fsa|FSA]] とMICは、かんぽおよびJapan Post Co.に業務改善命令を出した。積極的な営業勧誘の自主停止が続き、強化された統制の下で段階的に再開された。
-- **内部対応。** 営業体制再編、適合性管理の再構築、かんぽ、JP Holdings、Japan Post Co. の取締役会 / 経営陣変更、行為規律を強化した郵便局チャネル代理店契約の更新。
-- **Customer remediation.** A multi-year customer-contact and remediation program covering identified policies and an extended review universe.
-- **その後。** 2020  後の軌道は、2019  前の件数水準への復帰ではなく、緩やかな再構築である。不祥事直後には純新契約が大きく縮小し、保有契約ブックはレガシーブロックのランオフに近い力学の下で管理されてきた。
+- **何が起きたか。** 内部および外部のレビューにより、郵便チャネルにおける広範な不適切販売慣行が明るみに出た：転換の不正行為（既存契約を解約させてから適切な適合性評価なしに再発行する）、二重請求（移行期間中に顧客が旧契約と新契約の両方の保険料を支払う）、適合性の失敗（高齢者 / 脆弱な顧客への十分な説明なしの販売）、そしてかんぽ販売スタッフと郵便局カウンタースタッフの双方によるインセンティブ駆動のボリューム押し込み。
+- **規模。** 初期調査で数万件の契約が潜在的に問題ありと特定された；その数字はその後のレビューで拡大した。
+- **規制当局の対応。** [[financial-regulators/fsa|FSA]] および総務省は、かんぽおよび日本郵便株式会社に業務改善命令を発出した。能動的な販売勧誘の自主停止が続き、強化された統制のもとで段階的に再開された。
+- **内部対応。** 販売部隊の再編、適合性統制の再構築、かんぽ・JP ホールディングス・日本郵便株式会社における取締役会 / 経営陣の交代。強化された行動ガードレールを伴う郵便チャネル代理店契約の更新。
+- **顧客救済。** 特定された契約および拡張されたレビュー対象範囲をカバーする複数年にわたる顧客接触・救済プログラム。
+- **その後。** 2020 以降の軌道は、2019 以前のボリュームへの回帰ではなく、緩やかな再構築である。新規契約発行は問題発生直後の期間に大幅に縮小し、保有契約ブックはレガシーブロックにおいてランオフに近いダイナミクスのもとで管理されてきた。
 
-この不祥事は、FSA / MIC の命令およびかんぽ / JP Holdings のIR資料を通じて公開記録化されている。2019  前と 2019  後の「かんぽ戦略」の捉え方は、構造的に異なる期間として扱う。
+この問題は、金融庁 / 総務省の命令およびかんぽ / JP ホールディングスの IR 資料を通じて公的に文書化されている。あらゆる「かんぽ戦略」のフレーミングは、2019 以前と 2019 以降を構造的に異なる時期として扱うべきである。
 
-## ALM in the low-rate era
+## 低金利時代の ALM
 
-かんぽのALM問題は、概念的には民間大手4相互会社と同じである。長期円負債、構造的に低いJGB利回り、利回り確保のための外債投資、外債ブックのヘッジコスト、政策保有株式縮減に沿った株式配分低下である。かんぽを区別する特徴は次の通りである。
+かんぽの ALM 問題は、概念的には民間ビッグフォー相互会社のものと同じである：長期円建て負債、構造的に低い JGB 利回り、利回り追求のための外債リーチ、外債ブックにおけるヘッジコスト、より広範な株式持合い解消に沿った株式配分の削減。かんぽを区別する特徴は以下の通り：
 
-- **歴史的に高いJGB比率。** かんぽのレガシー配分は民間大手4社よりJGB寄りであり、公的部門の出自を反映する。分散は進んだが、出発点が異なる。
-- **海外生保関連会社フットプリントの小ささ。** Protective Life と TAL を持つ [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] と異なり、かんぽには同等の海外生保買収ポートフォリオがない。分散は主に事業側ではなく資産側で進んだ。
-- **二重上場下の資本ガバナンス。** かんぽの資本政策（ESR目標、株主配当、JP Holdings親株主の力学）は、自社の上場会社フレームワークとJP Holdingsグループの枠組みの双方により規律される。
-- **レガシーブロックのランオフ力学。** 民営化前のkanpoブロックは時間とともにランオフするため、新契約ブロックが補う必要がある。2019,  後の新契約発行は、不祥事前の軌道に比べて大きく減少している。
+- **歴史的に高い JGB シェア。** かんぽのレガシー配分の偏りは、その公的セクターの起源を反映し、民間ビッグフォーよりも JGB に偏っている；分散は進展したが、出発点が異なっていた。
+- **より小さい外国生命関連会社のフットプリント。** Protective Life と TAL を擁する [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] とは異なり、かんぽは同等の海外生命買収ポートフォリオを持たない。分散は事業サイドではなく主に資産サイドで行われてきた。
+- **二重上場下の資本ガバナンス。** かんぽの資本政策（ESR 目標、株主配当、JP ホールディングス親株主のダイナミクス）は、自社の上場会社フレームワークと JP ホールディングスのグループフレームワークの両方によってガバナンスされる。
+- **レガシーブロックのランオフ・ダイナミクス。** 民営化前のかんぽブロックは時間とともにランオフする；新規契約ブロックがそれを補わなければならない。2019, 以降の新規契約発行は、問題発生前の軌道と比べて大幅に減少している。
 
-ESRは [[insurance/economic-value-based-solvency|FSA economic-value-based solvency]] 制度の下で 2025  年4月以降に公表され、民間大手4社と同じ形式で示される。比率定義は [[insurance/esr-economic-value-solvency|ESR]] を参照する。
+ESR は、2025 年 4 月以降、民間ビッグフォーと同じ形式で [[insurance/economic-value-based-solvency|FSA economic-value-based solvency]] 制度のもとで公表される。比率の定義については [[insurance/esr-economic-value-solvency|ESR]] 参照。
 
-## 金融庁上の生命保険大手4社との比較
+## 金融庁生命ビッグフォーとの比較
 
-| 軸 | FSA life big-four | Kampo (Japan Post Insurance) |
+| 軸 | 金融庁生命ビッグフォー | かんぽ（日本郵政保険） |
 |---|---|---|
-| 会社形態 | Three mutuals + one listed holdco | 上場持株会社の上場子会社 (JP Holdings) |
-| Listed | One of four (Dai-ichi HD) | Yes (TSE Prime 7181) |
-| Ultimate ownership | Policyholders (mutuals) / shareholders (Dai-ichi HD) | JP Holdings (in turn part-government) |
-| 主要チャネル | Tied female sales force + diversified | 郵便局チャネル (Japan Post Co. branches) + Kampo sales staff |
-| Bancassurance vehicle | All four use bancassurance; Dai-ichi Frontier Life is dedicated | 限定的 |
-| Independent agency vehicle | Used; Neo First Life is Dai-ichi-dedicated | 限定的 |
-| 海外生命保険ポートフォリオ | All four have meaningful overseas books | 限定的 |
-| 資産 / 準備金規模 | 数十兆円規模 each | 数十兆円規模 |
-| JGB比率 | Substantial; trending lower with diversification | Historically higher; trending lower |
-| Capital rule | FSA ESR (economic-value) | FSA ESR (economic-value) |
-| 直近のガバナンス事象 | Various but no comparable systemic sales scandal | 2019 fraudulent-sales scandal |
-| 上場株主向けの文法 | Dai-ichi HD only | Yes (Kampo + JP Holdings) |
-| グループ / 持株会社資本との相互作用 | n/a (mutual three) / Dai-ichi HD listed only | Both Kampo and JP Holdings listed; group-capital and divestment-overhang considerations |
+| 法人形態 | 相互会社 3 社 + 上場持株会社 1 社 | 上場持株会社（JP ホールディングス）の上場子会社 |
+| 上場 | 4 社中 1 社（第一生命 HD） | あり（TSE プライム 7181） |
+| 最終的な所有 | 契約者（相互会社）/ 株主（第一生命 HD） | JP ホールディングス（さらに部分的に政府） |
+| 主たるチャネル | 系列女性販売部隊 + 分散 | 郵便チャネル（日本郵便株式会社支店）+ かんぽ販売スタッフ |
+| バンカシュアランス・ビークル | 4 社すべてがバンカシュアランスを利用；第一フロンティア生命は専用 | 限定的 |
+| 独立代理店ビークル | 利用；ネオファースト生命は第一専用 | 限定的 |
+| 海外生命ポートフォリオ | 4 社すべてが意味のある海外ブックを持つ | 限定的 |
+| 資産 / 準備金規模 | 各社数十兆円 | 数十兆円 |
+| JGB シェア | 相当；分散とともに低下傾向 | 歴史的に高い；低下傾向 |
+| 資本ルール | 金融庁 ESR（経済価値ベース） | 金融庁 ESR（経済価値ベース） |
+| 近年のガバナンス事象 | 様々だが、同等のシステミックな販売問題なし | 2019 不適正募集問題 |
+| 上場株主のグラマー | 第一生命 HD のみ | あり（かんぽ + JP ホールディングス） |
+| グループ / 持株会社の資本相互作用 | 該当なし（相互会社 3 社）/ 第一生命 HD のみ上場 | かんぽと JP ホールディングスの両方が上場；グループ資本および売却オーバーハングの考慮 |
 
-最も明確な分析上の位置づけは、かんぽが第一生命HDと並ぶ日本市場の「第5の上場生命保険バランスシート」であり、販売構造、不祥事で形作られた近年史、二重上場グループ資本の重なりが大きく異なる、というものである。
+最もクリーンな分析上の位置づけ：かんぽは、第一生命 HD と並ぶ、日本市場における 5 番目の上場生命保険バランスシートであり、まったく異なる販売アーキテクチャ、問題に形作られた近年の歴史、そして二重上場のグループ資本オーバーレイを持つ。
 
-## Decision use
+## 意思決定での活用
 
-Use this ページ when:
+このページを使うのは以下の場合：
 
-- かんぽ生命の年次報告書、IR資料、ESR開示を制度的文脈とともに読む場合。
-- Sizing the Japan life-insurance sector and including Kampo alongside the big-four mutuals plus Dai-ichi HD.
-- Analysing the postal-channel distribution model versus tied / bancassurance / agency models.
-- Tracing the structural consequences of the 2019 scandal — sales-force rebuild, suitability controls, run-off-adjacent dynamics on the new-policy book.
-- Modelling JP Holdings group capital allocation and the Kampo / Japan Post Bank divestment overhang.
-- Cross-referencing with [[life-insurers/kampo-life|the Kampo Life entity entry]] and [[megabanks/japan-post-holdings|JP Holdings]] for share-ownership and listing detail.
+- かんぽの年次報告書、IR 資料、または ESR 開示を、その制度的コンテキストを念頭に置いて読むとき。
+- 日本の生命保険セクターを規模算定し、ビッグフォー相互会社プラス第一生命 HD と並べてかんぽを含めるとき。
+- 郵便チャネルの販売モデルを、系列 / バンカシュアランス / 代理店モデルと比較分析するとき。
+- 2019 問題の構造的帰結 — 販売部隊の再構築、適合性統制、新規契約ブックのランオフに近いダイナミクス — をたどるとき。
+- JP ホールディングスのグループ資本配分と、かんぽ / ゆうちょ銀行の売却オーバーハングをモデル化するとき。
+- 株式所有および上場の詳細について [[life-insurers/kampo-life|the Kampo Life entity entry]] と [[megabanks/japan-post-holdings|JP Holdings]] とクロスリファレンスするとき。
 
-## Boundary cases / caveats
+## 境界事例 / 注意点
 
-- **Numbers are conceptual.** Asset / reserve / ESR figures are date-sensitive; consult Kampo IR materials for current readings.
-- **Legacy kanpo vs new Kampo.** The pre-privatization block has a different accounting / management framework. Don't conflate the two.
-- **郵便局チャネル代理店契約。** かんぽとJapan Post Co.の契約は更新対象となる商業契約であり、現在の形のチャネル構造が恒久的だと前提してはいけない。
-- **JP Holdingsの資本政策。** 親会社であるJP Holdingsは独自の資本・配当の力学を持つ。かんぽ / Japan Post Bank 株式の継続的な売却は一回限りではなく構造的特徴である。
-- **政府保有。** JP Holdingsに残る政府保有がガバナンス期待を形作る。かんぽは直接の国有会社ではないが、保有連鎖は国家持分へ戻る。
-- **Pre-2019 vs post-2019.** Treat the scandal as a structural break. Trend extrapolation across the break is misleading.
+- **数字は概念的。** 資産 / 準備金 / ESR の数字は日付に敏感である；現在の値についてはかんぽ IR 資料を参照されたい。
+- **レガシーかんぽ vs 新しいかんぽ。** 民営化前のブロックは異なる会計 / 管理フレームワークを持つ。両者を混同してはならない。
+- **郵便チャネル代理店契約。** かんぽと日本郵便株式会社の間の契約は、更新の対象となる商業契約である；構造的なチャネルロジックが現在の形で恒久的であると想定すべきではない。
+- **JP ホールディングスの資本政策。** JP ホールディングス（親会社）は独自の資本および配当のダイナミクスを持ち、かんぽ / ゆうちょ銀行株式の継続的な売却は一回限りではなく構造的な特徴である。
+- **政府の所有。** JP ホールディングスにおける残余の政府保有がガバナンスへの期待を形作る；かんぽは直接国有ではないが、連鎖は国の保有に遡る。
+- **2019 以前 vs 2019以降。** 問題を構造的な断絶として扱われたい。断絶をまたぐトレンド外挿は誤解を招く。
 
-## 関連項目
+## 関連
 
 - [[insurance/INDEX]]
 - [[insurance/japan-life-insurance-big-four]]
@@ -131,13 +131,13 @@ Use this ページ when:
 - [[megabanks/nippon-post]]
 - [[financial-licenses/insurance-license-and-solvency]]
 - [[financial-regulators/fsa]]
-- MIC (Ministry of Internal Affairs and Communications)
+- 総務省（Ministry of Internal Affairs and Communications）
 - [[INDEX|FinWiki index]]
 
 ## 出典
 
-- Kampo Life (Japan Post Insurance): official site and IR / annual report.
-- Japan Post Holdings: group disclosure and shareholder materials.
-- FSA: business-improvement order documents (December 2019) and economic-value-based solvency hub.
-- MIC: postal-business supervision materials.
-- Japan Post Co.: postal-channel agency disclosure.
+- かんぽ生命（日本郵政保険）：公式サイトおよび IR / 年次報告書。
+- 日本郵政ホールディングス：グループ開示および株主資料。
+- 金融庁：業務改善命令文書（2019年 12 月）および経済価値ベースのソルベンシー・ハブ。
+- 総務省：郵便事業監督資料。
+- 日本郵便株式会社：郵便チャネル代理店開示。

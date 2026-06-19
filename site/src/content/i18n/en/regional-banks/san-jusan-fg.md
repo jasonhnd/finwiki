@@ -1,52 +1,117 @@
 ---
 source: regional-banks/san-jusan-fg
-source_hash: 5d8e15ebc6f7d703
+source_hash: 6644ba58ca09ac35
 lang: en
 status: machine
 fidelity: ok
 title: "San ju San Financial Group"
-translated_at: 2026-06-01T00:41:50.409Z
+translated_at: 2026-06-19T12:43:19.881Z
 ---
+
 # San ju San Financial Group
 
 ## Wiki route
 
-This translated worker file keeps the JapanFG source route intact. The protected anchors below preserve source links, dates, figures, markers, and numbered headings for later unmasking.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-San ju San Financial Group is treated here as a regional-bank holding company formed around the San ju San Bank group. The page scope is holding-company structure, segment map, regulatory and policy issues, and open questions. This translation keeps to the public-source boundary of the original entry and does not add new factual claims beyond the protected source material.
+A regional bank FG rooted in Mie Prefecture. Established through the **2018-04-02 management integration of Mie Bank + Daisan Bank**, with **2021-05-01 merger of the two banks → birth of San ju San Bank**. The name "San ju San" (Thirty-three) is a double meaning taking the "san" (three) from both banks — "**san (mie / Mie) + san (third / Daisan)**" (English name: San ju San = 33). Located on the Kansai-leaning boundary of the Chukyo economic zone, competing with the in-prefecture No.1  [[regional-banks/hyakugo-bank]] (Hyakugo Bank). ^[extracted]
 
-## Boundary map
+## 1. Company overview
 
-| Item | Reading |
+**Legal name**: San ju San Financial Group, Inc. (株式会社三十三フィナンシャルグループ)
+**English name**: San ju San Financial Group, Inc.
+**Securities code**: TSE PRIME 7322
+**Established**: 2018-04-02 (established as a joint holding company through the management integration of Mie Bank + Daisan Bank)
+**Headquarters**: Yokkaichi City, Mie Prefecture
+**Main subsidiary**: San ju San Bank (established through the 2021-05-01 merger of Mie Bank + Daisan Bank) ^[extracted]
+
+### Main subsidiaries・affiliates
+
+```
+San ju San FG (holding company・TSE PRIME 7322)
+  ├── San ju San Bank (100%) ── core subsidiary bank, established through the 2021-05-01 merger
+  │     ├── operating base within Mie Prefecture (Yokkaichi・Tsu・Matsusaka・Ise)
+  │     └── lending toward the Nagoya area・Chukyo economic zone
+  └── group companies (leasing・cards・consulting, etc.)
+```
+
+### Former Daisan Bank lineage
+
+- **1895**: 112th National Bank established (origin of the former Daisan Bank)
+- Became a regional financial institution as **Daisan Bank** through postwar reorganization
+- Based in the southern part of Mie Prefecture (Matsusaka・Ise)
+
+### Former Mie Bank lineage
+
+- **1928**: Mie Bank established (integration of the former Yokkaichi Bank + Kuwana Bank, etc.)
+- Based in the industrial belt of the northern part of Mie Prefecture (Yokkaichi・Kuwana)
+- Transaction base with companies related to the Yokkaichi industrial complex
+
+### Integration
+
+- **2018-04-02**: Mie Bank + Daisan Bank → San ju San FG established (joint holding company method) ^[extracted]
+- **2021-05-01**: Mie Bank + Daisan Bank → **San ju San Bank** merger (subsidiary-bank integration completed)
+- **2024**: medium-term management plan formulated
+
+## 3. Business segment map
+
+| Segment | Characteristics |
 |---|---|
-| Entity | San ju San Financial Group |
-| Functional role | a regional-bank holding company formed around the San ju San Bank group |
-| Translation boundary | Preserve the original public-source anchors and avoid expanding beyond the source file. |
+| In-prefecture corporates | Mie Prefecture SMEs・local industries (fisheries・tourism・industry) |
+| Chukyo-area corporates | lending spillover into the Nagoya-area (Aichi Prefecture) economy |
+| Individuals | personal deposits・mortgages within Mie Prefecture |
+| Tourism-related | Ise Grand Shrine pilgrims + related inns・retail |
+| Industry | related to the Yokkaichi industrial complex (petrochemicals) |
+| Fisheries | fishing・seafood processing in Ise Bay・the Kumano Sea |
 
-## Business role
+### Geographic position
 
-- Identifies the entity's position within Japan's financial system.
-- Separates the operating company, holding company, license route, group perimeter, and peer set where relevant.
-- Keeps historical, regulatory, product, and strategy references tied to the protected source anchors.
+- **Mie Prefecture base**: a unique position located on the **Kansai-leaning boundary** of the Chukyo economic zone
+- **Dual nature**: economic-zone spillover from the Nagoya area (Chukyo) + cultural proximity to the Kansai region
+- **Boundary regional-bank position**: the middle ground between Chukyo (Aichi Prefecture regional banks) vs Kansai (Kinki-affiliated)
 
-## Peer / contrast
+### Industrial base
 
-Read this entry together with the related banks, insurers, leasing companies, asset managers, cooperatives, policy bodies, and group pages represented by the protected anchors below.
+- **Tourism**: Ise Grand Shrine (annual pilgrims ~1000 万 people) + Toba・Shima resorts
+- **Fisheries**: local industries such as Ise lobster・pearl cultivation
+- **Industry**: Yokkaichi industrial complex (petrochemicals・electronic components)
 
-## Protected source anchors
+### Integration effects
 
-- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] [[banking/INDEX|banking index]] 2018-04-02 2021-05-01 33 1  [[regional-banks/hyakugo-bank]] ^[extracted] 1 7322
- 2018-04-02 2021-05-01 ^[extracted] 7322 100% 2021-05-01 1895
-- 1928 2018-04-02 ^[extracted] 2021-05-01 2024 3 1000 万 5 52  17
- 2024 7 [[regional-banks/juroku-fg]] 2024  [[regional-banks/hyakugo-bank]] 1  [[regional-banks/juroku-fg]] [[megabanks/mufg]]
-- 2026-05-19 2026-05-19 1.0  2026-05-19
+- **Branch-network overlap consolidation**: consolidation of overlapping branches of Mie Bank + Daisan Bank
+- **System integration**: standardization of core systems・branch operating systems
 
-## Related
+## 5. Regulation・policy
 
-- Related entries, dates, figures, source markers, and section numbers are preserved in the protected source anchors.
+- **Supervisor**: Financial Services Agency (FSA) + Tokai Local Finance Bureau
+- **Holding-company regulation**: Banking Act Article 52 -17
+- **Recent policy issues**:
+  - 2024~ BoJ policy-rate normalization → regional-bank earnings-margin improvement bonus
+  - regional-bank reorganization pressure under regional revitalization・population decline
+  - strategic choice of the boundary position between the Chukyo zone vs the Kansai region
 
-## Sources
+## 7. Open questions
 
-- Public company, regulator, industry-association, IR, disclosure, and source materials are those represented by the original entry and the protected anchors above.
+- Is the in-prefecture share gap with Hyakugo Bank on a narrowing trend?
+- What is the speed of lending expansion into the Nagoya area (Aichi Prefecture)?
+- The direction of competition・cooperation with the Chukyo zone ([[regional-banks/juroku-fg]] / Ogaki Kyoritsu, etc.)?
+- What is the digital strategy in the next medium-term plan (from 2024  onward)?
+- The possibility of wide-area cooperation with Kansai-region regional banks?
+
+### Related
+
+- [[regional-banks/hyakugo-bank]] (Hyakugo Bank, in-prefecture No.1  competitor in Mie)
+- [[regional-banks/juroku-fg]] (Juroku FG, Chukyo-zone adjacent competitor)
+- [[megabanks/mufg]] (Chukyo-based megabank of the former Tokai Bank lineage)
+
+### Sources
+
+- **Wikipedia: 三十三フィナンシャルグループ** (https://ja.wikipedia.org/wiki/三十三フィナンシャルグループ, extracted 2026-05-19)
+- **Wikipedia: 三十三銀行** (https://ja.wikipedia.org/wiki/三十三銀行, extracted 2026-05-19)
+
+---
+
+> [!info] 検証状況
+> confidence: **likely** (v1.0  based on Wikipedia public information, 2026-05-19). History・organizational structure confirmed via Wikipedia; specific financial figures not published. For the latest medium-term plan・financial results, refer to San ju San FG official IR.

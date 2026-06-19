@@ -1,12 +1,13 @@
 ---
 source: leasing-firms/mizuho-lease
-source_hash: 92652b6ea356ad2c
+source_hash: 8e52cee4aa69413c
 lang: en
 status: machine
 fidelity: ok
 title: "Mizuho Leasing"
-translated_at: 2026-05-31T23:59:49.369Z
+translated_at: 2026-06-19T06:09:18.068Z
 ---
+
 # Mizuho Leasing
 
 ## Wiki route
@@ -15,7 +16,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-Mizuho Leasing is the listed leasing platform most closely associated with **[[megabanks/mizuho-fg|Mizuho FG]]** and, after the 2024  capital relationship expansion, **Marubeni**. It sits in the non-bank asset-finance layer between bank lending, trading-company project development, and corporate equipment / real-estate / aircraft / overseas leasing.
+Mizuho Leasing is the listed leasing platform most closely associated with **[[megabanks/mizuho-fg|Mizuho FG]]** and, after the 2024 capital relationship expansion, **Marubeni**. It sits in the non-bank asset-finance layer between bank lending, trading-company project development, and corporate equipment / real-estate / aircraft / overseas leasing.
 
 For JapanFG analysis, it is a control page for **Mizuho's leasing exposure outside ordinary bank lending**.
 

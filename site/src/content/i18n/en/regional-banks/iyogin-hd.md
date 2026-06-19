@@ -1,98 +1,100 @@
 ---
 source: regional-banks/iyogin-hd
-source_hash: 9db5d5d7cdcb80e5
+source_hash: 7f7a1b40d645db30
 lang: en
 status: machine
 fidelity: ok
-title: "Iyogin Holdings"
-translated_at: 2026-05-31T15:29:03.926Z
+title: "Iyogin HD (Iyogin Holdings)"
+translated_at: 2026-06-19T12:43:19.983Z
 ---
 
-# Iyogin Holdings
+# Iyogin HD (Iyogin Holdings)
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/iyo-bank|Iyo Bank]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Iyogin Holdings is one of Shikoku's largest regional banking groups, anchored in Ehime Prefecture. It became a holding company on 2022-10-03 through a sole-share-transfer by Iyo Bank and is listed on TSE PRIME 5830. Its core subsidiary, **[[regional-banks/iyo-bank|Iyo Bank]]**, was founded in 1878 in Matsuyama as the Twenty-Ninth National Bank and is among Shikoku's oldest banks, with the leading share in Ehime. A defining portfolio feature is lending to the maritime and shipbuilding cluster centered on Imabari Shipbuilding. Across Shikoku, it competes with [[regional-banks/tomony-hd]] in Tokushima / Kagawa, [[regional-banks/hyakujushi-bank|Hyakujushi Bank]] in Kagawa, and [[regional-banks/shikoku-bank|Shikoku Bank]] in Kochi.
+One of Shikoku's largest regional bank groups, based in Ehime Prefecture. It became a holding company through a sole share transfer by 2022-10-03 Iyo Bank, and is listed on TSE PRIME 5830 . Its core subsidiary, **[[regional-banks/iyo-bank|伊予銀行]]**, was established in 1878 年 as the "29th National Bank" (Matsuyama) and is one of the oldest banks in Shikoku, holding the No.1 share within Ehime Prefecture. It is characterized by **lending to the shipping and shipbuilding cluster** centered on Imabari Shipbuilding. Across Shikoku's 4  prefectures it competes with [[regional-banks/tomony-hd]] (Tokushima / Kagawa), [[regional-banks/hyakujushi-bank|百十四銀]] (Kagawa), and [[regional-banks/shikoku-bank|四国銀]] (Kochi).
 
-## 1. Company overview
+## 1. Company profile
 
-**Legal name**: Iyogin Holdings, Inc.
-**英名**:Iyogin Holdings, Inc.
-**Ticker**: TSE PRIME 5830 (listed 2022-10-03)
-**Established**: 2022-10-03 through Iyo Bank sole-share-transfer
-**Head office**: Minamihoribata-cho 1, Matsuyama, Ehime Prefecture
-**Governance design**: Company with audit and supervisory committee
+**Legal name**: Iyogin Holdings, Inc. (株式会社いよぎんホールディングス)
+**English name**: Iyogin Holdings, Inc.
+**Securities code**: TSE PRIME 5830  (listed 2022-10-03)
+**Established**: 2022-10-03 (sole share transfer by Iyo Bank)
+**Head office**: 1  Minamihoribata-cho, Matsuyama City, Ehime Prefecture
+**Governance design**: Company with an audit and supervisory committee
 
-### Major subsidiaries based on public information
+### Main subsidiaries (public information)
 
 ```
-Iyogin Holdings (listed holding company, 5830)
-  +-- Iyo Bank, Ltd. (100%) -- [[regional-banks/iyo-bank]] / core subsidiary with leading Ehime share
-  +-- Iyogin Leasing
-  +-- Iyogin Business Service
-  +-- Iyogin Computer Service
-  +-- Iyogin DC Card
-  +-- Iyogin Regional Economy Research Center (IRC)
-  +-- Iyogin Capital
+Iyogin HD (holding company, listed 5830)
+  ├── Iyo Bank, Ltd. (100%) ── [[regional-banks/iyo-bank]] / core subsidiary, No.1
+   share in Ehime Prefecture
+  ├── Iyogin Lease
+  ├── Iyogin Business Service
+  ├── Iyogin Computer Service
+  ├── Iyogin DC Card
+  ├── Iyogin Regional Economy Research Center (IRC)
+  └── Iyogin Capital
 ```
 
 ## 2. History
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1878 | **Twenty-Ninth National Bank** founded in Matsuyama under the National Bank Act; one of Shikoku's oldest banks. |
-| 1895 | Reorganized as a private bank and renamed Twenty-Ninth Bank. |
-| 1941 | Renamed **Iyo Bank** through wartime consolidation of regional banks in Ehime Prefecture. |
-| 1949 | 東京証券取引所 上場 |
-| 2022-10-03 | **Iyogin Holdings established** through a sole-share-transfer that made Iyo Bank a wholly owned subsidiary. |
-| 2024 onward | Medium-term management plan begins. |
+| 1878  | **29th National Bank** (Matsuyama) established — under the National Bank Act, one of the oldest in Shikoku |
+| 1895  | Reorganized into a private bank → "29th Bank" |
+| 1941  | Renamed **Iyo Bank** through wartime consolidation (consolidation of regional banks in Ehime Prefecture) |
+| 1949  | Listed on the Tokyo Stock Exchange |
+| 2022-10-03 | **Iyogin HD established** (sole share transfer, making Iyo Bank a wholly owned subsidiary) |
+| 2024~ | Medium-term management plan launched |
 
 ## 3. Business segment map
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
-| Commercial banking | [[regional-banks/iyo-bank|Iyo Bank]] | Dominant Ehime share and coverage across Shikoku. |
-| Maritime / shipbuilding finance | [[regional-banks/iyo-bank|Iyo Bank]] corporate division | Lending to Imabari Shipbuilding group and the broader maritime cluster. |
-| Leasing | Iyogin Leasing | Corporate equipment-investment finance. |
-| Cards | Iyogin DC Card | Retail payments. |
-| Think tank | Iyogin Regional Economy Research Center (IRC) | Ehime and Shikoku economic research. |
-| Venture capital | Iyogin Capital | Regional venture investment. |
-| Digital banking | Iyogin Net and Iyogin app | Retail digital banking. |
+| Commercial banking | [[regional-banks/iyo-bank|伊予銀行]] | Overwhelming share within Ehime Prefecture, Shikoku-wide expansion |
+| Shipping / shipbuilding finance | [[regional-banks/iyo-bank|伊予銀行]] corporate division | Lending to the **Imabari Shipbuilding Group** and others, maritime cluster finance |
+| Leasing | Iyogin Lease | Corporate capital-investment finance |
+| Cards | Iyogin DC Card | Retail payments |
+| Think tank | Iyogin Regional Economy Research Center (IRC) | Ehime / Shikoku economic research |
+| Venture | Iyogin Capital | Regional venture investment |
+| Digital | Iyogin Net / Iyogin App | Retail digital banking for individuals |
 
-### Regional foundation
+### Regional base
 
-- **Ehime base**: Ehime has roughly 1.3 million people and is the largest prefecture in Shikoku. The bank serves local industries central to prefectural GDP, including maritime / shipbuilding, agriculture such as citrus, and paper manufacturing.
-- **Maritime cluster**: Imabari is one of the world's major shipbuilding and shipping clusters. Lending to Imabari Shipbuilding group and related borrowers is a distinctive Iyo Bank portfolio feature.
-- **Broad Shikoku footprint**: The branch network extends beyond Ehime into Kagawa, Tokushima, Kochi, Osaka, Tokyo, Hiroshima, and other markets.
+- **Ehime Prefecture base**: population approx. 130 万, the largest of Shikoku's 4  prefectures. Its customer base comprises local industries that form the core of the prefecture's GDP, such as shipping, shipbuilding, agriculture (citrus), and paper manufacturing (Daio Paper).
+- **Maritime cluster**: Imabari City is one of the world's leading concentrations of shipbuilding and shipping. Lending to the Imabari Shipbuilding Group and others is a distinctive part of Iyo Bank's portfolio.
+- **Shikoku-wide expansion**: It also operates branches outside Ehime Prefecture, in Kagawa, Tokushima, Kochi, Osaka, Tokyo, and Hiroshima.
 
 ### Digital strategy
 
-- Retail digitalization through Iyogin Card, Iyogin Net, and the Iyogin app.
-- Corporate API banking and regional DX support.
+- Retail digitalization such as "**Iyogin Card**," "**Iyogin Net**," and "Iyogin App"
+- API banking for corporations and regional DX support
 
-### Competitive map across Shikoku
+### Competitive map (Shikoku's 4  prefectures)
 
-| Prefecture | Major regional banks | Holding-company status |
+| Prefecture | Main regional bank | Holding company |
 |---|---|---|
-| Ehime | **[[regional-banks/iyo-bank|Iyo Bank]]** / [[regional-banks/ehime-bank|Ehime Bank]] | **Iyogin Holdings** / standalone second-tier regional bank |
-| 徳島 | [[regional-banks/awa-bank|阿波銀行]] / [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] | standalone / [[regional-banks/tomony-hd]] |
-| 香川 | [[regional-banks/hyakujushi-bank|百十四銀行]] / [[regional-banks/kagawa-bank|香川銀行]] | standalone / [[regional-banks/tomony-hd]] |
-| 高知 | [[regional-banks/shikoku-bank|四国銀行]] / [[regional-banks/kochi-bank|高知銀行]] | standalone / standalone |
+| Ehime | **[[regional-banks/iyo-bank|伊予銀行]]** / [[regional-banks/ehime-bank|愛媛銀行]] | **Iyogin HD** / standalone second-regional |
+| Tokushima | [[regional-banks/awa-bank|阿波銀行]] / [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| Kagawa | [[regional-banks/hyakujushi-bank|百十四銀行]] / [[regional-banks/kagawa-bank|香川銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| Kochi | [[regional-banks/shikoku-bank|四国銀行]] / [[regional-banks/kochi-bank|高知銀行]] | standalone / standalone |
 
-Shikoku regional-bank consolidation has advanced in other prefectures, including [[regional-banks/tomony-hd]] in Kagawa and Tokushima, but Iyo Bank chose an independent holding-company route.
+Shikoku regional-bank realignment is progressing in other prefectures ([[regional-banks/tomony-hd]] = Tomony Holdings is an alliance of Kagawa and Tokushima), but Iyo Bank chose an independent path by becoming a standalone HD.
 
-## 5. Regulation and policy
+## 5. Regulation / policy
 
-- **Supervisor**: Financial Services Agency (FSA) and Shikoku Local Finance Bureau.
-- **Bank holding-company rule**: Banking Act Article 52-17.
-- **G-SIB status**: Not applicable; regional bank group.
-- **直近政策論点**:
-  - 2024 onward: Bank of Japan policy-rate normalization, improving domestic loan-deposit spreads.
-  - 2024 onward: regional-bank consolidation and integration policy under FSA regional-finance policy.
+- **Supervisor**: Financial Services Agency (FSA) / Shikoku Local Finance Bureau
+- **Holding-company regulation**: Banking Act Article 52 -17
+
+- **G-SIB etc.**: Not applicable (regional bank)
+- **Recent policy topics**:
+  - 2024~ BOJ policy-rate normalization → bonus to domestic deposit-loan margins
+  - 2024~ regional-bank realignment / consolidation policy (FSA's regional financial institution policy)
 
 ## Related
 
@@ -100,12 +102,12 @@ Shikoku regional-bank consolidation has advanced in other prefectures, including
 
 ## Sources
 
-- **Wikipedia: Iyogin Holdings, Inc.** (public information)
-- **Wikipedia: Iyo Bank, Ltd.** (public information)
-- Iyogin Holdings official IR (https://www.iyogin-hd.co.jp/ public site)
-- Iyo Bank official site (https://www.iyobank.co.jp/ public site)
+- **Wikipedia: 株式会社いよぎんホールディングス** (public information)
+- **Wikipedia: 株式会社伊予銀行** (public information)
+- Iyogin HD official IR (https://www.iyogin-hd.co.jp/ public)
+- Iyo Bank official site (https://www.iyobank.co.jp/ public)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (public Wikipedia + official IR basis, organized 2026-05-19). Specific financial figures such as total assets, net income, and branch count require the latest securities report or integrated report. This note focuses on structure, strategy, and history; quantitative figures are intentionally limited.
+> confidence: **likely** (based on public Wikipedia + official IR, organized 2026-05-19). Specific financial figures (total assets, net income, number of branches, etc.) should be checked against the latest securities report and integrated report. This note focuses on the framework of structure, strategy, and history; quantitative figures are intentionally omitted.

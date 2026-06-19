@@ -1,167 +1,167 @@
 ---
 source: regional-banks/chugin-okayama
-source_hash: 713e904ff29c3e15
+source_hash: cdd38392e973c3fb
 lang: en
 status: machine
 fidelity: ok
-title: "Chugin FG / Bank of China historical group page"
-translated_at: 2026-05-31T11:13:44.896Z
+title: "ちゅうぎん FG / Chugoku Bank historical group page"
+translated_at: 2026-06-19T12:43:19.866Z
 ---
 
-# Chugin FG / Bank of China historical group page
+# ちゅうぎん FG / Chugoku Bank historical group page
 
 ## Wiki route
 
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-##TL;DR
+## TL;DR
 
-This page is a regional bank group based in the eastern part of the Chugoku region, whose head office is located in Marunouchi, Okayama City, Okayama Prefecture. The current bank-license operating-company boundary is [[regional-banks/chugoku-bank|中国銀行]] This page will remain as a route for Chugin FG / historical strategy / Bank of China confusion-control.1930-12-21 Founded through the merger of Daiichi Godo Bank + Sanyo Bank, its origins are 1878 It dates back to the establishment of the **86th National Bank** (Takahashi). **2022-10-03 Through stock transfer, a new holding company, Chugin Financial Group, was established, and the bank was listed solely (formerly known as Chugin Financial Group). 8382) to FG Listing (TSE PRIME 5832) to **.2025-03 Consolidated net income**274 億円** (+ compared to the previous year28.2%, the highest level ever). **TSUBASA Alliance (Chiba Bank Hub/10 行)**Founding member and core bank for regional bank wide-area cooperation 1 Two.^[extracted]
+A regional-bank-group page for the eastern Chugoku region, with its head office in Marunouchi, Okayama City, Okayama Prefecture. The current bank-license operating-company boundary has been separated to [[regional-banks/chugoku-bank|中国銀行]], and this page remains as the route for ちゅうぎん FG / historical strategy / Bank of China confusion-control. It was established through the merger of 1930-12-21 Daiichi Godo Bank + Sanyo Bank, with origins tracing back to the **86th National Bank** (Takahashi) established in 1878 . **In 2022-10-03 it newly established the holding company "ちゅうぎんフィナンシャルグループ" via share transfer, shifting from a sole bank listing (former 8382) to an FG listing (TSE PRIME 5832).** 2025-03  fiscal-year consolidated net income was **274 億円** (YoY +28.2%, a record-high level). It is a founding member of the **TSUBASA Alliance (Chiba Bank hub・10 行)** and one of the 1  core banks of wide-area regional-bank cooperation. ^[extracted]
 
-## 1. Company Profile
+## 1. Company overview
 
-**Official name (holding company)**: Chugin Financial Group Co., Ltd. ^[extracted]
-**Official name (bank)**: Chugoku Bank, Ltd. ^[extracted]
-**Please**:Chugin Financial Group, Inc. / The Chugoku Bank, Limited ^[extracted]
-**Stock Code**: TSE PRIME **5832**（FG、2022-10-03 Listed) / Old **8382**(Bank of China alone,1987-12-01 Listed on the Tokyo Stock Exchange2022-10-03 Delisted due to becoming a holding company)^[extracted]
-**set up**:1930-12-21(Bank of China)/ 2022-10-03(Holding company Chugin FG, stock transfer)^[extracted]
-**Head office**: Marunouchi, Kita-ku, Okayama City, Okayama Prefecture 1-15-20（〒700-8628, bank head office and FG head office at the same location)^[extracted]
-**Capital Fund (FG)**:160 億円（2022-10-03 time)^[extracted]
+**Legal name (holding company)**: 株式会社ちゅうぎんフィナンシャルグループ ^[extracted]
+**Legal name (bank)**: 株式会社中国銀行 ^[extracted]
+**English name**: Chugin Financial Group, Inc. / The Chugoku Bank, Limited ^[extracted]
+**Securities code**: TSE PRIME **5832** (FG, listed 2022-10-03) / former **8382** (Chugoku Bank, sole, listed on the TSE 1987-12-01〜delisted 2022-10-03 due to holding-company conversion) ^[extracted]
+**Established**: 1930-12-21 (Chugoku Bank) / 2022-10-03 (holding company ちゅうぎん FG, share transfer) ^[extracted]
+**Head office**: Marunouchi 1-15-20, Kita-ku, Okayama City, Okayama Prefecture (〒700-8628, the bank head office and the FG headquarters at the same location) ^[extracted]
+**Capital (FG)**: 160 億円 (as of 2022-10-03) ^[extracted]
 
-### 2025-03 Financial results (consolidated/Chugin FG)^[extracted]
+### 2025-03  fiscal-year results (consolidated・ちゅうぎん FG) ^[extracted]
 
-| Item | Amount | Year-on-year comparison |
+| Item | Amount | YoY |
 |---|---|---|
-| Consolidated Ordinary Revenue | **2,117 億 34 百万円** | +14.6% |
-| Consolidated ordinary income | **383 億 8 百万円** | +22.8% |
-| Net income attributable to owners of parent company | **274 億 34 百万円** | +28.2% |
+| Consolidated ordinary income | **2,117 億 34 百万円** | +14.6% |
+| Consolidated ordinary profit | **383 億 8 百万円** | +22.8% |
+| Net income attributable to owners of the parent | **274 億 34 百万円** | +28.2% |
 
-> When Kato was appointed as president (2019-03 Consolidated net income for the fiscal year 119 億円At the time of the establishment of Chugin FG (2022-03 Expect)204 億円、2025-03 Expect 274 億円Grow to. Medium-term plan “Future Co-Creation Plan Stage III” (2023-04〜2027-03)'s net profit KPI was initially 300 億円Goal**400 億円The above has been revised upward**.^[extracted]
+> It grew from consolidated net income of 119 億円 at the time President Kato took office (2019-03  fiscal year), to 204 億円 at the time of ちゅうぎん FG's establishment (2022-03  fiscal year), to 274 億円 in the 2025-03  fiscal year. The net-income KPI of the medium-term plan "Future Co-Creation Plan Stage III" (2023-04〜2027-03) was **revised upward from the original 300 億円 target to 400 億円 or more**. ^[extracted]
 
-### Major subsidiaries/equity
+### Main subsidiaries / holdings
 
 ```
-Chugin FG (Holding company/Listed company) 5832）
-  ├── Bank of China (100%)──Group parent/regional bank core
-  │ └── Domestic stores 145·abroad 1(Hong Kong) = Calculation 146 店Store (2021-03 results)^[extracted]
-  ├── Chugin Securities (100%)─ The core of group securities and bank-securities collaboration
-  ├── Chugin Capital (100%)── Venture investment/fund management
-  ├── Chugin lease (100%)── Leasing business
-  ├── Chugin Card (100%)─ Card business
-  ├── Central bank guarantee ── ​​Credit guarantee
-  ├── CBS (Okayama City)── System related
-  └── Central Bank Administrative Center ── Administrative aggregation
+ちゅうぎん FG (holding company, listed 5832)
+  ├── Chugoku Bank (100%) ── group parent body, regional-bank core
+  │     └── domestic branches 145・overseas 1 (Hong Kong) = 146 店 in total (2021-03  fiscal-year actual) ^[extracted]
+  ├── Chugin Securities (100%) ── group securities, core of bank-securities cooperation
+  ├── Chugin Capital (100%) ── venture investment / fund management
+  ├── Chugin Lease (100%) ── leasing business
+  ├── Chugin Card (100%) ── card business
+  ├── Chugin Guarantee ── credit guarantees
+  ├── CBS (Okayama City) ── system-related
+  └── Chugin Administration Center ── administrative consolidation
 ```
 
-### Merger history/predecessor
+### Merger history / predecessors
 
-- Former **86th National Bank** (1878-12-09 Founded by Takahashi): One of the origins. Integrated into Daiichi Godo Bank
-- Former **Kurashiki Bank** and others 6 行：1919 Merged and established **Daiichi Godo Bank**
-- Former **Sakubi Bank + Tsuyama Bank**:1924 Merged and established **Sanyo Bank**
-- **Bank of China**:1930-12-21 Born from the merger of Daiichi Godo Bank + Sanyo Bank ^[extracted]
-- **Chuugin FG**:2022-10-03 Bank of China becomes a holding company through sole share transfer ^[extracted]
+- Former **86th National Bank** (established 1878-12-09, Takahashi): one of the origins. Consolidated into Daiichi Godo Bank
+- Former **Kurashiki Bank** and others 6 行: consolidated in 1919  to establish **Daiichi Godo Bank**
+- Former **Sakubi Bank + Tsuyama Bank**: consolidated in 1924  to establish **Sanyo Bank**
+- **Chugoku Bank**: born from the merger of Daiichi Godo Bank + Sanyo Bank in 1930-12-21 ^[extracted]
+- **ちゅうぎん FG**: Chugoku Bank converted to a holding company via sole share transfer in 2022-10-03 ^[extracted]
 
-> Integration background: With the flow of regional bank consolidation in the early Showa era (consolidation of banks within the prefecture towards the wartime integration period), the first joint consolidation (Kurashiki-based bank) in Okayama prefecture occurred. 7 行) + Sanyo Bank (Tsuyama group) 2 行) is a wide-area merger. The company name ``Chugoku Bank'' means ``Bank of the Chugoku Region,'' which includes Okayama Prefecture, and is based on Bank of China (Bank of China) of the People's Republic of China.1912 Establishment). Avoid confusion by using the English name and abbreviation "Chugin".^[extracted]
+> Consolidation background: in the trend of regional-bank rationalization and consolidation in the early Showa era (the consolidation of in-prefecture banks heading toward the wartime-consolidation period), Daiichi Godo (the Kurashiki lineage 7 行) + Sanyo Bank (the Tsuyama lineage 2 行) merged on a wide-area basis within Okayama Prefecture. The name "Chugoku Bank" means "a bank of the Chugoku region," which includes Okayama Prefecture, and is unrelated to the People's Republic of China's Bank of China (established 1912 ). Confusion is avoided via the English name and the abbreviation "ちゅうぎん." ^[extracted]
 
-### Important Chronology ^[extracted]
+### Key chronology ^[extracted]
 
-| Month | Event |
+| Year/Month | Event |
 |---|---|
-| 1878-12-09 | Establishment of the 86th National Bank (Takahashi) |
-| 1919 | Daiichi Godo Bank established (Kurashiki Bank, etc.) 6 行integration) |
-| 1924 | Sanyo Bank established (Sakusei Bank + Tsuyama Bank) |
-| **1930-12-21** | **Bank of China established** (First Contract + Sanyo merger, Okayama City Main Store) |
-| 1985-10-01 | Listed on Osaka/Hiroshima Stock Exchange |
-| **1987-12-01** | **Listed on TSE** (old code 8382）|
-| 1990-10-01 | Changed company name to "Bank of China" and introduced CI (old character "Kuni" → new character "Country") |
-| 2012-10-01 | Online branch “Hare no Kuni Branch” opened |
-| **2015-10** | **Participated as a founding member of the TSUBASA Alliance** (Chiba Silver Hub) |
-| 2020-12 | Free ATM partnership with Hiroshima Bank |
-| 2022-09-05 | Lawson Bank Instant Account Payment / PayPay / au PAY Cooperation Started |
-| **2022-10-03** | **Changed to a holding company** (Chuugin FG newly established, TSE PRIME) 5832 Listed, Bank of China 8382 Delisting) |
-| 2023-04 | **Start of medium-term management plan “Future Co-Creation Plan Stage III”** (2023-04〜2027-03、4 annual plan) |
-| 2024~ | Pure profit KPI at the beginning 300 億円target → 400 億円Revised upwards above ^[extracted] |
+| 1878-12-09 | 86th National Bank established (Takahashi)|
+| 1919 | Daiichi Godo Bank established (consolidation of Kurashiki Bank and others 6 行)|
+| 1924 | Sanyo Bank established (Sakubi Bank + Tsuyama Bank)|
+| **1930-12-21** | **Chugoku Bank established** (merger of Daiichi Godo + Sanyo, head office in Okayama City)|
+| 1985-10-01 | Listed on the Osaka / Hiroshima Stock Exchanges |
+| **1987-12-01** | **Listed on the TSE** (former code 8382)|
+| 1990-10-01 | Trade name changed to "中国銀行," CI introduced (old character "國" → new character "国")|
+| 2012-10-01 | Opened the online branch "Hare-no-Kuni Branch" |
+| **2015-10** | **Participated as a founding member of the TSUBASA Alliance** (Chiba Bank hub)|
+| 2020-12 | Free ATM tie-up with Hiroshima Bank |
+| 2022-09-05 | Lawson Bank instant-account settlement・PayPay / au PAY linkage begins |
+| **2022-10-03** | **Holding-company conversion** (ちゅうぎん FG newly established・listed on TSE PRIME 5832 , Chugoku Bank delisted 8382 )|
+| 2023-04 | **Medium-term management plan "Future Co-Creation Plan Stage III" begins** (2023-04〜2027-03, a 4 -year plan)|
+| 2024〜 | Net-income KPI original 300 億円 target → revised upward to 400 億円 or more ^[extracted] |
 
-## 2.Business segment map
+## 2. Business-segment map
 
-| Segment | Main Operator | Features |
+| Segment | Main entity | Characteristics |
 |---|---|---|
-| Bank Core | Chugoku Bank | Base in Okayama Prefecture, Number of Branches 146(domestic 145 + Hong Kong 1）|
-| Securities | Chugin Securities | Bank-securities collaboration, increasing contribution to group net profit |
-| Investment/Fund | Chugin Capital | VC investment, local company investment |
-| Lease | Chugin Lease | Equipment lease/automobile lease |
-| Card | Chugin Card | Credit/Local Payment |
-| Credit guarantee | Central bank guarantee | Home loan/business loan guarantee |
-| Administrative work/systems | CBS / Central Bank Administrative Center | Administrative aggregation/system related |
-| Wide-area collaboration | TSUBASA Alliance | 10 Regional bank wide-area collaboration/FinTech/Joint affairs |
+| Banking core | Chugoku Bank | Okayama Prefecture base, number of branches 146 (domestic 145 + Hong Kong 1)|
+| Securities | Chugin Securities | bank-securities cooperation, expanding contribution to group net income |
+| Investment / funds | Chugin Capital | VC investment, equity investment in regional enterprises |
+| Leasing | Chugin Lease | equipment leasing・auto leasing |
+| Cards | Chugin Card | credit・regional payments |
+| Credit guarantee | Chugin Guarantee | mortgage・business-loan guarantees |
+| Administration / systems | CBS / Chugin Administration Center | administrative consolidation・system-related |
+| Wide-area cooperation | TSUBASA Alliance | 10  wide-area regional-bank cooperation・FinTech / shared administration |
 
-### Sales area
+### Operating area
 
-- **Headquarters**: Entire area of ​​Okayama Prefecture (Okayama City, Kurashiki City, Tsuyama City, Niimi City, etc.)
-- **Adjacent prefectures**: Bingo region of Hiroshima prefecture (Fukuyama, etc.), entire Kagawa prefecture, western Hyogo prefecture, Yonago city, Tottori prefecture
-- **Outside area**: Tokyo, Osaka, Kobe
-- **Overseas**: Hong Kong (only overseas base)
+- **Base**: across Okayama Prefecture (Okayama City, Kurashiki City, Tsuyama City, Niimi City, etc.)
+- **Adjacent prefectures**: the Bingo region of Hiroshima Prefecture (Fukuyama, etc.), all of Kagawa Prefecture, western Hyogo Prefecture, Yonago City in Tottori Prefecture
+- **Out-of-area bases**: Tokyo, Osaka, Kobe
+- **Overseas**: Hong Kong (the only overseas base)
 
-### Competitive relationship
+### Competitive relationships
 
-- **Within the prefecture 2 位**: Tomato Bank (Second regional bank affiliated with former Sanyo Sogo Bank, Okayama City main branch)
-- **Western Chugoku Region**: [[regional-banks/hirogin-hd]](Hiroshima Bank),[[regional-banks/yamaguchi-fg]](Yamaguchi Bank, Momiji Bank, Kitakyushu Bank 3 行system)
-- **San'in**: [[regional-banks/san-in-godo-bank]](Sanin Godo Bank, Yonago/Matsue ground)
-- **Shikoku side**: 114 Bank (Takamatsu, Kagawa Prefecture), Iyo Bank ([[regional-banks/iyogin-hd]], Kagawa is overlapping competition/cooperation with TSUBASA alliance)
+- **Within the prefecture 2 位**: Tomato Bank (a second regional bank from the former Sanyo Sogo Bank lineage, head office in Okayama City)
+- **Western Chugoku region**: [[regional-banks/hirogin-hd]] (Hiroshima Bank), [[regional-banks/yamaguchi-fg]] (the Yamaguchi Bank / Momiji Bank / Kitakyushu Bank 3 行 structure)
+- **San'in**: [[regional-banks/san-in-godo-bank]] (San-in Godo Bank, Yonago / Matsue base)
+- **Shikoku side**: Hyakujushi Bank (Takamatsu, Kagawa Prefecture), Iyo Bank ([[regional-banks/iyogin-hd]], a TSUBASA alliance member, so Kagawa is overlapping competition / cooperation)
 
-### TSUBASA Alliance (2015-10 Inauguration, founding members)
+### TSUBASA Alliance (formed 2015-10 , founding member)
 
-- **Participate 10 行**: Chiba Bank (Hub) / Daishi Hokuetsu / **Bank of China** / Iyo Bank / Toho Bank / North Pacific Bank / Musashino Bank / Shiga Bank / Ryukyu Bank / Gunma Bank ^[extracted]
-- **Collaboration areas**: FinTech common platform (TSUBASA FinTech platform), joint administrative center concept, inheritance related, international operations, mutual commitment line setting, portfolio carbon analysis
-- "**TSUBASA FinTech Common Platform**" will be used as a foundation for embedded financial services in the medium-term plan "Stage III" ^[extracted]
-- A typical model for regional bank independent FGs to avoid merger pressure and gain economies of scale through wide-area collaboration — the “partnership without merger” route
+- **Participants 10 行**: Chiba Bank (hub) / Daishi Hokuetsu / **Chugoku Bank** / Iyo Bank / Toho Bank / Hokuyo Bank / Musashino Bank / Shiga Bank / Ryukyu Bank / Gunma Bank ^[extracted]
+- **Cooperation areas**: a FinTech common platform (TSUBASA FinTech Platform), a shared-administration-center concept, inheritance-related, international business, mutual commitment-line establishment, portfolio / carbon analysis
+- The "**TSUBASA FinTech Common Platform**" is, as the foundation for embedded-finance services, also a utilization policy under the medium-term plan "Stage III" ^[extracted]
+- A representative model among sole regional-bank FGs that avoids merger pressure and takes **scale advantages through wide-area cooperation** — a "cooperate without merging" path
 
-### Medium-term management plan “Future Co-Creation Plan Stage III” (2023-04〜2027-03)
+### Medium-term management plan "Future Co-Creation Plan Stage III" (2023-04〜2027-03)
 
-- **Position**: First full-scale operation after becoming a holding company 4 annual plan
-- **KPI**: Linking pure benefits to the original 300 億円target → 400 億円The above has been revised upward (2024 middle)^[extracted]
-- **Strategic concept**: "Shift from banking to a comprehensive service industry centered on finance" "More than double net profit"
-- **Basic policy**: 3 Two growth strategies (see IR materials for details) + Virtuous circle business model with local communities and customers
+- **Positioning**: the first full-scale 4 -year plan after the holding-company conversion
+- **KPI**: consolidated net income, original 300 億円 target → revised upward to 400 億円 or more (during 2024 ) ^[extracted]
+- **Strategic concept**: "shift from banking business to a comprehensive service business centered on finance," "more than doubling net income"
+- **Basic policy**: 3  growth strategies (details in IR materials) + a virtuous-cycle business model with the regional community / customers
 
 ### B2C branding
 
-- Emphasize the abbreviation "**Chugin**" to consistently avoid confusion with Bank of China.
-- A community-based brand linked to “**Land of Sunshine, Okayama**” (Okayama Prefecture's tourism catchphrase) — Also used in the online branch name
-- Officially adopted "Chugin" as the FG name due to becoming a holding company (emphasis on hiragana and friendliness)
+- Foregrounds the abbreviation "**ちゅうぎん**," consistently seeking to avoid confusion with Bank of China
+- A community-rooted brand linked with "**Hare-no-Kuni Okayama**" (Okayama Prefecture's tourism catchphrase) — also adopted in the online branch name
+- With the holding-company conversion, "ちゅうぎん" was formally adopted as the FG name (hiragana, emphasizing approachability)
 
-## 4. Regulations and Policies
+## 4. Regulation / policy
 
-- **Supervising**: Financial Services Agency (FSA)/China Finance Bureau
-- **Regional Bank Regulations**: Banking Law
-- **Current policy issues**:
-  - 2024~ Normalization of the Bank of Japan's policy interest rate → Regional banks' lending margin improvement bonus → Tailwind for upward revision of medium-term plan KPI ^[extracted]
-  - 2022-10~ Accelerate bank-securities collaboration and group optimization by becoming a holding company
-  - 2023~ TSUBASA Joint Administrative Center Concept → Progress in administrative integration
+- **Supervision**: Financial Services Agency (FSA) / Chugoku Local Finance Bureau
+- **Regional-bank regulation**: Banking Act
+- **Recent policy points**:
+  - 2024〜 BoJ policy-rate normalization → lending-margin improvement bonus for regional banks → a tailwind for the upward revision of the medium-term-plan KPI ^[extracted]
+  - 2022-10〜 holding-company conversion accelerates bank-securities cooperation / group optimization
+  - 2023〜 the TSUBASA shared-administration-center concept → progress in administrative integration
 
-### Representative Director ^[extracted]
+### Representative directors ^[extracted]
 
-| Title | Name | Career |
+| Position | Name | Background |
 |---|---|---|
-| President of FG and President of Bank of China | **Sadanori Kato** (1957 年Graduated from Waseda University, Faculty of Political Science and Economics, born in Kurashiki City,2019 Appointed as president of Bank of China → 2022-10 Chugin FG appointed president |
-| FG Vice President | Ikuhide Harada | Holding Company Vice President |
+| FG President & Chugoku Bank President | **Sadanori Kato** (born 1957 年)| Graduate of Waseda University Faculty of Political Science and Economics, from Kurashiki City, became Chugoku Bank President in 2019  → became ちゅうぎん FG President in 2022-10  |
+| FG Vice President | Ikuhide Harada | Holding-company Vice President |
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]]
-- Chugoku regional banks: [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[regional-banks/san-in-godo-bank]]
-- TSUBASA alliance line: [[regional-banks/iyogin-hd]] (Iyo Bank) · Chiba Bank · Daishi Hokuetsu · Hokuyo Bank · Musashino Bank · Shiga Bank · Ryukyu Bank · Gunma Bank · Toho Bank
-- Competitor within the prefecture: Tomato Bank (Okayama prefecture second regional bank)
+- Chugoku-region regional banks: [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[regional-banks/san-in-godo-bank]]
+- TSUBASA alliance members: [[regional-banks/iyogin-hd]] (Iyo Bank) · Chiba Bank · Daishi Hokuetsu · Hokuyo Bank · Musashino Bank · Shiga Bank · Ryukyu Bank · Gunma Bank · Toho Bank
+- In-prefecture competition: Tomato Bank (Okayama Prefecture's second regional bank)
 
 ## Sources
 
-- **Wikipedia: Bank of China (Japan)** (https://ja.wikipedia.org/wiki/Bank of China_(Japan), 2026-05-19 extraction)
-- **Wikipedia: Chuugin Financial Group** (https://ja.wikipedia.org/wiki/Chugin Financial Group, 2026-05-19 extraction)
-- **Wikipedia: TSUBASA Alliance** (https://ja.wikipedia.org/wiki/TSUBASA Alliance, 2026-05-19 extraction)
-- Chugin FG 2025-03 Period Final Account SMS (2025-05-14 Publication)
-- Chugin FG Medium-term Management Plan “Future Co-Creation Plan Stage III” (2023-04〜2027-03）
-- Chugin FG IR “Management Plan” page (official/2025-03 (annual integrated report)
+- **Wikipedia: 中国銀行 (日本)** (https://ja.wikipedia.org/wiki/中国銀行_(日本), extracted 2026-05-19)
+- **Wikipedia: ちゅうぎんフィナンシャルグループ** (https://ja.wikipedia.org/wiki/ちゅうぎんフィナンシャルグループ, extracted 2026-05-19)
+- **Wikipedia: TSUBASA アライアンス** (https://ja.wikipedia.org/wiki/TSUBASAアライアンス, extracted 2026-05-19)
+- ちゅうぎん FG 2025-03  fiscal-year earnings report (released 2025-05-14)
+- ちゅうぎん FG medium-term management plan "Future Co-Creation Plan Stage III" (2023-04〜2027-03)
+- ちゅうぎん FG IR "Management Plan" page (official・2025-03  fiscal-year integrated report)
 
 ---
 
-> [!info] Check status
-> confidence: **likely**（v1.0 Wikipedia + Formula IR + Final Account SMS Verification 2026-05-19). Establishment year, month and day (1930-12-21) / Holding company date (2022-10-03) / Securities code (FG: 5832, former bank: 8382)/TSUBASA 10 行composition / 2025-03 Consolidated net income 274 億円 etc. are based on official sources. Medium-term plan KPI upward revision (300 → 400 億円The above) are based on IR announcements and the specific timing of disclosure needs to be reconfirmed. Please refer to FG IR Quarterly for the latest values ​​of total assets and equity ratio.
+> [!info] Verification status
+> confidence: **likely** (v1.0  Wikipedia + official IR + earnings report verified 2026-05-19). The establishment date (1930-12-21) / holding-company-conversion date (2022-10-03) / securities codes (FG: 5832, former bank: 8382) / TSUBASA 10 行 composition / 2025-03  fiscal-year consolidated net income 274 億円, etc., are based on official sources. The upward revision of the medium-term-plan KPI (300 → 400 億円 or more) is based on the IR announcement; the specific disclosure timing should be re-confirmed. The latest values for total assets / capital-adequacy ratio should be confirmed against the FG IR Quarterly.

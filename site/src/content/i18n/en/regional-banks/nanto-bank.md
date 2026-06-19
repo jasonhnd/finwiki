@@ -1,13 +1,14 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: 4a592b02ab05279a
+source_hash: 83dcc09d480c43ee
 lang: en
 status: machine
 fidelity: ok
-title: "The Nanto Bank"
-translated_at: 2026-06-01T00:41:50.439Z
+title: "株式会社南都銀行 (The Nanto Bank)"
+translated_at: 2026-06-19T12:43:19.855Z
 ---
-# The Nanto Bank
+
+# 株式会社南都銀行 (The Nanto Bank)
 
 ## Wiki route
 
@@ -15,124 +16,124 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A standalone bank based in Nara Prefecture (**one of the regional banks that has not converted into a bank holding company** = the only head-office bank in Nara Prefecture). It was launched in 1934-06-01 through wartime consolidation of Rokuju-hachi Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank + the lineage of the Thirty-Fourth National Bank and others. Its short name is "**Nanto**". Its earnings core is **overwhelming share inside Nara Prefecture (No. 1 in the prefecture) + expansion into the Kansai 3 -prefecture border area of eastern Osaka Prefecture and southern Kyoto Prefecture + lending to tourism (Nara Park, Todaiji, Yakushiji, Kasuga Taisha, Horyuji) + real estate lending**. Competitors in the Kansai economic area are [[megabanks/resona-hd]] (former Kansai Urban Bank = current Kansai Mirai Bank, with the history of failed 2007  integration talks) / [[regional-banks/kyoto-fg]] / [[regional-banks/ikeda-senshu-hd]]; in adjacent prefectural borders it competes with Kiyo Bank (Wakayama), Shiga Bank, and [[regional-banks/tomony-hd]] (former Taisho Bank).
+A standalone bank based in Nara Prefecture (one of the **regional banks that have not converted to a bank-holding-company structure** = the only bank headquartered in Nara Prefecture). It was founded in 1934-06-01 through the wartime consolidation of the 68th Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank + lineage of the 30th National Bank, and others. Its abbreviation is "**Nanto**". Its revenue core is **overwhelming within-Nara-Prefecture share (No.1 in the prefecture) + expansion into the Kansai 3 -prefecture-border area of eastern Osaka and southern Kyoto + tourism lending (Nara Park, Todai-ji, Yakushi-ji, Kasuga Taisha, Horyu-ji) + real-estate lending**. Its competitors in the Kansai economic zone are [[megabanks/resona-hd]] (the former Kansai Urban Bank = now Kansai Mirai Bank, with which the 2007  integration negotiations ultimately fell through), [[regional-banks/kyoto-fg]], and [[regional-banks/ikeda-senshu-hd]]; at adjacent prefectural borders it competes with Kiyo Bank (Wakayama), Shiga Bank, and [[regional-banks/tomony-hd]] (former Taisho Bank).
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: The Nanto Bank, Ltd.
+**Legal name**: 株式会社南都銀行
 **English name**: The Nanto Bank, Ltd.
 **Securities code**: TSE PRIME 8367
-**Founding**: 1934-06-01 (wartime consolidation of Rokuju-hachi Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank, etc.)
-**Head office**: Hashimoto-cho, Nara City, Nara Prefecture 16
-**Business type**: Standalone listed bank (the point that it has **not become an FG with a bank holding company at the top** contrasts with the Kansai regional-bank FG trend among nearby [[regional-banks/kyoto-fg|京都 FG]], [[regional-banks/ikeda-senshu-hd|池田泉州 HD]], [[regional-banks/tomony-hd|トモニ HD]], etc. It has established the **intermediate holding company "Nanto Management Service"** in 2019  to bundle non-bank subsidiaries, but the listed entity and the banking-business vehicle remain Nanto Bank itself.)
+**Founded**: 1934-06-01 (wartime consolidation of the 68th Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank, etc.)
+**Head office**: Hashimoto-cho 16
+, Nara City, Nara Prefecture**Business model**: A standalone listed bank (the fact that it **has not undergone FG conversion under a bank holding company at the top** stands in contrast to the FG-conversion trend of nearby Kansai regional banks such as [[regional-banks/kyoto-fg|京都 FG]], [[regional-banks/ikeda-senshu-hd|池田泉州 HD]], and [[regional-banks/tomony-hd|トモニ HD]]. It has, however, set up in 2019  an **intermediate holding company, "Nanto Management Service,"** that bundles non-bank subsidiaries, but the listed and banking-business principal remains the Nanto Bank entity itself)
 
-### Key Financials (FY2023, as of 2024-03-31)
+### Key financials (FY2023, as of 2024-03-31)
 
-| Indicator | Value |
+| 指標 | 数値 |
 |---|---|
-| Total assets (consolidated) | About 7 兆 14 億円 |
-| Deposit balance | 5兆8,095億円 |
-| Loan balance | 4兆1,944億円 |
-| Employees | 2,336 名 (consolidated) / 2,095 名 (non-consolidated) |
-| Number of locations | 103  locations |
+| 総資産（連結）| 約 7 兆 14 億円 |
+| 預金残高 | 5兆8,095億円 |
+| 貸出金残高 | 4兆1,944億円 |
+| 従業員数 | 2,336 名（連結）/ 2,095 名（単体）|
+| 拠点数 | 103 拠点 |
 
-> Source: Nanto Bank disclosure materials (via Wikipedia "Nanto Bank", as of 2024-03-31).
+> Source: Nanto Bank disclosure materials (via Wikipedia "南都銀行", as of 2024-03-31).
 
-### Major Subsidiaries / Equity Interests
+### Main subsidiaries / equity holdings
 
 ```
-Nanto Bank (standalone bank, listed 8367)
-  ├── Nanto Lease ── group finance subsidiary (leasing)
-  ├── Nanto Credit Guarantee ── credit guarantees for housing loans, etc.
-  ├── Nanto Capital ── venture / M&A-related investment
-  ├── Nanto Business Service ── back-office outsourcing and peripheral operations
-  ├── Nanto Card Service ── credit-card related
+南都銀行（単独銀行・上場 8367）
+  ├── 南都リース ── グループ金融子会社（リース業務）
+  ├── 南都信用保証 ── 住宅ローン等の信用保証
+  ├── 南都キャピタル ── ベンチャー / M&A 関連投資
+  ├── 南都ビジネスサービス ── 事務代行・周辺業務
+  ├── 南都カードサービス ── クレジットカード関連
 ```
 
-### Merger History / Predecessors
+### Merger history / predecessors
 
-- 1878  **Rokuju-hachi National Bank established** (Nara, under the Meiji-period National Bank Ordinance, established in 第 68 号) — Nanto Bank's oldest source
-- Before the war, multiple local banks operated in Nara Prefecture, including Rokuju-hachi Bank, Yagi Godo Bank, Gose Bank, Yoshino Bank, and Yamato Jitsugyo Bank.
-- **1934-06-01 Nanto Bank launched**: under wartime "one prefecture, one bank" policy, 6 行 consolidation realized the unification of local banks inside Nara Prefecture.
-- 1949  listed on the TSE
-- Long listed as the prefecture's core postwar bank and maintained its share inside Nara Prefecture
-- **2022-04  TSE market-segment review** → TSE PRIME 8367 (migrated from former TSE First Section)
+- 1878 **Establishment of the 68th National Bank** (Nara, under the Meiji-era National Bank Ordinance, established in 第 68 号) — the oldest origin of Nanto Bank
+- In the prewar period, multiple regional banks coexisted within Nara Prefecture, including the 68th Bank, Yagi Godo Bank, Gose Bank, Yoshino Bank, and Yamato Jitsugyo Bank
+- **Founding of Nanto Bank in 1934-06-01**: As a forerunner of the wartime "one bank per prefecture" policy, it achieved unification of Nara Prefecture's regional banks through the 6 行 consolidation
+- 1949  TSE listing
+- A long-listed core bank within the prefecture in the postwar period, maintaining its within-Nara-Prefecture share
+- **2022-04  TSE market-segment review** → TSE PRIME 8367 (migrated from the former TSE First Section)
 
-### Important Timeline (excerpt)
+### Key chronology (excerpt)
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| 1878 | **Rokuju-hachi National Bank established** (Nara, under the Meiji-period National Bank Ordinance) |
-| **1934-06-01** | **Nanto Bank launched** (consolidation of Rokuju-hachi Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank, etc.) |
-| 1949 | Listed on the TSE |
-| 1950-80 s | Established the No. 1  regional-bank position inside the prefecture and became the main bank for Nara tourism |
-| 1990-2000 年s | Expanded business areas into eastern Osaka Prefecture and southern Kyoto Prefecture |
-| 2022-04 | TSE market-segment review → TSE PRIME 8367 (migrated from former TSE First Section) |
+| 1878 | **第六十八国立銀行 設立**（奈良、明治期国立銀行条例下）|
+| **1934-06-01** | **南都銀行 発足**（六十八銀行 + 八木合同銀行 + 御所銀行 + 吉野銀行 + 大和実業銀行 等 統合）|
+| 1949 | 東証上場 |
+| 1950〜80 年代 | 県内 No.1 地銀ポジション確立、奈良観光業 main bank 化 |
+| 1990〜2000 年代 | 大阪府東部・京都府南部への営業エリア拡大 |
+| 2022-04 | 東証市場区分見直し → 東証 PRIME 8367（旧東証一部から移行）|
 
-## 2. Business Segment Map
+## 2. Business-segment map
 
-| Segment | Main operator | Characteristics |
+| セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| Core home market | Nanto Bank parent bank | No. 1 in Nara Prefecture, overwhelming share inside the prefecture |
-| In-prefecture retail | Nanto Bank | Nara Prefecture population about 130 万; thick individual deposits |
-| Tourism lending | Nanto Bank | Tourism hotels and temple / shrine-related businesses around Nara Park, Todaiji, Yakushiji, Kasuga Taisha, and Horyuji |
-| Real estate lending | Nanto Bank | SMEs in eastern Osaka Prefecture (Higashiosaka, Yao, Kashiwara, etc.) + residential-area development in southern Kyoto Prefecture |
-| Kansai 3 -prefecture border expansion | Nanto Bank | All of Nara Prefecture + eastern Osaka Prefecture + southern Kyoto Prefecture = regional-bank position in the Kansai 3 -prefecture border area |
-| Group finance | Nanto Lease / Credit Guarantee / Capital / Card Service | Complementary functions around the bank parent |
-| Out-of-prefecture corporates | Nanto Bank (out-of-prefecture offices such as Osaka and Tokyo) | Follow-up for out-of-prefecture transactions of Nara-headquartered companies |
+| 地盤コア | 南都銀行本体 | 奈良県地盤 No.1、県内シェア圧倒 |
+| 県内リテール | 南都銀行 | 奈良県人口約 130 万、個人預金厚い |
+| 観光業融資 | 南都銀行 | 奈良公園・東大寺・薬師寺・春日大社・法隆寺 周辺の観光ホテル / 寺社関連事業者 |
+| 不動産融資 | 南都銀行 | 大阪府東部（東大阪・八尾・柏原等）の中小企業 + 京都府南部の住宅地開発 |
+| 関西 3 県境界展開 | 南都銀行 | 奈良県全域 + 大阪府東部 + 京都府南部 = 関西 3 県境界エリアの地銀ポジション |
+| グループ金融 | 南都リース / 信用保証 / キャピタル / カードサービス | 銀行本体周辺の補完機能 |
+| 県外法人 | 南都銀行（大阪・東京等の県外拠点）| 奈良本社企業の県外取引フォロー |
 
-### In-Prefecture Home-Market Strategy
+### Within-prefecture home-base strategy
 
-- **Nara Prefecture = major tourism prefecture**: It holds many world-heritage-class tourism resources inside the prefecture, including Nara Park (Todaiji / Kasuga Taisha), Yakushiji, Toshodaiji, Horyuji, and Yoshino (cherry blossoms / Shugendo). Lending to tourism hotels, temple / shrine-related businesses, and souvenir businesses is an important segment of the regional-bank portfolio.
-- **Real estate lending (eastern Osaka Prefecture)**: Because volume is limited if confined to Nara Prefecture, Nanto has strengthened expansion into eastern Osaka Prefecture (SME clusters such as Higashiosaka, Yao, Kashiwara, and Daito). It has gained main-bank positions among manufacturing SMEs.
-- Although its **in-prefecture share is overwhelming**, Nara Prefecture has a sharper population-decline issue than the national average, especially outflows of young people to Osaka, creating a medium- to long-term structural challenge.
+- **Nara Prefecture = a tourism powerhouse**: The prefecture holds numerous World-Heritage-class tourism resources, such as Nara Park (Todai-ji, Kasuga Taisha), Yakushi-ji, Toshodai-ji, Horyu-ji, and Yoshino (cherry blossoms, Shugendo). Lending to tourist hotels, temple/shrine-related operators, and souvenir businesses is an important segment of the regional-bank portfolio
+- **Real-estate lending (eastern Osaka)**: Because volume is limited within Nara Prefecture alone, it strengthens expansion into eastern Osaka (SME-concentration areas such as Higashi-Osaka, Yao, Kashiwara, and Daito). It has secured a main-bank position with manufacturing SMEs
+- **Overwhelming within-prefecture share**, but Nara Prefecture's population decline (especially the outflow of younger people to Osaka) is more pronounced than the national average — a medium-to-long-term structural challenge
 
-### Competitive Structure in the Kansai Economic Area
+### Competitive structure in the Kansai economic zone
 
-- **Special nature of the Kansai 3 -prefecture border area**: Nara Prefecture borders Osaka to the west, Kyoto to the north, Wakayama to the south, and Mie / Shiga to the east, sitting at a 5 -prefecture border. A self-contained in-prefecture regional-bank operation is difficult, and it is structurally pulled into **competition across the entire Kansai economic area**.
-- **Competition with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: Large-corporate deals in urban Osaka flow to the megas; Nanto Bank counters with main-bank positions for mid-sized and small companies inside Nara Prefecture + eastern Osaka Prefecture.
-- **Competition with Kansai regional-bank groups**:
-  - [[megabanks/resona-hd|りそな HD]] (former Daiwa Bank + Asahi Bank, including Kansai Mirai Bank): Kansai's largest regional-bank group, directly competing with Nanto Bank throughout Osaka Prefecture
-  - [[regional-banks/kyoto-fg|京都 FG]] (Bank of Kyoto): expanded across Kyoto Prefecture + northern Osaka Prefecture + Shiga Prefecture, contacting Nanto Bank in southern Kyoto Prefecture
-  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]: northern Osaka Prefecture (former Ikeda Bank) + southern Osaka Prefecture (former Senshu Bank), competing across Osaka Prefecture
-  - Kiyo Bank (Wakayama Prefecture): border contact to the south, competing in northern Wakayama / Gojo area
-  - Shiga Bank: border contact to the east, competing in the Todaiji / Kasagi area
-  - Former Taisho Bank under [[regional-banks/tomony-hd|トモニ HD]]: directly competes in Osaka Prefecture
+- **Particularity of the Kansai 3 -prefecture-border area**: Nara Prefecture borders Osaka to the west, Kyoto to the north, Wakayama to the south, and Mie and Shiga to the east, positioned at a 5 -prefecture border. Self-contained within-prefecture regional banking is difficult, and it is inevitably drawn into a structure of **competition across the entire Kansai economic zone**
+- **Competition with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: Large-corporate deals in metropolitan Osaka have a structure of flowing to the megabanks; Nanto Bank counters with a main-bank position for mid-sized and small companies in Nara Prefecture and eastern Osaka
+- **Competition with the Kansai regional-bank cohort**:
+  - [[megabanks/resona-hd|りそな HD]] (former Daiwa Bank + Asahi Bank, including Kansai Mirai Bank): the largest regional-bank group in Kansai, competing directly with Nanto Bank across all of Osaka
+  - [[regional-banks/kyoto-fg|京都 FG]] (Bank of Kyoto): expanding into all of Kyoto + northern Osaka + Shiga, making contact with Nanto Bank in southern Kyoto
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]: northern Osaka (former Bank of Ikeda) + southern Osaka (former Senshu Bank), competing across all of Osaka
+  - Kiyo Bank (Wakayama Prefecture): prefectural-border contact to the south, competing in northern Wakayama / the Gojo area
+  - Shiga Bank: prefectural-border contact to the east, competing in the Todai-ji / Kasagi area
+  - The former Taisho Bank under [[regional-banks/tomony-hd|トモニ HD]]: direct competition in Osaka
 
-### Strategic Meaning of Being a Standalone Bank
+### Strategic significance of being a standalone bank
 
-- The fact that it **has not established a bank holding company** contrasts with the Kansai regional-bank FG trend among nearby [[regional-banks/kyoto-fg|京都 FG]] (2009  standalone FG conversion), [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] (2009  integration), etc. (Nanto Bank remains the listed and banking-business entity. The intermediate holding company "Nanto Management Service" established in 2019  controls non-bank subsidiaries and is not a transition to a bank holding company system.)
-- Advantages of being a standalone bank: (1) simpler governance, (2) concentration of management resources in the bank parent, (3) no additional costs from bank holding company conversion
+- The fact that it **has not established a bank holding company** stands in contrast to the FG-conversion trend of nearby Kansai regional banks such as [[regional-banks/kyoto-fg|京都 FG]] (2009  standalone FG conversion) and [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] (2009  integration) (Nanto Bank is the listed and banking-business principal. The intermediate holding company "Nanto Management Service" established in 2019  is for oversight of non-bank subsidiaries and is not a transition to a bank-holding-company structure)
+- Advantages of a standalone bank: (1) simpler governance, (2) concentration of management resources on the bank entity, (3) no additional cost of bank-holding-company conversion
 
-### Position in Regional-Bank Reorganization
+### Position in regional-bank restructuring
 
-- **Maintains an independent path as Nara Prefecture's standalone regional-bank leader** (distant from mega alliances and SBI's 4 th mega concept)
-- The earnings core of tourism + real estate lending is distinctive even within Kansai and may contribute to bargaining power in any reorganization.
+- **Maintaining an independent path as the standalone regional-bank leader of Nara Prefecture** (keeping its distance from tie-ups with megabanks and from SBI's "fourth megabank" concept 4 )
+- Its revenue core of tourism + real-estate lending is highly distinctive even within Kansai, which may contribute to its bargaining power in any restructuring
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
-- **Supervisors**: Financial Services Agency (FSA) + Kinki Local Finance Bureau
-- **Banking regulation**: Banking Act (as a standalone bank, bank holding company regulation is outside scope)
+- **Supervisor**: Financial Services Agency (FSA) + Kinki Local Finance Bureau
+- **Banking regulation**: Banking Act (as a standalone bank, it is outside the scope of bank-holding-company regulation)
 - **Recent policy issues**:
-  - 2024 onward: Bank of Japan policy-rate normalization → improved regional-bank margins (relatively larger benefit than megas)
-  - 2025 onward: accelerating regional-bank reorganization (population decline + digital-investment burden) → decisions on alliances / reorganization with Kansai regional-bank groups
-  - Decision whether to remain a standalone bank or move to a holding-company (FG) structure
-  - Response to the tourism-industry portfolio (tailwind from inbound recovery vs. vulnerability to external shocks)
-  - Continued business-area expansion into eastern Osaka Prefecture and southern Kyoto Prefecture
+  - From 2024 onward, BoJ policy-rate normalization → improvement in regional-bank margins (relatively larger benefit than for megabanks)
+  - From 2025 onward, acceleration of regional-bank restructuring (population decline + digital-investment burden) → decisions on cooperation with / restructuring among the Kansai regional-bank cohort
+  - The decision of whether to remain a standalone bank or shift to holding-company conversion (FG conversion)
+  - Responding to the tourism portfolio (the tailwind of inbound-tourism recovery vs. vulnerability to external shocks)
+  - Continued expansion of the operating area into eastern Osaka and southern Kyoto
 
 ## Related
 
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabank 3 行, competitors for large Kansai corporate deals)
-- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/tomony-hd]] (Kansai regional-bank groups)
-- [[regional-banks/hachijuni-bank]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/fukuoka-fg]] (comparison with standalone regional banks / leading cases of standalone regional-bank FG conversion)
-- [[banking/minna-bank-baas-model]] (regional-bank digital strategy comparison)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks 3 行, competing on large-corporate deals in Kansai)
+- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/tomony-hd]] (Kansai regional-bank cohort)
+- [[regional-banks/hachijuni-bank]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/fukuoka-fg]] (comparison with standalone regional banks / precedents of standalone-regional-bank FG conversion)
+- [[banking/minna-bank-baas-model]] (regional-bank digital-strategy comparison)
 
 ## Sources
 
-- **Wikipedia: Nanto Bank** (https://ja.wikipedia.org/wiki/南都銀行, extracted 2026-05-19 / standalone bank, intermediate holding company, FY2023  figures confirmed 2026-05-29)
-- Nanto Bank disclosure materials (FY2023, as of 2024-03-31 — total assets, deposits, loans, employees, number of locations)
+- **Wikipedia: 南都銀行**（https://ja.wikipedia.org/wiki/南都銀行, 2026-05-19 抽出 / 単独銀行・中間持株会社・FY2023 数値 2026-05-29 確認）
+- 南都銀行 開示資料（FY2023、2024-03-31 現在 — 総資産・預金・貸出金・従業員・拠点数）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (checked on v1.1  Wikipedia base 2026-05-19, ambiguous recheck 2026-05-29). History (1934-06-01 establishment, 6 行 consolidation, Rokuju-hachi National Bank source), listing segment (TSE PRIME 8367), standalone bank system, and head-office location (Hashimoto-cho, Nara City 16) are confirmed from public information. **FY2023 (2024-03-31) financial figures (consolidated total assets about 7.0 兆円, deposits 5.81 兆円, loans 4.19 兆円, employees 2,336 名 consolidated, locations 103) are included based on disclosure materials**. The point that it has not converted into a "(bank) holding company" is confirmed on Wikipedia: Nanto Bank is the listed entity and banking-business vehicle, and the intermediate holding company "Nanto Management Service" established in 2019  controls non-bank subsidiaries, not a bank holding company conversion (different from [[regional-banks/kyoto-fg]] / [[regional-banks/ikeda-senshu-hd]]-type FG conversion). Subsidiary equity ratios, concrete targets in the 2024  medium-term management plan, exact locations of overseas representative offices, and the scale of the tourism / real estate lending portfolio are not included in this version — direct confirmation against official Nanto Bank IR is needed. The medium- to long-term policy decision in Kansai regional-bank reorganization and the continuation of the Kansai 3 -prefecture border area strategy (Nara + eastern Osaka Prefecture + southern Kyoto Prefecture) remain monitoring items.
+> confidence: **likely** (Wikipedia-based verification v1.1  2026-05-19; ambiguous re-check 2026-05-29). The history (founding 1934-06-01, 6 行 consolidation, the 68th National Bank origin), listing segment (TSE PRIME 8367), standalone-bank structure, and head-office location (Hashimoto-cho 16, Nara City) are confirmed from public information. **FY2023 (2024-03-31) results figures (consolidated total assets approx. 7.0 兆円, deposits 5.81 兆円, loans 4.19 兆円, employees 2,336 名 consolidated, locations 103) are recorded on a disclosure-materials basis.** The point that it "has not converted to a (bank) holding company" is confirmed on Wikipedia: Nanto Bank is the listed and banking-business principal, and the intermediate holding company "Nanto Management Service" established in 2019  is for oversight of non-bank subsidiaries and is not a bank-holding-company conversion (distinct from [[regional-banks/kyoto-fg]]-/[[regional-banks/ikeda-senshu-hd]]-type FG conversion). Subsidiary equity ratios, the specific targets of the 2024  medium-term business plan, the exact locations of overseas representative offices, and the size of the tourism / real-estate-lending portfolio are not recorded in this edition — direct confirmation with Nanto Bank's official IR is required. Medium-to-long-term policy decisions amid Kansai regional-bank restructuring, and the Kansai 3 -prefecture-border-area strategy (Nara + eastern Osaka + southern Kyoto), are items for continued observation.

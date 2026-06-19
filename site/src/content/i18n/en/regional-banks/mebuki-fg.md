@@ -1,13 +1,14 @@
 ---
 source: regional-banks/mebuki-fg
-source_hash: 2a95b5ef488f697f
+source_hash: ca13a969dd8a5ce0
 lang: en
 status: machine
 fidelity: ok
-title: "Mebuki FG (Mebuki Financial Group)"
-translated_at: 2026-05-31T23:59:49.378Z
+title: "めぶき FG (Mebuki FG)"
+translated_at: 2026-06-19T12:43:19.984Z
 ---
-# Mebuki FG (Mebuki Financial Group)
+
+# めぶき FG (Mebuki FG)
 
 ## Wiki route
 
@@ -15,96 +16,97 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Mebuki FG is a major regional-bank financial group rooted in the north Kanto 2  prefectures, Ibaraki and Tochigi, and sits around the No. 2-3 位 class among regional-bank FGs by deposit scale. It was formed through the joint share transfer of 2016-10-01 **Joyo Bank** (Ibaraki base) and **Ashikaga Holdings** (Tochigi base, with Ashikaga Bank under it). Its 3  axes are a **"mega-regional bank group" ambition + Tokyo metropolitan expansion + digital / regional revitalization**. It differs from other regional-bank FGs because the integration followed Ashikaga Bank's dramatic history of **2003 年 failure -> temporary nationalization -> 2008 年 private-sector transfer**. In the adjacent metropolitan area, it competes with and explores cooperation with [[regional-banks/concordia-fg]] (Bank of Yokohama + Higashi-Nippon Bank) / [[regional-banks/chiba-bank|chiba-bank-fg]]. ^[extracted]
+A major regional-bank FG based in the 2  prefectures of northern Kanto (Ibaraki + Tochigi) (in the FG class 2-3 位 for regional banks by deposit scale). 2016-10-01 Launched through a joint share transfer of **Joyo Bank** (Ibaraki base) + **Ashikaga Holdings** (Tochigi base, holding Ashikaga Bank under its umbrella). Its 3  axis is a **"mega-regional bank group" orientation + metropolitan-area expansion + digital / regional revitalization**. What differs from other regional-bank FGs is that it reached consolidation after Ashikaga Bank's dramatic history of **2003 年 failure → temporary nationalization → 2008 年 transfer to the private sector**. In the adjacent metropolitan area, it competes with and explores linkage with [[regional-banks/concordia-fg]] (Bank of Yokohama + Higashi-Nippon Bank) / [[regional-banks/chiba-bank|chiba-bank-fg]]. ^[extracted]
 
-## 1. Company overview
+## 1. Company profile
 
-**Formal name**: Mebuki Financial Group, Inc. ^[extracted]
+**Legal name**: 株式会社めぶきフィナンシャルグループ ^[extracted]
 **English name**: Mebuki Financial Group, Inc.
 **Securities code**: TSE PRIME 7167 ^[extracted]
-**Established**: 2016-10-01 (holding company established through joint share transfer by Joyo Bank + Ashikaga Holdings) ^[extracted]
-**Head offices**: Yaesu, Chuo-ku, Tokyo / Mito, Ibaraki Prefecture / Utsunomiya, Tochigi Prefecture (2  head-office system) ^[extracted]
+**Established**: 2016-10-01 (holding company established through a joint share transfer of Joyo Bank + Ashikaga Holdings) ^[extracted]
+**Head office**: Yaesu, Chuo-ku, Tokyo / Mito City, Ibaraki Prefecture · Utsunomiya City, Tochigi Prefecture (2  head-office system) ^[extracted]
 
-### Main subsidiaries and interests
+### Main subsidiaries / equity holdings
 
 ```
-Mebuki FG (listed holding company 7167)
-  ├── Joyo Bank (100%) -- Ibaraki core franchise
-  │     └── Established through merger of 1935  Tokiwa Bank + Goju Bank, dominant share in Ibaraki
-  ├── Ashikaga Bank (100%) -- Tochigi core franchise
-  │     └── Founded in 1895 , failed in 2003  / temporarily nationalized -> 2008  private-sector transfer history
-  ├── Mebuki Securities (100%) -- group securities company (formerly Joyo Securities)
-  ├── Mebuki Lease (100%) -- group leasing company
-  ├── Mebuki Card (100%) -- group credit-card company
-  └── Joyo Capital / Ashikaga Capital, etc. -- regional investment / consulting businesses
+Mebuki FG (holding company, listed 7167)
+  ├── Joyo Bank (100%) ── Ibaraki Prefecture core base
+  │     └── 1935  established through merger of Joban Bank + Goju Bank, overwhelming share within Ibaraki Prefecture
+  ├── Ashikaga Bank (100%) ── Tochigi Prefecture core base
+  │     └── founded 1895 , history of 2003  failure · temporary nationalization → 2008  transfer to the private sector
+  ├── Mebuki Securities (100%) ── group securities (formerly Joyo Securities)
+  ├── Mebuki Lease (100%) ── group leasing
+  ├── Mebuki Card (100%) ── group credit card
+  └── Joyo Capital / Ashikaga Capital, etc. ── regional investment / consulting
 ```
 
-### Merger background and predecessors
+### Merger background / predecessors
 
-- Former **Joyo Bank**: established in 1935-07-30 through the merger of **Tokiwa Bank + Goju Bank**. Head office in Mito, Ibaraki Prefecture. A first-tier regional bank with dominant prefectural share.
-- Former **Ashikaga Bank**: founded in 1895 (Meiji 28), head office in Utsunomiya, Tochigi Prefecture. A first-tier regional bank with dominant Tochigi share. Expanded after the war as a leading north Kanto regional bank during the high-growth period.
-- **Ashikaga Bank failure** (2003-11-29): Article 102  of the Financial Reconstruction Act was applied -> **temporary nationalization**. It was the largest regional-bank failure; the Deposit Insurance Corporation acquired all shares and placed it under special crisis management.
-- **Launch of Ashikaga HD** (2008-07): a **rehabilitation SPC** backed by a Nomura Holdings investment fund (Nomura Principal Finance) + Next Capital Partners and others acquired the bank at the 1200 億円 scale and reorganized it under Ashikaga Holdings.
-- **Ashikaga HD listing** (2013-12-19): listed on TSE First Section as a relisted regional bank.
-- **Launch of Mebuki FG** (2016-10-01): joint share transfer by Joyo + Ashikaga HD created a broad north Kanto FG.
+- Former **Joyo Bank**: established 1935-07-30 through merger of **Joban Bank + Goju Bank**. Head office in Mito City, Ibaraki Prefecture. A first-regional bank with an overwhelming share within the prefecture
+- Former **Ashikaga Bank**: founded 1895 (Meiji 28), head office in Utsunomiya City, Tochigi Prefecture. A first-regional bank with an overwhelming share in Tochigi Prefecture. Expanded as a leading northern-Kanto regional bank during the postwar high-growth period
+- **Ashikaga Bank failure** (2003-11-29): Article 102  of the Financial Reconstruction Act applied → **temporary nationalization**. The largest-scale regional-bank failure; the Deposit Insurance Corporation acquired all shares and it became a special-crisis-management bank
+- **Ashikaga HD launch** (2008-07): a **rehabilitation SPC** comprising a Nomura Holdings-affiliated investment fund (Nomura Principal Finance) + Next Capital Partners, etc., acquired it on a 1200 億円 scale and reorganized it under Ashikaga Holdings
+- **Ashikaga HD listing** (2013-12-19): relisting on the First Section of the TSE as a regional bank
+- **Mebuki FG launch** (2016-10-01): joint share transfer of Joyo + Ashikaga HD → birth of a wide-area northern-Kanto FG
 
-### Key timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Date | Event |
+| Year/Month | Event |
 |---|---|
-| 1895 | Ashikaga Bank founded (Tochigi Prefecture) |
-| 1935-07-30 | Tokiwa Bank + Goju Bank -> Joyo Bank established (Ibaraki Prefecture) |
-| **2003-11-29** | **Ashikaga Bank failed -> Article 102  of the Financial Reconstruction Act applied -> temporary nationalization** |
-| 2008-07 | Nomura-affiliated investment fund and others acquired Ashikaga Bank shares -> Ashikaga Holdings established |
-| 2013-12-19 | Ashikaga HD listed on TSE First Section |
-| **2016-10-01** | **Mebuki FG launched** (joint share transfer by Joyo Bank + Ashikaga HD) |
-| 2016-10 | Ashikaga HD made Ashikaga Bank a direct subsidiary, and Mebuki FG oversaw both banks |
-| 2022-04 | TSE market-segment review -> TSE PRIME |
-| 2024 onward | Medium-term management plan (mega-regional ambition / metropolitan expansion / DX promotion) |
+| 1895 | Ashikaga Bank founded (Tochigi Prefecture)|
+| 1935-07-30 | Joban Bank + Goju Bank → Joyo Bank established (Ibaraki Prefecture)|
+| **2003-11-29** | **Ashikaga Bank failure → Article 102  of the Financial Reconstruction Act applied → temporary nationalization** |
+| 2008-07 | Nomura-affiliated investment funds, etc., acquired Ashikaga Bank shares → Ashikaga Holdings established |
+| 2013-12-19 | Ashikaga HD listed on the First Section of the TSE |
+| **2016-10-01** | **Mebuki FG launched** (joint share transfer of Joyo Bank + Ashikaga HD)|
+| 2016-10 | Ashikaga HD made Ashikaga Bank a direct subsidiary; Mebuki FG oversees both banks |
+| 2022-04 | Review of TSE market segments → TSE PRIME |
+| 2024~ | Medium-term management plan (mega-regional orientation / metropolitan-area expansion / DX promotion)|
 
 ## 2. Business segment map
 
-| Segment | Main operators | Characteristics |
+| Segment | Main operator | Characteristics |
 |---|---|---|
-| Core franchise (Ibaraki) | Joyo Bank | Dominant Ibaraki share; broad north Kanto branch network |
-| Core franchise (Tochigi) | Ashikaga Bank | Dominant Tochigi share; Utsunomiya base |
-| Metropolitan expansion | Joyo Bank + Ashikaga Bank (Tokyo, Saitama, etc.) | Out-of-prefecture branch network; mid-sized corporate main-bank development + affluent retail |
-| Securities | Mebuki Securities | Group securities company |
+| Core base (Ibaraki)| Joyo Bank | Overwhelming share within Ibaraki Prefecture, wide-area northern-Kanto branch network |
+| Core base (Tochigi)| Ashikaga Bank | Overwhelming share within Tochigi Prefecture, based in Utsunomiya |
+| Metropolitan expansion | Joyo Bank + Ashikaga Bank (Tokyo, Saitama, etc.)| Out-of-prefecture branch network, mid-sized enterprises + high-net-worth retail |
+| Securities | Mebuki Securities | Group securities |
 | Leasing | Mebuki Lease | Equipment leasing / finance |
-| Credit cards | Mebuki Card | Regional-bank-origin credit-card company |
-| Investment / consulting | Joyo Capital / Ashikaga Capital | Regional-company funds / business succession |
+| Credit cards | Mebuki Card | A regional-bank-originated credit card |
+| Investment / consulting | Joyo Capital / Ashikaga Capital | Regional-enterprise funds / business succession |
 
-### "Mega-regional bank group" ambition
+### "Mega-regional bank group" orientation
 
-- From launch, the integration used **"mega-regional bank group"** as a slogan, aiming for broad-area scale beyond the traditional regional-bank frame. ^[extracted]
-- By deposit scale it is in the No. 2-3 位 class among regional-bank FGs, one of the top-tier groups alongside [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]].
-- Scale expansion rests on 2  axes: main-bank positions within Ibaraki + Tochigi and expansion into the Tokyo metropolitan area.
+- From the launch of the consolidation, it made **"mega-regional bank group"** its slogan: an orientation toward wide-area reach + scale beyond the regional-bank framework ^[extracted]
+- In the FG class 2-3 位 for regional banks by deposit scale (a top-tier group alongside [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]])
+- Scale expansion through the 2  axis of in-prefecture main-bank position (Ibaraki + Tochigi) + metropolitan-area expansion
 
-### Tokyo metropolitan expansion strategy
+### Metropolitan-area expansion strategy
 
-- **Out-of-prefecture branch network**: expansion into Tokyo, Saitama, Chiba, Kanagawa, and other areas. Focuses on developing mid-sized corporate main-bank relationships and affluent retail.
-- The geographical rationale is economic-area connectivity: Ibaraki -> northeastern Tokyo, and Tochigi -> northern Saitama.
+- **Out-of-prefecture branch network**: expansion into Tokyo, Saitama, Chiba, Kanagawa, etc. Cultivation of mid-sized-enterprise main-bank relationships and high-net-worth retail
+- The economic-zone connection of Ibaraki → northeastern Tokyo / Tochigi → northern Saitama is the geographic basis for metropolitan-area expansion
 
-### Digitalization and regional revitalization
+### Digitalization / regional revitalization
 
-- **DX promotion**: the medium-term management plan emphasizes digital-channel strengthening, branch optimization, and head-office operational efficiency.
-- **Regional revitalization**: links with local governments, business succession, regional-company M&A brokerage, tourism promotion, and related initiatives.
+- **DX promotion**: in the medium-term management plan, strengthening digital channels, optimizing branches, and improving headquarters-operation efficiency
+- **Regional revitalization**: municipal collaboration, business succession, M&A brokerage for regional enterprises, tourism promotion, etc.
 
-### Position in competition and regional-bank consolidation
+### Position in competition / regional-bank realignment
 
-- **Competitors**: [[regional-banks/concordia-fg]] (Yokohama + Higashi-Nippon) / [[regional-banks/chiba-bank|chiba-bank-fg]] (direct competitor as an adjacent-metropolitan broad-area FG) / [[regional-banks/fukuoka-fg]] (broad-area FG scale competition).
-- Versus the **megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it differentiates through regional-bank integration and high prefectural share.
-- Keeps distance from the **SBI No. 4  mega concept** led by [[megabanks/sbi-hd]], following its own broad-area route.
+- **Competitors**: [[regional-banks/concordia-fg]] (Yokohama + Higashi-Nippon) / [[regional-banks/chiba-bank|chiba-bank-fg]] (a direct competitor as an adjacent metropolitan-area wide-area FG) / [[regional-banks/fukuoka-fg]] (wide-area-FG scale competition)
+- Against **megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it differentiates through regional-bank consolidation + in-prefecture share
+- Keeps its distance from the **SBI 4 -mega concept** (led by [[megabanks/sbi-hd]]), pursuing its own wide-area path
 
-## 4. Regulation and policy
+## 4. Regulation / policy
 
-- **Supervisors**: Financial Services Agency (FSA) + Kanto Local Finance Bureau.
-- **Holding-company regulation**: Banking Act, Article 52 -17
-- **Ashikaga Bank nationalization history**: Article 102  of the Financial Reconstruction Act applied in 2003-11  -> Deposit Insurance Corporation acquired all shares -> 2008-07  private-sector transfer. It is a typical and largest-case reference point in financial administration for regional-bank failure resolution.
-- **Recent policy issues**:
-  - 2024 onward: Bank of Japan policy-rate normalization -> improved regional-bank margins, with larger benefit than megabanks.
-  - 2025 onward: faster regional-bank consolidation (population decline + digital-investment burden) -> search for the next stage of the north Kanto broad-area alliance.
-  - Connection with local-government cooperation and regional-revitalization policy, reflecting the public role of regional banks.
+- **Supervisor**: Financial Services Agency (FSA) + Kanto Local Finance Bureau
+- **Holding-company regulation**: Banking Act Article 52 -17
+
+- **History of Ashikaga Bank's nationalization processing**: 2003-11  Article 102  of the Financial Reconstruction Act applied → Deposit Insurance Corporation acquired all shares → 2008-07  transfer to the private sector. As the typical and largest case of regional-bank failure processing, it is a reference example in financial administration
+- **Recent policy topics**:
+  - 2024~ BOJ policy-rate normalization → regional-bank margin improvement (a greater benefit than for megabanks)
+  - 2025~ acceleration of regional-bank realignment (population decline + digital-investment burden) → exploring the next stage of the wide-area northern-Kanto alliance
+  - Connection with municipal collaboration / regional-revitalization policy (the public role of regional banks)
 
 ## Related
 
@@ -114,11 +116,11 @@ Mebuki FG (listed holding company 7167)
 
 ## Sources
 
-- **Wikipedia: Mebuki Financial Group** (https://ja.wikipedia.org/wiki/めぶきフィナンシャルグループ, extracted 2026-05-19)
-- **Wikipedia: Joyo Bank** (https://ja.wikipedia.org/wiki/常陽銀行, extracted 2026-05-19)
-- **Wikipedia: Ashikaga Bank** (https://ja.wikipedia.org/wiki/足利銀行, extracted 2026-05-19)
+- **Wikipedia: めぶきフィナンシャルグループ** (https://ja.wikipedia.org/wiki/めぶきフィナンシャルグループ, extracted 2026-05-19)
+- **Wikipedia: 常陽銀行** (https://ja.wikipedia.org/wiki/常陽銀行, extracted 2026-05-19)
+- **Wikipedia: 足利銀行** (https://ja.wikipedia.org/wiki/足利銀行, extracted 2026-05-19)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  Wikipedia-based checking 2026-05-19). The history, subsidiary structure, and Ashikaga Bank nationalization process are established from public information. Financial figures and latest major shareholders are not included in this version and require direct confirmation from Mebuki FG securities reports. Quantitative targets in the medium-term management plan await public-material updates.
+> confidence: **likely** (cross-checked against v1.0  Wikipedia 2026-05-19). The history, subsidiary structure, and Ashikaga Bank's nationalization processing are established from public information. Results figures and the latest major shareholders are not included in this version (direct confirmation of Mebuki FG's securities report required). The quantitative targets of the medium-term management plan await an update of public materials.

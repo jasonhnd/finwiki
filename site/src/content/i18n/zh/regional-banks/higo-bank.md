@@ -1,45 +1,45 @@
 ---
 source: regional-banks/higo-bank
-source_hash: be8f79bf6873eed3
+source_hash: 6a730af59a31a2aa
 lang: zh
 status: machine
 fidelity: ok
 title: "肥后银行"
-translated_at: 2026-05-31T15:29:03.943Z
+translated_at: 2026-06-19T12:43:19.890Z
 ---
 
 # 肥后银行
 
 
-## 维基路线
+## Wiki route
 
-该条目位于[[regional-banks/INDEX|regional-banks INDEX]]下。针对同行/对比上下文阅读 [[regional-banks/fukuoka-bank|福岡銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+本条目归属于 [[regional-banks/INDEX|regional-banks INDEX]]。请对照 [[regional-banks/fukuoka-bank|福岡銀行]] 了解同业／对比背景，并对照 [[banking/INDEX|banking index]] 了解更广泛的系统／监管边界。
 
-## 长话短说
+## TL;DR
 
-肥后银行有限公司是一家地区性银行，其主要分行位于熊本县，并被列入金融厅的银行牌照名单。它是[[regional-banks/kyushu-fg]]的核心运营银行，并被视为熊本/台积电毗邻金融的区域银行运营公司锚。
+株式会社肥后银行是一家在金融厅银行牌照名单中登记、总店设于熊本县的地方银行。它是 [[regional-banks/kyushu-fg]] 的 core operating bank，被视为 Kumamoto / TSMC-adjacent finance 的 regional-bank operating-company anchor。
 
-## 1 。许可证/组边界
+## 1. License / group boundary
 
-|项目 |笔记|
+| Item | Notes |
 |---|---|
-|法定名称 |肥后银行|
-|许可途径|银行法地区银行； FSA 银行牌照列表 |
-|组边界| [[regional-banks/kyushu-fg]]核心运营银行|
-|国内市场|熊本/熊本市|
-|维基角色 |熊本地方银行运营公司页面|
+| Legal name | 株式会社肥后银行 |
+| License route | Banking Act regional bank; FSA bank license list |
+| Group boundary | [[regional-banks/kyushu-fg]] core operating bank |
+| Home market | Kumamoto / Kumamoto City |
+| Wiki role | Kumamoto regional-bank operating-company page |
 
-## 2.操作模型
+## 2. Operating model
 
-肥后银行是一家区域银行，负责零售存款、中小企业金融、半导体集群金融、农业/制造业支持以及区域关系银行业务，主要位于熊本县。[[regional-banks/kyushu-fg]]页面涉及控股公司战略和肥后/鹿儿岛两家银行结构，本页面涉及银行牌照实体。有关九州地区银行合并的背景，请参阅 [[banking/regional-bank-consolidation-pattern]]。
+肥后银行是一家以熊本县为中心、承担 retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking 的 regional bank。[[regional-banks/kyushu-fg]] page 处理 holding-company strategy and Higo / Kagoshima two-bank structure，本页处理 bank-license entity。关于 Kyushu regional-bank consolidation context 请参见 [[banking/regional-bank-consolidation-pattern]]。
 
-## 3 。为什么此页面很重要
+## 3. Why this page matters
 
-- 缩小了 Higo Bank 的 FSA 确切名称运营公司差距。
-- 将银行牌照与[[regional-banks/kyushu-fg]]控股公司的覆盖范围分开。
-- 为 [[regional-banks/kagoshima-bank]]、[[regional-banks/miyazaki-bank]] 和[[regional-banks/fukuoka-bank]]提供对等锚点。
+- Closes the FSA exact-name operating-company gap for 肥后银行.
+- Separates the bank license from [[regional-banks/kyushu-fg]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/kagoshima-bank]], [[regional-banks/miyazaki-bank]], and [[regional-banks/fukuoka-bank]].
 
-## 有关的
+## Related
 
 - [[regional-banks/kyushu-fg]]
 - [[regional-banks/kagoshima-bank]]
@@ -48,7 +48,7 @@ translated_at: 2026-05-31T15:29:03.943Z
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 
-## 来源
+## Sources
 
-- FSA：银行执照列表，区域银行，截至 2026-01-01。
-- 肥后银行官方公司信息。
+- FSA: bank license list, regional banks, as of 2026-01-01.
+- Higo Bank official company information.

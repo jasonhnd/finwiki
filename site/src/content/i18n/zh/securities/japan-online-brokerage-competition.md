@@ -1,90 +1,90 @@
 ---
 source: securities/japan-online-brokerage-competition
-source_hash: 8a707f967aafcc17
+source_hash: e59e79568c36abba
 lang: zh
 status: machine
 fidelity: ok
-title: "日本网上经纪大赛"
-translated_at: 2026-06-01T03:31:12.300Z
+title: "日本在线券商竞争"
+translated_at: 2026-06-19T12:43:19.883Z
 ---
 
-# 日本网上经纪大赛
+# 日本在线券商竞争
 
 ## 概述
 
-日本的在线经纪竞争现在不再是简单的“廉价佣金”竞赛，而是更多关于收购渠道：NISA 账户、积分计划、银行联系、信用卡积累、应用程序分发、SOR / PTS 执行、产品广度和财富保留路径。
+日本的在线券商竞争如今已不再是简单的"廉价佣金"竞赛，而更多关乎获客漏斗：NISA 账户、积分计划、银行联动、信用卡累积、应用分销、SOR / PTS 执行、产品广度以及财富留存路径。
 
-使用 [[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] 和 [[loyalty/japan-points-landscape|Japan points landscape]] 阅读本页。公司特定的结论仍然属于相关的 [[securities/INDEX|securities INDEX]] 页面。
+请将本页与 [[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] 和 [[loyalty/japan-points-landscape|Japan points landscape]] 一同阅读。针对具体公司的结论仍应放在相关的 [[securities/INDEX|securities INDEX]] 页面上。
 
-## 有竞争力的轴
+## 竞争轴
 
-| 轴 | 公共相关性 | 要链接的页面 |
+| 轴 | 公开相关性 | 待链接页面 |
 |---|---|---|
-| NISA收购 | 新 NISA 将第一个经纪账户转变为长期家庭资产流动关系。 | [[securities/nisa-2024-flow]]、[[securities-firms/sbi-securities]]、[[securities-firms/rakuten-securities]] |
-| 境内股权收费模式 | 零费用或低费用的日本股票交易将收入结构向保证金、外汇、基金、包装、数据、借贷和生态系统经济方向转变。 | [[securities-firms/sbi-securities]]、[[securities-firms/rakuten-securities]]、[[securities-firms/matsui-sec]] |
-| 生态系统点 | 积分可以补贴购买并使投资成为日常使用循环而不是偶尔的交易事件。 | [[loyalty/japan-points-landscape]]、[[securities-firms/rakuten-securities]]、[[securities-firms/paypay-securities]] |
-| 银行卡联动 | 工资、存款、信用卡和银行转账通道降低了经常性投资的摩擦。 | [[megabanks/sbi-hd]]、[[payment-firms/rakuten-fg]]、[[securities-firms/mufg-esmart-securities]]、[[payments/japan-code-payment-competitive-map]] |
-| 产品广度 | 股票、投资信托、美国股票、债券、外汇、差价合约、衍生品、机器人和养老金产品推动钱包份额增长。 | [[securities-firms/monex-group]]、[[securities-firms/gmo-click-securities]]、[[securities-firms/dmm-com-securities]] |
-| 应用程序原生小型用户体验 | 零碎/小额投资将经纪业务转向支付应用程序和钱包行为。 | [[securities-firms/paypay-securities]]、[[payments/psp-merchant-settlement-risk]] |
-| 执行路线 | SOR / PTS / 交易所路由使得最佳执行和费用营销比标题佣金更加复杂。 | [[securities/japan-market-infrastructure-map]]、[[securities/japannext-securities]]、[[securities/osaka-digital-exchange]] |
-| 信任与合规 | 随着经纪业务接触到非传统投资者，广告、适用性、客户资产隔离和自我监管变得更加重要。 | [[financial-regulators/jsda]]、[[financial-licenses/securities-license-stack]] |
+| NISA 获客 | 新 NISA 将首个券商账户转变为长久期的家庭资产流关系。 | [[securities/nisa-2024-flow]], [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]] |
+| 国内股票费率模式 | 零费率或低费率的日本股票交易将收入结构转向保证金、外汇、基金、包裹账户、数据、借贷以及生态系统经济。 | [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]], [[securities-firms/matsui-sec]] |
+| 生态系统积分 | 积分可以补贴获客，并将投资变成日常使用的循环，而非偶尔的交易事件。 | [[loyalty/japan-points-landscape]], [[securities-firms/rakuten-securities]], [[securities-firms/paypay-securities]] |
+| 银行与卡联动 | 工资、存款、信用卡和银行转账通道降低了定期投资的摩擦。 | [[megabanks/sbi-hd]], [[payment-firms/rakuten-fg]], [[securities-firms/mufg-esmart-securities]], [[payments/japan-code-payment-competitive-map]] |
+| 产品广度 | 股票、投资信托、美国股票、债券、外汇、CFD、智能投顾和养老金产品驱动钱包份额。 | [[securities-firms/monex-group]], [[securities-firms/gmo-click-securities]], [[securities-firms/dmm-com-securities]] |
+| 应用原生小额起步 UX | 碎股 / 小额投资使券商向支付应用和钱包行为靠拢。 | [[securities-firms/paypay-securities]], [[payments/psp-merchant-settlement-risk]] |
+| 执行路由 | SOR / PTS / 交易所路由使最佳执行和费用营销比表面佣金更复杂。 | [[securities/japan-market-infrastructure-map]], [[securities/japannext-securities]], [[securities/osaka-digital-exchange]] |
+| 信任与合规 | 随着券商触及非传统投资者，广告、适当性、客户资产隔离和自律变得更加重要。 | [[financial-regulators/jsda]], [[financial-licenses/securities-license-stack]] |
 
-## 经纪商地图
+## 券商图谱
 
-| 经纪商/集团 | 核心阅读 | 竞争角度 |
+| 券商 / 集团 | 核心解读 | 竞争角度 |
 |---|---|---|
-| [[securities-firms/sbi-securities|SBI Securities]] | [[megabanks/sbi-hd|SBI HD]] 的在线证券部门。 | 零费用推送、NISA规模、银行/集团联动、广泛的产品组合。 |
-| [[securities-firms/rakuten-securities|Rakuten Securities]] | 乐天金融和积分生态系统内的经纪业务。 | 乐天积分、卡/银行联动、NISA收购、SOR相关费用模式。 |
-| [[securities-firms/monex-group|Monex Group]] | 上市在线经纪公司和加密货币相关金融集团。 | 美国股票、加密货币邻接、财富/全球产品路线。 |
-| [[securities-firms/matsui-sec|Matsui Securities]] | 具有长期零售经纪身份的独立在线经纪商。 | 成本敏感的国内股权客户和服务差异化。 |
-| [[securities-firms/mufg-esmart-securities|MUFG eSmart Securities]] | MUFG / KDDI 关联的在线经纪商，以前称为 au Kabucom。 | 银行/电信/积分联动和大型银行集团零售防御。 |
-| [[securities-firms/paypay-securities|PayPay Securities]] | 与 PayPay / SoftBank 生态系统相关的应用程序嵌入式经纪业务。 | 小额投资、支付应用程序分发、PayPay 余额/银行链接用户体验。 |
-| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Financial Holdings 证券/外汇/差价合约运营商。 | 衍生品和交易频率货币化，而不是纯粹的 NISA 收购。 |
-| [[securities-firms/dmm-com-securities|DMM.com Securities]] | DMM 品牌的证券/外汇运营商。 | 外汇/差价合约和基于应用程序的交易界面；通过许可和披露来验证产品类别。 |
+| [[securities-firms/sbi-securities|SBI Securities]] | [[megabanks/sbi-hd|SBI HD]] 的在线证券部门。 | 零费率推进、NISA 规模、银行 / 集团联动、广泛的产品组合。 |
+| [[securities-firms/rakuten-securities|Rakuten Securities]] | 处于乐天金融与积分生态系统内的券商。 | 乐天积分、卡 / 银行联动、NISA 获客、与 SOR 相关的费率模式。 |
+| [[securities-firms/monex-group|Monex Group]] | 上市的在线券商及加密相邻金融集团。 | 美国股票、加密相邻、财富 / 全球产品路径。 |
+| [[securities-firms/matsui-sec|Matsui Securities]] | 拥有长期零售券商身份的独立在线券商。 | 对成本敏感的国内股票客户与服务差异化。 |
+| [[securities-firms/mufg-esmart-securities|MUFG eSmart Securities]] | 与 MUFG / KDDI 关联的在线券商，前身为 au Kabucom。 | 银行 / 电信 / 积分联动与巨型银行集团的零售防御。 |
+| [[securities-firms/paypay-securities|PayPay Securities]] | 与 PayPay / 软银生态系统相关联的应用嵌入式券商。 | 小额起步投资、支付应用分销、PayPay 余额 / 银行联动 UX。 |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Financial Holdings 的证券 / 外汇 / CFD 运营商。 | 衍生品和交易频率变现，而非纯粹的 NISA 获客。 |
+| [[securities-firms/dmm-com-securities|DMM.com Securities]] | DMM 品牌的证券 / 外汇运营商。 | 外汇 / CFD 和基于应用的交易界面；按牌照和披露核实产品类别。 |
 
 ## 市场结构解读
 
-在线经纪市场存在三个重叠的竞争：
+在线券商市场有三场相互重叠的竞赛：
 
-1. **账户竞赛**：赢得 NISA 账户、经常性投资指令和第一个家庭投资关系。
-2. **活动竞赛**：通过保证金、外汇、差价合约、期权、数据、借贷和执行服务将活跃交易者货币化。
-3. **生态竞赛**：将银行、卡、积分、钱包、电商、电信频率转化为投资资产。
+1. **账户竞赛**：赢得 NISA 账户、定期投资指令以及首个家庭投资关系。
+2. **活跃度竞赛**：通过保证金、外汇、CFD、期权、数据、借贷和执行服务对活跃交易者进行变现。
+3. **生态系统竞赛**：将银行、卡、积分、钱包、电商和电信频率转化为投资资产。
 
-最重要的分析错误是将所有在线经纪商视为同一企业。 [[securities-firms/sbi-securities|SBI Securities]]、[[securities-firms/rakuten-securities|Rakuten Securities]]为家庭资产流动平台； [[securities-firms/gmo-click-securities|GMO Click Securities]]和[[securities-firms/dmm-com-securities|DMM.com Securities]]具有更强的活跃交易/外汇邻接性； [[securities-firms/paypay-securities|PayPay Securities]]更接近于应用程序嵌入的投资分配。
+最重要的分析错误是把所有在线券商当作同一种业务。[[securities-firms/sbi-securities|SBI Securities]] 和 [[securities-firms/rakuten-securities|Rakuten Securities]] 是家庭资产流平台；[[securities-firms/gmo-click-securities|GMO Click Securities]] 和 [[securities-firms/dmm-com-securities|DMM.com Securities]] 拥有更强的活跃交易 / 外汇相邻性；[[securities-firms/paypay-securities|PayPay Securities]] 更接近应用嵌入式投资分销。
 
-## NISA 和点循环
+## NISA 与积分循环
 
-新的 NISA 在结构上很重要，因为它使免税的长期投资账户永久处于 2024  体系下。这将经纪经济学转向经常性流动：
+新 NISA 在结构上很重要，因为它在 2024  制度下使免税、长期投资账户成为永久性的。这将券商经济转向定期流：
 
-- 经常性投资信托购买；
-- 卡内资金积累；
-- 积分资助或积分奖励投资；
-- 银行账户扫款、快速存款；
-- 家庭/薪资/奖金周期资产形成；
-- 交叉销售 iDeCo、债券、美国股票、保单、保险或银行产品。
+- 定期投资信托购买；
+- 卡资金累积；
+- 积分资金或积分奖励的投资；
+- 银行账户清扫与快速存款；
+- 家庭 / 工资 / 奖金周期的资产形成；
+- 交叉销售至 iDeCo、债券、美国股票、包裹账户、保险或银行产品。
 
-这使得 [[loyalty/japan-points-landscape|Japan points landscape]] 与经纪分析相关。积分不仅是营销赠品；它们可以成为客户获取成本、保留货币以及跨金融、零售和支付的数据循环。
+这使得 [[loyalty/japan-points-landscape|Japan points landscape]] 与券商分析相关。积分不仅是营销赠品；它们可以成为获客成本、留存货币以及跨金融、零售和支付的数据循环。
 
-## 费用竞赛对应点
+## 费率竞赛的反论
 
-| 风险 | 公共相关性 |
+| 风险 | 公开相关性 |
 |---|---|
-| 头条零手续费可能有条件 | SBI 和乐天官方页面描述了条件、课程设置或执行路线假设。请务必检查当前的官方费用页面。 |
-| 执行质量比佣金更难 | SOR、PTS、交换路由和最佳执行策略会影响实际的客户结果。 |
-| 收入转移到其他地方 | 保证金借贷、外汇、投资信托、包装、证券借贷、数据和集团经济学可以取代可见的股权佣金。 |
-| 零售收购可能是周期性的 | NISA 账户增长、牛市和媒体周期可能会导致没有耐用资产的账户开户数量增加。 |
-| 应用程序用户体验可以压缩风险警告 | 轻量级的入职培训需要更强的适用性、披露和客户支持控制。 |
+| 表面的零费率可能附带条件 | SBI 和乐天官方页面描述了条件、套餐设置或执行路由假设。务必查看当前官方费用页面。 |
+| 执行质量比佣金更难 | SOR、PTS、交易所路由和最佳执行政策影响真实的客户结果。 |
+| 收入转移至别处 | 保证金借贷、外汇、投资信托、包裹账户、证券借贷、数据和集团经济可以替代可见的股票佣金。 |
+| 零售获客可能具周期性 | NISA 账户增长、牛市和媒体周期可能在没有持久资产的情况下抬高开户数。 |
+| 应用 UX 可能压缩风险警示 | 轻量化的入门需要更强的适当性、披露和客户支持控制。 |
 
 ## 研究清单
 
-1. 通过FSA和JSDA确认实体和注册途径。
-2. 请阅读当前的官方费用表，而不是陈旧的媒体比较。
-3. 单独的国内股票、美国股票、投资信托、外汇、差价合约和 NISA 费用。
-4. 检查积分是赚取、花费、投资还是仅用于营销。
-5. 检查银行/卡/钱包链接以及流程是否改变托管或指令层。
-6. 在讨论 SOR、PTS 或执行时，将代理链接到 [[securities/japan-market-infrastructure-map|market infrastructure]]。
+1. 通过 FSA 和 JSDA 确认实体及注册路由。
+2. 阅读当前的官方费用表，而非过时的媒体比较。
+3. 区分国内股票、美国股票、投资信托、外汇、CFD 和 NISA 费用。
+4. 检查积分是赚取、花费、投资，还是仅用于营销。
+5. 检查银行 / 卡 / 钱包联动，以及该流向是否改变托管或指令层。
+6. 在讨论 SOR、PTS 或执行时，将券商链接至 [[securities/japan-market-infrastructure-map|market infrastructure]]。
 
-## 有关的
+## 相关
 
 - [[securities/INDEX]]
 - [[securities/nisa-2024-flow]]
@@ -104,10 +104,10 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 ## 来源
 
-- FSA：NISA 2024 特殊站点。
-- FSA：金融工具业务经营者注册工作簿。
-- JSDA：协会会员名单。
-- SBI证券：“零革命”和国内股票费用信息。
-- 乐天证券：佣金/零课程信息。
+- FSA：NISA 2024  专设网站。
+- FSA：金融商品交易业者注册工作簿。
+- JSDA：协会会员列表。
+- SBI 证券："Zero Revolution" 和国内股票费用信息。
+- 乐天证券：佣金 / 零套餐信息。
 - 松井证券：费用表。
-- PayPay Securities：积累-投资服务页面。
+- PayPay 证券：累积投资服务页面。

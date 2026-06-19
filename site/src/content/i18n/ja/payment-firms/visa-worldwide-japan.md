@@ -1,65 +1,65 @@
 ---
 source: payment-firms/visa-worldwide-japan
-source_hash: 09054443887fd7a1
+source_hash: f045b2f1fa16deb7
 lang: ja
 status: machine
 fidelity: ok
 title: "ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)"
-translated_at: 2026-06-02T16:33:58.502Z
+translated_at: 2026-06-19T06:09:18.108Z
 ---
 
 # ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置づける。比較・対照の文脈では [[card-issuers/jcb|JCB]] とあわせて読む。Visa はグローバルな純粋スキームであり、JCB は日本発のハイブリッド型である。より広い制度・規制上の境界については [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] を参照する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア／対比のコンテキストとして [[card-issuers/jcb|JCB]]（Visa は global pure-scheme、JCB は Japan-origin hybrid）と、より広範なシステム／規制上の境界として [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] と照らし合わせて読むこと。
 
-## 要約
+## TL;DR
 
-ビザ・ワールドワイド・ジャパンは、米 Visa Inc. (NYSE:V) の **日本拠点法人**であり、日本国内における Visa ブランドのライセンス供与とスキーム運営を担う。日本では国際カードブランドとして **最大シェアと推定** され ^[likely]、[[card-issuers/smbc-card|三井住友カード]] (Visa 提携を主軸とする発行会社)、[[card-issuers/mufg-nicos|三菱UFJニコス]]、[[card-issuers/rakuten-card|楽天カード]] などの主要 issuer に Visa ブランドを供与している。歴史的には **VJA (Visa Japan Association、ビザ・ジャパン協会)** という Visa ブランド国内 issuer 連合体が、三井住友カードを事務局として運営されてきた経緯がある。ブランド窓口 (Visa Worldwide Japan) と協会組織 (VJA) の 2 階建て構造が独特である。
+ビザ・ワールドワイド・ジャパンは、米 Visa Inc. (NYSE:V) の **日本拠点法人**で、Visa ブランドの日本国内ライセンス供与・スキーム運営を担う。日本では国際カードブランドとして **最大シェアの推定** を保持し ^[likely]、[[card-issuers/smbc-card|三井住友カード]] (Visa 提携主軸)、[[card-issuers/mufg-nicos|三菱UFJニコス]]、[[card-issuers/rakuten-card|楽天カード]] 等の主要 issuer に Visa ブランドを供与。歴史的には **VJA (Visa Japan Association、ビザ・ジャパン協会)** という Visa ブランド国内 issuer 連合体が三井住友カードを事務局として運営されてきた経緯があり、ブランド窓口 (Visa Worldwide Japan) と協会組織 (VJA) の 2 階建て構造が独特。
 
-## 1. ライセンス・グループ境界
+## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 正式名 | ビザ・ワールドワイド・ジャパン株式会社 (Visa Worldwide Japan Co., Ltd.) |
-| 親会社 | Visa Inc. (米 NYSE:V) |
-| ブランド上の役割 | 純粋な 4 者間スキーム運営者 / ブランドライセンサー。自社ではカード発行も加盟店契約も行わない |
-| 関連協会 | **VJA (Visa Japan Association)** — Visa 国内 issuer 連合 (事務局: 三井住友カード)。ポイントやキャンペーンなどの共同事業を運営 |
-| ウィキ上の役割 | Visa の日本拠点法人ページ。VJA は協会組織として注記し、個別 issuer ページは別立てにする。 |
+| Legal name | ビザ・ワールドワイド・ジャパン株式会社 (Visa Worldwide Japan Co., Ltd.) |
+| Parent | Visa Inc. (米 NYSE:V) |
+| Brand role | Pure 4-party scheme operator / brand licensor — 自社では発行も加盟店契約もしない |
+| 関連協会 | **VJA (Visa Japan Association)** — Visa 国内 issuer 連合 (事務局: 三井住友カード)、共同事業 (ポイント・キャンペーン等) を運営 |
+| Wiki role | Visa の日本拠点法人ページ。VJA は協会組織として注記、issuer 個別ページは別立て。 |
 
-## 2. 日本での事業ライン
+## 2. Business lines in Japan
 
-- **ブランドライセンス供与**: SMBC 系 (三井住友カード主軸)、MUFG 系 ([[card-issuers/mufg-nicos|三菱UFJニコス]])、楽天カード、イオンカードなどの主要 issuer に Visa ブランドを供与する。
-- **スキーム運営**: VisaNet を通じ、国境をまたぐオーソリゼーション / クリアリング / セトルメントを提供する。
-- **インターチェンジ料率の設定・モニタリング**: 日本市場向けの料率を設定する。詳細は [[payments/japan-interchange-and-merchant-fee-stack]] を参照。
-- **VJA との協調事業**: Visa ブランドの全国共通プロモーション、海外旅行保険などの共同付帯サービス。VJA は協会会員 issuer 横断のキャンペーンを実施する。
-- **加盟店戦略・テクノロジー導入**: Visa タッチ決済 (NFC 非接触)、Visa Click to Pay、トークン化、3-D Secure 2.0  などの国内普及。
-- **B2B・コマーシャル・クロスボーダー**: 法人 purchasing card、Visa B2B Connect などを提供する。
+- **ブランドライセンス供与**: SMBC 系 (三井住友カード主軸)、MUFG 系 ([[card-issuers/mufg-nicos|三菱UFJニコス]])、楽天カード、イオンカード等の主要 issuer に Visa ブランド供与。
+- **スキーム運営**: VisaNet を通じた国境横断の Authorization / Clearing / Settlement 提供。
+- **インターチェンジ料率設定・モニタリング**: 日本市場向け料率を設定 — 詳細は [[payments/japan-interchange-and-merchant-fee-stack]] 参照。
+- **VJA との協調事業**: Visa ブランドの全国共通プロモーション、海外旅行保険等の共同付帯サービス。VJA は協会会員 issuer 横断のキャンペーンを実施。
+- **加盟店戦略・テクノロジー導入**: Visa タッチ決済 (NFC 非接触)、Visa Click to Pay、トークン化、3-D Secure 2.0 等の国内普及。
+- **B2B・コマーシャル・クロスボーダー**: 法人 purchasing card、Visa B2B Connect 等の供給。
 
-ブランド窓口としては「日本における Visa の顔」だが、消費者向けのカード発行 / 加盟店契約は一切行わない。つまり、経済産業省の割賦販売法上の登録業者ではない。
+ブランド窓口としては「Visa の日本における顔」だが、消費者向け発行 / 加盟店契約は一切しない — METI Installment Sales Act 登録業者ではない。
 
-## 3. JCB / 国内スキームに対する戦略・競争上の位置
+## 3. Strategy & competitive position vs JCB / domestic schemes
 
-Visa は **日本国内シェア首位の国際ブランド** である ^[likely]。圧倒的な国内 issuer 数、伝統的に 100 行超の地銀・信金などを含む VJA 加盟網、加盟店受容性、グローバル相互利用性で他ブランドに先行する。[[card-issuers/jcb|JCB]] が「日本発ブランド」「アジアで強い」ことを訴求するのに対し、Visa は「世界 200 ヵ国超で使える」「最大の加盟店ネットワーク」を訴求する。[[payment-firms/mastercard-japan|Mastercard Japan]] とは 4 者間スキーム同士のグローバル覇権争いだが、日本では Visa が先行している。楽天カードや Olive ([[card-issuers/smbc-card|三井住友カード]]) のような新規プロダクトでも Visa 採用が多いことが優位性の源泉である。VJA の存在は日本特有で、Visa グローバル本体がブランド供与を集約管理する一方、国内 issuer 連合が共同事業を別途運営する「2階層」構造を成している。
+Visa は **日本国内シェア首位の国際ブランド** ^[likely]。圧倒的な国内 issuer 数 (VJA 加盟は伝統的に 100 行超の地銀・信金等を含む)、加盟店受容性、グローバル相互利用性で他ブランドに先行する。[[card-issuers/jcb|JCB]] が「Japan brand」「アジア強い」を訴求するのに対し、Visa は「世界 200 ヵ国超で使える」「最大の加盟店ネットワーク」を訴求。[[payment-firms/mastercard-japan|Mastercard Japan]] とは 4-party 同士のグローバル覇権争いだが、日本では Visa が先行。楽天カードや Olive ([[card-issuers/smbc-card|三井住友カード]]) のような新規プロダクトにも Visa 採用が多いことが優位の源泉。VJA の存在は日本独特で、Visa グローバル本体がブランド供与を集約管理する一方、国内 issuer 連合が共同事業を別途運営する「2-tier」構造を成す。
 
-## 4. このページが重要な理由
+## 4. Why this page matters
 
-- 「**Visa Worldwide Japan**」(ブランド窓口) と「**VJA**」(国内 issuer 連合) の **2 階建て構造** を整理する。
-- 国内最大シェアの国際ブランドについて、**法人エンティティの境界** を明示する。
-- カード issuer ページ ([[card-issuers/smbc-card]] など) との上下関係を整理する起点になる。
+- 「**Visa Worldwide Japan**」(ブランド窓口) と「**VJA**」(国内 issuer 連合) の **2 階建て構造** を整理
+- 国内最大シェア国際ブランドの **法人エンティティ境界** を明示
+- カード issuer ページ ([[card-issuers/smbc-card]] 等) との上下関係を整理する起点
 
-## 関連項目
+## Related
 
-- [[card-issuers/jcb|JCB]] (国内の主要競合、3 者間ハイブリッド、日本発)
-- [[payment-firms/mastercard-japan|Mastercard Japan]] (4 者間の直接競合)
-- [[payment-firms/american-express-international-japan|American Express International Japan]] (3 者間の競合)
+- [[card-issuers/jcb|JCB]] (国内主要競合・3-party hybrid・日本起源)
+- [[payment-firms/mastercard-japan|Mastercard Japan]] (4-party 直接競合)
+- [[payment-firms/american-express-international-japan|American Express International Japan]] (3-party 競合)
 - [[payment-firms/unionpay-international-japan|UnionPay International Japan]] (インバウンド競合)
-- [[card-issuers/smbc-card]] (VJA 事務局、Visa 主軸 issuer)
-- [[card-issuers/mufg-nicos]] / [[card-issuers/rakuten-card]] (Visa ブランドの主要 issuer)
+- [[card-issuers/smbc-card]] (VJA 事務局・Visa 主軸 issuer)
+- [[card-issuers/mufg-nicos]] / [[card-issuers/rakuten-card]] (Visa ブランド主要 issuer)
 - [[payments/japan-card-issuer-acquirer-processor-split]] / [[payments/japan-interchange-and-merchant-fee-stack]]
 
-## 出典
+## Sources
 
 - Visa Japan 公式サイト: https://www.visa.co.jp/
 - Visa ビジネス概要 (日本): https://www.visa.co.jp/about-visa/our_business/visa-japan.html

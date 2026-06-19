@@ -1,13 +1,14 @@
 ---
 source: megabanks/resona-hd
-source_hash: f3e62e90a721f678
+source_hash: 3f38a5326433d658
 lang: en
 status: machine
 fidelity: ok
-title: "Resona Holdings"
-translated_at: 2026-06-01T00:41:50.445Z
+title: "りそなホールディングス (Resona Holdings)"
+translated_at: 2026-06-19T06:09:18.192Z
 ---
-# Resona Holdings
+
+# りそなホールディングス (Resona Holdings)
 
 ## Wiki route
 
@@ -15,150 +16,149 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[for
 
 ## TL;DR
 
-Positioned as the "**4 th megabank**" after the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]). As a **commercial banking G with trust functions**, it operates trust banking within the bank rather than separating a trust bank, making it Japan's first full-scale **"commercial bank + trust" model**. Its rehabilitation history runs from the 2003-05  public capital injection of **1 兆 9600 億円** (effective nationalization) to full repayment in 2015-06 . Its bases are **the Tokyo metropolitan area (Saitama) + Kansai**. The Kansai integration phase was completed through the 2021-04  full subsidiary conversion of Kansai Mirai FG, followed by the **2024-04  absorption merger of KMFG and direct-subsidiary conversion of Kansai Mirai Bank + Minato Bank**. FY2024 (2025-03  period) net income was **2,133 億円** / total assets **77.4 兆円**. ^[extracted]
+Positioned as the "**4 th megabank**" following the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]). As a **commercial bank G with trust functions**, it is **Japan's first full-fledged "commercial bank + trust" model**, operating with trust as a banking side-business without separating out a trust bank. A rehabilitation history of 2003-05  public-funds **injection of 1 兆 9600 億円** (effective nationalization) → 2015-06  full repayment. Its base is the **Tokyo metropolitan area (Saitama) + Kansai**. The Kansai-integration phase was completed with the 2021-04  full-subsidiarization of Kansai Mirai FG → the **2024-04  KMFG merger-by-absorption and direct subsidiarization of Kansai Mirai Bank + Minato Bank**. FY2024 (the 2025-03  term) net profit **2,133 億円** / total assets **77.4 兆円**. ^[extracted]
 
-## 1. Company Overview
+## 1. 会社概要
 
-**Legal name**: Resona Holdings, Inc. ^[extracted]
-**English name**: Resona Holdings, Inc.
-**Securities code**: TSE PRIME 8308 ^[extracted]
-**Establishment**: 2001-12-12 (as Daiwa Bank Holdings, Inc.) ^[extracted]
-**Current-name change**: 2003-03 (renamed "Resona HD") ^[extracted]
-**Head office**: Koto-ku, Tokyo
+**正式名**：株式会社りそなホールディングス ^[extracted]
+**英名**：Resona Holdings, Inc.
+**証券コード**：東証 PRIME 8308 ^[extracted]
+**設立**：2001-12-12（株式会社大和銀ホールディングスとして）^[extracted]
+**現法人改称**：2003-03（「りそな HD」改称）^[extracted]
+**本社**：東京都江東区
 
-### Public Capital Injection / Repayment (core of rehabilitation history) ^[extracted]
+### 公的資金注入・完済（再生史の核）^[extracted]
 
-| Item | Content |
+| 項目 | 内容 |
 |---|---|
-| Injection timing | 2003-05  |
-| Injection amount | **1 兆 9600 億円** (via Deposit Insurance Corporation) |
-| Background | Capital shortage immediately after Daiwa Bank + Asahi Bank integration; effective nationalization |
-| Repayment | 2015-06 (completed repurchase of common-stock conversion shares) |
+| 注入時期 | 2003-05 |
+| 注入額 | **1 兆 9600 億円**（預金保険機構経由）|
+| 背景 | 大和銀＋あさひ銀統合直後の自己資本不足・実質国有化 |
+| 完済 | 2015-06（普通株転換株式買戻し完了）|
 
-### Major Subsidiaries / Equity Interests
+### 主要子会社・持分
 
 ```
-Resona HD (holding company, TSE PRIME 8308)
-  ├── Resona Bank (100%) ── integration of former Daiwa Bank + part of Asahi Bank; Osaka / Tokyo dual head offices
-  │     └── Core of the "commercial bank with trust functions" model
-  ├── Saitama Resona Bank (100%) ── inherited former Asahi Bank's Saitama operations (split and established 2003-03 )
-  ├── Kansai Mirai Bank (100%, direct subsidiary from 2024-04 ) ★ ── integration of former Kansai Urban Bank + Kinki Osaka Bank (2019-04)
-  ├── [[regional-banks/minato-bank|みなと銀行]] (100%, direct subsidiary from 2024-04 ) ★ ── former Hanshin Bank line
-  │     ※ 2021-04  Kansai Mirai FG full subsidiary conversion → 2024-04  KMFG absorption merger eliminated intermediate holding company
-  ├── Resona Asset Management ── asset management
-  └── (trust functions are combined within subsidiary banks = no independent trust bank)
+りそな HD（持株会社・東証 PRIME 8308）
+  ├── りそな銀行（100%）── 旧 大和銀行 + あさひ銀行(一部)統合・本店大阪/東京二本社
+  │     └── 「信託機能を持つ商業銀行」モデルの本体
+  ├── 埼玉りそな銀行（100%）── 旧 あさひ銀行 埼玉県内営業継承（2003-03 分割設立）
+  ├── 関西みらい銀行（100%、2024-04 直接子会社化）★ ── 旧 関西アーバン銀 + 近畿大阪銀 統合（2019-04）
+  ├── [[regional-banks/minato-bank|みなと銀行]]（100%、2024-04 直接子会社化）★ ── 旧 阪神銀行系
+  │     ※ 2021-04 関西みらい FG 完全子会社化 → 2024-04 KMFG 吸収合併で中間持株解消
+  ├── りそなアセットマネジメント ── 資産運用
+  └── （信託機能は子銀行内で兼業 = 独立信託銀行を持たない）
 ```
 
-> **Structural feature**: while the 3  big megas "separate trust banks into separate legal entities", Resona **combines trust functions within the bank parent**. This is the basis for describing it as Japan's first full-scale commercial bank model. ^[extracted]
+> **構造の特徴**：3 大メガが「信託銀行を別法人化」するのに対し、りそなは**信託機能を銀行本体で兼業**。これが「日本初の本格的商業銀行」モデルの根拠。^[extracted]
 
-### Merger History / Predecessors
+### 合併歴史・前身
 
-- Former **Daiwa Bank**: founded 1918  (Nomura zaibatsu line)
-- Former **Asahi Bank**: formed through 1991-04  merger of Kyowa Bank + Saitama Bank
-- Former **Kinki Osaka Bank**: 1999-04  merger of Kinki Bank + Osaka Bank
-- Former **Nara Bank**: regional-bank line
-- 1999  Daiwa Bank + Asahi Bank began integration study
-- 2001-12-12 **Daiwa Bank Holdings** (holding company) established
-- 2003-03  renamed "Resona HD" and group reorganized
+- 旧 **大和銀行**：1918 創業（野村財閥系）
+- 旧 **あさひ銀行**：1991-04 協和銀行 + 埼玉銀行 合併発足
+- 旧 **近畿大阪銀行**：1999-04 近畿銀行 + 大阪銀行 合併
+- 旧 **奈良銀行**：地銀系
+- 1999 大和銀＋あさひ銀 統合検討開始
+- 2001-12-12 **大和銀ホールディングス**（持株会社）設立
+- 2003-03 「りそな HD」改称、グループ再編
 
-### Important Timeline ^[extracted]
+### 重要年表 ^[extracted]
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| 2001-12-12 | Daiwa Bank HD established (Daiwa Bank + Kinki Osaka + Nara) |
-| 2002 | Asahi Bank joins |
-| 2003-03 | **Renamed "Resona HD"**; Resona Bank (integration of Daiwa Bank + part of Asahi Bank) and Saitama Resona Bank (split of Asahi Bank's Saitama operations) launched |
-| **2003-05** | **Public capital injection of 1 兆 9600 億円 → effective nationalization** ★ |
-| 2007 onward | Structural reform, cost reduction, regional specialization strategy |
-| **2015-06** | **Public funds fully repaid** (completed repurchase of common-stock conversion shares) ★ |
-| 2017-11-01 | **Kansai Mirai Financial Group established** (intermediate holding company for Kansai Urban Bank + Kinki Osaka Bank + Minato Bank) |
-| 2019-04-01 | Kansai Urban Bank + Kinki Osaka Bank → integration into Kansai Mirai Bank |
-| **2021-04-01** | **Kansai Mirai FG full subsidiary conversion** (eliminated parent-subsidiary listing) ★ |
-| **2024-04-01** | **KMFG absorption merger; Kansai Mirai Bank + Minato Bank became direct subsidiaries** (eliminated intermediate holding company; Kansai integration completed) ★ |
-| 2024-2026 | Medium-term management plan in progress |
-| 2025-05 | FY2024 (2025-03  period) results: net income 2,133 億円 / total assets 77.4 兆円 |
+| 2001-12-12 | 大和銀 HD 設立（大和銀＋近畿大阪＋奈良）|
+| 2002 | あさひ銀行 合流 |
+| 2003-03 | **「りそな HD」改称**、りそな銀（大和銀＋あさひ銀の一部統合）・埼玉りそな銀（あさひ銀埼玉県内分割）発足 |
+| **2003-05** | **公的資金 1 兆 9600 億円注入 → 実質国有化**★ |
+| 2007〜 | 構造改革・コスト削減・地域特化戦略 |
+| **2015-06** | **公的資金完済**（普通株転換株式買戻し完了）★ |
+| 2017-11-01 | **関西みらいフィナンシャルグループ 設立**（関西アーバン銀＋近畿大阪銀＋みなと銀の中間持株会社）|
+| 2019-04-01 | 関西アーバン銀＋近畿大阪銀 → 関西みらい銀行 統合 |
+| **2021-04-01** | **関西みらい FG 完全子会社化**（親子上場解消）★ |
+| **2024-04-01** | **KMFG 吸収合併・関西みらい銀＋みなと銀の直接子会社化**（中間持株解消・関西統合完了）★ |
+| 2024〜2026 | 中期経営計画進行中 |
+| 2025-05 | FY2024（2025-03 期）決算：純利益 2,133 億円 / 総資産 77.4 兆円 |
 
-## 2. Business Segment Map
+## 2. 事業セグメント・マップ
 
-| Segment | Main operators | Characteristics |
+| セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| Individual retail | Resona Bank, Saitama Resona, Kansai Mirai, Minato | Tokyo metropolitan area (Saitama) + Kansai, community-rooted |
-| SME lending | Resona Bank, Kansai Mirai Bank | Mid-market specialization, differentiated from the 3  big megas |
-| Trust / pensions (combined business) | Resona Bank (built-in trust functions) | No independent trust bank; provided within bank parent |
-| Asset management | Resona Asset Management | Retail investment trusts and fund wrap |
-| Kansai area | [[regional-banks/kansai-mirai-bank|関西みらい銀行]] / [[regional-banks/minato-bank|みなと銀行]] (direct subsidiaries from 2024-04 ) | Integrated body of Kansai Urban + Kinki Osaka + Minato |
+| 個人リテール | りそな銀行・埼玉りそな・関西みらい・みなと | 首都圏（埼玉）+ 関西、地域密着 |
+| 中小企業向け融資 | りそな銀行・関西みらい銀 | 中堅市場特化、3 大メガと住み分け |
+| 信託・年金（兼業）| りそな銀行（信託機能内蔵）| 独立信託銀を持たない・銀行本体で提供 |
+| 資産運用 | りそなアセットマネジメント | 個人向け投信・ファンドラップ |
+| 関西エリア | [[regional-banks/kansai-mirai-bank|関西みらい銀行]]・[[regional-banks/minato-bank|みなと銀行]]（2024-04 直接子会社化）| 関西アーバン＋近畿大阪＋みなと統合体 |
 
-### FY2024  Consolidated Results (2025-03  period, IR confirmed) ^[extracted]
+### FY2024 連結決算（2025-03 期、IR 確認済）^[extracted]
 
-| Item | Amount / value |
+| 項目 | 金額・数値 |
 |---|---|
-| Net income attributable to owners of parent | **2,133 億円** |
-| Total assets | **77.4 兆円** |
-| Ordinary income | **1 兆 1,175 億円** |
-| Net assets | **2 兆 7,528 億円** |
-| Consolidated employees | **20,174 名** |
+| 親会社株主に帰属する当期純利益 | **2,133 億円** |
+| 総資産 | **77.4 兆円** |
+| 経常収益 | **1 兆 1,175 億円** |
+| 純資産 | **2 兆 7,528 億円** |
+| 連結従業員数 | **20,174 名** |
 
-### Major Shareholders (as of 2025-03-31) ^[extracted]
+### 主要株主（2025-03-31 時点）^[extracted]
 
-| Shareholder | Ratio |
+| 株主 | 比率 |
 |---|---|
-| The Master Trust Bank of Japan (trust account) | 16.42% |
+| 日本マスタートラスト信託銀行（信託口）| 16.42% |
 | State Street Bank | 9.00% |
 | JP Morgan Chase Bank | 5.76% |
-| Custody Bank of Japan (trust account) | 5.60% |
-| Dai-ichi Life Insurance | 3.25% |
+| 日本カストディ銀行（信託口）| 5.60% |
+| 第一生命保険 | 3.25% |
 
-### "Japan's First Full-Scale Commercial Bank + Trust" Model
+### 「日本初の本格的商業銀行 + 信託」モデル
 
-- The 3  big megas ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) **separate trust banks into distinct legal entities** (Mitsubishi UFJ Trust, Sumitomo Mitsui Trust, Mizuho Trust)
-- Resona **combines trust functions within the bank parent** → differentiated by offering "one-stop trust services at bank counters" to mid-market customers
+- 3 大メガ（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）は**信託銀行を別法人化**（三菱 UFJ 信託・三井住友信託・みずほ信託）
+- りそなは**信託機能を銀行本体で兼業** → 中堅顧客に「銀行窓口でワンストップ信託提供」差別化
 
-### Focus on Individuals and SMEs
+### 個人・中小企業特化
 
-- Wholesale IB (large M&A, global DCM/ECM) is limited
-- Two major bases are the Tokyo metropolitan area (Saitama) and Kansai; it specializes regionally rather than operating nationwide
+- ホールセール IB（大型 M&A・グローバル DCM/ECM）は限定的
+- 首都圏（埼玉）と関西の二大地盤・全国展開ではなく地域特化
 
-### Completion of Kansai Integration Phase (2024-04)
+### 関西統合フェーズ完了（2024-04）
 
-- 2017-11  Kansai Mirai FG established → 3 行 integration platform for Kansai Urban + Kinki Osaka + Minato
-- 2019-04  Kansai Urban + Kinki Osaka → Kansai Mirai Bank
-- **2021-04  Kansai Mirai FG full subsidiary conversion** (eliminated parent-subsidiary listing) ^[extracted]
-- **2024-04  KMFG absorption merger; Kansai Mirai Bank + Minato Bank became direct subsidiaries** → eliminated intermediate holding-company stage ^[extracted]
-- Kansai area integration completed → next phase is "realizing post-integration synergies"
+- 2017-11 関西みらい FG 設立 → 関西アーバン＋近畿大阪＋みなと の 3 行統合プラットフォーム
+- 2019-04 関西アーバン＋近畿大阪 → 関西みらい銀行
+- **2021-04 関西みらい FG 完全子会社化**（親子上場解消）^[extracted]
+- **2024-04 KMFG 吸収合併・関西みらい銀＋みなと銀の直接子会社化** → 中間持株段階解消 ^[extracted]
+- 関西エリア統合完了 → 次フェーズは「統合後のシナジー実現」
 
-### Stable Management and Dividend Focus After Public Funds Fully Repaid
+### 公的資金完済後の安定経営・配当重視
 
-- 2003-05  injection → 2015-06  full repayment (**12  years to 1.96 兆円 full repayment**)
-- After repayment, emphasis on core earnings and expanded shareholder returns
+- 2003-05 注入 → 2015-06 完済（**12 年で 1.96 兆円完済**）
+- 完済後はコア収益重視・株主還元拡大
 
-### Competition / Positioning
+### 競合・住み分け
 
-- vs 3  big megas: large scale gap ([[megabanks/mufg]] total assets 413 兆 vs Resona in the tens of trillions) → little competition in large IB / global corporate lending
-- vs regional banks ([[megabanks/ndfg]], etc.): differentiated by trust functions and urban bases in the Tokyo metropolitan area / Kansai
+- vs 3 大メガ：規模差大（[[megabanks/mufg]] 総資産 413 兆 vs りそな数十兆）→ 大型 IB / グローバル法人融資では競合せず
+- vs 地銀（[[megabanks/ndfg]] 等）：信託機能保有で差別化、首都圏・関西の都市部地盤
 
-## 4. Regulation / Policy
+## 4. 規制・政策
 
-- **Supervisor**: Financial Services Agency (FSA)
-- **Holding-company regulation**: Banking Act Article 52 -17
-
-- **Trust-business concurrent approval**: concurrent trust business within the bank parent is based on special approval
-- **Recent policy issues**:
-  - 2024 onward: Bank of Japan policy-rate normalization → interest-margin improvement bonus
-  - 2024 onward: realization of Kansai integration synergies after KMFG absorption merger
-  - 2025 onward: retail digital strategy (consistency with retail specialization)
+- **主管**：金融庁（FSA）
+- **持株会社規制**：銀行法 第 52 条の 17
+- **信託兼業認可**：銀行本体での信託業務兼営は特例承認による
+- **直近政策論点**：
+  - 2024〜 日銀政策金利正常化 → 金利マージン改善ボーナス
+  - 2024〜 KMFG 吸収合併後の関西統合シナジー実現
+  - 2025〜 個人向けデジタル戦略（リテール特化との整合）
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
-- [[banking/post-megabank-positioning]] (positioning discussion)
+- [[banking/post-megabank-positioning]]（位置付け論）
 
 ## Sources
 
-- **Wikipedia: Resona Holdings** (https://ja.wikipedia.org/wiki/りそなホールディングス, extracted 2026-05-19)
-- **Wikipedia: Resona Bank / Saitama Resona Bank / Kansai Mirai Financial Group** (extracted 2026-05-19)
-- Resona HD official IR / integrated report (latest)
+- **Wikipedia: りそなホールディングス**（https://ja.wikipedia.org/wiki/りそなホールディングス, 2026-05-19 抽出）
+- **Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ**（2026-05-19 抽出）
+- りそな HD 公式 IR / 統合報告書（最新）
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (updated on v1.1  Wikipedia Japanese edition + official IR basis in 2026-05-19). Key historical facts (public funds 1.96 兆円, 2003-05  injection, 2015-06  full repayment, 2021-04  Kansai Mirai full subsidiary conversion, 2024-04  KMFG absorption merger) are public-information based via Wikipedia. FY2024  results (2025-03  period) consolidated figures confirmed in IR. Next review after FY2025 (2026-03  period) results announcement.
+> confidence: **likely** (updated 2026-05-19 on a v1.1 Japanese-Wikipedia + official-IR basis). The key historical facts (public-funds 1.96 兆円・2003-05 injection, 2015-06 repayment, 2021-04 full-subsidiarization of Kansai Mirai, 2024-04 KMFG merger-by-absorption) are on a public-information basis via Wikipedia. The FY2024  results (the 2025-03  term) consolidated figures have been confirmed in IR. The next review is after the FY2025 (the 2026-03  term) results announcement.

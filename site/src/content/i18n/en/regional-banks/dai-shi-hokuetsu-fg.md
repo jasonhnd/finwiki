@@ -1,110 +1,110 @@
 ---
 source: regional-banks/dai-shi-hokuetsu-fg
-source_hash: 20f00da1740754fb
+source_hash: bb3fcf3fa3706b43
 lang: en
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T15:29:03.896Z
+title: "Dai-shi Hokuetsu FG"
+translated_at: 2026-06-19T12:43:19.925Z
 ---
 
-#4th North Vietnam FG
+# Dai-shi Hokuetsu FG
 
 ## Wiki route
 
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-##TL;DR
+## TL;DR
 
-A regional bank financial group based in Niigata Prefecture (dominated market share in the prefecture, population 220 万). 2018-10-01 Established as a joint holding company of The Daishi Bank + Hokuetsu Bank, 2021-01-01 The subsidiary banks were merged and **The Daishi Hokuetsu Bank** transitioned to a single bank structure. **Consolidation within the prefecture (full banking + main bank for medium-sized companies) + expansion outside the prefecture (sales offices in the metropolitan area) 2  axis**. The predecessor, The Daishi Bank, was founded in 1873 年 and has a history of being ``one of Japan's first national banks'' (Daishi National Bank). Tourism (Sado, skiing), agriculture (rice-producing areas), manufacturing (Tsubame-Sanjo, etc.) and finance are the characteristics of the ground. This is an example of a mid-sized wide-area alliance for regional bank reorganization.
+A regional-bank financial group based in Niigata Prefecture (overwhelming share within the prefecture; the one-prefecture-one-bank type for a prefecture of 220 万 people). Formed by the joint holding-company conversion of 2018-10-01 Dai-shi Bank + Hokuetsu Bank, then in 2021-01-01 the subsidiary banks were merged with each other, transitioning to the single-bank structure of **Dai-shi Hokuetsu Bank**. Its 2  axes are **in-prefecture base consolidation (full banking + main bank for mid-sized enterprises) + out-of-prefecture expansion (metropolitan-area branches)**. The predecessor Dai-shi Bank was established in 1873 年, with the pedigree of being "one of Japan's first national banks" (the Fourth National Bank). Tourism (Sado / skiing), agriculture (rice-producing region), and manufacturing (Tsubame-Sanjo, etc.) finance are its base characteristics. It is one of the mid-sized wide-area alliance cases in regional-bank restructuring.
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: Daishi Hokuetsu Financial Group Co., Ltd.
+**Formal name**: Dai-shi Hokuetsu Financial Group, Inc.
 **English name**: Dai-shi Hokuetsu Financial Group, Inc.
 **Securities code**: TSE PRIME 7327
-**Established**: 2018-10-01 (Daishi Bank + Hokuetsu Bank joint holding company)
-**Head office**: Chuo-ku, Niigata City, Niigata Prefecture (Location of Daishi Hokuetsu Bank Head Office)
+**Established**: 2018-10-01 (joint holding-company conversion of Dai-shi Bank + Hokuetsu Bank)
+**Headquarters**: Chuo-ku, Niigata City, Niigata Prefecture (same location as the Dai-shi Hokuetsu Bank head office)
 
-### Major subsidiaries/equity
+### Major subsidiaries / holdings
 
 ```
-Fourth North Vietnam FG (Chi Co., Ltd., entry 7327)
-└── The Daishi Hokuetsu Bank (100%)── Single bank subsidiary based in Niigata Prefecture
-├── Former Daishi Bank (1873～2020)── Largest regional bank in Niigata Prefecture
-├── Former Hokuetsu Bank (1942〜2020)── Second regional bank in the prefecture
-├── Sales base within the prefecture: Niigata City, Nagaoka City, Joetsu City, Sado, etc.
-└── Out-of-prefecture sales offices: Metropolitan area (Tokyo), etc.
+Dai-shi Hokuetsu FG (holding company / listed 7327)
+  └── Dai-shi Hokuetsu Bank (100%) ── single-bank subsidiary based in Niigata Prefecture
+        ├── Former Dai-shi Bank (1873〜2020) ── the largest regional bank within Niigata Prefecture
+        ├── Former Hokuetsu Bank (1942〜2020) ── the second-tier regional bank within the prefecture
+        ├── In-prefecture operating base: Niigata City, Nagaoka City, Joetsu City, Sado, etc.
+        └── Out-of-prefecture branches: metropolitan area (Tokyo), etc.
 ```
 
-### Merger history/predecessor
+### Merger history / predecessors
 
-- Former **Daishi Bank**: Opened as **1873 年 The Daishi National Bank** (one of Japan's first national banks, number 4 ) → 1917 年 Became a stock company → **The Daishi Bank**. Largest regional bank in Niigata Prefecture
-- Former **69th National Bank**: 1878 年 established, one of the predecessors of the later Hokuetsu Bank (number bank 69 )
-- Former **Nagaoka Sixty-nine Bank**: Sixty-ninth Bank affiliate, Nagaoka ground
-- Former **Takada Bank**: Joetsu (Takada) ground
-- Former **Kashiwazaki Bank**: Kashiwazaki Chichi
-- Former **Hokuetsu Bank**:**1942 年** Established through the merger of Nagaoka Rokujuku Bank + Takada Bank + Kashiwazaki Bank, rated as the second regional bank in Niigata Prefecture
+- Former **Dai-shi Bank**: opened as the **1873 年 Fourth National Bank** (one of Japan's first national banks, number bank No. 4 ) → 1917 年 converted to a joint-stock company → **Dai-shi Bank**. The largest regional bank within Niigata Prefecture
+- Former **69th National Bank**: established in 1878 年, later one of the predecessors of Hokuetsu Bank (number bank No. 69 )
+- Former **Nagaoka 69th Bank**: of the 69th Bank lineage, based in Nagaoka
+- Former **Takada Bank**: based in Joetsu (Takada)
+- Former **Kashiwazaki Bank**: based in Kashiwazaki
+- Former **Hokuetsu Bank**: **1942 年** formed by the merger of Nagaoka 69th Bank + Takada Bank + Kashiwazaki Bank, the second-tier regional bank within Niigata Prefecture
 
-> Background of the integration: Declining population in Niigata Prefecture + Pressure on low interest margins + Competition for corporate loans from megabanks → Respond by wide-area integration, close to one prefecture and one bank. 2  stage method of bank merger (2021-01) after becoming a joint holding company (2018-10).
+> Integration background: Niigata Prefecture's population decline + low-rate margin pressure + megabank corporate-lending competition → addressed via wide-area base consolidation approaching one-prefecture-one-bank. A 2 -stage approach of bank merger (2021-01) following the joint holding-company conversion (2018-10).
 
-### Important Chronology
+### Key chronology
 
-|years|phenomenon|
+| Year/Month | Event |
 |---|---|
-|1873 |Opening of the Fourth National Bank (one of Japan's first national banks, number 4)|
-|1878 |The 69th National Bank was established (predecessor of the Bank of North Vietnam)|
-|1917 |Demutualization → The Daishi Bank|
-|1942 |Nagaoka Rokujuku Bank + Takada Bank + Kashiwazaki Bank → **Hokuetsu Bank** launched|
-|**2018-10-01**|**Fourth North Vietnam FG was established** (Fourth Bank + North Vietnam Bank became a jointly owned company)|
-|**2021-01-01**|**Daishi Bank + Hokuetsu Bank → Merger of Daishi Hokuetsu Bank** (single bank structure completed)|
-|2024 |Announcement of medium-term management plan (new medium-term plan)|
+| 1873 | Fourth National Bank opens (one of Japan's first national banks, number 4) |
+| 1878 | 69th National Bank established (predecessor of Hokuetsu Bank) |
+| 1917 | Converted to a joint-stock company → Dai-shi Bank |
+| 1942 | Nagaoka 69th Bank + Takada Bank + Kashiwazaki Bank → **Hokuetsu Bank** formed |
+| **2018-10-01** | **Dai-shi Hokuetsu FG established** (joint holding-company conversion of Dai-shi Bank + Hokuetsu Bank) |
+| **2021-01-01** | **Dai-shi Bank + Hokuetsu Bank → Dai-shi Hokuetsu Bank merger** (single-bank structure completed) |
+| 2024 | Medium-term management plan (new plan) announced |
 
 ## 2. Business segment map
 
-|segment|main business person|Features|
+| Segment | Main operator | Characteristics |
 |---|---|---|
-|Ground core (in Niigata prefecture)|Fourth North Vietnamese Bank|Overwhelming share in the prefecture, full banking|
-|backbone enterprise main bank|Fourth North Vietnamese Bank|Manufacturing (Tsubame-Sanjo metal processing, etc.)/Agriculture (rice production area)|
-|Tourism/local industry finance|Fourth North Vietnamese Bank|Sado/Ski Resort/Niigata Port Logistics|
-|Expansion outside the prefecture|Daishi Hokuetsu Bank Metropolitan Area Branch|Expansion into Tokyo, etc. (accompanied by business partners + new development)|
-|personal retail|Fourth North Vietnamese Bank|Prefectural population 220 万, deposits/mortgage|
+| Base core (within Niigata Prefecture) | Dai-shi Hokuetsu Bank | Overwhelming in-prefecture share, full banking |
+| Main bank for mid-sized enterprises | Dai-shi Hokuetsu Bank | Manufacturing (Tsubame-Sanjo metalworking, etc.), agriculture (rice-producing region) |
+| Tourism / local-industry finance | Dai-shi Hokuetsu Bank | Sado, ski resorts, Niigata Port logistics |
+| Out-of-prefecture expansion | Dai-shi Hokuetsu Bank metropolitan-area branches | Expansion into Tokyo, etc. (accompanying clients + new development) |
+| Individual retail | Dai-shi Hokuetsu Bank | In-prefecture population 220 万, deposits / mortgages |
 
-### Ground integration strategy (one line within the prefecture)
+### Base-consolidation strategy (in-prefecture single-bank type)
 
-- **Niigata prefecture, close to one prefecture**: Regional bank structure with almost no competition within the prefecture (has already integrated Hokuetsu, the second-ranked regional bank)
-- Exclusively covers the prefecture's population 220 万 → Stable deposit base and main bank position for medium-sized companies
-- 2021-01  Through bank merger **Integration synergy of branches, personnel, and systems** Realization phase
-- Competitors within the prefecture are Shinkin Banks / JA Bank / Postal Savings ([[regional-banks/yucho]]) / Mega Corporate Loans
+- **A base within Niigata Prefecture approaching one-prefecture-one-bank**: a regional-bank structure with almost no in-prefecture competitors (the second-tier Hokuetsu already consolidated)
+- Monopolistically covers the in-prefecture population 220 万 → a stable deposit base and main-bank position for mid-sized enterprises
+- 2021-01  bank merger brings the **integration synergies of branches, personnel, and systems** into the manifestation phase
+- In-prefecture competitors are shinkin banks / JA Bank / postal savings ([[regional-banks/yucho]]) / megabank corporate lending
 
-### Strategy for expanding outside the prefecture
+### Out-of-prefecture expansion strategy
 
-- **Metropolitan area sales office**: Accompanying business partners for customers within the prefecture (manufacturing industry + trading company) + new corporate development
-- **Corporate loan competition with mega banks**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] directly approach major corporations in the prefecture → Main bank defense battle
-- Expansion outside the prefecture is more about expanding customer service within the prefecture than expanding scale.
+- **Metropolitan-area branches**: accompanying in-prefecture customers' clients (manufacturing + trading companies) + new corporate development
+- **Corporate-lending competition with megabanks**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] directly approach the prefecture's large corporates → a main-bank defense battle
+- Out-of-prefecture expansion carries more the meaning of enhancing services for in-prefecture customers than of scale expansion
 
-### Local industry characteristics
+### Local-industry characteristics
 
-- **Tourism**: Sado (Kanayama/World Heritage Candidate)/Yuzawa/Myoko Ski/Niigata City/Nagaoka Tourism Promotion
-- **Agriculture**: Rice (Koshihikari brand production area) / Sake brewery (top in Japan in number of sake breweries)
-- **Manufacturing industry**: Tsubame-Sanjo Metal Processing Cluster (cutlery, Western tableware, tools) / Nagaoka Machinery
-- **Logistics**: Niigata Port (base port on the Sea of ​​Japan side)/Niigata Airport
+- **Tourism**: Sado (gold mine / World Heritage candidate), Yuzawa / Myoko skiing, Niigata City / Nagaoka tourism promotion
+- **Agriculture**: rice (the Koshihikari brand-producing region), sake breweries (among the top in the country by number of sake brewers)
+- **Manufacturing**: the Tsubame-Sanjo metalworking cluster (blades / Western tableware / tools) / Nagaoka machinery
+- **Logistics**: Niigata Port (a hub port on the Sea of Japan side) / Niigata Airport
 
-### Position in regional bank reorganization
+### Position in regional-bank restructuring
 
-- Typical example of a medium-sized wide-area alliance as a single FG (one-person type within the prefecture)
-- Compete against Mega 3 行 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) in the prefecture's main bank position
-- Possibility of future alliances with other wide-area FGs such as [[megabanks/ndfg]]/regional banks in neighboring prefectures (Tohoku and Hokuriku) is undetermined
+- As a standalone FG, a typical case of a mid-sized wide-area alliance (in-prefecture single-bank type)
+- Counters the megabanks 3 行 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) with an in-prefecture main-bank position
+- The possibility of future alliance with other wide-area FGs such as [[megabanks/ndfg]] or neighboring-prefecture (Tohoku / Hokuriku) regional banks is undetermined
 
-## 4. Regulations and Policies
+## 4. Regulation and policy
 
-- **Supervising**: Financial Services Agency (FSA) + Kanto Local Finance Bureau Niigata Local Finance Office
-- **Holding Company Regulations**: Banking Law Article 52  17
-- **Bank Merger Regulations**: 2021-01  Fourth + Hokuetsu Merger is subject to Fair Trade Commission examination as it exceeds the prefecture's market share (approved)
-- **Current policy issues**:
-- 2024 ~ Bank of Japan policy rate normalization → Regional bank margin improvement (greater benefit than mega)
-- 2025 ~ Acceleration of regional bank reorganization (population decline + digital investment burden)
-- Niigata Prefecture's population decline (prefectural population 220 万 → long-term decreasing trend) → Deposit and loan volume pressure
+- **Supervisor**: Financial Services Agency (FSA) + Niigata Finance Office of the Kanto Local Finance Bureau
+- **Holding-company regulation**: Banking Act Article 52 -17
+- **Bank-merger regulation**: 2021-01  The Dai-shi + Hokuetsu merger is subject to JFTC review because the in-prefecture share exceeds half (approval/authorization obtained)
+- **Recent policy topics**:
+  - 2024〜 BOJ policy-rate normalization → regional-bank margin improvement (greater benefit than for megabanks)
+  - 2025〜 acceleration of regional-bank restructuring (population decline + digital-investment burden)
+  - Niigata Prefecture's population decline (prefectural population 220 万 → long-term declining trend) → pressure on deposit-loan volume
 
 ## Related
 
@@ -114,12 +114,12 @@ Fourth North Vietnam FG (Chi Co., Ltd., entry 7327)
 
 ## Sources
 
-- **Wikipedia: Daishi Hokuetsu Financial Group** (https://ja.wikipedia.org/wiki/Daishi Hokuetsu Financial Group, 2026-05-19 extract)
-- **Wikipedia: The Fourth Bank of North Vietnam** (https://ja.wikipedia.org/wiki/The Fourth Bank of North Vietnam, 2026-05-19 extracted)
-- **Wikipedia: The Fourth Bank** (https://ja.wikipedia.org/wiki/The Fourth Bank, 2026-05-19 extracted)
-- **Wikipedia: Bank of North Vietnam** (https://ja.wikipedia.org/wiki/Bank of North Vietnam, 2026-05-19 extracted)
+- **Wikipedia: Dai-shi Hokuetsu Financial Group** (https://ja.wikipedia.org/wiki/第四北越フィナンシャルグループ, 2026-05-19 extraction)
+- **Wikipedia: Dai-shi Hokuetsu Bank** (https://ja.wikipedia.org/wiki/第四北越銀行, 2026-05-19 extraction)
+- **Wikipedia: Dai-shi Bank** (https://ja.wikipedia.org/wiki/第四銀行, 2026-05-19 extraction)
+- **Wikipedia: Hokuetsu Bank** (https://ja.wikipedia.org/wiki/北越銀行, 2026-05-19 extraction)
 
 ---
 
-> [!info] Check status
-> confidence: **likely** (v1.0 Wikipedia base school core 2026-05-19). The history, integration history, and predecessor number bank (4th/69th) lineage are determined by public information. Financial figures (total assets / net income / OHR / equity ratio) are not included in this edition (requires direct confirmation of Daishi Hokuetsu FG Securities Report). Quantitative results of merger synergies, profit contribution from expansion outside the prefecture, and concrete image of digital strategy are pending updates to public materials.
+> [!info] Verification status
+> confidence: **likely** (based on v1.0  Wikipedia cross-check 2026-05-19). The history, integration developments, and predecessor number-bank (Dai-shi / 69th) lineage are fixed via public information. Financial figures (total assets / net profit / OHR / capital adequacy ratio) are not included in this edition (direct confirmation of the Dai-shi Hokuetsu FG securities report required). The quantitative track record of merger synergies, the revenue-contribution level of out-of-prefecture expansion, and the concrete picture of the digital strategy await public-material updates.

@@ -1,41 +1,43 @@
 ---
 source: life-insurers/medicare-life
-source_hash: ab4d5cec652d6c07
+source_hash: 1328ddf50cc2b04b
 lang: zh
 status: machine
 fidelity: ok
-title: "Medicare Life 生命保险"
-translated_at: 2026-05-31T23:59:49.411Z
+title: "麦迪凯尔生命保险（メディケア生命保険）"
+translated_at: 2026-06-19T06:09:18.190Z
 ---
-# Medicare Life 生命保险
+
+# 麦迪凯尔生命保险（メディケア生命保険）
+
 
 ## Wiki route
 
-本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。可与第一 Frontier 生命保险和 insurance index 对照阅读。
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Medicare Life 生命保险株式会社是 [[life-insurers/sumitomo-life]] 集团的寿险运营公司，列入金融厅寿险公司名单和生命保险协会会员名单。作为侧重医疗 / 保障产品与多渠道分销的专业保险公司，本页将其从住友生命母体中分离出来观察。
+麦迪凯尔生命保险股份有限公司（メディケア生命保険株式会社）是登载于金融厅 life-insurer list 及生命保险协会会员名录中的 [[life-insurers/sumitomo-life]] group 旗下 life-insurance operating company。作为聚焦于 medical / protection product focus and multi-channel distribution 的 specialty insurer，将其从住友生命本体中切分出来。
 
-## 1. 牌照 / 集团边界
+## 1. License / group boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | Medicare Life 生命保险株式会社 |
-| 牌照路径 | 保险业法下的寿险公司；金融厅寿险公司名单 |
-| 行业团体 | 日本生命保险协会会员 |
-| 集团边界 | [[life-insurers/sumitomo-life]] group |
-| Wiki 角色 | 住友生命集团医疗 / 保障专业保险公司 |
+| Legal name | メディケア生命保険株式会社 |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group boundary | [[life-insurers/sumitomo-life]] group |
+| Wiki role | Sumitomo Life group medical / protection specialty insurer |
 
-## 2. 运营模式
+## 2. Operating model
 
-Medicare Life 以医疗保险和简易保障产品为中心，将母公司保险人的品牌 / 资本支持与更灵活的产品渠道策略结合起来。与 [[life-insurers/hanasaku-life]]、[[life-insurers/nanairo-life]] 并列观察，可以看出大型寿险集团的专业子公司策略。
+麦迪凯尔生命以 medical insurance and simple protection products 为中心，是将 parent insurer 的 brand / capital support 与 more flexible product-channel strategy 相结合的 insurer。与 [[life-insurers/hanasaku-life]]、[[life-insurers/nanairo-life]] 并列来看，便可看出大型 life-insurer groups 的 specialty-subsidiary strategy。
 
-## 3. 本页意义
+## 3. Why this page matters
 
-- 将住友生命集团的专业保险公司与母体相互会社分开。
-- 便于进行医疗保险渠道和产品比较。
-- 有登记依据的 D2  专业保险公司。
+- Separates Sumitomo Life group specialty insurer from parent mutual company.
+- Useful for medical-insurance channel and product comparison.
+- Registry-backed D2 specialty insurer.
 
 ## Related
 
@@ -49,4 +51,4 @@ Medicare Life 以医疗保险和简易保障产品为中心，将母公司保险
 
 - FSA: life-insurance company license list, as of 2026-04-13.
 - Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- Medicare Life official website.
+- メディケア生命 official website.

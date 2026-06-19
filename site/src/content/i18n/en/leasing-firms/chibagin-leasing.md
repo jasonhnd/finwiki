@@ -1,132 +1,132 @@
 ---
 source: leasing-firms/chibagin-leasing
-source_hash: 91cd04ff7cc77902
+source_hash: b8c525f20fba9c38
 lang: en
 status: machine
 fidelity: ok
 title: "Chibagin Leasing"
-translated_at: 2026-05-31T11:13:44.944Z
+translated_at: 2026-06-19T06:09:18.113Z
 ---
 # Chibagin Leasing
 
 ## Wiki route
 
-This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/chiba-bank|Chiba Bank]]. Read it against parent operating bank [[regional-banks/chiba-bank|Chiba Bank]] (no-holding sole bank model) and sibling subsidiary [[securities-firms/chibagin-securities|Chibagin Securities]]. Peer comparison: [[leasing-firms/mebuki-lease|Mebuki Lease]] (North Kanto regional bank lease) / [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] (Kanagawa regional bank lease) / [[leasing-firms/hokkaido-lease|Hokkaido Lease]] / [[leasing-firms/yamaguchi-leasing|Yamaguchi Lease]] / [[leasing-firms/iyogin-leasing|Iyogin Lease]] and major lessors [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/mizuho-lease|Mizuho Leasing]] / [[leasing-firms/tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]]. Read it against parent operating bank [[regional-banks/chiba-bank|千葉銀行]] (no-holding single-bank model) and sibling subsidiary [[securities-firms/chibagin-securities|ちばぎん証券]]. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (North Kanto regional-bank-affiliated leasing) / [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] (Kanagawa regional-bank-affiliated leasing) / [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/yamaguchi-leasing|山口リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]] and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
-##TL;DR
+## TL;DR
 
-Chibagin Lease Co., Ltd. is a 100% subsidiary of [[regional-banks/chiba-bank|Chiba Bank (TSE Prime 8331)]] and a regional bank leasing company based in Chiba Prefecture and the eastern Tokyo metropolitan area. It provides equipment leases, finance leases, operating leases, municipal leases, medical leases, factoring, auto leases, and related services. It is one of the leading regional-bank leasing companies and serves Chiba Bank's leading Chiba Prefecture customer base, supported by roughly JPY 18-20 trillion in deposits and a main-bank relationship with medium-sized companies. Because parent [[regional-banks/chiba-bank|Chiba Bank]] is a stand-alone bank that has not converted into a holding company, Chibagin Lease sits directly beneath the bank itself; this differs from [[leasing-firms/mebuki-lease|Mebuki Lease]] under a holding company and [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] as a bank-consolidated subsidiary.^[extracted]
+Chibagin Leasing Co., Ltd. is a regional-bank-affiliated leasing company that is a [[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% subsidiary, based in Chiba Prefecture and the eastern part of the metropolitan area, providing **equipment leasing, finance leasing, operating leasing, municipal leasing, medical leasing, factoring, auto leasing**, and the like. It is one of the top tier of regional-bank-affiliated leasing firms, backed by a mid-sized-enterprise main-bank customer base built on Chiba Bank's No.1  share within Chiba Prefecture + 18-20 兆円 in deposits. Because **its parent [[regional-banks/chiba-bank]] has not adopted a holding-company structure and is a single bank (no-holding model)**, Chibagin Leasing is structured to sit directly beneath the bank entity, which makes its legal position different from [[leasing-firms/mebuki-lease]] (under a holding company) or [[leasing-firms/yokohama-bank-leasing]] (a bank consolidated subsidiary). ^[extracted]
 
-##1. Company Profile
+## 1. Company overview
 
-|Item|Notes|
+| Item | Notes |
 |---|---|
-|formal name|Chibagin Lease Co., Ltd.|
-|English name|Chibagin Leasing Co., Ltd.|
-|Parent company| [[regional-banks/chiba-bank|Chiba Bank]] 100% (directly under a single bank that has not become a holding company)|
-|set up| 1986-12-15 (established as "Chibagin Finance Co., Ltd."). 1995-07 changed the trade name to "Chibagin Lease Co., Ltd.". Capital: JPY 100 million. Head office: Nakase, Mihama-ku, Chiba (Chibagin Makuhari Building)|
-|Main business|Equipment lease / Finance lease / Operating lease / Municipal lease / Medical lease / Factoring / Auto lease / Collection agency|
-|regulation|Leasing business (no banking license required, registration as a money lending business depends on the corresponding area)|
-|field distinction|Not playing ([[regional-banks/chiba-bank]] 100%subsidiary)|
-|Wiki roles|Chiba Bank leasing subsidiary anchor (no-holding model)|
+| Formal name | Chibagin Leasing Co., Ltd. |
+| English name | Chibagin Leasing Co., Ltd. |
+| Parent company | [[regional-banks/chiba-bank|千葉銀行]] 100% (directly under a single bank that has not adopted a holding-company structure) |
+| Establishment | 1986-12-15 (established as "Chibagin Finance Co., Ltd."). Renamed to "Chibagin Leasing Co., Ltd." in 1995-07 . Capital 1 億円. Head office: Nakase, Mihama-ku, Chiba City (Chibagin Makuhari Building) |
+| Main businesses | Equipment leasing / finance leasing / operating leasing / municipal leasing / medical leasing / factoring / auto leasing / collection agency |
+| Regulation | Leasing business (no banking license required; money-lending registration depending on the lines of business covered) |
+| Listing category | Unlisted ([[regional-banks/chiba-bank]] 100% subsidiary) |
+| Wiki role | Chiba Bank-affiliated leasing subsidiary anchor (no-holding model) |
 
-### Holding tree (Chiba Bank Group simplified diagram)
+### Shareholding tree (simplified Chiba Bank group chart)
 
 ```
-[[regional-banks/chiba-bank|Chiba Bank]] (stand-alone listed bank, 8331, not converted into a holding company)
-  ├── [[securities-firms/chibagin-securities|Chibagin Securities]] (100%) -- group securities subsidiary
-  ├── Chibagin Lease (100%, this page) -- group leasing subsidiary
-  │     ├── Equipment leasing in Chiba Prefecture and the eastern Tokyo metropolitan area
-  │     ├── Leasing for manufacturing companies in the Keiyo Industrial Zone
-  │     └── Municipal, medical, and agricultural-machinery leasing
-  ├── Chibagin Card -- credit card subsidiary
-  ├── Chibagin Computer Service -- systems subsidiary
-  ├── Chibagin Research Institute -- think tank
-  ├── Chibagin Capital -- venture-investment subsidiary
-  └── Chibagin Guarantee -- credit-guarantee subsidiary
+[[regional-banks/chiba-bank|千葉銀行]] (single bank, listed 8331, has not adopted a holding-company structure)
+  ├── [[securities-firms/chibagin-securities|ちばぎん証券]] (100%) ── group securities
+  ├── Chibagin Leasing (100%, this page) ── group leasing
+  │     ├── Chiba Prefecture + eastern metropolitan-area equipment leasing
+  │     ├── Keiyo industrial-zone manufacturing leasing
+  │     └── municipal / medical / agricultural-machinery leasing
+  ├── Chibagin Card ── credit cards
+  ├── Chibagin Computer Service ── systems subsidiary
+  ├── Chibagin Research Institute ── think tank
+  ├── Chibagin Capital ── venture investment
+  └── Chibagin Guarantee ── credit guarantee
 ```
 
 ### Main business lines
 
-|segment|Features|
+| Segment | Characteristics |
 |---|---|
-|finance lease|Equipment leasing of machinery, vehicles, OA equipment, and communication equipment (for small to medium-sized companies)|
-|operating lease|Short-term lease of used equipment/releasable equipment|
-|vendor lease|Collaborative leasing with manufacturers and dealers (sales support)|
-|municipal lease|Official vehicle and equipment lease for Chiba Prefecture and municipalities|
-|industrial equipment lease|Manufacturing equipment lease in Keiyo Industrial Area (Ichihara, Chiba, Kisarazu)|
-|agricultural machinery lease|Tractors, etc. for the Boso Peninsula agricultural area|
-|factoring|Purchase of accounts receivable (working capital for medium-sized companies)|
+| Finance leasing | Equipment leasing of machinery, vehicles, office equipment, communications equipment (for small to mid-sized enterprises) |
+| Operating leasing | Short-term leasing of used equipment / re-leasable equipment |
+| Vendor leasing | Tie-up leasing with manufacturers and dealers (sales support) |
+| Municipal leasing | Leasing of official vehicles and equipment for Chiba Prefecture and municipalities |
+| Industrial-equipment leasing | Manufacturing-equipment leasing in the Keiyo industrial zone (Ichihara, Chiba, Kisarazu) |
+| Agricultural-machinery leasing | Tractors and the like for the Boso Peninsula farming region |
+| Factoring | Purchase of accounts receivable (working capital for mid-sized enterprises) |
 
-### Intra-group cross-link
+### Intra-group cross-links
 
-|Group companies|Cooperation details|
+| Group company | Cooperation |
 |---|---|
-| [[regional-banks/chiba-bank]] |Corporate customer introduction, bank loan + lease combination proposal, Keiyo Industrial Zone manufacturing industry main bank collaboration|
-| [[securities-firms/chibagin-securities]] |Medium-sized company main bank cross proposal (lease + private placement bond + public offering)|
-|Chibagin Research Institute|Provided by Chiba Prefecture Industry Report (Manufacturing Industry Capital Investment Trends)|
+| [[regional-banks/chiba-bank]] | Corporate-customer referrals, combined bank-loan + leasing proposals, Keiyo industrial-zone manufacturing main-bank coordination |
+| [[securities-firms/chibagin-securities]] | Mid-sized-enterprise main-bank cross-proposals (leasing + private placements + IPO) |
+| Chibagin Research Institute | Provision of Chiba Prefecture industry reports (manufacturing capex trends) |
 
-### Regional bank lease peer comparison
+### Regional-bank-affiliated leasing peer comparison
 
-|Lease subsidiary|Parent bank/FG|Parent company model|territory|Listed|
+| Leasing subsidiary | Parent bank / FG | Parent-company model | Base | Listing |
 |---|---|---|---|---|
-|**Chibagin Lease** (this page)| [[regional-banks/chiba-bank|Chiba Bank]] |no-holding independent bank|Chiba Prefecture/Eastern metropolitan area|parent 8331 |
-| [[leasing-firms/mebuki-lease|Mebuki Lease]] | [[regional-banks/mebuki-fg|Mebuki FG]] |Holding company sibling company|Ibaraki/Tochigi/North Kanto|parent 7167 |
-| [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] | [[regional-banks/yokohama-bank]]/[[regional-banks/concordia-fg]] |Bank consolidated subsidiary|Kanagawa/Metropolitan area|parent 7186 |
-| [[leasing-firms/hokkaido-lease|Hokkaido Lease]] | [[regional-banks/hokkaido-bank]] |Bank lease|Hokkaido|parent 8328 system|
-| [[leasing-firms/yamaguchi-leasing|Yamaguchi Lease]] | [[regional-banks/yamaguchi-fg|YMFG]] |Holding company series|Yamaguchi, Hiroshima, Kitakyushu|parent 8418 |
-| [[leasing-firms/iyogin-leasing|Iyogin Lease]] | [[regional-banks/iyogin-hd|Iyogin HD]] |Holding company sibling company|Ehime/Shikoku|parent 5830 |
-|Shizugin lease| [[regional-banks/shizuoka-fg|Shizuoka FG]] |Holding company sibling company|Shizuoka Prefecture|parent 5831 |
+| **Chibagin Leasing** (this page) | [[regional-banks/chiba-bank|千葉銀行]] | no-holding single bank | Chiba Prefecture / eastern metropolitan area | Parent 8331 |
+| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | sibling company under a holding company | Ibaraki / Tochigi / North Kanto | Parent 7167 |
+| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | bank consolidated subsidiary | Kanagawa / metropolitan area | Parent 7186 |
+| [[leasing-firms/hokkaido-lease|北海道リース]] | [[regional-banks/hokkaido-bank]] | bank-affiliated leasing | Hokkaido | Parent 8328 -affiliated |
+| [[leasing-firms/yamaguchi-leasing|山口リース]] | [[regional-banks/yamaguchi-fg|YMFG]] | holding-company group | Yamaguchi / Hiroshima / Kitakyushu | Parent 8418 |
+| [[leasing-firms/iyogin-leasing|いよぎんリース]] | [[regional-banks/iyogin-hd|いよぎん HD]] | sibling company under a holding company | Ehime / Shikoku | Parent 5830 |
+| Shizugin Leasing | [[regional-banks/shizuoka-fg|しずおか FG]] | sibling company under a holding company | Shizuoka Prefecture | Parent 5831 |
 
-### Competition with major leasing companies and specialized leasing companies
+### Competition with major lessors and specialist leasing firms
 
-- **Major Lease**: [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|Mizuho Leasing]] / [[leasing-firms/fuyo-lease|Fuyo General Lease]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/ricoh-leasing|Ricoh Leasing]] - advantages in large-scale, nationwide, and complex projects (aircraft/real estate/overseas)
-- **Manufacturer-related lease**: [[card-issuers/toyota-finance|Toyota Finance]] / [[leasing-firms/nec-leasing|NEC Capital Solutions]] / [[leasing-firms/showa-leasing|Showa Leasing]] / [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] - advantages in product linkage (vehicles/OA/manufacturing equipment)
-- **Internal competition**: [[regional-banks/chiba-kogyo-bank|Chiba Kogyo Bank]] (second regional bank) lease / Keiyo Bank Lease / major lease Chiba branches
+- **Major lessors**: [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/fuyo-lease|芙蓉リース]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/ricoh-leasing|リコーリース]] - advantaged in large-scale, nationwide, complex deals (aircraft / real estate / overseas)
+- **Manufacturer-affiliated leasing**: [[card-issuers/toyota-finance|トヨタファイナンス]] / [[leasing-firms/nec-leasing|NEC キャピタルソリューション]] / [[leasing-firms/showa-leasing|昭和リース]] / [[cooperative-banks/ja-mitsui-leasing|JA 三井リース]] - advantaged in product-linked areas (vehicles / office equipment / manufacturing equipment)
+- **In-prefecture competition**: [[regional-banks/chiba-kogyo-bank|千葉興業銀行]] (second-tier regional bank)-affiliated leasing / Keiyo Bank-affiliated leasing / major lessors' Chiba branches
 
-### Strengths/Weaknesses
+### Strengths and weaknesses
 
-- Strengths: [[regional-banks/chiba-bank|Chiba Bank]] Chiba Prefecture No. 1 share + JPY 18-20 trillion deposit customer base + Keiyo Industrial Area manufacturing cluster + Narita Airport / Chiba Port logistics hub
+- Strengths: [[regional-banks/chiba-bank]] Chiba Prefecture share No.1  + deposits 18-20 兆円 customer base + Keiyo industrial-zone manufacturing concentration + Narita Airport / Chiba Port logistics hub
 
 ### Regulatory framework
 
-- **Supervising**: Financial Services Agency (FSA) ・Ministry of Economy, Trade and Industry
-- **Legal basis**: Leasing business (no banking license required under the Banking Act), money lending business registration (obtained as necessary in the factoring/collection agency area)
-- **Parent bank governance**:[[regional-banks/chiba-bank]]Because it is a standalone bank, it is placed under the non-banking subsidiary regulations (main business / ancillary business / scope of business regulations) under the Banking Act.
+- **Supervisory authority**: Financial Services Agency (FSA) / Ministry of Economy, Trade and Industry
+- **Legal basis**: Leasing business (no banking license under the Banking Act required), money-lending registration (obtained as needed in the factoring / collection-agency areas)
+- **Parent-bank governance**: Because [[regional-banks/chiba-bank]] is a single bank, it is positioned under the non-banking-subsidiary regulation under the Banking Act (main business / ancillary business / scope-of-business regulation)
 
 ### Regulatory issues
 
-- **Changes in lease accounting standards (IFRS16 / Revised Japanese GAAP)**: Support for lessee on-balance sheet (right-of-use assets and lease liabilities)
-- **Lease tax system for small and medium-sized enterprises**: Tax system for promoting investment in small and medium-sized enterprises / Support for utilization of tax system to strengthen management
-- **Environmental lease (renewable energy equipment / EV)**: Development of green lease products compatible with decarbonization tax system
-- **Instalment Sales Law/Money Lending Business Law**: Application arrangement in the field of factoring/collection agency
-- **Anti-social checks/money laundering measures**:[[regional-banks/chiba-bank]]Group joint implementation
-- **EDINET / Securities Report**: Chibagin Lease is unlisted and disclosure is limited.[[regional-banks/chiba-bank]]Indirectly disclosed as consolidated segment information
+- **Lease accounting standard changes (IFRS16  / Japanese-standard revision)**: support for lessees' on-balance-sheet treatment (right-of-use assets / lease liabilities)
+- **SME-oriented lease taxation**: support for use of the SME investment-promotion tax system / management-enhancement tax system
+- **Environmental leasing (renewable-energy equipment / EV)**: decarbonization-tax response and green-lease product development
+- **Installment Sales Act / Money Lending Business Act**: clarification of application in the factoring / collection-agency areas
+- **Anti-social-forces checks / anti-money-laundering measures**: jointly implemented across the [[regional-banks/chiba-bank]] group
+- **EDINET / securities reports**: Chibagin Leasing on a standalone basis is unlisted with limited disclosure, with indirect disclosure via [[regional-banks/chiba-bank]] consolidated segment information
 
 ### Accounting treatment
 
-- **Single Financial KPI**: Parent [[regional-banks/chiba-bank|Chiba Bank]] securities report notes / partial disclosure in segment information (capital JPY 100 million = Chibagin Lease official company profile)
+- **Standalone financial KPIs**: partially disclosed in parent [[regional-banks/chiba-bank]] securities-report notes / segment information (capital 1 億円 = Chibagin Leasing official company overview)
 
 ## Related
 
--[[regional-banks/chiba-bank]]·[[securities-firms/chibagin-securities]]·[[regional-banks/chiba-kogyo-bank]]
--[[leasing-firms/mebuki-lease]]·[[leasing-firms/yokohama-bank-leasing]]·[[leasing-firms/hokkaido-lease]]·[[leasing-firms/yamaguchi-leasing]]·[[leasing-firms/iyogin-leasing]]
--[[regional-banks/mebuki-fg]]·[[regional-banks/concordia-fg]]·[[regional-banks/yokohama-bank]]·[[regional-banks/yamaguchi-fg]]·[[regional-banks/iyogin-hd]]·[[regional-banks/shizuoka-fg]]·[[regional-banks/fukuoka-fg]]
--[[leasing-firms/mitsubishi-hc-capital]]·[[leasing-firms/smfl]]·[[leasing-firms/mizuho-lease]]·[[leasing-firms/fuyo-lease]]·[[leasing-firms/tokyo-century]]·[[leasing-firms/ricoh-leasing]]
--[[cooperative-banks/ja-mitsui-leasing]]·[[leasing-firms/nec-leasing]]·[[leasing-firms/showa-leasing]]·[[card-issuers/toyota-finance]]·[[leasing-firms/ibj-leasing]]·[[leasing-firms/kanematsu-leasing]]
--[[banking/regional-bank-consolidation-pattern]]·[[banking/regional-bank-api-digital-partnership-route]]·[[banking/INDEX]]
--[[finance/japan-listed-financial-groups-investable-universe]]·[[finance/INDEX]]
+- [[regional-banks/chiba-bank]] · [[securities-firms/chibagin-securities]] · [[regional-banks/chiba-kogyo-bank]]
+- [[leasing-firms/mebuki-lease]] · [[leasing-firms/yokohama-bank-leasing]] · [[leasing-firms/hokkaido-lease]] · [[leasing-firms/yamaguchi-leasing]] · [[leasing-firms/iyogin-leasing]]
+- [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/yokohama-bank]] · [[regional-banks/yamaguchi-fg]] · [[regional-banks/iyogin-hd]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/fukuoka-fg]]
+- [[leasing-firms/mitsubishi-hc-capital]] · [[leasing-firms/smfl]] · [[leasing-firms/mizuho-lease]] · [[leasing-firms/fuyo-lease]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/ricoh-leasing]]
+- [[cooperative-banks/ja-mitsui-leasing]] · [[leasing-firms/nec-leasing]] · [[leasing-firms/showa-leasing]] · [[card-issuers/toyota-finance]] · [[leasing-firms/ibj-leasing]] · [[leasing-firms/kanematsu-leasing]]
+- [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
+- [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 
-- **Chibagin Lease Official Website — Company Profile** (https://www.chibagin-lease.co.jp/, redirected to http://www.cblnet.co.jp/about/. 1986-12-15 established as Chibagin Finance / 1995-07 trade name changed to Chibagin Lease / capital JPY 100 million / head office: Nakase, Mihama-ku, Chiba City)
-- **Chiba Bank Official IR** (https://www.chibabank.co.jp/)
-- **EDINET Securities Report (Chiba Bank Consolidated/Segment Information)** (https://disclosure.edinet-fsa.go.jp/)
-- **National Regional Banks Association** (https://www.chiginkyo.or.jp/, affiliated company information)
-- **Wikipedia: Chibagin Lease / Chiba Bank** (2026-05-25extraction)
+- **Chibagin Leasing official site — company overview** (https://www.chibagin-lease.co.jp/, redirect target http://www.cblnet.co.jp/about/. 1986-12-15 established as Chibagin Finance / renamed to Chibagin Leasing 1995-07  / capital 1 億円 / head office Nakase, Mihama-ku, Chiba City)
+- **Chiba Bank official IR** (https://www.chibabank.co.jp/)
+- **EDINET securities reports (Chiba Bank consolidated / segment information)** (https://disclosure.edinet-fsa.go.jp/)
+- **Regional Banks Association of Japan** (https://www.chiginkyo.or.jp/, affiliated-company information)
+- **Wikipedia: Chibagin Leasing / Chiba Bank** (2026-05-25 extraction)
 
 ---
 
-> [!info] Check status
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25). [[regional-banks/chiba-bank|Chiba Bank]] page = sole bank (no-holding model). This page deals with holding strategy and leasing-subsidiary operating boundaries. Year of establishment (1986-12-15, formerly known as Chibagin Finance), trade-name change (1995-07 Chibagin Lease), and capital (JPY 100 million) are confirmed in the Chibagin Lease official company profile. For detailed non-consolidated financial KPI values, see parent [[regional-banks/chiba-bank|Chiba Bank]] securities report segment information.
+> [!info] Verification status
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25). The [[regional-banks/chiba-bank]] page covers the single-bank (no-holding model) holding strategy, while this page covers the leasing-subsidiary operating boundary. The establishment year (1986-12-15, former name Chibagin Finance), the renaming (1995-07  to Chibagin Leasing), and the capital (1 億円) have been confirmed in the Chibagin Leasing official company overview (sources below). For precise standalone financial KPI figures, refer to the parent [[regional-banks/chiba-bank]] securities-report segment information.

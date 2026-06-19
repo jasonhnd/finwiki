@@ -1,51 +1,50 @@
 ---
 source: money-market/japan-money-market
-source_hash: 0457b8cb23f34878
+source_hash: 90a8356680a2f50d
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の短期金融市場"
-translated_at: 2026-06-02T16:33:58.504Z
+title: "Japan money market"
+translated_at: 2026-06-19T06:09:18.131Z
 ---
 
-# 日本の短期金融市場
+# Japan money market
 
+## Wiki route
 
-## ウィキ上の位置づけ
+本エントリは [[money-market/INDEX|money-market index]] の下に位置する。ピア／対比の文脈については [[money-market/call-market-structure|Call market structure]] と、より広範な体系／規制境界については [[money-market/boj-open-market-operations|BoJ open market operations]] と照らし合わせて読むこと。
 
-この項目は [[money-market/INDEX|money-market index]] の下に位置づける。比較・対照の文脈では [[money-market/call-market-structure|Call market structure]] とあわせて読み、より広い制度・規制上の境界については [[money-market/boj-open-market-operations|BoJ open market operations]] を参照する。
+## TL;DR
 
-## 要約
+日本の短期金融市場は、日本銀行が金融政策を実施し、金融機関が準備預金／決済残高を管理し、短資会社が短期資金を仲介する、短期の資金調達・流動性調整の層である。最も重要なオペレーションのシグナルは無担保コールオーバーナイト物レートであり、現行の枠組みにおける金融市場調節方針が短期金利のターゲットとしてこれを用いているためである。
 
-日本の短期金融市場は、日本銀行が金融政策を実施し、金融機関が準備・決済残高を管理し、短資会社が短期資金を仲介する、短期資金調達と流動性調整の層である。最も重要な運用シグナルは無担保コール翌日物金利である。現在の枠組みでは、日銀の金融市場調節方針がこれを短期金利の目標として用いているためである。
+本ページはドメインの概観である。コール市場のメカニズムについては [[money-market/call-market-structure|call market structure]] を、実施ツールについては [[money-market/boj-open-market-operations|BoJ open market operations]] を用いること。
 
-このページは領域全体の概説である。コール市場の仕組みは [[money-market/call-market-structure|call market structure]]、実施手段は [[money-market/boj-open-market-operations|BoJ open market operations]] を参照する。
+## Market Map
 
-## 市場マップ
-
-| 層 | 機能 | FinWiki ルート |
+| Layer | Function | FinWiki route |
 |---|---|---|
-| 政策決定 | 日銀政策委員会が金融政策決定会合で金融市場調節方針を決定する。 | [[financial-regulators/boj-monetary-policy]] |
-| 運用市場 | 短期金利形成、とくに無担保コール翌日物取引。 | [[money-market/call-market-structure]] |
-| 市場調節 | 日銀がオープンマーケット・オペレーションを通じて資金を供給または吸収する。 | [[money-market/boj-open-market-operations]] |
-| 仲介者 | 銀行、証券会社、信託銀行、短資会社が短期流動性を管理する。 | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
-| データ層 | 日銀がコール市場データと市場調節結果を公表する。 | 日銀統計 / 市場調節関連公表 |
+| Policy decision | 日銀政策委員会が MPM で金融市場調節方針を決定する。 | [[financial-regulators/boj-monetary-policy]] |
+| Operating market | 短期金利の形成、特に無担保コールオーバーナイト取引。 | [[money-market/call-market-structure]] |
+| Market operations | 日銀がオペレーションを通じて資金を供給または吸収する。 | [[money-market/boj-open-market-operations]] |
+| Intermediaries | 銀行、証券会社、信託銀行、短資会社が短期流動性を管理する。 | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
+| Data layer | 日銀がコールマネー市場データとオペレーション結果を公表する。 | 日銀統計／オペレーション結果リリース |
 
-## 重要性
+## Why It Matters
 
-短期金融市場の構造は、金融政策と金融会社の収益をつなぐ伝達ベルトである。
+短期金融市場の構造は、金融政策と金融会社の収益とをつなぐ伝達ベルトである：
 
-- **メガバンク**: 準備預金残高、預金ベータ、貸出金利の改定、国債ポートフォリオ評価、ホールセール調達コスト。
-- **信託銀行 / カストディ銀行**: 決済流動性、担保移動、短期金利が機関投資家のキャッシュに与える影響。
-- **証券会社**: レポ、担保ファイナンス、国債マーケットメイク、イールドカーブ関連取引。
-- **短資会社**: 仲介需要とコール市場活動。とくに短期金利の正常化が翌日物取引を再活性化する局面で重要。
-- **政策金融 / 公的機関**: 短期金利と国債市場流動性が資金管理と発行条件に影響する。
+- **メガバンク**：準備預金残高、預金ベータ、貸出のリプライシング、JGB ポートフォリオの評価、ホールセール調達コスト。
+- **信託銀行／カストディ銀行**：決済流動性、担保の移動、機関投資家のキャッシュに対する短期金利の影響。
+- **証券会社**：レポ、担保ファイナンス、JGB のマーケットメイク、イールドカーブ関連の活動。
+- **短資会社**：仲介需要とコール市場の活動、特に短期金利の正常化がオーバーナイト取引を復活させる場合。
+- **政策金融／公的機関**：キャッシュマネジメントと発行条件が、短期金利と JGB 市場の流動性の影響を受ける。
 
-## YCC 後の読み方
+## Post-YCC Reading Rule
 
-日銀が 2024  年3月にマイナス金利とイールドカーブ・コントロールから離れる制度転換を行った後、短期金融市場は政策伝達を観測できる面として再び有用性を増した。確認すべきなのは政策金利の見出しだけではない。実際の無担保コール翌日物金利、取引量、準備預金環境、日銀オペレーションが同じ方向を示しているかである。
+日銀の 2024 年 3 月のマイナス金利およびイールドカーブ・コントロールからの体制転換の後、短期金融市場は観測可能な政策伝達のサーフェスとして再び有用になった。重要なチェックは政策金利のヘッドラインだけではなく、実際の無担保コールオーバーナイト物レート、取引量、準備預金環境、日銀のオペレーションがすべて同じ方向を指しているかどうかである。
 
-## 関連項目
+## Related
 
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/call-market-structure]]
@@ -57,10 +56,10 @@ translated_at: 2026-06-02T16:33:58.504Z
 - [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- 日本銀行: 短期金融市場。
-- 日本銀行: 市場調節とは何ですか。
-- 日本銀行: 金融市場調節方針はどのように変わってきましたか。
-- 日本銀行: コール市場関連統計。
-- 日本銀行: 2024年度の金融市場調節。
+- Bank of Japan: Money Market.
+- Bank of Japan: What are market operations?
+- Bank of Japan: How have the Bank's guidelines for market operations changed?
+- Bank of Japan: Call Money Market Data.
+- 日本銀行：2024年度の金融市場調節.

@@ -1,189 +1,189 @@
 ---
 source: insurance/japan-iaig-ics-mapping
-source_hash: e509c11f8603b112
+source_hash: 358bfb5b16c8798f
 lang: zh
 status: machine
 fidelity: ok
-title: "日本 IAIG 与 ICS 对照"
-translated_at: 2026-05-31T11:13:44.864Z
+title: "日本 IAIG 与 ICS 映射"
+translated_at: 2026-06-19T06:09:18.112Z
 ---
 
-# 日本 IAIG 与 ICS 对照
+# 日本 IAIG 与 ICS 映射
 
-## Wiki 路由
+## Wiki route
 
-本条目位于 [[insurance/INDEX|insurance index]]，是日本总部保险集团的 IAIS 国际活跃保险集团（IAIG）认定与保险资本标准（ICS）申报交叉主题的路由页。建议与 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] 一起阅读，用于制度比较；与 [[insurance/economic-value-based-solvency|economic-value-based solvency]] 一起阅读，用于理解日本 FSA 框架；与 [[insurance/esr-economic-value-solvency|ESR]] 一起阅读，用于公司比率口径；与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一起阅读，用于寿险侧实体；与 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 一起阅读，用于财险侧实体；与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 一起阅读，用于外资 IAIG 日本子公司的视角；并与 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 一起阅读，用于理解 ICS 报送所覆盖的资产负债表驱动因素。
+本条目位于 [[insurance/INDEX|insurance index]] 之下，是面向以日本为总部的集团、处理 IAIS 国际活跃保险集团（Internationally Active Insurance Group）认定与保险资本标准（Insurance Capital Standard）报告之交集的路由页面。请将其与 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] 一并阅读以了解监管制度比较，与 [[insurance/economic-value-based-solvency|economic-value-based solvency]] 一并阅读以了解日本金融厅框架，与 [[insurance/esr-economic-value-solvency|ESR]] 一并阅读以了解各公司比率的解读，与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一并阅读以了解寿险侧实体，与 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 一并阅读以了解财产险侧实体，与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 一并阅读以了解入境外国 IAIG 视角，并与 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 一并阅读以了解 ICS 报告所捕捉的资产负债表驱动因素。
 
-牌照路径背景见 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
+许可路径背景见 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
 
 ## TL;DR
 
-IAIS 的 Insurance Capital Standard Version 2.0 在 2020-2024 五年监测期后，于 2024-12 定稿，并自 2025 起成为国际活跃保险集团（IAIG）的规定资本要求（PCR）。IAIG 是否被认定，由集团级主管机构依据 IAIS 标准执行，标准包括跨法域经营活动与规模门槛。
+IAIS 保险资本标准（Insurance Capital Standard）版本 2.0 在为期五年的监测期（2020-2024）之后于 2024 年 12 月最终定稿，并自 2025 起成为国际活跃保险集团（IAIG）的规定资本要求（Prescribed Capital Requirement, PCR）。IAIG 的认定由该集团的集团整体监督者（group-wide supervisor）根据 IAIS 标准进行，标准包括国际活动（多个法域的保费和资产）和规模阈值。
 
-对于日本总部保险集团，FSA 担任集团级主管机构，负责 IAIG 认定、ICS 报送收集、在适用时批准内部模型，以及参与国际监管学院。通常被讨论为 IAIG 候选或已认定对象的日本总部集团，在财险侧包括 [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]]，在寿险侧包括 [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]。已认定 IAIG 的公开名单由 IAIS 及各集团级主管机构维护。
+对于以日本为总部的保险集团，金融厅充当集团整体监督者，负责 IAIG 认定、ICS 报告收集、适用情况下的内部模型批准，以及参与国际监管学院（supervisory colleges）。通常作为候选者或被认定 IAIG 讨论的日本总部集团，在财产险侧为 [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]]，在寿险侧为 [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]。被认定 IAIG 的公开名单由 IAIS 及各集团整体监督者维护。
 
-日本的做法，是在本国 FSA 的 [[insurance/economic-value-based-solvency|ESR]] 制度之上，再叠加集团层面的 ICS。两套框架在理念上相近，但并不完全相同。
+日本的框架将 ICS 作为叠加于国内金融厅 [[insurance/economic-value-based-solvency|ESR]] 制度之上的集团层覆盖层（overlay）运行，两套框架经校准在概念上接近但并不相同。
 
 ## IAIG 认定标准
 
-IAIS 通过 ComFrame（国际活跃保险集团监管共同框架）公开 IAIG 识别标准。核心标准如下：
+IAIS 通过其 ComFrame（IAIG 监督共同框架，Common Framework for the Supervision of IAIGs）资料公布 IAIG 识别标准。主要标准：
 
-| 标准 | 门槛（指示性） | 备注 |
+| Criterion | Threshold (indicative) | Notes |
 |---|---|---|
-| 国际业务活动 | 在 3 个或以上法域承保，且母国以外保费占比高于规定阈值 | 以合并集团层面衡量 |
-| 规模 - 总资产 | 达到规定阈值（数百亿美元级） | 以合并资产负债表层面衡量 |
-| 规模 - 总签单保费 | 达到规定阈值 | 以合并层面衡量 |
+| 国际活动 | 在三个或更多法域承保保费，且非本国法域保费占比超过既定阈值 | 活动按合并集团层衡量 |
+| 规模 — 总资产 | 达到或超过既定阈值（数百亿美元量级） | 按合并资产负债表层衡量 |
+| 规模 — 总承保保费 | 达到或超过既定阈值 | 按合并层衡量 |
 
-精确阈值以 IAIS 公开文件为准，并可能被 IAIS 定期修订。最终认定由集团的集团级主管机构作出；对日本总部集团而言，该角色由 FSA 担任。
+确切阈值在 IAIS 公开文件中设定，并须经 IAIS 定期修订。认定由该集团的集团整体监督者作出，对于日本总部集团则由金融厅充当集团整体监督者。
 
-## 日本总部 IAIG 范围
+## 日本总部 IAIG 边界
 
-对于日本总部保险集团，IAIG 范围主要由国际业务足迹决定。
+对于以日本为总部的保险集团，IAIG 边界由国际足迹决定：
 
-### 财险侧
+### 财产险侧
 
-| 集团 | 与 IAIG 标准相关的国际足迹 |
+| Group | International footprint relevant to IAIG criteria |
 |---|---|
-| [[non-life-insurers/tokio-marine|Tokio Marine]] | 拥有全球财险 franchise，在美国（Philadelphia Consolidated、HCC、Pure Group）、欧洲、亚洲均有重要并购与布局，并具有 Lloyd's syndicate 存在，国际保费占比具有结构性意义 |
-| [[non-life-insurers/msad|MS&AD]] | 通过 [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]（与 Toyota / mobility 全球关系）、MS Amlin（专业再保险、Lloyd's）及海外财险子公司形成国际布局 |
-| [[non-life-insurers/sompo|Sompo]] | 国际业务包括 Sompo International（专业险与再保险）、历史上的 Endurance / Sompo International 范围，以及海外分销网络 |
+| [[non-life-insurers/tokio-marine|Tokio Marine]] | 全球财产险特许经营，在美国（Philadelphia Consolidated、HCC、Pure Group）、欧洲、亚洲有重大收购，并具有劳合社辛迪加存在。国际保费占比在结构上具有实质意义 |
+| [[non-life-insurers/msad|MS&AD]] | 通过 [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]（丰田／全球出行关系）、MS Amlin（专门种目再保险、劳合社）以及海外财产险子公司形成的国际特许经营 |
+| [[non-life-insurers/sompo|Sompo]] | 包括 Sompo International（专门种目及再保险）、遗留的 Endurance／Sompo International 边界以及海外分销在内的国际特许经营 |
 
-这三家财险集团因国际足迹而普遍被视为 IAIG。FSA 作为集团级主管机构，在控股公司层面运行 ICS 报送。
+三家财产险集团均基于国际足迹被广泛识别为 IAIG。金融厅充当集团整体监督者，并在控股公司层运行 ICS 报告。
 
 ### 寿险侧
 
-| 集团 | 与 IAIG 标准相关的国际足迹 |
+| Group | International footprint relevant to IAIG criteria |
 |---|---|
-| [[life-insurers/nippon-life|Nippon Life]] | 日本最大寿险公司，在多个法域拥有保险与资管投资及并购；国际足迹明确，但相对于其总资产负债表，国际占比通常小于财险同业 |
-| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | 上市寿险控股，拥有 TAL Australia、Protective Life US 及亚洲业务，国际足迹具有结构性意义 |
-| [[life-insurers/sumitomo-life|Sumitomo Life]] | 拥有海外投资组合和选择性的海外保险投资，国际足迹存在，但更集中于投资而非经营性保险业务 |
-| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | 国际足迹包括 StanCorp Financial Group US，以及部分亚洲和欧洲投资 |
+| [[life-insurers/nippon-life|Nippon Life]] | 日本最大的寿险公司；跨多个法域的海外保险及资产管理投资与收购。足迹具有实质意义，但相对于总资产负债表，其占比小于财产险同业 |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | 拥有 TAL Australia、Protective Life US 及亚洲业务的上市寿险控股公司。国际足迹在结构上具有实质意义 |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | 海外投资组合及选择性海外保险投资。足迹存在，但更集中于投资而非经营性保险 |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | 包括 StanCorp Financial Group US 及选定的亚洲与欧洲投资在内的国际足迹 |
 
-各寿险公司的 IAIG 认定，取决于 FSA 作为集团级主管机构在具体年度对 IAIS 标准门槛的适用。IAIS 与 FSA 均维护公开 IAIG 名单。Sumitomo Life 与 Meiji Yasuda 是否达到门槛，也受年度国际业务测度影响。
+各寿险公司的 IAIG 认定取决于作为集团整体监督者的金融厅所适用的具体 IAIS 标准阈值。公开 IAIG 名单由 IAIS 及金融厅维护。住友人寿和明治安田的阈值取决于逐年的国际活动衡量。
 
-[[megabanks/sony-fg|Sony Financial Group]] / [[life-insurers/sony-life|Sony Life]] 的范围见 [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]]。其结构与日本传统相互会社同业不同，因为最终母公司是非保险业的 Sony Group Corporation，保险集团边界也窄于独立的大型日本相互会社。其 IAIG 范围分类取决于 FSA 对集团边界的定义。
+[[megabanks/sony-fg|Sony Financial Group]]／[[life-insurers/sony-life|Sony Life]] 边界 — 在 [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] 中讨论 — 在结构上有所不同，因为最终母公司是非保险的 Sony Group Corporation，且保险集团边界比独立的日本相互会社同业更窄。IAIG 边界分类取决于金融厅的集团边界定义。
 
-## ICS 2.0 报送时间线
+## ICS 2.0 报告时间表
 
-| 阶段 | 期间 | 发生事项 |
+| Phase | Period | What happens |
 |---|---|---|
-| 现场测试 | 2014-2019 | IAIS 使用志愿 IAIG 开发并测试 ICS 校准 |
-| 监测期 | 2020-2024 | IAIG 向各自集团级主管机构以保密方式报送 ICS；此时尚未成为 PCR |
-| 定稿 | 2024-12 | IAIS 采纳 ICS Version 2.0，作为规定资本要求 |
-| 实施 | 2025 起 | ICS 成为 IAIG 的 PCR；各集团级主管机构通过本国法律框架实施 |
-| Aggregation Method 评估 | 2024-2026 | IAIS 评估美国主导的 Aggregation Method（AM）是否能作为 ICS 的可比替代方案 |
+| 现场测试 | 2014-2019 | IAIS 利用自愿参与的 IAIG 开发并测试 ICS 校准 |
+| 监测期 | 2020-2024 | IAIG 在保密基础上向其集团整体监督者报告 ICS；尚非规定资本要求 |
+| 最终定稿 | 2024 年 12 月| IAIS 采纳 ICS 版本 2.0 作为规定资本要求 |
+| 实施 | 2025 起 | ICS 成为 IAIG 的 PCR；集团整体监督者通过各自的法律框架在国内实施 |
+| 集合方法（Aggregation Method）评估 | 2024-2026 | IAIS 评估美国主导的集合方法（AM）作为替代方案是否产生与 ICS 可比的结果 |
 
-对日本而言，FSA 将 ICS 作为被认定日本总部 IAIG 的集团层面 PCR，与本国 [[insurance/economic-value-based-solvency|economic-value-based ESR]] 制度并行运行。后者自 2025-04 起已在日本持牌实体层面开始实施。
+对于日本，金融厅将 ICS 作为面向被认定的日本总部 IAIG 的集团层 PCR 实施，与自 2025-04起在日本持牌实体层投入运行的国内 [[insurance/economic-value-based-solvency|economic-value-based ESR]] 制度并行。
 
-## FSA 作为集团级主管机构的职责
+## 金融厅集团整体监督者角色
 
-作为日本总部 IAIG 的集团级主管机构，FSA 负责：
+作为日本总部 IAIG 的集团整体监督者，金融厅负责：
 
-| 职责 | 说明 |
+| Responsibility | Description |
 |---|---|
-| IAIG 认定 | 识别哪些日本总部集团符合 IAIS 标准，并向 IAIS 通报 |
-| 集团资本充足性 | 收集并审查集团层面的 ICS 报告 |
-| 集团治理评估 | 审查董事会构成、集团风险管理框架与 ORSA |
-| 内部模型批准 | 若 IAIG 希望在 ICS 校准中使用内部模型成分，由 FSA 审查并批准 |
-| 监管学院 | 召集或共同主持与海外子公司东道监管机构的监管学院 |
-| 恢复与处置规划 | 集团层面的恢复计划与可处置性评估 |
-| ComFrame 适用 | 适用 IAIS ComFrame 的定性要求（治理、风险管理、ERM、披露） |
+| IAIG 认定 | 识别哪些日本总部集团符合 IAIS 标准并通知 IAIS |
+| 集团整体资本充足性 | 在集团层收集并审查 ICS 报告 |
+| 集团整体治理评估 | 审查整个集团的董事会构成、集团风险管理框架及 ORSA |
+| 内部模型批准 | 当 IAIG 寻求使用内部模型组件进行 ICS 校准时，金融厅进行审查并批准 |
+| 监管学院 | 与海外子公司的东道国监督者召集或共同主持监管学院 |
+| 恢复与处置规划 | 集团层恢复计划及可处置性评估 |
+| ComFrame 适用 | 适用 IAIS ComFrame 定性要求（治理、风险管理、ERM、披露） |
 
-FSA 参与 IAIS 协调的跨境对话，对手方包括 EIOPA、美国州监管机构、FINMA、BaFin、OSFI、MAS、HKIA。监管学院结构使 FSA 能与日本总部 IAIG 海外子公司的东道监管机构协调，例如 Tokio Marine 的 HCC 与 Philadelphia 对应美国监管机构，Lloyd's syndicate 对应英国 PRA，Dai-ichi Life 的 TAL 对应澳大利亚 APRA 等。
+金融厅参与由 IAIS 居中的、与其他主要保险监督者（EIOPA、美国州监管机构、FINMA、BaFin、OSFI、MAS、HKIA）的跨境对话。监管学院结构使金融厅能够与日本总部 IAIG 的海外子公司的东道国监督者进行协调（例如，东京海上的 HCC 和 Philadelphia 由美国，劳合社辛迪加由英国 PRA，第一生命的 TAL 由澳大利亚 APRA 等）。
 
-## ICS 与 ESR：双轨框架架构
+## ICS vs ESR — 双框架架构
 
-日本选择在 IAIG 集团层面保留 ICS、在日本持牌实体层面保留 ESR，因此形成了有意设计的分层架构：
+日本选择在集团层为 IAIG 维持 ICS、同时在日本持牌实体层维持 ESR，由此形成一种刻意分层的架构：
 
-| 层级 | 框架 | 覆盖范围 |
+| Layer | Framework | Coverage |
 |---|---|---|
-| 日本持牌保险实体 | FSA ESR | 全部日本持牌保险公司与保险控股公司，包含 IAIG 与非 IAIG |
-| 日本总部 IAIG 集团 | 由 FSA 实施的 IAIS ICS 2.0 | 集团级主管机构为 FSA 的已认定 IAIG |
-| 在日经营的外国总部 IAIG | 由外国集团级主管机构实施的 IAIS ICS 2.0 | 日本持牌子公司适用 FSA ESR；集团 ICS 由外国 GWS 负责 |
+| 日本持牌保险实体 | 金融厅 ESR | 所有日本持牌保险公司及保险控股公司，IAIG 及非 IAIG |
+| 日本总部 IAIG 集团 | 由金融厅实施的 IAIS ICS 2.0  | 集团整体监督者为金融厅的被认定 IAIG |
+| 拥有日本业务的外国总部 IAIG | 由外国集团整体监督者实施的 IAIS ICS 2.0  | 受金融厅 ESR 约束的日本持牌子公司；经外国 GWS 的集团 ICS |
 
-ICS 与 ESR 在理念上相近：两者都采用市场一致 / 经济价值估值；都对长期负债应用贴现曲线方法（ESR 用 UFR，ICS 用 LTFR）；都采用分层合格资本质量标准；也都校准市场、信用、保险与操作风险模块。但两者并非数值一致。差异包括相关矩阵校准、日本本地特定冲击情景处理、MOCE 与 risk margin 计算方式，以及过渡安排。
+ICS 与 ESR 在概念上接近 — 两者均使用市场一致／经济价值估值，均对长期负债适用贴现曲线方法论（ESR 用 UFR，ICS 用 LTFR），均适用带质量标准的分层合格资本，均校准市场／信用／保险／操作风险模块 — 但两者在数值上并不相同。差异包括相关性矩阵的校准、特定日本国内冲击情景的处理、MOCE 与风险边际的计算，以及过渡安排。
 
-对于日本总部 IAIG，其公开披露架构为：
+对于日本总部 IAIG，公开披露架构为：
 
-- FSA 在日本持牌实体层面披露 ESR 比率（通过综合报告与年报等）；
-- 向 FSA 作为集团级主管机构报送集团层面的 ICS（监管保密报送，IAIS 可能发布汇总层面信息）；
-- FSA 与海外东道监管机构共同参加监管学院。
+- 在日本持牌实体层对 ESR 比率的金融厅披露（经由整合报告及年度报告）；
+- 在集团层向作为集团整体监督者的金融厅进行 ICS 报告（保密监管报告，附带 IAIS 层的汇总公布）；
+- 金融厅与外国东道国监督者参与监管学院。
 
 ## 内部模型批准
 
-ICS 2.0 允许在特定风险模块中使用内部模型成分，但须经集团级主管机构批准。内部模型的使用通常受以下要求约束：
+ICS 2.0 在集团整体监督者批准的前提下，允许特定风险模块使用内部模型组件。内部模型的使用受以下约束：
 
 - 模型文档要求（模型逻辑、校准数据、治理）；
-- 验证要求（独立验证职能、回溯测试、敏感度测试）；
-- use-test（模型必须真实用于风险管理，而不仅用于监管报送）；
-- 盈亏归因要求（模型须能解释实际经验）；
+- 验证要求（独立验证职能、回溯测试、敏感性测试）；
+- 使用测试（模型必须用于实际风险管理，而不仅用于监管报告）；
+- 损益归因要求（模型必须解释实际经验）；
 - 统计质量标准（数据质量、分布假设、参数估计）。
 
-对日本总部 IAIG，FSA 按这些标准审查内部模型成分。新 ICS 计算的默认方法是标准法；内部模型的采用是渐进式的，需要证明模型成熟。
+对于日本总部 IAIG，金融厅依据这些标准审查内部模型组件。新 ICS 计算的默认方法是标准法；内部模型的采用是渐进的，并要求已证明的模型成熟度。
 
 ## ComFrame 定性要求
 
-除定量的 ICS PCR 外，ComFrame 还对 IAIG 施加定性监管要求。关键维度包括：
+除定量的 ICS PCR 之外，ComFrame 对 IAIG 施加定性监管要求。主要维度：
 
-| 领域 | ComFrame 要求 |
+| Area | ComFrame requirement |
 |---|---|
-| 公司治理 | 董事会构成、独立性、对集团风险与资本的监督、继任计划 |
-| 企业风险管理 | 覆盖保险、市场、信用、操作、战略与声誉风险的集团 ERM 框架 |
-| ORSA | 在集团层面开展并向集团级主管机构披露的风险与偿付能力自评 |
-| 集团结构 | 清晰的集团法律结构、不得有妨碍监管穿透的 opaque vehicles、集团内交易需透明 |
-| 恢复规划 | 覆盖资本缺口、流动性压力、操作中断与处置触发条件的集团恢复计划 |
-| 报告与披露 | 集团财务状况的公开披露；向 FSA 与监管学院成员的监管披露 |
-| 风险文化 | 与审慎风险承担一致的集团风险文化、行为标准与薪酬政策 |
+| 公司治理 | 董事会构成、董事会独立性、董事会对集团整体风险与资本的监督、继任规划 |
+| 企业风险管理 | 涵盖保险、市场、信用、操作、战略及声誉风险的集团整体 ERM 框架 |
+| ORSA | 在集团层执行并向集团整体监督者披露的自身风险与偿付能力评估（Own Risk and Solvency Assessment） |
+| 集团结构 | 清晰的集团法律结构、不存在妨碍监管监督的不透明载体、透明的集团内交易 |
+| 恢复规划 | 涵盖资本短缺、流动性压力、操作中断及处置触发的集团层恢复计划 |
+| 报告与披露 | 集团层财务状况的公开披露；向金融厅及监管学院成员的监管披露 |
+| 风险文化 | 与审慎风险承担相一致的集团整体风险文化、行为标准及薪酬政策 |
 
-对 [[insurance/japan-life-insurance-big-four|Japan life big four]] 与 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 中的 IAIG 来说，这些要求叠加在日本《保险业法》既有的 FSA 集团监管规则之上。实际效果是：已认定 IAIG 除本土监管申报外，还需维持与 ComFrame 对齐的集团治理与 ORSA 文档。
+对于 [[insurance/japan-life-insurance-big-four|Japan life big four]] 和 [[insurance/japan-nonlife-big-three|Japan non-life big three]] IAIG，这些要求叠加于保险业法下既有的日本金融厅集团监督规则之上。实际效果是，被认定 IAIG 在国内监管申报之外，还维持与 ComFrame 相一致的集团治理及 ORSA 文档。
 
-## 跨境监管学院的运行机制
+## 跨境监管学院机制
 
-由 FSA 作为集团级主管机构召集的日本 IAIG 监管学院，通常包括：
+金融厅作为日本 IAIG 的集团整体监督者所召集的监管学院通常包括：
 
-| 参与方 | 角色 |
+| Participant | Role |
 |---|---|
-| FSA（集团级主管机构） | 召集人；协调信息共享；监督 ICS 提交 |
-| 重大海外子公司的东道监管机构 | 信息接收与贡献方；依其法域制度监管子公司 |
-| IAIS 观察员（如适用） | 跨法域监测与基准比较 |
-| 集团内部审计或外部审计代表（如受邀） | 讨论与集团风险相关的审计发现 |
+| 金融厅（集团整体监督者） | 召集者；协调信息共享；监督 ICS 提交 |
+| 重要海外子公司的东道国监督者 | 信息接收者及贡献者；在东道国法域制度下监督该子公司 |
+| 适用情况下的 IAIS 观察员 | 跨法域监测及基准比较 |
+| 受邀情况下的集团内部审计或外部审计代表 | 讨论与集团风险相关的审计发现 |
 
-对于 [[non-life-insurers/tokio-marine|Tokio Marine]]，东道监管参与方通常包括美国州监管机构（Philadelphia Consolidated、HCC、Pure Group）、英国 PRA（Lloyd's syndicate）以及其他亚洲与欧洲监管机构。对于 [[life-insurers/dai-ichi-life|Dai-ichi Life]]，通常包括 APRA（澳大利亚，针对 TAL）、美国州监管机构（针对 Protective Life）及部分亚洲监管机构。对于 [[non-life-insurers/msad|MS&AD]] 与 [[non-life-insurers/sompo|Sompo]]，东道监管结构则取决于各集团的海外财险布局。
+对于 [[non-life-insurers/tokio-marine|Tokio Marine]]，东道国监督者参与方通常包括美国州监管机构（针对 Philadelphia Consolidated、HCC、Pure Group）、英国 PRA（针对劳合社辛迪加）以及其他亚洲和欧洲监督者。对于 [[life-insurers/dai-ichi-life|Dai-ichi Life]]，东道国监督者参与方通常包括 APRA（澳大利亚，针对 TAL）、美国州监管机构（针对 Protective Life）以及选定的亚洲监督者。对于 [[non-life-insurers/msad|MS&AD]] 和 [[non-life-insurers/sompo|Sompo]]，东道国监督者的组合反映各集团特定的海外财产险足迹。
 
-监管学院是 ICS 能在集团层面运作的实际基础设施。若没有母国与东道监管之间的协调信息共享，集团层面的资本数字将难以可靠测量。
+学院机制是使 ICS 在集团层可实施的实务基础设施 — 若无本国与东道国监督者之间协调的信息共享，集团层资本数字将无法可靠衡量。
 
-## Aggregation Method（AM）并行路径
+## 集合方法（AM）并行轨道
 
-美国主导的 Aggregation Method 是一种并行计算方法：它在集团层面汇总各法域监管资本比率（如 US NAIC RBC、Solvency II SCR、日本 ESR 等），而不是施加单一共同标准。IAIS 正在评估，AM 是否能对美国总部 IAIG 产生与 ICS “可比的结果”。
+美国主导的集合方法是一种并行计算，它在集团层汇总各法域监管资本比率（美国 NAIC RBC、偿付能力 II SCR、日本 ESR 等），而非适用单一共同标准。IAIS 正在评估 AM 作为面向美国总部 IAIG 的可行替代方案是否产生与 ICS"可比的结果"。
 
-对日本总部 IAIG 而言，AM 不是主路径，FSA 实施的仍是集团层面的 ICS PCR。但 AM 会影响日本集团如何解读美国总部竞争对手（如 Berkshire Hathaway、Chubb、MetLife、Prudential Financial）的资本披露，以及如何通过 [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] 进行跨制度可比性判断。
+对于日本总部 IAIG，AM 并非主要轨道 — 金融厅将 ICS 作为集团层 PCR 实施。然而，AM 影响日本集团如何解读美国总部竞争对手的资本披露（Berkshire Hathaway、Chubb、MetLife、Prudential Financial 等），以及如何经由 [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] 跨制度评估可比性。
 
-## 实务分析阅读顺序
+## 实务分析师阅读指南
 
-外部分析师阅读日本 IAIG / ICS 披露时，可按以下顺序进行：
+对于阅读日本 IAIG／ICS 披露的外部分析师，实务顺序为：
 
-| 步骤 | 来源 | 提取内容 |
+| Step | Source | What to extract |
 |---|---|---|
-| 1. 本土 ESR 比率 | 保险公司综合报告 / 披露册 | 日本持牌实体或控股层面的核心 ESR 比率、敏感度表 |
-| 2. 集团资本状况 | 控股公司综合报告 | 集团资本策略、目标 ESR 区间、分红 / 回购能力 |
-| 3. IAIG / ICS 定位 | FSA 出版物、IAIS 汇总报告 | 集团是否被公开识别为 IAIG；FSA 是否担任集团级主管机构 |
-| 4. 内部模型批准 | 控股公司综合报告披露 | 是否将内部模型用于 ICS 计算；适用范围与批准时间表 |
-| 5. 海外子公司资本 | 子公司所在法域申报（NAIC RBC、Solvency II SFCR、APRA returns） | 重大子公司的跨法域资本实力 |
-| 6. 监管学院结果 | FSA 与东道监管机构公开摘要（若有） | 跨境监管对话主题、恢复计划测试结果 |
+| 1. 国内 ESR 比率 | 保险公司整合报告／披露资料 | 日本持牌实体或控股层的主要 ESR 比率、敏感性表 |
+| 2. 集团资本状况 | 控股公司整合报告 | 集团资本战略、目标 ESR 区间、股息／回购能力 |
+| 3. IAIG／ICS 定位 | 金融厅公布、IAIS 汇总报告 | 集团是否被公开识别为 IAIG；金融厅集团整体监督者角色 |
+| 4. 内部模型批准 | 控股公司整合报告披露 | 内部模型是否适用于 ICS 计算；范围及批准时间表 |
+| 5. 海外子公司资本 | 子公司法域申报（NAIC RBC、偿付能力 II SFCR、APRA 申报） | 重要子公司的跨法域资本强度 |
+| 6. 监管学院结果 | 在已公布情况下来自金融厅及东道国监督者的公开摘要 | 跨境监管对话主题、恢复计划测试结果 |
 
-跨层次交叉阅读，才能得到最完整图景。只看本土 ESR，会遗漏集团边界；只看母公司集团资本，又会遗漏日本持牌实体的审慎状况。
+跨这些层进行三角验证可给出最完整的图景。仅依赖国内 ESR 会遗漏集团层边界；仅依赖母集团的集团资本会遗漏日本持牌实体的审慎状况。
 
-## 与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] 实体 ICS 的关系
+## 与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] 实体 ICS 的相互作用
 
-对于拥有日本持牌保险子公司的外国 IAIG（即 inbound 方向），架构是镜像的：
+对于拥有日本持牌保险子公司的外国 IAIG（入境方向），架构是镜像的：
 
-| 层级 | 主管机构 | 框架 |
+| Layer | Authority | Framework |
 |---|---|---|
-| 外国母公司 IAIG | 外国集团级主管机构（EIOPA、美国州监管机构、OSFI、MAS、HKIA、FINMA） | 集团层面的 ICS 2.0（或 Aggregation Method） |
-| 日本持牌子公司 | FSA | 实体层面的 ESR |
-| 监管学院 | 由外国 GWS 召集；FSA 作为东道监管参与 | 跨法域信息共享 |
+| 外国母公司 IAIG | 外国集团整体监督者（EIOPA、美国州监管机构、OSFI、MAS、HKIA、FINMA） | 集团层 ICS 2.0 （或集合方法） |
+| 日本持牌子公司 | 金融厅 | 实体层 ESR |
+| 监管学院 | 外国 GWS 召集；金融厅作为东道国参与 | 跨法域信息共享 |
 
-FSA 不会单方面对外国 IAIG 的日本子公司直接适用集团层面的 ICS；那是外国 GWS 的职责。但 FSA 会对日本持牌子公司完整适用 ESR，并参加监管学院。这也是为什么 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 会讨论：即便母公司在全球层面的 ICS 充足，子公司层面的资本上划仍可能受 FSA 批准约束。
+金融厅不会单方面对外国 IAIG 子公司适用 ICS — 那是外国 GWS 的责任。但金融厅确实对日本持牌子公司充分适用 ESR，并参与监管学院。这种分工正是 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 讨论即便母公司在全球拥有宽裕的 ICS 覆盖、母集团资本上提（up-streaming）仍须在子公司层经金融厅批准的原因。
 
 ## Related
 
@@ -212,12 +212,12 @@ FSA 不会单方面对外国 IAIG 的日本子公司直接适用集团层面的 
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- IAIS：Insurance Capital Standard 活动与专题页。
-- IAIS：ICS as a Prescribed Capital Requirement（2024-12 定稿文件）。
-- IAIS：ComFrame（Common Framework for the Supervision of Internationally Active Insurance Groups）。
-- FSA：经济价值基础偿付能力制度专题页。
-- FSA：保险监管与监督框架英文概览。
-- 日本生命保险协会：会员公司名单。
-- 日本一般保险协会：行业汇总背景。
+- IAIS：Insurance Capital Standard 活动及主题页面。
+- IAIS：作为规定资本要求的 ICS（2024 年 12 月最终定稿文件）。
+- IAIS：ComFrame（国际活跃保险集团监督共同框架）。
+- 金融厅：经济价值ベースのソルベンシー規制等について（制度枢纽）。
+- 金融厅：保险监管及监督框架（英文概览）。
+- 生命保险协会：会员公司名单。
+- 日本损害保险协会：行业汇总背景。

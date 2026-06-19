@@ -1,11 +1,11 @@
 ---
 source: payment-firms/airwallex-japan
-source_hash: 473e9407c4849a17
+source_hash: 975d75506fc19ccd
 lang: en
 status: machine
 fidelity: ok
 title: "Airwallex Japan"
-translated_at: 2026-05-31T07:28:06.131Z
+translated_at: 2026-06-19T06:09:18.076Z
 ---
 
 # Airwallex Japan
@@ -17,16 +17,16 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-Airwallex Japan Co., Ltd. is the Airwallex group's Japan B2B payments and cross-border funds-transfer operator. Official disclosures indicate registration as a Type II funds transfer service provider and rollout of onboarding / local payout / collection services for Japanese companies.
+Airwallex Japan K.K. is the Airwallex group's Japan B2B payments and cross-border funds-transfer operator. Official announcements indicate a Type II funds-transfer service provider registration and the rollout of onboarding / local payout / collection services for Japanese companies.
 
-## 1. Corporate and license boundary
+## 1. Corporate / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | Airwallex Japan Co., Ltd. |
+| Legal entity | Airwallex Japan K.K. |
 | Group | Airwallex global financial platform |
 | Main lanes | B2B global account, cross-border transfers, payouts / collections, acquiring / payment acceptance |
-| FSA registry route | FSA funds-transfer list: Kanto Local Finance Bureau Director-General 第00100号, Airwallex Japan Co., Ltd. |
+| FSA registry route | FSA funds-transfer list: Director-General of the Kanto Local Finance Bureau 第00100号, Airwallex Japan K.K. |
 
 ## 2. Business role
 
@@ -48,6 +48,6 @@ Airwallex is a newer Japan entrant in the FSA funds-transfer registry, and its b
 
 ## Sources
 
-- Airwallex Japan Type 2  funds-transfer registration announcement: https://www.airwallex.com/jp/newsroom/type-2-fund-transfer-service-provider-in-japan
+- Airwallex Japan Type 2 funds-transfer registration announcement: https://www.airwallex.com/jp/newsroom/type-2-fund-transfer-service-provider-in-japan
 - Airwallex company overview: https://www.airwallex.com/jp/who-we-are
 - FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf

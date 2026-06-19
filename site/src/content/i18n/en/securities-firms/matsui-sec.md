@@ -1,13 +1,14 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: 2f77612dc69b166b
+source_hash: fbc3eb642ea704be
 lang: en
 status: machine
 fidelity: ok
-title: "Matsui Securities Co., Ltd."
-translated_at: 2026-05-31T23:59:49.367Z
+title: "松井証券株式会社 (Matsui Securities)"
+translated_at: 2026-06-19T12:43:19.907Z
 ---
-# Matsui Securities Co., Ltd.
+
+# 松井証券株式会社 (Matsui Securities)
 
 ## Wiki route
 
@@ -15,87 +16,86 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-A mid-sized online securities firm known as **Japan's first online broker** (online equity trading began in 1998-05 , and it pioneered the elimination of face-to-face branches) and listed on TSE Prime 8628. Founded by Fusayoshi Matsui in 1918 年, the long-established broker shifted from face-to-face retail brokerage to an online-only model after **Michio Matsui**, the 4 th-generation leader, became president in 1995-04 . It became a pioneer of Japanese online brokerage, differentiating with **1 -day fixed-fee margin trading** and investor-information apps for retail investors. With roughly 150 万 customer accounts, it sits in a mid-tier position behind the top 5 行 online brokers. Today **SBI Securities** (inside [[megabanks/sbi-hd]]), **Rakuten Securities** (inside [[payment-firms/rakuten-fg]]), **Monex Securities** (inside [[securities-firms/monex-group]]), and others lead the large-player tier, while Matsui Securities keeps an independent online-broker strategy.
+A mid-tier online securities firm (TSE PRIME 8628) known as **Japan's first internet brokerage** (started online stock trading in 1998-05 , a pioneer in abolishing all face-to-face branches). A long-established securities firm founded by Matsui Fusakichi in 1918 年, it became a Japanese internet-brokerage pioneer that transformed from a face-to-face retail securities firm into an internet-only one after the 4 th-generation **Matsui Michio** became president in 1995-04 . Differentiating with a **flat-rate-by-day margin trading 1 ** and investment-information apps for individual investors, with roughly 150 万 customer accounts, it holds a mid-tier position next to the top 5 行 internet brokerages. Currently **SBI Securities** (within [[megabanks/sbi-hd]]) / **Rakuten Securities** (within [[payment-firms/rakuten-fg]]) / **Monex Securities** (within [[securities-firms/monex-group]]), etc. lead as the majors, and Matsui Securities maintains its own path as an independent online securities firm.
 
-## 1. Company overview
+## 1. 会社概要
 
-**Legal name**: Matsui Securities Co., Ltd.  
-**English name**: Matsui Securities Co., Ltd.  
-**Ticker**: TSE Prime 8628
-  
-**Founded**: 1918 年 (founded by Fusayoshi Matsui)  
-**Incorporated**: 1931 年  
-**TSE First Section listing**: 2003-04 (after predecessor JASDAQ listing in 2001-12  -> TSE First Section)  
-**Head office**: Kojimachi, Chiyoda-ku, Tokyo  
-**Representatives**: Michio Matsui (chairman, former president, 4 th generation) / Satoshi Warida (president)  
-**Business type**: Independent online securities company; a single operating company centered on securities brokerage rather than a pure holding-company structure.
+**正式名**：松井証券株式会社
+**英名**：Matsui Securities Co., Ltd.
+**証券コード**：東証 PRIME 8628
+**創業**：1918 年（松井房吉 創業）
+**株式会社化**：1931 年
+**東証一部上場**：2003-04（前身ジャスダック上場 2001-12 → 東証一部）
+**本社**：東京都千代田区麹町
+**代表**：松井道夫（会長、元社長・4 代目）/ 和里田聰（社長）
+**業態**：独立系オンライン証券（純粋持株会社体制ではなく、証券業を主軸とする単一事業会社型）
 
-### Distinctive business structure
+### 業態の特異性
 
-Matsui Securities is an **independent online broker** that does not belong to a megabank, telecom group, or retail group. It has no in-group banking, insurance, or crypto-asset business, and its simple structure focuses purely on securities brokerage, especially online equity trading, margin trading, and investment trusts. This is the opposite model from "integrated platform" online-broker majors such as [[securities-firms/monex-group]] (with crypto assets and a U.S. broker) or [[megabanks/sbi-hd]] (with banking, insurance, and a regional-bank alliance).
+Matsui Securities is an **independent internet brokerage** belonging to none of the megabank-affiliated・telecom-affiliated・distribution-affiliated lineages. Its distinctive feature is a simple business structure that holds no banking・insurance・crypto-asset businesses within the group and is **purely specialized in the securities business (especially internet stock trading・margin trading・investment trusts)**. This is the polar-opposite model from the "comprehensive-platform-type" internet-brokerage majors such as [[securities-firms/monex-group]] (with attached crypto-assets・US brokerage) or [[megabanks/sbi-hd]] (banking・insurance・regional-bank alliance).
 
-### Public-information timeline
+### 重要年表（公開情報ベース）
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| **1918** | **Fusayoshi Matsui founds the business as a sole proprietorship** |
-| 1931  | Incorporated as a stock company |
-| 1995-04  | **Michio Matsui becomes the 4 th president**; starting point of the business-model shift |
-| **1998-05** | **Launch of Japan's first online equity trading service**; a major break from face-to-face branch brokerage |
-| 1999-04  | Launch of the "Netstock" service, the online-trading brand for retail investors |
-| 2001-12  | JASDAQ listing |
-| 2003-04  | **TSE First Section listing** (securities code 8628) |
-| 2009  | Introduces **1 -day fixed-fee margin trading**, differentiating the fee schedule |
-| 2022-04  | TSE market-segment reorganization -> moves to TSE Prime |
-| 2024  | **Expanded NISA and U.S.-stock support**, broadening the product lineup for the new NISA regime |
+| **1918** | **松井房吉が個人商店として創業** |
+| 1931 | 株式会社化 |
+| 1995-04 | **松井道夫 4 代目社長就任**（業態転換の起点）|
+| **1998-05** | **日本初のオンライン株式取引サービス開始** ★ — 対面店舗全廃の革新 |
+| 1999-04 | 「ネットストック」サービス開始（個人投資家向けネット取引ブランド）|
+| 2001-12 | ジャスダック上場 |
+| 2003-04 | **東証一部上場**（証券コード 8628）|
+| 2009 | **信用取引 1 日定額制**導入（手数料体系の差別化）|
+| 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 |
+| 2024 | **NISA 拡充対応・米国株対応強化**（新 NISA 制度に合わせた商品ラインナップ拡充）|
 
-> Note: This timeline is based on public materials (Wikipedia / official IR / press releases). For the latest specific performance and account-count figures, refer to IR disclosures.
+> Note: The above timeline is based on public materials (Wikipedia / official IR / press releases). The latest values for specific performance・number of accounts require reference to IR disclosure materials.
 
-## 2. Business segment map
+## 2. 事業セグメント・マップ
 
-| Segment | Main services | Characteristics |
+| セグメント | 主要サービス | 特徴 |
 |---|---|---|
-| Domestic equities (online trading) | "Netstock" and Matsui Securities app | Core online equity-trading business for retail investors |
-| Margin trading | 1 -day fixed-fee margin trading | Differentiated product introduced in 2009 ; strong appeal to day traders and short-term traders |
-| Investment trusts | Mainly no-load fund lineup | Stable revenue source |
-| REIT | J-REIT handling | Real-estate investment channel for retail investors |
-| U.S. stocks | Strengthened from 2024 onward in connection with NISA | Catch-up to SBI / Rakuten / Monex |
-| Investment information | Matsui Securities app and market-information services | Information tools for active investors |
-| iDeCo / NISA | New NISA-compatible accounts | Product strengthening in line with 2024  regime expansion |
+| 国内株式（ネット取引）| 「ネットストック」「松井証券アプリ」| 個人投資家向けオンライン株式売買コア事業 |
+| 信用取引 | 1 日定額制信用取引 | 2009 導入の差別化商品、デイトレーダー層に強み |
+| 投資信託 | ノーロード投信中心のラインナップ | 安定収益源 |
+| REIT | J-REIT 取扱 | 個人投資家の不動産投資チャネル |
+| 米国株 | 2024〜 強化（NISA 連動）| SBI / 楽天 / マネックスへのキャッチアップ |
+| 投資情報 | 松井証券アプリ・市況情報サービス | アクティブ投資家向け情報ツール |
+| iDeCo / NISA | 新 NISA 対応口座 | 2024 制度拡充に合わせた商品強化 |
 
-### Position as an online-broker pioneer
+### ネット証券パイオニアとしてのポジション
 
-Matsui Securities is the origin point of Japan's online brokerage industry, having launched **Japan's first online equity trading service in 1998-05 **. The decision by Michio Matsui, who became president in 1995-04 , to abolish branches and convert the business from a face-to-face retail brokerage into an online-only broker led a structural shift in Japan's securities industry. The "complete branch abolition" was an extremely bold decision at the time and is positioned as a starting point for the later emergence of the online-broker industry as a whole, including SBI Securities, Rakuten Securities, and Monex Securities.
+Matsui Securities is the originator of Japanese internet brokerages that **started Japan's first online stock-trading service in 1998-05 **. The management decision of Matsui Michio, who became president in 1995-04 , to abolish all branches and transform from the previous face-to-face retail securities model into an internet-only one led the structural transformation of the Japanese securities industry. This "abolition of all face-to-face branches" innovation was an extremely bold decision for its time, and is positioned as the starting point that prompted the later emergence of the entire internet-brokerage industry, such as SBI Securities / Rakuten Securities / Monex Securities, etc.
 
-### Current competitive environment
+### 現在の競争環境
 
-By the late 2020 年s, the online securities industry had consolidated around the following top players:
+The internet-brokerage industry had consolidated among the following top players by the late 2020 年s:
 
-- **SBI Securities** (inside [[megabanks/sbi-hd]]): largest account base; led zero-commission moves.
-- **Rakuten Securities** (inside [[payment-firms/rakuten-fg]]): rapid growth through linkage with the Rakuten ecosystem.
-- **Monex Securities** (inside [[securities-firms/monex-group]]): strength in U.S. stocks + integration into NTT Docomo-linked finance [[megabanks/ndfg]] (planned for 2026 ).
-- **au Kabucom Securities** (formerly au Kabu.com -> Mitsubishi UFJ eSmart Securities, moved back under [[megabanks/mufg]]).
-- **Matsui Securities**: independent mid-tier firm with roughly 150 万 accounts.
+- **SBI Securities** (within [[megabanks/sbi-hd]]): largest in number of accounts, leading fee-zeroing
+- **Rakuten Securities** (within [[payment-firms/rakuten-fg]]): rapid growth via Rakuten-economic-zone linkage
+- **Monex Securities** (within [[securities-firms/monex-group]]): US-stock strength + integration into the NTT docomo-affiliated finance [[megabanks/ndfg]] (scheduled 2026 )
+- **auカブコム証券** (former auカブドットコム → 三菱 UFJ eスマート証券, re-transferred under [[megabanks/mufg]])
+- **Matsui Securities**: independent mid-tier, roughly 150 万 accounts
 
-Matsui Securities sits as a "mid-tier player below the top 5 行" after the leading 4 行 group (SBI / Rakuten / Monex / au-linked). Its strategy is to keep independence while differentiating through 1 -day fixed-fee margin trading and investment-information apps.
+Matsui Securities holds a "mid-tier next to the top 5 行" position next to the top 4 行 (SBI / Rakuten / Monex / au-affiliated). A strategy of differentiating with a flat-rate-by-day margin trading 1  and investment-information apps while maintaining its independent status.
 
-### Differentiation points
+### 差別化ポイント
 
-- **1 -day fixed-fee margin trading** (from 2009): appeals to margin-trading users such as day traders and short-term traders.
-- **Simple business structure**: no bank, insurance, or crypto-asset operation; pure focus on securities brokerage and fast management decisions.
-- **Long-standing customer base**: a legacy brand founded in 1918  plus the credibility of an online-broker pioneer.
-- **Independence**: maintains its own path without entering a megabank, telecom, or retail-group umbrella.
+- **Flat-rate-by-day margin trading 1 ** (2009〜): an appeal to the margin-trading-using segment (day traders・short-term-trading segment)
+- **Simple business structure**: holding no banking・insurance・crypto-assets, purely specialized in the securities business, fast management decisions
+- **Long-term customer base**: a long-established brand founded in 1918  + the credibility of an internet-brokerage pioneer
+- **Independent**: firmly maintaining its own path without entering the umbrella of a megabank / telecom company / distribution group
 
-## 4. Regulation / policy
+## 4. 規制・政策
 
-- **Primary supervisors**: FSA / Japan Securities Dealers Association (JSDA)
-- **Listing segment**: TSE Prime (after the 2022-04  market-segment reorganization)
-- **Securities regulation**: Financial Instruments and Exchange Act; Type I financial instruments business operator
-- **Recent policy issues**:
-  - From 2024: **expanded new NISA regime**; competition to acquire accounts after the annual investment limit expansion and permanentization.
-  - From 2024: **zero-commission trend**; SBI / Rakuten made domestic-equity commissions free, forcing the online-broker revenue model to be rebuilt.
-  - From 2025: **U.S. stocks and global investment demand**; response to continued yen weakness and expanding demand for overseas equities.
-  - From 2025: **crypto assets and new financial products**; divergence among online brokers, with Matsui maintaining a securities-specialist focus.
+- **主管**: 金融庁（FSA）/ 証券業協会（JSDA）
+- **上場区分**: 東証 PRIME（2022-04 市場区分見直し以降）
+- **証券業規制**: 金融商品取引法（金商法）・第一種金融商品取引業者
+- **直近政策論点**:
+  - 2024〜 **expansion of the new NISA system**: account-acquisition competition responding to the expansion・permanence of the annual investment quota
+  - 2024〜 **fee-zeroing trend**: SBI / Rakuten zeroing domestic-stock fees, reconstruction of the revenue model of the internet-brokerage industry
+  - 2025〜 **US-stock・global-investment demand**: responding to continued yen depreciation・expanding overseas-stock demand
+  - 2025〜 **crypto-assets・new financial products**: the divergence of each internet brokerage's response (Matsui maintains its securities-business specialization)
 
 ## Related
 
@@ -104,11 +104,11 @@ Matsui Securities sits as a "mid-tier player below the top 5 行" after the lead
 
 ## Sources
 
-- **Wikipedia: 松井証券** (https://ja.wikipedia.org/wiki/松井証券, 2026-05-19 extraction)
-- Matsui Securities official corporate site and IR section (public information)
-- TSE / JPX listed-company information (securities code 8628, public basis)
+- **Wikipedia: 松井証券**（https://ja.wikipedia.org/wiki/松井証券, extracted 2026-05-19）
+- 松井証券 公式コーポレートサイト・IR セクション（public information）
+- 東証・JPX 上場会社情報（証券コード 8628、public basis）
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (Wikipedia + public IR validation 2026-05-19). Major milestones such as founding year, listing year, presidential succession year, and 1998  online-trading launch are based on public materials. Specific account counts, performance figures, and U.S.-stock support details require the latest official IR disclosures. This entry uses only public information and does not cite any internal catalog or non-public material.
+> [!info] Verification status
+> confidence: **likely** (Wikipedia + public IR verification 2026-05-19). Major milestones such as the year of founding・year of listing・year of presidential appointment・1998  start of internet trading are based on public materials. The details of the specific number of accounts・performance figures・US-stock response require reference to the latest values disclosed in official IR. This entry uses only public information and does not cite any internal catalog・non-public materials.

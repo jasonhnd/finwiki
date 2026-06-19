@@ -1,136 +1,136 @@
 ---
 source: payment-firms/ibank-marketing
-source_hash: e0e045dec3172ceb
+source_hash: 0fb26e7b5b457d96
 lang: en
 status: machine
 fidelity: ok
 title: "iBank Marketing"
-translated_at: 2026-05-31T15:29:03.945Z
+translated_at: 2026-06-19T06:09:18.077Z
 ---
 
 # iBank Marketing
 
 ## Wiki route
 
-This entry sits under the[[payment-firms/INDEX|payment-firms INDEX]]as the FG-subsidiary fintech / wallet-app operating-company anchor for[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]. Read it against parent operating bank[[regional-banks/fukuoka-bank|福岡銀行]]/[[regional-banks/18-shinwa-bank|十八親和銀行]]/[[regional-banks/kumamoto-bank|熊本銀行]]and the wallet-app peer[[megabanks/paypay-fg|PayPay FG]]/[[megabanks/au-fh|au フィナンシャル HD]]/[[payment-firms/rakuten-fg|楽天 FG]]context. For broader system route see[[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]]and[[banking/INDEX|banking index]].
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as the FG-subsidiary fintech / wallet-app operating-company anchor for [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]. Read it against parent operating bank [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] and the wallet-app peer [[megabanks/paypay-fg|PayPay FG]] / [[megabanks/au-fh|au フィナンシャル HD]] / [[payment-firms/rakuten-fg|楽天 FG]] context. For broader system route see [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
-iBank Marketing Co., Ltd. is a fintech subsidiary of[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]100% and is responsible for planning and operating the **Wallet+** (Wallet Plus) smartphone app. As a smartphone-first personal financial service from a regional bank, we provide[[regional-banks/fukuoka-bank|福岡銀行]]/[[regional-banks/18-shinwa-bank|十八親和銀行]]/[[regional-banks/kumamoto-bank|熊本銀行]]customers with **purpose-based savings (myCoin)**, **household budget management**, **prepaid card Wallet+ Card**, **regional cooperation coupons**, etc. It is a typical example of regional bank fintech, and is different from communication / EC wallets such as[[megabanks/paypay-fg|PayPay]]/[[megabanks/au-fh|au PAY]]/ [[payment-firms/rakuten-fg|楽天]], which has a "bank account linkage + purpose-specific savings" axis. ^[extracted]
+iBank Marketing Co., Ltd. is a regional-bank-originated fintech subsidiary, a 100% subsidiary of [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]], in charge of the planning and operation of the **Wallet+** (Wallet Plus) smartphone app. As a regional-bank-originated, smartphone-first personal financial service, it provides **goal-based savings (myCoin)**, **household management**, the **prepaid card Wallet+ Card**, **regional-tie-up coupons**, etc., to [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] customers. A representative example of regional-bank fintech, with an axis of "bank-account linkage + goal-based savings," distinct from telecom-affiliated / EC-affiliated wallets such as [[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]]. ^[extracted]
 
-## 1 . License / group boundary
+## 1. License / group boundary
 
-|Item|Notes|
+| Item | Notes |
 |---|---|
-|Legal name|iBank Marketing Co., Ltd.|
-|English name|iBank Marketing Co., Ltd.|
-|Service brand|Wallet+|
-|Group boundary|[[regional-banks/fukuoka-fg]]100%subsidiary|
-|Headquarters|Chuo Ward, Fukuoka City, Fukuoka Prefecture (around[[regional-banks/fukuoka-bank|福岡銀行]]main store building)|
-|Wiki role|Regional-bank FG fintech / wallet-app subsidiary anchor|
-|Main partner banks|[[regional-banks/fukuoka-bank]] /[[regional-banks/18-shinwa-bank]]/ [[regional-banks/kumamoto-bank]]|
+| Legal name | iBank Marketing Co., Ltd. |
+| English name | iBank Marketing Co., Ltd. |
+| Service brand | Wallet+ (Wallet Plus) |
+| Group boundary | [[regional-banks/fukuoka-fg]] 100% subsidiary |
+| Headquarters | Chuo-ku, Fukuoka City, Fukuoka Prefecture (around the [[regional-banks/fukuoka-bank|福岡銀行]] head-office building) |
+| Wiki role | Regional-bank FG fintech / wallet-app subsidiary anchor |
+| Main partner banks | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] |
 
-## 2 . Holding tree
+## 2. Holding tree
 
-````
-[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] (Holding company/TSE PRIME 8354)
-  ├──[[regional-banks/fukuoka-bank|福岡銀行]](100%) ── Fukuoka Jiten/Core Bank
-  ├──[[regional-banks/18-shinwa-bank|十八親和銀行]](100%) ── Nagasaki ground
-  ├──[[regional-banks/kumamoto-bank|熊本銀行]](100%) ── Kumamoto ground
-  ├── Minna no Bank (100%) ── Japan's first full cloud native digital bank
-  ├──[[securities-firms/ffg-securities|FFG 証券]](100%) ── Group Securities
-  ├── iBank Marketing (100%, this page) ── Wallet+ app management
-  │ ├── Wallet+ App (Smartphone household budget management + purpose-specific savings myCoin)
-  │ ├── Wallet+ Card (prepaid card, JCB brand)
-  │ └── Regional cooperation coupon campaign
-  └── FFG Lease, FFG Card, FFG Venture Business Partners
-````
+```
+[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] (holding company, TSE PRIME 8354)
+  ├── [[regional-banks/fukuoka-bank|福岡銀行]] (100%) ── Fukuoka-based, core bank
+  ├── [[regional-banks/18-shinwa-bank|十八親和銀行]] (100%) ── Nagasaki-based
+  ├── [[regional-banks/kumamoto-bank|熊本銀行]] (100%) ── Kumamoto-based
+  ├── Minna Bank (100%) ── Japan's first full-cloud-native digital bank
+  ├── [[securities-firms/ffg-securities|FFG 証券]] (100%) ── group securities
+  ├── iBank Marketing (100%, this page) ── Wallet+ app operation
+  │     ├── Wallet+ App (smartphone household management + goal-based savings myCoin)
+  │     ├── Wallet+ Card (prepaid card, JCB brand)
+  │     └── regional-tie-up coupons / campaigns
+  └── FFG Lease / FFG Card / FFG Venture Business Partners
+```
 
-### iBank Marketing established
+### Establishment of iBank Marketing
 
-- **2016**:[[regional-banks/fukuoka-fg|FFG]]established iBank Marketing (a pioneering example of a fintech subsidiary from a regional bank)
-- Planning a smartphone-based financial service for young people based on the concept of “reinventing banking”
-- [[regional-banks/fukuoka-bank|福岡銀行]] Based on account linkage, household budget management + purpose-specific savings function is the core
+- **2016**: [[regional-banks/fukuoka-fg|FFG]] established iBank Marketing (a pioneering example of a regional-bank-originated fintech subsidiary)
+- Under the concept of "reinventing banking," it planned smartphone-complete financial services for younger customers
+- With [[regional-banks/fukuoka-bank|福岡銀行]] account linkage as the basis, it placed household management + goal-based savings functions at the core
 
-### Wallet+ app deployment
+### Wallet+ app rollout
 
-- **2016**: Wallet+ app release
-- **myCoin function**: Savings by purpose (set a purpose such as travel, marriage, down payment on a house, etc. and save a fixed monthly amount)
-- **Wallet+ Card**: JCB brand prepaid card (rechargeable)
-- **Regional cooperation**: Coupons linked to stores and tourist spots in Fukuoka city and various parts of Kyushu
+- **2016**: Wallet+ app released
+- **myCoin function**: goal-based savings (set a goal such as travel / wedding / housing down-payment, and save a fixed amount monthly)
+- **Wallet+ Card**: a JCB-brand prepaid card (charge type)
+- **Regional tie-up**: coupons tied up with stores / tourist spots in Fukuoka City and across Kyushu
 
 ### Group expansion
 
-- **2018-2020**:[[regional-banks/18-shinwa-bank|十八親和銀行]]/[[regional-banks/kumamoto-bank|熊本銀行]]added link → Kyushu3 prefecture cover
+- **2018-2020**: [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] linkage added → covering 3  prefectures in Kyushu
 
-## 4 . KPI table (concept)
+## 4. KPI table (concept)
 
-|item|Overview|
+| Item | Overview |
 |---|---|
-|Number of app downloads|300 万 DL breakthrough ([[regional-banks/fukuoka-fg|FFG]] announced). Reference:50 万DL (2018, 2 anniversary) → Approx.80 万DL (2019, 3 anniversary) →100 万DL breakthrough (2020, 4 anniversary) →300 万DL|
-|Main customer base|20 -40 Individual + Kyushu ground account holder|
-|Main partner banks|[[regional-banks/fukuoka-bank]] /[[regional-banks/18-shinwa-bank]]/ [[regional-banks/kumamoto-bank]]|
-|Business area|Household budget management, savings by purpose, prepaid cards, regional coupons|
-|Parent company|[[regional-banks/fukuoka-fg]]100%Investment|
+| App download count | exceeded 300 万 DL ([[regional-banks/fukuoka-fg|FFG]] published). Reference: 50 万 DL (2018, 2  anniversary) → about 80 万 DL (2019, 3  anniversary) → exceeded 100 万 DL (2020, 4  anniversary) → 300 万 DL |
+| Main customer segment | individuals in their 20s-40 s + Kyushu-based account holders |
+| Main partner banks | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] |
+| Business areas | household management, goal-based savings, prepaid card, regional coupons |
+| Parent | [[regional-banks/fukuoka-fg]] 100% investment |
 
-> Note: The number of app DLs exceeded[[regional-banks/fukuoka-fg|FFG]]DL with the announcement of300 万(source below). The detailed values ​​of MAU and number of cards issued are not disclosed separately (no published values), so please refer to the parent[[regional-banks/fukuoka-fg]]IR materials / Wallet+ official website for the latest values.
+> Note: the app download count exceeded 300 万 DL per the [[regional-banks/fukuoka-fg|FFG]] publication (sources below). Because precise values for MAU / cards issued are not disclosed on a standalone basis (no published figures), refer to parent [[regional-banks/fukuoka-fg]] IR materials / the Wallet+ official site for the latest values.
 
-## 5 .Business segment map
+## 5. Business segment map
 
-|segment|Features|
+| Segment | Features |
 |---|---|
-|Wallet+ App|Smartphone household budget management/account visualization/purpose-specific savings (myCoin)|
-|Wallet+ Card|JCB Prepaid (rechargeable, Wallet+ app linked)|
-|myCoin|Savings by purpose (goal setting for travel, marriage, house down payment, etc. + fixed monthly savings)|
-|Regional cooperation|Fukuoka city/Kyushu area stores/tourist destination cooperation coupons|
-|Bank cooperation|[[regional-banks/fukuoka-bank]] /[[regional-banks/18-shinwa-bank]]/[[regional-banks/kumamoto-bank]]Account linked|
-|Attract young people|Emphasis on UX rather than bank apps to encourage20-40 to become the main bank|
+| Wallet+ App | smartphone household management / account visualization / goal-based savings (myCoin) |
+| Wallet+ Card | JCB prepaid (charge type, linked with the Wallet+ app) |
+| myCoin | goal-based savings (goal-setting for travel / wedding / housing down-payment, etc. + fixed monthly savings) |
+| Regional tie-up | coupons tied up with stores / tourist spots in Fukuoka City and across Kyushu |
+| Bank linkage | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] account linkage |
+| Young-segment acquisition | promotes making the bank a main bank for those in their 20s-40 s, with more UX focus than the bank app |
 
-### FG position
+### Position within the FG
 
-- **Channels to acquire young people**:[[regional-banks/fukuoka-fg]]Bank 3 行's gateway to becoming the main bank for young people
-- **Entrance to digital strategy**: Minna no Bank (Digital Bank)/FFG A digital contact point alongside the bank app
-- **Regional economic revitalization**: Local consumption circulation using coupons linked to stores in Fukuoka city and other parts of Kyushu
+- **Young-segment acquisition channel**: an entry point for making [[regional-banks/fukuoka-fg]] banks a main bank for the 3 行 younger segment
+- **Entry to digital strategy**: a digital touchpoint alongside Minna Bank (digital bank) / FFG bank apps
+- **Regional-economy revitalization**: in-region consumption circulation through store-tie-up coupons in Fukuoka City and across Kyushu
 
-### competitive structure
+### Competitive structure
 
-- **Communication wallet** ([[megabanks/paypay-fg|PayPay]] /[[megabanks/au-fh|au PAY]]/ d payment / [[payment-firms/rakuten-fg|楽天ペイ]]): Nationwide, payment-focused, Wallet+ differentiates itself through bank collaboration + purpose-specific savings
-- **Bank app** (mega banks/other regional banks): Differentiation with UI/UX, unique functions such as myCoin
-- **Household account book app** ([[payment-firms/money-forward|マネーフォワード]] / freee personal): Bank cooperation is wide, but regional cooperation / prepaid is unique to Wallet+
-- **Other regional bank fintech**: Similar model to regional bank fintech such as Hokkoku Bank (CCI Group) and Sanin Godo Bank.
+- **Telecom-affiliated wallets** ([[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / d-barai / [[payment-firms/rakuten-fg|楽天ペイ]]): nationwide scale, payment-centered; Wallet+ differentiates on the axis of bank linkage + goal-based savings
+- **Bank apps** (megabanks / other regional banks): differentiates on UI/UX, with unique functions such as myCoin
+- **Household-budget apps** ([[payment-firms/money-forward|マネーフォワード]] / freee-affiliated individual): wide bank-linkage coverage, but regional tie-up / prepaid is unique to Wallet+
+- **Other regional-bank fintech**: a model similar to regional-bank-originated fintech such as Hokkoku Bank (CCI group) or Sanin Godo Bank-affiliated
 
-### strengths and weaknesses
+### Strengths and weaknesses
 
-- Strengths:[[regional-banks/fukuoka-fg]]Bank3 行account customer base + deep regional cooperation in Kyushu + uniqueness of myCoin purpose-specific savings
+- Strengths: [[regional-banks/fukuoka-fg]] banks' 3 行account customer base + the depth of Kyushu-based regional tie-ups + the uniqueness of goal-based savings myCoin
 
-## 7 . Regulation/Policy
+## 7. Regulation / policy
 
-- **Supervising**: Financial Services Agency (FSA) (Banking license not required for app business company alone, via partner bank[[regional-banks/fukuoka-bank]]/ prepaid issuer)
-- **Regulatory issues**:
-  - Prepaid issuing business is regulated by prepaid payment instrument issuers under the Payment Services Act.
-  - Bank API linkage is an electronic payment agency business under the Banking Act (registered by partner bank)
-  - Personal Information Protection Act + My Number Act (handling of household financial data)
-  - Anti-social checks/money laundering measures (jointly implemented with partner banks)
+- **Principal supervisor**: Financial Services Agency (FSA) (as a standalone app operating company, no banking license is needed; via partner banks [[regional-banks/fukuoka-bank]] / prepaid issuers)
+- **Regulatory topics**:
+  - prepaid-issuance operations are subject to prepaid-payment-instrument-issuer regulation under the Payment Services Act
+  - bank-API linkage is subject to the electronic-payment-agency business under the Banking Act (the partner bank registers)
+  - Personal Information Protection Act + My Number Act (handling household data)
+  - anti-social-forces checks / anti-money-laundering measures (jointly implemented with partner banks)
 
 ## Related
 
-- [[regional-banks/fukuoka-fg]] ·[[regional-banks/fukuoka-bank]]·[[regional-banks/18-shinwa-bank]]·[[regional-banks/kumamoto-bank]]· [[securities-firms/ffg-securities]]
-- [[megabanks/paypay-fg]] ·[[megabanks/au-fh]]·[[payment-firms/rakuten-fg]]· [[payment-firms/mercari-hd]]
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/fukuoka-bank]] · [[regional-banks/18-shinwa-bank]] · [[regional-banks/kumamoto-bank]] · [[securities-firms/ffg-securities]]
+- [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/rakuten-fg]] · [[payment-firms/mercari-hd]]
 - [[payment-firms/money-forward]] · [[payment-firms/freee]]
-- [[banking/regional-bank-api-digital-partnership-route]] ·[[banking/INDEX]]· [[banking/baas-japan-landscape]]
+- [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]] · [[banking/baas-japan-landscape]]
 - [[payment-firms/INDEX|payment-firms INDEX]]
 
 ## Sources
 
-- **iBank Marketing Official Site** (https://www.ibank.co.jp/)
-- **iBank Marketing Official Site — Company Information** (https://www.ibank.co.jp/corporate/, Established2016-04 / Head Office Nishinakasu, Chuo-ku, Fukuoka City / FFG Digital Strategy Subsidiary)
-- **Fukuoka FG Press Release (PR TIMES) — Wallet+ achieves300 万downloads** ( https://prtimes.jp/main/html/rd/p/000000320.000029076.html)
-- **Wallet+ official website** (https://walletplus.jp/)
-- **Fukuoka FG Official IR** (https://www.fukuoka-fg.com/)
-- **Fukuoka FG News Release** (https://www.fukuoka-fg.com/news/)
-- **Wikipedia: iBank Marketing / Fukuoka Financial Group** (2026-05-24 extraction)
+- **iBank Marketing official site** (https://www.ibank.co.jp/)
+- **iBank Marketing official site — corporate information** (https://www.ibank.co.jp/corporate/, established 2016-04 / head office Nishi-Nakasu, Chuo-ku, Fukuoka City / FFG digital-strategy subsidiary)
+- **Fukuoka FG press release (PR TIMES) — Wallet+ achieves 300 万 downloads** (https://prtimes.jp/main/html/rd/p/000000320.000029076.html)
+- **Wallet+ official site** (https://walletplus.jp/)
+- **Fukuoka FG official IR** (https://www.fukuoka-fg.com/)
+- **Fukuoka FG news releases** (https://www.fukuoka-fg.com/news/)
+- **Wikipedia: iBank Marketing / Fukuoka Financial Group** (2026-05-24 accessed)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (FG fintech-subsidiary anchor created2026-05-24).[[regional-banks/fukuoka-fg]]page = holding-company strategy / This page deals with everyone's bank, and this page deals with the fintech-subsidiary boundary that operates the Wallet+ app. Establishment (2016) ・Wallet+ release (2016 - 07) ・300 万 DL breakthrough was confirmed by iBank official / FFG announcement (source below). Please refer to the parent[[regional-banks/fukuoka-fg]]IR/Wallet+ official for the detailed figures of MAU and number of cards issued as they are not disclosed separately.
+> confidence: **likely** (FG fintech-subsidiary anchor created 2026-05-24). The [[regional-banks/fukuoka-fg]] page = handles holding-company strategy / Minna Bank, while this page handles the Wallet+ app-operation fintech-subsidiary boundary. The establishment (2016), the Wallet+ release (2016-07), and exceeding 300 万 DL are confirmed by iBank official / FFG publications (sources below). Because precise values for MAU / cards issued are not disclosed on a standalone basis, refer to parent [[regional-banks/fukuoka-fg]] IR / Wallet+ official.
