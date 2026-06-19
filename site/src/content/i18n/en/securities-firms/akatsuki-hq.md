@@ -1,88 +1,88 @@
 ---
 source: securities-firms/akatsuki-hq
-source_hash: 0be163d16c08e2de
+source_hash: 05168adf1358f00b
 lang: en
 status: machine
 fidelity: ok
 title: "Akatsuki Honsha"
-translated_at: 2026-05-31T11:13:44.902Z
+translated_at: 2026-06-19T12:43:19.928Z
 ---
 # Akatsuki Honsha
 
 ## Wiki route
 
-This entry sits under[[securities-firms/INDEX|securities-firms INDEX]]. Read it against[[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]]for peer / contrast context and[[securities/INDEX|securities index]]for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Small and medium-sized independent financial holding company. **Former Takagi Securities** (1948 Osaka (founded in Osaka) was in financial difficulties → Alliance Partners-affiliated capital was acquired → became a holding company and renamed. **Akatsuki Securities (face-to-face + online) + real estate + PE mini-conglomerate**. TSE STD8737. **Akatsuki** (TSE PRIME), a game company for the general public3932) is a completely separate corporation** (be careful of confusion).^[extracted]
+A small-to-mid independent financial holding company. **The former Takagi Securities** (founded 1948  in Osaka) faced management difficulties → capital entered from the Alliance Partners group → holding-company conversion / renaming. **A mini-conglomerate of Akatsuki Securities (face-to-face + online) + real estate + PE**. TSE STD 8737. It is a **completely separate legal entity** from "**Akatsuki**" (TSE PRIME 3932), the mass-market game company (note the confusion). ^[extracted]
 
-## 1. Company Profile
+## 1. Company overview
 
-**Official name**: Akatsuki Co., Ltd. Headquarters^[extracted]
+**Formal name**: Akatsuki Honsha Co., Ltd. ^[extracted]
 **English name**: Akatsuki Honsha Co., Ltd.
-**Stock Code**: TSE STD **8737**^[extracted]
-**Entrepreneurship**:1948(Formerly Takagi Securities Osaka)^[extracted]
-**Business type**: Financial holding company (securities industry + real estate industry + PE investment industry)
-**Note**: Social game/anime business **Akatsuki Co., Ltd.** (TSE PRIME)3932, Kyoto Head Office, Motonori Shioda) is a **totally separate corporation**^[extracted]
+**Securities code**: TSE STD **8737** ^[extracted]
+**Founded**: 1948 (former Takagi Securities, Osaka) ^[extracted]
+**Business type**: financial holding company (securities business + real-estate business + PE investment business)
+**Note**: It is a **completely separate legal entity** from **Akatsuki Inc.** (TSE PRIME 3932, headquartered in Kyoto, Genki Shiota), the social-game / anime business ^[extracted]
 
 ### Major subsidiaries
 
 ```
-Akatsuki Head Office (Holding company/Listed company)8737）
-  ├── Akatsuki Securities (100%)─ Domestic face-to-face + online securities
-  │ ├── Face-to-face sales for individuals (including Osaka main store)
+Akatsuki Honsha (holding company / listed 8737)
+  ├── Akatsuki Securities (100%) ── domestic face-to-face + online securities
+  │     ├── Individual face-to-face sales (including the Osaka head office)
 ```
 
-### Important Chronology^[extracted]
+### Key chronology ^[extracted]
 
-| years | phenomenon |
+| Year/Month | Event |
 |---|---|
-| 1948 | **Takagi Securities** established (Osaka)|
-| 1990 年generation | Listed on JASDAQ |
-| 2000 年generation | Continued operations as Osaka local medium-sized securities company |
-| 2010 年generation | Business difficulties → Alliance Partners-related capital invested |
-| 2010 年second half of generation | Became a holding company → **Akatsuki Head Office** renamed |
-| (continuation) | Securities business transferred to subsidiary **Akatsuki Securities** |
-| 2024 | Formulation of medium-term management plan |
+| 1948 | **Takagi Securities** established (Osaka) |
+| 1990 年s | Listed on JASDAQ |
+| 2000 年s | Continued operating as a mid-sized local securities firm in Osaka |
+| 2010 年s | Management difficulties → capital entered from the Alliance Partners group |
+| Late 2010 年s | Holding-company conversion → renamed **Akatsuki Honsha** |
+| (ongoing) | Securities business succeeded to the subsidiary **Akatsuki Securities** |
+| 2024 | Medium-term management plan formulated |
 
-## 2.Business segment map
+## 2. Business segment map
 
-| segment | main business person | Features |
+| Segment | Main operator | Characteristics |
 |---|---|---|
-| Domestic individual securities | Akatsuki Securities | Medium-sized local area/face-to-face + internet |
+| Domestic individual securities | Akatsuki Securities | Mid-sized local / face-to-face + online |
 
-### competitive position
+### Competitive position
 
-- Niche: Local mid-sized independent + real estate + PE mini-conglomerate
+- Niche: a mini-conglomerate of a mid-sized local independent + real estate + PE
 
-### Collaboration with Alliance Partners Group
+### Collaboration with the Alliance Partners group
 
-- Capital and business collaboration with other companies affiliated with Alliance Partners^[extracted]
-- Cross-selling opportunities between small and medium financial groups
+- Capital / business collaboration with other Alliance Partners group companies ^[extracted]
+- Cross-sell opportunities among small-and-mid financial groups
 
-### fall into the trap (2024）
+### Medium-term plan (2024)
 
-- 2024 Formulation of medium-term management plan (please refer to public disclosure for specific details)
+- Formulated a 2024  medium-term management plan (for specific content, refer to public disclosures)
 
-## 4. Regulations and Policies
+## 4. Regulation and policy
 
-- **Supervising**: Financial Services Agency (FSA)/Kanto Local Finance Bureau/Kinki Local Finance Bureau
-- **Holding company regulations**: Related provisions of the Financial Instruments and Exchange Act, Banking Act, etc.
-- **Industry self-regulation**: Member of Japan Securities Dealers Association (JSDA)
-- **Current policy issues**:
+- **Supervisor**: Financial Services Agency (FSA) / Kanto Local Finance Bureau / Kinki Local Finance Bureau
+- **Holding-company regulation**: relevant provisions of the Financial Instruments and Exchange Act, the Banking Act, etc.
+- **Industry self-regulation**: member of the Japan Securities Dealers Association (JSDA)
+- **Recent policy topics**:
 
 ## Related
 
-- [[securities-firms/nomura-hd]]·[[securities-firms/daiwa-sg|daiwa-securities-group]]·[[securities-firms/okasan-sg|okasan-securities]]·[[securities-firms/tokai-tokyo-fh]]·[[securities-firms/matsui-sec|matsui-securities]]
-- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]](compared to major companies)
+- [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg|daiwa-securities-group]] · [[securities-firms/okasan-sg|okasan-securities]] · [[securities-firms/tokai-tokyo-fh]] · [[securities-firms/matsui-sec|matsui-securities]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (contrast with majors)
 
 ## Sources
 
-- **Wikipedia: Akatsuki Co., Ltd. Headquarters** (https://ja.wikipedia.org/wiki/株式会社あかつき本社, 2026-05-19extraction)
-- **Wikipedia: Akatsuki Securities** (subsidiary,2026-05-19extraction)
-- TSE STD8737 Disclosure information (publicly available only)
+- **Wikipedia: Akatsuki Honsha Co., Ltd.** (https://ja.wikipedia.org/wiki/株式会社あかつき本社, 2026-05-19 extraction)
+- **Wikipedia: Akatsuki Securities** (subsidiary, 2026-05-19 extraction)
+- TSE STD 8737  disclosure information (public portion only)
 
 ---
 
-> [!info] Check status
+> [!info] Verification status

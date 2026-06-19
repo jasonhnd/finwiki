@@ -1,113 +1,114 @@
 ---
 source: securities-firms/okasan-sg
-source_hash: cd863ec4dcb98623
+source_hash: 29adf0967d277e29
 lang: zh
 status: machine
 fidelity: ok
-title: "Okasan Securities Group（冈三证券集团）"
-translated_at: 2026-06-01T00:41:50.472Z
+title: "岡三証券グループ (Okasan Securities Group)"
+translated_at: 2026-06-19T12:43:19.987Z
 ---
-# Okasan Securities Group（冈三证券集团）
 
-## Wiki 路线
+# 岡三証券グループ (Okasan Securities Group)
 
-本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可对照 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]] 阅读同业 / 对比背景，并结合 [[securities/INDEX|securities index]] 理解更广泛的系统与监管边界。
+## Wiki 路径
+
+本词条归属于 [[securities-firms/INDEX|securities-firms INDEX]]。请将其与 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]] 对照阅读以获取同类/对比语境，并参照 [[securities/INDEX|securities index]] 了解更宏观的系统/监管边界。
 
 ## TL;DR
 
-冈三证券集团是中型独立证券控股公司（东证 PRIME **8609**）。1923 年 加藤精一在名古屋以冈三商店创业，1944  公司化，2009-04  转为控股公司。其定位是继 **5  大证券公司（[[megabanks/ndfg]] 野村 / 大和 / SMBC 日兴 / Mizuho Securities / MUMSS）之后的独立中坚证券集团**。战略上结合中京经济圈（名古屋、三重起源）的强面对面零售基础与网络证券（Okasan Online）。主要竞争对手包括同为中京系的 Tokai Tokyo FH，以及网络系 [[securities-firms/monex-group]] / Matsui Securities。^[extracted]
+中坚独立证券持股公司（东证 PRIME **8609**）。1923 年 由加藤精一在名古屋以岡三商店创业 → 1944  改制为株式会社 → 2009-04  持股公司化。**位居 5  大证券（[[megabanks/ndfg]] 野村/大和/SMBC 日兴/瑞穗证券/MUMSS）之后的独立中坚**地位。在中京经济圈（发祥于名古屋·三重）拥有强大的对面零售基础 + 网络证券（岡三 Online）的混合战略。主要竞争对手是同为中京系的东海东京 FH，以及网络系的 [[securities-firms/monex-group]]/松井证券。^[extracted]
 
 ## 1. 公司概要
 
-**正式名**：株式会社岡三証券グループ ^[extracted]
+**正式名称**：株式会社岡三証券グループ ^[extracted]
 **英文名**：Okasan Securities Group Inc.
-**证券代码**：东证 PRIME 8609  ^[extracted]
-**创立**：1923（旧冈三商店，由加藤精一在名古屋创办）^[extracted]
-**公司化**：1944（冈三证券株式会社化）^[extracted]
-**控股公司化**：2009-04-01（中间控股公司 → 完全控股公司体制）^[extracted]
-**业态**：金融商品交易业（第一种金融商品交易业者）控股公司
-**创始人**：加藤精一
+**证券代码**：东证 PRIME 8609 ^[extracted]
+**设立**：1923（旧岡三商店，加藤精一创业／名古屋市）^[extracted]
+**改制为株式会社**：1944（岡三證券改制为株式会社）^[extracted]
+**持股公司化**：2009-04-01（中间持股公司 → 完全持股公司体制）^[extracted]
+**业态**：金融商品交易业（第一种金融商品交易业者）持股公司
+**创业者**：加藤精一
 
-### 主要子公司（公开信息基础）
+### 主要子公司（基于公开信息）
 
 ```
-岡三証券グループ（控股公司・上市 8609）
-  ├── 岡三証券（国内面对面零售证券・100%）── 核心子公司
-  ├── 岡三オンライン（旧岡三オンライン証券，网络证券・100%）
-  ├── 岡三アセットマネジメント（投信运用・100%）
-  ├── 岡三国際（海外证券业务・100%）
-  └── 岡三にいがた証券（地方系列・新潟据点）
+岡三证券グループ（持股公司・上市 8609）
+  ├── 岡三証券（国内对面零售证券・100%）── 核心子公司
+  ├── 岡三 Online（旧岡三 Online 证券，网络证券・100%）
+  ├── 岡三资产管理（投资信托运用・100%）
+  ├── 岡三国际（海外证券业务・100%）
+  └── 岡三新潟证券（地方系列・新潟据点）
 ```
 
-### 合并历史与前身
+### 合并历史·前身
 
-- **1923**：加藤精一在名古屋市以 **冈三商店** 创业 ^[extracted]
-- **1944**：冈三证券株式会社化 ^[extracted]
-- 旧中部三大证券的 1  角之一（中京经济圈的中坚证券）
-- 战后高度增长期向全国扩张，从中京拓展到关东、关西
+- **1923**：加藤精一在名古屋市以**岡三商店**创业 ^[extracted]
+- **1944**：岡三證券改制为株式会社 ^[extracted]
+- 旧中部三大证券的 1  角（中京经济圈的中坚证券）
+- 在战后高速增长期实现全国扩张，由中京 → 关东·关西扩展据点
 
-### 重要年表（摘录）^[extracted]
+### 重要年表（节选）^[extracted]
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| 1923  | 加藤精一在名古屋市创办冈三商店 |
-| 1944  | 冈三证券株式会社化 |
-| 1989  | 名古屋证券交易所一部上市 |
-| 2000 年年代 | 东京证券交易所上市（后为东证 PRIME 8609） |
-| **2009-04-01** | **冈三证券集团控股公司化**（中间控股 → 完全控股公司体制） |
-| 2010 年年代 | 整合 Okasan Online Securities 品牌，后改称 Okasan Online |
-| 2020-2024  | 推进面对面 × 网络混合战略，并联动 Okasan SBI Bank / Okasan Kabusu 等服务 |
+| 1923 | 加藤精一在名古屋市创业岡三商店 |
+| 1944 | 岡三證券改制为株式会社 |
+| 1989 | 名古屋证券交易所一部上市 |
+| 2000 年 年代 | 东京证券交易所上市（后东证 PRIME 8609） |
+| **2009-04-01** | **岡三证券グループ持股公司化**（中间持股 → 完全持股公司体制） |
+| 2010 年 年代 | 岡三 Online 证券品牌整合（后改称岡三 Online） |
+| 2020〜2024 | 推进对面 × 网络混合战略，岡三 SBI Bank／岡三 kabu.com 等服务联动 |
 
-## 2. 业务板块图
+## 2. 业务分部·地图
 
-| 板块 | 主要运营者 | 特征 |
+| 分部 | 主要运营者 | 特征 |
 |---|---|---|
-| 国内面对面零售 | 冈三证券 | 名古屋 / 中京圈强项，富裕层与个人客户 |
-| 网络证券 | Okasan Online | 旧 Okasan Online Securities，混合战略的一翼 |
-| 投信运用 | Okasan Asset Management | 公募投信、私募基金 |
-| 海外 | Okasan International | 香港、新加坡等 |
-| 地方系列 | Okasan Niigata Securities | 新潟据点，地域密着 |
+| 国内对面零售 | 岡三証券 | 名古屋·中京圈为强项，面向富裕层·个人 |
+| 网络证券 | 岡三 Online | 旧岡三 Online 证券，混合战略的一翼 |
+| 投信运用 | 岡三资产管理 | 公募投信·私募基金 |
+| 海外 | 岡三国际 | 香港·新加坡等 |
+| 地方系列 | 岡三新潟证券 | 新潟据点，地域密着 |
 
 ### 中坚独立定位
 
-- 行业位置：继 **5  大证券（[[megabanks/ndfg]] Nomura HD / Daiwa Securities G / SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities）之后的中坚独立证券** ^[extracted]
-- “不属于 megabank 集团的独立系”是区别于其他准大型中坚证券的关键轴。
+- 行业排名：**位居 5  大证券（[[megabanks/ndfg]] 野村 HD／大和证券 G／SMBC 日兴／瑞穗证券／三菱 UFJ 摩根士丹利证券）之后的中坚独立证券** ^[extracted]
+- 「不隶属于巨型银行集团的独立系」是其与其他次于大手的中坚证券的差别化轴
 
-### 面对面 × 网络混合战略
+### 对面 × 网络混合战略
 
-- **冈三证券**（面对面）：面向富裕层、老年客户与中京圈中小企业的咨询
-- **Okasan Online**（网络）：面向年轻层与自主判断客户的低成本交易
-- 通过 2  品牌并存，作为 **full-line securities company** 覆盖不同客户层
-- Fintech 联动：“Okasan SBI Bank”“Okasan Kabusu”等周边服务合作 ^[extracted]
+- **岡三証券**（对面）：面向富裕层·老年层·中京圈中小企业的咨询业务
+- **岡三 Online**（网络）：面向年轻层·自主判断层的低成本交易
+- 2  品牌并存，作为**全线证券**覆盖各客户层
+- 金融科技联动：「岡三 SBI Bank」「岡三 kabu.com」等周边服务联动 ^[extracted]
 
 ### 主要竞争对手
 
-- **Matsui Securities**（网络证券先驱）
-- **[[securities-firms/monex-group]] Monex Group**（网络证券 / 全球）
-- **SBI HD** 集团系证券（线上最大）
+- **松井证券**（网络证券先驱）
+- **[[securities-firms/monex-group]] Monex 集团**（网络证券·全球）
+- **SBI HD** 集团系证券（在线最大手）
 
-## 4. 监管与政策
+## 4. 监管·政策
 
 - **主管**：金融厅（FSA）
 - **业务监管**：金融商品交易法（第一种金融商品交易业者）
 - **上市**：东证 PRIME 8609
 
-- **近期政策议题**：
-  - 新 NISA 扩充（2024〜）：对面对面零售证券构成顺风，冈三证券也强化 advisory
-  - 网络证券手续费免费化趋势：Okasan Online 的手续费体系再检讨
-  - 金融商品中介业者制度：扩大与地方银行、地方信用金库合作
+- **近期政策论点**：
+  - 新 NISA 扩充（2024〜）：对对面零售证券而言是顺风，岡三証券也强化咨询业务
+  - 网络证券手续费免费化趋势：重新审视岡三 Online 的手续费体系
+  - 金融商品中介业者制度：扩大与地方银行·地方信金的合作
 
-## Related
+## 相关
 
 - [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/monex-group]]
 
-## Sources
+## 来源
 
-- **Wikipedia: 岡三証券グループ**（https://ja.wikipedia.org/wiki/岡三証券グループ, 2026-05-19 抽出）
-- **Wikipedia: 岡三証券**（https://ja.wikipedia.org/wiki/岡三証券, 2026-05-19 抽出）
-- 岡三証券グループ 公式 IR（有価証券報告書ベース、2025-06 公表）
+- **Wikipedia: 岡三証券グループ**（https://ja.wikipedia.org/wiki/岡三証券グループ，2026-05-19 抽取）
+- **Wikipedia: 岡三証券**（https://ja.wikipedia.org/wiki/岡三証券，2026-05-19 抽取）
+- 岡三证券グループ官方 IR（基于有价证券报告书，2025-06  公布）
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 公开信息基础校核 2026-05-19）。创立 1923 、控股公司化 2009-04 、子公司构成可通过 Wikipedia 等公开信息确认。财务数值和市场排名的具体值会随时点变化，最新值需参照 Okasan IR Quarterly。
+> [!info] 验证状况
+> confidence: **likely**（基于 v1.0  公开信息校核 2026-05-19）。创业 1923 ／持股公司化 2009-04 ／子公司构成均经由 Wikipedia 为公开信息。财务数值·市场排名的具体数值存在时点变动，最新值请参照岡三 IR Quarterly。

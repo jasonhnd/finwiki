@@ -1,178 +1,178 @@
 ---
 source: payments/japan-consumer-credit-operator-comparison-matrix
-source_hash: c993d4c4f5ab8842
+source_hash: 2dfc88f5aaadbef9
 lang: zh
 status: machine
 fidelity: ok
-title: "日本消费信贷运营商比较矩阵"
-translated_at: 2026-06-01T03:31:12.292Z
+title: "日本消费者信用运营方比较矩阵"
+translated_at: 2026-06-19T06:09:18.151Z
 ---
 
-# 日本消费信贷运营商比较矩阵
+# 日本消费者信用运营方比较矩阵
 
-## 长话短说
+## TL;DR
 
-日本的“消费信贷”不是一个行业——它至少有**九个运营商类别**，它们在结帐时看起来相似，但拥有不同的许可证、不同的监管机构、不同的贷款上限、不同的利率上限和不同的消费者保护制度。如果读者将“カードローン”、“信贩”、“消费者金融”、“BNPL”、“自动自保”、“住宅贷款”、“教育贷款”、“小额信贷”和“PSP 嵌入信贷”归为一类，就会误读合并压力、监管风险、ABS 管道和银行邻接关系。在进行任何公司级分析之前，当问题是**运营商实际属于哪个消费信贷类别**时，此页面是 [[payments/INDEX|payments index]] 其余部分所指向的并排比较表面。
+日本的「消费者信用」并非一个行业——它至少是 **九个运营方类别**，在结算时看似相似，却坐落于不同的牌照、不同的监管机关、不同的放贷上限、不同的利率上限和不同的消费者保护体制之上。若读者将カードローン、信販、消費者金融、BNPL、汽车自保（auto-captive）、住宅ローン、教育ローン、微型信贷（microcredit）和 PSP 嵌入式信用平板化为一个桶，便会误读并购压力、监管敞口、ABS 流水线和银行邻接性。本页面正是这样一个并列比较界面：当问题是在任何公司层面分析之前 **某运营方实际属于哪一个消费者信用类别** 时，[[payments/INDEX|payments index]] 的其余部分会指向它。
 
-## 维基路线
+## Wiki 路径
 
-它位于 [[payments/INDEX|payments index]] 下，作为跨类别消费者信用参考。读取时用 [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 为 BNPL/信贩行，[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]] 为卡端角色分离，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 为跨方案比较本条目刻意补充，[[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] 为 METI 注册表行级源，[[financial-licenses/payment-license-stack|Japan payment license stack]] 为监管类别映射，[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] 为房贷邻接的政策金融面。实体锚的示例为 [[consumer-finance/acom|ACOM]]、[[consumer-finance/aiful|AIFUL]]、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/jaccs|JACCS]] 和 [[card-issuers/orico|Orico]]。
+本页面归属于 [[payments/INDEX|payments index]]，作为跨类别的消费者信用参照。请与 [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 一并阅读了解 BNPL / 信販 这一条线，[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]] 了解卡片侧的角色分离，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 了解本条目刻意补充的跨方案比较，[[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] 了解经产省登记的行级来源，[[financial-licenses/payment-license-stack|Japan payment license stack]] 了解监管类别映射，以及 [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] 了解住房贷款邻接性的政策金融侧。示例的主体锚点为 [[consumer-finance/acom|ACOM]]、[[consumer-finance/aiful|AIFUL]]、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/jaccs|JACCS]] 和 [[card-issuers/orico|Orico]]。
 
-## 九个操作员类别
+## 九个运营方类别
 
-FinWiki 保留九个类别（而不是传统的“卡/商贷/shinpan”三个类别）的原因是，BNPL、自动自保、住房贷款相邻、教育贷款、小额信贷和 PSP 嵌入信贷具有**不同的许可途径、不同的监管机构和不同的消费者保护制度**，即使消费者可见的产品看起来像是单一的“信贷”体验。
+FinWiki 之所以保留九个类别（而非传统的「卡 / 商工贷 / 信販」三类），是因为 BNPL、汽车自保、住房贷款邻接、教育贷款、微型信贷和 PSP 嵌入式信用具有 **不同的牌照路径、不同的监管机关和不同的消费者保护体制**，即便面向消费者可见的产品看起来像是单一的「信用」体验。
 
-| # | 类别 | 日本人 | 主要法规 | 主调节器 |
+| # | 类别 | 日文 | 主要法令 | 主要监管机关 |
 |---|---|---|---|---|
-| 1  | 发卡机构 | 信用卡公司/综合信用购买中介 | 分期付款销售法 | METI（经济产业省） |
-| 2  | 消费金融/商科贷款 | 消费金融/放债人 | 放债商业法 | FSA（金融服务局） |
-| 3  | 分期付款信用/shinpan | 赊销公司/个人赊购经纪人 | 分期付款销售法 | METI（经济产业省） |
-| 4  | BNPL 纯业务 | BNPL / 后付费 | 分期付款销售法（选择性；适用豁免门槛） | 主要是经济产业省；钱包/资金转账重叠的 FSA |
-| 5  | 汽车金融/汽车自保 | 汽车贷款/汽车信贷 | Installment Sales Act (个别 / 包括) + Money-Lending Act where unsecured | 主要是经济产业省；任何放贷部分的 FSA |
-| 6  | 房贷毗邻（JHF路线） | 直接住房贷款/平 35  | JHF Act (独立行政法人住宅金融支援机构法) + Banking Act | MLIT（国土交通省）+MOF+银行方FSA |
-| 7  | 教育贷款 | 教育贷款 | Banking Act (民间) + JFC Act (公的) | FSA（私人）+ MOF（公共/JFC） |
-| 8  | 小额信贷 | 小额信贷 | 放债法（通常）或社会金融途径 | FSA 放贷；厚生省的一些社会信用渠道 |
-| 9  | PSP-相邻信用（嵌入式 EC 信用） | PSP内置延期付款/EC嵌入式信用 | 分期付款销售法 + 资金转账/预付（若钱包链接） | METI + FSA（边界情况） |
+| 1 | 发卡机构 | クレジットカード会社 / 包括信用購入あっせん業者 | 分期销售法（割賦販売法） | 经产省（経産省） |
+| 2 | 消费金融 / 商工贷 | 消費者金融 / 貸金業者 | 贷金业法（貸金業法） | 金融厅（金融庁） |
+| 3 | 分期信用 / 信販 | 信販会社 / 個別信用購入あっせん業者 | 分期销售法（割賦販売法） | 经产省（経産省） |
+| 4 | BNPL 纯玩家 | BNPL / 後払い | 分期销售法（选择性；适用豁免阈值） | 主要为经产省；钱包/资金移动重叠处为金融厅 |
+| 5 | 汽车金融 / 汽车自保 | 自動車ローン / オートクレジット | 分期销售法（個別 / 包括）+ 无担保处适用贷金业法 | 主要为经产省；任何贷金业部分为金融厅 |
+| 6 | 住房贷款邻接（JHF 路径）| 住宅ローン直接型 / フラット 35 | JHF 法（独立行政法人住宅金融支援機構法）+ 银行法 | 国交省（国交省）+ MOF + 银行侧金融厅 |
+| 7 | 教育贷款 | 教育ローン | 银行法（民間）+ JFC 法（公的） | 金融厅（民間）+ MOF（公的・JFC） |
+| 8 | 微型信贷 | マイクロクレジット | 贷金业法（多数情形）或社会金融路径 | 贷金业处为金融厅；部分社会信用渠道为厚劳省 |
+| 9 | PSP 邻接信用（嵌入式 EC 信用）| PSP 内蔵後払い / EC 埋込型クレジット | 分期销售法 + 钱包连接处的资金移动/预付 | 经产省 + 金融厅（边界情形） |
 
-每行都是一个独立的许可证堆栈。持有超过一项的运营商**不**自动成为控股公司——它更常见的是多牌照的销售金融/消费信贷运营商（例如，[[card-issuers/orico|Orico]]同时持有综合信用购买中介、个人信用购买中介和放贷业务；[[consumer-finance/aiful|AIFUL]]通过生命卡持有放贷+综合信用购买中介业务；[[card-issuers/jaccs|JACCS]]持有全部三项业务，再加上综合信用购买中介+个人信贷购买调解）。
+每一行都是一套独立的牌照栈。持有多于一套牌照的运营方 **并不** 自动成为控股公司——更多情况下它是多牌照的销售金融 / 消费者信用运营方（例如：[[card-issuers/orico|Orico]] 同时持有包括信用購入あっせん、個別信用購入あっせん和貸金業；[[consumer-finance/aiful|AIFUL]] 通过 Life Card 持有貸金業 + 包括信用購入あっせん；[[card-issuers/jaccs|JACCS]] 持有这三者外加包括信用購入あっせん + 個別信用購入あっせん）。
 
-## 比较矩阵 - 完整
+## 比较矩阵 — 完整
 
-| 方面 | 发卡机构 | 消费金融 | 分期付款信用（shinpan） | BNPL 纯业务 | 自动俘虏 | 住房贷款（JHF） | 教育贷款 | 小额信贷 | PSP-相邻信用 |
+| 维度 | 发卡机构 | 消费金融 | 分期信用（信販） | BNPL 纯玩家 | 汽车自保 | 住房贷款（JHF） | 教育贷款 | 微型信贷 | PSP 邻接信用 |
 |---|---|---|---|---|---|---|---|---|---|
-| **执照** | 分期付款销售法（综合信用购买调解） | Money-Lending Business Act (贷金业) | 分期付款销售法（个人赊购调解+常包容） | 分期付款销售法（第二类≤2 mo+个别豁免门槛） | Installment Sales Act (个别 / 包括 mostly) + Money-Lending Act sometimes | JHF法+银行法（私人方面） | 银行法 + JFC 法（公共侧） | 放债法通常 | 分期付款销售法+支付服务法（混合） |
-| **调节器** | 放 | 金融服务管理局 | 放 | METI（+ 钱包链接的 FSA） | 主要是经济产业省 | 国土交通省+财政部+银行方金融服务管理局 | 金融服务管理局+MOF | 主要是FSA | METI + FSA 边界 |
-| **注册登记处** | 日本经济产业省注册综合信用购买调解员名单（2026-04 月末的241 ） | FSA放债人登记名单 | 日本经济产业省注册个人信用购买调解员名单（2026-04 月末的138 ） | 混合 — METI II 类 / 个别豁免 + FSA II / III 类资金转移 | METI 个别/包括 lists | JHF参与金融机构名单（私人）+JHF direct | 银行产品披露+JFC产品披露 | FSA 放债人注册 + JICC / CIC | METI注册+FSA资金转账服务+第三方预付款 |
-| **总金额限制（借贷上限）** | 是的，适用于预付现金部分；循环购物使用不同的规则 | 是 - 年收入硬顶 1/3  | 无（分期销售法有预估应付金额调查，而非总金额规定） | 对于 ≤ 2 mo 的延期付款，实际上不适用；已注册的完整个人信贷购买调解规则 | 否（分期付款销售法路径） | 否——担保+政策金融剥离 | 民间不行（银行产品）； JFC 公共贷款否 | 是（1/3 cap 适用） | 取决于实际登记应收账款的许可证 |
-| **利率上限** | 利息限制法15-20%（预付现金）；分期付款销售法 购物有效年利率 | 利息制限法 15-20% + 出资法 20% criminal cap | 利息限制法+分期销售法 实际年利率披露 | 一般为消费者 0%（商家支付 MDR 等值）；滞纳金模式 | 分期付款销售法 有效年利率 | 私人住房贷款：银行市场利率；平板 35  固定式 | 银行贷款：市场利率； JFC：低固定 | 利息限制法+投资法 20% | 混合 — 取决于预订许可证 |
-| **了解您的客户/反洗钱义务** | 《防止刑事收益转移法》（《刑事收益法》）的全部义务 | 刑事收益法 + 放债商业法 KYC 严格 | 刑事收益法+分期付款销售法 会员店调查 | 刑事收益法对小额票据的适用程度较低；超过阈值的地方已满 | 犯收法 + dealership KYC | 犯收法 + bank-side full KYC | 犯收法 + bank-side full KYC | 犯收法 + 贷金业 KYC | 犯收法 + wallet / 资金移动业 KYC where applicable |
-| **披露义务** | Installment Sales Act 実质年率, 加盟店表示, security guideline (J-CSC) | 放债业务法第 13  文件交付、第 17  合同文件 | Installment Sales Act 実质年率, 加盟店表示, 个别 contract | METI 后払い FAQ guidance + 消费者契约法 | 分期销售法 实际年利率+经销商披露 | 重要事项声明+银行方披露 | 银行端披露+JFC产品披露 | 放债商业法文章 13/17  | METI + 消费者契约法 + wallet T&C |
-| **违约率披露** | 发行人IR（按部门划分的年度贷款损失率） | 有报 + JFSA aggregate stats | Shinpan IR（分部级信用成本率） | 有限 — Paidy 运营商 IR（如果列出）（例如，Paidy 通过 PayPal 披露） | OEM 财务部门 IR（例如 OEM 合并报告中嵌入的丰田财务披露） | JHF annual report + bank-side 贷倒率 | 银行IR+JFC年度报告 | 放债 IR（如果上市）；否则 JFSA 总计 | 有限的;大部分在父 PSP IR 内 |
-| **负债/坏账拨备** | IFRS 9 / J-GAAP津贴+分期销售法会员店风险负担 | IFRS 9 / J-GAAP 条款、超额支付遗留条款 | IFRS 9 / J-GAAP 引当金 + 加盟店求偿 | 通常由商家+运营商共同共享 | OEM 保证或经销商追索模式常见 | 银行准备金 + JHF 信用增级 35  回购 | 银行准备金 + JFC 财政支持 | 放贷业务准备金+超额支付风险挥之不去 | 通过预订许可证混合 |
-| **报告注册途径** | 日本经济产业省注册综合信用购买中介公司 PDF 列表 | FSA放债人登记名单（中央+都道府县） | 日本经济产业省注册个人信用购买中介公司 PDF 列表 | METI 注册（如适用）+ 延期付款行政处置状态页 | METI 个别/包括 lists | JHF经手金融机构名单+JHF Direct | 全银协披露的银行贷款产品； JFC 产品页面 | FSA放债人登记名单 | METI + FSA 交叉注册 |
-| **近期监管压力** | 修订分期销售法（2018, 2020, 2024 BNPL澄清）； J-CSC指南6.0/6.1 （EMV 3-DS强制2025-03 对于EC） | 修订《放债业务法》（2010-06 全面执行：20%上限+1/3 金额规定）；超额付款逐步减少 | 改正割賦販売法 (2018 加盟店調査強化); 2020 amendment for 認定包括/少額包括 | 2024 BNPL 对分期付款销售法修正案的澄清； CAA/消费者事务局对滥用现金兑换发出警告 | EV/KINTO认购转型压力； OEM自保合并讨论 | 平35 滥用问题（2019-）+JHF投资者基数转移 | 没有专业；学费上涨导致教育贷款需求压力 | Limited national framework; 社会的金融 discussions ongoing | METI + FSA 对嵌入式结账信用的边界澄清 |
-| **证券化/ABS管道** | 重磅——信用卡应收ABS（V-RACE、S-RACE、乐天卡ABS例行发行） | Heavy — ACOM / SMBCCF / AIFUL 的消费贷款 ABS 例程 | 重磅——汽车贷款ABS（汽车/购物信贷ABS例程） | 新兴——PayPal旗下Paidy应收账款证券化路线 | 重磅——丰田金融/本田金融/日产金融汽车ABS例程 | 重磅 — 持平 35 MBS JHF 例行发行（JHF MBS，日本最大的 MBS 发行人） | 有限——银行贷款组合很少被证券化用于纯教育池 | 最小 | 最小 |
-| **银行毗邻** | Megabank-FG 一致：[[card-issuers/smbc-card\|SMBC Card]] (SMFG)、[[card-issuers/mufg-nicos\|MUFG NICOS]] (MUFG)、[[card-issuers/jcb\|JCB]]（多银行）、[[card-issuers/rakuten-card\|Rakuten Card]] (Rakuten FG)、[[card-issuers/paypay-card\|PayPay Card]] (PayPay FG) | 混合：[[consumer-finance/smbc-consumer-finance\|SMBC Consumer Finance / Promise]]（SMFG 100%）、[[consumer-finance/acom\|ACOM]]（MUFG 39.6% 权益法）、[[consumer-finance/aiful\|AIFUL]]（独立） | 银行-FG 一致：[[card-issuers/jaccs\|JACCS]]（MUFG 权益法）、[[card-issuers/orico\|Orico]]（瑞穗 + 伊藤忠）、[[card-issuers/aplus\|APLUS]]（SBI Shinsei）、Credit Saison（独立/瑞穗相邻） | 主要是非银行：Paidy (PayPal)、Atone (Net Protections)、NP 后払い (Net Protections) — 但银行 FG 发卡机构也扩展了类似 BNPL 的产品 | OEM自保：丰田金融（丰田）、本田金融、日产金融服务——非银行自保，有时与银行合作 | 银行主导（私人）：所有大型银行+区域银行； JHF是政策性金融非银行 | 银行贷款（民间教育贷款）； JFC 是政策性金融非银行机构 | 通常是非银行社会金融+放贷小型业务 | 如果父 PSP 与银行相邻，则银行-FG 对齐 |
-| **卡品牌接受依赖性** | 直接 — 发卡机构带有 Visa / Mastercard / JCB / Amex / Diners 品牌 | 无（现金贷款，非卡品牌传递） | 混合型 — 许多 Shinpan 还发行品牌卡（Orico 卡、JACCS 卡） | 尽管有些 BNPL 提供虚拟品牌卡，但通常在结账点（运营商直接）没有 | 贷款产品层面没有 | 贷款产品层面没有 | 没有任何 | 没有任何 | 视情况而定 — 某些 PSP 信用路线通过品牌卡后端 |
+| **牌照** | 分期销售法（包括信用購入あっせん） | 贷金业法（貸金業） | 分期销售法（個別信用購入あっせん + 常含包括） | 分期销售法（Type II ≤ 2 个月 + 個別豁免阈值） | 分期销售法（大多为個別 / 包括）+ 有时贷金业法 | JHF 法 + 银行法（私营侧） | 银行法 + JFC 法（公共侧） | 通常为贷金业法 | 分期销售法 + 资金结算法（混合） |
+| **监管机关** | 经产省 | 金融厅 | 经产省 | 经产省（钱包连接处 + 金融厅） | 主要为经产省 | 国交省 + MOF + 银行侧金融厅 | 金融厅 + MOF | 主要为金融厅 | 经产省 + 金融厅边界 |
+| **登记名录** | 经产省 登録包括信用購入あっせん業者 名录（截至 2026-04 月末 241 ）| 金融厅 貸金業者登録 名录 | 经产省 登録個別信用購入あっせん業者 名录（截至 2026-04 月末 138 ）| 混合 — 经产省 Type II / 個別豁免 + 金融厅 Type II / III 资金移动 | 经产省 個別/包括 名录 | JHF 参与金融机构名录（私营）+ JHF 直接 | 银行产品披露 + JFC 产品披露 | 金融厅 貸金業者登録 + JICC / CIC | 经产省 登録 + 金融厅 資金移動業 + 第三者型前払 |
+| **总量规制（放贷上限）** | 现金借支（キャッシング）部分适用；循环购物用不同规则 | 适用 — 年收入的 1/3 硬上限 | 无（分期销售法以支払可能見込額調査替代総量規制）| ≤ 2 个月后付款实际上无；登记处适用完整個別信用購入あっせん规则 | 无（分期销售法路径）| 无 — 担保 + 政策金融豁免 | 民間（银行产品）无；JFC 公共贷款亦无 | 适用（1/3 上限适用）| 取决于实际计入债权的牌照 |
+| **上限金利（利率上限）** | 利息制限法 15-20%（现金借支）；购物适用分期销售法 実質年率 | 利息制限法 15-20% + 出資法 20% 刑事上限 | 利息制限法 + 分期销售法 実質年率 披露 | 对消费者一般为 0%（商户支付 MDR 等值）；滞纳金模型 | 分期销售法 実質年率 | 民間 住房贷款：银行市场利率；フラット 35 固定 | 银行贷款：市场利率；JFC：低固定 | 利息制限法 + 出資法 20% | 混合 — 取决于计入牌照 |
+| **KYC / AML 义务** | 犯罪収益移転防止法（犯収法）完整义务 | 犯収法 + 贷金业法 KYC（严格）| 犯収法 + 分期销售法 加盟店調査 | 小额时犯収法从轻；超阈值时完整 | 犯収法 + 经销商 KYC | 犯収法 + 银行侧完整 KYC | 犯収法 + 银行侧完整 KYC | 犯収法 + 贷金业 KYC | 犯収法 + 适用处钱包 / 資金移動業 KYC |
+| **披露义务** | 分期销售法 実質年率、加盟店表示、安全指南（J-CSC）| 贷金业法 13 条 书面交付、17 条 合同书面 | 分期销售法 実質年率、加盟店表示、個別 合同 | 经产省 後払い FAQ 指引 + 消費者契約法 | 分期销售法 実質年率 + 经销商披露 | 重要事項説明書 + 银行侧披露 | 银行侧披露 + JFC 产品披露 | 贷金业法 13/17 条 | 经产省 + 消費者契約法 + 钱包 T&C |
+| **违约率披露** | 发卡机构 IR（分部年度 貸倒率）| 有报 + 金融厅汇总统计 | 信販 IR（分部级 信用コスト率）| 有限 — 上市处为后付款运营方 IR（例：经由 PayPal 披露的 Paidy）| OEM 金融部门 IR（例：嵌入 OEM 并表报告的 Toyota Finance 披露）| JHF 年度报告 + 银行侧 貸倒率 | 银行 IR + JFC 年度报告 | 上市处为贷金业 IR；否则为金融厅汇总 | 有限；大多在母 PSP 的 IR 内 |
+| **负债 / 坏账拨备** | IFRS 9 / J-GAAP 引当金 + 分期销售法 加盟店リスク負担 | IFRS 9 / J-GAAP 引当金、過払金引当 的遗留 | IFRS 9 / J-GAAP 引当金 + 加盟店求償 | 通常为商户 + 运营方共担 | OEM 担保或经销商追索模型常见 | 银行 引当金 + 用于フラット 35 回购的 JHF 信用补充 | 银行 引当金 + JFC 财政支撑 | 贷金业 引当金 + 過払金 风险残留 | 按计入牌照混合 |
+| **报告名录路径** | 经产省 登録包括信用購入あっせん業者 PDF 名录 | 金融厅 貸金業者登録 名录（中央 + 都道府县）| 经产省 登録個別信用購入あっせん業者 PDF 名录 | 经产省 登録（适用处）+ 後払い行政処分状況 页面 | 经产省 個別/包括 名录 | JHF 取扱金融機関一覧 + JHF 直接 | 全銀協 披露中的银行贷款产品；JFC 产品页 | 金融厅 貸金業者登録 名录 | 经产省 + 金融厅跨名录 |
+| **近期监管压力** | 改正割賦販売法（2018, 2020, 2024 BNPL 厘清）；J-CSC 指南 6.0/6.1 （EC 处 2025-03 起 EMV 3-DS 强制）| 改正貸金業法（2010-06 完全施行：20% 上限 + 1/3 総量規制）；過払金 收尾 | 改正割賦販売法（2018 加盟店調査強化）；为 認定包括/少額包括 的 2020 修订 | 分期销售法修订下的 2024 BNPL 厘清；CAA / 消費者庁 对套现滥用的警告 | EV / KINTO 订阅转型压力；OEM 自保整合讨论 | フラット 35 不正利用問題（2019-）+ JHF 投资者基础迁移 | 无重大；随学费上升的教育贷款需求压力 | 国家框架有限；社会的金融 讨论持续 | 经产省 + 金融厅对嵌入式结算信用的边界厘清 |
+| **证券化 / ABS 流水线** | 大量 — 信用卡债权 ABS（V-RACE、S-RACE、Rakuten Card ABS 例行发行）| 大量 — ACOM / SMBCCF / AIFUL 的消费贷款 ABS 例行 | 大量 — 汽车贷款 ABS（汽车 / 购物信用 ABS 例行）| 萌芽 — PayPal 下的 Paidy 债权证券化路径 | 大量 — Toyota Finance / Honda Finance / Nissan Financial 汽车 ABS 例行 | 大量 — 由 JHF 例行发行的フラット 35 MBS（机构 MBS，日本最大 MBS 发行人）| 有限 — 银行贷款组合很少为教育专用池证券化 | 极少 | 极少 |
+| **银行邻接性** | 超大型银行 FG 系：[[card-issuers/smbc-card\|SMBC Card]]（SMFG）、[[card-issuers/mufg-nicos\|MUFG NICOS]]（MUFG）、[[card-issuers/jcb\|JCB]]（多银行）、[[card-issuers/rakuten-card\|Rakuten Card]]（乐天 FG）、[[card-issuers/paypay-card\|PayPay Card]]（PayPay FG）| 混合：[[consumer-finance/smbc-consumer-finance\|SMBC Consumer Finance / Promise]]（SMFG 100%）、[[consumer-finance/acom\|ACOM]]（MUFG 39.6% 权益法）、[[consumer-finance/aiful\|AIFUL]]（独立）| 银行 FG 系：[[card-issuers/jaccs\|JACCS]]（MUFG 权益法）、[[card-issuers/orico\|Orico]]（瑞穗 + 伊藤忠）、[[card-issuers/aplus\|APLUS]]（SBI Shinsei）、Credit Saison（独立 / 瑞穗邻接）| 大多为非银行：Paidy（PayPal）、Atone（Net Protections）、NP後払い（Net Protections）— 但银行 FG 发卡机构亦提供 BNPL 类产品 | OEM 自保：Toyota Finance（Toyota）、Honda Finance、Nissan Financial Services — 非银行自保，有时与银行合作 | 银行前置（民間）：所有超大型银行 + 地银；JHF 为政策金融非银行 | 银行前置（民間 教育贷款）；JFC 为政策金融非银行 | 常为非银行社会金融 + 贷金业 小型运营 | 若母 PSP 银行邻接则为银行 FG 系 |
+| **卡品牌受理依赖** | 直接 — 发卡机构承载 Visa / Mastercard / JCB / Amex / Diners 品牌 | 无（现金贷款，非卡品牌路由）| 混合 — 许多信販亦发行品牌卡（Orico Card、JACCS Card）| 结算时点一般无（运营方直接），不过部分 BNPL 扩展虚拟品牌卡 | 贷款产品层面无 | 贷款产品层面无 | 无 | 无 | 取决于 — 部分 PSP 信用经由品牌卡后端路由 |
 
-### 1。发卡机构（信用卡公司/综合信用购买中介机构）
+### 1. 发卡机构（クレジットカード会社 / 包括信用購入あっせん業者）
 
-Card issuers are **包括信用購入あっせん業者** under the Installment Sales Act, registered with METI (241 registrations as of 2026-04 month-end per the METI 登録包括信用購入あっせん業者 list). The card issuer is the entity that screens cardholders, sets credit limits, books the receivable, and runs fraud monitoring. Bank-FG anchors: [[card-issuers/smbc-card|SMBC Card]] (SMFG), [[card-issuers/mufg-nicos|MUFG NICOS]] (MUFG), [[card-issuers/jcb|JCB]] (multi-bank consortium). Non-bank-FG anchors: [[card-issuers/rakuten-card|Rakuten Card]] (Rakuten FG), [[card-issuers/paypay-card|PayPay Card]] (PayPay FG), [[card-issuers/aeon-financial-service|AEON Financial Service]] (AEON retail-FG).
+发卡机构是分期销售法下的 **包括信用購入あっせん業者**，在经产省登记（据经产省 登録包括信用購入あっせん業者 名录，截至 2026-04 月末 241 家登记）。发卡机构是筛选持卡人、设定信用额度、计入债权并运行欺诈监控的主体。银行 FG 锚点：[[card-issuers/smbc-card|SMBC Card]]（SMFG）、[[card-issuers/mufg-nicos|MUFG NICOS]]（MUFG）、[[card-issuers/jcb|JCB]]（多银行财团）。非银行 FG 锚点：[[card-issuers/rakuten-card|Rakuten Card]]（乐天 FG）、[[card-issuers/paypay-card|PayPay Card]]（PayPay FG）、[[card-issuers/aeon-financial-service|AEON Financial Service]]（永旺零售 FG）。
 
-Cash-advance (キャッシング) inside a card product crosses into the 貸金業 regime — that portion is subject to 総量規制 (1/3 of income cap) and the 利息制限法 20% interest cap, while the **shopping** portion is governed by the Installment Sales Act 支払可能見込額調査 rather than 総量規制. This dual-regime structure is unique to card issuers.
+卡产品内的现金借支（キャッシング）越界进入贷金业体制——该部分受总量规制（收入的 1/3 上限）和利息制限法 20% 利率上限约束，而 **购物** 部分则由分期销售法 支払可能見込額調査 而非总量规制治理。这种双重体制结构为发卡机构所特有。
 
-### 2。消费金融/shoko-loan（消费金融/放债人）
+### 2. 消费金融 / 商工贷（消費者金融 / 貸金業者）
 
-Consumer finance operators are 貸金業者 under the Money-Lending Business Act (貸金業法), registered with FSA via 中央 (財務局) or 都道府県 routes. The current "3 大消費者金融" are [[consumer-finance/acom|ACOM]] (MUFG equity-method 39.6%), [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (SMFG 100% subsidiary), and [[consumer-finance/aiful|AIFUL]] (independent, founder-family controlled). After 武富士 collapsed via 会社更生 in 2010, the segment consolidated around these three.
+消费金融运营方是贷金业法（貸金業法）下的貸金業者，经由中央（财务局）或都道府县路径在金融厅登记。当前的「3 大消费金融」为 [[consumer-finance/acom|ACOM]]（MUFG 权益法 39.6%）、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]]（SMFG 100% 子公司）和 [[consumer-finance/aiful|AIFUL]]（独立，创始家族控制）。在武富士于 2010, 经会社更生破产后，该板块围绕这三家整合。
 
-The defining regulatory event is the **改正貸金業法** that fully enforced in 2010-06: 利息制限法 cap of 20% (15% / 18% / 20% tiered by principal size) replaced the old 出資法 29.2% gray-zone, and 総量規制 (1/3 of annual income hard cap) became binding. The 過払金 (overcharged-interest refund) wave that followed is responsible for the [[consumer-finance/aiful|AIFUL]] 事業再生 ADR (2009-09), the MUFG TOB of [[consumer-finance/acom|ACOM]] (2008-10), and the SMFG full-subsidiary-isation of Promise.
+决定性的监管事件是于 2010-06完全施行的 **改正貸金業法**：利息制限法 20% 上限（按本金规模分级为 15% / 18% / 20%）取代了旧 出資法 29.2% 灰色地带，总量规制（年收入的 1/3 硬上限）开始具有约束力。随后涌现的過払金（超额利息返还）浪潮，是 [[consumer-finance/aiful|AIFUL]] 的事业再生 ADR（2009-09）、MUFG 对 [[consumer-finance/acom|ACOM]] 的 TOB（2008-10）以及 SMFG 将 Promise 完全子公司化的原因。
 
-银行方面的解决方法是**银行卡贷款**——银行发行的产品受《银行法》管辖，历来不面临贷款。 ACOM、Promise 和 AIFUL 都经营银行担保副业，通过担保银行卡贷款敞口来记入收入。
+银行侧的变通办法是 **银行卡贷（銀行カードローン）**——银行发行的产品受银行法治理，历史上不面临总量规制，这引发了围绕「实质总量规制超额」放贷的行业自律讨论。ACOM、Promise、AIFUL 均运营一项 銀行保証 副业，从担保银行卡贷敞口中计入收入。
 
-### 3。分期付款信用/新盘（信用销售公司/个人信用购买经纪人）
+### 3. 分期信用 / 信販（信販会社 / 個別信用購入あっせん業者）
 
-Shinpan operators are **個別信用購入あっせん業者** under the Installment Sales Act (138 registrations as of 2026-04 month-end per METI 登録個別信用購入あっせん業者 list). The distinguishing feature is that the loan is tied to a specific purchase (個品割賦), often via a merchant agreement (加盟店) — auto-dealership ローン, リフォームローン, 教育ローン (private side), 楽器 / 家電 / 医療 / 住宅設備. Anchors: [[card-issuers/orico|Orico]] (Mizuho + Itochu, auto-loan #1), [[card-issuers/jaccs|JACCS]] (MUFG equity-method, auto/education/reform 3 lanes), [[card-issuers/aplus|APLUS]] (SBI Shinsei), Credit Saison (independent / Mizuho-adjacent, card-heavy).
+信販运营方是分期销售法下的 **個別信用購入あっせん業者**（据经产省 登録個別信用購入あっせん業者 名录，截至 2026-04 月末 138 家登记）。其识别特征在于贷款与特定购买（個品割賦）挂钩，常经由商户协议（加盟店）——汽车经销商贷款、装修贷款、教育贷款（私营侧）、乐器 / 家电 / 医疗 / 住房设备。锚点：[[card-issuers/orico|Orico]]（瑞穗 + 伊藤忠，汽车贷款 #1）、[[card-issuers/jaccs|JACCS]]（MUFG 权益法，汽车/教育/装修 3 条线）、[[card-issuers/aplus|APLUS]]（SBI Shinsei）、Credit Saison（独立 / 瑞穗邻接，卡片为主）。
 
-Shinpan operators typically hold **multiple licenses** — they almost always combine 個別信用購入あっせん with 包括信用購入あっせん (for their issued cards), 貸金業 (for カードローン), 銀行保証 (for bank-cardloan guarantee), and often 集金代行 (for B2B 公共料金 / 継続課金 collection). The 2018 改正割賦販売法 strengthened 加盟店調査 obligation, which raised onboarding cost for marginal merchant relationships.
+信販运营方通常持有 **多套牌照**——它们几乎总是将個別信用購入あっせん与包括信用購入あっせん（用于自身发行的卡）、貸金業（用于卡贷）、銀行保証（用于银行卡贷担保）相结合，且常含集金代行（用于 B2B 公共费用 / 持续计费的收款）。2018 改正割賦販売法 强化了 加盟店調査 义务，提高了边缘商户关系的导入成本。
 
-### 4。 BNPL 纯游戏（BNPL / 后付费）
+### 4. BNPL 纯玩家（BNPL / 後払い）
 
-BNPL is the **most regulatory-ambiguous** category. Under the Installment Sales Act, deferred-payment of **≤ 2 months and single-payment** is generally not 包括信用購入あっせん, and individual deferred-payment under certain merchant-fronted models can avoid 個別信用購入あっせん registration via 加盟店表示 routes. The 2020 改正割賦販売法 (effective 2021-04) added an 認定包括信用購入あっせん業者 / 少額包括信用購入あっせん業者 framework explicitly to bring some BNPL operators under a lighter version of the 包括 regime; the 2024 BNPL clarification round continued tightening.
+BNPL 是 **监管上最模糊** 的类别。在分期销售法下，**≤ 2 个月且一次性付款** 的后付款一般不属于包括信用購入あっせん，而某些以商户前置的模型下的个别后付款，可经由加盟店表示路径规避個別信用購入あっせん登记。2020 改正割賦販売法（2021-04施行）明确新增了 認定包括信用購入あっせん業者 / 少額包括信用購入あっせん業者 框架，以将部分 BNPL 运营方纳入较轻版本的包括体制；2024 BNPL 厘清轮次延续了收紧。
 
-锚定：[[payment-firms/paidy|Paidy]]（由 PayPal 2021-09  收购，价格约为 2.7 bn 美元），Atone / NP Postpaid（净保护）。 [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] 页面逐步完成每个产品的分类测试。消费者事务局 (CAA) 对 BNPL（稍后付款）的**现金兑换滥用**以及使延期付款感觉像现金一样的用户体验模式保持着主动警告渠道 — 请参阅 CAA 的支付问题警告页面。
+锚点：[[payment-firms/paidy|Paidy]]（PayPal 于 2021-09 以约 USD 2.7 十亿收购）、Atone / NP後払い（Net Protections）。[[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] 页面逐一讲解按产品的分类测试。消费者厅（消費者庁 / CAA）就 BNPL 的 **套现滥用**（現金化目的後払い）以及使后付款产生现金般感受的 UX 模式，维持一个活跃的警告渠道——参见 CAA 的支付纠纷警示页面。
 
-### 5。汽车金融/自动自保（汽车贷款/汽车信贷）
+### 5. 汽车金融 / 汽车自保（自動車ローン / オートクレジット）
 
-汽车金融有两种结构形式：（a）通过分期销售法通过经销加盟店网络预订的新盘汽车贷款（例如，[[card-issuers/orico|Orico]]是国内#1 in汽车贷款，[[card-issuers/jaccs|JACCS]]是#2-3），以及（b）**OEM auto-captive**——丰田金融（丰田）、本田金融、日产金融服务、三菱日联租赁和金融（现为三菱 HC Capital）等——主要是为了承保母公司 OEM 的汽车销售。
+汽车金融有两种结构形态：(a) 信販前置的汽车贷款（例如 [[card-issuers/orico|Orico]] 在汽车贷款中为国内 #1 、[[card-issuers/jaccs|JACCS]] 为 #2-3），在分期销售法下经由经销商加盟店网络计入；(b) **OEM 汽车自保**——Toyota Finance（Toyota）、Honda Finance、Nissan Financial Services、Mitsubishi UFJ Lease & Finance（现 Mitsubishi HC Capital）等——其存在主要是为承保母 OEM 的车辆销售。
 
-OEM自营预订通常是分期付款销售法个别+包括（对于OEM品牌卡，如果有的话）+贷金业（有时）。 OEM 提供显性或隐性的信用支持（KINTO 式认购的剩余价值担保），相对于独立的 Shinpan 汽车贷款账簿，这减少了自保公司的坏账拨备需求。汽车 ABS 市场是日本最大的非 MBS 消费贷款 ABS 领域——丰田金融是常规基准发行人。 EV/KINTO 认购/汽车共享趋势对新盘和自保汽车贷款所共享的经销商信贷渠道构成了结构性压力。
+OEM 自保的计入通常为分期销售法 個別 + 包括（若有 OEM 品牌卡）+ 某些情况下的貸金業。OEM 提供显性或隐性的信用支持（KINTO 式订阅的残值保证），相对于独立的信販汽车贷款账簿降低了自保的坏账拨备需要。汽车 ABS 市场是日本非 MBS 消费贷款 ABS 的最大板块——Toyota Finance 是例行的基准发行人。EV / KINTO 订阅 / 共享汽车趋势，是信販前置与自保前置的汽车贷款共同承受的、对经销商信用渠道的结构性压力。
 
-### 6。房贷相邻（直接房贷/单位35）
+### 6. 住房贷款邻接（住宅ローン直接型 / フラット 35）
 
-住房贷款主要是《银行法》下的银行-FG世界，但**政策-金融叠加**很重要：[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF / 住宅金融支援機構)]]运行**furatto 35**——发放银行出售给JHF的长期固定利率住房贷款，JHF将其打包为机构MBS。 JHF是日本最大的MBS发行人。
+住房贷款大多属于银行法下的银行 FG 世界，但 **政策金融叠加** 至关重要：[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF / 住宅金融支援機構)]] 运营 **フラット 35**——发起银行出售给 JHF、由 JHF 打包为机构 MBS 的长期固定利率住房贷款。JHF 是日本最大的 MBS 发行人。
 
-Regulator: MLIT (国交省) is the primary supervisor for JHF (housing-policy side); MOF supervises the JHF Act financial side; the originating bank side is FSA-supervised under the Banking Act. The フラット 35 不正利用問題 (2019-) — investor-rental-property purchase misrepresented as owner-occupied — triggered a structural tightening of JHF's 取扱金融機関 due-diligence requirements. JHF is **not** an Installment Sales Act or Money-Lending Act operator; it is a 独立行政法人 policy-finance institution and sits outside the METI / FSA consumer-credit registries.
+监管机关：国交省（国交省）是 JHF（住房政策侧）的主要监管者；MOF 监管 JHF 法的金融侧；发起银行侧在银行法下受金融厅监管。フラット 35 不正利用問題（2019-）——将投资性出租物业的购买伪装为自住——引发了对 JHF 取扱金融機関 尽职调查要求的结构性收紧。JHF **并非** 分期销售法或贷金业法运营方；它是 独立行政法人 政策金融机构，位于经产省 / 金融厅消费者信用名录之外。
 
-### 7。教育贷款
+### 7. 教育贷款（教育ローン）
 
-教育贷款按照**公共/私人**线划分。私人贷款由银行根据《银行法》提供（无需注册《分期付款销售法》，因为它是私人贷款），通常打包为无担保教育贷款产品。公共方面由 **日本金融公司 (JFC)** 根据 JFC 法案运营 - JFC 的教育贷款是主要的公共教育贷款，相对于私人银行产品，利率固定较低。 JFC 受 MOF（财政部）监管。
+教育贷款沿 **公共 / 私营** 这条线分开。私营侧由银行在银行法下提供（无分期销售法登记，因其为民間ローン），常打包为无担保的 教育目的ローン 产品。公共侧由 **国民金融公庫 / Japan Finance Corporation（JFC / 日本政策金融公庫）** 在 JFC 法下运营——JFC 的 教育一般貸付 是主要的 公的 教育贷款，相对于民間 银行产品采用低固定利率。JFC 受 MOF（财务省）监管。
 
-教育贷款账簿通常不会被证券化为独立的教育贷款资产支持证券——银行方风险敞口位于更广泛的无担保消费贷款账簿中。 Shinpan 运营商（例如 [[card-issuers/jaccs|JACCS]]）还根据《分期付款销售法》个人途径提供教育机构渠道，这是继银行-私人和 JFC-公共之后的第三条教育信贷途径。
+教育贷款账簿不会作为独立的教育贷款 ABS 例行证券化——银行侧敞口位于更广泛的无担保消费贷款账簿之内。信販运营方（例如 [[card-issuers/jaccs|JACCS]]）也在分期销售法 個別 路径下经由教育机构加盟店渠道提供教育贷款，这是与银行-民間和 JFC-公的并列的、教育信用的第三条路由路径。
 
-### 8。小额信贷
+### 8. 微型信贷（マイクロクレジット）
 
-Japan does not have a developed national microcredit framework comparable to Bangladesh / India microfinance. Where microcredit-style small-ticket consumer credit exists in Japan, it is usually booked under the **Money-Lending Act** by small 貸金業者, which means it inherits the 利息制限法 20% cap, 出資法 20% criminal cap, 総量規制 1/3 cap, and 犯収法 KYC obligations of the full 貸金業 regime.
+日本没有可与孟加拉 / 印度微型金融相比的成熟国家级微型信贷框架。在日本存在微型信贷式小额消费者信用之处，它通常由小型貸金業者在 **贷金业法** 下计入，这意味着它继承了完整贷金业体制的利息制限法 20% 上限、出資法 20% 刑事上限、总量规制 1/3 上限和犯収法 KYC 义务。
 
-存在社会金融和非营利组织引导的小额贷款渠道（例如，厚生劳动省资助的都道府县社会福利委员会），但这些不是放贷渠道，而是政策福利渠道。因此，在日本对“小额信贷”进行细分时，需要检查运营商是放贷（由 FSA 监管）还是社会福利（由 MHLW 监管），因为消费者保护制度、注册途径和披露义务完全不同。
+社会金融和 NPO 经办的小额放贷渠道确实存在（例如由 都道府県社会福祉協議会 以厚劳省资金运营的 生活福祉資金貸付），但那些 **并非** 贷金业——它们是政策福利渠道。因此，在日本对「微型信贷」进行细分，需要核查运营方究竟是貸金業（金融厅监管）还是 社会福祉（厚劳省监管），因为其消费者保护体制、登记路径和披露义务完全不同。
 
-### 9。 PSP-邻接信用（电子商务嵌入信用）
+### 9. PSP 邻接信用（电子商务嵌入式信用）
 
-PSP 相邻信用是比较矩阵的**边界情况**。当 PSP（支付服务提供商）或钱包运营商延长结账时间信贷产品时，应收账款可以根据 (a) 分期销售法（如果运营商持有注册）进行登记；(b) 支付服务法（如果结构为钱包余额预付款）；(c) 支付服务法（如果结构为预付储值扩展）；或 (d) 放贷法（在极少数结构情况下）。因此，相同的结账用户体验可以转换为不同的许可证，具体取决于实际记账应收款的法人实体。
+PSP 邻接信用是比较矩阵的 **边界情形**。当 PSP（支付服务提供方）或钱包运营方提供结算时点的信用产品时，该债权可在以下牌照下计入：(a) 若运营方持有個別 / 包括 信用購入あっせん登记，则为分期销售法；(b) 若构造为钱包余额预支，则为资金结算法 資金移動業；(c) 若构造为预付储值的延展，则为资金结算法 第三者型前払；(d) 在罕见的结构化情形中为贷金业法。因此，同一结算 UX 可依据究竟由哪个法律主体实际计入债权，而翻译为不同的牌照。
 
-此类别的存在是因为 Mercari/Merpay（其中 Pay Later 功能跨越资金转账 + PayPay 线路）、PayPay（其中 Pay Later 使用 [[card-issuers/paypay-card|PayPay Card]] 作为信用预订）以及 EC 市场的平台端信用实体扩展等运营商。 [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] 页面和 [[financial-licenses/payment-license-stack|payment license stack]] 页面给出了每个产品的分类测试。
+这一类别之所以存在，是因为有诸如 Mercari/Merpay（其 後払い 功能跨越资金移动 + 後払い 两条线）、PayPay（其 あと払い 以 [[card-issuers/paypay-card|PayPay Card]] 作为信用计入主体），以及来自 EC 市场的平台侧信用延展等运营方。[[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] 页面和 [[financial-licenses/payment-license-stack|payment license stack]] 页面给出按产品的分类测试。
 
-## 信用信息局的足迹
+## 征信机构覆盖
 
-消费信贷运营商的报告/查询义务取决于其许可证类别和局成员资格。下设三个主要局：
+消费者信用运营方的报送 / 查询义务取决于其牌照类别与机构会员资格。共有三家主要机构：
 
-| 局 | 会员基础 | 典型运营商覆盖范围 |
+| 机构 | 会员基础 | 典型运营方覆盖 |
 |---|---|---|
-| **JICC** (日本信用情报机构) | 主要是放贷行业+shinpan | 消费金融/商工贷款、shinpan、部分 BNPL |
-| **CIC**（信用信息中心） | 大多数是分期付款销售法注册者 | 发卡机构、新盘、汽车金融、个人信用购买中介机构 |
-| **国家银行个人信用信息中心（KSC）** | 银行系统 | Banks, 信用金库, 信用组合 — housing loan + education loan + bank card-loan |
+| **JICC**（日本信用情報機構）| 大多为贷金业 + 信販 | 消费金融 / 商工贷、信販、部分 BNPL |
+| **CIC**（Credit Information Center）| 大多为分期销售法登记业者 | 发卡机构、信販、汽车金融、个别信用购买中介 |
+| **全国銀行個人信用情報センター（KSC）**| 银行系 | 银行、信用金庫、信用組合 — 住房贷款 + 教育贷款 + 银行卡贷 |
 
-A **3 大消費者金融** operator is typically a member of JICC + CIC + KSC, since cross-bureau check is the basis of 総量規制 verification. A pure BNPL operator may only be a JICC or CIC member depending on its license stack. JHF (フラット 35) reports through the bank-originator side to KSC.
+**3 大消费金融** 运营方通常是 JICC + CIC + KSC 的会员，因为跨机构核查是总量规制验证的基础。纯 BNPL 运营方可能依其牌照栈仅为 JICC 或 CIC 会员。JHF（フラット 35）经由银行发起侧向 KSC 报送。
 
-## 银行邻近地图（合并）
+## 银行邻接性图谱（合并）
 
-读取类别 1, 2, 3, 4, 5, 6, 7  一起，日本消费信贷的银行-FG 邻接图为：
+将类别 1, 2, 3, 4, 5, 6, 7 合起来读，日本消费者信用的银行 FG 邻接图景为：
 
-| FG | 发卡机构 | 消费金融 | 新盘 | 笔记 |
+| FG | 发卡机构 | 消费金融 | 信販 | 备注 |
 |---|---|---|---|---|
-| [[megabanks/mufg|MUFG]] | [[card-issuers/mufg-nicos|MUFG NICOS]] (100%) | [[consumer-finance/acom|ACOM]]（39.6%权益法） | [[card-issuers/jaccs|JACCS]]（权益法） | 3 一个 FG 内的消费信贷足迹 |
-| [[megabanks/smfg|SMFG]] | [[card-issuers/smbc-card|SMBC Card]] (100%) | [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (100%) | （内部没有主要的 Shinpan；与 Credit Saison 等合作） | 2系列，与shinpan作为合伙而非所有权 |
-| [[megabanks/mizuho-fg|Mizuho FG]] | （UC 卡遗产；合作伙伴关系） | （没有主要的独立） | [[card-issuers/orico|Orico]]（权益法+伊藤忠商事） | Shinpan重，卡片轻 |
-| [[regional-banks/sbi-shinsei-bank|SBI Shinsei]] | （新生金融卡产品） | 新生金融 / Lake ALSA（原 GE） | [[card-issuers/aplus|APLUS]]（集团公司） | 通过遗留的 GE / Lake / APLUS 书籍获得重度消费信贷 FG |
-| 独立/非银行-FG | [[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]] | [[consumer-finance/aiful|AIFUL]]（创始人家族） | Credit Saison（独立），[[card-issuers/aplus|APLUS]]（SBI 方） | 银行-FG 所有权不存在或部分所有权的情况 |
+| [[megabanks/mufg|MUFG]] | [[card-issuers/mufg-nicos|MUFG NICOS]]（100%）| [[consumer-finance/acom|ACOM]]（39.6% 权益法）| [[card-issuers/jaccs|JACCS]]（权益法）| 一个 FG 内 3条线的消费者信用足迹 |
+| [[megabanks/smfg|SMFG]] | [[card-issuers/smbc-card|SMBC Card]]（100%）| [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]]（100%）| （无主要的自有信販；与 Credit Saison 等合作）| 2条线，信販以合作而非所有的形式 |
+| [[megabanks/mizuho-fg|Mizuho FG]] | （UC Card 遗留；合作）| （无主要的独立体）| [[card-issuers/orico|Orico]]（权益法 + 伊藤忠）| 信販偏重，卡片偏轻 |
+| [[regional-banks/sbi-shinsei-bank|SBI Shinsei]] | （Shinsei Financial 卡产品）| Shinsei Financial / レイクALSA（旧 GE 系）| [[card-issuers/aplus|APLUS]]（集团公司）| 经由遗留 GE / Lake / APLUS 账簿的消费者信用偏重 FG |
+| 独立 / 非银行 FG | [[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]] | [[consumer-finance/aiful|AIFUL]]（创始家族）| Credit Saison（独立）、[[card-issuers/aplus|APLUS]]（SBI 侧）| 银行 FG 所有权缺失或部分之处 |
 
-MUFG 3 线足迹（NICOS 卡 + ACOM 消费金融 + JACCS shinpan）是日本消费信贷中最集中的银行 FG 头寸。三菱日联金融集团最终是否将其整合为统一的消费信贷子公司，还是将它们保留为单独的上市/权益法实体，是一个长期存在的结构性问题。
+MUFG 的 3条线足迹（NICOS 卡 + ACOM 消费金融 + JACCS 信販）是日本消费者信用中单一最集中的银行 FG 头寸。MUFG 最终是将其整合为统一的消费者信用子公司，还是保留为各自上市 / 权益法的主体，是一个长期存在的结构性问题。
 
 ## 近期监管压力
 
-| 日期 | 来源 | 发生了什么变化 |
+| 日期 | 来源 | 何者变化 |
 |---|---|---|
-| 2006-01-13 | 最高法院 | 灰色地带利率有效裁决使放债业务法条款无效，引发超额退款浪潮 |
-| 2006-12  | 国民议会 | 修改后的放债业务法通过（20%利息上限+1/3 总数量上限） |
-| 2008-04  | 金融服务管理局 | 针对 [[consumer-finance/aiful|AIFUL]] 的业务改进令（催收-实践问题）、全部业务暂停令 |
-| 2008-10-22 | 三菱日联金融集团TOB | MUFG 收购 [[consumer-finance/acom|ACOM]] 的 ~ 40%，权益法合并 |
-| 2010-06  | 金融服务管理局 | 修订后的放债业务法全面执行（20%上限+1/3 总数量上限，全面执行） |
-| 2010-09  | 武藤 | Takefuji filed 会社更生 (corporate reorganization), industry consolidates to 3 大消费者金融 |
-| 2018  | 放 | 修订分期付款销售法——加强商户调查义务、卡数据安全堆栈 |
-| 2020  修订 | 放 | 分期销售法修订案——BNPL认证综合信用购买中介机构+小额综合信用购买中介机构框架 |
-| 2021-04  | 放 | 2020  修订分期销售执法 |
-| 2024  | 日本经济产业省 / 日本航空协会 | BNPL澄清轮，后払い运营商行政行动页面（atobaraigyouseisyounnojoukyou.html） |
-| 2025-03  | 日本经济产业省 / J-信用协会 | J-CSC 指南 6.0  下的 EC 卡支付强制使用 EMV 3-DS（请参阅 [[payments/japan-card-security-authentication-controls|card security and authentication controls]]） |
-| 进行中 | CAA（消费者事务局） | 对 BNPL 现金兑换滥用以及使延期付款感觉像现金一样的用户体验模式发出积极警告 |
+| 2006-01-13 | 最高法院 | グレーゾーン金利 裁决实际上使贷金业法的 みなし弁済 条款失效，引发過払金 返还浪潮 |
+| 2006-12 | 国会 | 改正貸金業法 通过（20% 利率上限 + 1/3 总量上限）|
+| 2008-04 | 金融厅 | 对 [[consumer-finance/aiful|AIFUL]] 的业务改善命令（催收实务问题）、全业务停止命令 |
+| 2008-10-22 | MUFG TOB | MUFG 取得 [[consumer-finance/acom|ACOM]] 约 40%，权益法并表 |
+| 2010-06 | 金融厅 | 改正貸金業法 完全施行（20% 上限 + 1/3 总量上限，完全施行）|
+| 2010-09 | 武富士 | 武富士申请会社更生（公司重整），行业整合为 3 大消费金融 |
+| 2018 | 经产省 | 改正割賦販売法 — 强化 加盟店調査 义务、卡数据安全栈 |
+| 2020 改正 | 经产省 | 改正割賦販売法 — 为 BNPL 的 認定包括信用購入あっせん業者 + 少額包括信用購入あっせん業者 框架 |
+| 2021-04 | 经产省 | 2020 改正割賦販売法 施行 |
+| 2024 | 经产省 / CAA | BNPL 厘清轮次、后付款运营方行政处分页面（atobaraigyouseisyobunnojoukyou.html）|
+| 2025-03 | 经产省 / 日本クレジット協会 | 在 J-CSC 指南 6.0 下，EC 卡支付强制 EMV 3-DS（参见 [[payments/japan-card-security-authentication-controls|card security and authentication controls]]）|
+| 持续 | CAA（消費者庁）| 就 BNPL 套现滥用及使后付款产生现金般感受的 UX 模式的活跃警告 |
 
-2010-06  修订后的放贷业务执法是现代日本消费信贷中**单一最大的结构性事件**——它将消费金融从 4 强+多小格局整合到目前的 3  大（ACOM、Promise、AIFUL）+银行卡贷款合作伙伴关系，退款浪潮消耗了运营商十年的大部分时间股权。
+2010-06 改正貸金業法 的施行，是现代日本消费者信用中 **单一最大的结构性事件**——它将消费金融从 4家强 + 众多小型的格局整合为当前的 3 大（ACOM、Promise、AIFUL）+ 银行卡贷合作，而過払金 返还浪潮消耗了运营方近十年的自有资本。
 
-## 证券化/ABS 管道摘要
+## 证券化 / ABS 流水线小结
 
-| 类别 | 常规ABS/MBS管道 | 评论 |
+| 类别 | 例行 ABS / MBS 流水线 | 评论 |
 |---|---|---|
-| 发卡机构 | 重磅——信用卡应收ABS（V-RACE、S-RACE、乐天卡ABS） | 银行-FG发卡机构定期发卡；通过 SPC 的非银行 FG 发卡机构 |
-| 消费金融 | Heavy — ACOM / SMBCCF / AIFUL 的消费贷款 ABS 例程 | 超额支付浪潮后，ABS是稳定的二次融资线 |
-| Shinpan（自动购物积分） | 重磅——汽车贷款+购物信用ABS | Orico / JACCS / APLUS 常规管道 |
-| 法国国家石油公司 | 新兴——PayPal所有权下的Paidy应收账款证券化路线 | 规模仍然很小，但管道正在开通 |
-| 自动捕获 (OEM) | 重磅——丰田金融/本田金融/日产金融汽车ABS例程 | 最大的非 MBS 消费贷款 ABS 细分市场 |
-| 住房（JHF） | 重型—平35 机构MBS例程 | JHF是日本最大的MBS发行人 |
-| 教育贷款 | 最小作为独立池 | 银行端汇总，而非单独 |
-| 小额信贷 | 最小 | 对于 ABS 经济来说太小 |
-| PSP-相邻 | 最小 | 汇总到母公司的其他 ABS 管道（如果有）中 |
+| 发卡机构 | 大量 — 信用卡债权 ABS（V-RACE、S-RACE、Rakuten Card ABS）| 银行 FG 发卡机构例行发行；非银行 FG 发卡机构经由 SPC |
+| 消费金融 | 大量 — ACOM / SMBCCF / AIFUL 的消费贷款 ABS 例行 | 過払金 浪潮之后，ABS 是稳定的次级融资线 |
+| 信販（汽车-购物信用）| 大量 — 汽车贷款 + 购物信用 ABS | Orico / JACCS / APLUS 的例行流水线 |
+| BNPL | 萌芽 — PayPal 所有下的 Paidy 债权证券化路径 | 仍小，但流水线正在打开 |
+| 汽车自保（OEM）| 大量 — Toyota Finance / Honda Finance / Nissan Financial 汽车 ABS 例行 | 非 MBS 消费贷款 ABS 的最大板块 |
+| 住房（JHF）| 大量 — フラット 35 机构 MBS 例行 | JHF 是日本最大的 MBS 发行人 |
+| 教育贷款 | 作为独立池极少 | 银行侧汇总，而非独立 |
+| 微型信贷 | 极少 | 对 ABS 经济性而言太小 |
+| PSP 邻接 | 极少 | 若有则汇入母公司的其他 ABS 流水线 |
 
-ABS 维度对于理解**每个运营商如何为自己融资**很重要——重度 ABS 类别可以在没有比例资产负债表资本的情况下维持账面快速增长，而轻量 ABS 类别（小额信贷、教育贷款、PSP 相关）则受到母公司资产负债表能力的增长限制。这是实现经常性证券化（PayPal 下的 Paidy）的 BNPL 运营商相对于通过股本融资的 BNPL 运营商获得真正资本效率的原因之一。
+ABS 这一维度对于理解 **各运营方如何为自身融资** 至关重要——ABS 偏多的类别能在无须按比例的资产负债表资本下维持账簿的快速增长，而 ABS 偏少的类别（微型信贷、教育贷款、PSP 邻接）则受母公司资产负债表容量约束而增长受限。这是实现经常性证券化的 BNPL 运营方（PayPal 下的 Paidy）相对于以自有资本融资的 BNPL 运营方获得实质资本效率的原因之一。
 
-## 有关的
+## 相关
 
 - [[payments/INDEX]]
 - [[payments/japan-bnpl-credit-purchase-boundary]]
@@ -201,23 +201,23 @@ ABS 维度对于理解**每个运营商如何为自己融资**很重要——重
 - [[policy-finance/japan-housing-finance-agency]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## 出处
 
-- 日本经济产业省分期付款销售法门户网站：https://www.meti.go.jp/policy/economy/consumer/credit/
-- METI 信用交易指数：https://www.meti.go.jp/policy/economy/consumer/credit/index.html
-- METI 注册运营商列表门户：https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigousyaitiran.html
-- 日本经济产业省注册综合信用购买调解员 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
-- METI 注册个人信贷购买调解员 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/tourokukobetsuichiran.pdf
-- METI信用卡号码处理协议签约经营者PDF：https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
-- METI 分期付款销售法付款后常见问题解答：https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
-- 日本经济产业省修订分期销售法页面：https://www.meti.go.jp/policy/economy/consumer/credit/11kappuhanbaihou.html
-- FSA 放贷法门户网站：https://www.fsa.go.jp/menkyo/kashikin/
-- FSA 许可/注册运营商门户：https://www.fsa.go.jp/menkyo/menkyo.html
-- FSA 预付政策门户网站：https://www.fsa.go.jp/policy/prepaid/
-- JICC (日本信用情报机构): https://www.jicc.co.jp/
-- CIC（信用信息中心）：https://www.cic.co.jp/
-- 日本信用协会 — 分期付款销售法消费者页面：https://www.j-credit.or.jp/customer/sales_law/
-- JHF (住宅金融支援机构): https://www.jhf.go.jp/
-- JFC (日本政策金融公库): https://www.jfc.go.jp/
-- CAA（消费者事务局）付款麻烦警告：https://www.caa.go.jp/policies/policy/consumer_policy/caution/internet/trouble/ payment.html
-- 每个运营商的IR /公司披露（公开分）：[[consumer-finance/acom|ACOM]]（TSE STD 8572），[[consumer-finance/aiful|AIFUL]]（TSE PRIME 8515），[[card-issuers/jaccs|JACCS]]（TSE PRIME 8584），[[card-issuers/orico|Orico]]（TSE PRIME） 8585）、[[card-issuers/aplus|APLUS]]（SBI集团公司网站）、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]]（SMFG合并）
+- 经产省 分期销售法 门户：https://www.meti.go.jp/policy/economy/consumer/credit/
+- 经产省 信用交易索引：https://www.meti.go.jp/policy/economy/consumer/credit/index.html
+- 经产省 登记业者名录 门户：https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- 经产省 登録包括信用購入あっせん業者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
+- 经产省 登録個別信用購入あっせん業者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/tourokukobetsuichiran.pdf
+- 经产省 クレジットカード番号等取扱契約締結事業者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
+- 经产省 割賦販売法 后付款 FAQ：https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
+- 经产省 改正割賦販売法 页面：https://www.meti.go.jp/policy/economy/consumer/credit/11kappuhanbaihou.html
+- 金融厅 贷金业法 门户：https://www.fsa.go.jp/menkyo/kashikin/
+- 金融厅 牌照 / 登记业者 门户：https://www.fsa.go.jp/menkyo/menkyo.html
+- 金融厅 预付政策 门户：https://www.fsa.go.jp/policy/prepaid/
+- JICC（日本信用情報機構）：https://www.jicc.co.jp/
+- CIC（Credit Information Center）：https://www.cic.co.jp/
+- 日本クレジット協会 — 分期销售法 消费者页面：https://www.j-credit.or.jp/customer/sales_law/
+- JHF（住宅金融支援機構）：https://www.jhf.go.jp/
+- JFC（日本政策金融公庫）：https://www.jfc.go.jp/
+- CAA（消費者庁）支付纠纷警示：https://www.caa.go.jp/policies/policy/consumer_policy/caution/internet/trouble/payment.html
+- 各运营方的 IR / 企业披露（公开部分）：[[consumer-finance/acom|ACOM]]（TSE STD 8572）、[[consumer-finance/aiful|AIFUL]]（TSE PRIME 8515）、[[card-issuers/jaccs|JACCS]]（TSE PRIME 8584）、[[card-issuers/orico|Orico]]（TSE PRIME 8585）、[[card-issuers/aplus|APLUS]]（SBI Group 企业网站）、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]]（SMFG 并表）

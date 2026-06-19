@@ -1,113 +1,113 @@
 ---
 source: real-estate-finance/glp-j-reit-3281
-source_hash: b6dd5fae69f95045
+source_hash: f16c305ae1eb3c2f
 lang: zh
 status: machine
 fidelity: ok
 title: "GLP J-REIT (3281)"
-translated_at: 2026-06-01T03:31:12.287Z
+translated_at: 2026-06-19T12:43:19.958Z
 ---
 
 # GLP J-REIT (3281)
 
-## 长话短说
+## TL;DR
 
-**GLP J-REIT (TSE J-REIT 3281)** 是日本两家领先的 **现代物流 J-REIT** 之一 — 由总部位于新加坡的全球物流房地产平台 **GLP（Global Logistic Properties / GLP Pte Ltd）** 赞助。普洛斯 J-REIT 于 12 月2012  上市，成为日本第一家外国赞助的物流 J-REIT，并且是 2012  后现代物流 J-REIT 部门扩张的关键驱动力。其投资组合集中于位于**大东京和大大阪物流子市场**的**大型甲级现代物流设施**（具有24/7 卡车通道、高天花板间隙、喷水灭火系统和大地板的多租户交叉转运仓库），这些设施由赞助商普洛斯开发，并通过赞助商管道资产回收机制向J-REIT投资。
+**GLP J-REIT（TSE J-REIT 3281）** 是日本两大领先的**现代物流 J-REIT** 之一 —— 由总部位于新加坡的全球物流房地产平台 **GLP（Global Logistic Properties / GLP Pte Ltd）** 担任发起人。GLP J-REIT 于 2012 年 12 月作为日本首个外国发起人物流 J-REIT 上市，是 2012 后现代物流 J-REIT 板块扩张的关键推动力。其投资组合集中于**大规模 Class-A 现代物流设施**（具备 24/7 卡车通道、高净空、喷淋系统和大面积楼板的多租户穿越式仓库），坐落于**大东京圈和大阪圈物流子市场** —— 这些设施由发起人 GLP 开发，并通过发起人管道资产循环机制注入该 J-REIT。
 
-GLP J-REIT 的结构特征基于三个支柱： (i) **保荐人渠道** — GLP 在保荐人资产负债表上开发现代物流资产，并通过优惠供应协议将稳定的财产注入 GLP J-REIT； (ii) **主动资产轮换**——定期处置不再符合现代物流规范的财产； (iii) **以电子商务为基础的租户需求**——日本电子商务长期增长的受益者（亚马逊日本、乐天、Yodobashi.com、Mercari 物流需​​求）。 GLP J-REIT 与 [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (NPR, 3283)]] 正面竞争 AAA 级现代物流租户基础。
+GLP J-REIT 的结构性身份建立在三大支柱之上：(i) **发起人管道** —— GLP 在发起人资产负债表上开发现代物流资产，并通过优先供应协议将稳定化物业输送至 GLP J-REIT；(ii) **主动资产轮换** —— 定期处置不再符合现代物流规格的物业；(iii) **以电商为锚的租户需求** —— 受益于日本电商的长期增长（Amazon Japan、乐天、Yodobashi.com、Mercari 的物流需求）。GLP J-REIT 就 AAA 级现代物流租户基础与 [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (NPR, 3283)]] 正面竞争。
 
-## 维基路线
+## Wiki route
 
-该条目位于 [[real-estate-finance/INDEX|real-estate-finance index]] 下，作为**GLP 赞助的现代物流 J-REIT 锚**。与 [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]] 一起阅读，了解最接近的同行对比（美国普洛斯赞助），与 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] 一起阅读，了解行业层面的分析，与 [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] 一起阅读，了解跨 J-REIT 的定位。对于办公室对比，请使用 [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] 和 [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]；用于多样化对比使用[[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]。治理框架：[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] 和 [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]。
+本条目位于 [[real-estate-finance/INDEX|real-estate-finance index]] 之下，是 **GLP 发起的现代物流 J-REIT 锚点**。请与 [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]]（最接近的同业对照，美国 Prologis 发起）、[[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]]（板块层面分析）以及 [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]]（跨 J-REIT 定位）一并阅读。办公对照请用 [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] 和 [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]；分散型对照请用 [[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]。治理框架：[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] 与 [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]。
 
-## 1。企业形象
+## 1. Corporate identity
 
-|项目 |详情 |
+| Item | Detail |
 |---|---|
-|股票代码 |东证 J-REIT **3281** |
-| Investment corporation | GLP J-REIT (GLP投资法人) |
-|资产管理公司| GLP Japan Advisors Inc.（赞助商：GLP / Global Logistic Properties） |
-|赞助商 | GLP Pte Ltd（总部位于新加坡的全球物流地产平台）|
-|上市日期 |十二月 2012 |
-|资产聚焦 |现代化多租户物流设施——A级仓库|
-|地理焦点 |大东京物流子市场（印西、船桥、草加、厚木、埼玉走廊）和大大阪 |
-|评级 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 投资级 |
-|指数纳入| TSE REIT 指数、TSE REIT 物流指数、GPR / FTSE EPRA Nareit 亚洲发达国家 |
+| Ticker | TSE J-REIT **3281** |
+| Investment corporation | GLP J-REIT (GLP投資法人) |
+| Asset-management company | GLP Japan Advisors Inc.（发起人：GLP / Global Logistic Properties） |
+| Sponsor | GLP Pte Ltd（总部位于新加坡的全球物流房地产平台） |
+| Listing date | 2012 年 12 月 |
+| Asset focus | 现代多租户物流设施 — Class-A 仓库 |
+| Geographic focus | 大东京圈物流子市场（印西、船桥、草加、厚木、埼玉走廊）与大阪圈 |
+| Rating | 由 [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 评为投资级 |
+| Index inclusion | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
 
-## 2。赞助平台——GLP
+## 2. Sponsor platform — GLP
 
-|项目 | GLP 详细信息 |
+| Item | GLP detail |
 |---|---|
-|总部|新加坡 |
-|范围 |全球物流地产平台，业务遍及日本、中国、美国、欧洲、巴西、越南、印度 |
-|日本业务|日本两大现代物流开发商之一（与美国普洛斯） |
-|赞助商渠道角色 |普洛斯在资产负债表上开发现代物流设施；稳定性能；向普洛斯 J-REIT 提供精选稳定资产 |
-|投资者基础 |普洛斯本身拥有包括中国主权财富（历史）和各类全球机构投资者在内的全球LP基础 |
-|比较器|美国Prologis（[[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]]的赞助商）是最接近的全球比较器 |
+| Headquarters | 新加坡 |
+| Scope | 在日本、中国、美国、欧洲、巴西、越南、印度运营的全球物流房地产平台 |
+| Japan operations | 日本两大领先现代物流开发商之一（与美国 Prologis 并列） |
+| Sponsor pipeline role | GLP 在资产负债表上开发现代物流设施；使物业稳定化；将选定的稳定化资产输送至 GLP J-REIT |
+| Investor base | GLP 本身拥有包括中国主权财富（历史上）和各类全球机构投资者在内的全球 LP 基础 |
+| Comparator | 美国 Prologis（[[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]] 的发起人）是最接近的全球对照对象 |
 
-普洛斯总部位于新加坡的外国发起人地位是普洛斯 J-REIT 的显着特征——大多数其他 J-REIT 发起人都是日本上市开发商（三井不动产、三菱地所、野村不动产等）。外国发起人带来全球物流资产专业知识，并在发起人层面获得全球有限合伙人资本。
+GLP 总部位于新加坡的外国发起人身份是 GLP J-REIT 的独特特征 —— 其他大多数 J-REIT 发起人都是日本上市开发商（三井不动产、三菱地所、野村不动产等）。外国发起人带来全球物流资产专长以及在发起人层面对全球 LP 资本的获取渠道。
 
-## 3。投资组合构成
+## 3. Portfolio composition
 
-|轴| GLP J-REIT模式|
+| Axis | GLP J-REIT pattern |
 |---|---|
-|资产类别 |现代多租户物流——A级仓库|
-|属性规格|高天花板净空（通常为 5.5m+ 有​​效高度）、喷水灭火系统、多租户交叉转运布局、上层坡道通道 |
-|物业规模|主要是大型多租户设施（100,000m2+ 建筑面积并不罕见）|
-|地理焦点 |主要高速公路沿线的大东京和大大阪物流子市场 |
-|租户群 |第三方物流（3PL）提供商、电子商务平台、零售商、制造商 |
-|赞助管道来源| GLP开发管线（优惠供应协议） |
+| Asset class | 现代多租户物流 — Class-A 仓库 |
+| Property specifications | 高净空（通常有效高度 5.5m 以上）、喷淋系统、多租户穿越式布局、上层楼坡道通道 |
+| Property size | 多为大型多租户设施（100,000m2+ GFA 并不罕见） |
+| Geographic focus | 沿主要高速公路的大东京圈与大阪圈物流子市场 |
+| Tenant base | 第三方物流（3PL）供应商、电商平台、零售商、制造商 |
+| Sponsor pipeline source | GLP 开发管道（优先供应协议） |
 
-## 4。资本和杠杆
+## 4. Capital and leverage
 
-|项目 | GLP J-REIT模式|
+| Item | GLP J-REIT pattern |
 |---|---|
-| LTV 政策区间 |中40% 区域典型值 |
-|债务组合|银行贷款加上公共投资公司债券|
-|债券曲线|投资级 J-REIT 债券定价 |
-|赞助商支持股份 |普洛斯保留保荐支持单位持有人股权 |
-|经销政策 |半年度DPU； J-REIT 90% 传递 |
-|外资股 |高——标杆日本物流名牌；外国赞助商的联系自然会提高全球投资者的知名度
+| LTV policy band | 通常处于 40%中段区间 |
+| Debt mix | 银行贷款加公募投资法人债 |
+| Bond curve | 投资级 J-REIT 债券定价 |
+| Sponsor support stake | GLP 保留发起人支持性投资单位持有人权益 |
+| Distribution policy | 半年度 DPU；J-REIT 90% 穿透 |
+| Foreign-investor share | 高 — 日本物流基准标的；外国发起人关联带动天然的全球投资者关注度 |
 
-## 5。资产轮换策略
+## 5. Asset rotation strategy
 
-GLP J-REIT 的显着经营特点是**主动资产轮换**：
+GLP J-REIT 的独特运营特征是**主动资产轮换**：
 
-|轮换活动|理由|
+| Rotation activity | Rationale |
 |---|---|
-|旧资产或非规格资产的处置 |出售不符合不断发展的现代物流规格的房产|
-|收购新的赞助商管道资产|用 GLP 开发管道中更新、更大、更规范的当前资产进行替换 |
-|资本效率|回收的资本重新部署到具有更好的长期租户需求的新资产|
-|投资组合刷新 |平均房产年龄和标币随着时间的推移而保持不变|
-|资本化率管理 |处置的隐含资本化率通常高于收购；单位持有人的分散利益|
+| 处置较旧或不符规格的资产 | 不符合不断演进的现代物流规格的物业被出售 |
+| 收购较新的发起人管道资产 | 以来自 GLP 开发管道的更新、更大、规格更现行的资产进行替换 |
+| Capital efficiency | 将循环出的资本重新投入具备更好长期租户需求的较新资产 |
+| Portfolio refresh | 随时间维持平均物业年龄和规格现行性 |
+| Cap-rate management | 处置通常以高于收购的隐含资本化率进行；利差使投资单位持有人受益 |
 
-这种以轮换为中心的模式与写字楼 J-REIT 历来采用的更多买入并持有的模式形成鲜明对比，也是现代物流 J-REIT 的 AUM 增长速度高于写字楼 J-REIT 的关键原因之一。
+这种以轮换为中心的模式与办公 J-REIT 历史上采用的偏买入并持有模式形成对比，也是现代物流 J-REIT 表现出高于办公 J-REIT 的 AUM 增长节奏的关键原因之一。
 
-## 6。租户经济学
+## 6. Tenant economics
 
-|租户动态 |阅读|
+| Tenant dynamic | Reading |
 |---|---|
-|租户集中度|通常高于写字楼 J-REIT——存在单租户或两租户设施；多租户设施拥有多个大型 3PL 或电子商务租户 |
-|租赁期限|对于现代物流来说，通常比办公室更长（5-10+年）|
-|租金重置 |比办公室更频繁的升职；由于资本支出租户已投资场地，租户粘性高 |
-|租户行业| 3PL（大和、佐川、邮船、日通）、电子商务（亚马逊日本、乐天等）、零售商、制造商 |
-|赞助商作为租户| GLP 本身不是租户；租户为独立物流经营者及企业用户|
+| Tenant concentration | 往往高于办公 J-REIT — 存在单租户或双租户设施；多租户设施有数个大型 3PL 或电商租户 |
+| Lease length | 现代物流通常长于办公（5-10+ 年） |
+| Rent reset | 涨租调整频率低于办公；因租户已对场地投入资本支出，租户黏性高 |
+| Tenant industries | 3PL（大和、佐川、邮船、日通）、电商（Amazon Japan、乐天等）、零售商、制造商 |
+| Sponsor as tenant | GLP 本身并非租户；租户为独立的物流运营商和企业用户 |
 
-## 7。 GLP J-REIT 与 Nippon Prologis REIT
+## 7. GLP J-REIT vs Nippon Prologis REIT
 
-|轴|普洛斯 J-REIT (3281) |日本安博房地产投资信托 (3283) |
+| Axis | GLP J-REIT (3281) | Nippon Prologis REIT (3283) |
 |---|---|---|
-|赞助商 | GLP 私人有限公司（新加坡）|美国普洛斯|
-|上市日期 |十二月 2012 |二月2013 （不久之后）|
-|资产聚焦 |现代物流——A级多租户|现代物流——AAA级Prologis研发|
-|地理焦点 |大东京/大大阪|大东京/大大阪|
-|赞助平台|全球物流地产平台|全球物流地产平台|
-|资产轮换 |主动轮换|主动轮换|
-|外国投资者简介 |高 — 外国赞助商链接 |高 — 外国赞助商链接 |
+| Sponsor | GLP Pte Ltd（新加坡） | 美国 Prologis |
+| Listing date | 2012 年 12 月 | 2013 年 2 月（紧随其后） |
+| Asset focus | 现代物流 — Class-A 多租户 | 现代物流 — AAA 级 Prologis 开发 |
+| Geographic focus | 大东京圈 / 大阪圈 | 大东京圈 / 大阪圈 |
+| Sponsor platform | 全球物流房地产平台 | 全球物流房地产平台 |
+| Asset rotation | 主动轮换 | 主动轮换 |
+| Foreign-investor profile | 高 — 外国发起人关联 | 高 — 外国发起人关联 |
 
-两家公司都在争夺 AAA 级现代物流租户基础和外商物流 J-REIT 分配。 GLP-Prologis 配对是日本境内**GLP 与 Prologis 全球物流竞争**的代理。
+两个标的都在争夺 AAA 级现代物流租户基础以及外国投资者的物流 J-REIT 配置。GLP-Prologis 这一组合是日本境内 **GLP 对 Prologis 全球物流竞争的上市代理标的**。
 
-## 有关的
+## Related
 
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]]
@@ -125,10 +125,10 @@ GLP J-REIT 的显着经营特点是**主动资产轮换**：
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- GLP J-REIT — 官方网站 https://www.glpjreit.com/ 和英文 IR。
-- GLP（集团）— https://www.glp.com/global/
-- JPX——REIT市场英文登陆。
-- ARES——英语登陆。
-- FSA — 投资公司框架。
+- GLP J-REIT — official site https://www.glpjreit.com/ and English IR.
+- GLP (group) — https://www.glp.com/global/
+- JPX — REIT Market English landing.
+- ARES — English landing.
+- FSA — investment-corporation framework.

@@ -1,12 +1,13 @@
 ---
 source: policy-finance/national-federation-credit-guarantee-corporations
-source_hash: 12f3d58932ed906c
+source_hash: 7e23d0532a4fb296
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Federation of Credit Guarantee Corporations"
-translated_at: 2026-06-01T03:31:12.265Z
+translated_at: 2026-06-19T12:43:19.969Z
 ---
+
 # Japan Federation of Credit Guarantee Corporations
 
 ## Wiki route
@@ -21,23 +22,23 @@ The Japan Federation of Credit Guarantee Corporations (一般社団法人全国�
 
 | 項目 | 内容 |
 |---|---|
-| Japanese name | National Federation of Credit Guarantee Associations |
-| Abbreviation | JFG / Zenshin Horen / Federation |
-| English name | Japan Federation of Credit Guarantee Corporations |
-| Legal form | general incorporated association |
-| Member | 51 local credit guarantee corporations (47 prefecture + 4 city — Yokohama, Kawasaki, Nagoya, Gifu) |
-| Location | Nihonbashi, Chuo-ku, Tokyo |
-| Establishment | 1951  (Continued from the predecessor organization) — Several reorganizations of the federation |
-| Supervisory Agency | Ministry of Economy, Trade and Industry (METI) / Small and Medium Enterprise Agency (SME Agency) |
-| Related organizations | [[financial-regulators/jfc\|JFC]] (credit insurance), METI / SME Agency, prefecture/city |
+| 日本語名 | 一般社団法人全国信用保証協会連合会 |
+| 略称 | JFG / 全信保連 / 連合会 |
+| 英語名 | Japan Federation of Credit Guarantee Corporations |
+| 法的形態 | 一般社団法人 (general incorporated association) |
+| 会員 | 51 local credit guarantee corporations (47都道府県 + 4市 — 横浜・川崎・名古屋・岐阜) |
+| 所在地 | 東京都中央区日本橋 |
+| 設立 | 1951 (前身組織より連続) — 連合会再編は数次 |
+| 監督官庁 | 経済産業省 (METI) / 中小企業庁 (SME Agency) |
+| 関係機関 | [[financial-regulators/jfc\|JFC]] (信用保険), METI / SME Agency, 都道府県・市 |
 | FinWiki lane | [[policy-finance/INDEX\|policy-finance]] — federation / coordinating-body page |
 
-## 2. 51  member CGC list
+## 2. 51 member CGC list
 
 The 51 member CGCs cover all 47 prefectures plus 4 specially designated cities:
 
-- **47 prefectures**: Hokkaido, Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima, Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa (excluding Yokohama/Kawasaki city CGCs which are separate members), Niigata, Toyama, Ishikawa, Fukui, Yamanashi, Nagano, Gifu (excluding Gifu city CGC), Shizuoka, Aichi (excluding Nagoya city CGC), Mie, Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama, Tottori, Shimane, Okayama, Hiroshima, Yamaguchi, Tokushima, Kagawa, Ehime, Kochi, Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa.
-- **4  City**: Yokohama City Credit Guarantee Association, Kawasaki City Credit Guarantee Association, Nagoya City Credit Guarantee Association, Gifu City Credit Guarantee Association.
+- **47都道府県**: 北海道, 青森, 岩手, 宮城, 秋田, 山形, 福島, 茨城, 栃木, 群馬, 埼玉, 千葉, 東京, 神奈川 (excluding Yokohama/Kawasaki city CGCs which are separate members), 新潟, 富山, 石川, 福井, 山梨, 長野, 岐阜 (excluding Gifu city CGC), 静岡, 愛知 (excluding Nagoya city CGC), 三重, 滋賀, 京都, 大阪, 兵庫, 奈良, 和歌山, 鳥取, 島根, 岡山, 広島, 山口, 徳島, 香川, 愛媛, 高知, 福岡, 佐賀, 長崎, 熊本, 大分, 宮崎, 鹿児島, 沖縄.
+- **4 市**: 横浜市信用保証協会, 川崎市信用保証協会, 名古屋市信用保証協会, 岐阜市信用保証協会.
 
 The 4 city CGCs exist because at the historical foundation of the system, the four cities had distinct industrial bases large enough to support their own credit guarantee corporations independently of the prefecture-level CGC. Coexistence with the prefectural CGCs (Kanagawa CGC, Aichi CGC, Gifu CGC) is operationally normal — the city CGC and prefectural CGC have geographic / administrative-boundary distinctions.
 
@@ -100,20 +101,20 @@ JFC inherited the credit-insurance business from the predecessor 中小企業信
 
 | Year | Event |
 |---|---|
-| 1937 | Tokyo Credit Guarantee Association — first credit guarantee corporation. |
-| 1953 | Credit Guarantee Association Law enacted; nationwide CGC framework. |
+| 1937 | 東京信用保証協会 — first credit guarantee corporation. |
+| 1953 | 信用保証協会法 enacted; nationwide CGC framework. |
 | 1951 → | National federation predecessor organizations. |
-| 1958 | Small and Medium Enterprise Credit Insurance Corporation established (predecessor of JFC credit-insurance). |
-| 1998–1999 | Special stabilization guarantee — Asian-crisis emergency 100% guarantee program. JFG coordinated nationwide rollout. |
-| 2007-10 | Shared responsibility system introduced — JFG administers the financial flows. |
-| 2008–2009 | Emergency guarantee — GFC emergency program. |
+| 1958 | 中小企業信用保険公庫 established (predecessor of JFC credit-insurance). |
+| 1998–1999 | 安定化特別保証 — Asian-crisis emergency 100% guarantee program. JFG coordinated nationwide rollout. |
+| 2007-10 | 責任共有制度 introduced — JFG administers the financial flows. |
+| 2008–2009 | 緊急保証 — GFC emergency program. |
 | 2008-10 | JFC established; credit insurance integrated into JFC; JFG-JFC interface reorganized. |
-| 2011 | Tōhoku earthquake; disaster-related assurance widely activated; JFG coordinates federation-level response. |
+| 2011 | Tōhoku earthquake; 災害関係保証 widely activated; JFG coordinates federation-level response. |
 | 2020-05 | ZeroZero program launched; JFG coordinates rapid nationwide rollout. |
 | 2021-03 | ZeroZero origination closed. |
-| 2022–2025 | Post-COVID exit framework — tenacious support doctrine. |
+| 2022–2025 | Post-COVID exit framework — 粘り強い支援 doctrine. |
 | 2023–2026 | Subrogation wave; JFG coordinates federation-level workout / restructuring. |
-| 2024–2025 | Continued focus on Business Guarantee Guidelines-aligned guarantees, business-succession guarantees, startup guarantees. |
+| 2024–2025 | Continued focus on 経営者保証ガイドライン-aligned guarantees, business-succession guarantees, startup guarantees. |
 
 ## 8. Boundary cases
 
@@ -121,34 +122,34 @@ JFC inherited the credit-insurance business from the predecessor 中小企業信
 - **Not a local CGC** — local CGCs perform borrower-facing guarantees; JFG supports / coordinates them.
 - **Not agriculture / fisheries** — agriculture / fisheries credit guarantee systems have their own sector federations and JAFFIC reinsurance, separate from JFG / JFC.
 - **Not METI / SME Agency** — METI is the policy supervisor; JFG is the federation administering the system on behalf of the 51 CGCs.
-- **Not a lender** — JFG does not guarantee guarantees directly; the local CGCs do.
+- **Not a lender** — JFG does not guarantee borrowers directly; the local CGCs do.
 
 ## Related
 
--[[policy-finance/INDEX]]
--[[policy-finance/japan-credit-guarantee-system]]
--[[policy-finance/japan-policy-finance-system]]
--[[policy-finance/japan-housing-finance-agency]]
--[[policy-finance/agriculture-credit-guarantee-system]]
--[[policy-finance/fisheries-credit-guarantee-system]]
--[[policy-finance/hokkaido-credit-guarantee-corp]]
--[[policy-finance/tokyo-credit-guarantee-corp]]
--[[policy-finance/osaka-credit-guarantee-corp]]
--[[policy-finance/aichi-credit-guarantee-corp]]
--[[policy-finance/hyogo-credit-guarantee-corp]]
--[[financial-regulators/jfc]]
--[[financial-regulators/shoko-chukin]]
--[[banking/regional-bank-consolidation-pattern]]
--[[banking/shinkin-bank-registry-japan]]
--[[banking/credit-cooperative-registry-japan]]
--[[INDEX|FinWiki index]]
+- [[policy-finance/INDEX]]
+- [[policy-finance/japan-credit-guarantee-system]]
+- [[policy-finance/japan-policy-finance-system]]
+- [[policy-finance/japan-housing-finance-agency]]
+- [[policy-finance/agriculture-credit-guarantee-system]]
+- [[policy-finance/fisheries-credit-guarantee-system]]
+- [[policy-finance/hokkaido-credit-guarantee-corp]]
+- [[policy-finance/tokyo-credit-guarantee-corp]]
+- [[policy-finance/osaka-credit-guarantee-corp]]
+- [[policy-finance/aichi-credit-guarantee-corp]]
+- [[policy-finance/hyogo-credit-guarantee-corp]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[banking/regional-bank-consolidation-pattern]]
+- [[banking/shinkin-bank-registry-japan]]
+- [[banking/credit-cooperative-registry-japan]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
 - Japan Federation of Credit Guarantee Corporations, official top page (https://www.zenshinhoren.or.jp/).
-- Japan Federation of Credit Guarantee Corporations, "About the Japan Federation of Credit Guarantee Corporations" (https://www.zenshinhoren.or.jp/about/).
+- Japan Federation of Credit Guarantee Corporations, "全国信用保証協会連合会について" (https://www.zenshinhoren.or.jp/about/).
 - Japan Federation of Credit Guarantee Corporations, credit guarantee system pages (https://www.zenshinhoren.or.jp/guarantee-system/).
-- Japan Federation of Credit Guarantee Corporations, "Mechanism to support the credit guarantee system" (https://www.zenshinhoren.or.jp/guarantee-system/hokan/).
+- Japan Federation of Credit Guarantee Corporations, "信用保証制度を支えるしくみ" (https://www.zenshinhoren.or.jp/guarantee-system/hokan/).
 - Japan Federation of Credit Guarantee Corporations, member CGC directory (https://www.zenshinhoren.or.jp/cgcs/).
-- SME Agency, credit-supplementation system disclosures (https://www.chusho.meti.go.jp/).
+- 中小企業庁 (SME Agency), credit-supplementation system disclosures (https://www.chusho.meti.go.jp/).
 - JFC, SME finance / credit insurance disclosures (https://www.jfc.go.jp/n/finance/sme/index.html).

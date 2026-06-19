@@ -1,118 +1,119 @@
 ---
 source: payments/visa-gift-card-japan
-source_hash: b634c30c54639f4b
+source_hash: 73f68a9214d18dad
 lang: zh
 status: machine
 fidelity: ok
-title: "Visa Gift Card Japan：Visa 品牌开环预付卡"
-translated_at: 2026-06-01T03:31:12.262Z
+title: "Visa Gift Card Japan: Visa-branded open-loop prepaid"
+translated_at: 2026-06-19T06:09:18.137Z
 ---
-# Visa Gift Card Japan：Visa 品牌开环预付卡
 
-## Wiki 路径
+# Visa Gift Card Japan: Visa-branded open-loop prepaid
 
-此条目位于 [[payments/INDEX|payments index]] 下，作为 Visa 品牌预付费发行人页面，与 FSA 注册表视图的 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 配对，与 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 配对用于品牌网络角色上下文，与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配对用于四类方案视图。与[[payments/amazon-gift-card-japan|Amazon Gift Card]]、[[payments/apple-gift-card-japan|Apple Gift Card]]、[[payments/google-play-gift-card-japan|Google Play Gift Card]]（闭环平台礼品）、[[payments/quo-card-prepaid|QUO Card]]（开环多商户纸质/数字礼品）和[[payment-firms/kyash|Kyash]]（Visa品牌钱包卡混合）进行比较。 Visa 礼品卡属于**品牌网络预付**类别，可在全球接受 Visa 的任何地方使用，这在结构上不同于便利店和零售店仅接受的闭环礼品卡。日本的发行人通常为 **Vpurika** 产品品牌下的 [[card-issuers/life-card|Life Card]]。
+## Wiki route
 
-## 要点摘要
+本条目作为 Visa 品牌预付发行方页面归属于 [[payments/INDEX|payments index]]，与 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 配对用于 FSA 登记视图，与 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 配对用于品牌网络角色背景，与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配对用于四类方案视图。请与 [[payments/amazon-gift-card-japan|Amazon Gift Card]]、[[payments/apple-gift-card-japan|Apple Gift Card]]、[[payments/google-play-gift-card-japan|Google Play Gift Card]]（闭环平台礼品）、[[payments/quo-card-prepaid|QUO Card]]（开环多商户纸质／数字礼品）及 [[payment-firms/kyash|Kyash]]（Visa 品牌钱包卡混合型）比较。Visa Gift Card 属于 **品牌网络预付** 类别 — 在全球任何受理 Visa 的地方均可使用，这在结构上不同于闭环礼品卡仅限便利店与零售的受理。日本的发行方通常是以 **Vプリカ** 产品品牌运营的 [[card-issuers/life-card|Life Card]]。
 
-**日本 Visa 礼品卡**是指在日本发行的 **Visa 品牌预付卡**系列，其中最著名的是 **[[card-issuers/life-card|Life Card Co Ltd]]** 在 Visa 计划许可下发行的 **Vpurika (V Preca)** 产品。 Vpurika 是**日本发行的 Visa 品牌预付卡**，可在全球任何接受 Visa 的商户处消费（在线和店内均可使用实体卡）。与 [[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]]（均为闭环/平台限制）不同，Visa 礼品卡是**开环/品牌网络预付** — 可在 Visa 全球商户网络中使用。该产品的定位是**无需信用卡承诺的在线购物**、**分发礼物（让收件人选择在哪里消费**）以及为没有传统信用卡历史的用户提供**无卡无现金入口**。 Vプリカ在FSA下注册为第三者型（第三方）前払式支払手段，因为接受服务是在第三方接受Visa的商户，而不是Life Card自己的服务。
+## TL;DR
 
-## 发行人和运营结构
+**Visa Gift Card Japan** 指在日本发行的 **Visa 品牌预付卡** 家族 — 最突出的是在 Visa 方案许可下由 **[[card-issuers/life-card|Life Card Co Ltd]]** 发行的 **Vプリカ (V Preca)** 产品。Vプリカ 是 **日本发行的主要 Visa 品牌预付卡**，可在全球任何受理 Visa 的商户消费（线上及带物理卡选项的店内）。与 [[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]]（均为闭环／平台受限）不同，Visa Gift Card 是 **开环／品牌网络预付** — 可跨 Visa 全球商户网络使用。该产品定位用于 **无需信用卡承诺的线上购买**、**应由收款人选择消费地点的礼品分发**，以及面向无传统信用卡历史用户的 **无卡无现金入口**。由于受理发生在第三方受理 Visa 的商户而非 Life Card 自身的服务，Vプリカ 在 FSA 之下注册为 第三者型 前払式支払手段。
 
-|尺寸|阅读|
+## Issuer and operational structure
+
+| Dimension | Reading |
 |---|---|
-|主要日本发行的 Visa 礼品卡 | **Vpurika (V Preca)** by [[card-issuers/life-card\|Life Card Co Ltd]] |
-|品牌网|签证（通过 [[payment-firms/visa-worldwide-japan\|Visa Worldwide Japan]] 许可证）|
-| FSA 预付费注册 | Life Card Co Ltd 作为第三者型预付发行人出现在 `daisan.xlsx`（公司编号 3020001086810, registration 2011-04-01 — 发行人涵盖卡/预付/担保邻接） |
-|推出年份 (Vpurika) | 2010 （Vpurika在Life Card下首次推出）|
-|卡片格式|带有 16 位数、CVV、到期日的在线/虚拟卡 — 对于某些产品变体也有物理卡选项 |
-|面额 | ¥500 至¥30,000 可选购买，多种充值导轨|
-|配电轨|网上直接购买、便利店支付、ATM购买、Vpurika网站收费|
-|验收|任何接受 Visa 的商家（全球在线和店内）|
-|到期 |每张卡指定的有效期（通常为从发行/最后一次收费起 1-2  年）|
+| Principal Japan-issued Visa Gift Card | [[card-issuers/life-card\|Life Card Co Ltd]] 发行的 **Vプリカ (V Preca)** |
+| Brand network | Visa（经由 [[payment-firms/visa-worldwide-japan\|Visa Worldwide Japan]] 许可） |
+| FSA prepaid registration | Life Card Co Ltd 作为 第三者型 预付发行方出现在 `daisan.xlsx` 中（法人编号 3020001086810, 注册 2011-04-01 — 发行方覆盖卡／预付／担保的相邻领域） |
+| Launch year (Vプリカ) | 2010 （Vプリカ 在 Life Card 之下首次推出） |
+| Card format | 带 16位号码、CVV、有效期的线上／虚拟卡 — 某些产品变体也有物理卡选项 |
+| Denominations | 可选购买 ¥500 至 ¥30,000 ，多种充值通道 |
+| Distribution rails | 线上直接购买、便利店支付、ATM 购买、Vプリカ 网站充值 |
+| Acceptance | 任何受理 Visa 的商户（全球线上及店内） |
+| Expiry | 按卡分配有效期（通常自发行／最后充值起 1-2 年） |
 
-## 法律依据：第三者型预付费（Visa品牌网络接入）
+## Legal basis: 第三者型 prepaid (Visa brand network access)
 
-Vプリカ在[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]]章3 下注册为**第三者型前払式支払手段**，因为消费面是Visa网络中的**第三方商户**而不是发卡机构自己的服务。主要监管后果：
+由于消费界面是 Visa 网络内的 **第三方商户** 而非发行方自身的服务，Vプリカ 在 [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] 第 3 章之下注册为 **第三者型前払式支払手段**。主要监管后果：
 
-- [[card-issuers/life-card|Life Card]]作为发行人出现在[[payments/prepaid-payment-instrument-issuers-japan-index|FSA `daisan.xlsx`]]中。
-- 每半年向法务局缴纳**未使用余额存款**（供托）。
-- **除非发行停止，否则不会退还给原始付款人** — 默认情况下，Vpurika 余额不可退还为现金。
-- 根据 **Visa 计划规则** 进行收单方商户受理、交换流程和退款/争议处理 — 请参阅 [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] 了解品牌网络经济背景。
-- 发卡方适用日本信用协会 ([[payments/japan-card-security-authentication-controls|J-CSC]]) 欺诈/身份验证控制卡识别合规性。
+- 作为发行方的 [[card-issuers/life-card|Life Card]] 出现在 [[payments/prepaid-payment-instrument-issuers-japan-index|FSA `daisan.xlsx`]] 中。
+- 向法务局每半年进行 **未使用余额的供托**。
+- **除发行停止时外不向原付款人退款** — Vプリカ 余额默认不可退现金。
+- 在 **Visa 方案规则** 之下运营，涉及收单侧商户受理、交换流程及拒付／争议处理 — 品牌网络的经济背景参见 [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]。
+- 关于欺诈／认证控制，对日本信用协会（[[payments/japan-card-security-authentication-controls|J-CSC]]）的卡识别合规适用于发行方侧。
 
-## Visa品牌网络优势
+## Visa brand network advantage
 
-与闭环平台礼品卡的结构区别在于 **全球 Visa 接受足迹**：
+与闭环平台礼品卡的结构性区别在于 **全球 Visa 受理覆盖**：
 
-|尺寸| Vpurika（维萨品牌网）|亚马逊/苹果/谷歌礼品卡（闭环）|
+| Dimension | Vプリカ (Visa brand network) | Amazon / Apple / Google Gift Card (closed-loop) |
 |---|---|---|
-|消费面 |全球任何接受签证的商家 |平台限制（仅限 Amazon.co.jp / Apple / Google Play）|
-|线上跨商户使用 |是的 — 可在任何接受签证的网站上使用 |否 — 仅限于平台 |
-|实体卡支付 |有限（Vpurika 主要是在线/虚拟；存在选定的实体卡变体）|无实体卡支付界面（仅限数字代码）|
-|跨境采购 |是的 — 适用于接受 Visa 的海外商户 |有限（特定于平台）|
-|礼物接收者的选择 |广泛 — 收件人可以选择任意 Visa 商户 |狭窄——收件人仅限于平台|
-|发行人 |生命卡（日本）|亚马逊/苹果/谷歌（平台运营商）|
-| FSA 注册类别 | 第三者型（第三方）| 自家型（闭环）|
+| Spending surface | 全球任何受理 Visa 的商户 | 平台受限（仅 Amazon.co.jp / Apple / Google Play） |
+| Online cross-merchant use | 是 — 在任何受理 Visa 的网站均可用 | 否 — 限于平台 |
+| Physical card payment | 有限（Vプリカ 主要为线上／虚拟；存在部分物理卡变体） | 无物理卡支付界面（仅数字码） |
+| Cross-border purchase | 是 — 在受理 Visa 的海外商户可用 | 有限（平台特定） |
+| Gift recipient choice | 宽 — 收款人可选择任何 Visa 商户 | 窄 — 收款人受限于平台 |
+| Issuer | Life Card（日本） | Amazon / Apple / Google（平台运营商） |
+| FSA registration class | 第三者型 (third-party) | 自家型 (closed-loop) |
 
-代价是，Visa 品牌网络访问会带来 Visa 计划费用、交换流量和收单方商业经济——闭环礼品卡从定义上就避免了这些。
+权衡在于，Visa 品牌网络受理带有 Visa 方案费用、交换流程及收单侧商户经济学 — 闭环礼品卡按定义规避这些。
 
-## 用例
+## Use cases
 
-|使用案例 |描述 |
+| Use case | Description |
 |---|---|
-| **无需信用卡承诺的在线购物** |买家购买Vpurika，在接受Visa的网站上使用，无需注册个人信用卡|
-| **根据收件人的选择分发礼物** |发件人向收件人提供 Vpurika，收件人可以通过 Visa 网络选择消费地点 |
-| **国外商家无卡网购** | Vpurika在海外签证受理网站工作；信用卡承诺的消费者保护替代方案|
-| **无现金入口** |无卡群体（未成年人、无信用卡成年人）在便利店/网上购买 Vpurika 以获得接受 Visa 的购买能力 |
-| **注重隐私的在线购买** |一些用户在交易时更喜欢 Vpurika 而不是信用卡，因为他们不希望重复使用信用卡账单足迹 |
-| **订阅取消安全** |有限余额卡限制认购自动续费风险|
+| **无需信用卡承诺的线上购买** | 购买者购买 Vプリカ，在受理 Visa 的网站使用而无需登记个人信用卡 |
+| **带收款人选择的礼品分发** | 赠送者将 Vプリカ 交给收款人，由其在 Visa 网络内选择消费地点 |
+| **从海外商户的无卡线上购买** | Vプリカ 在受理 Visa 的海外网站可用；替代信用卡承诺的消费者保护方案 |
+| **无现金入口** | 无卡群体（未成年人、无信用卡成人）在便利店／线上购买 Vプリカ 以获得受理 Visa 的购买能力 |
+| **注重隐私的线上购买** | 一些用户在不想留下重复信用卡账单足迹的交易中，更偏好 Vプリカ 而非信用卡 |
+| **订阅取消的安全性** | 余额受限的卡限制订阅自动续费风险 |
 
-## 配电轨
+## Distribution rails
 
-|铁路 |描述 |
+| Rail | Description |
 |---|---|
-| **网上直接购买** | Vpurika网站直购各种面额|
-| **便利店付款** |在便利店支付网上订购的Vpurika |
-| **ATM 购买** | Pay-easy / ATM 铁路 |
-| **充值/充值** |现有Vpurika持有者可通过Vpurika网站/便利店支付/ATM充值|
-| **促销活动分发** |促销礼品奖励 |
+| **线上直接购买** | 以多种额面在 Vプリカ 网站直接购买 |
+| **便利店支付** | 为线上下单的 Vプリカ 在便利店付款 |
+| **ATM 购买** | Pay-easy / ATM 通道 |
+| **充值／续充** | 现有 Vプリカ 持有者可经由 Vプリカ 网站／便利店支付／ATM 为余额充值 |
+| **促销活动分发** | 促销礼品奖励 |
 
-与便利店货架实体礼品卡（[[payments/amazon-gift-card-japan|Amazon]] / [[payments/apple-gift-card-japan|Apple]] / [[payments/google-play-gift-card-japan|Google Play]]）相比，Vpurika **主要是在线购买，而不是在便利店货架展示** - 便利店整合主要是在线订购 Vpurika 的支付渠道，而不是货架展示产品。
+与便利店货架的物理礼品卡（[[payments/amazon-gift-card-japan|Amazon]] / [[payments/apple-gift-card-japan|Apple]] / [[payments/google-play-gift-card-japan|Google Play]]）相比，Vプリカ **主要为线上购买而非在便利店货架陈列** — 便利店的整合主要是线上下单 Vプリカ 的支付渠道，而非货架陈列产品。
 
-## 日本的其他 Visa 品牌预付卡
+## Other Visa-branded prepaid in Japan
 
-Vpurika 是日本主要但不是唯一的 Visa 品牌预付卡。其他 Visa 品牌预付卡包括：
+Vプリカ 是日本主要但并非唯一的 Visa 品牌预付。其他 Visa 品牌预付卡包括：
 
-- **[[payment-firms/kyash|Kyash]] Visa 卡** — Kyash Inc. 发行的钱包和预付 Visa 卡混合卡；与 Vpurika（单次礼品/无卡购买）相比，它的用例（实时钱包 + Visa 预付发行）不同。
-- **各种钱包发行的 Visa 品牌预付卡** - 多个金融科技钱包发行 Visa 预付卡作为其钱包产品的一部分（例如，[[payment-firms/paypay|PayPay]] 卡、各种较小的钱包 Visa 卡）。
-- **[[payment-firms/au-payment|au PAY]] 预付卡** — 与 au PAY 钱包相关的 Visa 或 Mastercard 预付卡。
-- **银行发行的预付** — 选定的银行发行的 Visa 预付产品。
+- **[[payment-firms/kyash|Kyash]] Visa card** — 由 Kyash Inc. 发行的钱包与预付 Visa 卡混合型；服务于不同于 Vプリカ（单次加载礼品／无卡购买）的用例（实时钱包 + Visa 预付发行）。
+- **各种钱包发行的 Visa 品牌预付** — 多家金融科技钱包作为其钱包提供的一部分发行 Visa 预付（例如 [[payment-firms/paypay|PayPay]] card，及各类较小的钱包 Visa 卡）。
+- **[[payment-firms/au-payment|au PAY]] prepaid card** — 与 au PAY 钱包关联发行的 Visa 或 Mastercard 预付卡。
+- **银行发行预付** — 部分银行发行的 Visa 预付产品。
 
-**Visa 礼品卡**（单次礼品导向）和 **Visa 品牌预付钱包**（充值消费钱包）之间的界限有些模糊——两者都使用 Visa 方案接受，但产品定位和客户用例有所不同。
+**Visa Gift Card**（单次加载、礼品导向）与 **Visa 品牌钱包预付**（充值并消费的钱包）之间的边界有些模糊 — 两者都使用 Visa 方案受理，但产品定位与客户用例不同。
 
-## 关键绩效指标快照
+## KPI snapshot
 
-|公制|阅读|
+| Metric | Reading |
 |---|---|
-| Vpurika累计发行 |材质数百万卡规模（Life Card/Vpurika公开披露）|
-|全球接受签证的商户网络 | ~80M 全球商户（Visa 集团披露）|
-| Vpurika 面额范围 | ¥500  至 ¥30,000 |
-|补充铁路可用性 |便利店、ATM、在线网站、多个充电点 |
+| Vプリカ cumulative issuance | 可观的数百万张规模（Life Card / Vプリカ 公开披露） |
+| Visa-accepting merchant network globally | ~80M 全球商户（Visa 集团披露） |
+| Vプリカ denomination range | ¥500 至 ¥30,000  |
+| Top-up rail availability | 便利店、ATM、线上网站、多个充值点 |
 
-确切的数字位于 Life Card 披露和 Vpurika 网站中。
+确切数字存在于 Life Card 披露与 Vプリカ 网站。
 
-## 策略：品牌网络预付费无卡在线使用
+## Strategy: brand-network prepaid for cardless and online use
 
-Visa Gift Card Japan（主要是 Vpurika）的战略作用：
+Visa Gift Card Japan（主要为 Vプリカ）的战略角色：
 
-1。 **品牌网络普遍性** — Visa 接受范围远远超过闭环平台礼品卡。
-2。 **无卡在线购买** — 为不想向在线商家提供信用卡账单详细信息的用户提供服务。
-3。 **受赠者选择的礼物分发**——受赠者的消费面广阔。
-4。 **跨境购买能力**——海外商户Visa受理。
-5。 **有限余额订阅安全** — 预付余额限制了订阅注册时的自动续订风险。
+1. **品牌网络的普遍性** — Visa 受理覆盖远超闭环平台礼品卡。
+2. **无卡线上购买** — 服务于不愿向线上商户提交信用卡账单信息的用户。
+3. **收款人选择的礼品分发** — 为收款人提供宽广的消费界面。
+4. **跨境购买能力** — 海外商户的 Visa 受理。
+5. **余额受限的订阅安全性** — 预付余额限定订阅注册时的自动续费风险。
 
-## 相关
+## Related
 
 - [[payments/INDEX]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
@@ -129,13 +130,13 @@ Visa Gift Card Japan（主要是 Vpurika）的战略作用：
 - [[payment-firms/kyash]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- Visa 日本预付卡页面 (visa.co.jp/pay-with-visa/find-a-card/prepaid-cards.html)。
-- Vpurika 官方网站 (vpc.lifecard.co.jp)。
-- Visa 日本公司网站 (visa.co.jp)。
-- Life Card 公司网站 (lifecard.co.jp)。
-- FSA、`daisan.xlsx` — 第三方预付费工具发行人注册列表（Life Card 条目、注册 2011-04-01、公司编号 3020001086810）。
-- FSA 预付支付工具政策页面。
-- 日本信用协会 — 卡安全指南。
-- METI 无现金政策页面。
+- Visa Japan prepaid cards page (visa.co.jp/pay-with-visa/find-a-card/prepaid-cards.html).
+- Vプリカ official site (vpc.lifecard.co.jp).
+- Visa Japan corporate site (visa.co.jp).
+- Life Card corporate site (lifecard.co.jp).
+- FSA, `daisan.xlsx` — third-party prepaid-instrument issuer registration list (Life Card entry, registered 2011-04-01, corporate number 3020001086810).
+- FSA prepaid payment instruments policy page.
+- Japan Credit Association — card security guidelines.
+- METI cashless policy page.

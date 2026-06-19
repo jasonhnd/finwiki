@@ -1,99 +1,99 @@
 ---
 source: trading-company-finance/toyota-tsusho-finance
-source_hash: b38a8fec431de266
+source_hash: 903e4d44a8f40a6d
 lang: en
 status: machine
 fidelity: ok
-title: "Toyota Tsusho Finance"
-translated_at: 2026-06-01T02:31:57.156Z
+title: "豊田通商フィナンス (Toyota Tsusho Finance)"
+translated_at: 2026-06-19T13:13:22.635Z
 ---
 
-# Toyota Tsusho Finance
+# 豊田通商フィナンス (Toyota Tsusho Finance)
 
 ## Wiki route
 
-This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services (TFS)]] and [[card-issuers/toyota-finance|Toyota Finance]]. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Finance]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], [[trading-company-finance/itochu-finance|Itochu Finance]], and [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]].
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] (the Toyota-group **captive auto-finance** holding, distinct from this 商社系 internal-treasury arm) and [[card-issuers/toyota-finance|トヨタファイナンス]] (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company Overview
+## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| Wiki role | **Toyota Tsusho Group internal finance** + support for Toyota-group trading-house supply-chain finance |
+| Wiki role | **Toyota Tsusho Group's internal-facing finance** + Toyota-affiliated trading-house supply-chain finance support |
 
-### Three Lines of Toyota Group Financial Functions
+### The three lines of the Toyota Group finance function
 
-| Line | Main entity | Role |
+| Line | Entity | Role |
 |---|---|---|
-| **Customer sales finance (auto-finance)** | [[leasing-firms/toyota-financial|TFS]] (holding) -> [[card-issuers/toyota-finance|Toyota Finance]] and others | Toyota vehicle auto loans, dealer financing, credit cards ([[card-issuers/jcb|JCB]]-series TS3, etc.) |
-| **Financial market operations (treasury / FX / investment)** | Toyota Financial Services Corporation (under the holding company) | Financial market operations for the parent and overseas subsidiaries |
-| **Trading-house internal banking (this page)** | **Toyota Tsusho Finance** | CMS / bulk factoring / group finance inside Toyota Tsusho Group |
+| **Customer sales finance (auto-finance)** | [[leasing-firms/toyota-financial|TFS]] (holding) → [[card-issuers/toyota-finance|トヨタファイナンス]] etc. | Auto loans for Toyota vehicles, dealer financing, credit cards ([[card-issuers/jcb|JCB]]-affiliated TS3  etc.) |
+| **Financial-market operations (treasury / FX / investment)** | Toyota Financial Corporation (under the holding) | Financial-market operations of the parent + overseas subsidiaries |
+| **商社系 internal banking (this page)** | **Toyota Tsusho Finance** | CMS / lump-sum factoring / group finance within the Toyota Tsusho Group |
 
-These three lines correspond to the functional division among **Toyota Motor (parent company) / Toyota Tsusho (trading house) / sales companies (domestic and overseas dealers)**.
+These three lines correspond to the functional division of labour among **Toyota Motor (parent) / Toyota Tsusho (trading house) / each sales company (domestic / overseas dealers)**.
 
-## 2. Business Segment Map
+## 2. Business-segment map
 
-| Segment | Description |
+| Segment | Content |
 |---|---|
-| **CMS (cash management service)** | Payment centralization and cash pooling for Toyota Tsusho Group companies |
-| **Bulk factoring** | Purchase of receivables / payment agency for group companies (especially SMEs related to the Toyota supply chain) |
-| **Group finance** | Short-term / mid-term loans to group companies |
-| **FX / interest-rate risk hedge intermediation** | Derivatives intermediation for group companies (especially African and emerging-market currencies) |
-| **Overseas remittance service** | Overseas remittance and collection for group companies (including support for 54  African countries) |
-| **Trade finance support** | Credit support tied to transactions in steel, auto parts, manufacturing equipment, chemicals, and energy |
+| **CMS (cash-management service)** | Settlement concentration and fund pooling for Toyota Tsusho Group companies |
+| **Lump-sum factoring** | Purchase of accounts receivable / payment agency for group companies (especially small and mid-sized suppliers related to the Toyota supply chain) |
+| **Group finance** | Short-term / mid-term loans to companies within the group |
+| **FX / interest-rate risk-hedging intermediation** | Derivatives intermediation for group companies (especially African and emerging-market currencies) |
+| **Overseas remittance service** | Overseas remittance / collection for group companies (including coverage of 54  African countries) |
+| **Trade-finance support** | Credit support tied to transactions in steel, auto parts, manufacturing equipment, chemicals, and energy |
 
-### Toyota Tsusho Business Structure and Financial Functions
+### Toyota Tsusho's business structure and finance function
 
-- Steel and parts logistics functions in the **Toyota Motor supply chain**
-- **Africa business** (former Toyota Motor African distributors + France-based CFAO acquired in 2012 年, covering 54  African countries)
-- New fields such as **renewable energy / lithium**
+- **Steel and parts logistics function** within the **Toyota Motor supply chain**
+- **Africa business** (the former Toyota Motor Africa sales companies + all-Africa coverage of 54  countries via the French-origin CFAO acquired in 2012 年)
+- New areas such as **renewable energy / lithium**
 
-Toyota Tsusho Finance supports supplier finance, overseas-currency hedging, cross-border remittance, and related functions in these fields.
+Toyota Tsusho Finance supports supplier finance / overseas-currency hedging / cross-border remittance, etc., in these fields.
 
 ### Competitors / Peers
 
-| Trading house | Internal finance subsidiary | External leasing line |
+| Trading house | Internal-facing finance subsidiary | External-facing leasing arm |
 |---|---|---|
-| Toyota Tsusho | **Toyota Tsusho Finance (this page)** | Mostly internal group captive; no major specialized leasing subsidiary |
-| Mitsubishi Corporation | [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Finance]] | [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
-| Mitsui & Co. | [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] | [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] |
-| Sumitomo Corporation | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] | [[leasing-firms/smfl|SMFL]] (SMFG joint venture) |
-| Itochu | [[trading-company-finance/itochu-finance|Itochu Finance]] | [[leasing-firms/tokyo-century|Tokyo Century]] (Mizuho joint venture, listed) |
-| Marubeni | [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] | [[leasing-firms/mizuho-lease|Mizuho Leasing]] (strategic shareholder) |
-| Sojitz | [[trading-company-finance/sojitz-finance|Sojitz Finance]] | None specialized |
+| Toyota Tsusho | **Toyota Tsusho Finance (this page)** | Centered on intra-group captive; no specialized major leasing subsidiary |
+| Mitsubishi Corp | [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
+| Mitsui & Co | [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] | [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] |
+| Sumitomo Corp | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] | [[leasing-firms/smfl|SMFL]] (SMFG joint venture) |
+| Itochu | [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] | [[leasing-firms/tokyo-century|東京センチュリー]] (Mizuho joint venture, listed) |
+| Marubeni | [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] | [[leasing-firms/mizuho-lease|みずほリース]] (strategic shareholder) |
+| Sojitz | [[trading-company-finance/sojitz-finance|双日フィナンス]] | No specialist |
 
-## 4. Regulation / Policy
+## 4. Regulation / policy
 
-- **Primary regulator**: Financial Services Agency (money lending / FX business related)
+- **Supervisor**: Financial Services Agency (related to money-lending / FX operations)
 - **Regulatory issues**:
-  - **Transfer pricing taxation** for intragroup financial transactions (especially Africa / emerging-market transactions)
-  - Boundary between group factoring and the **Installment Sales Act / Money Lending Business Act**
-  - **Elimination of internal transactions** in consolidated accounting
+  - **Transfer-pricing taxation** of intra-group financial transactions (especially Africa / emerging-market transactions)
+  - The boundary between group factoring and the **Installment Sales Act / Money Lending Business Act**
+  - **Elimination of intra-group transactions** in consolidated accounting
 - **Recent policy issues**:
-  - 2024 onward, [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] -> reassessment of interest allocation inside the group
-  - Stronger AML/CFT for overseas remittance / cross-border fund movement (specificity of 54  African-country coverage)
+  - 2024 ~ [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → re-evaluation of intra-group interest charging
+  - Strengthening of AML/CFT for overseas remittance / cross-border fund movement (the particularity of coverage of 54  African countries)
 
 ## Related
 
-- [[leasing-firms/toyota-financial|TFS (Toyota Financial Services)]] (Toyota group captive auto-finance holding company)
-- [[card-issuers/toyota-finance|Toyota Finance]] (Toyota-group auto loans / dealer financing)
-- [[megabanks/mufg|MUFG]] (one of the main banks)
+- [[leasing-firms/toyota-financial|TFS (トヨタファイナンシャルサービス)]] (Toyota Group captive auto-finance holding)
+- [[card-issuers/toyota-finance|トヨタファイナンス]] (Toyota-affiliated auto loan / dealer financing)
+- [[megabanks/mufg|MUFG]] (one of the main transacting banks)
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (peer)
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[trading-company-finance/itochu-finance|Itochu Finance]] (peer)
-- [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] (peer)
-- [[trading-company-finance/sojitz-finance|Sojitz Finance]] (peer)
+- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (peer)
+- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (peer)
+- [[trading-company-finance/sojitz-finance|双日フィナンス]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|Japan acquisition finance]]
+- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
 ## Sources
 
-- Toyota Tsusho Corporation (8015) securities report (EDINET disclosure) — affiliates list
-- Toyota Tsusho official IR / integrated report (group-company list)
+- 豊田通商株式会社 (8015) securities report (EDINET disclosure) — list of affiliated companies
+- Toyota Tsusho official IR / integrated report (list of group companies)
 - Japan Leasing Association (JLA) https://www.leasing.or.jp/
-- EDINET securities report search https://disclosure.edinet-fsa.go.jp/
+- EDINET securities-report search https://disclosure.edinet-fsa.go.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **tentative** (public-information basis 2026-05-24). Toyota Tsusho Finance is an unlisted subsidiary with limited external disclosure. The latest business scope / subsidiary list needs to be checked against Toyota Tsusho's securities report affiliate list. The functional boundary with the Toyota Group's [[leasing-firms/toyota-financial|TFS]] line is hard to see externally, so this also serves as a disambiguation note to avoid confusion. **Parent trading-house page `toyota-tsusho-corp.md` has not been created -> future backlog item.**
+> confidence: **tentative** (based on public information 2026-05-24). Toyota Tsusho Finance is an unlisted subsidiary with limited external disclosure. The latest scope of operations / subsidiary list should be checked against the list of affiliated companies in the Toyota Tsusho securities report. The functional boundary with the [[leasing-firms/toyota-financial|TFS]] line within the Toyota Group is hard to see from outside, and this page also serves as a disambiguation note to avoid confusion. **The parent trading-house page `toyota-tsusho-corp.md` has not yet been created → planned to be added as backlog in the future**.

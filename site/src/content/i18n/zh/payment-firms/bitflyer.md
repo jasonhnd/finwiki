@@ -1,140 +1,140 @@
 ---
 source: payment-firms/bitflyer
-source_hash: 9db6c7bc20410838
+source_hash: e35937a865d956af
 lang: zh
 status: machine
 fidelity: ok
-title: "bitFlyer（bitFlyer Co., Ltd./bitFlyer Holdings）"
-translated_at: 2026-05-31T11:13:44.930Z
+title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
+translated_at: 2026-06-19T06:09:18.047Z
 ---
-# bitFlyer（bitFlyer Co., Ltd./bitFlyer Holdings）
+# bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
-## 维基路线
+## Wiki 路径
 
-该条目位于[[payment-firms/INDEX|payment-firms INDEX]]下。对照[[securities-firms/monex-group|マネックスグループ (Monex Group)]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
+本词条归属于 [[payment-firms/INDEX|payment-firms INDEX]]。请对照 [[securities-firms/monex-group|マネックスグループ (Monex Group)]] 了解同类／对比背景，并对照 [[banking/INDEX|banking index]] 了解更广泛的系统／监管边界。
 
-##TL;博士
+## TL;DR
 
-日本最大的加密资产交易所之一。 **2014-01-09由Yuzo Kano**创立，在支付服务法修订后立即获得**2017-09 关东财务局局长第 00003 号**（第一组11 社之一）。 **就比特币现货交易量而言，日本第一**（根据年份与[[exchanges/jp-exchange-bitbank|bitbank]]和[[exchanges/jp-exchange-coincheck|coincheck]]争夺第一名）。 2019  成为控股公司（成立 bitFlyer Holdings）并在美国/欧盟（卢森堡）扩大子公司**。集团自有私人连锁店“miyabi”由[[systems/bitflyer-blockchain|bitFlyer Blockchain]]运营。 2024-2025 随着IPO考虑的报道，**创始人回报/管理权之争**也浮出水面。 JVCEA 类型1  供应商。
+国内最大手加密资产交易所之一。**2014-01-09 加納裕三 创业**，在修订后资金结算法施行后不久即取得 **2017-09 关东财务局长 第 00003 号**（首批 11 社 之一）。比特币现货交易量在 **国内顶级**（视年份与 [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] 争夺首位）。2019 控股公司化（设立 bitFlyer Holdings），向 **美国／EU（卢森堡）** 展开子公司。集团独有的私有链「miyabi」由 [[systems/bitflyer-blockchain|bitFlyer Blockchain]] 运营。在 2024-2025 IPO 探讨报道的同时，**创始人回归・经营权之争** 浮出水面。JVCEA Type 1 业者。
 
-## 1。公司简介
+## 1. 公司概要
 
-**正式名称**：BitFlyer Holdings Co., Ltd.（控股）/BitFlyer Co., Ltd.（交易所运营）
-**英文名称**：bitFlyer Holdings, Inc. / bitFlyer, Inc.
-**成立**：2014-01-09（Bit Flyer Co., Ltd.）
-**控股公司**：2019（bitFlyer Holdings 成立）
-**本社**：东京都港区
-**创始人**：Yuzo Kano（前高盛证券）
-**未上市**：2024-2025 IPO审议公开报告（具体时间表尚未确定）
+**正式名称**：株式会社ビットフライヤーホールディングス（控股）/ 株式会社ビットフライヤー（交易所运营）
+**英文名**：bitFlyer Holdings, Inc. / bitFlyer, Inc.
+**设立**：2014-01-09（株式会社ビットフライヤー）
+**控股公司化**：2019（设立 bitFlyer Holdings）
+**总部**：东京都港区
+**创始人**：加納裕三（Yuzo Kano，前 高盛证券）
+**未上市**：2024-2025 IPO 探讨公开报道（具体时间表未确定）
 
-### 集团结构（公共信息库）
+### 集团结构（基于公开信息）
 
 ```
-bitFlyer Holdings, Inc.（控股，非上市）
-├── bitFlyer, Inc.── 国内交易所
-│ └── 关东地方财政局局长第 00003 号 加密资产交易所
-├── bitFlyer USA, Inc.（美国子公司）── 获得许可的汇款机构（多州 MTL）
-├── bitFlyer EUROPE S.A.（卢森堡）── 欧盟基地
-│ └── 法国AMF PSAN注册（2022）
-└── bitFlyer区块链有限公司（B2B区块链业务）
-└── miyabi（独特的私有区块链）
+bitFlyer Holdings, Inc.（控股，未上市）
+  ├── 株式会社ビットフライヤー（bitFlyer, Inc.）── 国内交易所
+  │     └── 关东财务局长 第 00003 号 加密资产交换业者
+  ├── bitFlyer USA, Inc.（美国子公司）── licensed money transmitter（多州 MTL）
+  ├── bitFlyer EUROPE S.A.（卢森堡）── EU 据点
+  │     └── 法国 AMF PSAN 登记（2022）
+  └── 株式会社 bitFlyer Blockchain（B2B 区块链事业）
+        └── miyabi（独有私有区块链）
 ```
 
-### 主要股东/资金（公开信息）
+### 主要股东・融资（公开信息）
 
-- A轮到C轮（2015到2017） **三菱UFJ Capital / SBI Investment / Recruit / 三井住友保险 / 第一生命保险 / Mizuho Capital / Dentsu / GMO Venture Partners / Te communications VC**等国内主要VC和商业公司投资
-- 累计采购金额：根据公开信息，约**超过130 億円**（包括截至2016 的C系列报告超过30 億，以及后续追加采购）
-- 由创始人/管理团队+境内战略股东控制
-- **由于公司未上市，具体股权结构未披露**，2024-2025 管理权纠纷报道揭露创始人与现任管理团队存在矛盾
+- 在系列 A〜C（2015〜2017）中，**三菱 UFJ Capital／SBI Investment／Recruit／三井住友海上／第一生命／瑞穗 Capital／电通／GMO Venture Partners／通信系 VC** 等 国内主要 VC・事业公司出资
+- 累计融资额：公开口径 **约 130 億円超**（2016 时点 30 億超的系列 C 报道，含其后追加融资）
+- 由创始人・经营层 ＋ 国内战略股东 控制
+- **因未上市，准确的持股构成不公开**，在 2024-2025 经营权之争报道中，创始人与现经营层的对立格局浮出水面
 
 ## 2. 沿革・重要年表
 
-|月 |活动 |
+| 年月 | 事件 |
 |---|---|
-| **2014-01-09** | **Bit Flyer Co., Ltd. 成立**（由 Yuzo Kano 创立）|
-| 2014-04 | bitFlyer 兑换服务启动 |
-| 2014-09〜2017 | A~C轮融资|
-| 2014-12 | Mt.Gox破产后行业重组期间国内份额迅速扩大 |
-| **2017-04** | **修改后的资金结算法的实施**（引入加密资产交易业务登记制度）|
-| **2017-09** | **关东地方财政局第 00003 号**取得（第一组11 社中，按登记号排列为业界最古老）|
-| 2017-11 | bitFlyer USA 开始运营（美国子公司）|
-| 2018-01 | bitFlyer EUROPE 开始运营（卢森堡欧盟基地）|
-| **2018-06** | **金融服务机构业务改进令**（[[exchanges/jp-exchange-coincheck|coincheck]] 内部控制系统缺陷，包括 NEM 泄漏事件后的全行业检查以及延迟响应 JVCEA 自我监管）|
-| 2018-06〜 |暂停新账户开立→KYC/AML系统重组|
-| 2018-10 | JVCEA（日本加密资产交易协会）认证资金结算商业协会认证|
-| 2018-07 |恢复开设新账户 |
-| 2019 | **转变为控股公司**（成立bitFlyer Holdings，集团重组） |
-| 2019-04 |嘉纳雄三 (Yuzo Kano) 退休，接替平子庆男 (Keio Hirako) 担任首席执行官（基于报告）|
-| 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]]提供miyabi（独特的私链）B2B |
-| 2022 | bitFlyer EUROPE 注册为法国 AMF PSAN（加密资产服务提供商）|
-| **2024** | **首次公开募股考虑报告**（TSE Growth 上市假设，多媒体） |
-| **2024〜2025** | **关于创始人与现任管理层之间的经营权之争的报告**（Yuzo Kano 预计回归/股东大会上的冲突）|
+| **2014-01-09** | **株式会社ビットフライヤー 设立**（加納裕三 创业）|
+| 2014-04 | bitFlyer 交易所服务启动 |
+| 2014-09〜2017 | 系列 A〜C 融资 |
+| 2014-12 | 在 Mt.Gox 破产后的行业重组期国内份额急速扩大 |
+| **2017-04** | **修订后资金结算法 施行**（导入加密资产交换业 登记制）|
+| **2017-09** | **取得 关东财务局长 第 00003 号**（首批 11 社 之一，按登记号顺序属业界最资深一档）|
+| 2017-11 | bitFlyer USA 开业（美国子公司）|
+| 2018-01 | bitFlyer EUROPE 开业（卢森堡 EU 据点）|
+| **2018-06** | **金融厅 业务改善命令**（[[exchanges/jp-exchange-coincheck|coincheck]] NEM 流出事件后的行业一齐检查，含 JVCEA 自主规制应对延迟在内的内部管理体制缺陷）|
+| 2018-06〜 | 新规开户暂停 → KYC／AML 体制重建 |
+| 2018-10 | JVCEA（日本加密资产交易业协会）认定资金结算事业者协会 认定 |
+| 2018-07 | 新规开户重启 |
+| 2019 | **控股公司化**（设立 bitFlyer Holdings，集团重组）|
+| 2019-04 | 加納裕三 CEO 卸任，后继 平子惠生 CEO 就任（基于报道）|
+| 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] 以 B2B 提供 miyabi（独有私有链）|
+| 2022 | bitFlyer EUROPE 取得 法国 AMF PSAN（加密资产服务提供者）登记 |
+| **2024** | **IPO 探讨报道**（设想东证 Growth 上市，多家媒体）|
+| **2024〜2025** | **创始人・现经营层的经营权之争 报道**（加納裕三 回归观测／股东大会对立）|
 
-## 3。业务板块图
+## 3. 业务分部地图
 
-|细分 |主要运营商|特点|
+| 分部 | 主要事业者 | 特征 |
 |---|---|---|
-|国内兑换| bitFlyer 公司 | BTC现货聚焦，闪电板交易/期货（CFD）|
-|美洲 | bitFlyer 美国公司 |持有美国多个州的MTL（货币转移牌照）|
-|欧盟| bitFlyer 欧洲有限公司 |总部位于卢森堡，法国AMF PSAN注册（2022），兼容MiCA |
-| B2B 区块链 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] | miyabi（独特的私人连锁）/咨询|
-|衍生品| bitFlyer 闪电 |国内BTC期货/FX（闪电FX）|
-|质押/外围设备 | （有限）| ETH等衍生产品将比其他公司更谨慎地开发 |
+| 国内交易所 | bitFlyer, Inc. | 以 BTC 现货为中心，Lightning 盘口交易・期货（CFD）|
+| 美洲 | bitFlyer USA, Inc. | 持有美国多州 MTL（money transmitter license）|
+| EU | bitFlyer EUROPE S.A. | 卢森堡据点，法国 AMF PSAN 登记（2022），MiCA 应对 |
+| B2B 区块链 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] | miyabi（独有私有链）／咨询 |
+| 衍生品 | bitFlyer Lightning | 国内 BTC 期货／FX（Lightning FX）|
+| 质押・周边 | （有限）| ETH 等衍生商品较他社谨慎展开 |
 
 ### 核心战略
-- **“源自日本的全球交易所”**：日本最古老的交易所之一 + 拥有美国/欧盟子公司的多个基地
-- **BTC现货集中度**：与遍布各地的山寨币（[[exchanges/jp-exchange-coincheck|coincheck]]等）不同，我们的目标是在BTC交易量/流动性方面成为第一1 。
-- **注重合规和治理**：2018 业务改进令后，强化KYC/AML系统，JVCEA类型1
-- **首次公开募股准备**（2024〜）：TSE Growth 报告预期上市，这是加密资产行业首批主要 IPO 候选者之一
+- **「日本发全球交易所」**：国内最资深一档 ＋ 通过美国／EU 子公司的多据点展开
+- **BTC 现货集中**：与山寨币百花齐放型（[[exchanges/jp-exchange-coincheck|coincheck]] 等）不同，在 BTC 交易量／流动性上志在 No.1 定位
+- **重视合规・治理**：2018 业务改善命令以后，强化 KYC／AML 体制，JVCEA Type 1 业者
+- **IPO 准备**（2024〜）：设想东证 Growth 上市的报道，加密资产行业首个主要 IPO 候选之一
 
 ### 竞争关系
 
-|竞赛|关系 |
+| 竞争者 | 关系 |
 |---|---|
-| [[exchanges/jp-exchange-bitbank|bitbank]] | BTC现货交易量争夺日本第一名
-| [[exchanges/jp-exchange-coincheck|coincheck]] | [[megabanks/ndfg]]组下处理的山寨币数量和用户数量对比 |
-| [[payment-firms/gmo-coin]] | GMO互联网体系，衍生品强势|
-| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]]型，机构投资者|
-| [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] |乐天经济区一体化的对面|
-| Binance Japan / OKJ等海外公司| 2023〜2024  与海外交易所变身国内法人的竞争加剧 |
+| [[exchanges/jp-exchange-bitbank|bitbank]] | BTC 现货交易量 国内首位之争 |
+| [[exchanges/jp-exchange-coincheck|coincheck]] | 在山寨币品种数・用户数上形成对照，隶属 [[megabanks/ndfg]] 集团 |
+| [[payment-firms/gmo-coin]] | GMO Internet 系，衍生品强 |
+| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]] 系，偏机构投资者 |
+| [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] | 与乐天经济圈整合相对立的定位 |
+| Binance Japan / OKJ 等海外系 | 与 2023〜2024 海外交易所国内法人化的竞争加剧 |
 
-### 国际扩张
-- **美国（bitFlyer USA）**：在多个州获得MTL，独立进入市场，没有日本银行或主要金融附属公司
-- **欧盟（bitFlyer 欧洲/卢森堡）**：支持2018 开放，2022 法国 PSAN、MiCA 完全适用（2024 强制执行）
-- **亚洲/中国**：未正式部署
+### 国际展开
+- **美国（bitFlyer USA）**：取得多州 MTL，不依赖日本银行系・大型金融系列的单独进入
+- **EU（bitFlyer EUROPE／卢森堡）**：2018 开业，2022 法国 PSAN，MiCA 全面适用（2024 施行）应对
+- **亚洲／中国**：无官方展开
 
 ### B2B 区块链
-- [[systems/bitflyer-blockchain|bitFlyer Blockchain]]由miyabi提供
-- 独特的私有链，声称基于BFT共识和高TPS
-- 金融机构/地方政府/NFT的B2B项目（广告曝光有限）
+- [[systems/bitflyer-blockchain|bitFlyer Blockchain]] 提供 miyabi
+- 标榜 BFT 系共识・高 TPS 的独有私有链
+- 面向金融机构／自治体／NFT 的 B2B 项目（广告曝光有限）
 
-## 5. 规制・政策
+## 5. 监管・政策
 
-- **国内监管**：金融厅/关东地方财政局
-- **加密资产交易所业务登记**：关东地方财政局第 00003 号（第一组，2017-09）
-- **自我监管**：JVCEA（日本加密资产交易协会）1（1 类）成员
-- **美国法规**：FinCEN MSB + 多州 MTL（未获得 NYDFS BitLicense）
-- **欧盟法规**：法国AMF PSAN（2022）、MiCA全面应用（2024-12～）
-- **业务改善订单历史**：2018-06（NEM泄漏后全行业检查，内控体系缺陷）
+- **国内主管**：金融厅／关东财务局
+- **加密资产交换业登记**：关东财务局长 第 00003 号（首批・2017-09）
+- **自主规制**：JVCEA（日本加密资产交易业协会）Type 1（第一种）会员
+- **美国监管**：FinCEN MSB ＋ 多州 MTL（未取得 NYDFS BitLicense）
+- **EU 监管**：法国 AMF PSAN（2022），MiCA 全面适用（2024-12〜）
+- **业务改善命令历史**：2018-06（NEM 流出后的行业一齐检查，内部管理体制缺陷）
 
-### 行业地位
-- **JVCEA类型1**（类型1）=加密资产交易业务（现货/衍生品）
-- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]] と並ぶ主要 4 社）
+### 行业定位
+- **JVCEA Type 1**（第一种）＝ 加密资产交换业（现货／衍生品）
+- 积极参与行业自主规制制定（与 [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]] 并列的主要 4 社）
 
-＃＃ 有关的
+## 相关
 
-- [[exchanges/jp-exchange-coincheck|coincheck]]·[[exchanges/jp-exchange-bitbank|bitbank]]·[[payment-firms/gmo-coin]]·[[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]·[[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
-- [[megabanks/ndfg]]·[[megabanks/sbi-hd]]·[[megabanks/mufg]]
+- [[exchanges/jp-exchange-coincheck|coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] · [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/mufg]]
 - [[systems/bitflyer-blockchain|bitFlyer Blockchain]]
 
 ## 来源
 
-- **维基百科：BitFlyer 有限公司** (https://ja.wikipedia.org/wiki/株式会社ビットフライヤー）
-- **维基百科：bitFlyer**（https://en.wikipedia.org/wiki/BitFlyer）
-- 关东地方财政局加密资产交易所业务登记清单
-- JVCEA 成员名单 (https://jvcea.or.jp/about/list/）
-- 金融厅业务改善令（2018-06-22公布）
-- 各种IPO审查报告（2024~，Nikkei/Reuters/Bloomberg）
+- **Wikipedia: 株式会社ビットフライヤー**（https://ja.wikipedia.org/wiki/株式会社ビットフライヤー）
+- **Wikipedia: bitFlyer**（https://en.wikipedia.org/wiki/BitFlyer）
+- 关东财务局 加密资产交换业者登记一览
+- JVCEA 会员名簿（https://jvcea.or.jp/about/list/）
+- 金融厅 业务改善命令（2018-06-22 公布）
+- 各类 IPO 探讨报道（2024〜，日经・路透・Bloomberg 系）
 
 ---
 

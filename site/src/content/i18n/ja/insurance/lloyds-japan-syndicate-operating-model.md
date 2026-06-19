@@ -1,107 +1,107 @@
 ---
 source: insurance/lloyds-japan-syndicate-operating-model
-source_hash: 0b5bed0446860127
+source_hash: 9c0b7a699b6b2764
 lang: ja
 status: machine
 fidelity: ok
-title: "Lloyd's Japan シンジケート運営モデル"
-translated_at: 2026-06-02T14:01:20.950Z
+title: "Lloyd's Japan syndicate operating model"
+translated_at: 2026-06-19T06:09:18.039Z
 ---
 
-# Lloyd's Japan シンジケート運営モデル
+# Lloyd's Japan syndicate operating model
 
-## 要約
+## TL;DR
 
-要点は、日本における Lloyd's のキャパシティはロンドン所在のシンジケートが供給し、その資本は法人メンバーおよび歴史的には Names に由来するという点である。日本支店は規制・業務上のインターフェースであり、リスクを負担するバランスシートではない。
+要点：日本における Lloyd's のキャパシティは、ロンドンを拠点とするシンジケートによって供給され、その資本は法人会員から、歴史的には Names から拠出される。Japan 支店はリスクを負担するバランスシートではなく、規制および業務上のインターフェースである。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[insurance/INDEX|insurance index]] の下に置かれる。エンティティ単位のページは [[non-life-insurers/lloyd-japan|Lloyd's Japan]]、通常型外資再保険会社の比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が競合・補完する相手は [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接する特殊リスク移転ルートは [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親レベルで Lloyd's を監督する Solvency II / PRA 枠組みは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] とあわせて読む。
+この項目は [[insurance/INDEX|insurance index]] の配下にある。エンティティレベルのページは [[non-life-insurers/lloyd-japan|Lloyd's Japan]]、従来型の外国再保険者パネルとの比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が誰と競合し誰を補完するかは [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接するスペシャルティ・リスク移転経路は [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親会社レベルで Lloyd's を監督する Solvency II／PRA フレームワークは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] と照らし合わせて読むこと。
 
-## 1. Lloyd's of London の実体
+## 1. Lloyd's of London が実際には何であるか
 
-Lloyd's は会社ではなく、規制されたマーケットプレイスである。
+Lloyd's は会社ではなく、規制された市場（マーケットプレイス）である。
 
 | 構成要素 | 役割 |
 |---|---|
 
-**規制。** Lloyd's は親レベルで英国 PRA と FCA の監督を受ける。Society of Lloyd's はマーケット全体を資本化する Solvency II 内部モデルを保有し、EU 側の相当主体は Lloyd's Insurance Company S.A.（Lloyd's Brussels）である。Solvency II の枠組みは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を参照。
+**規制。** Lloyd's は親会社レベルで英国 PRA および FCA によって監督されている。Society of Lloyd's は、市場全体を資本化する Solvency II 内部モデルを保有しており、その EU 相当物が Lloyd's Insurance Company S.A.（Lloyd's Brussels）である。Solvency II の枠組みについては [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を参照。
 
-**セキュリティ・チェーン。** Lloyd's は有名な **3 層のセキュリティ・チェーン**に依拠する:
+**Chain of Security。** Lloyd's はその有名な**三連鎖のセキュリティ（three-link chain of security）**に依拠している：
 
-1. シンジケート・レベルの **Premiums Trust Funds** — 第 1 の支払原資。
-2. **Members' Funds at Lloyd's (FAL)** — 第 2 の支払原資。各メンバーが自らの引受シェアを支えるために差し入れる。
+1. シンジケートレベルの **Premiums Trust Funds** — 第一順位の請求。
+2. **Members' Funds at Lloyd's (FAL)** — 第二順位の請求。各会員が自らの引受シェアを支える ために拠出する。
 
-このチェーンは、単一バランスシート型保険会社に対する構造的な代替である。このため Lloyd's Japan Inc. は、財務諸表指標で [[non-life-insurers/aig-japan|AIG Japan]] や [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] と同列比較できない。バランスシートはロンドン側にある。
+この連鎖は、単一バランスシートの保険会社に対する構造的な代替手段である。これはまた、Lloyd's Japan Inc. が財務諸表上の指標で [[non-life-insurers/aig-japan|AIG Japan]] や [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] と同等に比較できない理由でもある — バランスシートはロンドンにある。
 
-## 2. Lloyd's Japan Inc. — 何であり、何ではないか
+## 2. Lloyd's Japan Inc. — それが何であり、何でないか
 
-| 項目 | 状態 |
+| 項目 | ステータス |
 |---|---|
-| FSA 免許 | 保険業法上の損害保険会社 / 一般保険会社 ^[extracted] |
-| FSA 登録一覧への掲載 | 損害保険会社免許一覧（songai.pdf）の外国損害保険会社等セクション ^[extracted] |
+| FSA 免許 | 保険業法上の損害保険会社／一般保険会社 ^[extracted] |
+| FSA 登録簿への掲載 | 損害保険会社免許一覧 (songai.pdf)、外国保険者セクション ^[extracted] |
 | ブランド | Lloyd's of London / Lloyd's |
 
-## 3. 販売・プレースメントの流れ
+## 3. 流通および付保（プレースメント）フロー
 
-日本のリスクが Lloyd's シンジケートに到達する流れ:
+日本のリスクが Lloyd's シンジケートに到達する仕組み：
 
 ```
-日本の被保険者（企業 / 中小企業 / 船主）
+Japanese insured (corporate / SME / shipowner)
    ↓ (broker)
-日本の免許保有ブローカー（保険業法上の仲立人免許）
+Licensed Japanese broker (insurance broker under 保険業法 仲立人 license)
    ↓
-Lloyd's Japan Inc.（FSA 免許を持つ国内主体）
+Lloyd's Japan Inc. (FSA-licensed local entity)
    ↓
-ロンドン所在の Lloyd's ブローカー
+London-based Lloyd's broker
    ↓
-Lloyd's シンジケート — 共同引受市場
+Lloyd's syndicate(s) — subscription market
    ↓
-リスクが成約し、各シンジケートが自らのシェアラインを書く（5%、10%、15%...）
+Risk is bound; each syndicate writes its share line (5%, 10%, 15%...)
    ↓
-保険料と保険金は Lloyd's Japan Inc. を通じて出再者へ戻る
+Premium and claims flow back through Lloyd's Japan Inc. to the cedent
 ```
 
-## 4. シンジケート・レベルのキャパシティ範囲
+## 4. シンジケートレベルのキャパシティ・カバレッジ
 
-Lloyd's 市場はシンジケート単位の年次キャパシティ（Stamp Capacity）と Society レベルの業績を公表する。日本固有のシンジケート参加状況は種目別に公開分解されていないが、構造的には次のように読める。
+Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Stamp Capacity）と Society レベルの業績を毎年公表している。日本固有のシンジケート参加は、種目（line-of-business）の詳細レベルでは*公的に分解されていない*が、構造的な読み方は次のとおり：
 
-| シンジケート・クラスター | 典型的な日本関与 |
+| シンジケート・クラスター | 典型的な日本での関与 |
 |---|---|
 
-## 5. Lloyd's が日本で強い種目
+## 5. Lloyd's が日本でリードする種目
 
-5 つのスペシャルティ種目の説明は、Lloyd's の公開市場コメント全体で一貫している。
+5 つの種目から成るスペシャルティのストーリーは、Lloyd's の公的な市場コメンタリー全体で一貫している：
 
 ## 6. 再保険と直接引受の境界
 
-日本における Lloyd's シンジケートは、直接引受市場と再保険市場の**両方**で活動し、同じ種目内で両方を行うこともある。
+日本における Lloyd's シンジケートは、直接引受市場と再保険市場の*両方*で、時には同じ種目で、事業を行っている：
 
-| 形態 | 見え方 | カウンターパーティ | 例 |
+| モード | どのように見えるか | カウンターパーティ | 例 |
 |---|---|---|---|
-| **直接（保険）** | Lloyd's Japan Inc. が日本のブローカー経由で日本の被保険者に保険証券を発行 | 日本企業 / 中小企業 / 船主 | JAL の航空機機体、製油所のエネルギー包括、総合商社の政治リスク |
-| **再保険（特約）** | Lloyd's シンジケートが大手 3社 の出再特約に再保険者として参加 | 大手 3社 出再者 | Tokio Marine の巨大災害タワーにおける Cat XL 参加 |
-| **再保険（任意）** | Lloyd's シンジケートが、大手 3社 が引き受けた単一大型リスクに任意再保険を提供 | 大手 3社 出再者 | 単一船舶の船体任意再保険、大型不動産任意再保険 |
+| **直接（保険）** | Lloyd's Japan Inc. が日本のブローカーを通じて日本の被保険者に証券を発行する | 日本の法人／中小企業／船主 | JAL の航空機ハル；製油所のエネルギーパッケージ；総合商社向け政治リスク |
+| **再保険（特約）** | Lloyd's シンジケートが大手3社のアウトワード特約に再保険者として参加する | 大手3社 の出再者（cedent） | Tokio Marine のキャットタワーへの Cat XL 参加 |
+| **再保険（任意）** | Lloyd's シンジケートが大手3社の引き受ける単一の大型リスクに任意再保険を行う | 大手3社 の出再者（cedent） | 単一船舶のハル任意再保険；大型物件の任意再保険 |
 
-このため Lloyd's は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] の議論にも直接保険会社の比較にも登場する。Lloyd's は構造的に両方のレイヤーに存在する。
+これが、Lloyd's が [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] の議論*にも*直接保険者比較にも登場する理由である — Lloyd's は両方の層に構造的に存在している。
 
-## 7. Lloyd's Japan と通常型外資保険会社の比較
+## 7. 比較：Lloyd's Japan vs 従来型の外国保険者
 
-| 軸 | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | 通常型外資保険会社（例: [[non-life-insurers/aig-japan|AIG Japan]]、[[non-life-insurers/chubb-insurance-japan|Chubb]]） |
+| 次元 | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | 従来型の外国保険者 (例、[[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|
-| 構造 | マーケットプレイス・プラットフォーム。1 リスクに複数シンジケート | 1 つのバランスシートを持つ単一保険会社 |
-| 資本裏付け | 3 層のセキュリティ・チェーン（Premiums Trust Funds → FAL → Central Fund） | 親会社バランスシート |
-| 親レベルの規制当局 | 英国 PRA / FCA（Society レベルの Solvency II 内部モデル） | 本国規制当局（NAIC / EIOPA など） |
-| 資本規制の読み方 | Solvency II（Lloyd's グループ） | 適用される本国制度 |
-| 引受判断 | シンジケートごとに判断。共同引受が可能 | 保険会社が中央集権的に判断 |
-| スペシャルティ種目 | 強い。航空、エネルギー、政治リスク、テロ、サイバー | 保険会社により異なる |
-| 単一バランスシート比較 | 意味を持たない。リスクはロンドンのシンジケート側にある | 直接比較が可能 |
+| 構造 | マーケットプレイス・プラットフォーム；リスクごとに複数のシンジケート | 単一バランスシートを持つ単一の保険者 |
+| 資本の裏付け | 三連鎖のセキュリティ (Premiums Trust Funds → FAL → Central Fund) | 親会社のバランスシート |
+| 親会社の規制当局 | 英国 PRA／FCA (Society レベルの Solvency II 内部モデル) | 本国の規制当局 (NAIC／EIOPA／等) |
+| 資本規制の読み方 | Solvency II (Lloyd's グループ) | 適用される本国規制のいずれか |
+| 引受の意思決定 | シンジケートごとに行われる；サブスクリプションが可能 | キャリアが中央集権的に行う |
+| スペシャルティ種目 | 強い — 航空、エネルギー、政治、テロ、サイバー | 可変 — キャリアによる |
+| 単一バランスシート比較 | 意味をなさない — リスクはロンドンのシンジケートにある | 直接比較が可能 |
 
-## 9. この運営モデルが重要な理由
+## 9. この事業モデルが重要な理由
 
-- **Solvency II との交差。** Lloyd's の親資本規制は Solvency II であるため、サイクルを通じた Lloyd's の価格形成は、日本の自然災害リスクに対する Solvency II SCR 感応度にも部分的に左右される。これは US-RBC 規制の保険会社には存在しない伝達経路である。[[insurance/global-solvency-framework-comparison-matrix]] を参照。
+- **Solvency II のクロスオーバー。** Lloyd's の親会社の資本規制が Solvency II であるため、サイクルを通じた Lloyd's のプライシングは、日本の自然災害（natcat）に対する Solvency II SCR 感応度に部分的に駆動される — これは US-RBC 規制下のキャリアには存在しない伝達チャネルである。[[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
-## 関連項目
+## 関連
 
 - [[insurance/INDEX]]
 - [[insurance/japan-nonlife-big-three]]
@@ -125,10 +125,10 @@ Lloyd's 市場はシンジケート単位の年次キャパシティ（Stamp Cap
 - [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- Lloyd's of London: Japan ページ (https://www.lloyds.com/japan).
-- Lloyd's of London: Lloyd's と市場に関する説明ページ（Society 構造、シンジケート数、セキュリティ・チェーン）。
-- Lloyd's 年次報告書・決算書（Society of Lloyd's の最新公開版）。
-- FSA: 損害保険会社免許一覧（songai.pdf）、外国損害保険会社等セクション。
-- General Insurance Association of Japan（損保協会）: 業界概要。
+- Lloyd's of London: Japan page (https://www.lloyds.com/japan).
+- Lloyd's of London: About Lloyd's and Our Market pages (Society structure, syndicate count, chain of security).
+- Lloyd's Annual Report and Accounts (Society of Lloyd's, latest public version).
+- FSA: 損害保険会社免許一覧 (songai.pdf), foreign-insurer section.
+- General Insurance Association of Japan (損保協会): industry overview.

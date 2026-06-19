@@ -1,49 +1,49 @@
 ---
 source: securities-firms/mizuho-securities
-source_hash: c876a226b8e32da2
+source_hash: f51df3085a37c804
 lang: ja
 status: machine
 fidelity: ok
 title: "みずほ証券"
-translated_at: 2026-06-02T14:54:39.040Z
+translated_at: 2026-06-19T12:43:19.929Z
 ---
 
 # みずほ証券
 
-## 要約
+## TL;DR
 
-みずほ証券は [[megabanks/mizuho-fg|Mizuho Financial Group]] の証券事業会社。登録金融商品取引業者であり、FSA の金融商品取引業者一覧では、みずほ証券株式会社が関東財務局長（金商）第 94, 号、第一種・第二種金融商品取引業、投資助言・代理業、投資運用業の登録および JSDA 加入会社として確認できる。
+みずほ証券は [[megabanks/mizuho-fg|Mizuho Financial Group]] の証券アームである。登録金融商品取引業者であり；FSA の金融商品取引業者一覧では、みずほ証券株式会社が第一種 / 第二種 / 投資助言・代理 / 投資運用の登録および JSDA 会員資格を持つ関東財務局（FIBO）第 94, 号として識別される。
 
-このページは、みずほの証券・投資銀行レイヤーを読むためのものであり、銀行預金や信託銀行の分析ページではない。
+このページは、みずほの証券 / 投資銀行層のために使用すること。銀行預金や信託銀行の分析のためではない。
 
-## 位置づけ
+## ポジショニング
 
-| 観点 | 読み方 |
+| レンズ | 読み解き |
 |---|---|
-| グループ内の役割 | [[megabanks/mizuho-fg|Mizuho FG]] 内の証券子会社。 |
-| 免許上の領域 | FIEA / 金融商品取引業者。[[financial-licenses/INDEX|JapanFG legal / financial licenses]] を通じて位置づける。 |
-| 事業領域 | ブローカレッジ、引受、投資銀行、マーケッツ、ストラクチャードファイナンス、機関投資家・法人向け証券サービス。 |
-| 競合群 | [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mufg-mums]]. |
+| グループ役割 | [[megabanks/mizuho-fg|Mizuho FG]] 内の証券子会社。 |
+| ライセンスレーン | FIEA / 金融商品取引業者；[[financial-licenses/INDEX|JapanFG legal / financial licenses]] を通じてルーティングされる。 |
+| ビジネスレーン | ブローカレッジ、引受、投資銀行、マーケッツ、ストラクチャードファイナンス、機関 / 法人向け証券サービス。 |
+| 競合セット | [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mufg-mums]]。 |
 
-## JapanFG での重要性
+## JapanFG との関連性
 
-みずほ証券が重要なのは、日本のメガバンク系証券会社が次の接点に位置するためである。
+みずほ証券が重要なのは、日本のメガバンク証券アームが以下のインターフェースに位置するからである：
 
-- 銀行顧客との関係。
-- 企業金融および債券・株式の引受。
-- 個人・職域向け資産形成商品の販売。
-- JGB、金利、ストラクチャード商品の市場。
-- グループ内の利益相反管理とファイアウォール規制。
+- 銀行の顧客リレーションシップ；
+- コーポレートファイナンスおよび債券 / 株式引受；
+- リテールおよび職場の資産形成ディストリビューション；
+- JGB / 金利 / ストラクチャード商品市場；
+- グループレベルの利益相反管理およびファイアウォール規則。
 
-家計の投資資金フローは [[securities/nisa-2024-flow]]、引受やリーグテーブルの読み方は [[finance/japan-ib-league-table]] と接続して読む。
+リテール家計の投資フローについては [[securities/nisa-2024-flow]] に接続すること。引受およびリーグテーブルの解釈については [[finance/japan-ib-league-table]] に接続すること。
 
-## 境界事例
+## 境界ケース
 
-- みずほ証券は、みずほ銀行と同一の法人ではない。
-- 証券勧誘と引受は FIEA / JSDA の論点であり、預金受入は銀行法上の論点である。
-- グループ内の銀行取引関係は案件組成に役立つ一方、利益相反管理の義務も生む。
+- みずほ証券はみずほ銀行と同じ法人ではない。
+- 証券勧誘および引受は FIEA / JSDA の問題；預金受入は依然として銀行法の問題である。
+- グループの銀行リレーションシップはオリジネーションを助け得るが、利益相反管理義務も生み出す。
 
-## 関連項目
+## 関連
 
 - [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
@@ -56,8 +56,8 @@ translated_at: 2026-06-02T14:54:39.040Z
 - [[finance/japan-ib-league-table]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## ソース
 
-- みずほ証券: 会社概要。
-- FSA: 金融商品取引業者登録一覧。
-- FSA: グループ内の銀行・証券境界に関する主要行向け監督指針。
+- みずほ証券：会社概要。
+- FSA：金融商品取引業者登録一覧。
+- FSA：グループ / 銀行証券の境界の文脈のための主要行向け監督指針。

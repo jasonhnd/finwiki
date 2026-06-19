@@ -1,54 +1,55 @@
 ---
 source: securities/osaka-digital-exchange
-source_hash: c09c8f8c9d1323b6
+source_hash: 2b0f5f35c01627c9
 lang: zh
 status: machine
 fidelity: ok
-title: "大阪数字交易所 (ODX)"
-translated_at: 2026-06-01T04:15:40.113Z
+title: "大阪デジタルエクスチェンジ (ODX)"
+translated_at: 2026-06-19T12:43:19.988Z
 ---
-# 大阪数字交易所 (ODX)
 
-## Wiki 路线
+# 大阪デジタルエクスチェンジ (ODX)
 
-本条目位于 [[securities/INDEX|securities index]] 下。请结合 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 阅读相邻背景，并结合 [[financial-licenses/INDEX|JapanFG index]] 阅读更广泛的系统边界。
+## Wiki 路径
+
+本词条归属于 [[securities/INDEX|securities index]]。请与 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 对照阅读以获取相邻语境，并参照 [[financial-licenses/INDEX|JapanFG index]] 了解更宏观的系统边界。
 
 ## TL;DR
 
-Osaka Digital Exchange 运营股票 PTS 以及 START，即面向证券型代币的私设交易系统。ODX 官方公司简介将股票 PTS 运营和证券型代币 PTS 运营列为其业务，官网也将 START 描述为日本国内首个有组织的证券型代币二级市场。
+大阪数字交易所（Osaka Digital Exchange）运营一个股票 PTS，以及面向证券型代币的私设交易系统 START。ODX 的官方公司简介将股票 PTS 运营与证券型代币 PTS 运营列为其业务，其网站将 START 描述为国内首个证券型代币的有组织二级市场。
 
-对于 FinWiki，ODX 是传统证券市场结构与代币化证券之间的桥梁。
+对 FinWiki 而言，ODX 是旧有证券市场结构与代币化证券之间的桥梁。
 
-## 系统图
+## System Map
 
-| 层级 | 解读 |
+| Layer | Reading |
 |---|---|
-| 法定名称 | 大阪数字交易所株式会社 |
-| 成立 | 2021-04-01 |
-| 注册 | 关东财务局金融工具业务运营商第 3328 号 |
-| 业务 | 股票 PTS 与证券型代币 PTS 运营。 |
-| 主要股东 | SBI PTS Holdings、SMFG、Nomura Holdings、Daiwa Securities Group、Cboe Worldwide Holdings。 |
-| 协会 | JSDA 赞助会员；Japan STO Association 和 Japan Security Token Association 赞助会员。 |
+| Legal name | 大阪デジタルエクスチェンジ株式会社 |
+| Founded | 2021-04-01 |
+| Registration | 关东财务局 金商 第3328 号|
+| Business | 股票 PTS 与证券型代币 PTS 运营。 |
+| Main shareholders | SBI PTS 控股、SMFG、野村控股、大和证券集团、Cboe Worldwide Holdings。 |
+| Associations | JSDA 赞助会员；日本 STO 协会与日本证券型代币协会赞助会员。 |
 
-## 市场图
+## Market Map
 
-| 市场 | 解读 |
+| Market | Reading |
 |---|---|
-| ODX Equity PTS | 面向上市股票的第三个 PTS 场所；旨在提升执行竞争和流动性。 |
-| START | 拥有自身规则手册和 START 标识符的证券型代币二级市场。 |
-| 代币化存款 DvP 测试 | ODX 围绕证券型代币交易的代币化存款结算实验有公开新闻流。 |
+| ODX Equity PTS | 面向上市股票的第三家 PTS 交易场所；旨在改善执行竞争与流动性。 |
+| START | 拥有自有规则手册与 START 标识符的证券型代币二级市场。 |
+| Tokenized deposit DvP tests | ODX 拥有围绕证券型代币交易的代币化存款结算实验的公开新闻动态。 |
 
-## 战略解读
+## Strategic Reading
 
-ODX 重要，是因为它把三个主题放入同一个实体：
+ODX 之所以重要，是因为它将三个主题整合进同一个实体：
 
-- 与 [[securities/tokyo-stock-exchange|TSE]] 执行竞争的 PTS（同类场所：[[securities/japannext-securities|Japannext]]）；
-- 与 [[payment-firms/progmat|Progmat]] 代币化基础设施绑定的证券型代币二级流动性；
-- 由 [[megabanks/smfg|SMFG]] / [[securities-firms/nomura-hd|Nomura]] / [[megabanks/sbi-hd|SBI HD]] 股东协调的银行支持型数字结算实验。
+- 对 [[securities/tokyo-stock-exchange|TSE]] 执行的 PTS 竞争（同类场所：[[securities/japannext-securities|Japannext]]）；
+- 与 [[payment-firms/progmat|Progmat]] 代币化基础设施相关联的证券型代币二级流动性；
+- 与 [[megabanks/smfg|SMFG]] / [[securities-firms/nomura-hd|Nomura]] / [[megabanks/sbi-hd|SBI HD]] 股东协同的、由银行支持的数字结算实验。
 
-它应与 [[fintech/jp-stablecoin-progmat|Progmat]]、信托型稳定币设计以及证券结算基础设施（[[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]]）一起阅读。
+它应与 [[fintech/jp-stablecoin-progmat|Progmat]]、信托型稳定币设计以及证券结算基础设施（[[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]]）一并阅读。
 
-## 相关
+## Related
 
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japannext-securities]]
@@ -61,9 +62,9 @@ ODX 重要，是因为它把三个主题放入同一个实体：
 - [[securities-firms/nomura-hd]]
 - [[securities-firms/daiwa-sg]]
 
-## 来源
+## Sources
 
-- ODX：公司网站。
-- ODX：公司简介。
-- ODX：START 启动日期公告。
-- FSA：金融工具业务运营商名单。
+- ODX: Corporate site.
+- ODX: Company profile.
+- ODX: START launch-date notice.
+- FSA: Financial instruments business operator list.

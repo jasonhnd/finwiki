@@ -1,43 +1,45 @@
 ---
 source: non-life-insurers/toa-reinsurance
-source_hash: 0df0c91d2cd0a4fd
+source_hash: ac83ea51181cc4c0
 lang: ja
 status: machine
 fidelity: ok
 title: "トーア再保険"
-translated_at: 2026-06-02T16:33:58.492Z
+translated_at: 2026-06-19T06:09:18.120Z
 ---
+
 # トーア再保険
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置する。ピア / 対比の文脈については [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] と、より広い制度 / 規制境界については [[insurance/INDEX|insurance index]] と照らして読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア／対比のコンテキストとして [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] と、より広範なシステム／規制境界として [[insurance/INDEX|insurance index]] と併せて読むこと。
 
-## 要約
+## TL;DR
 
-トーア再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される日本の再保険会社である。元受保険会社ではなく、保険会社からリスクを引き受ける reinsurance operating company として JapanFG に置く。
-## 1. 免許 / グループ境界
+トーア再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される日本の再保険会社。元受保険会社（primary insurer）ではなく、保険会社からリスクを引き受ける再保険オペレーティング・カンパニーとして JapanFG に置く。
 
-| 項目 | 注記 |
+## 1. License / group boundary
+
+| Item | Notes |
 |---|---|
-| 法人名 | トーア再保険株式会社 |
-| 免許ルート | 保険業法上の損害保険会社。FSA 損害保険会社一覧 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| 事業種別 | 再保険 |
-| Wiki 上の役割 | 日本の再保険 operating-company anchor |
+| Legal name | トーア再保険株式会社 |
+| License route | 保険業法上の損害保険会社；金融庁の損害保険会社一覧 |
+| Protection scheme | 損害保険契約者保護機構（Non-Life Insurance Policyholders Protection Corporation）会員 |
+| Business type | 再保険 |
+| Wiki role | 日本の再保険オペレーティング・カンパニー・アンカー |
 
-## 2. 事業モデル
+## 2. Operating model
 
-再保険は、巨大災害、死亡 / 疾病、賠償責任、大口損害のリスクを、保険会社とグローバル資本の間で再配分する。トーア再保険が重要なのは、日本の元受保険会社のリスク許容力が、[[non-life-insurers/tokio-marine|東京海上 HD]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO HD]] の大手損保が [[insurance/natcat-reinsurance-japan|natcat reinsurance arrangements]] を通じて巨大災害エクスポージャーの一部を出再する関係を含め、国内外の再保険関係によって部分的に形づくられるためである。
+再保険は、カタストロフィ、死亡／罹患、賠償、巨大損害のリスクを保険会社間およびグローバルな資本へ再配分する。日本の元受保険会社のリスク引受余力は、国内およびグローバルな再保険関係によって部分的に形成されており、その中には [[insurance/natcat-reinsurance-japan|natcat reinsurance arrangements]] を通じてカタストロフィ・エクスポージャーの一部を出再する損保大手三社 [[non-life-insurers/tokio-marine|東京海上 HD]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO HD]] も含まれるため、トーア再保険は重要である。
 
-## 3. このページが重要な理由
+## 3. Why this page matters
 
-- 再保険 operating-company anchor を追加する。
+- 再保険オペレーティング・カンパニー・アンカーを追加する。
 - 損保ページを [[insurance/natcat-reinsurance-japan]] と接続する。
-- レジストリに裏づけられた D5 specialty / reinsurance ページ。
+- レジストリに裏付けられた D5 専門種目／再保険ページ。
 
-## 関連項目
+## Related
 
 - [[insurance/natcat-reinsurance-japan]]
 - [[non-life-insurers/japan-earthquake-reinsurance]]
@@ -45,8 +47,8 @@ translated_at: 2026-06-02T16:33:58.492Z
 - [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
-## 出典
+## Sources
 
-- FSA: 2026-04-01 時点の損害保険会社免許一覧。
-- 損害保険契約者保護機構: 2026-04 時点の会員会社一覧。
-- トーア再保険公式サイト。
+- 金融庁：損害保険会社免許一覧、2026-04-01 時点。
+- 損害保険契約者保護機構（Non-Life Insurance Policyholders Protection Corporation of Japan）：会員会社一覧、2026-04 時点。
+- トーア再保険 公式ウェブサイト。

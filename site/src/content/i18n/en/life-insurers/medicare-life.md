@@ -1,13 +1,15 @@
 ---
 source: life-insurers/medicare-life
-source_hash: ab4d5cec652d6c07
+source_hash: 1328ddf50cc2b04b
 lang: en
 status: machine
 fidelity: ok
-title: "Medicare Life Insurance"
-translated_at: 2026-05-31T23:59:49.411Z
+title: "Medicare Life Insurance (メディケア生命保険)"
+translated_at: 2026-06-19T06:09:18.190Z
 ---
-# Medicare Life Insurance
+
+# Medicare Life Insurance (メディケア生命保険)
+
 
 ## Wiki route
 
@@ -15,13 +17,13 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Medicare Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/sumitomo-life]] group, listed on the FSA life-insurer list and the Life Insurance Association of Japan member list. It is separated from the Sumitomo Life parent entity as a specialty insurer focused on medical / protection products and multi-channel distribution.
+Medicare Life Insurance Co., Ltd. (メディケア生命保険株式会社) is the life-insurance operating company of the [[life-insurers/sumitomo-life]] group, listed on the FSA life-insurer list and the Life Insurance Association of Japan member list. It is carved out from the Sumitomo Life parent itself as a specialty insurer focused on medical / protection product focus and multi-channel distribution.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Medicare Life Insurance Co., Ltd. |
+| Legal name | メディケア生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
 | Group boundary | [[life-insurers/sumitomo-life]] group |
@@ -29,13 +31,13 @@ Medicare Life Insurance Co., Ltd. is a life-insurance operating company in the [
 
 ## 2. Operating model
 
-Medicare Life combines medical insurance and simple protection products with the parent insurer's brand / capital support and a more flexible product-channel strategy. Comparing it with [[life-insurers/hanasaku-life]] and [[life-insurers/nanairo-life]] makes visible the specialty-subsidiary strategy used by major life-insurer groups.
+Medicare Life is an insurer that, centered on medical insurance and simple protection products, combines the parent insurer's brand / capital support with a more flexible product-channel strategy. Placed alongside [[life-insurers/hanasaku-life]] and [[life-insurers/nanairo-life]], the specialty-subsidiary strategy of the major life-insurer groups becomes visible.
 
 ## 3. Why this page matters
 
 - Separates Sumitomo Life group specialty insurer from parent mutual company.
 - Useful for medical-insurance channel and product comparison.
-- Registry-backed D2  specialty insurer.
+- Registry-backed D2 specialty insurer.
 
 ## Related
 
@@ -49,4 +51,4 @@ Medicare Life combines medical insurance and simple protection products with the
 
 - FSA: life-insurance company license list, as of 2026-04-13.
 - Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- Medicare Life official website.
+- メディケア生命 official website.

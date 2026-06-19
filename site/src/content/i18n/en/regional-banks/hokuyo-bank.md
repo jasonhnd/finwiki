@@ -1,55 +1,128 @@
 ---
 source: regional-banks/hokuyo-bank
-source_hash: 684d164a3f078bd8
+source_hash: 0b9ba9265f06a240
 lang: en
 status: machine
 fidelity: ok
-title: "North Pacific Bank"
-translated_at: 2026-05-31T15:29:03.868Z
+title: "Hokuyo Bank"
+translated_at: 2026-06-19T12:43:19.911Z
 ---
-# North Pacific Bank
+
+# Hokuyo Bank
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Source-context anchors: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/jimoto-hd|JIMOTO Holdings]] [[banking/INDEX|banking index]] 13 兆 4467 億円 11 兆 1039 億円 171  2024  2025 03  1917  1951  1989  1998 11  1  3 7 1
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-This page records the public-information boundary for North Pacific Bank in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source fragments are retained in source order.
+Hokkaido's largest regional financial institution (total assets **13 兆 4467 億円** / deposits 11 兆 1039 億円 / branches 171 / FY2024  = 2025-03  results, consolidated). Originating from **Hokkaido Mujin**, established in 1917 , it became **Hokuyo Sogo (Mutual) Bank** upon conversion to a mutual bank in 1951 , and **Hokuyo Bank** upon conversion to an ordinary bank in 1989 . A member of the Second Association of Regional Banks. The decisive episode was its **takeover of the in-prefecture operations of the former Hokkaido Takushoku Bank in 1998-11 **, which propelled its in-prefecture share to No.1 . Head office: Odori-nishi 3-7, Chuo-ku, Sapporo (Hokuyo Odori Center).
 
-## License / group boundary
+## 1. Company overview
 
-| Item | Notes |
+**Legal name**: Hokuyo Bank, Ltd. / English name: North Pacific Bank, Ltd.
+**Established**: Taisho 6  (1917 年), month 8  day 20  (as Hokkaido Mujin Co., Ltd.)
+**Head office**: Odori-nishi 3 -chome 7 -banchi, Chuo-ku, Sapporo, Hokkaido (inside Hokuyo Odori Center)
+**Business type**: Member of the Second Association of Regional Banks
+**Parent-company background**: Former listed holding company **Sapporo Hokuyo Holdings (TSE / Sapporo SE 8328) → 2012-10-01 dissolved and delisted via reverse-absorption merger by Hokuyo Bank** (the 3 th case in Japan of a subsidiary bank absorbing its holding company, following Momiji HD and Kirayaka HD). **Now a non-listed standalone bank**
+
+### 2025-03  results (consolidated)
+
+| Item | Amount |
 |---|---|
-| Entity | North Pacific Bank |
-| Page role | Separates the operating company, holding company, historical entity, subsidiary, or regulatory function. |
-| Reading boundary | License, group, succession, and business-scope details follow the public sources listed in the source file. |
+| Total assets | **13 兆 4467 億 3600 万円** |
+| Deposit balance | 11 兆 1039 億 9400 万円 |
+| Capital | 1211 億 0100 万円 |
+| Number of branches | 171 店 (head / branch offices, sub-branches, overseas representative offices) |
+| Employees (consolidated) | 2,772 名 |
 
-## Business role
+### Major subsidiaries / group companies
 
-- Explains the entity's main business, institutional position, or historical function in Japan's financial system.
-- Keeps banking, securities, insurance, asset management, payments, crypto-assets, leasing, research / consulting, and regulatory-supervision boundaries separate.
-- For mergers, renamings, integrations, transfers, or historical bodies, avoids treating an old name as a current standalone entity.
+- **Hokuyo Securities** (100%) — retail securities, formerly of the Daido Securities group
+- **Sapporo Hokuyo Lease** — leasing business
+- **Sapporo Hokuyo Card** — credit cards
+- **Hokuyo Business Service** — back-office agency
+- Former: Sapporo Hokuyo HD (dissolved 2012-10-01)
 
-## Peer / contrast
+### Merger / predecessor background
 
-- Read together with the related pages and peer clusters represented in the source file.
-- Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
-- For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
+- **1917-08-20**: Hokkaido Mujin established (Sapporo, mujin business)
+- **1951**: Mutual Bank Act enacted → renamed **Hokuyo Sogo (Mutual) Bank**
+- **1989-02**: converted to ordinary bank → renamed **Hokuyo Bank** (transitioned to a second-tier regional bank)
+- **1998-11-13**: signed the agreement to take over the in-prefecture operations of the former **Hokkaido Takushoku Bank** ★
+- **1998-11-16**: took over **109 店 branches** from Takugin, bringing total branches to 231 店 and deposit volume to approximately 4.7 兆円
+- **2001-04**: established the holding company "**Sapporo Hokuyo Holdings**," listed on TSE / Sapporo SE 8328 
+- **2008-10-14**: merged with **Sapporo Bank** (formerly Sapporo Mutual Bank), ending Sapporo Bank's 58 -year history
+- **2012-10-01**: Sapporo Hokuyo HD reverse-absorbed by Hokuyo Bank → holding company dissolved and delisted
 
-## Source-fragment continuation
+> Correction note: the question prompt states "holding company dissolved via 2017-05  merger," but per Wikipedia public information, **2012-10-01** is the accurate dissolution date. This note follows the public source.
 
-- 6  1917 年 8  20  3  7  8328 2012-10-01 3  2025 03  13 兆 4467 億 3600 万円 11 兆 1039 億 9400 万円 1211 億 0100 万円 171 店
-- 2,772 名 100% 2012-10-01 1917-08-20 1951 1989 02 1998-11-13 1998-11-16 109 店 231 店 4.7 兆円 2001 04 8328  2008-10-14 58  2012-10-01 2017 05
-- 2012-10-01 1917 08  1951  1989 02  1998-11-13 1998-11-16 109 店 1  2001 04  8328  2008-10-14 2012-10-01 2025 03  13.4 兆円 11.1 兆円 2
-- 1 [[regional-banks/hokuhoku-fg]] 100% 2 [[regional-banks/hokuhoku-fg]] [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] 1997-11-17 1998 11  109 店 1 3 行 1 5  1 10  3 位 1
-- 2 1985 10  4 2024 25  2023 11 [[regional-banks/hokuhoku-fg]] 2 [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] [[megabanks/ndfg]] [[megabanks/sbi-hd]] 2026-05-19 2026-05-19 2026-05-19 2008-10-14 081014
-- 2026-05-19 2024  2025 03  2017 05  2012-10-01 1998 09  1998-11-13 1998-11-16
+### Key chronology (excerpt)
+
+| Year/month | Event |
+|---|---|
+| 1917-08 | Hokkaido Mujin established |
+| 1951 | Hokuyo Sogo (Mutual) Bank (conversion to mutual bank) |
+| 1989-02 | Hokuyo Bank (conversion to ordinary bank) |
+| **1998-11-13** | **Agreement to take over former Takugin's in-prefecture operations** |
+| 1998-11-16 | Took over Takugin's in-prefecture 109 店 → rose to in-prefecture No.1  |
+| 2001-04 | Sapporo Hokuyo HD established, listed on TSE / Sapporo SE 8328  |
+| 2008-10-14 | Merged Sapporo Bank (Sapporo Bank ceased to exist) |
+| **2012-10-01** | **Sapporo Hokuyo HD dissolved** (reverse-absorbed by Hokuyo Bank) and delisted |
+| 2025-03  | Total assets 13.4 兆円 / deposits 11.1 兆円 |
+
+## 2. Business-segment map
+
+| Segment | Main business | Features |
+|---|---|---|
+| Individual | Deposits, mortgages, cards, investment trusts | In-prefecture share No.1, the largest second-tier-regional-bank retail network |
+| Corporate | Lending to Hokkaido mid-cap and SME businesses | Took over Takugin's corporate transactions; main bank to many in-prefecture |
+| Public | Designated financial-institution business (partial) for the Hokkaido Government, Sapporo City, etc. | Shared with Dogin (under [[regional-banks/hokuhoku-fg]]) |
+| Securities | Hokuyo Securities (100%) | Retail securities |
+| Leasing | Sapporo Hokuyo Lease | Group complement |
+
+### Competitive environment
+
+- **In-prefecture No.2**: **Hokkaido Bank** ([[regional-banks/hokuhoku-fg]] = under HOKUHOKU FG, a Regional Banks Association member) — the in-prefecture share contest has long been a two-pole structure of "**Dogin vs Hokuyo**"
+- **Kitashin brand**: Hokkaido Shinkin-chukin affiliated, a regional shinkin federation
+- **Megabank in-prefecture bases**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] — overlapping in urban areas and large corporate accounts, but Hokuyo has the edge in in-prefecture retail penetration
+- **Japan Post Bank / JA Bank**: deposit-acquisition competitors
+
+### Historical significance of the Takugin takeover ★
+
+1997-11-17 Hokkaido Takushoku Bank failed (the first failure of a city bank) → 1998-11  transferred its in-prefecture 109 店 to Hokuyo Bank. At the time, Hokuyo had only **1/3 行 of Takugin's employees, 1/5  of its total assets, and 1/10  of its capital** — a 3 位 second-tier regional bank within the prefecture. Swallowing it to become in-prefecture No.1  was described as **"the snake that swallowed the whale."** The Honshu business was transferred to Chuo Trust Bank (→ Sumitomo Mitsui Trust).
+
+### B2C branding
+
+- Logo mark introduced in 1985-10  (the Hokuyo Mutual era)
+- "**The bank of Hokkaido's people**" positioning rooted in Hokkaido
+- The head office "Hokuyo Odori Center" is a landmark along Sapporo's Odori Park
+
+## 4. Regulation / policy
+
+- **Supervision**: FSA / Hokkaido Local Finance Bureau, Ministry of Finance
+- **Industry body**: Second Association of Regional Banks
+- **Designated financial institution**: collection of certain public funds for the Hokkaido Government, etc.
+- **Recent policy points**:
+  - 2024~ BOJ policy-rate normalization → deposit-loan margin improvement bonus
+  - In-prefecture population decline / intensifying competition with Dogin
+  - The summing-up phase at the 25 th anniversary of the Takugin takeover (2023-11)
 
 ## Related
 
-- Related entries are represented by the protected source fragments above.
+- [[regional-banks/hokuhoku-fg]] (in-prefecture No.2 / parent company of Hokkaido Bank)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabank in-prefecture bases)
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 
-- FSA, industry-association, company-site, IR, public-disclosure, Wikipedia, or other public sources listed in the source file.
+- **Wikipedia: Hokuyo Bank** (https://ja.wikipedia.org/wiki/北洋銀行, 2026-05-19 extraction)
+- **Wikipedia: Sapporo Hokuyo Holdings** (2026-05-19 extraction)
+- **Wikipedia: Hokkaido Takushoku Bank** (2026-05-19 extraction)
+- **Ministry of Finance, Hokkaido Local Finance Bureau "Hokuyo Bank, Sapporo Bank" announcement** (2008-10-14, lfb.mof.go.jp/hokkaido/kinyu/gappei/081014.html)
+- Hokuyo Bank official history (hokuyobank.co.jp/about/company/history.html)
+
+---
+
+> [!info] 検証状況
+> confidence: **likely** (based on Wikipedia + official history / Hokkaido Local Finance Bureau announcements, 2026-05-19 extraction). FY2024  = 2025-03  figures are from official IR via Wikipedia. The prompt's statement "holding company dissolved 2017-05 " has been corrected to **2012-10-01** (on public-source grounds). "Takugin takeover 1998-09 " has also been corrected to contract signing **1998-11-13** / operations takeover **1998-11-16**.

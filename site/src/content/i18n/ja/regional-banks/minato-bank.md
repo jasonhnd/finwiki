@@ -1,65 +1,55 @@
 ---
 source: regional-banks/minato-bank
-source_hash: c3da6d94010f0596
+source_hash: 1370dcc60815857c
 lang: ja
 status: machine
 fidelity: ok
 title: "みなと銀行"
-translated_at: 2026-06-02T14:54:39.054Z
+translated_at: 2026-06-19T12:43:19.880Z
 ---
+
 # みなと銀行
 
-## ウィキ上の位置づけ
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置かれる。[[regional-banks/tajima-bank|但馬銀行]] は同業・隣接項目との比較先であり、[[banking/INDEX|banking index]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+## Wiki route
 
-## 要約
+本項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。ピア / 対比のコンテキストとして [[regional-banks/tajima-bank|但馬銀行]] と、より広範なシステム / 規制境界として [[banking/INDEX|banking index]] と併せて読むこと。
 
-みなと銀行 は、兵庫県、神戸市、阪神間 を主な文脈として読む地域金融機関 である。[[megabanks/resona-hd]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+## TL;DR
 
-## [[regional-banks/kansai-mirai-bank]]. ライセンス・グループ境界
+株式会社みなと銀行は、金融庁の銀行免許一覧に掲載される兵庫県本店の第二地方銀行。[[megabanks/resona-hd]] 傘下の Hyogo / Kansai operating bank であり、[[regional-banks/kansai-mirai-bank]] とは別の bank-license entity として扱う。
 
-| 項目 | メモ |
+## 1. License / group boundary
+
+| Item | Notes |
 |---|---|
-| 正式名称 | みなと銀行 |
-| 種別 | 地域金融機関 |
-| 主な市場 | 兵庫県、神戸市、阪神間 |
-| 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
-| 比較参照 | 1 |
-| 関連境界 | [[megabanks/resona-hd]] |
+| Legal name | 株式会社みなと銀行 |
+| License route | Banking Act second regional bank; FSA bank license list |
+| Group boundary | [[megabanks/resona-hd]] group bank |
+| Home market | Hyogo / Kobe / Kansai |
+| Wiki role | Hyogo second-regional-bank operating-company page |
 
-## 2. 事業モデル
+## 2. Operating model
 
-みなと銀行 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは [[megabanks/resona-hd]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+みなと銀行は、兵庫県を中心に retail deposits, SME finance, mortgage / consumer banking, and Kansai-area business support を担う second regional bank。[[megabanks/resona-hd]] page は group strategy を扱い、本ページは current bank-license entity を扱う。
 
-| 観点 | 読み方 |
-|---|---|
-| 営業地盤 | 兵庫県、神戸市、阪神間 での顧客接点、店舗網、法人取引、個人向けサービスを確認する。 |
-| ライセンス | 免許、登録、業務区分、監督当局を公開一覧で確認する。 |
-| グループ | 親会社、持株会社、提携先、協同組織との関係を切り分ける。 |
-| 比較 | 同じ地域、同じ業態、同じグループ階層の項目と横並びで読む。 |
+## 3. Why this page matters
 
-## 3. このページが重要な理由
+- Closes the FSA exact-name page for みなと銀行.
+- Separates the Hyogo bank license from [[regional-banks/kansai-mirai-bank]] and [[megabanks/resona-hd]] group-level strategy.
+- Provides a peer anchor for [[regional-banks/tajima-bank]], [[regional-banks/ikeda-senshu-bank]], and [[regional-banks/kyoto-bank]] in the Kansai banking market.
 
-- みなと銀行 を会社または制度単位で参照できる入口にする。
-- 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[regional-banks/kansai-mirai-bank]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[megabanks/resona-hd]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+## Related
 
-## 関連
-
-- [[regional-banks/tajima-bank]]
-- [[regional-banks/ikeda-senshu-bank]]
-- [[regional-banks/kyoto-bank]]
 - [[megabanks/resona-hd]]
 - [[megabanks/resona-bank]]
 - [[regional-banks/kansai-mirai-bank]]
 - [[regional-banks/tajima-bank]]
 - [[regional-banks/ikeda-senshu-bank]]
+- [[banking/regional-bank-consolidation-pattern]]
+- [[banking/INDEX]]
 
-## 出典
+## Sources
 
-- 金融庁の公開登録一覧: みなと銀行 に関する公開情報（[[banking/regional-bank-consolidation-pattern]]）。
-- 公式会社情報: みなと銀行 に関する公開情報（[[banking/INDEX]]）。
-- 上場会社開示または公開資料: みなと銀行 に関する公開情報（2026-05-02）。
+- FSA: bank license list, second regional banks / other, as of 2026-05-02.
+- Minato Bank official company profile.

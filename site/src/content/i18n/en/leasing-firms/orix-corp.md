@@ -1,149 +1,150 @@
 ---
 source: leasing-firms/orix-corp
-source_hash: 70fffad576d76c9d
+source_hash: cc00c969aa6fc607
 lang: en
 status: machine
 fidelity: ok
-title: "ORIX Corporation"
-translated_at: 2026-06-01T00:41:50.473Z
+title: "ORIX Corporation (オリックス株式会社)"
+translated_at: 2026-06-19T06:09:18.086Z
 ---
-# ORIX Corporation
 
-## Wiki Route
+# ORIX Corporation (オリックス株式会社)
+
+## Wiki route
 
 This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-ORIX is Japan's largest integrated financial-services conglomerate. It was established in 1964-04-17 as the former Orient Leasing through joint investment by Sanwa Bank, Nichimen Jitsugyo, Nichimen, and other 5 社 parties. Starting from leasing, it diversified into 10  segments: corporate finance, automobiles, real estate, business investment, environment and energy, insurance, banking, asset management, the Americas, and Asia / Australia. Structurally it resembles a consolidated investment company and is not a bank holding company under the Banking Act; it is a financial instruments business operator group. It is dual-listed on TSE PRIME 8591  and NYSE: IX. Ryo Inoue is chairman, and Yoshihiko Miyauchi, the practical architect of ORIX's revival and expansion, is senior chairman. ^[extracted]
+Japan's largest integrated financial-services conglomerate. Established 1964-04-17 as the former Orient Lease, with joint investment from 5 社 parties including Sanwa Bank + Nichimen Jitsugyo + Nichimen. **Starting from leasing → diversified into 10  segments (corporate financial services, automobiles, real estate, business investment, environment & energy, insurance, banking, asset management, the Americas, Asia & Australasia).** It has a consolidated equity-method-style structure and is not a bank holding company under the Banking Act (it is a financial instruments business operator). Dual-listed on the TSE PRIME 8591 / NYSE: IX. Chairman Makoto Inoue; Senior Chairman Yoshihiko Miyauchi (effectively the architect of its revival). ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
-**Legal name**: ORIX Corporation ^[extracted]
+**Legal name**: ORIX Corporation (オリックス株式会社) ^[extracted]
 **English name**: ORIX Corporation
-**Ticker**: TSE PRIME 8591 (1970  Osaka Securities Exchange Second Section → 1973  TSE Second Section → 1991  TSE First Section) / NYSE: IX (ADR listed 1998-09 ) ^[extracted]
-**Founded**: 1964-04-17, as Orient Leasing Co., Ltd. ^[extracted]
-**Renamed**: 1989-04, corporate name changed to ORIX Corporation ^[extracted]
-**Head office**: Tokyo Port City Takeshiba Office Tower, World Trade Center Building South Tower, Hamamatsucho 2-4-1 , Minato-ku, Tokyo (registered) / Osaka head office, Nishi-ku, Osaka ^[extracted]
+**Securities code**: TSE PRIME 8591 (1970 OSE Second Section → 1973 TSE Second Section → 1991 TSE First Section) / NYSE: IX (1998-09 ADR listing) ^[extracted]
+**Founded**: 1964-04-17 (as Orient Lease Corporation) ^[extracted]
+**Renamed**: 1989-04 (trade name changed to ORIX Corporation) ^[extracted]
+**Head office**: World Trade Center Building South Tower, 2-4-1  Hamamatsucho, Minato-ku, Tokyo (registered) / Osaka head office, Nishi-ku, Osaka ^[extracted]
 
-### Management Structure (2025 年) ^[extracted]
+### Management structure (FY 2025 年) ^[extracted]
 
-| Role | Name | Notes |
+| Position | Name | Notes |
 |---|---|---|
-| Senior Chairman | Yoshihiko Miyauchi | President and chairman from 1980 to 2014 社, central figure in ORIX's expansion |
-| Chairman of the Board | Ryo Inoue | From 2024-06 |
-| President, Group CEO and Representative Executive Officer | Ryo Inoue (concurrent) | - |
+| Senior Chairman | Yoshihiko Miyauchi | President / Chairman from 1980〜2014 社; architect of ORIX's expansion |
+| Chairman of the Board | Makoto Inoue | 2024-06〜 |
+| Representative Executive Officer, President & Group CEO | Makoto Inoue (concurrent) | - |
 
-### Major Shareholders (as of 2025-03-31) ^[extracted]
+### Major shareholders (as of 2025-03-31) ^[extracted]
 
 | Shareholder | Ratio |
 |---|---|
-| The Master Trust Bank of Japan (trust account) | about 17% range |
-| Custody Bank of Japan (trust account) | about 6% range |
-| Overseas institutions such as State Street / BNY Mellon / JPMorgan | combined 15-20% range |
+| The Master Trust Bank of Japan (trust account) | approx. 17% range |
+| Custody Bank of Japan (trust account) | approx. 6% range |
+| State Street / BNY Mellon / JPMorgan and other overseas institutions | 15〜20% range in total |
 
-### Major Subsidiaries and Interests
+### Major subsidiaries / holdings
 
 ```
-ORIX Corporation（holding functions + direct businesses, listed 8591  / IX）
-  ├── Domestic corporate finance and leasing (parent company)
-  ├── ORIX Auto（100%）── auto leasing and "ORIX CarShare"
-  ├── ORIX Rentec（100%）── measuring instruments, PCs, robot rentals
-  ├── ORIX Real Estate（100%）── office buildings and commercial-facility development / operation
-  │     └── ORIX JREIT（J-REIT, 8954）── through asset-management company
-  ├── ORIX Bank（100%）── real-estate investment loans and e-Direct deposits
-  ├── ORIX Credit（100%）── card loans and credit
-  ├── ORIX Life Insurance（100%）── mid-sized life insurer; products such as "CURE" and "Fine Support Plus"
-  ├── ORIX Asset Management（100%）── REIT and other asset management
-  ├── ORIX USA Corporation（100%, established 1981 ）── Americas headquarters
+ORIX Corporation (holding function + direct businesses, listed 8591 / IX)
+  ├── Domestic corporate financial services / leasing (parent)
+  ├── ORIX Auto (100%) ── auto leasing / car-sharing "ORIX Car Share"
+  ├── ORIX Rentec (100%) ── measuring-instrument / PC / robot rental
+  ├── ORIX Real Estate (100%) ── office-building / commercial-facility development & operation
+  │     └── ORIX JREIT (J-REIT, 8954) ── via asset-management company
+  ├── ORIX Bank (100%) ── real-estate investment loans / e-Direct deposits
+  ├── ORIX Credit (100%) ── card loans / credit
+  ├── ORIX Life Insurance (100%) ── "Cure" / "Fine Support Plus" mid-tier life insurer
+  ├── ORIX Asset Management (100%) ── REIT etc. management
+  ├── ORIX USA Corporation (100%, established 1981 ) ── Americas headquarters
   │     ├── Boston Financial Investment Management
-  │     └── NXT Capital (lending), former Mariner Investment Group, and others
-  ├── ORIX Asia / ORIX Australia / ORIX India（each 100%）── Asia / Australia
-  ├── Yayoi（sold 2014→2019）── former subsidiary, now KKR-line
-  └── Houlihan Lokey（former investment from 2006, now NYSE: HLI, stake reduced）
+  │     └── NXT Capital (lending) / Mariner Investment Group (former), etc.
+  ├── ORIX Asia / ORIX Australia / ORIX India (each 100%) ── Asia & Australasia
+  ├── Yayoi (divested 2014→2019) ── former subsidiary, now KKR-affiliated
+  └── Houlihan Lokey (former investment 2006〜, now NYSE: HLI, stake reduced)
 ```
 
-### Key Timeline (Excerpt) ^[extracted]
+### Key chronology (excerpt) ^[extracted]
 
 | Date | Event |
 |---|---|
-| **1964-04-17** | **Orient Leasing Co., Ltd. established** through joint investment by Sanwa Bank, Nichimen Jitsugyo, Nichimen, Iwai Sangyo, Toyo Menka, and other 5 社 parties; capital 1 億円 |
-| 1970-04  | Listed on Osaka Securities Exchange Second Section |
-| 1973-04  | **Some subsidiary names changed from Orient Leasing** (later unified companywide in 1989 ) |
-| 1973  | Listed on Tokyo Stock Exchange Second Section |
-| 1981  | **ORIX USA Corporation established** as the first step into the U.S. |
-| 1989-04  | **Corporate name changed to ORIX Corporation** (Orient Leasing → ORIX) |
-| 1991-09  | Moved to TSE First Section and OSE First Section |
-| 1998-09  | **NYSE listing** (ADR, ticker IX) |
-| 2003-06  | Shifted to a company with nominating committee etc., among the earliest for major Japanese finance |
-| 2006  | **Invested in U.S. Houlihan Lokey** (M&A advisory, now NYSE: HLI) |
-| 2008  | Valuation losses from the Lehman shock and U.S. real estate |
-| 2009  | ORIX Life major campaign rollout |
-| Early 2010 年s | **Expanded U.S. PE / alternative investments**, including Mariner Investment Group |
-| 2014  | Yayoi accounting software became 100% subsidiary, later sold |
-| 2017  | **Major expansion in U.S. real estate** including offices, hotels, and logistics |
-| **2019** | **Yayoi sold to Nordic Capital (KKR-line)**; reported sale price around 2400 億円 scale ^[extracted] |
-| 2021  | Sold Oedo Onsen Monogatari to U.S. Lone Star; exited hot-spring / ryokan business |
-| 2022  | Established a leading domestic position in environmental energy / renewable energy |
-| **2023-2024** | **U.S. real-estate unrealized-loss issue and PE valuation losses became visible**, hit by office rent decline and rising rates ^[extracted] |
-| 2024-06  | Ryo Inoue chairman and group CEO structure |
+| **1964-04-17** | **Orient Lease Corporation established** (joint investment by Sanwa Bank + Nichimen Jitsugyo + Nichimen + Iwai Sangyo + Toyo Menka, etc., 5 社 parties; capital 1 億円) |
+| 1970-04 | Listed on the Osaka Securities Exchange Second Section |
+| 1973-04 | **Some Orient Lease subsidiaries renamed** (later 1989  unified across the whole group) |
+| 1973 | Listed on the Tokyo Stock Exchange Second Section |
+| 1981 | **ORIX USA Corporation established** (first step into the US) |
+| 1989-04 | **Trade name changed to "ORIX Corporation"** (Orient Lease → ORIX) |
+| 1991-09 | Reassigned to TSE First Section / OSE First Section |
+| 1998-09 | **Listed on NYSE (ADR, ticker IX)** |
+| 2003-06 | Transitioned to a company with nominating committee, etc. (among the earliest of Japanese banks / major financial firms) |
+| 2006 | **Invested in US Houlihan Lokey** (M&A advisory, now NYSE: HLI) |
+| 2008 | Lehman shock; write-downs on US real estate |
+| 2009 | ORIX Life rolled out a large-scale campaign |
+| Early 2010 年s | **Expanded PE / alternatives including US Mariner Investment Group** |
+| 2014 | Made Yayoi (accounting software) 100% a subsidiary (later divested) |
+| 2017 | **Major expansion of US real-estate business** (office, hotel, logistics, etc.) |
+| **2019** | **Divested Yayoi → to Nordic Capital (KKR-affiliated)** (sale price reported on the order of 2400 億円) ^[extracted] |
+| 2021 | Divested Ooedo-Onsen Monogatari (to US Lone Star; exited the hot-spring / ryokan business) |
+| 2022 | Established a domestic top-tier-class position in environment & energy (renewables) |
+| **2023〜2024** | **US real-estate unrealized-loss problem surfaced; PE write-downs** (directly hit by office-rent declines / rate increases) ^[extracted] |
+| 2024-06 | Makoto Inoue's Chairman of the Board & Group CEO structure |
 
-## 2. Business Segment Map (10  Segments)
+## 2. Business-segment map (10  segments)
 
-| Segment | Main operator | Features |
+| Segment | Main operators | Characteristics |
 |---|---|---|
-| Corporate finance | ORIX parent | Leasing plus lending; founding business |
+| Corporate financial services | ORIX parent | Leasing + lending, the founding business |
 | Maintenance leasing | ORIX Auto / Rentec | Automobiles, measuring instruments, PCs, robots |
-| Real estate | ORIX Real Estate + J-REIT 8954  | Offices, commercial facilities, logistics, and ryokan (exited) |
-| Environment and energy | ORIX environmental-energy division | Renewable power generation and electricity retail |
-| Insurance | ORIX Life | Mid-sized life insurer; strength in online-complete products |
-| Banking and credit | ORIX Bank + ORIX Credit | Focused on real-estate investment loans |
-| Asset management | ORIX AM | REITs and private funds |
-| Americas | ORIX USA | U.S. real estate, PE, lending |
-| Asia / Australia | ORIX Asia / Australia / India | China, India, Indonesia, Australia |
+| Real estate | ORIX Real Estate + J-REIT 8954 | Office, commercial, logistics, ryokan (exited) |
+| Environment & energy | ORIX environment & energy division | Renewable power generation, electricity retail |
+| Insurance | ORIX Life | Mid-tier life insurer, strong in net-completed products |
+| Banking & credit | ORIX Bank + ORIX Credit | Specialized in real-estate investment loans |
+| Asset management | ORIX AM | REITs, private funds |
+| Americas | ORIX USA | US real estate, PE, lending |
+| Asia & Australasia | ORIX Asia / Australia / India | China, India, India, Australia |
 
-### Diversification Model
+### Diversification model
 
-- **"Leasing plus" model**: staged expansion from founding leasing into adjacent businesses: lending → real estate → investment → insurance → banking → AM ^[extracted]
+- **The "Leasing+" model**: starting from the founding leasing business, expanding step by step into adjacent businesses (lending → real estate → investment → insurance → banking → AM) ^[extracted]
 
-### Strategic Alliances and M&A History
+### Strategic-alliance / M&A history
 
-- **Investment in Houlihan Lokey (2006)**: U.S. M&A boutique, now NYSE: HLI; stake reduced, with returns secured through IPO route ^[extracted]
-- **Acquisitions such as Mariner Investment Group (early 2010 年s)**: U.S. alternative investment base ^[extracted]
-- **Large U.S. real-estate expansion (2017)**: offices, hotels, logistics → unrealized-loss and valuation-loss risk emerged in 2023-2024  ^[extracted]
-- **Yayoi sale (2019)**: sold to Nordic Capital (KKR-line), streamlining IT business portfolio ^[extracted]
-- **Oedo Onsen Monogatari sale (2021)**: sold to Lone Star, exiting the hot-spring business ^[extracted]
+- **Houlihan Lokey investment (2006)**: US M&A boutique, now NYSE: HLI (stake reduced; returns secured via IPO) ^[extracted]
+- **Acquisition of Mariner Investment Group and other PE (early 2010 年s)**: US alternatives investment base ^[extracted]
+- **Major US real-estate expansion (2017)**: office, hotel, logistics → 2023〜2024  unrealized-loss / write-down risk surfaced ^[extracted]
+- **Yayoi divestment (2019)**: to Nordic Capital (KKR-affiliated); rationalization of the IT business portfolio ^[extracted]
+- **Ooedo-Onsen Monogatari divestment (2021)**: to Lone Star; exit from the hot-spring business ^[extracted]
 
-## 4. Regulation and Policy
+## 4. Regulation / policy
 
-- **Primary authority**: Financial Services Agency (FSA) plus business-sector-specific regulators
+- **Supervisor**: Financial Services Agency (FSA) + individual sector-specific regulation for each business
 - **Recent policy issues**:
-  - 2023-2024  unrealized losses on U.S. office real estate → transparency of disclosure and impairment treatment
-  - 2024- onward Bank of Japan rate normalization → improvement in domestic lending margins
-  - Environmental energy / renewables → linkage with the government's GX strategy and FIT / FIP systems
+  - 2023〜2024  US office-real-estate unrealized losses → transparency of disclosure / impairment processing
+  - 2024〜 BoJ rate normalization → improvement in domestic lending margins
+  - Environment & energy (renewables) → linked to the government's GX strategy and FIT/FIP schemes
 
-### Historical Presidents (Main Postwar Figures) ^[extracted]
+### Successive presidents (postwar; major only) ^[extracted]
 
 | No. | Name | Tenure | Notes |
 |---|---|---|---|
-| - | Tsuneo Inui | 1964 to 1970 年s | First president, from Nichimen |
-| - | **Yoshihiko Miyauchi** | **President from 1980 to 2000 社 → chairman from 2000 to 2014  → current senior chairman** | Central architect of the shift from leasing to integrated finance |
+| - | Tsuneo Inui | 1964〜1970 年s | First; from Nichimen |
+| - | **Yoshihiko Miyauchi** | **President from 1980〜2000 社 → Chairman from 2000〜2014  → current Senior Chairman** | Architect of the revival; led the shift from leasing → integrated finance |
 | - | Yasuhiko Fujiki | President in the 2000 年s | - |
-| - | Ryo Inoue | President from 2014 → chairman and CEO from 2024-06 | Current structure |
+| - | Makoto Inoue | President from 2014〜 → Chairman of the Board & CEO from 2024-06〜 | Current structure |
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
-- [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/fuyo-lease|芙蓉総合リース]] · [[leasing-firms/ntt-tc-lease|NTT・TC リース]] (leasing peers)
+- [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/fuyo-lease|芙蓉総合リース]] · [[leasing-firms/ntt-tc-lease|NTT・TC リース]] (peer leasing)
 
 ## Sources
 
-- **Wikipedia: ORIX (company)**（https://ja.wikipedia.org/wiki/オリックス_(企業), 2026-05-19 extracted）
-- ORIX 62 th term annual securities report (2025-03  period, published 2025-06 )
-- ORIX official history and IR materials (updated in 2025 年)
-- Houlihan Lokey NYSE: HLI public information and 2015  IPO prospectus
+- **Wikipedia: オリックス (企業)** (https://ja.wikipedia.org/wiki/オリックス_(企業), extracted 2026-05-19)
+- ORIX 62 th term (FY 2025-03 ) securities report (published 2025-06 )
+- ORIX official history / IR materials (updated FY 2025 年)
+- Houlihan Lokey NYSE: HLI public information / 2015  IPO prospectus
 
 ---
 
-> [!info] Validation Status
-> confidence: **likely** (v1.0  Wikipedia + official IR check 2026-05-19). The 10  segment classification, timeline, and management structure are based on Wikipedia plus ORIX official history. Overseas ratio and specific U.S. real-estate unrealized-loss amounts are ambiguous and depend on timing and disclosure granularity. Latest figures should be checked in ORIX integrated reports and quarterly IR.
+> [!info] Verification status
+> confidence: **likely** (v1.0  Wikipedia + official IR cross-check 2026-05-19). The 10  segment classification, chronology, and management structure are based on Wikipedia + ORIX's official history. The specific figures for overseas ratio / US real-estate unrealized losses are ambiguous (dependent on point-in-time variation / disclosure granularity). For the latest values, refer to ORIX's integrated report and quarterly IR.

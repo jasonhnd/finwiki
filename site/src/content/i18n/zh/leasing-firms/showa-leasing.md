@@ -1,61 +1,62 @@
 ---
 source: leasing-firms/showa-leasing
-source_hash: eaf462590dfd22e4
+source_hash: 40b15e7e63112729
 lang: zh
 status: machine
 fidelity: ok
 title: "昭和租赁"
-translated_at: 2026-06-01T02:31:57.134Z
+translated_at: 2026-06-19T06:09:18.113Z
 ---
+
 # 昭和租赁
 
-## Wiki 路线
+## Wiki route
 
-本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可与 [[leasing-firms/fuyo-lease|芙蓉総合リース]] 对照阅读，以把握同业 / 对比语境；也可与 [[banking/INDEX|banking index]] 一起阅读，以确认更广的制度 / 监管边界。作为 [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] 集团旗下的 captive leasing entity，本页也应与 [[consumer-finance/shinsei-financial|新生フィナンシャル]] 一起阅读，以把握 Shinsei 非银金融版图。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。请将其与 [[leasing-firms/fuyo-lease|芙蓉総合リース]] 对照阅读以获取同业／对比背景，并与 [[banking/INDEX|banking index]] 对照阅读以了解更广泛的系统／监管边界。作为 [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] 集团旗下的 captive leasing entity，应与 [[consumer-finance/shinsei-financial|新生フィナンシャル]] 一并阅读，以了解更广泛的新生非银行金融版图。
 
 ## TL;DR
 
-昭和租赁是 1969 年 设立的综合租赁公司，目前是 **SBI 新生银行集团 ([[regional-banks/sbi-shinsei-bank|SBI新生銀行]])** 的 100% 子公司。自新生银行（旧日本长期信用银行）在 2000 年 年代完成经营重建并被纳入集团以来，它一直承担新生银行集团的 captive 租赁与资产金融功能。除一般设备租赁、汽车租赁、医疗租赁、飞机和船舶租赁外，其强项还包括利用新生银行法人交易基础开展的 structured finance。
+昭和租赁（昭和リース）是 1969 年设立的综合租赁公司，现为 **SBI新生银行集团（[[regional-banks/sbi-shinsei-bank|SBI新生銀行]]）** 的 100% 子公司。自新生银行（旧 日本长期信用银行）的经营重建（2000 年年代）后被编入集团以来，一直是承担新生银行集团 captive 租赁及资产融资职能的中坚租赁公司。除一般设备租赁、汽车租赁、医疗租赁、飞机及船舶租赁外，其在利用新生银行法人交易基础的 structured finance 方面具有优势。
 
-## 1. 牌照 / 集团边界
+## 1. License / group boundary
 
-| 项目 | 说明 |
+| Item | Notes |
 |---|---|
-| 法定名称 | 昭和租赁株式会社 / Showa Leasing Co., Ltd. |
-| 上市状态 | 非上市（SBI 新生银行 100% 子公司） |
-| 总部 | 东京都千代田区 |
-| 设立 | 1969-04  |
-| 母公司 / 集团 | [[regional-banks/sbi-shinsei-bank|SBI新生銀行]]（旧新生银行 / 旧日本长期信用银行）→ SBI Holdings 旗下 |
-| 牌照路径 | 无银行业许可。就相关业务范围取得贷金业注册（FSA money-lending business registration）。 |
-| Wiki 角色 | SBI 新生银行集团的 captive 租赁功能节点；在集团内与 [[consumer-finance/shinsei-financial|新生フィナンシャル]]（消费金融）分工。 |
+| Legal name | 昭和リース株式会社 / Showa Leasing Co., Ltd. |
+| Listing | 非上市（SBI新生银行 100% 子公司） |
+| Headquarters | 东京都千代田区 |
+| Founded | 1969-04 |
+| Parent / group | [[regional-banks/sbi-shinsei-bank|SBI新生銀行]]（旧 新生银行・旧 日本长期信用银行）→ SBI控股 旗下 |
+| License route | 无银行业许可。在相关业务范围内取得贷金业登记（FSA money-lending business registration） |
+| Wiki role | SBI新生银行集团的 captive 租赁职能节点。集团内与 [[consumer-finance/shinsei-financial|新生フィナンシャル]]（消费金融）进行业务划分 |
 
-## 2. 业务线
+## 2. Business lines
 
-- **一般设备租赁**：工作机械、产业机械、OA 设备
-- **汽车租赁**：法人车辆（经 Showa Auto Rental & Leasing 子公司）
+- **一般设备租赁**：机床、产业机械、OA 设备
+- **汽车租赁**：法人车辆（经由 Showa Auto Rental & Leasing 子公司）
 - **医疗租赁**：医疗设备、护理设备
-- **不动产租赁 / 金融**：办公楼、物流设施
-- **飞机 / 船舶**：经营租赁，含 JOL
+- **不动产租赁・融资**：办公楼、物流设施
+- **飞机・船舶**：经营租赁，含 JOL
 - **环境相关**：太阳能、PPA 等
-- **结构化金融**：利用新生银行法人客户基础开展 tax lease / 结构化金融
-- **分期销售 / 保理**：BtoB 金融服务
+- **结构化融资**：利用新生银行法人交易基础的 tax lease / 结构化金融
+- **分期销售・保理**：BtoB 金融服务
 
-## 3. 战略与竞争位置
+## 3. Strategy & competitive position
 
-昭和租赁具有“中坚租赁公司，但同时是 SBI 新生银行 captive”的特殊定位。其规模小于 [[leasing-firms/fuyo-lease|芙蓉総合リース]] 或 Ricoh Leasing 等准大型公司，但继承了新生银行集团的 structured finance know-how，在 tax lease 和复杂结构化案件中有存在感。
+昭和租赁具有"中坚租赁但属 SBI新生银行 captive"的独特定位。与准大型的 [[leasing-firms/fuyo-lease|芙蓉総合リース]] 或理光租赁相比规模较小，但继承了新生银行集团的结构化融资 know-how，在 tax lease 及复杂结构化案件中具有存在感。
 
-随着其自 2021  之后进入 SBI Holdings 旗下，关键议题是与 SBI 集团内金融功能（SBI 证券、SBI 生命、SBI 损保、SBI 地银联盟等）的协同可能性。与其说它依赖零售基础，不如说它专注 corporate + structured finance，这一点与 [[consumer-finance/shinsei-financial|新生フィナンシャル]]（零售无担保贷款）有清晰分工。
+随着被纳入 SBI控股旗下（2021 以后），与 SBI 集团内金融职能（SBI证券・SBI人寿・SBI损保・SBI地银联合等）的合作可能性成为论点。相较于零售基础，其专注于法人 + structured finance 这一点，与 [[consumer-finance/shinsei-financial|新生フィナンシャル]]（零售无担保贷款）明确划分业务。
 
-与三大租赁公司的直接竞争有限，更多是在中坚至准大型的边缘业务案件中竞争，例如税务租赁、船舶、小口飞机、物流不动产等。
+与三大租赁公司的直接竞争有限，在中坚至准大型的业务边缘案件（税务租赁、船舶及飞机的小额、物流不动产）中展开承接竞争。
 
-在 [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 语境下，新生银行的法人融资 + 昭和租赁的资产金融组合，有时会参与 LBO / buy-out。
+在 [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 的语境下，有时会通过新生银行的法人融资 + 昭和租赁的资产融资组合参与 LBO / buy-out。
 
-## 4. 本页为何重要
+## 4. Why this page matters
 
-- 是理解 SBI 新生银行集团内部非银金融功能的节点（与 [[consumer-finance/shinsei-financial|新生フィナンシャル]] 并列）。
-- 对旧日本长期信用银行 / 新生银行经营重建史、SBI 并入以及集团重组语境很重要。
-- 是中坚租赁公司通过 captive 化生存的行业结构样本。
-- structured finance / tax lease 领域的专业性，是区别于三大租赁公司的差异化轴。
+- 理解 SBI新生银行集团内非银行金融职能的节点（与 [[consumer-finance/shinsei-financial|新生フィナンシャル]] 并列）
+- 在旧 日本长期信用银行 / 新生银行的经营重建史 → 纳入 SBI → 集团重组的语境中具有重要性
+- 中坚租赁公司通过 captive 化得以存活的行业结构样本
+- 在 structured finance / tax lease 领域的专业性是与三大租赁公司不同的差异化轴
 
 ## Related
 
@@ -71,11 +72,11 @@ translated_at: 2026-06-01T02:31:57.134Z
 
 ## Sources
 
-- 昭和租赁 official corporate site (https://www.showa-leasing.co.jp/)
-- SBI 新生银行 IR / disclosure materials
-- Japan Leasing Association (JLA) statistics (https://www.leasing.or.jp/)
+- 昭和租赁 官方企业网站（https://www.showa-leasing.co.jp/）
+- SBI新生银行 IR / 披露资料
+- 公益社团法人租赁事业协会（JLA）统计（https://www.leasing.or.jp/）
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（基于公开信息 2026-05-24）。进入 SBI Holdings 旗下后的集团内重组 / 整合情景仍含不确定因素，未来可能随母公司方针而大幅变化。
+> confidence: **likely**（基于公开信息 2026-05-24）。纳入 SBI控股旗下后的集团内重组・整合情景含有未确定因素，今后可能因母公司方针而大幅变动。

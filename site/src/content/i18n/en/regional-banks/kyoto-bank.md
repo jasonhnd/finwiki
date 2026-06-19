@@ -1,13 +1,14 @@
 ---
 source: regional-banks/kyoto-bank
-source_hash: 9528591d75a93c99
+source_hash: a13145b7beacf1b7
 lang: en
 status: machine
 fidelity: ok
-title: "Kyoto Bank"
-translated_at: 2026-05-31T23:05:42.099Z
+title: "Bank of Kyoto"
+translated_at: 2026-06-19T12:43:19.935Z
 ---
-# Kyoto Bank
+
+# Bank of Kyoto
 
 ## Wiki route
 
@@ -15,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Bank of Kyoto, Ltd. is a regional bank headquartered in Kyoto Prefecture and listed on the FSA bank license list. It is the core operating bank of [[regional-banks/kyoto-fg]] and is treated as Kyoto Prefecture's No. 1  regional-bank operating-company anchor.
+The Bank of Kyoto, Ltd. is a regional bank headquartered in Kyoto Prefecture and listed on the FSA bank license list. It is the core operating bank of [[regional-banks/kyoto-fg]], and is treated as the No.1 regional-bank operating-company anchor within Kyoto Prefecture.
 
 ## 1. License / group boundary
 
@@ -29,11 +30,11 @@ The Bank of Kyoto, Ltd. is a regional bank headquartered in Kyoto Prefecture and
 
 ## 2. Operating model
 
-Kyoto Bank is a regional bank serving Kyoto Prefecture through retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support. The [[regional-banks/kyoto-fg]] page covers holding-company strategy and capital policy, while this page covers the bank-license entity. For Kansai regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+The Bank of Kyoto is the regional bank responsible for retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support in Kyoto Prefecture. The [[regional-banks/kyoto-fg]] page covers holding-company strategy and capital policy, while this page covers the bank-license entity. For Kansai regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
-- Closes the FSA exact-name operating-company gap for Kyoto Bank.
+- Closes the FSA exact-name operating-company gap for the Bank of Kyoto.
 - Separates the bank license from [[regional-banks/kyoto-fg]] holding-company strategy.
 - Provides a peer anchor for [[regional-banks/shiga-bank]], [[regional-banks/nanto-bank]], [[regional-banks/ikeda-senshu-bank]], and [[regional-banks/kansai-mirai-bank]].
 

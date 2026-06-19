@@ -1,115 +1,115 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: 6f839dfb0fd6528a
+source_hash: 313194440dbea807
 lang: en
 status: machine
 fidelity: ok
-title: "FamiMa Digital One"
-translated_at: 2026-05-31T15:29:03.961Z
+title: "FamiMa Digital One (FamiMa Digital One)"
+translated_at: 2026-06-19T06:09:18.133Z
 ---
 
-# FamiMa Digital One
+# FamiMa Digital One (FamiMa Digital One)
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] for peer context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the broader system and regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance subsidiary**. 2019-04-01 was established (previously known as FamilyMart Travel Co., Ltd.), and 2019-07-01 **FamiPay** (QR + barcode payment) was released. Based on a funds transfer agent license and no bank license. Convenience store app complete payment + BNPL (FamiPay next month payment) + Personal loan (FamiPay loan) + FamiPay card (formerly FamiMart T card). **T point linkage will be resolved from 2024-04  → Famipay Point will become independent** and we are converting to the "ITOCHU G-internal payment platform". The competitors are au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d Payment ([[megabanks/ndfg]]).
+A **convenience-store-affiliated payments / points / finance subsidiary** under Itochu Corporation → FamilyMart 100%. Established in 2019-04-01 (predecessor: FamiMa Travel Co., Ltd.); in 2019-07-01 it released **FamiPay** (QR + barcode payment). Based on a funds-transfer-service-provider license, with no banking license. Convenience-store-app-closed payments + BNPL (FamiPay deferred next-month payment) + personal lending (FamiPay Loan) + FamiPay Card (former FamiMa T Card). It is transitioning toward an "Itochu-group internal payment platform" by **dissolving the T-Point linkage in 2024-04  → making FamiPay Point independent**. Competitors are au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d-barai ([[megabanks/ndfg]]).
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: FamilyMart Digital One Co., Ltd.
+**Formal name**: FamiMa Digital One Co., Ltd.
 **English name**: FamiMa Digital One Co., Ltd.
-**Establishment**: **2019-04-01** (Previously: FamilyMart Travel → Reorganization)
-**Parent company**: FamilyMart Co., Ltd. (100%)
-**Ultimate parent company**: **ITOCHU Corporation** (2020-08  FamilyMart became a wholly owned subsidiary → delisted)
-**Business type**: Funds transfer company (no bank license) + Comprehensive credit purchase intermediary company + Money lending business
-**Head office**: Shibaura, Minato-ku, Tokyo (within FamilyMart headquarters)
+**Established**: **2019-04-01** (predecessor: FamiMa Travel → reorganized)
+**Parent**: FamilyMart Co., Ltd. (100%)
+**Ultimate parent**: **Itochu Corporation** (made FamilyMart a wholly-owned subsidiary in 2020-08  → delisted)
+**Business type**: funds-transfer service provider (no banking license) + comprehensive credit purchase intermediary + money-lending business
+**Headquarters**: Shibaura, Minato-ku, Tokyo (inside FamilyMart head office)
 
-### Parent company/shareholder structure (as of 2026 )
+### Parent / shareholder structure (as of 2026 )
 
 ```
-Itochu Corporation (TSE PRIME 8001; trading company)
-  |-- FamilyMart Co., Ltd. (100%; unlisted; former ticker 8028)
-        |-- Famima Digital One (100%) -- payments, points, and finance
-        |-- FamilyMart store network (approximately 16,200 domestic stores)
-        |-- Overseas FamilyMart operations in Taiwan, Thailand, China, Indonesia, and other markets
+Itochu Corporation (TSE PRIME 8001, trading company)
+  └── FamilyMart Co., Ltd. (100%, unlisted, former 8028)
+        ├── FamiMa Digital One (100%) ── payments / points / finance
+        ├── FamilyMart store network (domestic ~16,200 店)
+        └── Overseas FM (Taiwan FamilyMart / Thailand / China / Indonesia, etc.)
 ```
 
-### Important chronology
+### Key chronology
 
-|year and month|phenomenon|
+| Year/month | Event |
 |---|---|
-|2019-04-01|**Establishment of Family Mart Digital One** (Previously: Family Mart Travel reorganization)|
-|**2019-07-01**|**FamiPay released** (QR/barcode payment, complete convenience store app)|
-|2020-08 |ITOCHU Corporation TOB → **FamilyMart became a wholly owned subsidiary and delisted from the TSE** (formerly 8028)|
-|2020～|FamiPay bonus (actual points) started|
-|2021 |FamiPay next month payment (BNPL) started|
-|2022 |FamiPay loan (personal loan) started|
-|**2023-03**|**Famima T Card → Famipay Card Transition** (Cultivation of affiliated card with CCC/T Points)|
-|**2024-04**|**Dissolution of FamiPay T point linkage** (V points = T points + not compatible with integration with V) → **FamiPay point independence**|
-|2024～|Medium-term plan — ITOCHU Corporation G-internal payment platform policy|
-|2025～|FamiPay Stablecoin / Not yet entered into blockchain area (vs MUFG Progmat)|
+| 2019-04-01 | **FamiMa Digital One established** (predecessor: FamiMa Travel reorganized) |
+| **2019-07-01** | **FamiPay released** (QR / barcode payment, closed within the convenience-store app) |
+| 2020-08 | Itochu Corporation TOB → **FamilyMart made a wholly-owned subsidiary / delisted from TSE** (former 8028) |
+| 2020〜 | FamiPay Bonus (effectively points) launched |
+| 2021 | FamiPay deferred next-month payment (BNPL) launched |
+| 2022 | FamiPay Loan (personal lending) launched |
+| **2023-03** | **FamiMa T Card → FamiPay Card migration** (dissolution of the co-branded card with CCC / T-Point) |
+| **2024-04** | **Dissolution of FamiPay's T-Point linkage** (did not align with the integration of V-Point = T-Point + V) → **FamiPay Point made independent** |
+| 2024〜 | Mid-term plan — policy to platformize within the Itochu group |
+| 2025〜 | FamiPay has not entered the stablecoin / blockchain space (vs MUFG Progmat) |
 
 ## 2. Business segment map
 
-|service|type|Features|
+| Service | Type | Characteristics |
 |---|---|---|
-|**FamiPay**|Code payment (QR/barcode)|Complete FamilyMart app, starting from convenience stores. Charge to bank account/cash/credit|
-|**Famipay Card**|credit card|Old FamilyMart T card (2023-03  transition). FamiPay bonus redemption integration|
-|**FamiPay next month payment**|BNPL (postpaid)|Monthly closing and next month payment, specializing in convenience store payments|
-|**FamiPay loan**|Money lending business (personal loans)|Small amount, short term, complete convenience store app|
-|**Famipay Points** (formerly Famipoints)|point program|2024-04 T Become independent after dissolving point linkage|
-|**FamiPay Bonus**|Real point return|Campaign/purchase linkage|
-|**Storage agency**|Utility charges/mail order payment collection|Extension of convenience store storage|
-|**Gift Card/Prepaid**|house money|Corporate novelty campaign use|
+| **FamiPay** | code payment (QR / barcode) | Closed within the FamilyMart app, convenience-store originated. Charging via bank account / cash / credit |
+| **FamiPay Card** | credit card | Former FamiMa T Card (migrated 2023-03 ). FamiPay Bonus reward integration |
+| **FamiPay deferred next-month payment** | BNPL (deferred payment) | Monthly-close next-month payment, specialized for in-convenience-store payment |
+| **FamiPay Loan** | money-lending business (personal lending) | Small / short-term, closed within the convenience-store app |
+| **FamiPay Point** (former Fami Point) | points program | Made independent after dissolving the T-Point linkage 2024-04  |
+| **FamiPay Bonus** | effectively point reward | Campaign / purchase-linked |
+| **Payment collection agency** | utility / mail-order payment collection | Extension of convenience-store payment collection |
+| **Gift cards / prepaid** | house money | Corporate-novelty / campaign uses |
 
-### core strategy
+### Core strategy
 
-- **Convenience-store app-closed model**: starts from FamilyMart's approximately 16,200 domestic stores, uses QR scanning for payment, and centralizes balance, points, and card management inside the app.
-- **Internal payment platform for ITOCHU** (2024~Mid-term plan): Horizontally deploy FamiPay as a B2C contact point for ITOCHU-affiliated businesses (FamilyMart, convenience store wholesalers, food, textiles, machinery, etc.)
-- **No bank license** (based on funds transfer companies) → Specializes in simple payments. Full-fledged banking is outsourced/partnership premise
-- **House point independence** (2024-04 T points eliminated): Internally complete the reward economy → Eliminate dependence on CCC/V points
+- **Convenience-store-app-closed model**: store-front origination at about 16,200 店 of FamilyMart → QR scan payment → unified management of balance / points / card within the app
+- **Platformization within the Itochu group** (2024〜 mid-term plan): rolling out FamiPay horizontally as a B2C touchpoint for Itochu Corporation businesses (FamilyMart / convenience-store wholesale / food / textiles / machinery, etc.)
+- **Non-holding of a banking license** (based on funds-transfer-service-provider status) → specialized in simple payments. Full-scale banking is premised on outsourcing / partnership
+- **House-point independence** (T-Point dissolution 2024-04 ): internalizing the reward economy → ending dependence on CCC / V-Point
 
-### competitive structure
+### Competitive landscape
 
-|competition|economic zone|Convenience store partnership|
+| Competitor | Economic sphere | Convenience-store partnership |
 |---|---|---|
-|**PayPay** ([[megabanks/paypay-fg]])|Softbank G + Yahoo + LINE|Available at Lawson Seven and other stores|
-|**au PAY** ([[megabanks/au-fh]])|KDDI Economic Zone + Lawson (KDDI parent company)|**Lawson main battlefield**|
-|**Rakuten Pay** ([[payment-firms/rakuten-fg]])|Rakuten Economic Zone|General purpose for all convenience stores|
-|**d payment** ([[megabanks/ndfg]])|docomo economic zone + d points|General purpose for all convenience stores|
-|**nanaco/7iD** (Seven)|Seven & i HD|**Exclusively for Seven stores → Integrating into the 7iD app**|
-|**FamiPay**|ITOCHU Corporation / FamilyMart|**Family Mart main battlefield**|
+| **PayPay** ([[megabanks/paypay-fg]]) | SoftBank G + Yahoo + LINE | Usable at Lawson, Seven, and others |
+| **au PAY** ([[megabanks/au-fh]]) | KDDI economic sphere + Lawson (KDDI parent) | **Lawson main battlefield** |
+| **Rakuten Pay** ([[payment-firms/rakuten-fg]]) | Rakuten economic sphere | Universal across all convenience stores |
+| **d-barai** ([[megabanks/ndfg]]) | docomo economic sphere + dポイント | Universal across all convenience stores |
+| **nanaco / 7iD** (Seven) | Seven & i HD | **Seven in-store only → being integrated into the 7iD app** |
+| **FamiPay** | Itochu Corporation / FamilyMart | **FamiMa main battlefield** |
 
-→ Convenience store 3  payment differentiation:
-- **Famimart = FamiPay** (built solely by ITOCHU G)
-- **Lawson = au PAY cooperation** (au economic zone integration accelerated after becoming a wholly owned subsidiary by 2024-12 KDDI)
-- **Seven = nanaco / 7iD** (own economic zone)
+→ Payment differentiation among the convenience-store 3 :
+- **FamiMa = FamiPay** (built solely by the Itochu group)
+- **Lawson = au PAY linkage** (since the full subsidiarization by KDDI 2024-12 , au-economic-sphere integration accelerating)
+- **Seven = nanaco / 7iD** (own economic sphere)
 
-### Important turning point in the medium-term plan
+### Key inflection points in the mid-term plan
 
-- **2023-03  End of FamilyMart T Card**: End of CCC/T point affiliated card and transition to Famipay Card
-- **2024-04  Complete withdrawal of T points**: T points themselves will be merged with **V points (formerly SMBC Group's V) → become the new "V points"** (2024-04-22). FamilyMart does not go along with the merger and converts to its own points
-- Result: FamilyMart completely departs from the "T Point / V Point camp" and chooses **Itochu G Independent Economic Zone**
+- **2023-03  end of FamiMa T Card**: terminating the CCC / T-Point co-branded card and migrating to FamiPay Card
+- **2024-04  full exit from T-Point**: T-Point itself is **integrated with V-Point (the V of the former SMBC group) → becoming the new "V-Point"** (2024-04-22). FamiMa did not align with the integration and shifted to its own points
+- Result: FamiMa fully departed the "T-Point / V-Point camp," choosing the **Itochu-group independent economic sphere**
 
-### Limitations/Challenges
+### Limits / issues
 
-- No bank license → Depends on other companies (partner banks) for deposits/money transfers/large payments
-- The main battleground is concentrated inside Family Mart stores, and expansion outside stores as a general-purpose code payment is weak against PayPay / Rakuten Pay / d Payment.
+- Non-holding of a banking license → deposits / FX remittance / large-lot settlement depend on other companies (partner banks)
+- The main battlefield is skewed toward inside FamiMa stores; its out-of-store rollout as a universal code payment is weak relative to PayPay / Rakuten Pay / d-barai
 
-## 4. Regulation/Policy
+## 4. Regulation / policy
 
 - **Supervisor**: Financial Services Agency (FSA)
-- **Funds Transfer Service Provider**: Funds Settlement Act Article 37  Registration
-- **Money lending business**: Money lending business law registration (FamiPay loan)
-- **Comprehensive credit purchase intermediary**: Installment sales method (Famipay card / next month payment)
-- **Personal information**: Personal information protection law (payment data + purchase history + point 3  heavy marketing information)
-- **Current policy issues**:
-  - 2025~ BNPL related credit information sharing/credit management (FamiPay next month payment also applicable)
-  - Responding to cashless point return policy (Ministry of Economy, Trade and Industry/METI)
+- **Funds-transfer service provider**: registration under Article 37  of the Payment Services Act
+- **Money-lending business**: registration under the Money Lending Business Act (FamiPay Loan)
+- **Comprehensive credit purchase intermediary**: Installment Sales Act (FamiPay Card / next-month payment)
+- **Personal data**: Act on the Protection of Personal Information (3 -fold marketing information of payment data + purchase history + points)
+- **Recent policy issues**:
+  - 2025〜 credit-information sharing / credit management related to BNPL (FamiPay next-month payment is also subject)
+  - Response to cashless / point-reward policy (METI)
 
 ## Related
 
@@ -118,12 +118,12 @@ Itochu Corporation (TSE PRIME 8001; trading company)
 
 ## Sources
 
-- **Wikipedia: FamilyMart Digital One** (https://ja.wikipedia.org/wiki/ファミマデジタルワン, extracted 2026-05-19)
-- **Wikipedia: FamiPay** (https://ja.wikipedia.org/wiki/FamiPay, 2026-05-19 extraction)
+- **Wikipedia: FamiMa Digital One** (https://ja.wikipedia.org/wiki/ファミマデジタルワン, extracted 2026-05-19)
+- **Wikipedia: FamiPay** (https://ja.wikipedia.org/wiki/FamiPay, extracted 2026-05-19)
 - **Wikipedia: FamilyMart** (https://ja.wikipedia.org/wiki/ファミリーマート, extracted 2026-05-19)
-- **Wikipedia: T point / V point integration** (2024-04-22 integration related, 2026-05-19 extraction)
+- **Wikipedia: T-Point / V-Point integration** (2024-04-22 integration-related, extracted 2026-05-19)
 
 ---
 
-> [!info] School nucleus status
-> confidence: **likely** (Wikipedia public information base, 2026-05-19 school core). After parent company FamilyMart delisted 2020-08 , financial disclosure has been limited, and quantitative figures for FamiPay's MAU/GMV/FamiPay loan balance are poorly disclosed externally. Facts such as service start date and T point withdrawal date are confirmed via Wikipedia. The content of the medium-term plan for creating an intra-Itochu Group payment platform is a general direction statement based on the published materials of the medium-term management plan, and specific numerical targets have not been confirmed.
+> [!info] Verification status
+> confidence: **likely** (based on Wikipedia public information, verified 2026-05-19). After parent FamilyMart was delisted 2020-08 , financial disclosure is limited, and quantitative figures such as FamiPay's MAU / GMV / FamiPay Loan balance have scant external disclosure. Facts such as service launch dates and the T-Point exit date are confirmed via Wikipedia. The mid-term-plan content on platformization within the Itochu group is a general directional description based on published mid-term-management-plan materials, and specific numerical targets are unconfirmed.

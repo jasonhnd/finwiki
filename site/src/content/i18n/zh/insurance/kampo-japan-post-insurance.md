@@ -1,118 +1,118 @@
 ---
 source: insurance/kampo-japan-post-insurance
-source_hash: a31a72c13056b722
+source_hash: e86e54ebc94b9594
 lang: zh
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T11:13:44.938Z
+title: "简保 / 日本邮政保险"
+translated_at: 2026-06-19T06:09:18.026Z
 ---
 
-#汉方/日本邮政保险
+# 简保 / 日本邮政保险
 
-##TL;博士
+## TL;DR
 
-[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]]是日本储备金和资产规模最大的人寿保险资产负债表之一，起源于邮政储蓄时代的国民保险计划（邮政储蓄/邮政保险/“Kanpo”），现在是日本国内上市的子公司[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]集团还拥有日本邮政银行（7182）和日本邮政公司。该特许经营权依赖于其他公司所没有的三大支柱[[insurance/japan-life-insurance-big-four|life big-four]]保险公司共享：与日本邮政公司分行网络的邮政渠道分销协议、从私有化中继承下来的结构性大型有效的遗留保険（kanpo）保单，以及在 ALM 下运行的长期日元负债资产负债表[[insurance/japan-life-insurance-alm-overview|the Japan life ALM]]低利率/后零利率时代的动态。这2019 欺诈性销售丑闻（非正招募集问题）——整个邮政销售队伍的不当转换、双重计费和适用性失败——是最近的决定性治理事件，并重塑了分销、监管和产品组合。 FSA / MIC 业务改善令、自愿暂停销售以及随后重建销售基础设施意味着汉方的后2019 轨迹在结构上不同于其预2019 尽管资产负债表规模仍与最大的私人互助人寿保险公司相当。
+[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]] 是按准备金和资产规模计日本最大的寿险资产负债表之一，起源于邮政储蓄时代的国家保险计划（郵便貯金 / 簡易保険 / "简保"），现为 [[megabanks/japan-post-holdings|Japan Post Holdings (6178)]] 集团内的上市子公司，该集团还拥有日本邮政银行（7182）和日本邮便株式会社。这一特许经营建立在其他任何 [[insurance/japan-life-insurance-big-four|life big-four]] 保险公司都不具备的三大支柱之上：与日本邮便株式会社支行网络的邮政渠道分销协议、从私有化中继承下来的结构性庞大的存量遗留简易保险（简保）保单簿，以及在低利率 / 后零利率时代以 [[insurance/japan-life-insurance-alm-overview|the Japan life ALM]] 动态运行资产负债管理（ALM）的长久期日元负债资产负债表。2019 不当销售丑闻（不適正募集問題）——邮政销售队伍中的不当转换、双重收费和适合性失误——是近期具有定义性的治理事件，重塑了分销、监管和产品组合。金融厅 / 总务省的业务改善命令、自愿暂停销售，以及随后销售基础设施的重建，意味着尽管简保的资产负债表规模仍与最大的私营相互制寿险公司相当，但其 2019 之后的轨迹与 2019 之前的轨迹在结构上已截然不同。
 
-## 维基路线
+## Wiki 路径
 
-该页面位于[[insurance/INDEX|insurance INDEX]]是邮政生活的对应物[[insurance/japan-life-insurance-big-four|the Japan life big four]]和[[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]]。一起阅读[[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]对于资产负债问题，[[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]对于公司形式的对比（Kampo 已上市，如 Dai-ichi HD，但母公司和最终所有者是 JP Holdings，部分与国家相关），[[insurance/economic-value-based-solvency|economic-value-based solvency]]和[[insurance/esr-economic-value-solvency|ESR]]对于标题资本指标，[[insurance/life-insurance-channel-mix|the life insurance channel mix]]用于邮政渠道放置，以及[[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]]对于后2019 渠道重建。实体锚点是[[life-insurers/kampo-life|Kampo Life / 7181]]和[[megabanks/japan-post-holdings|Japan Post Holdings / 6178]]。对于主管地图，请参阅[[financial-regulators/fsa|the FSA]]总务省（MIC）邮政业务监督。
+本页位于 [[insurance/INDEX|insurance INDEX]] 之下，是 [[insurance/japan-life-insurance-big-four|the Japan life big four]] 和 [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]] 的邮政寿险对应物。请与 [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]（资产负债问题）、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]（公司形态对比——简保与第一生命 HD 一样为上市，但母公司及最终所有者是部分与国家相关的 JP 控股）、[[insurance/economic-value-based-solvency|economic-value-based solvency]] 和 [[insurance/esr-economic-value-solvency|ESR]]（标志性资本指标）、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]（邮政渠道布局），以及 [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]]（2019 之后的渠道重建）一并阅读。实体锚点为 [[life-insurers/kampo-life|Kampo Life / 7181]] 和 [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]]。监管机构图谱请参见 [[financial-regulators/fsa|the FSA]] 以及总务省（MIC / 総務省）的邮政业务监管。
 
-## 身份和群体结构
+## 身份与集团结构
 
-Kampo Life 是日本邮政私有化前的简单保険 (kanpo) 业务的正式企业继承者，在2007 邮政私有化并在东京证券交易所上市2015 与日本邮政控股和日本邮政银行并列。组层次结构为：
+简保人寿是日本邮政私有化前简易保险（简保）业务的正式法人继承者，在 2007 的邮政私有化过程中设立为股份制寿险公司，并于 2015 与日本邮政控股和日本邮政银行一同在东京证券交易所上市。集团层级如下：
 
-- **[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]** — 上市控股公司；日本政府保留该控股公司的战略股权。
+- **[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]** — 上市控股公司；日本政府保留对该控股公司的战略性持股。
 - **[[regional-banks/japan-post-bank|Japan Post Bank (7182)]]** — 上市银行子公司。
-- **[[life-insurers/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — 上市人寿保险公司子公司。
-- **日本邮政公司** — 未上市的邮政服务运营子公司；运营邮局分支机构网络，通过该网络分发汉方保单。
+- **[[life-insurers/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — 上市寿险子公司。
+- **日本邮便株式会社** — 非上市的邮政服务运营子公司；运营分销简保保单的邮局支行网络。
 
-所有三个运营实体的上市本身就很不寻常：一家控股公司及其两家运营子公司都是单独上市的，这意味着Kampo承载着JP Holdings的控股公司股东治理、其自身上市的公开市场治理以及JP Holdings层面的集团层面资本和集团业务考虑。资本行动（包括 JP Holdings 剥离汉方/日本邮政银行股份）是一个持续的结构性悬而未决的问题。
+三家运营实体全部上市本身就不寻常：一家控股公司及其两家运营子公司全部分别上市，这意味着简保同时承担来自 JP 控股的控股公司股东治理、来自自身上市的公开市场治理，以及来自 JP 控股层面的集团级资本和集团业务考量。资本行动（包括 JP 控股出售简保 / 日本邮政银行股份）是一项持续存在的结构性悬而未决问题。
 
-## 资产负债表和规模
+## 资产负债表与规模
 
-汉方的普通账户资产使其与最大的资产处于同一规模[[insurance/japan-life-insurance-big-four|life big-four]]互助。储量和资产状况主要包括：
+简保的一般账户资产使其处于与最大的 [[insurance/japan-life-insurance-big-four|life big-four]] 相互制公司相同的规模区间。其准备金和资产状况以下列项目为主导：
 
-- **[[JapanFG/japanese-government-bonds|JGBs]]**——历史上占总资产的很大一部分，反映了保守的公共部门传统和长期日元负债表；随着保险公司扩展到其他资产类别，日本国债的分配份额逐渐下降。
-- **国内信贷、外币债券、股票和另类投资** — 摆脱日本国债主导的传统，实现多元化。
-- **对冲外国债券账簿** — 与私人四大银行同样的 ALM 问题；看[[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]]对于框架。
-- **遗留的 kanpo 块** — 私有化前的邮政保险保单在单独的管理框架下进行核算（根据与邮政储蓄和邮政人寿保险管理组织的合同进行管理，并覆盖新的私有化后邮政保险保单）2007 汉方块。
+- **[[JapanFG/japanese-government-bonds|JGBs]]** — 历史上占总资产的极大比例，反映了保守的公共部门传承和长久期日元负债簿；随着保险公司向其他资产类别拓展，JGB 配置比例已逐步下降。
+- **国内信用、外币债券、股票和另类资产** — 从 JGB 主导的遗留结构中分散开来。
+- **对冲外债簿** — 与私营四大相同的 ALM 问题；其框架请参见 [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]]。
+- **遗留简保区块** — 私有化前的简易保险保单在独立的管理框架下核算（在与邮政储蓄·简易人寿保险管理·邮局网络支援机构的合同下管理），并叠加于 2007 之后的新简保区块之上。
 
-传统汉方+新汉方的双重结构是汉方资产负债表区别于私营四大银行的关键特征。资产类别配置和 ALM 是在合并的基础上报告的，但基础负债结构有两个不同的年份。
+双重结构——遗留简保 + 新简保——是将简保的资产负债表与私营四大区分开来的关键特征。资产类别配置和 ALM 以合并基础报告，但其底层负债结构有两个不同的年代层次。
 
-## 配送方式：邮政渠道
+## 分销：邮政渠道
 
-定义性的分销特征是与日本邮政公司签订的邮政渠道协议。汉方保单通过 ~20,000- 邮局分支机构网络（日本最大的实体零售足迹）和直接雇用的汉方销售人员。没有任何女性销售队伍可以与[[life-insurers/nippon-life|Nippon Life]]的 Nissay Lady 模特；相反，邮局柜台人员加上汉方销售人员构成了主导渠道。
+具有定义性的分销特征是与日本邮便株式会社的邮政渠道协议——简保保单通过约 20,000家分行的邮局网络（日本最大的实体零售布局）以及直接雇佣的简保销售人员进行销售。没有与 [[life-insurers/nippon-life|Nippon Life]] 的 Nissay Lady 模式相当的专属女性销售队伍；取而代之的是邮局柜台人员加上简保销售人员构成主导渠道。
 
-其他渠道——银行保险、独立机构、互联网直销——也存在，但规模要小得多。对邮政渠道的依赖既是特许经营的结构性优势（竞争对手无法比拟的客户群和实体网络覆盖范围），也是业务来源。2019 丑闻（同一网络造成了销售激励压力，导致了不当行为）。
+其他渠道——银行保险、独立代理、互联网直销——存在但规模小得多。对邮政渠道的依赖既是这一特许经营的结构性优势（任何竞争对手都无法匹敌的客户基础和实体网络覆盖），也是 2019 丑闻的根源（同一网络制造了驱动不当行为的销售激励压力）。
 
-看[[insurance/bancassurance-economics-japan|the bancassurance economics Japan]]页面和[[insurance/life-insurance-channel-mix|the life insurance channel mix]]更广泛的渠道背景。
+请参见 [[insurance/bancassurance-economics-japan|the bancassurance economics Japan]] 页面以及 [[insurance/life-insurance-channel-mix|the life insurance channel mix]] 以了解更广泛的渠道背景。
 
-＃＃ 这2019 欺诈销售丑闻
+## 2019 不当销售丑闻
 
-这2019 “不当销售”丑闻是最近的治理事件：
+2019 不適正募集問題 / "不当销售"丑闻是近期具有定义性的治理事件：
 
-- **发生了什么。** 内部和外部审查发现了邮政渠道中普遍存在的不当销售行为：转换不当行为（在没有适当评估的情况下放弃现有保单然后重新签发）、双重计费（客户在过渡期间同时支付新旧保单保费）、不适合性（在没有充分解释的情况下向老年/弱势客户销售）以及汉方销售人员和邮局柜台工作人员的激励驱动的销量推动。
-- **规模。** 在初步调查中，数以万计的政策被认为存在潜在问题；这一数字在随后的审查中有所扩大。
-- **监管部门的回应。**[[financial-regulators/fsa|FSA]]总务省向汉方和日本邮政公司发出了业务改进命令。随后自愿暂停主动销售招标，并在升级的控制下分阶段恢复。
-- **内部回应。** Kampo、JP Holdings 和 Japan Post Co. 的销售队伍重组、适宜性控制重建、董事会/管理层变动。更新邮政渠道代理合同并加强行为护栏。
-- **客户补救。** 多年客户联系和补救计划，涵盖已确定的政策和扩展的审查范围。
-- **后果。** 事后-2020 轨迹是一个缓慢的重建，而不是回到之前的状态2019 卷。在丑闻发生后的一段时间内，新保单的净发行量大幅收缩，有效的保单已在遗留区块的径流相邻动态下进行管理。
+- **发生了什么。** 内部和外部审查揭露了邮政渠道中广泛存在的不当销售做法：转换不当（既有保单被退保后未经适当适合性评估即重新签发）、双重收费（客户在过渡期间同时支付旧保单和新保单保费）、适合性失误（在未充分说明的情况下向年长 / 脆弱客户销售），以及简保销售人员和邮局柜台人员双方激励驱动的销量推动。
+- **规模。** 初步调查中确认了数万份保单可能存在问题；这一数字在后续审查中扩大。
+- **监管回应。** [[financial-regulators/fsa|FSA]] 和总务省向简保和日本邮便株式会社发出了业务改善命令。随后是自愿暂停主动销售招揽，并在升级的管控下分阶段恢复。
+- **内部回应。** 销售队伍重组、适合性管控重建、简保及 JP 控股和日本邮便株式会社的董事会 / 管理层变动。在强化的行为护栏下续签邮政渠道代理合同。
+- **客户补救。** 一项为期多年的客户接触与补救计划，涵盖已确认的保单和扩展的审查范围。
+- **后续影响。** 2020 之后的轨迹是缓慢的重建，而非回归到 2019 之前的销量。在丑闻发生后的紧接期间，净新签保单发行大幅收缩，存量保单簿在遗留区块上以近似清退（run-off）的动态进行管理。
 
-该丑闻通过 FSA / MIC 命令和 Kampo / JP Holdings IR 材料公开记录。对待任何“汉方策略”框架2019 和后2019 作为结构上不同的时期。
+该丑闻通过金融厅 / 总务省的命令以及简保 / JP 控股的 IR 材料得到公开记录。应将任何"简保战略"的框定中，2019 之前与 2019 之后视为结构上不同的时期。
 
-## 低费率时代的ALM
+## 低利率时代的 ALM
 
-汉方的 ALM 问题在概念上与四大私人共同基金相同：长期日元负债、结构性较低的日本国债收益率、外国债券的收益率范围、外国债券账簿上的对冲成本、随着更广泛的交叉持股缩减而减少股权配置。汉方的特点是：
+简保的 ALM 问题在概念上与私营四大相互制公司相同：长久期日元负债、结构性偏低的 JGB 收益率、为追求收益而拓展外债、外债簿上的对冲成本，以及与更广泛的交叉持股缩减相一致的股票配置削减。区分简保的特征如下：
 
-- **历史上日本国债份额更高。**汉方的遗留配置偏向比私营四大银行更偏向日本国债，这反映了其公共部门的起源；多元化取得了进展，但起点不同。
-- **外国生活附属机构足迹较小。** 不同于[[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]]凭借 Protective Life 和 TAL，Kampo 没有可比的海外人寿收购组合。多元化主要是资产方面而非业务方面。
-- **双重上市下的资本治理。** Kampo 的资本政策（ESR 目标、股东股息、JP Holdings 母公司股东动态）受其自身上市公司框架和 JP Holdings 集团框架的约束。
-- **遗留区块的流失动态。** 私有化前的 kanpo 区块会随着时间的推移而流失；新政策块必须予以补偿。邮政-2019, 与丑闻发生前相比，新保单的发行量大幅减少。
+- **历史上较高的 JGB 占比。** 简保的遗留配置偏向比私营四大更偏重 JGB，反映其公共部门起源；分散已取得进展，但起点不同。
+- **较小的外国寿险关联布局。** 与拥有 Protective Life 和 TAL 的 [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] 不同，简保没有可比的海外寿险收购组合。分散主要发生在资产端而非业务端。
+- **双重上市下的资本治理。** 简保的资本政策（ESR 目标、股东分红、JP 控股母股东动态）同时由其自身的上市公司框架和 JP 控股集团框架治理。
+- **遗留区块清退动态。** 私有化前的简保区块随时间清退；新保单区块必须予以补偿。2019, 之后的新保单发行相较丑闻前的轨迹大幅减少。
 
-ESR 发布于[[insurance/economic-value-based-solvency|FSA economic-value-based solvency]]从四月开始实行2025 继续，与私人四大巨头相同的格式。看[[insurance/esr-economic-value-solvency|ESR]]用于比率定义。
+ESR 自 2025 年 4 月起以与私营四大相同的格式在 [[insurance/economic-value-based-solvency|FSA economic-value-based solvency]] 制度下公布。比率定义请参见 [[insurance/esr-economic-value-solvency|ESR]]。
 
-## 与 FSA 生活四大巨头的比较
+## 与金融厅寿险四大的比较
 
-|轴|FSA 生活四大巨头|汉方（日本邮政保险）|
+| 维度 | 金融厅寿险四大 | 简保（日本邮政保险） |
 |---|---|---|
-|企业形式|三间互助公司 + 一间上市控股公司|上市控股公司（JP Holdings）的上市子公司|
-|上市|四人之一（第一高清）|是（TSE Prime7181）|
-|最终所有权|保单持有人（互助人）/股东（Dai-ichi HD）|JP Holdings（部分政府）|
-|主要渠道|束缚女性销售队伍+多元化|邮政渠道（日本邮政公司分支机构）+汉方销售人员|
-|银行保险车辆|四家均使用银行保险；第一前沿生活专注|有限的|
-|独立代理车辆|用过的; Neo First Life 专为 Daiichi 打造|有限的|
-|海外生活组合|四本都有有意义的海外书籍|有限的|
-|资产/储备规模|每人数十万亿日元|数十万亿日元|
-|日本国债股票|重大的;多元化趋势呈下降趋势|历史上较高；趋势较低|
-|资本规则|FSA ESR（经济价值）|FSA ESR（经济价值）|
-|近期治理事件|各种但没有可比的系统性销售丑闻| 2019 欺诈销售丑闻|
-|上市股东语法|仅限第一高清|是（汉方 + JP Holdings）|
-|集团/控股公司资本互动|不适用（相互三个）/仅列出 Dai-ichi HD|Kampo 和 JP Holdings 均上市；集团资本和撤资悬而未决的考虑|
+| 公司形态 | 三家相互制公司 + 一家上市控股公司 | 上市控股公司（JP 控股）的上市子公司 |
+| 上市 | 四家中一家（第一生命 HD） | 是（TSE Prime 7181） |
+| 最终所有权 | 保单持有人（相互制公司）/ 股东（第一生命 HD） | JP 控股（进而部分为政府所有） |
+| 主要渠道 | 专属女性销售队伍 + 多元化 | 邮政渠道（日本邮便株式会社支行）+ 简保销售人员 |
+| 银行保险载体 | 四家均使用银行保险；第一前沿生命为专属 | 有限 |
+| 独立代理载体 | 使用；NEO FIRST 生命为第一专属 | 有限 |
+| 海外寿险组合 | 四家均拥有有意义的海外簿 | 有限 |
+| 资产 / 准备金规模 | 各家数十万亿日元 | 数十万亿日元 |
+| JGB 占比 | 可观；随分散呈下降趋势 | 历史上较高；呈下降趋势 |
+| 资本规则 | 金融厅 ESR（经济价值） | 金融厅 ESR（经济价值） |
+| 近期治理事件 | 各异，但无可比的系统性销售丑闻 | 2019 不当销售丑闻 |
+| 上市股东语法 | 仅第一生命 HD | 是（简保 + JP 控股） |
+| 集团 / 控股公司资本互动 | 不适用（三家相互制）/ 仅第一生命 HD 上市 | 简保和 JP 控股均上市；集团资本及出售悬而未决考量 |
 
-最清晰的分析配置：Kampo 是日本市场上第五大上市的人寿保险资产负债表，与 Dai-ichi HD 并列，具有截然不同的分销架构、丑闻影响的近期历史以及双重上市的集团资本叠加。
+最清晰的分析定位：简保是日本市场上与第一生命 HD 并列的第五张上市寿险资产负债表，具有截然不同的分销架构、被丑闻所塑造的近期历史，以及双重上市的集团资本叠加层。
 
-## 决策使用
+## 决策用途
 
-在以下情况下使用此页面：
+在以下情况使用本页：
 
-- 阅读 Kampo 的年度报告、IR 材料或 ESR 披露，并牢记机构背景。
-- 调整日本人寿保险行业的规模，将 Kampo 与四大互助保险公司以及 Dai-ichi HD 纳入其中。
-- 分析邮政渠道分销模式与捆绑/银行保险/代理模式。
-- 追踪结构性后果2019 丑闻——销售队伍重建、适宜性控制、新政策书中的相邻动态。
-- 对 JP Holdings 集团资本配置和 Kampo / 日本邮政银行撤资悬而未决进行建模。
-- 交叉引用[[life-insurers/kampo-life|the Kampo Life entity entry]]和[[megabanks/japan-post-holdings|JP Holdings]]了解股权和上市详情。
+- 在心怀制度背景的情况下阅读简保的年度报告、IR 材料或 ESR 披露时。
+- 衡量日本寿险板块规模并将简保与四大相互制公司加第一生命 HD 一并纳入时。
+- 将邮政渠道分销模式与专属 / 银行保险 / 代理模式进行比较分析时。
+- 追溯 2019 丑闻的结构性后果——销售队伍重建、适合性管控、新保单簿近似清退的动态时。
+- 对 JP 控股的集团资本配置以及简保 / 日本邮政银行的出售悬而未决问题进行建模时。
+- 就股权所有和上市细节与 [[life-insurers/kampo-life|the Kampo Life entity entry]] 和 [[megabanks/japan-post-holdings|JP Holdings]] 交叉参照时。
 
-## 边界情况/警告
+## 边界情形 / 注意事项
 
-- **数字是概念性的。** 资产/储备/ESR 数字对日期敏感；有关当前读数，请参阅汉方红外材料。
-- **传统汉方与新汉方。** 私有化前区块具有不同的会计/管理框架。不要将两者混为一谈。
-- **邮政渠道代理合同。** 汉方与日本邮政公司之间的协议是可以续签的商业合同；结构性渠道逻辑不应被假定为以当前形式永久存在。
-- **JP Holdings 资本政策。** JP Holdings（母公司）拥有自己的资本和股息动态，持续撤资汉方/日本邮政银行股份是一种结构性特征，而不是一次性行为。
-- **政府所有权。** JP Holdings 的剩余政府控股塑造了治理预期；汉方并不是直接国有的，但该连锁店的股份归国有。
-- **预-2019 与后2019.** 将丑闻视为结构性突破。突破后的趋势推断具有误导性。
+- **数字为概念性。** 资产 / 准备金 / ESR 数字对日期敏感；当前读数请查阅简保 IR 材料。
+- **遗留简保 vs 新简保。** 私有化前的区块具有不同的会计 / 管理框架。请勿将两者混为一谈。
+- **邮政渠道代理合同。** 简保与日本邮便株式会社之间的协议是须续签的商业合同；不应假定结构性渠道逻辑会以当前形式永久存在。
+- **JP 控股资本政策。** JP 控股（母公司）有其自身的资本和分红动态，持续出售简保 / 日本邮政银行股份是一项结构性特征，而非一次性事件。
+- **政府所有权。** JP 控股中残余的政府持股塑造了治理预期；简保并非直接国有，但链条可回溯至国家持股。
+- **2019 之前 vs 2019之后。** 应将丑闻视为结构性断裂。跨越该断裂的趋势外推具有误导性。
 
-＃＃ 有关的
+## 关联
 
 - [[insurance/INDEX]]
 - [[insurance/japan-life-insurance-big-four]]
@@ -131,13 +131,13 @@ ESR 发布于[[insurance/economic-value-based-solvency|FSA economic-value-based 
 - [[megabanks/nippon-post]]
 - [[financial-licenses/insurance-license-and-solvency]]
 - [[financial-regulators/fsa]]
-- MIC（总务省）
+- 总务省（Ministry of Internal Affairs and Communications）
 - [[INDEX|FinWiki index]]
 
 ## 来源
 
-- Kampo Life（日本邮政保险公司）：官方网站和 IR/年度报告。
-- 日本邮政控股：集团披露和股东材料。
-- FSA：业务改进命令文件（12 月2019）和基于经济价值的偿付能力中心。
-- MIC：邮政业务监管材料。
-- 日本邮政公司：邮政渠道机构披露。
+- 简保人寿（日本邮政保险）：官方网站及 IR / 年度报告。
+- 日本邮政控股：集团披露及股东材料。
+- 金融厅：业务改善命令文件（2019年 12 月）及经济价值基础偿付能力中心。
+- 总务省：邮政业务监管材料。
+- 日本邮便株式会社：邮政渠道代理披露。

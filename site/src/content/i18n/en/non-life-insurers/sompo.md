@@ -1,13 +1,14 @@
 ---
 source: non-life-insurers/sompo
-source_hash: 131ee9bb9bec9b55
+source_hash: 26913cc459e64842
 lang: en
 status: machine
 fidelity: ok
-title: "Sompo Holdings"
-translated_at: 2026-06-01T02:31:57.119Z
+title: "SOMPO Holdings (Sompo Holdings)"
+translated_at: 2026-06-19T06:09:18.033Z
 ---
-# Sompo Holdings
+
+# SOMPO Holdings (Sompo Holdings)
 
 ## Wiki route
 
@@ -15,162 +16,162 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Part of the domestic 3  large non-life insurance company ([[non-life-insurers/tokio-marine|東京海上 HD]], [[non-life-insurers/msad|MS&AD HD]], SOMPO HD). **2010-04  Formerly [[non-life-insurers/sompo-japan-insurance|損保ジャパン]] + Nipponkoa Insurance Business integration** Launched as NKSJ HD, renamed 2014-09  Sonpo HD → 2016-10 SOMPO HD. **The theme park strategy** focuses on non-life insurance + life insurance + **nursing care (SOMPO Care = Japan's largest nursing care provider)** + digital + overseas insurance (**Sompo International**, 2017  acquired the former Endurance with 6300 億円) as the main pillars of 5 . Sompo Japan received a business improvement order (2024) from the Financial Services Agency due to the **2023-2024  big motor unauthorized repair issue**. TSE PRIME 8630. ^[extracted]
+One of Japan's 3  major non-life insurers ([[non-life-insurers/tokio-marine|東京海上 HD]] · [[non-life-insurers/msad|MS&AD HD]] · SOMPO HD). **Founded as NKSJ HD through the 2010-04  business integration of the former [[non-life-insurers/sompo-japan-insurance|損保ジャパン]] + Nipponkoa Insurance**, then renamed 2014-09  to Sompo HD → 2016-10  SOMPO HD. With a **"theme-park strategy,"** it positions non-life + life + **nursing care (SOMPO Care = Japan's largest nursing-care operator)** + digital + overseas insurance (**Sompo International**, acquiring the former Endurance for approx. 6300 億円 in 2017 ) as its 5  pillars. Due to the **2023-2024  Big Motor fraudulent-repair problem**, Sompo Japan received a business-improvement order from the FSA (2024). TSE PRIME 8630. ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: SOMPO Holdings Co., Ltd. ^[extracted]
+**Formal name**: SOMPO Holdings, Inc. ^[extracted]
 **English name**: Sompo Holdings, Inc.
-**Stock code**: TSE PRIME 8630 ^[extracted]
-**Established**: 2010-04-01 (as NKSJ Holdings Co., Ltd.) ^[extracted]
-**Name change history**: NKSJ HD (2010-04) → SOMPO HD (2014-09) → **SOMPO HD (2016-10)** ^[extracted]
-**Head Office**: Nishi-Shinjuku, Shinjuku-ku, Tokyo (Sompo Japan Head Office Building) ^[extracted]
-**Representative**: Kengo Sakurada (Chairman *2024-03  CEO after retirement) / Mikio Okumura (President of SOMPO HD) / Koji Ishikawa (President of Sompo Japan, appointed 2024 ) ^[extracted]
-**Business type**: Insurance holding company (non-life insurance + life insurance + nursing care + overseas)
+**Securities code**: TSE PRIME 8630 ^[extracted]
+**Established**: 2010-04-01 (as NKSJ Holdings, Inc.) ^[extracted]
+**Renaming history**: NKSJ HD (2010-04) → Sompo HD (2014-09) → **SOMPO HD (2016-10)** ^[extracted]
+**Head office**: Nishi-Shinjuku, Shinjuku-ku, Tokyo (Sompo Japan head-office building) ^[extracted]
+**Representatives**: Kengo Sakurada (Chairman ※after stepping down as CEO 2024-03 ) / Mikio Okumura (President, SOMPO HD) / Koji Ishikawa (President, Sompo Japan, assumed office 2024 ) ^[extracted]
+**Business type**: insurance holding company (non-life + life + nursing care + overseas)
 
-### Major subsidiaries/equity
+### Main subsidiaries / equity stakes
 
-````
-SOMPO HD (Holding company/Listed 8630)
-  ├── Sompo Japan Insurance Co., Ltd. (SOMPO General Insurance, 100%)── Domestic non-life insurance core
-  │ └── Former Sompo Japan + former Nipponkoa Insurance 2014-09  Merger origin
-  ├── SOMPO Himawari Life Insurance (100%)── Domestic life insurance
-  ├── SOMPO Care Co., Ltd. (100%)─ Japan's largest nursing care company
-  │ └── Old Watami's Care + Old Message 2019  Integration
-  ├── Sompo International Holdings Ltd. (100%)── Bermuda-based special insurance/reinsurance
-  │ ├── Former Endurance Specialty (about 2017  acquired 6300 億円)
-  │ └── Head of North America, South America, Asia, and Europe Business
-  ├── DC Capital (managed by Lloyds Syndicate)
-  ├── Sompo Insurance (US / Canada / Asia / Europe locations)
-  ├── Sompo Sigorta (Turkish non-life insurance)
-  └── Sompo Brasil (Brazilian non-life insurance)
-````
+```
+SOMPO HD (holding company · listed 8630)
+  ├── Sompo Japan Insurance Inc. (SOMPO non-life insurance, 100%) ── domestic non-life core
+  │     └── derived from the 2014-09  merger of former Sompo Japan + former Nipponkoa Insurance
+  ├── SOMPO Himawari Life Insurance (100%) ── domestic life
+  ├── SOMPO Care Inc. (100%) ── Japan's largest nursing-care operator
+  │     └── 2019  integration of former Watami nursing care + former Message
+  ├── Sompo International Holdings Ltd. (100%) ── Bermuda-based · specialty insurance/reinsurance
+  │     ├── former Endurance Specialty (acquired 2017  for approx. 6300 億円)
+  │     └── oversees North America · South America · Asia · Europe businesses
+  ├── DC Capital (UK Lloyd's syndicate management)
+  ├── Sompo Insurance (US / Canada / Asia / Europe offices)
+  ├── Sompo Sigorta (Turkey non-life)
+  └── Sompo Brasil (Brazil non-life)
+```
 
-### Merger history/predecessor
+### Merger history / predecessors
 
-- Former **Yasuda Fire and Marine Insurance**: Former Yasuda Zaibatsu (prewar Mutual Aid Life)
-- Former **Nissan Fire and Marine Insurance**: Former Nissan Concern affiliate
-- Former **Taisei Fire and Marine Insurance**: 2001  went bankrupt → merged with Sompo Japan (2002)
-- **Sompo Japan**: 2002-07  Yasuda Fire + Nissan Fire + Taisei Fire Merger launched ^[extracted]
-- Former **Nipponkoa Insurance**: 2001-04  Merger of Nippon Fire & Marine + Koa Fire & Marine (established 2001-04 ) ^[extracted]
-- **NKSJ HD**: 2010-04-01 Sompo Japan + Nipponkoa Insurance Business integration in joint holding company format ^[extracted]
-- **Sompo Japan Nipponkoa**: 2014-09-01 Sompo Japan + Nipponkoa Insurance Merger and name change (simultaneous name change with holding stock NKSJ HD → Sompo HD) ^[extracted]
-- **Sompo Japan Insurance (renamed)**: 2020-04-01 Renamed from "Sommon Insurance Japan Nipponkoa" to "Sommon Insurance Japan" ^[extracted]
+- Former **Yasuda Fire & Marine Insurance**: former Yasuda zaibatsu lineage (prewar Kyosai Life lineage)
+- Former **Nissan Fire & Marine Insurance**: former Nissan konzern lineage
+- Former **Taisei Fire & Marine Insurance**: 2001  business failure → integrated into Sompo Japan (2002)
+- **Sompo Japan**: 2002-07  founded through the merger of Yasuda Fire + Nissan Fire + Taisei Fire ^[extracted]
+- Former **Nipponkoa Insurance**: 2001-04  merger of Nichido Fire & Marine + Koa Fire & Marine (established 2001-04 ) ^[extracted]
+- **NKSJ HD**: 2010-04-01 business integration of Sompo Japan + Nipponkoa Insurance via the joint-holding-company method ^[extracted]
+- **Sompo Japan Nipponkoa**: 2014-09-01 merger / renaming of Sompo Japan + Nipponkoa Insurance (holdco NKSJ HD → Sompo HD renamed simultaneously) ^[extracted]
+- **Sompo Japan (re-renaming)**: 2020-04-01 "Sompo Japan Nipponkoa" → re-renamed to "Sompo Japan" ("Nipponkoa" disappeared) ^[extracted]
 
-### Important chronology (excerpt) ^[extracted]
+### Key chronology (excerpt) ^[extracted]
 
-| Month | Event |
+| Year / month | Event |
 |---|---|
-| 2002-07  | Sompo Japan established (merger of Yasuda Fire + Nissan Fire + Taisei Fire) |
-| **2010-04-01** | **NKSJ HD established** (Sompo Japan + Nipponkoa Insurance joint holding company) |
-| 2014-09-01 | NKSJ HD → **Sonpo HD** renamed / Sompo Japan + Nipponkoa Insurance merger → Sompo Japan Nipponkoa Insurance |
-| 2016-10-01 | Sompo HD → **SOMPO Holdings** Renamed |
-| **2017-03** | **Completion of acquisition of Endurance Specialty Holdings (approximately 6300 億円)**→ Reorganization to Sompo International |
-| 2019  | **SOMPO Care launched** (Watami's care + message integration) → Largest nursing care company in Japan |
-| 2020-04-01 | Sompo Japan Nipponkoa Insurance → Renamed “**Sommon Insurance Japan**” (“Nipponkoa” disappeared) |
-| **2023～2024** | **Big Motor Fraudulent Repair Issue/Sompo Japan Insurance Claim Fraud Case** (False Insurance Claim in collaboration with a specific maintenance shop) |
-| **2024** | **Financial Services Agency Business Improvement Order** (addressed to Sompo Japan) / Management change and internal control reform |
+| 2002-07 | Sompo Japan founded (merger of Yasuda Fire + Nissan Fire + Taisei Fire) |
+| **2010-04-01** | **NKSJ HD established** (business integration of Sompo Japan + Nipponkoa Insurance · joint holding company) |
+| 2014-09-01 | NKSJ HD → **Sompo HD** renamed / Sompo Japan + Nipponkoa Insurance merged → Sompo Japan Nipponkoa |
+| 2016-10-01 | Sompo HD → **SOMPO Holdings** renamed |
+| **2017-03** | **Endurance Specialty Holdings acquisition completed (approx. 6300 億円)** → reorganized into Sompo International |
+| 2019 | **SOMPO Care founded** (Watami nursing care + Message integration) → Japan's largest nursing-care operator scale |
+| 2020-04-01 | Sompo Japan Nipponkoa → "**Sompo Japan**" re-renamed ("Nipponkoa" gone) |
+| **2023〜2024** | **Big Motor fraudulent-repair problem · Sompo Japan fraudulent-insurance-claim incident** (fraudulent insurance claims in collusion with specific repair shops) |
+| **2024** | **FSA business-improvement order** (to Sompo Japan) / management change · internal-control reform |
 
-## 1.5  latest financials (FY2024 = 2025-03  period, consolidated) ^[extracted]
+## 1.5 Latest financials (FY2024 = 2025-03  term, consolidated) ^[extracted]
 
-| Indicators | FY2024  results | Compared to previous period |
+| Indicator | FY2024  results | YoY |
 |---|---|---|
 | **Ordinary revenue** | **5,453,769 百万円 (≒ 5.45 兆)** | +10.5% |
 | Ordinary profit | 552,900 百万円 (≒ 5,529 億) | — |
-| **Net income (attributable to parent company shareholders)** | **422,927 百万円 (≒ 4,229 億)** | +1.7% |
+| **Net profit (attributable to parent-company shareholders)** | **422,927 百万円 (≒ 4,229 億)** | +1.7% |
 | **Total assets** | **15,030,015 百万円 (≒ 15.03 兆)** | — |
-| Net worth | 2,870,000 百万円 (≒ 2.87 兆) | — |
+| Net assets | 2,870,000 百万円 (≒ 2.87 兆) | — |
 | Consolidated employees | **54,106 名** | — |
-| Number of SOMPO care locations | Approx. **470  locations** | — |
-| Internal Control Report | **“Effective” rating** | — |
+| SOMPO Care number of facilities | approx. **470  facilities** | — |
+| Internal-control report | **"effective" evaluation** | — |
 
 ### Major shareholder composition ^[extracted]
 
-- Top10  Shareholder: Trust Account (Japan Master Trust / Japan Custody) Approx. **23%**
-- Foreign corporation ownership ratio: **10% or more**
-- Policy to reduce cross-shareholdings continues (in response to the Financial Services Agency's cross-shareholding cancellation policy)
+- Top 10  shareholders: trust accounts (Japan Master Trust / Japan Custody) approx. **23%**
+- Foreign corporate, etc. ownership ratio: **over 10%**
+- Continuing policy of reducing policy-holding shares (responding to the FSA cross-shareholding-unwinding policy)
 
-> Source: SOMPO HD Official IR ([https://www.sompo-hd.com/](https://www.sompo-hd.com/)) 2025-05  Financial Results Announcement / Securities Report Based
+> Source: SOMPO HD official IR ([https://www.sompo-hd.com/](https://www.sompo-hd.com/)) 2025-05  earnings announcement / based on securities reports
 
 ## 2. Business segment map
 
-| Segment | Main Operator | Features |
+| Segment | Main operator | Characteristics |
 |---|---|---|
-| Domestic non-life insurance | Sompo Japan Insurance | Domestic 3  Large non-life insurance (auto, fire, new type, business insurance) |
-| Domestic life insurance | SOMPO Himawari Life | Mid-level life insurance positions |
-| Nursing care | SOMPO Care | Largest domestic nursing care company (formerly Watami, former Message Integration) Core of non-insurance segment |
-| Overseas insurance | Sompo International (formerly Endurance) | Bermuda-based special insurance + reinsurance, mainly in North America |
-| Lloyds | DC Capital | Lloyds Syndicate Management |
-| Emerging countries non-life insurance | Sompo Sigorta (Türkiye) / Sompo Brasil / Asia base | Emerging countries small-lot diversification |
-| Digital | SOMPO Digital Lab (based in Tokyo, Silicon Valley, and Tel Aviv) | “Real Data Platform” concept |
+| Domestic non-life | Sompo Japan | One of Japan's 3  major non-life insurers (auto · fire · new-type · corporate insurance) |
+| Domestic life | SOMPO Himawari Life | Mid-tier life position |
+| Nursing care | SOMPO Care | Japan's largest nursing-care operator (former Watami · former Message integration); core of the non-insurance segment |
+| Overseas insurance | Sompo International (former Endurance) | Bermuda-based · specialty insurance + reinsurance, North-America-centric |
+| Lloyd's | DC Capital | UK Lloyd's syndicate management |
+| Emerging-market non-life | Sompo Sigorta (Turkey) / Sompo Brasil / Asia offices | Emerging-market small-scale diversification |
+| Digital | SOMPO Digital Lab (Tokyo · US Silicon Valley · Tel Aviv offices) | "Real Data Platform" concept |
 
-### Theme Park Strategy
+### Theme-park strategy
 
-- SOMPO A synonym for management. **Non-life insurance + life insurance + nursing care + digital + overseas insurance** is positioned as a “theme park for security, safety, and health that goes beyond insurance” ^[extracted]
-- A concept that Kengo Sakurada (Chairman) has led for many years.
-- Placing nursing care (SOMPO Care) as the strategic core of the non-insurance segment is most clear among domestic 3  large non-life insurance companies.
+- Synonymous with SOMPO's management. Positions **non-life + life + nursing care + digital + overseas insurance** as a "theme park of security, safety, and health beyond insurance" ^[extracted]
+- A concept long led by Kengo Sakurada (Chairman)
+- Placing nursing care (SOMPO Care) at the strategic core of the non-insurance segment is the clearest among Japan's 3  major non-life insurers
 
-### Nursing care business
+### Nursing-care business
 
-- **SOMPO Care**: Old Watami's care (2015  acquired from Watami with 210 億円) + old message (about 2016  TOB with 270 億円) integration ^[extracted]
-- 2019 SOMPO Unified care → Largest nursing care in Japan by number of rooms
+- **SOMPO Care**: integration of former Watami nursing care (acquired from Watami for 210 億円 in 2015 ) + former Message (TOB for approx. 270 億円 in 2016 ) ^[extracted]
+- 2019  unified as SOMPO Care → Japan's largest nursing-care operator scale by number of rooms
 
 ### Overseas strategy
 
-- **Sompo International** (formerly Endurance Specialty): About 2017-03  Acquisition of 6300 億円 → Bermuda special insurance + reinsurance hub ^[extracted]
-- **North American focus**: US non-life insurance + Bermuda reinsurance
-- **Emerging countries**: Sompo Sigorta (Türkiye) / Sompo Brasil / Small-lot diversification in Asian bases
-- **DC Capital**: Managed by British Lloyds Syndicate
+- **Sompo International** (former Endurance Specialty): acquired for approx. 6300 億円 in 2017-03  → Bermuda-lineage · specialty insurance + reinsurance hub ^[extracted]
+- **North-America-centric**: US non-life + Bermuda reinsurance
+- **Emerging markets**: small-scale diversification via Sompo Sigorta (Turkey) / Sompo Brasil / Asia offices
+- **DC Capital**: UK Lloyd's syndicate management
 
 ### Digital
 
-- **SOMPO Digital Lab** (Tokyo, Silicon Valley, Tel Aviv)
-- **Palantir Strategic Alliance** (2020): SOMPO HD invested approximately 5 億 USD (approximately 540 億円) in Palantir Technologies. 3  of SOMPO HD, Palantir, and Palantir Japan launched the "Real Data Platform (RDP) for Security, Safety, and Health" based on Palantir Foundry, and integrated analysis of data from inside and outside the group starting from the nursing care and health fields.
-- Integrated platform concept for nursing care data + non-life insurance data
+- **SOMPO Digital Lab** (Tokyo · Silicon Valley · Tel Aviv)
+- **Palantir strategic alliance** (2020): SOMPO HD invests approx. USD 5 億 (approx. 540 億円) in Palantir Technologies. SOMPO HD · Palantir · Palantir Japan, the 3  parties, launch a "Real Data Platform (RDP) for security, safety, and health" built on Palantir Foundry, integrating and analyzing data inside and outside the group starting from the nursing-care / health fields
+- Integrated-platform concept of nursing-care data + non-life data
 
-### Governance improvement after the Big Motor incident (FY2024  progress) ^[extracted]
+### Governance improvement since the Big Motor incident (FY2024  progress) ^[extracted]
 
 - **2024-01-26**: Sompo Japan President Giichi Shirakawa resigns
-- **2024-03**: SOMPO HD **Kengo Sakurada retires as CEO** (becomes chairman) → Top management reform
-- **Succession**: Koji Ishikawa appointed as president of Sompo Japan / Mikio Okumura as president of SOMPO HD
-- **2024  Business Improvement Order** (to Financial Services Agency/Sompo Japan) → Internal control report/clarification of management responsibility
-- **FY2024  Internal Control Evaluation: "Effective"** (Official confirmation of improvement in the first comprehensive evaluation after reconstruction)
-- Board of Directors reform/increasing the ratio of outside directors
-- Review of business model dependent on used car repair shops (strengthening risk management of specific repair shops)
-- 2026  strategic alliance with DRS Group (vehicle repair platform) / Zego (UK insurtech) etc. → Shift to overseas/digital offensive after rebuilding governance ^[extracted]
-- 3  Suspicion of a large non-life insurance cartel (pre-adjustment of insurance premiums for companies, violation of the Antimonopoly Act) is also investigated separately by the Fair Trade Commission → Pressure for structural reform continues throughout the industry ^[extracted]
+- **2024-03**: SOMPO HD **CEO Kengo Sakurada steps down** (moves to Chairman position) → management-top renewal
+- **Successors**: Koji Ishikawa assumes Sompo Japan presidency / Mikio Okumura SOMPO HD presidency structure
+- **2024  business-improvement order** (FSA · to Sompo Japan) → internal-control report · clarification of management responsibility
+- **FY2024  internal-control evaluation: "effective"** (improvement officially confirmed in the first comprehensive evaluation after rebuilding)
+- Board reform · raising the ratio of outside directors
+- Review of the used-car-repair-shop-dependent sales model (strengthening specific-repair-shop risk management)
+- 2026  strategic alliances with DRS Group (vehicle-repair platform) / Zego (UK insurtech), etc. → pivot to an overseas / digital offensive after governance rebuilding ^[extracted]
+- The 3  major non-life insurers' cartel suspicion (advance adjustment of corporate insurance premiums, antitrust violation) is also separately under Fair Trade Commission investigation → industry-wide structural-reform pressure continues ^[extracted]
 
-## 4. Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervising**: Financial Services Agency (FSA)
-- **Holding Company Regulations**: Insurance Business Act (Insurance Holding Company)
-- **Domestic non-life insurance industry regulations**: Insurance Business Law, Antimonopoly Law (related to cartel suspicions)
-- **Overseas regulations**:
+- **Supervisor**: Financial Services Agency (FSA)
+- **Holding-company regulation**: Insurance Business Act (insurance holding company)
+- **Domestic non-life industry regulation**: Insurance Business Act, Antitrust Act (cartel-suspicion related)
+- **Overseas regulation**:
   - Bermuda Monetary Authority (BMA, Sompo International)
-  - Americas State Insurance Supervisory Agency
-  - UK PRA/FCA (DC Capital/Lloyds related)
-  - Türkiye SEDDK (Sompo Sigorta)
-- **Current policy issues**:
-  - **2024  Business Improvement Order** (To Sompo Japan, Big Motor case) → Internal control report/clarification of management responsibility
-  - **Suspected violation of the Antimonopoly Act** (3  large insurance cartel suspicion, adjustment of insurance premiums for companies) → Fair Trade Commission investigation
-  - Reduction of cross-shareholdings (Financial Services Agency cross-shareholding elimination policy)
-  - Frequent natural disasters → Pressure to revise fire insurance premium rates (via Non-Life Insurance Premium Rating Organization)
+  - State insurance regulators in the Americas
+  - UK PRA / FCA (DC Capital / Lloyd's related)
+  - Turkey SEDDK (Sompo Sigorta)
+- **Recent policy issues**:
+  - **2024  business-improvement order** (to Sompo Japan, Big Motor case) → internal-control report · clarification of management responsibility
+  - **Suspected antitrust violation** (3  major non-life insurers' cartel suspicion, corporate-premium adjustment) → JFTC investigation
+  - Reduction of policy-holding shares (FSA cross-shareholding-unwinding policy)
+  - Increasing frequency of natural disasters → pressure for fire-insurance rate revision (via the General Insurance Rating Organization)
 
 ## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
-- Domestic 3  General Insurance: Tokio Marine HD (8766) / MS&AD HD (8725) / **SOMPO HD (8630)**
+- Japan's 3  major non-life insurers: Tokio Marine HD (8766) / MS&AD HD (8725) / **SOMPO HD (8630)**
 
 ## Sources
 
-- **Wikipedia: SOMPO Holdings** (Public information, 2026-05-19 extract)
-- **Wikipedia: Sompo Japan Insurance / Sompo Care / Sompo International** (public information)
-- **Financial Services Agency Business Improvement Order** (Addressed to Sompo Japan, Big Motor related, 2024  public announcement)
-- **Fair Trade Commission** (3  Large Insurance Cartel Suspicion Investigation Related, Public Announcement)
-- **Nihon Keizai Shimbun** "SOMPO invests 540 億円 in US data giant Palantir" (https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/, 2020-06) — Palantir About 5 億 USD Investment Confirmation
-- **Shinnihon Insurance Shimbun** "SOMPO Holdings launches 'real data platform for security, safety and health' with Palantir" (https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/, 2020-06-22) — RDP / Palantir Foundry / 3  party partnership confirmation
+- **Wikipedia: SOMPO Holdings** (public information, 2026-05-19 extraction)
+- **Wikipedia: Sompo Japan / SOMPO Care / Sompo International** (public information)
+- **FSA business-improvement order** (to Sompo Japan, Big Motor related, 2024  public announcement)
+- **Japan Fair Trade Commission** (related to the 3  major non-life insurers' cartel-suspicion investigation, public announcement)
+- **Nihon Keizai Shimbun** "SOMPO invests 540 億円 in US data major Palantir" (https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/, 2020-06) — confirmation of approx. USD 5 億 investment in Palantir
+- **Shin Nihon Insurance News** "SOMPO Holdings launches a 'Real Data Platform for security, safety, and health' with Palantir" (https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/, 2020-06-22) — confirmation of RDP / Palantir Foundry / 3 -party alliance
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.1 IR reflected 2026-05-19). **FY2024  (2025-03  period) Consolidated financial results (Ordinary revenue 5.45 兆 / Net income 4,229 億 / Total assets 15.03 兆 / Consolidated employees 54,106 名 / Sompo Care approx. 470  base) reflected on SOMPO HD official IR base**. Added management change (Shirakawa 2024-01 /Sakurada 2024-03) and evaluation of internal control as "effective." Endurance acquisition amount and integration date are based on Wikipedia public documents. 3  Large insurance cartel suspicion disposition is an ongoing case → Periodic update required.
+> confidence: **likely** (v1.1  IR reflected 2026-05-19). **The FY2024  (2025-03  term) consolidated earnings figures (ordinary revenue 5.45 兆 / net profit 4,229 億 / total assets 15.03 兆 / consolidated employees 54,106 名 / SOMPO Care approx. 470  facilities) are reflected on a SOMPO HD official IR basis**. The management change (Shirakawa 2024-01  / Sakurada 2024-03) and the "effective" internal-control evaluation are also added. The Endurance acquisition amount and integration date are based on Wikipedia public materials. The 3  major non-life insurers' cartel-suspicion disposition is an ongoing matter → periodic updates required.

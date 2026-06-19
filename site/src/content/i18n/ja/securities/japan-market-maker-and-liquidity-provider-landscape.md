@@ -1,214 +1,215 @@
 ---
 source: securities/japan-market-maker-and-liquidity-provider-landscape
-source_hash: ed3274178592258a
+source_hash: 479035c983b5e4e4
 lang: ja
 status: machine
 fidelity: ok
-title: "日本のマーケットメーカー／流動性供給者のランドスケープ"
-translated_at: 2026-06-03T00:53:08.259Z
+title: "Japan market maker and liquidity provider landscape"
+translated_at: 2026-06-19T12:43:19.987Z
 ---
-# 日本のマーケットメーカー／流動性供給者のランドスケープ
 
-## ウィキ上の位置づけ
+# Japan market maker and liquidity provider landscape
 
-このページは、[[securities/INDEX|securities index]]内で[[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]、[[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]の流動性供給側のピアにあたる。ルーティング側の説明に対する供給側の対応物であり、SORが注文を送る一方で、マーケットメーカーは反対側の気配を提示する。取引所文脈は[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、主要取引所ルールは[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]と[[securities/osaka-exchange|Osaka Exchange]]、HFT在庫を支える資金調達層は[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]、日本拠点を運営するグローバル自己勘定取引会社の事業体レベル確認は[[securities/financial-instruments-business-operators-japan-index|FIBO registry]]とあわせて読む。
+## Wiki route
 
-## 要約
+このページは、[[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]、[[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] の流動性供給のピアとして [[securities/INDEX|securities index]] の内部に位置する。これはルーティングサイドのナラティブに対する供給サイドの相方である：SOR が注文をルーティングし、マーケットメーカーが反対側を提示する。取引所の文脈については [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] と、主要取引所のルールについては [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] と [[securities/osaka-exchange|Osaka Exchange]] と、HFT の在庫を支える資金調達レイヤーについては [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] と、日本にオフィスを構えるグローバルなプロプライエタリ・トレーディング会社のエンティティレベルの確認については [[securities/financial-instruments-business-operators-japan-index|FIBO registry]] と併せて読むこと。
 
-日本の株式および上場デリバティブのマーケットメイクは、ハイブリッド市場である。Nomura、Daiwa、SMBC Nikko、Mizuho、MUMSSなどの国内フルサービス証券が、伝統的な銀行／証券型マーケットメイクとETF指定参加者機能を提供する。その横で、Citadel Securities Japan、Optiver Japan、Virtu Financial Japan、Jane Street Japan、IMC Japan、Susquehanna（SIG）Japan、その他のクオンツ取引会社からなるグローバル自己勘定取引／HFT層が、JPXの指定マーケットメーカー（DMM）制度とJ-NET／arrowheadマッチング基盤の中で活動している。JPXは、大阪取引所上場デリバティブ（指数先物／オプション、JGB先物／オプション）と東京証券取引所ETFについて、正式なマーケットメーカー制度を運営している。東証現物株式のDMMカバレッジは選択的である。証券金融、プライムブローカレッジ資金、PTSルーティングの経済性（[[securities/japannext-securities|Japannext]]）が競争上の位置づけを左右する。すべての会社は、東京拠点を持つ金商法登録の第一種金融商品取引業者として活動し、FSAとJSDA自主規制ルールの監督を受ける。
+## TL;DR
 
-## このエコシステムが重要な理由
+日本の株式および上場デリバティブのマーケットメイクはハイブリッド市場である：国内のフルサービス・ハウス（野村、大和、SMBC 日興、みずほ、MUMSS）が伝統的な銀行/ブローカーのマーケットメイクと ETF の指定参加者（AP）機能を提供する；それらと並んで、グローバルなプロプライエタリ・トレーディング/HFT 層 — Citadel Securities Japan、Optiver Japan、Virtu Financial Japan、Jane Street Japan、IMC Japan、Susquehanna (SIG) Japan、その他の数量取引会社 — が JPX の指定マーケットメーカー（DMM）および J-NET / arrowhead のマッチングインフラの内部で活動する。JPX は、大阪取引所の上場デリバティブ（指数先物/オプション/JGB 先物/オプション）と東京証券取引所の ETF について正式なマーケットメーカー制度を運営している；TSE 現物株式における株式 DMM のカバレッジは選択的である。証券金融、プライムブローカレッジの資金調達、および PTS ルーティングの経済性（[[securities/japannext-securities|Japannext]]）が競争上のポジショニングを形作る。すべての会社は、東京にオフィスを持つ FIEA 登録の第一種金融商品取引業者として活動し、FSA と JSDA の自主規制ルールの監督を受ける。
 
-マーケットメーカーと流動性供給者は、個人向けSORや機関投資家の執行アルゴリズムが利用する板の供給側である。十分なマーケットメーカー活動がなければ、次のことが起こる。
+## Why this ecosystem matters
+
+マーケットメーカーと流動性供給者は、リテールの SOR と機関投資家の執行アルゴリズムがアクセスする板の供給サイドである。十分なマーケットメーカー活動がなければ：
 
 1. **ビッド・アスク・スプレッドが拡大する。** 顧客の執行コストが上昇する。
-2. **ETFの裁定ギャップが開く。** 指定参加者による設定／交換裁定がなければ、ETF価格はNAVから乖離する。
-3. **オプション市場の流動性が薄くなる。** マーケットメーカーによるグリークス・ヘッジが、オプション板の流動性の構造的な源泉である。
-4. **デリバティブ参照品質が低下する。** 先物と原資産株式バスケットの指数裁定には、双方で一貫したマーケットメーカー気配が必要である。
-5. **PTSの価格改善機会が縮小する。** SORルーティングが価格改善を届けるのは、PTS取引所に競合気配が存在する場合だけである。
+2. **ETF の裁定ギャップが開く。** 指定参加者の設定/交換の裁定がなければ、ETF 価格は NAV から乖離する。
+3. **オプション市場の流動性が薄くなる。** マーケットメーカーによるグリークスのヘッジが、オプション・ブックの流動性の構造的な源泉である。
+4. **デリバティブの参照品質が劣化する。** 先物と原資産の現物株式バスケットとの間の指数裁定には、両サイドでの一貫したマーケットメーカーのクオートが必要である。
+5. **PTS の価格改善機会が縮小する。** SOR ルーティングは、PTS 取引所に競合するクオートが存在する場合にのみ価格改善をもたらす。
 
-2010 以降のグローバルHFT会社の日本参入と、2013 以降の東証arrowheadエンジン更新が相まって、スプレッドは圧縮され、表示板の厚みは改善し、正式な指定マーケットメーカー制度の経済的意味が高まった。
+グローバル HFT 会社の日本への導入（2010  以降）と、TSE の arrowhead エンジンのアップグレード（2013  以降）が相まって、スプレッドを圧縮し、表示される厚みを改善し、正式な指定マーケットメーカー制度をより経済的に意味のあるものにした。
 
-### 大阪取引所デリバティブ・マーケットメーカー制度
+### Osaka Exchange derivatives market-maker scheme
 
-OSEは上場デリバティブ向けに正式なMarket Maker（MM）プログラムを運営しており、次のような商品を対象にする。
+OSE は、以下のような商品をカバーする上場デリバティブの正式なマーケットメーカー（MM）プログラムを運営している：
 
-| 商品 | マーケットメーカー上の重要性 |
+| Product | Market-maker relevance |
 |---|---|
-| Nikkei 225 先物／オプション | 中核的な株価指数デリバティブMM活動。 |
-| TOPIX先物／オプション | 指数デリバティブMM。 |
-| Nikkei 225 ミニ／マイクロ | 個人投資家向け契約で、MMカバレッジを持つ。 |
-| JGB先物／オプション | JGB現物・レポとのクロスアセット連動を持つ金利デリバティブMM（マップ済みの場合は[[money-market/jgb-repo-market-japan|JGB repo]]文脈を参照）。 |
-| 個別株オプション | より選択的なMMカバレッジ。 |
-| ボラティリティ／セクター商品 | 一部セグメントでMMが支援。 |
+| 日経 225  先物 / オプション | コアの株価指数デリバティブ MM 活動。 |
+| TOPIX 先物 / オプション | 指数デリバティブ MM。 |
+| 日経 225  ミニ / マイクロ | MM カバレッジのあるリテール向け契約。 |
+| JGB 先物 / オプション | JGB 現物およびレポとのクロスアセット連動を持つ金利デリバティブ MM（マッピングされている箇所では [[money-market/jgb-repo-market-japan|JGB repo]] の文脈を参照）。 |
+| 個別株オプション | より選択的な MM カバレッジ。 |
+| ボラティリティ / セクター商品 | 一部のセグメントで MM 支援あり。 |
 
-MM制度は、定められたビッド・アスク・スプレッド、最低数量、気配提示率の要件の下で両建て継続気配を約束する会社に、インセンティブ（手数料リベート、参加コスト低減、正式な気配提示義務と便益）を与える。現行制度のパラメータは、OSE Market Makerページで確認する。
+MM 制度は、指定されたビッド・アスク・スプレッド/最小サイズ/クオート存在の要件の下で両サイドの継続的なクオートにコミットする会社に対して、インセンティブ（手数料リベート/参加コスト削減/正式なクオート義務と便益）を提供する。現行の制度パラメータは OSE のマーケットメーカーページで確認すること。
 
-### TSE ETFマーケットメーカー制度
+### TSE ETF market-maker scheme
 
-TSEは上場ETF向けに正式なETF Market Makerプログラムを運営している。構造的な目的は、表示ビッド・アスク・スプレッドを狭く保ち、原資産バスケットとのETF裁定を支えることである。国内AM（主要ETF発行体であるNomura AM、AM-One、MUFG AM、Nikko AM、Daiwa AM。[[securities/japan-asset-manager-landscape-matrix|asset manager landscape]]参照）は、この制度で国内証券MMとグローバル会社の双方と連携する。
+TSE は、上場 ETF について正式な ETF マーケットメーカー・プログラムを運営している。構造的な目的は、表示されるビッド・アスク・スプレッドをタイトに保ち、原資産バスケットとの ETF 裁定を支援することである。国内 AM（支配的な ETF 発行体 — 野村 AM、AM-One、MUFG AM、日興 AM、大和 AM；[[securities/japan-asset-manager-landscape-matrix|asset manager landscape]] を参照）は、この制度において国内ブローカー MM とグローバル会社の双方と協働する。
 
-### TSE現物株DMM
+### TSE cash-equity DMM
 
-TSE現物株の指定マーケットメーカー・カバレッジは、デリバティブ／ETF制度より選択的である。TSE現物株のデフォルトモデルは、arrowheadによる注文主導の継続オークションであり、正式なDMMコミットメントは、選定銘柄の市場品質目標に重ねて置かれる。
+TSE の現物株式の指定マーケットメーカーのカバレッジは、デリバティブ/ETF の制度よりも選択的である。TSE におけるデフォルトの現物株式モデルは、arrowhead を介した注文駆動の連続オークションである；正式な DMM のコミットメントは、選ばれた銘柄について特定の市場品質目標のためにこれに上乗せされる。
 
-## 国内証券会社のマーケットメイク
+## Domestic broker market making
 
-主要な国内証券会社はそれぞれ、機関投資家向け事業の一部として、株式／デリバティブ／ETFマーケットメイクと指定参加者活動を行っている。
+各主要国内証券会社は、機関投資家ビジネスの一部として株式/デリバティブ/ETF のマーケットメイクと指定参加者活動を運営している：
 
-| ハウス | マーケットメイク上の重要性 |
+| House | Market-making relevance |
 |---|---|
-| [[securities-firms/nomura-hd|Nomura Securities]] | 株式／デリバティブ／ETF全体で最大級の国内MMフットプリント。主要ETF AP。 |
-| [[securities-firms/daiwa-sg|Daiwa Securities]] | 株式／デリバティブ／ETFにまたがる主要国内MM。 |
-| [[securities-firms/smbc-nikko|SMBC Nikko]] | 株式／デリバティブにまたがる国内MM活動。金利／FX面でSMFGグループ隣接性を持つ。 |
-| [[securities-firms/mizuho-securities|Mizuho Securities]] | 国内MM活動。金利／FX統合が強い。 |
-| MUMSS（Mitsubishi UFJ Morgan Stanley） | Morgan Stanleyのグローバル統合を持つ国内MM。株式デリバティブ活動が大きい。 |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 株式/デリバティブ/ETF にわたる最大の国内 MM フットプリント；主要な ETF AP。 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 株式/デリバティブ/ETF にわたる主要な国内 MM。 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | 株式/デリバティブにわたる国内 MM 活動；金利/FX については SMFG グループの近接性。 |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | 国内 MM 活動；強力な金利/FX 統合。 |
+| MUMSS (Mitsubishi UFJ Morgan Stanley) | Morgan Stanley のグローバル統合を持つ国内 MM；相当な株式デリバティブ活動。 |
 
-これらの証券会社は、MMに加えて、引受、プライムブローカレッジ、貸株、フルサービスの機関投資家向け営業を組み合わせる。これは、純粋な自己勘定HFT会社とは構造的に異なるコスト構造である。
+これらのハウスは、MM を引受、プライムブローカレッジ、証券貸借、フルサービスの機関投資家セールスと組合せている — 純粋なプロップ HFT 会社とは構造的に異なるコスト構造である。
 
 ### Citadel Securities Japan
 
-- **グローバル親会社**: Citadel Securities（Citadelヘッジファンドとは別）。
-- **日本でのフットプリント**: FSA登録の第一種金融商品取引業者として東京拠点を運営。株式／デリバティブのマーケットメイクと執行相手方事業。
-- **特徴**: 世界最大級の株式マーケットメーカー。米国Reg NMS市場で大きなマーケットメーカー・シェアを持つ。日本事業は、グローバルなリスク基盤を用いて日本株式／デリバティブをカバーする。
-- **活動範囲**: TSE／PTSにまたがる株式マーケットメイク、株式デリバティブ、ETF。
+- **Global parent**: Citadel Securities（Citadel ヘッジファンドとは別）。
+- **Japan footprint**: FSA 登録の第一種 FIBO として活動する東京オフィス；株式/デリバティブのマーケットメイクと執行カウンターパーティ・ビジネス。
+- **Distinguishing feature**: 最大級のグローバル株式マーケットメーカーの一つ；米国 Reg NMS のマーケットメーカー市場シェアが相当；日本の事業は、グローバル会社のリスクインフラを伴う日本の株式/デリバティブのカバレッジを提供する。
+- **Activity scope**: TSE / PTS にわたる株式マーケットメイク；株式デリバティブ；ETF。
 
 ### Optiver Japan
 
-- **グローバル親会社**: Optiver（アムステルダム本社のグローバル・マーケットメーカー）。
-- **日本でのフットプリント**: 東京拠点。FSA登録の第一種金融商品取引業者。デリバティブ／ETF／株式活動でOSE／TSEのメンバー。
-- **特徴**: オプション・マーケットメイクはOptiverのグローバルな強みであり、日本のオプション／ETF／デリバティブ気配提示は中核活動である。
-- **活動範囲**: 上場オプション、ETF MM、株式デリバティブ。
+- **Global parent**: Optiver（アムステルダムに本社を置くグローバル・マーケットメーカー）。
+- **Japan footprint**: 東京オフィス；FSA 登録の第一種 FIBO；デリバティブ/ETF/株式活動のための OSE / TSE の会員。
+- **Distinguishing feature**: オプションのマーケットメイクはグローバルな Optiver の強み；日本のオプション/ETF/デリバティブのクオートがコア活動。
+- **Activity scope**: 上場オプション、ETF MM、株式デリバティブ。
 
 ### Virtu Financial Japan
 
-- **グローバル親会社**: Virtu Financial（NYSE上場のグローバル・マーケットメーカー）。
-- **日本でのフットプリント**: 東京拠点。FSA登録の第一種金融商品取引業者。日本を含むアジア複数取引所で株式／ETFマーケットメイク。
-- **特徴**: グローバルなETF APおよびマーケットメイク事業。取引所横断の裁定能力。
-- **活動範囲**: 株式／ETF MM、一部デリバティブ活動。
+- **Global parent**: Virtu Financial（NYSE 上場のグローバル・マーケットメーカー）。
+- **Japan footprint**: 東京オフィス；FSA 登録の第一種 FIBO；日本を含む複数のアジア取引所にわたる株式/ETF のマーケットメイク。
+- **Distinguishing feature**: グローバルな ETF AP およびマーケットメイク事業；クロス取引所の裁定能力。
+- **Activity scope**: 株式/ETF MM；一部のデリバティブ活動。
 
 ### Jane Street Japan
 
-- **グローバル親会社**: Jane Street（非公開のグローバル・クオンツ取引会社）。
-- **日本でのフットプリント**: 東京拠点。FSA登録。ETF／株式／デリバティブのマーケットメイク。日本上場ETFとクロスリストETF裁定に適用される強いグローバルETF APフランチャイズ。
-- **特徴**: 最も活発なグローバルETFマーケットメーカーの一つ。クオンツ取引文化。債券と株式を横断する重要なクロスアセット活動。
-- **活動範囲**: ETF MM、株式デリバティブ、クロスアセット裁定。
+- **Global parent**: Jane Street（非公開のグローバル数量取引会社）。
+- **Japan footprint**: 東京オフィス；FSA 登録；ETF/株式/デリバティブのマーケットメイク；日本上場 ETF およびクロスリスト ETF 裁定に適用される強力なグローバル ETF AP フランチャイズ。
+- **Distinguishing feature**: 最も活発なグローバル ETF マーケットメーカーの一つ；数量取引のカルチャー；相当な債券および株式のクロスアセット活動。
+- **Activity scope**: ETF MM、株式デリバティブ、クロスアセット裁定。
 
 ### IMC Japan
 
-- **グローバル親会社**: IMC Trading（アムステルダム本社のグローバル・マーケットメーカー）。
-- **日本でのフットプリント**: 東京拠点。FSA登録。デリバティブ／ETF／株式マーケットメイク。
-- **特徴**: アジアのデリバティブ市場で長期の存在感を持つ。オプション・マーケットメイク能力。
-- **活動範囲**: 上場オプション、ETF MM、株式。
+- **Global parent**: IMC Trading（アムステルダムに本社を置くグローバル・マーケットメーカー）。
+- **Japan footprint**: 東京オフィス；FSA 登録；デリバティブ/ETF/株式のマーケットメイク。
+- **Distinguishing feature**: アジアのデリバティブ市場での長年の存在；オプションのマーケットメイク能力。
+- **Activity scope**: 上場オプション、ETF MM、株式。
 
-### Susquehanna（SIG）Japan
+### Susquehanna (SIG) Japan
 
-- **グローバル親会社**: Susquehanna International Group（SIG、フィラデルフィア本社のグローバル・クオンツ取引会社）。
-- **日本でのフットプリント**: 東京拠点。FSA登録。デリバティブ／オプション・マーケットメイク。
-- **特徴**: グローバルなオプション・マーケットメイクの強み。仕組商品に関する専門性。クオンツ取引文化。
-- **活動範囲**: 上場オプション、ETF MM、株式デリバティブ。
+- **Global parent**: Susquehanna International Group（SIG、フィラデルフィアに本社を置くグローバル数量取引会社）。
+- **Japan footprint**: 東京オフィス；FSA 登録；デリバティブ/オプションのマーケットメイク。
+- **Distinguishing feature**: グローバルなオプション・マーケットメイクの強み；ストラクチャード・プロダクトの専門性；数量取引のカルチャー。
+- **Activity scope**: 上場オプション、ETF MM、株式デリバティブ。
 
-### 同階層のその他の会社
+### Other firms in the tier
 
-日本のマーケットメイク活動を持つ追加のグローバル／地域会社（このリストは公開情報で見える会社に限られる。活動中の事業体は最新のFSA金融商品取引業者登録簿で確認する）。
+日本でマーケットメイク活動を行う追加のグローバル/地域会社（このリストの上限は公開的に可視な会社を反映する；アクティブなエンティティについては現行の FSA FIBO 登録を確認すること）：
 
 - Tower Research Capital Japan
 - DRW Holdings Japan
 - Hudson River Trading Japan
-- Flow Traders（アジア事業が日本上場ETFをカバー）
-- XR Tradingおよび日本上場商品で活動するその他クオンツ会社
-- 金商法第一種範囲で活動する国内自己勘定会社
+- Flow Traders（アジア事業が日本上場 ETF をカバー）
+- XR Trading および日本上場の活動を行うその他の数量ショップ
+- FIEA 第一種スコープの下で活動する国内プロップ会社
 
-## 指定マーケットメーカーのインセンティブと義務
+## Designated-market-maker incentives and obligations
 
-JPX MMインセンティブの一般的な構造は次の通りである。
+JPX の MM インセンティブの一般的な構造：
 
-| インセンティブ | 典型的な形態 |
+| Incentive | Typical form |
 |---|---|
-| 手数料リベート／取引参加コスト低減 | MM適格活動に対する取引ごと、または商品ごとの手数料低減。 |
-| 指定銘柄割当 | 特定銘柄でDMMとして活動する権利。 |
-| マーケティング／可視性 | JPX制度ページで制度MMとして公開掲載される。 |
-| 接続／インフラ上の便益 | 一部の制度設計で付与される。 |
+| 手数料リベート / 取引参加コストの削減 | MM 適格活動に対する取引ごとまたは商品ごとの手数料の引き下げ。 |
+| 指定銘柄の割当 | 指定された銘柄について DMM として活動する権利。 |
+| マーケティング / 可視性 | JPX 制度ページ上での制度 MM としての公開掲載。 |
+| 接続性 / インフラの便益 | 一部の制度設計において。 |
 
-対応する義務は次の通りである。
+対応する義務：
 
-| 義務 | 典型的な形態 |
+| Obligation | Typical form |
 |---|---|
-| 継続的な両建て気配提示 | 指定時間中の気配提示率が求められる。 |
-| 最大ビッド・アスク・スプレッド | 気配は指定されたスプレッド帯の範囲内でなければならない。 |
-| 最低気配数量 | 気配は指定された契約数／株数以上でなければならない。 |
-| パフォーマンス監視 | 制度運営者が履行状況を監視し、不履行によりMMステータスが停止され得る。 |
-| 報告 | MM活動は取引所へ報告される。 |
+| 継続的な両サイドのクオート | 指定された時間中のクオート存在が要求される。 |
+| 最大ビッド・アスク・スプレッド | クオートは指定されたスプレッドバンド内でなければならない。 |
+| 最小クオートサイズ | クオートは指定された契約/株式サイズ以上でなければならない。 |
+| パフォーマンス監視 | 制度運営者が履行を監視する；不履行は MM ステータスを停止しうる。 |
+| 報告 | MM 活動は取引所に報告される。 |
 
-正確な制度パラメータは変化する。時間依存の材料を公表する前に、現行のOSE Market Maker／TSE ETF Market Makerページで数値閾値を確認する。
+正確な制度パラメータは変更される；時間に敏感な資料を公表する前に、現行の OSE マーケットメーカー / TSE ETF マーケットメーカーのページで最新の数値閾値を確認すること。
 
-## 先物・オプションのマーケットメイク強度
+## Futures and options market-making intensity
 
-日本の上場株価指数、JGB、個別株オプション市場は、継続的なMM気配に大きく依存する。理由は次の通りである。
+日本の上場株価指数、JGB、個別株オプション市場は、以下の理由により継続的な MM クオートに大きく依存している：
 
-- オプションは、期間構造と権利行使価格グリッド全体にわたるグリークス・ヘッジを必要とする。全グリッドに気配を出せるのは、クオンツリスク基盤を持つ体系的MMに限られる。
-- 指数先物の流動性は現物株式裁定と結びついている。MM活動はベーシスを支え、インデックスファンドのトラッキングエラーを低下させる。
-- JGB先物／オプションは、JGBレポ市場（[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]およびJGBレポ関連項目参照）と広範な資金調達市場に相互作用する。
-- 上記のグローバルHFT会社は、国内証券フランチャイズ活動の外側で、継続的MM強度の大部分を提供している。
+- オプションは、ターム構造とストライクグリッドにわたるグリークスのヘッジを必要とする；数量的なリスクインフラを持つシステマティックな MM のみがグリッド全体をクオートできる。
+- 指数先物の流動性は現物株式の裁定と絡み合っている；MM 活動はベーシスを支え、指数ファンドのトラッキングエラーを削減する。
+- JGB 先物 / オプションは JGB レポ市場（[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]] および JGB レポ関連の項目を参照）およびより広い資金調達市場と相互作用する。
+- 上記のグローバル HFT 会社は、国内ブローカーのフランチャイズ活動以外の継続的な MM 強度の大半を提供する。
 
-## 株式マーケットメイクとPTSルーティング
+## Equity market making vs PTS routing
 
-マーケットメイクとSORルーティングは板で交わる。
+マーケットメイクと SOR ルーティングは板で出会う：
 
-- TSEで気配を出すマーケットメーカーは、PTS気配が裁定されるNBBO参照を提供する。
-- [[securities/japannext-securities|Japannext]] PTSで気配を出すマーケットメーカーは、SORの価格改善機会を提供する。
-- TSEとJapannextの間で裁定するマーケットメーカーは、2つの板の整合性を保つ。
-- 同じ会社が両取引所で同時にマーケットメーカーとなり、在庫がリバランスされる過程でスプレッド差を獲得することがある。
+- TSE でクオートするマーケットメーカーは、PTS のクオートが裁定される対象の NBBO 参照を提供する。
+- [[securities/japannext-securities|Japannext]] PTS でクオートするマーケットメーカーは、SOR のための価格改善機会を提供する。
+- TSE と Japannext の間で裁定するマーケットメーカーは、二つの板を一貫させる。
+- 同じ会社が両取引所で同時にマーケットメーカーになることができ、在庫がリバランスされる際にスプレッドの差を捕捉する。
 
-ルーティング側のメカニクスは[[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]]、取引所シェアの証拠は[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]を参照する。
+ルーティングサイドのメカニズムについては [[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]] を、取引所シェアの証拠については [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] を参照。
 
-## マーケットメーカーの資金調達層
+## Financing layer for market makers
 
-HFT在庫と日中ポジションには資金調達インフラが必要である。
+HFT の在庫と日中ポジションには資金調達インフラが必要である：
 
-| 必要性 | 供給源 |
+| Need | Source |
 |---|---|
-| プライムブローカレッジ／資金調達 | バルク資金調達層は[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]参照。グローバルIBがシンセティックおよび現物の資金調達を提供する。 |
-| ショート側の貸株 | [[securities/japan-stock-lending-market-route|stock lending market route]]参照。[[financial-regulators/japan-securities-finance|Japan Securities Finance]]は構造的レールの一つであり、ブローカー間貸借も別のレールである。 |
-| 信用取引レール | [[securities/japan-margin-trading-and-securities-finance|margin trading]]参照。信用取引適格銘柄における個人向け証券MM活動に関連する。 |
-| 清算証拠金 | 会員証拠金要件に基づき[[securities/japan-securities-clearing-corp|JSCC]]へ差し入れる。 |
-| 現金レポとJGB担保 | JGBレポ市場を通じたクロスアセット資金調達。 |
+| プライムブローカレッジ / 資金調達 | バルク資金調達レイヤーについては [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] を参照；グローバル IB がシンセティックおよびフィジカルの資金調達を提供する。 |
+| ショートサイドの証券貸借 | [[securities/japan-stock-lending-market-route|stock lending market route]] を参照；[[financial-regulators/japan-securities-finance|Japan Securities Finance]] は一つの構造的なレールである；ブローカー間貸借はもう一つである。 |
+| 信用取引のレール | [[securities/japan-margin-trading-and-securities-finance|margin trading]] を参照；信用取引適格銘柄におけるリテールブローカーの MM 活動に関連する。 |
+| クリアリング・マージン | 会員のマージン要件の下で [[securities/japan-securities-clearing-corp|JSCC]] に差し入れられる。 |
+| 現金レポと JGB 担保 | JGB レポ市場を介したクロスアセット資金調達。 |
 
-資金調達コストは意味のある競争上の差別化要因である。安価な在庫資金を持つ会社は、高価な資金調達をする会社よりも、低い回転率でも狭いスプレッドを提示できる。
+資金調達コストは意味のある競争上の差別化要因である：安価な在庫資金調達を持つ会社は、高価な資金調達を持つ会社よりも低い回転率でタイトなスプレッドをクオートできる。
 
-## 規制・自主規制の枠組み
+## Regulatory and self-regulatory framework
 
-| レイヤー | 役割 |
+| Layer | Role |
 |---|---|
-| FSA | 日本で活動するグローバルHFT会社の第一種金融商品取引業登録を認可し、行為規制、システム強靭性、市場公正性管理を監督する。 |
-| JSDA | 自主規制機関。会員にはMM活動を行う会社が含まれる。ルールは注文入力、市場公正性、利益相反管理を対象とする。 |
-| JPX（TSE / OSE / TOCOM） | MM制度、気配提示義務、停止手続、監視に関する取引所ルール。 |
-| JSCC | 清算会員ルールと証拠金要件。 |
-| FSA SESC（証券取引等監視委員会） | アルゴリズム取引・HFT活動に関連する見せ玉、レイヤリング、相場操縦調査を含む市場濫用・行為監視。 |
+| FSA | 日本で活動するグローバル HFT 会社の第一種 FIBO 登録を認可する；行為、システム耐性、市場健全性のコントロールを監督する。 |
+| JSDA | 自主規制機関；会員には MM 活動会社が含まれる；ルールは注文入力、市場健全性、利益相反管理をカバーする。 |
+| JPX (TSE / OSE / TOCOM) | MM 制度、クオート義務、停止手続、サーベイランスに関する取引所ルール。 |
+| JSCC | クリアリング会員ルールとマージン要件。 |
+| FSA SESC (証券取引等監視委員会) | スプーフィング / レイヤリング / 相場操縦の調査を含む、アルゴリズムおよび HFT 活動に関連する市場濫用および行為のサーベイランス。 |
 
-具体的なMMルール改正、不公正取引に対する執行措置、SESCの勧告／事案は、公的な規制発表に定期的に現れる。特定会社について結論を出す前に、現行事案を確認する。
+特定の MM ルール改正、濫用的取引の執行措置、SESC の和解 / 事案は、公的な規制発表に定期的に現れる；特定の会社について結論を導く前に現行の事案を確認すること。
 
-## ETF指定参加者の役割
+## ETF authorized participant role
 
-ETF指定参加者（AP）は、通常マーケットメーカーでもある会社と、国内フルサービス証券で構成される。
+ETF の指定参加者（AP）は、通常、マーケットメーカーとして活動する同じ会社に加えて、国内のフルサービス・ブローカーである：
 
-- 国内AP: Nomura Securities、Daiwa Securities、SMBC Nikko、Mizuho Securities、MUMSS。
-- グローバルAP／MM: Citadel Securities、Optiver、Virtu、Jane Street、IMC、SIG。
-- AP活動は、ETF価格をNAVへ固定する設定／交換メカニズムである。
+- 国内 AP：野村証券、大和証券、SMBC 日興、みずほ証券、MUMSS。
+- グローバル AP / MM：Citadel Securities、Optiver、Virtu、Jane Street、IMC、SIG。
+- AP 活動は、ETF 価格を NAV に係留し続ける設定 / 交換のメカニズムである。
 
-[[securities/japan-asset-manager-landscape-matrix|domestic ETF issuers]]（Nomura AM、AM-One、MUFG AM、Nikko AM、Daiwa AM、iShares Japan）にとって、AP関係は運用上きわめて重要である。ニッチETFでAPカバレッジが薄い場合、NAVトラッキングエラーが拡大する。
+[[securities/japan-asset-manager-landscape-matrix|domestic ETF issuers]]（野村 AM、AM-One、MUFG AM、日興 AM、大和 AM、iShares Japan）にとって、AP 関係は運営上重要である；ニッチな ETF における薄い AP カバレッジは、より広い NAV トラッキングエラーを引き起こす。
 
-## レイテンシーとインフラ
+## Latency and infrastructure
 
-| レイヤー | 注記 |
+| Layer | Note |
 |---|---|
-| JPX arrowheadマッチングエンジン | 現物株式マッチングエンジン。複数世代の更新により、レイテンシーはグローバル競争力のある水準まで低下した。 |
-| OSE J-GATE | デリバティブ・マッチング基盤。 |
-| JPXデータセンターのコロケーション | 日本で活動するグローバルHFT会社にとって標準。取引所側レイテンシーを低減する。 |
-| 接続プロバイダー | 標準的なグローバル低レイテンシー接続プロバイダーが東京にサービスを提供している。 |
-| 市場データ | JPXフィード（TQ、FLEX）およびPTS取引所向けの取引所直結フィード。 |
+| JPX arrowhead マッチングエンジン | 現物株式マッチングエンジン；複数世代のアップグレードがレイテンシーをグローバルに競争力のある水準まで削減した。 |
+| OSE J-GATE | デリバティブのマッチングインフラ。 |
+| JPX データセンターでのコロケーション | 日本で活動するグローバル HFT 会社にとって標準；取引所サイドのレイテンシーを削減する。 |
+| 接続性プロバイダー | 標準的なグローバル低レイテンシー接続性プロバイダーが東京にサービスを提供する。 |
+| マーケットデータ | JPX フィード（TQ、FLEX）および PTS 取引所向けの取引所直結フィード。 |
 
-## 関連項目
+## Related
 
 - [[securities/INDEX]]
 - [[securities/japan-best-execution-sor-pts]]
@@ -238,7 +239,7 @@ ETF指定参加者（AP）は、通常マーケットメーカーでもある会
 - [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
 - JPX, Osaka Exchange Market Maker scheme page (English / Japanese).
 - JPX, TSE ETF Market Maker scheme page.

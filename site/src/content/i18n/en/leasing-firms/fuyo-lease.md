@@ -1,139 +1,140 @@
 ---
 source: leasing-firms/fuyo-lease
-source_hash: f5671f88fc25fb9f
+source_hash: aa64fdc8af33a41e
 lang: en
 status: machine
 fidelity: ok
 title: "Fuyo General Lease"
-translated_at: 2026-05-31T15:29:03.910Z
+translated_at: 2026-06-19T06:09:18.126Z
 ---
+
 # Fuyo General Lease
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|ORIX Corporation]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Fuyo General Lease is a semi-major comprehensive leasing company affiliated with the former Fuji Bank group and listed on the TSE Prime Market under **8424**. It sits below the three mega leasing groups ([[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]]) and serves as a core financial function within the **Fuyo Group**, the former Fuji Bank community that includes [[megabanks/mizuho-fg]], Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine [[non-life-insurers/tokio-marine]]. Established on 1969-09-04 under the former name Fuyo Factor, the company is organized around six axes: general equipment leasing, real estate, environment and renewable energy, medical and nursing care, aircraft and vessels, and overseas business centered on Asia. It has both sibling and competitive relationships with [[leasing-firms/tokyo-century]], another former Fuji Bank-linked leasing company that moved earlier into quasi-mega leasing consolidation. ^[extracted]
+A second-tier general leasing company in the former Fuji Bank lineage (TSE PRIME **8424**). **A second-tier player following the 3  major leasing firms ([[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]])**, it carries the financial core function of the **Fuyo Group** (the former Fuji Bank community: [[megabanks/mizuho-fg]] + Marubeni + Nissan + Canon + Nisshin Flour Milling + Tokio Marine [[non-life-insurers/tokio-marine]], etc.). Founded in 1969-09-04 (former name: Fuyo Factor). It has a 6 -axis composition of general equipment leasing + real estate + environment / renewable energy + medical / nursing care + aircraft / ships + overseas (centered on Asia). It is in a sibling-cum-competitor relationship with [[leasing-firms/tokyo-century]], which, in the same former Fuji Bank lineage, "managed to consolidate ahead into the second tier of the three majors." ^[extracted]
 
-## 1. Company Overview
+## 1. 会社概要 / Company overview
 
 **Formal name**: Fuyo General Lease Co., Ltd. ^[extracted]
 **English name**: Fuyo General Lease Co., Ltd. ^[extracted]
-**Securities code**: TSE Prime 8424 ^[extracted]
-**Established**: 1969-09-04, formerly Fuyo Factor ^[extracted]
-**Head office**: Chiyoda-ku, Tokyo, Marunouchi area ^[extracted]
-**Business type**: Comprehensive leasing and finance, bank-affiliated ^[extracted]
+**Securities code**: TSE PRIME 8424 ^[extracted]
+**Founded**: 1969-09-04 (former name: Fuyo Factor) ^[extracted]
+**Headquarters**: Chiyoda-ku, Tokyo (Marunouchi area) ^[extracted]
+**Business type**: General leasing / finance (bank-affiliated) ^[extracted]
 
-### Business Positioning
+### Business positioning
 
-| Tier | Representative companies | Lineage |
+| Tier | Representative firms | Affiliation |
 |---|---|---|
-| Three mega leasing groups | [[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]] | Former Mitsubishi and Sanwa / former Fuji |
-| Semi-major | **Fuyo General Lease** / NEC Capital Solutions / Ricoh Leasing, etc. | Former Fuji / NEC / Ricoh |
-| Mid-tier | Hitachi Capital (integrated into Mitsubishi HC) / BOT Lease, etc. | - |
+| Three major leasing firms (mega) | [[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]] | former Mitsubishi-Sanwa / former Fuji |
+| Second tier | **Fuyo General Lease** / NEC Capital Solutions / Ricoh Leasing, etc. | former Fuji / NEC / Ricoh |
+| Mid-tier | Hitachi Capital (→ merged into Mitsubishi HC) / Tokyo Ginko Lease, etc. | - |
 
-### Major Shareholders / Capital Relationships
+### Major shareholders / capital relationships
 
-The former Fuji Bank-linked **Fuyo Group** functions as the core stable-shareholder bloc. ^[extracted]
+The former Fuji Bank lineage **Fuyo Group** is the core stable shareholder: ^[extracted]
 
 | Shareholder | Relationship |
 |---|---|
-| [[megabanks/mizuho-fg]] (former Fuji Bank) | Main transaction bank and major shareholder |
-| Marubeni | Former Fuji Bank-linked trading company and major shareholder |
-| Tokio Marine & Nichido [[non-life-insurers/tokio-marine]] | Former Fuji Bank-linked non-life insurer |
-| Nissan Motor | Former Fuji Bank-linked manufacturer; also partnered in auto leasing |
-| Canon | Former Fuji Bank-linked manufacturer |
-| Nisshin Seifun Group | Former Fuji Bank-linked food company |
+| [[megabanks/mizuho-fg]] (former Fuji Bank) | Main transaction bank / major shareholder |
+| Marubeni | Former Fuji Bank lineage trading company / major shareholder |
+| Tokio Marine & Nichido [[non-life-insurers/tokio-marine]] | Former Fuji Bank lineage non-life insurer |
+| Nissan Motor | Former Fuji Bank lineage manufacturer (also allied on auto leasing) |
+| Canon | Former Fuji Bank lineage manufacturer |
+| Nisshin Flour Milling Group | Former Fuji Bank lineage food company |
 
-### Major Subsidiaries and Affiliates
+### Major subsidiaries / affiliates
 
 ```
 Fuyo General Lease (8424)
-  |-- Fuyo Auto Lease (auto leasing)
-  |-- Fuyo General Lease Capital (specialized finance)
-  |-- Real-estate-related SPC group
-  |-- Environment and renewable-energy project SPCs (mega-solar, wind power, etc.)
-  |-- Overseas subsidiaries, mainly in Asia
-  |     |-- China (Shanghai, Dalian, etc.)
-  |     |-- Thailand
-  |     |-- Indonesia
-  |     `-- Vietnam
-  `-- Specialized medical and nursing-care leasing subsidiaries
+  ├── Fuyo Auto Lease (auto leasing)
+  ├── Fuyo General Lease Capital (finance specialist)
+  ├── Real-estate-related SPC group
+  ├── Environment / renewable-energy project SPCs (mega-solar, wind, etc.)
+  ├── Overseas subsidiaries (centered on Asia)
+  │     ├── China (Shanghai, Dalian, etc.)
+  │     ├── Thailand
+  │     ├── Indonesia
+  │     └── Vietnam
+  └── Medical / nursing-care leasing specialist subsidiary
 ```
 
-## 2. Business Segment Map
+## 2. Business segment map
 
 | Segment | Main targets | Characteristics |
 |---|---|---|
-| General equipment leasing | Machine tools, office-automation equipment, industrial facilities | Core business since establishment |
-| Auto leasing | Corporate vehicles | Uses the relationship with Nissan |
-| Real estate leasing and finance | Office buildings, logistics facilities, commercial facilities | Asset-management orientation |
-| Environment and renewable energy | Mega-solar, wind power, biomass, hydrogen | Growth field since the 2010s |
-| Medical and nursing-care leasing | Medical equipment, nursing-care facilities | Growth segment linked to population ageing |
-| Aircraft and vessels | Aircraft operating leases, vessels | Large-scale global transactions |
-| Overseas | Asia, including China, Thailand, Indonesia, and Vietnam | Gradual expansion |
-| BPO and services | Lease-adjacent services | - |
+| General equipment leasing | Machine tools / office equipment / industrial equipment | Core business since founding |
+| Auto leasing | Corporate vehicles | Leverages the relationship with Nissan |
+| Real-estate leasing / finance | Office buildings / logistics facilities / commercial facilities | Asset-management flavor |
+| Environment / renewable energy | Mega-solar / wind / biomass / hydrogen | Growth field since the 2010 年s |
+| Medical / nursing-care leasing | Medical equipment / nursing-care facilities | Growth segment addressing aging |
+| Aircraft / ships | Aircraft operating leases / ships | Large-scale global deals |
+| Overseas | Asia (China / Thailand / Indonesia / Vietnam) | Phased expansion |
+| BPO / services | Lease-incidental services | - |
 
-## 3. History
+## 3. 沿革 / History
 
-| Date | Event |
+| Year/month | Event |
 |---|---|
-| **1969-09-04** | Established as Fuyo Factor, a former Fuji Bank-linked leasing company ^[extracted] |
-| 1971 | Position as a Fuji Bank group leasing company established ^[extracted] |
-| **1999** | Fuji Bank, Dai-Ichi Kangyo Bank, and Industrial Bank of Japan integrated, creating Mizuho FG; Fuyo General Lease effectively moved into the Mizuho lineage ^[extracted] |
-| 2024 onward | Medium-term management plan under way ^[extracted] |
+| **1969-09-04** | Founded as Fuyo Factor (former Fuji Bank lineage leasing) ^[extracted] |
+| 1971 | Established positioning as a Fuji Bank affiliate leasing firm ^[extracted] |
+| **1999** | Fuji Bank + Dai-Ichi Kangyo Bank + Industrial Bank of Japan merger → Mizuho FG launched; Fuyo General Lease also effectively moved into the Mizuho lineage ^[extracted] |
+| 2024〜 | Mid-term management plan in progress ^[extracted] |
 
-### Intra-Fuyo Group Transactions
+### Intra-Fuyo Group transactions
 
-- **[[megabanks/mizuho-fg]]** (former Fuji Bank): main transaction bank and deal-referral route
-- **Marubeni**: trading-company transactions, including aircraft, vessels, and overseas projects
-- **Nissan**: cooperation in auto leasing
-- **Canon / Nisshin Seifun Group, etc.**: equipment-leasing customer base
-- **Tokio Marine [[non-life-insurers/tokio-marine]]**: standard insurance partner
+- **[[megabanks/mizuho-fg]]** (former Fuji Bank): main transaction bank + deal-referral route
+- **Marubeni**: trading-company deals (aircraft / ships / overseas projects)
+- **Nissan**: cooperation on auto leasing
+- **Canon, Nisshin Flour Milling, etc.**: equipment-leasing base customers
+- **Tokio Marine [[non-life-insurers/tokio-marine]]**: standard partner on the insurance side
 
-### Competitive Structure
+### Competitive structure
 
-| Dimension | Fuyo General Lease | [[leasing-firms/tokyo-century]] |
+| Aspect | Fuyo General Lease | [[leasing-firms/tokyo-century]] |
 |---|---|---|
-| Lineage | Former Fuji Bank (Mizuho lineage) | Former Dai-Ichi Kangyo Bank (Mizuho lineage) |
-| Integration strategy | Maintains semi-major status independently | Became a major player through the merger of Tokyo Leasing and Century Leasing |
-| Business scale | Semi-major | One of the three mega leasing groups |
-| Customer base | Fuyo Group + mid-tier companies | Mizuho lineage + ITOCHU and others |
+| Affiliation | Former Fuji Bank (Mizuho lineage) | Former Dai-Ichi Kangyo Bank (Mizuho lineage) |
+| Consolidation strategy | Maintains second-tier on its own | Scaled up to major via Tokyo Lease + Century Leasing merger |
+| Business scale | Second tier | One of the three major leasing firms |
+| Customer base | Fuyo Group + mid-tier companies | Mizuho lineage + ITC (Itochu), etc. |
 
 Other competitors:
 
-- **[[leasing-firms/orix-corp]]**: one of the three mega leasing groups; formerly Sanwa Bank-linked and later independent
-- **Mitsubishi HC Capital**: one of the three mega leasing groups, formed by Mitsubishi UFJ Lease and Hitachi Capital, with [[megabanks/mufg]] and Mitsubishi Corporation lineage
-- **NEC Capital Solutions / Ricoh Leasing** and other specialized semi-major leasing companies
+- **[[leasing-firms/orix-corp]]** (three major leasing firms, former Sanwa Bank lineage → independent)
+- **Mitsubishi HC Capital** (three major leasing firms, former Mitsubishi UFJ Lease + Hitachi Capital merger, [[megabanks/mufg]] + Mitsubishi Corporation lineage)
+- **NEC Capital Solutions / Ricoh Leasing**, etc., specialist second-tier firms
 
-## 5. Regulation and Policy
+## 5. Regulation / policy
 
-- **Supervising authorities**: Financial Services Agency (FSA) and Ministry of Economy, Trade and Industry
-- **Industry body**: Japan Leasing Association
+- **Supervisor**: Financial Services Agency (FSA) / Ministry of Economy, Trade and Industry
+- **Industry body**: Japan Leasing Association (public-interest incorporated association)
 - **Regulatory framework**:
-  - Response to lease accounting standards, including IFRS 16 and J-GAAP revisions
-  - Bank-affiliated subsidiary regulation, including the applicable scope created by the **relationship with Mizuho FG**
-  - Renewable-energy FIT / FIP systems in the environmental segment
-  - Aircraft leasing and the tax-lease regime
+  - Compliance with lease accounting standards (IFRS 16 / J-GAAP revisions)
+  - Bank-affiliated subsidiary regulation (scope of bank-subsidiary regulation depending on the **relationship with Mizuho FG**)
+  - Renewable-energy FIT / FIP system (environment segment)
+  - Aircraft leasing (tax-lease taxation)
 - **Recent policy issues**:
-  - 2024 onward: Bank of Japan policy-rate normalization, raising the tension between funding-cost increases and lease-rate spreads
-  - 2025 onward: Balance-sheet impact from IFRS 16-based changes to lease accounting standards
-  - Strengthening of decarbonization and TCFD disclosure requirements
+  - 2024〜 BoJ policy-rate normalization → rising funding costs vs lease-rate spread
+  - 2025〜 BS-recognition impact from the IFRS 16 -based change to lease accounting standards
+  - Strengthened decarbonization / TCFD disclosure requirements
 
 ## Related
 
 - [[megabanks/mizuho-fg]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/orix-corp]] · [[megabanks/mufg]] · [[non-life-insurers/tokio-marine]]
-- Fuyo Group: Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine
+- Fuyo Group: Marubeni / Nissan / Canon / Nisshin Flour Milling / Tokio Marine
 
 ## Sources
 
 - **Wikipedia: Fuyo General Lease** (https://ja.wikipedia.org/wiki/芙蓉総合リース, extracted 2026-05-19)
-- Fuyo General Lease official corporate website and securities reports
-- TSE Prime listed company 8424 public information
+- Fuyo General Lease official corporate site / securities reports
+- TSE PRIME listed-issue 8424  public information
 
 ---
 
-> [!info] Validation Status
-> confidence: **likely** (based on public information as of 2026-05-19). Quantitative figures such as total assets, net income, and shareholder ratios are highly time-sensitive; the latest values should be checked against semiannual reports and large-shareholding reports. The history includes only major events extracted from Wikipedia, and subsidiary details and overseas-office specifics should be refreshed against the latest IR materials.
+> [!info] Verification status
+> confidence: **likely** (based on public information 2026-05-19). Quantitative figures (total assets / net income / shareholding ratios) fluctuate significantly over time; the latest values should be referenced against semiannual reports / large-shareholding reports. The history covers only major events extracted from Wikipedia, and the details of subsidiaries / overseas locations should be updated against the latest IR materials.

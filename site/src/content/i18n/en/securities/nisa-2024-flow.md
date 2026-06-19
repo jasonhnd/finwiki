@@ -1,13 +1,14 @@
 ---
 source: securities/nisa-2024-flow
-source_hash: d411d26d18c31dde
+source_hash: cf0e104299904c30
 lang: en
 status: machine
 fidelity: ok
-title: "NISA 2024  flow"
-translated_at: 2026-06-01T04:15:40.175Z
+title: "NISA 2024 flow"
+translated_at: 2026-06-19T12:43:19.953Z
 ---
-# NISA 2024  flow
+
+# NISA 2024 flow
 
 
 ## Wiki route
@@ -16,7 +17,7 @@ This entry sits under [[securities/INDEX|securities index]]. Read it against [[s
 
 ## TL;DR
 
-The 2024  NISA reform turned Japan's household tax-free investment account into a permanent asset-building regime. FSA's NISA site says the new system started in January 2024 and became permanent. The official guidebook frames two usable buckets: a tsumitate investment quota and a growth investment quota, with combined annual investment capacity of 3.6 million yen and lifetime tax-free holding capacity of 18 million yen.
+The 2024 NISA reform turned Japan's household tax-free investment account into a permanent asset-building regime. FSA's NISA site says the new system started in January 2024 and became permanent. The official guidebook frames two usable buckets: a tsumitate investment quota and a growth investment quota, with combined annual investment capacity of 3.6 million yen and lifetime tax-free holding capacity of 18 million yen.
 
 For FinWiki, NISA is a securities-distribution and household-asset-flow page. It connects retail brokers such as [[securities-firms/rakuten-securities]], comprehensive securities firms such as [[securities-firms/nomura-hd]], and bank-affiliated securities arms such as [[securities-firms/mizuho-securities]] and [[securities-firms/mufg-mums]].
 

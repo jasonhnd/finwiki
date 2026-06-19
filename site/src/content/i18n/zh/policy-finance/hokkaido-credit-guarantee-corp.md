@@ -1,94 +1,101 @@
 ---
 source: policy-finance/hokkaido-credit-guarantee-corp
-source_hash: 31a6e87350844a7d
+source_hash: 58cc59e40d3e213b
 lang: zh
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-06-01T03:31:12.251Z
+title: "北海道信用保证协会（Hokkaido Credit Guarantee Corporation）"
+translated_at: 2026-06-19T06:09:18.097Z
 ---
-#北海道信用保证协会（北海道信用担保公司）
 
-## 维基路线
+# 北海道信用保证协会（Hokkaido Credit Guarantee Corporation）
 
-该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，是日本信用担保系统的 51  都道府县/市级成员之一。请与 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 的系统概述和 [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] 的协调机构一起阅读。与[[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]]和[[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]]（均为城市/工业带企业）的同行比较——北海道CGC在结构上有所不同：它服务于日本最大的地理县，人口密度最低，侧重于农业、渔业、食品加工和旅游业，而不是制造业。
+## Wiki route
 
-## 长篇大论；博士
+本条目作为日本信用保证体系 51 个都道府县 / 市级成员之一，位于 [[policy-finance/INDEX|policy-finance index]] 之下。请与 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 的体系概览及 [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] 的协调团体一并阅读。与 [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] 和 [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]]（均为都市 / 工业地带协会）作同业比较 ― 北海道 CGC 在结构上有所不同：它服务于日本面积最大、人口密度最低的都道府县，偏重农业、渔业、食品加工与旅游，而非制造业。
 
-北海道信用保证协会是日本51法人地方信用保证体系的北海道县会员。其担保书在结构上与城市县企业不同，因为北海道的中小企业经济集中在农业和食品（乳制品、牛肉、土豆、小麦、甜菜、洋葱）、渔业和海洋加工（太平洋鲑鱼、扇贝、海带、海胆）、旅游业（入境和札幌/新雪谷滑雪/函馆/小樽航线）以及相对薄弱的制造基地。主要的联合贷款合作伙伴是 [[regional-banks/hokkaido-bank|Hokkaido Bank (Hokuhoku FG)]] 和 [[regional-banks/hokuyo-bank|Hokuyo Bank]]，再加上广泛的北海道信用合作社网络和农业合作社 ([[banking/ja-bank-system-japan|JA Bank]]) 覆盖。
+## TL;DR
 
-## 1。 机关概要
+北海道信用保证协会（北海道信用保証協会）是日本 51协会地方信用保证体系的北海道成员。其保证账簿在结构上区别于都市型都道府县协会，因为北海道的中小企业经济集中于农业与食品（乳业、牛肉、马铃薯、小麦、甜菜、洋葱）、渔业与海产加工（太平洋鲑、扇贝、海带、海胆）、旅游（入境游与札幌 / 二世谷滑雪 / 函馆 / 小樽 路线）以及相对薄弱的制造业基础。主导的协同放贷伙伴是 [[regional-banks/hokkaido-bank|Hokkaido Bank (Hokuhoku FG)]] 与 [[regional-banks/hokuyo-bank|Hokuyo Bank]]，加上广泛的北海道信金与信用合作社网络以及农业协同组合（[[banking/ja-bank-system-japan|JA Bank]]）的叠加。
+
+## 1. 机构概要
 
 | 项目 | 内容 |
 |---|---|
-| 设立| 1948年（信用保证协会法1953年施行后に再编） |
-| 所管 | 中小企业庁 / 北海道 |
-| 法令 | 信用保证协会法(1953) |
-| 本店 | 札幌市中央区（北海道札幌市） |
-| 保证高残| 千亿円〜兆円规模 — 连合会全国51协会中の中位上位 |
-| 加盟金融机构| 约30 行（地区银行、大型银行道内支行、信用社、信用合作社、农业合作社） |
-| 连合会加盟 | [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] | 会员
-| 信用保険 |由[[financial-regulators/jfc|JFC]]信用保险业务再保险|
-| 地理疆域 |北海道是一个面积约为 83,000 km² 的县（日本最大的县）；单一担保公司覆盖所有 179  直辖市 |
+| 设立 | 1948年（信用保证协会法 1953年施行后改组）|
+| 所管 | 中小企业厅 / 北海道 |
+| 法令 | 信用保证协会法 (1953) |
+| 总店 | 札幌市中央区（北海道札幌市）|
+| 保证余额 | 千亿日元〜万亿日元规模 — 在联合会全国 51家协会中处于中上位 |
+| 加盟金融机构 | 约 30 行（地方银行、大型银行的道内支行、信金、信用合作社、农业协同组合）|
+| 联合会加盟 | [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] 的成员 |
+| 信用保险 | 由 [[financial-regulators/jfc|JFC]] 的信用保险业务再保险 |
+| 地理边界 | 北海道是一个跨越约 83,000 km²（日本最大）的都道府县；单一保证协会覆盖全部 179 个市町村 |
 
-## 2。 主要保证商品
+## 2. 主要保证产品
 
-- **一般保证** — 责任共享制度下的标准中小企业贷款担保。
-- **maru経** — 小企业管理改进贷款担保。
-- **セーfuティネット保证** — 行业困境指定事件保证（例如渔业资源冲击、旅游业崩溃、乳制品价格波动）。
-- **危机关连保证** — 危机相关保证（国家应急框架，100% 保证）。
-- **创业保证** — 启动/新业务保证，积极参与旅游业、食品科技和札幌/新雪谷酒店业。
--**事业承継保证**——企业传承保障，家族渔业、农村零售中小企业需求旺盛。
-- **経営创新保证** — 管理创新/业务转型保证。
-- **借换保证** — 再融资/合并担保。
-- **食品加工/観光关连特别保证** — 北海道县政府协调的食品加工和旅游部门计划。
+- **一般保证** — 责任共有制度（責任共有制度）下的标准中小企业银行贷款保证。
+- **マル経** — 小规模事业者经营改善资金保证。
+- **安全网保证（セーフティネット保証）** — 行业不景气的指定事由保证（例如水产资源冲击、旅游崩溃、乳价波动）。
+- **危机关联保证** — 危机关联保证（国家紧急框架，100% 保证）。
+- **创业保证** — 创业 / 新事业保证，在旅游、食品科技以及札幌 / 二世谷酒店业中获积极利用。
+- **事业承继保证** — 事业承继保证，在家族经营的渔业企业与乡村零售中小企业中需求旺盛。
+- **经营革新保证** — 经营革新 / 事业转型保证。
+- **借换保证** — 再融资 / 整合保证。
+- **食品加工 / 旅游相关特别保证** — 北海道政府协调的、面向食品加工与旅游板块的项目。
 
-## 3。 道内产业构造との关系
+## 3. 与道内产业结构的关系
 
-北海道的中小企业经济在结构上不同于日本其他县，北海道 CGC 的担保书反映了这一点：1。 **（农业）** — 北海道生产日本大部分乳制品、小麦、甜菜、土豆、洋葱以及大量大豆和牛肉。中小企业尾部包括农机经销商、农用化学品/种子供应商、农业物流和食品级冷库。请注意，直接农民信贷主要流经 [[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] 合作社系统，并不是北海道 CGC 的主要交易对手，但围绕农业的农业供应链中小企业是大量用户。
-2。 **水产业（渔业和海洋加工）** — 北海道是日本最大的渔业县（数量和价值），主要生产太平洋鲑鱼、扇贝、海带、海胆、雪蟹和鲱鱼。中小企业海洋加工集群（冷冻、切片、烟熏、罐头、出口包装）利用有担保的营运资金，特别是围绕捕捞和库存周期的季节性。直接渔业信贷还通过单独的 [[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]] 和 JF 海洋银行网络 ([[banking/jf-marine-bank-system-japan|JF Marine Bank system]]) 进行传递。
-3。 **観光（旅游业）** — 札幌、函馆、小樽、旭川、富良野和新雪谷滑雪集群产生了大量入境和国内旅游中小企业群体 — 酒店、旅馆、餐馆、滑雪经营者、运输、零售、食品纪念品制造。该细分市场具有很强的周期性，并且受新冠疫情时期边境关闭的影响最为严重。
-4。 **食品加工（食品加工）** — 北海道的食品加工中小企业密度是日本最高的（乳制品、糖果、拉面、啤酒原料、海鲜蜜饯），品牌涵盖从糖果中的 Royce' / Ishiya / Rokkatei 到密集的区域拉面 / 啤酒 / 海鲜零食集群。
-5。 **薄い制造业** — 与本州县相比，北海道的总体制造业基地相对薄弱；最大的非食品制造业集中在苫小牧（造纸、石化）和室兰（钢铁）。
+北海道的中小企业经济在结构上不同于任何其他日本都道府县，北海道 CGC 的保证账簿反映了这一点：
 
-## 4。联合贷款和 JFC 叠加
+1. **农业（Agriculture）** — 北海道生产日本大部分的乳制品、小麦、甜菜、马铃薯、洋葱，以及很大份额的大豆与牛肉。中小企业的长尾包括农机经销商、农药 / 种子供应商、农业物流以及食品级冷库。请注意，对农户的直接信用大多经由 [[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] 合作社系统流动，并非北海道 CGC 的主要交易对手 ― 但围绕农业的农业供应链中小企业是重度使用者。
+2. **渔业（Fisheries and marine processing）** — 北海道是日本最大的渔业都道府县（按量与值），集中于太平洋鲑、扇贝、海带、海胆、雪蟹与鲱鱼。中小企业的海产加工集群（冷冻、去骨、熏制、罐装、出口包装）依赖保证支持的营运资金，尤其围绕渔获与库存周期的季节性。对渔业的直接信用也经由独立的 [[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]] 与 JF 海洋银行网络（[[banking/jf-marine-bank-system-japan|JF Marine Bank system]]）路由。
+3. **旅游（Tourism）** — 札幌、函馆、小樽、旭川、富良野以及二世谷滑雪集群，造就了庞大的入境与国内旅游中小企业群体 ― 酒店、旅馆、餐厅、滑雪运营商、交通、零售、食品土产制造。该细分高度周期性，在 COVID 期边境关闭中受到最急性的影响。
+4. **食品加工（Food processing）** — 北海道的食品加工中小企业密度为日本最高（乳制品、糕点、拉面、啤酒原料、海产保存食品），品牌从糕点中的 Royce' / 石屋 / 六花亭，到密集的地区拉面 / 啤酒 / 海产零食集群。
+5. **薄弱的制造业（Thin manufacturing）** — 北海道的一般制造业基础相对本州都道府县较为薄弱；最大的非食品制造集中位于苫小牧（造纸、石化）与室兰（钢铁）。
 
-北海道 CGC 担保通常与北海道两家主要地区银行的贷款同时提供：[[regional-banks/hokkaido-bank|Hokkaido Bank]]（[[regional-banks/hokuhoku-fg|Hokuhoku FG]] 与北陆银行的子公司）和 [[regional-banks/hokuyo-bank|Hokuyo Bank]]。密集的北海道信用社和信用合作社网络覆盖了农村的长尾。大型银行在北海道的业务比在本州的要少得多 — [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]] 和 [[megabanks/mizuho-fg|Mizuho]] 均设有札幌分行，但中小企业覆盖范围主要由两家地区银行和信金尾部主导。
+## 4. 协同放贷与 JFC 叠加
 
-农业合作银行系统——[[banking/ja-bank-system-japan|JA Bank Hokkaido]] / [[cooperative-banks/norinchukin|Norinchukin]]——在农业供应链中小企业领域并行运作并重叠。 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 部分相关：北海道银行的 Hokuhoku FG 与北陆银行的合作是跨县的地理组合，而不是同县的救援合并。
+北海道 CGC 的保证通常与来自两家主导的北海道地方银行的贷款并列：[[regional-banks/hokkaido-bank|Hokkaido Bank]]（与北陆银行同为 [[regional-banks/hokuhoku-fg|Hokuhoku FG]] 的子公司）与 [[regional-banks/hokuyo-bank|Hokuyo Bank]]。密集的北海道信金与信用合作社网络覆盖漫长的乡村长尾。大型银行在北海道的存在远比本州薄 ― [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho]] 各自维持札幌支行，但中小企业覆盖由两家地方银行与信金长尾主导。
 
-通过 [[financial-regulators/jfc|JFC]]（政府系金融机关）的公共财政联合贷款途径 — 由于北海道的第一产业比重，JFC 的中小企业、小型企业和农林渔业部门都设有北海道贷款部门。 [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] 参与合作组织的中小企业团体，特别是食品加工和旅游业。
+农业协同组合的银行系统 ― [[banking/ja-bank-system-japan|JA Bank Hokkaido]] / [[cooperative-banks/norinchukin|Norinchukin]] ― 并行运营，并在农业供应链中小企业细分中重叠。[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 部分相关：北海道银行与北陆银行的 北方 FG（Hokuhoku FG）联手是跨都道府县的地理性结合，而非同一都道府县的救援合并。
 
-## 5。 代位弁済と求偿当有担保的北海道中小企业违约时，北海道CGC根据担保合同向贷款金融机构支付代位弁済，然后追偿。恢复后的剩余损失流入由[[financial-regulators/jfc|JFC]]再保险的联邦联合信用保险层，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]协调51 公司的损失分摊和运营标准。
+公共金融的协同放贷经由 [[financial-regulators/jfc|JFC]]（政府系金融机构）路由 ― JFC 的中小企业、小规模事业者与农林渔业各部门均维持北海道放贷部门，因该都道府县的第一产业比重。[[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] 参与合作社组织的中小企业群体，尤其在食品加工与旅游领域。
 
-北海道的代位权量具有三个特征冲击向量：（1）旅游业崩溃（边境关闭、自然灾害、滑雪季节天气故障）、（2）第一产业冲击（渔业资源崩溃、乳制品价格下跌、农作物减产）和（3）旅游事件驱动的能源/燃料成本冲击影响酒店利润。从结构上看，复苏也比城市地区更困难，因为农村/沿海商业房地产的二级市场较薄弱，抑制了复苏价值。
+## 5. 代位清偿与求偿
 
-## 6。危机时代的应对
+当受保证的北海道中小企业违约时，北海道 CGC 依据保证合同向放贷金融机构支付代位清偿（代位弁済），随后追索回收（求償）。回收后的残余损失流入由 [[financial-regulators/jfc|JFC]] 再保险的联合会汇集信用保险层，由 [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] 在全部 51 家协会之间协调损失分担与运营标准。
 
-在COVID-19 emergency（2020–2021）期间，北海道CGC是人均受実质无利子·无担保（ゼロゼロ融资/零零贷款）特别担保计划影响最大的企业之一，因为旅游/酒店/入境供应中小企业部门在结构上受到影响因边境关闭和国内旅行暂停而遭受重创。 2020至2022, 期间，北海道的旅游经济收缩幅度超过本州平均水平，特别担保计划吸收了整个酒店/旅馆/餐厅/纪念品制造基地的现金流冲击。北海道县政府通过北海道 CGC 实施了额外的县级紧急计划。
+北海道的代位清偿规模有三个特征性冲击向量：(1) 旅游崩溃（边境关闭、自然灾害、滑雪季天气失利）、(2) 第一产业冲击（水产资源崩溃、乳价下跌、作物歉收）、(3) 影响酒店业利润的旅游事件驱动的能源 / 燃料成本冲击。回收也比都市型都道府县在结构上更困难，因为乡村 / 沿海商业地产的二级市场较薄，压低了回收价值。
 
-随着 2020 老式 ZeroZero 本金偿还宽限的结束，通过 2023–2025  实现的后疫情正常化产生了预期的代位浪潮。北海道的代位损失状况值得注意，因为旅游业复苏强劲（入境游客数量通过 2023–2025 大幅反弹），但运营商规模不均——资本充足的大型运营商吸收了缺口，而规模较小的季节性运营商并未全部幸存并全额偿还。
+## 6. 危机期应对
 
-针对能源价格冲击，危机关连保证框架被重新启动（2022-2023），这对北海道能源密集型食品加工和依赖农村供暖的零售基础造成了特别严重的打击。通过2025 ，北海道CGC帐目正在正常化，恢复到一般保证/借换保证/事业承継保证的平衡，随着创业保证利用率的上升与新雪谷地区的外资流入和札幌的创业活动相关。
+在 COVID-19 紧急时期（2020–2021），北海道 CGC 是按人均计对 实质无利息・无担保（ゼロゼロ融資 / 零零贷款）特别保证项目敞口最大的协会之一，因为旅游 / 酒店 / 入境供应中小企业细分被边境关闭与国内旅行停摆在结构上摧毁。北海道的旅游经济在 2020–2022,  期间的收缩比本州平均更剧烈，特别保证项目在酒店 / 旅馆 / 餐厅 / 土产制造基础全体吸收了现金流冲击。北海道政府通过北海道 CGC 在其上叠加了额外的次都道府县紧急项目。
 
-## 7。联邦系统锚
+经由 2023–2025  的 COVID 后正常化，随着 2020 年份的零零本金偿还宽限结束，产生了预期的代位清偿浪潮。北海道的代位清偿损失轮廓之所以值得注意，是因为旅游复苏强劲（入境游客人数经 2023–2025 急剧反弹），但在经营者规模之间不均衡 ― 资本充足的较大经营者吸收了缺口，而较小的季节性经营者并非全都存活至全额偿还。
 
-在[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]架构中，北海道CGC发挥着独特的理论作用：它是联邦针对第一产业重县和旅游周期性县的参考模板。当 [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] 协调针对旅游崩溃场景（例如 2020 COVID 边境关闭冲击）的应急响应产品设计时，北海道 CGC 的运营经验为模板提供了信息，其精神类似于 [[policy-finance/hyogo-credit-guarantee-corp|Hyogo CGC]] 的 1995 地震原则如何为联邦的灾难响应提供信息模板。[[financial-regulators/jfc|JFC]]的联邦汇集信用保险层吸收了北海道CGC在责任分担制度下首次代位损失后的剩余损失。这在操作上很重要，因为北海道的复苏价值问题（农村商业房地产二级市场薄弱）意味着绝对复苏率在结构上低于城市县同行，从而给 JFC 再保险支持带来了更大的压力。 [[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] 农业合作社层和 [[banking/jf-marine-bank-system-japan|JF Marine Bank]] / 渔业合作社层作为平行公共信贷基础设施，针对北海道 CGC 直接中小企业担保范围之外的部门运作。
+危机关联保证 框架因能源价格冲击（2022–2023）而重新启用，对北海道能源密集的食品加工与依赖乡村供暖的零售基础打击尤重。经由 2025 ，北海道 CGC 的账簿正朝 一般保证 / 借换保证 / 事业承继保证 的平衡正常化，并伴随与二世谷地区外国资本流入及札幌创业活动相关联的 创业保证 利用上升。
 
-## 8。与同级地市CGC的比较
+## 7. 联合会体系锚点
 
-|尺寸|北海道CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/aichi-credit-guarantee-corp|Aichi CGC]] |
+在 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 的架构内，北海道 CGC 扮演一个独特的教义性角色：它是联合会面向第一产业偏重且旅游周期性都道府县的参照模板。当 [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] 为旅游崩溃情景（例如 2020  的 COVID 边境关闭冲击）协调应急产品设计时，北海道 CGC 的运营经验会反馈进模板，在精神上类似于 [[policy-finance/hyogo-credit-guarantee-corp|Hyogo CGC]] 的 1995-地震 教义如何反馈进联合会的灾害应对模板。
+
+[[financial-regulators/jfc|JFC]] 的联合会汇集信用保险层在责任共有制度下吸收北海道 CGC 的首损代位清偿之后的残余损失。这在运营上很重要，因为北海道的回收价值问题（薄弱的乡村商业地产二级市场）意味着绝对回收率在结构上低于都市型都道府县同业，从而对 JFC 再保险后盾施加更大权重。[[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] 的农业协同组合层与 [[banking/jf-marine-bank-system-japan|JF Marine Bank]] / 渔业协同组合层，作为落在北海道 CGC 直接中小企业保证范围之外的细分的并行公共信用基础设施运营。
+
+## 8. 与同业都道府县 CGC 的比较
+
+| 维度 | 北海道 CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/aichi-credit-guarantee-corp|Aichi CGC]] |
 |---|---|---|---|
-|主导产业结构 |农业/渔业/旅游/食品加工|服务/零售/金融/IT/酒店|汽车供应链|
-|地理挑战|面积最大的县（~83,000 km²）；北海道农村地区的信金覆盖率较低最密集的城市集中度|中等规模的县城，密集的工业走廊|
-|第一产业权重|主要 CGC 中最高 |可以忽略不计|可以忽略不计|
-|旅游震动敏感性|非常高（边境关闭+滑雪季节天气）|中等（城市旅游）|低|
-|合作银行重叠 |高 ([[banking/ja-bank-system-japan|JA Bank]] / [[banking/jf-marine-bank-system-japan|JF Marine Bank]]) |低|中等|
-|恢复价值挑战|农村资产二级市场清淡|高城市恢复价值|中城区恢复价值|
+| 主导产业组合 | 农业 / 渔业 / 旅游 / 食品加工 | 服务 / 零售 / 金融 / IT / 酒店 | 汽车供应链 |
+| 地理挑战 | 按面积最大的都道府县（约 83,000 km²）；乡村北海道信金覆盖薄弱 | 最密集的都市集中 | 中等规模都道府县，密集工业走廊 |
+| 第一产业比重 | 主要 CGC 中最高 | 可忽略 | 可忽略 |
+| 旅游冲击敏感度 | 非常高（边境关闭 + 滑雪季天气）| 中等（都市旅游）| 低 |
+| 合作社银行重叠 | 高（[[banking/ja-bank-system-japan|JA Bank]] / [[banking/jf-marine-bank-system-japan|JF Marine Bank]]）| 低 | 中等 |
+| 回收价值挑战 | 乡村资产二级市场薄弱 | 都市回收价值高 | 中位都市回收价值 |
 
-这一比较凸显了为什么北海道 CGC 的运营原则和产品组合与在相同 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 机制下运营的城市县 CGC 有显着不同。
+这一比较凸显了为何北海道 CGC 的运营教义与产品组合，与在同一 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 机制下运营的都市型都道府县 CGC 有显著不同。
 
-## 相关
+## Related
 
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-credit-guarantee-system]]
@@ -111,8 +118,8 @@ translated_at: 2026-06-01T03:31:12.251Z
 - [[banking/INDEX]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- 北海道信用保证协会，官方首页（https://www.hokkaido-cgc.or.jp/）。
-- 全国信用保证协会连合会（日本信用保证公司联合会），会员名录和系统页面（https://www.zenshinhoren.or.jp/）。
--中小企业庁（中小企业机构），信用补充系统披露（https://www.chusho.meti.go.jp/）。
+- 北海道信用保証協会, 官方首页（https://www.hokkaido-cgc.or.jp/）。
+- 全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations), 会员目录与体系页面（https://www.zenshinhoren.or.jp/）。
+- 中小企業庁 (SME Agency), 信用补完制度披露（https://www.chusho.meti.go.jp/）。

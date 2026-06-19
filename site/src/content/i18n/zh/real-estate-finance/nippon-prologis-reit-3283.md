@@ -1,115 +1,115 @@
 ---
 source: real-estate-finance/nippon-prologis-reit-3283
-source_hash: 49b9f45c3399de1c
+source_hash: d6477807a80320f1
 lang: zh
 status: machine
 fidelity: ok
-title: "Nippon Prologis REIT（3283）"
-translated_at: 2026-06-01T03:31:12.245Z
+title: "Nippon Prologis REIT (3283)"
+translated_at: 2026-06-19T12:43:19.981Z
 ---
 
-# Nippon Prologis REIT（3283）
+# Nippon Prologis REIT (3283)
 
 ## TL;DR
 
-**Nippon Prologis REIT, Inc.（NPR, TSE J-REIT 3283）** 是由 **Prologis 赞助的现代物流 J-REIT**，也是美国总部 **Prologis, Inc.**（NYSE: PLD）在日本上市的载体。Prologis 是全球最大的上市物流 REIT，也是日本两大现代物流平台之一（另一家为 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]]）。NPR 在 GLP J-REIT 之后不久于 2013  年2月上市，建立了正式的 **sponsor support agreement** 结构，后来成为外资 sponsor J-REIT 的模板：它结合了对 sponsor 日本开发管线的优先供应权、sponsor 份额持有人支持持股，以及对符合规格的现有物流设施进行资产轮换的权利。
+**Nippon Prologis REIT, Inc.（NPR，东证 J-REIT 3283）** 是 **由普洛斯（Prologis）担任发起人的现代物流 J-REIT**，是总部位于美国的 **Prologis, Inc.**（NYSE: PLD）的日本上市载体。该公司是全球最大的上市物流 REIT，也是日本现代物流两大领先平台之一（与 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] 并列）。NPR 于 2013  年 2 月、紧随 GLP J-REIT 之后上市，确立了正式的 **发起人支援协议**结构，此后该结构成为外资发起人 J-REIT 的范本——它将对发起人日本开发管线的优先供给权、发起人投资主支援持股，以及已达规格标准的物流设施的资产轮换权组合在一起。
 
-NPR 的组合集中于 **AAA 级现代物流设施**，即 Prologis Japan 在 sponsor 资产负债表上开发的**大东京、大阪、爱知 / 名古屋物流子市场中的高规格多租户仓库**。AAA 级指的是设施规格：大楼板、多层坡道通行、多租户 cross-dock 布局、高净高、喷淋系统、BCP 韧性设计（地震、洪水缓释）、租户便利设施。NPR 是外资投资者配置日本物流的**基准名称**，并与 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] 正面竞争 AAA 级租户基础。
+NPR 的投资组合集中于 **AAA 级现代物流设施**——这些是由普洛斯日本（Prologis Japan）在发起人资产负债表上开发的、位于 **大东京圈、大阪以及爱知/名古屋物流子市场** 的高规格多租户仓库。AAA 级这一称谓指的是设施规格：大面积楼面、多层坡道通行、多租户穿越式月台布局、高净空、喷淋系统、抗灾型设计（抗震、防洪减灾）、租户便利设施。NPR 是外国投资者配置日本物流的 **基准标的**，并就 AAA 级租户基础与 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] 正面竞争。
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[real-estate-finance/INDEX|real-estate-finance index]] 之下，是**由 Prologis 赞助的现代物流 J-REIT 锚点**。可与 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] 一起阅读，以获得最接近的同业对比（GLP-vs-Prologis 竞争）；与 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] 一起阅读，以获得行业层面分析；与 [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] 一起阅读，以进行跨 J-REIT 定位。办公室对比见 [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] 和 [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]；多元化对比见 [[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]。治理框架：[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] 和 [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]。
+本词条作为 **由普洛斯担任发起人的现代物流 J-REIT 锚点**，归属于 [[real-estate-finance/INDEX|real-estate-finance index]]。请将其与 [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] 一并阅读以进行最接近的同类对比（GLP 与普洛斯的竞争），与 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] 进行行业层面分析，与 [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] 进行 J-REIT 横向定位。办公类对比使用 [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] 与 [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]；综合类对比使用 [[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]。治理框架：[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] 与 [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]。
 
-## 1. 公司身份
+## 1. Corporate identity
 
-| 项目 | 详情 |
+| Item | Detail |
 |---|---|
-| 代码 | TSE J-REIT **3283** |
-| 投资法人 | Nippon Prologis REIT, Inc. (日本プロロジスリート投資法人) |
-| 资产管理公司 | Prologis REIT Management K.K.（sponsor: Prologis） |
-| Sponsor | Prologis, Inc. (NYSE: PLD)；日本运营：Prologis Japan |
-| 上市日期 | 2013  年2月 |
-| 资产重点 | AAA 级现代物流设施 |
-| 地理重点 | 大东京、大阪、名古屋物流子市场 |
-| 评级 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 的投资级 |
-| 指数纳入 | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
+| Ticker | 东证 J-REIT **3283** |
+| Investment corporation | Nippon Prologis REIT, Inc. (日本プロロジスリート投資法人) |
+| Asset-management company | Prologis REIT Management K.K. (sponsor: Prologis) |
+| Sponsor | Prologis, Inc. (NYSE: PLD); Japan operations: Prologis Japan |
+| Listing date | 2013  年 2 月|
+| Asset focus | AAA 级现代物流设施 |
+| Geographic focus | 大东京圈、大阪、名古屋物流子市场 |
+| Rating | 由 [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 评为投资级 |
+| Index inclusion | 东证 REIT 指数、东证 REIT 物流指数、GPR / FTSE EPRA Nareit Developed Asia |
 
-## 2. Prologis sponsor 平台
+## 2. Prologis sponsor platform
 
-| 项目 | Prologis 详情 |
+| Item | Prologis detail |
 |---|---|
-| 总部 | San Francisco, US |
-| NYSE 代码 | PLD |
-| 规模 | 全球最大的上市物流 REIT |
-| 全球存在 | 在美洲、欧洲、亚洲（日本、中国、韩国、新加坡）运营 |
-| 日本运营 | Prologis Japan — 日本两大现代物流开发商之一（与 GLP 并列） |
-| 开发管线 | 保留在 sponsor 资产负债表；稳定资产通过 sponsor support agreement 输入 NPR |
-| 对比对象 | GLP（[[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] 的 sponsor）是在日本最接近的全球对比对象 |
+| Headquarters | 美国·旧金山 |
+| NYSE ticker | PLD |
+| Scale | 全球最大的上市物流 REIT |
+| Global presence | 业务遍及美洲、欧洲、亚洲（日本、中国、韩国、新加坡） |
+| Japan operations | 普洛斯日本 — 日本现代物流两大领先开发商之一（与 GLP 并列） |
+| Development pipeline | 维持于发起人资产负债表上；稳定化物业经由发起人支援协议供给 NPR |
+| Comparator | GLP（[[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] 的发起人）是其在日本最接近的全球可比对象 |
 
-Prologis 的美国上市身份意味着其日本战略与更广的 Prologis 全球平台整合。NPR 是 Prologis 在全球赞助的多个公开上市物流 REIT 载体之一。
+普洛斯的美国上市身份意味着其日本战略与更广泛的普洛斯全球平台相整合。NPR 是普洛斯在全球担任发起人的若干上市物流 REIT 载体之一。
 
-## 3. Sponsor support agreement 结构
+## 3. Sponsor support agreement structure
 
-Prologis-NPR sponsor support agreement 是 J-REIT 市场披露最清楚的正式 sponsor 管线机制之一。关键组成部分：
+普洛斯-NPR 发起人支援协议是 J-REIT 市场中披露最为清晰的正式发起人管线机制之一。主要构成要素：
 
-| 组成 | 说明 |
+| Component | Description |
 |---|---|
-| 优先谈判权 | NPR 对收购 Prologis 在日本开发并已稳定的物业享有优先谈判权 |
-| 信息权 | NPR 接收 sponsor 管线开发进展信息 |
-| Warehousing 支持 | Sponsor 可在 NPR 收购时点到来前临时持有稳定资产 |
-| 资产轮换合作 | Sponsor 配合 NPR 的组合更新策略 |
-| Sponsor 份额持有人持股 | Prologis 保留有意义的份额持有人持股（通常数个百分点），使 sponsor 与份额持有人利益更一致 |
-| AM 公司合作 | 资产管理公司（Prologis REIT Management K.K.）由 Prologis Japan 配备人员和支持 |
-| 关联方交易治理 | 从 sponsor 收购需要第三方估值、独立委员会批准和份额持有人披露 |
+| Preferential negotiation right | NPR 对收购日本已稳定化的普洛斯开发物业拥有优先谈判权 |
+| Information rights | NPR 收取关于发起人管线开发进展的信息 |
+| Warehousing support | 发起人可在等待 NPR 收购时机期间对已稳定化资产进行仓储（warehouse） |
+| Asset rotation cooperation | 发起人配合 NPR 的投资组合更新战略 |
+| Sponsor unit-holder stake | 普洛斯保留具有实质意义的投资主持股（通常为百分之几），使发起人与投资主利益一致 |
+| AM-company cooperation | 资产管理公司（Prologis REIT Management K.K.）由普洛斯日本配置人员并提供支援 |
+| Related-party-transaction governance | 从发起人处的收购需经第三方鉴定、独立委员会批准及向投资主披露 |
 
-这一正式 sponsor-support-agreement 模板已被其他外资 sponsor J-REIT 以及希望正式化 sponsor 关系的国内 sponsor J-REIT 以调整形式复制。
+这一正式的发起人支援协议范本已被其他外资发起人 J-REIT 以及寻求将发起人关系正式化的国内发起人 J-REIT（以修改后的形式）所复制。
 
-## 4. 组合构成
+## 4. Portfolio composition
 
-| 轴 | NPR 模式 |
+| Axis | NPR pattern |
 |---|---|
-| 资产类别 | AAA 级现代物流 — Class-A Plus 仓库 |
-| 物业规格 | 很高净高、大楼板、多层坡道通行、多租户 cross-dock、喷淋、BCP 韧性设计 |
-| 物业规模 | 以超大型为主（常为 100,000+ m2 GFA），支持每项资产容纳多个主要租户 |
-| 地理重点 | 大东京（Funabashi, Inzai, Soka, Sagamihara）、大大阪、爱知 / 名古屋 |
-| 租户基础 | 3PL 提供商、电商平台（Amazon Japan 存在感显著）、零售商、制造商 |
-| Sponsor 管线来源 | Prologis Japan 开发管线 |
+| Asset class | AAA 级现代物流 — A+ 级仓库 |
+| Property specifications | 极高净空、大面积楼面、多层坡道通行、多租户穿越式月台、喷淋、抗灾型设计 |
+| Property size | 以非常大型为主（多为 100,000+ m2  GFA），支持每项资产容纳多个主要租户 |
+| Geographic focus | 大东京圈（船桥、印西、草加、相模原）、大阪圈、爱知/名古屋 |
+| Tenant base | 3PL 提供商、电商平台（Amazon Japan 占比显著）、零售商、制造商 |
+| Sponsor pipeline source | 普洛斯日本开发管线 |
 
-## 5. 资本和杠杆
+## 5. Capital and leverage
 
-| 项目 | NPR 模式 |
+| Item | NPR pattern |
 |---|---|
-| LTV 政策区间 | 通常处于中 40% 区间 |
-| 债务组合 | 银行贷款加公开投资法人债 |
-| 债券曲线 | 投资级 J-REIT 债券定价 |
-| Sponsor 支持持股 | Prologis 保留 sponsor-support 份额持有人持股 |
-| 分配政策 | 半年 DPU；J-REIT 90% 税收穿透 |
-| 外资投资者份额 | 高 — 作为日本物流基准名称，并因外资 sponsor 联系提升全球投资者可见性 |
+| LTV policy band | 通常位于 40% 中段区间 |
+| Debt mix | 银行贷款加公募投资法人债 |
+| Bond curve | 投资级 J-REIT 债定价 |
+| Sponsor support stake | 普洛斯保留发起人支援的投资主持股 |
+| Distribution policy | 半年度 DPU；J-REIT 90% 穿透 |
+| Foreign-investor share | 高 — 外资发起人关联推动全球投资者认知度的日本物流基准标的 |
 
 ## 6. NPR vs GLP J-REIT
 
-| 轴 | NPR（3283） | GLP J-REIT（3281） |
+| Axis | NPR (3283) | GLP J-REIT (3281) |
 |---|---|---|
 | Sponsor | Prologis（美国，NYSE PLD） | GLP Pte Ltd（新加坡） |
-| 上市日期 | 2013  年2月 | 2012  年12月 |
-| 资产重点 | AAA 级现代物流 | 现代物流（Class-A 多租户） |
-| 地理重点 | 大东京 / 大阪 / 名古屋 | 大东京 / 大阪 |
-| Sponsor 支持 | 正式化 sponsor support agreement | Sponsor 管线优先供应 |
-| 资产轮换 | 活跃 | 活跃 |
-| 外资投资者画像 | 高；基准名称 | 高；基准名称 |
-| 差异化特征 | Prologis 全球规模和 AAA 级规格重点 | GLP 全球规模和新加坡锚定 LP 基础 |
+| Listing date | 2013  年 2 月| 2012  年 12 月|
+| Asset focus | AAA 级现代物流 | 现代物流（A 级多租户） |
+| Geographic focus | 大东京圈 / 大阪 / 名古屋 | 大东京圈 / 大阪 |
+| Sponsor support | 正式化的发起人支援协议 | 发起人管线优先供给 |
+| Asset rotation | 积极 | 积极 |
+| Foreign-investor profile | 高；基准标的 | 高；基准标的 |
+| Distinctive feature | 普洛斯的全球规模与对 AAA 级规格的专注 | GLP 的全球规模与以新加坡为锚的 LP 基础 |
 
-## 7. 为什么外资 sponsor 锚定现代物流板块
+## 7. Why foreign sponsors anchor the modern-logistics segment
 
-日本现代物流 J-REIT 板块的特殊之处在于**由外资 sponsor 主导** — Prologis（美国）和 GLP（新加坡）锚定该板块，而国内开发商 sponsor（三井不动产、三菱地所、野村不动产）在现代物流中的角色，相比办公室和住宅更小。结构性原因：
+日本的现代物流 J-REIT 板块的异常之处在于 **由外资发起人主导**——普洛斯（美国）与 GLP（新加坡）支撑该板块，而国内开发商系发起人（三井不动产、三菱地所、野村不动产）相对于办公与住宅，在现代物流中所起的作用较小。结构性原因：
 
-| 驱动 | 解读 |
+| Driver | Reading |
 |---|---|
-| 现代物流规格专业能力 | Prologis 和 GLP 在日本开发商建立同等平台前，已在全球规模上形成 AAA 级现代物流专业能力 |
-| 拿地节奏 | 外资 sponsor 在 2010 年代积极取得关键子市场中的物流用地 |
-| 资本效率 | 外资 sponsor 的全球 LP 资本提供了比单靠国内资产负债表融资更快的资本部署节奏 |
-| 租户关系 | 国际物流租户（Amazon、全球 3PL）倾向于使用其全球熟悉的交易对手 |
-| 合理反向因素 | 国内开发商已通过物流重点 J-REIT 条目回应（例如多元化 J-REIT 内的物流 sleeve） |
+| Modern-logistics-spec expertise | 普洛斯与 GLP 在日本开发商建立同等平台之前，便已在全球规模上培育了 AAA 级现代物流专业能力 |
+| Land acquisition tempo | 外资发起人在整个 2010 年代积极确保了关键子市场中划为物流用途的土地 |
+| Capital efficiency | 外资发起人的全球 LP 资本提供了比仅靠国内资产负债表融资更快的资本部署节奏 |
+| Tenant relationship | 国际物流租户（Amazon、全球 3PL）偏好其在全球范围内熟悉的交易对手 |
+| Reasonable counter | 国内开发商已以物流专注型 J-REIT 的进入（例如综合型 J-REIT 内的物流条线）作出回应 |
 
 ## Related
 

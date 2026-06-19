@@ -1,43 +1,43 @@
 ---
 source: non-life-insurers/aioi-nissay-dowa-insurance
-source_hash: 5ed64342393347b5
+source_hash: 38195dfdd6a15050
 lang: ja
 status: machine
 fidelity: ok
 title: "あいおいニッセイ同和損害保険"
-translated_at: 2026-06-02T14:01:20.908Z
+translated_at: 2026-06-19T06:09:18.032Z
 ---
 
 # あいおいニッセイ同和損害保険
 
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下にある。ピア比較・対照の文脈では [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]] とあわせて読み、より広い制度・規制境界については [[insurance/INDEX|insurance index]] とあわせて読む。
+このエントリは [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。同業 / 対比のコンテキストについては [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]] と、より広範な体系 / 規制境界については [[insurance/INDEX|insurance index]] と対照して読まれたい。
 
-## 要約
+## TL;DR
 
-あいおいニッセイ同和損害保険株式会社は、[[non-life-insurers/msad]] グループの損害保険事業会社。金融庁の損害保険会社免許一覧に掲載され、MS&AD group 内では [[non-life-insurers/mitsui-sumitomo-insurance]] と別の 法人境界・チャネル境界 を持つ。
+あいおいニッセイ同和損害保険株式会社は、[[non-life-insurers/msad]] グループの損害保険事業会社である。金融庁の損害保険会社免許一覧に掲載され、MS&AD グループ内では [[non-life-insurers/mitsui-sumitomo-insurance]] とは別の法人エンティティおよびチャネル境界を持つ。
 
-## 1. 免許 / グループ境界
+## 1. ライセンス / グループ境界
 
-| 項目 | 注記 |
+| 項目 | 備考 |
 |---|---|
-| 法人名 | あいおいニッセイ同和損害保険株式会社 |
-| 免許ルート | 保険業法上の損害保険会社；FSA 損害保険会社一覧 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ boundary | [[non-life-insurers/msad]] 損害保険事業会社 |
-| ウィキ上の役割 | MS&AD の国内リテール / 自動車 / 地域チャネル損保部門 |
+| 正式名称 | あいおいニッセイ同和損害保険株式会社 |
+| ライセンス経路 | 保険業法上の損害保険会社；金融庁損害保険会社一覧 |
+| 保護スキーム | 損害保険契約者保護機構の会員 |
+| グループ境界 | [[non-life-insurers/msad]] の損害保険事業会社 |
+| Wiki ロール | MS&AD の国内リテール / 自動車 / 地域チャネル損保部門 |
 
-## 2. 事業モデル
+## 2. オペレーティングモデル
 
-あいおいニッセイ同和が重要なのは、MS&AD が単一事業会社グループではないためである。あいおいニッセイ同和と三井住友海上の法人分割は、代理店網、ブランド、商品流通、統合リスク、グループ再編分析に影響する。
+あいおいニッセイ同和が重要なのは、MS&AD が単一事業会社のグループではないからである。あいおいニッセイ同和と三井住友海上の間の法人エンティティの分割は、代理店ネットワーク、ブランド、商品販売、統合リスク、そしてあり得るグループ再編の分析に影響を与える。
 
-## 3. このページが重要な理由
+## 3. なぜこのページが重要か
 
-- MS&AD の国内損保事業会社の分担を補完する。
-- [[non-life-insurers/tokio-marine-nichido-fire]] と [[non-life-insurers/sompo-japan-insurance]] の重要な比較対象である。
-- 登録情報に裏付けられた D3  損保大手ページである。
+- MS&AD の国内損保事業会社の分割を完成させる。
+- [[non-life-insurers/tokio-marine-nichido-fire]] および [[non-life-insurers/sompo-japan-insurance]] にとっての重要な同業。
+- 登録に裏付けられた D3 損保メジャーのページ。
 
 ## 関連
 
@@ -49,6 +49,6 @@ translated_at: 2026-06-02T14:01:20.908Z
 
 ## 出典
 
-- FSA: 損害保険会社免許一覧, 時点 2026-04-01.
-- 損害保険契約者保護機構: 会員会社一覧, 時点 2026-04.
-- あいおいニッセイ同和損保 公式サイト.
+- 金融庁：損害保険会社免許一覧、2026-04-01現在。
+- 損害保険契約者保護機構：会員会社一覧、2026-04現在。
+- あいおいニッセイ同和損保 公式ウェブサイト。

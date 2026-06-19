@@ -1,19 +1,20 @@
 ---
 source: securities-firms/mizuho-securities
-source_hash: c876a226b8e32da2
+source_hash: f51df3085a37c804
 lang: en
 status: machine
 fidelity: ok
 title: "Mizuho Securities"
-translated_at: 2026-05-31T23:59:49.381Z
+translated_at: 2026-06-19T12:43:19.929Z
 ---
+
 # Mizuho Securities
 
 ## TL;DR
 
-Mizuho Securities is the securities arm of [[megabanks/mizuho-fg|Mizuho Financial Group]]. It is a registered Financial Instruments Business Operator; the FSA financial instruments business operator list identifies Mizuho Securities Co., Ltd. as Kanto Local Finance Bureau (FIBO) No. 94,  with Type I / Type II / investment advisory and agency / investment management registrations and JSDA membership.
+Mizuho Securities is the securities arm of [[megabanks/mizuho-fg|Mizuho Financial Group]]. It is a registered Financial Instruments Business Operator; FSA's financial instruments business operator list identifies みずほ証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 94, with Type I / Type II / investment advisory & agency / investment management registrations and JSDA membership.
 
-Use this page for Mizuho's securities and investment-banking layer, not for bank-deposit or trust-bank analysis.
+Use this page for Mizuho's securities / investment-banking layer, not for bank-deposit or trust-bank analysis.
 
 ## Positioning
 

@@ -1,65 +1,65 @@
 ---
 source: non-life-insurers/ntt-docomo-sonpo
-source_hash: 2605464bb1e58320
+source_hash: 3cf4189714203ebc
 lang: ja
 status: machine
 fidelity: ok
 title: "NTTドコモ損害保険"
-translated_at: 2026-06-02T14:54:39.102Z
+translated_at: 2026-06-19T06:09:18.092Z
 ---
 
 # NTTドコモ損害保険
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] 配下に置く。[[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]、[[non-life-insurers/sompo|SOMPO]]、[[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、[[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]]、[[insurance/INDEX|insurance index]] と併せて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。[[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]、[[non-life-insurers/sompo|SOMPO]]、[[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、[[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]]、[[insurance/INDEX|insurance index]] と併せて読むこと。
 
-このページは免許を持つ運営会社を扱う。持株会社の認可ルートは [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] を使う。
+このページは免許を受けた事業会社のために使用する。持株会社の認可ルートについては [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] を使用する。
 
 ## 概要
 
-株式会社NTTドコモ損害保険は、株式会社NTTドコモ損害保険ホールディングス配下の、金融庁一覧に掲載される損害保険会社である。公式会社概要では、2024-04-01 に準備会社として設立され、本店を沖縄県名護市に置くとされる。
+株式会社NTTドコモ損害保険は、株式会社NTTドコモ損害保険ホールディングスの下にある金融庁掲載の損害保険会社である。公式の会社概要によれば、2024-04-01 に準備会社として設立され、沖縄県名護市に本社を置いている。
 
-この会社が重要なのは、NTT Docomo の保険ルートをより具体化するためである。持株会社は単なる規制上の器ではなく、運営保険会社は端末補償やスマートライフ保護サービスをめぐる損害保険 / 再保険事業に結びついている。
+この会社が重要なのは、NTT ドコモの保険ルートをより具体的にするためである：持株会社は単なる規制上のシェルではなく、事業を行う保険会社は端末およびスマートライフ保護サービス周りの損害 / 再保険ビジネスに結び付いている。
 
-## 1. 免許・グループ境界
+## 1. ライセンス / グループ境界
 
-| 項目 | メモ |
+| 項目 | 備考 |
 |---|---|
-| 法人名 | 株式会社NTTドコモ損害保険 |
+| 正式名 | 株式会社NTTドコモ損害保険 |
 | 英名 | NTT DOCOMO General Insurance, Inc. |
-| 免許ルート | 保険業法上の損害保険会社。金融庁の損害保険会社一覧に掲載 |
+| ライセンス経路 | 保険業法上の損害保険会社；金融庁 損保会社リスト |
 | 株主 | [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] |
-| 親会社 / 戦略文脈 | NTT Docomo と SOMPO の保険 / 再保険隣接機能 |
-| ウィキ上の役割 | 通信会社連動型の損害保険運営会社ページ |
+| 親会社 / 戦略的文脈 | NTT ドコモ および SOMPO の保険 / 再保険の隣接性 |
+| Wiki 上の役割 | 通信系の損害保険事業会社のページ |
 
 ## 2. 事業モデル
 
-2023  の NTT Docomo 発表では、予定会社はケータイ補償サービスや smartあんしん補償などのモバイル端末補償サービスに関連する再保険事業会社として説明されていた。そのため、[[non-life-insurers/sony-insurance|Sony Insurance]] や [[non-life-insurers/sompo-direct|SOMPO Direct]] のような広範な消費者向けダイレクト損害保険会社とは異なる。
+2023 の NTT ドコモの発表は、計画された会社を、ケータイ補償サービス や smartあんしん補償 といったモバイル端末補償サービスに接続された再保険ビジネスとして説明していた。これは、[[non-life-insurers/sony-insurance|Sony Insurance]] や [[non-life-insurers/sompo-direct|SOMPO Direct]] のような広範な消費者向け直販保険会社とは異なるものにしている。
 
-FinWiki では、この運営会社ページによって次の連鎖を明確にする。
+FinWiki にとって、事業会社のページはチェーンを明確にする：
 
 ```
-NTT Docomo / SOMPO の戦略文脈
+NTT ドコモ / SOMPO の戦略的文脈
   -> [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]
      -> NTTドコモ損害保険
-        -> 端末・保護サービスリスクをめぐる損害保険 / 再保険ルート
+        -> 端末および保護サービスのリスク周りの 損害 / 再保険 ルート
 ```
 
-## 3. 戦略的な読み方
+## 3. 戦略的な読み
 
-- 通信会社金融が決済、カード、銀行提携、証券を越えて、規制下の保険引受まで広がることを示す。
-- [[megabanks/ndfg|NTT Docomo FG]] / NTT 金融分析に、保険隣接の具体的な法人ルートを与える。
-- SOMPO の主力損害保険運営会社である [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] と、Docomo 固有の保険構造を切り分ける助けになる。
-- [[non-life-insurers/au-insurance|au Insurance]] および [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance]] と並び、組込型 / プラットフォーム型保険の比較対象として有用である。
+- 通信金融が、決済、カード、銀行提携、証券を超えて、規制された保険引受へと拡張していることを示す。
+- [[megabanks/ndfg|NTT Docomo FG]] / NTT 金融分析に、保険隣接の具体的な事業体ルートを与える。
+- SOMPO の主流の損害保険事業会社である [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] を、ドコモ固有の保険構造から分離するのに役立つ。
+- 組込み / プラットフォーム保険について、[[non-life-insurers/au-insurance|au Insurance]] や [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance]] と並ぶ有用な比較ポイントである。
 
-## 4. Boundary notes
+## 4. 境界の留意点
 
-このページは [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] と分けて維持する。持株会社は認可 / 資本管理のルートであり、本ページは免許を持つ運営保険会社である。
+このページは [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] とは分けて扱うこと。持株会社は認可 / 資本コントロールのルートであり、このページは免許を受けた事業を行う保険会社である。
 
-また、[[non-life-insurers/sompo|SOMPO]] および [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] とも分けて維持する。戦略的関係は重要だが、運営境界は SOMPO の中核損害保険会社と同じではない。
+また、[[non-life-insurers/sompo|SOMPO]] や [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] とも分けて扱うこと。戦略的関係は重要だが、事業上の境界は SOMPO の中核の損害保険引受会社と同じではない。
 
-## 関連
+## Related
 
 - [[non-life-insurers/ntt-docomo-sompo-hd]]
 - [[megabanks/ndfg]]
@@ -69,8 +69,8 @@ NTT Docomo / SOMPO の戦略文脈
 - [[non-life-insurers/yamap-naturance-insurance]]
 - [[insurance/INDEX]]
 
-## 出典
+## Sources
 
-- 金融庁: 2026-04-01 時点の損害保険会社免許一覧。
-- NTTドコモ損害保険: 公式会社概要。
-- NTT Docomo: 2023-10-06 再保険事業会社の設立に関する発表.
+- 金融庁：損害保険会社免許リスト（2026-04-01 時点）。
+- NTTドコモ損害保険：公式会社概要。
+- NTT ドコモ：再保険ビジネス会社の設立に関する 2023-10-06 の発表。

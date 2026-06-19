@@ -1,108 +1,108 @@
 ---
 source: regional-banks/01-bank
-source_hash: 7b072feb564b9abc
+source_hash: 6a3ca0f41b18c3f1
 lang: en
 status: machine
 fidelity: ok
-title: "01 Bank (01 Bank)"
-translated_at: 2026-05-31T07:28:06.151Z
+title: "01 Bank (01Bank)"
+translated_at: 2026-06-19T13:13:22.648Z
 ---
-# 01 Bank (01 Bank)
+# 01 Bank (01Bank)
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding regional-bank digital banks), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent-group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding regional-bank digital banks), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 1. Corporate / license boundary
+## 1. Legal entity / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal name | 01 Bank Co., Ltd. |
-| Brand | 01 Bank |
+| Legal name | ０１銀行株式会社 |
+| Brand | 01Bank |
 | FSA category | Other bank |
-| Bank license | Ordinary banking license under the Banking Act (license granted 2025-02-28) |
-| Preparatory company | 2024-02 (01 Bank Preparatory Co., Ltd.) |
-| Bank license obtained | 2025-02-28 (the FSA granted a license to "01 Bank Preparatory Co., Ltd." and changed the trade name to "01 Bank Co., Ltd.") |
-| Launch | 2025-07-28 (service provision began) |
-| Head office | 9 -1 号 Toyotsucho, Suita, Osaka (EDGE Esaka 19 F) |
-| Parent company | Senshu Ikeda Holdings, Inc. 100% |
-| Core model | Business-data-based SME finance / digital banking |
+| Bank license | Ordinary bank license under the Banking Act (license granted 2025-02-28) |
+| Establishment-prep company | 2024-02 (01Bank Establishment Preparatory Co., Ltd.) |
+| Bank license obtained | 2025-02-28 (FSA granted the license to "01Bank Establishment Preparatory Co., Ltd."; trade name changed to "01銀行株式会社") |
+| Opening | 2025-07-28 (start of service provision) |
+| Head office | 9 -1 号 Toyotsu-cho, Suita City, Osaka Prefecture (EDGE Esaka 19 F) |
+| Parent company | Ikeda Senshu Holdings, Inc. 100% |
+| Core model | Business-data based SME finance / digital banking |
 
-## 3. Key timeline
+## 3. Key chronology
 
-| Year / month | Event |
+| Year/Month | Event |
 |---|---|
-| 2024-02  | **01 Bank Preparatory Co., Ltd. established** (startup preparatory company set up; banking business had not yet started) ^[extracted] |
-| 2025-02-28 | **FSA granted banking license**, and the preparatory company changed its trade name to "01 Bank Co., Ltd." (the 3 th regional-bank digital bank) ^[extracted] |
-| 2025-07-24 | Official news release "Regarding Business Policy" published (disclosing the direction of the data-credit model) ^[extracted] |
-| 2025-07-28 | **01 Bank launched** (service provision started) ^[extracted] |
+| 2024-02 | **Establishment of 01Bank Establishment Preparatory Co., Ltd.** (establishment of the opening-preparatory company; banking business not yet started) ^[extracted] |
+| 2025-02-28 | **FSA grants banking license**, trade name of the preparatory company changed to "01銀行株式会社" (the 3 th regional-bank-affiliated digital bank) ^[extracted] |
+| 2025-07-24 | Official news release "On the business policy" published (disclosure of the direction of the data-credit model) ^[extracted] |
+| 2025-07-28 | **01 Bank opens** (start of service provision) ^[extracted] |
 
-## 4. Relationship with parent Senshu Ikeda HD
+## 4. Relationship with parent Ikeda Senshu HD
 
-[[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] is a Kansai regional-bank holding company centered on Senshu Ikeda Bank (strong in northern Osaka / Hokusetu), listed on TSE Prime 8714. 01 Bank opened in 2025-07-28 as an **100% subsidiary** focused on SMEs (corporates and sole proprietors), and serves as the execution vehicle for the digital-bank concept laid out in Senshu Ikeda HD's medium-term management plan "Vision '25" announced in 2020 .
+[[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] is a Kansai regional-bank holding company (TSE Prime 8714) centered on Ikeda Senshu Bank (based in northern Osaka / Hokusetsu). 01 Bank is a digital bank for SMEs (corporations / sole proprietors) that opened on 2025-07-28 as the company's **100% subsidiary**, and serves as the execution vehicle for the digital-bank concept in the medium-term management plan "Vision '25" that Ikeda Senshu HD set out in 2020 .
 
-- **Senshu Ikeda Bank** (core / Kansai retail + corporate)
-- **01 Bank** (opened 2025-07-28, digital bank specialized in SMEs / corporates and sole proprietors, this page)
+- **Ikeda Senshu Bank** (core / Kansai retail + corporate)
+- **01 Bank** (opened 2025-07-28; SME / corporate / sole-proprietor-focused digital bank; this page)
 
-Among regional-bank digital-bank launches, it is the **3 th case**, following **[[regional-banks/fukuoka-fg|ふくおか FG]]'s [[banking/minna-bank-baas-model|みんなの銀行]] (2021-05)** and **Tokyo Kiraboshi FG's [[regional-banks/ui-bank|UI銀行]] (2022-01)**, as consistently reported by Nikkei and Nikkin. Whereas Minna no Bank was a full-cloud retail pioneer on GCP, 01 Bank is differentiated as a **data-credit-specialized SME bank** that integrates cloud accounting and SaaS-linked data into lending decisions. It is a **competitor / comparison target** rather than a sister bank to Minna no Bank, because the capital lineage is different.
+As a regional-bank-affiliated digital-bank opening, it is the **3 th case** following **[[banking/minna-bank-baas-model|みんなの銀行]] of [[regional-banks/fukuoka-fg|ふくおか FG]] (2021-05)** and **[[regional-banks/ui-bank|UI銀行]] of Tokyo Kiraboshi FG (2022-01)** (consistent in Nihon Keizai Shimbun and Nikkin reporting). Whereas Minna Bank was the pioneering retail-oriented full-GCP-cloud example, 01 Bank is a separate axis as a **data-credit-focused SME bank** that incorporates cloud accounting and SaaS data linkage into lending decisions. It is a **competitor / comparison target** with a different capital lineage from Minna Bank, not a sister bank.
 
 ## 5. Business model — data-driven SME finance
 
-- States that it will use business data such as cloud services to reflect actual business activity, which is hard to see from financial statements alone, in lending decisions ^[extracted]
-- Positioned as a new data-linked banking model for business operators rather than an extension of existing megabank or regional-bank channels
+- Aims to utilize business data such as cloud services to reflect, in lending decisions, the actual state of business activity that is hard to see from a financial-statement-centric view ^[extracted]
+- Positioned not as the existing channel of megabanks / regional banks, but as a new data-linked banking model for business operators
 - Comparison targets: [[regional-banks/ui-bank|UI銀行]], [[banking/minna-bank-baas-model|みんなの銀行]], [[banking/baas-japan-landscape|BaaS landscape]]
 
-## 6. Peer comparison — the lineage of regional-bank digital subsidiaries
+## 6. Peer comparison — lineage of regional-bank digital subsidiaries
 
-| Bank | Parent FG | Launch | Target | Architecture |
+| Bank | Parent FG | Opening | Target | Architecture |
 |---|---|---|---|---|
-| Minna no Bank | [[regional-banks/fukuoka-fg|FFG]] | 2021-05  | Retail | Full cloud on GCP |
-| [[regional-banks/ui-bank|UI銀行]] | Kiraboshi FG | 2022-01  | Retail / SMEs | Cloud-based |
-| Tonari (BaaS) | [[regional-banks/hokkoku-fhd|北國 FHD]] / CCI | 2023-04  | BaaS for other regional banks | Microsoft Azure |
-| **01 Bank** | [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] | **2025-07** | SMEs / corporates and sole proprietors | Data-credit specialization |
+| Minna Bank | [[regional-banks/fukuoka-fg|FFG]] | 2021-05 | Retail | GCP full cloud |
+| [[regional-banks/ui-bank|UI銀行]] | Kiraboshi FG | 2022-01 | Retail / small-and-mid corporate | Cloud-based |
+| Tonari (BaaS) | [[regional-banks/hokkoku-fhd|北國 FHD]] / CCI | 2023-04 | BaaS for other regional banks | Microsoft Azure |
+| **01 Bank** | [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] | **2025-07** | SME / corporate / sole proprietor | Data-credit focused |
 
-FFG is not adding an SME-specialized 01 Bank alongside its retail Minna no Bank. Rather, 01 Bank is **the independent 3 th regional-bank digital bank** in the Senshu Ikeda HD lineage. Hokkoku FHD took the "external BaaS sales" route, Kiraboshi the "single digital bank (UI Bank)" route, and Senshu Ikeda HD the "SME / sole-proprietor specialization (01 Bank)" route.
+FFG does not have an SME-focused 01 Bank in addition to retail (Minna Bank); 01 Bank is an independent 3  regional-bank digital bank in the **Ikeda Senshu HD** lineage. Hokkoku FHD takes the "BaaS wholesaling" route, Kiraboshi the "single digital bank (UI Bank)" route, and Ikeda Senshu HD the "SME / sole-proprietor-focused (01 Bank)" route — their paths diverge.
 
 ## 7. Supervision / regulation
 
-- **Primary supervisors**: Financial Services Agency (FSA), Kinki Local Finance Bureau (reflecting the head office location in Suita, Osaka)
+- **Supervisor**: Financial Services Agency (FSA), Kinki Local Finance Bureau (per the head-office location in Suita City, Osaka Prefecture)
 - **Business type**: ordinary bank under the Banking Act
-- **Deposit insurance**: member of the Deposit Insurance Corporation of Japan (ordinary deposits protected up to 1,000万円)
-- **Data credit**: triple constraints of the APPI + FIEA (use of credit information) + lending governance under the Banking Act
+- **Deposit insurance**: member of the Deposit Insurance Corporation (ordinary deposits protected up to 1,000万円)
+- **Data credit**: triple constraint of the Personal Information Protection Act + the FIEA (use of credit information) + lending governance under the Banking Act
 
 ## 9. Open questions
 
-- To what extent will account count / loan balance / recurring-profit disclosures for 01 Bank at the 2025年 or 2026年 stage be broken out in the consolidated IR of parent Senshu Ikeda HD? (The group is reported as targeting standalone profitability in year 3 .)
-- Will default-rate performance of the data-credit model be disclosed? Does it show superiority relative to industry benchmarks (megabank / regional-bank SME loan default rates)?
-- Can 01 Bank's specialization in SMEs / sole proprietors function as real differentiation against earlier movers such as Minna no Bank (retail) and UI Bank (retail / small corporate)?
-- Is there room for competition or cooperation with Hokkoku FHD's Tonari (BaaS) or other regional-bank digital subsidiaries?
-- What is the concrete contract structure with partner data sources (freee / Money Forward, etc.)?
+- To what extent will the 2025年 / 2026年 fiscal-year account-count / loan-balance / ordinary-profit disclosures of 01 Bank be detailed in parent Ikeda Senshu HD's consolidated IR? (Ikeda Senshu HD is reported to aim for "single-year profitability in 3 ")
+- Will the default-rate track record of the data-credit model be disclosed? What is its advantage relative to industry benchmarks (SME-lending default rates of mega / regional banks)?
+- Relative to the preceding Minna Bank (retail) / UI Bank (retail / small-and-mid corporate), will 01 Bank's SME / sole-proprietor focus function as differentiation?
+- What are the possibilities for competition / cooperation with Hokkoku FHD's Tonari (BaaS) and other regional-bank digital subsidiaries?
+- What is the concrete contractual structure of the partner data sources (freee / Money Forward, etc.)?
 
 ## Related
 
-- [[regional-banks/ikeda-senshu-hd]] — parent company (Senshu Ikeda Holdings, Kansai regional-bank holding company)
-- [[banking/minna-bank-baas-model]] — FFG's digital bank (1 th regional-bank digital bank, comparison target)
-- [[regional-banks/ui-bank]] — Kiraboshi FG digital bank (2 th case, comparison target)
-- [[regional-banks/fukuoka-fg]] — parent FG of Minna no Bank (reference case for an earlier regional-bank digital bank)
-- [[regional-banks/hokkoku-fhd]] — Hokkoku FHD (CCI group), reference for the BaaS route
+- [[regional-banks/ikeda-senshu-hd]] — parent company (Ikeda Senshu Holdings, Kansai regional-bank holding company)
+- [[banking/minna-bank-baas-model]] — FFG's digital bank (the 1 th regional-bank digital bank, comparison target)
+- [[regional-banks/ui-bank]] — Kiraboshi FG digital bank (the 2 th case, comparison target)
+- [[regional-banks/fukuoka-fg]] — Minna Bank's parent FG (reference for the preceding regional-bank digital-bank case)
+- [[regional-banks/hokkoku-fhd]] — Hokkoku FHD (CCI Group), reference for the BaaS route
 - [[banking/baas-japan-landscape]] — BaaS / digital-bank landscape
 - [[banking/INDEX]]
 
 ## Sources
 
-- FSA, "Bank license list", `ginkou.xlsx`.
-- 01 Bank, "About 01 Bank (company profile)", https://01bank.co.jp/aboutus/index.html
-- 01 Bank, "Business policy news release" (2025-07-24), https://01bank.co.jp/news/pdf/2025/0724.pdf
-- Fukuoka Financial Group IR materials
-- Wikipedia: Fukuoka Financial Group (public information)
-- **Wikipedia: 01 Bank** https://ja.wikipedia.org/wiki/01銀行 (checked at 2026-05-30) — head office 9-1 Toyotsucho, Suita, Osaka; parent Senshu Ikeda Holdings 100%; license grant 2025-02-28; launch 2025-07-28
-- **PR TIMES: Launch of 01 Bank Co., Ltd. and its business policy** https://prtimes.jp/main/html/rd/p/000000001.000166817.html — "obtained banking license in 2025年2月28日" and "launched in 2025年7月28日"; major shareholder Senshu Ikeda Holdings 100%; head office 9 -1 号 Toyotsucho, Suita, Osaka (EDGE Esaka 19 F)
-- **Nikkei: Senshu Ikeda HD to launch a digital bank within the month, the 3 th case among regional banks** https://www.nikkei.com/article/DGXZQOUF2270A0S5A720C2000000/ — under Senshu Ikeda HD, the 3 th case following FFG and Tokyo Kiraboshi FG, launching in 2025-07-28
-- **Nikkin ONLINE: FSA grants license to Senshu Ikeda HD's "01 Bank"** https://www.nikkinonline.com/article/254475  — license granted 2025-02-28, preparatory company established 2024-02  then renamed to 01 Bank Co., Ltd.
+- FSA, "銀行免許一覧", `ginkou.xlsx`.
+- 01Bank, "01Bankについて（会社概要）", https://01bank.co.jp/aboutus/index.html
+- 01Bank, "事業方針ニュースリリース" (2025-07-24), https://01bank.co.jp/news/pdf/2025/0724.pdf
+- Fukuoka Financial Group IR public materials
+- Wikipedia: ふくおかフィナンシャルグループ (public information)
+- **Wikipedia: 01銀行** https://ja.wikipedia.org/wiki/01銀行 (confirmed 2026-05-30) — head office 9-1 Toyotsu-cho, Suita City, Osaka Prefecture; parent Ikeda Senshu Holdings 100%; license granted 2025-02-28; opened 2025-07-28
+- **PR TIMES: ０１銀行株式会社の開業、および事業方針について** https://prtimes.jp/main/html/rd/p/000000001.000166817.html — "obtained a banking license on 2025年2月28日" "opened on 2025年7月28日"; major shareholder Ikeda Senshu Holdings, Inc. 100%; head office 9 -1 号 Toyotsu-cho, Suita City, Osaka Prefecture (EDGE Esaka 19 F)
+- **Nihon Keizai Shimbun "Ikeda Senshu HD to open a digital bank within the month, the 3 th among regional banks"** https://www.nikkei.com/article/DGXZQOUF2270A0S5A720C2000000/ — under Ikeda Senshu HD, the 3 th case following Fukuoka FG and Tokyo Kiraboshi FG, opened 2025-07-28
+- **Nikkin ONLINE "FSA grants license to Ikeda Senshu HD's '01Bank'"** https://www.nikkinonline.com/article/254475 — license granted 2025-02-28; trade name of the preparatory company (established 2024-02 ) changed to "01銀行株式会社"
 
-> [!info] Parent-company / group-lineage correction completed (2026-05-30)
-> The earlier version identified the parent as **Fukuoka Financial Group (FFG)** and described it as "FFG's 2  digital-bank structure alongside Minna no Bank" with a launch in 2024-02 , but all of that was incorrect. The correct facts are **parent company = Senshu Ikeda Holdings, Inc. (100%)**, **banking license granted 2025-02-28**, **launch 2025-07-28**. 2024-02  refers to the establishment stage of the preparatory company (01 Bank Preparatory Co., Ltd.). As a regional-bank digital bank, it is the 3 th case after FFG's Minna no Bank (2021-05) and Tokyo Kiraboshi FG's UI Bank (2022-01), and it is a competitor with different capital lineage rather than a sister bank to Minna no Bank (confirmed consistently by Wikipedia / PR TIMES / Nikkei / Nikkin). Frontmatter tags, head office, sections 4 and 6, timeline, and Related have all been fully corrected.
+> [!info] Parent company / lineage corrected (2026-05-30)
+> The old version stated the parent company as **Fukuoka FG (FFG)** and described "an FFG 2  digital-bank structure alongside Minna Bank" and "opened 2024-02 ", but both are erroneous. Correctly, **parent company = Ikeda Senshu Holdings, Inc. (100%)**, **banking license granted 2025-02-28**, **opening 2025-07-28**. 2024-02  is the establishment date of the opening-preparatory company (01Bank Establishment Preparatory Co., Ltd.). As a regional-bank-affiliated digital bank, it is the 3 th case following FFG Minna Bank (2021-05) and Tokyo Kiraboshi FG UI Bank (2022-01), and is a competitor with a different capital lineage from Minna Bank, not a sister bank (confirmed consistently in Wikipedia / PR TIMES / Nihon Keizai Shimbun / Nikkin). The frontmatter tags, head office, sections 4 / 6, chronology, and Related have all been corrected.
 
 ---
 
-> [!info] Review status
+> [!info] Verification status

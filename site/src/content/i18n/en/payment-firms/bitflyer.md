@@ -1,13 +1,13 @@
 ---
 source: payment-firms/bitflyer
-source_hash: 9db6c7bc20410838
+source_hash: e35937a865d956af
 lang: en
 status: machine
 fidelity: ok
-title: "bitFlyer (bitFlyer Co., Ltd. / bitFlyer Holdings)"
-translated_at: 2026-05-31T11:13:44.930Z
+title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
+translated_at: 2026-06-19T06:09:18.048Z
 ---
-# bitFlyer (bitFlyer Co., Ltd. / bitFlyer Holdings)
+# bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
 ## Wiki route
 
@@ -15,111 +15,111 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-One of the largest crypto asset exchanges in Japan. **2014-01-09 Founded by Yuzo Kano**, acquired **2017-09  Director of the Kanto Finance Bureau 第 00003 号** (one of the first group 11 社) immediately after the enforcement of the revised Payment Services Act. **Top in Japan** in terms of Bitcoin spot trading volume (competing with [[exchanges/jp-exchange-bitbank|bitbank]] and [[exchanges/jp-exchange-coincheck|coincheck]] for the top spot depending on the year). 2019  Became a holding company (established bitFlyer Holdings) and expanded subsidiaries in the US/EU (Luxembourg)**. The group's own private chain "miyabi" is operated by [[systems/bitflyer-blockchain|bitFlyer Blockchain]]. 2024-2025 Along with reports of IPO consideration, **Founder return/management rights battle** has surfaced. JVCEA Type 1  vendor.
+One of the largest domestic crypto-asset exchanges. **Founded by Yuzo Kano in 2014-01-09**, it obtained the **2017-09  Director-General of the Kanto Local Finance Bureau 第 00003 号** registration shortly after the amended Payment Services Act took effect (one of the first cohort of 11 社). In Bitcoin spot trading volume it is **among the domestic top tier** (in some years vying for first place with [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]]). It became a holding company in 2019  (establishing bitFlyer Holdings), with subsidiaries deployed in the **US / EU (Luxembourg)**. The group's own private chain "miyabi" is operated by [[systems/bitflyer-blockchain|bitFlyer Blockchain]]. In parallel with 2024-2025  reports of IPO consideration, a **founder's return / control struggle** surfaced. A JVCEA Type 1  operator.
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: BitFlyer Holdings Co., Ltd. (holding) / BitFlyer Co., Ltd. (exchange operation)
+**Legal name**: 株式会社ビットフライヤーホールディングス (holding) / 株式会社ビットフライヤー (exchange operation)
 **English name**: bitFlyer Holdings, Inc. / bitFlyer, Inc.
-**Established**: 2014-01-09 (Bit Flyer Co., Ltd.)
-**Holding company**: 2019 (bitFlyer Holdings established)
+**Established**: 2014-01-09 (株式会社ビットフライヤー)
+**Holding-company conversion**: 2019 (establishment of bitFlyer Holdings)
 **Headquarters**: Minato-ku, Tokyo
-**Founder**: Yuzo Kano (formerly Goldman Sachs Securities)
-**Unlisted**: 2024-2025 IPO consideration public reporting (specific timeline not yet determined)
+**Founder**: Yuzo Kano (元 Goldman Sachs Securities)
+**Unlisted**: 2024-2025  public reports of IPO consideration (specific timeline undetermined)
 
-### Group structure (public information base)
+### Group structure (based on public information)
 
 ```
-bitFlyer Holdings, Inc. (holding, unlisted)
-├── bitFlyer, Inc.── Domestic exchange
-│ └── Director of Kanto Local Finance Bureau 第 00003 号 Crypto asset exchange company
-├── bitFlyer USA, Inc. (US subsidiary) ── licensed money transmitter (multi-state MTL)
-├── bitFlyer EUROPE S.A. (Luxembourg)── EU base
-│ └── France AMF PSAN registration (2022)
-└── bitFlyer Blockchain Co., Ltd. (B2B blockchain business)
-└── miyabi (unique private blockchain)
+bitFlyer Holdings, Inc.（持株、未上場）
+  ├── 株式会社ビットフライヤー（bitFlyer, Inc.）── 国内取引所
+  │     └── 関東財務局長 第 00003 号 暗号資産交換業者
+  ├── bitFlyer USA, Inc.（米国子会社）── licensed money transmitter（複数州 MTL）
+  ├── bitFlyer EUROPE S.A.（ルクセンブルク）── EU 拠点
+  │     └── 仏 AMF PSAN 登録（2022）
+  └── 株式会社 bitFlyer Blockchain（B2B ブロックチェーン事業）
+        └── miyabi（独自プライベートブロックチェーン）
 ```
 
-### Major shareholders/funding (public information)
+### Main shareholders / fundraising (public information)
 
-- Series A to C (2015 to 2017) **Mitsubishi UFJ Capital / SBI Investment / Recruit / Mitsui Sumitomo Insurance / Dai-ichi Life Insurance / Mizuho Capital / Dentsu / GMO Venture Partners / Telecommunications VC** and other major domestic VCs and business companies invested
-- 累計調達額: 公表ベースで **約 130 億円超**（2016 時点 30 億超のシリーズ C 報道、以後の追加調達含む）
-- Controlled by founder/management team + domestic strategic shareholders
-- **As the company is not listed, the exact shareholding structure is not disclosed**, 2024-2025  Reports of a dispute over management rights have revealed a conflict between the founder and the current management team
+- Across Series A–C (2015〜2017), major domestic VCs and operating companies invested, including **Mitsubishi UFJ Capital / SBI Investment / Recruit / Mitsui Sumitomo Insurance / Dai-ichi Life / Mizuho Capital / Dentsu / GMO Venture Partners / telecom-affiliated VCs**
+- Cumulative amount raised: on a disclosed basis, **over about 130 億円** (a Series C report of over 30 億 as of 2016 , including subsequent additional raises)
+- Controlled by the founder / management + domestic strategic shareholders
+- **Because it is unlisted, the precise shareholding composition is undisclosed**; in the 2024-2025  control-struggle reports, the confrontational structure between the founder and the current management surfaced
 
-## 2. History and important chronology
+## 2. History / key timeline
 
-| Month | Event |
+| Year/month | Event |
 |---|---|
-| **2014-01-09** | **Bit Flyer Co., Ltd. established** (founded by Yuzo Kano) |
-| 2014-04 | bitFlyer exchange service started |
-| 2014-09〜2017 | Series A~C Funding |
-| 2014-12 | Mt.Gox rapidly expanded its domestic share during the industry restructuring period after bankruptcy |
-| **2017-04** | **Enforcement of revised Fund Settlement Act** (Introduction of registration system for crypto asset exchange business) |
-| **2017-09** | **Acquired by Kanto Local Finance Bureau 第 00003 号** (among the first group 11 社, the oldest in the industry in order of registration number) |
-| 2017-11 | bitFlyer USA begins operations (US subsidiary) |
-| 2018-01 | bitFlyer EUROPE starts operations (Luxembourg EU base) |
-| **2018-06** | **Financial Services Agency Business Improvement Order** ([[exchanges/jp-exchange-coincheck|coincheck]] Internal control system deficiencies including industry-wide inspection after NEM leak incident and delay in responding to JVCEA self-regulations) |
-| 2018-06〜 | Temporary suspension of new account opening → KYC/AML system restructuring |
-| 2018-10 | Certified by JVCEA (Japan Crypto Asset Exchange Association) Certified Fund Settlement Business Association |
-| 2018-07 | Resuming new account opening |
-| 2019 | **Conversion into a holding company** (establishment of bitFlyer Holdings, group reorganization) |
-| 2019-04 | Yuzo Kano retires as CEO, succeeds Keio Hirako as CEO (report based) |
-| 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] provides miyabi (unique private chain) B2B |
-| 2022 | bitFlyer EUROPE is registered as a French AMF PSAN (Crypto Asset Service Provider) |
-| **2024** | **IPO consideration report** (TSE Growth listing assumption, multiple media) |
-| **2024〜2025** | **Report on the battle for management rights between the founder and current management** (Yuzo Kano expected to return/Conflict at shareholder meeting) |
+| **2014-01-09** | **株式会社ビットフライヤー established** (founded by Yuzo Kano) |
+| 2014-04 | bitFlyer exchange service launched |
+| 2014-09〜2017 | Series A–C fundraising |
+| 2014-12 | Domestic share expanded rapidly during the industry reorganization period after the Mt.Gox collapse |
+| **2017-04** | **Amended Payment Services Act enforced** (introduction of a registration system for crypto-asset exchange business) |
+| **2017-09** | **Obtained Director-General of the Kanto Local Finance Bureau 第 00003 号** (one of the first cohort of 11 社; by registration-number order, among the most senior in the industry) |
+| 2017-11 | bitFlyer USA started operations (US subsidiary) |
+| 2018-01 | bitFlyer EUROPE started operations (Luxembourg EU base) |
+| **2018-06** | **FSA business improvement order** (the industry-wide inspection after the [[exchanges/jp-exchange-coincheck|coincheck]] NEM outflow incident, internal-control deficiencies including delays in JVCEA self-regulation response) |
+| 2018-06〜 | New-account opening temporarily suspended → KYC / AML system rebuilt |
+| 2018-10 | Certified by JVCEA (Japan Virtual and Crypto assets Exchange Association), a certified payment-services-operator association |
+| 2018-07 | New-account opening resumed |
+| 2019 | **Holding-company conversion** (establishment of bitFlyer Holdings, group reorganization) |
+| 2019-04 | Yuzo Kano stepped down as CEO, successor Yoshio Hirako took office as CEO (based on reports) |
+| 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] provides miyabi (its own private chain) on a B2B basis |
+| 2022 | bitFlyer EUROPE obtained French AMF PSAN (crypto-asset service provider) registration |
+| **2024** | **IPO consideration reports** (TSE Growth listing assumed, multiple media) |
+| **2024〜2025** | **Reports of a control struggle between the founder and current management** (observations of Yuzo Kano's return / shareholder-meeting confrontation) |
 
 ## 3. Business segment map
 
-| Segment | Main Operator | Features |
+| Segment | Main operator | Characteristics |
 |---|---|---|
-| Domestic exchange | bitFlyer, Inc. | BTC spot focus, Lightning board trading/futures (CFD) |
-| Americas | bitFlyer USA, Inc. | Holds MTL (money transmitter license) in multiple U.S. states |
-| EU | bitFlyer EUROPE S.A. | Based in Luxembourg, French AMF PSAN registered (2022), MiCA compatible |
-| B2B Blockchain | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] | miyabi (unique private chain) / Consulting |
+| Domestic exchange | bitFlyer, Inc. | Centered on BTC spot, Lightning order-book trading / futures (CFD) |
+| The Americas | bitFlyer USA, Inc. | Holds MTL (money transmitter license) in multiple US states |
+| EU | bitFlyer EUROPE S.A. | Luxembourg base, French AMF PSAN registration (2022), MiCA compliance |
+| B2B blockchain | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] | miyabi (its own private chain) / consulting |
 | Derivatives | bitFlyer Lightning | Domestic BTC futures / FX (Lightning FX) |
-| Staking/Peripherals | (Limited) | Derivative products such as ETH will be developed more carefully than other companies |
+| Staking / adjacent | (limited) | Derivative products such as ETH are deployed cautiously compared to peers |
 
-### Core Strategy
-- **"Global exchange originating from Japan"**: One of the oldest in Japan + multiple bases with US/EU subsidiaries
-- **BTC spot concentration**: Unlike altcoins that are all over the place ([[exchanges/jp-exchange-coincheck|coincheck]], etc.), we aim to be No. 1  in terms of BTC trading volume/liquidity.
-- **Focus on compliance and governance**: 2018 After business improvement order, strengthened KYC/AML system, JVCEA Type 1
-- **IPO Preparation** (2024〜): TSE Growth reports on anticipated listing, one of the first major IPO candidates in the crypto asset industry
+### Core strategy
+- **"A global exchange originating in Japan"**: one of the most senior in the country + multi-base deployment via US / EU subsidiaries
+- **BTC spot concentration**: unlike the altcoin-profusion type ([[exchanges/jp-exchange-coincheck|coincheck]], etc.), it aims for a No.1  position in BTC trading volume / liquidity
+- **Emphasis on compliance / governance**: after the 2018  business improvement order, it strengthened its KYC / AML system; a JVCEA Type 1  operator
+- **IPO preparation** (2024〜): reports assuming a TSE Growth listing, one of the first major IPO candidates in the crypto-asset industry
 
-### Competitive relationship
+### Competitive relationships
 
-| Competition | Relationship |
+| Competitor | Relationship |
 |---|---|
-| [[exchanges/jp-exchange-bitbank|bitbank]] | BTC spot trading volume battle for top spot in Japan |
-| [[exchanges/jp-exchange-coincheck|coincheck]] | Contrasting in the number of altcoins handled and users, under the [[megabanks/ndfg]] group |
-| [[payment-firms/gmo-coin]] | GMO Internet system, strong in derivatives |
-| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]] type, institutional investors |
-| [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] | Opposite position of Rakuten Economic Zone integration |
-| Overseas companies such as Binance Japan / OKJ | 2023〜2024  Intensifying competition with overseas exchanges that have become domestic corporations |
+| [[exchanges/jp-exchange-bitbank|bitbank]] | Contest for first place in domestic BTC spot trading volume |
+| [[exchanges/jp-exchange-coincheck|coincheck]] | Contrasting in number of altcoins handled / number of users, under the [[megabanks/ndfg]] group |
+| [[payment-firms/gmo-coin]] | GMO Internet-affiliated, strong in derivatives |
+| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]]-affiliated, leaning toward institutional investors |
+| [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] | A position at the opposite pole from Rakuten-economic-zone integration |
+| Binance Japan / OKJ and other overseas-affiliated | Intensifying competition with 2023〜2024  overseas exchanges' domestic incorporation |
 
 ### International expansion
-- **United States (bitFlyer USA)**: Obtained MTL in multiple states, entered the market independently without Japanese banks or major financial affiliates
-- **EU (bitFlyer EUROPE / Luxembourg)**: 2018  opened, 2022  France PSAN, MiCA fully applicable (2024  enforcement) supported
-- **Asia/China**: No official deployment
+- **US (bitFlyer USA)**: obtained MTL in multiple states, a standalone entry without a Japanese-bank-affiliated / major-financial-group backing
+- **EU (bitFlyer EUROPE / Luxembourg)**: opened 2018 , 2022  French PSAN, compliance with MiCA full application (enforced 2024 )
+- **Asia / China**: no official deployment
 
-### B2B Blockchain
-- [[systems/bitflyer-blockchain|bitFlyer Blockchain]] provided by miyabi
-- Unique private chain that claims BFT-based consensus and high TPS
-- B2B project for financial institutions / local governments / NFT (advertisement exposure is limited)
+### B2B blockchain
+- [[systems/bitflyer-blockchain|bitFlyer Blockchain]] provides miyabi
+- Its own private chain touting BFT-type consensus / high TPS
+- B2B projects for financial institutions / local governments / NFTs (advertising exposure is limited)
 
-## 5. Regulations and Policies
+## 5. Regulation / policy
 
-- **Domestic Supervision**: Financial Services Agency / Kanto Local Finance Bureau
-- **Crypto asset exchange business registration**: Kanto Local Finance Bureau 第 00003 号 (first group, 2017-09)
-- **Self-regulation**: JVCEA (Japan Crypto Asset Exchange Association) Type 1 (Class 1) member
-- **US Regulation**: FinCEN MSB + Multi-state MTL (NYDFS BitLicense not obtained)
-- **EU regulations**: France AMF PSAN (2022), MiCA fully applied (2024-12～)
-- **Business improvement order history**: 2018-06 (Industry-wide inspection after NEM leak, internal control system deficiency)
+- **Domestic supervisory authority**: FSA / Kanto Local Finance Bureau
+- **Crypto-asset exchange business registration**: Director-General of the Kanto Local Finance Bureau 第 00003 号 (first cohort, 2017-09)
+- **Self-regulation**: JVCEA (Japan Virtual and Crypto assets Exchange Association) Type 1 (Type I) member
+- **US regulation**: FinCEN MSB + multiple-state MTL (NYDFS BitLicense not obtained)
+- **EU regulation**: French AMF PSAN (2022), MiCA full application (2024-12〜)
+- **Business-improvement-order history**: 2018-06 (industry-wide inspection after the NEM outflow, internal-control deficiencies)
 
 ### Industry position
-- **JVCEA Type 1** (Type 1) = Crypto asset exchange business (spot/derivatives)
-- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]] と並ぶ主要 4 社）
+- **JVCEA Type 1** (Type I) = crypto-asset exchange business (spot / derivatives)
+- Actively involved in formulating industry self-regulation (a major 4 社 alongside [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]])
 
 ## Related
 
@@ -129,13 +129,13 @@ bitFlyer Holdings, Inc. (holding, unlisted)
 
 ## Sources
 
-- **Wikipedia: BitFlyer Co., Ltd.** (https://ja.wikipedia.org/wiki/株式会社ビットフライヤー）
-- **Wikipedia: bitFlyer**（https://en.wikipedia.org/wiki/BitFlyer）
-- Kanto Local Finance Bureau Crypto Asset Exchange Business Registration List
-- JVCEA member list (https://jvcea.or.jp/about/list/）
-- Financial Services Agency Business Improvement Order (2018-06-22 published)
-- Various IPO review reports (2024~, Nikkei/Reuters/Bloomberg)
+- **Wikipedia: 株式会社ビットフライヤー** (https://ja.wikipedia.org/wiki/株式会社ビットフライヤー)
+- **Wikipedia: bitFlyer** (https://en.wikipedia.org/wiki/BitFlyer)
+- Kanto Local Finance Bureau crypto-asset exchange operator registration list
+- JVCEA member roster (https://jvcea.or.jp/about/list/)
+- FSA business improvement order (published 2018-06-22)
+- Various IPO consideration reports (2024〜, Nikkei / Reuters / Bloomberg affiliated)
 
 ---
 
-> [!info] Check status
+> [!info] Verification status

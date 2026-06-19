@@ -1,237 +1,238 @@
 ---
 source: structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook
-source_hash: eff0c20e6c53284c
+source_hash: 39d5fbabe9356eed
 lang: zh
 status: machine
 fidelity: ok
 title: "JCR / R&I 日本证券化评级方法操作手册"
-translated_at: 2026-06-01T04:15:40.151Z
+translated_at: 2026-06-19T13:13:22.635Z
 ---
+
 # JCR / R&I 日本证券化评级方法操作手册
 
 ## TL;DR
 
-JCR(株式会社日本格付研究所)和 R&I(格付投資情報センター)是 FSA 指定的两家国内信用评级机构，主导日本 structured finance。它们对 ABS / RMBS / CMBS / consumer / card / lease ratings 的**操作方法论**遵循四步手册:(1) 使用从日本资产池数据派生的 vintage curves 计算**特定资产类别的 stressed default rate(SDR)**，并乘以 rating-category stress factors(AAA = 4–6× expected default，AA = 3–4×，A = 2–3×，BBB = 1.5–2×)；(2) **cash-flow modeling**，将 SDR 输入交易特定的 waterfall、prepayment、recovery 和 interest-rate scenarios，验证 senior tranche 是否能承受压力；(3) **surveillance**，通过月度 servicer reports、季度 performance reviews 和 rating-action triggers 监控(通常当 SDR-realised vs SDR-modeled 偏离超过阈值时下调 1-2  notches)；(4) **downgrade triggers** 内嵌于评级决定中(例如 originator credit deterioration、pool concentration breach、servicer event of default)。相较全球评级机构(S&P / Moody's / Fitch Japan)，JCR / R&I 使用**以日本为锚的违约数据**(不做多司法辖区 pooling)、**更低的 base-case default frequency**(反映日本消费者信用历史行为)，并且**没有 country-ceiling cap**(因为它们在国内尺度上将日本 sovereign 评为 AAA)；结果是 senior layer 出现 1–3  notch 的 split-rating gaps，并记录于 [[structured-finance/fitch-moody-sp-japan-criteria|global vs JCR / R&I criteria]]。本条目将操作机制——SDR calculation、cash-flow modeling、surveillance frequency、downgrade triggers——编码到 analyst playbook 层级，而非抽象方法论文件层级。
+JCR（株式会社日本格付研究所）和 R&I（格付投资情报中心）是主导日本结构性金融的两家 FSA 指定境内信用评级机构。它们针对 ABS / RMBS / CMBS / 消费 / 信用卡 / 租赁评级的**操作方法**遵循一个四步手册：(1) 使用源自日本资产池数据的年份曲线，乘以评级类别压力系数，进行**按资产类别的压力违约率 (SDR) 计算**（AAA = 预期违约的 4–6×，AA = 3–4×，A = 2–3×，BBB = 1.5–2×）；(2) 将 SDR 通过交易特定的瀑布、提前还款、回收和利率情景运行，以验证优先批次能够在压力下存续的**现金流建模**；(3) 伴随月度服务商报告、季度业绩审查和评级行动触发器（典型情况下，若 SDR 实现值对 SDR 模型值的漂移超过阈值，则下调 1-2 档）的**监察**；(4) 嵌入评级决策中的**下调触发器**（例如，发起人信用恶化、资产池集中度违反、服务商违约事件）。与全球机构（S&P / Moody's / Fitch Japan）相比，JCR / R&I 使用**以日本为锚的违约数据**（无多法域池化）、**更低的基准情形违约频率**（反映日本历史上的消费者信用行为），以及**无国家上限封顶**（因为它们在境内标度上将日本主权评为 AAA）；其结果是优先层出现 [[structured-finance/fitch-moody-sp-japan-criteria|global vs JCR / R&I criteria]] 中记录的 1–3 档分裂评级缺口。本条目在分析师手册而非抽象方法文件的层面，将操作机制 — SDR 计算、现金流建模、监察频率、下调触发器 — 予以成文化。
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[structured-finance/INDEX|structured-finance index]] 下，作为 **operating-playbook methodology** 节点，补充基础性的 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology entry]] 和比较性的 [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]。请结合资产类别操作页面阅读:[[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]]、[[structured-finance/japan-consumer-loan-abs-structure|Japan consumer-loan ABS structure]]、[[structured-finance/japan-credit-card-receivable-abs|Japan credit-card receivable ABS]]、[[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS]]、[[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]]、[[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]。监管锚点:底层法律实体层见 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]。
+本条目位于 [[structured-finance/INDEX|structured-finance index]] 之下，作为**操作手册方法**节点，补充基础性的 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology entry]] 和比较性的 [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]。请与各资产类别操作页面对照阅读：[[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]]、[[structured-finance/japan-consumer-loan-abs-structure|Japan consumer-loan ABS structure]]、[[structured-finance/japan-credit-card-receivable-abs|Japan credit-card receivable ABS]]、[[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS]]、[[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]]、[[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]。监管锚点：底层法人层参见 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]。
 
-## 1. JCR and R&I — 机构身份
+## 1. JCR 与 R&I — 机构身份
 
-| 项目 | JCR | R&I |
+| Item | JCR | R&I |
 |---|---|---|
-| 日文名称 | 株式会社日本格付研究所 | 株式会社格付投資情報センター |
-| 成立 | 1985 | 1998 (合并前身) |
-| 所有权 | 独立，上市母公司 | 野村附属 |
-| FSA 指定 | 根据 FIEA Article 66-27 | 根据 FIEA Article 66-27 |
-| 国内 sovereign rating | AAA | AA+ |
-| Structured-finance staff(约) | 60–80  名 analysts | 50–70  名 analysts |
-| 年度 SF rating actions(约) | 200–400 (new + surveillance) | 150–300 |
-| 办公室 | Tokyo(HQ) | Tokyo(HQ) |
+| Japanese name | 株式会社日本格付研究所 | 株式会社格付投資情報センター |
+| Established | 1985 | 1998 (合并前身) |
+| Ownership | 独立、上市母公司 | 野村系 |
+| FSA designation | 依据 FIEA 第 66-27 条 | 依据 FIEA 第 66-27 条 |
+| Domestic sovereign rating | AAA | AA+ |
+| Structured-finance staff (approx) | 60–80 名分析师 | 50–70 名分析师 |
+| Annual SF rating actions (approx) | 200–400 (新增 + 监察) | 150–300 |
+| Office | 东京 (总部) | 东京 (总部) |
 
-两者均发布 structured-finance products 的详细 criteria papers 和 surveillance reports；两者均受 FSA 监管，并受 FIEA 下的行为规则约束。
+两家机构均针对结构性金融产品发布详细的标准文件和监察报告；两家机构均受 FSA 监管，并在 FIEA 下受行为规则约束。
 
-## 2. 资产类别方法论架构
+## 2. 资产类别方法架构
 
-JCR 和 R&I 为每个资产类别维护独立的 criteria papers:
+JCR 和 R&I 为每个资产类别维护独立的标准文件：
 
-| 资产类别 | 方法论特征 | 典型 surveillance cadence |
+| Asset class | Methodology features | Typical surveillance cadence |
 |---|---|---|
-| **Auto-loan ABS** | 按 new-car / used-car 切分的 vintage curve；集中度限制；backup-servicer 要求 | 月度 servicer report；季度 rating review；年度 full review |
-| **Consumer-loan ABS** | 按 APR / loan-size bucket 的 vintage curve；利息限制法 regulatory shock scenario；early-amortization trigger calibration | 月度 servicer report；季度 rating review；半年度 full review |
-| **Credit-card receivable ABS** | Master-trust pool dynamics；期间延长 conditional scenario；cross-series contagion stress | 月度 servicer report；季度 rating review |
-| **Equipment lease ABS** | True-lease vs finance-lease 切分；equipment-type residual curves；按 industry / equipment / lessee 的集中度 | 月度 servicer report；季度 rating review |
-| **RMBS** | LTV / DTI 分层；地理集中度；prepayment vintage curves；foreclosure-timing assumption | 月度 servicer report；季度 rating review；半年度 full review |
-| **CMBS** | Property-level NCF stress；cap-rate stress；refinancing risk；special-servicer capability | 月度 servicer report；季度 rating review；年度 full review |
-| **NPL securitization** | 按 NPL vintage / asset type 的 recovery-rate；servicer workout track record；legal-clearance risk | 季度 servicer report；半年度 rating review |
-| **Project-finance** | Project-cash-flow stress；counterparty credit；completion risk；operating-cost stress | 年度 rating review(project bonds)；里程碑事件触发 rating actions |
+| **Auto-loan ABS** | 按新车 / 二手车划分的年份曲线；集中度限额；备份服务商要求 | 月度服务商报告；季度评级审查；年度全面审查 |
+| **Consumer-loan ABS** | 按 APR / 贷款规模分桶的年份曲线；利息制限法监管冲击情景；早期摊还触发器校准 | 月度服务商报告；季度评级审查；半年度全面审查 |
+| **Credit-card receivable ABS** | 主信托池动态；期间延长条件情景；跨系列传染压力 | 月度服务商报告；季度评级审查 |
+| **Equipment lease ABS** | 真正租赁对融资租赁划分；按设备类型的残值曲线；按行业 / 设备 / 承租人的集中度 | 月度服务商报告；季度评级审查 |
+| **RMBS** | LTV / DTI 分层；地理集中度；提前还款年份曲线；止赎时点假设 | 月度服务商报告；季度评级审查；半年度全面审查 |
+| **CMBS** | 物业层面的 NCF 压力；资本化率压力；再融资风险；特别服务商能力 | 月度服务商报告；季度评级审查；年度全面审查 |
+| **NPL securitization** | 按 NPL 年份 / 资产类型的回收率；服务商处置历史记录；法律清结风险 | 季度服务商报告；半年度评级审查 |
+| **Project-finance** | 项目现金流压力；交易对手信用；完工风险；运营成本压力 | 年度评级审查 (项目债券)；里程碑事件上的评级行动 |
 
-Criteria papers 以日文和英文发布在各机构网站上；会定期更新(重大方法论修订约每 3–7  年一次)。
+标准文件以日文和英文发布于各机构网站；它们定期更新（重大方法修订每 3–7 年一次）。
 
-## 3. Stressed default rate(SDR) 计算
+## 3. 压力违约率 (SDR) 计算
 
-核心操作工具是 **stressed default rate**——与目标 senior-tranche rating 相一致的压力情景下的预期资产池违约频率。
+核心操作工具是**压力违约率** — 在与目标优先批次评级相一致的压力情景下的预期资产池违约频率。
 
-### 3a. Base-case default frequency
+### 3a. 基准情形违约频率
 
-| 资产类别 | 典型 base-case lifetime default frequency | 来源 |
+| Asset class | Typical base-case lifetime default frequency | Source |
 |---|---|---|
-| Auto loan(new-car captive) | 1.5–3.0% | Originator historical pool data；agency cross-issuer database |
-| Auto loan(used-car / multi-brand) | 3.0–5.5% | Same |
-| Consumer loan(unsecured) | 8–15% | Originator + agency database |
-| Credit-card receivable | 4–8% | Originator + agency database |
-| Equipment lease(mixed pool) | 2.5–5.0% | Same |
-| Residential mortgage(private RMBS) | 1.0–2.5% | Originator + agency database |
-| Commercial mortgage(CMBS) | 3.0–8.0% | Property-specific + agency historical data |
+| Auto loan (new-car captive) | 1.5–3.0% | 发起人历史资产池数据；机构跨发行人数据库 |
+| Auto loan (used-car / multi-brand) | 3.0–5.5% | 同上 |
+| Consumer loan (unsecured) | 8–15% | 发起人 + 机构数据库 |
+| Credit-card receivable | 4–8% | 发起人 + 机构数据库 |
+| Equipment lease (mixed pool) | 2.5–5.0% | 同上 |
+| Residential mortgage (private RMBS) | 1.0–2.5% | 发起人 + 机构数据库 |
+| Commercial mortgage (CMBS) | 3.0–8.0% | 物业特定 + 机构历史数据 |
 
-### 3b. 按评级类别的压力倍数
+### 3b. 按评级类别的压力乘数
 
-JCR / R&I 对 base case 应用特定评级类别的 stress multipliers:
+JCR / R&I 对基准情形施加评级类别特定的压力乘数：
 
-| 评级 | Stress multiplier(典型) | SDR 的 cumulative default frequency |
+| Rating | Stress multiplier (typical) | Cumulative default frequency for SDR |
 |---|---|---|
-| AAA | 4–6× base | 最高压力——能承受 recession-style scenario 加 tail event |
-| AA | 3–4× base | Recession scenario |
-| A | 2–3× base | Mild recession |
-| BBB | 1.5–2× base | Modest stress |
-| BB | 1.0–1.5× base | Base + small stress |
+| AAA | 4–6× base | 最高压力 — 在衰退式情景加尾部事件下存续 |
+| AA | 3–4× base | 衰退情景 |
+| A | 2–3× base | 轻度衰退 |
+| BBB | 1.5–2× base | 适度压力 |
+| BB | 1.0–1.5× base | 基准 + 小幅压力 |
 
-Stress multipliers 反映**评级定义**——AAA 意味着“能承受极端压力”，评级机构校准 stress multiplier 以在各资产类别之间实现一致性。
+压力乘数反映**评级定义** — AAA 意味着「在极端压力下存续」，机构校准压力乘数以在各资产类别之间实现这种一致性。
 
-**示例计算**(auto-loan ABS):
-- Base-case lifetime default: 2.5%
-- AAA stress multiplier: 5×
-- SDR(AAA): 12.5%
-- Recovery rate assumption: 40%
-- SDR × (1 – recovery) = 12.5% × 60% = 7.5% net loss
-- AAA 所需 subordination + reserve + OC: 7.5% + cushion = ~8.5%
-- 交易的 subordination structure 必须至少提供 8.5% 才能获得 AAA
+**计算示例**（汽车贷款 ABS）：
+- 基准情形终生违约：2.5%
+- AAA 压力乘数：5×
+- SDR (AAA)：12.5%
+- 回收率假设：40%
+- SDR × (1 – 回收率) = 12.5% × 60% = 7.5% 净损失
+- AAA 所需的次级 + 准备金 + OC：7.5% + 缓冲 = ~8.5%
+- 交易的次级结构必须至少提供 8.5% 才能达到 AAA
 
-### 3c. 资产池特征调整
+### 3c. 针对资产池特定特征的调整
 
-SDR 会针对以下因素调整:
-- Pool concentration(single obligor, geographic, vintage)——提高 SDR
-- Originator track record(长历史 + 低历史方差)——降低 SDR
-- Servicer capability and backup arrangements——若薄弱则上调 SDR
-- Servicer-advance practices——影响 cash-flow modeling，不直接影响 SDR
-- Trigger calibration——校准良好的 triggers 获得有利 SDR 处理
+SDR 针对以下因素进行调整：
+- 资产池集中度（单一债务人、地理、年份）— 增加 SDR
+- 发起人历史记录（长历史 + 低历史方差）— 降低 SDR
+- 服务商能力及备份安排 — 若薄弱则向上修正 SDR
+- 服务商垫付实务 — 影响现金流建模，而非直接影响 SDR
+- 触发器校准 — 校准良好的触发器获得有利的 SDR 处理
 
-## 4. Cash-flow modeling
+## 4. 现金流建模
 
-SDR 输入 **cash-flow model**，用以在压力下模拟 waterfall:
+SDR 被投入一个**现金流模型**，该模型模拟瀑布在压力下的运行：
 
 | Modeling input | Description |
 |---|---|
-| Pool collection schedule | 逐期预期 principal + interest collections |
-| Default timing curve | Defaults 发生时间(通常 S-curve 在第 12–36 月达到峰值) |
-| Recovery timing | Recoveries 发生时间(通常在 default 后第 6–18  月) |
-| Prepayment curve | 逐期 voluntary prepayment |
-| Interest-rate scenarios | 资产池或债券任一侧的 floating-rate exposure |
-| Servicer-advance behavior | 按 servicing agreement 建模 |
-| Trigger activation | triggers 触发时 waterfall 切换行为 |
-| Tranche payment | 按交易 waterfall logic 支付 |
+| Pool collection schedule | 逐期的本金 + 利息预期回收 |
+| Default timing curve | 违约何时发生（典型为在第 12–36个月达到峰值的 S 曲线） |
+| Recovery timing | 回收何时发生（典型为违约后 6–18 个月） |
+| Prepayment curve | 逐期的自愿提前还款 |
+| Interest-rate scenarios | 资产池或债券任一方的浮动利率敞口 |
+| Servicer-advance behavior | 按服务协议建模 |
+| Trigger activation | 当触发器命中时，瀑布切换行为 |
+| Tranche payment | 按交易的瀑布逻辑 |
 
-模型输出:
-- SDR 情景下 senior tranche full repayment probability
-- Senior tranche payment-shortfall scenarios
-- Mezz tranche payment-shortfall scenarios
-- Subordination utilization scenarios
-- Reserve utilization scenarios
+模型输出：
+- SDR 情景下优先批次完全偿付概率
+- 优先批次偿付不足情景
+- 夹层批次偿付不足情景
+- 次级利用情景
+- 准备金利用情景
 
-若 senior tranche 要获得 AAA，它必须在 SDR 加压力叠加情景下显示**零 principal shortfall**和**interest-shortfall coverage**。
+为使优先批次获得 AAA，它必须在 SDR 加压力叠加之下显示**零本金不足**和**利息不足覆盖**。
 
-## 5. Surveillance — 持续监控层
+## 5. 监察 — 持续监控层
 
-评级授予后，JCR / R&I 进行**持续 surveillance**:
+一旦评级被赋予，JCR / R&I 即进行**持续监察**：
 
-### 5a. Servicer-report review(月度)
+### 5a. 服务商报告审查（月度）
 
-每月，servicer 向 trustee + rating agencies 提交报告:
-- Pool balance(本月 vs 上月)
-- 按账龄 bucket 的 delinquencies(30 / 60 / 90 / 120+ day)
-- Charge-offs(gross + recoveries)
-- Prepayments
-- Pool yield(weighted-average APR)
-- Reserve account balance
-- OC level
-- Cumulative net loss to date
+每月，服务商向受托人 + 评级机构提交一份报告：
+- 资产池余额（当月对上月）
+- 按账龄分桶的逾期（30 / 60 / 90 / 120+ 天）
+- 核销（总额 + 回收）
+- 提前还款
+- 资产池收益率（加权平均 APR）
+- 准备金账户余额
+- OC 水平
+- 迄今的累积净损失
 
-评级机构将实际表现与模型表现比较。
+机构将实际表现与建模表现进行比较。
 
-### 5b. Quarterly rating review
+### 5b. 季度评级审查
 
-每季度(正式频率；压力交易有时更频繁):
-- Performance trend analysis
-- 与同一资产类别其他交易比较
-- Originator credit review
-- Servicer operational review
-- Trigger status check
-- Rating-action consideration
+每季度（正式而言；对承压交易有时更频繁）：
+- 业绩趋势分析
+- 与同一资产类别其他交易的比较
+- 发起人信用审查
+- 服务商运营审查
+- 触发器状态检查
+- 评级行动考量
 
-### 5c. 年度 / 半年度 full review
+### 5c. 年度 / 半年度全面审查
 
-每 6–12  个月:
-- 使用更新后的 performance data 完整重跑 cash-flow model
-- 若 base-case 已漂移，则更新 SDR calculation
-- Pool composition changes
-- Originator strategic developments
-- Macro-economic update
-- Rating-action recommendation
+每 6–12 个月：
+- 使用更新的业绩数据完全重新运行现金流模型
+- 若基准情形已漂移则更新 SDR 计算
+- 资产池构成变化
+- 发起人战略发展
+- 宏观经济更新
+- 评级行动建议
 
-### 5d. Event-driven reviews
+### 5d. 事件驱动型审查
 
-由特定事件触发:
-- Originator bankruptcy / rating downgrade
-- Servicer event of default
-- Trigger activation
-- 影响资产类别的 regulatory change
-- Macro shock(例如 COVID, GFC)
+由特定事件触发：
+- 发起人破产 / 评级下调
+- 服务商违约事件
+- 触发器激活
+- 影响资产类别的监管变更
+- 宏观冲击（例如 COVID、GFC）
 
-## 6. Downgrade triggers — 评级何时变化
+## 6. 下调触发器 — 评级何时变化
 
 | Trigger | Typical downgrade magnitude |
 |---|---|
-| Originator rating downgraded below required threshold(e.g., BBB) | Senior 1 notch；backup servicer activation 可能调节 |
-| Servicer event of default → backup servicer activated | 若 backup operational capacity 不确定，则 1–2 notches |
-| Cumulative net loss > SDR × early-warning threshold | 初始 1 notch；若模式持续则进一步下调 |
-| 90+ delinquency > 1.5× modeled stress | 1–2 notches |
-| Reserve drawn below floor + not replenished within X months | 1 notch |
-| Trigger activated → early-amortization | 初始 1 notch(承认机制发挥作用)；若 pool-level deterioration 严重则可能更多 |
-| Pool concentration breach(lessee, geographic) | 1 notch |
-| Macroeconomic / regulatory shock | 若持续则 multi-notch |
-| Methodology revision | 可变；对受影响范围可能显著 |
+| Originator rating downgraded below required threshold (e.g., BBB) | 优先 1 档；备份服务商激活可能加以调节 |
+| Servicer event of default → backup servicer activated | 若备份运营能力不确定则 1–2 档 |
+| Cumulative net loss > SDR × early-warning threshold | 初始 1 档；若模式持续则更多 |
+| 90+ delinquency > 1.5× modeled stress | 1–2 档 |
+| Reserve drawn below floor + not replenished within X months | 1 档 |
+| Trigger activated → early-amortization | 初始 1 档（认可机制已生效）；若资产池层面恶化严重则可能更多 |
+| Pool concentration breach (lessee, geographic) | 1 档 |
+| Macroeconomic / regulatory shock | 若持续则多档 |
+| Methodology revision | 可变；对受影响的全集可能影响重大 |
 
-Downgrades 并非自动发生——评级机构 analysts 在 surveillance review 中应用判断。**模式比任何单一数据点更重要**。
+下调并非自动 — 评级机构分析师在监察审查中运用判断。**模式比任何单一数据点更重要**。
 
-## 7. 与全球评级机构(S&P / Moody's / Fitch Japan)的比较
+## 7. 与全球机构的比较（S&P / Moody's / Fitch Japan）
 
-| 维度 | JCR / R&I | S&P / Moody's / Fitch Japan |
+| Dimension | JCR / R&I | S&P / Moody's / Fitch Japan |
 |---|---|---|
-| Default data source | Japan-anchored | Multi-jurisdiction pooled |
-| Base-case default frequency | 较低(反映日本历史低违约) | 较高(汇集全球数据，包括较高违约市场) |
-| Stress multipliers | 按日本压力情景校准 | 按全球压力校准 |
-| Country-ceiling cap | 无(日本在国内尺度被评为 AAA / AA+) | 有——上限为日本 sovereign(S&P: A+; Moody's: A1; Fitch: A) |
-| Recovery assumptions | 日本特定(住宅通常较高) | 对部分资产池更保守(rural mortgages) |
-| Methodology update cadence | 定期(3–7  年) | 定期(3–5  年) |
-| Rating consistency across asset classes | 面向 Japan-domestic-scale 设计 | 面向 global-scale 设计 |
-| Surveillance frequency | 月度 servicer + 季度 review | 类似 |
-| Investor base recognition | 日本机构占主导 | 全球机构 |
-| Repo eligibility / bank capital | 获日本监管目的认可 | 为全球 bank capital、ECB repo 等认可 |
+| Default data source | 以日本为锚 | 多法域池化 |
+| Base-case default frequency | 更低（反映日本历史低违约） | 更高（包括高违约市场的池化全球数据） |
+| Stress multipliers | 校准至日本压力情景 | 校准至全球压力 |
+| Country-ceiling cap | 无（日本在境内标度上评为 AAA / AA+） | 有 — 以日本主权封顶（S&P: A+；Moody's: A1；Fitch: A） |
+| Recovery assumptions | 日本特定（住宅类往往更高） | 对某些资产池更保守（农村住房抵押贷款） |
+| Methodology update cadence | 定期（3–7 年） | 定期（3–5 年） |
+| Rating consistency across asset classes | 为日本境内标度设计 | 为全球标度设计 |
+| Surveillance frequency | 月度服务商 + 季度审查 | 类似 |
+| Investor base recognition | 日本机构投资者主导 | 全球机构投资者 |
+| Repo eligibility / bank capital | 为日本监管目的被认可 | 在全球范围内被认可用于银行资本、ECB 回购等 |
 
-**结构性 split-rating 结果**:同一资产池下，日本国内 auto-loan ABS senior tranche 通常以 7% subordination 从 JCR / R&I 获得 AAA，而以 8.5–10% subordination 从 S&P / Moody's 获得 AA / AA+。1–2  notch gap 是机械性的，反映方法论校准；这不是 JCR / R&I 宽松，而是不同的方法论(Japan-anchored vs global-pooled)。
+**结构性的分裂评级结果**：一笔日本境内汽车贷款 ABS 的优先批次，通常在 7% 次级下从 JCR / R&I 获得 AAA，而在 8.5–10% 次级下从 S&P / Moody's 获得 AA / AA+ — 对同一资产池而言。这 1–2 档的缺口是机械性的，反映方法校准；它不是 JCR / R&I 的宽松，而是一种不同的（以日本为锚对全球池化的）方法。
 
 ## 8. 评级流程 — 操作时间线
 
-| 步骤 | 典型时长 | 描述 |
+| Step | Typical duration | Description |
 |---|---|---|
-| 1. Engagement / mandate | 1 week | Issuer / arranger 聘请评级机构；机构确认能力 |
-| 2. Initial structuring discussion | 2–4 weeks | 评级机构就结构、subordination、triggers 提供反馈 |
-| 3. Diligence + pool data review | 4–6 weeks | 提交 pool data；评级机构分析 |
-| 4. Cash-flow modeling | 2–4 weeks | 评级机构运行模型；与 arranger 就 subordination 迭代 |
-| 5. Rating committee | 1–2 weeks | 内部 committee 批准评级 |
-| 6. Rating release | 1–2 weeks pre-pricing | Pre-sale / pre-pricing rating release |
-| 7. Post-issuance surveillance | Ongoing | 月度 + 季度 + 年度 reviews |
+| 1. 委任 / 授权 | 1 周 | 发行人 / 安排人委任机构；机构确认承做能力 |
+| 2. 初步结构讨论 | 2–4 周 | 机构就结构、次级、触发器提供反馈 |
+| 3. 尽职调查 + 资产池数据审查 | 4–6 周 | 提交资产池数据；机构进行分析 |
+| 4. 现金流建模 | 2–4 周 | 机构运行模型；就次级与安排人反复 |
+| 5. 评级委员会 | 1–2 周 | 内部委员会批准评级 |
+| 6. 评级发布 | 定价前 1–2 周 | 预售 / 预定价评级发布 |
+| 7. 发行后监察 | 持续 | 月度 + 季度 + 年度审查 |
 
-从 mandate 到 rating 的总时间通常为 8–14  周。与全球评级机构时间线相近；engagement model 不同(JCR / R&I 的发行人互动更细，全球机构东京办公室人员更少)。
+从授权到评级的总时间线：典型为 8–14 周。与全球机构的相似时间线相当；委任模式有所不同（JCR / R&I 进行更细致的发行人接洽，全球机构东京办公室人员更少）。
 
-## 9. Counterpoints
+## 9. 反论
 
-- **"JCR / R&I are too lenient"**——辩护者引用日本特定数据来证明较低 base-case defaults 合理；批评者认为只有在日本违约率上行后，方法论才会与全球趋同，形成 tail risk
-- **"Sovereign-cap mechanical exception is unfair to JCR / R&I"**——JCR / R&I 不受 country-ceiling 约束；问题在于这在方法论上是否合理，还是一种结构性优势
-- **"SDR multipliers are arbitrary"**——批评者指出 4–6× AAA multiplier 是校准所得而非经验推导；辩护者指出评级类别一致性需要校准
-- **"Surveillance is back-looking"**——月度 servicer-report review 有响应性但滞后；一些事件(originator stress)变化快于月度 review 能捕捉的速度
-- **"Methodology updates create cliff effects"**——当机构更新 SDR multipliers 或 recovery assumptions 时，多笔交易可能同时变动；这是不可避免但具有扰动性的
-- **"JCR / R&I split is genuine — choose one"**——一些发行人只聘请 JCR 或只聘请 R&I；co-rating 常见但增加成本。选择往往反映历史关系，而非方法论偏好
+- **「JCR / R&I 过于宽松」** — 辩护者援引日本特定数据来证明更低的基准情形违约的合理性；批评者主张，方法只有在日本违约率向上收敛之后才与全球收敛，从而制造尾部风险
+- **「主权封顶的机械性例外对 JCR / R&I 不公平」** — JCR / R&I 不受国家上限约束；问题在于这在方法上是否稳健，还是一种结构性优势
+- **「SDR 乘数是任意的」** — 批评者指出 4–6× 的 AAA 乘数是校准而非经验得出的；辩护者指出评级类别一致性需要校准
+- **「监察是向后看的」** — 月度服务商报告审查具有响应性但滞后；某些事件（发起人压力）移动得比月度审查所能捕捉的更快
+- **「方法更新制造悬崖效应」** — 当机构更新 SDR 乘数或回收率假设时，多笔交易可能同时移动；这不可避免但具破坏性
+- **「JCR / R&I 的分裂是真实的 — 选其一」** — 一些发行人只委任 JCR 或只委任 R&I；联合评级常见但增加成本。该选择往往反映历史关系而非方法偏好
 
-## 10. Open questions
+## 10. 未决问题
 
-- 随着日本资本市场国际化，JCR / R&I 是否会与全球评级机构的方法论趋同
-- 气候风险和人口下降情景是否会被系统性纳入 SDR calculation
-- FSA 是否会推动评级机构加强方法论披露或引入独立第三方 review
-- 新资产类别(BNPL、EV-battery-related ABS、tokenized RWA)的方法论开发是否能跟上传统资产类别的节奏
-- [[trust-banks/sumitomo-mitsui-trust|trust banks]] 作为 trustees 是否会随着其 fiduciary risk 增长而要求方法论变化(例如更细颗粒度的 surveillance frequency)
-- 若 BOJ 利率正常化压测资产池并揭示 modelling differences，JCR / R&I 相对全球评级机构的竞争地位如何
+- 随着日本资本市场国际化，JCR / R&I 是否会使方法与全球机构收敛
+- 气候风险和人口下降情景是否会被系统性地纳入 SDR 计算
+- FSA 是否会向评级机构施压以要求更严格的方法披露或独立第三方审查
+- 新资产类别（BNPL、电动汽车电池相关 ABS、代币化 RWA）是否会以与传统资产类别相似的速度获得方法开发
+- 作为受托人的 [[trust-banks/sumitomo-mitsui-trust|trust banks]] 是否会随着其受信风险增长而要求方法变更（例如更细致的监察频率）
+- 若 BOJ 利率正常化对资产池施加压力并揭示建模差异，JCR / R&I 相对于全球机构的竞争地位
 
 ## Related
 
@@ -260,5 +261,5 @@ Downgrades 并非自动发生——评级机构 analysts 在 surveillance review
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. SDR calculation framework、stress-multiplier ranges、cash-flow modelling architecture 和 surveillance frequencies 反映了 JCR / R&I 的公开方法论文档和行业观察实践。具体 stress-multiplier values 代表典型模式，并非单一来源声明；实际交易校准会变化。Downgrade-trigger thresholds 取决于具体交易，并在 offering documents 中披露。
+> [!info] 校核状態
+> confidence: **likely**. SDR 计算框架、压力乘数区间、现金流建模架构以及监察频率，反映了 JCR / R&I 的公开方法文件和业界观察到的实务。具体的压力乘数值是对典型模式的示例，而非单一来源的主张；实际交易校准各不相同。下调触发器阈值是交易特定的，并在发行文件中披露。

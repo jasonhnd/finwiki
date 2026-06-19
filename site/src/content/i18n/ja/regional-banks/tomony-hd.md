@@ -1,21 +1,22 @@
 ---
 source: regional-banks/tomony-hd
-source_hash: 9b76c572892200fc
+source_hash: 7dd3a2ee89905c4a
 lang: ja
 status: machine
 fidelity: ok
 title: "トモニホールディングス (Tomony HD)"
-translated_at: 2026-06-02T16:33:58.486Z
+translated_at: 2026-06-19T12:43:19.950Z
 ---
+
 # トモニホールディングス (Tomony HD)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。同業比較・対比の文脈は [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
-四国（徳島・香川）+ 大阪（大正銀行系）のクロス地盤で広域展開する地銀 FG。**徳島銀行 + 香川銀行 経営統合**で 2010-04-01 発足し、2017 大正銀行（旧 ホクト商事系・大阪）を救済子会社化、2020-01 に徳島銀行 + 大正銀行を合併して **[[regional-banks/tokushima-taisho-bank|徳島大正銀行]]** を誕生させた。現在の主要子会社は [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] + [[regional-banks/kagawa-bank|香川銀行]] の 2 行体制。^[extracted]
+四国 (徳島・香川) + 大阪 (大正銀行系) のクロス地盤で広域展開する地銀 FG。**徳島銀行 + 香川銀行 経営統合**で 2010-04-01 発足、2017 大正銀行 (旧 ホクト商事系・大阪) を救済子会社化、2020-01 徳島 + 大正 を合併し **[[regional-banks/tokushima-taisho-bank|徳島大正銀行]]**を誕生させた。現在の主要子会社は [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] + [[regional-banks/kagawa-bank|香川銀行]] の 2 行体制。^[extracted]
 
 ## 1. 会社概要
 
@@ -43,7 +44,7 @@ translated_at: 2026-06-02T16:33:58.486Z
 - 旧 **大正銀行**：1922 設立（大阪地盤）→ 旧 ホクト商事系 → 経営難
 - **トモニ HD**：2010-04-01 徳島銀行 + 香川銀行 共同株式移転で発足
 - **大正銀行 子会社化**：2017 救済型 M&A（大阪地盤獲得）
-- **徳島大正銀行**：2020-01 徳島銀行 + 大正銀行の合併で誕生
+- **徳島大正銀行**：2020-01 徳島銀 + 大正銀 合併で誕生
 
 ### 重要年表（抜粋）^[extracted]
 
@@ -70,45 +71,44 @@ translated_at: 2026-06-02T16:33:58.486Z
 
 ### クロス地盤戦略
 
-- **四国（徳島 + 香川）** + **大阪（旧 大正銀行店舗網）** という、他の四国地銀にない広域展開
-- 阿波おどり経済（徳島）+ うどん経済（香川）+ 関西経済圏アクセス（大正銀行系大阪）
+- **四国 (徳島 + 香川)** + **大阪 (旧 大正銀行店舗網)** という他の四国地銀にない広域展開
+- 阿波おどり経済 (徳島) + うどん経済 (香川) + 関西経済圏アクセス (大正銀行系大阪)
 - 四国八十八ヶ所巡礼観光金融 + 瀬戸内造船・四国製紙の製造業金融
-- 農業金融（みかん・うどん粉・かんしょ等の地場農産物）
+- 農業金融 (みかん・うどん粉・かんしょ等の地場農産物)
 
 ### 提携・買収戦略
 
-- **徳島 + 香川 経営統合**（2010-04-01）：隣接する四国 2 県地銀の対等合併型 HD 化（同様事例: 山口 FG・西日本 FH 等）
-- **大正銀行救済子会社化**（2017）：大阪地盤獲得の戦略 M&A、経営難の大正銀行を吸収
-- **徳島大正銀行 合併**（2020-01）：HD 内 2 行 → 1 行体制で重複コストを削減し、大阪 + 徳島の店舗網を統合
+- **徳島 + 香川 経営統合**（2010-04-01）: 隣接四国 2 県地銀の対等合併型 HD 化（同様事例: 山口 FG・西日本 FH 等）
+- **大正銀行救済子会社化**（2017）: 大阪地盤獲得の戦略 M&A、経営難の大正銀行を吸収
+- **徳島大正銀行 合併**（2020-01）: HD 内 2 行 → 1 行体制で重複コスト削減・大阪 + 徳島の店舗網統合
 
 ### 人口減少地域での生残戦略
 
-- 四国 4 県は日本でも人口減少率が高い → 関西経済圏（大正銀行系）アクセスで補完
-- メガバンクと信金の中間ニッチ（地元中小企業の主取引銀行）
+- 四国 4 県は日本でも人口減少率が高い → 関西経済圏 (大正銀行系) アクセスで補完
+- メガバンクと信金の中間ニッチ（地元中小企業 main bank）
 - 観光・農業・製造業の地場産業金融に特化
 
 ### 地銀再編文脈での位置
 
-- 四国地銀: トモニ HD（[[regional-banks/tokushima-taisho-bank|徳島大正]] + [[regional-banks/kagawa-bank|香川]]）/ [[regional-banks/iyogin-hd]]（[[regional-banks/iyo-bank|伊予銀行]]）/ [[regional-banks/awa-bank|阿波銀行]]（徳島）/ [[regional-banks/hyakujushi-bank|百十四銀行]]（香川）/ [[regional-banks/shikoku-bank|四国銀行]]（高知）等
+- 四国地銀: トモニ HD ([[regional-banks/tokushima-taisho-bank|徳島大正]] + [[regional-banks/kagawa-bank|香川]]) / [[regional-banks/iyogin-hd]] ([[regional-banks/iyo-bank|伊予銀行]]) / [[regional-banks/awa-bank|阿波銀行]] (徳島) / [[regional-banks/hyakujushi-bank|百十四銀行]] (香川) / [[regional-banks/shikoku-bank|四国銀行]] (高知) 等
 - 徳島県内: [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] vs [[regional-banks/awa-bank|阿波銀行]] の 2 行体制
 - 香川県内: [[regional-banks/kagawa-bank|香川銀行]] vs [[regional-banks/hyakujushi-bank|百十四銀行]] の 2 行体制
-- 大阪府内: [[regional-banks/tokushima-taisho-bank|徳島大正銀行]]（旧 大正銀行店舗）vs メガ + [[megabanks/smfg]] 系 + 関西 mirai FG 等
+- 大阪府内: [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] (旧 大正銀行店舗) vs メガ + [[megabanks/smfg]] 系 + 関西 mirai FG 等
 
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 四国財務局
 - **持株会社規制**：銀行法 第 52 条の 17
-
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 国内預貸マージン改善ボーナス
   - 2025〜 地銀再編圧力（金融庁の地銀統合誘導策）
 
-## 関連項目
+## Related
 
 - [[regional-banks/tokushima-taisho-bank]] · [[regional-banks/kagawa-bank]] · [[regional-banks/awa-bank]] · [[regional-banks/hyakujushi-bank]] · [[regional-banks/iyogin-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 
-## 出典
+## Sources
 
 - **Wikipedia: トモニホールディングス**（https://ja.wikipedia.org/wiki/トモニホールディングス, 2026-05-19 抽出）
 - Wikipedia: 徳島大正銀行 / 香川銀行 / 大正銀行（2026-05-19 抽出）
@@ -117,4 +117,4 @@ translated_at: 2026-06-02T16:33:58.486Z
 ---
 
 > [!info] 検証状況
-> confidence: **高い**（v1.0 Wikipedia + 公式沿革ベース 2026-05-19）。重要事象（2010-04 HD 発足 / 2017 大正銀子会社化 / 2020-01 徳島大正銀行合併）は公知事実。財務数値・最新中計の詳細は省略（公開 IR 要参照）。
+> confidence: **likely**（v1.0 Wikipedia + 公式沿革ベース 2026-05-19）。重要事象（2010-04 HD 発足 / 2017 大正銀子会社化 / 2020-01 徳島大正銀行合併）は公知事実。財務数値・最新中計の詳細は省略（公開 IR 要参照）。

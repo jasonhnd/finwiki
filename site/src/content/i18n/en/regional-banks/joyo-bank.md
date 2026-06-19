@@ -1,58 +1,59 @@
 ---
 source: regional-banks/joyo-bank
-source_hash: 187d9c5414c2eb9b
+source_hash: 1dd6f7a6b22920c9
 lang: en
 status: machine
 fidelity: ok
-title: "Joyo Bank"
-translated_at: 2026-05-31T23:59:49.395Z
+title: "株式会社常陽銀行 (Joyo Bank)"
+translated_at: 2026-06-19T12:43:19.854Z
 ---
-# Joyo Bank
 
-## Wiki Route
+# 株式会社常陽銀行 (Joyo Bank)
+
+## Wiki route
 
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ashikaga-bank|足利銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Joyo Bank is the core bank of [[regional-banks/mebuki-fg|めぶき FG]], grounded in Ibaraki Prefecture. It was established in 1935年7月30日 through the merger of Tokiwa Bank and Goju Bank, and in 2016年10月 launched Mebuki FG through a business integration with Ashikaga Holdings. It is an anchor for understanding regional finance in Ibaraki, Tochigi, and the northern Tokyo metropolitan area, including manufacturing, agriculture, Tsukuba Science City, and Hitachi-related supply chains.
+Joyo Bank is the core bank of [[regional-banks/mebuki-fg|めぶき FG]], based in Ibaraki Prefecture. It was established in 1935年7月30日 through the merger of Joban Bank and Itsuju Bank, and in 2016年10月 it launched Mebuki FG via a business integration with Ashikaga HD. It is an anchor for viewing the regional finance of Ibaraki / Tochigi / the northern Tokyo metropolitan area, and of manufacturing, agriculture, the Tsukuba research-and-academic city, and the Hitachi-group supply chain.
 
-## 1. Company Overview
+## 1. Company overview
 
-| Item | Details |
+| 項目 | 内容 |
 |---|---|
-| Legal name | The Joyo Bank, Ltd. |
-| Head office | 2-5-5号 Minamimachi, Mito, Ibaraki |
-| Founded | 1935年7月30日 |
-| Parent company | [[regional-banks/mebuki-fg|めぶきフィナンシャルグループ]] |
-| Integration | Business integration with Ashikaga HD in 2016年10月 |
-| Main market | Ibaraki Prefecture, North Kanto, northern Tokyo metropolitan area |
+| 正式名 | 株式会社 常陽銀行 |
+| 本店 | 茨城県水戸市南町2丁目5番5号 |
+| 創立 | 1935年7月30日 |
+| 親会社 | [[regional-banks/mebuki-fg|めぶきフィナンシャルグループ]] |
+| 統合 | 2016年10月、足利 HD と経営統合 |
+| 主地盤 | 茨城県、北関東、首都圏北部 |
 
-Official and parent-company materials state that as of 2025-09-30, the bank had capital of 851億円, 3,112 employees, 181 店 domestic branches, 4  overseas representative offices, total assets of 12兆8,287億円, deposits of 10兆4,059億円, loans of 7兆6,250億円, and a consolidated capital adequacy ratio of 13.13%.
+According to official and parent-company materials, as of 2025-09-30 the bank reports capital of 851億円, 3,112 employees, 181 店 domestic branches, 4  overseas representative offices, total assets of 12兆8,287億円, deposits of 10兆4,059億円, loans of 7兆6,250億円, and a consolidated capital-adequacy ratio of 13.13%.
 
-## 2. Business Segment Map
+## 2. Business-segment map
 
-| Segment | Details | Importance |
+| 事業セグメント | 内容 | 重要性 |
 |---|---|---|
-| Ibaraki corporate finance | Local SMEs, manufacturers, agriculture, healthcare | Joyo Bank's base |
-| Research city / university links | Tsukuba, research institutions, startups | Growth-industry support |
-| Northern Tokyo metro area | Tokyo-adjacent companies, logistics, housing | Boundary between regional banks and metro markets |
-| Retail finance | Deposits, mortgages, asset management | Regional household base |
-| Overseas support | Shanghai, Singapore, New York, Hanoi offices | Overseas expansion support for prefectural companies |
-| Group cooperation | Ashikaga Bank, Mebuki Securities, Mebuki Lease | Wider North Kanto coverage |
+| 茨城法人金融 | 地場中小企業、製造業、農業、医療向け | 常陽銀行の基盤 |
+| 研究都市・大学連携 | つくば、研究機関、スタートアップ | 成長産業支援 |
+| 首都圏北部 | 東京近接企業、物流、住宅 | 地銀と都市圏の境界 |
+| 個人金融 | 預金、住宅ローン、資産運用 | 地域家計基盤 |
+| 海外支援 | 上海、シンガポール、ニューヨーク、ハノイ拠点 | 県内企業の海外展開支援 |
+| グループ連携 | 足利銀行・めぶき証券・めぶきリース | 北関東広域化 |
 
-## 3. Strategy & Competition
+## 3. Strategy / competition
 
-- **North Kanto wide-area model**: Joyo Bank is based in Ibaraki, while Ashikaga Bank is based in Tochigi; together they form a cross-prefecture regional bank group under Mebuki FG.
-- **Tsukuba / Hitachi / manufacturing links**: Ibaraki contains research institutions, industrial parks, Hitachi-lineage companies, materials, food, and agriculture-related firms, making deep corporate support important.
-- **Regional bank adjacent to Tokyo**: Proximity to the Tokyo area also exposes it to megabanks, internet banks, and securities firms.
-- **Comparison with 77 Bank**: [[regional-banks/77-bank|77-bank]] is a standalone core bank in Tohoku, while Joyo has already been reorganized as one pillar of a wide-area holding company.
+- **Northern-Kanto wide-area model**: With Joyo Bank's main base in Ibaraki and Ashikaga Bank's in Tochigi, the two form a regional-bank group spanning prefectural borders as Mebuki FG.
+- **Tsukuba / Hitachi / manufacturing touchpoints**: Ibaraki concentrates research institutes, industrial parks, and Hitachi-group, materials, food, and agriculture-related companies, so depth in corporate support is important.
+- **Tokyo-metropolitan-adjacent regional bank**: Its proximity to the Tokyo area exposes it to competition from megabanks, net banks, and securities firms.
+- **Comparison with 77 Bank**: Whereas [[regional-banks/77-bank|77-bank]] is a standalone major bank at the core of Tohoku, Joyo has already been reorganized as one part of a wide-area holding company.
 
-## 4. Regulation & Policy
+## 4. Regulation / policy
 
-- The bank itself is governed by the Banking Act, and the parent company is subject to bank holding-company regulation.
-- Through listed holding company [[regional-banks/mebuki-fg|mebuki-fg]], it is subject to TSE and FIEA disclosure.
-- In regional-finance policy, key issues include business succession, industrial transition, local-government cooperation, and regional DX support across North Kanto.
+- The bank entity is subject to the Banking Act, and the parent is subject to bank-holding-company regulation.
+- Through the listed holding company [[regional-banks/mebuki-fg|mebuki-fg]] it is subject to TSE and FIEA disclosure.
+- In regional financial policy, business succession, industrial transition, municipal cooperation, and regional DX support across the wider northern Kanto are the points of discussion.
 
 ## Related
 
@@ -61,10 +62,10 @@ Official and parent-company materials state that as of 2025-09-30, the bank had 
 
 ## Sources
 
-- Joyo Bank, "Company Overview / History": https://www.joyobank.co.jp/kabunushi/corporate/history.html
-- Mebuki FG Annual Report / disclosure library: https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/
+- 常陽銀行「会社概要・沿革・年史」: https://www.joyobank.co.jp/kabunushi/corporate/history.html
+- めぶき FG Annual Report / disclosure library: https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/
 
 ---
 
-> [!info] Validation Status
-> confidence: **likely**. Official and parent-company materials confirm the Joyo Bank / Mebuki FG integration relationship and 2025-09-30 KPI.
+> [!info] Verification status
+> confidence: **likely**. The Joyo Bank–Mebuki FG integration relationship and 2025-09-30 KPIs are confirmed in official and parent-company materials.

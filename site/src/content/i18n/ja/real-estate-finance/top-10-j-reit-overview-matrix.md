@@ -1,124 +1,124 @@
 ---
 source: real-estate-finance/top-10-j-reit-overview-matrix
-source_hash: e387c4b668b092b4
+source_hash: 284e38ceedc97605
 lang: ja
 status: machine
 fidelity: ok
-title: "トップ 10 J-REIT 概要マトリックス"
-translated_at: 2026-06-03T00:53:08.279Z
+title: "トップ 10  J-REIT 概観マトリクス"
+translated_at: 2026-06-19T12:43:19.901Z
 ---
 
-# トップ 10 J-REIT 概要マトリックス
+# トップ 10  J-REIT 概観マトリクス
 
-## 要約
+## TL;DR
 
-このエントリは、[[real-estate-finance/j-reit-market-overview|J-REIT market overview]] に対する名前付き行列として使用します。 これは、10 上場上位の J-REIT を、スポンサー、資産クラス、資産クラスの集中度、AUM 規模、LTV 範囲、DPU 利回りゾーン、外国投資家との関連性とおおよその時価総額別にマッピングしています。 特定の数値ランクは四半期ごとに変動します。 このマトリックスの目的は、ライブ リーグ テーブルではなく、公開された表面の参照構造を提供することです。 現在の数値を JPX REIT セグメントのデータおよび個別の [[real-estate-finance/INDEX|J-REIT IR]] 資料と常に照合してください。
+本項目は [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] に対する名指しの名称マトリクスのコンパニオンとして使用すること。これは概算時価総額別のトップ 10  上場 J-REIT を、そのスポンサー、資産クラス、資産クラス集中度、AUM 規模、LTV レンジ、DPU 利回りゾーン、外国人投資家との関連性にマッピングする。具体的な数値ランクは四半期ごとに変動する;このマトリクスの目的は、ライブのリーグテーブルではなく、公開サーフェスの参照構造を提供することである。現在の数値は常に JPX REIT セグメントデータと個別の [[real-estate-finance/INDEX|J-REIT IR]] 資料に対して照合すること。
 
-以下の 10  の代表者名は、J-REIT の IR / セルサイド カバレッジの分野で、規模と流動性を合わせたトップオブマーケットとしてよく挙げられています。 彼らのスポンサー構造は、[[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]] で分析された構造的特徴です。
+以下の 10  の代表的な名称は、規模と流動性を合わせた市場トップとして、J-REIT IR / セルサイドカバレッジのユニバースで一般的に引用される。それらのスポンサー構造は [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]] で分析される構造的特徴である。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-このマトリックスを使用する前に、[[real-estate-finance/INDEX|real-estate-finance domain]] から開始し、次に [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] および [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] を使用します。 スポンサーリンクから [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] にアクセスし、リストされた開発者側の IR 相互参照を参照してください。 各 J-REIT の直接にある受託者のリストは通常​​、[[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] に接続されます。
+[[real-estate-finance/INDEX|real-estate-finance domain]] から始め、次にこのマトリクスを使う前に [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] と [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] を参照すること。スポンサーリンクを辿って、上場デベロッパー側の IR クロスリファレンスについては [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] へ;各 J-REIT の背後のトラスティー欄は通常 [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] に接続する。
 
-## 1。 代表的なトップオブマーケットJ-REIT（アルファベット順）
+## 1. 代表的な市場トップ J-REIT (アルファベット順)
 
-| J-REIT（英語） | 和名 | スポンサー | 資産の焦点 | 資産運用会社所属 |
+| J-REIT (English) | Japanese name | Sponsor | Asset focus | Asset-management-company affiliation |
 |---|---|---|---|---|
-| 大和オフィスインベストメント | 大和証券オフィス投資法人 | ダイワグループ | オフィス | 大和リアル・エステート・アセットマネジメント |
-| グローバルワン不動産投資 | グローバル・ワン不動産投資法人 | 三菱UFJ信託 + 明治安田生命 + みずほ信託 + 日本生命 | オフィス | グローバルアライアンス不動産 |
-| 産業・インフラ基金 (IIF) | 産業ファンド投資法人 | KKR / 三菱商事と UBS の統合 (歴史的)、現在は KJR | 物流・産業 | 三菱商事-UBSリアルティ / KJRマネジメント |
-| ジャパンリアルエステート投資法人（JRE） | ジャパンリアルエステート投資法人 | 三菱地所 | オフィス | ジャパンリアルエステートアセットマネジメント |
-| 日本リテールファンド投資法人（現JMF​​） | ジャパンリテールファンド (JMF統合後) | 三菱商事-UBS / KJR | 小売 / 多角化 | KJRマネジメント |
-| KDX東京リート（ケネディクス） | ケネディクス系REIT (KDX) | ケネディクス | オフィス/住宅 | ケネディクス不動産ファンドマネジメント |
-| 森ヒルズリート投資法人 | モリヒルズリート投資法人 | 森ビル | オフィス・都市再開発 | 森ビルインベストメントマネジメント |
-| 日本ビルファンド（NBF） | 日本ビルファンド投資法人 | 三井不動産 | オフィス | 日本ビルファンドマネジメント |
-| 野村不動産マスターファンド（NMF） | 野村不動産マスターファンド投資法人 | 野村不動産 | 多様化 | 野村不動産アセットマネジメント |
-| オリックス投資法人 | オリックス不動産投資法人 | オリックス | 多様化 | オリックス・アセットマネジメント |
+| Daiwa Office Investment | 大和証券オフィス投資法人 | Daiwa group | Office | Daiwa Real Estate Asset Management |
+| Global One Real Estate Investment | グローバル・ワン不動産投資法人 | Mitsubishi UFJ Trust + Meiji Yasuda + Mizuho Trust + Nippon Life | Office | Global Alliance Realty |
+| Industrial & Infrastructure Fund (IIF) | 産業ファンド投資法人 | KKR / Mitsubishi Corp-UBS combination (historical), now KJR | Logistics / industrial | Mitsubishi Corp-UBS Realty / KJR Management |
+| Japan Real Estate Investment Corp (JRE) | ジャパンリアルエステイト投資法人 | Mitsubishi Estate | Office | Japan Real Estate Asset Management |
+| Japan Retail Fund Investment Corp (now JMF) | ジャパンリテールファンド (JMF統合後) | Mitsubishi Corp-UBS / KJR | Retail / diversified | KJR Management |
+| KDX Tokyo REIT (Kenedix) | ケネディクス系REIT (KDX) | Kenedix | Office / residential | Kenedix Real Estate Fund Management |
+| Mori Hills REIT | 森ヒルズリート投資法人 | Mori Building | Office / urban redevelopment | Mori Building Investment Management |
+| Nippon Building Fund (NBF) | 日本ビルファンド投資法人 | Mitsui Fudosan | Office | Nippon Building Fund Management |
+| Nomura Real Estate Master Fund (NMF) | 野村不動産マスターファンド投資法人 | Nomura Real Estate | Diversified | Nomura Real Estate Asset Management |
+| Orix JREIT | オリックス不動産投資法人 | Orix | Diversified | Orix Asset Management |
 
-時価総額推移による具体的なランキング。 このリストは、正確な順位表ではなく、安定した代表的な市場トップグループです。 業界の統合により、以前に個別に上場されていた一部の J-REIT が統合事業体に統合されました (たとえば、ジャパン リテール ファンドと MCUBS MidCity は JMF に統合されました)。そのため、「時価総額上位 10 」のリストは時間の経過とともに入れ替わります。
+時価総額別の具体的なランキングは変動する;このリストは正確なリーグテーブルではなく、安定した代表的な市場トップのグループである。業界の統合により、いくつかの以前は別々に上場していた J-REIT が統合エンティティに合併された (例えば Japan Retail Fund と MCUBS MidCity は JMF に統合された) ため、「時価総額別トップ 10 」のリストは時間とともにローテーションする。
 
-### 2.1 スポンサーと資産の焦点
+### 2.1  スポンサーと資産フォーカス
 
-| J-REIT | スポンサーの種類 | 資産クラス | 資産クラスの集中 |
+| J-REIT | Sponsor type | Asset class | Asset-class concentration |
 |---|---|---|---|
-| 日本ビルファンド（NBF） | デベロッパー（三井不動産） | オフィス | 東京中心部のオフィス集中度 |
-| ジャパンリアルエステート（JRE） | ディベロッパー（三菱地所） | オフィス | ハイ丸の内・大手町露出 |
-| 野村不動産マスターファンド（NMF） | デベロッパー（野村不動産） | 多様化 | オフィス、小売、物流、住宅まで多様 |
-| 日本リテールファンド / JMF | 共同スポンサー | 小売 / 多角化 | 合併再編後の小売業中心 |
-| 大和オフィスインベストメント | 金融 / 開発者 | オフィス | オフィス中心 |
-| 産業・インフラ基金 (IIF) | 金融に固定された | 物流・産業 | 産業インフラを備えた物流が重要 |
-| 森ヒルズリート投資法人 | デベロッパー（森ビル） | オフィス・都市再開発 | 六本木・虎ノ門エリア注目 |
-| オリックス投資法人 | 金融（オリックス） | 多様化 | マルチアセットクラス |
-| KDX東京リート | 独立系・金融系（ケネディクス） | オフィス | 東京オフィスの重点 |
-| グローバルワン不動産 | マルチスポンサー（三菱UFJ信託＋明治安田生命＋みずほ信託＋日本生命） | オフィス | オフィス、主要資産に焦点を当てる |
+| Nippon Building Fund (NBF) | Developer (Mitsui Fudosan) | Office | High Tokyo CBD office concentration |
+| Japan Real Estate (JRE) | Developer (Mitsubishi Estate) | Office | High Marunouchi / Otemachi exposure |
+| Nomura Real Estate Master Fund (NMF) | Developer (Nomura Real Estate) | Diversified | Diversified across office, retail, logistics, residential |
+| Japan Retail Fund / JMF | Combined sponsor | Retail / diversified | Retail-anchored after merger reorganization |
+| Daiwa Office Investment | Financial / developer | Office | Office-focused |
+| Industrial & Infrastructure Fund (IIF) | Financial-anchored | Logistics / industrial | Logistics-heavy with industrial infrastructure |
+| Mori Hills REIT | Developer (Mori Building) | Office / urban redevelopment | Roppongi / Toranomon area focus |
+| Orix JREIT | Financial (Orix) | Diversified | Multi-asset class |
+| KDX Tokyo REIT | Independent / financial (Kenedix) | Office | Tokyo office focus |
+| Global One Real Estate | Multi-sponsor (Mitsubishi UFJ Trust + Meiji Yasuda + Mizuho Trust + Nippon Life) | Office | Office, prime asset focus |
 
-### 2.2 スケールと活用
+### 2.2  規模とレバレッジ
 
-| J-REIT | 運用資産規模の目安 | LTV範囲を開示 |
+| J-REIT | Approximate AUM scale | LTV range disclosed |
 |---|---|---|
-| NBF | 史上最大規模のオフィスJ-REIT | 保守的な LTV (低から中40% ゾーン) |
-| JRE | オフィス系J-REIT最大手 | 保守的なLTV |
-| NMF | 最大規模の総合型J-REIT | 典型的な40%ゾーン半ば |
-| JMF | 小売業に特化した最大規模の J-REIT | 40% ゾーン半ば |
-| 大和オフィスインベストメント | 中堅オフィスJ-REIT | 40% ゾーン半ば |
-| IIF | 物流・産業用ミッドティア | 40% ゾーン半ば |
-| 森ヒルズリート投資法人 | 中堅オフィスJ-REIT | 40% ゾーン半ば |
-| オリックス投資法人 | 中層総合型J-REIT | 40% ゾーン半ば |
-| KDX東京リート | 中堅オフィスJ-REIT | 40% ゾーン半ば |
-| グローバルワン不動産 | 小規模オフィスJ-REIT | 保守的なLTV |
+| NBF | 歴史的に最大のオフィス J-REIT | 保守的な LTV (低位〜中位 40% ゾーン) |
+| JRE | 最大級のオフィス J-REIT の一つ | 保守的な LTV |
+| NMF | 最大級の分散型 J-REIT の一つ | 中位 40% ゾーンが典型 |
+| JMF | 最大級の小売アンカー型 J-REIT の一つ | 中位 40% ゾーン |
+| Daiwa Office Investment | 中堅オフィス J-REIT | 中位 40% ゾーン |
+| IIF | 物流 / 産業 中堅 | 中位 40% ゾーン |
+| Mori Hills REIT | 中堅オフィス J-REIT | 中位 40% ゾーン |
+| Orix JREIT | 中堅分散型 J-REIT | 中位 40% ゾーン |
+| KDX Tokyo REIT | 中堅オフィス J-REIT | 中位 40% ゾーン |
+| Global One Real Estate | 小規模オフィス J-REIT | 保守的な LTV |
 
-正確な運用残高は各J-REITの有価証券報告書やIR資料に記載されています。 上記のラベルを、実際の数値ではなく相対的な順序として扱います。 LTVバンドはIR資料で開示されている方針バンドです。 実際の LTV は買収と借り換えに応じて変化します。
+正確な AUM 数値は各 J-REIT の有価証券報告書と IR 資料で報告される;上記のラベルはライブの数値ではなく相対的な順序として扱うこと。LTV バンドは IR 資料で開示されるポリシーバンドである;実際の LTV は取得とリファイナンスとともに動く。
 
-### 2.3 DPU 利回りと外国投資家の関連性
+### 2.3  DPU 利回りと外国人投資家の関連性
 
-| J-REIT | DPU 利回りゾーン (相対) | 外国人投資家の関連性 |
+| J-REIT | DPU yield zone (relative) | Foreign-investor relevance |
 |---|---|---|
-| NBF | ローエンド（スポンサー向けプレミアム + 規模 + 東京 CBD オフィス） | 高い; ベンチマーク名 |
-| JRE | 下限（丸の内露出プレミアム） | 高い; ベンチマーク名 |
-| NMF | ミッド; 多様化したイールドカーブ | 高い; 最大規模の多様な名前の 1 つ |
-| JMF | ミッド; 小売業の回復に依存 | 中程度から高度 |
-| 大和オフィスインベストメント | ミッド; 中堅オフィス | 中程度 |
-| IIF | ミッド; 物流需要主導型 | 中～高 (物流テーマ) |
-| 森ヒルズリート投資法人 | ミッド; 都市再開発 | 中程度 |
-| オリックス投資法人 | ミッド; 多様化した | 中程度 |
-| KDX東京リート | ミッド; 独立スポンサー。 紛争割引を適用できます。 中程度 |
-| グローバルワン不動産 | 下端; マルチスポンサーのプライムアセット | 中程度 |
+| NBF | 低位 (スポンサー + 規模 + 東京 CBD オフィスのプレミアム) | 高い;ベンチマーク名 |
+| JRE | 低位 (丸の内エクスポージャーのプレミアム) | 高い;ベンチマーク名 |
+| NMF | 中位;分散型イールドカーブ | 高い;最大級の分散型名の一つ |
+| JMF | 中位;小売回復依存 | 中〜高 |
+| Daiwa Office Investment | 中位;中堅オフィス | 中位 |
+| IIF | 中位;物流需要駆動 | 中〜高 (物流テーマ) |
+| Mori Hills REIT | 中位;都市再開発 | 中位 |
+| Orix JREIT | 中位;分散型 | 中位 |
+| KDX Tokyo REIT | 中位;独立系スポンサー;コンフリクトディスカウントを負う場合あり | 中位 |
+| Global One Real Estate | 低位;マルチスポンサーのプライム資産 | 中位 |
 
-DPU 利回りは日付によって異なります。 相対的な順序は、正確な数値ではなく、スポンサーのプレミアム/割引パターンを反映しています。 常に最新の IR 資料と JPX リファレンスから実際の数値を取得します。
+DPU 利回りは日付固有である。相対的な順序は正確な数値ではなくスポンサーのプレミアム / ディスカウントのパターンを反映する;ライブの数値は常に現在の IR 資料と JPX のリファレンスから取得すること。
 
-## 3。 トラスティマッピング — 公共表面参照
+## 3. トラスティー・マッピング — 公開サーフェスの参照
 
-| 管財人（代表的な役割） | J-REIT の例 (開示されている場合) |
+| Trustee (typical role) | J-REIT examples (where disclosed) |
 |---|---|
-| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 複数 — 多くの J-REIT 受託者の開示に登場 |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 複数 — 多くの J-REIT トラスティー開示に登場 |
 | [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 複数 |
 | [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | 複数 |
 
-受託者の役割は、スポンサーのアイデンティティとは別の保管/資産管理機能です。 同じ信託銀行が、さまざまなスポンサー グループの受託者になることができます。 これは、[[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] で説明されているのと同じカストディ オペレーティング レイヤ パターンです。
+トラスティーの役割は、スポンサーのアイデンティティとは別個のカストディ / 資産管理機能である。同じ信託銀行が多くの異なるスポンサーグループのトラスティーになり得る。これは [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] でカバーされるのと同じカストディ運営レイヤーのパターンである。
 
-## 4。 比較読書ガイド
+## 4. 比較の読み方ガイド
 
-このマトリックスを読む場合、分析に役立つ軸は次のとおりです。
+このマトリクスを読む際、分析にとってより有用な軸は以下である:
 
-1。 **スポンサーの種類とパイプラインの信頼性** — [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]] を参照してください。
-2。 **資産クラスの集中と分散** — 単一資産クラスの J-REIT (オフィス、小売、物流) は、分散型 J-REIT (NMF、オリックス JREIT) よりもセクター サイクルのエクスポージャーが鋭いです。
-3。 **LTV ポリシー バンドと借り換え姿勢** — 商業不動産銀行融資のコンテキストについては、[[banking/INDEX|banking domain]] を参照してください。
-4。 **DPU 利回りゾーンとスポンサーのプレミアム/割引** — 優良スポンサー + CBD オフィスのプレミアム、スポンサーとの競合が多い構造の割引。
-5。 **外国人投資家の取引シェアと浮動株** — JPX の投資家タイプ別取引データでこれを追跡できます。
+1. **スポンサータイプとパイプラインの信頼性** — [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]] を参照。
+2. **資産クラス集中度 対 分散** — 単一資産クラス J-REIT (オフィス、小売、物流) は、分散型 J-REIT (NMF、Orix JREIT) よりもシャープなセクターサイクルエクスポージャーを持つ。
+3. **LTV ポリシーバンドとリファイナンスのスタンス** — 商業不動産の銀行貸出コンテキストについては [[banking/INDEX|banking domain]] を参照。
+4. **DPU 利回りゾーンとスポンサーのプレミアム / ディスカウント** — ブルーチップスポンサー + CBD オフィスにはプレミアム、スポンサーコンフリクトの重い構造にはディスカウント。
+5. **取引とフロートの外国人投資家シェア** — JPX の投資家タイプ別取引データがこれを辿ることを可能にする。
 
-## 5。 出典管理チェックリスト
+## 5. ソースコントロール・チェックリスト
 
-| 質問 | パブリックサーフェス |
+| Question | Public surface |
 |---|---|
-| 現在の時価総額とランキングは何ですか? | JPX REITセグメントの市場統計。 ARES J-REITの統計。 |
-| 現在の運用資産額は何ですか? | 各J-REITの有価証券報告書やIR資料を掲載しています。 |
-| LTVとレバレッジポリシーとは何ですか? | J-REIT IR＋投資法人債目論見書。 |
-| スポンサーとは誰ですか?スポンサーの出資額はいくらですか? | 資産運用会社ホームページ＋J-REIT IR |
-| 管財人は誰ですか? | J-REIT有価証券報告書（有価証券報告書）。 |
-| 最近の DPU 利回りはどれくらいですか? | JPX REITページ＋J-REIT IRページ |
-| 外国人投資家の取引シェアはどれくらいですか? | 投資家タイプ別のJPX取引。 |
+| 現在の時価総額とランキングは何か。 | JPX REIT セグメント市場統計;ARES J-REIT 統計。 |
+| 現在の AUM は何か。 | 各 J-REIT の有価証券報告書と IR 資料。 |
+| LTV とレバレッジのポリシーは何か。 | J-REIT IR + 投資法人債の目論見書。 |
+| スポンサーは誰で、スポンサーのステークは何か。 | 資産運用会社のウェブサイト + J-REIT IR。 |
+| トラスティーは誰か。 | J-REIT の有価証券報告書 (有価証券報告書)。 |
+| 最近の DPU 利回りは何か。 | JPX REIT ページ + J-REIT IR。 |
+| 取引の外国人投資家シェアは何か。 | JPX の投資家タイプ別取引。 |
 
-## 関連項目
+## Related
 
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]
@@ -137,9 +137,9 @@ DPU 利回りは日付によって異なります。 相対的な順序は、正
 - [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- JPX、「REIT市場」英語上陸。
-- JPX、「東証REIT指数」英語ページ。
+- JPX、"REIT Market" 英語ランディング。
+- JPX、"TSE REIT Index" 英語ページ。
 - J-REIT.jp (ARES ポータル)、英語。
-- ARES、「ARES について」英語ページ。
+- ARES、"About ARES" 英語ページ。

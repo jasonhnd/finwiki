@@ -1,28 +1,28 @@
 ---
 source: life-insurers/hanasaku-life
-source_hash: cf12761edaaa55da
+source_hash: 343c19f53eb32fd5
 lang: en
 status: machine
 fidelity: ok
 title: "Hanasaku Life Insurance"
-translated_at: 2026-05-31T15:29:03.912Z
+translated_at: 2026-06-19T06:09:18.127Z
 ---
-# Hanasaku Life Insurance
 
+# Hanasaku Life Insurance
 
 ## Wiki route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/nanairo-life|Nanairo Life Insurance]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/nanairo-life|なないろ生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Hanasaku Life Insurance Co., Ltd. is a Nippon Life group life-insurance operating company listed in the FSA life-insurer register. It should be read as a newer group insurer responsible for medical and protection products and agency-channel strategy, distinct from Nippon Life's traditional sales-force model.
+Hanasaku Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/nippon-life]] group listed on the FSA life-insurer list. See it as a newer group insurer that, separate from Nippon Life's own traditional sales-force model, handles medical / protection products and agency-channel strategy.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | はなさく生命保険株式会社 |
+| Legal name | Hanasaku Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
 | Group boundary | [[life-insurers/nippon-life]] group |
@@ -30,7 +30,7 @@ Hanasaku Life Insurance Co., Ltd. is a Nippon Life group life-insurance operatin
 
 ## 2. Operating model
 
-Hanasaku Life is an example of a major mutual insurer using a separate brand for agency- and direct-friendly products. As with [[life-insurers/nanairo-life]] and [[life-insurers/medicare-life]], the analytically important point is the separation of product design and channel strategy while still drawing on the parent insurer's scale and brand trust.
+Hanasaku Life is an example of a large mutual insurer rolling out agency / direct-friendly products under a separate brand. As with [[life-insurers/nanairo-life]] and [[life-insurers/medicare-life]], the structure of separating product design and channel strategy while building on the parent insurer's scale and brand trust becomes important.
 
 ## 3. Why this page matters
 

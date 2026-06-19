@@ -1,128 +1,130 @@
 ---
 source: leasing-firms/tokyo-century-detail
-source_hash: b61acd6394d5d9f9
+source_hash: 1672310aabd54c53
 lang: en
 status: machine
 fidelity: ok
-title: "Tokyo Century Operating Profile"
-translated_at: 2026-06-01T02:31:57.113Z
+title: "Tokyo Century Operating Profile (東京センチュリー 事業詳細)"
+translated_at: 2026-06-19T06:09:18.140Z
 ---
-# Tokyo Century Operating Profile
+
+# Tokyo Century Operating Profile (東京センチュリー 事業詳細)
+
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] and complements the company-level summary at [[leasing-firms/tokyo-century|Tokyo Century]]. Read it against [[leasing-firms/orix-corp|ORIX]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]], and [[leasing-firms/mizuho-lease|Mizuho Leasing]] for general-lease industry peer context, [[megabanks/mizuho-fg|Mizuho FG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] and complements the company-level summary at [[leasing-firms/tokyo-century|東京センチュリー]]. Read it against [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]] for general-lease industry peer context, [[megabanks/mizuho-fg|みずほFG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-[[leasing-firms/tokyo-century|Tokyo Century Corporation]] (8439 / TSE PRIME) is one of Japan's major integrated leasing and finance companies and has a distinctive two-axis major-shareholder structure centered on Mizuho FG and ITOCHU Corporation. This entry covers operating-level depth: business segments, earnings structure, aircraft finance, overseas expansion, and SDGs strategy.
+[[leasing-firms/tokyo-century|東京センチュリー株式会社]] (8439 / TSE PRIME) holds a **"Mizuho FG × Itochu" 2 axis principal-shareholder structure** and is one of Japan's unique 3 major general-lease / finance companies (Orix, Mitsubishi HC Capital, Tokyo Century). This entry covers the **operating-level depth** of business segments, revenue structure, aircraft finance, overseas expansion, and SDGs strategy. 1969-12 the former "Tokyo Leasing" was established → merged with 2009-04"Century Leasing System" to launch "Tokyo Century Leasing" → 2016-10renamed "Tokyo Century." **By making the US Aviation Capital Group (ACG) a wholly owned subsidiary in 2019 **, it entered the global Top 10 in aircraft leasing. **5 business segments**: (a) domestic corporate leasing / finance, (b) international business (Americas / Asia / Europe), (c) **aircraft**, (d) **environmental infrastructure**, (e) automotive (formerly Nippon Rent-A-Car Service / auto leasing).
 
-## 1. Parent-group relationship - 2 -axis shareholder structure
+## 1. Parent-group relationship — the 2 axis shareholder structure
 
-- **[[megabanks/mizuho-fg|Mizuho Financial Group]]**: lineage from Tokyo Leasing, formerly affiliated with Dai-Ichi Kangyo Bank
-- **ITOCHU Corporation**: Trading-company lineage from Century Leasing System
-- The combined ownership ratio of the two companies is around the 50% level. **The Mizuho FG side supplies financial support and bank-balance-sheet access, while the ITOCHU side supplies trading-company networks, including automobiles, industrial equipment, overseas projects, and deal flow**.
-- This is a rare capital structure created by the integration of a bank-affiliated leasing company and a trading-company-affiliated leasing company.
+- **[[megabanks/mizuho-fg|みずほフィナンシャルグループ]]**: the lineage of the former Dai-Ichi Kangyo Bank-affiliated leasing company (Tokyo Leasing)
+- **Itochu**: the lineage of the trading-house line (Century Leasing System)
+- The two companies' shareholdings total roughly the 50% level. The division of roles is that **the Mizuho FG side provides financial support / bank-account access, while the Itochu side provides the trading-house network (automotive, industrial equipment, overseas projects) and deal supply**
+- A rare capital structure formed by the business merger of a "bank-affiliated lease" and a "trading-house-affiliated lease"
 
-## 2. Business segment details
+## 2. Business-segment detail
 
-### 2.1  Domestic corporate leasing / finance
+### 2.1 Domestic corporate leasing / finance
 
-- **Target assets**: IT equipment, industrial machinery, office automation equipment, medical equipment, construction equipment, printing machinery, and related assets
-- **Customer base**: Large companies, mid-sized companies, SMEs, and local governments
-- **Channels**: Direct sales plus manufacturer / vendor partnerships and regional-bank partnerships
-- **Products**: Finance leases, operating leases, and installment sales
+- **Target assets**: IT equipment, industrial equipment, OA equipment, medical equipment, construction equipment, printing presses, etc.
+- **Customer base**: large enterprises, mid-tier enterprises, SMEs, local governments
+- **Channels**: direct sales + manufacturer / vendor linkage + regional-bank partnerships
+- **Products**: finance lease, operating lease, installment sales
 
-### 2.2  International business (Americas, Asia, Europe)
+### 2.2 International business (Americas / Asia / Europe)
 
-- **Americas business**: CSI Leasing subsidiary, one of the largest independent IT-equipment lessors in the United States / North America / Latin America
-- **Asia business**: Joint ventures and local entities in China, South Korea, and ASEAN, including Thailand, Vietnam, Indonesia, and the Philippines
-- **Europe**: Partnerships and investments with European financial institutions
+- **Americas business**: CSI Leasing subsidiary (one of the largest independent IT-equipment lessors in the US / North America / Central and South America)
+- **Asia business**: joint ventures / local subsidiaries in China, Korea, and ASEAN (Thailand, Vietnam, Indonesia, the Philippines)
+- **Europe**: partnerships / participation with European financial institutions
 
-### 2.3  Aircraft finance (strategic differentiation)
+### 2.3 Aircraft finance (strategic differentiation)
 
-- **Aviation Capital Group (ACG)**: Fully acquired in 2019 年; major U.S.-based aircraft lessor, Top 10
-- **Aircraft owned**: Hundreds-scale fleet
-- **Customers**: Airlines worldwide
-- **Significance**: One of the few 1 社 Japanese integrated lessors with a world-class aircraft-leasing platform
-- **GTF / reverse leasing / gains on sale**: Resale and used-aircraft sale profits linked to aircraft supply and demand are also important
+- **Aviation Capital Group (ACG)**: made a wholly owned subsidiary in 2019 年, a US-based major aircraft lessor (Top 10)
+- **Aircraft holdings**: a fleet on the scale of several hundred aircraft
+- **Customers**: airlines worldwide
+- **Significance**: one of the few 1 社that hold a world-class aircraft-leasing platform within a Japanese general-lease company
+- **GTF / reverse-lease / sale gains**: resale / used-aircraft sales revenue in response to aircraft supply and demand is also important
 
-### 2.4  Environmental infrastructure business
+### 2.4 Environmental-infrastructure business
 
-- **Renewable energy**: SPC investments and project finance for solar PV, wind, geothermal, and biomass
-- **Hydrogen / storage batteries / EV charging**: Entry into next-generation energy fields
-- **International coordination**: Expansion of "sustainable leasing" businesses
+- **Renewable energy**: SPC investment / project finance for solar (PV), wind, geothermal, and biomass
+- **Hydrogen / storage batteries / EV charging**: entry into next-generation energy areas
+- **International coordination**: expansion of the "sustainable leasing" business
 
-### 2.5  Automobile / specialty
+### 2.5 Automotive / specialty
 
-- **Auto leasing / car sharing**: Corporate auto leasing and individual subscriptions
-- **NRC (former Nippon Rent-A-Car Service)**: Consolidated major rental-car operator in the past, with subsequent changes in consolidation / integration strategy
-- **Mobility-related investments**: MaaS, car sharing, and EV platforms
+- **Auto leasing / car-sharing**: corporate auto leasing / personal subscriptions
+- **NRC (formerly Nippon Rent-A-Car Service)**: consolidation as a subsidiary of a major rental-car company (in the past) → its consolidation / integration strategy has changed over time
+- **Mobility-related investment**: MaaS, car-sharing, EV platforms
 
-## 3. Earnings structure (by consolidated segment - overview)
+## 3. Revenue structure (by consolidated segment — overview)
 
-| Segment | Scale image (operating assets) |
+| Segment | Scale (operating assets) |
 |---|---|
-| Domestic corporate | 3-4 兆円 range |
-| International business | 2-3 兆円 range |
-| Aviation | 2-3 兆円 range (ACG basis) |
-| Environmental infrastructure | Several-hundred-billion-yen range |
-| Automobile / specialty | Trillion-yen scale |
+| Domestic corporate | 3-4 兆円range |
+| International business | 2-3 兆円range |
+| Aircraft | 2-3 兆円range (ACG basis) |
+| Environmental infrastructure | several-hundred-billion-yen range |
+| Automotive / specialty | trillion-yen scale |
 
-Consolidated operating assets exceed 10 兆円, placing the company in the industry Top 3.
+Consolidated operating assets exceed 10 兆円 (industry Top 3).
 
-## 4. Competitive / industry position (3  major integrated leasing structure)
+## 4. Competition / industry position (the 3 major general-lease structure)
 
-| Indicator | **Tokyo Century** | [[leasing-firms/orix-corp|ORIX]] | [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
+| Metric | **Tokyo Century** | [[leasing-firms/orix-corp|オリックス]] | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] |
 |---|---|---|---|
 | Listing segment | TSE PRIME 8439 | TSE PRIME 8591 | TSE PRIME 8593 |
-| Parent / major shareholders | Mizuho FG + ITOCHU | Independent, mainly institutional investors | MUFG (former Mitsubishi UFJ Lease) + Hitachi (former Hitachi Capital) |
-| Aviation business | **ACG (wholly owned subsidiary)** | Present | Present |
-| Real estate / PE | Limited | **Large-scale, with PE / real estate as core** | Mid-scale |
-| Overseas ratio | Nearly a majority through international business + ACG | High, centered on Americas loans | High, centered on Europe via former Hitachi Capital |
+| Parent (principal shareholders) | Mizuho FG + Itochu | Independent (institutional-investor-centered) | MUFG (former Mitsubishi UFJ Lease) + Hitachi (former Hitachi Capital) |
+| Aircraft business | **ACG (wholly owned subsidiary)** | Yes | Yes |
+| Real estate / PE | Limited | **Large-scale (PE / real estate at the core)** | Medium-scale |
+| Overseas ratio | Nearly a majority with international business + ACG | High (US-loan-centered) | High (Europe-centered via former Hitachi Capital) |
 
-## 5. Strategy / recent trends
+## 5. Strategy / recent developments
 
-- **Further aircraft-leasing expansion centered on ACG**: Capturing lease-aircraft demand as air travel recovers and LCCs expand.
-- **Environmental infrastructure expansion**: More investment in renewables, storage, hydrogen, and EV-related fields, coordinated with ITOCHU.
-- **Strengthening CSI Leasing in the Americas**: Expansion of oligopoly position in the North American IT-equipment leasing market.
-- **Asian mobility**: Auto leasing, car sharing, and EV-related investments in Southeast Asia.
-- **DX investment**: AI-based credit models and digital contract management.
-- **SDGs / TCFD response**: More active climate-related financial disclosure and expansion of sustainable finance products.
-- **Dividend payout ratio**: Maintains institutional-investor evaluation through shareholder returns, with payout ratio above 30%.
+- **Further expansion of aircraft leasing centered on ACG**: capturing lease-aircraft demand accompanying the recovery in air-travel demand and LCC expansion
+- **Expansion of environmental infrastructure**: strengthening investment in renewable energy, storage, hydrogen, and EV-related areas (in coordination with Itochu)
+- **Strengthening the Americas CSI Leasing**: expanding its oligopoly in the North American IT-equipment-leasing market
+- **Asian mobility**: auto-leasing, car-sharing, and EV-related investment in Southeast Asia
+- **DX investment**: AI-enabling the credit model / digitalizing contract management
+- **SDGs / TCFD response**: actively pursuing climate-related financial disclosure and expanding sustainable financial products
+- **Dividend-payout ratio**: maintaining institutional-investor regard through shareholder returns (dividend-payout ratio exceeding 30%)
 
 ## 6. Key KPIs (overview / consolidated)
 
-| Item | Scale image |
+| Item | Scale |
 |---|---|
-| Consolidated operating assets | Over 10 兆円 |
-| Consolidated operating revenue | 1.5-1.6 兆円 range |
-| Consolidated net income | 1,000-1,200 億円 range |
-| Consolidated ROA | Around 1.0% |
+| Consolidated operating assets | exceeding 10 兆円 |
+| Consolidated operating revenue | 1.5-1.6 兆円range |
+| Consolidated net income | 1,000-1,200 億円range |
+| Consolidated ROA | around 1.0% |
 | Listing | TSE PRIME 8439 |
-| ACG aircraft owned | Hundreds-scale fleet |
-| Employees (consolidated) | About 8,000 名 |
+| ACG aircraft holdings | several hundred aircraft |
+| Employees (consolidated) | approx. 8,000 名 |
 
-For details, see EDINET securities reports and Tokyo Century IR integrated reports.
+For details, refer to the EDINET securities report and the Tokyo Century IR integrated report.
 
-## 7. Risk / regulatory issues
+## 7. Risk / regulatory points
 
-- **Aircraft-business volatility**: Cyclicality in air travel demand plus model-specific supply / demand and residual-value risk.
-- **Resilience to rising interest rates**: Spread management when funding costs for leasing assets rise, especially for large aircraft procurement.
-- **Governance under the 2 -axis shareholder structure**: Management independence and conflict-of-interest controls under the 2 -axis parent-company structure of Mizuho FG + ITOCHU.
-- **Dollar-denominated risk at U.S.-based CSI / ACG**: FX volatility and U.S. economic-scenario effects.
-- **Long-term risk of environmental investments**: Long-term FIT pricing and fixed-cost-structure risk in renewable-energy projects.
-- **ESG / climate-related disclosure**: Expanding TCFD and sustainability-reporting requirements.
+- **Aircraft-business volatility**: the cyclicality of air-travel demand + supply-demand and residual-value risk by aircraft model
+- **Interest-rate-rise resilience**: spread management in a phase of rising lease-funding interest rates — especially for large-scale aircraft procurement
+- **Governance of the 2 axis shareholder structure**: management independence / conflict-of-interest management under a 2 axis parent-company structure of Mizuho FG + Itochu
+- **Dollar-denominated risk of the Americas CSI / ACG**: the impact of exchange-rate fluctuations / US-economy scenarios
+- **Long-term risk of environment-related investment**: long-term FIT-price / fixed-cost-structure risk of renewable-energy projects
+- **ESG / climate-related disclosure**: the expansion of TCFD / sustainability-report requirements
 
 ## Related
 
-- [[leasing-firms/tokyo-century|Tokyo Century]] -- parent entry
-- [[megabanks/mizuho-fg|Mizuho FG]] -- major-shareholder-side parent group
-- [[leasing-firms/orix-corp|ORIX]] -- largest integrated-leasing competitor
-- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] -- integrated-leasing competitor
-- [[leasing-firms/smfl|SMFL]] -- bank-affiliated leasing competitor
-- [[leasing-firms/mizuho-lease|Mizuho Leasing]] -- Mizuho-affiliated sister lessor
-- [[leasing-firms/nec-capital-solutions|NEC Capital Solutions]] -- vendor-affiliated lessor
+- [[leasing-firms/tokyo-century|東京センチュリー]] — parent entry
+- [[megabanks/mizuho-fg|みずほFG]] — parent group on the principal-shareholder side
+- [[leasing-firms/orix-corp|オリックス]] — largest general-lease competitor
+- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] — general-lease competitor
+- [[leasing-firms/smfl|SMFL]] — bank-affiliated lease competitor
+- [[leasing-firms/mizuho-lease|みずほリース]] — Mizuho-affiliated sister lease
+- [[leasing-firms/nec-capital-solutions|NECキャピタルソリューションズ]] — vendor-affiliated lease
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
@@ -130,6 +132,6 @@ For details, see EDINET securities reports and Tokyo Century IR integrated repor
 
 - Tokyo Century official company profile: https://www.tokyocentury.co.jp/jp/about/
 - Tokyo Century official IR: https://www.tokyocentury.co.jp/jp/ir/
-- EDINET disclosure document search: https://disclosure2.edinet-fsa.go.jp/
-- Japan Leasing Association official site: https://www.lease.or.jp/
-- ACG (Aviation Capital Group) official site (U.S. headquarters)
+- EDINET disclosure-document search: https://disclosure2.edinet-fsa.go.jp/
+- Japan Leasing Association official: https://www.lease.or.jp/
+- ACG (Aviation Capital Group) official (US head office)

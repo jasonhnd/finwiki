@@ -1,50 +1,51 @@
 ---
 source: payments/japan-code-payment-competitive-map
-source_hash: e3cdd6c74dfc41e0
+source_hash: 12c89faffbd71346
 lang: zh
 status: machine
 fidelity: ok
-title: "日本码支付竞争地图"
-translated_at: 2026-06-01T03:31:12.270Z
+title: "Japan code-payment competitive map"
+translated_at: 2026-06-19T06:09:18.122Z
 ---
-# 日本码支付竞争地图
 
-## 概览
+# Japan code-payment competitive map
 
-日本码支付市场可被记录为钱包生态、商户受理网络、积分预算以及结算 / 资金转移能力之间的竞争。METI 的 2025  无现金支付发布显示，无现金比率为 **58.0%**，并将码支付识别为**无现金支付金额的 10.2%，即 16.6  万亿日元**；无现金推进协会则发布码支付趋势调查，覆盖店铺金额 / 件数、汇款、充值余额和 MAU。
+## Overview
 
-本页将码支付分析归入 [[payments/INDEX|支付领域]]，并把 [[payments/INDEX|payments INDEX]] 中的消费者钱包运营商与 [[payment-firms/netstars|Netstars]]、[[payments/psp-merchant-settlement-risk|商户结算风险]] 等 PSP / 网关基础设施连接起来。
+日本的码支付（code-payment）市场被记录为钱包生态系统、商户受理网络、忠诚度预算以及结算／资金移动能力之间的较量。经济产业省的 2025 无现金支付发布报告了 **58.0%** 的无现金比率，并将码支付认定为**无现金支付额的 10.2%，即 16.6 万亿日元**，而无现金推进协议会则发布涵盖门店金额／笔数、汇款、充值余额和 MAU 的码支付趋势调查。
 
-## 竞争路线
+本页将码支付分析归入 [[payments/INDEX|payments]] 之下，并将 [[payments/INDEX|payments INDEX]] 中的消费者钱包运营商与 [[payment-firms/netstars|Netstars]]、[[payments/psp-merchant-settlement-risk|merchant settlement risk]] 等 PSP／网关基础设施相连接。
 
-| 路线 | 核心路径 | 战略解读 |
+## Competitive Lanes
+
+| Lane | Core route | Strategic reading |
 |---|---|---|
-| SoftBank / LY 钱包 | [[payment-firms/paypay|PayPay]] 与 [[megabanks/paypay-fg|PayPay FG]] | 最大的消费者钱包引力、商户受理、积分 / 活动，以及银行 / 卡 / 证券交叉销售。 |
-| Rakuten 生态 | [[payment-firms/rakuten-fg|Rakuten FG]], [[card-issuers/rakuten-card|Rakuten Card]], [[payment-firms/rakuten-edy|Rakuten Edy]] | 电商、卡、积分、银行 / 证券邻接；App 与卡的经济性相互作用。 |
-| 电信钱包 | [[payment-firms/au-payment|au PAY]] 与 [[megabanks/au-fh|au Financial Holdings]] | KDDI 分发、电信计费、银行 / 卡 / 证券 / 保险组合。 |
-| NTT docomo 路线 | [[megabanks/ndfg|NTT docomo FG]] | d Pay / d Card / 面向银行的战略应随着结构稳定通过 NDFG 跟踪。 |
-| 市场平台钱包 | [[payment-firms/merpay|Merpay]] 与 [[payment-firms/mercari-hd|Mercari HD]] | 市场余额、BNPL / 信贷、身份，以及银行牌照抱负。 |
-| 银行连接钱包 | [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] | COIN+ / Air Wallet 路线；账户连接支付和 Recruit 商户 / 消费者界面。 |
-| 旅行钱包 | [[payment-firms/jal-payment-port|JAL Payment Port]] | 忠诚度 / 旅行嵌入式金融、预付、转账、银行代理。 |
-| QR 网关 / PSP | [[payment-firms/netstars|Netstars]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/gmo-payment-gateway|GMO-PG]] | 商户侧聚合、开户、结算和风险控制。 |
+| SoftBank / LY 钱包 | [[payment-firms/paypay|PayPay]] and [[megabanks/paypay-fg|PayPay FG]] | 最大的消费者钱包引力、商户受理、积分／活动、银行／卡／证券交叉销售。 |
+| 乐天生态系统 | [[payment-firms/rakuten-fg|Rakuten FG]], [[card-issuers/rakuten-card|Rakuten Card]], [[payment-firms/rakuten-edy|Rakuten Edy]] | 电商、卡、积分、银行／证券的邻接性；应用与卡的经济性相互作用。 |
+| 电信钱包 | [[payment-firms/au-payment|au PAY]] and [[megabanks/au-fh|au Financial Holdings]] | KDDI 的分销、电信账单、银行／卡／证券／保险捆绑。 |
+| NTT docomo 路线 | [[megabanks/ndfg|NTT docomo FG]] | d払い／d 卡／面向银行的战略将随着结构稳定通过 NDFG 进行追踪。 |
+| 市场平台钱包 | [[payment-firms/merpay|Merpay]] and [[payment-firms/mercari-hd|Mercari HD]] | 市场平台余额、BNPL／信用、身份认证以及对银行牌照的雄心。 |
+| 银行联动钱包 | [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] | COIN+／Air Wallet 路线；账户联动支付与 Recruit 的商户／消费者界面。 |
+| 旅行钱包 | [[payment-firms/jal-payment-port|JAL Payment Port]] | 忠诚度／旅行嵌入式金融、预付、转账、银行代理。 |
+| QR 网关／PSP | [[payment-firms/netstars|Netstars]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/gmo-payment-gateway|GMO-PG]] | 商户侧聚合、入网、结算与风险管理。 |
 
-## 真正驱动竞争的因素
+## What Actually Drives Competition
 
-- 消费者频次：当支付 App 成为便利店、餐饮、交通邻近购买和小商户消费的习惯性工具时，它们才会胜出。
-- 商户受理：广泛受理需要 PSP、收单机构、QR 网关和较低的运营摩擦，而不只是用户激励。
-- 资金来源经济性：预付余额、银行借记、信用卡绑定支付和后付会形成不同的利润率和风险特征。
-- 忠诚度预算：积分可以购买使用量，但可持续差异化需要商户工具、数据闭环或生态交叉销售。
-- 监管边界：许多钱包需要在 [[payments/funds-transfer-service-providers-japan-index|资金转移]]、[[payments/prepaid-payment-instrument-issuers-japan-index|预付式支付工具]]、卡收单和信贷之间进行谨慎路径设计。
+- 消费者频率：当支付应用在便利店、餐厅、交通邻接消费及小型商户中成为习惯时即可胜出。
+- 商户受理：广泛受理不仅需要用户激励，还需要 PSP、收单方、QR 网关以及低运营摩擦。
+- 资金来源经济性：预付余额、银行借记、信用卡联动支付和后付各自产生不同的利润率和风险特征。
+- 忠诚度预算：积分可以买来使用量，但可持续的差异化需要商户工具、数据闭环或生态系统交叉销售。
+- 监管边界：许多钱包需要在 [[payments/funds-transfer-service-providers-japan-index|funds transfer]]、[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid]]、卡收单和信用之间进行谨慎的路由。
 
-## 运营方观察框架
+## Operator Lens
 
-| 问题 | 路径 |
+| Question | Route |
 |---|---|
-| 这是钱包还是商户 PSP？ | 将 [[payment-firms/paypay|PayPay]] 与 [[payment-firms/netstars|Netstars]] 和 [[payments/psp-merchant-settlement-risk]] 比较。 |
-| 储值是否可提现或具备转账能力？ | 使用 [[payments/funds-transfer-vs-prepaid-boundary]]。 |
-| 码支付 App 背后是否有信贷？ | 使用 [[payments/credit-purchase-card-operators-japan-index]]。 |
-| 该 App 是否依赖积分经济？ | 使用 [[loyalty/japan-points-landscape]]。 |
-| 银行账户是否正在成为资金轨道？ | 使用 [[banking/baas-japan-landscape]] 和 [[banking/INDEX]]。 |
+| 这是钱包还是商户 PSP？ | 将 [[payment-firms/paypay|PayPay]] 与 [[payment-firms/netstars|Netstars]] 和 [[payments/psp-merchant-settlement-risk]] 进行比较。 |
+| 储值是否可提现或可转账？ | 使用 [[payments/funds-transfer-vs-prepaid-boundary]]。 |
+| 码支付应用背后是否存在信用？ | 使用 [[payments/credit-purchase-card-operators-japan-index]]。 |
+| 该应用是否依赖积分经济性？ | 使用 [[loyalty/japan-points-landscape]]。 |
+| 银行账户是否正在成为资金供给轨道？ | 使用 [[banking/baas-japan-landscape]] 和 [[banking/INDEX]]。 |
 
 ## Related
 
@@ -59,6 +60,6 @@ translated_at: 2026-06-01T03:31:12.270Z
 
 ## Sources
 
-- METI, 2025  无现金支付比率发布: https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
-- Cashless Promotion Council, code-payment trend survey publication page: https://paymentsjapan.or.jp/publications/code-payments-20260330/
-- FSA funds-transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- 经济产业省，2025 无现金支付比率发布：https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
+- 无现金推进协议会，码支付趋势调查公布页面：https://paymentsjapan.or.jp/publications/code-payments-20260330/
+- 金融厅资金移动业者一览：https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf

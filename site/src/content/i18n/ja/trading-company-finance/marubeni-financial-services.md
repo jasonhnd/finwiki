@@ -1,95 +1,92 @@
 ---
 source: trading-company-finance/marubeni-financial-services
-source_hash: 95170397741da394
+source_hash: e9df83ef8c949d24
 lang: ja
 status: machine
 fidelity: ok
-title: "丸紅フィナンシャルサービス"
-translated_at: 2026-06-02T14:54:39.053Z
+title: "丸紅フィナンス (Marubeni Finance Corporation)"
+translated_at: 2026-06-19T13:13:22.622Z
 ---
-# 丸紅フィナンシャルサービス
 
-## ウィキ上の位置づけ
+# 丸紅フィナンス (Marubeni Finance Corporation)
 
-この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置かれる。[[leasing-firms/mizuho-lease|みずほリース]] は同業・隣接項目との比較先であり、2024 は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+## Wiki route
 
-## 要約
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-丸紅フィナンシャルサービス は、丸紅フィナンシャルサービス の公開情報で確認できる事業領域 を主な文脈として読む総合商社グループ内の金融サービス会社 である。[[leasing-firms/fuyo-lease|芙蓉総合リース]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+## 1. 会社概要
 
-## [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]. ライセンス・グループ境界
-
-| 項目 | メモ |
+| Item | Notes |
 |---|---|
-| 正式名称 | 丸紅フィナンシャルサービス |
-| 種別 | 総合商社グループ内の金融サービス会社 |
-| 主な市場 | 丸紅フィナンシャルサービス の公開情報で確認できる事業領域 |
-| 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
-| 比較参照 | [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] |
-| 関連境界 | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] |
+| Wiki role | **丸紅グループの内向け金融** + 芙蓉グループ系金融機能の一翼 |
 
-## [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. 事業モデル
+### 丸紅系金融機能の配置
 
-丸紅フィナンシャルサービス の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは [[banking/INDEX|banking index]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+| 層 | 主体 | 役割 |
+|---|---|---|
+| **外向け銀行 (主取引)** | [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/mizuho-bank|みずほ銀行]] | 商業銀行・対外金融サービス |
+| **外向けリース (主)** | [[leasing-firms/mizuho-lease|みずほリース]] | 2024 年に 丸紅 が戦略株主として参画 |
+| **外向けリース (芙蓉)** | [[leasing-firms/fuyo-lease|芙蓉総合リース]] (8424) | 芙蓉グループ系、丸紅も歴史的株主 |
+| **損保 (芙蓉系)** | [[non-life-insurers/tokio-marine|東京海上HD]] | 芙蓉グループ系主要損保 |
+| **内向け / グループ金融** | **丸紅フィナンス (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-| 観点 | 読み方 |
+## 2. 事業セグメント・マップ
+
+| セグメント | 内容 |
 |---|---|
-| 営業地盤 | 丸紅フィナンシャルサービス の公開情報で確認できる事業領域 での顧客接点、店舗網、法人取引、個人向けサービスを確認する。 |
-| ライセンス | 免許、登録、業務区分、監督当局を公開一覧で確認する。 |
-| グループ | 親会社、持株会社、提携先、協同組織との関係を切り分ける。 |
-| 比較 | 同じ地域、同じ業態、同じグループ階層の項目と横並びで読む。 |
+| **CMS (キャッシュマネジメントサービス)** | 丸紅グループ各社の決済集中・資金プール |
+| **一括ファクタリング** | グループ各社の売掛債権買取 / 支払い代行 |
+| **グループファイナンス** | グループ内会社への short-term / mid-term ローン |
+| **為替・金利リスクヘッジ仲介** | グループ各社向けデリバティブ仲介 |
+| **海外送金サービス** | グループ各社の海外向け送金・回収 |
+| **トレード・ファイナンス補助** | 丸紅本体の電力・プラント・食料・農薬・化学品 取引に紐づく与信補助 |
 
-## 1. このページが重要な理由
+### 競合 / Peer
 
-- 丸紅フィナンシャルサービス を会社または制度単位で参照できる入口にする。
-- 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[megabanks/mizuho-fg|みずほ FG]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[megabanks/mizuho-bank|みずほ銀行]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+| 商社 | 内向け金融子会社 | 外向けリース系 |
+|---|---|---|
+| 丸紅 | **丸紅フィナンス (本ページ)** | [[leasing-firms/mizuho-lease|みずほリース]] (2024〜戦略株主) / [[leasing-firms/fuyo-lease|芙蓉総合リース]] |
+| 三菱商事 | [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (上場) |
+| 三井物産 | [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] | [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] |
+| 住友商事 | [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] | [[leasing-firms/smfl|SMFL]] (SMFG 合弁) |
+| 伊藤忠 | [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] | [[leasing-firms/tokyo-century|東京センチュリー]] (みずほ合弁、上場) |
+| 豊田通商 | [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
+| 双日 | [[trading-company-finance/sojitz-finance|双日フィナンス]] | 専業なし |
 
-## 補足メモ
+## 4. 規制・政策
 
-- [[leasing-firms/mizuho-lease|みずほリース]] は、公開情報を照合する際の追加参照点として扱う。
-- 2024 年 は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/fuyo-lease|芙蓉総合リース]] は、公開情報を照合する際の追加参照点として扱う。
-- 8424 は、公開情報を照合する際の追加参照点として扱う。
-- [[non-life-insurers/tokio-marine|東京海上HD]] は、公開情報を照合する際の追加参照点として扱う。
-- 2 は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/mizuho-lease|みずほリース]] は、公開情報を照合する際の追加参照点として扱う。
-- 2024 は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/fuyo-lease|芙蓉総合リース]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] は、公開情報を照合する際の追加参照点として扱う。
-- [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/smfl|SMFL]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/tokyo-century|東京センチュリー]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] は、公開情報を照合する際の追加参照点として扱う。
-- [[trading-company-finance/sojitz-finance|双日フィナンス]] は、公開情報を照合する際の追加参照点として扱う。
-- 4 は、公開情報を照合する際の追加参照点として扱う。
-- 2024 は、公開情報を照合する際の追加参照点として扱う。
-- [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] は、公開情報を照合する際の追加参照点として扱う。
-- 2024 は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/mizuho-lease|みずほリース]] は、公開情報を照合する際の追加参照点として扱う。
-- 2024 は、公開情報を照合する際の追加参照点として扱う。
-- [[leasing-firms/fuyo-lease|芙蓉総合リース]] は、公開情報を照合する際の追加参照点として扱う。
-- [[megabanks/mizuho-fg|みずほ FG]] は、公開情報を照合する際の追加参照点として扱う。
+- **主管**：金融庁 (貸金業 / 為替業務関連)
+- **規制論点**：
+  - グループ内金融取引の **移転価格税制** (特に海外 IPP / プラント案件)
+  - グループファクタリングと **割賦販売法 / 貸金業法** の境界
+  - 連結会計上の **内部取引消去**
+- **直近政策論点**:
+  - 2024〜 [[financial-regulators/boj-monetary-policy|日銀政策金利正常化]] → グループ内金利付与の再評価
+  - 2024〜 みずほリース 資本関係拡大 → 外向け asset finance 機能の強化
 
-## 関連
+## Related
 
-- [[non-life-insurers/tokio-marine|東京海上HD]]
-- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]
-- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]
-- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]
-- [[trading-company-finance/sojitz-finance|双日フィナンス]]
+- [[leasing-firms/mizuho-lease|みずほリース]] (2024〜戦略株主)
+- [[leasing-firms/fuyo-lease|芙蓉総合リース]] (芙蓉グループ peer)
+- [[megabanks/mizuho-fg|みずほ FG]] (主取引銀行)
+- [[non-life-insurers/tokio-marine|東京海上HD]] (芙蓉グループ系損保)
+- [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (peer)
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (peer)
+- [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (peer)
+- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (peer)
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
+- [[trading-company-finance/sojitz-finance|双日フィナンス]] (peer)
 - [[banking/INDEX|banking index]]
+- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
-## 出典
+## Sources
 
-- 金融庁の公開登録一覧: 丸紅フィナンシャルサービス に関する公開情報（[[finance/japan-acquisition-finance|日本アクイジションファイナンス]]）。
-- 公式会社情報: 丸紅フィナンシャルサービス に関する公開情報（8002）。
-- 上場会社開示または公開資料: 丸紅フィナンシャルサービス に関する公開情報（2026-05-24）。
+- 丸紅株式会社 (8002) 有価証券報告書 (EDINET 開示) — 関係会社一覧
+- 丸紅 公式 IR / 統合報告書 (グループ会社一覧)
+- 公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/
+- EDINET 有価証券報告書検索 https://disclosure.edinet-fsa.go.jp/
+
+---
+
+> [!info] 検証状況
+> confidence: **tentative** (公開情報ベース 2026-05-24)。丸紅フィナンス は非上場子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 丸紅 有価証券報告書 関係会社一覧 を要参照。**親 商社 ページ `marubeni-corp.md` は未作成 → 将来的に backlog として追加予定**。

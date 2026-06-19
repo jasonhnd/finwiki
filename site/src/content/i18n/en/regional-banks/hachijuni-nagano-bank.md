@@ -1,14 +1,14 @@
 ---
 source: regional-banks/hachijuni-nagano-bank
-source_hash: 3e0d703a0ec5a15a
+source_hash: 7ce8e3ca45c9f159
 lang: en
 status: machine
 fidelity: ok
-title: "82 Nagano Bank"
-translated_at: 2026-05-31T15:29:03.965Z
+title: "Hachijuni Nagano Bank"
+translated_at: 2026-06-19T12:43:19.983Z
 ---
 
-# 82 Nagano Bank
+# Hachijuni Nagano Bank
 
 
 ## Wiki route
@@ -17,26 +17,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hachijuni Nagano Bank, Ltd. is a regional bank with its head office in Nagano Prefecture listed on the Financial Services Agency's list of bank licenses. After the merger of the former [[regional-banks/hachijuni-bank|八十二銀行]] and the former Nagano Bank, this page has the current operating-company boundary as the legal-name entity.
+Hachijuni Nagano Bank, Ltd. is a regional bank headquartered in Nagano Prefecture and listed on the FSA's bank license list. As the legal-name entity following the integration of the former [[regional-banks/hachijuni-bank|八十二銀行]] and the former Nagano Bank, this page holds the current operating-company boundary.
 
 ## 1. License / group boundary
 
-|Item|Notes|
+| Item | Notes |
 |---|---|
-|Legal name|Hachijuni Nagano Bank, Ltd.|
-|License route|Banking Act regional bank; FSA bank license list|
-|Group boundary|Successor operating bank after Hachijuni / Nagano Bank integration|
-|Home market|Nagano / Nagano City|
-|Wiki role|Current Nagano regional-bank operating-company page|
+| Legal name | Hachijuni Nagano Bank, Ltd. |
+| License route | Banking Act regional bank; FSA bank license list |
+| Group boundary | Successor operating bank after Hachijuni / Nagano Bank integration |
+| Home market | Nagano / Nagano City |
+| Wiki role | Current Nagano regional-bank operating-company page |
 
 ## 2. Operating model
 
-Hachijuni Nagano Bank is a regional bank responsible for retail deposits, SME finance, manufacturing main-bank relationships, tourism finance, and regional consulting in Nagano Prefecture. The former Hachijuni Bank page will remain as historical / predecessor analysis, and the current legal-name exact anchor will be separated into this page. Cross-prefecture regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]].
+Hachijuni Nagano Bank is a regional bank handling retail deposits, SME finance, manufacturing main-bank relationships, tourism finance, and regional consulting in Nagano Prefecture. The former Hachijuni Bank page is retained as historical / predecessor analysis, while the current legal-name exact anchor is separated onto this page. For cross-prefecture regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Corrects the earlier forecast boundary around the Hachijuni / Nagano Bank integration.
-- Closes the FSA exact-name page for Yajuni Nagano Bank, Ltd.
+- Closes the FSA exact-name page for Hachijuni Nagano Bank, Ltd.
 - Provides a current peer anchor for [[regional-banks/yamanashi-chuo-bank]], [[regional-banks/daishi-hokuetsu-bank]], and [[regional-banks/fukui-bank]].
 
 ## Related

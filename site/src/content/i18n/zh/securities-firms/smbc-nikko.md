@@ -1,141 +1,142 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: a210e4583200e645
+source_hash: d8a5097363d4d662
 lang: zh
 status: machine
 fidelity: ok
-title: "SMBC日兴证券"
-translated_at: 2026-06-01T02:31:57.166Z
+title: "SMBC 日兴证券 (SMBC Nikko Securities)"
+translated_at: 2026-06-19T12:43:19.894Z
 ---
-# SMBC日兴证券
+
+# SMBC 日兴证券 (SMBC Nikko Securities)
 
 ## Wiki route
 
-本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 对照阅读以理解同业 / 对比语境，也可与 [[securities/INDEX|securities index]] 一起阅读以把握更大的系统和监管边界。
+本条目归属于 [[securities-firms/INDEX|securities-firms INDEX]]。请对照 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 了解同业／对比背景，并对照 [[securities/INDEX|securities index]] 了解更广泛的系统／监管边界。
 
 ## TL;DR
 
-**三井住友 FG（[[megabanks/smfg]]）100%子公司，日本国内大型 5 大证券之一**。SMBC 日兴证券株式会社为非上市公司，是 [[megabanks/smfg]] 连结子公司。其谱系波折：**起源于 1918 年“川岛屋商店”创业，1944 年旧日兴证券设立 → 2009 年被 Citigroup 完全子公司化 → 2010-10 SMFG 以约 7700 億円取得 → 2011-04 改称 SMBC 日兴证券**。在**国内大型 5 大证券**（[[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] / SMBC 日兴 / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities）中，它是唯一的“megabank 100%子公司模型”（Mizuho Securities 和 Mitsubishi UFJ Morgan Stanley Securities 通过中间控股公司或 JV 形态）。因 **2022 年相场操纵事件（block-offer 交易）**，曾受到业务改善命令 + 业务停止命令，治理重建仍在持续。战略轴是“retail 高净值客户特化 + [[megabanks/smfg]] group wholesale 协作 + Olive 品牌整合”。
+**三井住友 FG（[[megabanks/smfg]]）100% 子公司的国内大型 5  大证券之一角**。SMBC 日兴证券株式会社（非上市，[[megabanks/smfg]] 合并子公司）。拥有 **以 1918 年「川岛屋商店」创业为起源，1944 年 设立旧 日兴证券 → 2009 年 经花旗集团完全子公司化 → 2010-10  SMFG 以约 7700 億円 取得 → 2011-04  更名为 SMBC 日兴证券** 这一波澜起伏的谱系。在 **国内大型 5  大证券**（[[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] / SMBC 日兴 / 瑞穗证券 / 三菱 UFJ 摩根士丹利证券）之中，是唯一的「大型银行 100% 子公司模式」（瑞穗证券・三菱 UFJ 摩根士丹利证券是经由中间控股公司或 JV 形态）。因 **2022 年 的操纵市场事件（大宗交易）** 受到业务改善命令 + 业务停止命令，治理重建仍在持续中。战略轴为「零售富裕层专注 + [[megabanks/smfg]] 集团・批发协作 + Olive 品牌整合」。
 
 ## 1. 公司概要
 
 **正式名**：SMBC 日兴证券株式会社
 **英文名**：SMBC Nikko Securities Inc.
-**设立**：1944（作为旧日兴证券）/ 起源 1918（川岛屋商店）
-**现法人名称**：2011-04-01（改称 SMBC 日兴证券）
+**设立**：1944（作为旧 日兴证券）/ 起源 1918（川岛屋商店）
+**现法人名称**：2011-04-01（更名为 SMBC 日兴证券）
 **总部**：东京都千代田区丸之内
-**母公司**：株式会社三井住友フィナンシャルグループ（[[megabanks/smfg]]，100% 连结子公司）
-**业态**：国内大型 5 大证券（非上市，通过母公司 [[megabanks/smfg]] 8316 上市）
+**母公司**：株式会社三井住友金融集团（[[megabanks/smfg]]，100% 合并子公司）
+**业态**：国内大型 5  大证券（非上市・经由母公司 [[megabanks/smfg]] 8316 上市）
 
-### 主要子公司和关联公司（公开信息口径）
+### 主要子公司・关联公司（公开信息基础）
 
 ```
-SMBC 日兴证券（[[megabanks/smfg]] 100% 连结子公司）
+SMBC 日兴证券（[[megabanks/smfg]] 100% 合并子公司）
   ├── SMBC Capital Markets, Inc.（美国据点，衍生品 / 市场业务）
   ├── SMBC Nikko Securities America, Inc.（美国 IB / 证券业务）
   ├── SMBC Nikko Securities (Hong Kong) Limited（香港 IB）
   ├── SMBC Nikko Securities (Europe) Ltd.（欧洲 IB，伦敦据点）
-  └── 日本国内约 130 个营业网点（retail 高净值客户销售网络）
+  └── 国内营业店约 130 据点（零售富裕层营业网络）
 ```
 
-> 注：海外子公司群的连结范围和名称会随时期变化。最新情况需参照 [[megabanks/smfg]] annual securities report 的连结子公司列表。
+> 注: 海外子公司群的合并范围・名称随时期变动。最新信息需参照 [[megabanks/smfg]] 有价证券报告书的合并子公司一览。
 
-### 重要年表（公开信息口径）
+### 重要年表（公开信息基础）
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| **1918** | **川岛屋商店创立**（现 SMBC 日兴证券起源，东京） |
-| **1944** | **日兴证券设立**（战时证券业重组） |
-| 战后～1990年代 | 作为“四大证券”（[[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] / 日兴 / 山一）之一确立地位。山一证券于 1997 年自主停业 |
-| **1998-09** | **与美国 Travelers（Citi 系）提携**，设立 Nikko Salomon Smith Barney（JSSB）合资公司（wholesale / IB） |
-| **2002** | **Nikko Cordial Group HD 设立**（控股公司化，Citigroup 系资本参与） |
-| **2006-12** | Nikko Cordial Securities 过往年度财务粉饰被发现（涉及连结子公司 NPI，被指定为特设注意市场股票） |
-| **2008-01** | **Citigroup TOB → Nikko Cordial Group 完全子公司化**（美国 Citi 以约 1.6 兆円规模取得日本上市系证券控股公司） |
-| **2009-10** | **Citi 决定出售给 [[megabanks/smfg]]**（雷曼冲击后美国 Citi 业务整理，战略出售日本 retail 网点） |
-| **2010-10** | **[[megabanks/smfg]] 从 Citi 以约 7700 億円取得 → [[megabanks/smfg]] 连结子公司化**（旧 Nikko Cordial Securities 从美国资本回归日本 megabank 系资本） |
-| **2011-04-01** | **改称 SMBC 日兴证券**（从公司名去除“Cordial”“Citi”色彩，整合为 [[megabanks/smfg]] group brand） |
-| 2010年代起 | 强化 retail（约 130营业网点）+ wholesale（[[megabanks/smfg]] IB 协作）+ 海外（美洲 / 欧洲 / 香港）的 3 轴展开 |
-| **2022-03** | **相场操纵事件曝光**（block-offer 交易中的违法股价支撑；包括前副社长在内的高管因违反金融商品交易法被在宅起诉） |
-| **2022-10** | **金融厅发布业务改善命令 + 业务停止命令**（部分业务，3 个月）→ 要求彻底改革治理和合规体制 |
-| **2023～2024** | **执行防止再发措施**（强化内部控制、扩充培训、接收第三方委员会报告、包括经营层更替的人事刷新） |
-| **2024** | **[[megabanks/smfg]] group integration strategy**（个人业务通过 Olive brand 推进集团横向金融服务，SMBC 日兴证券账户也加强 Olive 连接） |
+| **1918** | **川岛屋商店 创业**（现 SMBC 日兴证券的起源，东京）|
+| **1944** | **日兴证券 设立**（战时下证券业重组）|
+| 战后〜1990s | 作为「四大证券」（[[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] / 日兴 / 山一）之一角确立。山一证券于 1997 年 自主停业 |
+| **1998-09** | **与美国旅行者（花旗系）提携**，设立日兴所罗门美邦（JSSB）合资（批发 / IB） |
+| **2002** | **日兴 Cordial 集团 HD 设立**（控股公司化，花旗集团系资本参与）|
+| **2006-12** | 日兴 Cordial 证券 过往年度决算粉饰曝光（合并子公司 NPI 相关，特设注意市场品种指定）|
+| **2008-01** | **花旗集团 TOB → 日兴 Cordial 集团完全子公司化**（美国花旗以约 1.6 兆円 规模取得日本上市系证券控股公司）|
+| **2009-10** | **花旗决定出售给 [[megabanks/smfg]]**（雷曼冲击后美国花旗的业务整理，日本零售据点群的战略性出售）|
+| **2010-10** | **[[megabanks/smfg]] 以约 7700 億円 自花旗取得 → [[megabanks/smfg]] 合并子公司化**（旧 日兴 Cordial 证券，从美系资本回归邦银大型系资本）|
+| **2011-04-01** | **更名为 SMBC 日兴证券**（从公司名中拭去「Cordial」「花旗」色彩，[[megabanks/smfg]] 集团品牌整合）|
+| 2010s〜 | 强化零售（营业店 约 130）+ 批发（[[megabanks/smfg]] IB 协作）+ 海外（美洲 / 欧洲 / 香港）的 3  轴展开 |
+| **2022-03** | **操纵市场事件曝光**（大宗交易中的违法股价支撑。含前副社长在内的高管因违反金融商品交易法被居家起诉）|
+| **2022-10** | **金融厅下达业务改善命令 + 业务停止命令**（部分业务，3  个月）→ 要求对治理・合规体制进行根本性改革 |
+| **2023〜2024** | **实施再发防止措施**（强化内部统制、扩充培训、收到第三方委员会报告书、含经营层更替的人事刷新）|
+| **2024** | **[[megabanks/smfg]] 集团整合战略**（面向个人经由 Olive 品牌推进跨集团金融服务，SMBC 日兴的证券账户亦强化 Olive 连接）|
 
-> 注：2022 年事件的刑事程序仍有持续部分，本页基于公开信息。详情需参照金融厅公表资料和东京地方法院判决资料。
+> 注: 2022 年 事件的刑事程序有持续中的部分，以公开信息为基础。详情需参照金融厅公布资料・东京地方法院判决资料。
 
-## 2. 业务板块地图
+## 2. 业务板块・地图
 
-| Segment | 内容 | 特点 |
+| 板块 | 内容 | 特征 |
 |---|---|---|
-| Retail securities | 日本全国约 130 个营业网点 | **高净值客户特化**战略，重视面对面销售。是仅次于 Nomura、Daiwa 的对面 retail 规模 |
-| Online / direct | Online trading | 通过 Olive brand（[[megabanks/smfg]] 横向 app）形成集团整合渠道 |
-| Wholesale / IB | 与 [[megabanks/smfg]] group IB 协作 | ECM / DCM / M&A，活用 SMBC 法人客户基础 |
-| Global IB（美洲） | SMBC Nikko Securities America / SMBC Capital Markets | 美国市场业务 + IB，继承 Citi 系时代的部分人脉和据点 |
-| Global IB（欧洲） | SMBC Nikko Securities (Europe) Ltd. | 伦敦据点 |
-| Global IB（亚洲） | SMBC Nikko Securities (Hong Kong) | 香港 IB / 大中华区 |
-| 市场业务 | 衍生品 / 结构债 / 机构投资者业务 | 以与 [[megabanks/smfg]] 银行业务联动的产品为中心 |
-| 调查 / 经济 | SMBC Nikko Research Center | 集团内智库功能 |
+| 零售证券 | 全国营业店约 130 据点 | **富裕层专注**战略，重视对面营业。仅次于野村・大和规模的对面零售 |
+| 网络 / 直销 | 在线交易 | 经由 Olive 品牌（[[megabanks/smfg]] 横向贯通应用）的集团整合渠道 |
+| 批发 / IB | 与 [[megabanks/smfg]] 集团 IB 协作 | ECM / DCM / M&A，活用 SMBC 法人交易基础 |
+| 全球 IB（美洲）| SMBC Nikko Securities America / SMBC Capital Markets | 美国市场业务 + IB，继承花旗系列时代的人脉・据点 |
+| 全球 IB（欧洲）| SMBC Nikko Securities (Europe) Ltd. | 伦敦据点 |
+| 全球 IB（亚洲）| SMBC Nikko Securities (Hong Kong) | 香港 IB / 中华圈 |
+| 市场业务 | 衍生品 / 结构性债券 / 机构投资者业务 | 以与 [[megabanks/smfg]] 银行业务联动的产品为主 |
+| 调查 / 经济 | SMBC 日兴研究中心 | 集团内智库功能 |
 
-### 集团内定位（[[megabanks/smfg]]内）
+### 集团内定位（[[megabanks/smfg]] 内）
 
-[[megabanks/smfg]] 的 **“银・信・证・卡”四支柱战略** 中的证券承担者。与 SMBC（三井住友银行）、SMBC Trust Bank、SMCC（三井住友卡）并列为核心子公司。在 **Olive brand**（2023起，[[megabanks/smfg]] 的 super app）中，推进将证券账户整合为集团渠道的战略。^[extracted]
+[[megabanks/smfg]] 的 **「银・信・证・卡」四大支柱战略** 的证券担当者。与 SMBC（三井住友银行）・SMBC 信托银行・SMCC（三井住友卡）并列的核心子公司。正在推进于 **Olive 品牌**（2023〜，[[megabanks/smfg]] 的超级应用）中将证券账户整合为渠道的战略。^[extracted]
 
-### Retail strategy
+### 零售战略
 
-- **高净值客户特化**：将约 130 个营业网点重新定义为“面对面进行资产管理咨询的高净值客户接点”；大众层引导至 Olive / online
-- **Olive 整合**：通过 [[megabanks/smfg]] group 个人金融 app Olive 一体管理银行、银行卡、证券账户 → 作为 megabank 系与 [[megabanks/mufg]]（略有滞后）、[[megabanks/mizuho-fg]] 差异化
-- **对 online securities**：面对 [[megabanks/sbi-hd]] / [[securities-firms/monex-group]] / [[payment-firms/rakuten-fg]] 系证券的 online low-cost 攻势，以“面对面 + 集团银行账户连接”防守
+- **富裕层专注**: 将营业店约 130  据点重新定义为「以对面方式进行资产运营咨询的富裕层接点」。大众层引导至经由 Olive / 在线
+- **Olive 整合**: 经由 [[megabanks/smfg]] 集团的个人金融应用 Olive 一体化管理银行・卡・证券账户 → 作为大型银行系与 [[megabanks/mufg]]（稍有滞后）・[[megabanks/mizuho-fg]] 形成差异化
+- **对 网络证券**: 针对 [[megabanks/sbi-hd]] / [[securities-firms/monex-group]] / [[payment-firms/rakuten-fg]] 系证券的在线低成本攻势，以「对面 + 集团银行账户协作」防御
 
-### Wholesale / IB strategy
+### 批发 / IB 战略
 
-- **[[megabanks/smfg]] IB 协作**：大型 M&A、ECM、DCM 案件中，SMBC（银行）和 SMBC 日兴（证券）进行同步提案
-- **对 [[securities-firms/nomura-hd]]**：为在国内 IB 排名中对抗 Nomura，关键在于利用银行系基础进行 syndicate、融资 + 证券一体提案
-- **对 Mitsubishi UFJ Morgan Stanley Securities**：相较拥有 Morgan Stanley JV 的 MUMSS，SMBC 日兴强调“单独・独立 IB”的机动性（[[megabanks/smfg]] 另有与 Jefferies 的业务资本提携来补充 IB）
+- **[[megabanks/smfg]] IB 协作**: 在大型 M&A・ECM・DCM 案件中以 SMBC（银行）・SMBC 日兴（证券）同时提案体制
+- **对 [[securities-firms/nomura-hd]]**: 为在国内 IB 排名中对抗野村，活用银行系基础的辛迪加・融资 + 证券一体提案为关键
+- **对 三菱 UFJ 摩根士丹利证券**: 针对拥有 Morgan Stanley JV 的 MUMSS，SMBC 日兴以「单独・独立 IB」的敏捷性诉求（[[megabanks/smfg]] 另持有与 Jefferies 的业务资本提携，补充 IB）
 
-### Overseas strategy
+### 海外战略
 
-- **美洲**：以 SMBC Nikko Securities America / SMBC Capital Markets 为据点，部分继承 Citi 系时代人脉
-- **欧洲**：伦敦据点
-- **亚洲**：香港 + 新加坡
-- 海外展开在 megabank 3 行系证券中属中等规模；集团整体则通过 [[megabanks/smfg]] 与 Jefferies 的业务资本提携（2023起）补充 global IB
+- **美洲**: 以 SMBC Nikko Securities America / SMBC Capital Markets 为据点，部分继承花旗系列时代的人脉
+- **欧洲**: 伦敦据点
+- **亚洲**: 香港 + 新加坡
+- 海外展开在大型 3 行 系证券中属中等规模，集团整体则以 [[megabanks/smfg]] 与 Jefferies 的业务资本提携（2023〜）补充全球 IB
 
-### 治理重建（2022 年事件后）
+### 治理重建（2022 年 事件后）
 
-- **接收第三方委员会报告**（2022 年）+ 执行防止再发措施（2023起）
-- 强化合规部门独立性，重建交易监控系统
-- 刷新董事高管人事，并从 [[megabanks/smfg]] holding-company 侧加强对集团治理的介入
-- 持续与金融厅对话，推进业务正常化 ^[extracted]
+- **收到第三方委员会报告书**（2022 年）+ 实施再发防止措施（2023〜）
+- **强化合规部门的独立性**・重构交易监视系统
+- **役员人事刷新**・强化 [[megabanks/smfg]] 持股方对集团治理的介入
+- 与金融厅持续对话，推进业务正常化 ^[extracted]
 
-## 4. 监管和政策
+## 4. 监管・政策
 
-- **主管**：金融厅（FSA）、证券业协会（[[financial-regulators/jsda|日本証券業協会]]）注册第一种金融商品交易业者
-- **美国子公司**：受 U.S. SEC / FINRA 监管
-- **欧洲子公司**：受英国 FCA / 欧洲各国监管
-- **香港子公司**：受香港 SFC 监管
-- **近期政策论点**：
-  - 2022-10 业务改善命令 + 业务停止命令 → 持续执行防止再发措施
-  - 2024起，资产运用立国政策（新 NISA 扩大、iDeCo 改革）下 retail strategy 调整
-  - 2024起，应对上市公司 corporate-governance-code 修订（IB 业务 / TOB 业务）
-  - Tokenized securities（security token, ST）领域：母公司 [[megabanks/smfg]] 向 ST 等私设交易所“大阪数字交易所”（ODX，SBI 主导 PTS）出资 20%，SMBC 日兴证券也作为发行和流通承担者参与。另一方面，ST 发行 / 管理平台“Progmat, Inc.”（2023-10 设立，最大股东 Mitsubishi UFJ Trust and Banking 49%）中，[[megabanks/smfg]] 作为共同出资股东参与（SMBC 日兴证券本身不是名义股东）
+- **主管**: 金融厅（FSA）、证券业协会（[[financial-regulators/jsda|日本証券業協会]]）注册第一种金融商品交易业者
+- **美国子公司**: 美 SEC / FINRA 监管
+- **欧洲子公司**: 英 FCA / 欧洲各国监管
+- **香港子公司**: 香港 SFC 监管
+- **最近政策议题**:
+  - 2022-10  业务改善命令 + 业务停止命令 → 持续实施再发防止措施
+  - 2024〜 伴随资产运营立国政策（新 NISA 扩大・iDeCo 改革）的零售战略重新审视
+  - 2024〜 应对上市企业公司治理准则修订（IB 业务 / 公开收购业务）
+  - 代币化证券（证券型代币, ST）领域：母公司 [[megabanks/smfg]] 向 ST 等私设交易所「大阪数字交易所（ODX, SBI 主导的 PTS）」出资 20%，SMBC 日兴证券亦作为发行・流通的担当者参与。另一方面，ST 发行・管理基础「株式会社 Progmat」（2023-10  设立，第一大股东 三菱 UFJ 信托银行 49%）则由 [[megabanks/smfg]] 作为共同出资股东参与（SMBC 日兴证券本身并非名义股东）
 
 ## Related
 
 - 母公司: [[megabanks/smfg]]
-- 国内大型 5 大证券: [[securities-firms/nomura-hd]] ? [[securities-firms/daiwa-sg]] ? [[megabanks/mizuho-fg]] (Mizuho Securities) ? [[megabanks/mufg]] (Mitsubishi UFJ Morgan Stanley Securities)
-- Megabank 系比较: [[megabanks/mizuho-fg]] ? [[megabanks/mufg]]
-- Online securities: [[megabanks/sbi-hd]] ? [[securities-firms/monex-group]] ? [[payment-firms/rakuten-fg]]
-- Index: [[INDEX]]
+- 国内大型 5  大证券: [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[megabanks/mizuho-fg]] (瑞穗证券) · [[megabanks/mufg]] (三菱 UFJ 摩根士丹利证券)
+- 大型系列比较: [[megabanks/mizuho-fg]] · [[megabanks/mufg]]
+- 网络证券: [[megabanks/sbi-hd]] · [[securities-firms/monex-group]] · [[payment-firms/rakuten-fg]]
+- 索引: [[INDEX]]
 
 ## Sources
 
-- **Wikipedia: SMBC Nikko Securities**（https://ja.wikipedia.org/wiki/SMBC日興証券, 2026-05-19 抽出）
-- **Wikipedia: Nikko Cordial Securities**（前身，参照 Citi 系时期沿革，2026-05-19 抽出）
-- SMBC Nikko Securities official corporate site / history page
-- [[megabanks/smfg]] annual securities report（连结子公司信息）
-- 金融厅业务改善命令 / 业务停止命令公表资料（2022-10，发给 SMBC 日兴证券）
-- **Diamond Online「SMBC日興証券のDX担当幹部が明かす、SBIと組んで『デジタル証券の取引所』を始める理由」**（https://diamond.jp/articles/-/305405 ? SMFG 向 ODX 出资 20%，SMBC 日兴证券参与）
-- **JBpress Innovation Review「ついに始動、世界を目指す日本発デジタルアセットプラットフォームProgmat」**（https://jbpress.ismedia.jp/articles/-/76962 ? Progmat, Inc. 2023-10 设立・Mitsubishi UFJ Trust 49%・SMFG 共同出资股东）
+- **Wikipedia: SMBC 日兴证券**（https://ja.wikipedia.org/wiki/SMBC日興証券, 2026-05-19 抽取）
+- **Wikipedia: 日兴 Cordial 证券**（前身，参照花旗系列期的沿革，2026-05-19 抽取）
+- SMBC 日兴证券 官方企业网站 / 沿革页
+- [[megabanks/smfg]] 有价证券报告书（合并子公司信息）
+- 金融厅 业务改善命令 / 业务停止命令 公布资料（2022-10，致 SMBC 日兴证券）
+- **钻石在线「SMBC日兴证券的DX负责高管揭示，与SBI联手启动『数字证券交易所』的理由」**（https://diamond.jp/articles/-/305405 — SMFG 向 ODX 出资 20%・SMBC 日兴证券参与）
+- **JBpress Innovation Review「终于启动，志在世界的日本发数字资产平台Progmat」**（https://jbpress.ismedia.jp/articles/-/76962 — 株式会社 Progmat 2023-10  设立・三菱 UFJ 信托 49%・SMFG 共同出资股东）
 
 ---
 
-> [!info] Verification status
-> confidence: **likely**（v1.0 ，基于 Wikipedia + 公开沿革 + 金融厅公表资料，2026-05-19）。重要事件（1918 创立 / 1944 设立 / 2008 Citi TOB / 2010-10 [[megabanks/smfg]]取得约 7700 億円 / 2011-04 改称 / 2022 相场操纵事件 / 业务改善命令）在多个公开信息中一致。海外子公司群的连结范围和营业网点数（约 130）会随时点变化，最新值需参照 [[megabanks/smfg]] IR Quarterly 和 SMBC 日兴官方网站。
+> [!info] 验证状况
+> confidence: **likely**（以 v1.0  Wikipedia + 公开沿革 + 金融厅公布资料为基础，2026-05-19）。重要事件（1918  创业 / 1944  设立 / 2008  花旗 TOB / 2010-10 [[megabanks/smfg]] 取得 约 7700 億円 / 2011-04  更名 / 2022  操纵市场事件 / 业务改善命令）经多个公开信息一致确认。海外子公司群的合并范围・营业店数（约 130）存在时点变动，最新值需参照 [[megabanks/smfg]] IR Quarterly 及 SMBC 日兴官方网站。

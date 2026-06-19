@@ -1,47 +1,47 @@
 ---
 source: life-insurers/fukoku-life
-source_hash: 185d0c09e9d9888e
+source_hash: 3187c8b3c526c768
 lang: ja
 status: machine
 fidelity: ok
 title: "富国生命保険"
-translated_at: 2026-06-02T14:25:12.439Z
+translated_at: 2026-06-19T06:09:18.101Z
 ---
 
 # 富国生命保険
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置づける。[[life-insurers/asahi-life|朝日生命保険]] は比較対象の文脈、[[insurance/INDEX|insurance index]] は制度全体と規制上の境界を確認するために併読する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に位置する。ピア／対比のコンテキストとして [[life-insurers/asahi-life|朝日生命保険]] と、より広範なシステム／規制上の境界として [[insurance/INDEX|insurance index]] と照らし合わせて読むこと。
 
-## 要約
+## TL;DR
 
-富国生命保険相互会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に載る相互会社形態の生命保険事業会社である。大手 4 社ほどの規模感を示す見出しはないが、独立系の相互会社生命保険会社として、[[life-insurers/asahi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] と同じガバナンス分類で扱う。
+富国生命保険相互会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に載る相互会社形態の生命保険事業会社。大手 4 社 ほどの規模ヘッドラインはないが、相互会社形態の独立系生命保険会社として、[[life-insurers/asahi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] と同じガバナンスカテゴリーで扱う。
 
-## 1. 免許・グループ境界
+## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 法人名 | 富国生命保険相互会社 |
-| ブランド | フコク生命 |
-| 免許ルート | 保険業法上の生命保険会社。FSA 生命保険会社一覧に掲載 |
-| 業界団体 | 生命保険協会会員 |
-| ガバナンス形態 | 相互会社形態の生命保険会社 |
+| Legal name | 富国生命保険相互会社 |
+| Brand | フコク生命 |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Governance form | Mutual life insurer |
 
-## 2. 運営モデル
+## 2. Operating model
 
-富国生命は、伝統的な生命保険商品と販売チャネルを持つ独立系の相互会社保険会社である。FinWiki では、相互会社ガバナンス、契約者重視、ソルベンシー、チャネル生産性を比較するため、独立ページとして扱う。
+富国生命は、伝統的な生命保険商品と販売チャネルを持つ独立系の相互会社。FinWiki では、相互会社のガバナンス、契約者志向、ソルベンシー、チャネル生産性を比較するために単独ページとする。
 
-相互会社形態の生命保険会社は上場株式投資の対象として見るものではないため、上場会社向け指標だけで分析しない。開示レビューでは、契約者保護、ソルベンシー・マージンと ESR 移行、剰余金分配、長期の商品採算に注目する。
+相互会社形態の生命保険会社は上場株式の投資対象ではなく、分析は上場企業の指標のみに依拠することを避けるべきである。むしろ、ディスクロージャーのレビューは契約者保護、ソルベンシー・マージン／ESR 移行、剰余金分配、長期の商品経済性に焦点を当てるべきである。
 
-## 3. このページが重要な理由
+## 3. Why this page matters
 
-- 登録で確認できる相互会社生命保険会社を JapanFG に追加する。
-- 最大手4社以外の比較カバレッジを広げる。
-- [[insurance/mutual-vs-stock-life-insurer]] のルーティングに有用である。
+- JapanFG に、登録簿で確認できる相互会社形態の生命保険会社をもう一社追加する。
+- 最大手の生命保険会社四社を超えた比較カバレッジを改善する。
+- [[insurance/mutual-vs-stock-life-insurer]] のルーティングに有用。
 
-## 関連項目
+## Related
 
 - [[life-insurers/asahi-life]]
 - [[life-insurers/nippon-life]]
@@ -50,8 +50,8 @@ translated_at: 2026-06-02T14:25:12.439Z
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
 
-## 出典
+## Sources
 
-- FSA：生命保険会社免許一覧、2026-04-13時点。
-- 生命保険協会：会員会社一覧、2026-04-13時点。
+- FSA: 生命保険会社免許一覧、2026-04-13 時点。
+- Life Insurance Association of Japan: 会員会社一覧、2026-04-13 時点。
 - 富国生命 公式ウェブサイト。

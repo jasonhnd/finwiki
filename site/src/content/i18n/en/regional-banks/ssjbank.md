@@ -1,13 +1,15 @@
 ---
 source: regional-banks/ssjbank
-source_hash: c65a6ebb77a52cbb
+source_hash: 82489dff8c61e7a2
 lang: en
 status: machine
 fidelity: ok
-title: "ssjbank bad-link audit"
-translated_at: 2026-06-01T02:31:57.175Z
+title: "ssjbank mislink audit"
+translated_at: 2026-06-19T12:43:19.914Z
 ---
-# ssjbank bad-link audit
+
+# ssjbank mislink audit
+
 
 ## Wiki route
 
@@ -15,21 +17,21 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-`ssjbank` is not an officially confirmable Japanese financial-institution name. In FinWiki, it is treated as a bad link that arose from the "77 Bank / Miyagi base" context of [[regional-banks/proclair-hd|proclair-hd]]. The correct reference target is the existing [[regional-banks/77-bank|七十七銀行]]. `SBJ Bank` is real, but its official English name is Shinhan Bank Japan, and it does not match this link context.
+`ssjbank` is not an officially verifiable Japanese financial-institution name; within FinWiki it is judged to be a mislink that arose from the context "77 Bank / Miyagi-based" of [[regional-banks/proclair-hd|proclair-hd]]. The correct reference target is the existing [[regional-banks/77-bank|七十七銀行]]. `SBJ Bank` does exist, but its official English name is Shinhan Bank Japan, which does not match this link context.
 
 ## Determination
 
-| Viewpoint | Determination |
+| Aspect | Determination |
 |---|---|
-| Official bank name `ssjbank` | Not confirmed |
-| Original incoming-link context | `77 Bank / Miyagi base` |
+| `ssjbank` as an official bank name | Cannot be confirmed |
+| Original inbound-link context | `77 Bank / Miyagi-based` |
 | Closest existing page | [[regional-banks/77-bank|77-bank]] |
-| Relationship to `SBJ Bank` | Separate entity. Official English name is Shinhan Bank Japan |
-| Future treatment | Keep as deprecated alias / bad-link audit page |
+| Relationship to `SBJ Bank` | A different entity. Official English name is Shinhan Bank Japan |
+| Future handling | Retain as a deprecated alias / mislink-audit page |
 
 ## Graph repair note
 
-Do not delete this page. Keep it so that if old Obsidian links or auto-generated logs refer to `ssjbank`, readers can still reach the basis for treating it as a bad link. New body text should use `[[regional-banks/77-bank|七十七銀行]]`.
+This page is not deleted; it is kept so that even when old Obsidian links or auto-generated logs reference `ssjbank`, the basis for the mislink determination can be traced. New body text uses `[[regional-banks/77-bank|七十七銀行]]`.
 
 ## Related
 
@@ -47,5 +49,5 @@ Do not delete this page. Keep it so that if old Obsidian links or auto-generated
 
 ---
 
-> [!warning] Verification status
+> [!warning] 校核状态
 > confidence: **unlikely** for `SSJ Bank` as a real target. This is intentionally deprecated and should not be promoted to an active entity page.

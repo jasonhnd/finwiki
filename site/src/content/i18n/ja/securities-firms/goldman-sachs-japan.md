@@ -1,19 +1,19 @@
 ---
 source: securities-firms/goldman-sachs-japan
-source_hash: a34002feefccb2ea
+source_hash: 83d06cd20d7b28e9
 lang: ja
 status: machine
 fidelity: ok
-title: "ゴールドマン・サックス・ジャパン"
-translated_at: 2026-06-02T14:25:12.440Z
+title: "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)"
+translated_at: 2026-06-19T12:43:19.975Z
 ---
-# ゴールドマン・サックス・ジャパン
+# ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に位置づける。[[securities-firms/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] は比較対象の文脈、[[securities/INDEX|securities index]] は制度全体と規制上の境界を確認するために併読する。
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[securities-firms/morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[megabanks/mufg]] MUMSS / [[megabanks/smfg]] SMBC 日興 / [[megabanks/mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]
 
@@ -42,7 +42,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 |---|---|
 | 設立 | 1869 年（NY）創業者 Marcus Goldman |
 | 上場 | 1999-05 NYSE 上場（IPO）|
-| 主要セグメント | グローバル銀行・市場、資産運用・ウェルスマネジメント、プラットフォームソリューション |
+| 主要セグメント | Global Banking & Markets / Asset & Wealth Management / Platform Solutions |
 | 経営トップ | David Solomon（Chairman & CEO、2018〜）|
 | 従業員 | 全世界 4 万人超 |
 
@@ -73,13 +73,13 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 | セグメント | 主要業務 | 特徴 |
 |---|---|---|
-| **投資銀行（IB）** | M&A アドバイザリー・ECM（IPO / 公募増資 / 売出）・DCM（社債引受）| 外資 No.1 級・日本企業の海外案件で強い |
-| 株式 / FICC（セールス・トレーディング）| 株式・債券・為替・コモディティ・デリバティブ | 機関投資家向け |
-| 資産運用（GSAM）| 投資信託・年金資産運用・オルタナティブ | 機関投資家・富裕層向け |
-| ウェルスマネジメント（PWM）| プライベートバンキング | 富裕層限定、リテール展開なし |
-| 銀行業務（銀行東京支店）| 法人融資・キャッシュマネジメント | ホールセール特化 |
-| 不動産（GS Realty Japan）| 不動産投資・SPC 運営 | 1990年代の不動産バルクセールで台頭 |
-| リサーチ | 株式・経済・為替リサーチ | アジア機関投資家向け |
+| **Investment Banking（IB）** | M&A アドバイザリー・ECM（IPO / 公募増資 / 売出）・DCM（社債引受）| 外資 No.1 級・日本企業の海外案件で強い |
+| Equities / FICC（セールス・トレーディング）| 株式・債券・為替・コモディティ・デリバティブ | 機関投資家向け |
+| Asset Management（GSAM）| 投資信託・年金資産運用・オルタナティブ | 機関投資家・富裕層向け |
+| Wealth Management（PWM）| プライベートバンキング | 富裕層限定、リテール展開なし |
+| Banking（銀行東京支店）| 法人融資・キャッシュマネジメント | ホールセール特化 |
+| Real Estate（GS Realty Japan）| 不動産投資・SPC 運営 | 1990s 不動産バルクセールで台頭 |
+| Research | 株式・経済・為替リサーチ | アジア機関投資家向け |
 
 ### 顧客セグメント
 
@@ -126,20 +126,20 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ## 5. 歴代日本トップ（参考）
 
-- 日本拠点社長 / 日本責任者 ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / 共同 CEO 等の名称変遷あり
+- 日本拠点社長 / Country Head ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / Co-CEO 等の名称変遷あり
 - **持田昌典（Masanori Mochida）**：2001 年に当時の CEO ヘンリー・ポールソンにより日本法人トップに就任、ゴールドマン・サックス証券会長 / 社長として通算 22 年在任し、2023 年末に退任。日本市場で外資系投資銀行としての地位を確立した中心人物
 - **居松秀浩（Hidehiro Imatsu）**：持田昌典の後任として 2024-06-03 付でゴールドマン・サックス証券 新社長に就任（就任時 52 歳、金利・トレーディング畑出身）
-- 最新の現職 日本責任者 は Goldman Sachs 公式 プレスリリース / 日経等の報道を要参照
+- 最新の現職 Country Head は Goldman Sachs 公式 Press Release / 日経等の報道を要参照
 
-## 関連項目
+## Related
 
 - [[securities-firms/morgan-stanley-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - [[finance/japan-ib-league-table]] · [[finance/cross-border-m-a-japan]]
 
-## 出典
+## Sources
 
 - **Wikipedia: ゴールドマン・サックス / Goldman Sachs**（公開情報）
-- **Goldman Sachs Group 2024 年次報告書 / Form 10-K**（NYSE: GS、SEC EDGAR 公表）
+- **Goldman Sachs Group 2024 Annual Report / Form 10-K**（NYSE: GS、SEC EDGAR 公表）
 - **金融庁 金融商品取引業者登録一覧**（公開情報、関東財務局長登録）
 - 各種業界誌（日経 / 週刊東洋経済 / 週刊ダイヤモンド 等）IB リーグテーブル報道
 - **日本経済新聞「ゴールドマン・サックス日本法人、新社長は金利のプロ 居松秀浩氏」**（居松秀浩 2024-06-03 就任 / 持田昌典 22 年在任後退任、https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/）
@@ -149,4 +149,4 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 ---
 
 > [!info] 検証状況
-> 信頼度：**高め**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。歴代日本トップ（持田昌典 2001–2023 / 居松秀浩 2024-06〜）は日経・公式公表ベースで確認済み。個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）について、親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開。
+> confidence: **likely**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。歴代日本トップ（持田昌典 2001–2023 / 居松秀浩 2024-06〜）は日経・公式公表ベースで確認済み。個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）について、親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開。

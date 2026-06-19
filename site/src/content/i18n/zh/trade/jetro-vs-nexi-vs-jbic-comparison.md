@@ -1,167 +1,167 @@
 ---
 source: trade/jetro-vs-nexi-vs-jbic-comparison
-source_hash: c8d7b9389c8cd491
+source_hash: e585cfba692639d2
 lang: zh
 status: machine
 fidelity: ok
-title: "JETRO vs NEXI vs JBIC — 日本出口振兴 / 保险 / 融资三支柱比较"
-translated_at: 2026-05-30T15:08:51.572Z
+title: "JETRO vs NEXI vs JBIC —— 日本出口促进 / 保险 / 融资三大支柱比较"
+translated_at: 2026-06-19T12:43:19.861Z
 ---
 
-# JETRO vs NEXI vs JBIC — 日本出口振兴 / 保险 / 融资三支柱比较
+# JETRO vs NEXI vs JBIC —— 日本出口促进 / 保险 / 融资三大支柱比较
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[trade/INDEX|trade INDEX]] and routes into the broader [[policy-finance/INDEX|policy-finance INDEX]]. Read with [[trade/jetro-organization-structure|JETRO 独立行政法人 organisation structure]] for the JETRO-specific anatomy and [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]] for where credit pieces plug into deals.
+本条目归属于 [[trade/INDEX|trade INDEX]]，并路由进入更宏观的 [[policy-finance/INDEX|policy-finance INDEX]]。请与 [[trade/jetro-organization-structure|JETRO 独立行政法人 organisation structure]]（JETRO 专门剖析）以及 [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]]（信用要素如何嵌入交易）一并阅读。
 
 ## TL;DR
 
-JETRO、NEXI、JBIC 并非可以互换 — 它们处于日本跨境交易栈的三个不同层次：
+JETRO、NEXI 和 JBIC 并非可以互换 —— 它们位于日本跨境交易堆栈的三个不同层级：
 
-1. **JETRO（日本贸易振兴机构）** — 信息、市场调查、撮合及贸易振兴服务。**不是放贷方。不是保险方。** 经产省监督的独立行政法人。
-2. **NEXI（日本贸易保险）** — 出口信用保险与海外投资保险。**不是放贷方。** 经产省监督的独立行政法人。
-3. **JBIC（国际协力银行）** — 面向出口、海外投资、自然资源项目及基础设施的长期贷款、担保及股权参与。**一家政策性银行。** 财务省监督的全资国有股份公司。
+1. **JETRO（日本贸易振兴机构）** —— 信息、市场调研、撮合，以及贸易促进服务。**不是贷款人。不是保险人。** 经济产业省（METI）监管的独立行政法人。
+2. **NEXI（日本贸易保险）** —— 出口信用保险与海外投资保险。**不是贷款人。** 经济产业省监管的独立行政法人。
+3. **JBIC（日本国际协力银行）** —— 面向出口、海外投资、自然资源项目及基础设施的长期贷款、担保和股权参与。**一家政策性银行。** 财务省（MOF）监管的全资国有股份制公司。
 
-一家日本出口商在同一项目上通常会同时使用这三者 — JETRO 做市场研究，JBIC 做买方信贷贷款，NEXI 为该贷款或供应商信贷提供政治风险与商业风险包装。使交易具备可融资性的，是这一组合，而非任何单一机构。
+日本出口商在同一个项目上通常会同时使用这三家 —— JETRO 做市场研究，JBIC 提供买方信贷贷款，NEXI 为该贷款或供方信贷提供政治风险与商业风险的保障。是这一组合、而非任何单一机构，使交易具备可融资性。
 
-## 三支柱比较表
+## 三大支柱比较表
 
-| 维度 | JETRO | NEXI | JBIC |
+| Dimension | JETRO | NEXI | JBIC |
 |---|---|---|---|
-| 全称 | Japan External Trade Organization | Nippon Export and Investment Insurance | Japan Bank for International Cooperation |
-| 成立（现行形态） | 2003 （独立行政法人） | 2017 （成为股份制特殊公司） | 2012 （从 JFC 分拆，重设为独立银行） |
-| 法律形态 | 独立行政法人 (incorporated administrative agency) | 株式会社（特殊会社） — 全资国有特殊股份公司 | 株式会社（特殊会社） — 全资国有特殊政策性银行 |
-| 主管部委 | METI 经济产业省 | METI 经济产业省 | MOF 财务省（主要）+ 在政策事项上的 METI |
-| 核心职能 | 信息、振兴、撮合、咨询 | 出口与投资保险 | 长期贷款、担保、股权 |
-| 是否承担资金风险？ | 否（服务、咨询） | 是 — 保单上的保险风险 | 是 — 贷款上的信用风险 |
-| 典型用户 | 寻求市场进入的中小企业及大型出口商 | 需要保障的出口商、海外投资者、银行 | 大型出口商、资源 / 基础设施项目的发起人 |
-| 收费模式 | 多数免费或低成本；付费 Members 项目 | 按保单收取保费，按风险定价 | 贷款利息、担保费、股权分红 |
-| OECD 覆盖 | 范围之外 | 是 — 在 [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] 下运营 | 是 — 长期放贷在 OECD Arrangement 共识定价下运营 |
+| Full name | Japan External Trade Organization | Nippon Export and Investment Insurance | Japan Bank for International Cooperation |
+| Founded (current form) | 2003 (independent administrative agency) | 2017 (became joint-stock special company) | 2012 (split from JFC, re-established as standalone bank) |
+| Legal form | 独立行政法人 (incorporated administrative agency) | 株式会社（特殊会社） — wholly state-owned special joint-stock company | 株式会社（特殊会社） — wholly state-owned special policy bank |
+| Supervising ministry | METI 経済産業省 | METI 経済産業省 | MOF 財務省 (primary) + METI on policy items |
+| Core function | Information, promotion, matchmaking, advisory | Export and investment insurance | Long-term loans, guarantees, equity |
+| Money risk borne? | No (services, advisory) | Yes — insurance risk on policies | Yes — credit risk on loans |
+| Typical user | SMEs and large exporters seeking market entry | Exporters, overseas investors, banks needing cover | Large exporters, sponsors of resource / infrastructure projects |
+| Charging model | Mostly free or low-cost; paid Members programme | Premium per policy, risk-priced | Interest on loans, guarantee fees, dividends on equity |
+| OECD coverage | Out of scope | Yes — operates under the [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] | Yes — long-term lending operates under the OECD Arrangement consensus pricing |
 
-## 日本出口商在何时使用哪一个
+## 日本出口商何时使用哪一家
 
-| 交易阶段 | 出口商的提问 | 正确的对手方 |
+| Deal stage | Question the exporter asks | Right counterparty |
 |---|---|---|
-| 预可行性 | 「X 国有市场吗？买家是谁？监管制度如何？」 | **JETRO** — 国别 desk、市场报告、贸易考察团、撮合 |
-| 可行性 | 「这个国家类似的项目长什么样？谁做过？」 | **JETRO** + [[policy-finance/jica|JICA]]（若与 ODA 相邻） |
-| 买方筛查 | 「这个买方有信用吗？主权风险？」 | **NEXI** 指示性报价 + 买方国主权评级 |
-| 投标 / 合同 | 「我们能否提供与欧洲 / 韩国竞争对手有竞争力的付款条件？」 | **JBIC** 买方信贷 + **NEXI** 对商业银行贷款的包装 |
-| 建设 | 「装运前的制造窗口期如何覆盖？」 | **NEXI** 装运前保障 |
-| 装运 / 交付 | 「交付后的付款风险如何覆盖？」 | **NEXI** 出口信用保险 |
-| 海外直接投资 | 「征收、战争、货币转移风险如何覆盖？」 | **NEXI** 海外投资保险 + **JBIC** 股权 / 贷款 |
-| 长期资源 / 基础设施项目 | 「谁提供 15-20 年期美元融资？」 | **JBIC** 项目融资 + **NEXI** 政治风险保障 |
+| Pre-feasibility | "Is there a market in country X? Who are the buyers? What is the regulatory regime?" | **JETRO** — country desks, market reports, trade missions, matchmaking |
+| Feasibility | "What does a similar project look like in this country? Who has done it?" | **JETRO** + [[policy-finance/jica|JICA]] (if ODA-adjacent) |
+| Buyer screening | "Is this buyer creditworthy? Sovereign risk?" | **NEXI** indicative quote + buyer-country sovereign rating |
+| Bid / contract | "Can we offer payment terms competitive with European / Korean competitors?" | **JBIC** buyer credit + **NEXI** wrap on commercial bank loan |
+| Construction | "How do we cover the manufacturing window before shipment?" | **NEXI** pre-shipment cover |
+| Shipment / delivery | "How do we cover payment risk after delivery?" | **NEXI** export-credit insurance |
+| Overseas direct investment | "How do we cover expropriation, war, currency-transfer risk?" | **NEXI** overseas investment insurance + **JBIC** equity / loan |
+| Long-term resource / infra project | "Who provides 15-20 year USD financing?" | **JBIC** project finance + **NEXI** political-risk cover |
 
-## JETRO — 信息与振兴
+## JETRO —— 信息与促进
 
-JETRO 不放贷，也不承担信用风险。它的工具是：
+JETRO 不放贷，也不承担信用风险。其工具有：
 
-- **76 个海外事务所，47 个国内事务所**（数字逐年变动 — 当前数量见 [[trade/jetro-organization-structure|JETRO organisation structure]]）
+- **76 处海外办事处、47 处国内办事处**（数量逐年变化 —— 当前数目参见 [[trade/jetro-organization-structure|JETRO organisation structure]]）
 - 国别报告、行业报告、关税指南、监管摘要
 - 贸易展会（CEATEC、FOODEX、Foodex Japan 国际展馆等）
-- 经由 [[trade/jetro-members-gateway-model|JETRO Members]] 与 Global Acceleration Hub 的 B2B 撮合
-- J-StarX（创业公司海外加速）与开放式创新项目
-- 入境投资振兴（Invest Japan）
+- 通过 [[trade/jetro-members-gateway-model|JETRO Members]] 和 Global Acceleration Hub 进行的 B2B 撮合
+- J-StarX（初创企业海外加速）与开放式创新项目
+- 入境投资促进（Invest Japan）
 
-收费结构使得绝大多数服务免费或低成本；付费项目的收入不足以覆盖运营成本，由 METI 补贴弥补。将 JETRO 视为 **构建提案的伙伴**，而非客户获取渠道，才是正确的心智模型。JETRO Members 层级如何开启提案渠道的细节，记载于 [[trade/jetro-members-gateway-model|JETRO Members gateway model]]。
+收费安排使得绝大部分服务免费或低成本；付费项目的收入无法覆盖运营成本，缺口由 METI 补贴弥补。将 JETRO 视为**提案构建的伙伴**、而非客户获取渠道，才是正确的心智模型。JETRO Members 层级如何开启提案通道的细节，记录于 [[trade/jetro-members-gateway-model|JETRO Members gateway model]]。
 
-## NEXI — 出口与投资保险
+## NEXI —— 出口与投资保险
 
-NEXI 是日本国家的出口信用机构（ECA）。它不放贷。它签发在既定风险实现时赔付的保单，使商业银行和出口商得以承担本来不具可融资性的跨境敞口。
+NEXI 是日本国家的出口信用机构（ECA）。它不放贷。它出具保险保单，在所界定的风险显现时支付赔款，使商业银行和出口商得以承担本来无法融资的跨境敞口。
 
 主要保单类型：
 
-| 保单 | 覆盖的风险 | 典型被保险人 |
+| Policy | Risk covered | Typical insured |
 |---|---|---|
-| 出口信用保险 | 买方违约、主权违约、战争、征收 | 出口商、向海外买家放贷的商业银行 |
-| 装运前保障 | 装运前的买方取消、战争、征收 | 制造窗口期内的出口商 |
-| 海外投资保险 | 征收、战争、货币转移 / 可兑换性 | 拥有海外子公司的日本母公司 |
-| 海外非捆绑贷款保险 | 与日本出口无关的政策性贷款的借款人违约 | 向新兴市场放贷的日本银行 |
-| 买方信贷贸易投资保险 | 海外买方对银行提供的买方信贷违约 | 向日本商品的海外买家放贷的银行 |
+| Export Credit Insurance | Buyer default, sovereign default, war, expropriation | Exporters, commercial banks lending to overseas buyers |
+| Pre-shipment Cover | Buyer cancellation, war, expropriation before shipment | Exporters during manufacturing window |
+| Overseas Investment Insurance | Expropriation, war, currency transfer / convertibility | Japanese parents with overseas subsidiaries |
+| Overseas Untied Loan Insurance | Borrower default on policy-driven loans not tied to Japanese exports | Japanese banks lending into emerging markets |
+| Trade and Investment Insurance for Buyer Credit | Default by overseas buyer on bank-extended buyer credit | Banks lending to overseas buyers of Japanese goods |
 
-NEXI 与 [[financial-regulators/jbic|JBIC]] 密切合作 — JBIC 提供的买方信贷与项目融资贷款常对商业银行档位附带 NEXI 包装，从而降低融资成本并允许更广泛的银行银团化。NEXI 在 [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] 关于保费下限、国别风险分类及期限 / 首付条件的共识下运营。
+NEXI 与 [[financial-regulators/jbic|JBIC]] 密切合作 —— JBIC 提供的买方信贷和项目融资贷款经常对其商业银行份额附带 NEXI 保障，从而降低融资成本并允许更广泛的银行银团参与。NEXI 在保费下限、国别风险分类以及期限 / 首付条款方面遵循 [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] 共识运作。
 
-## JBIC — 政策性银行
+## JBIC —— 政策性银行
 
-JBIC 是一家全资国有政策性银行，主要由 MOF 监督，在资源和产业事项上由 METI 给予政策指导。它**不是** [[financial-regulators/jfc|JFC (Japan Finance Corporation)]] 的一部分 — JBIC 于 2012 从 JFC 分拆并重组为独立的股份制特殊公司，区别于 JFC 的小企业 / 农业 / 微型金融职能。
+JBIC 是一家全资国有政策性银行，主要由 MOF 监管，在资源与产业事项上由 METI 提供政策指导。它**不是** [[financial-regulators/jfc|JFC (Japan Finance Corporation)]] 的一部分 —— JBIC 于 2012 从 JFC 分立出来，重组为一家独立的股份制特殊公司，区别于 JFC 的小企业 / 农业 / 小额金融职能。
 
 主要业务线：
 
-| 业务 | 目的 | 对手方 |
+| Operation | Purpose | Counterparty |
 |---|---|---|
-| 出口贷款 | 面向日本资本品出口的买方信贷、供应商信贷、项目融资贷款 | 海外买家、项目 SPV、外国银行 |
-| 进口贷款 | 面向资源进口（LNG、铜、稀土等）的长期融资 | 日本商社、公用事业公司、资源公司 |
-| 海外投资贷款 | 日本 FDI 的长期融资 | 日本母公司及海外子公司 |
-| 非捆绑贷款 | 向新兴市场主权及银行放贷，用于支持日本利益的项目 | 外国主权、央行、政策性银行 |
-| 股权参与 | 对日本具战略意义的海外项目的少数股权 | 项目 SPV、基础设施公司 |
-| 担保 | 为与 JBIC 项目共同融资的商业银行贷款提供信用担保 | 与 JBIC 并行放贷的商业银行 |
-| 项目融资 | 对资源 / 基础设施的长期限（15-20+ 年）有限追索融资 | 项目 SPV |
+| Export Loans | Buyer credit, supplier credit, project-finance loans for Japanese capital-goods exports | Overseas buyers, project SPVs, foreign banks |
+| Import Loans | Long-term financing for resource imports (LNG, copper, rare earth, etc.) | Japanese trading houses, utilities, resource companies |
+| Overseas Investment Loans | Long-term financing of Japanese FDI | Japanese parents and overseas subsidiaries |
+| Untied Loans | Lending to emerging-market sovereigns and banks for projects supporting Japanese interests | Foreign sovereigns, central banks, policy banks |
+| Equity Participations | Minority equity in overseas projects strategic to Japan | Project SPVs, infrastructure companies |
+| Guarantees | Credit guarantees for commercial bank loans co-financing JBIC projects | Commercial banks lending alongside JBIC |
+| Project Finance | Long-tenor (15-20+ year) limited-recourse financing of resource / infrastructure | Project SPVs |
 
-JBIC 是 [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]] 中的顶点节点 — 它出现在发起人的条款清单上，通常意味着对商业银行无法独力达到的期限而言具备项目融资可融资性。出口、项目及资源融资的贷款以美元计价；某些非捆绑业务以日元计价。
+JBIC 是 [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]] 中的顶点节点 —— 它出现在发起人的条款清单上，通常标志着商业银行无法独力企及的期限下的项目融资可融资性。出口、项目和资源融资的贷款以美元计价；部分非约束性业务以日元计价。
 
-## 领域边界 — JBIC 在何处结束、JICA 在何处开始
+## 领域边界 —— JBIC 在何处结束、JICA 在何处开始
 
-JBIC **不是** ODA 机构。优惠性 ODA 贷款（利率更低、宽限期更长）属于 [[policy-finance/jica|JICA]]。后 2012 架构下的日本政策性融资分工：
+JBIC **不是** ODA 机构。优惠性 ODA 贷款（利率更低、宽限期更长）属于 [[policy-finance/jica|JICA]]。后 2012 体系下日本政策性金融的分工如下：
 
-| 对手方 / 目的 | 正确的机构 |
+| Counterparty / purpose | Right institution |
 |---|---|
-| 商业出口、FDI、资源、基础设施（商业条件或近商业条件） | **JBIC** |
-| 面向发展中国家政府的优惠性日元贷款 ODA | **JICA** |
-| 技术合作、无偿援助、志愿者项目 | **JICA** |
-| 危机型新兴市场放贷、国际收支支持 | JBIC + MOF 机制 |
-| 出口信用保险 / 政治风险保险 | **NEXI** |
-| 中小企业出口咨询与撮合 | **JETRO** |
-| 中小企业国内营运资金、微型金融、农业金融 | **[[financial-regulators/jfc|JFC]]** |
+| Commercial export, FDI, resource, infrastructure (commercial terms or near-commercial) | **JBIC** |
+| Concessional yen-loan ODA to developing-country governments | **JICA** |
+| Technical cooperation, grant aid, volunteer programmes | **JICA** |
+| Crisis emerging-market lending, balance-of-payments support | JBIC + MOF facility |
+| Export-credit insurance / political-risk insurance | **NEXI** |
+| SME export advisory and matchmaking | **JETRO** |
+| SME domestic working capital, micro-finance, agricultural finance | **[[financial-regulators/jfc|JFC]]** |
 
-JBIC 与 JICA 的边界是在日本之外最常被混淆的一条。创设 JFC 的 2008 合并将旧 JBIC 的国际部门并入 JFC，随后 2012 针对国际金融部门做了逆向操作。JICA 始终保持独立。这一点在 [[policy-finance/japan-eximbank-history|Japan Eximbank history]] 中就更长的制度沿革有详述。
+JBIC 与 JICA 的边界是在日本以外最常被混淆的一处。设立 JFC 的 2008 合并将旧 JBIC 的国际部门并入 JFC，随后 2012 又将国际金融部门分立出来。JICA 始终保持独立。更长的机构脉络详见 [[policy-finance/japan-eximbank-history|Japan Eximbank history]]。
 
-## 资格 — 谁能使用各机构
+## 资格 —— 谁可以使用各机构
 
-| 机构 | 主要资格 | 实务上的入门门槛 |
+| Institution | Primary eligibility | Practical entry barrier |
 |---|---|---|
-| JETRO | 任何日本公司、在日运营的外资关联公司、考虑对日投资的外国投资者，或与 JETRO 项目相符且具公共使命的伙伴 | 极低 — 多数市场信息服务和咨询对任何用户开放，往往免费 |
-| JETRO Members（付费层级） | 寻求更深入撮合 / 市场进入支援的日本出口商及海外日资关联公司 | 年度会费（按会员类别而异）— 见 [[trade/jetro-members-gateway-model|JETRO Members gateway model]] |
-| NEXI | 在日本注册的出口商、拥有海外 FDI 的日本母公司、在出口 / 项目融资情形中放贷的日本银行 | 承保审查 — 基于风险的定价、国别限额约束，对高风险主权有时会被拒保 |
-| JBIC | 日本资本品出口商、海外项目的日本发起人、为符合日本利益之目的而借款的外国主权 / 银行 | 高 — 对借款人和项目的信用评估、结构化谈判，常与商业银行银团化；最小有效交易规模很大 |
+| JETRO | Any Japanese company, foreign-affiliated company operating in Japan, foreign investor considering Japan investment, or partner with a public mandate aligned to JETRO programmes | Very low — most market-information services and consultation are open to any user, often free |
+| JETRO Members (paid tier) | Japanese exporters and overseas Japanese affiliates seeking deeper matchmaking / market-entry support | Annual membership fee (varies by member category) — see [[trade/jetro-members-gateway-model|JETRO Members gateway model]] |
+| NEXI | Exporters incorporated in Japan, Japanese parents with overseas FDI, Japanese banks lending into export / project-finance situations | Underwriting review — risk-based pricing, country-limit constraints, sometimes refused on high-risk sovereigns |
+| JBIC | Japanese exporters of capital goods, Japanese sponsors of overseas projects, foreign sovereigns / banks borrowing for purposes aligned to Japanese interests | High — credit assessment of borrower and project, structuring negotiation, often syndicated with commercial banks; minimum efficient deal size is large |
 
-资格漏斗从 JETRO → NEXI → JBIC 实质性地收窄。中小企业可以常规使用 JETRO，选择性使用 NEXI，几乎从不直接使用 JBIC — JBIC 的交易规模与结构化复杂度使其偏向大型出口商和商社。
+资格漏斗从 JETRO → NEXI → JBIC 显著收窄。中小企业可以日常使用 JETRO，有选择地使用 NEXI，并且几乎从不直接使用 JBIC —— JBIC 的交易规模和结构复杂度使其偏向大型出口商和商社。
 
-## 组合使用 — 一个典型的 LNG 项目
+## 组合使用 —— 一个典型的 LNG 项目
 
-一家日本商社为一个发展中国家的新项目发起一笔 20年期 LNG 承购：
+一家日本商社发起一项为期 20年、从某发展中国家新项目进行 LNG 承购的交易：
 
-1. **JETRO** 发布国别 LNG 市场研究；安排与当地能源部的初次会面；支援一个日本贸易考察团。
-2. **JBIC** 主导项目融资放贷 — 占债务栈的 60-70%、18年期、以美元计价，带发起人完工担保。
-3. **商业银行**（megabank、外国银行）以较短期限共同融资其余部分。
-4. **NEXI** 以政治风险保障（征收、转移 / 可兑换性、战争）为商业银行档位提供包装。
-5. **JBIC** 还可能与发起人一道在项目 SPV 中持有少数股权。
+1. **JETRO** 发布该国 LNG 市场研究；安排与当地能源部的初步会谈；支持一次日本贸易代表团。
+2. **JBIC** 牵头项目融资贷款 —— 占债务堆栈的 60-70%、18年期、以美元计价、附带发起人完工担保。
+3. **商业银行**（大型银行、外资银行）以更短期限共同为其余部分融资。
+4. **NEXI** 为商业银行份额附加政治风险保障（征用、转移 / 可兑换性、战争）。
+5. **JBIC** 也可能与发起人一道在项目 SPV 中持有少数股权。
 
-没有这全部三家机构，该交易通常无法以规模或有竞争力的定价达成。这正是这三者被共同描述为日本 **出口振兴 / 保险 / 融资三联体** 的原因。
+若没有这三家机构齐备，该交易通常无法在规模上或以具竞争力的定价下达成。这正是这三家被共同称为日本**出口促进 / 保险 / 融资三位一体**的原因。
 
-## 资金模式与监督差异
+## 资金模式与监管差异
 
-资金与监督的分工并非表面文章 — 它塑造着各机构的激励与风险行为。
+资金与监管的分工并非表面文章 —— 它塑造着各机构的激励与风险行为。
 
-| 层面 | JETRO | NEXI | JBIC |
+| Layer | JETRO | NEXI | JBIC |
 |---|---|---|---|
-| 资本结构 | 由 METI 补贴 + 自有收入资助的独立行政法人 | 全资国有股份制特殊公司；保险准备金；再保险 | 全资国有股份制特殊公司；来自政府的资本；通过发债融资 |
-| 资金来源 | METI 年度预算拨款 + 付费项目收入 | 保费收入 + 政府资本 + 再保险回收 | 政府担保的 JBIC 债、市场借款、政府资本 |
-| 风险承担 | 无（服务型组织） | 保险承保风险 | 债券资助的资产负债表上的信用风险 + 市场风险 |
-| 损益报告 | 经营成果向 METI 报告 | 保险成果按股份制特殊公司账目报告 | 银行式损益与资产负债表按股份制特殊公司账目报告 |
-| 债券市场存在感 | 无 | 有限 | 在 JPY 与 USD 上的主要主权级 JBIC 债发行人 |
+| Capital structure | Independent administrative agency funded by METI subsidy + own-source revenue | Wholly state-owned joint-stock special company; insurance reserves; reinsurance | Wholly state-owned joint-stock special company; capital from government; bond issuance for funding |
+| Funding source | METI annual budget appropriation + paid programme revenue | Premium income + government capital + reinsurance recoveries | Government-guaranteed JBIC bonds, market borrowing, government capital |
+| Risk-bearing | None (service organisation) | Insurance underwriting risk | Credit risk + market risk on the bond-funded balance sheet |
+| Profit / loss reporting | Operating result reported to METI | Insurance result reported under joint-stock special-company accounts | Banking-style P&L and balance sheet reported under joint-stock special-company accounts |
+| Bond market presence | None | Limited | Major sovereign-quality JBIC bond issuer in JPY and USD |
 
-JBIC 的发债存在感本身就是日本资本市场架构的一部分 — JBIC 债是准主权信用，国内投资者将其用作 ALM 稳定资产，海外投资者将其用作相对 JGB 的高等级 JPY / USD 替代品。JETRO 没有类似的市场存在感。
+JBIC 的债券发行存在本身就是日本资本市场架构的一部分 —— JBIC 债券是准主权信用，被国内投资者用作 ALM 稳定资产，被海外投资者用作相对 JGB 的高等级日元 / 美元替代品。JETRO 没有类似的市场存在。
 
-## 与其他日本政策性融资机构的交叉参照
+## 与其他日本政策性金融机构的交叉参照
 
-该三联体处于一个更广的政策性融资生态之内：
+这一三位一体处于一个更广阔的政策性金融生态系统之内：
 
-- **[[financial-regulators/jfc|JFC (Japan Finance Corporation)]]** — 微型金融、中小企业放贷、农业 / 林业 / 渔业放贷、教育贷款。以国内为重心。因 JBIC 曾在 2008-2012 期间位于 JFC 之内，有时与 JBIC 混淆。
-- **[[policy-finance/jica|JICA (Japan International Cooperation Agency)]]** — ODA、优惠性日元贷款、技术合作、无偿援助、志愿者项目。以发展中国家为重心。
-- **[[policy-finance/jogmec|JOGMEC]]** — 能源与金属的勘探 / 开发支援；对海外资源项目的股权参与。按部门划分。
-- **DBJ（日本政策投资银行）** — 国内项目融资、并购融资、困境融资。大体以国内为主，跨境角色有限。
-- **NEDO（新能源与产业技术综合开发机构）** — 研发资助、示范项目、技术合作。
+- **[[financial-regulators/jfc|JFC (Japan Finance Corporation)]]** —— 小额金融、中小企业贷款、农林渔业贷款、教育贷款。以国内为焦点。有时因 JBIC 在 2008-2012年间曾隶属 JFC 而与之混淆。
+- **[[policy-finance/jica|JICA (Japan International Cooperation Agency)]]** —— ODA、优惠日元贷款、技术合作、赠款援助、志愿者项目。以发展中国家为焦点。
+- **[[policy-finance/jogmec|JOGMEC]]** —— 能源与金属勘探 / 开发支持；对境外资源项目的股权参与。具行业属性。
+- **DBJ（日本政策投资银行）** —— 国内项目融资、并购融资、困境融资。以国内为主，跨境角色有限。
+- **NEDO（新能源产业技术综合开发机构）** —— 研发拨款资助、示范项目、技术合作。
 
-对于一个日本跨境项目，运营团队通常先在这一栈上对交易进行映射，再决定以何种顺序接触哪些机构。JETRO 几乎总是第一接触点；JBIC / NEXI 在结构化阶段跟进；JICA 仅在项目带有 ODA 维度时进入；JOGMEC 仅在资源项目上进入。
+对于一个日本跨境项目，运营团队通常先在这一堆栈中映射交易，然后再决定按何种顺序接触哪些机构。JETRO 几乎总是首个联络对象；JBIC / NEXI 在结构化阶段跟进；JICA 仅在项目具备 ODA 维度时介入；JOGMEC 仅在资源项目时介入。
 
 ## Related
 

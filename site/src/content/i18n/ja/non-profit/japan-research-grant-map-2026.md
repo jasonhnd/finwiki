@@ -1,21 +1,21 @@
 ---
-source: governance/japan-research-grant-map-2026
-source_hash: 059e88127c31b4b1
+source: non-profit/japan-research-grant-map-2026
+source_hash: 6793a00bfb9aa556
 lang: ja
 status: machine
 fidelity: ok
-title: "日本 研究助成金マップ（2026 年度）"
-translated_at: 2026-06-02T14:01:20.906Z
+title: "日本 研究助成金 map（2026 年度）"
+translated_at: 2026-06-19T13:31:34.053Z
 ---
 
-# 日本 研究助成金マップ（2026 年度）
+# 日本 研究助成金 map（2026 年度）
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[non-profit/japan-general-foundation-establishment-requirements|日本 一般財団法人 設立要件・プロセス]] の配下にあり、[[INDEX|FinWiki index]] とあわせて読むべきである。
+This entry sits under [[non-profit/japan-general-foundation-establishment-requirements|日本 一般財団法人 設立要件・プロセス]] and should be read with [[INDEX|FinWiki index]].
 
-> [!info] 要約
+> [!info] TL;DR
 > [[non-profit/japan-general-foundation-establishment-requirements|一般財団法人]] / 研究機関 / 公益目的の研究プロジェクトが狙える主要な助成金を一覧化。助成金額は年度ごとに変動するため「2026 年度」のスナップショットとして記録。
 
 ## 主要候補（2026 年度）
@@ -60,12 +60,12 @@ translated_at: 2026-06-02T14:01:20.906Z
 
 金融・政策金融分野のテーマで助成申請する場合は、[[policy-finance/INDEX|policy-finance INDEX]] と [[finance/INDEX|finance INDEX]] を一次資料の棚卸し用に、業界横断の事業者マッピングは [[business/INDEX|business INDEX]] を参照すると、課題設定と先行整理の解像度が上がる。
 
-## 関連ウィキ
+## 関連 wiki
 
 - [[non-profit/japan-general-foundation-establishment-requirements|japan-general-foundation-establishment-requirements]]（財団法人として助成金を申請する前提）
 - [[non-profit/INDEX|non-profit INDEX]]（金融機関を研究対象とする場合の参照）
 
-## 出典
+## 来源
 
 - 電通普及財団 https://www.taf.or.jp/grant-a/
 - サントリー文化財団 https://www.suntory.co.jp/sfnd/research/
@@ -73,7 +73,7 @@ translated_at: 2026-06-02T14:01:20.906Z
 - 厚労省 https://www.mhlw.go.jp/stf/newpage_67035.html
 - トヨタ財団 https://www.toyotafound.or.jp/grant/research/
 
-## 関連
+## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[non-profit/japan-general-foundation-establishment-requirements|日本 一般財団法人 設立要件・プロセス]]

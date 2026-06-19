@@ -1,17 +1,18 @@
 ---
 source: securities-firms/rakuten-securities
-source_hash: 40287ba1724a5599
+source_hash: 4a732fedc0ef0ee3
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Securities"
-translated_at: 2026-06-01T00:41:50.476Z
+translated_at: 2026-06-19T12:43:19.883Z
 ---
+
 # Rakuten Securities
 
 ## TL;DR
 
-Rakuten Securities is the online brokerage arm associated with [[payment-firms/rakuten-fg|Rakuten's financial ecosystem]]. FSA's financial instruments business operator list identifies Rakuten Securities, Inc. as Kanto Local Finance Bureau (FIBO) No. 195. Rakuten's own April 2024  release said Rakuten Securities surpassed 11  million general securities customer accounts and linked the growth environment to the revamped 2024  NISA program.
+Rakuten Securities is the online brokerage arm associated with [[payment-firms/rakuten-fg|Rakuten's financial ecosystem]]. FSA's financial instruments business operator list identifies 楽天証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 195. Rakuten's own April 2024  release said Rakuten Securities surpassed 11  million general securities customer accounts and linked the growth environment to the revamped 2024  NISA program.
 
 Use this page for online brokerage, retail NISA acquisition, point / card / ecosystem distribution, and household asset-building flow.
 

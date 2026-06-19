@@ -1,49 +1,77 @@
 ---
 source: non-life-insurers/qbe-japan
-source_hash: e79940598b832b70
+source_hash: 19cba8105ee04388
 lang: en
 status: machine
 fidelity: ok
 title: "QBE Japan / QBE Insurance Japan"
-translated_at: 2026-06-01T00:41:50.407Z
+translated_at: 2026-06-19T06:09:18.119Z
 ---
+
 # QBE Japan / QBE Insurance Japan
 
 ## Wiki route
 
-This translated worker file keeps the JapanFG source route intact. The protected anchors below preserve source links, dates, figures, markers, and numbered headings for later unmasking.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/fm-global-japan|FM Global Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
 
 ## TL;DR
 
-QBE Japan / QBE Insurance Japan is treated here as the Japan page for QBE-related insurance operations. The page scope is foreign-insurer group boundary, operating model, license route, and comparison with global specialty insurers. This translation keeps to the public-source boundary of the original entry and does not add new factual claims beyond the protected source material.
+QBE Insurance Group is one of the world's leading commercial and specialty insurers, headquartered in Sydney, Australia, and listed on the ASX. Its Asia operations include a Japan presence focused on commercial property, marine, casualty, financial lines, and trade credit / surety. QBE Japan serves multinational corporate clients and is part of QBE's North Asia regional structure, sitting alongside other foreign specialty insurers such as [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] in the Tokyo specialty market.
 
-## Boundary map
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Entity | QBE Japan / QBE Insurance Japan |
-| Functional role | the Japan page for QBE-related insurance operations |
-| Translation boundary | Preserve the original public-source anchors and avoid expanding beyond the source file. |
+| Legal name | QBE Insurance Group Japan operations (entity name varies by license route — branch / regional licensed underwriting) |
+| English / brand | QBE / QBE Asia |
+| License route | FSA non-life insurer registration via foreign branch or affiliated underwriter |
+| Industry body | General Insurance Association of Japan (損保協会) as foreign insurer |
+| Wiki role | Foreign-affiliated Japan non-life insurance specialty entity |
+| Parent / structure | QBE Insurance Group Limited (ASX: QBE), Sydney |
 
-## Business role
+License route detail belongs to [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]].
 
-- Identifies the entity's position within Japan's financial system.
-- Separates the operating company, holding company, license route, group perimeter, and peer set where relevant.
-- Keeps historical, regulatory, product, and strategy references tied to the protected source anchors.
+## 2. Operating model
 
-## Peer / contrast
+QBE Japan operates within the QBE Asia regional framework, focusing primarily on commercial and specialty insurance for corporate clients rather than personal lines. Key product areas include:
 
-Read this entry together with the related banks, insurers, leasing companies, asset managers, cooperatives, policy bodies, and group pages represented by the protected anchors below.
+- Commercial property and engineering
+- Marine cargo and hull
+- Financial lines (D&O, professional indemnity, financial institutions)
+- Casualty and product liability
+- Trade credit and surety
+- Accident & health for corporate / group programs
 
-## Protected source anchors
+The business model emphasizes broker-led distribution to multinational clients with Japan operations, often coordinated with QBE's global network rather than direct retail distribution. This complements the foreign-specialty layer alongside [[non-life-insurers/lloyd-japan|Lloyd's Japan]] syndicate placements and the [[insurance/japan-nonlife-big-three|non-life big three]]'s large commercial capacity. QBE's solvency profile follows the Australian APRA framework discussed in [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]].
 
-- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/fm-global-japan|FM Global Japan]] [[insurance/INDEX|insurance index]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] 1 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] 2 [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[insurance/japan-nonlife-big-three|non-life big three]] [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 3 [[insurance/japan-nonlife-big-three|non-life big three]] [[non-life-insurers/lloyd-japan]] [[non-life-insurers/fm-global-japan]] [[non-life-insurers/aig-japan]] [[non-life-insurers/chubb-insurance-japan]]
-- [[non-life-insurers/allianz-fire-marine-japan]] [[insurance/japan-nonlife-big-three]] [[insurance/natcat-reinsurance-japan]] [[insurance/global-solvency-framework-comparison-matrix]] [[financial-licenses/insurance-license-and-solvency]] [[insurance/INDEX]] 2026-05-24
+## 3. Why this page matters
+
+- Adds a registry-confirmed Australian-headquartered foreign specialty insurer missing from JapanFG.
+- Clarifies QBE's Asia regional structure and Japan positioning within it.
+- Useful for understanding the foreign specialty layer of Japan's commercial insurance market, which sits beside the domestic [[insurance/japan-nonlife-big-three|non-life big three]].
+- Sets up reference for Australian-headquartered financial services in Japan, comparable in regulatory framework with peer Asia-Pacific carriers.
 
 ## Related
 
-- Related entries, dates, figures, source markers, and section numbers are preserved in the protected source anchors.
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/fm-global-japan]]
+- [[non-life-insurers/aig-japan]]
+- [[non-life-insurers/chubb-insurance-japan]]
+- [[non-life-insurers/allianz-fire-marine-japan]]
+- [[insurance/japan-nonlife-big-three]]
+- [[insurance/natcat-reinsurance-japan]]
+- [[insurance/global-solvency-framework-comparison-matrix]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[insurance/INDEX]]
 
 ## Sources
 
-- Public company, regulator, industry-association, IR, disclosure, and source materials are those represented by the original entry and the protected anchors above.
+- FSA non-life insurer license list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
+- QBE Insurance Group Asia regional site: https://www.qbe.com/asia
+- QBE Insurance Group Limited Annual Report (ASX: QBE)
+- General Insurance Association of Japan member directory (損保協会)
+
+---
+
+> [!info] Verification status
+> confidence: **likely** (FSA non-life insurer list + QBE Asia official site + QBE Group public Annual Report based public information only, 2026-05-24 verification). Japan-entity-level financials are not separately publicly disclosed; group Asia segment reporting is the primary public reference. Entity legal-name and license route specifics should be verified against the latest FSA registry update.

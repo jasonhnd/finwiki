@@ -1,140 +1,140 @@
 ---
 source: policy-finance/japan-project-finance-stack-diagram
-source_hash: 27c1b1e0ac79de9f
+source_hash: 8654ee6cf4aa61f1
 lang: ja
 status: machine
 fidelity: ok
-title: "日本のプロジェクトファイナンス・スタック図（JOGMEC / JBIC / NEXI / メガバンク / SPV）"
-translated_at: 2026-06-03T00:53:08.329Z
+title: "日本のプロジェクトファイナンス・スタック図 (JOGMEC / JBIC / NEXI / メガバンク / SPV)"
+translated_at: 2026-06-19T06:09:18.066Z
 ---
-# 日本のプロジェクトファイナンス・スタック図（JOGMEC / JBIC / NEXI / メガバンク / SPV）
 
-## ウィキ上の位置づけ
+# 日本のプロジェクトファイナンス・スタック図 (JOGMEC / JBIC / NEXI / メガバンク / SPV)
 
-この項目は、日本が海外資源・インフラ案件をどのように金融支援するかを示す横断的な機関マップとして、[[policy-finance/INDEX|policy-finance index]] 配下に置かれる。各機関を個別に扱う [[financial-regulators/jbic]]、[[policy-finance/nexi]]、[[policy-finance/jogmec]]、公的条件の規制上限を扱う [[policy-finance/oecd-export-credit-arrangement]]、同じメガバンクが政策金融の外側で民間シンジケートローンをどのように組成するかを扱う [[finance/japan-acquisition-finance]] とあわせて読む。
+## Wiki ルート
 
-## 要約
+本項目は [[policy-finance/INDEX|policy-finance index]] の下に位置する、日本が海外の資源およびインフラのプロジェクトをどのようにファイナンスするかの機関横断マップである。各機関を単独で見るには [[financial-regulators/jbic]]、[[policy-finance/nexi]]、[[policy-finance/jogmec]] と、公的条件の規制上の上限については [[policy-finance/oecd-export-credit-arrangement]] と、同じメガバンクが政策金融のペリメーターの外で民間シンジケート・デットをどのように組成するかについては [[finance/japan-acquisition-finance]] と併せて読むこと。
 
-典型的な日本の海外資源・インフラ案件は、単一のバランスシートに載るものではない。リスクは、スポンサー SPV の背後に積み上がる四つの官民レイヤーに切り分けられる。[[policy-finance/jogmec|JOGMEC]] は上流レイヤーでエクイティと探鉱 / 地質リスクを負い、[[financial-regulators/jbic|JBIC]] はソブリンと整合する海外投資貸付、アンタイドローン、輸出バイヤーズクレジットを供与し、[[policy-finance/nexi|NEXI]] は商業銀行融資の上に政治リスクと商業リスクを付保し、メガバンク団（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]]）は商業ローンを提供し、多くの場合、一行がエージェント / ファシリティ銀行となる。このスタックが存在するのは、単一のバランスシートが、公的であれ民間であれ、探鉱リスク、ソブリンリスク、政治リスク、長期商業リスクの束を単独で背負えないためである。
+## TL;DR
+
+典型的な日本の海外資源またはインフラのプロジェクトは、1 つのバランスシートの上には乗らない。リスクは、スポンサー SPV の背後に積み上げられた 4 つの公的および民間の層にスライスされる: [[policy-finance/jogmec|JOGMEC]] は上流層でエクイティと探鉱／地質リスクを取り、[[financial-regulators/jbic|JBIC]] はソブリンと整合した海外投資ローン、アンタイドローン、輸出バイヤーズクレジットを貸し付け、[[policy-finance/nexi|NEXI]] は商業銀行融資の上で政治リスクと商業リスクを保険し、メガバンク・シンジケート（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]]）は商業ローンを提供し、しばしば 1 行がエージェント／ファシリティ・バンクとなる。このスタックが存在するのは、いかなる単一のバランスシート —— 公的であれ民間であれ —— も、探鉱リスク、ソブリンリスク、政治リスク、および長期の商業リスクのフルバンドルを単独で担うことができないからである。
 
 ## スタックの ASCII 図
 
 ```
                          +---------------------------------------+
-                         |      スポンサー SPV / プロジェクト会社 |
-                         |  (商社、石油メジャー、IPP /           |
-                         |   鉱山会社、エクイティスポンサー、     |
-                         |   リミテッドリコース借入人)            |
+                         |        SPONSOR SPV / PROJECT CO       |
+                         |  (trading houses, oil majors, IPP /   |
+                         |   miners; equity sponsors;             |
+                         |   limited-recourse borrower)           |
                          +-------------------+-------------------+
                                              ^
-                                             |  エクイティ + シニア債務
+                                             |  equity + senior debt
                                              |
-       +----------+   equity / +-------------+-------------+   商業ローン
-       |          |  ex-risk   |        資金調達スタック    |   トランシェ
+       +----------+   equity / +-------------+-------------+   commercial loan
+       |          |  ex-risk   |       FINANCING STACK     |   tranche
        |  JOGMEC  |----------->|                           |<------------------+
-       |          |  資源      |  シニア債務   | エクイティ |                   |
-       +----------+  エクイティ|  トランシェ   | レイヤー   |                   |
+       |          |  resource  |   senior debt  |  equity  |                   |
+       +----------+  equity    |   tranches     |  layer   |                   |
             ^                  +---+-----+------+----+-----+                   |
-            |  政策 /             |     |           |                         |
-            |  エネルギー安全保障 |     |           |                         |
+            |  policy /            |     |           |                         |
+            |  energy security     |     |           |                         |
             |                      v     v           v                         |
        +----+----+        +--------+   +-------+   +---------+        +--------+--------+
-       |  METI / |        |  JBIC  |   | NEXI  |   | その他  |        |    メガバンク   |
-       |  MOFA   |        | (ECA   |   |(ECA   |   | ECAs /  |        |    シンジケート |
-       |  政策   |        | 直接   |   |保険)  |   | MDBs    |        | MUFG / SMBC /  |
-       +---------+        | 融資 / |   |       |   |(協調)   |        |    Mizuho      |
-                          | アン   |   |       |   |         |        | (商業ローン、  |
-                          | タイド |   |       |   |         |        |  エージェント、|
-                          | ローン/|   |       |   |         |        |  ヘッジ)       |
-                          | buyer  |   |       |   |         |        +--------+-------+
-                          | credit)|   |       |   |         |                 |
+       |  METI / |        |  JBIC  |   | NEXI  |   |  Other  |        |    Megabank    |
+       |  MOFA   |        | (ECA   |   |(ECA   |   | ECAs /  |        |    syndicate   |
+       |  policy |        | direct |   |insur- |   | MDBs    |        | MUFG / SMBC /  |
+       +---------+        | loan / |   |ance)  |   | (co-fin)|        |    Mizuho      |
+                          | untied |   |       |   |         |        | (commercial    |
+                          | loan / |   |       |   |         |        |  loans, agent  |
+                          | buyer  |   |       |   |         |        |  bank, hedges) |
+                          | credit)|   |       |   |         |        +--------+-------+
                           +---+----+   +---+---+   +----+----+                 |
                               |            |            |                      |
-                              |  融資      |  保険      |  協調融資            | 商業
-                              |  実行額    |  カバー    |                      | ローン
+                              |  loan      |  insurance |  co-financing        | commercial
+                              |  proceeds  |  cover     |                      | loan
                               v            v            v                      v
                          +----+------------+------------+----------------------+----+
-                         |             共通条件 / インタークレディター             |
-                         |  OECD Arrangement の最低プレミアム + 期間上限、          |
-                         |  Equator Principles の ESG 審査、共通担保信託           |
+                         |               COMMON TERMS / INTERCREDITOR              |
+                         |  OECD Arrangement minimum premia + tenor caps;          |
+                         |  Equator Principles ESG screen; common security trust   |
                          +----------------------------+---------------------------+
                                                       |
                                                       v
-                                             プロジェクト・キャッシュフロー
-                                         (LNG オフテイク、鉱山オフテイク、
-                                          電力 PPA、インフラ可用性収入)
+                                                Project cash flows
+                                          (LNG offtake, mining offtake,
+                                           power PPA, infra availability)
 ```
 
-この図は様式化したものである。実際の案件では順序が入れ替わる。例えば、JBIC が特別業務勘定を通じて直接エクイティ持分を取得する場合、NEXI が輸出契約ではなく商業ローンの一部を包む場合、多国間機関（ADB、World Bank、AIIB）や他国 ECA（K-EXIM、US EXIM、EDC、KfW IPEX）が日本勢のスタックと並ぶ場合がある。
+この図は様式化されている。実際のディールは順序を入れ替える —— 例えば、JBIC はその特別業務勘定を介して直接エクイティ・ステークを取ることがあり、NEXI は輸出契約ではなく商業ローンの一部をラップすることがあり、マルチラテラル（ADB、世界銀行、AIIB）または同業 ECA（K-EXIM、US EXIM、EDC、KfW IPEX）がしばしば日本のスタックと並んで位置する。
 
-### JOGMEC — エクイティ / 探鉱リスク
+### JOGMEC — エクイティ／探鉱リスク
 
-[[policy-finance/jogmec|JOGMEC]] は資源安全保障のノードである。プロジェクトファイナンス・スタック上では、他の貸し手が引き受けを拒むリスク、すなわち FID 前の探鉱、地質・埋蔵量リスク、上流の石油、ガス、重要鉱物資産へのエクイティ参加を担う。手段には、日本の商社や公益企業の資源開発子会社へのエクイティ資本注入、資産取得支援、探鉱借入の債務保証が含まれる。キャップテーブル上の JOGMEC の存在は、[[financial-regulators/jbic|JBIC]] とメガバンク団が前に進むためのシグナルになることが多い。埋蔵量が確認され、案件が銀行取引可能になれば、シニア債務レイヤーの規模を決められる。
+[[policy-finance/jogmec|JOGMEC]] は資源安全保障のノードである。プロジェクトファイナンス・スタックの上で、それは他の貸し手が引き受けを拒否するリスクを担う: FID 前の探鉱、地質および埋蔵量のリスク、そして上流の石油、ガス、重要鉱物資産へのエクイティ参加。手段には、日本の商社および電力会社の資源開発子会社へのエクイティ資本注入、資産取得支援、および探鉱借入のための債務保証が含まれる。JOGMEC のキャップテーブル上のプレゼンスは、しばしば [[financial-regulators/jbic|JBIC]] とメガバンク・シンジケートが前進することを可能にするシグナルである —— 埋蔵量が証明され、プロジェクトがバンカブルになると、シニア・デット層をサイジングできる。
 
-### JBIC — ソブリン整合型の海外投資貸付、アンタイドローン、輸出バイヤーズクレジット
+### JBIC — ソブリンと整合した海外投資ローン、アンタイドローン、輸出バイヤーズクレジット
 
-[[financial-regulators/jbic|JBIC]] は、海外案件に対する日本政府の直接融資部門である。スタック上では通常、次の一つまたは複数として現れる。外国の日本製設備購入者（例: タービン、液化設備、鉄道システム）への **輸出バイヤーズクレジット**、メガバンクとの協調融資として日本関連 SPV に供与される **海外投資貸付**、長期的な資源輸入を日本に戻すためソブリンまたはソブリン近接の借入人に供与される **アンタイドローン** である。JBIC の役割は、一つには資源・インフラ向けのソブリン整合的な期間（15–25  年）を持ち込むこと、もう一つには商業銀行がその背後に位置できる国家カウンターパーティを提供することである。
+[[financial-regulators/jbic|JBIC]] は海外プロジェクトのための日本の国家の直接貸付部門である。スタックの上で、それは通常、次の 1 つまたは複数として現れる: 日本の機器（例: タービン、液化トレイン、鉄道システム）の外国の買い手への **輸出バイヤーズクレジット**; メガバンクと並んで協調融資する日本系の SPV への **海外投資ローン**; または、日本への長期の資源輸入を確保するためのソブリンまたはソブリンに隣接する借り手への **アンタイドローン**。JBIC の役割は、部分的にはソブリンと整合したテナー（資源とインフラについて 15–25  年）をもたらすことであり、部分的には商業銀行がその背後に座ることのできる国家のカウンターパーティを提供することである。
 
-### NEXI — 政治リスク / 商業リスク保険
+### NEXI — 政治リスク／商業リスク保険
 
-[[policy-finance/nexi|NEXI]] は、商業貸し手が裸で取らないリスクを包む。プロジェクトファイナンス・スタック上の中核商品は、エクイティ投資に係る収用、戦争、送金制限、契約違反をカバーする **海外投資保険**、外国買主向け商業銀行ローンの政治・商業デフォルトリスクをカバーする **貿易保険 / 投資保険のバイヤーズクレジット向け商品**、海外貸付の政治 / 商業デフォルトをカバーする **融資保険** である。NEXI カバーがあると、メガバンク・トランシェは、リスクアセットやカントリーリミットの観点で、実質的に部分的な国家保証付きとなる。
+[[policy-finance/nexi|NEXI]] は、商業の貸し手が裸では取らないリスクをラップする。プロジェクトファイナンス・スタック上のコア製品は、**海外投資保険**（エクイティ投資に対する収用、戦争、送金制限、および契約違反をカバー）; **貿易・投資保険のバイヤーズクレジット向け**（外国の買い手への商業銀行ローンに対する政治的および商業的デフォルトリスクをカバー）; および **ローン保険**（海外貸付に対する政治的／商業的デフォルトをカバー）である。NEXI のカバーがあれば、メガバンク・トランシェは、リスクウェイト資産の目的およびカントリーリミットの目的のために、実質的に部分的に国家保証される。
 
-### メガバンク団 — 商業銀行ローン、エージェント銀行の役割
+### メガバンク・シンジケート — 商業銀行ローン、エージェント・バンクの役割
 
-日本のメガバンク三行、すなわち [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] は商業ローン・トランシェを提供する。大規模 LNG や鉱山案件では、ほぼ常に外国銀行（フランス、シンガポール、米国、豪州）と並ぶ。一行が通常 **エージェント / ファシリティ・エージェント** 役を担い、債権者間メカニクス、ドローダウン、ウォーターフォールを管理する。メガバンクは付随サービスも提供する。FX・金利ヘッジ、運転資金ライン、オフテイクフロー向け貿易金融、COD 後の債券市場またはサステナビリティリンク市場へのリファイナンスである。政策金融の外側では、同じ銀行が純民間案件を組成する。同じシンジケート機構が LBO や企業 M&A にどう再利用されるかは [[finance/japan-acquisition-finance|Japan acquisition finance]] を参照。
+日本のメガバンク三社 —— [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] —— は商業ローン・トランシェを提供し、大型 LNG および鉱業ディールではほぼ常に外国の銀行（フランス、シンガポール、米国、オーストラリア）と並んで提供する。1 行が通常 **エージェント／ファシリティ・エージェント** の役割を取り、インタークレジターのメカニクスを運営し、ドローダウンとウォーターフォールを管理する。メガバンクはまた付随サービスを提供する: FX および金利のヘッジ、運転資金ライン、オフテイク・フローのための貿易金融、そして COD 後のボンドまたはサステナビリティ・リンク市場への借り換え。政策金融のペリメーターの外で、同じ銀行が純粋な民間ディールを組成する —— 同じシンジケート機構が LBO および企業 M&A のためにどのように再利用されるかについては [[finance/japan-acquisition-finance|Japan acquisition finance]] を参照。
 
-### スポンサー SPV — プロジェクト会社、エクイティスポンサー
+### スポンサー SPV — プロジェクト会社、エクイティ・スポンサー
 
-名義上の借入人は単一目的のプロジェクト会社である。エクイティスポンサーは通常、日本の商社（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] はエクイティスポンサーではない。商社とは Mitsui、Mitsubishi Corp、Sumitomo Corp、Itochu、Marubeni、Sojitz である）、日本の公益企業（JERA、Tokyo Gas、Osaka Gas、Kansai Electric）、ホスト国の国営石油会社または国営鉱山会社、一社以上の国際資源メジャー（例: TotalEnergies、Shell、BHP、Rio Tinto）からなるコンソーシアムである。SPV はリミテッドリコースであり、貸し手は主にスポンサーのバランスシートではなく、プロジェクト・キャッシュフローを見る。
+記録上の借り手は、単一目的のプロジェクト会社である。エクイティ・スポンサーは通常、次のコンソーシアムである: 日本の商社（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] はエクイティ・スポンサーではない —— 商社は: 三井、三菱商事、住友商事、伊藤忠、丸紅、双日 である）、日本の電力会社（JERA、東京ガス、大阪ガス、関西電力）、ホスト国の国営石油会社または国営鉱業会社、および 1 社以上の国際的な資源メジャー（例: TotalEnergies、Shell、BHP、Rio Tinto）。SPV はリミテッド・リコースである: 貸し手は主としてプロジェクトのキャッシュフローを見るのであって、スポンサーのバランスシートを見るのではない。
 
-## 典型的な案件フローのタイムライン
+## 典型的なディールフローのタイムライン
 
-| 段階 | 開始からの月数 | 起きること | 主導者 |
+| Stage | Months from start | What happens | Who is driving |
 |---|---|---|---|
-| コンセプト / LOI | 0–6 | 予備的実現可能性調査、資源特定、ホスト国 MOU、スポンサー間タームシート | 商社、JOGMEC の初期検討 |
-| Pre-FEED / FEED | 6–24 | エンジニアリング調査、環境・社会影響評価、財政制度交渉 | スポンサー、EPC 事業者 |
-| バンカビリティ作業 | 18–36 | 貸し手側技術アドバイザー、市場コンサルタント、法務デューデリジェンス、保険ブローカーによる付保構造 | メガバンク、JBIC、NEXI 引受担当 |
-| FID | ~24–36 | 資金調達を条件とするスポンサーの最終投資決定 | スポンサー取締役会 |
-| ファイナンシャルクローズ | 24–42 | 共通条件契約、債権者間契約、ECA 文書、担保信託 | エージェント銀行、貸し手側弁護士 |
-| ドローダウン / 建設 | 36–84 | JBIC、NEXI カバー付き商業トランシェ、スポンサーエクイティの按分実行 | EPC、オーナーズエンジニア |
-| COD / 初出荷 | ~7  年 | 機械的完成、貸し手信頼性テスト、スポンサー支援からプロジェクト・キャッシュフローへの移行 | Project Co 運営 |
-| 運営 / リファイナンス | 7+ 年 | オフテイク収入によるシニア債務返済、商業トランシェの債券リファイナンス可能性 | 財務責任者 / エージェント銀行 |
+| Concept / LOI | 0–6 | Pre-feasibility, resource identification, host-country MOU, term sheet between sponsors | Trading houses, JOGMEC scoping |
+| Pre-FEED / FEED | 6–24 | Engineering studies, environmental and social impact assessment, fiscal regime negotiation | Sponsors, EPC contractors |
+| Bankability work | 18–36 | Lenders' technical advisor, market consultant, legal due diligence, insurance broker bind structure | Megabanks, JBIC, NEXI underwriters |
+| FID | ~24–36 | Final investment decision by sponsors conditional on financing | Sponsor boards |
+| Financial close | 24–42 | Common terms agreement, intercreditor agreement, ECA documentation, security trust | Agent bank, lenders' counsel |
+| Drawdown / construction | 36–84 | Pro-rata drawdowns across JBIC, NEXI-covered commercial tranches, sponsor equity | EPC, owner's engineer |
+| COD / first cargo | ~7 years | Mechanical completion, lender reliability test, switch from sponsor support to project cash flow | Project Co operations |
+| Operations / refinance | 7+ years | Senior debt repayment from offtake revenues; potential bond refinancing of commercial tranche | Treasurer / agent bank |
 
-実際の案件は遅れる。LNG メガプロジェクトでは、FID から初出荷まで 5–8  年、さらにシニア債務を完済するまで 10–15  年かかることが多い。
+実際のディールはずれ込む。LNG メガプロジェクトは、しばしば FID から初出荷まで 5–8  年を要し、シニア・デットの完済までにさらに 10–15  年を要する。
 
-## 近年の例示的案件
+## 最近の例示的な事例
 
-ここでは公表された関与のみを挙げ、トランシェ規模と構造は簡略化している。
+公に発表された関与のみがここで挙げられる; トランシェの規模と構造は簡略化されている。
 
-- **Mozambique LNG (Area 1)** — JBIC は複数 ECA パッケージの一部としてシニアローンを組成し、NEXI は商業銀行トランシェに保険カバーを提供し、日本のメガバンクは US EXIM、UKEF、その他 ECA と並んで商業トランシェに参加した。スポンサーコンソーシアムには TotalEnergies（運営者）、Mitsui、ONGC Videsh などが含まれた。この案件は、2021  の治安事案後の不可抗力ストレス下での ECA 積み上げを示している。
-- **Australia LNG（Ichthys、Wheatstone、以前の North West Shelf 拡張）** — 日本主導の複数の LNG 開発が、JBIC 直接融資、NEXI カバー付き商業銀行トランシェ、メガバンク団によって資金調達された。スポンサーには INPEX（Ichthys 運営者）、Chevron、Shell、日本の商社 / 公益企業のエクイティ持分が含まれる。
-- **銅 / リチウム鉱山** — JOGMEC は、日本の商社を通じた銅、ニッケル、リチウム案件へのエクイティ参加を公表している（例: チリ・豪州の銅、カナダ・豪州のリチウム、インドネシアのニッケルへの過去投資）。典型的な JOGMEC 持分は日本側スポンサーの背後にある少数エクイティラインであり、商業債務は JOGMEC の外側にある。
-- **インフラ: 電力・鉄道** — JBIC 海外投資貸付と NEXI バイヤーズクレジット保険は、南・東南アジアの日本主導 IPP 案件（ガス火力・再生可能エネルギー）や、日本の鉄道メーカーに結びつく車両 / 都市鉄道パッケージ（例: MRT / metro 納入）を支えてきた。
+- **モザンビーク LNG（Area 1）** — JBIC はマルチ ECA パッケージの一部としてシニア・ローンをアレンジした; NEXI は商業銀行トランシェに保険カバーを提供した; 日本のメガバンクは US EXIM、UKEF、その他の ECA と並んで商業トランシェに参加した。スポンサー・コンソーシアムには TotalEnergies（オペレーター）、三井、ONGC Videsh、その他が含まれた。このプロジェクトは、2021  のセキュリティ・インシデント後のフォースマジュール・ストレス下での ECA スタッキングを例示する。
+- **オーストラリア LNG（Ichthys、Wheatstone、およびより早期の North West Shelf 拡張）** — 複数の日本主導の LNG 開発が、JBIC 直接貸付、NEXI カバー付き商業銀行トランシェ、およびメガバンク・シンジケートでファイナンスされた。スポンサーには INPEX（Ichthys オペレーター）、Chevron、Shell、および日本の商社／電力会社のエクイティ・スライスが含まれる。
+- **銅／リチウム鉱業** — JOGMEC は日本の商社を通じて銅、ニッケル、リチウムのプロジェクトへのエクイティ参加を公に発表してきた（例: チリおよびオーストラリアの銅、カナダおよびオーストラリアのリチウム、インドネシアのニッケルへの過去の投資）—— 典型的な JOGMEC のステークは、日本のスポンサーの背後にあるマイノリティのエクイティ・ラインであり、商業デットは JOGMEC の外にある。
+- **インフラ: 電力と鉄道** — JBIC の海外投資ローンに NEXI バイヤーズクレジット保険を加えたものが、南および東南アジアの日本主導の IPP プロジェクト（ガス火力および再生可能エネルギー）、および日本の鉄道メーカーに結びついた車両／都市鉄道のパッケージ（例: MRT / メトロの納入）を支援してきた。
 
-具体的なトランシェ規模は、正確なファシリティ名と日付について JBIC と NEXI のプレスリリースで確認する。
+特定のトランシェ規模については、正確なファシリティ名と日付について JBIC および NEXI のプレスリリースに対して確認すること。
 
-## 純粋な商業シンジケートローンとの違い
+## これが純粋な商業シンジケートローンとどう異なるか
 
-国内の日本企業買収や企業リファイナンス向けの純粋な商業シンジケートローンには、JOGMEC、JBIC、NEXI は不要である。メガバンクは自らの勘定で企業バランスシートに対して貸し出し、しばしばレバレッジやインタレストカバレッジに結びついたコベナンツを付し、期間は 5–10  年である。その構造は [[finance/japan-acquisition-finance|Japan acquisition finance]] を参照。
+純粋な商業シンジケートローン —— 日本の国内買収または企業の借り換えのための —— は、JOGMEC、JBIC、または NEXI を必要としない。メガバンクは、しばしばレバレッジとインタレスト・カバレッジに結びついたコベナンツとともに、企業のバランスシートに対して自らのブックで貸し付け、テナーは 5–10  年である。その構造については [[finance/japan-acquisition-finance|Japan acquisition finance]] を参照。
 
-プロジェクトファイナンス・スタックは五つの点で異なる。
-1. **リスクの切り分け**: 一つのバランスシートがすべてを吸収するのではなく、各レイヤーが定義されたリスク（探鉱、ソブリン期間、政治リスク、商業信用）を担う。
-2. **期間**: ECA トランシェは、民間シンジケートが支えられる範囲を超えて、シニア債務を 15–25  年まで延ばす。
-3. **価格規律**: [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] の下の最低プレミアムと CIRR フロアが、ECA 間の価格競争でマージンが崩れることを防ぐ。
-4. **リコース**: フル・コーポレートリコースではなく、プロジェクト・キャッシュフローと定義されたスポンサー支援範囲に限定される。
-5. **文書量**: 共通条件契約、債権者間契約、ECA 固有コベナンツにより、文書パッケージは国内シンジケートローンより桁違いに重くなる。
+プロジェクトファイナンス・スタックは、5 つの点で異なる:
+1. **リスクのスライス**: 各層は、1 つのバランスシートがすべてを吸収するのではなく、定義されたスライス（探鉱、ソブリンのテナー、政治リスク、商業信用）を取る。
+2. **テナー**: ECA トランシェは、民間シンジケートが支援する範囲を超えて、シニア・デットを 15–25  年へと押し上げる。
+3. **プライシング・ディシプリン**: [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] の下での最低プレミアおよび CIRR フロアが、ECA の価格競争がマージンを崩壊させることを防ぐ。
+4. **リコース**: フル・コーポレート・リコースではなく、プロジェクトのキャッシュフローと定義されたスポンサーサポートのエンベロープに限定される。
+5. **ドキュメンテーションの重さ**: コモンタームズ・アグリーメント、インタークレジター・アグリーメント、および ECA 固有のコベナンツが、ドキュメンテーション・パッケージを国内シンジケートローンより一桁重くする。
 
-## 各レイヤーが存在する理由 — 市場失敗の枠組み
+## なぜ各層が存在するか — 市場の失敗のフレーミング
 
-- **探鉱リスク（JOGMEC）**: 上流の地質リスクは損失分布の裾が厚く、リードタイムが長い。民間エクイティ資本だけでは、地政学的に敏感な法域で限界リターンの重要鉱物に関する FID 前探鉱に資金を出したがらない。日本の政策目的（資源安全保障）が求める価格でそのリスクを買うのは、国家のエクイティ / リスク共有ビークルだけである。
-- **ソブリン期間の貸付（JBIC）**: 商業銀行はバーゼルのリスクウェイトと預金者側の期間ミスマッチに直面し、20 年の無ヘッジのソブリンエクスポージャー貸付は経済的に魅力が乏しい。政府支援資金にアクセスできる国家貸し手は、政治的に許容される価格でその期間を延ばせる。
-- **政治リスク保険（NEXI）**: 民間の政治リスク保険市場（Lloyd's、MIGA、民間シンジケート）には国別・危険別のキャパシティ上限がある。フロンティア国の数十億ドル規模 LNG 案件では民間キャパシティが不足し、国家保険がその空白を埋める。
-- **商業銀行シンジケート（メガバンク）**: ECA の支援があっても、ヘッジ、エージェント役、運転資金といった付随サービスと、純粋な国家金融では欠ける市場価格規律を提供するために民間銀行が必要である。[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]] の存在は、プロジェクトを Equator Principles の ESG デューデリジェンスに適合させることにもつながり、国家機関もこれを参照する。
-- **SPV / スポンサー**: リミテッドリコース・ビークルが必要なのは、プロジェクトの失敗が商社や公益企業の親会社の格付け付きバランスシートを毀損しないようにするためであり、それにより親会社は複数の並行案件に参加できる。
+- **探鉱リスク（JOGMEC）**: 上流の地質リスクは、ヘビーテールの損失分布と長いリードタイムを持つ。民間のエクイティ資本だけでは、限界的なリターンの重要鉱物のために、地政学的にセンシティブな法域での FID 前の探鉱をファンドすることに消極的である。国家のエクイティ／リスクシェアリングのビークルが、日本の政策目的（資源安全保障）が要求する価格でそのリスクの唯一の買い手である。
+- **ソブリンテナーの貸付（JBIC）**: 商業銀行は、20 年のヘッジされていないソブリン・エクスポージャーの貸付を経済的に魅力のないものにする、バーゼルのリスクウェイトと預金者テナーのミスマッチに直面する。政府に裏付けられたファンディングへのアクセスを持つ国家の貸し手が、政治的に許容可能な価格でそのテナーを延長できる。
+- **政治リスク保険（NEXI）**: 民間の政治リスク保険市場（Lloyd's、MIGA、民間シンジケート）は、国ごと、ペリルごとにキャパシティの上限を持つ。フロンティア国での数十億ドルの LNG プロジェクトについては、民間のキャパシティは不十分である; 国家の保険がそのギャップを埋める。
+- **商業銀行シンジケート（メガバンク）**: ECA のバッキングがあってさえ、付随サービス（ヘッジ、エージェントの役割、運転資金）のため、そして純粋な国家金融が欠くであろう市場プライシングのディシプリンを提供するために、民間銀行が必要である。[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]] のプレゼンスはまた、国家機関も参照する Equator Principles の ESG デューデリジェンスにプロジェクトをコンプライアントに保つ。
+- **SPV / スポンサー**: プロジェクトの失敗が商社または電力会社の親会社の格付けされたバランスシートを毀損しないように、リミテッド・リコースのビークルが必要である。これが、親会社が複数の並行プロジェクトに参加することを可能にするものである。
 
-各レイヤーは、その下のレイヤーでは価格づけできないリスクを吸収する。どれか一つのレイヤーを取り除くと、案件は成立しない。あるいは、競合国の政策金融スタックによってのみ成立する。
+各層は、その下の層が価格付けできないリスクを吸収する。いずれか 1 つの層を取り除けば、ディールは構築されない —— あるいは、競合の政策金融スタックによってのみ構築される。
 
-## 関連項目
+## Related
 
 - [[policy-finance/INDEX]]
 - [[financial-regulators/jbic]]
@@ -147,11 +147,11 @@ translated_at: 2026-06-03T00:53:08.329Z
 - [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
-## 出典
+## Sources
 
-- JBIC 公式サイト (https://www.jbic.go.jp/en/) — 機関上の役割、融資商品、海外投資貸付 / アンタイドローン / 輸出バイヤーズクレジットの定義。
-- NEXI 公式サイト (https://www.nexi.go.jp/en/) — 海外投資保険、貿易保険・投資保険、融資保険の商品説明。
-- JOGMEC 公式サイト (https://www.jogmec.go.jp/english/) — エクイティ参加、資産取得支援、探鉱 / 開発リスク共有の任務。
-- OECD Arrangement on Officially Supported Export Credits (https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) — 最低プレミアム、返済期間上限、Coal Sector Understanding を含むセクター合意。
-- Mozambique LNG financing に関する JBIC およびプロジェクトスポンサーの公開プレスリリース。
-- METI export and investment insurance overview (https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html) — NEXI / JBIC の役割に関する政策上の位置づけ。
+- JBIC official site (https://www.jbic.go.jp/en/) — institutional role, lending products, overseas investment loan / untied loan / export buyer credit definitions.
+- NEXI official site (https://www.nexi.go.jp/en/) — Overseas Investment Insurance, Trade and Investment Insurance, Loan Insurance product descriptions.
+- JOGMEC official site (https://www.jogmec.go.jp/english/) — equity participation, asset acquisition support, exploration / development risk-sharing mandate.
+- OECD Arrangement on Officially Supported Export Credits (https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) — minimum premia, repayment-term caps, sector understandings including the Coal Sector Understanding.
+- JBIC and project-sponsor public press releases for Mozambique LNG financing.
+- METI export and investment insurance overview (https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html) — policy framing of NEXI / JBIC roles.

@@ -1,173 +1,174 @@
 ---
 source: real-estate-finance/real-estate-bridge-fund-japan
-source_hash: fd5fcd19f7e042c4
+source_hash: 749471a845985cea
 lang: zh
 status: machine
 fidelity: ok
 title: "房地产过桥基金（日本）"
-translated_at: 2026-06-01T03:31:12.277Z
+translated_at: 2026-06-19T12:43:19.852Z
 ---
+
 # 房地产过桥基金（日本）
 
 ## TL;DR
 
-房地产过桥基金（也称 warehousing fund 或 pre-REIT vehicle）是一种临时 SPV，用于收购物业并短期持有，通常为 6 到 18 个月，然后转让给长期机构所有者，例如 [[real-estate-finance/j-reit-market-overview|J-REIT]]、私募 REIT、企业养老金或主权财富基金。过桥结构存在的原因是：（a）J-REIT 和其他最终买方面临收购时点限制（投标 / 表决周期、股权融资节奏、资产轮换政策）；（b）大型房地产组合卖方无法配合最终买方较慢的时间表。日本典型过桥工具是 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]]，持有以**信托受益权**形式包装的物业，资金由薄层过桥权益（赞助商或伙伴 LP 资本）和厚层无追索过桥债务构成，债务由大型银行、信托银行或外资银行房地产金融部门提供。当最终买方筹得现金（J-REIT 股权发行、养老金配置、主权财富部署）并按预先约定或估值锚定价格收购 SPV 的信托受益权时，完成 takeout。
+房地产过桥基金（又称仓储基金或 pre-REIT 载体）是一种临时性 SPV，收购一处物业并持有一段短期 —— 通常为 6 至 18 个月 —— 之后再将其转让给长期机构所有者，如 [[real-estate-finance/j-reit-market-overview|J-REIT]]、私募 REIT，或企业养老金或主权财富基金。过桥结构之所以存在，是因为 (a) J-REIT 及其他终端买家面临收购时点约束（要约表决周期、股权募集节奏、资产轮动政策），以及 (b) 大型房地产组合的卖方无法迁就终端买家缓慢的时点安排。日本典型的过桥载体是一个 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]]，在 信託受益権（beneficial trust interest）下持有物业，由一薄层过桥股本（发起人或合伙 LP 资本）和一厚层由大型银行、信托银行或外资银行房地产融资部门提供的无追索过桥债务出资。退出（takeout）发生在终端买家筹得现金（J-REIT 股权发行、养老金配置、主权财富部署）并以预先约定或以评估为锚的价格收购该 SPV 的 信託受益権 之时。
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[real-estate-finance/INDEX|房地产金融索引]] 之下，是日本房地产金融 warehousing 层的路线页面。可与 [[real-estate-finance/j-reit-market-overview|J-REIT 市场概览]] 一起阅读以理解主导 takeout 买方，与 [[real-estate-finance/top-10-j-reit-overview-matrix|十大 J-REIT 概览矩阵]] 一起阅读以理解最大最终买方，与 [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|私募 REIT 与上市 J-REIT 对比]] 一起阅读以理解替代 takeout 路线，与 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 一起阅读以理解法律工具层，与 [[real-estate-finance/japan-cmbs-rmbs-securitization|日本 CMBS / RMBS 证券化]] 一起阅读以理解相关但不同的证券化退出路线。与 [[banking/japan-master-trust-and-custody-bank-landscape|日本主信托与托管银行格局]] 配套可理解持有信托受益权的受托基础设施；与 [[banking/trust-bank-custody-operating-comparison|信托银行托管运营对比]] 配套理解运营拆分；与 [[insurance/japan-life-insurance-alm-overview|日本寿险 ALM 概览]] 配套理解 takeout 侧长期买方基础。跨领域锚点：[[policy-finance/japan-housing-finance-agency|JHF]] 不在商业房地产过桥链中，但 [[finance/INDEX|金融索引]] 保留公司融资工具语境，[[policy-finance/INDEX|政策金融索引]] 是公共信用参考。
+本条目归属于 [[real-estate-finance/INDEX|real-estate-finance index]]，是日本房地产金融仓储层的路由页。请将其与 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]（主导的退出买家）、[[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT overview matrix]]（最大的终端买家）、[[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]]（替代退出途径）、[[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]]（法律载体层）以及 [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]]（相关但有别的基于证券化的退出途径）一并阅读。请与 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]]（持有 信託受益権 的受托基础设施）、[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]（运营分工）以及 [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]]（退出端的长久期买家群体）配对阅读。跨领域支点：[[policy-finance/japan-housing-finance-agency|JHF]] 不在商业房地产过桥链条之中，但 [[finance/INDEX|finance index]] 持有企业融资载体背景，而 [[policy-finance/INDEX|policy-finance index]] 是公共信用参照。
 
-### Timing-mismatch problem
+### 时点错配问题
 
-机构级日本房地产卖方（大型银行关联开发商、房地产持有公司、企业资产剥离交易、不良资产重整）需要在 2-4  个月时间表内获得交割确定性。自然最终买方，如 J-REIT 和养老金基金，运行在不同周期上：
+机构级日本房地产的卖方（大型银行关联开发商、房地产控股公司、企业剥离交易、不良资产处置）需要在 2-4 个月的时间线内获得交割确定性。天然的终端买家 —— J-REIT 与养老金 —— 则按不同周期运作：
 
 | End-buyer | Acquisition-timing constraint |
 |---|---|
-| Corporate strategic buyer | 战略审查周期；董事会批准；融资安排。 |
+| Corporate strategic buyer | Strategic-review cycle; board approval; financing arrangement. |
 
-过桥基金吸收这种时点错配。卖方获得快速交割；最终买方获得一条受控资产路径，可以在预先约定（或预先约束）的收购价格下取得已知质量物业。
+过桥基金吸收这一时点错配。卖方获得快速交割；终端买家获得一条通往已知品质物业、且收购价格预先约定（或预先约束）的受控资产路径。
 
-### Vehicle stack
+### 载体堆栈
 
-日本典型过桥基金栈为：
+日本典型的过桥基金堆栈为：
 
-```text
+```
 End buyer (J-REIT / private REIT / pension / SWF)
-                    |
-                    | acquires trust beneficiary interest at takeout
-                    v
+                    │
+                    │  acquires 信託受益権 at takeout
+                    ▼
         Bridge SPV (typically GK-TK SPV)
-        ------------------------------------------------
+        ─────────────────────────────────
         Equity (bridge equity / TK investor)
-        Debt   (bridge debt - non-recourse senior loan)
-                    |
-                    | beneficiary of trust
-                    v
-        Trust bank holds legal title to the real estate
-        under a trust agreement, with bridge SPV as beneficiary
-                    |
-                    | legal title
-                    v
+        Debt   (bridge debt — non-recourse senior loan)
+                    │
+                    │  beneficiary of trust
+                    ▼
+        Trust bank (信託受託者 — holds title to real estate
+        under 信託契約 with bridge SPV as beneficiary)
+                    │
+                    │  legal title
+                    ▼
         Underlying real estate (office / logistics / hotel /
         retail / residential / specialty)
 ```
 
 | Layer | Role |
 |---|---|
-| Bridge SPV | 投资工具；通常为 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 以实现税务流通 |
-| 过桥权益 / TK 投资者 | 提供权益资本：赞助商、伙伴资产管理人、外国 LP、家族办公室或共同投资养老金 |
-| 过桥债务 | 来自大型银行或信托银行房地产金融部门的无追索高级贷款 |
-| 信托银行 | 作为受托人持有物业法律所有权；过桥 SPV 为受益人 |
-| 资产管理人 | 运营臂：通常为赞助商的 J-REIT 资产管理人或第三方房地产资产管理人 |
-| 物业管理人 | 日常物业运营（出租、租户关系、资本开支管理） |
+| Bridge SPV | Investment vehicle; typically [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] for tax-flow-through |
+| Bridge equity / TK investor | Provides equity capital — sponsor, partner asset manager, foreign LP, family office, or co-investing pension |
+| Bridge debt | Non-recourse senior loan from megabank or trust-bank real-estate-finance desk |
+| Trust bank | Holds legal title to property as 信託受託者; bridge SPV is beneficiary |
+| Asset manager | Operating arm — typically the sponsor's J-REIT asset manager or a third-party real-estate asset manager |
+| Property manager | Day-to-day property operations (leasing, tenant relations, capex management) |
 
-### Equity layer
+### 股本层
 
-过桥权益是风险最高、回报最高的层。公开来源中的规模口径：
+过桥股本是风险最高、回报最高的层级。公开来源的规模：
 
-- 权益提供者：J-REIT 赞助商（承担本金风险，暂时把资产保留在 J-REIT 暴露资产负债表之外）；第三方房地产资产管理人基金（如机会型房地产基金）；通过 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 离岸 feeder 结构进入的外国主权 / 养老金 LP。
+- 股本提供方：J-REIT 发起人（承担本金风险以使资产暂时不计入 J-REIT 已暴露的资产负债表）；第三方房地产资产管理基金（如机会型房地产基金）；通过 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 离岸馈给（feeder）结构进入的外国主权 / 养老金 LP。
 
-### Debt layer
+### 债务层
 
-过桥债务是主导资金来源。公开来源结构：
+过桥债务是主导的资金来源。公开来源的结构：
 
 | Feature | Bridge debt reading |
 |---|---|
-| 贷款人 | 大型银行公司 / 房地产金融部门；信托银行房地产金融部门；外资银行日本分行（选择性） |
-| 结构 | 以信托受益权作担保的无追索高级贷款 |
-| LTV | 发起时通常为 60-75%；若加入夹层，高级 LTV 可位于 50-60% |
-| 期限 | 6-18  个月，匹配预期 takeout 时间；常带 6-12  个月展期选择 |
-| 契约 | LTV 维持契约、DSCR 契约、再融资 / takeout 里程碑契约 |
-| 再融资风险 | 重大：如果过桥期末 takeout 失败，贷款人必须承销展期或重整 |
+| Lender | Megabank corporate / real-estate-finance desk; trust-bank real-estate-finance arm; foreign-bank Japan branch (selective) |
+| Structure | Non-recourse senior loan secured by the 信託受益権 |
+| LTV | Typically 60-75% at origination; senior LTV may sit at 50-60% if mezzanine layer is added |
+| Tenor | 6-18 months matching expected takeout timing; often with 6-12 month extension option |
+| Covenants | LTV maintenance covenant, DSCR covenant, refinancing / takeout milestone covenant |
+| Refinancing risk | Substantial — if takeout fails at end of bridge, lender must underwrite extension or workout |
 
-### Dealer-bank role
+### 交易商银行的角色
 
-大型银行和信托银行房地产金融部门不只是贷款人。它们通常在一笔过桥交易中扮演多个角色：
+大型银行与信托银行的房地产融资部门不仅是贷款人。它们通常在过桥交易中扮演多重角色：
 
 | Role | Description |
 |---|---|
-| 过桥贷款人 | 主要信用提供方 |
-| 信托受益权信托银行 | 以信托形式持有物业；收取保管 / 受托费用 |
-| 安排人 / 顾问 | 为赞助商发起过桥结构；协调权益和债务 |
-| Takeout 路线提供方 | 在 takeout 时承销 J-REIT 股权融资（若交易商属于 J-REIT 常设承销团） |
-| 费用流 | 债务发起费、信托费、顾问费，加上 takeout 时股权承销费 |
+| Bridge lender | Primary credit provider |
+| Trust bank for 信託受益権 | Holds property in trust; receives custodian / trustee fee |
+| Arranger / advisor | Originates the bridge structure for the sponsor; coordinates equity and debt |
+| Takeout-route provider | Underwrites the J-REIT equity raise at takeout (where dealer is part of J-REIT's standing syndicate) |
+| Fee streams | Origination fee on debt, trust fee, advisory fee, plus equity underwriting fee at takeout |
 
-这种多角色业务是大型银行集团信托银行（[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]）主导过桥基金业务的原因之一：集团内银行 + 信托 + 证券子公司栈，使单一大型银行可从同一交易捕获多条收入线。运营拆分见 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]。
+这种多角色经营是大型银行集团的信托银行（[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]）主导过桥基金经营的原因之一 —— 集团内银行 + 信托 + 证券子公司的堆栈使单一大型银行能够从一笔交易中获取多条收入线。运营分工请参见 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]。
 
-### Takeout to listed J-REIT
+### 退出至上市 J-REIT
 
-主导 takeout 路线是将 SPV 的信托受益权出售给上市 J-REIT。公开来源机制：
+主导的退出途径是将 SPV 的 信託受益権 出售给上市 J-REIT。公开来源的机制：
 
-1. J-REIT 资产管理人将过桥资产识别为外部成长收购目标。
-2. J-REIT 董事会 / IR 规划下一轮股权融资。
-3. J-REIT 公告收购（通常与股权融资一起披露）。
-4. J-REIT 在公开市场募集权益。
-5. J-REIT 募集资金交割；J-REIT 按预先约定或估值锚定价格收购信托受益权。
-6. 过桥权益和债务得到偿还；SPV 清算结束。
+1. J-REIT 资产管理人将该过桥资产识别为目标外部增长收购对象。
+2. J-REIT 董事会 / IR 规划下一轮股权募集。
+3. J-REIT 宣布收购（通常与股权募集一同披露）。
+4. J-REIT 在公开市场募集股权。
+5. J-REIT 募集款项结算；J-REIT 以预先约定或以评估为锚的价格收购 信託受益権。
+6. 偿还过桥股本与债务；SPV 注销。
 
-### Takeout to private REIT or pension
+### 退出至私募 REIT 或养老金
 
-替代 takeout 路线是出售给 [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT]]，或直接出售给养老金基金 / 主权财富基金。机制不同：
+替代的退出途径是出售给 [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT]] 或直接出售给养老金 / 主权财富基金。机制有所不同：
 
 | Takeout | Mechanism |
 |---|---|
-| Private REIT | LP 资本调用为收购提供资金；定价通常基于独立评估；尽职调查期长于 J-REIT takeout |
-| Pension fund direct | 投资委员会批准；估值锚定定价；整体时间线更长 |
-| Sovereign wealth fund | 类似养老金；通常通过离岸 feeder GK-TK 结构实现税务效率；见 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] |
+| Private REIT | LP capital call funds the acquisition; pricing typically by independent appraisal; longer due-diligence period than J-REIT takeout |
+| Pension fund direct | Investment committee approval; appraisal-anchored pricing; longer overall timeline |
+| Sovereign wealth fund | Similar to pension; often via offshore-feeder GK-TK structure for tax efficiency; see [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] |
 
-### Takeout failure scenarios
+### 退出失败情景
 
-如果 takeout 失败（J-REIT 股权融资窗口关闭、投资单位持有人表决否决、takeout 定价与估值底线冲突），过桥有三种解决方式：
+若退出失败（J-REIT 股权募集窗口关闭、单位持有人表决否决、退出定价与评估底价相撞），过桥有三种处置方式：
 
-1. **展期**：过桥债务展期；权益继续持有；赞助商或资产管理人寻找替代 takeout。
-2. **出售给第三方**：在公开市场将物业出售给不同买方；过桥权益承担价格发现缺口。
-3. **重整**：若资产价值跌破债务，贷款人进入重整模式；过桥权益归零；无追索结构将贷款人追索限制于物业。
+1. **展期** —— 过桥债务展期；股本继续持有；发起人或资产管理人设法寻找替代退出。
+2. **出售给第三方** —— 在公开市场将物业出售给另一买家；过桥股本承担任何价格发现缺口。
+3. **处置（workout）** —— 若资产价值跌破债务，贷款人进入处置模式；过桥股本被清零；无追索结构将贷款人的追索权限定于该物业。
 
-### Sponsor-pipeline model
+### 发起人管道模式
 
-日本 J-REIT 市场的主导模式是赞助商管线支持。J-REIT 赞助商（开发商或商社关联房地产管理人）承诺向其赞助的 J-REIT 提供管线收购机会。过桥基金是关键执行工具：
+日本 J-REIT 市场的主导模式是发起人管道支持。J-REIT 发起人（开发商或商社关联的房地产管理人）承诺向其发起的 J-REIT 提供管道收购机会。过桥基金是关键的实施工具：
 
 | Step | Action |
 |---|---|
-| 赞助商收购资产 | 来自自身开发、第三方出售或不良资产重整 |
-| 赞助商将资产仓储于过桥 SPV | 常有共同投资伙伴 LP |
-| 资产运营指标稳定 | 出租完成、资本开支完成、租户续租管理 |
-| J-REIT 收购窗口开启 | 股权融资 + 收购公告 |
-| J-REIT 从过桥 SPV 收购 | 按估值锚定或预先约定价格 |
-| 赞助商回收资本 | 投入开发或新过桥收购 |
+| Sponsor acquires asset | From own development, third-party sale, or distressed-asset workout |
+| Sponsor warehouses asset in bridge SPV | Often with co-investing partner LP |
+| Asset operational metrics stabilize | Lease-up, capex completion, tenant rollover management |
+| J-REIT acquisition window opens | Equity raise + acquisition announcement |
+| J-REIT acquires from bridge SPV | At appraisal-anchored or pre-agreed pricing |
+| Sponsor recycles capital | Back to development or new bridge acquisition |
 
-### Foreign-LP bridge equity
+### 外国 LP 过桥股本
 
-一个增长中的方向是外国 LP 过桥权益，即外国主权财富、养老金或家族办公室资本向日本过桥 SPV 的过桥权益层提供资本。这通常使用离岸 feeder + 在岸 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 结构实现税务效率，离岸 feeder 接收 TK 分配，并在日本来源规则分析下向外国 LP 穿透。法律工具机制见 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]；平行上市权益外国资金流数据见 [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]。
+一条正在增长的脉络是外国 LP 过桥股本 —— 外国主权财富、养老金或家族办公室资本，为日本过桥 SPV 提供过桥股本层。这通常采用离岸馈给 + 在岸 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 结构以提高税务效率，离岸馈给方收取 TK 分配，并在日本来源规则分析下穿透给外国 LP。法律载体机制请参见 [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]，平行的上市股权外国资金流数据请参见 [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]。
 
-### Bridge equity risk
-
-| Risk | Reading |
-|---|---|
-| Takeout 失败 | 主要风险：如果 J-REIT 不能及时融资，或估值锚定定价下降，过桥权益承担缺口 |
-| 资本化率压缩 / 扩张 | 收购与 takeout 之间资本化率变化驱动按市值变化；利率上升压低 takeout 估值 |
-| 运营风险 | 租户换租、出租失败、资本开支超支 |
-| 再融资风险 | 如果过桥债务需要以更高利差展期，过桥权益收益率被压缩 |
-| 流动性 | 过桥权益在 takeout 前缺乏流动性；赞助商可能需要吸收 |
-| 赞助商风险 | 资产管理人 / 赞助商治理和执行质量 |
-
-### Bridge debt risk
+### 过桥股本风险
 
 | Risk | Reading |
 |---|---|
-| 无追索结构 | 将贷款人追索限制于物业抵押品 |
-| LTV 契约 | 如果估值跌破契约阈值则触发 |
-| DSCR 契约 | 如果运营现金流跌破契约阈值则触发 |
-| 再融资 / takeout | 如果 takeout 失败且资产价值下跌，贷款人承担重整风险 |
-| 借款人 SPV 破产隔离 | [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] 的标准安排；缓解贷款人侧混同风险 |
+| Takeout failure | Primary risk — if J-REIT cannot raise equity in time, or if appraisal-anchored pricing drops, bridge equity bears the gap |
+| Cap-rate compression / expansion | Cap-rate move between acquisition and takeout drives mark-to-market value; rising rates compress takeout appraisal |
+| Operational risk | Tenant rollover, lease-up failure, capex overrun |
+| Refinancing risk | If bridge debt requires extension at higher spread, bridge equity yield compresses |
+| Liquidity | Bridge equity is illiquid until takeout; sponsor may need to absorb |
+| Sponsor risk | Asset manager / sponsor governance and execution quality |
 
-### Return profile
+### 过桥债务风险
+
+| Risk | Reading |
+|---|---|
+| Non-recourse structure | Caps lender recourse to property collateral |
+| LTV covenant | Triggers if appraisal drops below covenant threshold |
+| DSCR covenant | Triggers if operating cashflow drops below covenant threshold |
+| Refinancing / takeout | Lender bears workout risk if takeout fails and asset value drops |
+| Borrower SPV bankruptcy remoteness | Standard for [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]]; mitigates lender-side commingling risk |
+
+### 回报特征
 
 | Tranche | Hold | Target IRR (rough order) |
 |---|---|---|
-| 过桥权益（独立机会型） | 12-18  个月 | 中双位数或更高；带 carry 的基金 LP 结构 |
-| 过桥债务（高级无追索） | 6-18  个月 | 日元利率 + 利差；利差高于标准无追索高级房地产贷款 |
-| 过桥夹层 | 6-18  个月 | 类权益绝对收益；次于高级债 |
+| Bridge equity (independent opportunistic) | 12-18 months | Mid-teens or higher; carry-bearing fund-LP structure |
+| Bridge debt (senior non-recourse) | 6-18 months | Yen-rate + spread; spread above standard non-recourse senior real-estate loan |
+| Bridge mezzanine | 6-18 months | Equity-like absolute yield; subordinated to senior |
 
 ## Related
 
@@ -194,7 +195,7 @@ End buyer (J-REIT / private REIT / pension / SWF)
 
 ## Sources
 
-- ARES（Association for Real Estate Securitization）：日本房地产证券化市场汇总统计。
-- JPX：证券化产品披露界面。
-- FSA：投资产品监管和披露框架。
-- BoJ：与房地产金融相关的总量资金流统计。
+- ARES (Association for Real Estate Securitization): Japan real-estate securitization market summary statistics.
+- JPX: securitized-product disclosure surface.
+- FSA: investment-product regulation and disclosure framework.
+- BoJ: aggregate financial-flow statistics relevant to real-estate finance.

@@ -1,43 +1,43 @@
 ---
 source: non-life-insurers/sbi-insurance
-source_hash: 3d5d46565ae436e5
+source_hash: fb3e1cee812fc882
 lang: ja
 status: machine
 fidelity: ok
 title: "SBI損害保険"
-translated_at: 2026-06-02T15:14:17.133Z
+translated_at: 2026-06-19T06:09:18.180Z
 ---
 
 # SBI損害保険
 
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置する。ピア比較・対比の文脈では [[non-life-insurers/sony-insurance|ソニー損害保険]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] とあわせて読む。
+このエントリは [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア / 対比のコンテキストとしては [[non-life-insurers/sony-insurance|ソニー損害保険]] と、より広範なシステム / 規制境界としては [[insurance/INDEX|insurance index]] と照らし合わせて読むこと。
 
-## 要約
+## TL;DR
 
-SBI損害保険株式会社は、[[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] group のダイレクト型損害保険 operating company。金融庁の損害保険会社免許一覧に載る licensed insurer で、SBI の banking / securities / insurance ecosystem に接続する auto、cancer、fire などの損害保険商品の underwriting boundary を担う。
+SBI損害保険株式会社は、[[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] グループのダイレクト型損害保険事業会社である。金融庁の損害保険会社免許一覧に載る免許保険会社であり、SBI の銀行 / 証券 / 保険エコシステムに接続する自動車・がん・火災その他の損害保険商品の引受境界。
 
-## 1. 免許・グループ境界
+## 1. 免許 / グループ境界
 
 | 項目 | 備考 |
 |---|---|
 | 法人名 | SBI損害保険株式会社 |
-| 英名 | SBI Insurance Co., Ltd. |
-| 免許ルート | 保険業法上の損害保険会社；金融庁の損害保険会社一覧 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ境界 | [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] の損害保険 operating company |
+| 英文名 | SBI Insurance Co., Ltd. |
+| 免許ルート | 保険業法 損害保険会社；金融庁 損害保険会社一覧 |
+| 保護スキーム | 損害保険契約者保護機構 会員 |
+| グループ境界 | [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] 損害保険事業会社 |
 
 ## 2. 事業モデル
 
-SBI損保は、オンライン金融の顧客基盤、価格比較、ダイレクト販売、SBI グループ内クロスセル余地を持つ損害保険会社。[[life-insurers/sbi-life]] と並べることで、SBI の生命保険 / 損害保険 operating-company split が見える。
+SBI損保は、オンライン金融顧客基盤、価格比較、ダイレクト販売、および SBI グループのクロスセル潜在力を持つ損害保険会社である。[[life-insurers/sbi-life]] と並べることで、SBI の生保 / 損保事業会社の分割が見える。
 
-## 3. この項目が重要な理由
+## 3. このページが重要な理由
 
-- [[non-life-insurers/sbi-insurance-group]] の持株会社カバレッジから、事業会社としての引受主体を分離する。
-- [[non-life-insurers/sony-insurance]]、[[non-life-insurers/sompo-direct]]、[[non-life-insurers/tokio-marine-direct]] とのダイレクト型損害保険比較に役立つ。
-- レジストリで裏付けられた D4  direct / digital 損害保険ページである。
+- [[non-life-insurers/sbi-insurance-group]] の持株会社カバレッジを事業会社の引受から分離する。
+- [[non-life-insurers/sony-insurance]]、[[non-life-insurers/sompo-direct]]、[[non-life-insurers/tokio-marine-direct]] に対するダイレクト損保比較に有用。
+- レジストリ裏付けの D4 ダイレクト / デジタル損保ページ。
 
 ## 関連
 

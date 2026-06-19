@@ -1,13 +1,13 @@
 ---
 source: trust-banks/master-trust-bank
-source_hash: 31e2ee76fb70bfd7
+source_hash: 2ca2b333a1a5584f
 lang: en
 status: machine
 fidelity: ok
-title: "The Master Trust Bank of Japan"
-translated_at: 2026-05-31T23:59:49.342Z
+title: ""
+translated_at: 2026-06-19T13:13:22.646Z
 ---
-# The Master Trust Bank of Japan
+## The Master Trust Bank of Japan
 
 ## Wiki route
 
@@ -15,119 +15,119 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 ## TL;DR
 
-Japan's largest trust bank specialized in asset administration (assets under custody **770 兆円** / end of 2025-03 , 2024 年 fiscal-year results). Established in 2000-05  as a joint venture of the [[megabanks/mufg]] group + a life / non-life insurance alliance ([[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], [[cooperative-banks/norinchukin]]). It frequently appears as the top major shareholder in listed-company annual securities reports under the name **"The Master Trust Bank of Japan, Ltd. (Trust Account)"** -- but the actual beneficial owners are pension funds, institutional investors, and investment trust funds, and voting instructions belong to the settlors / investment managers. It specializes in **custody + pension trusts + securities administration**, and effectively does not handle lending or deposits. Together with competitor [[trust-banks/custody-bank]] (Custody Bank of Japan), it forms Japan's 2 -strong securities custody infrastructure. ^[extracted]
+Japan's largest asset-management-dedicated trust bank (assets under custody **770 兆円** / as of end-2025-03 ·2024 年 fiscal-year results). Established 2000-05 , a joint venture of the [[megabanks/mufg]] group + a life/non-life insurance consortium ([[life-insurers/nippon-life]]·[[life-insurers/meiji-yasuda]]·[[cooperative-banks/norinchukin]]). **Under the name "The Master Trust Bank of Japan (trust account)," it appears frequently at the top of the major-shareholder list in the annual securities reports of listed companies** — but the actual beneficial owners are pension funds, institutional investors, and investment-trust funds, and voting-rights instructions rest with the entrusting side. **Dedicated to custody + pension trust + securities management**, it effectively does not handle lending or deposits. Alongside its competitor [[trust-banks/custody-bank]] (Custody Bank of Japan), it constitutes the 2 -pillar structure of Japan's securities-custody infrastructure. ^[extracted]
 
-## 1. Company overview
+## 1. 会社概要
 
-**Legal name**: The Master Trust Bank of Japan, Ltd. ^[extracted]
+**Official name**: The Master Trust Bank of Japan, Ltd. ^[extracted]
 **English name**: The Master Trust Bank of Japan, Ltd. ^[extracted]
-**Established**: 2000-05 (as a specialized trust bank) ^[extracted]
+**Established**: 2000-05 (as a trust-dedicated bank) ^[extracted]
 **Head office**: Hamamatsucho, Minato-ku, Tokyo ^[extracted]
-**Business type**: asset-management-specialized trust bank (custody, pension trusts, securities administration) ^[extracted]
-**Listing**: unlisted (joint venture) ^[extracted]
+**Business type**: asset-management-specialized trust bank (custody, pension trust, securities management) ^[extracted]
+**Listing**: unlisted (joint-venture company) ^[extracted]
 
 ### Major shareholders (public materials) ^[extracted]
 
 | Shareholder | Ratio |
 |---|---|
-| Mitsubishi UFJ Trust and Banking Corporation ([[megabanks/mufg]] 100% subsidiary) | **46.5%** |
+| Mitsubishi UFJ Trust and Banking ([[megabanks/mufg]] 100% subsidiary) | **46.5%** |
 | Nippon Life Insurance ([[life-insurers/nippon-life]]) | **33.5%** |
 | Meiji Yasuda Life Insurance ([[life-insurers/meiji-yasuda]]) | **10.0%** |
-| Norinchukin Trust & Banking ([[cooperative-banks/norinchukin]] group) | **10.0%** |
+| Norinchukin Trust Bank ([[cooperative-banks/norinchukin]] group) | **10.0%** |
 
 ### Functional position
 
 ```
-The Master Trust Bank of Japan (asset-administration specialist, unlisted)
-  ├── Custody business -- custody of listed equities and bonds, nominee services, corporate actions
-  │     └── "The Master Trust Bank of Japan, Ltd. (Trust Account)" name ★ -- frequent top major shareholder in listed-company annual securities reports
-  ├── Pension trusts -- employees' pension funds, defined-benefit corporate pensions, defined-contribution pensions, etc.
-  ├── Securities administration (trust beneficial interests) -- trust accounts for investment trusts and private funds
-  └── Voting instruction execution -- exercises voting rights according to instructions from settlors (pension funds, institutional investors, investment trust managers)
+The Master Trust Bank of Japan (asset-management-dedicated, unlisted)
+  ├── Custody business ── safekeeping of listed equities/bonds, nominee services, corporate actions
+  │     └── "The Master Trust Bank of Japan (trust account)" name ★ ── perennial top major shareholder in listed-company annual reports
+  ├── Pension trust ── employees' pension funds, defined-benefit corporate pensions, defined-contribution pensions, etc.
+  ├── Securities management (trust beneficial interests) ── trust accounts for investment trusts / private funds
+  └── Voting-rights instruction ── exercised per instructions of the entrusting party (pension funds / institutional investors / investment-trust managers)
 ```
 
-> The "trust account" name indicates **separation between the nominal holder (custodian) and the beneficial owner**. The Master Trust Bank of Japan is the legal-form "shareholder," but voting-right exercise and share trading are based on instructions from settlors (pensions / GPIF / investment trust managers / institutional investors). Thus it frequently appears in "major shareholder" sections of annual securities reports, but its independent influence over corporate management is limited. ^[extracted]
+> The "trust account" name signifies the **separation of the nominee (custodian) from the beneficial owner**. The Master Trust Bank of Japan is the "shareholder" in legal form, but voting and share trading are based on the instructions of the entrusting party (pension/GPIF / investment-trust managers / institutional investors). It is therefore a perennial entry in the "major shareholders" column of annual reports, but its independent voice over corporate management is limited. ^[extracted]
 
-### Key timeline ^[extracted]
+### Key chronology ^[extracted]
 
-| Year / month | Event |
+| Year/month | Event |
 |---|---|
-| **2000-05** | **The Master Trust Bank of Japan established** -- JV of former Mitsubishi Trust Bank + Nippon Life + Meiji Life + Yasuda Life, etc., as a specialized asset-administration trust |
-| 2000-2005  | Pension trust mandates expanded (including response to return of substitutional portions by employees' pension funds) |
-| 2005-10  | Parent integration following launch of [[megabanks/mufg]] (Mitsubishi Trust -> Mitsubishi UFJ Trust) |
-| 2010-04  | Merger of Meiji Yasuda Life (former Meiji Life + Yasuda Life) -> shareholder structure organized |
-| 2010 年s | Rapid increase in entrusted assets (pension assets including GPIF, expansion in foreign investors' Japanese equity holdings) |
-| 2020 年s | Custody DX / electronic corporate actions / electronic voting support |
-| **End of 2024 年 fiscal year (2025-03)** | **Assets under custody 770 兆円** (about 67 兆円 increase from prior fiscal year-end; largest domestic scale; trust assets of about 598.7 兆円 + administrative assets under agency arrangements) |
+| **2000-05** | **The Master Trust Bank of Japan established** — a joint venture of the former Mitsubishi Trust and Banking + Nippon Life + Meiji Life + Yasuda Life, etc., as an asset-management-dedicated trust |
+| 2000〜2005 | Expansion of pension-trust mandates (including response to the return of the employees'-pension-fund agency portion) |
+| 2005-10 | Parent-company integration accompanying the formation of [[megabanks/mufg]] (Mitsubishi Trust → Mitsubishi UFJ Trust) |
+| 2010-04 | Meiji Yasuda Life merger (former Meiji Life + Yasuda Life) → reorganization of shareholder composition |
+| 2010 年s | Surge in entrusted assets (pension assets including GPIF, and expansion of Japanese-equity holdings via foreign investors) |
+| 2020 年s | Custody DX / digitization of corporate actions / response to electronic voting |
+| **End of FY2024 年 (2025-03)** | **Assets under custody 770 兆円** (an increase of about 67 兆円 from the prior year-end, the largest scale domestically, trust-property balance of about 598.7 兆円 + assets under administrative-mandate management) |
 
-## 2. Business segment map
+## 2. Business-segment map
 
 | Segment | Function | Customers |
 |---|---|---|
-| **Custody (asset administration)** | Custody of equities and bonds, nominee services, corporate actions, dividend receipt, stock-split processing | Domestic and overseas institutional investors, investment trust managers, pension funds |
-| **Pension trusts** | Entrusted trusts and administration for employees' pension funds, defined-benefit corporate pensions (DB), and defined-contribution pensions (DC) | Corporate pensions, public pensions (GPIF, etc.) |
-| **Securities administration trusts** | Trust accounts for investment trusts, private funds, and SPCs; beneficial-interest administration | Investment trust managers, asset managers, institutional investors |
-| **Voting-right execution agency** | Voting-right exercise based on settlor instructions; coordination with advisory firms such as ISS / Glass Lewis | Institutional investors |
-| **Trust agency business** | Trust beneficial-interest records, escrow, specified money trusts other than cash | Corporate clients |
+| **Custody (asset management)** | safekeeping of equities/bonds, nominee services, corporate actions, dividend receipt, stock-split handling | domestic and overseas institutional investors, investment-trust managers, pension funds |
+| **Pension trust** | trust mandates and management of employees' pension funds, defined-benefit corporate pensions (DB), defined-contribution pensions (DC) | corporate pensions, public pensions (GPIF, etc.) |
+| **Securities-management trust** | trust accounts for investment trusts / private funds / SPCs, beneficial-interest management | investment-trust managers, asset managers, institutional investors |
+| **Voting-rights exercise agency** | voting-rights exercise based on entruster instructions, handling of advisory firms such as ISS / Glass Lewis | institutional investors |
+| **Trust-agency business** | recording of trust beneficial interests, escrow, specified money trusts outside the standard category | corporate clients |
 
-### Industry structure -- custody 2 -strong system
+### Industry structure — custody 2 -pillar system
 
-Japan's specialized asset-administration trusts are an **2 -firm oligopoly**:
+Japan's asset-management-dedicated trusts form a **2 -pillar oligopoly**:
 
-| Institution | Group | Establishment | Major shareholders |
+| Institution | Affiliation | Established | Major shareholders |
 |---|---|---|---|
-| **The Master Trust Bank of Japan** | [[megabanks/mufg]] + life insurer alliance | 2000-05  | Mitsubishi UFJ Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10% / Norinchukin Trust 10% |
-| **[[trust-banks/custody-bank]] (Custody Bank of Japan)** | [[trust-banks/sumitomo-mitsui-trust]] + [[megabanks/mizuho-fg]] + Resona line | 2020-07  | Integration of former Japan Trustee Services Bank + Trust & Custody Services Bank |
+| **The Master Trust Bank of Japan** | [[megabanks/mufg]] + insurer consortium | 2000-05 | Mitsubishi UFJ Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10% / Norinchukin Trust 10% |
+| **[[trust-banks/custody-bank]] (Custody Bank of Japan)** | [[trust-banks/sumitomo-mitsui-trust]] + [[megabanks/mizuho-fg]] + Resona group | 2020-07 | integration of the former Japan Trustee Services Bank + Trust & Custody Services Bank |
 
-> [[trust-banks/custody-bank]] was launched in 2020-07  by integrating former JTSB (Japan Trustee Services Bank) + TCSB, the asset-administration services trust bank under the JTC HD line. It is a JV of Sumitomo Mitsui Trust, Mizuho Trust, Resona, etc. Alongside Master Trust, it is one of Japan's custody 2  strong players. ^[extracted]
+> [[trust-banks/custody-bank]] was formed in 2020-07  by integrating the former JTSB (Japan Trustee Services Bank) + the Trust & Custody Services Bank (TCSB) of the JTC HD group. A joint venture of Sumitomo Mitsui Trust + Mizuho Trust + Resona, etc. Alongside Master Trust, it is one of Japan's 2 -pillar custody players. ^[extracted]
 
 ### Meaning of the "trust account" name
 
-- **Legal-form shareholder != beneficial owner**: the trust bank is the **nominal holder**, while actual economic ownership belongs to the settlors (pension funds, investment trusts, institutional investors)
-- **Voting rights**: exercised based on settlor instructions (not the trust bank's own judgment)
-- **Efficiency of centralized custody**: aggregates many institutional investors' shareholdings into 1  trust account, centralizing settlement, dividends, and corporate-action processing
-- **Voting-right disclosure**: investment managers that are settlors (GPIF, Mitsubishi UFJ Asset Management, etc.) disclose their own voting results
+- **Legal-form shareholder ≠ beneficial owner**: the trust bank is the **nominee**, while actual economic ownership rests with the entrusting party (pension funds / investment trusts / institutional investors)
+- **Voting rights**: exercised based on instructions from the entrusting party (not the trust bank's independent judgment)
+- **Efficiency of centralized custody**: by consolidating the shareholdings of many institutional investors into 1  trust account, settlement / dividends / corporate-action processing are concentrated
+- **Voting-result disclosure**: the managers who are the entrusting parties (GPIF, Mitsubishi UFJ Asset Management, etc.) disclose their own voting results
 
 ### Importance ★
 
-- "The Master Trust Bank of Japan, Ltd. (Trust Account)" almost certainly appears near the top of the "major shareholders" section in annual securities reports of Japanese listed companies (often the largest shareholder for large caps)
-- However, the substantive decision-maker for voting rights and share trades is the beneficial owner (pension / investment trust manager), not the trust bank itself -- "true shareholder structure" analysis must decompose trust accounts
-- Core of Japan's **securities custody and settlement infrastructure**
+- "The Master Trust Bank of Japan (trust account)" appears almost certainly near the top of the "major shareholders" column in the annual securities reports of Japanese listed companies (often the largest shareholder, especially for large-cap stocks)
+- However, the substantive decision-maker on voting / share trading is the beneficial owner (pension / investment-trust manager), not the trust bank itself — analysis of the "true shareholder structure" requires decomposing the trust account
+- The **core of the custody / settlement infrastructure** of the Japanese equity market
 
 ## 4. Regulation / policy
 
-- **Supervisor**: FSA -- Trust Business Act, Banking Act
-- **Business type**: trust bank (specialized trust)
+- **Supervisor**: Financial Services Agency (FSA) — Trust Business Act, Banking Act
+- **Business type**: trust bank (trust-dedicated)
 - **Industry body**: Trust Companies Association of Japan
-- **Related regulations**:
+- **Related regulation**:
   - Trust Business Act
-  - Banking Act (as a bank concurrently conducting trust business)
-  - Financial Instruments and Exchange Act (securities custody)
-  - Stewardship Code (transparency of voting-right exercise)
-- **Recent policy issues**:
-  - **Expansion of item-by-item disclosure of voting-right exercise results** (on the investment manager side; the trust bank follows settlor disclosure)
+  - Banking Act (as a trust-business-concurrent bank)
+  - Financial Instruments and Exchange Act (securities safekeeping)
+  - Stewardship Code (voting-exercise transparency)
+- **Recent policy topics**:
+  - **Expansion of individual disclosure of voting results** (on the manager side; the trust bank follows entruster disclosure)
   - Custody DX / STP (Straight-Through Processing)
-  - Consideration of T+1  stock settlement
-  - Custody support for crypto assets and tokenized securities
+  - Consideration of T+1  for equity settlement
+  - Custody handling of crypto-assets / tokenized securities
 
 ## Related
 
-- [[megabanks/mufg]] -- parent-company group; Mitsubishi UFJ Trust Bank 100% subsidiary is a 46.5% shareholder
-- [[trust-banks/custody-bank]] -- major competitor (Custody Bank of Japan, launched 2020-07 )
-- [[life-insurers/nippon-life]] -- major shareholder 33.5%
-- [[life-insurers/meiji-yasuda]] -- major shareholder 10%
-- [[cooperative-banks/norinchukin]] -- via Norinchukin Trust Bank to 10%
-- [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] -- [[trust-banks/custody-bank]] group
+- [[megabanks/mufg]] — parent-company group; the 100% subsidiary Mitsubishi UFJ Trust and Banking is a 46.5% shareholder
+- [[trust-banks/custody-bank]] — main competitor (Custody Bank of Japan, formed 2020-07 )
+- [[life-insurers/nippon-life]] — major shareholder 33.5%
+- [[life-insurers/meiji-yasuda]] — major shareholder 10%
+- [[cooperative-banks/norinchukin]] — via Norinchukin Trust Bank 10%
+- [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] — [[trust-banks/custody-bank]] group
 
 ## Sources
 
-- **Wikipedia: The Master Trust Bank of Japan** (https://ja.wikipedia.org/wiki/日本マスタートラスト信託銀行, extracted 2026-05-19)
-- Mitsubishi UFJ Trust and Banking disclosure materials (official / affiliated-company disclosures)
-- Trust Companies Association of Japan published materials (industry statistics)
-- **The Master Trust Bank of Japan 2024 年 fiscal-year results (2025-05-21)**: https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf -- assets under custody 770 兆円 (end of 2025-03 ), trust assets 598,673,237 百万円, shareholder structure (Mitsubishi UFJ Trust 46.5%)
-- **The Master Trust Bank of Japan company profile**: https://www.mastertrust.co.jp/company/information.html -- shareholder contribution ratios (Mitsubishi UFJ Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10% / Norinchukin Trust 10%)
+- **Wikipedia: 日本マスタートラスト信託銀行**（https://ja.wikipedia.org/wiki/日本マスタートラスト信託銀行, 2026-05-19 抽出）
+- 三菱 UFJ 信託銀行 開示資料（公式・関連会社開示）
+- 一般社団法人 信託協会 公表資料（業界統計）
+- **日本マスタートラスト信託銀行 2024 年度決算について (2025-05-21)**: https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf — 預かり資産残高 770 兆円 (2025-03 末)、信託財産残高 598,673,237 百万円、株主構成 (三菱 UFJ 信託 46.5%)
+- **日本マスタートラスト信託銀行 会社概要**: https://www.mastertrust.co.jp/company/information.html — 株主出資比率 (三菱 UFJ 信託 46.5% / 日本生命 33.5% / 明治安田 10% / 農中信託 10%)
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (public-materials basis; shareholder ratios are stable figures). Assets under custody 770 兆円 (end of 2025-03 ) are confirmed values from the company's 2024 年 fiscal-year results (published 2025-05-21). The substantive meaning of the "trust account" name (nominal holder vs beneficial owner) is a basic concept in institutional investor analysis and requires care.
+> [!info] 検証状況
+> confidence: **likely** (based on public materials; shareholder ratios are stable figures). Assets under custody 770 兆円 (as of end-2025-03 ) is a confirmed figure from the company's FY2024 年 results (published 2025-05-21). The substantive meaning of the "trust account" name (nominee vs beneficial owner) requires attention as a foundational concept of institutional-investor analysis.

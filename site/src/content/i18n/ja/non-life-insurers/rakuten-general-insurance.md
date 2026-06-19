@@ -1,45 +1,44 @@
 ---
 source: non-life-insurers/rakuten-general-insurance
-source_hash: 309d0e18b389232b
+source_hash: 8a1c26c5ddc73181
 lang: ja
 status: machine
 fidelity: ok
 title: "楽天損害保険"
-translated_at: 2026-06-02T15:14:17.093Z
+translated_at: 2026-06-19T06:09:18.132Z
 ---
 
 # 楽天損害保険
 
+## Wiki route
 
-## ウィキ上の位置づけ
+本エントリは [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア／対比の文脈については [[life-insurers/rakuten-life|楽天生命保険]] と、より広範な体系／規制境界については [[insurance/INDEX|insurance index]] と照らし合わせて読むこと。
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置く。比較・対照の文脈は [[life-insurers/rakuten-life|楽天生命保険]] と照合し、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+## TL;DR
 
-## 要約
-
-楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / 楽天保険エコシステム の 損害保険の事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される 免許を受けた保険会社 で、楽天カード・楽天銀行・楽天生命・楽天ポイント 経済圏上の接点 と接続しうる。
+楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem の損害保険事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される免許保険会社で、楽天カード・楽天銀行・楽天生命・楽天ポイントの経済圏と接続しうる。
 
 ## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 法的名称 | 楽天損害保険株式会社 |
-| 英語名 | Rakuten General Insurance Co., Ltd. |
-| 免許ルート | 保険業法上の損害保険会社。金融庁の損害保険会社一覧で確認する。 |
-| 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ boundary | [[payment-firms/rakuten-fg]] / 楽天保険エコシステム |
+| Legal name | 楽天損害保険株式会社 |
+| English name | Rakuten General Insurance Co., Ltd. |
+| License route | 保険業法 損害保険会社；金融庁 損害保険会社免許一覧 |
+| Protection scheme | 損害保険契約者保護機構 会員 |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 
-## 2. 運営モデル
+## 2. Operating model
 
-楽天損保は、楽天 ID、ポイント、カード、銀行、マーケットプレイス、アプリ流入と保険販売を接続できるため、従来型の代理店専業損保とは戦略的に異なる。汎用的な楽天グループページに埋め込まず、[[life-insurers/rakuten-life]] や [[non-life-insurers/rakuten-insurance-hd]] のカバレッジと比較して読むべきである。
+楽天損保は、保険の販売を楽天 ID・ポイント・カード・銀行・マーケットプレイス・アプリのトラフィックと接続できる点で、従来の代理店専業損保とは戦略的に異なる。汎用的な楽天グループのページの下に埋もれさせるのではなく、[[life-insurers/rakuten-life]] や [[non-life-insurers/rakuten-insurance-hd]] のカバレッジと比較すべきである。
 
-## 3. このページが重要な理由
+## 3. Why this page matters
 
-- 楽天グループ内の損害保険事業会社の境界を追加する。
-- `rakuten-general-insurance` を、将来の楽天 Insurance HD 持株会社ページと区別しておく。
-- 登録情報に裏づけられた 4  ダイレクト・デジタル損保ページ。
+- 楽天の損害保険事業会社境界を追加する。
+- `rakuten-general-insurance` を将来の楽天インシュアランス HD 持株会社ページと区別して維持する。
+- 注册登记に裏付けられた D4 ダイレクト／デジタル損保ページ。
 
-## 関連項目
+## Related
 
 - [[payment-firms/rakuten-fg]]
 - [[non-life-insurers/rakuten-insurance-hd]]
@@ -48,8 +47,8 @@ translated_at: 2026-06-02T15:14:17.093Z
 - [[payment-firms/rakuten-edy]]
 - [[insurance/INDEX]]
 
-## 出典
+## Sources
 
-- 金融庁: 損害保険会社免許一覧、基準日 2026-04-01.
-- 損害保険契約者保護機構: 会員会社一覧、基準日 2026-04.
-- 楽天損保 公式会社概要.
+- 金融庁：損害保険会社免許一覧、2026-04-01 時点。
+- 損害保険契約者保護機構：会員会社一覧、2026-04 時点。
+- 楽天損保 公式会社概要。

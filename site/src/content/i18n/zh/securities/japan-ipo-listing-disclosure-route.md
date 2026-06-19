@@ -1,102 +1,107 @@
 ---
 source: securities/japan-ipo-listing-disclosure-route
-source_hash: 1419594bf90b45ff
+source_hash: 18d3cdbca6909e40
 lang: zh
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-06-01T03:31:12.257Z
+title: "日本 IPO 上市披露路径"
+translated_at: 2026-06-19T12:43:19.976Z
 ---
-#日本IPO上市披露途径
 
-## 概述
+# 日本 IPO 上市披露路径
 
-日本IPO记录结合了交易所上市审查、证券登记披露、承销/簿记、上市审批、TDnet及时披露、EDINET法定披露以及上市后公司治理记录。此页面记录发行人进入东京证券交易所上市市场的公共途径。
+## 概览
 
-此页面属于 [[securities/INDEX|securities domain]]，并链接到 [[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]] 和[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]。
+日本 IPO 记录结合了交易所上市审查、有价证券登记披露、引受／簿记建档、上市批准、TDnet 适时披露、EDINET 法定披露以及上市后公司治理记录。本页面记录发行体进入 TSE 上市市场的公开路径。
 
-## 路线图
+本页面属于 [[securities/INDEX|securities domain]]，并链接到 [[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]] 和 [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]。
 
-|层|公共源码路线|公共记录领域 |
+## 路径图
+
+| 层级 | 公开来源路径 | 公开记录字段 |
 |---|---|---|
-|挂牌地点| JPX / TSE 上市页面 |细分市场、上市标准、上市时间表、上市审批。 |
-|上市审查|日本交易所监管/东京证交所路线 |形式标准、实质审查、针对特定市场的指南路线。 |
-|证券披露| EDINET/证券登记声明|发行人、发行条款、财务报表、风险因素、收益用途。 |
-|承保 |券商/主承销商/JSDA路线|主承销商、银团、簿记建档、发行价格。 |
-|上市审批 | JPX新上市页面及发行人公告|上市核准日期、上市日期、首次上市发行文件。 |
-|及时披露 | TD网|上市批准、修订、治理、上市后公告。 |
-|公司治理| JPX 治理报告和发行人披露 |治理结构、独立董事、股东大会文件。 |
-|上市后市场数据| TSE/市场数据供应商/发行人发布|初始价格、成交​​量、市值、锁仓披露。 |
+| 上市场所 | JPX／TSE 上市页面 | 市场分区、上市标准、上市时间表、上市批准。 |
+| 上市审查 | 日本交易所自主规制法人／TSE 路径 | 形式标准、实质审查、市场专属指南手册路径。 |
+| 有价证券披露 | EDINET／有价证券登记书 | 发行体、发行条款、财务报表、风险因素、资金用途。 |
+| 引受 | 证券公司／主承销商／JSDA 路径 | 主承销商、辛迪加团、簿记建档、发行价格。 |
+| 上市批准 | JPX 新上市页面及发行体公告 | 上市批准日、上市日、新上市证券的初始文件。 |
+| 适时披露 | TDnet | 上市批准、修订、治理、上市后公告。 |
+| 公司治理 | JPX 治理报告及发行体披露 | 治理结构、独立董事、股东大会文件。 |
+| 上市后市场数据 | TSE／市场数据供应商／发行体发布 | 初始价格、成交量、市值、锁定期披露。 |
 
-## 上市运营商及考核领域
+## 上市运营者及审查字段
 
-TSE / JPX 运行初始上市路线。 JPX-R受东京证券交易所委托进行上市审查。公共来源路径包括 JPX 潜在发行人中心、新上市指南、特定市场的上市标准和新上市页面。
+TSE／JPX 运营新上市路径。JPX-R 受 TSE 委托实施上市审查。公开来源路径包括 JPX 拟上市者枢纽、新上市指南手册、市场专属上市标准以及新上市页面。
 
-初始上市标准因细分市场而异。 JPX 为 Prime、Standard、Growth 和外国股票航线发布单独的标准和指南材料。页面级源快照标识了所引用的细分市场。
+新上市标准因分区而异。JPX 针对 Prime、Standard、Growth 和外国股路径分别公布单独的标准及指南手册资料。页面级来源快照标识所引用的市场分区。
 
-## 公开上市路线
+## 公开上市路径
 
-|舞台|公共记录字段 |
+| 阶段 | 公开记录字段 |
 |---|---|
-|上市前准备|审计状况、内部控制体系、治理、资本政策、主承销商、上市板块。 |
-|应用 |上市申请途径、交易所/JPX-R审核、提交文件。 |
-|上市审查|形式标准、实质性标准、业务连续性、治理、披露控制、股东结构。 |
-|上市审批 |批准日期、上市日期、首次上市发行大纲、JPX 新上市页面上的公开文件。 |
-|发售/簿记 |簿记建档范围、发行/二次销售、超额配售、牵头经办人、银团、发行价格。 |
-|第一个交易日 |初始价格、开盘价格、成交​​量、市值、锁定参考（如有披露）。 |
-|上市后披露| TDnet、EDINET、公司治理报告、收益披露、股东大会材料。 |
+| 上市前准备 | 审计状况、内部控制系统、治理、资本政策、主承销商、上市分区。 |
+| 申请 | 上市申请路径、交易所／JPX-R 审查、提交文件。 |
+| 上市审查 | 形式标准、实质标准、业务持续性、治理、披露控制、股东结构。 |
+| 上市批准 | 批准日、上市日、新上市证券概要、JPX 新上市页面上的公开文件。 |
+| 发行／簿记建档 | 簿记建档区间、发行／二次出售、超额配售、主承销商、辛迪加团、发行价格。 |
+| 首个交易日 | 初始价格、开盘价、成交量、市值、披露时的锁定期参考。 |
+| 上市后披露 | TDnet、EDINET、公司治理报告、业绩披露、股东大会资料。 |
 
-## 新上市文件字段JPX 的公开新上市页面提供滚动发行人记录。源包记录了以下在新列表页面上常见的公共文档链接：
+## 新上市文件字段
 
-|文档/领域 |公共内容路线 |
+JPX 的公开新上市页面提供滚动更新的发行体记录。来源包记录新上市页面上通常可见的以下公开文件链接：
+
+| 文件／字段 | 公开内容路径 |
 |---|---|
-|上市日期 | JPX 新列表页面。 |
-|上市批准日期| JPX 新列表页面。 |
-|首次上市发行概要 |上市问题摘要。 |
-|首次上市申请证券报告第一部分|业务、财务、风险、治理和股东披露。 |
-|公司治理报告|治理结构和治理准则披露。 |
-|盈利报告|发行人收益/财务披露（如有）。 |
-|书面确认|发行人确认文件路径。 |
+| 上市日 | JPX 新上市页面。 |
+| 上市批准日 | JPX 新上市页面。 |
+| 新上市证券概要 | 上市证券摘要。 |
+| 新上市申请用有价证券报告书（第Ⅰ部） | 业务、财务、风险、治理及股东披露。 |
+| 公司治理报告 | 治理结构及治理准则披露。 |
+| 决算短信 | 提供时的发行体业绩／财务披露。 |
+| 确认书 | 发行体确认文件路径。 |
 
-## TDnet 路线
+## TDnet 路径
 
-TDnet是上市公司及时披露的交易所披露轨道。 JPX表示，上市规则要求上市公司使用TDnet及时披露信息。 TDnet公共界面包括公司公告披露服务/`适时开示情报读取覧サービsu`、上市公司搜索/`东证上场会社情报サービsu`以及付费TDnet数据库服务。
+TDnet 是上市公司适时披露的交易所披露轨道。JPX 表示，上市公司根据上市规则被要求使用 TDnet 进行适时披露。TDnet 公开界面包括适时披露信息阅览服务／`適時開示情報閲覧サービス`、东证上市公司信息服务／`東証上場会社情報サービス`，以及付费 TDnet 数据库服务。
 
-JPX 表示，TDnet 发布的披露与 TDnet 披露的同时可供公众检查，并且可以针对重大事实和某些要约收购事实完成出于内幕交易目的的公布措施。这会将 IPO/上市记录连接到 [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]。
+JPX 表示，TDnet 上发布的披露与 TDnet 披露同时供公众查阅，并可针对重要事实及某些公开收购事实完成内幕交易目的的公布措施。这将 IPO／上市记录与 [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]] 关联起来。
 
-## 计时字段
+## 时间字段
 
-|来源路线|计时领域|
+| 来源路径 | 时间字段 |
 |---|---|
-| JPX上市时间表页面|上市启动时间约为一年，具体取决于公司内部制度。 |
-| JPX上市时间表页面|需要两个业务年的审计。 |
-| JPX上市时间表页面|外国公司上市审查大约需要三个月的时间。 |
-| JPX上市时间表页面|对于外资公司的申请，上市审批后约需1个月时间办理IPO手续。 |
+| JPX 上市时间表页面 | 从启动到上市约一年，取决于公司内部体制。 |
+| JPX 上市时间表页面 | 需要两个营业年度的审计。 |
+| JPX 上市时间表页面 | 外国公司上市审查约需三个月。 |
+| JPX 上市时间表页面 | 对于外国公司申请，上市批准后约需一个月进行 IPO 程序。 |
 
-在源包中查看的 JPX 列表时间表页面显示更新日期为 2022-04-03。时间字段被记录为计划页面字段，而不是发行者特定的实际时间线。
+来源包中查阅的 JPX 上市时间表页面显示更新日期为 2022-04-03。时间字段记录为时间表页面字段，而非发行体特定的实际时间线。
 
 ## IPO 文件字段
 
-|领域 |文档路径 |
+| 字段 | 文件路径 |
 |---|---|
-|发行人法定名称 | EDINET 注册声明和 JPX 列表通知。 |
-|细分市场| TSE 上市批准/JPX 上市页面。 |
-|上市审核路线| JPX-R / TSE 指南和分段标准。 |
-|主承销商|注册声明、招股说明书、公司公告。 |
-|产品类型|首次发行、二次发售、超额配售、国内/全球发行。 |
-|发行价及询价范围|承销/招股说明书披露。 |
-|危险因素 |证券登记声明。 |
-|所得款项用途 |证券登记声明。 |
-|锁定 |注册声明/招股说明书。 |
-|治理结构 |公司治理报告和发行人文件。 |
+| 发行体法定名称 | EDINET 登记书及 JPX 上市通知。 |
+| 市场分区 | TSE 上市批准／JPX 上市页面。 |
+| 上市审查路径 | JPX-R／TSE 指南手册及分区标准。 |
+| 主承销商 | 登记书、招股说明书、公司公告。 |
+| 发行类型 | 新发行、二次出售、超额配售、国内／全球发行。 |
+| 发行价格及簿记建档区间 | 引受／招股说明书披露。 |
+| 风险因素 | 有价证券登记书。 |
+| 资金用途 | 有价证券登记书。 |
+| 锁定期 | 登记书／招股说明书。 |
+| 治理结构 | 公司治理报告及发行体文件。 |
 
-## 承保连接
+## 引受关联
 
-[[securities/japan-underwriting-market-structure|Japan underwriting market structure]] 记录 IPO/PO/债券承销职能、牵头经办人角色、簿记建档、JSDA 规则、EDINET 和排名表解释。 [[finance/japan-ib-league-table|Japan IB league table]] 记录供应商特定的排名字段和日期范围。
+[[securities/japan-underwriting-market-structure|Japan underwriting market structure]] 记录 IPO／PO／债券引受职能、主承销商角色、簿记建档、JSDA 规则、EDINET 以及联盟排行榜的解读。[[finance/japan-ib-league-table|Japan IB league table]] 记录供应商特定的排名字段及日期范围。
 
-## JapanFG 链接- 证券承销商：[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]。
-- Online brokerage distribution: [[securities/japan-online-brokerage-competition]].
-- 交易所/基础设施：[[financial-regulators/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
+## JapanFG 链接
+
+- 证券承销商：[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]。
+- 在线券商分销：[[securities/japan-online-brokerage-competition]]。
+- 交易所／基础设施：[[financial-regulators/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
 
 ## 相关
 
@@ -115,12 +120,12 @@ JPX 表示，TDnet 发布的披露与 TDnet 披露的同时可供公众检查，
 
 ## 来源
 
-- JPX：潜在发行人中心。
-- JPX：新的上市指南和Prime指南。
-- JPX: initial listing criteria.
+- JPX：拟上市者枢纽。
+- JPX：新上市指南手册及 Prime 指南手册。
+- JPX：新上市标准。
 - JPX：上市时间表。
-- JPX：新的列表页面。
-- JPX：及时披露概述和TDnet页面。
+- JPX：新上市页面。
+- JPX：适时披露概览及 TDnet 页面。
 - EDINET：法定披露系统。
-- JSDA：协会概述和承保/会员背景。
-- FSA：金融工具业务运营商名单。
+- JSDA：协会概览及引受／会员背景。
+- FSA：金融商品交易业者一览。

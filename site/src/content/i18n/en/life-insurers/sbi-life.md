@@ -1,49 +1,56 @@
 ---
 source: life-insurers/sbi-life
-source_hash: 1d7c64d60c3e1c62
+source_hash: 0bd16f1e52abfb65
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Life Insurance"
-translated_at: 2026-06-01T00:41:50.410Z
+translated_at: 2026-06-19T06:09:18.128Z
 ---
+
 # SBI Life Insurance
 
 ## Wiki route
 
-This translated worker file keeps the JapanFG source route intact. The protected anchors below preserve source links, dates, figures, markers, and numbered headings for later unmasking.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-SBI Life Insurance is treated here as the life-insurance operating company within the SBI financial group perimeter. The page scope is life-insurance license boundary, group distribution model, digital channel role, and insurance peer context. This translation keeps to the public-source boundary of the original entry and does not add new factual claims beyond the protected source material.
+SBI Life Insurance Co., Ltd. is a [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]]-affiliated life-insurance operating company listed on the FSA life-insurance company license list. Within the SBI group's retail financial ecosystem that connects banking, securities, asset management, and insurance, it handles the underwriting boundary for insurance such as death protection and medical protection.
 
-## Boundary map
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Entity | SBI Life Insurance |
-| Functional role | the life-insurance operating company within the SBI financial group perimeter |
-| Translation boundary | Preserve the original public-source anchors and avoid expanding beyond the source file. |
+| Legal name | SBI Life Insurance Co., Ltd. |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group boundary | [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] insurance operating company |
+| Wiki role | SBI group's life-insurance license-bearing entity |
 
-## Business role
+## 2. Operating model
 
-- Identifies the entity's position within Japan's financial system.
-- Separates the operating company, holding company, license route, group perimeter, and peer set where relevant.
-- Keeps historical, regulatory, product, and strategy references tied to the protected source anchors.
+SBI Life is positioned as a life insurer that easily connects with the SBI group's online financial funnels. Its comparative axis is the ability to combine direct / partner distribution of insurance products against the [[megabanks/sbi-hd]] customer base that spans banking, securities, FX, crypto assets, and asset management.
 
-## Peer / contrast
+In FinWiki, it is treated as a page to compare with [[life-insurers/lifenet]]'s pure-internet life-insurance model, [[life-insurers/rakuten-life]]'s ecosystem insurer, and [[life-insurers/sony-life]]'s advisory / planner-led model.
 
-Read this entry together with the related banks, insurers, leasing companies, asset managers, cooperatives, policy bodies, and group pages represented by the protected anchors below.
+## 3. Why this page matters
 
-## Protected source anchors
-
-- [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] [[insurance/INDEX|insurance index]] [[non-life-insurers/sbi-insurance-group]] [[megabanks/sbi-hd]] 1 [[non-life-insurers/sbi-insurance-group]] [[megabanks/sbi-hd]] 2 [[megabanks/sbi-hd]] [[life-insurers/lifenet]] [[life-insurers/rakuten-life]] [[life-insurers/sony-life]] 3 [[megabanks/sbi-hd]] [[non-life-insurers/sbi-insurance-group]] [[securities-firms/sbi-securities]] [[regional-banks/sbi-shinsei-bank]]
-- [[life-insurers/lifenet]] [[insurance/internet-life-insurance-business-model]] 2026-04-13 2026-04-13
+- Parent pages alone do not show the underwriting license boundary.
+- Important for comparing SBI's banking / brokerage / insurance cross-sell structure.
+- Registry-aware gap from the Batch D life-insurer list.
 
 ## Related
 
-- Related entries, dates, figures, source markers, and section numbers are preserved in the protected source anchors.
+- [[megabanks/sbi-hd]]
+- [[non-life-insurers/sbi-insurance-group]]
+- [[securities-firms/sbi-securities]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[life-insurers/lifenet]]
+- [[insurance/internet-life-insurance-business-model]]
 
 ## Sources
 
-- Public company, regulator, industry-association, IR, disclosure, and source materials are those represented by the original entry and the protected anchors above.
+- FSA: life-insurance company license list, as of 2026-04-13.
+- Life Insurance Association of Japan: member-company list, as of 2026-04-13.
+- SBI Life official website.

@@ -1,153 +1,158 @@
 ---
 source: real-estate-finance/bank-commercial-real-estate-lending-japan
-source_hash: 5fd4f989ed0789bd
+source_hash: 0f74bf3e3f948e30
 lang: zh
 status: machine
 fidelity: ok
-title: "日本银行商业房地产贷款"
-translated_at: 2026-06-01T03:31:12.253Z
+title: "日本银行商业地产放贷"
+translated_at: 2026-06-19T12:43:19.932Z
 ---
-# 日本银行商业房地产贷款
 
-## 长篇大论；博士
+# 日本银行商业地产放贷
 
-日本商业房地产（CRE）贷款是一个分层系统。大型银行锚定大型项目融资和 J-REIT 赞助贷款。信托银行将资产负债表贷款与房地产信托功能、评估和资产管理联系起来。地区银行提高了商业地产的集中度，以抵消核心净息差的压缩，这是一个反复出现的 [[banking/INDEX|banking supervisor]] 问题。承保实践以贷款价值比 (LTV) 上限和偿债覆盖率 (DSCR) 目标为中心，2008  后的监管收紧、大流行后的集中度监测以及 NIRP 后利率正常化的压力都可以在 [[banking/INDEX|FSR / FSA]] 的评论中看到。该页面是路由和链接；具体的风险数据和承销条款在使用前必须根据大型银行 IR 和日本央行金融体系报告进行验证。
+## TL;DR
 
-## 维基路线
+日本商业地产（CRE）放贷是一个分层系统。巨型银行锚定大型项目融资和 J-REIT 发起人贷款。信托银行将资产负债表放贷与房地产信托职能、评估和资产管理桥接起来。地方银行已增长 CRE 集中度以抵消核心净息差压缩，这是反复出现的 [[banking/INDEX|banking supervisor]] 关切。承销实践以贷款价值比（LTV）上限和偿债覆盖率（DSCR）目标为中心，2008  后的监督收紧、疫情后的集中度监测以及 NIRP 后的利率正常化压力均在 [[banking/INDEX|FSR / FSA]] 的评论中可见。本页面是路由与链接型；具体的敞口数字和承销条款在使用前必须对照巨型银行 IR 和 BoJ 金融系统报告核实。
 
-该条目位于 [[real-estate-finance/INDEX]] 下，并路由至 [[banking/INDEX]] 上的银行方交易对手。对照[[real-estate-finance/j-reit-market-overview]]了解上市J-REIT领域的保荐方银行贷款，[[real-estate-finance/real-estate-private-credit-japan]]了解非银行私人信贷替代方案，[[real-estate-finance/real-estate-cap-rate-compression-2026]]了解推动LTV/DSCR比率的估值背景，[[real-estate-finance/japan-real-estate-appraisal-methodology]]了解CRE承销中使用的评估底线。 Megabank侧锚定为[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]和[[megabanks/mizuho-bank]]；信任方锚定为[[trust-banks/sumitomo-mitsui-trust]]和[[trust-banks/mitsubishi-ufj-trust-bank]]；政策金融锚定为[[financial-regulators/dbj]]。区域银行集中度驱动因素路线为 [[banking/regional-bank-consolidation-pattern]]。保险公司竞争对手/共同贷款人地图位于 [[insurance/japan-life-insurance-alm-overview]]。融资成本背景为 [[money-market/japan-money-market]]。
+## Wiki route
+
+本条目归属于 [[real-estate-finance/INDEX]]，并路由至 [[banking/INDEX]] 上的银行侧对手方。请与 [[real-estate-finance/j-reit-market-overview]]（向上市 J-REIT 宇宙的发起人侧银行放贷）、[[real-estate-finance/real-estate-private-credit-japan]]（非银行私人信用替代选择）、[[real-estate-finance/real-estate-cap-rate-compression-2026]]（驱动 LTV / DSCR 比率的估值背景）以及 [[real-estate-finance/japan-real-estate-appraisal-methodology]]（CRE 承销中使用的评估下限）一起阅读。巨型银行侧锚点为 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]] 和 [[megabanks/mizuho-bank]]；信托侧锚点为 [[trust-banks/sumitomo-mitsui-trust]] 和 [[trust-banks/mitsubishi-ufj-trust-bank]]；政策金融锚点为 [[financial-regulators/dbj]]。地方银行集中度驱动因素路由至 [[banking/regional-bank-consolidation-pattern]]。保险公司竞争者 / 共同贷款人地图位于 [[insurance/japan-life-insurance-alm-overview]]。融资成本背景位于 [[money-market/japan-money-market]]。
 
 ## 银行侧结构图
 
-|贷款人类别 |功能角色|华创定位 |
+| Lender class | Functional role | CRE positioning |
 |---|---|---|
-|大型银行（[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]）|庞大的资产负债表、银团项目融资、J-REIT 发起人贷款、海外 CRE 分支机构。 |东京/大阪优质写字楼、物流、酒店、大型综合体的主承销商。 |
-|信托银行（[[trust-banks/sumitomo-mitsui-trust]]、[[trust-banks/mitsubishi-ufj-trust-bank]]）|信托账户贷款加上房地产经纪、评估和资产管理。 |资产负债表贷款、房地产信托计划（TMK / GK-TK）和养老金/机构客户分配之间的桥梁。 |
-|区域银行|当地中小企业信贷、房地产担保定期贷款，以及不断增长的公寓贷款和东京商业地产参与。 | CRE 在贷款账簿中所占份额上升以抵消国内净息差压缩的集中风险。 |
-|政策/开发银行([[financial-regulators/dbj]]) |政策性项目融资、基础设施、城市更新联合贷款。 |具有政策一致性的大型城市重建和物流项目的联合贷款人/牵头安排人。 |
-|外资银行|跨境 CRE 融资、J-REIT 高级部分、夹层和仓库设施。 |利基市场，通常与 [[real-estate-finance/real-estate-private-credit-japan]] 中涵盖的外国私人信贷 GP 配对。 |
+| 巨型银行（[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]）| 大型资产负债表、银团项目融资、J-REIT 发起人放贷、海外 CRE 部门。| 优质东京 / 大阪办公、物流、酒店、大型综合用途的锚定承销商。|
+| 信托银行（[[trust-banks/sumitomo-mitsui-trust]]、[[trust-banks/mitsubishi-ufj-trust-bank]]）| 信托账户放贷加房地产经纪、评估和资产管理。| 资产负债表放贷、房地产信托方案（TMK / GK-TK）和养老金 / 机构客户配置之间的桥梁。|
+| 地方银行 | 本地 SME 信用、房地产担保定期贷款，加上不断增长的公寓贷款和东京 CRE 参与。| 当 CRE 在贷款账簿中的份额上升以抵消国内净息差压缩时的集中度风险。|
+| 政策 / 开发银行（[[financial-regulators/dbj]]）| 政策挂钩的项目融资、基础设施、城市再开发共同放贷。| 与政策一致的大型城市再开发和物流项目的共同贷款人 / 主安排行。|
+| 外国银行 | 跨境 CRE 融资、J-REIT 优先档、夹层和仓储融资。| 利基，常与 [[real-estate-finance/real-estate-private-credit-japan]] 中涵盖的外国私人信用 GP 配对。|
 
-## 项目融资与公司融资
+## 项目融资 vs 公司融资
 
-|尺寸|项目融资|企业融资|
+| Dimension | Project finance | Corporate finance |
 |---|---|---|
-|借款人|持有特定资产/投资组合的特殊目的实体（TMK、GK-TK 或 LLP）。 |经营企业资产负债表。 |
-|追索权|仅限于项目现金流和资产，并附有赞助商支持信和竣工保证。 |公司对所有未支配资产享有完全追索权。 |
-|承保指标|贷款价值比 (LTV)、偿债覆盖率 (DSCR)、利息覆盖率 (ICR)、债务收益率。 |公司杠杆（净债务/ EBITDA）、利息覆盖率、资产负债表质量。 |
-|男高音 | 5 - 10  年典型的子弹/部分摊销。 |左轮手枪、术语或债券样式，通常较短的左轮手枪。 |
-|定价|优先保证金高于参考利率，通常高于公司；次级债券的定价范围更广。 |企业信用利差，对于优质企业来说更为收窄。 |
-|使用案例 |单一资产收购、J-REIT 赞助仓库、大型重建、物流投资组合。 |上市开发商/房地产投资信托公司设施、营运资金、债券堆栈再融资。 |
+| 借款人 | 持有特定资产 / 组合的特殊目的载体（TMK、GK-TK 或 LLP）。| 运营公司资产负债表。|
+| 追索权 | 限于项目现金流和资产，带发起人支持函和完工担保。| 对所有无抵押资产的完全公司追索权。|
+| 承销指标 | 贷款价值比（LTV）、偿债覆盖率（DSCR）、利息覆盖率（ICR）、债务收益率。| 公司杠杆（净债务 / EBITDA）、利息覆盖、资产负债表质量。|
+| 期限 | 通常 5 - 10 年，带一次性 / 部分摊销。| 循环、定期或债券式，循环常较短。|
+| 定价 | 相对于参考利率的优先利差，常高于公司；次级档定价更宽。| 公司信用利差，对优质公司更紧。|
+| 用例 | 单一资产收购、J-REIT 发起人仓储、大型再开发、物流组合。| 上市开发商 / REIT 公司融资、营运资本、债券堆栈再融资。|
 
-CRE 项目融资主导 J-REIT 发起人贷款、[[real-estate-finance/real-estate-private-credit-japan|private-credit-co-invested]] 交易和大型再开发。上市开发商/房地产投资信托基金公司财务更多地位于债券和贷款方面，当涉及发起人杠杆收购/私有化逻辑时，会与 [[finance/japan-private-equity-fund-structure-matrix]] 相对应。
+CRE 项目融资主导 J-REIT 发起人放贷、[[real-estate-finance/real-estate-private-credit-japan|private-credit-co-invested]] 交易和大型再开发。上市开发商 / REIT 公司融资更多位于债券与贷款侧，并在涉及发起人 LBO / 私有化逻辑时对照 [[finance/japan-private-equity-fund-structure-matrix]] 阅读。
 
-## 贷款价值比 (LTV) 承保范围
+## 贷款价值比（LTV）承销范围
 
-|资产类别 |高级LTV班|总生命周期价值（高级加夹层）|为什么范围 |
+| Asset class | Senior LTV class | Total LTV (senior plus mezz) | Why the range |
 |---|---|---|---|
-|东京优质写字楼（CBD核心）| 55 - 65% | 70 - 75% |较低的资本化率、深厚的流动性、外国买家的支持；高级贷款机构接受较高的贷款价值比。 |
-|东京/大阪物流| 55 - 65% | 70 - 75% |长WAULT机构租户，电商带动需求，现金流稳定。 |
-|东京住宅（出租） | 60 - 70% | 75 - 80% |长期入住稳定，租户基础分散，现金流波动性较低。 |
-|大阪/地区城市办公室| 50 - 60% | 65 - 70% |买家基础较薄弱，资本化率较高，租户集中风险。 |
-|酒店业（酒店、旅馆） | 45 - 55% | 60 - 70% |运营现金流波动性、RevPAR 敏感性、新冠疫情时代记忆。 |
-|零售（主要城市）| 50 - 60% | 65 - 70% |租户组合风险和租金重置周期。 |
+| 优质东京办公（CBD 核心）| 55 - 65% | 70 - 75% | 较低资本化率、深度流动性、外国买家支持；优先贷款人接受略高的 LTV。|
+| 东京 / 大阪物流 | 55 - 65% | 70 - 75% | 长 WAULT 机构租户、电商驱动的需求、稳定的现金流。|
+| 东京住宅（租赁）| 60 - 70% | 75 - 80% | 长期入住稳定性、分散的租户基础、较低的现金流波动性。|
+| 大阪 / 地区城市办公 | 50 - 60% | 65 - 70% | 较薄的买家基础、较高的资本化率、租户集中度风险。|
+| 酒店（酒店、旅馆）| 45 - 55% | 60 - 70% | 运营现金流波动性、RevPAR 敏感性、COVID 时代记忆。|
+| 零售（优质都市）| 50 - 60% | 65 - 70% | 租户组合风险和租金重置周期。|
 
-这些只是类描述符。根据 [[real-estate-finance/real-estate-cap-rate-compression-2026]]，实际承保 LTV 因赞助商、资产质量、租赁期限和当前上限利率环境而异。
+这些仅为类别描述符。实际承销 LTV 因发起人、资产质量、租约到期和按 [[real-estate-finance/real-estate-cap-rate-compression-2026]] 的当前资本化率环境而异。
 
-## 偿债覆盖率 (DSCR) 和利息覆盖率下限
+## 偿债覆盖率（DSCR）和利息覆盖下限
 
-|公制|典型地板|阅读|
+| Metric | Typical floor | Reading |
 |---|---|---|
-| DSCR（高级）| 1.30 - 1.50x |运营现金流与优先偿债；对于波动性较高的资产，收紧政策。 |
-| DSCR（总计）| 1.10 - 1.25x |运营现金流与高级加夹层/优先股服务。 |
-|利息保障倍数（ICR）| 2.0 - 3.0x |经营现金流与仅利息；与子弹结构交易相关。 |
-|债务收益率| 8 - 10% | NOI/总债务，贷方压力指标，与资本化率无关。 |
+| DSCR（优先）| 1.30 - 1.50x | 运营现金流相对于优先偿债；对波动性较高的资产更紧。|
+| DSCR（总）| 1.10 - 1.25x | 运营现金流相对于优先加夹层 / 优先股偿债。|
+| 利息覆盖率（ICR）| 2.0 - 3.0x | 运营现金流仅相对于利息；与一次性结构交易相关。|
+| 债务收益率 | 8 - 10% | NOI / 总债务，独立于资本化率的贷款人侧压力指标。|
 
-DSCR 地板压力测试率标准化。 NIRP 后的放松已将参考利率从负/零区域提高；在假设的 +100  到 +200bp 冲击下测试的 DSCR 现在是根据 [[banking/INDEX|FSR]] 评论的标准契约审查。与 [[money-market/japan-money-market]] 一起阅读，了解融资成本参考路径。
+DSCR 下限对利率正常化进行压力测试。NIRP 后的解除已将参考利率从负 / 零区间提高；按 [[banking/INDEX|FSR]] 评论，在假设 +100 至 +200bp 冲击下测试的 DSCR 如今是标准的契约审查。与 [[money-market/japan-money-market]] 一起阅读以了解融资成本参考路径。
 
-## 2008 后监督紧缩
+## 2008  后的监督收紧
 
-2008 - 2009 cycle暴露了三个结构性问题：
+2008 - 2009 周期暴露了三个结构性问题:
 
-1。房地产贷款份额超过审慎阈值的区域银行存在商业地产集中风险；
-2。随着上限利率的扩大，房地产担保抵押品的按市价波动；
-3。交叉抵押和复杂的 GK-TK / TMK 结构使锻炼变得复杂。
+1. 地方银行的 CRE 集中度风险，其房地产在贷款账簿中的份额超过审慎阈值；
+2. 随着资本化率扩大，房地产担保抵押品的按市值计价波动性；
+3. 交叉抵押和复杂的 GK-TK / TMK 结构使处置复杂化。
 
-对2009 -2015 （BoJ FSR、FSA检查重点）的监管回应收紧：
+2009 - 2015 期间的监督响应（BoJ FSR、FSA 检查重点）收紧了:
 
-|面积 |收紧|
+| Area | Tightening |
 |---|---|
-|浓度限值|对商业地产占贷款总额比例的内部限制设定预期。 |
-|评估纪律|保守的评估底线和定期重估要求。 |
-|压力测试|上限利率扩大、空缺冲击、利率冲击的银行内部压力情景。 |
-|项目融资契约|更严格的 LTV / DSCR 触发器和现金陷阱机制。 |
-|夹层/优先股披露|更好地了解包括非银行部分在内的总杠杆率。 |
+| 集中度限额 | 对 CRE 在总贷款账簿中份额的内部限额设定期望。|
+| 评估纪律 | 保守的评估下限和定期重估要求。|
+| 压力测试 | 针对资本化率扩大、空置冲击、利率冲击的银行内部压力情景。|
+| 项目融资契约 | 更紧的 LTV / DSCR 触发器和现金截留机制。|
+| 夹层 / 优先股披露 | 对包括非银行档在内的总杠杆有更好的可见性。|
 
-这些是本周期的基准预期，在 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]] 和 [[megabanks/mizuho-bank]] 的大型银行 IR 风险披露中可见。
+这些是带入当前周期的基准期望，并在 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]] 和 [[megabanks/mizuho-bank]] 的巨型银行 IR 风险披露中可见。
 
-## 大流行后 CRE 集中度
+## 疫情后的 CRE 集中
 
-新冠疫情时代的压力集中在：
+COVID 时代的压力集中于:
 
-|资产类别 |应力模式|
+| Asset class | Stress pattern |
 |---|---|
-|款待 |旅行限制期间现金流崩溃；监管宽容和重组浪潮。 |
-|零售 |租户租金重组，客流量恢复不平衡。 |
-|办事处（地区）|混合工作剩余需求的不确定性；次级写字楼上限利率扩大。 |
-|款待恢复| 2023 入境旅游回升支撑快速复苏；优质酒店上限利率重新收紧。 |
+| 酒店 | 旅行限制期间现金流崩溃；监督宽容和重组浪潮。|
+| 零售 | 租户租金重组，客流恢复不均。|
+| 办公（地区）| 混合办公残余需求不确定性；次优办公资本化率扩大。|
+| 酒店恢复 | 自 2023  起的入境旅游反弹支撑了快速恢复；优质酒店资本化率重新收紧。|
 
-区域银行加强了集中度监控，其中：
+集中度监测在以下情况的地方银行加强:
 
-- 国内净息差压缩刺激商业地产增长；
-- 东京/县外地区银行参与 CRE 引起监管关注；
-- 公寓贷款投资组合（パートローン）带有 2015 - 2018 vintage 遗留的承保弱点。
+- 国内净息差压缩激励了 CRE 增长；
+- 地方银行的东京 / 县外 CRE 参与引起监督关注；
+- 公寓贷款组合（アパートローン）带有来自 2015 - 2018 批次的遗留承销弱点。
 
-区域银行整合在一定程度上是由这些结构性压力推动的，映射为 [[banking/regional-bank-consolidation-pattern]]。
+部分由这些结构性压力驱动的地方银行整合，在 [[banking/regional-bank-consolidation-pattern]] 上有所映射。
 
-## Megabank CRE 暴露形状Megabank IR 披露在“房地产行业贷款”、“房地产无追索权贷款”或“房地产相关信贷”等类别下发布了 CRE 风险敞口。该组合物通常包括：
+## 巨型银行 CRE 敞口形态
 
-|类别 |它包括什么 |
+巨型银行 IR 披露在诸如「房地产行业贷款」「房地产无追索权贷款」或「房地产相关信用」等类别下发布 CRE 敞口。其构成通常包括:
+
+| Category | What it includes |
 |---|---|
-|房地产行业贷款|向上市开发商、房地产运营商、J-REIT 发起人提供贷款。 |
-|房地产无追索权贷款|针对特定资产或投资组合的项目融资/SPV 贷款。 |
-|公寓贷款|个人/中小企业公寓投资者贷款。 |
-|建筑业贷款|向从事房地产行业的建筑承包商提供贷款。 |
-|海外华创 |外国分支机构CRE曝光（美国/欧盟/亚洲办公室、物流、住宅）。 |
+| 房地产行业贷款 | 向上市开发商、房地产运营商、J-REIT 发起人的贷款。|
+| 房地产无追索权贷款 | 针对特定资产或组合的项目融资 / SPV 放贷。|
+| 公寓贷款 | 个人 / SME 公寓投资者贷款。|
+| 建筑行业贷款 | 向有房地产部门敞口的建筑承包商的贷款。|
+| 海外 CRE | 外国分行 CRE 敞口（美国 / 欧盟 / 亚洲办公、物流、住宅）。|
 
-三大银行的组合截然不同：
+三家巨型银行有实质上不同的组合:
 
-- [[megabanks/mufg-bank]] 通过美国/欧盟分支机构网络以及大量国内房地产赞助商承载大量海外 CRE。
-- [[megabanks/sumitomo-mitsui-banking-corp]] 经营一本专注于国内的商业地产书籍以及选择性的海外项目融资。
-- [[megabanks/mizuho-bank]] 拥有国内外混合背景，在 J-REIT 和上市开发商关系方面拥有悠久的历史。
+- [[megabanks/mufg-bank]] 通过美国 / 欧盟分行网络持有大量海外 CRE，加上庞大的国内房地产发起人账簿。
+- [[megabanks/sumitomo-mitsui-banking-corp]] 运行聚焦的国内 CRE 账簿加上精选的海外项目融资。
+- [[megabanks/mizuho-bank]] 具有混合的国内 / 海外特征，在 J-REIT 和上市开发商关系方面有悠久历史。
 
-信托银行锚定 [[trust-banks/sumitomo-mitsui-trust]] 和 [[trust-banks/mitsubishi-ufj-trust-bank]] 增加了房地产信托维度，信托银行持有受益人利益结构，并在贷款的同时提供资产管理。
+信托银行锚点 [[trust-banks/sumitomo-mitsui-trust]] 和 [[trust-banks/mitsubishi-ufj-trust-bank]] 增添了房地产信托维度，信托银行持有受益权结构并在放贷的同时提供资产管理。
 
-确切的商业地产风险敞口数据和集中度在每个季度披露时轮换；使用前请在相关大型银行 IR 页面上进行验证。
+确切的 CRE 敞口数字和集中度比率在每次季度披露时轮换；使用前请在相关巨型银行 IR 页面上核实。
 
-## J-REIT 赞助贷款
+## J-REIT 发起人放贷
 
-银行向 J-REIT 发起人和个人 J-REIT 工具提供贷款是核心 CRE 业务线。典型结构：
+向 J-REIT 发起人和单个 J-REIT 载体的银行放贷是核心 CRE 业务线。典型结构:
 
-|结构|描述 |
+| Structure | Description |
 |---|---|
-|赞助商支持贷款|直接向 J-REIT 发起人提供贷款，用于在下拉前仓储收购的资产。 |
-| J-REIT 级高级贷款 |上市 J-REIT 实体的定期贷款/债券购买。 |
-|桥梁设施|用于收购待定股权筹集或再融资的短期融资。 |
-|仓库设施|用于收购/处置赞助商资产负债表上的财产的循环信贷。 |
+| 发起人支持贷款 | 直接向 J-REIT 发起人放贷以在下沉前仓储已收购资产。|
+| J-REIT 层级优先贷款 | 在上市 J-REIT 实体的定期贷款 / 债券购买。|
+| 过桥融资 | 在股权募集或再融资待定期间为收购提供的短期融资。|
+| 仓储融资 | 用于在发起人资产负债表上收购 / 处置物业的循环信用。|
 
-对于跨境所有权维度，银行对 J-REIT 工具的贷款根据 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] 和 [[real-estate-finance/j-reit-foreign-investor-ownership]] 进行解读。 J-REIT 融资组合还包括 [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|bond / equity issuance]] 作为银行借款的替代方案。
+向 J-REIT 载体的银行放贷对照 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] 和 [[real-estate-finance/j-reit-foreign-investor-ownership]] 阅读以了解跨境所有权维度。J-REIT 融资组合还包括 [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|bond / equity issuance]] 作为银行借款的替代选择。
 
-## NIRP 后率标准化压力
+## NIRP 后的利率正常化压力
 
-日本央行 NIRP 退出和 YCC 后正常化路径提出：
+BoJ NIRP 退出和 YCC 后的正常化路径提高了:
 
-- 高级浮动利率商业地产贷款服务成本；
-- DSCR 对 refi 传统子弹结构交易的压力；
-- 随着无风险利率上升，上限利率下限压力（包含在[[real-estate-finance/real-estate-cap-rate-compression-2026]]中）；
-- 随着银行调整新产品的利差，进行有竞争力的重新定价。
+- 优先浮动利率 CRE 贷款的偿债成本；
+- 在再融资时遗留一次性结构交易的 DSCR 压力；
+- 随着无风险利率上升的资本化率下限压力（在 [[real-estate-finance/real-estate-cap-rate-compression-2026]] 中涵盖）；
+- 随着银行调整新发起的利差而进行的竞争性重新定价。
 
-2025 -2026 vintage CRE 贷款的承保标准纳入了更高的参考利率假设、更保守的再融资风险模型以及修订后的 DSCR 下限。阅读 [[money-market/japan-money-market]] 了解资金成本参考详细信息，阅读 [[insurance/japan-life-insurance-alm-overview]] 了解人寿保险公司竞争对手资产负债表中的并行 ALM 重新定价逻辑。
+2025 - 2026 批次 CRE 贷款的承销标准纳入了更高的参考利率假设、更保守的再融资风险建模和修订的 DSCR 下限。与 [[money-market/japan-money-market]] 一起阅读以了解融资成本参考细节，并与 [[insurance/japan-life-insurance-alm-overview]] 一起了解寿险公司竞争者资产负债表中的平行 ALM 重新定价逻辑。
 
-＃＃ 有关的- [[real-estate-finance/INDEX]]
+## Related
+
+- [[real-estate-finance/INDEX]]
 - [[real-estate-finance/j-reit-market-overview]]
 - [[real-estate-finance/japan-real-estate-appraisal-methodology]]
 - [[real-estate-finance/j-reit-foreign-investor-ownership]]
@@ -170,11 +175,11 @@ DSCR 地板压力测试率标准化。 NIRP 后的放松已将参考利率从负
 - [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- 日本央行：金融体系报告，半年刊，涵盖商业地产集中度和压力测试。
-- FSA：房地产贷款的检查重点、监管信函和政策评论。
-- ARES（房地产证券化协会）：J-REIT 和房地产基金统计数据。
-- Megabank IR 页面：MUFG、SMFG、Mizuho FG 季度风险披露和证券报告。
-- 信托银行 IR 页面：SMTB、MUFG Trust 季度披露。
-- DBJ：项目融资和基础设施融资披露和政策出版物。
+- Bank of Japan: Financial System Report, semi-annual publication covering CRE concentration and stress testing.
+- FSA: inspection focus, supervisory letters, and policy commentary on real-estate lending.
+- ARES (Association for Real Estate Securitization): J-REIT and real-estate-fund statistics.
+- Megabank IR pages: MUFG, SMFG, Mizuho FG quarterly risk disclosures and securities reports.
+- Trust-bank IR pages: SMTB, MUFG Trust quarterly disclosures.
+- DBJ: project-finance and infrastructure-finance disclosures and policy publications.

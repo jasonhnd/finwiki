@@ -1,146 +1,146 @@
 ---
 source: trust-banks/custody-bank
-source_hash: f8ee68ff4bce2ea4
+source_hash: 4a0c6785c098d2a6
 lang: en
 status: machine
 fidelity: ok
 title: "Custody Bank of Japan (CBJ)"
-translated_at: 2026-05-31T15:29:03.936Z
+translated_at: 2026-06-19T13:13:22.642Z
 ---
 
 # Custody Bank of Japan (CBJ)
 
 ## Wiki route
 
-This entry sits under[[trust-banks/INDEX|trust-banks INDEX]]. Read it against[[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-One of Japan's largest banks specializing in trust custody (total trust assets approximately 476 兆円, total assets under custody including account management operations approximately 696 兆円, both as of the end of2025- 03 ). **2020-07-27 Japan Trustee Services Bank (JTSB) + Trust and Custody Services Bank (TCSB) merger launched**.[[trust-banks/sumitomo-mitsui-trust]](Sumitomo Mitsui Trust Group)33.3%+[[megabanks/mizuho-fg]]27.0% + Resona Bank16.7%+[[life-insurers/dai-ichi-life]]Dai-ichi Life8.0%+ Asahi Life5.0%+ Meiji Yasuda Life4.5%+ Japan Post Insurance Joint venture of3.5%+ Fukoku Life2.0%(currently 2020-07-27). **Regularly appears as "Japan Custody Bank (trust account)" in the major shareholder column of listed companies ★**. Japan Master Trust Trust[[trust-banks/master-trust-bank]](MUFG[[megabanks/mufg]]+[[life-insurers/nippon-life]]series) and the domestic2 strong trust account shareholder (securities storage2 strong structure). ^[extracted]
+Japan's largest-class trust-custody specialist bank (trust assets total approximately 476 兆円, assets under custody including account-administration business approximately 696 兆円, both as of end 2025-03 ). **Established 2020-07-27 through the merger of Japan Trustee Services Bank (JTSB) + Trust & Custody Services Bank (TCSB)**. A joint venture of [[trust-banks/sumitomo-mitsui-trust]] (Sumitomo Mitsui Trust Group) 33.3% + [[megabanks/mizuho-fg]] 27.0% + Resona Bank 16.7% + [[life-insurers/dai-ichi-life]] Dai-ichi Life 8.0% + Asahi Mutual Life 5.0% + Meiji Yasuda Life 4.5% + Japan Post Insurance 3.5% + Fukoku Mutual Life 2.0% (as of 2020-07-27). **Appears as a regular fixture in the major-shareholder columns of listed companies as "Custody Bank of Japan (trust account)" ★**. Together with The Master Trust Bank of Japan [[trust-banks/master-trust-bank]] (MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] affiliated), it forms the domestic 2  leaders among trust-account shareholders (a 2 -leader structure in securities custody). ^[extracted]
 
-## 1 . Company profile
+## 1. Company overview
 
-**Official name**: Japan Custody Bank, Ltd. ^[extracted]
+**Formal name**: Custody Bank of Japan, Ltd. ^[extracted]
 **English name**: Custody Bank of Japan, Ltd. (CBJ)
-**Established**:2020-07-27(JTSB + TCSB merger established) ^[extracted]
-**Business type**: Trust custody specialized bank (trust banking business / Banking Law + Trust Business Law) ^[extracted]
-**Listed**: Unlisted (joint venture/multiple trust FG investment) ^[extracted]
-**Head Office**: Harumi Island Triton Square Office Tower Z, Harumi, Chuo-ku, Tokyo1-8- 12
+**Established**: 2020-07-27 (formed through the merger of JTSB + TCSB) ^[extracted]
+**Business type**: Trust-custody specialist bank (trust banking / Banking Act + Trust Business Act) ^[extracted]
+**Listing**: Unlisted (joint venture, funded by multiple trust FGs) ^[extracted]
+**Head office**: Harumi Island Triton Square Office Tower Z, 1-8-12  Harumi, Chuo-ku, Tokyo
 
-### Major shareholders (public materials, current 2020-07-27) ^[extracted]
+### Major shareholders (public materials, as of 2020-07-27) ^[extracted]
 
-|shareholder|ratio|
+| Shareholder | Stake |
 |---|---|
-|[[trust-banks/sumitomo-mitsui-trust]] (Sumitomo Mitsui Trust Group)|**33.3%**|
-|[[megabanks/mizuho-fg]] (Mizuho Financial Group)|**27.0%**|
-|Resona Bank|**16.7%**|
-|[[life-insurers/dai-ichi-life]] Dai-ichi Life Insurance|**8.0%**|
-|Asahi Life Insurance|**5.0%**|
-|Meiji Yasuda Life Insurance|**4.5%**|
-|Japan Post Insurance|**3.5%**|
-|Fukoku Life Insurance|**2.0%**|
+| [[trust-banks/sumitomo-mitsui-trust]] (Sumitomo Mitsui Trust Group) | **33.3%** |
+| [[megabanks/mizuho-fg]] (Mizuho Financial Group) | **27.0%** |
+| Resona Bank | **16.7%** |
+| [[life-insurers/dai-ichi-life]] Dai-ichi Life Insurance | **8.0%** |
+| Asahi Mutual Life Insurance | **5.0%** |
+| Meiji Yasuda Life Insurance | **4.5%** |
+| Japan Post Insurance | **3.5%** |
+| Fukoku Mutual Life Insurance | **2.0%** |
 
 ### Importance ★
 
-- Regularly appears in the major shareholder column of almost all listed Japanese companies as **``Japan Custody Bank (Trust Account)''**
-- [[trust-banks/master-trust-bank]], a “trust account shareholder” along with Japan Master Trust Trust 2
-- Total trust assets: approximately **476 兆円**, including account management services, etc. ** Total assets under custody: approximately696 兆円** (all as of the end of2025- 03 , CBJ Disclosure Magazine 2025)
-- Part of the central custodian and management organization for domestic pensions (employee pensions, private pensions, defined contribution pensions, etc.)
+- Appears in the major-shareholder columns of nearly all listed companies in Japan as **"Custody Bank of Japan (trust account)"**
+- Together with The Master Trust Bank of Japan [[trust-banks/master-trust-bank]], one of the 2  leaders among "trust-account shareholders"
+- Trust assets total approximately **476 兆円**, **assets under custody including account-administration business approximately 696 兆円** (both as of end 2025-03 , CBJ disclosure report 2025)
+- One arm of the central custody / administration institution for domestic pensions (employees' pension / private pensions / defined-contribution pensions, etc.)
 
-### Merger history/predecessor
+### Merger history / predecessors
 
-````
-JTSB series (formerly SuMi TRUST series)
-  Japan Trustee Services Bank (2000  established)
-    ├── Former Chuo Mitsui Trust and Banking Corporation (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
-    ├── Former Sumitomo Trust Bank (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
-    └── Dai-ichi Life[[life-insurers/dai-ichi-life]]etc.
+```
+JTSB lineage (former SuMi TRUST lineage)
+  Japan Trustee Services Bank (established 2000 )
+    ├── former Chuo Mitsui Trust Bank (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
+    ├── former Sumitomo Trust Bank (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
+    └── Dai-ichi Life [[life-insurers/dai-ichi-life]] etc.
 
-TCSB series (formerly Mizuho + Resona series)
-  Asset Management Services Trust Bank (2004  established)
-    ├── Mizuho Trust and Banking ([[megabanks/mizuho-fg]])
-    ├── Resona Bank (formerly Daiwa/Asahi Trust)
-    ├── Asahi Life Insurance, Meiji Yasuda Life Insurance, Japan Post Insurance, Fukoku Life Insurance, etc.
-    └── Former Dai-ichi Kangyo Fuji Trust/Yasuda Trust system
+TCSB lineage (former Mizuho + Resona lineage)
+  Trust & Custody Services Bank (established 2004 )
+    ├── Mizuho Trust Bank ([[megabanks/mizuho-fg]])
+    ├── Resona Bank (former Daiwa / Asahi trust lineage)
+    ├── Asahi Mutual Life / Meiji Yasuda Life / Japan Post Insurance / Fukoku Mutual Life etc.
+    └── former Dai-ichi Kangyo Fuji Trust / Yasuda Trust lineage
 
-  ↓2020-07-27Merger
+  ↓ 2020-07-27 merger
 
 Custody Bank of Japan (CBJ)
-  ├── Sumitomo Mitsui Trust Group[[trust-banks/sumitomo-mitsui-trust]]33.3%
-  ├── Mizuho FG[[megabanks/mizuho-fg]]27.0%
+  ├── Sumitomo Mitsui Trust Group [[trust-banks/sumitomo-mitsui-trust]] 33.3%
+  ├── Mizuho FG [[megabanks/mizuho-fg]] 27.0%
   ├── Resona Bank 16.7%
-  ├── Dai-ichi Life[[life-insurers/dai-ichi-life]]8.0%
-  └── Asahi Life Insurance5.0%/ Meiji Yasuda Life Insurance4.5%/ Japan Post Insurance3.5%/ Fukoku Life Insurance 2.0%
-````
+  ├── Dai-ichi Life [[life-insurers/dai-ichi-life]] 8.0%
+  └── Asahi Mutual Life 5.0% / Meiji Yasuda Life 4.5% / Japan Post Insurance 3.5% / Fukoku Mutual Life 2.0%
+```
 
-## 2 .Business segment map
+## 2. Business segment map
 
-|segment|Main business|Features|
+| Segment | Main business | Features |
 |---|---|---|
-|trust custody|Storage of listed stocks, bonds, and investment trusts|Exercise of voting rights in the name of the trust account|
-|pension trust|Employees' pension fund, defined benefit corporate pension, defined contribution pension|Trust entrustment/operation reporting/benefits affairs|
-|Investment trust trust|Trust contracts for public investment trusts and private investment trusts|Storage and calculation of funds belonging to the Investment Trust Association|
-|Specified money trust (tokukin)|Management vehicle for institutional investors and corporate corporations|Commissioning/management|
-|Asset management services|Master Custody for institutional investors|Investment instruction entrustment/operation report|
+| Trust custody | Custody of listed stocks, bonds, investment trusts | Voting-rights exercise under trust-account name |
+| Pension trust | Employees' pension funds, defined-benefit corporate pensions, defined-contribution pensions | Trust acceptance, performance reporting, benefit administration |
+| Investment-trust trusteeship | Trust agreements for public / private investment trusts | Custody / calculation for Investment Trusts Association member funds |
+| Specified money trust (tokkin) | Investment vehicles for institutional investors / business corporations | Acceptance / administration |
+| Asset administration services | Master Custody for institutional investors | Investment-instruction acceptance / performance reporting |
 
-### Full-time position
+### Specialist position
 
-- Trust custody + pension trust **Specialized**: No commercial banking, securities, or retail operations
-- Parent company SuMi TRUST[[trust-banks/sumitomo-mitsui-trust]]/ Mizuho Trust[[megabanks/mizuho-fg]]is the **front office** (operation and sales), and CBJ is the **back office** (storage, calculation, administration).
+- Trust custody + pension trust **specialist**: holds no commercial-banking business, securities business, or retail
+- A division of labor in which the parents SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]] / Mizuho Trust [[megabanks/mizuho-fg]] are the **front office** (management / sales), and CBJ is the **back office** (custody / calculation / administration)
 
-### Competitors/Domestic2 Strong structure
+### Competition / domestic 2 -leader structure
 
-- **Master Trust Bank[[trust-banks/master-trust-bank]]**(MUFG[[megabanks/mufg]]+[[life-insurers/nippon-life]]Nippon Life Insurance): Biggest competitor
-- Japanese securities custodian/trust account shareholder is CBJ + Master Trust **2 Strong structure** ^[extracted]
-- Both parties have a virtual monopoly over the back office for storing Japanese institutional investors and pension assets.
+- **The Master Trust Bank of Japan [[trust-banks/master-trust-bank]]** (MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] Nippon Life affiliated): largest competitor
+- Japan's securities custody / trust-account shareholders form a **2 -leader structure** of CBJ + Master Trust ^[extracted]
+- The two effectively oligopolize the custody back office for Japan's institutional-investor / pension assets
 
-### Influence as a trust account shareholder
+### Influence as a trust-account shareholder
 
-- Appeared as “Japan Custody Bank (trust account)” in the major shareholder column of listed companies
-- In principle, voting rights must be exercised in accordance with instructions from the management institution (trust principal owner) (CBJ itself does not independently exercise voting rights)
+- Appears in listed companies' major-shareholder columns as "Custody Bank of Japan (trust account)"
+- Voting-rights exercise as a rule **follows the management institution (the instructions of the trust-principal owner)** (CBJ itself does not exercise voting rights independently)
 
-### Integration synergy
+### Integration synergies
 
-- Main objectives of JTSB + TCSB merger (2020 - 07): System integration, scale effects, and operational cost reduction
-- Unify **custody systems/investment trust calculation systems** that were duplicated by parent company with CBJ
+- Main purpose of the JTSB + TCSB merger (2020-07): systems integration, scale effects, operating-cost reduction
+- Unification at CBJ of the **custody systems / investment-trust calculation systems** that had been duplicated by parent
 
-## 4 . Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervised**: Financial Services Agency (FSA)
-- **Legal position**: Banking Law + Trust Business Law (trust business)
-- **Deposit Insurance**: Member of the Deposit Insurance Corporation (deposits for general depositors are limited as it specializes in trust custody)
-- **Indirect Regulation**: Trust Associations, Investment Trusts Associations, Japan Securities Dealers Association
-- **Current policy issues**:
-  - 2024 ~ NISA expansion → Increase in investment trust assets
-  - 2025 ~ Defined contribution pension system reform (increase of contribution limit) → Pressure to expand trust assets
+- **Supervisor**: Financial Services Agency (FSA)
+- **Legal positioning**: Banking Act + Trust Business Act (concurrent trust operation)
+- **Deposit insurance**: Member of the Deposit Insurance Corporation (as a trust-custody specialist, deposits for general depositors are limited)
+- **Indirect regulation**: Trust Companies Association / Investment Trusts Association / Japan Securities Dealers Association
+- **Recent policy issues**:
+  - 2024~ NISA expansion → increase in investment-trust assets under custody
+  - 2025~ defined-contribution pension system reform (contribution-limit expansion) → upward pressure on trust assets
 
-## 5 . Important chronology
+## 5. Key chronology
 
-|year and month|phenomenon|
+| Year/Month | Event |
 |---|---|
-|2000 |Japan Trustee Services Bank (JTSB) established (formerly Chuo Mitsui Trust + Sumitomo Trust + Dai-ichi Life, etc.)|
-|2004 |Trust and Custody Services Bank (TCSB) established (Mizuho + Asahi Life + Fukoku Life, etc.)|
-|2011 - 04 |Chuo Mitsui Trust + Sumitomo Trust → Sumitomo Mitsui Trust HD[[trust-banks/sumitomo-mitsui-trust]]launched → JTSB parent company integration|
-|**2020-07-27**|**JTSB + TCSB merger → Custody Bank of Japan (CBJ) established** ★|
-|2024 |Medium-term plan (specific details not disclosed to IR)|
+| 2000 | Japan Trustee Services Bank (JTSB) established (former Chuo Mitsui Trust + Sumitomo Trust + Dai-ichi Life, etc.) |
+| 2004 | Trust & Custody Services Bank (TCSB) established (Mizuho lineage + Asahi Mutual Life + Fukoku Mutual Life, etc.) |
+| 2011-04 | Chuo Mitsui Trust + Sumitomo Trust → Sumitomo Mitsui Trust HD [[trust-banks/sumitomo-mitsui-trust]] formed → JTSB parent integration |
+| **2020-07-27** | **JTSB + TCSB merger → Custody Bank of Japan (CBJ) formed** ★ |
+| 2024 | Medium-term plan (specific contents not disclosed in IR) |
 
 ## Related
 
-- [[trust-banks/master-trust-bank]] ·[[trust-banks/sumitomo-mitsui-trust]]·[[megabanks/mizuho-fg]]· [[life-insurers/dai-ichi-life]]
-- Resona Bank (CBJ No.3 位shareholder 16.7%)
-- [[megabanks/mufg]] ·[[life-insurers/nippon-life]](Master trust side)
-- Related wiki: Trust banking business / Custody / Trust account shareholders / Voting rights exercise
+- [[trust-banks/master-trust-bank]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]]
+- Resona Bank (CBJ 3 位-largest shareholder 16.7%)
+- [[megabanks/mufg]] · [[life-insurers/nippon-life]] (Master Trust side)
+- Related wiki: trust banking / custody / trust-account shareholders / voting-rights exercise
 
 ## Sources
 
-- **Wikipedia: Custody Bank of Japan, Ltd.**https://ja.wikipedia.org/wiki/日本カストディ銀行— Shareholder composition (currently 2020-07-27): Sumitomo Mitsui Trust Group33.3%/ Mizuho FG27.0%/ Resona Bank16.7%/ Dai-ichi Life8.0%/ Asahi Life5.0%/ Meiji Yasuda Life4.5%/ Japan Post Insurance3.5%/ Fukoku Life2.0%(2026-05-30 confirmed. Corrected the old version "SMTB46.5%/ Mizuho27%/ Dai-ichi Life 8%")
-- **Wikipedia: Japan Trustee Services Bank (JTSB)** (extracted from 2026-05-19)
-- **Wikipedia: Trust and Custody Services Bank (TCSB)** (extracted from 2026-05-19)
-- **Sumitomo Mitsui Trust Bank: Pursuing economies of scale** (Total trust assets of Japan Custody Bank476 兆円・Total assets under custody including account management etc.696 兆円,2025-03 As of the end of the year) https://www.smtb.jp/business/instrument/management/scale
-- **Custody Bank of Japan: Disclosure magazine2025**(Total trust assets 476 兆円,2025- End of 03 ) https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
-- Parent company IR disclosure ([[trust-banks/sumitomo-mitsui-trust]] /[[megabanks/mizuho-fg]]/ [[life-insurers/dai-ichi-life]])
+- **Wikipedia: 株式会社日本カストディ銀行** https://ja.wikipedia.org/wiki/日本カストディ銀行 — shareholder composition (as of 2020-07-27): Sumitomo Mitsui Trust Group 33.3% / Mizuho FG 27.0% / Resona Bank 16.7% / Dai-ichi Life 8.0% / Asahi Mutual Life 5.0% / Meiji Yasuda Life 4.5% / Japan Post Insurance 3.5% / Fukoku Mutual Life 2.0% (2026-05-30 confirmed. Corrected the old version's "SMTB 46.5% / Mizuho 27% / Dai-ichi Life 8%")
+- **Wikipedia: 日本トラスティ・サービス信託銀行 (JTSB)** (2026-05-19 extracted)
+- **Wikipedia: 資産管理サービス信託銀行 (TCSB)** (2026-05-19 extracted)
+- **Sumitomo Mitsui Trust Bank: Pursuit of scale merits** (Custody Bank of Japan's trust assets total 476 兆円 / assets under custody including account administration 696 兆円, as of end 2025-03 ) https://www.smtb.jp/business/instrument/management/scale
+- **Custody Bank of Japan: disclosure report 2025** (trust assets total 476 兆円, end 2025-03 ) https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
+- Parent IR disclosures ([[trust-banks/sumitomo-mitsui-trust]] / [[megabanks/mizuho-fg]] / [[life-insurers/dai-ichi-life]])
 
 ---
 
-> [!info] School nucleus status
-> confidence: **likely** (v1.0 Wikipedia + public IR core 2026-05-19,2026-05-29confirmed the source of entrusted assets, corrected2026-05-30shareholder composition). **Correction (2026-05-30): The previous version's investment ratio "SMTB46.5%/ Mizuho27.0%/ Dai-ichi Life 8.0%" is incorrect (46.5% is an incorrect transcription of the ratio of MUFG Trust in Japan Master Trust Trust). The correct CBJ shareholder structure (as of 2020-07-27) is Sumitomo Mitsui Trust Group33.3%/ Mizuho FG27.0%/ Resona Bank16.7%/ Dai-ichi Life8.0%/ Asahi Life5.0%/ Meiji Yasuda Life4.5%/ Japan Post Insurance3.5%/ Fukoku Life2.0%(Confirmed match with Wikipedia + multiple secondary sources). ** Inauguration date (2020-07-27) is based on publicly available materials. The scale of assets under custody is confirmed in CBJ Disclosure magazine2025(via the Sumitomo Mitsui Trust Bank website): Total assets in trust: approximately476 兆円- Total assets under custody, including account management operations, etc.: approximately696 兆円(all at the end of2025- 03 ). Specific contract share and integrated synergy quantitative results are not disclosed, so they are separated into Open questions / Separate.
+> [!info] Verification status
+> confidence: **likely** (v1.0  Wikipedia + public IR verification 2026-05-19; 2026-05-29 trust assets confirmed against source; 2026-05-30 shareholder composition corrected). **Correction point (2026-05-30): the old version's funding ratios "SMTB 46.5% / Mizuho 27.0% / Dai-ichi Life 8.0%" are wrong (46.5% was an erroneous transcription of MUFG Trust's ratio in The Master Trust Bank of Japan). The correct CBJ shareholder composition (as of 2020-07-27) is Sumitomo Mitsui Trust Group 33.3% / Mizuho FG 27.0% / Resona Bank 16.7% / Dai-ichi Life 8.0% / Asahi Mutual Life 5.0% / Meiji Yasuda Life 4.5% / Japan Post Insurance 3.5% / Fukoku Mutual Life 2.0% (consistently confirmed across Wikipedia + multiple secondary sources).** The establishment date (2020-07-27) is based on public materials. The scale of assets under custody is confirmed via the CBJ disclosure report 2025 (through the Sumitomo Mitsui Trust Bank site): trust assets total approximately 476 兆円 / assets under custody including account-administration business approximately 696 兆円 (both as of end 2025-03 ). Specific trusteeship shares / quantitative results of integration synergies are not disclosed, so they are separated into Open questions / isolation.

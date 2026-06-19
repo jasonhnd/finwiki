@@ -1,129 +1,129 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: 6f839dfb0fd6528a
+source_hash: 313194440dbea807
 lang: zh
 status: machine
 fidelity: ok
-title: "家庭数码一号"
-translated_at: 2026-05-31T15:29:03.961Z
+title: "FamiMa Digital One (FamiMa Digital One)"
+translated_at: 2026-06-19T06:09:18.133Z
 ---
 
-# 家庭数码一号
+# FamiMa Digital One (FamiMa Digital One)
 
-## 维基路线
+## Wiki route
 
-该条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。针对同行/对比上下文阅读 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]，针对更广泛的系统/监管边界阅读 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]。
+本条目归属于 [[payment-firms/INDEX|payment-firms INDEX]]。请对照 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] 阅读以获取同业／对比背景，并对照 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] 阅读以了解更广泛的体系／监管边界。
 
-## 长话短说
+## TL;DR
 
-伊藤忠商事 → FamilyMart 100% **便利店支付/积分/金融子公司**。 2019-04-01成立（原全家旅游有限公司），推出2019-07-01 **FamiPay**（二维码+条码支付）。基于资金转账代理许可证，无银行许可证。便利店APP完成支付+BNPL（FamiPay下月支付）+个人贷款（FamiPay贷款）+FamiPay卡（原FamiMart T卡）。 **T点联动将从2024-04 开始解决 → Famipay Point将独立**，我们正在转换为“伊藤忠G-内部支付平台”。竞争对手是au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d Payment ([[megabanks/ndfg]])。
+伊藤忠商事 → 全家便利店 100% 子公司的**便利店系支付・积分・金融子公司**。2019-04-01 设立（前身：株式会社 FamiMa Travel），2019-07-01 发布 **FamiPay**（QR + 条码支付）。基于资金移动业者牌照，无银行牌照。便利店 App 闭环支付 + BNPL（FamiPay 次月付款）+ 个人贷款（FamiPay 贷款）+ FamiPay 卡（旧 FamiMa T 卡）。**于 2024-04 解除 T 积分联动 → FamiPay 积分独立化**，正向「伊藤忠 G 内支付平台」转型。竞争对手为 au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / 乐天 Pay ([[payment-firms/rakuten-fg]]) / d 付款 ([[megabanks/ndfg]])。
 
-## 1。公司简介
+## 1. 会社概要
 
-**正式名称**：全家数码一有限公司
-**英文名称**：FamiMa Digital One Co., Ltd.
-**成立**：**2019-04-01**（之前：FamilyMart Travel → 重组）
-**母公司**：全家有限公司 (100%)
-**最终母公司**：**伊藤忠商事株式会社**（2020-08  FamilyMart成为全资子公司→退市）
-**业务类型**：资金转账公司（无银行牌照）+综合信用购买中介公司+放贷业务
-**总公司**：东京都港区芝浦（FamilyMart 总部内）
+**正式名**: 株式会社 FamiMa Digital One
+**英名**: FamiMa Digital One Co., Ltd.
+**设立**: **2019-04-01**（前身：FamiMa Travel → 改组）
+**母公司**: 株式会社全家便利店（100%）
+**最终母公司**: **伊藤忠商事**（2020-08 将全家便利店完全子公司化 → 退市）
+**业态**: 资金移动业者（无银行牌照）+ 综合信用购买斡旋业者 + 贷金业
+**本社**: 东京都港区芝浦（全家便利店本社内）
 
-### 母公司/股东结构（截至 2026 ）
+### 母公司・股东结构（2026 时点）
 
 ```
-伊藤忠商事（東証 PRIME 8001、商社）
-  └── 株式会社ファミリーマート（100%・非上場、旧 8028）
-        ├── ファミマデジタルワン（100%）── 決済・ポイント・金融
-        ├── ファミリーマート店舗網（国内 ~16,200 店）
-        └── 海外 FM（台湾全家・タイ・中国・インドネシア等）
+伊藤忠商事（东证 PRIME 8001、商社）
+  └── 株式会社全家便利店（100%・非上市、旧 8028）
+        ├── FamiMa Digital One（100%）── 支付・积分・金融
+        ├── 全家便利店门店网（国内 ~16,200 店）
+        └── 海外 FM（台湾全家・泰国・中国・印度尼西亚等）
 ```
 
 ### 重要年表
 
-|年和月|现象|
+| 年月 | 事象 |
 |---|---|
-|2019-04-01|**成立Family Mart Digital One**（之前：Family Mart Travel重组）|
-|**2019-07-01**|**FamiPay 发布**（二维码/条形码支付，完整的便利店应用程序）|
-|2020-08 |伊藤忠商事 TOB → **全家成为全资子公司并从东京证券交易所退市**（原 8028）|
-|2020～|FamiPay 奖金（实际积分）开始|
-|2021 |FamiPay下月付款（BNPL）启动|
-|2022 |FamiPay贷款（个人贷款）启动|
-|**2023-03**|**Famima T卡→Famipay卡过渡**（用CCC/T积分培育附属卡）|
-|**2024-04**|**解除FamiPay T点联动**（V点=T点+不兼容与V集成）→ **FamiPay点独立性**|
-|2024～|中期计划 — 伊藤忠商事 G-内部支付平台政策|
-|2025～|FamiPay 稳定币 / 尚未进入区块链领域（与 MUFG Progmat 相比）|
+| 2019-04-01 | **FamiMa Digital One 设立**（前身：FamiMa Travel 改组） |
+| **2019-07-01** | **FamiPay 发布**（QR / 条码支付，便利店 App 闭环） |
+| 2020-08 | 伊藤忠商事 TOB → **全家便利店完全子公司化・东证退市**（旧 8028） |
+| 2020〜 | FamiPay 奖励（实质积分）启动 |
+| 2021 | FamiPay 次月付款（BNPL）启动 |
+| 2022 | FamiPay 贷款（个人贷款）启动 |
+| **2023-03** | **FamiMa T 卡 → FamiPay 卡 迁移**（解除与 CCC / T 积分的联名卡） |
+| **2024-04** | **解除 FamiPay 的 T 积分联动**（未对应 V 积分 = T 积分 + V 的整合）→ **FamiPay 积分独立化** |
+| 2024〜 | 中计 — 伊藤忠商事 G 内支付平台化方针 |
+| 2025〜 | FamiPay 稳定币 / 区块链领域尚未进入（vs MUFG Progmat） |
 
-## 2。业务板块图
+## 2. 事业分部・地图
 
-|服务|类型|特征|
+| 服务 | 种别 | 特征 |
 |---|---|---|
-|**家庭支付**|代码支付（二维码/条形码）|完整的 FamilyMart 应用程序，从便利店开始。记入银行账户/现金/信用卡|
-|**Famipay 卡**|信用卡|旧 FamilyMart T 卡（2023-03  过渡）。 FamiPay 奖金兑换集成|
-|**FamiPay 下个月付款**|BNPL（后付费）|月结下月付款，专营便利店付款|
-|**FamiPay 贷款**|放债业务（个人贷款）|小额、短期、完整的便利店应用程序|
-|**Famipay 积分**（以前称为 Famipoints）|积分计划|2024-04 T 解散点联动后独立|
-|**FamiPay 奖金**|真实积分返还|活动/购买联动|
-|**仓储机构**|公用事业费/邮购付款代收|便利店仓储扩展|
-|**礼品卡/预付卡**|房子钱|企业新颖活动的使用|
+| **FamiPay** | 码支付（QR / 条码）| 全家便利店 App 闭环、便利店起点。充值为银行账户 / 现金 / 信用卡 |
+| **FamiPay 卡** | 信用卡 | 旧 FamiMa T 卡（2023-03 迁移）。整合 FamiPay 奖励返还 |
+| **FamiPay 次月付款** | BNPL（后付款） | 月结次月付款，专注便利店内支付 |
+| **FamiPay 贷款** | 贷金业（个人贷款） | 小额・短期，便利店 App 闭环 |
+| **FamiPay 积分**（旧 Fami 积分） | 积分计划 | 2024-04 解除 T 积分联动后，独立化 |
+| **FamiPay 奖励** | 实质积分返还 | 活动・购买联动 |
+| **收纳代行** | 公共费用・邮购货款收纳 | 便利店收纳的延伸 |
+| **礼品卡 / 预付** | 户头资金（house money） | 法人赠品・活动用途 |
 
 ### 核心战略
 
-- **コンビニアプリ完結型**: ファミリーマート約 16,200 店の店頭起点 → QR スキャンで決済 → アプリ内残高・ポイント・カード一元管理
-- **伊藤忠商事内部支付平台**（2024~中期计划）：横向部署FamiPay作为伊藤忠商事附属企业（全家、便利店批发商、食品、纺织品、机械等）的B2C联络点
-- **无银行执照**（基于资金转账公司） → 专注于简单支付。成熟的银行业务是外包/合作伙伴关系的前提
-- **House积分独立**（2024-04 T积分消除）：内部完成奖励经济→消除对CCC/V积分的依赖
+- **便利店 App 闭环型**: 全家便利店约 16,200 店的店头起点 → QR 扫码支付 → App 内余额・积分・卡一元管理
+- **伊藤忠 G 内支付平台化**（2024〜中计）: 将 FamiPay 横向铺开为伊藤忠商事旗下业务（全家便利店 / 便利店批发 / 食品 / 纺织 / 机械等）的 B2C 接点
+- **不持有银行牌照**（基于资金移动业者）→ 专注简易支付。正式银行业务以外部委托 / 合作为前提
+- **户头积分独立化**（2024-04 解除 T 积分）: 将返还经济内部闭环 → 解除对 CCC / V 积分的依赖
 
-### 竞争结构
+### 竞争格局
 
-|竞赛|经济区|便利店合作|
+| 竞争对手 | 经济圈 | 便利店合作 |
 |---|---|---|
-|**PayPay** ([[megabanks/paypay-fg]])|软银 G + 雅虎 + LINE|罗森七号店及其他店铺有售|
-|**au 支付** ([[megabanks/au-fh]])|KDDI经济区+罗森（KDDI母公司）|**劳森主战场**|
-|**乐天支付** ([[payment-firms/rakuten-fg]])|乐天经济区|所有便利店通用|
-|**付款** ([[megabanks/ndfg]])|DOCOMO经济区+d积分|所有便利店通用|
-|**nanaco/7iD** (七)|七与我高清|**专供七家商店 → 集成到 7iD 应用程序**|
-|**家庭支付**|伊藤忠商事株式会社 / FamilyMart|**全家主战场**|
+| **PayPay**（[[megabanks/paypay-fg]]）| 软银 G + 雅虎 + LINE | 罗森・7-Eleven 等可用 |
+| **au PAY**（[[megabanks/au-fh]]）| KDDI 经济圈 + 罗森（KDDI 母公司） | **罗森主战场** |
+| **乐天 Pay**（[[payment-firms/rakuten-fg]]）| 乐天经济圈 | 全便利店通用 |
+| **d 付款**（[[megabanks/ndfg]]）| 多科莫经济圈 + dポイント | 全便利店通用 |
+| **nanaco / 7iD**（7-Eleven）| 7&i・HD | **7-Eleven 店内专用 → 整合至 7iD App 中** |
+| **FamiPay** | 伊藤忠商事 / 全家便利店 | **全家主战场** |
 
-→ 便利店3 支付差异化：
-- **Famimart = FamiPay**（由伊藤忠 G 独家打造）
-- **Lawson=au PAY合作**（成为2024-12 KDDI全资子公司后，au经济区一体化加速）
-- **七 = nanaco / 7iD**（自己的经济区）
+→ 便利店 3 强的支付差异化:
+- **全家 = FamiPay**（伊藤忠 G 单独构建）
+- **罗森 = au PAY 联动**（2024-12 被 KDDI 完全子公司化以来，au 经济圈整合加速）
+- **7-Eleven = nanaco / 7iD**（自有经济圈）
 
-### 中期计划的重要转折点
+### 中计的重要转折点
 
-- **2023-03  FamilyMart T 卡结束**：CCC/T 积分附属卡结束并过渡到 Famipay 卡
-- **2024-04  T积分完全提现**：T积分本身将与**V积分（原SMBC集团的V）合​​并→成为新的“V积分”**（2024-04-22）。 FamilyMart不同意合并，转为自己的积分
-- 结果：全家彻底脱离“T点/V点阵营”，选择**伊藤忠G独立经济区**
+- **2023-03 FamiMa T 卡终止**: 终止 CCC / T 积分联名卡，迁移至 FamiPay 卡
+- **2024-04 完全脱离 T 积分**: T 积分本身 **与 V 积分（旧 SMBC 集团的 V）整合 → 新「V 积分」化**（2024-04-22）。全家未与该整合同调，转向自有积分
+- 结果: 全家完全脱离「T 积分 / V 积分阵营」，选择 **伊藤忠 G 独立经济圈**
 
-### 限制/挑战
+### 局限・课题
 
-- 无银行执照 → 存款/转账/大额支付依赖其他公司（合作银行）
-- 主战场集中在Family Mart店内，店外拓展作为通用代码支付相对于PayPay/Rakuten Pay/d Payment来说较弱。
+- 不持有银行牌照 → 存款 / 汇兑汇款 / 大额支付依赖他公司（合作银行）
+- 主战场偏重于全家店内，作为通用码支付的店外铺开相对 PayPay / 乐天 Pay / d 付款较弱
 
-## 4。法规/政策
+## 4. 规制・政策
 
-- **主管**：金融服务局 (FSA)
-- **资金转账服务提供商**：资金结算法第 37  条注册
-- **放贷业务**：放贷业务法律登记（FamiPay贷款）
-- **综合信用购买中介**：分期销售方式（Famipay卡/次月付款）
-- **个人信息**：个人信息保护法（支付数据+购买历史+积分3 重度营销信息）
-- **当前政策问题**：
-  - 2025~ BNPL相关信用信息共享/信用管理（FamiPay下月付款也适用）
-  - 应对无现金积分返还政策（经济产业省/经济产业省）
+- **主管**: 金融厅（FSA）
+- **资金移动业者**: 资金决济法 第 37 条 登记
+- **贷金业**: 贷金业法 登记（FamiPay 贷款）
+- **综合信用购买斡旋业者**: 分期付款销售法（FamiPay 卡 / 次月付款）
+- **个人信息**: 个人信息保护法（支付数据 + 购买历史 + 积分的 3 重营销信息）
+- **近期政策论点**:
+  - 2025〜 BNPL 相关的信用信息共享・授信管理（FamiPay 次月付款亦为对象）
+  - 无现金・积分返还政策（经产省・METI）的对应
 
-## 有关的
+## Related
 
 - [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/rakuten-fg]] · [[megabanks/ndfg]]
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
-## 来源
+## Sources
 
-- **维基百科：FamilyMart Digital One**（https://ja.wikipedia.org/wiki/ファミマデジタルワン, 2026-05-19 提取）
-- **维基百科：FamiPay**（https://ja.wikipedia.org/wiki/FamiPay, 2026-05-19 提取）
-- **维基百科：FamilyMart**（https://ja.wikipedia.org/wiki/ファミリーマート, 2026-05-19 提取）
-- **维基百科：T点/V点积分**（2024-04-22积分相关，2026-05-19提取）
+- **Wikipedia: ファミマデジタルワン**（https://ja.wikipedia.org/wiki/ファミマデジタルワン, 2026-05-19 抽出）
+- **Wikipedia: FamiPay**（https://ja.wikipedia.org/wiki/FamiPay, 2026-05-19 抽出）
+- **Wikipedia: ファミリーマート**（https://ja.wikipedia.org/wiki/ファミリーマート, 2026-05-19 抽出）
+- **Wikipedia: Tポイント / V ポイント統合**（2024-04-22 整合相关，2026-05-19 抽出）
 
 ---
 
-> [!info] 学校核心状况
-> 信心：**可能**（维基百科公共信息库，2026-05-19 学校核心）。母公司FamilyMart退市2020-08 后，财务披露受到限制，FamiPay的MAU/GMV/FamiPay贷款余额的量化数据对外披露得很少。服务开始日期和 T 点提取日期等事实均通过维基百科确认。创建伊藤忠集团内部支付平台的中期计划的内容是基于中期经营计划公开材料的总体方向声明，具体数字目标尚未确定。
+> [!info] 校核状态
+> confidence: **likely**（基于 Wikipedia 公开信息，2026-05-19 校核）。母公司全家便利店在 2020-08 退市后财务披露有限，FamiPay 的 MAU / GMV / FamiPay 贷款余额等定量数值外部披露匮乏。服务开始日・脱离 T 积分日期等事实关系经由 Wikipedia 确认。伊藤忠 G 内支付平台化的中计内容是基于中期经营计划公开资料的一般性方向描述，具体数值目标未确认。

@@ -1,50 +1,54 @@
 ---
 source: regional-banks/ikeda-senshu-bank
-source_hash: e92013ce9f1c65c4
+source_hash: 6ec6c7f75ace3015
 lang: en
 status: machine
 fidelity: ok
 title: "Ikeda Senshu Bank"
-translated_at: 2026-05-31T15:29:03.869Z
+translated_at: 2026-06-19T12:43:19.947Z
 ---
+
 # Ikeda Senshu Bank
+
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Principal routing context: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]] [[banking/INDEX|banking index]] [[regional-banks/ikeda-senshu-hd]] 1 [[regional-banks/ikeda-senshu-hd]] 2 [[banking/regional-bank-consolidation-pattern]] 3 [[regional-banks/ikeda-senshu-hd]] [[regional-banks/kansai-mirai-bank]] [[regional-banks/kyoto-bank]] [[regional-banks/kiyo-bank]] [[regional-banks/ikeda-senshu-hd]] [[regional-banks/kansai-mirai-bank]] [[regional-banks/kyoto-bank]] [[regional-banks/kiyo-bank]] [[banking/regional-bank-consolidation-pattern]] [[banking/INDEX]] 2026-01-01
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/kansai-mirai-bank|関西みらい銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-This page records the public-information boundary for Ikeda Senshu Bank in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; source anchors are retained in source order.
+Ikeda Senshu Bank, Ltd. is a regional bank headquartered in Osaka Prefecture and listed in the FSA's bank license registry. It is the core operating bank of [[regional-banks/ikeda-senshu-hd]], treated as the bank-license entity following the integration of the former Ikeda Bank and the former Senshu Bank.
 
-## License / group boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Entity | Ikeda Senshu Bank |
-| Page role | Separates the operating company, holding company, historical entity, subsidiary, or regulatory function. |
-| Reading boundary | License, group, succession, and business-scope details follow the public sources listed in the source file. |
+| Legal name | Ikeda Senshu Bank, Ltd. |
+| License route | Banking Act regional bank; FSA bank license list |
+| Group boundary | [[regional-banks/ikeda-senshu-hd]] core operating bank |
+| Home market | Osaka / Hokusetu, Senshu, and southeastern Hyogo |
+| Wiki role | Osaka regional-bank operating-company page |
 
-## Business role
+## 2. Operating model
 
-- Explains the entity's main business, institutional position, or historical function in Japan's financial system.
-- Keeps banking, securities, insurance, asset management, payments, crypto-assets, leasing, research / consulting, and regulatory-supervision boundaries separate.
-- For mergers, renamings, integrations, transfers, or historical bodies, avoids treating an old name as a current standalone entity.
+Ikeda Senshu Bank is a regional bank that, centered on the Hokusetu / Senshu areas of Osaka Prefecture and the southeastern part of Hyogo Prefecture, handles retail deposits, SME finance, real-estate / logistics finance, and regional consulting. The HD page covers group strategy, while this page covers banking operations and license boundary. For the Kansai regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
-## Peer / contrast
+## 3. Why this page matters
 
-- Read together with the related pages and peer clusters represented in the source file.
-- Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
-- For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
-
-## Source-order continuation
-
-
+- Closes the FSA exact-name operating-company gap for Ikeda Senshu Bank.
+- Separates the bank entity from [[regional-banks/ikeda-senshu-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/kansai-mirai-bank]], [[regional-banks/kyoto-bank]], and [[regional-banks/kiyo-bank]].
 
 ## Related
 
-- Related entries are represented by the source anchors above.
+- [[regional-banks/ikeda-senshu-hd]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/kyoto-bank]]
+- [[regional-banks/kiyo-bank]]
+- [[banking/regional-bank-consolidation-pattern]]
+- [[banking/INDEX]]
 
 ## Sources
 
-- FSA, industry-association, company-site, IR, public-disclosure, Wikipedia, or other public sources listed in the source file.
+- FSA: bank license list, regional banks, as of 2026-01-01.
+- Ikeda Senshu Bank official company profile.

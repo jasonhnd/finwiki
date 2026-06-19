@@ -1,119 +1,120 @@
 ---
 source: regional-banks/hokkoku-fhd
-source_hash: e8f0c64f835e4c32
+source_hash: c96b91813039ecb9
 lang: en
 status: machine
 fidelity: ok
-title: "Hokkoku Financial Holdings (historical Hokkoku FHD)"
-translated_at: 2026-05-31T15:29:03.933Z
+title: "Hokkoku FHD (北國 FHD)"
+translated_at: 2026-06-19T12:43:19.867Z
 ---
 
-# Hokkoku Financial Holdings (historical Hokkoku FHD)
+# Hokkoku FHD (北國 FHD)
 
-## Wiki Route
+## Wiki route
 
-This entry belongs to the [[regional-banks/INDEX|regional-banks INDEX]]. Read it with [[regional-banks/fukuoka-fg|Fukuoka Financial Group (FFG)]] for peer comparison and with the [[banking/INDEX|banking index]] for the broader banking and regulatory context.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-Current-name route: [[financial-regulators/cci-group|CCI Group]]. This page remains as the historical Hokkoku FHD bridge for older research notes and backlinks.
+Current-name route: [[financial-regulators/cci-group|CCIグループ]]. This page remains as the historical / old-name Hokkoku FHD bridge for older research notes and links.
 
 ## Overview
 
-Hokkoku Financial Holdings was an Ishikawa-based regional bank holding company listed on the Tokyo Stock Exchange Prime Market under code 7381. It was established on 2021-10-01 through a sole-share transfer by Hokkoku Bank and changed its trade name to [[financial-regulators/cci-group|CCI Group]] on 2025-10-01. Although its asset scale sat in the mid-sized regional-bank tier, the group was widely treated as an exceptional digital leader among Japanese regional banks.
+A regional-bank holding company based in Ishikawa Prefecture (TSE PRIME 7381). It was established through a sole share transfer of 2021-10-01 Hokkoku Bank and changed its trade name to [[financial-regulators/cci-group|株式会社CCIグループ]] in 2025-10-01. Its asset size is in the mid-tier regional-bank class, but it is known as a **"digitally advanced regional bank" in a class of its own within the regional-banking industry**. It became the first regional bank to adopt Microsoft Azure in 2008 年, migrated its core banking system to an open core system (Windows servers + .NET based) in 2010 年, and renewed its branch counter terminals to Surface in 2017 年, sustaining **an IT path that anticipated industry conventions by more than 10  years**. In 2023 年 it launched the ICT-consulting subsidiary "Digital Value" and the BaaS platform "Tonari," advancing a **transformation into a "regional-bank-born digital platformer."** It is one of the regional-bank DX leaders alongside [[regional-banks/fukuoka-fg]] (Minna Bank).
 
-Its strategic profile was shaped by an unusually early technology program: adoption of Microsoft Azure in 2008, migration of core banking systems to an open Windows Server and .NET-based architecture in 2010, and replacement of branch-counter terminals with Surface devices in 2017. In 2023, the group launched Digital Value as an ICT consulting subsidiary and introduced the Tonari BaaS platform, positioning itself as a regional-bank-origin digital platform provider. Together with [[regional-banks/fukuoka-fg|Fukuoka Financial Group's Minna Bank]], Hokkoku FHD is one of the reference cases for regional-bank digital transformation in Japan.
+## 1. Company overview
 
-## 1. Company Profile
+**Legal name**: 株式会社北國フィナンシャルホールディングス
+**English name**: Hokkoku Financial Holdings, Inc.
+**Securities code**: TSE PRIME 7381
+**Established**: 2021-10-01 (holding-company conversion via sole share transfer of Hokkoku Bank)
+**Head office**: Hirooka 2-12-6, Kanazawa, Ishikawa Prefecture (Hokkoku Bank head-office building)
 
-**Legal name**: Hokkoku Financial Holdings, Inc.
-**Security code**: Tokyo Stock Exchange Prime 7381
-**Established**: 2021-10-01, through Hokkoku Bank's sole-share transfer into a holding-company structure
-**Head office**: Hokkoku Bank Head Office Building, 2-12-6 Hirooka, Kanazawa, Ishikawa
+### Main subsidiaries / holdings
 
-### Principal Subsidiaries and Holdings
-
-```text
-Hokkoku FHD (listed holding company, 7381)
-  |-- Hokkoku Bank (100%) -- core regional-bank operation with the leading Ishikawa share
-  |-- Digital Value (100%, established 2023-04) -- ICT consulting subsidiary
-  |-- Hokkoku Management (100%) -- management consulting and regional corporate support
-  |-- Hokkoku Credit (100%) -- credit-card business
-  |-- Hokkoku e Payment (100%) -- payment-related operations
+```
+Hokkoku FHD (holding company, listed 7381)
+  ├── Hokkoku Bank (100%) ── Ishikawa Prefecture share No.1  regional bank, core business
+  │     └── within Ishikawa Prefecture + adjacent expansion into Toyama, Fukui, Tokyo, Osaka, etc.
+  ├── Digital Value (100%, established 2023-04 ) ── ICT-consulting subsidiary
+  │     └── DX support for corporations / municipal-government DX
+  ├── Hokkoku Management (100%) ── management consulting / regional-enterprise support
+  ├── Hokkoku Credit (100%) ── credit cards
+  └── Hokkoku e-Payment (100%) ── payment-related
 ```
 
-Tonari is better understood as a BaaS (Banking as a Service) platform brand provided by Hokkoku Bank and Digital Value to other regional banks and local financial institutions, rather than as a conventional subsidiary.
+"Tonari" is less a subsidiary than a **BaaS (Banking as a Service) platform** brand that Hokkoku Bank / Digital Value provides to other regional banks and regional financial institutions.
 
-## 2. Merger and Corporate History
+## 2. Mergers / history
 
-- **1943**: Hokkoku Bank was established through wartime consolidation, including Kashu Bank, Kano Godo Bank, and Noto Bank.
-- **2008**: Hokkoku became the first Japanese regional bank to adopt Microsoft Azure, drawing industry attention.
-- **2010**: The bank moved its core banking system to an open Windows and .NET-based architecture, an unusual step in the regional-bank sector.
-- **2017**: Branch-counter terminals were replaced with Surface tablets, supporting a broader redesign of paper-heavy operations.
-- **2021-10-01**: Hokkoku FHD was formed by sole-share transfer, making Hokkoku Bank a wholly owned subsidiary.
-- **2023-04**: Digital Value was established as an ICT consulting subsidiary, and the Tonari BaaS platform was launched.
-- **2024-01-01**: The Noto Peninsula earthquake made continuity of local financial services a direct management and social-responsibility issue.
-- **2024**: The group presented a new medium-term plan oriented toward regional DX platform services.
+- **1943**: Hokkoku Bank established (wartime consolidation of Kashu Bank + Kanou Godo Bank + Noto Bank, etc.)
+- **2008**: First regional bank to adopt Microsoft Azure, shocking the industry
+- **2010**: Migrated the core banking system to an **open core system** (Windows + .NET based) — unprecedented in the regional-banking industry and widely discussed
+- **2017**: Renewed branch counter terminals to **Surface tablets**, fundamentally rethinking paper-based operations
+- **2021-10-01**: Hokkoku FHD established via sole share transfer; Hokkoku Bank becomes a 100% subsidiary
+- **2023-04**: Established the ICT-consulting subsidiary **Digital Value** and simultaneously began offering the BaaS platform **"Tonari"**
+- **2024-01-01**: Noto Peninsula Earthquake occurred (epicenter in Ishikawa Prefecture; maintaining financial functions in the disaster area became a management issue)
+- **2024**: New medium-term management plan (oriented toward becoming a regional DX platformer)
 
-## 3. Business Segment Map
+## 3. Business-segment map
 
-| Segment | Principal operator | Characteristics |
+| Segment | Main entity | Characteristics |
 |---|---|---|
-| Ishikawa retail banking | Hokkoku Bank | Leading Ishikawa deposit and lending share; dense local franchise |
-| Ishikawa corporate banking | Hokkoku Bank | Main-bank role for Hokuriku middle-market and SME customers |
-| Adjacent-region branches | Hokkoku Bank | Branches in Toyama, Fukui, Tokyo, and Osaka from a Hokuriku base |
-| ICT consulting | Digital Value | DX support for regional enterprises and municipalities, commercializing internal know-how |
-| BaaS | Tonari | Core-banking, API, and business-system services for other regional banks |
-| Cards and payments | Hokkoku Credit / Hokkoku e Payment | Local card and payment infrastructure |
-| Microsoft partnership | Group-wide | Azure, Surface, and Microsoft 365 as core operational infrastructure |
+| In-prefecture retail | Hokkoku Bank | Ishikawa Prefecture share No.1 (both deposits and loans), dominant base |
+| In-prefecture corporate | Hokkoku Bank | Main bank for Hokuriku local enterprises, strong with mid-tier / SME |
+| Adjacent-prefecture expansion | Hokkoku Bank | Branches in Toyama, Fukui, Tokyo, Osaka, with a Hokuriku base |
+| ICT consulting | Digital Value | DX support for regional enterprises / municipalities (external sale of in-house expertise) |
+| BaaS | Tonari | Provides core systems / APIs / operational systems to other regional banks |
+| Cards / payments | Hokkoku Credit / Hokkoku e-Payment | Regional payments |
+| Microsoft partnership | Company-wide | Azure / Surface / Microsoft 365  as the foundation for all operations |
 
-### Regional-Bank Digital Platform Strategy
+### "Regional-bank-born digital platformer" orientation
 
-Hokkoku FHD's strategy is unusual in the regional-bank sector. Many regional banks depend on vendor-led shared core systems from providers such as NTT DATA, BIPROGY, or Hitachi. Hokkoku instead built a Microsoft-centered internal platform from 2008 onward and opened up its core banking architecture. Tonari commercialized that accumulated capability in 2023, turning an internal DX base into a platform that could be sold to other regional banks. The strategic significance is not only cost reduction, but a shift from bank operator toward technology-infrastructure provider.
+Hokkoku FHD's strategy can be called **one of a kind** in the regional-banking industry. Whereas an ordinary regional bank rides on a "vendor-dependent shared core system (NTT Data, Japan Unisys, Hitachi, etc.)," Hokkoku **placed Microsoft Azure at its in-house foundation from 2008 年 onward and opened up the core banking system itself**. The productization of this accumulation is 2023 年's **Tonari** (BaaS), stepping into an **"IT-company-ization" strategy** that sells to other regional banks the very DX foundation that it itself uses.
 
-### Long-Running Microsoft Partnership
+### Long-term Microsoft partnership
 
-The Microsoft and Azure relationship that began in 2008 is one of the longest-running in the Japanese regional-bank sector. Surface tablet deployment in 2017 and group-wide Microsoft 365 use reflected a deliberate choice to prioritize operating-model reform and implementation speed.
+The Microsoft / Azure partnership since 2008 年 is among the longest in the regional-banking industry. The Surface tablet introduction (2017) and the company-wide rollout of Microsoft 365  are also choices that deliberately swallow vendor lock-in to prioritize the speed of operational reform.
 
-### Competitive Reference Points
+### Competitors / reference points
 
-The closest digital-transformation reference point is [[regional-banks/fukuoka-fg|Fukuoka Financial Group]], which operates Minna Bank as a cloud-native digital bank. The contrast is important: FFG created a new nationwide digital brand, while Hokkoku FHD digitized the operating base of an existing regional bank and sought to sell that base to peer institutions. The revenue models and transformation routes are therefore materially different.
+The leading reference point as a regional-bank DX leader is [[regional-banks/fukuoka-fg]] (Minna Bank = a fully cloud-native digital bank). However, the two strategies are contrasting: Fukuoka FG is **"nationwide digital expansion under a new brand,"** while Hokkoku FHD is **"digitizing the operational foundation of an existing regional bank itself and selling it to other regional banks."** The revenue sources they target also differ.
 
 ### Noto Peninsula Earthquake (2024-01-01)
 
-Because the earthquake affected Ishikawa and the Noto region, maintaining financial services in damaged communities became both a business-continuity matter and a social responsibility. Hokkoku's digitized operating base was viewed as relevant to BCP resilience, while reconstruction lending, branch-network adaptation, and credit-cost risk may affect medium-term financial results.
+With the epicenter in Ishikawa Prefecture's Noto region, maintaining financial functions in the disaster area is both a management issue and a social responsibility. The advance of digitization is credited with having worked for BCP (business continuity), while on the other hand the burden of disaster-area reconstruction lending and branch-network reorganization could affect finances over the medium-to-long term.
 
-## 5. Regulation and Policy Context
+## 5. Regulation / policy
 
-- **Supervisors**: Financial Services Agency (FSA) and Hokuriku Local Finance Bureau.
-- **Business category**: Bank holding company under the Banking Act; member of the Regional Banks Association of Japan.
-- **Current policy issues**:
-  - Bank of Japan policy-rate normalization from 2024, improving regional-bank net interest margins.
-  - Reconstruction finance and moratorium responses after the Noto Peninsula earthquake.
-  - BaaS and shared-core-system market restructuring, with Tonari positioned as an alternative to NTT DATA's regional-bank shared centers and STELLA CUBE.
+- **Supervision**: Financial Services Agency (FSA), Hokuriku Local Finance Bureau
+- **Business type**: Bank holding company (Banking Act), member of the Regional Banks Association
+- **Recent policy points**:
+  - 2024〜 BoJ policy-rate normalization → interest-margin improvement bonus across regional banks
+  - 2024〜 Noto Peninsula Earthquake disaster-area reconstruction (special lending / moratorium responses)
+  - 2024〜 reorganization of the BaaS / shared-core-system market (Tonari as an alternative option to the NTT Data "Regional Bank Joint Center" / "STELLA CUBE" camps)
 
-## 7. Open Questions
+## 7. Open questions
 
-- How far can Tonari expand in adopted-bank count and revenue scale, and can it displace shared-core arrangements from NTT DATA or BIPROGY-related systems?
-- How material will non-performing-loan risk become in reconstruction lending after the Noto Peninsula earthquake, especially through the 2026-2027 allowance cycle?
-- Can Digital Value expand municipal DX services beyond Ishikawa?
-- Will Hokkoku FHD remain independent, or become involved in regional-bank consolidation initiatives such as SBI's "fourth megabank" concept or neighboring [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]]?
-- How far will the Microsoft partnership deepen in generative AI and Copilot-related implementation?
+- How far will Tonari's number of adopting regional banks / revenue scale grow? Will regional banks emerge that switch over from the NTT Data / Japan Unisys shared core systems?
+- What is the non-performing-loan risk of disaster-area reconstruction lending after the Noto Peninsula Earthquake? Provisioning trends from 2026〜2027 
+- How far will Digital Value's municipal-DX business expand outside Ishikawa Prefecture?
+- Will Hokkoku FHD be incorporated into regional-bank reorganization (the SBI 4  megabank concept / adjacent [[regional-banks/hokuhoku-fg]], etc.), or will it stay on an independent path?
+- How far will the deepening of the Microsoft partnership progress (implementation potential in the generative-AI / Copilot domain)?
 
 ## 8. Related
 
-- [[regional-banks/fukuoka-fg|Fukuoka Financial Group]] -- the other major regional-bank DX reference case through Minna Bank.
-- [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]] -- neighboring Hokuriku regional-bank group.
-- [[regional-banks/shizuoka-fg|Shizuoka Financial Group]] / [[regional-banks/concordia-fg|Concordia Financial Group]] / [[regional-banks/mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
-- [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho Financial Group]] -- megabank references.
-- [[megabanks/sbi-hd|SBI Holdings]] -- regional-bank alliance strategy under the "fourth megabank" concept.
-- Related wiki: [[banking/minna-bank-baas-model|Minna Bank BaaS model comparison]].
+- [[regional-banks/fukuoka-fg]] — the other regional-bank DX leader, which holds Minna Bank, with a contrasting strategy
+- [[regional-banks/hokuhoku-fg]] — a regional-bank FG with an adjacent Hokuriku base (Toyama, Hokkaido)
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]] — mid-tier to large regional-bank FGs
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — megabanks (reference)
+- [[megabanks/sbi-hd]] — forms a regional-bank coalition under the 4  megabank concept
+- Related wiki: [[banking/minna-bank-baas-model]] (BaaS comparison)
 
 ## Sources
 
-- Wikipedia: Hokkoku Financial Holdings.
-- Wikipedia: Hokkoku Bank, including public information on Microsoft Azure adoption, open core-banking migration, and Surface deployment.
-- Hokkoku FHD public IR materials covering the 2021-10-01 holding-company formation, the 2023-04 establishment of Digital Value, and the 2023 Tonari launch.
+- **Wikipedia: 北國フィナンシャルホールディングス** (public information)
+- **Wikipedia: 北國銀行** (public information; the Microsoft Azure adoption / core-system opening / Surface introduction are each described)
+- Hokkoku FHD official IR (holding-company establishment 2021-10-01, Digital Value establishment 2023-04, Tonari service launch 2023)
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (v1.0 public-information base, 2026-05-19). The Azure adoption year (2008), open core-banking migration year (2010), Surface deployment year (2017), and Digital Value / Tonari launch timing (2023-04) are based on Wikipedia and public IR materials. The precise financial impact of the Noto Peninsula earthquake should be checked against securities reports from the fiscal year ended 2025-03 onward.
+> [!info] Verification status
+> confidence: **likely** (v1.0  public-information based 2026-05-19). The Microsoft Azure adoption year (2008), core-system opening year (2010), Surface introduction year (2017), and Digital Value establishment / Tonari service-launch year (2023-04) are based on Wikipedia / public IR. The specific financial impact of the Noto Peninsula Earthquake damage should be confirmed in securities reports from the 2025-03  period onward.

@@ -1,13 +1,14 @@
 ---
 source: securities-firms/tokai-tokyo-fh
-source_hash: 18f9956e3f454441
+source_hash: 71e6362d08c2804e
 lang: en
 status: machine
 fidelity: ok
-title: "Tokai Tokyo Financial Holdings"
-translated_at: 2026-06-01T02:31:57.130Z
+title: "Tokai Tokyo FH (東海東京 FH / Tokai Tokyo Financial Holdings)"
+translated_at: 2026-06-19T12:43:19.872Z
 ---
-# Tokai Tokyo Financial Holdings
+
+# Tokai Tokyo FH (東海東京 FH / Tokai Tokyo Financial Holdings)
 
 ## Wiki route
 
@@ -15,124 +16,123 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-A **midsize independent securities holding company** based in the Chukyo / Nagoya region. It converted to a holding-company structure in 2009-04-01, centered on Tokai Tokyo Securities. Its greatest strategic feature is its **joint-venture securities model with regional banks**. It has formed JVs with many regional banks, including Nishi-Nippon City TT Securities, Ikeda Senshu TT Securities, Fukui Bank TT Securities, Hamagin TT Securities, Tochigin TT Securities, Ehime Bank-related entities, and the Shikoku Alliance sphere, establishing a "regional-partnership hybrid securities" model that complements regional banks' securities functions. **Competitors** are [[securities-firms/okasan-sg]], Okasan Securities Group from the same Nagoya lineage, and the face-to-face 5  major securities firms. Listed on TSE PRIME 8616.
+A **mid-tier independent securities holding company** based in Chukyo (Nagoya). Converted to a holding company centered on 2009-04-01 Tokai Tokyo Securities. Its biggest strategic feature is the **regional-bank joint-venture securities model**: it forms JVs with many regional banks — Nishi-Nippon City TT Securities, Ikeda Senshu TT Securities, Fukui Bank TT Securities, Hamagin TT Securities, Tochigin TT Securities, the Ehime Bank affiliate, the Shikoku Alliance affiliate, and others — complementing the securities functions of regional banks and establishing a "region-linked hybrid brokerage" model. **Competitors** are the fellow Nagoya-based [[securities-firms/okasan-sg]] (Okasan Securities Group) and the face-to-face 5  major brokers. TSE PRIME 8616.
 
 ## 1. Company overview
 
-**Official name**: Tokai Tokyo Financial Holdings, Inc.
+**Legal name**: 株式会社東海東京フィナンシャル・ホールディングス
 **English name**: Tokai Tokyo Financial Holdings, Inc.
-**Securities code**: TSE PRIME 8616  / Nagoya Stock Exchange Premier 8616
+**Securities code**: TSE PRIME 8616 / Nagoya Premier 8616
+**Established**: 2009-04-01 (share transfer of Tokai Tokyo Securities → holding-company conversion)
+**Head office**: Nihonbashi, Chuo-ku, Tokyo (registered) / Nagoya (Chukyo base)
+**Business type**: Mid-tier independent securities-group holding company
 
-**Established**: 2009-04-01, through a share transfer of Tokai Tokyo Securities into a holding-company structure
-**Head office**: Nihonbashi, Chuo-ku, Tokyo for registration / Nagoya as Chukyo operating base
-**Business type**: Midsize independent securities-group holding company
-
-### Major subsidiaries and joint ventures
+### Main subsidiaries / joint ventures
 
 ```
-Tokai Tokyo FH (listed holding company 8616)
-  ├── Tokai Tokyo Securities (100%) -- core; face-to-face + online + wholesale
-  ├── Tokai Tokyo Intelligence Lab -- research / think tank
-  ├── Tokai Tokyo Asset Management -- investment-trust management
-  ├── Tokai Tokyo Wealth Consulting -- high-net-worth PB
-  ├── Regional-bank JV securities firms (major JVs)
+Tokai Tokyo FH (holding company, listed 8616)
+  ├── Tokai Tokyo Securities (100%) ── Core. Face-to-face + online + wholesale
+  ├── Tokai Tokyo Intelligence Lab ── research / think tank
+  ├── Tokai Tokyo Asset Management ── investment-trust management
+  ├── Tokai Tokyo Wealth Consulting ── wealthy-client PB
+  ├── Regional-bank JV brokers (main JVs)
   │     ├── Nishi-Nippon City TT Securities (Nishi-Nippon City Bank = [[regional-banks/fukuoka-fg]])
   │     ├── Hamagin TT Securities (Bank of Yokohama = [[regional-banks/concordia-fg]])
   │     ├── Ikeda Senshu TT Securities (Ikeda Senshu HD)
   │     ├── Fukui Bank TT Securities (Fukui Bank)
   │     ├── Tochigin TT Securities (Tochigi Bank)
-  │     ├── Ehime Bank-related sphere (Shikoku Alliance Securities area)
-  │     └── Many other JVs with regional banks
-  └── Overseas offices / alliances
-        ├── China, Thailand, Vietnam, Indonesia and other ASEAN alliance network
-        ├── Hong Kong / Singapore offices
-        └── UK / U.S. offices
+  │     ├── Ehime Bank affiliate (Shikoku Alliance securities sphere)
+  │     └── many other JVs with regional banks
+  └── Overseas bases / alliances
+        ├── ASEAN alliance network in China, Thailand, Vietnam, Indonesia, etc.
+        ├── Hong Kong / Singapore bases
+        └── UK / US bases
 ```
 
 ### Predecessors / history
 
-- **1908** Hirota Savings Bank established, one source of the later lineage
-- **1944** Tokai Securities established, based in Nagoya
-- **1949** Tokyo Securities established, including the former Nissei Securities lineage
-- **2000** Tokai Securities and Tokyo Securities merge to form **Tokai Tokyo Securities**
-- **2009-04-01** **Tokai Tokyo Financial Holdings established** through holding-company conversion / share transfer
+- **1908** Hirota Savings Bank established → one of the later lineage sources
+- **1944** Tokai Securities established (Nagoya base)
+- **1949** Tokyo Securities established (including the flow from the former Nissei Securities lineage)
+- **2000** Tokai Securities + Tokyo Securities → **Tokai Tokyo Securities** founded by merger
+- **2009-04-01** **Tokai Tokyo Financial Holdings established** (holding-company conversion, share transfer)
 
-### Regional-bank alliance and overseas expansion phase
+### Regional-bank alliance / overseas-expansion period
 
-- **2014** Expanded Asian alliances including China and Thailand
-- **2017** **Full-scale development of regional-bank securities JV model**: successive JV launches with regional banks including Nishi-Nippon City Securities, Ikeda Senshu Securities, and Fukui Bank TT Securities
-- Around 2020 , regional-bank partnerships expanded, including Hamagin TT Securities, Tochigin TT Securities, and the Shikoku Alliance sphere
-- **2024** **Medium-term management plan**: 4  axes of deeper regional-bank cooperation, high-net-worth PB, digital, and Asia
+- **2014** Asian alliances in China, Thailand, etc. begin to expand
+- **2017** **Full-scale rollout of the regional-bank securities JV model**: successive establishment of JVs with regional banks such as Nishi-Nippon City Securities, Ikeda Senshu Securities, and Fukui Bank TT Securities
+- Around 2020 , regional-bank alliances expanded (Hamagin TT Securities, Tochigin TT Securities, Shikoku Alliance, etc.)
+- **2024** **Medium-term management plan**: 4 -axis of deepening regional-bank alliances + wealthy-client PB + digital + Asia
 
-### Industry position
+### Position in the industry
 
-- Below the **face-to-face 5  major securities firms** (Nomura / Daiwa / [[megabanks/mufg]] MUMSS / SMBC Nikko / Mizuho), but **top-class among midsize independent securities groups**
-- The **largest local independent securities firm in the Chukyo economy** of Nagoya, Aichi, Mie, and Gifu
-- Same-Nagoya competitor = [[securities-firms/okasan-sg]], Okasan Securities Group. Together they are the "Chukyo 2 -strong" pair
+- Below the face-to-face 5  major brokers (Nomura / Daiwa / [[megabanks/mufg]] MUMSS / SMBC Nikko / Mizuho), **top-class among mid-tier independents**
+- The **largest local independent broker** in the **Chukyo economic zone** (Nagoya, Aichi, Mie, Gifu)
+- Its fellow Nagoya-based competitor = [[securities-firms/okasan-sg]] (Okasan Securities Group). The two form the "Chukyo 2  powers"
 
-### Regional-bank JV model (largest differentiator)
+### Regional-bank JV model (biggest differentiator)
 
 Tokai Tokyo's strategic core is the **"regional-bank joint-venture securities JV" model**:
-- A regional bank alone often cannot justify the operating cost of a securities subsidiary, so it forms a half-and-half JV with Tokai Tokyo.
-- The regional bank provides customer base, regional brand, and bank-account linkage.
-- Tokai Tokyo provides securities infrastructure, products, talent, and compliance.
-- JV names are usually "XX Bank TT Securities" or "XX TT Securities."
-- Major JVs include Nishi-Nippon City TT Securities, Hamagin TT Securities, Ikeda Senshu TT Securities, Fukui Bank TT Securities, and Tochigin TT Securities, though the list changes over time.
-- Result: it functions as a **regional-bank-side counterweight** to megabank securities groups such as MUMSS, SMBC Nikko, and Mizuho expanding into regional-bank territory.
+- Running a securities subsidiary alone is not cost-effective for a regional bank → half-and-half JV with Tokai Tokyo
+- The regional bank provides the customer base, regional brand, and bank-account linkage
+- Tokai Tokyo provides securities-business infrastructure, products, personnel, and compliance
+- JV names are usually "○○ Bank TT Securities" or "○○ TT Securities"
+- Main JVs: Nishi-Nippon City TT Securities / Hamagin TT Securities / Ikeda Senshu TT Securities / Fukui Bank TT Securities / Tochigin TT Securities, etc. (increasing or decreasing by period)
+- Result: functions as the **regional-bank side's counter-axis** against the megabank groups' (MUMSS / SMBC Nikko / Mizuho) advance into the regional-bank space
 
 ### 4 -axis strategy
 
 | Axis | Content |
 |---|---|
-| Chukyo base | Face-to-face sales in Nagoya / Aichi and deeper coverage of local large companies / high-net-worth clients |
-| Regional-bank partnerships | Nationwide network of regional-bank securities JVs |
-| High-net-worth PB | Tokai Tokyo Wealth Consulting, inheritance and business succession |
-| Asia / overseas | China / ASEAN alliance network, Hong Kong and Singapore offices, IPO underwriting |
+| Chukyo base | Face-to-face sales in Nagoya / Aichi, deepening with local large enterprises / wealthy clients |
+| Regional-bank alliance | Nationwide network of regional-bank securities JVs |
+| Wealthy-client PB | Tokai Tokyo Wealth Consulting, inheritance / business succession |
+| Asia / overseas | China / ASEAN alliance network, Hong Kong / Singapore bases, IPO underwriting |
 
 ### Products / channels
 
-- **Face-to-face**: Chukyo base + nationwide network through regional-bank JVs
-- **Online**: Tokai Tokyo OnLine, its own online channel
-- **Corporate / wholesale**: IPO and PO underwriting for midsize companies, regional-bank public-funds and local-government deals
-- **Investment trusts / PB**: discretionary products for high-net-worth clients, inheritance and succession
+- **Face-to-face**: Chukyo base + nationwide network via regional-bank JVs
+- **Online**: Tokai Tokyo OnLine (own online platform)
+- **Corporate / wholesale**: mid-sized-company IPO / PO underwriting, regional-bank public-fund / local-government deals
+- **Investment trusts / PB**: discretionary management for wealthy clients, inheritance / succession
 
 ## 4. Competition / positioning
 
 | Competitor | Relationship |
 |---|---|
-| [[securities-firms/okasan-sg]], Okasan Securities Group | **Direct competitor**. Same Nagoya lineage, midsize independent group, and Chukyo 2  strength. Also competes in some regional-bank partnerships |
-| Nomura HD | Nationwide face-to-face No. 1, overwhelmingly larger scale |
-| Daiwa HD | Another 5  major face-to-face securities firm; competes in midsize-company IPOs |
-| [[megabanks/mufg]] MUMSS | Megabank group / Morgan Stanley JV; also competes in regional-bank partnerships |
-| SMBC Nikko ([[megabanks/smfg]]) | Megabank group; competes in regional-bank partnerships and face-to-face channels |
-| Mizuho Securities ([[megabanks/mizuho-fg]]) | Megabank group |
-| [[megabanks/sbi-hd]] / Rakuten Securities | Online players; retail-fee competition |
+| [[securities-firms/okasan-sg]] (Okasan Securities Group) | **Direct competitor.** Fellow Nagoya-based, mid-tier independent, Chukyo 2  powers. Also partly competes on regional-bank alliances |
+| Nomura HD | Nationwide face-to-face No.1, overwhelming in scale |
+| Daiwa HD | Also a 5  major face-to-face broker, competes on mid-sized-company IPOs |
+| [[megabanks/mufg]] MUMSS | Megabank-affiliated, Morgan Stanley JV, also competes on regional-bank alliances |
+| SMBC Nikko ([[megabanks/smfg]]) | Megabank-affiliated, competes on regional-bank alliances / face-to-face |
+| Mizuho Securities ([[megabanks/mizuho-fg]]) | Megabank-affiliated |
+| [[megabanks/sbi-hd]] / Rakuten Securities | Online brokers, retail-commission competition |
 
-Positioning: "**not megabank securities, but not a regional-bank standalone either; a third 3  securities infrastructure**."
+Positioning: "**A third securities infrastructure that is neither megabank-affiliated nor a regional bank acting alone**" (the No.3  option)
 
 ## 5. Regulation / policy
 
-- **Primary supervisors**: Financial Services Agency (FSA), Japan Securities Dealers Association (JSDA)
-- **Markets**: TSE PRIME / Nagoya Stock Exchange Premier
-- **Key policy issues**:
-  - 2024 onward, new NISA -> pressure on retail fees and intensified competition with online players
-  - Regulation of regional-bank securities JVs under the Banking Act, FIEA, and conflict-of-interest controls
-  - Regional-bank consolidation -> reorganization of JV partners, for example when parent banks merge
+- **Supervision**: Financial Services Agency (FSA), Japan Securities Dealers Association (JSDA)
+- **Markets**: TSE PRIME / Nagoya Premier
+- **Key policy points**:
+  - 2024〜 new NISA → retail-commission compression, intensified competition with online brokers
+  - Regulation of regional-bank securities JVs (Banking Act / FIEA / conflict-of-interest management)
+  - Regional-bank reorganization → consolidation of JV partners (e.g., JV restructuring following a parent-bank merger)
 
 ## Related
 
-- [[securities-firms/okasan-sg]], Okasan Securities Group and same-region Chukyo 2 -strong rival
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]], competing megabank securities subsidiaries
-- [[megabanks/sbi-hd]], online-securities group
-- [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]], some regional-bank JV partners
+- [[securities-firms/okasan-sg]] (Okasan Securities G, hometown rival among the Chukyo 2  powers)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabank-affiliated securities subsidiaries as competitors)
+- [[megabanks/sbi-hd]] (online-broker group)
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]] (some of the regional-bank JV partners)
 
 ## Sources
 
-- **Wikipedia: Tokai Tokyo Financial Holdings** (https://ja.wikipedia.org/wiki/東海東京フィナンシャル・ホールディングス, extracted 2026-05-19)
-- **Wikipedia: Tokai Tokyo Securities** (extracted 2026-05-19)
-- Tokai Tokyo FHD official IR, history, and medium-term management plan public materials
+- **Wikipedia: 東海東京フィナンシャル・ホールディングス** (https://ja.wikipedia.org/wiki/東海東京フィナンシャル・ホールディングス, extracted 2026-05-19)
+- **Wikipedia: 東海東京証券** (extracted 2026-05-19)
+- Tokai Tokyo FHD official IR / history / medium-term management plan (public materials)
 
 ---
 
-> [!info] Validation status
-> confidence: **likely** (based on Wikipedia + official IR). Exact shareholding ratios and the latest list of regional-bank JVs, as well as latest financial figures, require checking the latest quarterly materials on the Tokai Tokyo FHD IR page. JV names change over time because JV partners often change through regional-bank consolidation.
+> [!info] Verification status
+> confidence: **likely** (Wikipedia + official IR based). The precise ownership ratios of the regional-bank JVs and the latest list, as well as recent earnings figures, should be confirmed against the latest quarterly materials on Tokai Tokyo FHD's IR page. Because regional-bank reorganization frequently changes JV partners, JV names vary by point in time.

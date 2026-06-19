@@ -1,122 +1,122 @@
 ---
 source: securities-firms/monex-group
-source_hash: 87b85712ea1d994a
+source_hash: 5de5b62a7adbeaa8
 lang: zh
 status: machine
 fidelity: ok
-title: "Monex Group"
-translated_at: 2026-05-31T23:59:49.413Z
+title: "Monex 集团 (Monex Group)"
+translated_at: 2026-06-19T12:43:19.938Z
 ---
-# Monex Group
+
+# Monex 集团 (Monex Group)
 
 ## Wiki route
 
-本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可结合 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 阅读，以理解同业与对比关系；也可结合 [[securities/INDEX|securities index]] 阅读，以把握更广泛的制度和监管边界。
+本条目归属于 [[securities-firms/INDEX|securities-firms INDEX]]。请将其与 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 对照阅读以获取同业/对比背景，并参照 [[securities/INDEX|securities index]] 了解更广泛的系统/监管边界。
 
 ## TL;DR
 
-Monex Group 是东证 Prime 上市控股公司，证券代码 8698，把日本大型线上证券公司、通过 Coincheck 展开的加密资产业务，以及美国线上券商 TradeStation 组合为面向**个人投资者的全球金融平台**。它于 1999-05-19 作为旧 Monex Securities 创业，由 Sony 与松本大共同出资；创始人**松本大**曾任 Goldman Sachs 合伙人，现仍担任会长兼 CEO。其特征是由国内证券、美国业务和加密资产构成的 3  轴结构。与大型银行系综合金融不同，这是“专注个人投资者平台”的模式。2024 年，NTT Docomo 公布对 Monex Group 出资并纳入合并子公司；Monex Securities 预计将作为 [[megabanks/ndfg]] 这一 Docomo 系金融集团的证券核心业务来定位，并计划在 2026 年 对外披露重组。
+整合日本在线证券巨头 + 加密资产（Coincheck）+ 美国在线券商（TradeStation）的**面向个人投资者的全球金融平台**持股会社（东证 PRIME 8698）。1999-05-19 创业（旧 Monex 证券，索尼 + 松本大 共同出资），创业者**松本大**（前 Goldman Sachs 合伙人，现会长兼 CEO）至今仍掌舵。**国内（Monex 证券）/ 美国（TradeStation）/ 加密资产（Coincheck）的 3 轴结构**为特征，是与巨型银行系综合金融对立的「个人投资者平台特化」模型。2024 年 NTT docomo 公布出资・并表子公司化，Monex 证券将定位为 [[megabanks/ndfg]]（docomo 系金融集团）的证券核心事业的方向（2026 年预定公开）。
 
-## 1. 公司概要
+## 1. 会社概要
 
-**正式名称**：Monex Group, Inc.  
-**英文名称**：Monex Group, Inc.  
-**证券代码**：东证 Prime 8698
-  
-**设立**：1999-05-19，作为旧 Monex Securities，由 Sony 与松本大共同出资  
-**现控股公司体制**：2004-08，由 Monex Beans Holdings 后来变更商号为 Monex Group  
-**总部**：东京都港区赤坂一带  
-**代表人**：松本大，代表执行役会长兼 CEO、创始人
+**正式名**：Monex 集团株式会社
+**英名**：Monex Group, Inc.
+**证券代码**：东证 PRIME 8698
+**设立**：1999-05-19（作为旧 Monex 证券，索尼 + 松本大 共同出资）
+**现持股会社体制**：2004-08（Monex・Beans・控股 → 后变更商号为 Monex 集团）
+**总部**：东京都港区（赤坂区域）
+**代表**：松本大（代表执行役会长兼 CEO，创业者）
 
-### 业务形态
+### 业态
 
-纯控股公司。旗下拥有证券、加密资产、美国线上券商、资产管理和风险投资等业务公司。与大型银行系金融集团不同，它没有银行业务，是**非银行型个人投资者平台**。
+纯粹持股会社。旗下持有证券・加密资产・美国在线券商・资管・风险投资各事业公司。与巨型银行系 FG 不同，不持有银行业的**非银行型个人投资者平台**。
 
-### 主要子公司和持股
+### 主要子公司・持分
 
-```text
-Monex Group（上市控股公司，8698）
-  |-- Monex Securities（100%）：日本国内大型线上证券公司
-  |-- Coincheck（Coincheck，100%）：加密资产交易所，2018-04  完全子公司化
-  |-- TradeStation Holdings, Inc.（美国，100%）：美国线上券商母公司
-  |   `-- TradeStation Securities, Inc.：美国证券业务运营公司
-  |-- Monex Securities Australia：澳大利亚区域展开
-  |-- Monex Asset Management：资产管理子公司
-  `-- Monex Ventures：CVC / 风险投资
+```
+Monex 集团（持股会社・上市 8698）
+  ├── Monex 证券（100%）── 国内在线证券巨头
+  ├── Coincheck（Coincheck, 100%）── 加密资产交易所（2018-04 完全子公司化）
+  ├── TradeStation Holdings, Inc.（美国, 100%）── 美国在线券商母公司
+  │     └── TradeStation Securities, Inc.（美国证券事业实体）
+  ├── Monex Securities Australia（澳洲）
+  ├── Monex・资产管理 ── 资管子公司
+  └── Monex 风投 ── CVC / 风险投资
 ```
 
-### 重要年表（基于公开信息）
+### 重要年表（公开信息基础）
 
-| 日期 | 事项 |
+| 年月 | 事象 |
 |---|---|
-| 1999-05-19 | **Monex Securities 设立**，由 Sony 与松本大共同出资，松本大曾任 Goldman Sachs 合伙人。 |
-| 2000  | Monex Securities 在 JASDAQ 上市，处于早期网络证券热潮期。 |
-| 2004  | **Monex Securities + Beans Securities + Aussie Trade** 等业务重组，形成控股公司架构（Monex Beans Holdings）。 |
-| 2007  | 控股公司商号变更为 **Monex Group**；前后时期以公开沿革为准。 |
-| 2010-08  | **Monex Beans Holdings 与 TradeStation Holdings 合并**，美国线上券商成为子公司。 |
-| 2018-01  | **Coincheck NEM 流出事件**，约 580 億円 等值资产流出，当时 Coincheck 仍为独立企业。 |
-| **2018-04** | **Coincheck 完全子公司化**，金额约 36 億円，是 NEM 流出事件后的救济性收购。 |
-| 2020 年 年代前半 | Coincheck 曾计划通过与 Thunder Bridge Capital 合并在美国 SPAC 上市，后撤回。 |
-| **2024** | **NTT Docomo 公布对 Monex Group 出资并纳入合并子公司**；具体条件随时期变化。 |
-| 2026（计划） | **Monex Securities 预计作为 Docomo 系金融集团 [[megabanks/ndfg]] 的证券核心业务重组并披露**，基于公开公告。 |
+| 1999-05-19 | **Monex 证券 设立**（索尼 + 松本大 共同出资，松本大为前 Goldman Sachs 合伙人）|
+| 2000 | Monex 证券 JASDAQ 上市（初期的网络证券热潮期）|
+| 2004 | **Monex 证券 + Beans 证券 + Aussie 交易**（澳洲系）等事业重组，持股会社化（Monex・Beans・HD）|
+| 2007 | 持股会社商号变更为**Monex 集团**（前后时期参照公开沿革）|
+| 2010-08 | **Monex・Beans・HD 与 TradeStation Holdings 合并** → 美国在线券商子公司化 |
+| 2018-01 | **Coincheck NEM 流出事件**（约 580 億円相当流出，Coincheck 当时为独立企业）|
+| **2018-04** | **Coincheck 完全子公司化**（约 36 億円，NEM 流出事件后的救济收购）|
+| 2020 年代前半 | Coincheck 的美 SPAC 上市计划（经由与 Thunder Bridge Capital 的合并，后撤回）|
+| **2024** | **NTT docomo 公布对 Monex 集团的出资・并表子公司化**（具体条件随时期变动）|
+| 2026（预定）| **Monex 证券预定作为 docomo 系金融集团 [[megabanks/ndfg]] 的证券核心事业重组公开**（公开发表基础）|
 
-> 注：上述年表基于 Wikipedia、IR、新闻稿等公开资料。具体持股比例和整合方案条件会随时期变化，最新数值应参照 IR 披露资料。
+> 注: 上述年表基于公开资料（Wikipedia / IR / 新闻稿）。具体持分比率与整合方案条件随时期变动，最新值请参照 IR 披露资料。
 
-## 2. 业务板块地图
+## 2. 事业分部・地图
 
-| 板块 | 主要运营主体 | 特征 |
+| 分部 | 主要经营者 | 特征 |
 |---|---|---|
-| 日本国内线上证券 | Monex Securities | 与 SBI、乐天、松井并列的网络证券大手，大致处于 4-5  位区间，强项是美国股票交易。 |
-| 加密资产 | Coincheck | 日本国内主要加密资产交易所，2018  NEM 流出事件后在 Monex 旗下重建。 |
-| 美国线上券商 | TradeStation Securities | 面向活跃交易者和专业投资者；与 Interactive Brokers、Robinhood 等竞争。 |
-| 海外、澳大利亚 | Monex Securities Australia | 有限的区域展开。 |
-| 资产管理 | Monex Asset Management | 投资信托、智能投顾相关业务。 |
-| 风险投资 | Monex Ventures | 金融科技 / 加密资产相关 CVC。 |
-| 通信系金融合作 | NTT Docomo 系金融，关联 [[megabanks/ndfg]] 和公开计划 | 基于 2024 年 公布内容，与 d 经济圈整合。 |
+| 国内在线证券 | Monex 证券 | 与 SBI / 乐天 / 松井 并列的网络证券巨头 4-5 位档，美国股经办见长 |
+| 加密资产 | Coincheck | 国内主要加密资产交易业者，2018 NEM 流出事件后在 Monex 旗下重建 |
+| 美国在线券商 | TradeStation Securities | 面向活跃交易者 / 专业人士，与 Interactive Brokers / Robinhood 竞争圈 |
+| 海外（澳洲）| Monex Securities Australia | 有限地区展开 |
+| 资管 | Monex・资产管理 | 投资信托・智能投顾系 |
+| 风险投资 | Monex 风投 | 金融科技 / 加密资产相关 CVC |
+| 通信系金融提携 | NTT docomo 系金融（[[megabanks/ndfg]] 关联，公开预定）| 2024 年公布基础，与 d 经济圈的整合 |
 
-### 3  轴结构（Monex Group 的官方概念）
+### 3 轴结构（Monex 集团的官方概念）
 
-公开资料中反复出现的战略表述是**全球个人投资者平台**。具体包括：
+在公开资料中反复打出的战略是**「全球个人投资者平台」**。具体而言:
 
-- **国内**：Monex Securities，网络证券零售。
-- **美国**：TradeStation，面向美国活跃交易者。
-- **加密资产**：Coincheck，日本国内交易所。
+- **国内**: Monex 证券（网络证券零售）
+- **美国**: TradeStation（面向美国活跃交易者）
+- **加密资产**: Coincheck（国内交易所）
 
-3  条轴线覆盖不同地理范围和不同资产类别，设计思想是横向满足个人投资者的多样需求。与 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 等大型银行系“银行 + 信托 + 证券 + 海外”的综合模式相比，Monex 把板块收窄在**个人投资者平台专门化**上。
+以 3 轴覆盖不同地理・不同资产类别，横向对应个人投资者一切需求的设计思想。与巨型银行系（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）的「银行 + 信托 + 证券 + 海外」综合模型相对照，以**个人投资者平台特化**收窄分部。
 
-### NTT Docomo 合作（2024 年 公布）
+### NTT docomo 提携（2024 年公布）
 
-2024 年，NTT Docomo 公开宣布对 Monex Group 出资并纳入合并子公司。Monex Securities 预计将被定位为**Docomo 系金融集团“NDFG”的证券核心业务**（计划在 2026 年 公开）。由此带来：
+2024 年，NTT docomo 公开发表对 Monex 集团的出资・并表子公司化。Monex 证券将定位为**docomo 系金融集团「NDFG」的证券核心事业**的方向（2026 年预定公开）。由此:
 
-- **与 d 经济圈整合的可能性**，包括 d POINT、d 支付、d 卡等。
-- **接入超过 9000 万 人的 Docomo 用户基础**。
-- **通信 x 金融的集团化模式**，与 KDDI au Financial、SoftBank / PayPay 系形成竞争结构。
+- **与 d 经济圈（d 积分・d 付款・d 卡等）整合的可能性**
+- **连接至 9000 万人以上的 docomo 用户基础**
+- **通信×金融的融合模型**（与 KDDI au金融 / 软银 PayPay 系的竞争结构）
 
-具体整合方案和资本比例随时期变化，本页只记录基于公开资料的表述，不推断未公开的经营判断或战略意图。
+具体的整合方案与出资比率随时期变动，仅作基于公开资料的记述。避免对经营判断或战略意图的推测。
 
 ### Coincheck 的战略定位
 
-- **2018  NEM 流出事件**后不久，Monex 以约 36 億円 将 Coincheck 完全子公司化；该事件的流出规模约 580 億円。这在当时是大型金融集团救济性收购加密资产交易所的象征性案例。
-- 子公司化后，Coincheck 重建内部控制、安全和合规体制，并作为加入 JVCEA 的日本正规交易所运营。
-- 美国 SPAC 上市计划（2020 年 年代前半，经 Thunder Bridge Capital）最终撤回，当前仍为 Monex 完全子公司。
+- 在 **2018 NEM 流出事件**（约 580 億円相当）之后，Monex 以约 36 億円完全子公司化。作为当时大型金融集团对加密资产交易所的救济收购的象征性案例。
+- 子公司化后，重建内部控制 / 安全 / 合规体制，作为 JVCEA（日本加密资产交易业协会）加盟的正规交易所运营。
+- 美 SPAC 上市计划（2020 年代前半，经由 Thunder Bridge Capital）最终撤回，现在仍为 Monex 完全子公司。
 
 ### TradeStation 的定位
 
-- 在美国线上券商行业占据面向**专业 / 活跃交易者**的细分位置。
-- 与 Charles Schwab、Fidelity、Robinhood、Interactive Brokers、Morgan Stanley 旗下 E*TRADE 等竞争。
-- Monex Group 对美国收入和业务连接的暴露很大程度上依赖该业务。
+- 在美国在线券商业界占据**面向专业人士 / 活跃交易者**的利基。
+- 与 Charles Schwab / Fidelity / Robinhood / Interactive Brokers / E*TRADE（Morgan Stanley 旗下）等竞争。
+- 作为 Monex 集团的美国收益引擎，对并表业绩贡献大。
 
-## 4. 监管和政策
+## 4. 规制・政策
 
-- **日本国内主管**：金融厅 / 关东财务局。
-- **证券业务**：通过 Monex Securities，依据金融商品交易法登记为第一种金融商品交易业者。
-- **加密资产**：通过 Coincheck，依据资金结算法登记为加密资产交换业者，并加入 JVCEA。
-- **美国 / TradeStation**：受 SEC / FINRA 监管。
-- **上市控股公司监管**：金融商品交易法下的上市公司披露。
-- **近期政策议题**：
-  - 2025 起：NISA 扩充与新 NISA 带来的年轻层流入，使零售证券竞争加剧。
-  - 2024 起：加密资产税制、分离课税讨论、稳定币制度。
-  - 2024 起：围绕通信 x 金联合并子公司化方案的披露和公正性论点。
+- **国内主管**: 金融厅（FSA）/ 关东财务局
+- **证券业**: 金融商品交易法 第一种金融商品交易业（Monex 证券）
+- **加密资产**: 资金结算法 加密资产交易业者注册（Coincheck）/ JVCEA 加盟
+- **美国（TradeStation）**: SEC / FINRA 规制
+- **持股会社规制**: 金融商品交易法 上市持股会社披露
+- **近期政策论点**:
+  - 2025〜 NISA 扩充・经由新 NISA 的年轻层流入 → 零售证券竞争激化
+  - 2024〜 加密资产税制（分离课税论议）/ 稳定币制度
+  - 2024〜 针对通信×金融提携的并表子公司化方案的披露・公正性论点
 
 ## Related
 
@@ -124,12 +124,12 @@ Monex Group（上市控股公司，8698）
 
 ## Sources
 
-- **Wikipedia: Monex Group**（https://ja.wikipedia.org/wiki/マネックスグループ，2026-05-19 抽出，公开信息）
-- Monex Group 官方公司 / IR 部分，包括治理和有价证券报告书。
-- NTT Docomo x Monex Group 合作公布新闻稿（2024 年 公开部分）。
-- TradeStation Holdings / Coincheck 公开公司信息。
+- **Wikipedia: Monex 集团**（https://ja.wikipedia.org/wiki/マネックスグループ, 2026-05-19 抽出，公开信息）
+- Monex 集团 官方企业网站 IR 板块（沿革・有价证券报告书）
+- NTT docomo × Monex 集团 提携公布新闻稿（2024 年公开部分）
+- TradeStation Holdings / Coincheck 公开企业信息
 
 ---
 
-> [!info] 验证状态
-> confidence: **likely**（以 Wikipedia、公开 IR、新闻稿校核，2026-05-19）。NDFG 相关整合方案中许多部分计划在 2026 年 公开，最新值应参照官方公告。本页仅基于公开信息，不推测未公开的经营判断或战略意图。
+> [!info] 验证状况
+> confidence: **likely**（Wikipedia + 公开 IR + 新闻稿校核 2026-05-19）。NDFG 相关的整合方案有许多 2026 年预定公开的部分，最新值请参照官方发表。本页面仅基于公开信息，避免对未公布的经营判断或战略意图的推测。

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/77-bank
-source_hash: de41857c51ab60b2
+source_hash: c55794e8bfc060c1
 lang: en
 status: machine
 fidelity: ok
 title: "77 Bank (77 Bank)"
-translated_at: 2026-05-31T11:13:44.890Z
+translated_at: 2026-06-19T12:43:19.924Z
 ---
 # 77 Bank (77 Bank)
 
@@ -13,134 +13,134 @@ translated_at: 2026-05-31T11:13:44.890Z
 
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-##TL;DR
+## TL;DR
 
-**The largest regional bank in the Tohoku region**, head office in Sendai City, Miyagi Prefecture, TSE PRIME 8341。1878-12-09 Established in Sendai as the 77th National Bank,1898 Renamed to 77 Bank, Ltd. **Maintaining independent bank structure (not becoming a holding company)**, overwhelming market share in Miyagi Prefecture, Tohoku 6 Expanded to prefecture + metropolitan area. Abbreviation “Shichishichi” “77」。**2011-03-11 Although the area around the Sendai main branch suffered devastating damage** in the Great East Japan Earthquake, it functioned as the core of reconstruction finance. total assets 10兆4,227億円, loan 6兆1,705億円（2025-03 end).^[extracted]
+**The largest regional bank in the Tohoku region**, headquartered in Sendai City, Miyagi Prefecture, TSE PRIME 8341. Founded in Sendai in 1878-12-09 as the 77th National Bank, renamed in 1898  to The 77 Bank, Ltd. It maintains a **single-bank structure (no holding-company conversion)**, with overwhelming share within Miyagi Prefecture and a presence across the 6  Tohoku prefectures plus the Tokyo metropolitan area. Nicknamed "Shichi-shichi" / "77". Although the **2011-03-11 Great East Japan Earthquake caused catastrophic damage** around the Sendai head office, it functioned as the core of reconstruction finance. Total assets 10兆4,227億円, loans 6兆1,705億円 (as of end-2025-03 ). ^[extracted]
 
-## 1. Company Profile
+## 1. Company overview
 
-**Official name**: The 77 Bank, Ltd. ^[extracted]
+**Formal name**: The 77 Bank, Ltd. ^[extracted]
 **English name**: The 77 Bank, Ltd. ^[extracted]
-**Stock code**: TSE PRIME 8341 ^[extracted]
-**set up**: 1878-12-09(As the 77th National Bank, one of the oldest existing Japanese banks)^[extracted]
-**Head Office**: Chuo, Aoba-ku, Sendai City, Miyagi Prefecture 3-3-20 ^[extracted]
-**Organizational design**: Company with audit and supervisory committee
-**Principal supervision**: Financial Services Agency, Bank of Japan Sendai Branch
+**Securities code**: TSE PRIME 8341 ^[extracted]
+**Established**: 1878-12-09 (as the 77th National Bank; among the oldest of Japan's currently existing banks) ^[extracted]
+**Head office**: 3-3-20  Chuo, Aoba-ku, Sendai City, Miyagi Prefecture ^[extracted]
+**Governance design**: Company with an audit and supervisory committee
+**Principal supervision**: Financial Services Agency, BOJ Sendai Branch
 
-### Characteristics of business format
+### Characteristics of the business model
 
-- **Do not become a standalone bank or holding company** ^[extracted]
-  - Even at the same Tohoku regional bank [[regional-banks/proclair-hd]](Aomori/Michinoku integration) [[regional-banks/jimoto-hd]]While (Sendai Bank + Kirayaka Bank) is reorganizing to become a holding company, 77 Bank maintains its independent bank system
-  -Which major regional banks have not turned into a holding company? [[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]](→ Ashikaga and [[regional-banks/mebuki-fg]] form)·[[regional-banks/kyoto-fg|bank-of-kyoto]] Similar routes to leading regional banks such as
-- Member of the Regional Banks Association. It does not participate in the TSUBASA Alliance, but is a member of the Chiba Bank-led Regional Revitalization and Revitalization Network (Chiba, Hokkaido, 77, 82, Shizuoka, Kyoto, Hiroshima, Iyo, Fukuoka). 9 行) Participate in ^[extracted]
+- **Single bank, no holding-company conversion** ^[extracted]
+  - Even among Tohoku regional banks, while [[regional-banks/proclair-hd]] (Aomori / Michinoku merger) and [[regional-banks/jimoto-hd]] (Sendai Bank + Kirayaka Bank) restructure via holding-company conversion, 77 Bank maintains a single-bank structure
+  - Among major regional banks, not having converted to a holding company aligns with the path of strong regional banks such as [[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]] (→ forming Ashikaga and [[regional-banks/mebuki-fg]])・[[regional-banks/kyoto-fg|bank-of-kyoto]]
+- Member of the Regional Banks Association. Does not participate in the TSUBASA Alliance; participates in the Chiba Bank-led "Regional Revitalization and Activation Network" (the 9 行 of Chiba, Hokkaido, 77, Hachijuni, Shizuoka, Kyoto, Hiroshima, Iyo, Fukuoka) ^[extracted]
 
-### Main affiliated companies (main affiliates)^[extracted]
+### Major affiliated companies (principal group) ^[extracted]
 
 ```
-The 77 Bank (solo/listed) 8341）
-  ├── Seventy-seven leases
+77 Bank (single / listed 8341)
+  ├── 77 Lease
   ├── 77 Credit Guarantee
   ├── 77 Card Co., Ltd.
   ├── 77 Securities
   ├── 77 Digital Solutions
-  ├── 77 Hoken Service
-  └── (No holding company, directly managed by the bank itself)
+  ├── 77 Insurance Service
+  └── (no holding company; directly operated by the bank itself)
 ```
 
-> Note: Please refer to the official disclosure magazine (annual) for a comprehensive lineup of affiliated subsidiaries.
+> Note: For the comprehensive lineup of group subsidiaries, refer to the official disclosure publication (annual).
 
-### Early days: From the National Bank Ordinance to joint-stock banks
+### Dawn period: from the National Bank Ordinance to a joint-stock bank
 
-| Month | Event |
+| Year/Month | Event |
 |---|---|
-| 1872 | National Bank Ordinance promulgated (establishment of national law banking system by Meiji government) |
-| **1878-12-09** | **Establishment of the 77th National Bank** (Sendai, as a samurai vocational business for the samurai tribe of the former Sendai domain)^[extracted] |
-| 1893 | Act on special disposition of national banks before maturity → Conversion to a private bank |
-| **1898** | **Renamed to 77 Bank, Ltd.** ^[extracted] |
-| 1932 | 77 Bank, Tohoku Jitsugyo Bank, Gojo Bank 3 行merged and established as 77 Bank, Ltd. ^[extracted] |
+| 1872 | National Bank Ordinance promulgated (the Meiji government's creation of a national-law banking system) |
+| **1878-12-09** | **77th National Bank established** (Sendai, as a shizoku-jusan business of former Sendai-domain samurai) ^[extracted] |
+| 1893 | Act on Special Disposition before Expiry of National Bank Business → conversion to a private bank |
+| **1898** | **Renamed The 77 Bank, Ltd.** ^[extracted] |
+| 1932 | The 3 行 of 77 Bank, Tohoku Jitsugyo Bank, and Gojo Bank merged and were newly established as The 77 Bank, Ltd. ^[extracted] |
 | **1949** | **Listed on the Tokyo Stock Exchange** ^[extracted] |
 
-### Postwar ~ Bubble period
+### Postwar〜bubble era
 
-| Month | Event |
+| Year/Month | Event |
 |---|---|
-| 1950s〜1980s | Expanded branch network throughout Miyagi Prefecture and Tohoku during the period of high economic growth |
-| 1990s | Maintaining independent policy even during the period of reorganization of the regional bank industry after the bursting of the bubble |
+| 1950s〜1980s | Expanded the branch network across Miyagi Prefecture and all of Tohoku during the high-growth period |
+| 1990s | Maintained the single path even through the regional-bank-industry restructuring period after the bubble collapse |
 
-### After the Great East Japan Earthquake (most important)
+### Since the Great East Japan Earthquake (most important)
 
-| Month | Event |
+| Year/Month | Event |
 |---|---|
-| **2011-03-11** | **Great East Japan Earthquake** ★ The area around the Sendai head office was destroyed, many coastal branches were damaged by the tsunami, and ATMs and systems were shut down. Casualties to executives, employees, and customers ^[extracted] |
-| 2011-03〜04 | Acceptance of donations and emergency loans, special measures for deposit refunds for disaster victims (no passbook or seal required)^[extracted] |
-| 2012-2015 | Revival 5 2019 intensive period: Special loan system for recovery from the Great East Japan Earthquake/Group subsidy-related loans |
-| **2022-04** | **Listed on TSE PRIME** (Revised market classification)^[extracted] |
-| 2024-05 | Medium-term management plan “Vision2030 ～A leading company that opens up the future～” announced (2024-05-10）^[extracted] |
+| **2011-03-11** | **Great East Japan Earthquake occurs** ★ Sendai head office surroundings devastated, many coastal branches damaged by the tsunami, ATMs/systems halted. Casualties among officers, staff, and customers ^[extracted] |
+| 2011-03〜04 | Acceptance of relief donations and emergency loans; special deposit-withdrawal measures for disaster victims (handling without passbook or seal) ^[extracted] |
+| 2012-2015 | Reconstruction 5 -year intensive period: Great East Japan Earthquake reconstruction special-loan scheme, group-subsidy-related loans |
+| **2022-04** | **Listed on TSE PRIME** (market-segment review) ^[extracted] |
+| 2024-05 | Announced the medium-term management plan "Vision2030  — A Leading Company that Pioneers the Future" (2024-05-10) ^[extracted] |
 
-### Geographic territory
+### Geographic base
 
-- **Main**: Entire Miyagi Prefecture (Sendai City is Tohoku's only ordinance-designated city and the core of Tohoku's economy)^[extracted]
-- **Overseas Representative Office**: Shanghai (2005-07 Established), Singapore (2016-05 establishment) 2 Base. New York and London offices 1999 Obsolete in ^[extracted]
+- **Main**: All of Miyagi Prefecture (Sendai City is the only government-ordinance-designated city in Tohoku and the core of the Tohoku economy) ^[extracted]
+- **Overseas representative offices**: Shanghai (opened 2005-07 ) and Singapore (opened 2016-05 ), 2  bases. The New York and London offices were closed by 1999  ^[extracted]
 
-### Competitive composition
+### Competitive landscape
 
-| Competition | Headquarters | Relationship |
+| Competitor | Base | Relationship |
 |---|---|---|
-| **Toho Bank** | Fukushima | Major regional banks in neighboring prefectures command overwhelming market share in Fukushima prefecture |
-| **Iwate Bank** | Morioka | Overwhelming market share in Iwate Prefecture |
-| **Yamagata Bank** | Yamagata | Overwhelming market share in Yamagata Prefecture |
-| **Akita Bank** | Akita | Overwhelming market share in Akita Prefecture |
-| **Aomori Bank** (→ [[regional-banks/proclair-hd]] Michinoku Integrated) | Aomori | 2022 Holding company integration |
-| **Jimoto Holdings** [[regional-banks/jimoto-hd]] | Sendai/Yamagata | Sendai Bank + Kirayaka Bank in Miyagi 77 Direct competition with |
-| **Mega Bank** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Tokyo | Competing with large companies and metropolitan area transactions, local small and medium-sized corporations 77 Advantage |
-| **Shinkin banks/credit unions** (Sendai Bank, Tohoku KK, etc.) | Various locations | Local small corporations/individuals |
+| **Toho Bank** | Fukushima | Major neighboring-prefecture regional bank, overwhelming share within Fukushima Prefecture |
+| **Bank of Iwate** | Morioka | Overwhelming share within Iwate Prefecture |
+| **Yamagata Bank** | Yamagata | Overwhelming share within Yamagata Prefecture |
+| **Akita Bank** | Akita | Overwhelming share within Akita Prefecture |
+| **Aomori Bank** (→ [[regional-banks/proclair-hd]] Michinoku merger) | Aomori | 2022  holding-company integration |
+| **JIMOTO Holdings** [[regional-banks/jimoto-hd]] | Sendai・Yamagata | Sendai Bank + Kirayaka Bank, directly competing with 77  within Miyagi |
+| **Megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Tokyo | Compete on large-corporate / metropolitan-area transactions; 77  holds the advantage among local SME corporates |
+| **Shinkin / credit unions** (Sendai Bank, Tohoku KK, etc.) | Various | Local micro corporates and individuals |
 
-### Issues of independent route
+### Points on the single path
 
-- **Advantages**: Speed ​​of decision-making, local affinity, cultural cohesion, franchise strength
+- **Merits**: speed of decision-making, closeness to the region, cultural cohesion, franchise strength
 
-### Scale (based on public information)
+### Sense of scale (based on public information)
 
-| Project | Scale |
+| Item | Scale |
 |---|---|
-| Total assets | 10兆4,227億円（2025-03 end)^[extracted] |
-| Deposit balance | 8兆9,608億円（2025-03 end)^[extracted] |
-| Loan balance | 6兆1,705億円（2025-03 end)^[extracted] |
-| Employees | Consolidation 2,587 名 / Single 2,385 名（2024-03 end)^[extracted] |
+| Total assets | 10兆4,227億円 (as of end-2025-03 ) ^[extracted] |
+| Deposit balance | 8兆9,608億円 (as of end-2025-03 ) ^[extracted] |
+| Loan balance | 6兆1,705億円 (as of end-2025-03 ) ^[extracted] |
+| Employees | Consolidated 2,587 名 / non-consolidated 2,385 名 (as of end-2024-03 ) ^[extracted] |
 
-> Note: The above is based on securities reports. For the latest monthly and fiscal year-end figures, please refer to the official IR (company profile/financial summary).
+> Note: The above is based on securities reports. For the latest monthly / period-end figures, refer to official IR (company overview, financial results summary).
 
-## 5. Regulations and Policies
+## 5. Regulation and policy
 
-- **Supervising**: Financial Services Agency/Tohoku Local Finance Bureau
-- **Deposit Insurance**: Member of Deposit Insurance Corporation
-- **G-SIB / D-SIB designation**: Not applicable (because it is a regional bank)
-- **Current policy issues**:
-  - 2024~ Normalization of Bank of Japan policy interest rate → Expectation of improvement in deposit and lending interest rate
-  - 2020s~ Review of store network in areas with declining population
-  - 2025~ Population maintenance measures for Sendai City and Miyagi Prefecture (location as the economic center of Tohoku) and the role of local financial institutions
+- **Supervisor**: Financial Services Agency, Tohoku Local Finance Bureau
+- **Deposit insurance**: Member of the Deposit Insurance Corporation
+- **G-SIB / D-SIB designation**: Not applicable (as a regional bank)
+- **Recent policy topics**:
+  - 2024〜 BOJ policy-rate normalization → expectation of deposit-loan interest-margin improvement
+  - 2020s〜 review of the branch network in population-declining regions
+  - 2025〜 population-retention measures for Sendai City / Miyagi Prefecture (its position as the center of the Tohoku economy) and the role of local financial institutions
 
-## 6. Branding/Culture
+## 6. Branding and culture
 
-- **Line Name Origin**: Under the National Bank Ordinance 77 3rd approved bank → number as the name (Similarly: Daisan Bank, 105th Bank, 82nd Bank, etc.)[[regional-banks/18-shinwa-bank|18-shinwa-bank]] wait)^[extracted]
-- **Abbreviation/common name**: “Shichijuushichi” “Shichishichi” “77」
-- **CSR**: Earthquake recovery, Jigen education and cultural support
+- **Origin of the bank name**: The 77 th bank licensed under the National Bank Ordinance → adopting the number directly as the trade name (similarly: Daisan Bank, Hyakugo Bank, Hachijuni Bank, [[regional-banks/18-shinwa-bank|18-shinwa-bank]], etc.) ^[extracted]
+- **Abbreviation / common name**: "Shichijushichi" / "Shichi-shichi" / "77"
+- **CSR**: earthquake reconstruction, local education and cultural support
 
 ## Related
 
 - [[regional-banks/jimoto-hd]] · [[regional-banks/proclair-hd]] · [[regional-banks/chiba-bank]] · [[regional-banks/shizuoka-fg|shizuoka-bank]] · [[regional-banks/joyo-bank|joyo-bank]] · [[regional-banks/mebuki-fg]]
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
-- [[regional-banks/18-shinwa-bank|18-shinwa-bank]](Reference for numerical bank name regional banks)
+- [[regional-banks/18-shinwa-bank|18-shinwa-bank]] (reference for number-named regional banks)
 
 ## Sources
 
-- **Wikipedia: Seventy-Seven Bank** (https://ja.wikipedia.org/wiki/ Seventy-Seven Bank, 2026-05-19 extraction. (Check total assets, deposits, loans, employees, subsidiaries, overseas bases, and institutional design)
-- Seventy Seven Bank Official Company Profile — https://www.77bank.co.jp/77bank/company/profile.html
-- 77 Bank Official Management Policy (Medium-term Management Plan Vision2030）— https://www.77bank.co.jp/77bank/company/keieihoushin.html
-- 77 Bank 2025年3月Period Final Account SMS — https://www.77bank.co.jp/pdf/77bank/2025/2025_4_fs.pdf
-- National Bank Ordinance (1872) General literature on the history of bank establishment below
+- **Wikipedia: 77 Bank** (https://ja.wikipedia.org/wiki/七十七銀行, 2026-05-19 extraction. Total assets, deposits, loans, employees, subsidiaries, overseas bases, and governance design confirmed)
+- 77 Bank official company overview — https://www.77bank.co.jp/77bank/company/profile.html
+- 77 Bank official management policy (medium-term management plan Vision2030) — https://www.77bank.co.jp/77bank/company/keieihoushin.html
+- 77 Bank 2025年3月 financial results summary — https://www.77bank.co.jp/pdf/77bank/2025/2025_4_fs.pdf
+- General literature on the history of bank establishment under the National Bank Ordinance (1872)
 
 ---
 
-> [!info] Check status
-> confidence: **likely**（v1.0 Wikipedia base 2026-05-19、2026-05-29 counting school core). Qualitative information such as history, origin of line name, earthquake response, etc. can be publicly confirmed via Wikipedia. Financial figures (total assets, deposits, loans, employees) 2025-03 Confirmed based on annual securities report, subsidiary lineup, overseas bases, institutional design, non-participation in TSUBASA (regional revitalization/revitalization network participation), medium-term management plan Vision2030 Confirmed in official IR. Next time review (2026-11-15) must be updated with the latest figures.
+> [!info] Verification status
+> confidence: **likely** (based on v1.0  Wikipedia 2026-05-19, with 2026-05-29 figure cross-checks). Qualitative information such as history, origin of the bank name, and earthquake response can be publicly confirmed via Wikipedia. Financial figures (total assets, deposits, loans, employees) are fixed based on the 2025-03  securities report; the subsidiary lineup, overseas bases, governance design, TSUBASA non-participation (participation in the Regional Revitalization and Activation Network), and medium-term management plan Vision2030  have been confirmed via official IR. Update with the latest period figures at the next review (2026-11-15).

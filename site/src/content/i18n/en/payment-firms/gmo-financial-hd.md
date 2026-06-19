@@ -1,145 +1,146 @@
 ---
 source: payment-firms/gmo-financial-hd
-source_hash: c5bd3a4a46e4ede0
+source_hash: 42f37856778f6185
 lang: en
 status: machine
 fidelity: ok
-title: "GMO Financial Holdings (GMO FHD)"
-translated_at: 2026-05-31T15:29:03.890Z
+title: "GMO フィナンシャルホールディングス (GMO FHD)"
+translated_at: 2026-06-19T06:09:18.196Z
 ---
-# GMO Financial Holdings (GMO FHD)
+# GMO フィナンシャルホールディングス (GMO FHD)
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/rakuten-fg|Rakuten financial services]] for peer and contrast context, and against [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory three-layer structure]] for the broader system and regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-GMO Financial Holdings is the intermediate holding company for the financial segment of GMO Internet Group, listed on the TSE Standard Market under code 7177. Its core is GMO CLICK Securities, an online securities and FX platform, alongside GMO Gaika, GMO CLICK Research Institute, and overseas securities bases in Thailand, Hong Kong, the United Kingdom, and other markets. Online-only distribution, low fees, and leading FX / CFD trading share are the revenue engine of GMO's financial ecosystem. As a consolidated subsidiary of GMO Internet Group, it covers the securities and FX layer of the internet-finance ecosystem beside siblings such as [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-coin|GMO Coin]], and [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]. Main competitors include [[megabanks/sbi-hd|SBI Securities]], [[payment-firms/rakuten-fg|Rakuten Securities]], [[securities-firms/monex-group|Monex]], and [[securities-firms/matsui-sec|Matsui Securities]]. ^[extracted]
+The **financial-segment intermediate holding company** of the **GMO Internet Group** (TSE STD 7177). Centered on **GMO Click Securities** (online securities / FX), it has under its umbrella **GMO Gaika** (FX specialist), **GMO Click Research Institute**, and overseas securities bases (Thailand, Hong Kong, UK, etc.). **All-online completion, low fees, and top FX/CFD industry share** are the revenue engine of the GMO financial economic zone. A **consolidated subsidiary of the parent GMO Internet Group**, it is the securities / FX layer of the "**internet financial economic zone**" alongside sister companies [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] (payment processing, TSE PRIME 3769) / [[payment-firms/gmo-coin]] (crypto assets) / [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] (corporate BaaS). Competitors are [[megabanks/sbi-hd|SBI 証券]] / [[payment-firms/rakuten-fg|楽天証券]] / [[securities-firms/monex-group|マネックス]] / [[securities-firms/matsui-sec|松井証券]]. ^[extracted]
 
-## 1. Company overview
+## 1. 会社概要
 
-**Legal name**: GMO Financial Holdings, Inc. ^[extracted]
-**Ticker**: TSE Standard 7177 ^[extracted]
-**Established**: 2005-10, through the holding-company conversion of the former GMO Internet Securities ^[extracted]
-**Head office**: Cerulean Tower, 26-1 Sakuragaokacho, Shibuya-ku, Tokyo, inside the GMO Internet Group head-office base ^[extracted]
-**Business type**: financial holding company overseeing securities, FX, and crypto-asset-related businesses
-**Parent company**: GMO Internet Group, TSE Prime 9449, consolidated subsidiary relationship ^[extracted]
+**正式名**：GMO フィナンシャルホールディングス株式会社 ^[extracted]
+**英名**：GMO Financial Holdings, Inc.
+**証券コード**：東証 STD 7177 ^[extracted]
+**設立**：2005-10（旧 GMO インターネット証券 を持株会社化）^[extracted]
+**本社**：東京都渋谷区桜丘町 26-1 セルリアンタワー（GMO インターネットグループ本社内）^[extracted]
+**業態**：金融持株会社（証券・FX・暗号資産関連事業統括）
+**親会社**：GMO インターネットグループ（東証 PRIME 9449・連結子会社化）^[extracted]
 
-### Group structure for the GMO financial segment
+### グループ構造（GMO 金融セグメント）
 
 ```
-GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
-  |-- GMO Financial Holdings (TSE Standard 7177): this entry
-  |     |-- GMO CLICK Securities: major online securities and FX platform
-  |     |-- GMO Gaika: formerly Gaika ex byGMO; renamed in 2023-07; FX specialist
-  |     |-- GMO CLICK Research Institute: investment information and research
-  |     |-- GMO Cryptonomics / [[payment-firms/gmo-coin|GMO Coin]]: crypto-asset exchange layer
-  |     |-- Overseas securities bases: Thailand, Hong Kong, the United Kingdom, and others
-  |     `-- Related holdings, including links to [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]
-  |-- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769): payment processing
-  `-- [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]: joint venture with Aozora Bank for corporate BaaS
+GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
+  └── GMO フィナンシャルホールディングス（東証 STD 7177）★ 本項目
+        ├── GMO クリック証券 ── ネット証券・FX 業界最大級
+        ├── GMO 外貨 ── 旧 外貨ex byGMO（2023-07 社名変更、FX 専業）
+        ├── GMO クリック総研 ── 投資情報・調査
+        ├── GMO Cryptonomics / [[payment-firms/gmo-coin|GMO コイン]] ── 暗号資産取引所
+        ├── 海外証券拠点 ── タイ / 香港 / 英国 等
+        └── 関連持分（[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] 等）
+  └── [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]（東証 PRIME 3769）── 決済代行
+  └── [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV（法人 BaaS）
 ```
 
-> **Four layers of the GMO financial ecosystem**: (1) securities and FX through GMO FHD, (2) payments through GMO Payment Gateway, (3) banking through GMO Aozora Net Bank, and (4) crypto assets through GMO Coin. ^[extracted]
+> **GMO 金融経済圏 4 レイヤー**：①証券・FX（GMO FHD）/ ②決済（GMO ペイメントゲートウェイ）/ ③銀行（GMO あおぞらネット銀行）/ ④暗号資産（GMO コイン）。^[extracted]
 
-## 2. Business segment map
+## 2. 事業セグメント・マップ
 
-| Segment | Main operator | Characteristics |
+| セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| Online securities and cash equities | **GMO CLICK Securities** | Very low domestic equity-commission levels, margin trading, and IPO handling |
-| **FX / CFD** | **GMO CLICK Securities** | Leading domestic FX trading volume and the group's principal profit engine |
-| FX specialist | **GMO Gaika**, formerly Gaika ex byGMO and renamed in 2023-07 | Advanced FX platform for experienced users |
-| Crypto assets | [[payment-firms/gmo-coin|GMO Coin]] | Kanto Local Finance Bureau registration No. 00006; among the older registered operators |
-| Overseas securities | Local bases in Thailand, Hong Kong, the United Kingdom, and other markets | Asian expansion and local licenses |
-| Investment information | GMO CLICK Research Institute | Research and content provision |
-| Adjacent financial services | Binary options, futures, options, and related products | Distributed mainly through GMO CLICK Securities |
+| ネット証券（現物株）| **GMO クリック証券** | 株式売買手数料 国内最低水準、信用取引・IPO 取扱 |
+| **FX / CFD** | **GMO クリック証券** | **FX 取引高 国内トップ級**、業界主力収益源 |
+| FX 専業 | **GMO 外貨**（旧 外貨ex byGMO、2023-07 社名変更）| 高機能 FX プラットフォーム、上級者向け |
+| 暗号資産 | [[payment-firms/gmo-coin|GMO コイン]] | 関東財務局長 第 00006 号（業界最古参の 1 つ）|
+| 海外証券 | タイ / 香港 / 英国 等の現地拠点 | アジア展開・現地ライセンス |
+| 投資情報 | GMO クリック総研 | 調査・コンテンツ提供 |
+| 金融周辺サービス | バイナリーオプション・先物・オプション等 | GMO クリック証券経由 |
 
-**Characteristics**: no branch network, fully online distribution, in-house systems development, low-cost operations, and sustained leading domestic share in FX / CFD trading volume. ^[extracted]
+**特徴**：店舗を持たないネット完結モデル、システム自前開発、低コスト運営、**FX/CFD の取引高で国内トップシェア**を継続的に維持。^[extracted]
 
-## 3. History
+## 3. 沿革
 
-| Date | Event |
+| 年月 | 事象 |
 |---|---|
-| 2005-10 | GMO Internet Securities converted into a holding-company structure, creating GMO FHD ^[extracted] |
-| 2006-06 | Listed on TSE Mothers ^[extracted] |
-| 2008 | Securities subsidiary reorganized as GMO CLICK Securities through integration and renaming of the former GMO Internet Securities, GMO Adcom Securities, and related entities ^[extracted] |
-| Early 2010s | Reaches leading domestic FX trading-volume position and maintains top-tier share ^[extracted] |
-| 2016-10 | Z.com Coin, later GMO Coin, established as preparation for crypto-asset business entry ^[extracted] |
-| 2017-05 | GMO Coin registered as a crypto-asset exchange operator, Kanto Local Finance Bureau No. 00006 ^[extracted] |
-| 2017-09 | Z.com Coin renamed GMO Coin ^[extracted] |
-| 2018-07 | GMO Aozora Net Bank opens after GMO acquires majority control of Aozora Trust Bank, completing the broader GMO financial ecosystem ^[extracted] |
-| 2018-01 to 2018-03 | Coincheck NEM incident triggers FSA-wide crypto-sector actions; GMO Coin also receives a business-improvement order ^[extracted] |
-| 2019 | Payment Services Act and FIEA amendments move crypto derivatives into the FIEA framework and tighten leverage rules ^[extracted] |
-| 2023-07-01 | Gaika ex byGMO renamed GMO Gaika, putting the GMO brand at the front of the FX-specialist line |
-| 2023-09-01 | FX Prime by GMO, a separate entity, is absorbed into GMO Coin and dissolved |
-| 2022-04 | TSE market-segment revision moves the company to TSE Standard, reflecting its former JASDAQ / Mothers lineage ^[extracted] |
-| 2024 onward | Official management strategy emphasizes strengthening OTC FX earnings and expanding the crypto-asset customer base and revenue; no named medium-term plan is disclosed |
+| 2005-10 | **GMO インターネット証券 を持株会社化 → GMO FHD 発足** ^[extracted] |
+| 2006-06 | **東証マザーズ 上場** ^[extracted] |
+| 2008 | **GMO クリック証券** として証券子会社化（旧 GMO インターネット証券 + GMO アドカム証券 等を統合・改称）^[extracted] |
+| 2010 年代前半 | **FX 取引高 国内トップ** に到達、業界シェア首位を継続的に維持 ^[extracted] |
+| 2016-10 | **株式会社 Z.com Coin**（後の GMO コイン）設立 → 暗号資産事業参入準備 ^[extracted] |
+| 2017-05 | **GMO コイン 暗号資産交換業者登録**（関東財務局長 第 00006 号）^[extracted] |
+| 2017-09 | Z.com Coin → **GMO コイン** に商号変更 ^[extracted] |
+| 2018-07 | **GMO あおぞらネット銀行** 開業（あおぞら信託銀行を GMO が過半数取得）^[extracted]、GMO 金融経済圏完成 |
+| 2018-01〜2018-03 | Coincheck NEM 流出事件 → 金融庁 暗号資産業界一斉処分 → GMO コインも業務改善命令 ^[extracted] |
+| 2019 | **資金決済法改正・金商法改正**（暗号資産デリバ → 金商法、レバ規制強化）^[extracted] |
+| 2023-07-01 | **外貨ex byGMO → GMO 外貨** に社名変更（FX 専業ブランドの「GMO」前面化）|
+| 2023-09-01 | **FXプライム by GMO（別法人）→ GMO コインを存続会社として吸収合併し消滅** |
+| 2022-04 | **東証市場区分見直し → 東証 STD**（旧 JASDAQ・東証マザーズ系の流れ）^[extracted] |
+| 2024〜 | **公式経営戦略**：店頭 FX の収益力強化（収益の柱）+ 暗号資産事業の顧客基盤・収益拡大の二本柱（IR「経営方針・戦略」、名称付き中期経営計画は非開示）|
 
-### Core of the GMO financial ecosystem
+### GMO 金融経済圏の中核
 
-- **Securities and FX as revenue engine**: GMO CLICK Securities maintains top-tier domestic FX trading volume and very low equity-commission levels while expanding the customer base. ^[extracted]
-- **Online-only low-cost model**: no physical branch network; onboarding, KYC, and trading are fully online, in the same broad online-broker model as Rakuten Securities and SBI Securities.
+- **証券・FX が収益エンジン**：GMO クリック証券の FX 取引高は国内トップ級、株式売買手数料も最低水準を維持して顧客基盤を拡大 ^[extracted]
+- **ネット完結・低コスト運営**：実店舗なし、KYC からトレードまで完全オンライン → 楽天証券・SBI 証券と同じネット証券モデル
 
-### Competitive position
+### 競合ポジション
 
-| Competitor | Parent company / characteristics | Strength |
+| 競合 | 親会社・特徴 | 強み |
 |---|---|---|
-| [[megabanks/sbi-hd|SBI Securities]] | [[megabanks/sbi-hd|SBI HD]] | Largest domestic account base, new NISA emphasis, and direct competition with Rakuten |
-| [[payment-firms/rakuten-fg|Rakuten Securities]] | [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten economic zone, points, and Rakuten Bank account linkage |
-| [[securities-firms/monex-group|Monex]] | [[securities-firms/monex-group|Monex Group]] | Coincheck subsidiary and strong U.S. equity offering |
-| [[securities-firms/matsui-sec|Matsui Securities]] | Independent | Long-established operator with fixed daily-fee and margin-trading customer base |
-| Mitsubishi UFJ eSmart Securities, formerly au Kabucom | [[megabanks/mufg]] | MUFG ecosystem linkage |
-| **GMO CLICK Securities, this entry** | GMO | Leading domestic FX trading volume and low-fee model |
+| [[megabanks/sbi-hd|SBI 証券]] | [[megabanks/sbi-hd|SBI HD]] | 口座数国内首位・新 NISA 強化・楽天競合 |
+| [[payment-firms/rakuten-fg|楽天証券]] | [[payment-firms/rakuten-fg|楽天 FG]] | 楽天経済圏（ポイント・楽天銀行口座連動）|
+| [[securities-firms/monex-group|マネックス]] | [[securities-firms/monex-group|マネックスグループ]] | Coincheck 子会社（暗号資産）・米国株強み |
+| [[securities-firms/matsui-sec|松井証券]] | 独立系 | 老舗・1 日定額制・信用取引で根強い顧客 |
+| 三菱 UFJ eスマート証券（旧 auカブドットコム）| [[megabanks/mufg]] | MUFG エコシステム連動 |
+| **GMO クリック証券（本項目）** | GMO | **FX 取引高 国内トップ・低手数料モデル** |
 
-**GMO FHD differentiation**: (1) leading FX / CFD share through GMO CLICK Securities, (2) integration across the GMO financial ecosystem of securities, FX, crypto assets, banking, and payments, (3) online-only low-cost structure, and (4) a rare position adjacent to both crypto assets through GMO Coin and banking through GMO Aozora Net Bank.
+**GMO FHD の差別化**：①**FX/CFD 業界トップシェア**（GMO クリック証券）、②GMO 金融エコシステム連携（証券 + FX + 暗号資産 + 銀行 + ペイメント）、③ネット完結・低コスト構造、④暗号資産（GMO コイン）と銀行（GMO あおぞらネット銀行）を内包する稀少なポジション。
 
-### Overseas strategy
+### 海外戦略
 
-- **Asia and overseas bases**: local securities bases operate in Thailand, Hong Kong, the United Kingdom, and other markets. ^[extracted]
+- **アジア拠点**：タイ・香港・英国等の現地証券拠点を展開 ^[extracted]
 
-### Crypto-asset business
+### 暗号資産事業
 
-- **GMO Coin**, Kanto Local Finance Bureau No. 00006, forms the crypto-asset layer of the GMO financial ecosystem.
-- The group has also had a U.S. subsidiary, GMO Trust, associated with GYEN / ZUSD stablecoin issuance history. ^[extracted]
-- Official IR strategy materials identify expansion of the crypto-asset customer base and revenue as a priority business. FY2024 media reporting via Logmi cited crypto-asset revenue of JPY 7.5 billion, up 124.6% year on year. The official strategy uses "crypto-asset business" wording and does not explicitly state a Web3 priority. The competitive set includes [[megabanks/sbi-hd|SBI VC Trade]], [[payment-firms/bitflyer|bitFlyer]], and [[securities-firms/monex-group|Coincheck]].
+- **GMO コイン**（関東財務局長 第 00006 号）が GMO 金融経済圏の暗号資産レイヤー
+- 米国子会社 **GMO トラスト**（GYEN / ZUSD 等ステーブルコイン発行歴）も保有 ^[extracted]
+- 公式 IR「経営方針・戦略」で**暗号資産事業の顧客基盤・収益拡大を重点事業の一つ**に位置付け（暗号資産収益 75 億円・前期比 +124.6%、FY2024 ログミー報道ベース）。なお公式戦略上は「暗号資産事業」表記で、「Web3」の明示的注力は非記載。競合 [[megabanks/sbi-hd|SBI VC Trade]] / [[payment-firms/bitflyer]] / [[securities-firms/monex-group|Coincheck]] と棲み分け
 
-## 5. Regulation and policy
+## 5. 規制・政策
 
-- **Supervisors**: Financial Services Agency and Kanto Local Finance Bureau.
-- **GMO CLICK Securities**: Type I financial instruments business operator.
-- **GMO Gaika**: Type I financial instruments business operator focused on FX.
-- **GMO Coin**: crypto-asset exchange service provider under Article 63-2 of the Payment Services Act; Kanto Local Finance Bureau No. 00006.
-- **Industry bodies**: Japan Securities Dealers Association, Financial Futures Association of Japan, and JVCEA through GMO Coin.
+- **主管**：金融庁（FSA）/ 関東財務局
+- **GMO クリック証券**：第一種金融商品取引業（証券会社）
+- **GMO 外貨**：第一種金融商品取引業（FX 専業）
+- **GMO コイン**：暗号資産交換業（資金決済法 第 63 条の 2）/ 関東財務局長 第 00006 号
+- **業界団体**：日本証券業協会（JSDA）/ 金融先物取引業協会（FFAJ）/ JVCEA（GMO コイン経由）
 
 ## 6. Open questions
 
-- What are the detailed numerical targets for revenue, operating profit, and crypto-asset business mix in official strategy materials?
-- What are the latest FX trading-volume share and account-count figures for GMO CLICK Securities?
-- What is the continuing business status of U.S. subsidiary GMO Trust and its GYEN / ZUSD stablecoin history?
-- Is there any parent-company scenario for reorganizing GMO Internet Group's financial segment, such as moving GMO Aozora Net Bank under GMO FHD?
-- Is a TSE Standard to Prime transfer scenario realistic?
-- What are the concrete new NISA customer-acquisition tactics against Rakuten and SBI?
+- 公式経営戦略の数値目標（売上・営業利益・暗号資産比率）の詳細は？
+- GMO クリック証券の FX 取引高シェア・口座数の最新数値は？
+- 米国子会社 GMO トラスト（GYEN / ZUSD）の事業継続性・国内事業統合シナリオは？
+- 親会社 GMO インターネットグループの金融セグメント再編シナリオ（GMO あおぞらネット銀行を GMO FHD 傘下に移管 等）はあるか？
+- 東証 STD → PRIME 鞍替えシナリオは？
+- 新 NISA 対応・楽天 / SBI に対する顧客獲得戦略の具体は？
 
 ## 7. Related
 
-- **GMO financial ecosystem**: [[payment-firms/gmo-payment-gateway]] · [[payment-firms/gmo-coin]] · [[payment-firms/gmo-aozora-net]]
-- **Competing online brokers**: [[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[securities-firms/matsui-sec]]
-- **Major securities groups**: [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
-- **Megabank financial groups through securities subsidiaries**: [[megabanks/mufg]] for Mitsubishi UFJ Morgan Stanley Securities and Mitsubishi UFJ eSmart Securities; [[megabanks/smfg]] for SMBC Nikko Securities; [[megabanks/mizuho-fg]] for Mizuho Securities
-- **Adjacent fintech**: [[megabanks/paypay-fg]] · [[payment-firms/money-forward]] · [[payment-firms/freee]]
+- **GMO 金融経済圏**：[[payment-firms/gmo-payment-gateway]] · [[payment-firms/gmo-coin]] · [[payment-firms/gmo-aozora-net]]
+- **競合ネット証券**：[[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[securities-firms/matsui-sec]]
+- **大手証券**：[[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- **メガ FG（証券子会社経由）**：[[megabanks/mufg]]（三菱 UFJ モルガン・スタンレー証券・三菱 UFJ eスマート証券）· [[megabanks/smfg]]（SMBC 日興証券）· [[megabanks/mizuho-fg]]（みずほ証券）
+- **関連 fintech**：[[megabanks/paypay-fg]] · [[payment-firms/money-forward]] · [[payment-firms/freee]]
 
 ## Sources
 
-- Wikipedia: GMO Financial Holdings, https://ja.wikipedia.org/wiki/GMO%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9, extracted 2026-05-19.
-- GMO Financial Holdings official IR, TSE Standard 7177, referenced 2026-05-19.
-- GMO Internet Group annual securities report, consolidated-subsidiary information.
-- GMO CLICK Securities official site, referenced 2026-05-19.
-- GMO Internet Group announcement confirming that Gaika ex byGMO changed its trade name to GMO Gaika on 2023-07-01: https://group.gmo/news/article/8418/
-- Wikipedia: FX Prime by GMO, confirming that FX Prime by GMO was a separate entity absorbed into GMO Coin on 2023-09-01 and dissolved, distinct from GMO Gaika: https://ja.wikipedia.org/wiki/FX%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0byGMO
-- GMO Financial Holdings official IR, management policy and strategy, confirming the two pillars of OTC FX earnings strength and crypto-asset business expansion; no named medium-term management plan or explicit Web3 priority is disclosed: https://www.gmofh.com/ir/policy/strategy.html
+- **Wikipedia: GMO フィナンシャルホールディングス**（https://ja.wikipedia.org/wiki/GMOフィナンシャルホールディングス, 2026-05-19 抽出）
+- **GMO フィナンシャルホールディングス 公式 IR**（東証 STD 7177, 2026-05-19 参照）
+- **GMO インターネットグループ 有価証券報告書**（連結子会社情報）
+- **GMO クリック証券 公式サイト**（2026-05-19 参照）
+- **GMO インターネットグループ「外貨ex byGMO株式会社、2023年7月1日より『GMO外貨株式会社』に社名変更」**（GMO外貨の前身=外貨ex byGMO、改称日 2023-07-01 を確認）https://group.gmo/news/article/8418/
+- **Wikipedia: FXプライムbyGMO**（FXプライムbyGMO は別法人で 2023-09-01 に GMO コインへ吸収合併・消滅と確認。GMO外貨とは別系統）https://ja.wikipedia.org/wiki/FXプライムbyGMO
+- **GMO フィナンシャルホールディングス 公式 IR「経営方針・戦略」**（店頭 FX 収益強化 + 暗号資産事業拡大の二本柱、名称付き中期経営計画は非開示・Web3 明示記載なしを確認）https://www.gmofh.com/ir/policy/strategy.html
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. This entry uses only public information from Wikipedia, official IR, and GMO Internet Group annual securities reports, rechecked on 2026-05-29. Quantitative data such as FX trading-volume share, account count, revenue, and operating profit can change by period and should be rechecked against GMO FHD quarterly IR materials. Market segment, subsidiary structure, and parent-subsidiary relationships are established from public information. **2026-05-29 correction**: the prior statement that "FX Prime by GMO was renamed GMO Gaika" was incorrect. GMO Gaika's predecessor was Gaika ex byGMO, renamed on 2023-07-01; FX Prime by GMO was a separate entity absorbed into GMO Coin and dissolved on 2023-09-01. The prior statement that a 2024 medium-term plan explicitly strengthened Web3 was also corrected because official strategy materials disclose no named medium-term plan and no explicit Web3 priority. Details on overseas securities bases and GMO Trust's U.S. stablecoin business status require separate confirmation.
+> confidence: **likely** (public information only, on a Wikipedia + official-IR + parent-GMO-securities-report basis, re-verified 2026-05-29). Quantitative data such as FX trading-volume share, account numbers, sales, and operating profit are time-variable; for the latest, refer to GMO FHD IR quarterly materials. The market segment (TSE STD), subsidiary structure, and parent-subsidiary relationship are fixed on a public-information basis. **2026-05-29 correction**: the old statement "FX Prime by GMO → renamed to GMO Gaika" is incorrect; the predecessor of GMO Gaika is **Gaika ex byGMO (2023-07-01 name change)**, and FX Prime by GMO is a separate legal entity that was **absorbed into GMO Coin and ceased to exist on 2023-09-01**. The "2024 medium-term management plan / explicit Web3  strengthening" is also corrected, because on the official strategy a named medium-term plan is undisclosed and there is no explicit Web3  mention. The details of overseas securities bases and the business status of GMO Trust (US, stablecoins) require separate confirmation.

@@ -1,13 +1,14 @@
 ---
 source: non-life-insurers/tokio-marine
-source_hash: 52fb10d2c1579f5e
+source_hash: de38b359d2e24421
 lang: en
 status: machine
 fidelity: ok
-title: "Tokio Marine Holdings"
-translated_at: 2026-06-01T02:31:57.178Z
+title: "Tokio Marine Holdings (東京海上ホールディングス)"
+translated_at: 2026-06-19T06:09:18.163Z
 ---
-# Tokio Marine Holdings
+
+# Tokio Marine Holdings (東京海上ホールディングス)
 
 ## Wiki route
 
@@ -15,154 +16,154 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Tokio Marine is the leading **3  mega non-life insurer** in Japan by market capitalization among Tokio Marine / [[non-life-insurers/msad|ms-ad]] / [[non-life-insurers/sompo|sompo-hd]], at No. 1. It traces back to Tokio Marine Insurance Company, **Japan's first non-life insurance company**, founded in 1879 年. It established Millea Holdings in 2002-04  and changed its name to Tokio Marine HD in 2008-07 . Its 3  axes are **domestic non-life insurance (Tokio Marine & Nichido), domestic life insurance (Anshin Life), and overseas operations (4  major U.S. platforms: Philadelphia / Delphi / HCC / Pure)**. Overseas profit share exceeds 50% on a net-income basis, giving it the No. 1  overseas presence in the non-life sector. TSE PRIME 8766.
+The **head of the 3  domestic non-life megagroups** (No.1 by market cap among Tokio Marine / [[non-life-insurers/msad|ms-ad]] / [[non-life-insurers/sompo|sompo-hd]]). Originating from Tokio Marine Insurance Co., **Japan's first non-life insurance company**, founded in 1879 年, it established Millea Holdings in 2002-04  → renamed to Tokio Marine HD in 2008-07 . It runs on a 3 -axis of **domestic non-life (Tokio Marine & Nichido) + domestic life (Anshin Life) + overseas (the 4  major U.S. platforms: Philadelphia / Delphi / HCC / Pure)**. With an **overseas ratio of over 50% on a net-income basis**, it has the No.1  overseas presence in the non-life industry. TSE PRIME 8766.
 
 ## 1. Company overview
 
-**Formal name**: Tokio Marine Holdings, Inc.
+**Legal name**: Tokio Marine Holdings, Inc.
 **English name**: Tokio Marine Holdings, Inc.
 **Securities code**: TSE PRIME **8766**
-**Established**: 2002-04-02 as Millea Holdings, Inc.
+**Established**: 2002-04-02 (as Millea Holdings, Inc.)
 **Renamed**: 2008-07-01 → Tokio Marine Holdings, Inc.
-**Head office**: Marunouchi 1-2-1, Chiyoda-ku, Tokyo (Tokio Marine & Nichido Building)
-**Business type**: Insurance holding company (non-life, life, reinsurance)
+**Headquarters**: 1-2-1 Marunouchi, Chiyoda-ku, Tokyo (Tokio Marine & Nichido Building)
+**Business type**: Insurance holding company (non-life / life / reinsurance)
 
-### Main subsidiaries and group companies
+### Major subsidiaries & group companies
 
 ```
-Tokio Marine HD (holding company, listed 8766)
-  ├── Tokio Marine & Nichido Fire Insurance (100%)── domestic non-life core
-  │     ├── Tokio Marine Millea SAST Insurance
-  │     └── Tokio Marine & Nichido Career Service, etc.
-  ├── Tokio Marine & Nichido Life Insurance (Anshin Life, 100%)── domestic life insurance
-  ├── Tokio Marine & Nichido Fire Insurance (reinsurance)
+东京海上 HD(持株会社・上市 8766)
+  ├── 东京海上日动火灾保险(100%)── 国内损保核心
+  │     ├── 东京海上 Millea 少额短期保险
+  │     └── 东京海上日动 Career Service 等
+  ├── 东京海上日动安心生命保险(100%)── 国内生保
+  ├── 东京海上日动火灾保险(再保险)
   │
-  ├── [United States] Tokio Marine North America (TMNA, 100%)── Americas headquarters
-  │     ├── Philadelphia Consolidated Holding (PHLY, acquired in 2008-12  for about 4900 億円)
-  │     ├── Delphi Financial Group (acquired in 2012-05  for about 2600 億円)── disability insurance / group insurance
-  │     ├── HCC Insurance Holdings (acquired in 2015-10  for about 9400 億円)── specialty
-  │     └── Pure Group (acquired in 2020-02  for about 3300 億円)── high-net-worth P&C
-  ├── [UK / Europe] Tokio Marine Kiln (Lloyd's syndicate)
-  ├── [Asia] Tokio Marine Asia / Tokio Marine Insurance Singapore, etc.
-  │     └── Thailand: Anshin Credit Guarantee (Toyota-related), etc.
-  ├── [Emerging markets] Tokio Marine Newa (Taiwan) / Tokio Marine Aviva, etc.
-  └── Tokio Marine Asset Management / Tokio Marine Millea Finance, etc.
+  ├── 【美国】Tokio Marine North America (TMNA, 100%)── 美洲统括
+  │     ├── Philadelphia Consolidated Holding(PHLY, 2008-12 约 4900 億円收购)
+  │     ├── Delphi Financial Group(2012-05 约 2600 億円收购)── 伤残保险 / 团体保险
+  │     ├── HCC Insurance Holdings(2015-10 约 9400 億円收购)── 专门险种
+  │     └── Pure Group(2020-02 约 3300 億円收购)── 面向富裕层 P&C
+  ├── 【英国・欧洲】Tokio Marine Kiln(Lloyd's 辛迪加)
+  ├── 【亚洲】Tokio Marine Asia / Tokio Marine Insurance Singapore 等
+  │     └── 泰国:安信信用保证(丰田系)其他
+  ├── 【新兴国】Tokio Marine Newa(台湾)/ Tokio Marine Aviva 其他
+  └── 东京海上资产管理 / 东京海上 Millea Finance 其他
 ```
 
-### Merger history / predecessors
+### Merger history & predecessors
 
-- **1879-08** Tokio Marine Insurance Company founded (**Japan's first non-life insurer**, with founders including Yanosuke Iwasaki and Eiichi Shibusawa)
-- **1944-03** Name changed to Tokio Marine and Fire Insurance
-- **1996-09** Business alliance between Tokio Marine and Nichido Fire
-- **2001-04** Management integration announced between Tokio Marine and Fire and Nichido Fire
-- **2002-04-02** **Millea Holdings** established as the joint holding company of Tokio Marine and Nichido
-- **2004-10-01** Tokio Marine and Fire + Nichido Fire merged to form **Tokio Marine & Nichido Fire Insurance**
-- **2008-07-01** Millea HD renamed **Tokio Marine Holdings** for brand unification
-- **2008-12** Philadelphia Consolidated acquired
-- **2012-05** Delphi Financial Group acquired
-- **2015-10** HCC Insurance Holdings acquired
-- **2020-02** Pure Group acquired
+- **1879-08** Tokio Marine Insurance Co. founded (**Japan's first non-life insurance company**, with Yanosuke Iwasaki, Eiichi Shibusawa, and others as promoters)
+- **1944-03** Tokio Marine & Fire Insurance (company-name change)
+- **1996-09** Tokio Marine + Nichido Fire business alliance
+- **2001-04** Tokio Marine & Fire + Nichido Fire announce management integration
+- **2002-04-02** **Millea Holdings** established (joint holding company of Tokio Marine + Nichido)
+- **2004-10-01** Tokio Marine & Fire + Nichido Fire → **Tokio Marine & Nichido Fire Insurance** merger launched
+- **2008-07-01** Millea HD → renamed to **Tokio Marine Holdings** (brand unification)
+- **2008-12** Acquisition of Philadelphia Consolidated
+- **2012-05** Acquisition of Delphi Financial Group
+- **2015-10** Acquisition of HCC Insurance Holdings
+- **2020-02** Acquisition of Pure Group
 
-### Important timeline (excerpt)
+### Key timeline (excerpt)
 
-| Year / month | Event |
+| Year/month | Event |
 |---|---|
-| 1879-08 | Tokio Marine Insurance Company founded (Japan's first non-life insurer) |
-| 1944-03 | Name changed to Tokio Marine and Fire Insurance |
-| 2001 | Tokio Marine and Fire + Nichido Fire announced management integration |
+| 1879-08 | Tokio Marine Insurance Co. founded (Japan's first non-life insurer) |
+| 1944-03 | Tokio Marine & Fire Insurance company-name change |
+| 2001 | Tokio Marine & Fire + Nichido Fire announce management integration |
 | **2002-04-02** | **Millea Holdings established** |
-| 2004-10-01 | Tokio Marine & Nichido Fire Insurance launched through merger |
-| **2008-07-01** | **Renamed Tokio Marine HD** (Millea brand discontinued) |
-| **2008-12** | **Philadelphia Consolidated acquired** (about 4900 億円)|
-| 2012-05 | Delphi Financial Group acquired (about 2600 億円) |
-| **2015-10** | **HCC Insurance Holdings acquired** (about 9400 億円, one of the largest overseas M&A deals in the Japanese non-life sector at the time) |
-| 2020-02 | Pure Group acquired (about 3300 億円) |
+| 2004-10-01 | Tokio Marine & Nichido Fire Insurance merger launched |
+| **2008-07-01** | **Renamed to Tokio Marine HD** (Millea brand abolished) |
+| **2008-12** | **Acquisition of Philadelphia Consolidated** (approx. 4900 億円) |
+| 2012-05 | Acquisition of Delphi Financial Group (approx. 2600 億円) |
+| **2015-10** | **Acquisition of HCC Insurance Holdings** (approx. 9400 億円, among the largest overseas M&A in the non-life industry at the time) |
+| 2020-02 | Acquisition of Pure Group (approx. 3300 億円) |
 | 2024 | New medium-term management plan announced |
-| **2025-03** | **FY2024  results**: ordinary income 5.31 兆円 / net income 1.06 兆円 |
+| **2025-03** | **FY2024  results** ordinary revenue 5.31 兆円 / net income 1.06 兆円 |
 
-### Consolidated performance (FY2024  = 2025-03  period, checked)
+### Consolidated results (FY2024  = 2025-03  period, confirmed)
 
-| Item | FY2024  results |
+| Item | FY2024  actual |
 |---|---|
-| **Ordinary income** (net premiums written basis) | **About 5.31 兆円** (5 兆 3,051 億円) |
-| **Ordinary profit** | About 1.46 兆円 (1 兆 4,600 億円) |
-| **Net income** (attributable to owners of parent) | **About 1.06 兆円** (1 兆 552 億円) |
-| **Total assets** | **About 31.2 兆円** (31 兆 2,373 億円) |
-| **Net assets** (shareholders' equity) | About 5.10 兆円 (5 兆 1,035 億円) |
+| **Ordinary revenue** (net premiums written basis) | **Approx. 5.31 兆円** (5 兆 3,051 億円) |
+| **Ordinary profit** | Approx. 1.46 兆円 (1 兆 4,600 億円) |
+| **Net income** (attributable to owners of the parent) | **Approx. 1.06 兆円** (1 兆 552 億円) |
+| **Total assets** | **Approx. 31.2 兆円** (31 兆 2,373 億円) |
+| **Net assets** (shareholders' equity) | Approx. 5.10 兆円 (5 兆 1,035 億円) |
 | Employees (consolidated) | **51,436 名** |
-| Largest shareholder | The Master Trust Bank of Japan, Ltd. (trust account), **17.11%** |
-| Overseas share (net-income basis) | **Over 50%** (Americas-centered) |
+| Largest shareholder | The Master Trust Bank of Japan (trust account) **17.11%** |
+| Overseas ratio (net-income basis) | **Over 50%** (centered on the Americas) |
 
-> Sources: Wikipedia "Tokio Marine Holdings" (extracted 2026-05-19) + Tokio Marine HD official IR. FY2024  = 2025 年 3 月 period, consolidated basis.
+> Source: Wikipedia "Tokio Marine Holdings" (2026-05-19 extraction) + Tokio Marine HD official IR. FY2024  = 2025 年 3 月 period, consolidated basis.
 
 ## 2. Business segment map
 
-| Segment | Main business | Features |
+| Segment | Main operators | Features |
 |---|---|---|
-| Domestic non-life insurance | Tokio Marine & Nichido Fire Insurance | Leading domestic 3  mega non-life insurer; auto / fire / marine / liability |
-| Domestic life insurance | Tokio Marine & Nichido Life Insurance | Strength in third-sector medical / cancer insurance |
-| U.S. specialty | HCC Insurance | Medical malpractice / D&O / credit guarantee, etc. |
-| U.S. commercial | Philadelphia Consolidated (PHLY) | P&C for mid-sized businesses |
+| Domestic non-life | Tokio Marine & Nichido Fire Insurance | Head of the 3  domestic non-life megagroups; automobile / fire / marine / liability |
+| Domestic life | Tokio Marine & Nichido Anshin Life | Strength in the third sector (medical, cancer) |
+| U.S. specialty | HCC Insurance | Medical malpractice / D&O liability / credit guarantee, etc. |
+| U.S. commercial | Philadelphia Consolidated (PHLY) | P&C for mid-sized enterprises |
 | U.S. disability / group | Delphi Financial | Disability insurance / group life |
-| U.S. high-net-worth | Pure Group | High Net Worth P&C (homes, fine art, jewelry) |
+| U.S. high-net-worth | Pure Group | High Net Worth P&C (residential, art, jewelry) |
 | Europe | Tokio Marine Kiln | Lloyd's of London syndicate |
 | Asia / emerging markets | Tokio Marine Asia, etc. | Thailand, Singapore, Malaysia, Taiwan, Brazil, etc. |
-| Reinsurance | Tokio Millennium Re (sold to 2019 RenaissanceRe) | - |
-| Asset management | Tokio Marine Asset Management | Institutional investors / investment trusts |
+| Reinsurance | Tokio Millennium Re (2019  sold to RenaissanceRe) | - |
+| Asset | Tokio Marine Asset Management | Institutional investors / investment trusts |
 
-### Growth strategy led by overseas M&A
+### Overseas-M&A-led growth strategy
 
-- **Built "4  major U.S. platforms"** (Philadelphia / Delphi / HCC / Pure):
-  - Niche optimization in 4  U.S. market areas: mid-market P&C (Philadelphia), disability (Delphi), specialty (HCC), and high-net-worth P&C (Pure)
-  - Over the 12  years from 2008 to 2020 , cumulative acquisitions exceeded about 2 兆円
-- **Overseas ratio over 50%** (net-income basis): domestic No. 1  overseas ratio among non-life insurers, higher than [[non-life-insurers/msad|ms-ad]] / [[non-life-insurers/sompo|sompo-hd]]
-- **Earnings diversification**: disperses domestic natural-catastrophe concentration risk across the United States, Europe, and Asia
+- **Building the "4  major U.S. platforms"** (Philadelphia / Delphi / HCC / Pure):
+  - Niche optimization for the U.S. market across the 4  domains of mid-sized P&C (Philadelphia), disability (Delphi), specialty (HCC), and high-net-worth P&C (Pure)
+  - **Cumulative acquisition amount of over approx. 2 兆円** over the 12  years from 2008 to 2020 
+- **Overseas ratio of over 50%** (net-income basis): the No.1  overseas ratio domestically in the non-life industry, higher than [[non-life-insurers/msad|ms-ad]] / [[non-life-insurers/sompo|sompo-hd]]
+- **Earnings-diversification effect**: diversifying domestic natural-disaster concentration risk across the U.S., Europe, and Asia
 
 ### Domestic strategy
 
-- **Tokio Marine & Nichido**: top-tier domestic auto insurance share; strength in corporate insurance including marine, fire, and liability
-- **Anshin Life**: focuses on third-sector medical / cancer insurance and uses bancassurance channels
-- **Agency network**: about 5 万 agencies nationwide, including regional banks, auto dealers, and travel agencies
+- **Tokio Marine & Nichido**: top-tier domestic automobile-insurance share, strength in corporate insurance (marine, fire, liability)
+- **Anshin Life**: focus on the third sector (medical, cancer), leveraging the bank over-the-counter sales channel
+- **Agency network**: approx. 5 万 stores nationwide; regional banks / automobile dealers / travel agencies, etc.
 
 ### ESG / climate change
 
-- **Industry ESG leader**: major TCFD / NZIA participant
-- **Natural-catastrophe risk response**: advanced reinsurance schemes for typhoons, torrential rain, and earthquakes
-- **2050  net-zero** commitment across both own operations and underwriting portfolio
-- Early response to **biodiversity / TNFD**
+- **Industry ESG leader**: a key member of TCFD / NZIA
+- **Natural-disaster risk response**: advancing reinsurance schemes for typhoons / torrential rain / earthquakes
+- **2050  net zero** commitment (both own operations and underwriting portfolio)
+- **Biodiversity / TNFD** early response
 
 ### Digital / innovation
 
-- **InsurTech investment**: corporate venture investments in U.S. and UK InsurTech
-- **AI claims assessment**: AI use in auto-insurance accident assessment
-- **Data business**: corporate risk advisory using insurance data
+- **InsurTech investment**: corporate-venture investment in U.S. and UK InsurTech
+- **AI assessment**: AI utilization in automobile-insurance accident assessment
+- **Data business**: corporate risk advisory leveraging insurance data
 
-## 4. Regulation / policy
+## 4. Regulation & policy
 
-- **Primary regulator**: Financial Services Agency (FSA)
-- **Insurance Business Act**: Article 271 -18  and related insurance holding-company regulation
-- **Overseas regulation**: NAIC / state insurance regulators (U.S.), PRA / FCA (UK), MAS (Singapore), OIC (Thailand), etc.
-- **IFRS 17**: response to international insurance accounting standards from 2023 onward
+- **Supervisor**: Financial Services Agency (FSA)
+- **Insurance Business Act**: Article 271 -18 , etc. (insurance-holding-company regulation)
+- **Overseas regulation**: NAIC / state insurance commissioners (U.S.), PRA / FCA (UK), MAS (Singapore), OIC (Thailand), etc.
+- **IFRS 17**: response to the international insurance-accounting standard from 2023
 - **Recent policy issues**:
-  - 2023 onward: **Bigmotor fraudulent claims issue** made agency governance and alleged non-life insurance cartels a live issue across the sector, including reports involving Tokio Marine & Nichido; investigations by FSA and JFTC
-  - 2024 onward: **pressure to reduce strategic shareholdings**; FSA strongly urged the 3  mega non-life insurers to unwind strategic equity cross-shareholdings with corporate clients
-  - 2024 onward: **suspected cartel in corporate fire insurance**; JFTC on-site inspections over alleged premium coordination for large properties
+  - From 2023 — **the Big Motor fraudulent-claims problem**: in the non-life industry (with related reporting on Tokio Marine & Nichido as well), agency governance and non-life-cartel suspicions became issues, with FSA and JFTC investigations
+  - From 2024 — **pressure to reduce policy-holding stocks**: the FSA strongly requested the 3  non-life megagroups to unwind policy-holding stocks (cross-shareholdings in corporations)
+  - From 2024 — **corporate fire-insurance cartel suspicions**: JFTC on-site inspections over suspicions of premium coordination on large-scale properties
 
 ## Related
 
-- [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] -- domestic 3  mega non-life insurers
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- bank FGs (a different category from non-life insurance, but linked and competitive in corporate finance)
+- [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] ── the 3  domestic non-life megagroups
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── bank-affiliated FGs (a separate category from non-life, but cooperating / competing in corporate finance)
 - [[non-life-insurers/INDEX]]
 
 ## Sources
 
-- **Wikipedia: Tokio Marine Holdings** (https://ja.wikipedia.org/wiki/東京海上ホールディングス, extracted 2026-05-19)
-- **Wikipedia: Tokio Marine & Nichido Fire Insurance** (history and merger background)
-- **Wikipedia: Millea Holdings** (old corporate-name period 2002-2008 )
-- Tokio Marine Holdings official IR (history and organization chart pages)
-- Acquisition cases based on contemporaneous official press releases and public reporting
+- **Wikipedia: Tokio Marine Holdings** (https://ja.wikipedia.org/wiki/東京海上ホールディングス, 2026-05-19 extraction)
+- **Wikipedia: Tokio Marine & Nichido Fire Insurance** (history, merger background)
+- **Wikipedia: Millea Holdings** (the former-corporate-name period of 2002-2008 )
+- Tokio Marine Holdings official IR (history, organization-chart pages)
+- Each acquisition is based on press releases published at the time and on reporting
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (Wikipedia + official IR history basis 2026-05-19). Acquisition amounts are yen-converted values from announcement time and may vary slightly by exchange rate or final amount. Latest consolidated results and regional net-income ratios should be checked against **Tokio Marine HD integrated reports / earnings releases**. The Bigmotor-related sanctions and non-life cartel allegations remain dynamic issues under continuing investigation.
+> confidence: **likely** (based on Wikipedia + official IR history 2026-05-19). Acquisition amounts are yen-converted values at the time of announcement, with slight ranges depending on FX and final-determined amounts. For the latest consolidated results and regional net-income ratios, refer to the **Tokio Marine HD integrated report / financial results summary**. The Big Motor-related sanctions and non-life-cartel suspicions are dynamic issues under ongoing investigation.

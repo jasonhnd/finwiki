@@ -1,21 +1,21 @@
 ---
-source: governance/japan-general-foundation-establishment-requirements
-source_hash: b681212e12d801c2
+source: non-profit/japan-general-foundation-establishment-requirements
+source_hash: ddb647e6561b38b6
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 一般財団法人 設立要件・プロセス"
-translated_at: 2026-06-02T14:01:20.963Z
+translated_at: 2026-06-19T13:31:34.045Z
 ---
 
 # 日本 一般財団法人 設立要件・プロセス
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]] 配下に位置づけ、[[INDEX|FinWiki index]] とあわせて読む。
+This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]] and should be read with [[INDEX|FinWiki index]].
 
-> [!info] 要約
+> [!info] TL;DR
 > 「公益財団法人」「NPO 法人」と混同されやすいが、**一般財団法人** は中立的な法人形態として独自の位置づけを持つ。研究 / 提言型の団体に適した形態。
 
 ## 法的根拠
@@ -105,13 +105,13 @@ translated_at: 2026-06-02T14:01:20.963Z
 - [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]]（財団設立後に狙える助成金一覧）
 - [[non-profit/INDEX|non-profit INDEX]]（金融グループ実例の参照）
 
-## 出典
+## 来源
 
 - e-Gov 法令検索 https://laws.e-gov.go.jp/
 - 日本公証人連合会 Q&A https://www.koshonin.gr.jp/
 - 法務省 Q&A https://www.moj.go.jp/MINJI/minji153.html
 
-## 関連
+## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]]

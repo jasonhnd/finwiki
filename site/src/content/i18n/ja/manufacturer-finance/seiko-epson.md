@@ -1,21 +1,22 @@
 ---
-source: manufacturing/seiko-epson
-source_hash: f940ee100e1124d5
+source: manufacturer-finance/seiko-epson
+source_hash: 7f2b257f6b345749
 lang: ja
 status: machine
 fidelity: ok
-title: "セイコーエプソン株式会社 (Seiko Epson Corporation)"
-translated_at: 2026-06-02T16:33:58.511Z
+title: "Seiko Epson Corporation (セイコーエプソン)"
+translated_at: 2026-06-19T13:31:34.044Z
 ---
-# セイコーエプソン株式会社 (Seiko Epson Corporation)
 
-## ウィキ上の位置づけ
+# Seiko Epson Corporation (セイコーエプソン)
 
-このエントリは [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。隣接文脈には [[manufacturer-finance/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]]、より広い制度境界には [[INDEX|FinWiki index]] とあわせて読む。
+## Wiki route
 
-## 要約
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it with [[manufacturer-finance/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
 
-セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[regional-banks/hachijuni-bank|八十二銀行]] の長野県製造業メインバンク文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための製造業アンカーである。
+## TL;DR
+
+セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[regional-banks/hachijuni-bank|八十二銀行]] の長野県製造業 main bank 文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための manufacturing anchor。
 
 ## 1. 会社構造
 
@@ -30,7 +31,7 @@ translated_at: 2026-06-02T16:33:58.511Z
 | 連結売上 | 1,362.9 billion yen（2025-03-31） |
 | グループ会社 | 89社（日本 21、海外 68） |
 
-## 2. 事業ラインマップ
+## 2. 事業ライン map
 
 | 事業ライン | 内容 | 地域金融との接点 |
 |---|---|---|
@@ -44,7 +45,7 @@ translated_at: 2026-06-02T16:33:58.511Z
 
 ## 3. 戦略と競合
 
-- **長野県電子産業アンカー**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[regional-banks/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
+- **長野県電子産業 anchor**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[regional-banks/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
 - **プリンティング依存の転換**: Office / Home Printing は大きな収益源だが、ペーパーレス化・消耗品モデル変化に直面する。
 - **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
 - **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
@@ -55,13 +56,13 @@ translated_at: 2026-06-02T16:33:58.511Z
 - 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
 - グローバル製造業として為替、通商、サプライチェーン、人権・調達規制にさらされる。
 
-## 関連項目
+## Related
 
 - [[regional-banks/hachijuni-bank|hachijuni-bank]]
 - [[manufacturer-finance/toyota-motor|toyota-motor]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
 - Epson「Company Outline」: https://corporate.epson/en/about/info.html
 - Epson「Annual Report」: https://corporate.epson/en/investors/publications/annual-report.html

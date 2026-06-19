@@ -1,101 +1,101 @@
 ---
 source: payment-firms/freee
-source_hash: 1c805cbd45f68270
+source_hash: dde818f366fd75b8
 lang: en
 status: machine
 fidelity: ok
-title: "freee Co., Ltd. (freee K.K.)"
-translated_at: 2026-05-31T15:29:03.962Z
+title: "freee K.K. (freee 株式会社)"
+translated_at: 2026-06-19T06:09:18.149Z
 ---
 
-# freee Co., Ltd. (freee K.K.)
+# freee K.K. (freee 株式会社)
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/money-forward|Money Forward, Inc.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the JPYC / USDC / Project Pax three-layer structure]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/money-forward|株式会社マネーフォワード (Money Forward)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-freee is an **integrated back-office platform provider for small businesses** (TSE Growth 4478) that helped establish Japan's cloud accounting and HR SaaS market alongside [[payment-firms/money-forward|Money Forward]]. **Daisuke Sasaki** founded the company on 2012-07-09 after working in SMB marketing at Google Japan, giving freee a distinctive engineering-origin position in adjacent financial software. The company listed on TSE Mothers on 2019-12-17 (now TSE Growth) and achieved profitability in 2023. It remains focused on SMEs, sole proprietors, and freelancers, deliberately avoiding the household-finance app segment associated with Money Forward ME. Its differentiation rests on AI-assisted journal-entry automation and compliance with the Electronic Books Maintenance Act and Japan's invoice system, while its strategic model is an integrated BPaaS (Business Platform as a Service) stack spanning **accounting + HR/labor administration + electronic contracts + corporate cards + loan matching**.^[extracted]
+A **small-business-oriented integrated back-office platformer** that, alongside [[payment-firms/money-forward|Money Forward]], pioneered Japan's cloud accounting / HR-labor SaaS industry (TSE Growth 4478). Founded in 2012-07-09 by **Daisuke Sasaki** (a Google Japan / SMB-marketing alumnus), it holds a distinctive position in the finance-adjacent software market as an engineering-origin startup. It listed on TSE Mothers (now Growth) in 2019-12-17 and achieved profitability in 2023 年. Narrowing its focus to small and medium enterprises / sole proprietors / freelancers, it holds firmly to a **corporate / self-employed-specialized line** that does not step into the household-budget app space (the Money Forward ME-style personal domain). With AI-based journal-entry automation and compliance with the Electronic Books Preservation Act and the invoice system as its differentiation axes, it aims for an "integrated BPaaS (Business Platform as a Service)" model that runs **accounting + HR-labor + electronic contracts + corporate cards + financing matching** as a single operation. ^[extracted]
 
-## 1. Company profile
+## 1. Company overview
 
-**Official name**: freee Co., Ltd.
+**Official name**: freee 株式会社
 **English name**: freee K.K.
-**Security code**: TSE Growth 4478 (2019-12-17 listed, Mothers at the time)
+**Securities code**: TSE Growth 4478 (listed 2019-12-17, then Mothers)
 **Established**: 2012-07-09 ^[extracted]
-**Founder/Representative**: Daisuke Sasaki (Representative Director and CEO, former Google Japan SMB Marketing) ^[extracted]
-**Head office**: Shinagawa-ku, Tokyo (Osaki area, public corporate information base)
-**Business type**: Cloud accounting/HR SaaS, related fintech services (electronic contracts, corporate cards, loan matching)
+**Founder / representative**: Daisuke Sasaki (Representative Director and CEO; former Google Japan SMB marketing lead) ^[extracted]
+**Headquarters**: Shinagawa-ku, Tokyo (the Osaki area, based on public corporate information)
+**Business type**: cloud accounting / HR-labor SaaS, and related fintech services (electronic contracts, corporate cards, financing matching)
 
 ### Business type
 
-It is a pure SaaS vendor and does not hold any banking, securities, or insurance licenses. A **non-bank fintech platform** that provides financial functions (card issuance, financing, electronic contracts) through affiliated financial institutions, card companies, and electronic contract providers. The design philosophy is to use SaaS as a hub to bundle APIs, cards, and loans from existing financial institutions, as opposed to general finance companies such as megabanks FG ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) and [[megabanks/ndfg]] / [[megabanks/paypay-fg]] that include banks, securities, and cards.
+It is a pure SaaS vendor and holds none of the banking, securities, or insurance licenses. Financial functions (card issuance, lending, electronic contracts) are provided via partner financial institutions, card companies, and electronic-contract operators — a **non-bank fintech platformer**. It is the polar opposite of integrated financial groups that hold banking, securities, and card businesses — such as the megabank FGs ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) or [[megabanks/ndfg]] / [[megabanks/paypay-fg]] — with a design philosophy of **using SaaS as a hub to bundle existing financial institutions' APIs, cards, and lending**.
 
-### Important chronology (based on public information) ^[extracted]
+### Key chronology (based on public information) ^[extracted]
 
-|year and month|phenomenon|
+| Year/month | Event |
 |---|---|
-|2012-07-09|**freee Co., Ltd. established** (founded by Daisuke Sasaki, former Google Japan SMB Marketing)|
-|2013-03 |**"freee accounting" released** (initial version of cloud accounting SaaS, automatic data import through bank API linkage is the signature feature)|
-|2014  or later|Expanding into the human resources and labor field, gradually releasing "freee human resources and labor" (formerly freee payroll) system|
-|2017~2019 |Final tax return (free tax return), electronic tax return support, expansion of bank/card cooperation|
-|**2019-12-17**|**Listed on TSE Mothers** (later moved to TSE Growth due to market classification review)|
-|2020~2024 |**Under the concept of "Small Business Integrated Platform"**, peripheral functions such as electronic contracts (Freee Sign), corporate cards (Freee Card, Mastercard-based), loan matching (Freee Financing), etc. will be rapidly expanded.|
-|2022-04 |TSE market classification review → TSE growth transfer|
-|**2023**|**Achieved profitability** (Public IR base, milestone of turning a profit as a SaaS startup)|
-|2024 |**Medium-term management plan announced**, focusing on both integrated platform and deeper AI journal automation|
+| 2012-07-09 | **freee 株式会社 established** (founded by Daisuke Sasaki, former Google Japan SMB marketing) |
+| 2013-03 | **"freee Accounting" released** (the early version of the cloud accounting SaaS; automatic data import via bank API connection was the flagship feature) |
+| 2014 onward | Expansion into the HR-labor domain; sequential release of the "freee HR-Labor" (formerly freee Payroll) line |
+| 2017〜2019 | Tax filing (freee Filing), e-filing support, expansion of bank / card connections |
+| **2019-12-17** | **Listed on TSE Mothers** (later moved to TSE Growth in the market-segment review) |
+| 2020〜2024 | Under the **"integrated platform for small businesses"** concept, rapidly expanded peripheral functions such as electronic contracts (freee Sign), corporate cards (freee Card, Mastercard-based), and financing matching (freee Financing) |
+| 2022-04 | TSE market-segment review → moved to TSE Growth |
+| **2023** | **Achieved profitability** (based on public IR; a profitability-turnaround milestone as a SaaS startup) |
+| 2024 | **Announced its medium-term management plan**, setting out the twin axes of integrated-platformization and deepening AI journal-entry automation |
 
-> Note: The above chronology is based on publicly available materials (Wikipedia / Official IR / Press Release). The exact release date of each product and details of the equity partnership change from time to time, so please refer to the official IR for the latest prices.
+> Note: the above chronology is based on public materials (Wikipedia / official IR / press releases). The exact release dates of each product and the details of equity partnerships vary by period, so the latest figures should be checked against official IR.
 
-## 2. Business segment map
+## 2. Business-segment map
 
-|segment|Main products|Features|
+| Segment | Main product | Characteristics |
 |---|---|---|
-|cloud accounting|**freee accounting**|Bank/card API collaboration + AI journal entry automation is a key feature for small and medium-sized businesses and individual business owners|
-|Human resources and labor affairs|**freee Human Resources and Labor**|Integrated payroll calculation, labor management, attendance, and year-end adjustment|
-|Final tax return|**freee declaration**|e-Tax collaboration for freelancers/individual business owners|
-|electronic contract|**freee sign**|Electronic contract/electronic signature service, compliant with the Electronic Bookkeeping Act|
-|loan matching|**freee funding**|Loan matching for small and medium-sized enterprises (via affiliated financial institutions)|
-|corporate card|**freee card** (Mastercard based)|Corporate payment/expense settlement integration|
-|API/ecosystem|Collaboration with banks, credit card companies, and tax accountant offices|Including platform for tax accountant offices (freee certified advisors)|
+| Cloud accounting | **freee Accounting** | For SMEs / sole proprietors; bank / card API connection + AI journal-entry automation as the flagship |
+| HR-labor | **freee HR-Labor** | Integrates payroll, labor management, attendance, and year-end adjustment |
+| Tax filing | **freee Filing** | For freelancers / sole proprietors; e-Tax connection |
+| Electronic contracts | **freee Sign** | Electronic-contract / electronic-signature service; Electronic Books Preservation Act compliant |
+| Financing matching | **freee Financing** | Financing matching for SMEs (via partner financial institutions) |
+| Corporate card | **freee Card** (Mastercard-based) | Integrated corporate payment / expense settlement |
+| API / ecosystem | Connections with banks, card companies, and tax-accountant offices | Also includes a platform for tax-accountant offices (freee Certified Advisors) |
 
-### Specializing in “Small and Medium Enterprises + Freelance”
+### "SMEs + freelancers" specialization
 
-A strategy that is repeatedly mentioned in public documents is ``an integrated platform for small business.'' in particular:
+The strategy repeatedly put forward in public materials is the **"integrated platform for small businesses."** Concretely:
 
-- **Customer base**: Small and medium-sized businesses / sole traders / freelancers
-- **Business area**: **Complete corporate back office including accounting, human resources, labor, tax returns, electronic contracts, cards, and financing**
-- **Avoidance area**: Personal household account book (Money Forward ME) / ERP for large companies (OBC Bugyo / SAP / Oracle etc. area)
+- **Customer base**: SMEs / sole proprietors / freelancers
+- **Business areas**: the full **corporate back-office set** of accounting, HR-labor, filing, electronic contracts, cards, and financing
+- **Avoided areas**: personal household budgeting (Money Forward ME-style) and large-enterprise ERP (the domain of OBC Bugyo / SAP / Oracle, etc.)
 
-### Corporate BPaaS
+### Becoming a corporate BPaaS
 
-After complying with the Electronic Bookkeeping Act (revised 2022 年) and the invoice system (started with 2023-10 ), freee is expanding its product line from **accounting SaaS single item** to **corporate back office BPaaS**. Electronic contracts (Freee Sign), corporate cards (Freee Card), and loan matching (Freee Funding) are designed to bundle financial and contract flows based on accounting data. ^[extracted]
+After working through compliance with the Electronic Books Preservation Act (2022 年amendment) and the invoice system (started 2023-10 ), freee is expanding its product line from a **single-product accounting SaaS** to a **corporate back-office BPaaS**. Electronic contracts (freee Sign), corporate cards (freee Card), and financing matching (freee Financing) are designed to **bundle financial and contractual flows starting from accounting data**. ^[extracted]
 
-### competitive structure
+### Competitive landscape
 
-- **[[payment-firms/money-forward|Money Forward]]**: The largest competitor in the cloud accounting field, a two-pronged combination of personal household accounting (Money Forward ME) + corporate accounting (Money Forward Cloud). In the corporate field, we are direct competitors.
-- **Yayoi**: A long-established company from the era of package accounting, which has recently shifted to SaaS with cloud versions (Yayoi Accounting Online, etc.). Legacy king of accounting for small and medium-sized businesses and individual business owners.
-- **TKC**: Corporate accounting platform via tax accountant office network, tax accountant channel-led model.
-- **ERP for large companies (OBC Bugyo / SAP / Oracle, etc.)**: Freee does not primarily compete in large-enterprise ERP suites.
+- **[[payment-firms/money-forward|Money Forward]]**: the largest competitor in the cloud accounting domain, with a two-pronged approach of personal household budgeting (Money Forward ME) + corporate accounting (Money Forward Cloud). A direct head-on competitor in the corporate domain.
+- **Yayoi**: a long-established firm from the packaged-accounting era, which in recent years has shifted to SaaS with cloud versions (Yayoi Accounting Online, etc.). The legacy champion of accounting for SMEs / sole proprietors.
+- **TKC**: a corporate-accounting platform via a tax-accountant-office network, a tax-accountant-channel-led model.
+- **Large-enterprise ERP (OBC Bugyo / SAP / Oracle, etc.)**: a domain freee fundamentally does not enter.
 
-### Partner ecosystem
+### Partnership ecosystem
 
-The foundation of our business is API collaboration with banks, credit card companies, and tax accountant offices. A model that shares channels (customer contact points) through collaboration with mega banks, online banks, major card issuers, and the "freee certified advisor" program for tax accountant offices. ^[extracted]
+API connections with banks, card companies, and tax-accountant offices are the foundation of the business. Through transaction-detail linkage with megabanks, internet banks, and major card issuers, and through programs such as "freee Certified Advisors" for tax-accountant offices, it builds a model that **shares channels = customer touchpoints**. ^[extracted]
 
-## 4. Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervising**: Although the Financial Services Agency (FSA) is not the direct supervisory authority, it is strongly influenced by related laws and regulations.
-- **Accounting/Tax related**: National Tax Agency (e-Tax / Electronic Bookkeeping Law), Accounting Standards (J-GAAP / IFRS)
-- **Electronic contract (freee signature)**: Electronic signature law, electronic bookkeeping law
-- **Corporate card (freee card)**: Installment Sales Act, Fund Settlement Act (partial), affiliated card company (Mastercard brand) regulations
-- **Loan matching (freee funding)**: Money lending business law (partner financial institution side), Banking law (partner bank side)
-- **Personal information protection**: Security standards are an issue under the Personal Information Protection Act and API linkage for handling financial data
-- **Listing Regulations**: TSE Growth Market Disclosure and Governance Standards
-- **Current policy issues**:
-  - 2022～ **Electronic Bookkeeping Law** Compatible with revisions (requirement to save electronic transaction data)
-  - 2024~ **Electronic invoice (Peppol) compatible**, government digitalization (e-Gov/G Biz ID collaboration)
-  - 2025 ~ System linked to small and medium-sized enterprises DX subsidies, IT introduction subsidies, etc.
+- **Jurisdiction**: the Financial Services Agency (FSA) is not the direct supervisory authority, but freee is strongly affected by related laws and regulations
+- **Accounting / tax-related**: the National Tax Agency (e-Tax / Electronic Books Preservation Act), accounting standards (J-GAAP / IFRS)
+- **Electronic contracts (freee Sign)**: the Electronic Signatures Act, the Electronic Books Preservation Act
+- **Corporate card (freee Card)**: the Installment Sales Act, the Payment Services Act (in part), partner-card-company (Mastercard brand) regulation
+- **Financing matching (freee Financing)**: the Money-Lending Business Act (on the partner-financial-institution side), the Banking Act (on the partner-bank side)
+- **Personal information protection**: the Act on the Protection of Personal Information; security standards are a point of contention in API connections handling financial data
+- **Listing regulation**: the disclosure / governance standards of the TSE Growth market
+- **Recent policy points**:
+  - 2022〜 compliance with the amended **Electronic Books Preservation Act** (mandatory preservation of electronic-transaction data)
+  - 2024〜 **electronic-invoice (Peppol) support**, government digitalization (e-Gov / GBizID connection)
+  - 2025〜 linkage with systems such as SME DX subsidies and IT-introduction subsidies
 
 ## Related
 
@@ -103,12 +103,12 @@ The foundation of our business is API collaboration with banks, credit card comp
 
 ## Sources
 
-- **Wikipedia: freee** (https://ja.wikipedia.org/wiki/Freee, 2026-05-19 extraction, public information)
-- **freee Co., Ltd. Official Corporate Site** IR Section (History/Securities Report/Medium-term Management Plan)
-- **Freee Public Product Page** (Freee Accounting / Freee Human Resources and Labor Affairs / Freee Declaration / Freee Sign / Freee Card / Freee Funding)
-- Public press release (Compatible with the Electronic Bookkeeping Act, Compatible with the Invoice System, Announcement of each product release, etc.)
+- **Wikipedia: freee** (https://ja.wikipedia.org/wiki/Freee, 2026-05-19 extracted, public information)
+- **freee 株式会社 official corporate site**, IR section (history / securities reports / medium-term management plan)
+- **freee public product pages** (freee Accounting / freee HR-Labor / freee Filing / freee Sign / freee Card / freee Financing)
+- Public press releases (Electronic Books Preservation Act compliance, invoice-system compliance, individual product-release announcements, etc.)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (Wikipedia + public IR + product page verification 2026-05-19). Individual KPIs (MAU/ARR/number of customers, etc.) for each product and details of equity partnerships change from time to time, so please refer to the official IR for the latest values. This page is based solely on publicly available information and avoids speculation about undisclosed management decisions or strategic intentions.
+> confidence: **likely** (Wikipedia + public IR + product-page verification 2026-05-19). Individual per-product KPIs (MAU / ARR / customer count, etc.) and the details of equity partnerships vary by period, so the latest figures should be checked against official IR. This page is based solely on public information and avoids speculation about undisclosed management decisions or strategic intent.
