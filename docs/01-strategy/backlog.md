@@ -9,10 +9,10 @@
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
 | 🔴 next | #28 | fact freshness / source recheck 设计（planning, p1, agent-ready） | 设计 corpus 事实衰减信号、review cadence、read-only report command 与 build task packet；不实现工具。 |
-| 🔴 next | #22 | 内容深化批次规划（planning, agent-ready） | 只读评审圈 ~15–25 个可深化 entity 页 → task packet → 解锁 #26。仿 #15→#8 / #16→#9。 |
+| 🟡 next | #22 | 内容深化批次规划（planning, agent-ready） | Task packet drafted: [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md)。22 个候选页分 4 波；publish / issue close pending。 |
 | 🔴 next | #24 | 域 INDEX entry 计数校验（tooling, agent-ready） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
 | 🔴 next | #27 | CONTRIBUTING.md 贡献者指南（docs, agent-ready） | 综合现有文档为单一贡献入口；内部文档已齐全，缺的是贡献者面。 |
-| 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | #22 的 task packet 落地后开做。 |
+| 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | 以 [#22 shortlist](entity-deepening-shortlist-2026-06-20.md) 为执行包；先做 Wave A 或由 maintainer 拆小批。 |
 | 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
 | 🔴 later | #25 | 小域扩充 round 2（planning） | 复评 #16 后是否还有可补小域。 |
 | 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
