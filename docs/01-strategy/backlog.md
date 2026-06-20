@@ -8,7 +8,7 @@
 
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
-| 🔴 next·p1 | #29 | 实体图建全 设计（P1 结构, planning, agent-ready） | `canonical_anchor` 12 → 数百 + 类型化关系边；分阶段设计 + packet → 解锁实现。把散文 wiki 升级为可查询实体图，**最高杠杆**。 |
+| 🟡 next·p1 | #29 | 实体图建全 设计（P1 结构, planning, agent-ready） | Design drafted: [canonical-entity-graph-design.md](../04-architecture/canonical-entity-graph-design.md)。`canonical_anchor` 保持 mirror identity；新增 future `entity_node` / `entity_edges` 层和 3 个 build packet；publish / issue close pending。 |
 | 🔴 next·p1 | #28 | fact freshness / source recheck 设计（P0 真实性, planning） | 设计 corpus 事实衰减信号、review cadence、read-only report command 与 build task packet；不实现工具。 |
 | 🔴 next | #30 | 跨页事实一致性审计 设计（P0 真实性, planning） | 同实体/数字/日期跨页是否自洽；现门禁不查；出设计 + packet。 |
 | 🟡 next | #22 | 实体深化批次规划（P2 深度, planning） | Task packet drafted: [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md)。22 个候选页分 4 波；publish / issue close pending。 |

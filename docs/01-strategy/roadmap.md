@@ -65,6 +65,8 @@
 
 2026-06-20 planning update: Issue #25 re-scope is documented in [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md); decision is no further small-domain expansion until a concrete public-source trigger appears.
 
+2026-06-20 planning update: Issue #29 canonical-entity graph design is documented in [canonical-entity-graph-design.md](../04-architecture/canonical-entity-graph-design.md). The design keeps `canonical_anchor` for mirror identity, adds a future explicit `entity_node` / `entity_edges` layer, and defines infrastructure / anchor-backfill / typed-edge build packets.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）
