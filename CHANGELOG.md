@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #28 — fact freshness / source recheck design / 事实 freshness 设计
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 16:05 JST。
+- **背景**: GitHub Issue #28 は、構造的 freshness（dead link、count drift、i18n `source_hash`）では捕捉できない factual decay（license 状態、M&A 進捗、統計、法令・制度改定）を管理する設計と build task packet を求めていた。
+- **範囲**: `docs/04-architecture/fact-freshness-source-recheck.md` を新規作成し、既存 `last_tended` / `review_by` を Phase 1 freshness signal として再利用する設計、volatility class、staleness heuristic、report command 形状、re-verification 記録方法、SCHEMA / migration cost assessment、後続 build issue 用 task packet を記録した。新規 docs を `docs/README.md` に追加し、`docs/01-strategy/backlog.md` の open issue snapshot を #22–#28 に更新した。
+- **主要ファイル**: `docs/04-architecture/fact-freshness-source-recheck.md`, `docs/README.md`, `docs/01-strategy/backlog.md`, `CHANGELOG.md`。
+- **実行手順**: #28 の goal / allowed files / acceptance criteria を確認し、`SCHEMA.md`、`docs/04-architecture/content-model.md`、`docs/06-implementation/entry-authoring.md`、`docs/07-quality/gotchas.md`、`docs/05-functional-specs/release-gate.md` を読んだ。`bun run i18n:status --json` で mirror baseline（1436 source entries × ja/zh/en、stale=0）を確認し、Phase 1 は SCHEMA migration なし、Phase 2 optional metadata のみとした。
+- **検証結果**: `bun run docs:audit` PASS、`git diff --check` clean。root `CHANGELOG.md` 変更により `bun tools/release.ts --write` を実行し、続けて `bun tools/release.ts --check --strict` PASS、`bun run surface:drift` PASS を確認した。
+- **残タスク**: build issue を起票するときは design doc の task packet をそのまま source of truth にし、Phase 1 では corpus / i18n mirror / SCHEMA を変更しない。
+- **EN**: Issue #28 requested a design, not implementation, for tracking factual decay across licenses, M&A status, statistics, and regime versions. Added an architecture design that reuses existing `last_tended` and `review_by` for Phase 1, defines volatility classes and staleness reason codes, specifies a future read-only `fact_freshness_status` command, and records how a public-source recheck should be written back. It explicitly avoids required new SCHEMA fields because that would touch roughly 1483 link-audited source entries and, where mirrored, 1436 × 3 i18n files. The build task packet is included in the design doc.
+- **中文**: Issue #28 要求设计一个事实 freshness / source recheck 系统，而不是实现工具。本次新增架构设计文档，Phase 1 复用现有 `last_tended` 和 `review_by`，定义 volatility class、staleness reason codes、未来只读 `fact_freshness_status` 命令形状，以及公开来源复核后的记录方式。设计明确避免立即新增必填 SCHEMA 字段，因为那会触及约 1483 个 link-audited source entry，并在有镜像的范围内影响 1436 × 3 个 i18n 文件。后续 build issue 的 task packet 已写入设计文档。
+
 ### Issue #27 — contributor onboarding guide / Add CONTRIBUTING.md / 新增贡献者指南
 
 #### 日本語記録 / English Record / 中文记录
