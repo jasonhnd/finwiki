@@ -1,11 +1,11 @@
 ---
 source: asset-managers/tokio-marine-asset-management
-source_hash: 0610ed33e0c3e96b
+source_hash: bb53a4dfaeae962a
 lang: zh
 status: machine
 fidelity: ok
 title: "东京海上资产管理 (Tokio Marine AM)"
-translated_at: 2026-06-15T03:48:21.861Z
+translated_at: 2026-06-21T03:30:00.000Z
 ---
 
 # 东京海上资产管理 (Tokio Marine AM)
@@ -50,7 +50,15 @@ translated_at: 2026-06-15T03:48:21.861Z
 
 - [[non-life-insurers/tokio-marine|東京海上 HD]] 100% 子公司，并非如巨型银行系 AM 那样的 JV 结构
 
-## 4. 独立页面为何重要
+## 4. #26 deepening: insurer-group asset manager and channel role
+
+TMAM 官方公司概要显示，截至 2026-04-01，投资顾问资产余额为 7兆1,924亿日元，投资信托为 2兆4,453亿日元，并列出金融商品交易业者、宅地建物交易业者、交易一任代理等许可。金融商品交易业类型包括投资运用业、投资助言・代理业、第二种金融商品交易业。因此，本页应把 TMAM 视为拥有外部客户运用产品、全权委托和不动产相关功能的 operating asset manager，而不只是保险集团的 treasury desk。
+
+英文官网说明，TMAM 向 pension funds、financial institutions、sovereign wealth funds 等机构投资者提供 fiduciary / investment-management services，同时也向日本国内个人投资者提供公募投信。较安全的读法是拆成三层：(1) 东京海上集团内部的保险负债/资产运用功能，(2) 面向养老金、金融法人、SWF 的 institutional mandate，(3) 参与 NISA / 公募投信市场的 retail fund provider。
+
+集团关系上，关键是 TMAM 为东京海上 HD 100% 子公司。它不是 [[asset-managers/asset-management-one|Asset Management One]] 这类银行/保险 JV，而是由 [[non-life-insurers/tokio-marine|东京海上]] 的产险、寿险和海外保险组合支撑的 insurer-owned AM。与 [[asset-managers/nissay-asset-management|Nissay AM]]、[[asset-managers/t-and-d-asset-management|T&D AM]] 相比，其风险、资本和可持续性脉络更强地来自产险集团。
+
+## 5. 独立页面为何重要
 
 [[non-life-insurers/tokio-marine|東京海上 HD]] 是产险 3 巨头之首，市值・海外占比均居业界首位，但承担运用职能的 **TMAM** 作为独立分析单元很重要：
 
@@ -58,7 +66,7 @@ translated_at: 2026-06-15T03:48:21.861Z
 2. **NISA 扩充 + 公募投信竞争** 中的产险系参与者：与银行系（[[asset-managers/mufg-asset-management|MUAM]]）/ 证券系（[[asset-managers/nomura-asset-management|野村アセット]]）/ 信托系（[[asset-managers/smt-am|SMT-AM]]）竞争
 3. **产险责任准备金运用（约 30 兆円规模）的运用方针** 对中坚金融市场（国内债・股票・另类资产）的影响
 
-## 5. 竞争・同业
+## 6. 竞争・同业
 
 | 同业 | 系谱 | 差异化轴 |
 |---|---|---|
@@ -84,4 +92,5 @@ translated_at: 2026-06-15T03:48:21.861Z
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公开 Excel 一览).
 - 東京海上アセットマネジメント株式会社, "会社概要" (官方公司网站).
+- Tokio Marine Asset Management, "Who We Are" (official English site).
 - 東京海上ホールディングス, "グループ会社一覧".
