@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 6 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,12 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `foreign-financial-institutions/ctbc-bank-japan.md` | `M` | 12 | ok |
+| `foreign-financial-institutions/taiwan-business-bank-japan.md` | `M` | 12 | ok |
+| `regional-banks/hokuhoku-fg.md` | `M` | 11 | ok |
+| `regional-banks/juroku-fg.md` | `M` | 14 | ok |
+| `regional-banks/lawson-bank.md` | `M` | 13 | ok |
+| `regional-banks/sbj-bank.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
@@ -69,7 +75,7 @@
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
-| `foreign-financial-institutions` | 58 | 0 | 12.2 |
+| `foreign-financial-institutions` | 58 | 0 | 12.3 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
 | `leasing-firms` | 24 | 0 | 22.3 |
@@ -84,7 +90,7 @@
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `regional-banks` | 136 | 0 | 14.0 |
+| `regional-banks` | 136 | 0 | 14.1 |
 | `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
 | `securities-firms` | 37 | 0 | 19.3 |
