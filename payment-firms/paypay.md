@@ -3,8 +3,8 @@ title: "PayPay株式会社"
 aliases: ["PayPay", "PayPay Corporation", "PayPay株式会社", "ペイペイ"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-06-20
+last_tended: 2026-06-20
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, code-payment]
@@ -36,11 +36,22 @@ PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の consu
 
 ## 2. Business role
 
-- The consumer app is the main distribution point for PayPay's wallet, point, payment, and credit ecosystem.
-- The company links merchants, users, PayPay Card, PayPay Bank, and PayPay Securities into one payment-led financial group.
-- It is the anchor page for comparing Japan's large code-payment platforms.
+- The consumer app is the distribution point for PayPay balance, code payment, peer-to-peer transfer, point campaigns, PayPay Credit / PayPay Card handoff, and discovery of adjacent PayPay financial services.
+- The merchant side matters as much as the wallet side: acceptance, settlement, promotions, and app-based customer contact make PayPay a payment-led distribution layer rather than only a QR brand.
+- The official company profile lists PayPay Card, PayPay Bank, PayPay Securities, PayPay SC, PayPay India, and Credit Engine as related companies, so the operating thesis should be read as wallet-first group finance inside the SoftBank / LY / PayPay ecosystem.
+- It is the anchor page for comparing Japan's large code-payment platforms and for separating wallet economics from card-issuer economics.
 
-## 3. Why this standalone page matters
+## 3. Regulatory and group positioning
+
+| Layer | Public-source reading |
+|---|---|
+| Funds transfer | The official profile and FSA list identify PayPay as a Kanto Local Finance Bureau funds-transfer operator, registration no. 00068. |
+| Stored value / prepaid | The company profile separately lists third-party prepaid-instrument issuer registration, so wallet balance analysis should not collapse prepaid and funds-transfer treatment. |
+| Merchant / card-number control | PayPay's official registrations include card-number merchant-contracting operator status; this places part of the merchant-acceptance boundary outside the pure wallet lane. |
+| Agency / intermediary roles | Bank agency, financial instruments intermediary, and electronic-payment-agency registrations point to partner / intermediary channels, not to PayPay itself being a bank or securities company. |
+| Wage digital payment | The official profile also lists wage digital-payment designation; this is a specific payroll-adjacent funds-transfer lane and should not be generalized to all wallet balances. |
+
+## 4. Why this standalone page matters
 
 [[megabanks/paypay-fg|PayPay FG]] is the holding / group boundary, while PayPay株式会社 is the wallet and code-payment operating company. Confusing the two hides the licensing, merchant, and consumer-protection layers.
 

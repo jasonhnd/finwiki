@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-20T17:01:13+09:00",
+  "generated_at": "2026-06-20T18:41:12+09:00",
   "counts": {
-    "markdown_files": 1565,
-    "public_markdown_pages": 1564,
-    "site_urls_in_sitemap": 1565,
+    "markdown_files": 1566,
+    "public_markdown_pages": 1565,
+    "site_urls_in_sitemap": 1566,
     "topical_domains": 40,
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11109658,
-    "word_like_tokens": 1792960,
+    "nonspace_utf8_chars": 11128239,
+    "word_like_tokens": 1796121,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化",
         "Issue #25 - small-domain expansion round 2 re-scope / no-expansion decision / 小域扩充复核",
         "Issue #22 - entity deepening shortlist / content execution packet / 实体页深化候选包",
-        "Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计",
-        "Issue #28 — fact freshness / source recheck design / 事实 freshness 设计"
+        "Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 627008,
-      "word_like_tokens": 112013,
+      "nonspace_chars": 629797,
+      "word_like_tokens": 112508,
       "last_modified": "2026-06-20"
     },
     {
@@ -1465,8 +1465,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 71334,
-      "word_like_tokens": 12546,
+      "nonspace_chars": 72324,
+      "word_like_tokens": 12740,
       "last_modified": "2026-06-20"
     },
     {
@@ -9759,7 +9759,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. Issuer versus wallet boundary",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -9788,9 +9789,9 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2184,
-      "word_like_tokens": 348,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3464,
+      "word_like_tokens": 553,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -9901,7 +9902,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. Retail finance and nanaco boundary",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -9928,9 +9930,9 @@
         "https://finwiki.zksc.io/retail/seven-and-i-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2113,
-      "word_like_tokens": 347,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3241,
+      "word_like_tokens": 544,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -10063,7 +10065,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. SMFG platform and regulatory boundary",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -10088,9 +10091,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2282,
-      "word_like_tokens": 355,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3304,
+      "word_like_tokens": 521,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -58064,7 +58067,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. Regulatory and product boundary",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58089,9 +58093,9 @@
         "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2039,
-      "word_like_tokens": 318,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3034,
+      "word_like_tokens": 480,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -58154,8 +58158,9 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
-        "4. 規制・政策",
+        "3. Product and economics map",
+        "4. Why this standalone page matters",
+        "5. 規制・政策",
         "Related",
         "Sources"
       ],
@@ -58188,9 +58193,9 @@
         "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3607,
-      "word_like_tokens": 554,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4627,
+      "word_like_tokens": 725,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -58446,7 +58451,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. Regulatory and group positioning",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58471,9 +58477,9 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1953,
-      "word_like_tokens": 310,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3301,
+      "word_like_tokens": 527,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -58774,7 +58780,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. PSP stack and regulatory position",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58801,9 +58808,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2161,
-      "word_like_tokens": 328,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3401,
+      "word_like_tokens": 524,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -59183,7 +59190,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Why this standalone page matters",
+        "3. Licence and operating-model read",
+        "4. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -59208,9 +59216,9 @@
         "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2366,
-      "word_like_tokens": 365,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3379,
+      "word_like_tokens": 541,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -75775,6 +75783,34 @@
       "last_modified": "2026-06-08"
     },
     {
+      "source_path": "releases/v2026.06.20-1.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.20-1",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.20-1.md",
+      "title": "決済・カード実体ページ深化 Wave A",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "決済・カード実体ページ深化 Wave A",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 5413,
+      "word_like_tokens": 916,
+      "last_modified": "2026-06-20"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -90601,8 +90637,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3380,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3723,
+      "word_like_tokens": 692,
       "last_modified": "2026-06-20"
     }
   ]

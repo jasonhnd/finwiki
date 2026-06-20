@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 8 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,14 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `card-issuers/paypay-card.md` | `M` | 8 | ok |
+| `card-issuers/seven-card-service.md` | `M` | 7 | ok |
+| `card-issuers/smbc-card.md` | `M` | 6 | ok |
+| `payment-firms/merpay.md` | `M` | 7 | ok |
+| `payment-firms/net-protections-hd.md` | `M` | 12 | ok |
+| `payment-firms/paypay.md` | `M` | 6 | ok |
+| `payment-firms/sb-payment-service.md` | `M` | 7 | ok |
+| `payment-firms/wise-payments-japan.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 

@@ -878,7 +878,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/card-issuers/paypay-card</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -896,7 +896,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/card-issuers/seven-card-service</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -908,7 +908,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/card-issuers/smbc-card</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5828,7 +5828,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/payment-firms/merpay</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5840,7 +5840,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/payment-firms/net-protections-hd</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5876,7 +5876,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/payment-firms/paypay</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5918,7 +5918,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/payment-firms/sb-payment-service</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5972,7 +5972,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/payment-firms/wise-payments-japan</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7863,6 +7863,12 @@
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.07</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.20-1</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

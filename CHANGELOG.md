@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 18:38 JST。
+- **背景**: GitHub Issue #26 は #22 の entity-deepening task packet を downstream content execution として実行し、thin registry-like entity pages に business model、regulatory positioning、group / product boundary を追加することを求めていた。Wave A は payments / cards の 8 既存ページを対象にした。
+- **範囲**: `payment-firms/paypay.md`, `payment-firms/merpay.md`, `payment-firms/sb-payment-service.md`, `payment-firms/wise-payments-japan.md`, `payment-firms/net-protections-hd.md`, `card-issuers/smbc-card.md`, `card-issuers/paypay-card.md`, `card-issuers/seven-card-service.md` を深化し、ja / en / zh の i18n mirror 24 件、`README.md`, `CHANGELOG.md`, `releases/v2026.06.20-1.md`, root `index.html`, AI discovery surface を同期対象にした。
+- **主要ファイル**: `payment-firms/`, `card-issuers/`, `site/src/content/i18n/{ja,en,zh}/payment-firms/`, `site/src/content/i18n/{ja,en,zh}/card-issuers/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.20-1.md`, `index.html`, `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json`, `api/entries/index.json`。
+- **実行手順**: 公式会社情報、IR、サービス説明、規制登録資料を確認し、PayPay / メルペイ / SB ペイメントサービス / Wise Payments Japan / ネットプロテクションズ HD / 三井住友カード / PayPay カード / セブン・カードサービスに、既存 URL を保ったまま business role と regulatory / product boundary の章を追加した。source body の SHA-256 short hash を再計算し、24 mirror の `source_hash` と翻訳本文を更新した。
+- **検証結果**: `bun run i18n:status` は ja / zh / en すべて `current=1436`, `stale=0`, `missing=0`, `orphaned=0`。`bun tools/wiki_link_audit.ts --fail-on-issues` は `entries_checked=1483`, `entries_with_issues=0`, `dead_wikilink_references=0`, `dead_wikilink_targets=0`, `canonical_anchor_drift=0`。`bun tools/release.ts --write` は `markdown_files=1566`, `public_pages=1565`, `sitemap_urls=1566`, `domains=40`, `link_audited_entries=1483`, `api_entries=1476` を生成し、README / root `index.html` / AI discovery surface を同期した。`bun tools/release.ts --check --strict` は counts in sync、JSON / LF / duplicate-id verify OK。`git diff --check` は EXIT=0。
+- **残タスク**: #26 の後続 wave は #22 task packet の banks / foreign branches、capital-markets / finance arms、insurance / trust / manufacturer anchors を順に扱う。origin/main への push、GitHub Release 公開、issue close は publish 指示がある場合のみ行う。
+- **EN**: Issue #26 executes the downstream content work from #22. Wave A deepened eight existing payment / card entity pages without changing URLs: PayPay, Merpay, SB Payment Service, Wise Payments Japan, Net Protections HD, Sumitomo Mitsui Card, PayPay Card, and Seven Card Service. The pass adds public-source business-model, regulatory-positioning, and group / product-boundary context, then synchronizes the 24 ja / en / zh i18n mirrors plus README, CHANGELOG, release notes, root homepage, and discovery surfaces.
+- **中文**: Issue #26 是 #22 的下游内容执行。本次 Wave A 在不改变 URL 的前提下，深化 8 个支付 / 发卡实体页：PayPay、Merpay、SB Payment Service、Wise Payments Japan、Net Protections HD、Sumitomo Mitsui Card、PayPay Card、Seven Card Service。正文补充公开来源可核验的 business model、监管定位、集团关系与产品边界，并同步 24 个 ja / en / zh i18n mirror，以及 README、CHANGELOG、release notes、根首页和 discovery surface。
+
 ### Issue #25 - small-domain expansion round 2 re-scope / no-expansion decision / 小域扩充复核
 
 #### 日本語記録 / English Record / 中文记录

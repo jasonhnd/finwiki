@@ -1,11 +1,11 @@
 ---
 source: card-issuers/smbc-card
-source_hash: a93ea0e4b664b6e6
+source_hash: 81a986045f248a24
 lang: zh
 status: machine
 fidelity: ok
 title: "三井住友卡 (SMCC)"
-translated_at: 2026-06-01T02:31:57.150Z
+translated_at: 2026-06-20T09:33:00.420Z
 ---
 
 # 三井住友卡 (SMCC)
@@ -30,10 +30,20 @@ translated_at: 2026-06-01T02:31:57.150Z
 ## 2. Business role
 
 - 信用卡发行和加盟店服务位于 SMFG 零售无现金战略的中心。
-- 该公司连接银行账户、卡、积分、app 和加盟店受理 rails。
-- 它也是区分 SMFG 银行资产负债表业务与支付网络、信用销售业务的有用边界页。
+- 该公司连接银行账户、卡、积分、app、加盟店受理、交易服务以及关联消费金融通道。
+- 官方公司概要列出信用卡、借记 / 预付及其他支付服务、贷款、保证、信用销售和交易业务，因此 SMBC Card 应被读作多业务线支付 / 消费信用运营商，而不只是发卡机构。
+- 它也是区分 SMFG 银行资产负债表业务与支付网络、信用销售和加盟店收单业务的有用边界页。
 
-## 3. Why this standalone page matters
+## 3. SMFG 平台与监管边界
+
+| 层级 | 公开来源解读 |
+|---|---|
+| 集团角色 | 公司概要将 SMFG 识别为股东，并把 SMBC Card 放在核心 SMBC 集团支付表面内。 |
+| 业务线 | 官方页面描述卡、信用销售和交易业务；这使 SMBC Card 同时是发卡机构和商户 / 交易服务运营商。 |
+| Olive / V Point 相邻关系 | 公开的 SMBC 集团定位使卡公司成为银行账户、卡、app 和积分捆绑背后的运营层之一。讨论存款与卡信用时，应把银行页和卡公司页分开。 |
+| 监管 | METI 注册经营者名单和官方贷款 / 卡号披露，是割赋销售法、卡号处理和消费信用边界的公开控制点。 |
+
+## 4. Why this standalone page matters
 
 母公司 FG 页面会隐藏运营公司边界。分析 issuer economics、merchant-acquiring risk、卡号合同管理和消费信用监管时，SMBC Card 是需要单独识别的实体。
 
