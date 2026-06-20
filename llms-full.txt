@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-21T00:35:32+09:00
+Generated: 2026-06-21T00:52:18+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1567
-Public pages listed: 1566
+Markdown files: 1568
+Public pages listed: 1567
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1566
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化, Issue #30 - cross-page factual consistency audit design / 跨页事实一致性审计设计
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #26 - Wave C entity deepening / securities, asset management and leasing / 证券、资管与租赁实体页深化, Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### Contributing to FinWiki
@@ -657,7 +657,7 @@ Public pages listed: 1566
 - Domain: asset-managers
 - Type: wiki_entry
 - Summary: This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.
-- Headings: 東京海上アセットマネジメント (Tokio Marine AM), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. 出資・統治構造, 4. Why standalone page matters, 5. 競合・peer
+- Headings: 東京海上アセットマネジメント (Tokio Marine AM), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. 出資・統治構造, 4. #26 deepening: insurer-group asset manager and channel role, 5. Why standalone page matters
 - First resolved wikilinks: https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/asset-management-one, https://finwiki.zksc.io/asset-managers/mufg-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/nomura-asset-management, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/financial-licenses/securities-license-stack, https://finwiki.zksc.io/life-insurers/nippon-life, https://finwiki.zksc.io/life-insurers/td-hd, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/non-life-insurers/msad
 
 ### banking — Net bank / BaaS / banking-structure index
@@ -7455,7 +7455,7 @@ Public pages listed: 1566
 - Domain: leasing-firms
 - Type: wiki_entry
 - Summary: This entry sits under leasing-firms INDEX. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: Mizuho Leasing, Wiki route, TL;DR, Structure, Business Map, Strategic Reading, Competitive Context, Risk Notes
+- Headings: Mizuho Leasing, Wiki route, TL;DR, Structure, Business Map, #26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes, Strategic Reading, Competitive Context
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital, https://finwiki.zksc.io/leasing-firms/ntt-tc-lease, https://finwiki.zksc.io/leasing-firms/orix-corp, https://finwiki.zksc.io/leasing-firms/smfl, https://finwiki.zksc.io/leasing-firms/tokyo-century, https://finwiki.zksc.io/megabanks/mizuho-fg
 
 ### NECキャピタルソリューションズ (NEC Capital Solutions)
@@ -13043,6 +13043,14 @@ Public pages listed: 1566
 - Type: release_note
 - Headings: 決済・カード実体ページ深化 Wave A, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 資本市場・資産運用・リース実体ページ深化 Wave C
+- URL: https://finwiki.zksc.io/releases/v2026.06.21-2
+- Source path: releases/v2026.06.21-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-2.md
+- Domain: releases
+- Type: release_note
+- Headings: 資本市場・資産運用・リース実体ページ深化 Wave C, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 銀行・外資分行実体ページ深化 Wave B
 - URL: https://finwiki.zksc.io/releases/v2026.06.21
 - Source path: releases/v2026.06.21.md
@@ -13188,7 +13196,7 @@ Public pages listed: 1566
 - Domain: securities-firms
 - Type: wiki_entry
 - Summary: This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.
-- Headings: アイザワ証券グループ (Aizawa Securities Group), Wiki route, TL;DR, 1. 会社概要, 主要子会社, 重要年表 ^[extracted], 2. 事業セグメント・マップ, 差別化軸：「アジア新興国投資の専門証券」
+- Headings: アイザワ証券グループ (Aizawa Securities Group), Wiki route, TL;DR, 1. 会社概要, 主要子会社, 重要年表, 2. 事業セグメント・マップ, 差別化軸：「アジア新興国投資の専門証券」
 - First resolved wikilinks: https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd, https://finwiki.zksc.io/securities-firms/matsui-sec, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/okasan-sg, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh, https://finwiki.zksc.io/securities/INDEX
 
 ### あかつき本社 (Akatsuki Honsha)
@@ -13339,7 +13347,7 @@ Public pages listed: 1566
 - Type: wiki_entry
 - Summary: This entry sits under securities-firms INDEX. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.
 - Headings: 松井証券株式会社 (Matsui Securities), Wiki route, TL;DR, 1. 会社概要, 業態の特異性, 重要年表（公開情報ベース）, 2. 事業セグメント・マップ, ネット証券パイオニアとしてのポジション
-- First resolved wikilinks: https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/sbi-securities, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/rakuten-securities, https://finwiki.zksc.io/securities-firms/sbi-securities, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX
 
 ### めぶき証券 (Mebuki Securities)
 - URL: https://finwiki.zksc.io/securities-firms/mebuki-securities

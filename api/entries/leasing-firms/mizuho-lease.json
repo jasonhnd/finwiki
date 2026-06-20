@@ -18,8 +18,8 @@
     ],
     "domain": "leasing-firms",
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -33,6 +33,9 @@
     "sources": [
       "https://www.mizuho-ls.co.jp/en/company/data.html",
       "https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html",
+      "https://www.mizuho-ls.co.jp/en/company/group.html",
+      "https://www.mizuho-ls.co.jp/en/service/global.html",
+      "https://www.mizuho-ls.co.jp/en/ir/library/integrated_report/integrated_report2025.html",
       "https://www.marubeni.com/en/news/2024/release/20240514E.pdf"
     ]
   },
@@ -43,11 +46,11 @@
     "TL;DR",
     "Structure",
     "Business Map",
+    "#26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes",
     "Strategic Reading",
     "Competitive Context",
     "Risk Notes",
-    "Related",
-    "Sources"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -79,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3743,
-    "word_like_tokens": 561,
+    "nonspace_chars": 5433,
+    "word_like_tokens": 841,
     "inbound_wikilinks_count": 35,
     "last_modified": "2026-06-21"
   }

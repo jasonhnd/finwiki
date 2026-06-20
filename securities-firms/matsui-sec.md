@@ -3,8 +3,8 @@ title: 松井証券株式会社 (Matsui Securities)
 aliases: ["Matsui Securities", "松井証券", "Matsui Securities Co., Ltd.", "8628", "松井証券株式会社"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-06-21
+last_tended: 2026-06-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, online-broker]
@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: 松井証券 (公開情報、2026-05-19 抽出)"
   - "松井証券 公式コーポレートサイト・IR セクション (公開情報)"
   - "東証・JPX 上場会社情報 (公開ベース)"
+  - "https://www.matsui.co.jp/company/information/about/"
+  - "https://www.matsui.co.jp/company/information/important_sheet/"
+  - "https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf"
+  - "https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf"
 ---
 
 # 松井証券株式会社 (Matsui Securities)
@@ -93,6 +97,14 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **長期顧客基盤**: 1918 創業の老舗ブランド + ネット証券パイオニアの信頼性
 - **独立系**: メガバンク / 通信会社 / 流通グループの傘下に入らず、独自路線を堅持
 
+## 3. #26 deepening: online brokerage economics and FIEA boundary
+
+松井証券の 2025 年有価証券報告書は、同社の主事業を「個人投資家向けのオンライン証券取引サービス」として説明し、日本株、先物・オプション、投資信託、FX などを単一セグメントで扱う。したがって、このページでは銀行・保険を併設する金融グループではなく、**自己完結した online brokerage operating company** として読むのが安全である。
+
+収益上の焦点は、現物株売買手数料だけではなく、信用取引に伴う金利・貸株関連収益、FX、米国株、投資信託、NISA / iDeCo 周辺の商品拡張にある。公式会社紹介が強調する「active customers」と「competitive pricing / trading-platform reliability」は、対面助言ではなく、低単価・高頻度・高稼働システムを前提にしたネット証券 economics の説明として扱う。2023 年の MATSUI Bank サービスも、銀行子会社を持つという意味ではなく、外部銀行機能を組み合わせた証券口座利便性の拡張として読む。
+
+規制境界では、松井証券は関東財務局長(金商)第164号の金融商品取引業者で、日本証券業協会と金融先物取引業協会に加入する。[[securities-firms/sbi-securities|SBI証券]]、[[securities-firms/rakuten-securities|楽天証券]]、[[securities-firms/monex-group|Monex Group]] との比較では、松井は大規模経済圏を持たない分、信用取引・投資情報ツール・システム安定性に寄せた独立 online broker として位置付ける。
+
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 証券業協会（JSDA）
@@ -114,6 +126,10 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **Wikipedia: 松井証券**（https://ja.wikipedia.org/wiki/松井証券, 2026-05-19 抽出）
 - 松井証券 公式コーポレートサイト・IR セクション（公開情報）
 - 東証・JPX 上場会社情報（証券コード 8628、公開ベース）
+- 松井証券「会社概要」（https://www.matsui.co.jp/company/information/about/）
+- 松井証券「重要情報シート(金融事業者編)」（https://www.matsui.co.jp/company/information/important_sheet/）
+- Matsui Securities, "Annual Securities Report - 109th fiscal year"（https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf）
+- Matsui Securities, "Integrated Report 2025"（https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf）
 
 ---
 
