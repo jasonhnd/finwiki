@@ -1,11 +1,11 @@
 ---
 source: life-insurers/lifenet
-source_hash: fdc0bd7f149663fe
+source_hash: ced19fd0304b3a4a
 lang: zh
 status: machine
 fidelity: ok
 title: "LifeNet 生命保险 (LifeNet Insurance)"
-translated_at: 2026-06-19T06:09:18.157Z
+translated_at: 2026-06-21T04:10:00.000Z
 ---
 
 # LifeNet 生命保险 (LifeNet Insurance)
@@ -16,13 +16,13 @@ translated_at: 2026-06-19T06:09:18.157Z
 
 ## TL;DR
 
-**日本首家独立系互联网专营生命保险公司**。于 2006-10 由出口治明（原日本生命）与岩濑大辅（原 BCG）共同创立，2008-05-18 开业。不设营业职员渠道，**全程网络完成**，以「简单・透明・便宜」为卖点，目标客群为 20-30 后的年轻一代。2012-03-15 于东证 Mothers 上市（战后首家互联网生保上市）。**KDDI [[megabanks/au-fh]] 持有约 28% 的战略股东**，与 au 经济圈联动。主力为定期死亡保险・医疗・癌症・无法工作保障。^[extracted]
+**日本首家独立系互联网专营生命保险公司**。于 2006-10 由出口治明（原日本生命）与岩濑大辅（原 BCG）共同创立，2008-05-18 开业。不设营业职员渠道，以**网络直销为起点**，用「简单・透明・便宜」面向 20-30 岁段年轻客群。2012-03-15 于东证 Mothers 上市（战后首家互联网生保上市）。2026 年 IR 将其披露为东证 Prime 7157。KDDI Group / [[megabanks/au-fh]] 仍是重要合作与股东关系，但 2026-03-31 的十大股东表显示 au Financial Holdings 以 18.32% 为第一大股东。主力为定期死亡保险・医疗・癌症・无法工作保障，近年 group credit life insurance (GCL) 也成为成长轴。
 
 ## 1. 公司概要
 
 **正式名称**：LifeNet 生命保险株式会社 ^[extracted]
 **英文名**：LifeNet Insurance Company
-**证券代码**：东证 Growth **7157**（2012-03-15 Mothers 上市 → 东证市场重组后转入 Growth）^[extracted]
+**证券代码**：东证 Prime **7157**（2012-03-15 Mothers 上市 → 2026 年 IR 披露为 Prime）^[extracted]
 **成立**：2006-10 ^[extracted]
 **开业**：2008-05-18（取得生命保险业免许）^[extracted]
 **业态**：互联网专营生命保险公司（独立系）^[extracted]
@@ -32,11 +32,11 @@ translated_at: 2026-06-19T06:09:18.157Z
 
 | 股东 | 比例（公开信息） |
 |---|---|
-| **KDDI 株式会社** [[megabanks/au-fh]] | 约 28% 级（战略股东，第一大股东级）^[extracted] |
+| **au Financial Holdings Corporation** [[megabanks/au-fh]] | 18.32%（2026-03-31，第一大股东） |
 | SECOM 集团 | 持有（战略股东）^[extracted] |
 | 其他机构投资者・个人 | 其余 |
 
-> KDDI 于 2015 年出资进入，其后分阶段提高持股，将其定位为 au 经济圈 / au 金融 HD [[megabanks/au-fh]] 的生保拼图 ^[extracted]
+> KDDI 于 2015 年出资进入，并将其定位为 au 经济圈 / au 金融 HD [[megabanks/au-fh]] 的生保拼图。2026 年公司披露显示，即使 capital alliance 的处理被重新审视，business alliance 仍然保留，因此应区分股东关系与业务合作。
 
 ### 创始人・经营层（沿革）
 
@@ -81,6 +81,7 @@ translated_at: 2026-06-19T06:09:18.157Z
 | 2015 | **KDDI 出资・战略合作**开始 → au 经济圈联动加速 ^[extracted] |
 | 2018-2024 | **扭亏・成长阶段**（保有契约件数扩大，ARPU 改善）^[extracted] |
 | 2022 | 东证市场区分重组 → **Mothers → Growth**迁移 ^[extracted] |
+| 2026 | IR 材料显示为东证 **Prime** 7157。重新审视与 KDDI Group 的 capital alliance，同时区分 business alliance 与股东关系。 |
 
 ### 竞争对手地图
 
@@ -97,6 +98,14 @@ translated_at: 2026-06-19T06:09:18.157Z
 
 - 自创业之初便高举「**诚实而易懂、便宜、便利**」^[extracted]
 - 作为对抗保险业界不透明性（手续费结构・综合代理店的销售激励等）的轴心而打出
+
+## 3. #26 深化：直营寿险经济性与上市保险公司指标
+
+LifeNet 的 business model 不只是「在线卖保险」。它应被视为不承担营业职员和门店成本的 direct-to-consumer insurer，分析重点在客户获取成本、保有契约、年化保费、insurance service results，以及 IFRS17 下的 CSM / comprehensive equity 如何累积。2026 年 mid-term plan 将 FY2028 comprehensive equity 目标设为 2,000-2,400 亿日元，并把个人保险与 GCL 作为不同成长引擎说明。
+
+从监管和健全性角度看，生命保险业免许与 solvency margin ratio 是基础层。公司截至 2025-03 期的披露显示 consolidated solvency margin ratio 为 1,722.2%，2026-03 期 IR material 则把 annualized premiums of policies-in-force、insurance service results、GCL contracts value 并列为主要指标。若只看传统 J-GAAP 保费收入，而不看 IFRS17 后包含未来利润价值的指标，容易低估互联网起点寿险公司的成长与盈利转换。
+
+在 group relationship 上，auFH / KDDI Group 的关系不应被视为「母公司」关系，而是股东、送客和业务合作的组合。2026-03-31 时点 auFH 是持股 18.32% 的第一大股东，同时 LifeNet 也在扩大与 JAL、金融机构以及 GCL 等多渠道合作。因此本页将 LifeNet 视为从 pure internet life insurer 向 **digital-origin multi-partner life platform** 转移中的公司。
 
 ## 4. 监管・政策
 
@@ -118,8 +127,12 @@ translated_at: 2026-06-19T06:09:18.157Z
 - **Wikipedia: LifeNet 生命保险**（https://ja.wikipedia.org/wiki/ライフネット生命保険, 2026-05-19 抽取 / 仅公开信息）
 - **东证 Growth 上市公司信息**（证券代码 7157，东京证券交易所）
 - **金融厅 免许业者列表**（生命保险业）
+- LIFENET INSURANCE COMPANY, "IR Archive"（https://ir.lifenet-seimei.co.jp/en/ir/library.html）
+- LIFENET INSURANCE COMPANY, "Shareholder and Stock Information"（https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html）
+- LIFENET INSURANCE COMPANY, "Overview of the Mid-term Business Plan"（https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/overview.html）
+- LIFENET INSURANCE COMPANY, "Segment business strategies"（https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/strategies_by_business.html）
 
 ---
 
 > [!info] 验证状况
-> confidence: **likely**（v1.0 Wikipedia + 公开 IR 校核 2026-05-19）。创业年・上市年・主要创始人・KDDI 出资（约 28% 级）等经由 Wikipedia / 东证公开信息。**具体持股比例・最新财务数值存在时点变动**，最新值需参照该公司 IR / 有价证券报告书。本页仅以公开信息构成，未引用内部资料・非公开信息。
+> confidence: **likely**（官方 IR / 股东信息 / mid-term plan 于 2026-06-21 校核）。旧表述中的东证 Growth / KDDI 约 28% 已按最新 IR 与股东表修正为东证 Prime、auFH 18.32%。具体持股比例与最新财务数值会随时点变化，最新值需参照该公司 IR / 有价证券报告书。本页仅使用公开信息，未引用内部资料或非公开信息。

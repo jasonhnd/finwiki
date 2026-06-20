@@ -1,11 +1,11 @@
 ---
 source: trust-banks/alterna-trust
-source_hash: 013dc51450b1a5a7
+source_hash: f364ab766df1d380
 lang: ja
 status: machine
 fidelity: ok
 title: "オルタナ信託 (Alterna Trust)"
-translated_at: 2026-06-02T14:01:20.959Z
+translated_at: 2026-06-21T04:10:00.000Z
 ---
 
 # オルタナ信託 (Alterna Trust)
@@ -50,6 +50,14 @@ Alterna Trust は、デジタル資産で信託会社登録が重要になるこ
 
 このページは、Alterna Trust 自体が取引所、ブローカー、またはトークンプラットフォームであると示唆してはならない。市場会場ルートは [[securities/osaka-digital-exchange|ODX]]、プラットフォーム文脈は [[payment-firms/progmat|Progmat]] を使う。
 
+## #26 深化: 信託会社免許とトークン化資産のカストディ役割
+
+金融庁の信託会社一覧が、このページの規制アンカーである。Alterna Trust は trust-company route であり、銀行、証券会社、取引所、stablecoin issuer ではない。公開設立リリースは、同社を三井物産デジタル・アセットマネジメント（MDM）と三井住友信託銀行の joint venture とし、デジタル証券、特に受益証券発行信託の管理に特化した会社として説明する。
+
+security-token fund 構造では、asset owner / asset manager、trustee、platform、broker / distributor、investor、settlement / custody route を分けて読む必要がある。Alterna Trust の役割は trustee と信託管理レイヤーである。MDM / ALTERNA は投資運用とデジタル証券販売の文脈を提供し、[[payment-firms/progmat|Progmat]] は platform / infrastructure の文脈を提供し、[[securities/osaka-digital-exchange|ODX]] は必要に応じて市場会場ルートになる。
+
+したがって、このページは tokenized real estate と alternative-asset financing の licence-boundary / operating-model ページとして使う。実物資産の所有者が受益証券発行信託を通じて個人投資家から資金を調達する際、受託者、ブローカー、プラットフォームの機能を一つの主体に潰さずに読むためのページである。
+
 ## 調査チェックリスト
 
 1. 金融庁の信託会社一覧で現在の登録状況を確認する。
@@ -72,3 +80,5 @@ Alterna Trust は、デジタル資産で信託会社登録が重要になるこ
 
 - 金融庁：信託会社一覧。
 - 三井物産デジタル・アセットマネジメント / 三井住友信託銀行 / PR Times：Alterna Trust に関する公開リリース。
+- 三井物産デジタル・アセットマネジメント「Service」ページ、信託業務セクション。
+- 金融庁 English trust company list。

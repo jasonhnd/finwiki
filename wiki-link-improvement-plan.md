@@ -41,10 +41,10 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `asset-managers/tokio-marine-asset-management.md` | `M` | 33 | ok |
-| `leasing-firms/mizuho-lease.md` | `M` | 15 | ok |
-| `securities-firms/aizawa-sg.md` | `M` | 22 | ok |
-| `securities-firms/matsui-sec.md` | `M` | 16 | ok |
+| `life-insurers/lifenet.md` | `M` | 9 | ok |
+| `life-insurers/orix-life.md` | `M` | 17 | ok |
+| `manufacturer-finance/seiko-epson.md` | `M` | 7 | ok |
+| `trust-banks/alterna-trust.md` | `M` | 13 | ok |
 
 ## Domain Snapshot
 
@@ -77,9 +77,9 @@
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
 | `leasing-firms` | 24 | 0 | 22.5 |
-| `life-insurers` | 47 | 0 | 11.5 |
+| `life-insurers` | 47 | 0 | 11.6 |
 | `loyalty` | 17 | 0 | 22.4 |
-| `manufacturer-finance` | 14 | 0 | 17.4 |
+| `manufacturer-finance` | 14 | 0 | 17.5 |
 | `megabanks` | 20 | 0 | 15.9 |
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
@@ -97,7 +97,7 @@
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
-| `trust-banks` | 48 | 0 | 12.6 |
+| `trust-banks` | 48 | 0 | 12.7 |
 
 ## canonical_anchor Integrity (drift-gated)
 
