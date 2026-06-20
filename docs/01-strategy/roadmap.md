@@ -36,6 +36,8 @@
 
 2026-06-20 planning update: Issue #22 now has a read-only execution packet, [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md), with 22 candidate entity pages batched for the downstream #26 content issue.
 
+2026-06-20 planning update: Issue #25 re-scope is documented in [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md); decision is no further small-domain expansion until a concrete public-source trigger appears.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）
