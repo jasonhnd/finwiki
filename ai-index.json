@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-20T16:58:19+09:00",
+  "generated_at": "2026-06-20T17:01:13+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11107902,
-    "word_like_tokens": 1792648,
+    "nonspace_utf8_chars": 11109658,
+    "word_like_tokens": 1792960,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #25 - small-domain expansion round 2 re-scope / no-expansion decision / 小域扩充复核",
         "Issue #22 - entity deepening shortlist / content execution packet / 实体页深化候选包",
         "Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计",
-        "Issue #28 — fact freshness / source recheck design / 事实 freshness 设计",
-        "Issue #27 — contributor onboarding guide / Add CONTRIBUTING.md / 新增贡献者指南"
+        "Issue #28 — fact freshness / source recheck design / 事实 freshness 设计"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 625252,
-      "word_like_tokens": 111701,
+      "nonspace_chars": 627008,
+      "word_like_tokens": 112013,
       "last_modified": "2026-06-20"
     },
     {

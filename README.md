@@ -18,7 +18,7 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1111万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,107,902） |
+| Text volume | 約1111万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,109,658） |
 | Word-like tokens | 約179万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-20 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -199,7 +199,7 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1483 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~11.11M chars | ~11,107,902 non-space UTF-8 characters across Markdown |
+| Text volume | ~11.11M chars | ~11,109,658 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.79M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-20 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -372,7 +372,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1111万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,107,902） |
+| Text volume | 约1111万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,109,658） |
 | Word-like tokens | 约179万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-05 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。

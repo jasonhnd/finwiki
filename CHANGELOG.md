@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #25 - small-domain expansion round 2 re-scope / no-expansion decision / 小域扩充复核
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 17:00 JST。
+- **背景**: GitHub Issue #25 は、#16 の small-domain shortlist と #9 実行後の現状を再確認し、さらに追加すべき small-domain page があるか、または「no further expansion」を明示する planning decision を求めていた。
+- **範囲**: `docs/01-strategy/small-domain-expansion-round-2-2026-06-20.md` を追加し、`security`, `retail`, `consumer-finance`, `financial-licenses`, `trading-company-finance`, `financial-conglomerates` を read-only review した。結論は「現時点では追加 small-domain page を作らない」。#9 の trust-business license stack で #16 の明確な public-source gap は解消済みで、残る案は existing routes で足りるか、concrete public-source trigger がない watchlist とした。
+- **主要ファイル**: `docs/01-strategy/small-domain-expansion-round-2-2026-06-20.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md`。
+- **実行手順**: root `INDEX.md` Domain Map から対象小域の current counts を確認し、#16 の deferred ideas と各 domain INDEX の backlog / scope を照合した。#25 から新しい content execution issue は unlock しない判断を backlog / roadmap へリンクした。
+- **検証結果**: `bun run docs:audit`, `git diff --check`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run surface:drift`, `bun run ai:audit` はすべて PASS。corpus 本文、domain INDEX、wiki counts は変更しない。
+- **残タスク**: future trigger が出た場合だけ新 issue を起票する。origin/main への push と issue close は publish 指示がある場合のみ行う。
+- **EN**: Issue #25 re-reviewed the prior small-domain expansion shortlist after #9. Added a planning decision doc and linked it from backlog and roadmap. The decision is no further small-domain expansion now: #9 already closed the clear trust-licence gap, and the remaining deferred ideas are watchlist-only until a concrete public-source trigger appears. No corpus body was edited.
+- **中文**: Issue #25 复核 #16 小域扩充 shortlist 与 #9 完成后的当前状态。本次新增 planning decision 文档，并从 backlog / roadmap 链接。结论是当前不再新增小域页面：#9 已补齐明确的信托 license gap，剩余想法保持 watchlist，只有出现具体公开来源触发时再开新 issue。本次不修改 wiki 正文。
+
 ### Issue #22 - entity deepening shortlist / content execution packet / 实体页深化候选包
 
 #### 日本語記録 / English Record / 中文记录

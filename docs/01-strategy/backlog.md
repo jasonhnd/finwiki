@@ -14,7 +14,7 @@
 | 🔴 next | #27 | CONTRIBUTING.md 贡献者指南（docs, agent-ready） | 综合现有文档为单一贡献入口；内部文档已齐全，缺的是贡献者面。 |
 | 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | 以 [#22 shortlist](entity-deepening-shortlist-2026-06-20.md) 为执行包；先做 Wave A 或由 maintainer 拆小批。 |
 | 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
-| 🔴 later | #25 | 小域扩充 round 2（planning） | 复评 #16 后是否还有可补小域。 |
+| 🟡 later | #25 | 小域扩充 round 2（planning） | Decision drafted: [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md)。结论：当前不再新增小域页面。 |
 | 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
 | 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
 | 🟢 | #14–#17 | 规划 / 对账任务包 | #14 backlog/roadmap 对账；#15 v12 双批去重任务包；#16 小域扩充候选清单；#17 i18n 刷新批次规划。 |
