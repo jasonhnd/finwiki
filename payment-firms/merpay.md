@@ -3,8 +3,8 @@ title: "メルペイ (Merpay)"
 aliases: ["Merpay", "メルペイ", "株式会社メルペイ", "Merpay Inc."]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-06-20
+last_tended: 2026-06-20
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, mercari]
@@ -37,11 +37,21 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 
 ## 2. Business role
 
-- Converts Mercari's marketplace balance and user identity into payment and credit usage.
-- Bridges C2C marketplace data, code payment, deferred payment, and bank-account withdrawal; see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
+- Converts Mercari marketplace sales proceeds, buyer / seller identity, and app engagement into payment, wallet, and credit usage.
+- Bridges C2C marketplace data, code payment, prepaid value, funds-transfer balance, deferred payment, and bank-account withdrawal; see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
+- The Mercari Payment Services Act disclosure separates paid points from Merpay balance, which is important because prepaid-instrument safeguarding and funds-transfer safeguarding are not the same control problem.
 - A comparator against PayPay, Rakuten Pay, au PAY, and d払い — also surfaced in [[payments/funds-transfer-service-providers-japan-index]].
 
-## 3. Why this standalone page matters
+## 3. Regulatory and product boundary
+
+| Layer | Public-source reading |
+|---|---|
+| Funds transfer | Merpay's official pages and the FSA list identify it as Kanto Local Finance Bureau no. 00057. The disclosure states that Merpay balance is not a bank deposit and is safeguarded under the Payment Services Act. |
+| Prepaid points | Paid points are disclosed separately as third-party prepaid instruments; this matters for refund, expiry, and reserve treatment. |
+| Credit / lending adjacency | Merpay's company page lists comprehensive credit-purchase intermediary and money-lending registrations, so the page should be read as a wallet-plus-credit operator rather than only a code-payment brand. |
+| Marketplace loop | The strategic loop is Mercari sales proceeds -> Merpay balance / payment -> credit or deferred-payment products -> repeat marketplace and merchant usage. |
+
+## 4. Why this standalone page matters
 
 Mercari's marketplace business and Merpay's regulated payment / credit business have different risk and compliance questions. This page keeps the financial-service boundary explicit.
 
