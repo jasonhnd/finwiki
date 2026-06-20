@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 23:42 JST。
+- **背景**: GitHub Issue #29 は、既存の `canonical_anchor` 12 clusters を、主要な日本金融 entity を覆う queryable entity graph へ育てる phased design と build task packet を求めていた。現在の `canonical_anchor` は mirror identity のみを扱い、standalone anchor entity や parent / licence / regulator などの typed relationship edge は表現していない。
+- **範囲**: `docs/04-architecture/canonical-entity-graph-design.md` を追加し、`docs/04-architecture/canonical-anchor.md`, `docs/README.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md` を同期した。wiki corpus、SCHEMA、tooling、generated discovery surface の仕様実装は変更しない。
+- **主要ファイル**: `docs/04-architecture/canonical-entity-graph-design.md`, `docs/04-architecture/canonical-anchor.md`, `docs/README.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md`。
+- **実行手順**: Issue #29 の scope / acceptance criteria を確認し、`docs/04-architecture/canonical-anchor.md`, `docs/04-architecture/content-model.md`, `docs/05-functional-specs/ai-discovery-surface.md`, `SCHEMA.md`, `docs/04-architecture/adr.md`, `ai-index.json` の current `entities[]` を read-only review した。17 JapanFG-split institution / licence / regulator domains の non-INDEX Markdown を数え、candidate universe を 633 pages と確認した。設計では `canonical_anchor` を mirror identity 専用に保ち、future `entity_node` / `entity_edges` 層、relationship taxonomy、discovery representation、batching、schema/tooling cost、3 build packets を定義した。
+- **検証結果**: `bun run docs:audit` PASS。`git diff --check` EXIT=0。`bun tools/release.ts --write` は `markdown_files=1566`, `public_pages=1565`, `sitemap_urls=1566`, `domains=40`, `link_audited_entries=1483`, `api_entries=1476` を生成し、README / root `index.html` / AI discovery surface を同期した。`bun tools/release.ts --check --strict` は counts in sync、JSON / LF / duplicate-id verify OK。`bun run surface:drift` は API aligned 1476 entries / docs leakage 0。`bun run ai:audit` は `llms.txt` 52 links, `llms-full.txt` 1565 links, `llms-tasks.txt` 160 links すべて broken 0。
+- **残タスク**: #29 の実装は design doc の Packet 1（entity graph infrastructure）から別 issue で開始する。origin/main への push、GitHub Release 公開、issue close は publish 指示がある場合のみ行う。
+- **EN**: Issue #29 requested a phased design for growing `canonical_anchor` from 12 mirror clusters into a broader queryable entity graph. Added a design doc that preserves `canonical_anchor` for identity clusters, proposes future `entity_node` and `entity_edges` frontmatter, defines entity-selection tiers, typed relation taxonomy, declaration / derivation rules, discovery output shape, batching, cost, and three build packets. No corpus, SCHEMA, tooling, or generated-surface implementation changed in this issue.
+- **中文**: Issue #29 要求把当前 12 个 `canonical_anchor` mirror cluster 扩展成可查询实体图的分阶段设计。本次新增设计文档，明确 `canonical_anchor` 继续只表达 mirror identity，未来另加 `entity_node` 与 `entity_edges` 层；文档定义实体选择分层、typed relation taxonomy、声明/派生机制、discovery 输出形状、批次、成本和 3 个后续 build packet。本 issue 不改 wiki corpus、SCHEMA、工具实现或 generated-surface 逻辑。
+
 ### Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化
 
 #### 日本語記録 / English Record / 中文记录
