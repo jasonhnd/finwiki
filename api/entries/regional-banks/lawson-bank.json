@@ -19,8 +19,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -34,7 +34,10 @@
       "Wikipedia: 株式会社ローソン (2026-05-19 抽出)",
       "ローソン銀行 公式 IR (https://www.lawsonbank.jp/)",
       "ローソン銀行公式「数字でわかるローソン銀行」ATM 設置台数 13,889 台 (2025-03末, https://www.lawsonbank.jp/about/intro/data/data_0001.html)",
-      "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)"
+      "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)",
+      "https://www.lawsonbank.jp/corporate/profile/",
+      "https://www.lawson.jp/en/ir/factsheet/",
+      "https://www.mitsubishicorp.com/jp/en/news/release/2024/0000052863.html"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -48,7 +51,7 @@
     "コンビニ ATM 三強構造",
     "KDDI au 経済圏統合可能性",
     "vs セブン銀行（regional-banks/seven-bank）",
-    "4. 規制・政策"
+    "3. #26 deepening: ATM bank model and group boundary"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -80,8 +83,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3347,
-    "word_like_tokens": 609,
+    "nonspace_chars": 4447,
+    "word_like_tokens": 769,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-06-21"
   }

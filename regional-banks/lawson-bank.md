@@ -3,8 +3,8 @@ title: ローソン銀行 (Lawson Bank)
 aliases: ["Lawson Bank", "ローソン銀行", "株式会社ローソン銀行", "Lawson Bank, Inc."]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-06-21
+last_tended: 2026-06-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, retail-bank, atm-bank]
@@ -15,6 +15,9 @@ sources:
   - ローソン銀行 公式 IR (https://www.lawsonbank.jp/)
   - "ローソン銀行公式「数字でわかるローソン銀行」ATM 設置台数 13,889 台 (2025-03末, https://www.lawsonbank.jp/about/intro/data/data_0001.html)"
   - "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)"
+  - "https://www.lawsonbank.jp/corporate/profile/"
+  - "https://www.lawson.jp/en/ir/factsheet/"
+  - "https://www.mitsubishicorp.com/jp/en/news/release/2024/0000052863.html"
 ---
 
 # ローソン銀行 (Lawson Bank)
@@ -73,6 +76,13 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 親会社 | セブン&アイ HD（上場）| ローソン（非上場・三菱商事+KDDI JV）|
 | 上場 | 東証 PRIME 8410 | 非上場 |
 
+## 3. #26 deepening: ATM bank model and group boundary
+
+- ローソン銀行は「ローソン店舗内の ATM 網」を銀行免許の上に載せたモデルであり、単なる ATM 運営会社ではなく普通銀行として扱う。公式会社概要と FSA の銀行リストを突き合わせると、ページ上の主語はローソン本体ではなく株式会社ローソン銀行である。
+- 収益構造の読み方は、預金・貸出の総合リテール銀行というより、提携金融機関カードの入出金・振込・照会を店舗接点で処理する ATM platform bank に近い。したがって [[regional-banks/seven-bank]] と比較するときは、預貸利ざやよりも ATM 台数、提携先、設置密度、コンビニ来店動線を見る。
+- 親会社ローソンは 2024 年の三菱商事・KDDI 資本業務提携と上場廃止を経て非上場の小売プラットフォームになった。ローソン銀行の将来シナリオでは KDDI / au 経済圏との接続余地が論点になるが、現時点の公開情報では銀行免許・ATM 事業・提携金融機関網の事実と、親会社レベルの「Real x Tech Convenience」構想を分けて読む。
+- FinWiki 上では [[megabanks/au-fh|au フィナンシャルホールディングス]] や [[megabanks/mufg|MUFG]] のページへ直接統合せず、コンビニ ATM bank として独立させる。これは、所有構造の論点と、銀行法上の運営会社・顧客接点・提携 ATM network の論点が一致しないため。
+
 ## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
@@ -95,6 +105,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - ローソン銀行 公式サイト・IR（https://www.lawsonbank.jp/）
 - **ローソン銀行公式「数字でわかるローソン銀行」**：ATM 設置台数 13,889 台（2025-03 末、https://www.lawsonbank.jp/about/intro/data/data_0001.html）
 - **セブン銀行公式**：国内 ATM 設置台数 27,990 台（2025-03 末、https://www.sevenbank.co.jp/）
+- ローソン銀行 会社概要：https://www.lawsonbank.jp/corporate/profile/
+- Lawson investor fact sheet / Lawson Bank reference disclosures：https://www.lawson.jp/en/ir/factsheet/
+- Mitsubishi Corporation / KDDI / Lawson 2024 capital-business partnership release：https://www.mitsubishicorp.com/jp/en/news/release/2024/0000052863.html
 
 ---
 

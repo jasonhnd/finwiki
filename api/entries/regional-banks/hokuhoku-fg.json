@@ -19,8 +19,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -31,7 +31,10 @@
     "sources": [
       "Wikipedia: ほくほくフィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 北陸銀行 (2026-05-19 抽出)",
-      "Wikipedia: 北海道銀行 (2026-05-19 抽出)"
+      "Wikipedia: 北海道銀行 (2026-05-19 抽出)",
+      "https://www.hokuhoku-fg.co.jp/english/",
+      "https://www.hokuhoku-fg.co.jp/english/ir/",
+      "https://pdf.irpocket.com/C8377/PEbr/ooUT/py8l.pdf"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -48,7 +51,7 @@
     "競合構造"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 12,
     "wikilinks": [
       "banking/INDEX",
       "megabanks/mizuho-fg",
@@ -58,7 +61,10 @@
       "megabanks/sbi-hd",
       "megabanks/smfg",
       "regional-banks/INDEX",
-      "regional-banks/fukuoka-fg"
+      "regional-banks/fukuoka-fg",
+      "regional-banks/hokkaido-bank",
+      "regional-banks/hokuriku-bank",
+      "regional-banks/mebuki-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -69,14 +75,17 @@
       "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/hokkaido-bank",
+      "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3302,
-    "word_like_tokens": 550,
+    "nonspace_chars": 4338,
+    "word_like_tokens": 694,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-06-21"
   }
