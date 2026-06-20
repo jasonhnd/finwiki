@@ -15,13 +15,16 @@
       "ネットプロテクションズ",
       "ネットプロテクションズホールディングス",
       "Net Protections Holdings",
+      "Net Protections HD",
       "NP 後払い",
+      "atone",
+      "AFTEE",
       "7383"
     ],
     "domain": "payment-firms",
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-06-20",
+    "last_tended": "2026-06-20",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -39,6 +42,7 @@
       "https://corp.netprotections.com/ir/",
       "https://www.netprotections.com/",
       "https://atone.be/",
+      "https://np-kakebarai.com/",
       "https://aftee.jp/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
@@ -50,8 +54,9 @@
     "TL;DR",
     "1. 法人・ライセンス境界",
     "2. Business role",
-    "3. Why this standalone page matters",
-    "4. 規制・政策",
+    "3. Product and economics map",
+    "4. Why this standalone page matters",
+    "5. 規制・政策",
     "Related",
     "Sources"
   ],
@@ -89,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3607,
-    "word_like_tokens": 554,
+    "nonspace_chars": 4627,
+    "word_like_tokens": 725,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-20"
   }
 }
