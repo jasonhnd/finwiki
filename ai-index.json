@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-20T13:10:57+09:00",
+  "generated_at": "2026-06-20T15:58:08+09:00",
   "counts": {
-    "markdown_files": 1564,
-    "public_markdown_pages": 1563,
-    "site_urls_in_sitemap": 1564,
+    "markdown_files": 1565,
+    "public_markdown_pages": 1564,
+    "site_urls_in_sitemap": 1565,
     "topical_domains": 40,
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11092729,
-    "word_like_tokens": 1790029,
+    "nonspace_utf8_chars": 11101218,
+    "word_like_tokens": 1791463,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #27 — contributor onboarding guide / Add CONTRIBUTING.md / 新增贡献者指南",
         "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
         "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像",
-        "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页",
-        "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选"
+        "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页"
       ],
       "wikilinks": [
         "...",
@@ -869,9 +869,36 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 615025,
-      "word_like_tokens": 109918,
-      "last_modified": "2026-06-19"
+      "nonspace_chars": 618564,
+      "word_like_tokens": 110516,
+      "last_modified": "2026-06-20"
+    },
+    {
+      "source_path": "CONTRIBUTING.md",
+      "url": "https://finwiki.zksc.io/CONTRIBUTING",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/CONTRIBUTING.md",
+      "title": "Contributing to FinWiki",
+      "domain": "root",
+      "entry_type": "control_doc",
+      "canonical_anchor": "",
+      "summary": "FinWiki is a public knowledge base. Contributions should start from a scoped GitHub issue, use only public-source material, and finish with the validation evidence needed for review.",
+      "headings": [
+        "Contributing to FinWiki",
+        "1. Start From An Issue",
+        "2. Keep The Public-Source Boundary",
+        "3. Local Setup",
+        "4. Work By Change Type",
+        "5. Wiki Content Checklist",
+        "6. Commit And Review"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [
+        "AGENTS.md"
+      ],
+      "nonspace_chars": 4644,
+      "word_like_tokens": 790,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -1404,6 +1431,7 @@
       "markdown_links": [
         "AGENTS.md",
         "CHANGELOG.md",
+        "CONTRIBUTING.md",
         "INDEX.md",
         "JapanFG/",
         "OBSIDIAN-SETUP.md",
@@ -1437,9 +1465,9 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 71028,
-      "word_like_tokens": 12500,
-      "last_modified": "2026-06-19"
+      "nonspace_chars": 71334,
+      "word_like_tokens": 12546,
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "SCHEMA.md",

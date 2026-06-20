@@ -14,11 +14,11 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1564 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1565 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1109万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,092,729） |
+| Text volume | 約1110万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,101,218） |
 | Word-like tokens | 約179万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-20 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -89,6 +89,7 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | Obsidian で読む・検索するための汎用セットアップ。 |
 | [CHANGELOG.md](CHANGELOG.md) | 詳細な作業履歴、同期記録、変更理由、検証結果。 |
 | [AGENTS.md](AGENTS.md) | agent / Codex がこのリポジトリで守る運用ルール。 |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | issue の選び方、公開情報ルール、ローカル検証、PR / merge 前の確認をまとめた貢献者ガイド。 |
 | [docs/README.md](docs/README.md) | 内部開発文書の単一入口。BRD / PRD / ARD / FSD / NFR / RTM、UI/UX principles、theme system、visual QA、次期開発計画、コード/文書整合性監査、文書 drift 監査、モデル分担 task packet、実装、品質、運用の文書体系を案内します。 |
 
 ### 🗺️ コンテンツマップ
@@ -194,11 +195,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1564 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1565 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1483 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~11.09M chars | ~11,092,729 non-space UTF-8 characters across Markdown |
+| Text volume | ~11.10M chars | ~11,101,218 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.79M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-20 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -267,6 +268,7 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | Generic setup guide for reading and searching in Obsidian. |
 | [CHANGELOG.md](CHANGELOG.md) | Detailed timeline of operations, sync logs, and validation results. |
 | [AGENTS.md](AGENTS.md) | Local agent rules and constraints in this repository. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contributor onboarding guide for issue-driven work, public-source rules, local validation, and PR / merge readiness. |
 | [docs/README.md](docs/README.md) | Single entry point for internal developer documentation, including BRD / PRD / ARD / FSD / NFR / RTM, UI/UX principles, theme system, visual QA, the next development plan, code/docs alignment audit, documentation drift audit, model-role task packets, implementation, quality, and operations docs. |
 
 ### 🗺️ Content Map
@@ -366,11 +368,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1564 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1565 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1109万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,092,729） |
+| Text volume | 约1110万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,101,218） |
 | Word-like tokens | 约179万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-05 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
@@ -439,6 +441,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | 在 Obsidian 中阅读和搜索的通用设置说明。 |
 | [CHANGELOG.md](CHANGELOG.md) | 详细工作历史、同步记录、变更原因和验证结果。 |
 | [AGENTS.md](AGENTS.md) | agent / Codex 在本仓库必须遵守的本地规则。 |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | 贡献者入门指南，汇总 issue 驱动流程、公开来源规则、本地验证和 PR / merge 前检查。 |
 | [docs/README.md](docs/README.md) | 内部开发文档唯一入口，覆盖 BRD / PRD / ARD / FSD / NFR / RTM、UI/UX principles、theme system、visual QA、下一阶段开发计划、代码/文档切合度审计、文档漂移审计、模型分工 task packet、实施、质量和运维文档。 |
 
 ### 🗺️ 内容地图
