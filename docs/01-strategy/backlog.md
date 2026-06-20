@@ -4,14 +4,15 @@
 
 ## 当前优先级（GitHub Issues 驱动）
 
-> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**（`gh issue list`）。**当前 open：#22–#28（7 项，见下）**；#1–#21 全部关闭。下表含当前 open 项 + 最近一轮完结快照，详情见 [roadmap.md](roadmap.md)「已完成」。
+> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**（`gh issue list`）。**当前 open：#22–#26 / #28–#30（8 项，见下）**；#27 已撤（受控开发、不收外部贡献）；#1–#21 全部关闭。前向支柱与时区见 [roadmap.md](roadmap.md) 的「前向 Roadmap（价值阶段）」。下表含当前 open 项 + 最近一轮完结快照。
 
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
-| 🔴 next | #28 | fact freshness / source recheck 设计（planning, p1, agent-ready） | 设计 corpus 事实衰减信号、review cadence、read-only report command 与 build task packet；不实现工具。 |
-| 🟡 next | #22 | 内容深化批次规划（planning, agent-ready） | Task packet drafted: [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md)。22 个候选页分 4 波；publish / issue close pending。 |
-| 🔴 next | #24 | 域 INDEX entry 计数校验（tooling, agent-ready） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
-| 🔴 next | #27 | CONTRIBUTING.md 贡献者指南（docs, agent-ready） | 综合现有文档为单一贡献入口；内部文档已齐全，缺的是贡献者面。 |
+| 🔴 next·p1 | #29 | 实体图建全 设计（P1 结构, planning, agent-ready） | `canonical_anchor` 12 → 数百 + 类型化关系边；分阶段设计 + packet → 解锁实现。把散文 wiki 升级为可查询实体图，**最高杠杆**。 |
+| 🔴 next·p1 | #28 | fact freshness / source recheck 设计（P0 真实性, planning） | 设计 corpus 事实衰减信号、review cadence、read-only report command 与 build task packet；不实现工具。 |
+| 🔴 next | #30 | 跨页事实一致性审计 设计（P0 真实性, planning） | 同实体/数字/日期跨页是否自洽；现门禁不查；出设计 + packet。 |
+| 🟡 next | #22 | 实体深化批次规划（P2 深度, planning） | Task packet drafted: [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md)。22 个候选页分 4 波；publish / issue close pending。 |
+| 🔴 next | #24 | 域 INDEX entry 计数校验（维护门禁, tooling） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
 | 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | 以 [#22 shortlist](entity-deepening-shortlist-2026-06-20.md) 为执行包；先做 Wave A 或由 maintainer 拆小批。 |
 | 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
 | 🟡 later | #25 | 小域扩充 round 2（planning） | Decision drafted: [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md)。结论：当前不再新增小域页面。 |
