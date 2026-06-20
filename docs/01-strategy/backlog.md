@@ -4,10 +4,11 @@
 
 ## 当前优先级（GitHub Issues 驱动）
 
-> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**。**截至 2026-06-19：#1–#21 全部关闭、无 open issue**；下表为最近一轮完结项快照，详情见 [roadmap.md](roadmap.md)「已完成」。**下一步工作待新 issue 立项。**
+> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**。**当前 open：#22**（内容深化批次规划，type:planning · queue:next）；#1–#21 全部关闭。下表含当前 open 项 + 最近一轮完结快照，详情见 [roadmap.md](roadmap.md)「已完成」。
 
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
+| 🔴 open | #22 | 内容深化批次规划 | 只读评审圈出 ~15–25 个可深化的 entity 页（业务模式/监管定位/集团关系）、产出 task packet → 解锁执行 `[Content]` issue。planning→execution（仿 #15→#8 / #16→#9）。 |
 | 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
 | 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
 | 🟢 | #14–#17 | 规划 / 对账任务包 | #14 backlog/roadmap 对账；#15 v12 双批去重任务包；#16 小域扩充候选清单；#17 i18n 刷新批次规划。 |
