@@ -34,6 +34,8 @@
 
 开发改为 **GitHub Issues 驱动**（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model；规划入口仍参考 [next-development-plan.md](next-development-plan.md)）。**截至 2026-06-19，GitHub #1–#21 全部关闭、无 open issue。** 已完成：Phase A–D 工具/运维门禁（#1–#7：`.txt` route audit、docs link checker、active-doc stale scan、generated-surface drift scan、read-only i18n status、部署 runbook + 事故 playbook）、GitHub-Issue 运营模型 + 模板（#10–#12）、UI baseline 文档（#13）、index.html 三语计数同步（#18）、规划/对账任务包（#14–#17）、Phase E 内容（#8 v12 双批去重：3 合并退役 3 页 / #9 日本信托业 license stack 页）、i18n 批次（#19/#20/#21）。**i18n stale 已清零（2026-06-19）**：#21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部经对话内 opus subagent 重译，`i18n:status` **stale ja/zh/en = 0/0/0**（current=1436、fidelity ok、orphaned/missing/drift 全 0；详见 [CHANGELOG](../../CHANGELOG.md)）。**下一阶段待新 issue 立项**（候选方向：实体内容继续深化 / 选择性小域扩充 / UI 演进——均先开 issue 再做）。
 
+2026-06-20 planning update: Issue #22 now has a read-only execution packet, [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md), with 22 candidate entity pages batched for the downstream #26 content issue.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）

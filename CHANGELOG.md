@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #22 - entity deepening shortlist / content execution packet / 实体页深化候选包
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 16:57 JST。
+- **背景**: GitHub Issue #22 は、P2 で thin registry stub を一巡した後の second-pass entity deepening のために、business model / regulatory positioning / group relationship を深掘りできる既存 entity pages の shortlist と execution task packet を求めていた。これは downstream の #26 content execution を解锁する planning issue であり、corpus 本文は変更しない。
+- **範囲**: `docs/01-strategy/entity-deepening-shortlist-2026-06-20.md` を追加し、22 件の候補 page を 4 wave（payments / cards、banks / foreign branches、capital-markets / finance arms、insurance / trust / manufacturer anchors）に分けた。各候補には path、current thinness signal、deepening angle、candidate public source を記録した。`docs/01-strategy/backlog.md` と `docs/01-strategy/roadmap.md` から task packet へリンクした。
+- **主要ファイル**: `docs/01-strategy/entity-deepening-shortlist-2026-06-20.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md`。
+- **実行手順**: entity-style domains を read-only scan し、body word-like token count と section gap（business model / regulatory / group relationship）を確認した。候補は existing page route を保持する前提で、execution agent が public official / regulator / IR sources を再確認してから本文を加筆する形にした。
+- **検証結果**: `bun run docs:audit`, `git diff --check`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run surface:drift`, `bun run ai:audit` はすべて PASS。corpus 本文、domain INDEX、wiki counts は変更しない。
+- **残タスク**: #26 はこの task packet を source of truth とし、Wave A から実行するか maintainer が小さく分割する。origin/main への push と issue close は publish 指示がある場合のみ行う。
+- **EN**: Issue #22 asked for a reviewed shortlist of existing entity pages ready for a downstream content-execution issue. Added a planning-only task packet with 22 candidates, each carrying path, thinness signal, deepening angle, and at least one candidate public source. The packet batches work into four waves and is linked from backlog and roadmap. No corpus body was edited.
+- **中文**: Issue #22 要求产出一个可执行的实体页深化 shortlist，用来解锁后续 #26 内容执行。本次新增 planning-only task packet，列出 22 个候选页，并为每项记录 path、当前薄弱信号、深化角度和候选公开来源；同时按 4 个 wave 排序，并从 backlog / roadmap 链接过去。本次不修改 wiki 正文。
+
 ### Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计
 
 #### 日本語記録 / English Record / 中文记录
