@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-20T16:45:33+09:00",
+  "generated_at": "2026-06-20T16:53:52+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11103468,
-    "word_like_tokens": 1791865,
+    "nonspace_utf8_chars": 11106212,
+    "word_like_tokens": 1792352,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -153,7 +153,7 @@
     },
     {
       "domain": "financial-licenses",
-      "entries": 7,
+      "entries": 8,
       "route": "financial-licenses/INDEX",
       "url": "https://finwiki.zksc.io/financial-licenses/INDEX",
       "scope": "Cross-cutting Japanese financial license-stack pages (bank / payment / securities / insurance license routes, BaaS boundary)."
@@ -230,7 +230,7 @@
     },
     {
       "domain": "money-market",
-      "entries": 17,
+      "entries": 16,
       "route": "money-market/INDEX",
       "url": "https://finwiki.zksc.io/money-market/INDEX",
       "scope": "Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure."
@@ -265,14 +265,14 @@
     },
     {
       "domain": "corporate-strategy",
-      "entries": 11,
+      "entries": 10,
       "route": "corporate-strategy/INDEX",
       "url": "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "scope": "Public corporate reorganization and tax-structured spin-off reference."
     },
     {
       "domain": "loyalty",
-      "entries": 17,
+      "entries": 16,
       "route": "loyalty/INDEX",
       "url": "https://finwiki.zksc.io/loyalty/INDEX",
       "scope": "Japan points, rewards, loyalty liabilities, and retail / finance data loops."
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计",
         "Issue #28 — fact freshness / source recheck design / 事实 freshness 设计",
         "Issue #27 — contributor onboarding guide / Add CONTRIBUTING.md / 新增贡献者指南",
-        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
-        "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像"
+        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 620814,
-      "word_like_tokens": 110918,
+      "nonspace_chars": 623336,
+      "word_like_tokens": 111364,
       "last_modified": "2026-06-20"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "nonspace_chars": 13205,
       "word_like_tokens": 1966,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "JapanFG/INDEX.md",
@@ -10244,7 +10244,7 @@
       "domain": "consumer-finance",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "consumer-finance/ contains 4 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
+      "summary": "consumer-finance/ contains 5 active entries (excluding INDEX, 6 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
       "headings": [
         "consumer-finance — Japanese consumer lender (貸金業) index",
         "TL;DR",
@@ -10288,7 +10288,7 @@
       "markdown_links": [],
       "nonspace_chars": 4274,
       "word_like_tokens": 681,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "consumer-finance/acom-co-detail.md",
@@ -13095,9 +13095,9 @@
         "https://finwiki.zksc.io/policy-finance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8924,
+      "nonspace_chars": 8920,
       "word_like_tokens": 1429,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "corporate-strategy/japan-business-succession-jigyou-shoukei.md",
@@ -39371,7 +39371,7 @@
       "domain": "foreign-financial-institutions",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "foreign-financial-institutions/ contains 56 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
+      "summary": "foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
       "headings": [
         "foreign-financial-institutions — Foreign banks & securities/AM in Japan index",
         "Overview",
@@ -39517,7 +39517,7 @@
       "markdown_links": [],
       "nonspace_chars": 6180,
       "word_like_tokens": 811,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "foreign-financial-institutions/agricultural-bank-of-china-japan.md",
@@ -62468,7 +62468,7 @@
       "domain": "policy-finance",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "policy-finance/ contains 35 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
+      "summary": "policy-finance/ contains 34 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
       "headings": [
         "policy-finance — Japan public finance / export credit index",
         "TL;DR",
@@ -62555,7 +62555,7 @@
       "markdown_links": [],
       "nonspace_chars": 7150,
       "word_like_tokens": 974,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "policy-finance/agriculture-credit-guarantee-system.md",
@@ -88242,7 +88242,7 @@
       "domain": "trust-banks",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "trust-banks/ contains 46 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
+      "summary": "trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
       "headings": [
         "trust-banks — Japanese trust banks & trust companies index",
         "Overview",
@@ -88365,7 +88365,7 @@
       "markdown_links": [],
       "nonspace_chars": 3968,
       "word_like_tokens": 604,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-20"
     },
     {
       "source_path": "trust-banks/alterna-trust.md",
@@ -90601,8 +90601,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3380,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3606,
+      "word_like_tokens": 667,
       "last_modified": "2026-06-20"
     }
   ]
