@@ -67,6 +67,8 @@
 
 2026-06-20 planning update: Issue #29 canonical-entity graph design is documented in [canonical-entity-graph-design.md](../04-architecture/canonical-entity-graph-design.md). The design keeps `canonical_anchor` for mirror identity, adds a future explicit `entity_node` / `entity_edges` layer, and defines infrastructure / anchor-backfill / typed-edge build packets.
 
+2026-06-21 planning update: Issue #30 cross-page factual-consistency audit design is documented in [cross-page-factual-consistency-audit.md](../07-quality/cross-page-factual-consistency-audit.md). The design separates consistency from freshness, uses deterministic-first entity/metric scoping, and defines a read-only audit task packet.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）

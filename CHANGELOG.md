@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #30 - cross-page factual consistency audit design / 跨页事实一致性审计设计
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-21 00:12 JST。
+- **背景**: GitHub Issue #30 は、同じ entity、登録番号、日付、数値、license status などが複数ページで矛盾していないかを検出する read-only audit の設計と build task packet を求めていた。既存 release gate は link / count / i18n / canonical drift を見るが、cross-page factual consistency は見ない。
+- **範囲**: `docs/07-quality/cross-page-factual-consistency-audit.md` を追加し、`docs/README.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md` を同期した。wiki corpus、tooling、SCHEMA、i18n mirror は変更しない。
+- **主要ファイル**: `docs/07-quality/cross-page-factual-consistency-audit.md`, `docs/README.md`, `docs/01-strategy/backlog.md`, `docs/01-strategy/roadmap.md`, `CHANGELOG.md`。
+- **実行手順**: Issue #30 の scope / acceptance criteria を確認し、`tools/wiki_link_audit.ts`, `docs/06-implementation/entry-authoring.md`, `docs/07-quality/gotchas.md`, `docs/07-quality/acceptance-criteria.md`, `docs/04-architecture/fact-freshness-source-recheck.md` を read-only review した。設計では freshness と consistency を分離し、registration / licence numbers、labelled dates、labelled numeric facts、status / parent relationship の deterministic-first extraction、entity/metric scoping、conflict-vs-legitimate-difference heuristic、report shape、false-positive controls、future tooling task packet を定義した。
+- **検証結果**: `bun run docs:audit` PASS。`git diff --check` EXIT=0。`bun tools/release.ts --write` は `markdown_files=1566`, `public_pages=1565`, `sitemap_urls=1566`, `domains=40`, `link_audited_entries=1483`, `api_entries=1476` を生成し、README / root `index.html` / AI discovery surface を同期した。`bun tools/release.ts --check --strict` は counts in sync、JSON / LF / duplicate-id verify OK。`bun run surface:drift` は API aligned 1476 entries / docs leakage 0。`bun run ai:audit` は `llms.txt` 52 links, `llms-full.txt` 1565 links, `llms-tasks.txt` 160 links すべて broken 0。
+- **残タスク**: 実装は design doc の build task packet を source of truth として別 tooling issue で開始する。最初は read-only command とし、baseline triage 前に release gate へ hard-wire しない。
+- **EN**: Issue #30 asked for a design and task packet for detecting cross-page factual inconsistencies that current gates do not catch. Added a deterministic-first design covering comparison signals, entity / metric scoping, conflict-vs-legitimate-difference heuristics, report shape, false-positive controls, feasibility, and a build packet for a future read-only audit command. No corpus, tooling, SCHEMA, or i18n files were changed in this planning issue.
+- **中文**: Issue #30 要求设计一个跨页事实一致性审计，用来发现同一实体、登记编号、日期、数值或 license status 在不同页面之间互相矛盾的问题。本次新增 deterministic-first 设计，定义比较信号、entity / metric scope、冲突与合理差异的判别、报告形状、误报控制、可行性和后续只读审计命令的 build packet。本 planning issue 不改 corpus、工具实现、SCHEMA 或 i18n 文件。
+
 ### Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计
 
 #### 日本語記録 / English Record / 中文记录
