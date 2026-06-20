@@ -18,8 +18,8 @@
     ],
     "domain": "manufacturer-finance",
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-16",
     "confidence": "likely",
     "tags": [
@@ -30,8 +30,11 @@
     "status": "active",
     "sources": [
       "https://corporate.epson/en/about/info.html",
+      "https://corporate.epson/en/business/",
       "https://corporate.epson/en/investors/publications/annual-report.html",
-      "https://corporate.epson/en/investors/publications/integrated-report.html"
+      "https://corporate.epson/en/investors/publications/integrated-report.html",
+      "https://corporate.epson/en/investors/finance/highlight/segment.html",
+      "https://corporate.epson/en/investors/publications/financial-reports/"
     ]
   },
   "summary": "This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.",
@@ -42,7 +45,8 @@
     "1. 会社構造",
     "2. 事業ライン map",
     "3. 戦略と競合",
-    "4. 規制と政策",
+    "4. #26 deepening: manufacturer-finance anchor and balance-sheet use cases",
+    "5. 規制と政策",
     "Related",
     "Sources"
   ],
@@ -64,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2453,
-    "word_like_tokens": 349,
+    "nonspace_chars": 4309,
+    "word_like_tokens": 627,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-21"
   }
 }
