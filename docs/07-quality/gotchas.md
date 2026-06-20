@@ -53,3 +53,7 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 ## 12. pre-push 门禁需要 bun 在 PATH（中危）
 
 `.git/hooks/pre-push` 会跑 `bun tools/release.ts --check --strict`。若 `bun` 不在该 hook（sh）能看到的 `PATH` 上，push 会被拦（`Bun was not found for the FinWiki release check`）。**对策**：把 `bun` 加进 `PATH`，或 `export FINWIKI_BUN=<bun 路径>`（hook 两者都认）。`release.ts` 内部还会 `spawnSync("bun", ...)`，所以光给 hook 指路不够——`bun` 必须在 PATH 上内部子进程才找得到。**别用 `git push --no-verify` 绕过**：门禁红就先 `release.ts --write` 修好再 push。
+
+## 13. domain INDEX count drift
+
+After adding, removing, moving, or renaming wiki entries, run `bun run index:audit`. If the drift is intentional, run `bun tools/index_count_audit.ts --write` and then rerun the read-only audit before release checks.

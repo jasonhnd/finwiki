@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #24 - INDEX count audit / per-domain count reconciliation / 域 INDEX 计数审计
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-20 16:51 JST。
+- **背景**: GitHub Issue #24 は、root `INDEX.md` と各 domain `INDEX.md` の entry / member count が手作業更新のまま残り、entry 追加・削除・移動後に silent drift が起きる問題を CI 化できる read-only check と optional `--write` sync で解消することを求めていた。
+- **範囲**: `tools/index_count_audit.ts` を追加し、root Domain Map の count と domain `INDEX.md` の summary count を、disk 上の non-INDEX `.md` 数と照合するようにした。`package.json` に `index:audit` script を追加し、`docs/08-operations/maintenance-runbook.md` と `docs/07-quality/gotchas.md` に運用手順を追記した。実行時に見つかった real drift として `financial-licenses`, `money-market`, `corporate-strategy`, `loyalty`, `trust-banks`, `consumer-finance`, `foreign-financial-institutions`, `policy-finance` の count を同期した。
+- **主要ファイル**: `tools/index_count_audit.ts`, `package.json`, `INDEX.md`, `trust-banks/INDEX.md`, `consumer-finance/INDEX.md`, `foreign-financial-institutions/INDEX.md`, `policy-finance/INDEX.md`, `corporate-strategy/INDEX.md`, `docs/08-operations/maintenance-runbook.md`, `docs/07-quality/gotchas.md`, `CHANGELOG.md`。
+- **実行手順**: まず `bun run index:audit` を read-only で実行して 9 件の drift を確認し、`bun tools/index_count_audit.ts --write` で deterministic に count だけを同期した。その後 read-only audit を再実行して 40 domains が disk 上の non-INDEX Markdown count と一致することを確認した。さらに temporary fixture として `financial-licenses` の root count を意図的に誤らせ、read-only audit が exit 1 で 1 件の drift を報告することを確認してから元に戻した。
+- **検証結果**: `bun run index:audit` PASS。seeded drift case は expected failure (exit 1) で `financial-licenses current=7 actual=8` を報告した。`bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run docs:audit`, `bun run surface:drift`, `bun run ai:audit`, `bun run wiki:audit`, `git diff --check` はすべて PASS。
+- **残タスク**: origin/main への push、issue close、GitHub Release 更新は publish 指示がある場合のみ行う。
+- **EN**: Issue #24 requested a CI-able per-domain count audit with optional deterministic writeback. Added `tools/index_count_audit.ts`, wired `index:audit`, and documented the workflow in the operations runbook and gotchas. The tool compares root Domain Map counts and recognizable domain `INDEX.md` summary counts against the on-disk non-INDEX Markdown count. A first read-only run found 9 real drift items; `--write` corrected only those count fields, and the follow-up read-only run passed across 40 domains. A seeded drift fixture also failed as expected and reported the wrong `financial-licenses` count.
+- **中文**: Issue #24 要求把每个域的 INDEX 计数漂移变成可 CI 化的只读检查，并提供可选的确定性 `--write` 同步。本次新增 `tools/index_count_audit.ts`，加入 `index:audit` 脚本，并在运维 runbook 与 gotchas 里记录流程。工具会把 root Domain Map 和域 `INDEX.md` 摘要中的可识别计数，与磁盘上的非 `INDEX.md` Markdown 条目数对齐。首次只读运行发现 9 处真实漂移，`--write` 只改计数字段，随后只读审计在 40 个域上通过；临时造错的 `financial-licenses` 计数也按预期失败并报告差异。
+
 ### Issue #28 — fact freshness / source recheck design / 事实 freshness 设计
 
 #### 日本語記録 / English Record / 中文记录

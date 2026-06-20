@@ -34,7 +34,7 @@
       "各 FG 公式 IR 資料・有価証券報告書"
     ]
   },
-  "summary": "trust-banks/ contains 46 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
+  "summary": "trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
   "headings": [
     "trust-banks — Japanese trust banks & trust companies index",
     "Overview",
@@ -163,6 +163,6 @@
     "nonspace_chars": 3968,
     "word_like_tokens": 604,
     "inbound_wikilinks_count": 51,
-    "last_modified": "2026-06-21"
+    "last_modified": "2026-06-20"
   }
 }

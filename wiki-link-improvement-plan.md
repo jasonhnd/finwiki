@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 6 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,12 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `consumer-finance/INDEX.md` | `M` | 18 | ok |
+| `corporate-strategy/INDEX.md` | `M` | 27 | ok |
+| `foreign-financial-institutions/INDEX.md` | `M` | 60 | ok |
+| `INDEX.md` | `M` | 46 | ok |
+| `policy-finance/INDEX.md` | `M` | 47 | ok |
+| `trust-banks/INDEX.md` | `M` | 50 | ok |
 
 ## Domain Snapshot
 
