@@ -98,6 +98,7 @@
 | [Test Plan](07-quality/test-plan.md) | 常规验证命令、何时扩大测试面。 |
 | [Code/Docs Alignment Audit](07-quality/code-doc-alignment-audit.md) | 当前代码、生成面与开发文档的切合度审计。 |
 | [Documentation Drift Audit](07-quality/documentation-drift-audit.md) | 活跃文档、根入口、生成面与代码事实的全量漂移审计基线。 |
+| [Cross-Page Factual Consistency Audit](07-quality/cross-page-factual-consistency-audit.md) | #30 跨页事实一致性审计设计：比较信号、冲突判别、报告形状、误报控制和后续 build task packet。 |
 | [Acceptance Criteria](07-quality/acceptance-criteria.md) | 内容、结构、发布、文档变更验收标准。 |
 | [QA Checklist](07-quality/qa-checklist.md) | 提交前人工检查清单。 |
 | [Visual QA Checklist](07-quality/visual-qa-checklist.md) | UI/CSS/theme/layout/localization 改动的视觉验收清单。 |
