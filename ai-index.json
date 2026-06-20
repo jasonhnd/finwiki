@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-21T00:35:32+09:00",
+  "generated_at": "2026-06-21T00:52:18+09:00",
   "counts": {
-    "markdown_files": 1567,
-    "public_markdown_pages": 1566,
-    "site_urls_in_sitemap": 1567,
+    "markdown_files": 1568,
+    "public_markdown_pages": 1567,
+    "site_urls_in_sitemap": 1568,
     "topical_domains": 40,
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11149217,
-    "word_like_tokens": 1799648,
+    "nonspace_utf8_chars": 11164079,
+    "word_like_tokens": 1802069,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #26 - Wave C entity deepening / securities, asset management and leasing / 证券、资管与租赁实体页深化",
         "Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化",
         "Issue #30 - cross-page factual consistency audit design / 跨页事实一致性审计设计",
-        "Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计",
-        "Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化"
+        "Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 638252,
-      "word_like_tokens": 113975,
+      "nonspace_chars": 641642,
+      "word_like_tokens": 114557,
       "last_modified": "2026-06-21"
     },
     {
@@ -4549,10 +4549,10 @@
         "1. 法人・ライセンス境界",
         "2. Business role",
         "3. 出資・統治構造",
-        "4. Why standalone page matters",
-        "5. 競合・peer",
-        "Related",
-        "Sources"
+        "4. #26 deepening: insurer-group asset manager and channel role",
+        "5. Why standalone page matters",
+        "6. 競合・peer",
+        "Related"
       ],
       "wikilinks": [
         "asset-managers/INDEX",
@@ -4593,9 +4593,9 @@
         "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3549,
-      "word_like_tokens": 526,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4537,
+      "word_like_tokens": 675,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "banking/INDEX.md",
@@ -45749,11 +45749,11 @@
         "TL;DR",
         "Structure",
         "Business Map",
+        "#26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes",
         "Strategic Reading",
         "Competitive Context",
         "Risk Notes",
-        "Related",
-        "Sources"
+        "Related"
       ],
       "wikilinks": [
         "INDEX",
@@ -45780,9 +45780,9 @@
         "https://finwiki.zksc.io/megabanks/mizuho-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3743,
-      "word_like_tokens": 561,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5433,
+      "word_like_tokens": 841,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "leasing-firms/nec-capital-solutions.md",
@@ -75828,6 +75828,34 @@
       "last_modified": "2026-06-20"
     },
     {
+      "source_path": "releases/v2026.06.21-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.21-2",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-2.md",
+      "title": "資本市場・資産運用・リース実体ページ深化 Wave C",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "資本市場・資産運用・リース実体ページ深化 Wave C",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 6029,
+      "word_like_tokens": 1026,
+      "last_modified": "2026-06-21"
+    },
+    {
       "source_path": "releases/v2026.06.21.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.21",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21.md",
@@ -76759,7 +76787,7 @@
         "TL;DR",
         "1. 会社概要",
         "主要子会社",
-        "重要年表 ^[extracted]",
+        "重要年表",
         "2. 事業セグメント・マップ",
         "差別化軸：「アジア新興国投資の専門証券」",
         "国内ポジション",
@@ -76792,9 +76820,9 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4004,
-      "word_like_tokens": 570,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5436,
+      "word_like_tokens": 775,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "securities-firms/akatsuki-hq.md",
@@ -77668,6 +77696,7 @@
         "securities-firms/daiwa-sg",
         "securities-firms/monex-group",
         "securities-firms/nomura-hd",
+        "securities-firms/rakuten-securities",
         "securities-firms/sbi-securities",
         "securities-firms/smbc-nikko",
         "securities/INDEX"
@@ -77681,14 +77710,15 @@
         "https://finwiki.zksc.io/securities-firms/daiwa-sg",
         "https://finwiki.zksc.io/securities-firms/monex-group",
         "https://finwiki.zksc.io/securities-firms/nomura-hd",
+        "https://finwiki.zksc.io/securities-firms/rakuten-securities",
         "https://finwiki.zksc.io/securities-firms/sbi-securities",
         "https://finwiki.zksc.io/securities-firms/smbc-nikko",
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3961,
-      "word_like_tokens": 568,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5407,
+      "word_like_tokens": 766,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "securities-firms/mebuki-securities.md",
@@ -90682,8 +90712,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3684,
-      "word_like_tokens": 679,
+      "nonspace_chars": 3571,
+      "word_like_tokens": 660,
       "last_modified": "2026-06-21"
     }
   ]

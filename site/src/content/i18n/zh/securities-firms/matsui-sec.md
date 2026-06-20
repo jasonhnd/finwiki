@@ -1,11 +1,11 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: fbc3eb642ea704be
+source_hash: 4a6774615a627d7f
 lang: zh
 status: machine
 fidelity: ok
 title: "松井証券株式会社 (Matsui Securities)"
-translated_at: 2026-06-19T12:43:19.907Z
+translated_at: 2026-06-21T03:30:00.000Z
 ---
 
 # 松井証券株式会社 (Matsui Securities)
@@ -86,6 +86,14 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **长期客户基础**: 1918  创业的老铺品牌 + 网络证券先驱的可信度
 - **独立系**: 不进入大型银行 / 通信公司 / 流通集团旗下，坚守独自路线
 
+## 3. #26 deepening: online brokerage economics and FIEA boundary
+
+松井证券的 2024 财年有价证券报告书将主业说明为面向个人投资者的在线证券交易服务，并以单一分部处理日本股票、期货和期权、投资信托、FX 等业务。因此，本页应把松井理解为自我完结的 online brokerage operating company，而不是同时拥有银行或保险业务的金融集团。
+
+收入视角不只看现货股票买卖手续费，还要看信用交易相关利息和融券/借贷收益、FX、美国股票、投资信托，以及 NISA / iDeCo 周边产品扩张。官方公司介绍强调的 active customers、competitive pricing 与 trading-platform reliability，应作为低单价、高频交易、高系统稼动率驱动的网络证券 economics，而不是面对面投顾模型来理解。2023 年的 MATSUI Bank 服务也更适合解释为利用外部银行功能扩展证券账户便利性，而不是松井自有银行子公司。
+
+监管边界上，松井证券是关东财务局长（金商）第164号金融商品交易业者，并加入日本证券业协会和金融期货交易业协会。与 [[securities-firms/sbi-securities|SBI Securities]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、[[securities-firms/monex-group|Monex Group]] 相比，松井缺少大型外部经济圈，更适合定位为聚焦信用交易、投资信息工具和系统稳定性的独立 online broker。
+
 ## 4. 监管・政策
 
 - **主管**: 金融厅（FSA）/ 证券业协会（JSDA）
@@ -107,6 +115,10 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **Wikipedia: 松井証券**（https://ja.wikipedia.org/wiki/松井証券, 2026-05-19 抽取）
 - 松井証券 官方企业网站・IR 部分（公开信息）
 - 东证・JPX 上市公司信息（证券代码 8628，公开基础）
+- 松井证券「会社概要」（https://www.matsui.co.jp/company/information/about/）
+- 松井证券「重要情報シート(金融事業者編)」（https://www.matsui.co.jp/company/information/important_sheet/）
+- Matsui Securities, "Annual Securities Report - 109th fiscal year"（https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf）
+- Matsui Securities, "Integrated Report 2025"（https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf）
 
 ---
 
