@@ -4,10 +4,11 @@
 
 ## 当前优先级（GitHub Issues 驱动）
 
-> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**（`gh issue list`）。**当前 open：#22–#27（6 项，见下）**；#1–#21 全部关闭。下表含当前 open 项 + 最近一轮完结快照，详情见 [roadmap.md](roadmap.md)「已完成」。
+> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**（`gh issue list`）。**当前 open：#22–#28（7 项，见下）**；#1–#21 全部关闭。下表含当前 open 项 + 最近一轮完结快照，详情见 [roadmap.md](roadmap.md)「已完成」。
 
 | 状态 | GitHub | 项目 | 备注 |
 |---|---|---|---|
+| 🔴 next | #28 | fact freshness / source recheck 设计（planning, p1, agent-ready） | 设计 corpus 事实衰减信号、review cadence、read-only report command 与 build task packet；不实现工具。 |
 | 🔴 next | #22 | 内容深化批次规划（planning, agent-ready） | 只读评审圈 ~15–25 个可深化 entity 页 → task packet → 解锁 #26。仿 #15→#8 / #16→#9。 |
 | 🔴 next | #24 | 域 INDEX entry 计数校验（tooling, agent-ready） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
 | 🔴 next | #27 | CONTRIBUTING.md 贡献者指南（docs, agent-ready） | 综合现有文档为单一贡献入口；内部文档已齐全，缺的是贡献者面。 |
