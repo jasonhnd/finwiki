@@ -1,11 +1,11 @@
 ---
 source: regional-banks/lawson-bank
-source_hash: 6418752cee2de6d0
+source_hash: 92651058d0c3ccad
 lang: zh
 status: machine
 fidelity: ok
 title: "罗森银行 (Lawson Bank)"
-translated_at: 2026-06-19T12:43:19.973Z
+translated_at: 2026-06-21T03:00:00.000Z
 ---
 
 # 罗森银行 (Lawson Bank)
@@ -64,6 +64,13 @@ translated_at: 2026-06-19T12:43:19.973Z
 | 母公司 | 七&爱 HD（上市）| 罗森（非上市・三菱商事+KDDI JV）|
 | 上市 | 东证 PRIME 8410 | 非上市 |
 
+## 3. #26 深化：ATM 银行模型与集团边界
+
+- Lawson Bank 是把 Lawson 门店内 ATM 网络放在银行牌照之上的模型，应作为普通银行处理，而不只是 ATM 运营公司。把官方公司简介与 FSA 银行名单对照后，页面主语是 Lawson Bank, Inc.，不是 Lawson, Inc. 本体。
+- 收入结构更接近 ATM platform bank：在门店触点为合作金融机构银行卡处理取款、存款、转账和余额查询，而不是主要依赖存贷款利差的综合零售银行。与 [[regional-banks/seven-bank]] 比较时，应先看 ATM 台数、合作机构覆盖、布点密度和便利店客流。
+- 母公司 Lawson 在 2024 年三菱商事 / KDDI 资本业务合作和退市后成为非上市零售平台。KDDI / au 经济圈连接是 Lawson Bank 的未来议题，但公开资料层面应把银行牌照 / ATM 网络事实，与母公司层面的 "Real x Tech Convenience" 战略分开。
+- FinWiki 不把本页直接并入 [[megabanks/au-fh|au Financial Holdings]] 或 [[megabanks/mufg|MUFG]]。所有权问题与银行法上的运营公司、客户接点、合作 ATM 网络并非一一对应。
+
 ## 4. 监管・政策
 
 - **主管**：金融厅（FSA）
@@ -86,6 +93,9 @@ translated_at: 2026-06-19T12:43:19.973Z
 - 罗森银行 官方网站・IR（https://www.lawsonbank.jp/）
 - **罗森银行官方「数字解读罗森银行」**：ATM 设置台数 13,889 台（2025-03 末，https://www.lawsonbank.jp/about/intro/data/data_0001.html）
 - **七银行官方**：国内 ATM 设置台数 27,990 台（2025-03 末，https://www.sevenbank.co.jp/）
+- Lawson Bank 公司简介：https://www.lawsonbank.jp/corporate/profile/
+- Lawson investor fact sheet / Lawson Bank reference disclosures：https://www.lawson.jp/en/ir/factsheet/
+- Mitsubishi Corporation / KDDI / Lawson 2024 capital-business partnership release：https://www.mitsubishicorp.com/jp/en/news/release/2024/0000052863.html
 
 ---
 

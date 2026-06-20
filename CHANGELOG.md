@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化
+
+#### 日本語記録 / English Record / 中文记录
+- **JST 時刻**: 2026-06-21 00:32 JST。
+- **背景**: GitHub Issue #26 は #22 の entity-deepening task packet を実行し、thin registry-like entity pages に business model、regulatory positioning、group / branch relationship を追加することを求めている。Wave A は payments / cards で完了済みのため、本作業では Wave B の banks / foreign branches 6 ページを対象にした。
+- **範囲**: `regional-banks/lawson-bank.md`, `regional-banks/sbj-bank.md`, `regional-banks/hokuhoku-fg.md`, `regional-banks/juroku-fg.md`, `foreign-financial-institutions/ctbc-bank-japan.md`, `foreign-financial-institutions/taiwan-business-bank-japan.md` を深化し、ja / en / zh の i18n mirror 18 件、`README.md`, `CHANGELOG.md`, `releases/v2026.06.21.md`, root `index.html`, AI discovery surface、API entry JSON を同期対象にした。
+- **主要ファイル**: `regional-banks/`, `foreign-financial-institutions/`, `site/src/content/i18n/{ja,en,zh}/regional-banks/`, `site/src/content/i18n/{ja,en,zh}/foreign-financial-institutions/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.21.md`, `index.html`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json`, `api/entries/index.json`。
+- **実行手順**: FSA licensed-institution surface、Lawson Bank / SBJ Bank / Hokuhoku FG / Juroku FG / CTBC Bank / Taiwan Business Bank の公式会社情報、IR、branch pages、public disclosure を確認した。ローソン銀行には ATM platform bank model、SBJ銀行には Shinhan-owned domestic-bank subsidiary treatment、ほくほく FG には Hokuriku Bank + Hokkaido Bank の two-bank holding-company model、十六 FG には single-core-bank HD と Gifu Bank merger context、CTBC / Taiwan Business Bank には Taiwan branch corridor と foreign-bank branch boundary を追加した。source body の SHA-256 short hash を再計算し、18 mirror の `source_hash` と翻訳本文を更新した。
+- **検証結果**: `bun run i18n:status` は ja / zh / en すべて `current=1436`, `stale=0`, `missing=0`, `orphaned=0`。`bun tools/wiki_link_audit.ts --fail-on-issues` は `entries_checked=1483`, `entries_with_issues=0`, `dead_wikilink_references=0`, `dead_wikilink_targets=0`, `canonical_anchor_drift=0`。`bun tools/release.ts --write` は link audit `issues=0`, `canonical_drift=0`、`markdown_files=1567`, `public_pages=1566`, `sitemap_urls=1567`, `domains=40`, `link_audited_entries=1483`, `api_entries=1476` を生成し、README / root `index.html` / AI discovery surface を同期した。`bun tools/release.ts --check --strict` は counts in sync、JSON / LF / duplicate-id verify OK。`bun run surface:drift` は API aligned 1476 entries / docs leakage 0。`bun run ai:audit` は `llms.txt` 52 links, `llms-full.txt` 1566 links, `llms-tasks.txt` 160 links すべて broken 0。`git diff --check` は EXIT=0。
+- **残タスク**: #26 の Wave C / Wave D（capital-markets / finance arms、insurance / trust / manufacturer anchors）は未実施。#23 は design approval gate のため UI 実装前に方案確認が必要。origin/main への push、GitHub Release 公開、issue close は publish 指示がある場合のみ行う。
+- **EN**: Issue #26 executes the downstream content work from #22. Wave B deepened six existing bank / foreign-branch entity pages without changing URLs: Lawson Bank, SBJ Bank, Hokuhoku FG, Juroku FG, CTBC Bank Japan, and Taiwan Business Bank Japan. The pass adds public-source context on ATM-platform economics, domestic-bank subsidiary boundaries, two-bank / single-core-bank holding-company models, and Taiwan foreign-branch corridors, then synchronizes the 18 ja / en / zh i18n mirrors plus release surfaces.
+- **中文**: Issue #26 是 #22 的下游内容执行。本次 Wave B 在不改变 URL 的前提下深化 6 个银行 / 外资分行实体页：Lawson Bank、SBJ Bank、Hokuhoku FG、Juroku FG、CTBC Bank Japan、Taiwan Business Bank Japan。正文补充公开来源可核验的 ATM platform economics、国内银行子公司边界、双银行 / 单一核心银行控股模型、台湾系外资分行 corridor，并同步 18 个 ja / en / zh i18n mirror 及发布面。
+
 ### Issue #30 - cross-page factual consistency audit design / 跨页事实一致性审计设计
 
 #### 日本語記録 / English Record / 中文记录
