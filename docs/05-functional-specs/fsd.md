@@ -12,6 +12,8 @@
 | FSD-006 | AI discovery surface | [AI Discovery Surface](ai-discovery-surface.md) | `release.ts --write` + `--check --strict` |
 | FSD-007 | Model-agent development workflow | [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) | task packet + allowed-file review |
 | FSD-008 | Human-site UI/UX | [UI/UX](ui-ux.md) | visual QA + site build when UI changes |
+| FSD-009 | Human-site reading experience | [Human-Site Reading Experience Pass](human-site-reading-experience-pass.md) | visual QA + site build + duplicate-id check |
+| FSD-010 | AI surface consumability | [AI Surface Consumability Design](ai-surface-consumability-design.md) | docs audit now; generated-surface checks in follow-up build issue |
 
 ## Shared Acceptance
 

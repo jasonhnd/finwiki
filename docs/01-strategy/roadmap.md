@@ -69,6 +69,14 @@
 
 2026-06-21 planning update: Issue #30 cross-page factual-consistency audit design is documented in [cross-page-factual-consistency-audit.md](../07-quality/cross-page-factual-consistency-audit.md). The design separates consistency from freshness, uses deterministic-first entity/metric scoping, and defines a read-only audit task packet.
 
+2026-06-21 planning update: Issue #32 Japanese-finance coverage gap-map is documented in [japanese-finance-coverage-gap-map.md](../02-product/japanese-finance-coverage-gap-map.md). The map compares should-cover vs current coverage by sub-sector, entity type and regulatory regime, then records prioritized gaps and explicit do-not-cover boundaries.
+
+2026-06-21 planning update: Issue #33 AI surface consumability design is documented in [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md). The design recommends static-first per-entry API enrichment, coordinated entity-edge exposure after #29, light `llms.txt` navigability improvements and MCP deferral.
+
+2026-06-21 planning update: Issue #34 provenance / source-completeness audit design is documented in [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md). The design defines source-required claim categories, marker-proximity heuristics, report shape, false-positive controls and a provenance coverage value signal.
+
+2026-06-21 UI/UX planning update: Issue #23 reading-experience spec is documented in [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md). The scoped pass preserves the approved UI baseline while improving entry-page metadata hierarchy, prose rhythm, table containment, TOC readability and mobile overflow behavior.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）
