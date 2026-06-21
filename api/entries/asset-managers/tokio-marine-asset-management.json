@@ -18,8 +18,8 @@
     ],
     "domain": "asset-managers",
     "created": "2026-05-24",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -32,8 +32,7 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
-      "https://www.tokiomarineam.co.jp/company/profile.html",
-      "https://www.tokiomarineam.com/who_we_are/",
+      "https://www.tokiomarineam.co.jp/company/profile/",
       "https://www.tokiomarinehd.com/group_company/"
     ]
   },
@@ -45,10 +44,10 @@
     "1. 法人・ライセンス境界",
     "2. Business role",
     "3. 出資・統治構造",
-    "4. #26 deepening: insurer-group asset manager and channel role",
-    "5. Why standalone page matters",
-    "6. 競合・peer",
-    "Related"
+    "4. Why standalone page matters",
+    "5. 競合・peer",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -94,8 +93,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4537,
-    "word_like_tokens": 675,
+    "nonspace_chars": 3549,
+    "word_like_tokens": 526,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-21"
   }

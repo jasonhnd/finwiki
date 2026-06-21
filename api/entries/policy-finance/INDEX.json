@@ -37,7 +37,7 @@
       "https://www.jaffic.go.jp/guide/gyo/index.html"
     ]
   },
-  "summary": "policy-finance/ contains 34 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
+  "summary": "policy-finance/ contains 35 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
   "headings": [
     "policy-finance — Japan public finance / export credit index",
     "TL;DR",
@@ -130,6 +130,6 @@
     "nonspace_chars": 7150,
     "word_like_tokens": 974,
     "inbound_wikilinks_count": 81,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

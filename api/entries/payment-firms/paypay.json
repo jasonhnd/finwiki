@@ -18,8 +18,8 @@
     ],
     "domain": "payment-firms",
     "created": "2026-05-21",
-    "last_updated": "2026-06-20",
-    "last_tended": "2026-06-20",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -42,8 +42,7 @@
     "TL;DR",
     "1. 法人・ライセンス境界",
     "2. Business role",
-    "3. Regulatory and group positioning",
-    "4. Why this standalone page matters",
+    "3. Why this standalone page matters",
     "Related",
     "Sources"
   ],
@@ -73,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3301,
-    "word_like_tokens": 527,
+    "nonspace_chars": 1953,
+    "word_like_tokens": 310,
     "inbound_wikilinks_count": 43,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

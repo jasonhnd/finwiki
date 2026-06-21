@@ -61,11 +61,9 @@
 | [Astro Site Architecture](04-architecture/astro-site-architecture.md) | `site/` 的 Astro 渲染结构与构建边界。 |
 | [Theme System](04-architecture/theme-system.md) | CSS token、light/dark theme、视觉方向与组件样式边界。 |
 | [Content Model](04-architecture/content-model.md) | entry、domain index、control doc、release note 的数据模型。 |
-| [Fact Freshness And Source Recheck](04-architecture/fact-freshness-source-recheck.md) | 事实 freshness / source recheck 的信号、cadence、report command 形状和后续 build task packet。 |
 | [i18n Architecture](04-architecture/i18n-architecture.md) | 机器翻译层、source hash、fallback 与 mirror 规则。 |
 | [AI Discovery Architecture](04-architecture/ai-discovery-architecture.md) | `llms*`、`ai-index.json`、API、sitemap 的生成关系。 |
 | [Canonical Anchor](04-architecture/canonical-anchor.md) | mirror page 与 canonical identity 的设计规则。 |
-| [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md) | #29 实体图建全设计：entity-node selection、typed relationship taxonomy、discovery representation 和后续 build task packets。 |
 | [ADR](04-architecture/adr.md) | 架构决策记录汇总。 |
 | [JapanFG Split Design](04-architecture/japanfg-split-design.md) | JapanFG 物理拆分设计与执行记录。 |
 
@@ -98,7 +96,6 @@
 | [Test Plan](07-quality/test-plan.md) | 常规验证命令、何时扩大测试面。 |
 | [Code/Docs Alignment Audit](07-quality/code-doc-alignment-audit.md) | 当前代码、生成面与开发文档的切合度审计。 |
 | [Documentation Drift Audit](07-quality/documentation-drift-audit.md) | 活跃文档、根入口、生成面与代码事实的全量漂移审计基线。 |
-| [Cross-Page Factual Consistency Audit](07-quality/cross-page-factual-consistency-audit.md) | #30 跨页事实一致性审计设计：比较信号、冲突判别、报告形状、误报控制和后续 build task packet。 |
 | [Acceptance Criteria](07-quality/acceptance-criteria.md) | 内容、结构、发布、文档变更验收标准。 |
 | [QA Checklist](07-quality/qa-checklist.md) | 提交前人工检查清单。 |
 | [Visual QA Checklist](07-quality/visual-qa-checklist.md) | UI/CSS/theme/layout/localization 改动的视觉验收清单。 |
@@ -118,15 +115,6 @@
 | 文档 | 用途 |
 |---|---|
 | [Site Development Plan](99-archive/site-development-plan.md) | 旧 `site/` 开发计划归档，不再作为当前计划入口。 |
-
-## 2026-06-21 Issue Artifacts
-
-| Issue | Artifact | Purpose |
-|---|---|---|
-| #23 | [Human-Site Reading Experience Pass](05-functional-specs/human-site-reading-experience-pass.md) | Entry-reading improvement spec and implementation task packet. |
-| #32 | [Japanese-Finance Coverage Gap Map](02-product/japanese-finance-coverage-gap-map.md) | Gap-driven should-cover vs have map, prioritized gaps, and do-not-cover scope. |
-| #33 | [AI Surface Consumability Design](05-functional-specs/ai-surface-consumability-design.md) | Static-first AI surface enrichment design and follow-up build packet. |
-| #34 | [Provenance / Source-Completeness Audit](07-quality/provenance-source-completeness-audit.md) | Claim-signal, marker-density, report-shape, and false-positive control design. |
 
 ## Operating Rules
 

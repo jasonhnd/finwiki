@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuhoku-fg
-source_hash: 936266f0d9266216
+source_hash: 8b4044c942af1571
 lang: en
 status: machine
 fidelity: ok
 title: "ほくほく FG (Hokuhoku FG)"
-translated_at: 2026-06-21T03:00:00.000Z
+translated_at: 2026-06-19T12:43:19.903Z
 ---
 
 # ほくほく FG (Hokuhoku FG)
@@ -91,13 +91,6 @@ A **2 -base wide-area regional-bank FG** spanning the 3  Hokuriku prefectures (T
 - Hokkaido: tourism (inbound) + agriculture + fisheries + logistics (Chitose・Tomakomai)
 - Both bases have a high weight of primary industry / tourism, with deep linkage to the regional economy
 
-## 3. #26 deepening: two-bank holding-company operating model
-
-- Hokuhoku FG binds the two operating bases of Hokuriku Bank and Hokkaido Bank into one listed bank holding company. That is different from a single-prefecture regional-bank HD. The official English site and IR surface disclose financial results, integrated reports, and securities reports at the holding-company level.
-- The business-model core is to support Hokuriku manufacturing, tourism, and SME finance, plus Hokkaido agriculture, fisheries, tourism, and logistics finance, on the same capital, risk-management, and digital-investment base. The geographies are distant, but both regions share low-density coverage and branch / staff / system-efficiency issues.
-- From a regulatory perspective, Hokuhoku FG is supervised as a bank holding company, while Hokuriku Bank and Hokkaido Bank are operating banks with their own banking licenses. FinWiki separates [[regional-banks/hokuriku-bank|Hokuriku Bank]] and [[regional-banks/hokkaido-bank|Hokkaido Bank]] as operating entities from Hokuhoku FG as the capital, integration, and wide-area strategy parent page.
-- Comparables include multi-prefecture groups such as [[regional-banks/fukuoka-fg|Fukuoka FG]] and [[regional-banks/mebuki-fg|Mebuki FG]], plus the Hokkaido-side competitor [[megabanks/ndfg|Hokuyo Bank]]. Hokuhoku FG is distinctive because it is not an adjacent-prefecture federation but a distant Hokuriku / Hokkaido two-base group.
-
 ## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 北陸財務局 / 北海道財務局
@@ -118,9 +111,6 @@ A **2 -base wide-area regional-bank FG** spanning the 3  Hokuriku prefectures (T
 - **Wikipedia: ほくほくフィナンシャルグループ**（https://ja.wikipedia.org/wiki/ほくほくフィナンシャルグループ, extracted 2026-05-19）
 - **Wikipedia: 北陸銀行**（https://ja.wikipedia.org/wiki/北陸銀行, extracted 2026-05-19）
 - **Wikipedia: 北海道銀行**（https://ja.wikipedia.org/wiki/北海道銀行, extracted 2026-05-19）
-- Hokuhoku Financial Group official English site: https://www.hokuhoku-fg.co.jp/english/
-- Hokuhoku Financial Group IR information: https://www.hokuhoku-fg.co.jp/english/ir/
-- Hokuhoku Financial Group Integrated Report 2024: https://pdf.irpocket.com/C8377/PEbr/ooUT/py8l.pdf
 
 ---
 

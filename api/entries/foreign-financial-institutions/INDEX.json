@@ -35,7 +35,7 @@
       "各 FG 公式 IR 資料・有価証券報告書"
     ]
   },
-  "summary": "foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
+  "summary": "foreign-financial-institutions/ contains 56 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
   "headings": [
     "foreign-financial-institutions — Foreign banks & securities/AM in Japan index",
     "Overview",
@@ -187,6 +187,6 @@
     "nonspace_chars": 6180,
     "word_like_tokens": 811,
     "inbound_wikilinks_count": 59,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

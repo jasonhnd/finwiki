@@ -6,19 +6,16 @@ aliases:
   - "ALTERNA Trust"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-06-21
-last_tended: 2026-06-21
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, trust-company, security-token, digital-securities, Progmat]
 status: active
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
-  - "https://www.fsa.go.jp/en/regulated/licensed/trustcompanies.xlsx"
   - "https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html"
-  - "https://corp.mitsui-x.com/service/index.html"
   - "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250703.pdf"
-  - "https://www.smtb.jp/english/-/media/tb/english/news/pdf/E250703.pdf"
   - "https://prtimes.jp/main/html/rd/p/000000083.000056997.html"
 ---
 
@@ -64,14 +61,6 @@ Alterna Trust is one of the clearest cases where the trust-company registry matt
 
 The page should not imply that Alterna Trust itself is the exchange, broker, or token platform. Use [[securities/osaka-digital-exchange|ODX]] for the market-venue route and [[payment-firms/progmat|Progmat]] for platform context.
 
-## #26 Deepening: trust-company licence and tokenized-asset custody role
-
-The FSA trust-company list gives this page its regulatory anchor. Alterna Trust is a trust-company route, not a bank, securities firm, exchange, or stablecoin issuer. The public establishment releases describe it as a joint venture by Mitsui & Co. Digital Asset Management (MDM) and Sumitomo Mitsui Trust Bank, specialized in digital securities and especially in the administration of trusts with certificates of beneficial interest.
-
-In a security-token fund structure, the useful functional split is: asset owner / asset manager, trustee, platform, broker / distributor, investor, and settlement / custody route. Alterna Trust's role is the trustee and trust-administration layer. MDM / ALTERNA provides investment and digital-securities distribution context; [[payment-firms/progmat|Progmat]] provides platform / infrastructure context; [[securities/osaka-digital-exchange|ODX]] is the market-venue route where relevant.
-
-This page should therefore be used as a licence-boundary and operating-model page for tokenized real estate and alternative-asset financing. It explains how a real-asset owner can raise funds from individual investors through a beneficiary-certificate issuing trust without collapsing trustee, broker and platform functions into one entity.
-
 ## Research Checklist
 
 1. Confirm current registration in the FSA trust-company list.
@@ -94,5 +83,3 @@ This page should therefore be used as a licence-boundary and operating-model pag
 
 - FSA: trust company list.
 - Mitsui & Co. Digital Asset Management / SMTB / PR Times public releases on Alterna Trust.
-- Mitsui & Co. Digital Asset Management, "Service" page, trust business section.
-- FSA English trust company list.

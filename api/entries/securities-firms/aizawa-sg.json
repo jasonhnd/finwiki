@@ -19,8 +19,8 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-19",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -32,12 +32,7 @@
     "sources": [
       "Wikipedia: アイザワ証券グループ (2026-05-19 抽出)",
       "Wikipedia: アイザワ証券 (2026-05-19 抽出)",
-      "アイザワ証券グループ 公式 IR (2025-06 公表 有価証券報告書ベース)",
-      "https://www.aizawa-group.jp/company/outline.html",
-      "https://www.aizawa-group.jp/company/history.html",
-      "https://www.aizawa-group.jp/company/plan.html",
-      "https://www.aizawa.co.jp/products/asia/",
-      "https://www.aizawa.co.jp/company/outline/"
+      "アイザワ証券グループ 公式 IR (2025-06 公表 有価証券報告書ベース)"
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -47,7 +42,7 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社",
-    "重要年表",
+    "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
     "差別化軸：「アジア新興国投資の専門証券」",
     "国内ポジション",
@@ -85,8 +80,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5436,
-    "word_like_tokens": 775,
+    "nonspace_chars": 4004,
+    "word_like_tokens": 570,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-21"
   }
