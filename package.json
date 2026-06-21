@@ -6,6 +6,7 @@
     "ai:discovery": "bun tools/generate_ai_discovery.ts",
     "entity:audit": "bun tools/entity_graph_audit.ts",
     "facts:consistency": "bun tools/factual_consistency_audit.ts",
+    "provenance:audit": "bun tools/provenance_completeness_audit.ts",
     "ai:audit": "bun tools/txt_route_audit.ts",
     "docs:audit": "bun tools/docs_link_audit.ts",
     "docs:stale": "bun tools/active_doc_stale_scan.ts",
