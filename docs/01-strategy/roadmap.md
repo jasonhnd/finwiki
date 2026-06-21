@@ -44,14 +44,14 @@
 |---|---|---|
 | **P0 内核·真实性** | 事实"还为真" + 跨页自洽 | 事实新鲜度 **#28**(设计·p1) → 实现；跨页一致性 **#30**(设计·p2) → 实现 |
 | **P1 内核·结构** | 实体图 12 anchor → 数百、关系成类型化边——把散文 wiki 升级为**可查询实体知识图谱** | 实体图建全 **#29**(分阶段设计·p1) → 实现 |
-| **P2 内核·深度与覆盖** | 实体页深化 + 覆盖按缺口驱动 | 深化 **#22**(packet 已出) → **#26**(Wave A-D 本地完成)；覆盖 gap-map **#32**(设计完成)；小域扩充 **#25**(已决定：无触发不扩) |
-| **门面**（次要：同一内核的两种渲染） | 人类站可读性 / AI 可消费性 | 人类站 **#23**(spec + implementation 本地完成)；AI surface **#33**(设计完成)；entity-edge 深化（later） |
+| **P2 内核·深度与覆盖** | 实体页深化 + 覆盖按缺口驱动 | 深化 **#22**(packet 已出) → **#26**(执行)；覆盖 gap-map（P2，later 立项）；小域扩充 **#25**(已决定：无触发不扩) |
+| **门面**（次要：同一内核的两种渲染） | 人类站可读性 / AI 可消费性 | 人类站 **#23**(待规格)；AI API / entity-edge 深化（later） |
 | **维护门禁** | 结构性新鲜度持续绿 | 域 INDEX 计数 **#24**；现有 release / i18n / link 门禁常绿 |
 
 ### 时区
-- **now（agent-ready，可立即派）**：**#28 / #29 / #30** 各自的后续实现 issue（设计 unlock 后）· **#24** 域 INDEX 计数 · #23/#26/#32/#33/#34 的 publish / closeout evidence
-- **next**：coverage gap-map 后续内容批次 · provenance audit / AI surface 的 build issue
-- **later**：**#25** 小域扩充（已决定：无公开来源触发不扩）· AI 门面 API / entity-edge 深化
+- **now（agent-ready，可立即派）**：**#29** 实体图建全设计 · **#28** 事实新鲜度设计 · **#30** 跨页一致性设计 · **#26** 实体深化执行（#22 packet 已就绪）· **#24** 域 INDEX 计数
+- **next**：#28 / #29 / #30 各自的**实现** issue（设计 unlock 后）· 覆盖 gap-map 立项
+- **later**：**#23** 人类站阅读体验（先补规格）· **#25** 小域扩充（已决定：无公开来源触发不扩）· AI 门面 API / entity-edge 深化
 
 ### 价值信号（在结构性门禁之外补）
 - **实体图覆盖率**：`entity_anchors` / 主要实体数（现 **12** / 数百，逐批拉升；#29 定义）
@@ -66,16 +66,6 @@
 2026-06-20 planning update: Issue #25 re-scope is documented in [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md); decision is no further small-domain expansion until a concrete public-source trigger appears.
 
 2026-06-20 planning update: Issue #29 canonical-entity graph design is documented in [canonical-entity-graph-design.md](../04-architecture/canonical-entity-graph-design.md). The design keeps `canonical_anchor` for mirror identity, adds a future explicit `entity_node` / `entity_edges` layer, and defines infrastructure / anchor-backfill / typed-edge build packets.
-
-2026-06-21 planning update: Issue #30 cross-page factual-consistency audit design is documented in [cross-page-factual-consistency-audit.md](../07-quality/cross-page-factual-consistency-audit.md). The design separates consistency from freshness, uses deterministic-first entity/metric scoping, and defines a read-only audit task packet.
-
-2026-06-21 planning update: Issue #32 Japanese-finance coverage gap-map is documented in [japanese-finance-coverage-gap-map.md](../02-product/japanese-finance-coverage-gap-map.md). The map compares should-cover vs current coverage by sub-sector, entity type and regulatory regime, then records prioritized gaps and explicit do-not-cover boundaries.
-
-2026-06-21 planning update: Issue #33 AI surface consumability design is documented in [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md). The design recommends static-first per-entry API enrichment, coordinated entity-edge exposure after #29, light `llms.txt` navigability improvements and MCP deferral.
-
-2026-06-21 planning update: Issue #34 provenance / source-completeness audit design is documented in [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md). The design defines source-required claim categories, marker-proximity heuristics, report shape, false-positive controls and a provenance coverage value signal.
-
-2026-06-21 UI/UX implementation update: Issue #23 reading-experience spec is documented in [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md) and implemented in `site/src/layouts/EntryLayout.astro`, `site/src/layouts/Base.astro`, and `site/src/styles/global.css`. The scoped pass preserves the approved UI baseline while improving entry-page metadata hierarchy, prose rhythm, table containment, TOC readability and mobile overflow behavior.
 
 ## 历史近期重点（P1 → P4）
 

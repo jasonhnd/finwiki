@@ -14,18 +14,14 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1570 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1566 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1119万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,191,689） |
-| Word-like tokens | 約181万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1113万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,130,670） |
+| Word-like tokens | 約180万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-21 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
-
-> 実体ページ深化（Issue #26 Wave A-D）: #22 task packet に沿って、payments / cards、banks / foreign branches、securities / asset-management / leasing、insurance / trust / manufacturer anchors の既存 22 実体ページを公開情報で深化しました。新規 route は追加せず、business model、regulatory positioning、group / branch / product boundary、source-backed reading route を補強しています。
-
-> 読書体験・計画面（Issue #23 / #32 / #33 / #34）: #23 は entry reading layout の article measure、metadata chip wrapping、prose rhythm、table containment、mobile header overflow を改善しました。#32 coverage gap-map、#33 AI surface consumability design、#34 provenance / source-completeness audit design は `docs/` に設計と build task packet を残しています。
 
 > 実体ページ深化（Issue #26 Wave A）: 2026-06-20 JST では #22 の task packet に従い、`payment-firms/` と `card-issuers/` の既存 8 実体ページを公開情報で深化しました。PayPay / メルペイ / SB ペイメントサービス / Wise Payments Japan / ネットプロテクションズ HD / 三井住友カード / PayPay カード / セブン・カードサービスに、business model、規制上の位置づけ、group / product boundary を追加し、ja / en / zh の i18n mirror 24 件を current hash へ同期しました。
 
@@ -201,18 +197,14 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1570 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1566 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1483 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~11.19M chars | ~11,191,689 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.81M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~11.13M chars | ~11,130,670 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.80M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-21 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
-
-> Entity deepening (Issue #26 Waves A-D): following the #22 task packet, 22 existing entity pages were deepened across payments / cards, banks / foreign branches, securities / asset management / leasing, and insurance / trust / manufacturer anchors. No new routes were added; the pages now carry stronger public-source-backed business model, regulatory positioning, group / branch / product boundary, and reading-route context.
-
-> Reading experience and planning surfaces (Issues #23 / #32 / #33 / #34): #23 improves entry-page article measure, metadata-chip wrapping, prose rhythm, table containment, and mobile header overflow behavior. #32 coverage gap-map, #33 AI surface consumability design, and #34 provenance / source-completeness audit design are recorded under `docs/` with follow-up build task packets.
 
 > Entity deepening (Issue #26 Wave A): on 2026-06-20 JST, the #22 task packet was used to deepen 8 existing entity pages under `payment-firms/` and `card-issuers/` with public information. PayPay / Merpay / SB Payment Service / Wise Payments Japan / Net Protections HD / Sumitomo Mitsui Card / PayPay Card / Seven Card Service now carry stronger business-model, regulatory-positioning, and group / product-boundary context, and 24 ja / en / zh i18n mirrors were synchronized to current hashes.
 
@@ -380,18 +372,14 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1570 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1566 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1119万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,191,689） |
-| Word-like tokens | 约181万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1113万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,130,670） |
+| Word-like tokens | 约180万 | English / CJK mixed corpus 的近似 token count |
 
-> 统计口径：2026-06-21 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
-
-> 实体页深化（Issue #26 Wave A-D）：按 #22 task packet，已用公开资料深化 payments / cards、banks / foreign branches、securities / asset management / leasing、insurance / trust / manufacturer anchors 的 22 个既有实体页。不新增 route，重点补强 business model、监管定位、group / branch / product boundary 与可核验 reading route。
-
-> 阅读体验与规划面（Issue #23 / #32 / #33 / #34）：#23 已改善 entry 页面 article measure、metadata chip 换行、prose rhythm、table containment 与移动端 header overflow。#32 coverage gap-map、#33 AI surface consumability design、#34 provenance / source-completeness audit design 已写入 `docs/`，并包含后续 build task packet。
+> 统计口径：2026-06-20 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
 
 > 实体页深化（Issue #26 Wave A）：2026-06-20 JST 按 #22 task packet，用公开资料深化 `payment-firms/` 与 `card-issuers/` 的 8 个既有实体页。PayPay / Merpay / SB Payment Service / Wise Payments Japan / Net Protections HD / Sumitomo Mitsui Card / PayPay Card / Seven Card Service 已补充 business model、监管定位、group / product boundary，并同步 24 个 ja / en / zh i18n mirror 到当前 hash。
 

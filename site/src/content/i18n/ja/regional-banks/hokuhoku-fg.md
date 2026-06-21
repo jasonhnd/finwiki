@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuhoku-fg
-source_hash: 936266f0d9266216
+source_hash: 8b4044c942af1571
 lang: ja
 status: machine
 fidelity: ok
 title: "ほくほく FG (Hokuhoku FG)"
-translated_at: 2026-06-21T03:00:00.000Z
+translated_at: 2026-06-02T14:25:12.387Z
 ---
 
 # ほくほく FG (Hokuhoku FG)
@@ -91,13 +91,6 @@ translated_at: 2026-06-21T03:00:00.000Z
 - 北海道：観光（インバウンド）+ 農業 + 水産業 + 物流（千歳・苫小牧）
 - 両地盤とも一次産業 / 観光ウェイトが高く、地域経済との連動が深い
 
-## 3. #26 深化: 2 銀行持株会社の運営モデル
-
-- ほくほく FG は「北陸銀行 + 北海道銀行」という 2 つの営業地盤を 1 つの上場銀行持株会社に束ねるモデルであり、単一県内の地銀 HD とは読み方が違う。公式英語サイトと IR surface は、金融結果・統合報告・有価証券報告書を持株会社単位で開示している。
-- 事業モデルの核は、北陸側の製造業・観光・中小企業金融と、北海道側の農業・水産・観光・物流金融を同じ資本・リスク管理・デジタル投資基盤で支えること。地理的には離れているが、両地域とも広域で人口密度が低く、店舗・人員・システム投資の効率化が共通課題になる。
-- 規制上は銀行持株会社として金融庁監督を受け、傘下の北陸銀行・北海道銀行はそれぞれ銀行免許を持つ運営銀行である。FinWiki では [[regional-banks/hokuriku-bank|北陸銀行]] と [[regional-banks/hokkaido-bank|北海道銀行]] を営業実体、ほくほく FG を資本・統合管理・広域戦略の親ページとして分ける。
-- 比較対象は、複数県を束ねる [[regional-banks/fukuoka-fg|ふくおか FG]] や [[regional-banks/mebuki-fg|めぶき FG]]、北海道側の競合である [[megabanks/ndfg|北洋銀行]]。ほくほく FG の特徴は、隣接県連合ではなく、北陸と北海道という遠隔 2 地盤を同時に持つ点にある。
-
 ## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 北陸財務局 / 北海道財務局
@@ -118,9 +111,6 @@ translated_at: 2026-06-21T03:00:00.000Z
 - **Wikipedia: ほくほくフィナンシャルグループ**（https://ja.wikipedia.org/wiki/ほくほくフィナンシャルグループ, 2026-05-19 抽出）
 - **Wikipedia: 北陸銀行**（https://ja.wikipedia.org/wiki/北陸銀行, 2026-05-19 抽出）
 - **Wikipedia: 北海道銀行**（https://ja.wikipedia.org/wiki/北海道銀行, 2026-05-19 抽出）
-- Hokuhoku Financial Group official English site：https://www.hokuhoku-fg.co.jp/english/
-- Hokuhoku Financial Group IR information：https://www.hokuhoku-fg.co.jp/english/ir/
-- Hokuhoku Financial Group Integrated Report 2024：https://pdf.irpocket.com/C8377/PEbr/ooUT/py8l.pdf
 
 ---
 

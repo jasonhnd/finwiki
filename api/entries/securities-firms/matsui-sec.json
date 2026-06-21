@@ -20,8 +20,8 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-19",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -33,11 +33,7 @@
     "sources": [
       "Wikipedia: 松井証券 (公開情報、2026-05-19 抽出)",
       "松井証券 公式コーポレートサイト・IR セクション (公開情報)",
-      "東証・JPX 上場会社情報 (公開ベース)",
-      "https://www.matsui.co.jp/company/information/about/",
-      "https://www.matsui.co.jp/company/information/important_sheet/",
-      "https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf",
-      "https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf"
+      "東証・JPX 上場会社情報 (公開ベース)"
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -54,7 +50,7 @@
     "差別化ポイント"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "megabanks/mufg",
       "megabanks/ndfg",
@@ -64,7 +60,6 @@
       "securities-firms/daiwa-sg",
       "securities-firms/monex-group",
       "securities-firms/nomura-hd",
-      "securities-firms/rakuten-securities",
       "securities-firms/sbi-securities",
       "securities-firms/smbc-nikko",
       "securities/INDEX"
@@ -78,7 +73,6 @@
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/INDEX"
@@ -87,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5407,
-    "word_like_tokens": 766,
+    "nonspace_chars": 3961,
+    "word_like_tokens": 568,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-21"
+    "last_modified": "2026-06-08"
   }
 }

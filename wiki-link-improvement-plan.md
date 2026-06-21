@@ -49,7 +49,7 @@
 | `FinWiki` | 1 | 0 | 46.0 |
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 41 | 0 | 13.5 |
-| `asset-managers` | 15 | 0 | 18.7 |
+| `asset-managers` | 15 | 0 | 18.4 |
 | `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
 | `card-issuers` | 24 | 0 | 16.4 |
@@ -69,13 +69,13 @@
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
-| `foreign-financial-institutions` | 58 | 0 | 12.3 |
+| `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `leasing-firms` | 24 | 0 | 22.5 |
-| `life-insurers` | 47 | 0 | 11.6 |
+| `leasing-firms` | 24 | 0 | 22.3 |
+| `life-insurers` | 47 | 0 | 11.5 |
 | `loyalty` | 17 | 0 | 22.4 |
-| `manufacturer-finance` | 14 | 0 | 17.5 |
+| `manufacturer-finance` | 14 | 0 | 17.4 |
 | `megabanks` | 20 | 0 | 15.9 |
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
@@ -84,16 +84,16 @@
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `regional-banks` | 136 | 0 | 14.1 |
+| `regional-banks` | 136 | 0 | 14.0 |
 | `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
-| `securities-firms` | 37 | 0 | 19.4 |
+| `securities-firms` | 37 | 0 | 19.3 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
-| `trust-banks` | 48 | 0 | 12.7 |
+| `trust-banks` | 48 | 0 | 12.6 |
 
 ## canonical_anchor Integrity (drift-gated)
 
