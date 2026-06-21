@@ -23,6 +23,15 @@
 | 🟢 | #19 / #20 / #21 | i18n 批次 | #19 financial-licenses 镜像迁移；#20 cooperative-banks 缺译 + 清 en needs_review；#21 stale 分类 + 刷新（C-1 re-sync / C-2a remap / C-2b 重译）。 |
 | 🟢 | — | **i18n stale 清零（2026-06-19）** | #21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部 opus 重译。`i18n:status` **stale ja/zh/en = 0/0/0**（current=1436、fidelity ok、orphaned/missing/drift 全 0）。详见 [CHANGELOG](../../CHANGELOG.md)。 |
 
+## 2026-06-21 issue artifacts
+
+| Status | GitHub | Item | Note |
+|---|---|---|---|
+| next | #32 | Japanese-finance coverage gap-map | Drafted [japanese-finance-coverage-gap-map.md](../02-product/japanese-finance-coverage-gap-map.md); marks covered / thin / missing across sub-sector, entity type, and regulatory regime. |
+| later | #33 | AI surface consumability design | Drafted [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md); recommends static-first API enrichment and MCP deferral. |
+| next | #34 | provenance / source-completeness audit design | Drafted [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md); defines claim signals, marker proximity heuristic, report shape, and build packet. |
+| later | #23 | human-site reading experience | Drafted [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md); implementation keeps the current reference layout and improves entry reading. |
+
 ## historical canonical_anchor（P1）
 
 | 状态 | 项目 | 备注 |

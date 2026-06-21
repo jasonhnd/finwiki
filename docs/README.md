@@ -119,6 +119,15 @@
 |---|---|
 | [Site Development Plan](99-archive/site-development-plan.md) | 旧 `site/` 开发计划归档，不再作为当前计划入口。 |
 
+## 2026-06-21 Issue Artifacts
+
+| Issue | Artifact | Purpose |
+|---|---|---|
+| #23 | [Human-Site Reading Experience Pass](05-functional-specs/human-site-reading-experience-pass.md) | Entry-reading improvement spec and implementation task packet. |
+| #32 | [Japanese-Finance Coverage Gap Map](02-product/japanese-finance-coverage-gap-map.md) | Gap-driven should-cover vs have map, prioritized gaps, and do-not-cover scope. |
+| #33 | [AI Surface Consumability Design](05-functional-specs/ai-surface-consumability-design.md) | Static-first AI surface enrichment design and follow-up build packet. |
+| #34 | [Provenance / Source-Completeness Audit](07-quality/provenance-source-completeness-audit.md) | Claim-signal, marker-density, report-shape, and false-positive control design. |
+
 ## Operating Rules
 
 - `docs/README.md` 是唯一开发文档入口；新增开发文档必须在这里挂载。
