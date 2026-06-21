@@ -8,8 +8,8 @@ aliases:
   - "card-issuers/sumitomo-mitsui-card"
 domain: card-issuers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-06-20
+last_tended: 2026-06-20
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, credit-card, acquirer, consumer-credit]
@@ -43,10 +43,20 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 ## 2. Business role
 
 - Credit-card issuing and merchant services sit at the center of SMFG's retail cashless strategy.
-- The company connects bank account, card, point, app, and merchant acceptance rails.
-- It is also a useful boundary page for distinguishing SMFG's bank balance-sheet business from payment-network and credit-sales businesses.
+- The company connects bank account, card, point, app, merchant acceptance, transaction services, and affiliated consumer-finance rails.
+- The official company outline lists credit-card, debit / prepaid and other payment services, loan, guarantee, credit-sales, and transaction businesses, so SMBC Card should be read as a multi-lane payments / consumer-credit operator rather than only a card issuer.
+- It is also a useful boundary page for distinguishing SMFG's bank balance-sheet business from payment-network, credit-sales, and merchant-acquiring businesses.
 
-## 3. Why this standalone page matters
+## 3. SMFG platform and regulatory boundary
+
+| Layer | Public-source reading |
+|---|---|
+| Group role | The company outline identifies SMFG as shareholder and places SMBC Card inside the core SMBC group payment surface. |
+| Business lines | Official pages describe card, credit-sales, and transaction businesses; this makes SMBC Card both issuer and merchant / transaction-services operator. |
+| Olive / V Point adjacency | Public SMBC group positioning makes the card company one of the operating layers behind bank-account, card, app, and point bundling. Keep the bank page and card-company page separate when discussing deposits versus card credit. |
+| Regulation | METI registered-operator lists and official lending / card-number disclosures are the public control points for Installment Sales Act, card-number handling, and consumer-credit boundaries. |
+
+## 4. Why this standalone page matters
 
 Parent FG pages hide the operating-company boundary. SMBC Card is the entity that analysts need when comparing issuer economics, merchant-acquiring risk, card-number contract management, and consumer-credit regulation.
 

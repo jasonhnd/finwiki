@@ -128,7 +128,7 @@
 
 - **Master matrix**: [business/japan-listed-corp-strategic-restructuring-matrix](business/japan-listed-corp-strategic-restructuring-matrix)
 - **Recent canonical cases**: [business/sony-fg-partial-spinoff-case](business/sony-fg-partial-spinoff-case), [business/softbank-vision-fund-arm-ipo-template](business/softbank-vision-fund-arm-ipo-template), [corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case](corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case), [business/rakuten-group-mobile-finance-bundling-case](business/rakuten-group-mobile-finance-bundling-case)
-- **Spinoff regime**: [corporate-strategy/partial-spinoff-tax-deferral](corporate-strategy/partial-spinoff-tax-deferral), [corporate-strategy/spinoff-decision-tree-japan](corporate-strategy/spinoff-decision-tree-japan), [corporate-strategy/kabushiki-koufu-stock-distribution-regime](corporate-strategy/kabushiki-koufu-stock-distribution-regime)
+- **Spinoff regime**: [corporate-strategy/japan-kabushiki-bunpai-spinoff-regime](corporate-strategy/japan-kabushiki-bunpai-spinoff-regime), [corporate-strategy/spinoff-decision-tree-japan](corporate-strategy/spinoff-decision-tree-japan), [corporate-strategy/kabushiki-koufu-stock-distribution-regime](corporate-strategy/kabushiki-koufu-stock-distribution-regime)
 
 ## TASK: Map Japan money-market structure (call / repo / CP / NCD / TBill / MMF / BoJ ops)
 

@@ -61,9 +61,11 @@
 | [Astro Site Architecture](04-architecture/astro-site-architecture.md) | `site/` 的 Astro 渲染结构与构建边界。 |
 | [Theme System](04-architecture/theme-system.md) | CSS token、light/dark theme、视觉方向与组件样式边界。 |
 | [Content Model](04-architecture/content-model.md) | entry、domain index、control doc、release note 的数据模型。 |
+| [Fact Freshness And Source Recheck](04-architecture/fact-freshness-source-recheck.md) | 事实 freshness / source recheck 的信号、cadence、report command 形状和后续 build task packet。 |
 | [i18n Architecture](04-architecture/i18n-architecture.md) | 机器翻译层、source hash、fallback 与 mirror 规则。 |
 | [AI Discovery Architecture](04-architecture/ai-discovery-architecture.md) | `llms*`、`ai-index.json`、API、sitemap 的生成关系。 |
 | [Canonical Anchor](04-architecture/canonical-anchor.md) | mirror page 与 canonical identity 的设计规则。 |
+| [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md) | #29 实体图建全设计：entity-node selection、typed relationship taxonomy、discovery representation 和后续 build task packets。 |
 | [ADR](04-architecture/adr.md) | 架构决策记录汇总。 |
 | [JapanFG Split Design](04-architecture/japanfg-split-design.md) | JapanFG 物理拆分设计与执行记录。 |
 
