@@ -8,7 +8,6 @@ export const CONTROL_DOCS = new Set([
   "README.md",
   "CHANGELOG.md",
   "AGENTS.md",
-  "CONTRIBUTING.md",
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",
   "wiki-link-improvement-plan.md",

@@ -30,42 +30,9 @@
 | 2026-06-09（#10–#12） | **GitHub-Issue 运营模型** | #10 现行 UI/UX 保留为 baseline 并关闭；#11 5 类 issue 模板 + config；#12 issue 驱动运营模型写进 `AGENTS.md` + `model-agent-workflow.md`（含 `.github` dual-exclusion）。 |
 | 2026-06-09（#13 / #18） | UI baseline 文档化 + index.html 计数同步 | #13 现行 UI/UX baseline 文档（`needs-review`）；#18 index.html og/正文三语计数纳入 `release.ts` 同步、清除拆分前残留计数。 |
 
-## 前向 Roadmap（价值阶段 · 2026-06-20 起）
+## 当前下一阶段
 
-### 北极星 / Thesis
-**FinWiki = 日本金融的权威、公开来源、三语参考。** 一套严格溯源的语料 + 实体图，为人类读者（站点）与 AI agent（发现面）两扇门**同等一流**地渲染。**受控单人开发，不收外部贡献。** 押注：**一个可信内核，两扇同样好的门**——内核每进一分，两扇门同时受益。
-
-### 阶段转折
-**控制阶段已收官**（#1–#21：`.txt` / docs / i18n / 部署 工具门禁 + GitHub-Issue 运营模型 + UI baseline；**i18n stale 已清零** ja/zh/en=0，2026-06-19；明细见上方「已完成里程碑」与 [CHANGELOG](../../CHANGELOG.md)）。下一阶段从「控制」转向「**内核价值**」：让事实更真、结构更强、深度更够。开发由受控 agent 管线按 GitHub issue 执行（[Model-Agent Workflow](../06-implementation/model-agent-workflow.md)；规划入口 [next-development-plan.md](next-development-plan.md)）。
-
-### 支柱（issue 挂在支柱下；规划 issue 出 packet → 解锁执行 issue）
-
-| 支柱 | 目标 | Issue |
-|---|---|---|
-| **P0 内核·真实性** | 事实"还为真" + 跨页自洽 | 事实新鲜度 **#28**(设计·p1) → 实现；跨页一致性 **#30**(设计·p2) → 实现 |
-| **P1 内核·结构** | 实体图 12 anchor → 数百、关系成类型化边——把散文 wiki 升级为**可查询实体知识图谱** | 实体图建全 **#29**(分阶段设计·p1) → 实现 |
-| **P2 内核·深度与覆盖** | 实体页深化 + 覆盖按缺口驱动 | 深化 **#22**(packet 已出) → **#26**(执行)；覆盖 gap-map（P2，later 立项）；小域扩充 **#25**(已决定：无触发不扩) |
-| **门面**（次要：同一内核的两种渲染） | 人类站可读性 / AI 可消费性 | 人类站 **#23**(待规格)；AI API / entity-edge 深化（later） |
-| **维护门禁** | 结构性新鲜度持续绿 | 域 INDEX 计数 **#24**；现有 release / i18n / link 门禁常绿 |
-
-### 时区
-- **now（agent-ready，可立即派）**：**#29** 实体图建全设计 · **#28** 事实新鲜度设计 · **#30** 跨页一致性设计 · **#26** 实体深化执行（#22 packet 已就绪）· **#24** 域 INDEX 计数
-- **next**：#28 / #29 / #30 各自的**实现** issue（设计 unlock 后）· 覆盖 gap-map 立项
-- **later**：**#23** 人类站阅读体验（先补规格）· **#25** 小域扩充（已决定：无公开来源触发不扩）· AI 门面 API / entity-edge 深化
-
-### 价值信号（在结构性门禁之外补）
-- **实体图覆盖率**：`entity_anchors` / 主要实体数（现 **12** / 数百，逐批拉升；#29 定义）
-- **事实新鲜度**：语料在 fact-freshness SLA 内的占比 %（#28 定义）
-- **跨页一致性**：consistency audit issues = **0**（#30 定义）
-
-### 非目标（明确不做）
-**不收外部贡献**（受控单人开发；外部 PR 会打乱开发计划）· 日本核心之外的地理扩张 · 投资/交易建议或实时行情 · 需登录/私有 API 才能验证的内容 · 不服务内核的门面打磨。（另见文末「不在范围」。）
-
-2026-06-20 planning update: Issue #22 now has a read-only execution packet, [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md), with 22 candidate entity pages batched for the downstream #26 content issue.
-
-2026-06-20 planning update: Issue #25 re-scope is documented in [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md); decision is no further small-domain expansion until a concrete public-source trigger appears.
-
-2026-06-20 planning update: Issue #29 canonical-entity graph design is documented in [canonical-entity-graph-design.md](../04-architecture/canonical-entity-graph-design.md). The design keeps `canonical_anchor` for mirror identity, adds a future explicit `entity_node` / `entity_edges` layer, and defines infrastructure / anchor-backfill / typed-edge build packets.
+开发改为 **GitHub Issues 驱动**（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model；规划入口仍参考 [next-development-plan.md](next-development-plan.md)）。**截至 2026-06-19，GitHub #1–#21 全部关闭、无 open issue。** 已完成：Phase A–D 工具/运维门禁（#1–#7：`.txt` route audit、docs link checker、active-doc stale scan、generated-surface drift scan、read-only i18n status、部署 runbook + 事故 playbook）、GitHub-Issue 运营模型 + 模板（#10–#12）、UI baseline 文档（#13）、index.html 三语计数同步（#18）、规划/对账任务包（#14–#17）、Phase E 内容（#8 v12 双批去重：3 合并退役 3 页 / #9 日本信托业 license stack 页）、i18n 批次（#19/#20/#21）。**i18n stale 已清零（2026-06-19）**：#21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部经对话内 opus subagent 重译，`i18n:status` **stale ja/zh/en = 0/0/0**（current=1436、fidelity ok、orphaned/missing/drift 全 0；详见 [CHANGELOG](../../CHANGELOG.md)）。**下一阶段待新 issue 立项**（候选方向：实体内容继续深化 / 选择性小域扩充 / UI 演进——均先开 issue 再做）。
 
 ## 历史近期重点（P1 → P4）
 
