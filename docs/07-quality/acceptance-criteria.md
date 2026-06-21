@@ -22,6 +22,7 @@
 - `README.md`, `CHANGELOG.md`, release note and generated surfaces are synchronized.
 - `release.ts --check --strict` exits 0.
 - `wiki_link_audit.ts --fail-on-issues` exits 0.
+- `entity:audit` exits 0 whenever `entity_node`, `entity_edges`, entity graph parser logic, or AI discovery graph output changes.
 - `docs/` is still excluded from corpus, sitemap, llms, ai-index, API and site.
 - Generated AI/API surfaces do not expose `docs/` as crawlable markdown links or retain stale moved-entry API files.
 
