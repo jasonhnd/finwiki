@@ -1,11 +1,11 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: fbc3eb642ea704be
+source_hash: 4a6774615a627d7f
 lang: en
 status: machine
 fidelity: ok
 title: "松井証券株式会社 (Matsui Securities)"
-translated_at: 2026-06-19T12:43:19.907Z
+translated_at: 2026-06-21T03:30:00.000Z
 ---
 
 # 松井証券株式会社 (Matsui Securities)
@@ -86,6 +86,14 @@ Matsui Securities holds a "mid-tier next to the top 5 行" position next to the 
 - **Long-term customer base**: a long-established brand founded in 1918  + the credibility of an internet-brokerage pioneer
 - **Independent**: firmly maintaining its own path without entering the umbrella of a megabank / telecom company / distribution group
 
+## 3. #26 deepening: online brokerage economics and FIEA boundary
+
+Matsui Securities' FY2024 annual securities report describes its main business as online securities trading services for individual investors, covering Japanese equities, futures and options, investment trusts, FX and related products in a single segment. This page should therefore read Matsui as a self-contained online brokerage operating company rather than as a financial group that also owns banking or insurance businesses.
+
+The revenue lens is broader than cash-equity brokerage commissions. Margin trading interest and stock-lending related income, FX, U.S. equities, investment trusts, and NISA / iDeCo product expansion all matter. The official company profile's emphasis on active customers, competitive pricing and trading-platform reliability should be treated as online-brokerage economics based on low unit pricing, frequent transactions and high system uptime rather than face-to-face advice. The 2023 MATSUI Bank service is best read as a securities-account convenience extension using external banking functionality, not as evidence that Matsui owns a bank subsidiary.
+
+On the regulatory boundary, Matsui Securities is a financial instruments business operator registered as Director-General of the Kanto Local Finance Bureau (Kinsho) No. 164, and is a member of the Japan Securities Dealers Association and Financial Futures Association of Japan. Compared with [[securities-firms/sbi-securities|SBI Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]] and [[securities-firms/monex-group|Monex Group]], Matsui lacks a large external ecosystem and is better positioned as an independent online broker focused on margin trading, information tools and system stability.
+
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 証券業協会（JSDA）
@@ -107,6 +115,10 @@ Matsui Securities holds a "mid-tier next to the top 5 行" position next to the 
 - **Wikipedia: 松井証券**（https://ja.wikipedia.org/wiki/松井証券, extracted 2026-05-19）
 - 松井証券 公式コーポレートサイト・IR セクション（public information）
 - 東証・JPX 上場会社情報（証券コード 8628、public basis）
+- Matsui Securities, "Company Profile" (https://www.matsui.co.jp/company/information/about/)
+- Matsui Securities, "Important Information Sheet" (https://www.matsui.co.jp/company/information/important_sheet/)
+- Matsui Securities, "Annual Securities Report - 109th fiscal year" (https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf)
+- Matsui Securities, "Integrated Report 2025" (https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf)
 
 ---
 

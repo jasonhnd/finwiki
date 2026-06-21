@@ -477,6 +477,18 @@ hr {
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 560px) {
+  .icon-btn {
+    width: 32px;
+    height: 32px;
+  }
+  .header-tools .lang-switch {
+    display: none;
+  }
+  .lang-switch a {
+    padding-inline: 0.42rem;
+  }
+}
 
 /* ----- Chips / badges / buttons ----- */
 .chip {
@@ -626,23 +638,25 @@ a.wl:hover {
 .prose {
   font-size: var(--fs-base);
   color: var(--ink);
+  max-width: 100%;
+  overflow-wrap: break-word;
 }
 .prose > :first-child {
   margin-top: 0;
 }
 .prose p {
-  margin: 0.9rem 0;
+  margin: 1rem 0;
 }
 .prose h2 {
   font-size: var(--fs-lg);
-  margin: 2.4rem 0 0.7rem;
-  padding-bottom: 0.35rem;
+  margin: 2.75rem 0 0.75rem;
+  padding-bottom: 0.42rem;
   border-bottom: 1px solid var(--line);
   scroll-margin-top: calc(var(--header-h) + 1rem);
 }
 .prose h3 {
   font-size: var(--fs-md);
-  margin: 1.8rem 0 0.5rem;
+  margin: 1.95rem 0 0.55rem;
   scroll-margin-top: calc(var(--header-h) + 1rem);
 }
 .prose h4 {
@@ -653,21 +667,24 @@ a.wl:hover {
 .prose ul,
 .prose ol {
   padding-left: 1.4rem;
-  margin: 0.8rem 0;
+  margin: 0.9rem 0;
 }
 .prose li {
-  margin: 0.35rem 0;
+  margin: 0.4rem 0;
 }
 .prose li::marker {
   color: var(--muted);
 }
 .prose blockquote {
-  margin: 1.2rem 0;
-  padding: 0.6rem 1.1rem;
+  margin: 1.35rem 0;
+  padding: 0.75rem 1.1rem;
   border-left: 3px solid var(--accent);
   background: var(--surface-2);
   color: var(--ink-2);
   border-radius: 0 var(--r) var(--r) 0;
+}
+.prose a {
+  overflow-wrap: anywhere;
 }
 .prose code {
   font-family: var(--font-mono);
@@ -685,6 +702,7 @@ a.wl:hover {
   overflow-x: auto;
   margin: 1.2rem 0;
   border: 1px solid var(--line-2);
+  max-width: 100%;
 }
 .prose pre code {
   background: none;
@@ -697,17 +715,21 @@ a.wl:hover {
   border: 1px solid var(--line);
 }
 .prose hr {
-  margin: 2rem 0;
+  margin: 2.2rem 0;
 }
 
 /* tables — financial reference often leans on them */
 .prose table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1.3rem 0;
+  margin: 1.45rem 0;
   font-size: var(--fs-sm);
   display: block;
   overflow-x: auto;
+  max-width: 100%;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  scrollbar-width: thin;
 }
 .prose th,
 .prose td {
@@ -721,9 +743,34 @@ a.wl:hover {
   font-weight: 650;
   color: var(--ink);
   white-space: nowrap;
+  border-top: 0;
 }
 .prose tbody tr:nth-child(even) {
   background: color-mix(in srgb, var(--surface-2) 50%, transparent);
+}
+.prose h2#sources {
+  color: var(--ink-2);
+}
+.prose h2#sources + ul,
+.prose h2#sources + ol {
+  font-size: var(--fs-sm);
+  color: var(--ink-2);
+}
+
+@media (max-width: 560px) {
+  .prose h2 {
+    margin-top: 2.25rem;
+  }
+  .prose blockquote {
+    padding-inline: 0.85rem;
+  }
+  .prose table {
+    font-size: var(--fs-xs);
+  }
+  .prose th,
+  .prose td {
+    padding: 0.45rem 0.55rem;
+  }
 }
 
 /* ----- Pagefind modal theming ----- */

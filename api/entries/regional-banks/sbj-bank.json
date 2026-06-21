@@ -18,8 +18,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -33,7 +33,9 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://sbjbank.co.jp/about_sbj/about/",
-      "https://www.sbjbank.co.jp/company/history/"
+      "https://www.sbjbank.co.jp/company/profile/",
+      "https://www.sbjbank.co.jp/company/history/",
+      "https://shinhangroup.com/en/about/group/history1"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -43,16 +45,18 @@
     "TL;DR",
     "1. 法人・ライセンス境界",
     "2. Business role",
-    "3. Why standalone page matters",
+    "3. #26 deepening: Shinhan corridor and domestic-bank treatment",
+    "4. Why standalone page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "foreign-financial-institutions/citigroup-japan",
+      "foreign-financial-institutions/hana-bank-japan",
       "foreign-financial-institutions/hsbc-japan",
       "foreign-financial-institutions/korea-development-bank-japan",
       "foreign-financial-institutions/standard-chartered-japan",
@@ -65,6 +69,7 @@
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/hana-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
@@ -77,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1814,
-    "word_like_tokens": 276,
+    "nonspace_chars": 2816,
+    "word_like_tokens": 427,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

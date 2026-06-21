@@ -1,11 +1,11 @@
 ---
 source: leasing-firms/mizuho-lease
-source_hash: 8e52cee4aa69413c
+source_hash: 1af5b1a2f486e16e
 lang: zh
 status: machine
 fidelity: ok
 title: "瑞穗租赁"
-translated_at: 2026-06-19T06:09:18.068Z
+translated_at: 2026-06-21T03:30:00.000Z
 ---
 
 # 瑞穗租赁
@@ -39,6 +39,14 @@ translated_at: 2026-06-19T06:09:18.068Z
 | 飞机／运输 | 残值敞口与国际资产融资 |
 | 全球／丸红联动 | 利用商社网络与海外资产业务 |
 | 瑞穗联动 | 企业客户管道、信用协调及集团金融的邻接性 |
+
+## #26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes
+
+瑞穗租赁不是银行子公司页面，而是一个上市非银 finance platform，其股东和业务关系连接银行 origination、商社资产网络，以及租赁 / 分期销售的资产负债表使用。公开股东表显示 Mizuho Financial Group 与 Marubeni 是主要战略股东，2024 年资本业务联盟公告则把丸红与瑞穗租赁定位为面向国内外金融与租赁增长的合作伙伴。
+
+运营模型不应只按一般设备租赁理解，而应拆成多个 asset-finance lanes。官方集团和服务页面指向房地产、环境 / 能源资产、飞机、冷冻冷藏拖车租赁、海外 finance companies，以及国际 M&A / direct investment 路径。Aircastle 等海外敞口使残值、融资、汇率和航空周期风险都相关；国内企业租赁则把页面锚定在普通日本企业资本开支和供应商融资。
+
+在 JapanFG 分析中，本页是 [[megabanks/mizuho-fg|Mizuho FG]] 与商社 finance logic 之间的桥。[[leasing-firms/smfl|SMFL]] 映射 SMFG + Sumitomo Corporation 版本的同类模式，[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] 映射 Mitsubishi / MUFG 版本。瑞穗租赁的差异点是 2019 年后的 Mizuho 关系叠加 2024 年强化的 Marubeni 联盟，使其同时成为银行邻接 finance arm 和商社联动 asset platform。
 
 ## 战略解读
 
@@ -80,4 +88,6 @@ translated_at: 2026-06-19T06:09:18.068Z
 
 - 瑞穗租赁官方公司信息。
 - 瑞穗租赁股票／股东信息。
+- 瑞穗租赁集团与国际业务页面。
+- Mizuho Leasing Integrated Report 2025。
 - 丸红关于瑞穗租赁资本关系的公告，2024。

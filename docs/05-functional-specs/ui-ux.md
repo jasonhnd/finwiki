@@ -13,6 +13,8 @@ This spec covers:
 
 It does not cover wiki body authoring rules, which live in [Entry Authoring](../06-implementation/entry-authoring.md), or machine discovery surfaces, which live in [AI Discovery Surface](ai-discovery-surface.md).
 
+The scoped #23 reading-experience pass is specified in [Human-Site Reading Experience Pass](human-site-reading-experience-pass.md). That pass may refine entry-page spacing, prose rhythm, table containment, and TOC readability while preserving this baseline.
+
 ## Current Implementation Baseline
 
 The current site implementation is the baseline to preserve. A UI/CSS issue should start from this table, then state the exact delta it wants.

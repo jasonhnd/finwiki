@@ -1,11 +1,11 @@
 ---
 source: life-insurers/lifenet
-source_hash: fdc0bd7f149663fe
+source_hash: ced19fd0304b3a4a
 lang: ja
 status: machine
 fidelity: ok
 title: "ライフネット生命保険"
-translated_at: 2026-06-02T14:54:39.072Z
+translated_at: 2026-06-21T04:10:00.000Z
 ---
 # ライフネット生命保険
 # ライフネット生命保険
@@ -16,13 +16,13 @@ translated_at: 2026-06-02T14:54:39.072Z
 
 ## 要約
 
-**日本初の独立系インターネット専業生命保険会社**。2006-10 出口治明（元日本生命）と岩瀬大輔（元 BCG）が共同創業、2008-05-18 開業。営業職員チャネルを持たず、**全てネット完結**で「シンプル・透明・安い」を売りに 20-30 代若年層をターゲット。2012-03-15 東証マザーズ上場（戦後初のネット生保上場）。**KDDI [[megabanks/au-fh]] が約 28% を保有する戦略的株主**で、au 経済圏と連携。主力は定期死亡保険・医療・がん・就業不能。^[extracted]
+**日本初の独立系インターネット専業生命保険会社**。2006-10 出口治明（元日本生命）と岩瀬大輔（元 BCG）が共同創業、2008-05-18 開業。営業職員チャネルを持たず、**ネット直販を起点**に「シンプル・透明・安い」を売りに 20-30 代若年層をターゲットとしてきた。2012-03-15 東証マザーズ上場（戦後初のネット生保上場）。2026 年 IR では東証 Prime 7157 として開示される。KDDI Group / [[megabanks/au-fh]] は重要な提携・株主関係を持つが、2026-03-31 時点の十大株主表では au Financial Holdings が 18.32% を保有する筆頭株主。主力は定期死亡保険・医療・がん・就業不能で、近年は group credit life insurance (GCL) も成長軸に加わる。
 
 ## 1. 会社概要
 
 **正式名**：ライフネット生命保険株式会社 ^[extracted]
 **英名**：LifeNet Insurance Company
-**証券コード**：東証グロース **7157**（2012-03-15 マザーズ上場 → 東証市場再編でグロースへ）^[extracted]
+**証券コード**：東証 Prime **7157**（2012-03-15 マザーズ上場 → 2026 年 IR では Prime として開示）^[extracted]
 **設立**：2006-10 ^[extracted]
 **開業**：2008-05-18（生命保険業免許取得）^[extracted]
 **業態**：インターネット専業生命保険会社（独立系）^[extracted]
@@ -32,11 +32,11 @@ translated_at: 2026-06-02T14:54:39.072Z
 
 | 株主 | 比率（公開情報） |
 |---|---|
-| **KDDI 株式会社** [[megabanks/au-fh]] | 約 28% 級（戦略的株主、筆頭級）^[extracted] |
+| **au Financial Holdings Corporation** [[megabanks/au-fh]] | 18.32%（2026-03-31、筆頭株主） |
 | セコム グループ | 保有（戦略的株主）^[extracted] |
 | その他機関投資家・個人 | 残余 |
 
-> KDDI は 2015 年に出資参入、その後段階的に持分を引き上げ、au 経済圏 / au フィナンシャル HD [[megabanks/au-fh]] の生保ピースとして位置付け ^[extracted]
+> KDDI は 2015 年に出資参入し、au 経済圏 / au フィナンシャル HD [[megabanks/au-fh]] の生保ピースとして位置付けてきた。2026 年の会社開示では capital alliance の扱いが見直されても business alliance は残るため、株主関係と業務提携を分けて読む。
 
 ### 創業者・経営陣（沿革）
 
@@ -81,6 +81,7 @@ translated_at: 2026-06-02T14:54:39.072Z
 | 2015 | **KDDI 出資・戦略提携**開始 → au 経済圏連携加速 ^[extracted] |
 | 2018-2024 | **黒字化・成長フェーズ**（保有契約件数拡大、ARPU 改善）^[extracted] |
 | 2022 | 東証市場区分再編 → **マザーズ → グロース**移行 ^[extracted] |
+| 2026 | IR 開示で東証 **Prime** 7157 として表示。KDDI Group との capital alliance を見直し、business alliance と株主関係を分離。 |
 
 ### 競合マップ
 
@@ -97,6 +98,14 @@ translated_at: 2026-06-02T14:54:39.072Z
 
 - 「**正直に わかりやすく、安く、便利に**」を創業時から掲げる ^[extracted]
 - 保険業界の不透明さ（手数料構造・乗合代理店の販売インセンティブ等）への対抗軸として打ち出した
+
+## 3. #26 深化: ダイレクト生保の経済性と上場保険会社指標
+
+LifeNet の business model は、単に「保険をオンラインで売る」ではなく、営業職員・店舗コストを持たない direct-to-consumer insurer として、顧客獲得費、保有契約、年換算保険料、insurance service results、IFRS17 上の CSM / comprehensive equity をどう積み上げるかで読む。2026 年の mid-term plan は FY2028 に comprehensive equity 2,000-2,400 億円を目標に置き、個人保険と GCL を別の成長エンジンとして説明する。
+
+規制・健全性の見方では、生命保険業免許と solvency margin ratio が基本である。2025-03 期の会社開示では consolidated solvency margin ratio は 1,722.2% とされ、2026-03 期の IR material では annualized premiums of policies-in-force、insurance service results、GCL contracts value を主要指標として並べる。従来の J-GAAP 保険料収入だけでなく、IFRS17 後の将来利益価値を含む指標で読まないと、ネット生保の成長・黒字化局面を過小評価しやすい。
+
+group relationship では、auFH / KDDI Group との関係を「親会社」ではなく、株主・送客・業務提携の組み合わせとして扱う。2026-03-31 時点で auFH は 18.32% の筆頭株主だが、同時に JAL や金融機関との提携、GCL など複数チャネルが拡大しているため、LifeNet は pure internet life insurer から **digital-origin multi-partner life platform** へ移行中と読む。
 
 ## 4. 規制・政策
 
@@ -118,8 +127,12 @@ translated_at: 2026-06-02T14:54:39.072Z
 - **Wikipedia: ライフネット生命保険**（https://ja.wikipedia.org/wiki/ライフネット生命保険, 2026-05-19 抽出 / 公開情報のみ）
 - **東証グロース 上場会社情報**（証券コード 7157、東京証券取引所）
 - **金融庁 免許業者リスト**（生命保険業）
+- LIFENET INSURANCE COMPANY, "IR Archive"（https://ir.lifenet-seimei.co.jp/en/ir/library.html）
+- LIFENET INSURANCE COMPANY, "Shareholder and Stock Information"（https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html）
+- LIFENET INSURANCE COMPANY, "Overview of the Mid-term Business Plan"（https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/overview.html）
+- LIFENET INSURANCE COMPANY, "Segment business strategies"（https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/strategies_by_business.html）
 
 ---
 
 > [!info] 検証状況
-> 信頼度: **概ね確からしい**（v1.0 Wikipedia + 公開 IR 校核 2026-05-19）。創業年・上場年・主要創業者・KDDI 出資（約 28% 級）等は Wikipedia / 東証公開情報経由。**具体的な持分比率・最新財務数値は時点変動あり**、最新は同社 IR / 有価証券報告書を要参照。本ページは公開情報のみで構成、内部資料・非公開情報は引用していない。
+> 信頼度: **概ね確からしい**（公式 IR / 株主情報 / mid-term plan で 2026-06-21 校核）。旧記述の東証 Growth / KDDI 約 28% は最新 IR と株主表に合わせ、東証 Prime、auFH 18.32% へ修正した。具体的な持分比率・最新財務数値は時点変動があるため、最新は同社 IR / 有価証券報告書を要参照。本ページは公開情報のみで構成、内部資料・非公開情報は引用していない。

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/juroku-fg
-source_hash: 73af20ed9bcfd9f3
+source_hash: 014edbc79bbf2575
 lang: zh
 status: machine
 fidelity: ok
 title: "十六 FG（Juroku Financial Group）"
-translated_at: 2026-06-19T12:43:19.867Z
+translated_at: 2026-06-21T03:00:00.000Z
 ---
 
 # 十六 FG（Juroku Financial Group）
@@ -90,6 +90,13 @@ translated_at: 2026-06-19T12:43:19.867Z
 
 - TSMC 熊本工厂（JASM）的波及效应被认识为中京圈整体半导体生态系统的扩张
 
+## 4. #26 深化：单一银行控股公司与区域服务集团
+
+- Juroku FG 是十六银行于 2021-10 转向控股公司体制后形成的单一核心银行型 regional financial group。Annual Report 2024 将十六银行追溯至 1877 年 10 月设立的第十六国立银行，并说明 2021 年设立十六 FG 是为了转向区域综合金融服务集团。
+- 业务模型应读作“岐阜县 No.1 地银 + 爱知县西部越境 + 非银行子公司”。除核心银行业务外，信用保证、租赁、卡、区域商社和事业承继等功能被置于控股公司之下，使集团从贷款扩展到承继、设备投资和区域 DX 接点。
+- 岐阜银行吸收合并是岐阜县地银重组的制度性节点。与 FSA 2012 年合并认可并读，当前十六 FG 页面连接了明治时期编号银行谱系与平成 / 令和时期地银重组。
+- 关键比较对象包括与 [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]] 的县内二强格局、与 [[regional-banks/aichi-fg|あいち FG]] 的中京圈越境，以及 [[regional-banks/shizuoka-fg|しずおか FG]] 等单一银行 HD 结构。不要把它压平成多银行整合 FG；它是单一核心银行 HD 扩展非银行服务的模型。
+
 ## 5。监管・政策
 
 - **主管**：金融厅（FSA）+ 东海财务局
@@ -123,6 +130,8 @@ translated_at: 2026-06-19T12:43:19.867Z
 - **Wikipedia: 十六銀行**（https://ja.wikipedia.org/wiki/十六銀行, 2026-05-19 抽出）
 - **金融厅: 关于银行的合并**（十六银行・岐阜银行的合并认可，2012-09-10）https://www.fsa.go.jp/news/24/ginkou/20120910-1.html — 岐阜银行于 2012-09-18 **被十六银行**吸收合并（并非大垣共立银行）
 - **Wikipedia: 岐阜銀行** https://ja.wikipedia.org/wiki/岐阜銀行 （2026-05-29 确认）— 2009 资本支援请求 → 2010-12-22 十六银行完全子公司化 → 2012-09-18 被十六银行吸收合并
+- Juroku Financial Group Annual Report 2024：https://www.16fg.co.jp/ir/disclosure/files/annual_report_2024.pdf
+- Juroku Financial Group disclosure library：https://www.16fg.co.jp/ir/disclosure/
 
 ---
 
