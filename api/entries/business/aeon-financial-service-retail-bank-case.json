@@ -41,7 +41,13 @@
       "https://www.aeonfinancial.co.jp/en/ir/info/member/",
       "https://www.aeon.com.hk/en/corporate-info/company-profile.html",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case: a retail (supermarket) conglomerate that built a full financial holding rather than a single utility rail. Read it against Seven Bank ATM-platform + deconsolidation case — the cleanest contrast, since Seven & i monetised store",
   "headings": [

@@ -48,7 +48,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.shintaku-kyokai.or.jp/archives/013/202305/NR20230530-1.pdf",
       "https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index and connects the pension-side demand to the trust-bank supply. Read it with the institutional anchors MTBJ and CBJ, the operating models Master Trust Bank operating model and Custody Bank operating model, the landscape view Japan master trust and custody bank land",
   "headings": [

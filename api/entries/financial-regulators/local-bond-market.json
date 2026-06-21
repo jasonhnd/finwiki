@@ -35,7 +35,13 @@
       "https://www.jfm.go.jp/en/index.html",
       "https://www.mof.go.jp/filp/summary/filp_local/tihousaiseidonogaiyou.htm",
       "https://www.stat.go.jp/english/data/nenkan/1431-05e.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against Japan policy-finance map for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

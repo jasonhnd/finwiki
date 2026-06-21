@@ -33,7 +33,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Sumire Regional Trust policy page: https://www.sumiretrust.co.jp/policy/",
       "Zentaku case page: https://www.zentaku.or.jp/about/research_project/renovation/renovation-10582/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/sumire-regional-trust",
   "headings": [

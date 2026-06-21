@@ -36,7 +36,13 @@
       "https://www.7andi.com/en/company/profile",
       "https://www.rokt.com/blog/retail-media-in-japan-isnt-emerging-its-evolving",
       "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/12/23/2511_i_takashima_e.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This is the control / concept page behind the retail-finance group entries on the retail INDEX. Where the group pages (AEON Group, Seven & i Holdings, Lawson + KDDI) describe who owns which finance stack, this page isolates the underlying mechanism they all share: physical store traffic is a distrib",
   "headings": [

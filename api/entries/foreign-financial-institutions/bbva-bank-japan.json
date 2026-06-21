@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.bbva.com/en/bbva-in-asia/",
       "https://www.bbva.com/es/contacto/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

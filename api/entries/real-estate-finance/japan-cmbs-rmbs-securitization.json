@@ -47,7 +47,13 @@
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
       "https://www.jhf.go.jp/about/investor/shisan_tanpo/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's mortgage-backed securitization market splits cleanly into two strands. RMBS (residential mortgage-backed securities) is dominated by Japan Housing Finance Agency (JHF) monthly Monthly Pass-Through MBS issuance backed by Flat 35 fixed-rate housing loans originated through private bank channel",
   "headings": [

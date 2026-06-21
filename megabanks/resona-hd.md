@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: りそなホールディングス (2026-05-19 抽出)"
   - "Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ"
   - りそな HD 公式 IR / 統合報告書
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # りそなホールディングス (Resona Holdings)

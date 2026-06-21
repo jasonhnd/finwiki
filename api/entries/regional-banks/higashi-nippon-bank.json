@@ -34,7 +34,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.higashi-nipponbank.co.jp/about/company/outline.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 横浜銀行 for the same-group peer / contrast (the FG's other operating bank), and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent コンコルディア・フィナンシャルグループ page.",
   "headings": [

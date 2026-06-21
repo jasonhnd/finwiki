@@ -28,7 +28,13 @@
       "infrastructure"
     ],
     "status": "active",
-    "sources": []
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "systems/ contains 61 entries (excluding INDEX, 62 total) about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.",
   "headings": [

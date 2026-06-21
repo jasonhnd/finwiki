@@ -41,7 +41,13 @@
       "https://www.jftc.go.jp/en/",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the group-capital overlay. It is a structure-selection guide, not a regime page: it picks among the regimes documented in 株式交換 / 株式移転 regime and 会社分割 tax regime. Read it alongside the spinoff decision tree for the dives",
   "headings": [

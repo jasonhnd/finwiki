@@ -45,7 +45,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.cmegroup.com/markets/equities/international-indices/nikkei-225.html",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) is the largest exchange-traded derivative product set in Japan by daily turnover and the canonical hedge instrument for Japanese equity-beta exposure. The complex contains three principal c",
   "headings": [

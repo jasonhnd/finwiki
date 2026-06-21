@@ -24,6 +24,10 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://www.fsa.go.jp/common/law/guide/coop/"
   - "https://laws.e-gov.go.jp/law/326AC0000000238"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # National Association of Shinkin Banks (Zenshin-kyō / 全国信用金庫協会)

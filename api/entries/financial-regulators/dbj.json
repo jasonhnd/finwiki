@@ -32,7 +32,17 @@
     "sources": [
       "Wikipedia: 株式会社日本政策投資銀行 (2026-05-19 抽出)",
       "DBJ 公式サイト (会社概要・沿革, 2025 更新)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -71,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3384,
-    "word_like_tokens": 493,
+    "nonspace_chars": 3451,
+    "word_like_tokens": 503,
     "inbound_wikilinks_count": 36,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

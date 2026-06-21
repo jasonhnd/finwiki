@@ -18,6 +18,10 @@ sources:
   - "https://www.aeonfinancial.co.jp/corp/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
   - "https://www.j-credit.or.jp/"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # イオンフィナンシャルサービス (AEON Financial Service)

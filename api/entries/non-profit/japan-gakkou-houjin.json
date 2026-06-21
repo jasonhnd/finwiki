@@ -40,7 +40,13 @@
       "https://www.mext.go.jp/a_menu/koutou/shinkou/07021403/002.htm",
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
       "https://www.shigaku.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX as the education-specific non-profit legal person, created under its own statute (私立学校法) rather than the 一般法人法 family compared in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. Like the foundation forms it is endowment/asset-governed rather than membership-governed,",
   "headings": [

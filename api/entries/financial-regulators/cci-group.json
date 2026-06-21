@@ -38,7 +38,13 @@
       "https://www.ccig.co.jp/company/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf",
       "https://www.ccig.co.jp/ir/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "CCI Group is the current-name bank-holding-company page for the former Hokkoku Financial Holdings route. Read it with Hokkoku Bank, regional bank API / digital partnership, deposit-token / digital-money routes, and banking domain.",
   "headings": [

@@ -13,6 +13,17 @@ sources:
   - "https://www.rakuten-card.co.jp/corporate/"
   - "https://www.rakuten-card.co.jp/corporate/info/about/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: payment-firms/rakuten-fg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 楽天カード (Rakuten Card)

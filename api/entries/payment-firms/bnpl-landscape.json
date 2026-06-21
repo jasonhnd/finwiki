@@ -36,7 +36,13 @@
       "https://paidy.com/company/",
       "https://investor.pypl.com/news-and-events/news-details/2021/PayPal-to-Acquire-Paidy/default.aspx",
       "https://newsroom.jp.paypal-corp.com/2021-09-07-PayPal-to-Acquire-Paidy"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against 楽天カード (Rakuten Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

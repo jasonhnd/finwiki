@@ -38,7 +38,13 @@
       "https://www.fsa.go.jp/koueki/koueki10h.html",
       "https://www.zenginkyo.or.jp/fileadmin/res/abstract/council/openapi/openapi_text_1.pdf",
       "https://www.fapi.or.jp/link/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's bank API / electronic payment agency route is the legal and operating bridge between banks and fintech apps that obtain account information, initiate account-linked instructions, or connect customer-facing services to deposit-account rails. It is not the same as being a bank, funds-transfer",
   "headings": [

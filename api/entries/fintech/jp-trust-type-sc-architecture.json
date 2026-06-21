@@ -32,13 +32,13 @@
       "td"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://progmat.co.jp/",
-      "https://www.mufg.jp/english/",
-      "https://www.smtb.jp/business/digital_assets/",
-      "https://elaws.e-gov.go.jp/document?lawid=418AC0000000108"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it against 多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [

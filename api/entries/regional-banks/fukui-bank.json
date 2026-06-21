@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.fukuibank.co.jp/aboutus/overview/profile/",
       "https://www.fukuibank.co.jp/merger/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 北陸銀行 for the neighbouring-Hokuriku peer / contrast, and against the FSA plus banking for the supervisory / system boundary. License-type context lives in financial licenses.",
   "headings": [

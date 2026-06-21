@@ -41,7 +41,13 @@
       "https://www.fsa.go.jp/common/shinsei/dendai/dentori.html",
       "https://www.fsa.go.jp/common/law/guide/city/9.html",
       "https://www.zenginkyo.or.jp/abstract/council/openapi/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan BaaS and embedded-banking records separate the licensed bank layer from the customer-interface layer. The controlling public category for deposit-taking is the Banking Act bank-license route, while partner-branded apps, account-information services, payment-instruction services, and bank-agenc",
   "headings": [

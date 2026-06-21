@@ -45,7 +45,13 @@
       "https://www.mizuho-fg.com/investors/index.html",
       "https://www.smtb.jp/english/investors",
       "https://www.tr.mufg.jp/english/ir/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan commercial real-estate (CRE) lending is a layered system. Megabanks anchor large project finance and J-REIT sponsor loans. Trust banks bridge balance-sheet lending with real-estate trust functions, appraisal, and asset administration. Regional banks have grown CRE concentration to offset core",
   "headings": [

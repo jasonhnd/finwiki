@@ -32,7 +32,13 @@
       "Domain index maintained from public FinWiki entries and source-backed entry frontmatter.",
       "https://www.fsa.go.jp/menkyo/menkyoj/kashikin.html",
       "https://www.j-fsa.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "consumer-finance/ contains 5 active entries (excluding INDEX, 6 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
   "headings": [
@@ -84,6 +90,6 @@
     "nonspace_chars": 4274,
     "word_like_tokens": 681,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

@@ -34,7 +34,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
       "https://www.fsa.go.jp/policy/prepaid/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "FSA's third-party prepaid payment instrument issuer list contains 803 issuers as of 2026-04-30. This page is the registry-control route for the prepaid issuer surface. It does not reproduce all 803 rows; the official FSA workbook remains the complete row-level source of truth.",
   "headings": [

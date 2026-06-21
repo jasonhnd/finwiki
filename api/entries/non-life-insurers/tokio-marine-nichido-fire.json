@@ -36,6 +36,41 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.sonpohogo.or.jp/outline/member-companies.html",
       "https://www.tokiomarine-nichido.co.jp/"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/insurance-license-and-solvency",
+        "evidence": "insurance_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "non-life-insurers/tokio-marine",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against 東京海上ダイレクト損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -77,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2304,
-    "word_like_tokens": 355,
+    "nonspace_chars": 2898,
+    "word_like_tokens": 450,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

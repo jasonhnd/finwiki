@@ -37,7 +37,13 @@
       "https://www.jfm.go.jp/about/outline.html",
       "https://www.jfm.go.jp/en/",
       "https://www.chihousai.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan Finance Organization for Municipalities is the joint-funded public credit institution that supplies long-term low-cost loans to all 47 prefectures and municipalities for water, sewerage, transport, hospital, school, disaster-recovery, and general local-finance needs. It is not a national-gover",
   "headings": [

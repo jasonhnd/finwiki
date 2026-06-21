@@ -44,7 +44,13 @@
       "https://docs.cdp.coinbase.com/",
       "https://solanamobile.com/",
       "https://docs.anthropic.com/en/docs/claude-code/overview"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes the AI-agent payment + wallet stack: HTTP-native protocols (x402), commerce mandate protocols (AP2), wallet permission delegation (ERC-7715 on top of 4337/7702), embedded-wallet operators (Privy, Coinbase CDP), and OS-layer alternatives (Solana Saga / Seeker mobile). It also track",
   "headings": [

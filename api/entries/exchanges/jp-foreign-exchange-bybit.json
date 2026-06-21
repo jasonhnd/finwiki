@@ -29,14 +29,13 @@
       "bybit"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
-      "https://www.neweconomy.jp/posts/435203",
-      "https://en.wikipedia.org/wiki/Bybit",
-      "https://www.financemagnates.com/cryptocurrency/regulation/fsa-warns-of-bybit-operating-unregistered-crypto-services-in-japan/",
-      "https://coinpost.jp/?s=Bybit+%E9%87%91%E8%9E%8D%E5%BA%81",
-      "https://www.thestreet.com/crypto/policy/japan-blocks-major-crypto-exchanges-from-app-store-and-google-play"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [

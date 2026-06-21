@@ -39,7 +39,13 @@
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "https://www.jabank.org/about/sikumi/",
       "農業協同組合法 (昭和 22 年法律第 132 号、2015 改正で全中の中央会機能再編)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the JA Group national-coordination layer behind 農林中央金庫 (Norinchukin) and the JA Bank system. Read it together with JA 全農 (全国農業協同組合連合会) for the commercial-federation counterpart, JA 共済連 for the cooperative insurance federation, and cooperative banking",
   "headings": [

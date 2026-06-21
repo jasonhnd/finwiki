@@ -27,7 +27,17 @@
       "https://certificate.transparency.dev/",
       "https://docs.github.com/en/rest/commits/commits",
       "https://web.archive.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [
+      "[[security/bytecode-forensic-three-tier-verify]]",
+      "[[security/fork-and-rebrand-5-layer-audit-framework]]",
+      "[[security/module-path-confusion-supply-chain-attack]]"
+    ],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under FinWiki index. Read it with bytecode forensic for peer context and systems index for the broader infrastructure boundary.",
   "headings": [

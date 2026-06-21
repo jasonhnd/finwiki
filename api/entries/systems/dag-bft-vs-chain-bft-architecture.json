@@ -31,14 +31,13 @@
       "architecture"
     ],
     "status": "candidate",
-    "sources": [
-      "https://arxiv.org/abs/1803.05069",
-      "https://arxiv.org/abs/2105.11827",
-      "https://arxiv.org/abs/2201.05677",
-      "https://arxiv.org/abs/2310.14821",
-      "https://github.com/informalsystems/malachite",
-      "https://tempo.xyz/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 3 層 verify 技術 for the broader system boundary.",
   "headings": [

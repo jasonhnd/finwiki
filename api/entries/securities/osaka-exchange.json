@@ -32,7 +32,13 @@
     "sources": [
       "https://www.jpx.co.jp/english/corporate/about-jpx/profile/02.html",
       "https://www.jpx.co.jp/english/derivatives/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities index. Read it against 東京商品取引所 (TOCOM) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.",
   "headings": [

@@ -34,7 +34,13 @@
       "https://www.7card.co.jp/company/com_info/summary.html",
       "https://www.7card.co.jp/company/bs/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [
@@ -79,6 +85,6 @@
     "nonspace_chars": 3241,
     "word_like_tokens": 544,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

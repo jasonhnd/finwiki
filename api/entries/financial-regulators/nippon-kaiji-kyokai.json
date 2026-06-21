@@ -37,7 +37,13 @@
       "https://www.classnk.or.jp/",
       "https://www.classnk.or.jp/hp/en/index.html",
       "https://www.igpandi.org/clubs"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 日本船主責任相互保険組合 as the direct marine-industry sibling (船級協会 + P&I クラブで一対の海事インフラ) and insurance index as the broader risk-transfer system frame. ClassNK is not an insurer but its surveys directly underpin hull & P&I underwriting, so it si",
   "headings": [

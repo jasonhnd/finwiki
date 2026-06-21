@@ -29,10 +29,13 @@
       "technical"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.nyse.com/",
-      "https://github.com/binance/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内 VASP コールド保管 95% + 分別管理制度 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [

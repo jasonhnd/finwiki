@@ -31,9 +31,13 @@
       "bootstrapping"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.eigenlayer.xyz/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

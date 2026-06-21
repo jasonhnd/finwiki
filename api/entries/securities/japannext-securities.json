@@ -33,7 +33,13 @@
     "sources": [
       "https://www.japannext.co.jp/ja/aboutus",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities index. Read it with financial instruments business operators japan index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [

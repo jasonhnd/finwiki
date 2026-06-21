@@ -50,7 +50,13 @@
       "https://www.jsda.or.jp/",
       "https://www.saa.or.jp/",
       "https://www.fsa.go.jp/common/law/guide/kinyushohin/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page belongs to securities index as the sell-side-research peer of Japan underwriting market structure and Japan asset manager landscape matrix. It explains the analyst-coverage geography that sits between issuer disclosure (TDnet / EDINET adjacency in TSE), distribution (broker / online-broker",
   "headings": [

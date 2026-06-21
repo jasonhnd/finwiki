@@ -36,7 +36,13 @@
       "https://docs.sourcify.dev/blog/talk-about-onchain-metadata-hash/",
       "https://docs.soliditylang.org/en/latest/metadata.html",
       "https://ethereum.org/en/developers/docs/smart-contracts/verifying/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under security domain. Read it with bytecode forensic three-tier verify as the hands-on counterpart, and against proxy-upgrade rug pattern for the case where the shown source is genuine but the next implementation is not.",
   "headings": [

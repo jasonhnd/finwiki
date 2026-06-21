@@ -42,7 +42,13 @@
       "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b34.htm",
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.boj.or.jp/en/statistics/boj/other/cabs/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against BoJ open market operations for peer / contrast context and Japan money market for the broader system / regulatory boundary.",
   "headings": [

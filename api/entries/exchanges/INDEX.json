@@ -32,7 +32,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://jvcea.or.jp/member/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "exchanges/ contains 146 entries (excluding INDEX, 147 total) covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, country-tail CEX (India / Brazil / Vietnam / K",
   "headings": [

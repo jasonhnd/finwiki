@@ -43,7 +43,13 @@
       "双日 統合報告書 — https://www.sojitz.com/jp/ir/library/integrated/",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 双日)",
       "JPX 銘柄情報 2768 — https://www2.jpx.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG",
   "headings": [

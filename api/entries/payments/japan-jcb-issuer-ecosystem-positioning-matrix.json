@@ -50,7 +50,13 @@
       "https://www.j-credit.or.jp/security/document/index.html",
       "https://paymentsjapan.or.jp/category/publications/",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "\"JCB\" is not a single card company — it is (a) a domestic Japanese card brand and international payment network (株式会社ジェーシービー / JCB Co., Ltd.) plus (b) a population of Japanese issuers that put the JCB brand on cards they themselves issue. The brand sits in a hybrid 3-party / 4-party shape: for \"prop",
   "headings": [

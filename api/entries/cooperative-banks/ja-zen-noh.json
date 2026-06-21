@@ -43,7 +43,13 @@
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.",
   "headings": [

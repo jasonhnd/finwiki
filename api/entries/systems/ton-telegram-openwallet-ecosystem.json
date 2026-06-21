@@ -41,7 +41,13 @@
       "https://github.com/ton-blockchain",
       "https://telegram.org/blog",
       "https://tonkeeper.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Sui and Aptos and Solana for peer L1 context, BFT validator economics for consensus framing, and agent-economy index for the bot / agent UX angle.",
   "headings": [

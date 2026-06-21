@@ -31,12 +31,13 @@
       "case-study"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.paradigm.xyz/team/matt-huang",
-      "https://stripe.com/newsroom/news/matt-huang-joins-stripe-board",
-      "https://fortune.com/crypto/2025/08/12/matt-huang-paradigm-stripe-tempo-blockchain-ceo/",
-      "https://en.wikipedia.org/wiki/Paradigm_(venture_capital_firm)"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against jamie dimon anti crypto pivot case for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

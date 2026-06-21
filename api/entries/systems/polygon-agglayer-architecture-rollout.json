@@ -38,15 +38,15 @@
     ],
     "status": "active",
     "sources": [
-      "https://docs.polygon.technology/agglayer/",
-      "https://polygon.technology/blog/agglayer-v0-2",
-      "https://docs.polygon.technology/cdk/",
-      "https://polygon.technology/blog/migrate-matic-to-pol",
-      "https://l2beat.com/scaling/projects",
-      "https://defillama.com/chain/Polygon",
       "Polygon Labs blog & GitHub",
       "The Block & Messari research on Polygon"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Polygon 2024-2026 年の戦略的転換は 「Polygon PoS sidechain」 から 「AggLayer + CDK マルチチェーンプロトコル層」 への変革である:Polygon CDK により任意のチームが独自の ZK rollup を構築可能、AggLayer は CDK チェーン間に統一ブリッジ + pessimistic proof + ZK 証明集約を提供し、クロスチェーン五極 における「intra-stack interop」の極を取り込むことを目指す。MATIC → POL 移行(2024-09 メインネット)はトークンモデルを「Polygon PoS ga",
   "headings": [

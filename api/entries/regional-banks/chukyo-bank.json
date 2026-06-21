@@ -39,7 +39,13 @@
       "https://www.dainichiginkyo.or.jp/",
       "https://www.aichi-fg.co.jp/ir/files/pdf/202403_chukyo_s03.pdf",
       "https://ja.wikipedia.org/wiki/中京銀行"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the regional-banks INDEX as the historical predecessor anchor for current operating bank あいち銀行 under あいち FG. Read it against the 名古屋銀行 in-prefecture rival and 三十三銀行 / 十六銀行 Chubu peers, and against regional-bank consolidation pattern for the broader system / regulatory boundary.",
   "headings": [

@@ -37,13 +37,13 @@
       "closed-loop"
     ],
     "status": "active",
-    "sources": [
-      "https://corporate.visa.com/",
-      "https://www.mastercard.com/news/",
-      "https://github.com/google-agentic-commerce/AP2",
-      "https://developer.visa.com/",
-      "https://developer.mastercard.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Visa Intelligent Commerce (announced 2024-Q4, expanded with the Trusted Agent Protocol in 2025) and Mastercard Agent Pay (announced early 2025) are the card networks' answer to the same problem that x402, AP2, and ERC-7715 are answering from the open-protocol side: how does an AI agent pay on behalf",
   "headings": [

@@ -36,7 +36,17 @@
       "大和証券グループ本社 公式 IR (https://www.daiwa-grp.jp/ir/) — 2025-03 期決算短信",
       "大和証券グループ 中期経営計画 (公開発表分)",
       "大和ネクスト銀行 ディスクロージャー (https://www.bank-daiwa.co.jp/about/disclosure/transition/) — 2026-03 末"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
@@ -87,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5466,
-    "word_like_tokens": 904,
+    "nonspace_chars": 5529,
+    "word_like_tokens": 914,
     "inbound_wikilinks_count": 79,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

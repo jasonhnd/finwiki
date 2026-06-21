@@ -33,7 +33,13 @@
       "https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html",
       "https://paymentsjapan.or.jp/publications/code-payments-20260330/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's code-payment market is recorded as a battle among wallet ecosystems, merchant acceptance networks, loyalty budgets, and settlement / funds-transfer capabilities. METI's 2025 cashless-payment release reports a 58.0% cashless ratio and identifies code payment as 10.2% of cashless payment value",
   "headings": [

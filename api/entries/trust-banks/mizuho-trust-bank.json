@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.mizuho-tb.co.jp/company/about/info.html",
       "https://www.mizuho-tb.co.jp/company/about/info02.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and 三井住友信託銀行 (SMTB) for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is みずほ銀行.",
   "headings": [

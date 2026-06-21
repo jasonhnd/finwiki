@@ -44,7 +44,13 @@
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫（中央機関本体）, 全国信用金庫協会（policy / industry body）, and 信金ネットワークサービス（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against 農林中央金庫 グループの 農中信託銀行・農中証券 for the parallel JA central-sy",
   "headings": [

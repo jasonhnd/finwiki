@@ -45,7 +45,13 @@
       "https://www.shizuokafg.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.j-credit.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the card-issuers INDEX as the FG-subsidiary credit-card operating-company anchor for しずおか FG グループ (静岡銀行 母体)。Read it against parent operating bank 静岡銀行 and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / UCS カード (旧",
   "headings": [

@@ -29,13 +29,13 @@
       "market-structure"
     ],
     "status": "candidate",
-    "sources": [
-      "https://tether.to/en/news/",
-      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/",
-      "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
-      "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
-      "https://www.bis.org/cpmi/publ/d215.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [

@@ -39,7 +39,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://www.global.jcb/ja/press/2018/201809060001_merchants.html",
       "https://www.jcb.co.jp/promotion/b2b/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
   "headings": [

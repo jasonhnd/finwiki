@@ -37,7 +37,13 @@
       "https://www.tokyocentury.co.jp/jp/ir/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.lease.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
   "headings": [

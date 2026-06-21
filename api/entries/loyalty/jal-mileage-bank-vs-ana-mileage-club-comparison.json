@@ -51,7 +51,13 @@
       "https://www.ana.co.jp/group/investors/",
       "https://www.oneworld.com/",
       "https://www.staralliance.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the frequent-flyer-program (FFP) comparison page for the two anchor Japanese airline loyalty programs. Pair it with Japan points landscape for the cross-loyalty-ecosystem context, point liability accounting boundary for the IFRS-15 contract-liability treatment",
   "headings": [

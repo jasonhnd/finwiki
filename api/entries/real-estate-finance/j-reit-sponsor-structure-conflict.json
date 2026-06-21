@@ -41,7 +41,13 @@
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.fsa.go.jp/en/regulated/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A typical J-REIT looks like a single entity from the outside but is a three-party structure: the investment corporation that issues units, the asset-management company that runs it, and the sponsor (usually a developer) that sits behind both. The sponsor owns the asset-management company, supplies t",
   "headings": [

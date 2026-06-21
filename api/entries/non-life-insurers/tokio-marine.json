@@ -35,7 +35,17 @@
       "Wikipedia: 東京海上ホールディングス (2026-05-19 抽出)",
       "Wikipedia: 東京海上日動火災保険",
       "Tokio Marine Holdings 公式 IR(沿革・組織図)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -74,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5232,
-    "word_like_tokens": 919,
+    "nonspace_chars": 5293,
+    "word_like_tokens": 929,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

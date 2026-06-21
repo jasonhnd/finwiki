@@ -41,7 +41,13 @@
       "https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm",
       "https://www.fsa.go.jp/en/policy/libor/index.html",
       "https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against TIBOR for the quote-based credit-sensitive contrast, Japan money-market benchmark reform (TONA) for how the JPY risk-free-rate complex was built, and the OIS TONA curve for the derivative inputs TORF is computed from. The supervisory anchor i",
   "headings": [

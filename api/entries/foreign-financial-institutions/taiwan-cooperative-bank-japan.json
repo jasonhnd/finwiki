@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.tcb-bank.com.tw/about-tcb/info/locations/oversea/tokyo-jp/profile",
       "https://www.fsc.gov.tw/en/home.jsp?dataserno=202403050001&dtable=News&id=54&mcustomize=multimessage_view.jsp&parentpath=0"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Taiwan Cooperative Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Chang Hwa Bank Japan, First Commercial Bank Japan, Taiwan Business Bank Japan, and banking index.",
   "headings": [

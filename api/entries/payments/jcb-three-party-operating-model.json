@@ -43,7 +43,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://www.jftc.go.jp/houdou/pressrelease/2022/apr/220408.html",
       "https://paymentsjapan.or.jp/wp-content/uploads/2023/08/roadmap2023.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the JCB-specific operating-model page that pairs with Japan card issuer / acquirer / processor split for the cross-brand role map and with Japan payment scheme economics matrix for the four-class comparison view. JCB is the only domestic brand that consistentl",
   "headings": [

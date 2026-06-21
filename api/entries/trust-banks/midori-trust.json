@@ -33,7 +33,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Midori Trust official site: https://www.midoritrust.co.jp/",
       "Midori Life / Midori Trust partnership release: https://midori-life.com/images/topics/720/3.%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/midori-trust",
   "headings": [

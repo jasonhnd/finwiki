@@ -17,6 +17,23 @@ sources:
   - "BNP Paribas Cardif Japan Life 公式: 会社概要 (life.cardif.co.jp, 2026-05-19 抽出)"
   - "BNP Paribas Japan 公式: Subsidiaries in Japan / Innovation (bnpparibas.jp, 2026-05-30 抽出)"
   - "Hello bank! (en.wikipedia.org, 2026-05-30 抽出) — 欧州限定・日本非展開の確認"
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/foreign-bank-branch-license-route
+    evidence: foreign_bank_branch_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # BNP パリバ日本 (BNP Paribas Japan)

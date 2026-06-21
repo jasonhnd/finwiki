@@ -36,12 +36,13 @@
       "jp-crypto-exchange"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf",
-      "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/policy/virtual_currency02/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は (1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所 という 10 のビジネスモデル軸で異なるポジションを取る。販売所スプレッド 収益モデルが国内市場の主軸である一方、海外系日本法人",
   "headings": [

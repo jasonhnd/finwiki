@@ -36,7 +36,13 @@
       "https://www.cgc-osaka.or.jp/",
       "https://www.cgc-osaka.or.jp/about/",
       "https://www.zenshinhoren.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefecture member of Japan's 51-corporation local credit guarantee system. It is typically the second-largest local corporation by guarantee balance after Tokyo Credit Guarantee Corporation, reflecting Osaka's status as the Kansai SME / manu",
   "headings": [

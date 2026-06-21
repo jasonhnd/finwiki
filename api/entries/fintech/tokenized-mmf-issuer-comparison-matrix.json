@@ -40,18 +40,13 @@
       "securitize"
     ],
     "status": "active",
-    "sources": [
-      "https://www.blackrock.com/us/individual/products/422581/",
-      "https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX",
-      "https://apolloacademy.com/securitize/",
-      "https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx",
-      "https://www.usyc.com/",
-      "https://superstate.com/",
-      "https://ondo.finance/",
-      "https://www.sec.gov/edgar",
-      "https://www.circle.com/blog/circle-acquires-hashnote",
-      "https://defillama.com/protocol/franklin-templeton-benji"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the eight-way side-by-side comparison matrix for tokenized money-market and yield-bearing RWA fund issuers. It complements the per-issuer deep dives at BlackRock BUIDL, Franklin BENJI / FOBXX, Apollo ACRED, WisdomTree WTGXX + Hashnote USYC, and Ondo OUSG / USDY",
   "headings": [

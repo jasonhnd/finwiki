@@ -32,14 +32,13 @@
       "case-study"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.coindesk.com/markets/2017/09/12/jamie-dimon-bitcoin-is-a-fraud",
-      "https://www.coindesk.com/business/2024/01/17/jamie-dimon-bashes-bitcoin-again-a-pet-rock",
-      "https://fortune.com/2022/09/22/jpmorgan-jamie-dimon-dangerous-crypto-decentralized-ponzi-scheme-not-good-for-anybody/",
-      "https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html",
-      "https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys",
-      "https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 三身分COIテンプレート for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

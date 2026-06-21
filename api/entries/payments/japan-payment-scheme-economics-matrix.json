@@ -58,7 +58,13 @@
       "https://www.cotra.ne.jp/",
       "https://jeppo.jp/bankpay/",
       "https://www.global.jcb/ja/about-us/business-area/brand/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan retail payment now runs on four parallel scheme classes — card (Visa / Mastercard / JCB / Amex / Diners), code (PayPay / d払い / au PAY / 楽天ペイ / メルペイ / FamiPay), account-to-account (Bank Pay / J-Debit / Cotra), and prepaid electronic money (Suica / PASMO / WAON / nanaco / Edy). Each sits on a di",
   "headings": [

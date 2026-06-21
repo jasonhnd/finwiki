@@ -29,13 +29,13 @@
       "financial-disintermediation"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.bis.org/publ/othp33.htm",
-      "https://www.bis.org/publ/arpdf/ar2021e3.htm",
-      "https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm",
-      "https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html",
-      "https://www.imf.org/en/Topics/fintech/central-bank-digital-currency"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [

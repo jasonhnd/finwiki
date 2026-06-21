@@ -1,6 +1,6 @@
 # Cross-Page Factual Consistency Audit Design
 
-> Issue #30 planning artifact. This document is design-only: it does not implement tooling, edit corpus pages, or change release gates.
+> Issue #30 planning artifact and source design for `tools/factual_consistency_audit.ts`. The current implementation is read-only and report-only; it does not edit corpus pages or change release gates.
 
 ## Problem
 
@@ -259,6 +259,10 @@ VALIDATION:
 RELEASE IMPACT:
 Tooling/report only. No content release note unless the implementation also changes public snapshots.
 ```
+
+## Implementation Note
+
+Issue #40 implements the first report-only version as `bun tools/factual_consistency_audit.ts`. The default command exits 0 and writes nothing; `--json` emits deterministic rows; `--fail-on-conflicts` is explicit and intended for calibrated fixture / CI use after baseline review.
 
 ## Non-Goals
 

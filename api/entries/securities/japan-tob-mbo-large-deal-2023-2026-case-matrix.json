@@ -51,7 +51,13 @@
       "https://www.tokiomarinehd.com/en/ir/",
       "https://www.itochu.co.jp/en/ir/",
       "https://www.daiichisankyo.com/ir/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Between 2023 and 2026 a sequence of large Japan TOB / MBO transactions (each over ¥100bn deal value, several over ¥1tn) repriced the fair-M&A process expectations for listed targets under Japan tender offer process and Japan MBO and squeeze-out process. This matrix collects the major cases — Toshiba",
   "headings": [

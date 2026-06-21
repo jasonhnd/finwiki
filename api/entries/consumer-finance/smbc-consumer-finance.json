@@ -35,7 +35,13 @@
       "https://www.smbc-cf.com/corporate/outline.html",
       "https://www.smbc-cf.com/business/service.html",
       "https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under consumer-finance INDEX (its domain route). Read it against same-domain peers ACOM and AIFUL for peer / contrast, against SMFG for the ultimate group / parent context, and against the FSA for the supervisory boundary (consumer lenders register 貸金業 under the FSA-overseen Money Le",
   "headings": [

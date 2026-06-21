@@ -46,7 +46,13 @@
       "https://www.fsa.go.jp/en/news/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.mof.go.jp/english/policy/international_policy/convention/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Foreign investment in Japan real estate carries distinct Japanese tax treatment that varies by investor type (non-resident corporate vs individual), holding structure (direct vs through TK / GK-TK / TMK vs through J-REIT), income type (rental vs capital gain), permanent-establishment (PE) status, an",
   "headings": [

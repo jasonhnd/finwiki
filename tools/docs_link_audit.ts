@@ -15,6 +15,7 @@ const DOCS_DIR = path.join(ROOT, "docs");
 const CONTROL_DOCS = [
   "README.md",
   "CHANGELOG.md",
+  "CONTRIBUTING.md",
   "AGENTS.md",
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",

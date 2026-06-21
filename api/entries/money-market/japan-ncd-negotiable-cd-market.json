@@ -38,7 +38,13 @@
       "https://www.boj.or.jp/en/statistics/dl/depo/index.htm",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section06.html",
       "https://www.jsda.or.jp/en/statistics/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against Japan CP market for peer / contrast context and BoJ open market operations for the broader system / regulatory boundary.",
   "headings": [

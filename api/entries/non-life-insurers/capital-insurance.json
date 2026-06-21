@@ -31,7 +31,13 @@
     "sources": [
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Capital Insurance company profile: https://www.capital-sonpo.co.jp/company/gaiyo/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/capital-insurance",
   "headings": [

@@ -46,7 +46,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.newyorkfed.org/markets/primarydealers",
       "https://www.bankofengland.co.uk/markets/gilt-edged-market-makers"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The JGB Special Participants system (国債市場特別参加者制度) is Japan's primary dealer regime: a Ministry of Finance (MoF)-administered framework under which a defined set of financial institutions are recognized as the principal counterparties to MoF JGB auctions in exchange for accepting bid-and-make-market",
   "headings": [

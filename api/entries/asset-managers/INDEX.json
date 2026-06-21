@@ -31,7 +31,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.toushin.or.jp/",
       "https://www.jiaa.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "asset-managers/ is the top-level domain for Japanese investment-management operating companies — the entity layer of the FIEA 投資運用業 (Investment Management Business) world: the manufacturers of public investment trusts (公募投信), ETFs, and discretionary / institutional mandates. It covers the megabank-",
   "headings": [

@@ -36,12 +36,13 @@
       "account-abstraction"
     ],
     "status": "active",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-7702",
-      "https://eips.ethereum.org/EIPS/eip-4337",
-      "https://ethresear.ch/t/eip-7702-set-eoa-account-code/19923",
-      "https://notes.ethereum.org/@vbuterin/eip_7702_optimizations"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ERC-7702 (live since Pectra, 2025-05) lets an existing externally-owned account temporarily — or persistently — execute as if it were a smart contract wallet, without changing its address. For AI agents this matters because the ~90% of Ethereum value that lives in EOAs (MetaMask, Rabby, hardware wal",
   "headings": [

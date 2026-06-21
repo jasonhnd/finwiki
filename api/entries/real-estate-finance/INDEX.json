@@ -39,7 +39,13 @@
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.mlit.go.jp/en/totikensangyo/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Real estate finance is the lane where private real-estate balance sheets meet the capital markets. In Japan this means J-REIT, private REIT, GK-TK SPV securitization, developer corporate finance, and the bank-led real-estate lending stack underneath all of it. Use this index to route between the J-R",
   "headings": [

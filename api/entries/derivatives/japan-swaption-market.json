@@ -47,7 +47,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.isda.org/",
       "https://www.naic.org/cipr_topics/topic_variable_annuities.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A swaption is an OTC interest-rate option granting the holder the right (but not the obligation) to enter into a defined interest-rate swap at a future date and at a pre-agreed strike rate. JPY swaptions are the volatility-sensitive complement to the JPY interest-rate swap and OIS-TONA markets, and",
   "headings": [

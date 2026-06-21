@@ -39,7 +39,13 @@
       "https://www.sompo-hd.com/en/ir/data/annual/",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
       "https://www.giroj.or.jp/english/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index and is the underwriting-cycle deep dive for Japanese non-life insurers. Read it together with Japan non-life big three for the entity-level routing, with nat-cat reinsurance Japan for the catastrophe pricing layer, with earthquake insurance public-private scheme",
   "headings": [

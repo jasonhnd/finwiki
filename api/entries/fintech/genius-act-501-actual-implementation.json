@@ -47,7 +47,13 @@
       "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets",
       "https://www.federalregister.gov/ (OFAC and FinCEN rulemakings)",
       "https://www.esma.europa.eu/policy-activities/crypto-assets (MiCA cross-comparison)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "GENIUS Act §501 (signed July 18 2025) requires every permitted payment stablecoin issuer in the United States to have technical capability to freeze, seize, and burn tokens at sanctioned addresses within a defined response window after receiving an OFAC SDN designation, GENIUS-specific denylist inst",
   "headings": [

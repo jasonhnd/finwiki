@@ -46,7 +46,13 @@
       "FSA bank supervision disclosures — https://www.fsa.go.jp/en/",
       "BOJ Financial System Report — https://www.boj.or.jp/en/",
       "ECBC (European Covered Bond Council) — https://www.hypo.org/ecbc/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japanese megabanks — led by MUFG Bank and SMBC — issue EUR and USD covered bonds to international investors as a USD/EUR-denominated funding source positioned between senior unsecured bonds and traditional RMBS securitization. The covered-bond programs are contractually structured (rather than s",
   "headings": [

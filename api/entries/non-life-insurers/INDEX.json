@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "https://www.sonpo.or.jp/about/gaiyo/",
       "https://www.sonpohogo.or.jp/outline/member-companies.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "non-life-insurers/ is the entity domain for Japanese non-life (損害 / P&C) insurance carriers and kyosai (共済) mutuals — every entity licensed under Japan's Insurance Business Act (保険業法) to underwrite non-life risk, plus the cooperative-insurance federations that sit alongside the licensed market. It h",
   "headings": [

@@ -33,7 +33,13 @@
     "status": "active",
     "sources": [
       "https://www.jibunbank.co.jp/corporate/outline/"
-    ]
+    ],
+    "canonical_anchor": "regional-banks/au-jibun-bank",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at auじぶん銀行 (au Jibun Bank) entity anchor; this banking-domain page is the net-bank operating view of that same entity. Read it against 楽天銀行 (Rakuten Bank) for peer / contrast context and Cooperative banking i",
   "headings": [

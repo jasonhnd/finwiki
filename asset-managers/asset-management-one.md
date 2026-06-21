@@ -13,6 +13,23 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
   - "https://www.am-one.co.jp/company/profile/"
   - "https://www.am-one.co.jp/company/message/"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/securities-license-stack
+    evidence: investment_management_registration
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # アセットマネジメントOne

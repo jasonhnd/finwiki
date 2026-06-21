@@ -39,7 +39,13 @@
       "https://network.mobile.rakuten.co.jp/en/",
       "https://global.rakuten.com/corp/news/press/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrast pattern where telco subsidizes finance instead of the reverse, GMO Internet Group for the internet-to-finance conglomerate parallel, and Kitao Yoshitaka SBI",
   "headings": [

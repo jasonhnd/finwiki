@@ -50,7 +50,13 @@
       "https://corp.minna-no-ginko.com/company/",
       "https://www.mercari.com/jp/about/",
       "https://www.jp-bank.japanpost.jp/ir/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's net-bank cohort entered 2026 as a clearly segmented competitive surface rather than one undifferentiated category. The ten-plus operators range from trillion-yen deposit franchises (Rakuten Bank, Sumishin SBI Net Bank, Sony Bank) to specialist BaaS / partner-led brands (Minna Bank, Sumishin",
   "headings": [

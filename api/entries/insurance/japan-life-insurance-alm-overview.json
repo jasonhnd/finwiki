@@ -38,7 +38,13 @@
       "https://www.mof.go.jp/english/policy/jgbs/index.html",
       "https://www.seiho.or.jp/english/about/companies/",
       "https://www.iaisweb.org/activities-topics/insurance-capital-standard"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index and is the asset-liability management routing page for Japanese life insurers. Read it together with Japan life big four for the entities, with Sony Life Lifeplanner / group-life operating model for the stock-company variant, with economic-value-based solvency f",
   "headings": [

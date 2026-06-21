@@ -42,7 +42,13 @@
       "https://www.mlit.go.jp/about/jhf_.html",
       "https://www.mof.go.jp/",
       "https://www.flat35.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as Japan's housing-finance policy institution. Read it against Japan policy finance system for the broader public-credit boundary and pair it with JHF MBS mechanics for the securitization plumbing. JHF is structurally distinct from JFC (SME / agriculture-fo",
   "headings": [

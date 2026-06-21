@@ -25,7 +25,13 @@
       "https://laws.e-gov.go.jp/",
       "https://www.koshonin.gr.jp/",
       "https://www.moj.go.jp/MINJI/minji153.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.",
   "headings": [

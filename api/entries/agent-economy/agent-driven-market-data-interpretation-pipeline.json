@@ -39,23 +39,13 @@
       "model-risk"
     ],
     "status": "active",
-    "sources": [
-      "https://www.bloomberg.com/professional/blog/bloomberggpt/",
-      "https://www.bloomberg.com/professional/products/ai/",
-      "https://www.reuters.com/business/finance/",
-      "https://www.refinitiv.com/en/financial-data",
-      "https://www.nikkei.com/info/en/",
-      "https://www.goldmansachs.com/marquee/",
-      "https://www.jpmorgan.com/technology/news/indexgpt",
-      "https://www.morganstanley.com/press-releases",
-      "https://www.blackrock.com/aladdin",
-      "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm",
-      "https://www.bis.org/publ/work1194.htm",
-      "https://www.fsa.go.jp/en/news/index.html",
-      "https://www.fca.org.uk/publications/discussion-papers",
-      "https://www.esma.europa.eu/document",
-      "https://arxiv.org/abs/2303.17564"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The 2026 agent-driven market data pipeline is a four-stage compound: (1) ingest raw market data from Bloomberg, Reuters / Refinitiv, Nikkei, exchange direct feeds, regulator releases, corporate filings; (2) interpret via LLM (BloombergGPT, JPM internal LLM, Anthropic Claude or OpenAI GPT through lic",
   "headings": [

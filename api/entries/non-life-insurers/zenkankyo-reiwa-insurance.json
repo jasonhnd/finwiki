@@ -33,7 +33,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Zenkankyo Reiwa Insurance official site: https://www.zkreiwa-sonpo.co.jp/",
       "Zenkankyo Reiwa disclosure 2024: https://www.zkreiwa-sonpo.co.jp/wp1/wp-content/uploads/2024/07/%E5%85%A8%E7%AE%A1%E5%8D%94%E3%82%8C%E3%81%84%E3%82%8F%E6%90%8D%E5%AE%B3%E4%BF%9D%E9%99%BA%E3%81%AE%E7%8F%BE%E7%8A%B62024.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/zenkankyo-reiwa-insurance",
   "headings": [

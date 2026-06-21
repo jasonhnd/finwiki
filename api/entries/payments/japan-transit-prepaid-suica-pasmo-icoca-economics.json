@@ -53,7 +53,13 @@
       "https://www.meti.go.jp/policy/mono_info_service/cashless/",
       "https://www.boj.or.jp/en/paym/",
       "https://www.felicanetworks.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the transit-prepaid scheme reference page that pairs with prepaid payment instrument issuers registry for the FSA-registered prepaid-issuer view, with Japan payment scheme economics matrix for the four-class scheme comparison, with funds-transfer vs prepaid bo",
   "headings": [

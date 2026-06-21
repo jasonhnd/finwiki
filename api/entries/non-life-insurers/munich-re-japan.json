@@ -36,7 +36,13 @@
       "https://www.munichre.com/en/locations/asia-pacific/japan.html",
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against トーア再保険 for peer / contrast context as a Japanese domestic reinsurer, and nat-cat reinsurance Japan for the broader system / regulatory boundary. The Japan branch is one channel through which global reinsurance capacity reaches Japanese p",
   "headings": [

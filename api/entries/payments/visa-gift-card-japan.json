@@ -42,7 +42,13 @@
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.j-credit.or.jp/",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the Visa-branded prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view, with Japan card issuer / acquirer / processor split for the brand-network role context, and with Japan payment scheme economics matrix f",
   "headings": [

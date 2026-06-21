@@ -31,13 +31,13 @@
       "institutional"
     ],
     "status": "active",
-    "sources": [
-      "https://www.cryptact.com/",
-      "https://crypto-city.net/",
-      "https://www.cryptolinc.com/",
-      "https://koinly.io/",
-      "https://www.nta.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内暗号資産税制詳細 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [

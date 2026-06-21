@@ -38,7 +38,13 @@
       "https://www.genre.com/about-us/locations/japan",
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against RGA リインシュアランス・カンパニー日本支店 as a US-headquartered peer (RGA: life specialist; Gen Re: P&C + life via subsidiary), and contrast with ミュンヘン再保険日本支店 / スイス再保険日本支店 as the European \"Big 2\". Domestic peer remains トーア再保険 and broader system is nat-cat",
   "headings": [

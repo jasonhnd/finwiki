@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/common/law/guide/ins/",
       "https://www.fsa.go.jp/common/law/guide/ins/02b.html",
       "https://www.fsa.go.jp/common/law/guide/ins/02c.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's economic value-based solvency regime is the insurance-capital framework that looks through the accounting balance sheet and evaluates assets, liabilities, capital, and risk on a more market-consistent economic basis. FSA frames the regime around three pillars: solvency regulation, insurer ri",
   "headings": [

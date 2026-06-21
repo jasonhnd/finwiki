@@ -44,7 +44,13 @@
       "https://www.jpx.co.jp/english/listing/co-search/",
       "https://www.fsa.go.jp/en/policy/stewardship/",
       "https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance index. It is a public-source reference universe for Japan-listed financial groups, read against finance/japan-ib-league-table for adviser-side peer mapping, finance/japan-activist-investor-playbook for engagement / control reading, finance/japan-large-shareholding-disclo",
   "headings": [

@@ -37,7 +37,13 @@
       "各商社 有価証券報告書 (関係会社一覧) — EDINET https://disclosure.edinet-fsa.go.jp/",
       "伊藤忠商事 (8001) / 三菱商事 (8058) / 三井物産 (8031) / 住友商事 (8053) / 丸紅 (8002) / 豊田通商 (8015) / 双日 (2768) 公式 IR・統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "trading-company-finance/ holds the internal finance / treasury / factoring arms of the sōgō shōsha (general trading companies) — the non-listed, wholly-owned group-treasury subsidiaries that run cash-management services (CMS), 一括ファクタリング (bulk factoring), intra-group lending, FX / rate-hedge brokerag",
   "headings": [

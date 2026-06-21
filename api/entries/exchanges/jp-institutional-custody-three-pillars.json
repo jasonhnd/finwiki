@@ -30,11 +30,13 @@
       "jp-custody"
     ],
     "status": "candidate",
-    "sources": [
-      "https://komainu.com/",
-      "https://ginco.co.jp/",
-      "https://www.fireblocks.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "国内機関向けカストディ市場は 技術 (cold vs MPC) × 親会社 (国内 vs 海外) の二軸で分化している。VASP の自社カストディ (bitFlyer / Coincheck / bitbank 等) と並行して、B2B vendor 層 (機関・他 VASP・金融機関向けインフラ供給) が形成されており、その中核に Komainu / Ginco / Fireblocks Japan の三社が位置する。",
   "headings": [

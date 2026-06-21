@@ -31,14 +31,13 @@
       "decurret"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.decurret-dcp.com/company/",
-      "https://www.decurret-dcp.com/service/",
-      "https://www.decurret-dcp.com/pressrelease/pr-20260402.html",
-      "https://www.decurret-dcp.com/pressrelease/pr-20260403.html",
-      "https://www.decurret-dcp.com/pressrelease/pr-20260326.html",
-      "https://coinpost.jp/?s=DCJPY"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it against 株式会社Progmat — デジタルアセットプラットフォーム概要 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [

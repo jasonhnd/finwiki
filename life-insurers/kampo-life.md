@@ -21,6 +21,10 @@ sources:
   - "かんぽ生命 公式 IR / 沿革ページ (公開情報)"
   - "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)"
   - "かんぽ生命 2025年3月期 決算短信〔日本基準〕(連結) — 総資産 59兆5,556億円 (https://pdf.irpocket.com/C7181/vAfC/ITEh/s65S.pdf)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 ---
 # かんぽ生命保険 (Japan Post Insurance)
 

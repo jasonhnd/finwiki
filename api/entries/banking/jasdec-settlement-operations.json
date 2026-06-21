@@ -41,7 +41,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.boj.or.jp/en/paym/jgb_bes/index.htm",
       "https://www.shintaku-kyokai.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside JASDEC entity page and JSCC clearing corp for the market-infrastructure side; with Master Trust Bank operating model, Custody Bank",
   "headings": [

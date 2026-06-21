@@ -46,7 +46,13 @@
       "https://www.jica.go.jp/Resource/english/our_work/types_of_assistance/grant/index.html",
       "https://www.jica.go.jp/Resource/english/our_work/types_of_assistance/private/index.html",
       "https://www.mofa.go.jp/policy/oda/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the ODA-implementation node of the Japanese state-finance system. Read it against 国際協力銀行 (JBIC) for the export-credit / overseas-investment counterpart on the same overseas perimeter; with JBIC overseas-investment underwriting process for the lender-side",
   "headings": [

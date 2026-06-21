@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/common/law/guide/ins/",
       "https://laws.e-gov.go.jp/law/407AC0000000105",
       "https://www.fsa.go.jp/common/law/guide/ins/05.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan insurance regulation separates risk-bearing insurers from distribution intermediaries. Life insurers, non-life insurers, insurance holding companies, small-amount short-term insurers, insurance agents, and insurance brokers are separate public-regulatory categories. The underwriting entity car",
   "headings": [

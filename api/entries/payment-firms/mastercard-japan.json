@@ -33,7 +33,13 @@
     "sources": [
       "https://www.mastercard.co.jp/",
       "https://www.mastercard.co.jp/ja-jp/business/overview/about-mastercard.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (4-party global scheme vs JCB の 3-party hybrid) and Japan interchange and merchant fee stack for the broader system / regulatory boundary.",
   "headings": [

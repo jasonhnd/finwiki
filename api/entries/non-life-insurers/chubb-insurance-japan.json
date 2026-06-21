@@ -35,7 +35,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Chubb Japan company overview: https://www.chubb.com/jp-jp/about-us/about-us-company-overview.html",
       "Chubb Japan corporate information: https://www.chubb.com/jp-jp/about-us.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/chubb-insurance-japan",
   "headings": [

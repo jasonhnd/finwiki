@@ -39,7 +39,13 @@
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range — reflecting effective sovereign-linked credit and predictable monthly supply. Private RMBS senior tranches trade meaningfully wider — typically 50-100bp vs JGB — reflecting the absence of government support and reliance on",
   "headings": [

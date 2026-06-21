@@ -36,7 +36,13 @@
       "https://www.sbivc.co.jp/usdc",
       "https://progmat.co.jp/about/",
       "https://progmat.co.jp/concept/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Stablecoin coverage in this wiki should route as follows:",
   "headings": [

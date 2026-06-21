@@ -44,7 +44,13 @@
       "https://www.tokiomarinehd.com/en/ir/download/annual_report.html",
       "https://www.ms-ad-hd.com/en/ir/library/disclosure.html",
       "https://www.sompo-hd.com/en/ir/data/annual/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The \"Japan non-life big three\" — Tokio Marine Holdings, MS&AD Insurance Group Holdings, and Sompo Holdings — share a Japan-domiciled, multi-line P&C franchise but differ on five overlay axes that drive the analytical readings: catastrophe exposure by peril, reinsurance-program shape, overseas specia",
   "headings": [

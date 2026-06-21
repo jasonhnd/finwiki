@@ -14,6 +14,10 @@ sources:
   - "金融庁 公式サイト (https://www.fsa.go.jp/, 2026-05-25 参照)"
   - "金融庁設置法 (平成 10 年法律第 130 号)"
   - "内閣府設置法 (平成 11 年法律第 89 号)"
+entity_node:
+  kind: regulator
+  scope: japan_core
+  status: anchor
 ---
 # 金融庁 (FSA)
 

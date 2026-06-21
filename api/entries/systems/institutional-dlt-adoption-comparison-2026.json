@@ -38,17 +38,14 @@
     ],
     "status": "active",
     "sources": [
-      "https://www.canton.network",
-      "https://www.hyperledger.org/projects/fabric",
-      "https://r3.com/products/corda/",
-      "https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund",
-      "https://www.franklintempleton.com/investments/options/money-market-funds",
-      "https://www.avax.network/subnets",
-      "https://l2beat.com/scaling/summary",
-      "https://defillama.com/chains",
-      "https://rwa.xyz",
       "DTCC, BIS, IMF research reports"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2026 年の機関 DLT 選定は「パイロットフェーズ」から 「Canton + パブリックチェーン Ethereum の二大中心 + Corda がロングテール + Fabric の衰退」 という成熟した分化構造に入った:Canton(Digital Asset / R3 合併後)は G-SIB トークン化の主戦場を獲得(JPM Kinexys + Goldman DAP + DTCC + BNY)、パブリックチェーン Ethereum L1 は BlackRock BUIDL + Franklin BENJI + Ondo 等の RWA を通じて「公開取引可能なトークン化ファンド」の一極を",
   "headings": [

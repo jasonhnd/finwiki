@@ -40,7 +40,13 @@
       "https://disclosure2.edinet-fsa.go.jp/week0010.aspx?media=53999",
       "https://www.jpx.co.jp/equities/listing/disclosure/overview/",
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a 1% or greater",
   "headings": [

@@ -45,7 +45,13 @@
       "https://www.jpx.co.jp/english/markets/derivatives/trading-volume/",
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX), the JPX-flagship free-float-market-capitalization-weighted index covering all Prime Market (formerly First Section) constituents — roughly 2,000 stocks. They list on the Osaka Exchange (OSE) under Japan Ex",
   "headings": [

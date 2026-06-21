@@ -28,15 +28,13 @@
       "rakuten"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.rakuten-wallet.co.jp/company/company.html",
-      "https://www.rakuten-wallet.co.jp/irpress/statement.html",
-      "https://www.rakuten-wallet.co.jp/start/cryptoassets.html",
-      "https://www.rakuten-wallet.co.jp/point/",
-      "https://jvcea.or.jp/member/",
-      "https://ja.wikipedia.org/wiki/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [

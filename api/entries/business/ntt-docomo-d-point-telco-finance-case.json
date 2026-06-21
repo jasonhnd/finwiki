@@ -41,7 +41,13 @@
       "https://group.ntt/jp/newsrelease/",
       "https://www.smbcgroup.com/news/",
       "https://dpoint.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against Rakuten Group mobile-finance bundling case for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), GMO Internet Group for an internet-to-finance conglomerate cont",
   "headings": [

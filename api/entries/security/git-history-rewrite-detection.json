@@ -35,7 +35,13 @@
       "https://git-scm.com/docs/git-reflog",
       "https://docs.github.com/en/rest/activity/events",
       "https://docs.github.com/en/rest/using-the-rest-api/github-event-types"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under security domain. It is the source-code analogue of Wayback Machine as a forensic tool (which recovers de-published web content), and it feeds the people-layer work in forensic identity anchor chain by recovering committer emails and timestamps that a rewrite tried to erase.",
   "headings": [

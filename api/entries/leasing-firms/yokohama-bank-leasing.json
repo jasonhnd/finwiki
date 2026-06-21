@@ -36,7 +36,13 @@
       "https://www.yokohamafg.co.jp/",
       "https://www.boy.co.jp/",
       "https://www.chiginkyo.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 東日本銀行. Peer comparison: めぶきリース (北関東地銀系) and major lessor 三菱 HC キャピタル / みずほリース / 東京センチュリー. For broader",
   "headings": [

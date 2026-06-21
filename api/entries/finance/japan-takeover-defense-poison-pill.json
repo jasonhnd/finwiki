@@ -41,7 +41,13 @@
       "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
       "https://www.courts.go.jp/app/hanrei_en/detail?id=825",
       "https://www.jpx.co.jp/english/equities/follow-up/02.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan takeover defense is a board-level response system that sits on top of the FIEA tender-offer process: when a hostile bidder appears, the target chooses between pre-bid structural defenses (advance-warning rights-plan, golden parachute, cross-shareholdings) and in-bid tactical responses (white-k",
   "headings": [

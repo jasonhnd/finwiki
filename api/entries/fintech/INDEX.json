@@ -30,7 +30,13 @@
     "status": "active",
     "sources": [
       "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "fintech/ contains 143 entries (excluding INDEX, 144 total) centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-mone",
   "headings": [

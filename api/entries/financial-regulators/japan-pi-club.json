@@ -37,7 +37,13 @@
       "https://www.piclub.or.jp/",
       "https://www.igpandi.org/clubs",
       "https://www.fsa.go.jp/menkyo/hoken.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against トーア再保険 for a reinsurance peer (both sit outside the FSA non-life direct primary register) and 日本海事協会 (ClassNK) for the closest marine-industry sibling. The broader system frame is insurance index and the global P&I context is the Inte",
   "headings": [

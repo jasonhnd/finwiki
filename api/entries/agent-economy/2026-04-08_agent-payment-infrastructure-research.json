@@ -26,7 +26,13 @@
       "https://www.x402.org/",
       "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
       "https://eips.ethereum.org/EIPS/eip-8004"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Skill マーケット有料化 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

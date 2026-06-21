@@ -42,7 +42,13 @@
       "https://www.caa.go.jp/policies/policy/consumer_policy/caution/caution_026/",
       "https://investor.pypl.com/news-and-events/news-details/2021/PayPal-to-Acquire-Paidy/default.aspx",
       "https://paidy.com/corporate/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "BNPL in Japan is best treated as a checkout-credit boundary, not as a separate magic category. A product can look like \"あと払い\" while its legal / operating route touches installment sales, credit purchase intermediation, merchant acquiring, consumer screening, convenience-store repayment, wallet linka",
   "headings": [

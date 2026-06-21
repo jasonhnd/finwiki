@@ -44,7 +44,13 @@
       "https://www.sec.gov/Archives/edgar/data/0000073124/000007312425000105/ntrs-20241231.htm",
       "https://www.northerntrust.com/content/dam/northerntrust/pws/nt/documents/earnings/2024/quart-earn-release-q42024-bb3681.pdf",
       "Wikipedia: Northern Trust (公開情報, 2026-05-25 抽出)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trust-banks INDEX as a foreign-affiliated trust / asset-servicing subsidiary anchor. Read it against State Street Japan / BNY Mellon Japan / JPMorgan Japan for the foreign custodian / asset-servicing peer cluster, マスタートラスト信託銀行 / 三菱 UFJ 信託銀行 for the domestic trust peer cluster,",
   "headings": [

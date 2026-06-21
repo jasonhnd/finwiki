@@ -46,7 +46,13 @@
       "Orient Corporation IR — https://www.orico.co.jp/",
       "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
       "ASF Japan — https://www.asf-japan.gr.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan auto-loan ABS — the ~JPY 1.5–2 trillion annual issuance segment dominated by captive originators (Toyota Finance, Toyota Financial Services cross-border shelf, Honda Finance, Nissan Credit) and bank-affiliated multi-brand originators (Sumitomo Mitsui Auto Service, Orient Corporation, MUFG Capi",
   "headings": [

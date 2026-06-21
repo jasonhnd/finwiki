@@ -31,10 +31,13 @@
       "ethereum"
     ],
     "status": "candidate",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-7702",
-      "https://eips.ethereum.org/EIPS/eip-4337"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

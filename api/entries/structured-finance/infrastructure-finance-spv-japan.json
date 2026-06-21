@@ -44,7 +44,13 @@
       "DBJ infrastructure disclosures — https://www.dbj.jp/en/",
       "JPX infrastructure-fund listings",
       "Sogo shosha and infrastructure-fund IR (Industrial & Infrastructure Fund, Nippon Logistics)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese infrastructure financing combines (1) traditional public-works financing (central / local government, JFC, JBIC, DBJ) for sovereign-backed projects, (2) PFI (Private Finance Initiative) structures since the 1999 PFI Law that involve private SPVs delivering and financing public-purpose infra",
   "headings": [

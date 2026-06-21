@@ -31,13 +31,13 @@
       "web3"
     ],
     "status": "active",
-    "sources": [
-      "https://www.moonpay.com/",
-      "https://transak.com/",
-      "https://banxa.com/",
-      "https://www.fsa.go.jp/",
-      "https://jvcea.or.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内暗号資産マーケットメイカー / OTC デスク業界 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [

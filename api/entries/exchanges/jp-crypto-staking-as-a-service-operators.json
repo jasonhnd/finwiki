@@ -31,14 +31,13 @@
       "defi-adjacent"
     ],
     "status": "active",
-    "sources": [
-      "https://www.kiln.fi/",
-      "https://www.figment.io/",
-      "https://www.bitflyer.com/ja-jp/staking",
-      "https://coin.z.com/jp/",
-      "https://www.sbivc.co.jp/",
-      "https://jvcea.or.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内機関カストディ三本柱 for peer / contrast context and JVCEA 自主規制 for the broader system / regulatory boundary.",
   "headings": [

@@ -38,14 +38,13 @@
       "financial-inclusion"
     ],
     "status": "active",
-    "sources": [
-      "https://boj.org.jm/",
-      "https://boj.org.jm/core-functions/currency/cbdc/",
-      "https://boj.org.jm/jam-dex/",
-      "https://lynk.us/",
-      "https://www.bis.org/publ/work1116.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-jurisdiction case study on JAM-DEX (Jamaica Digital Exchange), the Bank of Jamaica's retail CBDC launched in 2022 — the third major small-economy retail CBDC after the Bahamas Sand Dollar (2020) and Nigeria eNaira (2021), and the most cleanly adopted of",
   "headings": [

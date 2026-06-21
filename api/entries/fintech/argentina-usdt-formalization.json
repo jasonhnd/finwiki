@@ -50,7 +50,13 @@
       "IMF Argentina Article IV consultations (2024, 2025)",
       "Chainalysis Latam reports (2024, 2025, 2026)",
       "Uruguay BCU and Paraguay BCP crypto regulatory statements"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Argentina's two-year arc under Milei (Dec 2023 inauguration → 2025) has converted what was the world's most acute case of shadow dollarization via USDT (40-50% of household liquid USD assets pre-2024, see EM 暗号ドル化パターン) into a formally regulated and tax-reformed crypto economy. The Comisión Nacional",
   "headings": [

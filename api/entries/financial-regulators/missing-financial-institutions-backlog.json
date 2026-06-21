@@ -37,7 +37,13 @@
       "METI: 割賦販売法 registered business operator lists",
       "FSA / JPX / JSDA / JASDEC / JSCC public short-selling, stock-lending, and TOB materials",
       "JBA / JCA / FISC public bank API, card-security, and payment-control materials"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page is the execution checklist for expanding financial-regulators INDEX from a major-institution wiki into a registry-aware Japan financial institution map.",
   "headings": [

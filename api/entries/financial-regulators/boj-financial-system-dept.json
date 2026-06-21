@@ -39,7 +39,13 @@
       "https://www.boj.or.jp/en/finsys/exam_monit/index.htm",
       "https://www.boj.or.jp/en/finsys/fsr/index.htm",
       "https://www.boj.or.jp/en/about/publication/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the BoJ market-operations counterpart and FSA 監督局 for the regulatory-perimeter contrast. For the broader prudential system, anchor through BoJ monetary policy and banking landscape.",
   "headings": [

@@ -15,6 +15,23 @@ sources:
   - "https://www.orix.co.jp/grp/en/about/businesses/insurance/"
   - "https://www.orix.co.jp/grp/en/ir/library/annual_report/"
   - "https://www.orix.co.jp/grp/en/pdf/ir/library/annual_report/AR2025E.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # オリックス生命保険

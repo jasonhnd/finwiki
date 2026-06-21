@@ -42,7 +42,13 @@
       "https://www.global.jcb/ja/about-us/business-area/brand/",
       "https://www.pcisecuritystandards.org/standards/pci-dss/",
       "https://www.emvco.com/emv-technologies/3-d-secure/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page records the public structure of Japan card merchant-fee and interchange-related disclosures. The scope is card merchant fee composition, issuer-fee / interchange disclosure, acquirer economics, and related public-policy materials. Broader merchant PSP pricing, settlement reserves, chargeba",
   "headings": [

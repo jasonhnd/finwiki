@@ -42,7 +42,13 @@
       "https://www.zenshinhoren.or.jp/cgcs/",
       "https://www.chusho.meti.go.jp/",
       "https://www.jfc.go.jp/n/finance/sme/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the federation / coordinating-body page for Japan's credit guarantee system. Pair it with Japan credit guarantee system (the mechanism page) and the Japan policy finance system (the broader perimeter). Compare its role with the sector-specific federation",
   "headings": [

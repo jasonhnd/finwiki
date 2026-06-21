@@ -42,7 +42,13 @@
       "https://www.isda.org/",
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A yen-USD cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange principal and periodic floating-rate interest payments in two different currencies — typically JPY against USD — over a multi-year tenor. The \"basis\" is the spread (in basis points) added to one leg,",
   "headings": [

@@ -32,7 +32,13 @@
     "sources": [
       "https://shinseifinancial.co.jp/company/corporate.html",
       "https://www.sbigroup.co.jp/company/group/shinseifinancial.php"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under consumer-finance INDEX. Read it with APLUS for the adjacent SBI Shinsei consumer-credit lane and Japan credit purchase and card operator registry index for the broader credit / installment boundary.",
   "headings": [

@@ -54,7 +54,13 @@
       "https://www.sbv.gov.vn/webcenter/portal/en/home",
       "https://www.bnm.gov.my/",
       "https://www.bis.org/publ/work1247.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index and is the regional routing surface for ASEAN-plus-HK stablecoin policy. Read it alongside the five-pole global matrix at fintech/global-stablecoin-regulatory-five-pole-matrix (which slots MAS and HKMA into a world view) and the EM dollarization counter-pattern at",
   "headings": [

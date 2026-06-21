@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
       "https://www.commbank.com.au/about-us/our-company/international-branches/asia.html",
       "https://www.commbank.com.au/content/dam/commbank-assets/about-us/2026/Discl_202509%E6%9C%88%E6%9C%9F.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Commonwealth Bank Japan sits under foreign-financial-institutions INDEX and is a foreign-bank branch route inside the Japan foreign-bank branch registry. Read it with ANZ Bank Japan, National Australia Bank Japan, foreign-bank branch licensing, and cross-border finance.",
   "headings": [

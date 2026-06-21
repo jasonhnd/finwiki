@@ -32,9 +32,13 @@
       "institutional"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.chain.link/ccip"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

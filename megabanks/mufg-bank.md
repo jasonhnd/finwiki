@@ -19,6 +19,29 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.bk.mufg.jp/kigyou/profile.html"
   - "https://www.mufg.jp/profile/biz_and_network/group/index.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: holds_license
+    target: financial-licenses/bank-license-and-baas-boundary
+    evidence: banking_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/mufg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 三菱UFJ銀行 (MUFG Bank)

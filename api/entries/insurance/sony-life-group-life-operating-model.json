@@ -38,7 +38,13 @@
       "https://www.sonyfh.co.jp/en/financial_info/",
       "https://www.seiho.or.jp/english/about/companies/",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
-    ]
+    ],
+    "canonical_anchor": "life-insurers/sony-life",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index and is the channel / operating-model deep dive for Sony Life. Read it together with life insurance channel mix for the macro framing of agent vs bancassurance vs direct, with Japan life big four for the traditional sales-agency contrast, with internet life busin",
   "headings": [

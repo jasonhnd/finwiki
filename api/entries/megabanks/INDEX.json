@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "各 FG 公式 IR 資料・有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "megabanks/ is a standalone top-level domain, split out of the former JapanFG entity umbrella. It covers Japan's mega-bank groups and financial-group holding companies: the three mega-bank groups (MUFG / SMFG / Mizuho) and their core banks, the Resona group, telecom / platform financial groups, the p",
   "headings": [

@@ -47,7 +47,13 @@
       "https://aupay.auone.jp/",
       "https://www.lawsonbank.jp/",
       "https://www.aupay-card.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under retail index as the strategic-restructuring deep dive for the 2024-02 Lawson take-private. It extends Lawson + KDDI retail finance (the structural overview page) with the deal mechanics, the post-private capital structure, and the longer-arc strategic logic of moving a listed C",
   "headings": [

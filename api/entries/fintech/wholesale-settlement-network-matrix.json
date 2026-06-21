@@ -42,17 +42,13 @@
       "commercial-bank-money"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fnality.org/",
-      "https://www.bankofengland.co.uk/news/2023/november/boe-statement-on-fnality",
-      "https://www.partior.com/",
-      "https://www.mas.gov.sg/news/media-releases/2021/partior-launch",
-      "https://www.jpmorgan.com/kinexys",
-      "https://www.jpmorgan.com/onyx",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc/agora.htm",
-      "https://www.bis.org/publ/work1116.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the six-way side-by-side comparison matrix for the most-cited wholesale settlement networks. It complements the per-network deep dives at Fnality fnPS, Partior, JPM Onyx / Kinexys, mBridge, and BIS Project Agorá. For the governance pattern see 多大银行联邦治理; for the",
   "headings": [

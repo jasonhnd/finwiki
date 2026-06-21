@@ -27,7 +27,16 @@
       "https://go.dev/ref/mod",
       "https://docs.npmjs.com/cli/v10/configuring-npm/package-json",
       "https://securityscorecards.dev/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [
+      "[[security/fork-and-rebrand-5-layer-audit-framework]]",
+      "[[security/forensic-identity-anchor-chain]]"
+    ],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under FinWiki index. Read it with fork-and-rebrand audit framework for peer context and systems index for the broader dependency boundary.",
   "headings": [

@@ -40,7 +40,13 @@
       "https://gmo-aozora.com/company/outline.html",
       "https://sonybank.jp/corporate/aboutus/profile.html",
       "https://www.uibank.co.jp/info/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan net-bank competition includes several public operating models: ecosystem retail banks, full-banking BaaS / white-label banks, SME / corporate API banks, securities / asset-formation banks, and regional-group digital banks. The FSA bank list provides the legal universe. Public comparison fields",
   "headings": [

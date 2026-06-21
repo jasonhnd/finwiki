@@ -39,6 +39,49 @@
       "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)",
       "https://diamond.jp/articles/-/305405",
       "https://jbpress.ismedia.jp/articles/-/76962"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "financial-licenses/securities-license-stack",
+        "evidence": "fibo_registry",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "member_of_sro",
+        "target": "financial-regulators/jsda",
+        "evidence": "sro_membership",
+        "source": "https://www.jsda.or.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/smfg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -88,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6533,
-    "word_like_tokens": 1054,
+    "nonspace_chars": 7236,
+    "word_like_tokens": 1168,
     "inbound_wikilinks_count": 68,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

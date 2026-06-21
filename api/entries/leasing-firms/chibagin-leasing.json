@@ -39,7 +39,13 @@
       "https://www.chibabank.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.chiginkyo.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎ",
   "headings": [

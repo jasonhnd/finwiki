@@ -42,7 +42,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.reit.com/what-reit",
       "https://www.sec.gov/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The single biggest structural difference between J-REIT and US REIT is the management model. J-REIT use an external-management structure: an investment corporation outsources asset management to a separately incorporated asset-management company, typically owned by the developer sponsor. US REIT, af",
   "headings": [

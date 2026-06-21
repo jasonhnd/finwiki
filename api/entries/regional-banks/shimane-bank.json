@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.shimagin.co.jp/company/gaiyo/",
       "https://www.sbigroup.co.jp/news/2023/1122_14245"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against もみじ銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

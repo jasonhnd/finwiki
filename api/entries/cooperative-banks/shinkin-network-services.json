@@ -42,7 +42,13 @@
       "https://www.shinkin.co.jp/network/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin.org/zenshinkyo/about/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the operational central-bank counterpart that anchors the shinkin system, against 全国信用金庫協会 for the industry-body / policy layer, and against Japan shinkin bank registry for the full member-population route. The cooperative-sys",
   "headings": [

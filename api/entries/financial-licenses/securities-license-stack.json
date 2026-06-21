@@ -39,7 +39,13 @@
       "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html",
       "https://www.jsda.or.jp/about/kisoku/index.html",
       "https://elaws.e-gov.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan securities activity is not controlled by one generic \"broker license.\" The practical stack is built from the Financial Instruments and Exchange Act (FIEA), FSA / Local Finance Bureau registration lists, JSDA self-regulation, exchange / PTS participation rules, clearing and settlement access, a",
   "headings": [

@@ -46,7 +46,13 @@
       "https://www.mof.go.jp/english/policy/jgbs/topics/Inflation-Indexed_Bonds/index.htm",
       "https://www.boj.or.jp/en/mopo/outline/qqe.htm",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A JPY inflation swap is an OTC derivative in which one party pays a fixed rate and the other party pays a floating rate indexed to a Japanese Consumer Price Index (CPI) measure — most commonly the Statistics Bureau's CPI ex-fresh-food index (生鮮食品除く). The two principal structural forms are zero-coupo",
   "headings": [

@@ -35,7 +35,13 @@
       "MUFG 証券 HD 公式サイト (https://www.sc.mufg.jp/, 2026-05-25 参照)",
       "MUFG 統合報告書・有価証券報告書 (2024-25 公開分)",
       "Morgan Stanley 10-K Filings (joint venture sections, 2024-25)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against MUFG (8306、親会社), SMBC 日興証券 / みずほ証券 for peer / contrast (メガバンク系証券)、野村 HD / 大和証券 for independent rival context, and 金融庁 for the regulatory boundary.",
   "headings": [

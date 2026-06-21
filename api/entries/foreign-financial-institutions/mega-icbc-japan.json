@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.megabank.com.tw/abroad/tokyo/jp",
       "https://www.megabank.com.tw/en-us/english/overseas"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 玉山銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

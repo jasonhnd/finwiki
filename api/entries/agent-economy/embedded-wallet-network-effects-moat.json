@@ -31,10 +31,13 @@
       "moat"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.privy.io/",
-      "https://docs.cdp.coinbase.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

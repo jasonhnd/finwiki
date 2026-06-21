@@ -39,7 +39,13 @@
       "https://www.jsda.or.jp/en/about/members-list/index.html",
       "https://www.fsa.go.jp/en/news/2025/20250630/20250630.html",
       "https://www.ibajapan.org/ja/who-we-are/our-members?page=1"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Foreign financial groups in Japan often operate through a stack, not one license: foreign bank branch, securities company / Type I FIBO, investment management, trust / custody, foreign bank agency, payments, or representative office. The right question is \"which Japan entity does which regulated act",
   "headings": [

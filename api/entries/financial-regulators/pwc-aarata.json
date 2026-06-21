@@ -34,14 +34,13 @@
       "pwc"
     ],
     "status": "active",
-    "sources": [
-      "https://www.pwc.com/jp/ja/about-us/member/japan.html",
-      "https://www.pwc.com/jp/ja/services/audit-assurance.html",
-      "https://www.pwc.com/jp/ja/issues/crypto-asset.html",
-      "https://jicpa.or.jp/",
-      "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it alongside トーマツ (Deloitte) and EY 新日本 for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [

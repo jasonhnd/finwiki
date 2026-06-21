@@ -35,7 +35,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://midori-life.com/company/overview/",
       "https://midori-life.com/company/enkaku/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). Read it against the mid-size mutual carrier 朝日生命 and the specialty sub-brand メディケア生命 for peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / industry-body boundary. Small carriers that escape large-group pages are track",
   "headings": [

@@ -34,7 +34,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Cardif Non-Life company profile: https://nonlife.cardif.co.jp/company/profile",
       "Cardif Japan corporate profile 2025: https://nonlife.cardif.co.jp/wp-content/uploads/sites/37/2025/12/Cardif-CorporateProfile_2025.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/cardif-nonlife",
   "headings": [

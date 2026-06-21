@@ -45,7 +45,13 @@
       "https://np-kakebarai.com/",
       "https://aftee.jp/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori",
   "headings": [
@@ -97,6 +103,6 @@
     "nonspace_chars": 4627,
     "word_like_tokens": 725,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

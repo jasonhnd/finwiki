@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON",
       "https://www.sonpo.or.jp/exam/dairiten/about/index.html",
       "https://www.sonpo.or.jp/report/statistics/boshu/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Insurance distribution in Japan is mapped by authority and responsibility. An insurer, an insurance agent / solicitor, an insurance broker, a bank counter, a retailer, a platform app, and a comparison site can all touch the customer journey, but they do not carry the same legal role.",
   "headings": [

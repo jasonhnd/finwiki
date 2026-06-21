@@ -39,7 +39,13 @@
       "https://www.jsf.co.jp/en/about/corp-message.html",
       "https://www.jsf.co.jp/en/business/security-finance.html",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan margin trading is not just a retail leverage product. It is a market-infrastructure and securities-finance route connecting brokers, Tokyo Stock Exchange rules, Japan Securities Finance, collateral, stock lending, clearing, settlement, short-sale pressure, and investor risk controls.",
   "headings": [

@@ -36,7 +36,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://www.fukokushinrai.co.jp/company/profile/outline/",
       "https://www.fukokushinrai.co.jp/company/profile/history/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). Its controlling shareholder is the mutual major 富国生命, and its founding parent was the P&C carrier 共栄火災海上保険. Read it against MS Primary 生命 for the FI / bancassurance peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / in",
   "headings": [

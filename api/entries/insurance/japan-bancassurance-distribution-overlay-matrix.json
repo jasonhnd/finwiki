@@ -52,7 +52,13 @@
       "https://www.manulife.co.jp/",
       "https://www.prudential.co.jp/",
       "https://www.dai-ichi-frontier.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese bancassurance (銀行窓販 / 窓販) was liberalised in three stages between 2001 and 2007 and now sits as the dominant channel for foreign-currency annuity, foreign-currency single-premium savings, level-premium foreign-currency whole-life with medical rider, and yen single-premium savings. The overl",
   "headings": [

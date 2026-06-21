@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "http://www.jp.abchina.com/jp/branch_profile/",
       "http://www.jp.abchina.com/en/branch_profile/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

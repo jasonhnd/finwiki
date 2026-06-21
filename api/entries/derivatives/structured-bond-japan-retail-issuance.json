@@ -51,7 +51,13 @@
       "https://www.smbcnikko.co.jp/",
       "https://www.daiwa.jp/",
       "https://www.nomura.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "\"Structured bond\" (仕組債, shikumisai) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, Equity Bond) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digit",
   "headings": [

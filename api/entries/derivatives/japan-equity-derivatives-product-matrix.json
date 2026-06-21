@@ -55,7 +55,13 @@
       "https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225",
       "https://www.jpx.co.jp/english/markets/indices/topix/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's listed equity derivatives complex is concentrated on the Osaka Exchange (OSE) under the Japan Exchange Group (JPX) with clearing at JSCC. The product set spans Nikkei 225 futures (standard, mini, micro), Nikkei 225 options, TOPIX futures (standard and mini), TOPIX options, JPX-Nikkei Index 4",
   "headings": [

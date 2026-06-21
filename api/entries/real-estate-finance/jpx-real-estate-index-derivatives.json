@@ -44,7 +44,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Tokyo Stock Exchange REIT Index (東証REIT指数) is JPX's headline benchmark for the J-REIT market, a market-cap-weighted index of all listed J-REITs. It is the standard reference index for J-REIT performance attribution, ETF tracking, and sector-allocation comparisons. The investable derivatives laye",
   "headings": [

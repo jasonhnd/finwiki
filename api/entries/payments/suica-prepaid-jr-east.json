@@ -43,7 +43,13 @@
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.felicanetworks.co.jp/",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the JR East-anchored prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with transit-prepaid e-money economics for the cross-issuer scheme view (10 IC mutual-use, Cyberne settlement). Compare with PASM",
   "headings": [

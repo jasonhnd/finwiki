@@ -37,7 +37,13 @@
       "https://www.meijiyasuda.co.jp/english/disclosure/annual-reports/",
       "https://www.sumitomolife.co.jp/english/report/",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "\"Japan life insurance big four\" is a market shorthand, not a formal FSA category. It usually refers to Nippon Life, Dai-ichi Life, Meiji Yasuda, and Sumitomo Life. Public comparison fields include legal form, channel architecture, product mix, overseas expansion, capital disclosure, and policyholder",
   "headings": [

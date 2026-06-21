@@ -42,7 +42,13 @@
       "https://www.chusho.meti.go.jp/koukai/shingikai/",
       "https://www.meti.go.jp/policy/jigyou_saisei/index.html",
       "https://www.jfc.go.jp/n/finance/sme/m_keiei.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as one of the three product-bearing divisions inside 日本政策金融公庫 (JFC). Read it alongside JFC Agriculture, Forestry and Fisheries Division as a peer JFC division, against Japan credit guarantee system and JFG for the parallel public-credit channel that operate",
   "headings": [

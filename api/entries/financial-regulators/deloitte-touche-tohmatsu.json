@@ -34,15 +34,13 @@
       "deloitte"
     ],
     "status": "active",
-    "sources": [
-      "https://www.deloitte.com/jp/ja/services/audit-assurance.html",
-      "https://www2.deloitte.com/jp/ja/legal/about-deloitte.html",
-      "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html",
-      "https://jicpa.or.jp/",
-      "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/",
-      "https://ja.wikipedia.org/wiki/アビームコンサルティング"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [

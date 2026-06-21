@@ -35,7 +35,17 @@
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
       "https://www.taiju-life.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against はなさく生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
@@ -76,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2096,
-    "word_like_tokens": 320,
+    "nonspace_chars": 2159,
+    "word_like_tokens": 330,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

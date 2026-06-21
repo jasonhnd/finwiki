@@ -44,7 +44,13 @@
       "https://www.emvco.com/emv-technologies/3-d-secure/",
       "https://paymentsjapan.or.jp/",
       "https://www.fsa.go.jp/policy/shikinkessai/01.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan EC card security is not only \"3-D Secure.\" The useful control stack is: card-data protection -> merchant vulnerability control -> EMV 3-D Secure authentication -> fraud monitoring -> acquirer / PSP / merchant information sharing -> chargeback and remediation.",
   "headings": [

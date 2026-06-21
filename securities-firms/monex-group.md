@@ -20,6 +20,10 @@ sources:
   - "Wikipedia: マネックスグループ (公開情報、2026-05-19 抽出)"
   - "マネックスグループ 公式コーポレートサイト IR セクション"
   - "公開プレスリリース (NTT ドコモ提携 2024 年公表分)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # マネックスグループ (Monex Group)

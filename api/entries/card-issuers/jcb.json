@@ -32,6 +32,25 @@
     "sources": [
       "Wikipedia: 株式会社ジェーシービー (公開情報、2026-05-19 参照)",
       "JCB 公式コーポレートサイト 会社概要 (公開情報)"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "card-issuers/installment-sales-act-2020-amendment",
+        "evidence": "credit_purchase_registration_context",
+        "source": "https://www.meti.go.jp/policy/economy/consumer/credit/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -73,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4557,
-    "word_like_tokens": 738,
+    "nonspace_chars": 4853,
+    "word_like_tokens": 783,
     "inbound_wikilinks_count": 43,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

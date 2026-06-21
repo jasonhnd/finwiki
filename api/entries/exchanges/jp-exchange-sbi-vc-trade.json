@@ -28,16 +28,13 @@
       "stablecoin"
     ],
     "status": "active",
-    "sources": [
-      "https://www.sbivc.co.jp/company-profile",
-      "https://www.sbivc.co.jp/usdc",
-      "https://www.sbivc.co.jp/dmm_vct",
-      "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
-      "https://coinpost.jp/?p=272806",
-      "https://coinpost.jp/?p=685228"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against コインチェック株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [

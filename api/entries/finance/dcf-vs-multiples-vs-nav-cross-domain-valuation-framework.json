@@ -44,7 +44,13 @@
       "https://www.jrei.jp/",
       "https://www.jcr.co.jp/en/",
       "https://www.boj.or.jp/en/statistics/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Three valuation approaches dominate financial analysis across domains: discounted cash flow (DCF), trading / transaction multiples, and net asset value (NAV). Each carries a structural assumption about what drives value — future free cash flow, market-implied comparable pricing, or the sum of asset",
   "headings": [

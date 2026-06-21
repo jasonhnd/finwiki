@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/news/25/ginkou/20140626-5.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
       "https://www.fsa.go.jp/common/law/guide/city/06.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Foreign bank agency business is different from a foreign bank branch license. It is the route where a bank or Japan branch acts as agent or intermediary for a principal foreign bank. This matters for cross-border corporate banking, global cash management, offshore branch service, and foreign group c",
   "headings": [

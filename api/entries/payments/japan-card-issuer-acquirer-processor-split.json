@@ -42,7 +42,13 @@
       "https://www.jcb.co.jp/merchant/regulation/",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://paymentsjapan.or.jp/category/publications/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan card payments is split into at least five roles: issuer, international / domestic brand, acquirer, card-number contract / merchant-contracting operator, and processor / PSP. A single group can hold several roles, but FinWiki does not flatten them into \"credit-card company.\"",
   "headings": [

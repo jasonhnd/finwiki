@@ -34,9 +34,13 @@
       "micropayment"
     ],
     "status": "candidate",
-    "sources": [
-      "https://github.com/coinbase/x402"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

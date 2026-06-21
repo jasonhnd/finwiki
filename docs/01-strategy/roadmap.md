@@ -77,6 +77,8 @@
 
 2026-06-21 UI/UX implementation update: Issue #23 reading-experience spec is documented in [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md) and implemented in `site/src/layouts/EntryLayout.astro`, `site/src/layouts/Base.astro`, and `site/src/styles/global.css`. The scoped pass preserves the approved UI baseline while improving entry-page metadata hierarchy, prose rhythm, table containment, TOC readability and mobile overflow behavior.
 
+2026-06-21 entity graph / audit implementation update: Issues #36 / #37 / #38 are implemented on the review branch with `entity_node` / `entity_edges` tooling, 90 Tier-1 nodes, 115 declared typed edges and 115 derived inverse edges. Issues #40 / #41 add report-only factual-consistency and provenance-completeness audits. Issue #42 enriches the static per-entry API with safe frontmatter fields. Issue #43 is scoped in [asset-management-register-gap-shortlist-2026-06-21.md](asset-management-register-gap-shortlist-2026-06-21.md). These items are ready for review but are not closed here.
+
 ## 历史近期重点（P1 → P4）
 
 ### P1. canonical_anchor Phase 2 ✅ 全部完成（v2026.06.04-3）

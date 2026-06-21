@@ -36,7 +36,13 @@
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes structured-finance knowledge: how Japan's asset-backed securities, residential and commercial mortgage-backed deals, securitization SPVs, trust beneficial interests, and credit-rating methodologies fit together. It connects originator banks and finance companies in banking/INDEX a",
   "headings": [

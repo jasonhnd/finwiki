@@ -26,6 +26,10 @@ sources:
   - "https://www.zengin-net.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://www.fsa.go.jp/common/law/guide/bank/"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # Japanese Bankers Association (Zenginkyō / 全国銀行協会)

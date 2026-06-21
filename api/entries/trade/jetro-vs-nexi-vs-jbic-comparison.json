@@ -39,7 +39,13 @@
       "https://www.jbic.go.jp/en/",
       "https://www.meti.go.jp/english/policy/external_economy/trade_control/index.html",
       "https://www.mof.go.jp/english/policy/international_policy/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and routes into the broader policy-finance INDEX. Read with JETRO 独立行政法人 organisation structure for the JETRO-specific anatomy and Japan project-finance stack diagram for where credit pieces plug into deals.",
   "headings": [

@@ -36,7 +36,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://www.meijiyasuda-trustlife.co.jp/about/company/",
       "https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20251001_01.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). Its controlling parent is the mutual major 明治安田生命; the group's P&C arm is 明治安田損害保険. Read it against クレディ・アグリコル生命 for the specialty / single-product peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / industry-body bound",
   "headings": [

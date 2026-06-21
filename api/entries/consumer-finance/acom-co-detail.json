@@ -38,7 +38,13 @@
       "https://www.acom.co.jp/corporate/ir/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.mufg.jp/profile/group/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under consumer-finance INDEX and complements the company-level summary at アコム株式会社. Read it against SMBCコンシューマーファイナンス (プロミス) for MUFG-group competitor SMFG-side context, アイフル for independent-pure-play consumer-finance peer, and MUFG / 三菱UFJ銀行 for parent-group context.",
   "headings": [

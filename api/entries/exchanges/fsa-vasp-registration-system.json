@@ -29,11 +29,13 @@
       "registration"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
-      "https://elaws.e-gov.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2017-04 施行の改正資金決済法により、日本は世界に先駆けて暗号資産交換業の登録制を導入。施行時点で営業中だった事業者は「みなし業者」として暫定的に営業継続が認められ、順次本登録へ移行した。2019 年の法改正で従来の「仮想通貨」呼称が「暗号資産」に統一され、業態名も「暗号資産交換業」となった。所管は金融庁（FSA）、実務窓口は各財務局。",
   "headings": [

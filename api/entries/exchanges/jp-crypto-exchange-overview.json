@@ -36,7 +36,13 @@
       "https://jvcea.or.jp/member/",
       "https://www.boj.or.jp/about/education/oshiete/money/c27.htm",
       "https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "日本の暗号資産交換業は、金融庁・財務局の登録制と JVCEA 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。2026-02-28 時点の金融庁英語版登録一覧では暗号資産交換業者は 27 業者。国内市場は「登録 VASP + JVCEA 会員 + FSA 監督 + 税務報告/CARF」まで含めて見る必要がある。",
   "headings": [

@@ -40,7 +40,13 @@
       "伊藤忠商事 公式 IR / 統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
       "EDINET 有価証券報告書検索"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trading-company-finance INDEX. Read it against 東京センチュリー (the same-parent 外向けリース・asset finance platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 丸紅フィナンス, 住友商事FM. See banking index for t",
   "headings": [

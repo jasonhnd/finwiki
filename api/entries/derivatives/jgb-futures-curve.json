@@ -44,7 +44,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.boj.or.jp/en/mopo/measures/mkt_ope/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JGB futures are exchange-listed interest-rate derivatives on Japanese government bonds, traded on the Osaka Exchange (OSE) under the Japan Exchange Group (JPX). They include three principal contracts at standard size — 10-year, 5-year, and 20-year — plus a \"mini\" 10-year contract sized at one-tenth",
   "headings": [

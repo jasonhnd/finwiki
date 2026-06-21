@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://jp.ccb.com/tokyo/lng/about/340076.html",
       "https://www.ccb.com/tokyo/en/about/635471.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

@@ -63,7 +63,13 @@
       "https://www.scbri.jp/reports/.assets/finance_20240502.pdf",
       "https://www.shinyokumiai.or.jp/credit_cooperative/outline.html",
       "https://all.rokin.or.jp/about/accounts.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's \"cooperative-finance\" lane is not one system. There are five distinct federation-anchored systems sitting under three different ministries and three different statutes: JA Bank (497 JA + 31 Shinnoren + 農中 under 農協法 / 農林中央金庫法, joint FSA + 農水省), JF Marine Bank (71 JF + 10 JF Shingyoren + 農中 un",
   "headings": [

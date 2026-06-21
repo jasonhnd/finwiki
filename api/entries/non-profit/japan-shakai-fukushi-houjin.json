@@ -38,7 +38,13 @@
       "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077928.html",
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
       "https://www.wam.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX as the social-welfare-specific legal form, governed by its own statute outside the 一般法人法 family tabulated in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. It is the welfare-sector peer to the civic-activity form in Japan NPO法人 overview, and its donor-deductibility",
   "headings": [

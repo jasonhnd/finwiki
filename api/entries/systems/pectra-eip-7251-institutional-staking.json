@@ -32,9 +32,13 @@
       "institutional"
     ],
     "status": "candidate",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-7251"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

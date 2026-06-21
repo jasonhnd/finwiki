@@ -21,6 +21,10 @@ sources:
   - "金融庁 業務改善命令 (ビッグモーター関連, 2024) 公開発表"
   - "日本経済新聞「SOMPO、米データ大手パランティアに540億円出資」 (2020-06): https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/"
   - "新日本保険新聞「SOMPOホールディングス、Palantirと『安心・安全・健康のリアルデータプラットフォーム』を立ち上げ」 (2020-06-22): https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # SOMPO ホールディングス (Sompo Holdings)

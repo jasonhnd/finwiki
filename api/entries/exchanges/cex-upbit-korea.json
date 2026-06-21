@@ -38,7 +38,13 @@
       "公開情報整理 (KISA ISMS-P 认证 보도)",
       "公開情報整理 (K-Bank / 케이뱅크 실명확인 입출금 계정 보도)",
       "公開情報整理 (Naver / 한화 / Kakao 와의 자본 관계 보도)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for the closest peer comparison（#2），and global CEX top 10 comparison for the broader global market context.",
   "headings": [

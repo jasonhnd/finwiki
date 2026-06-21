@@ -43,7 +43,13 @@
       "https://www.ccc.co.jp/news/",
       "https://www.smfg.co.jp/news/",
       "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "V Point in its current form (2024-04-22 onward) is the bank-led common-point case of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with SMFG's SMBC Card (SMCC) as the issuing financial backbone and the payments / retail partner networ",
   "headings": [

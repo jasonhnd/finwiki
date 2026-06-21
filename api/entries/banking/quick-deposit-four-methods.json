@@ -26,10 +26,13 @@
       "integration"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.fsa.go.jp/common/shinsei/dendai/01.pdf",
-      "https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index. Read it against Regional bank consolidation pattern for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
   "headings": [

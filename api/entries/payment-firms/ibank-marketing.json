@@ -40,7 +40,13 @@
       "https://www.fukuoka-fg.com/",
       "https://walletplus.jp/",
       "https://www.fukuoka-fg.com/news/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as the FG-subsidiary fintech / wallet-app operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 / 十八親和銀行 / 熊本銀行 and the wallet-app peer PayPay FG / au フィナンシャル HD / 楽天 FG context. For broader system route see regional-bank",
   "headings": [

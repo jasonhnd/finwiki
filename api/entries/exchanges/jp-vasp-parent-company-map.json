@@ -29,10 +29,13 @@
       "parent-company"
     ],
     "status": "candidate",
-    "sources": [
-      "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "国内暗号資産交換業者 (VASP) は約 35 社 (2026-05 時点) が FSA 登録済みで、親会社属性により行動様式が大きく異なる。資本系列を 3 大分類で整理すると、(1) 上場会社系（独立した持株会社・事業会社の子会社）、(2) 独立系（親会社なし、創業者・経営陣保有）、(3) 海外系（グローバル CEX の日本法人）に分かれ、それぞれ商品設計・コンプラ姿勢・流動性供給戦略が異なる。",
   "headings": [

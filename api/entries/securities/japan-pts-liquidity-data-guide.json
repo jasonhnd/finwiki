@@ -39,7 +39,13 @@
       "https://www.japannext.co.jp/en/regulations",
       "https://www.odx.co.jp/equity/en/market_info/daily_report/",
       "https://www.odx.co.jp/equity/en/market_info/historical_data/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "PTS liquidity data is the evidence layer behind Japan best execution, SOR, and PTS. It helps answer whether alternative venues are material for a security, but it is not the same as a customer-specific best-execution result. A useful analysis must separate aggregate trading value, issue-level activi",
   "headings": [

@@ -35,7 +35,13 @@
       "公開情報整理 (DefiLlama Orca TVL/Volume データ, 2024-2026)",
       "公開情報整理 (Solana Foundation エコシステム発表)",
       "公開情報整理 (Orca foundation governance forum 発信)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against Raydium for the Solana AMM peer comparison, Solana エコシステム DEX 群比較 for the broader Solana DEX layer, and AMM 設計進化系譜 for the system / design boundary.",
   "headings": [

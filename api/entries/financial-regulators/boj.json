@@ -35,7 +35,17 @@
       "Wikipedia: 日本銀行 (2026-05-25 抽出)",
       "日本銀行 公式サイト (https://www.boj.or.jp/, 2026-05-25 参照)",
       "日本銀行法 (平成 9 年法律第 89 号)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "regulator",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 金融庁 for the regulatory counterpart, 預金保険機構 for the safety-net peer, and BoJ 金融政策 / BoJ 金融市場局 for internal organs.",
   "headings": [
@@ -86,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4542,
-    "word_like_tokens": 762,
+    "nonspace_chars": 4597,
+    "word_like_tokens": 771,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

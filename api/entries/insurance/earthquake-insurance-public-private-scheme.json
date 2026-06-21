@@ -35,7 +35,13 @@
       "https://www.mof.go.jp/policy/financial_system/earthquake_insurance/index.html",
       "https://www.sonpo.or.jp/insurance/jishin/index.html",
       "https://www.giroj.or.jp/ratemaking/earthquake/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese household earthquake insurance is not a normal private non-life product. It is a public-private scheme involving private non-life insurers, Japan Earthquake Reinsurance, and the Japanese government. It is normally attached to household fire insurance and is designed for residential building",
   "headings": [

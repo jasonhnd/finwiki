@@ -33,16 +33,13 @@
       "ey"
     ],
     "status": "active",
-    "sources": [
-      "https://www.shinnihon.or.jp/",
-      "https://www.shinnihon.or.jp/about-us/firm-information/",
-      "https://www.shinnihon.or.jp/services/financial-services/",
-      "https://jicpa.or.jp/",
-      "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/",
-      "https://ja.wikipedia.org/wiki/4大監査法人",
-      "https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。",
   "headings": [

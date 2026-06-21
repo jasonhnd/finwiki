@@ -48,7 +48,13 @@
       "https://www.docomo.ne.jp/corporate/ir/library/",
       "https://www.docomo.ne.jp/binary/pdf/corporate/ir/library/annual_report/",
       "https://paymentsjapan.or.jp/category/publications/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the operator-deep page for dポイント, pairing with d Point / au telco-point consolidation case for the comparative telco-anchor view, V Point (SMBC × CCC) case for the bank-anchored contrast, Japan points and loyalty landscape for the ecosystem map, point liability",
   "headings": [

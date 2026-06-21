@@ -43,7 +43,13 @@
       "https://www.boj.or.jp/en/statistics/boj/other/acmai/index.htm",
       "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_b/index.htm",
       "https://www.mof.go.jp/english/policy/jgbs/reference/appendix/breakdown.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against Japan CP market for peer / contrast context and JGB repo market for the broader system / regulatory boundary.",
   "headings": [

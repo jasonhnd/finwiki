@@ -40,7 +40,13 @@
       "https://www.paradigm.xyz/team",
       "https://polygon.technology/",
       "https://www.gmo.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain holds named strategic case studies — people, founders, regulators, and one operating-company case — where the public record is rich enough to extract a reusable pattern or template. Each entry has a \"what's the template\" framing, not just a profile.",
   "headings": [

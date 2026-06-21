@@ -35,7 +35,17 @@
       "Wikipedia: マネックスグループ (公開情報、2026-05-19 抽出)",
       "マネックスグループ 公式コーポレートサイト IR セクション",
       "公開プレスリリース (NTT ドコモ提携 2024 年公表分)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
@@ -78,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4672,
-    "word_like_tokens": 692,
+    "nonspace_chars": 4733,
+    "word_like_tokens": 702,
     "inbound_wikilinks_count": 35,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

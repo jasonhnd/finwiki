@@ -52,7 +52,13 @@
       "https://www.mof.go.jp/public_relations/finance/202402/202402e.html",
       "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
       "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the capital-markets overlay. It is the distribution-side spin-off mechanism — the in-kind dividend that delivers subsidiary shares to a parent's own shareholders. It now also absorbs the パーシャルスピンオフ (partial spin-off, re",
   "headings": [

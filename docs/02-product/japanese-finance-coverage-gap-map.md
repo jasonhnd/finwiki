@@ -63,6 +63,8 @@ This map uses four axes:
 | 6 | Public register source-route index | Readers and agents need clear routes from entity pages to source registers. | FSA lists, JSDA members, JPX listed-company search, NTA corporate-number site. | `[Content]` plus future provenance audit. |
 | 7 | AI-queryable coverage matrix | Before adding more AI-facing pages, define whether agents need static enriched files or a query interface. | Current `llms*`, `ai-index.json`, and static API. | #33 build follow-up. |
 
+Gap #1 is now scoped as a read-only shortlist in [asset-management-register-gap-shortlist-2026-06-21.md](../01-strategy/asset-management-register-gap-shortlist-2026-06-21.md). It does not create corpus entries; it prepares the candidate set and downstream content packet.
+
 ## Do-Not-Cover Set
 
 These are outside the current scope unless a future issue explicitly changes the product boundary:

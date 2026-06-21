@@ -45,24 +45,13 @@
       "vat"
     ],
     "status": "active",
-    "sources": [
-      "https://www.sec.gov/",
-      "https://www.cftc.gov/",
-      "https://www.fca.org.uk/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.mas.gov.sg/",
-      "https://www.eba.europa.eu/",
-      "https://www.esma.europa.eu/",
-      "https://www.oecd.org/tax/",
-      "https://www.irs.gov/",
-      "https://www.gov.uk/government/organisations/hm-revenue-customs",
-      "https://www.nta.go.jp/english/",
-      "https://www.iras.gov.sg/",
-      "https://www.uncitral.org/",
-      "https://www.uniformlaws.org/",
-      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
-      "https://www.federalregister.gov/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "As of mid-2026, no major financial regulator (US SEC / CFTC / FinCEN, UK FCA, Japan FSA, Singapore MAS, EU ESMA / EBA) has formally granted AI agents independent legal personhood, and no major tax authority (US IRS, UK HMRC, Japan NTA, Singapore IRAS, OECD) has created a new \"AI agent\" tax category.",
   "headings": [

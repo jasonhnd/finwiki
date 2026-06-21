@@ -14,6 +14,17 @@ sources:
   - "https://www.paypay-card.co.jp/company/profile/"
   - "https://www.paypay-card.co.jp/company/business/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/paypay-fg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # PayPayカード (PayPay Card)

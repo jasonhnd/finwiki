@@ -40,7 +40,13 @@
       "https://www.toyota-europe.com/brands-and-services/toyota-financial-services",
       "https://en.wikipedia.org/wiki/Toyota_Financial_Services",
       "https://www.toyotafinancial.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case (captive-finance subsidiary of a listed automaker). Read it against the dedicated Toyota Financial Services entity profile and its peers Honda Finance and Panasonic captive finance for the broader captive-finance pattern, and ag",
   "headings": [

@@ -32,9 +32,13 @@
       "self-custodial"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.privy.io/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

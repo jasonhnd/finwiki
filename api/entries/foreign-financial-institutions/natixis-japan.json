@@ -35,7 +35,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://apac.cib.natixis.com/site/l5uo4negaps6/api-website-feature/files/download/13335/_press_release__natixis_cib_establishes_a_banking_branch_in_japan.pdf?file_type=media_files"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

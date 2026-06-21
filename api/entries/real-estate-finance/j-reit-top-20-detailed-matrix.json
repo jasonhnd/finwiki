@@ -68,7 +68,13 @@
       "https://www.aeon-jreit.co.jp/en/",
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This matrix maps the top 20 listed J-REITs by approximate market capitalization (as of 2026-05) into a single comparison table covering ticker, sponsor, asset focus, AUM scale, market-cap band, LTV policy zone, distribution-per-unit (DPU) yield zone, sponsor type, top-tenant exposure pattern, and 20",
   "headings": [

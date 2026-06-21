@@ -35,7 +35,13 @@
       "公開情報整理 (DefiLlama Raydium TVL/Volume データ, 2024-2026)",
       "公開情報整理 (Solana Foundation エコシステム発表 / Serum 終焉時系列, 2022-12)",
       "公開情報整理 (Pump.fun × Raydium bonding curve 連動仕様, 2024-2025)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana peer context, global DEX major five comparison for EVM 対比, and AMM 設計進化系譜 for the broader system / design boundary.",
   "headings": [

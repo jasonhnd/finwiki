@@ -35,7 +35,13 @@
       "https://www.cgc-tokyo.or.jp/",
       "https://www.cgc-tokyo.or.jp/profile/index.html",
       "https://www.zenshinhoren.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Tokyo Credit Guarantee Corporation (東京信用保証協会) is the Tokyo-metropolis member of Japan's 51-corporation local credit guarantee system. It is consistently the largest single corporation in the federation by guarantee balance, eligible-borrower count, and policy-program scale, because the Tokyo metropo",
   "headings": [

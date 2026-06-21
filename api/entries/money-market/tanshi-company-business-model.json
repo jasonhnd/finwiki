@@ -41,7 +41,13 @@
       "https://www.central-tanshi.com/",
       "https://www.ueda-net.co.jp/yagi/",
       "https://www.boj.or.jp/research/wps_rev/wps_2000/kwp0003a.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against call market structure for the peer / contrast surface where tanshi brokerage actually happens, and against BoJ open market operations for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementa",
   "headings": [

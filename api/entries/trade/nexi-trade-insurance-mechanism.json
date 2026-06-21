@@ -40,7 +40,13 @@
       "https://www.nexi.go.jp/en/product/",
       "https://www.meti.go.jp/english/policy/external_economy/trade_control/index.html",
       "https://www.oecd.org/trade/topics/export-credits/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and explains the insurance layer that sits beside trade settlement. Read it against its same-domain peer documentary collection vs letter of credit — where collections leave the exporter holding buyer-default risk, 貿易保険 (trade insurance) is how that residual risk ge",
   "headings": [

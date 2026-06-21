@@ -29,7 +29,13 @@
       "Public agent-framework documentation on hook-based automation and instruction injection.",
       "Public Codex / AGENTS-style repository instruction patterns.",
       "Public Claude Code hook documentation and workflow examples."
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

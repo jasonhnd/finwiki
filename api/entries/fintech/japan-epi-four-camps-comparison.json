@@ -31,13 +31,13 @@
       "progmat"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://www.sbigroup.co.jp/news/",
-      "https://jpyc.co.jp/",
-      "https://progmat.co.jp/",
-      "https://www.boj.or.jp/en/paym/digital/index.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [

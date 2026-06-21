@@ -48,7 +48,13 @@
       "https://www.jr-eastpay.com/company/",
       "https://www.jreast.co.jp/aboutus/profile/",
       "https://www.jreast.co.jp/investor/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the transit-anchored loyalty ecosystem deep dive for the JR-East group, extending the JR-East Financial Subsidiaries page with the loyalty / point-ecosystem perspective. Pair it with Japan points landscape for the cross-loyalty context, d Point detailed ecosyst",
   "headings": [

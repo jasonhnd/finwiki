@@ -41,7 +41,13 @@
       "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/",
       "https://www.jbic.go.jp/en/information/press/press-2020/0703-013462.html",
       "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with financial-regulators/jbic, policy-finance/nexi, and policy-finance/jogmec for each institution in isolation, with policy-finance/oecd-export-credi",
   "headings": [

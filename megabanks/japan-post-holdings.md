@@ -14,6 +14,10 @@ sources:
   - "日本郵政 公式サイト (https://www.japanpost.jp/, 2026-05-25 参照)"
   - "日本郵政株式会社法 (平成 17 年法律第 98 号)"
   - "東京証券取引所 上場会社情報 6178 (2026-05-25 参照)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 # 日本郵政株式会社
 

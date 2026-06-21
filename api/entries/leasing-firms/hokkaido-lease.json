@@ -35,7 +35,13 @@
       "https://www.hokkaidobank.co.jp/",
       "https://www.hokuhoku-fg.co.jp/",
       "https://www.leasing.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
   "headings": [

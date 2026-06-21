@@ -43,7 +43,13 @@
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.boj.or.jp/en/about/education/oshiete/kess/i08.htm",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3788"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Bank of Japan's monetary policy is the legal and operating anchor for Japan's short-term money market. The statutory objective is price stability, and the practical transmission point is the guideline for money market operations decided at Monetary Policy Meetings (MPMs).",
   "headings": [

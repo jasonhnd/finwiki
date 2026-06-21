@@ -36,7 +36,13 @@
       "https://gmo-ps.com/service/postpay/",
       "https://www.gmo-pg.com/corp/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase bound",
   "headings": [

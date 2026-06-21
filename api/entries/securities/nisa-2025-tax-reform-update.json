@@ -40,7 +40,13 @@
       "https://www.fsa.go.jp/news/index.html",
       "https://www.jsda.or.jp/shijyo/seido/tax/2024nisaqa.html",
       "https://www.nta.go.jp/english/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities index. Read it against NISA 2024 flow for peer / contrast context and FIEA operator registry index for the broader system / regulatory boundary. This page records the 2025 tax-reform expansion items that sit on top of the 2024-launched permanent NISA regime.",
   "headings": [

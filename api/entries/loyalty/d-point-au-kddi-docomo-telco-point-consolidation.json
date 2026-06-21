@@ -41,7 +41,13 @@
       "https://www.kddi.com/corporate/newsrelease/",
       "https://www.docomo.ne.jp/info/news_release/",
       "https://www.recruit.co.jp/newsroom/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty INDEX and is the telco-anchored counterpart to the finance-anchored V Point (SMBC × CCC) case. Read with Japan points and loyalty landscape for the cross-ecosystem map, point liability accounting boundary for the breakage / IFRS-15 treatment, and Japan code-payment comp",
   "headings": [

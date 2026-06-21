@@ -41,7 +41,13 @@
       "https://www.fsa.go.jp/en/policy/index.html",
       "https://www.fsa.go.jp/common/about/sosiki/index.html",
       "https://www.fsa.go.jp/en/refer/councils/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against FSA 監督局 for the supervision-side counterpart and FSA 総合政策局 for the cross-bureau strategy lane. For market-rule context, anchor through JSDA and the legal / financial licenses index; for the BoJ-side prudential bureau contrast, see BoJ",
   "headings": [

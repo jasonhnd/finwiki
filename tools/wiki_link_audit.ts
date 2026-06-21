@@ -25,6 +25,7 @@ const IGNORED_DIRS = new Set([
 const CONTROL_DOCS = new Set([
   "README.md",
   "CHANGELOG.md",
+  "CONTRIBUTING.md",
   "AGENTS.md",
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",

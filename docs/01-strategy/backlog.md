@@ -31,6 +31,13 @@
 | closeout | #33 | AI surface consumability design | Drafted [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md); recommends static-first API enrichment and MCP deferral. |
 | closeout | #34 | provenance / source-completeness audit design | Drafted [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md); defines claim signals, marker proximity heuristic, report shape, and build packet. |
 | closeout | #23 | human-site reading experience | Drafted [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md) and implemented in the Astro reading layer; validation evidence pending final branch publish. |
+| ready for review | #36 | entity graph Packet 1 tooling | Added `entity_node` / `entity_edges` parsing, generated-surface support, and `bun run entity:audit` validation. |
+| ready for review | #37 | entity graph Packet 2 node backfill | Added 90 Tier-1 Japan-core `entity_node` declarations. |
+| ready for review | #38 | entity graph Packet 3 typed edges | Added 115 declared public-source-backed typed edges and 115 deterministic inverse edges. |
+| ready for review | #40 | factual-consistency audit implementation | Added `tools/factual_consistency_audit.ts`; default is report-only, `--fail-on-conflicts` is explicit. |
+| ready for review | #41 | provenance-completeness audit implementation | Added `tools/provenance_completeness_audit.ts`; default is report-only, `--fail-under` is explicit. |
+| ready for review | #42 | per-entry API enrichment | Added safe frontmatter fields to generated `api/entries/*.json`: `canonical_anchor`, `related`, `note`, `type`, `sources`, `entity_node`, `entity_edges`. |
+| ready for review | #43 | asset-management register gap shortlist | Added [asset-management-register-gap-shortlist-2026-06-21.md](asset-management-register-gap-shortlist-2026-06-21.md) as a read-only planning artifact. |
 
 ## historical canonical_anchor（P1）
 

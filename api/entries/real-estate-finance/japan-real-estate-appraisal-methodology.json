@@ -43,7 +43,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.fsa.go.jp/en/",
       "https://www.reinet.or.jp/pdf/REIS/publication_data50th.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan real-estate appraisal practice follows the 不動産鑑定評価基準 (Real Estate Appraisal Standards) issued by MLIT, which requires three approaches to value — income approach (DCF + direct capitalization), comparison approach (transaction comparables), and cost approach (replacement cost net of depreciatio",
   "headings": [

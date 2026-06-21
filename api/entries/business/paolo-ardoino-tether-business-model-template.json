@@ -32,13 +32,13 @@
       "template"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://tether.io/news/tether-delivers-10b-profits-in-2025-6-3b-in-excess-reserves-and-record-141-billion-exposure-in-u-s-treasury-holdings/",
-      "https://protos.com/tether-timeline-the-history-of-crypto-stablecoin-usdt/",
-      "https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal",
-      "https://fortune.com/2021/10/15/tether-crypto-stablecoin-fined-reserves/",
-      "https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

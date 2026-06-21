@@ -17,6 +17,10 @@ sources:
   - "日本経済新聞「PayPay証券を連結子会社に PayPay、出資比率75%へ」(2025-02): https://www.nikkei.com/article/DGXZQOUB102E20Q5A210C2000000/"
   - "日本経済新聞「みずほ銀行が広告ビジネス、サイバーエージェントと提携」(2024-01): https://www.nikkei.com/article/DGXZQOUB256360V20C24A1000000/"
   - "Yahoo!ニュース/ABEMA TIMES「メガバンク初 みずほ銀行が対話型AIを業務に導入」(2023): https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # みずほ FG (Mizuho FG)

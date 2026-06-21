@@ -22,6 +22,10 @@ sources:
   - "大和証券グループ本社 公式 IR (https://www.daiwa-grp.jp/ir/) — 2025-03 期決算短信"
   - "大和証券グループ 中期経営計画 (公開発表分)"
   - "大和ネクスト銀行 ディスクロージャー (https://www.bank-daiwa.co.jp/about/disclosure/transition/) — 2026-03 末"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 ---
 
 # 大和証券グループ本社 (Daiwa Securities Group)

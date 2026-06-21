@@ -33,7 +33,13 @@
       "https://www.travelex.co.jp/about-us",
       "https://www.travelex.co.jp/legal/tokuteishotorihiki",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against ウエスタンユニオンジャパン and SBIレミット for peer / contrast (remittance / money-movement), and against the FSA plus the funds-transfer vs prepaid boundary for the supervisory / system boundary.",
   "headings": [

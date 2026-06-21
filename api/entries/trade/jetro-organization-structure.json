@@ -21,10 +21,13 @@
       "trade"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.jetro.go.jp/jetro/profile/",
-      "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hakusyo/06_hakusho/ODA2006/html/siryo2/sl1150004.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under JETRO Members 有料会員制は B2B 提案の入口ゲート and should be read with FinWiki index.",
   "headings": [

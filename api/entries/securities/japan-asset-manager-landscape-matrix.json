@@ -54,7 +54,13 @@
       "https://www.blackrock.com/jp",
       "https://am.jpmorgan.com/jp/",
       "https://www.fidelity.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's asset-management (AM) industry is a four-lane race: megabank-affiliated AMs anchor distribution-led scale; insurance-affiliated AMs sit at the intersection of premium float and run-off liabilities; independent / online AMs ride NISA and online-broker funnel growth; and foreign-affiliated AMs",
   "headings": [

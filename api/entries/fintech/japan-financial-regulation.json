@@ -23,13 +23,13 @@
       "fintech"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/en/",
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://www.fsa.go.jp/common/law/index.html",
-      "https://elaws.e-gov.go.jp/",
-      "https://www.boj.or.jp/en/paym/digital/index.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "",
   "headings": [

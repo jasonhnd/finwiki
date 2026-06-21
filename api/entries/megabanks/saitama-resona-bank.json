@@ -33,7 +33,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.saitamaresona.co.jp/about/gaiyo/",
       "https://www.saitamaresona.co.jp/about/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under megabanks INDEX (its domain route). Read it against りそな銀行 (Resona Bank) for peer / contrast (its sibling Resona-group core bank), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on りそな HD.",
   "headings": [

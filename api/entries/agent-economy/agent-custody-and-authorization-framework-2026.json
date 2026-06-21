@@ -41,22 +41,13 @@
       "brokerage"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.privy.io/",
-      "https://docs.magic.link/",
-      "https://docs.cdp.coinbase.com/",
-      "https://docs.skyfire.xyz/",
-      "https://developer.litprotocol.com/",
-      "https://eips.ethereum.org/EIPS/eip-7715",
-      "https://eips.ethereum.org/EIPS/eip-4337",
-      "https://eips.ethereum.org/EIPS/eip-7702",
-      "https://docs.safe.global/",
-      "https://docs.gnosis-safe.io/",
-      "https://www.finra.org/rules-guidance/notices/12-25",
-      "https://www.sec.gov/divisions/investment/imapplications/discretionary",
-      "https://www.fsa.go.jp/common/law/index.html",
-      "https://www.cftc.gov/PressRoom/PressReleases"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Agent custody and authorization in 2026 has converged into a three-axis design space: (1) custody model — full self-custody (user holds key, agent has no independent control), hybrid (Lit PKP threshold or session-key with policy code), or fully custodial (Privy / Magic / Coinbase CDP / Skyfire); (2)",
   "headings": [

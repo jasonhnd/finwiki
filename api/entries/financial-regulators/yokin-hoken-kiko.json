@@ -44,7 +44,17 @@
       "https://www.dic.go.jp/katsudo/page_000017.html",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://laws.e-gov.go.jp/law/346AC0000000034"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "The Deposit Insurance Corporation of Japan (DICJ, 預金保険機構) is the statutory deposit-insurance and failure-resolution authority for Japan's banking system. It is established under the Deposit Insurance Act (預金保険法) as a special juridical person jointly capitalized by the Japanese government, the Bank o",
   "headings": [
@@ -111,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9333,
-    "word_like_tokens": 1430,
+    "nonspace_chars": 9400,
+    "word_like_tokens": 1440,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

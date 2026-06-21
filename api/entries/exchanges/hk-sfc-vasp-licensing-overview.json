@@ -30,10 +30,13 @@
       "benchmark"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.sfc.hk/",
-      "https://apps.sfc.hk/edistributionWeb/gateway/EN/licensee-list/listing"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against EU MiCA CASP (Crypto-Asset Service Provider) regime for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [

@@ -37,7 +37,13 @@
       "https://www.r-i.co.jp/en/",
       "https://www.jhf.go.jp/about/index.html",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Private RMBS in Japan are usually jumbo deals backed by megabank-originated residential mortgages. They sit alongside but distinct from JHF MBS: JHF MBS is government-supported and backed by Flat 35 fixed-rate loans, while private RMBS are megabank originations with their own credit enhancement and",
   "headings": [

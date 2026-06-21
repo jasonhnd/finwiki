@@ -35,7 +35,13 @@
       "https://www.kanematsu.co.jp/",
       "https://www.leasing.or.jp/",
       "兼松 有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under leasing-firms INDEX. Read it against JA三井リース for peer / contrast context (both are trading-house-linked leasing entities) and banking index for the broader system / regulatory boundary. Read it with 東京センチュリー (伊藤忠系) for the broader trading-house x leasing pattern.",
   "headings": [

@@ -32,7 +32,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.daitobank.co.jp/investor/outline/outline03.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 福島銀行 for the same-prefecture second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. 福島県の第一地銀 anchor は 東邦銀行。",
   "headings": [

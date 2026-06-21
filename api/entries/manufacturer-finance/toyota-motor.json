@@ -33,7 +33,13 @@
       "https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu",
       "https://global.toyota/en/ir/library/annual/",
       "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and manufacturer-finance INDEX for the broader system / regulatory boundary.",
   "headings": [

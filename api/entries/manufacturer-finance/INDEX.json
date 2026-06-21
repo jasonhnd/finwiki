@@ -27,7 +27,13 @@
     "status": "active",
     "sources": [
       "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "manufacturer-finance/ contains 13 active entries (excluding INDEX, 14 total). The domain scope is manufacturer-finance: the captive, vendor, export, and floorplan finance MECHANISMS plus the captive / vendor / export finance arms run by industrial groups, and the operating-company anchors they sit b",
   "headings": [

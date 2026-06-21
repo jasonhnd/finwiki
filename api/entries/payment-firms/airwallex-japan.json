@@ -35,7 +35,13 @@
       "https://www.airwallex.com/jp/newsroom/type-2-fund-transfer-service-provider-in-japan",
       "https://www.airwallex.com/jp/who-we-are",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

@@ -38,6 +38,49 @@
       "https://www.hd.sc.mufg.jp/english/company/group_mumss.html",
       "https://www.morganstanley.com/about-us/global-offices/japan/en/corporate-structure",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "financial-licenses/securities-license-stack",
+        "evidence": "fibo_registry",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "member_of_sro",
+        "target": "financial-regulators/jsda",
+        "evidence": "sro_membership",
+        "source": "https://www.jsda.or.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/mufg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "Mitsubishi UFJ Morgan Stanley Securities is the core MUFG securities company created around the MUFG / Morgan Stanley strategic alliance. Its role is different from a pure online brokerage: it is a bank-affiliated comprehensive securities firm covering wealth management, investment banking, sales an",
@@ -84,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3088,
-    "word_like_tokens": 451,
+    "nonspace_chars": 3791,
+    "word_like_tokens": 565,
     "inbound_wikilinks_count": 46,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

@@ -39,15 +39,13 @@
       "2026-event"
     ],
     "status": "active",
-    "sources": [
-      "https://www.bcb.gov.br/en/financialstability/drex_en",
-      "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco.html",
-      "https://www.iadb.org/en/news/digital-currencies-latam-2026",
-      "https://bitso.com/blog/mxnb-stablecoin-pilot",
-      "https://www.mercadobitcoin.com.br/blog/brl-stablecoin",
-      "https://www.bis.org/publ/work1156.htm",
-      "https://www.reuters.com/business/finance/brazil-drex-second-phase-2026"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ブラジルとメキシコは 2026 年に同時期に「CBDC + 民間 stablecoin + 米ドル SC グレー化」の三軌道並行段階に入る。ブラジル DREX は 2025-12 に第 2 ラウンド試験運用を 16 機関に拡大し、ホールセール + リテールの dual-layer をカバーする（CBDC 多層アーキテクチャ概要 と一致);Mercado Bitcoin は Polygon / Ethereum 上で BRL アンカー stablecoin を発行し DREX の市場版を補完、DREX とは「公私デュアル・トラック」を形成。メキシコ Banxico はリテール CBDC を発行し",
   "headings": [

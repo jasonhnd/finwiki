@@ -39,7 +39,13 @@
       "https://corporatefinanceinstitute.com/resources/commercial-lending/uniform-rules-for-collections-urc/",
       "https://iccwbo.org/business-solutions/trade-finance/",
       "https://www.trade.gov/methods-payment"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and is the direct comparison partner to the letter of credit / documentary credit mechanism. Both are document-driven settlement methods, but they differ sharply in who carries risk. Read alongside Incoterms 2020 (which fixes the delivery point the documents evidenc",
   "headings": [

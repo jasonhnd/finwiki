@@ -13,6 +13,10 @@ sources:
   - "https://www.fsa.go.jp/menkyo/hoken.pdf"
   - "https://www.seiho.or.jp/member/list/"
   - "https://www.taiyo-seimei.co.jp/"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 ---
 
 # 太陽生命保険

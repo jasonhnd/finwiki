@@ -36,7 +36,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://paymentsjapan.or.jp/publications/code-payments-20260330/",
       "https://jvcea.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "payment-firms/ contains 53 entity entries (excluding this INDEX, 54 total) for Japanese payment-service operating companies — the regulated and operating-company layer split out of the former JapanFG umbrella. The domain covers:",
   "headings": [

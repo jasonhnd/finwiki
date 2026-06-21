@@ -42,7 +42,13 @@
       "https://www.chusho.meti.go.jp/kinyu/sefuti/sefutinet_1gou.html",
       "https://www.chusho.meti.go.jp/kinyu/sefuti/sefutinet_2gou.html",
       "https://www.jfc.go.jp/n/finance/sme/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the SME-finance mechanism page. Read it against Japan Federation of Credit Guarantee Corporations (JFG) for the coordinating-body view, Japan policy finance system for the broader perimeter, and the sector-specific counterparts agriculture / fisheries. L",
   "headings": [

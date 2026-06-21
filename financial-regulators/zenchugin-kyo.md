@@ -23,6 +23,10 @@ sources:
   - "https://www.chiginkyo.or.jp/app/profile/member/"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://www.fsa.go.jp/common/law/guide/bank/"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # Regional Banks Association of Japan (Zenchūgin-kyō / 全国地方銀行協会)

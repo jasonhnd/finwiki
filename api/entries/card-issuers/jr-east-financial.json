@@ -47,7 +47,13 @@
       "https://www.viewsnet.jp/company/profile.html",
       "https://www.jr-eastpay.com/company/",
       "Wikipedia: 東日本旅客鉄道 / ビューカード / JRE BANK (公開情報, 2026-05-25 抽出)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer com",
   "headings": [

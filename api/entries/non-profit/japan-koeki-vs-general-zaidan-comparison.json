@@ -40,7 +40,13 @@
       "https://www.npo-homepage.go.jp/",
       "https://www.moj.go.jp/MINJI/minji153.html",
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.",
   "headings": [

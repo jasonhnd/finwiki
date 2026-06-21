@@ -56,7 +56,13 @@
       "https://www.jfmbk.org/about/housin.html",
       "https://www.shinkin.org/shinkin/seido/index.html",
       "https://www.japaneselawtranslation.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This",
   "headings": [

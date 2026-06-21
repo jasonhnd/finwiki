@@ -55,7 +55,13 @@
       "https://about.mercari.com/press/",
       "https://www.caa.go.jp/policies/policy/consumer_policy/caution/internet/trouble/payment.html",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's BNPL / 後払い landscape is governed mainly by the 割賦販売法 (Installment Sales Act) through the 個別信用購入あっせん業者 (individual credit-purchase intermediary) registration line, with METI as the primary regulator. The METI 登録個別信用購入あっせん業者 list contains around 138 registered operators as of 2026-04 month-end",
   "headings": [

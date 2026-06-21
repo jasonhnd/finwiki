@@ -21,6 +21,10 @@ sources:
   - "Wikipedia: 東京海上ホールディングス (2026-05-19 抽出)"
   - "Wikipedia: 東京海上日動火災保険"
   - "Tokio Marine Holdings 公式 IR(沿革・組織図)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # 東京海上ホールディングス (Tokio Marine Holdings)

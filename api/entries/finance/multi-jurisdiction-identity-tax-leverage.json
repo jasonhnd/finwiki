@@ -29,7 +29,13 @@
       "Public PwC, EY, KPMG, and tax-authority guides on individual tax residency and capital-gains treatment.",
       "OECD CRS / FATCA public documentation.",
       "Public tax-authority materials on statutory residence, exit tax, and deemed-disposition rules."
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under finance index. Read it with securities index for adjacent context and money-market index for the broader system boundary.",
   "headings": [

@@ -45,7 +45,13 @@
       "BOJ Financial System Report",
       "JCR / R&I credit-linked note rating commentaries",
       "BIS Basel framework documentation"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Synthetic securitisation — where a bank transfers credit risk on a reference loan portfolio to outside investors via a credit-default swap (CDS) or credit-linked note (CLN) structure without selling the underlying loans — is the modern Basel III tool for risk-weighted asset (RWA) relief on bank bala",
   "headings": [

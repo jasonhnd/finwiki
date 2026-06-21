@@ -44,7 +44,13 @@
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.boj.or.jp/en/research/wps_rev/lab/lab23e01.htm",
       "https://www.nta.go.jp/english/taxes/individual/12010.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance domain. Read it with listed financial groups investable universe for the bank / insurer issuer side, Japan activist investor playbook for the activist-pressure interface, fair disclosure controls for the disposal-timing information handling, convertible bond mechanics fo",
   "headings": [

@@ -49,7 +49,13 @@
       "https://www.smbcnikko.co.jp/",
       "https://www.daiwa.jp/",
       "https://www.nomura.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "EB (Equity Bond) knock-in is the most-distributed structured-product format in Japan retail wealth management through 2022. Mechanically, the buyer is short a down-and-in put option on a single Japanese stock (or worst-of basket) in exchange for an enhanced coupon and (in autocallable variants) the",
   "headings": [

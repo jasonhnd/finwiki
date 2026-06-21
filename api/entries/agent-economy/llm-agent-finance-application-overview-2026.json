@@ -38,22 +38,13 @@
       "underwriting"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsb.org/wp-content/uploads/P11112024.pdf",
-      "https://www.bis.org/publ/work1194.htm",
-      "https://www.imf.org/en/Publications/fintech-notes",
-      "https://www.federalreserve.gov/publications/financial-stability-report.htm",
-      "https://www.fsa.go.jp/en/news/2024/index.html",
-      "https://www.sec.gov/news/speech",
-      "https://www.fca.org.uk/publications",
-      "https://www.mas.gov.sg/news",
-      "https://www.bloomberg.com/professional/blog/bloomberggpt/",
-      "https://www.jpmorgan.com/technology/news/indexgpt",
-      "https://www.goldmansachs.com/marquee/",
-      "https://www.morganstanley.com/press-releases",
-      "https://www.anthropic.com/customers",
-      "https://openai.com/index/finance"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "As of mid-2026, the LLM / AI-agent footprint in finance has bifurcated into shipped production surfaces (customer-facing chatbots, back-office automation, fraud / AML triage, developer copilots) and constrained-pilot surfaces (trading signal generation, credit underwriting decision support, advisory",
   "headings": [

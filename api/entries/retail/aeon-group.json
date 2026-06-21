@@ -37,7 +37,13 @@
       "https://www.aeonfinancial.co.jp/en/ir/library/annual",
       "https://www.aeonbank.co.jp/company/about/outline/",
       "https://www.waon.net/about/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "AEON is a retail group whose financial-services value comes from daily-life distribution: supermarkets, malls, credit cards, WAON electronic money, AEON Pay, insurance counters, and Aeon Bank / AEON Financial Service. For FinWiki, AEON is the strongest example of a Japanese retail-to-finance operati",
   "headings": [

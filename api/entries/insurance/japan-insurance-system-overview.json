@@ -46,7 +46,13 @@
       "https://www.iaisweb.org/",
       "https://www.nihonjishin.co.jp/",
       "https://ja-kyosai.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's insurance system spans five major segments: life insurance (生命保険), non-life insurance (損害保険), mutual aid / kyosai (共済), reinsurance (再保険), and the public-private earthquake-insurance scheme (地震保険). Insurers operate under the Insurance Business Act (保険業法), supervised by the Financial Services",
   "headings": [

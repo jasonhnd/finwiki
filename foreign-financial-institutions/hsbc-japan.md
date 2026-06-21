@@ -13,6 +13,23 @@ sources:
   - "Wikipedia: HSBC / 香港上海銀行 (2026-05-19 抽出)"
   - HSBC Holdings plc Annual Report 2024
   - HSBC Japan 公式サイト 沿革（2025 更新）
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/foreign-bank-branch-license-route
+    evidence: foreign_bank_branch_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # HSBC ジャパン (HSBC Japan)

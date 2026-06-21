@@ -13,6 +13,10 @@ sources:
   - "https://www.jpx.co.jp/english/corporate/about-jpx/profile/"
   - "https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html"
   - "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/"
+entity_node:
+  kind: exchange
+  scope: japan_core
+  status: anchor
 ---
 
 # 日本取引所グループ (JPX)

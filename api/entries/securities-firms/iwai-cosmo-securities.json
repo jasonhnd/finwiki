@@ -36,7 +36,13 @@
       "https://www.iwaicosmo.co.jp/corporate/history/",
       "https://www.iwaicosmo-hd.jp/company/outline.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 岩井コスモホールディングス for parent holding context, 岡三証券グループ / 東海東京FH for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
   "headings": [

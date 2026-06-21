@@ -41,7 +41,13 @@
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.felicanetworks.co.jp/",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with retail-anchored (WAON / nanaco) and tran",
   "headings": [

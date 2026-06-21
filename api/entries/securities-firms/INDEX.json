@@ -31,7 +31,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.jsda.or.jp/",
       "https://www.fsa.go.jp/en/regulated/licensed/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "securities-firms/ is the top-level domain for Japanese securities broker / dealer operating companies — the entity layer of the FIEA 第一種金融商品取引業 (Type I Financial Instruments Business) world. It covers independent securities groups (野村 HD, 大和証券グループ), megabank-affiliated securities (SMBC 日興, みずほ証券, MU",
   "headings": [

@@ -37,7 +37,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
       "https://www.recruit.co.jp/newsroom/pressrelease/2024/1213_14907.html",
       "https://www.recruit.co.jp/newsroom/pressrelease/2025/0519_15640.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it with MUFG for bank-group context, funds-transfer registry for the regulatory route, and Japan code-payment competitive map for wallet competition.",
   "headings": [

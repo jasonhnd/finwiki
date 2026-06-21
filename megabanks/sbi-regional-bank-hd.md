@@ -15,6 +15,17 @@ sources:
   - "各パートナー地銀の有価証券報告書・適時開示"
   - "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス (出資比率, 2026-05-29 確認)"
   - "https://www.sbigroup.co.jp/news/2025/0731_15628.html (SBI新生銀行 公的資金完済, 2025-07-31)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/sbi-hd
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # SBI 地銀ホールディングス

@@ -46,7 +46,13 @@
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the AEON vs Seven & i retail-prepaid comparison page that pairs with prepaid payment instrument issuers registry for the FSA-registered third-party prepaid view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with t",
   "headings": [

@@ -44,7 +44,13 @@
       "https://pages.stern.nyu.edu/~adamodar/",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.jbic.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Real options frame business decisions as options held on real (not financial) assets — the option to expand, contract, abandon, delay, switch, or stage an investment. Unlike static DCF NPV which treats the decision as a now-or-never go / no-go, real options recognise that management can wait, observ",
   "headings": [

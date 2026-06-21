@@ -49,7 +49,13 @@
       "https://www.softbank.jp/corp/news/press/",
       "https://www.softbank.jp/biz/blog/business/articles/202404/",
       "https://paymentsjapan.or.jp/category/publications/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the wallet-anchored common-point deep page, complementing the bank-anchored V Point case, the telco-anchored d Point detailed ecosystem and d Point / au telco-point consolidation case, the coalition-anchored Ponta points deep dive, and the post-merger detail in",
   "headings": [

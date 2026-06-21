@@ -42,20 +42,13 @@
       "agglayer"
     ],
     "status": "active",
-    "sources": [
-      "https://polygon.technology/agglayer",
-      "https://docs.zksync.io/",
-      "https://docs.starknet.io/",
-      "https://docs.scroll.io/",
-      "https://docs.linea.build/",
-      "https://docs.taiko.xyz/",
-      "https://docs.kakarot.org/",
-      "https://0xmiden.github.io/miden-docs/",
-      "https://docs.immutable.com/",
-      "https://l2beat.com/scaling/summary",
-      "https://defillama.com/chains/Rollup",
-      "https://ethereum.org/en/developers/docs/scaling/zk-rollups/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the L1 blob capacity context that drives rollup gas cost, and Pectra upgrade overview for the broader Ethereum upgrade landscape. Pair with Vitalik L1/L2 strategy anchor for the meta-strategy that frames \"L2",
   "headings": [

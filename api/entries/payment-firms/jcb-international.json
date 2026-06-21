@@ -35,7 +35,13 @@
     "sources": [
       "https://www.global.jcb/en/",
       "https://www.global.jcb/ja/about-us/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (parent / scheme operator relationship) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
   "headings": [

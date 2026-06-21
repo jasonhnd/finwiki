@@ -50,7 +50,13 @@
       "https://www.imc.com/",
       "https://sig.com/",
       "https://www.jpx.co.jp/english/markets/statistics-equities/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits inside securities index as the liquidity-provision peer of Japan best execution, SOR, and PTS, Japannext PTS SOR routing deep dive, and PTS liquidity data guide. It is the supply-side companion to the routing-side narrative: SOR routes the order, the market maker quotes the other side",
   "headings": [

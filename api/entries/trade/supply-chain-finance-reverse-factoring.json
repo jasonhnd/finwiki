@@ -41,7 +41,13 @@
       "https://www.gscfi.org/",
       "https://www.jetro.go.jp/en/",
       "https://www.bis.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and covers the buyer-led, payables-side financing programme that complements seller-led receivables finance. Its same-domain peer is forfaiting and international factoring — that entry is seller-initiated (a supplier sells its own receivable); supply-chain finance (",
   "headings": [

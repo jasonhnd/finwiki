@@ -37,7 +37,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "FM Global official: https://www.fmglobal.com/about-us/our-locations/japan",
       "FM Global Annual Report (公開版)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against Lloyd's Japan and Chubb Insurance Japan for foreign-commercial-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
   "headings": [

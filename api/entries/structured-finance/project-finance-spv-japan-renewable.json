@@ -43,7 +43,13 @@
       "DBJ disclosures — https://www.dbj.jp/en/",
       "Megabank IR (project-finance loan disclosures)",
       "Sogo shosha IR — renewable equity disclosures"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese renewable-energy projects — solar (utility-scale PV), onshore and offshore wind, geothermal, and biomass — are typically financed through limited-recourse TK / GK SPV structures with equity from sōgō shōsha consortia, debt from a megabank-led syndicate often joined by regional banks, and re",
   "headings": [

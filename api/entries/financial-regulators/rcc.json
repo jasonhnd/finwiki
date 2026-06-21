@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.kaisyukikou.co.jp/intro/intro_001.html",
       "https://www.dic.go.jp/yokinsha/page_000132.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX (its domain route). It is not a regulator but a resolution / collection arm — read it against its 100% parent 預金保険機構 (Deposit Insurance Corporation) for the institutional parent boundary, against the policy-finance vehicles JBIC and DBJ for peer / con",
   "headings": [

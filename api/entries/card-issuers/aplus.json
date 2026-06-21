@@ -32,7 +32,13 @@
     "sources": [
       "https://www.sbigroup.co.jp/english/company/group/aplus.html/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX. Read it with banking index for adjacent context and securities index for the broader system boundary.",
   "headings": [

@@ -42,7 +42,13 @@
       "https://www.boj.or.jp/en/paym/outline/index.htm",
       "https://www.boj.or.jp/en/paym/release/index.htm",
       "https://www.boj.or.jp/en/about/publication/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the BoJ market-operations counterpart and 金融機構局 for the prudential-side bureau. For the broader settlement system, anchor through banking landscape and BoJ monetary policy.",
   "headings": [

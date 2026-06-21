@@ -40,7 +40,13 @@
       "https://www.ccc.co.jp/en/news/press/",
       "https://paymentsjapan.or.jp/",
       "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the cross-system comparison page: it reads the five major common-point systems side by side by the dimension that actually decides their economics — what anchors the program and who funds the point — rather than per-operator depth. It is the comparative complem",
   "headings": [

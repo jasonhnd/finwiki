@@ -67,7 +67,13 @@
       "https://www.toyota-finance.co.jp/",
       "https://www.hypo.org/ecbc/",
       "https://www.ares.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This matrix compares the major ABS-class securitization products issued in Japan across a single set of dimensions: typical issuer / sponsor, originator asset pool, SPV vehicle choice (TMK / GK-TK / TK only / trust beneficial interest / none), typical AAA-tranche rating, rating-agency split (JCR / R",
   "headings": [

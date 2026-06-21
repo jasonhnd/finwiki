@@ -36,7 +36,13 @@
       "FSA financial-instruments business operator list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
       "Principal Financial Group official: https://www.principal.com",
       "Principal Financial Group Annual Report (公開版・NASDAQ: PFG)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under asset-managers INDEX. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
   "headings": [

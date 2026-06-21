@@ -42,7 +42,13 @@
       "https://www.r-i.co.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are Japan's two dominant domestic credit rating agencies for structured finance. Both are FSA-designated as credit rating agencies (the Japanese equivalent of NRSRO designation), and both publish detailed structured-finance",
   "headings": [

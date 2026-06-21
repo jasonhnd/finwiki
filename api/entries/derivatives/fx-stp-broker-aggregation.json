@@ -41,7 +41,13 @@
       "https://www.ffaj.or.jp/",
       "https://www.bis.org/publ/qtrpdf/r_qt2212.htm",
       "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "STP (straight-through processing) and market-maker (B-book) models are the two basic ways a retail FX broker can handle client orders. Under STP / A-book, the broker passes the order to an external liquidity provider and earns markup or commission; under B-book, the broker warehouses the risk intern",
   "headings": [

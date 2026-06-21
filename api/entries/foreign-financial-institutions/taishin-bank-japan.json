@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.taishinbank.com.tw/TSB/overseas/Northeast-Asia/Japan/tokyo-branch/about-taishin/taishin-international-bank-summary-chinese/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Taishin Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Taipei Fubon Bank Japan, E.SUN Bank Japan, Chang Hwa Bank Japan, and banking index.",
   "headings": [

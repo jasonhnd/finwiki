@@ -18,6 +18,23 @@ status: active
 sources:
   - "Wikipedia: 明治安田生命保険 (2026-05-19 抽出)"
   - "明治安田生命 公式サイト 沿革 (2026-05-19 参照)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 明治安田生命保険相互会社

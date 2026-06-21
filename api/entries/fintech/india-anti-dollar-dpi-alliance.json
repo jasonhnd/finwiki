@@ -34,13 +34,13 @@
       "digital-sovereignty"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.npci.org.in/what-we-do/upi/product-statistics",
-      "https://www.mosip.io/",
-      "https://polygon.technology/blog",
-      "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22329",
-      "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [

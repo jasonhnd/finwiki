@@ -45,7 +45,13 @@
       "https://www.caa.go.jp/policies/policy/consumer_policy/caution/internet/",
       "https://paymentsjapan.or.jp/category/publications/",
       "https://www.zenginkyo.or.jp/news/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the chronological incident-and-enforcement page that pairs with Japan card security and authentication controls for the J-CSC guideline 6.0 / 6.1 control framework, with Japan bank API incident and fraud control for the bank-rail specific fraud surface, and wi",
   "headings": [

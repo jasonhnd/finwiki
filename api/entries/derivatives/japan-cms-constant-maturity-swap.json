@@ -43,7 +43,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A constant maturity swap (CMS) is an OTC interest-rate derivative in which one leg pays a fixed reference (or a floating short-rate reference) and the other leg pays a periodically reset long-tenor swap rate — most commonly the 10Y or 5Y JPY swap rate at each reset date. The CMS leg's defining featu",
   "headings": [

@@ -43,7 +43,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.theocc.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compare",
   "headings": [

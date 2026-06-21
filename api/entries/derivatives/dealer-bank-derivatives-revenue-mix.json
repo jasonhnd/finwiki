@@ -51,7 +51,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The dealer-bank derivatives franchise in Japan is split across three structural tiers, each with a distinct revenue mix between rates, FX, equity, and credit derivatives:",
   "headings": [

@@ -34,11 +34,13 @@
       "rust"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.optimism.io/op-stack/fault-proofs/explainer",
-      "https://specs.optimism.io/fault-proof/index.html",
-      "https://github.com/ethereum-optimism/optimism"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

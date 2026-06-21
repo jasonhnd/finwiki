@@ -40,7 +40,13 @@
       "https://www.eiopa.europa.eu/browse/solvency-ii_en",
       "https://content.naic.org/cipr-topics/risk-based-capital",
       "https://www.oecd.org/finance/insurance/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against insurance/economic-value-based-solvency and insurance/esr-economic-value-solvency for the Japan-specific economic-value detail, against financial-licenses/insurance-lic",
   "headings": [

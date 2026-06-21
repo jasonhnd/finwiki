@@ -46,7 +46,13 @@
       "https://my.americanhondafinance.com/s/about-us-pre-login",
       "https://hondanews.com/en-US/releases/release-f20318eb27d18d74308003004c34bb7d-dedicated-acura-financial-services-launched",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index and is the Honda-side complement to Toyota Financial Services — the two largest Japanese-OEM auto captives. Read it against Toyota Motor for the parent-OEM contrast, and against Panasonic 顧客金融, Sony FG, Hitachi 産業金融, MHI 輸出金融 for peer industrial-conglomerate",
   "headings": [

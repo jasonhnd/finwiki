@@ -41,15 +41,13 @@
       "kpi"
     ],
     "status": "active",
-    "sources": [
-      "https://www.dbj.jp/",
-      "https://www.dbj.jp/co/info/disclo/",
-      "https://www.dbj.jp/co/info/principle/",
-      "https://www.dbj.jp/service/finance/special_investment/",
-      "https://www.dbj.jp/service/finance/crisis_response/",
-      "https://www.fsa.go.jp/",
-      "https://www.mof.go.jp/policy/filp/index.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the operating-mechanics deep dive on 株式会社日本政策投資銀行 (DBJ). The original DBJ profile at JapanFG/dbj focuses on corporate structure, history, and high-level business-line map; this entry goes one layer deeper into the operating mechanics of the 特定投資業務 framew",
   "headings": [

@@ -36,7 +36,13 @@
       "https://www.sompo-direct.co.jp/company/profile.html",
       "https://www.sompo-direct.co.jp/",
       "https://www.sompo-direct.co.jp/company/disclosure/"
-    ]
+    ],
+    "canonical_anchor": "non-life-insurers/saison-automobile-fire-insurance",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index. The canonical entity anchor for this insurer is its non-life-insurers entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and insuranc",
   "headings": [

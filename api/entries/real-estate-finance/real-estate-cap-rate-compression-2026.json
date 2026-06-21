@@ -44,7 +44,13 @@
       "https://www.mufg.jp/english/ir/index.html",
       "https://www.smfg.co.jp/english/investor/",
       "https://www.smtb.jp/english/investors"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan real-estate cap rates have compressed across asset classes through the BoJ NIRP / YCC era to historically low absolute levels. As of 2026, expected (forward) cap-rate ranges sit at approximately: Tokyo prime CBD office 3.0 - 3.5%, Osaka prime office 3.5 - 4.0%, Tokyo / Greater-Tokyo logistics",
   "headings": [

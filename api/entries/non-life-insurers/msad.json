@@ -32,7 +32,17 @@
     "sources": [
       "Wikipedia: MS&ADインシュアランス グループ ホールディングス (公開情報ベース)",
       "MS&AD HD 公式コーポレートサイト (公開情報ベース)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -69,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5562,
-    "word_like_tokens": 942,
+    "nonspace_chars": 5623,
+    "word_like_tokens": 952,
     "inbound_wikilinks_count": 38,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

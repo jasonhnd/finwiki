@@ -36,7 +36,13 @@
       "https://www.tokaitokyo.co.jp/company/profile/history.html",
       "https://www.tokaitokyo-fh.jp/corporate/profile/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 東海東京フィナンシャル・ホールディングス for parent holding context, 岡三証券グループ / 岩井コスモ証券 for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
   "headings": [

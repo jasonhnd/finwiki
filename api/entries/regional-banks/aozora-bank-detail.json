@@ -37,7 +37,13 @@
       "https://www.aozorabank.co.jp/ir/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX and complements the company-level summary at あおぞら銀行. Read it against SBI 新生銀行 for post-rehabilitation peer context, 三菱UFJ銀行 / SMBC / みずほ銀行 for mega-bank contrast, and banking index for the broader system / regulatory boundary.",
   "headings": [

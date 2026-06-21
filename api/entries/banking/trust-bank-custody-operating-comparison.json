@@ -40,7 +40,13 @@
       "https://www.jasdec.com/en/system/",
       "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
       "https://www.boj.or.jp/en/paym/jgb_bes/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan custody analysis uses institution types as a primary field. Full-service trust banks, asset-administration specialists, global custodians / ICSD branches, and settlement infrastructures perform different jobs. A \"trust account\" or custodian name in a shareholder table is usually a nominee / ad",
   "headings": [

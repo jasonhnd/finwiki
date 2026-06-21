@@ -40,7 +40,17 @@
       "https://www.fsa.go.jp/koueki/s_houjin/05.pdf",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "JSDA / 日本証券業協会 is the core self-regulatory organization for Japan's securities-dealer layer. It is not a securities firm and not the statutory regulator itself. Its legal position is a Financial Instruments Firms Association authorized by the Prime Minister under the Financial Instruments and Exchan",
   "headings": [
@@ -80,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9589,
-    "word_like_tokens": 1455,
+    "nonspace_chars": 9638,
+    "word_like_tokens": 1464,
     "inbound_wikilinks_count": 56,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-21"
   }
 }

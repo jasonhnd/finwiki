@@ -30,10 +30,13 @@
       "ve33"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.curve.fi/",
-      "https://docs.velodrome.finance/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [

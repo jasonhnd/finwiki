@@ -36,7 +36,13 @@
       "https://www.boj.or.jp/en/statistics/bis/repo/index.htm",
       "https://www.boj.or.jp/en/research/wps_rev/rev_2025/rev25e03.htm",
       "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_b/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against BoJ open market operations for peer / contrast context and Japan money market for the broader system / regulatory boundary.",
   "headings": [

@@ -47,7 +47,13 @@
       "https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0346.html",
       "https://www.fsa.go.jp/singi/singi_kinyu/tosin/20220622/houkoku.pdf",
       "https://www.jpx.co.jp/english/equities/clearing-settlement/outline/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page belongs in securities index as the venue-mechanics deepening of Osaka Digital Exchange and as the secondary-market sibling of Japan security token secondary market route. Read it with PTS liquidity data guide for the venue / participant separation logic, best execution / SOR / PTS for the",
   "headings": [

@@ -18,6 +18,10 @@ status: active
 sources:
   - "Wikipedia: MS&ADインシュアランス グループ ホールディングス (公開情報ベース)"
   - MS&AD HD 公式コーポレートサイト (公開情報ベース)
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # MS&AD インシュアランス グループ ホールディングス

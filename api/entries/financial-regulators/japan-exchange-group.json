@@ -34,7 +34,17 @@
       "https://www.jpx.co.jp/english/corporate/about-jpx/profile/",
       "https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html",
       "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "exchange",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 日本証券金融 (JSF) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
@@ -80,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4227,
-    "word_like_tokens": 606,
+    "nonspace_chars": 4281,
+    "word_like_tokens": 615,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

@@ -35,7 +35,13 @@
       "https://www.mitsubishi-hc-capital.com/english/corporate/",
       "https://www.mitsubishi-hc-capital.com/english/corporate/business/",
       "https://ja.wikipedia.org/wiki/三菱HCキャピタル"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / parent context, and against the FSA for the supervisory boundary (lessors register",
   "headings": [

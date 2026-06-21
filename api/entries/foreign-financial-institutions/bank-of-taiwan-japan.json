@@ -34,7 +34,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.bot.com.tw/botintro/overseasservice/pages/tokyo.aspx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 兆豐國際商業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

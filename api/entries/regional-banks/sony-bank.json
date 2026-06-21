@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://sonybank.jp/corporate/aboutus/profile.html",
       "https://sonybank.jp/corporate/disclosure/disclosure.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 大和ネクスト銀行 for the peer / contrast (asset-formation-led net bank vs payment-led net bank) and against the FSA plus banking for the supervisory / system boundary. The net-bank field as a whole is mapped from banking.",
   "headings": [

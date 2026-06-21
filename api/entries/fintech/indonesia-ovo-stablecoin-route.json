@@ -50,7 +50,13 @@
       "https://www.mas.gov.sg/regulation/payments",
       "https://www.bis.org/about/bisih/topics/cbdc.htm",
       "https://www.bis.org/publ/work1247.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index and is the Indonesia-specific deep dive that the regional fintech/southeast-asia-stablecoin-regulatory-landscape entry references for OJK / BI mechanics and IDR-stablecoin gray-corridor flow. Read it with fintech/em-market-crypto-dollarization-pattern for the cros",
   "headings": [

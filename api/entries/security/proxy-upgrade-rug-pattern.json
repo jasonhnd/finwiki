@@ -35,7 +35,13 @@
       "https://eips.ethereum.org/EIPS/eip-1822",
       "https://docs.openzeppelin.com/contracts/4.x/api/proxy",
       "https://ethereum.org/en/developers/docs/smart-contracts/upgrading/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under security domain. Read it against bytecode forensic three-tier verify for the on-chain verification mechanics it depends on, and against ERC-4337 overview for the broader smart-account context where upgradeable proxies are now the default deployment shape.",
   "headings": [

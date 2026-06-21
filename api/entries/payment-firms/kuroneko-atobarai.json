@@ -36,7 +36,13 @@
       "https://www.kuronekoyamato.co.jp/ytc/business/payment/atobarai/",
       "https://www.kuronekoyamato.co.jp/ytc/business/payment/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a logistics-anchored BNPL product. Read it against the Japan BNPL landscape system note, the Net Protections HD / Paidy BNPL peer set, and the Japan BNPL and credit-purchase boundary for the regulatory question. The METI credit-purchase registry is th",
   "headings": [

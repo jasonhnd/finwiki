@@ -37,7 +37,13 @@
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's asset-backed securities market is split into three rough layers: the very large JHF MBS layer (Japan Housing Finance Agency, government-supported senior class), the private RMBS layer (jumbo mortgage pools originated by megabanks and trust banks), and the consumer / auto / CMBS / project lay",
   "headings": [

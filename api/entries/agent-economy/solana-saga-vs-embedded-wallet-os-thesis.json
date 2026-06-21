@@ -32,12 +32,13 @@
       "coinbase-cdp"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.solanamobile.com/",
-      "https://docs.privy.io/",
-      "https://docs.cdp.coinbase.com/",
-      "https://privy.io/blog/announcing-our-acquisition-by-stripe"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

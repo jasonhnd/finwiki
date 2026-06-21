@@ -43,23 +43,13 @@
       "settlement-finality"
     ],
     "status": "active",
-    "sources": [
-      "https://www.x402.org/",
-      "https://docs.cdp.coinbase.com/",
-      "https://docs.privy.io/",
-      "https://www.circle.com/en/cross-chain-transfer-protocol",
-      "https://developers.circle.com/cctp",
-      "https://eips.ethereum.org/EIPS/eip-4337",
-      "https://eips.ethereum.org/EIPS/eip-7702",
-      "https://eips.ethereum.org/EIPS/eip-7715",
-      "https://docs.base.org/",
-      "https://docs.arbitrum.io/",
-      "https://docs.optimism.io/",
-      "https://github.com/google-agentic-commerce/AP2",
-      "https://www.federalreserve.gov/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.fca.org.uk/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "When an AI agent pays for an API call, a tool invocation, or a downstream agent service, the actual on-the-wire settlement asset in mid-2026 is USDC on Base for the dominant share, USDC on other L2s (Arbitrum, Optimism, Polygon PoS, Solana) for chain-specific use cases, USDT on Tron / Ethereum L1 fo",
   "headings": [

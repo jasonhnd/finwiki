@@ -31,11 +31,13 @@
       "mtl"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.dfs.ny.gov/virtual_currency_businesses",
-      "https://www.occ.gov/",
-      "https://www.fincen.gov/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "米国は連邦 + 50 州の重層規制構造を持ち、世界で最も複雑な暗号資産ライセンス制度を運用する。VASP (Virtual Asset Service Provider) 事業者は以下を組み合わせて取得する必要がある:",
   "headings": [

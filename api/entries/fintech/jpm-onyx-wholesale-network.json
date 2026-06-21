@@ -37,13 +37,13 @@
       "single-bank-network"
     ],
     "status": "active",
-    "sources": [
-      "https://www.jpmorgan.com/kinexys",
-      "https://www.jpmorgan.com/onyx",
-      "https://www.jpmorgan.com/kinexys/news",
-      "https://www.jpmorgan.com/insights/payments/kinexys",
-      "https://www.theblock.co/post/jpmorgan-onyx-kinexys-rebrand"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with JPMorgan JPMD for the retail-deposit-token sibling product, and with Fnality / Partior for the multi-bank consortium contrast that Onyx-Kinexys deliberately rejects.",
   "headings": [

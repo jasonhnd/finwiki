@@ -44,7 +44,13 @@
       "https://www.boj.or.jp/en/announcements/release_2024/k240319a.htm",
       "https://www.fsa.go.jp/en/",
       "https://pages.stern.nyu.edu/~adamodar/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The cost of capital is the single most-leveraged input in any DCF valuation and the structural anchor for LBO economics, real-estate IRR underwriting, and acquisition finance pricing. For Japan as of 2026, the structural inputs are: (1) risk-free reference rate based on 10-year JGB yield (~1.0-1.5%",
   "headings": [

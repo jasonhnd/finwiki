@@ -37,15 +37,13 @@
       "comparison-matrix"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx",
-      "https://www.wisdomtree.com/insights/wisdomtree-prime",
-      "https://www.usyc.com/",
-      "https://www.hashnote.com/",
-      "https://www.circle.com/blog/circle-acquires-hashnote",
-      "https://www.sec.gov/Archives/edgar/data/wisdomtree-prime",
-      "https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL（leader 第一梯団）and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 準備金相互ロックフライホイール for the systemic role tokenized MMF plays as stablecoin yield infrastructure.",
   "headings": [

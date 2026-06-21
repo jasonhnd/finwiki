@@ -34,7 +34,13 @@
       "Miyoshi Smile Trust official site: https://smiletrust.co.jp/",
       "Miyoshi Smile Trust company page: https://smiletrust.co.jp/company",
       "Miyoshi Real Estate announcement: https://www.miyoshi.co.jp/info/archives/1393"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/miyoshi-smile-trust",
   "headings": [

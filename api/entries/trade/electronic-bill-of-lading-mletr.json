@@ -41,7 +41,13 @@
       "https://iccwbo.org/business-solutions/trade-finance/",
       "https://www.meti.go.jp/english/",
       "https://www.dcsa.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and documents the digitalization of the documents that the rest of the domain assumes are paper. Its closest same-domain peer is documentary collection vs letter of credit — both settlement methods route a paper bill of lading, and the electronic bill of lading (eBL",
   "headings": [

@@ -43,7 +43,13 @@
       "https://www.frontier-reit.co.jp/en/",
       "https://www.jpx.co.jp/english/markets/products/reit/",
       "https://www.ares.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "For FinWiki, Mitsui Fudosan is the office / mixed-use developer financing template: it shows how Japan's largest developers combine (i) public corporate debt at investment-grade pricing, (ii) syndicated bank financing for greenfield capex, (iii) sponsor-REIT equity recycling for stabilized assets, a",
   "headings": [

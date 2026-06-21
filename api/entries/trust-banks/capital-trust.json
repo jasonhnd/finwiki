@@ -36,7 +36,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Capital Trust official site: https://www.captrustjp.com/",
       "Capital Trust about page: https://www.captrustjp.com/about"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/capital-trust",
   "headings": [

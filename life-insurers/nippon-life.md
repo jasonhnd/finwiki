@@ -25,6 +25,23 @@ sources:
   - "投資のコンシェルジュ 生命保険 ソルベンシー・マージン比率ランキング 2025"
   - "日本経済新聞「日本生命保険、営業職員数5万人割れ」(2024-06-28)"
   - "日本生命「Vision 2030」公式説明資料"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 日本生命保険相互会社 (Nippon Life)

@@ -33,7 +33,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.daiwa-am.co.jp/company/outline.html",
       "https://www.daiwa-am.co.jp/company/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under asset-managers INDEX (its domain route). Read it against 野村アセットマネジメント for the securities-affiliated 運用会社 peer / contrast, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.",
   "headings": [

@@ -40,7 +40,13 @@
       "https://polkadot.network/",
       "https://github.com/paritytech/polkadot-sdk",
       "https://parachains.info/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against IBC · Cosmos for the closest peer in shared-security multi-chain interop, cross-chain four poles for the broader interop landscape, and five-pole comparison matrix for side-by-side.",
   "headings": [

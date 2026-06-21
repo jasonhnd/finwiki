@@ -32,9 +32,13 @@
       "x402"
     ],
     "status": "candidate",
-    "sources": [
-      "https://github.com/google-agentic-commerce/AP2"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [

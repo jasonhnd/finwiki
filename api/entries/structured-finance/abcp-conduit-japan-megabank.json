@@ -43,7 +43,13 @@
       "SMFG IR (https://www.smfg.co.jp/english/)",
       "Mizuho FG IR (https://www.mizuho-fg.com/index.html)",
       "BOJ short-term money market statistics"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ABCP conduits are off-balance-sheet special-purpose vehicles (TK / GK SPV structures) that buy short-tenor receivables from corporate sellers and fund the purchases by issuing yen-denominated commercial paper into the JSDA-overseen domestic CP market, with a liquidity backstop from the sponsor megab",
   "headings": [

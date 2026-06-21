@@ -44,7 +44,13 @@
       "https://www.jbic.go.jp/en/",
       "https://www.nexi.go.jp/en/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Panasonic 顧客金融, Sony FG, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with JBIC・NEXI for the policy-finance counterpart, JETRO vs NEXI vs JBIC for the export-support stack overview, and 三菱商事",
   "headings": [

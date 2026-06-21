@@ -40,7 +40,13 @@
       "https://www.hitachi.com/businesses/",
       "https://www.mitsubishi-hc-capital.com/english/ir/library/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and manufacturer-finance INDEX for the broad",
   "headings": [

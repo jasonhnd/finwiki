@@ -36,7 +36,13 @@
       "https://www.hannover-re.com/957070/japan-branch",
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against ミュンヘン再保険日本支店 and スイス再保険日本支店 as the \"Big 2 + Hannover\" trio of European reinsurers in Japan, and トーア再保険 as the domestic peer. The system page nat-cat reinsurance Japan frames how all of these fit into Japan's catastrophe risk transfer arc",
   "headings": [

@@ -41,7 +41,13 @@
       "https://www.toyotafinancial.com/us/en.html",
       "https://www.toyota-finance.co.jp/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": "leasing-firms/toyota-financial",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w",
   "headings": [

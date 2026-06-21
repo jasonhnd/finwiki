@@ -44,7 +44,13 @@
       "OpenAI Agents SDK documentation (2026)",
       "Google Gemini Agent platform documentation (2026)",
       "FIDO Alliance AAIF announcement (2026-Q2)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "As of May 2026, the agent-payment protocol stack has bifurcated sharply between mainnet-shipped infrastructure and testnet / consortium-only specs. The production-live tier is dominated by x402 (Cloudflare Workers + AWS API Gateway edge integrations), ERC-4337 (mature 4+ years on mainnet), and ERC-7",
   "headings": [

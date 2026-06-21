@@ -36,7 +36,13 @@
       "https://ja.wikipedia.org/wiki/大阪商工信用金庫",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block (大阪商工信用金庫 は商工業者特化の中堅信金で、府内最大手の 大阪信用金庫 とは規模・地盤が異なる) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
   "headings": [

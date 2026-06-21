@@ -36,14 +36,13 @@
       "anti-disintermediation"
     ],
     "status": "active",
-    "sources": [
-      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
-      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
-      "https://commission.europa.eu/business-economy-euro/euro-area/digital-euro_en",
-      "https://www.riksbank.se/en-gb/payments--cash/e-krona/",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.consilium.europa.eu/en/policies/digital-euro/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the ECB digital euro for the 2026 Preparation-Phase snapshot. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with CBDC 多层架构概览 for architecture context, and with CBDC 三大现役范式 for the three-paradigm",
   "headings": [

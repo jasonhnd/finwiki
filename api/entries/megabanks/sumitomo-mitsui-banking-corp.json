@@ -34,6 +34,41 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.smbc.co.jp/aboutus/profile/gaiyo.html",
       "https://www.smbc.co.jp/aboutus/profile/group.html"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/bank-license-and-baas-boundary",
+        "evidence": "banking_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/smfg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under megabanks INDEX (its domain route). Read it against 三菱UFJ銀行 (MUFG Bank) for peer / contrast (another 都市銀行 megabank operating company), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on SMFG; the trust and securities siblings on SMBC",
@@ -73,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2106,
-    "word_like_tokens": 323,
+    "nonspace_chars": 2682,
+    "word_like_tokens": 416,
     "inbound_wikilinks_count": 52,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-21"
   }
 }

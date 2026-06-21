@@ -40,6 +40,33 @@
       "2026年3月期 第2四半期(中間期) 決算短信 (連結, 2025-11-14 開示)",
       "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
       "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_036.pdf"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/insurance-license-and-solvency",
+        "evidence": "insurance_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -81,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6288,
-    "word_like_tokens": 1178,
+    "nonspace_chars": 6706,
+    "word_like_tokens": 1243,
     "inbound_wikilinks_count": 54,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

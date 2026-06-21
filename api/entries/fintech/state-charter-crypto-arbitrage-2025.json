@@ -48,7 +48,13 @@
       "Custodia Bank v. Federal Reserve Board litigation docket",
       "Kraken Financial corporate disclosures",
       "Public press: WSJ / Bloomberg / Coindesk / The Block coverage 2024-2026"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "US crypto firms in 2025-2026 face a four-way regulatory arbitrage: the federal OCC trust bank charter path (Bridge/Stripe pioneered), state-chartered Wyoming SPDI (Custodia, Kraken Financial), Nevada digital asset bank charter (2023-launched, slower uptake), and New York BitLicense (exodus accelerat",
   "headings": [

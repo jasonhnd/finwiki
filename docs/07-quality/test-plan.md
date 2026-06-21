@@ -26,6 +26,8 @@ git diff --check
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
 | Delegated model-agent implementation | Review task packet, allowed-file diff, RTM rows and command report. |
 | Code/doc alignment change | `bun tools/active_doc_stale_scan.ts` (active-doc stale scan), docs Markdown link check, docs leakage grep, [Documentation Drift Audit](documentation-drift-audit.md). |
+| Factual consistency audit change | `bun run factual:audit`, `bun tools/factual_consistency_audit.ts --json`, and `bun tools/factual_consistency_audit.ts --with-seeded-conflict-fixture --fail-on-conflicts` to prove the explicit failure path. |
+| Provenance completeness audit change | `bun run provenance:audit`, `bun tools/provenance_completeness_audit.ts --json`, and `bun tools/provenance_completeness_audit.ts --with-seeded-low-score-fixture --fail-under 0.70` to prove low-score detection. |
 
 ## Exit Criteria
 

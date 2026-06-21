@@ -38,13 +38,13 @@
       "regulatory"
     ],
     "status": "active",
-    "sources": [
-      "https://stripe.com/",
-      "https://stripe.com/blog/adding-payments-to-your-agentic-workflows",
-      "https://github.com/stripe/agent-toolkit",
-      "https://docs.stripe.com/issuing",
-      "https://docs.stripe.com/payments/payment-methods/integration-options"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Stripe Agent Toolkit, launched in late 2024 and significantly expanded through 2025, is Stripe's first-party SDK for letting AI agents transact through the existing Stripe rails — Issuing cards, ACH, wires, SEPA, payouts, billing, and Connect — without having to invent a new chain-native settlem",
   "headings": [

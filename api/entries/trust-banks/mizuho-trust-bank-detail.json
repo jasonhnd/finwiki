@@ -39,7 +39,13 @@
       "https://www.mizuho-tb.co.jp/company/about/info.html",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trust-banks INDEX and complements the company-level summary at みずほ信託銀行. Read it against 三菱UFJ信託銀行 (MUTB) / 三井住友信託銀行 for peer trust-bank competitor context, みずほFG / みずほ銀行 for parent-group sister context, and banking index for the broader system / regulatory boundary.",
   "headings": [

@@ -45,7 +45,13 @@
       "https://www.dbj.jp/en/",
       "https://www.jsla.org/english",
       "https://www.boj.or.jp/en/statistics/dl/loan/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance domain. Read it with Japan acquisition finance for the financing-stack overview, Japan MBO and squeeze-out process for the take-private spine, Japan tender offer process for the public-disclosure layer, and Japan private equity operating model for the GP-LP economic cont",
   "headings": [

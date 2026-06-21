@@ -36,7 +36,13 @@
       "https://www.global.jcb/ja/about-us/",
       "https://www.smbc-card.com/company/index.jsp",
       "https://www.cr.mufg.jp/corporate/company/overview/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "card-issuers/ covers Japanese credit-card and charge-card issuers, installment-credit (信販) companies, card acquirers, and affinity-card operators — the operating companies that issue cards, run shopping-credit / installment lanes, and contract merchants under the Installment Sales Act (割賦販売法). This",
   "headings": [

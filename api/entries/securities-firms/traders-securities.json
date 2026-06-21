@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.tradershd.com/business/group/securities/",
       "https://min-fx.jp/company/outline/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against SBI FXトレード for the closest FX-specialist peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The broader retail-FX field includes GMOクリック証券 and DMM.com証券.",
   "headings": [

@@ -40,7 +40,13 @@
       "https://www.jpx.co.jp/english/regulation/preventing/insider/",
       "https://www.jpx.co.jp/english/equities/listing/disclosure/",
       "https://www.jpx.co.jp/equities/listing/disclosure/overview/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan fair disclosure and insider-trading records connect selective disclosure, timely disclosure, unpublished material facts, issuer information management, insider trading restrictions, and exchange disclosure systems. Public routes include FSA fair-disclosure materials, Financial Instruments and",
   "headings": [

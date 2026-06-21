@@ -39,7 +39,13 @@
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — card-issuers/aplus, card-issuers/orico, card-issuers/jaccs, card-issuers/mufg-nicos, and others — and use revolving-pool structures with early-amortization triggers. The asset class is st",
   "headings": [

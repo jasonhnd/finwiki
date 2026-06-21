@@ -41,7 +41,13 @@
       "https://docs.cosmos.network/",
       "https://tutorials.cosmos.network/",
       "https://github.com/cosmos/ibc-go"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against cross-chain four poles overview and cross-chain five-pole matrix for peer / contrast, CCTP V2 for the alternative trust-minimized model, and Hyperlane vs LayerZero / CCIP for the broader interop comparison.",
   "headings": [

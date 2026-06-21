@@ -39,7 +39,13 @@
       "https://www.fsa.go.jp/news/r5/sonota/20240628-3/20240628.html",
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
       "https://www.jpx.co.jp/english/listing/co-search/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan TOB analysis is a disclosure-control workflow: tender offer trigger, public notice, tender offer statement, target company opinion, amendments, EDINET statutory filing, TDnet timely disclosure, large-shareholding reports, settlement, and squeeze-out / delisting route. It belongs in finance bec",
   "headings": [

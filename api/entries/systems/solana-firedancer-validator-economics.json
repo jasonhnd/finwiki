@@ -40,15 +40,13 @@
       "sol-staking"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.firedancer.io/",
-      "https://github.com/firedancer-io/firedancer",
-      "https://docs.solana.com/running-validator",
-      "https://docs.jito.network/",
-      "https://www.jumpcrypto.com/firedancer/",
-      "https://l2beat.com/data-availability/summary",
-      "https://defillama.com/chain/Solana"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against BFT validator 経済学概観 as the validator economics anchor and BFT validator economy 4 変数 for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see DAG-BFT vs Chain-BFT architecture —— Solana Tower",
   "headings": [

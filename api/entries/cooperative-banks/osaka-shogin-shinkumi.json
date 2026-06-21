@@ -43,7 +43,13 @@
       "https://ja.wikipedia.org/wiki/商銀信用組合",
       "https://www.kinsan.co.jp/company/history/index.html",
       "中小企業等協同組合法"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the first standalone shinkumi (credit cooperative) operating-company anchor in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against 大阪信用金庫 for the shinkin-vs-shinkumi distinction in the same Osaka market, 全信組連 / Zenshinkumiren for",
   "headings": [

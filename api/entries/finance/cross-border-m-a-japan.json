@@ -36,7 +36,13 @@
       "https://www.jftc.go.jp/en/pressreleases/yearly-2019/December/191217.html",
       "https://www.jftc.go.jp/en/legislation_gls/imonopoly_guidelines_files/191217policy.pdf",
       "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan cross-border M&A has three different deal directions: inbound foreign acquisition / investment into Japanese companies, outbound Japanese acquisition overseas, and joint ventures / strategic alliances. Do not collapse them into one market. Each has different board, financing, regulatory, forei",
   "headings": [

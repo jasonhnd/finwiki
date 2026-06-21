@@ -23,6 +23,23 @@ sources:
   - "https://www.sompo-hd.com/ir/library/disclosure/"
   - "Wikipedia: セゾン自動車火災保険 (公開情報, 2026-05-25 抽出)"
   - "Wikipedia: SOMPOダイレクト損害保険 (沿革・従業員数1,141人(2024-03-31)・資本金322.6億円、公開情報)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)

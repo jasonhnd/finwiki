@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: 日本政策金融公庫 (2026-05-19 抽出)"
   - 日本政策金融公庫法 (平成 19 年法律第 57 号)
   - JFC 公式サイト (https://www.jfc.go.jp/)
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 ---
 
 # 日本政策金融公庫 (JFC)

@@ -40,15 +40,13 @@
       "private-sector-wallets"
     ],
     "status": "active",
-    "sources": [
-      "https://www.bankofengland.co.uk/",
-      "https://www.bankofengland.co.uk/the-digital-pound",
-      "https://www.bankofengland.co.uk/-/media/boe/files/paper/2023/the-digital-pound-consultation-paper.pdf",
-      "https://www.gov.uk/government/consultations/the-digital-pound",
-      "https://www.bankofengland.co.uk/news/2024/january/response-to-the-digital-pound-consultation-paper",
-      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
-      "https://www.bis.org/publ/work1116.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the Bank of England (BoE) and HM Treasury (HMT) digital pound consultation and design phase — the UK retail-CBDC track. Read it against ECB digital euro retail rollout (the parallel EU programme with similar design choices), CB",
   "headings": [

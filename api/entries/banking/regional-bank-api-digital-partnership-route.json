@@ -38,7 +38,13 @@
       "https://www.boy.co.jp/renkei/api.html",
       "https://www.boj.or.jp/finsys/c_aft/workshop/data/rel180611b4.pdf",
       "https://www.tsukubabank.co.jp/cms/article/d5ba785feeb1f01e897ce2217e049b059cca84bc/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Regional-bank digital partnership in Japan is not just \"a bank app.\" It is split into electronic payment agency API contracts, shared API platforms, bank-owned apps, accounting / treasury integrations, BaaS-style bank partnerships, and account-direct payment rails.",
   "headings": [

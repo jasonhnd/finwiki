@@ -41,7 +41,13 @@
       "https://www.custody.jp/recruit/aboutus/business.html",
       "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's master-trust / custody-bank landscape is a two-anchor domestic infrastructure layer: Master Trust Bank of Japan and Custody Bank of Japan. They are not \"investors\" in the ordinary sense; they are asset-administration banks for pensions, investment trusts, insurers, asset managers, and instit",
   "headings": [

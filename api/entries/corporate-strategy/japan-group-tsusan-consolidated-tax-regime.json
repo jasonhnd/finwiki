@@ -42,7 +42,13 @@
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
       "https://laws.e-gov.go.jp/document?lawid=340AC0000000034",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the group-capital overlay. It covers the ongoing group-tax regime that becomes a live design factor the moment a group sits under a parent — so read it directly after holding-company conversion (which creates the parent",
   "headings": [

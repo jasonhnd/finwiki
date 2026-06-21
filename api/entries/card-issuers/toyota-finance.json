@@ -35,7 +35,13 @@
       "https://www.toyota-finance.co.jp/company/data.html",
       "https://www.toyota-finance.co.jp/about/glance.html",
       "https://www.tfsc.jp/corporate/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX. Read it against Toyota Financial Services for parent / operating-company separation and Japan credit purchase and card operator registry index for the installment-credit and card boundary.",
   "headings": [

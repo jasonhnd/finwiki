@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://corp.sbifxt.co.jp/company/",
       "https://www.sbigroup.co.jp/company/group/sbifxtrade.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against トレイダーズ証券 for the closest FX-specialist peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The comprehensive-broker sibling is SBI証券.",
   "headings": [

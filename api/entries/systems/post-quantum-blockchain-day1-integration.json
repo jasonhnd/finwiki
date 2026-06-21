@@ -30,11 +30,13 @@
       "FIPS-205"
     ],
     "status": "candidate",
-    "sources": [
-      "https://csrc.nist.gov/pubs/fips/205/final",
-      "https://www.circle.com/blog/preparing-blockchains-for-q-day",
-      "https://www.arc.io/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化の潮流(Tempo Simplex / Arc Malachite) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

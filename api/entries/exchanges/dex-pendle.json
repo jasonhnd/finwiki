@@ -35,7 +35,13 @@
       "公開情報整理 (DefiLlama Pendle TVL データ, 2024-2026)",
       "公開情報整理 (Ethena USDe × Pendle 統合公式発表, 2024)",
       "公開情報整理 (Lido stETH / Maker sDAI / Frax sfrxETH の Pendle 上市場)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against global DEX major five comparison for adjacent DEX peer context, AMM 設計進化系譜 for the broader system / design boundary, and CEX native token strategy comparison for token economy contrast.",
   "headings": [

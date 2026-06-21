@@ -42,16 +42,13 @@
       "dencun"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.celestia.org/",
-      "https://docs.eigenda.xyz/",
-      "https://ethereum.org/en/developers/docs/data-availability/",
-      "https://docs.availproject.org/",
-      "https://near.org/blog/near-da",
-      "https://l2beat.com/data-availability/summary",
-      "https://defillama.com/chains/Rollup",
-      "https://blobscan.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against EIP-4844 blob 経済と 2026 市場影響 for the Ethereum-native DA path that competes with all alt-DA, Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the blob capacity expansion that affects all DA price competition, and EigenLayer overview for the restaking economic",
   "headings": [

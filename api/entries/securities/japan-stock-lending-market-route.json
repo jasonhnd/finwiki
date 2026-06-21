@@ -43,7 +43,13 @@
       "https://www.jasdec.com/en/about/office/outline/",
       "https://www.jpx.co.jp/equities/clearing-settlement/outline/index.html",
       "https://www.jpx.co.jp/jscc/en/risk/collateral/settlement.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Stock lending in Japan is a market-infrastructure route that connects custodians, institutional investors, brokers, securities finance companies, margin trading, short selling, collateral, clearing, settlement, and corporate actions. It is analyzed as plumbing before it is analyzed as a bearish sign",
   "headings": [

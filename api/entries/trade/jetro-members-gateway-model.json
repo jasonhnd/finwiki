@@ -21,10 +21,13 @@
       "trade"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.jetro.go.jp/members/",
-      "https://www.jetro.go.jp/jetro/profile/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under JETRO は会員組織ではなく経産省傘下の独立行政法人 and should be read with FinWiki index.",
   "headings": [

@@ -39,7 +39,13 @@
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.boj.or.jp/en/statistics/boj/fm/ope/index.htm",
       "https://www.boj.or.jp/en/about/publication/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 決済機構局 for peer-bureau context inside the Bank of Japan, and against BoJ monetary policy for the policy-to-operations boundary. For market-mechanics anchoring, route through Japan money market and BoJ open market operations.",
   "headings": [

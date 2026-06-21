@@ -14,12 +14,14 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1570 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1571 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1119万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,191,689） |
+| Text volume | 約1124万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,235,414） |
 | Word-like tokens | 約181万 | English / CJK mixed corpus の近似 token count |
+
+> 2026-06-21 JST snapshot note: entity graph infrastructure は machine surface 上で 90 件の `entity_node` と 230 件の生成済み `entity_edges`（115 declared + 115 derived、unresolved 0）として公開されます。Per-entry API も agent routing 用の安全な frontmatter field（`canonical_anchor`, `related`, `note`, `type`, `sources`, `entity_node`, `entity_edges`）を公開します。Factual consistency と provenance completeness の report-only quality command も追加済みで、default では release gate ではありません。
 
 > 集計基準: 2026-06-21 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
 
@@ -189,6 +191,8 @@ gh release create <tag> --target main --title "<日本語タイトル>" --notes-
 
 ## English 🌐
 
+> 2026-06-21 JST snapshot note: entity graph infrastructure is now represented in machine surfaces with 90 `entity_node` declarations and 230 generated `entity_edges` (115 declared + 115 derived, unresolved 0). The per-entry API exposes safe frontmatter fields for agent routing: `canonical_anchor`, `related`, `note`, `type`, `sources`, `entity_node`, and `entity_edges`. The factual-consistency and provenance-completeness audits are report-only by default and are not release gates.
+
 FinWiki is a public Markdown knowledge base covering finance, payments, stablecoins, crypto assets, capital markets, Japanese financial institutions, policy finance, and strategic corporate cases. It organizes content using Obsidian-style `[[wikilink]]` connections, and the main entry point is [INDEX.md](INDEX.md).
 
 The homepage is designed for humans to understand the entrance, but the wiki corpus itself is designed primarily as a knowledge graph for AI agents to read, search, retrieve, cite, and connect rather than as a linear human reading product.
@@ -201,11 +205,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1570 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1571 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1483 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~11.19M chars | ~11,191,689 non-space UTF-8 characters across Markdown |
+| Text volume | ~11.24M chars | ~11,235,414 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.81M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-21 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -368,6 +372,8 @@ gh release create <tag> --target main --title "<Japanese Title>" --notes-file re
 
 ## 中文 🇨🇳
 
+> 2026-06-21 JST 快照说明：实体图基础设施已经进入机器可读 surface，当前有 90 个 `entity_node` 声明和 230 条生成后的 `entity_edges`（115 条声明边 + 115 条派生边，未解析目标 0）。Per-entry API 也公开了可用于 agent routing 的安全 frontmatter 字段：`canonical_anchor`、`related`、`note`、`type`、`sources`、`entity_node`、`entity_edges`。Factual consistency 与 provenance completeness 审计默认只是 report-only，不作为 release gate。
+
 FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场、日本金融机构、政策金融、公开公司与公开人物战略案例的 Markdown 知识库。仓库主要使用 Obsidian 风格的 `[[wikilink]]` 组织内容，总入口是 [INDEX.md](INDEX.md)。
 
 首页是给人理解入口用的，但 wiki 正文 corpus 主要不是给人按顺序通读，而是作为给 AI 读取、检索、引用和连接的 knowledge graph 来设计。
@@ -380,11 +386,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1570 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1571 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1483 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1119万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,191,689） |
+| Text volume | 约1124万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,235,414） |
 | Word-like tokens | 约181万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-21 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。

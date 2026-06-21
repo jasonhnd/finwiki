@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: SBIホールディングス (2026-05-19 抽出, FY2024/3期 = 2025-03 期 財務 KPI)"
   - "Wikipedia: SBI証券 (2026-05-19 抽出, 口座数 1500 万・FY2024/3 業績)"
   - "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # SBI ホールディングス (SBI HD)

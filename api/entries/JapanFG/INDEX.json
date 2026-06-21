@@ -33,7 +33,13 @@
     "sources": [
       "各 FG 公式 IR 資料・有価証券報告書",
       "金融庁・FSB 公開資料"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "日本の金融機関 entity ページの umbrella hub。かつて巨大で平坦だった JapanFG/ ドメイン（約 620 entity）は 2026-06-04 に 17 個の機関類型別ドメインへ物理分割された。本ページは旧 JapanFG/ の入口を保持し、分割後の各ドメインへ案内するナビゲーション・ハブとして機能する。各 entity ページの URL は新しいドメイン配下へ移動している（例: JapanFG/sumitomo-mitsui → megabanks/sumitomo-mitsui）。",
   "headings": [

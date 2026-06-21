@@ -47,7 +47,13 @@
       "https://www.nissanfinance.com/s/",
       "https://www.nissan-global.com/EN/DOCUMENT/PDF/emtn_program_06.pdf",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index and is the third pillar of the Japanese-OEM auto-captive trio alongside Toyota Financial Services and Honda Finance. Read it against Toyota Motor for the parent-OEM contrast, and against Panasonic 顧客金融, Sony FG, MHI 輸出金融 for peer industrial-conglomerate fina",
   "headings": [

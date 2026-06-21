@@ -39,7 +39,13 @@
       "https://www.sec.gov/Archives/edgar/data/1973239/000119312523223914/d439321df1.htm",
       "https://group.softbank/system/files/pdf/ir/financials/annual_reports/annual-report_fy2023_01_en.pdf",
       "https://www.nasdaq.com/market-activity/stocks/arm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case in the people-and-portfolio cluster. Read it against Brian Armstrong Coinbase exchange-as-public-company template for peer / contrast context on portfolio company going public, Kitao Yoshitaka SBI independent strategy for the co",
   "headings": [

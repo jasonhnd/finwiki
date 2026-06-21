@@ -41,7 +41,13 @@
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1263.htm",
       "https://laws.e-gov.go.jp/law/410AC1000000007",
       "https://www.npo-homepage.go.jp/about/npo-kisochishiki/nposeido-gaiyou"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX and is the tax-upgrade companion to the base form described in Japan NPO法人 overview. The donor-deductibility prize it unlocks parallels the 公益 advantage covered in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, and matters most for organisations pursuing the public-",
   "headings": [

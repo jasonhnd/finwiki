@@ -12,6 +12,10 @@ status: active
 sources:
   - "Wikipedia: 株式会社クレディセゾン (公開情報, 2026-05-19 抽出)"
   - "クレディセゾン公式 IR (会社沿革・公開資料)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 ---
 
 # クレディセゾン (Credit Saison)

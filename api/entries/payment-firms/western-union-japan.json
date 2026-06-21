@@ -33,7 +33,13 @@
       "https://www.westernunion.com/jp/en/register-and-send-money.html",
       "https://www.westernunion.com/content/dam/wu/APAC/other/pdf/WU-terms-conditions-Japan-jp.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against SBIレミット and トラベレックスジャパン for peer / contrast (cross-border remittance / money-movement), and against the FSA plus the funds-transfer vs prepaid boundary for the supervisory / system boundary.",
   "headings": [

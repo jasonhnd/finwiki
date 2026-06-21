@@ -36,7 +36,13 @@
       "https://infcurion.com/",
       "https://infcurion.com/company/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / mercha",
   "headings": [

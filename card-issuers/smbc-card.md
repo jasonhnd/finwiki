@@ -18,6 +18,23 @@ sources:
   - "https://www.smbc-card.com/company/info/outline.jsp"
   - "https://www.smbc-card.com/company/index.jsp"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/smfg
+    evidence: group_profile
+    source: "https://www.smbc-card.com/company/info/outline.jsp"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: registered_as
+    target: card-issuers/installment-sales-act-2020-amendment
+    evidence: credit_purchase_registration_context
+    source: "https://www.meti.go.jp/policy/economy/consumer/credit/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 三井住友カード (SMCC)

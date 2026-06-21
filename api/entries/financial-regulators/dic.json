@@ -36,7 +36,17 @@
       "預金保険機構 公式サイト (https://www.dic.go.jp/, 2026-05-25 参照)",
       "預金保険法 (昭和 46 年法律第 34 号)",
       "金融庁 預金保険制度関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 損害保険契約者保護機構 and 生命保険契約者保護機構 for parallel safety-net peers, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.",
   "headings": [
@@ -87,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4121,
-    "word_like_tokens": 600,
+    "nonspace_chars": 4188,
+    "word_like_tokens": 610,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

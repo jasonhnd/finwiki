@@ -33,7 +33,13 @@
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "各 FG 公式 IR 資料・有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
   "headings": [
@@ -187,6 +193,6 @@
     "nonspace_chars": 6180,
     "word_like_tokens": 811,
     "inbound_wikilinks_count": 59,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

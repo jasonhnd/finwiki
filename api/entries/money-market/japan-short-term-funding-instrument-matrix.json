@@ -54,7 +54,13 @@
       "https://www.jasdec.com/en/system/cp/outline/",
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's short-term funding market is not one product. The uncollateralized and collateralized call markets, the GC and SC repo legs of JGB securities financing, commercial paper (CP), negotiable certificates of deposit (NCD), Treasury Discount Bills (TBill / TDB), the BoJ complementary deposit facil",
   "headings": [

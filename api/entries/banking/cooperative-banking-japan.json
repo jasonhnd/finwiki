@@ -46,7 +46,13 @@
       "https://www.jabank.org/about/sikumi/banksystem/",
       "https://www.nochubank.or.jp/about/features.html",
       "https://www.jfmbk.org/about/housin.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's cooperative banking layer consists mainly of shinkin banks, credit cooperatives, labor banks, the JA Bank agricultural cooperative banking system, the JF Marine Bank fisheries cooperative banking system, and related central institutions. FSA's supervision guideline treats cooperative financi",
   "headings": [

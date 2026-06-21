@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: 日本銀行 (2026-05-25 抽出)"
   - "日本銀行 公式サイト (https://www.boj.or.jp/, 2026-05-25 参照)"
   - "日本銀行法 (平成 9 年法律第 89 号)"
+entity_node:
+  kind: regulator
+  scope: japan_core
+  status: anchor
 ---
 # 日本銀行 (BoJ)
 

@@ -33,6 +33,49 @@
       "https://global.rakuten.com/corp/news/press/2024/0416_01.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
       "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "financial-licenses/securities-license-stack",
+        "evidence": "fibo_registry",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "member_of_sro",
+        "target": "financial-regulators/jsda",
+        "evidence": "sro_membership",
+        "source": "https://www.jsda.or.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "payment-firms/rakuten-fg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "Rakuten Securities is the online brokerage arm associated with Rakuten's financial ecosystem. FSA's financial instruments business operator list identifies 楽天証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 195. Rakuten's own April 2024 release said Rakuten Securities surpassed 11 million general sec",
@@ -77,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2690,
-    "word_like_tokens": 392,
+    "nonspace_chars": 3403,
+    "word_like_tokens": 508,
     "inbound_wikilinks_count": 38,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

@@ -56,7 +56,13 @@
       "https://www.jasdec.com/en/system/",
       "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
       "https://www.boj.or.jp/en/paym/jgb_bes/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks",
   "headings": [

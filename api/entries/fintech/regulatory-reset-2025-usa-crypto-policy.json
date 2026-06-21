@@ -47,7 +47,13 @@
       "https://occ.treas.gov/news-issuances/ (OCC news 2025)",
       "https://www.federalreserve.gov/newsevents/pressreleases.htm (Federal Reserve press)",
       "https://www.federalregister.gov/ (Federal Register filings)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Between January 2025 and the end of Q1 2026, the US federal posture toward crypto reversed across seven independent surfaces in roughly twelve months: (1) SEC accounting bulletin SAB 121 was rescinded by SAB 122 (January 23 2025), removing the on-balance-sheet liability that had kept banks out of cu",
   "headings": [

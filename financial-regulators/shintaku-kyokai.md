@@ -24,6 +24,10 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://www.fsa.go.jp/common/law/guide/trust/"
   - "https://laws.e-gov.go.jp/law/416AC0000000154"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # Trust Companies Association of Japan (Shintaku Kyōkai / 信託協会)

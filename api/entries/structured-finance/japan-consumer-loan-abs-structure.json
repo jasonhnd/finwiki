@@ -51,7 +51,13 @@
       "Aplus — https://www.aplus.co.jp/",
       "JSDA — https://www.jsda.or.jp/en/",
       "FSA Moneylending Business Act — https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan consumer-loan ABS — issued in modest annual volumes (~JPY 300–600 bn) by the surviving consumer-finance and shopping-credit originators (Acom under MUFG, Aiful, SMBC Consumer Finance, Aplus under SBI / others, Orient Corp under Mizuho-Itochu, JACCS) — uses dynamic-pool revolving structures wit",
   "headings": [

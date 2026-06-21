@@ -24,6 +24,17 @@ sources:
   - "楽天グループ 公式プレスリリース「日本郵政グループと楽天グループ、資本・業務提携に合意」(2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html"
   - "Bloomberg「日本郵政が楽天に1500億円出資、資本業務提携－物流以外も連携へ」(2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01"
   - "日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」 — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/japan-post-holdings
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 # 日本郵政 (Japan Post Holdings)
 

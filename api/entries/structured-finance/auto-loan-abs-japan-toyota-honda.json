@@ -39,7 +39,13 @@
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/",
       "https://www.toyota-finance.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Auto-loan ABS in Japan are issued by captive finance subsidiaries of the Japanese auto OEMs and by bank-affiliated auto-finance companies. The largest repeat issuers are card-issuers/toyota-finance, leasing-firms/toyota-financial (for cross-border), Honda Finance, Nissan Credit, Mitsubishi UFJ Capit",
   "headings": [

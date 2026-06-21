@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "https://www.fsa.go.jp/en/regulated/licensed/trustcompanies.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "FSA's trust-company list contains 38 trust companies as of 2026-03-31. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-bank, trust-banks/mizuho-trust-bank, trust-banks/smtb, trust-ban",
   "headings": [

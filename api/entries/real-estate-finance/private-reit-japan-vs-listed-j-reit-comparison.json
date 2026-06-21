@@ -40,7 +40,13 @@
       "https://www.ares.or.jp/en/",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT are structurally the same kind of investment corporation under the Investment Trust Act, but the listing status changes almost everything about how they are used in practice. Listed J-REIT trade continuously on JPX with full continuing-disclosure obli",
   "headings": [

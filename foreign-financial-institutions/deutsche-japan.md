@@ -13,6 +13,23 @@ sources:
   - "Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出)"
   - "Deutsche Bank AG 公式日本サイト"
   - "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/foreign-bank-branch-license-route
+    evidence: foreign_bank_branch_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # ドイチェ・ジャパン (Deutsche Japan)

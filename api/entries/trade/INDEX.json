@@ -35,7 +35,13 @@
       "https://www.jetro.go.jp/en/jetro/",
       "https://www.meti.go.jp/english/",
       "https://www.jetro.go.jp/en/jetro/members/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes two complementary clusters. The first is Japan trade-promotion institutional structure — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit: a decision page that splits JETRO, NEXI, and JBIC (the promotion / insurance /",
   "headings": [

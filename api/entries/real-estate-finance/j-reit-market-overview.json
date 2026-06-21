@@ -41,7 +41,13 @@
       "https://www.ares.or.jp/en/",
       "https://www.jpx.co.jp/english/markets/indices/tsereit/index.html",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "J-REIT (Japan Real Estate Investment Trust) is the Japan listed-real-estate market layer. It is organized as an investment corporation (投資法人) under the Investment Trust Act rather than as an operating real-estate company. The TSE REIT Index covers around 60 listed J-REIT names with combined market c",
   "headings": [

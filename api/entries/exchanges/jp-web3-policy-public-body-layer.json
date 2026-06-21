@@ -32,13 +32,13 @@
       "public-body"
     ],
     "status": "active",
-    "sources": [
-      "https://www.meti.go.jp/policy/it_policy/web3/index.html",
-      "https://www.meti.go.jp/",
-      "https://www.jimin.jp/",
-      "https://www.cas.go.jp/",
-      "https://www.fsa.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against JCBA — 日本暗号資産ビジネス協会 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [

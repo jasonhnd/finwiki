@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.amova-am.com/about/outline",
       "https://www.amova-am.com/files/lists/eannouncement/20250901.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under asset-managers INDEX (its domain route). Read it against 三井住友トラスト・アセットマネジメント (SMT-AM) for the same-group trust-affiliated 運用会社 peer / contrast, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.",
   "headings": [

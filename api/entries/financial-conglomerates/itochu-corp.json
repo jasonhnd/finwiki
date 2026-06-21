@@ -45,7 +45,13 @@
       "伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事)",
       "JPX 銘柄情報 8001 — https://www2.jpx.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against 三菱商事 (5 大首位 / 資源寄り対照) and 丸紅 (繊維・穀物商社としての対照) for peer / contrast context. F",
   "headings": [

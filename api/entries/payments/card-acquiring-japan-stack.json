@@ -34,7 +34,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/3-1teiketusinnsei.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan card acquiring should be read as a merchant-contracting and card-data-control stack, not only as a payment-processing feature. METI's Installment Sales Act materials define the registered merchant-contracting role as the business of concluding contracts that allow merchants to handle credit ca",
   "headings": [

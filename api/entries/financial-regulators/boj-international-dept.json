@@ -41,7 +41,13 @@
       "https://www.boj.or.jp/en/intl_finance/cooperate/index.htm",
       "https://www.boj.or.jp/en/intl_finance/fxope/index.htm",
       "https://www.boj.or.jp/en/about/publication/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the domestic market-operations counterpart and FSA 総合政策局 for the FSA-side international-policy lane. For currency-and-FX context, anchor through BoJ monetary policy and Japan money market.",
   "headings": [

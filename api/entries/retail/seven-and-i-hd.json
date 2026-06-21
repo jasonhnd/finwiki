@@ -36,7 +36,13 @@
       "https://www.sevenbank.co.jp/english/corp/",
       "https://www.sevenbank.co.jp/group/",
       "https://www.nanaco-net.jp/introduction/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Seven & i is a convenience-store-centered retail platform whose finance stack is anchored by Seven Bank ATM infrastructure, Seven Card Service, and nanaco. In JapanFG terms, Seven & i is less a universal financial group and more a retail infrastructure owner: high-frequency convenience-store traffic",
   "headings": [

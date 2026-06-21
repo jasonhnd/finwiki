@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "http://www.koex.jp/com/index.html",
       "https://www.zenginkyo.or.jp/bankdb/bc0423/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against ウリィ銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

@@ -47,7 +47,13 @@
       "Credit Saison IR — https://corporate.saisoncard.co.jp/",
       "Orient Corporation IR — https://www.orico.co.jp/",
       "JSDA — https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan credit-card receivable ABS — issued in modest annual volumes (~JPY 400–700 bn) by JCB, Mitsubishi UFJ Nicos, Credit Saison, Orient Corp, AEON Financial Service, and JACCS — uses a master-trust framework in which a single trust structure issues multiple series of senior bonds over time backed b",
   "headings": [

@@ -37,7 +37,13 @@
       "https://docs.nevermined.io/",
       "https://github.com/nevermined-io",
       "https://nevermined.app/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP-native micropayment for peer / contrast, skill market monetization for the marketplace framing, and payments index for the broader rail context.",
   "headings": [

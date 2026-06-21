@@ -44,7 +44,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "NPR's portfolio is concentrated in AAA-grade modern logistics facilities — high-spec multi-tenant warehouses in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets developed by Prologis Japan on the sponsor balance sheet. The AAA-grade designation refers to facility specifications: large flo",
   "headings": [

@@ -36,7 +36,13 @@
       "https://dpoint.docomo.ne.jp/",
       "https://www.waon.net/point/",
       "https://www.nanaco-net.jp/introduction/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's point economy is a payment distribution system, not just a discount habit. Rakuten Point, V Point, d Point, PayPay Point, WAON POINT, nanaco point, and card points decide which wallet, card, bank, mobile carrier, and retail app gets opened first.",
   "headings": [

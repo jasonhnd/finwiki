@@ -37,7 +37,13 @@
       "https://owasp.org/www-project-top-ten/",
       "https://google.github.io/osv-scanner/",
       "https://osv.dev/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under security domain. It generalizes the concrete attack in module path confusion + LICENSE strip supply chain attack into a reusable, registry-agnostic triage checklist, and it shares its evidence layer with forensic identity anchor chain when a squatted package needs to be tied ba",
   "headings": [

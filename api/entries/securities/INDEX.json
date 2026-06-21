@@ -50,7 +50,13 @@
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://www.odx.co.jp/en/news/article/5s13s3n0vcms/",
       "https://www.jsda.or.jp/shijyo/seido/jishukisei/web-handbook/106_saiken/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes securities-market and household-investment pages. Listed financial groups and broad company pages usually stay in JapanFG, while this domain explains securities-market mechanisms and infrastructure such as NISA flows, IPO listing disclosure, exchange venues, PTS, security-token se",
   "headings": [

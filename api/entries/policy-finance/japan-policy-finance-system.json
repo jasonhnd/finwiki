@@ -39,7 +39,13 @@
       "https://www.zenshinhoren.or.jp/guarantee-system/",
       "https://www.maff.go.jp/j/keiei/kinyu/hosyo/hosyou.html",
       "https://www.jaffic.go.jp/guide/gyo/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's policy-finance system is not a single bank. It is a layered state-finance toolkit: JFC for domestic SME / agriculture / education-adjacent credit, JBIC for overseas investment and export finance, JICA for ODA implementation, NEXI for trade and investment insurance, JOGMEC for resource securi",
   "headings": [

@@ -33,7 +33,17 @@
     "sources": [
       "Wikipedia: 野村ホールディングス (2026-05-19 抽出)",
       "野村 HD 第 121 期 (2025-03 期) 有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 大和証券グループ本社 (Daiwa Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
@@ -78,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6985,
-    "word_like_tokens": 1262,
+    "nonspace_chars": 7046,
+    "word_like_tokens": 1272,
     "inbound_wikilinks_count": 91,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

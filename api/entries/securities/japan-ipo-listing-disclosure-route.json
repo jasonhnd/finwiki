@@ -43,7 +43,13 @@
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.jsda.or.jp/about/gaiyou/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan IPO records combine exchange listing review, securities registration disclosure, underwriting / bookbuilding, listing approval, TDnet timely disclosure, EDINET statutory disclosure, and post-listing corporate-governance records. This page records the public route for issuer entry onto TSE-list",
   "headings": [

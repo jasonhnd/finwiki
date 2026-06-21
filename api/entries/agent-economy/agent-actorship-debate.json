@@ -24,7 +24,13 @@
     "sources": [
       "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors.",
       "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under Skill マーケット有料化. Read it with Agent 決済インフラ調査レポート for adjacent context and FinWiki index for the broader system boundary.",
   "headings": [

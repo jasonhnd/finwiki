@@ -34,7 +34,13 @@
       "https://www.fukuoka-fg.com/investorimage/data/20250908_irday_2.pdf",
       "https://www.minna-no-ginko.com/alliance-service/",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index. Read it against みんなの銀行 BaaS model for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
   "headings": [

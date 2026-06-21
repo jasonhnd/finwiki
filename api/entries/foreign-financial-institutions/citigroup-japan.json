@@ -40,6 +40,33 @@
       "Wikipedia: Citigroup (英語版、2026-05-19 参照)",
       "Citigroup Inc. Annual Report 2024 (公開 IR)",
       "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/foreign-bank-branch-license-route",
+        "evidence": "foreign_bank_branch_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against HSBC ジャパン (HSBC Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -85,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4265,
-    "word_like_tokens": 664,
+    "nonspace_chars": 4687,
+    "word_like_tokens": 731,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

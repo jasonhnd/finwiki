@@ -36,15 +36,13 @@
       "compliance-first"
     ],
     "status": "active",
-    "sources": [
-      "https://www.circle.com/",
-      "https://www.circle.com/transparency",
-      "https://www.circle.com/usdc",
-      "https://developers.circle.com/stablecoins/cctp-getting-started",
-      "https://investor.circle.com/",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=circle",
-      "https://www.bnymellon.com/us/en/insights/all-insights/circle-reserve-fund.html"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with PayPal PYUSD and Tether USDT エコノミクス for the white-circle / grey-circle contrast, and with GENIUS Act §501 for the regulatory frame in which USDC has become the de facto white-circle benchmark.",
   "headings": [

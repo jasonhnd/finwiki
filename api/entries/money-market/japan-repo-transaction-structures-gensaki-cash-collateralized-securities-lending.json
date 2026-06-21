@@ -45,7 +45,13 @@
       "https://www.icmagroup.org/assets/documents/Maket-Practice/ICMA-Guide-to-Asia-Repo-Markets-Japan-February-2022.pdf",
       "https://www.jsf.co.jp/en/business/security-finance/bond.html",
       "https://www.jpx.co.jp/jscc/en/cash/jgbcc/product.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against JGB repo market in Japan for the market-level overview it drills into, uncollateralized vs collateralized call market for the secured-vs-unsecured boundary, and route securities-lending overlap to the stock-lending market route. The clearing",
   "headings": [

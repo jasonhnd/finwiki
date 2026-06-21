@@ -44,7 +44,13 @@
       "https://www.taisyaku.jp/english/about/restrictive/",
       "https://www.nomuranow.com/portal/site/nnextranet/en/global-markets/prime-finance/",
       "https://www.jpmorgan.com/prime-services"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under securities domain. Read it with JapanFG legal / financial licenses, FIEA operator registry, banking domain, and money-market domain when prime brokerage becomes a license, custody, collateral, or funding question.",
   "headings": [

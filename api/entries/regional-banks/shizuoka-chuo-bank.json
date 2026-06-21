@@ -33,7 +33,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.shizuokachuo-bank.co.jp/about/gaiyo.html",
       "https://ja.wikipedia.org/wiki/静岡中央銀行"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 静岡銀行 for the same-prefecture first-regional-bank peer / contrast, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [

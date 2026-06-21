@@ -48,7 +48,13 @@
       "https://www.maff.go.jp/j/keiei/sosiki/kyosoka/k_kinyu/",
       "https://www.mhlw.go.jp/",
       "https://www.fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japanese 共済 (kyosai / \"cooperative mutual aid\") sector is a parallel insurance industry of cooperative-form underwriters operating outside the FSA-supervised Insurance Business Act perimeter. The four largest sub-sectors are JA共済 (Zenkyoren) — the agricultural cooperative federation, 全労済 (Zenros",
   "headings": [

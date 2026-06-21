@@ -41,7 +41,13 @@
       "https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm",
       "https://www.isda.org/",
       "https://www.bis.org/publ/qtrpdf/r_qt1709.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange floating-rate interest payments in two different currencies, with the principal also exchanged at inception and re-exchanged at maturity. The \"basis\" is the spread quoted on one leg (conventionally the non-U",
   "headings": [

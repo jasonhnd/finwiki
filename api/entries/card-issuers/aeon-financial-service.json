@@ -35,7 +35,17 @@
       "https://www.aeonfinancial.co.jp/corp/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://www.j-credit.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX (its domain route). Read it against セブン・カードサービス and エポスカード for retail-origin peer / contrast, and against the FSA plus payments for the supervisory / system boundary. The governing acquiring statute is 割賦販売法 2020 改正.",
   "headings": [
@@ -80,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3117,
-    "word_like_tokens": 465,
+    "nonspace_chars": 3178,
+    "word_like_tokens": 475,
     "inbound_wikilinks_count": 30,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-21"
   }
 }

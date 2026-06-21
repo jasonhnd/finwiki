@@ -33,7 +33,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Rescue Insurance about page: https://www.rescue-sonpo.jp/about.php",
       "JBR group companies: https://www.jbr.co.jp/affiliated/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/rescue-insurance",
   "headings": [

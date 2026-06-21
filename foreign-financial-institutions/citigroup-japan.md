@@ -16,6 +16,23 @@ sources:
   - "Wikipedia: Citigroup (英語版、2026-05-19 参照)"
   - "Citigroup Inc. Annual Report 2024 (公開 IR)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/foreign-bank-branch-license-route
+    evidence: foreign_bank_branch_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # シティグループ・ジャパン (Citigroup Japan)

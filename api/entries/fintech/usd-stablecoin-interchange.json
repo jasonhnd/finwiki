@@ -21,13 +21,13 @@
       "fintech"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://www.circle.com/en/usdc",
-      "https://tether.to/en/transparency/",
-      "https://www.coinbase.com/blog",
-      "https://curve.fi/",
-      "https://www.visa.com/blogarchives/us/2024/09/05/stablecoins-cross-border/index.html"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it against 日本金融規制 — トークン・暗号資産・決済に関する法体系 for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
   "headings": [

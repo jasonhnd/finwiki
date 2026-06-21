@@ -44,7 +44,13 @@
       "https://www.maff.go.jp/j/keiei/sosiki/kyosoka/k_kinyu/",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
       "https://www.zenchu-ja.or.jp/"
-    ]
+    ],
+    "canonical_anchor": "non-life-insurers/ja-kyosairen",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会) is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-FSA-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (who",
   "headings": [

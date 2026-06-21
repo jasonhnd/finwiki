@@ -34,7 +34,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Hyundai Marine & Fire Japan official site: https://www.hdinsurance.co.jp/",
       "Hyundai Marine & Fire Japan English top: https://www.hdinsurance.co.jp/eng_index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/hyundai-marine-fire-japan",
   "headings": [

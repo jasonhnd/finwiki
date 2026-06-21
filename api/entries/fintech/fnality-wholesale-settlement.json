@@ -36,13 +36,13 @@
       "tokenized-deposit"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fnality.org/",
-      "https://www.fnality.org/news-views",
-      "https://www.bankofengland.co.uk/news/2023/november/boe-statement-on-fnality",
-      "https://www.fnality.org/governance",
-      "https://www.swift.com/news-events/news/swift-fnality-collaboration"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with Partior and JPM Onyx / Kinexys for the wholesale-settlement consortium triangle, and with 多大銀行連邦ガバナンス for the governance pattern that gives Fnality its multi-bank shape (vs. JPM single-issuer model).",
   "headings": [

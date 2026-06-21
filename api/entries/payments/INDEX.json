@@ -53,7 +53,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html",
       "https://www.meti.go.jp/english/press/2023/0601_002.html",
       "https://www.boj.or.jp/en/paym/outline/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes Japan payment and settlement pages. The current anchor is Japan cashless payment landscape, which connects card, code payment, account-to-account payment, prepaid electronic money, PSP, bank-linked payment, loyalty points, and stablecoin / EPI adjacency. Major operating-company pa",
   "headings": [

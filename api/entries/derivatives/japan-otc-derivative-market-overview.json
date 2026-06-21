@@ -45,7 +45,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.isda.org/",
       "https://www.jpx.co.jp/english/markets/derivatives/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's over-the-counter (OTC) derivative market spans four product clusters — interest-rate, FX, credit, and equity / structured — all governed under the Financial Instruments and Exchange Act (FIEA), supervised by the Financial Services Agency (FSA), and (for in-scope products) cleared at the Japa",
   "headings": [

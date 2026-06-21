@@ -48,7 +48,13 @@
       "https://occ.treas.gov/news-issuances/",
       "https://www.federalregister.gov/",
       "https://www.whitehouse.gov/presidential-actions/ (EO 14178)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Treasury's 2025 stablecoin policy framework operationalizes the GENIUS Act through three coordinated streams: (1) the President's Working Group on Digital Asset Markets (PWG-DAM) — re-chartered under EO 14178 — published recommendations on issuer eligibility, reserve composition, redemption guarante",
   "headings": [

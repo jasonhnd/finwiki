@@ -43,7 +43,13 @@
       "FSB List of Global Systemically Important Banks (G-SIBs) 2024",
       "https://www.bny.com/corporate/jp/ja.html",
       "https://www.bny.com/corporate/jp/ja/asset-servicing-japan-disclosure.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

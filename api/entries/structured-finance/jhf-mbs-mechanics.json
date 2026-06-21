@@ -40,7 +40,13 @@
       "https://www.jhf.go.jp/about/organization/outline/index.html",
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japan Housing Finance Agency (JHF) runs a monthly MBS issuance program backed by Flat 35 fixed-rate residential mortgages originated by private financial institutions. JHF buys the loans via its securitization-support program, packages them into an \"MBS Trust\" structure, and issues MBS where the",
   "headings": [

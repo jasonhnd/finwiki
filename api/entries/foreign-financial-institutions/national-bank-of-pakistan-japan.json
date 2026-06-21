@@ -36,7 +36,13 @@
       "https://www.nbp.com.pk/services/",
       "https://www.nbp.com.pk/ficmd/TradeSer.aspx",
       "https://nbp.com.pk/hrem/index.aspx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "National Bank of Pakistan Japan sits under foreign-financial-institutions INDEX and is a foreign-bank branch route in the foreign-bank branch registry. Read it with State Bank of India Japan for South Asia corridor comparison, funds-transfer registry for remittance context, and banking index.",
   "headings": [

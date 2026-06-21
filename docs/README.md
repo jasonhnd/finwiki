@@ -35,6 +35,8 @@
 | [Roadmap](01-strategy/roadmap.md) | 已完成里程碑、近期重点、中长期方向。 |
 | [Backlog](01-strategy/backlog.md) | 待办事项、优先级、状态、验收出口。 |
 
+| [Asset-Management Register Gap Shortlist](01-strategy/asset-management-register-gap-shortlist-2026-06-21.md) | #43 read-only IMAJ / FSA-backed planning artifact for asset-manager and REIT-manager page candidates. |
+
 ### 02 Product
 
 | 文档 | 用途 |
@@ -127,6 +129,12 @@
 | #32 | [Japanese-Finance Coverage Gap Map](02-product/japanese-finance-coverage-gap-map.md) | Gap-driven should-cover vs have map, prioritized gaps, and do-not-cover scope. |
 | #33 | [AI Surface Consumability Design](05-functional-specs/ai-surface-consumability-design.md) | Static-first AI surface enrichment design and follow-up build packet. |
 | #34 | [Provenance / Source-Completeness Audit](07-quality/provenance-source-completeness-audit.md) | Claim-signal, marker-density, report-shape, and false-positive control design. |
+
+| #36-#38 | [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md), [Entry Authoring](06-implementation/entry-authoring.md), [Acceptance Criteria](07-quality/acceptance-criteria.md) | Entity-node and entity-edge schema, authoring, validation, and generated-surface acceptance coverage. |
+| #40 | [Cross-Page Factual Consistency Audit](07-quality/cross-page-factual-consistency-audit.md) | Implemented report-only scanner for repeated year, percentage, count, and amount claims. |
+| #41 | [Provenance / Source-Completeness Audit](07-quality/provenance-source-completeness-audit.md) | Implemented report-only provenance-density scanner with explicit fail-under mode. |
+| #42 | [AI Discovery Surface](05-functional-specs/ai-discovery-surface.md), [AI Discovery Architecture](04-architecture/ai-discovery-architecture.md) | Per-entry API frontmatter enrichment contract for related, note, type, sources, and entity graph fields. |
+| #43 | [Asset-Management Register Gap Shortlist](01-strategy/asset-management-register-gap-shortlist-2026-06-21.md) | Public-source shortlist for future asset-manager and REIT-manager page expansion. |
 
 ## Operating Rules
 

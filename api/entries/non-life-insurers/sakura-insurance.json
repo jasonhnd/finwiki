@@ -33,7 +33,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Sakura Insurance company page: https://www.sakura-ins.co.jp/company/",
       "Sakura Insurance important information PDF: https://www.sakura-ins.co.jp/items/pdf/important_information_manual.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/sakura-insurance",
   "headings": [

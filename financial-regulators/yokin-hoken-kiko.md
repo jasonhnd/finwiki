@@ -23,6 +23,10 @@ sources:
   - "https://www.dic.go.jp/katsudo/page_000017.html"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://laws.e-gov.go.jp/law/346AC0000000034"
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 ---
 
 # Deposit Insurance Corporation of Japan (DICJ / 預金保険機構)

@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.meigin.com/about/profile.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against あいち銀行 for the same Chukyo-area peer / contrast, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [

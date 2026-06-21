@@ -13,6 +13,29 @@ sources:
   - "https://www.fsa.go.jp/menkyo/hoken.pdf"
   - "https://www.seiho.or.jp/member/list/"
   - "https://www.tmn-anshin.co.jp/"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: non-life-insurers/tokio-marine
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 東京海上日動あんしん生命保険

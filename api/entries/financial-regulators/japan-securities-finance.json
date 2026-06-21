@@ -35,7 +35,17 @@
       "https://www.jsf.co.jp/ja/about/outline.html",
       "https://www.jsf.co.jp/ja/ir.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 日本取引所グループ (JPX) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
@@ -77,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2789,
-    "word_like_tokens": 413,
+    "nonspace_chars": 2856,
+    "word_like_tokens": 423,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

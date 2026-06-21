@@ -44,7 +44,13 @@
       "https://www.boj.or.jp/en/paym/outline/pay_boj/rel210730f.pdf",
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.bis.org/cpmi/publ/d53p09jp.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against Call market structure and repo transaction structures for the markets whose cash legs settle across this rail, and BoJ open market operations for how the central bank supplies and absorbs the reserves that flow through it. The institutional o",
   "headings": [

@@ -16,6 +16,10 @@ sources:
   - "FY2025.6 4Q 決算説明資料 2025-08-05 開示"
   - "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250805/20250804529612.pdf"
   - "メルペイ・メルコイン 公式サービス資料"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # メルカリ HD（株式会社メルカリ）

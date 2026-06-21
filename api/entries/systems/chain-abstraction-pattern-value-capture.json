@@ -29,14 +29,13 @@
       "value-capture"
     ],
     "status": "candidate",
-    "sources": [
-      "https://wormhole.com/docs/",
-      "https://docs.layerzero.network/v2",
-      "https://docs.hyperlane.xyz/",
-      "https://github.com/across-protocol/contracts",
-      "https://docs.near.org/chain-abstraction/what-is",
-      "https://github.com/cowprotocol/contracts"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

@@ -36,7 +36,17 @@
       "かんぽ生命 公式 IR / 沿革ページ (公開情報)",
       "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)",
       "かんぽ生命 2025年3月期 決算短信〔日本基準〕(連結) — 総資産 59兆5,556億円 (https://pdf.irpocket.com/C7181/vAfC/ITEh/s65S.pdf)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
@@ -81,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4319,
-    "word_like_tokens": 656,
+    "nonspace_chars": 4382,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

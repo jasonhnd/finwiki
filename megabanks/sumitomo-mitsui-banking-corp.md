@@ -18,6 +18,29 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.smbc.co.jp/aboutus/profile/gaiyo.html"
   - "https://www.smbc.co.jp/aboutus/profile/group.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: holds_license
+    target: financial-licenses/bank-license-and-baas-boundary
+    evidence: banking_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/smfg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 三井住友銀行 (SMBC)

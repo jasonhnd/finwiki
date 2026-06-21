@@ -48,7 +48,13 @@
       "https://www.chiginkyo.or.jp/",
       "FG IR disclosures for each holding company referenced",
       "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Post-1990 regional-bank consolidation in Japan has produced a layered map of bank holding companies, each combining one or more first-regional (\"地銀\") and/or second-regional (\"第二地銀\") predecessors, and in some cases a credit-cooperative / 新銀行 predecessor. This matrix collects the surviving FG name, ye",
   "headings": [

@@ -36,7 +36,13 @@
       "https://www.sbjbank.co.jp/company/profile/",
       "https://www.sbjbank.co.jp/company/history/",
       "https://shinhangroup.com/en/about/group/history1"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

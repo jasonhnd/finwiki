@@ -44,7 +44,13 @@
       "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html",
       "https://www.nexi.go.jp/ir/",
       "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the insurance node of the Japanese state-finance system. Read it against 国際協力銀行 (JBIC) for the direct-lending counterpart whose loans NEXI commonly wraps; with NEXI export-credit insurance products for the product-side operating-mechanics deep dive (sibl",
   "headings": [

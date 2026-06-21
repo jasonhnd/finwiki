@@ -25,7 +25,13 @@
       "https://www.jpx.co.jp/equities/listing/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://elaws.e-gov.go.jp/document?lawid=323AC0000000025"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "各段階の時間感・関与主体・監視ポイントが明確化されるため、投資家・カウンターパーティ側は現在地を正確に把握できる。",
   "headings": [

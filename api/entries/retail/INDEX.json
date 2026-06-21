@@ -34,7 +34,13 @@
       "https://www.7andi.com/en/company/profile",
       "https://www.aeonfinancial.co.jp/en/corp/about/",
       "https://www.7andi.com/en/ir/library/co_financial/2025/finance/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes retail groups when they matter to finance: store traffic, card issuing, prepaid electronic money, loyalty points, ATM networks, retail media, and embedded financial distribution.",
   "headings": [

@@ -38,7 +38,13 @@
       "https://www.euroclear.com/newsandinsights/en/press/2017/2017_mr-14-JapanBranch.html",
       "https://www.euroclear.com/about/en/business/Disclosuresandquestionnaires.html",
       "https://www.euroclear.com/newsandinsights/en/Format/CaseStudies/JapaneseGovernmentBonds.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX and upgrades the Euroclear row in foreign-bank branch registry from registry-only to a standalone ICSD / collateral route. Read it with Clearstream Banking Japan, Japan market infrastructure map, and JGB repo market.",
   "headings": [

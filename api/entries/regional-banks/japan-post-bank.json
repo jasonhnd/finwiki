@@ -47,7 +47,13 @@
       "https://www.jp-bank.japanpost.jp/aboutus/company/outline/abt_cmp_ol_profile.html",
       "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html",
       "https://www.japanpost.jp/ir/stock/index10/"
-    ]
+    ],
+    "canonical_anchor": "regional-banks/yucho",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, aga",
   "headings": [

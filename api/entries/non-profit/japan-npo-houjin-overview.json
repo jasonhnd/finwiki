@@ -39,7 +39,13 @@
       "https://www.npo-homepage.go.jp/qa/seido-gaiyou/katsudou-bunya",
       "https://laws.e-gov.go.jp/law/410AC1000000007",
       "https://www.moj.go.jp/MINJI/minji153.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX as the standalone deep-dive on the 特定非営利活動法人 (NPO法人) form. It is the member-driven, civic-activity counterpart to the foundation route in Japan 一般財団法人 establishment requirements, and the donor-deductibility upgrade (認定NPO法人) is covered in Japan 認定NPO法人 tax bene",
   "headings": [

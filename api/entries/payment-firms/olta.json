@@ -36,7 +36,13 @@
       "https://www.olta.co.jp/",
       "https://www.olta.co.jp/company/",
       "https://corp.netprotections.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a B2B factoring fintech that sits next to BNPL in the wider working-capital stack. Read it together with the Japan BNPL landscape system note, the Net Protections HD BtoB BNPL peer (NP 掛け払い), and the Money Forward / Biz Forward sibling for the SaaS-le",
   "headings": [

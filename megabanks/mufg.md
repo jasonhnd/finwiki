@@ -25,6 +25,10 @@ sources:
   - "OCC Cease & Desist 2019-02-21: https://www.occ.gov/news-issuances/news-releases/2019/nr-occ-2019-20.html"
   - "FSA 業務改善命令 2024-06-24 (銀証ファイアウォール越境): https://www.fsa.go.jp/news/r5/shouken/20240624-2/20240624.html"
   - "SEC Settled Charges 2025-08-06 (MUFG Securities EMEA, SBSD): https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # 三菱 UFJ FG (MUFG)

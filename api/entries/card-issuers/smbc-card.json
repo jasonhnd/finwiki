@@ -35,6 +35,33 @@
       "https://www.smbc-card.com/company/info/outline.jsp",
       "https://www.smbc-card.com/company/index.jsp",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/smfg",
+        "evidence": "group_profile",
+        "source": "https://www.smbc-card.com/company/info/outline.jsp",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "registered_as",
+        "target": "card-issuers/installment-sales-act-2020-amendment",
+        "evidence": "credit_purchase_registration_context",
+        "source": "https://www.meti.go.jp/policy/economy/consumer/credit/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.",
@@ -75,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3304,
-    "word_like_tokens": 521,
+    "nonspace_chars": 3758,
+    "word_like_tokens": 592,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

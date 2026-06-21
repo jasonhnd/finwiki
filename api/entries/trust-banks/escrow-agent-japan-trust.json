@@ -34,7 +34,13 @@
       "https://eajt.co.jp/information/",
       "https://www.ea-j.jp/company/overview.html",
       "https://auction.eajt.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Escrow Agent Japan Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
   "headings": [

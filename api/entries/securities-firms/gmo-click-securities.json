@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.click-sec.com/corp/company/corphistory/",
       "https://www.gmofh.com/ourbusiness/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against DMM.com証券 for the closest retail FX / CFD peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The retail-FX market map lives across SBI FXトレード and トレイダーズ証券.",
   "headings": [

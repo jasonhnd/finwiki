@@ -39,7 +39,13 @@
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and 浜松磐田信用金庫（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against 名古屋銀行 and あいち銀行（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against Japan shinkin bank registry for",
   "headings": [

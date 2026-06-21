@@ -40,16 +40,14 @@
     ],
     "status": "active",
     "sources": [
-      "https://l2beat.com/scaling/summary",
-      "https://defillama.com/chains",
-      "https://docs.base.org",
-      "https://docs.arbitrum.io",
-      "https://docs.optimism.io",
-      "https://docs.cdp.coinbase.com",
-      "https://docs.privy.io",
-      "https://www.circle.com/en/cross-chain-transfer-protocol",
       "Coinbase, Stripe, Visa public docs on L2 stablecoin payments"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2026 年の AI agent ワークロードにおける L2 選定は Base がデフォルト に収束し、Arbitrum + Optimism がそれぞれ一部のニッチ(Arbitrum は DeFi-heavy agent + 機関向け、Optimism は OP Stack エコシステム + 公共財)を獲得している。3 つの L2 の per-transaction cost は Pectra EIP-7691 blob 拡張 後、いずれも $0.001-0.01 の範囲に入るが、Base は Coinbase CDP + USDC Native + Coinbase Smart Walle",
   "headings": [

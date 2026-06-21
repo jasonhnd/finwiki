@@ -41,7 +41,13 @@
       "FSA NPL ratio disclosures",
       "Megabank IR (MUFG / SMBC / Mizuho NPL disposal disclosures)",
       "BOJ Financial System Report"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "NPL (non-performing loan) securitisation in Japan was the structural mechanism that processed the massive bad-debt overhang of the post-1997 banking crisis: failing banks transferred problem loans to the Resolution and Collection Corporation (RCC), which then sold pools of loans (often via TK / GK S",
   "headings": [

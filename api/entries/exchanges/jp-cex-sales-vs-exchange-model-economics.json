@@ -30,9 +30,13 @@
       "hanbai-jo"
     ],
     "status": "candidate",
-    "sources": [
-      "https://jvcea.or.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内 CEX × ポイントエコノミー統合モデル for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [

@@ -49,7 +49,13 @@
       "https://www.meti.go.jp/policy/sme_chiiki/index.html",
       "https://www.chusho.meti.go.jp/koukai/shingikai/",
       "https://www.maff.go.jp/j/keiei/kinyu/hosyo/hosyou.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the third product-bearing division inside 日本政策金融公庫 (JFC), alongside JFC SME Division (中小企業事業) and JFC Agriculture, Forestry and Fisheries Division (農林水産事業). Read it against Japan credit guarantee system and JFG for the parallel public-credit channel that",
   "headings": [

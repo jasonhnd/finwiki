@@ -13,6 +13,23 @@ sources:
   - "Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報)"
   - JPMorgan Chase & Co. Annual Report (10-K, 2024 年度)
   - 金融庁 登録金融機関・登録金融商品取引業者一覧
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/foreign-bank-branch-license-route
+    evidence: foreign_bank_branch_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # JP モルガン日本 (JPMorgan Japan)

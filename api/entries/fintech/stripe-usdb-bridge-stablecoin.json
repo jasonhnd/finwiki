@@ -34,15 +34,13 @@
       "vertical-integration"
     ],
     "status": "candidate",
-    "sources": [
-      "https://stripe.com/",
-      "https://stripe.com/newsroom/news/stripe-acquires-bridge",
-      "https://www.bridge.xyz/",
-      "https://tempo.xyz/",
-      "https://stripe.com/use-cases/stablecoins",
-      "https://stripe.com/newsroom/news/usdb",
-      "https://www.paradigm.xyz/2025/09/announcing-tempo"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with Circle USDC and PayPal PYUSD for the payment-company-branded stablecoin trio, and with Stripe 5 層 Trojan Horse for the L3 position of USDB in Stripe's vertical stack.",
   "headings": [

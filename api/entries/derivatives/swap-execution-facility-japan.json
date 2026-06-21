@@ -52,7 +52,13 @@
       "https://www.icap.com/",
       "https://www.jpx.co.jp/english/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan does not have a US-style \"Swap Execution Facility (SEF)\" license — but it operates a functionally equivalent regime of Electronic Trading Platforms (ETPs) for OTC derivatives execution, supervised by the FSA under FIEA. The ETP regime, mandated for designated standardized OTC products (yen IRS",
   "headings": [

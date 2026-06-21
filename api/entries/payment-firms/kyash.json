@@ -34,7 +34,13 @@
       "https://www.kyash.co/company",
       "https://www.kyash.co/legal/description-subject-to-psa/psa-transfer",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against pring for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

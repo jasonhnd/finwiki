@@ -48,7 +48,13 @@
       "https://www.fsa.go.jp/en/news/2025/20250630/20250630.html",
       "https://www.jsda.or.jp/en/about/members-list/index.html",
       "https://elaws.e-gov.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "financial-licenses/ is the standalone top-level domain for Japan's law, regulation, and financial-license stack. It routes the cross-cutting legal layer: bank licenses, securities / FIEA registration, insurance regulation, funds transfer / prepaid / electronic-payment-agency registration, crypto-ass",
   "headings": [

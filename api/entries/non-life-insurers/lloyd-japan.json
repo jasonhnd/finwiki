@@ -37,7 +37,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Lloyd's Japan official: https://www.lloyds.com/japan",
       "Lloyd's Annual Report and Accounts (公開版)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against FM Global Japan and AIG Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
   "headings": [

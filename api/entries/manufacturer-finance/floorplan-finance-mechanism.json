@@ -44,7 +44,13 @@
       "https://www.dllgroup.com/us/en-us/blog/latest/Floor-plan-financing-in-the-construction-transportation-and-industrial-sectors",
       "https://www.autofinance.com/insights/floorplan-financing/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index as a mechanism page, focused on the upstream (dealer-inventory) half of manufacturer finance. It is the wholesale-side complement to the downstream (consumer) captive / vendor finance mechanism, and a sibling to export finance mechanism. The OEM finance arms",
   "headings": [

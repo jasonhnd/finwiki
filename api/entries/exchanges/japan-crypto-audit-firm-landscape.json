@@ -30,15 +30,13 @@
       "compliance"
     ],
     "status": "active",
-    "sources": [
-      "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html",
-      "https://www2.deloitte.com/jp/ja/pages/risk/articles/grc/crypto-assets.html",
-      "https://www.pwc.com/jp/ja/issues/crypto-asset.html",
-      "https://kpmg.com/jp/ja/home/services/audit/financial-services/crypto-assets-blockchain.html",
-      "https://www.shinnihon.or.jp/services/financial-services/crypto-assets/",
-      "https://www.grantthornton.jp/",
-      "https://www.bdo.or.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内 VASP セキュリティ監査・認証取得状況 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [

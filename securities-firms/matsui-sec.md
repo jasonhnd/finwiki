@@ -17,6 +17,29 @@ sources:
   - "https://www.matsui.co.jp/company/information/important_sheet/"
   - "https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf"
   - "https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/securities-license-stack
+    evidence: fibo_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/jsda
+    evidence: sro_membership
+    source: "https://www.jsda.or.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 松井証券株式会社 (Matsui Securities)

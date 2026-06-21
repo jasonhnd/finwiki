@@ -36,7 +36,13 @@
       "https://www.zaimu.metro.tokyo.lg.jp/kosai/index.html",
       "https://www.chihousai.or.jp/",
       "https://www.zaimu.metro.tokyo.lg.jp/kosai/tofuken/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Tokyo Metropolitan Bonds (東京都債 / Tokyo-to-sai) are debt securities issued by the Tokyo Metropolitan Government. As the largest single local-government issuer in Japan by tax base and issuance volume, Tokyo Metropolis is the benchmark issuer for the Japanese local government bond market and is treate",
   "headings": [

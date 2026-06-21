@@ -36,15 +36,13 @@
       "comparison"
     ],
     "status": "active",
-    "sources": [
-      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
-      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
-      "https://www.boj.or.jp/en/paym/digital/index.htm",
-      "https://www.bis.org/publ/work1116.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.decurret-dcp.com/pressrelease/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the cross-jurisdictional adoption snapshot for retail / wholesale CBDC programmes in mid-2026. It complements the architecture-first lens of CBDC 多层架构概览 (which classifies designs by tiering) by sitting one layer above and asking which of the four major regimes",
   "headings": [

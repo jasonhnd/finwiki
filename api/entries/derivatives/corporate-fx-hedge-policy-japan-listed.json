@@ -41,7 +41,13 @@
       "https://www.asb.or.jp/en/",
       "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A Japan-listed corporate FX hedge policy is the board-approved framework that translates a company's foreign-currency exposure into a disciplined hedging program using forwards, NDFs, options, and cross-currency swaps. The policy answers four operative questions: what to hedge, how far out to hedge,",
   "headings": [

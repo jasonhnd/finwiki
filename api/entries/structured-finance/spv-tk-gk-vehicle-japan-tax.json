@@ -43,7 +43,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan securitization deals use one of four main SPV structures: TK (匿名組合, silent partnership), GK (合同会社, LLC), TMK (特定目的会社, specified-purpose company under the asset-securitization law), or generic SPC. The most common private-placement structure is \"TK-GK\" — a GK acts as the asset-holding entity an",
   "headings": [

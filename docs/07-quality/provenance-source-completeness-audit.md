@@ -1,6 +1,6 @@
 # Provenance / Source-Completeness Audit Design
 
-> Issue #34 planning artifact. This is design-only: it does not implement a tool, edit corpus pages, or add a release gate.
+> Issue #34 planning artifact and source design for `tools/provenance_completeness_audit.ts`. The current implementation is read-only and report-only; it does not edit corpus pages or add a release gate.
 
 ## Goal
 
@@ -190,6 +190,10 @@ VALIDATION:
 - `bun tools/release.ts --check --strict`
 - `git diff --check`
 ```
+
+## Implementation Note
+
+Issue #41 implements the first deterministic block-heuristic report as `bun tools/provenance_completeness_audit.ts`. The default command exits 0 and writes nothing; `--json` emits deterministic rows; `--fail-under` is explicit and should not be treated as a release gate until a baseline is reviewed.
 
 ## Closeout For Issue #34
 

@@ -34,9 +34,13 @@
       "mwa"
     ],
     "status": "candidate",
-    "sources": [
-      "https://docs.solanamobile.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

@@ -46,7 +46,13 @@
       "https://www.jsda.or.jp/en/",
       "https://www.jasdec.com/en/",
       "https://www.mof.go.jp/english/policy/jgbs/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's capital markets ecosystem comprises five interconnected layers: issuance (primary), trading (secondary), clearing, settlement / depository, and regulation / self-regulation. The system spans equity, bond (JGB and corporate), derivative (listed and OTC), securitized-products, and security-tok",
   "headings": [

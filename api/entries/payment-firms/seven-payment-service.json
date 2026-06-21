@@ -33,7 +33,13 @@
     "sources": [
       "https://www.7ps.jp/company/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [

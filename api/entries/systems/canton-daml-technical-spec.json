@@ -31,9 +31,13 @@
       "canton"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.canton.network/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

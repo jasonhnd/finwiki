@@ -43,7 +43,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the Seven & i-anchored prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with WAON vs nanaco retail prepaid comparison for the head-to-head retail anchor comparison. Compare with WAON (AEON counterpar",
   "headings": [

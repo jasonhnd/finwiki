@@ -46,7 +46,13 @@
       "https://www.mof.go.jp/english/policy/international_policy/reference/feio/statistics/index.htm",
       "https://www.meti.go.jp/english/statistics/index.html",
       "https://www.asb.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance domain. Read it with Japan acquisition finance for the deal-financing hedge interface, Japan leveraged buyout economics for the LBO interest-rate-hedge spine, cross-shareholding unwinding economics for the related FV-OCI accounting framework, fair disclosure controls for",
   "headings": [

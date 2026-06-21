@@ -39,7 +39,13 @@
       "https://www.sony.com/en/SonyInfo/News/Press/202405/24-026E/",
       "https://www.sonyfh.co.jp/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": "megabanks/sony-fg",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca",
   "headings": [

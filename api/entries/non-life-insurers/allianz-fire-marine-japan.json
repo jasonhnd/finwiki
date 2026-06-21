@@ -33,7 +33,13 @@
     "sources": [
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "Allianz Japan disclosure 2025: https://commercial.allianz.com/content/dam/onemarketing/commercial/commercial/countries/japan/Allianz-Disclosure-2025.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/allianz-fire-marine-japan",
   "headings": [

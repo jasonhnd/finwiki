@@ -36,7 +36,13 @@
       "https://www.jp.bankcomm.com/",
       "https://www.bankcomm.com/BankCommSite/shtml/jyjr/en/2600212/list.shtml",
       "https://www.ibajapan.org/who-we-are/our-members/commercial-bank/bank-communications-co-ltd-tokyo-branch"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page upgrades the Bank of Communications row in foreign-bank branch registry into a China-Japan corporate banking route. Read it with Bank of China Japan, ICBC Japan, China Construction Bank Japan, and Agricultural Bank of China Japan.",
   "headings": [

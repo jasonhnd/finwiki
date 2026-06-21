@@ -40,20 +40,13 @@
       "2025-2026"
     ],
     "status": "active",
-    "sources": [
-      "https://defillama.com/stablecoins",
-      "https://tether.to/transparency",
-      "https://www.circle.com/transparency",
-      "https://www.paypal.com/us/digital-currency",
-      "https://ripple.com/rlusd",
-      "https://ethena.fi/",
-      "https://globaldollar.com/",
-      "https://frax.com/",
-      "https://sky.money/",
-      "https://m0.org/",
-      "https://www.worldlibertyfinancial.com/",
-      "https://www.sec.gov/edgar"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2025-2026 年の米ドルステーブルコイン市場は 「双寡占 + 梯団挑戦者」 構造へ移行する。Tether USDT $145B + Circle USDC $60B が流通量の ~85% を占有するが、2024-2026 年に実質的な成長能力を有する挑戦者が 8 社（PYUSD / RLUSD / FDUSD / USDe / USDG / frxUSD / USDS / USD1）+ 中立インフラ 1 社（M^0）出現。真のセクター分化：USDT がグレーゾーンに留まり · USDC がホワイトゾーンへ · PYUSD/RLUSD がリテールコンプライアンスを獲得 · FDUSD が",
   "headings": [

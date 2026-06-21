@@ -32,7 +32,13 @@
     "sources": [
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Greif Trust company profile: https://www.greif-trust.com/company/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/greif-trust",
   "headings": [

@@ -44,19 +44,13 @@
       "adoption"
     ],
     "status": "active",
-    "sources": [
-      "https://www.cbn.gov.ng/Out/2021/CCD/eNaira%20Design%20Paper.pdf",
-      "https://www.centralbankbahamas.com/payments-system/the-sand-dollar/sand-dollar-faqs",
-      "https://boj.org.jm/core-functions/currency/cbdc/",
-      "https://www.eccb-centralbank.org/p/about-the-project",
-      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "https://www.nbc.gov.kh/english/economic_research/bakong.php",
-      "https://www.bankofengland.co.uk/the-digital-pound",
-      "https://www.imf.org/en/Publications/WP/Issues/2023/05/12/Nigerias-eNaira-One-Year-After-533487",
-      "https://www.imf.org/en/Publications/WP/Issues/2022/06/10/The-Bahamas-Sand-Dollar-CBDC-and-Lessons-Learned-518864",
-      "https://www.bis.org/publ/work1116.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the cross-jurisdiction comparison matrix for the seven most-cited live or in-design retail CBDC programmes. It complements the per-jurisdiction deep dives at Nigeria eNaira, Bahamas Sand Dollar, Jamaica JAM-DEX, BoE digital pound consultation, and e-CNY supply-",
   "headings": [

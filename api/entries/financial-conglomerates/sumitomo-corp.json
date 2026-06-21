@@ -43,7 +43,13 @@
       "住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事)",
       "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especiall",
   "headings": [

@@ -48,7 +48,13 @@
       "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "https://wyomingbankingdivision.wyo.gov/banks-trust-companies/special-purpose-depository-institutions",
       "https://www.federalregister.gov/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The 2025 Office of the Comptroller of the Currency (OCC) update creates a clear federal pathway for crypto firms to obtain national bank or national trust bank charters. OCC Interpretive Letter 1183 (March 27 2025) reaffirms the underlying crypto-custody, stablecoin-reserve, and node-operator powers",
   "headings": [

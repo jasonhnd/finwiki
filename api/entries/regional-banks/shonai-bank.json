@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.shonai.co.jp/profile/corporate_info/",
       "https://ja.wikipedia.org/wiki/荘内銀行"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 北都銀行 for the same-group peer / contrast (the planned merger counterparty) and 山形銀行 for the same-prefecture rival, and against the FSA plus banking for the supervisory / system boundary. The holding-company view lives on フ",
   "headings": [

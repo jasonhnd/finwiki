@@ -39,7 +39,13 @@
       "https://www.fsa.go.jp/en/news/2025/20250630/20250630.html",
       "https://www.fsa.go.jp/news/25/ginkou/20140626-5.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A foreign bank branch in Japan is a licensed branch of a foreign bank under Japan's banking supervision route, not a Japanese bank subsidiary and not a mere representative office. The FSA's monitoring framework emphasizes Japan-branch business model, governance, compliance, risk management, and coor",
   "headings": [

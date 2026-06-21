@@ -37,7 +37,13 @@
       "https://www.amed.go.jp/en/",
       "https://www.jst.go.jp/EN/",
       "https://www.nedo.go.jp/english/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All entries are operational reference p",
   "headings": [

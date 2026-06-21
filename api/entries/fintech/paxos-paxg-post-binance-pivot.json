@@ -40,16 +40,13 @@
       "2025-2026"
     ],
     "status": "active",
-    "sources": [
-      "https://www.paxos.com/",
-      "https://paxos.com/transparency/",
-      "https://www.dfs.ny.gov/",
-      "https://www.mas.gov.sg/",
-      "https://www.adgm.com/",
-      "https://globaldollar.com/",
-      "https://www.paypal.com/us/digital-currency/pyusd",
-      "https://defillama.com/stablecoins"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with PayPal PYUSD for the lead branded product, with stablecoin five-pole regulatory matrix for the multi-jurisdiction licensing context, and with stablecoin issuer 2025-2026 consolidation for the broader market structure that this pivot reshaped.",
   "headings": [

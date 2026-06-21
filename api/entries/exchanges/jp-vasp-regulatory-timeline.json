@@ -30,11 +30,13 @@
       "payment-services-act"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/",
-      "https://jvcea.or.jp/",
-      "https://elaws.e-gov.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "日本の暗号資産規制は、国内大型インシデント (Mt.Gox・Coincheck) と 国際協調圧力 (FATF Travel Rule・MiCA・GENIUS Act 等) の両方をトリガーに段階的に積層されてきた。世界で最も早く包括的な VASP 法体系を持つジュリスディクションのひとつで、現在は 資金決済法 + 金商法 + 自主規制 (JVCEA) の三層構造で運用されている。詳細な登録制度は exchanges/fsa-vasp-registration-system、自主規制詳細は exchanges/jvcea-self-regulatory-overview を参照。",
   "headings": [

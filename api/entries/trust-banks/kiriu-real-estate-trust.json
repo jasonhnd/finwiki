@@ -33,7 +33,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Kiriu Real Estate Trust official site: https://www.kiriu-trust.co.jp/",
       "MLIT historical-townscape research PDF: https://www.mlit.go.jp/common/001083330.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kiriu-real-estate-trust",
   "headings": [

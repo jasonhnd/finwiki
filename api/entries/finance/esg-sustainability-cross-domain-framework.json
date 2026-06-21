@@ -53,7 +53,13 @@
       "https://www.spglobal.com/esg/scores/",
       "https://www.sustainalytics.com/esg-ratings",
       "https://www.gresb.com/nl-en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ESG / sustainability has moved from voluntary disclosure to a structured cross-domain framework that overlays corporate valuation, M&A diligence, real-estate operating quality, fixed-income structuring, and listed-equity governance. The 2026 landscape rests on four pillars: (1) ratings (MSCI / S&P G",
   "headings": [

@@ -40,7 +40,13 @@
       "https://www.fsa.go.jp/en/policy/index.html",
       "https://www.fsa.go.jp/en/news/index.html",
       "https://www.fsa.go.jp/common/about/sosiki/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against FSA 監督局 for the supervision-side counterpart and FSA 企画市場局 for the rule-making counterpart. For the BoJ-side international policy lane, anchor through BoJ 国際局, and for the broader regulatory perimeter through legal / financial license",
   "headings": [

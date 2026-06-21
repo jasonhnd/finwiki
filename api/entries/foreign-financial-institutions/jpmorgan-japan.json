@@ -34,6 +34,33 @@
       "Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報)",
       "JPMorgan Chase & Co. Annual Report (10-K, 2024 年度)",
       "金融庁 登録金融機関・登録金融商品取引業者一覧"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/foreign-bank-branch-license-route",
+        "evidence": "foreign_bank_branch_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4687,
-    "word_like_tokens": 775,
+    "nonspace_chars": 5109,
+    "word_like_tokens": 842,
     "inbound_wikilinks_count": 37,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

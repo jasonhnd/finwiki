@@ -46,7 +46,13 @@
       "https://www.jasdec.com/en/system/",
       "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
       "https://ja.wikipedia.org/wiki/日本カストディ銀行"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index. Read it with the entity anchor 日本カストディ銀行 (CBJ), the operating peer Master Trust Bank operating model and entity MTBJ, the landscape summary Japan master trust and custody bank landscape, the cross-camp matrix Japan trust bank vs global custodian comparison matrix",
   "headings": [

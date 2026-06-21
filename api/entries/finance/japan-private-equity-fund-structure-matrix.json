@@ -59,7 +59,13 @@
       "https://www.blackstone.com/",
       "https://www.aresmgmt.com/",
       "https://www.dbj.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's private capital universe is NOT one asset class; it is at least six distinct sub-strategies (buyout, growth, secondaries, continuation, infrastructure, private credit) and three distinct GP archetypes (global mega-PE Japan team, domestic independent GP, policy-aligned / state-affiliated GP)",
   "headings": [

@@ -39,7 +39,13 @@
       "https://aupay.auone.jp/",
       "https://www.lawsonbank.jp/",
       "https://www.mitsubishicorp.com/jp/ja/pr/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥10,360 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitt",
   "headings": [

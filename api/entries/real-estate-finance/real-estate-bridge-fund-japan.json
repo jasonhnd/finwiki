@@ -41,7 +41,13 @@
       "https://www.jpx.co.jp/english/markets/products/securitized/",
       "https://www.fsa.go.jp/en/",
       "https://www.boj.or.jp/en/statistics/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A real-estate bridge fund (also called warehousing fund or pre-REIT vehicle) is a temporary SPV that acquires a property and holds it for a short period — typically 6 to 18 months — before transferring it to a long-term institutional owner such as a J-REIT, a private REIT, or a corporate pension or",
   "headings": [

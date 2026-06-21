@@ -45,20 +45,13 @@
       "governance"
     ],
     "status": "active",
-    "sources": [
-      "https://l2beat.com/scaling/summary",
-      "https://defillama.com/chains/Rollup",
-      "https://arbiscan.io/",
-      "https://optimistic.etherscan.io/",
-      "https://basescan.org/",
-      "https://explorer.zksync.io/",
-      "https://zkevm.polygonscan.com/",
-      "https://scrollscan.com/",
-      "https://lineascan.build/",
-      "https://docs.optimism.io/superchain",
-      "https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart",
-      "https://docs.base.org/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against ZK-EVM rollup maturity matrix 2026 for the technical maturity dimension that this entry's market share table summarizes economically, and EIP-4844 blob 経済と 2026 市場影響 for the underlying DA cost structure that determines rollup unit economics. Pair",
   "headings": [

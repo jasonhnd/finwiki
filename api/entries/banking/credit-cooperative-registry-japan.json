@@ -34,7 +34,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index. Read it with Cooperative banking in Japan for adjacent context and Regional bank consolidation pattern for the broader system boundary.",
   "headings": [

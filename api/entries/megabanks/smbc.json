@@ -34,6 +34,41 @@
       "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)",
       "SMFG 統合報告書 / 決算短信 (2024-25 公開分)",
       "金融庁 銀行免許一覧 (2026-05-25 参照)"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/bank-license-and-baas-boundary",
+        "evidence": "banking_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/smfg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
@@ -91,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4852,
-    "word_like_tokens": 788,
+    "nonspace_chars": 5428,
+    "word_like_tokens": 881,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

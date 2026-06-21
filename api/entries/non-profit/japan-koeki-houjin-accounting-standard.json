@@ -39,7 +39,13 @@
       "https://laws.e-gov.go.jp/law/418AC0000000049",
       "https://www.moj.go.jp/MINJI/koeki1.html",
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX as the accounting / disclosure layer beneath the legal forms — it is what a 公益財団 / 公益社団 actually files, so it is the natural companion to 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison (which forms must report) and to Japan 一般財団法人 establishment requirements (who audi",
   "headings": [

@@ -37,23 +37,13 @@
       "comparison"
     ],
     "status": "active",
-    "sources": [
-      "https://x402.org/",
-      "https://github.com/coinbase/x402",
-      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agent-payments-protocol-ap2",
-      "https://www.skyfire.xyz/",
-      "https://docs.skyfire.xyz/",
-      "https://nevermined.io/",
-      "https://docs.nevermined.io/",
-      "https://eips.ethereum.org/EIPS/eip-7715",
-      "https://litprotocol.com/",
-      "https://developer.litprotocol.com/",
-      "https://developers.cloudflare.com/",
-      "https://aws.amazon.com/bedrock/agentcore/",
-      "https://stripe.com/newsroom",
-      "https://usa.visa.com/visa-everywhere/innovation/agentic-commerce.html",
-      "https://fidoalliance.org/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under agent-economy index. Read it against AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰 for the broader seven-protocol landscape, agent protocol mainnet adoption 2026 for production-readiness deltas, and commoditization thesis for the value-capture trajectory. For protocol-specific deep dives see",
   "headings": [

@@ -39,7 +39,13 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf",
       "https://www.meti.go.jp/policy/economy/consumer/credit/tourokukobetsuichiran.pdf",
       "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "METI's Installment Sales Act public lists are the control surface for Japanese credit-card issuing, shopping credit, individual installment credit, and merchant-contracting / card-number handling. As of 2026-04 month-end, METI lists 241 registered comprehensive credit purchase intermediaries, 0 smal",
   "headings": [

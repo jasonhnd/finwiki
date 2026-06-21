@@ -43,7 +43,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange a stream of fixed JPY-denominated interest payments for a stream of floating-rate JPY payments over a defined tenor. It is the dominant interest-rate-hedging instrument for Japanese banks, life i",
   "headings": [

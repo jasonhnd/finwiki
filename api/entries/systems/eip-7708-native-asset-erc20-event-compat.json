@@ -33,9 +33,13 @@
       "evm-compat"
     ],
     "status": "candidate",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-7708"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against CCTP V2 概览 · Circle USDC 跨链 burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

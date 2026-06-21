@@ -42,7 +42,13 @@
       "https://www.maff.go.jp/j/pr/annual/pdf/gyogyo_sinyouhosyou.pdf",
       "https://www.jfa.maff.go.jp/",
       "https://www.zengyoren.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index. Read it against Japan credit guarantee system for SME-side contrast, agriculture credit guarantee system for the sister sector (same JAFFIC parent), and Japan policy finance system for the broader public-credit boundary. The fisheries deposit-and-lending c",
   "headings": [

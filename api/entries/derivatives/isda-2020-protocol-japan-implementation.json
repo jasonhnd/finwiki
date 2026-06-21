@@ -48,7 +48,13 @@
       "BOJ Cross-Industry Committee on Japanese Yen Interest Rate Benchmarks — https://www.boj.or.jp/en/",
       "JBATA TIBOR Administration — https://www.jbatibor.or.jp/english/",
       "UK FCA LIBOR cessation notices — https://www.fca.org.uk/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The ISDA 2020 IBOR Fallback Protocol (formally \"ISDA 2020 IBOR Fallbacks Protocol,\" published October 2020, effective from 25 January 2021) is the multilateral contractual mechanism through which legacy IBOR-referencing derivatives — including JPY LIBOR — were automatically amended to incorporate ri",
   "headings": [

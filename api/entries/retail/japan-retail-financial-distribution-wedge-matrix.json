@@ -59,7 +59,13 @@
       "https://www.mitsubishicorp.com/jp/ja/pr/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's three largest retail-anchored finance stacks — AEON (mall-anchored), Seven & i (convenience-store + ATM-anchored), and Lawson + KDDI (convenience-store + telco hybrid after the 2024 KDDI / Mitsubishi joint take-private) — look superficially similar from the consumer side (a store, a card, a",
   "headings": [

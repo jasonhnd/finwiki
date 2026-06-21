@@ -34,7 +34,17 @@
       "金融庁 公式サイト (https://www.fsa.go.jp/, 2026-05-25 参照)",
       "金融庁設置法 (平成 10 年法律第 130 号)",
       "内閣府設置法 (平成 11 年法律第 89 号)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "regulator",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it against 日本銀行 for the central-bank counterpart, and 預金保険機構 / 損保機構 / 生保機構 for the safety-net peers it supervises.",
   "headings": [
@@ -116,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4694,
-    "word_like_tokens": 682,
+    "nonspace_chars": 4749,
+    "word_like_tokens": 691,
     "inbound_wikilinks_count": 143,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

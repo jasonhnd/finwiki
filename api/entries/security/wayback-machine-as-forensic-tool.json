@@ -27,7 +27,16 @@
       "https://web.archive.org/",
       "https://mementoweb.org/",
       "https://archive.org/about/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [
+      "[[security/fork-and-rebrand-5-layer-audit-framework]]",
+      "[[security/bytecode-forensic-three-tier-verify]]"
+    ],
+    "note": null,
+    "type": "wiki",
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under FinWiki index. Read it with forensic identity anchor chain for peer context and systems index for the broader evidence boundary.",
   "headings": [

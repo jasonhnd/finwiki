@@ -14,6 +14,23 @@ sources:
   - "https://www.sbpayment.co.jp/info/profile/"
   - "https://www.sbpayment.co.jp/info/business/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/payment-license-stack
+    evidence: payment_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # SBペイメントサービス (SB Payment Service)

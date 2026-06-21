@@ -47,7 +47,13 @@
       "https://www.odx.co.jp/en/news/article/5s13s3n0vcms/",
       "https://www.jpx.co.jp/english/corporate/news/news-releases/0010/20220214-01.html",
       "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20230330-02.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits inside securities index as the platform-side companion to the venue-side ODX START security token secondary market page and the route-level Japan security token secondary market route page. Read it with Japan market infrastructure map for the cash-equity contrast, FIEA operator regist",
   "headings": [

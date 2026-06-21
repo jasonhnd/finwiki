@@ -43,7 +43,13 @@
       "https://docs.sui.io/",
       "https://aptos.dev/",
       "https://github.com/move-language/move"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against DAG-BFT vs chain-BFT for the consensus framing, BFT validator economics for token / staking dynamics, and threshold BFT for the implementation-language context.",
   "headings": [

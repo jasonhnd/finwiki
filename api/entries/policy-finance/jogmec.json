@@ -47,7 +47,13 @@
       "https://www.jogmec.go.jp/english/stockpiling/index.html",
       "https://www.enecho.meti.go.jp/en/category/special/article/detail_185.html",
       "https://www.meti.go.jp/english/policy/energy_environment/energy_strategy/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the resource-security node of the Japanese state-finance system. Read it against JBIC for the lender-side overseas-investment counterpart on the same upstream-resource project axis; with NEXI for the political-risk insurance overlay that frequently sits",
   "headings": [

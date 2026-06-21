@@ -40,7 +40,13 @@
       "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
       "https://www.jftc.go.jp/houdou/pressrelease/2021/aug/210804.html",
       "https://www.jftc.go.jp/en/pressreleases/yearly-2024/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the FIEA tender offer route: any control transaction that crosses domestic-turnover thresholds must be pre-notified to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in",
   "headings": [

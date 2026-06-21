@@ -46,7 +46,13 @@
       "https://www.stat.go.jp/english/data/cpi/index.html",
       "https://www.bis.org/statistics/securities_stats.htm",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JGBi (物価連動国債, \"Japan Government Bond Inflation-Indexed\") is the inflation-linked variant of the Japanese Government Bond (JGB), issued by the Ministry of Finance (MoF) with principal indexed to the Japan CPI ex-fresh-food index. JGBi was first issued in March 2004; issuance was paused in 2008 amid t",
   "headings": [

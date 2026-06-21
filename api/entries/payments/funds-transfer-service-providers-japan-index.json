@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
       "https://www.fsa.go.jp/common/shinsei/shikinidou.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "FSA's funds transfer service provider list contains 83 registered operators as of 2026-04-30. This page is the registry-control route for funds-transfer vs prepaid analysis; it does not reproduce all row-level registry data.",
   "headings": [

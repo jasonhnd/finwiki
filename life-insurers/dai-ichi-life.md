@@ -26,6 +26,23 @@ sources:
   - "2026年3月期 第2四半期(中間期) 決算短信 (連結, 2025-11-14 開示)"
   - "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf"
   - "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_036.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 第一ライフグループ / 旧 第一生命 HD

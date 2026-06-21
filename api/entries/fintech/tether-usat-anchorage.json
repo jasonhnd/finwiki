@@ -35,14 +35,13 @@
       "federal-charter"
     ],
     "status": "candidate",
-    "sources": [
-      "https://tether.to/en/",
-      "https://tether.to/en/transparency",
-      "https://www.anchorage.com/",
-      "https://www.coindesk.com/policy/2024/tether-anchorage-usat-announcement",
-      "https://www.theblock.co/post/tether-usat-anchorage-genius-act",
-      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with Tether USDT 経済学 for the parent product whose bifurcation USAT represents, and with GENIUS Act §501 for the U.S. regulatory framework that forced Tether to design a separate U.S.-compliant entity.",
   "headings": [

@@ -60,7 +60,13 @@
       "https://www.jp-bank.japanpost.jp/ias/ias_index.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/maeharai.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the operator-level 2025 share matrix that pairs with Japan code-payment competitive map for the strategic lanes view, Japan payment scheme economics matrix for the cross-scheme economics view, funds transfer service providers Japan index for the EPI / licensin",
   "headings": [

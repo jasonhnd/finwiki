@@ -43,7 +43,13 @@
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap that \"JA 共済連 exists but no prefectural 信連 anchors exist\". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生",
   "headings": [

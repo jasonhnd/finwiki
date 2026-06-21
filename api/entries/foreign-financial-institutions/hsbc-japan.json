@@ -33,6 +33,33 @@
       "Wikipedia: HSBC / 香港上海銀行 (2026-05-19 抽出)",
       "HSBC Holdings plc Annual Report 2024",
       "HSBC Japan 公式サイト 沿革（2025 更新）"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/foreign-bank-branch-license-route",
+        "evidence": "foreign_bank_branch_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -74,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4116,
-    "word_like_tokens": 667,
+    "nonspace_chars": 4538,
+    "word_like_tokens": 734,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

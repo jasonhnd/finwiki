@@ -37,7 +37,13 @@
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
       "https://www.iaisweb.org/activities-topics/insurance-capital-standard",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under insurance index and is the routing page for foreign-parent life insurers operating in Japan. Read it together with Japan life big four for the domestic-mutual / listed-stock contrast, with Sony Life Lifeplanner / group-life operating model for a Japan-headquartered Lifeplanner-",
   "headings": [

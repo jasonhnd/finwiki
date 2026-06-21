@@ -34,7 +34,17 @@
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
       "https://www.taiyo-seimei.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 大同生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
@@ -69,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2079,
-    "word_like_tokens": 334,
+    "nonspace_chars": 2142,
+    "word_like_tokens": 344,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

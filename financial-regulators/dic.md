@@ -19,6 +19,10 @@ sources:
   - "預金保険機構 公式サイト (https://www.dic.go.jp/, 2026-05-25 参照)"
   - "預金保険法 (昭和 46 年法律第 34 号)"
   - "金融庁 預金保険制度関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 ---
 # 預金保険機構 (DIC)
 

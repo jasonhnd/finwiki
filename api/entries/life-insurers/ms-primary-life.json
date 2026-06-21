@@ -36,7 +36,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://www.ms-primary.com/company/outline/",
       "https://www.ms-ad-hd.com/ja/group/what/group/structure.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). Its parent is the listed P&C group holding company MS&AD ホールディングス; the group's protection-focused life arm is 三井住友海上あいおい生命. Read it against PGF生命 and 第一フロンティア生命 for the FI-channel annuity peer / contrast, and against the FSA plus 生命保険協会 f",
   "headings": [

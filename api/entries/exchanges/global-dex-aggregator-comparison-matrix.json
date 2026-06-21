@@ -41,19 +41,13 @@
       "batch-auction"
     ],
     "status": "active",
-    "sources": [
-      "https://1inch.io/",
-      "https://0x.org/",
-      "https://matcha.xyz/",
-      "https://cow.fi/",
-      "https://jup.ag/",
-      "https://openocean.finance/",
-      "https://www.paraswap.io/",
-      "https://kyberswap.com/",
-      "https://www.okx.com/web3/dex",
-      "https://defillama.com/aggregators",
-      "https://dune.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against global DEX 主要 5 社比較 for the underlying DEX pool layer, Solana ecosystem DEX comparison for the Solana SVM aggregator/DEX stack, global perp DEX 5 comparison for the perp-only segment, and native DEX flip incumbent pattern for chain-specific DEX",
   "headings": [

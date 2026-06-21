@@ -24,6 +24,10 @@ sources:
   - "LINE ヤフー 公式 (LINE Pay 終了告知)"
   - "SoftBank Corp (9434) FY2025 通期決算 2025-11-05"
   - PayPay 株式会社 公式コーポレートサイト
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # PayPay 金融グループ

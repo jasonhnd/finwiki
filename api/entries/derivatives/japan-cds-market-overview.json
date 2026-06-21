@@ -47,7 +47,13 @@
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.bis.org/statistics/derstats.htm",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is iTraxx Japan, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single",
   "headings": [

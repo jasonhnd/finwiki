@@ -40,7 +40,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.fsa.go.jp/en/regulated/licensed/fibo.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "FSA's financial instruments business operator list contains 1,945 operators as of 2026-04-30. This page is the registry-control route for the FIEA / FIBO population. It does not reproduce all 1,945 rows; the official FSA workbook remains the complete row-level source of truth.",
   "headings": [

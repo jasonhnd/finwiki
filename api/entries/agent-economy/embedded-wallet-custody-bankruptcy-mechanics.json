@@ -42,22 +42,13 @@
       "regulatory-protection"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.privy.io/security",
-      "https://docs.cdp.coinbase.com/get-started/security",
-      "https://magic.link/docs/wallets/security",
-      "https://stripe.com/treasury",
-      "https://www.fdic.gov/",
-      "https://www.sipc.org/",
-      "https://www.sec.gov/divisions/marketreg/sipc-protection.htm",
-      "https://www.sec.gov/news/statement/staff-statement-on-sab-121",
-      "https://www.fca.org.uk/firms/cryptoassets",
-      "https://www.fsa.go.jp/en/news/2023/20230630/01.pdf",
-      "https://www.fsa.go.jp/en/policy/payments/index.html",
-      "https://www.mas.gov.sg/regulation/payments",
-      "https://www.uncitral.org/",
-      "https://www.ssrn.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "End-user funds in an embedded wallet are on-chain at an address the user controls jointly with the provider, not on the provider's balance sheet. If Privy, Stripe (the Privy parent), Coinbase CDP, or the underlying AWS Bedrock TEE infrastructure fails, the legal-bankruptcy claim on the cash a user m",
   "headings": [

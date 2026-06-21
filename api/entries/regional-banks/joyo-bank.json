@@ -30,7 +30,13 @@
     "sources": [
       "https://www.joyobank.co.jp/kabunushi/corporate/history.html",
       "https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 足利銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

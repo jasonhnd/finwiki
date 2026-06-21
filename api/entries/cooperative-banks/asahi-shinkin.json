@@ -35,7 +35,13 @@
       "https://www.asahi-shinkin.co.jp/corp/profile/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks index. Read it against 城南信用金庫 for peer / contrast context inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over 信",
   "headings": [

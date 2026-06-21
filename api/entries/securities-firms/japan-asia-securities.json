@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.jsda.or.jp/about/kaiin/list.html",
       "https://www.jsda.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against アイザワ証券 / 岩井コスモ証券 for peer mid-cap independent securities with Asian-emerging focus, 丸三証券 for old-line independent broker context, and securities index for the broader market-structure boundary.",
   "headings": [

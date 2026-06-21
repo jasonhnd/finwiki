@@ -25,6 +25,10 @@ sources:
   - "NTT ドコモ「組織の新設など」(2026-05-08) https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html"
   - "日経新聞 / Bloomberg / Reuters 公開報道 (2024〜2026)"
   - "Wikipedia: NTT ドコモ"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # NTT ドコモ・フィナンシャルグループ (NDFG)

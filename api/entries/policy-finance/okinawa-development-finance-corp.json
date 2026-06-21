@@ -38,7 +38,13 @@
       "https://www.okinawakouko.go.jp/disclo/",
       "https://www.cao.go.jp/okinawa/",
       "https://www.mof.go.jp/policy/financial_system/special_purpose_companies/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the consolidated Okinawa-specific policy-finance institution in the Japanese state-finance system. Read it against 日本政策金融公庫 (JFC) for the mainland Japan counterpart whose three functional divisions (国民生活 / 中小企業 / 農林水産) ODFC consolidates into a single reg",
   "headings": [

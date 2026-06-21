@@ -41,7 +41,13 @@
       "https://j-reit.jp/en/",
       "https://www.ares.or.jp/en/",
       "https://www.jpx.co.jp/english/markets/indices/tsereit/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Use this entry as the named-name matrix companion to J-REIT market overview. It maps the top 10 listed J-REIT by approximate market capitalization to their sponsor, asset class, asset-class concentration, AUM scale, LTV range, DPU yield zone, and foreign-investor relevance. Specific numeric ranks sh",
   "headings": [

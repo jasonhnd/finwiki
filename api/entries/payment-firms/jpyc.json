@@ -34,7 +34,13 @@
       "https://jpyc.co.jp/",
       "https://jpyc.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

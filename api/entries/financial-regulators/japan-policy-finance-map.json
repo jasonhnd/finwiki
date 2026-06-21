@@ -41,7 +41,13 @@
       "https://www.okinawakouko.go.jp/english/1678100259/",
       "https://www8.cao.go.jp/okinawa/3/36.html",
       "policy-finance/INDEX.md"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's policy-finance system is a stack of special-purpose public finance institutions, not one government bank. For JapanFG analysis, the useful routing is:",
   "headings": [

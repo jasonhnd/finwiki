@@ -13,6 +13,10 @@ sources:
   - "Wikipedia: 株式会社国際協力銀行 (2026-05-19 抽出)"
   - "JBIC 公式サイト 沿革・業務概要 (2026-05-19 参照)"
   - "株式会社国際協力銀行法 (平成 23 年法律第 39 号)"
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 ---
 # 国際協力銀行 (JBIC)
 

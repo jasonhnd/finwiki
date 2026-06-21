@@ -31,13 +31,13 @@
       "structural-position"
     ],
     "status": "candidate",
-    "sources": [
-      "https://investor.visa.com/financial-information/sec-filings/default.aspx",
-      "https://www.arm.com/company/investors",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001973239&type=10-K",
-      "https://www.mastercard.com/news/press/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it against ウォール街暗号ネットワーク中立投資戦略(Visa 二軌モデル) for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [

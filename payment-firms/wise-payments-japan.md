@@ -13,6 +13,23 @@ sources:
   - "https://wise.com/jp/about/corporate"
   - "https://newsroom.wise.com/en-CAS/235712-wise-granted-type-1-funds-transfer-service-provider-licence-in-japan-readies-for-next-phase-of-growth/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/payment-license-stack
+    evidence: payment_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # Wise Payments Japan

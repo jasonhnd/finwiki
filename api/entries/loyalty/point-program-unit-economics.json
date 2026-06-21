@@ -45,7 +45,13 @@
       "https://corp.rakuten.co.jp/investors/financial/",
       "https://www.docomo.ne.jp/corporate/ir/",
       "https://paymentsjapan.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the unit-economics / funding-mechanics page. It is the economic complement to point liability accounting boundary: that page asks how a point is classified, this page asks whether the program makes money and who pays. It reads alongside the program map in Japan",
   "headings": [

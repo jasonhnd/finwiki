@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.sonpohogo.or.jp/outline/member-companies.html",
       "https://www.sompo-direct.co.jp/company/profile.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against 損害保険ジャパン for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [

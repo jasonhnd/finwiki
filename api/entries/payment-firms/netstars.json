@@ -35,7 +35,13 @@
       "https://www.netstars.co.jp/servicelist/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it with GMO Payment Gateway and DG Financial Technology for PSP peer context, and with funds-transfer registry for the broader regulatory boundary.",
   "headings": [

@@ -42,7 +42,13 @@
       "https://www.fsa.go.jp/en/",
       "https://elaws.e-gov.go.jp/",
       "https://www.nta.go.jp/english/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The GK-TK structure (合同会社 + 匿名組合) is the dominant private-SPV vehicle for Japanese real-estate investment by professional and foreign investors. A 合同会社 (GK — Japanese LLC) is the legal-entity layer that holds the asset (typically a 信託受益権 on the underlying real estate), and the 匿名組合 (TK — silent part",
   "headings": [

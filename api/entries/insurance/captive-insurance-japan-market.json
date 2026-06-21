@@ -45,7 +45,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.fsa.go.jp/common/law/guide/ins/",
       "https://www.sonpo.or.jp/about/gaiyo/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A captive insurance company is an insurer wholly owned by its policyholder — typically a large industrial group — formed to retain the group's own risk on its own balance sheet instead of paying premium to a commercial insurer. Captives are a standard part of corporate risk financing at large Japane",
   "headings": [

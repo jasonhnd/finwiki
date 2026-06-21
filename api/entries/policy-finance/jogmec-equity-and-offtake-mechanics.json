@@ -47,7 +47,13 @@
       "https://www.enecho.meti.go.jp/en/category/special/article/detail_185.html",
       "https://www.meti.go.jp/english/policy/energy_environment/energy_strategy/",
       "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the operating-mechanics deep dive on JOGMEC (Japan Organization for Metals and Energy Security). Read it with Japan project finance stack diagram for how JOGMEC's equity / exploration risk sits underneath JBIC loans, NEXI insurance, and megabank commerci",
   "headings": [

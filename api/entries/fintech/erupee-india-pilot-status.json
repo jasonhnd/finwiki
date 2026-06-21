@@ -36,14 +36,13 @@
       "programmable-money"
     ],
     "status": "active",
-    "sources": [
-      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
-      "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1218",
-      "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx",
-      "https://www.npci.org.in/what-we-do/upi/product-statistics",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bis.org/publ/work1116.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-country deep dive on India's eRupee (Digital Rupee, e₹) for the 2026 pilot expansion phase. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with 印度反美元 DPI 联盟 for the broader Indian digital-payment-stack geopolitics, and wit",
   "headings": [

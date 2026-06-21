@@ -33,7 +33,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Ooguchi / Kyodo Trust trust page: https://www.ookuchi-step21.jp/trust/",
       "Kyodo Trust company profile PDF: https://www.ookuchi-step21.jp/images/library/pamphlet02.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kyodo-trust",
   "headings": [

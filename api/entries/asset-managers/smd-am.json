@@ -33,6 +33,33 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.smd-am.co.jp/corporate/overview/",
       "https://www.smfg.co.jp/chronicle20/company/smd-am.html"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "financial-licenses/securities-license-stack",
+        "evidence": "investment_management_registration",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under asset-managers INDEX (its domain route). Read it against アセットマネジメントOne for the other multi-shareholder JV 運用会社 peer / contrast, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.",
@@ -78,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2769,
-    "word_like_tokens": 425,
+    "nonspace_chars": 3190,
+    "word_like_tokens": 489,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-21"
   }
 }

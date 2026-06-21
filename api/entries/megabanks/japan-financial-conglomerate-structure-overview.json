@@ -43,7 +43,13 @@
       "https://www.boj.or.jp/en/",
       "https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/global-systemically-important-financial-institutions-g-sifis/",
       "https://www.bis.org/bcbs/gsib/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A Japanese financial conglomerate (金融コングロマリット / 金融グループ) is a group of regulated financial entities organized under a single ultimate parent — typically a financial holding company (持株会社 / FHC) — that consolidates bank, trust, securities, insurance, payment, consumer-finance, asset-management, and (i",
   "headings": [

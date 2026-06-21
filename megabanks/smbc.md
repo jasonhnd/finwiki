@@ -14,6 +14,29 @@ sources:
   - "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)"
   - "SMFG 統合報告書 / 決算短信 (2024-25 公開分)"
   - "金融庁 銀行免許一覧 (2026-05-25 参照)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: holds_license
+    target: financial-licenses/bank-license-and-baas-boundary
+    evidence: banking_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/smfg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 株式会社三井住友銀行 (SMBC)

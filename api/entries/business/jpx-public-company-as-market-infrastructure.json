@@ -39,7 +39,13 @@
       "https://www.jpx.co.jp/english/news/",
       "https://www.fsa.go.jp/en/",
       "https://ir.theice.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against Brian Armstrong Coinbase exchange-as-public-company template for the crypto-native parallel, GMO Internet Group for an internet-infrastructure-to-finance parallel, and securities INDEX / Japan market infrastruct",
   "headings": [

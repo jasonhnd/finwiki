@@ -40,6 +40,33 @@
       "投資のコンシェルジュ 生命保険 ソルベンシー・マージン比率ランキング 2025",
       "日本経済新聞「日本生命保険、営業職員数5万人割れ」(2024-06-28)",
       "日本生命「Vision 2030」公式説明資料"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/insurance-license-and-solvency",
+        "evidence": "insurance_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 明治安田生命保険相互会社 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -85,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6908,
-    "word_like_tokens": 1209,
+    "nonspace_chars": 7326,
+    "word_like_tokens": 1274,
     "inbound_wikilinks_count": 46,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

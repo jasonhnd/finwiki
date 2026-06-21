@@ -41,7 +41,13 @@
       "https://home.treasury.gov/news/press-releases/jy1925",
       "https://www.cnbc.com/binance/",
       "https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-101.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX as a public people-case study (note: Binance is privately held, but the founder transition is a public-record case). Read it against Brian Armstrong Coinbase exchange-as-public-company template for the contrasting US-listed-incumbent path, Jamie Dimon anti-crypto",
   "headings": [

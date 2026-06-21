@@ -53,7 +53,13 @@
       "https://www.toushin.or.jp/",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section06.html",
       "https://www.japaneselawtranslation.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's Financial Instruments and Exchange Act (FIEA / 金融商品取引法) administers a single registry of 1,945 financial instruments business operators (金融商品取引業者) as of 2026-04-30, but that single registry hides nine functionally distinct segments with very different capital floors, permitted-activity envel",
   "headings": [

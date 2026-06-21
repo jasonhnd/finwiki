@@ -38,7 +38,13 @@
       "https://www.aeon.info/en/company/",
       "https://www.7andi.com/en/company/profile",
       "https://www.rakuten.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry routes from the retail INDEX and explains a convergence the group pages only touch: in Japanese retail-finance ecosystems, retail media (in-store and app advertising), loyalty points, payment, and card data are collapsing into a single data loop. It is the data-and-advertising companion t",
   "headings": [

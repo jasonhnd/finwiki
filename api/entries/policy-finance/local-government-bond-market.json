@@ -36,7 +36,13 @@
       "https://www.chihousai.or.jp/02/",
       "https://www.mof.go.jp/filp/summary/filp_local/tihousaiseidonogaiyou.htm",
       "https://www.jfm.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japanese local government bond market is the capital-market interface for prefecture and municipality finance. It is structurally distinct from JGBs: issuance volumes are smaller, credit analysis incorporates the Local Allocation Tax fiscal-equalization layer, and a meaningful share of debt is f",
   "headings": [

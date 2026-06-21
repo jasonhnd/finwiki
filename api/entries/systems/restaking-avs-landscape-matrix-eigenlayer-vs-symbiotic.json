@@ -43,21 +43,13 @@
       "lrt"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.eigenlayer.xyz/",
-      "https://docs.symbiotic.fi/",
-      "https://docs.karak.network/",
-      "https://docs.mellow.finance/",
-      "https://docs.ether.fi/",
-      "https://docs.lido.fi/",
-      "https://docs.eigenda.xyz/",
-      "https://docs.hyperlane.xyz/",
-      "https://docs.espressosys.com/",
-      "https://docs.lagrange.dev/",
-      "https://docs.witnesschain.com/",
-      "https://defillama.com/protocols/Restaking",
-      "https://l2beat.com/data-availability/summary"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against EigenLayer overview as the canonical anchor, EigenLayer AVS mechanism · Operator · Slashing · EIGEN 仲裁 for the slashing + AVS economics depth, and EigenLayer L1 bootstrapping for how new chains use restaking to launch security. For the validator e",
   "headings": [

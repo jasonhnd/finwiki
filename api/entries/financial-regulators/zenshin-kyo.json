@@ -43,7 +43,17 @@
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/common/law/guide/coop/",
       "https://laws.e-gov.go.jp/law/326AC0000000238"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "Zenshin-kyō (全信協) is the national industry body for Japan's shinkin banks (信用金庫) — member-owned co-operative financial institutions chartered under the Shinkin Bank Act, distinct from commercial banks under the Banking Act. It sits at the policy / coordination layer of the shinkin system, working al",
   "headings": [
@@ -100,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8160,
-    "word_like_tokens": 1230,
+    "nonspace_chars": 8209,
+    "word_like_tokens": 1239,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

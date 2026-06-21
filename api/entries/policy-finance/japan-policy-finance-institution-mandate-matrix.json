@@ -59,7 +59,13 @@
       "https://www.jasso.go.jp/about/organization/index.html",
       "https://www.mof.go.jp/policy/financial_system/special_purpose_companies/index.htm",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/sangyokinyu/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's policy-finance toolkit is nine institutions, not one. Each has a distinct statute, ownership shape, supervising minister(s), product envelope, geographic perimeter, and counterparty stack. A single overseas LNG, mining, semiconductor, or critical-minerals deal can touch JOGMEC for resource e",
   "headings": [

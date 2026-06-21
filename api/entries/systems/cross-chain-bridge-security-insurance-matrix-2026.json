@@ -42,29 +42,13 @@
       "nexus-mutual"
     ],
     "status": "active",
-    "sources": [
-      "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
-      "https://docs.hyperlane.xyz/",
-      "https://docs.layerzero.network/v2",
-      "https://docs.wormhole.com/",
-      "https://docs.chain.link/ccip",
-      "https://docs.across.to/",
-      "https://stargateprotocol.gitbook.io/stargate/",
-      "https://docs.synapseprotocol.com/",
-      "https://docs.connext.network/",
-      "https://docs.squidrouter.com/",
-      "https://docs.axelar.dev/",
-      "https://docs.debridge.finance/",
-      "https://docs.symbiosis.finance/",
-      "https://docs.allbridge.io/",
-      "https://defillama.com/bridges",
-      "https://rekt.news/leaderboard/",
-      "https://defiyield.app/rekt-database",
-      "https://nexusmutual.io/",
-      "https://insurace.io/",
-      "https://www.sherlock.xyz/",
-      "https://l2beat.com/bridges/summary"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against クロスチェーン 5 極対照マトリクス for the general 9-axis bridge comparison, and use クロスチェーン 4 極アーキテクチャ概観 for the underlying architecture taxonomy. For protocol-specific deep dives see CCTP V2 overview · CCTP V2 technical spec · Hyperlane overview · Hyperlane ISM",
   "headings": [

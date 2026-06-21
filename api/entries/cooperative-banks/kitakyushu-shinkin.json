@@ -39,7 +39,13 @@
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against ふくおかフィナンシャルグループ（福岡銀行・熊本銀行・十八親和銀行）と 西日本フィナンシャルホールディングス（西日本シティ銀行）for the Kyushu commercial-bank counterparts, against 北九州銀行（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against Japan shinkin bank registry for the br",
   "headings": [

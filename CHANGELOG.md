@@ -29,6 +29,21 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-21 (In progress)
+
+### Issues #36 / #37 / #38 / #40 / #41 / #42 / #43 - Entity graph, report-only audits, API enrichment and asset-management gap shortlist
+
+#### 日本語記録 / English Record / 中文记录
+
+- **JST 時刻**: 2026-06-21 17:35 JST.
+- **背景**: GitHub open issues の現在状態を再確認し、#36 / #37 / #38 の entity graph build packet、#40 / #41 の quality audit build issue、#42 の AI API enrichment、#43 の asset-management register gap shortlist を同じ review branch 上で実装対象にした。`origin/main` への merge / push、GitHub Release 作成、issue close は実施しない。
+- **範囲**: `lib/markdown_helpers.ts`, `tools/generate_ai_discovery.ts`, `tools/entity_graph_audit.ts`, `tools/factual_consistency_audit.ts`, `tools/provenance_completeness_audit.ts`, `package.json`, `SCHEMA.md`, `docs/04-architecture/`, `docs/05-functional-specs/`, `docs/06-implementation/`, `docs/07-quality/`, `docs/01-strategy/asset-management-register-gap-shortlist-2026-06-21.md`, `docs/02-product/japanese-finance-coverage-gap-map.md`, README / CHANGELOG / release note, root `index.html`, AI discovery outputs and generated API JSON.
+- **実行手順**: `entity_node` / `entity_edges` schema constants and parser support を追加し、entity graph audit を新設した。90 件の Tier-1 Japan-core anchor に `entity_node` を追加し、48 source files に 115 declared typed edges を追加した。Discovery generator は `entity_nodes[]`, `entity_edges[]`, `entity_relation_counts` and deterministic inverse edges を出すようにした。Per-entry API は `canonical_anchor`, `related`, `note`, `type`, `sources`, `entity_node`, `entity_edges` を安全に出すようにした。#40 / #41 用に factual consistency audit と provenance completeness audit を report-only command として追加した。#43 用に IMAJ / FSA public source route に基づく shortlist と downstream content packet を作成した。最後に `bun tools/release.ts --write` で生成 surface を同期した。
+- **検証結果**: `bun tools/release.ts --write` PASS。`bun run entity:audit` PASS (`entity_nodes=90`, `entity_edges_declared=115`, `entity_edges_derived=115`, `entity_graph_issues=0`)。`bun tools/factual_consistency_audit.ts` PASS、`--json` PASS、`--with-seeded-conflict-fixture --fail-on-conflicts` は expected non-zero。`bun tools/provenance_completeness_audit.ts` PASS、`--json` PASS、`--with-seeded-low-score-fixture --fail-under 0.70` は expected non-zero。Targeted API inspection で `related`, `note`, `type`, `sources`, `entity_node`, `entity_edges` の生成を確認済み。
+- **残タスク**: Branch / PR review 後にだけ GitHub issue closeout evidence を関連付ける。Report-only audit baseline は review 後に false-positive control を調整する。`origin/main` への push / merge、GitHub Release 作成、issue close は未実行。
+- **EN**: Rechecked the open GitHub issue state and implemented the entity graph packets (#36 / #37 / #38), report-only audit build issues (#40 / #41), per-entry API enrichment (#42), and the asset-management register gap shortlist (#43) on the review branch. No merge / push to `origin/main`, GitHub Release creation, or issue closure is part of this work. Final validation passed: release write/check, entity audit, factual/provenance default + JSON + seeded-failure paths, docs audit, wiki audit, surface drift, ai audit, i18n status, site build, html check, and diff check. Final generated counts are `markdown_files=1571`, `entries=1483`, `api_entries=1476`, `entity_nodes=90`, `entity_edges_declared=115`, `entity_edges_derived=115`.
+- **中文**: 已重新确认 GitHub open issue 状态，并在 review branch 上实现 #36 / #37 / #38 的实体图 packet、#40 / #41 的 report-only 审计工具、#42 的 per-entry API enrich，以及 #43 的资产管理 register gap shortlist。本轮不 merge / push 到 `origin/main`，不创建 GitHub Release，也不关闭 issue。最终验证已通过：release write/check、entity audit、factual/provenance 默认 + JSON + seeded failure 路径、docs audit、wiki audit、surface drift、ai audit、i18n status、site build、html check 和 diff check。最终生成计数为 `markdown_files=1571`、`entries=1483`、`api_entries=1476`、`entity_nodes=90`、`entity_edges_declared=115`、`entity_edges_derived=115`。
+
 ## 2026-06-08 (In progress)
 
 ### Issue #23 reading experience implementation + #32/#33/#34 planning closeout / human site・coverage・AI・provenance / 阅读体验与规划收尾

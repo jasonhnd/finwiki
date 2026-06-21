@@ -42,7 +42,13 @@
       "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
       "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
       "https://paymentsjapan.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the cross-program exchange page — the mechanism layer beneath the program directory in Japan points and loyalty landscape. It pairs with point liability accounting boundary (which defines how a conversion splits into a liability-transfer event plus a settlement",
   "headings": [

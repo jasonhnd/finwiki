@@ -40,7 +40,13 @@
       "https://www.anz.com/institutional/global/japan/en/",
       "https://www.anz.com/institutional/global/japan/en/contact-us/",
       "https://www.ibajapan.org/who-we-are/our-members/financial-group/australia-and-new-zealand-banking-group-limited"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ANZ Japan sits between foreign-bank branch registry, FIEA operator registry, and foreign financial group adjacent-license route. It is linked with Standard Chartered Japan, DBS Japan, UOB Japan, and securities license stack.",
   "headings": [

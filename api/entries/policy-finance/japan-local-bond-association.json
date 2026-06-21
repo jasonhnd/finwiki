@@ -36,7 +36,13 @@
       "https://www.chihousai.or.jp/",
       "https://www.chihousai.or.jp/02/",
       "https://www.chihousai.or.jp/02/10.php"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japan Local Government Bond Association (公益社団法人地方債協会) is the public-interest incorporated association that coordinates, researches, and publishes on Japan's local-government bond market. It is the canonical published source for local-bond-market structure, issuance statistics, joint-issuance arr",
   "headings": [

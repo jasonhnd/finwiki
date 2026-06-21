@@ -47,7 +47,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.cboe.com/tradable_products/vix/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JPX-VI matters because it is the only publicly disseminated, exchange-published measure of Japan-equity implied volatility — used by domestic asset managers for risk-overlay sizing, by foreign macro funds as the \"fear gauge\" for Japan equity beta, and by structured-product desks as the input to vola",
   "headings": [

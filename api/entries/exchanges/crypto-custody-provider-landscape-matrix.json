@@ -38,16 +38,13 @@
       "jp-custody"
     ],
     "status": "active",
-    "sources": [
-      "https://www.ginco.co.jp/company/outline",
-      "https://komainu.com/about/",
-      "https://www.fireblocks.com/about/",
-      "https://www.bitgo.com/",
-      "https://www.anchorage.com/",
-      "https://www.coinbase.com/custody",
-      "https://www.bny.com/corporate/jp/ja.html",
-      "https://www.statestreet.com/jp"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本 3 強 (Ginco / Komainu / Fireblocks Japan) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) +",
   "headings": [

@@ -43,7 +43,17 @@
       "SMFG 役員一覧 (2026-05 時点): https://www.smfg.co.jp/company/info/officer.html",
       "金融庁 業務停止命令・課徴金 2022-10-07 (SMBC日興相場操縦): https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html",
       "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under megabanks INDEX. Read it with banking index for adjacent context and securities index for the broader system boundary.",
   "headings": [
@@ -96,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13974,
-    "word_like_tokens": 2856,
+    "nonspace_chars": 14035,
+    "word_like_tokens": 2866,
     "inbound_wikilinks_count": 243,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -38,7 +38,13 @@
       "https://www.jsda.or.jp/",
       "めぶき証券 会社概要 — 設立 2007-11-30 / 資本金 30 億円 / 従業員 約 90 名 / 本社 水戸市南町 (https://www.mebuki-sec.co.jp/company/gaiyo.html)",
       "Wikipedia: めぶき証券 — 2007-11-30 常陽証券設立 / 2017-04-03 めぶき証券へ商号変更 https://ja.wikipedia.org/wiki/めぶき証券"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the securities-firms INDEX as the FG-subsidiary securities operating-company anchor for めぶき FG. Read it against 常陽銀行 and 足利銀行 (parent bank subsidiaries) and the regional-bank consolidation pattern for system / regulatory boundary. Adjacent peer is FFG 証券 under regional-banks/fu",
   "headings": [

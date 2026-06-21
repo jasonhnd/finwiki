@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/access/r2/210.html",
       "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
       "https://www.fsa.go.jp/common/law/guide/chusho/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Regional bank consolidation in Japan is driven by local demographic pressure, narrow net interest margins, branch / system cost, digital investment needs, and the need to maintain basic financial services in shrinking regions. FSA's framing emphasizes customer-problem solving, financial-intermediati",
   "headings": [

@@ -44,7 +44,13 @@
       "https://www.zengyoren.or.jp/",
       "https://marinebank.jp/disclosure/index.html",
       "https://marinebank.jp/disclosure/disclosure2025_02.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the first JF Marine Bank prefectural-federation operating-company anchor in FinWiki, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the single largest fisheries region in Japan (s",
   "headings": [

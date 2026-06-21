@@ -34,13 +34,13 @@
       "fit21"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.cftc.gov/digitalassets/index.htm",
-      "https://www.sec.gov/spotlight/cybersecurity-enforcement-actions",
-      "https://www.congress.gov/bill/118th-congress/house-bill/4763",
-      "https://www.congress.gov/bill/119th-congress/house-bill/3633",
-      "https://www.sec.gov/news/statement/gensler-crypto-2023-04-18"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [

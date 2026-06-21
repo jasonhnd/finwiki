@@ -57,7 +57,13 @@
       "https://www.mof.go.jp/jgbs/individual/inflation_indexed/index.html",
       "https://www.isda.org/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's yen-rates derivatives complex spans interest-rate swap (IRS) referencing TIBOR / TONA, overnight index swap (OIS) referencing TONA, JGB futures (10-year standard, 5-year, 20-year super-long, 10-year mini), JGB inflation-linked bond (JGBi) underlying for inflation swaps, swaption (option on y",
   "headings": [

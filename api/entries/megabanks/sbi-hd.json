@@ -33,7 +33,17 @@
       "Wikipedia: SBIホールディングス (2026-05-19 抽出, FY2024/3期 = 2025-03 期 財務 KPI)",
       "Wikipedia: SBI証券 (2026-05-19 抽出, 口座数 1500 万・FY2024/3 業績)",
       "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -80,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7624,
-    "word_like_tokens": 1461,
+    "nonspace_chars": 7685,
+    "word_like_tokens": 1471,
     "inbound_wikilinks_count": 97,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

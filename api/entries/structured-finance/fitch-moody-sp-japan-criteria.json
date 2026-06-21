@@ -45,7 +45,13 @@
       "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
       "Megabank IR (MUFG / SMBC / Mizuho securitization disclosures)",
       "Moody's / Fitch / S&P public methodology documents (Japan ABS / RMBS)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese securitisations are dual-rated: the domestic agencies JCR and R&I cover the yen-denominated investor base (life insurers, regional banks, Japan Post Bank), while Moody's, S&P, and Fitch are added when the deal targets foreign investors or USD-denominated tranches. The split-rating gap can b",
   "headings": [

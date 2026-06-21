@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 90 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,96 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `asset-managers/asset-management-one.md` | `M` | 15 | ok |
+| `asset-managers/mufg-asset-management.md` | `M` | 13 | ok |
+| `asset-managers/nomura-asset-management.md` | `M` | 11 | ok |
+| `asset-managers/smd-am.md` | `M` | 13 | ok |
+| `asset-managers/smt-am.md` | `M` | 20 | ok |
+| `asset-managers/tokio-marine-asset-management.md` | `M` | 33 | ok |
+| `card-issuers/aeon-financial-service.md` | `M` | 16 | ok |
+| `card-issuers/credit-saison.md` | `M` | 8 | ok |
+| `card-issuers/jcb.md` | `M` | 10 | ok |
+| `card-issuers/paypay-card.md` | `M` | 8 | ok |
+| `card-issuers/rakuten-card.md` | `M` | 8 | ok |
+| `card-issuers/smbc-card.md` | `M` | 6 | ok |
+| `financial-regulators/boj.md` | `M` | 12 | ok |
+| `financial-regulators/dbj.md` | `M` | 6 | ok |
+| `financial-regulators/dic.md` | `M` | 15 | ok |
+| `financial-regulators/fsa.md` | `M` | 24 | ok |
+| `financial-regulators/japan-exchange-group.md` | `M` | 12 | ok |
+| `financial-regulators/japan-securities-finance.md` | `M` | 6 | ok |
+| `financial-regulators/jbic.md` | `M` | 15 | ok |
+| `financial-regulators/jfc.md` | `M` | 7 | ok |
+| `financial-regulators/jsda.md` | `M` | 15 | ok |
+| `financial-regulators/seiho-kyokai.md` | `M` | 27 | ok |
+| `financial-regulators/shintaku-kyokai.md` | `M` | 25 | ok |
+| `financial-regulators/sonpo-kyokai.md` | `M` | 26 | ok |
+| `financial-regulators/yokin-hoken-kiko.md` | `M` | 25 | ok |
+| `financial-regulators/zenchugin-kyo.md` | `M` | 24 | ok |
+| `financial-regulators/zenginkyo.md` | `M` | 15 | ok |
+| `financial-regulators/zenshin-kyo.md` | `M` | 15 | ok |
+| `foreign-financial-institutions/bank-of-america-japan.md` | `M` | 9 | ok |
+| `foreign-financial-institutions/bnp-paribas-japan.md` | `M` | 6 | ok |
+| `foreign-financial-institutions/citigroup-japan.md` | `M` | 9 | ok |
+| `foreign-financial-institutions/deutsche-japan.md` | `M` | 25 | ok |
+| `foreign-financial-institutions/hsbc-japan.md` | `M` | 8 | ok |
+| `foreign-financial-institutions/jpmorgan-japan.md` | `M` | 17 | ok |
+| `foreign-financial-institutions/ubs-japan.md` | `M` | 15 | ok |
+| `life-insurers/dai-ichi-life.md` | `M` | 10 | ok |
+| `life-insurers/daido-life.md` | `M` | 7 | ok |
+| `life-insurers/kampo-life.md` | `M` | 4 | ok |
+| `life-insurers/lifenet.md` | `M` | 9 | ok |
+| `life-insurers/meiji-yasuda.md` | `M` | 16 | ok |
+| `life-insurers/nippon-life.md` | `M` | 6 | ok |
+| `life-insurers/orix-life.md` | `M` | 17 | ok |
+| `life-insurers/sony-life.md` | `M` | 12 | ok |
+| `life-insurers/sumitomo-life.md` | `M` | 6 | ok |
+| `life-insurers/taiju-life.md` | `M` | 7 | ok |
+| `life-insurers/taiyo-life.md` | `M` | 8 | ok |
+| `life-insurers/tokio-marine-nichido-life.md` | `M` | 7 | ok |
+| `megabanks/au-fh.md` | `M` | 10 | ok |
+| `megabanks/japan-post-holdings.md` | `M` | 30 | ok |
+| `megabanks/mizuho-bank.md` | `M` | 13 | ok |
+| `megabanks/mizuho-fg.md` | `M` | 3 | ok |
+| `megabanks/mufg-bank.md` | `M` | 10 | ok |
+| `megabanks/mufg.md` | `M` | 4 | ok |
+| `megabanks/ndfg.md` | `M` | 9 | ok |
+| `megabanks/nippon-post.md` | `M` | 26 | ok |
+| `megabanks/paypay-fg.md` | `M` | 6 | ok |
+| `megabanks/resona-bank.md` | `M` | 9 | ok |
+| `megabanks/resona-hd.md` | `M` | 13 | ok |
+| `megabanks/sbi-hd.md` | `M` | 16 | ok |
+| `megabanks/sbi-regional-bank-hd.md` | `M` | 20 | ok |
+| `megabanks/smbc.md` | `M` | 26 | ok |
+| `megabanks/smfg.md` | `M` | 7 | ok |
+| `megabanks/sony-fg.md` | `M` | 9 | ok |
+| `megabanks/sumitomo-mitsui-banking-corp.md` | `M` | 13 | ok |
+| `non-life-insurers/aioi-nissay-dowa-insurance.md` | `M` | 8 | ok |
+| `non-life-insurers/mitsui-sumitomo-insurance.md` | `M` | 9 | ok |
+| `non-life-insurers/msad.md` | `M` | 6 | ok |
+| `non-life-insurers/saison-automobile-fire-insurance.md` | `M` | 30 | ok |
+| `non-life-insurers/sbi-insurance-group.md` | `M` | 14 | ok |
+| `non-life-insurers/sompo-japan-insurance.md` | `M` | 7 | ok |
+| `non-life-insurers/sompo.md` | `M` | 6 | ok |
+| `non-life-insurers/sony-insurance.md` | `M` | 8 | ok |
+| `non-life-insurers/tokio-marine-nichido-fire.md` | `M` | 9 | ok |
+| `non-life-insurers/tokio-marine.md` | `M` | 7 | ok |
+| `payment-firms/gmo-payment-gateway.md` | `M` | 15 | ok |
+| `payment-firms/mercari-hd.md` | `M` | 8 | ok |
+| `payment-firms/merpay.md` | `M` | 7 | ok |
+| `payment-firms/paypay.md` | `M` | 6 | ok |
+| `payment-firms/rakuten-fg.md` | `M` | 14 | ok |
+| `payment-firms/sb-payment-service.md` | `M` | 7 | ok |
+| `payment-firms/wise-payments-japan.md` | `M` | 8 | ok |
+| `securities-firms/daiwa-sg.md` | `M` | 13 | ok |
+| `securities-firms/matsui-sec.md` | `M` | 16 | ok |
+| `securities-firms/mizuho-securities.md` | `M` | 9 | ok |
+| `securities-firms/monex-group.md` | `M` | 9 | ok |
+| `securities-firms/mufg-mums.md` | `M` | 11 | ok |
+| `securities-firms/nomura-hd.md` | `M` | 7 | ok |
+| `securities-firms/rakuten-securities.md` | `M` | 9 | ok |
+| `securities-firms/sbi-securities.md` | `M` | 15 | ok |
+| `securities-firms/smbc-nikko.md` | `M` | 39 | ok |
 
 ## Domain Snapshot
 

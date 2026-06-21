@@ -41,7 +41,13 @@
       "https://www.daiwa-grp.jp/",
       "https://www.daiwa-grp.jp/ir/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
-    ]
+    ],
+    "canonical_anchor": "regional-banks/daiwa-next-bank",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at 大和ネクスト銀行 entity anchor. Read it within the segment map at Japan net bank competition map, with parent context at Daiwa Securities Group and the to-be-consolidated Orix Bank page, against the securities-adj",
   "headings": [

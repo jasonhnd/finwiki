@@ -35,7 +35,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.kdb.co.kr/BZCOWS00N01.act?GmBrnId=TK&GmMlngTc=ja&_mnuId=IHIHGM2155&jobNotice=Y&wcmsPath=%2Fhmp%2Fch%2Fgm%2Fto%2FCHGMTO8000.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against Woori Bank Tokyo for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

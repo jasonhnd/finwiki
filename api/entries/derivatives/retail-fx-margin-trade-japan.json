@@ -41,7 +41,13 @@
       "https://www.ffaj.or.jp/",
       "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
       "https://www.fsa.go.jp/en/news/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFS",
   "headings": [

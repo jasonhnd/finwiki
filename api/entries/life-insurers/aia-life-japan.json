@@ -37,7 +37,13 @@
       "FSA life insurer list: https://www.fsa.go.jp/menkyo/hoken.pdf",
       "AIA Group official: https://www.aia.com",
       "AIA Group Annual Report (公開版・HKEX 1299)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against MetLife Japan and Manulife Life Insurance Japan for foreign-life-insurer peer context, and insurance index for the broader Japan life insurance market system / regulatory boundary.",
   "headings": [

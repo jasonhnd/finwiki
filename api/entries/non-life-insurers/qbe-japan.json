@@ -37,7 +37,13 @@
       "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
       "QBE Insurance Group official: https://www.qbe.com/asia",
       "QBE Insurance Group Annual Report (公開版)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it against Lloyd's Japan and FM Global Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
   "headings": [

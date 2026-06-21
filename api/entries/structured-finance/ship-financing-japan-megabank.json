@@ -48,7 +48,13 @@
       "Mizuho FG IR — https://www.mizuho-fg.com/index.html",
       "Sōgō shōsha and Japanese shipping-company IR (NYK, MOL, K-Line)",
       "Mitsubishi HC Capital IR — https://www.mitsubishi-hc-capital.com/english/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Ship financing in Japan combines several layers: (1) megabank ship-finance desks at MUFG, SMBC, and Mizuho FG that have historically been top-tier global ship-lenders, providing senior secured loans to global and Japanese owners; (2) Japanese leasing companies (Mitsubishi HC Capital, SMFL, Mizuho Le",
   "headings": [

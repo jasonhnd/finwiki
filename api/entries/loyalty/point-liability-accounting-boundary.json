@@ -42,7 +42,13 @@
       "https://www.docomo.ne.jp/corporate/ir/",
       "https://paymentsjapan.or.jp/",
       "https://vpoint.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "\"Points\" in Japan are not one accounting concept. The same word covers (1) marketing-promotional grants that are pure expense, (2) loyalty liabilities that are deferred revenue under IFRS 15 / ASBJ Statement No.29, (3) breakage assumptions that drive when revenue is finally recognised, (4) purchased",
   "headings": [

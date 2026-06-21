@@ -33,15 +33,16 @@
     ],
     "status": "active",
     "sources": [
-      "https://www.bdo.or.jp/",
-      "https://www.bdo.or.jp/firm/",
-      "https://jicpa.or.jp/",
-      "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/",
       "Wikipedia: 三優監査法人 (法人形態・規模・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/三優監査法人)",
       "J-LiC 上場企業サーチ 三優監査法人 (https://j-lic.com/auditors/200704000120)",
       "金融庁 行政処分事例集 (https://www.fsa.go.jp/status/s_jirei/kouhyou.html)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-regulators INDEX. Read it alongside 太陽グラントソントン for peer 中堅 audit context, and EY 新日本・トーマツ for Big 4 比較; 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [

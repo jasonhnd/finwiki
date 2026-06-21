@@ -38,23 +38,13 @@
       "japan"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/policy/prepaid/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/zenshikoukinrishou.pdf",
-      "https://www.fsa.go.jp/menkyo/menkyoj/zendaisanshakogata.pdf",
-      "https://corp.rakuten.co.jp/",
-      "https://www.7andi.com/",
-      "https://www.aeon.info/",
-      "https://www.jreast.co.jp/",
-      "https://www.pasmo.co.jp/",
-      "https://www.jr-odekake.net/",
-      "https://www.jrhokkaido.co.jp/",
-      "https://jr-central.co.jp/",
-      "https://www.meitetsu.co.jp/",
-      "https://www.nishitetsu.jp/",
-      "https://www.jrkyushu.co.jp/",
-      "https://www.boj.or.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's prepaid electronic-money landscape is not one industry — it is at least three distinct stacks (retail-prepaid, transit-prepaid, and digital-wallet-prepaid) that look similar at checkout but sit on different prepaid-license categories under the Payment Services Act (資金決済法), different technolo",
   "headings": [

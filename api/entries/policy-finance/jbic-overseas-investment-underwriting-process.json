@@ -43,7 +43,13 @@
       "https://www.jbic.go.jp/en/efforts/environment/guideline/",
       "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/",
       "https://www.meti.go.jp/english/policy/external_economy/trade_control/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the underwriting-process deep dive on 国際協力銀行 (JBIC). Read it with Japan project finance stack diagram for how JBIC loans sit alongside NEXI insurance, JOGMEC equity, and megabank commercial debt; with OECD Export Credit Arrangement for the term ceiling u",
   "headings": [

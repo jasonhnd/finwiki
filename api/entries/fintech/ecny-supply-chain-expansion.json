@@ -36,14 +36,13 @@
       "supply-chain"
     ],
     "status": "active",
-    "sources": [
-      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
-      "https://www.bis.org/publ/othp59.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bot.or.th/en/news-and-media/news/",
-      "https://www.centralbank.ae/en/news/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-country deep dive on China's e-CNY for the 2025-2026 cross-border expansion phase. It is paired with CBDC adoption curve 2026 for the four-country comparative view, with mBridge BIS 多 CBDC 跨境结算桥 for the wholesale-bridge architecture, and with HKMA stabl",
   "headings": [

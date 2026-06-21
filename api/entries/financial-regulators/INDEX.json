@@ -38,7 +38,13 @@
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "各 FG 公式 IR 資料・有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "financial-regulators/ is the standalone top-level domain for Japan's regulatory, self-regulatory and policy-finance layer: the Bank of Japan and its operating departments, the Financial Services Agency and its bureaus, policy / government finance institutions, self-regulatory organisations and indus",
   "headings": [

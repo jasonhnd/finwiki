@@ -37,7 +37,13 @@
       "https://ja.wikipedia.org/wiki/京都信用金庫",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 京都中央信用金庫 for peer / contrast context inside the Kyoto shinkin block (両者は京都を地盤とする二大信用金庫) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
   "headings": [

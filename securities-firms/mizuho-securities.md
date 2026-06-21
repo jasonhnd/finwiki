@@ -16,6 +16,35 @@ sources:
   - "https://www.mizuhogroup.com/jp/securities/who-we-are/profile"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.fsa.go.jp/common/law/guide/city/index.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/securities-license-stack
+    evidence: fibo_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/jsda
+    evidence: sro_membership
+    source: "https://www.jsda.or.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/mizuho-fg
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # Mizuho Securities

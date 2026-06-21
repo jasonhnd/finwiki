@@ -37,7 +37,13 @@
       "https://www.dgft.jp/company/about/profile.html",
       "https://company.dgft.jp/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against SBペイメントサービス (SB Payment Service) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [

@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://go.wooribank.com/jp/hs/ic/HSIC120_01C.do",
       "https://www.zenginkyo.or.jp/bankdb/bc0477/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 韓国産業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

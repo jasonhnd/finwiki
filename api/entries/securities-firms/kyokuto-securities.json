@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html",
       "https://www.kyokuto-sec.co.jp/company/profile.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 丸三証券 for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for FIEA license boundary.",
   "headings": [

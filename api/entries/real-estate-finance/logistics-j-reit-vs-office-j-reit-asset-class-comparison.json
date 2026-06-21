@@ -48,7 +48,13 @@
       "https://www.daiwahouse-resi.co.jp/en/",
       "https://www.jpx.co.jp/english/markets/products/reit/",
       "https://www.ares.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japanese J-REIT market is bifurcated by asset class, with logistics and office representing the two largest and most liquid sectors after the diversified / mixed segment. Logistics J-REITs — including Industrial & Infrastructure Fund Investment Corporation (IIF, 3249), GLP J-REIT (3281), Nippon",
   "headings": [

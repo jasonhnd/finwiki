@@ -41,7 +41,13 @@
       "https://www.customs.go.jp/english/summary/tariff.htm",
       "https://www.jetro.go.jp/en/",
       "https://www.wcoomd.org/en/topics/nomenclature/overview.aspx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and documents the border-clearance layer that sits underneath every trade transaction. Read it against its same-domain peer Incoterms 2020 — the Incoterms rule fixes who is responsible for clearing the goods (export and import customs), and this entry explains what",
   "headings": [

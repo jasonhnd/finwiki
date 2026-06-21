@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.nam.co.jp/company/profile/",
       "https://www.nissay.co.jp/kaisha/group/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
   "headings": [

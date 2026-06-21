@@ -43,16 +43,13 @@
       "da"
     ],
     "status": "active",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-4844",
-      "https://eips.ethereum.org/EIPS/eip-7691",
-      "https://eips.ethereum.org/EIPS/eip-7594",
-      "https://ethereum.org/en/roadmap/danksharding/",
-      "https://blobscan.com/",
-      "https://l2beat.com/scaling/summary",
-      "https://defillama.com/chains/Rollup",
-      "https://ethresear.ch/c/sharding/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the 2025-Q2 blob target doubling that directly extends EIP-4844, and Pectra upgrade overview for the broader Ethereum upgrade context. For the L1/L2 strategic framing that makes blob economics structurally im",
   "headings": [

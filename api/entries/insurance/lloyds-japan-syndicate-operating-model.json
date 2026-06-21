@@ -43,7 +43,13 @@
       "https://www.lloyds.com/about-lloyds/our-market",
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.sonpo.or.jp/about/gaiyo/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The key point: Lloyd's capacity in Japan is supplied by London-based syndicates whose capital comes from corporate members and historically from Names. The Japan branch is the regulatory and operational interface, not the risk-bearing balance sheet.",
   "headings": [

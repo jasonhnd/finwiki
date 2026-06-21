@@ -15,6 +15,10 @@ sources:
   - "Wikipedia: SBI生命保険 (2026-05-19 抽出)"
   - "SBI HD 公式・保険事業 IR (2026-05-19 抽出)"
   - "SBI インシュアランスグループ IR 株式情報 (https://www.sbiig.co.jp/ir/stock/information.html, 2026-05-29 参照: 東証グロース 7326 上場継続確認)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # SBI インシュアランスグループ (SBI Insurance Group)

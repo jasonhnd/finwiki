@@ -42,7 +42,13 @@
       "https://www.coinbase.com/blog",
       "https://www.sec.gov/litigation/litreleases.htm",
       "https://www.federalregister.gov/agencies/commodity-futures-trading-commission"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under business INDEX. Read it with Jamie Dimon anti-crypto pivot case as the bank-side contrast template and Larry Fink BlackRock digital-asset template as the asset-manager-side parallel. Cross-reference exchanges INDEX for the broader exchange-architecture context and CFTC / SEC cr",
   "headings": [

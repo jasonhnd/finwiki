@@ -47,7 +47,13 @@
       "https://www.mof.go.jp/english/policy/jgbs/index.html",
       "https://www.jpx.co.jp/jscc/en/cds/index.html",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed r",
   "headings": [

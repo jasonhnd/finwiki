@@ -33,7 +33,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Kainuma Trust Real Estate official site: https://kainuma-trust.jp/",
       "Kainuma Construction registration release: https://www.atpress.ne.jp/news/265337"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kainuma-trust-real-estate",
   "headings": [

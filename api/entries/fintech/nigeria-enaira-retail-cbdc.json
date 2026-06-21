@@ -38,14 +38,13 @@
       "naira-redesign"
     ],
     "status": "active",
-    "sources": [
-      "https://www.cbn.gov.ng/",
-      "https://www.cbn.gov.ng/Out/2021/CCD/eNaira%20Design%20Paper.pdf",
-      "https://enaira.gov.ng/",
-      "https://www.imf.org/en/Publications/WP/Issues/2023/05/12/Nigerias-eNaira-One-Year-After-533487",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bis.org/publ/work1116.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-jurisdiction case study on the eNaira, the second live retail CBDC issued by any major emerging-market central bank (after the Bahamian Sand Dollar) and globally the most-studied adoption-failure case among live CBDC programmes. Read it against Bahamas",
   "headings": [

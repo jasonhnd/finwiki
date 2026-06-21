@@ -42,22 +42,13 @@
       "gcp"
     ],
     "status": "active",
-    "sources": [
-      "https://docs.privy.io/",
-      "https://docs.cdp.coinbase.com/",
-      "https://magic.link/docs",
-      "https://portal.thirdweb.com/",
-      "https://docs.particle.network/",
-      "https://web3auth.io/docs/",
-      "https://docs.dynamic.xyz/",
-      "https://docs.crossmint.com/",
-      "https://aws.amazon.com/bedrock/agentcore/",
-      "https://azure.microsoft.com/en-us/products/ai-foundry",
-      "https://cloud.google.com/agent-builder",
-      "https://www.fsa.go.jp/en/",
-      "https://www.sec.gov/",
-      "https://www.fca.org.uk/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "By mid-2026 the embedded-wallet category has compressed from a long tail of 20+ SDK vendors into a default-tier duopoly (Privy under Stripe, Coinbase CDP) and a secondary tier (Magic, thirdweb, Dynamic, Web3Auth, Particle Network, Crossmint) competing for niches the hyperscalers' default routing doe",
   "headings": [

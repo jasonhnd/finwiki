@@ -43,7 +43,13 @@
       "https://www.ymfg.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.chiginkyo.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 山口 FG (YMFG). Read it against parent operating banks 山口 FG 3 行体制 (もみじ銀行 / 北九州銀行 / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千葉) / 北海道リース / いよぎんリー",
   "headings": [

@@ -28,13 +28,13 @@
       "nasdaq-listed"
     ],
     "status": "active",
-    "sources": [
-      "https://coincheck.com/ja/info/company",
-      "https://jvcea.or.jp/member/",
-      "https://www.sec.gov/Archives/edgar/data/1843993/000121390024107527/ea022426401ex99-1_thunder4.htm",
-      "https://efts.sec.gov/LATEST/search-index?q=%22coincheck%22&dateRange=custom&startdt=2024-01-01&enddt=2025-01-01&forms=S-4,8-K,6-K",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [

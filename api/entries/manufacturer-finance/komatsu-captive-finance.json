@@ -45,7 +45,13 @@
       "https://www.komatsu.eu/en/komatsu-finance",
       "https://www.komatsu.jp/en/ir",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index as the construction- / heavy-equipment captive, complementing the auto captives Toyota Financial Services, Honda Finance, and Nissan Financial Services. Because Komatsu's finance is B2B equipment finance, the closest mechanism page is captive / vendor financ",
   "headings": [

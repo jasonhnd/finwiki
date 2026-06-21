@@ -44,7 +44,13 @@
       "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
       "https://www.mas.gov.sg/regulation/payments",
       "https://www.mas.gov.sg/regulation/explainers/a-guide-to-digital-token-offerings"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index and is the cross-jurisdictional matrix view that sits above the per-regime overviews. It complements the geopolitical lens of fintech/three-circles-stablecoin-mra-framework (which collapses the world into three MRA circles), by instead enumerating all five active",
   "headings": [

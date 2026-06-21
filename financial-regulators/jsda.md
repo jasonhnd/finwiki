@@ -22,6 +22,10 @@ sources:
   - "https://www.fsa.go.jp/koueki/s_houjin/05.pdf"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
   - "https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # Japan Securities Dealers Association (JSDA)

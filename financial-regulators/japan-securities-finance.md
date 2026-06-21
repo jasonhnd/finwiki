@@ -13,6 +13,10 @@ sources:
   - "https://www.jsf.co.jp/ja/about/outline.html"
   - "https://www.jsf.co.jp/ja/ir.html"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 ---
 
 # 日本証券金融 (JSF)

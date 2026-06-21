@@ -45,7 +45,13 @@
       "https://www.jpx.co.jp/english/equities/listing/cg/",
       "https://www.jscc.co.jp/en/",
       "https://www.boj.or.jp/en/paym/market/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan corporates use equity-volatility hedging in four structurally distinct contexts, each with a different dealer-bank franchise relationship and a different regulatory boundary:",
   "headings": [

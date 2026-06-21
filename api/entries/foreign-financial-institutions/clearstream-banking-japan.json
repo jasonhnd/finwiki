@@ -39,7 +39,13 @@
       "https://www.clearstream.com/clearstream-en/res-library/market-coverage/disclosure-requirements-japan-1283168",
       "https://www.ibajapan.org/ja/who-we-are/our-members/commercial-banks/clearstream-banking-sa",
       "https://www.jasdec.com/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page promotes the Clearstream row in the foreign-bank branch registry into a standalone ICSD route. Read it with Euroclear Bank Japan, market infrastructure map, trust-bank custody map, and foreign financial group adjacent-license route.",
   "headings": [

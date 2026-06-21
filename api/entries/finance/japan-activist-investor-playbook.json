@@ -46,7 +46,13 @@
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
       "https://www.jpx.co.jp/english/listing/co-search/",
       "https://www.fsa.go.jp/en/news/2008/20080317.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance domain. Read it with Japan tender offer process, securities domain, finance INDEX, and Tokyo Stock Exchange when engagement becomes public-company disclosure, voting, or control analysis.",
   "headings": [

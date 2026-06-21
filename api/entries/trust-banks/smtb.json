@@ -33,7 +33,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.smtb.jp/corporate/summary/",
       "https://www.smtb.jp/about/corporate/outline"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and みずほ信託銀行 for peer / contrast, and — critically — against SMBC信託銀行, a similarly-named but separate-group trust bank. For the supervisory / system boundary see the FSA plus banking. Its holding-company pare",
   "headings": [

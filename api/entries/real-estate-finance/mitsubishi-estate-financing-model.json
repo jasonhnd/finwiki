@@ -44,7 +44,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "For FinWiki, Mitsubishi Estate is the premium-office concentration template — the contrast case to Mitsui Fudosan's broader asset-class diversification. The financing question is how a single-district concentration (Marunouchi) can sustain top-tier credit while funding overseas growth, large redevel",
   "headings": [

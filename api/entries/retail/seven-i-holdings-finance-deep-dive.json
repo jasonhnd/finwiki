@@ -48,7 +48,13 @@
       "https://www.nanaco-net.jp/introduction/",
       "https://www.7card.co.jp/company/",
       "https://www.7-paymentservice.co.jp/company/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under retail index as the finance-stack deep dive for Seven & i Holdings, extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with AEON Group and the comparabl",
   "headings": [

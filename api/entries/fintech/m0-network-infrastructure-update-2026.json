@@ -38,15 +38,13 @@
       "2026-event"
     ],
     "status": "active",
-    "sources": [
-      "https://m0.org/",
-      "https://m0.org/docs/",
-      "https://m0.foundation/governance",
-      "https://etherscan.io/token/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
-      "https://www.coindesk.com/business/2025/12/m-network-mexican-peso-pilot",
-      "https://www.theblock.co/post/m0-bridge-stablecoin-2026",
-      "https://www.bain.com/about/media-center/press-releases/2025/bain-capital-crypto-m0/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "M0(M^ZERO) は 2026 上半期に「early-stage 中立インフラ」から「partner-issuer ミドルウェア」段階に入り、同時に 3 つの新成長軸に賭ける:(1)M Bridge = M0 が Base / Arbitrum / OP / Unichain / Solana 間に提供するネイティブ相互接続層で、任意の partner issuer ステーブルコインが自然にマルチチェーンで共存可能;(2)MXNB pilot = Bitso + Mercado Bitcoin 等の中南米参加者が M0 上でメキシコペソ・ペッグ・ステーブルコインを発行、初の非米ドル par",
   "headings": [

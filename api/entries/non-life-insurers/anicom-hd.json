@@ -36,7 +36,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
       "https://www.anicom.co.jp/company/",
       "https://ja.wikipedia.org/wiki/アニコム_ホールディングス"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX (its domain route). Read it against its own operating subsidiary アニコム損害保険 for the holding-company / operating-company split, against the other pet-insurance underwriters ペット&ファミリー損保 and アイペット損保 for peer / contrast, and against the FSA for the supervisory",
   "headings": [

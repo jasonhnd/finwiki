@@ -35,6 +35,33 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.smtam.jp/company/profile/",
       "https://www.smth.jp/company/group/"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "registered_as",
+        "target": "financial-licenses/securities-license-stack",
+        "evidence": "investment_management_registration",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
@@ -80,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3334,
-    "word_like_tokens": 486,
+    "nonspace_chars": 3755,
+    "word_like_tokens": 550,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

@@ -33,7 +33,13 @@
       "https://www.remit.co.jp/corporate/corporate_profile/",
       "https://www.sbigroup.co.jp/company/group/sbiremit.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against ウエスタンユニオンジャパン and Wise Payments Japan for peer / contrast (cross-border remittance), and against the FSA plus the funds-transfer vs prepaid boundary for the supervisory / system boundary.",
   "headings": [

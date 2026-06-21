@@ -39,7 +39,13 @@
       "https://jeppo.jp/",
       "https://jeppo.jp/bankpay/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan account-to-account payments sit between classic bank transfer, wallet balance, card acquiring, and code payment. The important control question is: is value moving directly from a deposit account, through a funds-transfer / prepaid balance, or through a merchant acquiring / card network layer?",
   "headings": [

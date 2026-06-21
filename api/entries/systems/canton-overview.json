@@ -30,9 +30,13 @@
       "institutional"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.canton.network/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

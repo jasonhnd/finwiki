@@ -48,7 +48,13 @@
       "https://www.recruit.co.jp/newsroom/",
       "https://www.loyalty.co.jp/",
       "https://paymentsjapan.or.jp/category/publications/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the deep operator page for Pontaポイント, pairing with d Point / au (KDDI) telco-point consolidation case for the strategic framing of au PAY ポイント (the unified brand that absorbed Ponta on the wallet side in 2024-12), V Point (SMBC × CCC) case for the bank-anchored",
   "headings": [

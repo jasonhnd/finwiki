@@ -39,14 +39,13 @@
       "2025-2026"
     ],
     "status": "active",
-    "sources": [
-      "https://www.franklintempleton.com/",
-      "https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX",
-      "https://www.sec.gov/edgar",
-      "https://defillama.com/protocol/franklin-templeton-benji",
-      "https://www.stellar.org/",
-      "https://www.benji.io/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL for the dominant tokenized-MMF peer that BENJI now competes with, with Apollo ACRED for the second-tier RWA segmentation, and with stablecoin issuer 2025-2026 consolidation for why tokenized funds and stablecoins are increasingly reco",
   "headings": [

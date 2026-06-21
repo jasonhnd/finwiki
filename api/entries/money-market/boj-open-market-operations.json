@@ -36,7 +36,13 @@
       "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b31.htm",
       "https://www.boj.or.jp/en/paym/market/",
       "https://www.boj.or.jp/research/brp/mor/mor250604.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against JGB repo market in Japan for peer / contrast context and Japan money market for the broader system / regulatory boundary.",
   "headings": [

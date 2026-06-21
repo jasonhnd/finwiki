@@ -48,7 +48,13 @@
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
       "https://www.fsa.go.jp/en/",
       "https://www.moj.go.jp/EN/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan M&A is not one process; it is at least seven distinct deal-type processes that share statutory plumbing but diverge on the buyer type, control mechanism, regulatory screen stack, financing form, and timeline. This matrix lays out inbound (foreign buyer of Japanese target), outbound (Japanese b",
   "headings": [

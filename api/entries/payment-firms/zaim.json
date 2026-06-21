@@ -34,7 +34,13 @@
       "https://content.zaim.net/",
       "https://content.zaim.net/company/",
       "https://news.kddi.com/kddi/corporate/newsrelease/2022/04/14/6014.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a PFM (Personal Financial Management) app sitting next to the much larger Money Forward ME peer. Read it with the Japan BNPL landscape for adjacent consumer-finance context, the freee / SmartBank sibling household-finance set, and the au フィナンシャル HD co",
   "headings": [

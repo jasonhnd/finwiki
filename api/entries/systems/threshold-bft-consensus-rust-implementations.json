@@ -31,12 +31,13 @@
       "BLS"
     ],
     "status": "candidate",
-    "sources": [
-      "https://github.com/informalsystems/malachite",
-      "https://github.com/informalsystems/quint",
-      "https://tempo.xyz/",
-      "https://arxiv.org/abs/1803.05069"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [

@@ -32,7 +32,13 @@
     "sources": [
       "https://www.jpx.co.jp/jscc/en/company/profile.html",
       "https://www.jpx.co.jp/jscc/en/company/regulatory-status.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities index. Read it with financial instruments business operators japan index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [

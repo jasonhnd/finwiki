@@ -46,7 +46,13 @@
       "Mizuho Lease IR — https://www.mizuho-ls.co.jp/english/",
       "Tokyo Century IR — https://www.tokyocentury.co.jp/en/",
       "Sōgō shōsha IR (aircraft investment disclosures)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese aircraft leasing has two intertwined channels: (1) Japanese operating-lessor platforms (Mitsubishi HC Capital aircraft division, SMFL aircraft, Mizuho Leasing, Tokyo Century via stake in ACG/Aviation Capital Group) holding aircraft on balance sheet and leasing to global airlines, and (2) Ja",
   "headings": [

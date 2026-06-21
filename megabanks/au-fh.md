@@ -16,6 +16,10 @@ sources:
   - "KDDI 適時開示『auフィナンシャルホールディングス株式会社の東京証券取引所への株式上場準備の開始について』(2026-05-12)"
   - "auじぶん銀行 公式プレスリリース：預金残高5兆円突破 (2025-08-06)・預金口座数700万突破 (2025-09-20)"
   - "ライフネット生命保険 IR 株主・株式情報（auフィナンシャルホールディングス 議決権 18.32%・筆頭株主） https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # au フィナンシャルホールディングス (au-FH)

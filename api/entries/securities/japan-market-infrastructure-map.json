@@ -43,7 +43,13 @@
       "https://www.japannext.co.jp/",
       "https://www.odx.co.jp/",
       "https://www.jsda.or.jp/about/gaiyou/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's securities market is a layered infrastructure system: public regulator, self-regulatory bodies, exchange venues, PTS venues, clearing, settlement, securities finance, brokers, custodians, and disclosure rails. A broker page is only one slice of the system.",
   "headings": [

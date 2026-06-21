@@ -29,11 +29,13 @@
       "financial-instruments-act"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/",
-      "https://jvcea.or.jp/member/",
-      "https://elaws.e-gov.go.jp/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2020-05 施行の改正金融商品取引業（金商法）により、暗号資産デリバティブ取引業が「金融商品取引業」の対象に編入された。これにより日本の暗号資産業界は spot 取引（資金決済法 = 暗号資産交換業者登録） と デリバ取引（金商法 = 第一種金融商品取引業者登録） の 二本立て規制 に分離された。同じ「暗号資産」を扱っても、現物受渡しの有無で適用法令と登録ルートが異なる点が他国比較でも特徴的。詳細は 日本金融規制 体系を参照。",
   "headings": [

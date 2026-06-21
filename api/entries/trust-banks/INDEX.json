@@ -32,7 +32,13 @@
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "https://www.shintaku-kyokai.or.jp/trust/trustbanks/",
       "各 FG 公式 IR 資料・有価証券報告書"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
   "headings": [
@@ -163,6 +169,6 @@
     "nonspace_chars": 3968,
     "word_like_tokens": 604,
     "inbound_wikilinks_count": 51,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

@@ -36,7 +36,13 @@
       "https://www.aizawa.co.jp/company/history/",
       "https://www.aizawa-sg.co.jp/company/outline.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against アイザワ証券グループ for parent holding context, 岩井コスモ証券 / 東海東京証券 / 岡三証券グループ for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
   "headings": [

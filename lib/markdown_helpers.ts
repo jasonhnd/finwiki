@@ -7,6 +7,7 @@ export const GITHUB_BLOB = "https://github.com/jasonhnd/finwiki/blob/main/";
 export const CONTROL_DOCS = new Set([
   "README.md",
   "CHANGELOG.md",
+  "CONTRIBUTING.md",
   "AGENTS.md",
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",
@@ -44,9 +45,78 @@ export interface Entry {
   wikilinks: string[];
   resolved_wikilinks: string[];
   markdown_links: string[];
+  entity_node: EntityNode | null;
+  entity_edges: EntityEdgeDeclaration[];
   nonspace_chars: number;
   word_like_tokens: number;
   last_modified: string;
+}
+
+export const ENTITY_NODE_KINDS = [
+  "financial_group",
+  "operating_company",
+  "regulator",
+  "sro",
+  "exchange",
+  "licence",
+  "branch",
+  "product_operator",
+  "public_infrastructure",
+] as const;
+
+export const ENTITY_NODE_SCOPES = [
+  "japan_core",
+  "japan_branch",
+  "global_parent_context",
+] as const;
+
+export const ENTITY_NODE_STATUSES = [
+  "anchor",
+  "mirror_member",
+  "relation_only",
+] as const;
+
+export const CONFIDENCE_VALUES = [
+  "impossible",
+  "unlikely",
+  "possible",
+  "likely",
+  "certain",
+] as const;
+
+export const DECLARED_ENTITY_EDGE_RELATIONS = [
+  "subsidiary_of",
+  "regulated_by",
+  "registered_as",
+  "holds_license",
+  "member_of_sro",
+  "predecessor_of",
+  "successor_of",
+] as const;
+
+export const ENTITY_EDGE_INVERSES: Record<string, string> = {
+  subsidiary_of: "parent_of",
+  regulated_by: "regulates",
+  registered_as: "has_registered_operator",
+  holds_license: "licence_held_by",
+  member_of_sro: "has_sro_member",
+  predecessor_of: "successor_of",
+  successor_of: "predecessor_of",
+};
+
+export interface EntityNode {
+  kind: string;
+  scope: string;
+  status: string;
+}
+
+export interface EntityEdgeDeclaration {
+  relation: string;
+  target: string;
+  evidence: string;
+  source: string;
+  as_of: string;
+  confidence: string;
 }
 
 export interface DomainRecord {
@@ -162,42 +232,138 @@ function stripEdgeQuotes(value: string): string {
   return value.replace(/^["']/, "").replace(/["']$/, "");
 }
 
+function isPlainObject(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function parseInlineList(value: string): string[] | null {
+  if (!value.startsWith("[") || !value.endsWith("]")) return null;
+  return value
+    .slice(1, -1)
+    .split(",")
+    .map((item) => stripEdgeQuotes(item.trim()))
+    .filter(Boolean);
+}
+
+function parseFrontmatterScalar(value: string): string | string[] {
+  const inlineList = parseInlineList(value);
+  if (inlineList) return inlineList;
+  return stripEdgeQuotes(value);
+}
+
+function splitYamlPair(value: string): { key: string; value: string } | null {
+  const separator = value.indexOf(":");
+  if (separator === -1) return null;
+  const key = value.slice(0, separator).trim();
+  if (!/^[A-Za-z0-9_-]+$/.test(key)) return null;
+  return { key, value: value.slice(separator + 1).trim() };
+}
+
 export function extractFrontmatter(text: string): Record<string, unknown> {
   const bounds = frontmatterBounds(text);
   if (!bounds) return {};
   const block = bounds.block;
   const result: Record<string, unknown> = {};
-  let currentList: string[] | null = null;
+  let currentKey: string | null = null;
+  let currentList: unknown[] | null = null;
+  let currentObject: Record<string, unknown> | null = null;
 
   for (const raw of block.split("\n")) {
     if (!raw.trim()) continue;
-    if (raw.startsWith("  - ") || raw.startsWith("- ")) {
-      const value = stripEdgeQuotes(raw.replace(/^[\s-]+/, "").trim());
-      if (currentList) currentList.push(value);
-      continue;
-    }
-    const separator = raw.indexOf(":");
-    if (separator === -1) continue;
-    const key = raw.slice(0, separator).trim();
-    const value = raw.slice(separator + 1).trim();
-    if (!value) {
-      currentList = [];
-      result[key] = currentList;
-      continue;
-    }
-    if (value.startsWith("[") && value.endsWith("]")) {
-      result[key] = value
-        .slice(1, -1)
-        .split(",")
-        .map((item) => stripEdgeQuotes(item.trim()))
-        .filter(Boolean);
+    const indent = raw.match(/^\s*/)?.[0].length ?? 0;
+    const trimmed = raw.trim();
+
+    if (indent === 0) {
+      const pair = splitYamlPair(trimmed);
+      if (!pair) continue;
+      currentKey = pair.key;
       currentList = null;
+      currentObject = null;
+
+      if (!pair.value) {
+        const list: unknown[] = [];
+        result[pair.key] = list;
+        currentList = list;
+        continue;
+      }
+      result[pair.key] = parseFrontmatterScalar(pair.value);
+      currentKey = null;
       continue;
     }
-    result[key] = stripEdgeQuotes(value);
+
+    if (!currentKey) continue;
+
+    if (trimmed.startsWith("- ")) {
+      const item = trimmed.slice(2).trim();
+      const list = Array.isArray(result[currentKey]) ? (result[currentKey] as unknown[]) : [];
+      result[currentKey] = list;
+      currentList = list;
+      const pair = splitYamlPair(item);
+      if (pair) {
+        const object: Record<string, unknown> = {};
+        object[pair.key] = parseFrontmatterScalar(pair.value);
+        list.push(object);
+        currentObject = object;
+        continue;
+      }
+      list.push(parseFrontmatterScalar(item));
+      currentObject = null;
+      continue;
+    }
+
+    const nestedPair = splitYamlPair(trimmed);
+    if (!nestedPair) continue;
+
+    if (currentObject && indent >= 4) {
+      currentObject[nestedPair.key] = parseFrontmatterScalar(nestedPair.value);
+      continue;
+    }
+
+    const object = isPlainObject(result[currentKey]) ? result[currentKey] as Record<string, unknown> : {};
+    object[nestedPair.key] = parseFrontmatterScalar(nestedPair.value);
+    result[currentKey] = object;
     currentList = null;
+    currentObject = null;
   }
   return result;
+}
+
+function frontmatterString(value: unknown): string {
+  return typeof value === "string" ? value.trim() : "";
+}
+
+export function extractEntityNode(frontmatter: Record<string, unknown>): EntityNode | null {
+  const raw = frontmatter.entity_node;
+  if (!isPlainObject(raw)) return null;
+  const node = {
+    kind: frontmatterString(raw.kind),
+    scope: frontmatterString(raw.scope),
+    status: frontmatterString(raw.status),
+  };
+  if (!node.kind && !node.scope && !node.status) return null;
+  return node;
+}
+
+export function extractEntityEdges(frontmatter: Record<string, unknown>): EntityEdgeDeclaration[] {
+  const raw = frontmatter.entity_edges;
+  if (!Array.isArray(raw)) return [];
+  const edges: EntityEdgeDeclaration[] = [];
+  for (const item of raw) {
+    if (!isPlainObject(item)) continue;
+    edges.push({
+      relation: frontmatterString(item.relation),
+      target: normalizeEntityPath(frontmatterString(item.target)),
+      evidence: frontmatterString(item.evidence),
+      source: frontmatterString(item.source),
+      as_of: frontmatterString(item.as_of),
+      confidence: frontmatterString(item.confidence),
+    });
+  }
+  return edges;
+}
+
+export function normalizeEntityPath(value: string): string {
+  return value.trim().replace(/\.md$/, "");
 }
 
 export function stripInlineMarkdown(text: string): string {
@@ -353,6 +519,8 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
   const frontmatter = extractFrontmatter(text);
   const canonicalAnchor =
     typeof frontmatter.canonical_anchor === "string" ? frontmatter.canonical_anchor.trim() : "";
+  const entityNode = extractEntityNode(frontmatter);
+  const entityEdges = extractEntityEdges(frontmatter);
   return {
     source_path: relPath,
     url: publicUrlFor(relPath),
@@ -368,6 +536,8 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
     // route set so emitted URLs never 404 (see resolveWikilinkRoutes).
     resolved_wikilinks: [],
     markdown_links: extractMarkdownLinks(text),
+    entity_node: entityNode,
+    entity_edges: entityEdges,
     nonspace_chars: text.replace(/\s+/g, "").length,
     word_like_tokens: countWordLikeTokens(text),
     last_modified: await lastModifiedFor(filePath),

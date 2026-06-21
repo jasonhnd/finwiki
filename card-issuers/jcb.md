@@ -12,6 +12,17 @@ status: active
 sources:
   - "Wikipedia: 株式会社ジェーシービー (公開情報、2026-05-19 参照)"
   - JCB 公式コーポレートサイト 会社概要 (公開情報)
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: card-issuers/installment-sales-act-2020-amendment
+    evidence: credit_purchase_registration_context
+    source: "https://www.meti.go.jp/policy/economy/consumer/credit/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 株式会社ジェーシービー (JCB)

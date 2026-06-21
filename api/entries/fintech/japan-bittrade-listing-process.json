@@ -26,12 +26,13 @@
       "needs-verification"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.bittrade.co.jp/",
-      "https://jvcea.or.jp/about/list/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://www.bittrade.co.jp/news/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": "ユーザー註「必ずしも正確とは限らず、継続的にトラッキング要」· 実案件で逐次検証",
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [

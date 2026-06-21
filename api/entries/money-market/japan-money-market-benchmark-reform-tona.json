@@ -40,7 +40,13 @@
       "https://www.boj.or.jp/en/finsys/libor/index.htm",
       "https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm",
       "https://www.fsa.go.jp/en/news/2024/20240306/20240306.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against TIBOR for the surviving term benchmark and Call market structure for the cash market that TONA is computed from; the derivative-pricing expression is the OIS TONA curve.",
   "headings": [

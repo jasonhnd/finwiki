@@ -41,7 +41,13 @@
       "https://etherscan.io/verifiedSignatures",
       "https://owasp.org/www-project-top-ten/",
       "https://snyk.io/learn/typosquatting-attacks/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes investigation / forensic techniques for crypto and software-supply-chain incidents: smart-contract bytecode verification, identity-anchor chains across multiple sources, recovery of de-published content, package supply-chain attack patterns, and a structured audit framework for fo",
   "headings": [

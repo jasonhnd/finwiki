@@ -34,7 +34,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.tottoribank.co.jp/torigin/info/profile/index.html",
       "https://ja.wikipedia.org/wiki/鳥取銀行"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 山陰合同銀行 for the same-region peer / contrast (the larger 山陰 regional bank) and トマト銀行 for a neighbouring second-regional bank, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [

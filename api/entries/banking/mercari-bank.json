@@ -35,7 +35,13 @@
       "https://www.minna-no-ginko.com/branches/baas-mercari/?id=program",
       "https://help.jp.mercari.com/guide/articles/2074/",
       "https://static.jp.mercari.com/electronic_payment_agency_business"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index. Read it against メルカリバンク license stack for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
   "headings": [

@@ -42,7 +42,13 @@
       "https://www.jbatibor.or.jp/english/news/tibor_18.html",
       "https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm",
       "https://www.fsa.go.jp/en/news/2024/20240306/20240306.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under money-market index. Read it against Japan money-market benchmark reform for peer / contrast context with the TONA risk-free rate, Call market structure for the actual transacted overnight market, and the Japanese Bankers Association for the administering institution.",
   "headings": [

@@ -35,7 +35,13 @@
     "sources": [
       "https://www.visa.co.jp/",
       "https://www.visa.co.jp/about-visa/our_business/visa-japan.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (Visa は global pure-scheme、JCB は Japan-origin hybrid) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
   "headings": [

@@ -38,7 +38,13 @@
       "https://jp.statebank/about-sbi-japan",
       "https://jp.statebank/contact-us",
       "https://www.ibajapan.org/who-we-are/our-members/commercial-bank/state-bank-india"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "State Bank of India Japan is the main India-Japan banking-corridor page in the foreign-bank branch registry. Read it with Bank of India Japan, JBIC, cross-border M&A Japan, and foreign-bank agency route.",
   "headings": [

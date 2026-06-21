@@ -62,7 +62,13 @@
       "https://www.jftc.go.jp/houdou/pressrelease/2022/apr/220408.html",
       "https://www.saisoncard.co.jp/company/persona/",
       "https://www.cr.mufg.jp/corporate/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payments index as the four-brand cross-comparison page that pairs with JCB three-party operating model for the JCB-specific deep dive, Japan card issuer / acquirer / processor split for the role-separation framework, Japan interchange and merchant fee stack for the fee-flow con",
   "headings": [

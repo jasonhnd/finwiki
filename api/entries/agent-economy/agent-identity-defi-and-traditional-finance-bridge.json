@@ -41,23 +41,13 @@
       "regulation"
     ],
     "status": "active",
-    "sources": [
-      "https://www.skyfire.xyz/",
-      "https://docs.skyfire.xyz/",
-      "https://litprotocol.com/",
-      "https://developer.litprotocol.com/",
-      "https://eips.ethereum.org/EIPS/eip-4337",
-      "https://eips.ethereum.org/EIPS/eip-7702",
-      "https://fidoalliance.org/",
-      "https://www.w3.org/TR/webauthn/",
-      "https://www.iso.org/standard/69084.html",
-      "https://digital-strategy.ec.europa.eu/en/policies/eudi-wallet",
-      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
-      "https://www.congress.gov/bill/118th-congress/house-bill/4763",
-      "https://usa.visa.com/visa-everywhere/innovation/agentic-commerce.html",
-      "https://www.mastercard.com/news/press/",
-      "https://standards.iteh.ai/catalog/standards/iso/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Agent identity in 2026 sits at the bridge between DeFi-native primitives (smart-contract wallets, on-chain attestations, ERC-4337 / ERC-7702 wallets controlled by Lit PKP threshold keys or session keys) and traditional digital-identity primitives (mDL ISO/IEC 18013-5 mobile driving licence, EU eIDAS",
   "headings": [

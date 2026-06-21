@@ -47,7 +47,13 @@
       "https://www.jbic.go.jp/en/",
       "https://www.nexi.go.jp/en/",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under manufacturing index as the mechanism page behind export-oriented manufacturer finance. The Japanese manufacturer that runs this mechanism most visibly is documented in MHI 輸出金融; Hitachi 産業金融 uses the same ECA stack for rail and energy exports. It is the cross-border sibling of",
   "headings": [

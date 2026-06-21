@@ -45,7 +45,13 @@
       "https://www.aozorabank.co.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
-    ]
+    ],
+    "canonical_anchor": "payment-firms/gmo-aozora-net",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay",
   "headings": [

@@ -25,6 +25,10 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON"
   - "https://www.fsa.go.jp/common/law/guide/ins/"
   - "https://laws.e-gov.go.jp/law/407AC0000000105"
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 ---
 
 # General Insurance Association of Japan (Sonpo Kyōkai / 日本損害保険協会)

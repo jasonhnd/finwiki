@@ -37,7 +37,13 @@
       "https://www.nihonjishin.co.jp/",
       "https://www.nihonjishin.co.jp/insurance/system.html",
       "https://www.fsa.go.jp/common/law/guide/ins/05.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain routes insurance-specific concept pages for FinWiki: solvency / ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance, agency / brokerage distribution, n",
   "headings": [

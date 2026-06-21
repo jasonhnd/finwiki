@@ -41,7 +41,13 @@
       "Megabank securities IR (MUFG MS, SMBC Nikko, Mizuho Securities)",
       "Foreign investment bank Japan operations (public disclosures)",
       "FSA structured-products disclosure framework"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A repackaging note (リパッケージ債, \"repack\") is a structured-credit product in which an SPV purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a",
   "headings": [

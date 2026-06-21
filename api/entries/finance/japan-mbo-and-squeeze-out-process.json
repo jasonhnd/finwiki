@@ -40,7 +40,13 @@
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3384/en",
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://www.jpx.co.jp/equities/listing/delisting/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, a",
   "headings": [

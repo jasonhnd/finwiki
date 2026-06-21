@@ -34,6 +34,25 @@
       "https://www.paypay-card.co.jp/company/profile/",
       "https://www.paypay-card.co.jp/company/business/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "subsidiary_of",
+        "target": "megabanks/paypay-fg",
+        "evidence": "group_profile",
+        "source": "public company profile / IR source listed in this page sources",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
@@ -78,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3464,
-    "word_like_tokens": 553,
+    "nonspace_chars": 3705,
+    "word_like_tokens": 593,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-20"
+    "last_modified": "2026-06-21"
   }
 }

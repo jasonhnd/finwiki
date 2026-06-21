@@ -35,7 +35,13 @@
       "https://www.payoneer.com/ja/",
       "https://www.payoneer.com/about/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against Wise Payments Japan and Airwallex Japan for peer / contrast (cross-border business-payment fintech), and against the FSA plus the funds-transfer vs prepaid boundary for the supervisory / system boundary.",
   "headings": [

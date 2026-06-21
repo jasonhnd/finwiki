@@ -38,7 +38,13 @@
       "三井物産 公式 IR / 統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
       "EDINET 有価証券報告書検索"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trading-company-finance INDEX. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under",
   "headings": [

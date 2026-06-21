@@ -39,7 +39,13 @@
       "https://docs.crossmint.com/",
       "https://github.com/crossmint",
       "https://blog.crossmint.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, embedded wallet consolidation for market context, and embedded wallet moat for value-capture framing.",
   "headings": [

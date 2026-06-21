@@ -35,6 +35,33 @@
       "https://business.bofa.com/content/boaml/ja_jp/japan_overview.html?wcmmode=disabled",
       "https://business.bofa.com/content/boaml/ja_jp/japan_overview/location.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/foreign-bank-branch-license-route",
+        "evidence": "foreign_bank_branch_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against ソシエテ・ジェネラル日本 (Societe Generale Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3178,
-    "word_like_tokens": 483,
+    "nonspace_chars": 3600,
+    "word_like_tokens": 550,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

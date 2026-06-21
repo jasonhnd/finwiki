@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.taiyobank.co.jp/about/company/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 宮崎銀行 for the same-prefecture peer / contrast (second vs first regional bank), and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [

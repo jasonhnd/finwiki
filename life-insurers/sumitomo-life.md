@@ -12,6 +12,23 @@ status: active
 sources:
   - "Wikipedia: 住友生命保険 (2026-05-19 抽出)"
   - "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # 住友生命保険相互会社 (Sumitomo Life)

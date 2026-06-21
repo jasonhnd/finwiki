@@ -15,6 +15,10 @@ sources:
   - "ソニー生命 / ソニー損保 / ソニー銀行 公式沿革"
   - "ニッセイ基礎研究所「ソニーのパーシャル・スピンオフ－ソニーフィナンシャルの分離・上場」 https://www.nli-research.co.jp/report/detail/id=83393?site=nli"
   - "SMBC日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」(2025-09-17、2025-10-01 効力発生・再上場 8729 を確認) https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # ソニーフィナンシャルグループ (Sony FG)

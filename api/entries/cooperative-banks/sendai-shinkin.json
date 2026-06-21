@@ -40,7 +40,13 @@
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 七十七銀行（仙台地銀メインプレイヤー）and 仙台銀行（第二地銀）for the Miyagi commercial-bank counterparts, against 札幌信用金庫 for the parallel north-Japan city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金",
   "headings": [

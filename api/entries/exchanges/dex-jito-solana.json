@@ -35,7 +35,13 @@
       "公開情報整理 (Jito Labs MEV-aware validator client 仕様)",
       "公開情報整理 (DefiLlama JitoSOL TVL データ, 2024-2026)",
       "公開情報整理 (JTO airdrop 2023-12 launch event)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana ecosystem context, Raydium / Orca for adjacent DEX peer context, and AMM 設計進化系譜 for the broader system / mechanism boundary.",
   "headings": [

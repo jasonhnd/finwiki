@@ -40,7 +40,13 @@
       "https://www.japannext.co.jp/",
       "https://www.odx.co.jp/",
       "https://www.jpx.co.jp/equities/clearing-settlement/outline/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Best execution in Japan is the control layer behind retail stock-fee competition. A broker's \"zero commission\" message does not by itself explain whether a customer order is routed to Tokyo Stock Exchange, a proprietary trading system (PTS), or another execution path, nor whether price, cost, speed,",
   "headings": [

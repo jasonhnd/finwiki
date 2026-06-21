@@ -21,11 +21,13 @@
       "agent-economy"
     ],
     "status": "confirmed",
-    "sources": [
-      "https://docs.claude.com/claude-code",
-      "https://github.com/anthropics/claude-code",
-      "https://www.anthropic.com/news/claude-code"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it with ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済 for adjacent context and AP2 · Google Agent Payments Protocol 概観 for the broader system boundary.",
   "headings": [

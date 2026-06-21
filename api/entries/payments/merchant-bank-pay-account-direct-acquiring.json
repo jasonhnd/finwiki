@@ -39,7 +39,13 @@
       "https://www.zengin-net.jp/zengin_system/cotra/",
       "https://www.cotra.ne.jp/p2pservice/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Merchant bank-account direct acquiring is the merchant-side reading of Japan account-to-account payment route. Bank Pay and J-Debit can look like ordinary QR / debit acceptance at checkout, but the control surface is different from card acquiring, prepaid wallets, and funds-transfer wallets: the pay",
   "headings": [

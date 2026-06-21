@@ -30,10 +30,13 @@
       "dpt"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.mas.gov.sg/regulation/payments",
-      "https://eservices.mas.gov.sg/fid/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "シンガポールは 2020-01 に PSA (Payment Services Act) を施行し、決済サービスを 7 種に整理した。その中の一つとして DPT (Digital Payment Token) サービスカテゴリが新設され、暗号資産の売買・交換・カストディ等が単一法体系下で規制されることになった。既存の銀行業免許 (Banking Act) や資金移動業免許 (旧 MAS Act ベース) と並列の構造であり、規制当局は MAS (Monetary Authority of Singapore, 金融管理局) が一元担当する。FATF Travel Rule 完全準拠 + AML",
   "headings": [

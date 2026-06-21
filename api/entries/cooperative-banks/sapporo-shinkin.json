@@ -37,7 +37,13 @@
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX. Read it against 北海道銀行 and 北洋銀行 for the prefecture-level commercial-bank counterparts, against 横浜信用金庫 for a comparable other-prefecture city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 a",
   "headings": [

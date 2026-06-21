@@ -41,7 +41,13 @@
       "https://fci.nl/en/about-factoring",
       "https://www.jetro.go.jp/en/",
       "https://www.nexi.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and covers the receivables-finance instruments an exporter uses to get paid now on a later-dated sale. Its same-domain peer is documentary collection vs letter of credit — those are settlement methods (how the buyer pays); forfaiting and factoring are financing meth",
   "headings": [

@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.tr.mufg.jp/ir/about/",
       "https://www.tr.mufg.jp/ippan/about/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trust-banks INDEX (its domain route). Read it against 三井住友信託銀行 (SMTB) and みずほ信託銀行 for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is 三菱UFJ銀行.",
   "headings": [

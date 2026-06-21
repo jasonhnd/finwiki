@@ -17,6 +17,29 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.resonabank.co.jp/about/gaiyo/"
   - "https://www.resona-gr.co.jp/holdings/about/group/"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: holds_license
+    target: financial-licenses/bank-license-and-baas-boundary
+    evidence: banking_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/resona-hd
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # りそな銀行 (Resona Bank)

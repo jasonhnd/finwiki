@@ -21,13 +21,13 @@
       "needs-review"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/en/news/index.html",
-      "https://www.fsa.go.jp/policy/virtual_currency/index.html",
-      "https://www.boj.or.jp/en/about/index.htm",
-      "https://www.paxos.com/pax-gold/",
-      "https://tether.to/en/transparency/?tab=xaut"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "スキーム選択は以下の要素で決まる: 1. ターゲット投資家層（リテール vs 機関） 2. 流動性要件（即時上場 vs 長期保有） 3. 規制対応コスト許容度 4. パートナー金融機関の有無",
   "headings": [

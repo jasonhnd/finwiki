@@ -34,6 +34,33 @@
       "https://www.orix.co.jp/grp/en/about/businesses/insurance/",
       "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
       "https://www.orix.co.jp/grp/en/pdf/ir/library/annual_report/AR2025E.pdf"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/insurance-license-and-solvency",
+        "evidence": "insurance_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -87,8 +114,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5165,
-    "word_like_tokens": 747,
+    "nonspace_chars": 5583,
+    "word_like_tokens": 812,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-21"
   }

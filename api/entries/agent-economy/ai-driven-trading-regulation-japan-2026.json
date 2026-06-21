@@ -42,21 +42,13 @@
       "2026-event"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/en/news/2024/index.html",
-      "https://www.fsa.go.jp/en/news/2025/index.html",
-      "https://www.fsa.go.jp/sesc/english/news.html",
-      "https://www.boj.or.jp/en/research/wps_rev/index.htm",
-      "https://www.sec.gov/news/speech",
-      "https://www.sec.gov/oca/staff-accounting-bulletins",
-      "https://www.cftc.gov/PressRoom/SpeechesTestimony",
-      "https://www.fca.org.uk/publications/discussion-papers",
-      "https://www.esma.europa.eu/document",
-      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065",
-      "https://www.bis.org/cpmi/publ/d214.htm",
-      "https://www.mas.gov.sg/regulation/consultations",
-      "https://www.iosco.org/library/pubdocs/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "AI-driven trading regulation in 2026 sits on top of the existing algorithmic-trading regulatory perimeter rather than as a separate \"AI trading rule.\" The Japan FSA + SESC (Securities and Exchange Surveillance Commission) frame is FIEA Article 38-2 algo-trading registration + the FSA AI principles 2",
   "headings": [

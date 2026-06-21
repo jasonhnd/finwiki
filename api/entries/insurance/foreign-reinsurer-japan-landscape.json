@@ -44,7 +44,13 @@
       "https://www.genre.com/about-us/locations/japan",
       "https://www.rgare.com/about-rga/our-company/global-operations/japan",
       "https://www.pacificlifere.com"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's reinsurance market combines two domestic specialists (Toa Re and Japan Earthquake Reinsurance) with a panel of seven foreign reinsurer branches operating under the FSA's 外国損害保険会社等 license category for non-life and the equivalent 外国生命保険会社等 category for life. The foreign panel — Munich Re, Swi",
   "headings": [

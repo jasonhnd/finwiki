@@ -34,7 +34,13 @@
       "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "Ryugaku Anshin Trust official site: https://www.jrst.co.jp/",
       "Ryugaku Anshin Trust company profile: https://www.jrst.co.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/ryugaku-anshin-trust",
   "headings": [

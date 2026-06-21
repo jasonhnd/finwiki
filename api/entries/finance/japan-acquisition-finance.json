@@ -44,7 +44,13 @@
       "https://www.jsla.org/english",
       "https://www.boj.or.jp/en/statistics/dl/loan/index.htm",
       "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits under finance domain. Read it with Japan tender offer process, cross-border M&A Japan, securities domain, and banking domain when a deal crosses public disclosure, securities underwriting, and bank lending.",
   "headings": [

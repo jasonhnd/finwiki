@@ -30,9 +30,13 @@
       "benchmark"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.finma.ch/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "スイスは 2018 年に FINMA (Swiss Financial Market Supervisory Authority) が暗号資産トークン 3 分類ガイドラインを公表 (Payment / Utility / Asset)。既存銀行業法・証券業法・集団投資スキーム法を機能ベースで適用する独自アプローチを採用。新規立法ではなく既存金融法を解釈で対応した点が特徴。2021 年 8 月施行の DLT Act (分散型台帳技術法) により、SIX Digital Exchange (SDX) 等のトークン化証券取引所開設が可能化、世界初の包括的 DLT 立法として国際的注目を浴びた。",
   "headings": [

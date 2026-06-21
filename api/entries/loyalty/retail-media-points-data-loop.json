@@ -41,7 +41,13 @@
       "https://dpoint.docomo.ne.jp/",
       "https://www.ppc.go.jp/",
       "https://paymentsjapan.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the data-loop / ID-graph economics page — the layer that explains why the program directory in Japan points and loyalty landscape exists at all once you look past the discount. It pairs with point exchange network risk (the value-transfer network) and point lia",
   "headings": [

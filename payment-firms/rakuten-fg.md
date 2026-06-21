@@ -21,6 +21,10 @@ sources:
   - "楽天銀行 5838 2025年3月期 決算短信 (2025-05-12)"
   - "楽天銀行 預金 12 兆円突破プレスリリース (2025-01-07)"
   - "Wikipedia: 楽天グループ / 楽天銀行 / 楽天証券 / 楽天カード (2026-05-19 抽出)"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # 楽天グループ金融事業 (Rakuten FG)

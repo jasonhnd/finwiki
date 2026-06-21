@@ -47,7 +47,13 @@
       "https://www.himawari-life.co.jp/",
       "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html",
       "https://www.seiho.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the Ministry of He",
   "headings": [

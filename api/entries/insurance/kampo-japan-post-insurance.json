@@ -45,7 +45,13 @@
       "https://www.japanpost.jp/group/",
       "https://www.fsa.go.jp/news/r1/hoken/20191227-1/01.pdf",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
-    ]
+    ],
+    "canonical_anchor": "life-insurers/kampo-life",
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181) is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / \"Kanpo\") and now a publicly listed subsidiary inside the Japan Post Holdings",
   "headings": [

@@ -39,14 +39,13 @@
       "2025-2026"
     ],
     "status": "active",
-    "sources": [
-      "https://ondo.finance/",
-      "https://ondo.foundation/",
-      "https://defillama.com/protocol/ondo-finance",
-      "https://www.sec.gov/edgar",
-      "https://www.blackrock.com/us/individual/products/422581/",
-      "https://docs.ondo.finance/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Ondo Finance は 2021 年創設、2023 年から単一の tokenized Treasury プロダクト(OUSG)を RWA フルスタックに拡張 = OUSG(適格投資家向けトークン化国債)+ USDY(リテール保有可能 yieldcoin)+ rUSDY(rebasing コンプラ・バリアント)+ Ondo Chain(RWA-optimized L1、2025 公表)。OUSG と BlackRock BUIDL は深い共生関係 — Ondo は OUSG 後端準備金の相当部分を BUIDL に置換、BUIDL の DeFi プロトコル層における最大のリテール分配端として",
   "headings": [

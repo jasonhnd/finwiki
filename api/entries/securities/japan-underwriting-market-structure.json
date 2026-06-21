@@ -39,7 +39,13 @@
       "https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0241.html",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://disclosure2.edinet-fsa.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan underwriting is the capital-raising bridge between issuers, securities firms, investors, exchanges, disclosure systems, and settlement infrastructure. The lead underwriter / lead manager role is not just sales distribution; it also anchors due diligence, listing preparation, pricing, bookbuild",
   "headings": [

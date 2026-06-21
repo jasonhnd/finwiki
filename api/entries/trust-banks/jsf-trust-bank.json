@@ -36,7 +36,13 @@
       "https://www.jsftb.co.jp/company/philosophy.html",
       "https://www.jsf.co.jp/ja/about/outline.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JSF Trust and Banking is the trust-bank subsidiary route for Japan Securities Finance. Read it with margin trading / securities finance, stock lending, Japan market infrastructure, and trust-bank custody map.",
   "headings": [

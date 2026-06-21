@@ -46,7 +46,13 @@
       "https://www.dai-ichi-life-hd.com/en/investor/library/annual_report/",
       "https://www.meijiyasuda.co.jp/english/disclosure/annual-reports/",
       "https://www.sumitomolife.co.jp/english/report/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The \"Japan life big four\" — Nippon Life, Dai-ichi Life, Sumitomo Life, and Meiji Yasuda — share long-duration, yen-denominated savings and protection franchises but differ structurally on five axes that matter for analysis: corporate form (three mutuals plus one listed holdco), ESR composition, fore",
   "headings": [

@@ -40,18 +40,13 @@
       "2026-event"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/policy/cryptoasset_payment/index.html",
-      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
-      "https://jpyc.co.jp/news",
-      "https://progmat.co.jp/news",
-      "https://www.dcjpy.jp/",
-      "https://www.sbivc.co.jp/usdc",
-      "https://www.kddi.com/corporate/newsrelease/",
-      "https://www.docomo.ne.jp/info/news_release/",
-      "https://linecorp.com/en/pr/",
-      "https://about.paypay.ne.jp/press/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "2026 年は日本ステーブルコイン業界の \"PoC → mainnet\" への転換期。JPYC は 2025-Q4 に正式メインネット (Ethereum + Polygon + Astar) でローンチし 2026-05 流通 約 ¥9.2B (~$60M) に到達; Progmat は 2026-Q2 にメガバンク信託主導の USD-anchored 第3号 EPI (Progmat USD) ローンチ予定; DCJPY (DeCurret) は 2026-Q1 に大手商社 + 電力会社 + 流通業のクローズドコンソーシアム本番運用に移行; SBI VC Trade USDC は流通 約",
   "headings": [

@@ -37,7 +37,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://global.ibk.co.kr/en/",
       "https://www.zenginkyo.or.jp/bankdb/bc0498/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [

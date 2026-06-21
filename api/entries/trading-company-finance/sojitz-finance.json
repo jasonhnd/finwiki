@@ -39,7 +39,13 @@
       "双日 公式 IR / 統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
       "EDINET 有価証券報告書検索"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trading-company-finance INDEX. Read it against 丸紅フィナンス (the closest mid-tier 商社系 group-treasury peer) and 伊藤忠ファイナンス (another peer 商社系 internal-treasury arm). For the mid-tier 商社 captive 比較, see 兼松リース (smaller mid-tier 商社系リース). For 5 大商社系の比較 baseline, see 三菱商事FS / 三井物産FS / 住友商事F",
   "headings": [

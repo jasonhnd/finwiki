@@ -40,7 +40,13 @@
       "https://www.jfc.or.jp/",
       "https://laws.e-gov.go.jp/law/418AC0000000049",
       "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-profit INDEX as the grantor-side vehicle — the foundation that gives research/scholarship money — and is the deliberate companion to the grantee-side directory in Japan research grant map 2026 (which maps the public programmes you apply to). Structurally a 助成財団 is almost al",
   "headings": [

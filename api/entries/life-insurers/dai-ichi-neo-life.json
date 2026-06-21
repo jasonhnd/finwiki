@@ -38,7 +38,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://neofirst.co.jp/company/outline.html",
       "https://neofirst.co.jp/about/brand/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). It is a specialty operating company under the listed parent 第一ライフグループ, alongside the core underwriter 第一生命保険 and the bancassurance arm 第一フロンティア生命. Read it against the FSA and 生命保険協会 for the supervisory / industry-body boundary; its produc",
   "headings": [

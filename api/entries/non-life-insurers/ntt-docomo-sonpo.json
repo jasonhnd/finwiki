@@ -35,7 +35,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.docomo-sompo.com/company/profile/",
       "https://www.docomo.ne.jp/info/news_release/2023/10/06_00.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under non-life-insurers INDEX. Read it with NTTドコモ損害保険ホールディングス, SOMPO, 損害保険ジャパン, ヤマップネイチャランス損害保険, and insurance index.",
   "headings": [

@@ -55,7 +55,13 @@
       "https://www.city.yokohama.lg.jp/city-info/zaisei/saimu/",
       "https://www.city.osaka.lg.jp/zaisei/page/0000019527.html",
       "https://www.city.nagoya.jp/zaisei/category/167-2-3-13-0-0-0-0-0-0.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's local-government bond market is not one issuer class. It is layered across four issuer tiers — 47 prefectures (都道府県), 20 政令指定都市 (designated cities), roughly 1,700 ordinary cities / towns / villages (市町村), and special districts / public enterprise authorities — with very different issuance sc",
   "headings": [

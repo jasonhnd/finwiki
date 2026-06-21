@@ -39,7 +39,13 @@
       "https://www.chiginkyo.or.jp/",
       "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250411514045.pdf",
       "https://www.33fg.co.jp/profile/ir_library/disc/tougou2025.3.pdf"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the regional-banks INDEX as the bank-license operating-company anchor for the 三十三 FG holding-company route. Read it against the 百五銀行 in-prefecture rival and the 十六銀行 / あいち銀行 Chubu peer banks, and against the regional-bank consolidation pattern for the broader system / regulator",
   "headings": [

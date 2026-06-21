@@ -47,7 +47,13 @@
       "https://www.itochu.co.jp/ja/news/press/",
       "https://www.itochu.co.jp/ja/ir/",
       "https://www.donki.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under retail index as the third major CVS-finance restructuring deep dive, completing the trichotomy with Seven & i Holdings finance deep dive and Lawson + Mitsubishi 2024 deep tie-up. The FamilyMart case is the 2020 precedent for the trading-house-anchored take-private pattern that",
   "headings": [

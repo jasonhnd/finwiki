@@ -30,18 +30,13 @@
       "delta-log"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://jvcea.or.jp/member/",
-      "https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
-      "https://akasaka.keizai.biz/release/377391/",
-      "https://www.itmedia.co.jp/news/articles/2412/02/news093.html",
-      "https://www.sbigroup.co.jp/news/2025/0226_15274.html",
-      "https://ja.wikipedia.org/wiki/DMM_Bitcoin"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 for the registration framework, JP VASP M&A 史 for entity consolidation context, and FSA 海外無登録警告書制度 for the unregistered foreign-operator side.",
   "headings": [

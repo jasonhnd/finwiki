@@ -39,7 +39,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust be",
   "headings": [

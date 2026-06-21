@@ -29,13 +29,13 @@
       "web3"
     ],
     "status": "active",
-    "sources": [
-      "https://www.amt-law.com/practices/practice-detail/financial-regulation-fintech-blockchain",
-      "https://www.nishimura.com/ja/practices/expertise/blockchain-cryptoasset",
-      "https://www.mhmjapan.com/ja/practices/groups/blockchain-crypto-assets/index.html",
-      "https://www.tmi.gr.jp/services/business/blockchain.html",
-      "https://www.bclplaw.com/en-US/people/index.html"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it against 国内クリプト監査法人ランドスケープ for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [

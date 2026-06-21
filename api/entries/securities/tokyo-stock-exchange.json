@@ -34,7 +34,13 @@
       "https://www.jpx.co.jp/english/corporate/about-jpx/profile/01.html",
       "https://www.jpx.co.jp/corporate/about-jpx/profile/01.html",
       "https://www.jpx.co.jp/english/listing/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under securities index. Read it against 大阪取引所 (OSE) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.",
   "headings": [

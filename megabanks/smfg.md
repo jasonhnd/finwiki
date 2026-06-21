@@ -26,6 +26,10 @@ sources:
   - "SMFG 役員一覧 (2026-05 時点): https://www.smfg.co.jp/company/info/officer.html"
   - "金融庁 業務停止命令・課徴金 2022-10-07 (SMBC日興相場操縦): https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html"
   - "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 ---
 
 # 三井住友 FG (SMFG / SMBC グループ)

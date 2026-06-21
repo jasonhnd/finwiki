@@ -40,7 +40,13 @@
       "豊田通商 公式 IR / 統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
       "EDINET 有価証券報告書検索"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trading-company-finance INDEX. Read it against トヨタファイナンシャルサービス (TFS) (the Toyota-group captive auto-finance holding, distinct from this 商社系 internal-treasury arm) and トヨタファイナンス (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see 三菱商事",
   "headings": [

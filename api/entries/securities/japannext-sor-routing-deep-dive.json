@@ -45,7 +45,13 @@
       "https://www.fsa.go.jp/common/law/guide/kinyushohin/",
       "https://www.fsa.go.jp/policy/kokyakuhoni/kokyakuhoni.html",
       "https://www.jpx.co.jp/english/markets/statistics-equities/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This page sits inside securities index as the venue-mechanics deepening of Japannext and the routing-mechanics deepening of Japan best execution, SOR, and PTS. Read it with PTS liquidity data guide for the data layer, Japan market infrastructure map for where Japannext fits between TSE / OSE and JSC",
   "headings": [

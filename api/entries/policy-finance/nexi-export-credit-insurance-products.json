@@ -46,7 +46,13 @@
       "https://www.nexi.go.jp/en/insurance/oii.html",
       "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html",
       "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the product-side deep dive on NEXI (Nippon Export and Investment Insurance). Read it with Japan project finance stack diagram for how NEXI sits alongside JBIC loans, JOGMEC equity, and megabank commercial debt; with OECD Export Credit Arrangement for the",
   "headings": [

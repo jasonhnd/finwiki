@@ -35,7 +35,13 @@
       "https://atone.be/",
       "https://corp.netprotections.com/",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under the payment-firms INDEX as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regu",
   "headings": [

@@ -33,15 +33,13 @@
       "comparison-matrix"
     ],
     "status": "active",
-    "sources": [
-      "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
-      "https://docs.chain.link/ccip",
-      "https://docs.layerzero.network/v2",
-      "https://docs.hyperlane.xyz/",
-      "https://docs.wormhole.com/",
-      "https://defillama.com/bridges",
-      "https://tokenterminal.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl",
   "headings": [

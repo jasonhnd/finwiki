@@ -43,7 +43,13 @@
       "https://www.nochubank.or.jp/about/features.html",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under cooperative-banks INDEX as the first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its urban-agriculture + 直結方式 (direct-link) bor",
   "headings": [

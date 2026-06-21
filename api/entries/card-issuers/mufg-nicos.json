@@ -34,7 +34,13 @@
       "https://www.cr.mufg.jp/corporate/company/overview/index.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://www.j-credit.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under card-issuers INDEX (its domain route). Read it against 三井住友カード and JCB for megabank-affiliated peer / contrast, and against the FSA plus payments for the supervisory / system boundary. The governing acquiring statute is 割賦販売法 2020 改正.",
   "headings": [

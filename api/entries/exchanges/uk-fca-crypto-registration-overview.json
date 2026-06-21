@@ -30,9 +30,13 @@
       "benchmark"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.fca.org.uk/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は MLR 2017 (Money Laundering Regulations 2017) ベースの AML/CFT 登録のみ で、証券性のあるトークンや規制資産は別 framework (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の phased regulation (段階的規制) が進行中で、現行の AML 中心の枠組みから trading/custody/stable",
   "headings": [

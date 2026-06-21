@@ -61,7 +61,13 @@
       "https://www.citigroup.com/jp/en/about/citi-group/citigroup-global-markets-japan.html",
       "https://www.bofa.com/en-jp/about-us/japan-overview/",
       "https://www.jpmorgan.com/prime-services"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Prime brokerage in Japan is not a single license — it is a wholesale-service stack assembled from a Type I 金商業者 license, stock-borrow / loan capability, margin and repo financing, OTC and listed-derivatives capability, custody / settlement infrastructure, capital-introduction services, and (in many",
   "headings": [

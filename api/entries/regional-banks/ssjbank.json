@@ -32,7 +32,13 @@
       "https://www.zenginkyo.or.jp/bankdb/bc0125/",
       "https://www.77bank.co.jp/",
       "https://sbjbank.co.jp/about_sbj/about/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

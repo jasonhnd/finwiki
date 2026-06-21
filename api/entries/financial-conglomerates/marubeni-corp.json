@@ -43,7 +43,13 @@
       "丸紅 統合報告書 — https://www.marubeni.com/jp/ir/library/annual_report/",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 丸紅)",
       "JPX 銘柄情報 8002 — https://www2.jpx.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) an",
   "headings": [

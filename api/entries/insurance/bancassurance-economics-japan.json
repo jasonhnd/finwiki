@@ -44,7 +44,13 @@
       "https://www.seiho.or.jp/",
       "https://www.zenginkyo.or.jp/",
       "https://www.dai-ichi-frontier.co.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Bancassurance (銀行窓販 / \"ginkō-madohan\") in Japan is the bank-channel sale of life and annuity insurance products to bank deposit customers, structurally enabled by phased FSA deregulation that culminated in the full deregulation of December 2007 lifting the last product-line restrictions. The channel",
   "headings": [

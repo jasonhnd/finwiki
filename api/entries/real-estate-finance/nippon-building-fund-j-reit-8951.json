@@ -43,7 +43,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "NBF's investor profile combines (i) a conservative LTV in the low-to-mid-40% range, (ii) AA-domestic-rating-zone credit that supports tight investment-corporation-bond pricing, (iii) DPU yield at the low end of the J-REIT distribution (reflecting the sponsor + Tokyo CBD office + scale + liquidity pr",
   "headings": [

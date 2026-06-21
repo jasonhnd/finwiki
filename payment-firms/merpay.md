@@ -13,6 +13,29 @@ sources:
   - "https://jp.merpay.com/about/"
   - "https://static.jp.mercari.com/shikin_kessai"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/payment-license-stack
+    evidence: payment_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: payment-firms/mercari-hd
+    evidence: group_profile
+    source: "public company profile / IR source listed in this page sources"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # メルペイ (Merpay)

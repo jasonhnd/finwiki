@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.sendaibank.co.jp/aboutus/outline/company.php"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against きらやか銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [

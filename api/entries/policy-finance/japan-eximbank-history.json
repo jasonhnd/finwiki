@@ -37,7 +37,13 @@
       "https://www.jbic.go.jp/en/about/organization.html",
       "https://www.jbic.go.jp/en/about/history.html",
       "https://www.jica.go.jp/english/about/basic/oda/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC)",
   "headings": [

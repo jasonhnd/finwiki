@@ -37,7 +37,13 @@
       "https://www.mizuho-ls.co.jp/",
       "https://www.mizuho-fg.co.jp/",
       "https://www.leasing.or.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under leasing-firms INDEX. Read it against Mizuho Leasing / みずほリース (the surviving successor entity post-2019 merger) and banking index for the broader system / regulatory boundary. As a Mizuho-side historical entity, read it together with Mizuho FG for parent-group context.",
   "headings": [

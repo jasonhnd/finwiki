@@ -36,7 +36,13 @@
       "https://www.jcr.co.jp/en/",
       "https://www.r-i.co.jp/en/",
       "https://www.jsda.or.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan CMBS is split between single-borrower (single-asset or small-pool, one sponsor) and conduit (multiple uncorrelated borrowers, larger pool) structures. The market peaked in 2006-2007, was devastated by the 2008-2010 global financial crisis with many defaults at maturity rollover, and stayed lar",
   "headings": [

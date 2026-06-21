@@ -46,7 +46,13 @@
       "https://www.r-i.co.jp/en/",
       "https://www.ares.or.jp/en/",
       "Act on Securitization of Assets (資産流動化法) — public legislative text"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "For FinWiki, TMK is the regulated-statutory-SPV node in the Japan securitization landscape. The choice between TMK and GK-TK is the foundational securitization-vehicle-choice decision for arrangers — TMK for public-bond issuance, regulatory-disclosure deals, listed CMBS, complex structures; GK-TK fo",
   "headings": [

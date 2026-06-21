@@ -37,7 +37,13 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
       "https://www.bni.co.id/en-us/help-support/global-networks/bni-tokyo",
       "https://www.ptbni.co.jp/bni/company/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Bank Negara Indonesia Japan is the Indonesia-Japan corridor route in the foreign-bank branch registry. Read it with Bangkok Bank Japan, DBS Japan, UOB Japan, and payments domain for remittance context.",
   "headings": [

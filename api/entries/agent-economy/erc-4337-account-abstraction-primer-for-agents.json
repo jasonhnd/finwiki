@@ -37,13 +37,13 @@
       "session-key"
     ],
     "status": "active",
-    "sources": [
-      "https://eips.ethereum.org/EIPS/eip-4337",
-      "https://www.erc4337.io/",
-      "https://ethresear.ch/t/erc-4337-account-abstraction-without-ethereum-protocol-changes/8742",
-      "https://docs.privy.io/",
-      "https://docs.cdp.coinbase.com/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "ERC-4337 is the application-layer account-abstraction standard that lets an Ethereum address be controlled by arbitrary code instead of a single secp256k1 key. For AI agents, that is the difference between \"the agent has to be given the user's seed phrase\" (unsafe, irrevocable) and \"the agent is a s",
   "headings": [

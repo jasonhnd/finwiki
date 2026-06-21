@@ -56,7 +56,13 @@
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
       "https://paymentsjapan.or.jp/category/publications/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's merchant PSP (Payment Service Provider) market is more fragmented and more layered than the consumer-visible cashless landscape suggests. The market splits along at least four dimensions — (a) traditional card-gateway PSPs (GMO Payment Gateway, SB Payment Service, DG Financial Technology, GM",
   "headings": [

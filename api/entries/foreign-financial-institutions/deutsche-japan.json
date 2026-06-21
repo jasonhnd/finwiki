@@ -34,6 +34,33 @@
       "Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出)",
       "Deutsche Bank AG 公式日本サイト",
       "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/foreign-bank-branch-license-route",
+        "evidence": "foreign_bank_branch_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -83,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4760,
-    "word_like_tokens": 747,
+    "nonspace_chars": 5182,
+    "word_like_tokens": 814,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

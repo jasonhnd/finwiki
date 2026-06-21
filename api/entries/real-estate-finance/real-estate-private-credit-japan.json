@@ -44,7 +44,13 @@
       "https://www.tr.mufg.jp/english/ir/",
       "https://www.smtb.jp/english/investors",
       "https://www.mof.go.jp/english/policy/financial_system/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan real-estate private credit is a layered non-bank financing market sitting alongside bank CRE lending. The market has two distinct deployment routes: foreign general-partner (GP) entrants (Blackstone, KKR, Apollo, Brookfield, and others) running cross-border real-estate-debt strategies into Jap",
   "headings": [

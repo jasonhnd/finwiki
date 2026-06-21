@@ -41,7 +41,13 @@
       "https://www.fsa.go.jp/en/news/2013/20130423.html",
       "https://www.fsa.go.jp/access/25/123a.html",
       "https://www.jsf.co.jp/en/business/security-finance.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan short selling sits on three connected control surfaces: legal short-selling rules, stock-borrow / securities-finance availability, and exchange / broker issue-level restrictions. Do not treat short interest, JSF loan balance, margin selling, and securities lending as one number.",
   "headings": [

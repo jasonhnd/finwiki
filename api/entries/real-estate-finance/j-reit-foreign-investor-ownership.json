@@ -41,7 +41,13 @@
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.fsa.go.jp/en/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Foreign investors hold approximately one-quarter to one-third of total J-REIT investment units outstanding by value, with weekly flows publicly trackable on the JPX investor-type statistics for J-REIT trading. The foreign-investor base is structurally three-pronged: (1) global REIT specialist funds",
   "headings": [

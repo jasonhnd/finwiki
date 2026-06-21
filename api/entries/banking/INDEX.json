@@ -46,7 +46,13 @@
       "https://baas.minna-no-ginko.com/",
       "https://www.netbk.co.jp/contents/neobank/",
       "https://www.fsa.go.jp/common/shinsei/dendai/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "banking/ contains 39 entries (excluding INDEX, 40 total) about Japanese net banks, BaaS, quick deposit, cooperative banking, JA Bank system, JF Marine Bank system, cooperative-finance registries, trust-bank / custody infrastructure, regional bank API partnerships, regional bank structure, and foreig",
   "headings": [

@@ -36,7 +36,13 @@
       "https://www.seiho.or.jp/member/list/",
       "https://www.ca-life.jp/about/outline.html",
       "https://www.ca-life.jp/about/group.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under life-insurers INDEX (its domain route). Read it against カーディフ生命保険 and PGF生命 for the foreign-affiliated bancassurance peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / industry-body boundary. The bancassurance economics it operates inside are mapped in banca",
   "headings": [

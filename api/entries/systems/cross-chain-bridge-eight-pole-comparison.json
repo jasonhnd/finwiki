@@ -38,22 +38,13 @@
       "xcm"
     ],
     "status": "active",
-    "sources": [
-      "https://ibc.cosmos.network/",
-      "https://github.com/cosmos/ibc",
-      "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
-      "https://docs.chain.link/ccip",
-      "https://docs.wormhole.com/",
-      "https://docs.hyperlane.xyz/",
-      "https://docs.layerzero.network/v2",
-      "https://docs.axelar.dev/",
-      "https://wiki.polkadot.network/",
-      "https://github.com/paritytech/xcm-format",
-      "https://defillama.com/bridges",
-      "https://l2beat.com/bridges/summary",
-      "https://rekt.news/leaderboard/",
-      "https://defiyield.app/rekt-database"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under systems index. Read it against bridge security + insurance matrix for the security forensics view, cross-chain five-pole comparison matrix for the general 9-axis comparison, cross-chain four poles overview for the architecture taxonomy, and selection decision tree for which tru",
   "headings": [

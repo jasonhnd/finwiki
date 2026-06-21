@@ -38,20 +38,13 @@
       "mev"
     ],
     "status": "active",
-    "sources": [
-      "https://defillama.com/derivatives",
-      "https://defillama.com/chains",
-      "https://app.hyperliquid.xyz/",
-      "https://dydx.exchange/",
-      "https://gmx.io/",
-      "https://vertexprotocol.com/",
-      "https://drift.trade/",
-      "https://synthetix.io/",
-      "https://kwenta.io/",
-      "https://aark.digital/",
-      "https://www.aevo.xyz/",
-      "https://pro.apex.exchange/"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Perpetual-futures DEXs sit on three structurally distinct liquidity models — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into \"all perp DEXs\" will misread fe",
   "headings": [

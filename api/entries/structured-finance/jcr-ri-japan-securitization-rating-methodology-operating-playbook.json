@@ -44,7 +44,13 @@
       "FSA designated rating agency — https://www.fsa.go.jp/en/",
       "JSDA — https://www.jsda.or.jp/en/",
       "ASF Japan — https://www.asf-japan.gr.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "JCR (株式会社日本格付研究所) and R&I (格付投資情報センター) are the two FSA-designated domestic credit rating agencies dominating Japan structured finance. Their operating methodology for ABS / RMBS / CMBS / consumer / card / lease ratings follows a four-step playbook: (1) asset-class-specific stressed default rate (SDR",
   "headings": [

@@ -37,7 +37,13 @@
       "公開情報整理 (CoinPost / 仮想通貨 Watch 報道、2019-07 BITPoint ハッキング事案)",
       "公開情報整理 (SBI VC トレード × ビットポイントジャパン合併プレスリリース 2026-01-30)",
       "公開情報整理 (FSA 暗号資産交換業者登録一覧、令和8年4月1日 snapshot)"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under exchanges index. Read it with SBI VC トレード株式会社（吸収合併存続会社）for the absorption context, JP VASP M&A コンソリデーション史 for industry context, and FSA 業務改善命令履歴 for regulatory action context.",
   "headings": [

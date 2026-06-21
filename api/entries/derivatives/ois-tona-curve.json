@@ -43,7 +43,13 @@
       "https://www.jscc.co.jp/en/",
       "https://www.fsa.go.jp/en/",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "A JPY overnight indexed swap (OIS) is an OTC interest-rate derivative in which one party pays a fixed rate over a defined tenor and the counterparty pays the geometric (compounded) average of the daily Tokyo Overnight Average Rate (TONA) over the same period. TONA is the BoJ-published volume-weighte",
   "headings": [

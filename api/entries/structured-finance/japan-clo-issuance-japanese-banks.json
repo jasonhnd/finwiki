@@ -43,7 +43,13 @@
       "FSA bank supervision disclosures",
       "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
       "BOJ Financial System Report"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese banks — led by Norinchukin, with Japan Post Bank and a tier of regional banks behind it — became the world's single largest holder of US broadly-syndicated-loan (BSL) CLOs over the 2010s, drawn by the rate pickup over yen JGBs and the perceived AAA / AA security of the senior tranches. The",
   "headings": [

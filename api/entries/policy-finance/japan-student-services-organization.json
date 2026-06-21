@@ -44,7 +44,13 @@
       "https://www.studyinjapan.go.jp/en/about/outline.html",
       "https://www.mext.go.jp/a_menu/koutou/shougakukin/index.htm",
       "https://www.jasso.go.jp/shogakukin/about/shurui/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under policy-finance index as the education-finance / human-capital node of the Japanese state-finance system. Read it against 日本政策金融公庫 (JFC) for the household-education-loan adjacency that JFC's 国民生活事業 教育一般貸付 product overlaps with on the household side; with JFC 国民生活事業 for the opera",
   "headings": [

@@ -16,6 +16,23 @@ sources:
   - "https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html"
   - "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/overview.html"
   - "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/strategies_by_business.html"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: holds_license
+    target: financial-licenses/insurance-license-and-solvency
+    evidence: insurance_license_context
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # ライフネット生命保険 (LifeNet Insurance)

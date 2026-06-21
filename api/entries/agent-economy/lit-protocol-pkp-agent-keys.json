@@ -39,7 +39,13 @@
       "https://developer.litprotocol.com/",
       "https://github.com/LIT-Protocol",
       "https://spark.litprotocol.com/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, ERC-7715 wallet permissions for the policy / scope layer, and threshold BFT for the underlying cryptography family.",
   "headings": [

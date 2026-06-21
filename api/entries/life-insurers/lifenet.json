@@ -36,6 +36,33 @@
       "https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html",
       "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/overview.html",
       "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/strategies_by_business.html"
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": [
+      {
+        "relation": "holds_license",
+        "target": "financial-licenses/insurance-license-and-solvency",
+        "evidence": "insurance_license_context",
+        "source": "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      },
+      {
+        "relation": "regulated_by",
+        "target": "financial-regulators/fsa",
+        "evidence": "supervisory_authority",
+        "source": "https://www.fsa.go.jp/",
+        "as_of": "2026-06-21",
+        "confidence": "likely"
+      }
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -81,8 +108,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5597,
-    "word_like_tokens": 865,
+    "nonspace_chars": 6015,
+    "word_like_tokens": 930,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-21"
   }

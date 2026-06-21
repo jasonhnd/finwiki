@@ -41,7 +41,13 @@
       "https://global.rakuten.com/corp/news/update/2022/0719_01.html",
       "https://global.rakuten.com/corp/news/press/2020/0924_01.html",
       "https://corp.rakuten.co.jp/investors/financial/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under loyalty index as the single-operator deep dive for Rakuten Point — the EC-anchored counterpart to the bank-led V Point (SMBC × CCC) case, the telco-led d Point detailed ecosystem, and the wallet-led SoftBank / Yahoo / PayPay unified points. It expands the Rakuten row in Japan p",
   "headings": [

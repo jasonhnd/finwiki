@@ -45,7 +45,13 @@
       "https://www.fsa.go.jp/en/",
       "https://www.bis.org/statistics/derstats.htm",
       "https://www.isda.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japan's interest-rate derivatives ecosystem comprises six principal instrument types — yen IRS, OIS referencing TONA, yen swaptions, JGB futures (10Y standard and mini, 5Y, 20Y), TONA 3-month futures, and asset swaps — together with the clearing, regulatory, and dealer-franchise layer that supports",
   "headings": [

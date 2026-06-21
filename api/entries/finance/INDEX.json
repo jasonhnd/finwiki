@@ -42,7 +42,13 @@
       "https://www.fsa.go.jp/common/law/kaiji/index.html",
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en/1000"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This domain keeps public finance reference pages for capital markets, M&A, acquisition finance, shareholder activism / engagement, tender offers, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting, tax-jurisdiction",
   "headings": [

@@ -43,7 +43,13 @@
       "https://www.jpx.co.jp/english/markets/derivatives/jpx-nikkei400-reit/index.html",
       "https://www.jrei.jp/",
       "https://www.boj.or.jp/en/research/brp/fsr/index.htm"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "The J-REIT dividend yield minus 10Y JGB yield spread is a primary watch metric for Japan real-estate-investor positioning. Historically the spread has sat in a roughly 200 - 400bp band around the TSE REIT Index average dividend yield. NIRP / YCC compression pinned the 10Y JGB near zero and pushed th",
   "headings": [

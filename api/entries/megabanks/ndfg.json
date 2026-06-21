@@ -40,7 +40,17 @@
       "NTT ドコモ「組織の新設など」(2026-05-08) https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html",
       "日経新聞 / Bloomberg / Reuters 公開報道 (2024〜2026)",
       "Wikipedia: NTT ドコモ"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under megabanks INDEX. Read it against 楽天インシュアランスホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -85,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6878,
-    "word_like_tokens": 1233,
+    "nonspace_chars": 6939,
+    "word_like_tokens": 1243,
     "inbound_wikilinks_count": 80,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

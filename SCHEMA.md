@@ -57,6 +57,8 @@ FinWiki entries must work as connected wiki nodes, not as isolated notes with on
 | `challenges` | list | Legacy counter-evidence field. |
 | `related` | list | Cross-references. |
 | `canonical_anchor` | string | Vault-root path to the single source-of-truth anchor entry for a multi-domain entity. **Required on mirror pages** (omit on ordinary single-domain entries and on the anchor itself). A declared anchor must resolve to an existing entry and be cross-linked from the declaring page's core body; the release gate runs the audit with `--fail-on-canonical-drift`, so `canonical_anchor_drift` must stay 0. |
+| `entity_node` | object | Optional typed-entity graph node metadata. Use only after the page is intentionally selected as a graph node. Required keys: `kind`, `scope`, `status`. |
+| `entity_edges` | list of objects | Optional public-source-backed typed relationship declarations. Wave 1 declared relations: `subsidiary_of`, `regulated_by`, `registered_as`, `holds_license`, `member_of_sro`, `predecessor_of`, `successor_of`. Each edge requires `target`, `source`, `as_of`, and `confidence`; `target` is a vault-root path without `.md`. |
 | `note` | string | Caveats or disclaimers. |
 | `type` | string | Usually `wiki` if present. |
 
@@ -100,9 +102,31 @@ evidence_count:
 challenges:
 related:
 canonical_anchor:
+entity_node:
+entity_edges:
 type:
 note:
 ```
+
+## Entity Graph Fields
+
+`entity_node` and `entity_edges` are optional rails for the canonical entity graph. They do not replace `canonical_anchor`; identity mirrors still use `canonical_anchor`, while typed relationships use `entity_edges`.
+
+```yaml
+entity_node:
+  kind: financial_group | operating_company | regulator | sro | exchange | licence | branch | product_operator | public_infrastructure
+  scope: japan_core | japan_branch | global_parent_context
+  status: anchor | mirror_member | relation_only
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/smfg
+    evidence: official_profile
+    source: https://example.com/public-source
+    as_of: 2026-06-21
+    confidence: likely
+```
+
+Run `bun run entity:audit` after adding or changing these fields. The audit validates node enums, declared relation types, target resolution, public-source presence, `as_of`, `confidence`, and self-edge mistakes.
 
 ## Stub Template
 

@@ -36,13 +36,13 @@
       "multi-bank-consortium"
     ],
     "status": "candidate",
-    "sources": [
-      "https://www.partior.com/",
-      "https://www.partior.com/news",
-      "https://www.mas.gov.sg/news/media-releases/2021/partior-launch",
-      "https://www.dbs.com/newsroom/Partior_launch",
-      "https://www.standardchartered.com/news/partior"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index. Read it with Fnality(英米側マルチバンク wholesale)と JPM Onyx(シングルバンク TD)で wholesale-settlement コンソーシアムの三角形を、そして MAS 戦略含意 と合わせて Partior のシンガポール錨地構造を読む。",
   "headings": [

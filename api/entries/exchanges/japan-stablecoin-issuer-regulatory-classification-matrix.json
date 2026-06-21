@@ -36,15 +36,13 @@
       "regulatory-classification"
     ],
     "status": "active",
-    "sources": [
-      "https://www.fsa.go.jp/policy/virtual_currency02/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
-      "https://jvcea.or.jp/member/",
-      "https://progmat.co.jp/news/",
-      "https://www.decurret-dcp.com/pressrelease/",
-      "https://jpyc.co.jp/about",
-      "https://www.sbivc.co.jp/usdc"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "日本の円建て・USD 建て stablecoin (改正資金決済法 2023-06 で「電子決済手段」と明文定義) は、発行体の業態 × 法的根拠 で 5 つの規制カテゴリに分かれる: (1) 資金移動業者型 (EPI 第 2 種) = JPYC 唯一、(2) 信託型 (特定信託受益権・EPI 第 3 種) = Progmat プラットフォーム上で MUFG 信託・SMBC 信託・みずほ信託が発行、(3) 銀行発行型 (預金トークン、EPI 第 1 種隣接) = DCJPY と みんなの銀行 SC、(4) 電子決済手段等取引業 (ECISP) 経由の海外 SC 仲介 = SBI VC Trad",
   "headings": [

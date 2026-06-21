@@ -43,7 +43,13 @@
       "https://www.shintaku-kyokai.or.jp/trust/more/law.html",
       "https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html",
       "https://elaws.e-gov.go.jp/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Japanese trust activity is not controlled by one generic \"trust license.\" The practical stack is assembled from three statutes and several registration routes: the Trust Act (信託法) sets the private-law relationship; the Trust Business Act (信託業法, Act No. 154 of 2004) governs who may act as a trustee a",
   "headings": [

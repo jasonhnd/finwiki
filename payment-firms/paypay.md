@@ -12,6 +12,29 @@ status: active
 sources:
   - "https://about.paypay.ne.jp/about/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/payment-license-stack
+    evidence: payment_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/paypay-fg
+    evidence: group_profile
+    source: "https://about.paypay.ne.jp/about/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # PayPay株式会社

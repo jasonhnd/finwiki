@@ -85,9 +85,9 @@ Suggested order:
 
 Only after Tier 1-2 should the graph include entity-like pages in thematic domains such as `exchanges`, `business`, `manufacturer-finance`, `policy-finance`, or `fintech`. These need stricter review because many are case studies, systems, products, or mechanisms rather than durable entity nodes.
 
-## Future Schema Shape
+## Schema Shape
 
-This issue does not implement schema changes. The recommended later schema is two optional frontmatter fields:
+Issue #36 implements the optional frontmatter rails. The schema uses two optional fields:
 
 ```yaml
 entity_node:
@@ -207,13 +207,13 @@ Human site surface is optional and later: a compact "Entity relationships" panel
 
 ## Tooling And Cost
 
-### Required Later Tooling
+### Implemented Packet 1 Tooling
 
-- `lib/markdown_helpers.ts`: parse `entity_node` and `entity_edges`.
-- `tools/generate_ai_discovery.ts`: emit `entity_nodes[]`, `entity_edges[]`, relation counts, unresolved edge counts, and optional `llms-full.txt` lines.
-- `tools/entity_graph_audit.ts` or an extension to `wiki_link_audit.ts`: validate relation type allowlist, target resolution, no invalid self-edge, public-source presence, and generated inverse consistency.
-- `package.json`: add a read-only script such as `entity:audit`.
-- `SCHEMA.md` and `docs/06-implementation/entry-authoring.md`: document authoring rules after the tooling exists.
+- `lib/markdown_helpers.ts`: parses `entity_node` and `entity_edges`.
+- `tools/generate_ai_discovery.ts`: emits `entity_nodes[]`, `entity_edges[]`, relation counts, unresolved edge counts, and `llms-full.txt` lines.
+- `tools/entity_graph_audit.ts`: validates relation type allowlist, target resolution, invalid self-edge, public-source presence, and required edge metadata; it includes negative fixtures for invalid relation and missing target.
+- `package.json`: exposes `bun run entity:audit`.
+- `SCHEMA.md` and `docs/06-implementation/entry-authoring.md`: document authoring rules.
 
 ### Cost Assessment
 

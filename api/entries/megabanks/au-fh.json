@@ -37,7 +37,17 @@
       "KDDI 適時開示『auフィナンシャルホールディングス株式会社の東京証券取引所への株式上場準備の開始について』(2026-05-12)",
       "auじぶん銀行 公式プレスリリース：預金残高5兆円突破 (2025-08-06)・預金口座数700万突破 (2025-09-20)",
       "ライフネット生命保険 IR 株主・株式情報（auフィナンシャルホールディングス 議決権 18.32%・筆頭株主） https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "This entry sits under megabanks INDEX. Read it against PayPay 金融グループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
@@ -82,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8750,
-    "word_like_tokens": 1730,
+    "nonspace_chars": 8811,
+    "word_like_tokens": 1740,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -41,7 +41,13 @@
       "https://www.jetro.go.jp/en/",
       "https://www.customs.go.jp/english/",
       "https://rcepsec.org/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under trade INDEX and explains the preferential-tariff regime that determines whether a trader pays the MFN duty or a lower (often zero) rate. Its direct same-domain peer is customs, tariff and certificate of origin — that entry covers the general tariff machinery; this one covers th",
   "headings": [

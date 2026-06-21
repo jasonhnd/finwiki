@@ -33,7 +33,13 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "life-insurers/ is a top-level entity domain holding 46 entries (excluding INDEX): the Japanese life-insurance operating companies — direct life insurers plus the life / health reinsurers registered on the FSA life-insurer list and the Life Insurance Association of Japan (生命保険協会) member directory. Th",
   "headings": [

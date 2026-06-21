@@ -38,14 +38,13 @@
       "financial-inclusion"
     ],
     "status": "active",
-    "sources": [
-      "https://www.centralbankbahamas.com/",
-      "https://www.centralbankbahamas.com/payments-system/the-sand-dollar/sand-dollar-faqs",
-      "https://www.sanddollar.bs/",
-      "https://www.imf.org/en/Publications/WP/Issues/2022/06/10/The-Bahamas-Sand-Dollar-CBDC-and-Lessons-Learned-518864",
-      "https://www.bis.org/publ/work1116.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm"
-    ]
+    "sources": [],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under fintech index as the per-jurisdiction case study on the Sand Dollar, the first nation-wide live retail CBDC issued by any central bank globally (Bahamas, 2020-10-20). Read it against Nigeria eNaira (live 2021-10, same Bitt-vendor technology lineage), Jamaica JAM-DEX (live 2022,",
   "headings": [

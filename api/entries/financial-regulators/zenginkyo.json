@@ -47,7 +47,17 @@
       "https://www.zengin-net.jp/",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/common/law/guide/bank/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": {
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor"
+    },
+    "entity_edges": []
   },
   "summary": "Zenginkyō (Japanese Bankers Association, JBA) is Japan's primary industry body for banks — a general incorporated association whose member banks span the megabanks, trust banks, regional banks, second-regional banks, and major foreign-bank branches operating in Japan. It is not the regulator and not",
   "headings": [
@@ -110,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8969,
-    "word_like_tokens": 1370,
+    "nonspace_chars": 9018,
+    "word_like_tokens": 1379,
     "inbound_wikilinks_count": 49,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

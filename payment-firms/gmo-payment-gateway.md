@@ -16,6 +16,23 @@ sources:
   - "GMO Payment Gateway IR FAQ — 稼働店舗数 (https://www.gmo-pg.com/en/ir/faq/)"
   - "GMO-PG × 三井住友カード 次世代決済プラットフォーム基本合意 2019 (https://www.gmo-pg.com/en/news/press/gmo-paymentgateway/2019/0212.html)"
   - "GMO-PG 台湾 Neweb Technologies 業務資本提携 2015 (https://www.gmo-pg.com/corp/newsroom/press/gmo-paymentgateway/2015/0819.html)"
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: registered_as
+    target: financial-licenses/payment-license-stack
+    evidence: payment_registry
+    source: "https://www.fsa.go.jp/menkyo/menkyo.html"
+    as_of: 2026-06-21
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: supervisory_authority
+    source: "https://www.fsa.go.jp/"
+    as_of: 2026-06-21
+    confidence: likely
 ---
 
 # GMO ペイメントゲートウェイ

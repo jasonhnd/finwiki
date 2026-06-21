@@ -39,7 +39,13 @@
       "https://www.jibunbank.co.jp/company/history/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.mufg.jp/profile/group/index.html"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, 三菱UFJ銀行 as parent group co-investor, and banking index for the broader system / regulatory boundary.",
   "headings": [

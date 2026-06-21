@@ -43,7 +43,13 @@
       "https://www.dainichiginkyo.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyo.html",
       "https://www.fsa.go.jp/common/law/guide/bank/"
-    ]
+    ],
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "type": null,
+    "entity_node": null,
+    "entity_edges": []
   },
   "summary": "Dai-ni Chigin-kyō (第二地銀協) is the industry body for Japan's second-tier regional banks — the lineage of former mutual savings banks (相互銀行 / sogō ginkō) that converted to ordinary commercial banks under the 1989-1992 reorganization. Membership is now around the high-30s after decades of consolidation.",
   "headings": [
