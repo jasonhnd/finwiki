@@ -7,6 +7,7 @@ import {
   buildEntry,
   type Entry,
   countWordLikeTokens,
+  ENTITY_EDGE_INVERSES,
   domainFor,
   extractFrontmatter,
   formatJstIsoSeconds,
@@ -40,13 +41,39 @@ interface EntityMember {
 // One entity edge groups a canonical-anchor entry with every mirror page that
 // declares `canonical_anchor:` pointing at it (proposal Phase 2 — exposes the
 // machine-readable entity graph that frontmatter only encoded page-locally).
-interface EntityEdge {
+interface CanonicalEntityEdge {
   anchor: string;
   anchor_url: string;
   anchor_resolves: boolean;
   member_count: number;
   mirror_count: number;
   members: EntityMember[];
+}
+
+interface EntityNodeRecord {
+  anchor: string;
+  url: string;
+  kind: string;
+  scope: string;
+  status: string;
+  domain: string;
+  mirrors: string[];
+}
+
+interface EntityGraphEdgeRecord {
+  source: string;
+  source_url: string;
+  relation: string;
+  target: string;
+  target_url: string;
+  target_resolves: boolean;
+  declared_in: string;
+  evidence: string;
+  source_ref: string;
+  as_of: string;
+  confidence: string;
+  derived: boolean;
+  inverse_of?: string;
 }
 
 interface Model {
@@ -56,7 +83,10 @@ interface Model {
   navigation: Record<string, string>;
   url_rules: Record<string, string>;
   domains: Array<Record<string, unknown>>;
-  entities: EntityEdge[];
+  entities: CanonicalEntityEdge[];
+  entity_nodes: EntityNodeRecord[];
+  entity_edges: EntityGraphEdgeRecord[];
+  entity_relation_counts: Record<string, number>;
   entries: Array<Record<string, unknown>>;
 }
 
@@ -122,7 +152,7 @@ function normalizeAnchor(value: string): string {
 // Each edge lists the canonical anchor page (if it exists in the public corpus)
 // plus every mirror page that points at it. Only multi-page entities (>=1
 // mirror) are emitted — a lone self-pointing page is not an edge.
-function buildEntityEdges(entries: Entry[]): EntityEdge[] {
+function buildEntityEdges(entries: Entry[]): CanonicalEntityEdge[] {
   const bySlug = new Map<string, Entry>();
   for (const entry of entries) {
     bySlug.set(normalizeAnchor(entry.source_path), entry);
@@ -137,7 +167,7 @@ function buildEntityEdges(entries: Entry[]): EntityEdge[] {
     declarersByAnchor.set(anchor, list);
   }
 
-  const edges: EntityEdge[] = [];
+  const edges: CanonicalEntityEdge[] = [];
   for (const anchor of [...declarersByAnchor.keys()].sort()) {
     const declarers = declarersByAnchor.get(anchor) ?? [];
     const canonicalEntry = bySlug.get(anchor) ?? null;
@@ -178,6 +208,102 @@ function buildEntityEdges(entries: Entry[]): EntityEdge[] {
   return edges;
 }
 
+function buildEntityNodes(entries: Entry[]): EntityNodeRecord[] {
+  const mirrorMap = new Map<string, string[]>();
+  for (const entry of entries) {
+    const anchor = normalizeAnchor(entry.canonical_anchor);
+    if (!anchor) continue;
+    const source = normalizeAnchor(entry.source_path);
+    if (source === anchor) continue;
+    const list = mirrorMap.get(anchor) ?? [];
+    list.push(entry.source_path);
+    mirrorMap.set(anchor, list);
+  }
+
+  return entries
+    .filter((entry) => entry.entity_node !== null)
+    .map((entry) => {
+      const anchor = normalizeAnchor(entry.source_path);
+      return {
+        anchor,
+        url: entry.url,
+        kind: String(entry.entity_node?.kind ?? ""),
+        scope: String(entry.entity_node?.scope ?? ""),
+        status: String(entry.entity_node?.status ?? ""),
+        domain: entry.domain,
+        mirrors: (mirrorMap.get(anchor) ?? []).sort(),
+      };
+    })
+    .sort((left, right) => left.anchor.localeCompare(right.anchor));
+}
+
+function buildEntityGraphEdges(entries: Entry[]): EntityGraphEdgeRecord[] {
+  const bySlug = new Map<string, Entry>();
+  for (const entry of entries) {
+    bySlug.set(normalizeAnchor(entry.source_path), entry);
+  }
+
+  const edges: EntityGraphEdgeRecord[] = [];
+  for (const entry of entries) {
+    const source = normalizeAnchor(entry.source_path);
+    for (const declared of entry.entity_edges) {
+      const target = normalizeAnchor(declared.target);
+      const targetEntry = bySlug.get(target) ?? null;
+      const edgeKey = `${source}::${declared.relation}::${target}`;
+      const declaredRecord: EntityGraphEdgeRecord = {
+        source,
+        source_url: entry.url,
+        relation: declared.relation,
+        target,
+        target_url: targetEntry?.url ?? wikilinkToUrl(target),
+        target_resolves: targetEntry !== null,
+        declared_in: entry.source_path,
+        evidence: declared.evidence,
+        source_ref: declared.source,
+        as_of: declared.as_of,
+        confidence: declared.confidence,
+        derived: false,
+      };
+      edges.push(declaredRecord);
+
+      const inverse = ENTITY_EDGE_INVERSES[declared.relation];
+      if (inverse && targetEntry) {
+        edges.push({
+          source: target,
+          source_url: targetEntry.url,
+          relation: inverse,
+          target: source,
+          target_url: entry.url,
+          target_resolves: true,
+          declared_in: entry.source_path,
+          evidence: declared.evidence,
+          source_ref: declared.source,
+          as_of: declared.as_of,
+          confidence: declared.confidence,
+          derived: true,
+          inverse_of: edgeKey,
+        });
+      }
+    }
+  }
+
+  return edges.sort((left, right) => {
+    const sourceCompare = left.source.localeCompare(right.source);
+    if (sourceCompare !== 0) return sourceCompare;
+    const relationCompare = left.relation.localeCompare(right.relation);
+    if (relationCompare !== 0) return relationCompare;
+    return left.target.localeCompare(right.target);
+  });
+}
+
+function relationCounts(edges: EntityGraphEdgeRecord[]): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const edge of edges) {
+    counts[edge.relation] = (counts[edge.relation] ?? 0) + 1;
+  }
+  return Object.fromEntries(Object.entries(counts).sort(([left], [right]) => left.localeCompare(right)));
+}
+
 async function buildModel(options: CliOptions): Promise<Model> {
   const absoluteMarkdownFiles = await iterMarkdownFiles(options.rootDir);
   const relPaths = absoluteMarkdownFiles.map((filePath) => pathPosix.relative(options.rootDir, filePath));
@@ -213,6 +339,9 @@ async function buildModel(options: CliOptions): Promise<Model> {
   const audit = await parseAuditSummary(options.rootDir);
   const domains = await parseDomainMap(options.rootDir);
   const entities = buildEntityEdges(entries);
+  const entityNodes = buildEntityNodes(entries);
+  const entityGraphEdges = buildEntityGraphEdges(entries);
+  const entityRelationCounts = relationCounts(entityGraphEdges);
   const generatedAt = options.generatedAt ?? formatJstIsoSeconds();
 
   return {
@@ -230,6 +359,11 @@ async function buildModel(options: CliOptions): Promise<Model> {
       word_like_tokens: countWordLikeTokens(allText),
       entity_anchors: entities.length,
       entity_mirror_pages: entities.reduce((sum, edge) => sum + edge.mirror_count, 0),
+      entity_nodes: entityNodes.length,
+      entity_edges: entityGraphEdges.length,
+      entity_edges_declared: entityGraphEdges.filter((edge) => !edge.derived).length,
+      entity_edges_derived: entityGraphEdges.filter((edge) => edge.derived).length,
+      entity_edges_unresolved_targets: entityGraphEdges.filter((edge) => !edge.target_resolves).length,
     },
     navigation: {
       human_homepage: siteUrl(),
@@ -250,6 +384,9 @@ async function buildModel(options: CliOptions): Promise<Model> {
     },
     domains,
     entities,
+    entity_nodes: entityNodes,
+    entity_edges: entityGraphEdges,
+    entity_relation_counts: entityRelationCounts,
     entries: entries.map((entry) => ({ ...entry })),
   };
 }
@@ -344,6 +481,8 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     `- Public Markdown pages in machine manifest: ${String(counts.public_markdown_pages)}`,
     `- Topical domains: ${String(counts.topical_domains)}`,
     `- Canonical entity anchors: ${String(counts.entity_anchors)} (linking ${String(counts.entity_mirror_pages)} mirror pages to their source-of-truth entry)`,
+    `- Entity graph nodes: ${String(counts.entity_nodes)}`,
+    `- Entity graph edges: ${String(counts.entity_edges)} (${String(counts.entity_edges_declared)} declared, ${String(counts.entity_edges_derived)} derived)`,
     `- Link-audited entries: ${String(counts.link_audited_entries)}`,
     `- Unresolved link issues: ${String(counts.unresolved_link_issues)}`,
     `- Non-space UTF-8 characters across Markdown: ${Number(counts.nonspace_utf8_chars).toLocaleString("en-US")}`,
@@ -358,6 +497,7 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     "- If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name=\"finwiki:*\">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel=\"alternate\" type=\"application/json\">` to the per-entry API and `<link rel=\"alternate\" type=\"text/markdown\">` to the raw source.",
     "- For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.",
     "- For entity-level identity (which pages describe the same real-world entity from different angles), read the `entities[]` array in `ai-index.json`: each edge groups a canonical anchor (e.g., `megabanks/mufg`) with the mirror pages that declare `canonical_anchor:` pointing at it. `llms-full.txt` also notes the canonical anchor inline on each mirror page.",
+    "- For the typed entity graph, read `entity_nodes[]`, `entity_edges[]`, and `entity_relation_counts` in `ai-index.json`. `entity_edges[]` includes declared public-source-backed facts plus deterministic inverse edges where the inverse is lossless.",
     "- For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` - 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.",
     "",
     "## Domains",
@@ -403,6 +543,19 @@ async function writeLlmsFull(model: Model, outDir: string): Promise<void> {
     lines.push(`- Type: ${String(entry.entry_type)}`);
     if (entry.canonical_anchor) {
       lines.push(`- Canonical anchor: ${String(entry.canonical_anchor)} -> ${wikilinkToUrl(String(entry.canonical_anchor))}`);
+    }
+    if (entry.entity_node) {
+      lines.push(
+        `- Entity node: kind=${String(entry.entity_node.kind)} scope=${String(entry.entity_node.scope)} status=${String(entry.entity_node.status)}`,
+      );
+    }
+    if (Array.isArray(entry.entity_edges) && entry.entity_edges.length > 0) {
+      lines.push("- Entity edges:");
+      for (const edge of entry.entity_edges.slice(0, 12)) {
+        lines.push(
+          `  - ${String(edge.relation)} -> ${String(edge.target)} (source: ${String(edge.source)}, as_of: ${String(edge.as_of)}, confidence: ${String(edge.confidence)})`,
+        );
+      }
     }
     if (entry.summary) lines.push(`- Summary: ${String(entry.summary)}`);
     if (Array.isArray(entry.headings) && entry.headings.length > 0) {
