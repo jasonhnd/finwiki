@@ -1,11 +1,11 @@
 ---
 source: life-insurers/orix-life
-source_hash: fb36094b92bfcaae
+source_hash: 6c37bd25cfb94486
 lang: en
 status: machine
 fidelity: ok
 title: "ORIX Life Insurance"
-translated_at: 2026-06-21T04:10:00.000Z
+translated_at: 2026-06-19T06:09:18.102Z
 ---
 
 # ORIX Life Insurance
@@ -81,15 +81,7 @@ Sales channels:
 
 Rather than a **pure online-only life insurer** like Lifenet [[life-insurers/lifenet]], it is a **hybrid type** of online direct sales + agencies + bancassurance, aiming to combine cost efficiency with sales-channel coverage. CURE-series products have high exposure on comparison sites, securing a top-class presence in the medical-insurance online-sales market (on a general-assessment basis).
 
-## 4. #26 deepening: ORIX group insurance engine and channel mix
-
-ORIX Group's 2025 insurance business page frames the life-insurance operation as a life insurance business that includes medical insurance and death insurance, and lists JPY 3,009.2 billion of assets and JPY 74.4 billion of profits as of 2025-03-31. ORIX Life should therefore be read not merely as an online medical-insurance brand, but as an insurance engine inside [[leasing-firms/orix-corp|ORIX]]'s diversified finance group, with insurance liabilities, invested assets, and retail-finance touchpoints.
-
-The sales model is hybrid. Whereas [[life-insurers/lifenet|Lifenet]] has a strong direct-origin model, ORIX Life combines agencies, bancassurance, and online direct sales to sell medical, cancer, and death-protection products through broad retail channels. The model combines third-sector product exposure in insurance shops, comparison sites, and bank counters with the ORIX brand and group balance sheet. It is not a simple D2C insurer.
-
-For group relationships, this page treats ORIX Life as the insurance segment sitting alongside ORIX's leasing, real-estate, investment, banking, and asset-management portfolio. As a regulated life insurer, it carries solvency, product explanation, bancassurance, IFRS17, and economic-value based solvency issues. At the parent-company level, ORIX's capital allocation question makes the insurance segment's base profits and investment returns important.
-
-## 5. Competitive position
+### Competitive position
 
 | Competitor category | Main players | ORIX Life's differentiation |
 |---|---|---|
@@ -98,7 +90,7 @@ For group relationships, this page treats ORIX Life as the insurance segment sit
 | Third-sector specialists | Aflac [[life-insurers/aflac-japan]] | Appeals to price / simplicity with the medical "CURE" |
 | Foreign | Prudential [[life-insurers/prudential-japan]] / AXA [[life-insurers/axa-japan]] | Low cost via online completion |
 
-## 6. Regulation / policy
+## 5. Regulation / policy
 
 - **Supervisor**: Financial Services Agency (FSA) — Insurance Business Act
 - **Industry body**: Life Insurance Association of Japan (general incorporated association)
@@ -120,9 +112,6 @@ For group relationships, this page treats ORIX Life as the insurance segment sit
 - **Wikipedia: ORIX Life Insurance** (ja.wikipedia.org, extracted 2026-05-19)
 - **ORIX Corporation integrated report / IR disclosures** (2024-2025, insurance-segment disclosure)
 - Life Insurance Association of Japan public materials
-- ORIX Group, "Insurance" (https://www.orix.co.jp/grp/en/about/businesses/insurance/)
-- ORIX Group, "Integrated Report / Annual Report" (https://www.orix.co.jp/grp/en/ir/library/annual_report/)
-- ORIX Group, "Integrated Report 2025" (https://www.orix.co.jp/grp/en/pdf/ir/library/annual_report/AR2025E.pdf)
 
 ---
 

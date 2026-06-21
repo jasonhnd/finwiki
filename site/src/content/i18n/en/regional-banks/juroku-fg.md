@@ -1,11 +1,11 @@
 ---
 source: regional-banks/juroku-fg
-source_hash: 014edbc79bbf2575
+source_hash: 73af20ed9bcfd9f3
 lang: en
 status: machine
 fidelity: ok
 title: "Juroku FG (十六 FG / Juroku Financial Group)"
-translated_at: 2026-06-21T03:00:00.000Z
+translated_at: 2026-06-19T12:43:19.868Z
 ---
 
 # Juroku FG (十六 FG / Juroku Financial Group)
@@ -90,13 +90,6 @@ Juroku FG (holding company, TSE PRIME 7380)
 
 - The ripple effect of the TSMC Kumamoto plant (JASM) is recognized as an expansion of the semiconductor ecosystem across the Chukyo area as a whole
 
-## 4. #26 deepening: single-bank holding company and regional services group
-
-- Juroku FG is a single-core-bank regional financial group created when Juroku Bank shifted to a holding-company structure in 2021-10. Annual Report 2024 traces Juroku Bank back to the 16th National Bank in October 1877 and describes the 2021 establishment of Juroku Financial Group as a move toward a regional comprehensive financial-services group.
-- The business model is best read as "Gifu Prefecture No.1 regional bank + west Aichi expansion + nonbank subsidiaries." Alongside core banking, credit guarantee, leasing, card, regional trading-company, and business-succession functions extend the group from lending into succession, capital investment, and regional DX touchpoints.
-- The absorption of Gifu Bank is a regulatory milestone in Gifu regional-bank consolidation. Read with the FSA's 2012 merger approval, the current Juroku FG page connects the Meiji-era numbered-bank lineage with Heisei / Reiwa regional-bank restructuring.
-- Key comparisons are the in-prefecture two-bank structure with [[regional-banks/ogaki-kyoritsu-bank|Ogaki Kyoritsu Bank]], Chukyo-zone spillover with [[regional-banks/aichi-fg|Aichi FG]], and single-bank HD structures such as [[regional-banks/shizuoka-fg|Shizuoka FG]]. Do not flatten it into the same bucket as multi-bank integration groups; it is a single-core-bank HD adding nonbank services.
-
 ## 5. Regulation / policy
 
 - **Supervision**: Financial Services Agency (FSA) + Tokai Local Finance Bureau
@@ -130,8 +123,6 @@ Juroku FG (holding company, TSE PRIME 7380)
 - **Wikipedia: 十六銀行** (https://ja.wikipedia.org/wiki/十六銀行, extracted 2026-05-19)
 - **FSA: On bank mergers** (the merger approval of Juroku Bank / Gifu Bank, 2012-09-10) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html — Gifu Bank was absorbed and merged **into Juroku Bank** in 2012-09-18 (not Ogaki Kyoritsu Bank)
 - **Wikipedia: 岐阜銀行** https://ja.wikipedia.org/wiki/岐阜銀行 (confirmed 2026-05-29) — 2009  capital-support request → 2010-12-22 wholly-owned subsidiary of Juroku Bank → 2012-09-18 absorbed and merged into Juroku Bank
-- Juroku Financial Group Annual Report 2024: https://www.16fg.co.jp/ir/disclosure/files/annual_report_2024.pdf
-- Juroku Financial Group disclosure library: https://www.16fg.co.jp/ir/disclosure/
 
 ---
 

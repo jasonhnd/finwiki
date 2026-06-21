@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-21T12:55:34+09:00",
+  "generated_at": "2026-06-21T17:08:06+09:00",
   "counts": {
-    "markdown_files": 1570,
-    "public_markdown_pages": 1569,
-    "site_urls_in_sitemap": 1570,
+    "markdown_files": 1564,
+    "public_markdown_pages": 1563,
+    "site_urls_in_sitemap": 1564,
     "topical_domains": 40,
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11191689,
-    "word_like_tokens": 1806765,
+    "nonspace_utf8_chars": 11092729,
+    "word_like_tokens": 1790029,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -153,7 +153,7 @@
     },
     {
       "domain": "financial-licenses",
-      "entries": 8,
+      "entries": 7,
       "route": "financial-licenses/INDEX",
       "url": "https://finwiki.zksc.io/financial-licenses/INDEX",
       "scope": "Cross-cutting Japanese financial license-stack pages (bank / payment / securities / insurance license routes, BaaS boundary)."
@@ -230,7 +230,7 @@
     },
     {
       "domain": "money-market",
-      "entries": 16,
+      "entries": 17,
       "route": "money-market/INDEX",
       "url": "https://finwiki.zksc.io/money-market/INDEX",
       "scope": "Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure."
@@ -265,14 +265,14 @@
     },
     {
       "domain": "corporate-strategy",
-      "entries": 10,
+      "entries": 11,
       "route": "corporate-strategy/INDEX",
       "url": "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "scope": "Public corporate reorganization and tax-structured spin-off reference."
     },
     {
       "domain": "loyalty",
-      "entries": 16,
+      "entries": 17,
       "route": "loyalty/INDEX",
       "url": "https://finwiki.zksc.io/loyalty/INDEX",
       "scope": "Japan points, rewards, loyalty liabilities, and retail / finance data loops."
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
-        "Issue #23 reading experience implementation + #32/#33/#34 planning closeout / human site・coverage・AI・provenance / 阅读体验与规划收尾",
-        "Issue #26 - Wave D entity deepening / insurance, trust and manufacturer anchors / 保险、信托与制造业锚点实体页深化",
-        "Issue #26 - Wave C entity deepening / securities, asset management and leasing / 证券、资管与租赁实体页深化",
-        "Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化"
+        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
+        "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像",
+        "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页",
+        "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选"
       ],
       "wikilinks": [
         "...",
@@ -869,36 +869,9 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 648833,
-      "word_like_tokens": 115809,
+      "nonspace_chars": 615025,
+      "word_like_tokens": 109918,
       "last_modified": "2026-06-21"
-    },
-    {
-      "source_path": "CONTRIBUTING.md",
-      "url": "https://finwiki.zksc.io/CONTRIBUTING",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/CONTRIBUTING.md",
-      "title": "Contributing to FinWiki",
-      "domain": "root",
-      "entry_type": "control_doc",
-      "canonical_anchor": "",
-      "summary": "FinWiki is a public knowledge base. Contributions should start from a scoped GitHub issue, use only public-source material, and finish with the validation evidence needed for review.",
-      "headings": [
-        "Contributing to FinWiki",
-        "1. Start From An Issue",
-        "2. Keep The Public-Source Boundary",
-        "3. Local Setup",
-        "4. Work By Change Type",
-        "5. Wiki Content Checklist",
-        "6. Commit And Review"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [
-        "AGENTS.md"
-      ],
-      "nonspace_chars": 4644,
-      "word_like_tokens": 790,
-      "last_modified": "2026-06-20"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -1281,7 +1254,7 @@
       ],
       "nonspace_chars": 13205,
       "word_like_tokens": 1966,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "JapanFG/INDEX.md",
@@ -1431,7 +1404,6 @@
       "markdown_links": [
         "AGENTS.md",
         "CHANGELOG.md",
-        "CONTRIBUTING.md",
         "INDEX.md",
         "JapanFG/",
         "OBSIDIAN-SETUP.md",
@@ -1465,8 +1437,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 74075,
-      "word_like_tokens": 13026,
+      "nonspace_chars": 71028,
+      "word_like_tokens": 12500,
       "last_modified": "2026-06-21"
     },
     {
@@ -4549,10 +4521,10 @@
         "1. 法人・ライセンス境界",
         "2. Business role",
         "3. 出資・統治構造",
-        "4. #26 deepening: insurer-group asset manager and channel role",
-        "5. Why standalone page matters",
-        "6. 競合・peer",
-        "Related"
+        "4. Why standalone page matters",
+        "5. 競合・peer",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "asset-managers/INDEX",
@@ -4593,8 +4565,8 @@
         "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4537,
-      "word_like_tokens": 675,
+      "nonspace_chars": 3549,
+      "word_like_tokens": 526,
       "last_modified": "2026-06-21"
     },
     {
@@ -9759,8 +9731,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Issuer versus wallet boundary",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -9789,9 +9760,9 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3464,
-      "word_like_tokens": 553,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2184,
+      "word_like_tokens": 348,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -9902,8 +9873,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Retail finance and nanaco boundary",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -9930,9 +9900,9 @@
         "https://finwiki.zksc.io/retail/seven-and-i-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3241,
-      "word_like_tokens": 544,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2113,
+      "word_like_tokens": 347,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -10065,8 +10035,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. SMFG platform and regulatory boundary",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -10091,9 +10060,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3304,
-      "word_like_tokens": 521,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2282,
+      "word_like_tokens": 355,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -10247,7 +10216,7 @@
       "domain": "consumer-finance",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "consumer-finance/ contains 5 active entries (excluding INDEX, 6 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
+      "summary": "consumer-finance/ contains 4 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
       "headings": [
         "consumer-finance — Japanese consumer lender (貸金業) index",
         "TL;DR",
@@ -10291,7 +10260,7 @@
       "markdown_links": [],
       "nonspace_chars": 4274,
       "word_like_tokens": 681,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "consumer-finance/acom-co-detail.md",
@@ -13098,9 +13067,9 @@
         "https://finwiki.zksc.io/policy-finance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8920,
+      "nonspace_chars": 8924,
       "word_like_tokens": 1429,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "corporate-strategy/japan-business-succession-jigyou-shoukei.md",
@@ -39374,7 +39343,7 @@
       "domain": "foreign-financial-institutions",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
+      "summary": "foreign-financial-institutions/ contains 56 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,",
       "headings": [
         "foreign-financial-institutions — Foreign banks & securities/AM in Japan index",
         "Overview",
@@ -39520,7 +39489,7 @@
       "markdown_links": [],
       "nonspace_chars": 6180,
       "word_like_tokens": 811,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "foreign-financial-institutions/agricultural-bank-of-china-japan.md",
@@ -40537,8 +40506,7 @@
         "TL;DR",
         "1. License / branch boundary",
         "2. Operating model",
-        "3. #26 deepening: Taiwan private-bank branch corridor",
-        "4. Why this page matters",
+        "3. Why this page matters",
         "Related",
         "Sources"
       ],
@@ -40548,9 +40516,7 @@
         "foreign-financial-institutions/INDEX",
         "foreign-financial-institutions/bank-of-taiwan-japan",
         "foreign-financial-institutions/esun-bank-japan",
-        "foreign-financial-institutions/mega-icbc-japan",
-        "foreign-financial-institutions/taiwan-business-bank-japan",
-        "regional-banks/tokyo-star-bank"
+        "foreign-financial-institutions/mega-icbc-japan"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/banking/INDEX",
@@ -40558,13 +40524,11 @@
         "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
         "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
-        "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
-        "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-business-bank-japan",
-        "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
+        "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3619,
-      "word_like_tokens": 578,
+      "nonspace_chars": 2217,
+      "word_like_tokens": 346,
       "last_modified": "2026-06-21"
     },
     {
@@ -42073,7 +42037,6 @@
         "台湾中小企業銀行日本 (Taiwan Business Bank Japan)",
         "Wiki route",
         "Overview",
-        "#26 Deepening: SME corridor branch thesis",
         "Entity Boundary",
         "Business Role Map",
         "Public Context",
@@ -42089,7 +42052,6 @@
         "foreign-financial-institutions/foreign-bank-branches-japan-index",
         "foreign-financial-institutions/industrial-bank-of-korea-japan",
         "foreign-financial-institutions/taishin-bank-japan",
-        "foreign-financial-institutions/taiwan-cooperative-bank-japan",
         "policy-finance/INDEX"
       ],
       "resolved_wikilinks": [
@@ -42100,12 +42062,11 @@
         "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
         "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan",
-        "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-cooperative-bank-japan",
         "https://finwiki.zksc.io/policy-finance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5250,
-      "word_like_tokens": 848,
+      "nonspace_chars": 3830,
+      "word_like_tokens": 607,
       "last_modified": "2026-06-21"
     },
     {
@@ -45749,11 +45710,11 @@
         "TL;DR",
         "Structure",
         "Business Map",
-        "#26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes",
         "Strategic Reading",
         "Competitive Context",
         "Risk Notes",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -45780,8 +45741,8 @@
         "https://finwiki.zksc.io/megabanks/mizuho-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5433,
-      "word_like_tokens": 841,
+      "nonspace_chars": 3743,
+      "word_like_tokens": 561,
       "last_modified": "2026-06-21"
     },
     {
@@ -47481,8 +47442,8 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5597,
-      "word_like_tokens": 865,
+      "nonspace_chars": 3762,
+      "word_like_tokens": 557,
       "last_modified": "2026-06-21"
     },
     {
@@ -48056,7 +48017,7 @@
         "3. 主要商品",
         "親会社シナジー",
         "チャネル戦略",
-        "4. #26 deepening: ORIX group insurance engine and channel mix"
+        "競合ポジション"
       ],
       "wikilinks": [
         "insurance/INDEX",
@@ -48091,8 +48052,8 @@
         "https://finwiki.zksc.io/megabanks/sony-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5165,
-      "word_like_tokens": 747,
+      "nonspace_chars": 3817,
+      "word_like_tokens": 526,
       "last_modified": "2026-06-21"
     },
     {
@@ -50506,8 +50467,7 @@
         "1. 会社構造",
         "2. 事業ライン map",
         "3. 戦略と競合",
-        "4. #26 deepening: manufacturer-finance anchor and balance-sheet use cases",
-        "5. 規制と政策",
+        "4. 規制と政策",
         "Related",
         "Sources"
       ],
@@ -50524,8 +50484,8 @@
         "https://finwiki.zksc.io/regional-banks/hachijuni-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4309,
-      "word_like_tokens": 627,
+      "nonspace_chars": 2453,
+      "word_like_tokens": 349,
       "last_modified": "2026-06-21"
     },
     {
@@ -58076,8 +58036,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Regulatory and product boundary",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58102,9 +58061,9 @@
         "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3034,
-      "word_like_tokens": 480,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2039,
+      "word_like_tokens": 318,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -58167,9 +58126,8 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Product and economics map",
-        "4. Why this standalone page matters",
-        "5. 規制・政策",
+        "3. Why this standalone page matters",
+        "4. 規制・政策",
         "Related",
         "Sources"
       ],
@@ -58202,9 +58160,9 @@
         "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4627,
-      "word_like_tokens": 725,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 3607,
+      "word_like_tokens": 554,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -58460,8 +58418,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Regulatory and group positioning",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58486,9 +58443,9 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3301,
-      "word_like_tokens": 527,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 1953,
+      "word_like_tokens": 310,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -58789,8 +58746,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. PSP stack and regulatory position",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -58817,9 +58773,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3401,
-      "word_like_tokens": 524,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2161,
+      "word_like_tokens": 328,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -59199,8 +59155,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. Licence and operating-model read",
-        "4. Why this standalone page matters",
+        "3. Why this standalone page matters",
         "Related",
         "Sources"
       ],
@@ -59225,9 +59180,9 @@
         "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3379,
-      "word_like_tokens": 541,
-      "last_modified": "2026-06-20"
+      "nonspace_chars": 2366,
+      "word_like_tokens": 365,
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -62485,7 +62440,7 @@
       "domain": "policy-finance",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "policy-finance/ contains 34 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
+      "summary": "policy-finance/ contains 35 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF",
       "headings": [
         "policy-finance — Japan public finance / export credit index",
         "TL;DR",
@@ -62572,7 +62527,7 @@
       "markdown_links": [],
       "nonspace_chars": 7150,
       "word_like_tokens": 974,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "policy-finance/agriculture-credit-guarantee-system.md",
@@ -68997,10 +68952,7 @@
         "megabanks/sbi-hd",
         "megabanks/smfg",
         "regional-banks/INDEX",
-        "regional-banks/fukuoka-fg",
-        "regional-banks/hokkaido-bank",
-        "regional-banks/hokuriku-bank",
-        "regional-banks/mebuki-fg"
+        "regional-banks/fukuoka-fg"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/banking/INDEX",
@@ -69011,14 +68963,11 @@
         "https://finwiki.zksc.io/megabanks/sbi-hd",
         "https://finwiki.zksc.io/megabanks/smfg",
         "https://finwiki.zksc.io/regional-banks/INDEX",
-        "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-        "https://finwiki.zksc.io/regional-banks/hokkaido-bank",
-        "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
-        "https://finwiki.zksc.io/regional-banks/mebuki-fg"
+        "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4338,
-      "word_like_tokens": 694,
+      "nonspace_chars": 3302,
+      "word_like_tokens": 550,
       "last_modified": "2026-06-21"
     },
     {
@@ -69814,8 +69763,8 @@
         "https://finwiki.zksc.io/regional-banks/shizuoka-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4828,
-      "word_like_tokens": 721,
+      "nonspace_chars": 3890,
+      "word_like_tokens": 570,
       "last_modified": "2026-06-21"
     },
     {
@@ -70627,7 +70576,7 @@
         "コンビニ ATM 三強構造",
         "KDDI au 経済圏統合可能性",
         "vs セブン銀行（regional-banks/seven-bank）",
-        "3. #26 deepening: ATM bank model and group boundary"
+        "4. 規制・政策"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -70654,8 +70603,8 @@
         "https://finwiki.zksc.io/regional-banks/seven-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4447,
-      "word_like_tokens": 769,
+      "nonspace_chars": 3347,
+      "word_like_tokens": 609,
       "last_modified": "2026-06-21"
     },
     {
@@ -71955,8 +71904,7 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
-        "3. #26 deepening: Shinhan corridor and domestic-bank treatment",
-        "4. Why standalone page matters",
+        "3. Why standalone page matters",
         "Related",
         "Sources"
       ],
@@ -71964,7 +71912,6 @@
         "banking/INDEX",
         "banking/foreign-bank-japan-retreat",
         "foreign-financial-institutions/citigroup-japan",
-        "foreign-financial-institutions/hana-bank-japan",
         "foreign-financial-institutions/hsbc-japan",
         "foreign-financial-institutions/korea-development-bank-japan",
         "foreign-financial-institutions/standard-chartered-japan",
@@ -71977,7 +71924,6 @@
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
         "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-        "https://finwiki.zksc.io/foreign-financial-institutions/hana-bank-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
@@ -71987,8 +71933,8 @@
         "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2816,
-      "word_like_tokens": 427,
+      "nonspace_chars": 1814,
+      "word_like_tokens": 276,
       "last_modified": "2026-06-21"
     },
     {
@@ -75801,146 +75747,6 @@
       "last_modified": "2026-06-08"
     },
     {
-      "source_path": "releases/v2026.06.20-1.md",
-      "url": "https://finwiki.zksc.io/releases/v2026.06.20-1",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.20-1.md",
-      "title": "決済・カード実体ページ深化 Wave A",
-      "domain": "releases",
-      "entry_type": "release_note",
-      "canonical_anchor": "",
-      "summary": "",
-      "headings": [
-        "決済・カード実体ページ深化 Wave A",
-        "日本語",
-        "公開範囲",
-        "主要変更",
-        "検証結果",
-        "既知の注意点",
-        "次の作業",
-        "English",
-        "Release Scope",
-        "Major Changes"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [],
-      "nonspace_chars": 5413,
-      "word_like_tokens": 916,
-      "last_modified": "2026-06-20"
-    },
-    {
-      "source_path": "releases/v2026.06.21-2.md",
-      "url": "https://finwiki.zksc.io/releases/v2026.06.21-2",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-2.md",
-      "title": "資本市場・資産運用・リース実体ページ深化 Wave C",
-      "domain": "releases",
-      "entry_type": "release_note",
-      "canonical_anchor": "",
-      "summary": "",
-      "headings": [
-        "資本市場・資産運用・リース実体ページ深化 Wave C",
-        "日本語",
-        "公開範囲",
-        "主要変更",
-        "検証結果",
-        "既知の注意点",
-        "次の作業",
-        "English",
-        "Release Scope",
-        "Major Changes"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [],
-      "nonspace_chars": 6029,
-      "word_like_tokens": 1026,
-      "last_modified": "2026-06-21"
-    },
-    {
-      "source_path": "releases/v2026.06.21-3.md",
-      "url": "https://finwiki.zksc.io/releases/v2026.06.21-3",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-3.md",
-      "title": "保険・信託・製造業アンカー実体ページ深化 Wave D",
-      "domain": "releases",
-      "entry_type": "release_note",
-      "canonical_anchor": "",
-      "summary": "",
-      "headings": [
-        "保険・信託・製造業アンカー実体ページ深化 Wave D",
-        "日本語",
-        "公開範囲",
-        "主要変更",
-        "検証結果",
-        "既知の注意点",
-        "次の作業",
-        "English",
-        "Release Scope",
-        "Major Changes"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [],
-      "nonspace_chars": 7082,
-      "word_like_tokens": 1233,
-      "last_modified": "2026-06-21"
-    },
-    {
-      "source_path": "releases/v2026.06.21-4.md",
-      "url": "https://finwiki.zksc.io/releases/v2026.06.21-4",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-4.md",
-      "title": "読書体験・計画文書同期",
-      "domain": "releases",
-      "entry_type": "release_note",
-      "canonical_anchor": "",
-      "summary": "",
-      "headings": [
-        "読書体験・計画文書同期",
-        "日本語",
-        "公開範囲",
-        "主要変更",
-        "検証結果",
-        "既知の注意点",
-        "次の作業",
-        "English",
-        "Release Scope",
-        "Major Changes"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [],
-      "nonspace_chars": 5297,
-      "word_like_tokens": 917,
-      "last_modified": "2026-06-21"
-    },
-    {
-      "source_path": "releases/v2026.06.21.md",
-      "url": "https://finwiki.zksc.io/releases/v2026.06.21",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21.md",
-      "title": "銀行・外資分行実体ページ深化 Wave B",
-      "domain": "releases",
-      "entry_type": "release_note",
-      "canonical_anchor": "",
-      "summary": "",
-      "headings": [
-        "銀行・外資分行実体ページ深化 Wave B",
-        "日本語",
-        "公開範囲",
-        "主要変更",
-        "検証結果",
-        "既知の注意点",
-        "次の作業",
-        "English",
-        "Release Scope",
-        "Major Changes"
-      ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
-      "markdown_links": [],
-      "nonspace_chars": 5664,
-      "word_like_tokens": 994,
-      "last_modified": "2026-06-21"
-    },
-    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -76844,7 +76650,7 @@
         "TL;DR",
         "1. 会社概要",
         "主要子会社",
-        "重要年表",
+        "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
         "差別化軸：「アジア新興国投資の専門証券」",
         "国内ポジション",
@@ -76877,8 +76683,8 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5436,
-      "word_like_tokens": 775,
+      "nonspace_chars": 4004,
+      "word_like_tokens": 570,
       "last_modified": "2026-06-21"
     },
     {
@@ -77753,7 +77559,6 @@
         "securities-firms/daiwa-sg",
         "securities-firms/monex-group",
         "securities-firms/nomura-hd",
-        "securities-firms/rakuten-securities",
         "securities-firms/sbi-securities",
         "securities-firms/smbc-nikko",
         "securities/INDEX"
@@ -77767,14 +77572,13 @@
         "https://finwiki.zksc.io/securities-firms/daiwa-sg",
         "https://finwiki.zksc.io/securities-firms/monex-group",
         "https://finwiki.zksc.io/securities-firms/nomura-hd",
-        "https://finwiki.zksc.io/securities-firms/rakuten-securities",
         "https://finwiki.zksc.io/securities-firms/sbi-securities",
         "https://finwiki.zksc.io/securities-firms/smbc-nikko",
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5407,
-      "word_like_tokens": 766,
+      "nonspace_chars": 3961,
+      "word_like_tokens": 568,
       "last_modified": "2026-06-21"
     },
     {
@@ -88410,7 +88214,7 @@
       "domain": "trust-banks",
       "entry_type": "domain_index",
       "canonical_anchor": "",
-      "summary": "trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
+      "summary": "trust-banks/ contains 46 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es",
       "headings": [
         "trust-banks — Japanese trust banks & trust companies index",
         "Overview",
@@ -88533,7 +88337,7 @@
       "markdown_links": [],
       "nonspace_chars": 3968,
       "word_like_tokens": 604,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "trust-banks/alterna-trust.md",
@@ -88551,7 +88355,6 @@
         "Entity Boundary",
         "Business Role Map",
         "Public Context",
-        "#26 Deepening: trust-company licence and tokenized-asset custody role",
         "Research Checklist",
         "Related",
         "Sources"
@@ -88577,8 +88380,8 @@
         "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5033,
-      "word_like_tokens": 790,
+      "nonspace_chars": 3592,
+      "word_like_tokens": 555,
       "last_modified": "2026-06-21"
     },
     {

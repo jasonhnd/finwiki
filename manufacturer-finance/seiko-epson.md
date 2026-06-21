@@ -7,19 +7,16 @@ aliases:
   - "セイコーエプソン"
 domain: "manufacturer-finance"
 created: 2026-05-19
-last_updated: 2026-06-21
-last_tended: 2026-06-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [manufacturing, electronics, nagano]
 status: active
 sources:
   - "https://corporate.epson/en/about/info.html"
-  - "https://corporate.epson/en/business/"
   - "https://corporate.epson/en/investors/publications/annual-report.html"
   - "https://corporate.epson/en/investors/publications/integrated-report.html"
-  - "https://corporate.epson/en/investors/finance/highlight/segment.html"
-  - "https://corporate.epson/en/investors/publications/financial-reports/"
 ---
 
 # Seiko Epson Corporation (セイコーエプソン)
@@ -64,15 +61,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 - **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
 - **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
 
-## 4. #26 deepening: manufacturer-finance anchor and balance-sheet use cases
-
-Epson is included in `manufacturer-finance` not because it is a regulated financial institution, but because it is a useful operating-company anchor for the financing needs behind Japanese manufacturing. Official business pages describe Epson as reorganizing its business segments and portfolio around growth domains under ENGINEERED FUTURE 2035; IR pages expose revenue by segment and region across printing, visual communications, and wearable / industrial products. Those disclosures make the company usable as a public-source example for working-capital, capex, FX and supply-chain finance analysis.
-
-The key finance use cases are: inventory and channel finance in printers and consumables; capex and equipment finance for robotics / manufacturing equipment; receivables, distributor credit and country risk in global printing and projector channels; and green / transition finance around energy-saving, resource circulation and decarbonization. For local-finance analysis, the headquarters and manufacturing base around Nagano connect Epson to [[regional-banks/hachijuni-bank|hachijuni-bank]] and the Shinshu precision-manufacturing cluster.
-
-Peer comparisons should distinguish Epson from automaker finance anchors such as [[manufacturer-finance/toyota-motor|Toyota Motor]]. Toyota's finance arm and captive auto-credit logic are central, while Epson's finance relevance is more about supply-chain working capital, factory automation investment, yen sensitivity, electronics procurement, and regional industrial credit exposure.
-
-## 5. 規制と政策
+## 4. 規制と政策
 
 - 上場会社として東証・金商法・会社法の開示対象。
 - 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
@@ -87,11 +76,8 @@ Peer comparisons should distinguish Epson from automaker finance anchors such as
 ## Sources
 
 - Epson「Company Outline」: https://corporate.epson/en/about/info.html
-- Epson「Our Business」: https://corporate.epson/en/business/
 - Epson「Annual Report」: https://corporate.epson/en/investors/publications/annual-report.html
 - Epson「Integrated Report」: https://corporate.epson/en/investors/publications/integrated-report.html
-- Epson「Revenue by Business Segment and Region」: https://corporate.epson/en/investors/finance/highlight/segment.html
-- Epson「Financial Results Materials」: https://corporate.epson/en/investors/publications/financial-reports/
 
 ---
 

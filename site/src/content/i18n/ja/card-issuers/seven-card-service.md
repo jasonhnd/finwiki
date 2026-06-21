@@ -1,11 +1,11 @@
 ---
 source: card-issuers/seven-card-service
-source_hash: 87ed03fe34e6697b
+source_hash: 6dfa93ffac4ade8a
 lang: ja
 status: machine
 fidelity: ok
 title: "セブン・カードサービス (Seven Card Service)"
-translated_at: 2026-06-20T09:33:00.420Z
+translated_at: 2026-06-15T03:48:21.839Z
 ---
 
 # セブン・カードサービス (Seven Card Service)
@@ -30,21 +30,11 @@ translated_at: 2026-06-20T09:33:00.420Z
 
 ## 2. 事業上の役割
 
-- カード利用を Seven-Eleven / Ito-Yokado の小売顧客関係、nanaco 電子マネー、反復購買データに結び付ける。
-- セブン銀行の ATM・口座インフラを card / payment services で補完する。会社ページは、2023 年にセブン銀行が親会社となり、決済・金融一体のリテール金融サービスに注力していると説明している。
-- 会社概要はクレジットカード業務、電子マネー業務、その他を列挙しているため、このページは単なる提携カードページではなく小売決済 operator として読むべきである。
+- カード利用をコンビニ・小売の顧客関係に結び付ける。
+- セブン銀行の ATM・口座インフラを card / payment services で補完する。
 - 小売決済戦略を銀行戦略とは別個に読むための有用な事例。
 
-## 3. リテール金融と nanaco 境界
-
-| レイヤー | 公開情報からの読み方 |
-|---|---|
-| クレジットカード | 事業ページは Seven Card Plus と関連カード商品をクレジットカードレーンとして示している。 |
-| 電子マネー | 同じ事業ページは nanaco を電子マネーレーンとして示し、モバイル / Apple Pay とカード形式を含めている。 |
-| グループ関係 | 会社概要はセブン銀行を株主として示す。トップメッセージは親会社関係が 2023 年に始まったことを述べ、決済・金融一体の方向性を示している。 |
-| 規制 | METI 登録事業者一覧は割賦販売法 / クレジットカード operator 境界の公開アンカーであり続ける。一方、nanaco は銀行預金ページではなく電子マネー / 前払ページを通じて読むべきである。 |
-
-## 4. この独立ページが重要である理由
+## 3. この独立ページが重要である理由
 
 セブン銀行はセブンの決済スタック全体ではない。本ページは、[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] や [[card-issuers/ucs-card|UCSカード]]、加えてファミリーマートのような retail-affinity peers との比較のために、card-service レイヤーを可視化し続ける。
 
@@ -58,6 +48,5 @@ translated_at: 2026-06-20T09:33:00.420Z
 ## 出典
 
 - Seven Card Service company information: https://www.7card.co.jp/company/com_info/
-- Seven Card Service company overview: https://www.7card.co.jp/company/com_info/summary.html
 - Seven Card Service business overview: https://www.7card.co.jp/company/bs/
 - METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html

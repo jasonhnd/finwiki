@@ -17,8 +17,8 @@
     ],
     "domain": "trust-banks",
     "created": "2026-05-22",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
     "review_by": "2026-11-22",
     "confidence": "likely",
     "tags": [
@@ -31,11 +31,8 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
-      "https://www.fsa.go.jp/en/regulated/licensed/trustcompanies.xlsx",
       "https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html",
-      "https://corp.mitsui-x.com/service/index.html",
       "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250703.pdf",
-      "https://www.smtb.jp/english/-/media/tb/english/news/pdf/E250703.pdf",
       "https://prtimes.jp/main/html/rd/p/000000083.000056997.html"
     ]
   },
@@ -47,7 +44,6 @@
     "Entity Boundary",
     "Business Role Map",
     "Public Context",
-    "#26 Deepening: trust-company licence and tokenized-asset custody role",
     "Research Checklist",
     "Related",
     "Sources"
@@ -78,8 +74,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5033,
-    "word_like_tokens": 790,
+    "nonspace_chars": 3592,
+    "word_like_tokens": 555,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-21"
   }

@@ -16,7 +16,6 @@ const CONTROL_DOCS = [
   "README.md",
   "CHANGELOG.md",
   "AGENTS.md",
-  "CONTRIBUTING.md",
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",
   "INDEX.md",

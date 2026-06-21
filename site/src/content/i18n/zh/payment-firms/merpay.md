@@ -1,11 +1,11 @@
 ---
 source: payment-firms/merpay
-source_hash: eede29db6d36dccc
+source_hash: 6aac5dfc8a17377a
 lang: zh
 status: machine
 fidelity: ok
 title: "Merpay"
-translated_at: 2026-06-20T09:33:00.420Z
+translated_at: 2026-05-31T23:59:49.355Z
 ---
 # Merpay
 
@@ -29,21 +29,11 @@ Merpay 是 [[payment-firms/mercari-hd|メルカリ]] 旗下的支付与授信运
 
 ## 2. 业务角色
 
-- 将 Mercari 市场销售收入、买卖双方身份和 App 参与度转化为支付、钱包和信用使用场景。
-- 连接 C2C 市场数据、码支付、预付价值、资金转移余额、后付支付和银行账户提现；发行方 / 收单方 / 处理方拆分见 [[payments/japan-card-issuer-acquirer-processor-split]]。
-- Mercari 的《资金结算法》披露将有偿积分与 Merpay 余额分开说明，这一点重要，因为预付式支付手段的保全和资金转移的保全不是同一类控制问题。
+- 将 Mercari 的 marketplace balance 与用户身份转化为支付和信用使用场景。
+- 连接 C2C 市场数据、码支付、后付支付和银行账户提现；发行方 / 收单方 / 处理方拆分见 [[payments/japan-card-issuer-acquirer-processor-split]]。
 - 是 PayPay、Rakuten Pay、au PAY、d払い 的比较对象，也出现在 [[payments/funds-transfer-service-providers-japan-index]] 中。
 
-## 3. 监管与产品边界
-
-| 层级 | 公开来源解读 |
-|---|---|
-| 资金转移 | Merpay 官方页面和 FSA 名单显示其为关东财务局第 00057 号。披露文件说明 Merpay 余额不是银行存款，并按《资金结算法》采取保全措施。 |
-| 预付积分 | 有偿积分作为第三方型预付式支付手段另行披露；这关系到退款、有效期和保证金处理。 |
-| 信用 / 贷款相邻业务 | Merpay 公司页面列出包括信用购买斡旋业和贷款业登记，因此应将其读作钱包加信用运营商，而不是单纯的码支付品牌。 |
-| 市场循环 | 战略循环是 Mercari 销售收入 -> Merpay 余额 / 支付 -> 信用或后付产品 -> 反复使用市场和加盟店。 |
-
-## 4. 本独立页面为何重要
+## 3. 本独立页面为何重要
 
 Mercari 的 marketplace 业务与 Merpay 受监管的支付 / 信用业务具有不同的风险和合规问题。本页使金融服务边界保持清晰。
 

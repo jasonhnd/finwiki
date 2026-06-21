@@ -3,8 +3,8 @@ title: "Wise Payments Japan"
 aliases: ["Wise Japan", "Wise Payments Japan", "ワイズ・ペイメンツ・ジャパン", "ワイズ・ペイメンツ・ジャパン株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-20
-last_tended: 2026-06-20
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, remittance, cross-border, funds-transfer]
@@ -39,20 +39,9 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 - Competes on transparent FX, cross-border account rails, and business remittance.
 - Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows, making it strategically different from smaller Type 2-only operators.
-- The product model is corridor-based rather than domestic wallet-based: customers and businesses use Wise for overseas transfer, multi-currency account, card, and Wise Platform partner flows, not for a closed retail point economy.
-- The Japan entity is the local licence holder, while the group page identifies Wise Payments Limited / Wise plc as the global headquarters / listed-company boundary.
 - A comparator against [[payment-firms/revolut-technologies-japan|Revolut]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/payoneer-japan|Payoneer]], [[payment-firms/sbi-remit|SBI Remit]], and [[payment-firms/western-union-japan|Western Union]].
 
-## 3. Licence and operating-model read
-
-| Layer | Public-source reading |
-|---|---|
-| Type 1 / Type 2 funds transfer | Wise's corporate page and the FSA list show Type 1 and Type 2 funds-transfer registration under Kanto Local Finance Bureau no. 00040. |
-| High-value remittance lane | Wise's 2024 licence announcement says Type 1 approval removes the prior JPY 1 million per-transaction restriction for eligible cross-border transfers. |
-| Product boundary | Wise competes on cross-border transfer, FX transparency, multi-currency account, business remittance, card, and platform connectivity rather than merchant QR acceptance. |
-| Group boundary | The Japan K.K. is the regulated local service provider; the group headquarters / listed-company surface sits at Wise Payments Limited / Wise plc. |
-
-## 4. Why this standalone page matters
+## 3. Why this standalone page matters
 
 Wise is both a global listed fintech and a regulated Japan funds-transfer operator. The Japan entity matters for licensing, safeguarding, and product limits.
 

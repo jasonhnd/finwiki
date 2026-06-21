@@ -1,11 +1,11 @@
 ---
 source: payment-firms/wise-payments-japan
-source_hash: 402fca4b193504b9
+source_hash: 1891c398e9b8e541
 lang: en
 status: machine
 fidelity: ok
 title: "Wise Payments Japan"
-translated_at: 2026-06-20T09:33:00.420Z
+translated_at: 2026-06-19T06:09:18.134Z
 ---
 
 # Wise Payments Japan
@@ -31,20 +31,9 @@ Wise Payments Japan is the Japanese entity of the Wise group, and its official c
 
 - Competes on transparent FX, cross-border account rails, and business remittance.
 - Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows, making it strategically different from smaller Type 2-only operators.
-- The product model is corridor-based rather than domestic wallet-based: customers and businesses use Wise for overseas transfer, multi-currency account, card, and Wise Platform partner flows, not for a closed retail point economy.
-- The Japan entity is the local licence holder, while the group page identifies Wise Payments Limited / Wise plc as the global headquarters / listed-company boundary.
 - A comparator against [[payment-firms/revolut-technologies-japan|Revolut]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/payoneer-japan|Payoneer]], [[payment-firms/sbi-remit|SBI Remit]], and [[payment-firms/western-union-japan|Western Union]].
 
-## 3. Licence and operating-model read
-
-| Layer | Public-source reading |
-|---|---|
-| Type 1 / Type 2 funds transfer | Wise's corporate page and the FSA list show Type 1 and Type 2 funds-transfer registration under Kanto Local Finance Bureau no. 00040. |
-| High-value remittance lane | Wise's 2024 licence announcement says Type 1 approval removes the prior JPY 1 million per-transaction restriction for eligible cross-border transfers. |
-| Product boundary | Wise competes on cross-border transfer, FX transparency, multi-currency account, business remittance, card, and platform connectivity rather than merchant QR acceptance. |
-| Group boundary | The Japan K.K. is the regulated local service provider; the group headquarters / listed-company surface sits at Wise Payments Limited / Wise plc. |
-
-## 4. Why this standalone page matters
+## 3. Why this standalone page matters
 
 Wise is both a global listed fintech and a regulated Japan funds-transfer operator. The Japan entity matters for licensing, safeguarding, and product limits.
 

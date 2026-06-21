@@ -19,8 +19,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-19",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -32,9 +32,7 @@
       "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 十六銀行 (2026-05-19 抽出)",
       "金融庁: 銀行の合併について (十六銀行・岐阜銀行) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html",
-      "Wikipedia: 岐阜銀行 https://ja.wikipedia.org/wiki/岐阜銀行 (2026-05-29 確認)",
-      "https://www.16fg.co.jp/ir/disclosure/files/annual_report_2024.pdf",
-      "https://www.16fg.co.jp/ir/disclosure/"
+      "Wikipedia: 岐阜銀行 https://ja.wikipedia.org/wiki/岐阜銀行 (2026-05-29 確認)"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -78,8 +76,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4828,
-    "word_like_tokens": 721,
+    "nonspace_chars": 3890,
+    "word_like_tokens": 570,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-21"
   }
