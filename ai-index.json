@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-20T13:10:57+09:00",
+  "generated_at": "2026-06-21T17:08:06+09:00",
   "counts": {
     "markdown_files": 1564,
     "public_markdown_pages": 1563,
@@ -871,7 +871,7 @@
       ],
       "nonspace_chars": 615025,
       "word_like_tokens": 109918,
-      "last_modified": "2026-06-19"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -1254,7 +1254,7 @@
       ],
       "nonspace_chars": 13205,
       "word_like_tokens": 1966,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "JapanFG/INDEX.md",
@@ -1439,7 +1439,7 @@
       ],
       "nonspace_chars": 71028,
       "word_like_tokens": 12500,
-      "last_modified": "2026-06-19"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "SCHEMA.md",
@@ -4567,7 +4567,7 @@
       "markdown_links": [],
       "nonspace_chars": 3549,
       "word_like_tokens": 526,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "banking/INDEX.md",
@@ -9762,7 +9762,7 @@
       "markdown_links": [],
       "nonspace_chars": 2184,
       "word_like_tokens": 348,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -9902,7 +9902,7 @@
       "markdown_links": [],
       "nonspace_chars": 2113,
       "word_like_tokens": 347,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -10062,7 +10062,7 @@
       "markdown_links": [],
       "nonspace_chars": 2282,
       "word_like_tokens": 355,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -10260,7 +10260,7 @@
       "markdown_links": [],
       "nonspace_chars": 4274,
       "word_like_tokens": 681,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "consumer-finance/acom-co-detail.md",
@@ -13069,7 +13069,7 @@
       "markdown_links": [],
       "nonspace_chars": 8924,
       "word_like_tokens": 1429,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "corporate-strategy/japan-business-succession-jigyou-shoukei.md",
@@ -39489,7 +39489,7 @@
       "markdown_links": [],
       "nonspace_chars": 6180,
       "word_like_tokens": 811,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "foreign-financial-institutions/agricultural-bank-of-china-japan.md",
@@ -40529,7 +40529,7 @@
       "markdown_links": [],
       "nonspace_chars": 2217,
       "word_like_tokens": 346,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "foreign-financial-institutions/dbs-bank-japan.md",
@@ -42067,7 +42067,7 @@
       "markdown_links": [],
       "nonspace_chars": 3830,
       "word_like_tokens": 607,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "foreign-financial-institutions/taiwan-cooperative-bank-japan.md",
@@ -45743,7 +45743,7 @@
       "markdown_links": [],
       "nonspace_chars": 3743,
       "word_like_tokens": 561,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "leasing-firms/nec-capital-solutions.md",
@@ -47444,7 +47444,7 @@
       "markdown_links": [],
       "nonspace_chars": 3762,
       "word_like_tokens": 557,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "life-insurers/manulife-japan.md",
@@ -48054,7 +48054,7 @@
       "markdown_links": [],
       "nonspace_chars": 3817,
       "word_like_tokens": 526,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "life-insurers/pacific-life-re-japan.md",
@@ -50486,7 +50486,7 @@
       "markdown_links": [],
       "nonspace_chars": 2453,
       "word_like_tokens": 349,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "manufacturer-finance/sony-group-finance-arm.md",
@@ -58063,7 +58063,7 @@
       "markdown_links": [],
       "nonspace_chars": 2039,
       "word_like_tokens": 318,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -58162,7 +58162,7 @@
       "markdown_links": [],
       "nonspace_chars": 3607,
       "word_like_tokens": 554,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -58445,7 +58445,7 @@
       "markdown_links": [],
       "nonspace_chars": 1953,
       "word_like_tokens": 310,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -58775,7 +58775,7 @@
       "markdown_links": [],
       "nonspace_chars": 2161,
       "word_like_tokens": 328,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -59182,7 +59182,7 @@
       "markdown_links": [],
       "nonspace_chars": 2366,
       "word_like_tokens": 365,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -62527,7 +62527,7 @@
       "markdown_links": [],
       "nonspace_chars": 7150,
       "word_like_tokens": 974,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "policy-finance/agriculture-credit-guarantee-system.md",
@@ -68968,7 +68968,7 @@
       "markdown_links": [],
       "nonspace_chars": 3302,
       "word_like_tokens": 550,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "regional-banks/hokuriku-bank.md",
@@ -69765,7 +69765,7 @@
       "markdown_links": [],
       "nonspace_chars": 3890,
       "word_like_tokens": 570,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "regional-banks/kagawa-bank.md",
@@ -70605,7 +70605,7 @@
       "markdown_links": [],
       "nonspace_chars": 3347,
       "word_like_tokens": 609,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "regional-banks/mebuki-fg.md",
@@ -71935,7 +71935,7 @@
       "markdown_links": [],
       "nonspace_chars": 1814,
       "word_like_tokens": 276,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "regional-banks/sendai-bank.md",
@@ -76685,7 +76685,7 @@
       "markdown_links": [],
       "nonspace_chars": 4004,
       "word_like_tokens": 570,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "securities-firms/akatsuki-hq.md",
@@ -77579,7 +77579,7 @@
       "markdown_links": [],
       "nonspace_chars": 3961,
       "word_like_tokens": 568,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "securities-firms/mebuki-securities.md",
@@ -88337,7 +88337,7 @@
       "markdown_links": [],
       "nonspace_chars": 3968,
       "word_like_tokens": 604,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "trust-banks/alterna-trust.md",
@@ -88382,7 +88382,7 @@
       "markdown_links": [],
       "nonspace_chars": 3592,
       "word_like_tokens": 555,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "trust-banks/asahi-trust.md",
@@ -90575,7 +90575,7 @@
       "markdown_links": [],
       "nonspace_chars": 3380,
       "word_like_tokens": 626,
-      "last_modified": "2026-06-20"
+      "last_modified": "2026-06-21"
     }
   ]
 }
