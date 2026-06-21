@@ -155,3 +155,13 @@ VALIDATION:
 ## Closeout For Issue #23
 
 Issue #23 is complete when the spec is committed, `needs-spec` is removed, the implementation passes the validation bundle above, and the closeout evidence links the implementing commit(s).
+
+## 2026-06-21 Implementation Note
+
+The implementation keeps the approved reference layout and changes only the human-site presentation layer:
+
+- `site/src/layouts/EntryLayout.astro`: central reading measure, title wrapping, factbar wrapping, inline TOC readability, and mobile entry spacing.
+- `site/src/layouts/Base.astro`: narrow-header behavior so small viewports keep the brand, primary navigation, and theme button inside the viewport.
+- `site/src/styles/global.css`: prose rhythm, table containment, long-link/code wrapping, source-section readability, and narrow-screen control sizing.
+
+No corpus entry, i18n mirror body, API schema, AI discovery contract, route, or search behavior is changed by this implementation.

@@ -13,8 +13,8 @@
 | 🟡 next | #30 | 跨页事实一致性审计 设计（P0 真实性, planning） | Design drafted: [cross-page-factual-consistency-audit.md](../07-quality/cross-page-factual-consistency-audit.md)。定义 deterministic-first comparison signals、conflict heuristic、report shape、false-positive controls 和 build packet；publish / issue close pending。 |
 | 🟡 next | #22 | 实体深化批次规划（P2 深度, planning） | Task packet drafted: [entity-deepening-shortlist-2026-06-20.md](entity-deepening-shortlist-2026-06-20.md)。22 个候选页分 4 波；publish / issue close pending。 |
 | 🔴 next | #24 | 域 INDEX entry 计数校验（维护门禁, tooling） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
-| 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | 以 [#22 shortlist](entity-deepening-shortlist-2026-06-20.md) 为执行包；先做 Wave A 或由 maintainer 拆小批。 |
-| 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
+| 🟢 closeout | #26 | 内容深化执行（content） | Wave A-D 已按 [#22 shortlist](entity-deepening-shortlist-2026-06-20.md) 本地完成；等待 push / PR / issue closeout evidence 关联。 |
+| 🟢 closeout | #23 | 人类版 UI 阅读体验（uiux） | Spec 与实现已完成：entry reading measure、metadata wrapping、prose rhythm、table containment、mobile overflow；等待 push / PR / issue closeout evidence 关联。 |
 | 🟡 later | #25 | 小域扩充 round 2（planning） | Decision drafted: [small-domain-expansion-round-2-2026-06-20.md](small-domain-expansion-round-2-2026-06-20.md)。结论：当前不再新增小域页面。 |
 | 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
 | 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
@@ -27,10 +27,10 @@
 
 | Status | GitHub | Item | Note |
 |---|---|---|---|
-| next | #32 | Japanese-finance coverage gap-map | Drafted [japanese-finance-coverage-gap-map.md](../02-product/japanese-finance-coverage-gap-map.md); marks covered / thin / missing across sub-sector, entity type, and regulatory regime. |
-| later | #33 | AI surface consumability design | Drafted [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md); recommends static-first API enrichment and MCP deferral. |
-| next | #34 | provenance / source-completeness audit design | Drafted [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md); defines claim signals, marker proximity heuristic, report shape, and build packet. |
-| later | #23 | human-site reading experience | Drafted [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md); implementation keeps the current reference layout and improves entry reading. |
+| closeout | #32 | Japanese-finance coverage gap-map | Drafted [japanese-finance-coverage-gap-map.md](../02-product/japanese-finance-coverage-gap-map.md); marks covered / thin / missing across sub-sector, entity type, and regulatory regime. |
+| closeout | #33 | AI surface consumability design | Drafted [ai-surface-consumability-design.md](../05-functional-specs/ai-surface-consumability-design.md); recommends static-first API enrichment and MCP deferral. |
+| closeout | #34 | provenance / source-completeness audit design | Drafted [provenance-source-completeness-audit.md](../07-quality/provenance-source-completeness-audit.md); defines claim signals, marker proximity heuristic, report shape, and build packet. |
+| closeout | #23 | human-site reading experience | Drafted [human-site-reading-experience-pass.md](../05-functional-specs/human-site-reading-experience-pass.md) and implemented in the Astro reading layer; validation evidence pending final branch publish. |
 
 ## historical canonical_anchor（P1）
 
