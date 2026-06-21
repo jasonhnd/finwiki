@@ -4,7 +4,7 @@
 
 | Task | Frequency | Check |
 |---|---|---|
-| Domain count calibration | After content batch | Compare root `INDEX.md` counts with disk reality. |
+| Domain count calibration | After content batch | `bun run index:audit`; if drift is expected, run `bun tools/index_count_audit.ts --write`, then rerun the read-only audit. |
 | Link audit | Every release | `bun tools/wiki_link_audit.ts --fail-on-issues` |
 | Release surface sync | Every release | `bun tools/release.ts --write` then strict check. |
 | Docs structure review | After docs changes | `bun run docs:audit` (links), `bun run docs:stale` (stale facts), `docs/README.md` entry check. |
