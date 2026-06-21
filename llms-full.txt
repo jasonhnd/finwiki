@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-21T01:05:38+09:00
+Generated: 2026-06-21T12:55:34+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1569
-Public pages listed: 1568
+Markdown files: 1570
+Public pages listed: 1569
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1568
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #26 - Wave D entity deepening / insurance, trust and manufacturer anchors / 保险、信托与制造业锚点实体页深化, Issue #26 - Wave C entity deepening / securities, asset management and leasing / 证券、资管与租赁实体页深化
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #23 reading experience implementation + #32/#33/#34 planning closeout / human site・coverage・AI・provenance / 阅读体验与规划收尾, Issue #26 - Wave D entity deepening / insurance, trust and manufacturer anchors / 保险、信托与制造业锚点实体页深化
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### Contributing to FinWiki
@@ -13058,6 +13058,14 @@ Public pages listed: 1568
 - Domain: releases
 - Type: release_note
 - Headings: 保険・信託・製造業アンカー実体ページ深化 Wave D, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 読書体験・計画文書同期
+- URL: https://finwiki.zksc.io/releases/v2026.06.21-4
+- Source path: releases/v2026.06.21-4.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-4.md
+- Domain: releases
+- Type: release_note
+- Headings: 読書体験・計画文書同期, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 銀行・外資分行実体ページ深化 Wave B
 - URL: https://finwiki.zksc.io/releases/v2026.06.21

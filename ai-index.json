@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-21T01:05:38+09:00",
+  "generated_at": "2026-06-21T12:55:34+09:00",
   "counts": {
-    "markdown_files": 1569,
-    "public_markdown_pages": 1568,
-    "site_urls_in_sitemap": 1569,
+    "markdown_files": 1570,
+    "public_markdown_pages": 1569,
+    "site_urls_in_sitemap": 1570,
     "topical_domains": 40,
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11181026,
-    "word_like_tokens": 1804947,
+    "nonspace_utf8_chars": 11191689,
+    "word_like_tokens": 1806765,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Issue #23 reading experience implementation + #32/#33/#34 planning closeout / human site・coverage・AI・provenance / 阅读体验与规划收尾",
         "Issue #26 - Wave D entity deepening / insurance, trust and manufacturer anchors / 保险、信托与制造业锚点实体页深化",
         "Issue #26 - Wave C entity deepening / securities, asset management and leasing / 证券、资管与租赁实体页深化",
-        "Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化",
-        "Issue #30 - cross-page factual consistency audit design / 跨页事实一致性审计设计"
+        "Issue #26 - Wave B entity deepening / banks and foreign branches / 银行与外资分行实体页深化"
       ],
       "wikilinks": [
         "...",
@@ -869,8 +869,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 645051,
-      "word_like_tokens": 115163,
+      "nonspace_chars": 648833,
+      "word_like_tokens": 115809,
       "last_modified": "2026-06-21"
     },
     {
@@ -1465,8 +1465,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 72324,
-      "word_like_tokens": 12740,
+      "nonspace_chars": 74075,
+      "word_like_tokens": 13026,
       "last_modified": "2026-06-21"
     },
     {
@@ -75885,6 +75885,34 @@
       "last_modified": "2026-06-21"
     },
     {
+      "source_path": "releases/v2026.06.21-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.21-4",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-4.md",
+      "title": "読書体験・計画文書同期",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "読書体験・計画文書同期",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 5297,
+      "word_like_tokens": 917,
+      "last_modified": "2026-06-21"
+    },
+    {
       "source_path": "releases/v2026.06.21.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.21",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21.md",
@@ -90742,8 +90770,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3547,
-      "word_like_tokens": 657,
+      "nonspace_chars": 3380,
+      "word_like_tokens": 626,
       "last_modified": "2026-06-21"
     }
   ]
