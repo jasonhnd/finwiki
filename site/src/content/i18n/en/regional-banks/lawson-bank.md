@@ -1,11 +1,11 @@
 ---
 source: regional-banks/lawson-bank
-source_hash: 92651058d0c3ccad
+source_hash: 6418752cee2de6d0
 lang: en
 status: machine
 fidelity: ok
 title: "Lawson Bank (ローソン銀行)"
-translated_at: 2026-06-21T03:00:00.000Z
+translated_at: 2026-06-19T12:43:19.973Z
 ---
 
 # Lawson Bank (ローソン銀行)
@@ -64,13 +64,6 @@ The strategic axis since the 2024-09  parent Lawson JV conversion (Mitsubishi Co
 | Parent | Seven & i HD (listed)| Lawson (unlisted, Mitsubishi Corp + KDDI JV)|
 | Listing | TSE PRIME 8410 | Unlisted |
 
-## 3. #26 deepening: ATM bank model and group boundary
-
-- Lawson Bank is a model that places the ATM network inside Lawson stores on top of a banking license; it should be treated as an ordinary bank, not only as an ATM operator. Matching the official company profile with the FSA bank list means the page subject is Lawson Bank, Inc., not Lawson, Inc. itself.
-- The revenue reading is closer to an ATM platform bank processing withdrawals, deposits, transfers, and balance inquiries for partner financial institutions' cards at store touchpoints than to a full retail bank driven mainly by deposit / loan spread. When comparing with [[regional-banks/seven-bank]], look first at ATM count, partner coverage, installation density, and convenience-store traffic.
-- Parent Lawson became an unlisted retail platform after the 2024 Mitsubishi Corporation / KDDI capital-business partnership and delisting. KDDI / au economic-sphere connectivity is a plausible future issue for Lawson Bank, but the public record should separate bank-license / ATM-network facts from parent-level "Real x Tech Convenience" strategy.
-- FinWiki keeps this page separate from [[megabanks/au-fh|au Financial Holdings]] and [[megabanks/mufg|MUFG]]. Ownership questions do not map one-to-one to the Banking Act operating company, customer touchpoints, or partner ATM network.
-
 ## 4. Regulation / policy
 
 - **Supervisor**: Financial Services Agency (FSA)
@@ -93,9 +86,6 @@ The strategic axis since the 2024-09  parent Lawson JV conversion (Mitsubishi Co
 - Lawson Bank official site / IR (https://www.lawsonbank.jp/)
 - **Lawson Bank official "Lawson Bank by the numbers"**: ATM count 13,889  units (end of 2025-03 , https://www.lawsonbank.jp/about/intro/data/data_0001.html)
 - **Seven Bank official**: domestic ATM count 27,990  units (end of 2025-03 , https://www.sevenbank.co.jp/)
-- Lawson Bank company profile: https://www.lawsonbank.jp/corporate/profile/
-- Lawson investor fact sheet / Lawson Bank reference disclosures: https://www.lawson.jp/en/ir/factsheet/
-- Mitsubishi Corporation / KDDI / Lawson 2024 capital-business partnership release: https://www.mitsubishicorp.com/jp/en/news/release/2024/0000052863.html
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuhoku-fg
-source_hash: 936266f0d9266216
+source_hash: 8b4044c942af1571
 lang: zh
 status: machine
 fidelity: ok
 title: "ほくほく FG (Hokuhoku FG)"
-translated_at: 2026-06-21T03:00:00.000Z
+translated_at: 2026-06-19T12:43:19.902Z
 ---
 
 # ほくほく FG (Hokuhoku FG)
@@ -91,13 +91,6 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 北海道：观光（入境游）+ 农业 + 水产业 + 物流（千岁・苫小牧）
 - 两地盘的第一产业 / 观光权重都较高，与区域经济的联动很深
 
-## 3. #26 深化：双银行控股公司的运营模型
-
-- Hokuhoku FG 将北陆银行和北海道银行两个经营地盘纳入同一家上市银行控股公司。它不同于单一县内地方银行 HD。官方英文网站和 IR surface 以控股公司为单位披露业绩、统合报告和有价证券报告书。
-- 业务模型的核心是，用同一资本、风险管理和数字投资基础，支撑北陆侧的制造业、旅游、中小企业金融，以及北海道侧的农业、水产、旅游、物流金融。两个地理区域相距较远，但都面临低密度覆盖、网点 / 人员 / 系统效率化课题。
-- 监管上，Hokuhoku FG 作为银行控股公司受金融厅监管，旗下北陆银行和北海道银行则分别是持有银行牌照的运营银行。FinWiki 将 [[regional-banks/hokuriku-bank|北陸銀行]] 和 [[regional-banks/hokkaido-bank|北海道銀行]] 作为经营实体，与作为资本、整合管理和广域战略母页的 Hokuhoku FG 分开。
-- 比较对象包括 [[regional-banks/fukuoka-fg|ふくおか FG]]、[[regional-banks/mebuki-fg|めぶき FG]] 等多县域集团，以及北海道侧竞争者 [[megabanks/ndfg|北洋銀行]]。Hokuhoku FG 的特征不是相邻县联盟，而是北陆 / 北海道两个远隔地盘并存。
-
 ## 4. 监管・政策
 
 - **主管**：金融厅（FSA）+ 北陆财务局 / 北海道财务局
@@ -118,9 +111,6 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **Wikipedia: ほくほくフィナンシャルグループ**（https://ja.wikipedia.org/wiki/ほくほくフィナンシャルグループ, 2026-05-19 抽取）
 - **Wikipedia: 北陆银行**（https://ja.wikipedia.org/wiki/北陸銀行, 2026-05-19 抽取）
 - **Wikipedia: 北海道银行**（https://ja.wikipedia.org/wiki/北海道銀行, 2026-05-19 抽取）
-- Hokuhoku Financial Group official English site：https://www.hokuhoku-fg.co.jp/english/
-- Hokuhoku Financial Group IR information：https://www.hokuhoku-fg.co.jp/english/ir/
-- Hokuhoku Financial Group Integrated Report 2024：https://pdf.irpocket.com/C8377/PEbr/ooUT/py8l.pdf
 
 ---
 

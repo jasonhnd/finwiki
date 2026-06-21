@@ -1,11 +1,11 @@
 ---
 source: trust-banks/alterna-trust
-source_hash: f364ab766df1d380
+source_hash: 013dc51450b1a5a7
 lang: zh
 status: machine
 fidelity: ok
 title: "Alterna Trust"
-translated_at: 2026-06-21T04:10:00.000Z
+translated_at: 2026-05-31T07:28:06.188Z
 ---
 # Alterna Trust
 
@@ -49,14 +49,6 @@ Alterna Trust 是数字资产领域中最清楚体现 trust-company registry 重
 
 本页不应暗示 Alterna Trust 本身就是交易所、券商或代币平台。市场场所路径请用 [[securities/osaka-digital-exchange|ODX]]，平台背景请用 [[payment-firms/progmat|Progmat]]。
 
-## #26 深化：信托公司牌照与 tokenized asset custody 角色
-
-FSA trust-company list 是本页的监管锚点。Alterna Trust 是 trust-company route，不是银行、证券公司、交易所或 stablecoin issuer。公开设立 release 将其描述为 Mitsui & Co. Digital Asset Management (MDM) 与 Sumitomo Mitsui Trust Bank 的 joint venture，专门从事数字证券，尤其是 beneficiary-certificate issuing trust 的管理。
-
-在 security-token fund 结构中，有用的功能拆分是：asset owner / asset manager、trustee、platform、broker / distributor、investor、settlement / custody route。Alterna Trust 的角色是 trustee 与 trust-administration layer。MDM / ALTERNA 提供投资与数字证券分销背景；[[payment-firms/progmat|Progmat]] 提供 platform / infrastructure 背景；[[securities/osaka-digital-exchange|ODX]] 在相关场景中是 market-venue route。
-
-因此，本页应作为 tokenized real estate 与 alternative-asset financing 的 licence-boundary / operating-model 页面使用。它说明实物资产所有者如何通过 beneficiary-certificate issuing trust 向个人投资者融资，同时不把 trustee、broker 和 platform 功能合并为同一个主体。
-
 ## Research Checklist
 
 1. 确认其在 FSA trust-company list 中的当前登记状态。
@@ -79,5 +71,3 @@ FSA trust-company list 是本页的监管锚点。Alterna Trust 是 trust-compan
 
 - FSA: trust company list.
 - Mitsui & Co. Digital Asset Management / SMTB / PR Times 关于 Alterna Trust 的公开发布。
-- Mitsui & Co. Digital Asset Management, "Service" page, trust business section.
-- FSA English trust company list.

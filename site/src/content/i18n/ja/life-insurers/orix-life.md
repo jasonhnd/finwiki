@@ -1,11 +1,11 @@
 ---
 source: life-insurers/orix-life
-source_hash: fb36094b92bfcaae
+source_hash: 6c37bd25cfb94486
 lang: ja
 status: machine
 fidelity: ok
 title: "オリックス生命保険"
-translated_at: 2026-06-21T04:10:00.000Z
+translated_at: 2026-06-02T15:14:17.122Z
 ---
 
 # オリックス生命保険
@@ -81,15 +81,7 @@ translated_at: 2026-06-21T04:10:00.000Z
 
 ライフネット [[life-insurers/lifenet]] のような**純ネット専業生保**ではなく、ネット直販 + 代理店 + 銀行窓販の**ハイブリッド型**として、コスト効率と販路カバレッジの両立を狙う。CURE 系商品は比較サイトでの露出が高く、医療保険ネット販売市場のトップ級プレゼンスを確保している（一般評価ベース）。
 
-## 4. #26 深化: ORIX グループの保険エンジンとチャネルミックス
-
-ORIX Group の 2025 年 insurance business ページは、生命保険事業を medical insurance と death insurance を含む life insurance business として整理し、2025-03-31 時点で assets 3 兆 92 億円、profits 744 億円を掲げる。したがって、オリックス生命は単なるネット医療保険ブランドではなく、[[leasing-firms/orix-corp|ORIX]] の diversified finance group の中で、保険 liabilities、運用資産、個人金融接点を持つ insurance engine として読む必要がある。
-
-販売モデルは hybrid である。[[life-insurers/lifenet|ライフネット生命]] が direct-origin model を強く持つのに対し、オリックス生命は代理店、銀行窓販、ネット直販を併用し、医療・がん・死亡保障を broad retail channel で売る。これは、保険ショップ・比較サイト・銀行窓販での third-sector product exposure と、ORIX brand / group balance-sheet を組み合わせるモデルで、単純な D2C insurer ではない。
-
-group relationship では、ORIX の leasing / real-estate / investment / banking / asset-management portfolio と並ぶ保険セグメントとして扱う。規制上は生命保険会社であり、solvency、商品説明、銀行窓販、IFRS17 / economic-value based solvency の論点を持つ。一方、親会社の capital allocation では、ORIX がどの事業へ資本を配分するかの文脈で、insurance segment の base profits と投資運用収益が重要になる。
-
-## 5. 競合ポジション
+### 競合ポジション
 
 | 競合カテゴリ | 主要プレイヤー | オリックス生命の差別化 |
 |---|---|---|
@@ -98,7 +90,7 @@ group relationship では、ORIX の leasing / real-estate / investment / bankin
 | 第三分野特化 | アフラック [[life-insurers/aflac-japan]] | 医療「CURE」での価格・シンプルさ訴求 |
 | 外資 | プルデンシャル [[life-insurers/prudential-japan]] / AXA [[life-insurers/axa-japan]] | ネット完結による低コスト |
 
-## 6. 規制・政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）— 生命保険業法
 - **業界団体**: 生命保険協会（一般社団法人）
@@ -120,9 +112,6 @@ group relationship では、ORIX の leasing / real-estate / investment / bankin
 - **Wikipedia: オリックス生命保険**（ja.wikipedia.org, 2026-05-19 抽出）
 - **オリックス株式会社 統合報告書 / IR 公表資料**（2024-2025、保険セグメント開示）
 - 生命保険協会 公表資料
-- ORIX Group, "Insurance"（https://www.orix.co.jp/grp/en/about/businesses/insurance/）
-- ORIX Group, "Integrated Report / Annual Report"（https://www.orix.co.jp/grp/en/ir/library/annual_report/）
-- ORIX Group, "Integrated Report 2025"（https://www.orix.co.jp/grp/en/pdf/ir/library/annual_report/AR2025E.pdf）
 
 ---
 

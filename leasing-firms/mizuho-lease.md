@@ -7,8 +7,8 @@ aliases:
   - "みずほリース株式会社"
 domain: leasing-firms
 created: 2026-05-19
-last_updated: 2026-06-21
-last_tended: 2026-06-21
+last_updated: 2026-05-20
+last_tended: 2026-05-20
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, leasing, mizuho, marubeni, non-bank-finance]
@@ -16,9 +16,6 @@ status: active
 sources:
   - "https://www.mizuho-ls.co.jp/en/company/data.html"
   - "https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html"
-  - "https://www.mizuho-ls.co.jp/en/company/group.html"
-  - "https://www.mizuho-ls.co.jp/en/service/global.html"
-  - "https://www.mizuho-ls.co.jp/en/ir/library/integrated_report/integrated_report2025.html"
   - "https://www.marubeni.com/en/news/2024/release/20240514E.pdf"
 ---
 
@@ -53,14 +50,6 @@ For JapanFG analysis, it is a control page for **Mizuho's leasing exposure outsi
 | Aircraft / transportation | Exposure to residual value and international asset finance |
 | Global / Marubeni linkage | Uses trading-company networks and overseas asset businesses |
 | Mizuho linkage | Corporate-client pipeline, credit coordination, and group finance adjacency |
-
-## #26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes
-
-Mizuho Leasing is not a bank subsidiary page; it is a listed non-bank finance platform whose shareholder and business relationships connect bank origination, trading-company asset networks, and lease / installment-sale balance-sheet usage. The public shareholder table shows Mizuho Financial Group and Marubeni as major strategic shareholders, while the 2024 capital and business alliance release frames Marubeni and Mizuho Leasing as partners for domestic and overseas finance and leasing growth.
-
-The operating model should be read across several asset-finance lanes rather than as generic equipment leasing. Official group and service pages point to real estate, environmental / energy assets, aircraft, refrigerated-trailer leasing, overseas finance companies, and international M&A / direct-investment routes. Aircastle and other overseas exposures make residual-value, funding, FX and aviation-cycle risk relevant; domestic corporate leasing keeps the page anchored in ordinary Japanese corporate capex and vendor finance.
-
-For JapanFG analysis, the page is a bridge between [[megabanks/mizuho-fg|Mizuho FG]] and trading-house finance logic. [[leasing-firms/smfl|SMFL]] maps the SMFG + Sumitomo Corporation version of the same pattern, while [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] maps the Mitsubishi / MUFG version. Mizuho Leasing's distinctive angle is the post-2019 Mizuho relationship plus the strengthened 2024 Marubeni alliance, which makes it both a bank-adjacent finance arm and a trading-company-linked asset platform.
 
 ## Strategic Reading
 
@@ -102,6 +91,4 @@ Mizuho Leasing is useful because it shows how a megabank group can use a listed 
 
 - Mizuho Leasing official corporate information.
 - Mizuho Leasing stock / shareholder information.
-- Mizuho Leasing group and international business pages.
-- Mizuho Leasing Integrated Report 2025.
 - Marubeni release on Mizuho Leasing capital relationship, 2024.

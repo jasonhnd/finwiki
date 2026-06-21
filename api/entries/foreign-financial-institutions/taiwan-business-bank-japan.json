@@ -18,8 +18,8 @@
     ],
     "domain": "foreign-financial-institutions",
     "created": "2026-05-22",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
     "review_by": "2026-11-22",
     "confidence": "likely",
     "tags": [
@@ -33,8 +33,6 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.zenginkyo.or.jp/bankdb/bc0633/",
-      "https://www.tbb.com.tw/en-us/about/locations/overseas/tokyo",
-      "https://www.tbb.com.tw/en-us/about/brief/histories",
       "https://www.tbb.com.tw/en-us/-/media/tbb/files/en-us/about/locations/overseas/tokyo-jp/personal-information-management-policy.pdf?hash=74B7AC17C2354067B60B89F49F6AA52F&sc_lang=en-us"
     ]
   },
@@ -43,7 +41,6 @@
     "台湾中小企業銀行日本 (Taiwan Business Bank Japan)",
     "Wiki route",
     "Overview",
-    "#26 Deepening: SME corridor branch thesis",
     "Entity Boundary",
     "Business Role Map",
     "Public Context",
@@ -52,7 +49,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -61,7 +58,6 @@
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/industrial-bank-of-korea-japan",
       "foreign-financial-institutions/taishin-bank-japan",
-      "foreign-financial-institutions/taiwan-cooperative-bank-japan",
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
@@ -72,16 +68,15 @@
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-cooperative-bank-japan",
       "https://finwiki.zksc.io/policy-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5250,
-    "word_like_tokens": 848,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-21"
+    "nonspace_chars": 3830,
+    "word_like_tokens": 607,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-06"
   }
 }

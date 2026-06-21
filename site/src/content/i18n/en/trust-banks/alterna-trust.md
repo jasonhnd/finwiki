@@ -1,11 +1,11 @@
 ---
 source: trust-banks/alterna-trust
-source_hash: f364ab766df1d380
+source_hash: 013dc51450b1a5a7
 lang: en
 status: machine
 fidelity: ok
 title: "Alterna Trust"
-translated_at: 2026-06-21T04:10:00.000Z
+translated_at: 2026-05-31T07:28:06.189Z
 ---
 # Alterna Trust
 
@@ -49,14 +49,6 @@ Alterna Trust is one of the clearest cases where the trust-company registry matt
 
 The page should not imply that Alterna Trust itself is the exchange, broker, or token platform. Use [[securities/osaka-digital-exchange|ODX]] for the market-venue route and [[payment-firms/progmat|Progmat]] for platform context.
 
-## #26 Deepening: trust-company licence and tokenized-asset custody role
-
-The FSA trust-company list gives this page its regulatory anchor. Alterna Trust is a trust-company route, not a bank, securities firm, exchange, or stablecoin issuer. The public establishment releases describe it as a joint venture by Mitsui & Co. Digital Asset Management (MDM) and Sumitomo Mitsui Trust Bank, specialized in digital securities and especially in the administration of trusts with certificates of beneficial interest.
-
-In a security-token fund structure, the useful functional split is: asset owner / asset manager, trustee, platform, broker / distributor, investor, and settlement / custody route. Alterna Trust's role is the trustee and trust-administration layer. MDM / ALTERNA provides investment and digital-securities distribution context; [[payment-firms/progmat|Progmat]] provides platform / infrastructure context; [[securities/osaka-digital-exchange|ODX]] is the market-venue route where relevant.
-
-This page should therefore be used as a licence-boundary and operating-model page for tokenized real estate and alternative-asset financing. It explains how a real-asset owner can raise funds from individual investors through a beneficiary-certificate issuing trust without collapsing trustee, broker and platform functions into one entity.
-
 ## Research Checklist
 
 1. Confirm current registration in the FSA trust-company list.
@@ -79,5 +71,3 @@ This page should therefore be used as a licence-boundary and operating-model pag
 
 - FSA: trust company list.
 - Mitsui & Co. Digital Asset Management / SMTB / PR Times public releases on Alterna Trust.
-- Mitsui & Co. Digital Asset Management, "Service" page, trust business section.
-- FSA English trust company list.

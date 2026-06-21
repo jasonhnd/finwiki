@@ -19,8 +19,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-19",
-    "last_updated": "2026-06-21",
-    "last_tended": "2026-06-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -30,10 +30,7 @@
     "status": "active",
     "sources": [
       "Wikipedia: オリックス生命保険 (2026-05-19 抽出)",
-      "オリックス株式会社 統合報告書 / IR (2024-2025)",
-      "https://www.orix.co.jp/grp/en/about/businesses/insurance/",
-      "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
-      "https://www.orix.co.jp/grp/en/pdf/ir/library/annual_report/AR2025E.pdf"
+      "オリックス株式会社 統合報告書 / IR (2024-2025)"
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -47,7 +44,7 @@
     "3. 主要商品",
     "親会社シナジー",
     "チャネル戦略",
-    "4. #26 deepening: ORIX group insurance engine and channel mix"
+    "競合ポジション"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -87,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5165,
-    "word_like_tokens": 747,
+    "nonspace_chars": 3817,
+    "word_like_tokens": 526,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-21"
+    "last_modified": "2026-06-08"
   }
 }
