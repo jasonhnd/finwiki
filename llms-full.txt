@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-21T00:09:09+09:00
+Generated: 2026-06-20T13:10:57+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1566
-Public pages listed: 1565
+Markdown files: 1564
+Public pages listed: 1563
 
 ## Reading Rules
 
@@ -28,17 +28,8 @@ Public pages listed: 1565
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计, Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零, i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
-
-### Contributing to FinWiki
-- URL: https://finwiki.zksc.io/CONTRIBUTING
-- Source path: CONTRIBUTING.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CONTRIBUTING.md
-- Domain: root
-- Type: control_doc
-- Summary: FinWiki is a public knowledge base. Contributions should start from a scoped GitHub issue, use only public-source material, and finish with the validation evidence needed for review.
-- Headings: Contributing to FinWiki, 1. Start From An Issue, 2. Keep The Public-Source Boundary, 3. Local Setup, 4. Work By Change Type, 5. Wiki Content Checklist, 6. Commit And Review
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE
@@ -1472,7 +1463,7 @@ Public pages listed: 1565
 - Domain: card-issuers
 - Type: wiki_entry
 - Summary: This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: PayPayカード (PayPay Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Issuer versus wallet boundary, 4. Why this standalone page matters, Related
+- Headings: PayPayカード (PayPay Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/rakuten-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix, https://finwiki.zksc.io/securities-firms/paypay-securities
 
 ### ポケットカード (Pocket Card)
@@ -1502,7 +1493,7 @@ Public pages listed: 1565
 - Domain: card-issuers
 - Type: wiki_entry
 - Summary: This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: セブン・カードサービス (Seven Card Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Retail finance and nanaco boundary, 4. Why this standalone page matters, Related
+- Headings: セブン・カードサービス (Seven Card Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/aeon-financial-service, https://finwiki.zksc.io/card-issuers/ucs-card, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/regional-banks/seven-bank, https://finwiki.zksc.io/retail/seven-and-i-hd
 
 ### しずぎんカード (Shizugin Card / Shizuoka Bank Card)
@@ -1522,7 +1513,7 @@ Public pages listed: 1565
 - Domain: card-issuers
 - Type: wiki_entry
 - Summary: This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: 三井住友カード (SMCC), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. SMFG platform and regulatory boundary, 4. Why this standalone page matters, Related
+- Headings: 三井住友カード (SMCC), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/mufg-nicos, https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape
 
 ### トヨタファイナンス
@@ -1561,7 +1552,7 @@ Public pages listed: 1565
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/INDEX.md
 - Domain: consumer-finance
 - Type: domain_index
-- Summary: consumer-finance/ contains 5 active entries (excluding INDEX, 6 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
+- Summary: consumer-finance/ contains 4 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
 - Headings: consumer-finance — Japanese consumer lender (貸金業) index, TL;DR, Entries, How the domain reads, Expansion rules, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/consumer-finance/acom, https://finwiki.zksc.io/consumer-finance/acom-co-detail, https://finwiki.zksc.io/consumer-finance/aiful, https://finwiki.zksc.io/consumer-finance/shinsei-financial, https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/sbi-hd
 
@@ -6430,7 +6421,7 @@ Public pages listed: 1565
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/INDEX.md
 - Domain: foreign-financial-institutions
 - Type: domain_index
-- Summary: foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,
+- Summary: foreign-financial-institutions/ contains 56 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,
 - Headings: foreign-financial-institutions — Foreign banks & securities/AM in Japan index, Overview, Registry of record, Members, International central securities depositories (ICSD) (2), Foreign institutions — North America (3), Foreign institutions — Europe / UK (8), Foreign institutions — Greater China / Taiwan (15)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/agricultural-bank-of-china-japan, https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan, https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-negara-indonesia-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-china-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-communications-japan
 
@@ -9727,7 +9718,7 @@ Public pages listed: 1565
 - Domain: payment-firms
 - Type: wiki_entry
 - Summary: This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Regulatory and product boundary, 4. Why this standalone page matters, Related
+- Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/mercari-hd, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split
 
 ### 株式会社マネーフォワード (Money Forward)
@@ -9747,7 +9738,7 @@ Public pages listed: 1565
 - Domain: payment-firms
 - Type: wiki_entry
 - Summary: This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori
-- Headings: ネットプロテクションズHD (Net Protections HD), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Product and economics map, 4. Why this standalone page matters, 5. 規制・政策
+- Headings: ネットプロテクションズHD (Net Protections HD), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 規制・政策, Related
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/aplus, https://finwiki.zksc.io/card-issuers/credit-saison, https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/card-issuers/orico, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/bnpl-landscape, https://finwiki.zksc.io/payment-firms/merpay, https://finwiki.zksc.io/payment-firms/paidy, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### ネットスターズ
@@ -9807,7 +9798,7 @@ Public pages listed: 1565
 - Domain: payment-firms
 - Type: wiki_entry
 - Summary: This entry sits under payment-firms INDEX. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: PayPay株式会社, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Regulatory and group positioning, 4. Why this standalone page matters, Related
+- Headings: PayPay株式会社, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/paypay-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/securities-firms/paypay-securities
 
 ### pring
@@ -9877,7 +9868,7 @@ Public pages listed: 1565
 - Domain: payment-firms
 - Type: wiki_entry
 - Summary: This entry sits under payment-firms INDEX. Read it against GMOイプシロン (GMO Epsilon) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: SBペイメントサービス (SB Payment Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. PSP stack and regulatory position, 4. Why this standalone page matters, Related
+- Headings: SBペイメントサービス (SB Payment Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/paypay-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/dg-financial-technology, https://finwiki.zksc.io/payment-firms/gmo-epsilon, https://finwiki.zksc.io/payment-firms/gmo-payment-gateway, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape
 
 ### SBIレミット
@@ -9967,7 +9958,7 @@ Public pages listed: 1565
 - Domain: payment-firms
 - Type: wiki_entry
 - Summary: This entry sits under payment-firms INDEX. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: Wise Payments Japan, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Licence and operating-model read, 4. Why this standalone page matters, Related
+- Headings: Wise Payments Japan, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/payoneer-japan, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payment-firms/revolut-technologies-japan, https://finwiki.zksc.io/payment-firms/sbi-remit, https://finwiki.zksc.io/payment-firms/western-union-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
 
 ### Zaim (ザイム)
@@ -10396,7 +10387,7 @@ Public pages listed: 1565
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/INDEX.md
 - Domain: policy-finance
 - Type: domain_index
-- Summary: policy-finance/ contains 34 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF
+- Summary: policy-finance/ contains 35 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF
 - Headings: policy-finance — Japan public finance / export credit index, TL;DR, Start here, Institution lanes, Public-credit / guarantee systems, Rule / system layer, Wave 5-6 additions (2026-05), Comparison matrices (added 2026-05)
 - First resolved wikilinks: https://finwiki.zksc.io/financial-regulators/jbic, https://finwiki.zksc.io/financial-regulators/jfc, https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/fukuoka-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/hokkaido-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/hyogo-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-eximbank-history, https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
 
@@ -13035,14 +13026,6 @@ Public pages listed: 1565
 - Type: release_note
 - Headings: 開発文書体系の要件・仕様階層化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
-### 決済・カード実体ページ深化 Wave A
-- URL: https://finwiki.zksc.io/releases/v2026.06.20-1
-- Source path: releases/v2026.06.20-1.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.20-1.md
-- Domain: releases
-- Type: release_note
-- Headings: 決済・カード実体ページ深化 Wave A, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
-
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
 - Source path: retail/INDEX.md
@@ -15099,7 +15082,7 @@ Public pages listed: 1565
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/INDEX.md
 - Domain: trust-banks
 - Type: domain_index
-- Summary: trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es
+- Summary: trust-banks/ contains 46 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es
 - Headings: trust-banks — Japanese trust banks & trust companies index, Overview, Registry of record, Members, Trust banks (信託銀行) (13), Real-estate / estate-planning trust companies (19), Other trust companies (信託会社) (14), Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/trust-banks/alterna-trust, https://finwiki.zksc.io/trust-banks/asahi-trust, https://finwiki.zksc.io/trust-banks/capital-trust, https://finwiki.zksc.io/trust-banks/castglobal-trust, https://finwiki.zksc.io/trust-banks/custody-bank, https://finwiki.zksc.io/trust-banks/daito-mirai-trust, https://finwiki.zksc.io/trust-banks/daiwa-living-trust
 

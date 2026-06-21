@@ -20,7 +20,6 @@ When creating a mirror page, choose the anchor first, then write the mirror as a
 
 ## References
 
-- [Canonical Entity Graph Design](canonical-entity-graph-design.md)
 - [ADR](adr.md)
 - [Entry Authoring](../06-implementation/entry-authoring.md)
 - [Wikilink Resolution](../05-functional-specs/wikilink-resolution.md)

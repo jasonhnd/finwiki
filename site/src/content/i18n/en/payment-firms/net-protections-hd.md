@@ -1,11 +1,11 @@
 ---
 source: payment-firms/net-protections-hd
-source_hash: 4c1266ebe2266615
+source_hash: 89acfa7df7d5f896
 lang: en
 status: machine
 fidelity: ok
 title: "Net Protections HD"
-translated_at: 2026-06-20T09:33:00.420Z
+translated_at: 2026-06-01T00:41:50.412Z
 ---
 
 # Net Protections HD
@@ -34,21 +34,11 @@ Net Protections Holdings (TSE PRIME **7383**) is Japan's earliest-mover BNPL pur
 - **NP Kakebarai** provides BtoB transaction invoice outsourcing + credit screening + collection outsourcing in a BNPL structure, turning the traditional "invoice -> bank transfer -> reminder" flow into SaaS.
 - **AFTEE** expands into Taiwan and Vietnam's EC pay-later markets, transplanting Net Protections' credit model overseas. ^[extracted]
 
-## 3. Product and economics map
-
-| Lane | Public-source reading |
-|---|---|
-| NP Atobarai | Merchant checkout BNPL for EC. The product site frames it as pay-after-delivery for shoppers and a merchant service combining credit screening, invoicing, collection, and fee plans. |
-| atone | Consumer-account BNPL that lets users aggregate purchases across participating merchants into a later payment experience; read it as the consumer-wallet style lane inside the group. |
-| NP Kakebarai | BtoB invoice-payment outsourcing. The public site describes credit / receivable guarantee, invoice issuance, collection, payment management, dunning, and inquiry handling. |
-| AFTEE | Overseas BNPL brand for markets outside Japan; keep it separate from the Japan regulatory page unless a source explicitly ties a local licence to the Japan entity. |
-| Listed holdco lens | The IR site and TSE Prime listing make Net Protections useful for public BNPL economics: GMV / merchant base / credit-loss metrics can be checked in disclosed materials instead of inferred from private-market peers. |
-
-## 4. Why this standalone page matters
+## 3. Why this standalone page matters
 
 Net Protections is one of Japan BNPL's largest independent operators by **transaction volume / merchant count**, yet its corporate entity is not absorbed into an existing parent-group page like [[payment-firms/paidy|Paidy]] or [[card-issuers/aplus|アプラス]]. It therefore has high value as a separate **independent BNPL holding company** page in the JapanFG namespace.
 
-## 5. Regulation / policy
+## 4. Regulation / policy
 
 - **Act on the Protection of Personal Information**: handling of personal data for credit assessment (attributes / transaction histories) and the scope of third-party provision are key issues.
 - **TSE PRIME disclosure**: as a listed company, quarterly IR and securities-report disclosure provide GMV, merchant count, and credit-loss rate, making it one of the few cases where independent BNPL economics can be read through public numbers. ^[extracted]
@@ -72,6 +62,5 @@ Net Protections is one of Japan BNPL's largest independent operators by **transa
 - Net Protections IR: https://corp.netprotections.com/ir/
 - NP Atobarai product site: https://www.netprotections.com/
 - atone product site: https://atone.be/
-- NP Kakebarai product site: https://np-kakebarai.com/
 - AFTEE product site (overseas BNPL): https://aftee.jp/
 - METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
