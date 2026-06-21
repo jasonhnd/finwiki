@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/seiko-epson
-source_hash: 7f2b257f6b345749
+source_hash: 66aeea142e6ebfd2
 lang: ja
 status: machine
 fidelity: ok
 title: "Seiko Epson Corporation (セイコーエプソン)"
-translated_at: 2026-06-19T13:31:34.044Z
+translated_at: 2026-06-21T04:10:00.000Z
 ---
 
 # Seiko Epson Corporation (セイコーエプソン)
@@ -50,7 +50,15 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 - **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
 - **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
 
-## 4. 規制と政策
+## 4. #26 深化: manufacturer-finance anchor と balance-sheet use cases
+
+Epson を `manufacturer-finance` に含めるのは、同社が規制金融機関だからではなく、日本の製造業の背後にある financing needs を分析するための operating-company anchor として有用だからである。公式 business pages は、Epson が ENGINEERED FUTURE 2035 の下で成長領域を中心に事業セグメントとポートフォリオを再編していると説明し、IR pages は printing、visual communications、wearable / industrial products にまたがる revenue by segment and region を開示している。これらの開示により、working capital、capex、FX、supply-chain finance を公開情報ベースで読む入口になる。
+
+主要な finance use cases は、printers and consumables の inventory and channel finance、robotics / manufacturing equipment の capex and equipment finance、global printing and projector channels の receivables、distributor credit、country risk、そして energy-saving、resource circulation、decarbonization をめぐる green / transition finance である。local-finance analysis では、長野の本社・製造拠点が Epson を [[regional-banks/hachijuni-bank|hachijuni-bank]] と信州精密製造クラスターに接続する。
+
+peer comparison では、Epson を [[manufacturer-finance/toyota-motor|Toyota Motor]] のような automaker finance anchor と区別する必要がある。Toyota は finance arm と captive auto-credit logic が中核だが、Epson の金融上の意味は、supply-chain working capital、factory automation investment、yen sensitivity、electronics procurement、regional industrial credit exposure に寄る。
+
+## 5. 規制と政策
 
 - 上場会社として東証・金商法・会社法の開示対象。
 - 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
@@ -65,8 +73,11 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 ## Sources
 
 - Epson「Company Outline」: https://corporate.epson/en/about/info.html
+- Epson「Our Business」: https://corporate.epson/en/business/
 - Epson「Annual Report」: https://corporate.epson/en/investors/publications/annual-report.html
 - Epson「Integrated Report」: https://corporate.epson/en/investors/publications/integrated-report.html
+- Epson「Revenue by Business Segment and Region」: https://corporate.epson/en/investors/finance/highlight/segment.html
+- Epson「Financial Results Materials」: https://corporate.epson/en/investors/publications/financial-reports/
 
 ---
 

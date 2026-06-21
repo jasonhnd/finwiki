@@ -19,8 +19,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-06-21",
+    "last_tended": "2026-06-21",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -31,7 +31,11 @@
     "status": "active",
     "sources": [
       "Wikipedia: ライフネット生命保険 (2026-05-19 抽出、公開情報のみ)",
-      "東証グロース 上場会社情報 (証券コード 7157)"
+      "東証グロース 上場会社情報 (証券コード 7157)",
+      "https://ir.lifenet-seimei.co.jp/en/ir/library.html",
+      "https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html",
+      "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/overview.html",
+      "https://ir.lifenet-seimei.co.jp/en/ir/midtermplan/strategies_by_business.html"
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -77,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3762,
-    "word_like_tokens": 557,
+    "nonspace_chars": 5597,
+    "word_like_tokens": 865,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

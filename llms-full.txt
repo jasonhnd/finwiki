@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-21T00:09:09+09:00
+Generated: 2026-06-21T12:55:34+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1566
-Public pages listed: 1565
+Markdown files: 1570
+Public pages listed: 1569
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1565
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #29 - canonical entity graph design / anchors and typed relations / 实体图建全设计, Issue #26 - Wave A entity deepening / payments and cards / 支付与发卡实体页深化
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Issue #23 reading experience implementation + #32/#33/#34 planning closeout / human site・coverage・AI・provenance / 阅读体验与规划收尾, Issue #26 - Wave D entity deepening / insurance, trust and manufacturer anchors / 保险、信托与制造业锚点实体页深化
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### Contributing to FinWiki
@@ -657,7 +657,7 @@ Public pages listed: 1565
 - Domain: asset-managers
 - Type: wiki_entry
 - Summary: This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.
-- Headings: 東京海上アセットマネジメント (Tokio Marine AM), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. 出資・統治構造, 4. Why standalone page matters, 5. 競合・peer
+- Headings: 東京海上アセットマネジメント (Tokio Marine AM), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. 出資・統治構造, 4. #26 deepening: insurer-group asset manager and channel role, 5. Why standalone page matters
 - First resolved wikilinks: https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/asset-management-one, https://finwiki.zksc.io/asset-managers/mufg-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/nomura-asset-management, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/financial-licenses/securities-license-stack, https://finwiki.zksc.io/life-insurers/nippon-life, https://finwiki.zksc.io/life-insurers/td-hd, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/non-life-insurers/msad
 
 ### banking — Net bank / BaaS / banking-structure index
@@ -6641,8 +6641,8 @@ Public pages listed: 1565
 - Domain: foreign-financial-institutions
 - Type: wiki_entry
 - Summary: This entry sits under foreign-financial-institutions INDEX. Read it against 兆豐國際商業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 中國信託商業銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan, https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan
+- Headings: 中國信託商業銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. #26 deepening: Taiwan private-bank branch corridor, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan, https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan, https://finwiki.zksc.io/foreign-financial-institutions/taiwan-business-bank-japan, https://finwiki.zksc.io/regional-banks/tokyo-star-bank
 
 ### DBS銀行 東京支店
 - URL: https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan
@@ -6941,8 +6941,8 @@ Public pages listed: 1565
 - Domain: foreign-financial-institutions
 - Type: wiki_entry
 - Summary: Taiwan Business Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Industrial Bank of Korea Japan for SME-bank comparison, Chang Hwa Bank Japan for Taiwan peer context, and banking index for the
-- Headings: 台湾中小企業銀行日本 (Taiwan Business Bank Japan), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index, https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan, https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan, https://finwiki.zksc.io/policy-finance/INDEX
+- Headings: 台湾中小企業銀行日本 (Taiwan Business Bank Japan), Wiki route, Overview, #26 Deepening: SME corridor branch thesis, Entity Boundary, Business Role Map, Public Context, Research Checklist
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index, https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan, https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/taiwan-cooperative-bank-japan, https://finwiki.zksc.io/policy-finance/INDEX
 
 ### 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)
 - URL: https://finwiki.zksc.io/foreign-financial-institutions/taiwan-cooperative-bank-japan
@@ -7455,7 +7455,7 @@ Public pages listed: 1565
 - Domain: leasing-firms
 - Type: wiki_entry
 - Summary: This entry sits under leasing-firms INDEX. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: Mizuho Leasing, Wiki route, TL;DR, Structure, Business Map, Strategic Reading, Competitive Context, Risk Notes
+- Headings: Mizuho Leasing, Wiki route, TL;DR, Structure, Business Map, #26 Deepening: Mizuho / Marubeni satellite and asset-finance lanes, Strategic Reading, Competitive Context
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital, https://finwiki.zksc.io/leasing-firms/ntt-tc-lease, https://finwiki.zksc.io/leasing-firms/orix-corp, https://finwiki.zksc.io/leasing-firms/smfl, https://finwiki.zksc.io/leasing-firms/tokyo-century, https://finwiki.zksc.io/megabanks/mizuho-fg
 
 ### NECキャピタルソリューションズ (NEC Capital Solutions)
@@ -8325,7 +8325,7 @@ Public pages listed: 1565
 - Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.
-- Headings: Seiko Epson Corporation (セイコーエプソン), Wiki route, TL;DR, 1. 会社構造, 2. 事業ライン map, 3. 戦略と競合, 4. 規制と政策, Related
+- Headings: Seiko Epson Corporation (セイコーエプソン), Wiki route, TL;DR, 1. 会社構造, 2. 事業ライン map, 3. 戦略と競合, 4. #26 deepening: manufacturer-finance anchor and balance-sheet use cases, 5. 規制と政策
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/toyota-motor, https://finwiki.zksc.io/regional-banks/hachijuni-bank
 
 ### Sony Group Finance Arm (ソニーグループ 金融事業アーム)
@@ -11438,7 +11438,7 @@ Public pages listed: 1565
 - Type: wiki_entry
 - Summary: This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: ほくほく FG (Hokuhoku FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, 合併経緯・前身, 重要年表 ^[extracted], 2. 事業セグメント・マップ
-- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/resona-hd, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-fg
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/resona-hd, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-fg, https://finwiki.zksc.io/regional-banks/hokkaido-bank, https://finwiki.zksc.io/regional-banks/hokuriku-bank, https://finwiki.zksc.io/regional-banks/mebuki-fg
 
 ### 北陸銀行
 - URL: https://finwiki.zksc.io/regional-banks/hokuriku-bank
@@ -12038,8 +12038,8 @@ Public pages listed: 1565
 - Domain: regional-banks
 - Type: wiki_entry
 - Summary: This entry sits under regional-banks INDEX. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: SBJ銀行 (Shinhan Bank Japan), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan, https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan, https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan, https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/tokyo-star-bank, https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank
+- Headings: SBJ銀行 (Shinhan Bank Japan), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. #26 deepening: Shinhan corridor and domestic-bank treatment, 4. Why standalone page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan, https://finwiki.zksc.io/foreign-financial-institutions/hana-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan, https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan, https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/tokyo-star-bank, https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank
 
 ### 仙台銀行
 - URL: https://finwiki.zksc.io/regional-banks/sendai-bank
@@ -13043,6 +13043,38 @@ Public pages listed: 1565
 - Type: release_note
 - Headings: 決済・カード実体ページ深化 Wave A, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 資本市場・資産運用・リース実体ページ深化 Wave C
+- URL: https://finwiki.zksc.io/releases/v2026.06.21-2
+- Source path: releases/v2026.06.21-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-2.md
+- Domain: releases
+- Type: release_note
+- Headings: 資本市場・資産運用・リース実体ページ深化 Wave C, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 保険・信託・製造業アンカー実体ページ深化 Wave D
+- URL: https://finwiki.zksc.io/releases/v2026.06.21-3
+- Source path: releases/v2026.06.21-3.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-3.md
+- Domain: releases
+- Type: release_note
+- Headings: 保険・信託・製造業アンカー実体ページ深化 Wave D, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 読書体験・計画文書同期
+- URL: https://finwiki.zksc.io/releases/v2026.06.21-4
+- Source path: releases/v2026.06.21-4.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21-4.md
+- Domain: releases
+- Type: release_note
+- Headings: 読書体験・計画文書同期, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 銀行・外資分行実体ページ深化 Wave B
+- URL: https://finwiki.zksc.io/releases/v2026.06.21
+- Source path: releases/v2026.06.21.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.21.md
+- Domain: releases
+- Type: release_note
+- Headings: 銀行・外資分行実体ページ深化 Wave B, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
 - Source path: retail/INDEX.md
@@ -13180,7 +13212,7 @@ Public pages listed: 1565
 - Domain: securities-firms
 - Type: wiki_entry
 - Summary: This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.
-- Headings: アイザワ証券グループ (Aizawa Securities Group), Wiki route, TL;DR, 1. 会社概要, 主要子会社, 重要年表 ^[extracted], 2. 事業セグメント・マップ, 差別化軸：「アジア新興国投資の専門証券」
+- Headings: アイザワ証券グループ (Aizawa Securities Group), Wiki route, TL;DR, 1. 会社概要, 主要子会社, 重要年表, 2. 事業セグメント・マップ, 差別化軸：「アジア新興国投資の専門証券」
 - First resolved wikilinks: https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd, https://finwiki.zksc.io/securities-firms/matsui-sec, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/okasan-sg, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh, https://finwiki.zksc.io/securities/INDEX
 
 ### あかつき本社 (Akatsuki Honsha)
@@ -13331,7 +13363,7 @@ Public pages listed: 1565
 - Type: wiki_entry
 - Summary: This entry sits under securities-firms INDEX. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.
 - Headings: 松井証券株式会社 (Matsui Securities), Wiki route, TL;DR, 1. 会社概要, 業態の特異性, 重要年表（公開情報ベース）, 2. 事業セグメント・マップ, ネット証券パイオニアとしてのポジション
-- First resolved wikilinks: https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/sbi-securities, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/monex-group, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/rakuten-securities, https://finwiki.zksc.io/securities-firms/sbi-securities, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX
 
 ### めぶき証券 (Mebuki Securities)
 - URL: https://finwiki.zksc.io/securities-firms/mebuki-securities
@@ -15110,7 +15142,7 @@ Public pages listed: 1565
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Alterna Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.
-- Headings: オルタナ信託 (Alterna Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: オルタナ信託 (Alterna Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, #26 Deepening: trust-company licence and tokenized-asset custody role, Research Checklist
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-licenses/securities-license-stack, https://finwiki.zksc.io/fintech/jp-stablecoin-progmat, https://finwiki.zksc.io/payment-firms/progmat, https://finwiki.zksc.io/securities/osaka-digital-exchange, https://finwiki.zksc.io/trust-banks/INDEX, https://finwiki.zksc.io/trust-banks/smtb, https://finwiki.zksc.io/trust-banks/trust-companies-japan-index
 
 ### Asahi Trust / 朝日信託

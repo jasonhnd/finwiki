@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taiwan-business-bank-japan
-source_hash: 68a59671dc67c3c4
+source_hash: 870916b12055d773
 lang: en
 status: machine
 fidelity: ok
 title: "Taiwan Business Bank Japan"
-translated_at: 2026-06-01T02:31:57.111Z
+translated_at: 2026-06-21T03:00:00.000Z
 ---
 # Taiwan Business Bank Japan
 
@@ -20,6 +20,14 @@ Use this page for Taiwan SME-bank, Tokyo branch, remittance, and Taiwan-Japan sm
 Taiwan Business Bank's Japan route is listed in the FSA foreign-bank branch surface and in public Japanese banking-directory material. Public branch documents identify Taiwan Business Bank Tokyo Branch as the branch surface for Japan-facing notices and customer documentation.
 
 The page is worth standalone treatment because the bank's name and public role point to SME finance rather than only large corporate or securities-service banking. That makes it a useful comparator to Korea's [[foreign-financial-institutions/industrial-bank-of-korea-japan|Industrial Bank of Korea Japan]] and to Japanese SME-policy finance routes.
+
+## #26 Deepening: SME corridor branch thesis
+
+Taiwan Business Bank's official Tokyo Branch page lists the Japan branch, SWIFT code MBBTJPJT, and Marunouchi address. Its history page describes a domestic Taiwan branch network and overseas units including Tokyo. For FinWiki, the operating thesis is therefore narrower and clearer than "Taiwan bank in Japan": it is the SME-bank corridor route for Taiwan-Japan corporate accounts, remittance, trade finance, and supplier-payment support.
+
+The branch should be read as a foreign-bank branch rather than a Japan-incorporated bank. That means the relevant comparison set is [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/taishin-bank-japan|Taishin Bank Japan]], [[foreign-financial-institutions/taiwan-cooperative-bank-japan|Taiwan Cooperative Bank Japan]], and [[foreign-financial-institutions/industrial-bank-of-korea-japan|IBK Japan]], not domestic regional banks.
+
+The public-source boundary is intentionally conservative. The page can say that Taiwan Business Bank is SME-oriented and that Tokyo Branch is an overseas unit, but it should not name customer sectors, borrowers, or supplier chains unless a public transaction disclosure supports the claim.
 
 ## Entity Boundary
 
@@ -68,4 +76,6 @@ The current page intentionally avoids unverified claims about individual borrowe
 
 - FSA: bank license list, foreign bank branches.
 - Japanese Bankers Association: Taiwan Business Bank bank database entry.
+- Taiwan Business Bank Tokyo Branch page: https://www.tbb.com.tw/en-us/about/locations/overseas/tokyo
+- Taiwan Business Bank history / overseas network page: https://www.tbb.com.tw/en-us/about/brief/histories
 - Taiwan Business Bank Tokyo Branch: public Japan branch documents.
