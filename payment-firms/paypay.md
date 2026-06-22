@@ -13,6 +13,19 @@ entity_node:
   kind: operating_company
   scope: japan_core
   status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/paypay-fg
+    evidence: official_profile
+    source: https://about.paypay.ne.jp/about/
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+    as_of: 2026-06-22
+    confidence: likely
 sources:
   - "https://about.paypay.ne.jp/about/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
