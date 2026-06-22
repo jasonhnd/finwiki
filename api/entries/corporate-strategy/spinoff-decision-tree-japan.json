@@ -17,6 +17,7 @@
       "kabushiki bunpai vs partial spinoff vs ipo"
     ],
     "domain": "corporate-strategy",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
       "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/spinoff.html",

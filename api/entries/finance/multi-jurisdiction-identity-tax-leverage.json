@@ -12,6 +12,7 @@
     "title": "クロスボーダー身分組合せの税務レバレッジ",
     "aliases": [],
     "domain": "finance",
+    "type": "wiki",
     "created": "2026-04-20",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -25,6 +26,9 @@
       "high-net-worth"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Public PwC, EY, KPMG, and tax-authority guides on individual tax residency and capital-gains treatment.",
       "OECD CRS / FATCA public documentation.",

@@ -17,6 +17,7 @@
       "新NISA"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -30,6 +31,9 @@
       "brokerage"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/",
       "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/guidebook_202307.pdf",

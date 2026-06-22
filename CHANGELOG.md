@@ -31,6 +31,20 @@
 
 ## 2026-06-08 (In progress)
 
+### AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息
+
+#### 日本語 / English / 中文
+- **JST 時刻**: 2026-06-22 09:37 JST。
+- **背景**: #33 の AI surface design で、`api/entries/*.json` の frontmatter subset が corpus frontmatter より薄く、agent が単一 entry JSON だけを読む場合に `canonical_anchor`、`related`、`note`、`type` を失うことが指摘されていました。#42 は Phase 1 のみで、typed entity-edge exposure は後続 packet に残します。
+- **範囲**: `tools/generate_ai_discovery.ts`、`docs/05-functional-specs/ai-discovery-surface.md`、`docs/04-architecture/ai-discovery-architecture.md`、`api/entries/**`、AI discovery outputs、`llms-tasks.txt`、README / index snapshot、release note。Corpus Markdown は変更していません。
+- **主要変更**: per-entry API の `frontmatter` object に `type`、`canonical_anchor`、`related`、`note` を追加し、既存 `sources` と同じ frontmatter subset として公開しました。Scalar 欠落は `null`、list 欠落は `[]` の既存 convention に揃えました。
+- **AI task guide repair**: `llms-tasks.txt` の partial-spinoff task link を retired slug から current canonical route (`corporate-strategy/japan-kabushiki-bunpai-spinoff-regime`) へ更新し、#42 validation の `ai:audit` を通せる状態にしました。
+- **境界**: `api/entries/*.json` には typed `entity_node` / `entity_edges` を追加していません。`ai-index.json` / `llms.txt` の typed graph fields は既存 generator contract の再生成結果であり、この work item の新しい per-entry API field ではありません。
+- **検証**: `bun tools/release.ts --write`、`bun tools/release.ts --check --strict`、`bun run surface:drift`、`bun run ai:audit`、targeted JSON inspection、`git diff --check` を #42 validation bundle として実行し、すべて PASS しました。
+- **残タスク**: #42 PR review / merge 後、maintainer 指示に従って #37、#38 を順番に開始します。
+- **EN**: Phase 1 enriches only the static per-entry API frontmatter subset. The generator now serializes `type`, `canonical_anchor`, `related`, and `note` in `frontmatter`, preserving existing fields and the null / empty-array convention. No corpus content changed, and no typed entity graph facts were added to `api/entries/*.json`; typed graph fields in `ai-index.json` are the existing generator surface being resynchronized. The AI task guide also updates one stale partial-spinoff route to the current canonical route so `ai:audit` passes.
+- **中文**: 本次只做 #42 Phase 1：富化单条目 API 的 `frontmatter` 子集，新增 `type`、`canonical_anchor`、`related`、`note`，并保持旧字段与 `null` / 空数组约定。没有改 wiki 正文，也没有把 typed entity graph 写进 `api/entries/*.json`；`ai-index.json` 中的 typed graph 字段属于已有生成器 surface 的同步结果。同时把 AI task guide 里一个 partial-spinoff 旧路由更新到当前 canonical route，确保 `ai:audit` 通过。
+
 ### i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零
 
 #### 日本語記録 / English / 中文

@@ -18,6 +18,7 @@
       "格付投資情報センター"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -30,6 +31,9 @@
       "capital-markets"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 格付投資情報センター (2026-05-25 抽出)",
       "R&I 公式サイト (https://www.r-i.co.jp/, 2026-05-25 参照)",

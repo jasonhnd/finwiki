@@ -16,6 +16,7 @@
       "相互会社 vs 株式会社 生保"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "governance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.seiho.or.jp/member/list/index.html",
       "https://www.seiho.or.jp/member/chart/pdf/chart_01.pdf",

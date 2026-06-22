@@ -17,6 +17,7 @@
       "monetary protectionism"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-16",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "GENIUS-Act"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.congress.gov/bill/119th-congress/senate-bill/394",
       "https://home.treasury.gov/news/press-releases",

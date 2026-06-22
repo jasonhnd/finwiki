@@ -17,6 +17,7 @@
       "WFC Japan"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -28,6 +29,9 @@
       "us"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: Wells Fargo (2026-05-19 公開情報抽出)",
       "Wells Fargo & Company 2024 Annual Report (10-K, 2025-02 公表)",

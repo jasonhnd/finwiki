@@ -19,6 +19,7 @@
       "GENIUS 501 compliance status matrix"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -43,6 +44,9 @@
       "genius-501"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://tether.to/en/transparency/",
       "https://www.circle.com/transparency",

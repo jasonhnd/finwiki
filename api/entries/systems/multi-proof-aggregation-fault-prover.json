@@ -17,6 +17,7 @@
       "proofBytes type tag"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-16",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -34,6 +35,9 @@
       "rust"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://docs.optimism.io/op-stack/fault-proofs/explainer",
       "https://specs.optimism.io/fault-proof/index.html",

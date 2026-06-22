@@ -18,6 +18,7 @@
       "American Family Life Assurance Company"
     ],
     "domain": "life-insurers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "third-sector"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: アフラック生命保険 / Aflac Incorporated (2026-05-19 抽出)",
       "Aflac Incorporated 10-K Annual Report (FY2024)",

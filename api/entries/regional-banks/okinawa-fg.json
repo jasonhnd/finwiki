@@ -19,6 +19,7 @@
       "OkiFG"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "okinawa"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: おきなわフィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 沖縄銀行 (2026-05-19 抽出)",

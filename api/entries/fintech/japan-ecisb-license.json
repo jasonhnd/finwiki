@@ -12,6 +12,7 @@
     "title": "日本 ECISB ライセンス —— 「資金に触れない取引ルーティング仲介」専用の軽量ライセンス",
     "aliases": [],
     "domain": "fintech",
+    "type": null,
     "created": "2026-04-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -22,6 +23,9 @@
       "needs-verification"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": "2026-06 全面施行日付は会話中の推測であり、公式ソースで未確認",
     "sources": [
       "https://www.fsa.go.jp/en/policy/sftl/index.html",
       "https://www.fsa.go.jp/news/r5/sonota/20231121/2023_paymentservices.html",

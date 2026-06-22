@@ -15,6 +15,7 @@
       "SSJ Bank"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -27,6 +28,9 @@
       "link-audit"
     ],
     "status": "deprecated",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.zenginkyo.or.jp/abstract/outline/organization/member-01/",
       "https://www.zenginkyo.or.jp/bankdb/bc0125/",

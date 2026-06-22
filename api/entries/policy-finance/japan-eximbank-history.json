@@ -19,6 +19,7 @@
       "policy-finance/japan-eximbank-history"
     ],
     "domain": "policy-finance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -33,6 +34,9 @@
       "predecessor-institution"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jbic.go.jp/en/about/organization.html",
       "https://www.jbic.go.jp/en/about/history.html",

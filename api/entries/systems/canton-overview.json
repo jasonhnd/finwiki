@@ -16,6 +16,7 @@
       "digital-asset-canton"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "institutional"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.canton.network/"
     ]

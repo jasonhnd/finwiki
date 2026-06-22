@@ -16,6 +16,7 @@
       "public finance index"
     ],
     "domain": "policy-finance",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -28,6 +29,9 @@
       "export-credit"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jhf.go.jp/about/organization/outline/index.html",
       "https://www.zenshinhoren.or.jp/guarantee-system/",
@@ -130,6 +134,6 @@
     "nonspace_chars": 7150,
     "word_like_tokens": 974,
     "inbound_wikilinks_count": 81,
-    "last_modified": "2026-06-21"
+    "last_modified": "2026-06-22"
   }
 }

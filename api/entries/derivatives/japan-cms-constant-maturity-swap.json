@@ -21,6 +21,7 @@
       "コンスタント・マチュリティ・スワップ"
     ],
     "domain": "derivatives",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "vol-grid"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
       "https://www.bis.org/statistics/derstats.htm",

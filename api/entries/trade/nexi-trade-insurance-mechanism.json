@@ -21,6 +21,7 @@
       "export-credit agency cover"
     ],
     "domain": "trade",
+    "type": null,
     "created": "2026-06-05",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -35,6 +36,9 @@
       "eca"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.nexi.go.jp/en/",
       "https://www.nexi.go.jp/en/product/",

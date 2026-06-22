@@ -16,6 +16,7 @@
       "サクソバンク証券株式会社"
     ],
     "domain": "securities-firms",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -30,6 +31,9 @@
       "fiea-operator"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.home.saxo/ja-jp/about-us/company",

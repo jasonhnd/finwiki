@@ -19,6 +19,7 @@
       "Ltd."
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "consumer-finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 株式会社ジャックス (公開情報, 2026-05-19 参照)",
       "Jaccs 公式 IR 開示資料 (公開分)",

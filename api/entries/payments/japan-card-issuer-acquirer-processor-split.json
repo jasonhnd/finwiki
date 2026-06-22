@@ -16,6 +16,7 @@
       "カード issuer acquirer processor Japan"
     ],
     "domain": "payments",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -31,6 +32,9 @@
       "security"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",

@@ -17,6 +17,7 @@
       "Ginco Inc."
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -30,6 +31,9 @@
       "b2b-crypto"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.ginco.co.jp/company/outline",
       "https://www.ginco.co.jp/service/enterprise-wallet",

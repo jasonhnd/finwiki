@@ -21,6 +21,7 @@
       "ディーラー銀行 デリバティブ収益構成"
     ],
     "domain": "derivatives",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -38,6 +39,9 @@
       "market-making"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.mufg.jp/english/ir/index.html",
       "https://www.smfg.co.jp/english/investor/index.html",

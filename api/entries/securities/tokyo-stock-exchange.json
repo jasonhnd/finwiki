@@ -17,6 +17,7 @@
       "東京証券取引所"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -30,6 +31,9 @@
       "market-infrastructure"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/english/corporate/about-jpx/profile/01.html",
       "https://www.jpx.co.jp/corporate/about-jpx/profile/01.html",

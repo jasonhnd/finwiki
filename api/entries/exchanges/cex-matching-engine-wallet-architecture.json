@@ -16,6 +16,7 @@
       "Exchange order book + custody architecture"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "technical"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.nyse.com/",
       "https://github.com/binance/"

@@ -12,6 +12,7 @@
     "title": "B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）",
     "aliases": [],
     "domain": "fintech",
+    "type": null,
     "created": "2026-04-14",
     "last_updated": "2026-05-03",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "fintech"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fireblocks.com/state-of-stablecoins-2025/",
       "https://www.circle.com/en/blog",

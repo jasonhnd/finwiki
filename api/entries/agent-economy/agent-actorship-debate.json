@@ -12,6 +12,7 @@
     "title": "Agent 主体性論争:4つの陣営",
     "aliases": [],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-04-13",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -21,6 +22,9 @@
       "needs-review"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors.",
       "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."

@@ -19,6 +19,7 @@
       "trust-banks/japan-trustee-services-bank"
     ],
     "domain": "trust-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "custody"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 株式会社日本カストディ銀行 (株主構成: 三井住友トラストG 33.3% / みずほFG 27.0% / りそな銀行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田 4.5% / かんぽ生命 3.5% / 富国生命 2.0%, 2020-07-27 現在, 2026-05-30 確認) https://ja.wikipedia.org/wiki/日本カストディ銀行",
       "Wikipedia: 日本トラスティ・サービス信託銀行 (2026-05-19 抽出)",

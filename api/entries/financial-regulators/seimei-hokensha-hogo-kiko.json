@@ -22,6 +22,7 @@
       "financial-regulators/yamato-life"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -34,6 +35,9 @@
       "financial-safety-net"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 生命保険契約者保護機構 (2026-05-25 抽出)",
       "生命保険契約者保護機構 公式サイト (https://www.seihohogo.jp/, 2026-05-25 参照)",

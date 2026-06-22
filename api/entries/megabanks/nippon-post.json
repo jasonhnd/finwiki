@@ -21,6 +21,7 @@
       "megabanks/japan-post-co"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "government-related"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 日本郵政 (2026-05-19 抽出)",
       "Wikipedia: ゆうちょ銀行 / かんぽ生命保険 (2026-05-19 抽出)",
@@ -89,6 +93,6 @@
     "nonspace_chars": 5592,
     "word_like_tokens": 920,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -20,6 +20,7 @@
       "日本社債 CDS メカニクス"
     ],
     "domain": "derivatives",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -38,6 +39,9 @@
       "pension"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.isda.org/2014/06/30/2014-credit-derivatives-definitions/",
       "https://www.cdsdeterminationscommittees.org/",

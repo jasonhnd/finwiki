@@ -18,6 +18,7 @@
       "trading house finance arm index"
     ],
     "domain": "trading-company-finance",
+    "type": null,
     "created": "2026-06-04",
     "last_updated": "2026-06-04",
     "last_tended": "2026-06-04",
@@ -33,6 +34,9 @@
       "cms"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "各商社 有価証券報告書 (関係会社一覧) — EDINET https://disclosure.edinet-fsa.go.jp/",
       "伊藤忠商事 (8001) / 三菱商事 (8058) / 三井物産 (8031) / 住友商事 (8053) / 丸紅 (8002) / 豊田通商 (8015) / 双日 (2768) 公式 IR・統合報告書",

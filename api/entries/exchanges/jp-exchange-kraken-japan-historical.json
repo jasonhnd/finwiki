@@ -16,6 +16,7 @@
       "Payward Japan"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -30,6 +31,9 @@
       "kraken"
     ],
     "status": "deprecated",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (Payward Inc. corporate announcements, 2018-2018)",
       "公開情報整理 (FSA 関東財務局 暗号資産交換業者登録一覧 — Kraken Japan の登録抹消経緯)",

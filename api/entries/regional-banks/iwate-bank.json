@@ -16,6 +16,7 @@
       "岩手銀行"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -27,6 +28,9 @@
       "tohoku"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.iwatebank.co.jp/company/information/aboutus.html",
       "https://www.iwatebank.co.jp/company/management/plan.html"

@@ -12,6 +12,7 @@
     "title": "日本上場会社 開示情報モニタリング SOP（17 チャネル）",
     "aliases": [],
     "domain": "fintech",
+    "type": "wiki",
     "created": "2026-04-24",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "needs-review"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.release.tdnet.info/inbs/I_main_00.html",
       "https://disclosure2.edinet-fsa.go.jp/",

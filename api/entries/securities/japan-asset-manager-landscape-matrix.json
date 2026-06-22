@@ -22,6 +22,7 @@
       "JapanFG/sawakami-am"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -38,6 +39,9 @@
       "FSA"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.toushin.or.jp/",
       "https://www.toushin.or.jp/statistics/",

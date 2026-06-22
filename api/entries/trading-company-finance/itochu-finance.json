@@ -20,6 +20,7 @@
       "itochu-finance-corp"
     ],
     "domain": "trading-company-finance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -35,6 +36,9 @@
       "cms"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "伊藤忠商事 (8001) 有価証券報告書 (関係会社一覧)",
       "伊藤忠商事 公式 IR / 統合報告書",

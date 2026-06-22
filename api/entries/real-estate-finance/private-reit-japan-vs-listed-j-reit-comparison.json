@@ -21,6 +21,7 @@
       "私募REIT 上場REIT 比較"
     ],
     "domain": "real-estate-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -35,6 +36,9 @@
       "ares"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://j-reit.jp/en/",
       "https://www.ares.or.jp/en/",

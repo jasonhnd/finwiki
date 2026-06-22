@@ -20,6 +20,7 @@
       "structured-finance/japan-clo-issuance-japanese-banks"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "us-bsl"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Norinchukin IR — https://www.nochubank.or.jp/en/",
       "Japan Post Bank IR — https://www.jp-bank.japanpost.jp/en/",

@@ -17,6 +17,7 @@
       "株式会社インフキュリオン"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "embedded-finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://infcurion.com/",
       "https://infcurion.com/company/",

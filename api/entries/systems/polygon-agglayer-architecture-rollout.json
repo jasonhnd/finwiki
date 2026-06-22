@@ -20,6 +20,7 @@
       "polygon-zk-aggregation"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -37,6 +38,9 @@
       "layer2"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://docs.polygon.technology/agglayer/",
       "https://polygon.technology/blog/agglayer-v0-2",

@@ -21,6 +21,7 @@
       "サプライヤーズクレジット"
     ],
     "domain": "manufacturer-finance",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -41,6 +42,9 @@
       "global"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.oecd.org/en/topics/export-credits.html",
       "https://legalinstruments.oecd.org/Instruments/instruments/OECD-LEGAL-5005",

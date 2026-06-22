@@ -22,6 +22,7 @@
       "regional-banks/sapporo-hokuyo-bank"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -34,6 +35,9 @@
       "second-tier"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 北洋銀行 (2026-05-19 抽出)",
       "Wikipedia: 札幌北洋ホールディングス (2026-05-19 抽出)",

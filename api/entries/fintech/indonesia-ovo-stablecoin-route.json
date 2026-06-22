@@ -21,6 +21,7 @@
       "dana-ant-group"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -42,6 +43,9 @@
       "remittance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.ojk.go.id/en/Default.aspx",
       "https://www.bi.go.id/en/default.aspx",

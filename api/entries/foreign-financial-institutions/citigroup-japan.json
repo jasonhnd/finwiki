@@ -22,6 +22,7 @@
       "シティグループ・グローバル・マーケッツ・ジャパン"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "banking"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: シティグループ (2026-05-19 参照)",
       "Wikipedia: シティバンク銀行 (2026-05-19 参照)",
@@ -88,6 +92,6 @@
     "nonspace_chars": 4265,
     "word_like_tokens": 664,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

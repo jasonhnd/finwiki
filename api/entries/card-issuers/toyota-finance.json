@@ -18,6 +18,7 @@
       "TSキュービックカード"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -31,6 +32,9 @@
       "Toyota"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.toyota-finance.co.jp/company/data.html",
       "https://www.toyota-finance.co.jp/about/glance.html",

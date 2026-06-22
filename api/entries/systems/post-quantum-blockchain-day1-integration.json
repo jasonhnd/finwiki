@@ -17,6 +17,7 @@
       "Arc PQ signature"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-13",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "FIPS-205"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://csrc.nist.gov/pubs/fips/205/final",
       "https://www.circle.com/blog/preparing-blockchains-for-q-day",

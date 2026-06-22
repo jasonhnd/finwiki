@@ -24,6 +24,7 @@
       "finance/ssbj"
     ],
     "domain": "finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -42,6 +43,9 @@
       "methodology"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.ssb-j.jp/en/",
       "https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/",

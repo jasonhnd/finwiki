@@ -19,6 +19,7 @@
       "Sony Financial Holdings"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "sony"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: ソニーフィナンシャルグループ / ソニーフィナンシャルホールディングス (2026-05-19 抽出)",
       "ソニーグループ 2024-05 経営方針説明会 (金融事業分離・パーシャルスピンオフ発表資料)",
@@ -92,6 +96,6 @@
     "nonspace_chars": 4991,
     "word_like_tokens": 852,
     "inbound_wikilinks_count": 35,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

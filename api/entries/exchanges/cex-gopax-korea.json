@@ -18,6 +18,7 @@
       "Gopax"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -33,6 +34,9 @@
       "regulatory-saga"
     ],
     "status": "borderline",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (GOPAX / Streami 공식 IR, gopax.co.kr / streami.io)",
       "公開情報整理 (Binance 2023-02 GOPAX 지분 인수 발표, binance.com Blog)",

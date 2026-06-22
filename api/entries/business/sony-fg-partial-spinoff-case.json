@@ -17,6 +17,7 @@
       "Sony Financial Group spinoff template"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "restructuring"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
       "https://www.sony.com/en/SonyInfo/News/Press/202405/24-026E/",

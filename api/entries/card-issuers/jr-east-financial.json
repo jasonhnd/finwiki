@@ -24,6 +24,7 @@
       "card-issuers/jr-east"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -40,6 +41,9 @@
       "suica"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jreast.co.jp/aboutus/profile/",
       "https://www.jreast.co.jp/lifeservice/jrebank.html",

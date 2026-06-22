@@ -20,6 +20,7 @@
       "trust-banks/master-trust-bank-of-japan"
     ],
     "domain": "trust-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "custody"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 日本マスタートラスト信託銀行 (2026-05-19 抽出)",
       "三菱 UFJ 信託銀行 開示資料 (2025)",

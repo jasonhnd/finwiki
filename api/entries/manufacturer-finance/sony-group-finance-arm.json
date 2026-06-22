@@ -19,6 +19,7 @@
       "JapanFG/sony-finance"
     ],
     "domain": "manufacturer-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-06-03",
     "last_tended": "2026-05-25",
@@ -33,6 +34,9 @@
       "japan"
     ],
     "status": "active",
+    "canonical_anchor": "megabanks/sony-fg",
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sony.com/en/SonyInfo/IR/library/",
       "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",

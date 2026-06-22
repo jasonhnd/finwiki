@@ -16,6 +16,7 @@
       "git 履歴改竄の検出"
     ],
     "domain": "security",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -30,6 +31,9 @@
       "supply-chain"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://git-scm.com/docs/git-fsck",
       "https://git-scm.com/docs/git-reflog",

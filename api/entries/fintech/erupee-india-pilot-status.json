@@ -19,6 +19,7 @@
       "e-rupee retail wholesale dual track"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -36,6 +37,9 @@
       "programmable-money"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
       "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1218",

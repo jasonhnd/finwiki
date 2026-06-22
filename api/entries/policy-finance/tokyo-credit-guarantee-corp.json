@@ -17,6 +17,7 @@
       "policy-finance/tokyo-credit-guarantee-corp"
     ],
     "domain": "policy-finance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -31,6 +32,9 @@
       "japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.cgc-tokyo.or.jp/",
       "https://www.cgc-tokyo.or.jp/profile/index.html",

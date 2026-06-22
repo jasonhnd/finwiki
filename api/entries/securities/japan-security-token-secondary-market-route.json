@@ -16,6 +16,7 @@
       "日本 セキュリティトークン secondary market"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -30,6 +31,9 @@
       "Japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/singi/singi_kinyu/tosin/20220622/houkoku.pdf",
       "https://www.fsa.go.jp/singi/singi_kinyu/shijoseido_wg/shijoseido_wg_index.html",

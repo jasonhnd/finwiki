@@ -16,6 +16,7 @@
       "保険 license and solvency"
     ],
     "domain": "financial-licenses",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -30,6 +31,9 @@
       "license"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",

@@ -20,6 +20,7 @@
       "Tokyo Branch"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "asia"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: Standard Chartered（英語版、2026-05-19 抽出）",
       "Wikipedia: スタンダード・チャータード銀行（日本語版、2026-05-19 抽出）",

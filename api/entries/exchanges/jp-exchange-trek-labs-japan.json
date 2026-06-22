@@ -17,6 +17,7 @@
       "トレック・ラブス・ジャパン"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -32,6 +33,9 @@
       "solana"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://jp.support.backpack.exchange/",
       "https://jvcea.or.jp/member/",

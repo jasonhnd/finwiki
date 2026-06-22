@@ -17,6 +17,7 @@
       "agent stack production readiness"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -35,6 +36,9 @@
       "production-readiness"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Cloudflare Workers x402 release notes (2026-Q1)",
       "AWS API Gateway x402 integration announcement (2026-Q2)",

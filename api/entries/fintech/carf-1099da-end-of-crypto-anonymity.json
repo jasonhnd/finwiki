@@ -16,6 +16,7 @@
       "end of crypto anonymity"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-13",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "cross-border"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm",
       "https://www.irs.gov/forms-pubs/about-form-1099-da",

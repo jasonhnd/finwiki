@@ -18,6 +18,7 @@
       "MHFG"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -28,6 +29,9 @@
       "megabank"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: みずほフィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: みずほ銀行 (2026-05-19 抽出)",
@@ -82,6 +86,6 @@
     "nonspace_chars": 7671,
     "word_like_tokens": 1389,
     "inbound_wikilinks_count": 225,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -16,6 +16,7 @@
       "空売り stock-loan controls"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -31,6 +32,9 @@
       "JSF"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/english/equities/trading/regulations/02.html",
       "https://www.jpx.co.jp/equities/trading/regulations/02.html",

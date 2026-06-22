@@ -17,6 +17,7 @@
       "あいおいニッセイ同和損害保険株式会社"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -30,6 +31,9 @@
       "operating-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.sonpohogo.or.jp/outline/member-companies.html",
@@ -76,6 +80,6 @@
     "nonspace_chars": 2157,
     "word_like_tokens": 332,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

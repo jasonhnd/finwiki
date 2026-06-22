@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-21T17:08:06+09:00
+Generated: 2026-06-22T09:42:14+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1564
-Public pages listed: 1563
+Markdown files: 1565
+Public pages listed: 1564
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1563
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零, i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息, i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### How to navigate FinWiki — reader profile guide
@@ -13025,6 +13025,14 @@ Public pages listed: 1563
 - Domain: releases
 - Type: release_note
 - Headings: 開発文書体系の要件・仕様階層化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### AI surface Phase 1: per-entry API frontmatter enrichment
+- URL: https://finwiki.zksc.io/releases/v2026.06.22-1
+- Source path: releases/v2026.06.22-1.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.22-1.md
+- Domain: releases
+- Type: release_note
+- Headings: AI surface Phase 1: per-entry API frontmatter enrichment, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX

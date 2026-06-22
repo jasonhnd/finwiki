@@ -12,6 +12,7 @@
     "title": "FIRE 数学逆算フレームワーク",
     "aliases": [],
     "domain": "finance",
+    "type": "wiki",
     "created": "2026-04-20",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -24,6 +25,9 @@
       "safe-withdrawal-rate"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Cooley, Hubbard, and Walz, 1998 Trinity Study on retirement spending.",
       "William Bengen, public safe-withdrawal-rate research.",

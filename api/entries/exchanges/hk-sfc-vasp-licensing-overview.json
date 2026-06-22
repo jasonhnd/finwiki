@@ -16,6 +16,7 @@
       "HK Type 1 + Type 7 crypto license"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -30,6 +31,9 @@
       "benchmark"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sfc.hk/",
       "https://apps.sfc.hk/edistributionWeb/gateway/EN/licensee-list/listing"

@@ -17,6 +17,7 @@
       "IwaiCosmo Securities Co., Ltd."
     ],
     "domain": "securities-firms",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -31,6 +32,9 @@
       "FIEA-type-1"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.iwaicosmo.co.jp/corporate/about/",
       "https://www.iwaicosmo.co.jp/corporate/history/",

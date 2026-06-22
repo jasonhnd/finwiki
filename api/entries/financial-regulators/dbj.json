@@ -18,6 +18,7 @@
       "政投銀"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "government"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 株式会社日本政策投資銀行 (2026-05-19 抽出)",
       "DBJ 公式サイト (会社概要・沿革, 2025 更新)"
@@ -74,6 +78,6 @@
     "nonspace_chars": 3384,
     "word_like_tokens": 493,
     "inbound_wikilinks_count": 36,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

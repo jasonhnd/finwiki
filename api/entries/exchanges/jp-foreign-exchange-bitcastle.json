@@ -15,6 +15,7 @@
       "bitcastle"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "japanese-led-offshore"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.neweconomy.jp/posts/435203",
       "https://www.fsa.go.jp/news/r6/kasou_tuka/bitcastle_llc_keikokushiryo.pdf",

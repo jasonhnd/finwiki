@@ -19,6 +19,7 @@
       "UBS SuMi TRUST ウェルス・マネジメント"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "wealth-management"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: UBS / UBS Group AG (2026-05-19 抽出)",
       "Wikipedia: クレディ・スイス (2023-06 緊急買収関連、2026-05-19 抽出)",
@@ -78,6 +82,6 @@
     "nonspace_chars": 3838,
     "word_like_tokens": 689,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

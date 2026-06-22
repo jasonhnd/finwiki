@@ -18,6 +18,7 @@
       "FamiPay 株式会社"
     ],
     "domain": "payments",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -33,6 +34,9 @@
       "itochu"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.family.co.jp/famipay.html",
       "https://famipay.jp/",

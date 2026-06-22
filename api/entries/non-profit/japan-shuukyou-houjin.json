@@ -20,6 +20,7 @@
       "宗教法人法 religious corporations act"
     ],
     "domain": "non-profit",
+    "type": null,
     "created": "2026-06-05",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -33,6 +34,9 @@
       "tax"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/law/326AC0000000126",
       "https://www.bunka.go.jp/seisaku/shukyohojin/",

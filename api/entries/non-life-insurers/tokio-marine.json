@@ -21,6 +21,7 @@
       "non-life-insurers/tokio-marine-holdings"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "non-life-insurance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 東京海上ホールディングス (2026-05-19 抽出)",
       "Wikipedia: 東京海上日動火災保険",
@@ -77,6 +81,6 @@
     "nonspace_chars": 5232,
     "word_like_tokens": 919,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

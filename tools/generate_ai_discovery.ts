@@ -304,6 +304,17 @@ function relationCounts(edges: EntityGraphEdgeRecord[]): Record<string, number> 
   return Object.fromEntries(Object.entries(counts).sort(([left], [right]) => left.localeCompare(right)));
 }
 
+function frontmatterScalarOrNull(value: unknown): string | null {
+  if (typeof value !== "string") return null;
+  const trimmed = value.trim();
+  return trimmed ? trimmed : null;
+}
+
+function frontmatterList(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value.map((item) => String(item).trim()).filter(Boolean);
+}
+
 async function buildModel(options: CliOptions): Promise<Model> {
   const absoluteMarkdownFiles = await iterMarkdownFiles(options.rootDir);
   const relPaths = absoluteMarkdownFiles.map((filePath) => pathPosix.relative(options.rootDir, filePath));
@@ -609,6 +620,7 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
         title: fm.title ?? null,
         aliases: Array.isArray(fm.aliases) ? fm.aliases : [],
         domain: fm.domain ?? null,
+        type: frontmatterScalarOrNull(fm.type),
         created: fm.created ?? null,
         last_updated: fm.last_updated ?? null,
         last_tended: fm.last_tended ?? null,
@@ -616,6 +628,9 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
         confidence: fm.confidence ?? null,
         tags: Array.isArray(fm.tags) ? fm.tags : [],
         status: fm.status ?? null,
+        canonical_anchor: frontmatterScalarOrNull(fm.canonical_anchor),
+        related: frontmatterList(fm.related),
+        note: frontmatterScalarOrNull(fm.note),
         sources: Array.isArray(fm.sources) ? fm.sources : [],
       },
       summary: String(entry.summary ?? ""),

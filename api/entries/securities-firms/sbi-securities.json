@@ -16,6 +16,7 @@
       "株式会社SBI証券"
     ],
     "domain": "securities-firms",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -29,6 +30,9 @@
       "sbi"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.sbisec.co.jp/company/about/profile/",
@@ -79,6 +83,6 @@
     "nonspace_chars": 2529,
     "word_like_tokens": 402,
     "inbound_wikilinks_count": 42,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-21"
   }
 }

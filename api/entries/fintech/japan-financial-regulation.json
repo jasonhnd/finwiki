@@ -14,6 +14,7 @@
       "financial-regulators/financial-laws-stack"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-04-15",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -23,6 +24,9 @@
       "fintech"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/",
       "https://www.fsa.go.jp/en/policy/sftl/index.html",

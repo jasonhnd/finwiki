@@ -17,6 +17,7 @@
       "Mercado Bitcoin Brasil"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "softbank"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (Mercado Bitcoin / 2TM 公式 IR, mercadobitcoin.com.br / 2tm.io)",
       "公開情報整理 (Banco Central do Brasil / CVM 仮想資産規制声明・通達)",

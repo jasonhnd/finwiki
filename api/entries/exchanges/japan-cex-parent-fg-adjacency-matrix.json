@@ -19,6 +19,7 @@
       "JVCEA member parent-group cross-service matrix"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -34,6 +35,9 @@
       "group-strategy"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://jvcea.or.jp/member/",

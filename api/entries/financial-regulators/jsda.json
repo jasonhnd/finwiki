@@ -18,6 +18,7 @@
       "日本証券業協会"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -32,6 +33,9 @@
       "regulation"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jsda.or.jp/en/about/profile/index.html",
       "https://www.jsda.or.jp/en/about/major-activities/index.html",
@@ -83,6 +87,6 @@
     "nonspace_chars": 9589,
     "word_like_tokens": 1455,
     "inbound_wikilinks_count": 56,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-21"
   }
 }

@@ -16,6 +16,7 @@
       "wallet UX disintermediation"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "disintermediation"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.privy.io/",
       "https://www.coinbase.com/developer-platform",

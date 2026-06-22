@@ -16,6 +16,7 @@
       "ポケットカード株式会社"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -29,6 +30,9 @@
       "installment-credit"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.pocketcard.co.jp/ir/profile/profile_031.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",

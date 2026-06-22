@@ -16,6 +16,7 @@
       "AI agent 決済7プロトコル"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "mcp"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://github.com/google-agentic-commerce/AP2",
       "https://github.com/coinbase/x402",

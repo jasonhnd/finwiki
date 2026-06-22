@@ -17,6 +17,7 @@
       "PT YT"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -30,6 +31,9 @@
       "multi-chain"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (Pendle 公式 docs / whitepaper, pendle.finance)",
       "公開情報整理 (DefiLlama Pendle TVL データ, 2024-2026)",

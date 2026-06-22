@@ -15,6 +15,7 @@
       "保険 domain"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -28,6 +29,9 @@
       "reinsurance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
       "https://www.fsa.go.jp/common/law/guide/ins/",

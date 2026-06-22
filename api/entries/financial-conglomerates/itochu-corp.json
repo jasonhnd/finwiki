@@ -22,6 +22,7 @@
       "itochu"
     ],
     "domain": "financial-conglomerates",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -40,6 +41,9 @@
       "conglomerate"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "伊藤忠商事 (8001) 公式 IR — https://www.itochu.co.jp/ja/ir/",
       "伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/",

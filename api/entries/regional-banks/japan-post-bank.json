@@ -19,6 +19,7 @@
       "Japan Post Bank profile"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-06-03",
     "last_tended": "2026-05-25",
@@ -34,6 +35,9 @@
       "deposit-franchise"
     ],
     "status": "active",
+    "canonical_anchor": "regional-banks/yucho",
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jp-bank.japanpost.jp/",
       "https://www.jp-bank.japanpost.jp/aboutus/company/abt_cmp_index.html",

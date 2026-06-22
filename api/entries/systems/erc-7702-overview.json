@@ -16,6 +16,7 @@
       "set-code-tx"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "vitalik"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://eips.ethereum.org/EIPS/eip-7702"
     ]

@@ -17,6 +17,7 @@
       "コンプライアンスサークル vs グレーサークル"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -34,6 +35,9 @@
       "2030-forecast"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.congress.gov/bill/119th-congress/senate-bill/394",
       "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",

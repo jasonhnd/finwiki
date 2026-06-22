@@ -16,6 +16,7 @@
       "BlackRock USD Institutional Digital Liquidity Fund"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "rwa"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.blackrock.com/institutions/en-us/products/335666/blackrock-usd-institutional-digital-liquidity-fund",
       "https://securitize.io/learn/blackrock-buidl",

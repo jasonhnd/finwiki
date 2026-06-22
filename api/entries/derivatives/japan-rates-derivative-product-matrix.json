@@ -21,6 +21,7 @@
       "Japan rates derivative product comparison"
     ],
     "domain": "derivatives",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -45,6 +46,9 @@
       "life-insurer-hedge"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
       "https://www.bis.org/statistics/derstats.htm",

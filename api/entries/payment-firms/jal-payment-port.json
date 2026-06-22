@@ -17,6 +17,7 @@
       "JAL Global WALLET"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -31,6 +32,9 @@
       "travel-finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jal.co.jp/jp/ja/jmb/jalpay/pay/aboutus/index.html",
       "https://www.jal.co.jp/jp/ja/jmb/jalpay/",

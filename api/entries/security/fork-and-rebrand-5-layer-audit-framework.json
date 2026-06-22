@@ -17,6 +17,7 @@
       "smart contract fork security"
     ],
     "domain": "security",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "open-source"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://github.com/Uniswap/v3-core/blob/main/LICENSE",
       "https://github.com/compound-finance/compound-protocol",

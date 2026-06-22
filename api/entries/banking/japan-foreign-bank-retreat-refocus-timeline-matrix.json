@@ -21,6 +21,7 @@
       "Japan foreign bank corridor presence matrix"
     ],
     "domain": "banking",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -41,6 +42,9 @@
       "wealth"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.fsa.go.jp/common/law/guide/city/06.html",

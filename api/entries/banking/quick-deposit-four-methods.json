@@ -12,6 +12,7 @@
     "title": "クイック入金の4方式分解フレーム",
     "aliases": [],
     "domain": "banking",
+    "type": "wiki",
     "created": "2026-04-20",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -26,6 +27,9 @@
       "integration"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/common/shinsei/dendai/01.pdf",
       "https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf"

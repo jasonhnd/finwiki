@@ -12,6 +12,7 @@
     "title": "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
     "aliases": [],
     "domain": "security",
+    "type": "wiki",
     "created": "2026-05-12",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -23,6 +24,13 @@
       "security/dd"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [
+      "[[security/fork-and-rebrand-5-layer-audit-framework]]",
+      "[[security/wayback-machine-as-forensic-tool]]",
+      "[[security/forensic-identity-anchor-chain]]"
+    ],
+    "note": null,
     "sources": [
       "https://ethereum.org/en/developers/docs/apis/json-rpc/#eth_getcode",
       "https://docs.soliditylang.org/en/latest/metadata.html",

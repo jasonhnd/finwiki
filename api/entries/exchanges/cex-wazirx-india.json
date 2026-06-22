@@ -16,6 +16,7 @@
       "वज़ीरएक्स"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -31,6 +32,9 @@
       "restructuring"
     ],
     "status": "borderline",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (WazirX 公式 IR / About / Hack response, wazirx.com)",
       "公開情報整理 (Binance 2019-11 WazirX 買収発表 / 2023 dissociation 公式声明, binance.com Blog)",

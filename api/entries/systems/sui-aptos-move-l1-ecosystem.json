@@ -18,6 +18,7 @@
       "Diem Libra Move heritage"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "blockstm"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://sui.io/",
       "https://aptosfoundation.org/",

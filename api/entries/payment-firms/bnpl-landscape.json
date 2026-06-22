@@ -18,6 +18,7 @@
       "あと払い landscape"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -32,6 +33,9 @@
       "fintech"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://paidy.com/company/",
       "https://investor.pypl.com/news-and-events/news-details/2021/PayPal-to-Acquire-Paidy/default.aspx",

@@ -16,6 +16,7 @@
       "cross-chain decision tree"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "cctp"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://docs.layerzero.network/v2",
       "https://docs.chain.link/ccip",

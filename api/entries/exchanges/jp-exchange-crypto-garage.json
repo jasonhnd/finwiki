@@ -16,6 +16,7 @@
       "Crypto Garage Inc"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -29,6 +30,9 @@
       "blockchain-infrastructure"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://cryptogarage.co.jp/",
       "https://cryptogarage.co.jp/about/",

@@ -20,6 +20,7 @@
       "デロイト トーマツ"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -34,6 +35,9 @@
       "deloitte"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.deloitte.com/jp/ja/services/audit-assurance.html",
       "https://www2.deloitte.com/jp/ja/legal/about-deloitte.html",

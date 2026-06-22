@@ -16,6 +16,7 @@
       "日本 VASP spot 取引高"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "spot"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://jvcea.or.jp/about/statistics/"
     ]

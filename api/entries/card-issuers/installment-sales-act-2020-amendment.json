@@ -15,6 +15,7 @@
       "installment-sales-act-2020-amendment"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -31,6 +32,9 @@
       "credit-card"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "METI: 割賦販売法 令和2年度改正割賦販売法の関係法令・規定等",
       "METI: 割賦販売法（後払分野）の概要・FAQ",

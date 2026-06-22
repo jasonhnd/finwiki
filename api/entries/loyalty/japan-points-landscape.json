@@ -17,6 +17,7 @@
       "Japan loyalty points"
     ],
     "domain": "loyalty",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -30,6 +31,9 @@
       "data-marketing"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
       "https://www.ccc.co.jp/en/news/press/20240109_002347.html",

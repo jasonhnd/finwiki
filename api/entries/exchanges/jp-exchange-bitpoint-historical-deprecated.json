@@ -17,6 +17,7 @@
       "Remixpoint Crypto"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -31,6 +32,9 @@
       "2019-hack"
     ],
     "status": "deprecated",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (Remixpoint 株式会社 IR 開示、適時開示)",
       "公開情報整理 (FSA 関東財務局 業務改善命令履歴, 2018-2019)",

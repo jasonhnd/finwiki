@@ -16,6 +16,7 @@
       "メガバンク・FG index"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-04",
     "last_tended": "2026-06-03",
@@ -30,6 +31,9 @@
       "holding-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "各 FG 公式 IR 資料・有価証券報告書"

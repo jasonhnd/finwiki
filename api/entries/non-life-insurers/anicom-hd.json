@@ -19,6 +19,7 @@
       "アニコム ホールディングス株式会社"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -32,6 +33,9 @@
       "holding-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
       "https://www.anicom.co.jp/company/",

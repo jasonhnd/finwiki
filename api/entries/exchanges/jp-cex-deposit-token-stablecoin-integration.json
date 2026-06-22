@@ -16,6 +16,7 @@
       "DCJPY Progmat JPYC × CEX strategy"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -31,6 +32,9 @@
       "dcjpy"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://jpyc.co.jp/",
       "https://progmat.co.jp/",

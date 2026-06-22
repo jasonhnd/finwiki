@@ -16,6 +16,7 @@
       "JVCEA staking guideline"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -30,6 +31,9 @@
       "vasp"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/",
       "https://jvcea.or.jp/"

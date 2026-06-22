@@ -12,6 +12,7 @@
     "title": "Hook-Enforced Compliance（Hook で強制される規則順守）",
     "aliases": [],
     "domain": "systems",
+    "type": null,
     "created": "2026-04-21",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -25,6 +26,9 @@
       "meta"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Public agent-framework documentation on hook-based automation and instruction injection.",
       "Public Codex / AGENTS-style repository instruction patterns.",

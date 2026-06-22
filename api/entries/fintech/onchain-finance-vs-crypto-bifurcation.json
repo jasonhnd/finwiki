@@ -15,6 +15,7 @@
       "blockchain-bifurcation"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-12",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-12",
@@ -26,6 +27,9 @@
       "stablecoin"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html",
       "https://progmat.co.jp/about/",

@@ -19,6 +19,7 @@
       "payments/d-barai"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "holding-company"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "NTT ドコモ プレスリリース「金融事業を統括する中間持株会社の設立について」(公開発表ベース)",
       "マネックスグループ・住信 SBI ネット銀行 各社 IR 適時開示",
@@ -88,6 +92,6 @@
     "nonspace_chars": 6878,
     "word_like_tokens": 1233,
     "inbound_wikilinks_count": 80,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -18,6 +18,7 @@
       "agent payment six-axis matrix"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -37,6 +38,9 @@
       "comparison"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://x402.org/",
       "https://github.com/coinbase/x402",

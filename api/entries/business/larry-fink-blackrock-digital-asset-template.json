@@ -16,6 +16,7 @@
       "etf-rwa-political-triangle"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "larry-fink"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://techcrunch.com/2022/08/04/blackrock-crypto-bitcoin-coinbase-larry-fink-partnership/",
       "https://fortune.com/crypto/2024/01/18/blackrock-spot-bitcoin-etf-1-billion-assets-under-managment-aum/",

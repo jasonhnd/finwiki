@@ -16,6 +16,7 @@
       "銀行免許 BaaS boundary"
     ],
     "domain": "financial-licenses",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -30,6 +31,9 @@
       "bank-api"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/law/356AC0000000059",
       "https://www.fsa.go.jp/menkyo/menkyo.html",

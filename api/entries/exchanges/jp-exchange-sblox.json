@@ -18,6 +18,7 @@
       "DeCurret"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -30,6 +31,9 @@
       "sony-group"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sblox.jp/ja-jp/company/",
       "https://jvcea.or.jp/member/",

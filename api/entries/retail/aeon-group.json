@@ -17,6 +17,7 @@
       "AEON"
     ],
     "domain": "retail",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -31,6 +32,9 @@
       "credit-card"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.aeon.info/en/company/",
       "https://www.aeonfinancial.co.jp/en/corp/about/",

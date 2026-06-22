@@ -17,14 +17,16 @@
 
 ## Current Snapshot
 
-- Markdown files: 1564
-- Public Markdown pages in machine manifest: 1563
+- Markdown files: 1565
+- Public Markdown pages in machine manifest: 1564
 - Topical domains: 40
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
+- Entity graph nodes: 0
+- Entity graph edges: 0 (0 declared, 0 derived)
 - Link-audited entries: 1483
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 11,092,729
-- Word-like tokens: 1,790,029
+- Non-space UTF-8 characters across Markdown: 11,099,098
+- Word-like tokens: 1,791,112
 
 ## URL Rules for AI Readers
 
@@ -35,6 +37,7 @@
 - If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name="finwiki:*">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel="alternate" type="application/json">` to the per-entry API and `<link rel="alternate" type="text/markdown">` to the raw source.
 - For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.
 - For entity-level identity (which pages describe the same real-world entity from different angles), read the `entities[]` array in `ai-index.json`: each edge groups a canonical anchor (e.g., `megabanks/mufg`) with the mirror pages that declare `canonical_anchor:` pointing at it. `llms-full.txt` also notes the canonical anchor inline on each mirror page.
+- For the typed entity graph, read `entity_nodes[]`, `entity_edges[]`, and `entity_relation_counts` in `ai-index.json`. `entity_edges[]` includes declared public-source-backed facts plus deterministic inverse edges where the inverse is lossless.
 - For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` - 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.
 
 ## Domains

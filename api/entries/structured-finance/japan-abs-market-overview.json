@@ -19,6 +19,7 @@
       "Japan ABS originator landscape"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "market-overview"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jhf.go.jp/about/index.html",
       "https://www.jcr.co.jp/en/",

@@ -17,6 +17,7 @@
       "exchanges/openbook-fork-solana"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -30,6 +31,9 @@
       "memecoin"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (Raydium 公式 docs / Whitepaper, raydium.io)",
       "公開情報整理 (DefiLlama Raydium TVL/Volume データ, 2024-2026)",

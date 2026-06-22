@@ -20,6 +20,7 @@
       "漁信基"
     ],
     "domain": "policy-finance",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -34,6 +35,9 @@
       "japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jaffic.go.jp/guide/gyo/index.html",
       "https://www.jaffic.go.jp/whats_kikin/outline.html",

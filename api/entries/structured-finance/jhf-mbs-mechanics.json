@@ -20,6 +20,7 @@
       "JHF monthly MBS"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -35,6 +36,9 @@
       "flat-35"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jhf.go.jp/about/index.html",
       "https://www.jhf.go.jp/about/organization/outline/index.html",

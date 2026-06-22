@@ -16,6 +16,7 @@
       "信販・カード会社 index"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-06-04",
     "last_updated": "2026-06-04",
     "last_tended": "2026-06-04",
@@ -29,6 +30,9 @@
       "installment-credit"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf",

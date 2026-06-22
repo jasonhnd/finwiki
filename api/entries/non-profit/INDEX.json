@@ -16,6 +16,7 @@
       "日本ガバナンス domain"
     ],
     "domain": "governance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -30,6 +31,9 @@
       "research-funding"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.koeki-info.go.jp/",
       "https://www.moj.go.jp/MINJI/koeki1.html",
