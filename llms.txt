@@ -22,11 +22,11 @@
 - Topical domains: 40
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
 - Entity graph nodes: 89
-- Entity graph edges: 0 (0 declared, 0 derived)
+- Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1483
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 11,110,051
-- Word-like tokens: 1,792,974
+- Non-space UTF-8 characters across Markdown: 11,113,938
+- Word-like tokens: 1,793,570
 
 ## URL Rules for AI Readers
 

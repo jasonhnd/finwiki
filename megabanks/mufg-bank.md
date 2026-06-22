@@ -19,6 +19,25 @@ entity_node:
   kind: operating_company
   scope: japan_core
   status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/mufg
+    evidence: official_profile
+    source: https://www.mufg.jp/profile/biz_and_network/group/index.html
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/zenginkyo
+    evidence: industry_body_member_list
+    source: https://www.zenginkyo.or.jp/en/members/
+    as_of: 2026-06-22
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.bk.mufg.jp/kigyou/profile.html"

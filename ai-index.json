@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-22T11:42:24+09:00",
+  "generated_at": "2026-06-22T12:42:27+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,14 +9,14 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11110051,
-    "word_like_tokens": 1792974,
+    "nonspace_utf8_chars": 11113938,
+    "word_like_tokens": 1793570,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
-    "entity_edges": 0,
-    "entity_edges_declared": 0,
-    "entity_edges_derived": 0,
+    "entity_edges": 68,
+    "entity_edges_declared": 34,
+    "entity_edges_derived": 34,
     "entity_edges_unresolved_targets": 0
   },
   "navigation": {
@@ -1381,8 +1381,1002 @@
       "mirrors": []
     }
   ],
-  "entity_edges": [],
-  "entity_relation_counts": {},
+  "entity_edges": [
+    {
+      "source": "asset-managers/mufg-asset-management",
+      "source_url": "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "asset-managers/mufg-asset-management.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "asset-managers/mufg-asset-management",
+      "source_url": "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "relation": "subsidiary_of",
+      "target": "megabanks/mufg",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "target_resolves": true,
+      "declared_in": "asset-managers/mufg-asset-management.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.am.mufg.jp/corp/about/gaiyou.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "asset-managers/nomura-asset-management",
+      "source_url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "asset-managers/nomura-asset-management.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "asset-managers/nomura-asset-management",
+      "source_url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "relation": "subsidiary_of",
+      "target": "securities-firms/nomura-hd",
+      "target_url": "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "target_resolves": true,
+      "declared_in": "asset-managers/nomura-asset-management.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "asset-managers/mufg-asset-management",
+      "target_url": "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "target_resolves": true,
+      "declared_in": "asset-managers/mufg-asset-management.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "asset-managers/mufg-asset-management::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "asset-managers/nomura-asset-management",
+      "target_url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "target_resolves": true,
+      "declared_in": "asset-managers/nomura-asset-management.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "asset-managers/nomura-asset-management::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "megabanks/mizuho-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mizuho-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "megabanks/mufg-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mufg-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "megabanks/sumitomo-mitsui-banking-corp",
+      "target_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/sumitomo-mitsui-banking-corp::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "non-life-insurers/mitsui-sumitomo-insurance",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/mitsui-sumitomo-insurance.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/mitsui-sumitomo-insurance::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "non-life-insurers/sompo-japan-insurance",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/sompo-japan-insurance.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/sompo-japan-insurance::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "non-life-insurers/tokio-marine-nichido-fire",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/tokio-marine-nichido-fire.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/tokio-marine-nichido-fire::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "payment-firms/au-payment",
+      "target_url": "https://finwiki.zksc.io/payment-firms/au-payment",
+      "target_resolves": true,
+      "declared_in": "payment-firms/au-payment.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/au-payment::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "payment-firms/merpay",
+      "target_url": "https://finwiki.zksc.io/payment-firms/merpay",
+      "target_resolves": true,
+      "declared_in": "payment-firms/merpay.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/merpay::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "payment-firms/paypay",
+      "target_url": "https://finwiki.zksc.io/payment-firms/paypay",
+      "target_resolves": true,
+      "declared_in": "payment-firms/paypay.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/paypay::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "securities-firms/mizuho-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mizuho-securities::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "securities-firms/mufg-mums",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mufg-mums::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "relation": "regulates",
+      "target": "securities-firms/sbi-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/sbi-securities::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/jsda",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "relation": "has_sro_member",
+      "target": "securities-firms/mizuho-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mizuho-securities::member_of_sro::financial-regulators/jsda"
+    },
+    {
+      "source": "financial-regulators/jsda",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "relation": "has_sro_member",
+      "target": "securities-firms/mufg-mums",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mufg-mums::member_of_sro::financial-regulators/jsda"
+    },
+    {
+      "source": "financial-regulators/jsda",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "relation": "has_sro_member",
+      "target": "securities-firms/sbi-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/sbi-securities::member_of_sro::financial-regulators/jsda"
+    },
+    {
+      "source": "financial-regulators/zenginkyo",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "relation": "has_sro_member",
+      "target": "megabanks/mizuho-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mizuho-bank::member_of_sro::financial-regulators/zenginkyo"
+    },
+    {
+      "source": "financial-regulators/zenginkyo",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "relation": "has_sro_member",
+      "target": "megabanks/mufg-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mufg-bank::member_of_sro::financial-regulators/zenginkyo"
+    },
+    {
+      "source": "financial-regulators/zenginkyo",
+      "source_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "relation": "has_sro_member",
+      "target": "megabanks/sumitomo-mitsui-banking-corp",
+      "target_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/sumitomo-mitsui-banking-corp::member_of_sro::financial-regulators/zenginkyo"
+    },
+    {
+      "source": "megabanks/au-fh",
+      "source_url": "https://finwiki.zksc.io/megabanks/au-fh",
+      "relation": "parent_of",
+      "target": "payment-firms/au-payment",
+      "target_url": "https://finwiki.zksc.io/payment-firms/au-payment",
+      "target_resolves": true,
+      "declared_in": "payment-firms/au-payment.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.au-payment.co.jp/company/profile.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/au-payment::subsidiary_of::megabanks/au-fh"
+    },
+    {
+      "source": "megabanks/mizuho-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/zenginkyo",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/mizuho-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/mizuho-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "relation": "subsidiary_of",
+      "target": "megabanks/mizuho-fg",
+      "target_url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mizuhobank.co.jp/company/info/profile/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/mizuho-fg",
+      "source_url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "relation": "parent_of",
+      "target": "megabanks/mizuho-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mizuho-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mizuhobank.co.jp/company/info/profile/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mizuho-bank::subsidiary_of::megabanks/mizuho-fg"
+    },
+    {
+      "source": "megabanks/mizuho-fg",
+      "source_url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "relation": "parent_of",
+      "target": "securities-firms/mizuho-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mizuhogroup.com/jp/securities/who-we-are/profile",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mizuho-securities::subsidiary_of::megabanks/mizuho-fg"
+    },
+    {
+      "source": "megabanks/mufg",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "relation": "parent_of",
+      "target": "asset-managers/mufg-asset-management",
+      "target_url": "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "target_resolves": true,
+      "declared_in": "asset-managers/mufg-asset-management.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.am.mufg.jp/corp/about/gaiyou.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "asset-managers/mufg-asset-management::subsidiary_of::megabanks/mufg"
+    },
+    {
+      "source": "megabanks/mufg",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "relation": "parent_of",
+      "target": "megabanks/mufg-bank",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mufg.jp/profile/biz_and_network/group/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/mufg-bank::subsidiary_of::megabanks/mufg"
+    },
+    {
+      "source": "megabanks/mufg",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "relation": "parent_of",
+      "target": "securities-firms/mufg-mums",
+      "target_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.hd.sc.mufg.jp/english/company/group_mumss.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/mufg-mums::subsidiary_of::megabanks/mufg"
+    },
+    {
+      "source": "megabanks/mufg-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/zenginkyo",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/mufg-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/mufg-bank",
+      "source_url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "relation": "subsidiary_of",
+      "target": "megabanks/mufg",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "target_resolves": true,
+      "declared_in": "megabanks/mufg-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mufg.jp/profile/biz_and_network/group/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/paypay-fg",
+      "source_url": "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "relation": "parent_of",
+      "target": "payment-firms/paypay",
+      "target_url": "https://finwiki.zksc.io/payment-firms/paypay",
+      "target_resolves": true,
+      "declared_in": "payment-firms/paypay.md",
+      "evidence": "official_profile",
+      "source_ref": "https://about.paypay.ne.jp/about/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/paypay::subsidiary_of::megabanks/paypay-fg"
+    },
+    {
+      "source": "megabanks/sbi-hd",
+      "source_url": "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "relation": "parent_of",
+      "target": "securities-firms/sbi-securities",
+      "target_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.sbigroup.co.jp/company/group/sbisec.php",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "securities-firms/sbi-securities::subsidiary_of::megabanks/sbi-hd"
+    },
+    {
+      "source": "megabanks/smfg",
+      "source_url": "https://finwiki.zksc.io/megabanks/smfg",
+      "relation": "parent_of",
+      "target": "megabanks/sumitomo-mitsui-banking-corp",
+      "target_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.smbc.co.jp/aboutus/profile/group.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/sumitomo-mitsui-banking-corp::subsidiary_of::megabanks/smfg"
+    },
+    {
+      "source": "megabanks/sumitomo-mitsui-banking-corp",
+      "source_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/zenginkyo",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/sumitomo-mitsui-banking-corp",
+      "source_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/sumitomo-mitsui-banking-corp",
+      "source_url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "relation": "subsidiary_of",
+      "target": "megabanks/smfg",
+      "target_url": "https://finwiki.zksc.io/megabanks/smfg",
+      "target_resolves": true,
+      "declared_in": "megabanks/sumitomo-mitsui-banking-corp.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.smbc.co.jp/aboutus/profile/group.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/mitsui-sumitomo-insurance",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/mitsui-sumitomo-insurance.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/mitsui-sumitomo-insurance",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "relation": "subsidiary_of",
+      "target": "non-life-insurers/msad",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/msad",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/mitsui-sumitomo-insurance.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.ms-ins.com/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/msad",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/msad",
+      "relation": "parent_of",
+      "target": "non-life-insurers/mitsui-sumitomo-insurance",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/mitsui-sumitomo-insurance.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.ms-ins.com/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/mitsui-sumitomo-insurance::subsidiary_of::non-life-insurers/msad"
+    },
+    {
+      "source": "non-life-insurers/sompo",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "relation": "parent_of",
+      "target": "non-life-insurers/sompo-japan-insurance",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/sompo-japan-insurance.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.sompo-japan.co.jp/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/sompo-japan-insurance::subsidiary_of::non-life-insurers/sompo"
+    },
+    {
+      "source": "non-life-insurers/sompo-japan-insurance",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/sompo-japan-insurance.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/sompo-japan-insurance",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "relation": "subsidiary_of",
+      "target": "non-life-insurers/sompo",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/sompo-japan-insurance.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.sompo-japan.co.jp/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/tokio-marine",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "relation": "parent_of",
+      "target": "non-life-insurers/tokio-marine-nichido-fire",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/tokio-marine-nichido-fire.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.tokiomarine-nichido.co.jp/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "non-life-insurers/tokio-marine-nichido-fire::subsidiary_of::non-life-insurers/tokio-marine"
+    },
+    {
+      "source": "non-life-insurers/tokio-marine-nichido-fire",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/tokio-marine-nichido-fire.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "non-life-insurers/tokio-marine-nichido-fire",
+      "source_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "relation": "subsidiary_of",
+      "target": "non-life-insurers/tokio-marine",
+      "target_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "target_resolves": true,
+      "declared_in": "non-life-insurers/tokio-marine-nichido-fire.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.tokiomarine-nichido.co.jp/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/au-payment",
+      "source_url": "https://finwiki.zksc.io/payment-firms/au-payment",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "payment-firms/au-payment.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/au-payment",
+      "source_url": "https://finwiki.zksc.io/payment-firms/au-payment",
+      "relation": "subsidiary_of",
+      "target": "megabanks/au-fh",
+      "target_url": "https://finwiki.zksc.io/megabanks/au-fh",
+      "target_resolves": true,
+      "declared_in": "payment-firms/au-payment.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.au-payment.co.jp/company/profile.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/mercari-hd",
+      "source_url": "https://finwiki.zksc.io/payment-firms/mercari-hd",
+      "relation": "parent_of",
+      "target": "payment-firms/merpay",
+      "target_url": "https://finwiki.zksc.io/payment-firms/merpay",
+      "target_resolves": true,
+      "declared_in": "payment-firms/merpay.md",
+      "evidence": "official_profile",
+      "source_ref": "https://jp.merpay.com/about/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "payment-firms/merpay::subsidiary_of::payment-firms/mercari-hd"
+    },
+    {
+      "source": "payment-firms/merpay",
+      "source_url": "https://finwiki.zksc.io/payment-firms/merpay",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "payment-firms/merpay.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/merpay",
+      "source_url": "https://finwiki.zksc.io/payment-firms/merpay",
+      "relation": "subsidiary_of",
+      "target": "payment-firms/mercari-hd",
+      "target_url": "https://finwiki.zksc.io/payment-firms/mercari-hd",
+      "target_resolves": true,
+      "declared_in": "payment-firms/merpay.md",
+      "evidence": "official_profile",
+      "source_ref": "https://jp.merpay.com/about/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/paypay",
+      "source_url": "https://finwiki.zksc.io/payment-firms/paypay",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "payment-firms/paypay.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "payment-firms/paypay",
+      "source_url": "https://finwiki.zksc.io/payment-firms/paypay",
+      "relation": "subsidiary_of",
+      "target": "megabanks/paypay-fg",
+      "target_url": "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "target_resolves": true,
+      "declared_in": "payment-firms/paypay.md",
+      "evidence": "official_profile",
+      "source_ref": "https://about.paypay.ne.jp/about/",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mizuho-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/jsda",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mizuho-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mizuho-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "relation": "subsidiary_of",
+      "target": "megabanks/mizuho-fg",
+      "target_url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mizuho-securities.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.mizuhogroup.com/jp/securities/who-we-are/profile",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mufg-mums",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/jsda",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mufg-mums",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/mufg-mums",
+      "source_url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "relation": "subsidiary_of",
+      "target": "megabanks/mufg",
+      "target_url": "https://finwiki.zksc.io/megabanks/mufg",
+      "target_resolves": true,
+      "declared_in": "securities-firms/mufg-mums.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.hd.sc.mufg.jp/english/company/group_mumss.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/nomura-hd",
+      "source_url": "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "relation": "parent_of",
+      "target": "asset-managers/nomura-asset-management",
+      "target_url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "target_resolves": true,
+      "declared_in": "asset-managers/nomura-asset-management.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "asset-managers/nomura-asset-management::subsidiary_of::securities-firms/nomura-hd"
+    },
+    {
+      "source": "securities-firms/sbi-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/jsda",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/sbi-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "securities-firms/sbi-securities",
+      "source_url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "relation": "subsidiary_of",
+      "target": "megabanks/sbi-hd",
+      "target_url": "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "target_resolves": true,
+      "declared_in": "securities-firms/sbi-securities.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.sbigroup.co.jp/company/group/sbisec.php",
+      "as_of": "2026-06-22",
+      "confidence": "likely",
+      "derived": false
+    }
+  ],
+  "entity_relation_counts": {
+    "has_sro_member": 6,
+    "member_of_sro": 6,
+    "parent_of": 14,
+    "regulated_by": 14,
+    "regulates": 14,
+    "subsidiary_of": 14
+  },
   "entries": [
     {
       "source_path": "AGENTS.md",
@@ -1425,10 +2419,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Entity graph Packet 3 - objective typed edges wave 1 (#38) / Add public-source-backed typed edges / 公开来源类型化边第一波",
         "Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点",
         "AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息",
-        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
-        "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像"
+        "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零"
       ],
       "wikilinks": [
         "...",
@@ -1689,8 +2683,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 618740,
-      "word_like_tokens": 110571,
+      "nonspace_chars": 620130,
+      "word_like_tokens": 110808,
       "last_modified": "2026-06-22"
     },
     {
@@ -4968,9 +5962,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2678,
-      "word_like_tokens": 411,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/mufg",
+          "evidence": "official_profile",
+          "source": "https://www.am.mufg.jp/corp/about/gaiyou.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3017,
+      "word_like_tokens": 466,
       "last_modified": "2026-06-22"
     },
     {
@@ -5134,9 +6145,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2585,
-      "word_like_tokens": 377,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "securities-firms/nomura-hd",
+          "evidence": "official_profile",
+          "source": "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2945,
+      "word_like_tokens": 435,
       "last_modified": "2026-06-22"
     },
     {
@@ -53773,9 +54801,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2197,
-      "word_like_tokens": 331,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/mizuho-fg",
+          "evidence": "official_profile",
+          "source": "https://www.mizuhobank.co.jp/company/info/profile/index.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/zenginkyo",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.zenginkyo.or.jp/en/members/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2724,
+      "word_like_tokens": 416,
       "last_modified": "2026-06-22"
     },
     {
@@ -53877,9 +54930,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2156,
-      "word_like_tokens": 344,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/mufg",
+          "evidence": "official_profile",
+          "source": "https://www.mufg.jp/profile/biz_and_network/group/index.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/zenginkyo",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.zenginkyo.or.jp/en/members/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2678,
+      "word_like_tokens": 429,
       "last_modified": "2026-06-22"
     },
     {
@@ -54605,9 +55683,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2169,
-      "word_like_tokens": 333,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/smfg",
+          "evidence": "official_profile",
+          "source": "https://www.smbc.co.jp/aboutus/profile/group.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/zenginkyo",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.zenginkyo.or.jp/en/members/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2680,
+      "word_like_tokens": 416,
       "last_modified": "2026-06-22"
     },
     {
@@ -57166,9 +58269,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2379,
-      "word_like_tokens": 372,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "non-life-insurers/msad",
+          "evidence": "official_profile",
+          "source": "https://www.ms-ins.com/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2698,
+      "word_like_tokens": 425,
       "last_modified": "2026-06-22"
     },
     {
@@ -58200,9 +59320,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2240,
-      "word_like_tokens": 351,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "non-life-insurers/sompo",
+          "evidence": "official_profile",
+          "source": "https://www.sompo-japan.co.jp/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2567,
+      "word_like_tokens": 405,
       "last_modified": "2026-06-22"
     },
     {
@@ -58542,9 +59679,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2367,
-      "word_like_tokens": 365,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "non-life-insurers/tokio-marine",
+          "evidence": "official_profile",
+          "source": "https://www.tokiomarine-nichido.co.jp/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2709,
+      "word_like_tokens": 420,
       "last_modified": "2026-06-22"
     },
     {
@@ -59798,9 +60952,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2273,
-      "word_like_tokens": 379,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/au-fh",
+          "evidence": "official_profile",
+          "source": "https://www.au-payment.co.jp/company/profile.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2616,
+      "word_like_tokens": 436,
       "last_modified": "2026-06-22"
     },
     {
@@ -61100,9 +62271,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2102,
-      "word_like_tokens": 328,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "payment-firms/mercari-hd",
+          "evidence": "official_profile",
+          "source": "https://jp.merpay.com/about/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2433,
+      "word_like_tokens": 382,
       "last_modified": "2026-06-22"
     },
     {
@@ -61506,9 +62694,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2016,
-      "word_like_tokens": 320,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/paypay-fg",
+          "evidence": "official_profile",
+          "source": "https://about.paypay.ne.jp/about/",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2347,
+      "word_like_tokens": 374,
       "last_modified": "2026-06-22"
     },
     {
@@ -81551,9 +82756,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2696,
-      "word_like_tokens": 390,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/mizuho-fg",
+          "evidence": "official_profile",
+          "source": "https://www.mizuhogroup.com/jp/securities/who-we-are/profile",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/jsda",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.jsda.or.jp/en/about/members-list/index.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3238,
+      "word_like_tokens": 479,
       "last_modified": "2026-06-22"
     },
     {
@@ -81764,9 +82994,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 3151,
-      "word_like_tokens": 461,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/mufg",
+          "evidence": "official_profile",
+          "source": "https://www.hd.sc.mufg.jp/english/company/group_mumss.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/jsda",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.jsda.or.jp/en/about/members-list/index.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3686,
+      "word_like_tokens": 550,
       "last_modified": "2026-06-22"
     },
     {
@@ -82189,9 +83444,34 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2592,
-      "word_like_tokens": 412,
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/sbi-hd",
+          "evidence": "official_profile",
+          "source": "https://www.sbigroup.co.jp/company/group/sbisec.php",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/jsda",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.jsda.or.jp/en/about/members-list/index.html",
+          "as_of": "2026-06-22",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3123,
+      "word_like_tokens": 500,
       "last_modified": "2026-06-22"
     },
     {
@@ -94901,8 +96181,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7407,
-      "word_like_tokens": 1344,
+      "nonspace_chars": 4044,
+      "word_like_tokens": 744,
       "last_modified": "2026-06-22"
     }
   ]

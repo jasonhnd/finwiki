@@ -16,6 +16,25 @@ entity_node:
   kind: operating_company
   scope: japan_core
   status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/mizuho-fg
+    evidence: official_profile
+    source: https://www.mizuhogroup.com/jp/securities/who-we-are/profile
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/jsda
+    evidence: industry_body_member_list
+    source: https://www.jsda.or.jp/en/about/members-list/index.html
+    as_of: 2026-06-22
+    confidence: likely
 sources:
   - "https://www.mizuhogroup.com/jp/securities/who-we-are/profile"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"

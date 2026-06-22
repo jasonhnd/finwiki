@@ -19,6 +19,19 @@ entity_node:
   kind: operating_company
   scope: japan_core
   status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: non-life-insurers/msad
+    evidence: official_profile
+    source: https://www.ms-ins.com/
+    as_of: 2026-06-22
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf
+    as_of: 2026-06-22
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
   - "https://www.sonpohogo.or.jp/outline/member-companies.html"
