@@ -1,11 +1,11 @@
 ---
 source: banking/daiwa-next-bank
-source_hash: 01ed015f5641aef8
+source_hash: 953cb62e7279a16d
 lang: zh
 status: machine
 fidelity: ok
 title: "大和Next银行经营概况（大和ネクスト銀行）"
-translated_at: 2026-06-18T23:33:48.348Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # 大和Next银行经营概况（大和ネクスト銀行）
@@ -16,7 +16,11 @@ translated_at: 2026-06-18T23:33:48.348Z
 
 ## TL;DR
 
-大和ネクスト銀行（Daiwa Next Bank, Ltd.）是 [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]]（东证 Prime 8601）的全资银行子公司。它是大和一侧的**证券-银行混合型**锚点，复刻了 [[regional-banks/ssnb|SSNB]]（SBI）、[[banking/au-jibun-bank|au Jibun Bank]]（KDDI / 三菱UFJ）和 [[banking/rakuten-bank|Rakuten Bank]]（楽天証券邻接）的架构模式。其特许经营基础围绕**将券商现金流整合进银行业务**构建——与大和証券账户的扫存款联动、补充外币计价投信销售的多币种存款支持，以及一个主要由大和証券账户客户构建的、约 5.06 万亿日元的存款基础（截至 2026-03-31，跨 2,288 千个账户合计 5,063.7 亿日元，日元与外币存款合并）。**2026-04-27**，大和証券集团 / 大和ネクスト銀行宣布达成协议，将 [[trust-banks/orix-bank|Orix Bank]] 收为全资子公司，实质性地扩张了集团的银行侧资产负债表、住房贷款发放与信托银行选项——这是大和ネクスト銀行自 2011 成立以来最具决定意义的战略举措。^[extracted]
+大和ネクスト銀行（Daiwa Next Bank, Ltd.）是 [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]]（东证 Prime 8601）的全资银行子公司。它是大和一侧的**证券-银行混合型**锚点，复刻了 [[regional-banks/ssnb|SSNB]]（SBI）、[[banking/au-jibun-bank|au Jibun Bank]]（KDDI / 三菱UFJ）和 [[banking/rakuten-bank|Rakuten Bank]]（楽天証券邻接）的架构模式。其特许经营基础围绕**将券商现金流整合进银行业务**构建，包括与大和証券账户的扫存款联动，以及补充外币计价投信销售的多币种存款支持。
+
+存款 / 账户 as-of 日：**2026-03-31**。存款基础约 5.06 万亿日元（跨 2,288 千个账户合计 5,063.7 亿日元，日元与外币存款合并），主要由大和証券账户客户构成。
+
+ORIX Bank 收购公告 / 协议日期：**2026-04-27**。大和証券集团 / 大和ネクスト銀行宣布达成协议，将 [[trust-banks/orix-bank|Orix Bank]] 收为全资子公司，实质性地扩张了集团的银行侧资产负债表、住房贷款发放与信托银行选项——这是大和ネクスト銀行自 2011 成立以来最具决定意义的战略举措。^[extracted]
 
 ## 1. 身份与集团内定位
 

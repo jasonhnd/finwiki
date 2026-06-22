@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/sony-group-finance-arm
-source_hash: 71ed563472760d62
+source_hash: dd8a802b5d1d1157
 lang: en
 status: machine
 fidelity: ok
 title: "Sony Group Finance Arm (Sony Group financial-business arm)"
-translated_at: 2026-06-18T15:47:13.961Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # Sony Group Finance Arm (Sony Group financial-business arm)
@@ -16,7 +16,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-Sony Group's (6758) **financial-business arm = Sony Financial Group (SFG, formerly SFH)** is an unusual captive finance that has constituted a **profit pillar fully independent of the entertainment business** within a conglomerate spanning electronics / games / music / film / semiconductors. Its three pillars — life insurance (Sony Life), non-life insurance (Sony Insurance), and an internet bank (Sony Bank) — unlike the Toyota / Hitachi / Panasonic-style captives, originate **not from "sales finance for the parent's products" but from "Sony-brand personal finance."** In 2020-09  Sony Group took it fully private via TOB → in 2024-05  announced a partial spinoff → **in 2025-10-01 (planned), re-lists on the TSE PRIME**, again separating it from the conglomerate. From a manufacturing standpoint, read it as the **completed form of the cycle in which a manufacturing conglomerate takes on / spins off finance.**
+Sony Group's (6758) **financial-business arm = Sony Financial Group (SFG, formerly SFH)** is an unusual captive finance that has constituted a **profit pillar fully independent of the entertainment business** within a conglomerate spanning electronics / games / music / film / semiconductors. Its three pillars — life insurance (Sony Life), non-life insurance (Sony Insurance), and an internet bank (Sony Bank) — unlike the Toyota / Hitachi / Panasonic-style captives, originate **not from "sales finance for the parent's products" but from "Sony-brand personal finance."** In 2020-09 Sony Group took it fully private via TOB → in 2024-05 partial spin-off plan → **TSE Prime relisting date: 2025-09-29** / **partial spin-off effective / completion date: 2025-10-01**, again separating it from the conglomerate. From a manufacturing standpoint, read it as the **completed form of the cycle in which a manufacturing conglomerate takes on / spins off finance.**
 
 ## 1. The Position of the Finance Division Within Sony Group
 
@@ -26,7 +26,8 @@ Sony Group's (6758) **financial-business arm = Sony Financial Group (SFG, former
 | Parent listing | TSE PRIME 6758, NYSE-listed (ADR: SONY) |
 | Financial holding company | [[megabanks/sony-fg|ソニーフィナンシャルグループ]] (formerly Sony Financial Holdings 8729) |
 | Made a wholly owned subsidiary | 2020-09-29 (TOB completed, delisted) |
-| Re-listing (planned) | 2025-10-01 (TSE PRIME re-listing via partial spinoff) |
+| TSE PRIME relisting | 2025-09-29 (securities code 8729 revived) |
+| Partial spin-off effective date | 2025-10-01 (financial-business partial spin-off completed) |
 | Parent's final stake (assumed post-re-listing) | below 20% (deconsolidation requirement) |
 | Financial segment FY2024  revenue | approx. 1.4 兆円 scale (Sony Group consolidated segment disclosure) |
 | Financial segment FY2024  operating profit | approx. 1,800 億円 scale |
@@ -105,4 +106,4 @@ Sony's financial segment has functioned over the past 20  years as a **"stable r
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Based on Sony Group IR + the SFG corporate site + EDINET. Financial-segment figures are stated as approximations; the re-listing date (2025-10-01) and the parent's final stake are plans as of the 2024-05  announcement and may change up until just before the IPO.
+> confidence: **likely**. Based on Sony Group IR + the SFG corporate site + EDINET. Financial-segment figures are stated as approximations; the TSE Prime relisting date (2025-09-29) and partial spin-off effective / completion date (2025-10-01) are based on Sony Group / securities-firm notices. The parent's final post-relisting stake requires an update from securities-report data.

@@ -1,11 +1,11 @@
 ---
 source: banking/daiwa-next-bank
-source_hash: 01ed015f5641aef8
+source_hash: 953cb62e7279a16d
 lang: ja
 status: machine
 fidelity: ok
 title: "大和ネクスト銀行 事業プロファイル（大和ネクスト銀行）"
-translated_at: 2026-06-18T23:33:48.348Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # 大和ネクスト銀行 事業プロファイル（大和ネクスト銀行）
@@ -16,7 +16,11 @@ translated_at: 2026-06-18T23:33:48.348Z
 
 ## TL;DR
 
-大和ネクスト銀行（Daiwa Next Bank, Ltd.）は [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]]（東証プライム 8601）の完全子会社の銀行子会社である。大和側における**証券・銀行ハイブリッド**のアンカーであり、[[regional-banks/ssnb|SSNB]]（SBI）、[[banking/au-jibun-bank|au Jibun Bank]]（KDDI / 三菱UFJ）、[[banking/rakuten-bank|Rakuten Bank]]（楽天証券隣接）のアーキテクチャ・パターンを写し取っている。そのフランチャイズは**ブローカレッジのキャッシュフローを銀行業へ統合すること**を中心に構築されており、大和証券口座とのスイープ預金連携、外貨建て投信の販売を補完する多通貨預金サポート、そして主に大和証券口座顧客から構築された約 5.06 兆円（2026-03-31時点で 2,288 千口座にわたる 5,063.7 億円、円・外貨預金合算）の預金基盤を備える。**2026-04-27**、大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank]] を完全子会社化する合意を発表し、グループの銀行側バランスシート、住宅ローン組成、信託銀行オプションを大幅に拡張した — これは 2011 の創業以来、大和ネクスト銀行にとって最も重大な戦略的動きである。^[extracted]
+大和ネクスト銀行（Daiwa Next Bank, Ltd.）は [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]]（東証プライム 8601）の完全子会社の銀行子会社である。大和側における**証券・銀行ハイブリッド**のアンカーであり、[[regional-banks/ssnb|SSNB]]（SBI）、[[banking/au-jibun-bank|au Jibun Bank]]（KDDI / 三菱UFJ）、[[banking/rakuten-bank|Rakuten Bank]]（楽天証券隣接）のアーキテクチャ・パターンを写し取っている。そのフランチャイズは**ブローカレッジのキャッシュフローを銀行業へ統合すること**を中心に構築されており、大和証券口座とのスイープ預金連携と、外貨建て投信の販売を補完する多通貨預金サポートを備える。
+
+Deposit / account as-of date: **2026-03-31**。預金基盤は約 5.06 兆円（2,288 千口座にわたる 5,063.7 億円、円・外貨預金合算）で、主に大和証券口座顧客から構築されている。
+
+ORIX Bank acquisition announcement / agreement date: **2026-04-27**。大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank]] を完全子会社化する合意を発表し、グループの銀行側バランスシート、住宅ローン組成、信託銀行オプションを大幅に拡張した — これは 2011 の創業以来、大和ネクスト銀行にとって最も重大な戦略的動きである。^[extracted]
 
 ## 1. アイデンティティとグループ内ポジション
 
