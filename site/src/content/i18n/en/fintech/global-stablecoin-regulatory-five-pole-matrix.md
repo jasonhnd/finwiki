@@ -1,11 +1,11 @@
 ---
 source: fintech/global-stablecoin-regulatory-five-pole-matrix
-source_hash: 7baf14737caf3a76
+source_hash: 931f5b08a3be6b33
 lang: en
 status: machine
 fidelity: ok
 title: "Global Stablecoin Regulation: Five-Pole Comparison Matrix"
-translated_at: 2026-05-31T07:28:06.121Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # Global Stablecoin Regulation: Five-Pole Comparison Matrix
@@ -28,7 +28,7 @@ The single-issuer narrative ("USDC dominates everywhere") is incorrect once you 
 | 🇺🇸 US GENIUS | Payment Stablecoin Act (GENIUS) | OCC + Federal Reserve + state regulators (dual-track) | Signed 2025-07, ; rule finalization 2026-H2  | 18  months for non-compliant issuers to exit the US market |
 | 🇪🇺 EU MiCA | Regulation (EU) 2023/1114  | EBA (significant) + ESMA + national NCAs | SC parts in force 2024-06-30; full MiCA 2024-12-30 | 18 -month grandfathering ended 2026-07  |
 | 🇯🇵 Japan EPI | Amended Payment Services Act (PSA 2022  revision) | FSA + Kanto Local Finance Bureau + Trust Association | In force 2023-06-01 | No transition — the new regime was built around three new license types |
-| 🇭🇰 HK | Stablecoin Ordinance (Cap. 656) | HKMA | In force 2025-08-01; first licenses 2026-05-21 | 6-month sandbox-to-license bridge for existing sandbox participants |
+| 🇭🇰 HK | Stablecoin Ordinance (Cap. 656) | HKMA | In force 2025-08-01; first licenses 2026-05-21 | 6-month sandbox-to-license bridge for existing sandbox participants ^[HKMA stablecoin issuer regime page; HKMA press releases] |
 | 🇸🇬 SG | PS Act 2019  + SCS Framework 2023-08  + DTSP Regime 2024-04  | MAS | PSA 2020-01; SCS Aug 2023; DTSP Apr 2024  | DTSP grandfathering closed 2025-06  |
 
 Japan (2023-06) was the earliest mover, HKMA (2025-08) is the latest live regime, and GENIUS (2025-07) carries the greatest institutional weight. MiCA is the only regime written as a single 400-page regulation rather than as a license category attached to a payments act.
@@ -134,5 +134,6 @@ MAS is uniquely strict on **daily** disclosure. All five poles converged on **mo
 - EBA · MiCA technical standards: https://www.eba.europa.eu/regulation-and-policy/markets-in-crypto-assets-mica
 - FSA Japan · EPI / electronic payment instruments: https://www.fsa.go.jp/policy/dem_dl/index.html
 - HKMA · Stablecoin Ordinance press releases: https://www.hkma.gov.hk/eng/news-and-media/press-releases/
+- HKMA - Stablecoin issuers regime: https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/
 - MAS · Payments regulation: https://www.mas.gov.sg/regulation/payments
 - MAS · Digital token offering guide: https://www.mas.gov.sg/regulation/explainers/a-guide-to-digital-token-offerings

@@ -1,11 +1,11 @@
 ---
 source: payments/japan-jcb-issuer-ecosystem-positioning-matrix
-source_hash: 12ff150c9b28a45d
+source_hash: 30c59b4d778c8339
 lang: zh
 status: machine
 fidelity: ok
 title: "日本 JCB 发卡机构生态系统定位矩阵"
-translated_at: 2026-06-19T06:09:18.167Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # 日本 JCB 发卡机构生态系统定位矩阵
@@ -81,8 +81,8 @@ ANA JCB Card 与 JAL JCB Card 是 JCB 与 ANA（全日空）/ JAL（日本航空
 | 发卡机构 | 品牌角色 | 集团锚 | 上市 | 卡组合规模（持卡人） | 目标段 | 主要经济引擎 | JCB 侧关系 | 跨品牌发行 | 商户网络杠杆 | 3-party 对 4-party 定位 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **[[card-issuers/jcb\|JCB Co.]]** | 品牌 + 直接发卡机构 + 收单方 | 多银行联盟（MUFG / SMFG / SMTB 一侧） | 非上市 | 全球 ~140 M+ JCB 品牌卡（含伙伴发行）；JCB 正规账册数百万 | 高端（ザ・クラス、プラチナ）、大众（CARD W） | 品牌费 + 3-party MDR（正规） + 来自伙伴的方案费 | 自身 | 仅发行 JCB | 直接 JCB 商户网络 + 与 Discover / UnionPay / Amex 联盟 | 正规为 3-party，对 4-party 伙伴为方案运营者 |
-| **[[card-issuers/mufg-nicos\|MUFG NICOS]]** | 发卡机构 | [[megabanks/mufg\|MUFG]] 100% | 非上市（子公司） | 全品牌合计数千万 | 大众 / 银行系 FG 持卡人 | 发卡机构交换费 + 现金透支 + 循环 | 品牌被授权方；伙伴发卡机构 | Visa + Mastercard + JCB | 含自有商户账册的多收单方 | 4-party（支付 JCB 交换费） |
-| **[[card-issuers/smbc-card\|SMBC Card]]** | 发卡机构 + 收单方 | [[megabanks/smfg\|SMFG]] 100% | 非上市（子公司） | 数千万；Visa 领先 | 大众 / 高端 V 积分生态系统 | 发卡机构交换费 + V 积分生态系统 + 收单方收入 | 品牌被授权方；伙伴发卡机构；竞争收单方 | Visa（锚） + Mastercard + JCB | 经 SMBC 渠道的强收单方布局 | 4-party（支付 JCB 交换费） |
+| **[[card-issuers/mufg-nicos\|MUFG NICOS]]** | 发卡机构 | [[megabanks/mufg\|MUFG]] 100% | 非上市（子公司） | Large multi-brand portfolio | 大众 / 银行系 FG 持卡人 | 发卡机构交换费 + 现金透支 + 循环 | 品牌被授权方；伙伴发卡机构 | Visa + Mastercard + JCB | 含自有商户账册的多收单方 | 4-party（支付 JCB 交换费） ^[METI registered-operator lists; JCB brand business-area source] |
+| **[[card-issuers/smbc-card\|SMBC Card]]** | 发卡机构 + 收单方 | [[megabanks/smfg\|SMFG]] 100% | 非上市（子公司） | Large Visa-anchored multi-brand portfolio | 大众 / 高端 V 积分生态系统 | 发卡机构交换费 + V 积分生态系统 + 收单方收入 | 品牌被授权方；伙伴发卡机构；竞争收单方 | Visa（锚） + Mastercard + JCB | 经 SMBC 渠道的强收单方布局 | 4-party（支付 JCB 交换费） ^[METI registered-operator lists; JCB brand business-area source] |
 | **[[card-issuers/aeon-financial-service\|AEON Financial Service]]** | 发卡机构 | 永旺零售系 FG | TSE PRIME 8570 | ~30 M 持卡人 | 大众 / 家庭 / 郊区零售 | 零售忠诚度补贴 + 发卡机构利差 | 品牌被授权方；伙伴发卡机构 | Visa + Mastercard + JCB | 永旺零售自受理 + 开放网络 | 4-party（支付 JCB 交换费） |
 | **[[card-issuers/rakuten-card\|Rakuten Card]]** | 发卡机构 | [[payment-firms/rakuten-fg\|Rakuten FG]] | 子公司 | ~37 M+ 持卡人，日本持有者数 #1  | 大众 / 乐天生态系统 | 乐天积分飞轮 + 卡利差 | 品牌被授权方；伙伴发卡机构；最大的 4-party JCB 发卡机构 | Visa + Mastercard + JCB + AMEX | 乐天 EC 锚；外部为开放网络 | 4-party（支付 JCB 交换费） |
 | **[[card-issuers/credit-saison\|Credit Saison]]** | 发卡机构 + 信贩 | 独立 | TSE PRIME 8253 | 累计 ~36 M 张发行 | 大众 / 永久不滅ポイント 忠诚度 | 发卡机构利差 + 永久不滅 留存 + 信贩交叉销售 | 品牌被授权方；伙伴发卡机构 | Visa + Mastercard + JCB + AMEX | 丸井相邻 + 开放网络 | 4-party（支付 JCB 交换费） |
@@ -91,8 +91,8 @@ ANA JCB Card 与 JAL JCB Card 是 JCB 与 ANA（全日空）/ JAL（日本航空
 | **[[card-issuers/jaccs\|JACCS]]** | 信贩 + 发卡机构 | [[megabanks/mufg\|MUFG]] 权益法 | TSE PRIME 8584 | 相对信贩账册中等规模的卡账册 | 汽车 / 教育 / リフォーム 交叉销售 | 多条线信贩 + 卡交叉销售 | 品牌被授权方；伙伴发卡机构 | Visa + Mastercard + JCB | 加盟店（汽车经销商、教育）渠道 | 4-party（支付 JCB 交换费） |
 | **[[payment-firms/diners-club-japan\|Diners Club Japan]]** | 发卡机构 + 收单方（3-party） | 三井住友信托 | 子公司 | 小；仅高端 | 高端 / 法人 / T&E | 3-party MDR + 高端年费 | 同业品牌（非被授权方）；历史联盟 | 仅 Diners | 高端商户聚焦 | 纯 3-party（无 JCB 交换费） |
 | **JR-View Card / ビューカード** | 发卡机构 | JR 东日本 100% | 子公司 | 数百万；Suica 锚 | 交通 / lumine / JRE POINT | 交通 + 车站零售忠诚度 + 卡利差 | 品牌被授权方；伙伴发卡机构（小 JCB 份额） | Visa（锚） + JCB + Mastercard | JR 东日本交通 + lumine 零售 + Mobile Suica | 4-party（支付 JCB 交换费） |
-| **ANA JCB 联名** | 多发卡机构后端上的联名 | ANA HD + JCB 或其他发卡机构 | 视后端为子公司或被授权方 | 全品牌数百万 ANA 卡 | 常旅客 / 里程 | 里程累积 + 高端档年费 | 品牌被授权方；与 JCB 共同设计的联名 | 品牌各异（ANA 也有 Visa / Mastercard / Amex 版本） | ANA 机场 + ANA Sky Web + 高端商户 | 多为 4-party；为 3-party 形态有部分 JCB 直接发行 |
-| **JAL JCB 联名** | 多发卡机构后端上的联名 | JAL + JCB 或其他发卡机构 | 视后端为子公司或被授权方 | 全品牌数百万 JAL 卡 | 常旅客 / 里程 | 里程累积 + 高端档年费 | 品牌被授权方；与 JCB 共同设计的联名 | 品牌各异（JAL 也有 Visa / Mastercard / Amex 版本） | JAL 机场 + 高端商户 | 多为 4-party；部分 JCB 直接发行 |
+| **ANA JCB 联名** | 多发卡机构后端上的联名 | ANA HD + JCB 或其他发卡机构 | 视后端为子公司或被授权方 | Mileage-card portfolio across multiple brands | 常旅客 / 里程 | 里程累积 + 高端档年费 | 品牌被授权方；与 JCB 共同设计的联名 | 品牌各异（ANA 也有 Visa / Mastercard / Amex 版本） | ANA 机场 + ANA Sky Web + 高端商户 | 多为 4-party；为 3-party 形态有部分 JCB 直接发行 ^[JCB brand business-area source; METI registered-operator lists] |
+| **JAL JCB 联名** | 多发卡机构后端上的联名 | JAL + JCB 或其他发卡机构 | 视后端为子公司或被授权方 | Mileage-card portfolio across multiple brands | 常旅客 / 里程 | 里程累积 + 高端档年费 | 品牌被授权方；与 JCB 共同设计的联名 | 品牌各异（JAL 也有 Visa / Mastercard / Amex 版本） | JAL 机场 + 高端商户 | 多为 4-party；部分 JCB 直接发行 ^[JCB brand business-area source; METI registered-operator lists] |
 
 ### 侧轴 — 积分 / 忠诚度 + 3DS / 安全
 

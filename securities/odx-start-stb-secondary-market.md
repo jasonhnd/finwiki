@@ -155,7 +155,7 @@ For SOR context on Japannext specifically, see [[securities/japannext-sor-routin
 
 | Layer | Role |
 |---|---|
-| FSA | Authorizes Type I FIBO with PTS scope; supervises the unlisted-PTS framework; published 2022-06-22 Market System Working Group interim report addressing ST circulation via PTS. |
+| FSA | Authorizes Type I FIBO with PTS scope; supervises the unlisted-PTS framework; published 2022-06-22 Market System Working Group interim report addressing ST circulation via PTS. ^[FSA financial instruments operator list; FSA 2022-06-22 Market System Working Group interim report; ODX START launch page] |
 | JSDA | Self-regulatory body; created rules for PTS trading of unlisted securities including tokenized securities after the FSA 2022 interim report; defines `unlisted approved PTS issue` scope. |
 | Japan STO Association | Industry discussion forum on STO market development; not a primary regulator but feeds into JSDA / FSA rule-design context. |
 | JSCC / JASDEC | Settlement infrastructure for the cash-equity scope of ODX. |

@@ -38,7 +38,8 @@
       "https://www.tokyohash.co.jp/news/",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://group.hashkey.com/en/about/"
+      "https://group.hashkey.com/en/about/",
+      "https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -84,9 +85,10 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
     ],
-    "external_links_count": 7,
+    "external_links_count": 8,
     "external_links": [
       "https://group.hashkey.com/en/about/",
+      "https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://www.tokyohash.co.jp/company/group_companies/",
@@ -96,9 +98,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 3941,
-    "word_like_tokens": 673,
+    "nonspace_chars": 4366,
+    "word_like_tokens": 736,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-22"
   }
 }

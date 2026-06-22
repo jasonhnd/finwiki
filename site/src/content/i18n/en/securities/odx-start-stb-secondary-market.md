@@ -1,11 +1,11 @@
 ---
 source: securities/odx-start-stb-secondary-market
-source_hash: 9c6a5b205cb2d7b1
+source_hash: ea535c2573f4e38e
 lang: en
 status: machine
 fidelity: ok
 title: "ODX START security token secondary market"
-translated_at: 2026-06-01T04:15:40.104Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 # ODX START security token secondary market
 
@@ -132,7 +132,7 @@ For SOR context on Japannext specifically, see [[securities/japannext-sor-routin
 
 | Layer | Role |
 |---|---|
-| FSA | Authorizes Type I FIBO with PTS scope; supervises the unlisted-PTS framework; published 2022-06-22 Market System Working Group interim report addressing ST circulation via PTS. |
+| FSA | Authorizes Type I FIBO with PTS scope; supervises the unlisted-PTS framework; published 2022-06-22 Market System Working Group interim report addressing ST circulation via PTS. ^[FSA financial instruments operator list; FSA 2022-06-22 Market System Working Group interim report; ODX START launch page] |
 | JSDA | Self-regulatory body; created rules for PTS trading of unlisted securities including tokenized securities after the FSA 2022 interim report; defines `unlisted approved PTS issue` scope. |
 | Japan STO Association | Industry discussion forum on STO market development; not a primary regulator but feeds into JSDA / FSA rule-design context. |
 | JSCC / JASDEC | Settlement infrastructure for the cash-equity scope of ODX. |

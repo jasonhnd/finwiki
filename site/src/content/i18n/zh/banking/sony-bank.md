@@ -1,11 +1,11 @@
 ---
 source: banking/sony-bank
-source_hash: 3283d667337f1928
+source_hash: 9d7c775f08bb100f
 lang: zh
 status: machine
 fidelity: ok
 title: "索尼银行运营概况 (ソニー銀行)"
-translated_at: 2026-05-31T03:19:56.358Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # 索尼银行运营概况 (ソニー銀行)
@@ -23,7 +23,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | 设立 | 2001-04 (日本首批互联网银行之一) |
 | 银行牌照类别 | 普通銀行 (銀行法下的普通银行),归入 FSA「その他の銀行」 |
 | 母公司 | [[megabanks/sony-fg|Sony Financial Group]] (100%) |
-| 最终母公司 | Sony Group Corporation (东证 6758) — Sony FG 经由 2020 TOB 被重新收购;Sony FG 经由日本首例部分分拆 (partial spin-off) 于 2025-09-29 在东证 Prime 重新上市 (Sony Group 保留约 20%,>80% 以实物方式分配给股东) |
+| 最终母公司 | Sony Group Corporation (东证 6758) — Sony FG 经由 2020 TOB 被重新收购;Sony FG 经由日本首例部分分拆 (partial spin-off) 于 2025-09-29 在东证 Prime 重新上市 (Sony Group 保留约 20%,>80% 以实物方式分配给股东) ^[Sony Group SFG partial spin-off portal; Sony Bank company profile; FSA licensed bank list] |
 | 总部 | 东京 |
 | 面向客户的品牌 | **MoneyKit** (在线服务品牌,moneykit.net) |
 | 旗舰产品品牌 | **Sony Bank WALLET** (多币种借记 / 现金卡) |
@@ -136,6 +136,7 @@ MoneyKit 平台分销 投信 (投资信托),并支持证券账户的邻接业务
 - Sony Bank disclosure publications (https://moneykit.net/visitor/co/disc.html).
 - Sony Bank WALLET product page (https://moneykit.net/visitor/sbw/).
 - Sony Financial Group corporate site (https://www.sonyfg.co.jp/).
+- Sony Group partial spin-off portal for SFG (https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/).
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
 - Sony Bank foreign-currency-deposit page — 12-currency menu (https://moneykit.net/visitor/fx/).
 - Sony Bank 中間期ディスクロージャー誌 2025.09.30 — total deposits ¥4,536.9bn (https://sonybank.jp/corporate/pdf/disclosure2025h.pdf).
