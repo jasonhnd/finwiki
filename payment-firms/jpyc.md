@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, stablecoin, funds-transfer, EPI]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://jpyc.co.jp/"
   - "https://jpyc.jp/"

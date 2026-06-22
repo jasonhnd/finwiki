@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報)"
   - JPMorgan Chase & Co. Annual Report (10-K, 2024 年度)

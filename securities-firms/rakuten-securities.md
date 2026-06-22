@@ -12,6 +12,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, online-brokerage, NISA, Rakuten]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://global.rakuten.com/corp/news/press/2024/0416_01.html"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"

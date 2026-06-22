@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card, installment, consumer-finance]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社ジャックス (公開情報, 2026-05-19 参照)"
   - Jaccs 公式 IR 開示資料 (公開分)

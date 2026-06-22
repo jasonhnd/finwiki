@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出)"
   - Morgan Stanley Annual Report (2024 / Form 10-K)

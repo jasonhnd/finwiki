@@ -15,6 +15,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, mufg]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
   - "https://www.am.mufg.jp/corp/about/gaiyou.html"

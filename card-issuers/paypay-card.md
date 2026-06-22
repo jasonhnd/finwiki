@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, credit-card, code-payment, consumer-credit]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.paypay-card.co.jp/company/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"

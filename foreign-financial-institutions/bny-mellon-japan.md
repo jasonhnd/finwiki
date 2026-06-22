@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custody]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: バンク・オブ・ニューヨーク・メロン (2026-05-19 参照)"
   - "Wikipedia: The Bank of New York Mellon (英語版、2026-05-19 参照)"

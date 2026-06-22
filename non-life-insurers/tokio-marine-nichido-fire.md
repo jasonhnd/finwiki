@@ -15,6 +15,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, tokio-marine, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
   - "https://www.sonpohogo.or.jp/outline/member-companies.html"

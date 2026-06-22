@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, policy-finance, government]
 status: active
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 日本政策金融公庫 (2026-05-19 抽出)"
   - 日本政策金融公庫法 (平成 19 年法律第 57 号)

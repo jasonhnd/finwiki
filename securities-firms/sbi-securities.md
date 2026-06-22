@@ -9,6 +9,10 @@ review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, online-broker, fiea-operator, sbi]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
   - "https://www.sbisec.co.jp/company/about/profile/"

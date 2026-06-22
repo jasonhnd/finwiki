@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社ジェーシービー (公開情報、2026-05-19 参照)"
   - JCB 公式コーポレートサイト 会社概要 (公開情報)

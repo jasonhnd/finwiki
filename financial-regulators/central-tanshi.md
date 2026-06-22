@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: セントラル短資株式会社 (2026-05-19 抽出)"
   - "セントラル短資 公式サイト 沿革・会社概要 (2026-05-19 抽出)"

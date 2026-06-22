@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 上田八木短資 (公開情報, 2026-05-19 抽出)"
   - "Wikipedia: 短資会社"

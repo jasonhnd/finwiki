@@ -18,6 +18,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, industry-body, banking, SRO, JBA, Zenginkyo, FSA, Zengin, public-source]
 status: active
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.zenginkyo.or.jp/en/abstract/"
   - "https://www.zenginkyo.or.jp/abstract/outline/"

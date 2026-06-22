@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, policy-finance, government, international]
 status: active
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社国際協力銀行 (2026-05-19 抽出)"
   - "JBIC 公式サイト 沿革・業務概要 (2026-05-19 参照)"

@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: HSBC / 香港上海銀行 (2026-05-19 抽出)"
   - HSBC Holdings plc Annual Report 2024

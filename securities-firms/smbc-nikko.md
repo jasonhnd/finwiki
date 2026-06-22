@@ -17,6 +17,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: SMBC日興証券 (公開情報、2026-05-19 抽出)"
   - "Wikipedia: 日興コーディアル証券 (公開情報、2026-05-19 抽出)"

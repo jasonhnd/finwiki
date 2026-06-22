@@ -16,6 +16,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, crypto]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: マネックスグループ (公開情報、2026-05-19 抽出)"
   - "マネックスグループ 公式コーポレートサイト IR セクション"

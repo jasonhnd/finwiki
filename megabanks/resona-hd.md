@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-megabank]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: りそなホールディングス (2026-05-19 抽出)"
   - "Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ"

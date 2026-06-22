@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, stablecoin, digital-assets, trust-bank, tokenization]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://progmat.co.jp/about/"
   - "https://progmat.co.jp/concept/"

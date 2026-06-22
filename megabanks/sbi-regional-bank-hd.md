@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank-consortium]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: SBIホールディングス / 第 4 のメガバンク構想 (2026-05-19 抽出)"
   - "SBI HD コーポレートサイト・統合報告書"

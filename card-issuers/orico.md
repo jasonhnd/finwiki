@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card, installment]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社オリエントコーポレーション (公開情報、2026-05-19 参照)"
   - Orico 公式コーポレートサイト 会社概要・沿革 (公開情報)

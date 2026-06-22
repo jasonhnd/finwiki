@@ -19,6 +19,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 第一生命ホールディングス (公開情報 2026-05-19 抽出)"
   - "第一生命 HD 公式 IR / 沿革ページ (公開情報)"

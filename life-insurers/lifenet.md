@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, internet]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: ライフネット生命保険 (2026-05-19 抽出、公開情報のみ)"
   - "東証グロース 上場会社情報 (証券コード 7157)"

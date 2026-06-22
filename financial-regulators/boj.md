@@ -9,6 +9,10 @@ review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, central-bank, monetary-policy, banker-of-banks, government-banker]
 status: active
+entity_node:
+  kind: regulator
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 日本銀行 (2026-05-25 抽出)"
   - "日本銀行 公式サイト (https://www.boj.or.jp/, 2026-05-25 参照)"

@@ -14,6 +14,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [card-issuers, JapanFG, credit-card, retail-finance, installment-credit]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.aeonfinancial.co.jp/corp/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"

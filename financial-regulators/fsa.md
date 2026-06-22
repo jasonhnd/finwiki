@@ -9,6 +9,10 @@ review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regulator, financial-supervision, government-agency]
 status: active
+entity_node:
+  kind: regulator
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 金融庁 (2026-05-25 抽出)"
   - "金融庁 公式サイト (https://www.fsa.go.jp/, 2026-05-25 参照)"

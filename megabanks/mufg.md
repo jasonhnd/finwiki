@@ -9,6 +9,10 @@ review_by: 2026-11-26
 confidence: certain
 tags: [JapanFG, megabank, basel-iii, governance, regulatory-ledger]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 三菱UFJフィナンシャル・グループ (2026-05-18 抽出)"
   - MUFG 第 20 期 (2025-03 期) 有価証券報告書 (2025-06-25)

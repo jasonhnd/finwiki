@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, sony, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/hoken.pdf"
   - "https://www.seiho.or.jp/member/list/"

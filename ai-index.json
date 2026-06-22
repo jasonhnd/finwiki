@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-22T09:42:14+09:00",
+  "generated_at": "2026-06-22T11:42:24+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,11 +9,11 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11099098,
-    "word_like_tokens": 1791112,
+    "nonspace_utf8_chars": 11110051,
+    "word_like_tokens": 1792974,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
-    "entity_nodes": 0,
+    "entity_nodes": 89,
     "entity_edges": 0,
     "entity_edges_declared": 0,
     "entity_edges_derived": 0,
@@ -572,7 +572,815 @@
       ]
     }
   ],
-  "entity_nodes": [],
+  "entity_nodes": [
+    {
+      "anchor": "asset-managers/asset-management-one",
+      "url": "https://finwiki.zksc.io/asset-managers/asset-management-one",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/daiwa-asset-management",
+      "url": "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/mufg-asset-management",
+      "url": "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/nissay-asset-management",
+      "url": "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/nomura-asset-management",
+      "url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/smd-am",
+      "url": "https://finwiki.zksc.io/asset-managers/smd-am",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "asset-managers/smt-am",
+      "url": "https://finwiki.zksc.io/asset-managers/smt-am",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "asset-managers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/aeon-financial-service",
+      "url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/credit-saison",
+      "url": "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/jaccs",
+      "url": "https://finwiki.zksc.io/card-issuers/jaccs",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/jcb",
+      "url": "https://finwiki.zksc.io/card-issuers/jcb",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/mufg-nicos",
+      "url": "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/orico",
+      "url": "https://finwiki.zksc.io/card-issuers/orico",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/paypay-card",
+      "url": "https://finwiki.zksc.io/card-issuers/paypay-card",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/rakuten-card",
+      "url": "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "card-issuers/smbc-card",
+      "url": "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "card-issuers",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/boj",
+      "url": "https://finwiki.zksc.io/financial-regulators/boj",
+      "kind": "regulator",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/central-tanshi",
+      "url": "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/cpaaob",
+      "url": "https://finwiki.zksc.io/financial-regulators/cpaaob",
+      "kind": "regulator",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/dbj",
+      "url": "https://finwiki.zksc.io/financial-regulators/dbj",
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/dic",
+      "url": "https://finwiki.zksc.io/financial-regulators/dic",
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/fsa",
+      "url": "https://finwiki.zksc.io/financial-regulators/fsa",
+      "kind": "regulator",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/japan-exchange-group",
+      "url": "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "kind": "exchange",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/japan-securities-finance",
+      "url": "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/jbic",
+      "url": "https://finwiki.zksc.io/financial-regulators/jbic",
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/jfc",
+      "url": "https://finwiki.zksc.io/financial-regulators/jfc",
+      "kind": "public_infrastructure",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/jsda",
+      "url": "https://finwiki.zksc.io/financial-regulators/jsda",
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/seiho-kyokai",
+      "url": "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/tokyo-tanshi",
+      "url": "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/ueda-yagi-tanshi",
+      "url": "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/zenginkyo",
+      "url": "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "financial-regulators/zenshin-kyo",
+      "url": "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+      "kind": "sro",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "financial-regulators",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/bank-of-america-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/bnp-paribas-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/bny-mellon-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/citigroup-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/deutsche-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/hsbc-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/jpmorgan-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "foreign-financial-institutions/state-street-japan",
+      "url": "https://finwiki.zksc.io/foreign-financial-institutions/state-street-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "foreign-financial-institutions",
+      "mirrors": []
+    },
+    {
+      "anchor": "life-insurers/dai-ichi-life",
+      "url": "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "life-insurers/kampo-life",
+      "url": "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": [
+        "insurance/kampo-japan-post-insurance.md"
+      ]
+    },
+    {
+      "anchor": "life-insurers/lifenet",
+      "url": "https://finwiki.zksc.io/life-insurers/lifenet",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "life-insurers/meiji-yasuda",
+      "url": "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "life-insurers/nippon-life",
+      "url": "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "life-insurers/sony-life",
+      "url": "https://finwiki.zksc.io/life-insurers/sony-life",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": [
+        "insurance/sony-life-group-life-operating-model.md"
+      ]
+    },
+    {
+      "anchor": "life-insurers/sumitomo-life",
+      "url": "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/au-fh",
+      "url": "https://finwiki.zksc.io/megabanks/au-fh",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/mizuho-bank",
+      "url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/mizuho-fg",
+      "url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/mufg",
+      "url": "https://finwiki.zksc.io/megabanks/mufg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/mufg-bank",
+      "url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/ndfg",
+      "url": "https://finwiki.zksc.io/megabanks/ndfg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/paypay-fg",
+      "url": "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/resona-hd",
+      "url": "https://finwiki.zksc.io/megabanks/resona-hd",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/sbi-hd",
+      "url": "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/sbi-regional-bank-hd",
+      "url": "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/smfg",
+      "url": "https://finwiki.zksc.io/megabanks/smfg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/sony-fg",
+      "url": "https://finwiki.zksc.io/megabanks/sony-fg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": [
+        "manufacturer-finance/sony-group-finance-arm.md"
+      ]
+    },
+    {
+      "anchor": "megabanks/sumitomo-mitsui-banking-corp",
+      "url": "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/mitsui-sumitomo-insurance",
+      "url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/msad",
+      "url": "https://finwiki.zksc.io/non-life-insurers/msad",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/sompo",
+      "url": "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/sompo-japan-insurance",
+      "url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/tokio-marine",
+      "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "non-life-insurers/tokio-marine-nichido-fire",
+      "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "non-life-insurers",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/au-payment",
+      "url": "https://finwiki.zksc.io/payment-firms/au-payment",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/gmo-payment-gateway",
+      "url": "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/jpyc",
+      "url": "https://finwiki.zksc.io/payment-firms/jpyc",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/mercari-hd",
+      "url": "https://finwiki.zksc.io/payment-firms/mercari-hd",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/merpay",
+      "url": "https://finwiki.zksc.io/payment-firms/merpay",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/paidy",
+      "url": "https://finwiki.zksc.io/payment-firms/paidy",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/paypay",
+      "url": "https://finwiki.zksc.io/payment-firms/paypay",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/progmat",
+      "url": "https://finwiki.zksc.io/payment-firms/progmat",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/rakuten-fg",
+      "url": "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "payment-firms/sb-payment-service",
+      "url": "https://finwiki.zksc.io/payment-firms/sb-payment-service",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "payment-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/daiwa-sg",
+      "url": "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/gmo-click-securities",
+      "url": "https://finwiki.zksc.io/securities-firms/gmo-click-securities",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/goldman-sachs-japan",
+      "url": "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/matsui-sec",
+      "url": "https://finwiki.zksc.io/securities-firms/matsui-sec",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/mizuho-securities",
+      "url": "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/monex-group",
+      "url": "https://finwiki.zksc.io/securities-firms/monex-group",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/morgan-stanley-japan",
+      "url": "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+      "kind": "branch",
+      "scope": "japan_branch",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/mufg-mums",
+      "url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/nomura-hd",
+      "url": "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/paypay-securities",
+      "url": "https://finwiki.zksc.io/securities-firms/paypay-securities",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/rakuten-securities",
+      "url": "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/sbi-securities",
+      "url": "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    },
+    {
+      "anchor": "securities-firms/smbc-nikko",
+      "url": "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "securities-firms",
+      "mirrors": []
+    }
+  ],
   "entity_edges": [],
   "entity_relation_counts": {},
   "entries": [
@@ -617,10 +1425,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点",
         "AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息",
         "i18n stale → ZERO — final benign-drift clearance + pre-rename pointer fix / Clear all stale mirrors to zero / 把所有过期镜像清到零",
-        "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像",
-        "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页"
+        "i18n post-#8 mirror re-sync — retranslate dedup-affected pages / Re-sync mirrors stale after the v12 dedup merges / 同步 v12 去重后过期的镜像"
       ],
       "wikilinks": [
         "...",
@@ -881,8 +1689,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 617222,
-      "word_like_tokens": 110299,
+      "nonspace_chars": 618740,
+      "word_like_tokens": 110571,
       "last_modified": "2026-06-22"
     },
     {
@@ -3973,11 +4781,15 @@
         "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2775,
-      "word_like_tokens": 427,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2838,
+      "word_like_tokens": 437,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/daiwa-asset-management.md",
@@ -4023,11 +4835,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2608,
-      "word_like_tokens": 376,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2671,
+      "word_like_tokens": 386,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/mitsubishi-corp-asset-management.md",
@@ -4147,11 +4963,15 @@
         "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2615,
-      "word_like_tokens": 401,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2678,
+      "word_like_tokens": 411,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/nikko-asset-management.md",
@@ -4257,11 +5077,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3512,
-      "word_like_tokens": 502,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3575,
+      "word_like_tokens": 512,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/nomura-asset-management.md",
@@ -4305,11 +5129,15 @@
         "https://finwiki.zksc.io/trust-banks/nomura-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2522,
-      "word_like_tokens": 367,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2585,
+      "word_like_tokens": 377,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/principal-japan.md",
@@ -4513,11 +5341,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2769,
-      "word_like_tokens": 425,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2832,
+      "word_like_tokens": 435,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/smt-am.md",
@@ -4565,11 +5397,15 @@
         "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3334,
-      "word_like_tokens": 486,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3397,
+      "word_like_tokens": 496,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "asset-managers/t-and-d-asset-management.md",
@@ -9449,11 +10285,15 @@
         "https://finwiki.zksc.io/retail/aeon-group"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3117,
-      "word_like_tokens": 465,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3178,
+      "word_like_tokens": 475,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/aplus.md",
@@ -9549,11 +10389,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4225,
-      "word_like_tokens": 672,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4288,
+      "word_like_tokens": 682,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/epos-card.md",
@@ -9687,11 +10531,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4131,
-      "word_like_tokens": 631,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4194,
+      "word_like_tokens": 641,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/jal-card.md",
@@ -9800,11 +10648,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4557,
-      "word_like_tokens": 738,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4620,
+      "word_like_tokens": 748,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/jr-east-financial.md",
@@ -9948,11 +10800,15 @@
         "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2995,
-      "word_like_tokens": 457,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3058,
+      "word_like_tokens": 467,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/orico.md",
@@ -10006,11 +10862,15 @@
         "https://finwiki.zksc.io/payment-firms/rakuten-fg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5981,
-      "word_like_tokens": 916,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6044,
+      "word_like_tokens": 926,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/paypay-card.md",
@@ -10056,10 +10916,14 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2184,
-      "word_like_tokens": 348,
+      "nonspace_chars": 2247,
+      "word_like_tokens": 358,
       "last_modified": "2026-06-22"
     },
     {
@@ -10154,11 +11018,15 @@
         "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2390,
-      "word_like_tokens": 382,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2453,
+      "word_like_tokens": 392,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "card-issuers/seven-card-service.md",
@@ -10366,10 +11234,14 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2282,
-      "word_like_tokens": 355,
+      "nonspace_chars": 2345,
+      "word_like_tokens": 365,
       "last_modified": "2026-06-22"
     },
     {
@@ -29304,11 +30176,15 @@
         "https://finwiki.zksc.io/regional-banks/japan-post-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "regulator",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4542,
-      "word_like_tokens": 762,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4597,
+      "word_like_tokens": 771,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/cci-group.md",
@@ -29410,11 +30286,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3603,
-      "word_like_tokens": 523,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3666,
+      "word_like_tokens": 533,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/cpaaob.md",
@@ -29466,11 +30346,15 @@
         "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "regulator",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4785,
-      "word_like_tokens": 702,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4840,
+      "word_like_tokens": 711,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/dai2-chigin-kyo.md",
@@ -29598,11 +30482,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "public_infrastructure",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3384,
-      "word_like_tokens": 493,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3451,
+      "word_like_tokens": 503,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/deloitte-touche-tohmatsu.md",
@@ -29712,11 +30600,15 @@
         "https://finwiki.zksc.io/regional-banks/japan-post-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "public_infrastructure",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4121,
-      "word_like_tokens": 600,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4188,
+      "word_like_tokens": 610,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/ey-shinnihon.md",
@@ -30400,11 +31292,15 @@
         "https://finwiki.zksc.io/securities-firms/nomura-hd"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "regulator",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4694,
-      "word_like_tokens": 682,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4749,
+      "word_like_tokens": 691,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/hokenryo-sanshutsu-kiko.md",
@@ -30535,11 +31431,15 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "exchange",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4227,
-      "word_like_tokens": 606,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4281,
+      "word_like_tokens": 615,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/japan-pi-club.md",
@@ -30697,11 +31597,15 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "public_infrastructure",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2789,
-      "word_like_tokens": 413,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2856,
+      "word_like_tokens": 423,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/jbic.md",
@@ -30751,11 +31655,15 @@
         "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "public_infrastructure",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4211,
-      "word_like_tokens": 654,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4278,
+      "word_like_tokens": 664,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/jcr.md",
@@ -30849,11 +31757,15 @@
         "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "public_infrastructure",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4970,
-      "word_like_tokens": 687,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5037,
+      "word_like_tokens": 697,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/jsda.md",
@@ -30896,11 +31808,15 @@
         "https://finwiki.zksc.io/securities-firms/smbc-nikko"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "sro",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 9589,
-      "word_like_tokens": 1455,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 9638,
+      "word_like_tokens": 1464,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/kpmg-azsa.md",
@@ -31780,11 +32696,15 @@
         "https://finwiki.zksc.io/life-insurers/zurich-life"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "sro",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 8490,
-      "word_like_tokens": 1277,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 8539,
+      "word_like_tokens": 1286,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/seimei-hokensha-hogo-kiko.md",
@@ -32209,11 +33129,15 @@
         "https://finwiki.zksc.io/money-market/call-market-structure"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3104,
-      "word_like_tokens": 479,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3167,
+      "word_like_tokens": 489,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/ueda-yagi-tanshi.md",
@@ -32259,11 +33183,15 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3161,
-      "word_like_tokens": 435,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3224,
+      "word_like_tokens": 445,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/yokin-hoken-kiko.md",
@@ -32487,11 +33415,15 @@
         "https://finwiki.zksc.io/securities-firms/mizuho-securities"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "sro",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 8969,
-      "word_like_tokens": 1370,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 9018,
+      "word_like_tokens": 1379,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "financial-regulators/zenshin-kyo.md",
@@ -32551,11 +33483,15 @@
         "https://finwiki.zksc.io/financial-regulators/zenginkyo"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "sro",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 8160,
-      "word_like_tokens": 1230,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 8209,
+      "word_like_tokens": 1239,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "fintech/2022-three-variable-cascade-thesis.md",
@@ -41027,11 +41963,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3178,
-      "word_like_tokens": 483,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3232,
+      "word_like_tokens": 492,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/bank-of-china-japan.md",
@@ -41389,11 +42329,15 @@
         "https://finwiki.zksc.io/securities-firms/nomura-hd"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6777,
-      "word_like_tokens": 1190,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6831,
+      "word_like_tokens": 1199,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/bny-mellon-japan.md",
@@ -41459,11 +42403,15 @@
         "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5163,
-      "word_like_tokens": 749,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5217,
+      "word_like_tokens": 758,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/chang-hwa-bank-japan.md",
@@ -41608,11 +42556,15 @@
         "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4265,
-      "word_like_tokens": 664,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4319,
+      "word_like_tokens": 673,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/clearstream-banking-japan.md",
@@ -41955,11 +42907,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4760,
-      "word_like_tokens": 747,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4814,
+      "word_like_tokens": 756,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/esun-bank-japan.md",
@@ -42355,11 +43311,15 @@
         "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4116,
-      "word_like_tokens": 667,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4170,
+      "word_like_tokens": 676,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/icbc-japan.md",
@@ -42587,11 +43547,15 @@
         "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4687,
-      "word_like_tokens": 775,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4741,
+      "word_like_tokens": 784,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/kb-kookmin-bank-japan.md",
@@ -43304,11 +44268,15 @@
         "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6363,
-      "word_like_tokens": 993,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6417,
+      "word_like_tokens": 1002,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "foreign-financial-institutions/taipei-fubon-bank-japan.md",
@@ -48572,11 +49540,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6288,
-      "word_like_tokens": 1178,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6349,
+      "word_like_tokens": 1188,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/dai-ichi-neo-life.md",
@@ -48946,11 +49918,15 @@
         "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4319,
-      "word_like_tokens": 656,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4382,
+      "word_like_tokens": 666,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/lifenet.md",
@@ -48998,11 +49974,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3762,
-      "word_like_tokens": 557,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3825,
+      "word_like_tokens": 567,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/manulife-japan.md",
@@ -49180,11 +50160,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4001,
-      "word_like_tokens": 612,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4064,
+      "word_like_tokens": 622,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/metlife-japan.md",
@@ -49480,11 +50464,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6908,
-      "word_like_tokens": 1209,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6971,
+      "word_like_tokens": 1219,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/nissay-wealth-life.md",
@@ -50036,11 +51024,15 @@
         "https://finwiki.zksc.io/megabanks/sony-fg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2158,
-      "word_like_tokens": 342,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2221,
+      "word_like_tokens": 352,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/sumitomo-life.md",
@@ -50082,11 +51074,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3690,
-      "word_like_tokens": 567,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3753,
+      "word_like_tokens": 577,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "life-insurers/taiju-life.md",
@@ -52518,11 +53514,15 @@
         "https://finwiki.zksc.io/regional-banks/ssnb"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 8750,
-      "word_like_tokens": 1730,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 8811,
+      "word_like_tokens": 1740,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/japan-financial-conglomerate-structure-overview.md",
@@ -52768,11 +53768,15 @@
         "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2134,
-      "word_like_tokens": 321,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2197,
+      "word_like_tokens": 331,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/mizuho-fg.md",
@@ -52818,11 +53822,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 7671,
-      "word_like_tokens": 1389,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 7732,
+      "word_like_tokens": 1399,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/mufg-bank.md",
@@ -52864,11 +53872,15 @@
         "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2093,
-      "word_like_tokens": 334,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2156,
+      "word_like_tokens": 344,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/mufg.md",
@@ -52914,11 +53926,15 @@
         "https://finwiki.zksc.io/megabanks/smfg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 14087,
-      "word_like_tokens": 2939,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 14148,
+      "word_like_tokens": 2949,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/ndfg.md",
@@ -52966,11 +53982,15 @@
         "https://finwiki.zksc.io/payment-firms/rakuten-fg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6878,
-      "word_like_tokens": 1233,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6939,
+      "word_like_tokens": 1243,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/nippon-post.md",
@@ -53076,11 +54096,15 @@
         "https://finwiki.zksc.io/payment-firms/rakuten-fg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 8102,
-      "word_like_tokens": 1590,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 8163,
+      "word_like_tokens": 1600,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/resona-bank.md",
@@ -53172,11 +54196,15 @@
         "https://finwiki.zksc.io/regional-banks/minato-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4575,
-      "word_like_tokens": 775,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4636,
+      "word_like_tokens": 785,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/saitama-resona-bank.md",
@@ -53268,11 +54296,15 @@
         "https://finwiki.zksc.io/regional-banks/ssnb"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 7624,
-      "word_like_tokens": 1461,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 7685,
+      "word_like_tokens": 1471,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/sbi-regional-bank-hd.md",
@@ -53326,11 +54358,15 @@
         "https://finwiki.zksc.io/regional-banks/shimane-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5837,
-      "word_like_tokens": 979,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5898,
+      "word_like_tokens": 989,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/smbc.md",
@@ -53450,11 +54486,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 13974,
-      "word_like_tokens": 2856,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 14035,
+      "word_like_tokens": 2866,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/sony-fg.md",
@@ -53510,11 +54550,15 @@
         "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4991,
-      "word_like_tokens": 852,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5052,
+      "word_like_tokens": 862,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "megabanks/sumitomo-mitsui-banking-corp.md",
@@ -53556,11 +54600,15 @@
         "https://finwiki.zksc.io/trust-banks/smbc-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2106,
-      "word_like_tokens": 323,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2169,
+      "word_like_tokens": 333,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "money-market/INDEX.md",
@@ -56113,11 +57161,15 @@
         "https://finwiki.zksc.io/non-life-insurers/msad"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2316,
-      "word_like_tokens": 362,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2379,
+      "word_like_tokens": 372,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/msad.md",
@@ -56157,11 +57209,15 @@
         "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5562,
-      "word_like_tokens": 942,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5623,
+      "word_like_tokens": 952,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/munich-re-japan.md",
@@ -57139,11 +58195,15 @@
         "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2177,
-      "word_like_tokens": 341,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2240,
+      "word_like_tokens": 351,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/sompo.md",
@@ -57193,11 +58253,15 @@
       "markdown_links": [
         "https://www.sompo-hd.com/"
       ],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6444,
-      "word_like_tokens": 1081,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6505,
+      "word_like_tokens": 1091,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/sony-insurance.md",
@@ -57473,11 +58537,15 @@
         "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2304,
-      "word_like_tokens": 355,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2367,
+      "word_like_tokens": 365,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/tokio-marine.md",
@@ -57519,11 +58587,15 @@
         "https://finwiki.zksc.io/non-life-insurers/sompo"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5232,
-      "word_like_tokens": 919,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5293,
+      "word_like_tokens": 929,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "non-life-insurers/yamap-naturance-insurance.md",
@@ -58721,11 +59793,15 @@
         "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2210,
-      "word_like_tokens": 369,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2273,
+      "word_like_tokens": 379,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/bitflyer.md",
@@ -59429,11 +60505,15 @@
         "https://finwiki.zksc.io/payment-firms/paidy"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4089,
-      "word_like_tokens": 742,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4152,
+      "word_like_tokens": 752,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/gmo-postpay.md",
@@ -59752,11 +60832,15 @@
         "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2019,
-      "word_like_tokens": 326,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2082,
+      "word_like_tokens": 336,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/kuroneko-atobarai.md",
@@ -59961,11 +61045,15 @@
         "https://finwiki.zksc.io/securities-firms/monex-group"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6486,
-      "word_like_tokens": 1199,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6547,
+      "word_like_tokens": 1209,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/merpay.md",
@@ -60007,10 +61095,14 @@
         "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2039,
-      "word_like_tokens": 318,
+      "nonspace_chars": 2102,
+      "word_like_tokens": 328,
       "last_modified": "2026-06-22"
     },
     {
@@ -60267,11 +61359,15 @@
         "https://finwiki.zksc.io/payment-firms/rakuten-fg"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4064,
-      "word_like_tokens": 678,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4127,
+      "word_like_tokens": 688,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/payoneer-japan.md",
@@ -60405,10 +61501,14 @@
         "https://finwiki.zksc.io/securities-firms/paypay-securities"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 1953,
-      "word_like_tokens": 310,
+      "nonspace_chars": 2016,
+      "word_like_tokens": 320,
       "last_modified": "2026-06-22"
     },
     {
@@ -60499,11 +61599,15 @@
         "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2350,
-      "word_like_tokens": 361,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2413,
+      "word_like_tokens": 371,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/rakuten-edy.md",
@@ -60603,11 +61707,15 @@
         "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6360,
-      "word_like_tokens": 1233,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6421,
+      "word_like_tokens": 1243,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payment-firms/recruit-mufg-business.md",
@@ -60749,10 +61857,14 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2161,
-      "word_like_tokens": 328,
+      "nonspace_chars": 2224,
+      "word_like_tokens": 338,
       "last_modified": "2026-06-22"
     },
     {
@@ -79621,11 +80733,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5466,
-      "word_like_tokens": 904,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 5527,
+      "word_like_tokens": 914,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/dmm-com-securities.md",
@@ -79803,11 +80919,15 @@
         "https://finwiki.zksc.io/securities-firms/traders-securities"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2485,
-      "word_like_tokens": 409,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2548,
+      "word_like_tokens": 419,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/goldman-sachs-japan.md",
@@ -79855,11 +80975,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5690,
-      "word_like_tokens": 895,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5744,
+      "word_like_tokens": 904,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/imamura-securities.md",
@@ -80289,11 +81413,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3961,
-      "word_like_tokens": 568,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4024,
+      "word_like_tokens": 578,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/mebuki-securities.md",
@@ -80418,11 +81546,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2633,
-      "word_like_tokens": 380,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2696,
+      "word_like_tokens": 390,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/monex-group.md",
@@ -80468,11 +81600,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 4672,
-      "word_like_tokens": 692,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 4733,
+      "word_like_tokens": 702,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/morgan-stanley-japan.md",
@@ -80516,11 +81652,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "branch",
+        "scope": "japan_branch",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5683,
-      "word_like_tokens": 1008,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5737,
+      "word_like_tokens": 1017,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/mufg-esmart-securities.md",
@@ -80619,11 +81759,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 3088,
-      "word_like_tokens": 451,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 3151,
+      "word_like_tokens": 461,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/mufg-securities.md",
@@ -80729,11 +81873,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6985,
-      "word_like_tokens": 1262,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 7046,
+      "word_like_tokens": 1272,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/okasan-sg.md",
@@ -80827,11 +81975,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2566,
-      "word_like_tokens": 373,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2629,
+      "word_like_tokens": 383,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/rakuten-securities.md",
@@ -80878,11 +82030,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2690,
-      "word_like_tokens": 392,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2753,
+      "word_like_tokens": 402,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/saxo-bank-securities.md",
@@ -81028,11 +82184,15 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 2529,
-      "word_like_tokens": 402,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 2592,
+      "word_like_tokens": 412,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/smbc-nikko.md",
@@ -81084,11 +82244,15 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 6533,
-      "word_like_tokens": 1054,
-      "last_modified": "2026-06-21"
+      "nonspace_chars": 6596,
+      "word_like_tokens": 1064,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities-firms/tachibana-securities.md",
@@ -93737,8 +94901,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3380,
-      "word_like_tokens": 626,
+      "nonspace_chars": 7407,
+      "word_like_tokens": 1344,
       "last_modified": "2026-06-22"
     }
   ]

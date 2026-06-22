@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, ec-fintech, crypto]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社メルカリ (2026-05-19 抽出)"
   - "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)"

@@ -15,6 +15,10 @@ review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regulator, FSA, affiliated-body, audit, accounting, oversight]
 status: active
+entity_node:
+  kind: regulator
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/cpaaob/"
   - "https://www.fsa.go.jp/cpaaob/english/index.html"

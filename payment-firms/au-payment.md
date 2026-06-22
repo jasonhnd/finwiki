@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, prepaid, funds-transfer, au]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.au-payment.co.jp/company/profile.html"
   - "https://www.au-payment.co.jp/news/news2025/r20250901_2.html"

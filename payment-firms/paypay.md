@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, code-payment]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://about.paypay.ne.jp/about/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"

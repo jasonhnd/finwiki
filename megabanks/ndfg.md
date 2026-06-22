@@ -15,6 +15,10 @@ review_by: 2026-11-19
 confidence: possible
 tags: [JapanFG, telco-financial, holding-company]
 status: candidate
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "NTT ドコモ プレスリリース「金融事業を統括する中間持株会社の設立について」(公開発表ベース)"
   - "マネックスグループ・住信 SBI ネット銀行 各社 IR 適時開示"

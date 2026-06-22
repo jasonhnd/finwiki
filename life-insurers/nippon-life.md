@@ -16,6 +16,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 日本生命保険 (公開情報 2026-05-19 抽出)"
   - "日本生命 2024年度（2025年3月期）決算（案）プレス 2025-05-23 https://www.nissay.co.jp/news/2025/20250523.html"

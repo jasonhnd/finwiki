@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出)"
   - "Deutsche Bank AG 公式日本サイト"

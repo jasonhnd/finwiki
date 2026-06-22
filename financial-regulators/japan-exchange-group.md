@@ -9,6 +9,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, exchange, market-infrastructure, listed-company]
 status: active
+entity_node:
+  kind: exchange
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.jpx.co.jp/english/corporate/about-jpx/profile/"
   - "https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html"

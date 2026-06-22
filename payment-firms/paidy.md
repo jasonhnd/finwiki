@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, bnpl]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社ペイディ (2026-05-19 抽出)"
   - "PayPal Holdings 2021-09-07 Press Release (Paidy 買収発表)"

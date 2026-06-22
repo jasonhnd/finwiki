@@ -17,6 +17,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 大和証券グループ本社 (公開情報、2026-05-19 抽出)"
   - "大和証券グループ本社 公式 IR (https://www.daiwa-grp.jp/ir/) — 2025-03 期決算短信"

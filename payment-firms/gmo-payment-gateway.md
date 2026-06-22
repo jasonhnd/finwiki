@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, payment, fintech]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: GMO ペイメントゲートウェイ (2026-05-19 抽出)"
   - GMO Payment Gateway 公式 IR (corp.gmo-pg.com, 2026-05-19 参照)

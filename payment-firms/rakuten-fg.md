@@ -16,6 +16,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, ec-fg, fintech]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "楽天グループ 2024年12月期 通期決算ハイライト (2025-02-14 公表)"
   - "楽天銀行 5838 2025年3月期 決算短信 (2025-05-12)"

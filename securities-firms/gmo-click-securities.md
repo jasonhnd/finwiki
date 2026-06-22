@@ -9,6 +9,10 @@ review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, fx, cfd, fiea-operator, gmo]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
   - "https://www.click-sec.com/corp/company/corphistory/"

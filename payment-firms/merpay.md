@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, mercari]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://jp.merpay.com/about/"
   - "https://static.jp.mercari.com/shikin_kessai"

@@ -17,6 +17,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 東京海上ホールディングス (2026-05-19 抽出)"
   - "Wikipedia: 東京海上日動火災保険"
