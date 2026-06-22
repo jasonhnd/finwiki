@@ -14,6 +14,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, self-regulatory, JSDA, FIEA, regulation]
 status: active
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.jsda.or.jp/en/about/profile/index.html"
   - "https://www.jsda.or.jp/en/about/major-activities/index.html"

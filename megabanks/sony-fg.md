@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, mfg-financial, sony]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: ソニーフィナンシャルグループ / ソニーフィナンシャルホールディングス (2026-05-19 抽出)"
   - "ソニーグループ 2024-05 経営方針説明会 (金融事業分離・パーシャルスピンオフ発表資料)"

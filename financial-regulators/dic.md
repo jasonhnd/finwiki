@@ -14,6 +14,10 @@ review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, deposit-insurance, financial-safety-net, resolution, government]
 status: active
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 預金保険機構 (2026-05-25 抽出)"
   - "預金保険機構 公式サイト (https://www.dic.go.jp/, 2026-05-25 参照)"

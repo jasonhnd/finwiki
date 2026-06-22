@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 住友生命保険 (2026-05-19 抽出)"
   - "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"

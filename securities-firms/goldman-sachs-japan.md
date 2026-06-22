@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: ゴールドマン・サックス / Goldman Sachs (公開情報)"
   - "Goldman Sachs Group 2024 Annual Report / Form 10-K (NYSE: GS)"

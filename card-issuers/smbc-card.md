@@ -14,6 +14,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, credit-card, acquirer, consumer-credit]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.smbc-card.com/company/info/outline.jsp"
   - "https://www.smbc-card.com/company/index.jsp"

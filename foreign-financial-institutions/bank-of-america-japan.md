@@ -15,6 +15,10 @@ review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, foreign-bank, foreign-ib, us]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "https://business.bofa.com/content/boaml/ja_jp/japan_overview.html?wcmmode=disabled"
   - "https://business.bofa.com/content/boaml/ja_jp/japan_overview/location.html"

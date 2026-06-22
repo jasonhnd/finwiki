@@ -16,6 +16,10 @@ review_by: 2026-11-26
 confidence: certain
 tags: [JapanFG, megabank, basel-iii, governance, regulatory-ledger]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出)"
   - "Wikipedia: SBIホールディングス (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"

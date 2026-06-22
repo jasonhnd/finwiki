@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 東京短資 (公開情報、2026-05-19 抽出)"
   - "日銀 公開市場操作対手リスト（公開情報）"

@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, internet-finance]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: SBIホールディングス (2026-05-19 抽出, FY2024/3期 = 2025-03 期 財務 KPI)"
   - "Wikipedia: SBI証券 (2026-05-19 抽出, 口座数 1500 万・FY2024/3 業績)"

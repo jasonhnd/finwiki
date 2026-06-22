@@ -17,6 +17,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, industry-body, banking, shinkin, co-operative, FSA, public-source]
 status: active
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.shinkin.org/"
   - "https://www.shinkin.org/zenshinkyo/about/"

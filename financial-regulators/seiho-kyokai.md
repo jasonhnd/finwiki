@@ -18,6 +18,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, industry-body, insurance, life-insurance, LIAJ, FSA, insurance-business-act, public-source]
 status: active
+entity_node:
+  kind: sro
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.seiho.or.jp/"
   - "https://www.seiho.or.jp/english/"
