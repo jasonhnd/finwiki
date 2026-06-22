@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 290e88f7869e3b30
+source_hash: 2a8e152111b98f5f
 lang: ja
 status: machine
 fidelity: ok
 title: "おきなわ FG (Okinawa FG)"
-translated_at: 2026-06-02T15:14:17.138Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # おきなわ FG (Okinawa FG)
@@ -111,10 +111,10 @@ translated_at: 2026-06-02T15:14:17.138Z
 | 2017-03 | おきなわ証券 全株式取得（→ おきぎん証券）|
 | 2019-06 | OKIPay 開始（QR 決済）|
 | 2021-03 | グループ SDGs 宣言 |
-| **2021-10-01** | **おきなわフィナンシャルグループ 設立・東証 PRIME 7350 上場**（沖縄銀行 単独株式移転）|
+| **2021-10-01** | **おきなわフィナンシャルグループ 設立・東証 PRIME 7350 上場**（沖縄銀行 単独株式移転） ^[Okinawa FG official history] |
 | 2022-04 | 東証市場区分見直し → PRIME 維持 |
 | **2024-04** | **第 2 次中期経営計画『成長の共創』開始（2024-04〜2027-03）** |
-| **2025-05-09** | **2025-03 期 純利益 +27%、中計目標 上方修正発表**（連結経常収益 710 億・純利益 110 億・ROE 約 6.20% に上方修正）|
+| **2025-05-09** | **2025-03 期 純利益 +27%、中計目標 上方修正発表**（連結経常収益 710 億・純利益 110 億・ROE 約 6.20% に上方修正） ^[Okinawa FG 2nd medium-term management plan PDF; 2025-05-09 target revision disclosure] |
 | 2025-07 | おきぎんサクセスパートナーズ 設立（事業承継・M&A）|
 
 ## 2. 事業セグメント・マップ
@@ -193,6 +193,8 @@ translated_at: 2026-06-02T15:14:17.138Z
 - **Wikipedia: おきなわフィナンシャルグループ**（https://ja.wikipedia.org/wiki/おきなわフィナンシャルグループ, 2026-05-19 抽出）
 - **Wikipedia: 沖縄銀行**（https://ja.wikipedia.org/wiki/沖縄銀行, 2026-05-19 抽出）
 - **おきなわ FG 公式 沿革**（https://www.okinawafg.co.jp/history/）
+- **Okinawa FG 2nd medium-term management plan PDF** (https://www.okinawafg.co.jp/_themes/assets/file/mediumterm_management_plan/Medium-term_management_plan202404.pdf)
+- **Fukuoka Stock Exchange TDnet: Okinawa FG 2025-05-09 target revision disclosure** (https://www.fse.or.jp/files/lis_tkj/25050973504.pdf)
 - **おきなわ FG 2025-03 期 決算短信**（2025-05-09 公表）
 - **おきなわ FG 第 2 次中期経営計画『成長の共創』**（2024-04-01 開示）
 - 日本経済新聞「おきなわ FG 純利益 27% 増、25-03 期 中計目標 上方修正」（2025-05-09）

@@ -38,7 +38,9 @@
       "https://securities.dmm.com/finance-results/",
       "https://fx.dmm.com/cfd/service/lineup/",
       "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html",
+      "https://www.sbivc.co.jp/newsview/1zkj8mf5x3y"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -78,19 +80,21 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/securities-firms/dmm-com-securities"
     ],
-    "external_links_count": 5,
+    "external_links_count": 7,
     "external_links": [
       "https://fx.dmm.com/cfd/service/lineup/",
       "https://jvcea.or.jp/member/",
       "https://securities.dmm.com/company/",
       "https://securities.dmm.com/finance-results/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html",
+      "https://www.sbivc.co.jp/newsview/1zkj8mf5x3y"
     ]
   },
   "metrics": {
-    "nonspace_chars": 4295,
-    "word_like_tokens": 757,
+    "nonspace_chars": 4683,
+    "word_like_tokens": 818,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-22"
   }
 }

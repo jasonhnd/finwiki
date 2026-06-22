@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 290e88f7869e3b30
+source_hash: 2a8e152111b98f5f
 lang: en
 status: machine
 fidelity: ok
 title: "Okinawa FG"
-translated_at: 2026-06-19T12:43:19.927Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # Okinawa FG
@@ -111,10 +111,10 @@ Okinawa FG (holding company / listed 7350)
 | 2017-03 | Acquired all shares of Okinawa Securities (→ Okigin Securities) |
 | 2019-06 | OKIPay launched (QR payment) |
 | 2021-03 | Group SDGs declaration |
-| **2021-10-01** | **Okinawa Financial Group established / listed on TSE PRIME 7350 ** (sole share transfer of Bank of Okinawa) |
+| **2021-10-01** | **Okinawa Financial Group established / listed on TSE PRIME 7350 ** (sole share transfer of Bank of Okinawa) ^[Okinawa FG official history] |
 | 2022-04 | TSE market-segment review → PRIME maintained |
 | **2024-04** | **The 2 th medium-term management plan "Co-creation of Growth" started (2024-04〜2027-03)** |
-| **2025-05-09** | **2025-03  period net profit +27%, upward revision of the mid-term-plan targets announced** (consolidated ordinary income 710 億 / net profit 110 億 / ROE about 6.20% revised upward) |
+| **2025-05-09** | **2025-03  period net profit +27%, upward revision of the mid-term-plan targets announced** (consolidated ordinary income 710 億 / net profit 110 億 / ROE about 6.20% revised upward) ^[Okinawa FG 2nd medium-term management plan PDF; 2025-05-09 target revision disclosure] |
 | 2025-07 | Okigin Success Partners established (business succession / M&A) |
 
 ## 2. Business segment map
@@ -193,6 +193,8 @@ Okinawa FG (holding company / listed 7350)
 - **Wikipedia: Okinawa Financial Group** (https://ja.wikipedia.org/wiki/おきなわフィナンシャルグループ, 2026-05-19 extraction)
 - **Wikipedia: Bank of Okinawa** (https://ja.wikipedia.org/wiki/沖縄銀行, 2026-05-19 extraction)
 - **Okinawa FG official history** (https://www.okinawafg.co.jp/history/)
+- **Okinawa FG 2nd medium-term management plan PDF** (https://www.okinawafg.co.jp/_themes/assets/file/mediumterm_management_plan/Medium-term_management_plan202404.pdf)
+- **Fukuoka Stock Exchange TDnet: Okinawa FG 2025-05-09 target revision disclosure** (https://www.fse.or.jp/files/lis_tkj/25050973504.pdf)
 - **Okinawa FG 2025-03  financial results summary** (published 2025-05-09)
 - **Okinawa FG 2 th medium-term management plan "Co-creation of Growth"** (disclosed 2024-04-01)
 - Nihon Keizai Shimbun "Okinawa FG net profit +27%, 25-03  period mid-term-plan targets revised upward" (2025-05-09)

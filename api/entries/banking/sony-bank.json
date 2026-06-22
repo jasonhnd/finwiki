@@ -43,6 +43,7 @@
       "https://moneykit.net/visitor/co/disc.html",
       "https://moneykit.net/visitor/sbw/",
       "https://www.sonyfg.co.jp/",
+      "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://moneykit.net/visitor/fx/ (外貨預金 取扱 12 通貨)",
       "https://sonybank.jp/corporate/pdf/disclosure2025h.pdf (中間期ディスクロージャー 2025.09.30 預金残高 4兆5,369億円)",
@@ -107,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8318,
-    "word_like_tokens": 1369,
+    "nonspace_chars": 8544,
+    "word_like_tokens": 1412,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-22"
   }
 }

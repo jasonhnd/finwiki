@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-tokyo-hash
-source_hash: 7b19a9919ada083d
+source_hash: 57d2c5d02f6fbb86
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Hash Co., Ltd. — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.795Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # Tokyo Hash Co., Ltd. — Japanese crypto-asset exchange operator overview
@@ -63,7 +63,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2021-12-15 | Crypto-asset lending service launched |
 | 2022-01-05 | Crypto-asset lending service 1th application round opened (annual rate 6.5%) |
 | 2022-02-10 | Crypto-asset lending service 2th application round opened (annual rate 4.5% or more) |
-| 2022-05-09 | Parent HashKey Group obtained in-principle approval from Hong Kong SFC to operate a crypto-asset trading platform (group-wide regulatory progress) |
+| 2022-05-09 | Parent HashKey Group obtained in-principle approval from Hong Kong SFC to operate a crypto-asset trading platform (group-wide regulatory progress) ^[HashKey Group SFC approval-in-principle announcement; Tokyo Hash company and product sources] |
 | 2024-05-31 | Officer change |
 | 2025-04-24 | Officer change |
 | 2025-11-27 | Officer change |
@@ -102,3 +102,4 @@ No notices of administrative action, hacks, or large-scale system outages (as of
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
 - [HashKey Group About](https://group.hashkey.com/en/about/) (retrieved 2026-05-18)
+- [HashKey Group: SFC approval-in-principle for licensed virtual-asset trading platform](https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform)

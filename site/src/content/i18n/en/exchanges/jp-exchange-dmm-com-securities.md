@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-dmm-com-securities
-source_hash: aa690a88f36c6612
+source_hash: 6202a6db00d74ea1
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview"
-translated_at: 2026-06-18T23:33:48.346Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # 株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview
@@ -81,7 +81,7 @@ The company's mainstay business comprises the following 4 pillars:
 | 2011-01-01 | Additional registration for Commodity Futures Business |
 | 2017-06-27 | Additional registration for Type-II Financial Instruments Business |
 | Date unknown | Registered as a JVCEA Type-I member for "crypto-asset derivatives business" (JVCEA member number 1043) |
-| 2024-05-31 | **An illicit outflow of crypto assets worth approximately 482億円 occurred at the related group company DMM Bitcoin (a separate legal entity)** |
+| 2024-05-31 | **An illicit outflow of crypto assets worth approximately 482億円 occurred at the related group company DMM Bitcoin (a separate legal entity)** ^[NPA DMM Bitcoin theft notice; SBI VC Trade transfer notice; FSA/JVCEA entity-separation sources] |
 | 2024-12-02 | DMM Bitcoin announced wind-down · announced transfer to SBI VC Trade. The DMM Group's crypto-asset spot exchange business disappeared |
 | 2025-03-08 | DMM Bitcoin services fully terminated. As DMM.com Securities is a separate legal entity from DMM Bitcoin, any direct business impact is not disclosed (no official statement) |
 | 2026-03 | Disclosed capital-adequacy ratio 419.6% (financially sound) |
@@ -119,3 +119,5 @@ DMM.com Securities and DMM Bitcoin are separate legal entities (their address is
 - [DMM CFD 取扱銘柄](https://fx.dmm.com/cfd/service/lineup/) (retrieved 2026-05-18)
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/) (retrieved 2026-05-18 · member number 1043  confirmed)
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
+- [National Police Agency: DMM Bitcoin illicit outflow notice](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html)
+- [SBI VC Trade: DMM Bitcoin customer-account and asset transfer notice](https://www.sbivc.co.jp/newsview/1zkj8mf5x3y)
