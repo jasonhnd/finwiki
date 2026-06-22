@@ -20,6 +20,7 @@
       "life-insurers/toho-life"
     ],
     "domain": "life-insurers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "life-insurance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: T&Dホールディングス (公開情報 2026-05-19 抽出)",
       "T&D HD 公式 IR / 沿革ページ (公開情報)"

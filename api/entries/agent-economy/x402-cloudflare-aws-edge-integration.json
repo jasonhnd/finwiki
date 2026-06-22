@@ -16,6 +16,7 @@
       "x402-aws-api-gateway"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "http-402"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://github.com/coinbase/x402"
     ]

@@ -12,6 +12,7 @@
     "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
     "aliases": [],
     "domain": "security",
+    "type": "wiki",
     "created": "2026-05-12",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -23,6 +24,13 @@
       "security/dd"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [
+      "[[security/bytecode-forensic-three-tier-verify]]",
+      "[[security/fork-and-rebrand-5-layer-audit-framework]]",
+      "[[security/module-path-confusion-supply-chain-attack]]"
+    ],
+    "note": null,
     "sources": [
       "https://certificate.transparency.dev/",
       "https://docs.github.com/en/rest/commits/commits",

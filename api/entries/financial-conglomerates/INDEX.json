@@ -18,6 +18,7 @@
       "trading house parent index"
     ],
     "domain": "financial-conglomerates",
+    "type": null,
     "created": "2026-06-04",
     "last_updated": "2026-06-04",
     "last_tended": "2026-06-04",
@@ -33,6 +34,9 @@
       "holding-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "各商社 公式 IR・統合報告書 — 伊藤忠 (8001) / 三菱商事 (8058) / 三井物産 (8031) / 住友商事 (8053) / 丸紅 (8002) / 豊田通商 (8015) / 双日 (2768)",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/",

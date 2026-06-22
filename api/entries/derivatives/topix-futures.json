@@ -21,6 +21,7 @@
       "TOPIX Core 30 futures"
     ],
     "domain": "derivatives",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -38,6 +39,9 @@
       "ALM"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/english/markets/derivatives/topix-futures/",
       "https://www.jpx.co.jp/english/markets/derivatives/",

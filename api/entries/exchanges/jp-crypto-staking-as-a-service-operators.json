@@ -17,6 +17,7 @@
       "StaaS Japan"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -31,6 +32,9 @@
       "defi-adjacent"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.kiln.fi/",
       "https://www.figment.io/",

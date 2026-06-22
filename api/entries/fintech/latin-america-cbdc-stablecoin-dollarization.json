@@ -21,6 +21,7 @@
       "venezuela-petro-usdt"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -45,6 +46,9 @@
       "bcb"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.bcb.gov.br/en/financialstability/drex_en",
       "https://www.bcb.gov.br/en/pressdetail/2438/nota",

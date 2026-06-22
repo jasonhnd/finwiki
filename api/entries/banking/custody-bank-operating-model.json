@@ -17,6 +17,7 @@
       "Custody Bank of Japan operating depth"
     ],
     "domain": "banking",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "custody-bank"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.custody.jp/",
       "https://www.custody.jp/recruit/aboutus/about.html",

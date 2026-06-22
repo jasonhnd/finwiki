@@ -17,6 +17,7 @@
       "三井住友DSアセットマネジメント株式会社"
     ],
     "domain": "asset-managers",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -29,6 +30,9 @@
       "smfg"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.smd-am.co.jp/corporate/overview/",
@@ -81,6 +85,6 @@
     "nonspace_chars": 2769,
     "word_like_tokens": 425,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-21"
   }
 }

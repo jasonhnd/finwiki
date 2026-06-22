@@ -17,6 +17,7 @@
       "8697"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "listed-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/english/corporate/about-jpx/profile/",
       "https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html",
@@ -83,6 +87,6 @@
     "nonspace_chars": 4227,
     "word_like_tokens": 606,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

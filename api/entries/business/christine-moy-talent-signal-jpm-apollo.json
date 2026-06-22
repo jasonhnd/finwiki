@@ -16,6 +16,7 @@
       "jpm-apollo-talent-migration"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "tokenization"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.apollo.com/aboutus/leadership-and-people/christine-moy",
       "https://www.coindesk.com/business/2022/04/28/apollo-hires-jpmorgans-christine-moy-to-lead-digital-assets-strategy",

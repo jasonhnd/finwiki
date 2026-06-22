@@ -19,6 +19,7 @@
       "wholesale CBDC vs deposit-token matrix"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -42,6 +43,9 @@
       "commercial-bank-money"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fnality.org/",
       "https://www.bankofengland.co.uk/news/2023/november/boe-statement-on-fnality",

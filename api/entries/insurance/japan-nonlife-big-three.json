@@ -17,6 +17,7 @@
       "insurance/direct-nonlife-insurance-japan"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -31,6 +32,9 @@
       "solvency"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON",
       "https://www.tokiomarinehd.com/en/ir/download/annual_report.html",

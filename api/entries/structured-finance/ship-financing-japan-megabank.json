@@ -23,6 +23,7 @@
       "JapanFG/nyk-line"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -42,6 +43,9 @@
       "k-line"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "MUFG IR — https://www.mufg.jp/english/",
       "SMFG IR — https://www.smfg.co.jp/english/",

@@ -17,6 +17,7 @@
       "かぎん"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -31,6 +32,9 @@
       "operating-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.kagin.co.jp/investor/profile/company.html"

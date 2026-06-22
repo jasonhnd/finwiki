@@ -20,6 +20,7 @@
       "NPO法 特定非営利活動促進法"
     ],
     "domain": "non-profit",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -33,6 +34,9 @@
       "legal-structure"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.npo-homepage.go.jp/about/npo-kisochishiki/nposeido-gaiyou",
       "https://www.npo-homepage.go.jp/about/npo-kisochishiki/ninshouseido",

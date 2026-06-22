@@ -18,6 +18,7 @@
       "Lloyd's Japan specialty insurance"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "reinsurance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.lloyds.com/japan",
       "https://www.lloyds.com/about-lloyds",

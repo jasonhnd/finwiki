@@ -12,6 +12,7 @@
     "title": "JETRO Members 有料会員制は B2B 提案の入口ゲート",
     "aliases": [],
     "domain": "trade",
+    "type": null,
     "created": "2026-04-22",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "trade"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jetro.go.jp/members/",
       "https://www.jetro.go.jp/jetro/profile/"

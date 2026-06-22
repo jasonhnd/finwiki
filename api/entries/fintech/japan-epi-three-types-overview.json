@@ -19,6 +19,7 @@
       "資金移動業者型"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "epi"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
       "https://www.fsa.go.jp/news/r4/sonota/20230526/20230526.html",

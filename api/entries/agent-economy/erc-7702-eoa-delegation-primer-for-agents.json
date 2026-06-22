@@ -20,6 +20,7 @@
       "eoa agent authorization"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -36,6 +37,9 @@
       "account-abstraction"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://eips.ethereum.org/EIPS/eip-7702",
       "https://eips.ethereum.org/EIPS/eip-4337",

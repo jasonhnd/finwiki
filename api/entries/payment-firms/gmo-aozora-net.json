@@ -17,6 +17,7 @@
       "あおぞら信託銀行（旧称）"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "fintech"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: GMOあおぞらネット銀行 (2026-05-19 抽出)",
       "GMO あおぞらネット銀行 公式サイト (2026-05-19 参照)",

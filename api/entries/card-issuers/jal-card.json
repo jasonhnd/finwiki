@@ -17,6 +17,7 @@
       "JAL Card Co., Ltd."
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -31,6 +32,9 @@
       "JAL-group"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://jalcard.jal.co.jp/profile/company/overview/",
       "https://jalcard.jal.co.jp/profile/company/history/",

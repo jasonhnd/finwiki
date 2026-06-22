@@ -21,6 +21,7 @@
       "しずぎん DC"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -38,6 +39,9 @@
       "operating-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://shizugin-card.shizuokabank.co.jp/company/",
       "https://ja.wikipedia.org/wiki/静銀カード",

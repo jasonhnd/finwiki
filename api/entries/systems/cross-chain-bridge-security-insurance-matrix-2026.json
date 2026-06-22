@@ -18,6 +18,7 @@
       "bridge nexus mutual insurace sherlock coverage"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -42,6 +43,9 @@
       "nexus-mutual"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
       "https://docs.hyperlane.xyz/",

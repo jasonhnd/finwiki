@@ -12,6 +12,7 @@
     "title": "日本 一般財団法人 設立要件・プロセス",
     "aliases": [],
     "domain": "non-profit",
+    "type": null,
     "created": "2026-04-22",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "needs-review"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/",
       "https://www.koshonin.gr.jp/",

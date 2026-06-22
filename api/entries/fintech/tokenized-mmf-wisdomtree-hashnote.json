@@ -19,6 +19,7 @@
       "second-tier tokenized MMF"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -37,6 +38,9 @@
       "comparison-matrix"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx",
       "https://www.wisdomtree.com/insights/wisdomtree-prime",

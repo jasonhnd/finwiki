@@ -20,6 +20,7 @@
       "社会福祉法 social welfare act"
     ],
     "domain": "non-profit",
+    "type": null,
     "created": "2026-06-05",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -33,6 +34,9 @@
       "tax-deductible"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/law/326AC1000000045",
       "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077928.html",

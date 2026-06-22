@@ -16,6 +16,7 @@
       "LDJ"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -30,6 +31,9 @@
       "institutional"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laserdigital.com/",
       "https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/",

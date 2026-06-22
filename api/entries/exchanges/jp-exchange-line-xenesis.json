@@ -16,6 +16,7 @@
       "LINE BITMAX"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -29,6 +30,9 @@
       "imminent-closure-2026-06"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.linexenesiscorp.com/",
       "https://www.bitmax.me/",

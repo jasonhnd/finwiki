@@ -22,6 +22,7 @@
       "without recourse receivables purchase"
     ],
     "domain": "trade",
+    "type": null,
     "created": "2026-06-05",
     "last_updated": "2026-06-05",
     "last_tended": "2026-06-05",
@@ -36,6 +37,9 @@
       "export-finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://iccwbo.org/business-solutions/trade-finance/",
       "https://fci.nl/en/about-factoring",

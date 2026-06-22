@@ -20,6 +20,7 @@
       "life-insurers/nippon-life-insurance"
     ],
     "domain": "life-insurers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "mutual-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 日本生命保険 (公開情報 2026-05-19 抽出)",
       "日本生命 2024年度（2025年3月期）決算（案）プレス 2025-05-23 https://www.nissay.co.jp/news/2025/20250523.html",
@@ -88,6 +92,6 @@
     "nonspace_chars": 6908,
     "word_like_tokens": 1209,
     "inbound_wikilinks_count": 46,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

@@ -20,6 +20,7 @@
       "完全子会社化 株式交換"
     ],
     "domain": "corporate-strategy",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -35,6 +36,9 @@
       "holding-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
       "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/070313/04.htm",

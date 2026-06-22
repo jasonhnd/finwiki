@@ -21,6 +21,7 @@
       "securities-firms/daiwa-securities-group"
     ],
     "domain": "securities-firms",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "securities"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 大和証券グループ本社 (公開情報、2026-05-19 抽出)",
       "大和証券グループ本社 公式 IR (https://www.daiwa-grp.jp/ir/) — 2025-03 期決算短信",
@@ -90,6 +94,6 @@
     "nonspace_chars": 5466,
     "word_like_tokens": 904,
     "inbound_wikilinks_count": 79,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

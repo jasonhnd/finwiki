@@ -20,6 +20,7 @@
       "National Mutual Insurance Federation of Agricultural Cooperatives"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -34,6 +35,9 @@
       "non-life-insurance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.ja-kyosai.or.jp/",
       "https://www.ja-kyosai.or.jp/about/",

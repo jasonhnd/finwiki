@@ -18,6 +18,7 @@
       "政策公庫"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "government"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 日本政策金融公庫 (2026-05-19 抽出)",
       "日本政策金融公庫法 (平成 19 年法律第 57 号)",
@@ -81,6 +85,6 @@
     "nonspace_chars": 4970,
     "word_like_tokens": 687,
     "inbound_wikilinks_count": 44,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

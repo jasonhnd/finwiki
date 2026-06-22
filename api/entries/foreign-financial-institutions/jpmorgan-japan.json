@@ -19,6 +19,7 @@
       "J.P. Morgan Securities Japan"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -30,6 +31,9 @@
       "banking"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報)",
       "JPMorgan Chase & Co. Annual Report (10-K, 2024 年度)",
@@ -82,6 +86,6 @@
     "nonspace_chars": 4687,
     "word_like_tokens": 775,
     "inbound_wikilinks_count": 37,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

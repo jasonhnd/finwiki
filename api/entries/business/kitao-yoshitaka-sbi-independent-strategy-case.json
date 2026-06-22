@@ -16,6 +16,7 @@
       "bet-on-cross-border-compliance"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "case-study"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.circle.com/pressroom/circle-strengthens-commitment-to-japan-with-new-investment-and-expanded-usdc-access",
       "https://corp.sbishinseibank.co.jp/en/news/news/20250609a.html",

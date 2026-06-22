@@ -17,6 +17,7 @@
       "fintech/japan-stablecoin-and-crypto-regulation"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-04-14",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -29,6 +30,9 @@
       "EPI"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",

@@ -17,6 +17,7 @@
       "グローバル ソルベンシー 比較"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -34,6 +35,9 @@
       "comparison"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
       "https://www.iaisweb.org/activities-topics/insurance-capital-standard",

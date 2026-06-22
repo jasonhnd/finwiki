@@ -17,6 +17,7 @@
       "ウェルスナビ株式会社"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -28,6 +29,9 @@
       "fintech"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: ウェルスナビ (2026-05-19 抽出)",
       "WealthNavi 公式コーポレートサイト 沿革ページ",

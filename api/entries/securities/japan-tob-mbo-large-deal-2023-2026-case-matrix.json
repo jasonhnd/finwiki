@@ -17,6 +17,7 @@
       "公開買付け MBO 大型案件 2023-2026 マトリクス"
     ],
     "domain": "securities",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -38,6 +39,9 @@
       "matrix"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keieiryoku/fairma.html",

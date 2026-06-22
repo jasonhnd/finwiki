@@ -21,6 +21,7 @@
       "コマツファイナンス"
     ],
     "domain": "manufacturer-finance",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -40,6 +41,9 @@
       "global"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.komatsu.com/en-us/services-and-support/financing",
       "https://www.komatsu.eu/en/komatsu-finance",

@@ -18,6 +18,7 @@
       "Việt Nam tiền điện tử sàn giao dịch"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "gray-market"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "公開情報整理 (State Bank of Vietnam / SBV 仮想通貨関連声明・通達, sbv.gov.vn)",
       "公開情報整理 (Vietnam 財務省 / MoF 仮想資産税制・規制関連声明)",

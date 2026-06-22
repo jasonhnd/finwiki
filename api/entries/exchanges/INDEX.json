@@ -17,6 +17,7 @@
       "crypto exchange wiki"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -29,6 +30,9 @@
       "vasp"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://jvcea.or.jp/member/"

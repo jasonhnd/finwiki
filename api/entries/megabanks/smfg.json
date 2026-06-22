@@ -20,6 +20,7 @@
       "megabanks/smbc-group"
     ],
     "domain": "megabanks",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "regulatory-ledger"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出)",
       "Wikipedia: SBIホールディングス (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)",
@@ -99,6 +103,6 @@
     "nonspace_chars": 13974,
     "word_like_tokens": 2856,
     "inbound_wikilinks_count": 243,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

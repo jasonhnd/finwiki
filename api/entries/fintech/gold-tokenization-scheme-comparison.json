@@ -12,6 +12,7 @@
     "title": "日本におけるトークン発行スキーム比較",
     "aliases": [],
     "domain": "fintech",
+    "type": null,
     "created": "2026-04-14",
     "last_updated": "2026-05-03",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "needs-review"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/news/index.html",
       "https://www.fsa.go.jp/policy/virtual_currency/index.html",

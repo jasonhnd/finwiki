@@ -16,6 +16,7 @@
       "Japan Virtual and Crypto assets Exchange Association"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "self-regulatory"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://jvcea.or.jp/",
       "https://jvcea.or.jp/about/",
