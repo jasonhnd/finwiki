@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [card-issuers, JapanFG, credit-card, acquirer, installment-credit]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.cr.mufg.jp/corporate/company/overview/index.html"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"

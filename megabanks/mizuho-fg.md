@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: certain
 tags: [JapanFG, megabank]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: みずほフィナンシャルグループ (2026-05-19 抽出)"
   - "Wikipedia: みずほ銀行 (2026-05-19 抽出)"

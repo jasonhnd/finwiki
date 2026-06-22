@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custodian]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "Wikipedia: ステート・ストリート信託銀行 (2026-05-19 参照)"
   - "Wikipedia: ステート・ストリート (2026-05-19 参照)"

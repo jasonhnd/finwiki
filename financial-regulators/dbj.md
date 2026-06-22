@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, policy-finance, government]
 status: active
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 株式会社日本政策投資銀行 (2026-05-19 抽出)"
   - DBJ 公式サイト (会社概要・沿革, 2025 更新)

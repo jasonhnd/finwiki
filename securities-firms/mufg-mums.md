@@ -15,6 +15,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, investment-banking, FIEA, MUFG, Morgan-Stanley]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.sc.mufg.jp/company/profile/outline.html"
   - "https://www.hd.sc.mufg.jp/english/company/group_mumss.html"

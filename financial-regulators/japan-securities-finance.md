@@ -9,6 +9,10 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, securities-finance, margin, listed-company]
 status: active
+entity_node:
+  kind: public_infrastructure
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.jsf.co.jp/ja/about/outline.html"
   - "https://www.jsf.co.jp/ja/ir.html"

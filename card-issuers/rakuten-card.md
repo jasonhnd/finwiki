@@ -9,6 +9,10 @@ review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, credit-card, ecosystem-finance, consumer-credit]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.rakuten-card.co.jp/corporate/"
   - "https://www.rakuten-card.co.jp/corporate/info/about/"

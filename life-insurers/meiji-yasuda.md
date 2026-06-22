@@ -15,6 +15,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 明治安田生命保険 (2026-05-19 抽出)"
   - "明治安田生命 公式サイト 沿革 (2026-05-19 参照)"

@@ -15,6 +15,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: MS&ADインシュアランス グループ ホールディングス (公開情報ベース)"
   - MS&AD HD 公式コーポレートサイト (公開情報ベース)

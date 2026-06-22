@@ -15,6 +15,10 @@ review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, bank, megabank, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.bk.mufg.jp/kigyou/profile.html"

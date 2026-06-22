@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点
+
+#### 日本語 / English / 中文
+- **JST 時刻**: 2026-06-22 11:38 JST。
+- **背景**: #36 の entity graph infrastructure と #42 の per-entry API enrichment が main に入ったため、#37 では `docs/04-architecture/canonical-entity-graph-design.md` の Packet 2 / Tier 1 に従い、Japan-core の高価値アンカーを typed entity graph の node として明示します。
+- **範囲**: `megabanks/`、`financial-regulators/`、`life-insurers/`、`non-life-insurers/`、`securities-firms/`、`asset-managers/`、`payment-firms/`、`card-issuers/`、`foreign-financial-institutions/` の selected source pages、`CHANGELOG.md`、`release.ts --write` 生成面。`CONTRIBUTING.md` は追加していません。
+- **主要変更**: 89 個の Tier-1 anchor に frontmatter-only で `entity_node` を追加しました。対象は megabanks / regulators / SRO and market infrastructure / major securities and asset managers / payment-card-PSP operators / major insurers / foreign Japan branches です。
+- **境界**: `entity_edges` は追加していません。本文 body は変更せず、i18n mirror を stale にしない frontmatter-only wave として実施しました。
+- **検証**: `bun run entity:audit`、`bun run i18n:status`、`bun tools/release.ts --check --strict`、`git diff --check` を #37 validation bundle として実行し、すべて PASS しました。
+- **残タスク**: #37 PR review / merge 後、maintainer 指示に従って #38 の typed edge wave を開始します。
+- **EN**: Packet 2 adds `entity_node` metadata to 89 high-value Tier-1 Japan-core anchors across the allowed institution and regulator domains. The work is frontmatter-only for source pages, declares nodes but no `entity_edges`, and keeps typed relationship facts for #38.
+- **中文**: 本次只做 #37 Packet 2：在允许目录内给 89 个 Tier-1 Japan-core 高价值锚点补 `entity_node` frontmatter。只声明 node，不添加 `entity_edges`，也不改正文，避免让 i18n mirror 变 stale；typed edges 留给 #38。
+
 ### AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息
 
 #### 日本語 / English / 中文

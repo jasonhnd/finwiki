@@ -16,6 +16,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, post]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: かんぽ生命保険 (公開情報 2026-05-19 抽出)"
   - "かんぽ生命 公式 IR / 沿革ページ (公開情報)"

@@ -9,6 +9,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
 status: active
+entity_node:
+  kind: branch
+  scope: japan_branch
+  status: anchor
 sources:
   - "BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出)"
   - "BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出)"

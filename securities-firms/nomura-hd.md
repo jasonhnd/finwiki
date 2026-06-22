@@ -16,6 +16,10 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "Wikipedia: 野村ホールディングス (2026-05-19 抽出)"
   - 野村 HD 第 121 期 (2025-03 期) 有価証券報告書
