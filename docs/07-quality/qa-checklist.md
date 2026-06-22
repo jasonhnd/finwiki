@@ -19,6 +19,7 @@
 - [ ] `bun tools/release.ts --write` was run when public release surface changed.
 - [ ] `bun tools/release.ts --check --strict` exits 0.
 - [ ] `bun tools/wiki_link_audit.ts --fail-on-issues` exits 0.
+- [ ] `bun run facts:freshness -- --json` exits 0 when fact-freshness / source-recheck behavior changes.
 - [ ] `bun tools/active_doc_stale_scan.ts` exits 0 (no stale facts in active docs).
 - [ ] `bun tools/generated_surface_drift_scan.ts` exits 0 (no docs leakage or stale API residue).
 - [ ] `git diff --check` exits 0.
