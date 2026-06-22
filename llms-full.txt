@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-22T11:42:24+09:00
+Generated: 2026-06-22T12:42:27+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -28,7 +28,7 @@ Public pages listed: 1564
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点, AI surface Phase 1 - per-entry API frontmatter enrichment (#42) / Enrich per-entry API frontmatter / 富化单条目 API 前置信息
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Entity graph Packet 3 - objective typed edges wave 1 (#38) / Add public-source-backed typed edges / 公开来源类型化边第一波, Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### How to navigate FinWiki — reader profile guide
@@ -550,6 +550,9 @@ Public pages listed: 1564
 - Domain: asset-managers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/mufg (source: https://www.am.mufg.jp/corp/about/gaiyou.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under asset-managers INDEX (its domain route). Read it against アセットマネジメントOne (a Mizuho + Dai-ichi Life JV) for the contrast in ownership model, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.
 - Headings: 三菱UFJアセットマネジメント, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/asset-management-one, https://finwiki.zksc.io/asset-managers/smd-am, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/mufg-bank, https://finwiki.zksc.io/securities-firms/mufg-mums, https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index, https://finwiki.zksc.io/securities/nisa-2024-flow, https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank
@@ -582,6 +585,9 @@ Public pages listed: 1564
 - Domain: asset-managers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> securities-firms/nomura-hd (source: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under asset-managers INDEX (its domain route). Read it against 大和アセットマネジメント for the other major securities-affiliated 運用会社 peer / contrast, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.
 - Headings: 野村アセットマネジメント, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/daiwa-asset-management, https://finwiki.zksc.io/asset-managers/nikko-asset-management, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index, https://finwiki.zksc.io/securities/nisa-2024-flow, https://finwiki.zksc.io/trust-banks/nomura-trust-bank
@@ -8456,6 +8462,10 @@ Public pages listed: 1564
 - Domain: megabanks
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/mizuho-fg (source: https://www.mizuhobank.co.jp/company/info/profile/index.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/zenginkyo (source: https://www.zenginkyo.or.jp/en/members/, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under megabanks INDEX (its domain route). Read it against 三菱UFJ銀行 (MUFG Bank) for peer / contrast (another 都市銀行 megabank operating company), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on みずほ FG; the trust and securities siblings on みず
 - Headings: みずほ銀行 (Mizuho Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/asset-managers/asset-management-one, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/INDEX, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg-bank, https://finwiki.zksc.io/securities-firms/mizuho-securities, https://finwiki.zksc.io/trust-banks/mizuho-trust-bank
@@ -8478,6 +8488,10 @@ Public pages listed: 1564
 - Domain: megabanks
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/mufg (source: https://www.mufg.jp/profile/biz_and_network/group/index.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/zenginkyo (source: https://www.zenginkyo.or.jp/en/members/, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under megabanks INDEX (its domain route). Read it against 三井住友銀行 (SMBC) for peer / contrast (the other 都市銀行 megabank operating company), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on MUFG; the trust sibling on 三菱UFJ信託銀行.
 - Headings: 三菱UFJ銀行 (MUFG Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/securities-firms/mufg-mums, https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank
@@ -8617,6 +8631,10 @@ Public pages listed: 1564
 - Domain: megabanks
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/smfg (source: https://www.smbc.co.jp/aboutus/profile/group.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/zenginkyo (source: https://www.zenginkyo.or.jp/en/members/, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under megabanks INDEX (its domain route). Read it against 三菱UFJ銀行 (MUFG Bank) for peer / contrast (another 都市銀行 megabank operating company), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on SMFG; the trust and securities siblings on SMBC
 - Headings: 三井住友銀行 (SMBC), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/asset-managers/smd-am, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/INDEX, https://finwiki.zksc.io/megabanks/mufg-bank, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/trust-banks/smbc-trust-bank
@@ -9048,6 +9066,9 @@ Public pages listed: 1564
 - Domain: non-life-insurers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> non-life-insurers/msad (source: https://www.ms-ins.com/, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under non-life-insurers INDEX. Read it against あいおいニッセイ同和損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: 三井住友海上火災保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan, https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life, https://finwiki.zksc.io/non-life-insurers/INDEX, https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/non-life-insurers/msad
@@ -9240,6 +9261,9 @@ Public pages listed: 1564
 - Domain: non-life-insurers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> non-life-insurers/sompo (source: https://www.sompo-japan.co.jp/, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under non-life-insurers INDEX. Read it against SOMPOダイレクト損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: 損害保険ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan, https://finwiki.zksc.io/life-insurers/sompo-himawari-life, https://finwiki.zksc.io/non-life-insurers/INDEX, https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance, https://finwiki.zksc.io/non-life-insurers/sompo, https://finwiki.zksc.io/non-life-insurers/sompo-direct, https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire
@@ -9312,6 +9336,9 @@ Public pages listed: 1564
 - Domain: non-life-insurers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> non-life-insurers/tokio-marine (source: https://www.tokiomarine-nichido.co.jp/, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under non-life-insurers INDEX. Read it against 東京海上ダイレクト損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: 東京海上日動火災保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan, https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life, https://finwiki.zksc.io/non-life-insurers/INDEX, https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance, https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance, https://finwiki.zksc.io/non-life-insurers/tokio-marine, https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct
@@ -9544,6 +9571,9 @@ Public pages listed: 1564
 - Domain: payment-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/au-fh (source: https://www.au-payment.co.jp/company/profile.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: auペイメント (au Payment), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/megabanks/au-fh, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/paypay, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
@@ -9788,6 +9818,9 @@ Public pages listed: 1564
 - Domain: payment-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> payment-firms/mercari-hd (source: https://jp.merpay.com/about/, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/mercari-hd, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split
@@ -9870,6 +9903,9 @@ Public pages listed: 1564
 - Domain: payment-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/paypay-fg (source: https://about.paypay.ne.jp/about/, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under payment-firms INDEX. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.
 - Headings: PayPay株式会社, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/paypay-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/securities-firms/paypay-securities
@@ -13421,6 +13457,10 @@ Public pages listed: 1564
 - Domain: securities-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/mizuho-fg (source: https://www.mizuhogroup.com/jp/securities/who-we-are/profile, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/jsda (source: https://www.jsda.or.jp/en/about/members-list/index.html, as_of: 2026-06-22, confidence: likely)
 - Summary: Mizuho Securities is the securities arm of Mizuho Financial Group. It is a registered Financial Instruments Business Operator; FSA's financial instruments business operator list identifies みずほ証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 94, with Type I / Type II / investment advisory & agency / i
 - Headings: Mizuho Securities, TL;DR, Positioning, JapanFG Relevance, Boundary Cases, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-regulators/jsda, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/mufg-mums, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/nisa-2024-flow
@@ -13464,6 +13504,10 @@ Public pages listed: 1564
 - Domain: securities-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/mufg (source: https://www.hd.sc.mufg.jp/english/company/group_mumss.html, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/jsda (source: https://www.jsda.or.jp/en/about/members-list/index.html, as_of: 2026-06-22, confidence: likely)
 - Summary: Mitsubishi UFJ Morgan Stanley Securities is the core MUFG securities company created around the MUFG / Morgan Stanley strategic alliance. Its role is different from a pure online brokerage: it is a bank-affiliated comprehensive securities firm covering wealth management, investment banking, sales an
 - Headings: Mitsubishi UFJ Morgan Stanley Securities, TL;DR, Positioning, JV Boundary, JapanFG Relevance, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-regulators/jsda, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities-firms/mizuho-securities, https://finwiki.zksc.io/securities-firms/nomura-hd, https://finwiki.zksc.io/securities-firms/smbc-nikko, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/nisa-2024-flow
@@ -13548,6 +13592,10 @@ Public pages listed: 1564
 - Domain: securities-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/sbi-hd (source: https://www.sbigroup.co.jp/company/group/sbisec.php, as_of: 2026-06-22, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, as_of: 2026-06-22, confidence: likely)
+  - member_of_sro -> financial-regulators/jsda (source: https://www.jsda.or.jp/en/about/members-list/index.html, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under securities-firms INDEX (its domain route). Read it against 楽天証券 for the closest online-broker peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The retail-competition map lives on 日本ネット証券競争.
 - Headings: SBI証券 (SBI Securities), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/jsda, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/securities-firms/INDEX, https://finwiki.zksc.io/securities-firms/rakuten-securities, https://finwiki.zksc.io/securities-firms/sbi-fx-trade, https://finwiki.zksc.io/securities/japan-online-brokerage-competition, https://finwiki.zksc.io/securities/nisa-2024-flow
