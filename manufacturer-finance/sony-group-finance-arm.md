@@ -32,7 +32,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-ソニーグループ (6758) の **金融事業アーム = ソニーフィナンシャルグループ (SFG, 旧 SFH)** は、エレクトロニクス / ゲーム / 音楽 / 映画 / 半導体を持つコングロマリットの中で **エンタメ事業から完全独立した利益柱** を構成してきた異例の captive finance。生命保険 (ソニー生命)・損害保険 (ソニー損保)・ネット銀行 (ソニー銀行) の三本柱は、Toyota / Hitachi / Panasonic 系の captive と異なり **「親会社製品の販売金融」ではなく「ソニーブランドの個人金融」** を起源とする。2020-09 にソニーグループが TOB で完全子会社化 → 2024-05 にパーシャルスピンオフ発表 → **2025-10-01 (予定) に東証 PRIME 再上場** で再びコングロマリットから分離する。manufacturing 視点では「製造業コングロマリットが金融を抱える / 切り離すサイクルの完成形」事例として読む。
+ソニーグループ (6758) の **金融事業アーム = ソニーフィナンシャルグループ (SFG, 旧 SFH)** は、エレクトロニクス / ゲーム / 音楽 / 映画 / 半導体を持つコングロマリットの中で **エンタメ事業から完全独立した利益柱** を構成してきた異例の captive finance。生命保険 (ソニー生命)・損害保険 (ソニー損保)・ネット銀行 (ソニー銀行) の三本柱は、Toyota / Hitachi / Panasonic 系の captive と異なり **「親会社製品の販売金融」ではなく「ソニーブランドの個人金融」** を起源とする。2020-09 にソニーグループが TOB で完全子会社化 → 2024-05 にパーシャルスピンオフ方針 → **TSE Prime relisting date: 2025-09-29** / **partial spin-off effective / completion date: 2025-10-01** で再びコングロマリットから分離する。manufacturing 視点では「製造業コングロマリットが金融を抱える / 切り離すサイクルの完成形」事例として読む。
 
 ## 1. ソニーグループにおける金融部門の位置
 
@@ -42,7 +42,8 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 | 親会社上場 | 東証 PRIME 6758、NYSE 上場 (ADR: SONY) |
 | 金融持株会社 | [[megabanks/sony-fg|ソニーフィナンシャルグループ]] (旧 Sony Financial Holdings 8729) |
 | 完全子会社化 | 2020-09-29 (TOB 成立、上場廃止) |
-| 再上場 (予定) | 2025-10-01 (パーシャルスピンオフによる東証 PRIME 再上場) |
+| 東証 PRIME 再上場 | 2025-09-29 (証券コード 8729 の復活) |
+| パーシャルスピンオフ効力発生日 | 2025-10-01 (金融事業パーシャルスピンオフ完了) |
 | 親会社の最終持分 (再上場後想定) | 20% 未満 (連結除外要件) |
 | 金融セグメント FY2024 売上 | 約 1.4 兆円規模 (Sony Group 連結セグメント開示) |
 | 金融セグメント FY2024 営業利益 | 約 1,800 億円規模 |
@@ -121,4 +122,4 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。Sony Group IR + SFG コーポレートサイト + EDINET をベース。金融セグメント数値は概数で記載、再上場日 (2025-10-01) や親会社最終持分は 2024-05 発表時点の予定で、IPO 直前まで変動可能性あり。
+> confidence: **likely**。Sony Group IR + SFG コーポレートサイト + EDINET をベース。金融セグメント数値は概数で記載、TSE Prime relisting date (2025-09-29) と partial spin-off effective / completion date (2025-10-01) は Sony Group / 証券会社告知ベース。再上場後の親会社最終持分は有価証券報告書ベースの更新を要する。

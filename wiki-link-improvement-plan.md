@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 14 |
+| Changed or new entries in current worktree | 4 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,20 +41,10 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `asset-managers/mufg-asset-management.md` | `M` | 13 | ok |
-| `asset-managers/nomura-asset-management.md` | `M` | 11 | ok |
-| `megabanks/mizuho-bank.md` | `M` | 13 | ok |
-| `megabanks/mufg-bank.md` | `M` | 10 | ok |
-| `megabanks/sumitomo-mitsui-banking-corp.md` | `M` | 13 | ok |
-| `non-life-insurers/mitsui-sumitomo-insurance.md` | `M` | 9 | ok |
-| `non-life-insurers/sompo-japan-insurance.md` | `M` | 7 | ok |
-| `non-life-insurers/tokio-marine-nichido-fire.md` | `M` | 9 | ok |
-| `payment-firms/au-payment.md` | `M` | 6 | ok |
-| `payment-firms/merpay.md` | `M` | 7 | ok |
-| `payment-firms/paypay.md` | `M` | 6 | ok |
-| `securities-firms/mizuho-securities.md` | `M` | 9 | ok |
-| `securities-firms/mufg-mums.md` | `M` | 11 | ok |
-| `securities-firms/sbi-securities.md` | `M` | 15 | ok |
+| `banking/daiwa-next-bank.md` | `M` | 35 | ok |
+| `manufacturer-finance/sony-group-finance-arm.md` | `M` | 10 | ok |
+| `megabanks/sony-fg.md` | `M` | 9 | ok |
+| `regional-banks/japan-post-bank.md` | `M` | 22 | ok |
 
 ## Domain Snapshot
 
