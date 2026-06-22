@@ -1,11 +1,11 @@
 ---
 source: megabanks/sony-fg
-source_hash: 660c32bc97cb4b14
+source_hash: 7fea49fd4bcc49d3
 lang: en
 status: machine
 fidelity: ok
 title: "ソニーフィナンシャルグループ (Sony FG)"
-translated_at: 2026-06-15T03:48:21.939Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # ソニーフィナンシャルグループ (Sony FG)
@@ -16,13 +16,18 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 
 ## TL;DR
 
-A comprehensive financial holding company specialized in Sony-brand × personal finance. Its 3  pillars are life insurance (Sony Life, Life Planner sales) + non-life insurance (Sony Assurance, online auto insurance) + an internet bank (Sony Bank, strong in foreign-currency deposits and home loans). Listed in 2007  (former name SFH) → **made a wholly owned subsidiary and delisted via a TOB by parent Sony Group in 2020-09 ** → announcement of "financial-business separation and re-listing" in 2024-05  → **re-listed on the TSE PRIME market as Sony Financial Group via a partial spin-off (a Japan-first) effective 2025-10-01** (securities code 8729, re-listing date 2025-09-29). Unlike the megabank groups, it is a rare case in which the financial division of a manufacturing-derived conglomerate is independently re-listed.
+A comprehensive financial holding company specialized in Sony-brand × personal finance. Its 3 pillars are life insurance (Sony Life, Life Planner sales) + non-life insurance (Sony Assurance, online auto insurance) + an internet bank (Sony Bank, strong in foreign-currency deposits and home loans). Listed in 2007 (former name SFH) → made a wholly owned subsidiary via a TOB by parent Sony Group in 2020-09 → financial-business separation plan in 2024-05 → **TSE Prime relisting date: 2025-09-29** / **partial spin-off effective date: 2025-10-01**. Unlike the megabank groups, it is a rare case in which the financial division of a manufacturing-derived conglomerate is independently re-listed.
 
 ## 1. Company profile
 
 **Legal name**: ソニーフィナンシャルグループ株式会社 ^[extracted]
 **English name**: Sony Financial Group, Inc. (former name Sony Financial Holdings, Inc. = SFH)
-**Securities code**: TSE PRIME **8729** (listed 2007-10-11 → delisted 2020-09-29 → **re-listed 2025-09-29**, via a partial spin-off effective 2025-10-01) ^[extracted]
+**Securities code**: TSE PRIME **8729** ^[extracted]
+
+- Original TSE listing date: **2007-10-11**.
+- Delisting / full-subsidiary date: **2020-09-29**.
+- TSE Prime relisting date: **2025-09-29**.
+- Partial spin-off effective date: **2025-10-01**.
 **Established**: 2004-04-01 (established as Sony Financial Holdings, listed 2007-10 ) ^[extracted]
 **HQ**: Otemachi, Chiyoda-ku, Tokyo 1-9-2 , Otemachi Financial City Grand Cube ^[extracted]
 **Parent**: Sony Group Corporation (full parent from 2020-09; from 2025-10  onward, holding ratio declines and independence is planned) ^[extracted]

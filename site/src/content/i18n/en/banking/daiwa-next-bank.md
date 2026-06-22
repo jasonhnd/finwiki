@@ -1,11 +1,11 @@
 ---
 source: banking/daiwa-next-bank
-source_hash: 01ed015f5641aef8
+source_hash: 953cb62e7279a16d
 lang: en
 status: machine
 fidelity: ok
 title: "Daiwa Next Bank operating profile (大和ネクスト銀行)"
-translated_at: 2026-05-30T18:10:53.985Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # Daiwa Next Bank operating profile (大和ネクスト銀行)
@@ -16,7 +16,11 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 ## TL;DR
 
-大和ネクスト銀行 (Daiwa Next Bank, Ltd.) is the wholly-owned banking subsidiary of [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]] (TSE Prime 8601). It is the **securities-bank hybrid** anchor on the Daiwa side, mirroring the architectural pattern of [[regional-banks/ssnb|SSNB]] (SBI), [[banking/au-jibun-bank|au Jibun Bank]] (KDDI / Mitsubishi UFJ), and [[banking/rakuten-bank|Rakuten Bank]] (Rakuten Securities adjacency). Its franchise is built around the **integration of brokerage cash flow into banking** — sweep-deposit linkage with Daiwa Securities accounts, multi-currency deposit support that complements 外貨建て投信 sales, and a deposit base of about 5.06 trillion yen (5,063.7 billion yen across 2,288 thousand accounts as of 2026-03-31, combined yen and foreign-currency deposits) built primarily from Daiwa Securities-account customers. On **2026-04-27** Daiwa Securities Group / Daiwa Next Bank announced an agreement to make [[trust-banks/orix-bank|Orix Bank]] a wholly-owned subsidiary, materially expanding the group's bank-side balance sheet, mortgage origination, and trust-bank options — the most consequential strategic move for Daiwa Next Bank since its 2011 founding. ^[extracted]
+大和ネクスト銀行 (Daiwa Next Bank, Ltd.) is the wholly-owned banking subsidiary of [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]] (TSE Prime 8601). It is the **securities-bank hybrid** anchor on the Daiwa side, mirroring the architectural pattern of [[regional-banks/ssnb|SSNB]] (SBI), [[banking/au-jibun-bank|au Jibun Bank]] (KDDI / Mitsubishi UFJ), and [[banking/rakuten-bank|Rakuten Bank]] (Rakuten Securities adjacency). Its franchise is built around the **integration of brokerage cash flow into banking** — sweep-deposit linkage with Daiwa Securities accounts and multi-currency deposit support that complements 外貨建て投信 sales.
+
+Deposit / account as-of date: **2026-03-31**. The deposit base was about 5.06 trillion yen (5,063.7 billion yen across 2,288 thousand accounts, combined yen and foreign-currency deposits), built primarily from Daiwa Securities-account customers.
+
+ORIX Bank acquisition announcement / agreement date: **2026-04-27**. Daiwa Securities Group / Daiwa Next Bank announced an agreement to make [[trust-banks/orix-bank|Orix Bank]] a wholly-owned subsidiary, materially expanding the group's bank-side balance sheet, mortgage origination, and trust-bank options — the most consequential strategic move for Daiwa Next Bank since its 2011 founding. ^[extracted]
 
 ## 1. Identity and group position
 

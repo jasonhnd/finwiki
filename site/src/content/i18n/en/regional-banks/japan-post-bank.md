@@ -1,11 +1,11 @@
 ---
 source: regional-banks/japan-post-bank
-source_hash: 8dc9ac17b2ccfabf
+source_hash: a4781245e75b4a61
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile"
-translated_at: 2026-06-19T12:43:19.880Z
+translated_at: 2026-06-22T06:12:59.592Z
 ---
 
 # Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile
@@ -47,7 +47,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the opera
 |---|---|
 | 1875 | Postal savings ("郵便貯金") originated under the Meiji-era postal system |
 | 1949 | Postal Services Agency reorganization, with postal savings as a separate function |
-| 2003-04-01 | Japan Post (公社) established, consolidating the three postal lines under a public corporation |
+| 2003-04-01 | Japan Post public-corporation predecessor launch / public-corporation predecessor phase start, consolidating the three postal lines before the bank company was formed |
 | 2007-10-01 | Postal privatization — Japan Post Bank Co., Ltd. opens as a privatized bank under the 郵政民営化法 framework |
 | 2008-2010 | Privatization roadmap reset under the DPJ government; full-privatization timeline diluted |
 | **2015-11-04** | **Triple IPO** — Japan Post Holdings (6178), Japan Post Bank (7182), Japan Post Insurance (7181) list simultaneously on the TSE |

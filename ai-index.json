@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-22T12:42:27+09:00",
+  "generated_at": "2026-06-22T15:21:51+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11113938,
-    "word_like_tokens": 1793570,
+    "nonspace_utf8_chars": 11113812,
+    "word_like_tokens": 1793538,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -7173,9 +7173,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11366,
-      "word_like_tokens": 1794,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 11440,
+      "word_like_tokens": 1802,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "banking/foreign-bank-japan-retreat.md",
@@ -54232,9 +54232,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5491,
-      "word_like_tokens": 898,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 5672,
+      "word_like_tokens": 929,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "manufacturer-finance/toyota-financial-services.md",
@@ -55634,8 +55634,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5052,
-      "word_like_tokens": 862,
+      "nonspace_chars": 5121,
+      "word_like_tokens": 870,
       "last_modified": "2026-06-22"
     },
     {
@@ -74208,9 +74208,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13131,
-      "word_like_tokens": 2195,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 13165,
+      "word_like_tokens": 2200,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "regional-banks/jimoto-hd.md",
@@ -96181,8 +96181,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4044,
-      "word_like_tokens": 744,
+      "nonspace_chars": 3560,
+      "word_like_tokens": 660,
       "last_modified": "2026-06-22"
     }
   ]
