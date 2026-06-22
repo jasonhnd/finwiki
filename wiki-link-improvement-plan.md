@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 4 |
+| Changed or new entries in current worktree | 8 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,10 +41,14 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/daiwa-next-bank.md` | `M` | 35 | ok |
-| `manufacturer-finance/sony-group-finance-arm.md` | `M` | 10 | ok |
-| `megabanks/sony-fg.md` | `M` | 9 | ok |
-| `regional-banks/japan-post-bank.md` | `M` | 22 | ok |
+| `banking/sony-bank.md` | `M` | 20 | ok |
+| `exchanges/fsa-snapshot-delta-log.md` | `M` | 22 | ok |
+| `exchanges/jp-exchange-dmm-com-securities.md` | `M` | 4 | ok |
+| `exchanges/jp-exchange-tokyo-hash.md` | `M` | 7 | ok |
+| `fintech/global-stablecoin-regulatory-five-pole-matrix.md` | `M` | 13 | ok |
+| `payments/japan-jcb-issuer-ecosystem-positioning-matrix.md` | `M` | 141 | ok |
+| `regional-banks/okinawa-fg.md` | `M` | 15 | ok |
+| `securities/odx-start-stb-secondary-market.md` | `M` | 26 | ok |
 
 ## Domain Snapshot
 

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 290e88f7869e3b30
+source_hash: 2a8e152111b98f5f
 lang: zh
 status: machine
 fidelity: ok
 title: "冲绳 FG（Okinawa FG）"
-translated_at: 2026-06-19T12:43:19.927Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # 冲绳 FG（Okinawa FG）
@@ -111,10 +111,10 @@ translated_at: 2026-06-19T12:43:19.927Z
 | 2017-03 | 取得冲绳证券 全部股份（→ 冲银证券）|
 | 2019-06 | OKIPay 开始（QR 支付）|
 | 2021-03 | 集团 SDGs 宣言 |
-| **2021-10-01** | **冲绳金融集团 设立・东证 PRIME 7350 上市**（冲绳银行 单独股份转移）|
+| **2021-10-01** | **冲绳金融集团 设立・东证 PRIME 7350 上市**（冲绳银行 单独股份转移） ^[Okinawa FG official history] |
 | 2022-04 | 东证市场区分重审 → 维持 PRIME |
 | **2024-04** | **第 2 次中期经营计划『成长的共创』开始（2024-04〜2027-03）** |
-| **2025-05-09** | **2025-03 期 净利润 +27%，发表中计目标上方修正**（合并经常收益 710 億・净利润 110 億・ROE 约 6.20% 上方修正）|
+| **2025-05-09** | **2025-03 期 净利润 +27%，发表中计目标上方修正**（合并经常收益 710 億・净利润 110 億・ROE 约 6.20% 上方修正） ^[Okinawa FG 2nd medium-term management plan PDF; 2025-05-09 target revision disclosure] |
 | 2025-07 | 冲银 Success Partners 设立（事业承继・M&A）|
 
 ## 2. 业务分部・地图
@@ -193,6 +193,8 @@ translated_at: 2026-06-19T12:43:19.927Z
 - **Wikipedia: 冲绳金融集团**（https://ja.wikipedia.org/wiki/おきなわフィナンシャルグループ, 2026-05-19 抽出）
 - **Wikipedia: 冲绳银行**（https://ja.wikipedia.org/wiki/沖縄銀行, 2026-05-19 抽出）
 - **冲绳 FG 官方 沿革**（https://www.okinawafg.co.jp/history/）
+- **Okinawa FG 2nd medium-term management plan PDF** (https://www.okinawafg.co.jp/_themes/assets/file/mediumterm_management_plan/Medium-term_management_plan202404.pdf)
+- **Fukuoka Stock Exchange TDnet: Okinawa FG 2025-05-09 target revision disclosure** (https://www.fse.or.jp/files/lis_tkj/25050973504.pdf)
 - **冲绳 FG 2025-03 期 决算短信**（2025-05-09 公布）
 - **冲绳 FG 第 2 次中期经营计划『成长的共创』**（2024-04-01 披露）
 - 日本经济新闻"冲绳 FG 净利润 27% 增长，25-03 期 中计目标 上方修正"（2025-05-09）

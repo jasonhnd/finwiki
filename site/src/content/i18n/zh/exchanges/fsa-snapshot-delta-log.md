@@ -1,11 +1,11 @@
 ---
 source: exchanges/fsa-snapshot-delta-log
-source_hash: 59a89034df2d8c2a
+source_hash: 56c552890a177a84
 lang: zh
 status: machine
 fidelity: ok
 title: "FSA crypto operator registry — snapshot delta log"
-translated_at: 2026-05-31T03:19:56.410Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # FSA crypto operator registry — snapshot delta log
@@ -51,9 +51,9 @@ FSA「加密资产交换业者登录一览」(`kasoutuka.xlsx`) 与 JVCEA 会员
 
 | Snapshot 时点 | 主要变动 | 参考 entity wiki |
 |---|---|---|
-| 令和6年4月1日（2024-04-01） | FTX Japan(旧 QUOINE) 在该时点仍以「FTX Japan」名义维持登录（客户资产 100% 返还已于 2023-02 完成）。**旧记载「bitbank 吸收完成」有误** —— 取得 FTX Japan 的并非 bitbank 而是 bitFlyer Holdings（完全子公司化 2024-07・改商号为 Custodiem 2024-08，详见后述 2024-10-01 行）。该 snapshot 的其他全面差分由公开一次源难以重构。 | [[exchanges/ftx-japan-100pct-return-case-study]] / [[exchanges/jp-exchange-custodiem]] |
-| 令和6年10月1日（2024-10-01） | **社名变更**: FTX Japan 株式会社 → 株式会社 Custodiem（伴随 bitFlyer HD 完全子公司化于 2024-07-26 公表，2024 年夏施行商号变更）。总登录社数在 29 社持平（Wayback 的 2024-08-20 付 FSA xlsx 收载「FTX Japan」，2025-01-15 付则消失＝已改称为 Custodiem）。另外 DMM Bitcoin 的停业意向于 2024-12-01 公表，但在此时点尚未反映登录注销。〔出处: Custodiem 商号变更告知 / FSA xlsx Wayback 2024-08-20〕 | [[exchanges/jp-exchange-custodiem]] |
-| 令和7年4月1日（2025-04-01） | **登录注销（停业）**: 株式会社DMM Bitcoin（关东财务局长 第00010号，平成29年12月1日登录）—— 因 2024-05 约 482億円 BTC 流出，于 2025-03-08 将账户・托管资产移管至 SBI VC 交易并终止服务，注销登录。**社名变更**: CoinBest 株式会社 → OSL Japan 株式会社（香港上市 OSL Group 旗下，2025-02 改称。登录号码・法人号码 3010001185935 被承继）。总登录社数 29 → 28 社（在 令和7年6月30日付 FSA 一览中 28 社确认）。与 FSA xlsx 的 2025-02-06 付（29社・第00010号收载）→ 2025-09-07 付（28社・第00010号消失）diff 一致。〔出处: ITmedia / SBI HD 移管发布 / DMM Bitcoin Wikipedia（第00010号）/ 赤坂经济新闻（OSL 改称）/ FSA xlsx Wayback 2025-02-06・2025-09-07〕 | [[exchanges/jp-exchange-dmm-bitcoin]] / [[exchanges/jp-exchange-sbi-vc-trade]] |
+| 令和6年4月1日（2024-04-01） | FTX Japan(旧 QUOINE) 在该时点仍以「FTX Japan」名义维持登录（客户资产 100% 返还已于 2023-02 完成）。**旧记载「bitbank 吸收完成」有误** —— 取得 FTX Japan 的并非 bitbank 而是 bitFlyer Holdings（完全子公司化 2024-07・改商号为 Custodiem 2024-08，详见后述 2024-10-01 行）。该 snapshot 的其他全面差分由公开一次源难以重构。^[FSA kasoutuka Wayback snapshots; Custodiem public release sources] | [[exchanges/ftx-japan-100pct-return-case-study]] / [[exchanges/jp-exchange-custodiem]] |
+| 令和6年10月1日（2024-10-01） | **社名变更**: FTX Japan 株式会社 → 株式会社 Custodiem（伴随 bitFlyer HD 完全子公司化于 2024-07-26 公表，2024 年夏施行商号变更）。总登录社数在 29 社持平（Wayback 的 2024-08-20 付 FSA xlsx 收载「FTX Japan」，2025-01-15 付则消失＝已改称为 Custodiem）。另外 DMM Bitcoin 的停业意向于 2024-12-01 公表，但在此时点尚未反映登录注销。〔出处: Custodiem 商号变更告知 / FSA xlsx Wayback 2024-08-20〕^[FSA archived kasoutuka.xlsx; JVCEA member list; Custodiem notice] | [[exchanges/jp-exchange-custodiem]] |
+| 令和7年4月1日（2025-04-01） | **登录注销（停业）**: 株式会社DMM Bitcoin（关东财务局长 第00010号，平成29年12月1日登录）—— 因 2024-05 约 482億円 BTC 流出，于 2025-03-08 将账户・托管资产移管至 SBI VC 交易并终止服务，注销登录。**社名变更**: CoinBest 株式会社 → OSL Japan 株式会社（香港上市 OSL Group 旗下，2025-02 改称。登录号码・法人号码 3010001185935 被承继）。总登录社数 29 → 28 社（在 令和7年6月30日付 FSA 一览中 28 社确认）。与 FSA xlsx 的 2025-02-06 付（29社・第00010号收载）→ 2025-09-07 付（28社・第00010号消失）diff 一致。〔出处: ITmedia / SBI HD 移管发布 / DMM Bitcoin Wikipedia（第00010号）/ 赤坂经济新闻（OSL 改称）/ FSA xlsx Wayback 2025-02-06・2025-09-07〕^[FSA archived kasoutuka.xlsx; SBI HD transfer release; public DMM Bitcoin and OSL notices] | [[exchanges/jp-exchange-dmm-bitcoin]] / [[exchanges/jp-exchange-sbi-vc-trade]] |
 | 令和7年10月1日（2025-10-01） | 该时点的新规登录・停业由公开一次源无法确定（因 FSA 不常设公开过去版一览，严格 diff 难以重构）。总登录社数在 **28 社持平**（与「截至 2025 年 10 月末时点为 28 业者」的公开记述以及 令和7年6月30日付 28 社 一致）。未确认到值得特记的新规参入・停业公开报道。〔出处: FSA xlsx Wayback 2025-09-07（28社）〕 | — |
 | **令和8年4月1日（2026-04-01）** | 最新 snapshot 基准（[[exchanges/jp-exchange-bitbank]] / [[exchanges/jp-exchange-line-xenesis]] 等引用元） | 参照个别页面 |
 | 令和8年10月1日（2026-10-01）预定 | **LINE Xenesis 停业反映预定**（2026-06-01 服务终止） | [[exchanges/jp-exchange-line-xenesis]] |

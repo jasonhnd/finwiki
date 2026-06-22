@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-tokyo-hash
-source_hash: 7b19a9919ada083d
+source_hash: 57d2c5d02f6fbb86
 lang: zh
 status: machine
 fidelity: ok
 title: "东京 Hash 株式会社 — 日本加密资产交换业者 overview"
-translated_at: 2026-05-31T05:31:05.795Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # 东京 Hash 株式会社 — 日本加密资产交换业者 overview
@@ -63,7 +63,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2021-12-15 | 借贷加密资产服务开始 |
 | 2022-01-05 | 借贷加密资产服务第1次申购开始（年利率6.5%） |
 | 2022-02-10 | 借贷加密资产服务第2次申购开始（年利率4.5%以上） |
-| 2022-05-09 | 母公司 HashKey Group 从香港 SFC 取得加密资产交易平台运营的基本承认（集团整体的监管进展） |
+| 2022-05-09 | 母公司 HashKey Group 从香港 SFC 取得加密资产交易平台运营的基本承认（集团整体的监管进展） ^[HashKey Group SFC approval-in-principle announcement; Tokyo Hash company and product sources] |
 | 2024-05-31 | 役员变更 |
 | 2025-04-24 | 役员变更 |
 | 2025-11-27 | 役员变更 |
@@ -102,3 +102,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [JVCEA 会员一览](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [FSA 加密资产交换业者登记一览 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
 - [HashKey Group About](https://group.hashkey.com/en/about/)（取得 2026-05-18）
+- [HashKey Group: SFC approval-in-principle for licensed virtual-asset trading platform](https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform)

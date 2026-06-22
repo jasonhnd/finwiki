@@ -20,6 +20,7 @@ sources:
   - "https://moneykit.net/visitor/co/disc.html"
   - "https://moneykit.net/visitor/sbw/"
   - "https://www.sonyfg.co.jp/"
+  - "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://moneykit.net/visitor/fx/ (外貨預金 取扱 12 通貨)"
   - "https://sonybank.jp/corporate/pdf/disclosure2025h.pdf (中間期ディスクロージャー 2025.09.30 預金残高 4兆5,369億円)"
@@ -42,7 +43,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | Established | 2001-04 (one of the first wave of Japanese internet banks) |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
 | Parent | [[megabanks/sony-fg|Sony Financial Group]] (100%) |
-| Ultimate parent | Sony Group Corporation (TSE 6758) — Sony FG was re-acquired in 2020 TOB; Sony FG re-listed on TSE Prime on 2025-09-29 via Japan's first partial spin-off (Sony Group retains ~20%, >80% distributed in-kind to shareholders) |
+| Ultimate parent | Sony Group Corporation (TSE 6758) — Sony FG was re-acquired in 2020 TOB; Sony FG re-listed on TSE Prime on 2025-09-29 via Japan's first partial spin-off (Sony Group retains ~20%, >80% distributed in-kind to shareholders) ^[Sony Group SFG partial spin-off portal; Sony Bank company profile; FSA licensed bank list] |
 | HQ | Tokyo |
 | Customer-facing brand | **MoneyKit** (online service brand, moneykit.net) |
 | Flagship product brand | **Sony Bank WALLET** (multi-currency debit / cash card) |
@@ -155,6 +156,7 @@ Public Sony Bank disclosure (the 「ディスクロージャー誌」 series and
 - Sony Bank disclosure publications (https://moneykit.net/visitor/co/disc.html).
 - Sony Bank WALLET product page (https://moneykit.net/visitor/sbw/).
 - Sony Financial Group corporate site (https://www.sonyfg.co.jp/).
+- Sony Group partial spin-off portal for SFG (https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/).
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
 - Sony Bank foreign-currency-deposit page — 12-currency menu (https://moneykit.net/visitor/fx/).
 - Sony Bank 中間期ディスクロージャー誌 2025.09.30 — total deposits ¥4,536.9bn (https://sonybank.jp/corporate/pdf/disclosure2025h.pdf).

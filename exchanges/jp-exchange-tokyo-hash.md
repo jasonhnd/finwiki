@@ -23,6 +23,7 @@ sources:
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
   - https://group.hashkey.com/en/about/
+  - https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform
 ---
 
 # 東京ハッシュ株式会社 — 日本暗号資産交換業者 overview
@@ -80,7 +81,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2021-12-15 | 貸暗号資産サービス開始 |
 | 2022-01-05 | 貸暗号資産サービス第1回お申込み開始（年率6.5%） |
 | 2022-02-10 | 貸暗号資産サービス第2回お申込み開始（年率4.5%以上） |
-| 2022-05-09 | 親会社 HashKey Group が香港 SFC より暗号資産取引プラットフォーム運営の基本承認取得（グループ全体の規制進展） |
+| 2022-05-09 | 親会社 HashKey Group が香港 SFC より暗号資産取引プラットフォーム運営の基本承認取得（グループ全体の規制進展）^[HashKey Group SFC approval-in-principle announcement; Tokyo Hash company and product sources] |
 | 2024-05-31 | 役員変更 |
 | 2025-04-24 | 役員変更 |
 | 2025-11-27 | 役員変更 |
@@ -119,3 +120,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
 - [HashKey Group About](https://group.hashkey.com/en/about/)（取得 2026-05-18）
+- [HashKey Group: SFC approval-in-principle for licensed virtual-asset trading platform](https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform)

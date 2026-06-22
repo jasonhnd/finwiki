@@ -1,11 +1,11 @@
 ---
 source: securities/odx-start-stb-secondary-market
-source_hash: 9c6a5b205cb2d7b1
+source_hash: ea535c2573f4e38e
 lang: ja
 status: machine
 fidelity: ok
 title: "ODX STARTセキュリティトークン流通市場"
-translated_at: 2026-06-03T00:53:08.324Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 # ODX STARTセキュリティトークン流通市場
 
@@ -132,7 +132,7 @@ Japannext固有のSOR文脈は[[securities/japannext-sor-routing-deep-dive|Japan
 
 | レイヤー | 役割 |
 |---|---|
-| FSA | PTS範囲を持つ第一種金融商品取引業者を認可し、非上場PTS枠組みを監督する。2022-06-22年Market System Working Group中間報告で、PTSを通じたST流通を扱った。 |
+| FSA | PTS範囲を持つ第一種金融商品取引業者を認可し、非上場PTS枠組みを監督する。2022-06-22年Market System Working Group中間報告で、PTSを通じたST流通を扱った。 ^[FSA financial instruments operator list; FSA 2022-06-22 Market System Working Group interim report; ODX START launch page] |
 | JSDA | 自主規制機関。FSA 2022 中間報告後、トークン化証券を含む非上場有価証券のPTS取引ルールを作成し、`unlisted approved PTS issue`の範囲を定義する。 |
 | Japan STO Association | STO市場発展に関する業界討議フォーラム。主要規制当局ではないが、JSDA / FSAのルール設計文脈へ情報を入れる。 |
 | JSCC / JASDEC | ODXの現物株範囲における決済インフラ。 |

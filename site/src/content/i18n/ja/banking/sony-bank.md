@@ -1,11 +1,11 @@
 ---
 source: banking/sony-bank
-source_hash: 3283d667337f1928
+source_hash: 9d7c775f08bb100f
 lang: ja
 status: machine
 fidelity: ok
 title: "ソニー銀行 事業プロファイル (ソニー銀行)"
-translated_at: 2026-06-18T23:33:48.329Z
+translated_at: 2026-06-22T07:08:50.155Z
 ---
 
 # ソニー銀行 事業プロファイル (ソニー銀行)
@@ -23,7 +23,7 @@ translated_at: 2026-06-18T23:33:48.329Z
 | 設立 | 2001-04 (日本のインターネット銀行第一波の一つ) |
 | 銀行免許区分 | 普通銀行 (銀行法上の普通銀行)、FSA「その他の銀行」に分類 |
 | 親会社 | [[megabanks/sony-fg|Sony Financial Group]] (100%) |
-| 最終親会社 | Sony Group Corporation (TSE 6758) — ソニー FG は 2020 の TOB で再取得され、その後 2025-09-29に日本初の部分スピンオフにより TSE プライムへ再上場 (ソニーグループは約 20%を保有、80%超を株主へ現物分配) |
+| 最終親会社 | Sony Group Corporation (TSE 6758) — ソニー FG は 2020 の TOB で再取得され、その後 2025-09-29に日本初の部分スピンオフにより TSE プライムへ再上場 (ソニーグループは約 20%を保有、80%超を株主へ現物分配) ^[Sony Group SFG partial spin-off portal; Sony Bank company profile; FSA licensed bank list] |
 | 本社 | 東京 |
 | 顧客向けブランド | **MoneyKit** (オンラインサービスブランド、moneykit.net) |
 | 主力商品ブランド | **Sony Bank WALLET** (マルチカレンシー・デビット / キャッシュカード) |
@@ -136,6 +136,7 @@ MoneyKit プラットフォームは 投信 (投資信託) を販売し、証券
 - ソニー銀行 ディスクロージャー資料 (https://moneykit.net/visitor/co/disc.html)。
 - Sony Bank WALLET 商品ページ (https://moneykit.net/visitor/sbw/)。
 - Sony Financial Group コーポレートサイト (https://www.sonyfg.co.jp/)。
+- Sony Group partial spin-off portal for SFG (https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/).
 - FSA 免許銀行一覧 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)。
 - ソニー銀行 外貨預金ページ — 12通貨メニュー (https://moneykit.net/visitor/fx/)。
 - ソニー銀行 中間期ディスクロージャー誌 2025.09.30 — 総預金 ¥4,536.9億円 (https://sonybank.jp/corporate/pdf/disclosure2025h.pdf)。

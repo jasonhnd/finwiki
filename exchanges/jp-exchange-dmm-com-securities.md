@@ -23,6 +23,8 @@ sources:
   - https://fx.dmm.com/cfd/service/lineup/
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+  - https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html
+  - https://www.sbivc.co.jp/newsview/1zkj8mf5x3y
 ---
 
 # 株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview
@@ -98,7 +100,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2011-01-01 | 商品先物取引業 追加登録 |
 | 2017-06-27 | 第二種金融商品取引業 追加登録 |
 | 時期不明 | JVCEA 第一種会員として「暗号資産デリバティブ取引業」登録（JVCEA 会員番号1043） |
-| 2024-05-31 | **関係グループ会社 DMM Bitcoin（別法人）にて約482億円相当の暗号資産不正流出発生** |
+| 2024-05-31 | **関係グループ会社 DMM Bitcoin（別法人）にて約482億円相当の暗号資産不正流出発生** ^[NPA DMM Bitcoin theft notice; SBI VC Trade transfer notice; FSA/JVCEA entity-separation sources] |
 | 2024-12-02 | DMM Bitcoin が廃業を発表・SBI VCトレードへの移管を発表。DMM グループの暗号資産現物交換業が消滅 |
 | 2025-03-08 | DMM Bitcoin サービス全面終了。DMM.com証券は DMM Bitcoin とは別法人のため直接の業務影響は公表なし（公式声明なし） |
 | 2026-03 | 自己資本規制比率 419.6% を開示（財務健全） |
@@ -136,3 +138,5 @@ DMM.com証券と DMM Bitcoin は別法人（住所は同じ東京日本橋タワ
 - [DMM CFD 取扱銘柄](https://fx.dmm.com/cfd/service/lineup/)（取得 2026-05-18）
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18 · 会員番号1043 確認）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
+- [警察庁: DMM Bitcoin 不正流出に関する注意喚起](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html)
+- [SBI VC Trade: DMM Bitcoin 顧客口座・預かり資産移管関連のお知らせ](https://www.sbivc.co.jp/newsview/1zkj8mf5x3y)

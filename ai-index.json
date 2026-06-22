@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-22T15:21:51+09:00",
+  "generated_at": "2026-06-22T16:17:07+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11113812,
-    "word_like_tokens": 1793538,
+    "nonspace_utf8_chars": 11116420,
+    "word_like_tokens": 1793958,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -9354,9 +9354,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8318,
-      "word_like_tokens": 1369,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 8544,
+      "word_like_tokens": 1412,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -20520,9 +20520,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6919,
-      "word_like_tokens": 1332,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7119,
+      "word_like_tokens": 1363,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "exchanges/fsa-vasp-registration-system.md",
@@ -23828,13 +23828,15 @@
         "https://jvcea.or.jp/member/",
         "https://securities.dmm.com/company/",
         "https://securities.dmm.com/finance-results/",
-        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html",
+        "https://www.sbivc.co.jp/newsview/1zkj8mf5x3y"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4295,
-      "word_like_tokens": 757,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4683,
+      "word_like_tokens": 818,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "exchanges/jp-exchange-finx-jcrypto.md",
@@ -25177,6 +25179,7 @@
       ],
       "markdown_links": [
         "https://group.hashkey.com/en/about/",
+        "https://group.hashkey.com/en/newsroom/hashkey-secures-hong-kong-sfc-approval-in-principle-licensed-virtual-asset-trading-platform",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
         "https://www.tokyohash.co.jp/company/group_companies/",
@@ -25186,9 +25189,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3941,
-      "word_like_tokens": 673,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 4366,
+      "word_like_tokens": 736,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "exchanges/jp-exchange-traders-securities.md",
@@ -38034,9 +38037,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13768,
-      "word_like_tokens": 2359,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 14036,
+      "word_like_tokens": 2397,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "fintech/gold-tokenization-scheme-comparison.md",
@@ -65497,9 +65500,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 36690,
-      "word_like_tokens": 6253,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 36927,
+      "word_like_tokens": 6284,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "payments/japan-merchant-psp-competitive-scorecard.md",
@@ -76116,9 +76119,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6487,
-      "word_like_tokens": 1198,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6994,
+      "word_like_tokens": 1291,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "regional-banks/okinawa-kaiho-bank.md",
@@ -86242,9 +86245,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13917,
-      "word_like_tokens": 2185,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14025,
+      "word_like_tokens": 2204,
+      "last_modified": "2026-06-22"
     },
     {
       "source_path": "securities/osaka-digital-exchange.md",
@@ -96181,8 +96184,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3560,
-      "word_like_tokens": 660,
+      "nonspace_chars": 3809,
+      "word_like_tokens": 701,
       "last_modified": "2026-06-22"
     }
   ]
