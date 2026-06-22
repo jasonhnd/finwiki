@@ -21,6 +21,7 @@
       "LINE Yahoo points 2025"
     ],
     "domain": "loyalty",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -40,6 +41,9 @@
       "2025-ly-integration"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://paypay.ne.jp/",
       "https://about.paypay.ne.jp/news/",

@@ -20,6 +20,7 @@
       "8570"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "asia-consumer-finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 株式会社イオン銀行 (2026-05-19 抽出)",
       "Wikipedia: イオンフィナンシャルサービス (2026-05-19 抽出)",

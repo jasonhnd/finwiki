@@ -16,6 +16,7 @@
       "ビジネスケース domain"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -30,6 +31,9 @@
       "templates"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpmorgan.com/onyx/index",
       "https://www.apollo.com/insights",

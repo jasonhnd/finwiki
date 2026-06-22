@@ -19,6 +19,7 @@
       "株式会社ジェーシービー・インターナショナル"
     ],
     "domain": "payment-firms",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -32,6 +33,9 @@
       "international"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.global.jcb/en/",
       "https://www.global.jcb/ja/about-us/"

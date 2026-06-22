@@ -22,6 +22,7 @@
       "損益通算"
     ],
     "domain": "corporate-strategy",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -36,6 +37,9 @@
       "loss-offset"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/hojin/group_tsusan/index.htm",
       "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",

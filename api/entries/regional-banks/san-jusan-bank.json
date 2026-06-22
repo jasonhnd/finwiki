@@ -18,6 +18,7 @@
       "33 銀行"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "operating-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.33bk.co.jp/company/",

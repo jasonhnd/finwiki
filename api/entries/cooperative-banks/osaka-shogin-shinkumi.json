@@ -18,6 +18,7 @@
       "오사카상은신용조합"
     ],
     "domain": "cooperative-banks",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-29",
     "last_tended": "2026-05-29",
@@ -35,6 +36,9 @@
       "merged"
     ],
     "status": "defunct-merged",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.zenshinkumiren.jp/",
       "https://www.shoginkinki.co.jp/",

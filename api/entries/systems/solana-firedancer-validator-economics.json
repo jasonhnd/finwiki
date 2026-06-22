@@ -21,6 +21,7 @@
       "sol staking yield firedancer impact"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -40,6 +41,9 @@
       "sol-staking"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://docs.firedancer.io/",
       "https://github.com/firedancer-io/firedancer",

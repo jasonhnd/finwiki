@@ -18,6 +18,7 @@
       "KDDI 金融 再編ケース"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -35,6 +36,9 @@
       "restructuring"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.kddi.com/english/corporate/ir/",
       "https://www.aufinancialgroup.co.jp/",

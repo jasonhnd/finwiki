@@ -16,6 +16,7 @@
       "暗号資産 fraud detection vendor"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -29,6 +30,9 @@
       "vendor"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.chainalysis.com/",
       "https://www.elliptic.co/",

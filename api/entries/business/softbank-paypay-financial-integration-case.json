@@ -18,6 +18,7 @@
       "PayPay 金融統合ケース"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -35,6 +36,9 @@
       "restructuring"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.softbank.jp/en/corp/philosophy/strategy/financial/",
       "https://about.paypay.ne.jp/en/",

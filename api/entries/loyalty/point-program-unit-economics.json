@@ -23,6 +23,7 @@
       "ポイント負債 資金調達"
     ],
     "domain": "loyalty",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -39,6 +40,9 @@
       "finance"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
       "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",

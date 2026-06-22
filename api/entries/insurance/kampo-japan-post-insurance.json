@@ -21,6 +21,7 @@
       "7181"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -39,6 +40,9 @@
       "ir"
     ],
     "status": "active",
+    "canonical_anchor": "life-insurers/kampo-life",
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jp-life.japanpost.jp/",
       "https://www.jp-life.japanpost.jp/ir/",

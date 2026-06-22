@@ -19,6 +19,7 @@
       "DHFG"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "regional-bank"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 第四北越フィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 第四北越銀行 (2026-05-19 抽出)",

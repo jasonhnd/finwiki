@@ -16,6 +16,7 @@
       "Bybit hack USDC freeze"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-13",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "USDC"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://ofac.treasury.gov/recent-actions",
       "https://home.treasury.gov/policy-issues/financial-sanctions",

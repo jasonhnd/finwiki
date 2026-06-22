@@ -16,6 +16,7 @@
       "多層 CBDC 概要"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "monetary-architecture"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.bis.org/publ/othp33.htm",
       "https://www.bis.org/publ/arpdf/ar2021e3.htm",

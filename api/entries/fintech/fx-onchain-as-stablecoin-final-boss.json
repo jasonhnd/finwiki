@@ -16,6 +16,7 @@
       "herstatt-risk-elimination"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-12",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-12",
@@ -28,6 +29,9 @@
       "settlement-risk"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "BIS / CPMI public materials on foreign-exchange settlement risk and payment-versus-payment.",
       "Public CLS and central-bank materials on FX settlement and Herstatt risk.",

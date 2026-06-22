@@ -20,6 +20,7 @@
       "ターム物RFR"
     ],
     "domain": "money-market",
+    "type": null,
     "created": "2026-06-03",
     "last_updated": "2026-06-03",
     "last_tended": "2026-06-03",
@@ -35,6 +36,9 @@
       "term-rate"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://corporate.quick.co.jp/en/torf/",
       "https://www.torf.co.jp/en/designated/",

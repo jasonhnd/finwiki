@@ -18,6 +18,7 @@
       "7389"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "chubu"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: あいちフィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 愛知銀行 (2026-05-19 抽出)",

@@ -16,6 +16,7 @@
       "cctp-v2-hooks"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "technical-spec"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://developers.circle.com/stablecoins/docs/cctp-getting-started"
     ]

@@ -17,6 +17,7 @@
       "株式会社北國フィナンシャルホールディングス"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "historical-bridge"
     ],
     "status": "borderline",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 北國フィナンシャルホールディングス (公開情報)",
       "Wikipedia: 北國銀行 (公開情報)",

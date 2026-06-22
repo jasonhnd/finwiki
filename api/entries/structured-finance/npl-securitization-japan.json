@@ -19,6 +19,7 @@
       "structured-finance/npl-securitization-japan"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -35,6 +36,9 @@
       "post-pandemic"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "RCC (Resolution and Collection Corporation) public disclosures",
       "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",

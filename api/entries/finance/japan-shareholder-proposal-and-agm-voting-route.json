@@ -17,6 +17,7 @@
       "finance/japan-shareholder-proposal-and-agm-voting"
     ],
     "domain": "finance",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -31,6 +32,9 @@
       "Japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/data/Act/417AC0000000086/618544_1/417AC0000000086_20240522_506AC0000000032_h1.pdf",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en/1000",

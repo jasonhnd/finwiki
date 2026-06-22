@@ -21,6 +21,7 @@
       "Japan koeki ippan zaidan shadan NPO"
     ],
     "domain": "non-profit",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -34,6 +35,9 @@
       "tax-deductible"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://laws.e-gov.go.jp/",
       "https://www.koeki-info.go.jp/",

@@ -16,6 +16,7 @@
       "cross-chain protocol comparison"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-18",
@@ -33,6 +34,9 @@
       "td"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://ibcprotocol.dev/",
       "https://www.cosmos.network/ibc",

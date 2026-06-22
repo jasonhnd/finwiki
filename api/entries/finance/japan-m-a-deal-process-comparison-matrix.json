@@ -20,6 +20,7 @@
       "日本M&A取引類型マトリックス"
     ],
     "domain": "finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "deal-process"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://disclosure.edinet-fsa.go.jp/",

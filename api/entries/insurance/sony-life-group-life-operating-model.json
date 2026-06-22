@@ -17,6 +17,7 @@
       "Sony Life distribution model"
     ],
     "domain": "insurance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "sony-fg"
     ],
     "status": "active",
+    "canonical_anchor": "life-insurers/sony-life",
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sonylife.co.jp/company/disclosure/",
       "https://www.sonyfh.co.jp/ja/financial_info/",

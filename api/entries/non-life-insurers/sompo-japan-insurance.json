@@ -18,6 +18,7 @@
       "non-life-insurers/sompo-japan"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-21",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -31,6 +32,9 @@
       "operating-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
       "https://www.sonpohogo.or.jp/outline/member-companies.html",
@@ -79,6 +83,6 @@
     "nonspace_chars": 2177,
     "word_like_tokens": 341,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-21"
   }
 }

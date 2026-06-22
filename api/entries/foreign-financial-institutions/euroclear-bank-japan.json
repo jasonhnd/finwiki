@@ -17,6 +17,7 @@
       "ユーロクリア日本支店"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-22",
     "last_updated": "2026-05-22",
     "last_tended": "2026-05-22",
@@ -31,6 +32,9 @@
       "settlement"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/regulated/licensed/index.html",
       "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",

@@ -19,6 +19,7 @@
       "Barclays Bank PLC Tokyo Branch"
     ],
     "domain": "foreign-financial-institutions",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "banking"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Barclays Japan 公式 沿革ページ (barclays.co.jp/japan-overview/history-in-japan/)",
       "Wikipedia: バークレイズ (2026-05-19 抽出)",

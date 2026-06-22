@@ -17,6 +17,7 @@
       "資金移動業 前払式支払手段 境界"
     ],
     "domain": "payments",
+    "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-21",
     "last_tended": "2026-05-21",
@@ -30,6 +31,9 @@
       "wallet"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.fsa.go.jp/news/27/sonota/20151214-2.html",
       "https://www.fsa.go.jp/access/r2/213.html",

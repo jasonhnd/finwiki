@@ -17,6 +17,7 @@
       "セイコーエプソン"
     ],
     "domain": "manufacturer-finance",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -28,6 +29,9 @@
       "nagano"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://corporate.epson/en/about/info.html",
       "https://corporate.epson/en/investors/publications/annual-report.html",

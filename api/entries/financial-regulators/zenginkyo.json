@@ -22,6 +22,7 @@
       "financial-regulators/jbatibor"
     ],
     "domain": "financial-regulators",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -39,6 +40,9 @@
       "public-source"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.zenginkyo.or.jp/en/abstract/",
       "https://www.zenginkyo.or.jp/abstract/outline/",
@@ -113,6 +117,6 @@
     "nonspace_chars": 8969,
     "word_like_tokens": 1370,
     "inbound_wikilinks_count": 49,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-21"
   }
 }

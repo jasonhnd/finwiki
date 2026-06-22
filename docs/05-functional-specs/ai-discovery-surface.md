@@ -17,6 +17,9 @@
 - Typed entity graph rails are exposed as additive fields: `entity_nodes[]`, `entity_edges[]`, and `entity_relation_counts`. The existing `entities[]` canonical-anchor identity surface remains backward-compatible and keeps its current meaning.
 - `docs/` remains absent as a content source, page URL, API entry and AI traversal link.
 - Per-entry API output is rewritten from a clean `api/entries/` directory so moved or deleted slugs do not leave stale JSON files.
+- Per-entry API frontmatter exposes the safe static metadata subset needed by agents: `title`, `aliases`, `domain`, `type`, `created`, `last_updated`, `last_tended`, `review_by`, `confidence`, `tags`, `status`, `canonical_anchor`, `related`, `note`, and `sources`.
+- Missing scalar frontmatter fields are serialized as `null`; missing list fields are serialized as empty arrays.
+- Phase 1 per-entry API enrichment does not expose typed `entity_edges` in `api/entries/*.json`; typed graph traversal remains on `ai-index.json` until the entity-graph exposure packet explicitly changes that contract.
 
 ## Generation
 

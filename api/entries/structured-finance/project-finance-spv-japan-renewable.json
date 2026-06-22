@@ -20,6 +20,7 @@
       "structured-finance/project-finance-spv-japan-renewable"
     ],
     "domain": "structured-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -37,6 +38,9 @@
       "japan"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "METI FIT / FIP scheme disclosures — https://www.meti.go.jp/english/",
       "JBIC project finance disclosures — https://www.jbic.go.jp/en/",

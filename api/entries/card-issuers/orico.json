@@ -19,6 +19,7 @@
       "株式会社オリエントコーポレーション"
     ],
     "domain": "card-issuers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -30,6 +31,9 @@
       "installment"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: 株式会社オリエントコーポレーション (公開情報、2026-05-19 参照)",
       "Orico 公式コーポレートサイト 会社概要・沿革 (公開情報)",

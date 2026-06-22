@@ -17,6 +17,7 @@
       "NTT・TCリース株式会社"
     ],
     "domain": "leasing-firms",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-20",
     "last_tended": "2026-05-20",
@@ -31,6 +32,9 @@
       "telecom-assets"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.ntt-tc-lease.com/eng/company/outline/",
       "https://group.ntt/en/newsrelease/2020/02/06/200206a.html",

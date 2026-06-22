@@ -12,6 +12,7 @@
     "title": "JETRO は会員組織ではなく経産省傘下の独立行政法人",
     "aliases": [],
     "domain": "trade",
+    "type": null,
     "created": "2026-04-14",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-05",
@@ -21,6 +22,9 @@
       "trade"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jetro.go.jp/jetro/profile/",
       "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hakusyo/06_hakusho/ODA2006/html/siryo2/sl1150004.htm"

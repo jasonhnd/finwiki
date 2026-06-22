@@ -17,6 +17,7 @@
       "l2-gas-50-percent-cut"
     ],
     "domain": "systems",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -34,6 +35,9 @@
       "eip-4844"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://eips.ethereum.org/EIPS/eip-7691"
     ]

@@ -21,6 +21,7 @@
       "Coinbase IPO direct listing template"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -36,6 +37,9 @@
       "crypto-public-company"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788",
       "https://investor.coinbase.com/",

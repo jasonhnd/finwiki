@@ -27,6 +27,20 @@ AI discovery surfaces let crawlers and LLM agents understand FinWiki without scr
 - Wikilinks and headings.
 - Last modified timestamps.
 
+## Per-Entry API Record Boundary
+
+`api/entries/*.json` is a static per-page metadata record for agents that want
+one entry without reading the full `ai-index.json` manifest. Its `frontmatter`
+object exposes only safe scalar and list metadata already present in public
+Markdown frontmatter: `canonical_anchor`, `related`, `note`, `type`, and
+`sources` are included alongside the older fields.
+
+The per-entry API uses a stable null / empty-array convention: missing scalar
+fields are `null`, and missing list fields are `[]`. Entity graph facts are not
+duplicated into this record in Phase 1; typed graph traversal stays in
+`ai-index.json` (`entity_nodes[]`, `entity_edges[]`, `entity_relation_counts`)
+until a later entity-edge exposure packet changes that boundary.
+
 ## Exclusions
 
 `docs/` must not appear as a page URL, source entry, API entry or llms item.

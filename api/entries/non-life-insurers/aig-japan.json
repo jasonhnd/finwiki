@@ -21,6 +21,7 @@
       "non-life-insurers/aig-life-japan"
     ],
     "domain": "non-life-insurers",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
     "last_tended": "2026-05-19",
@@ -32,6 +33,9 @@
       "foreign-japan-subsidiary"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Wikipedia: AIG損害保険 (2026-05-19 参照)",
       "Wikipedia: AIU保険会社 (2026-05-19 参照)",

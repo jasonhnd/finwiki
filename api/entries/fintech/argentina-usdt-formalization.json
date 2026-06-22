@@ -19,6 +19,7 @@
       "southern-cone-crypto-impact"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -41,6 +42,9 @@
       "capital-controls"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "Comisión Nacional de Valores (CNV) crypto framework rules (2024-2026)",
       "Banco Central de la República Argentina (BCRA) crypto-related communications",

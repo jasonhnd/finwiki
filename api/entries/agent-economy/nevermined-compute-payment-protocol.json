@@ -17,6 +17,7 @@
       "per-inference micropayment"
     ],
     "domain": "agent-economy",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -32,6 +33,9 @@
       "x402"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://nevermined.io/",
       "https://docs.nevermined.io/",

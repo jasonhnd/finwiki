@@ -16,6 +16,7 @@
       "IRS crypto tax form"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "defi"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.irs.gov/forms-pubs/about-form-1099-da",
       "https://www.irs.gov/pub/irs-drop/td-10000.pdf",

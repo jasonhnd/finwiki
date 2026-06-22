@@ -16,6 +16,7 @@
       "anti-dollar-dpi-template"
     ],
     "domain": "business",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -33,6 +34,9 @@
       "pattern"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.coindesk.com/tech/2025/06/11/polygons-sandeep-nailwal-takes-over-as-foundation-ceo-amid-strategic-shakeup",
       "https://www.outlookbusiness.com/start-up/news/is-polygon-once-feted-as-indias-only-crypto-decacorn-receding-into-oblivion",

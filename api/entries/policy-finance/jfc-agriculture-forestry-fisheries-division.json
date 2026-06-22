@@ -21,6 +21,7 @@
       "農林水産事業本部"
     ],
     "domain": "policy-finance",
+    "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
     "last_tended": "2026-05-25",
@@ -36,6 +37,9 @@
       "ja-jf-coordination"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jfc.go.jp/n/finance/agri/",
       "https://www.jfc.go.jp/n/findings/pdf/jfc2024.pdf",

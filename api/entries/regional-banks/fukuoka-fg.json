@@ -18,6 +18,7 @@
       "株式会社ふくおかフィナンシャルグループ"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -29,6 +30,9 @@
       "baas"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "ふくおかFG 2026年3月期 決算短信 (2026-05-13 開示)",
       "ふくおかFG 2026年3月期 第3四半期決算短信 (2026-02-03 開示)",

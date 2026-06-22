@@ -15,6 +15,7 @@
       "maina-wallet-bank-app-in-app"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-12",
     "last_updated": "2026-05-18",
     "last_tended": "2026-05-12",
@@ -27,6 +28,9 @@
       "japan"
     ],
     "status": "confirmed",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.digital.go.jp/policies/mynumber/",
       "https://www.soumu.go.jp/kojinbango_card/",

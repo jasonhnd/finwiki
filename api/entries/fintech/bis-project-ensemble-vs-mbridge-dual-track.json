@@ -16,6 +16,7 @@
       "香港デュアル・トラック戦略"
     ],
     "domain": "fintech",
+    "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -31,6 +32,9 @@
       "rmb-internationalization"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/project-ensemble/",
       "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",

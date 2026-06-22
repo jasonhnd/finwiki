@@ -22,6 +22,7 @@
       "CFG"
     ],
     "domain": "regional-banks",
+    "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -32,6 +33,9 @@
       "regional-bank"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "横浜 FG 公式 IR (yokohamafg.co.jp, 旧 concordia-fg.jp は 301 リダイレクト)",
       "コンコルディア FG 2025-03 期 決算短信 (2025-05-12)",

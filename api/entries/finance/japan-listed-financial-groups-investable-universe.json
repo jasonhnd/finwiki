@@ -17,6 +17,7 @@
       "日本金融グループ上場ユニバース"
     ],
     "domain": "finance",
+    "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
     "last_tended": "2026-05-24",
@@ -35,6 +36,9 @@
       "reference-universe"
     ],
     "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://disclosure.edinet-fsa.go.jp/",

@@ -17,6 +17,7 @@
       "ve33 host alignment"
     ],
     "domain": "exchanges",
+    "type": null,
     "created": "2026-05-16",
     "last_updated": "2026-05-26",
     "last_tended": "2026-05-26",
@@ -34,6 +35,9 @@
       "flywheel"
     ],
     "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
     "sources": [
       "https://github.com/aerodrome-finance/contracts/blob/main/SPECIFICATION.md",
       "https://www.coinbase.com/blog/coinbase-wrapped-btc-cbbtc-is-now-live"
