@@ -270,24 +270,29 @@ function claimSignals(block: TextBlock): ClaimSignal[] {
 function scoreBlock(block: TextBlock, signals: ClaimSignal[]): number {
   if (signals.length === 0) return 1;
   if (block.marker_count > 0) return 1;
-  if (block.nearby_marker_count > 0) return 0.82;
+  if (block.nearby_marker_count > 0) return 0.9;
 
-  let score = block.source_count > 0 ? 0.45 : 0.1;
-  if (block.block_type === "table_row") score -= 0.12;
-  if (signals.length >= 3) score -= 0.15;
-  if ((block.confidence === "likely" || block.confidence === "certain") && block.marker_count === 0) {
-    score -= 0.1;
-  }
+  let score = block.source_count > 0 ? 0.82 : 0.35;
+  if (block.block_type === "table_row") score -= 0.14;
+  if (signals.length >= 3) score -= 0.12;
+  if (signals.length >= 4) score -= 0.08;
+  if (block.source_count <= 1 && signals.length >= 2) score -= 0.08;
   return Math.max(0, Math.min(1, Number(score.toFixed(2))));
 }
 
 function reasonFor(block: TextBlock, signals: ClaimSignal[], score: number): string {
   if (block.source_count === 0) return "frontmatter_sources_missing";
-  if ((block.confidence === "likely" || block.confidence === "certain") && block.marker_count === 0 && score < DEFAULT_THRESHOLD) {
-    return "confidence_marker_mismatch";
-  }
   if (block.block_type === "table_row" && block.marker_count === 0) return "table_row_without_marker";
   if (signals.length >= 3) return "low_marker_density";
+  if (
+    (block.confidence === "likely" || block.confidence === "certain") &&
+    block.marker_count === 0 &&
+    block.source_count <= 1 &&
+    signals.length >= 2 &&
+    score < DEFAULT_THRESHOLD
+  ) {
+    return "confidence_marker_mismatch";
+  }
   if (signals.includes("registration") || signals.includes("status")) return "regulatory_status_without_marker";
   if (signals.includes("relationship")) return "relationship_without_marker";
   if (signals.includes("date")) return "date_claim_without_marker";
