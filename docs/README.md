@@ -44,6 +44,7 @@
 | [User Journeys](02-product/user-journeys.md) | 读者、维护者、agent、AI consumer 的关键路径。 |
 | [UI/UX Principles](02-product/ui-ux-principles.md) | 人类站体验原则、日语用户优先、视觉语气与产品边界。 |
 | [Domains](02-product/domains.md) | 领域现状、边界、扩充优先级。 |
+| [Japanese Finance Coverage Gap Map](02-product/japanese-finance-coverage-gap-map.md) | Issue #32 设计：公开来源覆盖轴、缺口判断和未来内容候选优先级。 |
 
 ### 03 Requirements
 
@@ -64,6 +65,7 @@
 | [i18n Architecture](04-architecture/i18n-architecture.md) | 机器翻译层、source hash、fallback 与 mirror 规则。 |
 | [AI Discovery Architecture](04-architecture/ai-discovery-architecture.md) | `llms*`、`ai-index.json`、API、sitemap 的生成关系。 |
 | [Canonical Anchor](04-architecture/canonical-anchor.md) | mirror page 与 canonical identity 的设计规则。 |
+| [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md) | Issue #29 设计：entity node、typed edge、build packet 和图谱输出边界。 |
 | [ADR](04-architecture/adr.md) | 架构决策记录汇总。 |
 | [JapanFG Split Design](04-architecture/japanfg-split-design.md) | JapanFG 物理拆分设计与执行记录。 |
 
@@ -79,6 +81,7 @@
 | [i18n Pipeline](05-functional-specs/i18n-pipeline.md) | prep、mask、verify、commit translate 的功能行为。 |
 | [Release Gate](05-functional-specs/release-gate.md) | `release.ts` 写入、检查、严格门禁规格。 |
 | [AI Discovery Surface](05-functional-specs/ai-discovery-surface.md) | AI/crawler 可发现面输出规格。 |
+| [AI Surface Consumability Design](05-functional-specs/ai-surface-consumability-design.md) | Issue #33 设计：静态 API 富化、entity-edge exposure 和 queryability 决策。 |
 
 ### 06 Implementation
 
@@ -96,6 +99,7 @@
 | [Test Plan](07-quality/test-plan.md) | 常规验证命令、何时扩大测试面。 |
 | [Code/Docs Alignment Audit](07-quality/code-doc-alignment-audit.md) | 当前代码、生成面与开发文档的切合度审计。 |
 | [Documentation Drift Audit](07-quality/documentation-drift-audit.md) | 活跃文档、根入口、生成面与代码事实的全量漂移审计基线。 |
+| [Cross-Page Factual Consistency Audit](07-quality/cross-page-factual-consistency-audit.md) | Issue #30 设计：重复公开事实跨页不一致的 report-only 审计。 |
 | [Acceptance Criteria](07-quality/acceptance-criteria.md) | 内容、结构、发布、文档变更验收标准。 |
 | [QA Checklist](07-quality/qa-checklist.md) | 提交前人工检查清单。 |
 | [Visual QA Checklist](07-quality/visual-qa-checklist.md) | UI/CSS/theme/layout/localization 改动的视觉验收清单。 |
