@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "ai:discovery": "bun tools/generate_ai_discovery.ts",
+    "audit:all": "bun tools/audit_runner.ts",
     "entity:audit": "bun tools/entity_graph_audit.ts",
     "facts:consistency": "bun tools/factual_consistency_audit.ts",
     "facts:freshness": "bun tools/fact_freshness_audit.ts",
