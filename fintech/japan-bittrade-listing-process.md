@@ -4,11 +4,11 @@ aliases: [bittrade-listing, jp-cex-listing, 日本上場プロセス]
 domain: fintech
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 tags: [fintech, needs-verification]
-status: candidate
+status: active
 sources:
   - https://www.bittrade.co.jp/
   - https://jvcea.or.jp/about/list/

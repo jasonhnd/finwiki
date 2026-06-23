@@ -4,8 +4,8 @@ aliases: [bis-project-agora-overview, Project Agora, Agorá 概要]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, bis, cbdc, tokenization, cross-border, wholesale, g10]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/innovation_hub.htm
   - https://www.iif.com/
   - https://www.newyorkfed.org/aboutthefed/nyic
-status: candidate
+status: active
 ---
 
 # BIS Project Agorá 概要

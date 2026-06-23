@@ -6,9 +6,9 @@ kind: knowledge
 topic: institutional-stablecoin-deposit-token-thesis
 created: 2026-05-12
 last_updated: 2026-05-18
-last_tended: 2026-05-12
-review_by: 2026-11-12
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-09-21
+confidence: likely
 evidence_count: 4
 challenges: 0
 status: confirmed

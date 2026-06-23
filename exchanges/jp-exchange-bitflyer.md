@@ -7,15 +7,15 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-30
-last_tended: 2026-05-30
-review_by: 2027-05-18
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags:
   - fintech
   - jp-crypto-exchange
   - vasp
   - bitflyer-holdings
-status: candidate
+status: active
 sources:
   - https://bitflyer.com/ja-jp/s/company
   - https://jvcea.or.jp/member/

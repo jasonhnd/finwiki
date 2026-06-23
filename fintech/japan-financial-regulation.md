@@ -7,11 +7,11 @@ kind: knowledge
 topic: japan-financial-regulation
 created: 2026-04-15
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-10-30
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags: [fintech]
-status: candidate
+status: active
 sources:
   - https://www.fsa.go.jp/en/
   - https://www.fsa.go.jp/en/policy/sftl/index.html

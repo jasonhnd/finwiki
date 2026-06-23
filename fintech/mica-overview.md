@@ -4,8 +4,8 @@ aliases: [mica-overview, MiCA EU, EU stablecoin regulation]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, law, regulation, eu, stablecoin, mica]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
   - https://www.eba.europa.eu/regulation-and-policy/markets-crypto-assets-mica
   - https://finance.ec.europa.eu/digital-finance/crypto-assets_en
-status: candidate
+status: active
 ---
 
 # EU MiCA · Markets in Crypto-Assets Regulation 概要

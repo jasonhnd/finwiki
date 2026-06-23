@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ tags:
 sources:
   - https://www.fsc.go.kr/
   - https://www.kisa.or.kr/
-status: candidate
+status: active
 ---
 
 # 韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX

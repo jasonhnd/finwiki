@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-18",
+    "last_tended": "2026-06-23",
+    "review_by": "2026-09-21",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -31,7 +31,7 @@
       "jpyc",
       "progmat"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2780,
+    "nonspace_chars": 2777,
     "word_like_tokens": 518,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-23"
   }
 }
