@@ -23,6 +23,13 @@ type ToolRun = {
   lastLine: string;
 };
 
+type DriftEntry = {
+  label: string;
+  line: number;
+  oldLine: string;
+  newLine: string;
+};
+
 function parseReleaseArgs(argv: string[]): ReleaseArgs {
   const args: ReleaseArgs = {
     check: false,
@@ -240,18 +247,40 @@ function syncIndexHtmlText(text: string, counts: Counts, snapshotDate: string): 
   return next;
 }
 
-function diffLines(oldText: string, newText: string, label: string): string[] {
+function diffLines(oldText: string, newText: string, label: string): DriftEntry[] {
   const oldLines = oldText.split("\n");
   const newLines = newText.split("\n");
-  const out: string[] = [];
+  const out: DriftEntry[] = [];
   const limit = Math.max(oldLines.length, newLines.length);
   for (let i = 0; i < limit; i += 1) {
-    if ((oldLines[i] ?? "") !== (newLines[i] ?? "")) {
-      out.push(`  [${label}:${i + 1}] - ${(oldLines[i] ?? "").trim().slice(0, 160)}`);
-      out.push(`  [${label}:${i + 1}] + ${(newLines[i] ?? "").trim().slice(0, 160)}`);
-    }
+    const oldLine = oldLines[i] ?? "";
+    const newLine = newLines[i] ?? "";
+    if (oldLine !== newLine) out.push({ label, line: i + 1, oldLine, newLine });
   }
   return out;
+}
+
+function formatDriftLines(drift: DriftEntry[]): string[] {
+  const out: string[] = [];
+  for (const entry of drift) {
+    out.push(`  [${entry.label}:${entry.line}] - ${entry.oldLine.trim().slice(0, 160)}`);
+    out.push(`  [${entry.label}:${entry.line}] + ${entry.newLine.trim().slice(0, 160)}`);
+  }
+  return out;
+}
+
+function normalizeSnapshotDateLine(line: string): string | null {
+  if (!line.includes("current repository snapshot")) return null;
+  const normalized = line.replace(/\d{4}-\d{2}-\d{2}(?= JST)/g, "<snapshot-date>");
+  return normalized === line ? null : normalized;
+}
+
+function isDateStampOnlyDrift(drift: DriftEntry[]): boolean {
+  return drift.length > 0 && drift.every((entry) => {
+    const oldLine = normalizeSnapshotDateLine(entry.oldLine);
+    const newLine = normalizeSnapshotDateLine(entry.newLine);
+    return oldLine !== null && newLine !== null && oldLine === newLine;
+  });
 }
 
 function scaffoldChangelog(text: string, title: string, snapshotDate: string, nowDisplay: string): string | null {
@@ -382,11 +411,16 @@ async function main(): Promise<number> {
   if (args.write) {
     if (readmeOld !== readmeNew) writeUtf8Lf(README, readmeNew);
     if (indexOld !== indexNew) writeUtf8Lf(INDEX_HTML, indexNew);
-    console.log(`[3] counts synced: ${Math.floor(drift.length / 2)} line(s) updated across README + index.html`);
+    console.log(`[3] counts synced: ${drift.length} line(s) updated across README + index.html`);
   } else if (drift.length > 0) {
-    console.log(`[3] count DRIFT detected (${Math.floor(drift.length / 2)} line(s)) - run --write to sync:`);
-    console.log(drift.slice(0, 40).join("\n"));
-    if (drift.length > 40) console.log(`  ... ${drift.length - 40} more diff line(s)`);
+    const formattedDrift = formatDriftLines(drift);
+    if (isDateStampOnlyDrift(drift)) {
+      console.log(`[3] date-stamp drift detected (${drift.length} line(s)) - non-gating in strict mode:`);
+    } else {
+      console.log(`[3] count DRIFT detected (${drift.length} line(s)) - run --write to sync:`);
+    }
+    console.log(formattedDrift.slice(0, 40).join("\n"));
+    if (formattedDrift.length > 40) console.log(`  ... ${formattedDrift.length - 40} more diff line(s)`);
   } else {
     console.log("[3] counts: in sync");
   }
@@ -412,7 +446,7 @@ async function main(): Promise<number> {
   }
 
   if (problems.length > 0) return 2;
-  if (!args.write && args.strict && drift.length > 0) return 2;
+  if (!args.write && args.strict && drift.length > 0 && !isDateStampOnlyDrift(drift)) return 2;
   return 0;
 }
 
