@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-five-pole-comparison-matrix
-source_hash: ead290de9c6e597c
+source_hash: ce3f778d24038291
 lang: zh
 status: machine
 fidelity: ok
 title: "跨链 5 极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 的 9 维度"
-translated_at: 2026-06-15T04:09:41.208Z
+translated_at: 2026-06-23T01:29:43.838Z
 ---
 
 # 跨链 5 极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 的 9 维度
