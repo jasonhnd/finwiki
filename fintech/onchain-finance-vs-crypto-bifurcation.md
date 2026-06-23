@@ -6,9 +6,9 @@ kind: knowledge
 topic: onchain-finance-vs-crypto-bifurcation
 created: 2026-05-12
 last_updated: 2026-05-18
-last_tended: 2026-05-12
-review_by: 2026-11-12
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 evidence_count: 3
 challenges: 0
 status: confirmed

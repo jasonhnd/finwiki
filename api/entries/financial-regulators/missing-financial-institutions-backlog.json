@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-06-20",
+    "last_tended": "2026-06-23",
+    "review_by": "2026-08-07",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -229,6 +229,6 @@
     "nonspace_chars": 39643,
     "word_like_tokens": 6078,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-23"
   }
 }

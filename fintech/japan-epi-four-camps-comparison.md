@@ -4,8 +4,8 @@ aliases: [japan-epi-four-camps, SBI Circle Holdings, JPYC Progmat camps]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: likely
 tags: [fintech, law, japan, stablecoin, sbi-circle, jpyc, progmat]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://jpyc.co.jp/
   - https://progmat.co.jp/
   - https://www.boj.or.jp/en/paym/digital/index.htm
-status: candidate
+status: active
 ---
 
 # 日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1

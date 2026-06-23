@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-13",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-13",
+    "last_tended": "2026-06-23",
+    "review_by": "2026-09-21",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -30,7 +30,7 @@
       "US",
       "compliance"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3380,
+    "nonspace_chars": 3377,
     "word_like_tokens": 523,
     "inbound_wikilinks_count": 74,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-23"
   }
 }

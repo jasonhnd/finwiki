@@ -7,9 +7,9 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-09-21
+confidence: likely
 tags:
   - exchanges
   - vasp
@@ -21,7 +21,7 @@ tags:
 sources:
   - https://jvcea.or.jp/
   - https://www.fsa.go.jp/
-status: candidate
+status: active
 ---
 
 # 国内 VASP セキュリティ・監査・ISMS 認証実態

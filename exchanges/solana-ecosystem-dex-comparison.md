@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ sources:
   - https://jup.ag/
   - https://raydium.io/
   - https://www.orca.so/
-status: candidate
+status: active
 ---
 
 # Solana エコシステム DEX 群比較

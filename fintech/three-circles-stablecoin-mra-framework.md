@@ -6,11 +6,11 @@ kind: framework
 topic: three-circles-stablecoin-mra-framework
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, stablecoin, MRA, regulation, geopolitics, framework]
-status: candidate
+status: active
 sources:
   - https://www.congress.gov/bill/119th-congress/senate-bill/394
   - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114

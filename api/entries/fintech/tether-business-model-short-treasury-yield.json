@@ -18,9 +18,9 @@
     "type": null,
     "created": "2026-05-12",
     "last_updated": "2026-05-18",
-    "last_tended": "2026-05-12",
-    "review_by": "2026-11-12",
-    "confidence": "possible",
+    "last_tended": "2026-06-23",
+    "review_by": "2026-09-21",
+    "confidence": "likely",
     "tags": [
       "fintech",
       "stablecoin",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2389,
+    "nonspace_chars": 2387,
     "word_like_tokens": 361,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-23"
   }
 }

@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-23T20:32:29+09:00",
+  "generated_at": "2026-06-23T20:54:13+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,7 +9,7 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11116416,
+    "nonspace_utf8_chars": 11116303,
     "word_like_tokens": 1793958,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
@@ -20559,9 +20559,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1454,
+      "nonspace_chars": 1451,
       "word_like_tokens": 227,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/ftx-japan-100pct-return-case-study.md",
@@ -20711,9 +20711,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2937,
+      "nonspace_chars": 2934,
       "word_like_tokens": 529,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/global-crypto-exchange-bankruptcy-comparison.md",
@@ -20765,9 +20765,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2361,
+      "nonspace_chars": 2358,
       "word_like_tokens": 386,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/global-crypto-forensics-vendor-layer.md",
@@ -20944,9 +20944,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2984,
+      "nonspace_chars": 2981,
       "word_like_tokens": 528,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/global-institutional-custody-five-pillars.md",
@@ -21099,9 +21099,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2876,
+      "nonspace_chars": 2873,
       "word_like_tokens": 521,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/global-vasp-regulatory-comparison-matrix.md",
@@ -22690,9 +22690,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2170,
+      "nonspace_chars": 2165,
       "word_like_tokens": 378,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-custody-fireblocks-japan.md",
@@ -23123,9 +23123,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3796,
+      "nonspace_chars": 3791,
       "word_like_tokens": 562,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-exchange-bitflyer.md",
@@ -23185,9 +23185,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5701,
+      "nonspace_chars": 5698,
       "word_like_tokens": 1007,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-exchange-bitpoint-historical-deprecated.md",
@@ -24140,9 +24140,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4877,
+      "nonspace_chars": 4874,
       "word_like_tokens": 904,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-exchange-goldenway-japan.md",
@@ -25997,9 +25997,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2321,
+      "nonspace_chars": 2318,
       "word_like_tokens": 382,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-vasp-aml-travel-rule-implementation.md",
@@ -26337,9 +26337,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2916,
+      "nonspace_chars": 2913,
       "word_like_tokens": 447,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-vasp-regulatory-timeline.md",
@@ -26424,9 +26424,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1753,
+      "nonspace_chars": 1748,
       "word_like_tokens": 289,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-web3-policy-public-body-layer.md",
@@ -26519,9 +26519,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2103,
+      "nonspace_chars": 2100,
       "word_like_tokens": 312,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jvcea-spot-volume-statistics-analysis.md",
@@ -26565,9 +26565,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1781,
+      "nonspace_chars": 1776,
       "word_like_tokens": 292,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jvcea-type2-associate-membership-system.md",
@@ -26761,9 +26761,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2260,
+      "nonspace_chars": 2257,
       "word_like_tokens": 377,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/korea-kimchi-premium-economics.md",
@@ -27115,9 +27115,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3260,
+      "nonspace_chars": 3257,
       "word_like_tokens": 569,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/switzerland-finma-crypto-valley-overview.md",
@@ -33404,7 +33404,7 @@
       "entity_edges": [],
       "nonspace_chars": 39643,
       "word_like_tokens": 6078,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "financial-regulators/nippon-kaiji-kyokai.md",
@@ -35333,9 +35333,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3006,
+      "nonspace_chars": 3003,
       "word_like_tokens": 488,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/bis-project-agora-vs-mbridge.md",
@@ -35704,9 +35704,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3413,
+      "nonspace_chars": 3410,
       "word_like_tokens": 581,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/boe-digital-pound-consultation.md",
@@ -36113,9 +36113,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2889,
+      "nonspace_chars": 2886,
       "word_like_tokens": 471,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/cbdc-multi-tier-architecture-three-paradigms.md",
@@ -37915,9 +37915,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3380,
+      "nonspace_chars": 3377,
       "word_like_tokens": 523,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/global-cbdc-retail-pilot-matrix-africa-caribbean.md",
@@ -38079,9 +38079,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1509,
+      "nonspace_chars": 1504,
       "word_like_tokens": 244,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/gray-market-dollar-network-formalization.md",
@@ -38484,9 +38484,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2553,
+      "nonspace_chars": 2551,
       "word_like_tokens": 392,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/irs-1099-da.md",
@@ -38743,9 +38743,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4517,
+      "nonspace_chars": 4512,
       "word_like_tokens": 736,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/japan-ecisb-license.md",
@@ -38844,9 +38844,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2780,
+      "nonspace_chars": 2777,
       "word_like_tokens": 518,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/japan-epi-three-types-overview.md",
@@ -38940,9 +38940,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1975,
+      "nonspace_chars": 1972,
       "word_like_tokens": 297,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/japan-listed-company-disclosure-monitoring.md",
@@ -39303,9 +39303,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3219,
+      "nonspace_chars": 3216,
       "word_like_tokens": 543,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/jpm-onyx-wholesale-network.md",
@@ -39410,9 +39410,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3411,
+      "nonspace_chars": 3408,
       "word_like_tokens": 598,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/jurisdiction-list-monetary-protectionism.md",
@@ -39741,9 +39741,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2792,
+      "nonspace_chars": 2789,
       "word_like_tokens": 485,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/mbridge-bis-multi-cbdc-vs-agora.md",
@@ -40045,9 +40045,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3410,
+      "nonspace_chars": 3407,
       "word_like_tokens": 612,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/multi-megabank-consortium-governance.md",
@@ -40373,9 +40373,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2588,
+      "nonspace_chars": 2586,
       "word_like_tokens": 370,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/ondo-finance-rusdy-adoption.md",
@@ -41894,9 +41894,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2389,
+      "nonspace_chars": 2387,
       "word_like_tokens": 361,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/tether-usat-anchorage.md",
@@ -42051,9 +42051,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2924,
+      "nonspace_chars": 2921,
       "word_like_tokens": 478,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/tokenized-deposit-cumulative-volume-scale.md",
@@ -55069,9 +55069,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6939,
+      "nonspace_chars": 6934,
       "word_like_tokens": 1243,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "megabanks/nippon-post.md",
@@ -90738,9 +90738,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2511,
+      "nonspace_chars": 2508,
       "word_like_tokens": 394,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "systems/erc-4337-userop-bundler-flow.md",

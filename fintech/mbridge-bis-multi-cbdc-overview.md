@@ -4,8 +4,8 @@ aliases: [mbridge-bis-multi-cbdc-overview, mbridge, m-bridge, multi-cbdc-bridge,
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: likely
 tags: [fintech, cbdc, bridge, mbridge, bis, china, brics, non-dollar]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/06/20240605-4/
   - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
   - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
-status: candidate
+status: active
 ---
 
 # mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)

@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags:
   - exchanges
@@ -18,7 +18,7 @@ tags:
 sources:
   - https://www.jpx.co.jp/
   - https://www.nasdaq.com/
-status: candidate
+status: active
 ---
 
 # 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧

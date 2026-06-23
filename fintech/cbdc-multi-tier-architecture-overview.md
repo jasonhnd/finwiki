@@ -4,8 +4,8 @@ aliases: [cbdc-multi-tier-architecture-overview, CBDC tiered architecture overvi
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, monetary-architecture]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html
   - https://www.bcb.gov.br/en/financialstability/drex_en
   - https://www.pbc.gov.cn/en/3688110/index.html
-status: candidate
+status: active
 ---
 
 # CBDC 多層アーキテクチャ概要

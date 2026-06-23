@@ -10,11 +10,11 @@ aliases:
 domain: megabanks
 created: 2026-05-19
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-19
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 tags: [JapanFG, telco-financial, holding-company]
-status: candidate
+status: active
 entity_node:
   kind: financial_group
   scope: japan_core

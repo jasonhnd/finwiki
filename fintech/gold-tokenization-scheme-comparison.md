@@ -5,11 +5,11 @@ domain: fintech
 kind: knowledge
 created: 2026-04-14
 last_updated: 2026-05-03
-last_tended: 2026-05-05
-review_by: 2026-10-30
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 tags: [needs-review]
-status: candidate
+status: active
 sources:
   - https://www.fsa.go.jp/en/news/index.html
   - https://www.fsa.go.jp/policy/virtual_currency/index.html
