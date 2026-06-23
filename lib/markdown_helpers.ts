@@ -1,5 +1,6 @@
+import { spawnSync } from "node:child_process";
 import { readdir, readFile, stat } from "node:fs/promises";
-import { posix as pathPosix } from "node:path";
+import { dirname, relative, resolve, posix as pathPosix } from "node:path";
 
 export const SITE_URL = "https://finwiki.zksc.io/";
 export const GITHUB_BLOB = "https://github.com/jasonhnd/finwiki/blob/main/";
@@ -494,7 +495,92 @@ export function domainFor(relPath: string): string {
   return parts.length === 1 ? "root" : parts[0];
 }
 
+const GIT_LOG_DATE_PREFIX = "__FINWIKI_COMMIT_DATE__";
+const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+const knownGitRoots: string[] = [];
+const gitLastModifiedCacheByRoot = new Map<string, Map<string, string> | null>();
+
+function toPosixPath(value: string): string {
+  return value.replaceAll("\\", "/");
+}
+
+function gitRootFor(filePath: string): string | null {
+  const absoluteFile = toPosixPath(resolve(filePath));
+  for (const rootDir of knownGitRoots) {
+    if (absoluteFile === rootDir || absoluteFile.startsWith(`${rootDir}/`)) {
+      return rootDir;
+    }
+  }
+
+  const result = spawnSync("git", ["-C", toPosixPath(dirname(absoluteFile)), "rev-parse", "--show-toplevel"], {
+    encoding: "utf8",
+  });
+  if (result.status !== 0) return null;
+
+  const rootDir = toPosixPath(result.stdout.trim());
+  if (!rootDir) return null;
+  knownGitRoots.push(rootDir);
+  return rootDir;
+}
+
+function loadGitLastModifiedDates(rootDir: string): Map<string, string> | null {
+  if (gitLastModifiedCacheByRoot.has(rootDir)) {
+    return gitLastModifiedCacheByRoot.get(rootDir) ?? null;
+  }
+
+  const result = spawnSync(
+    "git",
+    [
+      "-C",
+      rootDir,
+      "log",
+      `--format=${GIT_LOG_DATE_PREFIX}%cs`,
+      "--name-only",
+      "--diff-filter=ACMR",
+      "--",
+      ".",
+    ],
+    {
+      encoding: "utf8",
+      maxBuffer: 128 * 1024 * 1024,
+    },
+  );
+  if (result.status !== 0) {
+    gitLastModifiedCacheByRoot.set(rootDir, null);
+    return null;
+  }
+
+  const datesByPath = new Map<string, string>();
+  let currentDate: string | null = null;
+  for (const rawLine of result.stdout.split(/\r?\n/)) {
+    const line = rawLine.trim();
+    if (!line) continue;
+    if (line.startsWith(GIT_LOG_DATE_PREFIX)) {
+      const date = line.slice(GIT_LOG_DATE_PREFIX.length).trim();
+      currentDate = ISO_DATE_RE.test(date) ? date : null;
+      continue;
+    }
+    if (currentDate && !datesByPath.has(line)) {
+      datesByPath.set(toPosixPath(line), currentDate);
+    }
+  }
+
+  gitLastModifiedCacheByRoot.set(rootDir, datesByPath);
+  return datesByPath;
+}
+
+function gitLastModifiedFor(filePath: string): string | null {
+  const rootDir = gitRootFor(filePath);
+  if (!rootDir) return null;
+  const datesByPath = loadGitLastModifiedDates(rootDir);
+  if (!datesByPath) return null;
+  const relPath = toPosixPath(relative(rootDir, resolve(filePath)));
+  return datesByPath.get(relPath) ?? null;
+}
+
 export async function lastModifiedFor(filePath: string): Promise<string> {
+  const gitDate = gitLastModifiedFor(filePath);
+  if (gitDate) return gitDate;
   const fileStat = await stat(filePath);
   return formatLocalDate(new Date(fileStat.mtimeMs));
 }
