@@ -4,8 +4,8 @@ aliases: [cbdc-multi-tier-architecture-three-paradigms, ecny drex digital-euro c
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, paradigm, case-study]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html
   - https://www.bis.org/publ/othp33.htm
   - https://www.bis.org/publ/arpdf/ar2021e3.htm
-status: candidate
+status: active
 ---
 
 # CBDC 3 大現役パラダイム

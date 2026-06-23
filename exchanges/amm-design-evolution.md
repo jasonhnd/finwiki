@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ sources:
   - https://docs.uniswap.org/
   - https://docs.curve.fi/
   - https://docs.balancer.fi/
-status: candidate
+status: active
 ---
 
 # AMM 設計の進化 — Uniswap v1/v2/v3/v4 + 異派 (Curve / Balancer / TraderJoe)

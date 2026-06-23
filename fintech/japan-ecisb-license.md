@@ -6,11 +6,11 @@ kind: knowledge
 topic: japan-ecisb-license
 created: 2026-04-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-10-30
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, needs-verification]
-status: candidate
+status: active
 sources:
   - https://www.fsa.go.jp/en/policy/sftl/index.html
   - https://www.fsa.go.jp/news/r5/sonota/20231121/2023_paymentservices.html

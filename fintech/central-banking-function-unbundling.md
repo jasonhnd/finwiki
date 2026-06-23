@@ -6,11 +6,11 @@ kind: framework
 topic: central-banking-function-unbundling
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, stablecoin, central-banking, macro-framework, geopolitics]
-status: candidate
+status: active
 sources:
   - https://www.bis.org/publ/arpdf/ar2023e3.htm
   - https://www.bis.org/publ/othp33.htm

@@ -4,13 +4,13 @@ aliases: [erc-7702-overview, eoa-to-scw-overview, set-code-tx]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, wallet, aa, erc-7702, ethereum, pectra, vitalik]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7702
-status: candidate
+status: active
 ---
 
 # ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード

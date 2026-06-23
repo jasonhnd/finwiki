@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -21,7 +21,7 @@ sources:
   - https://www.fsa.go.jp/
   - https://jvcea.or.jp/
   - https://elaws.e-gov.go.jp/
-status: candidate
+status: active
 ---
 
 # 国内暗号資産 VASP 規制タイムライン (2014-2026)

@@ -8,8 +8,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -22,7 +22,7 @@ sources:
   - https://www.dfs.ny.gov/virtual_currency_businesses
   - https://www.occ.gov/
   - https://www.fincen.gov/
-status: candidate
+status: active
 ---
 
 # 米国暗号資産取引業 ライセンス重層制度

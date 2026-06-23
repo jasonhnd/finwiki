@@ -8,11 +8,11 @@ aliases:
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, stablecoin, cross-border, swift, tokenized-deposit, ibc, japan]
-status: candidate
+status: active
 sources:
   - https://www.swift.com/news-events/news/swift-completes-cbdc-sandbox-testing
   - https://www.swift.com/our-solutions/swift-payment-controls

@@ -4,13 +4,13 @@ aliases: [pectra-eip-7691-blob-l2-impact, eip-7691, blob-target-six, l2-gas-50-p
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, ethereum, l2, eip-7691, blob, base, arbitrum, optimism, eip-4844]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7691
-status: candidate
+status: active
 ---
 
 # Pectra EIP-7691 · blob 倍増と L2 経済連鎖

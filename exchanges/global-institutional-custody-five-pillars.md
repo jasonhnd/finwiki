@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -22,7 +22,7 @@ sources:
   - https://www.anchorage.com/
   - https://www.bitgo.com/
   - https://komainu.com/
-status: candidate
+status: active
 ---
 
 # グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu

@@ -6,11 +6,11 @@ kind: knowledge
 topic: threshold-bft-consensus-rust-implementations
 created: 2026-05-13
 last_updated: 2026-05-13
-last_tended: 2026-05-13
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, blockchain, consensus, BFT, Rust, BLS]
-status: candidate
+status: active
 sources:
   - https://github.com/informalsystems/malachite
   - https://github.com/informalsystems/quint
