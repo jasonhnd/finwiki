@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-23T11:20:51+09:00",
+  "generated_at": "2026-06-23T20:32:29+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -3305,7 +3305,7 @@
       "entity_edges": [],
       "nonspace_chars": 4269,
       "word_like_tokens": 650,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-04"
     },
     {
       "source_path": "agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
@@ -4329,7 +4329,7 @@
       "entity_edges": [],
       "nonspace_chars": 2475,
       "word_like_tokens": 405,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/claude-code-extension-architecture.md",
@@ -4882,7 +4882,7 @@
       "entity_edges": [],
       "nonspace_chars": 2760,
       "word_like_tokens": 428,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/lit-protocol-pkp-agent-keys.md",
@@ -9356,7 +9356,7 @@
       "entity_edges": [],
       "nonspace_chars": 8544,
       "word_like_tokens": 1412,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -10621,7 +10621,7 @@
       "entity_edges": [],
       "nonspace_chars": 3929,
       "word_like_tokens": 627,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/rakuten-group-mobile-finance-bundling-case.md",
@@ -12102,7 +12102,7 @@
       "entity_edges": [],
       "nonspace_chars": 2113,
       "word_like_tokens": 347,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -19357,7 +19357,7 @@
       "entity_edges": [],
       "nonspace_chars": 5245,
       "word_like_tokens": 911,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/cex-coinone-korea.md",
@@ -20330,7 +20330,7 @@
       "entity_edges": [],
       "nonspace_chars": 2989,
       "word_like_tokens": 503,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/fsa-business-improvement-orders-history.md",
@@ -20522,7 +20522,7 @@
       "entity_edges": [],
       "nonspace_chars": 7119,
       "word_like_tokens": 1363,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/fsa-vasp-registration-system.md",
@@ -22944,7 +22944,7 @@
       "entity_edges": [],
       "nonspace_chars": 4974,
       "word_like_tokens": 852,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "exchanges/jp-exchange-bi-fxtrade.md",
@@ -23366,7 +23366,7 @@
       "entity_edges": [],
       "nonspace_chars": 4451,
       "word_like_tokens": 789,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "exchanges/jp-exchange-coinbase-japan.md",
@@ -23836,7 +23836,7 @@
       "entity_edges": [],
       "nonspace_chars": 4683,
       "word_like_tokens": 818,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-exchange-finx-jcrypto.md",
@@ -24012,7 +24012,7 @@
       "entity_edges": [],
       "nonspace_chars": 4520,
       "word_like_tokens": 797,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "exchanges/jp-exchange-gaudiy.md",
@@ -25191,7 +25191,7 @@
       "entity_edges": [],
       "nonspace_chars": 4366,
       "word_like_tokens": 736,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "exchanges/jp-exchange-traders-securities.md",
@@ -25379,7 +25379,7 @@
       "entity_edges": [],
       "nonspace_chars": 5853,
       "word_like_tokens": 1065,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-binance-holdings-legacy.md",
@@ -26339,7 +26339,7 @@
       "entity_edges": [],
       "nonspace_chars": 2916,
       "word_like_tokens": 447,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/jp-vasp-regulatory-timeline.md",
@@ -26383,7 +26383,7 @@
       "entity_edges": [],
       "nonspace_chars": 1835,
       "word_like_tokens": 293,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/jp-vasp-security-audit-certification.md",
@@ -26521,7 +26521,7 @@
       "entity_edges": [],
       "nonspace_chars": 2103,
       "word_like_tokens": 312,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/jvcea-spot-volume-statistics-analysis.md",
@@ -26869,7 +26869,7 @@
       "entity_edges": [],
       "nonspace_chars": 2860,
       "word_like_tokens": 472,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "exchanges/mtgox-bankruptcy-processing-timeline.md",
@@ -27166,7 +27166,7 @@
       "entity_edges": [],
       "nonspace_chars": 2483,
       "word_like_tokens": 383,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/taiwan-fsc-vasp-licensing-overview.md",
@@ -27309,7 +27309,7 @@
       "entity_edges": [],
       "nonspace_chars": 2255,
       "word_like_tokens": 367,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/us-crypto-licensing-multi-layer-system.md",
@@ -27358,7 +27358,7 @@
       "entity_edges": [],
       "nonspace_chars": 2407,
       "word_like_tokens": 388,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/ve33-governance-mechanism.md",
@@ -33878,7 +33878,7 @@
       "entity_edges": [],
       "nonspace_chars": 8726,
       "word_like_tokens": 1345,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "financial-regulators/shoko-chukin.md",
@@ -34062,7 +34062,7 @@
       "entity_edges": [],
       "nonspace_chars": 9288,
       "word_like_tokens": 1393,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "financial-regulators/taiyo-grant-thornton.md",
@@ -34296,7 +34296,7 @@
       "entity_edges": [],
       "nonspace_chars": 9333,
       "word_like_tokens": 1430,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "financial-regulators/zenchugin-kyo.md",
@@ -34380,7 +34380,7 @@
       "entity_edges": [],
       "nonspace_chars": 7763,
       "word_like_tokens": 1204,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "financial-regulators/zenginkyo.md",
@@ -37432,7 +37432,7 @@
       "entity_edges": [],
       "nonspace_chars": 3104,
       "word_like_tokens": 568,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "fintech/first-digital-fdusd-hk-stablecoin.md",
@@ -38039,7 +38039,7 @@
       "entity_edges": [],
       "nonspace_chars": 14036,
       "word_like_tokens": 2397,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "fintech/gold-tokenization-scheme-comparison.md",
@@ -38081,7 +38081,7 @@
       "entity_edges": [],
       "nonspace_chars": 1509,
       "word_like_tokens": 244,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "fintech/gray-market-dollar-network-formalization.md",
@@ -38535,7 +38535,7 @@
       "entity_edges": [],
       "nonspace_chars": 3107,
       "word_like_tokens": 525,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "fintech/issuer-distributor-incentive-realignment-50-50-model.md",
@@ -38984,7 +38984,7 @@
       "entity_edges": [],
       "nonspace_chars": 3440,
       "word_like_tokens": 562,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "fintech/japan-stablecoin-2026-event-tracker.md",
@@ -39134,7 +39134,7 @@
       "entity_edges": [],
       "nonspace_chars": 2479,
       "word_like_tokens": 374,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "fintech/jp-stablecoin-dcjpy.md",
@@ -39357,7 +39357,7 @@
       "entity_edges": [],
       "nonspace_chars": 5074,
       "word_like_tokens": 846,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "fintech/jpmorgan-jpmd-coin.md",
@@ -40502,7 +40502,7 @@
       "entity_edges": [],
       "nonspace_chars": 4944,
       "word_like_tokens": 830,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "fintech/paxos-paxg-post-binance-pivot.md",
@@ -40730,7 +40730,7 @@
       "entity_edges": [],
       "nonspace_chars": 2695,
       "word_like_tokens": 390,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "fintech/protocol-renewal-trigger-as-event-anchor.md",
@@ -41552,7 +41552,7 @@
       "entity_edges": [],
       "nonspace_chars": 2088,
       "word_like_tokens": 344,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "fintech/stablecoin-issuer-2025-2026-market-consolidation.md",
@@ -45608,7 +45608,7 @@
       "entity_edges": [],
       "nonspace_chars": 3838,
       "word_like_tokens": 689,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "foreign-financial-institutions/uob-bank-japan.md",
@@ -50673,7 +50673,7 @@
       "entity_edges": [],
       "nonspace_chars": 1998,
       "word_like_tokens": 323,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "life-insurers/fukoku-life.md",
@@ -52161,7 +52161,7 @@
       "entity_edges": [],
       "nonspace_chars": 2096,
       "word_like_tokens": 320,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "life-insurers/taiyo-life.md",
@@ -52203,7 +52203,7 @@
       "entity_edges": [],
       "nonspace_chars": 2079,
       "word_like_tokens": 334,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "life-insurers/td-financial-life.md",
@@ -52341,7 +52341,7 @@
       "entity_edges": [],
       "nonspace_chars": 2199,
       "word_like_tokens": 348,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "life-insurers/zurich-life.md",
@@ -54757,7 +54757,7 @@
       "entity_edges": [],
       "nonspace_chars": 4256,
       "word_like_tokens": 650,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "megabanks/mizuho-bank.md",
@@ -55125,7 +55125,7 @@
       "entity_edges": [],
       "nonspace_chars": 5592,
       "word_like_tokens": 920,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "megabanks/paypay-fg.md",
@@ -55229,7 +55229,7 @@
       "entity_edges": [],
       "nonspace_chars": 2074,
       "word_like_tokens": 310,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-05"
     },
     {
       "source_path": "megabanks/resona-hd.md",
@@ -55511,7 +55511,7 @@
       "entity_edges": [],
       "nonspace_chars": 4852,
       "word_like_tokens": 788,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "megabanks/smfg.md",
@@ -57191,7 +57191,7 @@
       "entity_edges": [],
       "nonspace_chars": 2157,
       "word_like_tokens": 332,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "non-life-insurers/allianz-fire-marine-japan.md",
@@ -58992,7 +58992,7 @@
       "entity_edges": [],
       "nonspace_chars": 6035,
       "word_like_tokens": 944,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-06"
     },
     {
       "source_path": "non-life-insurers/sakura-insurance.md",
@@ -59090,7 +59090,7 @@
       "entity_edges": [],
       "nonspace_chars": 4438,
       "word_like_tokens": 756,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "non-life-insurers/sbi-insurance.md",
@@ -59445,7 +59445,7 @@
       "entity_edges": [],
       "nonspace_chars": 2014,
       "word_like_tokens": 312,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "non-life-insurers/starr-insurance-japan.md",
@@ -62397,7 +62397,7 @@
       "entity_edges": [],
       "nonspace_chars": 3607,
       "word_like_tokens": 554,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -63498,7 +63498,7 @@
       "entity_edges": [],
       "nonspace_chars": 2366,
       "word_like_tokens": 365,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-21"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -65502,7 +65502,7 @@
       "entity_edges": [],
       "nonspace_chars": 36927,
       "word_like_tokens": 6284,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "payments/japan-merchant-psp-competitive-scorecard.md",
@@ -76121,7 +76121,7 @@
       "entity_edges": [],
       "nonspace_chars": 6994,
       "word_like_tokens": 1291,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "regional-banks/okinawa-kaiho-bank.md",
@@ -78781,7 +78781,7 @@
       "entity_edges": [],
       "nonspace_chars": 4767,
       "word_like_tokens": 789,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-05-23"
     },
     {
       "source_path": "releases/v2026.05.22-6.md",
@@ -78811,7 +78811,7 @@
       "entity_edges": [],
       "nonspace_chars": 4266,
       "word_like_tokens": 723,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-05-23"
     },
     {
       "source_path": "releases/v2026.05.22-7.md",
@@ -78841,7 +78841,7 @@
       "entity_edges": [],
       "nonspace_chars": 4263,
       "word_like_tokens": 724,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-05-23"
     },
     {
       "source_path": "releases/v2026.05.22-8.md",
@@ -78871,7 +78871,7 @@
       "entity_edges": [],
       "nonspace_chars": 5525,
       "word_like_tokens": 924,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-05-23"
     },
     {
       "source_path": "releases/v2026.05.22.md",
@@ -78915,7 +78915,7 @@
       "entity_edges": [],
       "nonspace_chars": 7716,
       "word_like_tokens": 1206,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-05-22"
     },
     {
       "source_path": "releases/v2026.05.23-2.md",
@@ -79968,7 +79968,7 @@
       "entity_edges": [],
       "nonspace_chars": 4582,
       "word_like_tokens": 826,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.03-12.md",
@@ -79998,7 +79998,7 @@
       "entity_edges": [],
       "nonspace_chars": 5009,
       "word_like_tokens": 924,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.03-13.md",
@@ -80028,7 +80028,7 @@
       "entity_edges": [],
       "nonspace_chars": 4528,
       "word_like_tokens": 800,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.03-2.md",
@@ -80332,7 +80332,7 @@
       "entity_edges": [],
       "nonspace_chars": 4099,
       "word_like_tokens": 729,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.04-2.md",
@@ -80362,7 +80362,7 @@
       "entity_edges": [],
       "nonspace_chars": 7396,
       "word_like_tokens": 1313,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.04-3.md",
@@ -80392,7 +80392,7 @@
       "entity_edges": [],
       "nonspace_chars": 7461,
       "word_like_tokens": 1351,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.04-4.md",
@@ -80429,7 +80429,7 @@
       "entity_edges": [],
       "nonspace_chars": 7195,
       "word_like_tokens": 1310,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.04-5.md",
@@ -80588,7 +80588,7 @@
       "entity_edges": [],
       "nonspace_chars": 2918,
       "word_like_tokens": 516,
-      "last_modified": "2026-06-07"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "releases/v2026.06.05-5.md",
@@ -86247,7 +86247,7 @@
       "entity_edges": [],
       "nonspace_chars": 14025,
       "word_like_tokens": 2204,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-23"
     },
     {
       "source_path": "securities/osaka-digital-exchange.md",
@@ -89540,7 +89540,7 @@
       "entity_edges": [],
       "nonspace_chars": 2228,
       "word_like_tokens": 328,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/canton-mmf-coalition.md",
@@ -91434,7 +91434,7 @@
       "entity_edges": [],
       "nonspace_chars": 2224,
       "word_like_tokens": 356,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/mev-flashbots-suave-order-flow-auction.md",
@@ -91935,7 +91935,7 @@
       "entity_edges": [],
       "nonspace_chars": 22821,
       "word_like_tokens": 4080,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/solana-firedancer-validator-economics.md",
