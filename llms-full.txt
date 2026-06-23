@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-22T16:17:07+09:00
+Generated: 2026-06-23T10:30:42+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -1574,7 +1574,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/INDEX.md
 - Domain: consumer-finance
 - Type: domain_index
-- Summary: consumer-finance/ contains 4 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
+- Summary: consumer-finance/ contains 5 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
 - Headings: consumer-finance — Japanese consumer lender (貸金業) index, TL;DR, Entries, How the domain reads, Expansion rules, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/consumer-finance/acom, https://finwiki.zksc.io/consumer-finance/acom-co-detail, https://finwiki.zksc.io/consumer-finance/aiful, https://finwiki.zksc.io/consumer-finance/shinsei-financial, https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/sbi-hd
 
@@ -6459,7 +6459,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/INDEX.md
 - Domain: foreign-financial-institutions
 - Type: domain_index
-- Summary: foreign-financial-institutions/ contains 56 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,
+- Summary: foreign-financial-institutions/ contains 57 entries (excluding INDEX, 58 total with the registry page) covering foreign banks' Japan branches and subsidiaries and foreign securities / asset-management houses operating in Japan — Tokyo branches of overseas commercial banks, foreign investment banks,
 - Headings: foreign-financial-institutions — Foreign banks & securities/AM in Japan index, Overview, Registry of record, Members, International central securities depositories (ICSD) (2), Foreign institutions — North America (3), Foreign institutions — Europe / UK (8), Foreign institutions — Greater China / Taiwan (15)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/agricultural-bank-of-china-japan, https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan, https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-negara-indonesia-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-china-japan, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-communications-japan
 
@@ -10499,7 +10499,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/INDEX.md
 - Domain: policy-finance
 - Type: domain_index
-- Summary: policy-finance/ contains 35 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF
+- Summary: policy-finance/ contains 34 entries mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF
 - Headings: policy-finance — Japan public finance / export credit index, TL;DR, Start here, Institution lanes, Public-credit / guarantee systems, Rule / system layer, Wave 5-6 additions (2026-05), Comparison matrices (added 2026-05)
 - First resolved wikilinks: https://finwiki.zksc.io/financial-regulators/jbic, https://finwiki.zksc.io/financial-regulators/jfc, https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/fukuoka-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/hokkaido-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/hyogo-credit-guarantee-corp, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-eximbank-history, https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
 
@@ -15227,7 +15227,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/INDEX.md
 - Domain: trust-banks
 - Type: domain_index
-- Summary: trust-banks/ contains 46 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es
+- Summary: trust-banks/ contains 47 entries (excluding INDEX, 48 total with the registry page) covering Japanese trust banks (信託銀行) and trust companies (信託会社) — licensed full-service and asset-administration trust banks, plus the long tail of management-type and operating-type trust companies (real-estate / es
 - Headings: trust-banks — Japanese trust banks & trust companies index, Overview, Registry of record, Members, Trust banks (信託銀行) (13), Real-estate / estate-planning trust companies (19), Other trust companies (信託会社) (14), Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/trust-banks/alterna-trust, https://finwiki.zksc.io/trust-banks/asahi-trust, https://finwiki.zksc.io/trust-banks/capital-trust, https://finwiki.zksc.io/trust-banks/castglobal-trust, https://finwiki.zksc.io/trust-banks/custody-bank, https://finwiki.zksc.io/trust-banks/daito-mirai-trust, https://finwiki.zksc.io/trust-banks/daiwa-living-trust
 
