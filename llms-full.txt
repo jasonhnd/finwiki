@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-23T10:30:42+09:00
+Generated: 2026-06-23T11:20:51+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -1574,7 +1574,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/INDEX.md
 - Domain: consumer-finance
 - Type: domain_index
-- Summary: consumer-finance/ contains 5 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
+- Summary: consumer-finance/ contains 5 active entries (excluding INDEX, 6 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi
 - Headings: consumer-finance — Japanese consumer lender (貸金業) index, TL;DR, Entries, How the domain reads, Expansion rules, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/consumer-finance/acom, https://finwiki.zksc.io/consumer-finance/acom-co-detail, https://finwiki.zksc.io/consumer-finance/aiful, https://finwiki.zksc.io/consumer-finance/shinsei-financial, https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/sbi-hd
 
