@@ -7,9 +7,9 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-09-21
+confidence: likely
 tags:
   - exchanges
   - venture-capital
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://gumi-cryptos.com/
   - https://www.sbiholdings.co.jp/
-status: candidate
+status: active
 ---
 
 # 国内暗号資産 VC + クリプトファンド ランドスケープ

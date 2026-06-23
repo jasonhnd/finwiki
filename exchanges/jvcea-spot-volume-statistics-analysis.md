@@ -7,9 +7,9 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 tags:
   - exchanges
   - statistics
@@ -18,7 +18,7 @@ tags:
   - spot
 sources:
   - https://jvcea.or.jp/about/statistics/
-status: candidate
+status: active
 ---
 
 # JVCEA 国内 spot 取引高 統計分析 (2017-2026)

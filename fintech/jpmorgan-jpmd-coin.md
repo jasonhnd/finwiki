@@ -4,8 +4,8 @@ aliases: [jpmorgan-jpmd-coin, JPMD, JPM Coin Deposit Token, JPMorgan tokenized d
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, tokenized-deposit, jpmorgan, kinexys, td-vs-sc, genius-501, base, canton]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://www.jpmorgan.com/onyx/coin-system
   - https://www.jpmorgan.com/insights/global-research/payments/digital-assets
   - https://www.base.org/ecosystem
-status: candidate
+status: active
 ---
 
 # JPMorgan JPMD · トークン化預金 · GENIUS §501 法的分類下の TD パラダイム

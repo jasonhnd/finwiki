@@ -4,11 +4,11 @@ aliases: [信託型 SC, JP trust-type stablecoin, 第 3 号 EPI, trust-type EPI 
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: likely
 tags: [fintech, stablecoin, japan, regulation, trust-banking, progmat, td]
-status: candidate
+status: active
 sources:
   - https://www.fsa.go.jp/en/policy/sftl/index.html
   - https://progmat.co.jp/

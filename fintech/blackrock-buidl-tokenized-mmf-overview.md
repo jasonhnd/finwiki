@@ -4,8 +4,8 @@ aliases: [blackrock-buidl-tokenized-mmf-overview, BUIDL, BlackRock USD Instituti
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-23
+review_by: 2026-09-21
 confidence: certain
 tags: [fintech, tokenization, mmf, blackrock, securitize, yield-infrastructure, rwa]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://securitize.io/learn/blackrock-buidl
   - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007560
   - https://app.rwa.xyz/treasuries
-status: candidate
+status: active
 ---
 
 # BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」

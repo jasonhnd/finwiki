@@ -15,13 +15,13 @@
     "type": null,
     "created": "2026-04-14",
     "last_updated": "2026-05-03",
-    "last_tended": "2026-05-05",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-23",
+    "review_by": "2026-08-07",
+    "confidence": "likely",
     "tags": [
       "needs-review"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -66,9 +66,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1509,
+    "nonspace_chars": 1504,
     "word_like_tokens": 244,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-23"
   }
 }

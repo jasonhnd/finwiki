@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-23
+review_by: 2026-08-07
 confidence: likely
 tags:
   - exchanges
@@ -18,7 +18,7 @@ tags:
   - comparison
 sources:
   - https://www.pacer.gov/
-status: candidate
+status: active
 ---
 
 # 暗号資産取引所 倒産処理 国際比較

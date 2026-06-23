@@ -7,15 +7,15 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-18
-confidence: possible
+last_tended: 2026-06-23
+review_by: 2026-08-07
+confidence: likely
 tags:
   - fintech
   - jp-crypto-exchange
   - vasp
   - altcoin-focused
-status: candidate
+status: active
 sources:
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
