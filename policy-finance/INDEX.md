@@ -25,7 +25,7 @@ sources:
 
 ## TL;DR
 
-`policy-finance/` contains **35 entries** mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF, credit guarantee corporations, and agriculture / fisheries guarantee-insurance systems.
+`policy-finance/` contains **34 entries** mapping Japan's public-finance, ODA, export-credit, resource-security, housing-finance, SME credit-guarantee, agriculture / fisheries public-credit, regional-finance, and education-finance institutions. Batch I now adds the public-credit adjacency layer around JHF, credit guarantee corporations, and agriculture / fisheries guarantee-insurance systems.
 
 ## Start here
 
