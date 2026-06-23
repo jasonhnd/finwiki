@@ -1,14 +1,14 @@
 ---
 source: systems/cross-chain-five-pole-comparison-matrix
-source_hash: ead290de9c6e597c
+source_hash: ce3f778d24038291
 lang: en
 status: machine
 fidelity: ok
-title: "Cross-chain 5 -pole comparison matrix · The 9  dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole"
-translated_at: 2026-06-15T04:09:41.208Z
+title: "Cross-chain 5 -pole comparison matrix · The 9 dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole"
+translated_at: 2026-06-23T01:29:43.838Z
 ---
 
-# Cross-chain 5 -pole comparison matrix · The 9  dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole
+# Cross-chain 5 -pole comparison matrix · The 9 dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole
 
 ## Wiki route
 
@@ -16,15 +16,15 @@ This page is a comparison matrix under [[systems/INDEX|systems index]]; read [[s
 
 ## Key facts
 
-- CCTP V2 Fast Transfer 8-20 s finality (V1  is 10-20  min) · USDC only · 12+ chains including Arc / Sonic ^[extracted]
+- CCTP V2 Fast Transfer 8-20 s finality (V1 is 10-20 min) · USDC only · 12+ chains including Arc / Sonic ^[extracted]
 - CCIP Active Risk Management (RMN) two-layer verification · 2024-2025 SWIFT / DTCC / J.P. Morgan Kinexys pilots live · ~25 chains ^[extracted]
-- LayerZero v2  introduces a Lightweight Message Library + DVN modular · 100+ chains · cumulative messages 5B+ · 7B+ USD TVL in circulation ^[extracted]
+- LayerZero v2 introduces a Lightweight Message Library + DVN modular · 100+ chains · cumulative messages 5B+ · 7B+ USD TVL in circulation ^[extracted]
 - Hyperlane permissionless ISM (Interchain Security Module) · 2024.07 Eclipse mainnet · any EVM/SVM/Move/Cosmos chain can self-deploy ^[extracted]
 - Wormhole 19-of-19 Guardian committee + 2024 ZK Verifier + Native Token Transfers (NTT) + CCTP integration · dominant in the Solana ecosystem · 30+ chains ^[extracted]
 
 ## Mechanism / How it works
 
-**9 -dimension comparison matrix** (2026-Q2  state):
+**9 -dimension comparison matrix** (2026-Q2 state):
 
 | Dimension | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@ This page is a comparison matrix under [[systems/INDEX|systems index]]; read [[s
 | **Past incidents / audits** | Circle single-point trust not yet broken · audits OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | no major incident · Chainlink audited multiple times · RMN independent audit · CertiK / Trail of Bits | 2024.01 one-time DVN-config bug (no loss of funds) · audited multiple times Zellic / Trail of Bits · DVN diversity defense-in-depth | 2024 no major incident since Eclipse mainnet went live · audits Trail of Bits / Zellic / OpenZeppelin · permissionless risk depends on ISM choice | **2022.02 $325M theft on the Solana bridge** (Jump Crypto fully reimbursed) · 2024 security upgrade after ZK Verifier went live · Guardian incentive alignment under continuous discussion |
 | **Best use case** | pure USDC cross-chain sourcing · institutional regulation-compliant stablecoin transfer | Bank-grade tokenized-asset settlement · DvP / PvP · high-value low-frequency | general-purpose dApp omnichain · Stargate-style aggregator · long-tail token bridging | App-chain / rollup self-sovereign deployment · non-EVM first-class · permissionless ISM tradeoff | Solana-centric cross-chain · NFT bridge · DAO governance messaging · NTT replaces wrapped tokens |
 
-**How to read the matrix**: read horizontally for the full-dimension profile of 1  protocols · read vertically for the 5 -pole differences in the same dimension. CCTP V2  is narrow and deep (USDC only but optimized to the extreme) · CCIP is institutional-grade (expensive but compliant) · LayerZero v2  is broad and flexible (maximum coverage but DVN configuration means responsibility) · Hyperlane is self-service permissionless · Wormhole is Solana-centric + Guardian-model legacy.
+**How to read the matrix**: read horizontally for the full-dimension profile of 1 protocols · read vertically for the 5 -pole differences in the same dimension. CCTP V2 is narrow and deep (USDC only but optimized to the extreme) · CCIP is institutional-grade (expensive but compliant) · LayerZero v2 is broad and flexible (maximum coverage but DVN configuration means responsibility) · Hyperlane is self-service permissionless · Wormhole is Solana-centric + Guardian-model legacy.
 
 **Typical combinations** (real dApps use multiple bridges in parallel):
 - **Stripe Tempo / Arc**: CCIP (institutional default) + CCTP V2(USDC fast) + LayerZero (long-tail dApp)
@@ -48,7 +48,7 @@ This page is a comparison matrix under [[systems/INDEX|systems index]]; read [[s
 
 ## Origin & evolution
 
-The 2021-2022 cross-chain landscape was a disorderly competition among Wormhole / Multichain / Synapse and others · security-model differences were unclear. The 2022 string of bridge hacks (Ronin $625M · Wormhole $325M · BSC $570M · Nomad $190M) pushed security into a core selection dimension. 2023 Chainlink CCIP launch · carving out the institutional layer with the oracle brand. 2024 LayerZero v2  rebuilt the messaging library and introduced modular DVNs · Hyperlane mainnet launch moved to permissionless mode · Wormhole added a ZK Verifier to patch the weaknesses of the Guardian-only model.
+The 2021-2022 cross-chain landscape was a disorderly competition among Wormhole / Multichain / Synapse and others · security-model differences were unclear. The 2022 string of bridge hacks (Ronin $625M · Wormhole $325M · BSC $570M · Nomad $190M) pushed security into a core selection dimension. 2023 Chainlink CCIP launch · carving out the institutional layer with the oracle brand. 2024 LayerZero v2 rebuilt the messaging library and introduced modular DVNs · Hyperlane mainnet launch moved to permissionless mode · Wormhole added a ZK Verifier to patch the weaknesses of the Guardian-only model.
 
 2025 CCTP V2 Fast Transfer + Hooks made USDC sourcing an atomic primitive (8-20 s) · stripping general-purpose bridges of their value in USDC scenarios. The 2026-Q1 5 -pole landscape has solidified into a task-specialization matrix · mainstream dApps simultaneously integrate 3-4 bridges and route by scenario. Wormhole's NTT (Native Token Transfers) + CCTP integration is a key measure to rebuild relevance · making Wormhole no longer "just a Solana bridge."
 
