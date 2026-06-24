@@ -4,8 +4,8 @@ aliases: [fatf-travel-rule-cross-border, EU TFR Japan FinCEN Travel Rule compari
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, fatf, travel-rule, eu, jp, us, hk, sg]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.fincen.gov/resources/statutes-and-regulations
   - https://www.fsa.go.jp/en/news/index.html
   - https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/
-status: candidate
+status: active
 ---
 
 # FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携

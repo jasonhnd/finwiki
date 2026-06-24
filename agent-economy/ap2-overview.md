@@ -4,13 +4,13 @@ aliases: [ap2-overview, agent-payments-protocol-overview, google-ap2-overview]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, protocol, payment, google, ap2]
 sources:
   - https://github.com/google-agentic-commerce/AP2
-status: candidate
+status: active
 ---
 
 # AP2 · Google Agent Payments Protocol 概観

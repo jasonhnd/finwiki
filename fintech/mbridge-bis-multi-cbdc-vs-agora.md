@@ -4,8 +4,8 @@ aliases: [mbridge-bis-multi-cbdc-vs-agora, mbridge-vs-agora, bis-cbdc-twin-track
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, cbdc, mbridge, agora, bis, geopolitics, dollar, non-dollar]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/publ/othp59.htm
   - https://www.newyorkfed.org/aboutthefed/nyic
   - https://www.bis.org/cpmi/publ/d215.htm
-status: candidate
+status: active
 ---
 
 # mBridge vs Agora · BIS 2025 同年切替の二軌対比

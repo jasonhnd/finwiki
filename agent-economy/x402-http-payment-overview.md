@@ -4,13 +4,13 @@ aliases: [x402-http-payment-overview, x402, http-402, payment-required, coinbase
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, payment, x402, coinbase, usdc, base, http-402, micropayment]
 sources:
   - https://github.com/coinbase/x402
-status: candidate
+status: active
 ---
 
 # x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)

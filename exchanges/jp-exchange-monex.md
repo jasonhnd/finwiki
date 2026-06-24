@@ -7,15 +7,15 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - fintech
   - jp-crypto-exchange
   - vasp
   - crypto-derivatives
-status: candidate
+status: active
 sources:
   - https://info.monex.co.jp/crypto/
   - https://info.monex.co.jp/

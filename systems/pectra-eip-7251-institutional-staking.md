@@ -4,13 +4,13 @@ aliases: [pectra-eip-7251-institutional-staking, eip-7251, max-effective-balance
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, ethereum, staking, eip-7251, lido, coinbase-cloud, institutional]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7251
-status: candidate
+status: active
 ---
 
 # Pectra EIP-7251 · 機関 staking 経済親和化(2048 ETH 上限)

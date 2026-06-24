@@ -6,11 +6,11 @@ kind: knowledge
 topic: multi-proof-aggregation-fault-prover
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, rollup, fault-proof, zk, tee, optimistic, base, l2, rust]
-status: candidate
+status: active
 sources:
   - https://docs.optimism.io/op-stack/fault-proofs/explainer
   - https://specs.optimism.io/fault-proof/index.html

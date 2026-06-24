@@ -5,11 +5,11 @@ domain: non-profit
 kind: knowledge
 created: 2026-04-22
 last_updated: 2026-05-18
-last_tended: 2026-05-05
-review_by: 2026-10-30
-confidence: possible
-tags: [needs-review]
-status: candidate
+last_tended: 2026-06-24
+review_by: 2026-09-22
+confidence: likely
+tags: [non-profit, foundation, establishment]
+status: active
 sources:
   - "https://laws.e-gov.go.jp/"
   - "https://www.koshonin.gr.jp/"

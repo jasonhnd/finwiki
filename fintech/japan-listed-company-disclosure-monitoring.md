@@ -5,10 +5,10 @@ domain: fintech
 kind: knowledge
 created: 2026-04-24
 last_updated: 2026-05-18
-last_tended: 2026-05-05
-review_by: 2026-10-30
-confidence: possible
-tags: [needs-review]
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
+tags: [fintech, disclosure, listed-company]
 status: confirmed
 evidence_count: 1
 type: wiki

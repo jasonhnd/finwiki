@@ -8,8 +8,8 @@ domain: exchanges
 slug: cex-wazirx-india
 created: 2026-05-25
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-25
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -19,8 +19,9 @@ tags:
   - liminal-hack
   - binance
   - restructuring
-status: borderline
+status: active
 sources:
+  - https://wazirx.com/blog/wazirx-cyber-attack-key-insights-and-learnings/
   - 公開情報整理 (WazirX 公式 IR / About / Hack response, wazirx.com)
   - 公開情報整理 (Binance 2019-11 WazirX 買収発表 / 2023 dissociation 公式声明, binance.com Blog)
   - 公開情報整理 (FIU-IND 2024-03 Show Cause Notice 公開情報)

@@ -5,12 +5,13 @@ domain: agent-economy
 kind: knowledge
 created: 2026-04-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-10-30
-confidence: possible
-tags: [needs-review]
-status: candidate
+last_tended: 2026-06-24
+review_by: 2026-09-22
+confidence: likely
+tags: [agent-economy, agent-actorship, social-ontology]
+status: active
 sources:
+  - "https://plato.stanford.edu/entries/social-ontology/"
   - "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors."
   - "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."
 ---

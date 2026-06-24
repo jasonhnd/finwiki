@@ -6,11 +6,11 @@ kind: knowledge
 topic: carf-1099da-end-of-crypto-anonymity
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, crypto, tax, CARF, IRS, compliance, cross-border]
-status: candidate
+status: active
 sources:
   - https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm
   - https://www.irs.gov/forms-pubs/about-form-1099-da
