@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ sources:
   - https://www.b2c2.com/
   - https://wintermute.com/
   - https://www.falconx.io/
-status: candidate
+status: active
 ---
 
 # 国内暗号資産マーケットメイカー / OTC デスク業界 overview

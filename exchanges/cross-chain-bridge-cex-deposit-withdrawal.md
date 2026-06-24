@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -22,7 +22,7 @@ sources:
   - https://www.axelar.network/
   - https://www.hyperlane.xyz/
   - https://chain.link/cross-chain
-status: candidate
+status: active
 ---
 
 # クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較

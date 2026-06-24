@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ tags:
 sources:
   - https://www.mas.gov.sg/regulation/payments
   - https://eservices.mas.gov.sg/fid/
-status: candidate
+status: active
 ---
 
 # シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業

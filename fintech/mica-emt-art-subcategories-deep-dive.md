@@ -4,8 +4,8 @@ aliases: [mica-emt-art, MiCA EMT vs ART, Significant EMT, MiCA reserve compositi
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, law, regulation, eu, mica, emt, art, stablecoin]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.eba.europa.eu/regulation-and-policy/markets-crypto-assets
   - https://www.eba.europa.eu/publications-and-media/press-releases
   - https://www.esma.europa.eu/document/mica-art-emt-asset-referenced-electronic-money-tokens
-status: candidate
+status: active
 ---
 
 # MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ

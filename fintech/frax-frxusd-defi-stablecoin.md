@@ -4,8 +4,8 @@ aliases: [frax-frxusd-defi-stablecoin, frxUSD, Frax v3, sfrxUSD]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, stablecoin, frax, frxusd, sfrxusd, defi, decentralized-sc, genius-501, fraxtal]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://fraxtal.io/
   - https://defillama.com/protocol/frax
   - https://www.coingecko.com/en/coins/frax
-status: candidate
+status: active
 ---
 
 # Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート

@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ tags:
 sources:
   - https://www.fsa.go.jp/
   - https://ftxjapan.co.jp/
-status: candidate
+status: active
 ---
 
 # FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例

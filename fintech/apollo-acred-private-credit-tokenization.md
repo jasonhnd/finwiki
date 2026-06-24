@@ -4,8 +4,8 @@ aliases: [apollo-acred-private-credit-tokenization, ACRED, Apollo Diversified Cr
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, tokenization, private-credit, apollo, securitize, rwa, mmf]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=apollo
   - https://www.apollo.com/strategies/yield/diversified-credit
   - https://app.rwa.xyz/
-status: candidate
+status: active
 ---
 
 # Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション

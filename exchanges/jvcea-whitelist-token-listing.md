@@ -8,8 +8,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -21,7 +21,7 @@ tags:
 sources:
   - https://jvcea.or.jp/
   - https://jvcea.or.jp/about/regulations/
-status: candidate
+status: active
 ---
 
 # JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト

@@ -4,8 +4,8 @@ aliases: [erc-4337-adoption, aa-embedded-wallet, privy-coinbase-cdp-alchemy]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, embedded-wallet, privy, coinbase, alchemy]
 sources:
@@ -18,7 +18,7 @@ sources:
   - https://github.com/safe-global/safe-core-sdk
   - https://github.com/pimlicolabs/permissionless.js
   - https://www.canton.network/
-status: candidate
+status: active
 ---
 
 # ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe
