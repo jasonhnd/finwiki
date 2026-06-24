@@ -20,9 +20,9 @@
     "domain": "card-issuers",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -38,7 +38,8 @@
     "sources": [
       "https://www.smbc-card.com/company/info/outline.jsp",
       "https://www.smbc-card.com/company/index.jsp",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://www.meti.go.jp/policy/economy/consumer/credit/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.",
@@ -78,8 +79,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2345,
-    "word_like_tokens": 365,
+    "nonspace_chars": 3192,
+    "word_like_tokens": 505,
     "inbound_wikilinks_count": 31,
     "last_modified": "2026-06-22"
   }

@@ -19,9 +19,9 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -52,7 +52,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "loyalty/japan-points-landscape",
       "payment-firms/INDEX",
@@ -60,8 +60,7 @@
       "payments/INDEX",
       "payments/cashless-jp-landscape",
       "payments/funds-transfer-service-providers-japan-index",
-      "payments/funds-transfer-vs-prepaid-boundary",
-      "payments/japan-card-issuer-acquirer-processor-split"
+      "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
@@ -70,16 +69,15 @@
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2433,
-    "word_like_tokens": 382,
-    "inbound_wikilinks_count": 24,
+    "nonspace_chars": 3248,
+    "word_like_tokens": 507,
+    "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-22"
   }
 }

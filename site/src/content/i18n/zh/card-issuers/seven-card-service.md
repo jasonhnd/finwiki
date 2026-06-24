@@ -1,42 +1,43 @@
 ---
 source: card-issuers/seven-card-service
-source_hash: 6dfa93ffac4ade8a
+source_hash: 17918028f69756c1
 lang: zh
 status: machine
 fidelity: ok
-title: "七卡服务 (Seven Card Service)"
-translated_at: 2026-06-15T03:48:21.839Z
+title: "Seven Card Service（セブン・カードサービス）"
+translated_at: 2026-06-24T07:24:12.874Z
 ---
+# Seven Card Service（セブン・カードサービス）
 
-# 七卡服务 (Seven Card Service)
 
+## Wiki 路由
 
-## Wiki route
-
-本词条归属于 [[card-issuers/INDEX|card-issuers INDEX]]。可对照 [[payments/INDEX|payments index]] 阅读以获取邻近语境，并对照 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 了解更宏观的体系边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。请结合 [[payments/INDEX|payments index]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 阅读以理解更广泛的体系边界。
 
 ## TL;DR
 
-七卡服务是 [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周边的 card and retail-payment operator。是一个用于将门店、nanaco / point, card, bank ATM, retail app 分开阅读的法人边界页面。
+Seven Card Service 是 [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周边的 card and retail-payment operator。它是将门店、nanaco / 积分、卡、银行 ATM 和零售 App 分开阅读的法人边界页面。^[verified-2026-06-24]
 
-## 1. 法人・牌照边界
+## 1. 实体 / 牌照边界
 
-| Item | Reading |
+| 项目 | 解读 |
 |---|---|
-| Legal entity | 株式会社セブン・カードサービス |
-| Group context | Seven & i / Seven Bank retail payment ecosystem |
-| Main lanes | Credit card, nanaco electronic money, retail payment services |
-| Regulatory route | Installment Sales Act / card-credit control and official company profile. |
+| 法人实体 | 株式会社セブン・カードサービス |
+| 集团语境 | Seven & i / Seven Bank retail payment ecosystem |
+| 主要通道 | 信用卡、nanaco 电子货币、零售支付服务 |
+| 监管路径 | 分期销售法 / 卡信用控制、METI 信用交易材料和官方公司简介。^[verified-2026-06-24] |
+| 零售支付边界 | 官方公司材料同时描述信用卡服务和电子货币 nanaco 的发行 / 运营。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 业务角色
 
-- 将刷卡使用与便利店及零售客户关系连接起来。
-- 以 card / payment services 补充七银行的 ATM 与账户基础设施。
-- 一个将零售支付战略与银行战略分开阅读的有用案例。
+- 将卡使用连接到便利店和零售客户关系。公司 message 称 Seven Card Service 在 2002  开始信用卡业务，并在 2007 开始发行 / 运营 nanaco 电子货币。^[verified-2026-06-24]
+- 以卡 / 支付服务补充 Seven Bank 的 ATM 和账户基础设施；公司称 Seven Bank 于 2023  成为母公司，并将战略表述为整合支付与金融。^[verified-2026-06-24]
+- 业务页面将业务面拆分为 Seven Card Plus / 其他信用卡和 nanaco products，因此本页应作为 card / e-money operator layer 阅读，而不是银行或零售控股公司层。^[verified-2026-06-24]
+- 这是将零售支付战略与银行战略分开阅读的有用案例。
 
-## 3. Why this standalone page matters
+## 3. 为何需要独立页面
 
-七银行并非整个七支付栈。本页面让 card-service 层保持可见，以便与诸如 [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] 和 [[card-issuers/ucs-card|UCSカード]] 这类 retail-affinity peers 以及 FamilyMart 进行比较。
+Seven Bank 并不是 Seven payment stack 的全部。本页在与 [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]]、[[card-issuers/ucs-card|UCSカード]] 以及 FamilyMart 等 retail-affinity peers 比较时，让 card-service layer 保持可见。
 
 ## Related
 
@@ -47,6 +48,7 @@ translated_at: 2026-06-15T03:48:21.839Z
 
 ## Sources
 
-- Seven Card Service company information: https://www.7card.co.jp/company/com_info/
-- Seven Card Service business overview: https://www.7card.co.jp/company/bs/
-- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- Seven Card Service 公司信息：https://www.7card.co.jp/company/com_info/
+- Seven Card Service 业务概要：https://www.7card.co.jp/company/bs/
+- METI 信用交易政策页面：https://www.meti.go.jp/policy/economy/consumer/credit/
+- METI 登记商户合同缔结业者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

@@ -19,9 +19,9 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -52,11 +52,13 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 10,
     "wikilinks": [
       "payment-firms/INDEX",
+      "payment-firms/merpay",
       "payment-firms/payoneer-japan",
       "payment-firms/paypal-pte-ltd-japan",
+      "payment-firms/paypay",
       "payment-firms/revolut-technologies-japan",
       "payment-firms/sbi-remit",
       "payment-firms/western-union-japan",
@@ -65,8 +67,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/payment-firms/INDEX",
+      "https://finwiki.zksc.io/payment-firms/merpay",
       "https://finwiki.zksc.io/payment-firms/payoneer-japan",
       "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
+      "https://finwiki.zksc.io/payment-firms/paypay",
       "https://finwiki.zksc.io/payment-firms/revolut-technologies-japan",
       "https://finwiki.zksc.io/payment-firms/sbi-remit",
       "https://finwiki.zksc.io/payment-firms/western-union-japan",
@@ -77,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2366,
-    "word_like_tokens": 365,
+    "nonspace_chars": 2948,
+    "word_like_tokens": 478,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-21"
   }

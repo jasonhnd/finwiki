@@ -1,51 +1,53 @@
 ---
 source: card-issuers/paypay-card
-source_hash: 068d22ea83d16bf9
+source_hash: 6353af91f86952d7
 lang: zh
 status: machine
 fidelity: ok
-title: "PayPay卡 (PayPay Card)"
-translated_at: 2026-06-15T03:48:21.931Z
+title: "PayPay Card（PayPayカード）"
+translated_at: 2026-06-24T07:24:12.872Z
 ---
+# PayPay Card（PayPayカード）
 
-# PayPay卡 (PayPay Card)
 
+## Wiki 路由
 
-## Wiki 路径
-
-本词条归属于 [[card-issuers/INDEX|card-issuers INDEX]]。请对照 [[payments/INDEX|payments index]] 阅读以获取相邻背景，并对照 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 了解更广泛的体系边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。请结合 [[payments/INDEX|payments index]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 阅读以理解更广泛的体系边界。
 
 ## TL;DR
 
-PayPay卡是 [[megabanks/paypay-fg|PayPay金融グループ]] 的信用卡 / PayPay信用业务 operator。由于其承担着将 credit line 嵌入 PayPay wallet 支付体验的角色，需将 wallet 与 card issuer 分开管理。
+PayPay Card 是 [[megabanks/paypay-fg|PayPay金融グループ]] 的信用卡 / PayPay Credit 运营公司。由于它在 PayPay wallet 的支付体验中嵌入信用额度，因此需要把 wallet 和 card issuer 分开管理。^[verified-2026-06-24]
 
-## 1. 法人 / 牌照边界
+## 1. 实体 / 牌照边界
 
-| 项目 | 内容 |
+| 项目 | 解读 |
 |---|---|
-| 法人主体 | PayPayカード株式会社 |
+| 法人实体 | PayPayカード株式会社 |
 | 集团 | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY payment ecosystem |
-| 主要业务线 | PayPay Card, PayPay Card Gold, PayPay credit products, lending disclosures |
-| 监管路径 | 官方公司公告；依据《分期付款销售法》进行信用卡 / 分期销售管控的 METI 注册事业者名单。 |
+| 主要通道 | PayPay Card、PayPay Card Gold、PayPay credit products、贷金披露 |
+| 监管路径 | 官方公司通知；信用卡 / 分期销售法控制应参考 METI 信用交易材料。^[verified-2026-06-24] |
+| 公司页面产品拆分 | 官方公司导航将 PayPay Card、PayPay Card Gold 和 PayPay Credit 分开，而公司页脚另行披露贷金业登记。^[verified-2026-06-24] |
 
 ## 2. 业务角色
 
-- 在 PayPay 的码支付与应用分发基础之上，加入循环信贷 / 信用卡的经济性。
-- 将积分、应用结账、收单合作方与消费信贷整合进一条零售金融漏斗；issuer / acquirer / processor 关系图见 [[payments/japan-card-issuer-acquirer-processor-split]]。
-- 对于将 PayPay 与其最接近的生态金融同业 [[card-issuers/rakuten-card|楽天カード]]，以及 au PAY、d払い和传统发卡机构进行比较至关重要——方案经济性见 [[payments/japan-payment-scheme-economics-matrix]]。
+- 为 PayPay 的二维码支付和 App 分发基础增加 revolving / credit-card economics；公司页面明确将 PayPay Card 与 PayPay Credit 定位为 PayPay-app-adjacent credit products。^[verified-2026-06-24]
+- 将积分、App checkout、卡收单伙伴和消费者信用连接成一个零售金融漏斗；issuer / acquirer / processor 地图见 [[payments/japan-card-issuer-acquirer-processor-split]]。
+- 不应把 card / credit line 合并进 [[payment-firms/paypay]]：PayPay 是 wallet / funds-transfer / prepaid operating company，而 PayPay Card 承担 credit-card 和 lending disclosures。^[verified-2026-06-24]
+- 对比较 PayPay 与最接近的生态金融同业 [[card-issuers/rakuten-card|楽天カード]]，以及 au PAY、d払い 和传统发卡机构很重要；scheme economics 见 [[payments/japan-payment-scheme-economics-matrix]]。
 
-## 3. 为何这一独立页面重要
+## 3. 为何需要独立页面
 
-作为钱包的 PayPay 与作为信用 operator 的 PayPay Card，在牌照、资产负债表和消费者保护方面存在不同的问题。本页面让这一边界保持可见。
+PayPay 钱包与 PayPay Card 信用运营公司有不同的牌照、资产负债表和消费者保护问题。本页用于保持这条边界可见。
 
-## 相关条目
+## Related
 
 - [[megabanks/paypay-fg]]
 - [[securities-firms/paypay-securities]]
 - [[payments/cashless-jp-landscape]]
 - [[payments/card-acquiring-japan-stack]]
 
-## 来源
+## Sources
 
 - PayPay Card 公司页面：https://www.paypay-card.co.jp/company/
-- 《分期付款销售法》下的 METI 注册事业者：https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- METI 信用交易政策页面：https://www.meti.go.jp/policy/economy/consumer/credit/
+- METI 登记商户合同缔结业者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

@@ -18,9 +18,9 @@
     "domain": "card-issuers",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,7 +35,8 @@
     "note": null,
     "sources": [
       "https://www.paypay-card.co.jp/company/",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://www.meti.go.jp/policy/economy/consumer/credit/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
@@ -50,11 +51,12 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 11,
     "wikilinks": [
       "card-issuers/INDEX",
       "card-issuers/rakuten-card",
       "megabanks/paypay-fg",
+      "payment-firms/paypay",
       "payments/INDEX",
       "payments/card-acquiring-japan-stack",
       "payments/cashless-jp-landscape",
@@ -67,6 +69,7 @@
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/paypay",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
@@ -79,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2247,
-    "word_like_tokens": 358,
+    "nonspace_chars": 2915,
+    "word_like_tokens": 469,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-22"
   }
