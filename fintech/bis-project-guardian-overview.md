@@ -4,8 +4,8 @@ aliases: [bis-project-guardian-overview, mas-project-guardian, Project Guardian]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, mas, singapore, tokenization, asset-tokenization, dbs, jpm, citi]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/about/bisih/locations/singapore.htm
   - https://www.dbs.com.sg/corporate/businessclass/articles
   - https://www.jpmorgan.com/onyx/index
-status: candidate
+status: active
 ---
 
 # MAS Project Guardian 概要

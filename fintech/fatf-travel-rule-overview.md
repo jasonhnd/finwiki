@@ -4,8 +4,8 @@ aliases: [fatf-travel-rule-overview, FATF R.16, VASP travel rule]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, fatf, travel-rule, vasp, kyc, aml]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.fincen.gov/resources/statutes-and-regulations
   - https://www.fatf-gafi.org/content/dam/fatf-gafi/recommendations/Updated-Guidance-VA-VASP.pdf
   - https://www.notabene.id/travel-rule
-status: candidate
+status: active
 ---
 
 # FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達

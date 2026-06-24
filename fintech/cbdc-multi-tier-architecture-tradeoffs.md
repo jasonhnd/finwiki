@@ -4,8 +4,8 @@ aliases: [cbdc-multi-tier-architecture-tradeoffs, CBDC architecture tradeoffs, C
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, cbdc, monetary-architecture, tradeoffs, financial-disintermediation]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm
   - https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html
   - https://www.imf.org/en/Topics/fintech/central-bank-digital-currency
-status: candidate
+status: active
 ---
 
 # CBDC アーキテクチャ選択 4 大トレードオフ

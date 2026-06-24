@@ -4,8 +4,8 @@ aliases: [vitalik-l1-l2-strategy, ethereum-l1-l2-evolution, rollup-centric-to-du
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, ethereum, l2, rollup, pectra, fusaka, stablecoin, vitalik]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://eips.ethereum.org/EIPS/eip-4844
   - https://eips.ethereum.org/EIPS/eip-7702
   - https://ethereum.org/en/roadmap/
-status: candidate
+status: active
 ---
 
 # L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防

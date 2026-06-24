@@ -4,8 +4,8 @@ aliases: [cftc-sec-jurisdiction, CFTC vs SEC, FIT21, CLARITY Act, Howey Test]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, law, regulation, us-regulation, cftc, sec, jurisdiction, fit21]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.congress.gov/bill/118th-congress/house-bill/4763
   - https://www.congress.gov/bill/119th-congress/house-bill/3633
   - https://www.sec.gov/news/statement/gensler-crypto-2023-04-18
-status: candidate
+status: active
 ---
 
 # CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法

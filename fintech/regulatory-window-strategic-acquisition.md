@@ -6,11 +6,11 @@ kind: knowledge
 topic: regulatory-window-strategic-acquisition
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, m-and-a, regulation, vc, stripe, bridge, sequoia, stablecoin]
-status: candidate
+status: active
 sources:
   - https://stripe.com/newsroom
   - https://www.bridge.xyz/

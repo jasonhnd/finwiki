@@ -4,13 +4,13 @@ aliases: [erc-4337-flow, userop-bundler-flow, entrypoint-execution]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, userop, bundler, paymaster]
 sources:
   - https://eips.ethereum.org/EIPS/eip-4337
-status: candidate
+status: active
 ---
 
 # ERC-4337 UserOp/Bundler/EntryPoint フロー詳解

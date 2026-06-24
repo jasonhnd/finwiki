@@ -4,8 +4,8 @@ aliases: [issuer distributor incentive realignment 50 50 model, Coinbase Circle 
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, coinbase, circle, usdc, revenue-split, distribution-economics, genius-501]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K
   - https://www.circle.com/en/transparency
   - https://www.coinbase.com/blog
-status: candidate
+status: active
 ---
 
 # 発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム

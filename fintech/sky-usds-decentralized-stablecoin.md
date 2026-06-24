@@ -4,8 +4,8 @@ aliases: [sky-usds-decentralized-stablecoin, USDS, Sky, MakerDAO rebrand]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, stablecoin, sky, makerdao, usds, decentralized-sc, genius-501, endgame]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://forum.sky.money/
   - https://docs.sky.money/
   - https://www.congress.gov/bill/119th-congress/senate-bill/394
-status: candidate
+status: active
 ---
 
 # Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド

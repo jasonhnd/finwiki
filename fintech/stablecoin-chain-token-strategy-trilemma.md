@@ -6,11 +6,11 @@ kind: framework
 topic: stablecoin-chain-token-strategy-trilemma
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, blockchain, token, game-theory, framework]
-status: candidate
+status: active
 sources:
   - https://www.circle.com/en/arc
   - https://www.base.org/

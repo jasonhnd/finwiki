@@ -4,8 +4,8 @@ aliases: [ripple-rlusd-stablecoin, RLUSD, Ripple USD]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, stablecoin, ripple, rlusd, xrpl, cross-border, compliance-first]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.dfs.ny.gov/industry_guidance/industry_letters/il20241210_ripple_usd
   - https://xrpl.org/
   - https://ripple.com/press-releases/
-status: candidate
+status: active
 ---
 
 # Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン

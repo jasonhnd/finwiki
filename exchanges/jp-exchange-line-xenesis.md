@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-07-01
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - fintech
@@ -16,7 +16,7 @@ tags:
   - vasp
   - service-termination
   - imminent-closure-2026-06
-status: candidate
+status: active
 sources:
   - https://www.linexenesiscorp.com/
   - https://www.bitmax.me/

@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 50 |
+| Changed or new entries in current worktree | 60 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,56 +41,66 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `exchanges/amm-design-evolution.md` | `M` | 12 | ok |
-| `exchanges/coincheck-nem-hack-detailed-analysis.md` | `M` | 14 | ok |
-| `exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md` | `M` | 16 | ok |
-| `exchanges/eu-mica-casp-regime-overview.md` | `M` | 11 | ok |
-| `exchanges/fsa-foreign-exchange-warning-system.md` | `M` | 30 | ok |
-| `exchanges/global-crypto-forensics-vendor-layer.md` | `M` | 14 | ok |
-| `exchanges/global-institutional-custody-five-pillars.md` | `M` | 10 | ok |
-| `exchanges/hk-sfc-vasp-licensing-overview.md` | `M` | 12 | ok |
-| `exchanges/jp-cex-deposit-token-stablecoin-integration.md` | `M` | 21 | ok |
-| `exchanges/jp-exchange-binance-japan.md` | `M` | 7 | ok |
-| `exchanges/jp-exchange-crypto-garage.md` | `M` | 7 | ok |
-| `exchanges/jp-exchange-custodiem.md` | `M` | 7 | ok |
-| `exchanges/jp-exchange-laser-digital-japan.md` | `M` | 6 | ok |
-| `exchanges/jp-institutional-custody-three-pillars.md` | `M` | 6 | ok |
-| `exchanges/jp-vasp-aml-travel-rule-implementation.md` | `M` | 7 | ok |
-| `exchanges/jp-vasp-cold-storage-segregation-rules.md` | `M` | 15 | ok |
-| `exchanges/jp-vasp-derivative-license-system.md` | `M` | 12 | ok |
-| `exchanges/jp-vasp-incident-history.md` | `M` | 12 | ok |
-| `exchanges/jp-vasp-ma-consolidation-history.md` | `M` | 23 | ok |
-| `exchanges/jp-vasp-regulatory-timeline.md` | `M` | 9 | ok |
-| `exchanges/liquid-staking-restaking-cex-exposure.md` | `M` | 14 | ok |
-| `exchanges/native-dex-flip-incumbent-pattern.md` | `M` | 7 | ok |
-| `exchanges/rwa-tokenization-cex-integration.md` | `M` | 14 | ok |
-| `exchanges/us-crypto-licensing-multi-layer-system.md` | `M` | 10 | ok |
-| `fintech/ai-payment-two-tracks.md` | `M` | 11 | ok |
-| `fintech/cbdc-multi-tier-architecture-three-paradigms.md` | `M` | 5 | ok |
-| `fintech/central-banking-function-unbundling.md` | `M` | 13 | ok |
-| `fintech/circular-reserve-asset-flywheel-overview.md` | `M` | 5 | ok |
-| `fintech/cross-border-sc-via-swift-api.md` | `M` | 4 | ok |
-| `fintech/em-market-crypto-dollarization-pattern.md` | `M` | 6 | ok |
-| `fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md` | `M` | 6 | ok |
-| `fintech/hkma-stablecoin-licensing-overview.md` | `M` | 6 | ok |
-| `fintech/japan-ecisb-license.md` | `M` | 7 | ok |
-| `fintech/japan-epi-three-types-overview.md` | `M` | 7 | ok |
-| `fintech/jp-stablecoin-progmat.md` | `M` | 7 | ok |
-| `fintech/jurisdiction-list-monetary-protectionism.md` | `M` | 11 | ok |
-| `fintech/multi-megabank-consortium-governance.md` | `M` | 5 | ok |
-| `fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md` | `M` | 6 | ok |
-| `fintech/paypal-pyusd-stablecoin.md` | `M` | 5 | ok |
-| `fintech/stablecoin-revenue-split-economics.md` | `M` | 9 | ok |
-| `systems/bft-validator-economy-overview.md` | `M` | 4 | ok |
-| `systems/canton-overview.md` | `M` | 4 | ok |
-| `systems/cctp-v2-overview.md` | `M` | 5 | ok |
-| `systems/chain-abstraction-pattern-overview.md` | `M` | 5 | ok |
-| `systems/chainlink-ccip-institutional-messaging.md` | `M` | 4 | ok |
-| `systems/cross-chain-four-poles-overview.md` | `M` | 6 | ok |
-| `systems/eigenlayer-overview.md` | `M` | 5 | ok |
-| `systems/erc-7702-overview.md` | `M` | 3 | ok |
-| `systems/pectra-eip-7691-blob-l2-impact.md` | `M` | 4 | ok |
-| `systems/threshold-bft-consensus-rust-implementations.md` | `M` | 3 | ok |
+| `exchanges/btc-spot-etf-japan-impact.md` | `M` | 11 | ok |
+| `exchanges/bybit-lazarus-hack-detailed-analysis.md` | `M` | 16 | ok |
+| `exchanges/cross-chain-bridge-cex-deposit-withdrawal.md` | `M` | 13 | ok |
+| `exchanges/fsa-business-improvement-orders-history.md` | `M` | 19 | ok |
+| `exchanges/ftx-japan-100pct-return-case-study.md` | `M` | 16 | ok |
+| `exchanges/jp-cex-points-economy-integration.md` | `M` | 12 | ok |
+| `exchanges/jp-cex-staking-lending-regulation.md` | `M` | 14 | ok |
+| `exchanges/jp-crypto-asset-taxation-detailed.md` | `M` | 13 | ok |
+| `exchanges/jp-crypto-market-maker-otc-layer.md` | `M` | 12 | ok |
+| `exchanges/jp-custody-ginco.md` | `M` | 6 | ok |
+| `exchanges/jp-exchange-bittrade.md` | `M` | 7 | ok |
+| `exchanges/jp-exchange-line-xenesis.md` | `M` | 8 | ok |
+| `exchanges/jp-exchange-mercoin.md` | `M` | 7 | ok |
+| `exchanges/jp-exchange-rakuten-wallet.md` | `M` | 8 | ok |
+| `exchanges/jp-exchange-zaif.md` | `M` | 7 | ok |
+| `exchanges/jvcea-whitelist-token-listing.md` | `M` | 13 | ok |
+| `exchanges/sg-mas-dpt-licensing-overview.md` | `M` | 11 | ok |
+| `exchanges/vetoken-host-protocol-flywheel.md` | `M` | 5 | ok |
+| `fintech/apollo-acred-private-credit-tokenization.md` | `M` | 6 | ok |
+| `fintech/bis-project-agora-vs-mbridge.md` | `M` | 6 | ok |
+| `fintech/bis-project-ensemble-overview.md` | `M` | 6 | ok |
+| `fintech/bis-project-guardian-overview.md` | `M` | 6 | ok |
+| `fintech/blackrock-buidl-sc-issuer-adoption.md` | `M` | 6 | ok |
+| `fintech/cbdc-multi-tier-architecture-tradeoffs.md` | `M` | 9 | ok |
+| `fintech/cftc-sec-crypto-jurisdiction.md` | `M` | 5 | ok |
+| `fintech/chain-level-ofac-freeze-precedent.md` | `M` | 8 | ok |
+| `fintech/embedded-wallet-fintech-disintermediation-overview.md` | `M` | 7 | ok |
+| `fintech/fatf-travel-rule-overview.md` | `M` | 6 | ok |
+| `fintech/fnality-wholesale-settlement.md` | `M` | 16 | ok |
+| `fintech/frax-frxusd-defi-stablecoin.md` | `M` | 7 | ok |
+| `fintech/gray-market-dollar-network-formalization.md` | `M` | 11 | ok |
+| `fintech/hkma-stablecoin-licensing-implications.md` | `M` | 6 | ok |
+| `fintech/india-anti-dollar-dpi-alliance.md` | `M` | 4 | ok |
+| `fintech/issuer-distributor-incentive-realignment-50-50-model.md` | `M` | 5 | ok |
+| `fintech/issuer-distributor-incentive-realignment-arc-strategy.md` | `M` | 5 | ok |
+| `fintech/jp-stablecoin-dcjpy.md` | `M` | 10 | ok |
+| `fintech/m-network-m0-neutral-infrastructure.md` | `M` | 5 | ok |
+| `fintech/mica-cross-border-implications.md` | `M` | 6 | ok |
+| `fintech/mica-emt-art-subcategories-deep-dive.md` | `M` | 5 | ok |
+| `fintech/partior-jpm-dbs-temasek-consortium.md` | `M` | 15 | ok |
+| `fintech/portfolio-winner-structure-arm-analog.md` | `M` | 11 | ok |
+| `fintech/protocol-hedge-strategy-stripe-pattern.md` | `M` | 6 | ok |
+| `fintech/regulatory-window-strategic-acquisition.md` | `M` | 6 | ok |
+| `fintech/ripple-rlusd-stablecoin.md` | `M` | 6 | ok |
+| `fintech/singapore-mas-payment-services-act-overview.md` | `M` | 6 | ok |
+| `fintech/sky-usds-decentralized-stablecoin.md` | `M` | 5 | ok |
+| `fintech/stablecoin-chain-token-strategy-trilemma.md` | `M` | 6 | ok |
+| `fintech/stablecoin-channel-japan-sbi-jpyc-ring.md` | `M` | 7 | ok |
+| `fintech/wall-street-crypto-network-neutrality.md` | `M` | 7 | ok |
+| `non-profit/japan-research-grant-map-2026.md` | `M` | 9 | ok |
+| `regional-banks/hokkoku-fhd.md` | `M` | 18 | ok |
+| `systems/dag-bft-vs-chain-bft-architecture.md` | `M` | 6 | ok |
+| `systems/erc-4337-embedded-wallet-adoption.md` | `M` | 6 | ok |
+| `systems/erc-4337-userop-bundler-flow.md` | `M` | 3 | ok |
+| `systems/hyperlane-overview.md` | `M` | 4 | ok |
+| `systems/hyperledger-besu-overview.md` | `M` | 5 | ok |
+| `systems/layerzero-v2-omnichain-messaging.md` | `M` | 4 | ok |
+| `systems/pectra-upgrade-overview.md` | `M` | 4 | ok |
+| `systems/post-quantum-blockchain-day1-integration.md` | `M` | 3 | ok |
+| `systems/vitalik-l1-l2-strategy-anchor.md` | `M` | 4 | ok |
 
 ## Domain Snapshot
 

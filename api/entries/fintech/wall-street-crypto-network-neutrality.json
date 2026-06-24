@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-13",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-13",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
     "confidence": "certain",
     "tags": [
       "fintech",
@@ -29,7 +29,7 @@
       "framework",
       "Visa"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -77,7 +77,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2587,
+    "nonspace_chars": 2584,
     "word_like_tokens": 383,
     "inbound_wikilinks_count": 16,
     "last_modified": "2026-05-26"
