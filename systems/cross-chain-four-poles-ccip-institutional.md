@@ -4,13 +4,13 @@ aliases: [cross chain four poles ccip institutional, Chainlink CCIP institutiona
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, cross-chain, ccip, chainlink, institutional, dtcc, swift, tradfi-defi]
 sources:
   - https://docs.chain.link/ccip
-status: candidate
+status: active
 ---
 
 # CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀

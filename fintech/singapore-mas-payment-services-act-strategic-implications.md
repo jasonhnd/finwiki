@@ -4,8 +4,8 @@ aliases: [mas-strategic-implications, Singapore vs HK SC, Circle SG hub]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, law, regulation, singapore, mas, hk, circle, dbs, stanchart]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.circle.com/en/blog
   - https://www.dbs.com/newsroom/default.page
   - https://www.sc.com/en/media/press-release/
-status: candidate
+status: active
 ---
 
 # MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル

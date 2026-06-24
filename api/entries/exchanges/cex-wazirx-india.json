@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -31,11 +31,12 @@
       "binance",
       "restructuring"
     ],
-    "status": "borderline",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
+      "https://wazirx.com/blog/wazirx-cyber-attack-key-insights-and-learnings/",
       "公開情報整理 (WazirX 公式 IR / About / Hack response, wazirx.com)",
       "公開情報整理 (Binance 2019-11 WazirX 買収発表 / 2023 dissociation 公式声明, binance.com Blog)",
       "公開情報整理 (FIU-IND 2024-03 Show Cause Notice 公開情報)",
@@ -83,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5831,
-    "word_like_tokens": 951,
+    "nonspace_chars": 5899,
+    "word_like_tokens": 962,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-25"
   }

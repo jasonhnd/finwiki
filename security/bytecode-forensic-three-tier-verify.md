@@ -5,14 +5,14 @@ slug: bytecode-forensic-three-tier-verify
 domain: security
 title: "スマートコントラクト bytecode フォレンジック — 三層 verify 技術"
 aliases: []
-status: candidate
-confidence: possible
+status: active
+confidence: likely
 evidence_count: 2
 challenges: 0
 created: 2026-05-12
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-08
+last_tended: 2026-06-24
+review_by: 2026-09-22
 related:
   - "[[security/fork-and-rebrand-5-layer-audit-framework]]"
   - "[[security/wayback-machine-as-forensic-tool]]"

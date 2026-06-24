@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ tags:
 sources:
   - https://docs.curve.fi/
   - https://docs.velodrome.finance/
-status: candidate
+status: active
 ---
 
 # ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化

@@ -4,11 +4,11 @@ aliases: [tether-usat-anchorage, USAT, Tether USA, Tether USAT stablecoin, Ancho
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [fintech, stablecoin, tether, usat, anchorage, genius-501, us-compliance, usdt-bifurcation, federal-charter]
-status: candidate
+status: active
 sources:
   - https://tether.to/en/
   - https://tether.to/en/transparency

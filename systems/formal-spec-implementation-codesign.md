@@ -6,11 +6,11 @@ kind: knowledge
 topic: formal-spec-implementation-codesign
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, formal-methods, consensus, tla, quint, malachite, bft]
-status: candidate
+status: active
 sources:
   - https://github.com/informalsystems/quint
   - https://github.com/informalsystems/malachite

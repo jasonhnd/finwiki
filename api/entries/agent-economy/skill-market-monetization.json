@@ -15,13 +15,15 @@
     "type": null,
     "created": "2026-04-13",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
-      "needs-review"
+      "agent-economy",
+      "skill-market",
+      "monetization"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -63,8 +65,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1842,
-    "word_like_tokens": 274,
+    "nonspace_chars": 1864,
+    "word_like_tokens": 277,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-26"
   }

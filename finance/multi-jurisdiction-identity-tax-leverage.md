@@ -6,14 +6,15 @@ kind: knowledge
 topic: multi-jurisdiction-identity-tax-leverage
 created: 2026-04-20
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-10-30
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [identity, tax-residency, jurisdictions, estate, high-net-worth]
-status: candidate
+status: active
 evidence_count: 2
 type: wiki
 sources:
+  - "https://www.oecd.org/en/publications/2025/04/consolidated-text-of-the-common-reporting-standard-2025_e478bc04.html"
   - "Public PwC, EY, KPMG, and tax-authority guides on individual tax residency and capital-gains treatment."
   - "OECD CRS / FATCA public documentation."
   - "Public tax-authority materials on statutory residence, exit tax, and deemed-disposition rules."

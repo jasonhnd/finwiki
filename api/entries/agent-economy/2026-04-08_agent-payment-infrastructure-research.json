@@ -15,13 +15,15 @@
     "type": null,
     "created": "2026-04-08",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
-      "needs-review"
+      "agent-economy",
+      "payments",
+      "infrastructure"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -88,8 +90,8 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5706,
-    "word_like_tokens": 940,
+    "nonspace_chars": 5726,
+    "word_like_tokens": 942,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-26"
   }

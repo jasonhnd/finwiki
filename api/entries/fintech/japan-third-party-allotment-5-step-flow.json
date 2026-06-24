@@ -15,11 +15,13 @@
     "type": "wiki",
     "created": "2026-04-24",
     "last_updated": "2026-05-18",
-    "last_tended": "2026-05-05",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
+    "confidence": "likely",
     "tags": [
-      "needs-review"
+      "fintech",
+      "equity-finance",
+      "disclosure"
     ],
     "status": "confirmed",
     "canonical_anchor": null,
@@ -66,8 +68,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2479,
-    "word_like_tokens": 374,
+    "nonspace_chars": 2498,
+    "word_like_tokens": 376,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-25"
   }

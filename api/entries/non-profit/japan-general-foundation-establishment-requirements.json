@@ -15,13 +15,15 @@
     "type": null,
     "created": "2026-04-22",
     "last_updated": "2026-05-18",
-    "last_tended": "2026-05-05",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
-      "needs-review"
+      "non-profit",
+      "foundation",
+      "establishment"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -68,8 +70,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2563,
-    "word_like_tokens": 468,
+    "nonspace_chars": 2581,
+    "word_like_tokens": 470,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-06"
   }
