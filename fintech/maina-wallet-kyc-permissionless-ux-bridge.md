@@ -6,9 +6,9 @@ kind: knowledge
 topic: maina-wallet-kyc-permissionless-ux-bridge
 created: 2026-05-12
 last_updated: 2026-05-18
-last_tended: 2026-05-12
-review_by: 2026-11-12
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 evidence_count: 3
 challenges: 0
 status: confirmed

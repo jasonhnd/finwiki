@@ -10,11 +10,11 @@ aliases:
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, payments, epi, wero, european-bank-consortium, retail-wallet, sepa-instant, p2p, anti-paypal, digital-euro-prep]
-status: candidate
+status: active
 sources:
   - https://www.epicompany.eu/
   - https://www.wero-wallet.eu/

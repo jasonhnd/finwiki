@@ -4,13 +4,13 @@ aliases: [x402-cloudflare-aws-edge-integration, x402-cloudflare-workers, x402-aw
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, x402, cloudflare, aws, edge, facilitator, http-402]
 sources:
   - https://github.com/coinbase/x402
-status: candidate
+status: active
 ---
 
 # x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント

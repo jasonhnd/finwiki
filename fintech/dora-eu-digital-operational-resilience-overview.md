@@ -4,8 +4,8 @@ aliases: [dora-overview, DORA EU, Digital Operational Resilience Act, ICT risk]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, eu, dora, operational-resilience, ict]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.esma.europa.eu/policy-activities/digital-finance/digital-operational-resilience-act-dora
   - https://www.eba.europa.eu/regulation-and-policy/operational-risk
   - https://finance.ec.europa.eu/digital-finance/digital-operational-resilience_en
-status: candidate
+status: active
 ---
 
 # DORA · EU Digital Operational Resilience Act 概観

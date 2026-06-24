@@ -4,8 +4,8 @@ aliases: [dora-ctpp, DORA critical third-party provider, cloud crypto custody EU
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, law, regulation, eu, dora, ctpp, cloud, custody, mica]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.esma.europa.eu/policy-activities/digital-finance/digital-operational-resilience-act-dora
   - https://www.eba.europa.eu/regulation-and-policy/operational-risk
   - https://aws.amazon.com/financial-services/security-compliance/
-status: candidate
+status: active
 ---
 
 # DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む

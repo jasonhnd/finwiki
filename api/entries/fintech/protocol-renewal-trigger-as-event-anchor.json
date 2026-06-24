@@ -20,8 +20,8 @@
     "type": null,
     "created": "2026-05-20",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "certain",
     "tags": [
       "fintech",
@@ -29,7 +29,7 @@
       "co-opetition",
       "stablecoin"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -83,7 +83,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3637,
+    "nonspace_chars": 3634,
     "word_like_tokens": 483,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-26"

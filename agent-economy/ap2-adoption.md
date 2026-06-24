@@ -4,13 +4,13 @@ aliases: [ap2-adoption, ap2-ecosystem, ap2-protocol-landscape]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, adoption, mpp, acp, x402]
 sources:
   - https://github.com/google-agentic-commerce/AP2
-status: candidate
+status: active
 ---
 
 # AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦

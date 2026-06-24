@@ -21,9 +21,9 @@
     "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
+    "confidence": "likely",
     "tags": [
       "JapanFG",
       "securities",
@@ -32,7 +32,7 @@
       "FIEA-type-1",
       "asia"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -91,7 +91,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3850,
+    "nonspace_chars": 3845,
     "word_like_tokens": 516,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"

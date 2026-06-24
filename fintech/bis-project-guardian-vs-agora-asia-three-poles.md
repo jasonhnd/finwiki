@@ -4,8 +4,8 @@ aliases: [bis-project-guardian-vs-agora-asia-three-poles, asia tokenization thre
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, mas, hkma, boj, guardian, ensemble, agora, asia, tokenization]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/about/bisih/topics/fmis/agora.htm
   - https://www.boj.or.jp/en/paym/digital/index.htm
   - https://www.bis.org/innovation_hub.htm
-status: candidate
+status: active
 ---
 
 # アジア・トークン化インフラ三極

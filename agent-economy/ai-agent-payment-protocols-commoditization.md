@@ -4,8 +4,8 @@ aliases: [agent-payment-commoditization, agent payment value capture, Stripe 5�
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [agent-economy, ai-agent, payments, commoditization, stripe, privy, value-capture]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://docs.cdp.coinbase.com/
   - https://github.com/coinbase/x402
   - https://github.com/google-agentic-commerce/AP2
-status: candidate
+status: active
 ---
 
 # Agent 決済プロトコル commoditization と価値の上方移動

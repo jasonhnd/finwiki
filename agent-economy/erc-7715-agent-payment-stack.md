@@ -4,13 +4,13 @@ aliases: [erc-7715-stack, agent-payment-stack, x402-ap2-7715-4337]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [agent-economy, protocol, agent-payment, erc-7715, x402, ap2]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7715
-status: candidate
+status: active
 ---
 
 # ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調

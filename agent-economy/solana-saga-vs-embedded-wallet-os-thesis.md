@@ -4,8 +4,8 @@ aliases: [solana-saga-vs-embedded-wallet-os-thesis, sms-vs-privy, os-wallet-vs-e
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [agent-economy, wallet, mobile, solana, embedded-wallet, privy, coinbase-cdp]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://docs.privy.io/
   - https://docs.cdp.coinbase.com/
   - https://privy.io/blog/announcing-our-acquisition-by-stripe
-status: candidate
+status: active
 ---
 
 # Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い

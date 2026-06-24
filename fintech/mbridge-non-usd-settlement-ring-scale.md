@@ -4,8 +4,8 @@ aliases: [mbridge non-usd settlement ring scale, $35T mBridge coverage, GDP cove
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, number, economic-pattern, mbridge, cbdc, non-usd-settlement, gdp-coverage, brics]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.swift.com/about-us/discover-swift/messaging-standards
   - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
   - https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD
-status: candidate
+status: active
 ---
 
 # mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率
