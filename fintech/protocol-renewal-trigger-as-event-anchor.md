@@ -6,11 +6,11 @@ kind: framework
 topic: protocol-renewal-trigger-as-event-anchor
 created: 2026-05-20
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, corporate-strategy, co-opetition, stablecoin]
-status: candidate
+status: active
 sources:
   - https://www.circle.com/en/usdc
   - https://investor.coinbase.com/financials/sec-filings/default.aspx

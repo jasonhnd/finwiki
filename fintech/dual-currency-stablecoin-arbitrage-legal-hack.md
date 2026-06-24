@@ -4,8 +4,8 @@ aliases: [dual currency stablecoin arbitrage legal hack, stablecoin swap not fx 
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, fx, legal-hack, genius-501, mica, japan-psa, stablecoin]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.esma.europa.eu/policy-activities/crypto-assets-mica
   - https://www.circle.com/en/eurc
   - https://www.circle.com/en/usdc
-status: candidate
+status: active
 ---
 
 # 二通貨アービトラージ · §501 リーガル hack と規制脆弱性

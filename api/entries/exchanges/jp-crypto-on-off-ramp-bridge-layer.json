@@ -20,9 +20,9 @@
     "type": null,
     "created": "2026-05-24",
     "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
+    "confidence": "likely",
     "tags": [
       "exchanges",
       "on-ramp",
@@ -100,7 +100,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4164,
+    "nonspace_chars": 4162,
     "word_like_tokens": 681,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-24"

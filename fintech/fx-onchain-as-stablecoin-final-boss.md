@@ -6,16 +6,16 @@ kind: knowledge
 topic: fx-onchain-as-stablecoin-final-boss
 created: 2026-05-12
 last_updated: 2026-05-18
-last_tended: 2026-05-12
-review_by: 2026-11-12
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 evidence_count: 3
 challenges: 0
 status: confirmed
 tags: [fintech, stablecoin, fx, settlement-risk]
 sources:
-  - "BIS / CPMI public materials on foreign-exchange settlement risk and payment-versus-payment."
-  - "Public CLS and central-bank materials on FX settlement and Herstatt risk."
+  - "BIS Quarterly Review on FX settlement risk and Herstatt risk: https://www.bis.org/publ/qtrpdf/r_qt2606c.htm"
+  - "CLS ShapingFX material on FX settlement risk and PvP settlement: https://www.cls-group.com/insights/the-fx-ecosystem/fx-ecosystem-02-fx-settlement-risk-to-pvp-or-not-to-pvp-shapingfx-series/"
   - "Public stablecoin / tokenized-deposit disclosures related to cross-border settlement."
 ---
 

@@ -6,11 +6,11 @@ kind: thesis
 topic: 2022-three-variable-cascade
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, macro, geopolitics, stablecoin, AI-agents]
-status: candidate
+status: active
 sources:
   - https://www.federalreserve.gov/monetarypolicy/openmarket.htm
   - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions

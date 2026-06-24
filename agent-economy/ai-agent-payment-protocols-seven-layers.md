@@ -4,8 +4,8 @@ aliases: [ai-agent-payment-seven-layers, AP2 x402 MCP A2A SPT ACP TAP 分層]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, ai-agent, payments, protocol-stack, ap2, x402, mcp, a2a]
 sources:
@@ -15,7 +15,7 @@ sources:
   - https://github.com/a2aproject/A2A
   - https://www.agentcommercekit.com/overview/concepts
   - https://docs.skyfire.xyz/
-status: candidate
+status: active
 ---
 
 # AI Agent 決済7プロトコル分層表

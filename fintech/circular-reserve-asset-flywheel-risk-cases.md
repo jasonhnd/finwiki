@@ -4,8 +4,8 @@ aliases: [circular reserve asset flywheel risk cases, BUIDL USDC concentration r
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, systemic-risk, stablecoin, reserve-concentration, genius-504, tokenized-mmf]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.congress.gov/bill/119th-congress/senate-bill/394
   - https://www.federalreserve.gov/publications/financial-stability-report.htm
   - https://app.rwa.xyz/treasuries
-status: candidate
+status: active
 ---
 
 # 準備金インターロック・フライホイール · 三層システミックリスク・シナリオ

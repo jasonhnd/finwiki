@@ -20,8 +20,8 @@
     "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-18",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "certain",
     "tags": [
       "agent-economy",
@@ -32,7 +32,7 @@
       "stripe",
       "self-custodial"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -82,7 +82,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2789,
+    "nonspace_chars": 2786,
     "word_like_tokens": 448,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-05-29"

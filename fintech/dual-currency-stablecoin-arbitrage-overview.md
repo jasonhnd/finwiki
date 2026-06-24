@@ -4,8 +4,8 @@ aliases: [dual currency stablecoin arbitrage overview, USDC EURC JPYC FX, on-cha
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, fx, stablecoin, usdc, eurc, jpyc, cross-border, interchange]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://jpyc.jp/
   - https://www.congress.gov/bill/119th-congress/senate-bill/394
   - https://www.bis.org/cpmi/publ/d220.htm
-status: candidate
+status: active
 ---
 
 # 二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス

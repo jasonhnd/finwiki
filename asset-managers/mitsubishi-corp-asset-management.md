@@ -11,9 +11,9 @@ aliases:
 domain: asset-managers
 created: 2026-05-24
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, mitsubishi-corp, real-estate-am, j-reit, group-am]
 status: active
 sources:

@@ -4,8 +4,8 @@ aliases: [bis-project-ensemble-vs-mbridge-dual-track, hkma dual track ensemble m
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, hkma, hong-kong, ensemble, mbridge, dual-track, rmb-internationalization]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
   - https://www.pbc.gov.cn/en/3688110/index.html
   - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
-status: candidate
+status: active
 ---
 
 # HKMA デュアル・トラック戦略 · Ensemble × mBridge

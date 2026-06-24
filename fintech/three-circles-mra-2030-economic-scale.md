@@ -4,8 +4,8 @@ aliases: [three circles MRA economic scale, $130B 三円 2030, white-vs-gray rin
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, number, economic-pattern, mra, genius, mica, epi, white-gray-ring, 2030-forecast]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.fsa.go.jp/en/policy/sftl/index.html
   - https://www.bis.org/cpmi/publ/d215.htm
   - https://www.imf.org/en/Publications/WEO
-status: candidate
+status: active
 ---
 
 # 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル

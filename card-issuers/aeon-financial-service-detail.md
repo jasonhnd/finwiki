@@ -13,9 +13,9 @@ aliases:
 domain: card-issuers
 created: 2026-05-25
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [JapanFG, corporate-finance, captive-finance, dentsu, CVC, ventures, media-finance]
 status: active
 sources:

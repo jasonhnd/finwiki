@@ -6,11 +6,11 @@ kind: knowledge
 topic: l1-progressive-decentralization-three-phase
 created: 2026-05-16
 last_updated: 2026-05-16
-last_tended: 2026-05-16
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, blockchain, l1, decentralization, governance, consensus, arc]
-status: candidate
+status: active
 sources:
   - https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
   - https://www.arc.io/

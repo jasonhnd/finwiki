@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
-    "review_by": "2027-05-18",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -30,7 +30,7 @@
       "web3-ip",
       "fan-token"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -103,7 +103,7 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 7166,
+    "nonspace_chars": 7163,
     "word_like_tokens": 1190,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-24"

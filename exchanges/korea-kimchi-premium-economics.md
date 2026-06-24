@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -18,7 +18,7 @@ tags:
   - arbitrage
 sources:
   - https://upbit.com/
-status: candidate
+status: active
 ---
 
 # 韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造

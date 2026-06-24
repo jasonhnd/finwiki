@@ -4,11 +4,11 @@ aliases: [tokenized-mmf-wisdomtree-hashnote, WTGXX, USYC, Hashnote USYC, WisdomT
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, tokenization, mmf, wisdomtree, hashnote, usyc, wtgxx, rwa, second-tier, comparison-matrix]
-status: candidate
+status: active
 sources:
   - https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx
   - https://www.wisdomtree.com/insights/wisdomtree-prime

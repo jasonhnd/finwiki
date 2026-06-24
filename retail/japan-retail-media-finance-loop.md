@@ -8,9 +8,9 @@ aliases:
 domain: "retail"
 created: 2026-06-03
 last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-09-22
+confidence: likely
 tags: [retail, retail-media, loyalty, payments, financial-services, data, advertising]
 status: active
 sources:

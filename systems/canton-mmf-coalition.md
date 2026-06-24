@@ -4,13 +4,13 @@ aliases: [canton-mmf-coalition, gs-dap, bny-liquiditydirect, dtcc-project-ion]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, dlt, canton, mmf, tokenization, jpm, goldman, bny, dtcc]
 sources:
   - https://www.canton.network/
-status: candidate
+status: active
 ---
 
 # Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線

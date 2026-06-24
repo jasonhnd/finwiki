@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ sources:
   - https://hiddenroad.com/
   - https://falconx.io/
   - https://www.galaxy.com/
-status: candidate
+status: active
 ---
 
 # グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland

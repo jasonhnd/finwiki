@@ -6,8 +6,8 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - fintech
@@ -15,7 +15,7 @@ tags:
   - vasp
   - btm
   - kansai
-status: candidate
+status: active
 sources:
   - https://www.gaia-btm.com/company/
   - https://www.gaia-btm-service.com/

@@ -21,9 +21,9 @@
     "type": null,
     "created": "2026-05-25",
     "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
       "exchanges",
       "cex",
@@ -32,13 +32,14 @@
       "regulatory-ambiguity",
       "gray-market"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "公開情報整理 (State Bank of Vietnam / SBV 仮想通貨関連声明・通達, sbv.gov.vn)",
-      "公開情報整理 (Vietnam 財務省 / MoF 仮想資産税制・規制関連声明)",
+      "公開情報整理 (Vietnam Law on Digital Technology Industry No. 71/2025/QH15, https://english.luatvietnam.vn/lawonthedigitaltechnologyindustryno71-2025-qh15datedjune142025ofthenationalassembly-405695-doc1.html)",
+      "公開情報整理 (Chainalysis 2025 Global Crypto Adoption Index, https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/)",
+      "公開情報整理 (Vietnam crypto legal framework overview, https://www.pwc.com/vn/en/publications/2025/vietnam-cryptocurrencies.pdf)",
       "公開情報整理 (ONUS 公式 IR / About, goonus.io)",
       "公開情報整理 (Remitano 公式 IR / About, remitano.com)",
       "公開情報整理 (Vietnam crypto market reports Chainalysis Global Crypto Adoption Index)",
@@ -84,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5051,
-    "word_like_tokens": 829,
+    "nonspace_chars": 5384,
+    "word_like_tokens": 869,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-25"
   }

@@ -4,8 +4,8 @@ aliases: [tokenized deposit cumulative volume scale, $1.5T Kinexys cumulative, J
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, number, economic-pattern, tokenized-deposit, kinexys, jpmd, jpmorgan, institutional-only]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.jpmorgan.com/insights/payments/payments-trends
   - https://www.jpmorganchase.com/ir/news
   - https://www.bis.org/cpmi/publ/d215.htm
-status: candidate
+status: active
 ---
 
 # トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして

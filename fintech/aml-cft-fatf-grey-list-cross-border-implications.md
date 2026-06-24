@@ -4,8 +4,8 @@ aliases: [fatf-cross-border-implications, FATF grey list MRA, FATF stablecoin ga
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, law, regulation, aml, fatf, mra, stablecoin, jurisdiction]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions
   - https://www.fincen.gov/resources/statutes-and-regulations
   - https://www.imf.org/external/np/leg/amlcft/eng/
-status: candidate
+status: active
 ---
 
 # FATF 評価のクロスボーダー・コンプライアンス含意 · §501(d) 入リスト資格の前置フィルター層

@@ -6,11 +6,11 @@ kind: framework
 topic: enterprise-procurement-deadline-anchor
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, enterprise-sales, B2B, timing-analysis, stablecoin]
-status: candidate
+status: active
 sources:
   - https://www.gartner.com/en/research/methodologies/it-budget
   - https://www.idc.com/

@@ -4,13 +4,13 @@ aliases: [solana-saga-seeker-mobile-stack-overview, solana-saga, solana-seeker, 
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, wallet, mobile, solana, saga, seeker, seed-vault, mwa]
 sources:
   - https://docs.solanamobile.com/
-status: candidate
+status: active
 ---
 
 # Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)

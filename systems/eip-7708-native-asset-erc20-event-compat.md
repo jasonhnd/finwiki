@@ -6,11 +6,11 @@ kind: knowledge
 topic: eip-7708-native-asset-erc20-event-compat
 created: 2026-05-16
 last_updated: 2026-05-16
-last_tended: 2026-05-16
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, eip, ethereum, erc20, indexer, arc, usdc, evm-compat]
-status: candidate
+status: active
 sources:
   - https://eips.ethereum.org/EIPS/eip-7708
 ---

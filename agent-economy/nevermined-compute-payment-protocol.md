@@ -8,11 +8,11 @@ aliases:
 domain: "agent-economy"
 created: 2026-05-25
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [agent-economy, payment, nevermined, compute-marketplace, per-inference, micropayment, x402]
-status: candidate
+status: active
 sources:
   - "https://nevermined.io/"
   - "https://docs.nevermined.io/"

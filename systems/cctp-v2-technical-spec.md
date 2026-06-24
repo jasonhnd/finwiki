@@ -4,13 +4,13 @@ aliases: [cctp-v2-spec, cctp-v2-fast-transfer, cctp-v2-hooks]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [systems, bridge, stablecoin, usdc, circle, cctp, technical-spec]
 sources:
   - https://developers.circle.com/stablecoins/docs/cctp-getting-started
-status: candidate
+status: active
 ---
 
 # CCTP V2 技術仕様 · Fast Transfer · Hooks · Attestation Service

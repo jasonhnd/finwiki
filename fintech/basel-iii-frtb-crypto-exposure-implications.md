@@ -4,8 +4,8 @@ aliases: [basel-iii-frtb-implications, BCBS USDC moat, BUIDL bank channel]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, law, regulation, basel, bank, stablecoin, usdc, buidl, capital]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.circle.com/en/transparency
   - https://securitize.io/products/buidl
   - https://www.federalreserve.gov/supervisionreg/topics/cryptoasset.htm
-status: candidate
+status: active
 ---
 
 # Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル

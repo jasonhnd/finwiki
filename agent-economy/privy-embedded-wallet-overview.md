@@ -4,13 +4,13 @@ aliases: [privy-embedded-wallet-overview, privy, stripe-privy, henri-stern]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [agent-economy, wallet, embedded-wallet, mpc, privy, stripe, self-custodial]
 sources:
   - https://docs.privy.io/
-status: candidate
+status: active
 ---
 
 # Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)

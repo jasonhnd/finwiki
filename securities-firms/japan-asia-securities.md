@@ -9,11 +9,11 @@ aliases:
 domain: securities-firms
 created: 2026-05-25
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [JapanFG, securities, independent, mid-cap, FIEA-type-1, asia]
-status: candidate
+status: active
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
   - "https://www.jsda.or.jp/about/kaiin/list.html"
