@@ -20,9 +20,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -33,10 +33,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)",
-      "Wikipedia: 十六銀行 (2026-05-19 抽出)",
+      "Juroku FG: Annual Report 2024 (https://www.16fg.co.jp/ir/disclosure/files/annual_report_2024.pdf)",
+      "Juroku FG: Annual Report 2023 overview / group companies (https://www.16fg.co.jp/ir/disclosure/files/annual_report_2023_01.pdf)",
       "金融庁: 銀行の合併について (十六銀行・岐阜銀行) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html",
-      "Wikipedia: 岐阜銀行 https://ja.wikipedia.org/wiki/岐阜銀行 (2026-05-29 確認)"
+      "FSA: bank license workbook, Juroku Bank verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -80,8 +80,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3890,
-    "word_like_tokens": 570,
+    "nonspace_chars": 4363,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-21"
   }

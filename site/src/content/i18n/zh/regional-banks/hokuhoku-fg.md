@@ -1,105 +1,113 @@
 ---
 source: regional-banks/hokuhoku-fg
-source_hash: 8b4044c942af1571
+source_hash: 9ea736173cc6b592
 lang: zh
 status: machine
 fidelity: ok
-title: "ほくほく FG (Hokuhoku FG)"
-translated_at: 2026-06-19T12:43:19.902Z
+title: "Hokuhoku FG（ほくほく FG）"
+translated_at: 2026-06-24T00:00:00.000Z
 ---
 
-# ほくほく FG (Hokuhoku FG)
+# Hokuhoku FG（ほくほく FG）
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读以把握同业语境，也可结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
 
 ## TL;DR
 
-北陆 3  县（富山・石川・福井）+ 北海道的 **2  据点广域地银 FG**。2003-09-26 北陆银行通过单独股份转移实现控股公司化（旧「ほくぎん FG」），2004-09-01 与北海道银行经营整合后成立 **ほくほく FG**。**地理长尾战略**（北陆 + 北海道的远距离 2  地盘）是其最大特征，是日本银行史上首个「相隔地区的地银之间的广域联合」模式。北陆银行是富山县地盘的旧第十二国立银行（1877  创立）系，北海道银行是札幌地盘的战后设立（1951）行。在北海道与 **[[megabanks/ndfg]]（北洋银行）** 形成竞争格局，在北陆则为富山县内 main bank 地位。^[extracted]
+Hokuhoku FG 是覆盖北陆三县（富山、石川、福井）+ 北海道的 **双据点广域地方银行金融集团**。Hokuhoku FG 的 corporate data 说明，截至 2026-03-31，公司名为 Hokuhoku Financial Group, Inc.，设立日为 2003-09-26，上市市场为东证 Prime / 札证，事业目的为银行法允许范围内的子公司管理等。^[source:hokuhoku-overview-2026] 集团表将 The Hokuriku Bank 与 The Hokkaido Bank 并列列为核心子公司，两行的主业均为 Banking。^[source:hokuhoku-group-2026] 北陆银行和北海道银行也可在 FSA 银行牌照 workbook 中确认。^[source:fsa-ginkou-2026]
 
 ## 1. 公司概要
 
 **正式名称**：株式会社ほくほくフィナンシャルグループ
 **英文名**：Hokuhoku Financial Group, Inc.
 **证券代码**：东证 PRIME 8377 / 札证 8377
-**设立**：2003-09-26（北陆银行单独股份转移成立「ほくぎん FG」）
-**现法人成立**：2004-09-01（与北海道银行整合 → 改称 ほくほく FG）
-**总部**：富山县富山市堤町通り 1-2-26（北陆银行本店大楼）/ 札幌市中央区大通西 4-1（北海道银行本店大楼）2  总部制
+**设立**：2003-09-26（北陆银行通过单独股份转移成立“ほくぎん FG”）
+**现法人成立**：2004-09-01（与北海道银行整合后改称ほくほく FG）
+**总部**：富山县富山市堤町通り 1-2-26。^[source:hokuhoku-overview-2026]
+**高管结构**：President 为 Hiroshi Nakazawa（President, Hokuriku Bank），Deputy President 为 Yuji Kanema（President, Hokkaido Bank），明确体现以两家核心银行为前提的控股公司运营。^[source:hokuhoku-overview-2026]
 
-### 主要子公司・持股
+### 主要子公司与持股
 
 ```
-ほくほく FG（控股公司・上市 8377）
-  ├── 北陆银行（100%）── 富山县本店・北陆 3  县地盘核心
+Hokuhoku FG（控股公司・上市 8377）
+  ├── 北陆银行（100%）── 富山县本店・北陆 3 县地盘核心
   │     ├── 富山县（本店地盘、县内 main bank 地位）
-  │     ├── 石川县（金泽为中心）
+  │     ├── 石川县（金泽中心）
   │     ├── 福井县
-  │     └── 关东・关西・北海道・东北 等县外分行也在历史上展开
+  │     └── 历史上也展开至关东、关西、北海道、东北等县外分行
   ├── 北海道银行（100%）── 札幌本店・北海道地盘
-  │     └── 北海道全域、札幌都市圈 + 函馆・旭川・带广・钏路 等
-  ├── ほくほく TT 证券（北陆银行 / 北海道银行 系证券公司）
-  └── 各类租赁・卡・咨询子公司（北陆卡 / 道银卡 等）
+  │     └── 北海道全域，札幌都市圈 + 函馆、旭川、带广、钏路等
+  ├── ほくほく TT 证券（北陆银行 / 北海道银行系证券公司）
+  └── 北陆卡、道银卡等租赁、卡、咨询子公司
 ```
 
-### 合并经纬・前身
+### 双银行运营模型
 
-- 旧 **北陆银行**：1877  第十二国立银行 设立（富山）→ 1943  改称北陆银行（战时整合）
-- 旧 **北海道银行**：1951  设立（北海道地盘的战后新设地银。与明治时期的旧北海道银行=殖民地银行为不同法人）
-- **ほくぎん FG**：2003-09-26 北陆银行单独股份转移实现控股公司化
-- **ほくほく FG**：2004-09-01 与北海道银行整合 → 改称
+- Hokuhoku FG 官方集团表在 Hokuhoku Financial Group 下并列列出 The Hokuriku Bank 与 The Hokkaido Bank，并将 Hokuriku Bank 记为总部在 Toyama City 的 Banking 子公司，将 Hokkaido Bank 记为 main branch / head office 在 Sapporo 的 Banking 子公司。^[source:hokuhoku-group-2026]
+- 官方 corporate governance 页面说明，为强化控股公司的 group governance，集团将主要子公司 Hokuriku Bank 与 Hokkaido Bank 的人才相互任命为董事，以促进相互理解和 checks and balances。^[source:hokuhoku-governance-2026]
+- 因此，本页把 Hokuhoku FG 视为**上市控股公司统一管理北陆银行 + 北海道银行两家银行的模型**，而不是单一地银的广域分行网络。
+
+### 整合经过与前身
+
+- 旧 **北陆银行**：1877 年在富山设立第十二国立银行，1943 年在战时整合中改称北陆银行。
+- 旧 **北海道银行**：1951 年设立，是以北海道为地盘的战后新设地银；与明治期旧北海道银行不是同一法人。
+- **ほくぎん FG**：2003-09-26，北陆银行通过单独股份转移实现控股公司化。
+- **ほくほく FG**：2004-09-01，与北海道银行整合并改称。
 
 ### 重要年表 ^[extracted]
 
-| 年月 | 事件 |
+| 日期 | 事件 |
 |---|---|
-| 1877 | 第十二国立银行（北陆银行前身）设立（富山）|
-| 1943 | 北陆银行 改称（战时整合）|
-| 1951 | 北海道银行 设立（战后新设）|
-| **2003-09-26** | **北陆银行单独股份转移设立「ほくぎん FG」** |
-| **2004-09-01** | **与北海道银行整合 → 改称 ほくほく FG** |
-| 2004  以降 | 系统整合・营业网点网络重组 |
-| 2024 | 制定中期经营计划（地银重组・数字化投资方针）|
+| 1877 | 北陆银行前身第十二国立银行在富山设立。 |
+| 1943 | 战时整合中改称北陆银行。 |
+| 1951 | 北海道银行作为战后新设地银成立。 |
+| **2003-09-26** | **北陆银行通过单独股份转移设立ほくぎん FG**。^[source:hokuhoku-ar-2006] |
+| **2004-09-01** | **与北海道银行整合并改称ほくほく FG**。^[source:hokuhoku-ar-2006] |
+| 2004 以后 | 系统整合与营业网点网络重组。 |
+| 2024 | 制定中期经营计划，涉及地银重组与数字化投资方向。 |
 
-## 2. 业务分部・地图
+## 2. 业务分部地图
 
-| 分部 | 主要事业者 | 特征 |
+| 分部 | 主要运营主体 | 特征 |
 |---|---|---|
-| 北陆地盘 | 北陆银行 | 富山县 main bank，向石川・福井展开 |
-| 北海道地盘 | 北海道银行 | 札幌都市圈为中心，与道内 [[megabanks/ndfg]]（北洋银行）竞争 |
-| 县外网络 | 北陆银行（关东・关西・北海道）| 战后早期即开始县外展开，在东京・大阪设有大型网点 |
-| 证券・卡・租赁 | ほくほく TT 证券 / 北陆卡 / 道银卡 等 | 集团周边金融 |
-| 观光・农业金融 | 两行 | 北陆新干线开业（2015）+ 北海道观光 / 农业 / 水产 |
+| 北陆地盘 | 北陆银行 | 富山县 main bank，并向石川、福井展开。 |
+| 北海道地盘 | 北海道银行 | 以札幌都市圈为中心，在北海道内与 [[megabanks/ndfg]]（北洋银行）竞争。 |
+| 县外网络 | 北陆银行（关东、关西、北海道）| 战后较早开展县外布局，在东京、大阪设有大型网点。 |
+| 证券・卡・租赁 | ほくほく TT 证券、北陆卡、道银卡等 | 集团表列出 securities、card、leasing、consulting、servicer、venture capital 等周边金融公司。^[source:hokuhoku-group-2026] |
+| 观光・农业金融 | 两行 | 北陆新干线开业 + 北海道观光、农业、水产。 |
 
 ### 地理长尾战略
 
-- **北陆 3  县（富山・石川・福井）+ 北海道** 的 2  据点广域联合
-- 日本银行整合史上「相隔地区的地银之间的广域联合」模式的先声
-- 城市地盘：札幌 / 富山 / 金泽 / 函馆 / 福井 等地方城市
-- 北陆新干线（2015-03  金泽开业，2024-03  敦贺延伸）→ 北陆 - 首都圈交通改善带来观光・商务资金流入机会
+- **北陆 3 县（富山、石川、福井）+ 北海道** 的双据点广域联合。
+- 在日本银行整合史中，是“相隔较远地区的地银之间广域联合”模式的先行案例。
+- 城市地盘包括札幌、富山、金泽、函馆、福井等地方城市。
+- 北陆新干线（金泽 2015-03 开业、敦贺 2024-03 延伸）改善了北陆与首都圈之间的交通，带来观光和商务资金流入机会。
 
-### 竞争格局
+### 竞争结构
 
-- **北海道**：与 [[megabanks/ndfg]]（北洋银行）的激烈竞争。北海道银行处于份额 2 位 地位
-- **富山县**：县内 main bank 地位（与富山第一银行 等第二地银差异化）
-- **石川县**：与北国银行 / 北国 FH 竞争
-- **福井县**：与福井银行 / 福邦银行 竞争
+- **北海道**：与 [[megabanks/ndfg]]（北洋银行）竞争激烈。北海道银行通常被视为份额第二的银行。
+- **富山县**：县内 main bank 地位，与富山第一银行等第二地银形成差异化。
+- **石川县**：与北國银行 / 北國 FH 竞争。
+- **福井县**：与福井银行 / 福邦银行竞争。
 
-### 观光・农业・水产金融
+### 观光、农业与水产金融
 
-- 北陆：观光（金泽・能登・立山黑部）+ 制造业（富山铝・药品・机械）
-- 北海道：观光（入境游）+ 农业 + 水产业 + 物流（千岁・苫小牧）
-- 两地盘的第一产业 / 观光权重都较高，与区域经济的联动很深
+- 北陆：观光（金泽、能登、立山黑部）+ 制造业（富山铝、药品、机械）。
+- 北海道：入境游、农业、水产和物流（千岁、苫小牧等）。
+- 两个地盘的一次产业和观光权重都较高，集团与区域经济周期联系紧密。
 
-## 4. 监管・政策
+## 4. 监管与政策
 
-- **主管**：金融厅（FSA）+ 北陆财务局 / 北海道财务局
-- **控股公司监管**：银行法 第 52  条之 17
+- **主管**：金融厅（FSA）+ 北陆财务局 / 北海道财务局。
+- **控股公司监管**：银行法第 52 条之 17。
+- **牌照边界**：银行牌照 workbook 可确认北陆银行和北海道银行。Hokuhoku FG 本身在官方 corporate data 中是以子公司管理等为目的的上市控股公司。^[source:fsa-ginkou-2026][source:hokuhoku-overview-2026]
 - **近期政策论点**：
-  - 2024〜 日银政策利率正常化 → 地银利差改善（北陆银行 / 北海道银行 两行均受益）
-  - 2025〜 地银重组加速（人口减少 + 数字化投资负担）
-  - 北陆新干线延伸（2024-03  敦贺）→ 福井县地盘的经济效应
-  - 2024-01  能登半岛地震 → 对北陆银行石川县・富山县地盘的影响与重建金融
+  - 2024 年以后日本央行政策利率正常化，对北陆银行 / 北海道银行两行的地银利差有改善作用。
+  - 2025 年以后，人口减少和数字化投资负担推动地银重组加速。
+  - 北陆新干线 2024-03 延伸至敦贺，对福井县地盘的经济效应。
+  - 2024-01 能登半岛地震对北陆银行石川县、富山县地盘及复兴金融的影响。
 
 ## Related
 
@@ -108,11 +116,13 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Sources
 
-- **Wikipedia: ほくほくフィナンシャルグループ**（https://ja.wikipedia.org/wiki/ほくほくフィナンシャルグループ, 2026-05-19 抽取）
-- **Wikipedia: 北陆银行**（https://ja.wikipedia.org/wiki/北陸銀行, 2026-05-19 抽取）
-- **Wikipedia: 北海道银行**（https://ja.wikipedia.org/wiki/北海道銀行, 2026-05-19 抽取）
+- **Hokuhoku FG**: Corporate Data (as of 2026-03-31) https://www.hokuhoku-fg.co.jp/english/info/overview/
+- **Hokuhoku FG**: Subsidiaries and an Affiliate https://www.hokuhoku-fg.co.jp/english/info/group/
+- **Hokuhoku FG**: Corporate Governance https://www.hokuhoku-fg.co.jp/english/info/governance/corporategovernance/
+- **Hokuhoku FG**: Annual Report 2006（2003 stock-swap establishment and 2004 integration history）https://www.hokuhoku-fg.co.jp/english/financial/docs/fg_ar2006.pdf
+- **FSA**: bank license workbook, `ginkou.xlsx`（已确认北陆银行、北海道银行，2026-06-24）https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
 
 ---
 
-> [!info] 验证状况
-> confidence: **likely**（基于 v1.0  Wikipedia 验证 2026-05-19）。沿革・2  总部体制・子公司结构已凭公开信息确定。决算数值本版未收录（需直接确认 ほくほく FG 有价证券报告书）。2024  中计的具体数值・能登半岛地震的地盘影响有待公开资料更新。
+> [!info] 验证状态
+> confidence: **likely**（2026-06-24）。核心两行、控股公司设立日与事业目的、governance model 已由官方资料确认。竞争份额、区域贷款 / 存款份额、能登半岛地震影响在本版不作断言。

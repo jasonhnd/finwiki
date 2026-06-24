@@ -1,130 +1,129 @@
 ---
 source: regional-banks/juroku-fg
-source_hash: 73af20ed9bcfd9f3
+source_hash: 967c7fc5125e40d4
 lang: en
 status: machine
 fidelity: ok
-title: "Juroku FG (十六 FG / Juroku Financial Group)"
-translated_at: 2026-06-19T12:43:19.868Z
+title: "Juroku FG"
+translated_at: 2026-06-24T00:00:00.000Z
 ---
 
-# Juroku FG (十六 FG / Juroku Financial Group)
+# Juroku FG
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|Fukuoka FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-A regional-bank FG based in Gifu Prefecture. **Converted to a holding company via a sole share transfer of 2021-10-01 Juroku Bank.** Its core subsidiary bank is **Juroku Bank (established as the 16th National Bank in 1877-10 )**, which has long maintained the No.1  share within Gifu Prefecture. The name "Juroku" (sixteen) derives from the Meiji-era national-bank numbering (16th National Bank) and is one of the few examples among existing megabanks / regional banks that retains a "numbered bank" name. It sits on the **northern edge** of the Chukyo economic zone, sharing the in-prefecture share of Gifu with [[regional-banks/ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank), one of the prefecture's two strong banks. As a sole-bank HD conversion it was established relatively late nationally (2021). ^[extracted]
+Juroku FG is a regional-bank financial group based in Gifu Prefecture. Juroku FG Annual Report 2024 explains that, after more than 140 years of history, Juroku Financial Group was established in 2021-10, shifted to a holding-company structure, and repositioned its business model toward a comprehensive regional financial-services group.^[source:juroku-ar-2024] Its core subsidiary bank is **Juroku Bank, established in 1877 as the Sixteenth National Bank**, and Juroku Bank is also confirmed in the FSA bank-license workbook.^[source:juroku-ar-2024][source:fsa-ginkou-2026] The former Gifu Bank relationship is confirmed by an FSA public notice dated 2012-09-10, which approved the merger with Juroku Bank and set the planned merger date as 2012-09-18.^[source:fsa-juroku-gifu-merger-2012]
 
 ## 1. Company overview
 
 **Legal name**: 株式会社十六フィナンシャルグループ
 **English name**: Juroku Financial Group, Inc.
 **Securities code**: TSE PRIME 7380
-**Established**: 2021-10-01 (transition to a holding-company structure via sole share transfer of Juroku Bank) ^[extracted]
+**Established**: 2021-10-01 (transitioned to a holding-company structure through Juroku Bank's sole share transfer) ^[extracted]
 **Head office**: Gifu City, Gifu Prefecture
 **Main subsidiary**: Juroku Bank (core subsidiary bank) ^[extracted]
 
-### Main subsidiaries / affiliates
+### Major subsidiaries / affiliates
 
 ```
 Juroku FG (holding company, TSE PRIME 7380)
-  ├── Juroku Bank (100%) ── core subsidiary bank, established 1877 , Gifu Prefecture No.1  regional bank
-  │     ├── In-prefecture operating base (Gifu, Ogaki, Tajimi, Takayama, and the whole prefecture)
-  │     └── Expansion into western Aichi Prefecture (Ichinomiya, northern edge of the Nagoya area)
+  ├── Juroku Bank (100%) ── core subsidiary bank, established 1877, Gifu Prefecture No.1 regional bank
+  │     ├── In-prefecture operating base (Gifu, Ogaki, Tajimi, Takayama, and the wider prefecture)
+  │     └── Expansion into western Aichi Prefecture (Ichinomiya and the northern edge of the Nagoya area)
   ├── Juroku Credit Guarantee ── personal-loan guarantees
   ├── Juroku Lease ── equipment leasing
 ```
 
-### Former Juroku Bank lineage (origins)
+Annual Report 2024 describes Juroku FG as a group of 12 companies, including Juroku FG and the core company The Juroku Bank.^[source:juroku-ar-2024] Annual Report 2023 overview also shows that both Juroku FG and Juroku Bank hold JCR long-term issuer ratings of A+, so the holding company and the core bank should be read as distinct entities.^[source:juroku-ar-2023]
 
-- **1877-10**: **16th National Bank** established (Gifu), the 16 th in the numbering under the Meiji-era National Bank Act
-- **1896**: Incorporation (the transition period from national bank to ordinary bank)
-- **1898**: Renamed **Juroku Bank** (name reorganization accompanying the conversion to an ordinary bank)
-- **1949**: Listed on the TSE (the postwar regional-bank listing wave)
+### Former Juroku Bank lineage
+
+- **1877-10**: **Sixteenth National Bank** established in Gifu, the 16th numbered bank under the Meiji-era National Bank Act.
+- **1896**: Incorporated during the transition from national banks to ordinary banks.
+- **1898**: Renamed **Juroku Bank** in connection with the conversion to an ordinary bank.
+- **1949**: Listed on the Tokyo Stock Exchange during the postwar regional-bank listing wave.
 
 ### Holding-company conversion
 
-- **2021-10-01**: **Juroku FG established** ─ transition to a joint-holding-company structure via sole share transfer of Juroku Bank ^[extracted]
-  - Sole-holding-company conversion was a **relatively late** timing within the regional-bank reorganization trend (megabanks / large regional banks completed holding-company conversion in the 2000 年s–2010 年s)
-- **2024**: Formulated a medium-term management plan (details should be confirmed against Juroku FG's official IR)
+- **2021-10-01**: **Juroku FG established**. Juroku Bank shifted to a holding-company structure and stated a business-model transition toward a comprehensive regional financial-services group.^[source:juroku-ar-2024]
+- **2024**: Medium-term management plan formulated; details should be checked against official Juroku FG IR.
 
-### Surrounding relationships
+### Adjacent relationships
 
-- Relationship with the former **Gifu Bank** (a separate legal entity with a history of financial difficulty) — **the counterpart that Juroku Bank rescued / absorbed**
-  - After becoming a close affiliate of the former Tokai Bank amid financial difficulty in the 1990 年s, Gifu Bank requested capital support from Juroku Bank in 2009-02 . Juroku Bank subscribed to preferred shares 25 億円
-  - **2010-12-22**: Juroku Bank (with the cooperation of Bank of Tokyo-Mitsubishi UFJ) acquired all of Gifu Bank's shares and made it a **wholly owned subsidiary**
-  - **2012-09-18**: Juroku Bank **absorbed and merged** Gifu Bank (the FSA approved it under Article 30  of the Banking Act), and Gifu Bank was dissolved. The intra-Gifu regional-bank landscape consolidated into the two strong banks "Juroku vs Ogaki Kyoritsu"
+- Relationship with the former **Gifu Bank**: on 2012-09-10, the FSA approved the merger of Juroku Bank and Gifu Bank under Banking Act Article 30, Paragraph 1. The post-merger trade name was to be Juroku Bank, the head office address was 8-26 Kandamachi, Gifu City, and the planned merger date was 2012-09-18.^[source:fsa-juroku-gifu-merger-2012]
 
-## 3. Business-segment map
+## 3. Business segment map
 
 | Segment | Characteristics |
 |---|---|
-| In-prefecture corporate | SMEs / local industries within Gifu Prefecture (textiles, ceramics, woodworking, auto parts) |
-| Chukyo-area corporate | Expansion of lending into western Aichi Prefecture (Ichinomiya, Bisai) + the northern edge of the Nagoya area |
-| Individual | Personal deposits / mortgages / asset management within Gifu Prefecture |
-| Tourism-related | Tourism-industry lending in Takayama, Gero Onsen, Shirakawa-go, etc. |
-| Manufacturing | Auto parts / electronic components (the northern edge of the Chukyo automotive-industry zone) |
-| Credit guarantee | Expansion of personal-loan guarantees via Juroku Credit Guarantee |
-| Leasing | SME capital-investment finance via Juroku Lease |
+| In-prefecture corporate | SMEs and local industries in Gifu Prefecture, including textiles, ceramics, woodworking, and auto parts. |
+| Chukyo-area corporate | Lending expansion into western Aichi Prefecture, including Ichinomiya / Bisai and the northern edge of the Nagoya area. |
+| Individuals | Personal deposits, mortgages, and asset management in Gifu Prefecture. |
+| Tourism-related | Lending to tourism operators around Takayama, Gero Onsen, Shirakawa-go, and related areas. |
+| Manufacturing | Auto parts and electronic components on the northern edge of the Chukyo automotive-industry zone. |
+| Credit guarantees | Part of a comprehensive financial-services model centered on Juroku Bank, grouping guarantees, leasing, consulting, and adjacent functions.^[source:juroku-ar-2024] |
+| Leasing | SME equipment-investment finance through Juroku Lease and related group companies.^[source:juroku-ar-2024] |
 
 ### Geographic positioning
 
-- **Across Gifu Prefecture**: branch network in major cities such as Gifu, Ogaki, Tajimi, and Takayama
-- **Expansion into western Aichi Prefecture**: expanding the operating base into Ichinomiya, Bisai, and the northern edge of the Nagoya area
-- **Northern edge of the Chukyo economic zone**: located on the periphery of the Chukyo area centered on Nagoya, competing with / dividing territory from the Aichi-Prefecture regional-bank group ([[megabanks/mufg]] former Tokai Bank lineage + Nagoya Bank + Aichi Bank)
+- **Across Gifu Prefecture**: branch network in major cities such as Gifu, Ogaki, Tajimi, and Takayama.
+- **Western Aichi expansion**: operating base expansion into Ichinomiya, Bisai, and the northern edge of the Nagoya area.
+- **Northern edge of the Chukyo economy**: positioned on the periphery of the Nagoya-centered Chukyo economic zone, competing and dividing territory with Aichi regional-bank players, including [[megabanks/mufg]]'s former Tokai Bank lineage plus Nagoya Bank and Aichi Bank.
 
 ### Competition in the Chukyo economic zone
 
-- Competition with **Nagoya Bank / Aichi Bank** ([[regional-banks/aichi-fg|aichi-bank]], etc.) in western Aichi Prefecture
+- Competition in western Aichi Prefecture with **Nagoya Bank / Aichi Bank** and related players such as [[regional-banks/aichi-fg|aichi-bank]].
 
 ### Industrial base
 
-- **Manufacturing**: auto parts (peripheral suppliers of the Chukyo automotive-industry zone), electronic components, textiles / ceramics (Mino-yaki)
-- **Tourism**: Takayama (old townscape), Gero Onsen, Shirakawa-go (World Heritage), Nagara-river cormorant fishing, etc.
-- **Woodworking**: local industries such as Hida furniture
+- **Manufacturing**: auto parts suppliers around the Chukyo automotive-industry zone, electronic components, textiles, and ceramics such as Mino ware.
+- **Tourism**: Takayama old town, Gero Onsen, Shirakawa-go World Heritage area, Nagara River cormorant fishing, and related tourism.
+- **Woodworking**: local industries such as Hida furniture.
 
-### Semiconductor-related special demand in the Chubu economic zone, including TSMC's entry
+### Unverified topics
 
-- The ripple effect of the TSMC Kumamoto plant (JASM) is recognized as an expansion of the semiconductor ecosystem across the Chukyo area as a whole
+- Semiconductor-related demand, western Aichi expansion, and in-prefecture share trends remain important follow-up topics. This version limits itself to facts directly confirmed in Juroku FG public IR or public-agency materials, and does not assert spillover effects from specific companies or factory projects.
 
-## 5. Regulation / policy
+## 5. Regulation / Policy
 
-- **Supervision**: Financial Services Agency (FSA) + Tokai Local Finance Bureau
-- **Holding-company regulation**: Banking Act Article 52 -17
+- **Supervisors**: Financial Services Agency (FSA) plus the Tokai Local Finance Bureau.
+- **Holding-company regulation**: Banking Act Article 52-17.
+- **Core-bank license**: Juroku Bank is confirmed in the FSA workbook.^[source:fsa-ginkou-2026]
 - **Recent policy points**:
-  - 2024〜 BoJ policy-rate normalization → earnings-margin improvement bonus for regional banks
-  - Regional-bank reorganization pressure under regional revitalization / population decline (Gifu Prefecture's population decline is in line with the national average)
-  - The direction of wide-area regional-bank alliances within the Chukyo economic zone
-  - DX investment / shared use of core-banking-system renewal among regional banks
+  - BOJ policy-rate normalization from 2024, which can improve regional-bank margins.
+  - Regional-bank restructuring pressure under regional revitalization and population decline.
+  - The direction of wide-area regional-bank alliances within the Chukyo economic zone.
+  - DX investment and shared core-banking-system renewal among regional banks.
 
 ## 7. Open questions
 
-- How will the in-prefecture share balance with Ogaki Kyoritsu Bank evolve over the medium-to-long term?
-- How effective is the expansion of operating bases into western Aichi Prefecture (Ichinomiya, Bisai)?
-- What is the degree of ripple effect of the Chukyo semiconductor special demand (TSMC-related) onto manufacturing within Gifu Prefecture?
-- What is the direction of wide-area alliances through the Chubu regional-bank network (DCM, etc.)?
-- What are the options for the digital strategy / core-system sharing in the next medium-term plan?
-- What is the scenario for non-bank subsidiary expansion following the holding-company conversion (2021)?
+- How will the in-prefecture share balance with Ogaki Kyoritsu Bank evolve over the medium to long term?
+- How effective is the operating-base expansion into western Aichi Prefecture, including Ichinomiya / Bisai?
+- How much semiconductor-related demand in the Chukyo area will flow through to Gifu manufacturers?
+- What direction will wide-area alliances through Chubu regional-bank networks take?
+- What options will the next medium-term plan present for digital strategy and core-system sharing?
+- What non-bank subsidiary expansion scenario follows the 2021 holding-company conversion?
 
 ### Related
 
-- [[regional-banks/ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank, one wing of Gifu Prefecture's two strong banks)
-- [[regional-banks/san-jusan-fg]] (Sanjusan FG, an adjacent Mie-Prefecture regional bank, the Kansai-leaning boundary of the Chukyo economic zone)
-- [[megabanks/mufg]] (former Tokai Bank lineage, megabank of the Chukyo economic zone)
-- [[regional-banks/shizuoka-fg]] (Shizuoka FG, a wide-area regional bank on the eastern edge of the Chukyo economic zone)
-- [[regional-banks/hokuhoku-fg]] (Hokuriku economic zone, geographically close to the northern edge of Gifu)
+- [[regional-banks/ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank, one of Gifu Prefecture's two major regional-bank groups)
+- [[regional-banks/san-jusan-fg]] (Sanjusan FG, an adjacent Mie regional bank on the Kansai-leaning side of the Chukyo economy)
+- [[megabanks/mufg]] (former Tokai Bank lineage and megabank of the Chukyo economy)
+- [[regional-banks/shizuoka-fg]] (Shizuoka FG, a wide-area regional bank on the eastern edge of the Chukyo economy)
+- [[regional-banks/hokuhoku-fg]] (Hokuriku economic zone, geographically close to northern Gifu)
 
 ### Sources
 
-- **Wikipedia: 十六フィナンシャルグループ** (https://ja.wikipedia.org/wiki/十六フィナンシャルグループ, extracted 2026-05-19)
-- **Wikipedia: 十六銀行** (https://ja.wikipedia.org/wiki/十六銀行, extracted 2026-05-19)
-- **FSA: On bank mergers** (the merger approval of Juroku Bank / Gifu Bank, 2012-09-10) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html — Gifu Bank was absorbed and merged **into Juroku Bank** in 2012-09-18 (not Ogaki Kyoritsu Bank)
-- **Wikipedia: 岐阜銀行** https://ja.wikipedia.org/wiki/岐阜銀行 (confirmed 2026-05-29) — 2009  capital-support request → 2010-12-22 wholly-owned subsidiary of Juroku Bank → 2012-09-18 absorbed and merged into Juroku Bank
+- **Juroku FG**: Annual Report 2024 https://www.16fg.co.jp/ir/disclosure/files/annual_report_2024.pdf
+- **Juroku FG**: Annual Report 2023 overview / group companies https://www.16fg.co.jp/ir/disclosure/files/annual_report_2023_01.pdf
+- **FSA**: Notice on bank merger approval for Juroku Bank and Gifu Bank, 2012-09-10 https://www.fsa.go.jp/news/24/ginkou/20120910-1.html
+- **FSA**: bank license workbook, `ginkou.xlsx` (Juroku Bank verified, 2026-06-24) https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  Wikipedia public-information based, 2026-05-19). The history (1877  16th National Bank → 1898  Juroku Bank → 2021  Juroku FG) is confirmed via Wikipedia; specific financial figures / details of the latest medium-term plan are not listed. The latest results / branch network / strategy should be confirmed against Juroku FG's official IR. The in-prefecture competitive landscape (vs Ogaki Kyoritsu) and the positioning within the Chukyo economic zone include inferences from public information.
+> confidence: **likely** (2026-06-24). The holding-company conversion, Juroku Bank core structure, and Gifu Bank merger approval are confirmed from official IR / FSA materials. Market share, semiconductor spillover, and branch-expansion effects remain unverified topics.
