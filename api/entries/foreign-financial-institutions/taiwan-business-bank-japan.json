@@ -19,9 +19,9 @@
     "domain": "foreign-financial-institutions",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,9 +35,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.zenginkyo.or.jp/bankdb/bc0633/",
-      "https://www.tbb.com.tw/en-us/-/media/tbb/files/en-us/about/locations/overseas/tokyo-jp/personal-information-management-policy.pdf?hash=74B7AC17C2354067B60B89F49F6AA52F&sc_lang=en-us"
+      "FSA: bank license workbook, 台湾中小企業銀行 verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)",
+      "Japanese Bankers Association: Taiwan Business Bank bank database entry (https://www.zenginkyo.or.jp/bankdb/bc0633/)",
+      "Japanese Bankers Association: List of Members, Taiwan Business Bank under Associate Members / Foreign Banks (as of 2026-05-07, https://www.zenginkyo.or.jp/en/outline/list-of-members/)",
+      "Taiwan Business Bank: Tokyo Branch basic info (https://www.tbb.com.tw/en-us/about/locations/overseas/tokyo)",
+      "Taiwan Business Bank: Histories, SME-specialized bank and global networks (https://www.tbb.com.tw/en-us/about/brief/histories)",
+      "Taiwan Business Bank: Overseas Units, Tokyo Branch contact row (https://www.tbb.com.tw/en-us/about/locations/overseas)"
     ]
   },
   "summary": "Taiwan Business Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Industrial Bank of Korea Japan for SME-bank comparison, Chang Hwa Bank Japan for Taiwan peer context, and banking index for the",
@@ -78,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3830,
-    "word_like_tokens": 607,
+    "nonspace_chars": 5949,
+    "word_like_tokens": 973,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-21"
   }

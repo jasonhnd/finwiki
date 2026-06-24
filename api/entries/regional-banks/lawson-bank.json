@@ -20,9 +20,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -34,11 +34,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 株式会社ローソン銀行 (2026-05-19 抽出)",
-      "Wikipedia: 株式会社ローソン (2026-05-19 抽出)",
-      "ローソン銀行 公式 IR (https://www.lawsonbank.jp/)",
-      "ローソン銀行公式「数字でわかるローソン銀行」ATM 設置台数 13,889 台 (2025-03末, https://www.lawsonbank.jp/about/intro/data/data_0001.html)",
-      "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)"
+      "Lawson news release: FSA completes preliminary examination for Lawson Bank banking license (2018-06-26, https://www.lawson.jp/en/news/detail/1336522_3566.html)",
+      "FSA: bank license workbook, ginkou.xlsx (verified 2026-06-24, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)",
+      "Lawson Bank disclosure 2025: ATM count 13,889 as of 2025-03 (https://www.lawsonbank.jp/corporate/pdf/20250714_01_disclosure.pdf)",
+      "Japanese Bankers Association: List of Members, Lawson Bank under Other Banks (as of 2026-05-07, https://www.zenginkyo.or.jp/en/outline/list-of-members/)",
+      "Seven Bank: overseas-card ATM page, over 28,000 ATMs at 7-Eleven and other locations (https://www.sevenbank.co.jp/intlcard/index2.html)"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -84,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3347,
-    "word_like_tokens": 609,
+    "nonspace_chars": 4606,
+    "word_like_tokens": 767,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-06-21"
   }
