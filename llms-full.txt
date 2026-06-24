@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-24T16:26:07+09:00
+Generated: 2026-06-24T17:11:57+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -6675,7 +6675,7 @@ Public pages listed: 1564
 - Type: wiki_entry
 - Summary: This entry sits under foreign-financial-institutions INDEX. Read it against 兆豐國際商業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 中國信託商業銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan, https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/foreign-financial-institutions/INDEX, https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan, https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan, https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan, https://finwiki.zksc.io/regional-banks/sbj-bank, https://finwiki.zksc.io/regional-banks/tokyo-star-bank
 
 ### DBS銀行 東京支店
 - URL: https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan
@@ -11540,7 +11540,7 @@ Public pages listed: 1564
 - Domain: regional-banks
 - Type: wiki_entry
 - Summary: This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: ほくほく FG (Hokuhoku FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, 合併経緯・前身, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: ほくほく FG (Hokuhoku FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, Dual-bank operating model, 合併経緯・前身, 重要年表 ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/resona-hd, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-fg
 
 ### 北陸銀行

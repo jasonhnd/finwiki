@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-24T16:26:07+09:00",
+  "generated_at": "2026-06-24T17:11:57+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11122386,
-    "word_like_tokens": 1795109,
+    "nonspace_utf8_chars": 11131206,
+    "word_like_tokens": 1796508,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -11954,7 +11954,7 @@
       "entity_edges": [],
       "nonspace_chars": 2915,
       "word_like_tokens": 469,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -12104,7 +12104,7 @@
       "entity_edges": [],
       "nonspace_chars": 2919,
       "word_like_tokens": 493,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -12272,7 +12272,7 @@
       "entity_edges": [],
       "nonspace_chars": 3192,
       "word_like_tokens": 505,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -43831,7 +43831,9 @@
         "foreign-financial-institutions/INDEX",
         "foreign-financial-institutions/bank-of-taiwan-japan",
         "foreign-financial-institutions/esun-bank-japan",
-        "foreign-financial-institutions/mega-icbc-japan"
+        "foreign-financial-institutions/mega-icbc-japan",
+        "regional-banks/sbj-bank",
+        "regional-banks/tokyo-star-bank"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/banking/INDEX",
@@ -43839,13 +43841,15 @@
         "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
         "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
         "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
-        "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan"
+        "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
+        "https://finwiki.zksc.io/regional-banks/sbj-bank",
+        "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2217,
-      "word_like_tokens": 346,
+      "nonspace_chars": 4385,
+      "word_like_tokens": 692,
       "last_modified": "2026-06-21"
     },
     {
@@ -45458,8 +45462,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3830,
-      "word_like_tokens": 607,
+      "nonspace_chars": 5949,
+      "word_like_tokens": 973,
       "last_modified": "2026-06-21"
     },
     {
@@ -62294,7 +62298,7 @@
       ],
       "nonspace_chars": 3248,
       "word_like_tokens": 507,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -62397,7 +62401,7 @@
       "entity_edges": [],
       "nonspace_chars": 4251,
       "word_like_tokens": 675,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -62717,7 +62721,7 @@
       ],
       "nonspace_chars": 3107,
       "word_like_tokens": 494,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -63073,7 +63077,7 @@
       "entity_edges": [],
       "nonspace_chars": 3080,
       "word_like_tokens": 486,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -63502,7 +63506,7 @@
       "entity_edges": [],
       "nonspace_chars": 2948,
       "word_like_tokens": 478,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -73549,11 +73553,11 @@
         "TL;DR",
         "1. 会社概要",
         "主要子会社・持分",
+        "Dual-bank operating model",
         "合併経緯・前身",
         "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
-        "地理ロングテール戦略",
-        "競合構造"
+        "地理ロングテール戦略"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -73580,8 +73584,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3302,
-      "word_like_tokens": 550,
+      "nonspace_chars": 5061,
+      "word_like_tokens": 810,
       "last_modified": "2026-06-21"
     },
     {
@@ -74409,8 +74413,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3890,
-      "word_like_tokens": 570,
+      "nonspace_chars": 4363,
+      "word_like_tokens": 666,
       "last_modified": "2026-06-21"
     },
     {
@@ -75283,8 +75287,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3347,
-      "word_like_tokens": 609,
+      "nonspace_chars": 4606,
+      "word_like_tokens": 767,
       "last_modified": "2026-06-21"
     },
     {
@@ -76667,8 +76671,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1814,
-      "word_like_tokens": 276,
+      "nonspace_chars": 2901,
+      "word_like_tokens": 462,
       "last_modified": "2026-06-21"
     },
     {
@@ -96188,8 +96192,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3725,
-      "word_like_tokens": 693,
+      "nonspace_chars": 3680,
+      "word_like_tokens": 680,
       "last_modified": "2026-06-24"
     }
   ]

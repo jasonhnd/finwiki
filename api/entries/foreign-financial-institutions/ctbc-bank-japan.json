@@ -20,9 +20,9 @@
     "domain": "foreign-financial-institutions",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -37,9 +37,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://corporate.ctbcbank.com/jp/download/Application_JP.pdf",
-      "https://www.zenginkyo.or.jp/en/outline/list-of-members/"
+      "FSA: bank license workbook, 中國信託商業銀行 verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)",
+      "CTBC Bank Tokyo Branch: application form for Internet Banking / Fax Banking / Automated Message Notification (https://corporate.ctbcbank.com/jp/download/Application_JP.pdf)",
+      "CTBC Bank Tokyo Branch: Internet Banking Agreement and Disclosure, designated notice window (https://corporate.ctbcbank.com/jp/download/Agreement_JP.pdf)",
+      "Japanese Bankers Association: List of Members, CTBC Bank under Associate Members / Foreign Banks (as of 2026-05-07, https://www.zenginkyo.or.jp/en/outline/list-of-members/)",
+      "Tokyo Star Bank: About Our Shareholder (CTBC Bank, Taiwan), CTBC group profile (https://www.tokyostarbank.co.jp/foreign/en/profile/shareholder/)"
     ]
   },
   "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 兆豐國際商業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -54,14 +56,16 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bank-of-taiwan-japan",
       "foreign-financial-institutions/esun-bank-japan",
-      "foreign-financial-institutions/mega-icbc-japan"
+      "foreign-financial-institutions/mega-icbc-japan",
+      "regional-banks/sbj-bank",
+      "regional-banks/tokyo-star-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -69,14 +73,16 @@
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan"
+      "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
+      "https://finwiki.zksc.io/regional-banks/sbj-bank",
+      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2217,
-    "word_like_tokens": 346,
+    "nonspace_chars": 4385,
+    "word_like_tokens": 692,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-21"
   }

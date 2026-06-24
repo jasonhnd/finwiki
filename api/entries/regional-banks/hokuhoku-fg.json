@@ -20,9 +20,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -33,9 +33,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: ほくほくフィナンシャルグループ (2026-05-19 抽出)",
-      "Wikipedia: 北陸銀行 (2026-05-19 抽出)",
-      "Wikipedia: 北海道銀行 (2026-05-19 抽出)"
+      "Hokuhoku FG: Corporate Data, as of 2026-03-31 (https://www.hokuhoku-fg.co.jp/english/info/overview/)",
+      "Hokuhoku FG: Subsidiaries and an Affiliate (https://www.hokuhoku-fg.co.jp/english/info/group/)",
+      "Hokuhoku FG: Corporate Governance (https://www.hokuhoku-fg.co.jp/english/info/governance/corporategovernance/)",
+      "Hokuhoku FG: Annual Report 2006, integration history (https://www.hokuhoku-fg.co.jp/english/financial/docs/fg_ar2006.pdf)",
+      "FSA: bank license workbook, Hokuriku Bank and Hokkaido Bank verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -45,11 +47,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社・持分",
+    "Dual-bank operating model",
     "合併経緯・前身",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "地理ロングテール戦略",
-    "競合構造"
+    "地理ロングテール戦略"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -79,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3302,
-    "word_like_tokens": 550,
+    "nonspace_chars": 5061,
+    "word_like_tokens": 810,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-06-21"
   }
