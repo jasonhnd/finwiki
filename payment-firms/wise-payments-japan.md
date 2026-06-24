@@ -3,9 +3,9 @@ title: "Wise Payments Japan"
 aliases: ["Wise Japan", "Wise Payments Japan", "ワイズ・ペイメンツ・ジャパン", "ワイズ・ペイメンツ・ジャパン株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
-review_by: 2026-11-21
+last_updated: 2026-06-24
+last_tended: 2026-06-24
+review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, payments, remittance, cross-border, funds-transfer]
 status: active
@@ -24,7 +24,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-ワイズ・ペイメンツ・ジャパンは Wise group の日本法人で、公式 corporate page は第一種および第二種資金移動業者として登録番号を明示している。日本の cross-border remittance / multi-currency account 競争を見る際の代表 operator。
+ワイズ・ペイメンツ・ジャパンは Wise group の日本法人で、公式 corporate page は第一種および第二種資金移動業者として登録番号を明示している。日本の cross-border remittance / multi-currency account 競争を見る際の代表 operator。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
@@ -33,12 +33,14 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | Legal entity | ワイズ・ペイメンツ・ジャパン株式会社 |
 | Group | Wise Payments Limited / Wise plc |
 | Main lanes | Cross-border remittance, multi-currency account, Wise Business |
-| FSA registry route | FSA funds-transfer list: 関東財務局長 第00040号, Wise Payments Japan. |
+| FSA registry route | FSA funds-transfer list: 関東財務局長 第00040号, Wise Payments Japan. ^[verified-2026-06-24] |
+| Type boundary | Wise says the Japan entity provides services as a Type 1 and Type 2 funds-transfer provider. ^[verified-2026-06-24] |
 
 ## 2. Business role
 
-- Competes on transparent FX, cross-border account rails, and business remittance.
-- Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows, making it strategically different from smaller Type 2-only operators.
+- Competes on transparent FX, cross-border account rails, and business remittance; this makes the page closer to a remittance / multi-currency-account operator than to domestic code-payment wallets such as [[payment-firms/paypay]] or [[payment-firms/merpay]]. ^[verified-2026-06-24]
+- Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows; Wise's Japan licence announcement says Type 1 allows transfers up to JPY 150 million per transaction across more than 40 currencies. ^[verified-2026-06-24]
+- The same operating company still appears in the FSA funds-transfer list, so the page should be used for Japan licence checks rather than relying only on global Wise plc materials. ^[verified-2026-06-24]
 - A comparator against [[payment-firms/revolut-technologies-japan|Revolut]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/payoneer-japan|Payoneer]], [[payment-firms/sbi-remit|SBI Remit]], and [[payment-firms/western-union-japan|Western Union]].
 
 ## 3. Why this standalone page matters

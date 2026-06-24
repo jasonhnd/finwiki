@@ -19,9 +19,9 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2347,
-    "word_like_tokens": 374,
-    "inbound_wikilinks_count": 43,
+    "nonspace_chars": 3107,
+    "word_like_tokens": 494,
+    "inbound_wikilinks_count": 45,
     "last_modified": "2026-06-22"
   }
 }
