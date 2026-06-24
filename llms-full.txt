@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-24T11:52:37+09:00
+Generated: 2026-06-24T16:26:07+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -1484,7 +1484,7 @@ Public pages listed: 1564
 - Entity node: kind=operating_company scope=japan_core status=anchor
 - Summary: This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: PayPayカード (PayPay Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/rakuten-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix, https://finwiki.zksc.io/securities-firms/paypay-securities
+- First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/rakuten-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/paypay, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix, https://finwiki.zksc.io/securities-firms/paypay-securities
 
 ### ポケットカード (Pocket Card)
 - URL: https://finwiki.zksc.io/card-issuers/pocket-card
@@ -9823,7 +9823,7 @@ Public pages listed: 1564
   - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
 - Summary: This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/mercari-hd, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split
+- First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/mercari-hd, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
 
 ### 株式会社マネーフォワード (Money Forward)
 - URL: https://finwiki.zksc.io/payment-firms/money-forward
@@ -10071,7 +10071,7 @@ Public pages listed: 1564
 - Type: wiki_entry
 - Summary: This entry sits under payment-firms INDEX. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.
 - Headings: Wise Payments Japan, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/payoneer-japan, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payment-firms/revolut-technologies-japan, https://finwiki.zksc.io/payment-firms/sbi-remit, https://finwiki.zksc.io/payment-firms/western-union-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
+- First resolved wikilinks: https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/merpay, https://finwiki.zksc.io/payment-firms/payoneer-japan, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payment-firms/paypay, https://finwiki.zksc.io/payment-firms/revolut-technologies-japan, https://finwiki.zksc.io/payment-firms/sbi-remit, https://finwiki.zksc.io/payment-firms/western-union-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
 
 ### Zaim (ザイム)
 - URL: https://finwiki.zksc.io/payment-firms/zaim

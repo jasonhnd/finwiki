@@ -21,9 +21,9 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -43,8 +43,10 @@
       "https://corp.netprotections.com/ir/",
       "https://www.netprotections.com/",
       "https://atone.be/",
-      "https://aftee.jp/",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://np-kakebarai.com/",
+      "https://www.aftee.tw/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
     ]
   },
   "summary": "This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori",
@@ -93,8 +95,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3607,
-    "word_like_tokens": 554,
+    "nonspace_chars": 4251,
+    "word_like_tokens": 675,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-21"
   }

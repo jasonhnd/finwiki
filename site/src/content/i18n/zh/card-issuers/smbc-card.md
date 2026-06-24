@@ -1,41 +1,43 @@
 ---
 source: card-issuers/smbc-card
-source_hash: a93ea0e4b664b6e6
+source_hash: 1f9c7a3f5a80ae5e
 lang: zh
 status: machine
 fidelity: ok
-title: "三井住友卡 (SMCC)"
-translated_at: 2026-06-01T02:31:57.150Z
+title: "SMBC Card（三井住友カード）"
+translated_at: 2026-06-24T07:24:12.874Z
 ---
+# SMBC Card（三井住友カード）
 
-# 三井住友卡 (SMCC)
 
-## Wiki route
+## Wiki 路由
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可与 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 对照阅读，以理解同业 / 对比背景；也可与 [[payments/INDEX|payments index]] 一起阅读，以理解更广义的系统和监管边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。请结合 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|payments index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 
-三井住友卡是 [[megabanks/smfg|SMFG]] 卡、信贩和交易业务的核心运营公司。它不仅是发卡方，也整合面向加盟店的支付、交易服务，以及 Olive / V Point 周边的无现金触点，因此作为 [[payments/card-acquiring-japan-stack|card acquiring stack]] 的代表页面独立出来。
+三井住友卡是 [[megabanks/smfg|SMFG]] 的卡、信贩和交易业务核心运营公司。它不只是发卡机构；由于它统合商户支付、交易服务以及 Olive / V Point 周边的无现金触点，因此作为 [[payments/card-acquiring-japan-stack|card acquiring stack]] 的代表页面单独成页。^[verified-2026-06-24]
 
-## 1. 法人 / 牌照边界
+## 1. 实体 / 牌照边界
 
-| Item | Reading |
+| 项目 | 解读 |
 |---|---|
-| Legal entity | 三井住友卡株式会社 |
-| Group | [[megabanks/smfg|SMFG]] |
-| Main lanes | 信用卡、分期 / 信用销售、加盟店收单、交易服务 |
-| Regulatory route | 分期销售法 / METI 登记运营商名单；贷款和卡号处理披露应以官方页面核对。 |
+| 法人实体 | 三井住友カード株式会社 |
+| 集团 | [[megabanks/smfg|SMFG]] |
+| 主要通道 | 信用卡、分期 / 信用销售、商户收单、交易服务 |
+| 监管路径 | 分期销售法 / METI 信用交易材料；贷金和卡号处理披露应与官方页面核对。^[verified-2026-06-24] |
+| 公司简介范围 | 官方概要列出信用卡、借记 / 预付 / 其他支付、贷款、担保、信用销售、交易及相关业务。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 业务角色
 
-- 信用卡发行和加盟店服务位于 SMFG 零售无现金战略的中心。
-- 该公司连接银行账户、卡、积分、app 和加盟店受理 rails。
-- 它也是区分 SMFG 银行资产负债表业务与支付网络、信用销售业务的有用边界页。
+- 信用卡发行和商户服务位于 SMFG 零售无现金战略中心；官方公司页面描述的是信用卡、信用销售和交易业务，而不只是发卡。^[verified-2026-06-24]
+- 公司连接银行账户、卡、积分、App 和商户受理轨道。官方概要将 [[consumer-finance/smbc-consumer-finance]]、SMBC GMO PAYMENT 和 V Point Marketing 列为相关 / 子公司，使 SMCC 成为横跨 issuer、consumer-credit、merchant-payment 和 loyalty 各层的 hub。^[verified-2026-06-24]
+- 本页应作为 [[megabanks/smfg|SMFG]] 内部的 issuer-acquirer / transaction platform 边界阅读，而不是泛泛的信用卡品牌页。^[verified-2026-06-24]
+- 它也是区分 SMFG 银行资产负债表业务与支付网络 / 信用销售业务的有用边界页面。
 
-## 3. Why this standalone page matters
+## 3. 为何需要独立页面
 
-母公司 FG 页面会隐藏运营公司边界。分析 issuer economics、merchant-acquiring risk、卡号合同管理和消费信用监管时，SMBC Card 是需要单独识别的实体。
+母集团页面容易遮蔽运营公司边界。比较发卡经济性、商户收单风险、卡号合同管理和消费者信用监管时，SMBC Card 是分析者需要定位的实体。
 
 ## Related
 
@@ -47,6 +49,7 @@ translated_at: 2026-06-01T02:31:57.150Z
 
 ## Sources
 
-- SMBC Card company outline: https://www.smbc-card.com/company/info/outline.jsp
-- SMBC Card company information: https://www.smbc-card.com/company/index.jsp
-- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- SMBC Card 公司概要：https://www.smbc-card.com/company/info/outline.jsp
+- SMBC Card 公司信息：https://www.smbc-card.com/company/index.jsp
+- METI 信用交易政策页面：https://www.meti.go.jp/policy/economy/consumer/credit/
+- METI 登记商户合同缔结业者 PDF：https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

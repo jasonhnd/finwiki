@@ -1,13 +1,14 @@
 ---
 source: payment-firms/paypay
-source_hash: 9d48e15f965f9b0c
+source_hash: 2a9a023c8a6b5898
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Corporation"
-translated_at: 2026-06-01T00:41:50.398Z
+translated_at: 2026-06-24T07:24:12.877Z
 ---
 # PayPay Corporation
+
 
 ## Wiki route
 
@@ -15,7 +16,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-PayPay Corporation is the consumer wallet and code-payment operator of [[megabanks/paypay-fg|PayPay金融グループ]]. Its company profile lists mobile payment and other electronic settlement services as the main business, and enumerates registrations such as prepaid payment instruments, credit-card-number handling contract business, funds transfer, electronic payment service provider status, and wage-digital-payment-designated funds-transfer provider status.
+PayPay Corporation is the consumer wallet and code-payment operator of [[megabanks/paypay-fg|PayPay金融グループ]]. Its company profile lists mobile payment and other electronic settlement services as its main business, and enumerates registrations including prepaid payment instruments, credit-card-number handling contract business, funds transfer, electronic payment agency, and designated funds-transfer provider for digital wage payments. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
 
@@ -24,12 +25,14 @@ PayPay Corporation is the consumer wallet and code-payment operator of [[megaban
 | Legal entity | PayPay Corporation |
 | Group | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY ecosystem |
 | Main lanes | Code payment, stored value, funds transfer, merchant acceptance, wage digital payment adjacency |
-| FSA registry route | FSA funds-transfer list: Kanto Local Finance Bureau Director 第00068号, PayPay Corporation. |
+| FSA registry route | FSA funds-transfer list: Kanto Local Finance Bureau Director 第00068号, PayPay Corporation. ^[verified-2026-06-24] |
+| Company-profile registrations | The official profile also lists registrations as a third-party prepaid instrument issuer, card-number merchant-contracting operator, electronic payment agency, and designated funds-transfer provider for digital wage payments. ^[verified-2026-06-24] |
 
 ## 2. Business role
 
-- The consumer app is the main distribution point for PayPay's wallet, points, payment, and credit ecosystem.
-- The company links merchants, users, PayPay Card, PayPay Bank, and PayPay Securities into one payment-led financial group.
+- The consumer app is the main distribution point for PayPay's wallet, points, payment, and credit ecosystem; the operating-company page should therefore be read separately from the holding-company page at [[megabanks/paypay-fg]]. ^[verified-2026-06-24]
+- The wallet layer combines stored value, code-payment acceptance, funds-transfer rails, and merchant acceptance, while [[card-issuers/paypay-card]] carries the credit-card / PayPay Credit issuer boundary. ^[verified-2026-06-24]
+- The company links merchants, users, PayPay Card, PayPay Bank, and PayPay Securities into one payment-led financial group, but the regulated lane changes by product: prepaid balance, funds transfer, card credit, and securities are not the same licence surface. ^[verified-2026-06-24]
 - It is the anchor page for comparing Japan's large code-payment platforms.
 
 ## 3. Why this standalone page matters
