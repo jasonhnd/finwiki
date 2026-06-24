@@ -4,8 +4,8 @@ aliases: [cross chain four poles overview, cross-chain interoperability poles, L
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, cross-chain, bridge, layerzero, ccip, wormhole, hyperlane, cctp]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://docs.chain.link/ccip
   - https://docs.hyperlane.xyz/
   - https://developers.circle.com/stablecoins/docs/cctp-getting-started
-status: candidate
+status: active
 ---
 
 # クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2

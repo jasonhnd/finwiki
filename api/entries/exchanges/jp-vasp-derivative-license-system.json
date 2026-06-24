@@ -19,8 +19,8 @@
     "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2027-05-19",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -29,7 +29,7 @@
       "regulation",
       "financial-instruments-act"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -82,7 +82,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2000,
+    "nonspace_chars": 1997,
     "word_like_tokens": 322,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-05-21"

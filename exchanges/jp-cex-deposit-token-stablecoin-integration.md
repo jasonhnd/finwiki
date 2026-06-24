@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -22,7 +22,7 @@ sources:
   - https://jpyc.co.jp/
   - https://progmat.co.jp/
   - https://www.decurret-dcp.com/
-status: candidate
+status: active
 ---
 
 # 国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携

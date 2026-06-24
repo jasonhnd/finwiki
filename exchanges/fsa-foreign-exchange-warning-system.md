@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,7 @@ tags:
   - warning-letter
 sources:
   - https://www.fsa.go.jp/
-status: candidate
+status: active
 ---
 
 # FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)

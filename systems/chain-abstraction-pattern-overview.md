@@ -4,8 +4,8 @@ aliases: [chain-abstraction-pattern-overview, chain abstraction overview, チェ
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, chain-abstraction, embedded-wallet, ux, intent-based]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://docs.eigenlayer.xyz/
   - https://docs.cdp.coinbase.com/
   - https://docs.layerzero.network/v2
-status: candidate
+status: active
 ---
 
 # チェーン抽象モデル概観

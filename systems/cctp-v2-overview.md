@@ -4,13 +4,13 @@ aliases: [cctp-v2-overview, circle-cctp-v2, usdc-burn-and-mint]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, bridge, stablecoin, usdc, circle, cctp, arc]
 sources:
   - https://developers.circle.com/stablecoins/docs/cctp-getting-started
-status: candidate
+status: active
 ---
 
 # CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint

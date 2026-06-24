@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
-status: candidate
+status: active
 ---
 
 # 国内暗号資産交換業 M&A 統廃合史 (2018-2026)

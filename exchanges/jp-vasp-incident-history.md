@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://www.fsa.go.jp/
   - https://jvcea.or.jp/
-status: candidate
+status: active
 ---
 
 # 国内 VASP 暗号資産流出事件史 (2014-2026)
