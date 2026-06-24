@@ -7,9 +7,9 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-09-22
+confidence: likely
 tags:
   - exchanges
   - merchant
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://lightning.network/
   - https://btcpayserver.org/
-status: candidate
+status: active
 ---
 
 # 国内暗号資産マーチャント決済 + Lightning Network

@@ -15,17 +15,20 @@
     "type": null,
     "created": "2026-04-13",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-10-30",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
-      "needs-review"
+      "agent-economy",
+      "agent-actorship",
+      "social-ontology"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
+      "https://plato.stanford.edu/entries/social-ontology/",
       "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors.",
       "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."
     ]
@@ -58,8 +61,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1850,
-    "word_like_tokens": 254,
+    "nonspace_chars": 1932,
+    "word_like_tokens": 265,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-05-26"
   }

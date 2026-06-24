@@ -4,8 +4,8 @@ aliases: [world-liberty-usd1-political-stablecoin, USD1, WLF, World Liberty Fina
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, stablecoin, wlf, usd1, trump, political, conflict-of-interest, genius-act]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.sec.gov/edgar/searchedgar/companysearch
   - https://www.bitgo.com/newsroom/press-releases/
   - https://home.treasury.gov/news/press-releases
-status: candidate
+status: active
 ---
 
 # WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係

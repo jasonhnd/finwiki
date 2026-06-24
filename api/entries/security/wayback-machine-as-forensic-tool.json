@@ -15,15 +15,15 @@
     "type": "wiki",
     "created": "2026-05-12",
     "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-08",
-    "confidence": "possible",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-09-22",
+    "confidence": "likely",
     "tags": [
       "security/forensic",
       "web-archives",
       "evidence-preservation"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [
       "[[security/fork-and-rebrand-5-layer-audit-framework]]",
@@ -71,7 +71,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2176,
+    "nonspace_chars": 2171,
     "word_like_tokens": 333,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-08"

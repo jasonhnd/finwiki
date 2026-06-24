@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://www.nyse.com/
   - https://github.com/binance/
-status: candidate
+status: active
 ---
 
 # CEX matching engine + cold/hot wallet 内部架構

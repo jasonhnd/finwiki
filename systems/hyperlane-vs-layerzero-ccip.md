@@ -4,15 +4,15 @@ aliases: [hyperlane-vs-layerzero, hyperlane-vs-ccip, bridge-comparison]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, cross-chain, bridge, hyperlane, layerzero, ccip, comparison]
 sources:
   - https://docs.hyperlane.xyz/
   - https://docs.layerzero.network/v2
   - https://docs.chain.link/ccip
-status: candidate
+status: active
 ---
 
 # Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照

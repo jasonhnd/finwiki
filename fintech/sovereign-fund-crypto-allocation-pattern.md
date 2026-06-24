@@ -6,11 +6,11 @@ kind: knowledge
 topic: sovereign-fund-crypto-allocation-pattern
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, sovereign-wealth, crypto, mubadala, aramco, blackrock, middle-east, allocation]
-status: candidate
+status: active
 sources:
   - https://www.mubadala.com/en/news
   - https://www.aramco.com/en/investors

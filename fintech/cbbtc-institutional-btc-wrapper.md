@@ -4,8 +4,8 @@ aliases: [cbbtc-institutional-btc-wrapper, cbBTC, Coinbase Wrapped BTC]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, wrapped-asset, bitcoin, coinbase, base, defi, custody]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://base.org/
   - https://www.coinbase.com/legal/cbbtc
   - https://wbtc.network/
-status: candidate
+status: active
 ---
 
 # cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト

@@ -4,11 +4,11 @@ aliases: [Cosmos IBC for FI, IBC for banking, cross-chain protocol comparison]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, blockchain, cross-chain, ibc, cosmos, hyperlane, ccip, layerzero, td]
-status: candidate
+status: active
 sources:
   - https://ibcprotocol.dev/
   - https://www.cosmos.network/ibc

@@ -10,8 +10,8 @@ domain: exchanges
 slug: cex-gopax-korea
 created: 2026-05-25
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-25
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -21,8 +21,9 @@ tags:
   - binance
   - isms-p
   - regulatory-saga
-status: borderline
+status: active
 sources:
+  - https://www.binance.com/en/blog/ecosystem/2331858048818231109
   - 公開情報整理 (GOPAX / Streami 공식 IR, gopax.co.kr / streami.io)
   - 公開情報整理 (Binance 2023-02 GOPAX 지분 인수 발표, binance.com Blog)
   - 公開情報整理 (FSC / FIU 가상자산사업자 등록 변경 관련 정보)

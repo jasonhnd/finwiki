@@ -4,8 +4,8 @@ aliases: [hk-frtb-reserve, HKMA stablecoin reserve, HK FRTB SA]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, law, regulation, hk, hkma, stablecoin, reserve, frtb]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/bcbs/publ/d457.htm
   - https://www.bis.org/bcbs/publ/d533.htm
   - https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/12/20241218-3/
-status: candidate
+status: active
 ---
 
 # HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework

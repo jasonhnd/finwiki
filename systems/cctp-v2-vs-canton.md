@@ -4,14 +4,14 @@ aliases: [cctp-vs-canton, public-vs-private-stablecoin-rails, circle-vs-jpm]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, bridge, dlt, stablecoin, cctp, canton, comparison]
 sources:
   - https://developers.circle.com/stablecoins/docs/cctp-getting-started
   - https://www.canton.network/
-status: candidate
+status: active
 ---
 
 # CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙

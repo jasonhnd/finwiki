@@ -9,9 +9,9 @@ aliases:
 domain: trading-company-finance
 created: 2026-05-24
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-09-22
+confidence: likely
 tags: [JapanFG, finance, trading-company-finance, sojitz, group-treasury, factoring, cms, mid-tier-trading-house]
 status: active
 sources:

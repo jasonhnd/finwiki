@@ -4,13 +4,13 @@ aliases: [erc-7715-overview, wallet-permissions, grant-permissions]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, protocol, wallet, permissions, ai-agent, erc-7715]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7715
-status: candidate
+status: active
 ---
 
 # ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済

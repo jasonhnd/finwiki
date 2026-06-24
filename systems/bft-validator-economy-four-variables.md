@@ -4,8 +4,8 @@ aliases: [bft-validator-economy-four-variables, validator economy yield slashing
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [systems, validator, bft, staking-yield, slashing, mev, nakamoto-coefficient]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/README.md
   - https://github.com/flashbots/mev-boost
   - https://vitalik.eth.limo/general/2024/05/17/decentralization.html
-status: candidate
+status: active
 ---
 
 # BFT validator 経済の4変数

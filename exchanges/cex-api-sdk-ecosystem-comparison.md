@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,7 @@ tags:
 sources:
   - https://docs.bitflyer.com/
   - https://docs.binance.com/
-status: candidate
+status: active
 ---
 
 # CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface

@@ -6,13 +6,14 @@ kind: knowledge
 slug: hook-enforced-compliance
 created: 2026-04-21
 last_updated: 2026-05-18
-last_tended: 2026-05-05
-review_by: 2026-10-30
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [compliance, enforcement, hook, documentation-vs-execution, meta]
-status: candidate
+status: active
 evidence_count: 1
 sources:
+  - "https://code.claude.com/docs/en/hooks"
   - "Public agent-framework documentation on hook-based automation and instruction injection."
   - "Public Codex / AGENTS-style repository instruction patterns."
   - "Public Claude Code hook documentation and workflow examples."

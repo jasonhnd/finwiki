@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-25
 last_updated: 2026-05-30
-last_tended: 2026-05-30
-review_by: 2026-11-25
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -28,7 +28,7 @@ sources:
   - https://www.itmedia.co.jp/news/articles/2412/02/news093.html
   - https://www.sbigroup.co.jp/news/2025/0226_15274.html
   - https://ja.wikipedia.org/wiki/DMM_Bitcoin
-status: candidate
+status: active
 ---
 
 # FSA crypto operator registry — snapshot delta log

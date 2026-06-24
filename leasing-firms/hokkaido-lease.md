@@ -8,9 +8,9 @@ aliases:
 domain: leasing-firms
 created: 2026-05-24
 last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
-confidence: possible
+last_tended: 2026-06-24
+review_by: 2026-08-08
+confidence: likely
 tags: [JapanFG, leasing, finance, regional-lease, hokkaido, regional-bank-affiliated]
 status: active
 sources:

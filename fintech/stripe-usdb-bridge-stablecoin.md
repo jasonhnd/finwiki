@@ -4,11 +4,11 @@ aliases: [stripe-usdb-bridge-stablecoin, USDB, Stripe Bridge, Bridge USDB, Strip
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, stablecoin, stripe, bridge, usdb, tempo, agent-payment, vertical-integration]
-status: candidate
+status: active
 sources:
   - https://stripe.com/
   - https://stripe.com/newsroom/news/stripe-acquires-bridge

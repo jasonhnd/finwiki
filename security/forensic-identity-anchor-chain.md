@@ -5,14 +5,14 @@ slug: forensic-identity-anchor-chain
 domain: security
 title: "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成"
 aliases: []
-status: candidate
-confidence: possible
+status: active
+confidence: likely
 evidence_count: 2
 challenges: 0
 created: 2026-05-12
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-08
+last_tended: 2026-06-24
+review_by: 2026-09-22
 related:
   - "[[security/bytecode-forensic-three-tier-verify]]"
   - "[[security/fork-and-rebrand-5-layer-audit-framework]]"
