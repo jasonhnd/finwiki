@@ -4,11 +4,11 @@ aliases: [multi-megabank consortium governance, megabank consortium fintech, Pro
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, governance, japan, progmat, bis, consortium, megabank, td]
-status: candidate
+status: active
 sources:
   - https://progmat.co.jp/
   - https://www.mufg.jp/english/

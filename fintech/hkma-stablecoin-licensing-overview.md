@@ -4,14 +4,14 @@ aliases: [hkma-licensing-overview, HKMA ライセンス, HK stablecoin license]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, hk, stablecoin, hkma, licensing]
 sources:
   - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
   - https://www.hkma.gov.hk/eng/key-functions/financial-infrastructure/stablecoin-issuers/
-status: candidate
+status: active
 ---
 
 # HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観

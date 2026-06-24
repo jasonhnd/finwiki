@@ -4,13 +4,13 @@ aliases: [canton-overview, canton-network-overview, digital-asset-canton]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, dlt, privacy, canton, daml, institutional]
 sources:
   - https://www.canton.network/
-status: candidate
+status: active
 ---
 
 # Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン

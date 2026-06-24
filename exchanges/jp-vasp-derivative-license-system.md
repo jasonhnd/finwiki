@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ sources:
   - https://www.fsa.go.jp/
   - https://jvcea.or.jp/member/
   - https://elaws.e-gov.go.jp/
-status: candidate
+status: active
 ---
 
 # 国内暗号資産デリバティブ取引業 制度 — 金商法 × 資金決済法 デュアル登録

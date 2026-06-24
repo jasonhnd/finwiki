@@ -4,8 +4,8 @@ aliases: [embedded wallet fintech disintermediation stripe trojan horse, Stripe 
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, embedded-wallet, stripe, privy, bridge, tempo, trojan-horse, vertical-integration]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.privy.io/
   - https://tempo.xyz/
   - https://stripe.com/use-cases/crypto
-status: candidate
+status: active
 ---
 
 # 組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)

@@ -4,13 +4,13 @@ aliases: [eigenlayer-overview, restaking-overview, eigen-protocol]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, staking, restaking, eigenlayer, ethereum, security]
 sources:
   - https://docs.eigenlayer.xyz/
-status: candidate
+status: active
 ---
 
 # EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース

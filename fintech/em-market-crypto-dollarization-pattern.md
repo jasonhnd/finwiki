@@ -6,11 +6,11 @@ kind: knowledge
 topic: em-market-crypto-dollarization-pattern
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, stablecoin, emerging-markets, dollarization, USDT, USDC]
-status: candidate
+status: active
 sources:
   - https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
   - https://www.imf.org/en/Publications/WP/Issues/2024/01/26/Crypto-Assets-and-Macroeconomic-Stability

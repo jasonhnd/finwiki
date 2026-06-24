@@ -4,8 +4,8 @@ aliases: [bft-validator-economy-overview, BFT validator economics overview]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, validator, bft, staking, mev, slashing, decentralization]
 sources:
@@ -16,7 +16,7 @@ sources:
   - https://tempo.xyz/
   - https://www.arc.io/
   - https://www.canton.network/
-status: candidate
+status: active
 ---
 
 # BFT validator 経済学概観

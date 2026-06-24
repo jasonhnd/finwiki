@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - fintech
@@ -17,7 +17,7 @@ tags:
   - jvcea-type2
   - nomura
   - institutional
-status: candidate
+status: active
 sources:
   - https://laserdigital.com/
   - https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/

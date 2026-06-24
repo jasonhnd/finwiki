@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 8 |
+| Changed or new entries in current worktree | 50 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,20 +41,61 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/sony-bank.md` | `M` | 20 | ok |
-| `exchanges/fsa-snapshot-delta-log.md` | `M` | 22 | ok |
-| `exchanges/jp-exchange-dmm-com-securities.md` | `M` | 4 | ok |
-| `exchanges/jp-exchange-tokyo-hash.md` | `M` | 7 | ok |
-| `fintech/global-stablecoin-regulatory-five-pole-matrix.md` | `M` | 13 | ok |
-| `payments/japan-jcb-issuer-ecosystem-positioning-matrix.md` | `M` | 141 | ok |
-| `regional-banks/okinawa-fg.md` | `M` | 15 | ok |
-| `securities/odx-start-stb-secondary-market.md` | `M` | 26 | ok |
+| `exchanges/amm-design-evolution.md` | `M` | 12 | ok |
+| `exchanges/coincheck-nem-hack-detailed-analysis.md` | `M` | 14 | ok |
+| `exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md` | `M` | 16 | ok |
+| `exchanges/eu-mica-casp-regime-overview.md` | `M` | 11 | ok |
+| `exchanges/fsa-foreign-exchange-warning-system.md` | `M` | 30 | ok |
+| `exchanges/global-crypto-forensics-vendor-layer.md` | `M` | 14 | ok |
+| `exchanges/global-institutional-custody-five-pillars.md` | `M` | 10 | ok |
+| `exchanges/hk-sfc-vasp-licensing-overview.md` | `M` | 12 | ok |
+| `exchanges/jp-cex-deposit-token-stablecoin-integration.md` | `M` | 21 | ok |
+| `exchanges/jp-exchange-binance-japan.md` | `M` | 7 | ok |
+| `exchanges/jp-exchange-crypto-garage.md` | `M` | 7 | ok |
+| `exchanges/jp-exchange-custodiem.md` | `M` | 7 | ok |
+| `exchanges/jp-exchange-laser-digital-japan.md` | `M` | 6 | ok |
+| `exchanges/jp-institutional-custody-three-pillars.md` | `M` | 6 | ok |
+| `exchanges/jp-vasp-aml-travel-rule-implementation.md` | `M` | 7 | ok |
+| `exchanges/jp-vasp-cold-storage-segregation-rules.md` | `M` | 15 | ok |
+| `exchanges/jp-vasp-derivative-license-system.md` | `M` | 12 | ok |
+| `exchanges/jp-vasp-incident-history.md` | `M` | 12 | ok |
+| `exchanges/jp-vasp-ma-consolidation-history.md` | `M` | 23 | ok |
+| `exchanges/jp-vasp-regulatory-timeline.md` | `M` | 9 | ok |
+| `exchanges/liquid-staking-restaking-cex-exposure.md` | `M` | 14 | ok |
+| `exchanges/native-dex-flip-incumbent-pattern.md` | `M` | 7 | ok |
+| `exchanges/rwa-tokenization-cex-integration.md` | `M` | 14 | ok |
+| `exchanges/us-crypto-licensing-multi-layer-system.md` | `M` | 10 | ok |
+| `fintech/ai-payment-two-tracks.md` | `M` | 11 | ok |
+| `fintech/cbdc-multi-tier-architecture-three-paradigms.md` | `M` | 5 | ok |
+| `fintech/central-banking-function-unbundling.md` | `M` | 13 | ok |
+| `fintech/circular-reserve-asset-flywheel-overview.md` | `M` | 5 | ok |
+| `fintech/cross-border-sc-via-swift-api.md` | `M` | 4 | ok |
+| `fintech/em-market-crypto-dollarization-pattern.md` | `M` | 6 | ok |
+| `fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md` | `M` | 6 | ok |
+| `fintech/hkma-stablecoin-licensing-overview.md` | `M` | 6 | ok |
+| `fintech/japan-ecisb-license.md` | `M` | 7 | ok |
+| `fintech/japan-epi-three-types-overview.md` | `M` | 7 | ok |
+| `fintech/jp-stablecoin-progmat.md` | `M` | 7 | ok |
+| `fintech/jurisdiction-list-monetary-protectionism.md` | `M` | 11 | ok |
+| `fintech/multi-megabank-consortium-governance.md` | `M` | 5 | ok |
+| `fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md` | `M` | 6 | ok |
+| `fintech/paypal-pyusd-stablecoin.md` | `M` | 5 | ok |
+| `fintech/stablecoin-revenue-split-economics.md` | `M` | 9 | ok |
+| `systems/bft-validator-economy-overview.md` | `M` | 4 | ok |
+| `systems/canton-overview.md` | `M` | 4 | ok |
+| `systems/cctp-v2-overview.md` | `M` | 5 | ok |
+| `systems/chain-abstraction-pattern-overview.md` | `M` | 5 | ok |
+| `systems/chainlink-ccip-institutional-messaging.md` | `M` | 4 | ok |
+| `systems/cross-chain-four-poles-overview.md` | `M` | 6 | ok |
+| `systems/eigenlayer-overview.md` | `M` | 5 | ok |
+| `systems/erc-7702-overview.md` | `M` | 3 | ok |
+| `systems/pectra-eip-7691-blob-l2-impact.md` | `M` | 4 | ok |
+| `systems/threshold-bft-consensus-rust-implementations.md` | `M` | 3 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `FinWiki` | 1 | 0 | 46.0 |
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 41 | 0 | 13.5 |
 | `asset-managers` | 15 | 0 | 18.4 |
@@ -80,6 +121,7 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
+| `FinWiki` | 1 | 0 | 46.0 |
 | `leasing-firms` | 24 | 0 | 22.3 |
 | `life-insurers` | 47 | 0 | 11.5 |
 | `loyalty` | 17 | 0 | 22.4 |

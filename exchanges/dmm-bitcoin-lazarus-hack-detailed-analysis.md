@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - exchanges
@@ -21,7 +21,7 @@ sources:
   - https://bitcoin.dmm.com/
   - https://www.fsa.go.jp/
   - https://www.npa.go.jp/
-status: candidate
+status: active
 ---
 
 # DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC

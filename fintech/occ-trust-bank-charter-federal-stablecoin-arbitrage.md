@@ -6,11 +6,11 @@ kind: knowledge
 topic: occ-trust-bank-charter-federal-stablecoin-arbitrage
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, regulation, stablecoin, occ, charter, bridge, mtl, fedwire]
-status: candidate
+status: active
 sources:
   - https://www.occ.gov/topics/charters-and-licensing/index-charters-and-licensing.html
   - https://www.occ.gov/news-issuances/news-releases/index-news-releases.html

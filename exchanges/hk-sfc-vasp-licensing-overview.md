@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -20,7 +20,7 @@ tags:
 sources:
   - https://www.sfc.hk/
   - https://apps.sfc.hk/edistributionWeb/gateway/EN/licensee-list/listing
-status: candidate
+status: active
 ---
 
 # 香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview

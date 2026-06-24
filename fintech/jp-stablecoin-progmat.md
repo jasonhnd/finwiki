@@ -7,8 +7,8 @@ aliases:
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags:
   - fintech
@@ -16,7 +16,7 @@ tags:
   - progmat
   - trust-type-sc
   - megabank-consortium
-status: candidate
+status: active
 sources:
   - https://progmat.co.jp/about/
   - https://progmat.co.jp/concept/
