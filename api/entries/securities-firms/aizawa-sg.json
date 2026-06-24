@@ -20,9 +20,9 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -34,9 +34,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: アイザワ証券グループ (2026-05-19 抽出)",
-      "Wikipedia: アイザワ証券 (2026-05-19 抽出)",
-      "アイザワ証券グループ 公式 IR (2025-06 公表 有価証券報告書ベース)"
+      "Aizawa Securities Group: Corporate Profile, as of 2026-04-01 (https://www.aizawa-group.jp/english/corporate_profile.html)",
+      "Aizawa Securities Group: History, holding-company transition in 2021-10 (https://www.aizawa-group.jp/english/history.html)",
+      "Aizawa Securities: Corporate Profile, FIBO No.3283 and memberships (https://www.aizawa.co.jp/english/corporate_profile.html)",
+      "Aizawa Securities: Asian Stocks, 12 Asian stock markets handled (https://www.aizawa.co.jp/english/asian_stocks.html)",
+      "FSA: financial instruments business operators workbook, Aizawa Securities verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx)"
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -44,13 +46,13 @@
     "アイザワ証券グループ (Aizawa Securities Group)",
     "Wiki route",
     "TL;DR",
-    "1. 会社概要",
-    "主要子会社",
-    "重要年表 ^[extracted]",
-    "2. 事業セグメント・マップ",
-    "差別化軸：「アジア新興国投資の専門証券」",
-    "国内ポジション",
-    "海外戦略"
+    "1. Holding-company boundary",
+    "Operating securities subsidiary",
+    "2. Business model",
+    "Asia-equity positioning",
+    "Group-business map",
+    "3. Strategy / peer reading",
+    "4. Regulation / policy"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -84,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4004,
-    "word_like_tokens": 570,
+    "nonspace_chars": 7180,
+    "word_like_tokens": 1126,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-21"
   }

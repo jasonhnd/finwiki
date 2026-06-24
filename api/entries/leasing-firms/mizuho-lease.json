@@ -19,9 +19,9 @@
     "domain": "leasing-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,9 +35,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.mizuho-ls.co.jp/en/company/data.html",
-      "https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html",
-      "https://www.marubeni.com/en/news/2024/release/20240514E.pdf"
+      "Mizuho Leasing: Corporate Information (https://www.mizuho-ls.co.jp/en/company/data.html)",
+      "Mizuho Leasing: Stock Information, major shareholders as of 2026-03-31 (https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html)",
+      "Marubeni: Execution of Capital and Business Alliance Agreement with Mizuho Leasing, 2024-05-14 (https://www.marubeni.com/en/news/2024/release/20240514E.pdf)",
+      "Mizuho Leasing: Investor Presentation for FY2024, 2025-05-13 (https://www.mizuho-ls.co.jp/en/ir/library/presentation/main/013/teaserItems1/00/linkList/02/link/Investor%20Presentation%20for%20FY2024_Final_EN.pdf)"
     ]
   },
   "summary": "This entry sits under leasing-firms INDEX. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -46,12 +47,12 @@
     "Wiki route",
     "TL;DR",
     "Structure",
-    "Business Map",
-    "Strategic Reading",
-    "Competitive Context",
-    "Risk Notes",
-    "Related",
-    "Sources"
+    "Alliance mechanics",
+    "Mizuho relationship",
+    "Marubeni relationship",
+    "Business map",
+    "Strategic reading",
+    "Competitive context"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -83,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3743,
-    "word_like_tokens": 561,
+    "nonspace_chars": 7697,
+    "word_like_tokens": 1208,
     "inbound_wikilinks_count": 35,
     "last_modified": "2026-06-21"
   }

@@ -1,101 +1,77 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: fbc3eb642ea704be
+source_hash: c5390142600133a4
 lang: zh
 status: machine
 fidelity: ok
-title: "松井証券株式会社 (Matsui Securities)"
-translated_at: 2026-06-19T12:43:19.907Z
+title: "松井证券 (Matsui Securities)"
+translated_at: 2026-06-24T00:00:00.000Z
 ---
 
-# 松井証券株式会社 (Matsui Securities)
+# 松井证券 (Matsui Securities)
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/sbi-securities|SBI证券 (SBI Securities)]] 对照阅读以理解同业语境，也可结合 [[securities/INDEX|securities index]] 理解更广泛的制度和监管边界。
 
 ## TL;DR
 
-作为 **日本首家网络证券**（1998-05  开始在线股票交易，全面废除面对面网点的先驱）而闻名的中坚在线证券（东证 PRIME 8628）。是 1918 年 由松井房吉创业的老铺证券，在 1995-04  第 4  代 **松井道夫** 就任社长后，从面对面零售证券向网络专营转型的日本网络证券先驱。以 **信用交易 1  日定额制** 和面向个人投资者的投资信息应用差异化，客户账户数约 150 万，是仅次于网络证券前 5 行 的中坚站位。目前 **SBI 证券**（[[megabanks/sbi-hd]] 内）/ **乐天证券**（[[payment-firms/rakuten-fg]] 内）/ **Monex 证券**（[[securities-firms/monex-group]] 内）等作为大型机构领先，松井证券作为独立系在线证券维持独自路线。
+松井证券是东证 Prime 8628 的独立线上证券公司。FSA 金融商品交易业者 workbook 将松井证券株式会社列为 **关东财务局长（金商）第164号**，并可确认第一种、第二种金融商品交易业、有价证券相关业务、特别金融商品交易业者、日本证券业协会和金融期货交易业协会 membership 标记。^[source:fsa-fibo-2026] Integrated Report 2025 也将其描述为金融商品交易法下的 financial instruments business operator、JSDA / Financial Futures Association member，并说明 Matsui Securities 是不隶属于其他公司的 independent 公司。^[source:matsui-ir-2025] 业务上，FY2024 net operating revenue 约 80% 来自面向 retail investors 的日本股票业务，同时 FX 达到 10%、美国股票达到 2%；因此应将其理解为以线上日本股票为核心，并通过周边线上产品扩展收入来源的券商。^[source:matsui-ir-2025]
 
 ## 1. 公司概要
 
-**正式名称**：松井証券株式会社
-**英文名**：Matsui Securities Co., Ltd.
-**证券代码**：东证 PRIME 8628
-**创业**：1918 年（松井房吉 创业）
-**股份公司化**：1931 年
-**东证一部上市**：2003-04（前身 Jasdaq 上市 2001-12  → 东证一部）
-**总部**：东京都千代田区麹町
-**代表**：松井道夫（会长、前社长・第 4  代）/ 和里田聪（社长）
-**业态**：独立系在线证券（并非纯粹控股公司体制，而是以证券业为主轴的单一事业公司型）
-
-### 业态的特异性
-
-松井証券 是不属于大型银行系・通信系・流通系中任何一个的 **独立系网络证券**。集团内不持有银行・保险・加密资产业务，**纯粹专注于证券业（特别是网络股票买卖・信用交易・投资信托）** 的简单事业结构是其特征。这与 [[securities-firms/monex-group]]（兼设加密资产・美国经纪商）或 [[megabanks/sbi-hd]]（银行・保险・地银联合）这类「综合平台型」网络证券大型机构形成对立的模式。
-
-### 重要年表（基于公开信息）
-
-| 年月 | 事件 |
+| Item | Reading |
 |---|---|
-| **1918** | **松井房吉以个人商店创业** |
-| 1931 | 股份公司化 |
-| 1995-04 | **松井道夫 就任第 4  代社长**（业态转型的起点）|
-| **1998-05** | **开始日本首个在线股票交易服务** ★ — 全面废除面对面网点的革新 |
-| 1999-04 | 开始「ネットストック」服务（面向个人投资者的网络交易品牌）|
-| 2001-12 | Jasdaq 上市 |
-| 2003-04 | **东证一部上市**（证券代码 8628）|
-| 2009 | 引入 **信用交易 1  日定额制**（手续费体系的差异化）|
-| 2022-04 | 东证市场区分重新评估 → 迁移至东证 PRIME |
-| 2024 | **NISA 扩充应对・美国股应对强化**（配合新 NISA 制度的产品阵容扩充）|
+| 正式名称 | 松井証券株式会社 |
+| 英文名 | Matsui Securities Co., Ltd. |
+| 证券代码 | 东证 Prime 8628 |
+| 创业 / 公司化 | Integrated Report 2025 记载 established 为 1918-05、incorporated 为 1931-03。^[source:matsui-ir-2025] |
+| 总部 | 东京都千代田区麹町 1-4。^[source:matsui-ir-2025] |
+| 代表 | Akira Warita, President & CEO。^[source:matsui-ir-2025] |
+| 业态 | 独立线上证券公司；Integrated Report 在 corporate affiliation 中说明 Matsui Securities 是 independent，未 affiliated 于其他公司。^[source:matsui-ir-2025] |
 
-> 注: 上述年表基于公开资料（Wikipedia / 官方 IR / 新闻稿）。具体业绩・账户数的最新值需参照 IR 披露资料。
+### 牌照 / 登记边界
 
-## 2. 业务分部・地图
+| Layer | Verified reading |
+|---|---|
+| FSA 登记 | 关东财务局长（金商）第164号。^[source:fsa-fibo-2026] |
+| FIEA 类别 | FSA workbook 确认第一种金融商品交易业、第二种金融商品交易业、有价证券相关业务。^[source:fsa-fibo-2026] |
+| 自律组织会员 | 日本证券业协会、金融期货交易业协会。^[source:fsa-fibo-2026][source:matsui-ir-2025] |
+| 交易所会员 | corporate profile 记载 TSE general trading participant、OSE trading participant、NSE general trading participant、Fukuoka / Sapporo special member。^[source:matsui-ir-2025] |
+| 非银行集团页 | Matsui 是运营型证券公司，不是银行系平台公司；可对照 [[megabanks/sbi-hd]]、[[payment-firms/rakuten-fg]]、[[securities-firms/monex-group]] 和 [[megabanks/mufg]]。 |
 
-| セグメント | 主要服务 | 特征 |
+## 2. 商业模式
+
+### 线上券商经济性
+
+- Matsui 表示其将经营资源集中于 online-based businesses；FY2024 中，面向 retail investors 的日本股票业务约占 total net operating revenue 的 80%。^[source:matsui-ir-2025]
+- 同一报告把日本股票业务定位为 key business，同时表示将通过 FX、美国股票和投信等线上产品与服务分散收入来源。^[source:matsui-ir-2025]
+- FX 已不是单纯附加业务：Integrated Report 2025 记载 FX 在 FY2024 占 net operating revenue 的 10%，并从 FY2021 约 1.0bn yen 增至 3.8bn yen。^[source:matsui-ir-2025]
+- 美国股票服务始于 2022；报告称 Matsui 之后开始支持 margin transactions、新 NISA，并截至 2025-09 处理约 4,900 只美国证券。^[source:matsui-ir-2025]
+
+### 自助型零售策略
+
+Matsui 的战略定位不是“综合金融集团”，而是自助型零售券商平台。Integrated Report 2025 将 Matsui 描述为五大线上证券公司中唯一的独立公司，而其他四家是拥有更大客户基础的企业集团子公司。即使同业链接重叠，本页也应与银行、通信和电商集团页面保持区分。^[source:matsui-ir-2025]
+
+### 历史转折点
+
+关键历史节点是 1998-05：Matsui 的公开有价证券报告书说明，公司启动了“Netstock”，即日本首个正式线上券商服务，并同时启动日本首个线上信用交易服务。因此本页将 1998 年视为其从面对面零售券商转向线上自助券商的结构性转折。^[source:matsui-asr-2024]
+
+## 3. 分部地图
+
+| Segment | Role | Source-backed reading |
 |---|---|---|
-| 国内股票（网络交易）| 「ネットストック」「松井証券アプリ」| 面向个人投资者的在线股票买卖核心事业 |
-| 信用交易 | 1  日定额制信用交易 | 2009  引入的差异化产品，对当日交易者层有优势 |
-| 投资信托 | 以无申购费投信为中心的阵容 | 稳定收益来源 |
-| REIT | J-REIT 经办 | 个人投资者的不动产投资渠道 |
-| 美国股 | 2024〜 强化（NISA 联动）| 向 SBI / 乐天 / Monex 追赶 |
-| 投资信息 | 松井証券アプリ・行情信息服务 | 面向活跃投资者的信息工具 |
-| iDeCo / NISA | 新 NISA 应对账户 | 配合 2024  制度扩充的产品强化 |
+| 日本股票 | 核心收入基础 | FY2024 net operating revenue 约 80% 来自面向 retail investors 的日本股票业务。^[source:matsui-ir-2025] |
+| 信用 / 融资 | 交易相邻信用层 | FSA 与 Matsui 披露都将公司置于 FIEA 证券监管下，而非银行监管下；信用交易余额影响 capital-to-risk discipline。^[source:fsa-fibo-2026][source:matsui-asr-2024] |
+| FX | 收入分散通道 | FX 达到 FY2024 net operating revenue 的 10%，并被描述为增长目标。^[source:matsui-ir-2025] |
+| 美国股票 | NISA / 全球投资通道 | 美国股票服务始于 2022，之后支持信用 / NISA，截至 2025-09 约有 4,900 只证券。^[source:matsui-ir-2025] |
+| 投资信托 | 资产形成通道 | Integrated Report 2025 将投信列为分散收入来源的线上产品之一。^[source:matsui-ir-2025] |
 
-### 作为网络证券先驱的站位
+## 4. 竞争位置
 
-松井証券 是 **在 1998-05  开始日本首个在线股票交易服务** 的日本网络证券鼻祖。在 1995-04  就任社长的松井道夫，将此前的面对面零售证券模式全面废除网点转型为网络专营的经营判断，引领了日本证券业界的结构变革。这一「全面废除面对面网点」的革新，在当时是极为大胆的决断，被定位为促成后来 SBI 证券 / 乐天证券 / Monex 证券 等整个网络证券业界出现的起点。
-
-### 当前竞争环境
-
-网络证券业界到 2020 年 年代后期已在以下上位玩家中实施集约：
-
-- **SBI 证券**（[[megabanks/sbi-hd]] 内）: 账户数最大，领先手续费免费化
-- **乐天证券**（[[payment-firms/rakuten-fg]] 内）: 凭乐天经济圈联动快速成长
-- **Monex 证券**（[[securities-firms/monex-group]] 内）: 美国股优势 + 向 NTT docomo 系金融 [[megabanks/ndfg]] 的整合（2026  预定）
-- **auカブコム証券**（旧 auカブドットコム → 三菱 UFJ eスマート証券，再划归 [[megabanks/mufg]] 旗下）
-- **松井证券**: 独立系中坚，账户数约 150 万
-
-松井証券 是仅次于前 4 行（SBI / 乐天 / Monex / au 系）的「仅次于前 5 行 的中坚」站位。在维持独立系的同时，以信用交易 1  日定额制 和投资信息应用差异化的战略。
-
-### 差异化要点
-
-- **1  日定额制信用交易**（2009〜）: 对信用交易使用层（当日交易者・短期买卖层）的诉求
-- **简单的事业结构**: 不持有银行・保险・加密资产，纯粹专注证券业，经营判断快
-- **长期客户基础**: 1918  创业的老铺品牌 + 网络证券先驱的可信度
-- **独立系**: 不进入大型银行 / 通信公司 / 流通集团旗下，坚守独自路线
-
-## 4. 监管・政策
-
-- **主管**: 金融厅（FSA）/ 证券业协会（JSDA）
-- **上市区分**: 东证 PRIME（2022-04  市场区分重新评估以后）
-- **证券业监管**: 金融商品交易法（金商法）・第一种金融商品交易业者
-- **近期政策论点**:
-  - 2024〜 **新 NISA 制度扩充**: 应对年度投资额度扩大・永久化的账户开拓竞争
-  - 2024〜 **手续费免费化趋势**: SBI / 乐天 实施国内股票手续费免费化，网络证券业界收益模式重构
-  - 2025〜 **美国股・全球投资需求**: 应对日元贬值持续・海外股票需求扩大
-  - 2025〜 **加密资产・新金融产品**: 网络证券各社的应对分化（松井维持证券业专注）
+- **相对 SBI / Rakuten / Monex / MUFG eSmart**：Matsui 明确将自身定位为主要线上券商同业中的独立公司，而同业具有更广泛的集团生态。^[source:matsui-ir-2025]
+- **相对面对面券商**：Matsui 的原始优势是低成本线上执行和自助型零售 UX，而不是分店顾问覆盖。
+- **政策敏感性**：股票交易零佣金、新 NISA 资产形成流、网络安全与系统稳定性都会直接影响线上平台经济性。
 
 ## Related
 
@@ -104,11 +80,11 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Sources
 
-- **Wikipedia: 松井証券**（https://ja.wikipedia.org/wiki/松井証券, 2026-05-19 抽取）
-- 松井証券 官方企业网站・IR 部分（公开信息）
-- 东证・JPX 上市公司信息（证券代码 8628，公开基础）
+- **Matsui Securities**: Integrated Report 2025（online-brokerage strategy, FY2024 revenue mix, corporate profile）https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf
+- **FSA**: 金融商品取引業者登録一覧 `kinyushohin.xlsx`（松井证券株式会社、关东财务局长（金商）第164号，2026-06-24 确认）https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- **Matsui Securities**: Annual Securities Report FY2024（Netstock / online brokerage milestone and FIEA risk context）https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf
 
 ---
 
-> [!info] 验证状况
-> confidence: **likely**（Wikipedia + 公开 IR 校核 2026-05-19）。创业年・上市年・社长就任年・1998  网络交易开始 等主要里程碑基于公开资料。具体的账户数・业绩数值・美国股应对的细节需参照官方 IR 披露的最新值。本条目仅使用公开信息，不引用任何内部目录・非公开资料。
+> [!info] 验证状态
+> confidence: **likely**（2026-06-24）。FIEA 登记、独立线上券商定位、FY2024 收入结构和 1998 Netstock milestone 已由官方 IR / FSA workbook 确认。本版不声称未经确认的市场份额排名或账户数比较。
