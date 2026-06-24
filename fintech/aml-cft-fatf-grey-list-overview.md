@@ -4,8 +4,8 @@ aliases: [fatf-grey-list-overview, FATF jurisdiction list, AML/CFT 評価概要]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, law, regulation, aml, cft, fatf, jurisdiction]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
   - https://www.imf.org/external/np/leg/amlcft/eng/
   - https://www.worldbank.org/en/topic/financialmarketintegrity
-status: candidate
+status: active
 ---
 
 # FATF グレーリスト / ブラックリスト · AML/CFT 国別評価メカニズム概要

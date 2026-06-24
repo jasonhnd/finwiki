@@ -4,8 +4,8 @@ aliases: [chain-abstraction-pattern-three-solutions, AggLayer NEAR EigenLayer co
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, chain-abstraction, polygon, near, eigenlayer, agglayer, restaking, intent]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://docs.near.org/chain-abstraction/what-is
   - https://github.com/near/mpc
   - https://docs.eigenlayer.xyz/
-status: candidate
+status: active
 ---
 
 # チェーン抽象の 3 大主流方式

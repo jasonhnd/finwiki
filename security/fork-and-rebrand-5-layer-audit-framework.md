@@ -6,11 +6,11 @@ kind: framework
 topic: fork-and-rebrand-5-layer-audit-framework
 created: 2026-05-20
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [security, audit, smart-contract, forensic, open-source]
-status: candidate
+status: active
 sources:
   - https://github.com/Uniswap/v3-core/blob/main/LICENSE
   - https://github.com/compound-finance/compound-protocol

@@ -4,8 +4,8 @@ aliases: [first-digital-fdusd-hk-stablecoin, FDUSD, First Digital USD, FDT]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, stablecoin, fdusd, first-digital, hong-kong, hkma, binance, gray-to-white]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
   - https://www.binance.com/en/support/announcement
   - https://coinmarketcap.com/currencies/first-digital-usd/
-status: candidate
+status: active
 ---
 
 # First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替

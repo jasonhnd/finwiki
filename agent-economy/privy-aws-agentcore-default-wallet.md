@@ -4,13 +4,13 @@ aliases: [privy-aws-agentcore-default-wallet, aws-agentcore-payments, privy-coin
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [agent-economy, ai-agent, wallet, aws, bedrock, agentcore, privy, coinbase-cdp]
 sources:
   - https://docs.privy.io/
-status: candidate
+status: active
 ---
 
 # Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング

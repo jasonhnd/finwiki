@@ -4,8 +4,8 @@ aliases: [mbridge-six-central-banks-roster, mbridge-central-banks, mbridge-5-cbd
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, cbdc, mbridge, central-banks, pboc, hkma, sama, drex]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
   - https://www.sama.gov.sa/en-US/News/Pages/default.aspx
   - https://www.bcb.gov.br/en/financialstability/drex_en
-status: candidate
+status: active
 ---
 
 # mBridge 6 中央銀行リストと役割(2026-Q2)

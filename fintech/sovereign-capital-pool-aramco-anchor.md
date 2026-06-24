@@ -4,8 +4,8 @@ aliases: [sovereign capital pool aramco anchor, $7T Aramco sovereign capital, Ar
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, number, economic-pattern, sovereign-capital, middle-east, aramco, blackrock, allocation-ceiling]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.pif.gov.sa/
   - https://www.sama.gov.sa/en-US/News/Pages/default.aspx
   - https://www.imf.org/en/Countries/SAU
-status: candidate
+status: active
 ---
 
 # ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として

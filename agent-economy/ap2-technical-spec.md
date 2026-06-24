@@ -4,13 +4,13 @@ aliases: [ap2-technical-spec, ap2-mandate-intent-settlement, google-ap2-spec]
 domain: agent-economy
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, technical-spec]
 sources:
   - https://github.com/google-agentic-commerce/AP2
-status: candidate
+status: active
 ---
 
 # AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter

@@ -4,8 +4,8 @@ aliases: [basel-iii-frtb-overview, BCBS SCO60, crypto risk weight, 1250 RW]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, basel, bcbs, frtb, bank, capital-requirement]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/bcbs/
   - https://www.eba.europa.eu/regulation-and-policy/single-rulebook
   - https://www.federalreserve.gov/supervisionreg/topics/cryptoasset.htm
-status: candidate
+status: active
 ---
 
 # Basel III FRTB 暗号エクスポージャー · BCBS SCO60 1,250% リスクウェイト概要
