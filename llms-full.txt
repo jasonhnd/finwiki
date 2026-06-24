@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-24T17:57:08+09:00
+Generated: 2026-06-24T18:28:04+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -7815,8 +7815,8 @@ Public pages listed: 1564
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
 - Summary: This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.
-- Headings: ライフネット生命保険 (LifeNet Insurance), Wiki route, TL;DR, 1. 会社概要, 主要株主, 創業者・経営陣（沿革）, 2. 事業セグメント・マップ, チャネル・契約フロー
-- First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/internet-life-insurance-business-model, https://finwiki.zksc.io/life-insurers/INDEX, https://finwiki.zksc.io/life-insurers/dai-ichi-life, https://finwiki.zksc.io/megabanks/au-fh, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/megabanks/sbi-hd, https://finwiki.zksc.io/megabanks/smfg
+- Headings: ライフネット生命保険 (LifeNet Insurance), Wiki route, TL;DR, 1. Entity / licence boundary, 2. Business model, Direct online economics, 3. Shareholder / channel relationship, 4. Solvency / insurer capital reading
+- First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/internet-life-insurance-business-model, https://finwiki.zksc.io/life-insurers/INDEX, https://finwiki.zksc.io/life-insurers/dai-ichi-life, https://finwiki.zksc.io/life-insurers/orix-life, https://finwiki.zksc.io/megabanks/au-fh, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/megabanks/sbi-hd
 
 ### マニュライフ生命保険 (Manulife Life Insurance Japan)
 - URL: https://finwiki.zksc.io/life-insurers/manulife-japan
@@ -7946,8 +7946,8 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/life-insurers/orix-life.md
 - Domain: life-insurers
 - Type: wiki_entry
-- Summary: This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.
-- Headings: オリックス生命保険, Wiki route, TL;DR, 1. 会社概要, 親会社オリックスグループ内の位置付け, 2. 沿革, 3. 主要商品, 親会社シナジー
+- Summary: This entry sits under life-insurers INDEX. Read it against ライフネット生命 for direct-online contrast, ORIX Corporation for group context, and insurance index for the broader system / regulatory boundary.
+- Headings: オリックス生命保険, Wiki route, TL;DR, 1. Entity / licence boundary, 2. Business model / channel map, 3. Products / group role, 4. Solvency / capital reading, 5. Peer / contrast map
 - First resolved wikilinks: https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/leasing-firms/orix-corp, https://finwiki.zksc.io/life-insurers/INDEX, https://finwiki.zksc.io/life-insurers/aflac-japan, https://finwiki.zksc.io/life-insurers/axa-japan, https://finwiki.zksc.io/life-insurers/dai-ichi-life, https://finwiki.zksc.io/life-insurers/kampo-life, https://finwiki.zksc.io/life-insurers/lifenet, https://finwiki.zksc.io/life-insurers/meiji-yasuda, https://finwiki.zksc.io/life-insurers/nippon-life, https://finwiki.zksc.io/life-insurers/prudential-japan, https://finwiki.zksc.io/life-insurers/sumitomo-life
 
 ### Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
@@ -8368,9 +8368,9 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/seiko-epson.md
 - Domain: manufacturer-finance
 - Type: wiki_entry
-- Summary: This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.
-- Headings: Seiko Epson Corporation (セイコーエプソン), Wiki route, TL;DR, 1. 会社構造, 2. 事業ライン map, 3. 戦略と競合, 4. 規制と政策, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/toyota-motor, https://finwiki.zksc.io/regional-banks/hachijuni-bank
+- Summary: This entry sits under manufacturing index. Read it with hachijuni-bank for Nagano regional-bank / manufacturer context, Toyota Motor Corporation (トヨタ自動車) for adjacent manufacturer-finance anchors, and FinWiki index for the broader system boundary.
+- Headings: Seiko Epson Corporation (セイコーエプソン), Wiki route, TL;DR, 1. Company / operating-segment boundary, 2. Treasury / balance-sheet anchor, 3. Why it matters for finance pages, 4. Risk / policy map, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/leasing-firms/INDEX, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/toyota-motor, https://finwiki.zksc.io/regional-banks/hachijuni-bank
 
 ### Sony Group Finance Arm (ソニーグループ 金融事業アーム)
 - URL: https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm
@@ -15238,7 +15238,7 @@ Public pages listed: 1564
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Alterna Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.
-- Headings: オルタナ信託 (Alterna Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: オルタナ信託 (Alterna Trust), Wiki route, TL;DR, Entity boundary, Digital securities trust role, Group / alliance relationship, MDM side, Sumitomo Mitsui Trust side
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-licenses/securities-license-stack, https://finwiki.zksc.io/fintech/jp-stablecoin-progmat, https://finwiki.zksc.io/payment-firms/progmat, https://finwiki.zksc.io/securities/osaka-digital-exchange, https://finwiki.zksc.io/trust-banks/INDEX, https://finwiki.zksc.io/trust-banks/smtb, https://finwiki.zksc.io/trust-banks/trust-companies-japan-index
 
 ### Asahi Trust / 朝日信託
