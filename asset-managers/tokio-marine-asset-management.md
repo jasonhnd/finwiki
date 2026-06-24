@@ -3,16 +3,17 @@ title: "東京海上アセットマネジメント (Tokio Marine AM)"
 aliases: ["Tokio Marine Asset Management", "東京海上アセットマネジメント", "東京海上アセットマネジメント株式会社", "TMAM"]
 domain: asset-managers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-06-24
+last_tended: 2026-06-24
+review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, tokio-marine, non-life]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-  - "https://www.tokiomarineam.co.jp/company/profile/"
-  - "https://www.tokiomarinehd.com/group_company/"
+  - "FSA: financial instruments business operators workbook, Tokio Marine Asset Management verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx)"
+  - "Tokio Marine Asset Management: Who We Are / Corporate Profile (https://www.tokiomarineam.com/who_we_are/)"
+  - "Tokio Marine Holdings: List of Group Companies (https://www.tokiomarinehd.com/en/company/about/group.html)"
+  - "Tokio Marine Holdings: Initiatives toward Promoting Japan as a Leading Asset Management Center, 2024-05-28 (https://www.tokiomarinehd.com/en/newsroom/release/2024/qsbph400000036e3-att/20240528_Leading_Asset_Management_Center_E_v2.pdf)"
 ---
 
 # 東京海上アセットマネジメント (Tokio Marine AM)
@@ -23,24 +24,36 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
 
 ## TL;DR
 
-東京海上アセットマネジメント (TMAM) は [[non-life-insurers/tokio-marine|東京海上ホールディングス]] の asset-management operating company。FSA 金融商品取引業者一覧では「東京海上アセットマネジメント株式会社」、関東財務局長(金商)第361号として掲載される。**3 メガ損保 (東京海上 / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]]) の筆頭 [[non-life-insurers/tokio-marine|東京海上 HD]] の運用機能** を担う損保系運用会社で、損保責任準備金・年金運用を主軸とし、近年は公募投信・NISA 商品にも展開。メガバンク系運用会社 ([[asset-managers/mufg-asset-management|MUAM]] / [[asset-managers/asset-management-one|アセマネOne]]) や生保系運用会社 ([[asset-managers/nissay-asset-management|ニッセイ AM]]) とは異なる**損保系運用会社**カテゴリの代表。
+東京海上アセットマネジメント (TMAM) は、[[non-life-insurers/tokio-marine|東京海上ホールディングス]] が 100% 保有する asset-management operating company。公式 profile は、1985 年設立、paid-in capital JPY 2.0bn、Financial Instruments Business Director General of Kanto Local Finance Bureau No.361、Investment Management Association of Japan / Type II Financial Instruments Firms Association membership、parent company Tokio Marine Holdings, Inc. と説明する。^[source:tmam-profile-2026] FSA 金融商品取引業者一覧では、東京海上アセットマネジメント株式会社を **関東財務局長(金商)第361号** として確認でき、第二種金融商品取引業、投資助言・代理業、投資運用業の flags が立つ。^[source:fsa-fibo-2026] Tokio Marine Holdings の 2024 asset-management-center 資料は、TMAM を group の asset management company とし、institutional clients 向け investment advisory business と retail clients 向け investment trust business を担うと説明する。^[source:tmhd-am-center-2024]
 
 ## 1. 法人・ライセンス境界
 
 | Item | Reading |
 |---|---|
-| Legal name | 東京海上アセットマネジメント株式会社 |
-| 英名 | Tokio Marine Asset Management Co., Ltd. |
-| FSA registration | 関東財務局長(金商)第361号 |
-| FIEA scope | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
-| Parent boundary | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% asset-management 子会社 |
-| 本社 | 東京都千代田区 |
+| Legal name | 東京海上アセットマネジメント株式会社 / Tokio Marine Asset Management Co., Ltd. |
+| Parent | Tokio Marine Holdings, Inc. が 100% 保有。^[source:tmam-profile-2026] |
+| Location | 19F Tekko Building, Marunouchi 1-chome, Chiyoda-ku, Tokyo 100-0005.^[source:tmam-profile-2026] |
+| Establishment | 1985-12-09。^[source:tmam-profile-2026] |
+| FSA registration | 関東財務局長(金商)第361号。^[source:tmam-profile-2026][source:fsa-fibo-2026] |
+| FIEA scope | FSA workbook で第二種金融商品取引業、投資助言・代理業、投資運用業を確認。^[source:fsa-fibo-2026] |
+| Memberships | Investment Management Association of Japan、Type II Financial Instruments Firms Association.^[source:tmam-profile-2026] |
 
 ## 2. Business role
 
-- **損害保険責任準備金運用**、**年金運用**、**公募投信運用**、**投資一任** を担う [[non-life-insurers/tokio-marine|東京海上 HD]] の運用会社。
-- 損保 FG の運用機能として、長期負債 (損保責任準備金) のデュレーション・マッチング運用が中核。
-- 公募投信・NISA 商品にも展開し、生保・銀行販売チャネル経由で個人投資家向けに販売。
+### Insurance-group asset-management channel
+
+- TMAM は Tokio Marine group の asset management company として、institutional clients 向け investment advisory business と retail clients 向け investment trust business を担う。^[source:tmhd-am-center-2024]
+- Tokio Marine Holdings の group-company list でも Tokio Marine Asset Management Co., Ltd. は group company として掲載される。^[source:tmhd-group-2026]
+- 同じ資料は Tokio Marine Group を asset owner / insurer としても位置づけ、group AUM 37tn yen、insurance / asset-owner AUM 26.9tn yen と説明する。ただし、この数値は group-level AUM であり、TMAM 単体 AUM とは読まない。^[source:tmhd-am-center-2024]
+
+### Product / client split
+
+| Lane | Reading |
+|---|---|
+| Institutional advisory | Tokio Marine Holdings' 2024資料は、TMAM が institutional clients 向け investment advisory business を primarily operate すると説明する。^[source:tmhd-am-center-2024] |
+| Retail investment trusts | 同資料は、TMAM が retail clients 向け investment trust business を primarily operate すると説明する。^[source:tmhd-am-center-2024] |
+| FIEA registration stack | FSA workbook 上の登録は Type II + investment advisory / agency + investment management。これは pure distributor ではなく、投資運用会社として読む根拠になる。^[source:fsa-fibo-2026] |
+| Global subsidiaries | TMAM profile lists Tokio Marine Asset Management (USA), London, and International Pte. Ltd. subsidiaries.^[source:tmam-profile-2026] |
 
 ## 3. 出資・統治構造
 
@@ -49,31 +62,24 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
   ├── 東京海上日動火災保険 (損保コア)
   ├── 東京海上日動あんしん生命 (生保)
   └── 東京海上アセットマネジメント (100%)
-        ├── 損保責任準備金運用 (親会社向け)
-        ├── 年金運用 (DB / DC)
-        ├── 公募投信運用
-        └── 投資一任 (機関投資家向け)
+        ├── institutional advisory business
+        ├── investment trust business for retail clients
+        ├── Type II FIBO
+        ├── investment advisory / agency
+        └── investment management
 ```
 
-- [[non-life-insurers/tokio-marine|東京海上 HD]] 100% 子会社、メガバンク系 AM のような JV 構造ではない
+このページでは、TMAM を東京海上グループの保険引受会社そのものではなく、保険グループ内の運用機能 / 外部投資家向け運用商品機能として扱う。group AUM や保険負債 ALM の話は [[non-life-insurers/tokio-marine]] 側の asset-owner 論点と接続し、TMAM 単体数値としては流用しない。
 
 ## 4. Why standalone page matters
 
-[[non-life-insurers/tokio-marine|東京海上 HD]] は損保 3 メガの筆頭で時価総額・海外比率ともに業界トップだが、運用機能を担う **TMAM** は独立分析単位として重要：
-
-1. **損保系運用会社カテゴリの代表**：[[non-life-insurers/msad|MS&AD]] や [[non-life-insurers/sompo|SOMPO]] 系運用会社と並ぶが、東京海上の海外展開・ESG リーダーシップが運用方針に反映
-2. **NISA 拡充 + 公募投信競争** の損保系プレイヤー：銀行系 ([[asset-managers/mufg-asset-management|MUAM]]) / 証券系 ([[asset-managers/nomura-asset-management|野村アセット]]) / 信託系 ([[asset-managers/smt-am|SMT-AM]]) との競合
-3. **損保責任準備金運用 (約 30 兆円規模) の運用方針** が中堅金融市場 (国内債・株式・オルタナティブ) に与える影響
+1. **損保系 asset manager**: メガバンク系 AM や信託系 AM と違い、parent は損害保険グループ。^[source:tmam-profile-2026]
+2. **FIEA role is investment-management-facing**: FSA workbook で投資運用業と投資助言・代理業を確認でき、単なる販売会社ではない。^[source:fsa-fibo-2026]
+3. **Investment chain node**: Tokio Marine Holdings は 2024 資料で、insurer / asset owner と asset manager の両面から investment chain に関与すると説明し、TMAM を外部資金の運用を受託する asset management company として描く。^[source:tmhd-am-center-2024]
 
 ## 5. 競合・peer
 
-| Peer | 系譜 | 差別化軸 |
-|---|---|---|
-| [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] 系 | 生保責任準備金運用 + 公募投信 |
-| [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] 系 | 中堅生保 FG の運用機能 |
-| [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行 + 生保 JV |
-| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] 系 | メガバンク総合運用 |
-| [[asset-managers/smt-am|SMT-AM]] | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 系 | 信託専業独立系 |
+Peer reading should start with insurer- and bank-adjacent asset managers such as [[asset-managers/nissay-asset-management|ニッセイ AM]], [[asset-managers/t-and-d-asset-management|T&D AM]], [[asset-managers/asset-management-one|アセマネOne]], [[asset-managers/mufg-asset-management|MUAM]], and [[asset-managers/smt-am|SMT-AM]]. This page only asserts TMAM's own parent / registration stack from public sources; peer ownership details should be checked on each peer page before reuse.
 
 ## Related
 
@@ -89,6 +95,12 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
 
 ## Sources
 
-- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公開エクセル一覧).
-- 東京海上アセットマネジメント株式会社, "会社概要" (公式コーポレートサイト).
-- 東京海上ホールディングス, "グループ会社一覧".
+- **FSA**: 金融商品取引業者登録一覧 `kinyushohin.xlsx`（東京海上アセットマネジメント株式会社、関東財務局長(金商)第361号、2026-06-24 確認）https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- **Tokio Marine Asset Management**: Who We Are / Corporate Profile（100% parent, registration, memberships, subsidiaries）https://www.tokiomarineam.com/who_we_are/
+- **Tokio Marine Holdings**: List of Group Companies https://www.tokiomarinehd.com/en/company/about/group.html
+- **Tokio Marine Holdings**: Tokio Marine Group's Initiatives Towards "Promoting Japan as a Leading Asset Management Center" (2024-05-28) https://www.tokiomarinehd.com/en/newsroom/release/2024/qsbph400000036e3-att/20240528_Leading_Asset_Management_Center_E_v2.pdf
+
+---
+
+> [!info] 検証状況
+> confidence: **likely**（2026-06-24）。100% parent、FIEA 登録、投資助言・代理 / 投資運用 / 第二種の registration stack、group asset-management role は公式 profile / FSA workbook / Tokio Marine Holdings 資料で確認済み。group AUM は TMHD group-level として扱い、TMAM 単体値とは断定しない。

@@ -1,110 +1,71 @@
 ---
 source: securities-firms/aizawa-sg
-source_hash: 38d8355b3dae1184
+source_hash: 8ca63ee9ba94db00
 lang: en
 status: machine
 fidelity: ok
 title: "Aizawa Securities Group"
-translated_at: 2026-06-19T12:43:19.915Z
+translated_at: 2026-06-24T00:00:00.000Z
 ---
 
 # Aizawa Securities Group
 
 ## Wiki route
 
-This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/okasan-sg|Okasan Securities Group]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-A mid-tier independent securities holding company (TSE STD **8708**). In 1918-02 , Yahachi Aizawa founded Aizawa Shoken-ten in Tokyo's Nihonbashi-Kabutocho → incorporated 1948  → listed on JASDAQ 1989  → became a holding company 2017-04 . It established a unique position as a **"securities firm specialized in emerging-Asia investment."** It has the broadest emerging-Asia coverage among Japanese securities firms (Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc.). Retail-centered, with limited corporate IB. Competitors are [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] in the same independent-mid-tier bracket and the online players [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]. ^[extracted]
+Aizawa Securities Group is a securities holding company whose official corporate profile lists **AIZAWA SECURITIES GROUP CO., LTD.**, describes the business as **Holding Company**, and states that the stock is listed on the Prime Market of the Tokyo Stock Exchange.^[source:aizawa-group-profile-2026] In the 2021-10 holding-company transition, the securities brokerage business was succeeded by AIZAWA SECURITIES CO., LTD., the investment business by AIZAWA Investments Co., Ltd., and the corporate name changed to AIZAWA SECURITIES GROUP CO., LTD.^[source:aizawa-history-2026] The core operating securities subsidiary, AIZAWA SECURITIES CO., LTD., is a FIBO with Kanto Local Finance Bureau (FIBO) No.3283, confirmed in both its official profile and the FSA workbook.^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] Strategically, Aizawa Securities says on its Asian Stocks page that it handles "12 Asian stock markets", so the useful reading is a retail brokerage group differentiated by Asia-equity access.^[source:aizawa-asian-stocks-2026]
 
-## 1. Company overview
+## 1. Holding-company boundary
 
-**Legal name**: Aizawa Securities Group Co., Ltd. ^[extracted]
-**English name**: Aizawa Securities Group Co., Ltd.
-**Securities code**: TSE STANDARD **8708** ^[extracted]
-**Founded**: 1918-02 (founded by Yahachi Aizawa, Aizawa Shoken-ten / Tokyo's Nihonbashi-Kabutocho) ^[extracted]
-**Incorporated**: 1948 (Aizawa Shoken Co., Ltd.) ^[extracted]
-**Holding-company conversion**: **2017-04-03** intermediate holding-company conversion (Aizawa Securities Group Co., Ltd. established) ^[extracted]
-**Headquarters**: Nihonbashi-Kabutocho ^[extracted], Chuo-ku, Tokyo
-
-### Major subsidiaries
-
-```
-Aizawa Securities Group (holding company / TSE STD 8708)
-  ├── Aizawa Securities Co., Ltd. (100%) ── retail-securities core
-  │     ├── domestic branch network (Tokyo, Osaka, Nagoya, Fukuoka, etc.)
-  │     └── Asia local-subsidiary network (below)
-  ├── PT. Aizawa Securities Indonesia (Indonesia local subsidiary)
-  ├── Aizawa Securities Vietnam Co., Ltd. (Vietnam local subsidiary)
-  └── affiliated operating companies (asset management / investment advisory, etc.; limited in scale)
-```
-
-### Key chronology ^[extracted]
-
-| Year/month | Event |
+| Item | Reading |
 |---|---|
-| **1918-02** | **Yahachi Aizawa founded Aizawa Shoken-ten in Tokyo's Nihonbashi-Kabutocho** |
-| 1948 | Aizawa Shoken Co., Ltd. established (incorporation) |
-| 1989 | Listed on JASDAQ (over-the-counter registration) |
-| The 2000 年s~ | Began full-scale development of investment brokerage into emerging Asia (centered on Vietnam and Indonesia) |
-| **2017-04-03** | **Aizawa Securities Group Co., Ltd. established (intermediate holding-company conversion)** |
-| 2022-04 | TSE market-segment review → TSE STANDARD 8708 |
+| Holding company | AIZAWA SECURITIES GROUP CO., LTD. |
+| Business description | Holding Company.^[source:aizawa-group-profile-2026] |
+| Listed market | Tokyo Stock Exchange Prime Market, code 8708.^[source:aizawa-group-profile-2026] |
+| Founded / established | Group profile lists founded 1918-07-07 and established 1933-10-03.^[source:aizawa-group-profile-2026] |
+| Holding-company transition | 2021-10: securities brokerage business succeeded to AIZAWA SECURITIES CO., LTD.; investment business succeeded to AIZAWA Investments Co., Ltd.; corporate name changed to AIZAWA SECURITIES GROUP CO., LTD.^[source:aizawa-history-2026] |
+| Group companies | AIZAWA SECURITIES, AIZAWA Investments, AIZAWA ASSET MANAGEMENT, LIFE DESIGN PARTNERS, Japan Securities.^[source:aizawa-group-profile-2026] |
 
-## 2. Business-segment map
+### Operating securities subsidiary
 
-| Segment | Main operator | Features |
-|---|---|---|
-| **Emerging-Asia equity brokerage** ★ | Aizawa Securities | **The group's biggest differentiation axis.** Brokers frontier-market issues such as Vietnam, Indonesia, Thailand, Cambodia, and Myanmar to individual investors |
-| US equities | Aizawa Securities | Major US issues, ETFs |
-| Developed-Asia markets | Aizawa Securities | Hong Kong, Singapore, Taiwan, South Korea |
-| Domestic equity retail | Aizawa Securities | Face-to-face-sales-centered, the wealthy / senior demographics |
-| Investment trusts | Aizawa Securities | Asia-investment-trust-centered lineup |
-| Bonds | Aizawa Securities | Relatively strong in foreign bonds (US Treasuries / emerging-market bonds) |
-| Corporate IB | Limited | As a mid-tier independent securities firm, it does not handle large IB deals |
-| Asset management / investment advisory | Group affiliates | Limited in scale |
-
-### Differentiation axis: "securities firm specialized in emerging-Asia investment"
-
-- The **broadest emerging-Asia coverage** among Japanese securities firms (including frontier markets) ^[extracted]
-- Local networks in Vietnam, Indonesia, Thailand, Cambodia, Myanmar
-- Brokers frontier-market issues that are hard for individual investors to access, bundled with face-to-face service
-- Secures a niche market by concentrating on regions that major securities firms ([[megabanks/ndfg]] / Daiwa / SMBC Nikko) do not handle
-
-### Domestic position
-
-- The mid-tier independent securities bracket (alongside [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]])
-- Specialized in retail (individual clients), does not handle corporate IB
-- A hybrid of face-to-face sales + some online trading (not online-only)
-
-### Overseas strategy
-
-- **Emerging-Asia 5  countries as priority markets**: Vietnam, Indonesia, Thailand, Cambodia, Myanmar
-- The US is positioned as a complementary market (commoditized due to competition with major face-to-face / online players)
-
-### Competitive relationships
-
-| Competitor | Axis |
+| Layer | Verified reading |
 |---|---|
-| [[securities-firms/iwai-cosmo-hd]] (Iwai Cosmo HD) | Same mid-tier independent securities, Kansai-originated, a face-to-face + online hybrid |
-| [[securities-firms/okasan-sg]] (Okasan SG) | A mid-tier independent securities firm originating in the Chukyo economic zone, online securities + face-to-face |
-| [[securities-firms/tokai-tokyo-fh]] (Tokai Tokyo FH) | A mid-tier player in Chukyo + Kanto, with many partnerships with regional financial institutions |
-| [[securities-firms/matsui-sec]] (Matsui Securities) | Online-only, centered on younger demographics |
-| [[securities-firms/monex-group]] (Monex G) | Online-only, differentiating with US stocks + crypto-assets |
-| [[securities-firms/smbc-nikko]] (SMBC Nikko) | A major 5  securities firm, under a megabank |
+| Operating company | AIZAWA SECURITIES CO., LTD. |
+| FIBO registration | Kanto Local Finance Bureau (FIBO) No.3283.^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
+| FIEA categories | FSA workbook confirms Type I, Type II, investment advisory / agency, investment management, and securities-related business flags for Aizawa Securities.^[source:fsa-fibo-2026] |
+| Memberships | Aizawa Securities profile lists Japan Securities Dealers Association, Investment Management Association of Japan, and Type II Financial Instruments Firms Association. FSA workbook also confirms JSDA / Type II / asset-management association flags.^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
+
+## 2. Business model
+
+### Asia-equity positioning
+
+Aizawa Securities' official Asian Stocks page self-positions the company as a "Pioneer in Asian Stocks" and says it handles stocks in 12 Asian stock markets: Hong Kong, Shanghai, Shenzhen, South Korea, Taiwan, Singapore, Thailand, Malaysia, Indonesia, Philippines, Vietnam and Israel.^[source:aizawa-asian-stocks-2026] That supports a more precise reading than "generic independent securities group": Aizawa is a retail securities platform with a distinct Asia-equity access lane.
+
+### Group-business map
+
+| Group lane | Public-source reading |
+|---|---|
+| Retail brokerage | AIZAWA SECURITIES is the registered FIBO and JSDA member that carries the securities-client interface.^[source:aizawa-sec-profile-2026] |
+| Asian stocks | AIZAWA SECURITIES handles the 12 Asian markets listed above, giving the group a public-facing Asia-equity specialization.^[source:aizawa-asian-stocks-2026] |
+| Investment business | AIZAWA Investments is listed as a group company and received the investment-business succession in the 2021 holding-company transition.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+| Asset management | AIZAWA ASSET MANAGEMENT is listed as a group company; the operating securities subsidiary also has investment advisory / agency and investment management flags in the FSA workbook.^[source:aizawa-group-profile-2026][source:fsa-fibo-2026] |
+| Vietnam route | Japan Securities Co., Ltd. is listed as a group company; history records Japan Securities in Vietnam becoming a subsidiary in 2018.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+
+## 3. Strategy / peer reading
+
+- Aizawa should be compared with mid-sized independent securities groups such as [[securities-firms/okasan-sg]], [[securities-firms/tokai-tokyo-fh]], and [[securities-firms/iwai-cosmo-hd]], but its public Asia-stock lane makes it less similar to pure domestic face-to-face brokers.
+- It is not a pure online-broker page like [[securities-firms/matsui-sec]] or [[securities-firms/monex-group]]; its differentiation is access and advisory around Asia / emerging-market equities.
+- The previous "TSE Standard" / 2017 holding-company framing is not used here because Aizawa's current official profile and history page support Prime Market and the 2021 holding-company transition instead.^[source:aizawa-group-profile-2026][source:aizawa-history-2026]
 
 ## 4. Regulation / policy
 
-- **Supervision**: FSA / Kanto Local Finance Bureau
-- **Business type**: Type I Financial Instruments Business (securities business)
-- **Regulation**: Financial Instruments and Exchange Act / Japan Securities Dealers Association (JSDA) self-regulation
-- **Overseas regulation**:
-  - Vietnam: State Securities Commission of Vietnam (SSC)
-  - Indonesia: OJK (Otoritas Jasa Keuangan)
-  - Thailand: SEC Thailand
-  - Cambodia / Myanmar: local securities regulators
-- **Recent policy points**:
-  - 2025~ Customer-first business operation (FD principle): the continuity of education-style sales
+- **Supervisor**: FSA / Kanto Local Finance Bureau for the operating securities subsidiary.
+- **Core registration**: AIZAWA SECURITIES CO., LTD., Kanto Local Finance Bureau (FIBO) No.3283. Client-facing regulated activity should be read at the operating subsidiary level, not at the listed holding-company level.^[source:fsa-fibo-2026]
+- **Self-regulation**: JSDA, Investment Management Association of Japan, and Type II Financial Instruments Firms Association memberships are public on the operating subsidiary profile.^[source:aizawa-sec-profile-2026]
+- **Cross-border caution**: this page only treats Asian stock coverage as a public product / access lane; it does not assert unverified revenue contribution by country.
 
 ## Related
 
@@ -114,11 +75,13 @@ Aizawa Securities Group (holding company / TSE STD 8708)
 
 ## Sources
 
-- **Wikipedia: Aizawa Securities Group** (https://ja.wikipedia.org/wiki/アイザワ証券グループ, 2026-05-19 extraction)
-- **Wikipedia: Aizawa Securities** (https://ja.wikipedia.org/wiki/アイザワ証券, 2026-05-19 extraction)
-- Aizawa Securities Group official IR (based on the 2025-06  published Securities Report)
+- **Aizawa Securities Group**: Corporate Profile, as of 2026-04-01; holding company, Prime Market, group companies https://www.aizawa-group.jp/english/corporate_profile.html
+- **Aizawa Securities Group**: History, 2021-10 holding-company transition and business succession https://www.aizawa-group.jp/english/history.html
+- **Aizawa Securities**: Corporate Profile, FIBO No.3283 and association memberships https://www.aizawa.co.jp/english/corporate_profile.html
+- **Aizawa Securities**: Asian Stocks, 12 Asian stock markets handled https://www.aizawa.co.jp/english/asian_stocks.html
+- **FSA**: financial instruments business operators workbook `kinyushohin.xlsx`, Aizawa Securities Co., Ltd., Kanto Local Finance Bureau (FIBO) No.3283, verified 2026-06-24 https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely** (based on v1.0  public information via Wikipedia, created 2026-05-19). Key items (founding 1918, holding-company conversion 2017-04, TSE STD 8708, the emerging-Asia specialization axis) can be verified against public information sourced from Wikipedia. Specific results figures / local-subsidiary revenue contribution require reference to the latest Securities Report (omitted here).
+> [!info] Verification status
+> confidence: **likely** (2026-06-24). The holding-company boundary, Prime Market listing, 2021 holding-company transition, core securities subsidiary FIBO / JSDA membership, and 12 Asian markets are confirmed from official materials / FSA workbook. This version does not assert country-level revenue contribution or rank claims such as "largest in Japan".
