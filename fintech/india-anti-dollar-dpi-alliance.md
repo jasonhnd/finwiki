@@ -4,8 +4,8 @@ aliases: [india-anti-dollar-dpi, upi-mosip-arc-alliance, インド反ドル連�
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, india, dpi, upi, mosip, arc, polygon, anti-dollar, digital-sovereignty]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://polygon.technology/blog
   - https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22329
   - https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125
-status: candidate
+status: active
 ---
 
 # インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ

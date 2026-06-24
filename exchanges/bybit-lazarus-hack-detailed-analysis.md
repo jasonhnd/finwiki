@@ -7,8 +7,8 @@ aliases:
 domain: exchanges
 created: 2026-05-19
 last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - exchanges
@@ -21,7 +21,7 @@ sources:
   - https://www.bybit.com/
   - https://www.chainalysis.com/
   - https://home.treasury.gov/
-status: candidate
+status: active
 ---
 
 # Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出

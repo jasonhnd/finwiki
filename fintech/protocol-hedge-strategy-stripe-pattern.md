@@ -6,11 +6,11 @@ kind: framework
 topic: protocol-hedge-strategy-stripe-pattern
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, protocol, AI-agent, payment, framework, Stripe]
-status: candidate
+status: active
 sources:
   - https://stripe.com/use-cases/ai
   - https://docs.stripe.com/payments

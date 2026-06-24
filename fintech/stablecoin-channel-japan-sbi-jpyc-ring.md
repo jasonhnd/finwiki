@@ -4,8 +4,8 @@ aliases: [sbi-jpyc-circle-ring, SBI Circle Holdings, jpy-usdc-channel, 日本ス
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, stablecoin, sbi, jpyc, circle, japan, usdc, channel]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://jpyc.co.jp/
   - https://www.circle.com/en/press
   - https://www.sbivc.co.jp/
-status: candidate
+status: active
 ---
 
 # SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル

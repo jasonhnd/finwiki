@@ -4,8 +4,8 @@ aliases: [issuer distributor incentive realignment arc strategy, Circle Arc reba
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, circle, arc, coinbase, base, stablecoin-l1, vertical-integration]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.base.org/
   - https://investor.coinbase.com/news-events/press-releases/default.aspx
   - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K
-status: candidate
+status: active
 ---
 
 # Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム

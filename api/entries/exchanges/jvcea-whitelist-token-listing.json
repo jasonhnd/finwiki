@@ -20,8 +20,8 @@
     "type": null,
     "created": "2026-05-19",
     "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2027-05-19",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -31,7 +31,7 @@
       "jvcea",
       "token"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -85,7 +85,7 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2222,
+    "nonspace_chars": 2219,
     "word_like_tokens": 356,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-24"

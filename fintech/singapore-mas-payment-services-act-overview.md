@@ -4,8 +4,8 @@ aliases: [mas-ps-act-overview, MAS PS Act, Singapore stablecoin, DPT, SCS, DTSP]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, law, regulation, singapore, mas, stablecoin, dpt, scs]
 sources:
@@ -13,7 +13,7 @@ sources:
   - https://www.mas.gov.sg/regulation/payments
   - https://www.mas.gov.sg/news/media-releases/2023/mas-finalises-stablecoin-regulatory-framework
   - https://sso.agc.gov.sg/Act/PSA2019
-status: candidate
+status: active
 ---
 
 # Singapore MAS Payment Services Act + SCS フレームワーク概観

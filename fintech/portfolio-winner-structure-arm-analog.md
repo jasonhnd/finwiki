@@ -6,11 +6,11 @@ kind: framework
 topic: portfolio-winner-structure
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, investment-strategy, Visa, ARM, infrastructure, structural-position]
-status: candidate
+status: active
 sources:
   - https://investor.visa.com/financial-information/sec-filings/default.aspx
   - https://www.arm.com/company/investors

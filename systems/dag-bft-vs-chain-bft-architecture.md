@@ -6,11 +6,11 @@ kind: framework
 topic: dag-bft-vs-chain-bft-architecture
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, blockchain, BFT, consensus, mempool, architecture]
-status: candidate
+status: active
 sources:
   - https://arxiv.org/abs/1803.05069
   - https://arxiv.org/abs/2105.11827

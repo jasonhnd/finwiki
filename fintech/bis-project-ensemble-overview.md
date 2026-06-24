@@ -4,8 +4,8 @@ aliases: [bis-project-ensemble-overview, hkma-ensemble, Project Ensemble]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, hkma, hong-kong, tokenized-deposits, sandbox, hsbc, anchorpoint]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
   - https://www.hsbc.com.hk/
   - https://www.hkma.gov.hk/eng/
-status: candidate
+status: active
 ---
 
 # HKMA Project Ensemble 概要

@@ -9,8 +9,8 @@ aliases:
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags:
   - fintech
@@ -18,7 +18,7 @@ tags:
   - dcjpy
   - deposit-token
   - decurret
-status: candidate
+status: active
 sources:
   - https://www.decurret-dcp.com/company/
   - https://www.decurret-dcp.com/service/

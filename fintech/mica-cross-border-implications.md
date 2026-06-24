@@ -4,8 +4,8 @@ aliases: [mica-cross-border, MiCA USA MRA, USDC EURC bilateral]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, law, regulation, eu, mica, mra, usdc, eurc]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.circle.com/en/eurc
   - https://www.circle.com/en/usdc
   - https://www.congress.gov/bill/119th-congress/senate-bill/394
-status: candidate
+status: active
 ---
 
 # MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3

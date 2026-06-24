@@ -6,11 +6,11 @@ kind: pattern
 topic: gray-market-dollar-network-formalization
 created: 2026-05-16
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: likely
 tags: [fintech, stablecoin, Tether, regulatory-arbitrage, market-structure]
-status: candidate
+status: active
 sources:
   - https://tether.to/en/news/
   - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/

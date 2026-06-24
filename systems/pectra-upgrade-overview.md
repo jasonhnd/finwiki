@@ -4,15 +4,15 @@ aliases: [pectra-upgrade-overview, pectra, ethereum-pectra]
 domain: systems
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [systems, ethereum, upgrade, pectra, eip-7702, eip-7251, eip-7691, eip-2537]
 sources:
   - https://eips.ethereum.org/EIPS/eip-7251
   - https://eips.ethereum.org/EIPS/eip-7691
   - https://eips.ethereum.org/EIPS/eip-7702
-status: candidate
+status: active
 ---
 
 # Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧

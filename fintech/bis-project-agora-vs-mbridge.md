@@ -4,8 +4,8 @@ aliases: [bis-project-agora-vs-mbridge, Agora mBridge comparison, クロスボ�
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, bis, mbridge, agora, cbdc, geopolitics, cross-border-settlement]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.bis.org/press/p240403.htm
   - https://www.bis.org/innovation_hub.htm
   - https://www.pbc.gov.cn/en/3688110/index.html
-status: candidate
+status: active
 ---
 
 # Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較

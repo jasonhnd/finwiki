@@ -6,11 +6,11 @@ kind: knowledge
 topic: post-quantum-blockchain-day1-integration
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [systems, blockchain, post-quantum, cryptography, FIPS-205]
-status: candidate
+status: active
 sources:
   - https://csrc.nist.gov/pubs/fips/205/final
   - https://www.circle.com/blog/preparing-blockchains-for-q-day

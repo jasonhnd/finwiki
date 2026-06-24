@@ -20,15 +20,15 @@
     "type": null,
     "created": "2026-05-18",
     "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
-    "review_by": "2027-05-18",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
       "fintech",
       "jp-crypto-exchange",
       "vasp"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -97,7 +97,7 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4737,
+    "nonspace_chars": 4734,
     "word_like_tokens": 866,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-05-24"

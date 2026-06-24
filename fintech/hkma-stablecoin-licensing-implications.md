@@ -4,8 +4,8 @@ aliases: [hkma-licensing-implications, Tether HK bet, China camp HK channel]
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, law, regulation, hk, stablecoin, tether, china, mra]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
   - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
   - https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Licensing
-status: candidate
+status: active
 ---
 
 # HKMA ライセンス戦略的含意 · Tether HK 非対称ベット + 中国本土 SC チャネル

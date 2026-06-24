@@ -6,11 +6,11 @@ kind: knowledge
 topic: chain-level-ofac-freeze-precedent
 created: 2026-05-13
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-13
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: certain
 tags: [fintech, OFAC, sanction, freeze, stablecoin, USDC]
-status: candidate
+status: active
 sources:
   - https://ofac.treasury.gov/recent-actions
   - https://home.treasury.gov/policy-issues/financial-sanctions

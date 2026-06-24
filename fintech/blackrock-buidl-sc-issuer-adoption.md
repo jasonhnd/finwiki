@@ -4,8 +4,8 @@ aliases: [blackrock-buidl-sc-issuer-adoption, BUIDL SC adoption, BUIDL collatera
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-09-22
 confidence: likely
 tags: [fintech, tokenization, mmf, blackrock, stablecoin-reserve, defi-collateral, im-collateral]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://www.ondo.finance/
   - https://app.rwa.xyz/treasuries
   - https://www.sky.money/
-status: candidate
+status: active
 ---
 
 # BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス

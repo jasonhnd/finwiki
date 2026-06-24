@@ -4,8 +4,8 @@ aliases: [embedded wallet fintech disintermediation overview, embedded wallets P
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_tended: 2026-06-24
+review_by: 2026-08-08
 confidence: certain
 tags: [fintech, embedded-wallet, privy, coinbase-cdp, account-abstraction, disintermediation]
 sources:
@@ -14,7 +14,7 @@ sources:
   - https://magic.link/
   - https://web3auth.io/
   - https://docs.stripe.com/crypto
-status: candidate
+status: active
 ---
 
 # 組込み型ウォレットによる Fintech の脱仲介化 · 四強構図
