@@ -3,16 +3,18 @@ title: アイザワ証券グループ (Aizawa Securities Group)
 aliases: ["Aizawa Securities Group", "Aizawa SG", "アイザワ証券グループ", "藍澤證券", "8708"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-06-24
+last_tended: 2026-06-24
+review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, securities, independent]
 status: active
 sources:
-  - "Wikipedia: アイザワ証券グループ (2026-05-19 抽出)"
-  - "Wikipedia: アイザワ証券 (2026-05-19 抽出)"
-  - アイザワ証券グループ 公式 IR (2025-06 公表 有価証券報告書ベース)
+  - "Aizawa Securities Group: Corporate Profile, as of 2026-04-01 (https://www.aizawa-group.jp/english/corporate_profile.html)"
+  - "Aizawa Securities Group: History, holding-company transition in 2021-10 (https://www.aizawa-group.jp/english/history.html)"
+  - "Aizawa Securities: Corporate Profile, FIBO No.3283 and memberships (https://www.aizawa.co.jp/english/corporate_profile.html)"
+  - "Aizawa Securities: Asian Stocks, 12 Asian stock markets handled (https://www.aizawa.co.jp/english/asian_stocks.html)"
+  - "FSA: financial instruments business operators workbook, Aizawa Securities verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx)"
 ---
 
 # アイザワ証券グループ (Aizawa Securities Group)
@@ -23,95 +25,56 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-中堅独立証券持株会社（東証 STD **8708**）。1918-02 藍澤彌八が東京・日本橋兜町で 藍澤證券店 として創業 → 1948 株式会社化 → 1989 ジャスダック上場 → 2017-04 持株会社化。**「アジア新興国投資の専門証券」** として独自ポジション確立。日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー等）。リテール中心、法人 IB は限定的。競合は同じ独立中堅枠の [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]]、ネット系 [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]。^[extracted]
+アイザワ証券グループは、公式 Corporate Profile が **AIZAWA SECURITIES GROUP CO., LTD.**、Business Description を **Holding Company**、Stock listed on Prime Market of Tokyo Stock Exchange と記載する証券持株会社。^[source:aizawa-group-profile-2026] 2021-10 の holding-company transition により、証券 brokerage business は AIZAWA SECURITIES CO., LTD. へ、investment business は AIZAWA Investments Co., Ltd. へ承継され、社名が AIZAWA SECURITIES GROUP CO., LTD. へ変更された。^[source:aizawa-history-2026] 中核証券子会社 AIZAWA SECURITIES CO., LTD. は関東財務局長(金商)第3283号の FIBO で、公式 profile と FSA workbook の双方で確認できる。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] 戦略面では、Aizawa Securities が Asian Stocks ページで「12 Asian stock markets」を扱うと説明しており、アジア株リテール仲介を差別化軸として読む。^[source:aizawa-asian-stocks-2026]
 
-## 1. 会社概要
+## 1. Holding-company boundary
 
-**正式名**：株式会社アイザワ証券グループ ^[extracted]
-**英名**：Aizawa Securities Group Co., Ltd.
-**証券コード**：東証 STANDARD **8708** ^[extracted]
-**創業**：1918-02（藍澤彌八 創業、藍澤證券店 / 東京・日本橋兜町）^[extracted]
-**株式会社化**：1948（株式会社藍澤證券）^[extracted]
-**持株会社化**：**2017-04-03** 中間持株会社化（株式会社アイザワ証券グループ 設立）^[extracted]
-**本社**：東京都中央区日本橋兜町 ^[extracted]
-
-### 主要子会社
-
-```
-アイザワ証券グループ（持株会社・東証 STD 8708）
-  ├── アイザワ証券株式会社（100%）── リテール証券コア
-  │     ├── 国内支店ネットワーク（東京・大阪・名古屋・福岡 他）
-  │     └── アジア現地法人ネットワーク（下記）
-  ├── PT. Aizawa Securities Indonesia（インドネシア現地法人）
-  ├── Aizawa Securities Vietnam Co., Ltd.（ベトナム現地法人）
-  └── 関連事業会社（資産運用 / 投資顧問 等、規模は限定的）
-```
-
-### 重要年表 ^[extracted]
-
-| 年月 | 事象 |
+| Item | Reading |
 |---|---|
-| **1918-02** | **藍澤彌八が東京・日本橋兜町で 藍澤證券店 創業** |
-| 1948 | 株式会社藍澤證券 設立（株式会社化）|
-| 1989 | ジャスダック上場（店頭登録）|
-| 2000 年代〜 | アジア新興国（ベトナム・インドネシア中心）への投資仲介を本格展開 |
-| **2017-04-03** | **株式会社アイザワ証券グループ 設立（中間持株会社化）** |
-| 2022-04 | 東証 市場区分見直し → 東証 STANDARD 8708 |
+| Holding company | AIZAWA SECURITIES GROUP CO., LTD. |
+| Business description | Holding Company。^[source:aizawa-group-profile-2026] |
+| Listed market | Tokyo Stock Exchange Prime Market, code 8708。^[source:aizawa-group-profile-2026] |
+| Founded / established | Group profile lists founded 1918-07-07 and established 1933-10-03.^[source:aizawa-group-profile-2026] |
+| Holding-company transition | 2021-10: securities brokerage business succeeded to AIZAWA SECURITIES CO., LTD.; investment business succeeded to AIZAWA Investments Co., Ltd.; corporate name changed to AIZAWA SECURITIES GROUP CO., LTD.^[source:aizawa-history-2026] |
+| Group companies | AIZAWA SECURITIES, AIZAWA Investments, AIZAWA ASSET MANAGEMENT, LIFE DESIGN PARTNERS, Japan Securities.^[source:aizawa-group-profile-2026] |
 
-## 2. 事業セグメント・マップ
+### Operating securities subsidiary
 
-| セグメント | 主要事業者 | 特徴 |
-|---|---|---|
-| **アジア新興国株式仲介** ★ | アイザワ証券 | **本グループ最大の差別化軸**。ベトナム・インドネシア・タイ・カンボジア・ミャンマー 等のフロンティア市場銘柄を個人投資家向けに仲介 |
-| 米国株式 | アイザワ証券 | 米国主要銘柄、ETF |
-| アジア先進市場 | アイザワ証券 | 香港・シンガポール・台湾・韓国 |
-| 国内株式リテール | アイザワ証券 | 対面営業中心、富裕層・シニア層 |
-| 投資信託 | アイザワ証券 | アジア投信中心ラインアップ |
-| 債券 | アイザワ証券 | 外債（米国債・新興国債）が比較的強い |
-| 法人 IB | 限定的 | 中堅独立証券として大型 IB 案件は手掛けず |
-| 資産運用・投資顧問 | グループ関連会社 | 規模限定 |
-
-### 差別化軸：「アジア新興国投資の専門証券」
-
-- 日本の証券会社では **アジア新興国カバレッジが最も広い**（フロンティア市場含む）^[extracted]
-- ベトナム・インドネシア・タイ・カンボジア・ミャンマー の現地ネットワーク
-- 個人投資家がアクセスしにくいフロンティア市場銘柄を、対面サービス込みで仲介
-- 大手証券（[[megabanks/ndfg]] / 大和 / SMBC 日興）が扱わない地域への集中で隙間市場を確保
-
-### 国内ポジション
-
-- 中堅独立証券枠（[[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]] と並ぶ）
-- リテール（個人客）特化、法人 IB は手掛けず
-- 対面営業 + 一部オンライン取引のハイブリッド（ネット専業ではない）
-
-### 海外戦略
-
-- **アジア新興国 5 ヶ国を重点市場**：ベトナム・インドネシア・タイ・カンボジア・ミャンマー
-- 米国は補完市場として位置付け（大手対面・ネット系と競合するためコモディティ化）
-
-### 競合関係
-
-| 競合 | 軸 |
+| Layer | Verified reading |
 |---|---|
-| [[securities-firms/iwai-cosmo-hd]]（岩井コスモ HD）| 同じ中堅独立証券、関西発祥、対面 + ネットのハイブリッド |
-| [[securities-firms/okasan-sg]]（岡三 SG）| 中京経済圏発祥の中堅独立証券、ネット証券 + 対面 |
-| [[securities-firms/tokai-tokyo-fh]]（東海東京 FH）| 中京 + 関東の中堅、地域金融機関と提携多数 |
-| [[securities-firms/matsui-sec]]（松井証券）| ネット専業、若年層中心 |
-| [[securities-firms/monex-group]]（マネックス G）| ネット専業、米国株 + 暗号資産で差別化 |
-| [[securities-firms/smbc-nikko]]（SMBC 日興）| 大手 5 大証券、メガバンク傘下 |
+| Operating company | AIZAWA SECURITIES CO., LTD. |
+| FIBO registration | 関東財務局長(金商)第3283号。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
+| FIEA categories | FSA workbook confirms Type I, Type II, investment advisory / agency, investment management, and securities-related business flags for Aizawa Securities.^[source:fsa-fibo-2026] |
+| Memberships | Aizawa Securities profile lists Japan Securities Dealers Association, Investment Management Association of Japan, and Type II Financial Instruments Firms Association. FSA workbook also confirms JSDA / Type II / asset-management association flags.^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
 
-## 4. 規制・政策
+## 2. Business model
 
-- **主管**：金融庁（FSA）・関東財務局
-- **業態**：第一種金融商品取引業（証券業）
-- **規制**：金融商品取引法・日本証券業協会（JSDA）自主規制
-- **海外規制**：
-  - ベトナム：State Securities Commission of Vietnam (SSC)
-  - インドネシア：OJK（Otoritas Jasa Keuangan）
-  - タイ：SEC Thailand
-  - カンボジア・ミャンマー：現地証券規制当局
-- **直近政策論点**：
-  - 2025〜 顧客本位の業務運営（FD 原則）：教育型営業の継続性
+### Asia-equity positioning
+
+Aizawa Securities' official Asian Stocks page self-positions the company as a "Pioneer in Asian Stocks" and says it handles stocks in 12 Asian stock markets: Hong Kong, Shanghai, Shenzhen, South Korea, Taiwan, Singapore, Thailand, Malaysia, Indonesia, Philippines, Vietnam and Israel.^[source:aizawa-asian-stocks-2026] This supports a narrower and more useful reading than "generic independent securities group": Aizawa is a retail securities platform with a distinct Asia-equity access lane.
+
+### Group-business map
+
+| Group lane | Public-source reading |
+|---|---|
+| Retail brokerage | AIZAWA SECURITIES is the registered FIBO and JSDA member that carries the securities-client interface.^[source:aizawa-sec-profile-2026] |
+| Asian stocks | AIZAWA SECURITIES handles the 12 Asian markets listed above, giving the group a public-facing Asia-equity specialization.^[source:aizawa-asian-stocks-2026] |
+| Investment business | AIZAWA Investments is listed as a group company and received the investment-business succession in the 2021 holding-company transition.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+| Asset management | AIZAWA ASSET MANAGEMENT is listed as a group company; the operating securities subsidiary also has investment advisory / agency and investment management flags in the FSA workbook.^[source:aizawa-group-profile-2026][source:fsa-fibo-2026] |
+| Vietnam route | Japan Securities Co., Ltd. is listed as a group company; history records Japan Securities in Vietnam becoming a subsidiary in 2018.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+
+## 3. Strategy / peer reading
+
+- Aizawa should be compared with mid-sized independent securities groups such as [[securities-firms/okasan-sg]], [[securities-firms/tokai-tokyo-fh]], and [[securities-firms/iwai-cosmo-hd]], but its public Asia-stock lane makes it less similar to pure domestic face-to-face brokers.
+- It is not a pure online-broker page like [[securities-firms/matsui-sec]] or [[securities-firms/monex-group]]; its differentiation is access and advisory around Asia / emerging-market equities.
+- The prior "TSE Standard" / 2017 holding-company framing is not used here because Aizawa's current official profile and history page support Prime Market and the 2021 holding-company transition instead.^[source:aizawa-group-profile-2026][source:aizawa-history-2026]
+
+## 4. Regulation / policy
+
+- **Supervisor**: FSA / Kanto Local Finance Bureau for the operating securities subsidiary.
+- **Core registration**: AIZAWA SECURITIES CO., LTD., 関東財務局長(金商)第3283号。Client-facing regulated activity should be read at the operating subsidiary level, not at the listed holding-company level.^[source:fsa-fibo-2026]
+- **Self-regulation**: JSDA, Investment Management Association of Japan, and Type II Financial Instruments Firms Association memberships are public on the operating subsidiary profile.^[source:aizawa-sec-profile-2026]
+- **Cross-border caution**: the page only treats Asian stock coverage as a public product / access lane; it does not assert unverified revenue contribution by country.
 
 ## Related
 
@@ -121,11 +84,13 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Sources
 
-- **Wikipedia: アイザワ証券グループ**（https://ja.wikipedia.org/wiki/アイザワ証券グループ, 2026-05-19 抽出）
-- **Wikipedia: アイザワ証券**（https://ja.wikipedia.org/wiki/アイザワ証券, 2026-05-19 抽出）
-- アイザワ証券グループ 公式 IR（2025-06 公表 有価証券報告書ベース）
+- **Aizawa Securities Group**: Corporate Profile（as of 2026-04-01; holding company, Prime Market, group companies）https://www.aizawa-group.jp/english/corporate_profile.html
+- **Aizawa Securities Group**: History（2021-10 holding-company transition and business succession）https://www.aizawa-group.jp/english/history.html
+- **Aizawa Securities**: Corporate Profile（FIBO No.3283 and association memberships）https://www.aizawa.co.jp/english/corporate_profile.html
+- **Aizawa Securities**: Asian Stocks（12 Asian stock markets handled）https://www.aizawa.co.jp/english/asian_stocks.html
+- **FSA**: 金融商品取引業者登録一覧 `kinyushohin.xlsx`（アイザワ証券株式会社、関東財務局長(金商)第3283号、2026-06-24 確認）https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia 経由公開情報ベース、2026-05-19 作成）。重要事項（創業 1918、持株会社化 2017-04、東証 STD 8708、アジア新興国専門軸）は Wikipedia 由来の公開情報で校核可能。具体的な決算数値・現地法人収益貢献度は最新の有価証券報告書を要参照（記載省略）。
+> [!info] 検証状況
+> confidence: **likely**（2026-06-24）。持株会社境界、Prime Market 表記、2021 holding-company transition、中核証券子会社の FIBO / JSDA membership、12 Asian markets は公式資料 / FSA workbook で確認済み。国別収益貢献や「国内最大」等の順位主張は本版では断定しない。

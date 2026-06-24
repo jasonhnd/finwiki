@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-24T17:11:57+09:00",
+  "generated_at": "2026-06-24T17:57:08+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11131206,
-    "word_like_tokens": 1796508,
+    "nonspace_utf8_chars": 11143564,
+    "word_like_tokens": 1798624,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -6518,55 +6518,45 @@
         "TL;DR",
         "1. 法人・ライセンス境界",
         "2. Business role",
+        "Insurance-group asset-management channel",
+        "Product / client split",
         "3. 出資・統治構造",
         "4. Why standalone page matters",
-        "5. 競合・peer",
-        "Related",
-        "Sources"
+        "5. 競合・peer"
       ],
       "wikilinks": [
         "asset-managers/INDEX",
         "asset-managers/asset-management-one",
         "asset-managers/mufg-asset-management",
         "asset-managers/nissay-asset-management",
-        "asset-managers/nomura-asset-management",
         "asset-managers/smt-am",
         "asset-managers/t-and-d-asset-management",
         "financial-licenses/securities-license-stack",
-        "life-insurers/nippon-life",
-        "life-insurers/td-hd",
-        "megabanks/mufg",
         "non-life-insurers/msad",
         "non-life-insurers/sompo",
         "non-life-insurers/tokio-marine",
         "securities/financial-instruments-business-operators-japan-index",
-        "securities/nisa-2024-flow",
-        "trust-banks/sumitomo-mitsui-trust"
+        "securities/nisa-2024-flow"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/asset-managers/INDEX",
         "https://finwiki.zksc.io/asset-managers/asset-management-one",
         "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
         "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
-        "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
         "https://finwiki.zksc.io/asset-managers/smt-am",
         "https://finwiki.zksc.io/asset-managers/t-and-d-asset-management",
         "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
-        "https://finwiki.zksc.io/life-insurers/nippon-life",
-        "https://finwiki.zksc.io/life-insurers/td-hd",
-        "https://finwiki.zksc.io/megabanks/mufg",
         "https://finwiki.zksc.io/non-life-insurers/msad",
         "https://finwiki.zksc.io/non-life-insurers/sompo",
         "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
         "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-        "https://finwiki.zksc.io/securities/nisa-2024-flow",
-        "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+        "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3549,
-      "word_like_tokens": 526,
+      "nonspace_chars": 6255,
+      "word_like_tokens": 974,
       "last_modified": "2026-06-21"
     },
     {
@@ -43850,7 +43840,7 @@
       "entity_edges": [],
       "nonspace_chars": 4385,
       "word_like_tokens": 692,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "foreign-financial-institutions/dbs-bank-japan.md",
@@ -45464,7 +45454,7 @@
       "entity_edges": [],
       "nonspace_chars": 5949,
       "word_like_tokens": 973,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "foreign-financial-institutions/taiwan-cooperative-bank-japan.md",
@@ -49206,12 +49196,12 @@
         "Wiki route",
         "TL;DR",
         "Structure",
-        "Business Map",
-        "Strategic Reading",
-        "Competitive Context",
-        "Risk Notes",
-        "Related",
-        "Sources"
+        "Alliance mechanics",
+        "Mizuho relationship",
+        "Marubeni relationship",
+        "Business map",
+        "Strategic reading",
+        "Competitive context"
       ],
       "wikilinks": [
         "INDEX",
@@ -49240,8 +49230,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3743,
-      "word_like_tokens": 561,
+      "nonspace_chars": 7697,
+      "word_like_tokens": 1208,
       "last_modified": "2026-06-21"
     },
     {
@@ -73586,7 +73576,7 @@
       "entity_edges": [],
       "nonspace_chars": 5061,
       "word_like_tokens": 810,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "regional-banks/hokuriku-bank.md",
@@ -74415,7 +74405,7 @@
       "entity_edges": [],
       "nonspace_chars": 4363,
       "word_like_tokens": 666,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "regional-banks/kagawa-bank.md",
@@ -75289,7 +75279,7 @@
       "entity_edges": [],
       "nonspace_chars": 4606,
       "word_like_tokens": 767,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "regional-banks/mebuki-fg.md",
@@ -76673,7 +76663,7 @@
       "entity_edges": [],
       "nonspace_chars": 2901,
       "word_like_tokens": 462,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "regional-banks/sendai-bank.md",
@@ -81658,13 +81648,13 @@
         "アイザワ証券グループ (Aizawa Securities Group)",
         "Wiki route",
         "TL;DR",
-        "1. 会社概要",
-        "主要子会社",
-        "重要年表 ^[extracted]",
-        "2. 事業セグメント・マップ",
-        "差別化軸：「アジア新興国投資の専門証券」",
-        "国内ポジション",
-        "海外戦略"
+        "1. Holding-company boundary",
+        "Operating securities subsidiary",
+        "2. Business model",
+        "Asia-equity positioning",
+        "Group-business map",
+        "3. Strategy / peer reading",
+        "4. Regulation / policy"
       ],
       "wikilinks": [
         "megabanks/ndfg",
@@ -81695,8 +81685,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4004,
-      "word_like_tokens": 570,
+      "nonspace_chars": 7180,
+      "word_like_tokens": 1126,
       "last_modified": "2026-06-21"
     },
     {
@@ -82595,12 +82585,12 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "業態の特異性",
-        "重要年表（公開情報ベース）",
-        "2. 事業セグメント・マップ",
-        "ネット証券パイオニアとしてのポジション",
-        "現在の競争環境",
-        "差別化ポイント"
+        "License / registration boundary",
+        "2. Business model",
+        "Online brokerage economics",
+        "Self-directed retail strategy",
+        "Historical inflection",
+        "3. Segment map"
       ],
       "wikilinks": [
         "megabanks/mufg",
@@ -82635,8 +82625,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4024,
-      "word_like_tokens": 578,
+      "nonspace_chars": 6656,
+      "word_like_tokens": 1062,
       "last_modified": "2026-06-22"
     },
     {
@@ -96192,8 +96182,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3680,
-      "word_like_tokens": 680,
+      "nonspace_chars": 3570,
+      "word_like_tokens": 661,
       "last_modified": "2026-06-24"
     }
   ]

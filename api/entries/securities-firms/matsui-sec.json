@@ -21,9 +21,9 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,9 +35,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 松井証券 (公開情報、2026-05-19 抽出)",
-      "松井証券 公式コーポレートサイト・IR セクション (公開情報)",
-      "東証・JPX 上場会社情報 (公開ベース)"
+      "Matsui Securities: Integrated Report 2025, online-brokerage strategy and corporate profile (https://www.matsui.co.jp/en/integrated_report/pdf/integrated_report_2025_en.pdf)",
+      "FSA: financial instruments business operators workbook, Matsui Securities verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx)",
+      "Matsui Securities: Annual Securities Report FY2024, May 1998 Netstock milestone (https://www.matsui.co.jp/en/financial/pdf/securitiesreport_4q_fy2024.pdf)"
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -46,12 +46,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "業態の特異性",
-    "重要年表（公開情報ベース）",
-    "2. 事業セグメント・マップ",
-    "ネット証券パイオニアとしてのポジション",
-    "現在の競争環境",
-    "差別化ポイント"
+    "License / registration boundary",
+    "2. Business model",
+    "Online brokerage economics",
+    "Self-directed retail strategy",
+    "Historical inflection",
+    "3. Segment map"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -85,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4024,
-    "word_like_tokens": 578,
+    "nonspace_chars": 6656,
+    "word_like_tokens": 1062,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-06-22"
   }

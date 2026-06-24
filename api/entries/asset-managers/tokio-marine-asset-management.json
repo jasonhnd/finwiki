@@ -19,9 +19,9 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,9 +35,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
-      "https://www.tokiomarineam.co.jp/company/profile/",
-      "https://www.tokiomarinehd.com/group_company/"
+      "FSA: financial instruments business operators workbook, Tokio Marine Asset Management verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx)",
+      "Tokio Marine Asset Management: Who We Are / Corporate Profile (https://www.tokiomarineam.com/who_we_are/)",
+      "Tokio Marine Holdings: List of Group Companies (https://www.tokiomarinehd.com/en/company/about/group.html)",
+      "Tokio Marine Holdings: Initiatives toward Promoting Japan as a Leading Asset Management Center, 2024-05-28 (https://www.tokiomarinehd.com/en/newsroom/release/2024/qsbph400000036e3-att/20240528_Leading_Asset_Management_Center_E_v2.pdf)"
     ]
   },
   "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
@@ -47,58 +48,48 @@
     "TL;DR",
     "1. 法人・ライセンス境界",
     "2. Business role",
+    "Insurance-group asset-management channel",
+    "Product / client split",
     "3. 出資・統治構造",
     "4. Why standalone page matters",
-    "5. 競合・peer",
-    "Related",
-    "Sources"
+    "5. 競合・peer"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 12,
     "wikilinks": [
       "asset-managers/INDEX",
       "asset-managers/asset-management-one",
       "asset-managers/mufg-asset-management",
       "asset-managers/nissay-asset-management",
-      "asset-managers/nomura-asset-management",
       "asset-managers/smt-am",
       "asset-managers/t-and-d-asset-management",
       "financial-licenses/securities-license-stack",
-      "life-insurers/nippon-life",
-      "life-insurers/td-hd",
-      "megabanks/mufg",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
       "non-life-insurers/tokio-marine",
       "securities/financial-instruments-business-operators-japan-index",
-      "securities/nisa-2024-flow",
-      "trust-banks/sumitomo-mitsui-trust"
+      "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/asset-managers/INDEX",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
       "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
-      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
       "https://finwiki.zksc.io/asset-managers/smt-am",
       "https://finwiki.zksc.io/asset-managers/t-and-d-asset-management",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/td-hd",
-      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow",
-      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3549,
-    "word_like_tokens": 526,
+    "nonspace_chars": 6255,
+    "word_like_tokens": 974,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-21"
   }

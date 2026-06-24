@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 6 |
+| Changed or new entries in current worktree | 4 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,12 +41,10 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `foreign-financial-institutions/ctbc-bank-japan.md` | `M` | 8 | ok |
-| `foreign-financial-institutions/taiwan-business-bank-japan.md` | `M` | 8 | ok |
-| `regional-banks/hokuhoku-fg.md` | `M` | 5 | ok |
-| `regional-banks/juroku-fg.md` | `M` | 10 | ok |
-| `regional-banks/lawson-bank.md` | `M` | 8 | ok |
-| `regional-banks/sbj-bank.md` | `M` | 7 | ok |
+| `asset-managers/tokio-marine-asset-management.md` | `M` | 11 | ok |
+| `leasing-firms/mizuho-lease.md` | `M` | 13 | ok |
+| `securities-firms/aizawa-sg.md` | `M` | 8 | ok |
+| `securities-firms/matsui-sec.md` | `M` | 7 | ok |
 
 ## Domain Snapshot
 
@@ -54,7 +52,7 @@
 |---|---:|---:|---:|
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 41 | 0 | 13.5 |
-| `asset-managers` | 15 | 0 | 18.4 |
+| `asset-managers` | 15 | 0 | 17.2 |
 | `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
 | `card-issuers` | 24 | 0 | 16.5 |
@@ -77,8 +75,8 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `issue-91` | 1 | 0 | 46.0 |
-| `leasing-firms` | 24 | 0 | 22.3 |
+| `issue-93` | 1 | 0 | 46.0 |
+| `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.5 |
 | `loyalty` | 17 | 0 | 22.4 |
 | `manufacturer-finance` | 14 | 0 | 17.4 |
@@ -93,7 +91,7 @@
 | `regional-banks` | 136 | 0 | 14.0 |
 | `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
-| `securities-firms` | 37 | 0 | 19.3 |
+| `securities-firms` | 37 | 0 | 18.8 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |

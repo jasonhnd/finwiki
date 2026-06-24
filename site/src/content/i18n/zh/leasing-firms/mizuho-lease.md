@@ -1,71 +1,81 @@
 ---
 source: leasing-firms/mizuho-lease
-source_hash: 8e52cee4aa69413c
+source_hash: 087f4f04d04bae1e
 lang: zh
 status: machine
 fidelity: ok
-title: "瑞穗租赁"
-translated_at: 2026-06-19T06:09:18.068Z
+title: "Mizuho Leasing（みずほリース）"
+translated_at: 2026-06-24T00:00:00.000Z
 ---
 
-# 瑞穗租赁
+# Mizuho Leasing（みずほリース）
 
-## Wiki 路由
+## Wiki 路线
 
-本条目归于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。请结合 [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] 以获取同业／对比背景，并结合 [[banking/INDEX|banking index]] 以了解更广泛的体系／监管边界。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可与 [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] 对照阅读以理解同业语境，也可结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
 
 ## TL;DR
 
-瑞穗租赁是与 **[[megabanks/mizuho-fg|Mizuho FG]]** 关系最为密切的上市租赁平台，并在 2024 资本关系扩大之后，与 **丸红**关系密切。它处于非银行资产融资层，介于银行放贷、商社项目开发与企业设备／房地产／飞机／海外租赁之间。
+Mizuho Leasing 是与 **[[megabanks/mizuho-fg|Mizuho FG]]** 和 **Marubeni** 相关联的上市非银行资产金融平台。公司资料给出 legal name Mizuho Leasing Company, Limited、Toranomon 总部、1969-12-01 设立日和 46,925.26mn yen paid-in capital。^[source:mizuho-lease-profile-2026] 截至 2026-03-31 的股票信息列示，Mizuho Financial Group 为最大股东，持股 23.09%；Marubeni 为第二大股东，持股 20.00%。^[source:mizuho-lease-stock-2026] 2024 年 Marubeni 公告说明，增资后 Marubeni 将持有 20.00%，Mizuho Leasing 将成为 Marubeni 的权益法适用关联公司。^[source:marubeni-alliance-2024] 因此，本页是 finance-arm / trading-house adjacency 的控制页：Mizuho 提供银行客户与金融邻接性，Marubeni 提供商社网络、资产发掘和业务开发能力。
 
-就 JapanFG 分析而言，它是 **瑞穗在普通银行放贷之外的租赁敞口**的控制页。
+## Structure
 
-## 结构
-
-| 项目 | 摘要 |
+| Item | Summary |
 |---|---|
-| 公司 | 瑞穗租赁株式会社（Mizuho Leasing Company, Limited）|
-| 上市 | 东京证券交易所上市的租赁公司 |
-| 战略股东 | 瑞穗金融集团与丸红为关键战略股东 |
-| 业务 | 租赁、分期销售、融资、房地产／飞机／海外及供应商融资相关业务 |
-| 同业组 | [[leasing-firms/smfl|SMFL]]、[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/orix-corp|ORIX]]、[[leasing-firms/tokyo-century|Tokyo Century]] |
+| Company | Mizuho Leasing Company, Limited。^[source:mizuho-lease-profile-2026] |
+| Listing | TSE Prime, ticker 8425。^[source:mizuho-lease-stock-2026] |
+| Strategic shareholders | 截至 2026-03-31，Mizuho Financial Group 23.09%；Marubeni 20.00%。^[source:mizuho-lease-stock-2026] |
+| Business role | Leasing / installment / finance platform，包含 domestic leasing、real estate、environment / energy、aviation / vessel、logistics / XaaS、international 等角度。具体组合应读取 Mizuho Leasing 的 segment disclosures，而不是只从股东名称推断。^[source:mizuho-lease-fy2024-presentation] |
+| Peer set | [[leasing-firms/smfl|SMFL]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/orix-corp|ORIX]], [[leasing-firms/tokyo-century|Tokyo Century]] |
 
-## 业务图谱
+## Alliance mechanics
 
-| 业务线 | 角色 |
+### Mizuho relationship
+
+Mizuho Leasing 不是银行，但它是上市租赁公司，最大股东是 [[megabanks/mizuho-fg|Mizuho Financial Group]]。^[source:mizuho-lease-stock-2026] FY2024 investor presentation 说明，domestic leasing business 主要通过 Mizuho alliance 积累 operating assets，并计划通过与 Mizuho Financial Group 的 alliance 进一步扩大 client base。^[source:mizuho-lease-fy2024-presentation] 因此，本页应放在银行贷款旁边的非银行金融层，而不是普通 banking 内部。
+
+### Marubeni relationship
+
+Marubeni 2024 公告称，capital and business alliance 旨在发展与 Mizuho Leasing 的协作、创造新 business model 并强化 finance and leasing domain。公告还列举了 2019 alliance 以来的合作，包括 Mizuho Marubeni Leasing、美国 aircraft leasing、美国 freezer / refrigerated trailer leasing 和澳大利亚 auto finance joint ventures。^[source:marubeni-alliance-2024] 同一公告称，正在讨论的协作领域包括日本及海外的 environment and energy、real estate、aircraft and vessel、information、logistics、XaaS。^[source:marubeni-alliance-2024]
+
+## Business map
+
+| Lane | Role |
 |---|---|
-| 企业租赁 | 面向企业客户的设备、IT、工业及供应商融资 |
-| 房地产／环境 | 资产持有与项目挂钩融资 |
-| 飞机／运输 | 残值敞口与国际资产融资 |
-| 全球／丸红联动 | 利用商社网络与海外资产业务 |
-| 瑞穗联动 | 企业客户管道、信用协调及集团金融的邻接性 |
+| Domestic leasing | 核心收益基础；FY2024 materials 强调通过 Mizuho-group collaboration 扩大 operating assets 与 client base。^[source:mizuho-lease-fy2024-presentation] |
+| Real estate / environment | Marubeni alliance release 明确列为协作领域；也属于中期计划的 growth / frontier framing。^[source:marubeni-alliance-2024][source:mizuho-lease-fy2024-presentation] |
+| Aircraft / vessel / transportation | Marubeni release 提到 aircraft leasing collaboration，并将 aircraft and vessel 列为未来协作领域。^[source:marubeni-alliance-2024] |
+| Logistics / XaaS | Marubeni release 将 information、logistics、XaaS 列为协作领域。^[source:marubeni-alliance-2024] |
+| Global / trading-house linkage | Marubeni 带来全球 partner / client network、人力资本与 business-development capabilities；Mizuho Leasing 带来日本 client base 以及设备 / property / finance expertise。^[source:marubeni-alliance-2024] |
 
-## 战略解读
+## Strategic reading
 
-瑞穗租赁之所以有参考价值，是因为它展示了一家大型银行集团如何将一家上市租赁公司用作灵活的资产负债表卫星：
+Mizuho Leasing 的价值在于，它展示了巨型银行相邻上市租赁公司如何作为灵活的 balance-sheet 与资产平台：
 
-- 银行贷款为借款人资产负债表融资；
-- 租赁为资产融资并可保留残值控制权；
-- 商社伙伴增加资产来源、项目知识与海外发起能力；
-- 上市公司地位带来少数股东与市场约束方面的考量。
+- 银行贷款融资 borrower balance sheets；
+- 租赁融资资产并可保留 residual-value control；
+- 商社股东可增加 asset sourcing、海外 origination 和 project know-how；
+- 上市公司地位意味着战略股东需要与少数股东和市场纪律共存。
 
-## 竞争格局
+2024/2026 股东事实很关键：Mizuho FG 持股更高，为 23.09%；Marubeni 为 20.00%；Marubeni 公告明确说明增资后权益法适用关联公司处理。^[source:mizuho-lease-stock-2026][source:marubeni-alliance-2024]
 
-| 同业 | 对比 |
+## Competitive context
+
+| Peer | Contrast |
 |---|---|
-| [[leasing-firms/orix-corp|ORIX]] | 更为多元化且独立的投资／资产管理模式 |
-| [[leasing-firms/smfl|SMFL]] | SMFG + 住友商事联合平台，住友集团配对更强 |
-| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | 规模更大的三菱／MUFG 集团租赁平台 |
-| [[leasing-firms/ntt-tc-lease|NTT TC Leasing]] | NTT 资产基础 + 东京世纪租赁专长，更以电信资产为锚 |
+| [[leasing-firms/orix-corp|ORIX]] | 更分散、更独立的投资 / 资产管理模型 |
+| [[leasing-firms/smfl|SMFL]] | SMFG + Sumitomo Corporation joint platform，Sumitomo group pairing 更强 |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | 更大的 Mitsubishi / MUFG group leasing platform |
+| [[leasing-firms/ntt-tc-lease|NTT TC Leasing]] | NTT asset base + Tokyo Century lease expertise，更偏 telecom-asset anchored |
 
-## 风险提示
+## Risk notes
 
-- 租赁收益对企业资本开支周期、资产残值、利率及海外风险敏感。
-- 战略股东关系既能创造业务流，也会带来治理／少数股东问题。
-- 飞机、房地产与能源资产需要针对资产的风险分析，而不仅是借款人信用分析。
-- 若利率上升，租赁定价、融资成本与资产价值可能朝不同方向变动。
+- 租赁收益对 corporate capex cycles、asset residual values、rates、funding cost 和 overseas risk 敏感。
+- 战略股东关系既能带来 business flow，也会带来 governance / minority-shareholder questions。
+- Aircraft、real estate、energy、logistics assets 需要 asset-specific risk analysis，而不能只做 borrower credit analysis。
+- Mizuho Leasing investor presentation 提到，operating-asset growth 带动 interest-bearing debt 增加，以及 yen interest rates 上升导致 funding costs 上行，因此利率敏感性应纳入分析。^[source:mizuho-lease-fy2024-presentation]
 
-## 相关
+## Related
 
 - [[leasing-firms/orix-corp|ORIX]]
 - [[megabanks/mizuho-fg|Mizuho FG]]
@@ -76,8 +86,14 @@ translated_at: 2026-06-19T06:09:18.068Z
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
-## 来源
+## Sources
 
-- 瑞穗租赁官方公司信息。
-- 瑞穗租赁股票／股东信息。
-- 丸红关于瑞穗租赁资本关系的公告，2024。
+- **Mizuho Leasing**: Corporate Information https://www.mizuho-ls.co.jp/en/company/data.html
+- **Mizuho Leasing**: Stock Information / Major shareholders (as of 2026-03-31) https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html
+- **Marubeni**: Execution of Capital and Business Alliance Agreement by Marubeni Corporation and Mizuho Leasing Company, Limited (2024-05-14) https://www.marubeni.com/en/news/2024/release/20240514E.pdf
+- **Mizuho Leasing**: Investor Presentation for FY2024 (2025-05-13) https://www.mizuho-ls.co.jp/en/ir/library/presentation/main/013/teaserItems1/00/linkList/02/link/Investor%20Presentation%20for%20FY2024_Final_EN.pdf
+
+---
+
+> [!info] 验证状态
+> confidence: **likely**（2026-06-24）。Corporate data、2026-03-31 股东比例、Marubeni 权益法 / alliance facts，以及 Mizuho / Marubeni collaboration lanes 已由官方公司 / 股东 / 公开公告资料确认。本页避免未经确认的个别租赁资产或借款人关系断言。
