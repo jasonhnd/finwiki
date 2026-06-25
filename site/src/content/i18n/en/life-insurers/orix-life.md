@@ -1,119 +1,87 @@
 ---
 source: life-insurers/orix-life
-source_hash: 6c37bd25cfb94486
+source_hash: 4e2fa600e22429b7
 lang: en
 status: machine
 fidelity: ok
 title: "ORIX Life Insurance"
-translated_at: 2026-06-19T06:09:18.102Z
+translated_at: 2026-06-24T09:30:00.000Z
 ---
-
 # ORIX Life Insurance
 
 ## Wiki route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/lifenet|Lifenet Insurance]] for direct-online contrast, [[leasing-firms/orix-corp|ORIX Corporation]] for group context, and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-A mid-tier life-insurance company, an ORIX [[leasing-firms/orix-corp]] 100% subsidiary (unlisted). Established in 1991-04  as "ORIX Omaha Life," a joint venture with the US Mutual of Omaha; with the 2002  withdrawal of the US side, it became a 100% subsidiary and took its current company name. Its hallmark is the combined use of 3  channels — agencies + bancassurance + **online direct sales** — with the medical-insurance "**CURE**" series being the flagship product of its domestic online sales. With a lineup centered on the third sector, including death insurance and cancer insurance, it carries the core of the ORIX Group's retail financial products.
+ORIX Life Insurance is a domestic life insurer listed in the FSA life-insurance-company list and carries ORIX Group's insurance business.^[source:fsa-life-list-2026][source:orix-insurance-overview-2025] ORIX Group's insurance overview says ORIX Life started in 1991 and focuses on medical insurance and death insurance while combining agents, financial institutions, mail-order / online sales, and Conserve Advisors in an omnichannel strategy.^[source:orix-insurance-overview-2025] The 2025 disclosure shows a **939.5%** solvency margin ratio at FY2024 year-end.^[source:orix-life-disclosure-2025] It is not a pure online direct insurer like Lifenet; read it as an **ORIX-group unlisted life-insurance manufacturer / distributor with multiple channels**.
 
-## 1. Company profile
+## 1. Entity / licence boundary
 
-**Legal name**: ORIX Life Insurance Co., Ltd.
-**English name**: ORIX Life Insurance Corporation
-**Established**: 1991-04 (as ORIX Omaha Life Insurance Co., Ltd.)
-**Current name change**: 2002 (became an ORIX 100% subsidiary and was renamed upon the withdrawal of the US Mutual of Omaha)
-**Listing**: unlisted (an ORIX [[leasing-firms/orix-corp]] 100% subsidiary)
-**Parent**: ORIX Corporation (TSE PRIME 8591  / NYSE: IX)
-**Business type**: life-insurance company (FSA-authorized)
-**Supervisor**: Financial Services Agency (FSA)
-
-### Positioning within the parent ORIX Group
-
-ORIX itself diversifies across comprehensive financial services (leasing, real estate, PE, banking, insurance, energy, etc.), and ORIX Life is the core of its **retail life-insurance segment**. Within the group it holds a place among the retail-finance operating companies alongside the following.
-
-```
-ORIX Corporation (8591)
-  ├── ORIX Bank (retail deposits / home loans)
-  ├── ORIX Life Insurance (life insurance / this entry)
-  ├── ORIX Credit (card loans, etc.)
-  └── ORIX Leasing / Real Estate / PE / Auto, etc.
-```
-
-In ORIX's own segment disclosure it is classified under the "insurance" segment, positioned as a business that stably contributes a certain proportion of group earnings (for the specific composition ratio, see parent-company IR).
-
-## 2. History
-
-| Year/month | Event |
+| Item | Reading |
 |---|---|
-| 1991-04 | **ORIX Omaha Life Insurance Co., Ltd. established** (a joint venture of ORIX + the US Mutual of Omaha, a foreign-technology-introduction-type joint venture) |
-| 2002 | The US Mutual of Omaha withdrew its investment → **became an ORIX 100% subsidiary and renamed "ORIX Life Insurance"** |
-| Late 2000 年s–2010 年s | Launched and expanded the medical-insurance "CURE" series; established a 3 -channel strategy of online direct sales + agencies + bancassurance |
-| 2010-2020 | Riding the tailwind of bancassurance deregulation, expanded the bancassurance channel. Also established a presence in the medical-insurance segment via online direct sales |
-| 2024 | Medium-term management plan period (linked with the overall policy of the parent ORIX Group) |
+| Legal name | ORIX Life Insurance Corporation / オリックス生命保険株式会社.^[source:fsa-life-list-2026] |
+| Parent / group | ORIX Group presents ORIX Life under its Insurance business; FinWiki links parent context to [[leasing-firms/orix-corp|ORIX Corporation]].^[source:orix-insurance-overview-2025] |
+| Licence boundary | The FSA English life-insurer list includes ORIX Life Insurance Corporation.^[source:fsa-life-list-2026] |
+| Disclosure regime | ORIX Life says insurers prepare disclosure magazines describing business and financial condition by fiscal year; the 2025 disclosure covers FY2024.^[source:orix-life-results-2026] |
+| Soundness metric | FY2024 year-end solvency margin ratio was 939.5%; the disclosure explains the ratio as an administrative-supervision indicator of capacity to absorb risks beyond normal expectations.^[source:orix-life-disclosure-2025] |
 
-> History highlights: it has formed the position of "**a mid-tier / specialty-focused** player not belonging to the major Japanese life insurers" through the 3  elements of a joint-venture origin (1991) + early entry into online direct sales (2000 年s) + use of the ORIX Group's sales channels (bancassurance).
+## 2. Business model / channel map
 
-## 3. Main products
+ORIX Group describes ORIX Life's business as life insurance including medical insurance and death insurance, with assets of JPY 3,009.2bn and profits of JPY 74.4bn as of 2025-03-31.^[source:orix-insurance-overview-2025] The same page states that the company offers products based on simple, easy-to-understand and reasonably priced coverage, and markets through four channels.^[source:orix-insurance-overview-2025]
 
-Centered on the third sector (medical / cancer) + death protection, its lineup is characterized by an orientation toward **simplicity, low cost, and online completion**.
+| Channel | Role |
+|---|---|
+| Insurance agents | Broad third-party distribution and insurance-shop reach.^[source:orix-insurance-overview-2025] |
+| Financial institutions | Bancassurance / bank-window route; relevant when comparing to megabank and regional-bank distribution.^[source:orix-insurance-overview-2025] |
+| Mail-order / online sales | Direct-response route; useful but not equivalent to pure online-only.^[source:orix-insurance-overview-2025] |
+| Conserve Advisors | ORIX Life's employee sales channel, named by ORIX Group as part of the sales architecture.^[source:orix-insurance-overview-2025] |
 
-| Category | Main products | Features |
-|---|---|---|
-| Medical insurance | **"CURE" series** | Centered on hospitalization / surgery coverage; a representative medical-insurance brand in domestic online sales |
-| Death insurance | Term insurance, income-protection insurance, etc. | Relatively simple designs, including online-completion / no-disclosure simplified types |
-| Cancer insurance | Cancer-diagnosis / treatment-benefit type | Third-sector line |
-| Educational endowment / whole life, etc. | Whole-life insurance, etc. | Complementary lineup |
+This hybrid channel structure is the key distinction from [[life-insurers/lifenet|Lifenet]]. ORIX Life can use online acquisition, but its core positioning is a multi-channel ORIX-group insurer rather than an internet-only challenger.
 
-Sales channels:
-- **Online direct sales** (via the official site / comparison sites)
-- **Agencies** (insurance shops / multi-carrier agencies)
-- **Bancassurance** (combined use of ORIX Bank + other banks)
+## 3. Products / group role
 
-### Parent-company synergy
+| Lane | Reading |
+|---|---|
+| Medical / third-sector insurance | ORIX Group emphasizes medical insurance and customer appreciation; ORIX Life's disclosure and results pages should be the source for any product-level updates.^[source:orix-insurance-overview-2025][source:orix-life-results-2026] |
+| Death insurance | ORIX Group names death insurance as part of the life-insurance business.^[source:orix-insurance-overview-2025] |
+| Group balance-sheet role | The insurance business sits inside broader ORIX financial services; this links the page to [[leasing-firms/orix-corp]] and non-bank finance / asset-management readings. |
+| Customer base | ORIX Life's performance page reports 4.71mn policies in force as of 2026-03.^[source:orix-life-results-2026] |
+| Rating signal | The same performance page reports R&I insurance-claims-paying ability rating AA as of 2026-02-24.^[source:orix-life-results-2026] |
 
-- Positioned as the **core of the ORIX Group's retail financial products**.
-- Bancassurance linkage with ORIX Bank (home loan → group credit life / medical-insurance cross-sell, etc.).
-- Online direct sales leveraging the brand recognition of ORIX.
+## 4. Solvency / capital reading
 
-### Channel strategy
+The 2025 disclosure's solvency-margin table matters because ORIX Life is large enough for asset-management risk, interest-rate moves and third-sector insurance risk to be explicit reading axes:
 
-Rather than a **pure online-only life insurer** like Lifenet [[life-insurers/lifenet]], it is a **hybrid type** of online direct sales + agencies + bancassurance, aiming to combine cost efficiency with sales-channel coverage. CURE-series products have high exposure on comparison sites, securing a top-class presence in the medical-insurance online-sales market (on a general-assessment basis).
+- FY2024 year-end solvency margin ratio: **939.5%**, down 47.8 points from the prior fiscal year.^[source:orix-life-disclosure-2025]
+- The table attributes risk-total movement partly to asset-management risk, so interest-rate / market-risk assumptions matter for ORIX Life even though retail product pages emphasize medical / death insurance.^[source:orix-life-disclosure-2025]
+- The disclosure notes a 200% threshold as the level below which supervisory early-correction action can be taken; this makes the ratio a regulatory signal rather than a marketing KPI.^[source:orix-life-disclosure-2025]
 
-### Competitive position
+## 5. Peer / contrast map
 
-| Competitor category | Main players | ORIX Life's differentiation |
-|---|---|---|
-| Major Japanese life insurers | Dai-ichi Life [[life-insurers/dai-ichi-life]] / Nippon Life [[life-insurers/nippon-life]] / [[life-insurers/meiji-yasuda]] / [[life-insurers/sumitomo-life]] | Mid-tier / cost efficiency / online affinity |
-| Online-only | Lifenet [[life-insurers/lifenet]] / SBI Life (within [[megabanks/sbi-hd]]) | Combined use of agencies + bancassurance gives wide reach |
-| Third-sector specialists | Aflac [[life-insurers/aflac-japan]] | Appeals to price / simplicity with the medical "CURE" |
-| Foreign | Prudential [[life-insurers/prudential-japan]] / AXA [[life-insurers/axa-japan]] | Low cost via online completion |
-
-## 5. Regulation / policy
-
-- **Supervisor**: Financial Services Agency (FSA) — Insurance Business Act
-- **Industry body**: Life Insurance Association of Japan (general incorporated association)
-- **Recent policy issues**:
-  - Trends in bancassurance regulation (soundness / explanation obligations)
-  - Strengthening of advertising rules for online sales / comparison sites
-  - IFRS 17  / economic-value-based solvency regulation (phased introduction from 2025) → for the impact on a third-sector-centered portfolio, see parent-company IR disclosure
-  - Structural change in the third-sector market due to the declining birthrate / aging population and medical-system reform
+| Peer / category | Contrast |
+|---|---|
+| [[life-insurers/lifenet|Lifenet]] | Online-first listed insurer with embedded partner strategy; ORIX Life is larger and omnichannel. |
+| [[life-insurers/aflac-japan|Aflac Japan]] | Third-sector / cancer-heavy peer set; ORIX Life has ORIX group financial-services adjacency. |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] / [[life-insurers/nippon-life|Nippon Life]] | Large legacy insurers with very different agency / workplace distribution and mutual / group structures. |
+| [[megabanks/sbi-hd|SBI group insurance]] | Internet-finance ecosystem peer; ORIX's adjacency is broader financial services and leasing / investment. |
 
 ## Related
 
 - Parent / group: [[leasing-firms/orix-corp]]
-- Major Japanese life insurers (competitors): [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
-- Online / specialty-focused (competitors): [[life-insurers/lifenet]] · [[megabanks/sbi-hd]] · [[megabanks/sony-fg]]
-- Foreign / third-sector (competitors): [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
+- Direct-online peer: [[life-insurers/lifenet]]
+- Major Japanese life insurers: [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- Foreign / third-sector insurers: [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 
 ## Sources
 
-- **Wikipedia: ORIX Life Insurance** (ja.wikipedia.org, extracted 2026-05-19)
-- **ORIX Corporation integrated report / IR disclosures** (2024-2025, insurance-segment disclosure)
-- Life Insurance Association of Japan public materials
+- **FSA**: List of life insurance companies (ORIX Life Insurance Corporation listed; checked 2026-06-24) https://www.fsa.go.jp/en/regulated/licensed/ins_life.pdf
+- **ORIX Group**: Insurance business overview (information as of 2025-03-31) https://www.orix.co.jp/grp/en/about/businesses/insurance/
+- **ORIX Life**: Performance page (4.71mn policies in force, R&I AA, checked 2026-06-24) https://www.orixlife.co.jp/about/results/
+- **ORIX Life**: Disclosure magazine "ORIX Life no genjo 2025" https://www.orixlife.co.jp/about/results/disclosure/pdf/2025_y.pdf
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (based on public information, parent-company [[leasing-firms/orix-corp]] IR + Wikipedia review). Specific figures (premium income, number of policies, channel-by-channel composition ratios, etc.) require reference to the latest edition of parent ORIX's integrated report and insurance-industry statistics. As it is unlisted, no standalone securities report exists, and disclosure is primarily on a parent-company consolidated basis.
+> confidence: **likely** (2026-06-24). Checked against the FSA life-insurer list, ORIX Group official business overview, and ORIX Life 2025 disclosure / performance page. Old Wikipedia-dependent history and product claims were weakened or replaced with official-source-backed content.
