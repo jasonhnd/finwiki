@@ -1,11 +1,11 @@
 ---
 source: megabanks/au-fh
-source_hash: e0107ea1bd27f8e4
+source_hash: 4130a03e20ca3b57
 lang: en
 status: machine
 fidelity: ok
 title: "au Financial Holdings (au-FH)"
-translated_at: 2026-06-19T06:09:18.090Z
+translated_at: 2026-06-25T00:30:00.000Z
 ---
 
 # au Financial Holdings (au-FH)
@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-A KDDI 100% subsidiary and the holding company of the KDDI financial economic sphere. **Established 2019-04-01**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY Sonpo (general insurance) / au Asset Management**, etc. 2025-01-31 it acquired all shares of au Jibun Bank from MUFG (in exchange, it sold the former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **the bank's 100% subsidiary conversion was completed**. **FY2026/3  operating profit 432 億円** (prior period 406 億円, +6.4% / CAGR FY2023+ **30.4%**), **total assets approx. 9.3 兆円**. **2026-05-12 KDDI made an official timely disclosure of the start of TSE-listing preparations for auFH** — the first IPO candidacy among telco-affiliated FGs (timing undecided; KDDI plans to remain a major shareholder even after listing). Via au Ponta + the 2024-07 Lawson 50/50 JV, it builds a "telecom × convenience store × finance" ecosystem. One of the 4  poles of telco-affiliated FGs ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]). ^[extracted]
+A KDDI 100% subsidiary and the holding company of the KDDI financial economic sphere. **Established 2019-04-01**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY Sonpo (general insurance) / au Asset Management**, etc. 2025-01-31 it acquired all shares of au Jibun Bank from MUFG (in exchange, it sold the former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **the bank's 100% subsidiary conversion was completed**. **FY2026/3 operating profit 432 億円** (prior period 406 億円, +6.4% / CAGR FY2023+ **30.4%**), **total assets approx. 9.3 兆円**. **2026-05-12 KDDI made an official timely disclosure of the start of TSE-listing preparations for auFH** — the first IPO candidacy among telco-affiliated FGs (timing undecided; KDDI plans to remain a major shareholder even after listing). Via au Ponta + the 2024-07 Lawson 50/50 JV, it builds a "telecom × convenience store × finance" ecosystem. On 2026-06-18, **all** 14,726,100 Lifenet shares held by auFH (18.32% of issued shares / 18.33% of voting rights) were transferred to JAL, so auFH ceased to be Lifenet's major shareholder while the business alliance continues under a new agreement.^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] One of the four poles of telco-affiliated FGs ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]).^[extracted]
 
 ## 1. Company overview
 
@@ -75,10 +75,12 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
   ├── au Financial Service Corporation (100%) ── money lending (personal loans)
   ├── au PAY Sonpo (General Insurance) Corporation (100%) ── formerly au Sonpo (originated as a KDDI + Aioi Nissay Dowa Insurance JV)
   ├── au Asset Management Corporation (100%) ── investment-trust management
-  ├── Lifenet Insurance Corporation (au-FH holds 18.32% of voting rights / largest shareholder, equity method) ── listed, TSE GROWTH 7157
 
  【departed from under au-FH (2025-01-31)】
    Former au Kabucom Securities → MUFG 100% conversion → renamed "Mitsubishi UFJ e-Smart Securities"
+
+【Capital relationship dissolved (2026-06-18)】
+   Lifenet Insurance Corporation ── all 14,726,100 shares held by auFH were transferred to JAL. auFH is no longer the major-shareholder / equity-method route, while the KDDI group business alliance continues.^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026]
 ```
 
 > Note on entity sorting: "au Kabucom Securities" was sold to MUFG on 2025-01-31 and renamed "Mitsubishi UFJ e-Smart Securities". On the same date, the au Jibun Bank shares held by MUFG were transferred to KDDI. au-FH's securities business is in a blank state (as of 2026-05 , no official announcement of rebuilding a new securities function / partnership).
@@ -119,7 +121,7 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 | Credit | au PAY Card | Gold members 172 万. Linked to KDDI telecom charges ^[extracted] |
 | Money lending | au Financial Service | Personal loans / deferred payment |
 | General insurance | au PAY Sonpo | Formerly au Sonpo, originated as an Aioi Nissay Dowa Insurance JV |
-| Life insurance | Lifenet Insurance (equity method) | Listed, net life insurer |
+| Life insurance | Lifenet Insurance (business alliance continues; capital relationship dissolved) | Collaboration such as au life insurance and au Jibun Bank group credit life insurance continues. However, auFH transferred all held shares to JAL on 2026-06-18 and is no longer a major shareholder.^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] |
 | Investment trust / asset management | au Asset Management | Investment-trust sales via au PAY |
 | Net securities | **Blank** (2025-01-31 au Kabucom departed) | As of 2026-05 , no official announcement of rebuilding / partnership |
 | Points | au PAY × Ponta (Loyalty Marketing) | KDDI + Mitsubishi Corporation alliance |
@@ -147,7 +149,7 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 - **MUFG alliance dissolution** (2025-01-31): dissolution of a 17 -year joint venture; the bank converted to a KDDI 100% subsidiary ^[extracted]
 - **Mitsubishi Corporation linkage** (Lawson + Ponta): 2020  points linkage → 2024  relationship deepened through Lawson joint management ^[extracted]
 - **Aioi Nissay Dowa Insurance**: the former JV partner of au Sonpo (now au PAY Sonpo)
-- **Lifenet Insurance** (TSE GROWTH 7157): au-FH is the **largest shareholder** holding **18.32%** of voting rights, an equity-method affiliate (2015  capital and business alliance, 2017  raised the investment ratio) ^[extracted]
+- **Lifenet Insurance** (TSE Prime 7157): online insurer partnered with the KDDI group since 2015. On 2026-04-30, auFH announced the planned transfer of all 14,726,100 shares it held (18.32% ownership stake) to JAL, and the transfer was completed on 2026-06-18. After the change, auFH's voting rights and shares held are both shown as "-", so it is no longer Lifenet's major shareholder.^[source:au-fh-lifenet-alliance-2026][source:lifenet-jal-transfer-2026]
 
 ## 4. Regulation / policy
 
@@ -178,9 +180,11 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 - **au Jibun Bank "Deposit-account count surpassed 700 万"** (2025-09-20) https://www.jibunbank.co.jp/corporate/news/2025/0912_01.html
 - **Wikipedia: auフィナンシャルホールディングス** (extracted 2026-05-19) https://ja.wikipedia.org/wiki/auフィナンシャルホールディングス
 - **Wikipedia: auじぶん銀行** (extracted 2026-05-19) https://ja.wikipedia.org/wiki/Au%E3%81%98%E3%81%B6%E3%82%93%E9%8A%80%E8%A1%8C
-- **Lifenet Insurance IR "Shareholder / share information (share status)"** (confirming au Financial Holdings voting rights 18.32% / 14,726,100  shares / largest shareholder, 2026-05-29) https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html
+- **au Financial Holdings / Lifenet Insurance "Notice Regarding Change in Major Shareholder of LIFENET Insurance and Execution of New Business Alliance Agreement"** (2026-04-30; auFH decided to transfer all 14,726,100 shares / 18.32% to JAL) https://www.au-financial.com/pdf/auFH/news_20260430_01.pdf
+- **Lifenet Insurance "Notice Concerning Completion of Acquisition of Shares of Common Stock of the Company by Japan Airlines Co., Ltd. and Change in Major Shareholder"** (2026-06-18; JAL acquisition completed; auFH has no shares after the change) https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf
+- **Lifenet Insurance IR "Shareholder / share information (share status)"** (checked 2026-06-25; note that all common shares held by auFH were transferred to JAL on 2026-06-18) https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.2  KDDI official IR FY26/3  + au Jibun Bank official PR + 2026-05-12 IPO timely disclosure + Lifenet Insurance IR, re-verified 2026-05-29). Because au-FH standalone remains unlisted, **revenue is not separately disclosed and only operating profit is published** (FY26/3  432 億円, CAGR +30.4%). Total assets 9.3 兆円, au Jibun Bank deposits 5 兆円 / accounts 700 万 are official figures. **Most important correction: 2026-05-29**: the investment in Lifenet Insurance is not the former description "approx. 28%" but **voting rights 18.32% (auFH largest shareholder / equity method)** (confirmed by Lifenet Insurance IR). **Most important: the 2026-05-12 official announcement of TSE-listing preparation — the first IPO candidacy among telco-affiliated FGs** — timing / market section / fundraising scale are all undecided and require continued scrutiny. The blanking of the securities business is a fact (as of 2026-05 , no official announcement of rebuilding). The assessment of the stablecoin Progmat linkage is isolated to `.opinions`.
+> confidence: **likely** (v1.3 KDDI / auFH official IR FY26/3 + au Jibun Bank official PR + 2026-05-12 IPO timely disclosure + Lifenet Insurance 2026-06-18 IR, re-verified 2026-06-25). Because au-FH standalone remains unlisted, **revenue is not separately disclosed and only operating profit is published** (FY26/3 432 億円, CAGR +30.4%). Total assets 9.3 兆円, au Jibun Bank deposits 5 兆円 / accounts 700 万 are official figures. **2026-06-25 correction**: the Lifenet stake was fully transferred to JAL on 2026-06-18, so auFH is no longer the largest-shareholder / equity-method route for Lifenet. **Most important: the 2026-05-12 official announcement of TSE-listing preparation — the first IPO candidacy among telco-affiliated FGs** — timing / market section / fundraising scale are all undecided and require continued scrutiny. The blanking of the securities business is a fact (as of 2026-05, no official announcement of rebuilding). The assessment of the stablecoin Progmat linkage is isolated to `.opinions`.

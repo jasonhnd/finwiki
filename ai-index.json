@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-24T18:28:04+09:00",
+  "generated_at": "2026-06-25T12:49:32+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11157825,
-    "word_like_tokens": 1801096,
+    "nonspace_utf8_chars": 11159108,
+    "word_like_tokens": 1801309,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -3263,7 +3263,7 @@
       "entity_edges": [],
       "nonspace_chars": 71028,
       "word_like_tokens": 12500,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "SCHEMA.md",
@@ -51005,7 +51005,7 @@
       "entity_edges": [],
       "nonspace_chars": 8216,
       "word_like_tokens": 1336,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "life-insurers/manulife-japan.md",
@@ -51647,7 +51647,7 @@
       "entity_edges": [],
       "nonspace_chars": 6835,
       "word_like_tokens": 1114,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "life-insurers/pacific-life-re-japan.md",
@@ -54173,7 +54173,7 @@
       "entity_edges": [],
       "nonspace_chars": 6610,
       "word_like_tokens": 1007,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "manufacturer-finance/sony-group-finance-arm.md",
@@ -54516,6 +54516,7 @@
         "banking/INDEX",
         "banking/mercari-bank-license-stack",
         "banking/minna-bank-baas-model",
+        "life-insurers/lifenet",
         "megabanks/INDEX",
         "megabanks/mufg",
         "megabanks/ndfg",
@@ -54528,6 +54529,7 @@
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
         "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+        "https://finwiki.zksc.io/life-insurers/lifenet",
         "https://finwiki.zksc.io/megabanks/INDEX",
         "https://finwiki.zksc.io/megabanks/mufg",
         "https://finwiki.zksc.io/megabanks/ndfg",
@@ -54543,8 +54545,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 8811,
-      "word_like_tokens": 1740,
+      "nonspace_chars": 10229,
+      "word_like_tokens": 1977,
       "last_modified": "2026-06-22"
     },
     {
@@ -93894,7 +93896,7 @@
       "entity_edges": [],
       "nonspace_chars": 6309,
       "word_like_tokens": 1015,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "trust-banks/asahi-trust.md",
@@ -96179,9 +96181,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3548,
-      "word_like_tokens": 658,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3413,
+      "word_like_tokens": 634,
+      "last_modified": "2026-06-25"
     }
   ]
 }

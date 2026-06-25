@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 4 |
+| Changed or new entries in current worktree | 1 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,10 +41,7 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `life-insurers/lifenet.md` | `M` | 7 | ok |
-| `life-insurers/orix-life.md` | `M` | 13 | ok |
-| `manufacturer-finance/seiko-epson.md` | `M` | 5 | ok |
-| `trust-banks/alterna-trust.md` | `M` | 14 | ok |
+| `megabanks/au-fh.md` | `M` | 11 | ok |
 
 ## Domain Snapshot
 
@@ -75,7 +72,7 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `issue-95` | 1 | 0 | 46.0 |
+| `issue-97` | 1 | 0 | 46.0 |
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
