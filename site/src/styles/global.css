@@ -1,61 +1,91 @@
 /* ==========================================================================
    FinWiki — editorial financial-reference design system
    One stylesheet, imported once by the shell. Tokens drive light + dark.
-   Direction: cool ledger neutrals, teal-blue accent, serif display +
-   sans body, hairline structure, sources/provenance as first-class.
+   Direction: warm editorial paper, deliberate market-desk dark mode,
+   serif display + trilingual body stacks, hairline structure,
+   sources/provenance as first-class.
    ========================================================================== */
 
 /* ----- Tokens: light (default) ----- */
 :root {
   color-scheme: light;
 
-  --paper: #f6f8fb;
-  --surface: #ffffff;
-  --surface-2: #eef3f7;
-  --surface-3: #e2e9ef;
-  --ink: #15191f;
-  --ink-2: #3e4650;
-  --muted: #66717d;
-  --line: #dbe3eb;
-  --line-2: #c6d2dc;
+  /* editorial color system */
+  --paper-editorial: #f7f1e6;
+  --surface-editorial: #fffaf0;
+  --surface-editorial-2: #efe4d1;
+  --ink-editorial: #1e1a16;
+  --ink-editorial-2: #51483e;
+  --muted-editorial: #786d60;
+  --line-editorial: #d8c9b4;
+  --accent-editorial: #9f3a24;
+  --accent-editorial-2: #0f5b5f;
+  --source-editorial: #386641;
+  --warn-editorial: #8a5a12;
 
-  --accent: #006b83;
-  --accent-2: #004f63;
-  --accent-soft: #dceff3;
-  --on-accent: #ffffff;
-  --gold: #596b1f;
-  --gold-soft: #e7efd4;
+  /* legacy surface tokens consumed by current layouts */
+  --paper: var(--paper-editorial);
+  --surface: var(--surface-editorial);
+  --surface-2: var(--surface-editorial-2);
+  --surface-3: color-mix(in srgb, var(--surface-editorial-2) 76%, var(--line-editorial));
+  --ink: var(--ink-editorial);
+  --ink-2: var(--ink-editorial-2);
+  --muted: var(--muted-editorial);
+  --line: var(--line-editorial);
+  --line-2: color-mix(in srgb, var(--line-editorial) 72%, var(--ink-editorial) 10%);
 
-  --ok: #247a57;
-  --warn: #7f6816;
+  --accent: var(--accent-editorial);
+  --accent-2: var(--accent-editorial-2);
+  --accent-soft: color-mix(in srgb, var(--accent-editorial) 11%, var(--surface-editorial));
+  --on-accent: var(--surface-editorial);
+  --gold: var(--warn-editorial);
+  --gold-soft: color-mix(in srgb, var(--warn-editorial) 13%, var(--surface-editorial));
+
+  --ok: var(--source-editorial);
+  --warn: var(--warn-editorial);
   --bad: #aa3d3d;
 
-  --code-bg: #101820;
-  --code-ink: #e8f0f2;
+  --code-bg: #211a15;
+  --code-ink: #fff7ec;
 
-  --sh-1: 0 1px 2px rgb(21 25 31 / 0.06);
-  --sh-2: 0 4px 16px -6px rgb(21 25 31 / 0.14);
-  --sh-3: 0 18px 48px -18px rgb(21 25 31 / 0.24);
+  --sh-1: 0 1px 2px rgb(30 26 22 / 0.06);
+  --sh-2: 0 5px 18px -8px rgb(30 26 22 / 0.18);
+  --sh-3: 0 18px 48px -18px rgb(30 26 22 / 0.26);
 
-  --selection: #cbe6ee;
+  --selection: #ecd5bc;
 
   /* type */
-  --font-display: "Iowan Old Style", "Palatino Linotype", "Source Serif 4", Charter, Georgia, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif;
-  --font-body: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Yu Gothic UI", "Noto Sans JP", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
-  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", "JetBrains Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --font-editorial-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif;
+  --font-editorial-body-ja: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Yu Gothic UI", "Noto Sans JP", system-ui, sans-serif;
+  --font-editorial-body-en: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-editorial-body-zh: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-editorial-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 
-  --fs-xs: clamp(0.75rem, 0.72rem + 0.12vw, 0.8rem);
-  --fs-sm: clamp(0.84rem, 0.81rem + 0.14vw, 0.9rem);
-  --fs-base: clamp(1rem, 0.965rem + 0.2vw, 1.0625rem);
-  --fs-md: clamp(1.1rem, 1.05rem + 0.25vw, 1.2rem);
-  --fs-lg: clamp(1.25rem, 1.14rem + 0.5vw, 1.5rem);
-  --fs-xl: clamp(1.55rem, 1.32rem + 1.05vw, 2.05rem);
-  --fs-2xl: clamp(2rem, 1.6rem + 1.9vw, 3rem);
-  --fs-3xl: clamp(2.6rem, 1.9rem + 3.4vw, 4.6rem);
+  --font-display: var(--font-editorial-display);
+  --font-body: var(--font-editorial-body-ja);
+  --font-mono: var(--font-editorial-mono);
 
-  --lh-tight: 1.16;
-  --lh-head: 1.22;
-  --lh-body: 1.72;
+  --fs-editorial-kicker: 0.76rem;
+  --fs-editorial-meta: 0.86rem;
+  --fs-editorial-body: clamp(1rem, 0.98rem + 0.12vw, 1.0625rem);
+  --fs-editorial-lead: clamp(1.12rem, 1.06rem + 0.28vw, 1.26rem);
+  --fs-editorial-h2: clamp(1.42rem, 1.28rem + 0.58vw, 1.86rem);
+  --fs-editorial-h1: clamp(2.2rem, 1.72rem + 1.85vw, 3.35rem);
+  --fs-editorial-masthead: clamp(2.8rem, 2.05rem + 3vw, 5rem);
+
+  --fs-xs: var(--fs-editorial-kicker);
+  --fs-sm: var(--fs-editorial-meta);
+  --fs-base: var(--fs-editorial-body);
+  --fs-md: var(--fs-editorial-lead);
+  --fs-lg: var(--fs-editorial-h2);
+  --fs-xl: var(--fs-editorial-h2);
+  --fs-2xl: var(--fs-editorial-h1);
+  --fs-3xl: var(--fs-editorial-masthead);
+
+  --lh-tight: 1.14;
+  --lh-head: 1.18;
+  --lh-body: 1.78;
+  --font-features-body: "kern", "liga", "palt";
 
   /* spacing */
   --sp-1: 0.25rem;
@@ -66,19 +96,27 @@
   --sp-6: 2rem;
   --sp-7: 3rem;
   --sp-8: 4rem;
-  --gap-section: clamp(3rem, 2rem + 5vw, 5.5rem);
+  --section-gap-editorial: clamp(3.5rem, 2.2rem + 4.5vw, 6.5rem);
+  --gap-section: var(--section-gap-editorial);
 
   /* radius / structure */
   --r-sm: 4px;
-  --r: 6px;
-  --r-lg: 10px;
+  --card-radius-editorial: 6px;
+  --r: var(--card-radius-editorial);
+  --r-lg: var(--card-radius-editorial);
   --r-pill: 999px;
+  --hairline: 1px solid var(--line-editorial);
 
   /* layout */
-  --w-reading: 44rem;
+  --measure-entry: 44rem;
+  --measure-lead: 54rem;
+  --rail-left: 12.5rem;
+  --rail-right: 12rem;
+  --chrome-height: 64px;
+  --w-reading: var(--measure-entry);
   --w-content: 72rem;
   --w-wide: 86rem;
-  --header-h: 60px;
+  --header-h: var(--chrome-height);
 
   --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
   --dur: 180ms;
@@ -87,25 +125,37 @@
 [data-theme="dark"] {
   color-scheme: dark;
 
-  --paper: #111417;
-  --surface: #191d21;
-  --surface-2: #20262b;
-  --surface-3: #293139;
-  --ink: #eef2f5;
-  --ink-2: #c6d0d8;
-  --muted: #8d98a3;
-  --line: #2b333b;
-  --line-2: #394550;
+  --paper-editorial: #101418;
+  --surface-editorial: #171d22;
+  --surface-editorial-2: #202832;
+  --ink-editorial: #edf1f2;
+  --ink-editorial-2: #c7d0d6;
+  --muted-editorial: #95a2ab;
+  --line-editorial: #31404a;
+  --accent-editorial: #e0a15d;
+  --accent-editorial-2: #84d0c8;
+  --source-editorial: #8fcf9b;
+  --warn-editorial: #e1c15f;
 
-  --accent: #67d2cf;
-  --accent-2: #9de7e2;
-  --accent-soft: #153538;
-  --on-accent: #071719;
-  --gold: #c5d66a;
-  --gold-soft: #252d18;
+  --paper: var(--paper-editorial);
+  --surface: var(--surface-editorial);
+  --surface-2: var(--surface-editorial-2);
+  --surface-3: color-mix(in srgb, var(--surface-editorial-2) 72%, var(--line-editorial));
+  --ink: var(--ink-editorial);
+  --ink-2: var(--ink-editorial-2);
+  --muted: var(--muted-editorial);
+  --line: var(--line-editorial);
+  --line-2: color-mix(in srgb, var(--line-editorial) 76%, var(--ink-editorial) 12%);
 
-  --ok: #61c894;
-  --warn: #d2bf54;
+  --accent: var(--accent-editorial);
+  --accent-2: var(--accent-editorial-2);
+  --accent-soft: color-mix(in srgb, var(--accent-editorial) 18%, var(--surface-editorial));
+  --on-accent: var(--paper-editorial);
+  --gold: var(--warn-editorial);
+  --gold-soft: color-mix(in srgb, var(--warn-editorial) 18%, var(--surface-editorial));
+
+  --ok: var(--source-editorial);
+  --warn: var(--warn-editorial);
   --bad: #e07f84;
 
   --code-bg: #0b1117;
@@ -115,7 +165,28 @@
   --sh-2: 0 6px 20px -8px rgb(0 0 0 / 0.55);
   --sh-3: 0 22px 54px -20px rgb(0 0 0 / 0.7);
 
-  --selection: #1c4b53;
+  --selection: #24474b;
+}
+
+html[lang="ja"] {
+  --font-body: var(--font-editorial-body-ja);
+  --lh-body: 1.78;
+  --measure-entry: 44rem;
+  --font-features-body: "kern", "liga", "palt";
+}
+
+html[lang="en"] {
+  --font-body: var(--font-editorial-body-en);
+  --lh-body: 1.65;
+  --measure-entry: 48rem;
+  --font-features-body: "kern", "liga";
+}
+
+html[lang="zh"] {
+  --font-body: var(--font-editorial-body-zh);
+  --lh-body: 1.72;
+  --measure-entry: 46rem;
+  --font-features-body: "kern", "liga";
 }
 
 /* ----- Reset / base ----- */
@@ -148,7 +219,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fs-base);
   line-height: var(--lh-body);
-  font-feature-settings: "kern", "liga", "palt";
+  font-feature-settings: var(--font-features-body);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
@@ -245,7 +316,7 @@ hr {
   font-size: var(--fs-md);
   color: var(--ink-2);
   line-height: 1.55;
-  max-width: 46rem;
+  max-width: var(--measure-lead);
 }
 
 /* ----- Header / shell ----- */
@@ -299,6 +370,7 @@ hr {
   align-items: center;
   gap: clamp(0.5rem, 0.2rem + 1vw, 1.25rem);
   margin-right: auto;
+  min-width: 0;
 }
 .site-nav a {
   text-decoration: none;
@@ -320,6 +392,40 @@ hr {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+@media (max-width: 720px) {
+  .site-header__inner {
+    gap: 0.6rem;
+    padding-inline: 0.75rem;
+  }
+  .brand {
+    font-size: 1.16rem;
+  }
+  .site-nav {
+    flex: 1 1 auto;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+  }
+  .site-nav::-webkit-scrollbar {
+    display: none;
+  }
+  .site-nav a {
+    flex: none;
+    font-size: 0.82rem;
+  }
+  .header-tools {
+    flex: none;
+    gap: 0.35rem;
+  }
+  .icon-btn {
+    width: 32px;
+    height: 32px;
+  }
+  .lang-switch a {
+    padding: 0.27rem 0.42rem;
+  }
 }
 
 /* search trigger */
