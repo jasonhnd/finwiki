@@ -8,7 +8,7 @@ interface Props {
   lang: Lang;
   title?: string;
   description?: string;
-  active?: 'home' | 'domains' | 'browse' | null;
+  active?: 'home' | 'domains' | 'browse' | 'ai' | null;
   wide?: boolean;
 }
 const { lang, title, description, active = null, wide = false } = Astro.props;
@@ -30,6 +30,7 @@ const desc = description ?? t(lang, 'site.tagline');
         } catch (e) {}
       })();
     </script>
+    <link rel="preload" href="/fonts/source-serif-4/source-serif-4-latin-600.woff2" as="font" type="font/woff2" crossorigin />
     <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
     <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
     <link rel="alternate" hreflang="ja" href={u('ja')} />
@@ -46,11 +47,13 @@ const desc = description ?? t(lang, 'site.tagline');
       <div class="site-header__inner">
         <a class="brand" href={u(lang)} aria-label={t(lang, 'aria.home')}>
           <span>Fin<b>Wiki</b></span>
+          <small>{t(lang, 'site.subtitle')}</small>
         </a>
         <nav class="site-nav" aria-label={t(lang, 'aria.primary')}>
+          <a href={u(lang)} aria-current={active === 'home' ? 'page' : undefined}>{t(lang, 'nav.home')}</a>
           <a href={u(lang, 'domains/')} aria-current={active === 'domains' ? 'page' : undefined}>{t(lang, 'nav.domains')}</a>
           <a href={u(lang, 'browse/')} aria-current={active === 'browse' ? 'page' : undefined}>{t(lang, 'nav.browse')}</a>
-          <a href="/llms.txt">{t(lang, 'nav.ai')}</a>
+          <a href="/llms.txt" aria-current={active === 'ai' ? 'page' : undefined}>{t(lang, 'nav.ai')}</a>
         </nav>
         <div class="header-tools">
           <pagefind-modal-trigger class="pf-trigger" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
@@ -66,11 +69,12 @@ const desc = description ?? t(lang, 'site.tagline');
 
     <footer class="site-footer" data-pagefind-ignore>
       <div class="site-footer__inner">
-        <div>
+        <div class="site-footer__about">
           <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
           <p class="site-footer__note">{t(lang, 'footer.note')}</p>
         </div>
         <nav class="site-footer__links" aria-label={t(lang, 'aria.footer')}>
+          <a href={u(lang)}>{t(lang, 'nav.home')}</a>
           <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
           <a href={u(lang, 'browse/')}>{t(lang, 'nav.browse')}</a>
           <a href="/llms.txt">{t(lang, 'footer.llms')}</a>
@@ -92,9 +96,6 @@ const desc = description ?? t(lang, 'site.tagline');
       @media (max-width: 560px) {
         .site-nav {
           gap: 0.75rem;
-        }
-        .brand small {
-          display: none;
         }
       }
     </style>

@@ -6,6 +6,56 @@
    sources/provenance as first-class.
    ========================================================================== */
 
+/* ----- Self-hosted editorial webfonts: Latin / Latin-ext only ----- */
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/source-serif-4/source-serif-4-latin-600.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  size-adjust: 100%;
+  ascent-override: 92%;
+  descent-override: 24%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/source-serif-4/source-serif-4-latin-ext-600.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  size-adjust: 100%;
+  ascent-override: 92%;
+  descent-override: 24%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("/fonts/inter/inter-latin-var.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  size-adjust: 100%;
+  ascent-override: 90%;
+  descent-override: 22%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("/fonts/inter/inter-latin-ext-var.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  size-adjust: 100%;
+  ascent-override: 90%;
+  descent-override: 22%;
+  line-gap-override: 0%;
+}
+
 /* ----- Tokens: light (default) ----- */
 :root {
   color-scheme: light;
@@ -57,7 +107,7 @@
   /* type */
   --font-editorial-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif;
   --font-editorial-body-ja: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Yu Gothic UI", "Noto Sans JP", system-ui, sans-serif;
-  --font-editorial-body-en: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-editorial-body-en: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-editorial-body-zh: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
   --font-editorial-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 
@@ -341,7 +391,8 @@ hr {
 .brand {
   display: inline-flex;
   align-items: baseline;
-  gap: 0.5ch;
+  gap: 0.7ch;
+  flex: 0 0 auto;
   text-decoration: none;
   color: var(--ink);
   font-family: var(--font-display);
@@ -349,6 +400,9 @@ hr {
   font-size: 1.32rem;
   letter-spacing: 0;
   white-space: nowrap;
+}
+.brand > span {
+  font-size: 1.04em;
 }
 .brand b {
   color: var(--accent);
@@ -376,11 +430,11 @@ hr {
   text-decoration: none;
   color: var(--ink-2);
   font-size: var(--fs-sm);
-  font-weight: 550;
-  padding: 0.3rem 0;
+  font-weight: 560;
+  padding: 0.36rem 0;
   border-bottom: 2px solid transparent;
   white-space: nowrap;
-  transition: color var(--dur) var(--ease);
+  transition: color var(--dur) var(--ease), border-color var(--dur) var(--ease);
 }
 .site-nav a:hover,
 .site-nav a[aria-current="page"] {
@@ -392,6 +446,12 @@ hr {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+@media (max-width: 1040px) {
+  .brand small {
+    display: none;
+  }
 }
 
 @media (max-width: 720px) {
@@ -531,7 +591,9 @@ hr {
 .site-footer {
   flex-shrink: 0;
   border-top: 1px solid var(--line);
-  background: var(--surface-2);
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--surface-2) 82%, transparent), var(--surface-2)),
+    var(--surface-2);
   margin-top: var(--gap-section);
 }
 .site-footer__inner {
@@ -542,9 +604,13 @@ hr {
   gap: var(--sp-4);
   grid-template-columns: 1.4fr 1fr;
 }
+.site-footer__about {
+  max-width: 38rem;
+}
 .site-footer__brand {
   font-family: var(--font-display);
-  font-size: 1.2rem;
+  font-size: 1.35rem;
+  line-height: 1;
   color: var(--ink);
 }
 .site-footer__note {
@@ -558,6 +624,7 @@ hr {
   flex-wrap: wrap;
   gap: 0.4rem 1.1rem;
   align-content: start;
+  justify-content: flex-end;
 }
 .site-footer__links a {
   color: var(--ink-2);
@@ -581,6 +648,9 @@ hr {
 @media (max-width: 640px) {
   .site-footer__inner {
     grid-template-columns: 1fr;
+  }
+  .site-footer__links {
+    justify-content: flex-start;
   }
 }
 
@@ -730,8 +800,13 @@ a.wl:hover {
 
 /* ----- Editorial prose ----- */
 .prose {
+  min-width: 0;
   font-size: var(--fs-base);
   color: var(--ink);
+  overflow-wrap: anywhere;
+}
+.prose a {
+  overflow-wrap: anywhere;
 }
 .prose > :first-child {
   margin-top: 0;
@@ -784,6 +859,7 @@ a.wl:hover {
   border: 1px solid var(--line);
 }
 .prose pre {
+  max-width: 100%;
   background: var(--code-bg);
   color: var(--code-ink);
   padding: 1rem 1.1rem;
@@ -793,6 +869,9 @@ a.wl:hover {
   border: 1px solid var(--line-2);
 }
 .prose pre code {
+  display: block;
+  width: max-content;
+  min-width: 100%;
   background: none;
   border: none;
   padding: 0;

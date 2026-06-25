@@ -20,18 +20,18 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 | Area | Current Implementation | Must Preserve |
 |---|---|---|
 | Theme tokens | `global.css` defines light tokens in `:root` and dark overrides in `[data-theme="dark"]`. | Existing cool-neutral / teal-blue direction, readable light/dark contrast, token-first color changes. |
-| Header shell | `Base.astro` renders `.site-header`, `.site-nav`, `.header-tools`, Pagefind trigger, `ThemeToggle`, `LangSwitcher` and footer. | Sticky compact header, skip link, localized navigation, Pagefind modal wiring, no overlap at narrow widths. |
+| Header shell | `Base.astro` renders `.site-header`, editorial `.brand` masthead with localized subtitle, `.site-nav`, `.header-tools`, Pagefind trigger, `ThemeToggle`, `LangSwitcher` and footer. | Sticky compact header, skip link, Home / Domains / Browse / AI navigation with underline active state, Pagefind modal wiring, no overlap at narrow widths. |
 | Home | `[lang]/index.astro` renders `.hero`, `.pf-hero`, `.hero__stats`, `.recent-grid`, `.groups`, `.ai-band`. | Search and corpus stats in first screen, recent entries, domain map, AI links, no marketing-only hero. |
 | Domains | `domains/index.astro` uses grouped `.dgroup__grid` cards; `domains/[domain]/index.astro` uses optional search filter and route-visible lists. | Counts, grouped taxonomy, localized names, route visibility for maintainers, filter only when useful. |
 | Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__jump`, multi-column `.browse__section ul`, and client-side filter. | Fast scan, sticky filter below header, domain jump chips, localized empty state. |
-| Entry | `EntryLayout.astro` uses `.doc` grid, `.drail--left`, `.doc-article`, `.factbar`, `.toc--rail`, `.toc-inline`, `.prose`. | Desktop rails, central reading width, provenance/freshness chips, machine-translation badge, inline TOC fallback. |
+| Entry | `EntryLayout.astro` uses `.doc` grid, `.drail--left`, `.doc-article`, `.evidence-strip`, `.toc--rail`, `.toc-inline`, `.prose`. | Desktop rails, central reading width, quiet provenance/freshness evidence, machine-translation badge, current-group domain orientation, inline TOC fallback. |
 | Prose | `global.css` `.prose` covers paragraph rhythm, headings, lists, blockquotes, code, pre, images, tables and wikilinks. | Long Japanese text readability, table horizontal scrolling, no page-level overflow, wikilink affordance. |
 
 ## Functional Requirement
 
 | ID | Function | Implementation Surface | Requirement |
 |---|---|---|---|
-| FSD-008-001 | Site shell | `site/src/layouts/Base.astro` | Render compact sticky header, skip link, language routes, Pagefind modal, footer, and `data-pagefind-*` boundaries. |
+| FSD-008-001 | Site shell | `site/src/layouts/Base.astro` | Render compact editorial masthead, skip link, Home / Domains / Browse / AI navigation, language routes, Pagefind modal, footer, and `data-pagefind-*` boundaries. |
 | FSD-008-002 | Theme switching | `ThemeToggle.astro`, `global.css` | Toggle light/dark without flash, persist `finwiki-theme`, and keep both token sets readable. |
 | FSD-008-003 | Language switching | `LangSwitcher.astro`, `site/src/i18n/ui.ts` | Preserve current route context across `ja/en/zh`; show active language clearly. |
 | FSD-008-004 | Search | Pagefind trigger/modal and [Search](search.md) | Header and home search must open Pagefind and search within the current language. |
@@ -39,7 +39,7 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 | FSD-008-006 | Domain list | `site/src/pages/[lang]/domains/index.astro` | Group domains by product taxonomy and show counts in a compact grid. |
 | FSD-008-007 | Domain detail | `site/src/pages/[lang]/domains/[domain]/index.astro` | Show breadcrumbs, domain name, counts, optional filter, route slugs, and translated markers. |
 | FSD-008-008 | Browse page | `site/src/pages/[lang]/browse/index.astro` | Provide full corpus scan, domain jump links, sticky filter, and no-match state. |
-| FSD-008-009 | Entry page | `EntryLayout.astro` | Show breadcrumb, title, confidence/review/source chips, machine translation badge, tags, left domain rail, right TOC or mobile inline TOC, and prose. |
+| FSD-008-009 | Entry page | `EntryLayout.astro` | Show breadcrumb, title, confidence/review/source evidence strip, machine translation badge, tags, current-group left domain rail with All domains link, right TOC or mobile inline TOC, and prose. |
 | FSD-008-010 | Prose | `global.css` `.prose` rules | Markdown headings, links, tables, code, blockquotes, and wikilinks must remain readable in long financial reference pages. |
 
 ## CSS Class Contract
@@ -50,12 +50,12 @@ These classes are treated as part of the current UI template. Renaming or removi
 |---|---|---|
 | `.container`, `.container--wide`, `.site-main` | `global.css` | Width and page layout primitives. |
 | `.site-header`, `.site-header__inner`, `.site-nav`, `.header-tools` | `global.css`, `Base.astro` | Sticky shell and navigation. |
-| `.brand`, `.search-trigger` / `.pf-trigger`, `.icon-btn`, `.lang-switch` | `global.css`, components | Brand, search, theme and language controls. |
+| `.brand`, `.brand small`, `.search-trigger` / `.pf-trigger`, `.icon-btn`, `.lang-switch` | `global.css`, components | Editorial masthead brand, localized subtitle, search, theme and language controls. |
 | `.chip`, `.chip--accent`, `.chip--warn`, `.dot` | `global.css`, `EntryLayout.astro` | Metadata, provenance, status and translation badges. |
 | `.card`, `.card__kicker`, `.card__title`, `.card__meta` | `global.css`, page components | Compact repeated entry/domain surfaces. |
 | `.wl`, `.wl-broken`, `.prov-*` | `global.css`, Markdown rendering | Wikilink and provenance affordances. |
 | `.prose` and nested Markdown rules | `global.css` | Entry body typography and financial tables. |
-| `.doc`, `.drail`, `.doc-article`, `.factbar`, `.toc`, `.toc-inline` | `EntryLayout.astro` | Entry page reference layout and responsive rails. |
+| `.doc`, `.drail`, `.doc-article`, `.evidence-strip`, `.evidence-item`, `.evidence-badge`, `.toc`, `.toc-inline` | `EntryLayout.astro` | Entry page editorial reference layout, evidence metadata and responsive rails. |
 | `.hero`, `.pf-hero`, `.hero__stats`, `.recent-grid`, `.groups`, `.ai-band` | `[lang]/index.astro` | Home page entry experience. |
 | `.browse__bar`, `.browse__filter`, `.browse__jump`, `.browse__section` | `[lang]/browse/index.astro` | Browse filter and full corpus scan. |
 
@@ -109,4 +109,4 @@ These classes are treated as part of the current UI template. Renaming or removi
 - `bun tools/release.ts --check --strict` passes.
 - Astro build and duplicate-id check pass when site rendering changes.
 - No English UI chrome leakage on Japanese pages except allowed proper nouns/artifacts.
-- No mobile horizontal overflow on header, entry title, factbar, domain lists, browse list, prose tables, or source sections.
+- No mobile horizontal overflow on header, entry title, evidence strip, domain lists, browse list, prose tables, or source sections.
