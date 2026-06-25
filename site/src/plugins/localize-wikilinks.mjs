@@ -30,6 +30,10 @@ function japaneseCount(value) {
   return (String(value).match(/[\u3040-\u30ff\u3400-\u9fff]/g) ?? []).length;
 }
 
+function kanaCount(value) {
+  return (String(value).match(/[\u3040-\u30ff]/g) ?? []).length;
+}
+
 function asciiLetterCount(value) {
   return (String(value).match(/[A-Za-z]/g) ?? []).length;
 }
@@ -47,15 +51,49 @@ function shouldUseJapaneseLabel(label, localized) {
   return localized.length <= 96 && (descriptor || (ascii >= 12 && ascii > japanese));
 }
 
-async function localizeJapaneseWikilinkLabels(root) {
+function titleCaseToken(token) {
+  const upper = new Set(['ai', 'api', 'atm', 'bft', 'bpo', 'ccip', 'cctp', 'dlt', 'fg', 'fx', 'gmo', 'hd', 'ibc', 'ipo', 'ir', 'jcb', 'jpx', 'jsf', 'l1', 'l2', 'llm', 'mufg', 'nft', 'odx', 'sbi', 'smbc', 'spv', 'stb', 'ui', 'vasp']);
+  const lower = token.toLowerCase();
+  if (upper.has(lower)) return lower.toUpperCase();
+  return lower.charAt(0).toUpperCase() + lower.slice(1);
+}
+
+function routeLabel(route) {
+  const stem = String(route ?? '')
+    .split('#', 1)[0]
+    .split('/')
+    .filter(Boolean)
+    .pop();
+  if (!stem) return '';
+  return stem.split(/[-_]+/).filter(Boolean).map(titleCaseToken).join(' ');
+}
+
+function cleanLocalizedTitle(lang, route, localized) {
+  const value = String(localized ?? '').trim();
+  if (!value) return null;
+  if (lang === 'en' && japaneseCount(value) > 0) return routeLabel(route) || null;
+  if (lang === 'zh' && kanaCount(value) > 0) return routeLabel(route) || null;
+  return value;
+}
+
+function localizedLabelFor(lang, route, label) {
+  const localized = localizedTitle(lang, route);
+  if (lang === 'ja') return shouldUseJapaneseLabel(label, localized) ? localized : null;
+  if (japaneseCount(label) === 0) return null;
+  const cleaned = cleanLocalizedTitle(lang, route, localized);
+  if (cleaned) return cleaned;
+  return routeLabel(route) || null;
+}
+
+async function localizeWikilinkLabels(root, lang) {
   let replacements = 0;
-  const langRoot = path.join(root, 'ja');
+  const langRoot = path.join(root, lang);
 
   for await (const file of walkHtml(langRoot)) {
     const html = await readFile(file, 'utf8');
     const updated = html.replace(WIKILINK_ANCHOR, (match, href, route, label) => {
-      const localized = localizedTitle('ja', route);
-      if (!shouldUseJapaneseLabel(label, localized)) return match;
+      const localized = localizedLabelFor(lang, route, label);
+      if (!localized) return match;
       replacements += 1;
       return `<a class="wl" href="${href}" data-wl="${route}">${esc(localized)}</a>`;
     });
@@ -83,10 +121,13 @@ export async function localizeWikilinkHrefs(distDir) {
     totals.set(lang, replacements);
   }
 
-  const jaLabels = await localizeJapaneseWikilinkLabels(root);
+  const labelTotals = new Map();
+  for (const lang of ['ja', ...LANGS]) {
+    labelTotals.set(lang, await localizeWikilinkLabels(root, lang));
+  }
 
   console.log(
-    `[finwiki] localized wikilink hrefs: ${LANGS.map((lang) => `${lang}=${totals.get(lang) ?? 0}`).join(' ')} ja-labels=${jaLabels}`,
+    `[finwiki] localized wikilink hrefs: ${LANGS.map((lang) => `${lang}=${totals.get(lang) ?? 0}`).join(' ')} labels: ${['ja', ...LANGS].map((lang) => `${lang}=${labelTotals.get(lang) ?? 0}`).join(' ')}`,
   );
 }
 
