@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-24T18:28:04+09:00
+Generated: 2026-06-25T12:49:32+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -8433,7 +8433,7 @@ Public pages listed: 1564
 - Entity node: kind=financial_group scope=japan_core status=anchor
 - Summary: This entry sits under megabanks INDEX. Read it against PayPay 金融グループ for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: au フィナンシャルホールディングス (au-FH), Wiki route, TL;DR, 1. 会社概要, KPI 実績（KDDI 公式 IR・auじぶん銀行 公式 PR ベース）, 主要子会社・持分（公開情報ベース）, 重要年表（抜粋）^[extracted], 沿革トピック
-- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/mercari-bank-license-stack, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/megabanks/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/regional-banks/ssnb
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/mercari-bank-license-stack, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/life-insurers/lifenet, https://finwiki.zksc.io/megabanks/INDEX, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/ndfg, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/payment-firms/rakuten-fg, https://finwiki.zksc.io/regional-banks/ssnb
 
 ### Japan financial conglomerate structure overview
 - URL: https://finwiki.zksc.io/megabanks/japan-financial-conglomerate-structure-overview

@@ -21,9 +21,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-25",
+    "last_tended": "2026-06-25",
+    "review_by": "2026-12-25",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -40,7 +40,9 @@
       "KDDI 2026年3月期 決算短信・決算説明資料 (2026-05-12 公式 IR)",
       "KDDI 適時開示『auフィナンシャルホールディングス株式会社の東京証券取引所への株式上場準備の開始について』(2026-05-12)",
       "auじぶん銀行 公式プレスリリース：預金残高5兆円突破 (2025-08-06)・預金口座数700万突破 (2025-09-20)",
-      "ライフネット生命保険 IR 株主・株式情報（auフィナンシャルホールディングス 議決権 18.32%・筆頭株主） https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html"
+      "au Financial Holdings / Lifenet Insurance: Lifenet major-shareholder change and new business alliance agreement, 2026-04-30 (https://www.au-financial.com/pdf/auFH/news_20260430_01.pdf)",
+      "Lifenet Insurance: JAL acquisition completion and major-shareholder change, 2026-06-18 (https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf)",
+      "Lifenet Insurance: stock information page, auFH all-share transfer note, checked 2026-06-25 (https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html)"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against PayPay 金融グループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -57,11 +59,12 @@
     "戦略コア：通信 × コンビニ × 金融 経済圏 + IPO 独立化"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
+      "life-insurers/lifenet",
       "megabanks/INDEX",
       "megabanks/mufg",
       "megabanks/ndfg",
@@ -74,6 +77,7 @@
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
       "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/ndfg",
@@ -86,8 +90,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8811,
-    "word_like_tokens": 1740,
+    "nonspace_chars": 10229,
+    "word_like_tokens": 1977,
     "inbound_wikilinks_count": 40,
     "last_modified": "2026-06-22"
   }
