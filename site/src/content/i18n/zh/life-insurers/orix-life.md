@@ -1,119 +1,87 @@
 ---
 source: life-insurers/orix-life
-source_hash: 6c37bd25cfb94486
+source_hash: 4e2fa600e22429b7
 lang: zh
 status: machine
 fidelity: ok
-title: "ORIX 生命保险"
-translated_at: 2026-06-19T06:09:18.102Z
+title: "ORIX Life Insurance"
+translated_at: 2026-06-24T09:30:00.000Z
 ---
+# ORIX Life Insurance
 
-# ORIX 生命保险
+## Wiki 路由
 
-## Wiki route
-
-本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。请将其与 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 对照阅读以了解同业／对比背景，并与 [[insurance/INDEX|insurance index]] 对照以了解更广泛的体系／监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。阅读时可将 [[life-insurers/lifenet|Lifenet Insurance]] 作为 direct-online 对照，将 [[leasing-firms/orix-corp|ORIX Corporation]] 作为集团背景，并将 [[insurance/INDEX|insurance index]] 作为更广的制度 / 监管边界。
 
 ## TL;DR
 
-中坚人寿保险公司，ORIX [[leasing-firms/orix-corp]] 100% 子公司（非上市）。1991-04  作为与美国 Mutual of Omaha 的合资公司「ORIX 奥马哈生命」设立，因 2002  美方撤退而成为 100% 子公司并改为现公司名。代理店 + 银行窗口销售 + **网络直销**的 3  渠道并用为其特征，医疗保险「**CURE（キュア）**」系列是国内网络销售的主力商品。以包含死亡保险・癌症保险在内的第三领域为中心的产品线，承担 ORIX 集团面向个人金融商品的核心。
+ORIX Life Insurance 是 FSA life-insurance-company list 中列示的日本国内寿险公司，并承担 ORIX Group 的 insurance business。^[source:fsa-life-list-2026][source:orix-insurance-overview-2025] ORIX Group 的 insurance overview 表示 ORIX Life 于 1991 年开始运营，聚焦 medical insurance and death insurance，并在 omnichannel strategy 中组合 agents、financial institutions、mail-order / online sales 和 Conserve Advisors。^[source:orix-insurance-overview-2025] 2025 disclosure 显示 FY2024 年末 solvency margin ratio 为 **939.5%**。^[source:orix-life-disclosure-2025] 它不是 Lifenet 那样的纯 online direct insurer；应将其视为 **ORIX group 的非上市寿险制造 / 分销公司，且拥有多渠道结构**。
 
-## 1. 公司概要
+## 1. 实体 / 牌照边界
 
-**正式名称**：ORIX 生命保险株式会社
-**英文名**：ORIX Life Insurance Corporation
-**设立**：1991-04（作为 ORIX 奥马哈生命保险株式会社）
-**现公司名变更**：2002（随美国 Mutual of Omaha 撤退而成为 ORIX 100% 子公司并更名）
-**上市**：非上市（ORIX [[leasing-firms/orix-corp]] 100% 子公司）
-**母公司**：ORIX 株式会社（东证 PRIME 8591 / NYSE: IX）
-**业态**：人寿保险公司（金融厅认可）
-**主管**：金融厅（FSA）
-
-### 在母公司 ORIX 集团内的定位
-
-ORIX 本体多元开展综合金融服务（租赁・不动产・PE・银行・保险・能源等），ORIX 生命是其 **面向个人的人寿保险分部** 的核心。在集团内占据与以下并列的个人金融事业公司之一席。
-
-```
-ORIX 株式会社（8591）
-  ├── ORIX 银行（面向个人的存款・住房贷款）
-  ├── ORIX 生命保险（寿险・本项）
-  ├── ORIX Credit（卡片贷款等）
-  └── ORIX 租赁 / 不动产 / PE / 汽车 等
-```
-
-在 ORIX 本体的分部披露上被划入「保险」分部，被定位为稳定贡献集团收益一定比例的事业（具体构成比参见母公司 IR）。
-
-## 2. 沿革
-
-| 年月 | 事项 |
+| 项目 | 解读 |
 |---|---|
-| 1991-04 | **ORIX 奥马哈生命保险株式会社 设立**（ORIX + 美国 Mutual of Omaha 的合资，外资技术引进型合资企业） |
-| 2002 | 美国 Mutual of Omaha 撤资 → **成为 ORIX 100% 子公司・更名为「ORIX 生命保险」** |
-| 2000 年年代后半～2010 年年代 | 投入并扩大医疗保险「CURE（キュア）」系列，确立网络直销＋代理店＋银行窗口销售的 3  渠道战略 |
-| 2010-2020 | 借银行窗口销售管制放宽之势，扩大银行窗口销售渠道。在网络直销方面也于医疗保险分部确立存在感 |
-| 2024 | 中期经营计划期间（与母公司 ORIX 集团整体方针联动） |
+| 法定名称 | オリックス生命保険株式会社 / ORIX Life Insurance Corporation。^[source:fsa-life-list-2026] |
+| 母公司 / 集团 | ORIX Group 将 ORIX Life 放在 Insurance business 下；FinWiki 将母公司背景链接到 [[leasing-firms/orix-corp|ORIX Corporation]]。^[source:orix-insurance-overview-2025] |
+| 牌照边界 | FSA 英文 life-insurer list 列示 ORIX Life Insurance Corporation。^[source:fsa-life-list-2026] |
+| 披露制度 | ORIX Life 表示，保险公司按年度编制说明业务和财产状况的 disclosure magazine；2025 disclosure 覆盖 FY2024。^[source:orix-life-results-2026] |
+| 健全性指标 | FY2024 年末 solvency margin ratio 为 939.5%；disclosure 将其解释为衡量应对通常预期以外风险能力的行政监管指标。^[source:orix-life-disclosure-2025] |
 
-> 沿革要点：通过合资起点（1991）+ 网络直销早期切入（2000 年 年代）+ 利用 ORIX 集团销路（银行窗口销售）这 3  个要素，形成了「不属于日系大型寿险的**中坚・专门特化型**」定位。
+## 2. 商业模式 / 渠道图
 
-## 3. 主要商品
+ORIX Group 将 ORIX Life 的业务描述为包括 medical insurance and death insurance 在内的寿险业务，截至 2025-03-31 资产为 JPY 3,009.2bn、利润为 JPY 74.4bn。^[source:orix-insurance-overview-2025] 同一页面说明，公司基于简单、易懂、合理价格的保障理念提供产品，并通过四类渠道销售。^[source:orix-insurance-overview-2025]
 
-以第三领域（医疗・癌症）+ 死亡保障为主轴，特征是志向 **简单・低成本・网络完结** 的产品线。
+| 渠道 | 作用 |
+|---|---|
+| Insurance agents | 第三方分销和保险门店触达。^[source:orix-insurance-overview-2025] |
+| Financial institutions | Bancassurance / 银行窗口路径；与 megabank 和 regional-bank distribution 对比时重要。^[source:orix-insurance-overview-2025] |
+| Mail-order / online sales | Direct-response 路径；有用但不等同于纯 online-only。^[source:orix-insurance-overview-2025] |
+| Conserve Advisors | ORIX Life 的员工销售渠道，ORIX Group 将其列为销售架构的一部分。^[source:orix-insurance-overview-2025] |
 
-| 类别 | 主要商品 | 特征 |
-|---|---|---|
-| 医疗保险 | **「CURE（キュア）」系列** | 以住院・手术保障为中心，国内网络销售的代表性医疗保险品牌 |
-| 死亡保险 | 定期保险・收入保障保险等 | 包含网络完结・无告知简易型在内的相对简单设计 |
-| 癌症保险 | 癌症诊断・治疗给付型 | 第三领域产品线 |
-| 学资・终身等 | 终身保险等 | 补充性产品线 |
+这种混合渠道结构是它与 [[life-insurers/lifenet|Lifenet]] 的关键区别。ORIX Life 可以使用线上获客，但其核心定位是多渠道 ORIX-group insurer，而不是互联网专营 challenger。
 
-销售渠道：
-- **网络直销**（经由官方网站・比较网站）
-- **代理店**（保险门店・兼营代理店）
-- **银行窗口销售**（ORIX 银行并用＋他行）
+## 3. 产品 / 集团角色
 
-### 母公司协同
+| 线索 | 解读 |
+|---|---|
+| Medical / third-sector insurance | ORIX Group 强调 medical insurance 和 customer appreciation；任何产品级更新都应以 ORIX Life disclosure 和 results pages 为来源。^[source:orix-insurance-overview-2025][source:orix-life-results-2026] |
+| Death insurance | ORIX Group 将 death insurance 列为寿险业务的一部分。^[source:orix-insurance-overview-2025] |
+| 集团资产负债表角色 | Insurance business 位于更广的 ORIX 金融服务中；这使本页与 [[leasing-firms/orix-corp]] 以及 non-bank finance / asset-management 解读相连。 |
+| 客户基础 | ORIX Life performance page 报告截至 2026-03 的保有契约件数为 4.71mn。^[source:orix-life-results-2026] |
+| 评级信号 | 同一 performance page 报告 R&I insurance-claims-paying ability rating AA，截至 2026-02-24。^[source:orix-life-results-2026] |
 
-- 被定位为 ORIX 集团的 **面向个人金融商品核心**。
-- 与 ORIX 银行的窗口销售联动（住房贷款 → 团信・医疗保险交叉销售等）。
-- 活用 ORIX 品牌知名度的网络直销。
+## 4. 偿付能力 / 资本解读
 
-### 渠道战略
+2025 disclosure 的 solvency-margin table 很重要，因为 ORIX Life 的规模已经足以让资产管理风险、利率变化和第三分野保险风险成为明确的解读轴：
 
-并非像 Lifenet [[life-insurers/lifenet]] 那样的**纯网络专营寿险**，而是作为网络直销 + 代理店 + 银行窗口销售的**混合型**，意在兼顾成本效率与销路覆盖。CURE 系商品在比较网站上曝光度高，确保了医疗保险网络销售市场顶级的存在感（基于一般评价）。
+- FY2024 年末 solvency margin ratio：**939.5%**，较上一年度末下降 47.8 点。^[source:orix-life-disclosure-2025]
+- 表格将风险总额变化部分归因于 asset-management risk，因此即便零售产品页面强调 medical / death insurance，利率与市场风险假设仍然重要。^[source:orix-life-disclosure-2025]
+- disclosure 注明 200% 是低于后可触发监管 early-correction action 的水平；因此该比率是监管信号，不是营销 KPI。^[source:orix-life-disclosure-2025]
 
-### 竞争定位
+## 5. 同业 / 对照图
 
-| 竞争类别 | 主要参与者 | ORIX 生命的差异化 |
-|---|---|---|
-| 日系大型寿险 | 第一生命 [[life-insurers/dai-ichi-life]] / 日本生命 [[life-insurers/nippon-life]] / [[life-insurers/meiji-yasuda]] / [[life-insurers/sumitomo-life]] | 中坚・成本效率・网络亲和性 |
-| 网络专营 | Lifenet [[life-insurers/lifenet]] / SBI 生命（[[megabanks/sbi-hd]] 内）| 代理店 + 银行窗口销售并用，触达面广 |
-| 第三领域特化 | Aflac [[life-insurers/aflac-japan]] | 在医疗「CURE」上诉求价格・简单性 |
-| 外资 | Prudential [[life-insurers/prudential-japan]] / AXA [[life-insurers/axa-japan]] | 通过网络完结实现低成本 |
+| 同业 / 类别 | 对照 |
+|---|---|
+| [[life-insurers/lifenet|Lifenet]] | Online-first 上市保险公司，具备 embedded partner strategy；ORIX Life 规模更大且 omnichannel。 |
+| [[life-insurers/aflac-japan|Aflac Japan]] | Third-sector / cancer-heavy peer set；ORIX Life 有 ORIX group 金融服务邻接性。 |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] / [[life-insurers/nippon-life|Nippon Life]] | 大型传统寿险，销售员 / 职域分销和 mutual / group 结构差异很大。 |
+| [[megabanks/sbi-hd|SBI group insurance]] | 互联网金融生态 peer；ORIX 的邻接性更偏广义金融服务、leasing 和 investment。 |
 
-## 5. 监管・政策
+## 关联
 
-- **主管**：金融厅（FSA）— 人寿保险业法
-- **行业团体**：生命保险协会（一般社团法人）
-- **近期政策议题**：
-  - 银行窗口销售管制的动向（健全性 / 说明义务）
-  - 网络销售・比较网站的广告规则强化
-  - IFRS17 / 经济价值基础的偿付能力监管（2025〜分阶段导入）→ 对以第三领域为中心的投资组合的影响参见母公司 IR 披露
-  - 少子高龄化与医疗制度改革带来的第三领域市场结构变化
+- 母公司 / 集团: [[leasing-firms/orix-corp]]
+- Direct-online peer: [[life-insurers/lifenet]]
+- 日本大型寿险: [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- 外资 / 第三分野保险: [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 
-## Related
+## 来源
 
-- 母公司・集团：[[leasing-firms/orix-corp]]
-- 日系大型寿险（竞争）：[[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
-- 网络系・专门特化（竞争）：[[life-insurers/lifenet]] · [[megabanks/sbi-hd]] · [[megabanks/sony-fg]]
-- 外资・第三领域系（竞争）：[[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
-
-## Sources
-
-- **Wikipedia: ORIX 生命保险**（ja.wikipedia.org, 2026-05-19 抽取）
-- **ORIX 株式会社 综合报告书 / IR 公开资料**（2024-2025，保险分部披露）
-- 生命保险协会 公开资料
+- **FSA**: List of life insurance companies（列示 ORIX Life Insurance Corporation，2026-06-24 确认）https://www.fsa.go.jp/en/regulated/licensed/ins_life.pdf
+- **ORIX Group**: Insurance business overview（information as of 2025-03-31）https://www.orix.co.jp/grp/en/about/businesses/insurance/
+- **ORIX Life**: 业绩 / performance page（保有契约件数 471 万件、R&I AA，2026-06-24 确认）https://www.orixlife.co.jp/about/results/
+- **ORIX Life**: Disclosure magazine "ORIX Life no genjo 2025" https://www.orixlife.co.jp/about/results/disclosure/pdf/2025_y.pdf
 
 ---
 
-> [!info] 验证状况
-> confidence: **likely**（基于公开信息，母公司 [[leasing-firms/orix-corp]] IR + Wikipedia 校核）。具体数值（保费收入・合同件数・各渠道构成比等）需参照母公司 ORIX 的综合报告书及保险行业统计的最新版。因非上市，不存在单独的有价证券报告书，披露以母公司合并基础为主。
+> [!info] 验证状态
+> confidence: **likely**（2026-06-24）。已通过 FSA life-insurer list、ORIX Group official business overview、ORIX Life 2025 disclosure / performance page 校验。旧的 Wikipedia 依赖型沿革和产品表述已弱化或替换为官方来源支持的内容。

@@ -20,38 +20,42 @@
     "domain": "life-insurers",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
-      "life-insurance"
+      "life-insurance",
+      "orix",
+      "omnichannel-insurance"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: オリックス生命保険 (2026-05-19 抽出)",
-      "オリックス株式会社 統合報告書 / IR (2024-2025)"
+      "FSA: List of life insurance companies, ORIX Life Insurance Corporation verified 2026-06-24 (https://www.fsa.go.jp/en/regulated/licensed/ins_life.pdf)",
+      "ORIX Group: Insurance business overview, information as of 2025-03-31 (https://www.orix.co.jp/grp/en/about/businesses/insurance/)",
+      "ORIX Life: Performance page, policies in force and rating as of 2026 (https://www.orixlife.co.jp/about/results/)",
+      "ORIX Life: Disclosure magazine ORIX Life no genjo 2025 (https://www.orixlife.co.jp/about/results/disclosure/pdf/2025_y.pdf)"
     ]
   },
-  "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against ライフネット生命 for direct-online contrast, ORIX Corporation for group context, and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "オリックス生命保険",
     "Wiki route",
     "TL;DR",
-    "1. 会社概要",
-    "親会社オリックスグループ内の位置付け",
-    "2. 沿革",
-    "3. 主要商品",
-    "親会社シナジー",
-    "チャネル戦略",
-    "競合ポジション"
+    "1. Entity / licence boundary",
+    "2. Business model / channel map",
+    "3. Products / group role",
+    "4. Solvency / capital reading",
+    "5. Peer / contrast map",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "insurance/INDEX",
       "leasing-firms/orix-corp",
@@ -65,8 +69,7 @@
       "life-insurers/nippon-life",
       "life-insurers/prudential-japan",
       "life-insurers/sumitomo-life",
-      "megabanks/sbi-hd",
-      "megabanks/sony-fg"
+      "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -81,16 +84,15 @@
       "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/life-insurers/sumitomo-life",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/sony-fg"
+      "https://finwiki.zksc.io/megabanks/sbi-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3817,
-    "word_like_tokens": 526,
-    "inbound_wikilinks_count": 7,
+    "nonspace_chars": 6835,
+    "word_like_tokens": 1114,
+    "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-21"
   }
 }

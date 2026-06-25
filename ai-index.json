@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-24T17:57:08+09:00",
+  "generated_at": "2026-06-24T18:28:04+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11143564,
-    "word_like_tokens": 1798624,
+    "nonspace_utf8_chars": 11157825,
+    "word_like_tokens": 1801096,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -6557,7 +6557,7 @@
       "entity_edges": [],
       "nonspace_chars": 6255,
       "word_like_tokens": 974,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "banking/INDEX.md",
@@ -49232,7 +49232,7 @@
       "entity_edges": [],
       "nonspace_chars": 7697,
       "word_like_tokens": 1208,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "leasing-firms/nec-capital-solutions.md",
@@ -50968,37 +50968,33 @@
         "ライフネット生命保険 (LifeNet Insurance)",
         "Wiki route",
         "TL;DR",
-        "1. 会社概要",
-        "主要株主",
-        "創業者・経営陣（沿革）",
-        "2. 事業セグメント・マップ",
-        "チャネル・契約フロー",
-        "コア戦略",
-        "沿革"
+        "1. Entity / licence boundary",
+        "2. Business model",
+        "Direct online economics",
+        "3. Shareholder / channel relationship",
+        "4. Solvency / insurer capital reading",
+        "5. Competitive map",
+        "Related"
       ],
       "wikilinks": [
         "insurance/INDEX",
         "insurance/internet-life-insurance-business-model",
         "life-insurers/INDEX",
         "life-insurers/dai-ichi-life",
+        "life-insurers/orix-life",
         "megabanks/au-fh",
-        "megabanks/mizuho-fg",
-        "megabanks/mufg",
         "megabanks/paypay-fg",
-        "megabanks/sbi-hd",
-        "megabanks/smfg"
+        "megabanks/sbi-hd"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/insurance/INDEX",
         "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
         "https://finwiki.zksc.io/life-insurers/INDEX",
         "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+        "https://finwiki.zksc.io/life-insurers/orix-life",
         "https://finwiki.zksc.io/megabanks/au-fh",
-        "https://finwiki.zksc.io/megabanks/mizuho-fg",
-        "https://finwiki.zksc.io/megabanks/mufg",
         "https://finwiki.zksc.io/megabanks/paypay-fg",
-        "https://finwiki.zksc.io/megabanks/sbi-hd",
-        "https://finwiki.zksc.io/megabanks/smfg"
+        "https://finwiki.zksc.io/megabanks/sbi-hd"
       ],
       "markdown_links": [],
       "entity_node": {
@@ -51007,8 +51003,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3825,
-      "word_like_tokens": 567,
+      "nonspace_chars": 8216,
+      "word_like_tokens": 1336,
       "last_modified": "2026-06-22"
     },
     {
@@ -51603,18 +51599,18 @@
       "domain": "life-insurers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under life-insurers INDEX. Read it against ライフネット生命 for direct-online contrast, ORIX Corporation for group context, and insurance index for the broader system / regulatory boundary.",
       "headings": [
         "オリックス生命保険",
         "Wiki route",
         "TL;DR",
-        "1. 会社概要",
-        "親会社オリックスグループ内の位置付け",
-        "2. 沿革",
-        "3. 主要商品",
-        "親会社シナジー",
-        "チャネル戦略",
-        "競合ポジション"
+        "1. Entity / licence boundary",
+        "2. Business model / channel map",
+        "3. Products / group role",
+        "4. Solvency / capital reading",
+        "5. Peer / contrast map",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "insurance/INDEX",
@@ -51629,8 +51625,7 @@
         "life-insurers/nippon-life",
         "life-insurers/prudential-japan",
         "life-insurers/sumitomo-life",
-        "megabanks/sbi-hd",
-        "megabanks/sony-fg"
+        "megabanks/sbi-hd"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/insurance/INDEX",
@@ -51645,14 +51640,13 @@
         "https://finwiki.zksc.io/life-insurers/nippon-life",
         "https://finwiki.zksc.io/life-insurers/prudential-japan",
         "https://finwiki.zksc.io/life-insurers/sumitomo-life",
-        "https://finwiki.zksc.io/megabanks/sbi-hd",
-        "https://finwiki.zksc.io/megabanks/sony-fg"
+        "https://finwiki.zksc.io/megabanks/sbi-hd"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3817,
-      "word_like_tokens": 526,
+      "nonspace_chars": 6835,
+      "word_like_tokens": 1114,
       "last_modified": "2026-06-21"
     },
     {
@@ -54148,26 +54142,28 @@
       "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.",
+      "summary": "This entry sits under manufacturing index. Read it with hachijuni-bank for Nagano regional-bank / manufacturer context, Toyota Motor Corporation (トヨタ自動車) for adjacent manufacturer-finance anchors, and FinWiki index for the broader system boundary.",
       "headings": [
         "Seiko Epson Corporation (セイコーエプソン)",
         "Wiki route",
         "TL;DR",
-        "1. 会社構造",
-        "2. 事業ライン map",
-        "3. 戦略と競合",
-        "4. 規制と政策",
+        "1. Company / operating-segment boundary",
+        "2. Treasury / balance-sheet anchor",
+        "3. Why it matters for finance pages",
+        "4. Risk / policy map",
         "Related",
         "Sources"
       ],
       "wikilinks": [
         "INDEX",
+        "leasing-firms/INDEX",
         "manufacturer-finance/INDEX",
         "manufacturer-finance/toyota-motor",
         "regional-banks/hachijuni-bank"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/leasing-firms/INDEX",
         "https://finwiki.zksc.io/manufacturer-finance/INDEX",
         "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/regional-banks/hachijuni-bank"
@@ -54175,8 +54171,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2453,
-      "word_like_tokens": 349,
+      "nonspace_chars": 6610,
+      "word_like_tokens": 1007,
       "last_modified": "2026-06-21"
     },
     {
@@ -81687,7 +81683,7 @@
       "entity_edges": [],
       "nonspace_chars": 7180,
       "word_like_tokens": 1126,
-      "last_modified": "2026-06-21"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "securities-firms/akatsuki-hq.md",
@@ -82627,7 +82623,7 @@
       "entity_edges": [],
       "nonspace_chars": 6656,
       "word_like_tokens": 1062,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-24"
     },
     {
       "source_path": "securities-firms/mebuki-securities.md",
@@ -93864,13 +93860,14 @@
       "headings": [
         "オルタナ信託 (Alterna Trust)",
         "Wiki route",
-        "Overview",
-        "Entity Boundary",
-        "Business Role Map",
-        "Public Context",
-        "Research Checklist",
-        "Related",
-        "Sources"
+        "TL;DR",
+        "Entity boundary",
+        "Digital securities trust role",
+        "Group / alliance relationship",
+        "MDM side",
+        "Sumitomo Mitsui Trust side",
+        "Progmat boundary",
+        "Why standalone page matters"
       ],
       "wikilinks": [
         "INDEX",
@@ -93895,8 +93892,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3592,
-      "word_like_tokens": 555,
+      "nonspace_chars": 6309,
+      "word_like_tokens": 1015,
       "last_modified": "2026-06-21"
     },
     {
@@ -96182,8 +96179,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3570,
-      "word_like_tokens": 661,
+      "nonspace_chars": 3548,
+      "word_like_tokens": 658,
       "last_modified": "2026-06-24"
     }
   ]

@@ -1,62 +1,68 @@
 ---
 source: trust-banks/alterna-trust
-source_hash: 013dc51450b1a5a7
+source_hash: 22f949f4ccb1cd6f
 lang: zh
 status: machine
 fidelity: ok
 title: "Alterna Trust"
-translated_at: 2026-05-31T07:28:06.188Z
+translated_at: 2026-06-24T09:30:00.000Z
 ---
 # Alterna Trust
 
-## Wiki route
+## Wiki 路由
 
-Alterna Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[payment-firms/progmat|Progmat]], [[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]], [[securities/osaka-digital-exchange|ODX]], and [[trust-banks/smtb|SMTB]].
+Alterna Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路由，并从 [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]] 提升为单页。阅读时应同时参照 [[payment-firms/progmat|Progmat]]、[[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]]、[[securities/osaka-digital-exchange|ODX]] 和 [[trust-banks/smtb|SMTB]]。
 
-本页用于数字证券、security-token trust、beneficiary-certificate issuing trust 以及 trust-company platform 相关问题。
+本页用于 digital securities、security-token trust、beneficiary-certificate issuing trust 和 trust-company platform 问题。
 
-## Overview
+## TL;DR
 
-Alterna Trust 是由 Mitsui & Co. Digital Asset Management 与 Sumitomo Mitsui Trust Bank 设立、专注于数字证券的信托公司。公开发布资料将其描述为专门提供 security-token fund 信托服务的信托公司，尤其聚焦 beneficiary-certificate issuing trust。
+Alterna Trust 是由 Mitsui & Co. Digital Asset Management (MDM) 与 [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]] 设立、聚焦 digital securities 的信托公司。SMTG 英文 release 将 Alterna Trust 描述为 specializing in digital securities 的 trust company，并说明 beneficiary-certificate issuing trust 的 administration 在 ST issuance 中发挥关键作用。^[source:smtg-alterna-release-2025] MDM release 表示，MDM 在 ALTERNA brand 下建立了端到端提供 ST 取得、运用、受托和销售的体制，[[payment-firms/progmat|Progmat]] 向 MDM 与 Alterna Trust 提供 Progmat SaaS。^[source:mdm-alterna-release-2025] FSA trust-company workbook 列示 オルタナ信託株式会社，免许日 2025-07-03，法人番号 9010001253166，所在地为東京都中央区日本橋堀留町1-9-8。^[source:fsa-trust-list-2026]
 
-该页面之所以重要，是因为它是进入日本 security-token 基础设施的直接信托公司路径。它连接 [[trust-banks/smtb|SMTB]]、[[payment-firms/progmat|Progmat]] 以及 ALTERNA 数字证券分销界面。
+## 实体边界
 
-## Entity Boundary
-
-| 项目 | 说明 |
+| 项目 | 解读 |
 |---|---|
-| 法定名称 | オルタナ信託株式会社 |
-| 细分领域 | 数字证券 / security-token trust company |
-| 设立背景 | Mitsui & Co. Digital Asset Management + Sumitomo Mitsui Trust Bank 的公开发布资料 |
-| 初始重点 | ST fund 与 beneficiary-certificate issuing trust 的信托业务 |
-| 平台连接 | 公开发布资料中的 Progmat SaaS / ALTERNA 协作 |
-| 注册路径 | FSA trust-company list |
+| 法定名称 | オルタナ信託株式会社 / Alterna Trust Co., Ltd.。^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
+| 牌照 / 登记 | FSA `sintaku01.xlsx` 在 trust-company list 中列示 オルタナ信託株式会社，免许日为 2025-07-03。^[source:fsa-trust-list-2026] |
+| 地址 | 東京都中央区日本橋堀留町1-9-8；SMTG release 具体写明 Ningyo-cho PREX 3F。^[source:fsa-trust-list-2026][source:smtg-alterna-release-2025] |
+| 代表人 | MDM 与 SMTG releases 将 Shosaku Ikeda / 池田匠作列为 representative president / CEO。^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
+| 资本 / 所有权 | SMTG release 给出 capital including capital reserves JPY 665mn，investment ratio 为 MDM 85.1%、SuMiTB 14.9%。^[source:smtg-alterna-release-2025] |
 
-这不是证券交易所或券商页面。更有用的边界是 security-token 发行结构中的受托人 / 信托管理角色。
+这不是证券经纪、交易所或稳定币发行方页面。有用边界是 security-token fund structures 中的 **trustee / trust-administration role**。
 
-## Business Role Map
+## Digital securities trust role
 
-| 功能 | 在 FinWiki 中的相关性 |
+| 功能 | FinWiki relevance |
 |---|---|
-| Beneficiary-certificate issuing trust | 日本许多 security-token 结构的核心法律包装层。 |
-| ST fund trust operations | 连接资产信托、发行以及面向投资者的数字证券。 |
-| Progmat cooperation | 将信托管理与数字证券基础设施连接起来。 |
-| 房地产与另类资产 | 公开发布先提房地产，后提更广泛的资产类别扩张。 |
+| Beneficiary-certificate issuing trust | SMTG release 表示 Alterna Trust 专注于 administration of a trust with certificates of beneficial interest，这是 digital securities issuance 中的关键角色。^[source:smtg-alterna-release-2025] |
+| ST issuance schemes 的 trustee | SMTG release 表示 Alterna Trust 作为 digital securities 发行方案中的 trustee，与 asset managers、securities firms 等协作。^[source:smtg-alterna-release-2025] |
+| ALTERNA integration | MDM release 表示 MDM 与 Alterna Trust 在 ALTERNA brand 下建立 ST 的取得、运用、受托和销售体制。^[source:mdm-alterna-release-2025] |
+| Progmat SaaS | MDM release 表示 Progmat 向 MDM 与 Alterna Trust 提供 Progmat SaaS，支持 digital asset issuance / management infrastructure。^[source:mdm-alterna-release-2025] |
+| 资产类别范围 | SMTG release 表示 Alterna Trust initially focuses on real estate，之后计划加入其他 alternative assets、corporate bonds 和 SuMiTB 持有的 claims。^[source:smtg-alterna-release-2025] |
 
-## Public Context
+## 集团 / 联盟关系
 
-Alterna Trust 是数字资产领域中最清楚体现 trust-company registry 重要性的案例之一。它让信托层变得可见：资产、受托人、平台、券商、投资者和结算路径是彼此分离的角色。
+### MDM side
 
-本页不应暗示 Alterna Trust 本身就是交易所、券商或代币平台。市场场所路径请用 [[securities/osaka-digital-exchange|ODX]]，平台背景请用 [[payment-firms/progmat|Progmat]]。
+MDM 是该结构中的 platform / asset-management side。其 release 表示 MDM 为个人投资者建立 ALTERNA service，并运营 ST fund formation / management / sale。release 还表示，使用 Progmat SaaS 使 MDM 可以自行完成 ST management，从而降低 scheme costs，并力求最大化 investor returns。^[source:mdm-alterna-release-2025]
 
-## Research Checklist
+### Sumitomo Mitsui Trust side
 
-1. 确认其在 FSA trust-company list 中的当前登记状态。
-2. 使用 Mitsui & Co. Digital Asset Management 与 Sumitomo Mitsui Trust 的公开资料确认设立背景和业务范围。
-3. 明确区分 trustee、platform、broker 和 exchange 的角色。
-4. 在分析面向投资者的分销时链接到 [[financial-licenses/securities-license-stack|securities license stack]]。
+[[trust-banks/smtb|SuMiTB]] 提供 trust know-how 和 trust-bank group route。SMTG release 表示 SuMiTB 与 MDM 就 digital securities 进入 business alliance，包括共同经营 Alterna Trust、派遣专家 / 共享 know-how、使用 ALTERNA 组建产品、介绍包括银行持有或 sourced claims 在内的资产，以及 SuMiTB 向 MDM 提供资金而 MDM 使用 SuMiTB 的销售网络。^[source:smtg-alterna-release-2025]
 
-## Related
+### Progmat boundary
+
+[[payment-firms/progmat|Progmat]] 是基础设施，不是信托公司。MDM release 将 Progmat SaaS 描述为一种产品，使金融机构无需自建 blockchain / DLT nodes 即可开展 ledger-management 和 custody functions 等 digital-asset-related businesses。^[source:mdm-alterna-release-2025]
+
+## 为什么需要独立页面
+
+1. **信托层被显性化**：许多 ST 页面过度强调 platform 或 exchange。Alterna Trust 为 FinWiki 提供 trustee / beneficiary-certificate issuing trust anchor。
+2. **连接 trust banking 与 fintech**：本页桥接 [[trust-banks/smtb]]、[[payment-firms/progmat]]、ALTERNA 和 security-token fund issuance。
+3. **不是软性合作说明**：FSA list 和公司 releases 支持一个具体受监管实体，而不仅是概念。
+4. **限制角色混淆**：market venue 使用 [[securities/osaka-digital-exchange|ODX]]，infrastructure 使用 [[payment-firms/progmat|Progmat]]，trust administration 使用本页。
+
+## 关联
 
 - [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
@@ -67,7 +73,13 @@ Alterna Trust 是数字资产领域中最清楚体现 trust-company registry 重
 - [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- FSA: trust company list.
-- Mitsui & Co. Digital Asset Management / SMTB / PR Times 关于 Alterna Trust 的公开发布。
+- **FSA**: Trust-company list `sintaku01.xlsx`（オルタナ信託株式会社，2025-07-03 免许日，2026-06-24 确认）https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
+- **Mitsui & Co. Digital Asset Management**: Establishment of Alterna Trust and deepening of Progmat / ALTERNA cooperation (2025-07-03) https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html
+- **Sumitomo Mitsui Trust Group**: Establishment of "Alterna Trust," a New Company that Specializes in Digital Securities (2025-07-03) https://www.smtg.jp/english/-/media/tg/english/news/2025/E250703.pdf
+
+---
+
+> [!info] 验证状态
+> confidence: **likely**（2026-06-24）。已直接确认 FSA trust-company workbook，并用 MDM / SMTG releases 校验设立、所有权、trustee role、Progmat / ALTERNA relationship。Broker / exchange / platform 角色已与该 trust-company role 分离。

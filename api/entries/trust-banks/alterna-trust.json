@@ -18,9 +18,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -34,23 +34,23 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
-      "https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html",
-      "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250703.pdf",
-      "https://prtimes.jp/main/html/rd/p/000000083.000056997.html"
+      "FSA: trust-company list sintaku01.xlsx, Alterna Trust verified 2026-06-24 (https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx)",
+      "Mitsui & Co. Digital Asset Management: Alterna Trust establishment and Progmat / ALTERNA cooperation, 2025-07-03 (https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html)",
+      "Sumitomo Mitsui Trust Group: Establishment of Alterna Trust, 2025-07-03 (https://www.smtg.jp/english/-/media/tg/english/news/2025/E250703.pdf)"
     ]
   },
   "summary": "Alterna Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.",
   "headings": [
     "オルタナ信託 (Alterna Trust)",
     "Wiki route",
-    "Overview",
-    "Entity Boundary",
-    "Business Role Map",
-    "Public Context",
-    "Research Checklist",
-    "Related",
-    "Sources"
+    "TL;DR",
+    "Entity boundary",
+    "Digital securities trust role",
+    "Group / alliance relationship",
+    "MDM side",
+    "Sumitomo Mitsui Trust side",
+    "Progmat boundary",
+    "Why standalone page matters"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -78,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3592,
-    "word_like_tokens": 555,
+    "nonspace_chars": 6309,
+    "word_like_tokens": 1015,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-21"
   }

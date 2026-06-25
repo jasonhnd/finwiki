@@ -20,22 +20,29 @@
     "domain": "life-insurers",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "JapanFG",
       "life-insurance",
-      "internet"
+      "internet",
+      "listed-insurer",
+      "embedded-insurance"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: ライフネット生命保険 (2026-05-19 抽出、公開情報のみ)",
-      "東証グロース 上場会社情報 (証券コード 7157)"
+      "FSA: List of life insurance companies, LIFENET INSURANCE COMPANY verified 2026-06-24 (https://www.fsa.go.jp/en/regulated/licensed/ins_life.pdf)",
+      "Lifenet Insurance: IR home / online life insurer positioning (https://ir.lifenet-seimei.co.jp/en/index.html)",
+      "Lifenet Insurance: Stock Information, TSE Prime / shareholders as of 2026-03-31 and 2026-06-18 note (https://ir.lifenet-seimei.co.jp/en/ir/stock/overview.html)",
+      "Lifenet Insurance: Financial Results for Fiscal 2025, 2026-05-13 (https://ir.lifenet-seimei.co.jp/en/news/index/auto_20260513529399/pdfFile.pdf)",
+      "Lifenet Insurance: Presentation Material for Fiscal 2025, 2026-05-13 (https://ir.lifenet-seimei.co.jp/en/news/index/auto_20260513529441/pdfFile.pdf)",
+      "Lifenet Insurance: Completion of JAL share acquisition and change in major shareholder, 2026-06-18 (https://ir.lifenet-seimei.co.jp/en/news/index/auto_20260618573596/pdfFile.pdf)",
+      "Lifenet Insurance: Matters related to controlling shareholders and other associated company, 2026-06-22 (https://ir.lifenet-seimei.co.jp/en/news/index/auto_20260621575263/pdfFile.pdf)"
     ]
   },
   "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -43,46 +50,42 @@
     "ライフネット生命保険 (LifeNet Insurance)",
     "Wiki route",
     "TL;DR",
-    "1. 会社概要",
-    "主要株主",
-    "創業者・経営陣（沿革）",
-    "2. 事業セグメント・マップ",
-    "チャネル・契約フロー",
-    "コア戦略",
-    "沿革"
+    "1. Entity / licence boundary",
+    "2. Business model",
+    "Direct online economics",
+    "3. Shareholder / channel relationship",
+    "4. Solvency / insurer capital reading",
+    "5. Competitive map",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "insurance/INDEX",
       "insurance/internet-life-insurance-business-model",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
+      "life-insurers/orix-life",
       "megabanks/au-fh",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
       "megabanks/paypay-fg",
-      "megabanks/sbi-hd",
-      "megabanks/smfg"
+      "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/orix-life",
       "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/megabanks/sbi-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3825,
-    "word_like_tokens": 567,
+    "nonspace_chars": 8216,
+    "word_like_tokens": 1336,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-22"
   }

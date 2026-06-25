@@ -7,79 +7,90 @@ aliases:
   - "セイコーエプソン"
 domain: "manufacturer-finance"
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_updated: 2026-06-24
+last_tended: 2026-06-24
+review_by: 2026-12-24
 confidence: likely
-tags: [manufacturing, electronics, nagano]
+tags: [manufacturing, electronics, nagano, treasury, supply-chain-finance]
 status: active
 sources:
-  - "https://corporate.epson/en/about/info.html"
-  - "https://corporate.epson/en/investors/publications/annual-report.html"
-  - "https://corporate.epson/en/investors/publications/integrated-report.html"
+  - "Seiko Epson: Company Outline, FY2026 profile / business lines (https://corporate.epson/en/about/info.html)"
+  - "Seiko Epson: Financial Results for the Year ended March 31, 2026, 2026-05-01 (https://corporate.epson/en/news/2026/260501.html)"
+  - "Seiko Epson: Consolidated Statements of Cash Flows, FY2026 (https://corporate.epson/en/investors/finance/cash-flow.html)"
+  - "Seiko Epson: Shareholder Returns policy (https://corporate.epson/en/investors/information/stock-dividends.html)"
 ---
 
 # Seiko Epson Corporation (セイコーエプソン)
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it with [[manufacturer-finance/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it with [[regional-banks/hachijuni-bank|hachijuni-bank]] for Nagano regional-bank / manufacturer context, [[manufacturer-finance/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]] for adjacent manufacturer-finance anchors, and [[INDEX|FinWiki index]] for the broader system boundary.
 
 ## TL;DR
 
-セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[regional-banks/hachijuni-bank|八十二銀行]] の長野県製造業 main bank 文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための manufacturing anchor。
+Seiko Epson is a Suwa, Nagano-headquartered precision / electronics manufacturer. The official company outline gives paid-in capital of JPY 53,204mn, consolidated employees of 74,619, and revenue of JPY 1,413.3bn for the fiscal year ended 2026-03-31.^[source:epson-company-outline-2026] FY2026 financial results show revenue JPY 1,413,251mn, business profit JPY 83,788mn, total assets JPY 1,534,870mn, equity attributable to owners of the parent JPY 853,503mn, and cash / cash equivalents at period-end JPY 288,582mn.^[source:epson-fy2026-results-2026] For FinWiki, Epson is not a regulated finance company; it is a **manufacturer anchor** that connects regional-bank lending, global supply-chain finance, treasury / liquidity, corporate bonds, FX and shareholder-return decisions.
 
-## 1. 会社構造
+## 1. Company / operating-segment boundary
 
-| 項目 | 内容 |
+| Item | Reading |
 |---|---|
-| 正式名 | Seiko Epson Corporation / セイコーエプソン株式会社 |
-| 創立 | 1942年5月18日 |
-| 本社 | 3-3-5 Owa, Suwa, Nagano |
-| CEO | Junkichi Yoshida |
-| 資本金 | 53,204 million yen |
-| 従業員 | 連結 75,352名、単体 12,792名（2025-03-31） |
-| 連結売上 | 1,362.9 billion yen（2025-03-31） |
-| グループ会社 | 89社（日本 21、海外 68） |
+| Legal name | Seiko Epson Corporation / セイコーエプソン株式会社。^[source:epson-company-outline-2026] |
+| Founded / head office | Founded 1942-05-18; head office 3-3-5 Owa, Suwa, Nagano.^[source:epson-company-outline-2026] |
+| CEO | President and Representative Director, CEO Junkichi Yoshida.^[source:epson-company-outline-2026] |
+| Scale | Revenue JPY 1,413.3bn; consolidated employees 74,619 as of FY2026 company outline.^[source:epson-company-outline-2026] |
+| Group footprint | 88 group companies including parent, Japan 19 and overseas 69, as of 2026-03-31.^[source:epson-company-outline-2026] |
 
-## 2. 事業ライン map
+Official company outline organizes Epson into four business lines. This page uses that official segmentation rather than treating Epson only as a printer company.
 
-| 事業ライン | 内容 | 地域金融との接点 |
-|---|---|---|
-| Office & Home Printing | インクジェットプリンタ、消耗品 | 収益基盤・構造転換 |
-| Visual & Lifestyle | プロジェクター、ウォッチ等 | ブランド・精密技術 |
-| Industrial & Robotics | 産業用ロボット、製造装置 | 設備投資・FA |
-| Precision Innovation | 精密部品、センシング等 | 長野県電子産業 |
-| ESG / 資源循環 | 省エネ、資源循環、脱炭素 | 地域脱炭素金融 |
+| Business line | Main products / finance angle |
+|---|---|
+| Precision Innovation | Inkjet solutions, microdevices, Epson Atmix, printheads, crystal devices, semiconductors and fine metal powders; links to capex / component cycles.^[source:epson-company-outline-2026] |
+| Industrial & Robotics | Commercial / industrial inkjet printers, POS printers, PaperLab, dot-matrix printers, Fiery, industrial robots; links to factory automation and vendor-finance demand.^[source:epson-company-outline-2026] |
+| Office & Home Printing | Office / home inkjet printers, compact label printers, consumables and scanners; recurring consumables economics and channel inventory are key finance readings.^[source:epson-company-outline-2026] |
+| Visual & Lifestyle | Projectors, watches, watch movements and PCs; links to consumer electronics, capex and working-capital cycles.^[source:epson-company-outline-2026] |
 
-公式会社概要は Epson の事業を Precision Innovation、Industrial & Robotics、Office & Home Printing、Visual & Lifestyle の 4 領域で整理している。
+## 2. Treasury / balance-sheet anchor
 
-## 3. 戦略と競合
+Epson belongs in manufacturer-finance because large manufacturers create repeated financial-system touchpoints even without a captive finance company:
 
-- **長野県電子産業 anchor**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[regional-banks/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
-- **プリンティング依存の転換**: Office / Home Printing は大きな収益源だが、ペーパーレス化・消耗品モデル変化に直面する。
-- **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
-- **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
+- **Liquidity**: FY2026 cash and cash equivalents at end of period were JPY 288,582mn.^[source:epson-fy2026-results-2026]
+- **Operating cash generation**: FY2026 net cash provided by operating activities was JPY 112,372mn.^[source:epson-fy2026-results-2026][source:epson-cashflow-2026]
+- **Investing cycle**: FY2026 investing cash flow was negative JPY 65,561mn, including purchases of property, plant and equipment and intangible assets; this is where equipment finance, capex timing and supplier financing matter.^[source:epson-cashflow-2026]
+- **Financing cycle**: FY2026 financing cash flow was negative JPY 39,604mn; the cash-flow table includes current borrowings, non-current borrowings, bond redemption, lease obligations and dividends.^[source:epson-cashflow-2026]
+- **Shareholder return**: Epson says it intends to reward shareholders by agilely purchasing treasury shares as warranted by share price and capital situation.^[source:epson-shareholder-returns-2026]
 
-## 4. 規制と政策
+## 3. Why it matters for finance pages
 
-- 上場会社として東証・金商法・会社法の開示対象。
-- 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
-- グローバル製造業として為替、通商、サプライチェーン、人権・調達規制にさらされる。
+| Use case | Why Epson is an anchor |
+|---|---|
+| Regional-bank exposure | A Nagano-headquartered global manufacturer is a natural reference point for [[regional-banks/hachijuni-bank|hachijuni-bank]] and regional industrial clusters. |
+| Supply-chain finance | Printer, semiconductor-device, robotics and projector supply chains produce receivables, inventory, FX and supplier-payment exposures. |
+| Manufacturer treasury | Cash, borrowings, bonds, lease obligations and shareholder returns create capital-market and banking touchpoints. |
+| Capex / leasing | Industrial robotics, commercial printing and production equipment connect to leasing and equipment-finance pages, even if Epson is not itself a lessor. |
+| FX / global footprint | Overseas group-company count and global revenue base make FX and trade-finance analysis relevant.^[source:epson-company-outline-2026] |
+
+## 4. Risk / policy map
+
+- **Disclosure / listing**: As a listed company, Epson reports under securities-disclosure and corporate-governance regimes, not insurance or banking supervision.
+- **Manufacturing cycle**: Revenue and business profit depend on printing, robotics, visual products and precision-device demand; this differs from regulated financial intermediation.
+- **Capital allocation**: Dividends, treasury shares, bond redemptions and borrowings make Epson useful when analyzing corporate treasury behavior in Japan.
+- **Environmental / industrial policy**: Energy efficiency, resource circulation and manufacturing-location decisions can influence regional lending and capex finance.
 
 ## Related
 
 - [[regional-banks/hachijuni-bank|hachijuni-bank]]
 - [[manufacturer-finance/toyota-motor|toyota-motor]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 
-- Epson「Company Outline」: https://corporate.epson/en/about/info.html
-- Epson「Annual Report」: https://corporate.epson/en/investors/publications/annual-report.html
-- Epson「Integrated Report」: https://corporate.epson/en/investors/publications/integrated-report.html
+- **Seiko Epson**: Company Outline https://corporate.epson/en/about/info.html
+- **Seiko Epson**: Financial Results for the Year ended March 31, 2026 [IFRS] (2026-05-01) https://corporate.epson/en/news/2026/260501.html
+- **Seiko Epson**: Consolidated Statements of Cash Flows https://corporate.epson/en/investors/finance/cash-flow.html
+- **Seiko Epson**: Shareholder Returns https://corporate.epson/en/investors/information/stock-dividends.html
 
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。公式会社概要・IRページで基本属性、2025-03-31 KPI、事業分類を確認。
+> confidence: **likely**（2026-06-24）。公式 Company Outline、FY2026 financial results、cash-flow page、shareholder-return policyで基本属性、事業ライン、treasury / balance-sheet anchor factsを確認。

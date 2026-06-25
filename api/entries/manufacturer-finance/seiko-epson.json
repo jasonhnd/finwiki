@@ -19,47 +19,52 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-16",
+    "last_updated": "2026-06-24",
+    "last_tended": "2026-06-24",
+    "review_by": "2026-12-24",
     "confidence": "likely",
     "tags": [
       "manufacturing",
       "electronics",
-      "nagano"
+      "nagano",
+      "treasury",
+      "supply-chain-finance"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://corporate.epson/en/about/info.html",
-      "https://corporate.epson/en/investors/publications/annual-report.html",
-      "https://corporate.epson/en/investors/publications/integrated-report.html"
+      "Seiko Epson: Company Outline, FY2026 profile / business lines (https://corporate.epson/en/about/info.html)",
+      "Seiko Epson: Financial Results for the Year ended March 31, 2026, 2026-05-01 (https://corporate.epson/en/news/2026/260501.html)",
+      "Seiko Epson: Consolidated Statements of Cash Flows, FY2026 (https://corporate.epson/en/investors/finance/cash-flow.html)",
+      "Seiko Epson: Shareholder Returns policy (https://corporate.epson/en/investors/information/stock-dividends.html)"
     ]
   },
-  "summary": "This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.",
+  "summary": "This entry sits under manufacturing index. Read it with hachijuni-bank for Nagano regional-bank / manufacturer context, Toyota Motor Corporation (トヨタ自動車) for adjacent manufacturer-finance anchors, and FinWiki index for the broader system boundary.",
   "headings": [
     "Seiko Epson Corporation (セイコーエプソン)",
     "Wiki route",
     "TL;DR",
-    "1. 会社構造",
-    "2. 事業ライン map",
-    "3. 戦略と競合",
-    "4. 規制と政策",
+    "1. Company / operating-segment boundary",
+    "2. Treasury / balance-sheet anchor",
+    "3. Why it matters for finance pages",
+    "4. Risk / policy map",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 4,
+    "wikilinks_count": 5,
     "wikilinks": [
       "INDEX",
+      "leasing-firms/INDEX",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/toyota-motor",
       "regional-banks/hachijuni-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
       "https://finwiki.zksc.io/regional-banks/hachijuni-bank"
@@ -68,8 +73,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2453,
-    "word_like_tokens": 349,
+    "nonspace_chars": 6610,
+    "word_like_tokens": 1007,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-21"
   }
