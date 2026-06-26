@@ -49,14 +49,14 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
     ]
   },
-  "summary": "This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori",
+  "summary": "このページは 決済事業者の索引 に属する、BNPL 専業の運営会社ページである。制度面は 日本の BNPL ランドスケープ と 日本の BNPL と信用購入の境界 を併せて読み、比較対象としては Paidy を置く。経済産業省登録の確認には 信用購入・カード事業者の登録索引 を使う。",
   "headings": [
     "ネットプロテクションズHD (Net Protections HD)",
-    "Wiki route",
-    "TL;DR",
+    "Wiki内の位置づけ",
+    "要点",
     "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "2. 事業上の役割",
+    "3. 単独ページにする理由",
     "4. 規制・政策",
     "Related",
     "Sources"
@@ -95,8 +95,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4251,
-    "word_like_tokens": 675,
+    "nonspace_chars": 3651,
+    "word_like_tokens": 528,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-24"
   }

@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-25T12:49:32+09:00
+Generated: 2026-06-26T12:28:16+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -1482,8 +1482,8 @@ Public pages listed: 1564
 - Domain: card-issuers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
-- Summary: This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: PayPayカード (PayPay Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは カード発行会社の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業・前払式支払手段との境界は 日本における資金移動と前払式支払手段の境界 を参照する。
+- Headings: PayPayカード (PayPay Card), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/rakuten-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/paypay, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix, https://finwiki.zksc.io/securities-firms/paypay-securities
 
 ### ポケットカード (Pocket Card)
@@ -1513,8 +1513,8 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/card-issuers/seven-card-service.md
 - Domain: card-issuers
 - Type: wiki_entry
-- Summary: This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: セブン・カードサービス (Seven Card Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは カード発行会社の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業・前払式支払手段との境界は 日本における資金移動と前払式支払手段の境界 を参照する。
+- Headings: セブン・カードサービス (Seven Card Service), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/aeon-financial-service, https://finwiki.zksc.io/card-issuers/ucs-card, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/regional-banks/seven-bank, https://finwiki.zksc.io/retail/seven-and-i-hd
 
 ### しずぎんカード (Shizugin Card / Shizuoka Bank Card)
@@ -1534,8 +1534,8 @@ Public pages listed: 1564
 - Domain: card-issuers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
-- Summary: This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: 三井住友カード (SMCC), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは カード発行会社の索引 に属する。比較対象としては 三菱UFJニコス (Mitsubishi UFJ NICOS) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。
+- Headings: 三井住友カード (SMCC), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/INDEX, https://finwiki.zksc.io/card-issuers/mufg-nicos, https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape
 
 ### トヨタファイナンス
@@ -9821,8 +9821,8 @@ Public pages listed: 1564
 - Entity edges:
   - subsidiary_of -> payment-firms/mercari-hd (source: https://jp.merpay.com/about/, as_of: 2026-06-22, confidence: likely)
   - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
-- Summary: This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
-- Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは 決済事業者の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業と前払式支払手段の境界は 日本における資金移動と前払式支払手段の境界 を参照する。
+- Headings: メルペイ (Merpay), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/mercari-hd, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
 
 ### 株式会社マネーフォワード (Money Forward)
@@ -9841,8 +9841,8 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/payment-firms/net-protections-hd.md
 - Domain: payment-firms
 - Type: wiki_entry
-- Summary: This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori
-- Headings: ネットプロテクションズHD (Net Protections HD), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 規制・政策, Related
+- Summary: このページは 決済事業者の索引 に属する、BNPL 専業の運営会社ページである。制度面は 日本の BNPL ランドスケープ と 日本の BNPL と信用購入の境界 を併せて読み、比較対象としては Paidy を置く。経済産業省登録の確認には 信用購入・カード事業者の登録索引 を使う。
+- Headings: ネットプロテクションズHD (Net Protections HD), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, 4. 規制・政策, Related
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/aplus, https://finwiki.zksc.io/card-issuers/credit-saison, https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/card-issuers/orico, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/bnpl-landscape, https://finwiki.zksc.io/payment-firms/merpay, https://finwiki.zksc.io/payment-firms/paidy, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### ネットスターズ
@@ -9906,8 +9906,8 @@ Public pages listed: 1564
 - Entity edges:
   - subsidiary_of -> megabanks/paypay-fg (source: https://about.paypay.ne.jp/about/, as_of: 2026-06-22, confidence: likely)
   - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf, as_of: 2026-06-22, confidence: likely)
-- Summary: This entry sits under payment-firms INDEX. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: PayPay株式会社, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは 決済事業者の索引 に属する。比較対象としては PayPal Pte. Ltd. Japan のサービス境界 を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。
+- Headings: PayPay株式会社, Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/paypay-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/securities-firms/paypay-securities
 
 ### pring
@@ -9979,8 +9979,8 @@ Public pages listed: 1564
 - Domain: payment-firms
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
-- Summary: This entry sits under payment-firms INDEX. Read it against GMOイプシロン (GMO Epsilon) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: SBペイメントサービス (SB Payment Service), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは 決済事業者の索引 に属する。比較対象としては GMOイプシロン (GMO Epsilon) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。
+- Headings: SBペイメントサービス (SB Payment Service), Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/card-issuers/paypay-card, https://finwiki.zksc.io/megabanks/paypay-fg, https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/dg-financial-technology, https://finwiki.zksc.io/payment-firms/gmo-epsilon, https://finwiki.zksc.io/payment-firms/gmo-payment-gateway, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape
 
 ### SBIレミット
@@ -10069,8 +10069,8 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/payment-firms/wise-payments-japan.md
 - Domain: payment-firms
 - Type: wiki_entry
-- Summary: This entry sits under payment-firms INDEX. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: Wise Payments Japan, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
+- Summary: このページは 決済事業者の索引 に属する。比較対象としては ウエスタンユニオンジャパン (Western Union Japan) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。
+- Headings: Wise Payments Japan, Wiki内の位置づけ, 要点, 1. 法人・ライセンス境界, 2. 事業上の役割, 3. 単独ページにする理由, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/payment-firms/INDEX, https://finwiki.zksc.io/payment-firms/merpay, https://finwiki.zksc.io/payment-firms/payoneer-japan, https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan, https://finwiki.zksc.io/payment-firms/paypay, https://finwiki.zksc.io/payment-firms/revolut-technologies-japan, https://finwiki.zksc.io/payment-firms/sbi-remit, https://finwiki.zksc.io/payment-firms/western-union-japan, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
 
 ### Zaim (ザイム)

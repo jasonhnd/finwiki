@@ -1,22 +1,22 @@
 ---
 source: card-issuers/smbc-card
-source_hash: 1f9c7a3f5a80ae5e
+source_hash: 948222bd97bf2017
 lang: zh
 status: machine
 fidelity: ok
 title: "SMBC Card（三井住友カード）"
-translated_at: 2026-06-24T07:24:12.874Z
+translated_at: 2026-06-26T03:26:36.038Z
 ---
 # SMBC Card（三井住友カード）
 
 
 ## Wiki 路由
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。请结合 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|payments index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[card-issuers/INDEX|カード発行会社の索引]] 之下。请结合 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|決済領域の索引]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 
-三井住友卡是 [[megabanks/smfg|SMFG]] 的卡、信贩和交易业务核心运营公司。它不只是发卡机构；由于它统合商户支付、交易服务以及 Olive / V Point 周边的无现金触点，因此作为 [[payments/card-acquiring-japan-stack|card acquiring stack]] 的代表页面单独成页。^[verified-2026-06-24]
+三井住友卡是 [[megabanks/smfg|SMFG]] 的卡、信贩和交易业务核心运营公司。它不只是发卡机构；由于它统合商户支付、交易服务以及 Olive / V Point 周边的无现金触点，因此作为 [[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]] 的代表页面单独成页。^[verified-2026-06-24]
 
 ## 1. 实体 / 牌照边界
 

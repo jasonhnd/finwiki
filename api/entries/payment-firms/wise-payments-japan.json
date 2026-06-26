@@ -40,14 +40,14 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under payment-firms INDEX. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "このページは 決済事業者の索引 に属する。比較対象としては ウエスタンユニオンジャパン (Western Union Japan) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
   "headings": [
     "Wise Payments Japan",
-    "Wiki route",
-    "TL;DR",
+    "Wiki内の位置づけ",
+    "要点",
     "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "2. 事業上の役割",
+    "3. 単独ページにする理由",
     "Related",
     "Sources"
   ],
@@ -81,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2948,
-    "word_like_tokens": 478,
+    "nonspace_chars": 2360,
+    "word_like_tokens": 334,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-24"
   }

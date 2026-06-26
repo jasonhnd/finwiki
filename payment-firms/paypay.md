@@ -34,34 +34,34 @@ sources:
 # PayPay株式会社
 
 
-## Wiki route
+## Wiki内の位置づけ
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+このページは [[payment-firms/INDEX|決済事業者の索引]] に属する。比較対象としては [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan のサービス境界]] を参照し、制度・規制上の広い位置づけは [[payments/INDEX|決済領域の索引]] と併せて読む。
 
-## TL;DR
+## 要点
 
-PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の consumer wallet / code-payment operator。公式会社概要はモバイルペイメント等の電子決済サービスを主業とし、前払式支払手段、クレジットカード番号等取扱契約締結事業者、資金移動業、電子決済等代行業、賃金デジタル払い指定資金移動業者などの登録を列挙している。^[verified-2026-06-24]
+PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の消費者向けウォレット・コード決済運営会社。公式会社概要はモバイルペイメント等の電子決済サービスを主業とし、前払式支払手段、クレジットカード番号等取扱契約締結事業者、資金移動業、電子決済等代行業、賃金デジタル払い指定資金移動業者などの登録を列挙している。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
-| Item | Reading |
+| 項目 | 読み方 |
 |---|---|
-| Legal entity | PayPay株式会社 |
-| Group | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY ecosystem |
-| Main lanes | Code payment, stored value, funds transfer, merchant acceptance, wage digital payment adjacency |
-| FSA registry route | FSA funds-transfer list: 関東財務局長 第00068号, PayPay株式会社. ^[verified-2026-06-24] |
-| Company-profile registrations | Official profile also lists third-party prepaid instrument issuer, card-number merchant-contracting operator, electronic payment agency, and designated wage digital-payment funds-transfer operator registrations. ^[verified-2026-06-24] |
+| 法人 | PayPay株式会社 |
+| グループ | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY エコシステム |
+| 主な領域 | コード決済、残高型決済、資金移動、加盟店受入、賃金デジタル払い周辺 |
+| 金融庁登録の確認経路 | 金融庁の資金移動業者一覧: 関東財務局長 第00068号, PayPay株式会社. ^[verified-2026-06-24] |
+| 会社概要上の登録 | 公式会社概要は、第三者型前払式支払手段発行者、クレジットカード番号等取扱契約締結事業者、電子決済等代行業者、賃金デジタル払い指定資金移動業者としての登録も記載している。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 事業上の役割
 
-- The consumer app is the main distribution point for PayPay's wallet, point, payment, and credit ecosystem; the operating-company page should therefore be read separately from the holding-company page at [[megabanks/paypay-fg]]. ^[verified-2026-06-24]
-- The wallet layer combines stored value, code-payment acceptance, funds-transfer rails, and merchant acceptance, while [[card-issuers/paypay-card]] carries the credit-card / PayPay Credit issuer boundary. ^[verified-2026-06-24]
-- The company links merchants, users, PayPay Card, PayPay Bank, and PayPay Securities into one payment-led financial group, but the regulated lane changes by product: prepaid balance, funds transfer, card credit, and securities are not the same licence surface. ^[verified-2026-06-24]
-- It is the anchor page for comparing Japan's large code-payment platforms.
+- 消費者向けアプリは、PayPay のウォレット、ポイント、決済、与信エコシステムの主要な接点である。そのため、運営会社としての PayPay株式会社は、持株会社側の [[megabanks/paypay-fg]] とは分けて読む必要がある。^[verified-2026-06-24]
+- ウォレット層は残高型決済、コード決済の加盟店受入、資金移動の導線、加盟店ネットワークを束ねる。一方、クレジットカードと PayPayクレジットの発行会社としての境界は [[card-issuers/paypay-card]] 側にある。^[verified-2026-06-24]
+- 同社は加盟店、利用者、PayPayカード、PayPay銀行、PayPay証券を決済起点の金融グループとして接続している。ただし、規制上の区分は商品ごとに異なり、前払式残高、資金移動、カード与信、証券は同じライセンス面ではない。^[verified-2026-06-24]
+- 日本の大規模コード決済プラットフォームを比較する際の基準ページである。
 
-## 3. Why this standalone page matters
+## 3. 単独ページにする理由
 
-[[megabanks/paypay-fg|PayPay FG]] is the holding / group boundary, while PayPay株式会社 is the wallet and code-payment operating company. Confusing the two hides the licensing, merchant, and consumer-protection layers.
+[[megabanks/paypay-fg|PayPay FG]] は持株会社・グループ境界であり、PayPay株式会社はウォレットとコード決済の運営会社である。両者を混同すると、ライセンス、加盟店管理、利用者保護の層が見えにくくなる。
 
 ## Related
 
@@ -73,5 +73,5 @@ PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の consu
 
 ## Sources
 
-- PayPay company profile: https://about.paypay.ne.jp/about/
-- FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- PayPay 会社概要: https://about.paypay.ne.jp/about/
+- 金融庁 資金移動業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf

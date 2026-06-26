@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 8 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,7 +41,14 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `megabanks/au-fh.md` | `M` | 11 | ok |
+| `card-issuers/paypay-card.md` | `M` | 9 | ok |
+| `card-issuers/seven-card-service.md` | `M` | 7 | ok |
+| `card-issuers/smbc-card.md` | `M` | 8 | ok |
+| `payment-firms/merpay.md` | `M` | 6 | ok |
+| `payment-firms/net-protections-hd.md` | `M` | 12 | ok |
+| `payment-firms/paypay.md` | `M` | 8 | ok |
+| `payment-firms/sb-payment-service.md` | `M` | 8 | ok |
+| `payment-firms/wise-payments-japan.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
@@ -72,7 +79,7 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `issue-97` | 1 | 0 | 46.0 |
+| `issue-107` | 1 | 0 | 46.0 |
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
