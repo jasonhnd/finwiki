@@ -24,11 +24,9 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 本項目は [[systems/INDEX|systems index]] の配下にある。security forensics の観点としては [[systems/cross-chain-bridge-security-insurance-matrix-2026|bridge security + insurance matrix]] と、汎用的な 9-axis 比較としては [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] と、アーキテクチャ分類としては [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] と、どの trust model を選ぶべきかについては [[systems/cross-chain-four-poles-selection-decision|selection decision tree]] と併せて読むこと。プロトコル個別の深掘りは [[systems/ibc-cosmos-cross-chain|IBC overview]] · [[systems/cctp-v2-overview|CCTP V2 overview]] · [[systems/cctp-v2-technical-spec|CCTP V2 technical spec]] · [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP institutional]] · [[systems/hyperlane-overview|Hyperlane overview]] · [[systems/hyperlane-ism-modular-security|Hyperlane ISM modular security]] · [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero / CCIP]] · [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]] · [[systems/polkadot-xcm-parachain-messaging|Polkadot XCM]] · [[systems/chain-abstraction-pattern-overview|chain abstraction pattern]] を参照。institutional な枠組みについては [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional default]] および [[systems/institutional-dlt-adoption-comparison-2026|institutional DLT adoption]] を参照。shared-security の代替案については [[systems/eigenlayer-overview|EigenLayer]] および [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape]] を参照。
 
-## このマトリクスが重要な理由
+## このマトリクスが重要な理由クロスチェーン interop は 2026 までに「汎用ブリッジ単一中核戦争」(2021-2023)から「trust model 多核 + ユースケース分化」へと進化した。機関顧客(SWIFT / DTCC / Mastercard / 中央銀行)は institutional pilot 経験のあるプロトコル(CCIP / CCTP V2 / XCM)を優先 · DeFi-native 資金は TVL + chains supported(LayerZero / Wormhole / Hyperlane)を優先 · Cosmos-native アプリは IBC · Polkadot 内部は XCM を使う。
 
-クロスチェーン interop は 2026 までに「汎用ブリッジ単一中核戦争」(2021-2023)から「trust model 多核 + ユースケース分化」へと進化した。機関顧客(SWIFT / DTCC / Mastercard / 中央銀行)は institutional pilot 経験のあるプロトコル(CCIP / CCTP V2 / XCM)を優先 · DeFi-native 資金は TVL + chains supported(LayerZero / Wormhole / Hyperlane)を優先 · Cosmos-native アプリは IBC · Polkadot 内部は XCM を使う。
-
-しかし選定意思決定は極めて分散化している — 各プロトコルの公式ドキュメントは自身の優位性を強調し · L2Beat / DefiLlama は TVL を提供するが institutional pilot 次元は提供せず · Rekt leaderboard は hack を提供するが trust model 横断対照は提供しない。**本マトリクスの価値は 8 プロトコル × 9 次元を 1 枚の表に横展開し · 「どのプロトコルが institutional cross-border settlement / DeFi yield routing / Cosmos appchain interop に適するか」を明確にすること**にある。
+しかし選定意思決定は極めて分散化している — 各プロトコルの公式ドキュメントは自身の優位性を強調し · L2Beat / DefiLlama は TVL を提供するが institutional pilot 次元は提供せず · Rekt leaderboard は hack を提供するが trust model 横断対照は提供しない。**本マトリクスの価値は 8 プロトコル × 9 次元を 1 枚の表に横展開し · 「どのプロトコルが institutional cross-border 決済 / DeFi yield routing / Cosmos appchain interop に適するか」を明確にすること**にある。
 
 注意:本マトリクス ≠ [[systems/cross-chain-bridge-security-insurance-matrix-2026|security + insurance matrix]]。後者は 14 プロトコル × security/insurance の深度;本マトリクスは 8 プロトコル × institutional/general 次元。両者は相補的。Synapse / Connext / Stargate / Across などの「二次ブリッジ / liquidity bridge」は本マトリクスに含まれない — それらの messaging 層は多くの場合 LayerZero / Wormhole / IBC の上に構築されており · 独立した trust-model peer ではないため。
 
@@ -40,7 +38,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **TVL**: ~$2-3B IBC 横断資産(defillama 2026-Q2)。Cosmos hub-and-spoke 構造 · ATOM / OSMO / TIA / INJ 等の主流 token がマルチチェーン分布。
 
-**Chains supported**: **~100 Cosmos appchain** + IBC-go bridges 経由で Ethereum / Solana に(IBC v2 + Polymer / Wormhole IBC adapter)· ただしクロスエコシステム IBC は依然初期段階。
+**Chains supported**: **~100 Cosmos appchain** + IBC-go bridges 経由で Ethereum / Solana に(IBC v2 + Polymer / Wormhole IBC adapter)· ただしクロス経済圏 IBC は依然初期段階。
 
 **Message-passing model**: **Channel-based** — チェーン A とチェーン B が channel + connection を確立 · relayer(信頼前提なし · packet を運搬するのみ)経由で packet を渡す · 受信側 light-client が検証。
 
@@ -52,7 +50,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Security incidents (2026-Q2)**: **None at IBC protocol layer** since launch(2021)。光クライアント実装のバグが数回(Tendermint バグ)パッチされたが · 資金損失なし。CCTP に次いで record が最もクリーンなブリッジ。
 
-**Institutional pilots**: 直接 institutional pilot は少ない · しかし Cosmos エコシステム内 dYdX v4 · Injective · Berachain 等の高 TVL appchain 間ルーティングは IBC に依存。Noble(USDC native issuer chain)は IBC + CCTP の双ブリッジに接続 · 機関ステーブルコインにサービス提供。
+**Institutional pilots**: 直接 institutional pilot は少ない · しかし Cosmos 経済圏内 dYdX v4 · Injective · Berachain 等の高 TVL appchain 間ルーティングは IBC に依存。Noble(USDC native 発行会社 chain)は IBC + CCTP の双ブリッジに接続 · 機関ステーブルコインにサービス提供。
 
 ### CCTP V2 (Circle USDC native burn-mint)
 
@@ -72,7 +70,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Security incidents (2026-Q2)**: **None** since CCTP V1 launch(2023-01)。2024 attestation service の一時的な 6 時間 outage 1 回(資金損失なし · attestation 再試行メカニズムが吸収)。
 
-**Institutional pilots**: **極めて活発** — Mastercard / Visa ステーブルコインパイロットが CCTP を基盤 settlement に使用 · Stripe 国際送金は CCTP を使用 · Coinbase Institutional cross-chain · 大量の fintech merchant USDC settlement が CCTP V2 で V1 を置換。
+**Institutional pilots**: **極めて活発** — Mastercard / Visa ステーブルコインパイロットが CCTP を基盤決済 に使用 · Stripe 国際送金は CCTP を使用 · Coinbase Institutional cross-chain · 大量の fintech 加盟店 USDC 決済 が CCTP V2 で V1 を置換。
 
 ### Chainlink CCIP
 
@@ -92,7 +90,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Security incidents (2026-Q2)**: **None** since CCIP mainnet launch(2023-07)。CCIP v1.5 で 1 回 risk window false positive(資金損失なし · 遅延のみ)。
 
-**Institutional pilots**: **最も豊富** — **SWIFT** クロスボーダー CCIP パイロット(2024-2025)· **DTCC** Smart NAV / Project Ion settlement パイロット · **J.P. Morgan Kinexys** + Chainlink アトミック settlement · Mastercard CBDC interop · ANZ / BNP Paribas / Lloyd's 銀行パイロット · 多数の G-SIB が CCIP を internal cross-chain ルーティングに使用。
+**Institutional pilots**: **最も豊富** — **SWIFT** クロスボーダー CCIP パイロット(2024-2025)· **DTCC** Smart NAV / Project Ion 決済パイロット · **J.P. Morgan Kinexys** + Chainlink アトミック決済 · Mastercard CBDC interop · ANZ / BNP Paribas / Lloyd's 銀行パイロット · 多数の G-SIB が CCIP を internal cross-chain ルーティングに使用。
 
 ### Wormhole
 
@@ -126,13 +124,13 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Validation latency**: ISM に依存。Multisig ISM ~30 秒-2 分 · ZK ISM ~5-10 分(proving time)· optimistic ISM ~ challenge window(7-30 分 default)。
 
-**Fee model**: Source chain gas + destination relay fee(sender が支払い)。ISM-specific cost はアプリが選択(EigenLayer restaking ISM は AVS operator に追加 fee あり)。
+**Fee model**: Source chain gas + destination relay fee(sender が支払い)。ISM-specific cost はアプリが選択(EigenLayer restaking ISM は AVS 事業者 に追加 fee あり)。
 
 **Native asset**: 2024 HYP token ガバナンス起動 · staking 強制なし · 主にガバナンス + grants に使用。
 
 **Security incidents (2026-Q2)**: **None at protocol level**(Eclipse mainnet launch 2024-07)。2024.11 long-tail アプリが ISM(1-of-3 multisig)の設定ミスで攻撃を受け ~$1.2M · Hyperlane の core 責任範囲外 — これは modular ISM モデルの固有 trade-off。
 
-**Institutional pilots**: institutional pilot は少ない — Hyperlane は主に modular rollup ecosystem(Celestia DA + EVM execution · Eclipse SVM-on-Ethereum 等)にサービス。institutional 顧客は CCIP / CCTP を好む。
+**Institutional pilots**: institutional pilot は少ない — Hyperlane は主に modular rollup 経済圏(Celestia DA + EVM execution · Eclipse SVM-on-Ethereum 等)にサービス。institutional 顧客は CCIP / CCTP を好む。
 
 ### LayerZero v2
 
@@ -156,7 +154,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 ### Axelar
 
-**Trust model**: **75-validator PoS ネットワーク**(CosmosSDK + Tendermint ベース)· クロスチェーン message は 2/3 validator quorum 署名。**General Message Passing (GMP)** + **Interchain Token Service (ITS)** の 2 大プリミティブ。Validator は公開 · Binance · Coinbase Custody · Imperator · DSRV 等の機関を含む。
+**Trust model**: **75-validator PoS ネットワーク**(CosmosSDK + Tendermint ベース)· クロスチェーン message は 2/3 validator quorum 署名。**General Message Passing (GMP)** + **Interchain Token Service (ITS)** の 2 大プリミティブ。Validator は公開 · Binance · Coinbase カストディ · Imperator · DSRV 等の機関を含む。
 
 **TVL**: ~$3.5B(defillama 2026-Q2)。Squid Router(swap aggregator)が Axelar 上で大量のリテールフローを貢献。
 
@@ -178,7 +176,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Trust model**: **Shared-security relay chain** — Polkadot relay chain が全 parachain state transition を検証 · parachain 間は XCM message で相互運用 · **第三者検証は不要** — セキュリティは relay chain validator(Nominated PoS · ~300 validator)が統一提供([[systems/polkadot-xcm-parachain-messaging|Polkadot XCM]] 参照)。
 
-**TVL**: ~$1B parachain 横断(2026-Q2)。Polkadot エコシステム TVL は Ethereum + L2 より小さいが · XCM 内部相互運用の成熟度は高い。
+**TVL**: ~$1B parachain 横断(2026-Q2)。Polkadot 経済圏 TVL は Ethereum + L2 より小さいが · XCM 内部相互運用の成熟度は高い。
 
 **Chains supported**: **~50 parachain**(Acala · Moonbeam · Astar · Bifrost · Hydration 等)+ XCM v3+ 起動後 bridge を経由して Kusama / Ethereum / Cosmos へ(初期段階)。
 
@@ -192,7 +190,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 **Security incidents (2026-Q2)**: **None** at XCM protocol layer(XCM v2 2022 デプロイから 2026-Q2 まで)。Acala 2022 aUSD depeg は parachain アプリ層バグ · XCM プロトコルとは無関係。
 
-**Institutional pilots**: institutional 接続多い — **英国中銀 RTGS パイロット** が Polkadot で wholesale CBDC 相互運用をテスト · **欧州中央保管所(Euroclear)** 等の RWA パイロット · **JAM(Join-Accumulate Machine)** 2024 announcement 後 institutional settlement narrative が強化。しかし institutional pilot 数は CCIP より少ない。
+**Institutional pilots**: institutional 接続多い — **英国中銀 RTGS パイロット** が Polkadot で wholesale CBDC 相互運用をテスト · **欧州中央保管所(Euroclear)** 等の RWA パイロット · **JAM(Join-Accumulate Machine)** 2024 announcement 後 institutional 決済 narrative が強化。しかし institutional pilot 数は CCIP より少ない。
 
 ## 大対照マトリクス表
 
@@ -200,14 +198,14 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 | プロトコル | Trust model | TVL (defillama) | Chains | Message model | Validation latency | Fee model | Native asset | Security incidents | Institutional pilots |
 |---|---|---|---|---|---|---|---|---|---|
-| **IBC (Cosmos)** | Light-client (chain ↔ chain 相互検証) | ~$2-3B | ~100 Cosmos appchain + クロスエコシステム v2 | Channel + Connection + relayer 運搬 | 6-30s | プロトコルで Free · fee middleware optional | n/a (hub / appchain token を借用) | None (2021+) | 直接は少ない · 内部 dYdX v4 / INJ / Noble |
+| **IBC (Cosmos)** | Light-client (chain ↔ chain 相互検証) | ~$2-3B | ~100 Cosmos appchain + クロス経済圏 v2 | Channel + Connection + relayer 運搬 | 6-30s | プロトコルで Free · fee middleware optional | n/a (hub / appchain token を借用) | None (2021+) | 直接は少ない · 内部 dYdX v4 / INJ / Noble |
 | **CCTP V2 (Circle)** | Native burn-mint · Circle attester | n/a (ロックなし) · ~$50B/mo throughput | 18+ chains | Burn → attest → mint + Hooks callback | Fast Transfer 8-20s · V1 was 10-20min | V2 小額 fast-transfer fee + Hooks gas | n/a (USDC のみ) | None (2023+) · 2024 6h outage 0 loss | Mastercard · Visa · Stripe · Coinbase Inst. |
 | **Chainlink CCIP** | Oracle DON (16-of-31) + RMN independent veto | ~$1B + msg-only volume | 30+ chains (質 > 数) | Lane-based · GMP + Programmable Token Transfer | 10-30min | LINK or native · DON + RMN + dest gas | LINK (~$2B staked) | None (2023+) · v1.5 false positive no loss | SWIFT · DTCC · J.P. Morgan Kinexys · Mastercard CBDC |
 | **Wormhole** | 19-of-19 Guardian + 2024 ZK Verifier · NTT/CCTP integ | ~$1.5B | 35+ chains | GMP (VAA Verifiable Action Approval) | 5-15min (Solana ↔ ETH remains slower) | Destination gas relay · Guardian free at msg | W token (2024) · slashing terms not publicly specified in the referenced public materials | **2022 $325M Solana (Jump backstop)** · 2024 ZK remediation | Medium — Securitize · Backed Finance RWA |
 | **Hyperlane** | Permissionless ISM (multisig/EL/ZK/opt) | ~$2B | 70+ chains · permissionless deploy | Mailbox + ISM verify + Mailbox deliver | 30s-2min (multisig) · 5-10min (ZK) | Source gas + dest relay + ISM-specific | HYP (2024 · ガバナンス) | None protocol · 2024 long-tail misconf $1.2M | 少 · 主に modular rollup eco |
 | **LayerZero v2** | DVN M-of-N (LZ Labs/Google/Polyhedra default) | ~$8B | 70+ chains | Endpoint + DVN + Executor · ULN dest verify | 2-5min default · 30s single DVN | Native fee · DVN + Executor 独立 | ZRO (2024 · ガバナンス) | None protocol (2022+) · 2024 DVN bug 0 loss | 中 · Google DVN は enterprise anchor |
 | **Axelar** | 75-validator PoS (Tendermint) · 2/3 quorum · GMP+ITS | ~$3.5B | 60+ chains | GMP via Axelar hub · ITS canonical token | 30s-2min | AXL or dest native · validator + dest gas | AXL (~$300M staked) | None (2022+) · 2024 ITS bug $200K bounty | 中 · Centrifuge · Azure · Cosmos institutional |
-| **Polkadot XCM** | Shared-security relay (~300 NPoS validators) | ~$1B intra-eco | ~50 parachain + early cross-eco | UMP / DMP / HRMP via relay chain | ~12s HRMP · XCMP future 6s | Parachain-defined (DOT or token) · Asset Hub canonical | DOT (relay staking) · USDT/USDC native | None XCM protocol (2022+) · Acala app-level not XCM | UK RTGS pilot · Euroclear · JAM settlement narrative |
+| **Polkadot XCM** | Shared-security relay (~300 NPoS validators) | ~$1B intra-eco | ~50 parachain + early cross-eco | UMP / DMP / HRMP via relay chain | ~12s HRMP · XCMP future 6s | Parachain-defined (DOT or token) · Asset Hub canonical | DOT (relay staking) · USDT/USDC native | None XCM protocol (2022+) · Acala app-level not XCM | UK RTGS pilot · Euroclear · JAM 決済 narrative |
 
 **マトリクスの読み方**:
 - 横方向で 1 プロトコルの 9 次元 institutional プロファイル · 縦方向で 8 プロトコルの同一次元差を見る
@@ -219,15 +217,15 @@ translated_at: 2026-06-15T04:09:41.200Z
 ## 境界ケース / 将来の軌道
 
 **Shared-security パラダイム vs Validator-set パラダイム**:
-- IBC + XCM は shared-security の代表 — trust assumption は source chain consensus と等価 · "no extra trust" · ただし chain coverage は同一エコシステム内に制限
+- IBC + XCM は shared-security の代表 — trust assumption は source chain consensus と等価 · "no extra trust" · ただし chain coverage は同一経済圏内に制限
 - CCIP / LayerZero / Wormhole / Axelar / Hyperlane は validator-set / oracle network の代表 — chain coverage 柔軟 · ただし追加の trust assumption(validator collusion リスク)
 - **EigenLayer / Symbiotic restaking** が新パラダイムを導入:Ethereum コンセンサスの stake を validator network に「貸す」([[systems/eigenlayer-overview|EigenLayer overview]] / [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape]] 参照)· Hyperlane EigenLayer ISM は初期 production 例
 - 2027-2028: ZK light client(Hyperlane ZK ISM · LayerZero Polyhedra DVN · Wormhole ZK Verifier)により validator-set ブリッジも shared-security の trust-minimization を享受可能 · パラダイムが融合する可能性
 
 **Native USDC issuance(Polkadot Asset Hub · Noble · Arc)が CCTP に与える影響**:
-- Asset Hub / Noble / Arc は Tether / Circle が直接 native USDT/USDC を発行 · クロスチェーン需要を削減(同一エコシステム内で free transfer)
-- ただしクロスエコシステム(Polkadot ↔ Ethereum)は依然 CCTP / 汎用ブリッジが必要
-- 長期:**USDC native issuance チェーンが増えるほど · CCTP V2 は「エコシステム間ブリッジ」として位置付け** · 「ETH ↔ Solana 主流ブリッジ」ではなく
+- Asset Hub / Noble / Arc は Tether / Circle が直接 native USDT/USDC を発行 · クロスチェーン需要を削減(同一経済圏内で free transfer)
+- ただしクロス経済圏(Polkadot ↔ Ethereum)は依然 CCTP / 汎用ブリッジが必要
+- 長期:**USDC native issuance チェーンが増えるほど · CCTP V2 は「経済圏間ブリッジ」として位置付け** · 「ETH ↔ Solana 主流ブリッジ」ではなく
 
 **SWIFT / DTCC / 中銀 pilot の影響**:
 - CCIP と SWIFT (2024-2025) · DTCC (2025) パイロットは institutional credibility のアンカー
@@ -242,12 +240,12 @@ translated_at: 2026-06-15T04:09:41.200Z
 - Wormhole 市場シェア(2022 ~$1B → 2026 ~$1.5B)の回復は遅い · 「hack history」が institutional 選定時の長期負担であることを示す
 
 **Hyperlane ISM モデルの拡散影響**:
-- 「Permissionless deploy + 自選 ISM」により Hyperlane は modular rollup ecosystem(Celestia / Eclipse / Berachain)で default messaging の地位を占める
+- 「Permissionless deploy + 自選 ISM」により Hyperlane は modular rollup 経済圏(Celestia / Eclipse / Berachain)で default messaging の地位を占める
 - ただし ISM misconfigure リスクにより Hyperlane は institutional ユースケースで dominate しにくい — institutional は「唯一の監査可能 trust model」を好む
 - **trade-off**: Hyperlane は flexibility で市場シェアを取り · CCIP は institutional grade で audit-ability を取る · universal winner は存在しない
 
 **XCM 2.0 / JAM と Polkadot 復興**:
-- JAM(Join-Accumulate Machine)は Polkadot 2.0 の settlement layer 再設計 · 「relay chain が全てを検証」を「polkadot が generic execution を提供」へアップグレード — 任意のチェーンが shared security に接続可能 · parachain slot 競売に限定されない
+- JAM(Join-Accumulate Machine)は Polkadot 2.0 の 決済 layer 再設計 · 「relay chain が全てを検証」を「polkadot が generic execution を提供」へアップグレード — 任意のチェーンが shared security に接続可能 · parachain slot 競売に限定されない
 - もし JAM が 2026-2027 メインネットローンチすれば · Polkadot XCM は「Polkadot 内部相互運用」から「汎用 shared-security interop」へ拡張可能 · Cosmos IBC と直接競争
 - institutional pilot(英国中銀)が JAM の G-SIB compliant 設計優先を推進する可能性
 
@@ -256,16 +254,16 @@ translated_at: 2026-06-15T04:09:41.200Z
 - ただしアプリケーション層ブリッジ([[systems/cross-chain-bridge-security-insurance-matrix-2026|security matrix]] に詳述)は整理段階 — Synapse / Connext は sunset に近い · Across + Squid + Stargate が主導
 - 長期可能性:**汎用ブリッジ + 極少数のアプリケーション層 liquidity layer** · アプリケーション層ブリッジの TVL がさらに集中
 
-**Solana エコシステムのブリッジ特殊需要**:
+**Solana 経済圏のブリッジ特殊需要**:
 - Solana は high-throughput + 独立 SVM のため · cross-chain ブリッジ需要が非常に高い(non-EVM ↔ EVM)
 - Wormhole は Solana ネイティブサポート · CCTP V2 / LayerZero / Hyperlane も全てサポート
 - Jupiter / Raydium 等の Solana DEX([[exchanges/solana-ecosystem-dex-comparison|Solana DEX comparison]] 参照)が cross-chain liquidity routing の需要を駆動し Wormhole / CCTP V2 Solana volume を促進
-- 2026-2027 Solana エコシステムブリッジ競争は Wormhole vs CCTP V2 vs LayerZero の 3 社(IBC / XCM は当面 Solana をネイティブカバーしない)
+- 2026-2027 Solana 経済圏ブリッジ競争は Wormhole vs CCTP V2 vs LayerZero の 3 社(IBC / XCM は当面 Solana をネイティブカバーしない)
 
 **Bitcoin scaling のブリッジ需要**:
 - 2025-2026 Bitcoin scaling 復興([[systems/bitcoin-scaling-2026-stacks-lightning-bitvm|Bitcoin scaling 2026]])により BTC クロスチェーン需要が成長 — Wormhole Solana ↔ BTC adapter · CCIP が BTC L2 接続計画 · Hyperlane が初期 BTC L2 探索
 - BitVM / Stacks / Lightning 各々の messaging モデルは未だ汎用ブリッジと融合しておらず · これは 2027-2028 の frontier
-- institutional BTC custody(Coinbase Custody · Fireblocks · BitGo)が CCIP に接続すれば · BTC-as-collateral institutional cross-chain DeFi が開く可能性
+- institutional BTC カストディ(Coinbase カストディ · Fireblocks · BitGo)が CCIP に接続すれば · BTC-as-collateral institutional cross-chain DeFi が開く可能性
 
 **Post-quantum migration スケジュール**:
 - 8 プロトコルの ECDSA / Ed25519 / BLS は全て post-quantum vulnerable
@@ -298,7 +296,7 @@ translated_at: 2026-06-15T04:09:41.200Z
 - [[systems/bitcoin-scaling-2026-stacks-lightning-bitvm|Bitcoin scaling 2026]]
 - [[systems/institutional-dlt-adoption-comparison-2026|institutional DLT adoption]]
 - [[systems/post-quantum-blockchain-day1-integration|post-quantum blockchain day 1 integration]]
-- [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
+- [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX comparison]]
 <!-- /wiki-links:managed -->
 
 ## 出典

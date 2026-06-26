@@ -11,9 +11,9 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## 概要
 
-このページは、日本のカード加盟店手数料とインターチェンジ関連開示の公開構造を記録する。対象範囲は、カード加盟店手数料の構成、イシュア手数料 / インターチェンジ開示、アクワイアラ経済性、関連する公開政策資料である。より広い加盟店 PSP 価格、決済準備金、チャージバック配分、ゲートウェイ価格は [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] と [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] に振り分ける。
+このページは、日本のカード加盟店手数料とインターチェンジ関連開示の公開構造を記録する。対象範囲は、カード加盟店手数料の構成、イシュア手数料 / インターチェンジ開示、アクワイアラ経済性、関連する公開政策資料である。より広い加盟店 PSP 価格、決済準備金、チャージバック配分、ゲートウェイ価格は [[payments/psp-merchant-settlement-risk|PSP 加盟店決済 risk]] と [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] に振り分ける。
 
-このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
+このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|発行会社 / アクワイアラ / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct acquiring]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
 
 ## 手数料構成マップ
 
@@ -63,9 +63,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 | チャージバック手続 | 公開されている範囲のアクワイアラ / PSP 規約およびブランド規則。 |
 | 返金 / 取消対応 | 加盟店規約および PSP ドキュメント。 |
 
-## カードセキュリティとの接続
-
-加盟店手数料とカードセキュリティは別フィールドだが、運用上はつながっている。EMV 3-D Secure、PCI DSS、トークナイゼーション、非保持、EC 加盟店の脆弱性管理、不正監視、チャージバック証跡は [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] に振り分ける。
+## カードセキュリティとの接続加盟店手数料とカードセキュリティは別フィールドだが、運用上はつながっている。EMV 3-D Secure、PCI DSS、トークナイゼーション、非保持、EC 加盟店の脆弱性管理、不正監視、チャージバック証跡は [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] に振り分ける。
 
 カードセキュリティ経路では、日本クレジット協会ガイドライン、PCI DSS、EMVCo 資料を使う。公開されている加盟店契約ページから、PSP、アクワイアラ、加盟店のどこが具体的な実装義務を負うかを特定できる場合がある。
 

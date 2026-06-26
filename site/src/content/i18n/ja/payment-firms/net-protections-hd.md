@@ -14,9 +14,7 @@ translated_at: 2026-06-26T03:26:36.039Z
 
 このページは [[payment-firms/INDEX|決済事業者の索引]] に属する、BNPL 専業の運営会社ページである。制度面は [[payment-firms/bnpl-landscape|日本の BNPL ランドスケープ]] と [[payments/japan-bnpl-credit-purchase-boundary|日本の BNPL と信用購入の境界]] を併せて読み、比較対象としては [[payment-firms/paidy|Paidy]] を置く。経済産業省登録の確認には [[payments/credit-purchase-card-operators-japan-index|信用購入・カード事業者の登録索引]] を使う。
 
-## 要点
-
-ネットプロテクションズホールディングス (東証プライム **7383**) は、日本で早くから BNPL 専業として展開してきた上場会社であり、EC 加盟店が「コンビニ・銀行振込で後払い」を選択肢として付けられる請求書型 BtoC 商品 **NP 後払い** で知られる。グループは **atone** (消費者側のウォレット型 BNPL)、**AFTEE** (台湾向け商品サイトを持つ海外 BNPL)、**NP 掛け払い** (BtoB 請求書払い) も運営する。[[payment-firms/paidy|Paidy]] と異なり決済プラットフォーム傘下ではない独立系であり、[[card-issuers/jaccs|Jaccs]] や [[card-issuers/orico|Orico]] と異なりクレジットカードのスタックには意図的に入らない。加盟店手数料型 BNPL の経済性がカードのインターチェンジとどう異なるかは、[[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] で確認しやすい。^[verified-2026-06-24]
+## 要点ネットプロテクションズホールディングス (東証プライム **7383**) は、日本で早くから BNPL 専業として展開してきた上場会社であり、EC 加盟店が「コンビニ・銀行振込で後払い」を選択肢として付けられる請求書型 BtoC 商品 **NP 後払い** で知られる。グループは **atone** (消費者側のウォレット型 BNPL)、**AFTEE** (台湾向け商品サイトを持つ海外 BNPL)、**NP 掛け払い** (BtoB 請求書払い) も運営する。[[payment-firms/paidy|Paidy]] と異なり決済プラットフォーム傘下ではない独立系であり、[[card-issuers/jaccs|Jaccs]] や [[card-issuers/orico|Orico]] と異なりクレジットカードのスタックには意図的に入らない。加盟店手数料型 BNPL の経済性がカードのインターチェンジとどう異なるかは、[[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] で確認しやすい。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 

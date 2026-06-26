@@ -9,7 +9,7 @@ translated_at: 2026-06-24T00:00:00.000Z
 ---
 # 台湾中小企業銀行日本 (Taiwan Business Bank Japan)
 
-## Wiki route
+## ウィキ上の位置づけ
 
 Taiwan Business Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/industrial-bank-of-korea-japan|Industrial Bank of Korea Japan]] for SME-bank comparison, [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]] for Taiwan peer context, and [[banking/INDEX|banking index]] for the broader system boundary.
 
@@ -23,7 +23,7 @@ The page is worth standalone treatment because Taiwan Business Bank describes it
 
 ## Entity Boundary
 
-| Item | Reading |
+| Item | 読み方 |
 |---|---|
 | Parent bank | Taiwan Business Bank。^[source:tbb-history-2026] |
 | Japan branch | Tokyo Branch |
