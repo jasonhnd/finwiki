@@ -19,34 +19,34 @@ sources:
 # セブン・カードサービス (Seven Card Service)
 
 
-## Wiki route
+## Wiki内の位置づけ
 
-This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[payments/INDEX|payments index]] for adjacent context and [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] for the broader system boundary.
+このページは [[card-issuers/INDEX|カード発行会社の索引]] に属する。周辺の制度文脈は [[payments/INDEX|決済領域の索引]] と併せて読み、資金移動業・前払式支払手段との境界は [[payments/funds-transfer-vs-prepaid-boundary|日本における資金移動と前払式支払手段の境界]] を参照する。
 
-## TL;DR
+## 要点
 
-セブン・カードサービスは [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周辺の card and retail-payment operator。店舗、nanaco / point, card, bank ATM, retail app を分けて読むための法人境界ページ。^[verified-2026-06-24]
+セブン・カードサービスは [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周辺のカード・小売決済運営会社。店舗、nanaco / ポイント、カード、銀行 ATM、小売アプリを分けて読むための法人境界ページである。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
-| Item | Reading |
+| 項目 | 読み方 |
 |---|---|
-| Legal entity | 株式会社セブン・カードサービス |
-| Group context | Seven & i / Seven Bank retail payment ecosystem |
-| Main lanes | Credit card, nanaco electronic money, retail payment services |
-| Regulatory route | Installment Sales Act / card-credit control, METI credit-transaction materials, and official company profile. ^[verified-2026-06-24] |
-| Retail-payment boundary | Official company materials describe both credit-card services and e-money nanaco issuance / operation. ^[verified-2026-06-24] |
+| 法人 | 株式会社セブン・カードサービス |
+| グループ文脈 | Seven & i / Seven Bank の小売決済エコシステム |
+| 主な領域 | クレジットカード、nanaco 電子マネー、小売決済サービス |
+| 規制上の確認経路 | 割賦販売法・カード与信管理、経済産業省の信用取引資料、公式会社概要を確認する。^[verified-2026-06-24] |
+| 小売決済の境界 | 公式会社資料は、クレジットカードサービスと電子マネー nanaco の発行・運営の双方を説明している。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 事業上の役割
 
-- Connects card usage to convenience-store and retail customer relationships. The company message says Seven Card Service started credit-card operations in 2002 and began issuing / operating nanaco electronic money in 2007. ^[verified-2026-06-24]
-- Complements Seven Bank's ATM and account infrastructure with card / payment services; the company notes that Seven Bank became the parent in 2023 and frames the strategy as integrating payments and finance. ^[verified-2026-06-24]
-- The business page splits the surface into Seven Card Plus / other credit cards and nanaco products, so this page should be used for the card / e-money operator layer rather than the bank or retail holding-company layer. ^[verified-2026-06-24]
-- A useful case for reading retail payment strategy separately from banking strategy.
+- カード利用を、コンビニエンスストアや小売の顧客接点につなげる。会社メッセージは、セブン・カードサービスが 2002 年にクレジットカード事業を開始し、2007 年に電子マネー nanaco の発行・運営を始めたと説明している。^[verified-2026-06-24]
+- Seven Bank の ATM・口座基盤を、カード・決済サービスで補完する。同社は 2023 年に Seven Bank が親会社になったと記載し、決済と金融を一体化する戦略として位置づけている。^[verified-2026-06-24]
+- 事業ページは、セブンカード・プラス / その他クレジットカードと nanaco 商品を分けて示している。そのため、このページは銀行や小売持株会社ではなく、カード・電子マネー運営会社の層として使うべきである。^[verified-2026-06-24]
+- 銀行戦略とは別に、小売決済戦略を読むための有用な事例である。
 
-## 3. Why this standalone page matters
+## 3. 単独ページにする理由
 
-Seven Bank is not the whole Seven payment stack. This page keeps the card-service layer visible for comparisons with retail-affinity peers such as [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] and [[card-issuers/ucs-card|UCSカード]], plus FamilyMart.
+Seven Bank だけで Seven の決済スタック全体を説明することはできない。このページは、[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]]、[[card-issuers/ucs-card|UCSカード]]、FamilyMart など、小売親和性の高い比較対象と並べるために、カードサービス層を見える形に保つ。
 
 ## Related
 
@@ -57,7 +57,7 @@ Seven Bank is not the whole Seven payment stack. This page keeps the card-servic
 
 ## Sources
 
-- Seven Card Service company information: https://www.7card.co.jp/company/com_info/
-- Seven Card Service business overview: https://www.7card.co.jp/company/bs/
-- METI credit transaction policy page: https://www.meti.go.jp/policy/economy/consumer/credit/
-- METI registered merchant-contracting operators PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
+- セブン・カードサービス 会社情報: https://www.7card.co.jp/company/com_info/
+- セブン・カードサービス 事業概要: https://www.7card.co.jp/company/bs/
+- 経済産業省 信用取引政策ページ: https://www.meti.go.jp/policy/economy/consumer/credit/
+- 経済産業省 登録クレジットカード番号等取扱契約締結事業者一覧 PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

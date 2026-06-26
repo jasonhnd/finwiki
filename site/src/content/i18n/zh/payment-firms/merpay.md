@@ -1,18 +1,18 @@
 ---
 source: payment-firms/merpay
-source_hash: b4839f07bf90a226
+source_hash: 40165e53fa7543b4
 lang: zh
 status: machine
 fidelity: ok
 title: "Merpay（メルペイ）"
-translated_at: 2026-06-24T07:24:12.875Z
+translated_at: 2026-06-26T03:26:36.038Z
 ---
 # Merpay（メルペイ）
 
 
 ## Wiki 路由
 
-本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。请结合 [[payments/INDEX|payments index]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 阅读以理解更广泛的体系边界。
+本条目位于 [[payment-firms/INDEX|決済事業者の索引]] 之下。请结合 [[payments/INDEX|決済領域の索引]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|日本における資金移動と前払式支払手段の境界]] 阅读以理解更广泛的体系边界。
 
 ## TL;DR
 

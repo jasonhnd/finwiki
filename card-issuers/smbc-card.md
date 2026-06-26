@@ -28,34 +28,34 @@ sources:
 # 三井住友カード (SMCC)
 
 
-## Wiki route
+## Wiki内の位置づけ
 
-This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+このページは [[card-issuers/INDEX|カード発行会社の索引]] に属する。比較対象としては [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] を参照し、制度・規制上の広い位置づけは [[payments/INDEX|決済領域の索引]] と併せて読む。
 
-## TL;DR
+## 要点
 
-三井住友カードは [[megabanks/smfg|SMFG]] のカード・信販・トランザクション事業の中核 operator。カード issuer だけでなく、加盟店向け決済、トランザクション、Olive / Vポイント周辺のキャッシュレス接点を束ねるため、[[payments/card-acquiring-japan-stack|card acquiring stack]] の代表ページとして独立させる。^[verified-2026-06-24]
+三井住友カードは [[megabanks/smfg|SMFG]] のカード・信販・トランザクション事業の中核運営会社。カード発行会社にとどまらず、加盟店向け決済、トランザクション、Olive / Vポイント周辺のキャッシュレス接点を束ねるため、[[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]] を読む代表ページとして独立させる。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
-| Item | Reading |
+| 項目 | 読み方 |
 |---|---|
-| Legal entity | 三井住友カード株式会社 |
-| Group | [[megabanks/smfg|SMFG]] |
-| Main lanes | Credit card, installment / credit sales, merchant acquiring, transaction services |
-| Regulatory route | Installment Sales Act / METI credit-transaction materials; lending and card-number handling disclosures should be checked against official pages. ^[verified-2026-06-24] |
-| Company profile scope | Official outline lists credit card, debit / prepaid / other payment, loan, guarantee, credit sales, transaction, and related businesses. ^[verified-2026-06-24] |
+| 法人 | 三井住友カード株式会社 |
+| グループ | [[megabanks/smfg|SMFG]] |
+| 主な領域 | クレジットカード、割賦・信用販売、加盟店契約・アクワイアリング、トランザクションサービス |
+| 規制上の確認経路 | 割賦販売法と経済産業省の信用取引関連資料を参照する。貸金業とカード番号取扱いの開示は公式ページで確認する。^[verified-2026-06-24] |
+| 会社概要上の範囲 | 公式概要は、クレジットカード、デビットカード・プリペイドカード・その他決済、ローン、保証、信用販売、トランザクション、関連事業を列挙している。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 事業上の役割
 
-- Credit-card issuing and merchant services sit at the center of SMFG's retail cashless strategy; the official company page describes credit-card, credit-sales, and transaction businesses rather than only card issuing. ^[verified-2026-06-24]
-- The company connects bank account, card, point, app, and merchant acceptance rails. The official outline lists [[consumer-finance/smbc-consumer-finance]], SMBC GMO PAYMENT, and V Point Marketing among affiliated / subsidiary companies, which makes SMCC a hub across issuer, consumer-credit, merchant-payment, and loyalty layers. ^[verified-2026-06-24]
-- This page should be read as an issuer-acquirer / transaction platform boundary inside [[megabanks/smfg|SMFG]], not as a generic credit-card brand page. ^[verified-2026-06-24]
-- It is also a useful boundary page for distinguishing SMFG's bank balance-sheet business from payment-network and credit-sales businesses.
+- クレジットカード発行と加盟店向けサービスは、SMFG のリテールキャッシュレス戦略の中心にある。公式会社ページは、単なるカード発行ではなく、クレジットカード、信用販売、トランザクション事業を説明している。^[verified-2026-06-24]
+- 同社は銀行口座、カード、ポイント、アプリ、加盟店受入の導線を接続する。公式概要は、関係会社・子会社として [[consumer-finance/smbc-consumer-finance]]、SMBC GMO PAYMENT、V Point Marketing を列挙しており、SMCC が発行会社、消費者信用、加盟店決済、ロイヤルティの各層をまたぐハブであることが分かる。^[verified-2026-06-24]
+- このページは、一般的なクレジットカードブランドのページではなく、[[megabanks/smfg|SMFG]] 内の発行会社・アクワイアラ・トランザクション基盤の境界として読むべきである。^[verified-2026-06-24]
+- SMFG の銀行バランスシート事業と、決済ネットワーク・信用販売事業を区別するための境界ページとしても有用である。
 
-## 3. Why this standalone page matters
+## 3. 単独ページにする理由
 
-Parent FG pages hide the operating-company boundary. SMBC Card is the entity that analysts need when comparing issuer economics, merchant-acquiring risk, card-number contract management, and consumer-credit regulation.
+親金融グループのページだけでは、運営会社としての境界が見えにくい。発行会社の経済性、加盟店契約・アクワイアリングのリスク、カード番号契約管理、消費者信用規制を比較する際、三井住友カードは個別に見るべき法人である。
 
 ## Related
 
@@ -67,7 +67,7 @@ Parent FG pages hide the operating-company boundary. SMBC Card is the entity tha
 
 ## Sources
 
-- SMBC Card company outline: https://www.smbc-card.com/company/info/outline.jsp
-- SMBC Card company information: https://www.smbc-card.com/company/index.jsp
-- METI credit transaction policy page: https://www.meti.go.jp/policy/economy/consumer/credit/
-- METI registered merchant-contracting operators PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
+- 三井住友カード 会社概要: https://www.smbc-card.com/company/info/outline.jsp
+- 三井住友カード 会社情報: https://www.smbc-card.com/company/index.jsp
+- 経済産業省 信用取引政策ページ: https://www.meti.go.jp/policy/economy/consumer/credit/
+- 経済産業省 登録クレジットカード番号等取扱契約締結事業者一覧 PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

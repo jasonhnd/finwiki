@@ -1,21 +1,21 @@
 ---
 source: payment-firms/net-protections-hd
-source_hash: 21d85cd2e0b94dde
+source_hash: 58268699de39ffa8
 lang: en
 status: machine
 fidelity: ok
 title: "Net Protections HD"
-translated_at: 2026-06-24T07:24:12.876Z
+translated_at: 2026-06-26T03:26:36.040Z
 ---
 # Net Protections HD
 
 ## Wiki route
 
-This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a pure-play **BNPL operator**. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note and the [[payment-firms/paidy|Paidy]] peer for contrast, with the [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] page setting the regulatory lens and the [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] anchoring the METI registration trail.
+This entry sits under the [[payment-firms/INDEX|決済事業者の索引]] as a pure-play **BNPL operator**. Read it against the [[payment-firms/bnpl-landscape|日本の BNPL ランドスケープ]] system note and the [[payments/japan-bnpl-credit-purchase-boundary|日本の BNPL と信用購入の境界]] peer for contrast, with the [[payment-firms/paidy|Paidy]] page setting the regulatory lens and the [[payments/credit-purchase-card-operators-japan-index|信用購入・カード事業者の登録索引]] anchoring the METI registration trail.
 
 ## TL;DR
 
-Net Protections Holdings (TSE PRIME **7383**) is Japan's earliest-mover BNPL pure-play, best known for the **NP 後払い** invoice-based BtoC product that EC merchants attach as a "pay later by konbini / bank transfer" option. The group also runs **atone** (consumer-side wallet BNPL), **AFTEE** (overseas BNPL with a Taiwan product site), and **NP 掛け払い** (BtoB invoicing). Unlike [[payment-firms/paidy|Paidy]], it is independent rather than payments-platform-owned, and unlike [[card-issuers/jaccs|Jaccs]] or [[card-issuers/orico|Orico]] it deliberately stays out of the credit-card stack — the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] is the cleanest place to see why merchant-fee BNPL economics diverge from card interchange. ^[verified-2026-06-24]
+Net Protections Holdings (TSE PRIME **7383**) is Japan's earliest-mover BNPL pure-play, best known for the **NP 後払い** invoice-based BtoC product that EC merchants attach as a "pay later by konbini / bank transfer" option. The group also runs **atone** (consumer-side wallet BNPL), **AFTEE** (overseas BNPL with a Taiwan product site), and **NP 掛け払い** (BtoB invoicing). Unlike [[payment-firms/paidy|Paidy]], it is independent rather than payments-platform-owned, and unlike [[card-issuers/jaccs|Jaccs]] or [[card-issuers/orico|Orico]] it deliberately stays out of the credit-card stack — the [[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] is the cleanest place to see why merchant-fee BNPL economics diverge from card interchange. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
 

@@ -18,34 +18,34 @@ sources:
 # Wise Payments Japan
 
 
-## Wiki route
+## Wiki内の位置づけ
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/western-union-japan|ウエスタンユニオンジャパン (Western Union Japan)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+このページは [[payment-firms/INDEX|決済事業者の索引]] に属する。比較対象としては [[payment-firms/western-union-japan|ウエスタンユニオンジャパン (Western Union Japan)]] を参照し、制度・規制上の広い位置づけは [[payments/INDEX|決済領域の索引]] と併せて読む。
 
-## TL;DR
+## 要点
 
-ワイズ・ペイメンツ・ジャパンは Wise group の日本法人で、公式 corporate page は第一種および第二種資金移動業者として登録番号を明示している。日本の cross-border remittance / multi-currency account 競争を見る際の代表 operator。^[verified-2026-06-24]
+ワイズ・ペイメンツ・ジャパンは Wise グループの日本法人で、公式会社情報ページは第一種および第二種資金移動業者として登録番号を明示している。日本のクロスボーダー送金・多通貨口座サービスの競争を見る際の代表的な運営会社である。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
-| Item | Reading |
+| 項目 | 読み方 |
 |---|---|
-| Legal entity | ワイズ・ペイメンツ・ジャパン株式会社 |
-| Group | Wise Payments Limited / Wise plc |
-| Main lanes | Cross-border remittance, multi-currency account, Wise Business |
-| FSA registry route | FSA funds-transfer list: 関東財務局長 第00040号, Wise Payments Japan. ^[verified-2026-06-24] |
-| Type boundary | Wise says the Japan entity provides services as a Type 1 and Type 2 funds-transfer provider. ^[verified-2026-06-24] |
+| 法人 | ワイズ・ペイメンツ・ジャパン株式会社 |
+| グループ | Wise Payments Limited / Wise plc |
+| 主な領域 | クロスボーダー送金、多通貨口座、Wise Business |
+| 金融庁登録の確認経路 | 金融庁の資金移動業者一覧: 関東財務局長 第00040号, Wise Payments Japan. ^[verified-2026-06-24] |
+| 種別の境界 | Wise は、日本法人が第一種および第二種資金移動業者としてサービスを提供すると説明している。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 事業上の役割
 
-- Competes on transparent FX, cross-border account rails, and business remittance; this makes the page closer to a remittance / multi-currency-account operator than to domestic code-payment wallets such as [[payment-firms/paypay]] or [[payment-firms/merpay]]. ^[verified-2026-06-24]
-- Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows; Wise's Japan licence announcement says Type 1 allows transfers up to JPY 150 million per transaction across more than 40 currencies. ^[verified-2026-06-24]
-- The same operating company still appears in the FSA funds-transfer list, so the page should be used for Japan licence checks rather than relying only on global Wise plc materials. ^[verified-2026-06-24]
-- A comparator against [[payment-firms/revolut-technologies-japan|Revolut]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/payoneer-japan|Payoneer]], [[payment-firms/sbi-remit|SBI Remit]], and [[payment-firms/western-union-japan|Western Union]].
+- 透明性の高い外国為替、クロスボーダー口座基盤、法人向け送金で競争する。そのため、このページは [[payment-firms/paypay]] や [[payment-firms/merpay]] のような国内コード決済ウォレットよりも、送金・多通貨口座の運営会社として読むほうが近い。^[verified-2026-06-24]
+- 第一種の認可により、対象となる送金では従来の一件百万円の上限が外れる。Wise の日本ライセンス発表は、第一種によって一件あたり JPY 150 million まで、40 を超える通貨で送金できるとしている。^[verified-2026-06-24]
+- 同じ運営会社が金融庁の資金移動業者一覧にも掲載されているため、グローバルな Wise plc の資料だけでなく、日本のライセンス確認用ページとして使うべきである。^[verified-2026-06-24]
+- [[payment-firms/revolut-technologies-japan|Revolut]]、[[payment-firms/paypal-pte-ltd-japan|PayPal]]、[[payment-firms/payoneer-japan|Payoneer]]、[[payment-firms/sbi-remit|SBI Remit]]、[[payment-firms/western-union-japan|Western Union]] との比較対象になる。
 
-## 3. Why this standalone page matters
+## 3. 単独ページにする理由
 
-Wise is both a global listed fintech and a regulated Japan funds-transfer operator. The Japan entity matters for licensing, safeguarding, and product limits.
+Wise はグローバル上場フィンテックであると同時に、日本では規制対象の資金移動業者でもある。日本法人は、ライセンス、利用者資金の保全、商品上限を確認するうえで重要である。
 
 ## Related
 
@@ -56,6 +56,6 @@ Wise is both a global listed fintech and a regulated Japan funds-transfer operat
 
 ## Sources
 
-- Wise Japan corporate information: https://wise.com/jp/about/corporate
-- Wise Type 1 Japan licence announcement: https://newsroom.wise.com/en-CAS/235712-wise-granted-type-1-funds-transfer-service-provider-licence-in-japan-readies-for-next-phase-of-growth/
-- FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- Wise Japan 会社情報: https://wise.com/jp/about/corporate
+- Wise 日本における第一種資金移動業ライセンス発表: https://newsroom.wise.com/en-CAS/235712-wise-granted-type-1-funds-transfer-service-provider-licence-in-japan-readies-for-next-phase-of-growth/
+- 金融庁 資金移動業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf

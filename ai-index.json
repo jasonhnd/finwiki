@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-25T12:49:32+09:00",
+  "generated_at": "2026-06-26T12:28:16+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11159108,
-    "word_like_tokens": 1801309,
+    "nonspace_utf8_chars": 11154030,
+    "word_like_tokens": 1800216,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -11898,14 +11898,14 @@
       "domain": "card-issuers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+      "summary": "このページは カード発行会社の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業・前払式支払手段との境界は 日本における資金移動と前払式支払手段の境界 を参照する。",
       "headings": [
         "PayPayカード (PayPay Card)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -11942,8 +11942,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2915,
-      "word_like_tokens": 469,
+      "nonspace_chars": 2307,
+      "word_like_tokens": 342,
       "last_modified": "2026-06-24"
     },
     {
@@ -12056,14 +12056,14 @@
       "domain": "card-issuers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+      "summary": "このページは カード発行会社の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業・前払式支払手段との境界は 日本における資金移動と前払式支払手段の境界 を参照する。",
       "headings": [
         "セブン・カードサービス (Seven Card Service)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -12092,8 +12092,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2919,
-      "word_like_tokens": 493,
+      "nonspace_chars": 2227,
+      "word_like_tokens": 350,
       "last_modified": "2026-06-24"
     },
     {
@@ -12222,14 +12222,14 @@
       "domain": "card-issuers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+      "summary": "このページは カード発行会社の索引 に属する。比較対象としては 三菱UFJニコス (Mitsubishi UFJ NICOS) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
       "headings": [
         "三井住友カード (SMCC)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -12260,8 +12260,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3192,
-      "word_like_tokens": 505,
+      "nonspace_chars": 2471,
+      "word_like_tokens": 359,
       "last_modified": "2026-06-24"
     },
     {
@@ -54547,7 +54547,7 @@
       "entity_edges": [],
       "nonspace_chars": 10229,
       "word_like_tokens": 1977,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-06-25"
     },
     {
       "source_path": "megabanks/japan-financial-conglomerate-structure-overview.md",
@@ -62231,14 +62231,14 @@
       "domain": "payment-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+      "summary": "このページは 決済事業者の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業と前払式支払手段の境界は 日本における資金移動と前払式支払手段の境界 を参照する。",
       "headings": [
         "メルペイ (Merpay)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -62284,8 +62284,8 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3248,
-      "word_like_tokens": 507,
+      "nonspace_chars": 2450,
+      "word_like_tokens": 344,
       "last_modified": "2026-06-24"
     },
     {
@@ -62344,14 +62344,14 @@
       "domain": "payment-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori",
+      "summary": "このページは 決済事業者の索引 に属する、BNPL 専業の運営会社ページである。制度面は 日本の BNPL ランドスケープ と 日本の BNPL と信用購入の境界 を併せて読み、比較対象としては Paidy を置く。経済産業省登録の確認には 信用購入・カード事業者の登録索引 を使う。",
       "headings": [
         "ネットプロテクションズHD (Net Protections HD)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -62387,8 +62387,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4251,
-      "word_like_tokens": 675,
+      "nonspace_chars": 3651,
+      "word_like_tokens": 528,
       "last_modified": "2026-06-24"
     },
     {
@@ -62652,14 +62652,14 @@
       "domain": "payment-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under payment-firms INDEX. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.",
+      "summary": "このページは 決済事業者の索引 に属する。比較対象としては PayPal Pte. Ltd. Japan のサービス境界 を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
       "headings": [
         "PayPay株式会社",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -62707,8 +62707,8 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3107,
-      "word_like_tokens": 494,
+      "nonspace_chars": 2382,
+      "word_like_tokens": 351,
       "last_modified": "2026-06-24"
     },
     {
@@ -63023,14 +63023,14 @@
       "domain": "payment-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under payment-firms INDEX. Read it against GMOイプシロン (GMO Epsilon) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+      "summary": "このページは 決済事業者の索引 に属する。比較対象としては GMOイプシロン (GMO Epsilon) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
       "headings": [
         "SBペイメントサービス (SB Payment Service)",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -63063,8 +63063,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3080,
-      "word_like_tokens": 486,
+      "nonspace_chars": 2421,
+      "word_like_tokens": 347,
       "last_modified": "2026-06-24"
     },
     {
@@ -63454,14 +63454,14 @@
       "domain": "payment-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under payment-firms INDEX. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+      "summary": "このページは 決済事業者の索引 に属する。比較対象としては ウエスタンユニオンジャパン (Western Union Japan) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
       "headings": [
         "Wise Payments Japan",
-        "Wiki route",
-        "TL;DR",
+        "Wiki内の位置づけ",
+        "要点",
         "1. 法人・ライセンス境界",
-        "2. Business role",
-        "3. Why this standalone page matters",
+        "2. 事業上の役割",
+        "3. 単独ページにする理由",
         "Related",
         "Sources"
       ],
@@ -63492,8 +63492,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2948,
-      "word_like_tokens": 478,
+      "nonspace_chars": 2360,
+      "word_like_tokens": 334,
       "last_modified": "2026-06-24"
     },
     {
@@ -96181,8 +96181,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3413,
-      "word_like_tokens": 634,
+      "nonspace_chars": 3726,
+      "word_like_tokens": 693,
       "last_modified": "2026-06-25"
     }
   ]

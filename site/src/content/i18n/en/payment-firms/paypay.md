@@ -1,18 +1,18 @@
 ---
 source: payment-firms/paypay
-source_hash: 2a9a023c8a6b5898
+source_hash: 00b621e1505e84be
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Corporation"
-translated_at: 2026-06-24T07:24:12.877Z
+translated_at: 2026-06-26T03:26:36.040Z
 ---
 # PayPay Corporation
 
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|決済事業者の索引]]. Read it against [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan のサービス境界]] for peer / contrast context and [[payments/INDEX|決済領域の索引]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

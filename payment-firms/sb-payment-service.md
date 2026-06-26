@@ -23,34 +23,34 @@ sources:
 # SBペイメントサービス (SB Payment Service)
 
 
-## Wiki route
+## Wiki内の位置づけ
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+このページは [[payment-firms/INDEX|決済事業者の索引]] に属する。比較対象としては [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] を参照し、制度・規制上の広い位置づけは [[payments/INDEX|決済領域の索引]] と併せて読む。
 
-## TL;DR
+## 要点
 
-SBペイメントサービスは SoftBank group の merchant payment / PSP operator。公式事業紹介はオンラインから店舗までの決済サービスと、アクワイアラとしての加盟店審査・管理・決済サービス提供を示しており、[[payments/card-acquiring-japan-stack|card acquiring stack]] の主要ページ。^[verified-2026-06-24]
+SBペイメントサービスは SoftBank グループの加盟店向け決済・PSP 運営会社。公式事業紹介はオンラインから店舗までの決済サービスと、アクワイアラとしての加盟店審査・管理・決済サービス提供を示しており、[[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]] を読むための主要ページである。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
-| Item | Reading |
+| 項目 | 読み方 |
 |---|---|
-| Legal entity | SBペイメントサービス株式会社 |
-| Group context | SoftBank / LY / PayPay payment ecosystem |
-| Main lanes | PSP, merchant acquiring, online and offline payment services |
-| Regulatory route | Card-number merchant-contracting / acquiring control through METI credit-transaction materials and official business disclosures. ^[verified-2026-06-24] |
+| 法人 | SBペイメントサービス株式会社 |
+| グループ文脈 | SoftBank / LY / PayPay 決済エコシステム |
+| 主な領域 | PSP、加盟店契約・アクワイアリング、オンラインおよび店舗向け決済サービス |
+| 規制上の確認経路 | 経済産業省の信用取引関連資料と公式事業開示を通じて、クレジットカード番号等取扱契約締結・アクワイアリング管理を確認する。^[verified-2026-06-24] |
 
-## 2. Business role
+## 2. 事業上の役割
 
-- Provides merchant-facing payment infrastructure beyond PayPay's consumer wallet: the company describes online-to-store payment services for businesses rather than a consumer wallet product. ^[verified-2026-06-24]
-- Links card acceptance, online checkout, security, and merchant management; the business page says SBPS supports contracting, settlement, system, and operations for online payments and handles merchant screening / management / payment services as an acquirer. ^[verified-2026-06-24]
-- Its role is the SoftBank ecosystem's merchant-services layer: PayPay is the consumer code-payment wallet, [[card-issuers/paypay-card]] is the credit issuer, and SBPS is the PSP / acquirer interface for merchants. ^[verified-2026-06-24]
-- The business page also states that SBPS holds Visa, Mastercard, and UnionPay brand licences, which makes the page useful when mapping Japanese PSPs that directly touch card-scheme acceptance. ^[verified-2026-06-24]
-- Useful comparator against [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-epsilon|GMO Epsilon]], and [[payment-firms/dg-financial-technology|DGFT]].
+- PayPay の消費者向けウォレットとは別に、加盟店向けの決済基盤を提供する。同社は消費者向けウォレット商品ではなく、事業者向けにオンラインから店舗までの決済サービスを説明している。^[verified-2026-06-24]
+- カード受入、オンライン決済、セキュリティ、加盟店管理をつなぐ。事業紹介ページは、オンライン決済の契約、精算、システム、運用を支援し、アクワイアラとして加盟店審査・管理・決済サービスを担うと説明している。^[verified-2026-06-24]
+- SoftBank エコシステムの中では加盟店向けサービス層を担う。PayPay は消費者向けコード決済ウォレット、[[card-issuers/paypay-card]] はクレジット発行会社、SBPS は加盟店と接続する PSP・アクワイアラの窓口である。^[verified-2026-06-24]
+- 事業紹介ページは、SBPS が Visa、Mastercard、UnionPay のブランドライセンスを保有すると記載している。そのため、日本の PSP のうちカードスキーム受入に直接関わる事業者を整理する際に有用である。^[verified-2026-06-24]
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]]、[[payment-firms/dg-financial-technology|DGFT]] との比較対象になる。
 
-## 3. Why this standalone page matters
+## 3. 単独ページにする理由
 
-SoftBank's payment stack has consumer wallet, card issuer, and merchant PSP layers. SBPS is the merchant-services layer, so it needs a separate operating-company page.
+SoftBank の決済スタックには、消費者向けウォレット、カード発行会社、加盟店向け PSP の各層がある。SBPS は加盟店向けサービス層を担うため、独立した運営会社ページとして扱う必要がある。
 
 ## Related
 
@@ -61,7 +61,7 @@ SoftBank's payment stack has consumer wallet, card issuer, and merchant PSP laye
 
 ## Sources
 
-- SB Payment Service company information: https://www.sbpayment.co.jp/info/
-- SB Payment Service business page: https://www.sbpayment.co.jp/info/business/
-- METI credit transaction policy page: https://www.meti.go.jp/policy/economy/consumer/credit/
-- METI registered merchant-contracting operators PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
+- SBペイメントサービス 会社情報: https://www.sbpayment.co.jp/info/
+- SBペイメントサービス 事業紹介: https://www.sbpayment.co.jp/info/business/
+- 経済産業省 信用取引政策ページ: https://www.meti.go.jp/policy/economy/consumer/credit/
+- 経済産業省 登録クレジットカード番号等取扱契約締結事業者一覧 PDF: https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf

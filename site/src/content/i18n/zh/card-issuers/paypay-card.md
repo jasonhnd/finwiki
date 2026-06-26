@@ -1,18 +1,18 @@
 ---
 source: card-issuers/paypay-card
-source_hash: 6353af91f86952d7
+source_hash: 5414d9f95b90c5e2
 lang: zh
 status: machine
 fidelity: ok
 title: "PayPay Card（PayPayカード）"
-translated_at: 2026-06-24T07:24:12.872Z
+translated_at: 2026-06-26T03:26:36.036Z
 ---
 # PayPay Card（PayPayカード）
 
 
 ## Wiki 路由
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。请结合 [[payments/INDEX|payments index]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 阅读以理解更广泛的体系边界。
+本条目位于 [[card-issuers/INDEX|カード発行会社の索引]] 之下。请结合 [[payments/INDEX|決済領域の索引]] 阅读以理解相邻语境，并结合 [[payments/funds-transfer-vs-prepaid-boundary|日本における資金移動と前払式支払手段の境界]] 阅读以理解更广泛的体系边界。
 
 ## TL;DR
 

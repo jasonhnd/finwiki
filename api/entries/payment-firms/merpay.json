@@ -40,14 +40,14 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "このページは 決済事業者の索引 に属する。周辺の制度文脈は 決済領域の索引 と併せて読み、資金移動業と前払式支払手段の境界は 日本における資金移動と前払式支払手段の境界 を参照する。",
   "headings": [
     "メルペイ (Merpay)",
-    "Wiki route",
-    "TL;DR",
+    "Wiki内の位置づけ",
+    "要点",
     "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "2. 事業上の役割",
+    "3. 単独ページにする理由",
     "Related",
     "Sources"
   ],
@@ -75,8 +75,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3248,
-    "word_like_tokens": 507,
+    "nonspace_chars": 2450,
+    "word_like_tokens": 344,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-24"
   }
