@@ -22,6 +22,17 @@ function routePath(value) {
   return toPosix(value).replace(/\.md$/i, '').toLowerCase();
 }
 
+function textContent(node) {
+  if (!node) return '';
+  if (typeof node.value === 'string') return node.value;
+  if (Array.isArray(node.children)) return node.children.map(textContent).join('');
+  return '';
+}
+
+function setText(node, value) {
+  node.children = [{ type: 'text', value }];
+}
+
 function routeFromMeta(meta) {
   if (!meta || typeof meta !== 'object') return '';
   if (meta.source) return routePath(meta.source);
@@ -88,47 +99,94 @@ function relativeHref(fromId, resolvedPath) {
   return `${prefix}${target}/`;
 }
 
+function wikilinkHtml(target, label, fromId) {
+  const resolved = resolveWiki(target);
+  if (resolved && fromId) {
+    return `<a class="wl" href="${esc(relativeHref(fromId, resolved))}" data-wl="${esc(resolved)}">${esc(label)}</a>`;
+  }
+  if (resolved) {
+    return `<a class="wl" href="/ja/${esc(routePath(resolved))}/" data-wl="${esc(resolved)}">${esc(label)}</a>`;
+  }
+  return `<span class="wl wl-broken" title="${esc(target)}">${esc(label)}</span>`;
+}
+
+function wikilinkParts(value, fromId) {
+  const source = String(value ?? '');
+  const out = [];
+  let last = 0;
+  let match;
+  RE.lastIndex = 0;
+
+  while ((match = RE.exec(source))) {
+    if (match.index > last) {
+      out.push({ type: 'text', value: source.slice(last, match.index) });
+    }
+    const target = match[1].trim();
+    const label = (match[2] ?? target.split('/').pop() ?? target).trim();
+    out.push({ type: 'html', value: wikilinkHtml(target, label, fromId) });
+    last = match.index + match[0].length;
+  }
+
+  if (!out.length) return null;
+  if (last < source.length) {
+    out.push({ type: 'text', value: source.slice(last) });
+  }
+  return out;
+}
+
+function wikilinkHtmlString(value, fromId) {
+  const parts = wikilinkParts(value, fromId);
+  if (!parts) return esc(value);
+  return parts.map((part) => (part.type === 'html' ? part.value : esc(part.value))).join('');
+}
+
+function repairSplitTableWikilinks(tree) {
+  visit(tree, 'tableRow', (row) => {
+    if (!Array.isArray(row.children)) return;
+
+    for (let index = 0; index < row.children.length - 1; index += 1) {
+      const current = textContent(row.children[index]);
+      const open = current.lastIndexOf('[[');
+      if (open === -1 || current.slice(open).includes(']]')) continue;
+
+      const target = current.slice(open + 2).trim();
+      if (!target || target.includes('|') || /\s/.test(target)) continue;
+
+      const next = textContent(row.children[index + 1]);
+      const close = next.indexOf(']]');
+      if (close === -1) continue;
+
+      const label = next.slice(0, close).trim();
+      if (!label) continue;
+
+      const merged = `${current.slice(0, open)}[[${target}|${label}]]${next.slice(close + 2)}`;
+      setText(row.children[index], merged);
+      row.children.splice(index + 1, 1);
+      index -= 1;
+    }
+  });
+}
+
 export default function remarkWikilink() {
   return (tree, file) => {
     const fromId = currentEntryId(file);
+    repairSplitTableWikilinks(tree);
+
     visit(tree, 'text', (node, index, parent) => {
       if (!parent || index == null || !node.value.includes('[[')) return;
-      const out = [];
-      let last = 0;
-      let match;
-      RE.lastIndex = 0;
-
-      while ((match = RE.exec(node.value))) {
-        if (match.index > last) {
-          out.push({ type: 'text', value: node.value.slice(last, match.index) });
-        }
-        const target = match[1].trim();
-        const label = (match[2] ?? target.split('/').pop() ?? target).trim();
-        const resolved = resolveWiki(target);
-        if (resolved && fromId) {
-          out.push({
-            type: 'html',
-            value: `<a class="wl" href="${esc(relativeHref(fromId, resolved))}" data-wl="${esc(resolved)}">${esc(label)}</a>`,
-          });
-        } else if (resolved) {
-          out.push({
-            type: 'html',
-            value: `<a class="wl" href="/ja/${esc(routePath(resolved))}/" data-wl="${esc(resolved)}">${esc(label)}</a>`,
-          });
-        } else {
-          out.push({
-            type: 'html',
-            value: `<span class="wl wl-broken" title="${esc(target)}">${esc(label)}</span>`,
-          });
-        }
-        last = match.index + match[0].length;
-      }
-
-      if (!out.length) return;
-      if (last < node.value.length) {
-        out.push({ type: 'text', value: node.value.slice(last) });
-      }
+      const out = wikilinkParts(node.value, fromId);
+      if (!out) return;
       parent.children.splice(index, 1, ...out);
+    });
+
+    visit(tree, 'code', (node, index, parent) => {
+      const value = String(node.value ?? '');
+      if (!parent || index == null || !value.includes('[[')) return;
+      const lang = esc(node.lang || 'plaintext');
+      parent.children.splice(index, 1, {
+        type: 'html',
+        value: `<pre class="astro-code wl-code" tabindex="0" data-language="${lang}"><code>${wikilinkHtmlString(value, fromId)}</code></pre>`,
+      });
     });
   };
 }

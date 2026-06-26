@@ -710,22 +710,79 @@ a.wl:hover {
   cursor: help;
 }
 .prov {
-  font-size: 0.62em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0.92em;
+  height: 0.92em;
+  font-size: 0.58em;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  line-height: 1;
   vertical-align: super;
-  margin-left: 1px;
-  line-height: 0;
+  margin-left: 0.12em;
+  color: var(--muted);
+  opacity: 0.78;
 }
-.prov::before {
-  content: "\25CF";
+.prov a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25em;
+  height: 1.25em;
+  border: 1px solid color-mix(in srgb, var(--accent-2) 38%, transparent);
+  border-radius: 50%;
+  color: var(--accent-2);
+  text-decoration: none;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
 }
-.prov-extracted::before {
+.prov a:hover,
+.prov a:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  opacity: 1;
+}
+.prov-source {
+  opacity: 0.88;
+}
+.prov-verified {
+  color: var(--source-editorial);
+}
+.prov-extracted {
   color: var(--ok);
 }
-.prov-inferred::before {
+.prov-inferred {
   color: var(--warn);
 }
-.prov-ambiguous::before {
+.prov-ambiguous {
   color: var(--bad);
+}
+.prov-note {
+  color: var(--muted);
+}
+.prose pre .prov {
+  font-size: 0.68em;
+  color: color-mix(in srgb, var(--code-ink) 72%, var(--muted));
+}
+.prose pre .prov a {
+  color: color-mix(in srgb, var(--code-ink) 76%, var(--accent-2));
+  background: color-mix(in srgb, var(--code-bg) 78%, transparent);
+  border-color: color-mix(in srgb, var(--code-ink) 28%, transparent);
+}
+.prose pre .prov a:hover,
+.prose pre .prov a:focus-visible {
+  color: var(--code-ink);
+  border-color: color-mix(in srgb, var(--code-ink) 56%, transparent);
+  background: color-mix(in srgb, var(--code-ink) 12%, var(--code-bg));
+}
+.prose pre a.wl {
+  color: var(--code-ink);
+  border-bottom-color: color-mix(in srgb, var(--code-ink) 36%, transparent);
+}
+.prose pre a.wl:hover {
+  background: color-mix(in srgb, var(--code-ink) 10%, transparent);
+  border-bottom-color: color-mix(in srgb, var(--code-ink) 70%, transparent);
 }
 
 /* ----- Editorial prose ----- */
