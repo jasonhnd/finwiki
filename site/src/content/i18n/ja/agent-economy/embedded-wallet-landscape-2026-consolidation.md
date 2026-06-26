@@ -12,11 +12,11 @@ translated_at: 2026-06-02T11:47:37.254Z
 
 ## 要約
 
-2026 中盤までに、埋込型ウォレットのカテゴリは 20+ の SDK ベンダーが連なるロングテールから、**デフォルト層の複占**(Stripe 傘下の Privy、Coinbase CDP)と、ハイパースケーラーのデフォルトルーティングがカバーしないニッチを争う**二次層**(Magic、thirdweb、Dynamic、Web3Auth、Particle Network、Crossmint)へと圧縮された。その駆動要因はプロダクトの優位性ではなく、**ハイパースケーラーによるデフォルトウォレットの配置**である:AWS Bedrock AgentCore、Azure AI Foundry Agent Service、Google Cloud Vertex AI Agent Builder がそれぞれ「デフォルト」SDK を選定すると、選ばれたベンダーは AI エージェントのプロビジョニングのロングテールを流通コストゼロで獲得する。代表例については [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default-wallet positioning]] を、その根底にあるフライホイールについては [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet network effects · integrator moat]] を参照のこと。
+2026 中盤までに、埋込型ウォレットのカテゴリは 20+ の SDK ベンダーが連なるロングテールから、**デフォルト層の複占**(Stripe 傘下の Privy、Coinbase CDP)と、ハイパースケーラーのデフォルトルーティングがカバーしないニッチを争う**二次層**(Magic、thirdweb、Dynamic、Web3Auth、Particle Network、Crossmint)へと圧縮された。その駆動要因はプロダクトの優位性ではなく、**ハイパースケーラーによるデフォルトウォレットの配置**である:AWS Bedrock AgentCore、Azure AI Foundry Agent Service、Google Cloud Vertex AI Agent Builder がそれぞれ「デフォルト」SDK を選定すると、選ばれたベンダーは AI エージェントのプロビジョニングのロングテールを流通コストゼロで獲得する。代表例については [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default-ウォレット positioning]] を、その根底にあるフライホイールについては [[agent-economy/embedded-wallet-network-effects-moat|embedded ウォレット network effects · integrator moat]] を参照のこと。
 
 ## ウィキ上の位置づけ
 
-本エントリは [[agent-economy/INDEX|agent-economy index]] の配下に位置する。Stripe 側の代表例として [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe subsidiary embedded self-custody wallet]]、Coinbase 側の例として [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP · developer platform overview]]、堀の論点として [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet integrator moat]]、フィンテック側のフレーミングとして [[fintech/embedded-wallet-fintech-disintermediation-overview|embedded wallet fintech disintermediation]] と併せて読むこと。
+本エントリは [[agent-economy/INDEX|agent-economy index]] の配下に位置する。Stripe 側の代表例として [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe subsidiary embedded self-カストディウォレット]]、Coinbase 側の例として [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP · developer platform overview]]、堀の論点として [[agent-economy/embedded-wallet-network-effects-moat|embedded ウォレット integrator moat]]、フィンテック側のフレーミングとして [[fintech/embedded-wallet-fintech-disintermediation-overview|embedded ウォレット fintech disintermediation]] と併せて読むこと。
 
 ## デフォルト層と二次層の区分
 
@@ -37,15 +37,15 @@ translated_at: 2026-06-02T11:47:37.254Z
 
 ## 統合を駆動する5つの要因
 
-**1. AWS Bedrock AgentCore のデフォルト選定(2025-Q3 GA)。** AWS は AgentCore Payments のデフォルトウォレットプロバイダー2社として Privy + Coinbase CDP を選んだ。Circle、Anchorage、Magic 等も利用可能だったがファーストクラスではなかった。この決定は構造的なものであり — Stripe は AWS のトップティアの収益顧客であり、Coinbase は主要な AWS リージョンのアンカーである — 数十万のネット新規 AgentCore エージェントがデフォルトで Privy か CDP のウォレットを継承するため、下流に波及した。[[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default-wallet positioning]] 参照。
+**1. AWS Bedrock AgentCore のデフォルト選定(2025-Q3 GA)。** AWS は AgentCore Payments のデフォルトウォレットプロバイダー2社として Privy + Coinbase CDP を選んだ。Circle、Anchorage、Magic 等も利用可能だったがファーストクラスではなかった。この決定は構造的なものであり — Stripe は AWS のトップティアの収益顧客であり、Coinbase は主要な AWS リージョンのアンカーである — 数十万のネット新規 AgentCore エージェントがデフォルトで Privy か CDP のウォレットを継承するため、下流に波及した。[[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default-ウォレット positioning]] 参照。
 
 **2. Stripe による Privy 買収(2025年6月)。** Stripe は公表ベースで $300-500M(一部のソースはアーンアウトを含め最大 $1.1B と報じる)を支払い、Privy を Bridge($1.1B)、Tempo、USDB ステーブルコインと並ぶ Stripe ファミリーに組み込んだ。Stripe の視点では、Privy は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|five-layer Trojan horse]] の内部にあるレイヤー 4 ウォレットである。埋込型ウォレットのカテゴリの視点では、これは最大の中立 SDK ベンダーを除去し、Stripe 寄りのデフォルトに置き換えた。
 
-**3. Coinbase CDP の Base + USDC + Onramp との垂直統合。** CDP は単なる埋込型ウォレット SDK ではなく、Base と USDC にデフォルトでルーティングする [[agent-economy/coinbase-cdp-developer-platform|wallet + Onramp + Paymaster + AgentKit + Smart Wallets]] のパッケージ化されたスタックである。これにより、Privy とは構造的に異なる経済性を持つ並行的なデフォルト層プロバイダーが生まれた(CDP はオンチェーンのフローから収益を得る、Privy は Stripe レールのインターチェンジ上振れを伴う SaaS 型の手数料から収益を得る)。
+**3. Coinbase CDP の Base + USDC + Onramp との垂直統合。** CDP は単なる埋込型ウォレット SDK ではなく、Base と USDC にデフォルトでルーティングする [[agent-economy/coinbase-cdp-developer-platform|ウォレット + Onramp + Paymaster + AgentKit + Smart ウォレット]] のパッケージ化されたスタックである。これにより、Privy とは構造的に異なる経済性を持つ並行的なデフォルト層プロバイダーが生まれた(CDP はオンチェーンのフローから収益を得る、Privy は Stripe レールのインターチェンジ上振れを伴う SaaS 型の手数料から収益を得る)。
 
 **4. ハイパースケーラーのエージェントオーケストレーションプラットフォーム(2025-2026)。** AWS Bedrock AgentCore Payments(2025)、Azure AI Foundry Agent Service(2025-Q4)、Google Cloud Vertex AI Agent Builder(2026-Q1)がそれぞれマネージドのエージェントオーケストレーション面を出荷した。各社がデフォルトウォレットプロバイダーを選定した。ハイパースケーラー・デフォルト戦争は、2026において埋込型ウォレットのシェアが決まる直接のチャネルである。公開ドキュメントで見える選定:AWS → Privy + CDP、Azure → Privy +(追加のデフォルトは公開ドキュメントでなお曖昧)、GCP → CDP 寄り(Coinbase は構造的提携、AP2 の共同執筆を持つ — [[agent-economy/ap2-overview|AP2 overview]] 参照)。
 
-**5. ウォレットプリミティブ層における ERC-7715 + ERC-4337 のコモディティ化。** 埋込型ウォレットが上に乗るプリミティブ — [[agent-economy/erc-7715-overview|ERC-7715 wallet permissions]]、ERC-4337 アカウント抽象化、ERC-7702 EOA アップグレード — が標準化され実装が容易になり、小規模 SDK が独自の MPC / TEE 選択の周りに築いていた技術的な堀の一部を取り除いた。
+**5. ウォレットプリミティブ層における ERC-7715 + ERC-4337 のコモディティ化。** 埋込型ウォレットが上に乗るプリミティブ — [[agent-economy/erc-7715-overview|ERC-7715 ウォレット permissions]]、ERC-4337 アカウント抽象化、ERC-7702 EOA アップグレード — が標準化され実装が容易になり、小規模 SDK が独自の MPC / TEE 選択の周りに築いていた技術的な堀の一部を取り除いた。
 
 ### Privy(Stripe)
 
@@ -53,12 +53,12 @@ translated_at: 2026-06-02T11:47:37.254Z
 - **鍵カストディの基盤。** MPC + TEE シャードモデル。1つの鍵シャードはユーザーのデバイス(Passkey / WebAuthn / Secure Enclave)に、1つのシャードは Stripe が運用する TEE(AWS Nitro Enclaves または同等)の内部に置かれる。
 - **ハイパースケーラーのデフォルト配置。** AWS Bedrock AgentCore Payments — Coinbase CDP と共同デフォルト。Azure AI Foundry Agent Service は Privy をサポート対象のデフォルトとして掲載。
 - **公開フットプリント。** 約 110M ウォレット、約 1,000+ の開発者統合(OpenSea、Hyperliquid、Farcaster、Friend.tech、Pump.fun、Story、Zora、主要な Stripe Connect マーチャントを含む)。
-- **戦略的役割。** [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer collapse]] のレイヤー 4 。Stripe が、Bridge USDB / Tempo レール上のウォレットとしても機能するユーザー ID 面を必要とする場面で、Privy が選ばれた基盤となる。
+- **戦略的役割。** [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer collapse]] のレイヤー 4。Stripe が、Bridge USDB / Tempo レール上のウォレットとしても機能するユーザー ID 面を必要とする場面で、Privy が選ばれた基盤となる。
 
 ### Coinbase CDP
 
 - **所有者。** Coinbase(NASDAQ: COIN)。
-- **鍵カストディの基盤。** MPC 分散鍵管理に加え、ガスレス USDC 送金のために Base Paymaster と統合されたパッケージ化された ERC-4337 Smart Wallet。
+- **鍵カストディの基盤。** MPC 分散鍵管理に加え、ガスレス USDC 送金のために Base Paymaster と統合されたパッケージ化された ERC-4337 Smart ウォレット。
 - **ハイパースケーラーのデフォルト配置。** AWS Bedrock AgentCore(Privy と共同デフォルト)。GCP Vertex AI Agent Builder は CDP 寄り(Coinbase は Google との AP2 共同執筆者)。
 - **公開フットプリント。** CDP の公式発信によれば、約 150K developer、約 8K dApp、約 5M の月間アクティブ埋込型ウォレット。
 - **戦略的役割。** Base + USDC にデフォルトでバインド、AgentKit モジュール(2025-04)はエージェント経済 SDK であり、ウォレットプリミティブを Coinbase が既に所有するチェーン経済に結びつける。
@@ -111,9 +111,7 @@ translated_at: 2026-06-02T11:47:37.254Z
 - **公開フットプリント。** NFT、コマース、RWA トークン化の顧客、Visa / Mastercard レール統合。
 - **戦略的役割。** 埋込型ウォレット市場の法定通貨ファンドのスライス — 暗号レールではなくカードネットワークを必要とするスライス — に特化しており、AI エージェントのボリュームで Privy / CDP と真っ向から競合しない。
 
-## ハイパースケーラーのデフォルトウォレット戦争
-
-最も影響の大きい 2026 のダイナミクスは、**ハイパースケーラーのエージェントプラットフォーム**が、マネージドのエージェントランタイム内でウォレットプロバイダーをデフォルトとして事前選定する方法である。これが 2023-2024の dApp 採用よりも重要である3つの理由:
+## ハイパースケーラーのデフォルトウォレット戦争最も影響の大きい 2026 のダイナミクスは、**ハイパースケーラーのエージェントプラットフォーム**が、マネージドのエージェントランタイム内でウォレットプロバイダーをデフォルトとして事前選定する方法である。これが 2023-2024の dApp 採用よりも重要である3つの理由:
 
 1. **プロビジョニングは暗黙的であり、明示的ではない。** 開発者が [[fintech/usd-stablecoin-interchange|USDC]] 決済を受け取る必要のある AWS Bedrock エージェントを立ち上げると、AgentCore Payments モジュールが裏で Privy か CDP のウォレットをプロビジョニングする。開発者はウォレットベンダーの判断を一度も下していない。
 2. **ハイパースケーラーが流通コストを吸収する。** 二次層の SDK は今や、開発者にデフォルトをオプトアウトするよう説得せねばならない — 単一の選ばれた SDK にオプトインするよう説得するよりも摩擦の高い販売である。
@@ -145,7 +143,7 @@ Stripe は 2025年6月に Privy を買収した。公開報道では取引額を
 |---|---|---|---|---|
 | 2025-06 | Stripe が Privy を買収 | Stripe | Privy | 約 $300-500M(一部のソースは最大 $1.1B) |
 | 2025-06 | Stripe が Bridge を買収 | Stripe | Bridge | 約 $1.1B |
-| 2024-Q3 | Coinbase が Wallet API + Cloud を CDP リブランドに統合 | Coinbase | (内部) | n/a |
+| 2024-Q3 | Coinbase が ウォレット API + Cloud を CDP リブランドに統合 | Coinbase | (内部) | n/a |
 | 2025-04 | Coinbase が CDP 上に AgentKit を出荷 | Coinbase | (内部) | n/a |
 | 2025-Q3 | AWS が AgentCore のデフォルトとして Privy + CDP を選定 | AWS / Stripe / Coinbase | (プラットフォームデフォルト) | n/a |
 | 未決 | thirdweb / Magic / Web3Auth / Dynamic の買収観測 | (各種) | (各種) | 確認なし |
@@ -156,12 +154,12 @@ Stripe は 2025年6月に Privy を買収した。公開報道では取引額を
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/INDEX|Agent economy index]]
-- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet overview]]
-- [[agent-economy/privy-aws-agentcore-default-wallet|Privy × AWS AgentCore default-wallet positioning]]
+- [[agent-economy/INDEX|エージェント経済 index]]
+- [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット overview]]
+- [[agent-economy/privy-aws-agentcore-default-wallet|Privy × AWS AgentCore default-ウォレット positioning]]
 - [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP developer platform]]
-- [[agent-economy/embedded-wallet-network-effects-moat|Embedded wallet integrator moat]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet fintech disintermediation overview]]
+- [[agent-economy/embedded-wallet-network-effects-moat|Embedded ウォレット integrator moat]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded ウォレット fintech disintermediation overview]]
 - [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]
 - [[fintech/INDEX|Fintech index]]
 <!-- /wiki-links:managed -->

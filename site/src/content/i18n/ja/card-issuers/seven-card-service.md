@@ -15,16 +15,14 @@ translated_at: 2026-06-26T03:26:36.036Z
 
 このページは [[card-issuers/INDEX|カード発行会社の索引]] に属する。周辺の制度文脈は [[payments/INDEX|決済領域の索引]] と併せて読み、資金移動業・前払式支払手段との境界は [[payments/funds-transfer-vs-prepaid-boundary|日本における資金移動と前払式支払手段の境界]] を参照する。
 
-## 要点
-
-セブン・カードサービスは [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周辺のカード・小売決済運営会社。店舗、nanaco / ポイント、カード、銀行 ATM、小売アプリを分けて読むための法人境界ページである。^[verified-2026-06-24]
+## 要点セブン・カードサービスは [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周辺のカード・小売決済運営会社。店舗、nanaco / ポイント、カード、銀行 ATM、小売アプリを分けて読むための法人境界ページである。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
 
 | 項目 | 読み方 |
 |---|---|
 | 法人 | 株式会社セブン・カードサービス |
-| グループ文脈 | Seven & i / Seven Bank の小売決済エコシステム |
+| グループ文脈 | Seven & i / Seven Bank の小売決済経済圏 |
 | 主な領域 | クレジットカード、nanaco 電子マネー、小売決済サービス |
 | 規制上の確認経路 | 割賦販売法・カード与信管理、経済産業省の信用取引資料、公式会社概要を確認する。^[verified-2026-06-24] |
 | 小売決済の境界 | 公式会社資料は、クレジットカードサービスと電子マネー nanaco の発行・運営の双方を説明している。^[verified-2026-06-24] |

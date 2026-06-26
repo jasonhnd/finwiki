@@ -4,18 +4,18 @@ source_hash: 335afb11817d2c26
 lang: ja
 status: machine
 fidelity: ok
-title: "中國信託商業銀行 東京支店"
+title: "中國信託商業銀行東京支店"
 translated_at: 2026-06-24T00:00:00.000Z
 ---
-# 中國信託商業銀行 東京支店
+# 中國信託商業銀行東京支店
 
-## Wiki route
+## ウィキ上の位置づけ
 
-This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-中國信託商業銀行 東京支店は、金融庁の銀行免許 workbook に載る Taiwan / CTBC Bank の在日外国銀行支店。^[source:fsa-ginkou-2026] CTBC の日本向け申込書は「中國信託商業銀行東京支店」が Internet Banking、Fax Banking、Automated Message Notification を提供する前提で作られており、同支店を Japan-facing corporate operations の窓口として扱える。^[source:ctbc-application-2026] JBA 会員リストでは CTBC Bank が Associate Members / Foreign Banks に掲載される。^[source:jba-members-2026]
+中國信託商業銀行東京支店は、金融庁の銀行免許 workbook に載る Taiwan / CTBC Bank の在日外国銀行支店。^[source:fsa-ginkou-2026] CTBC の日本向け申込書は「中國信託商業銀行東京支店」が Internet Banking、Fax Banking、Automated Message Notification を提供する前提で作られており、同支店を Japan-facing corporate operations の窓口として扱える。^[source:ctbc-application-2026] JBA 会員リストでは CTBC Bank が Associate Members / Foreign Banks に掲載される。^[source:jba-members-2026]
 
 ## 1. License / branch boundary
 

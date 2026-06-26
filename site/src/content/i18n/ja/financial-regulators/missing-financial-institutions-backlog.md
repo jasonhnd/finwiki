@@ -4,15 +4,13 @@ source_hash: 20ab19512f2bde0e
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の未収載金融機関 拡充バックログ"
+title: "日本の未収載金融機関拡充バックログ"
 translated_at: 2026-06-18T23:59:13.090Z
 ---
 
-# 日本の未収載金融機関 拡充バックログ
+# 日本の未収載金融機関拡充バックログ
 
-## 概要
-
-本ページは、[[financial-regulators/INDEX|financial-regulators INDEX]] を主要機関中心の wiki から、レジストリを意識した日本の金融機関マップへと拡充するための実行チェックリストである。
+## 概要本ページは、[[financial-regulators/INDEX|financial-regulators INDEX]] を主要機関中心の wiki から、レジストリを意識した日本の金融機関マップへと拡充するための実行チェックリストである。
 
 現在の wiki はすでに強固なコアを備えている：メガバンク、主要 FG、地方銀行グループ、政策金融、保険会社、証券グループ、リース、決済、フィンテック、外資の在日子会社、暗号資産取引所ページ。だが、公式の免許 / 登録一覧に対して網羅的とはまだ言えない。
 
@@ -61,9 +59,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | `securities/japannext-securities.md` | ジャパンネクスト証券 | PTS / 代替的取引所。 |
 | [x] | `securities/osaka-digital-exchange.md` | 大阪デジタルエクスチェンジ / ODX | PTS + セキュリティトークン市場インフラ。 |
 
-## Batch B：銀行事業会社ページ
-
-多くの親 FG ページが存在するが、免許を受けた銀行事業会社には単独ページがない。事業会社に独立した公開開示、戦略的役割、免許境界、または市場上の重要性がある場合にのみ追加する。
+## Batch B：銀行事業会社ページ多くの親 FG ページが存在するが、免許を受けた銀行事業会社には単独ページがない。事業会社に独立した公開開示、戦略的役割、免許境界、または市場上の重要性がある場合にのみ追加する。
 
 ### B1. メガバンク / 信託 / インターネット銀行の事業会社
 
@@ -101,11 +97,9 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | 九州 / 沖縄 B2.7 | [[regional-banks/fukuoka-bank|福岡銀行]], [[regional-banks/chikuho-bank|筑邦銀行]], [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]], [[regional-banks/kitakyushu-bank|北九州銀行]], [[regional-banks/saga-bank|佐賀銀行]], [[regional-banks/higo-bank|肥後銀行]], [[regional-banks/oita-bank|大分銀行]], [[regional-banks/miyazaki-bank|宮崎銀行]], [[regional-banks/kagoshima-bank|鹿児島銀行]], [[regional-banks/okinawa-bank|沖縄銀行]] |
 | [x] | 第二地方銀行のロングテール B2.8 | [[regional-banks/minato-bank|みなと銀行]], [[regional-banks/shimane-bank|島根銀行]], [[regional-banks/saikyo-bank|西京銀行]], [[regional-banks/fukuoka-chuo-bank|福岡中央銀行]], [[regional-banks/saga-kyoei-bank|佐賀共栄銀行]], [[regional-banks/nagasaki-bank|長崎銀行]], [[regional-banks/kumamoto-bank|熊本銀行]], [[regional-banks/howa-bank|豊和銀行]], [[regional-banks/miyazaki-taiyo-bank|宮崎太陽銀行]], [[regional-banks/minami-nippon-bank|南日本銀行]], 加えて既存の [[regional-banks/okinawa-kaiho-bank|沖縄海邦銀行]] アンカー |
 
-## Batch C：証券、資産運用、および FIEA 事業者
+## Batch C：証券、資産運用、および FIEA 事業者公開上の戦略的重要性を持つ事業者から始める。全 1,945  の FIEA 事業者を単独ページとして書こうとしないこと。
 
-公開上の戦略的重要性を持つ事業者から始める。全 1,945  の FIEA 事業者を単独ページとして書こうとしないこと。
-
-会社ページの層は、現在 6 つのコントロールページによって支えられている：[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-online-brokerage-competition|Japan online brokerage competition]]、[[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]、[[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]。
+会社ページの層は、現在 6 つのコントロールページによって支えられている：[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-online-brokerage-competition|Japan online 証券仲介 competition]]、[[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]、[[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]]、[[securities/japan-underwriting-market-structure|Japan 引受 market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]。
 
 | Status | 対象ページ | 機関 | 出典ルート |
 |---|---|---|---|
@@ -125,9 +119,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | `JapanFG/daiwa-asset-management.md` | 大和アセットマネジメント | 大和 AM プラットフォーム。 |
 | [x] | `JapanFG/sbi-asset-management.md` | SBIアセットマネジメント | SBI AM プラットフォーム。 |
 
-## Batch D：保険事業会社
-
-親保険 HD ページだけでは商品 / チャネル分析には不十分である。公開開示が存在する場合に事業会社を追加する。
+## Batch D：保険事業会社親保険 HD ページだけでは商品 / チャネル分析には不十分である。公開開示が存在する場合に事業会社を追加する。
 
 | Status | グループ | 作成または整合すべき機関 |
 |---|---|---|
@@ -156,9 +148,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | クロスボーダー送金 E2 | [[payment-firms/wise-payments-japan|Wise Payments Japan]], [[payment-firms/revolut-technologies-japan|Revolut Japan]], [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd.]], [[payment-firms/payoneer-japan|Payoneer Japan]], [[payment-firms/western-union-japan|Western Union Japan]], [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex Japan]], [[payment-firms/airwallex-japan|Airwallex Japan]] |
 | [x] | ステーブルコイン / EPI 隣接 E3 | [[payment-firms/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade EPSP / USDC cross-link]], [[payment-firms/progmat|Progmat]] / [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]] リンクマップ |
 
-## Batch F：暗号資産・デジタル資産のクリーンアップ
-
-取引所の名前空間は強固だが、現在の FSA 一覧には少なくとも 2 つの直接的に欠落した事業者がある。
+## Batch F：暗号資産・デジタル資産のクリーンアップ取引所の名前空間は強固だが、現在の FSA 一覧には少なくとも 2 つの直接的に欠落した事業者がある。
 
 | Status | 対象ページ | 機関 | 注記 |
 |---|---|---|---|
@@ -167,9 +157,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | `exchanges/INDEX.md` | 登録事業者の完全性テーブル | 全 27  の FSA 事業者と JVCEA 会員クラスを記す。 |
 | [x] | `exchanges/jp-exchange-sbi-vc-trade.md` | SBI VC Trade | EPSP / USDC 電子決済手段のクロスリンクを追加。 |
 
-## Batch G：外国銀行支店およびグローバル金融機関
-
-現在の wiki はすでにいくつかの主要な米国 / 欧州の銀行をカバーしている。FSA 一覧には 57  の外国銀行支店が含まれるため、段階的なアプローチを用いる。
+## Batch G：外国銀行支店およびグローバル金融機関現在の wiki はすでにいくつかの主要な米国 / 欧州の銀行をカバーしている。FSA 一覧には 57  の外国銀行支店が含まれるため、段階的なアプローチを用いる。
 
 | Status | 優先度 | 機関 | 注記 |
 |---|---|---|---|
@@ -180,9 +168,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | P3  コリドー例外 | [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank]], [[foreign-financial-institutions/bank-negara-indonesia-japan|Bank Negara Indonesia]], [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank]], [[foreign-financial-institutions/metrobank-japan|Metrobank]], [[foreign-financial-institutions/banco-do-brasil-japan|Banco do Brasil]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank]], [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank]] | 豪州、インドネシア、フィリピン、ブラジル、台湾のコリドー行を、レジストリのみから単独ページに昇格 |
 | [x] | P4  レジストリのみのクローズ | [[foreign-financial-institutions/chang-hwa-bank-japan|彰化商業銀行]], [[foreign-financial-institutions/taishin-bank-japan|台新國際商業銀行]], [[foreign-financial-institutions/taiwan-business-bank-japan|台湾中小企業銀行]], [[foreign-financial-institutions/taiwan-cooperative-bank-japan|合作金庫商業銀行]], [[foreign-financial-institutions/national-bank-of-pakistan-japan|パキスタン・ナショナル銀行]], [[foreign-financial-institutions/ubaf-japan|ユバフーアラブ・フランス連合銀行]] | 残る 6  のレジストリのみの行を、簡潔な単独の支店 / コリドーページに昇格；[[foreign-financial-institutions/foreign-bank-branches-japan-index]] が現在、全 57  の FSA 行をルーティングする |
 
-## Batch H：協同組織・地域金融機関
-
-レジストリインデックスが存在するまでは、何百ものページを一つずつ作成しないこと。
+## Batch H：協同組織・地域金融機関レジストリインデックスが存在するまでは、何百ものページを一つずつ作成しないこと。
 
 | Status | 対象ページ | 範囲 |
 |---|---|---|
@@ -192,9 +178,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | `banking/ja-bank-system-japan.md` | JA バンク / 農林中金 / 都道府県信連 / JA の境界。 |
 | [x] | `banking/jf-marine-bank-system-japan.md` | JF マリンバンク / 漁業協同組合金融の境界。 |
 
-## Batch I：政策金融と公的信用の隣接領域
-
-政策金融の名前空間は、すでに [[financial-regulators/jfc|JFC]]、[[financial-regulators/dbj|DBJ]]、[[financial-regulators/jbic|JBIC]]、[[policy-finance/jica|JICA]]、[[policy-finance/jogmec|JOGMEC]]、[[policy-finance/nexi|NEXI]]、[[policy-finance/okinawa-development-finance-corp|Okinawa Development Finance Corp]] をカバーしている。信用創造と公的保証にとって重要な、残りの機関を追加する。
+## Batch I：政策金融と公的信用の隣接領域政策金融の名前空間は、すでに [[financial-regulators/jfc|JFC]]、[[financial-regulators/dbj|DBJ]]、[[financial-regulators/jbic|JBIC]]、[[policy-finance/jica|JICA]]、[[policy-finance/jogmec|JOGMEC]]、[[policy-finance/nexi|NEXI]]、[[policy-finance/okinawa-development-finance-corp|Okinawa Development Finance Corp]] をカバーしている。信用創造と公的保証にとって重要な、残りの機関を追加する。
 
 | Status | 対象ページ | 機関 |
 |---|---|---|
@@ -204,9 +188,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | `policy-finance/agriculture-credit-guarantee-system.md` | 農業信用保証 / 農業信用基金協会 |
 | [x] | `policy-finance/fisheries-credit-guarantee-system.md` | 漁業信用保証 / 漁業信用基金協会 |
 
-## Batch J：データ QA とインデックス管理
-
-新規ページを 20  件以上書く前に、これらを完了させること。
+## Batch J：データ QA とインデックス管理新規ページを 20  件以上書く前に、これらを完了させること。
 
 | Status | タスク | アウトプット |
 |---|---|---|
@@ -215,8 +197,8 @@ translated_at: 2026-06-18T23:59:13.090Z
 | [x] | このバックログにコンパクトな完全性テーブルを追加する。 | 下記の QA スナップショットを参照；個人データなし、ローカルパスなし。 |
 | [x] | 各バッチ後にドメインインデックスを追加または更新する。 | A/F および B1 の後に `JapanFG/INDEX.md` とルート [[INDEX|INDEX]] を同期；Batch J を [[financial-regulators/INDEX|financial-regulators INDEX]] に記録。 |
 | [x] | 各バッチ後に wikilink ヘルスチェックを実行する。 | 変更ファイルの wikilinks: B1 の後 42  ファイルが ok。 |
-| [x] | 各バッチごとに [[CHANGELOG|CHANGELOG]] を更新する。 | A/F、B1, 、Batch J を JST 時刻、範囲、検証、残作業とともに記録。 |
-| [x] | 各バッチ後にルート [[INDEX|INDEX]] を再カウントする。 | B1 の後、ルートのドメインテーブル合計 = 538 、ファイルシステム件数 = 538 ；Batch J は項目を追加しない。Wave-13  後のリフレッシュ（2026-05-25）：JapanFG のヘッドラインは現在 **620  エンティティ項目**、ファイルシステムの .md 件数 = **621**（INDEX / バックログ / 非エンティティのサーフェスを含む）。 |
+| [x] | 各バッチごとに [[CHANGELOG|CHANGELOG]] を更新する。 | A/F、B1,、Batch J を JST 時刻、範囲、検証、残作業とともに記録。 |
+| [x] | 各バッチ後にルート [[INDEX|INDEX]] を再カウントする。 | B1 の後、ルートのドメインテーブル合計 = 538、ファイルシステム件数 = 538；Batch J は項目を追加しない。Wave-13  後のリフレッシュ（2026-05-25）：JapanFG のヘッドラインは現在 **620  エンティティ項目**、ファイルシステムの .md 件数 = **621**（INDEX / バックログ / 非エンティティのサーフェスを含む）。 |
 
 ### Batch J QA スナップショット（2026-05-20）
 
@@ -237,7 +219,7 @@ translated_at: 2026-06-18T23:59:13.090Z
 | 損害保険会社 | 2026-04-01 | 57 | 37 | 主要、ダイレクト / デジタル、特殊、再保険、ペット保険、アウトドア / プラットフォーム、通信系、旅行、賃貸住宅、外資系、商品特化の D3-D5/D8-D9  ページを完成；残るロングテールの損害保険会社はレジストリ / インデックスの取扱いまたは戦略的例外のレビューを要する。 | FSA `songai.xlsx` が変更されたらリフレッシュする；次に有用なステップは、一律の会社ページ生成ではなく、損害保険のレジストリインデックスまたは外国再保険会社 / P&I キャリアマップ。 |
 | 保険持株会社 | 2026-04-01 | 15 | 14 | D6  をアニコム HD、NTT ドコモ損害保険 HD、楽天インシュアランス HD、第一生命グループの名称更新について完成。現在の FSA 持株会社一覧は ipet-holdings の単独ルートを要求しない。 | 残る HD のギャップは、グループ戦略が単独カバレッジを必要とする場合にのみ確認を要する。 |
 | 信託会社 | 2026-03-31 | 38 | 38 | レジストリルートは [[trust-banks/trust-companies-japan-index]] 経由で完了；優先度 A / B / C の昇格の後、全 38  行が現在、単独または既存のグループ wiki ルートを備え、0  行がレジストリのみのまま残る。 | FSA `sintaku01.xlsx` が変更されたらリフレッシュする；今後の作業は、生の レジストリ完成よりも、出典 URL のドリフトのリフレッシュまたはレポート出典の精度に注力すべき。 |
-| 資金移動業者 | 2026-04-30 | 83 | 83  レジストリルーティング済み | レジストリルートは [[payments/funds-transfer-service-providers-japan-index]] 経由で完了；主要なウォレット / 送金 / PSP ルートは現在、PayPay、Merpay、au PAY、楽天Edy、Kyash、SmartBank、Seven Payment Service、Wise、Revolut、PayPal、Payoneer、Western Union、SBI Remit、Travelex、Airwallex、Netstars、リクルートMUFGビジネス、JALペイメント・ポート、JPYC、NTT ドコモ FG ウォッチルート、[[payments/account-to-account-payment-japan|account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring route]]、[[payments/japan-bank-api-payment-agency-route|bank API / electronic payment agency route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident / fraud controls]]、[[payments/japan-card-security-authentication-controls|card security / authentication controls]] を含む。 | FSA `shikin_idou.pdf` が変更されたらリフレッシュする；単独ページは戦略的例外に限る。 |
+| 資金移動業者 | 2026-04-30 | 83 | 83  レジストリルーティング済み | レジストリルートは [[payments/funds-transfer-service-providers-japan-index]] 経由で完了；主要なウォレット / 送金 / PSP ルートは現在、PayPay、Merpay、au PAY、楽天Edy、Kyash、SmartBank、Seven Payment Service、Wise、Revolut、PayPal、Payoneer、Western Union、SBI Remit、Travelex、Airwallex、Netstars、リクルートMUFGビジネス、JALペイメント・ポート、JPYC、NTT ドコモ FG ウォッチルート、[[payments/account-to-account-payment-japan|account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct acquiring route]]、[[payments/japan-bank-api-payment-agency-route|bank API / electronic payment agency route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident / fraud controls]]、[[payments/japan-card-security-authentication-controls|card security / authentication controls]] を含む。 | FSA `shikin_idou.pdf` が変更されたらリフレッシュする；単独ページは戦略的例外に限る。 |
 | 信用購入 / カード事業者 | 2026-04  月末 | 241  包括 / 138  個別 / 275  クレジットカード番号契約事業者 | レジストリルーティング済み | レジストリルートは [[payments/credit-purchase-card-operators-japan-index]] 経由で完了；主要なカード発行会社、消費者金融、オートファイナンス、PSP、ウォレット隣接の事業者は主要な wiki ルートを備える；[[payments/japan-card-issuer-acquirer-processor-split|card role split]] と [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] が現在、役割と商品分類をルーティングする。 | METI 一覧が変更されたらリフレッシュする；単独ページは主要な発行会社、アクワイアラー、PSP、BNPL、オートファイナンス、または消費者信用の例外に限る。 |
 | 暗号資産交換業者 | 2026-04-01 | 27 | 23 | 手動の `exchanges/INDEX.md` 完全性テーブルが、Batch F 後の真実の情報源である。 | 完全一致のエイリアスを継続的に改善する；FSA の 27  一覧から、当面の単独ギャップはない。 |
 | 電子決済手段等取引業者 | 2025-03-04 | 1 | 1 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] 経由で完了。 | ステーブルコイン / EPI のクロスリンクを維持する。 |
@@ -254,13 +236,13 @@ translated_at: 2026-06-18T23:59:13.090Z
 7. Batch D：保険事業会社。D1-D9  は、生命保険会社、主要 / ダイレクト / 特殊の損害保険会社、ペット / アウトドア / 通信系 / 旅行 / 賃貸住宅 / 外資系の特殊保険会社、および保険持株会社のアンカーについて完成；FSA の 41  生命保険会社サーフェスは単独 / 意図的なグループアンカーのレベルでクローズ。生命保険会社ページを重複させるのではなく、レジストリ / インデックスまたは精度作業を継続する。
 8. Batch B2  + H：地方銀行ページと協同組織金融のレジストリインデックス。B2.1-B2.8  および H の信金 / 信組 / 労金のレジストリルートは完成済み。
 9. Batch G + H + I：外国支店、協同組織システムのギャップ、政策金融の隣接領域。Batch G の外国銀行支店サーフェスは、[[foreign-financial-institutions/foreign-bank-branches-japan-index]]、P2  の戦略的例外ページ、P3  のコリドー例外ページ、P4  のレジストリのみのクローズページを通じて、全 57 行のルートレベルでクローズ。Batch H の協同組織システムのギャップは [[banking/ja-bank-system-japan]] と [[banking/jf-marine-bank-system-japan]] 経由でルーティングされ、Batch I の公的信用の隣接領域は [[policy-finance/japan-housing-finance-agency]]、[[policy-finance/japan-credit-guarantee-system]]、[[policy-finance/national-federation-credit-guarantee-corporations]]、[[policy-finance/agriculture-credit-guarantee-system]]、[[policy-finance/fisheries-credit-guarantee-system]] 経由でルーティングされる。今後の外国銀行の作業は、生の一覧完成ではなく、リフレッシュ / 精度作業であるべき。
-10. 完了した戦略的コントロールギャップ：[[payments/account-to-account-payment-japan|account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring detail]]、[[payments/japan-bank-api-payment-agency-route|bank API / electronic payment agency route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident / fraud controls]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security / authentication controls]]、[[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]]、[[securities/japan-best-execution-sor-pts|best-execution / SOR / PTS detail]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/japan-margin-trading-and-securities-finance|margin trading / securities finance route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling / stock-loan controls]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage / institutional financing]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody landscape]]、[[banking/regional-bank-api-digital-partnership-route|regional bank API route]]、[[finance/japan-tender-offer-process|TOB process]]、[[finance/japan-acquisition-finance|acquisition finance]]、[[finance/japan-activist-investor-playbook|activist investor playbook]]。次の候補は、出典 URL のドリフトのリフレッシュ、損害保険会社のレジストリインデックス、外国再保険会社 / P&I キャリアマップ、またはより深いレポート出典の精度。
+10. 完了した戦略的コントロールギャップ：[[payments/account-to-account-payment-japan|account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct acquiring detail]]、[[payments/japan-bank-api-payment-agency-route|bank API / electronic payment agency route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident / fraud controls]]、[[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/japan-card-security-authentication-controls|card security / authentication controls]]、[[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]]、[[securities/japan-best-execution-sor-pts|best-execution / SOR / PTS detail]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/japan-margin-trading-and-securities-finance|margin trading / securities finance route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling / stock-loan controls]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介 / institutional financing]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / カストディ landscape]]、[[banking/regional-bank-api-digital-partnership-route|regional bank API route]]、[[finance/japan-tender-offer-process|TOB process]]、[[finance/japan-acquisition-finance|acquisition finance]]、[[finance/japan-activist-investor-playbook|activist investor playbook]]。次の候補は、出典 URL のドリフトのリフレッシュ、損害保険会社のレジストリインデックス、外国再保険会社 / P&I キャリアマップ、またはより深いレポート出典の精度。
 
 ## Source URLs
 
 - FSA license / registration index: https://www.fsa.go.jp/menkyo/menkyo.html
-- FSA funds-transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
-- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- FSA 資金移動サービス提供事業者 list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- METI registered 事業者 under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
 - FSA bank license list: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
 - FSA life-insurance company list: https://www.fsa.go.jp/menkyo/hoken.pdf
 - FSA non-life insurance company list: https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf
@@ -268,15 +250,15 @@ translated_at: 2026-06-18T23:59:13.090Z
 - Life Insurance Association of Japan member list: https://www.seiho.or.jp/member/list/
 - Non-Life Insurance Policyholders Protection Corporation member list: https://www.sonpohogo.or.jp/outline/member-companies.html
 - FSA bank holding company list: https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.xlsx
-- FSA financial instruments business operator list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- FSA financial instruments business 事業者 list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 - FSA life insurer list: https://www.fsa.go.jp/menkyo/hoken.xlsx
 - FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
 - FSA insurance holding company list: https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.xlsx
 - FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
-- FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.xlsx
-- FSA crypto asset exchange operator list: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
-- FSA electronic payment instrument service provider list: https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
-- FSA third-party prepaid payment instrument issuer list: https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx
+- FSA 資金移動サービス提供事業者 list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.xlsx
+- FSA crypto asset exchange 事業者 list: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+- FSA electronic 支払手段サービス提供事業者 list: https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
+- FSA third-party 前払式支払手段発行会社 list: https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx
 - FSA shinkin list: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - FSA credit cooperative list: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
 - FSA rokin list: https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx
@@ -285,8 +267,8 @@ translated_at: 2026-06-18T23:59:13.090Z
 - Life Insurance Association of Japan member list: https://www.seiho.or.jp/member/list/
 - General Insurance Association of Japan member list: https://www.sonpo.or.jp/about/outline/members/
 - JVCEA member list: https://jvcea.or.jp/member/
-- Japan Payment Service Association funds transfer member service list: https://www.s-kessai.jp/consumer/funds_transfer/member_service.html
-- METI Installment Sales Act overview / registered operators: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
+- Japan Payment Service Association 資金移動 member service list: https://www.s-kessai.jp/consumer/funds_transfer/member_service.html
+- METI Installment Sales Act overview / registered 事業者: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
 - JPX short-selling restrictions: https://www.jpx.co.jp/english/equities/trading/regulations/02.html
 - JSDA borrowing and lending guidelines: https://www.jsda.or.jp/en/activities/research-studies/html/BLT_Guidelines_en.pdf
 - JPX TDnet overview: https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html
