@@ -2,10 +2,11 @@
 source: exchanges/uae-vara-licensing-overview
 source_hash: 2a3aaca99307e83a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "UAE VARA ライセンス制度 — ドバイ拠点の世界初独立暗号資産規制機関"
-translated_at: 2026-06-02T12:19:04.237Z
+translated_at: 2026-06-26T08:29:09.709Z
 ---
 ﻿
 # UAE VARA ライセンス制度 — ドバイ拠点の世界初独立暗号資産規制機関
@@ -24,18 +25,16 @@ VARA は活動別ライセンス制を採用し、事業者は必要な機能を
 
 1. **投資助言サービス（Advisory Services）** — 投資助言・コンサル
 2. **ブローカー・ディーラーサービス（Broker-Dealer Services）** — 仲介・自己売買
-3. **カストディサービス（Custody Services）** — 顧客資産保管
+3. **カストディサービス（カストディ Services）** — 顧客資産保管
 4. **取引所サービス（Exchange Services）** — マッチング取引所
 5. **貸借サービス（Lending and Borrowing Services）** — 貸借
 6. **VA 運用・投資サービス（VA Management & Investment Services）** — 運用・ファンド
-7. **VA 移転・決済サービス（VA Transfer & Settlement Services）** — 送金・決済
-
-フルスタック事業者は 5-7 区分を同時取得することが多く、日本の単一「暗号資産交換業」登録と比べ細粒度。
+7. **VA 移転・決済サービス（VA Transfer & 決済 Services）** — 送金・決済フルスタック事業者は 5-7 区分を同時取得することが多く、日本の単一「暗号資産交換業」登録と比べ細粒度。
 
 ## 主要保有事業者 (2024-2026)
 
 - **Binance** — ドバイ拠点最大手の一つ、VARA 認可済
-- **Bybit** — 本社 UAE (2018-)、ドバイ拠点 デリバティブ 世界 top
+- **Bybit** — 本社 UAE (2018-)、ドバイ拠点デリバティブ世界 top
 - **OKX** — 2024-09 VARA 認可取得
 - **Crypto.com** — リテール+機関両軸
 - **Kraken** — 米系ながら UAE 拠点拡大
@@ -49,9 +48,7 @@ VARA は活動別ライセンス制を採用し、事業者は必要な機能を
 
 - **Bybit** が UAE 本社で 2024-11 まで日本居住者向け運営継続 → [[exchanges/fsa-foreign-exchange-warning-system]] FSA 警告 3 回後 2026-03 完全撤退 (詳細 [[exchanges/jp-foreign-exchange-bybit]])
 - **OKX** は UAE VARA + 日本 OKJ ([[exchanges/jp-exchange-okcoin-japan]]) 二重ライセンス保有のハイブリッド戦略
-- VARA 取得が「グローバル信認の floor」となり、日本進出時の JVCEA 審査にも間接的優位を与える構造
-
-国際比較は [[exchanges/global-cex-top10-comparison]] + [[exchanges/hk-sfc-vasp-licensing-overview]] + [[exchanges/sg-mas-dpt-licensing-overview]] を参照。グローバル制度比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] および [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP regime]] と読み合わせ、ステーブルコイン視点では [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル stablecoin 規制 5 極比較]] を併読。
+- VARA 取得が「グローバル信認の floor」となり、日本進出時の JVCEA 審査にも間接的優位を与える構造国際比較は [[exchanges/global-cex-top10-comparison]] + [[exchanges/hk-sfc-vasp-licensing-overview]] + [[exchanges/sg-mas-dpt-licensing-overview]] を参照。グローバル制度比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] および [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP regime]] と読み合わせ、ステーブルコイン視点では [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル stablecoin 規制 5 極比較]] を併読。
 
 ---
 

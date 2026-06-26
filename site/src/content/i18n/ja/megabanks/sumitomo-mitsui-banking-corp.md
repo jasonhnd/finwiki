@@ -2,10 +2,11 @@
 source: megabanks/sumitomo-mitsui-banking-corp
 source_hash: 6c5222a041f80441
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三井住友銀行 (SMBC)"
-translated_at: 2026-06-15T03:48:21.819Z
+translated_at: 2026-06-26T08:32:07.556Z
 ---
 
 # 三井住友銀行 (SMBC)
@@ -14,9 +15,7 @@ translated_at: 2026-06-15T03:48:21.819Z
 
 本項目は [[megabanks/INDEX|megabanks INDEX]]（そのドメインルート）の下に位置する。同業 / 対比（別の都市銀行メガバンクの事業会社）として [[megabanks/mufg-bank|三菱UFJ銀行 (MUFG Bank)]] と照らし合わせ、監督 / 規制上の境界については [[financial-regulators/fsa|the FSA]] と照らし合わせて読むこと。グループ / 親会社の視点は [[megabanks/smfg|SMFG]] にあり、信託・証券の兄弟会社は [[trust-banks/smbc-trust-bank|SMBC信託銀行]] と [[securities-firms/smbc-nikko|SMBC日興証券]] にある。
 
-## 要点
-
-三井住友銀行 (Sumitomo Mitsui Banking Corporation) は [[megabanks/smfg|SMFG / SMBC グループ]] の商業銀行中核法人。FSA の銀行免許リスト上は「株式会社三井住友銀行」(都市銀行) として掲載され、銀行コードは 0009。親会社 SMFG、[[trust-banks/smbc-trust-bank|SMBC信託銀行]]、[[securities-firms/smbc-nikko|SMBC日興証券]] とは別の licensed bank layer を持つ。
+## 要点三井住友銀行 (Sumitomo Mitsui Banking Corporation) は [[megabanks/smfg|SMFG / SMBC グループ]] の商業銀行中核法人。FSA の銀行免許リスト上は「株式会社三井住友銀行」(都市銀行) として掲載され、銀行コードは 0009。親会社 SMFG、[[trust-banks/smbc-trust-bank|SMBC信託銀行]]、[[securities-firms/smbc-nikko|SMBC日興証券]] とは別の licensed bank layer を持つ。
 
 ## 1. 免許 / グループ境界
 
@@ -31,7 +30,7 @@ translated_at: 2026-06-15T03:48:21.819Z
 ## 2. 事業モデル
 
 - SMBC グループの預金受入・貸出・国内/外国為替・決済・グローバル法人金融を担う銀行法人。
-- bank-license layer は、[[trust-banks/smbc-trust-bank|SMBC信託銀行]] (信託 / PRESTIA / 外貨・不動産・信託機能) と [[securities-firms/smbc-nikko|SMBC日興証券]] の brokerage / underwriting layer から機能的に分離される。
+- bank-license layer は、[[trust-banks/smbc-trust-bank|SMBC信託銀行]] (信託 / PRESTIA / 外貨・不動産・信託機能) と [[securities-firms/smbc-nikko|SMBC日興証券]] の 証券仲介 / 引受 layer から機能的に分離される。
 - 三井住友カード、SMBC コンシューマーファイナンスとの連携で、銀行単体を超えた retail / wealth / payment funnel を作る。
 
 ## 3. なぜ独立したページが重要か

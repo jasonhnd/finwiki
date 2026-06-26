@@ -2,18 +2,17 @@
 source: finance/japan-tender-offer-process
 source_hash: 57d0e6c34608c064
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のTOBプロセス"
-translated_at: 2026-06-02T13:21:55.045Z
+translated_at: 2026-06-26T08:29:32.996Z
 ---
 # 日本のTOBプロセス
 
-## 概要
+## 概要日本のTOB分析は、TOBトリガー、公告、公開買付届出書、対象会社意見表明、訂正、EDINET 法定提出、TDnet 適時開示、大量保有報告、決済、スクイーズアウト / 上場廃止ルートを追う開示管理ワークフローである。これは単なる取引ルールではなく、上場会社の支配権取引プロセスであるため [[finance/INDEX|finance]] に属する。
 
-日本のTOB分析は、TOBトリガー、公告、公開買付届出書、対象会社意見表明、訂正、EDINET 法定提出、TDnet 適時開示、大量保有報告、決済、スクイーズアウト / 上場廃止ルートを追う開示管理ワークフローである。これは単なる取引ルールではなく、上場会社の支配権取引プロセスであるため [[finance/INDEX|finance]] に属する。
-
-このページは [[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] とあわせて使う。
+このページは [[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|引受 market structure]]、[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] とあわせて使う。
 
 ## プロセスマップ
 

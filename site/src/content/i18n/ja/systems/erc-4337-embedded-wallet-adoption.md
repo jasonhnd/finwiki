@@ -2,10 +2,11 @@
 source: systems/erc-4337-embedded-wallet-adoption
 source_hash: c2bfb19cf354fd53
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ERC-4337 埋め込みウォレット採用マップ · Privy / Coinbase / Alchemy / Safe"
-translated_at: 2026-06-03T01:06:46.358Z
+translated_at: 2026-06-26T08:29:01.783Z
 ---
 # ERC-4337 埋め込みウォレット採用マップ · Privy / Coinbase / Alchemy / Safe
 
@@ -16,7 +17,7 @@ translated_at: 2026-06-03T01:06:46.358Z
 ## 主要事実
 
 - Privy: フルスタック 4337  + Pimlico 提携、6000+ アプリ、Stripe が買収 ^[extracted]
-- Coinbase CDP Wallets: Base ネイティブ + スマートウォレット、数百万ユーザー ^[extracted]
+- Coinbase CDP ウォレット: Base ネイティブ + スマートウォレット、数百万ユーザー ^[extracted]
 - Alchemy Account Kit: Modular Account 標準、DeFi + GameFi 主流 ^[extracted]
 - ZeroDev / Pimlico: Bundler + Paymaster インフラの B2B 層 ^[extracted]
 - Safe{Core}: 4337 対応 + Modular Safe、機関向けマルチシグの主流 ^[extracted]
@@ -29,14 +30,14 @@ translated_at: 2026-06-03T01:06:46.358Z
 | プレイヤー | 4337 実装 | 顧客規模 | ビジネスモデル |
 |---|---|---|---|
 | **Privy** | フルスタック 4337  + Pimlico 提携 | 6000+ アプリ | SaaS サブスクリプション + 従量課金 |
-| **Coinbase CDP Wallets** | Base ネイティブ + スマートウォレット | 数百万ユーザー | Coinbase 商業エコシステムへの組み込み |
+| **Coinbase CDP ウォレット** | Base ネイティブ + スマートウォレット | 数百万ユーザー | Coinbase 商業エコシステムへの組み込み |
 | **Alchemy Account Kit** | Modular Account 標準 | DeFi + GameFi 主流 | インフラ従量課金 |
 | **ZeroDev / Pimlico** | Bundler + Paymaster インフラ | B2B インフラ | インフラ手数料 |
 | **Safe{Core}** | 4337 対応 + Modular Safe | 機関向けマルチシグ | オープンソース + 統合サポート |
 
-**Stripe via Privy 戦略の流れ**: Stripe は 2024 年に [[agent-economy/privy-embedded-wallet-overview|Privy]] を買収し、4337 ウォレット機能を Stripe Connect に組み込んだ。加盟店は自社のエンドユーザーに対して、ユーザーがブロックチェーンを理解していなくても自己管理型 USDC ウォレットを直接発行できる。これは Stripe がステーブルコイン決済領域に参入するための重要なくさびである([[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] と対照)。
+**Stripe via Privy 戦略の流れ**: Stripe は 2024 年に [[agent-economy/privy-embedded-wallet-overview|Privy]] を買収し、4337 ウォレット機能を Stripe Connect に組み込んだ。加盟店は自社のエンドユーザーに対して、ユーザーがブロックチェーンを理解していなくても自己管理型 USDC ウォレットを直接発行できる。これは Stripe がステーブルコイン決済領域に参入するための重要なくさびである([[agent-economy/embedded-wallet-network-effects-moat|embedded ウォレットネットワーク効果の堀]] と対照)。
 
-**Coinbase の矛盾点**: Coinbase はカストディ事業(CEX 本業)を運営しつつ、自己管理型ウォレット(CDP / Base / Smart Wallet)も推進している。4337 はまさに「左手で右手を切る」ツールである。商業ロジックとしては、一部ユーザーが自己管理型へ流れたとしても、Coinbase は Base の gas + トラフィック手数料で収益を得ることができ、競合 CEX へ流れることも避けながら利益を確保できる。
+**Coinbase の矛盾点**: Coinbase はカストディ事業(CEX 本業)を運営しつつ、自己管理型ウォレット(CDP / Base / Smart ウォレット)も推進している。4337 はまさに「左手で右手を切る」ツールである。商業ロジックとしては、一部ユーザーが自己管理型へ流れたとしても、Coinbase は Base の gas + トラフィック手数料で収益を得ることができ、競合 CEX へ流れることも避けながら利益を確保できる。
 
 ## 起源と変遷
 
@@ -50,7 +51,7 @@ translated_at: 2026-06-03T01:06:46.358Z
 - [[systems/erc-4337-overview|ERC-4337 Overview]]
 - [[systems/erc-4337-userop-bundler-flow|UserOp/Bundler Flow]]
 - [[systems/erc-7702-overview|ERC-7702(7702 vs 4337)]]
-- [[agent-economy/erc-7715-overview|ERC-7715(wallet permissions)]]
+- [[agent-economy/erc-7715-overview|ERC-7715(ウォレット permissions)]]
 <!-- /wiki-links:managed -->
 
 ## 出典

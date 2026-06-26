@@ -2,10 +2,11 @@
 source: leasing-firms/mizuho-lease
 source_hash: 087f4f04d04bae1e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Mizuho Leasing"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-06-26T08:32:23.065Z
 ---
 
 # Mizuho Leasing
@@ -36,7 +37,7 @@ Mizuho Leasing is not a bank, but it is a listed leasing company whose largest s
 
 ### Marubeni relationship
 
-Marubeni's 2024 release says the capital and business alliance is intended to develop collaboration with Mizuho Leasing, create a new business model, and strengthen the finance and leasing domain. It cites prior collaboration from the 2019 alliance, including Mizuho Marubeni Leasing, U.S. aircraft leasing, U.S. freezer / refrigerated trailer leasing and Australian auto finance joint ventures.^[source:marubeni-alliance-2024] The same release says the collaboration areas under discussion include environment and energy, real estate, aircraft and vessel, information, logistics and XaaS, in Japan and overseas.^[source:marubeni-alliance-2024]
+Marubeni's 2024 release says the capital and business alliance is intended to develop collaboration with Mizuho Leasing, create a new 事業モデル, and strengthen the finance and leasing domain. It cites prior collaboration from the 2019 alliance, including Mizuho Marubeni Leasing, U.S. aircraft leasing, U.S. freezer / refrigerated trailer leasing and Australian auto finance joint ventures.^[source:marubeni-alliance-2024] The same release says the collaboration areas under discussion include environment and energy, real estate, aircraft and vessel, information, logistics and XaaS, in Japan and overseas.^[source:marubeni-alliance-2024]
 
 ## Business map
 

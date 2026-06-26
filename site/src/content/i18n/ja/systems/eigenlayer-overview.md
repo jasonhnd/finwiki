@@ -2,10 +2,11 @@
 source: systems/eigenlayer-overview
 source_hash: 926585c9820a3680
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース"
-translated_at: 2026-06-03T01:06:46.349Z
+translated_at: 2026-06-26T08:32:23.063Z
 ---
 # EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース
 
@@ -30,7 +31,7 @@ EigenLayer の解決策は、**ETH という最も深い staking プールを、
 類比すると、SWIFT が既に持つ KYC 済み銀行ネットワークを新規決済会社に「貸す」ようなものであり、各社が個別に同じネットワークを構築するわけではない。
 
 **中核コンポーネント**:
-- **Operators**:ノード運営者。ETH をステーキング(自身または他人代理)し、選択的に各 AVS に opt-in する
+- **事業者**:ノード運営者。ETH をステーキング(自身または他人代理)し、選択的に各 AVS に opt-in する
 - **AVS**:外部検証を必要とするサービス。自身の slashing 条件を定義する
 - **EigenPods**:ETH staking rewards を受け取るコントラクト。native restaking を許可する
 - **Strategies**:LST(stETH、rETH、cbETH 等)の restaking をサポートする

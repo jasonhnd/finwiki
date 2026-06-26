@@ -2,10 +2,11 @@
 source: exchanges/jp-exchange-bitpoint-historical-deprecated
 source_hash: 39a6f91453eaa5aa
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / 廃止済み）概要"
-translated_at: 2026-06-02T12:19:04.228Z
+translated_at: 2026-06-26T08:29:25.277Z
 ---
 
 # 株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / 廃止済み）概要
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T12:19:04.228Z
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。吸収合併の文脈は [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード株式会社]]（吸収合併存続会社）、業界文脈は [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]]、行政処分の文脈は [[exchanges/fsa-business-improvement-orders-history|FSA 業務改善命令履歴]] とあわせて読む。
 
-> FSA 登録番号 関東財務局 第00009号 · JVCEA 会員 #1008（旧）· 2026-04-01 SBI VC トレードに吸収合併（存続会社：SBI VC トレード）
+> FSA 登録番号関東財務局第00009号 · JVCEA 会員 #1008（旧）· 2026-04-01 SBI VC トレードに吸収合併（存続会社：SBI VC トレード）
 
 **廃止済み VASP / 2019-07 ハッキング被害（約 35 億円流出）/ 2026-04 SBI VC トレード吸収合併で法人消滅**
 
@@ -30,10 +31,10 @@ translated_at: 2026-06-02T12:19:04.228Z
 
 ## 2. 牌照・登録状況（歴史）
 
-- 暗号資産交換業：**関東財務局長 第00009号**（登録日 2017-09-29、bitFlyer と同日付の初期登録組）
+- 暗号資産交換業：**関東財務局長第00009号**（登録日 2017-09-29、bitFlyer と同日付の初期登録組）
 - JVCEA 第一種会員：会員番号 #1008（旧）
 - 2026-04-01 SBI VC トレード（第00011号）吸収合併発効後、第00009号は事実上抹消（合併により法人消滅）
-- 2026-04 スナップショット 時点：FSA 登録一覧上は SBI VC トレード（00011号）に集約。BITPOINT ブランド名は当面並行維持
+- 2026-04 スナップショット時点：FSA 登録一覧上は SBI VC トレード（00011号）に集約。BITPOINT ブランド名は当面並行維持
 
 ## 3. 取扱通貨
 
@@ -59,10 +60,10 @@ translated_at: 2026-06-02T12:19:04.228Z
 
 | 時期 | 事項 |
 |------|------|
-| 2016-03 | 株式会社ビットポイントジャパン 設立 |
-| 2017-09-29 | 関東財務局長 第00009号 暗号資産交換業 登録 |
+| 2016-03 | 株式会社ビットポイントジャパン設立 |
+| 2017-09-29 | 関東財務局長第00009号暗号資産交換業登録 |
 | 2018-06 | FSA より業務改善命令（複数業者一斉対応の一環として AML/CFT 体制整備命令）— 詳細は [[exchanges/fsa-business-improvement-orders-history]] 参照 |
-| 2019-07-11 | **不正アクセスによる暗号資産流出事案（約 35 億円相当）**。BTC・ETH・BCH・LTC・XRP の 5 銘柄が外部 hot wallet から不正流出 |
+| 2019-07-11 | **不正アクセスによる暗号資産流出事案（約 35 億円相当）**。BTC・ETH・BCH・LTC・XRP の 5 銘柄が外部 hot ウォレット から不正流出 |
 | 2019-07 | サービス全面停止・顧客資産返還対応。Remixpoint 親会社が損失補填（自己資金から不足分を補填、顧客に全額返還完了） |
 | 2019-08 | 段階的サービス再開 |
 | 2019–2020 | FSA 業務改善命令対応、内部管理体制再構築 |
@@ -79,12 +80,12 @@ translated_at: 2026-06-02T12:19:04.228Z
 
 ## 8. 関連人物（合併前最終期）
 
-- **小田 玄紀**：Remixpoint 代表取締役社長（合併発表時）
+- **小田玄紀**：Remixpoint 代表取締役社長（合併発表時）
 - ビットポイントジャパン代表取締役：合併直前の経営陣は SBI VC トレードへの統合に向けた移行体制
 
 ## 関連項目
 
-- [[exchanges/jp-exchange-sbi-vc-trade]] — 吸収合併存続会社（最重要 相互参照）
+- [[exchanges/jp-exchange-sbi-vc-trade]] — 吸収合併存続会社（最重要相互参照）
 - [[exchanges/jp-vasp-ma-consolidation-history]] — JP VASP M&A 統合史
 - [[exchanges/fsa-business-improvement-orders-history]] — FSA 業務改善命令履歴
 - [[exchanges/japan-cex-parent-fg-adjacency-matrix]] — 親会社マップ（Remixpoint → SBI への移動）

@@ -2,10 +2,11 @@
 source: agent-economy/ai-company-payment-landscape
 source_hash: 410791e81df5d6a4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AI 企業の決済方式の現状"
-translated_at: 2026-06-02T11:47:37.262Z
+translated_at: 2026-06-26T08:32:15.192Z
 ---
 
 # AI 企業の決済方式の現状

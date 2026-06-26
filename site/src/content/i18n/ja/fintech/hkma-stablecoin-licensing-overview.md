@@ -2,10 +2,11 @@
 source: fintech/hkma-stablecoin-licensing-overview
 source_hash: d810c9f03d036ac0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観"
-translated_at: 2026-06-02T13:21:55.033Z
+translated_at: 2026-06-26T08:29:33.004Z
 ---
 # HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観
 
@@ -45,7 +46,7 @@ translated_at: 2026-06-02T13:21:55.033Z
 
 ## 起源と発展
 
-HKMA は 2022-12 に SC 市中協議 を開始、2023-12 第二回 CP で サンドボックス リストを確立。2025-08 Stablecoin Ordinance 採択(立法に約 3 年)。2026-05-21 初回決定が重要なシグナルを発する:HKMA は「低政治リスク + 高コンプライアンス背景」を持つグローバル大手銀行(HSBC / StanChart)を優先発行、中国本土系大手 + グレー市場プレイヤーは遅延。準備金 FRTB 資本計量フレームワークは [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概観]]、アジア全景比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
+HKMA は 2022-12 に SC 市中協議 を開始、2023-12 第二回 CP で サンドボックスリストを確立。2025-08 Stablecoin Ordinance 採択(立法に約 3 年)。2026-05-21 初回決定が重要なシグナルを発する:HKMA は「低政治リスク + 高コンプライアンス背景」を持つグローバル大手銀行(HSBC / StanChart)を優先発行、中国本土系大手 + グレー市場プレイヤーは遅延。準備金 FRTB 資本計量フレームワークは [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概観]]、アジア全景比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
 ## 関連項目
 <!-- wiki-links:managed -->
@@ -54,7 +55,7 @@ HKMA は 2022-12 に SC 市中協議 を開始、2023-12 第二回 CP で サン
 - [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概観]]
 - [[fintech/jurisdiction-list-monetary-protectionism|管轄区域リスト通貨保護主義]]
 - [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC issuer · 三円ホワイト圏対照]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC 発行会社 · 三円ホワイト圏対照]]
 <!-- /wiki-links:managed -->
 
 ## 出典

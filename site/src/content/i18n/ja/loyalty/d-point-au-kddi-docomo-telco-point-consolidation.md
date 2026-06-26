@@ -2,10 +2,11 @@
 source: loyalty/d-point-au-kddi-docomo-telco-point-consolidation
 source_hash: 66b30eea4589ecf4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "dポイント（NTT docomo）vs au PAY ポイント（KDDI） — 通信キャリアを起点とする日本のポイント統合"
-translated_at: 2026-06-19T06:09:18.030Z
+translated_at: 2026-06-26T08:31:59.823Z
 ---
 
 # dポイント（NTT docomo）vs au PAY ポイント（KDDI） — 通信キャリアを起点とする日本のポイント統合
@@ -126,9 +127,7 @@ V Point との構造的比較（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC ×
 
 ポイント負債の問題 — 失効 / 没収されたポイントを収益（ブレッケージ）として取り崩すべきか、どの率でか — は、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] に文書化された非自明な会計問題である。NTT docomo と KDDI はともに連結バランスシート上に多額のロイヤルティ負債を抱えており、ブレッケージ率の前提は報告収益に直接影響する。
 
-## 連合パートナーのメカニクス
-
-連合構造 — どのパートナーがどのポイントを受け入れるか、誰が発行を負担するか、誰が償還を支払うか — は、あらゆる共通ポイントプログラムの運用上の核である。
+## 連合パートナーのメカニクス連合構造 — どのパートナーがどのポイントを受け入れるか、誰が発行を負担するか、誰が償還を支払うか — は、あらゆる共通ポイントプログラムの運用上の核である。
 
 | 側面 | d Point | au PAY ポイント |
 |---|---|---|

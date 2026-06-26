@@ -2,10 +2,11 @@
 source: trust-banks/alterna-trust
 source_hash: 22f949f4ccb1cd6f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "オルタナ信託"
-translated_at: 2026-06-24T09:30:00.000Z
+translated_at: 2026-06-26T08:32:15.214Z
 ---
 # オルタナ信託 (Alterna Trust)
 
@@ -17,7 +18,7 @@ Use this page for digital securities, security-token trust, beneficiary-certific
 
 ## TL;DR
 
-オルタナ信託は、Mitsui & Co. Digital Asset Management (MDM) と [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]] が設立した digital-securities-focused trust company。SMTG English release は Alterna Trust を digital securities に特化した trust company と説明し、beneficiary-certificate issuing trust の administration が ST issuance で重要な役割を持つと述べる。^[source:smtg-alterna-release-2025] MDM release は、ALTERNA brand のもとで ST の取得・運用・受託・販売を一気通貫で提供する体制を構築し、[[payment-firms/progmat|Progmat]] が Progmat SaaS を MDM と Alterna Trust に提供すると説明する。^[source:mdm-alterna-release-2025] FSA trust-company workbook では、オルタナ信託株式会社が 2025-07-03 免許日、法人番号 9010001253166、所在地 東京都中央区日本橋堀留町1-9-8 として掲載される。^[source:fsa-trust-list-2026]
+オルタナ信託は、Mitsui & Co. Digital Asset Management (MDM) と [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]] が設立した digital-securities-focused trust company。SMTG English release は Alterna Trust を digital securities に特化した trust company と説明し、beneficiary-certificate issuing trust の administration が ST issuance で重要な役割を持つと述べる。^[source:smtg-alterna-release-2025] MDM release は、ALTERNA brand のもとで ST の取得・運用・受託・販売を一気通貫で提供する体制を構築し、[[payment-firms/progmat|Progmat]] が Progmat SaaS を MDM と Alterna Trust に提供すると説明する。^[source:mdm-alterna-release-2025] FSA trust-company workbook では、オルタナ信託株式会社が 2025-07-03 免許日、法人番号 9010001253166、所在地東京都中央区日本橋堀留町1-9-8 として掲載される。^[source:fsa-trust-list-2026]
 
 ## Entity boundary
 
@@ -29,7 +30,7 @@ Use this page for digital securities, security-token trust, beneficiary-certific
 | Representative | MDM and SMTG releases name Shosaku Ikeda / 池田匠作 as representative president / CEO.^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
 | Capital / ownership | SMTG release gives capital including capital reserves JPY 665mn and investment ratio MDM 85.1%, SuMiTB 14.9%.^[source:smtg-alterna-release-2025] |
 
-This is not a securities broker, exchange, or stablecoin issuer page. The useful boundary is the **trustee / trust-administration role** for security-token fund structures.
+This is not a securities broker, exchange, or stablecoin 発行会社 page. The useful boundary is the **trustee / trust-administration role** for security-token fund structures.
 
 ## Digital securities trust role
 
@@ -53,7 +54,7 @@ MDM is the platform / asset-management side of the structure. Its release says M
 
 ### Progmat boundary
 
-[[payment-firms/progmat|Progmat]] is infrastructure, not the trust company. MDM release describes Progmat SaaS as a product enabling financial institutions to start digital-asset-related businesses such as ledger-management and custody functions without building their own blockchain / DLT nodes.^[source:mdm-alterna-release-2025]
+[[payment-firms/progmat|Progmat]] is infrastructure, not the trust company. MDM release describes Progmat SaaS as a product enabling financial institutions to start digital-asset-related businesses such as ledger-management and カストディ functions without building their own blockchain / DLT nodes.^[source:mdm-alterna-release-2025]
 
 ## Why standalone page matters
 

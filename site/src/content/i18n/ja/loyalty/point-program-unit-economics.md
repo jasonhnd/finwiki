@@ -2,25 +2,20 @@
 source: loyalty/point-program-unit-economics
 source_hash: e642486f2a1c480f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ポイントプログラムのユニットエコノミクス（日本のロイヤルティの資金原資、フロート、ブレッケージ、CPA）"
-translated_at: 2026-06-18T15:47:13.955Z
+translated_at: 2026-06-26T08:28:38.467Z
 ---
 
 # ポイントプログラムのユニットエコノミクス（日本のロイヤルティの資金原資、フロート、ブレッケージ、CPA）
 
-## Wiki ルート
+## Wiki ルート本項目は**ユニットエコノミクス／資金原資の仕組み**のページとして [[loyalty/INDEX|loyalty index]] の下に位置する。これは [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] の経済的な補完である：あちらのページは*ポイントがどのように分類されるか*を問い、本ページは*そのプログラムが利益を生むのか、そして誰が負担するのか*を問う。本ページは [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム地図、[[loyalty/retail-media-points-data-loop|retail-media points data loop]] のデータ収益化のフライホイール、および [[loyalty/point-exchange-network-risk|point exchange network risk]] の事業者間移転の仕組みと併せて読まれる。有利なポイント経済性の川下の受益者はグループ金融である：[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]。
 
-本項目は**ユニットエコノミクス／資金原資の仕組み**のページとして [[loyalty/INDEX|loyalty index]] の下に位置する。これは [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] の経済的な補完である：あちらのページは*ポイントがどのように分類されるか*を問い、本ページは*そのプログラムが利益を生むのか、そして誰が負担するのか*を問う。本ページは [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム地図、[[loyalty/retail-media-points-data-loop|retail-media points data loop]] のデータ収益化のフライホイール、および [[loyalty/point-exchange-network-risk|point exchange network risk]] の事業者間移転の仕組みと併せて読まれる。有利なポイント経済性の川下の受益者はグループ金融である：[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]。
+## 要旨ポイントプログラムの経済性は、小さな等式に還元される：**資金原資 − 償還コスト − 運営コスト + ブレッケージ利益 + フロート利回り + 収益化（リテールメディア／金融クロスセル）= プログラムのマージン。**構造的に興味深い二つの項は、**ブレッケージ**（付与されたが決して償還されないポイントは、その*計上時点*が ASBJ 企業会計基準第 29  号／IFRS 第 15 号に支配される、ほぼ純粋なマージン利益である）と、**フロート**（ポイント負債を付与してから償還の支払いをするまでの差は、無利息の資金原資の残高である）である。プログラムが利益を生むかどうかは、表向きの還元率よりも、**誰がポイントの原資を負担するか**（加盟店か事業者か）、**ブレッケージがどれほど高く推移するか**、そして**ID グラフが収益化されているか**に左右される。「1% 還元」のプログラムは一つの経済的対象ではない；それらの答え次第で、少なくとも四つの非常に異なる対象である。
 
-## 要旨
-
-ポイントプログラムの経済性は、小さな等式に還元される：**資金原資 − 償還コスト − 運営コスト + ブレッケージ利益 + フロート利回り + 収益化（リテールメディア／金融クロスセル）= プログラムのマージン。**構造的に興味深い二つの項は、**ブレッケージ**（付与されたが決して償還されないポイントは、その*計上時点*が ASBJ 企業会計基準第 29  号／IFRS 第 15 号に支配される、ほぼ純粋なマージン利益である）と、**フロート**（ポイント負債を付与してから償還の支払いをするまでの差は、無利息の資金原資の残高である）である。プログラムが利益を生むかどうかは、表向きの還元率よりも、**誰がポイントの原資を負担するか**（加盟店か事業者か）、**ブレッケージがどれほど高く推移するか**、そして**ID グラフが収益化されているか**に左右される。「1% 還元」のプログラムは一つの経済的対象ではない；それらの答え次第で、少なくとも四つの非常に異なる対象である。
-
-## ユニットエコノミクスの等式
-
-付与されたポイントの代表的な一単位について、事業者の経済性は次のとおりである：
+## ユニットエコノミクスの等式付与されたポイントの代表的な一単位について、事業者の経済性は次のとおりである：
 
 | 項 | 符号 | ドライバー |
 |---|---|---|
@@ -56,9 +51,7 @@ translated_at: 2026-06-18T15:47:13.955Z
 
 設計上の選択はブレッケージを直接押し上げる：短い失効期間、限定利用のポイント（期間・用途限定）、および高い最低償還の閾値はすべてブレッケージを*高める* —— これが、限定利用のポイントがこれほど普及している（めったに明言されない）一因である。これの会計上の枠組みは [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]] におけるバケット 3  である。
 
-## フロート：無利息の資金原資の残高
-
-ポイントを付与してからその償還の支払いをするまでの間、事業者はまだ決済する必要のない**未償還の負債**を保有する。集計すると、これは大きく、ゆっくりと動く、無利息の残高である —— 保険のフロートやプリペイド手段のフロートに類似する：
+## フロート：無利息の資金原資の残高ポイントを付与してからその償還の支払いをするまでの間、事業者はまだ決済する必要のない**未償還の負債**を保有する。集計すると、これは大きく、ゆっくりと動く、無利息の残高である —— 保険のフロートやプリペイド手段のフロートに類似する：
 
 - 平均的な償還までの時間が長いほど、発行に対するフロートは大きくなる。
 - 大規模な共通ポイントやウォレットの場合、未償還のポイント負債は、完全に顧客により無利息で賄われる常設の残高である。
@@ -66,9 +59,7 @@ translated_at: 2026-06-18T15:47:13.955Z
 
 このフロートという読み方こそが、ポイント負債を金融グループにとって興味深いものにする：銀行／通信グループ（[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]）の内部にあるポイント事業者は、顧客原資の残高と日次頻度の接点とを一度に提供する。
 
-## バランスシートの視点：顧客原資のフロートとしての負債
-
-一単位あたりの等式から一歩引くと、*集計された*未償還のポイント残高は、バランスシート上で独特のプロフィールを持つ。いったん付与されると、未償還のポイントは常設の負債であり、四つの属性が相まって、それに教科書的な**フロート**の形を与える：
+## バランスシートの視点：顧客原資のフロートとしての負債一単位あたりの等式から一歩引くと、*集計された*未償還のポイント残高は、バランスシート上で独特のプロフィールを持つ。いったん付与されると、未償還のポイントは常設の負債であり、四つの属性が相まって、それに教科書的な**フロート**の形を与える：
 
 | 属性 | 含意 |
 |---|---|
@@ -88,22 +79,18 @@ translated_at: 2026-06-18T15:47:13.955Z
 | 現金等価性 | 通常は限定利用で、現金との近さが低い | 現金により近い；償還可能性／譲渡可能性が重要 |
 | ブレッケージの論理 | 失効により駆動され、見積りに大きく依存 | プリペイド規則／未使用残高の取扱いに制約される |
 
-両者の間の線はまさに [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] である —— 現金チャージ型になる、あるいは自由に譲渡可能になるポイントは、プリペイド制度へと**越える**ことができ、その規制とそのフロートの取扱いの両方を変える。
+両者の間の線はまさに [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] である —— 現金チャージ型になる、あるいは自由に譲渡可能になるポイントは、プリペイド制度へと**越える**ことができ、その規制とそのフロートの取扱いの両方を変える。
 
-### フロートのリスク面
-
-顧客原資のフロートはタダの金ではない；アナリストが価格づけすべき残高固有のリスクを伴う：
+### フロートのリスク面顧客原資のフロートはタダの金ではない；アナリストが価格づけすべき残高固有のリスクを伴う：
 
 | リスク | それが何か | 対照して読むもの |
 |---|---|---|
 | 償還の急増 | キャンペーンや失効の変更が償還を加速させる → フロートが流出し、現金がモデル化より速く出ていく | [[loyalty/point-program-unit-economics|unit economics]] |
 | ブレッケージの誤った見積り | 楽観的なブレッケージは収益を前倒しする；事後調整がそれを反転させる | [[loyalty/point-liability-accounting-boundary|accounting boundary]] |
-| 再分類 | 現金類似となるポイントがプリペイド制度へと移り、保全／登録の義務を高める | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] |
+| 再分類 | 現金類似となるポイントがプリペイド制度へと移り、保全／登録の義務を高める | [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] |
 | プログラム間の漏出 | 他の事業者／マイレージへの交換が、決済レートで価値をオフバランスへと移す | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
 
-## 収益化：薄いプログラムが利益化する場所
-
-資金原資 − 償還 − コストだけで判断されるポイントプログラムは、ぎりぎりに見えうる。それを反転させる項は、**ブレッケージ**、**フロート**、および **ID グラフの収益化** —— [[loyalty/retail-media-points-data-loop|the retail-media data-loop page]] に示されるリテールメディア + 金融クロスセルのフライホイール —— である。これが「赤字」のウォレットに対する整合の説明である：
+## 収益化：薄いプログラムが利益化する場所資金原資 − 償還 − コストだけで判断されるポイントプログラムは、ぎりぎりに見えうる。それを反転させる項は、**ブレッケージ**、**フロート**、および **ID グラフの収益化** —— [[loyalty/retail-media-points-data-loop|the retail-media data-loop page]] に示されるリテールメディア + 金融クロスセルのフライホイール —— である。これが「赤字」のウォレットに対する整合の説明である：
 
 - キャンペーン重視のウォレットは、事業者原資の付与を即時の費用として計上する（損益計算書は悪く見える）。
 - 同じ支出が、最も豊かな ID グラフと最も深い日次頻度のファネルを買う。
@@ -125,10 +112,10 @@ translated_at: 2026-06-18T15:47:13.955Z
 - [[loyalty/retail-media-points-data-loop|retail-media points data loop]]
 - [[loyalty/point-exchange-network-risk|point exchange network risk]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]
-- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
-- [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]
+- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
+- [[payments/japan-prepaid-electronic-money-operator-matrix|Japan 前払式 electronic-money 事業者 matrix]]
 - [[payments/INDEX|payments INDEX]]
 - [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[megabanks/ndfg|NDFG]]

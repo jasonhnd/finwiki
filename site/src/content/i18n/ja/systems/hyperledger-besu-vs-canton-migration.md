@@ -2,10 +2,11 @@
 source: systems/hyperledger-besu-vs-canton-migration
 source_hash: b618a2b3e20083e7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Hyperledger Besu vs Canton · JPM 主戦場移行経路"
-translated_at: 2026-06-03T01:06:46.360Z
+translated_at: 2026-06-26T08:29:40.695Z
 ---
 # Hyperledger Besu vs Canton · JPM 主戦場移行経路
 
@@ -22,7 +23,7 @@ translated_at: 2026-06-03T01:06:46.360Z
 
 ## 仕組み
 
-Quorum/Besu の優位性は EVM 互換性にある。Solidity ツールチェーンを再利用でき、銀行顧客の受容度も高い。Ethereum の概念にすでに親しんでいるためである。一方で、multi-party atomic settlement には複雑なコントラクトの組み合わせが必要になる。また、Constellation の off-chain payload 隔離は、規制視点では application-level データ隔離ほどクリーンではない。
+Quorum/Besu の優位性は EVM 互換性にある。Solidity ツールチェーンを再利用でき、銀行顧客の受容度も高い。Ethereum の概念にすでに親しんでいるためである。一方で、multi-party atomic 決済 には複雑なコントラクトの組み合わせが必要になる。また、Constellation の off-chain payload 隔離は、規制視点では application-level データ隔離ほどクリーンではない。
 
 Canton はネイティブで DAML(functional + obligation-based language)、マルチパーティアトミック決済、privacy by design を提供する。機関顧客(投資銀行 + 資産運用 + カストディ)は、同一 ledger 上で互いに完全な状態を露出することなく協業できる。JPM が Kinexys 上で行おうとしている 24/7 repo 市場 + collateral mobility では、Canton のプリミティブの適合度が Quorum を顕著に上回る。
 

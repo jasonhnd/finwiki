@@ -2,19 +2,16 @@
 source: trust-banks/asahi-trust
 source_hash: eb98944b8abf8ffb
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "朝日信託"
-translated_at: 2026-06-02T14:01:20.967Z
+translated_at: 2026-06-26T08:32:23.074Z
 ---
 
-# 朝日信託
+# 朝日信託ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
 
-ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
-
-## 概要
-
-朝日信託は、金融庁の信託会社登録に掲載される運用型信託会社である。FinWiki マップでは、[[trust-banks/mitsubishi-ufj-trust-bank]] や [[trust-banks/smtb]] のような信託銀行カストディページとは別に、個人信託、エステートプランニング、相続、家族資産管理サービスへの独立したルートとして位置づける。
+## 概要朝日信託は、金融庁の信託会社登録に掲載される運用型信託会社である。FinWiki マップでは、[[trust-banks/mitsubishi-ufj-trust-bank]] や [[trust-banks/smtb]] のような信託銀行カストディページとは別に、個人信託、エステートプランニング、相続、家族資産管理サービスへの独立したルートとして位置づける。
 
 ## エンティティ境界
 
@@ -26,7 +23,7 @@ translated_at: 2026-06-02T14:01:20.967Z
 |---|---|
 | 個人信託 | エステート、相続、家族資産管理。 |
 | 信託会社登録 | [[trust-banks/trust-companies-japan-index]] の一行。 |
-| 銀行との対比 | [[banking/japan-trust-bank-custody-map|trust-bank custody]] やマスタートラスト基盤とは異なる。 |
+| 銀行との対比 | [[banking/japan-trust-bank-custody-map|trust-bank カストディ]] やマスタートラスト基盤とは異なる。 |
 | 政策文脈 | 市場インフラよりも高齢化社会と承継計画に関係する。 |
 
 ## 公開情報上の位置づけ

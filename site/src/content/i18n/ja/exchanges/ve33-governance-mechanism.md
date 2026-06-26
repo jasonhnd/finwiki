@@ -2,10 +2,11 @@
 source: exchanges/ve33-governance-mechanism
 source_hash: fc7acc2300644603
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ve（3,3）ガバナンス機構 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化"
-translated_at: 2026-06-02T12:19:04.258Z
+translated_at: 2026-06-26T08:29:09.710Z
 ---
 
 # ve（3,3）ガバナンス機構 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化
@@ -23,7 +24,7 @@ translated_at: 2026-06-02T12:19:04.258Z
 
 - **lock**: トークン を 1 週〜4 年 lock すると veToken (NFT) 発行 · lock 期間長いほど veToken 比率増 (例: 4 年 lock = 1.0x, 1 年 = 0.25x)
 - **vote**: veToken 保有者が weekly epoch で emission の流向 (どの LP プールにリワード) を投票で決定
-- **bribe**: 第三者 (トークン プロジェクト) が "投票誘導料" を支払い、自分の LP プールに emission 誘導 → bribe market 形成
+- **bribe**: 第三者 (トークンプロジェクト) が "投票誘導料" を支払い、自分の LP プールに emission 誘導 → bribe market 形成
 - **rebase**: emission の一部が既存 veToken 保有者に再分配 → 希薄化緩和 + holder loyalty 醸成
 
 ## 主要 protocol 比較
@@ -32,12 +33,12 @@ translated_at: 2026-06-02T12:19:04.258Z
 - **Solidly** (2022-02): Andre Cronje が抽象化 · Fantom · 即座失敗 (rug + Cronje 引退) · 設計思想は後継に継承
 - **Velodrome** (2022-06, Optimism): Solidly fork · veVELO · Optimism native DEX · 最初の成功実装
 - **Aerodrome** (2023-08, Base): Velodrome v2 fork · veAERO · Base native DEX · Uniswap 反転事例 (Base 上で TVL #1)
-- **Equalizer** (Sonic), **Thena** (BNB), **Camelot** (Arbitrum) 等多数 ecosystem 派生
+- **Equalizer** (Sonic), **Thena** (BNB), **Camelot** (Arbitrum) 等多数経済圏派生
 
 ## 経済学的役割
 
 - **流動性 segmentation**: emission 投票で "戦略 LP" 形成 (L2 主導方が重要資産プールに集中)
-- **bribe market**: トークン プロジェクトが流動性誘導に支払い、リアルマネー化 (例: Aerodrome bribe = 週次数百万 USD)
+- **bribe market**: トークンプロジェクトが流動性誘導に支払い、リアルマネー化 (例: Aerodrome bribe = 週次数百万 USD)
 - **host alignment**: L2 主導方 (Coinbase Ventures / Optimism Foundation) が veToken 保有で chain native economy 闭環 · cbBTC/USDC のような host 資産流動性を内製化
 
 ## リスクと制約
@@ -45,7 +46,7 @@ translated_at: 2026-06-02T12:19:04.258Z
 - **ガバナンス集中**: ve 保有 top 10 が emission 支配 → 寡頭化 · "veWhale" 問題
 - **veトークンomics 複雑化**: 一般 LP の UX 悪化 · lock 期間 + NFT + bribe + rebase が learning curve 急
 - **chain 依存性**: native DEX の宿命 (L2 衰退時連鎖) · Velodrome は Optimism stagnation で TVL 縮小
-- **emission 持続性**: トークン 価格下落で APR 崩壊 → flywheel 逆回転リスク
+- **emission 持続性**: トークン価格下落で APR 崩壊 → flywheel 逆回転リスク
 
 ## 関連項目
 
@@ -53,6 +54,6 @@ translated_at: 2026-06-02T12:19:04.258Z
 - [[exchanges/vetoken-host-protocol-flywheel]] (Coinbase × Aerodrome × cbBTC)
 - [[exchanges/global-dex-major-five-comparison]]
 - [[exchanges/amm-design-evolution]]
-- [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
+- [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX comparison]]
 - [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure arm analog]]
 - [[exchanges/cex-native-token-strategy-comparison|CEX ネイティブトークン戦略比較]]

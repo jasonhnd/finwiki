@@ -2,10 +2,11 @@
 source: megabanks/japan-financial-conglomerate-structure-overview
 source_hash: 5535ad674c33dad3
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan financial conglomerate structure overview"
-translated_at: 2026-06-19T06:09:18.104Z
+translated_at: 2026-06-26T08:32:07.555Z
 ---
 
 # Japan financial conglomerate structure overview
@@ -43,7 +44,7 @@ translated_at: 2026-06-19T06:09:18.104Z
 
 | Entity | Holding | Trust bank | Specialty |
 |---|---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|SuMi Trust HD]] | Sumitomo Mitsui Trust Holdings | Sumitomo Mitsui Trust Bank | Pension trust, master-trust / custody, real-estate trust, asset administration. |
+| [[trust-banks/sumitomo-mitsui-trust|SuMi Trust HD]] | Sumitomo Mitsui Trust Holdings | Sumitomo Mitsui Trust Bank | Pension trust, master-trust / カストディ, real-estate trust, asset administration. |
 
 SuMi トラストは SMFG とは構造的に別である — 類似した命名にもかかわらず同じグループではない。SuMi トラストは日本最大の純粋信託グループである。カストディ比較については [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]] を、マスタートラストの状況については [[banking/japan-master-trust-and-custody-bank-landscape]] を参照。
 

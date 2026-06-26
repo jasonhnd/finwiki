@@ -2,32 +2,31 @@
 source: payment-firms/western-union-japan
 source_hash: 13b387e989cd2dd1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ウエスタンユニオンジャパン (Western Union Japan)"
-translated_at: 2026-06-15T03:48:21.872Z
+translated_at: 2026-06-26T08:31:59.842Z
 ---
 
 # ウエスタンユニオンジャパン (Western Union Japan)
 
 ## Wiki 上の位置づけ
 
-本項目は [[payment-firms/INDEX|payment-firms INDEX]]（そのドメインルート）の下に位置する。ピア／対比（クロスボーダー送金／資金移動）としては [[payment-firms/sbi-remit|SBIレミット]] および [[payment-firms/travelex-japan|トラベレックスジャパン]] と併せて読み、監督／システムの境界については [[financial-regulators/fsa|the FSA]] および [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] と併せて読むこと。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]]（そのドメインルート）の下に位置する。ピア／対比（クロスボーダー送金／資金移動）としては [[payment-firms/sbi-remit|SBIレミット]] および [[payment-firms/travelex-japan|トラベレックスジャパン]] と併せて読み、監督／システムの境界については [[financial-regulators/fsa|the FSA]] および [[payments/funds-transfer-vs-prepaid-boundary|the 資金移動 vs 前払式 boundary]] と併せて読むこと。
 
-## 要約
-
-ウエスタンユニオンジャパン株式会社は、Western Union グループの日本 **資金移動業者**（funds-transfer operator under 資金決済法; 関東財務局長 第00039号、平成27年8月18日登録）。本社は東京・港区虎ノ門。cash pickup / agent network 型 remittance の代表例で、移民・旅行・越境家計フロー向けの国際送金を提供する。
+## 要約ウエスタンユニオンジャパン株式会社は、Western Union グループの日本 **資金移動業者**（資金移動事業者 under 資金決済法; 関東財務局長第00039号、平成27年8月18日登録）。本社は東京・港区虎ノ門。cash pickup / agent network 型 remittance の代表例で、移民・旅行・越境家計フロー向けの国際送金を提供する。
 
 ## 1. ライセンス／グループ境界
 
 | 項目 | 備考 |
 |---|---|
 | 法人名 | ウエスタンユニオンジャパン株式会社 |
-| ライセンス区分 | 資金移動業者（funds-transfer, 資金決済法）; FSA 関東財務局長 第00039号（2015-08 登録） |
+| ライセンス区分 | 資金移動業者（資金移動, 資金決済法）; FSA 関東財務局長第00039号（2015-08 登録） |
 | 親会社／グループ | Western Union group（foreign parent） |
 | 主要レーン | 国際送金、エージェント網、cash receipt / payout |
 | 本社 | 東京・港区虎ノ門 |
-| Wiki 上の役割 | Western Union の日本 funds-transfer 実体ページ |
+| Wiki 上の役割 | Western Union の日本資金移動実体ページ |
 
 ## 2. 事業モデル
 
@@ -45,7 +44,7 @@ Western Union のグローバルブランドは馴染み深いが、実際のサ
 - [[payment-firms/sbi-remit|SBI Remit]]
 - [[payment-firms/travelex-japan|Travelex Japan]]
 - [[payment-firms/wise-payments-japan|Wise Payments Japan]]
-- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

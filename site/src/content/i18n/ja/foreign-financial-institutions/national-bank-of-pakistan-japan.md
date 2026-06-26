@@ -2,17 +2,18 @@
 source: foreign-financial-institutions/national-bank-of-pakistan-japan
 source_hash: 368b5e4b81742e6c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "パキスタン・ナショナル銀行日本"
-translated_at: 2026-06-02T14:54:39.068Z
+translated_at: 2026-06-26T08:32:15.225Z
 ---
 
 # パキスタン・ナショナル銀行日本
 
 ## ウィキ上の位置づけ
 
-National Bank of Pakistan Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] に属し、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における外国銀行支店ルートである。南アジア回廊の比較では [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]]、送金文脈では [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、関連する銀行文脈では [[banking/INDEX|banking index]] と併せて読む。
+National Bank of Pakistan Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] に属し、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における外国銀行支店ルートである。南アジア回廊の比較では [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]]、送金文脈では [[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、関連する銀行文脈では [[banking/INDEX|banking index]] と併せて読む。
 
 このページは、Pakistan-Japan の送金、貿易金融、預金、南アジア回廊銀行に関する論点で利用する。
 
@@ -31,7 +32,7 @@ National Bank of Pakistan の東京支店公開ページでは、同行は 1949,
 | 本国法域 | Pakistan |
 | 所有に関する注記 | 東京支店の公開ページでは、NBP は Government of Pakistan が過半を保有すると説明されている。 |
 | 日本でのサービス | 東京支店の公開ページでは、預金、貿易金融、送金が示されている。 |
-| 規制上の経路 | 金融庁 外国銀行支店一覧 |
+| 規制上の経路 | 金融庁外国銀行支店一覧 |
 
 ## 事業上の役割マップ
 

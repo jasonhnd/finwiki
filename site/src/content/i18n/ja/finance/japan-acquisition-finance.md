@@ -2,10 +2,11 @@
 source: finance/japan-acquisition-finance
 source_hash: 7bfc94ba8fd303c0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の買収ファイナンス"
-translated_at: 2026-06-02T13:21:55.074Z
+translated_at: 2026-06-26T08:29:09.710Z
 ---
 ﻿
 # 日本の買収ファイナンス
@@ -14,11 +15,9 @@ translated_at: 2026-06-02T13:21:55.074Z
 
 このページは [[finance/INDEX|finance domain]] の配下に位置する。案件が公開開示、証券引受、銀行融資をまたぐ場合は、[[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/INDEX|securities domain]]、[[banking/INDEX|banking domain]] とあわせて読む。
 
-## 概要
+## 概要日本の買収ファイナンスは、M&A、LBO、MBO、スポンサー買収、事業会社買収、公開買付けの背後にあるデット・ファイナンスのルートである。基本的な積み上げは、買い手 / スポンサー -> SPCまたは新設会社 -> 自己資金拠出 -> シニア債務 -> メザニンまたは劣後債務 -> ブリッジ / 債券による借換え -> ヘッジ -> 担保パッケージ -> クロージング後の借換えで構成される。
 
-日本の買収ファイナンスは、M&A、LBO、MBO、スポンサー買収、事業会社買収、公開買付けの背後にあるデット・ファイナンスのルートである。基本的な積み上げは、買い手 / スポンサー -> SPCまたは新設会社 -> 自己資金拠出 -> シニア債務 -> メザニンまたは劣後債務 -> ブリッジ / 債券による借換え -> ヘッジ -> 担保パッケージ -> クロージング後の借換えで構成される。
-
-このページは [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[banking/post-megabank-positioning|post-megabank positioning]] とあわせて使う。
+このページは [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[securities/japan-underwriting-market-structure|引受 market structure]]、[[banking/post-megabank-positioning|post-megabank positioning]] とあわせて使う。
 
 ## ディール構造
 
@@ -87,7 +86,7 @@ translated_at: 2026-06-02T13:21:55.074Z
 2. 買収債務と通常の運転資金ファシリティを分ける。
 3. 対象会社が上場会社の場合、公開TOB / TDnet / EDINET文書を取得する。
 4. レンダーのコミットメントが確定済み、条件付き、シンジケート型、またはブリッジ型のどれかを確認する。
-5. アドバイザーランキングは [[finance/japan-ib-league-table|IB league table]] に、証券引受上の論点は [[securities/japan-underwriting-market-structure|underwriting market structure]] に接続する。
+5. アドバイザーランキングは [[finance/japan-ib-league-table|IB league table]] に、証券引受上の論点は [[securities/japan-underwriting-market-structure|引受 market structure]] に接続する。
 
 ## 注意点
 

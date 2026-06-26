@@ -2,17 +2,18 @@
 source: loyalty/point-economy-funding-source-comparison
 source_hash: c34c69ec900df8b5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "日本のポイント経済 資金源比較 (V / 楽天 / d / PayPay / Ponta アンカー)"
-translated_at: 2026-06-15T03:48:21.856Z
+title: "日本のポイント経済資金源比較 (V / 楽天 / d / PayPay / Ponta アンカー)"
+translated_at: 2026-06-26T08:28:38.465Z
 ---
 
-# 日本のポイント経済 資金源比較 (V / 楽天 / d / PayPay / Ponta アンカー)
+# 日本のポイント経済資金源比較 (V / 楽天 / d / PayPay / Ponta アンカー)
 
 ## Wiki 内の位置づけ
 
-本項目は [[loyalty/INDEX|loyalty index]] の下に、**クロスシステム比較** ページとして位置する：オペレーターごとの深掘りではなく、5 大共通ポイントシステムを、その経済性を実際に決定づける次元 —— **何がプログラムをアンカーし、誰がポイントを資金供給するか** —— で *横並びに* 読み解く。単一オペレーター深掘りである [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point ecosystem deep]]、[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、[[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]、[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]、[[loyalty/ponta-points-deep-dive|Ponta points deep dive]] の比較対象としての補完である。経済的な背骨は [[loyalty/point-program-unit-economics|point program unit economics]]、プログラム一覧は [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]。
+本項目は [[loyalty/INDEX|loyalty index]] の下に、**クロスシステム比較** ページとして位置する：オペレーターごとの深掘りではなく、5 大共通ポイントシステムを、その経済性を実際に決定づける次元 —— **何がプログラムをアンカーし、誰がポイントを資金供給するか** —— で *横並びに* 読み解く。単一オペレーター深掘りである [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point 経済圏 deep]]、[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、[[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]、[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]、[[loyalty/ponta-points-deep-dive|Ponta points deep dive]] の比較対象としての補完である。経済的な背骨は [[loyalty/point-program-unit-economics|point program unit economics]]、プログラム一覧は [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]。
 
 ## TL;DR
 
@@ -20,26 +21,24 @@ translated_at: 2026-06-15T03:48:21.856Z
 
 ## 5 つのアンカー一覧
 
-| System | Anchor asset | Primary sponsor / operator | Finance destination | Comparison page |
+| System | Anchor asset | Primary sponsor / 事業者 | Finance destination | Comparison page |
 |---|---|---|---|---|
 | **V Point** | 銀行 + クレジットカード | SMBC / CCCMK (SMFG-CCC JV) | [[megabanks/smfg|SMFG]] / Olive | [[loyalty/v-point-smbc-ccc-case|V Point case]] |
 | **楽天ポイント** | EC 習慣 (楽天市場) | Rakuten Group | [[payment-firms/rakuten-fg|Rakuten FG]] | [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point deep]] |
-| **d ポイント** | 携帯回線 (docomo) | NTT docomo | [[megabanks/ndfg|NDFG]] | [[loyalty/d-point-detailed-ecosystem|d Point ecosystem]] |
+| **d ポイント** | 携帯回線 (docomo) | NTT docomo | [[megabanks/ndfg|NDFG]] | [[loyalty/d-point-detailed-ecosystem|d Point 経済圏]] |
 | **PayPay ポイント** | コード決済ウォレット | PayPay / SoftBank / LY | [[megabanks/paypay-fg|PayPay FG]] | [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay unified points]] |
 | **Ponta** | 連合 (ローソン / KDDI / リクルート) | Loyalty Marketing Inc. | au PAY / KDDI route | [[loyalty/ponta-points-deep-dive|Ponta deep dive]] |
 
 銀行主導 vs 通信主導の対照（V Point vs d-point/au）は [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|the telco-point consolidation case]] でさらに展開される。
 
-## アンカー別の資金源
+## アンカー別の資金源アンカーは資金構成を予測する。各アンカーがポイントを異なる形で収益化するからである。[[loyalty/point-program-unit-economics|unit economics]] の資金モデル枠組みにマッピングすると：
 
-アンカーは資金構成を予測する。各アンカーがポイントを異なる形で収益化するからである。[[loyalty/point-program-unit-economics|unit economics]] の資金モデル枠組みにマッピングすると：
-
-| System | Merchant-funded core | Operator-funded overlay | Issuer-funded (card) | Self-funded (group retail) |
+| System | 加盟店-funded core | 事業者-funded overlay | 発行会社-funded (card) | Self-funded (group retail) |
 |---|---|---|---|---|
 | V Point | 共通ポイント受入れ | プロモーション | SMBC Card / Olive reward | — |
 | 楽天ポイント | マーケットプレイス出店手数料 | **SPU 倍率 + キャンペーン** | 楽天カード reward | — |
 | d ポイント | パートナー受入れ | d払い campaigns | d Card reward | — |
-| PayPay ポイント | 加盟店受入れ | **大規模キャンペーン 還元** | PayPay Card reward | — |
+| PayPay ポイント | 加盟店受入れ | **大規模キャンペーン還元** | PayPay Card reward | — |
 | Ponta | 連合パートナー手数料 | au PAY / Recruit campaigns | — | ローソン店舗マージン |
 
 二つのパターンが際立つ。**ウォレットアンカー型** システム（PayPay、および楽天の SPU レイヤー）はオペレーター負担型キャンペーンに最も強く依存する —— それらは頻度と ID グラフを買っているのであり、金融クロスセルとデータ収益化を勘定に入れるまでは「赤字に見える」（その帳尻合わせは [[loyalty/retail-media-points-data-loop|the data-loop page]] にある）。**連合アンカー型** の Ponta は資金を複数の無関係なスポンサーに分散させ、それにより単一スポンサーのコストは下がるが、結果として生まれるグラフを誰が所有するかは希薄化する。
@@ -78,9 +77,9 @@ translated_at: 2026-06-15T03:48:21.856Z
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/retail-media-points-data-loop|retail-media points data loop]]
 - [[loyalty/point-exchange-network-risk|point exchange network risk]]
-- [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point ecosystem deep]]
+- [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point 経済圏 deep]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) / docomo telco-point consolidation case]]

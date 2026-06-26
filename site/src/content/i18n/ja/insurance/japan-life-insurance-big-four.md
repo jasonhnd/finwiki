@@ -2,10 +2,11 @@
 source: insurance/japan-life-insurance-big-four
 source_hash: 25903deec54119d9
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の生命保険ビッグフォー"
-translated_at: 2026-06-02T14:01:20.897Z
+translated_at: 2026-06-26T08:32:23.045Z
 ---
 # 日本の生命保険ビッグフォー
 
@@ -13,7 +14,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 
 「日本の生命保険ビッグフォー」は市場で使われる略称であり、金融庁の正式分類ではない。通常は [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]] を指す。公開情報で比較できる項目には、法的形態、チャネル構造、商品構成、海外展開、資本開示、契約者 / 株主ガバナンスが含まれる。
 
-このページは [[insurance/INDEX|insurance domain]] の下に位置し、会社別ページには [[insurance/INDEX|insurance INDEX]] を使う。[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]、[[insurance/esr-economic-value-solvency|ESR]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/internet-life-insurance-business-model|internet life insurance business model]] とあわせて読む。
+このページは [[insurance/INDEX|insurance domain]] の下に位置し、会社別ページには [[insurance/INDEX|insurance INDEX]] を使う。[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]、[[insurance/esr-economic-value-solvency|ESR]]、[[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]]、[[insurance/internet-life-insurance-business-model|internet life insurance business model]] とあわせて読む。
 
 ## 比較スナップショット
 
@@ -24,9 +25,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 | [[life-insurers/meiji-yasuda|Meiji Yasuda]] | 相互会社を中核とする | 国内保障、営業職員 / 法人チャネル、相互会社ガバナンス | 相互会社ガバナンス |
 | [[life-insurers/sumitomo-life|Sumitomo Life]] | 相互会社を中核とする | 国内営業職員フランチャイズ、商品改革、ウェルネス / 健康隣接領域、海外投資 | 相互会社ガバナンス |
 
-## 法的形態
-
-ビッグフォーには、相互会社型保険会社と上場株式会社グループが含まれる。[[insurance/mutual-vs-stock-life-insurer|Mutual vs stock life insurer]] はこの法的形態の違いを記録する。相互会社型保険会社では契約者が社員となり、剰余、契約者配当、長期保障、資本管理を相互会社ガバナンスの下で開示する。上場株式会社グループは、株主還元、ROE / 資本コストの言語、上場会社報告を通じた資本配分を開示する。
+## 法的形態ビッグフォーには、相互会社型保険会社と上場株式会社グループが含まれる。[[insurance/mutual-vs-stock-life-insurer|Mutual vs stock life insurer]] はこの法的形態の違いを記録する。相互会社型保険会社では契約者が社員となり、剰余、契約者配当、長期保障、資本管理を相互会社ガバナンスの下で開示する。上場株式会社グループは、株主還元、ROE / 資本コストの言語、上場会社報告を通じた資本配分を開示する。
 
 法的形態の項目は、ソルベンシー、チャネル、商品、海外戦略の項目とは分けて記録する。
 
@@ -37,14 +36,12 @@ translated_at: 2026-06-02T14:01:20.897Z
 | 営業職員 | 対面の生命保険・保障販売で歴史的に中心 | 生産性、継続率、採用、デジタル支援、コンプライアンス統制を比較する。 |
 | 法人 / 団体保険 | 職域、団体、従業員福利厚生のルートとして重要 | 団体保障の関係を個人リテール販売と分ける。 |
 | 銀行窓販 / 金融機関 | 貯蓄性商品、年金、単払商品で重要 | 提携銀行と適合性 / 販売慣行の統制を確認する。 |
-| 代理店 / 独立代理店 | 専属チャネルを補完し、獲得経路を分散しうる | [[insurance/insurance-agency-and-brokerage-japan|Agency and brokerage]] の法的 / チャネル分類。 |
+| 代理店 / 独立代理店 | 専属チャネルを補完し、獲得経路を分散しうる | [[insurance/insurance-agency-and-brokerage-japan|Agency and 証券仲介]] の法的 / チャネル分類。 |
 | オンライン / ダイレクト | 伝統的な対面チャネルとの対比ルート | [[life-insurers/lifenet|Lifenet]] と [[insurance/internet-life-insurance-business-model|internet life model]]。 |
 
 営業職員、銀行、オンライン、法人ルートで販売される商品は、継続率、獲得コスト、保険金支払い、金利感応度のプロファイルが異なる。会社別のチャネル開示は、[[insurance/esr-economic-value-solvency|ESR]] とソルベンシー開示とあわせて読むことができる。
 
-## 商品 / バランスシートの視点
-
-生命保険会社は単なる「保険料回収者」ではない。バランスシートは、投資ポートフォリオ、責任準備金、資本バッファに支えられた長期の約束である。ビッグフォーでは次を比較する。
+## 商品 / バランスシートの視点生命保険会社は単なる「保険料回収者」ではない。バランスシートは、投資ポートフォリオ、責任準備金、資本バッファに支えられた長期の約束である。ビッグフォーでは次を比較する。
 
 - 保障性商品と貯蓄 / 年金商品の違い。
 - 国内生命リスクと海外生命保険 / 資産運用エクスポージャー。
@@ -53,7 +50,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 - 再保険とグループリスク移転。
 - 資本目標レンジ、ESR、ソルベンシー・マージン、開示品質。
 
-規制背景には [[insurance/economic-value-based-solvency|economic-value solvency regulation]] を使い、実際の比率と経営陣コメントには各社の年次報告書 / 統合報告書を使う。
+規制背景には [[insurance/economic-value-based-solvency|economic-value ソルベンシー regulation]] を使い、実際の比率と経営陣コメントには各社の年次報告書 / 統合報告書を使う。
 
 ## 会社別メモ
 

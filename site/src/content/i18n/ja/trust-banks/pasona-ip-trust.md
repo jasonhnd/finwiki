@@ -2,23 +2,22 @@
 source: trust-banks/pasona-ip-trust
 source_hash: 06f14babc971c28a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "パソナ知財信託"
-translated_at: 2026-06-02T15:14:17.085Z
+translated_at: 2026-06-26T08:32:30.862Z
 ---
 
 # パソナ知財信託
 
 ## ウィキ上の位置づけ
 
-パソナ知財信託は、[[trust-banks/INDEX|trust-banks INDEX]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]と併せて参照する。
+パソナ知財信託は、[[trust-banks/INDEX|trust-banks INDEX]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]]と併せて参照する。
 
 知的財産信託、特許 / 産業財産権の管理、IPの収益化、非金融資産信託に関する質問で使うページである。
 
-## 概要
-
-パソナ知財信託は、知的財産向けの信託サービスとして、産業財産権の出願、権利維持、活用、管理を支援すると説明している。公開サイトでは、知的財産信託サービスの専門会社として紹介されている。
+## 概要パソナ知財信託は、知的財産向けの信託サービスとして、産業財産権の出願、権利維持、活用、管理を支援すると説明している。公開サイトでは、知的財産信託サービスの専門会社として紹介されている。
 
 このページが重要なのは、FinWikiの信託会社カバレッジを、金銭、証券、不動産、デジタル証券の外側へ広げるためである。IP信託は、無形資産管理と将来的なIPファイナンス分析のための独立したルートである。
 
@@ -44,9 +43,7 @@ translated_at: 2026-06-02T15:14:17.085Z
 | IP収益化の文脈 | 公開情報がある場合、ライセンス、証券化、担保、売却分析への橋渡しになり得る。 |
 | 非金融資産信託 | 不動産、動産、デジタル証券の信託会社との比較対象。 |
 
-## 公開情報上の文脈
-
-パソナ知財信託が有用なのは、無形資産が通常のバランスシート金融マップの外側に置かれやすいからである。信託構造は、企業再編、ライセンス、IP管理で重要になる管理、法的所有、経済的利用を分離し得る。
+## 公開情報上の文脈パソナ知財信託が有用なのは、無形資産が通常のバランスシート金融マップの外側に置かれやすいからである。信託構造は、企業再編、ライセンス、IP管理で重要になる管理、法的所有、経済的利用を分離し得る。
 
 パソナ知財信託または取引当事者が公開していない限り、現行の証券化、担保、融資商品を推定しない。
 

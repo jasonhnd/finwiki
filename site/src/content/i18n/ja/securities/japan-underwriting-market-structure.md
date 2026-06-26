@@ -2,16 +2,15 @@
 source: securities/japan-underwriting-market-structure
 source_hash: 15a05a0c8e290982
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の引受市場構造"
-translated_at: 2026-06-03T00:53:08.270Z
+translated_at: 2026-06-26T08:29:17.591Z
 ---
 # 日本の引受市場構造
 
-## 概要
-
-日本の引受は、発行体、証券会社、投資家、取引所、開示システム、決済インフラをつなぐ資本調達の橋渡しである。主幹事・主務幹事の役割は、単なる販売網ではない。デューデリジェンス、上場準備、価格決定、ブックビルディング、シンジケート調整、投資家保護の統制も支える。
+## 概要日本の引受は、発行体、証券会社、投資家、取引所、開示システム、決済インフラをつなぐ資本調達の橋渡しである。主幹事・主務幹事の役割は、単なる販売網ではない。デューデリジェンス、上場準備、価格決定、ブックビルディング、シンジケート調整、投資家保護の統制も支える。
 
 このページは、[[finance/japan-ib-league-table|Japan IB league table]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、および[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]]のような発行体・ブローカー各ページと併せて使う。
 
@@ -47,9 +46,7 @@ IPO と公募・売出しを分析する際は、四つの問いを分ける。
 
 取引所側のプロセスには JPX の上場前・上場ガイドページが有用である。証券会社の行為規制レイヤーには JSDA の規則と自主規制資料が有用である。EDINET と目論見書資料は公開開示レイヤーである。
 
-## DCM / 債券引受の読み方
-
-デット・キャピタル・マーケット分析では、別の制約群が加わる。
+## DCM / 債券引受の読み方デット・キャピタル・マーケット分析では、別の制約群が加わる。
 
 - 発行体格付 / クレジットスプレッド。
 - 銀行関係と投資家基盤。

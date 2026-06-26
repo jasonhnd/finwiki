@@ -2,10 +2,11 @@
 source: structured-finance/japan-credit-card-receivable-abs
 source_hash: ce83a1bc5667e0c8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のクレジットカード債権 ABS — マスタートラスト・フレームワーク、期間延長、デフォルト・トリガー"
-translated_at: 2026-06-19T12:43:19.978Z
+translated_at: 2026-06-26T08:29:40.691Z
 ---
 
 # 日本のクレジットカード債権 ABS — マスタートラスト・フレームワーク、期間延長、デフォルト・トリガー
@@ -18,9 +19,9 @@ translated_at: 2026-06-19T12:43:19.978Z
 
 本エントリは [[structured-finance/INDEX|structured-finance index]] の下に**リボルビング・カード・マスタートラスト運営メカニクス**ノードとして位置する。より広範な発行体ランドスケープとしての [[structured-finance/consumer-loan-abs-japan-card-issuer|consumer-loan / card-receivable ABS Japan]]、クローズドエンド・ローンとの対比（異なるプロダクト、類似の早期償還トリガー）としての [[structured-finance/japan-consumer-loan-abs-structure|Japan consumer-loan ABS structure]]、有担保プールのシーケンシャル・ペイとの対比としての [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]]、および方法論レイヤーとしての [[structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook|JCR / R&I securitization rating methodology operating playbook]] と対比して読まれたい。カード発行体のコーポレート・コンテキスト：カードネットワークおよびマーチャント・アクワイアリングの経済性については [[payments/INDEX|payments domain]]。
 
-## 1. The six repeat issuers — Japan card-receivable ABS landscape
+## 1. The six repeat 発行会社 — Japan card-receivable ABS landscape
 
-| Issuer | Parent | Card brand portfolio | Annual ABS issuance (approx) |
+| 発行会社 | Parent | Card brand portfolio | Annual ABS issuance (approx) |
 |---|---|---|---|
 | [[card-issuers/jcb|JCB]] | Independent (cross-shareholding with megabanks) | JCB-branded credit cards (domestic network + international) | JPY 100–200 bn |
 | [[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card, DC Card, NICOS, UFJ Card brands | JPY 80–150 bn |
@@ -85,14 +86,10 @@ translated_at: 2026-06-19T12:43:19.978Z
 - 90 日以上の延滞が閾値（通常 < 3.0%）を下回る
 - リザーブがフル・ターゲットにある
 - マスタートラスト全体で未解消のトリガー違反がない
-- 投資家／格付け機関への通知
-
-組成体が期間延長を望む理由：
+- 投資家／格付け機関への通知組成体が期間延長を望む理由：
 - 市場条件が有利なときの安価な資金調達の継続
 - 再投資機会が乏しいときにパーで元本返済することの回避
-- 組成体のリファイナンス・カレンダーの平準化
-
-期間延長に対する投資家の見方：
+- 組成体のリファイナンス・カレンダーの平準化期間延長に対する投資家の見方：
 - クーポンが魅力的であれば利回りの継続
 - WAL 延長は契約に組み込まれており、組成体の一方的なオプションではない（格付け機関は投資家保護的な条件を要求する）
 - シリーズの投資家基盤は、デュレーション延長を許容できる主に日本の機関投資家 ALM ブックである

@@ -2,19 +2,16 @@
 source: trust-banks/kyodo-trust
 source_hash: e23c02e60a63f690
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "共同信託"
-translated_at: 2026-06-02T14:54:39.091Z
+translated_at: 2026-06-26T08:32:30.858Z
 ---
 # 共同信託
-# Kyodo Trust / 共同信託
+# Kyodo Trust / 共同信託ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
 
-ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
-
-## 概要
-
-共同信託は、公開資料上、不動産、権利調整、保全、信託機能の活用と結びつく管理型信託会社である。FinWiki では、[[trust-banks/castglobal-trust]] と [[trust-banks/kiriu-real-estate-trust]] の横に置く小規模な専門信託ルートとして扱う。
+## 概要共同信託は、公開資料上、不動産、権利調整、保全、信託機能の活用と結びつく管理型信託会社である。FinWiki では、[[trust-banks/castglobal-trust]] と [[trust-banks/kiriu-real-estate-trust]] の横に置く小規模な専門信託ルートとして扱う。
 
 ## エンティティ境界
 
@@ -25,13 +22,11 @@ translated_at: 2026-06-02T14:54:39.091Z
 | ルート | 読み方 |
 |---|---|
 | Rights adjustment | Trust-会社 route のために complex property / rights coordination. |
-| Real estate | Real-estate trust と 保全 文脈. |
-| Escrow-like logic | Related to settlement と asset-separation logic, but not a PSP. |
+| Real estate | Real-estate trust と 保全文脈. |
+| Escrow-like logic | Related to 決済 と asset-separation logic, but not a PSP. |
 | Registry control | Row in [[trust-banks/trust-companies-japan-index]]. |
 
-## 公開情報上の文脈
-
-共同信託が重要なのは、専門職サービスと小規模会社による信託ルートを示すためである。上場グループ系信託会社や住宅グループ系信託会社との対比にも役立つ。
+## 公開情報上の文脈共同信託が重要なのは、専門職サービスと小規模会社による信託ルートを示すためである。上場グループ系信託会社や住宅グループ系信託会社との対比にも役立つ。
 
 ## 調査チェックリスト
 

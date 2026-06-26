@@ -2,10 +2,11 @@
 source: systems/cctp-v2-vs-canton
 source_hash: b9f333306f5f0e91
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙"
-translated_at: 2026-06-03T00:53:08.327Z
+translated_at: 2026-06-26T08:29:17.594Z
 ---
 # CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙
 ## ウィキ上の位置づけ
@@ -32,7 +33,7 @@ translated_at: 2026-06-03T00:53:08.327Z
 | 監督モデル | Circle自己コンプライアンス + §501 denylist | Regulator Nodeを内蔵 |
 | ユーザータイプ | 暗号ネイティブ + 一部機関 | 純機関顧客 |
 
-**JPM Kinexysの選択**: [[fintech/jpmorgan-jpmd-coin|JPMD]]はCCTP V2 を統合せずCantonに回帰した。理由は、(1) Coinbase Custody顧客のBase上のholdingsはチェーン解析で逆推定可能であること、(2) Cantonがmulti-party atomic settlementをネイティブにサポートすること、(3) DAMLがSolidityより金融契約に適すること、(4) JPMがCanton創設メンバーであるという戦略的整合性である。
+**JPM Kinexysの選択**: [[fintech/jpmorgan-jpmd-coin|JPMD]]はCCTP V2 を統合せずCantonに回帰した。理由は、(1) Coinbase カストディ顧客のBase上のholdingsはチェーン解析で逆推定可能であること、(2) Cantonがmulti-party atomic 決済をネイティブにサポートすること、(3) DAMLがSolidityより金融契約に適すること、(4) JPMがCanton創設メンバーであるという戦略的整合性である。
 
 **Circle Arcの選択**: Arcチェーンは、CCTP V2 を直接採用し、USDCをgasとし、§501 コンプライアンス物語に賭けることで、**Coinbase Baseへの利益配分（$200M/年）を回避**する。これはCircleの脱Coinbase化の中核施策である。
 

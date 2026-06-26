@@ -2,13 +2,14 @@
 source: banking/japan-net-bank-deposit-feature-matrix-2026
 source_hash: a66f9ca3fc29225a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "日本のネット銀行 預金・機能マトリクス 2026"
-translated_at: 2026-06-18T23:33:48.316Z
+title: "日本のネット銀行預金・機能マトリクス 2026"
+translated_at: 2026-06-26T08:29:25.262Z
 ---
 
-# 日本のネット銀行 預金・機能マトリクス 2026
+# 日本のネット銀行預金・機能マトリクス 2026
 
 ## TL;DR
 
@@ -68,7 +69,7 @@ translated_at: 2026-06-18T23:33:48.316Z
 | [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | 限定的なリテール FX。[[securities-firms/sbi-fx-trade|SBI FX Trade]] を通じた FX | 主要な変動金利住宅ローンの軸 | Mister Debit（Visa デビット） | 広範 — JAL、T-NEOBANK、ヤマダ、SBI 等向けの NEOBANK API |
 | [[banking/paypay-bank|PayPay Bank]] | 円 ＋ USD のリテール FX、FX 預金 | 限定的 — パートナー紹介 | PayPay デビット（J-Debit ＋ Visa デビット）、PayPay カード連携 | PayPay ウォレットのスイープ向けの標準銀行 API |
 | [[banking/au-jibun-bank|au Jibun Bank]] | 多通貨 FX 預金、FX 証拠金、FX デビット | 住宅ローンのブックは成長中 | au PAY カード ／ au PAY デビット連携 | 標準銀行 API ＋ au PAY 連携 |
-| [[banking/sony-bank|Sony Bank]] | **最強のリテール FX** — 11以上の通貨、MoneyKit FX 預金、FX デビット | ローンチ以来、住宅ローンがコア商品 | Sony Bank WALLET（Visa デビット） | 標準銀行 API |
+| [[banking/sony-bank|Sony Bank]] | **最強のリテール FX** — 11以上の通貨、MoneyKit FX 預金、FX デビット | ローンチ以来、住宅ローンがコア商品 | Sony Bank ウォレット（Visa デビット） | 標準銀行 API |
 | [[banking/daiwa-next-bank|Daiwa Next Bank]] | 限定的なリテール FX | なし | なし（預金のみ） | [[securities-firms/daiwa-sg|Daiwa]] との証券スイープ連携 |
 | [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | 親会社 [[regional-banks/aozora-bank|Aozora]] を通じた法人 FX | 限定的なリテール住宅ローン | Visa デビット | **広範な法人 API** — 組込み決済、SaaS コネクタ |
 | [[banking/ui-bank|UI Bank]] | 限定的 | 限定的 | Visa デビット | 標準銀行 API |
@@ -111,25 +112,17 @@ translated_at: 2026-06-18T23:33:48.316Z
 
 [[banking/sony-bank|Sony Bank]] は FX の厚みのコーナーを明確に占める。[[banking/au-jibun-bank|au Jibun Bank]] は、多通貨 FX 預金と FX 証拠金取引を持つ最も近いピアである。[[banking/rakuten-bank|Rakuten Bank]] と [[banking/paypay-bank|PayPay Bank]] は、より狭い FX 商品メニューを提供する。FX を扱わない銀行（[[banking/daiwa-next-bank|Daiwa Next Bank]]、[[banking/minna-bank-baas-model|Minna Bank]]、[[banking/mercari-bank|Mercari Bank]]）は、FX 顧客のセグメントを譲り渡している。
 
-### スケール・レバーとしての住宅ローンの組成
+### スケール・レバーとしての住宅ローンの組成変動金利住宅ローンは、住宅ローン市場に参入したネット銀行にとって、依然として最大の単一資産クラスである。[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] は最大のネット銀行の組成者である。[[banking/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] がそれに続く。[[banking/rakuten-bank|Rakuten Bank]] はグループ構造を通じて組成する。[[banking/paypay-bank|PayPay Bank]] と [[banking/daiwa-next-bank|Daiwa Next Bank]] は住宅ローンを軸としていない。
 
-変動金利住宅ローンは、住宅ローン市場に参入したネット銀行にとって、依然として最大の単一資産クラスである。[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] は最大のネット銀行の組成者である。[[banking/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] がそれに続く。[[banking/rakuten-bank|Rakuten Bank]] はグループ構造を通じて組成する。[[banking/paypay-bank|PayPay Bank]] と [[banking/daiwa-next-bank|Daiwa Next Bank]] は住宅ローンを軸としていない。
-
-### 銀行 API の公開姿勢
-
-三つの公開階層が観察できる。
+### 銀行 API の公開姿勢三つの公開階層が観察できる。
 
 - **広範な法人 API** — [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] が軸である。法人トレジャリーと SaaS コネクタの API に明確に注力している。
 - **広範な BaaS ／ホワイトラベル** — [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]]（NEOBANK）と [[banking/minna-bank-baas-model|Minna Bank]] BaaS。これらは、銀行がライセンスを保有しながら、パートナーブランドが自社の銀行ライクな UX を公開することを可能にする。
 - **標準リテール銀行 API** — その他のほとんど。銀行 API は [[banking/japan-baas-operating-models|electronic payment agency / FA]] 制度のために公開されているが、銀行はホワイトラベルの販売を追求していない。
 
-### 組込み金融のパートナー・エコシステム
+### 組込み金融のパートナー・エコシステム組込み金融のパートナー列は、どのネット銀行が**直接の顧客獲得**に対して**販売サーフェス**で競争しているかを明らかにする。[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] は NEOBANK を通じて JAL、ヤマダ、T（CCC）等とパートナーを組む。[[banking/minna-bank-baas-model|Minna Bank]] はリクルート等とパートナーを組む。[[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] は freee、マネーフォワード、給与計算 SaaS と統合している。エコシステムのリテール銀行（[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]）は、第三者のパートナーブランドではなく、自社グループのエコシステムに依拠する。
 
-組込み金融のパートナー列は、どのネット銀行が**直接の顧客獲得**に対して**販売サーフェス**で競争しているかを明らかにする。[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] は NEOBANK を通じて JAL、ヤマダ、T（CCC）等とパートナーを組む。[[banking/minna-bank-baas-model|Minna Bank]] はリクルート等とパートナーを組む。[[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] は freee、マネーフォワード、給与計算 SaaS と統合している。エコシステムのリテール銀行（[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]）は、第三者のパートナーブランドではなく、自社グループのエコシステムに依拠する。
-
-## クラスタ・サマリー — レバー別の競争マップ
-
-有用なクラスタの読み方。
+## クラスタ・サマリー — レバー別の競争マップ有用なクラスタの読み方。
 
 - **FX ＋ 資産形成クラスタ** — [[banking/sony-bank|Sony Bank]]、[[banking/daiwa-next-bank|Daiwa Next Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]。
 - **住宅ローン組成クラスタ** — [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]]、[[banking/sony-bank|Sony Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[banking/rakuten-bank|Rakuten Bank]]。

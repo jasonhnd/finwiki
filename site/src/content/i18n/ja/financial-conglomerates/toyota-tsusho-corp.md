@@ -2,16 +2,17 @@
 source: financial-conglomerates/toyota-tsusho-corp
 source_hash: 765b339b900e0672
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "豊田通商 (Toyota Tsusho Corporation)"
-translated_at: 2026-06-02T16:33:58.465Z
+translated_at: 2026-06-26T08:31:59.852Z
 ---
 # 豊田通商 (Toyota Tsusho Corporation)
 
 ## ウィキ上の位置づけ
 
-この項目は、独自の **トヨタグループ系商社 (Toyota group captive trading house)** 性格を持つ **総合商社の親会社** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 配下に置く。Toyota Motor が約 22% 級の主要株主であり、5 大商社とは独立した **第 6 商社 / トヨタ系商社** と位置付ける。競合・比較対象の文脈では [[financial-conglomerates/mitsubishi-corp|三菱商事]] と [[financial-conglomerates/sojitz-corp|双日]] (中堅商社) と照合して読む。この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS) と **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] 系列** (Toyota Motor 100% 子会社系の **オートローン / リース / 保険プラットフォーム**。豊田通商と直接資本関係はないが、Toyota group ecosystem の中で隣接) を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は、独自の **トヨタグループ系商社 (Toyota group captive trading house)** 性格を持つ **総合商社の親会社** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 配下に置く。Toyota Motor が約 22% 級の主要株主であり、5 大商社とは独立した **第 6 商社 / トヨタ系商社** と位置付ける。競合・比較対象の文脈では [[financial-conglomerates/mitsubishi-corp|三菱商事]] と [[financial-conglomerates/sojitz-corp|双日]] (中堅商社) と照合して読む。この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS) と **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] 系列** (Toyota Motor 100% 子会社系の **オートローン / リース / 保険プラットフォーム**。豊田通商と直接資本関係はないが、Toyota group 経済圏 の中で隣接) を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -42,10 +43,10 @@ translated_at: 2026-06-02T16:33:58.465Z
 
 | 年 | 事象 |
 |---|---|
-| 1948 | 豊田産業株式会社 設立 (戦後のトヨタ系商社) |
+| 1948 | 豊田産業株式会社設立 (戦後のトヨタ系商社) |
 | 1956 | 豊田通商株式会社 に改称 |
 | 1990s〜 | アフリカ・中南米・東南アジアへ進出 |
-| 2006 | 加商 (旧 加藤商会、繊維・食品商社) を合併 → 商社機能を拡大 |
+| 2006 | 加商 (旧加藤商会、繊維・食品商社) を合併 → 商社機能を拡大 |
 | 2012 | CFAO (フランス、アフリカ最大級の流通商社) 株式取得 |
 | **2016** | **CFAO 完全子会社化** — アフリカ大陸最大級の自動車・医薬品・食品流通網を統合 |
 | 2020s〜 | リチウム・レアアース・EV 電池サプライチェーン (Toyota EV 戦略連動) 強化 |
@@ -60,7 +61,7 @@ translated_at: 2026-06-02T16:33:58.465Z
 | 自動車 | Toyota 海外ディーラー網 (アフリカ・中南米・東南アジア)、商用車 | CFAO Mobility |
 | 機械・エネルギー・プラントプロジェクト | プラント、発電 IPP、再エネ (Eurus Energy) | Eurus Energy |
 | 化学品・エレクトロニクス | 自動車向け電装、半導体、化学品 | — |
-| 食料・生活産業 | 食品、ファッション (旧 加藤商会系)、医薬品 (CFAO) | CFAO Healthcare |
+| 食料・生活産業 | 食品、ファッション (旧加藤商会系)、医薬品 (CFAO) | CFAO Healthcare |
 | **アフリカ** | **CFAO 経由のアフリカ大陸全域カバレッジ** | **CFAO (100%)** — 自動車・医薬品・食品・消費財 |
 
 ## 3. 金融サービス隣接領域
@@ -74,7 +75,7 @@ translated_at: 2026-06-02T16:33:58.465Z
 
 ### Toyota グループ系商社としてのアイデンティティ
 
-- **Toyota Motor が約 22% 級の主要株主**: 5 大商社にはない出資関係を持つ、Toyota group ecosystem の中核メンバー
+- **Toyota Motor が約 22% 級の主要株主**: 5 大商社にはない出資関係を持つ、Toyota group 経済圏 の中核メンバー
 - **アフリカ戦略**: **CFAO 完全子会社化 (2016)** により 5 大商社にはない独自ポジションを確立し、**アフリカ大陸最大級の流通網** (自動車・医薬品・食品・消費財) を保有
 - **モビリティ・新エネ**: Toyota EV 戦略との連動 (リチウム・レアアース・電池サプライチェーン)、Eurus Energy 経由の再エネ IPP
 

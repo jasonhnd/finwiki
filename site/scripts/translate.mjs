@@ -14,6 +14,7 @@ import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
 import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
+import { buildTitleByRoute, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const TARGET = { ja: '自然な日本語', en: 'English', zh: '简体中文 (Simplified Chinese)' };
@@ -43,8 +44,13 @@ function fmTitle(fm) {
   const m = fm.match(/^title:\s*(.+)\s*$/m);
   return m ? m[1].trim().replace(/^["']|["']$/g, '') : '';
 }
+function fmHash(fm) {
+  const m = fm.match(/^source_hash:\s*(.+)\s*$/m);
+  return m ? m[1].trim() : '';
+}
 
 function* walk(dir, rel = '') {
+  if (!existsSync(dir)) return;
   for (const e of readdirSync(dir, { withFileTypes: true })) {
     const r = rel ? `${rel}/${e.name}` : e.name;
     if (e.isDirectory()) yield* walk(join(dir, e.name), r);
@@ -95,7 +101,7 @@ async function callLLM(maskedText, lang) {
   return (data.content?.[0]?.text ?? '').trim();
 }
 
-async function translateProtected(text, lang) {
+async function translateProtected(text, lang, titleByRoute) {
   const { masked, masks } = mask(text);
   let out = await callLLM(masked, lang);
   let v = verify(masked, out);
@@ -103,12 +109,43 @@ async function translateProtected(text, lang) {
     out = await callLLM(masked, lang); // 1 回 retry
     v = verify(masked, out);
   }
-  return { text: unmask(out, masks), fidelity: v.ok ? 'ok' : 'needs_review', v };
+  const restored = unmask(out, masks);
+  return {
+    text:
+      lang === 'ja'
+        ? localizeJapaneseBusinessTerms(restored, { titleByRoute })
+        : restored,
+    fidelity: v.ok ? 'ok' : 'needs_review',
+    v,
+  };
 }
 
 async function main() {
   let done = 0;
   let reviews = 0;
+  const titleByRoute = buildTitleByRoute(REPO, join(I18N, 'ja'));
+  const processed = new Set();
+  const writeLocalJaFromExisting = (rel, h, title, outPath) => {
+    const [existingFm, existingBody] = splitFm(readFileSync(outPath, 'utf8'));
+    const existingTitle = fmTitle(existingFm);
+    const localizedTitle = existingTitle
+      ? localizeJapaneseBusinessTerms(existingTitle, { titleByRoute })
+      : title;
+    const localizedBody = localizeJapaneseBusinessTerms(existingBody, { titleByRoute });
+    const head =
+      `---\n` +
+      `source: ${rel.replace(/\.md$/, '').toLowerCase()}\n` +
+      `source_hash: ${h}\n` +
+      `lang: ja\n` +
+      `model: local-ja-business-term-glossary\n` +
+      `status: machine\n` +
+      `fidelity: ok\n` +
+      `title: ${JSON.stringify(localizedTitle || title)}\n` +
+      `translated_at: ${new Date().toISOString()}\n` +
+      `---\n`;
+    mkdirSync(dirname(outPath), { recursive: true });
+    writeFileSync(outPath, head + localizedBody.replace(/\n*$/, '') + '\n', { encoding: 'utf8' });
+  };
   for (const rel of walkEntries(walk)) {
     if (done >= LIMIT) break;
     if (ONLY_DOMAIN && !rel.toLowerCase().startsWith(ONLY_DOMAIN.toLowerCase() + '/')) continue;
@@ -117,13 +154,19 @@ async function main() {
     const title = fmTitle(fm);
     const h = sha(body);
     for (const lang of LANGS) {
+      processed.add(`${lang}:${rel.toLowerCase()}`);
       const outPath = join(I18N, lang, rel.toLowerCase());
       if (!FORCE && existsSync(outPath) && readFileSync(outPath, 'utf8').includes(`source_hash: ${h}`)) {
         continue; // 增量: source 未変更
       }
       try {
-        const tt = title ? await translateProtected(title, lang) : { text: '', fidelity: 'ok' };
-        const bt = await translateProtected(body, lang);
+        if (lang === 'ja' && !process.env.ANTHROPIC_API_KEY && existsSync(outPath)) {
+          writeLocalJaFromExisting(rel, h, title, outPath);
+          console.log(`ok  ${lang}  ${rel}  (local glossary)`);
+          continue;
+        }
+        const tt = title ? await translateProtected(title, lang, titleByRoute) : { text: '', fidelity: 'ok' };
+        const bt = await translateProtected(body, lang, titleByRoute);
         const fidelity = tt.fidelity === 'needs_review' || bt.fidelity === 'needs_review' ? 'needs_review' : 'ok';
         if (fidelity === 'needs_review') reviews++;
         const head =
@@ -145,6 +188,32 @@ async function main() {
       }
     }
     done++;
+  }
+  if (ONLY_PATHS) {
+    for (const rel of ONLY_PATHS) {
+      for (const lang of LANGS) {
+        const key = `${lang}:${rel.toLowerCase()}`;
+        if (processed.has(key)) continue;
+        if (lang !== 'ja') continue;
+        const outPath = join(I18N, lang, rel.toLowerCase());
+        if (!existsSync(outPath)) continue;
+        let h = '';
+        let title = '';
+        const sourcePath = join(REPO, rel);
+        if (existsSync(sourcePath)) {
+          const [fm, body] = splitFm(readFileSync(sourcePath, 'utf8'));
+          h = sha(body);
+          title = fmTitle(fm);
+        } else {
+          const [existingFm] = splitFm(readFileSync(outPath, 'utf8'));
+          h = fmHash(existingFm) || 'unknown';
+          title = fmTitle(existingFm);
+        }
+        writeLocalJaFromExisting(rel, h, title, outPath);
+        processed.add(key);
+        console.log(`ok  ${lang}  ${rel}  (local glossary, path-only)`);
+      }
+    }
   }
   console.log(`\n完了: ${done} entries, needs_review=${reviews}`);
 }

@@ -2,10 +2,11 @@
 source: securities-firms/mebuki-securities
 source_hash: c573356781bec155
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "めぶき証券"
-translated_at: 2026-06-02T14:54:39.099Z
+translated_at: 2026-06-26T08:32:23.073Z
 ---
 
 # めぶき証券
@@ -14,9 +15,7 @@ translated_at: 2026-06-02T14:54:39.099Z
 
 この項目は [[securities-firms/INDEX|securities-firms INDEX]] 配下に置く、[[regional-banks/mebuki-fg|めぶき FG]] の FG 傘下証券運営会社アンカーである。親銀行子会社との比較では [[regional-banks/joyo-bank|常陽銀行]] と [[regional-banks/ashikaga-bank|足利銀行]] を、制度・規制上の境界では [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] を参照する。隣接する比較対象は [[securities-firms/ffg-securities|FFG 証券]]（[[regional-banks/fukuoka-fg]] 配下）で、FG 系地域証券の比較に使う。
 
-## 要約
-
-株式会社めぶき証券は、[[regional-banks/mebuki-fg|めぶき FG]] (東証 PRIME 7167) 100% 子会社の地銀系証券会社で、旧 **常陽証券** ([[regional-banks/joyo-bank|常陽銀行]] 系) を母体に [[regional-banks/mebuki-fg]] 設立後 (2016-10) にグループ統合・再編された。茨城・栃木・首都圏を地盤とする中堅企業 main bank 顧客向け資産運用・公募株引受・私募債仲介・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。^[extracted]
+## 要約株式会社めぶき証券は、[[regional-banks/mebuki-fg|めぶき FG]] (東証 PRIME 7167) 100% 子会社の地銀系証券会社で、旧 **常陽証券** ([[regional-banks/joyo-bank|常陽銀行]] 系) を母体に [[regional-banks/mebuki-fg]] 設立後 (2016-10) にグループ統合・再編された。茨城・栃木・首都圏を地盤とする中堅企業 main bank 顧客向け資産運用・公募株引受・私募債仲介・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。^[extracted]
 
 ## 1. 免許・グループ境界
 
@@ -24,7 +23,7 @@ translated_at: 2026-06-02T14:54:39.099Z
 |---|---|
 | 法人名 | 株式会社めぶき証券 |
 | 英名 | Mebuki Securities Co., Ltd. |
-| 免許ルート | FIEA / 金商法 第一種金融商品取引業 (関東財務局) |
+| 免許ルート | FIEA / 金商法第一種金融商品取引業 (関東財務局) |
 | グループ境界 | [[regional-banks/mebuki-fg]] 100% subsidiary; [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 銀証連携相手 |
 | Headquarters | 茨城県水戸市 (常陽銀行本店周辺) |
 | ウィキ上の役割 | 地銀 FG 傘下証券子会社のアンカー |
@@ -44,10 +43,10 @@ translated_at: 2026-06-02T14:54:39.099Z
   └── 常陽キャピタル / 足利キャピタル ── 地域投資・コンサル系
 ```
 
-### 旧 常陽証券系譜
+### 旧常陽証券系譜
 
-- **2007-11-30**: 常陽証券株式会社 設立（茨城県水戸市、[[regional-banks/joyo-bank|常陽銀行]] 系証券子会社）
-- 茨城県内 retail brokerage と中堅企業向け公募 / 私募債仲介を主業
+- **2007-11-30**: 常陽証券株式会社設立（茨城県水戸市、[[regional-banks/joyo-bank|常陽銀行]] 系証券子会社）
+- 茨城県内 retail 証券仲介 と中堅企業向け公募 / 私募債仲介を主業
 - 2010 年代〜: 地銀系証券として銀証連携の下で資産運用・私募債仲介の役割を拡大
 - **2017-04-03**: めぶき証券株式会社へ商号変更
 
@@ -59,7 +58,7 @@ translated_at: 2026-06-02T14:54:39.099Z
 
 | 項目 | 概況 |
 |---|---|
-| 設立 | 2007-11-30（旧 常陽証券。2017-04 「めぶき証券」へ商号変更、2017-10 [[regional-banks/mebuki-fg]] 直下子会社）|
+| 設立 | 2007-11-30（旧常陽証券。2017-04 「めぶき証券」へ商号変更、2017-10 [[regional-banks/mebuki-fg]] 直下子会社）|
 | 資本金 | 30 億円 |
 | 従業員数 | 約 90 名 |
 | 本社 | 茨城県水戸市南町 3-4-12 |

@@ -2,10 +2,11 @@
 source: insurance/lloyds-japan-syndicate-operating-model
 source_hash: 9c0b7a699b6b2764
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Lloyd's Japan syndicate operating model"
-translated_at: 2026-06-19T06:09:18.039Z
+translated_at: 2026-06-26T08:32:07.535Z
 ---
 
 # Lloyd's Japan syndicate operating model
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.039Z
 
 ## Wiki ルート
 
-この項目は [[insurance/INDEX|insurance index]] の配下にある。エンティティレベルのページは [[non-life-insurers/lloyd-japan|Lloyd's Japan]]、従来型の外国再保険者パネルとの比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が誰と競合し誰を補完するかは [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接するスペシャルティ・リスク移転経路は [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親会社レベルで Lloyd's を監督する Solvency II／PRA フレームワークは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] と照らし合わせて読むこと。
+この項目は [[insurance/INDEX|insurance index]] の配下にある。エンティティレベルのページは [[non-life-insurers/lloyd-japan|Lloyd's Japan]]、従来型の外国再保険者パネルとの比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が誰と競合し誰を補完するかは [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接するスペシャルティ・リスク移転経路は [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親会社レベルで Lloyd's を監督する ソルベンシー II／PRA フレームワークは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] と照らし合わせて読むこと。
 
 ## 1. Lloyd's of London が実際には何であるか
 
@@ -25,7 +26,7 @@ Lloyd's は会社ではなく、規制された市場（マーケットプレイ
 | 構成要素 | 役割 |
 |---|---|
 
-**規制。** Lloyd's は親会社レベルで英国 PRA および FCA によって監督されている。Society of Lloyd's は、市場全体を資本化する Solvency II 内部モデルを保有しており、その EU 相当物が Lloyd's Insurance Company S.A.（Lloyd's Brussels）である。Solvency II の枠組みについては [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を参照。
+**規制。** Lloyd's は親会社レベルで英国 PRA および FCA によって監督されている。Society of Lloyd's は、市場全体を資本化する ソルベンシー II 内部モデルを保有しており、その EU 相当物が Lloyd's Insurance Company S.A.（Lloyd's Brussels）である。ソルベンシー II の枠組みについては [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を参照。
 
 **Chain of Security。** Lloyd's はその有名な**三連鎖のセキュリティ（three-link chain of security）**に依拠している：
 
@@ -73,9 +74,7 @@ Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Sta
 
 5 つの種目から成るスペシャルティのストーリーは、Lloyd's の公的な市場コメンタリー全体で一貫している：
 
-## 6. 再保険と直接引受の境界
-
-日本における Lloyd's シンジケートは、直接引受市場と再保険市場の*両方*で、時には同じ種目で、事業を行っている：
+## 6. 再保険と直接引受の境界日本における Lloyd's シンジケートは、直接引受市場と再保険市場の*両方*で、時には同じ種目で、事業を行っている：
 
 | モード | どのように見えるか | カウンターパーティ | 例 |
 |---|---|---|---|
@@ -91,15 +90,15 @@ Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Sta
 |---|---|---|
 | 構造 | マーケットプレイス・プラットフォーム；リスクごとに複数のシンジケート | 単一バランスシートを持つ単一の保険者 |
 | 資本の裏付け | 三連鎖のセキュリティ (Premiums Trust Funds → FAL → Central Fund) | 親会社のバランスシート |
-| 親会社の規制当局 | 英国 PRA／FCA (Society レベルの Solvency II 内部モデル) | 本国の規制当局 (NAIC／EIOPA／等) |
-| 資本規制の読み方 | Solvency II (Lloyd's グループ) | 適用される本国規制のいずれか |
+| 親会社の規制当局 | 英国 PRA／FCA (Society レベルの ソルベンシー II 内部モデル) | 本国の規制当局 (NAIC／EIOPA／等) |
+| 資本規制の読み方 | ソルベンシー II (Lloyd's グループ) | 適用される本国規制のいずれか |
 | 引受の意思決定 | シンジケートごとに行われる；サブスクリプションが可能 | キャリアが中央集権的に行う |
 | スペシャルティ種目 | 強い — 航空、エネルギー、政治、テロ、サイバー | 可変 — キャリアによる |
 | 単一バランスシート比較 | 意味をなさない — リスクはロンドンのシンジケートにある | 直接比較が可能 |
 
 ## 9. この事業モデルが重要な理由
 
-- **Solvency II のクロスオーバー。** Lloyd's の親会社の資本規制が Solvency II であるため、サイクルを通じた Lloyd's のプライシングは、日本の自然災害（natcat）に対する Solvency II SCR 感応度に部分的に駆動される — これは US-RBC 規制下のキャリアには存在しない伝達チャネルである。[[insurance/global-solvency-framework-comparison-matrix]] を参照。
+- **ソルベンシー II のクロスオーバー。** Lloyd's の親会社の資本規制が ソルベンシー II であるため、サイクルを通じた Lloyd's のプライシングは、日本の自然災害（natcat）に対する ソルベンシー II SCR 感応度に部分的に駆動される — これは US-RBC 規制下のキャリアには存在しない伝達チャネルである。[[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
 ## 関連
 

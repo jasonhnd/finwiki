@@ -2,19 +2,18 @@
 source: financial-licenses/securities-license-stack
 source_hash: 78a48826b9016dd6
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本証券ライセンス・スタック"
-translated_at: 2026-06-15T03:48:21.829Z
+translated_at: 2026-06-26T08:32:07.547Z
 ---
 
 # 日本証券ライセンス・スタック
 
-## 概要
+## 概要日本の証券業務は、単一の汎用的な「ブローカー・ライセンス」によって統制されているわけではない。実務上のスタックは、金融商品取引法（FIEA）、FSA / 財務局の登録一覧、JSDA の自主規制、取引所 / PTS の参加規則、清算・決済へのアクセス、そして顧客保護義務から構築される。
 
-日本の証券業務は、単一の汎用的な「ブローカー・ライセンス」によって統制されているわけではない。実務上のスタックは、金融商品取引法（FIEA）、FSA / 財務局の登録一覧、JSDA の自主規制、取引所 / PTS の参加規則、清算・決済へのアクセス、そして顧客保護義務から構築される。
-
-ある会社ページが、実際に演じている規制対象の証券上の役割がどの種類なのかを述べる必要があるときは、本ページを [[financial-licenses/INDEX|JapanFG legal / financial licenses]]、姉妹ページ [[financial-licenses/payment-license-stack|payment license stack]] と [[financial-licenses/bank-license-and-baas-boundary|bank-license / BaaS boundary]]、[[securities/INDEX|securities domain]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、および [[financial-regulators/jsda|JSDA]] と併せて用いること。
+ある会社ページが、実際に演じている規制対象の証券上の役割がどの種類なのかを述べる必要があるときは、本ページを [[financial-licenses/INDEX|JapanFG legal / financial licenses]]、姉妹ページ [[financial-licenses/payment-license-stack|payment license stack]] と [[financial-licenses/bank-license-and-baas-boundary|bank-license / BaaS boundary]]、[[securities/INDEX|securities domain]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]]、および [[financial-regulators/jsda|JSDA]] と併せて用いること。
 
 本ページは公開ソースのリサーチ・ルートであり、法的助言ではない。実際に稼働する商品や取引は、なお最新の FSA 一覧、e-Gov 法令本文、JSDA 規則、監督指針、および弁護士 / 規制当局の確認に照らして確認すること。
 
@@ -59,11 +58,9 @@ translated_at: 2026-06-15T03:48:21.829Z
 | これは PTS か？ | FSA の登録と場の認可。 | 場のルールブック、JSDA / 取引所データ、清算 / 決済ルート。 |
 | これはセキュリティ・トークン関連か？ | FIEA トークン化証券の行と商品分類。 | そのトークンが電子決済手段か、暗号資産か、FIEA 上の証券か。 |
 
-## JapanFG との関連性
+## JapanFG との関連性同一のカスタマー・ジャーニーが複数の規制対象の役割を含みうる：
 
-同一のカスタマー・ジャーニーが複数の規制対象の役割を含みうる：
-
-- [[securities-firms/sbi-securities|SBI Securities]] と [[securities-firms/rakuten-securities|Rakuten Securities]] は、オンライン・ブローカー業、NISA 獲得、ポイント / ecosystem 連携、SOR / PTS 執行ポリシーを競争レバーとして用いる。
+- [[securities-firms/sbi-securities|SBI Securities]] と [[securities-firms/rakuten-securities|Rakuten Securities]] は、オンライン・ブローカー業、NISA 獲得、ポイント / 経済圏連携、SOR / PTS 執行ポリシーを競争レバーとして用いる。
 - [[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]]、および [[securities-firms/smbc-nikko|SMBC Nikko]] はメガバンク・グループの内部に位置するため、エンティティ分析は銀行のバランスシート活動を証券子会社の活動から分離する。
 - [[securities-firms/paypay-securities|PayPay Securities]] およびアプリ組込型ブローカーは、そのアプリがブローカーなのか、仲介者なのか、ブローカーに接続された分売サーフェスなのかに、追加の注意を要する。
 - [[securities-firms/monex-group|Monex Group]]、[[securities-firms/gmo-click-securities|GMO Click Securities]]、および [[securities-firms/dmm-com-securities|DMM.com Securities]] は、しばしば暗号資産・FX・CFD・デリバティブの境界付近に位置する。その商品が現物証券か、デリバティブか、暗号資産か、別の規制カテゴリかを確認すること。

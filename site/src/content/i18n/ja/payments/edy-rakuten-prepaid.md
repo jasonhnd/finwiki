@@ -2,17 +2,18 @@
 source: payments/edy-rakuten-prepaid
 source_hash: baf73cd415770c05
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー"
-translated_at: 2026-06-19T06:09:18.196Z
+translated_at: 2026-06-26T08:29:40.675Z
 ---
 
 # Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー
 
 ## ウィキ上の位置づけ
 
-This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy 前払式発行会社 page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 前払式 systems — Edy is the **プラットフォーム非依存型 FeliCa 前払式** without a retail-or-rail parent anchor, which is its principal structural distinction. Corporate / group anchor is [[payment-firms/rakuten-edy|楽天Edy株式会社]] (FSA-registered third-party 前払式発行会社, 法人番号 3010901038102, registered 2016-07-21 under Rakuten group); related Rakuten payment products include [[card-issuers/rakuten-card|Rakuten Card]] (credit-card co-brand with Edy auto-charge) and 楽天ペイ (code-payment app). FeliCa technology backbone: [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]].
+This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy 前払式発行会社 page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 前払式 systems — Edy is the **プラットフォーム非依存型 FeliCa 前払式** without a retail-or-rail parent anchor, which is its principal structural distinction. Corporate / group anchor is [[payment-firms/rakuten-edy|楽天Edy株式会社]] (FSA-registered third-party 前払式発行会社, 法人番号 3010901038102, registered 2016-07-21 under Rakuten group); related Rakuten payment products include [[card-issuers/rakuten-card|Rakuten Card]] (credit-card co-brand with Edy auto-charge) and 楽天ペイ (コード決済 app). FeliCa technology backbone: [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]].
 
 ## TL;DR
 

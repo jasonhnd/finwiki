@@ -2,10 +2,11 @@
 source: structured-finance/japan-equipment-lease-abs
 source_hash: 14fb1e37e61b86e8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split"
-translated_at: 2026-06-19T12:43:19.989Z
+translated_at: 2026-06-26T08:29:17.593Z
 ---
 
 # Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split
@@ -18,15 +19,15 @@ translated_at: 2026-06-19T12:43:19.989Z
 
 この項目は **設備リース ABS の運用メカニクス** ノードとして [[structured-finance/INDEX|structured-finance index]] の下に位置する。比較可能な担保付プール ABS との対比については [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] と、無担保との対比については [[structured-finance/japan-consumer-loan-abs-structure|Japan consumer-loan ABS structure]] と、リボルビングプールとの対比については [[structured-finance/japan-credit-card-receivable-abs|Japan credit-card receivable ABS]] と、方法論レイヤーについては [[structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook|JCR / R&I securitization rating methodology operating playbook]] と対照して読むこと。リース業界のルーティング：リース会社の経済性については [[finance/INDEX|finance domain]]；不動産リースとの対比については [[real-estate-finance/INDEX|real-estate-finance domain]]。
 
-## 1. The repeat issuer landscape
+## 1. The repeat 発行会社 landscape
 
-| Issuer | Parent / affiliation | Asset focus | Annual ABS issuance (approx) |
+| 発行会社 | Parent / affiliation | Asset focus | Annual ABS issuance (approx) |
 |---|---|---|---|
 | [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | 三菱（三菱 UFJ リースと日立キャピタルの合併により 2021  に設立） | 機械、IT/オフィス、輸送、不動産リース、再生可能エネルギー | JPY 80–150  十億 |
 | [[leasing-firms/tokyo-century|Tokyo Century]] | 独立系（伊藤忠 / 東京 MUFG 関連の株主） | 航空機、船舶、IT/オフィス、輸送、再生可能エネルギー、環境 | JPY 60–120  十億 |
 | [[leasing-firms/orix-corp|ORIX]] | 独立系の多角化金融グループ | 設備リース（機械、車両、IT）、加えてより広い金融 | JPY 50–100  十億 |
-| [[leasing-firms/fuyo-lease|Fuyo Lease]] | みずほ / 丸紅 系列 | 一般設備 + オートフリートリース | JPY 30–60  十億 |
-| Sumitomo Mitsui Finance & Leasing | SMFG / 住友商事 系列 | 設備 + ベンダーファイナンス | JPY 40–80  十億 |
+| [[leasing-firms/fuyo-lease|Fuyo Lease]] | みずほ / 丸紅系列 | 一般設備 + オートフリートリース | JPY 30–60  十億 |
+| Sumitomo Mitsui Finance & Leasing | SMFG / 住友商事系列 | 設備 + ベンダーファイナンス | JPY 40–80  十億 |
 | [[leasing-firms/ibj-leasing|IBJ Leasing]] | みずほグループ | 設備 + ストラクチャードリース | JPY 20–50  十億 |
 | [[leasing-firms/ricoh-leasing|Ricoh Leasing]] | リコーグループ系列 | オフィス機器中心 | JPY 15–40  十億 |
 | 地方銀行系列のリース部門（[[leasing-firms/chibagin-leasing|Chibagin Leasing]]、[[leasing-firms/iyogin-leasing|Iyogin Leasing]]、[[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] など） | 各種地方銀行 | 地域中小企業の設備リース | 個別の発行は控えめ；一部プール案件 |

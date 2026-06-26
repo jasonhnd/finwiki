@@ -2,10 +2,11 @@
 source: fintech/mica-overview
 source_hash: a415dc804e2572d6
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "EU MiCA · Markets in Crypto-Assets Regulation 概要"
-translated_at: 2026-06-02T13:21:55.057Z
+translated_at: 2026-06-26T08:28:46.052Z
 ---
 
 # EU MiCA · Markets in Crypto-Assets Regulation 概要
@@ -21,11 +22,11 @@ translated_at: 2026-06-02T13:21:55.057Z
 
 - MiCA は 2023-06 通過 / 2024-12 全面施行 ^[extracted]
 - 第 1 弾 MiCA EMT ライセンス取得者は約 10-15 社 ^[extracted]
-- EURC 2026-05 流通 €280M(vs USDC EU 流通 ~$8B、差は 300x から ~20x まで縮小)^[extracted] · 詳細は [[fintech/eu-mica-implementation-status-2026|EU MiCA 実施状況 2026-05]] および [[fintech/circle-usdc-stablecoin|Circle USDC / EURC issuer]] を参照
-- 大型 ART > €5B の issuer 制限条項により USDT のような米ドル系 SC の EU 拡大を抑制 ^[extracted]
+- EURC 2026-05 流通 €280M(vs USDC EU 流通 ~$8B、差は 300x から ~20x まで縮小)^[extracted] · 詳細は [[fintech/eu-mica-implementation-status-2026|EU MiCA 実施状況 2026-05]] および [[fintech/circle-usdc-stablecoin|Circle USDC / EURC 発行会社]] を参照
+- 大型 ART > €5B の 発行会社制限条項により USDT のような米ドル系 SC の EU 拡大を抑制 ^[extracted]
 - USDT の EU シェア 2024-12 ~28% → 2026-05 ~3% ^[extracted]
 - algorithmic stablecoins は MiCA で明文禁止(UST 崩壊の結果)^[extracted]
-- ESMA Q&A 2.7:issuer 不在の DAI/USDS/LUSD は MiCA に該当しないが、offer to public 不可 ^[extracted]
+- ESMA Q&A 2.7:発行会社不在の DAI/USDS/LUSD は MiCA に該当しないが、offer to public 不可 ^[extracted]
 
 ## 仕組み / 作動原理
 
@@ -41,7 +42,7 @@ translated_at: 2026-06-02T13:21:55.057Z
 
 ## 起源と発展
 
-MiCA は 2020-09 EU Commission Digital Finance Package の一部提案。2023-06 通過(Regulation (EU) 2023/1114)。2024-06 SC 部分(ART / EMT)施行。2024-12 全面施行。圧力プレイヤー:Tether / USDT(MiCA 非受容 + Article 17 大型 SC 制限 → EU 流通量制限) · DAI / LUSD / FRAX(issuer 不在 SC 制限) · algorithmic stablecoins(UST 崩壊の結果 · 明文禁止)。受益プレイヤー:Circle(USDC EU + EURC ダブルブランド) · Société Générale(STBL EUR ペッグ) · BBVA / Santander(EUR SC 発行予定) · MiCA コンプラ取引所(Kraken / Bitstamp / Coinbase EU)。MiCA は [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] と「事業 + レジリエンス」二軌規制フレームワークを形成。
+MiCA は 2020-09 EU Commission Digital Finance Package の一部提案。2023-06 通過(Regulation (EU) 2023/1114)。2024-06 SC 部分(ART / EMT)施行。2024-12 全面施行。圧力プレイヤー:Tether / USDT(MiCA 非受容 + Article 17 大型 SC 制限 → EU 流通量制限) · DAI / LUSD / FRAX(発行会社不在 SC 制限) · algorithmic stablecoins(UST 崩壊の結果 · 明文禁止)。受益プレイヤー:Circle(USDC EU + EURC ダブルブランド) · Société Générale(STBL EUR ペッグ) · BBVA / Santander(EUR SC 発行予定) · MiCA コンプラ取引所(Kraken / Bitstamp / Coinbase EU)。MiCA は [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] と「事業 + レジリエンス」二軌規制フレームワークを形成。
 
 ## 関連項目
 <!-- wiki-links:managed -->
@@ -50,7 +51,7 @@ MiCA は 2020-09 EU Commission Digital Finance Package の一部提案。2023-06
 - [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC / EURC issuer]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC / EURC 発行会社]]
 - [[fintech/eu-mica-implementation-status-2026|EU MiCA 実施状況 2026-05]]
 <!-- /wiki-links:managed -->
 

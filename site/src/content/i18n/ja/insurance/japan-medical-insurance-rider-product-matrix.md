@@ -2,10 +2,11 @@
 source: insurance/japan-medical-insurance-rider-product-matrix
 source_hash: bdc4f50fff61252c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の医療保険特約商品マトリクス"
-translated_at: 2026-06-19T06:09:18.171Z
+translated_at: 2026-06-26T08:29:01.761Z
 ---
 
 # 日本の医療保険特約商品マトリクス
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.171Z
 
 ## Wiki route
 
-このマトリクスは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/medical-cancer-insurance-product-economics|the medical / cancer insurance product economics entry]] の商品面の対となる。協同組合の境界の代替については [[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]]、[[insurance/bancassurance-economics-japan|bancassurance economics Japan]]、[[insurance/japan-bancassurance-distribution-overlay-matrix|the bancassurance distribution overlay matrix]]、[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]] と、ライフプランナー・チャネルの文脈については [[insurance/sony-life-group-life-operating-model|the Sony Life group life operating model]] と併せて読むこと。
+このマトリクスは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/medical-cancer-insurance-product-economics|the medical / cancer insurance product economics entry]] の商品面の対となる。協同組合の境界の代替については [[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/internet-life-insurance-business-model|the internet life insurance 事業モデル]]、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / 証券仲介 Japan landscape]]、[[insurance/bancassurance-economics-japan|bancassurance economics Japan]]、[[insurance/japan-bancassurance-distribution-overlay-matrix|the bancassurance distribution overlay matrix]]、[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]] と、ライフプランナー・チャネルの文脈については [[insurance/sony-life-group-life-operating-model|the Sony Life group life operating model]] と併せて読むこと。
 
 このマトリクスのクリーンなキャリアのアンカーは、[[life-insurers/aflac-japan|Aflac Japan]]、[[life-insurers/aia-life-japan|AIA Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]（あんしん生命のフランチャイズ史を含む）、[[life-insurers/sompo-himawari-life|Sompo Himawari Life]]、[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]、[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]]、[[life-insurers/kampo-life|Kampo Life]] である。
 
@@ -54,13 +55,9 @@ translated_at: 2026-06-19T06:09:18.171Z
 
 [[life-insurers/manulife-japan|Manulife Japan]] と [[life-insurers/prudential-japan|Prudential Japan]] は、ライフプランナー / FA 型の営業職員を備えた保障主導のフランチャイズを運営している。医療 / 特約の商品メニューは、単独の医療やがん商品ではなく、医療特約付きの終身・定期保障によってアンカーされている。[[life-insurers/axa-japan|AXA Japan]]（旧アクサ生命）はマルチチャネルの医療 / 保障フランチャイズを運営している。メットライフ生命、AIG 生命、およびより小規模な外資系が競争セットを締めくくる。
 
-## 生保大手 4  相互会社 — 終身内のバンドル医療特約
+## 生保大手 4  相互会社 — 終身内のバンドル医療特約四つの大手相互会社 — [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]] — は、専属営業職員を通じて、主に終身または定期の基礎契約への特約として医療保障を販売する。住友生命の Vitality ブランドのウェルネス連動型商品は、四社の中で最も差別化された構造的特徴である；他社は特約メニューの幅、営業職員の信頼、企業グループのクロスセルで競争する。各社は、専門保障を好むセグメント向けに、代理店および銀行窓販ルートを通じて単独の医療 / がん商品を運営している。
 
-四つの大手相互会社 — [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]] — は、専属営業職員を通じて、主に終身または定期の基礎契約への特約として医療保障を販売する。住友生命の Vitality ブランドのウェルネス連動型商品は、四社の中で最も差別化された構造的特徴である；他社は特約メニューの幅、営業職員の信頼、企業グループのクロスセルで競争する。各社は、専門保障を好むセグメント向けに、代理店および銀行窓販ルートを通じて単独の医療 / がん商品を運営している。
-
-## 大比較マトリクス表
-
-以下のマトリクスは、日本の医療 / がん専門における主要キャリアを差別化する軸を列挙する。具体的なシェア、保険料、商品名は日付特定であり、各キャリアの現在の開示と照合して確認すべきである。
+## 大比較マトリクス表以下のマトリクスは、日本の医療 / がん専門における主要キャリアを差別化する軸を列挙する。具体的なシェア、保険料、商品名は日付特定であり、各キャリアの現在の開示と照合して確認すべきである。
 
 ### キャリアのアイデンティティとフランチャイズ
 
@@ -197,9 +194,7 @@ translated_at: 2026-06-19T06:09:18.171Z
 | インターネット直販の医療 / がん | [[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] がシェアを伸ばす | 既存事業者からの選択的提供 |
 | 銀行窓販の医療 / がん | アフラック（ゆうちょ銀行）、外貨建年金キャリア | 外貨建医療バンドルの主要チャネル |
 
-## 歴史的・構造的文脈
-
-現在の日本の医療保険構造は、商品と規制の数十年にわたる進化を反映している：
+## 歴史的・構造的文脈現在の日本の医療保険構造は、商品と規制の数十年にわたる進化を反映している：
 
 - **1974  アフラックのがん保険参入** は、日本市場に専門のがん保険を導入し、このセグメントを構築した。アフラックの販売は企業 / 雇用主グループ販売と代理店を組み合わせた。
 - **1995  保険業法改正** は、免許制度を近代化し、保障 / 医療専門における外資系の拡大の基礎を築いた。
@@ -210,7 +205,7 @@ translated_at: 2026-06-19T06:09:18.171Z
 - **2010 年代の外貨建バンドルの拡大** は、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、マニュライフ等が販売する、銀行窓販を通じた医療特約付き外貨建終身を組み合わせた。
 - **2015  以降の引受基準緩和の拡大** は、標準引受の下では謝絶されていたであろう高齢 / 軽度の既往症のある申込者に医療 / がん保障を開放した。
 - **2020 年代のウェルネス連動型商品**（[[life-insurers/sumitomo-life|Sumitomo Life]] Vitality 等）は、保険料割引を健康行動と生体データに連動させる。
-- **2025  ESR の導入** は、金融庁の経済価値ベースのソルベンシー制度の下で、すべての金融庁境界のキャリアの医療 / がん負債キャッシュフローの資本処理に影響する — [[insurance/economic-value-based-solvency|economic-value-based solvency]] と [[insurance/esr-economic-value-solvency|ESR]] を参照。
+- **2025  ESR の導入** は、金融庁の経済価値ベースのソルベンシー制度の下で、すべての金融庁境界のキャリアの医療 / がん負債キャッシュフローの資本処理に影響する — [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] と [[insurance/esr-economic-value-solvency|ESR]] を参照。
 
 ## 意思決定での利用
 

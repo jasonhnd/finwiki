@@ -2,10 +2,11 @@
 source: fintech/dora-eu-digital-operational-resilience-ctpp
 source_hash: 9898acae9bcc86d8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む"
-translated_at: 2026-06-02T13:21:55.039Z
+translated_at: 2026-06-26T08:29:01.751Z
 ---
 
 # DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T13:21:55.039Z
 この項目は [[fintech/INDEX|fintech index]] に位置づけられる。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] を、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] を参照。
 
 > [!info] 要約
-> DORA 第 28-44 条の重要第三者プロバイダー（Critical Third-Party Provider、CTPP）メカニズムは、EU がクラウド / Anchorage / Coinbase Custody 等の SC 重要インフラを「間接的に監督下に取り込む」法的ツールである。あらゆる EU SC 発行体 / CASP / カストディアンは二重コンプライアンス（MiCA + DORA）が必須。2026-Q2 の第一回 CTPP リストには AWS / Azure / GCP / Anchorage / Coinbase Custody / Chainalysis / TRM Labs / Fireblocks / Circle Europe が含まれる見込み。
+> DORA 第 28-44 条の重要第三者プロバイダー（Critical Third-Party Provider、CTPP）メカニズムは、EU がクラウド / Anchorage / Coinbase カストディ等の SC 重要インフラを「間接的に監督下に取り込む」法的ツールである。あらゆる EU SC 発行体 / CASP / カストディアンは二重コンプライアンス（MiCA + DORA）が必須。2026-Q2 の第一回 CTPP リストには AWS / Azure / GCP / Anchorage / Coinbase カストディ / Chainalysis / TRM Labs / Fireblocks / Circle Europe が含まれる見込み。
 
 ## 主要事実
 
@@ -25,7 +26,7 @@ translated_at: 2026-06-02T13:21:55.039Z
 - ESAs は financial entity に契約終了を強制可能 ^[extracted]
 - オンサイト検査 + 遠隔監査権 ^[extracted]
 - 2026-Q2 に AWS / Azure / GCP は自動的に選定される見込み ^[likely]
-- Anchorage / Coinbase Custody / Fireblocks / Chainalysis / TRM Labs が予想リストに ^[likely]
+- Anchorage / Coinbase カストディ / Fireblocks / Chainalysis / TRM Labs が予想リストに ^[likely]
 - Circle Europe は二重身分:EMT 発行体 + 潜在 CTPP ^[likely]
 
 ## 仕組み

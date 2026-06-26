@@ -2,19 +2,16 @@
 source: trust-banks/ryugaku-anshin-trust
 source_hash: cb896060b8e5ed50
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "留学安心信託"
-translated_at: 2026-06-02T15:14:17.132Z
+translated_at: 2026-06-26T08:32:15.216Z
 ---
 
-# 留学安心信託
+# 留学安心信託ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
 
-ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
-
-## 概要
-
-留学安心信託は、留学費用の保全を中心に設計された管理型信託会社。FinWiki のマップ上では教育費支払いの escrow ルートであり、[[payments/psp-merchant-settlement-risk|merchant settlement risk]] や消費者保護のユースケースに隣接する。
+## 概要留学安心信託は、留学費用の保全を中心に設計された管理型信託会社。FinWiki のマップ上では教育費支払いの escrow ルートであり、[[payments/psp-merchant-settlement-risk|加盟店決済 risk]] や消費者保護のユースケースに隣接する。
 
 ## 法人境界
 

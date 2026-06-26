@@ -2,10 +2,11 @@
 source: systems/polkadot-xcm-parachain-messaging
 source_hash: d14dff3d9273d1e1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Polkadot XCM · parachain messaging v3-v4"
-translated_at: 2026-06-03T01:06:46.363Z
+translated_at: 2026-06-26T08:28:46.072Z
 ---
 # Polkadot XCM · parachain messaging v3-v4
 
@@ -19,9 +20,9 @@ translated_at: 2026-06-03T01:06:46.363Z
 
 - **XCM (Cross-Consensus Messaging)** は、parachain と relay chain の間で通信するための Polkadot の message format である
 - **Shared-security model**: Polkadot relay chain がすべての parachain state transition を検証するため、parachain ごとの consensus は不要
-- **XCM v3**(2023)は bridge / cross-ecosystem messaging を導入し、**XCM v4**(2024)は asset / location addressing と pallet primitive を洗練させた
+- **XCM v3**(2023)は bridge / cross-経済圏 messaging を導入し、**XCM v4**(2024)は asset / location addressing と pallet primitive を洗練させた
 - **Asset Hub**(旧 Statemine / Statemint)は、USDT / USDC を含む canonical asset issuance のための system parachain である
-- **JAM (Join-Accumulate Machine)** は 2024 に発表された、relay-chain-as-validator model を超える長期進化である。機関 / settlement pilot も 2025-2026
+- **JAM (Join-Accumulate Machine)** は 2024 に発表された、relay-chain-as-validator model を超える長期進化である。機関 / 決済 pilot も 2025-2026
 
 に出てきている
 
@@ -65,7 +66,7 @@ translated_at: 2026-06-03T01:06:46.363Z
 |---|---|---|
 | XCM v1  | 2021  | 初期の cross-parachain transfer |
 | XCM v2  | 2022  | Reserve-based asset transfer、より堅牢な error handling |
-| XCM v3  | 2023  | Cross-ecosystem bridging(Polkadot ↔ Kusama、Snowbridge 経由の Polkadot ↔ Ethereum)、exchange query、version negotiation |
+| XCM v3  | 2023  | Cross-経済圏 bridging(Polkadot ↔ Kusama、Snowbridge 経由の Polkadot ↔ Ethereum)、exchange query、version negotiation |
 | XCM v4  | 2024  | `MultiLocation` → `Location` typing の洗練、asset handling 改善、pallet integration 改善 |
 
 ## Asset Hub と機関 pilot
@@ -76,7 +77,7 @@ Asset Hub は Polkadot の **canonical asset registry** として機能する。
 - **Stablecoin** は XCM teleport / reserve transfer 経由で他の parachain に伝播する
 - Parachain-issued token より **手数料が低い**(slot auction overhead がない)
 
-Polkadot の settlement / shared-security model をめぐって、機関 pilot(2024-2026)が出てきている。
+Polkadot の 決済 / shared-security model をめぐって、機関 pilot(2024-2026)が出てきている。
 
 - Tokenization platform が permissioned RWA chain 用に parachain slot を探索
 - Centrifuge(RWA-focused parachain)は tokenized credit 向け

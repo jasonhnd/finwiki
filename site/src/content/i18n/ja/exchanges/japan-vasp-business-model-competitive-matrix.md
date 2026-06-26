@@ -2,21 +2,20 @@
 source: exchanges/japan-vasp-business-model-competitive-matrix
 source_hash: a51409fb3b7c29e1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較"
-translated_at: 2026-06-02T12:19:04.198Z
+translated_at: 2026-06-26T08:27:56.308Z
 ---
 ﻿
 # 日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較
 
-## 要約
-
-日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は **(1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所** という 10 のビジネスモデル軸で異なるポジションを取る。**販売所スプレッド** 収益モデルが国内市場の主軸である一方、海外系日本法人 (Binance / OKJ / OSL 等) は **取引所板厚** 訴求、Crypto Garage / Digital Asset Markets 等は **機関向け OTC + RWA** で差別化する。本マトリクスは [[exchanges/jp-vasp-parent-company-map|親会社・株主構造マップ]] と [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]] を出発点に、39 社を 10 軸で側並び比較する。
+## 要約日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は **(1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所** という 10 のビジネスモデル軸で異なるポジションを取る。**販売所スプレッド** 収益モデルが国内市場の主軸である一方、海外系日本法人 (Binance / OKJ / OSL 等) は **取引所板厚** 訴求、Crypto Garage / Digital Asset Markets 等は **機関向け OTC + RWA** で差別化する。本マトリクスは [[exchanges/jp-vasp-parent-company-map|親会社・株主構造マップ]] と [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]] を出発点に、39 社を 10 軸で側並び比較する。
 
 ## ウィキ上の位置づけ
 
-この項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。[[exchanges/global-cex-top10-comparison|グローバル CEX top 10 比較]]（規模軸）/ [[exchanges/jp-vasp-parent-company-map|親会社マップ]]（資本系列軸）/ [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制 8 極比較]]（規制軸）に対応する **事業モデル軸 (business-model-axis)** のページである。[[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] とあわせて読むと技術レイヤー、[[exchanges/cex-native-token-strategy-comparison|CEX native token 戦略比較]] とあわせて読むとトークノミクス面が分かる。上場自主規制の詳細は [[exchanges/jvcea-whitelist-token-listing|JVCEA whitelist token listing]]、インシデント履歴は [[exchanges/jp-vasp-incident-history|jp-vasp-incident-history]] に整理している。
+この項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。[[exchanges/global-cex-top10-comparison|グローバル CEX top 10 比較]]（規模軸）/ [[exchanges/jp-vasp-parent-company-map|親会社マップ]]（資本系列軸）/ [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制 8 極比較]]（規制軸）に対応する **事業モデル軸 (business-model-axis)** のページである。[[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / ウォレット architecture]] とあわせて読むと技術レイヤー、[[exchanges/cex-native-token-strategy-comparison|CEX native token 戦略比較]] とあわせて読むとトークノミクス面が分かる。上場自主規制の詳細は [[exchanges/jvcea-whitelist-token-listing|JVCEA whitelist token listing]]、インシデント履歴は [[exchanges/jp-vasp-incident-history|jp-vasp-incident-history]] に整理している。
 
 ## このマトリクスが重要な理由
 
@@ -25,7 +24,7 @@ translated_at: 2026-06-02T12:19:04.198Z
   - 販売所スプレッド (国内主流) → 営業利益率 30-50%
   - 取引所板厚 (海外流動性ブリッジ) → 営業利益率 5-15%
   - デリバ (金商法 1 種) → 営業利益率 20-40%
-  - 機関 OTC / RWA → 営業利益率 不安定 (大口取引依存)
+  - 機関 OTC / RWA → 営業利益率不安定 (大口取引依存)
 - **JVCEA 銘柄審査** が銘柄数を絞るため、海外系日本法人 (Binance / OKJ / OSL / Bybit Japan 計画中) は **グローバル親会社の銘柄ラインナップを日本市場に持ち込めない構造**。これが「海外大手の日本市場参入インセンティブを抑制する規制 moat」になっている。
 - 二大新規セグメント:
   - **電子決済手段等取引業 (ECISP)** = SBI VC Trade 第00001号で USDC 取扱開始 (2025-03)、他社追随見込
@@ -35,9 +34,9 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 ### A. 独立系老舗 + bitFlyer Holdings 系 (現物 + デリバ主軸)
 
-- **[[exchanges/jp-exchange-bitflyer|bitFlyer]]** (関東財務局 第00003号、JVCEA #1002)
+- **[[exchanges/jp-exchange-bitflyer|bitFlyer]]** (関東財務局第00003号、JVCEA #1002)
   - **モデル**: 現物販売所 + 取引所 (Lightning Spot) + デリバ (Lightning FX) + クレカ (bitFlyer クレカ、アプラス発行)
-  - **収益軸**: BTC 取引量 国内首位継続 + デリバ手数料 + bitFlyer クレカ from アプラス
+  - **収益軸**: BTC 取引量国内首位継続 + デリバ手数料 + bitFlyer クレカ from アプラス
   - **2025-12 期決算**: 売上 135 億円、営業利益 42 億円
   - **差別化**: Lightning FX デリバの板厚 + マルチ法域展開 (US 子 bitFlyer USA、欧子 bitFlyer Europe SAS)
   - **2024 動向**: [[exchanges/jp-exchange-custodiem|Custodiem]] (旧 FTX Japan) を 2024 取得 → デリバ補強
@@ -50,25 +49,25 @@ translated_at: 2026-06-02T12:19:04.198Z
   - **モデル**: 現物取引所 (BTC 中心) + 中国系流動性
   - **差別化**: 中国系ユーザーへの英語・中国語サポート
 
-### B. 金融グループ系 (現物 + デリバ + ステーキング 全方位)
+### B. 金融グループ系 (現物 + デリバ + ステーキング全方位)
 
-- **[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]** (関東財務局 第00011号、JVCEA #1011)
+- **[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]** (関東財務局第00011号、JVCEA #1011)
   - **モデル**: 現物販売所 + デリバ (3247 号、金商法 1 種) + ECISP USDC (国内 ECISP 第00001号) + ステーキング + USDC レンディング (2026-03 国内初)
   - **収益軸**: 販売所スプレッド + デリバ手数料 + USDC レンディング金利
   - **差別化**: **日本唯一の 3 種牌照同時保有** (暗号資産交換業 + 金商法 1 種 + ECISP)。SBI Circle Holdings 50/50 JV (2025-08) で USDC 国内独占分销
   - **戦略**: USD-JPY SC 跨境合规通道のキングメーカー化 ([[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]] 参照)
-- **[[exchanges/jp-exchange-gmo-coin|GMO Coin]]** (関東財務局 第00006号、JVCEA #1006)
+- **[[exchanges/jp-exchange-gmo-coin|GMO Coin]]** (関東財務局第00006号、JVCEA #1006)
   - **モデル**: 現物販売所 + 取引所 + レバレッジ取引 + ステーキング + 暗号資産レンディング
   - **収益軸**: 販売所スプレッド (国内最大級収益エンジン) + レバレッジ手数料
   - **差別化**: GMO インターネットグループ (9449) のインフラ事業延長で、テクニカルスタックの自社開発
-- **[[exchanges/jp-exchange-coincheck|Coincheck]]** (関東財務局 第00014号、JVCEA #1017、Monex 系)
+- **[[exchanges/jp-exchange-coincheck|Coincheck]]** (関東財務局第00014号、JVCEA #1017、Monex 系)
   - **モデル**: 現物販売所 + 取引所 + IEO 国内初導入 + NFT マーケットプレイス (Coincheck NFT)
   - **収益軸**: 販売所スプレッド + IEO 上場手数料 + NFT 取引手数料
   - **差別化**: Coincheck Group N.V. (Nasdaq 上場 CNCK/CNCKW) 経由でグローバル資本市場アクセス
   - **戦略**: NFT × IEO 経由で Z 世代取得
-- **[[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]]** (楽天グループ 4755 系)
+- **[[exchanges/jp-exchange-rakuten-wallet|Rakuten ウォレット]]** (楽天グループ 4755 系)
   - **モデル**: 現物販売所 + 楽天ポイント連動 (楽天経済圏ブリッジ)
-  - **差別化**: 楽天 ID + 楽天銀行 + 楽天証券 連動で生活全方位ブリッジ
+  - **差別化**: 楽天 ID + 楽天銀行 + 楽天証券連動で生活全方位ブリッジ
 - **[[exchanges/jp-exchange-mercoin|Mercoin]]** (メルカリ 4385 系)
   - **モデル**: 現物販売所 + メルペイ連動 (フリマ売上ブリッジ)
   - **差別化**: メルカリ売上の暗号資産購入直結ファネル
@@ -125,7 +124,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 - **[[exchanges/jp-exchange-bittrade|BitTrade]]** (Hbg + 旧 HuobiJapan)
 - **[[exchanges/jp-exchange-backseat-exchange|Backseat Exchange]]** (旧 coinbook、信託受益権型)
 - **[[exchanges/jp-exchange-gaia|Gaia]]** (ニッチ)
-- **[[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]]** (SBI FX トレード 子)
+- **[[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]]** (SBI FX トレード子)
 - **[[exchanges/jp-exchange-mercury|Mercury]]** (セレス 3696 系、CoinTrade 運営)
 - **[[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]** (LINE ヤフー 4689 系、2026-06 サービス終了予定)
 - **[[exchanges/jp-exchange-coinhub|CoinHub]]**
@@ -134,7 +133,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 ### F. JPYC・stablecoin 専業 (規制カテゴリ独立)
 
-- **[[exchanges/jp-exchange-jpyc|JPYC]]** (関東財務局 第00099号 資金移動業)
+- **[[exchanges/jp-exchange-jpyc|JPYC]]** (関東財務局第00099号資金移動業)
   - **モデル**: 円ステーブルコイン JPYC 発行・換金専業 (暗号資産交換業 **非**)
   - **差別化**: 唯一の資金移動業者型 SC 発行体
 
@@ -148,7 +147,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 | **SBI VC Trade** | SBI HD (8473) | 第00011号 (+ ECISP 第00001号) | 第一種 #1011 (3 牌照) | ○ | ○ | ✕ | ○ (3247) | ○ | ○ | △ | △ | ○ |
 | **bitbank** | 独立系 | (登録あり) | 第一種 | △ | ◎ Maker-rebate | ✕ | ✕ | ○ | ○ | ○ | ✕ | △ |
 | **BTCBOX** | 独立系 | (登録あり) | 第一種 | △ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Rakuten Wallet** | 楽天 (4755) | (登録あり) | 第一種 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
+| **Rakuten ウォレット** | 楽天 (4755) | (登録あり) | 第一種 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
 | **Mercoin** | メルカリ (4385) | (登録あり) | 第一種 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
 | **Binance Japan** | Binance Global (PayPay 40%) | (登録あり) | 第一種 | ◎ | ○ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ◎ |
 | **Coinbase Japan** | Coinbase Global (COIN) | (登録あり、dormant) | 第一種 | (休止) | (休止) | ✕ | ✕ | (休止) | ✕ | ✕ | ✕ | (休止) |
@@ -183,11 +182,11 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 凡例: ◎ = 主力戦略軸 / ○ = 提供 / △ = 限定的・準備中 / ✕ = 提供なし
 
-## 収益モデル × ターゲット 二軸クロス分析
+## 収益モデル × ターゲット二軸クロス分析
 
 ### 収益モデル別グループ
 
-1. **販売所スプレッド主軸** (営業利益率 30-50%): bitFlyer / Coincheck / GMO Coin / Rakuten Wallet / Mercoin / Binance Japan / SBI VC Trade (一部)
+1. **販売所スプレッド主軸** (営業利益率 30-50%): bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット / Mercoin / Binance Japan / SBI VC Trade (一部)
 2. **取引所手数料主軸** (営業利益率 5-15%): bitbank / OKJ / OSL / Binance Japan (一部)
 3. **デリバ手数料主軸** (営業利益率 20-40%): bitFlyer (Lightning FX) / GMO Coin (レバ) / SBI 証券 / Monex / Trek Labs Japan / Saxo Bank Japan / Laser Digital Japan
 4. **機関 OTC + RWA** (大口取引依存): Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan
@@ -196,7 +195,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 ### ターゲット顧客別
 
-- **個人リテール深耕**: bitFlyer / Coincheck / GMO Coin / Rakuten Wallet / Mercoin / Binance Japan / OKJ / Gate Japan
+- **個人リテール深耕**: bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット / Mercoin / Binance Japan / OKJ / Gate Japan
 - **機関投資家深耕**: Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan / Saxo Bank Japan
 - **企業間決済 (B2B)**: SBI VC Trade (USDC) + JPYC (資金移動業)
 - **証券会社 PTS / RWA**: Digital Asset Markets / Crypto Garage
@@ -211,7 +210,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 ### スプレッド競争
 
-- 国内販売所スプレッドは 0.5-3% レンジで業者・銘柄により差。bitFlyer / Coincheck / GMO Coin / Rakuten Wallet がリテール販売所主軸。
+- 国内販売所スプレッドは 0.5-3% レンジで業者・銘柄により差。bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット がリテール販売所主軸。
 - 取引所板の Maker rebate モデルは bitbank が最も明確 (-0.02% Maker rebate)。
 
 ### 上場速度競争
@@ -228,7 +227,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 
 ### B1. JPYC vs SBI VC Trade — 異なる規制カテゴリの SC ビジネス
 
-- JPYC = 資金移動業者型 SC 発行体 (暗号資産交換業 非)
+- JPYC = 資金移動業者型 SC 発行体 (暗号資産交換業非)
 - SBI VC Trade = ECISP 経由 USDC 取扱業者 + 暗号資産交換業 + 金商法 1 種
 - 両者は法的に異なるが、stablecoin ビジネスとして競合関係 ([[fintech/japan-epi-four-camps-comparison|EPI 四阵营]] 参照)
 
@@ -244,7 +243,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 ### B4. デリバ専業 vs 現物専業の二極化
 
 - デリバ専業: SBI 証券 / Monex / Trek Labs Japan / Saxo Bank Japan / DMM.com Securities / Money Partners / Traders Securities / Goldenway Japan / Laser Digital Japan
-- 現物専業 (デリバなし): Coincheck / Rakuten Wallet / Mercoin / OKJ / Gate Japan / S.BLOX / Mercury / Backseat
+- 現物専業 (デリバなし): Coincheck / Rakuten ウォレット / Mercoin / OKJ / Gate Japan / S.BLOX / Mercury / Backseat
 - 両方提供: bitFlyer / SBI VC Trade / GMO Coin / Binance Japan
 
 ### B5. JVCEA 第二種会員 (デリバ専業) の位置付け
@@ -262,7 +261,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 - [[exchanges/INDEX|exchanges index]]
 - [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]]
 - [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 比較]]
-- [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]]
+- [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / ウォレット architecture]]
 - [[exchanges/cex-native-token-strategy-comparison|CEX native token 戦略比較]]
 - [[exchanges/jp-vasp-parent-company-map|VASP 親会社マップ]]
 - [[exchanges/jvcea-whitelist-token-listing|JVCEA whitelist token listing]]
@@ -276,7 +275,7 @@ translated_at: 2026-06-02T12:19:04.198Z
 - [[exchanges/jp-exchange-okcoin-japan|OKJ]]
 - [[exchanges/jp-exchange-osl-japan|OSL Japan]]
 - [[exchanges/jp-exchange-laser-digital-japan|Laser Digital Japan]]
-- [[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]]
+- [[exchanges/jp-exchange-rakuten-wallet|Rakuten ウォレット]]
 - [[exchanges/jp-exchange-mercoin|Mercoin]]
 - [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]
 - [[exchanges/jp-exchange-jpyc|JPYC]]
@@ -284,8 +283,8 @@ translated_at: 2026-06-02T12:19:04.198Z
 - [[exchanges/jp-exchange-mercury|Mercury (CoinTrade)]]
 - [[exchanges/jp-vasp-incident-history|jp-vasp-incident-history]]
 - [[exchanges/jp-vasp-ma-consolidation-history|jp-vasp-ma-consolidation-history]]
-- [[exchanges/japan-stablecoin-issuer-regulatory-classification-matrix|日本 stablecoin 発行体 規制分類マトリクス]]
-- [[exchanges/crypto-custody-provider-landscape-matrix|crypto custody provider landscape matrix]]
+- [[exchanges/japan-stablecoin-issuer-regulatory-classification-matrix|日本 stablecoin 発行体規制分類マトリクス]]
+- [[exchanges/crypto-custody-provider-landscape-matrix|crypto カストディ provider landscape matrix]]
 
 ## 出典
 

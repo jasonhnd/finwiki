@@ -2,10 +2,11 @@
 source: retail/japan-retail-financial-distribution-wedge-matrix
 source_hash: c0889ed81c937cf8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の小売金融流通ウェッジ・マトリクス"
-translated_at: 2026-06-19T13:13:22.631Z
+translated_at: 2026-06-26T08:32:15.208Z
 ---
 
 # 日本の小売金融流通ウェッジ・マトリクス
@@ -187,7 +188,7 @@ FRS / IFRS 15型のポイント負債開示がさらに厳格化する場合 —
 | Dwell time per visit | 30 min – 3 hours | 2 – 8 minutes | 2 – 8 minutes |
 | Average basket size | ¥3,000 – ¥10,000+ | ¥500 – ¥1,500 | ¥500 – ¥1,500 |
 | Visit frequency per customer | 1 – 4 times / month | 8 – 30 times / month | 8 – 30 times / month |
-| Best-fit finance product | Counter-led mortgage, insurance, investment-trust | Bill payment, ATM withdrawal, 前払式 recharge | Bill payment, ATM withdrawal, code-payment top-up |
+| Best-fit finance product | Counter-led mortgage, insurance, investment-trust | Bill payment, ATM withdrawal, 前払式 recharge | Bill payment, ATM withdrawal, コード決済 top-up |
 | Highest-leverage data | Cross-category basket (food + apparel + household) | Daily-need SKU velocity | Daily-need SKU velocity + telco / mobility cross-data via KDDI |
 | Customer-ID activation moment | In-app coupon at mall entry; finance-branch sit-down | In-app push at POS; ATM transaction | In-app push at POS; au PAY top-up; Ponta scan |
 

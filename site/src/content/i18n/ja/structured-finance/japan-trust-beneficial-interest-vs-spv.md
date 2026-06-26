@@ -2,10 +2,11 @@
 source: structured-finance/japan-trust-beneficial-interest-vs-spv
 source_hash: 17b28a9a18011659
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "信託受益権 vs SPV（日本の証券化ビークル）"
-translated_at: 2026-06-19T12:43:19.860Z
+translated_at: 2026-06-26T08:32:15.211Z
 ---
 
 # 信託受益権 vs SPV（日本の証券化ビークル）
@@ -87,16 +88,14 @@ translated_at: 2026-06-19T12:43:19.860Z
 
 | Reason | Detail |
 |---|---|
-| Standardization | TK-GK is the established structure for repeat-issuer auto / consumer ABS |
+| Standardization | TK-GK is the established structure for repeat-発行会社 auto / consumer ABS |
 | Tax efficiency | TK overlay achieves single-layer taxation cleanly |
 | Cost | TK-GK can be cheaper to set up than full trust arrangement |
 | Bond-issuance flexibility | TK interest is a contractual investment; not constrained by trust-act mechanics |
 
 リピートイシュアーの ABS プログラム（トヨタファイナンス、オリコ、ジャックス）にとって、TK-GK スキームは主力である —— [[structured-finance/spv-tk-gk-vehicle-japan-tax]] を参照。
 
-## 7. デュアルリスト / 複合構造
-
-一部の案件は信託 + SPV を組み合わせる：
+## 7. デュアルリスト / 複合構造一部の案件は信託 + SPV を組み合わせる：
 
 | Pattern | Description |
 |---|---|

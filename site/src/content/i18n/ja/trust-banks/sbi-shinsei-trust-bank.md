@@ -2,17 +2,18 @@
 source: trust-banks/sbi-shinsei-trust-bank
 source_hash: 9629d32ea59df5ee
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBI新生信託銀行（SBI Shinsei Trust Bank）"
-translated_at: 2026-06-02T15:14:17.103Z
+translated_at: 2026-06-26T08:32:30.863Z
 ---
 
 # SBI新生信託銀行（SBI Shinsei Trust Bank）
 
 ## ウィキ上の位置づけ
 
-SBI新生信託銀行は、認可を受けた信託銀行の事業会社ページとして [[trust-banks/INDEX|trust-banks INDEX]]に置かれる。併せて[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sbi-hd|SBI Holdings]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[payment-firms/progmat|Progmat]], [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+SBI新生信託銀行は、認可を受けた信託銀行の事業会社ページとして [[trust-banks/INDEX|trust-banks INDEX]]に置かれる。併せて[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sbi-hd|SBI Holdings]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[payment-firms/progmat|Progmat]], [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]].
 
 信託銀行の法人格、信託スキーム、証券化、セキュリティトークン、信託銀行を裏付けとするデジタル金融ルートを扱う場合にこのページを使う。 通常の銀行戦略や公的資金返済の履歴は[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]を参照する。
 

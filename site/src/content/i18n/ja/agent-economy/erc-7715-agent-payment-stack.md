@@ -2,10 +2,11 @@
 source: agent-economy/erc-7715-agent-payment-stack
 source_hash: 9397cf2ee13c7394
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調"
-translated_at: 2026-06-02T11:47:37.285Z
+translated_at: 2026-06-26T08:27:56.299Z
 ---
 
 # ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調
@@ -18,9 +19,9 @@ translated_at: 2026-06-02T11:47:37.285Z
 
 - x402 は HTTP 層の決済ハンドシェイクを担う(Cloudflare/Coinbase/AWS が推進) ^[extracted]
 - AP2 / MPP / ACP は agent 間の交渉メタデータを担う ^[extracted]
-- ERC-7715 は wallet から agent への認可を担う ^[extracted]
-- ERC-4337 / 7702 はプログラマブル wallet の基盤を提供する ^[extracted]
-- 主要プレイヤー:MetaMask Snaps / Coinbase Smart Wallet / Safe / Privy / Pimlico / ZeroDev ^[extracted]
+- ERC-7715 は ウォレット から agent への認可を担う ^[extracted]
+- ERC-4337 / 7702 はプログラマブルウォレット の基盤を提供する ^[extracted]
+- 主要プレイヤー:MetaMask Snaps / Coinbase Smart ウォレット / Safe / Privy / Pimlico / ZeroDev ^[extracted]
 
 ## 仕組み／動作の仕方
 
@@ -30,21 +31,21 @@ translated_at: 2026-06-02T11:47:37.285Z
 |---|---|---|
 | **HTTP** | x402 | API が 402 + 決済指示を返却 · client が決済完了後リトライ |
 | **Agent 交渉** | AP2 / MPP / ACP / A2A | mandate / intent メタデータ標準 |
-| **Wallet 認可** | ERC-7715 | agent に scoped permission を付与 · 一度の認可で複数回利用 |
-| **Wallet 基盤** | ERC-4337 / 7702 | プログラマブル wallet([[systems/erc-4337-overview|ERC-4337]] と [[systems/erc-7702-overview|ERC-7702]] 参照) · module / delegation をサポート |
+| **ウォレット認可** | ERC-7715 | agent に scoped permission を付与 · 一度の認可で複数回利用 |
+| **ウォレット基盤** | ERC-4337 / 7702 | プログラマブルウォレット([[systems/erc-4337-overview|ERC-4337]] と [[systems/erc-7702-overview|ERC-7702]] 参照) · module / delegation をサポート |
 
 **典型的な agent 自動決済フロー**:
 1. ユーザーが agent に「毎日 $5 まで vercel.com API に支払ってよい」と認可(7715 scoped permission)
 2. agent が Vercel API を呼び出す · Vercel が HTTP 402 + USDC 決済指示を返却(x402)
-3. agent が wallet から $0.50 USDC を自動で取り出し決済(7715 scope 内 · ユーザー署名不要)
+3. agent が ウォレット から $0.50 USDC を自動で取り出し決済(7715 scope 内 · ユーザー署名不要)
 4. Vercel が決済を検証し · API レスポンスを返却
-5. ユーザーは wallet UI で当日累計 $X.XX が Vercel に支払われたことを確認 · permission はいつでも撤回可能
+5. ユーザーは ウォレット UI で当日累計 $X.XX が Vercel に支払われたことを確認 · permission はいつでも撤回可能
 
 **Stripe Privy 統合のポテンシャル**:Stripe は Privy(買収済み)を通じて既に [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット]] に接続している。Stripe + Privy + 7715 + AP2 が統合されれば · **任意の SaaS が agent からの自動決済を受け取れる** · クレジットカード番号も OAuth も購読管理も不要 — SaaS の課金層を Stripe Billing(カード基盤)からオンチェーン permission(アドレス + scope 基盤)へ移行させる。詳細は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] を参照。
 
 **主要プレイヤーの分業**:
 - **MetaMask Snaps**:2025 に 7715 実装 · EOA + 7702 デュアルモード
-- **Coinbase Smart Wallet**:ネイティブサポート · Coinbase Agent SDK と統合
+- **Coinbase Smart ウォレット**:ネイティブサポート · Coinbase Agent SDK と統合
 - **Safe{Core}**:Module 形式で実装 · 機関 multi-sig + サブ権限
 - **Privy**:7715 + AP2 を統合 · Stripe agent 決済シナリオ
 - **Pimlico / ZeroDev**:7715 ↔ 4337 bundler ミドルウェアを提供
@@ -53,7 +54,7 @@ translated_at: 2026-06-02T11:47:37.285Z
 
 ## 起源と進化
 
-agent payment stack の概念は 2024-2025 にかけて徐々に成立した — 初期は各プロトコル(x402 / AP2 / 7715)を別チームが推進していたが、2025 後半から意識的な協調が始まった。Coinbase Smart Wallet が 2025 に披露した「ネイティブ agent 決済」デモは決定的な実証イベントであり、4層 stack のエンドツーエンドでの稼働を示した。
+agent payment stack の概念は 2024-2025 にかけて徐々に成立した — 初期は各プロトコル(x402 / AP2 / 7715)を別チームが推進していたが、2025 後半から意識的な協調が始まった。Coinbase Smart ウォレット が 2025 に披露した「ネイティブ agent 決済」デモは決定的な実証イベントであり、4層 stack のエンドツーエンドでの稼働を示した。
 
 Stripe による Privy 買収(2024)は、Web2 決済巨頭がオンチェーン permission モデルに明示的に賭けた初の事例である。2026-2027 にかけて最初の production 級 agent SaaS 統合事例が登場すると見込まれる。
 

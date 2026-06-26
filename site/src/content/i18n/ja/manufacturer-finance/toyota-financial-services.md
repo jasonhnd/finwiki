@@ -2,13 +2,14 @@
 source: manufacturer-finance/toyota-financial-services
 source_hash: 3a4b75a92f36e0ca
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)"
-translated_at: 2026-06-19T13:31:34.048Z
+title: "Toyota Financial Services (トヨタファイナンシャルサービス製造業視点アンカー)"
+translated_at: 2026-06-26T08:32:07.554Z
 ---
 
-# Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)
+# Toyota Financial Services (トヨタファイナンシャルサービス製造業視点アンカー)
 
 ## Wiki route
 
@@ -61,7 +62,7 @@ Toyota Motor Corporation (7203, 製造業本体)
 | リース (個人残クレ + 法人フリート) | 全世界 | 残価リスク集約、買い替えサイクル制御 |
 | TS キュービックカード | 国内 | Toyota 純正部品・点検・燃料・サービス購買データ |
 | 保険 (代理販売 + 引受持株) | 全世界 | 顧客関係の長期化、データ取得 |
-| Toyota Wallet 等モビリティ金融 | 国内中心、海外展開 | カーシェア・サブスク KINTO 連動 |
+| Toyota ウォレット等モビリティ金融 | 国内中心、海外展開 | カーシェア・サブスク KINTO 連動 |
 | ディーラー金融 (在庫金融) | 全世界 | ディーラー支援、生産・出荷タイミング調整 |
 | サプライヤー金融 | 国内中心 | 部品サプライヤー支援、ジャストインタイム維持 |
 
@@ -75,8 +76,8 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 |---|---|---|
 | Toyota Motor 連結売上 | 約 48 兆円 (FY2024 通期) | Toyota Motor 決算短信 |
 | Toyota Motor 連結純利益 | 約 4.9 兆円 (FY2024 通期) | 同上 |
-| 金融セグメント 営業収益 | 約 3 兆円規模 | セグメント情報 |
-| 金融セグメント 営業利益 | 約 4,000 億円規模 | 同上 |
+| 金融セグメント営業収益 | 約 3 兆円規模 | セグメント情報 |
+| 金融セグメント営業利益 | 約 4,000 億円規模 | 同上 |
 | TFS 連結総資産 | 約 30 兆円規模 (推計) | 親会社セグメント・各国法人 disclosure |
 | 世界展開国 | 30+ ヵ国 | TFS 公式 |
 | 主要競合 (米国) | Ford Motor Credit, Ally Financial, GM Financial | 業界レポート |
@@ -91,7 +92,7 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 - **販売金融の総合パッケージ化**: 新車購入時に **「車両 + ローン + リース + 保険 + カード」** を一括提案するディーラーモデルが Toyota の競争力の核。銀行系オートローンに対する優位性は **販売現場での送客力**。
 - **米国 TMCC の規模**: 米国市場では Ford Motor Credit や Ally Financial と肩を並べる規模で、米国オート ABS 市場の主要発行体。TMCC は SEC 登録、Form 10-K で詳細開示。
 - **EV / コネクテッド時代の captive リポジショニング**: BEV のサブスクリプション (Toyota の KINTO)・カーシェア・利用量連動保険 (UBI) など、車両の所有から利用へのシフトに合わせて captive 商品を再設計中。
-- **モビリティ金融の本格化**: トヨタの「モビリティカンパニー」宣言 (2018) と連動し、TFS は「Mobility Financial Services」へリブランディング中。Toyota Wallet (国内決済)、KINTO サブスク、Woven シティ実験との接続。
+- **モビリティ金融の本格化**: トヨタの「モビリティカンパニー」宣言 (2018) と連動し、TFS は「Mobility Financial Services」へリブランディング中。Toyota ウォレット (国内決済)、KINTO サブスク、Woven シティ実験との接続。
 - **新興国展開**: タイ・インドネシア・豪州・ブラジル・南アフリカなど、トヨタ販社と連動した先行展開。為替・カントリーリスクを地域分散で吸収。
 
 ## 5. 規制・政策

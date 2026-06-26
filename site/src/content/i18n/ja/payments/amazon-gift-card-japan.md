@@ -2,20 +2,21 @@
 source: payments/amazon-gift-card-japan
 source_hash: 0a1a27dd4347c3d3
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Amazon Gift Card Japan: クローズドループ型 EC 前払"
-translated_at: 2026-06-02T16:33:58.483Z
+translated_at: 2026-06-26T08:38:42.154Z
 ---
 # Amazon Gift Card Japan: クローズドループ型 EC 前払
 
 ## ウィキ上の位置づけ
 
-この項目は、Amazon Japan ギフトカードの前払発行者ページとして [[payments/INDEX|payments index]] 配下にあり、FSA 登録簿の見方を扱う [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と対になります。[[payments/apple-gift-card-japan|Apple Gift Card Japan]]、[[payments/google-play-gift-card-japan|Google Play Gift Card Japan]]（プラットフォームをアンカーとするクローズドループ型ギフトカードの比較対象）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型のオープンループギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク前払）と比較してください。第三者小売をアンカーとする前払（[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]）とは区別してください。Amazon Gift Card は **クローズドループ**（Amazon.co.jp のみで利用可能）であり、WAON / nanaco は第三者の複数加盟店で受け入れられます。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] です。
+この項目は、Amazon Japan ギフトカードの前払発行者ページとして [[payments/INDEX|payments index]] 配下にあり、FSA 登録簿の見方を扱う [[payments/prepaid-payment-instrument-issuers-japan-index|前払式 payment instrument 発行会社 registry]] と対になります。[[payments/apple-gift-card-japan|Apple Gift Card Japan]]、[[payments/google-play-gift-card-japan|Google Play Gift Card Japan]]（プラットフォームをアンカーとするクローズドループ型ギフトカードの比較対象）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型のオープンループギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク前払）と比較してください。第三者小売をアンカーとする前払（[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]）とは区別してください。Amazon Gift Card は **クローズドループ**（Amazon.co.jp のみで利用可能）であり、WAON / nanaco は第三者の複数加盟店で受け入れられます。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] です。
 
 ## 要約
 
-**Amazon Gift Card（Amazonギフト券）** は Amazon.co.jp の **クローズドループ型前払 EC クレジット** です。日本では **Amazon Japan G.K.（アマゾンジャパン合同会社）** が発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] に基づく 自家型（単一加盟店 / クローズドループ）前払式支払手段として登録されています。[[payments/quo-card-prepaid|QUO Card]] および [[payments/visa-gift-card-japan|Visa Gift Card]]（どちらもオープンループ / 複数加盟店型）とは異なり、Amazon Gift Card はマーケットプレイスでの購入に **Amazon.co.jp のみ** で使えます。流通レールは、**eGift デジタルコード**（Eメール、SNS 配送、カスタマイズ可能）、**プラスチックギフトカード**（Lawson / FamilyMart / MiniStop / 7-Eleven / ドラッグストア等のコンビニ販売）、**チャージタイプ**（コンビニレジ / Amazon サイトでのアカウント残高チャージ）、**ボックス / 封筒型の物理ギフト包装** にまたがります。この商品は **贈答**（受取人向けのデジタル / 物理 eGift）と **自己チャージ**（クレジットカードを持たない利用者の Amazon.co.jp カードレス決済）の両方を対象としており、とくに銀行サービスに十分アクセスできない層、未成年、クレジットカード非保有層に重要です。
+**Amazon Gift Card（Amazonギフト券）** は Amazon.co.jp の **クローズドループ型前払 EC クレジット** です。日本では **Amazon Japan G.K.（アマゾンジャパン合同会社）** が発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] に基づく 自家型（単一加盟店 / クローズドループ）前払式支払手段として登録されています。[[payments/quo-card-prepaid|QUO Card]] および [[payments/visa-gift-card-japan|Visa Gift Card]]（どちらもオープンループ / 複数加盟店型）とは異なり、Amazon Gift Card はマーケットプレイスでの購入に **Amazon.co.jp のみ** で使えます。流通レールは、**eGift デジタルコード**（Eメール、SNS 配送、カスタマイズ可能）、**プラスチックギフトカード**（Lawson / FamilyMart / MiniStop / 7-Eleven / ドラッグストア等のコンビニ販売）、**チャージタイプ**（コンビニレジ / Amazon サイトでのアカウント残高チャージ）、**ボックス / 封筒型の物理ギフト包装** にまたがります。この商品は **贈答**（受取人向けのデジタル / 物理 eGift）と **自己チャージ**（クレジットカードを持たない利用者の Amazon.co.jp カードレス決済）の両方を対象としており、とくに銀行サービスに十分アクセスできない層、未成年、クレジットカード非保有層に重要です。
 
 ## 発行者と運営構造
 
@@ -26,7 +27,7 @@ translated_at: 2026-06-02T16:33:58.483Z
 | FSA 前払登録 | 自家型前払式支払手段（クローズドループ）— 単一加盟店 Amazon.co.jp での利用 |
 | 法的分類 | クローズドループ型前払（第三者型ではない）— `daisan.xlsx` 第三者リストには掲載されない |
 | 日本での開始年 | 2003 （Amazon.co.jp は 2000 に開始。ギフトカード商品群はその後拡大） |
-| 額面 | プラスチック / ボックスカードの固定額面（¥500, ¥1,000, ¥2,000, ¥3,000, ¥5,000, ¥10,000）と、eGift / チャージタイプ向けの変動額面・自由選択額面（通常、1取引あたり ¥15  から ¥500,000 ） |
+| 額面 | プラスチック / ボックスカードの固定額面（¥500, ¥1,000, ¥2,000, ¥3,000, ¥5,000, ¥10,000）と、eGift / チャージタイプ向けの変動額面・自由選択額面（通常、1取引あたり ¥15  から ¥500,000） |
 | 流通レール | Amazon.co.jp eGift、コンビニでの物理カード、アカウント残高チャージ、B2B 法人一括プログラム |
 | 受入範囲 | Amazon.co.jp のみ |
 | 有効期限 | 発行 / 最終チャージから 10  年 |

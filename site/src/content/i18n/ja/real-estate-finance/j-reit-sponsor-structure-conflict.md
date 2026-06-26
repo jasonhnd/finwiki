@@ -2,10 +2,11 @@
 source: real-estate-finance/j-reit-sponsor-structure-conflict
 source_hash: a47c7dc1442da267
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "J-REIT のスポンサー構造と利益相反"
-translated_at: 2026-06-19T12:43:19.888Z
+translated_at: 2026-06-26T08:28:46.068Z
 ---
 
 # J-REIT のスポンサー構造と利益相反
@@ -18,15 +19,15 @@ translated_at: 2026-06-19T12:43:19.888Z
 
 ## Wiki route
 
-[[real-estate-finance/INDEX|real-estate-finance domain]] をアンカーとし、[[real-estate-finance/j-reit-market-overview|J-REIT market overview]] および [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] の後にこの項目をたどること。構造下のトラスティ（受託者）の仕組みについては [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] を参照。上場デベロッパー側（スポンサー側）については [[finance/INDEX|finance domain]] と [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] にクロスリンクし、特にリテール／モール系スポンサーについては [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]] にクロスリンクすること。
+[[real-estate-finance/INDEX|real-estate-finance domain]] をアンカーとし、[[real-estate-finance/j-reit-market-overview|J-REIT market overview]] および [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] の後にこの項目をたどること。構造下のトラスティ（受託者）の仕組みについては [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]] を参照。上場デベロッパー側（スポンサー側）については [[finance/INDEX|finance domain]] と [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] にクロスリンクし、特にリテール／モール系スポンサーについては [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]] にクロスリンクすること。
 
 ## 1. 三者構造
 
 | Party | Role | Public-surface evidence |
 |---|---|---|
-| Sponsor | Developer / operator company that supplies pipeline, owns the asset-management company, holds a unit stake in the J-REIT | Listed-developer IR + asset-management-company filings + J-REIT IR |
+| Sponsor | Developer / 事業者 company that supplies pipeline, owns the asset-management company, holds a unit stake in the J-REIT | Listed-developer IR + asset-management-company filings + J-REIT IR |
 | Asset-management company | Registered investment-management business (FSA-registered) running the J-REIT | FSA register, asset-management-company website, J-REIT IR materials |
-| Investment corporation (J-REIT) | Issuer of investment units; holds assets via trust beneficiary interests | JPX listing page + IR + securities report |
+| Investment corporation (J-REIT) | 発行会社 of investment units; holds assets via trust beneficiary interests | JPX listing page + IR + securities report |
 
 投資法人は投資信託法に基づく法定の執行役員および監督役員を有するが、日々の資産運用、取得判断、リーシング、ファイナンスは資産運用会社に委託される。
 
@@ -61,7 +62,7 @@ translated_at: 2026-06-19T12:43:19.888Z
 | AEON | Retail group | AEON REIT | Sponsor pipeline from [[retail/aeon-group\|AEON Group]] retail real estate. |
 | GLP | Foreign logistics sponsor | GLP J-REIT | Logistics. |
 | Prologis | Foreign logistics sponsor | Nippon Prologis REIT | Logistics. |
-| Mitsubishi UFJ Trust / Mizuho Trust / SMTB | Trustee (not sponsor) | Various | These trust banks are not sponsors. They sit in the trustee role; see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]]. |
+| Mitsubishi UFJ Trust / Mizuho Trust / SMTB | Trustee (not sponsor) | Various | These trust banks are not sponsors. They sit in the trustee role; see [[banking/trust-bank-custody-operating-comparison\|trust bank カストディ operating comparison]]. |
 
 スポンサーの素性は、J-REIT 分析において資産クラス以外で最も重要な単一の変数である。それはパイプラインの可視性、レバレッジ方針、および利害関係者取引の規律を左右する。
 
@@ -77,9 +78,7 @@ translated_at: 2026-06-19T12:43:19.888Z
 | Operating contracts | Property-management contracts with sponsor affiliate at off-market terms | Related-party-transaction control + asset-management-company internal-control rule |
 | Cross-shareholding | Sponsor uses J-REIT units as strategic balance-sheet item | Public disclosure via unit-holder report and large-shareholder filings |
 
-## 5. 金融庁の精査レーン
-
-金融庁は、J-REIT のガバナンス、資産運用会社の内部統制態勢、および利害関係者取引方針を定期的に審査する。金融庁／業界のガイダンスに経年で現れてきた主要なテーマには以下が含まれる。
+## 5. 金融庁の精査レーン金融庁は、J-REIT のガバナンス、資産運用会社の内部統制態勢、および利害関係者取引方針を定期的に審査する。金融庁／業界のガイダンスに経年で現れてきた主要なテーマには以下が含まれる。
 
 - 資産運用会社内部における利害関係者取引の承認手続きの強化。
 - 投資法人レベルにおける監督役員の独立性の強化。
@@ -95,7 +94,7 @@ translated_at: 2026-06-19T12:43:19.888Z
 |---|---|
 | Investment Trust Act statutory framework | Defines investment-corporation governance, distribution mechanics, and asset-management-company duties |
 | Asset-management-company FSA registration | Subject to FSA inspection, internal-control rules, compliance officer requirement |
-| Trustee role | Trust bank holds assets via trust beneficiary interest; sits outside the sponsor / asset-management-company chain (see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]]) |
+| Trustee role | Trust bank holds assets via trust beneficiary interest; sits outside the sponsor / asset-management-company chain (see [[banking/trust-bank-custody-operating-comparison\|trust bank カストディ operating comparison]]) |
 | Supervisory officer | Independent officer at investment-corporation level |
 | Unit-holders' meeting | Approval power on key matters including asset-management-company change |
 | Public IR / securities report | Continuing disclosure including related-party transactions |
@@ -116,7 +115,7 @@ translated_at: 2026-06-19T12:43:19.888Z
 - [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]]
 - [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|Private REIT Japan vs listed J-REIT comparison]]
 - [[banking/INDEX|banking index]]
-- [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
+- [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]]
 - [[finance/INDEX|finance index]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[policy-finance/INDEX|policy-finance index]]

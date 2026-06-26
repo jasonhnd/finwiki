@@ -2,10 +2,11 @@
 source: fintech/central-banking-function-unbundling
 source_hash: f01c443ba9affafe
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "中央銀行機能のアンバンドリング 5 層"
-translated_at: 2026-06-02T13:21:55.054Z
+translated_at: 2026-06-26T08:29:33.001Z
 ---
 
 # 中央銀行機能のアンバンドリング 5 層
@@ -23,7 +24,7 @@ translated_at: 2026-06-02T13:21:55.054Z
 | # | 機能 | 1944-2022 担い手 | 2022-2030 進化 |
 |---|---|---|---|
 | 1 | **計算単位**（Unit of Account） | 中央銀行が独占 | 依然主権（USD/EUR/JPY 等） |
-| 2 | **決済媒体**（Settlement Medium） | 中央銀行準備 + 商業銀行預金 | **民営化** → SC / TD / MMF 三層が網状に交錯 |
+| 2 | **決済媒体**（決済 Medium） | 中央銀行準備 + 商業銀行預金 | **民営化** → SC / TD / MMF 三層が網状に交錯 |
 | 3 | **決済管路**（Payment Rails） | SWIFT + 中央銀行 RTGS + 商業銀行クリアリング | **多極化** → IPS / 民間 DLT / 中央銀行連邦 / カードネットワーク / 新型 L1 の 7-8 セグメントが並行 |
 | 4 | **アイデンティティ / KYC**（Identity） | 銀行 KYC + 主権 ID | **商品化** → OCC charter / FIDO / Anchorage / チェーン・レベル KYA |
 | 5 | **執行**（Enforcement） | OFAC + SWIFT 制裁 + 銀行報告 | **チェーン・ネイティブ化** → §501 Denylist / chain-level freeze / Travel Rule |
@@ -69,9 +70,7 @@ translated_at: 2026-06-02T13:21:55.054Z
 
 **JPMorgan は隠れた巨人**: #2-#5 すべてで主権を close しており、crypto エコシステムに依存しない。唯一の弱点は crypto-native でない点だが、TD 経路には §501 SC 資格が不要。
 
-## 応用
-
-以下の分析に活用できる:
+## 応用以下の分析に活用できる:
 
 - 任意の「金融インフラ再編」事象（CBDC ローンチ、SWIFT 代替、クロスボーダー決済再構築など)
 - 単一プレイヤーの「レイヤー版図」診断（強弱の識別）

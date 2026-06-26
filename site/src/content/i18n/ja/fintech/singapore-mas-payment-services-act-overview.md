@@ -2,10 +2,11 @@
 source: fintech/singapore-mas-payment-services-act-overview
 source_hash: 8c19efe1e5db4cfc
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "シンガポール MAS Payment Services Act + SCS フレームワーク概観"
-translated_at: 2026-06-02T13:21:55.043Z
+translated_at: 2026-06-26T08:29:33.009Z
 ---
 
 # シンガポール MAS Payment Services Act + SCS フレームワーク概観
@@ -25,7 +26,7 @@ translated_at: 2026-06-02T13:21:55.043Z
 - DPT 主要ライセンス保有者（2026-05）：DBS Vickers / Independent Reserve / HashKey / Coinbase Singapore / Crypto.com / Sygnum Singapore / Anchorage Digital Singapore / StraitsX（Xfers）^[extracted]
 - SCS ライセンス保有者：StraitsX XSGD（2023-12）/ Paxos USDP（オフショア子会社申請中）^[extracted]
 - 2026-03：Singapore-US MRA 締結 → §501(d) 第一波アジア入り ^[extracted]
-- 資本 / 流通残高閾値：S$5M（HKMA HKD 100M より遥かに低い）→ 中堅 発行体に優しい ^[extracted]
+- 資本 / 流通残高閾値：S$5M（HKMA HKD 100M より遥かに低い）→ 中堅発行体に優しい ^[extracted]
 - 税務：キャピタルゲイン 0%（個人）^[extracted]
 
 ## 仕組み
@@ -53,7 +54,7 @@ DPT ライセンス体系の詳細な機関階層は [[exchanges/sg-mas-dpt-lice
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコインライセンス概観]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC issuer · DPT 流通主体]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC 発行会社 · DPT 流通主体]]
 <!-- /wiki-links:managed -->
 
 ## 出典

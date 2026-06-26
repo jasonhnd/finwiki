@@ -2,18 +2,17 @@
 source: payments/psp-merchant-settlement-risk
 source_hash: a10e0427754465dd
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "PSP の加盟店精算リスク"
-translated_at: 2026-06-02T16:33:58.499Z
+translated_at: 2026-06-26T08:32:23.054Z
 ---
 # PSP の加盟店精算リスク
 
-## 概要
+## 概要加盟店 PSP リスクとは、チェックアウト成功と最終的な資金移動の間にあるリスクである。加盟店オンボーディング、カード番号取扱い、不正監視、チャージバック、リザーブ、精算タイミング、返金、プラットフォームまたはウォレット障害が含まれる。日本では、分析に METI のカード番号取扱 / 加盟店契約ルート、FSA 資金移動業登録、前払式支払手段ルール、決済ブランド / ネットワーク契約を組み合わせる必要がある。
 
-加盟店 PSP リスクとは、チェックアウト成功と最終的な資金移動の間にあるリスクである。加盟店オンボーディング、カード番号取扱い、不正監視、チャージバック、リザーブ、精算タイミング、返金、プラットフォームまたはウォレット障害が含まれる。日本では、分析に METI のカード番号取扱 / 加盟店契約ルート、FSA 資金移動業登録、前払式支払手段ルール、決済ブランド / ネットワーク契約を組み合わせる必要がある。
-
-このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]] と併せて読む。[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]、[[payment-firms/netstars|Netstars]] などの会社ページは、加盟店リスクが真の論点である場合にここへリンクする。
+このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、[[payments/japan-code-payment-competitive-map|コード決済 competitive map]] と併せて読む。[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]、[[payment-firms/netstars|Netstars]] などの会社ページは、加盟店リスクが真の論点である場合にここへリンクする。
 
 ## リスクスタック
 
@@ -33,7 +32,7 @@ translated_at: 2026-06-02T16:33:58.499Z
 |---|---|
 | METI クレジットカード番号等取扱契約締結事業者 | 割賦販売法上、誰が加盟店契約 / カード番号取扱責任を負うかを決める。 |
 | FSA 資金移動業者 | PSP / ウォレット機能が純粋なカード処理を超えて移転機能を含む場合に適用される。 |
-| FSA 前払式支払手段発行者レジストリ | 第三者利用可能で払戻不能の stored value が発行される場合に適用される。 |
+| FSA 前払式支払手段発行者レジストリ | 第三者利用可能で払戻不能の バリュー残高 が発行される場合に適用される。 |
 | カードネットワークと PCI DSS | 公開法的レジストリでなくても、運用上は重要である。 |
 | キャッシュレス推進協議会の刊行物 | コード決済利用、加盟店受入動向、業界標準化作業の追跡に有用である。 |
 

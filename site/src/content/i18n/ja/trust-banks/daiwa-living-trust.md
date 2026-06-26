@@ -2,23 +2,22 @@
 source: trust-banks/daiwa-living-trust
 source_hash: f99a6b25362ba025
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "大和リビング信託 (Daiwa Living Trust)"
-translated_at: 2026-06-02T14:25:12.411Z
+translated_at: 2026-06-26T08:32:30.855Z
 ---
 
 # 大和リビング信託 (Daiwa Living Trust)
 
 ## ウィキ上の位置づけ
 
-大和リビング信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/starts-trust|Starts Trust]] とあわせて読む。
+大和リビング信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/starts-trust|Starts Trust]] とあわせて読む。
 
 賃貸住宅信託、不動産管理信託、家族への資産承継、住宅所有者向け信託を扱うときにこのページを使う。
 
-## 概要
-
-大和リビング信託の公開サイトは、不動産管理信託を通じて資産承継と家族への承継を支援する会社として同社を説明している。同サイトは、指定された受益者の利益のために不動産その他の財産を受託者へ移転する仕組みとして信託を説明する。
+## 概要大和リビング信託の公開サイトは、不動産管理信託を通じて資産承継と家族への承継を支援する会社として同社を説明している。同サイトは、指定された受益者の利益のために不動産その他の財産を受託者へ移転する仕組みとして信託を説明する。
 
 このページが重要なのは、資本市場型やプライベートバンク型ではなく、住宅・賃貸不動産に関する信託ルートだからである。賃貸人、賃貸住宅、家族承継の分析に有用。
 
@@ -43,9 +42,7 @@ translated_at: 2026-06-02T14:25:12.411Z
 | 賃貸住宅建設の文脈 | 公開サイトは、信託会社が借入を行い賃貸住宅を建設できる信託構造を説明している。 |
 | 住宅金融の隣接領域 | [[policy-finance/japan-housing-finance-agency|housing finance]] との対照に有用だが、これは民間信託会社のルートである。 |
 
-## 公開情報上の文脈
-
-信託会社のカバレッジには機関投資家向けカストディだけでなく、家計・賃貸不動産の承継も含めるべきであるため、大和リビング信託は FinWiki に含める。重要な問いは、信託という包みが不動産の名義、管理、受益権をどう変えるかである。
+## 公開情報上の文脈信託会社のカバレッジには機関投資家向けカストディだけでなく、家計・賃貸不動産の承継も含めるべきであるため、大和リビング信託は FinWiki に含める。重要な問いは、信託という包みが不動産の名義、管理、受益権をどう変えるかである。
 
 商品文書や法的根拠がない限り、具体的な融資条件、税務結果、ファミリーオフィス助言を推定しない。
 

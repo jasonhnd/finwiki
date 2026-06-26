@@ -2,17 +2,18 @@
 source: trust-banks/fpg-trust
 source_hash: 33a6d0f98b9c20b6
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FPG信託 (FPG Trust)"
-translated_at: 2026-06-19T12:43:19.897Z
+translated_at: 2026-06-26T08:32:30.857Z
 ---
 
 # FPG信託 (FPG Trust)
 
 ## Wiki route
 
-FPG信託は [[trust-banks/INDEX|trust-banks INDEX]] の下にある独立系信託会社のルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格したものである。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] と併せて読むこと。
+FPG信託は [[trust-banks/INDEX|trust-banks INDEX]] の下にある独立系信託会社のルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格したものである。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] と併せて読むこと。
 
 FPG グループの信託ストラクチャー、不動産・動産信託スキーム、資産管理、または独立系信託会社のポジショニングに関わる問いには、このページを用いること。
 

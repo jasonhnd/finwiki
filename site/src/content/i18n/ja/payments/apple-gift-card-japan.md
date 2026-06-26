@@ -2,20 +2,21 @@
 source: payments/apple-gift-card-japan
 source_hash: 8e674621b040f932
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Apple Gift Card Japan: Apple エコシステムのクローズドループ前払"
-translated_at: 2026-06-02T16:33:58.490Z
+translated_at: 2026-06-26T08:38:42.154Z
 ---
 # Apple Gift Card Japan: Apple エコシステムのクローズドループ前払
 
 ## ウィキ上の位置づけ
 
-この項目は [[payments/INDEX|payments index]] の下に位置し、[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] の FSA 登録ビューと対になる、日本における Apple Gift Card のクローズドループ前払発行者ページである。[[payments/amazon-gift-card-japan|Amazon Gift Card Japan]]、[[payments/google-play-gift-card-japan|Google Play Gift Card Japan]]（同業のプラットフォーム起点クローズドループ・ギフトカード）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型オープンループ・ギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク型プリペイド）と比較する。Apple Gift Card は、従来の **iTunes Card** と **Apple Store Gift Card** を 2021, に置き換え、Apple エコシステム（App Store、iTunes、iCloud、Apple Music、Apple TV+、Apple ハードウェア、Apple Store）全体で使える単一の統合ギフトカードに統合した。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]。
+この項目は [[payments/INDEX|payments index]] の下に位置し、[[payments/prepaid-payment-instrument-issuers-japan-index|前払式 payment instrument 発行会社 registry]] の FSA 登録ビューと対になる、日本における Apple Gift Card のクローズドループ前払発行者ページである。[[payments/amazon-gift-card-japan|Amazon Gift Card Japan]]、[[payments/google-play-gift-card-japan|Google Play Gift Card Japan]]（同業のプラットフォーム起点クローズドループ・ギフトカード）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型オープンループ・ギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク型プリペイド）と比較する。Apple Gift Card は、従来の **iTunes Card** と **Apple Store Gift Card** を 2021, に置き換え、Apple エコシステム（App Store、iTunes、iCloud、Apple Music、Apple TV+、Apple ハードウェア、Apple Store）全体で使える単一の統合ギフトカードに統合した。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]。
 
 ## 要約
 
-**Apple Gift Card（Appleギフトカード）** は、**Apple Inc. のクローズドループ型統合前払ギフトカード**であり、日本では **Apple Japan G.K.（Apple Japan合同会社）** が発行する。[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] のもとで、自家型（クローズドループ / 単一加盟店）前払式支払手段として運営される。統合形態のプロダクトは **2021-09に開始**され、それまでの **iTunes Card**（App Store / iTunes / Apple Music / iCloud 向け支出）と **Apple Store Gift Card**（Apple ハードウェア / Apple Store 小売向け支出）を単一 SKU に統合した。Apple Gift Card 残高は、日本の **Apple エコシステム全体**、すなわち App Store、iTunes Store、Apple Music、Apple TV+、iCloud、Apple Books、Apple Arcade、**および** Apple Store（apple.com/jp/shop）でのハードウェア（iPhone、iPad、Mac、AirPods、アクセサリ）購入に利用できる。流通レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki、ドラッグストア、家電量販店等）での物理カード販売、Apple.com/jp のデジタル eGift、Apple Store 店頭が含まれる。
+**Apple Gift Card（Appleギフトカード）** は、**Apple Inc. のクローズドループ型統合前払ギフトカード**であり、日本では **Apple Japan G.K.（Apple Japan合同会社）** が発行する。[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] のもとで、自家型（クローズドループ / 単一加盟店）前払式支払手段として運営される。統合形態のプロダクトは **2021-09に開始**され、それまでの **iTunes Card**（App Store / iTunes / Apple Music / iCloud 向け支出）と **Apple Store Gift Card**（Apple ハードウェア / Apple Store 小売向け支出）を単一 SKU に統合した。Apple Gift Card 残高は、日本の **Apple エコシステム全体**、すなわち App Store、iTunes Store、Apple Music、Apple TV+、iCloud、Apple Books、Apple Arcade、**および** Apple Store（apple.com/jp/shop）でのハードウェア（iPhone、iPad、Mac、AirPods、アクセサリ）購入に利用できる。流通レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki、ドラッグストア、家電量販店等）での物理カード販売、Apple.com/jp のデジタル eGift、Apple Store 店頭が含まれる。
 
 ## 発行者と運用構造
 

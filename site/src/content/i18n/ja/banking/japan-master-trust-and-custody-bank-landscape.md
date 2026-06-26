@@ -2,19 +2,18 @@
 source: banking/japan-master-trust-and-custody-bank-landscape
 source_hash: c6a8b40acd246201
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のマスタートラスト・カストディ銀行の状況"
-translated_at: 2026-06-02T11:47:37.280Z
+translated_at: 2026-06-26T08:32:07.528Z
 ---
 
 # 日本のマスタートラスト・カストディ銀行の状況
 
-## 概観
+## 概観日本のマスタートラスト / カストディ銀行の状況は、二つのアンカーを持つ国内インフラ層である:[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] と [[trust-banks/custody-bank|Custody Bank of Japan]]。これらは通常の意味での「投資家」ではなく、年金、投資信託、保険会社、資産運用会社、機関投資家のための資産管理銀行である。
 
-日本のマスタートラスト / カストディ銀行の状況は、二つのアンカーを持つ国内インフラ層である:[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] と [[trust-banks/custody-bank|Custody Bank of Japan]]。これらは通常の意味での「投資家」ではなく、年金、投資信託、保険会社、資産運用会社、機関投資家のための資産管理銀行である。
-
-このページは [[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] と併せて使うこと。
+このページは [[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] と併せて使うこと。
 
 ## 状況マップ
 

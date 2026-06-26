@@ -2,19 +2,20 @@
 source: insurance/japan-iaig-ics-mapping
 source_hash: 358bfb5b16c8798f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の IAIG および ICS マッピング"
-translated_at: 2026-06-19T06:09:18.112Z
+translated_at: 2026-06-26T08:28:46.059Z
 ---
 
 # 日本の IAIG および ICS マッピング
 
 ## Wiki route
 
-この項目は [[insurance/INDEX|insurance index]] の下に位置し、日本に本社を置くグループに対する IAIS の国際的に活動する保険グループ（Internationally Active Insurance Group）指定と保険資本基準（Insurance Capital Standard）報告の交点を扱うルーティング・ページである。規制レジームの比較として [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] と、日本の金融庁の枠組みとして [[insurance/economic-value-based-solvency|economic-value-based solvency]] と、各社比率の解釈として [[insurance/esr-economic-value-solvency|ESR]] と、生保サイドの法人として [[insurance/japan-life-insurance-big-four|Japan life big four]] と、損保サイドの法人として [[insurance/japan-nonlife-big-three|Japan non-life big three]] と、インバウンドの外国 IAIG の観点として [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] と、ICS 報告が捕捉するバランスシート・ドライバーとして [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] と併せて読むこと。
+この項目は [[insurance/INDEX|insurance index]] の下に位置し、日本に本社を置くグループに対する IAIS の国際的に活動する保険グループ（Internationally Active Insurance Group）指定と保険資本基準（Insurance Capital Standard）報告の交点を扱うルーティング・ページである。規制レジームの比較として [[insurance/global-solvency-framework-comparison-matrix|global ソルベンシー framework matrix]] と、日本の金融庁の枠組みとして [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] と、各社比率の解釈として [[insurance/esr-economic-value-solvency|ESR]] と、生保サイドの法人として [[insurance/japan-life-insurance-big-four|Japan life big four]] と、損保サイドの法人として [[insurance/japan-nonlife-big-three|Japan non-life big three]] と、インバウンドの外国 IAIG の観点として [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] と、ICS 報告が捕捉するバランスシート・ドライバーとして [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] と併せて読むこと。
 
-ライセンス・ルートのコンテキストは [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] にある。
+ライセンス・ルートのコンテキストは [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]] にある。
 
 ## TL;DR
 
@@ -75,9 +76,7 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 
 日本については、金融庁は、2025-04以降に日本免許法人レベルで運用開始された国内の [[insurance/economic-value-based-solvency|economic-value-based ESR]] レジームと並行して、指定された日本本社の IAIG に対するグループ・レベルの PCR として ICS を実施する。
 
-## 金融庁のグループ全体監督者としての役割
-
-日本本社の IAIG に対するグループ全体監督者として、金融庁は次に責任を負う：
+## 金融庁のグループ全体監督者としての役割日本本社の IAIG に対するグループ全体監督者として、金融庁は次に責任を負う：
 
 | Responsibility | Description |
 |---|---|
@@ -121,15 +120,13 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 日本本社の IAIG については、金融庁はこれらの基準に照らして内部モデルの構成要素をレビューする。新規の ICS 計算のデフォルトは標準法である；内部モデルの採用は漸進的であり、実証されたモデルの成熟度を要する。
 
-## ComFrame の定性的要件
-
-定量的な ICS の PCR を超えて、ComFrame は IAIG に定性的な監督要件を課す。主要な次元：
+## ComFrame の定性的要件定量的な ICS の PCR を超えて、ComFrame は IAIG に定性的な監督要件を課す。主要な次元：
 
 | Area | ComFrame requirement |
 |---|---|
 | コーポレート・ガバナンス | 取締役会構成、取締役会の独立性、グループ全体のリスクおよび資本に対する取締役会の監督、後継者計画 |
 | エンタープライズ・リスク・マネジメント | 保険、市場、信用、オペレーショナル、戦略、レピュテーションの各リスクをカバーするグループ全体の ERM 枠組み |
-| ORSA | グループ・レベルで実施され、グループ全体監督者に開示される自己リスク・ソルベンシー評価（Own Risk and Solvency Assessment） |
+| ORSA | グループ・レベルで実施され、グループ全体監督者に開示される自己リスク・ソルベンシー評価（Own Risk and ソルベンシー Assessment） |
 | グループ構造 | 明確なグループの法的構造、監督上の監視を妨げる不透明なビークルの不在、透明なグループ内取引 |
 | 再建計画 | 資本不足、流動性ストレス、オペレーショナルな混乱、および破綻処理のトリガーをカバーするグループ・レベルの再建計画 |
 | 報告および開示 | グループ・レベルの財務状況の公開開示；金融庁および監督カレッジのメンバーへの監督上の開示 |
@@ -137,9 +134,7 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 [[insurance/japan-life-insurance-big-four|Japan life big four]] および [[insurance/japan-nonlife-big-three|Japan non-life big three]] の IAIG については、これらの要件は、保険業法の下での既存の日本の金融庁グループ監督ルールの上に重ねられる。実務上の効果は、指定された IAIG が国内の規制上の届出に加えて、ComFrame と整合したグループ・ガバナンスおよび ORSA の文書化を維持することである。
 
-## 国境を越えた監督カレッジのメカニクス
-
-日本の IAIG に対するグループ全体監督者として金融庁が招集する監督カレッジには、通常次が含まれる：
+## 国境を越えた監督カレッジのメカニクス日本の IAIG に対するグループ全体監督者として金融庁が招集する監督カレッジには、通常次が含まれる：
 
 | Participant | Role |
 |---|---|
@@ -152,15 +147,11 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 カレッジのメカニズムは、ICS をグループ・レベルで実施可能にする実務上のインフラである — 本国とホストの監督者間で調整された情報共有がなければ、グループ・レベルの資本数値は確実に測定可能とはならないであろう。
 
-## 集約方式（AM）の並行トラック
+## 集約方式（AM）の並行トラック米国主導の集約方式は、単一の共通基準を適用するのではなく、法域別の規制資本比率（米国 NAIC RBC、ソルベンシー II SCR、日本 ESR など）をグループ・レベルで集約する並行計算である。IAIS は、AM が米国本社の IAIG に対する実行可能な代替として ICS に「匹敵する結果」を生み出すかどうかを評価している。
 
-米国主導の集約方式は、単一の共通基準を適用するのではなく、法域別の規制資本比率（米国 NAIC RBC、ソルベンシー II SCR、日本 ESR など）をグループ・レベルで集約する並行計算である。IAIS は、AM が米国本社の IAIG に対する実行可能な代替として ICS に「匹敵する結果」を生み出すかどうかを評価している。
+日本本社の IAIG については、AM は主要なトラックではない — 金融庁はグループ・レベルの PCR として ICS を実施する。しかし、AM は、日本のグループが米国本社の競合他社の資本開示（Berkshire Hathaway、Chubb、MetLife、Prudential Financial など）をどのように読むか、および [[insurance/global-solvency-framework-comparison-matrix|the global ソルベンシー framework comparison matrix]] を通じてレジーム横断で比較可能性がどのように評価されるかに影響する。
 
-日本本社の IAIG については、AM は主要なトラックではない — 金融庁はグループ・レベルの PCR として ICS を実施する。しかし、AM は、日本のグループが米国本社の競合他社の資本開示（Berkshire Hathaway、Chubb、MetLife、Prudential Financial など）をどのように読むか、および [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] を通じてレジーム横断で比較可能性がどのように評価されるかに影響する。
-
-## 実務的なアナリスト読解ガイド
-
-日本の IAIG／ICS 開示を読む外部アナリストにとって、実務的な順序は次のとおりである：
+## 実務的なアナリスト読解ガイド日本の IAIG／ICS 開示を読む外部アナリストにとって、実務的な順序は次のとおりである：
 
 | Step | Source | What to extract |
 |---|---|---|
@@ -173,9 +164,7 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 これらの層にわたって三角測量することが、最も完全な全体像を与える。国内 ESR だけに依拠するとグループ・レベルのパーィミターを見逃す；親グループのグループ資本だけに依拠すると日本免許法人の健全性ポジションを見逃す。
 
-## [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] 法人 ICS との相互作用
-
-日本免許の保険子会社を有する外国 IAIG（インバウンド方向）については、アーキテクチャはミラーリングされる：
+## [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] 法人 ICS との相互作用日本免許の保険子会社を有する外国 IAIG（インバウンド方向）については、アーキテクチャはミラーリングされる：
 
 | Layer | Authority | Framework |
 |---|---|---|

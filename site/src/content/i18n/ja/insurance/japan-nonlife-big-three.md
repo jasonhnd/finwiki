@@ -2,19 +2,18 @@
 source: insurance/japan-nonlife-big-three
 source_hash: 35f00ff99f97820a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の損保大手三社"
-translated_at: 2026-06-19T06:09:18.067Z
+translated_at: 2026-06-26T08:28:53.964Z
 ---
 
 # 日本の損保大手三社
 
-## 概要
+## 概要日本の損保「大手三社」とは、[[non-life-insurers/tokio-marine|Tokio Marine]]・[[non-life-insurers/msad|MS&AD]]・[[non-life-insurers/sompo|Sompo]] を束ねる持株会社グループの区分である。事業会社レイヤーには [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]・[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]・[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]・[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] が含まれる。
 
-日本の損保「大手三社」とは、[[non-life-insurers/tokio-marine|Tokio Marine]]・[[non-life-insurers/msad|MS&AD]]・[[non-life-insurers/sompo|Sompo]] を束ねる持株会社グループの区分である。事業会社レイヤーには [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]・[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]・[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]・[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] が含まれる。
-
-本ページは [[insurance/INDEX|insurance domain]] の下に位置し、保険会社の法人ページには [[insurance/INDEX|insurance INDEX]] を用いる。[[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]・[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]・[[insurance/economic-value-based-solvency|economic-value solvency]]・[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]・[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] と併せて参照のこと。
+本ページは [[insurance/INDEX|insurance domain]] の下に位置し、保険会社の法人ページには [[insurance/INDEX|insurance INDEX]] を用いる。[[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]・[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]・[[insurance/economic-value-based-solvency|economic-value ソルベンシー]]・[[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]]・[[insurance/insurance-agency-and-brokerage-japan|insurance agency and 証券仲介 Japan]] と併せて参照のこと。
 
 ## 持株会社マップ
 
@@ -38,9 +37,7 @@ translated_at: 2026-06-19T06:09:18.067Z
 | ガバナンス／是正対応 | 業務改善命令、カルテル／保険料設定問題、修理エコシステム問題、代理店慣行がグループの優先順位を変え得る。 |
 | ESR／ソルベンシー開示 | FSA の経済価値ベース・ソルベンシー資料に連動した、日付付きの資本充足指標。 |
 
-## 自然災害レンズ
-
-日本の損保グループは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance]] なしには理解できない。地震・台風・洪水および気候関連の損失ボラティリティは、引受成績・準備金充足・再保険コスト・資本バッファに影響する。
+## 自然災害レンズ日本の損保グループは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance]] なしには理解できない。地震・台風・洪水および気候関連の損失ボラティリティは、引受成績・準備金充足・再保険コスト・資本バッファに影響する。
 
 家計地震保険は、通常の民間リスクプールではなく官民スキームである。その層は [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] および [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] を経由する。企業向け財物巨大災害リスク、海外巨大災害損失、再保険サイクルの価格形成は、ナットキャット／再保険ルートにおけるより広範な P&C のテーマである。
 
@@ -50,9 +47,7 @@ translated_at: 2026-06-19T06:09:18.067Z
 
 グループ統合報告書は、持株会社レベルで資本・戦略・海外ポートフォリオ・ガバナンスを論じる。事業会社ページは、国内のライセンス・商品チャネル・代理店システム・過去の合併系譜を記録する。
 
-## ガバナンス／チャネルリスク
-
-損保の販売は、自動車ディーラー・修理工場・不動産・法人ブローカー・専業代理店・地域のビジネスネットワークと公開された結びつきを持つ。保険料設定・代理店インセンティブ・修理クレーム・顧客説明のテーマは [[insurance/insurance-agency-and-brokerage-japan|agency and brokerage Japan]] に連動する。
+## ガバナンス／チャネルリスク損保の販売は、自動車ディーラー・修理工場・不動産・法人ブローカー・専業代理店・地域のビジネスネットワークと公開された結びつきを持つ。保険料設定・代理店インセンティブ・修理クレーム・顧客説明のテーマは [[insurance/insurance-agency-and-brokerage-japan|agency and 証券仲介 Japan]] に連動する。
 
 ## ソース項目
 

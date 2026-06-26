@@ -2,10 +2,11 @@
 source: non-life-insurers/lloyd-japan
 source_hash: f6c8dccfa52fd00b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Lloyd's Japan / ロイズ・ジャパン"
-translated_at: 2026-06-02T14:54:39.079Z
+translated_at: 2026-06-26T08:32:07.557Z
 ---
 
 # Lloyd's Japan / ロイズ・ジャパン
@@ -14,9 +15,7 @@ translated_at: 2026-06-02T14:54:39.079Z
 
 この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づける。外資系専門保険会社の同業文脈として [[non-life-insurers/fm-global-japan|FM Global Japan]] と [[non-life-insurers/aig-japan|AIG Japan]]、日本の損害保険市場全体と規制境界として [[insurance/INDEX|insurance index]] を併読する。
 
-## 要約
-
-繝ｭ繧､繧ｺ繝ｻ繧ｸ繝｣繝代Φ譬ｪ蠑丈ｼ夂､ｾ（Lloyd's Japan Inc.）は、**Lloyd's of London** の日本基盤である。Lloyd's は単一の保険会社ではなく、FSA 免許を持つ保険引受の市場基盤として日本で運営され、専門、海上、航空、エネルギー、再保険リスクを引き受けるシンジケートに市場アクセスを提供する。通常の外資系保険会社と異なり、Lloyd's は株式会社型または相互会社型の保険会社ではなく、シンジケートに組織された引受会員の団体として運営される。
+## 要約繝ｭ繧､繧ｺ繝ｻ繧ｸ繝｣繝代Φ譬ｪ蠑丈ｼ夂､ｾ（Lloyd's Japan Inc.）は、**Lloyd's of London** の日本基盤である。Lloyd's は単一の保険会社ではなく、FSA 免許を持つ保険引受の市場基盤として日本で運営され、専門、海上、航空、エネルギー、再保険リスクを引き受けるシンジケートに市場アクセスを提供する。通常の外資系保険会社と異なり、Lloyd's は株式会社型または相互会社型の保険会社ではなく、シンジケートに組織された引受会員の団体として運営される。
 
 ## 1. 免許・グループ境界
 
@@ -29,7 +28,7 @@ translated_at: 2026-06-02T14:54:39.079Z
 | ウィキ上の役割 | 外資系の日本損害保険プラットフォーム（Lloyd's マーケットプレイス） |
 | 親会社・構造 | Society of Lloyd's（英国、PRA / FCA の規制下） |
 
-Lloyd's Japan は、伝統的な意味で自ら引受リスクを負う主体ではない。FSA 監督下で Lloyd's のシンジケートが日本市場へアクセスするためのローカル基盤として機能する。免許ルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に置く。
+Lloyd's Japan は、伝統的な意味で自ら引受リスクを負う主体ではない。FSA 監督下で Lloyd's のシンジケートが日本市場へアクセスするためのローカル基盤として機能する。免許ルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に置く。
 
 ## 2. 運営モデル
 

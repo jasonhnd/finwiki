@@ -2,10 +2,11 @@
 source: regional-banks/juroku-fg
 source_hash: 967c7fc5125e40d4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "十六 FG (Juroku Financial Group)"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-06-26T08:32:15.212Z
 ---
 
 # 十六 FG (Juroku Financial Group)
@@ -14,16 +15,14 @@ translated_at: 2026-06-24T00:00:00.000Z
 
 この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
 
-## 要約
-
-岐阜県地盤の地銀 FG。Juroku FG Annual Report 2024 は、140 年超の歴史を踏まえて 2021-10 に Juroku Financial Group を設立し、持株会社体制へ移行、地域総合金融サービスグループへ business model を転換したと説明する。^[source:juroku-ar-2024] 中核子銀行は **十六銀行 (1877 年に第十六国立銀行として設立)** で、FSA の銀行免許 workbook でも十六銀行を確認できる。^[source:juroku-ar-2024][source:fsa-ginkou-2026] 旧岐阜銀行は、金融庁が 2012-09-10 に十六銀行との合併を認可し、合併予定日を 2012-09-18 とした公開資料で確認できる。^[source:fsa-juroku-gifu-merger-2012]
+## 要約岐阜県地盤の地銀 FG。Juroku FG Annual Report 2024 は、140 年超の歴史を踏まえて 2021-10 に Juroku Financial Group を設立し、持株会社体制へ移行、地域総合金融サービスグループへ 事業モデル を転換したと説明する。^[source:juroku-ar-2024] 中核子銀行は **十六銀行 (1877 年に第十六国立銀行として設立)** で、FSA の銀行免許 workbook でも十六銀行を確認できる。^[source:juroku-ar-2024][source:fsa-ginkou-2026] 旧岐阜銀行は、金融庁が 2012-09-10 に十六銀行との合併を認可し、合併予定日を 2012-09-18 とした公開資料で確認できる。^[source:fsa-juroku-gifu-merger-2012]
 
 ## 1. 会社概要
 
 **正式名**: 株式会社十六フィナンシャルグループ
 **英名**: Juroku Financial Group, Inc.
 **証券コード**: 東証 PRIME 7380
-**設立**: 2021-10-01 (十六銀行 単独株式移転により持株会社方式に移行) ^[extracted]
+**設立**: 2021-10-01 (十六銀行単独株式移転により持株会社方式に移行) ^[extracted]
 **本社**: 岐阜県岐阜市
 **主要子会社**: 十六銀行 (中核子銀行) ^[extracted]
 
@@ -40,7 +39,7 @@ translated_at: 2026-06-24T00:00:00.000Z
 
 Annual Report 2024 は、Juroku FG と中核会社 The Juroku Bank を含む 12 社グループと説明する。^[source:juroku-ar-2024] Annual Report 2023 overview では、Juroku FG と Juroku Bank が JCR 長期発行体格付 A+ を取得していることも示され、持株会社と中核銀行を分けて見る必要がある。^[source:juroku-ar-2023]
 
-### 旧 十六銀行系 (源流)
+### 旧十六銀行系 (源流)
 
 - **1877-10**: **第十六国立銀行** 設立 (岐阜)、明治期国立銀行条例下のナンバリング 16 番目
 - **1896**: 株式会社化 (国立銀行から普通銀行への転換期)
@@ -49,7 +48,7 @@ Annual Report 2024 は、Juroku FG と中核会社 The Juroku Bank を含む 12 
 
 ### 持株会社化
 
-- **2021-10-01**: **十六 FG 設立** ─ 十六銀行が持株会社体制へ移行し、地域総合金融サービスグループへの business model 転換を掲げた。^[source:juroku-ar-2024]
+- **2021-10-01**: **十六 FG 設立** ─ 十六銀行が持株会社体制へ移行し、地域総合金融サービスグループへの 事業モデル転換を掲げた。^[source:juroku-ar-2024]
 - **2024**: 中期経営計画策定 (詳細は十六 FG 公式 IR 要参照)
 
 ### 周辺関係
@@ -81,7 +80,7 @@ Annual Report 2024 は、Juroku FG と中核会社 The Juroku Bank を含む 12 
 ### 産業基盤
 
 - **製造業**: 自動車部品 (中京自動車産業圏の周辺サプライヤー)、電子部品、繊維・陶磁器 (美濃焼)
-- **観光**: 高山 (古い町並み)、下呂温泉、白川郷 (世界遺産)、長良川鵜飼 等
+- **観光**: 高山 (古い町並み)、下呂温泉、白川郷 (世界遺産)、長良川鵜飼等
 - **木工**: 飛騨家具等の地場産業
 
 ### 未検証トピック
@@ -91,7 +90,7 @@ Annual Report 2024 は、Juroku FG と中核会社 The Juroku Bank を含む 12 
 ## 5. 規制・政策
 
 - **主管**: 金融庁 (FSA) + 東海財務局
-- **持株会社規制**: 銀行法 第 52 条の 17
+- **持株会社規制**: 銀行法第 52 条の 17
 - **中核銀行ライセンス**: FSA workbook で十六銀行を確認。^[source:fsa-ginkou-2026]
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 地銀収益マージン改善ボーナス

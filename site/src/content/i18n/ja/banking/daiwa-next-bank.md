@@ -2,17 +2,16 @@
 source: banking/daiwa-next-bank
 source_hash: 953cb62e7279a16d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "大和ネクスト銀行 事業プロファイル（大和ネクスト銀行）"
-translated_at: 2026-06-22T06:12:59.592Z
+title: "大和ネクスト銀行事業プロファイル（大和ネクスト銀行）"
+translated_at: 2026-06-26T08:32:07.527Z
 ---
 
-# 大和ネクスト銀行 事業プロファイル（大和ネクスト銀行）
+# 大和ネクスト銀行事業プロファイル（大和ネクスト銀行）
 
-## ウィキ経路
-
-本エントリは [[banking/INDEX|banking index]] の配下に位置し、[[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]] にあるエンティティ・アンカーに対する事業プロファイルの補完として置かれている。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のセグメントマップの中で読み、親コンテキストである [[securities-firms/daiwa-sg|Daiwa Securities Group]] および統合予定の [[trust-banks/orix-bank|Orix Bank]] ページとともに、証券隣接のネット銀行ピア [[banking/sony-bank|Sony Bank]] およびブローカー兼営銀行コホート [[banking/rakuten-bank|Rakuten Bank]]（[[securities-firms/rakuten-securities|Rakuten Securities]] にリンク）・[[banking/au-jibun-bank|au Jibun Bank]]（[[securities-firms/au-kabucom-securities|au Kabucom]] にリンク）・[[regional-banks/ssnb|SSNB]]（[[securities-firms/sbi-securities|SBI Securities]] にリンク）と対比しながら参照すること。ブローカー側の比較経路は [[securities/INDEX|securities index]] を、MRF（マネー・リザーブ・ファンド）と銀行スイープ預金メカニズムの統合は [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] を通じて辿る。
+## ウィキ経路本エントリは [[banking/INDEX|banking index]] の配下に位置し、[[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]] にあるエンティティ・アンカーに対する事業プロファイルの補完として置かれている。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のセグメントマップの中で読み、親コンテキストである [[securities-firms/daiwa-sg|Daiwa Securities Group]] および統合予定の [[trust-banks/orix-bank|Orix Bank]] ページとともに、証券隣接のネット銀行ピア [[banking/sony-bank|Sony Bank]] およびブローカー兼営銀行コホート [[banking/rakuten-bank|Rakuten Bank]]（[[securities-firms/rakuten-securities|Rakuten Securities]] にリンク）・[[banking/au-jibun-bank|au Jibun Bank]]（[[securities-firms/au-kabucom-securities|au Kabucom]] にリンク）・[[regional-banks/ssnb|SSNB]]（[[securities-firms/sbi-securities|SBI Securities]] にリンク）と対比しながら参照すること。ブローカー側の比較経路は [[securities/INDEX|securities index]] を、MRF（マネー・リザーブ・ファンド）と銀行スイープ預金メカニズムの統合は [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] を通じて辿る。
 
 ## TL;DR
 
@@ -55,7 +54,7 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
   └── Other group subsidiaries (PB, IB, IT, etc.)
 ```
 
-### ブローカレッジ連動の預金コア（MRF / スイープ メカニズム）
+### ブローカレッジ連動の預金コア（MRF / スイープメカニズム）
 
 決定的な商品軸は、大和証券のキャッシュマネジメントとの統合である。
 
@@ -75,16 +74,12 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 | 外貨預金 | USD、EUR、AUD その他の通貨 — 外貨建て投資商品を補完するよう設計 |
 | 外貨定期預金 | 期間別にマッチした商品メニュー |
 
-### 資産形成サポート
-
-本行のポジショニングは明示的に、決済頻度型バンキングではなく**資産形成サポート**である。
+### 資産形成サポート本行のポジショニングは明示的に、決済頻度型バンキングではなく**資産形成サポート**である。
 
 - 自前の主要なクレジットカード・フランチャイズを持たない — 決済頻度型のプレーは戦略軸ではない。
 - 限定的な消費者向け貸出の商品セット — 大和証券が対象とする富裕層 / マスアフルエント顧客セグメントに集中。
 
-### チャネル・アーキテクチャ：証券・銀行ハイブリッド
-
-純粋なオンライン・ネット銀行とは異なり、大和ネクスト銀行は3つのチャネルを通じて顧客に接触できる。
+### チャネル・アーキテクチャ：証券・銀行ハイブリッド純粋なオンライン・ネット銀行とは異なり、大和ネクスト銀行は3つのチャネルを通じて顧客に接触できる。
 
 | チャネル | 役割 |
 |---|---|
@@ -111,9 +106,7 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 
 この選択は公に確認されておらず、連結戦略にとって重要な未解決の論点である。
 
-## 4. KPI の形状
-
-大和ネクスト銀行は定期的な開示（銀行法で求められる標準的なディスクロージャー誌）を公表しており、KPI 更新は大和証券グループの四半期 IR サイクルの中で現れる。
+## 4. KPI の形状大和ネクスト銀行は定期的な開示（銀行法で求められる標準的なディスクロージャー誌）を公表しており、KPI 更新は大和証券グループの四半期 IR サイクルの中で現れる。
 
 | 指標 | パターン |
 |---|---|
@@ -123,12 +116,12 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 | ROE | 単体ベースでは控えめ；証券グループのクロスセル経済から資本効率の便益を得る |
 | 自己資本 | 銀行法の最低水準を十分に上回る |
 
-### 証券・銀行ハイブリッド コホート
+### 証券・銀行ハイブリッドコホート
 
 | グループ | 銀行 | ブローカレッジ | アーキテクチャ |
 |---|---|---|---|
 | **大和証券グループ** | **大和ネクスト銀行** | 大和証券 | ブローカレッジを軸とした銀行；オリックス銀行連結により拡大中 |
-| 三井住友トラスト + SBI（旧 住信SBI） | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | 純粋オンライン + BaaS パートナー・アーキテクチャ |
+| 三井住友トラスト + SBI（旧住信SBI） | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | 純粋オンライン + BaaS パートナー・アーキテクチャ |
 | KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | テレコムを軸としたエコシステム銀行・ブローカー連携 |
 | 楽天 | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | コマースを軸としたエコシステム銀行・ブローカー連携 |
 
@@ -142,12 +135,12 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 
 | レイヤー | 法令 / 規制当局 | 含意 |
 |---|---|---|
-| 銀行監督 | 銀行法 + 金融庁 監督指針 | 標準的な普通銀行監督 |
+| 銀行監督 | 銀行法 + 金融庁監督指針 | 標準的な普通銀行監督 |
 | 証券クロスセル | 金融商品取引法 — 投信販売およびブローカレッジ資金管理について | 標準的な適合性・開示義務；スイープ預金メカニズムは特定の FSA ガイダンスの下 |
-| 持株グループ連結 | 金融商品取引法 + 銀行法 持株会社ルール | 大和証券グループを通じた連結監督 |
+| 持株グループ連結 | 金融商品取引法 + 銀行法持株会社ルール | 大和証券グループを通じた連結監督 |
 | 外貨預金 | FSA + 日銀統計 + AML | クロスボーダー AML が適用される |
 | 預金保険 | 預金保険機構 | 円預金の保護が適用される |
-| 進行中のオリックス銀行買収 | 銀行法第52条 + 独占禁止法 審査 | FSA 承認と独占禁止法のクリアランスを条件とする |
+| 進行中のオリックス銀行買収 | 銀行法第52条 + 独占禁止法審査 | FSA 承認と独占禁止法のクリアランスを条件とする |
 
 ## 関連
 

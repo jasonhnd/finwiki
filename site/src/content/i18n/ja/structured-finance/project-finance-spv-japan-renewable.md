@@ -2,10 +2,11 @@
 source: structured-finance/project-finance-spv-japan-renewable
 source_hash: 0de05c20b39cb9ca
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の再生可能エネルギーのプロジェクトファイナンス SPV —— 太陽光、風力、地熱"
-translated_at: 2026-06-19T12:43:19.941Z
+translated_at: 2026-06-26T08:29:17.593Z
 ---
 
 # 日本の再生可能エネルギーのプロジェクトファイナンス SPV —— 太陽光、風力、地熱
@@ -16,16 +17,14 @@ translated_at: 2026-06-19T12:43:19.941Z
 
 ## Wiki route
 
-このエントリは [[structured-finance/INDEX|structured-finance index]] のもとに、**再生可能エネルギーのプロジェクトファイナンス** ノードとして位置する。政策金融側（JBIC、NEXI、JOGMEC）については [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]] と、クロスボーダーの資源プロジェクトのコンテキストについては [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]] と併せて読むこと。システムのフレーム: 法的構造については [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、SPV デットが格付けされる場合の格付け処理については [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、そしてより広範なインフラ資産ファイナンスのコンテキストについては [[real-estate-finance/INDEX|real-estate-finance index]]。
+このエントリは [[structured-finance/INDEX|structured-finance index]] のもとに、**再生可能エネルギーのプロジェクトファイナンス** ノードとして位置する。政策金融側（JBIC、NEXI、JOGMEC）については [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]] と、クロスボーダーの資源プロジェクトのコンテキストについては [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment 引受]] と併せて読むこと。システムのフレーム: 法的構造については [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、SPV デットが格付けされる場合の格付け処理については [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、そしてより広範なインフラ資産ファイナンスのコンテキストについては [[real-estate-finance/INDEX|real-estate-finance index]]。
 
 ## 1. FIT 時代（2012–2022）—— コンテキスト
 
 [[policy-finance/INDEX|METI]] によって 2012  年 7 月に導入された固定価格買取（FIT）制度（福島後のエネルギー政策のシフト）は、以下を保証した:
 - 再生可能エネルギー電力の固定買取価格（¥/kWh）
 - 長期の買取義務（事業用規模 PV では通常 20 年）
-- 送電事業者による義務的な買取
-
-事業用規模太陽光に特に関して:
+- 送電事業者による義務的な買取事業用規模太陽光に特に関して:
 - 当初の 2012  年の買取価格は ¥40/kWh（メガソーラー）—— 国際的な基準では並外れて高い
 - 買取価格はコストが低下するにつれて各年度ごとに段階的に引き下げられた
 - 2012–2015  年のヴィンテージの認定は、最も高い買取価格を固定し、最大のエクイティ IRR を生み出した
@@ -66,18 +65,14 @@ debt       senior     (sometimes)
 - **参加者**: 地方銀行（特にプラントが所在する県の地方銀行）
 - **エクイティ・スポンサー**: 総合商社（[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]]、[[financial-conglomerates/mitsui-co|Mitsui]]、[[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]）、IPP の専門会社、インフラ・ファンド、および（時折）SPV ファンド構造における LP としての機関投資家のミックス
 
-## 3. 陸上風力 —— 構造
-
-陸上風力 SPV は、より短いテナー（FIT 風力買取価格に合わせた 15–18 年）とより高い CAPEX 強度を伴って、類似の構造に従った。陸上風力の FIT の取り込みは、以下の理由で太陽光よりも遅かった:
+## 3. 陸上風力 —— 構造陸上風力 SPV は、より短いテナー（FIT 風力買取価格に合わせた 15–18 年）とより高い CAPEX 強度を伴って、類似の構造に従った。陸上風力の FIT の取り込みは、以下の理由で太陽光よりも遅かった:
 - 日本における高品質な風力資源サイトの限定性
 - 環境影響評価のタイムラインがしばしば FIT 適格性のウィンドウを超過した
 - 地域コミュニティ / 土地利用の反対が許認可を遅らせた
 
 その結果、FIT 買取価格が示唆したよりも小さい風力プロジェクト・パイプラインとなった。
 
-## 4. 洋上風力 —— 新たな重心
-
-海洋再生可能エネルギー資源を利用する発電設備の整備に係る海域の利用の促進に関する法律への 2018  年の改正に続いて、日本は一連の **洋上風力の第 1 ラウンドのオークション**（落札 2021）を立ち上げた:
+## 4. 洋上風力 —— 新たな重心海洋再生可能エネルギー資源を利用する発電設備の整備に係る海域の利用の促進に関する法律への 2018  年の改正に続いて、日本は一連の **洋上風力の第 1 ラウンドのオークション**（落札 2021）を立ち上げた:
 
 | Round-1 award | Site | Sponsor consortium (illustrative) |
 |---|---|---|
@@ -91,9 +86,7 @@ debt       senior     (sometimes)
 - **PPA / FIP** 構造（FIT 後）
 - **スポンサー・コンソーシアム** は通常、総合商社、日本の電力会社、およびグローバルな洋上風力デベロッパー（Ørsted スタイルの国際パートナー）を含む
 - **リード・レンダー** には [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMBC]]、[[megabanks/mizuho-fg|Mizuho]]、[[financial-regulators/dbj|DBJ]]、および（輸出信用支援のタービン調達については）[[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] が含まれる
-- **保険**: 海上建設リスク、天候リスク、サプライチェーン・リスク
-
-洋上風力 SPV は、事業用規模太陽光 SPV よりも実質的に複雑である —— より高い CAPEX、より長い建設、より多くのカウンターパーティー、より多くの天候リスク。
+- **保険**: 海上建設リスク、天候リスク、サプライチェーン・リスク洋上風力 SPV は、事業用規模太陽光 SPV よりも実質的に複雑である —— より高い CAPEX、より長い建設、より多くのカウンターパーティー、より多くの天候リスク。
 
 ## 5. 地熱 —— 小規模だが戦略的に支援されている
 
@@ -166,7 +159,7 @@ DSCR が許す場合、エクイティの再レバレッジ（キャッシュア
 - [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
-- [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]
+- [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment 引受]]
 - [[finance/INDEX|finance index]]
 - [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]

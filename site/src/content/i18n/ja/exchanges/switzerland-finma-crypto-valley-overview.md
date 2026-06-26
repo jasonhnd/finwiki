@@ -2,17 +2,16 @@
 source: exchanges/switzerland-finma-crypto-valley-overview
 source_hash: da30bfb08fcd8cd1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム"
-translated_at: 2026-06-02T12:19:04.225Z
+translated_at: 2026-06-26T08:28:53.958Z
 ---
 
 # スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム
 
-## 制度概要
-
-スイスは 2018 年に FINMA (Swiss Financial Market Supervisory Authority) が暗号資産トークン 3 分類ガイドラインを公表 (Payment / Utility / Asset)。既存銀行業法・証券業法・集団投資スキーム法を**機能ベース**で適用する独自アプローチを採用。新規立法ではなく既存金融法を解釈で対応した点が特徴。2021 年 8 月施行の **DLT Act** (分散型台帳技術法) により、SIX Digital Exchange (SDX) 等のトークン化証券取引所開設が可能化、世界初の包括的 DLT 立法として国際的注目を浴びた。
+## 制度概要スイスは 2018 年に FINMA (Swiss Financial Market Supervisory Authority) が暗号資産トークン 3 分類ガイドラインを公表 (Payment / Utility / Asset)。既存銀行業法・証券業法・集団投資スキーム法を**機能ベース**で適用する独自アプローチを採用。新規立法ではなく既存金融法を解釈で対応した点が特徴。2021 年 8 月施行の **DLT Act** (分散型台帳技術法) により、SIX Digital Exchange (SDX) 等のトークン化証券取引所開設が可能化、世界初の包括的 DLT 立法として国際的注目を浴びた。
 
 ## 4 ライセンス区分
 
@@ -23,11 +22,11 @@ translated_at: 2026-06-02T12:19:04.225Z
 
 ## 主要事業者
 
-- **SEBA / AMINA Bank** — 暗号資産対応銀行 + 機関 custody (UAE 子会社拠点拡大)
-- **Sygnum Bank** — 暗号資産対応銀行 + 機関 custody (シンガポール子会社展開)
+- **SEBA / AMINA Bank** — 暗号資産対応銀行 + 機関カストディ (UAE 子会社拠点拡大)
+- **Sygnum Bank** — 暗号資産対応銀行 + 機関カストディ (シンガポール子会社展開)
 - **SDX (SIX Digital Exchange)** — トークン化資産取引所 (SIX Group 子会社)
 - **Bitcoin Suisse** — VQF SRO 経由 OTC broker、スイス最古手 (2013-)
-- **Crypto Finance AG** — Deutsche Börse 系列 機関 custody (2021 買収)
+- **Crypto Finance AG** — Deutsche Börse 系列機関カストディ (2021 買収)
 - **21Shares** — Bitcoin/Ethereum ETP 発行体、世界初 BTC ETP 上場 (2018-11)
 
 ## Crypto Valley (Zug カントン)
@@ -47,7 +46,7 @@ translated_at: 2026-06-02T12:19:04.225Z
 - **UK MLR 中心** vs スイス機能別ライセンス (銀行業免許統合)
 - **EU [[exchanges/eu-mica-casp-regime-overview|MiCA]] + 単一統一**規制 vs スイス独自連邦規制
 - **日本 [[exchanges/fsa-vasp-registration-system|FSA + JVCEA]] 二重**構造 vs スイス FINMA + VQF SRO
-- **機関志向 + 銀行業免許統合**が独自路線、リテール CEX より B2B 機関 custody 偏重
+- **機関志向 + 銀行業免許統合**が独自路線、リテール CEX より B2B 機関カストディ偏重
 
 ## 関連 wiki
 
