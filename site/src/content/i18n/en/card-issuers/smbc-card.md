@@ -1,22 +1,22 @@
 ---
 source: card-issuers/smbc-card
-source_hash: 1f9c7a3f5a80ae5e
+source_hash: 948222bd97bf2017
 lang: en
 status: machine
 fidelity: ok
 title: "SMBC Card"
-translated_at: 2026-06-24T07:24:12.875Z
+translated_at: 2026-06-26T03:26:36.038Z
 ---
 # SMBC Card
 
 
 ## Wiki route
 
-This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[card-issuers/INDEX|カード発行会社の索引]]. Read it against [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] for peer / contrast context and [[payments/INDEX|決済領域の索引]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-SMBC Card is the core card, credit-sales, and transaction-business operator of [[megabanks/smfg|SMFG]]. It is not only a card issuer; because it bundles merchant payments, transaction services, and cashless touchpoints around Olive / V Point, it stands as a representative page for the [[payments/card-acquiring-japan-stack|card acquiring stack]]. ^[verified-2026-06-24]
+SMBC Card is the core card, credit-sales, and transaction-business operator of [[megabanks/smfg|SMFG]]. It is not only a card issuer; because it bundles merchant payments, transaction services, and cashless touchpoints around Olive / V Point, it stands as a representative page for the [[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]]. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
 

@@ -1,22 +1,22 @@
 ---
 source: payment-firms/sb-payment-service
-source_hash: 7b924a58a59eaa8f
+source_hash: e4cecbd7ca5df385
 lang: zh
 status: machine
 fidelity: ok
 title: "SB Payment Service（SBペイメントサービス）"
-translated_at: 2026-06-24T07:24:12.878Z
+translated_at: 2026-06-26T03:26:36.041Z
 ---
 # SB Payment Service（SBペイメントサービス）
 
 
 ## Wiki 路由
 
-本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。请结合 [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|payments index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[payment-firms/INDEX|決済事業者の索引]] 之下。请结合 [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|決済領域の索引]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 
-SB Payment Service 是 SoftBank group 的商户支付 / PSP 运营公司。官方业务介绍显示其提供从线上到门店的支付服务，并作为收单方提供加盟店审查、管理和支付服务，因此是 [[payments/card-acquiring-japan-stack|card acquiring stack]] 的主要页面。^[verified-2026-06-24]
+SB Payment Service 是 SoftBank group 的商户支付 / PSP 运营公司。官方业务介绍显示其提供从线上到门店的支付服务，并作为收单方提供加盟店审查、管理和支付服务，因此是 [[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]] 的主要页面。^[verified-2026-06-24]
 
 ## 1. 实体 / 牌照边界
 

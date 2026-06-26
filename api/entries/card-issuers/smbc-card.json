@@ -42,14 +42,14 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf"
     ]
   },
-  "summary": "This entry sits under card-issuers INDEX. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "このページは カード発行会社の索引 に属する。比較対象としては 三菱UFJニコス (Mitsubishi UFJ NICOS) を参照し、制度・規制上の広い位置づけは 決済領域の索引 と併せて読む。",
   "headings": [
     "三井住友カード (SMCC)",
-    "Wiki route",
-    "TL;DR",
+    "Wiki内の位置づけ",
+    "要点",
     "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "2. 事業上の役割",
+    "3. 単独ページにする理由",
     "Related",
     "Sources"
   ],
@@ -79,8 +79,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3192,
-    "word_like_tokens": 505,
+    "nonspace_chars": 2471,
+    "word_like_tokens": 359,
     "inbound_wikilinks_count": 31,
     "last_modified": "2026-06-24"
   }

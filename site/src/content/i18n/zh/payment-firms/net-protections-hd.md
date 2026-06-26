@@ -1,21 +1,21 @@
 ---
 source: payment-firms/net-protections-hd
-source_hash: 21d85cd2e0b94dde
+source_hash: 58268699de39ffa8
 lang: zh
 status: machine
 fidelity: ok
 title: "Net Protections HD（ネットプロテクションズHD）"
-translated_at: 2026-06-24T07:24:12.876Z
+translated_at: 2026-06-26T03:26:36.039Z
 ---
 # Net Protections HD（ネットプロテクションズHD）
 
 ## Wiki 路由
 
-本条目作为 pure-play **BNPL operator** 位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。对比阅读时可结合 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统笔记和 [[payment-firms/paidy|Paidy]] 同业页面；监管视角由 [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 提供，METI 登记线索由 [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] 锚定。
+本条目作为 pure-play **BNPL operator** 位于 [[payment-firms/INDEX|決済事業者の索引]] 之下。对比阅读时可结合 [[payment-firms/bnpl-landscape|日本の BNPL ランドスケープ]] 系统笔记和 [[payments/japan-bnpl-credit-purchase-boundary|日本の BNPL と信用購入の境界]] 同业页面；监管视角由 [[payment-firms/paidy|Paidy]] 提供，METI 登记线索由 [[payments/credit-purchase-card-operators-japan-index|信用購入・カード事業者の登録索引]] 锚定。
 
 ## TL;DR
 
-Net Protections Holdings（东证 PRIME **7383**）是日本较早的 BNPL pure-play 公司，最知名的是 **NP 後払い** 这一 invoice-based BtoC 产品，EC 商户将其作为“到货后便利店 / 银行转账付款”选项接入。集团还运营 **atone**（消费者侧 wallet BNPL）、**AFTEE**（带有台湾产品站点的海外 BNPL）和 **NP 掛け払い**（BtoB invoicing）。不同于 [[payment-firms/paidy|Paidy]]，它是独立公司而非支付平台旗下；也不同于 [[card-issuers/jaccs|Jaccs]] 或 [[card-issuers/orico|Orico]]，它有意不进入信用卡栈。要看 merchant-fee BNPL economics 为什么不同于 card interchange，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 是最清晰的入口。^[verified-2026-06-24]
+Net Protections Holdings（东证 PRIME **7383**）是日本较早的 BNPL pure-play 公司，最知名的是 **NP 後払い** 这一 invoice-based BtoC 产品，EC 商户将其作为“到货后便利店 / 银行转账付款”选项接入。集团还运营 **atone**（消费者侧 wallet BNPL）、**AFTEE**（带有台湾产品站点的海外 BNPL）和 **NP 掛け払い**（BtoB invoicing）。不同于 [[payment-firms/paidy|Paidy]]，它是独立公司而非支付平台旗下；也不同于 [[card-issuers/jaccs|Jaccs]] 或 [[card-issuers/orico|Orico]]，它有意不进入信用卡栈。要看 merchant-fee BNPL economics 为什么不同于 card interchange，[[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] 是最清晰的入口。^[verified-2026-06-24]
 
 ## 1. 实体 / 牌照边界
 
@@ -23,7 +23,7 @@ Net Protections Holdings（东证 PRIME **7383**）是日本较早的 BNPL pure-
 |---|---|
 | 法人实体 | 株式会社ネットプロテクションズホールディングス |
 | 运营子公司 | 株式会社ネットプロテクションズ（直接运营 NP 後払い / atone / NP 掛け払い 等） ^[verified-2026-06-24] |
-| 上市 | 东证 PRIME 7383 （2021-12  上市） |
+| 上市 | 东证 PRIME 7383 （2021-12 上市） |
 | 集团通道 | EC 后付款（NP 後払い）/ consumer BNPL wallet（atone）/ BtoB 挂账（NP 掛け払い）/ overseas BNPL（AFTEE）^[verified-2026-06-24] |
 
 ## 2. 业务角色
