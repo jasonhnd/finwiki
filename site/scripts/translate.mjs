@@ -8,6 +8,7 @@
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs                # 全量(en,zh)增量
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs --domain money-market   # 1 域だけ
 //   ... --lang zh --limit 5 --force
+//   ... --lang ja --paths payment-firms/paypay.md --force
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
@@ -15,7 +16,7 @@ import { mask, unmask, verify } from './protect.mjs';
 import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
-const TARGET = { en: 'English', zh: '简体中文 (Simplified Chinese)' };
+const TARGET = { ja: '自然な日本語', en: 'English', zh: '简体中文 (Simplified Chinese)' };
 
 const args = process.argv.slice(2);
 const opt = (name, def = null) => {
@@ -24,6 +25,11 @@ const opt = (name, def = null) => {
 };
 const LANGS = (opt('lang', 'en,zh')).split(',');
 const ONLY_DOMAIN = opt('domain');
+const ONLY_PATHS = opt('paths')
+  ?.split(',')
+  .map((s) => s.trim().toLowerCase().replace(/\\/g, '/'))
+  .filter(Boolean)
+  .map((s) => (s.endsWith('.md') ? s : `${s}.md`));
 const LIMIT = Number(opt('limit', '0')) || Infinity;
 const FORCE = args.includes('--force');
 
@@ -49,6 +55,15 @@ function* walk(dir, rel = '') {
 async function callLLM(maskedText, lang) {
   const key = process.env.ANTHROPIC_API_KEY;
   if (!key) throw new Error('ANTHROPIC_API_KEY 未设定');
+  const jaRules =
+    lang === 'ja'
+      ? `\nJA-SPECIFIC RULES:\n` +
+        `- The output is the Japanese-primary /ja mirror. It must read as natural Japanese for Japanese readers.\n` +
+        `- Localize avoidable English business and finance terms into standard Japanese: wallet→ウォレット, operator→事業者／運営会社, ecosystem→経済圏, merchant→加盟店, issuer→発行会社, acquirer→アクワイアラ, settlement→決済／清算, custody→カストディ, prepaid→前払式, stored value→バリュー残高, brokerage→証券仲介, funds-transfer→資金移動, code-payment→コード決済, business model→事業モデル, retail investor→個人投資家, net operating revenue→純営業収益, underwriting→引受, solvency→ソルベンシー（支払余力）.\n` +
+        `- Keep English only for international acronyms commonly used by Japanese finance readers (FSA, IPO, NISA, EPI, MDR, GMV, TPV, BNPL, PSP, MAU), foreign company / brand / product names (Visa, Mastercard, PayPay, SoftBank), and Latin registration numbers or codes.\n` +
+        `- In wikilinks of the form [[❰ab❱|label]], the placeholder is the protected route target and MUST remain unchanged; translate only the human label when it contains generic business terms. Route-only wikilinks such as ❰ab❱ must remain unchanged.\n` +
+        `- Copy the ## Sources section entries and URLs exactly; do not translate, reorder, or rewrite source citations.\n`
+      : '';
   const system =
     `You translate a Japanese financial-wiki markdown document into ${TARGET[lang]}.\n` +
     `CRITICAL RULES:\n` +
@@ -58,7 +73,8 @@ async function callLLM(maskedText, lang) {
     `Do NOT insert any translator note, comment, or self-correction.\n` +
     `3. Keep markdown structure identical (headings, table pipes, list markers, blockquotes).\n` +
     `4. Proper names (institutions, people): keep the original kanji, or use the established standard name; never invent or swap.\n` +
-    `5. Output ONLY the translated markdown — no preamble, no fences.`;
+    `5. Output ONLY the translated markdown — no preamble, no fences.` +
+    jaRules;
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -96,6 +112,7 @@ async function main() {
   for (const rel of walkEntries(walk)) {
     if (done >= LIMIT) break;
     if (ONLY_DOMAIN && !rel.toLowerCase().startsWith(ONLY_DOMAIN.toLowerCase() + '/')) continue;
+    if (ONLY_PATHS && !ONLY_PATHS.includes(rel.toLowerCase())) continue;
     const [fm, body] = splitFm(readFileSync(join(REPO, rel), 'utf8'));
     const title = fmTitle(fm);
     const h = sha(body);

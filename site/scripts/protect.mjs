@@ -17,9 +17,16 @@ function dec(s) {
 const ph = (i) => `❰${enc(i)}❱`;
 const PH_RE = /❰([a-j]+)❱/g;
 
+const WIKILINK_RE = /\[\[([^\]\n|]+?)(?:(\\?\|)([^\]\n]+))?\]\]/g;
+
+function pushMask(masks, value) {
+  const i = masks.length;
+  masks.push(value);
+  return ph(i);
+}
+
 // 退避パターン（優先順: 特殊・長いものから。先に処理した占位符は英字のみなので後続に拾われない）
 const PATTERNS = [
-  /\[\[[^\]\n]+\]\]/g, // wikilink
   /\^\[[^\]\n]+\]/g, // provenance marker
   /\d{4}-\d{2}-\d{2}/g, // ISO 日付
   /(?:令和|平成|昭和)\s*\d+\s*年(?:\s*\d+\s*月)?(?:\s*\d+\s*日)?/g, // 和暦
@@ -30,12 +37,13 @@ const PATTERNS = [
 
 export function mask(text) {
   const masks = [];
-  let out = text;
+  let out = text.replace(WIKILINK_RE, (match, target, sep, label) => {
+    if (label == null) return pushMask(masks, match);
+    return `[[${pushMask(masks, target)}${sep}${label}]]`;
+  });
   for (const re of PATTERNS) {
     out = out.replace(re, (m) => {
-      const i = masks.length;
-      masks.push(m);
-      return ph(i);
+      return pushMask(masks, m);
     });
   }
   return { masked: out, masks };

@@ -14,9 +14,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下にあり、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] の FG 子会社フィンテック / ウォレットアプリ事業会社アンカーとして位置づける。親銀行である [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]、およびウォレットアプリのピアである [[megabanks/paypay-fg|PayPay FG]] / [[megabanks/au-fh|au フィナンシャル HD]] / [[payment-firms/rakuten-fg|楽天 FG]] の文脈とあわせて読む。より広い制度上の経路は [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] と [[banking/INDEX|banking index]] を参照。
 
-## 要約
-
-株式会社 iBank マーケティングは、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社の地銀発フィンテック子会社で、**Wallet+** (ウォレットプラス) スマホアプリの企画・運営を担当。地銀発のスマホファースト個人金融サービスとして、[[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] 顧客向けに **目的別貯金 (myCoin)**・**家計管理**・**プリペイドカード Wallet+ Card**・**地域連携クーポン** 等を提供。地銀フィンテックの代表例で、[[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]] 等の通信系 / EC 系ウォレットとは異なる「銀行口座連携 + 目的別貯金」軸。^[extracted]
+## 要約株式会社 iBank マーケティングは、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社の地銀発フィンテック子会社で、**ウォレット+** (ウォレットプラス) スマホアプリの企画・運営を担当。地銀発のスマホファースト個人金融サービスとして、[[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] 顧客向けに **目的別貯金 (myCoin)**・**家計管理**・**プリペイドカードウォレット+ Card**・**地域連携クーポン** 等を提供。地銀フィンテックの代表例で、[[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]] 等の通信系 / EC 系ウォレットとは異なる「銀行口座連携 + 目的別貯金」軸。^[extracted]
 
 ## 1. ライセンス / グループ境界
 
@@ -24,7 +22,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 |---|---|
 | 正式名 | 株式会社 iBank マーケティング |
 | 英名 | iBank Marketing Co., Ltd. |
-| サービスブランド | Wallet+ (ウォレットプラス) |
+| サービスブランド | ウォレット+ (ウォレットプラス) |
 | グループ境界 | [[regional-banks/fukuoka-fg]] 100% subsidiary |
 | 本社 | 福岡県福岡市中央区 ([[regional-banks/fukuoka-bank|福岡銀行]] 本店ビル周辺) |
 | ウィキ上の役割 | 地銀 FG のフィンテック / ウォレットアプリ子会社アンカー |
@@ -46,17 +44,17 @@ translated_at: 2026-06-02T14:25:12.388Z
   └── FFG リース・FFG カード・FFG ベンチャービジネスパートナーズ
 ```
 
-### iBank マーケティング 設立
+### iBank マーケティング設立
 
-- **2016**: [[regional-banks/fukuoka-fg|FFG]] が iBank マーケティング 設立 (地銀発フィンテック子会社の先駆例)
+- **2016**: [[regional-banks/fukuoka-fg|FFG]] が iBank マーケティング設立 (地銀発フィンテック子会社の先駆例)
 - 「銀行を再発明する」コンセプトで、スマホ完結・若年層向け金融サービスを企画
 - [[regional-banks/fukuoka-bank|福岡銀行]] 口座連携を基本に、家計管理 + 目的別貯金機能を中核に据える
 
-### Wallet+ アプリ 展開
+### ウォレット+ アプリ展開
 
-- **2016**: Wallet+ アプリ リリース
+- **2016**: ウォレット+ アプリリリース
 - **myCoin 機能**: 目的別貯金 (旅行・結婚・住宅頭金等の目的を設定し、月次定額で貯金)
-- **Wallet+ Card**: JCB ブランドのプリペイドカード (チャージ式)
+- **ウォレット+ Card**: JCB ブランドのプリペイドカード (チャージ式)
 - **地域連携**: 福岡市内・九州各地の店舗・観光地連携クーポン
 
 ### グループ拡大
@@ -73,14 +71,14 @@ translated_at: 2026-06-02T14:25:12.388Z
 | 業務領域 | 家計管理、目的別貯金、プリペイドカード、地域クーポン |
 | 親会社 | [[regional-banks/fukuoka-fg]] 100% 出資 |
 
-> 注: アプリ DL 数は [[regional-banks/fukuoka-fg|FFG]] 公表で 300 万 DL 突破 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示 (公表値なし) のため、最新値は親 [[regional-banks/fukuoka-fg]] IR 資料 / Wallet+ 公式サイトを参照。
+> 注: アプリ DL 数は [[regional-banks/fukuoka-fg|FFG]] 公表で 300 万 DL 突破 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示 (公表値なし) のため、最新値は親 [[regional-banks/fukuoka-fg]] IR 資料 / ウォレット+ 公式サイトを参照。
 
 ## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
-| Wallet+ App | スマホ家計管理・口座可視化・目的別貯金 (myCoin) |
-| Wallet+ Card | JCB プリペイド (チャージ式、Wallet+ アプリ連携) |
+| ウォレット+ App | スマホ家計管理・口座可視化・目的別貯金 (myCoin) |
+| ウォレット+ Card | JCB プリペイド (チャージ式、ウォレット+ アプリ連携) |
 | myCoin | 目的別貯金 (旅行・結婚・住宅頭金等のゴール設定 + 月次定額貯金) |
 | 地域連携 | 福岡市内・九州各地店舗 / 観光地連携クーポン |
 | 銀行連携 | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] 口座連動 |
@@ -94,9 +92,9 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 ### 競合構図
 
-- **通信系ウォレット** ([[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / d 払い / [[payment-firms/rakuten-fg|楽天ペイ]]): 全国規模・決済中心、Wallet+ は銀行連携 + 目的別貯金軸で差別化
+- **通信系ウォレット** ([[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / d 払い / [[payment-firms/rakuten-fg|楽天ペイ]]): 全国規模・決済中心、ウォレット+ は銀行連携 + 目的別貯金軸で差別化
 - **銀行アプリ** (メガバンク・他地銀): UI/UX で差別化、myCoin 等独自機能
-- **家計簿アプリ** ([[payment-firms/money-forward|マネーフォワード]] / freee 系個人): 銀行連携範囲は広いが、地域連携 / プリペイドは Wallet+ 独自
+- **家計簿アプリ** ([[payment-firms/money-forward|マネーフォワード]] / freee 系個人): 銀行連携範囲は広いが、地域連携 / プリペイドは ウォレット+ 独自
 - **他地銀フィンテック**: 北國銀行 (CCI グループ) や山陰合同銀行系の地銀発フィンテックと類似 model
 
 ### 強みと弱み
@@ -122,10 +120,10 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 ## 出典
 
-- **iBank マーケティング 公式サイト** (https://www.ibank.co.jp/)
-- **iBank マーケティング 公式サイト — 企業情報** (https://www.ibank.co.jp/corporate/, 設立 2016-04 / 本店 福岡市中央区西中洲 / FFG デジタル戦略子会社)
-- **ふくおか FG プレスリリース (PR TIMES) — Wallet+ が 300 万ダウンロード達成** (https://prtimes.jp/main/html/rd/p/000000320.000029076.html)
-- **Wallet+ 公式サイト** (https://walletplus.jp/)
+- **iBank マーケティング公式サイト** (https://www.ibank.co.jp/)
+- **iBank マーケティング公式サイト — 企業情報** (https://www.ibank.co.jp/corporate/, 設立 2016-04 / 本店福岡市中央区西中洲 / FFG デジタル戦略子会社)
+- **ふくおか FG プレスリリース (PR TIMES) — ウォレット+ が 300 万ダウンロード達成** (https://prtimes.jp/main/html/rd/p/000000320.000029076.html)
+- **ウォレット+ 公式サイト** (https://walletplus.jp/)
 - **ふくおか FG 公式 IR** (https://www.fukuoka-fg.com/)
 - **ふくおか FG ニュースリリース** (https://www.fukuoka-fg.com/news/)
 - **Wikipedia: iBank マーケティング / ふくおかフィナンシャルグループ** (2026-05-24 抽出)
@@ -133,4 +131,4 @@ translated_at: 2026-06-02T14:25:12.388Z
 ---
 
 > [!info] 検証状況
-> 信頼度: **概ね有力**（FG フィンテック子会社アンカーを作成 2026-05-24）。[[regional-banks/fukuoka-fg]]ページは持株会社戦略 / みんなの銀行を扱い、本ページは Wallet+ アプリ運営フィンテック子会社の境界を扱う。設立 (2016) ・Wallet+ リリース (2016-07) ・300 万 DL 突破は iBank 公式 / FFG 公表で確認済 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示のため親 [[regional-banks/fukuoka-fg]] IR / Wallet+ 公式を参照。
+> 信頼度: **概ね有力**（FG フィンテック子会社アンカーを作成 2026-05-24）。[[regional-banks/fukuoka-fg]]ページは持株会社戦略 / みんなの銀行を扱い、本ページは ウォレット+ アプリ運営フィンテック子会社の境界を扱う。設立 (2016) ・ウォレット+ リリース (2016-07) ・300 万 DL 突破は iBank 公式 / FFG 公表で確認済 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示のため親 [[regional-banks/fukuoka-fg]] IR / ウォレット+ 公式を参照。

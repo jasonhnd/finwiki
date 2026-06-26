@@ -46,11 +46,11 @@ translated_at: 2026-06-02T12:19:04.241Z
 
 ## 4. 業務範囲・主要プロダクト
 
-- **MPC Custody（Multi-Party Computation）**: 秘密鍵を分散保管。ハードウェアアイソレーション + MPC の組み合わせ。グローバル金融機関向けに産業標準レベルのセキュリティを提供
+- **MPC カストディ（Multi-Party Computation）**: 秘密鍵を分散保管。ハードウェアアイソレーション + MPC の組み合わせ。グローバル金融機関向けに産業標準レベルのセキュリティを提供
 - **Policy Engine**: 送金ルール・承認フロー・コンプライアンスゲートを設定可能なガバナンスレイヤー
 - **Treasury Management**: 取引所・カウンターパーティとのデジタル資産送受信を秘密鍵露出なしで実行する Fireblocks Network
-- **Wallet-as-a-Service (WaaS)**: 企業向け非カストディアル・カストディアル MPC ウォレットの API 提供
-- **Embedded Wallets**: コンシューマー向け白ラベルウォレット（Dynamic 社買収で強化）
+- **ウォレット-as-a-Service (WaaS)**: 企業向け非カストディアル・カストディアル MPC ウォレットの API 提供
+- **Embedded ウォレット**: コンシューマー向け白ラベルウォレット（Dynamic 社買収で強化）
 - **Tokenization Engine**: RWA のミント・移転・スマートコントラクト管理
 - **Fireblocks Network for Payments**: ステーブルコイン決済特化ネットワーク（2025-09 提供開始）
 - **DeFi Access**: policy engine と連動した DeFi プロトコル接続
@@ -58,12 +58,12 @@ translated_at: 2026-06-02T12:19:04.241Z
 
 ## 5. 市場ポジション・競合比較
 
-### グローバル institutional custody 市場
+### グローバル institutional カストディ市場
 
 | ベンダー | 特徴 | ポジション |
 |---|---|---|
 | **Fireblocks** | MPC + policy engine、SaaS、2,400+ 機関 | グローバルシェア最大級の機関向け MPC インフラ |
-| BitGo | 信託 + MPC 併用、米国規制対応 | 機関向け老舗。直接 custody も |
+| BitGo | 信託 + MPC 併用、米国規制対応 | 機関向け老舗。直接カストディ も |
 | Anchorage Digital | 連邦銀行 charter 保有（米国唯一） | 規制準拠型、米国中心 |
 | Ledger Enterprise | HSM + Vault、フランス発 | 大型銀行向け HW 重視 |
 | Komainu | 野村 + Ledger + CoinShares 系 | 機関向け、アジア展開（詳細は [[exchanges/jp-custody-komainu]] 参照） |
@@ -71,14 +71,14 @@ translated_at: 2026-06-02T12:19:04.241Z
 ### 日本国内競合・住み分け
 
 **vs. [[exchanges/jp-custody-ginco|Ginco]]（国内独立系）**:
-- Ginco は「日本国内シェア No.1 暗号資産ビジネス向けウォレット」を掲げ、国内 VASP・金融機関の MPC ウォレット需要を獲得。日本語サポート・FSA 規制対応ノウハウ・国産 HSM 連携が強み（業界配置は [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] 参照）
+- Ginco は「日本国内シェア No.1 暗号資産ビジネス向けウォレット」を掲げ、国内 VASP・金融機関の MPC ウォレット需要を獲得。日本語サポート・FSA 規制対応ノウハウ・国産 HSM 連携が強み（業界配置は [[exchanges/jp-institutional-custody-three-pillars|JP institutional カストディ三本柱]] 参照）
 - Fireblocks は同一領域で競合するが、グローバルネットワーク（Fireblocks Network）・豊富な DeFi 統合・policy engine の完成度で差別化。大手メガバンク・外資系機関の選定実績を積む
 - 実際に STIR（国内 Web3 コンサル）が Fireblocks を用いた CoinTrade 向けステーキングシステム構築支援を担い（2024-02）、国内ベンダー経由での採用も進む
 
 **vs. Komainu（Nomura 系）**:
-- Komainu は機関向け規制準拠型カストディアンとして直接 custody（ Jersey TCSP ライセンス・Dubai VARA ライセンス）を提供。自社がカストディアンになる
-- Fireblocks は「インフラ SaaS」として金融機関が自ら custody 業務を担うための道具を提供。ビジネスモデルが異なり、競合というより住み分け
-- ただし信託銀行・VASP の自社 custody 強化案件では、Fireblocks vs Komainu の検討が並立することがある
+- Komainu は機関向け規制準拠型カストディアンとして直接カストディ（ Jersey TCSP ライセンス・Dubai VARA ライセンス）を提供。自社がカストディアンになる
+- Fireblocks は「インフラ SaaS」として金融機関が自ら カストディ業務を担うための道具を提供。ビジネスモデルが異なり、競合というより住み分け
+- ただし信託銀行・VASP の自社カストディ強化案件では、Fireblocks vs Komainu の検討が並立することがある
 
 ## 6. 沿革・日本展開
 
@@ -98,7 +98,7 @@ translated_at: 2026-06-02T12:19:04.241Z
 | 2025-09 | Fireblocks Network for Payments ローンチ（ステーブルコイン決済専用ネットワーク） |
 | 2025-10 | Dynamic（米国、ウォレット技術）を $90M で買収 |
 | 2026-01 | TRES Finance（暗号資産会計）を $130M で買収 |
-| 2026-05 | 日本：AndGo Wallet（国産 HW ウォレット）との統合実証完了（インタートレードらと共同） |
+| 2026-05 | 日本：AndGo ウォレット（国産 HW ウォレット）との統合実証完了（インタートレードらと共同） |
 
 **日本早期関与**:
 - みんなの銀行・TIS・Solana Japan との stablecoin + Web3 ウォレット事業化共同検討（時期未確定、2024-2025 頃）
@@ -109,7 +109,7 @@ translated_at: 2026-06-02T12:19:04.241Z
 - **2026-05 時点でグローバル 2,400 機関**が Fireblocks を利用（$10T+ 取引、550M+ ウォレット）
 - **Asian Banker Business Achievement Awards 2026** で "Best Blockchain Technology Platform (Digital Assets)" 受賞（Kuala Lumpur、2026）
 - 欧州銀行 12 行コンソーシアム「Qivalis」が EUR ステーブルコイン発行基盤として採用（2026）
-- Western Union が $USDPT ステーブルコインの settlement インフラとして採用（フィリピン・ボリビア先行展開）
+- Western Union が $USDPT ステーブルコインの 決済インフラとして採用（フィリピン・ボリビア先行展開）
 - **日本**: 2026-05 に CoinPost CEO インタビュー「Fireblocks CEOが語る日本市場戦略」報道あり（詳細内容は公開記事要確認）
 - IPO 観測あり：Bloomberg 2025-11「Fireblocks が社員持分買い戻し向けの資金調達を検討中」と報道
 
@@ -127,14 +127,14 @@ translated_at: 2026-06-02T12:19:04.241Z
 
 ## 関連項目
 
-- [[exchanges/jp-custody-komainu]] — Nomura 系機関向け custody 競合
+- [[exchanges/jp-custody-komainu]] — Nomura 系機関向け カストディ競合
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（Fireblocks 顧客候補）
-- [[agent-economy/embedded-wallet-network-effects-moat]] — embedded wallet 競争論
+- [[agent-economy/embedded-wallet-network-effects-moat]] — embedded ウォレット競争論
 - [[fintech/maina-wallet-kyc-permissionless-ux-bridge]] — ウォレット × KYC 設計
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 規制
 - [[fintech/jp-trust-type-sc-architecture]] — 信託型 SC アーキテクチャ
-- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional custody 三本柱
-- [[exchanges/global-institutional-custody-five-pillars]] — グローバル institutional custody 5 本柱
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional カストディ三本柱
+- [[exchanges/global-institutional-custody-five-pillars]] — グローバル institutional カストディ 5 本柱
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] — JP VASP cold storage 分別管理ルール
 
 ## 出典

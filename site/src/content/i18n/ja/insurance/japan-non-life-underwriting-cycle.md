@@ -4,17 +4,17 @@ source_hash: f783c8f2669e4cef
 lang: ja
 status: machine
 fidelity: ok
-title: "Japan non-life underwriting cycle"
+title: "Japan non-life 引受 cycle"
 translated_at: 2026-06-19T06:09:18.186Z
 ---
 
-# Japan non-life underwriting cycle
+# Japan non-life 引受 cycle
 
-## Wiki route
+## ウィキ上の位置づけ
 
-This entry sits under [[insurance/INDEX|insurance index]] and is the underwriting-cycle deep dive for Japanese non-life insurers. Read it together with [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the entity-level routing, with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] for the catastrophe pricing layer, with [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] for the household earthquake carve-out, with [[insurance/economic-value-based-solvency|economic-value-based solvency]] for the regulatory frame, with [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] for cross-jurisdiction comparison, with [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] for the group-level supervisory layer, and with [[insurance/insurance-agency-and-brokerage-japan|agency and brokerage Japan]] for the distribution layer that drives expense ratios.
+This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycle deep dive for Japanese non-life insurers. Read it together with [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the entity-level routing, with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] for the catastrophe pricing layer, with [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] for the household earthquake carve-out, with [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] for the regulatory frame, with [[insurance/global-solvency-framework-comparison-matrix|global ソルベンシー framework matrix]] for cross-jurisdiction comparison, with [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] for the group-level supervisory layer, and with [[insurance/insurance-agency-and-brokerage-japan|agency and 証券仲介 Japan]] for the distribution layer that drives expense ratios.
 
-オペレーティングカンパニー単位のルーティングは [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] を通る。ホールディングカンパニー単位のルーティングは [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] を通る。免許の文脈は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] にある。
+オペレーティングカンパニー単位のルーティングは [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] を通る。ホールディングカンパニー単位のルーティングは [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] を通る。免許の文脈は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]] にある。
 
 ## TL;DR
 
@@ -58,7 +58,7 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the underwritin
 | テレマティクス／UBI | より安全な運転者の自己選択 | UBI 加入者の頻度を低下させる；内部補助の含意 |
 | EV への移行 | 当初は severity 上昇 | バッテリー損傷費が高い；専門修理ネットワークが限定的 |
 | 運転者の人口構成 | 高齢化する運転者基盤 | 頻度／severity のパターンが変化する |
-| 修理工場のエコシステム | 集中度／価格設定 | 代理店／修理工場の関係が severity の結果に影響する |
+| 修理工場の経済圏 | 集中度／価格設定 | 代理店／修理工場の関係が severity の結果に影響する |
 
 ビッグ 3 の料率妥当性への対応には、更新された参考純率の利用、GIROJ 参考純率ガイダンスを超える社内プライシングティアの高度化、価格不足の代理店ブックに対するチャネル規律、再保険保有額の調整が含まれる。
 
@@ -130,7 +130,7 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the underwritin
 
 損保の最終損益は、引受結果（コンバインドレシオ）に保険契約者フロートに対する投資収益を加え、税を控除したものに等しい。ソフトな引受サイクルでは、投資収益による相殺が緩やかな引受損失を吸収しうる；ハードなサイクルでは、投資収益の改善に引受の回復が加わり、ポジティブに複合する。
 
-[[insurance/economic-value-based-solvency|economic-value-based solvency]] レジームのもとで、ESR は引受リスク（損保の巨大災害および非巨大災害）と市場リスク（株式、信用、金利）の双方を、統一された経済資本ベースで捕捉する。[[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] は規制資本のアーキテクチャを論じ、[[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] は同じグループ単位の資本が指定された IAIG について ICS のもとでどのように報告されるかを論じる。
+[[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] レジームのもとで、ESR は引受リスク（損保の巨大災害および非巨大災害）と市場リスク（株式、信用、金利）の双方を、統一された経済資本ベースで捕捉する。[[insurance/global-solvency-framework-comparison-matrix|global ソルベンシー framework matrix]] は規制資本のアーキテクチャを論じ、[[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] は同じグループ単位の資本が指定された IAIG について ICS のもとでどのように報告されるかを論じる。
 
 ## ESR cat-module sensitivity
 

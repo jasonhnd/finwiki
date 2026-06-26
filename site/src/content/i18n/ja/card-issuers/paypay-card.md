@@ -24,7 +24,7 @@ PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジ
 | 項目 | 読み方 |
 |---|---|
 | 法人 | PayPayカード株式会社 |
-| グループ | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY 決済エコシステム |
+| グループ | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY 決済経済圏 |
 | 主な領域 | PayPay Card、PayPay Card Gold、PayPayクレジット商品、貸金業関連の開示 |
 | 規制上の確認経路 | 公式会社情報と、クレジットカード・割賦販売法管理に関する経済産業省の信用取引資料を確認する。^[verified-2026-06-24] |
 | 会社ページ上の商品区分 | 公式会社ナビゲーションは PayPay Card、PayPay Card Gold、PayPay Credit を分けており、会社フッターでは貸金業登録も別に開示している。^[verified-2026-06-24] |
@@ -36,9 +36,7 @@ PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジ
 - カードと与信枠は [[payment-firms/paypay]] に吸収して読んではいけない。PayPay はウォレット・資金移動・前払式支払手段の運営会社であり、PayPayカードはクレジットカードと貸金業関連の開示を担う。^[verified-2026-06-24]
 - PayPay を最も近い経済圏金融の比較対象である [[card-issuers/rakuten-card|楽天カード]]、au PAY、d払い、伝統的なカード発行会社と比べる際に重要である。スキーム経済性は [[payments/japan-payment-scheme-economics-matrix]] で整理する。
 
-## 3. 単独ページにする理由
-
-ウォレットとしての PayPay と、与信運営会社としての PayPayカードでは、ライセンス、バランスシート、利用者保護の論点が異なる。このページは、その境界を見える形に保つ。
+## 3. 単独ページにする理由ウォレットとしての PayPay と、与信運営会社としての PayPayカードでは、ライセンス、バランスシート、利用者保護の論点が異なる。このページは、その境界を見える形に保つ。
 
 ## Related
 

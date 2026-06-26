@@ -14,7 +14,7 @@ translated_at: 2026-06-19T06:09:18.109Z
 
 日本の EC カードセキュリティは「3-D Secure」だけではない。有用な統制スタックは次のとおり：カードデータ保護 → 加盟店の脆弱性統制 → EMV 3-D Secure 認証 → 不正監視 → アクワイアラ／PSP／加盟店の情報共有 → チャージバックと是正。
 
-このページは [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/card-acquiring-japan-stack|card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]] と併せて使うこと。
+このページは [[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/card-acquiring-japan-stack|card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[payments/credit-purchase-card-operators-japan-index|credit / card 事業者 registry]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]] と併せて使うこと。
 
 ## Guideline Snapshot
 
@@ -24,42 +24,42 @@ translated_at: 2026-06-19T06:09:18.109Z
 | Japan Credit Association guideline 6.1 | カードセキュリティ統制に関する現行の主要な公的ガイドラインソース。 | 非保持、EC セキュリティ、EMV 3-D Secure、不正統制の語彙に使用。 |
 | PCI DSS | 国際的なカードデータセキュリティ標準。 | カード会員データ環境および加盟店／PSP のセキュリティ統制に使用。 |
 | EMV 3-D Secure | 認証プロトコル／メッセージング標準。 | リスクベース認証とチャレンジフロー分析に使用。 |
-| JCB merchant / brand pages | イシュア、アクワイアラ、ブランド、加盟店、認証の各役割の平易なモデル。 | すべての当事者を「カード会社」に一括りにすることを切り分けるために使用。 |
+| JCB 加盟店 / brand pages | イシュア、アクワイアラ、ブランド、加盟店、認証の各役割の平易なモデル。 | すべての当事者を「カード会社」に一括りにすることを切り分けるために使用。 |
 
 ## Actor And Responsibility Map
 
 | Actor | Japanese / market term | Core responsibility | Security artifact |
 |---|---|---|---|
-| Issuer | イシュア / カード発行会社 | カード会員の審査、オーソリゼーション、ACS／認証判断、請求、不正監視。 | オーソリゼーションログ、ACS 結果、カード会員の異議申立／不正監視。 |
+| 発行会社 | イシュア / カード発行会社 | カード会員の審査、オーソリゼーション、ACS／認証判断、請求、不正監視。 | オーソリゼーションログ、ACS 結果、カード会員の異議申立／不正監視。 |
 | Card brand / network | 国際ブランド / ブランド | ネットワークルール、ディレクトリルーティング、ブランドセキュリティルール、相互運用性。 | スキームルール、ディレクトリサーバルーティング、ブランドコンプライアンス。 |
-| Acquirer | アクワイアラ / 加盟店契約会社 | 加盟店の引受審査、加盟店契約、決済、チャージバックルーティング。 | 加盟店のデューデリジェンス、セキュリティ状況、チャージバック監視。 |
+| アクワイアラ | アクワイアラ / 加盟店契約会社 | 加盟店の引受審査、加盟店契約、決済、チャージバックルーティング。 | 加盟店のデューデリジェンス、セキュリティ状況、チャージバック監視。 |
 | PSP / gateway | 決済代行 / PSP | 決済ページ、トークン化、3DS Server 連携、取引データ、消込。 | トークン化設計、3DS 取引ログ、不正フィルタ。 |
-| Merchant | EC 加盟店 | サイトセキュリティ、顧客認証 UX、配送／返金統制、証跡保持。 | 脆弱性統制、注文ログ、配送／返金証跡。 |
+| 加盟店 | EC 加盟店 | サイトセキュリティ、顧客認証 UX、配送／返金統制、証跡保持。 | 脆弱性統制、注文ログ、配送／返金証跡。 |
 | 3DS Server / DS / ACS | 3-D Secure components | データ転送、ディレクトリルーティング、イシュア認証、チャレンジ／フリクションレスフロー。 | AReq / ARes / チャレンジ結果、ECI / CAVV スタイルの認証データ。 |
 
 ## Control Stack
 
 | Layer | Threat | Control objective | Primary owner | Secondary owner |
 |---|---|---|---|---|
-| Card-data protection | カード会員データの漏洩。 | 可能な限りカードデータを保存しない；PCI スコープを統制下に保つ。 | Merchant / PSP | Acquirer |
-| Tokenization / non-retention | 生のカードデータの露出。 | カードデータの取り扱いをトークン／リダイレクト／JavaScript トークンモデルに置き換える。 | PSP | Merchant |
-| Merchant vulnerability control | EC サイトの侵害、フォームジャッキング、アカウント乗っ取り。 | EC サイト、プラグイン、管理者アカウント、決済ページを堅牢に保つ。 | Merchant | PSP / EC system provider |
-| EMV 3-D Secure | 不正なカード非提示利用。 | リスクベースのイシュア認証とチャレンジフローを追加する。 | Issuer / ACS | Merchant / PSP / brand |
-| Fraud monitoring | クレジットマスター／BIN 攻撃、異常な注文パターン、転送詐欺。 | 疑わしい取引と配送を検知し阻止する。 | Issuer / acquirer / PSP | Merchant |
-| Chargeback / dispute | 損失配分と証跡の不備。 | 注文、認証、配送、返金、コミュニケーションの証跡を保全する。 | Acquirer / merchant | Issuer / PSP |
+| Card-data protection | カード会員データの漏洩。 | 可能な限りカードデータを保存しない；PCI スコープを統制下に保つ。 | 加盟店 / PSP | アクワイアラ |
+| Tokenization / non-retention | 生のカードデータの露出。 | カードデータの取り扱いをトークン／リダイレクト／JavaScript トークンモデルに置き換える。 | PSP | 加盟店 |
+| 加盟店 vulnerability control | EC サイトの侵害、フォームジャッキング、アカウント乗っ取り。 | EC サイト、プラグイン、管理者アカウント、決済ページを堅牢に保つ。 | 加盟店 | PSP / EC system provider |
+| EMV 3-D Secure | 不正なカード非提示利用。 | リスクベースのイシュア認証とチャレンジフローを追加する。 | 発行会社 / ACS | 加盟店 / PSP / brand |
+| Fraud monitoring | クレジットマスター／BIN 攻撃、異常な注文パターン、転送詐欺。 | 疑わしい取引と配送を検知し阻止する。 | 発行会社 / アクワイアラ / PSP | 加盟店 |
+| Chargeback / dispute | 損失配分と証跡の不備。 | 注文、認証、配送、返金、コミュニケーションの証跡を保全する。 | アクワイアラ / 加盟店 | 発行会社 / PSP |
 
 ## EMV 3-D Secure Route
 
 | Step | Component | Research question |
 |---|---|---|
-| Checkout | Merchant / PSP | リスクベース認証に十分なほど取引データは完全か？ |
+| Checkout | 加盟店 / PSP | リスクベース認証に十分なほど取引データは完全か？ |
 | 3DS request | 3DS Server | PSP または加盟店は 3DS Server を正しく連携しているか？ |
 | Directory routing | Directory Server | どのブランド／カードルートが認証要求を受け取るか？ |
-| Issuer decision | ACS / issuer | フローはフリクションレス、チャレンジ、拒否、または利用不可のいずれか？ |
-| Authorization | Issuer / acquirer | 認証結果とオーソリゼーション結果はどのように組み合わされるか？ |
-| Dispute / liability | Issuer / acquirer / merchant | 認証結果は実際に責任を変えるのか、それとも証跡を追加するだけか？ |
+| 発行会社 decision | ACS / 発行会社 | フローはフリクションレス、チャレンジ、拒否、または利用不可のいずれか？ |
+| Authorization | 発行会社 / アクワイアラ | 認証結果とオーソリゼーション結果はどのように組み合わされるか？ |
+| Dispute / liability | 発行会社 / アクワイアラ / 加盟店 | 認証結果は実際に責任を変えるのか、それとも証跡を追加するだけか？ |
 
-3-D Secure はカード非提示の不正リスクを低減するが、加盟店審査、カードデータ保護、アカウント乗っ取り統制、配送統制、チャージバック証跡を置き換えるものではない。だからこそこのページは、プロトコルのみの注記としてではなく [[payments/psp-merchant-settlement-risk|PSP settlement risk]] とリンクされている。
+3-D Secure はカード非提示の不正リスクを低減するが、加盟店審査、カードデータ保護、アカウント乗っ取り統制、配送統制、チャージバック証跡を置き換えるものではない。だからこそこのページは、プロトコルのみの注記としてではなく [[payments/psp-merchant-settlement-risk|PSP 決済 risk]] とリンクされている。
 
 ## Non-retention, Tokenization, And PCI DSS
 
@@ -70,7 +70,7 @@ translated_at: 2026-06-19T06:09:18.109Z
 | Server-side card handling | 加盟店サーバがカードデータを受け取る。 | PCI および運用上の負担が最も高い；準拠と記述する前に強固な証跡が必要。 |
 | Stored credential / recurring billing | 後続の決済にトークンまたはオンファイルクレデンシャルを使用する。 | 同意、ライフサイクル、解約、不正監視の統制が必要。 |
 
-## EC Merchant Fraud Controls
+## EC 加盟店 Fraud Controls
 
 | Pattern | Control |
 |---|---|
@@ -84,9 +84,9 @@ translated_at: 2026-06-19T06:09:18.109Z
 
 カードセキュリティ分析は、単一の「クレジットカード会社」というラベルではなく、イシュア／アクワイアラ／PSP の役割を経由してルーティングされる：
 
-- Issuers / acquirers: [[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/credit-saison|Credit Saison]]。
+- 発行会社 / アクワイアラ: [[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/credit-saison|Credit Saison]]。
 - PSP / gateway: [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]]、[[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/dg-financial-technology|DGFT]]、[[payment-firms/netstars|Netstars]]。
-- Legal / registry layer: [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]] および [[financial-licenses/INDEX|JapanFG legal / financial licenses]]。
+- Legal / registry layer: [[payments/credit-purchase-card-operators-japan-index|credit / card 事業者 registry]] および [[financial-licenses/INDEX|JapanFG legal / financial licenses]]。
 
 ## Red Flags For Wiki Research
 

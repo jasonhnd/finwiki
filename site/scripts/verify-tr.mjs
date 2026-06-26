@@ -7,10 +7,20 @@ import { unmask, verify } from './protect.mjs';
 const HERE = import.meta.dir;
 const cache = join(HERE, '..', '.cache');
 
+const args = process.argv.slice(2);
+const opt = (name, fallback) => {
+  const i = args.indexOf(`--${name}`);
+  return i >= 0 && args[i + 1] ? args[i + 1] : fallback;
+};
+const LANGS = opt('langs', 'zh,en')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
+
 for (const slug of ['custody', 'yucho']) {
   const masked = readFileSync(join(cache, 'masked', `${slug}.txt`), 'utf8');
   const masks = JSON.parse(readFileSync(join(cache, 'masks', `${slug}.json`), 'utf8'));
-  for (const lang of ['zh', 'en']) {
+  for (const lang of LANGS) {
     let tr;
     try {
       tr = readFileSync(join(cache, 'tr', `${slug}.${lang}.txt`), 'utf8');

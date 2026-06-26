@@ -4,9 +4,9 @@ import { mask, unmask } from './protect.mjs';
 
 const repo = join(import.meta.dir, '..', '..');
 const files = [
-  'JapanFG/custody-bank.md',
-  'JapanFG/yucho.md',
-  'JapanFG/mebuki-lease.md',
+  'banking/custody-bank-operating-model.md',
+  'regional-banks/japan-post-bank.md',
+  'leasing-firms/mebuki-lease.md',
   'exchanges/fsa-snapshot-delta-log.md',
   'banking/japan-banking-license-tier-comparison-matrix.md',
 ];
@@ -32,8 +32,33 @@ for (const f of files) {
 }
 console.log(`\nall lossless: ${allLossless}`);
 
+const guard =
+  'PayPay is the consumer wallet and code-payment operator in the SoftBank-LY ecosystem. ' +
+  'See [[megabanks/paypay-fg|PayPay FG ecosystem operator]], ' +
+  '[[payment-firms/paypay\\|PayPay consumer wallet operator]], and [[payments/funds-transfer-vs-prepaid-boundary]].';
+const g = mask(guard);
+const genericTermsVisible =
+  g.masked.includes('consumer wallet') &&
+  g.masked.includes('code-payment operator') &&
+  g.masked.includes('ecosystem operator') &&
+  g.masked.includes('PayPay consumer wallet operator');
+const targetProtected =
+  !g.masked.includes('megabanks/paypay-fg') &&
+  !g.masked.includes('payment-firms/paypay') &&
+  !g.masked.includes('payments/funds-transfer-vs-prepaid-boundary');
+const routeOnlyProtected = !g.masked.includes('[[payments/funds-transfer-vs-prepaid-boundary]]');
+const escapedPipePreserved = g.masked.includes('\\|PayPay consumer wallet operator');
+const guardLossless = unmask(g.masked, g.masks) === guard;
+
+console.log(
+  `generic terms exposed for translation: ${genericTermsVisible}  wikilink targets protected: ${targetProtected && routeOnlyProtected}  escaped pipe preserved: ${escapedPipePreserved}  guard lossless: ${guardLossless}`,
+);
+if (!genericTermsVisible || !targetProtected || !routeOnlyProtected || !escapedPipePreserved || !guardLossless) allLossless = false;
+
 // custody TL;DR を mask した見本（数字/専名/リンクが占位符になり、散文だけ残るか確認）
-const body = stripFm(readFileSync(join(repo, 'JapanFG/custody-bank.md'), 'utf8'));
+const body = stripFm(readFileSync(join(repo, 'banking/custody-bank-operating-model.md'), 'utf8'));
 const { masked } = mask(body);
 const sample = masked.split('\n').find((l) => l.includes('信託カストディ') || l.includes('合弁')) || '';
 console.log('\n=== masked TL;DR 見本（LLM に渡る形） ===\n' + sample.slice(0, 360));
+
+if (!allLossless) process.exit(1);

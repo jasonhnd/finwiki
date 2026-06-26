@@ -15,11 +15,9 @@ translated_at: 2026-06-02T14:01:20.935Z
 この項目は [[fintech/INDEX|fintech index]] 配下に置き、2026-Q2 データセットで最も頻繁に引用される米ドル建てステーブルコイン商品・発行体10者を横並びで比較するマトリクスである。発行体別の深掘りである [[fintech/tether-business-model-short-treasury-yield|Tether USDT]]、[[fintech/circle-usdc-stablecoin|Circle USDC]]、[[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]、[[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]、[[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1]]、[[fintech/first-digital-fdusd-hk-stablecoin|First Digital FDUSD]]、[[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]、[[fintech/m-network-m0-neutral-infrastructure|M^0 / M Network]]、[[fintech/stripe-usdb-bridge-stablecoin|Stripe USDB]] を補完する。規制文脈は [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]、[[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole regulatory matrix]]、[[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]、より広い統合の流れは [[fintech/stablecoin-issuer-2025-2026-market-consolidation|2025-2026 market consolidation]] を参照する。
 
 > [!info] 要約
-> 10のUSDステーブルコイン発行体が 2026-Q2 データセットの軸となる: **USDT** (Tether, ~$145B, グレーサークル優位), **USDC** (Circle, ~$65B, ホワイトサークル優位), **USDS** (Sky / ex-MakerDAO, ~$8.5B + DAI $4B legacy, 分散型RWA裏付け), **USDe** (Ethena, ~$5.2B, 合成デルタニュートラル), **FDUSD** (First Digital, ~$3B, Binance取引ペア中心), **USD1** (WLFI, ~$2.1B, 政治ブランド型), **PYUSD** (PayPal, ~$1B+, 決済会社ブランド型), **USDB** (Stripe Bridge, ~$800M, 垂直統合型), **RLUSD** (Ripple, ~$700M+, 銀行級コンプライアンス), **M** (M0 Foundation managed across 8+ 発行体s, ~$300M 合計, 中立インフラ). USDステーブルコイン供給総額は約$235Bで、挑戦者が伸びてもUSDT + USDCに約85%が集中する。 マトリクスを横断して読むと、 **準備金モデル**はUST + 現金（コンプライアンス型）と混合担保 / 合成型（Tether、Ethena）に二分される。 **規制上の本拠地**はGENIUS準拠の米国発行体（Circle、Paxos、BitGo、Standard Custody）とオフショア / 非米国（Tether、First Digital、Sky）に二分される。 **移転メカニズム**はミント/バーン（中央集権型発行体）とスワップ（分散型USDS）に二分される。 **GENIUS §501 準拠状況**は、米国機関投資家向け流通アクセスを決める拘束的な規制変数になっている。
+> 10のUSDステーブルコイン発行体が 2026-Q2 データセットの軸となる: **USDT** (Tether, ~$145B, グレーサークル優位), **USDC** (Circle, ~$65B, ホワイトサークル優位), **USDS** (Sky / ex-MakerDAO, ~$8.5B + DAI $4B legacy, 分散型RWA裏付け), **USDe** (Ethena, ~$5.2B, 合成デルタニュートラル), **FDUSD** (First Digital, ~$3B, Binance取引ペア中心), **USD1** (WLFI, ~$2.1B, 政治ブランド型), **PYUSD** (PayPal, ~$1B+, 決済会社ブランド型), **USDB** (Stripe Bridge, ~$800M, 垂直統合型), **RLUSD** (Ripple, ~$700M+, 銀行級コンプライアンス), **M** (M0 Foundation managed across 8+ 発行体s, ~$300M 合計, 中立インフラ). USDステーブルコイン供給総額は約$235Bで、挑戦者が伸びてもUSDT + USDCに約85%が集中する。 マトリクスを横断して読むと、 **準備金モデル**はUST + 現金（コンプライアンス型）と混合担保 / 合成型（Tether、Ethena）に二分される。 **規制上の本拠地**はGENIUS準拠の米国発行体（Circle、Paxos、BitGo、Standard カストディ）とオフショア / 非米国（Tether、First Digital、Sky）に二分される。 **移転メカニズム**はミント/バーン（中央集権型発行体）とスワップ（分散型USDS）に二分される。 **GENIUS §501 準拠状況**は、米国機関投資家向け流通アクセスを決める拘束的な規制変数になっている。
 
-## 10者比較を行う理由
-
-単一発行体の物語（「USDTはEMを支配する」「USDCはコンプライアンス標準である」）は真実の別々の側面を捉えるが、GENIUS Act §501 が導入した**構造的二分化**を隠してしまう。10商品を**供給量 / 準備金モデル / 規制上の本拠地 / カストディアン / 監査法人 / 移転メカニズム / 利回り配分 / チェーン対応範囲 / GENIUS §501 準拠**で横並びに置くと、§501 後の市場構造が見える。このマトリクスは結晶化した**3つのカテゴリ**も示す。(a) **決済ステーブルコイン**（USDT、USDC、PYUSD、RLUSD、USDB、FDUSD、USD1  — 1:1, でペッグされ償還可能）、(b) **合成 / 分散型ドル**（USDS、USDe — 準備金モデルも規制上の本拠地も異なる）、(c) **中立インフラ**（M^0  — ブランドではなくホワイトラベル発行レイヤー）。発行体 × 流通業者のインセンティブ分割は [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 model]] と [[fintech/stablecoin-revenue-split-economics|stablecoin revenue split economics]] を参照する。
+## 10者比較を行う理由単一発行体の物語（「USDTはEMを支配する」「USDCはコンプライアンス標準である」）は真実の別々の側面を捉えるが、GENIUS Act §501 が導入した**構造的二分化**を隠してしまう。10商品を**供給量 / 準備金モデル / 規制上の本拠地 / カストディアン / 監査法人 / 移転メカニズム / 利回り配分 / チェーン対応範囲 / GENIUS §501 準拠**で横並びに置くと、§501 後の市場構造が見える。このマトリクスは結晶化した**3つのカテゴリ**も示す。(a) **決済ステーブルコイン**（USDT、USDC、PYUSD、RLUSD、USDB、FDUSD、USD1  — 1:1, でペッグされ償還可能）、(b) **合成 / 分散型ドル**（USDS、USDe — 準備金モデルも規制上の本拠地も異なる）、(c) **中立インフラ**（M^0  — ブランドではなくホワイトラベル発行レイヤー）。発行体 × 流通業者のインセンティブ分割は [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 model]] と [[fintech/stablecoin-revenue-split-economics|stablecoin revenue split economics]] を参照する。
 
 ## Matrix A · 供給量, market cap, inception
 
@@ -33,7 +31,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 | **[[fintech/world-liberty-usd1-political-stablecoin\|WLFI USD1]]** | **~$2.1B** | 2025-Q1 デプロイ (2024-09 ローンチ) | World Liberty Financial; BitGo Trust Company (SD State Trust) が発行 |
 | **[[fintech/paypal-pyusd-stablecoin\|PayPal PYUSD]]** | **~$1B+** | 2023-08-07 | Paxos Trust Company (NY DFS Trust) |
 | **[[fintech/stripe-usdb-bridge-stablecoin\|Stripe USDB]]** | **~$800M+** | 2024-Q1 (USDB) | Bridge Inc. (Stripe 以降の完全子会社 2024-10) |
-| **[[fintech/ripple-rlusd-stablecoin\|Ripple RLUSD]]** | **~$700M+** | 2024-12-17 | Standard Custody (Ripple subsidiary; NY DFS Trust) |
+| **[[fintech/ripple-rlusd-stablecoin\|Ripple RLUSD]]** | **~$700M+** | 2024-12-17 | Standard カストディ (Ripple subsidiary; NY DFS Trust) |
 | **[[fintech/m-network-m0-neutral-infrastructure\|M0 Network M]]** | **~$300M 合計** (across 8+ ホワイトラベル発行体) | 2024-10 メインネット | M^0 Foundation; 複数のフロントエンド発行体 |
 
 見出しとなるパターンは、**二重大寡占の固定化**である。USDT + USDC は約$210B、USDステーブルコイン供給全体の約85%を占める。一方、8つの挑戦者 + M^0 の合計は約$30B、約15%にとどまる。この集中度は、挑戦者の参入が続いたにもかかわらず、2023 （当時約70%）以降**低下ではなく上昇**している。GENIUS Act と MiCA が弱いロングテール（BUSD、TUSD、GUSD、リテールUSDP）を退場させ、小さいが正統性のある第2階層を固定化したためである。
@@ -50,7 +48,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 | USD1 | **100% UST + 現金 via BitGo Trust** | BitGo カストディ | UST 利回り (USD1 保有者ではなくWLFIトークン保有者へ流れる) |
 | PYUSD | **100% UST + 現金 via Paxos** | Paxos NY DFS Trust segregation | UST 利回り (80-90% to PayPal as 流通インセンティブ) |
 | USDB | **100% short UST + overnight repo**; partial via BUIDL holding | Bridge / Stripe カストディ | UST 利回り (100% Stripeが保持) |
-| RLUSD | **100% short UST 1-3M + 現金 via Standard Custody** | Standard Custody NY DFS Trust | UST 利回り |
+| RLUSD | **100% short UST 1-3M + 現金 via Standard カストディ** | Standard カストディ NY DFS Trust | UST 利回り |
 | M | **BUIDL + UST + 現金** (M^0 統一テンプレート); 個別発行体の柔軟性 | M^0 スマートコントラクト・テンプレート + 発行体別のSecuritize型分別 | UST 利回り (via BUIDL); ホワイトラベル発行体と共有 |
 
 準備金の二分化は明確である。 **narrow UST + 現金** (USDC, PYUSD, RLUSD, USDB, USD1, M^0) vs **混合担保または合成型** (USDT, USDS, USDe). FDUSDは境界上にあり、書面上はナローだがカストディ構造に争点がある。 ナローリザーブ群は、GENIUS §501 準拠状況（下のマトリクスI参照）と**ほぼ完全に**対応する。
@@ -59,7 +57,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 
 | 発行体 | 発行主体の法域 | 営業免許 / チャーター |
 |---|---|---|
-| Tether USDT | BVI + El Salvador (since 2025); 米国免許なし | 米国免許なし; El Salvador Digital Asset Service Provider; オフショア優先 |
+| Tether USDT | BVI + El Salvador (since 2025); 米国免許なし | 米国免許なし; El Salvador Digital Asset サービス提供事業者; オフショア優先 |
 | Circle USDC | Boston, US (NYSE上場 CRCL) | US MTL 全州 + NY DFS BitLicense + EU MiCA EMT + Singapore MPI |
 | Sky USDS | DAOガバナンス (単一の法主体なし) | DAO; プロトコルレベル運営。法的構造は意図的に分散 |
 | Ethena USDe | BVI | オフショア。「合成型」としてGENIUSの決済ステーブルコイン範囲から明示的に切り出される |
@@ -67,7 +65,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 | WLFI USD1 | US (BitGo SD State Trust が発行体) | BitGo SD State Trust charter |
 | PayPal PYUSD | US (Paxos NY DFS Trust が発行体) | Paxos NY DFS Trust |
 | Stripe USDB | US (Bridge as Stripe subsidiary) | Bridge MTL + 州チャーター; EU + 日本の免許は保留中 |
-| Ripple RLUSD | US (Standard Custody NY DFS Trust が発行体) | Standard Custody NY DFS Trust; **Ripple OCC National Bank Charter申請 2026-Q1 (保留中)** |
+| Ripple RLUSD | US (Standard カストディ NY DFS Trust が発行体) | Standard カストディ NY DFS Trust; **Ripple OCC National Bank Charter申請 2026-Q1 (保留中)** |
 | M0 M | US foundation + multi-発行体 (decentralised governance) | $M DAO token + 複数法域の発行体コンプライアンス |
 
 規制上の本拠地のパターンは、**4つのカテゴリ構造**を示す。 (a) **US trust-発行体** (PYUSD, RLUSD, USD1, partially USDC) — 最も規制当局に受け入れられやすい経路; (b) **US operating company** (USDC, USDB) — 完全な決済サービス免許; (c) **offshore** (USDT, USDe) — GENIUSの決済ステーブルコイン範囲の明確な外側; (d) **DAO / multi-発行体** (USDS, M) — 意図的に分散. The **香港信託** route (FDUSD) is a fifth category — GENIUSではなくHKMAを通じたアジア太平洋コンプライアンス向けに設計.
@@ -84,10 +82,10 @@ translated_at: 2026-06-02T14:01:20.935Z
 | USD1 | BitGo Trust Company | BitGo内部アテステーション（開示は限定的） | 月次 |
 | PYUSD | Paxos内部 + 銀行預金 | **WithumSmith+Brown** | 月次 |
 | USDB | Bridge カストディ; partial BUIDL via BNY (through BUIDL underlying) | **BPM LLP** | 月次 |
-| RLUSD | Standard Custody (NY DFS Trust) | **BDO USA** | 月次 |
+| RLUSD | Standard カストディ (NY DFS Trust) | **BDO USA** | 月次 |
 | M | M^0 スマートコントラクト・テンプレート + Securitize | OpenZeppelin + Trail of Bits + Certora スマートコントラクト監査 | 継続的 + 発行体別監査 |
 
-**監査法人の階層**は明確である。 Deloitte (USDC) > WithumSmith+Brown (PYUSD) > BDO USA (RLUSD) > Withum (PYUSD) > BPM LLP (USDB) > Prescient Assurance (FDUSD) > BitGo internal (USD1) > BDO Italia (USDT quarterly). **カストディアンの階層**も同様に層化している。 BNY Mellon (USDC) > Paxos NY DFS Trust (PYUSD) > Standard Custody (RLUSD) > BitGo (USD1) > Bridge カストディ (USDB) > FDT HK (FDUSD) > Tether mixed bank relationships (USDT). USDC + BUIDL + 間接的なUSDB（BUIDL経路）+ 間接的なUSDS（BUIDL RWA vault）を支える**BNY Mellonカストディアン集中**は、USDステーブルコインの供給網で最大の単一カストディ集中となっている。
+**監査法人の階層**は明確である。 Deloitte (USDC) > WithumSmith+Brown (PYUSD) > BDO USA (RLUSD) > Withum (PYUSD) > BPM LLP (USDB) > Prescient Assurance (FDUSD) > BitGo internal (USD1) > BDO Italia (USDT quarterly). **カストディアンの階層**も同様に層化している。 BNY Mellon (USDC) > Paxos NY DFS Trust (PYUSD) > Standard カストディ (RLUSD) > BitGo (USD1) > Bridge カストディ (USDB) > FDT HK (FDUSD) > Tether mixed bank relationships (USDT). USDC + BUIDL + 間接的なUSDB（BUIDL経路）+ 間接的なUSDS（BUIDL RWA vault）を支える**BNY Mellonカストディアン集中**は、USDステーブルコインの供給網で最大の単一カストディ集中となっている。
 
 ## Matrix E · 移転メカニズム (mint/burn vs swap vs hybrid)
 
@@ -97,11 +95,11 @@ translated_at: 2026-06-02T14:01:20.935Z
 | USDC | **Circleでミント/バーン。対応各チェーンでネイティブ** | **CCTP V2 バーン・アンド・ミント** across 18+ chains (wrapped版なし) |
 | USDS | **担保に対するvaultベースのミント/バーン**; DAO統治 | ネイティブ対応: Ethereum, Base, Solana (2026-Q1) |
 | USDe | **担保預託によりミント (ETH spot + perp short)**; ポジション解消で償還 | Ethereumのみ (delta-neutral ベーシスには深いETH perp市場が必要) |
-| FDUSD | Mint/burn at First Digital Trust | マルチチェーンwrapping; **Justin Sun reserve dispute** affects custody-chain trust |
+| FDUSD | Mint/burn at First Digital Trust | マルチチェーンwrapping; **Justin Sun reserve dispute** affects カストディ-chain trust |
 | USD1 | Mint/burn at BitGo | マルチチェーンwrapping |
 | PYUSD | Mint/burn at Paxos | マルチチェーンwrapping; Solana中心 (~80%) |
 | USDB | Mint/burn at Bridge | マルチチェーンwrapping; Tempo L1 開発中 |
-| RLUSD | Mint/burn at Standard Custody | Dual-ローンチ XRPL + Ethereum native; expansion 予定 |
+| RLUSD | Mint/burn at Standard カストディ | Dual-ローンチ XRPL + Ethereum native; expansion 予定 |
 | M | **Mint/burn via M^0 unified contract template**; 発行体別ホワイトラベル | M^0 マルチチェーン・テンプレート |
 
 移転メカニズムの二分化は、 **centralised mint/burn** （表中のUSDSとUSDeを除くすべての発行体）と **DAO / collateral-vault-based mechanisms** (USDS, USDe). USDeは独自に**合成型**であり、 $1 あたりのUSTを $1 発行USDeごとに保有するのではなく、ネットのデルタニュートラル・ポジションが概ね $1. USDSは独自に**分散型担保型**であり、 1:1 準備金ではなく複数資産vaultに対してミントする。 USDCの**CCTP V2 バーン・アンド・ミント構造**は、最もクリーンなクロスチェーンメカニズムである。各チェーンのUSDCはwrapped版ではなく、Circle発行のネイティブである。
@@ -118,7 +116,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 | USD1 | WLFI / BitGoがUST利回りを保持; **channelled to WLFI token holders** | **いいえ** (USD1 保有者は受け取らない; 利回り routes to WLFI token) | WLFIトークン配分メカニズム |
 | PYUSD | Paxosが名目上保持; **80-90% の利回りをPayPalへ** | いいえ | PayPal 80-90% 取り分 |
 | USDB | **Stripeが保持 100% of 利回り** (流通業者との分配なし。Stripeが発行体かつ流通業者) | いいえ | n/a (垂直統合) |
-| RLUSD | Standard Custody / Ripple retains | いいえ | Ripple内部の経済性 |
+| RLUSD | Standard カストディ / Ripple retains | いいえ | Ripple内部の経済性 |
 | M | M^0 bp手数料を課し、ホワイトラベル発行体が利回りの大半を獲得 | いいえ (white-label 発行体 determines) | 発行体別モデル |
 
 **利回り配分の経済性**は [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 distributor-realignment model]] の典型例である。 **distributors capture 50-90% of USD ステーブルコイン economics** 消費者への到達を支配しているためである。 USDB は unique exception — Stripeが保持 100% because Stripe **is** both 発行体 and distributor (垂直統合). USDeとUSDSだけが、 **SC保有者が直接利回りを受け取る商品である** (ステーキング版を通じて) — どちらもGENIUS §501 を、直接のSC利息ではなく別商品のステーキング機会として構成することで迂回する。 USD1 が最も異例で、利回りは **WLFI token holders (政治支持者への経済的報酬)** USD1 保有者ではなく
@@ -169,7 +167,7 @@ translated_at: 2026-06-02T14:01:20.935Z
 | USD1 | 合格 (UST + 現金 via BitGo Trust) | 合格 (BitGo SD State Trust) | 完全アクセス; **GENIUSに対する政治的信用リスク §501 中立性** |
 | PYUSD | **合格** | **合格** (Paxos NY DFS Trust) | **完全アクセス** |
 | USDB | **合格** | **合格** (Bridge subsidiary; Stripe US licenses) | **完全アクセス** |
-| RLUSD | **合格** | **合格** (Standard Custody NY DFS Trust); OCC National Bank Charter 保留中 | **完全アクセス** |
+| RLUSD | **合格** | **合格** (Standard カストディ NY DFS Trust); OCC National Bank Charter 保留中 | **完全アクセス** |
 | M | M^0 テンプレートは発行体別に合格。ホワイトラベルごとに異なる | 発行体別 | 発行体別 |
 
 GENIUS §501 準拠状況は市場を次のように**二分**する。
@@ -205,13 +203,13 @@ This matrix は single most consequential dimension because it determines which 
 - **The BNY Mellon 集中 is now systemic**: のカストディアン Circle Reserve Fund (USDC) + BlackRock BUIDL (が裏付ける USDB, USDS RWA vault indirectly, OUSG via Ondo). BNYの運用障害は、コンプライアンス型USDオンチェーン・スタック全体へ波及する。
 - **PYUSDの 2024-05  Solana中心移行** は、上位10 ステーブルコインがSolanaを副次ではなく主要チェーンとして扱った初の例である。USDCのCCTP V2 による広範な到達範囲、PYUSDのSolana移行、USDBのTempo L1 発表は、合わせて**マルチチェーン・ネイティブ展開が今や最低条件のアーキテクチャである**ことを意味する。
 - **USD1's 政治ブランド型 model is unique** 準備金利回りをWLFIトークン保有者へ流す点で (政治支持者への経済的報酬) USD1 保有者ではなく. This は cleanest GENIUS §501 迂回策 (利回り goes to a separate token, ではない the SC), ただし、 §501 "中立性" および [[fintech/three-circles-stablecoin-mra-framework|three-circles MRA framework]].
-- **FDUSDのHKMA免許遅延**（当初Q2, 、現在Q3 2026）と **Justin Sun をめぐる準備金カストディ争点**により、FDUSDは上位層で最も脆弱である。$3BのMCapは大きいが、単一流通業者 + カストディ争点というリスクプロファイルはPYUSD/RLUSDにはない。
+- **FDUSDのHKMA免許遅延**（当初Q2,、現在Q3 2026）と **Justin Sun をめぐる準備金カストディ争点**により、FDUSDは上位層で最も脆弱である。$3BのMCapは大きいが、単一流通業者 + カストディ争点というリスクプロファイルはPYUSD/RLUSDにはない。
 
 ## 関連項目
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|Fintech Index]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether USDT business model]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether USDT 事業モデル]]
 - [[fintech/circle-usdc-stablecoin|Circle USDC]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
@@ -220,12 +218,12 @@ This matrix は single most consequential dimension because it determines which 
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]
 - [[fintech/m-network-m0-neutral-infrastructure|M^0 / M Network neutral infrastructure]]
 - [[fintech/stripe-usdb-bridge-stablecoin|Stripe USDB]]
-- [[fintech/stablecoin-issuer-2025-2026-market-consolidation|stablecoin issuer 2025-2026 consolidation]]
+- [[fintech/stablecoin-issuer-2025-2026-market-consolidation|stablecoin 発行会社 2025-2026 consolidation]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|stablecoin five-pole regulatory matrix]]
 - [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]
 - [[fintech/stablecoin-revenue-split-economics|stablecoin revenue split economics]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 issuer-distributor model]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 発行会社-distributor model]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
 - [[fintech/tether-usat-anchorage|Tether USAT (Anchorage)]]
 - [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]]

@@ -12,17 +12,17 @@ translated_at: 2026-06-02T12:19:04.253Z
 
 ## 要約
 
-- 8大DEX aggregatorを2026-Q2時点で **chain coverage · ルーティング model · MEV 保護 · gas relay · daily volume · fee model · partner integration · ガバナンス トークン** の8軸で対照
-- **ルーティングモデル 3大象限**:**オンチェーン パスファインダー**(1inch · ParaSwap · KyberSwap · OpenOcean · OKX DEX)· **RFQ (Request-For-Quote / マーケットメーカー quote)**(0x Protocol · Matcha · OKX DEXもRFQを含む)· **batch auction**(CowSwap / CoW Protocol)— JupiterはSolana ecosystem専用のSVM aggregator
+- 8大DEX aggregatorを2026-Q2時点で **chain coverage · ルーティング model · MEV 保護 · gas relay · daily volume · fee model · partner integration · ガバナンストークン** の8軸で対照
+- **ルーティングモデル 3大象限**:**オンチェーンパスファインダー**(1inch · ParaSwap · KyberSwap · OpenOcean · OKX DEX)· **RFQ (Request-For-Quote / マーケットメーカー quote)**(0x Protocol · Matcha · OKX DEXもRFQを含む)· **batch auction**(CowSwap / CoW Protocol)— JupiterはSolana 経済圏専用のSVM aggregator
 - **対応チェーン範囲 の分化**:EVM-heavy(1inch · 0x · CowSwap · ParaSwap · KyberSwap · OpenOcean · OKX DEX)vs Solana 専用(Jupiter)· 真のマルチ VM aggregatorはまだ存在せず(OpenOceanはEVM + Solanaを同時にカバーする数少ない例だが、Solana経路は実質Jupiter sub-ルーティングに乗る)
-- **MEV 保護 の3大メカニズム**:**CoW Protocol のバッチオークション + uniform clearing price**(構造的にMEVを消す)· **1inch Fusion / 0x Settler の intent-based + signed quote**(MEVをほぼキャンセル)· **flashbots private メンプール** ラッパ(一部aggregatorが統合)— JupiterのSolana上のMEVはJito tipモデルで緩和
+- **MEV 保護 の3大メカニズム**:**CoW Protocol のバッチオークション + uniform 清算 price**(構造的にMEVを消す)· **1inch Fusion / 0x Settler の intent-based + signed quote**(MEVをほぼキャンセル)· **flashbots private メンプール** ラッパ(一部aggregatorが統合)— JupiterのSolana上のMEVはJito tipモデルで緩和
 - **日次出来高**(2026-Q2推定):1inch ~$1.5-2B · Jupiter ~$1-2B(Solanaの70%+のルーティングが経由)· 0x/Matcha ~$0.8-1.2B · CowSwap ~$0.4-0.6B · KyberSwap / OKX DEX ~$0.3-0.5B · ParaSwap / OpenOcean それぞれ ~$0.2-0.4B
 - **ガバナンストークン**:1INCH · ZRX · COW · JUP · KNC · OKB(OKX本体のトークン)· PSP(2024 ローンチのParaSwap)· OpenOcean OOE · 各々の治理モデルと手数料分配は大きく異なる
-- 関連項目:[[exchanges/global-dex-major-five-comparison|global DEX 5強]](DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
+- 関連項目:[[exchanges/global-dex-major-five-comparison|global DEX 5強]](DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
 
 ## ウィキ上の位置づけ
 
-この項目は [[exchanges/INDEX|exchanges index]] の下位に位置づけられる。基礎となる DEX プール層は [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]、Solana SVM の aggregator / DEX スタックは [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]、perp 専業セグメントは [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 comparison]]、チェーン別 DEX ダイナミクスは [[exchanges/native-dex-flip-incumbent-pattern|native DEX flip incumbent pattern]] と対照して読む。同業 Solana DEX の詳細分析は [[exchanges/dex-jito-solana|Jito Solana]] · [[exchanges/dex-raydium-solana|Raydium]] · [[exchanges/dex-orca-solana|Orca]] · [[exchanges/dex-pendle|Pendle]]、AMM の進化系統は [[exchanges/amm-design-evolution|AMM design evolution]] と [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]]、MEV / オーダーフローのアーキテクチャ文脈は [[systems/mev-flashbots-suave-order-flow-auction|MEV Flashbots Suave order-flow auction]]、より広い CEX 競争の見取り図は [[exchanges/global-cex-top10-comparison|global CEX top 10 比較]] と [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API SDK ecosystem]]、規制上の位置づけは [[exchanges/fsa-vasp-registration-system|FSA VASP registration]] · [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]] · [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory matrix]] を参照。
+この項目は [[exchanges/INDEX|exchanges index]] の下位に位置づけられる。基礎となる DEX プール層は [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]、Solana SVM の aggregator / DEX スタックは [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX comparison]]、perp 専業セグメントは [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 comparison]]、チェーン別 DEX ダイナミクスは [[exchanges/native-dex-flip-incumbent-pattern|native DEX flip incumbent pattern]] と対照して読む。同業 Solana DEX の詳細分析は [[exchanges/dex-jito-solana|Jito Solana]] · [[exchanges/dex-raydium-solana|Raydium]] · [[exchanges/dex-orca-solana|Orca]] · [[exchanges/dex-pendle|Pendle]]、AMM の進化系統は [[exchanges/amm-design-evolution|AMM design evolution]] と [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]]、MEV / オーダーフローのアーキテクチャ文脈は [[systems/mev-flashbots-suave-order-flow-auction|MEV Flashbots Suave order-flow auction]]、より広い CEX 競争の見取り図は [[exchanges/global-cex-top10-comparison|global CEX top 10 比較]] と [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API SDK 経済圏]]、規制上の位置づけは [[exchanges/fsa-vasp-registration-system|FSA VASP registration]] · [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]] · [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory matrix]] を参照。
 
 ## なぜこのマトリックスが必要か
 
@@ -48,7 +48,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **手数料モデル**:Pathfinderはno fee(LP feeのみ)· Fusionではreソルバーから手数料(small spread)· Partner integration経由はreferral fee設定可能。
 
-**パートナー連携**:MetaMask Swaps経由(MetaMaskが1inchを標準 ルーティング providerの1つに採用)· Coinbase Wallet · TrustWallet等多数。
+**パートナー連携**:MetaMask Swaps経由(MetaMaskが1inchを標準ルーティング providerの1つに採用)· Coinbase ウォレット · TrustWallet等多数。
 
 **ガバナンストークン**:**1INCH**(2020年ローンチ · veTokenモデルに2022年移行 · veINCH投票で手数料分配 + reソルバー whitelistを決定)。
 
@@ -60,19 +60,19 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **MEV 保護メカニズム**:RFQ quoteはprivate signed · MEV searcherが前置sandwichできない(makerがprice commitした瞬間にexecute)。Settlerはpermit2 + smart routerでclassical AMM swapも保護。
 
-**Gas リレイヤー対応**:0x API経由はユーザーがgas支払い · 一部partner(Coinbase Wallet等)はmeta-transactionでガスレス支援。
+**Gas リレイヤー対応**:0x API経由はユーザーがgas支払い · 一部partner(Coinbase ウォレット等)はmeta-transactionでガスレス支援。
 
 **日次出来高**:~$0.8-1.2B(Matcha + 0x API経由の合計)。professional マーケットメーカー liquidityの比率が他のaggregatorより高い。
 
 **手数料モデル**:0.15% protocol feeが標準(2024-2025段階的導入)· partner referral fee設定可能。
 
-**パートナー連携**:**Coinbase Wallet swap** · **MetaMask Swaps(co-provider)** · **Robinhood crypto swap backend**(2024年発表)· Brave Wallet等。エンタープライズ統合が最も多いaggregatorの1つ。
+**パートナー連携**:**Coinbase ウォレット swap** · **MetaMask Swaps(co-provider)** · **Robinhood crypto swap backend**(2024年発表)· Brave ウォレット等。エンタープライズ統合が最も多いaggregatorの1つ。
 
 **ガバナンストークン**:**ZRX**(2017年ローンチ · ZRX ステーキング + ガバナンス · 2024年に手数料分配議論進行中)。
 
 ### CowSwap / CoW Protocol (COW · Batch Auction)
 
-**ルーティングモデル**:**Batch auction 均一清算価格付き**。ユーザーはintent(sell X for at least Y)を送信 · ~12秒のbatch window中の全orderがCoW (Coincidence of Wants)でマッチング · 残余はソルバーが外部AMM/RFQでsettleする。**Uniform clearing price** で同一トークン pairの全orderが同価格で成立するため、MEV(sandwich + frontrunning)が構造的に成立しない。
+**ルーティングモデル**:**Batch auction 均一清算価格付き**。ユーザーはintent(sell X for at least Y)を送信 · ~12秒のbatch window中の全orderがCoW (Coincidence of Wants)でマッチング · 残余はソルバーが外部AMM/RFQでsettleする。**Uniform 清算 price** で同一トークン pairの全orderが同価格で成立するため、MEV(sandwich + frontrunning)が構造的に成立しない。
 
 **対応チェーン範囲**:**EVM**(Ethereum mainnet + Gnosis Chain + Arbitrum + Base · 2026-Q2時点)。Multi-chain拡張は他aggregatorより保守的。
 
@@ -84,7 +84,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **手数料モデル**:0.1-0.5% ソルバー fee(ユーザー surplusからchargeする透明な方式)· CowDAO 手数料スイッチが2024年enableされCOW stakerにrewardを分配。
 
-**パートナー連携**:**Safe (Gnosis Safe) native swap integration**(機関multisigがCoWでswapする)· Argent Wallet · Rabby Wallet · MEV-protection需要の高いユーザー baseに強い。
+**パートナー連携**:**Safe (Gnosis Safe) native swap integration**(機関multisigがCoWでswapする)· Argent ウォレット · Rabby ウォレット · MEV-protection需要の高いユーザー baseに強い。
 
 **ガバナンストークン**:**COW**(2023年ローンチ · COW ステーキングでfee受領 + ガバナンス)。
 
@@ -98,11 +98,11 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **Gas リレイヤー対応**:Solanaのgas feeは$0.001オーダーで極めて低い — ガスレス必要性がEVMより低い。Jupiterはユーザーが自前SOLを保有する前提。
 
-**日次出来高**:**~$1-2B(Solana DEX全体取引量の70%+がJupiter経由でルーティング)**。Solana ecosystemの事実上の入口。
+**日次出来高**:**~$1-2B(Solana DEX全体取引量の70%+がJupiter経由でルーティング)**。Solana 経済圏の事実上の入口。
 
 **手数料モデル**:0% protocol fee(LP fee + Jito tipのみ)· Partner integration経由はreferral設定可能。
 
-**パートナー連携**:Phantom Wallet · Solflare Wallet · Backpack(Solana ウォレットエコシステム全体の標準 swap)· Jupiter LST (Liquid Staking Token)とJupiter Perpも拡張。
+**パートナー連携**:Phantom ウォレット · Solflare ウォレット · Backpack(Solana ウォレット経済圏全体の標準 swap)· Jupiter LST (Liquid Staking Token)とJupiter Perpも拡張。
 
 **ガバナンストークン**:**JUP**(2024-01 ローンチ · Solana史上最大級のretroactive airdrop · JUP ステーキング + ガバナンス)。
 
@@ -138,7 +138,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **手数料モデル**:Free パスファインダー · Deltaからprotocol fee · partner referral fee。
 
-**パートナー連携**:Argent · Ledger Live · Zerion等のリテール ウォレットに統合。
+**パートナー連携**:Argent · Ledger Live · Zerion等のリテールウォレットに統合。
 
 **ガバナンストークン**:**PSP**(2021年ローンチ · 2024年に手数料分配 model upgrade · sePSP ステーキング)。
 
@@ -156,7 +156,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **手数料モデル**:0% aggregator fee · Kyber Elastic LP fee(swap fee from pool)。
 
-**パートナー連携**:Krystal Wallet · MetaMask等。Vietnam / SEA市場で強い。
+**パートナー連携**:Krystal ウォレット · MetaMask等。Vietnam / SEA市場で強い。
 
 **ガバナンストークン**:**KNC**(2017年ローンチ · 2022年migration · KNC ステーキング + ガバナンス · KyberDAO)。
 
@@ -164,19 +164,19 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 ### OKX DEX Aggregator (OKB · 中央化バックド)
 
-**ルーティングモデル**:**On-chain パスファインダー + RFQ hybrid** — OKX(CEX)がbackedするRFQ liquidityを統合 · 外部AMM + OKX Spot order bookのhybrid。OKX Wallet内蔵の標準 swap。
+**ルーティングモデル**:**On-chain パスファインダー + RFQ hybrid** — OKX(CEX)がbackedするRFQ liquidityを統合 · 外部AMM + OKX Spot order bookのhybrid。OKX ウォレット内蔵の標準 swap。
 
 **対応チェーン範囲**:**EVM + Solana + TON + Aptos + Suiで20+ chain**。CEX 支援型の優位でchain expansionが早い。
 
 **MEV 保護メカニズム**:Partial — OKX RFQ liquidity経由はMEV-resistant · external AMM経由はMEV exposed。
 
-**Gas リレイヤー対応**:OKX Wallet経由はOKX Pay統合で部分的にガスレス。
+**Gas リレイヤー対応**:OKX ウォレット経由はOKX Pay統合で部分的にガスレス。
 
-**日次出来高**:~$0.3-0.5B(2026-Q2)。CEX 支援型のブランド認知度とOKX Walletユーザーベースで着実に成長中。
+**日次出来高**:~$0.3-0.5B(2026-Q2)。CEX 支援型のブランド認知度とOKX ウォレットユーザーベースで着実に成長中。
 
-**手数料モデル**:~0.1% protocol fee · OKX ecosystem内連携で減免可能。
+**手数料モデル**:~0.1% protocol fee · OKX 経済圏内連携で減免可能。
 
-**パートナー連携**:OKX Wallet(標準)· OKX CEXへのシームレス連携(オンチェーン swap → CEX deposit)。
+**パートナー連携**:OKX ウォレット(標準)· OKX CEXへのシームレス連携(オンチェーン swap → CEX deposit)。
 
 **ガバナンストークン**:**OKB**(OKX全体のトークン · 取引手数料discount + ガバナンス · DEX専用トークンは無い)。
 
@@ -186,14 +186,14 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 | Aggregator | ルーティングモデル | 対応チェーン範囲 | MEV 保護 | Gas リレイヤー | 日次出来高 (推定) | 手数料モデル | パートナー連携 | ガバナンストークン |
 |---|---|---|---|---|---|---|---|---|
-| **1inch** | Pathfinder + Fusion intent | **EVM 11+** | Fusion intent (reソルバー competition) + Flashbots opt-in | Fusion: ソルバー pays · Pathfinder: ユーザー | **~$1.5-2B** | Free パスファインダー · Fusion small spread | MetaMask Swaps 標準 · Coinbase Wallet · Trust | **1INCH** (veINCH) |
-| **0x / Matcha** | RFQ-first hybrid (Settler smart router) | EVM 9+ | RFQ signed quote (private) + Settler MEV-resist | Partial meta-tx via partners | ~$0.8-1.2B | 0.15% protocol fee | **Coinbase Wallet · MetaMask co-provider · Robinhood backend** | **ZRX** (ステーキング) |
-| **CowSwap / CoW Protocol** | **Batch auction + uniform clearing price** | EVM (Eth + Gnosis + Arb + Base) | **Structurally MEV-free** (batch CoW + uniform price) | **Fully ガスレス** (ソルバー pays) | ~$0.4-0.6B (high avg ticket) | 0.1-0.5% ソルバー fee · CowDAO 手数料スイッチ on | **Safe native swap** · Argent · Rabby | **COW** (ステーキング) |
-| **Jupiter** | Solana SVM native aggregator (25+ Solana DEX) | **Solana 専用** | Jito Bundle integration + slippage bot protect | Low gas baseline (Solana ~$0.001) | **~$1-2B (70%+ Solana DEX ルーティング)** | 0% protocol fee | **Phantom · Solflare · Backpack** (all Solana ウォレット 標準) | **JUP** (2024 airdrop) |
+| **1inch** | Pathfinder + Fusion intent | **EVM 11+** | Fusion intent (reソルバー competition) + Flashbots opt-in | Fusion: ソルバー pays · Pathfinder: ユーザー | **~$1.5-2B** | Free パスファインダー · Fusion small spread | MetaMask Swaps 標準 · Coinbase ウォレット · Trust | **1INCH** (veINCH) |
+| **0x / Matcha** | RFQ-first hybrid (Settler smart router) | EVM 9+ | RFQ signed quote (private) + Settler MEV-resist | Partial meta-tx via partners | ~$0.8-1.2B | 0.15% protocol fee | **Coinbase ウォレット · MetaMask co-provider · Robinhood backend** | **ZRX** (ステーキング) |
+| **CowSwap / CoW Protocol** | **Batch auction + uniform 清算 price** | EVM (Eth + Gnosis + Arb + Base) | **Structurally MEV-free** (batch CoW + uniform price) | **Fully ガスレス** (ソルバー pays) | ~$0.4-0.6B (high avg ticket) | 0.1-0.5% ソルバー fee · CowDAO 手数料スイッチ on | **Safe native swap** · Argent · Rabby | **COW** (ステーキング) |
+| **Jupiter** | Solana SVM native aggregator (25+ Solana DEX) | **Solana 専用** | Jito Bundle integration + slippage bot protect | Low gas baseline (Solana ~$0.001) | **~$1-2B (70%+ Solana DEX ルーティング)** | 0% protocol fee | **Phantom · Solflare · Backpack** (all Solana ウォレット標準) | **JUP** (2024 airdrop) |
 | **OpenOcean** | Multi-VM パスファインダー (EVM + Solana + Aptos + Sui + TON) | **20+ chain across マルチ VM** | Pass-through (Flashbots EVM · Jito Solana) | Chain-specific partial | ~$0.2-0.4B | 0.1% protocol fee | MetaMask · Phantom · Pontem · Suiet | **OOE** (ステーキング) |
 | **ParaSwap** | Pathfinder + RFQ + Delta intent layer | EVM 11+ | Delta intent partial · パスファインダー exposed | Delta ガスレス · パスファインダー ユーザー-pay | ~$0.2-0.4B | Free パスファインダー · Delta fee | Argent · Ledger Live · Zerion | **PSP** (sePSP) |
 | **KyberSwap** | Aggregator + own Kyber Elastic AMM | EVM 15+ | None (post-2023 hack focus on safety not MEV) | Limited | ~$0.3-0.5B | 0% agg fee · Elastic LP fee | Krystal · MetaMask · SEA market | **KNC** (KyberDAO) |
-| **OKX DEX** | On-chain パスファインダー + RFQ (CEX 支援型) | **20+ chain EVM + Solana + TON + Aptos + Sui** | Partial (RFQ MEV-resist · external AMM exposed) | Partial (OKX Pay ガスレス paths) | ~$0.3-0.5B | ~0.1% protocol fee · OKX ecosystem discount | **OKX Wallet 標準 · CEX seamless on/off ramp** | **OKB** (CEX-wide) |
+| **OKX DEX** | On-chain パスファインダー + RFQ (CEX 支援型) | **20+ chain EVM + Solana + TON + Aptos + Sui** | Partial (RFQ MEV-resist · external AMM exposed) | Partial (OKX Pay ガスレス paths) | ~$0.3-0.5B | ~0.1% protocol fee · OKX 経済圏 discount | **OKX ウォレット標準 · CEX seamless on/off ramp** | **OKB** (CEX-wide) |
 
 **マトリックスの読み方**:
 - 横方向:1 aggregator × 8軸でprofile化 · 縦方向:同一軸 × 8 aggregatorの差異を比較
@@ -222,8 +222,8 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 - 別経路:dedicated クロスチェーン bridge([[systems/cross-chain-bridge-eight-pole-comparison|cross-chain bridge eight-pole comparison]] 参照)+ 同chainのaggregatorの組み合わせ
 
 **Pattern E — 「CEX-integrated ユーザー」**:
-- OKX Walletユーザーは OKX DEX で オンチェーン swap → seamlessにOKX CEXへdeposit、または逆方向
-- Coinbase Walletユーザーは 0x backed swap → seamlessにCoinbase exchange連携
+- OKX ウォレットユーザーは OKX DEX で オンチェーン swap → seamlessにOKX CEXへdeposit、または逆方向
+- Coinbase ウォレットユーザーは 0x backed swap → seamlessにCoinbase exchange連携
 - CEX 支援型 aggregatorの最大のwedgeは **on/off-ramp摩擦の最小化**
 
 **Pattern F — 「Developer / dApp embedding swap」**:
@@ -244,7 +244,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 
 **MEV 保護標準化圧力**:
 - 2024-2025年のEU MiCA + US SECで「リテール MEV exposure」規制議論
-- Robinhood crypto / Coinbase Walletは0x backed swapで部分的MEV-protect · 機関リテール flowにMEV 保護が標準要求となる方向
+- Robinhood crypto / Coinbase ウォレットは0x backed swapで部分的MEV-protect · 機関リテール flowにMEV 保護が標準要求となる方向
 - CoW Protocolモデルが **構造的にMEVを撲滅** できる唯一の答え · 2027-2028で他aggregatorが模倣する可能性
 
 **RFQ vs AMMの境界が曖昧化**:
@@ -258,7 +258,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 - 2027+:CEX 支援型 aggregatorがリテール出来高の50%+を占有するshiftが起こりうる · 純 DeFi aggregatorは **MEV-resistance + transparency** 提供で差別化が必要
 
 **JupiterのSolana支配率と非Solana拡張**:
-- JupiterはSolanaの70%+ DEX ルーティングを占有 · 事実上Solana ecosystemの入口
+- JupiterはSolanaの70%+ DEX ルーティングを占有 · 事実上Solana 経済圏の入口
 - 2024年のJUP airdropでcommunity ownership + ガバナンス · Solana DAO ガバナンス influence拡大
 - 非Solana拡張(Jupiter Bridge Wormhole経由)は実験的段階 · Solana focus維持の戦略
 
@@ -270,11 +270,11 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 **ガバナンストークン + 手数料スイッチ enable trend**:
 - 2024-2026年でCOW · ZRX · 1INCH等が手数料スイッチ enable / 提案進行中
 - アンチトークンモードのJupiter (JUP)やRobinhood backed 0x backed swapも、collected feeのdestinationが議論対象
-- SEC / MiCAのトークン 手数料分配への規制不確実性が逆風
+- SEC / MiCAのトークン手数料分配への規制不確実性が逆風
 
 **Long-tail トークン coverage競争**:
 - aggregatorが **どれだけ多くのトークン / poolをrouteできるか** がパスファインダーモデルの中核競争
-- Memecoin / ニッチ トークンに対応するパスファインダー速度 + AMM coverage(Curve / Balancer / KyberSwap Elastic等のニッチ AMM統合)が重要
+- Memecoin / ニッチトークンに対応するパスファインダー速度 + AMM coverage(Curve / Balancer / KyberSwap Elastic等のニッチ AMM統合)が重要
 - JupiterはSolana memecoin経済の中核 · 1inch / 0xはEVM long-tailで強い
 
 **Embedded ウォレット × Agentic swap**:
@@ -292,7 +292,7 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 - [[INDEX|Wiki Index]]
 - [[exchanges/INDEX|exchanges index]]
 - [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
-- [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
+- [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX comparison]]
 - [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 comparison]]
 - [[exchanges/global-perp-dex-competitive-deep-dive-matrix|global perp DEX competitive deep dive matrix]]
 - [[exchanges/native-dex-flip-incumbent-pattern|native DEX flip incumbent pattern]]
@@ -302,14 +302,14 @@ DEX aggregatorは2020-2021年の単純パスファインダーから2024-2026年
 - [[exchanges/dex-pendle|Pendle]]
 - [[exchanges/amm-design-evolution|AMM design evolution]]
 - [[exchanges/global-cex-top10-comparison|global CEX top 10 比較]]
-- [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API SDK ecosystem comparison]]
+- [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API SDK 経済圏 comparison]]
 - [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 - [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP regime overview]]
 - [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory matrix]]
 - [[systems/mev-flashbots-suave-order-flow-auction|MEV Flashbots Suave order-flow auction]]
 - [[systems/cross-chain-bridge-eight-pole-comparison|cross-chain bridge eight-pole comparison]]
 - [[systems/chain-abstraction-pattern-overview|chain abstraction pattern overview]]
-- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]]
+- [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット]]
 - [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]]
 <!-- /wiki-links:managed -->
 

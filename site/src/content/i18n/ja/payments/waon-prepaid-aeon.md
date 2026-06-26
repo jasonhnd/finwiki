@@ -10,13 +10,13 @@ translated_at: 2026-06-19T06:09:18.184Z
 
 # WAON：イオングループの全国 IC プリペイド電子マネー
 
-## Wiki ルート
+## ウィキ上の位置づけ
 
-このエントリは [[payments/INDEX|payments index]] の下に、イオンをアンカーとするプリペイド発行者ページとして位置し、FSA レジストリビューについては [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と、リテールアンカーの直接比較については [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] とペアになる。[[payments/nanaco-prepaid-seven-i|nanaco]] (セブン&アイの相当物)、[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]] (FeliCa のピア・スキーム)、[[payments/edy-rakuten-prepaid|Rakuten Edy]] (プラットフォーム非依存の FeliCa プリペイド) と比較すること。グループアンカーは [[retail/aeon-group|AEON Group]] と [[card-issuers/aeon-financial-service|AEON Financial Service]]；グループ銀行レールは [[card-issuers/aeon-bank|AEON Bank]]；ロイヤルティ統合は WAON POINT の経済性について [[loyalty/japan-points-landscape|Japan points landscape]] にルートする。
+このエントリは [[payments/INDEX|payments index]] の下に、イオンをアンカーとするプリペイド発行者ページとして位置し、FSA レジストリビューについては [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 registry]] と、リテールアンカーの直接比較については [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail 前払式 comparison]] とペアになる。[[payments/nanaco-prepaid-seven-i|nanaco]] (セブン&アイの相当物)、[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-前払式 economics]] (FeliCa のピア・スキーム)、[[payments/edy-rakuten-prepaid|Rakuten Edy]] (プラットフォーム非依存の FeliCa プリペイド) と比較すること。グループアンカーは [[retail/aeon-group|AEON Group]] と [[card-issuers/aeon-financial-service|AEON Financial Service]]；グループ銀行レールは [[card-issuers/aeon-bank|AEON Bank]]；ロイヤルティ統合は WAON POINT の経済性について [[loyalty/japan-points-landscape|Japan points landscape]] にルートする。
 
 ## TL;DR
 
-**WAON** (イオンのマスコット「ワオン」にちなんで命名) は、**取引件数で日本最大のリテールアンカー型プリペイド電子マネーブランド** であり、[[payments/nanaco-prepaid-seven-i|nanaco]] と並ぶ二大主要クローズドループ・リテールプリペイドシステムの一つである。イオン株式会社により 2007-04 にローンチされ、WAON はイオングループ内で運営され、[[card-issuers/aeon-financial-service|AEON Financial Service]] が [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] の下での第三者型前払式支払手段としての決済と発行者義務を担う。このシステムは **FeliCa** 非接触 IC (Suica / nanaco / Edy と同じ技術) 上で動作し、物理カード、おサイフケータイ経由の Mobile WAON、Apple Pay (限定デバイス)、AEON Pay スマートフォンアプリをサポートする。受け入れはイオングループの全リテールネットワーク (イオン、マックスバリュ、ミニストップ、イオンシネマ、ウエルシアなど) に加え、約 1M のグループ外加盟店に及ぶ。**WAON POINT** 統合はロイヤルティポイントを 1:1 で利用可能な残高に変換し、バンドルされた **イオンカード** の発行 / [[card-issuers/aeon-bank|AEON Bank]] オートチャージ連携が、イオンの金融サービスエコシステム内にウォレットをアンカーする。
+**WAON** (イオンのマスコット「ワオン」にちなんで命名) は、**取引件数で日本最大のリテールアンカー型プリペイド電子マネーブランド** であり、[[payments/nanaco-prepaid-seven-i|nanaco]] と並ぶ二大主要クローズドループ・リテールプリペイドシステムの一つである。イオン株式会社により 2007-04 にローンチされ、WAON はイオングループ内で運営され、[[card-issuers/aeon-financial-service|AEON Financial Service]] が [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] の下での第三者型前払式支払手段としての決済と発行者義務を担う。このシステムは **FeliCa** 非接触 IC (Suica / nanaco / Edy と同じ技術) 上で動作し、物理カード、おサイフケータイ経由の Mobile WAON、Apple Pay (限定デバイス)、AEON Pay スマートフォンアプリをサポートする。受け入れはイオングループの全リテールネットワーク (イオン、マックスバリュ、ミニストップ、イオンシネマ、ウエルシアなど) に加え、約 1M のグループ外加盟店に及ぶ。**WAON POINT** 統合はロイヤルティポイントを 1:1 で利用可能な残高に変換し、バンドルされた **イオンカード** の発行 / [[card-issuers/aeon-bank|AEON Bank]] オートチャージ連携が、イオンの金融サービス経済圏内にウォレットをアンカーする。
 
 ## 発行者と運営構造
 
@@ -35,19 +35,17 @@ translated_at: 2026-06-19T06:09:18.184Z
 
 ## 法的根拠：前払式支払手段 (第三者型前払式支払手段)
 
-WAON は [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] 第 3 章のプリペイド手段フレームワークの下で **第三者型前払式支払手段** として登録されている。主要な規制上の帰結：
+WAON は [[payments/funds-transfer-vs-prepaid-boundary|資金決済法]] 第 3 章のプリペイド手段フレームワークの下で **第三者型前払式支払手段** として登録されている。主要な規制上の帰結：
 
 - 発行者は FSA (関連する財務局) に登録しなければならず、[[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]] に掲載される。
 - 半期ごとの **未使用残高供託** 義務：未使用残高が ¥10M を超える場合、発行者は利用者資金保護として未使用残高の半分を法務局に供託 (供託) しなければならない。
-- 発行停止時を除き **元の支払者への払い戻しなし** — 払い戻し不可ルールは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer instruments]] との主要な経済的差別化要因の一つである。
+- 発行停止時を除き **元の支払者への払い戻しなし** — 払い戻し不可ルールは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 instruments]] との主要な経済的差別化要因の一つである。
 - **ブレッケージ** (長年にわたり発行者に帰属する未償還残高) は休眠 / 紛失カードでイオンフィナンシャルサービスの損益に寄与する。
 - 100% 残高が ¥100,000 の閾値を下回る場合の AML / KYC 免除 (既存の PSA の適用除外の下)。
 
 [[fintech/japan-stablecoin-regulatory-landscape|stablecoin / electronic-payment-instrument]] フレームワーク (2023  PSA 改正の下での EPI) との境界は、WAON をプリペイドのレーンにしっかりと留める — 価値は現金等価の形態で個人間で移転できない。
 
-## 受け入れフットプリント
-
-受け入れネットワークは同心円状に構造化されている：
+## 受け入れフットプリント受け入れネットワークは同心円状に構造化されている：
 
 | 階層 | 説明 | 例 |
 |---|---|---|
@@ -58,9 +56,7 @@ WAON は [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資
 
 内側階層ネットワークの規模 (20,000  を超えるイオングループ店舗) は、コード決済 ([[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い) が限界的な新規ユーザー成長を捉えてもなお、WAON の設置ベースの地位を支える。
 
-## KPI スナップショット
-
-定量的 KPI はイオンにより IR 資料および統合報告書で公開報告されている：
+## KPI スナップショット定量的 KPI はイオンにより IR 資料および統合報告書で公開報告されている：
 
 | 指標 | 読み方 (最新の公開開示) |
 |---|---|
@@ -104,8 +100,8 @@ WAON は [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資
 
 - WAON 公式サイト (waon.net) — 商品、チャージ、受け入れの文書。
 - イオン株式会社コーポレートサイト — グループ構造と IR。
-- イオンフィナンシャルサービス コーポレートサイト — 決済 / 金融サービスのスコープ。
-- イオン銀行 コーポレートサイト — グループ銀行レールとオートチャージ連携。
+- イオンフィナンシャルサービスコーポレートサイト — 決済 / 金融サービスのスコープ。
+- イオン銀行コーポレートサイト — グループ銀行レールとオートチャージ連携。
 - FSA、`daisan.xlsx` — 第三者型前払式支払手段発行者の登録一覧。
-- FSA 前払式支払手段 ポリシーページ。
-- METI キャッシュレスポリシーページ — キャッシュレス比率とオペレーターランドスケープの文脈。
+- FSA 前払式支払手段ポリシーページ。
+- METI キャッシュレスポリシーページ — キャッシュレス比率と事業者ランドスケープの文脈。

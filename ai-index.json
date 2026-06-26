@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-26T12:28:16+09:00",
+  "generated_at": "2026-06-26T16:03:40+09:00",
   "counts": {
     "markdown_files": 1565,
     "public_markdown_pages": 1564,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11154030,
-    "word_like_tokens": 1800216,
+    "nonspace_utf8_chars": 11153686,
+    "word_like_tokens": 1800150,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -3263,7 +3263,7 @@
       "entity_edges": [],
       "nonspace_chars": 71028,
       "word_like_tokens": 12500,
-      "last_modified": "2026-06-25"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "SCHEMA.md",
@@ -11944,7 +11944,7 @@
       "entity_edges": [],
       "nonspace_chars": 2307,
       "word_like_tokens": 342,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -12094,7 +12094,7 @@
       "entity_edges": [],
       "nonspace_chars": 2227,
       "word_like_tokens": 350,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -12262,7 +12262,7 @@
       "entity_edges": [],
       "nonspace_chars": 2471,
       "word_like_tokens": 359,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -62286,7 +62286,7 @@
       ],
       "nonspace_chars": 2450,
       "word_like_tokens": 344,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -62389,7 +62389,7 @@
       "entity_edges": [],
       "nonspace_chars": 3651,
       "word_like_tokens": 528,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -62709,7 +62709,7 @@
       ],
       "nonspace_chars": 2382,
       "word_like_tokens": 351,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -63065,7 +63065,7 @@
       "entity_edges": [],
       "nonspace_chars": 2421,
       "word_like_tokens": 347,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -63494,7 +63494,7 @@
       "entity_edges": [],
       "nonspace_chars": 2360,
       "word_like_tokens": 334,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-06-26"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -96181,9 +96181,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3726,
-      "word_like_tokens": 693,
-      "last_modified": "2026-06-25"
+      "nonspace_chars": 3382,
+      "word_like_tokens": 627,
+      "last_modified": "2026-06-26"
     }
   ]
 }

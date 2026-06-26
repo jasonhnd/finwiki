@@ -4,21 +4,21 @@ source_hash: 295d18ea8342be12
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の資本市場エコシステム概観"
+title: "日本の資本市場経済圏概観"
 translated_at: 2026-06-15T04:09:41.157Z
 ---
 
-# 日本の資本市場エコシステム概観
+# 日本の資本市場経済圏概観
 
 ## TL;DR
 
-日本の**資本市場エコシステム**は、相互に結びついた 5 つのレイヤーから成る：**発行（プライマリー）**、**取引（セカンダリー）**、**清算**、**決済／振替（保管）**、および**規制／自主規制**。このシステムは、株式、債券（JGB および社債）、デリバティブ（上場および店頭）、証券化商品、セキュリティトークンの各市場にまたがり、取引所、清算機関、保管振替機関、規制当局、自主規制機関のネットワークによって支えられている。
+日本の**資本市場経済圏**は、相互に結びついた 5 つのレイヤーから成る：**発行（プライマリー）**、**取引（セカンダリー）**、**清算**、**決済／振替（保管）**、および**規制／自主規制**。このシステムは、株式、債券（JGB および社債）、デリバティブ（上場および店頭）、証券化商品、セキュリティトークンの各市場にまたがり、取引所、清算機関、保管振替機関、規制当局、自主規制機関のネットワークによって支えられている。
 
-この項目は、[[securities/INDEX|securities domain]] を束ねるとともに、[[finance/INDEX|finance]]（コーポレートファイナンス側）、[[derivatives/INDEX|derivatives]]（商品レイヤー）、[[money-market/INDEX|money market]]（短期側）、[[structured-finance/INDEX|structured finance]]（証券化）、[[real-estate-finance/INDEX|real-estate finance]]（J-REIT）の各ドメインへと橋渡しする、横断的なエコシステムのアンカーである。
+この項目は、[[securities/INDEX|securities domain]] を束ねるとともに、[[finance/INDEX|finance]]（コーポレートファイナンス側）、[[derivatives/INDEX|derivatives]]（商品レイヤー）、[[money-market/INDEX|money market]]（短期側）、[[structured-finance/INDEX|structured finance]]（証券化）、[[real-estate-finance/INDEX|real-estate finance]]（J-REIT）の各ドメインへと橋渡しする、横断的な経済圏のアンカーである。
 
 ## Wiki 上の位置づけ
 
-この項目は [[securities/INDEX|securities index]] の配下に、エコシステムのアンカーとして位置する。取引所／清算／決済の配管の詳細については [[securities/japan-market-infrastructure-map]] と、上場 FG の投資可能ユニバースについては [[finance/japan-listed-financial-groups-investable-universe]] と併せて読むとよい。家計投資の側面は [[securities/nisa-2024-flow]] にある。コーポレートファイナンスの側面は [[finance/INDEX|finance index]] にある。
+この項目は [[securities/INDEX|securities index]] の配下に、経済圏のアンカーとして位置する。取引所／清算／決済の配管の詳細については [[securities/japan-market-infrastructure-map]] と、上場 FG の投資可能ユニバースについては [[finance/japan-listed-financial-groups-investable-universe]] と併せて読むとよい。家計投資の側面は [[securities/nisa-2024-flow]] にある。コーポレートファイナンスの側面は [[finance/INDEX|finance index]] にある。
 
 ### 1. 発行（プライマリー市場）
 
@@ -65,9 +65,7 @@ translated_at: 2026-06-15T04:09:41.157Z
 - **空売り規制**（[[securities/japan-short-selling-and-stock-loan-controls]]）。
 - **信用／証券金融の配管**（[[financial-regulators/japan-securities-finance]]）。
 
-### 3. 清算
-
-清算は、相対のエクスポージャーを、中央清算機関（CCP）に対する多数当事者間のエクスポージャーへと変換する。
+### 3. 清算清算は、相対のエクスポージャーを、中央清算機関（CCP）に対する多数当事者間のエクスポージャーへと変換する。
 
 | 資産クラス | CCP | アンカー |
 |---|---|---|
@@ -77,9 +75,7 @@ translated_at: 2026-06-15T04:09:41.157Z
 | 店頭 CDS（指定指数） | [[securities/japan-securities-clearing-corp|JSCC]] | JSCC CDS 清算サービス。 |
 | クロスボーダー同等性 | JSCC EMIR 同等＋ CFTC 代替コンプライアンス | [[derivatives/otc-clearing-jp-trade-repository]] を参照。 |
 
-### 4. 決済と保管振替
-
-決済は清算済み取引の所有権を移転し、保管振替機関は原資産の記録を保持する。
+### 4. 決済と保管振替決済は清算済み取引の所有権を移転し、保管振替機関は原資産の記録を保持する。
 
 | 資産クラス | 保管振替 | 決済 |
 |---|---|---|
@@ -92,9 +88,7 @@ translated_at: 2026-06-15T04:09:41.157Z
 
 統一された取引場／清算／決済の図については [[securities/japan-market-infrastructure-map]] を参照。
 
-### 5. 規制と自主規制
-
-規制は、市場行為、紛争解決、システミックリスクの監視を統括する。
+### 5. 規制と自主規制規制は、市場行為、紛争解決、システミックリスクの監視を統括する。
 
 | レイヤー | 機関 | 機能 |
 |---|---|---|

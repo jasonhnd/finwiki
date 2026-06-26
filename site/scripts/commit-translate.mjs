@@ -11,9 +11,9 @@ const JOBS = join(HERE, '..', '.cache', 'jobs');
 
 const args = process.argv.slice(2);
 const optLangs = args.indexOf('--langs');
-const LANGS = optLangs >= 0 && args[optLangs + 1]
+const CLI_LANGS = optLangs >= 0 && args[optLangs + 1]
   ? args[optLangs + 1].split(',').map((s) => s.trim()).filter(Boolean)
-  : ['zh', 'en'];
+  : null;
 
 const titleOf = (body) => {
   const m = body.match(/^#\s+(.+?)\s*$/m);
@@ -35,9 +35,10 @@ let miss = 0;
 for (const jsonPath of walkJson(JOBS)) {
   const dir = dirname(jsonPath);
   const flat = jsonPath.slice(dir.length + 1).replace(/\.json$/, '');
-  const { rel, hash, masks } = JSON.parse(readFileSync(jsonPath, 'utf8'));
+  const { rel, hash, masks, langs } = JSON.parse(readFileSync(jsonPath, 'utf8'));
   const masked = readFileSync(join(dir, `${flat}.masked.md`), 'utf8');
-  for (const lang of LANGS) {
+  const targetLangs = CLI_LANGS ?? langs ?? ['zh', 'en'];
+  for (const lang of targetLangs) {
     const trp = join(dir, `${flat}.${lang}.md`);
     if (!existsSync(trp)) {
       miss++;
