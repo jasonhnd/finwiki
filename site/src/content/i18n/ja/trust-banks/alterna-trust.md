@@ -9,58 +9,58 @@ translated_at: 2026-06-24T09:30:00.000Z
 ---
 # オルタナ信託 (Alterna Trust)
 
-## Wiki route
+## ウィキ上の位置づけ
 
-Alterna Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[payment-firms/progmat|Progmat]], [[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]], [[securities/osaka-digital-exchange|ODX]], and [[trust-banks/smtb|SMTB]].
+オルタナ信託は、[[trust-banks/INDEX|信託銀行インデックス]] の配下に置く独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|日本の信託会社登録インデックス]] から昇格した項目である。[[payment-firms/progmat|Progmat]]、[[fintech/jp-stablecoin-progmat|Progmat のステーブルコイン／デジタル資産ルート]]、[[securities/osaka-digital-exchange|ODX]]、[[trust-banks/smtb|SMTB]] と併せて読むこと。
 
-Use this page for digital securities, security-token trust, beneficiary-certificate issuing trust, and trust-company platform questions.
+デジタル証券、セキュリティトークン信託、受益証券発行信託、信託会社プラットフォームに関する論点には、本ページを用いること。
 
 ## TL;DR
 
-オルタナ信託は、Mitsui & Co. Digital Asset Management (MDM) と [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]] が設立した digital-securities-focused trust company。SMTG English release は Alterna Trust を digital securities に特化した trust company と説明し、beneficiary-certificate issuing trust の administration が ST issuance で重要な役割を持つと述べる。^[source:smtg-alterna-release-2025] MDM release は、ALTERNA brand のもとで ST の取得・運用・受託・販売を一気通貫で提供する体制を構築し、[[payment-firms/progmat|Progmat]] が Progmat SaaS を MDM と Alterna Trust に提供すると説明する。^[source:mdm-alterna-release-2025] FSA trust-company workbook では、オルタナ信託株式会社が 2025-07-03 免許日、法人番号 9010001253166、所在地 東京都中央区日本橋堀留町1-9-8 として掲載される。^[source:fsa-trust-list-2026]
+オルタナ信託は、Mitsui & Co. Digital Asset Management (MDM) と [[trust-banks/smtb|Sumitomo Mitsui Trust Bank]] が設立したデジタル証券特化の信託会社である。SMTG の英文リリースは、オルタナ信託をデジタル証券に特化した信託会社と説明し、受益証券発行信託の管理がセキュリティトークン（ST）の発行において重要な役割を担うと述べる。^[source:smtg-alterna-release-2025] MDM のリリースは、ALTERNA ブランドのもとで ST の取得・運用・受託・販売を一気通貫で提供する体制を構築し、[[payment-firms/progmat|Progmat]] が Progmat SaaS を MDM とオルタナ信託に提供すると説明する。^[source:mdm-alterna-release-2025] FSA の信託会社一覧では、オルタナ信託株式会社が 2025-07-03 免許日、法人番号 9010001253166、所在地 東京都中央区日本橋堀留町1-9-8 として掲載される。^[source:fsa-trust-list-2026]
 
-## Entity boundary
+## エンティティ境界
 
-| Item | Reading |
+| 項目 | 内容 |
 |---|---|
-| Legal name | オルタナ信託株式会社 / Alterna Trust Co., Ltd.。^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
-| Licence / registry | FSA `sintaku01.xlsx` lists オルタナ信託株式会社 in the trust-company list with 2025-07-03 licence date.^[source:fsa-trust-list-2026] |
-| Address | 東京都中央区日本橋堀留町1-9-8; SMTG release specifies Ningyo-cho PREX 3F.^[source:fsa-trust-list-2026][source:smtg-alterna-release-2025] |
-| Representative | MDM and SMTG releases name Shosaku Ikeda / 池田匠作 as representative president / CEO.^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
-| Capital / ownership | SMTG release gives capital including capital reserves JPY 665mn and investment ratio MDM 85.1%, SuMiTB 14.9%.^[source:smtg-alterna-release-2025] |
+| 正式名称 | オルタナ信託株式会社 / Alterna Trust Co., Ltd.。^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
+| 免許／登録 | FSA の `sintaku01.xlsx` は、信託会社一覧にオルタナ信託株式会社を 2025-07-03 免許日で掲載する。^[source:fsa-trust-list-2026] |
+| 所在地 | 東京都中央区日本橋堀留町1-9-8；SMTG リリースは人形町 PREX 3F と明記する。^[source:fsa-trust-list-2026][source:smtg-alterna-release-2025] |
+| 代表者 | MDM・SMTG の両リリースは、代表取締役社長／CEO として池田匠作（Shosaku Ikeda）を挙げる。^[source:mdm-alterna-release-2025][source:smtg-alterna-release-2025] |
+| 資本金／出資比率 | SMTG リリースは、資本準備金を含む資本金 JPY 665百万円、出資比率は MDM 85.1%、SuMiTB 14.9% とする。^[source:smtg-alterna-release-2025] |
 
-This is not a securities broker, exchange, or stablecoin issuer page. The useful boundary is the **trustee / trust-administration role** for security-token fund structures.
+本ページは証券会社・取引所・ステーブルコイン発行会社のページではない。有益な境界は、セキュリティトークン・ファンド組成における **受託者／信託管理の役割** にある。
 
-## Digital securities trust role
+## デジタル証券における信託機能
 
-| Function | FinWiki relevance |
+| 機能 | FinWiki 上の意義 |
 |---|---|
-| Beneficiary-certificate issuing trust | SMTG release says Alterna Trust specializes in administration of a trust with certificates of beneficial interest, a crucial role in digital securities issuance.^[source:smtg-alterna-release-2025] |
-| Trustee in ST issuance schemes | SMTG release says Alterna Trust collaborates with asset managers, securities firms and others as trustee in schemes to issue digital securities.^[source:smtg-alterna-release-2025] |
-| ALTERNA integration | MDM release says MDM and Alterna Trust built a setup for acquisition, operation, trust administration and sale of ST under the ALTERNA brand.^[source:mdm-alterna-release-2025] |
-| Progmat SaaS | MDM release says Progmat provides Progmat SaaS to MDM and Alterna Trust, supporting digital asset issuance / management infrastructure.^[source:mdm-alterna-release-2025] |
-| Asset class scope | SMTG release says Alterna Trust initially focuses on real estate, then intends to add other alternative assets, corporate bonds and claims held by SuMiTB.^[source:smtg-alterna-release-2025] |
+| 受益証券発行信託 | SMTG リリースは、オルタナ信託が受益権を表示する証券を伴う信託の管理に特化しており、これがデジタル証券の発行において重要な役割を果たすと述べる。^[source:smtg-alterna-release-2025] |
+| ST 発行スキームにおける受託者 | SMTG リリースは、オルタナ信託がデジタル証券を発行するスキームにおいて、資産運用会社・証券会社その他と受託者として協働すると述べる。^[source:smtg-alterna-release-2025] |
+| ALTERNA との統合 | MDM リリースは、MDM とオルタナ信託が ALTERNA ブランドのもとで ST の取得・運用・信託管理・販売の体制を構築したと述べる。^[source:mdm-alterna-release-2025] |
+| Progmat SaaS | MDM リリースは、Progmat が Progmat SaaS を MDM とオルタナ信託に提供し、デジタル資産の発行／管理インフラを支えると述べる。^[source:mdm-alterna-release-2025] |
+| 対象アセットクラス | SMTG リリースは、オルタナ信託が当初は不動産に注力し、その後 SuMiTB が保有する他のオルタナティブ資産・社債・債権を追加する意向であると述べる。^[source:smtg-alterna-release-2025] |
 
-## Group / alliance relationship
+## グループ／提携関係
 
-### MDM side
+### MDM 側
 
-MDM is the platform / asset-management side of the structure. Its release says MDM has built the ALTERNA service for individual investors and operates ST fund formation / management / sale. It also says its use of Progmat SaaS lets MDM complete ST management itself, reducing scheme costs and aiming to maximize returns to investors.^[source:mdm-alterna-release-2025]
+MDM は本体制におけるプラットフォーム／資産運用の側を担う。そのリリースによれば、MDM は個人投資家向けに ALTERNA サービスを構築し、ST ファンドの組成・運用・販売を手がける。また、Progmat SaaS の活用により MDM 自身で ST の管理を完結でき、スキームコストを抑えて投資家へのリターン最大化を目指すとする。^[source:mdm-alterna-release-2025]
 
-### Sumitomo Mitsui Trust side
+### 三井住友トラスト側
 
-[[trust-banks/smtb|SuMiTB]] supplies trust know-how and the trust-bank group route. SMTG release says SuMiTB and MDM entered a business alliance for digital securities, including joint management of Alterna Trust, dispatching experts / sharing know-how, forming products using ALTERNA, introducing assets including claims held or sourced by the bank, and providing funds to MDM while MDM uses SuMiTB's sales network.^[source:smtg-alterna-release-2025]
+[[trust-banks/smtb|SuMiTB]] は信託のノウハウと信託銀行グループのルートを提供する。SMTG リリースによれば、SuMiTB と MDM はデジタル証券に関する業務提携を締結し、オルタナ信託の共同運営、専門人材の派遣／ノウハウの共有、ALTERNA を用いた商品組成、銀行が保有または取り扱う債権を含む資産の紹介、MDM への資金提供、そして MDM による SuMiTB の販売網の活用などを含むとする。^[source:smtg-alterna-release-2025]
 
-### Progmat boundary
+### Progmat との境界
 
-[[payment-firms/progmat|Progmat]] is infrastructure, not the trust company. MDM release describes Progmat SaaS as a product enabling financial institutions to start digital-asset-related businesses such as ledger-management and custody functions without building their own blockchain / DLT nodes.^[source:mdm-alterna-release-2025]
+[[payment-firms/progmat|Progmat]] はインフラであって、信託会社ではない。MDM リリースは、Progmat SaaS を、金融機関が自前のブロックチェーン／DLT ノードを構築することなく、台帳管理やカストディ機能などのデジタル資産関連事業を立ち上げられるようにする商品と説明する。^[source:mdm-alterna-release-2025]
 
-## Why standalone page matters
+## 独立ページである意義
 
-1. **Trust layer is explicit**: Many ST pages over-emphasize platform or exchange. Alterna Trust gives FinWiki a trustee / beneficiary-certificate issuing trust anchor.
-2. **It links trust banking to fintech**: The page bridges [[trust-banks/smtb]], [[payment-firms/progmat]], ALTERNA and security-token fund issuance.
-3. **It is not a soft partnership note**: FSA list and company releases support a concrete regulated entity, not only a concept.
-4. **It limits role confusion**: Use [[securities/osaka-digital-exchange|ODX]] for market venue, [[payment-firms/progmat|Progmat]] for infrastructure, and this page for trust administration.
+1. **信託レイヤーが明示される**：多くの ST ページはプラットフォームや取引所を過度に強調する。オルタナ信託は、FinWiki に受託者／受益証券発行信託のアンカーを与える。
+2. **信託銀行とフィンテックを結ぶ**：本ページは [[trust-banks/smtb]]、[[payment-firms/progmat]]、ALTERNA、セキュリティトークン・ファンドの発行を橋渡しする。
+3. **緩い提携メモではない**：FSA の一覧と各社リリースは、概念にとどまらない具体的な規制対象の事業体を裏づける。
+4. **役割の混同を防ぐ**：市場の場としては [[securities/osaka-digital-exchange|ODX]]、インフラとしては [[payment-firms/progmat|Progmat]]、信託管理としては本ページを用いること。
 
 ## Related
 

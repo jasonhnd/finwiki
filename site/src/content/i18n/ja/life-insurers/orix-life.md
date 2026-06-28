@@ -9,68 +9,68 @@ translated_at: 2026-06-24T09:30:00.000Z
 ---
 # オリックス生命保険
 
-## Wiki route
+## ウィキ上の位置づけ
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/lifenet|ライフネット生命]] for direct-online contrast, [[leasing-firms/orix-corp|ORIX Corporation]] for group context, and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置づける。ネット直販との対照は [[life-insurers/lifenet|ライフネット生命]] と、グループの文脈は [[leasing-firms/orix-corp|ORIX Corporation]] と、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
-## TL;DR
+## 要約
 
-オリックス生命保険は、FSA の life-insurance-company list に掲載される国内生命保険会社で、[[leasing-firms/orix-corp|ORIX Corporation]] group の insurance business を担う。^[source:fsa-life-list-2026][source:orix-insurance-overview-2025] ORIX Group の insurance overview は、ORIX Life が 1991 年に started し、medical insurance and death insurance を中心に、agents、financial institutions、mail-order / online sales、Conserve Advisors を組み合わせる omnichannel strategy を採ると説明する。^[source:orix-insurance-overview-2025] 2025 disclosure は 2024年度末の solvency margin ratio を **939.5%** と示す。^[source:orix-life-disclosure-2025] ライフネットのような pure online direct insurer ではなく、**ORIX group の非上場 life-insurance manufacturer / distributor with multiple channels** として扱う。
+オリックス生命保険は、FSA の生命保険会社一覧に掲載される国内生命保険会社で、[[leasing-firms/orix-corp|ORIX Corporation]] グループの保険事業を担う。^[source:fsa-life-list-2026][source:orix-insurance-overview-2025] ORIX グループの保険事業概要は、ORIX Life が 1991 年に営業を開始し、医療保険と死亡保険を中心に、代理店、金融機関、通信販売・オンライン販売、Conserve Advisors を組み合わせるオムニチャネル戦略を採ると説明する。^[source:orix-insurance-overview-2025] 2025年のディスクロージャー資料は、2024年度末のソルベンシー・マージン比率を **939.5%** と示す。^[source:orix-life-disclosure-2025] ライフネットのような純粋なネット直販保険会社ではなく、**複数チャネルを持つ ORIX グループの非上場の生命保険の製造・販売会社**として扱う。
 
-## 1. Entity / licence boundary
+## 1. 会社・免許の境界
 
-| Item | Reading |
+| 項目 | 内容 |
 |---|---|
-| Legal name | オリックス生命保険株式会社 / ORIX Life Insurance Corporation。^[source:fsa-life-list-2026] |
-| Parent / group | ORIX Group business page presents ORIX Life under the Insurance business; FinWiki links parent context to [[leasing-firms/orix-corp|ORIX Corporation]].^[source:orix-insurance-overview-2025] |
-| Licence boundary | FSA English life-insurer list includes ORIX Life Insurance Corporation.^[source:fsa-life-list-2026] |
-| Disclosure regime | ORIX Life says insurers prepare disclosure magazines describing business and financial condition by fiscal year; the 2025 disclosure covers FY2024.^[source:orix-life-results-2026] |
-| Soundness metric | 2024年度末 solvency margin ratio 939.5%; the disclosure explains the ratio is an administrative-supervision indicator for capacity to absorb risks beyond normal expectations.^[source:orix-life-disclosure-2025] |
+| 正式名称 | オリックス生命保険株式会社 / ORIX Life Insurance Corporation。^[source:fsa-life-list-2026] |
+| 親会社・グループ | ORIX グループの事業ページは、ORIX Life を保険事業の下に位置づける。FinWiki は親会社の文脈を [[leasing-firms/orix-corp|ORIX Corporation]] に結びつける。^[source:orix-insurance-overview-2025] |
+| 免許の境界 | FSA の英語版生命保険会社一覧に ORIX Life Insurance Corporation が含まれる。^[source:fsa-life-list-2026] |
+| 開示の枠組み | ORIX Life は、保険会社が事業年度ごとに事業と財務状況を記したディスクロージャー誌を作成すると述べる。2025年の開示は FY2024 を対象とする。^[source:orix-life-results-2026] |
+| 健全性指標 | 2024年度末のソルベンシー・マージン比率は 939.5%。開示は、この比率を、通常の予測を超えるリスクを吸収する能力を示す行政監督上の指標だと説明する。^[source:orix-life-disclosure-2025] |
 
-## 2. Business model / channel map
+## 2. ビジネスモデル・チャネルマップ
 
-ORIX Group describes ORIX Life's business as life insurance including medical insurance and death insurance, with assets of JPY 3,009.2bn and profits of JPY 74.4bn as of 2025-03-31.^[source:orix-insurance-overview-2025] The same page states the company offers products based on simple, easy-to-understand and reasonably priced coverage, and markets through four channels.^[source:orix-insurance-overview-2025]
+ORIX グループは、ORIX Life の事業を医療保険・死亡保険を含む生命保険と説明し、2025-03-31 時点の資産を 3,009.2十億円、利益を 74.4十億円とする。^[source:orix-insurance-overview-2025] 同ページは、同社がシンプルで分かりやすく手頃な保障に基づく商品を提供し、4 つのチャネルを通じて販売していると述べる。^[source:orix-insurance-overview-2025]
 
-| Channel | Role |
+| チャネル | 役割 |
 |---|---|
-| Insurance agents | Broad third-party distribution and insurance-shop reach.^[source:orix-insurance-overview-2025] |
-| Financial institutions | Bancassurance / bank-window route; relevant when comparing to megabank and regional-bank distribution.^[source:orix-insurance-overview-2025] |
-| Mail-order / online sales | Direct-response route; useful but not equivalent to pure online-only.^[source:orix-insurance-overview-2025] |
-| Conserve Advisors | ORIX Life's employee sales channel, named by ORIX Group as part of the sales architecture.^[source:orix-insurance-overview-2025] |
+| 保険代理店 | 幅広い第三者販売と保険ショップへのリーチ。^[source:orix-insurance-overview-2025] |
+| 金融機関 | バンカシュアランス・銀行窓販の経路。メガバンクや地方銀行の販売と比較する際に関連する。^[source:orix-insurance-overview-2025] |
+| 通信販売・オンライン販売 | ダイレクト・レスポンスの経路。有用だが、純粋なオンライン専業とは同義ではない。^[source:orix-insurance-overview-2025] |
+| Conserve Advisors | ORIX Life の従業員による販売チャネル。ORIX グループが販売体制の一部として名指しする。^[source:orix-insurance-overview-2025] |
 
-This hybrid channel structure is the key distinction from [[life-insurers/lifenet|Lifenet]]. ORIX Life can use online acquisition, but its core positioning is a multi-channel ORIX-group insurer rather than an internet-only challenger.
+このハイブリッドなチャネル構造が、[[life-insurers/lifenet|Lifenet]] との決定的な違いである。ORIX Life はオンラインでの顧客獲得も使えるが、その中核的な位置づけは、インターネット専業の挑戦者ではなく、複数チャネルを持つ ORIX グループの保険会社である。
 
-## 3. Products / group role
+## 3. 商品・グループ内の役割
 
-| Lane | Reading |
+| 領域 | 内容 |
 |---|---|
-| Medical / third-sector insurance | ORIX Group emphasizes medical insurance and customer appreciation; ORIX Life's disclosure and results pages should be the source for any product-level updates.^[source:orix-insurance-overview-2025][source:orix-life-results-2026] |
-| Death insurance | ORIX Group names death insurance as part of the life-insurance business.^[source:orix-insurance-overview-2025] |
-| Group balance-sheet role | The insurance business sits inside broader ORIX financial services; this links the page to [[leasing-firms/orix-corp]] and non-bank finance / asset-management readings. |
-| Customer base | ORIX Life's performance page reports 4.71mn policies in force as of 2026-03.^[source:orix-life-results-2026] |
-| Rating signal | The same performance page reports R&I insurance-claims-paying ability rating AA as of 2026-02-24.^[source:orix-life-results-2026] |
+| 医療・第三分野保険 | ORIX グループは医療保険と顧客満足を強調する。商品レベルの最新情報は、ORIX Life のディスクロージャー誌と業績ページを出典とすべきである。^[source:orix-insurance-overview-2025][source:orix-life-results-2026] |
+| 死亡保険 | ORIX グループは、生命保険事業の一部として死亡保険を挙げる。^[source:orix-insurance-overview-2025] |
+| グループのバランスシート上の役割 | 保険事業は、より広い ORIX の金融サービスの内側に位置する。これにより本ページは [[leasing-firms/orix-corp]] や、非銀行系ファイナンス・資産運用の読みに結びつく。 |
+| 顧客基盤 | ORIX Life の業績ページは、2026-03 時点の保有契約件数を 471 万件と報告する。^[source:orix-life-results-2026] |
+| 格付けシグナル | 同じ業績ページは、2026-02-24 時点で R&I の保険金支払能力格付け AA を報告する。^[source:orix-life-results-2026] |
 
-## 4. Solvency / capital reading
+## 4. ソルベンシー・資本の読み
 
-The 2025 disclosure's solvency-margin table matters because ORIX Life is large enough for asset-management risk, interest-rate moves and third-sector insurance risk to be explicit reading axes:
+2025年の開示のソルベンシー・マージン表が重要なのは、ORIX Life が、資産運用リスク、金利の変動、第三分野の保険リスクを明示的な読みの軸とするに足る規模を持つためである。
 
-- 2024年度末 solvency margin ratio: **939.5%**, down 47.8 points from the prior fiscal year.^[source:orix-life-disclosure-2025]
-- The table attributes risk-total movement partly to asset-management risk, so interest-rate / market-risk assumptions matter for ORIX Life even though retail product pages emphasize medical / death insurance.^[source:orix-life-disclosure-2025]
-- The disclosure notes a 200% threshold as the level below which supervisory early-correction action can be taken; this makes the ratio a regulatory signal rather than a marketing KPI.^[source:orix-life-disclosure-2025]
+- 2024年度末のソルベンシー・マージン比率は **939.5%** で、前年度から 47.8 ポイント低下した。^[source:orix-life-disclosure-2025]
+- 表はリスク合計の変動の一部を資産運用リスクに帰しており、リテール商品ページが医療・死亡保険を強調する一方でも、金利・市場リスクの前提が ORIX Life にとって重要であることを示す。^[source:orix-life-disclosure-2025]
+- 開示は、200% を、それを下回ると監督上の早期是正措置が取られうる水準として示す。これにより、この比率はマーケティング上の KPI ではなく規制上のシグナルとなる。^[source:orix-life-disclosure-2025]
 
-## 5. Peer / contrast map
+## 5. 同業・対照マップ
 
-| Peer / category | Contrast |
+| 同業・カテゴリ | 対照点 |
 |---|---|
-| [[life-insurers/lifenet|Lifenet]] | Online-first listed insurer with embedded partner strategy; ORIX Life is larger and omnichannel. |
-| [[life-insurers/aflac-japan|Aflac Japan]] | Third-sector / cancer-heavy peer set; ORIX Life has ORIX group financial-services adjacency. |
-| [[life-insurers/dai-ichi-life|Dai-ichi Life]] / [[life-insurers/nippon-life|Nippon Life]] | Large legacy insurers with very different agency / workplace distribution and mutual / group structures. |
-| [[megabanks/sbi-hd|SBI group insurance]] | Internet-finance ecosystem peer; ORIX's adjacency is broader financial services and leasing / investment. |
+| [[life-insurers/lifenet|Lifenet]] | 組込型パートナー戦略を持つオンライン中心の上場保険会社。ORIX Life はより大規模でオムニチャネル。 |
+| [[life-insurers/aflac-japan|Aflac Japan]] | 第三分野・がん保険に重きを置く同業セット。ORIX Life は ORIX グループの金融サービスとの隣接性を持つ。 |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] / [[life-insurers/nippon-life|Nippon Life]] | 営業職員・職域販売や相互会社・グループ構造が大きく異なる、大手の老舗保険会社。 |
+| [[megabanks/sbi-hd|SBI group insurance]] | インターネット金融の経済圏の同業。ORIX の隣接性は、より広い金融サービスとリース・投資にある。 |
 
 ## Related
 
 - 親会社・グループ: [[leasing-firms/orix-corp]]
-- Direct-online peer: [[life-insurers/lifenet]]
+- ネット直販の同業: [[life-insurers/lifenet]]
 - 日系大手生保: [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
 - 外資・第三分野系: [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 

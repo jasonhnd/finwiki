@@ -12,68 +12,68 @@ translated_at: 2026-06-24T00:00:00.000Z
 
 ## ウィキ上の位置づけ
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に位置づける。同業比較・対照の文脈としては [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] と、より広い制度・規制上の境界としては [[banking/INDEX|banking index]] とあわせて読む。
 
-## TL;DR
+## 要約
 
-Mizuho Leasing is a listed non-bank asset-finance platform tied to **[[megabanks/mizuho-fg|Mizuho FG]]** and **Marubeni**. The company profile gives the legal name Mizuho Leasing Company, Limited, head office at Toranomon, establishment date 1969-12-01, and paid-in capital of 46,925.26mn yen.^[source:mizuho-lease-profile-2026] Stock information as of 2026-03-31 lists Mizuho Financial Group as the largest shareholder at 23.09% and Marubeni as the second-largest at 20.00%.^[source:mizuho-lease-stock-2026] The 2024 Marubeni release says Marubeni would hold 20.00% after the capital increase and Mizuho Leasing would become an equity-method affiliate of Marubeni.^[source:marubeni-alliance-2024] This makes the page a control point for finance-arm / trading-house adjacency: Mizuho contributes bank-client / finance adjacency, while Marubeni contributes trading-company networks, asset origination and business-development capacity.
+Mizuho Leasing は、**[[megabanks/mizuho-fg|Mizuho FG]]** と **Marubeni** に結びついた上場の非銀行系アセットファイナンス・プラットフォームである。会社概要では、正式名称を Mizuho Leasing Company, Limited、本店所在地を虎ノ門、設立日を 1969-12-01、払込資本を 46,925.26百万円とする。^[source:mizuho-lease-profile-2026] 2026-03-31 時点の株式情報では、Mizuho Financial Group が 23.09% で筆頭株主、Marubeni が 20.00% で第2位の株主として記載される。^[source:mizuho-lease-stock-2026] 2024年の Marubeni のリリースは、増資後に Marubeni が 20.00% を保有し、Mizuho Leasing が Marubeni の持分法適用会社になると述べている。^[source:marubeni-alliance-2024] これにより本ページは、金融子会社と商社の隣接関係をとらえる結節点となる。Mizuho は銀行顧客・金融面の隣接性を、Marubeni は商社ネットワーク、資産のオリジネーション、事業開発力をそれぞれ持ち込む。
 
-## Structure
+## 構造
 
-| Item | Summary |
+| 項目 | 概要 |
 |---|---|
-| Company | Mizuho Leasing Company, Limited.^[source:mizuho-lease-profile-2026] |
-| Listing | TSE Prime, ticker 8425.^[source:mizuho-lease-stock-2026] |
-| Strategic shareholders | Mizuho Financial Group 23.09%; Marubeni 20.00%, as of 2026-03-31.^[source:mizuho-lease-stock-2026] |
-| Business role | Leasing / installment / finance platform with domestic leasing, real estate, environment / energy, aviation / vessel, logistics / XaaS and international angles. The exact mix should be read from Mizuho Leasing's segment disclosures, not inferred only from the shareholder names.^[source:mizuho-lease-fy2024-presentation] |
-| Peer set | [[leasing-firms/smfl|SMFL]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/orix-corp|ORIX]], [[leasing-firms/tokyo-century|Tokyo Century]] |
+| 会社 | Mizuho Leasing Company, Limited。^[source:mizuho-lease-profile-2026] |
+| 上場 | 東証 Prime、銘柄コード 8425。^[source:mizuho-lease-stock-2026] |
+| 戦略株主 | Mizuho Financial Group 23.09%、Marubeni 20.00%、2026-03-31 時点。^[source:mizuho-lease-stock-2026] |
+| 事業上の役割 | 国内リース、不動産、環境・エネルギー、航空機・船舶、物流・XaaS、海外といった領域を持つリース・割賦・ファイナンスのプラットフォーム。具体的な構成は株主名から推測せず、Mizuho Leasing のセグメント開示から読むべきである。^[source:mizuho-lease-fy2024-presentation] |
+| 同業セット | [[leasing-firms/smfl|SMFL]]、[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/orix-corp|ORIX]]、[[leasing-firms/tokyo-century|Tokyo Century]] |
 
-## Alliance mechanics
+## アライアンスの仕組み
 
-### Mizuho relationship
+### Mizuho との関係
 
-Mizuho Leasing is not a bank, but it is a listed leasing company whose largest shareholder is [[megabanks/mizuho-fg|Mizuho Financial Group]].^[source:mizuho-lease-stock-2026] The FY2024 investor presentation says the domestic leasing business accumulated operating assets mainly through the Mizuho alliance and aims to further expand the client base through alliances with the Mizuho Financial Group.^[source:mizuho-lease-fy2024-presentation] This is why the page should sit in the non-bank finance layer next to bank lending rather than inside ordinary banking.
+Mizuho Leasing は銀行ではないが、筆頭株主を [[megabanks/mizuho-fg|Mizuho Financial Group]] とする上場リース会社である。^[source:mizuho-lease-stock-2026] FY2024 の投資家向け説明資料は、国内リース事業が主に Mizuho とのアライアンスを通じて営業資産を積み上げてきたとし、Mizuho Financial Group とのアライアンスを通じて顧客基盤をさらに拡大することを目指すと述べている。^[source:mizuho-lease-fy2024-presentation] このため本ページは、通常の銀行業の内側ではなく、銀行融資に隣接する非銀行系ファイナンスの層に位置づけるべきである。
 
-### Marubeni relationship
+### Marubeni との関係
 
-Marubeni's 2024 release says the capital and business alliance is intended to develop collaboration with Mizuho Leasing, create a new business model, and strengthen the finance and leasing domain. It cites prior collaboration from the 2019 alliance, including Mizuho Marubeni Leasing, U.S. aircraft leasing, U.S. freezer / refrigerated trailer leasing and Australian auto finance joint ventures.^[source:marubeni-alliance-2024] The same release says the collaboration areas under discussion include environment and energy, real estate, aircraft and vessel, information, logistics and XaaS, in Japan and overseas.^[source:marubeni-alliance-2024]
+Marubeni の2024年のリリースは、この資本業務提携が Mizuho Leasing との協業を深め、新たなビジネスモデルを構築し、ファイナンス・リース領域を強化することを意図したものだと述べている。同リリースは、2019年のアライアンス以来の協業実績として、みずほ丸紅リース、米国の航空機リース、米国の冷凍・冷蔵トレーラーリース、豪州のオートファイナンス合弁を挙げている。^[source:marubeni-alliance-2024] さらに同リリースは、検討中の協業領域として、国内外における環境・エネルギー、不動産、航空機・船舶、情報、物流、XaaS を挙げている。^[source:marubeni-alliance-2024]
 
-## Business map
+## 事業マップ
 
-| Lane | Role |
+| 領域 | 役割 |
 |---|---|
-| Domestic leasing | Core earnings bedrock; FY2024 materials emphasize expanding operating assets and client base through Mizuho-group collaboration.^[source:mizuho-lease-fy2024-presentation] |
-| Real estate / environment | Explicit collaboration area in the Marubeni alliance release; also part of the medium-term plan's growth / frontier framing.^[source:marubeni-alliance-2024][source:mizuho-lease-fy2024-presentation] |
-| Aircraft / vessel / transportation | Marubeni release cites aircraft leasing collaboration and names aircraft and vessel as future collaboration areas.^[source:marubeni-alliance-2024] |
-| Logistics / XaaS | Marubeni release names information, logistics and XaaS as collaboration areas.^[source:marubeni-alliance-2024] |
-| Global / trading-house linkage | Marubeni brings global partner / client network, human capital and business-development capabilities; Mizuho Leasing brings Japan client base and expertise in equipment / property and finance.^[source:marubeni-alliance-2024] |
+| 国内リース | 中核となる収益基盤。FY2024 資料は Mizuho グループとの協業を通じた営業資産と顧客基盤の拡大を強調する。^[source:mizuho-lease-fy2024-presentation] |
+| 不動産・環境 | Marubeni のアライアンス・リリースで明示された協業領域であり、中期計画の成長・フロンティア領域の枠組みにも含まれる。^[source:marubeni-alliance-2024][source:mizuho-lease-fy2024-presentation] |
+| 航空機・船舶・輸送 | Marubeni のリリースは航空機リースの協業を挙げ、将来の協業領域として航空機・船舶を名指しする。^[source:marubeni-alliance-2024] |
+| 物流・XaaS | Marubeni のリリースは情報・物流・XaaS を協業領域として挙げる。^[source:marubeni-alliance-2024] |
+| グローバル・商社連携 | Marubeni がグローバルなパートナー・顧客網、人材、事業開発力を、Mizuho Leasing が国内顧客基盤と設備・物件・ファイナンスの専門性をそれぞれ持ち込む。^[source:marubeni-alliance-2024] |
 
-## Strategic reading
+## 戦略的な読み筋
 
-Mizuho Leasing is useful because it shows how a megabank-adjacent listed leasing company can act as a flexible balance-sheet and asset platform:
+Mizuho Leasing が有用なのは、メガバンクに隣接する上場リース会社が、柔軟なバランスシートおよびアセット・プラットフォームとしてどう機能しうるかを示す点にある。
 
-- bank lending finances borrower balance sheets;
-- leasing finances assets and can preserve residual-value control;
-- a trading-company shareholder can add asset sourcing, overseas origination and project know-how;
-- listed-company status means strategic shareholders must coexist with minority-shareholder and market-discipline constraints.
+- 銀行融資は借り手のバランスシートをファイナンスする；
+- リースは資産をファイナンスし、残価コントロールを保持しうる；
+- 商社株主は資産のソーシング、海外でのオリジネーション、プロジェクトのノウハウを加えうる；
+- 上場会社という立場ゆえに、戦略株主は少数株主と市場規律の制約と共存しなければならない。
 
-The 2024/2026 shareholder facts are important: Mizuho FG is larger at 23.09%, Marubeni is 20.00%, and Marubeni's release explicitly describes equity-method affiliate treatment after the capital increase.^[source:mizuho-lease-stock-2026][source:marubeni-alliance-2024]
+2024年・2026年の株主に関する事実は重要である。Mizuho FG が 23.09% でより大きく、Marubeni が 20.00% であり、Marubeni のリリースは増資後の持分法適用会社としての扱いを明示している。^[source:mizuho-lease-stock-2026][source:marubeni-alliance-2024]
 
-## Competitive context
+## 競合環境
 
-| Peer | Contrast |
+| 同業 | 対照点 |
 |---|---|
-| [[leasing-firms/orix-corp|ORIX]] | More diversified and independent investment / asset-management model |
-| [[leasing-firms/smfl|SMFL]] | SMFG + Sumitomo Corporation joint platform, stronger Sumitomo group pairing |
-| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Larger Mitsubishi / MUFG group leasing platform |
-| [[leasing-firms/ntt-tc-lease|NTT TC Leasing]] | NTT asset base + Tokyo Century lease expertise, more telecom-asset anchored |
+| [[leasing-firms/orix-corp|ORIX]] | より多角化した独立系の投資・資産運用モデル |
+| [[leasing-firms/smfl|SMFL]] | SMFG と住友商事の合弁プラットフォームで、住友グループとの結びつきがより強い |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | より大規模な三菱・MUFG グループのリース・プラットフォーム |
+| [[leasing-firms/ntt-tc-lease|NTT TC Leasing]] | NTT の資産基盤と Tokyo Century のリース専門性を併せ持ち、通信資産への傾斜が強い |
 
-## Risk notes
+## リスク・ノート
 
-- Leasing earnings are sensitive to corporate capex cycles, asset residual values, rates, funding cost and overseas risk.
-- Strategic-shareholder relationships can create both business flow and governance / minority-shareholder questions.
-- Aircraft, real estate, energy and logistics assets require asset-specific risk analysis rather than only borrower credit analysis.
-- Mizuho Leasing's investor presentation notes rising funding costs from higher interest-bearing debt linked to operating-asset growth and higher yen interest rates, so rate sensitivity belongs in the analysis.^[source:mizuho-lease-fy2024-presentation]
+- リース収益は、企業の設備投資サイクル、資産の残価、金利、調達コスト、海外リスクに敏感である。
+- 戦略株主との関係は、事業フローを生む一方で、ガバナンスや少数株主に関する論点も生みうる。
+- 航空機、不動産、エネルギー、物流の資産は、借り手の信用分析だけでなく、資産固有のリスク分析を要する。
+- Mizuho Leasing の投資家向け説明資料は、営業資産の成長に伴う有利子負債の増加と円金利の上昇により調達コストが上がっていることに触れており、金利感応度は分析に含めるべきである。^[source:mizuho-lease-fy2024-presentation]
 
 ## Related
 

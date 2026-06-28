@@ -16,56 +16,56 @@ translated_at: 2026-06-24T00:00:00.000Z
 
 ## 要約
 
-アイザワ証券グループは、公式 Corporate Profile が **AIZAWA SECURITIES GROUP CO., LTD.**、Business Description を **Holding Company**、Stock listed on Prime Market of Tokyo Stock Exchange と記載する証券持株会社。^[source:aizawa-group-profile-2026] 2021-10 の holding-company transition により、証券 brokerage business は AIZAWA SECURITIES CO., LTD. へ、investment business は AIZAWA Investments Co., Ltd. へ承継され、社名が AIZAWA SECURITIES GROUP CO., LTD. へ変更された。^[source:aizawa-history-2026] 中核証券子会社 AIZAWA SECURITIES CO., LTD. は関東財務局長(金商)第3283号の FIBO で、公式 profile と FSA workbook の双方で確認できる。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] 戦略面では、Aizawa Securities が Asian Stocks ページで「12 Asian stock markets」を扱うと説明しており、アジア株リテール仲介を差別化軸として読む。^[source:aizawa-asian-stocks-2026]
+アイザワ証券グループは、公式の会社概要が正式名称を **AIZAWA SECURITIES GROUP CO., LTD.**、事業内容を **持株会社**、上場市場を東京証券取引所 Prime Market と記載する証券持株会社である。^[source:aizawa-group-profile-2026] 2021-10 の持株会社体制への移行により、証券仲介事業は AIZAWA SECURITIES CO., LTD. へ、投資事業は AIZAWA Investments Co., Ltd. へ承継され、社名が AIZAWA SECURITIES GROUP CO., LTD. へ変更された。^[source:aizawa-history-2026] 中核の証券子会社 AIZAWA SECURITIES CO., LTD. は関東財務局長(金商)第3283号の金融商品取引業者であり、公式の会社概要と FSA のワークブックの双方で確認できる。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] 戦略面では、Aizawa Securities が Asian Stocks のページで「12 のアジア株式市場」を扱うと説明しており、アジア株の個人投資家向け仲介を差別化軸として読む。^[source:aizawa-asian-stocks-2026]
 
-## 1. Holding-company boundary
+## 1. 持株会社の境界
 
-| Item | Reading |
+| 項目 | 内容 |
 |---|---|
-| Holding company | AIZAWA SECURITIES GROUP CO., LTD. |
-| Business description | Holding Company。^[source:aizawa-group-profile-2026] |
-| Listed market | Tokyo Stock Exchange Prime Market, code 8708。^[source:aizawa-group-profile-2026] |
-| Founded / established | Group profile lists founded 1918-07-07 and established 1933-10-03.^[source:aizawa-group-profile-2026] |
-| Holding-company transition | 2021-10: securities brokerage business succeeded to AIZAWA SECURITIES CO., LTD.; investment business succeeded to AIZAWA Investments Co., Ltd.; corporate name changed to AIZAWA SECURITIES GROUP CO., LTD.^[source:aizawa-history-2026] |
-| Group companies | AIZAWA SECURITIES, AIZAWA Investments, AIZAWA ASSET MANAGEMENT, LIFE DESIGN PARTNERS, Japan Securities.^[source:aizawa-group-profile-2026] |
+| 持株会社 | AIZAWA SECURITIES GROUP CO., LTD. |
+| 事業内容 | 持株会社。^[source:aizawa-group-profile-2026] |
+| 上場市場 | 東京証券取引所 Prime Market、コード 8708。^[source:aizawa-group-profile-2026] |
+| 創業・設立 | グループの会社概要は創業 1918-07-07、設立 1933-10-03 と記載する。^[source:aizawa-group-profile-2026] |
+| 持株会社体制への移行 | 2021-10：証券仲介事業を AIZAWA SECURITIES CO., LTD. へ、投資事業を AIZAWA Investments Co., Ltd. へ承継し、社名を AIZAWA SECURITIES GROUP CO., LTD. へ変更。^[source:aizawa-history-2026] |
+| グループ会社 | AIZAWA SECURITIES、AIZAWA Investments、AIZAWA ASSET MANAGEMENT、LIFE DESIGN PARTNERS、Japan Securities。^[source:aizawa-group-profile-2026] |
 
-### Operating securities subsidiary
+### 中核の証券子会社
 
-| Layer | Verified reading |
+| 区分 | 確認済みの内容 |
 |---|---|
-| Operating company | AIZAWA SECURITIES CO., LTD. |
-| FIBO registration | 関東財務局長(金商)第3283号。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
-| FIEA categories | FSA workbook confirms Type I, Type II, investment advisory / agency, investment management, and securities-related business flags for Aizawa Securities.^[source:fsa-fibo-2026] |
-| Memberships | Aizawa Securities profile lists Japan Securities Dealers Association, Investment Management Association of Japan, and Type II Financial Instruments Firms Association. FSA workbook also confirms JSDA / Type II / asset-management association flags.^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
+| 事業会社 | AIZAWA SECURITIES CO., LTD. |
+| 金融商品取引業者登録 | 関東財務局長(金商)第3283号。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
+| FIEA 上の区分 | FSA のワークブックは、アイザワ証券について第一種・第二種、投資助言・代理業、投資運用業、有価証券関連業の区分を確認する。^[source:fsa-fibo-2026] |
+| 加入団体 | アイザワ証券の会社概要は、日本証券業協会、Investment Management Association of Japan、第二種金融商品取引業協会への加入を記載する。FSA のワークブックも、日本証券業協会・第二種・資産運用関連協会の区分を確認する。^[source:aizawa-sec-profile-2026][source:fsa-fibo-2026] |
 
-## 2. Business model
+## 2. ビジネスモデル
 
-### Asia-equity positioning
+### アジア株での位置づけ
 
-Aizawa Securities' official Asian Stocks page self-positions the company as a "Pioneer in Asian Stocks" and says it handles stocks in 12 Asian stock markets: Hong Kong, Shanghai, Shenzhen, South Korea, Taiwan, Singapore, Thailand, Malaysia, Indonesia, Philippines, Vietnam and Israel.^[source:aizawa-asian-stocks-2026] This supports a narrower and more useful reading than "generic independent securities group": Aizawa is a retail securities platform with a distinct Asia-equity access lane.
+アイザワ証券の公式 Asian Stocks ページは、同社を「アジア株のパイオニア」と位置づけ、香港、上海、深圳、韓国、台湾、シンガポール、タイ、マレーシア、インドネシア、フィリピン、ベトナム、イスラエルの 12 のアジア株式市場の銘柄を取り扱うとする。^[source:aizawa-asian-stocks-2026] これは「一般的な独立系証券グループ」よりも狭く、有用な読みを支える。すなわちアイザワは、アジア株への独自のアクセス経路を持つ個人投資家向けの証券プラットフォームである。
 
-### Group-business map
+### グループ事業マップ
 
-| Group lane | Public-source reading |
+| グループ領域 | 公開資料に基づく読み |
 |---|---|
-| Retail brokerage | AIZAWA SECURITIES is the registered FIBO and JSDA member that carries the securities-client interface.^[source:aizawa-sec-profile-2026] |
-| Asian stocks | AIZAWA SECURITIES handles the 12 Asian markets listed above, giving the group a public-facing Asia-equity specialization.^[source:aizawa-asian-stocks-2026] |
-| Investment business | AIZAWA Investments is listed as a group company and received the investment-business succession in the 2021 holding-company transition.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
-| Asset management | AIZAWA ASSET MANAGEMENT is listed as a group company; the operating securities subsidiary also has investment advisory / agency and investment management flags in the FSA workbook.^[source:aizawa-group-profile-2026][source:fsa-fibo-2026] |
-| Vietnam route | Japan Securities Co., Ltd. is listed as a group company; history records Japan Securities in Vietnam becoming a subsidiary in 2018.^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+| 個人向け仲介 | AIZAWA SECURITIES が、登録された金融商品取引業者かつ日本証券業協会会員として、証券顧客との接点を担う。^[source:aizawa-sec-profile-2026] |
+| アジア株 | AIZAWA SECURITIES が上記の 12 のアジア市場を取り扱い、グループに対外的なアジア株の専門性を与えている。^[source:aizawa-asian-stocks-2026] |
+| 投資事業 | AIZAWA Investments がグループ会社として記載され、2021年の持株会社体制への移行で投資事業を承継した。^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
+| 資産運用 | AIZAWA ASSET MANAGEMENT がグループ会社として記載される。中核の証券子会社も、FSA のワークブックで投資助言・代理業と投資運用業の区分を持つ。^[source:aizawa-group-profile-2026][source:fsa-fibo-2026] |
+| ベトナム経路 | Japan Securities Co., Ltd. がグループ会社として記載される。沿革では、ベトナムの Japan Securities が 2018年に子会社化されたと記録されている。^[source:aizawa-group-profile-2026][source:aizawa-history-2026] |
 
-## 3. Strategy / peer reading
+## 3. 戦略・同業との比較
 
-- Aizawa should be compared with mid-sized independent securities groups such as [[securities-firms/okasan-sg]], [[securities-firms/tokai-tokyo-fh]], and [[securities-firms/iwai-cosmo-hd]], but its public Asia-stock lane makes it less similar to pure domestic face-to-face brokers.
-- It is not a pure online-broker page like [[securities-firms/matsui-sec]] or [[securities-firms/monex-group]]; its differentiation is access and advisory around Asia / emerging-market equities.
-- The prior "TSE Standard" / 2017 holding-company framing is not used here because Aizawa's current official profile and history page support Prime Market and the 2021 holding-company transition instead.^[source:aizawa-group-profile-2026][source:aizawa-history-2026]
+- アイザワは、[[securities-firms/okasan-sg]]、[[securities-firms/tokai-tokyo-fh]]、[[securities-firms/iwai-cosmo-hd]] といった中堅の独立系証券グループと比較すべきだが、対外的なアジア株の領域ゆえに、純粋な国内対面型証券とは類似度が低い。
+- [[securities-firms/matsui-sec]] や [[securities-firms/monex-group]] のような純粋なオンライン証券のページとも異なる。その差別化は、アジア・新興国株式をめぐるアクセスとアドバイザリーにある。
+- 以前の「東証スタンダード」や 2017年の持株会社という枠組みはここでは用いない。アイザワの現行の公式会社概要・沿革ページが、代わりに Prime Market と 2021年の持株会社体制への移行を裏づけているためである。^[source:aizawa-group-profile-2026][source:aizawa-history-2026]
 
-## 4. Regulation / policy
+## 4. 規制・政策
 
-- **Supervisor**: FSA / Kanto Local Finance Bureau for the operating securities subsidiary.
-- **Core registration**: AIZAWA SECURITIES CO., LTD., 関東財務局長(金商)第3283号。Client-facing regulated activity should be read at the operating subsidiary level, not at the listed holding-company level.^[source:fsa-fibo-2026]
-- **Self-regulation**: JSDA, Investment Management Association of Japan, and Type II Financial Instruments Firms Association memberships are public on the operating subsidiary profile.^[source:aizawa-sec-profile-2026]
-- **Cross-border caution**: the page only treats Asian stock coverage as a public product / access lane; it does not assert unverified revenue contribution by country.
+- **監督**: 事業会社である証券子会社については FSA・関東財務局。
+- **中核の登録**: AIZAWA SECURITIES CO., LTD.、関東財務局長(金商)第3283号。顧客に向き合う規制対象業務は、上場持株会社のレベルではなく、事業子会社のレベルで読むべきである。^[source:fsa-fibo-2026]
+- **自主規制**: 日本証券業協会、Investment Management Association of Japan、第二種金融商品取引業協会への加入が、事業子会社の会社概要で公開されている。^[source:aizawa-sec-profile-2026]
+- **クロスボーダーの留意**: 本ページはアジア株の取り扱いを公開されたプロダクト・アクセス経路としてのみ扱い、国別の収益貢献については未確認の主張をしない。
 
 ## Related
 
