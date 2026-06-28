@@ -2,10 +2,11 @@
 source: insurance/cooperative-insurance-system-japan
 source_hash: d16d82a064c8464b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の共済（協同組合保険）制度"
-translated_at: 2026-06-18T23:59:13.105Z
+translated_at: 2026-06-26T08:29:01.759Z
 ---
 
 # 日本の共済（協同組合保険）制度
@@ -16,7 +17,7 @@ translated_at: 2026-06-18T23:59:13.105Z
 
 ## Wiki ルート
 
-このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/ja-kyosai-zenkyoren-overview|the JA Kyosai / Zenkyoren overview]]（個別の共済引受主体として最大）に対するセクターレベルの対応ページである。正式な枠組み（perimeter）を把握するには [[insurance/japan-life-insurance-big-four|the FSA life big-four]] および [[insurance/japan-nonlife-big-three|the FSA non-life big-three]] と併せて読み、法人形態の軸については [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]]（共済は相互性の軸において協同組合の端に位置し、FSA の相互会社よりさらに遠い）、FSA の地震保険と共済の地震保障の非対称性（異なる再保険プール）については [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]、協同組合セクターには形式上適用されない FSA の資本規制については [[insurance/economic-value-based-solvency|economic-value-based solvency]]、そして制度横断的な視点については [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] を参照すること。エンティティのアンカーとしては [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]、および（存在する場合は）労働者・消費生活協同組合連合会のページが含まれる。
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/ja-kyosai-zenkyoren-overview|the JA Kyosai / Zenkyoren overview]]（個別の共済引受主体として最大）に対するセクターレベルの対応ページである。正式な枠組み（perimeter）を把握するには [[insurance/japan-life-insurance-big-four|the FSA life big-four]] および [[insurance/japan-nonlife-big-three|the FSA non-life big-three]] と併せて読み、法人形態の軸については [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]]（共済は相互性の軸において協同組合の端に位置し、FSA の相互会社よりさらに遠い）、FSA の地震保険と共済の地震保障の非対称性（異なる再保険プール）については [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]、協同組合セクターには形式上適用されない FSA の資本規制については [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]]、そして制度横断的な視点については [[insurance/global-solvency-framework-comparison-matrix|the global ソルベンシー framework comparison matrix]] を参照すること。エンティティのアンカーとしては [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]、および（存在する場合は）労働者・消費生活協同組合連合会のページが含まれる。
 
 ## 「共済」が意味するもの
 
@@ -73,9 +74,7 @@ translated_at: 2026-06-18T23:59:13.105Z
 
 共済の終身共済（whole-life-equivalent）と FSA の終身保険は、経済的には非常に似た商品である。違いはもっぱら法的・規制的・税務的・行為規制の側面にある。だからこそ、分析作業はどの枠組み（perimeter）が対象範囲なのかを明示すべきであり、FSA の枠組みが「日本の保険」に等しいと前提してはならない。
 
-## 総体的な規模
-
-協同組合セクターをきれいな総額に集計することは、監督官庁の分割、異なる報告暦、異なる準備金定義の慣行のために難しい。おおよその規模の目安（概念的なものであり、特定時点のものではない）：
+## 総体的な規模協同組合セクターをきれいな総額に集計することは、監督官庁の分割、異なる報告暦、異なる準備金定義の慣行のために難しい。おおよその規模の目安（概念的なものであり、特定時点のものではない）：
 
 - **JA共済（全共連 / Zenkyoren）** — 一般勘定資産は数十兆円規模で、最大級の [[insurance/japan-life-insurance-big-four|life big-four]] 相互会社に匹敵する。協同組合セクター単体として最大の主体。
 - **全労済 / こくみん共済 coop** — 数兆円規模の準備金・資産規模。
@@ -84,11 +83,9 @@ translated_at: 2026-06-18T23:59:13.105Z
 
 共済セクター全体の準備金および保有掛金は、準備金規模で見ておおむね数十兆円規模（mid-double-digit trillions of yen）にのぼり、日本の世帯保障市場の構造的な一部を成すほど大きい。FSA 枠組みと共済枠組みの準備金を比較するには、協同組合セクターと FSA セクターの報告フレームワーク間で準備金の定義を整合させる必要がある。
 
-## 税制と契約者給付
+## 税制と契約者給付共済は、個人所得税の目的上、保険とは異なる扱いを受ける：
 
-共済は、個人所得税の目的上、保険とは異なる扱いを受ける：
-
-- **掛金控除（生命保険料控除 / 個人年金保険料控除 等）** — 共済の掛金はほとんどの場合、保険と同じ個人所得税の生命保険料控除の対象となるが、対象となる正確な商品セットと上限は異なる。
+- **掛金控除（生命保険料控除 / 個人年金保険料控除等）** — 共済の掛金はほとんどの場合、保険と同じ個人所得税の生命保険料控除の対象となるが、対象となる正確な商品セットと上限は異なる。
 - **給付課税** — 死亡給付金や解約返戻金は、保険給付とおおむね類似のルールで課税されるが、一部の商品ラインには協同組合セクター固有の規定がある。
 - **協同組合セクターの税制** — 引受主体のレベルでは、協同組合連合会は保険セクターの税制ではなく協同組合セクターの税制のもとで課税される。
 
@@ -101,7 +98,7 @@ translated_at: 2026-06-18T23:59:13.105Z
 - **産業集計のペーパーは枠組みを明示しなければならない。** FSA のデータのみを用いた「日本の生命保険市場」の総額は、世帯保障の経済的総額より実質的に小さい。共済を加えた「日本の総保障」の総額は、慎重な定義を要する。
 - **資本規制の比較は統一されていない。** FSA の ESR（経済価値ベース、2025年4月から）は私営保険会社の代表的な資本規制だが、農林水産省と厚生労働省の共済の資本規制は技術的には別個のものである。全共連その他は FSA の枠組みを任意で踏襲しているが、法的には同じ制度ではない。
 - **再保険プールのアーキテクチャは非対称である。** 強制地震保険の出再プール（JER）は FSA の損保会社をカバーする。共済の地震保障は別のアーキテクチャに位置する。[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] を参照。
-- **販売規制のアーキテクチャは非対称である。** 保険業法の募集規制（[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] の登録 / 行為の枠組みを含む）は共済には形式上適用されない。協同組合セクターの募集規制が適用される。
+- **販売規制のアーキテクチャは非対称である。** 保険業法の募集規制（[[insurance/insurance-agency-and-brokerage-japan|insurance agency and 証券仲介 Japan]] の登録 / 行為の枠組みを含む）は共済には形式上適用されない。協同組合セクターの募集規制が適用される。
 - **契約者保護のアーキテクチャは非対称である。** FSA の保護機構は FSA 免許の保険会社の契約者をカバーする。協同組合セクターの保護の取り決めは共済の組合員をカバーする。破綻した共済の組合員は、FSA の保護機構を利用できない。
 - **外資系の競合セットの比較。** [[insurance/foreign-life-affiliate-japan-positioning|Foreign-life affiliates]] は共済の枠組みではなく FSA 保険の枠組みで競合する。二つの枠組みをまたいで市場シェアを比較すると、全体像を取り違えることになる。
 

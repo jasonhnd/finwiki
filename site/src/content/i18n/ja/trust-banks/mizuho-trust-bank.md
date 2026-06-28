@@ -2,10 +2,11 @@
 source: trust-banks/mizuho-trust-bank
 source_hash: e499c4ccd952a942
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "みずほ信託銀行 (Mizuho Trust & Banking)"
-translated_at: 2026-06-15T04:09:41.178Z
+translated_at: 2026-06-26T08:32:30.860Z
 ---
 
 # みずほ信託銀行 (Mizuho Trust & Banking)
@@ -29,9 +30,7 @@ translated_at: 2026-06-15T04:09:41.178Z
 | 親会社境界 | [[megabanks/mizuho-fg|みずほ FG]] trust-bank operating company |
 | 商業銀行の姉妹会社 | [[megabanks/mizuho-bank|みずほ銀行]]（同一グループの普通銀行） |
 
-## 2. 事業モデル
-
-信託兼営金融機関として、みずほ信託銀行は次を担う：
+## 2. 事業モデル信託兼営金融機関として、みずほ信託銀行は次を担う：
 
 - **個人・法人信託ソリューション**：相続・資産承継・遺言信託などの個人向け、および法人向けの信託商品。
 - **年金信託・証券代行・不動産**：確定給付/確定拠出年金の年金信託、株主名簿管理人としての証券代行、不動産信託・不動産仲介。
@@ -43,7 +42,7 @@ translated_at: 2026-06-15T04:09:41.178Z
 
 - みずほ FG のグループ戦略だけでは追えない trust-bank 固有の受託財産・年金・不動産・証券代行・電子記録債権サービスを切り出す。
 - 商業銀行 (普通銀行) と信託兼営金融機関のライセンス境界を、[[megabanks/mizuho-bank|みずほ銀行]] と対で明確にする。
-- asset-administration / custody 論点で [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] へリンクする際の peer anchor。
+- asset-administration / カストディ論点で [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] へリンクする際の peer anchor。
 
 ## 関連
 

@@ -2,10 +2,11 @@
 source: loyalty/au-pay-loyalty-ecosystem-deep
 source_hash: 1f4cd7d60771b3c2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "au PAY ロイヤルティ経済圏詳説 — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au じぶん銀行 の統合スタック"
-translated_at: 2026-06-19T06:09:18.070Z
+translated_at: 2026-06-26T08:32:23.049Z
 ---
 
 # au PAY ロイヤルティ経済圏詳説 — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au じぶん銀行 の統合スタック

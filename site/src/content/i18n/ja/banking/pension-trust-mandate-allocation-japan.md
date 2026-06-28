@@ -2,29 +2,30 @@
 source: banking/pension-trust-mandate-allocation-japan
 source_hash: 20586bcbd701c454
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "年金信託マンデート配分（日本）"
-translated_at: 2026-06-18T23:33:48.294Z
+translated_at: 2026-06-26T08:32:07.531Z
 ---
 
 # 年金信託マンデート配分（日本）
 
 ## Wiki route
 
-本エントリは [[banking/INDEX|banking index]] の下に位置し、年金側の需要を信託銀行側の供給に結び付ける。機関のアンカーである [[trust-banks/master-trust-bank|MTBJ]] と [[trust-banks/custody-bank|CBJ]]、オペレーティングモデルの [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] と [[banking/custody-bank-operating-model|Custody Bank operating model]]、ランドスケープ・ビューの [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクスの [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、オペレーティング比較の [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]、および手数料スタディの [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] と併読されたい。レールについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] と；規制ティアについては [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と；フロントオフィスの信託銀行側については [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] と；外貨資産レッグのサブカストディについては [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] とペアで読むこと。機関投資家の文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
+本エントリは [[banking/INDEX|banking index]] の下に位置し、年金側の需要を信託銀行側の供給に結び付ける。機関のアンカーである [[trust-banks/master-trust-bank|MTBJ]] と [[trust-banks/custody-bank|CBJ]]、オペレーティングモデルの [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] と [[banking/custody-bank-operating-model|カストディ Bank operating model]]、ランドスケープ・ビューの [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクスの [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、オペレーティング比較の [[banking/trust-bank-custody-operating-comparison|trust-bank カストディ operating comparison]]、および手数料スタディの [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] と併読されたい。レールについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] と；規制ティアについては [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と；フロントオフィスの信託銀行側については [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] と；外貨資産レッグのサブカストディについては [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] とペアで読むこと。機関投資家の文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
 
 ## TL;DR
 
-日本の年金信託マンデートは 3 つのレイヤーに分かれる: GPIF（資産 約 ¥250兆、公的年金）、企業 DB プラン（確定給付企業年金）、および DC プラン（確定拠出年金、iDeCo を含む）。各レイヤーは運用（運用機関）を資産管理（資産管理機関）から分離する — 後者は MTBJ、CBJ、およびメガバンクの信託銀行部門が競争する場である。GPIF のパターンはよく文書化されている: アクティブおよびパッシブのマンデートのための外部 運用機関（アセットマネージャー）のパネルに加え、カストディと管理のための信託銀行の別個の 資産管理機関 パネル（MTBJ + CBJ + 選定されたフルサービス信託銀行）。企業 DB プランは同じ分離を反映し、しばしばプランごとに 1〜2 行の信託銀行を伴う。DC プランは、メガバンクの信託銀行部門と専門の DC オペレーターが競争する 運営管理機関 レイヤー（加入者口座のレコードキーピング）を追加する。全レイヤーにわたる外貨資産レッグは、日本のサブカストディアンとしてのグローバル・カストディアンを経由する。その結果は、MTBJ と CBJ が資産管理ユーティリティをアンカーする一方、メガバンクの信託銀行とグローバル・カストディアンがフロントオフィスの運用と DC 運営管理者の側で競争する、階層化されたマンデート配分システムである。
+日本の年金信託マンデートは 3 つのレイヤーに分かれる: GPIF（資産約 ¥250兆、公的年金）、企業 DB プラン（確定給付企業年金）、および DC プラン（確定拠出年金、iDeCo を含む）。各レイヤーは運用（運用機関）を資産管理（資産管理機関）から分離する — 後者は MTBJ、CBJ、およびメガバンクの信託銀行部門が競争する場である。GPIF のパターンはよく文書化されている: アクティブおよびパッシブのマンデートのための外部運用機関（アセットマネージャー）のパネルに加え、カストディと管理のための信託銀行の別個の 資産管理機関パネル（MTBJ + CBJ + 選定されたフルサービス信託銀行）。企業 DB プランは同じ分離を反映し、しばしばプランごとに 1〜2 行の信託銀行を伴う。DC プランは、メガバンクの信託銀行部門と専門の DC オペレーターが競争する 運営管理機関レイヤー（加入者口座のレコードキーピング）を追加する。全レイヤーにわたる外貨資産レッグは、日本のサブカストディアンとしてのグローバル・カストディアンを経由する。その結果は、MTBJ と CBJ が資産管理ユーティリティをアンカーする一方、メガバンクの信託銀行とグローバル・カストディアンがフロントオフィスの運用と DC 運営管理者の側で競争する、階層化されたマンデート配分システムである。
 
 ### 年金システムの 3 レイヤー
 
 | レイヤー | 説明 | 法令 | 概算規模 |
 |---|---|---|---|
 | **GPIF**（年金積立金管理運用独立行政法人） | 公的年金積立金 | 厚生年金保険法 + 国民年金法 + 独立行政法人法 | 約 ¥250兆 AUM |
-| **企業 DB**（確定給付企業年金） | 企業がスポンサーとなる確定給付年金信託 | 確定給付企業年金法（2001） | 受託資産 約 ¥66.0兆（確定給付企業年金、令和5年3月末；DB + 厚生年金基金 合算 約 ¥80.5兆） |
-| **企業型 DC + iDeCo**（確定拠出年金） | 企業がスポンサー / 個人型の DC | 確定拠出年金法（2001） | 合計 約 ¥29兆（企業型 DC ¥22.8兆 + iDeCo ¥6.2兆、2024-03末）；NISA / DC 改革後に急速に成長 |
+| **企業 DB**（確定給付企業年金） | 企業がスポンサーとなる確定給付年金信託 | 確定給付企業年金法（2001） | 受託資産約 ¥66.0兆（確定給付企業年金、令和5年3月末；DB + 厚生年金基金合算約 ¥80.5兆） |
+| **企業型 DC + iDeCo**（確定拠出年金） | 企業がスポンサー / 個人型の DC | 確定拠出年金法（2001） | 合計約 ¥29兆（企業型 DC ¥22.8兆 + iDeCo ¥6.2兆、2024-03末）；NISA / DC 改革後に急速に成長 |
 
 ### マンデート配分の役割分離
 
@@ -67,8 +68,8 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 | 枠 | 配分者 | 典型的な参加者 |
 |---|---|---|
 | 運営管理機関（レコードキーピング、加入者管理） | スポンサー / プラン規則 | 信託銀行（三菱 UFJ 信託、SMTB、みずほ信託の DC 部門）、証券会社（野村、大和、SMBC 日興）、専門オペレーター NRK |
-| 運用商品メニューの提供 | 運営管理機関 | 選定された 投信 ラインナップ |
-| 信託側カストディ（資産管理） | 資産管理機関 | 運営管理機関 が選定した 投信 受託会社 経由の MTBJ / CBJ |
+| 運用商品メニューの提供 | 運営管理機関 | 選定された 投信ラインナップ |
+| 信託側カストディ（資産管理） | 資産管理機関 | 運営管理機関 が選定した 投信受託会社経由の MTBJ / CBJ |
 | メニュー内の各ファンドの 投信受託会社 | 投信受託 としての信託銀行 | MTBJ / CBJ / メガバンク信託部門 |
 | 外貨資産レッグ | サブカストディアン・チェーン | 信託銀行経由 → グローバル・カストディアン |
 
@@ -90,12 +91,12 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 |---|---|---|---|
 | GPIF | 広いパネル — JP AM + 外貨 AM がマンデートのスライスを巡って競争 | MTBJ + CBJ + 選定されたフルサービス信託銀行 | 該当なし（GPIF は公的年金であり、DC のような加入者レベルの管理がない） |
 | 企業 DB | プラン受託者側 AM + 外部 AM | プラン受託者が内部で + 別途委託される管理について MTBJ / CBJ | 該当なし（DB には加入者レベルの管理記録がない） |
-| 企業型 DC | 運営管理機関 が選定した 投信 ラインナップ → 基礎となる 運用機関 | 受託会社 レイヤー経由の MTBJ / CBJ | 三菱 UFJ 信託 / SMTB / みずほ信託 / 野村 / 大和 / SMBC 日興 / NRK |
+| 企業型 DC | 運営管理機関 が選定した 投信ラインナップ → 基礎となる 運用機関 | 受託会社レイヤー経由の MTBJ / CBJ | 三菱 UFJ 信託 / SMTB / みずほ信託 / 野村 / 大和 / SMBC 日興 / NRK |
 | iDeCo | DC と同じ | DC と同じ | 同じ DC オペレーター（しばしばリテール向けの証券会社 / オンライン証券） |
 
 ### 信託銀行横断の年金マンデート競争
 
-| 信託銀行 | GPIF マンデート側 | 企業 DB 側 | DC 運営管理 側 |
+| 信託銀行 | GPIF マンデート側 | 企業 DB 側 | DC 運営管理側 |
 |---|---|---|---|
 | MTBJ | 主要な 資産管理機関 | 主要な 資産管理機関 | 限定的（カストディ専業の専門会社） |
 | CBJ | 主要な 資産管理機関 | 主要な 資産管理機関 | 限定的（カストディ専業の専門会社） |
@@ -114,7 +115,7 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 | GPIF の専門カストディに対する歴史的な入札選好 | MTBJ + CBJ をデフォルトの勝者としてアンカーした |
 | メガバンク信託銀行のフロントオフィス・マンデートで別個に運用する選好 | 資産管理ユーティリティを MTBJ + CBJ に委ねる |
 | MTBJ + CBJ のコスト回収プライシング | 他の主体が下回ることが困難 |
-| 信託銀行ライセンス + JASDEC 参加 + 信託口 名義人ロジック | 新規参入を制限する |
+| 信託銀行ライセンス + JASDEC 参加 + 信託口名義人ロジック | 新規参入を制限する |
 
 ## 4. 手数料・収益構造
 
@@ -132,10 +133,10 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 | 独立行政法人通則法 + GPIF 個別法 | GPIF のガバナンスとオペレーティング枠組み |
 | 確定給付企業年金法 | 企業 DB プラン |
 | 確定拠出年金法 | 企業型 DC + iDeCo |
-| 信託業法 + 銀行法 | 年金信託 受託 のための信託銀行ライセンス |
-| 金商法（投信受託 / カストディ ops） | 投信 受託会社 / カストディの基準 |
-| 厚生労働省 監督指針 | 年金プランの監督 |
-| 金融庁 監督指針（信託業 + 信託銀行） | 信託銀行の監督 |
+| 信託業法 + 銀行法 | 年金信託受託 のための信託銀行ライセンス |
+| 金商法（投信受託 / カストディ ops） | 投信受託会社 / カストディの基準 |
+| 厚生労働省監督指針 | 年金プランの監督 |
+| 金融庁監督指針（信託業 + 信託銀行） | 信託銀行の監督 |
 | GPIF 投資原則 / スチュワードシップ原則 | GPIF 固有のガバナンス / スチュワードシップ |
 | 個人情報保護法 + 金融分野ガイドライン | 加入者データの保護 |
 
@@ -154,7 +155,7 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 |---|---|
 | 年金プラン信託資産 | 信託銀行にとってはオフバランス；年金プラン / GPIF にとってはオンバランス |
 | 年金信託管理手数料 | 信託銀行の損益計算書での収益 |
-| 年金プラン加入者残高（DC） | 運営管理機関 の記録で保有；投信 受取債権 + 現金で裏付け |
+| 年金プラン加入者残高（DC） | 運営管理機関 の記録で保有；投信受取債権 + 現金で裏付け |
 | 年金プランの拠出（DB） | 信託銀行ではなく、プラン / スポンサーにて |
 
 ## 6. JASDEC / 清算インフラへの接続
@@ -194,9 +195,7 @@ GPIF（約 ¥250兆 AUM）は、日本で最大の単一の年金資産プール
 └───────────┘└─────────────┘└──────────────┘└──────────────────────┘└─────────────────┘
 ```
 
-### 年金マンデートの外貨資産レッグ
-
-年金マンデートが外国株式 / 債券 / オルタナティブを含む場合:
+### 年金マンデートの外貨資産レッグ年金マンデートが外国株式 / 債券 / オルタナティブを含む場合:
 
 ```
 年金プラン

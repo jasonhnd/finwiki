@@ -2,10 +2,11 @@
 source: insurance/kampo-japan-post-insurance
 source_hash: e86e54ebc94b9594
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "かんぽ / 日本郵政保険"
-translated_at: 2026-06-19T06:09:18.026Z
+translated_at: 2026-06-26T08:29:01.761Z
 ---
 
 # かんぽ / 日本郵政保険
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.026Z
 
 ## Wiki ルート
 
-このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/japan-life-insurance-big-four|the Japan life big four]] および [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]] の郵便生命対応物である。資産負債問題については [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、法人形態の対比（かんぽは第一生命 HD のように上場しているが、親会社かつ最終的なオーナーは部分的に国に関連する JP ホールディングスである）については [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]、見出しとなる資本指標については [[insurance/economic-value-based-solvency|economic-value-based solvency]] と [[insurance/esr-economic-value-solvency|ESR]]、郵便チャネルの位置づけについては [[insurance/life-insurance-channel-mix|the life insurance channel mix]]、2019 以降のチャネル再構築については [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] と併せて読まれたい。エンティティのアンカーは [[life-insurers/kampo-life|Kampo Life / 7181]] と [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]] である。監督者マップについては [[financial-regulators/fsa|the FSA]] および総務省（MIC / 総務省）の郵便事業監督を参照されたい。
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/japan-life-insurance-big-four|the Japan life big four]] および [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]] の郵便生命対応物である。資産負債問題については [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、法人形態の対比（かんぽは第一生命 HD のように上場しているが、親会社かつ最終的なオーナーは部分的に国に関連する JP ホールディングスである）については [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]]、見出しとなる資本指標については [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] と [[insurance/esr-economic-value-solvency|ESR]]、郵便チャネルの位置づけについては [[insurance/life-insurance-channel-mix|the life insurance channel mix]]、2019 以降のチャネル再構築については [[insurance/insurance-agency-and-brokerage-japan|the agency and 証券仲介 Japan landscape]] と併せて読まれたい。エンティティのアンカーは [[life-insurers/kampo-life|Kampo Life / 7181]] と [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]] である。監督者マップについては [[financial-regulators/fsa|the FSA]] および総務省（MIC / 総務省）の郵便事業監督を参照されたい。
 
 ## アイデンティティとグループ構造
 
@@ -40,9 +41,7 @@ translated_at: 2026-06-19T06:09:18.026Z
 
 二重構造 — レガシーかんぽ + 新しいかんぽ — が、かんぽのバランスシートを民間ビッグフォーから区別する重要な特徴である。資産クラス配分と ALM は連結ベースで報告されるが、基礎となる負債構造には 2 つの異なるヴィンテージがある。
 
-## 販売：郵便チャネル
-
-規定的な販売の特徴は、日本郵便株式会社との郵便チャネル契約である — かんぽの契約は、約 20,000店舗の郵便局ネットワーク（日本最大の物理的小売フットプリント）および直接雇用のかんぽ販売スタッフを通じて販売される。[[life-insurers/nippon-life|Nippon Life]] の Nissay Lady モデルに相当する系列女性販売部隊はない；代わりに郵便局のカウンタースタッフとかんぽ販売スタッフが支配的なチャネルを形成する。
+## 販売：郵便チャネル規定的な販売の特徴は、日本郵便株式会社との郵便チャネル契約である — かんぽの契約は、約 20,000店舗の郵便局ネットワーク（日本最大の物理的小売フットプリント）および直接雇用のかんぽ販売スタッフを通じて販売される。[[life-insurers/nippon-life|Nippon Life]] の Nissay Lady モデルに相当する系列女性販売部隊はない；代わりに郵便局のカウンタースタッフとかんぽ販売スタッフが支配的なチャネルを形成する。
 
 その他のチャネル — バンカシュアランス、独立代理店、インターネット・ダイレクト — は存在するが、はるかに小規模である。郵便チャネルへの依存は、フランチャイズの構造的な優位性（どの競合も及ばない顧客基盤と物理的ネットワークのリーチ）であると同時に、2019 問題の源泉でもある（同じネットワークが不正行為を駆動した販売インセンティブ圧力を生み出した）。
 
@@ -70,7 +69,7 @@ translated_at: 2026-06-19T06:09:18.026Z
 - **二重上場下の資本ガバナンス。** かんぽの資本政策（ESR 目標、株主配当、JP ホールディングス親株主のダイナミクス）は、自社の上場会社フレームワークと JP ホールディングスのグループフレームワークの両方によってガバナンスされる。
 - **レガシーブロックのランオフ・ダイナミクス。** 民営化前のかんぽブロックは時間とともにランオフする；新規契約ブロックがそれを補わなければならない。2019, 以降の新規契約発行は、問題発生前の軌道と比べて大幅に減少している。
 
-ESR は、2025 年 4 月以降、民間ビッグフォーと同じ形式で [[insurance/economic-value-based-solvency|FSA economic-value-based solvency]] 制度のもとで公表される。比率の定義については [[insurance/esr-economic-value-solvency|ESR]] 参照。
+ESR は、2025 年 4 月以降、民間ビッグフォーと同じ形式で [[insurance/economic-value-based-solvency|FSA economic-value-based ソルベンシー]] 制度のもとで公表される。比率の定義については [[insurance/esr-economic-value-solvency|ESR]] 参照。
 
 ## 金融庁生命ビッグフォーとの比較
 

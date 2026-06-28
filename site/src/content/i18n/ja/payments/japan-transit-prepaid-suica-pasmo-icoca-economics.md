@@ -2,17 +2,18 @@
 source: payments/japan-transit-prepaid-suica-pasmo-icoca-economics
 source_hash: ee4c4213c64ed479
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan transit-前払式電子マネー: Suica / PASMO / ICOCA / regional IC economics"
-translated_at: 2026-06-19T06:09:18.051Z
+translated_at: 2026-06-26T08:29:40.677Z
 ---
 
 # Japan transit-前払式電子マネー: Suica / PASMO / ICOCA / regional IC economics
 
 ## ウィキ上の位置づけ
 
-この項目は [[payments/INDEX|payments index]] の配下にある交通系プリペイドスキームのリファレンスページであり、FSA 登録のプリペイド発行者ビューは [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 registry]]、4 クラスのスキーム比較は [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、モバイル Suica の払い戻し／譲渡可能性の問題は [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、Cyberne 経由の発行者間決済ビューは [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment 清算 and 決済 infrastructure]] と組み合わせる。[[payment-firms/rakuten-edy|Rakuten Edy]]（非交通系 FeliCa プリペイド）および交通系プリペイドの小売タップ量の一部を侵食してきた代替スキームの [[payments/japan-code-payment-competitive-map|code-payment competitive map]] と比較すること。モバイル鉄道の Apple Pay／おサイフケータイのルーティングは、トークン化の取扱いについて [[payments/japan-card-security-authentication-controls|card security and authentication controls]] に交差する。
+この項目は [[payments/INDEX|payments index]] の配下にある交通系プリペイドスキームのリファレンスページであり、FSA 登録のプリペイド発行者ビューは [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 registry]]、4 クラスのスキーム比較は [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、モバイル Suica の払い戻し／譲渡可能性の問題は [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、Cyberne 経由の発行者間決済ビューは [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment 清算 and 決済 infrastructure]] と組み合わせる。[[payment-firms/rakuten-edy|Rakuten Edy]]（非交通系 FeliCa プリペイド）および交通系プリペイドの小売タップ量の一部を侵食してきた代替スキームの [[payments/japan-code-payment-competitive-map|コード決済 competitive map]] と比較すること。モバイル鉄道の Apple Pay／おサイフケータイのルーティングは、トークン化の取扱いについて [[payments/japan-card-security-authentication-controls|card security and authentication controls]] に交差する。
 
 ## TL;DR
 

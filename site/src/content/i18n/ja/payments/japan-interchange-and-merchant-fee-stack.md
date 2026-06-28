@@ -2,10 +2,11 @@
 source: payments/japan-interchange-and-merchant-fee-stack
 source_hash: 96c290f4de43a8da
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のインターチェンジと加盟店手数料スタック"
-translated_at: 2026-06-02T16:33:58.477Z
+translated_at: 2026-06-26T08:32:15.203Z
 ---
 # 日本のインターチェンジと加盟店手数料スタック
 
@@ -13,7 +14,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 このページは、日本のカード加盟店手数料とインターチェンジ関連開示の公開構造を記録する。対象範囲は、カード加盟店手数料の構成、イシュア手数料 / インターチェンジ開示、アクワイアラ経済性、関連する公開政策資料である。より広い加盟店 PSP 価格、決済準備金、チャージバック配分、ゲートウェイ価格は [[payments/psp-merchant-settlement-risk|PSP 加盟店決済 risk]] と [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] に振り分ける。
 
-このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|発行会社 / アクワイアラ / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct acquiring]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
+このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|発行会社 / アクワイアラ / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct アクワイアリング]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
 
 ## 手数料構成マップ
 

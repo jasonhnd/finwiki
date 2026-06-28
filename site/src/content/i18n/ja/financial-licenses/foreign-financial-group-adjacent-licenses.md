@@ -2,19 +2,18 @@
 source: financial-licenses/foreign-financial-group-adjacent-licenses
 source_hash: 2ff5c80a2dc12891
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国金融グループの近接ライセンス"
-translated_at: 2026-06-18T23:59:13.116Z
+translated_at: 2026-06-26T08:32:07.547Z
 ---
 
 # 日本における外国金融グループの近接ライセンス
 
-## 概要
+## 概要日本における外国金融グループは、しばしば単一のライセンスではなくスタックを通じて事業を行う。すなわち、外国銀行支店、証券会社／第一種金融商品取引業者（FIBO）、投資運用、信託／カストディ、外国銀行代理業、決済、または駐在員事務所である。適切な問いは「どの日本拠点が、どの規制対象業務を行っているか」である。
 
-日本における外国金融グループは、しばしば単一のライセンスではなくスタックを通じて事業を行う。すなわち、外国銀行支店、証券会社／第一種金融商品取引業者（FIBO）、投資運用、信託／カストディ、外国銀行代理業、決済、または駐在員事務所である。適切な問いは「どの日本拠点が、どの規制対象業務を行っているか」である。
-
-本ページは [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch license route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]] と併せて用いること。
+本ページは [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch license route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]] と併せて用いること。
 
 ## ライセンス・スタック
 
@@ -51,9 +50,7 @@ translated_at: 2026-06-18T23:59:13.116Z
 | カストディは付随的か、それとも主たるビジネスモデルか？ | カストディ系グループは信託／証券インフラのマップに結びつく。 |
 | レジストリの 1 行で十分か、それとも単独ページが存在するか？ | 戦略的、インフラ的、またはコリドー関連の法人のみを昇格させる。 |
 
-## 昇格ルール
-
-外国グループをレジストリのみから単独ページへ昇格させるのは、以下の少なくとも 1 つが当てはまる場合とする：
+## 昇格ルール外国グループをレジストリのみから単独ページへ昇格させるのは、以下の少なくとも 1 つが当てはまる場合とする：
 
 - 市場インフラ、カストディ、担保、または証券決済との関連性；
 - 日本に対する大規模な投資銀行／グローバル・マーケッツの関連性；

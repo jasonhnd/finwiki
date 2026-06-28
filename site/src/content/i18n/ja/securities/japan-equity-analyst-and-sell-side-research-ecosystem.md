@@ -2,25 +2,24 @@
 source: securities/japan-equity-analyst-and-sell-side-research-ecosystem
 source_hash: 66d37876a028887f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の株式アナリストおよびセルサイド・リサーチのエコシステム"
-translated_at: 2026-06-19T12:43:19.938Z
+translated_at: 2026-06-26T08:32:23.061Z
 ---
 
 # 日本の株式アナリストおよびセルサイド・リサーチのエコシステム
 
 ## Wiki route
 
-このページは [[securities/INDEX|securities index]] に属し、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]] および [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] のセルサイド・リサーチのピアとして機能する。発行体の開示（[[securities/tokyo-stock-exchange|TSE]] における TDnet / EDINET の隣接）、流通（[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]] におけるブローカー / オンライン・ブローカー・ルート）、および機関投資家の需要（[[securities/japan-asset-manager-landscape-matrix|AM landscape]] および [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]）の間に位置するアナリスト・カバレッジの地理を説明する。JapanFG operator anchor は [[securities-firms/nomura-hd|Nomura HD]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/daiwa-sg|Daiwa SG]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley MUFG]]、[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]、および [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]]；自主規制のアンカーは [[financial-regulators/jsda|JSDA]] と日本証券アナリスト協会（SAAJ / JSAA）である。
+このページは [[securities/INDEX|securities index]] に属し、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]] および [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] のセルサイド・リサーチのピアとして機能する。発行体の開示（[[securities/tokyo-stock-exchange|TSE]] における TDnet / EDINET の隣接）、流通（[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]] におけるブローカー / オンライン・ブローカー・ルート）、および機関投資家の需要（[[securities/japan-asset-manager-landscape-matrix|AM landscape]] および [[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介]]）の間に位置するアナリスト・カバレッジの地理を説明する。JapanFG 事業者 anchor は [[securities-firms/nomura-hd|Nomura HD]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/daiwa-sg|Daiwa SG]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley MUFG]]、[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]、および [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]]；自主規制のアンカーは [[financial-regulators/jsda|JSDA]] と日本証券アナリスト協会（SAAJ / JSAA）である。
 
 ## TL;DR
 
 日本のセルサイド株式リサーチ市場は、国内では野村、SMBC日興、大和、みずほ証券、三菱UFJモルガン・スタンレー証券（MUMSS）が主導する 5 極寡占であり、それと並行してゴールドマン・サックス・ジャパン、モルガン・スタンレー MUFG（MSMS の対消費者ブランド）、JPモルガン証券ジャパン、BofA 証券ジャパン、シティグループ・グローバル・マーケッツ・ジャパン、加えて UBS 証券ジャパンおよびバークレイズ・ジャパンというグローバル IB ティアが存在する。これらの既存勢力の先には、小規模ながら意味のある独立系リサーチ・セグメント（Astris Advisory、Japan Equity Research、Sumeru、加えて小規模なビューローや個人の公認アナリスト・ブティック）が存在する。日本のエコシステムは、MiFID II 後の欧州リサーチ市場とは構造的に異なる。なぜなら、日本は EU のインデュースメント・アンバンドリング体制を、リサーチの支払いと執行手数料との間のハードな分離へと完全には翻訳していないからである；その代わりに、FSA の顧客最善利益原則（顧客本位の業務運営）および JSDA 自主規制ルールが、英国 / EU のピアよりも明示的アンバンドリングが緩やかな、原則ベースの行為フレームワークを適用する。リサーチは主に Bloomberg、Refinitiv Eikon / Workspace、AlphaSense、各社自身の機関投資家クライアント・ポータル、および直接の PDF メールを通じて流通する；意味のある日本語のセルサイド・リサーチは、英語のベンダー宇宙の外側で流通している。
 
-## このエコシステムが重要な理由
-
-セルサイド株式リサーチは、発行体の開示と資産運用会社の配分決定の間に位置する分析の層である:
+## このエコシステムが重要な理由セルサイド株式リサーチは、発行体の開示と資産運用会社の配分決定の間に位置する分析の層である:
 
 1. **カバレッジは注目に等しい。** セルサイド・アナリストが誰もカバーしない銘柄は、マインドシェアが少なく、しばしばマルチプル・ディスカウントで取引され、構造的に高い資本コストに直面する。TSE Standard / Growth Market 銘柄の日本のロングテールは、体系的に薄いカバレッジに苦しむ。
 2. **新規カバレッジ開始およびレーティング変更レポートはフローを駆動する。** カバレッジ開始および目標株価の変更は株価を動かす；ブローカー / IB の経済性は、このアウトプットの信頼性、広さ、および適時性に依存する。
@@ -78,9 +77,7 @@ translated_at: 2026-06-19T12:43:19.938Z
 
 グローバル IB の日本リサーチ・アウトプットは世界規模のプラットフォームに統合されており、これは日本固有のアウトプットがグローバル機関投資家クライアントに流通されるグローバル・プロダクトの中の 1 つの章であることを意味する。これは、リサーチが主に日本国内で、または日本に焦点を当てたグローバル・アロケーターに流通される国内 5 極の大手とは構造的に異なる。
 
-## 独立系リサーチ・セグメント
-
-独立系（セルサイドに属さない）リサーチは、日本では小規模ながら成長しているセグメントである:
+## 独立系リサーチ・セグメント独立系（セルサイドに属さない）リサーチは、日本では小規模ながら成長しているセグメントである:
 
 | House | Character |
 |---|---|
@@ -108,9 +105,7 @@ translated_at: 2026-06-19T12:43:19.938Z
 
 注意点: 多くの日本語のセルサイド・レポートは、Bloomberg / Refinitiv をまったく経由しない；それらは各社のポータル / メール / QUICK を介して国内クライアントに送られる。英語のベンダー・スタックのみに依存するアナリストは、日本語のリサーチ・アウトプットを体系的に過少サンプリングする。
 
-## 規制の境界: インデュースメントおよび最良執行のコンテキスト
-
-日本のセルサイド・リサーチの規制フレームは、重要な点で EU の MiFID II インデュースメント体制と異なる:
+## 規制の境界: インデュースメントおよび最良執行のコンテキスト日本のセルサイド・リサーチの規制フレームは、重要な点で EU の MiFID II インデュースメント体制と異なる:
 
 | Dimension | EU MiFID II | Japan |
 |---|---|---|
@@ -123,18 +118,14 @@ translated_at: 2026-06-19T12:43:19.938Z
 
 クロスボーダーの複雑性: EU クライアントと取引する、または EU ビークルを通じて運営する日本の資産運用会社は、EU 側で MiFID II 由来のインデュースメント制約の対象となる可能性があり、その活動の一部について別個のリサーチ予算の取扱いを要求する。したがって、日本のブローカー・リサーチ・デスクは、通常の日本のクライアント関係と並んで MiFID 準拠の価格メニューを維持する。
 
-## JSAA / 証券アナリスト 資格
-
-公益社団法人 日本証券アナリスト協会（SAAJ / JSAA）は、証券アナリスト（Certified Member Analyst）資格を運営する —— これは日本のセルサイドおよびバイサイドのアナリストの間で支配的なアナリスト資格である。その関連性:
+## JSAA / 証券アナリスト資格公益社団法人日本証券アナリスト協会（SAAJ / JSAA）は、証券アナリスト（Certified Member Analyst）資格を運営する —— これは日本のセルサイドおよびバイサイドのアナリストの間で支配的なアナリスト資格である。その関連性:
 
 - CMA / CIIA 資格は、標準化されたアナリスト訓練と倫理規範のフレームワークを提供する。
 - この資格は [[securities/japan-asset-manager-landscape-matrix|domestic asset managers]] およびブローカー / IB のリサーチ・チームの内部で広く保有されている。
 - SAAJ は懲戒手続きおよび CPE 要件を運営する；これはグローバルな CFA 称号に最も近い日本の機能的アナログである（いくつかの形式で相互承認の取決めが存在する）。
 - SAAJ はまた、業界調査、アナリスト・ガイドライン、およびスチュワードシップ隣接の資料を公表する。
 
-## リーグテーブルおよび競争上の評価
-
-日本のセルサイド・リサーチのリーグテーブルは、以下によって定期的に公表される:
+## リーグテーブルおよび競争上の評価日本のセルサイド・リサーチのリーグテーブルは、以下によって定期的に公表される:
 
 - **Institutional Investor（II）All-Japan Research Team 調査** —— セクター別の年次のバイサイド投票によるランキング。
 - **日経ヴェリタス・アナリスト・ランキング** —— 日本語のバイサイド調査。
@@ -142,12 +133,10 @@ translated_at: 2026-06-19T12:43:19.938Z
 
 注意点: 調査方法は異なる；クロス調査のランキングは、方法を調整せずに組み合わせるべきではない。
 
-## 利益相反および監督
-
-支配的な利益相反のパターン:
+## 利益相反および監督支配的な利益相反のパターン:
 
 1. **リサーチ・バンキングの利益相反。** リサーチ・アナリストが、その発行体が引受クライアントである株式についてレーティングを発行すること。緩和策: チャイニーズ・ウォール手続き、公表前レビュー管理、制限リスト管理。
-2. **リサーチ・プライムブローカレッジ / 執行の利益相反。** カバレッジの強度は、カバーされる銘柄の最大の機関投資家保有者からの執行手数料およびプライムブローカレッジ手数料のフローと相関する。[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] の隣接を参照。
+2. **リサーチ・プライムブローカレッジ / 執行の利益相反。** カバレッジの強度は、カバーされる銘柄の最大の機関投資家保有者からの執行手数料およびプライムブローカレッジ手数料のフローと相関する。[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介]] の隣接を参照。
 3. **コーポレート・アクセスの利益相反。** 発行体の NDR / 経営陣ミーティングへのアクセスを、実質的にインデュースメントとして機能する方法で、優遇された機関投資家クライアントに配分すること。
 4. **発行体関係の利益相反。** カバーされる銘柄を格下げするアナリストが発行体の経営陣へのアクセスを失うこと。市場規律の反応は各社の文化によって異なる。
 5. **グループ銀行 / 引受関連会社の利益相反。** 銀行グループの関連を持つ 5 極の国内大手にとって、コーポレート・バンキングのクライアントと株式リサーチ・カバレッジの対象が重複する可能性がある。

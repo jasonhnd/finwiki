@@ -2,10 +2,11 @@
 source: securities-firms/ffg-securities
 source_hash: f65bcfdf817d0d5c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FFG 証券 (FFG 証券)"
-translated_at: 2026-06-02T14:25:12.405Z
+translated_at: 2026-06-26T08:32:23.071Z
 ---
 
 # FFG 証券 (FFG 証券)
@@ -14,9 +15,7 @@ translated_at: 2026-06-02T14:25:12.405Z
 
 本項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下で、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] における FG 子会社証券会社の事業会社アンカーとして置く。親銀行 [[regional-banks/fukuoka-bank|福岡銀行]]、兄弟会社 [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] と併読する。同業の FG 系証券比較は [[securities-firms/mebuki-securities|めぶき証券]]（[[regional-banks/mebuki-fg]] 配下）を、より広い制度・規制境界は [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] を参照。
 
-## 要約
-
-株式会社 FFG 証券は、[[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% 子会社の地銀系証券会社で、九州地盤 ([[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]) の中堅企業のメインバンク顧客向け資産運用・公募株引受・私募債仲介・事業承継助言 を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。九州地盤の銀証連携モデルの代表例。^[extracted]
+## 要約株式会社 FFG 証券は、[[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% 子会社の地銀系証券会社で、九州地盤 ([[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]) の中堅企業のメインバンク顧客向け資産運用・公募株引受・私募債仲介・事業承継助言 を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。九州地盤の銀証連携モデルの代表例。^[extracted]
 
 ## 1. ライセンス・グループ境界
 
@@ -24,9 +23,9 @@ translated_at: 2026-06-02T14:25:12.405Z
 |---|---|
 | 法人名 | 株式会社 FFG 証券 |
 | 英語名 | FFG 証券 Co., Ltd. |
-| ライセンス経路 | FIEA / 金商法 第一種金融商品取引業 (福岡財務支局長(金商)第 5 号) |
+| ライセンス経路 | FIEA / 金商法第一種金融商品取引業 (福岡財務支局長(金商)第 5 号) |
 | グループ境界 | [[regional-banks/fukuoka-fg]] **直接 100% 子会社（2022-04〜）**; [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] 銀証連携相手。2022-04 までは 福岡銀行 100% 子会社だったが、同月に持株会社 ふくおか FG 直下へ移管 |
-| 本社 | 福岡県福岡市中央区天神二丁目 13 番 1 号 福岡銀行本店ビル 9 階 |
+| 本社 | 福岡県福岡市中央区天神二丁目 13 番 1 号福岡銀行本店ビル 9 階 |
 | ウィキ上の役割 | 地域銀行 FG の証券子会社アンカー（九州地盤） |
 | 業界団体 | [[financial-regulators/jsda|日本証券業協会]] 正会員 |
 
@@ -48,27 +47,27 @@ translated_at: 2026-06-02T14:25:12.405Z
 
 ### FFG 設立とグループ統合
 
-- **2007-04-02**: [[regional-banks/fukuoka-fg|FFG]] 設立 ([[regional-banks/fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行 共同持株会社化)
+- **2007-04-02**: [[regional-banks/fukuoka-fg|FFG]] 設立 ([[regional-banks/fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行共同持株会社化)
 - **2007-10**: 親和銀行 を FFG 完全子会社化 (長崎県進出)
 - **2020-10-01**: 十八銀行 + 親和銀行 → [[regional-banks/18-shinwa-bank|十八親和銀行]] (長崎県地盤統合完了)
-- **2021-05-28**: みんなの銀行 開業 (日本初フルクラウドネイティブ・スマホ完結デジタルバンク)
+- **2021-05-28**: みんなの銀行開業 (日本初フルクラウドネイティブ・スマホ完結デジタルバンク)
 
-### FFG 証券 設立・展開
+### FFG 証券設立・展開
 
-- 1940-06-06 前田良三商店 創業 → 1944-07-07 前田証券株式会社 設立
+- 1940-06-06 前田良三商店創業 → 1944-07-07 前田証券株式会社設立
 - 2012-04 福岡銀行が完全子会社化し「ふくおか証券」へ商号変更
 - 2018-05 「FFG 証券株式会社」へ商号変更
-- **2022-04 福岡銀行 100% 子会社から ふくおかフィナンシャルグループ 直接 100% 子会社へ移管**（FFG グループ唯一の証券機能として再編）
+- **2022-04 福岡銀行 100% 子会社から ふくおかフィナンシャルグループ直接 100% 子会社へ移管**（FFG グループ唯一の証券機能として再編）
 - FFG グループ証券として、九州 3 県地盤 + 親 [[regional-banks/fukuoka-fg]] のデジタル戦略との連動を志向
 
 ## 4. KPI 表（概念整理）
 
 | 項目 | 概況 |
 |---|---|
-| 創業 / 設立 | 1940-06-06 創業（前身 前田良三商店）/ 1944-07-07 設立（前田証券）。2012-04 福岡銀行完全子会社化で「ふくおか証券」へ商号変更、2018-05 「FFG 証券」へ商号変更、2022-04 福岡銀行 → ふくおか FG 直下へ移管 |
+| 創業 / 設立 | 1940-06-06 創業（前身前田良三商店）/ 1944-07-07 設立（前田証券）。2012-04 福岡銀行完全子会社化で「ふくおか証券」へ商号変更、2018-05 「FFG 証券」へ商号変更、2022-04 福岡銀行 → ふくおか FG 直下へ移管 |
 | 資本金 | 30 億円 |
 | 役職員数 | 279 名（2025-04-01 現在）|
-| 本社 | 福岡県福岡市中央区天神二丁目 13 番 1 号 福岡銀行本店ビル 9 階 |
+| 本社 | 福岡県福岡市中央区天神二丁目 13 番 1 号福岡銀行本店ビル 9 階 |
 | 主要営業エリア | 福岡県・熊本県・長崎県 ([[regional-banks/fukuoka-fg]] 3 県) + 福岡市・全国 |
 | 業務領域 | 公募 / 私募株引受、債券仲介、投信、ファンドラップ、IPO 取次、M&A 仲介 |
 | 銀証連携 | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] 顧客紹介 |
@@ -84,7 +83,7 @@ translated_at: 2026-06-02T14:25:12.405Z
 | 個人向け証券仲介 | 九州 3 県地盤の個人投資家向け株式・投信仲介 |
 | ウェルスマネジメント | ファンドラップ・SMA 等資産運用商品 |
 | 公募株引受 | 地場上場企業の公募増資参画 (地銀系の引受団) |
-| 私募債仲介 | 中堅企業 メインバンク 連携の私募債組成 |
+| 私募債仲介 | 中堅企業メインバンク連携の私募債組成 |
 | IPO 取次 | 九州 IPO 案件取次 (主幹事は大手) |
 | M&A 仲介 | 事業承継・地域 M&A 助言 |
 | 銀証連携 | [[regional-banks/fukuoka-bank]] / [[regional-banks/18-shinwa-bank]] / [[regional-banks/kumamoto-bank]] からの紹介取引 |
@@ -92,19 +91,19 @@ translated_at: 2026-06-02T14:25:12.405Z
 ### FG 内ポジション
 
 - **銀証連携の中核**: [[regional-banks/fukuoka-fg]] 顧客 (個人・中堅企業) の証券窓口
-- **資産運用 クロスセル**: 銀行預金 → 投信 / ファンドラップへの顧客移行
-- **事業承継・M&A**: 九州中堅企業オーナー向け 助言 サービス
+- **資産運用クロスセル**: 銀行預金 → 投信 / ファンドラップへの顧客移行
+- **事業承継・M&A**: 九州中堅企業オーナー向け 助言サービス
 
 ### 競合構図
 
 - **大手証券** ([[securities-firms/nomura-hd|野村]] / [[securities-firms/daiwa-sg|大和]] / [[securities-firms/smbc-nikko]] / [[securities-firms/mizuho-securities]]): 都内大手案件では大手が優位、九州地場顧客では銀証連携で対抗
-- **ネット証券** ([[securities-firms/sbi-securities]] / [[securities-firms/rakuten-securities]] / [[securities-firms/matsui-sec]]): 個人デジタル取引では劣勢、対面 助言 で差別化
+- **ネット証券** ([[securities-firms/sbi-securities]] / [[securities-firms/rakuten-securities]] / [[securities-firms/matsui-sec]]): 個人デジタル取引では劣勢、対面助言 で差別化
 - **地銀系証券**: [[securities-firms/mebuki-securities]] (北関東) / [[securities-firms/okasan-sg]] (中京) 等の同型モデル
 - **九州競合**: [[regional-banks/nishi-nippon-fhd|西日本シティ銀]] 系・[[regional-banks/kyushu-fg|九州 FG]] 系証券子会社・[[regional-banks/hirogin-hd|広島]] 系証券との地域広域競合
 
 ### 強みと弱み
 
-- 強み: [[regional-banks/fukuoka-fg]] 3 県 21.9 兆円預金顧客基盤 (FY2025) + 九州中堅企業 メインバンク ネットワーク
+- 強み: [[regional-banks/fukuoka-fg]] 3 県 21.9 兆円預金顧客基盤 (FY2025) + 九州中堅企業メインバンクネットワーク
 
 ## 7. 規制・政策
 

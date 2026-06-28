@@ -2,16 +2,17 @@
 source: fintech/eu-mica-implementation-status-2026
 source_hash: 9133c712a99511bd
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "EU MiCA 実装状況 2026-05  · EMT/ART ライセンス図と USDT 撤退、USDC マーケットシェア再構築"
-translated_at: 2026-06-02T13:21:55.047Z
+translated_at: 2026-06-26T08:29:33.002Z
 ---
 # EU MiCA 実装状況 2026-05  · EMT/ART ライセンス図と USDT 撤退、USDC マーケットシェア再構築
 
 ## 要約
 
-EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は **2024-06 SC (EMT/ART) 部分施行**および **2024-12 全面施行**を経て、18 ヶ月の実装定常状態に入った。2026-05 時点の状況:**EMT 持牌方 約 22 社**(13 加盟国にまたがる)、**ART 持牌方 わずか 3 社**(Bitstamp Pay / Quantoz EURD / Société Générale 一部プロダクト)、**EU 主流取引所における USDT 流通はほぼ消滅**(2024-12 の約 28% シェアから 2026-05 には約 1% へ)、**USDC (Circle Europe Tight) と EURC の二軌が EU 法定通貨 SC 流通の 90%+ をカバー**、**Société Générale-FORGE EURCV** と **BBVA EUR stablecoin** が銀行系ユーロ SC の二大牽引役となった。規制側では **ESMA + EBA + 各国主管局 (BaFin / AMF / CSSF / Banca d'Italia 等) の協調が安定**しているが、**大型 EMT 流通額上限**と**ART のほぼ消滅**という 2 つの設計上の問題が露呈 —— [[fintech/mica-overview|MiCA 概観]] と [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]] を参照。
+EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は **2024-06 SC (EMT/ART) 部分施行**および **2024-12 全面施行**を経て、18 ヶ月の実装定常状態に入った。2026-05 時点の状況:**EMT 持牌方約 22 社**(13 加盟国にまたがる)、**ART 持牌方 わずか 3 社**(Bitstamp Pay / Quantoz EURD / Société Générale 一部プロダクト)、**EU 主流取引所における USDT 流通はほぼ消滅**(2024-12 の約 28% シェアから 2026-05 には約 1% へ)、**USDC (Circle Europe Tight) と EURC の二軌が EU 法定通貨 SC 流通の 90%+ をカバー**、**Société Générale-FORGE EURCV** と **BBVA EUR stablecoin** が銀行系ユーロ SC の二大牽引役となった。規制側では **ESMA + EBA + 各国主管局 (BaFin / AMF / CSSF / Banca d'Italia 等) の協調が安定**しているが、**大型 EMT 流通額上限**と**ART のほぼ消滅**という 2 つの設計上の問題が露呈 —— [[fintech/mica-overview|MiCA 概観]] と [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]] を参照。
 
 ## ウィキ上の位置づけ
 
@@ -34,7 +35,7 @@ EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は **2
 | 2026-02 | MiCA passport メカニズムが加盟国間で相互利用開始 | EMT ライセンスはオランダで取得すれば独/仏/伊で passport 可能 |
 | 2026-03 | BBVA EUR stablecoin (BBVA EURO) が Ethereum + Polygon でローンチ | 銀行系第二社がローンチ |
 | 2026-04 | ESMA Q&A 第 3 版更新、DAI/USDS/LUSD は MiCA 対象外だが EU public offer は禁止と明確化 | 分散型 SC のグレーゾーン境界 |
-| 2026-05 | EMT 持牌方 累計 22 社、ART 持牌方 3 社 | 実装定常状態 |
+| 2026-05 | EMT 持牌方累計 22 社、ART 持牌方 3 社 | 実装定常状態 |
 
 ## EMT (E-Money Token) 持牌方図 (2026-05)
 
@@ -103,8 +104,8 @@ EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は **2
 - 2023-04 初登場 (MiCA 以前に内部プロダクトとして)
 - 2025-09 に MiCA EMT 申請通過 (Société Générale-FORGE は SocGen の合弁 fintech 子会社)
 - 2026-Q1 に Stellar + Ethereum + Solana でローンチ
-- 準備金 フランス短期国債 + 商業銀行預金 + ECB deposit facility
-- 2026-05 流通 €60M、用途:大企業 B2B クロスボーダー決済 / 機関向け yield-bearing wallet テスト
+- 準備金フランス短期国債 + 商業銀行預金 + ECB deposit facility
+- 2026-05 流通 €60M、用途:大企業 B2B クロスボーダー決済 / 機関向け yield-bearing ウォレットテスト
 - [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]] と完全に整合 —— SocGen は EURCV を「半 SC 半 deposit token」と位置づける
 
 ### BBVA EURO

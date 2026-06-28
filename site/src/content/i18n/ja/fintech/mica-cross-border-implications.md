@@ -2,10 +2,11 @@
 source: fintech/mica-cross-border-implications
 source_hash: a46ae5951d9c976e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "MiCA のクロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + 米国-EU MRA 2026-Q3"
-translated_at: 2026-06-02T13:21:55.042Z
+translated_at: 2026-06-26T08:29:33.007Z
 ---
 
 # MiCA のクロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + 米国-EU MRA 2026-Q3
@@ -34,7 +35,7 @@ translated_at: 2026-06-02T13:21:55.042Z
 
 **三円 MRA の EU 柱**: 米国-EU MRA（2026-Q3 予定）= USDC ↔ EURC 双方向相互認証。Circle Europe は MiCA EMT 初回ライセンス発行者（USDC EU + EURC）で、GENIUS PPSI + MiCA EMT + Significant Token の三重コンプライアンスを同時に満たす → 大西洋横断「day-1 ダブル円コンプライアンス」独占。これが USDC が USDT より評価プレミアムを持つ核心的な構造的理由の 1 つ。
 
-**ESMA Q&A 3.4 アンカー**:明確に「MRA 待ち」 —— これが政策タイムテーブルのアンカー。任意の MiCA 第 1 波 §501(d) リスト入り = 三円 MRA EU 柱の実装。MiCA と DORA(2025-01-17 施行)が「事業 + レジリエンス」二軌規制を構成、DORA CTPP メカニズムは AWS / Anchorage / Coinbase Custody 等 SC 重要インフラを「間接的に規制対象に含める」。CASP 関連要件詳細は [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概要]] を、GENIUS / HKMA / MAS / JFSA との横断比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
+**ESMA Q&A 3.4 アンカー**:明確に「MRA 待ち」 —— これが政策タイムテーブルのアンカー。任意の MiCA 第 1 波 §501(d) リスト入り = 三円 MRA EU 柱の実装。MiCA と DORA(2025-01-17 施行)が「事業 + レジリエンス」二軌規制を構成、DORA CTPP メカニズムは AWS / Anchorage / Coinbase カストディ等 SC 重要インフラを「間接的に規制対象に含める」。CASP 関連要件詳細は [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概要]] を、GENIUS / HKMA / MAS / JFSA との横断比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
 **圧力プレイヤーの経路**:
 - Tether / USDT:MiCA 非受容 + Article 17 大型 SC 制限 → USDT の EU シェア 2024-12 ~28% → 2026-05 ~3% · HK 申請 + グレー市場へ転換

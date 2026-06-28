@@ -2,17 +2,16 @@
 source: exchanges/global-vasp-regulatory-comparison-matrix
 source_hash: 20430bae936c0172
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK"
-translated_at: 2026-06-02T12:19:04.220Z
+translated_at: 2026-06-26T08:28:38.457Z
 ---
 
 # グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK
 
-## 要約
-
-世界の主要 VASP (Virtual Asset Service Provider) 規制は **8 極構造** に収斂してきた: 日本 (FSA + JVCEA 二層) / 韓国 (FSC + FIU 単一) / 香港 (SFC VATP) / シンガポール (MAS DPT) / EU (MiCA CASP) / 米国 (連邦 + 50 州フラグメント) / UAE (VARA 単独) / 英国 (FCA AML 中心 + 段階的本格化)。本エントリは **法源・ライセンス階層・必要資本・分別管理 (cold storage %)・AML/Travel Rule・ステーブルコイン規制・クロスボーダー・マーケティング・代表執行例・開示・カーブアウト** の 13 軸で側並び比較する。各極の詳細は [[exchanges/jp-vasp-regulatory-timeline]] / [[exchanges/eu-mica-casp-regime-overview]] / [[exchanges/us-crypto-licensing-multi-layer-system]] / [[exchanges/hk-sfc-vasp-licensing-overview]] / [[exchanges/sg-mas-dpt-licensing-overview]] を起点に。
+## 要約世界の主要 VASP (Virtual Asset Service Provider) 規制は **8 極構造** に収斂してきた: 日本 (FSA + JVCEA 二層) / 韓国 (FSC + FIU 単一) / 香港 (SFC VATP) / シンガポール (MAS DPT) / EU (MiCA CASP) / 米国 (連邦 + 50 州フラグメント) / UAE (VARA 単独) / 英国 (FCA AML 中心 + 段階的本格化)。本エントリは **法源・ライセンス階層・必要資本・分別管理 (cold storage %)・AML/Travel Rule・ステーブルコイン規制・クロスボーダー・マーケティング・代表執行例・開示・カーブアウト** の 13 軸で側並び比較する。各極の詳細は [[exchanges/jp-vasp-regulatory-timeline]] / [[exchanges/eu-mica-casp-regime-overview]] / [[exchanges/us-crypto-licensing-multi-layer-system]] / [[exchanges/hk-sfc-vasp-licensing-overview]] / [[exchanges/sg-mas-dpt-licensing-overview]] を起点に。
 
 ## ウィキ上の位置づけ
 
@@ -40,18 +39,18 @@ translated_at: 2026-06-02T12:19:04.220Z
 
 | 極 | 区分名 | 数 | 階層構造 |
 |---|---|---|---|
-| **日本** | 暗号資産交換業登録 / 暗号資産デリバ取引業 (金商法 1 種) | 2 (現物+デリバ) | 単一登録 (財務局長 第NNNNN号) |
-| **韓国** | 仮想資産事業者 (VASP / 가상자산사업자) | 1 区分内で取引所/カストディ/Brokerage/送金 細分化 | FIU 登録 + KISA ISMS 認証 (二段階) |
+| **日本** | 暗号資産交換業登録 / 暗号資産デリバ取引業 (金商法 1 種) | 2 (現物+デリバ) | 単一登録 (財務局長第NNNNN号) |
+| **韓国** | 仮想資産事業者 (VASP / 가상자산사업자) | 1 区分内で取引所/カストディ/証券仲介/送金細分化 | FIU 登録 + KISA ISMS 認証 (二段階) |
 | **香港** | VATP ライセンス (Type 1 + Type 7 SFC) | 1 (リテール + 機関は同一ライセンス) | 単一 |
 | **シンガポール** | DPT サービス = MPI / SPI / Money-Changing | 3 区分 | 規模ベース階層 |
-| **EU** | CASP = MiCA Article 60 サービス 10 種 | 10 (custody / trading / exchange / 注文執行 等) | サービス別認可、組合せ取得 |
+| **EU** | CASP = MiCA Article 60 サービス 10 種 | 10 (カストディ / trading / exchange / 注文執行等) | サービス別認可、組合せ取得 |
 | **米国** | (a) FinCEN MSB / (b) 州 MTL ×~50 / (c) NY BitLicense / (d) OCC Trust / (e) SEC ATS or broker-dealer / (f) CFTC DCM/SEF | 4-6 重 | 連邦 + 州マトリクス |
-| **UAE** | VASP 活動別 7 区分 (Advisory / Broker-Dealer / Custody / Exchange / Lending / Management / Transfer) | 7 | 活動別組合せ |
+| **UAE** | VASP 活動別 7 区分 (Advisory / Broker-Dealer / カストディ / Exchange / Lending / Management / Transfer) | 7 | 活動別組合せ |
 | **英国** | MLR 暗号資産事業者登録 (現行) → 規制活動 (2026-2027 phased) | 1 → 拡張中 | AML 単層 → 二段階 (planned) |
 
-### C. 活動カバレッジ (spot / derivatives / custody / staking / lending / NFT marketplace)
+### C. 活動カバレッジ (spot / derivatives / カストディ / staking / lending / NFT marketplace)
 
-| 極 | Spot | Deriv | Custody | Staking | Lending | NFT mkt |
+| 極 | Spot | Deriv | カストディ | Staking | Lending | NFT mkt |
 |---|---|---|---|---|---|---|
 | **日本** | ○ | ○ (金商法 1 種、別ライセンス) | ○ | △ JVCEA 自主規制下 ([[exchanges/jp-cex-staking-lending-regulation]]) | △ 同上 | △ 別途検討 |
 | **韓国** | ○ | ✕ (利用者保護法でリテール禁止) | ○ | △ ガイドライン未確定 | △ 同上 | △ |
@@ -72,7 +71,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 | **シンガポール** | MPI: SG$250K 基本 | trust account 必須 (2024-) | 比率規定なし (MAS notice で趣旨指示) |
 | **EU** | 注文取次 €50K / 両替・執行 €125K / 取引所・カストディ **€150K** | 信託 or segregation 義務 | 比率規定なし (NCA 裁量) |
 | **米国** | 州別 (NY BitLicense は実質的に高額 surety bond + capital) | NY: 顧客資産 100% 同種別 backing | 州別、NY DFS は事実上 cold dominant 求める |
-| **UAE** | VASP カテゴリ別 (Exchange は AED 1.5M〜) | 信託または segregated wallet | VARA Rulebook で risk-based 規定 |
+| **UAE** | VASP カテゴリ別 (Exchange は AED 1.5M〜) | 信託または segregated ウォレット | VARA Rulebook で risk-based 規定 |
 | **英国** | 規定なし (現行 MLR ベースのため) | MLR では未義務、FSMA 2026+ 拡張で導入予定 | 規定なし |
 
 ### E. Fit-and-proper / 出資金来源
@@ -91,7 +90,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 | 極 | 閾値 | Travel Rule | 国内伝達基盤 |
 |---|---|---|---|
 | **日本** | 10 万円超 (送金 10 万円・受領 30 万円基準) | 2022-04 義務化 → 2026 強化 | TRC-20 や Sumsub 連携、JVCEA 共通基盤 ([[exchanges/jp-vasp-aml-travel-rule-implementation]]) |
-| **韓国** | 100 万ウォン超 (約 10 万円) | 2022-03 義務化 | VerifyVASP 等業界 共通 |
+| **韓国** | 100 万ウォン超 (約 10 万円) | 2022-03 義務化 | VerifyVASP 等業界共通 |
 | **香港** | HK$8,000 超 | AMLO で義務 (2023-06-) | 業界 protocol 任意選択 |
 | **シンガポール** | SG$1,500 超 | PSA Notice PSN02 で義務 | 業界 protocol 任意 |
 | **EU** | **€1,000 超** (TFR = Regulation 2023/1113) | 完全実装 (CASP 義務) | Sumsub / Notabene 等 |
@@ -107,7 +106,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 - **シンガポール**: MAS Stablecoin Framework 2023-08 発表、SCS (Single-Currency Stablecoin) 認可制
 - **EU**: MiCA Title III (ART = Asset-Referenced Token) + Title IV (EMT = E-Money Token) を 2024-06-30 から先行施行
 - **米国**: GENIUS Act 2025-07 連邦 stablecoin 法成立 → 連邦 + 州二層構造、OCC Trust Charter 経路もあり
-- **UAE**: Central Bank Stored Value Facilities Reg + VARA でステーブルコイン分担
+- **UAE**: Central Bank バリュー残高 Facilities Reg + VARA でステーブルコイン分担
 - **英国**: FCA + Bank of England 共同で systemic stablecoin 規制、2026 法整備中
 
 ### H. クロスボーダー solicitation / passporting

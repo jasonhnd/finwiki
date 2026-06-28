@@ -2,17 +2,16 @@
 source: banking/regional-bank-api-digital-partnership-route
 source_hash: ffdf1c48bc294668
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における地方銀行の API・デジタル提携ルート"
-translated_at: 2026-06-02T11:47:37.265Z
+translated_at: 2026-06-26T08:28:46.043Z
 ---
 
 # 日本における地方銀行の API・デジタル提携ルート
 
-## 概要
-
-日本における地方銀行のデジタル提携は、単なる「銀行アプリ」ではない。電子決済代行業の API 契約、共通 API プラットフォーム、銀行自社アプリ、会計 / 財務連携、BaaS 型の銀行提携、口座直結の決済レールに分かれる。
+## 概要日本における地方銀行のデジタル提携は、単なる「銀行アプリ」ではない。電子決済代行業の API 契約、共通 API プラットフォーム、銀行自社アプリ、会計 / 財務連携、BaaS 型の銀行提携、口座直結の決済レールに分かれる。
 
 本ページは [[payments/japan-bank-api-payment-agency-route|bank API route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/regional-bank-consolidation-pattern|regional bank consolidation]]、[[payments/account-to-account-payment-japan|account-to-account payments]]、[[financial-licenses/INDEX|legal / financial licenses]] と併せて用いること。
 
@@ -24,7 +23,7 @@ translated_at: 2026-06-02T11:47:37.265Z
 | 共通地域 API プラットフォーム | 地方銀行アライアンス / システム子会社 | 共通 API プラットフォームおよびシステムベンダー | 複数行向けの同一仕様または共通接続層。 | 全銀協のオープン API 契約 / 原則に加え、各行の方針。 |
 | 地方銀行公式アプリ | 地方銀行およびアプリ運営者 | 銀行アプリ、グループのフィンテック子会社、地域サービスプラットフォーム | 口座照会、振替、ポイント、デビット、貯蓄、地域コマース機能。 | 銀行免許、外部委託、該当する場合は電子決済代行業 / 銀行代理業ルート。 |
 | BaaS / 組込サービス | 銀行またはデジタル銀行パートナー | 非銀行プラットフォームまたはフィンテック | 別のサービスに組み込まれた口座 / 決済 / 本人確認 / 残高 UX。 | 銀行免許に加え、API / 代理業 / 仲介の契約。 |
-| 口座直結決済 | 地方銀行に決済ネットワークを加えたもの | Bank Pay / J-Debit / 口座直結の加盟店ルート | 銀行口座からの加盟店決済。 | [[payments/account-to-account-payment-japan|A2A route]] および [[payments/merchant-bank-pay-account-direct-acquiring|merchant acquiring controls]]。 |
+| 口座直結決済 | 地方銀行に決済ネットワークを加えたもの | Bank Pay / J-Debit / 口座直結の加盟店ルート | 銀行口座からの加盟店決済。 | [[payments/account-to-account-payment-japan|A2A route]] および [[payments/merchant-bank-pay-account-direct-acquiring|加盟店アクワイアリング controls]]。 |
 
 ## 地方銀行の例
 
@@ -60,7 +59,7 @@ translated_at: 2026-06-02T11:47:37.265Z
 2. 金融庁の電子決済代行業登録簿と当該銀行の API 開示ページを確認する。
 3. 読み取り専用の情報 API を、更新 / 振替指図の API と区別する。
 4. システムが銀行固有の API か、共有のアライアンス / ベンダープラットフォームかを確認する。
-5. 決済機能を [[payments/account-to-account-payment-japan|A2A payment route]] に、ウォレット機能を [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] にリンクする。
+5. 決済機能を [[payments/account-to-account-payment-japan|A2A payment route]] に、ウォレット機能を [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] にリンクする。
 
 ## 関連項目
 

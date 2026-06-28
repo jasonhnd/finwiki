@@ -2,10 +2,11 @@
 source: loyalty/ponta-points-deep-dive
 source_hash: 206748c3f6f4dcfa
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor"
-translated_at: 2026-06-19T06:09:18.129Z
+translated_at: 2026-06-26T08:32:23.050Z
 ---
 
 # Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor

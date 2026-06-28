@@ -2,10 +2,11 @@
 source: systems/cctp-v2-technical-spec
 source_hash: debba25bb3b731d6
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "CCTP V2 技術仕様 ・高速転送 ・フック ・認証サービス"
-translated_at: 2026-06-03T00:53:08.317Z
+translated_at: 2026-06-26T08:29:40.693Z
 ---
 
 # CCTP V2 技術仕様 ・高速転送 ・フック ・認証サービス
@@ -39,7 +40,7 @@ Hooks の設計インスピレーションは部分的に [[systems/erc-4337-ove
 - [[INDEX|Wiki Index]]
 - [[systems/cctp-v2-overview|CCTP V2 Overview]]
 - [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton]]
-- [[agent-economy/ap2-technical-spec|AP2(USDC settlement adapter)]]
+- [[agent-economy/ap2-technical-spec|AP2(USDC 決済 adapter)]]
 <!-- /wiki-links:managed -->
 ## 出典
 - Circle CCTP V2 docs(developers.circle.com)

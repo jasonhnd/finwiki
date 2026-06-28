@@ -2,10 +2,11 @@
 source: fintech/jamaica-jam-dex-cbdc
 source_hash: d6cf1ad54e7b87a0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ジャマイカ JAM-DEX - Bank of Jamaica のリテール CBDC、Lynk ウォレット採用、eCurrency Mint ベンダー"
-translated_at: 2026-06-02T13:21:55.086Z
+translated_at: 2026-06-26T08:31:59.822Z
 ---
 
 # ジャマイカ JAM-DEX - Bank of Jamaica のリテール CBDC、Lynk ウォレット採用、eCurrency Mint ベンダー

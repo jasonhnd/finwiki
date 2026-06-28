@@ -2,10 +2,11 @@
 source: payment-firms/ibank-marketing
 source_hash: 0fb26e7b5b457d96
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "iBank マーケティング (iBank Marketing)"
-translated_at: 2026-06-02T14:25:12.388Z
+translated_at: 2026-06-26T08:32:07.542Z
 ---
 
 # iBank マーケティング (iBank Marketing)

@@ -2,10 +2,11 @@
 source: derivatives/japan-cds-market-overview
 source_hash: 13454e3cba9010d1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 CDS 市場概観"
-translated_at: 2026-06-18T23:33:48.310Z
+translated_at: 2026-06-26T08:29:25.267Z
 ---
 
 # 日本 CDS 市場概観
@@ -18,7 +19,7 @@ translated_at: 2026-06-18T23:33:48.310Z
 
 本エントリは、日本クレジット・デリバティブ・サブドメインのルーティング・サーフェスとして [[derivatives/INDEX|derivatives index]] の下に位置する。シングルネームのプライシングレイヤーについては [[derivatives/cds-japan-corporate-spread-mechanics|Japan corporate CDS spread mechanics]]、アービトラージレイヤーについては [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]]、より広範なレート・スワップの文脈については [[derivatives/japan-irs-market|Japan IRS market]]、ファンディングカーブの相互作用については [[derivatives/yen-basis-swap-market|yen basis swap market]]、日本の機関投資家のバランスシートを支配する米ドル・ファンディングのオーバーレイについては [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] と併せて読むこと。
 
-発行体側では、コーポレート・クレジットのアンカーページは [[finance/INDEX|finance index]]、[[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]]、[[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]] である。ユーザー側では、[[banking/INDEX|banking index]] と [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] がクレジットヘッジツールに対するメガバンク / 保険の需要を枠組みづける。[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] は、シングルネーム CDS の流動性を支えるディーラー対ヘッジファンドのプラミングを枠組みづける。
+発行体側では、コーポレート・クレジットのアンカーページは [[finance/INDEX|finance index]]、[[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]]、[[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]] である。ユーザー側では、[[banking/INDEX|banking index]] と [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] がクレジットヘッジツールに対するメガバンク / 保険の需要を枠組みづける。[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介 and institutional financing]] は、シングルネーム CDS の流動性を支えるディーラー対ヘッジファンドのプラミングを枠組みづける。
 
 ### プロダクト分類
 
@@ -50,9 +51,7 @@ iTraxx Japan は、最も流動的な 50 日本に所在する投資適格社債
 
 各ロールでは、流動性と格付け基準に基づき少数の構成銘柄ローテーションが発生する。前シリーズはレガシーヘッジ向けに引き続き取引可能だが、流動性は新しいオンザラン・シリーズに急速に移行する。
 
-### シングルネーム CDS のカバレッジ
-
-日本におけるシングルネーム CDS の流動性は、国際的にフォローされる一握りのクレジットに集中する:
+### シングルネーム CDS のカバレッジ日本におけるシングルネーム CDS の流動性は、国際的にフォローされる一握りのクレジットに集中する:
 
 | ティア | 例 | 流動性の特徴 |
 |---|---|---|
@@ -77,15 +76,11 @@ iTraxx Japan は、最も流動的な 50 日本に所在する投資適格社債
 
 [[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/daiwa-sg|Daiwa]]、Mizuho Securities は歴史的にシングルネーム CDS に参加していたが、2008 以降の規制・資本の変更を受けて、活発なディーラー・マーケットメーキングの役割から後退した。国内メガバンクグループは、ディーラー・マーケットメーカーというより、ポートフォリオヘッジ目的 (自社クレジットヘッジ、ソブリンベーシスヘッジ) の大口カウンターパーティであり続けている。
 
-### 想定元本残高
-
-国際決済銀行 (BIS) は、参照エンティティ地域別のグローバル CDS 想定元本残高に関する半期統計を公表している。日本の参照エンティティ CDS は小さなシェア — 典型的にはグローバルなシングルネーム CDS 想定元本の 2-4 パーセント、インデックス CDS 想定元本も同程度のシェア — を占め、米ドルおよびユーロ市場を大きく下回る。
+### 想定元本残高国際決済銀行 (BIS) は、参照エンティティ地域別のグローバル CDS 想定元本残高に関する半期統計を公表している。日本の参照エンティティ CDS は小さなシェア — 典型的にはグローバルなシングルネーム CDS 想定元本の 2-4 パーセント、インデックス CDS 想定元本も同程度のシェア — を占め、米ドルおよびユーロ市場を大きく下回る。
 
 日本国内では、インデックス CDS が想定元本でドミネートする (マクロヘッジと ETF レプリケーションのフローによる) 一方、シングルネーム CDS が顧客の多様性でドミネートする (ストラクチャード商品の発行と特異的なクレジットヘッジによる)。
 
-### 清算インフラ
-
-日本の CDS 清算は二分される:
+### 清算インフラ日本の CDS 清算は二分される:
 
 | ベニュー | カバレッジ | 通貨 | メンバー基盤 |
 |---|---|---|---|

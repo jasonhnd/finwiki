@@ -2,10 +2,11 @@
 source: banking/jasdec-settlement-operations
 source_hash: ca7e958cea3103af
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JASDEC 決済業務"
-translated_at: 2026-06-18T23:33:48.338Z
+translated_at: 2026-06-26T08:31:59.819Z
 ---
 
 # JASDEC 決済業務

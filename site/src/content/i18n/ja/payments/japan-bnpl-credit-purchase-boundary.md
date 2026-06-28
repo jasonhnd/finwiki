@@ -2,18 +2,17 @@
 source: payments/japan-bnpl-credit-purchase-boundary
 source_hash: 39e2fd462fc30fa4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の BNPL と信用購入境界"
-translated_at: 2026-06-02T16:33:58.498Z
+translated_at: 2026-06-26T08:28:53.966Z
 ---
 # 日本の BNPL と信用購入境界
 
-## 概要
+## 概要日本の BNPL は、別個の魔法のようなカテゴリではなく、チェックアウト信用の境界として扱うのが最もよい。商品は「あと払い」に見えても、その法的 / 運用上のルートは、割賦販売、信用購入あっせん、加盟店管理、消費者審査、コンビニ返済、ウォレット連携、貸金に触れることがある。
 
-日本の BNPL は、別個の魔法のようなカテゴリではなく、チェックアウト信用の境界として扱うのが最もよい。商品は「あと払い」に見えても、その法的 / 運用上のルートは、割賦販売、信用購入あっせん、加盟店管理、消費者審査、コンビニ返済、ウォレット連携、貸金に触れることがある。
-
-このページは [[payments/INDEX|payments domain]]、[[payment-firms/bnpl-landscape|Japan BNPL landscape]]、[[payment-firms/paidy|Paidy]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]]、[[payments/cashless-jp-landscape|cashless landscape]] と併せて用いる。
+このページは [[payments/INDEX|payments domain]]、[[payment-firms/bnpl-landscape|Japan BNPL landscape]]、[[payment-firms/paidy|Paidy]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]]、[[payments/cashless-jp-landscape|cashless landscape]] と併せて用いる。
 
 ## 境界マップ
 
@@ -27,9 +26,7 @@ translated_at: 2026-06-02T16:33:58.498Z
 | 加盟店負担の繰延払い | 加盟店またはプラットフォームが信用リスクを負っているか。 | 加盟店契約、消費者開示、債権リスク。 |
 | 現金化 / 有害な後払い | 商品が後払い悪用を通じた現金取得に使われているか。 | 消費者庁警告ルートと信用 / 貸金境界チェック。 |
 
-## 日本が異なる理由
-
-日本には、世界的な BNPL ブーム以前から成熟した割賦販売およびカード分割インフラがあった。そのため BNPL は、次のものと競合し、ときに似た姿を取る。
+## 日本が異なる理由日本には、世界的な BNPL ブーム以前から成熟した割賦販売およびカード分割インフラがあった。そのため BNPL は、次のものと競合し、ときに似た姿を取る。
 
 - [[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]] が提供するクレジットカード分割 / リボ商品。
 - [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/credit-saison|Credit Saison]] などの従来型クレジット / ショッピングクレジット事業者。
@@ -52,7 +49,7 @@ translated_at: 2026-06-02T16:33:58.498Z
 - [[payment-firms/paidy|Paidy]] は、PayPal が日本ローカル BNPL プラットフォームとして買収したため anchor である。
 - [[payment-firms/bnpl-landscape|Japan BNPL landscape]] は会社 / 市場の見方を与え、このページは法的 / 運用上の境界を与える。
 - [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/toyota-finance|Toyota Finance]]、[[consumer-finance/shinsei-financial|Shinsei Financial]] は既存の信用 / 割賦比較 anchor である。
-- [[payments/japan-card-issuer-acquirer-processor-split|Card issuer / acquirer split]] は、BNPL がカードと同じ加盟店チェックアウトで提供される場合に必要である。
+- [[payments/japan-card-issuer-acquirer-processor-split|Card 発行会社 / アクワイアラ split]] は、BNPL がカードと同じ加盟店チェックアウトで提供される場合に必要である。
 
 ## 調査チェックリスト
 

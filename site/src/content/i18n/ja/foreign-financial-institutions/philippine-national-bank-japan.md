@@ -2,16 +2,17 @@
 source: foreign-financial-institutions/philippine-national-bank-japan
 source_hash: fb03cfdf862fc1bc
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "フィリピン・ナショナル・バンク日本支店"
-translated_at: 2026-06-02T15:14:17.077Z
+translated_at: 2026-06-26T08:32:23.064Z
 ---
 # フィリピン・ナショナル・バンク日本支店
 
 ## ウィキ上の位置づけ
 
-Philippine National Bank Japanは、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 内のフィリピン-日本間の銀行回廊を扱うページである。[[foreign-financial-institutions/metrobank-japan|Metrobank Japan]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/account-to-account-payment-japan|account-to-account payment]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]] とあわせて読む。
+Philippine National Bank Japanは、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 内のフィリピン-日本間の銀行回廊を扱うページである。[[foreign-financial-institutions/metrobank-japan|Metrobank Japan]]、[[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、[[payments/account-to-account-payment-japan|account-to-account payment]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]] とあわせて読む。
 
 このページは、PNB東京 / 名古屋、送金、日本拠点の預金口座、住宅ローン、フィリピン居住者・ディアスポラ向け銀行サービスの文脈で使う。
 

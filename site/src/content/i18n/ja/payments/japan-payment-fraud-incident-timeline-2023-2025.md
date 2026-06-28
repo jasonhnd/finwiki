@@ -2,21 +2,20 @@
 source: payments/japan-payment-fraud-incident-timeline-2023-2025
 source_hash: dcaeb8256a115a81
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の決済不正インシデント・タイムライン 2023-2025"
-translated_at: 2026-06-19T06:09:18.065Z
+translated_at: 2026-06-26T08:32:15.205Z
 ---
 
 # 日本の決済不正インシデント・タイムライン 2023-2025
 
-## Wiki ルート
-
-本項目は [[payments/INDEX|payments index]] の下に位置する、時系列のインシデント・取締りページであり、J-CSC ガイドライン 6.0 / 6.1  のコントロール・フレームワークについては [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] と、銀行レール固有の不正サーフェスについては [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] と、4 クラスのコンテキストについては [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] とペアになる。各インシデント・クラスでどの当事者がチャージバック・リスクを負うかについては [[payments/japan-card-issuer-acquirer-processor-split|card role split]] と、PSP オンボーディングの失敗事例については [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] と、後払い経由の現金化乱用については [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] と比較すること。カードブランドのコンテキストは [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]]、[[payment-firms/mastercard-japan|Mastercard Japan]]、[[card-issuers/jcb|JCB]] である; 主要なカード発行者アンカーは [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]] である。
+## Wiki ルート本項目は [[payments/INDEX|payments index]] の下に位置する、時系列のインシデント・取締りページであり、J-CSC ガイドライン 6.0 / 6.1  のコントロール・フレームワークについては [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] と、銀行レール固有の不正サーフェスについては [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] と、4 クラスのコンテキストについては [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] とペアになる。各インシデント・クラスでどの当事者がチャージバック・リスクを負うかについては [[payments/japan-card-issuer-acquirer-processor-split|card role split]] と、PSP オンボーディングの失敗事例については [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] と、後払い経由の現金化乱用については [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] と比較すること。カードブランドのコンテキストは [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]]、[[payment-firms/mastercard-japan|Mastercard Japan]]、[[card-issuers/jcb|JCB]] である; 主要なカード発行者アンカーは [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]] である。
 
 ## TL;DR
 
-日本の決済不正における 2023-2025  の期間は、**4 つの収斂するサーフェス**によって定義された: (1) オンラインマーチャントで使用される漏洩 / フィッシングされたカード番号に駆動されるクレジットカード EC 不正で、METI 6.0 / 6.1  J-CSC ガイドラインの厳格化と、2025-03 からの EC カード決済に対する **EMV 3-DS 必須化** の要件につながった; (2) 被害者が金融機関を装う SMS を受け取り、フィッシングサイトで認証情報を入力し、正当に見える銀行アプリまたは銀行 API の引き落とし経由で資金を失う **スミッシング主導の銀行 API 不正指図**; (3) PayPay / d払い / au PAY / 楽天ペイ をまたいで発生する **コード決済の不正使用事例**で、しばしばクレデンシャル・スタッフィングまたはソーシャル・エンジニアリングからのアカウント乗っ取りに結びつく; (4) 不十分な KYM（know-your-merchant）コントロールが、不正なマーチャントがカード取引を獲得しチャージバック前に消えることを許した **PSP マーチャント・オンボーディングの失敗**。FSA、METI、警察庁、および全国銀行協会が公的警告キャンペーンを調整した; 累積的な規制対応は、コントロール基準とマーチャント / PSP オンボーディングの厳格さの双方について、急激に高い 2025 ベースラインを設定した。
+日本の決済不正における 2023-2025  の期間は、**4 つの収斂するサーフェス**によって定義された: (1) オンラインマーチャントで使用される漏洩 / フィッシングされたカード番号に駆動されるクレジットカード EC 不正で、METI 6.0 / 6.1  J-CSC ガイドラインの厳格化と、2025-03 からの EC カード決済に対する **EMV 3-DS 必須化** の要件につながった; (2) 被害者が金融機関を装う SMS を受け取り、フィッシングサイトで認証情報を入力し、正当に見える銀行アプリまたは銀行 API の引き落とし経由で資金を失う **スミッシング主導の銀行 API 不正指図**; (3) PayPay / d払い / au PAY / 楽天ペイ をまたいで発生する **コード決済の不正使用事例**で、しばしばクレデンシャル・スタッフィングまたはソーシャル・エンジニアリングからのアカウント乗っ取りに結びつく; (4) 不十分な KYM（know-your-加盟店）コントロールが、不正なマーチャントがカード取引を獲得しチャージバック前に消えることを許した **PSP マーチャント・オンボーディングの失敗**。FSA、METI、警察庁、および全国銀行協会が公的警告キャンペーンを調整した; 累積的な規制対応は、コントロール基準とマーチャント / PSP オンボーディングの厳格さの双方について、急激に高い 2025 ベースラインを設定した。
 
 ## 集計不正損失のコンテキスト
 
@@ -37,7 +36,7 @@ translated_at: 2026-06-19T06:09:18.065Z
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
 | EC カード不正損失が高止まり継続 | マーチャント侵害およびフィッシング経路を通じたカード番号の漏洩が、持続的な EC 不正使用ボリュームを駆動した; 非対面チャネルが支配的な不正損失クラスであり続けた | METI / 日本クレジット協会が全 EC カードアクセプタンスに対する EMV 3-DS の義務化へ向かった; J-CSC ガイドライン 5.0 → 6.0  改訂パイプラインが加速 |
-| 主要銀行に対するスミッシングの波 | MUFG、SMBC、みずほ、楽天銀行 等を装う SMS ベースのフィッシングが被害者を認証情報採取サイトへ誘導; 続く不正な銀行アプリまたはインターネットバンキング送金 | 全国銀行協会が継続的な公的警告を発した; FSA が銀行にデバイスバインディング、アプリインストール検証、高額送金認証の強化を促した |
+| 主要銀行に対するスミッシングの波 | MUFG、SMBC、みずほ、楽天銀行等を装う SMS ベースのフィッシングが被害者を認証情報採取サイトへ誘導; 続く不正な銀行アプリまたはインターネットバンキング送金 | 全国銀行協会が継続的な公的警告を発した; FSA が銀行にデバイスバインディング、アプリインストール検証、高額送金認証の強化を促した |
 | コード決済アカウント乗っ取り事例 | クレデンシャル・スタッフィングおよび SIM スワップ経路を介したアカウント乗っ取りの試みが、複数のウォレットで不正なコード決済支出を引き起こした | ウォレット・オペレーターがデバイス変更の再認証と高額取引の OTP 強制を厳格化 |
 | FSA 取締り行為 | AML / 不正コントロールの不備に対する銀行、カード発行者、前払い発行者への定期的な行政処分 | オペレーターごとの公的ニュースルーム・リリース |
 
@@ -57,7 +56,7 @@ translated_at: 2026-06-19T06:09:18.065Z
 |---|---|---|
 | EC カード決済に対する EMV 3-DS 必須化 | 2025-03,  から、EC カードアクセプタンスは J-CSC ガイドライン 6.0 / 6.1  フレームワークの下で EMV 3-DS 認証を要求された | 業界全体のコンプライアンス・プレッシャー; 非準拠の EC マーチャントはカード決済アクセプタンスの喪失リスクを負った |
 | 銀行 API スミッシングの継続 | 銀行 API 不正指図のサーフェスは、厳格化された認証にもかかわらず 2025  へ持続した; 攻撃者の手口は進化した（フィッシングサイトでの捕捉に続く AI 生成の音声通話フォローアップを含む）| 銀行と FSA が公的アラートを継続; 調整された銀行横断モニタリングが強化された |
-| コード決済不正事例 | PayPay、d払い、au PAY、楽天ペイ ウォレットに対するアカウント乗っ取りとソーシャル・エンジニアリングの事例が継続; 一部の事例は同じ被害者に対する調整されたウォレット横断攻撃を含んだ | ウォレット・オペレーターがデバイスバインディングと高額取引コントロールの強化を継続 |
+| コード決済不正事例 | PayPay、d払い、au PAY、楽天ペイウォレットに対するアカウント乗っ取りとソーシャル・エンジニアリングの事例が継続; 一部の事例は同じ被害者に対する調整されたウォレット横断攻撃を含んだ | ウォレット・オペレーターがデバイスバインディングと高額取引コントロールの強化を継続 |
 | 複数オペレーターに対する FSA 取締り | コントロールの不備に対する銀行、カード発行者、PSP、前払い発行者への取締りが継続 | オペレーターごとの公的ニュースルーム・リリース |
 | 税務当局 / 政府なりすましスミッシング | 特に納税期限の窓口周辺で高まったボリューム; 消費者向け警告がエスカレート | 消費者庁と警察庁が公的警告キャンペーンを継続 |
 
@@ -79,7 +78,7 @@ translated_at: 2026-06-19T06:09:18.065Z
 |---|---|
 | 3-D Secure なしのカード EC 不正 | マーチャント（チャージバック責任）|
 | 3-D Secure が正常に完了したカード EC 不正 | 発行者（責任シフト）|
-| 消費者口座への銀行 API 不正引き落とし | 銀行（消費者が無過失の場合、預金者保護法 フレームワークの下で）|
+| 消費者口座への銀行 API 不正引き落とし | 銀行（消費者が無過失の場合、預金者保護法フレームワークの下で）|
 | コード決済の不正使用 | T&C ごとのウォレット・オペレーター; 事例固有の証拠により異なる |
 | カード発行者侵害の再発行 | 発行者 |
 | PSP マーチャント・オンボーディングの失敗 | PSP / アクワイアラー / 時にブランドが一部を吸収 |
@@ -103,16 +102,14 @@ translated_at: 2026-06-19T06:09:18.065Z
 
 機関横断の調整はますます緊密になっている —— 2024-2025  のほとんどの主要インシデントは、数日以内に FSA、警察庁、および関連する業界団体にわたる調整された公的アラートを引き起こした。
 
-## 消費者保護フレームワークの比較
-
-保護フレームワークはサーフェスをまたいで実質的に異なり、これが、不正イベントでどのスキームが使用されたかに応じて同じ消費者が非常に異なる結果に直面しうる理由の一つである:
+## 消費者保護フレームワークの比較保護フレームワークはサーフェスをまたいで実質的に異なり、これが、不正イベントでどのスキームが使用されたかに応じて同じ消費者が非常に異なる結果に直面しうる理由の一つである:
 
 | Scheme | Primary consumer-protection lever | Strength |
 |---|---|---|
-| カード EC（3-D Secure あり）| ブランドのチャージバック・ルール + 分割契約に対する割賦販売法 抗弁の接続 | 強い |
+| カード EC（3-D Secure あり）| ブランドのチャージバック・ルール + 分割契約に対する割賦販売法抗弁の接続 | 強い |
 | カード EC（3-D Secure なし）| ブランドのチャージバック・ルール; マーチャント責任シフト | 強いがマーチャント経路依存 |
-| 銀行 API 不正引き落とし | 消費者が重過失でない場合の 預金者保護法 フレームワーク | 適用される場合は強い |
-| 消費者の認証情報開示を介した銀行アプリログイン侵害 | 銀行 T&C と 預金者保護法 下のケースバイケースの解釈 | 可変 —— 消費者が何を開示したかに依存 |
+| 銀行 API 不正引き落とし | 消費者が重過失でない場合の 預金者保護法フレームワーク | 適用される場合は強い |
+| 消費者の認証情報開示を介した銀行アプリログイン侵害 | 銀行 T&C と 預金者保護法下のケースバイケースの解釈 | 可変 —— 消費者が何を開示したかに依存 |
 | コード決済の不正使用 | ウォレット・オペレーター T&C; 法定のチャージバック・フレームワークなし | カード / 銀行より弱い |
 | 前払い電子マネーの不正使用 | 発行者 T&C; 発行停止時のみ返金 | 最も弱い |
 | BNPL / 後払いの本人確認不正 | プロバイダー T&C + 一般消費者信用フレームワーク | 可変 |
@@ -123,7 +120,7 @@ translated_at: 2026-06-19T06:09:18.065Z
 
 2024-2025  のスミッシング・サーフェスは、消費者側の損失の持続的な源であった。そのメカニクスを理解することが重要なのは、それを検知またはブロックできるオペレーター側のコントロールが、攻撃チェーンのどのステップを標的にするかに依存するからである:
 
-| Attack chain step | Operator-side detection / control surface |
+| Attack chain step | 事業者-side detection / control surface |
 |---|---|
 | 1. 攻撃者が電話番号を採取する | オペレーターの範囲外; モバイルキャリアのモニタリングは部分的 |
 | 2. 銀行 / カード / ウォレット / 政府を装う SMS が送信される | モバイルキャリアのフィルタリング（キャリアグレード）; SMS 送信者認証標準 |

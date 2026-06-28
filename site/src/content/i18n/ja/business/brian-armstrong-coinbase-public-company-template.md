@@ -2,10 +2,11 @@
 source: business/brian-armstrong-coinbase-public-company-template
 source_hash: 96835c0a62d66610
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Brian Armstrong / Coinbase 上場取引所オペレーティングテンプレート · 直接上場 IPO + 規制エンゲージメント戦略"
-translated_at: 2026-06-02T11:47:37.323Z
+translated_at: 2026-06-26T08:28:53.954Z
 ---
 
 # Brian Armstrong / Coinbase 上場取引所オペレーティングテンプレート · 直接上場 IPO + 規制エンゲージメント戦略
@@ -17,7 +18,7 @@ translated_at: 2026-06-02T11:47:37.323Z
 ## 主要事実（公開情報源のみ）
 
 - Coinbase Global, Inc. (Nasdaq: **COIN**) の **創業者 + CEO**、会社設立 (2012) 以来。地位は Coinbase の各 10-K 提出書類で公に開示。
-- Nasdaq への Coinbase クラス A 普通株式の **直接上場**、**2021-04-14**、参照価格 $250, 、寄付き ~$381。直接上場経路は Coinbase の S-1 / Form S-1 目論見書 (SEC 提出書類) で開示。
+- Nasdaq への Coinbase クラス A 普通株式の **直接上場**、**2021-04-14**、参照価格 $250,、寄付き ~$381。直接上場経路は Coinbase の S-1 / Form S-1 目論見書 (SEC 提出書類) で開示。
 - 創業者 / インサイダーが保有するクラス B 普通株式が超多数の議決権支配を提供する **二種類株式構造** — Coinbase 10-K の株式構造セクションで開示され、Armstrong は主要なクラス B 保有者として記載。
 - SEC エンフォースメント部門から受領した **Wells Notice**、Coinbase が **2023-03-22** に公表 (Coinbase 8-K)。SEC は **2023-06-06** に、未登録の取引所 / ブローカー / クリアリングエージェンシー運営を主張する訴状を提出。
 - **Coinbase 対 SEC** の職務執行令状 (mandamus) 請求 (第三巡回区控訴裁判所、2023)、Coinbase のルールメイキング請願に対する SEC の応答を求めるもの; 第三巡回区は SEC に応答を命じた。
@@ -26,9 +27,7 @@ translated_at: 2026-06-02T11:47:37.323Z
 - **Fairshake PAC** — Coinbase は 2024 の米国選挙サイクルにおいて Fairshake (暗号資産寄りのスーパー PAC) への最大の法人寄付者の一つとして公に開示。FEC 提出書類は公開。
 - **GENIUS Act / FIT21** 立法活動 — Coinbase は両法案を公に推進し、Armstrong は公聴会で個人的に証言 / コメント (下院金融サービス委員会および下院農業委員会の公聴会記録)。
 
-### Part 1 · 上場初日からの上場企業構造
-
-従来型 IPO ではなく 2021 の直接上場という選択は、このテンプレートを従来の取引所上場と一線を画す構造的決定である。
+### Part 1 · 上場初日からの上場企業構造従来型 IPO ではなく 2021 の直接上場という選択は、このテンプレートを従来の取引所上場と一線を画す構造的決定である。
 
 - ブックビルディング型 IPO ではなく **直接上場** — 引受人なし、ロードショーなし、グリーンシューなし、引受人が課すロックアップなし。既存株主が直接売却した。
 - **上場時に新規資本を調達せず** — Coinbase は直接上場日に現金と引き換えに新株を発行しなかった。S-1 は上場を資本調達ではなく流動性イベントとして明示的に位置づけた。
@@ -58,7 +57,7 @@ Coinbase の製品面 — スポット取引、カストディ、ステーキン
 | 製品 | 規制対象エンティティ / ライセンス | 規制当局 |
 |---|---|---|
 | スポット取引 | Coinbase, Inc. (州資金移動ライセンス + NY BitLicense) | 州、NYDFS |
-| カストディ | Coinbase Custody Trust Company, LLC (NY トラストチャーター) | NYDFS |
+| カストディ | Coinbase カストディ Trust Company, LLC (NY トラストチャーター) | NYDFS |
 | デリバティブ | Coinbase Derivatives, LLC (DCM) + Coinbase Financial Markets (FCM) | CFTC、NFA |
 | インターナショナル | Coinbase Bermuda (BMA Digital Asset Business Class F) | BMA |
 | ステーブルコイン配信 | Circle が発行する USDC、Coinbase 10-K で開示された公開パートナーシップにより Coinbase 経由で配信 | — |
@@ -77,13 +76,11 @@ Coinbase の財務構造に関する公開提出書類の読み (10-K / 10-Q の
 
 構造的な教訓は、上場取引所の収益モデルが、純粋なスポット取引手数料では乗り切れない谷の四半期を生き延びるために反循環的ヘッジ (カストディ、ステーブルコイン配信、サブスクリプション) を必要とするということである。ヘッジレイヤー自体が規制パーミタである — カストディはトラストチャーターの地位を要し、ステーブルコイン配信は [[fintech/cftc-sec-crypto-jurisdiction|jurisdictional]] の枠組みが明確であることを要し、ステーキングは SEC が最も多く訴訟対象としてきたラインである。
 
-## 上場取引所のオペレーティングメカニクス
-
-上場企業としての Coinbase の日々の運営は、オフショア取引所が直面しないメカニクスをもたらす。そのメカニクス — 10-K のリスク要因とプロキシ開示に表れる — がテンプレートを規定する:
+## 上場取引所のオペレーティングメカニクス上場企業としての Coinbase の日々の運営は、オフショア取引所が直面しないメカニクスをもたらす。そのメカニクス — 10-K のリスク要因とプロキシ開示に表れる — がテンプレートを規定する:
 
 | メカニクス | Coinbase の実装 | 出典 / 開示 |
 |---|---|---|
-| 顧客資産の分別 | 顧客の暗号資産は Coinbase Custody Trust Company, LLC のトラスト口座で保管; 現金預金はカストディ / パススルー取決めにより FDIC 加盟銀行に | 10-K、Coinbase ブログ開示、NYDFS トラストチャーター条件 |
+| 顧客資産の分別 | 顧客の暗号資産は Coinbase カストディ Trust Company, LLC のトラスト口座で保管; 現金預金はカストディ / パススルー取決めにより FDIC 加盟銀行に | 10-K、Coinbase ブログ開示、NYDFS トラストチャーター条件 |
 | 顧客資産の倒産隔離処理 | 開示されたリスク要因 — Coinbase 10-K は、仮定的な破綻シナリオにおいてプラットフォームが保有する顧客の暗号資産が破産財団の財産として扱われうると警告 (Coinbase 2022 10-K) | Coinbase 10-K 提出書類 |
 | 上場判断のフレームワーク | Coinbase は公開上場レビューのフレームワークを公表; トークンは規制上またはオペレーション上のリスクがエスカレートすれば上場廃止の対象 | Coinbase ブログ |
 | SOC レポート | Coinbase は機関顧客に SOC 1 および SOC 2 レポートを公表 (NDA の下) | トラストチャーター・カストディアンの業界標準 |
@@ -128,13 +125,11 @@ Coinbase のテンプレートは丸ごと再現されてはいない — 各部
 
 このテンプレートの最も特徴的な部分 — **戦略としての SEC との公開対決** — は特定の 2023-2024 の政治的条件に依存しており、定常状態では再現できない可能性がある。他の部分 (マルチライセンス構造、公開上場フレームワーク、SOC レポート) はいまや米国オンショアの規制対象取引所にとって業界標準である。
 
-## 地理的拡大と管轄スタック
-
-公開提出書類で開示された Coinbase の地理的フットプリントは、単一拠点モデルではなく意図的な **複数管轄の規制対象エンティティスタック** を示す:
+## 地理的拡大と管轄スタック公開提出書類で開示された Coinbase の地理的フットプリントは、単一拠点モデルではなく意図的な **複数管轄の規制対象エンティティスタック** を示す:
 
 | 管轄 | 規制対象エンティティ / 姿勢 | 公的出典 |
 |---|---|---|
-| 米国 | Coinbase, Inc. + 州資金移動ライセンス + NY BitLicense; Coinbase Custody Trust (NY); Coinbase Derivatives, LLC (CFTC DCM); Coinbase Financial Markets (FCM) | SEC 10-K、NYDFS 公開登録簿、CFTC DCM リスト |
+| 米国 | Coinbase, Inc. + 州資金移動ライセンス + NY BitLicense; Coinbase カストディ Trust (NY); Coinbase Derivatives, LLC (CFTC DCM); Coinbase Financial Markets (FCM) | SEC 10-K、NYDFS 公開登録簿、CFTC DCM リスト |
 | バミューダ | Coinbase Bermuda Limited — BMA の下の Class F Digital Asset Business ライセンス | BMA 公開登録簿、Coinbase ブログ |
 | 英国 | FCA 登録の暗号資産エンティティ (CB Payments Limited / Coinbase Europe Limited の子会社) | FCA 公開登録簿 |
 | EU | MiCA 準備; 一部加盟国における MiCA 前の各国制度登録 | Coinbase ブログ、EU 各国規制当局 |

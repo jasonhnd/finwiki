@@ -2,10 +2,11 @@
 source: exchanges/jp-custody-komainu
 source_hash: 524ad71d02b058e5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Komainu — 機関投資家向けデジタル資産カストディ専業"
-translated_at: 2026-06-02T12:19:04.254Z
+translated_at: 2026-06-26T08:29:09.707Z
 ---
 
 # Komainu — 機関投資家向けデジタル資産カストディ専業
@@ -23,7 +24,7 @@ translated_at: 2026-06-02T12:19:04.254Z
 - **設立**: 2018 年（Jersey, Channel Islands）
 - **本店所在地**: Jersey（英国王室属領）
 - **設立形態**: 野村ホールディングス（Nomura Holdings）・CoinShares・Ledger の三者合弁（Joint Venture）として創業
-- **現在の主要株主（公表分）**: 2025年 1 月時点で Blockstream が戦略的投資家として Series B をリード。Laser Digital（野村 digital asset 子会社）は 取締役会 参画継続。CoinShares・Ledger は創業時からの出資者。
+- **現在の主要株主（公表分）**: 2025年 1 月時点で Blockstream が戦略的投資家として Series B をリード。Laser Digital（野村 digital asset 子会社）は 取締役会参画継続。CoinShares・Ledger は創業時からの出資者。
 - **非上場**（公開株式市場への上場情報なし）
 
 ## 2. ライセンス・登録状況
@@ -39,36 +40,34 @@ translated_at: 2026-06-02T12:19:04.254Z
 - **JVCEA 会員**: 非加盟
 - 日本国内においては金融庁・財務局への登録なし。日本法人の設立情報も公表なし。
 
-## 3. 取扱 asset（カストディ 対象）
+## 3. 取扱 asset（カストディ対象）
 
-公式サイト上で特定銘柄リストは非公表（カストディ 専業のため取引所のような銘柄一覧は存在しない）。
+公式サイト上で特定銘柄リストは非公表（カストディ専業のため取引所のような銘柄一覧は存在しない）。
 
 - **BTC を主軸**とした主要暗号資産の カストディ に対応
 - 2021 年にスイス証券取引所の Bitcoin ETP（ETF 類似商品）の カストディ を担当したことが確認されている
-- custodial ステーキング 対応：ETH をはじめとするプルーフ・オブ・ステーク系資産に対応（2021 年~）
+- custodial ステーキング対応：ETH をはじめとするプルーフ・オブ・ステーク系資産に対応（2021 年~）
 - Komainu Connect（2023 年~）では取引・担保利用・貸借をカバー
 - 2026 年 4 月時点で Komainu CORE（collateral-as-a-service）を展開
 
-## 4. 業務範囲
+## 4. 業務範囲同社の提供サービスは カストディ-first（保管を軸）の 4 本柱：
 
-同社の提供サービスは カストディ-first（保管を軸）の 4 本柱：
-
-1. **Custody（保管）**: MPC（Multi-Party Computation）+ HSM（Hardware Security Module）ウォレット技術を活用した cold カストディ。独立検証可能なオンチェーン分別管理。
+1. **カストディ（保管）**: MPC（Multi-Party Computation）+ HSM（Hardware Security Module）ウォレット技術を活用した cold カストディ。独立検証可能なオンチェーン分別管理。
 2. **Custodial Staking**: 資産を カストディ に保ったままオンチェーン報酬（ステーキング）を獲得する機関向けサービス。2021 年開始。
-3. **Komainu Connect（コラテラル管理）**: カストディ 内の資産を担保として取引・借入・貸出に活用できる接続基盤。2023 年開始。OKX 等の主要取引所と提携。
+3. **Komainu Connect（コラテラル管理）**: カストディ内の資産を担保として取引・借入・貸出に活用できる接続基盤。2023 年開始。OKX 等の主要取引所と提携。
 4. **Komainu CORE**: デジタル資産を規制準拠の担保として機能させる Collateral-as-a-Service ソリューション。2026 年 4 月提供開始。
 
-法定通貨入金チャネル等の リテール 向けサービスは非提供（純粋な機関向け infrastructure）。
+法定通貨入金チャネル等の リテール向けサービスは非提供（純粋な機関向け infrastructure）。
 
 ## 5. 市場ポジション・顧客層
 
 - **ターゲット**: 機関投資家・金融機関・主権国家 / 政府系ファンド
 - **公表顧客事例（一次情報確認済）**:
   - **英国警察**: 2021 年 1 月、押収した暗号資産の保管に Komainu を採用（公表）
-  - **スイス証券取引所上場 Bitcoin ETP**: 2021 年 1 月、ETP の カストディ 担当として選定（公表）
+  - **スイス証券取引所上場 Bitcoin ETP**: 2021 年 1 月、ETP の カストディ担当として選定（公表）
   - **UAE 政府 / VARA 管轄 case**: 2023 年、UAE での VARA ライセンス取得と同時期に政府系案件への関与が報道
-  - **OKX との提携（Komainu Connect）**: 2023 年 6 月、OKX と カストディ 接続の提携を公表
-- **競合比較**: Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等の機関向け カストディ プロバイダーと競合（[[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]] 参照）。同社の差別化点は Jersey・UK FCA・[[exchanges/uae-vara-licensing-overview|VARA]] の多重規制準拠 + [[securities-firms/nomura-hd|Nomura]] グループとの親和性。
+  - **OKX との提携（Komainu Connect）**: 2023 年 6 月、OKX と カストディ接続の提携を公表
+- **競合比較**: Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等の機関向け カストディプロバイダーと競合（[[exchanges/global-institutional-custody-five-pillars|グローバル institutional カストディ 5 本柱]] 参照）。同社の差別化点は Jersey・UK FCA・[[exchanges/uae-vara-licensing-overview|VARA]] の多重規制準拠 + [[securities-firms/nomura-hd|Nomura]] グループとの親和性。
 - **口座数・預り AUM**: 非公表
 
 ## 6. 沿革・重大事件
@@ -80,10 +79,10 @@ translated_at: 2026-06-02T12:19:04.254Z
 | 2021 年 1 月 | 英国警察の押収暗号資産保管案件を受託 |
 | 2021 年 1 月 | スイス証券取引所 Bitcoin ETP の カストディ に選定 |
 | 2021 年 3 月 | Series A 資金調達（$2,500 万ドル）完了 |
-| 2021 年 | MPC 技術をテックスタックに統合、custodial ステーキング 開始 |
+| 2021 年 | MPC 技術をテックスタックに統合、custodial ステーキング開始 |
 | 2023 年 | VARA（Dubai）VASP ライセンス取得 |
 | 2023 年 | Komainu Connect 開始、OKX と提携 |
-| 2024 年 10 月 | シンガポールの カストディ 企業 **Propine** を買収、アジア市場拡大を加速 |
+| 2024 年 10 月 | シンガポールの カストディ企業 **Propine** を買収、アジア市場拡大を加速 |
 | 2025 年 1 月 | **Series B $7,500 万ドル** 完了（Blockstream が戦略的投資家としてリード）。ビットコイン建てで調達（BTC 約 116 億円相当、2025-01 時点） |
 | 2025 年 | UK FCA crypto 登録取得、イタリア OAM 登録取得 |
 | 2026 年 4 月 | **Komainu CORE**（Collateral-as-a-Service）発表・提供開始 |
@@ -92,7 +91,7 @@ translated_at: 2026-06-02T12:19:04.254Z
 
 ## 7. 戦略動向（直近 12 ヶ月）
 
-- **Propine 買収（2024-10）**: シンガポール拠点の機関向け カストディ 企業 Propine を買収。アジア太平洋市場へのフットプリント拡大が明示的な戦略目的。
+- **Propine 買収（2024-10）**: シンガポール拠点の機関向け カストディ企業 Propine を買収。アジア太平洋市場へのフットプリント拡大が明示的な戦略目的。
 - **Blockstream Series B（2025-01）**: $75M 調達。Bitcoin 中心の 機関投資家向け カストディ + Bitcoin-native asset の取扱強化を示唆。同時に Adam Back（Blockstream CEO）・PeterPaul Pardi・Nicolas Brand（Blockstream Capital Partners）が 取締役会 に参画。
 - **FCA 登録（2025）**: UK でのサービス提供の正式化。ロンドン拠点を持つ機関投資家への訴求強化。
 - **Komainu CORE（2026-04）**: 規制準拠の担保管理 SaaS 化。digital collateral 市場（DeFi との接続、repo 取引等）への参入を示唆。
@@ -121,11 +120,11 @@ translated_at: 2026-06-02T12:19:04.254Z
 
 - [[exchanges/jp-exchange-laser-digital-japan]] — 野村グループの digital asset 投資・運用子会社（Komainu と 取締役会 を共有）
 - [[exchanges/jp-exchange-crypto-garage]] — 野村 HD が出資する別の日本向けデジタル資産法人
-- [[exchanges/jp-custody-ginco]] — 日本国内の 機関投資家向け カストディ 比較対象
+- [[exchanges/jp-custody-ginco]] — 日本国内の 機関投資家向け カストディ比較対象
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
-- [[exchanges/global-institutional-custody-five-pillars]] — グローバル 機関投資家向け カストディ 5 本柱
+- [[exchanges/global-institutional-custody-five-pillars]] — グローバル機関投資家向け カストディ 5 本柱
 - [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス制度（Komainu Dubai 拠点）
-- [[exchanges/jp-institutional-custody-three-pillars]] — JP 機関投資家向け カストディ 三本柱
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP 機関投資家向け カストディ三本柱
 
 ## 出典
 

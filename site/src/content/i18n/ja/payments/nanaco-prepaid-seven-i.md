@@ -2,10 +2,11 @@
 source: payments/nanaco-prepaid-seven-i
 source_hash: b3714cc0eeab2d1d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "nanaco: セブン＆アイグループのコンビニを軸とするプリペイド電子マネー"
-translated_at: 2026-06-19T06:09:18.110Z
+translated_at: 2026-06-26T08:38:42.156Z
 ---
 
 # nanaco: セブン＆アイグループのコンビニを軸とするプリペイド電子マネー

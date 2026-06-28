@@ -2,22 +2,21 @@
 source: banking/mercari-bank-license-stack
 source_hash: 2a2686c6a3dc6811
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "メルカリバンク ライセンススタック"
-translated_at: 2026-06-02T11:47:37.280Z
+title: "メルカリバンクライセンススタック"
+translated_at: 2026-06-26T08:29:25.263Z
 ---
 
-# メルカリバンク ライセンススタック
+# メルカリバンクライセンススタック
 
 
 ## ウィキ上の位置づけ
 
 このエントリは [[banking/INDEX|banking index]] の下に位置する。隣接する文脈については [[banking/cooperative-banking-japan|Cooperative banking in Japan]] と、より広範なシステム境界については [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] と併せて読むこと。
 
-## 要約
-
-メルカリバンクは「メルペイが銀行になった」案件ではない。銀行口座の主体は [[banking/minna-bank-baas-model|みんなの銀行]]、メルペイは電子決済等代行業者として API 接続・口座情報表示・資金移動指図のレイヤーを担う。つまり、サービス名は銀行的だが、法的には **banking layer / API instruction layer / Mercari app UX layer** の分業で成立している。
+## 要約メルカリバンクは「メルペイが銀行になった」案件ではない。銀行口座の主体は [[banking/minna-bank-baas-model|みんなの銀行]]、メルペイは電子決済等代行業者として API 接続・口座情報表示・資金移動指図のレイヤーを担う。つまり、サービス名は銀行的だが、法的には **banking layer / API instruction layer / Mercari app UX layer** の分業で成立している。
 
 ## スタック
 
@@ -25,7 +24,7 @@ translated_at: 2026-06-02T11:47:37.280Z
 |---|---|---|
 | Banking layer | みんなの銀行 | 普通預金口座、パートナー支店「メルカリ支店」、ATM / 預金関連機能 |
 | API / instruction layer | メルペイ | 電子決済等代行業者として、口座情報取得と資金移動指図を扱う |
-| Wallet / payment layer | メルペイ | 資金移動業、前払式支払手段、クレジット / 後払い関連登録を持つ決済事業者 |
+| ウォレット / payment layer | メルペイ | 資金移動業、前払式支払手段、クレジット / 後払い関連登録を持つ決済事業者 |
 | UX / marketplace layer | メルカリ app | 売上金、メルペイ残高、おさいふページ、銀行連携導線をユーザーに提示 |
 
 ## 電子決済等代行業が説明すること
@@ -41,9 +40,7 @@ translated_at: 2026-06-02T11:47:37.280Z
 | メルカリ支店を開く | みんなの銀行のパートナー支店 |
 | ATM 出金優遇を見る | みんなの銀行側の優遇プログラム |
 
-## 重要な訂正
-
-旧メモでは「銀行代理業 + BaaS 連携」が必要条件のように書かれていたが、公開ソースだけではメルペイの銀行代理業登録を前提にできない。むしろメルペイの電代業表示は、同社が銀行等を代理して電子決済等代行業を行うものではない、と誤認防止の線引きを置いている。
+## 重要な訂正旧メモでは「銀行代理業 + BaaS 連携」が必要条件のように書かれていたが、公開ソースだけではメルペイの銀行代理業登録を前提にできない。むしろメルペイの電代業表示は、同社が銀行等を代理して電子決済等代行業を行うものではない、と誤認防止の線引きを置いている。
 
 したがって、このページでは次のように扱う。
 
@@ -52,9 +49,7 @@ translated_at: 2026-06-02T11:47:37.280Z
 - **confirmed**: メルカリバンクはみんなの銀行口座をメルカリアプリからメルペイと API 連携して使うサービス。
 - **not assumed**: メルペイが銀行業者または銀行代理業者であること。
 
-## BaaS の設計上の教訓
-
-メルカリバンクは、[[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] の本質を「ライセンスを丸ごと取ること」ではなく「既存ライセンスと銀行 API をどこで接続するか」として示す案件。[[exchanges/jp-exchange-mercoin|メルコイン]] など同グループの暗号資産交換業者、証券アプリ、EC アプリが同じ UX を目指す場合、まず切り分けるべきは次の 4 点（親会社の最新像は [[payment-firms/mercari-hd|メルカリ HD]] 参照）。
+## BaaS の設計上の教訓メルカリバンクは、[[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] の本質を「ライセンスを丸ごと取ること」ではなく「既存ライセンスと銀行 API をどこで接続するか」として示す案件。[[exchanges/jp-exchange-mercoin|メルコイン]] など同グループの暗号資産交換業者、証券アプリ、EC アプリが同じ UX を目指す場合、まず切り分けるべきは次の 4 点（親会社の最新像は [[payment-firms/mercari-hd|メルカリ HD]] 参照）。
 
 1. 預金口座を誰が提供するか。
 2. 口座情報表示と資金移動指図を誰が扱うか。

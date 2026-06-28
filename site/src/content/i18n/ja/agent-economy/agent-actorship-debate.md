@@ -2,10 +2,11 @@
 source: agent-economy/agent-actorship-debate
 source_hash: f0518f026a568763
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Agent 主体性論争:4つの陣営"
-translated_at: 2026-06-02T11:47:37.261Z
+translated_at: 2026-06-26T08:29:25.255Z
 ---
 
 # Agent 主体性論争:4つの陣営
@@ -26,7 +27,7 @@ translated_at: 2026-06-02T11:47:37.261Z
 
 **陣営 D(問いの枠組み自体が誤り)**:主体 / ツールの二分法そのものを超える必要がある(ラトゥール)。Agent は人間の同意なしに行動する初の準実体である(ハラリ)。真の問いは誰が Agent を所有し、誰が剰余価値を持ち去るかである(マルクス)。
 
-**陣営横断のコンセンサス**:信用スコアと身元登録体系を構築すること自体が Agent に制度的役割を創出する行為である — これは制度設計上の選択であり、価値中立的な技術問題ではない(サール)。[[agent-economy/skill-market-monetization|Skill 有料化]]の進展により A2A マイクロトランザクション規模はこの制度をオプションから必須へと押し上げる(下層の wallet permissions は [[systems/erc-4337-overview|ERC-4337]]、決済通貨の選択は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] を参照)。
+**陣営横断のコンセンサス**:信用スコアと身元登録体系を構築すること自体が Agent に制度的役割を創出する行為である — これは制度設計上の選択であり、価値中立的な技術問題ではない(サール)。[[agent-economy/skill-market-monetization|Skill 有料化]]の進展により A2A マイクロトランザクション規模はこの制度をオプションから必須へと押し上げる(下層の ウォレット permissions は [[systems/erc-4337-overview|ERC-4337]]、決済通貨の選択は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] を参照)。
 
 **実用的結論**:ホワイトペーパーは論争的な定義を論証の起点とすべきではない。「機能は定義に先行する」という立場を採用する — Agent の経済機能はその法的定義に先行して存在しており、[[agent-economy/2026-04-08_agent-payment-infrastructure-research|インフラ需要]]は定義論争の結論に依存しない。
 

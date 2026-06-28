@@ -2,10 +2,11 @@
 source: life-insurers/rakuten-life
 source_hash: 3f0dbd258faa471e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天生命保険"
-translated_at: 2026-06-02T15:14:17.108Z
+translated_at: 2026-06-26T08:32:23.068Z
 ---
 
 # 楽天生命保険
@@ -15,9 +16,7 @@ translated_at: 2026-06-02T15:14:17.108Z
 
 この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に置く。比較・対照の文脈では [[non-life-insurers/rakuten-general-insurance|楽天損害保険]]、より広い制度・規制境界では [[insurance/INDEX|insurance index]] とあわせて読む。
 
-## 要約
-
-楽天生命保険株式会社は、[[payment-firms/rakuten-fg]] / 楽天エコシステムの生命保険事業会社。金融庁の生命保険会社一覧に載る別個の引受保険会社で、楽天カード・銀行・証券・決済・ポイント経済圏と接続しうる保険ノードとして見る。
+## 要約楽天生命保険株式会社は、[[payment-firms/rakuten-fg]] / 楽天エコシステムの生命保険事業会社。金融庁の生命保険会社一覧に載る別個の引受保険会社で、楽天カード・銀行・証券・決済・ポイント経済圏と接続しうる保険ノードとして見る。
 
 ## 1. ライセンス・グループ境界
 
@@ -26,12 +25,10 @@ translated_at: 2026-06-02T15:14:17.108Z
 | 正式名 | 楽天生命保険株式会社 |
 | 免許ルート | 保険業法上の生命保険会社。金融庁の生命保険会社一覧 |
 | 業界団体 | 生命保険協会加盟会社 |
-| グループ境界 | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
-| ウィキ上の役割 | 楽天エコシステム 生命保険 引受部門 |
+| グループ境界 | [[payment-firms/rakuten-fg]] / Rakuten insurance 経済圏 |
+| ウィキ上の役割 | 楽天エコシステム生命保険引受部門 |
 
-## 2. 事業モデル
-
-楽天生命は、Rakuten ID、ポイント、カード、銀行、証券、決済、マーケットプレイス流入と接続しうる生命保険会社。FinWiki では [[card-issuers/rakuten-card]]、[[payment-firms/rakuten-edy]]、[[securities-firms/rakuten-securities]]、[[payment-firms/rakuten-fg]] と同じ エコシステム金融クラスター に置く。
+## 2. 事業モデル楽天生命は、Rakuten ID、ポイント、カード、銀行、証券、決済、マーケットプレイス流入と接続しうる生命保険会社。FinWiki では [[card-issuers/rakuten-card]]、[[payment-firms/rakuten-edy]]、[[securities-firms/rakuten-securities]]、[[payment-firms/rakuten-fg]] と同じ エコシステム金融クラスター に置く。
 
 エコシステム型保険会社 の分析では、保険単体の商品収益だけでなく、顧客獲得コスト, ポイント経済性, app / マーケットプレイス流入, クロスセル規制, 販売行為規制上の義務 を見る必要がある。
 

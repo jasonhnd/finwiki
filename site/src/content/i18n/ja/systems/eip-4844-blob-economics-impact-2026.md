@@ -2,10 +2,11 @@
 source: systems/eip-4844-blob-economics-impact-2026
 source_hash: f4f632fe4ae1969d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "EIP-4844  Blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景"
-translated_at: 2026-06-03T01:06:46.352Z
+translated_at: 2026-06-26T08:28:46.071Z
 ---
 
 # EIP-4844  Blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景
@@ -245,12 +246,12 @@ EIP-7594(PeerDAS · Peer Data Availability Sampling):
 
 全 ETH-aligned rollup 横断の総 sequencer revenue ~$150-300M ARR(2026)。これは Pectra 後の安定状態 · pre-Dencun(2023)の総 sequencer revenue より高い · ただし単 tx revenue は大幅に下落。
 
-### Stripe / Coinbase Smart Wallet 等の機関 + 消費者プロダクトの受益
+### Stripe / Coinbase Smart ウォレット等の機関 + 消費者プロダクトの受益
 
-- **Stripe USDC on Base**:Pectra 後 single USDC transfer ~$0.0005 · Stripe にとって経済性が顕著に改善 · Stripe が Base-only merchant settlement をローンチ
-- **Coinbase Smart Wallet**:Account Abstraction([[systems/erc-4337-overview|ERC-4337]] 参照)+ Base 低 gas · Coinbase が sub-cent UX を実現 · ユーザー体感は Web2 に近い
+- **Stripe USDC on Base**:Pectra 後 single USDC transfer ~$0.0005 · Stripe にとって経済性が顕著に改善 · Stripe が Base-only 加盟店決済 をローンチ
+- **Coinbase Smart ウォレット**:Account Abstraction([[systems/erc-4337-overview|ERC-4337]] 参照)+ Base 低 gas · Coinbase が sub-cent UX を実現 · ユーザー体感は Web2 に近い
 - **PayPal PYUSD on Base**:同様に受益 · 2025-2026 PYUSD on Base 流通量は ~3x 成長
-- **RWA tokenization**:Polygon zkEVM 上の Franklin Templeton FOBXX パイロットが Pectra blob で settlement cost 低減 · ただし機関は依然 L1 を好む([[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 対照]] 参照)
+- **RWA tokenization**:Polygon zkEVM 上の Franklin Templeton FOBXX パイロットが Pectra blob で 決済 cost 低減 · ただし機関は依然 L1 を好む([[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 対照]] 参照)
 
 ### ZK rollup vs OP rollup の非対称受益
 

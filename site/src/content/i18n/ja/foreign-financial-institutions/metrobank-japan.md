@@ -2,17 +2,18 @@
 source: foreign-financial-institutions/metrobank-japan
 source_hash: e6acba6e3d6b72d5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "メトロポリタン銀行日本支店（Metrobank Japan）"
-translated_at: 2026-06-02T14:54:39.093Z
+translated_at: 2026-06-26T08:32:07.552Z
 ---
 # メトロポリタン銀行日本支店（Metrobank Japan）
 # メトロポリタン銀行日本 (Metrobank Japan)
 
 ## ウィキ上の位置づけ
 
-Metrobank Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下にあり、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] におけるフィリピン-日本回廊のページである。[[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]]、[[payments/psp-merchant-settlement-risk|settlement-risk controls]] とあわせて読む。
+Metrobank Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下にあり、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] におけるフィリピン-日本回廊のページである。[[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]]、[[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]]、[[payments/psp-merchant-settlement-risk|決済-risk controls]] とあわせて読む。
 
 Metropolitan Bank と Trust Company 東京支店、フィリピン向け送金、貿易金融、一部法人向け融資、日本支店の統合を扱うときに使うページ。
 

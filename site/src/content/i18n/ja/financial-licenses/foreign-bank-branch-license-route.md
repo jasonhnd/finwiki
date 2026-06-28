@@ -2,17 +2,16 @@
 source: financial-licenses/foreign-bank-branch-license-route
 source_hash: 6bc3ed845eb86a22
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国銀行支店免許ルート"
-translated_at: 2026-06-02T14:54:39.092Z
+translated_at: 2026-06-26T08:32:07.546Z
 ---
 # 日本における外国銀行支店免許ルート
 # Japan foreign-bank branch license route
 
-## 概要
-
-日本の外国銀行支店は、日本の銀行監督ルートの下で免許を受けた外国銀行の支店であり、日本法人の銀行子会社でも単なる駐在員事務所でもない。FSA のモニタリング枠組みは、日本支店のビジネスモデル、ガバナンス、コンプライアンス、リスク管理、外国本店・母国監督当局との連携を重視する。
+## 概要日本の外国銀行支店は、日本の銀行監督ルートの下で免許を受けた外国銀行の支店であり、日本法人の銀行子会社でも単なる駐在員事務所でもない。FSA のモニタリング枠組みは、日本支店のビジネスモデル、ガバナンス、コンプライアンス、リスク管理、外国本店・母国監督当局との連携を重視する。
 
 Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry index]], [[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]], [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]], [[foreign-financial-institutions/bank-of-america-japan|Bank of America Japan]], [[foreign-financial-institutions/hsbc-japan|HSBC Japan]], [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]], と [[financial-licenses/INDEX|legal / financial licenses]].
 
@@ -46,7 +45,7 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 - アジア回廊政策・貿易関連性: [[foreign-financial-institutions/dbs-bank-japan|DBS]], [[foreign-financial-institutions/ocbc-bank-japan|OCBC]], [[foreign-financial-institutions/uob-bank-japan|UOB]], [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]], [[foreign-financial-institutions/icbc-japan|ICBC]], [[foreign-financial-institutions/bank-of-china-japan|Bank of China]], [[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]], [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]], [[foreign-financial-institutions/bank-of-india-japan|Bank of India]];
 - 銀行・証券の複数免許スタックとしての関連性: [[securities-firms/anz-bank-japan|ANZ Japan]];
 - 新規免許支店の活動や大きな事業モデル変更など、イベント起点の免許・モニタリング上の関連性;
-- 明確に接続するもの: [[securities/INDEX|securities]], [[banking/INDEX|banking]], custody, 決済, or policy-finance maps.
+- 明確に接続するもの: [[securities/INDEX|securities]], [[banking/INDEX|banking]], カストディ, 決済, or policy-finance maps.
 
 ## 境界事例
 
@@ -54,7 +53,7 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 |---|---|
 | "Foreign bank left Japan" | 当該支店が FSA 一覧に残っているか、証券専業へ移ったか、銀行業務を閉鎖したかを確認する。 |
 | Foreign bank has a 証券 arm | 銀行支店ルートとは別に FIEA・JSDA ルートへリンクする。 |
-| 外国銀行が信託・カストディエンティティを持つ | カストディが中核機能の場合は [[banking/japan-trust-bank-custody-map|trust-bank custody map]] へリンクする。 |
+| 外国銀行が信託・カストディエンティティを持つ | カストディが中核機能の場合は [[banking/japan-trust-bank-custody-map|trust-bank カストディ map]] へリンクする。 |
 | 日本子会社銀行 | 外国銀行支店ではなく、日本の免許銀行エンティティとして扱う。 |
 | 代理関係 | FSA の外国銀行代理銀行一覧を確認し、直接の支店免許とは別に記録する。 |
 

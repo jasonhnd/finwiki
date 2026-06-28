@@ -2,10 +2,11 @@
 source: fintech/carf-1099da-end-of-crypto-anonymity
 source_hash: fa66d6ea41485a4a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉"
-translated_at: 2026-06-02T13:21:55.084Z
+translated_at: 2026-06-26T08:29:33.000Z
 ---
 
 # CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉
@@ -22,7 +23,7 @@ translated_at: 2026-06-02T13:21:55.084Z
 
 1. **CARF**（OECD 2022 年提唱 → 2026-2027 年グローバル実装）:50 余りの法域が CEX に非居住者顧客の暗号資産取引明細を強制的に報告させる。
 2. **[[fintech/irs-1099-da|IRS Form 1099-DA]]**（2024 年提案 → 2026-01-01 broker 強制報告 → 2027-01-01 DeFi broker 部分発効）:米国人または対米取引 CEX は gross proceeds を報告必須。
-3. **[[fintech/genius-act-501-denylist-mandate|GENIUS Act §§501]] + OFAC オンチェーン feed**:準拠ステーブルコイン issuer はアドレス凍結能力を具備必須 → クロスチェーン送金のリアルタイム審査 — 実例は [[fintech/chain-level-ofac-freeze-precedent|チェーンレベル OFAC freeze 先例]] を参照。
+3. **[[fintech/genius-act-501-denylist-mandate|GENIUS Act §§501]] + OFAC オンチェーン feed**:準拠ステーブルコイン発行会社 はアドレス凍結能力を具備必須 → クロスチェーン送金のリアルタイム審査 — 実例は [[fintech/chain-level-ofac-freeze-precedent|チェーンレベル OFAC freeze 先例]] を参照。
 
 **含意**:
 

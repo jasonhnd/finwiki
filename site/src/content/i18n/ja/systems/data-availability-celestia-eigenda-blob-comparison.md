@@ -2,10 +2,11 @@
 source: systems/data-availability-celestia-eigenda-blob-comparison
 source_hash: 83de69337c432a0a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "DAレイヤー全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA"
-translated_at: 2026-06-03T01:06:46.367Z
+translated_at: 2026-06-26T08:28:53.978Z
 ---
 
 # DAレイヤー全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
@@ -42,7 +43,7 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 ### Ethereum blobs (EIP-4844)
 
-**アーキテクチャ**:Ethereum L1 ネイティブ · 1 block あたり 4 個の blob(目標=3 · 上限=6 Dencun · 目標=6 · 上限=9 Pectra 後)· 各 blob 128 KiB · 合計 上限 ~1.1 MiB/block(Pectra 後)。Blob データは ~18 日保持 · その後 commitment(KZG)のみオンチェーンに残る。Blob 価格は calldata から独立 · EIP-1559 スタイル 手数料市場を使用。
+**アーキテクチャ**:Ethereum L1 ネイティブ · 1 block あたり 4 個の blob(目標=3 · 上限=6 Dencun · 目標=6 · 上限=9 Pectra 後)· 各 blob 128 KiB · 合計上限 ~1.1 MiB/block(Pectra 後)。Blob データは ~18 日保持 · その後 commitment(KZG)のみオンチェーンに残る。Blob 価格は calldata から独立 · EIP-1559 スタイル手数料市場を使用。
 
 **セキュリティモデル**:Ethereum L1 PoS validator(~100 万+)+ DAS(EIP-7594 PeerDAS 2026-Q4+ で導入)。Slashing は Ethereum L1 プロトコルで直接執行。現セキュリティレベル = Ethereum L1 自身(中本聡係数 ~5 · 総 ETH staked ~$120B · 攻撃コスト ~$40B+)。
 
@@ -54,7 +55,7 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 **採用 rollup**:Arbitrum · Optimism · Base · zkSync Era · Linea · Scroll · Taiko · Polygon zkEVM · Blast · Mode · Mantle(一部)· 等 95%+ の ETH-aligned rollup 標準。
 
-**ガバナンス**:Ethereum プロトコルガバナンス(EIP プロセス · ACD)· オンチェーン 社会的合意。Pectra の次は Fusaka PeerDAS(2026-Q4 予想)。
+**ガバナンス**:Ethereum プロトコルガバナンス(EIP プロセス · ACD)· オンチェーン社会的合意。Pectra の次は Fusaka PeerDAS(2026-Q4 予想)。
 
 **規制エクスポージャ**:Ethereum L1 自身は既に SEC が長期注目しているが「十分に分散化されている」と広く認識されており · 証券に該当しない。Blob データ自身はバイト保存のみ · 規制サーフェス は極小。
 
@@ -68,7 +69,7 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 **スループット**:2 MB/block(2026 アップグレード · ブロック ~6s)≈ ~28 GB/day。2027 に 8 MB/block ≈ 120 GB/day へアップグレード計画。
 
-**ファイナリティ**:Tendermint 即時 ファイナリティ(~6s · 単一ブロック)。
+**ファイナリティ**:Tendermint 即時ファイナリティ(~6s · 単一ブロック)。
 
 **採用 rollup**:Manta Pacific(主要 L2 顧客)· Eclipse(一部モジュール)· Polygon CDK 一部設定 · Caldera RaaS 一部 · Astria sequencer · Movement Labs · Lyra · 等 ~30+ チェーン(2026)。
 
@@ -78,11 +79,11 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 ### EigenDA
 
-**アーキテクチャ**:EigenLayer restaking secured([[systems/eigenlayer-overview|EigenLayer overview]] と [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]] 参照)· EigenDA operator は EigenLayer から ETH stake を借用して経済セキュリティに · 高スループット DA サービス を提供。Dispatcher / Encoder / Validator の 3 役割 · KZG commitment · DAS。
+**アーキテクチャ**:EigenLayer restaking secured([[systems/eigenlayer-overview|EigenLayer overview]] と [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]] 参照)· EigenDA 事業者 は EigenLayer から ETH stake を借用して経済セキュリティに · 高スループット DA サービス を提供。Dispatcher / Encoder / Validator の 3 役割 · KZG commitment · DAS。
 
 **セキュリティモデル**:EigenLayer ~$14B TVL のうち ~$6B が EigenDA に opt-in([[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]] 参照)· slashing は EigenLayer プロトコルで執行。セキュリティ ≈ ETH staking だが 1 層挟む(restaking 同意)· Vitalik は「restaking コンセンサスに過度依存すべきでない」と警告([[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] 参照)。
 
-**GB日あたりコスト**(2026-Q2 推定):~$0.06-0.15。blob と Celestia の間 · operator + restaker 報酬を支払う必要があるため。
+**GB日あたりコスト**(2026-Q2 推定):~$0.06-0.15。blob と Celestia の間 · 事業者 + restaker 報酬を支払う必要があるため。
 
 **スループット**:~15 MB/s 継続(~1.3 TB/day 理論値 · 実際 ~100-500 GB/day 負荷次第)。最高スループット の DAレイヤー。
 
@@ -124,7 +125,7 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 **ファイナリティ**:NEAR ファイナリティ(~2-3s · Ethereum より顕著に速い)。
 
-**採用 rollup**:Caldera RaaS 一部チェーン · 一部 OP Stack rollup 実験 デプロイ · Polygon CDK 一部 · 主に非 ETH-aligned rollup にサービス。顧客数 < Celestia / EigenDA / Avail。
+**採用 rollup**:Caldera RaaS 一部チェーン · 一部 OP Stack rollup 実験デプロイ · Polygon CDK 一部 · 主に非 ETH-aligned rollup にサービス。顧客数 < Celestia / EigenDA / Avail。
 
 **ガバナンス**:NEAR Foundation + NEAR token DAO · NEAR DA チームがロードマップを主導。
 
@@ -153,7 +154,7 @@ DAレイヤーは 2023-2024 時点では「rollup は自動的に Ethereum L1 ca
 
 **Dencun 前(2024-03 前)**:
 - ETH-aligned rollup が L1 calldata 使用 · コスト高 · rollup の主コスト(~80%)
-- Alt-DA(Celestia 2023-10 メインネット · EigenDA 2024-Q1 メインネット · Avail 2024-Q2 · NEAR DA 2023)が「90%+ 安い」と位置付け · コスト重視 顧客を奪う
+- Alt-DA(Celestia 2023-10 メインネット · EigenDA 2024-Q1 メインネット · Avail 2024-Q2 · NEAR DA 2023)が「90%+ 安い」と位置付け · コスト重視顧客を奪う
 - Modular thesis 論調:「rollup は自由に DA を選ぶべき · Ethereum L1 DA に縛られる必要はない」
 
 **Dencun 後(2024-03 以降)**:
@@ -169,11 +170,11 @@ blob 価格圧力に直面し · 各 alt-DA は異なる 差別化 を取る:
 
 **Celestia**:
 - 「modular sovereignty」路線 · Cosmos / Move / 非 EVM エコシステム(Manta · Eclipse · Movement · Astria)を強調
-- ETH-aligned と直接競争しない · 「自身で settlement layer を選びたい」sovereign rollup にサービス
+- ETH-aligned と直接競争しない · 「自身で 決済 layer を選びたい」sovereign rollup にサービス
 - TIA token 経済インセンティブ · rollup 顧客に token incentive
 
 **EigenDA**:
-- 「ETH-aligned だが スループット 極高」路線 · 高 TPS rollup(Mantle · DeFi 重型 dApp)にサービス
+- 「ETH-aligned だが スループット極高」路線 · 高 TPS rollup(Mantle · DeFi 重型 dApp)にサービス
 - EigenLayer $14B+ TVL の経済セキュリティを借用 · L1 DA レベルに近い
 - modular rollup-as-a-service(RaaS)の 標準 · Caldera · AltLayer · Conduit · 等が全て 標準 EigenDA
 
@@ -190,12 +191,12 @@ blob 価格圧力に直面し · 各 alt-DA は異なる 差別化 を取る:
 ### 誰がどの DA を選ぶか · 意思決定次元
 
 **ETH-aligned + 機関投資家グレード**(Coinbase Base · 機関 RWA · tokenized fund):
-- Ethereum blobs 必須 · セキュリティレベル = Ethereum L1 · 規制サーフェス 最小
+- Ethereum blobs 必須 · セキュリティレベル = Ethereum L1 · 規制サーフェス最小
 - alt-DA は選べない · 機関 risk committee は非 L1 DA を受け入れないため
 
 **ETH-aligned + DeFi-native**(Arbitrum · Optimism · zkSync 等の大型 ZK/OP rollup):
 - 主に Ethereum blobs · エコシステム整合 + ユーザー期待
-- 一部高スループット 子チェーンは EigenDA を選択可能(Arbitrum Orbit · OP Stack 子 rollup)
+- 一部高スループット子チェーンは EigenDA を選択可能(Arbitrum Orbit · OP Stack 子 rollup)
 
 **Modular rollup-as-a-service**(Caldera · AltLayer · Conduit 顧客):
 - 標準 EigenDA(ETH-aligned · 高スループット)
@@ -218,7 +219,7 @@ blob 価格圧力に直面し · 各 alt-DA は異なる 差別化 を取る:
 
 **EigenDA の restaking 経済境界**:
 - EigenDA 収入は 2026 推定 ~$120M ARR([[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS matrix]] 参照)
-- 収入の 70-90% を operator + restaker に分配 · EigenLabs は 10-30% 抽出
+- 収入の 70-90% を 事業者 + restaker に分配 · EigenLabs は 10-30% 抽出
 - EigenLayer 総 TVL が restaking 規制強化で下落すれば · EigenDA セキュリティ予算も同期下落
 - 逆に restaking 規制 clarity + TVL 成長があれば · EigenDA は alt-DA で dominant に
 
@@ -247,18 +248,18 @@ blob 価格圧力に直面し · 各 alt-DA は異なる 差別化 を取る:
 - ZK rollup は DA 選択により敏感 · コストの大頭であるため([[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup matrix 2026]] 参照)
 
 **Multi-DA / DA 集約**:
-- 一部 rollup が「L1 blob + alt-DA 二層」モードを実験 · L1 blob に core commitment 保存 + alt-DA に完全 状態差分 保存
+- 一部 rollup が「L1 blob + alt-DA 二層」モードを実験 · L1 blob に core commitment 保存 + alt-DA に完全状態差分保存
 - fallback セキュリティを提供(alt-DA が失敗しても L1 commitment から再構築可能)
 - modular thesis の hybrid 経路 · ただしエンジニアリング複雑 · 少数のみ デプロイ
 
 **規制非対称性**:
-- Ethereum L1 は既に 十分に分散化されている · 規制サーフェス 最小
+- Ethereum L1 は既に 十分に分散化されている · 規制サーフェス最小
 - Celestia / EigenDA / Avail / NEAR DA の token は全て規制グレーゾーン · 長期不確実性
-- 機関顧客は規制リスク回避のため L1 DA を好む · これは alt-DA の長期 上限
+- 機関顧客は規制リスク回避のため L1 DA を好む · これは alt-DA の長期上限
 
 **形式検証 / エンジニアリング品質**:
-- Ethereum blob 実装は Geth / Nethermind / Besu / Erigon / Reth 等のマルチクライアント + 長期 監査 · 最も成熟
-- EigenDA は EigenLayer 主 AVS · 複数回 監査 + slashing 起動前に厳審
+- Ethereum blob 実装は Geth / Nethermind / Besu / Erigon / Reth 等のマルチクライアント + 長期監査 · 最も成熟
+- EigenDA は EigenLayer 主 AVS · 複数回監査 + slashing 起動前に厳審
 - Celestia / Avail / NEAR DA はいずれも監査通過 · ただし 本番運用経験 < Ethereum blob
 
 ## 関連項目

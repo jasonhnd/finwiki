@@ -2,18 +2,17 @@
 source: fintech/cosmos-ibc-for-financial-institutions
 source_hash: 3935bafb7754d432
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Cosmos IBC for Financial Institutions"
-translated_at: 2026-06-18T23:59:13.070Z
+translated_at: 2026-06-26T08:32:15.200Z
 ---
 
 # Cosmos IBC for Financial Institutions
 
 
-## ウィキ経路
-
-本項目は [[fintech/INDEX|fintech index]] の下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と、より広いシステムの境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読むこと。
+## ウィキ経路本項目は [[fintech/INDEX|fintech index]] の下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と、より広いシステムの境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読むこと。
 
 > [!info] TL;DR
 > 金融機関が cross-chain protocol を選ぶ場合、**信頼最小化(trust-minimized) / 認証可能性(verifiable) / 規制親和性(regulatory-friendly)** が core requirement。Cosmos **IBC + LCP(Light Client Proxy via TEE)** は唯一 light client verification を完備した protocol で、Progmat / Datachain が日本側で実装中。Hyperlane / CCIP / LayerZero は使いやすさは上だが、**multi-sig / oracle 依存** で信託銀行の AML/CFT 要件と緊張関係にある。
@@ -22,7 +21,7 @@ translated_at: 2026-06-18T23:59:13.070Z
 
 | 項目 | **IBC (+ LCP)** | Chainlink CCIP | LayerZero | Hyperlane |
 |---|---|---|---|---|
-| 設計起源 | Cosmos ecosystem(2019)| Chainlink + Swift PoC | Independent(2022)| Modular(2023)|
+| 設計起源 | Cosmos 経済圏(2019)| Chainlink + Swift PoC | Independent(2022)| Modular(2023)|
 | Trust 模型 | **Light client verification** | Decentralized Oracle Network(DON)+ Risk Mgmt Network | Oracle + Relayer 2 部署 | Interchain Security Modules(ISM)·選択可能 |
 | Trust 最小化 | **高**(暗号学的)| 中(DON 信頼)| 中(Oracle/Relayer 信頼)| 設定次第 |
 | Chain coverage | Cosmos chains + EVM(via LCP)| EVM 主要 + 拡大中 | **70+ chains** 最大 | 50+ chains |
@@ -81,7 +80,7 @@ LCP middleware(TEE-based light client)
 - **Open standard** ✓
 - **No single point of trust** ✓
 
-これらは §501(d) 認定の評価軸と整合的 → 将来 §501(d) tier 取得を目指す SC issuer にとって IBC + LCP は構造的に有利な選択。クロスチェーン 5 極の横向対照は [[systems/cross-chain-five-pole-comparison-matrix|跨链 5 极比较矩阵]] 参照。
+これらは §501(d) 認定の評価軸と整合的 → 将来 §501(d) tier 取得を目指す SC 発行会社 にとって IBC + LCP は構造的に有利な選択。クロスチェーン 5 極の横向対照は [[systems/cross-chain-five-pole-comparison-matrix|跨链 5 极比较矩阵]] 参照。
 
 ## 応用
 
@@ -89,7 +88,7 @@ LCP middleware(TEE-based light client)
 - Project Pax / mBridge / Project Agorá の技術 stack 評価
 - TD と SC の cross-border 通道設計
 - 信託型 SC を multi-chain で運用する場合の middleware 選択 → [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
-- SWIFT API + blockchain settlement パターンの基盤 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- SWIFT API + blockchain 決済パターンの基盤 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 
 ---
 

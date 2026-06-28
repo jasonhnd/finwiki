@@ -2,10 +2,11 @@
 source: fintech/m0-network-infrastructure-update-2026
 source_hash: 8e32288c439548f5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "M0  / M ネットワーク · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期"
-translated_at: 2026-06-02T13:21:55.072Z
+translated_at: 2026-06-26T08:29:01.756Z
 ---
 
 # M0  / M ネットワーク · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期
@@ -33,13 +34,13 @@ translated_at: 2026-06-02T13:21:55.072Z
 
 | 月 | イベント | 意義 |
 |---|---|---|
-| 2026-01 | USDM v1 mainnet | M0 自社 利回りラッパー 稼働、発行体収益分配 を標準化 |
+| 2026-01 | USDM v1 mainnet | M0 自社利回りラッパー 稼働、発行体収益分配 を標準化 |
 | 2026-02 | M Bridge alpha（Base ↔ Arbitrum） | 単一M-anchored SCのクロスチェーンがLayerZero/CCIPに依存せず、自前のburn-mint正準ブリッジを持つ |
 | 2026-03 | MXNB pilot（Bitsoマッチング） | 初の非米ドルパートナーSCであり、[[fintech/em-market-crypto-dollarization-pattern|EM 市場の暗号ドル化パターン]]とは別軌道を開く |
-| 2026-04 | $M トークン・ガバナンス・アップグレード ER1 | issuer 検証投票閾値を 51% から 67% に引き上げ、VC ガバナンス捕獲懸念に対応 |
+| 2026-04 | $M トークン・ガバナンス・アップグレード ER1 | 発行会社検証投票閾値を 51% から 67% に引き上げ、VC ガバナンス捕獲懸念に対応 |
 | 2026-04 | Re7 CapitalがUSDM後端vaultに参加 | 利回り付き構造をUSDM（カストディ型）+ sUSDM（DeFi再利用型）に分解 |
 | 2026-05 | M Bridge Optimism / Unichain | [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークンのトリレンマ]]の「チェーン非依存」極と整合 |
-| 2026-Q3 計画 | Solana M Bridge + 第 7-9 パートナー発行体 公開 | 拡大フェーズ |
+| 2026-Q3 計画 | Solana M Bridge + 第 7-9 パートナー発行体公開 | 拡大フェーズ |
 | 2026-Q4 計画 | $Mステーキング・エコノミクスの再評価 | [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]のDAO利回りルーティングと対比 |
 
 ## 仕組み / 3 層ミドルウェアのアップグレード
@@ -52,7 +53,7 @@ translated_at: 2026-06-02T13:21:55.072Z
 2. **L2 資産層（M-anchored token + USDM）**: パートナー発行体はM-anchored tokenを「発行体ブランドSCの基盤」として使用し、USDMはM0 自社の利回りラッパーとしてリテール / DeFi向けに使う。**重要な違い**: パートナー発行体が得るのは「コンプラ・テンプレート」ではなく、すでに利回り接続済みの完成品であり、利息分配エコノミクス（[[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]参照）がUSDM層で標準化済みである。
 3. **L3 クロスチェーン層（M Bridge）**: 同一発行体のSCがBase / Arbitrum / Optimism / Unichain / Solana間でデフォルトの正準burn-mint方式を使い、LayerZero / Wormholeなどの汎用ブリッジを経由しない。これにより[[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]の「アップグレード・イベント = 流動性再配分」レバーをM0 自身が回収する。
 
-**MXNB pilot の特殊性**:Bitso(メキシコ最大の取引所)がマッチング、M0 がコンプラ・インフラを提供、メキシコペソ・ペッグ。これは M0 初の**非米ドル SC** 引受で、[[fintech/india-anti-dollar-dpi-alliance|India 反米ドル DPI 連盟]] と同じ思想 —— EM 国が米ドル SC に完全占領されないようにする。Mercado Bitcoin の副 issuer 役は H2 に BRL 版が登場する可能性を示唆。MXNB の流通は依然極小($25M 相当)だが、**シグナル価値はサイズを大きく超える** —— M0 が同じインフラで非米ドル SKU を引き受けられることを実証。
+**MXNB pilot の特殊性**:Bitso(メキシコ最大の取引所)がマッチング、M0 がコンプラ・インフラを提供、メキシコペソ・ペッグ。これは M0 初の**非米ドル SC** 引受で、[[fintech/india-anti-dollar-dpi-alliance|India 反米ドル DPI 連盟]] と同じ思想 —— EM 国が米ドル SC に完全占領されないようにする。Mercado Bitcoin の副発行会社役は H2 に BRL 版が登場する可能性を示唆。MXNB の流通は依然極小($25M 相当)だが、**シグナル価値はサイズを大きく超える** —— M0 が同じインフラで非米ドル SKU を引き受けられることを実証。
 
 ## $Mトークン・エコノミクスとガバナンス
 
@@ -104,7 +105,7 @@ $Mステーカー ~ プロトコル取り分 の一部
 - [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
 - [[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL トークン化 MMF 概要]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 採用マトリクス]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社採用マトリクス]]
 - [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
 - [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークン戦略のトリレンマ]]

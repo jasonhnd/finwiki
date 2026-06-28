@@ -2,10 +2,11 @@
 source: real-estate-finance/nippon-building-fund-j-reit-8951
 source_hash: 66976e224d579c8b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本ビルファンド (NBF, J-REIT 8951)"
-translated_at: 2026-06-19T12:43:19.970Z
+translated_at: 2026-06-26T08:29:40.685Z
 ---
 
 # 日本ビルファンド (NBF, J-REIT 8951)
@@ -108,7 +109,7 @@ NBF-JRE のペアリングは、より広範な三井不動産 vs 三菱地所�
 - [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
-- [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
+- [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]]
 - [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] · [[trust-banks/sumitomo-mitsui-trust|SMTB]] · [[trust-banks/mizuho-trust-bank|Mizuho Trust]]
 - [[INDEX|FinWiki index]]
 

@@ -2,10 +2,11 @@
 source: financial-conglomerates/mitsubishi-corp
 source_hash: 5e8e90000e7241f5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三菱商事 (Mitsubishi Corporation)"
-translated_at: 2026-06-02T14:54:39.080Z
+translated_at: 2026-06-26T08:32:15.220Z
 ---
 # 三菱商事 (Mitsubishi Corporation)
 
@@ -21,11 +22,11 @@ translated_at: 2026-06-02T14:54:39.080Z
 | 英語名 | Mitsubishi Corporation ^[extracted] |
 | ティッカー | 東証 PRIME **8058** ^[extracted] |
 | 上場 | 東京証券取引所 PRIME 市場、Nagoya 上場も含む ^[extracted] |
-| 設立 | 1950 年 (旧 三菱商事の戦後再分割を経て現形態化、1954 年合併で再統合) ^[extracted] |
+| 設立 | 1950 年 (旧三菱商事の戦後再分割を経て現形態化、1954 年合併で再統合) ^[extracted] |
 | 本社 | 東京都千代田区丸の内 ^[extracted] |
 | 連結従業員 | 約 8 万人超 (グループ連結) ^[extracted] |
 | 会計基準 | IFRS ^[extracted] |
-| 主要セグメント | 天然ガス、総合素材、石油・化学ソリューション、金属資源、産業インフラ、自動車・モビリティ、食品産業、コンシューマー産業 (含 ローソン)、電力ソリューション、複合都市開発 ^[extracted] |
+| 主要セグメント | 天然ガス、総合素材、石油・化学ソリューション、金属資源、産業インフラ、自動車・モビリティ、食品産業、コンシューマー産業 (含ローソン)、電力ソリューション、複合都市開発 ^[extracted] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
@@ -42,14 +43,14 @@ translated_at: 2026-06-02T14:54:39.080Z
 
 | 年 | 事象 |
 |---|---|
-| 1918 | 旧 三菱商事 設立 |
-| 1947 | GHQ 財閥解体で 旧 三菱商事 解体 |
-| 1954 | 再統合により現 三菱商事 設立 |
+| 1918 | 旧三菱商事設立 |
+| 1947 | GHQ 財閥解体で 旧三菱商事解体 |
+| 1954 | 再統合により現三菱商事設立 |
 | 1970s〜 | LNG (ブルネイ・マレーシア・豪州 NWS) 上流参入 — 後の core profit driver |
-| 1990s | BHP との豪州 鉄鉱石・原料炭 JV (BMA 等) |
+| 1990s | BHP との豪州鉄鉱石・原料炭 JV (BMA 等) |
 | 2000s〜 | 資源高サイクルで純利益 1 兆円級到達 |
 | 2017 | ローソン子会社化 (株式 50%+) |
-| 2024 | KDDI と ローソン 50/50 体制、TOB により ローソン 上場廃止 |
+| 2024 | KDDI と ローソン 50/50 体制、TOB により ローソン上場廃止 |
 
 ## 2. 事業セグメント・マップ
 
@@ -64,7 +65,7 @@ translated_at: 2026-06-02T14:54:39.080Z
 | 食品産業 | 食品商社 (素材・穀物)、コーヒー、サーモン (Cermaq) | 日本ケンタッキー・フライド・チキン (KFC Japan) — 2024 売却 |
 | コンシューマー産業 | コンビニ (ローソン)、リテール、ヘルスケア | ローソン (50% MC + 50% KDDI) |
 | 電力ソリューション | IPP、再エネ、洋上風力、グリーン水素 | Diamond Generating |
-| 複合都市開発 | 不動産 (旧 三菱地所系とは独立)、海外都市開発 | — |
+| 複合都市開発 | 不動産 (旧三菱地所系とは独立)、海外都市開発 | — |
 
 ## 3. 金融サービスとの隣接領域
 
@@ -74,7 +75,7 @@ translated_at: 2026-06-02T14:54:39.080Z
 | 三菱商事アセットマネジメント | [[asset-managers/mitsubishi-corp-asset-management]] | 100% | グループ運用 / オルタナ運用 (該当 wiki が存在する場合) |
 | 三菱HCキャピタル | [[leasing-firms/mitsubishi-hc-capital]] | 約 20% 級 (持分法) | **外向け** 総合リース・ファイナンス、東証 PRIME **8593** |
 
-加えて、**三菱グループの cross-shareholding** を通じた financial-services ecosystem 連結:
+加えて、**三菱グループの cross-shareholding** を通じた financial-services 経済圏連結:
 
 「外向けリース = 三菱HCキャピタル」「内向け CMS = MCFS」の **二層構造** が三菱商事の財務オペレーションの定型。
 
@@ -83,7 +84,7 @@ translated_at: 2026-06-02T14:54:39.080Z
 | 商社 | 強み | コア利益源 |
 |---|---|---|
 | **三菱商事 (8058)** | LNG / 金属資源 / コンビニ (ローソン) | 資源 + 生活産業のバランス型 |
-| [[financial-conglomerates/mitsui-co|三井物産 (8031)]] | 鉄鉱石 (Vale 持分) / LNG / 機械 | 資源寄り、純利益 上位常連 |
+| [[financial-conglomerates/mitsui-co|三井物産 (8031)]] | 鉄鉱石 (Vale 持分) / LNG / 機械 | 資源寄り、純利益上位常連 |
 | [[financial-conglomerates/itochu-corp|伊藤忠商事 (8001)]] | 繊維 / 食品 (ファミマ) / ICT | 非資源 = 生活産業 + ICT |
 | [[financial-conglomerates/sumitomo-corp|住友商事 (8053)]] | 鋼管 / 不動産 / 米国メディア (J:COM 等) | 多角寄り、近年純利益で 5 大の中下位 |
 | [[financial-conglomerates/marubeni-corp|丸紅 (8002)]] | 電力 IPP / 食品 (穀物) / 鋼管 | 電力・穀物商社の側面 |
@@ -102,12 +103,12 @@ translated_at: 2026-06-02T14:54:39.080Z
 
 ## 7. 未解決の問い
 
-- 2024〜 の **ローソン 非公開化後の戦略** — KDDI との「リアル × デジタル」シナジー、コンビニ ATM (旧 ローソン銀行) の今後の位置付けは？
+- 2024〜 の **ローソン非公開化後の戦略** — KDDI との「リアル × デジタル」シナジー、コンビニ ATM (旧ローソン銀行) の今後の位置付けは？
 - **EX / GX 投資** (洋上風力、水素、CCS 等) の収益化タイムライン
 - **資源資産の縮小・入れ替え** (例: 豪州石炭 BMA 縮小、再エネ・銅・リチウム拡大) の進度
-- **持分法 → 連結子会社化** の動き (HCキャピタル、三菱自動車 等) はあるか
+- **持分法 → 連結子会社化** の動き (HCキャピタル、三菱自動車等) はあるか
 - **三菱グループ cross-shareholding** の解消圧力 (ガバナンス改革の文脈) と商社のスタンス
-- 5 大商社 内での **純利益首位争い** の今後 ([[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/mitsui-co|三井物産]] との比較)
+- 5 大商社内での **純利益首位争い** の今後 ([[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/mitsui-co|三井物産]] との比較)
 
 ## 関連項目
 

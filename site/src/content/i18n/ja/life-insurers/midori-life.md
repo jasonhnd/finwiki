@@ -2,10 +2,11 @@
 source: life-insurers/midori-life
 source_hash: 472aa4f4359f7b92
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "みどり生命保険"
-translated_at: 2026-06-15T03:48:21.925Z
+translated_at: 2026-06-26T08:32:07.553Z
 ---
 
 # みどり生命保険
@@ -25,7 +26,7 @@ translated_at: 2026-06-15T03:48:21.925Z
 | Legal name | みどり生命保険株式会社 |
 | License obtained | 2008-08（生命保険業免許） |
 | Operations start | 2008-10 |
-| License route | 保険業法 上の生命保険会社免許; FSA 生命保険会社免許一覧 |
+| License route | 保険業法上の生命保険会社免許; FSA 生命保険会社免許一覧 |
 | Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] |
 | Industry body | [[financial-regulators/seiho-kyokai|生命保険協会]] member |
 | Group context | 冠婚葬祭互助会系（ベルコグループ）関連会社として設立（公開沿革） |
@@ -39,7 +40,7 @@ translated_at: 2026-06-15T03:48:21.925Z
 
 - 金融庁の生命保険会社免許一覧上の exact-name anchor を確定し、大手グループに偏らない registry の完全性を保つ。
 - 大手金融グループに属さない**非金融母体（冠婚葬祭互助会系）発の生保**という、日本の生保構造の多様性を一例として記録する。
-- 将来の product / disclosure review への route を残す（cross-frame solvency 比較は [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]）。
+- 将来の product / disclosure review への route を残す（cross-frame ソルベンシー 比較は [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]）。
 
 ## 関連
 

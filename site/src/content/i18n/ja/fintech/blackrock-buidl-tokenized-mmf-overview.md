@@ -2,10 +2,11 @@
 source: fintech/blackrock-buidl-tokenized-mmf-overview
 source_hash: 718e91b743999e18
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」"
-translated_at: 2026-06-02T13:21:55.053Z
+translated_at: 2026-06-26T08:29:01.750Z
 ---
 
 # BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」
@@ -29,7 +30,7 @@ translated_at: 2026-06-02T13:21:55.053Z
 
 ## 仕組み / 作動原理
 
-BUIDL の「yield インフラ」モデル = SC issuer が BUIDL を準備として保有 → BUIDL の 4.3% APY が issuer の純利息収入に流入 → issuer がそれを元手に SC 流通を拡大 → 流通拡大により再度 BUIDL 購入。**主要なイノベーション**: BUIDL は同時に CME / Binance / Deribit / Crypto.com からデリバティブの IM 担保として受け入れられ、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] は BUIDL を償還流動性として活用 — BUIDL の実質的な経済規模 ≠ AUM、繰り返し **梃子化されて利用されている**。これは [[fintech/circular-reserve-asset-flywheel-overview|準備資産インターロック・フライホイール]] と直接結合する（詳細は姉妹エントリ参照）。
+BUIDL の「yield インフラ」モデル = SC 発行会社 が BUIDL を準備として保有 → BUIDL の 4.3% APY が 発行会社 の純利息収入に流入 → 発行会社 がそれを元手に SC 流通を拡大 → 流通拡大により再度 BUIDL 購入。**主要なイノベーション**: BUIDL は同時に CME / Binance / Deribit / Crypto.com からデリバティブの IM 担保として受け入れられ、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] は BUIDL を償還流動性として活用 — BUIDL の実質的な経済規模 ≠ AUM、繰り返し **梃子化されて利用されている**。これは [[fintech/circular-reserve-asset-flywheel-overview|準備資産インターロック・フライホイール]] と直接結合する（詳細は姉妹エントリ参照）。
 
 ## 起源と発展
 

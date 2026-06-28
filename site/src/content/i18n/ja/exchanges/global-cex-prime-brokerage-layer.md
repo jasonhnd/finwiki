@@ -2,28 +2,27 @@
 source: exchanges/global-cex-prime-brokerage-layer
 source_hash: 5de894b633377978
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "グローバル暗号資産 プライムブローカレッジ層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland"
-translated_at: 2026-06-02T12:19:04.226Z
+title: "グローバル暗号資産プライムブローカレッジ層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland"
+translated_at: 2026-06-26T08:29:25.271Z
 ---
 
-# グローバル暗号資産 プライムブローカレッジ層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland
+# グローバル暗号資産プライムブローカレッジ層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland
 
 ## ウィキ上の位置づけ
 
-本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。比較・対照の文脈では [[exchanges/global-institutional-custody-five-pillars|global institutional custody five pillars]]、より広いシステム上・規制上の境界については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] とあわせて読む。
+本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。比較・対照の文脈では [[exchanges/global-institutional-custody-five-pillars|global institutional カストディ five pillars]]、より広いシステム上・規制上の境界については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] とあわせて読む。
 
-## 概要
-
-暗号資産プライムブローカレッジは、機関投資家向けに (a) 統合口座 (multi-CEX cross-margin) (b) カストディ (c) レンディング (d) 執行 (e) レポーティングを一括提供する層である。伝統金融における Goldman / JP Morgan の機能に類似するが、暗号資産に特化している。2024 BTC 現物 ETF 承認後の機関投資家流入を背景に、2024-2026 年に急成長し、暗号資産の機関フローを支える中枢インフラとして定着しつつある。
+## 概要暗号資産プライムブローカレッジは、機関投資家向けに (a) 統合口座 (multi-CEX cross-margin) (b) カストディ (c) レンディング (d) 執行 (e) レポーティングを一括提供する層である。伝統金融における Goldman / JP Morgan の機能に類似するが、暗号資産に特化している。2024 BTC 現物 ETF 承認後の機関投資家流入を背景に、2024-2026 年に急成長し、暗号資産の機関フローを支える中枢インフラとして定着しつつある。
 
 ## 主要5 プレイヤー
 
 - **Hidden Road** — 2025-04 に Ripple が $1.25B で買収。暗号資産 + 伝統金融ハイブリッドのマルチアセット・プライムブローカレッジ。買収後は XRP / RLUSD 経由の決済統合が進行。
 - **FalconX** — Tiger Global / Accel 出資。機関 OTC + プライム機能のハイブリッド。評価額 $8B (2024 ラウンド)。米国機関フローの主要ハブ。
 - **Galaxy Digital** — Mike Novogratz 創業。Nasdaq 上場 (ticker: GLXY, 2025 移管)。機関向けトレーディング + 資産運用 + 投資銀行の三層モデル。
-- **B2C2** — 英本社、SBI Holdings が 2021-12 に買収し子会社化。OTC マーケットメイカー起点。日本法人 B2C2 Japan は関東財務局長 第00012号 (国内 VASP)。
+- **B2C2** — 英本社、SBI Holdings が 2021-12 に買収し子会社化。OTC マーケットメイカー起点。日本法人 B2C2 Japan は関東財務局長第00012号 (国内 VASP)。
 - **Cumberland (DRW 系)** — シカゴ系 OTC、DRW Trading の暗号資産部門。機関中心、2014 年から実績ある最古参の一角。
 
 ## ビジネスモデル

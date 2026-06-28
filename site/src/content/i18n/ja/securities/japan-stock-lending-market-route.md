@@ -2,18 +2,17 @@
 source: securities/japan-stock-lending-market-route
 source_hash: 041c74af30c284e1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の貸株市場経路"
-translated_at: 2026-06-03T00:53:08.354Z
+translated_at: 2026-06-26T08:32:23.062Z
 ---
 # 日本の貸株市場経路
 
-## 概要
+## 概要日本の貸株は、カストディアン、機関投資家、証券会社、証券金融会社、信用取引、空売り、担保、清算、決済、コーポレートアクションをつなぐ市場インフラ上の経路である。弱気シグナルとして分析する前に、まず配管として分析する。
 
-日本の貸株は、カストディアン、機関投資家、証券会社、証券金融会社、信用取引、空売り、担保、清算、決済、コーポレートアクションをつなぐ市場インフラ上の経路である。弱気シグナルとして分析する前に、まず配管として分析する。
-
-このページは[[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[money-market/jgb-repo-market-japan|JGB repo market]]と合わせて使う。
+このページは[[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介 and institutional financing]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[money-market/jgb-repo-market-japan|JGB repo market]]と合わせて使う。
 
 ## 経路地図
 
@@ -36,9 +35,7 @@ translated_at: 2026-06-03T00:53:08.354Z
 | マーケットメイク / ヘッジ用借株 | 流動性供給やヘッジのための借入。 | デリバティブや顧客フローに結びつくことが多い。 |
 | 特別 / 希少な借株 | 銘柄固有の希少性が手数料 / 品貸料に反映される。 | 踏み上げ、規制、監視シグナルを生み得る。 |
 
-## カストディとの接続
-
-信託銀行とカストディ銀行が重要なのは、法的名義、受益者、貸出指図、担保、コーポレートアクション、議決権の経路が分離しているためである。信託銀行の名義人として表示される口座から貸株供給を解釈する前に、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]を読む。
+## カストディとの接続信託銀行とカストディ銀行が重要なのは、法的名義、受益者、貸出指図、担保、コーポレートアクション、議決権の経路が分離しているためである。信託銀行の名義人として表示される口座から貸株供給を解釈する前に、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]を読む。
 
 ## 確認すべき問い
 

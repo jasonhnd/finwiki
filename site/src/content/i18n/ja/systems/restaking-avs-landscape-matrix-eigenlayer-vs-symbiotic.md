@@ -2,10 +2,11 @@
 source: systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic
 source_hash: 91d67a92b21cdcdd
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "リステーキングと AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM"
-translated_at: 2026-06-03T01:06:46.371Z
+translated_at: 2026-06-26T08:29:09.720Z
 ---
 ﻿
 # リステーキングと AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM
@@ -22,11 +23,9 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[systems/INDEX|systems index]] に属する。標準的な基準点として [[systems/eigenlayer-overview|EigenLayer overview]]、スラッシングと AVS 経済性の詳細として [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism · Operator · Slashing · EIGEN 仲裁]]、新規チェーンがリステーキングを使ってセキュリティを立ち上げる方法として [[systems/eigenlayer-l1-bootstrapping|EigenLayer L1 bootstrapping]] とあわせて読む。バリデータ経済のメタ文脈は [[systems/bft-validator-economy-overview|BFT validator economics overview]] と [[systems/bft-validator-economy-four-variables|BFT validator economy four variables]]、リステーキングが関わるコンセンサスモデルは [[systems/threshold-bft-consensus-rust-implementations|threshold BFT consensus Rust implementations]] と [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] を参照。リステーキング経済と相互作用する EIP-7251  の機関 staking 経路は [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]]、LRT への CEX エクスポージャーと「liquid staking → restaking → CEX leverage」スタックは [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]] を参照。Hyperlane / LayerZero / Wormhole を AVS 消費者として考える場合は [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] に接続する。
+この項目は [[systems/INDEX|systems index]] に属する。標準的な基準点として [[systems/eigenlayer-overview|EigenLayer overview]]、スラッシングと AVS 経済性の詳細として [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism · 事業者 · Slashing · EIGEN 仲裁]]、新規チェーンがリステーキングを使ってセキュリティを立ち上げる方法として [[systems/eigenlayer-l1-bootstrapping|EigenLayer L1 bootstrapping]] とあわせて読む。バリデータ経済のメタ文脈は [[systems/bft-validator-economy-overview|BFT validator economics overview]] と [[systems/bft-validator-economy-four-variables|BFT validator economy four variables]]、リステーキングが関わるコンセンサスモデルは [[systems/threshold-bft-consensus-rust-implementations|threshold BFT consensus Rust implementations]] と [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] を参照。リステーキング経済と相互作用する EIP-7251  の機関 staking 経路は [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]]、LRT への CEX エクスポージャーと「liquid staking → restaking → CEX leverage」スタックは [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]] を参照。Hyperlane / LayerZero / Wormhole を AVS 消費者として考える場合は [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] に接続する。
 
-## このマトリクスが重要な理由
-
-リステーキングは 2023-2024 年において EigenLayer 単独プレイヤーの「ETH crypto-economic security marketplace」概念だった。2024-2025 年に複数プロトコル競合へと進化 —— Symbiotic はマルチアセット リステーキングを提供(ETH のみならず)· Karak は開発者 UX + universal リステーキングを主軸 · Mellow は LRT vault aggregator · EtherFi は LRT(eETH)で LST 市場を引き継ぎ · Lido 自身も CSM(Community Staking Module)と stVaults 経由で参入。
+## このマトリクスが重要な理由リステーキングは 2023-2024 年において EigenLayer 単独プレイヤーの「ETH crypto-economic security marketplace」概念だった。2024-2025 年に複数プロトコル競合へと進化 —— Symbiotic はマルチアセットリステーキングを提供(ETH のみならず)· Karak は開発者 UX + universal リステーキングを主軸 · Mellow は LRT vault aggregator · EtherFi は LRT(eETH)で LST 市場を引き継ぎ · Lido 自身も CSM(Community Staking Module)と stVaults 経由で参入。
 
 開発者(AVS 構築者 · 例えば [[systems/hyperlane-overview|Hyperlane]] / EigenDA / Lagrange)にとって · どのリステーキング層を選ぶかは:**運営者プール の深さ · スラッシングの真の執行可能性 · TVL backing による経済セキュリティ規模 · 治理の予測可能性** を決定する。ユーザー(restake を検討する stETH 保有者)にとって · どの LRT(eETH · ezETH · pufETH · mevETH 等)を選ぶかは:**収益分配 · スラッシングリスクエクスポージャー · withdrawal 流動性 · CEX 上場の有無** を決定する。
 
@@ -42,7 +41,7 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 **TVL（2026年5月時点）**:~$14B(推定 · 2025 高値で $20B+ に達した · 2026 は一部 LRT 退出 + 収益圧縮で穏やかな調整)。
 
-**スラッシング実装**:2025-Q2 メインネット スラッシングを有効化。AVS がカスタム スラッシング条件を定義([[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]] を参照)。実 slash イベント ≤ 5 件(2026-Q2)· 累計 slash 金額 < $5M(主に 運営者設定ミス · 悪意ではない)。
+**スラッシング実装**:2025-Q2 メインネットスラッシングを有効化。AVS がカスタムスラッシング条件を定義([[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]] を参照)。実 slash イベント ≤ 5 件(2026-Q2)· 累計 slash 金額 < $5M(主に 運営者設定ミス · 悪意ではない)。
 
 **AVS 経済性**:~40 AVS active · EigenDA · Hyperlane · Espresso · Lagrange · Witness Chain · AltLayer · Brevis · 等を含む。運営者報酬 は AVS 課金(EIGEN + 各 AVS native token)由来 · 年化 +1-3% を base ETH staking yield に上乗せ。
 
@@ -98,13 +97,13 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 **監査**:Sigma Prime · Halborn · Cantina(一部)。
 
-**Lido stake 重複**:~20% TVL が stETH 由来(Karak は BTC + ステーブルコイン リステーキングがより大きな比率)。
+**Lido stake 重複**:~20% TVL が stETH 由来(Karak は BTC + ステーブルコインリステーキングがより大きな比率)。
 
 **規制エクスポージャー**:BTC リステーキングが SEC の「BTC yield product」への関心をトリガー。USDC restaking は money market 規制に接近。総合的に規制サーフェスは EigenLayer より広い。
 
 ### Mellow
 
-**リステーキングモデル**:LRT vault aggregator(基層 リステーキングではなく · EigenLayer + Symbiotic の上に構築された vault layer)· Mellow vault ユーザーが stETH / wstETH を預け · vault が自動的に EigenLayer/Symbiotic AVS に restake · 収益分配 + スラッシングリスクが pooled。
+**リステーキングモデル**:LRT vault aggregator(基層リステーキングではなく · EigenLayer + Symbiotic の上に構築された vault layer)· Mellow vault ユーザーが stETH / wstETH を預け · vault が自動的に EigenLayer/Symbiotic AVS に restake · 収益分配 + スラッシングリスクが pooled。
 
 **TVL（2026年5月時点）**:~$1.8B(2024-Q4 launch · 2025-2026 fast growth · Symbiotic の最大 vault curator · 同時に一部 EigenLayer vault も deploy)。
 
@@ -114,7 +113,7 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 **相関リスク**:最高の層 —— vault が複数 AVS を同時保有 · 単一 vault 内 slash cascade リスクが顕著。Mellow は vault 多元化(異なる AVS pool 異なる vault)で緩和。
 
-**運営者集中度**:EigenLayer / Symbiotic 運営者 集合を借用 · 自身は新規集中度を持ち込まない。
+**運営者集中度**:EigenLayer / Symbiotic 運営者集合を借用 · 自身は新規集中度を持ち込まない。
 
 **ガバナンス**:Mellow DAO + MLW token(2025-Q2 ローンチ)· vault curator team が sub-governance。
 
@@ -148,7 +147,7 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 ### Lido CSM (Community Staking Module)
 
-**リステーキングモデル**:Lido 自身は長期に リステーキングに参入せず(Lido v2 治理で複数回否決)· ただし 2024 年に CSM(Community Staking Module)を発表し、小規模 運営者が Lido validator セットに参加可能とした · 同時に stVaults(2026 計画)を探索し stETH 保有者が opt-in リステーキングできるようにする。Lido v3(2026 roadmap)で正式に リステーキング hook を導入。
+**リステーキングモデル**:Lido 自身は長期に リステーキングに参入せず(Lido v2 治理で複数回否決)· ただし 2024 年に CSM(Community Staking Module)を発表し、小規模運営者が Lido validator セットに参加可能とした · 同時に stVaults(2026 計画)を探索し stETH 保有者が opt-in リステーキングできるようにする。Lido v3(2026 roadmap)で正式に リステーキング hook を導入。
 
 **TVL（2026年5月時点）**:~$280M(CSM early adoption · 2026 Q3-Q4 stVaults ローンチ後急成長予想)。Lido stETH 全体 TVL ~$32B(リステーキング部分 < 1%)。
 
@@ -158,15 +157,15 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 **相関リスク**:Lido の設計哲学は「minimize correlation」· stVaults opt-in 後はユーザーが暗黙的に負担 · ただし Lido DAO が AVS ホワイトリスト + 浮動 cap で制限。
 
-**運営者集中度**:Lido 主集合 ~30 運営者(機関)+ CSM ~200 小 運営者。CSM は分散化改善 · ロングテール home staker を導入。
+**運営者集中度**:Lido 主集合 ~30 運営者(機関)+ CSM ~200 小運営者。CSM は分散化改善 · ロングテール home staker を導入。
 
 **ガバナンス**:Lido DAO + LDO token + 全民 referendum · 治理複雑度が最高(stVaults への任意 AVS 接続には LDO 投票通過が必要)。
 
 **監査**:Sigma Prime · ChainSecurity · OpenZeppelin · Certora · Statemind · MixBytes · audit カバレッジは業界最深。
 
-**Lido stake 重複**:Lido が stETH 発行者 · ここでの「Lido stake overlap」= 100%。stETH の EigenLayer / Symbiotic / Mellow / EtherFi での二次 リステーキングが リステーキングエコシステム全体の 25-40% を占め · Lido は事実上の restaking 流動性源([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking restaking CEX エクスポージャー]] を参照)。
+**Lido stake 重複**:Lido が stETH 発行者 · ここでの「Lido stake overlap」= 100%。stETH の EigenLayer / Symbiotic / Mellow / EtherFi での二次リステーキングが リステーキングエコシステム全体の 25-40% を占め · Lido は事実上の restaking 流動性源([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking restaking CEX エクスポージャー]] を参照)。
 
-**規制エクスポージャー**:Lido DAO 治理構造は SEC 視点では「decentralized issuer」に接近 · ただし LDO token holder 投票 + 治理収益分配が securities を構成する可能性。EU MiCA 下で stETH が「asset-referenced token」を構成するかは判決待ち。
+**規制エクスポージャー**:Lido DAO 治理構造は SEC 視点では「decentralized 発行会社」に接近 · ただし LDO token holder 投票 + 治理収益分配が securities を構成する可能性。EU MiCA 下で stETH が「asset-referenced token」を構成するかは判決待ち。
 
 ## AVS 全景 — 5 大 AVS の経済像
 
@@ -192,14 +191,14 @@ translated_at: 2026-06-03T01:06:46.371Z
 |---|---|---|---|---|---|---|---|---|---|---|
 | **EigenLayer** | 運営者委任型 · native ETH+LST+EIGEN | ~$14B | 2025-Q2 有効化 · ≤5 events · <$5M 累計 | ~40 AVS · EIGEN+AVS token rewards · base に +1-3% | Rehypothecation 2.5-3x · cascade 懸念 | Top 5 ~50% | EigenLabs+EIGEN+SC 7/13 | Trail of Bits · ChainSecurity · OZ · Sigma Prime · C4 · Cantina | ~25% stETH | SEC EIGEN security 未表明 · EU MiCA 判決待ち |
 | **Symbiotic** | **マルチアセット**(ETH+LST+stablecoin+token)· modular vault | ~$3.2B | Day 1 design · 2025-Q1 有効化 · vault-level | ~15 AVS · stablecoin/vault/AVS token rewards | 複雑マルチアセット · vault curator アンカー | Top 5 ~60% | Symbiotic Labs · 2026 Q4 token+DAO | OZ · Sigma Prime · Cantina · 初期段階 | ~40% stETH(Mellow vault 主経路) | マルチアセット規制サーフェス複雑 |
-| **Karak** | Universal(ETH+BTC+USDC)· K2 L2 統合 | ~$1.0B | 2025-Q3 有効化 · ≤2 events | ~10 AVS · Karak-incubated 中心 | マルチアセット複雑 · TVL 小 リスク当面低 | Top 5 ~70%(集中度高) | Karak Foundation · KAR 2026 Q3-Q4 | Sigma Prime · Halborn · Cantina 一部 | ~20% stETH | BTC restaking SEC 関心 · USDC は MM 規制に接近 |
+| **Karak** | Universal(ETH+BTC+USDC)· K2 L2 統合 | ~$1.0B | 2025-Q3 有効化 · ≤2 events | ~10 AVS · Karak-incubated 中心 | マルチアセット複雑 · TVL 小リスク当面低 | Top 5 ~70%(集中度高) | Karak Foundation · KAR 2026 Q3-Q4 | Sigma Prime · Halborn · Cantina 一部 | ~20% stETH | BTC restaking SEC 関心 · USDC は MM 規制に接近 |
 | **Mellow** | **LRT vault aggregator**(EigenLayer+Symbiotic 上に)· socialize slashing | ~$1.8B | Vault-level socialize | マルチ AVS pool basket rewards | 最高(vault 内 cascade) | underlying 借用 · 新規集中なし | Mellow DAO+MLW 2025-Q2 · vault curator sub-gov | Sigma Prime · Spearbit · C4 · Symbiotic と合同 | ~100%(基本的に全 LST) | managed fund に接近 · 米国回避 |
 | **EtherFi LRT** | **LST+restaking 一体化** · 自社ノード+マルチレイヤー restake | ~$5.5B(最大 LRT) | EtherFi ノード責任 · insurance fund first-loss | EigenDA+Hyperlane+Espresso+Lagrange · 年化 4-6% | 3 層 slash cascade · insurance ~$50M buffer | EtherFi ネットワーク ~200 運営者 | EtherFi DAO+ETHFI 2024 Q2 · SC 7/15 | Spearbit · Halborn · Certora · Hats bounty | Lido 競合 · 自社 validator · AVS pool 間接重複 | LRT は SEC 重点関心 · 米国リテール geo-fence |
-| **Lido CSM / stVaults** | CSM home staker + stVaults リステーキング hook(2026 計画) | ~$280M CSM · stETH 全体 $32B | CSM 運営者 bond first · insurance backup · stVaults ユーザー負担 | 厳格 AVS ホワイトリスト(DAO 投票) | Lido 哲学 minimize · AVS cap 制限 | CSM ~200 小 運営者 + 主集合 30 | Lido DAO+LDO+referendum(治理最重) | Sigma Prime · ChainSecurity · OZ · Certora · Statemind · MixBytes · 業界最深 | **100%(Lido 自身)** · stETH は restaking 流動性源 | LDO security 判決待ち · stETH MiCA ART 判決待ち |
+| **Lido CSM / stVaults** | CSM home staker + stVaults リステーキング hook(2026 計画) | ~$280M CSM · stETH 全体 $32B | CSM 運営者 bond first · insurance backup · stVaults ユーザー負担 | 厳格 AVS ホワイトリスト(DAO 投票) | Lido 哲学 minimize · AVS cap 制限 | CSM ~200 小運営者 + 主集合 30 | Lido DAO+LDO+referendum(治理最重) | Sigma Prime · ChainSecurity · OZ · Certora · Statemind · MixBytes · 業界最深 | **100%(Lido 自身)** · stETH は restaking 流動性源 | LDO security 判決待ち · stETH MiCA ART 判決待ち |
 
 **マトリクスの読み方**:
-- **リステーキングモデル 3 象限対照**:運営者委任型(EigenLayer · Karak · Symbiotic)→ 直接受託 · vault aggregator(Mellow)→ 他 リステーキングを包装 · LST+restaking 一体化(EtherFi · Lido stVaults)→ ユーザーが LRT token を受領
-- **TVL vs 運営者 concentration tradeoff**:EigenLayer TVL 最大 · 運営者 分散度最高 · Karak TVL 小 · 集中度高 · Mellow は他人の 運営者 借用で新規集中なし
+- **リステーキングモデル 3 象限対照**:運営者委任型(EigenLayer · Karak · Symbiotic)→ 直接受託 · vault aggregator(Mellow)→ 他リステーキングを包装 · LST+restaking 一体化(EtherFi · Lido stVaults)→ ユーザーが LRT token を受領
+- **TVL vs 運営者 concentration tradeoff**:EigenLayer TVL 最大 · 運営者分散度最高 · Karak TVL 小 · 集中度高 · Mellow は他人の 運営者借用で新規集中なし
 - **Lido overlap が隠れたシステミックリスク** —— stETH の EigenLayer / Symbiotic / Mellow / EtherFi での二次 restaking · stETH 価格デペッグまたは Lido protocol incident が発生すれば · リステーキングエコシステム全体が同時に影響を受ける
 - **スラッシング の実状態**:有効化後 1+ 年経過しても実 slash イベント ≤ 10 件 · 累計金額 < $10M · Vitalik が警告した「$100M+ cascade」シナリオをはるかに下回る · ただし sample size が小さく · リスクが価格付けされたと結論づけられない
 
@@ -207,17 +206,17 @@ translated_at: 2026-06-03T01:06:46.371Z
 
 **リステーキングと EIP-7251 の相互作用**([[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]] を参照):
 - EIP-7251 が validator max effective balance を 32 → 2048 ETH に拡大 · 大機関が validator を統合し運用コストを下げることを可能にする。
-- 機関 validator は同時に大額 ETH を restake 可能 · 運営者 concentration をさらに押し上げる。EigenLayer は 2025 年に top 5 運営者 比率の小幅上昇を確認済み。
-- 長期的に institutional staking(SWIFT カストディアン · BNY · Coinbase Custody · BlackRock · [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking restaking CEX エクスポージャー]] を参照)が リステーキングに参入し · TVL は 2026 年の $20B 級から 2027-2028 年に $50B+ へ押し上がる可能性。
+- 機関 validator は同時に大額 ETH を restake 可能 · 運営者 concentration をさらに押し上げる。EigenLayer は 2025 年に top 5 運営者比率の小幅上昇を確認済み。
+- 長期的に institutional staking(SWIFT カストディアン · BNY · Coinbase カストディ · BlackRock · [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking restaking CEX エクスポージャー]] を参照)が リステーキングに参入し · TVL は 2026 年の $20B 級から 2027-2028 年に $50B+ へ押し上がる可能性。
 
-**Lido v3 リステーキング接続**:Lido DAO 2026-2027 stVaults 主線開発 · 接続されれば stETH が直接 リステーキング primitive となり · 二次包装が不要となる。これにより:
+**Lido v3 リステーキング接続**:Lido DAO 2026-2027 stVaults 主線開発 · 接続されれば stETH が直接リステーキング primitive となり · 二次包装が不要となる。これにより:
 - Mellow / EtherFi の一部価値が吸収される(stETH 保有者が直接 opt-in · 仲介 vault が不要)
 - ただし Lido の厳格な AVS ホワイトリストはロングテール AVS の bootstrapping も制限
 - 長期に Lido + EigenLayer が事実上の duopoly を形成 · Symbiotic / Karak / Mellow / EtherFi が周縁細分を担う
 
 **AVS ビジネスモデルの進化**:
 - **2024-2025 段階**:大部分の AVS は token incentive bootstrapping(自前 token を 運営者に配布)に依存 · 実 fee revenue は少ない。
-- **2026 段階**:ヘッド AVS(EigenDA · Hyperlane · Espresso)が実 fee revenue を持ち始めるが · AVS-to-運営者 分配比率は一致しない(EigenDA は 90%+ を 運営者に · Hyperlane は 50/50 · Espresso は依然として bootstrapping 中)。
+- **2026 段階**:ヘッド AVS(EigenDA · Hyperlane · Espresso)が実 fee revenue を持ち始めるが · AVS-to-運営者分配比率は一致しない(EigenDA は 90%+ を 運営者に · Hyperlane は 50/50 · Espresso は依然として bootstrapping 中)。
 - **2027+ トレンド**:AVS market は「DA コモディティ化」(EigenDA / Celestia / Avail 価格戦)と「差別化サービス」(Espresso shared sequencer · Lagrange coprocessor · Witness Chain DePIN 検証)に分化する可能性。
 
 **Rehypothecation のシステミックリスク**:

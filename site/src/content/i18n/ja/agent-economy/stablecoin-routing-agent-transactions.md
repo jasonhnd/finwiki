@@ -2,17 +2,18 @@
 source: agent-economy/stablecoin-routing-agent-transactions
 source_hash: 31eb206b13602bcb
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AIエージェント取引のためのステーブルコインのルーティング · エージェントの決済を実際に決済するのはどのステーブルコインか"
-translated_at: 2026-06-02T11:47:37.293Z
+translated_at: 2026-06-26T08:28:46.037Z
 ---
 
 # AIエージェント取引のためのステーブルコインのルーティング · エージェントの決済を実際に決済するのはどのステーブルコインか
 
 ## 要約
 
-AIエージェントがAPIコール、ツール呼び出し、または下流のエージェントサービスに対して支払う際、2026 年半ばにおける実際にネットワーク上で決済される資産は、支配的なシェアでは **Base上のUSDC**、チェーン固有のユースケースでは **他のL2上のUSDC**(Arbitrum、Optimism、Polygon PoS、Solana)、新興市場および非公式なエージェントレールでは **Tron / Ethereum L1上のUSDT**、発行体に整合した垂直スタックでは **USDB / RLUSD / PYUSD / FDUSD** である。ルーティングは、大半のスタックにおいてエージェントの選択 **ではない** — それはウォレットプロバイダーおよび受け取り側の加盟店の選択である。**Privy + Coinbase CDPはUSDCをデフォルトとし**、**Stripe / BridgeはUSDBを経由してルーティングする** ため、デフォルト階層のウォレットの分布([[agent-economy/embedded-wallet-landscape-2026-consolidation|2026 embedded-wallet consolidation]] 参照)が、AIエージェントがどのステーブルコインで支払うかを実質的に決定する。ERC-4337 のペイマスターを通じたガスレス送金とCircle CCTP v2 (高速なクロスチェーン・ファイナリティ)が **マルチチェーンのエージェント決済のUX** を決定づけ、[[agent-economy/x402-http-payment-overview|x402 protocol]] がその選択を運ぶ支配的なHTTPレイヤーのメカニズムである。より広いステーブルコイン市場については [[fintech/usd-stablecoin-interchange|USD stablecoin interchange]]、発行体の戦略については [[fintech/stablecoin-chain-token-strategy-trilemma|chain × token × strategy trilemma]] を参照。
+AIエージェントがAPIコール、ツール呼び出し、または下流のエージェントサービスに対して支払う際、2026 年半ばにおける実際にネットワーク上で決済される資産は、支配的なシェアでは **Base上のUSDC**、チェーン固有のユースケースでは **他のL2上のUSDC**(Arbitrum、Optimism、Polygon PoS、Solana)、新興市場および非公式なエージェントレールでは **Tron / Ethereum L1上のUSDT**、発行体に整合した垂直スタックでは **USDB / RLUSD / PYUSD / FDUSD** である。ルーティングは、大半のスタックにおいてエージェントの選択 **ではない** — それはウォレットプロバイダーおよび受け取り側の加盟店の選択である。**Privy + Coinbase CDPはUSDCをデフォルトとし**、**Stripe / BridgeはUSDBを経由してルーティングする** ため、デフォルト階層のウォレットの分布([[agent-economy/embedded-wallet-landscape-2026-consolidation|2026 embedded-ウォレット consolidation]] 参照)が、AIエージェントがどのステーブルコインで支払うかを実質的に決定する。ERC-4337 のペイマスターを通じたガスレス送金とCircle CCTP v2 (高速なクロスチェーン・ファイナリティ)が **マルチチェーンのエージェント決済のUX** を決定づけ、[[agent-economy/x402-http-payment-overview|x402 protocol]] がその選択を運ぶ支配的なHTTPレイヤーのメカニズムである。より広いステーブルコイン市場については [[fintech/usd-stablecoin-interchange|USD stablecoin interchange]]、発行体の戦略については [[fintech/stablecoin-chain-token-strategy-trilemma|chain × token × strategy trilemma]] を参照。
 
 ## ウィキ上の位置づけ
 
@@ -41,15 +42,13 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 1. **Base上のUSDCが事実上のデフォルト** である。なぜなら、AWS AgentCoreのデフォルトウォレットの複占([[agent-economy/privy-aws-agentcore-default-wallet|Privy + CDP]])が、エージェントのプロビジョニングのロングテールをCoinbase整合のチェーン経済へと向かわせるからである。
 2. **USDTは新興市場 / 非公式レールにとって構造的に重要** である。主要なハイパースケーラーのデフォルトのエージェントスタックのいずれも、それを推奨デフォルトとして選んでいないにもかかわらず、である。
 
-## 決済ファイナリティの要件
-
-エージェント取引が決済ファイナリティの遅延をどれだけ許容できるかは、ユースケースに依存する:
+## 決済ファイナリティの要件エージェント取引が決済ファイナリティの遅延をどれだけ許容できるかは、ユースケースに依存する:
 
 | ユースケース | 許容度 | 典型的なチェーンの選択 |
 |---|---|---|
 | 公開エンドポイントに対するAPIコールごとのx402 マイクロペイメント | サブセカンドの体感ファイナリティ(確率的な受容で問題ない) | ブロックタイムの速いL2 ;Base、Solana |
 | 数秒のツール呼び出しに対するエージェント間決済 | 数秒のファイナリティ | Base、Arbitrum、Optimism |
-| カストディを保持する下流のエージェントへの支払い(エスクロー的) | ハードファイナリティが必須 | Ethereum L1, 、またはL2 → L1 の不正証明ウィンドウの確認を待つ |
+| カストディを保持する下流のエージェントへの支払い(エスクロー的) | ハードファイナリティが必須 | Ethereum L1,、またはL2 → L1 の不正証明ウィンドウの確認を待つ |
 | 国境を越えるB2Bのエージェント決済 | ファイナリティ + コンプライアンス | Ethereum L1上のUSDC;CCTP v2 のクロスチェーン |
 | 財務スイープ | ハードファイナリティ + 照合 | Ethereum L1;従来の会計へのオフチェーン照合 |
 
@@ -67,11 +66,9 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 
 デフォルト階層の組込型ウォレットにおけるパターンは、クロスチェーンのルーティングについて **USDC + CCTP v2をデフォルトとし**、対象チェーンがUSDC + CCTPのサポートを欠く場合にのみ汎用のメッセージングにフォールバックすることである。
 
-## ガスレスのエージェント取引 · ペイマスターのメカニクス
+## ガスレスのエージェント取引 · ペイマスターのメカニクスエージェントは、いかなる合理的な本番デプロイメントにおいても、ガスのためのETHを保持しない。ガスはERC-4337 のペイマスターを通じてスポンサーされる:
 
-エージェントは、いかなる合理的な本番デプロイメントにおいても、ガスのためのETHを保持しない。ガスはERC-4337 のペイマスターを通じてスポンサーされる:
-
-- **Coinbase Base Paymaster。** Base上のCDP発行のSmart Wallet内の取引に対してガスをスポンサーし、USDCで支払うか、まるごとスポンサーされる。[[agent-economy/coinbase-cdp-developer-platform|CDP / AgentKit]] スタックの構造的なデフォルト。
+- **Coinbase Base Paymaster。** Base上のCDP発行のSmart ウォレット内の取引に対してガスをスポンサーし、USDCで支払うか、まるごとスポンサーされる。[[agent-economy/coinbase-cdp-developer-platform|CDP / AgentKit]] スタックの構造的なデフォルト。
 - **Pimlico、Stackup、Biconomy、Alchemy AA paymaster。** あらゆるERC-4337 ウォレットが統合できるサードパーティのペイマスター。Privyおよび他のSDKで用いられる。
 - **Stripe / Privyのカスタムペイマスター。** 加盟店のStripe Treasury残高からUSDCを計量する、Stripeレール対応のペイマスター。
 - **EIP-7702 のハイブリッドモード。** EOAは単一の取引のために一時的にスマートアカウントへアップグレードでき([[agent-economy/erc-7715-overview|ERC-7715]] のパーミッションモデル参照)、恒久的な移行なしにペイマスターのスポンサーを可能にする。
@@ -85,7 +82,7 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 - **バーン・アンド・ミントであり、ブリッジ・アンド・ラップではない。** USDCはソースチェーン上でバーンされ、Circleのアテステーションによってデスティネーションチェーン上でミントされる。ブリッジ版のUSDCのバリアントは存在しない — CCTPがサポートするすべてのチェーン上のすべてのUSDCはネイティブのUSDCである。
 - **ソフトファイナリティの高速送金。** CCTP v2 は、ハードなL1 ファイナリティを待つのではなくファイナリティ閾値のアテステーションを用いる高速送金モードを導入し、一般的なケースについてサブミニッツのクロスチェーン決済をサポートする。
 - **フック。** ミント後のフックは、USDCがミントされた後にデスティネーションチェーンがプログラム可能なアクションを実行することを可能にする。エージェント決済については、これがアトミックな「USDCを受け取る + 下流のツールを呼び出す」セマンティクスを可能にする。
-- **サポートされるチェーン。** Ethereum L1, 、Base、Arbitrum、Optimism、Avalanche、Polygon PoS、Solana、加えて2025-2026年を通じて追加されたチェーン。
+- **サポートされるチェーン。** Ethereum L1,、Base、Arbitrum、Optimism、Avalanche、Polygon PoS、Solana、加えて2025-2026年を通じて追加されたチェーン。
 
 ウォレットが現在USDCを保持しているのとは別のチェーン上のツールに対して支払う必要があるAIエージェントにとって、CCTP v2 は構造的なデフォルトである。ウォレットプロバイダーは、クロスチェーンの差分を数秒以内に透過的に解決できる。
 
@@ -100,9 +97,7 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 
 このプロトコルは設計上、資産に依存しないが、リファレンス + AWS AgentCoreのデフォルト + Cloudflare Agentsの統合のデフォルトはいずれもUSDCを用いる。x402 のBazaar MCPカタログ(10,000年半ば時点で2026以上のエンドポイント)は、圧倒的にUSDC建てである。
 
-## 発行体に整合した垂直スタック
-
-エージェント決済ボリュームのうち非USDC・非USDTのステーブルコインのスライスは、**発行体に整合した垂直スタック** によって牽引される:
+## 発行体に整合した垂直スタックエージェント決済ボリュームのうち非USDC・非USDTのステーブルコインのスライスは、**発行体に整合した垂直スタック** によって牽引される:
 
 - **USDB(Stripe / Bridge)。** [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer stack]](Connect → Privy → Bridge USDB → Tempo → AP2 / x402)の内部では、USDBがStripeレールのエージェント決済のデフォルト決済資産である。
 - **RLUSD(Ripple)。** Ripple回廊の内部、およびRipple統合型の法人財務のエージェント決済に用いられる。
@@ -120,7 +115,7 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 2. **ウォレットプロバイダーのデフォルト。** そのウォレット内で、マルチチェーン残高APIがエージェントにUSDCを保有していると伝える;ウォレットがルーティング時にチェーンを選ぶ。
 3. **加盟店の受容。** 受取側が、どのステーブルコイン / チェーンの組み合わせを受け入れるかを公表する。ウォレットがマッチングする。
 4. **エージェントのインテント。** エージェント自体が選択について推論するのは、限定的なケースのみである — 例えば、ステーブルコイン横断でリバランスする財務エージェントなど。
-5. **ERC-7715によるユーザーのマンデート。** ユーザーの [[agent-economy/erc-7715-overview|ERC-7715 wallet permission]] はステーブルコイン / チェーンの選択を制約できる(建値および取引場所の許可リスト)。
+5. **ERC-7715によるユーザーのマンデート。** ユーザーの [[agent-economy/erc-7715-overview|ERC-7715 ウォレット permission]] はステーブルコイン / チェーンの選択を制約できる(建値および取引場所の許可リスト)。
 
 大半のエージェントランタイムにとって、エージェントは基盤となるステーブルコイン / チェーンを知らず、関心もない。その選択はウォレットスタックに構造的に組み込まれている。
 
@@ -133,8 +128,8 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 - [[agent-economy/ap2-overview|AP2 overview]]
 - [[agent-economy/erc-7715-overview|ERC-7715 overview]]
 - [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP developer platform]]
-- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet overview]]
-- [[agent-economy/embedded-wallet-landscape-2026-consolidation|Embedded-wallet landscape 2026 consolidation]]
+- [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット overview]]
+- [[agent-economy/embedded-wallet-landscape-2026-consolidation|Embedded-ウォレット landscape 2026 consolidation]]
 - [[fintech/usd-stablecoin-interchange|USD stablecoin interchange]]
 - [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]
 - [[fintech/INDEX|Fintech index]]

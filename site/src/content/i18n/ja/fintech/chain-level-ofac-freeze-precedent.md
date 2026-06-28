@@ -2,10 +2,11 @@
 source: fintech/chain-level-ofac-freeze-precedent
 source_hash: 04add2caa097e957
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "チェーンレベルOFAC freeze = 米ドルのチェーンレベル覇権"
-translated_at: 2026-06-02T13:21:55.069Z
+translated_at: 2026-06-26T08:28:46.049Z
 ---
 
 # チェーンレベルOFAC freeze = 米ドルのチェーンレベル覇権
@@ -16,7 +17,7 @@ translated_at: 2026-06-02T13:21:55.069Z
 この項目は[[fintech/INDEX|fintech index]]の配下に位置づけられる。隣接する文脈では[[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]と、より広いシステム境界では[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]と併読する。
 
 > [!info] 要約
-> GENIUS Act §§504、Travel Rule、OFAC real-time feed が連携することで **前例のないチェーン・レベル金融制裁能力** が生まれた。**Bybit Hack 後 30 分以内に Circle は $45M USDC を凍結** — これは伝統的な SWIFT・銀行制裁体系では到底達成できない応答速度。「チェーン・レベル OFAC」は 2026 年以降の金融規制の新ベースラインとなり、すべてのコンプライアント stablecoin issuer は day-1 でサポートを提供する必要がある。
+> GENIUS Act §§504、Travel Rule、OFAC real-time feed が連携することで **前例のないチェーン・レベル金融制裁能力** が生まれた。**Bybit Hack 後 30 分以内に Circle は $45M USDC を凍結** — これは伝統的な SWIFT・銀行制裁体系では到底達成できない応答速度。「チェーン・レベル OFAC」は 2026 年以降の金融規制の新ベースラインとなり、すべてのコンプライアント stablecoin 発行会社 は day-1 でサポートを提供する必要がある。
 
 **Bybit Hack 事例（2025-02）**:
 
@@ -28,16 +29,16 @@ translated_at: 2026-06-02T13:21:55.069Z
 
 **技術的実装**:
 
-1. **issuer-level blacklist**: USDC コントラクト内の `blacklisted[address]` mapping
-2. **chain-level Denylist**: [[fintech/genius-act-501-denylist-mandate|GENIUS §§501 が必須化]] — issuer はチェーン・レベルでアドレス凍結を実行できる必要がある
-3. **OFAC real-time feed**: SDN List が API 経由で issuer システムにプッシュ
+1. **発行会社-level blacklist**: USDC コントラクト内の `blacklisted[address]` mapping
+2. **chain-level Denylist**: [[fintech/genius-act-501-denylist-mandate|GENIUS §§501 が必須化]] — 発行会社 はチェーン・レベルでアドレス凍結を実行できる必要がある
+3. **OFAC real-time feed**: SDN List が API 経由で 発行会社システムにプッシュ
 4. **オンチェーン forensics ツール**: TRM Labs / Chainalysis Reactor / Elliptic がリアルタイムで mixer と bridge の資金流向を識別
 
 **含意**:
 
-1. **stablecoin はすでに「暗号原理主義」陣営に属さない**: USDC / PYUSD / RLUSD が issuer freeze 権限を受け入れることはコンプライアンス上の妥協だが、市場シェアのリターンは大きい。
+1. **stablecoin はすでに「暗号原理主義」陣営に属さない**: USDC / PYUSD / RLUSD が 発行会社 freeze 権限を受け入れることはコンプライアンス上の妥協だが、市場シェアのリターンは大きい。
 2. **DAI / LUSD など分散型 stablecoin の真の価値** = 検閲耐性 + グレーマーケット流通だが、TVL は 5% 以下に抑え込まれる。
-3. **Tether は依然として一部の自主権を保持**: 選択的 freeze（執行と連携） + 選択的 ignore（地政学的顧客） — これが USDT が新興市場で覇権を維持し続ける根本理由（詳細は [[fintech/em-market-crypto-dollarization-pattern|新興市場 暗号ドル化]]）。
+3. **Tether は依然として一部の自主権を保持**: 選択的 freeze（執行と連携） + 選択的 ignore（地政学的顧客） — これが USDT が新興市場で覇権を維持し続ける根本理由（詳細は [[fintech/em-market-crypto-dollarization-pattern|新興市場暗号ドル化]]）。
 4. **暗号 OG カルチャーと規制現実の分裂**: Cypherpunk vs Wall Street の最終的分水嶺。
 
 **他チェーンへの含意**:

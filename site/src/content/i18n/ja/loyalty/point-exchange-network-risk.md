@@ -2,17 +2,17 @@
 source: loyalty/point-exchange-network-risk
 source_hash: 66e2d0ef35380962
 lang: ja
-model: claude-opus-4-8
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ポイント交換ネットワークリスク（日本のプログラム間変換の経済性）"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-26T08:28:38.466Z
 ---
 # ポイント交換ネットワークリスク（日本のプログラム間変換の経済性）
 
 ## ウィキ上の位置づけ
 
-この項目は [[loyalty/INDEX|loyalty index]] の配下に置く**プログラム間交換**のページであり、[[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム一覧の下層にあるメカニズム層である。[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（変換が負債移転イベントと決済レッグにどう分かれるかを定義する）と、[[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]]（航空マイルが、ほとんどの交換経路が流れ込む最高価値のシンクであるため）と対をなす。規制上のエッジ——自由に譲渡可能で現金らしいポイントが、いつロイヤルティ・マーケティングであることをやめて決済のトピックになるのか——については、[[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] と [[financial-licenses/payment-license-stack|payment-license stack]] へ。
+この項目は [[loyalty/INDEX|loyalty index]] の配下に置く**プログラム間交換**のページであり、[[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム一覧の下層にあるメカニズム層である。[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（変換が負債移転イベントと決済レッグにどう分かれるかを定義する）と、[[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]]（航空マイルが、ほとんどの交換経路が流れ込む最高価値のシンクであるため）と対をなす。規制上のエッジ——自由に譲渡可能で現金らしいポイントが、いつロイヤルティ・マーケティングであることをやめて決済のトピックになるのか——については、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] と [[financial-licenses/payment-license-stack|payment-license stack]] へ。
 
 ## 要約
 
@@ -38,9 +38,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 | 裁定／資金洗浄 | レートのギャップ、プロモのスタッキング、または脆弱な本人確認の紐付けにより、価値が循環されたり換金されたりする | 事業者（不正損失）。価値が現金らしくなれば資金移動／AML 規制 |
 | 現金等価への漂流 | 自由に交換可能で償還可能なポイントがお金のように振る舞い始める | 規制上の境界——資金決済法の分析 |
 
-### 決済およびカウンターパーティリスク
-
-交換エッジはリアルタイムではなく、**双務的かつネットで**決済される。消費者が変換した瞬間と、二つの事業者が現金を決済する瞬間の間に、発行元の事業者が受け手の事業者に対して債務を負うウィンドウがある。大規模で突発的な変換イベント（「レートが変わる前に変換せよ」というバイラルなキャンペーン）は、このエクスポージャーを集中させる。受け手の事業者は、発行元の事業者の決済がクリアしたかどうかに関わらず、償還時に履行しなければならない新たな負債をキャリーする。
+### 決済およびカウンターパーティリスク交換エッジはリアルタイムではなく、**双務的かつネットで**決済される。消費者が変換した瞬間と、二つの事業者が現金を決済する瞬間の間に、発行元の事業者が受け手の事業者に対して債務を負うウィンドウがある。大規模で突発的な変換イベント（「レートが変わる前に変換せよ」というバイラルなキャンペーン）は、このエクスポージャーを集中させる。受け手の事業者は、発行元の事業者の決済がクリアしたかどうかに関わらず、償還時に履行しなければならない新たな負債をキャリーする。
 
 ### レート／FX 的エクスポージャー
 
@@ -50,13 +48,9 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 譲渡可能性は実効寿命を延ばす。高価値のシンク（航空マイル、より長い有効期限のパートナープログラム）に駐車できるポイントは、より後に償還されるか、放棄されるのではなく移し替えられる。それは、ASBJ 企業会計基準第29号と IFRS 15 の双方の下で、繰延ポイント収益が*いつ*認識されるかを支配する**ブレッカジ**の前提を引き伸ばす。譲渡可能なポイントに対する楽観的なブレッカジは収益を早すぎる時点で認識する。交換ネットワークこそ、その見積りが最も擁護しにくい場所であり、キャッシュレス推進協議会／ペイメントジャパンが推し進める開示規範（比較可能な償還率、失効、未利用残高の報告）が最も強く効く場所である。
 
-### 裁定および資金洗浄のベクトル
+### 裁定および資金洗浄のベクトルレートのギャップに脆弱な本人確認の紐付けが加わると、裁定への招待状となる——エッジ間で価値を循環させてスプレッドを刈り取る、同じ変換でプロモーションの乗数を重ね掛けする、多数の小さな残高を換金経路へ集約する。だからこそ事業者は交換フローを**レート制限、変換単位と月次上限、本人確認の紐付け、異常パターンのスロットリング**で包む——マーケティング上の摩擦に見えるが、不正および AML 防御として機能する制御である。公に見えるガードレール（固定単位での最低 50 ポイント交換、月次の変換上限）は、これの消費者向けのエッジである。
 
-レートのギャップに脆弱な本人確認の紐付けが加わると、裁定への招待状となる——エッジ間で価値を循環させてスプレッドを刈り取る、同じ変換でプロモーションの乗数を重ね掛けする、多数の小さな残高を換金経路へ集約する。だからこそ事業者は交換フローを**レート制限、変換単位と月次上限、本人確認の紐付け、異常パターンのスロットリング**で包む——マーケティング上の摩擦に見えるが、不正および AML 防御として機能する制御である。公に見えるガードレール（固定単位での最低 50 ポイント交換、月次の変換上限）は、これの消費者向けのエッジである。
-
-### 現金等価への漂流
-
-自由に譲渡可能で、広く償還可能で、実質的に払い戻し可能なポイントは、お金のように振る舞い始める。その時点でロイヤルティの枠組みは破綻し、**資金決済法**の分析が引き継ぐ——プリペイド手段、あるいは資金移動の領域である。その境界は [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] と [[financial-licenses/payment-license-stack|the payment-license stack]] に示されている。交換の設計は、その線のロイヤルティ側に留まるため、一つには意図的に*限定的に*保たれている（用途限定ポイント、上限、一方通行の弁）。最も明快な例は、**用途限定の dポイント（期間・用途限定）は JAL マイルへ一切変換できない**ことである——その制限こそ、プロモーションでの付与が現金らしくなるのを防いでいる。
+### 現金等価への漂流自由に譲渡可能で、広く償還可能で、実質的に払い戻し可能なポイントは、お金のように振る舞い始める。その時点でロイヤルティの枠組みは破綻し、**資金決済法**の分析が引き継ぐ——プリペイド手段、あるいは資金移動の領域である。その境界は [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] と [[financial-licenses/payment-license-stack|the payment-license stack]] に示されている。交換の設計は、その線のロイヤルティ側に留まるため、一つには意図的に*限定的に*保たれている（用途限定ポイント、上限、一方通行の弁）。最も明快な例は、**用途限定の dポイント（期間・用途限定）は JAL マイルへ一切変換できない**ことである——その制限こそ、プロモーションでの付与が現金らしくなるのを防いでいる。
 
 ## 日本の交換ネットワークのトポロジー
 
@@ -75,7 +69,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 - **負債は加算不能である。** ある事業者の IR スライド上の高いポイント残高は、システム全体の総額ではなく、その一部は別のバランスシートへ移送中かもしれない。総体としての「日本のポイント経済」の数値（およそ 2.8 兆円という矢野経済研究所の市場規模は*市場*の数値であり、合算された負債ではない）は、決して事業者負債の合計として読まれるべきではない。
 - **ポイント事業者の取得は、そのエッジを取り込む。** 共通ポイントに資本参加する銀行や通信会社（[[megabanks/smfg|SMFG]] が V-Point ／ CCCMK 経由、[[megabanks/ndfg|NDFG]] が dポイント経由、[[payment-firms/rakuten-fg|Rakuten FG]] が内部で）は、決済関係、ブレッカジ見積りの問題、そして現金等価の境界を継承する——単なるマーケティング資産ではない。
-- **交換は現金らしさの圧力弁である。** 交換ネットワークが豊かであるほど、最も流動性の高いポイントは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer / prepaid boundary]] に近づく。ポイントの上にカード、銀行、証券の商品を重ねてきた事業者（[[megabanks/paypay-fg|PayPay FG]]、[[payment-firms/rakuten-fg|Rakuten FG]]）は、規制当局が旗艦ポイントを現金等価と再分類した場合に最も失うものが大きい。
+- **交換は現金らしさの圧力弁である。** 交換ネットワークが豊かであるほど、最も流動性の高いポイントは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 / 前払式 boundary]] に近づく。ポイントの上にカード、銀行、証券の商品を重ねてきた事業者（[[megabanks/paypay-fg|PayPay FG]]、[[payment-firms/rakuten-fg|Rakuten FG]]）は、規制当局が旗艦ポイントを現金等価と再分類した場合に最も失うものが大きい。
 
 ## 関連
 
@@ -84,8 +78,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
-- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
+- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
 - [[payments/INDEX|payments INDEX]]
 - [[financial-licenses/payment-license-stack|payment-license stack]]
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]

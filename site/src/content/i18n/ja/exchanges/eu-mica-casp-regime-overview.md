@@ -2,10 +2,11 @@
 source: exchanges/eu-mica-casp-regime-overview
 source_hash: aaa943a40f7849ae
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "EU MiCA CASP（Crypto-Asset Service Provider）制度概観"
-translated_at: 2026-06-02T12:19:04.252Z
+translated_at: 2026-06-26T08:29:25.271Z
 ---
 
 # EU MiCA CASP（Crypto-Asset Service Provider）制度概観
@@ -18,7 +19,7 @@ MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は 2023-0
 
 CASP は以下 10 サービスから取得対象を申請する:
 
-- **Custody and administration of crypto-assets** (カストディ)
+- **カストディ and administration of crypto-assets** (カストディ)
 - **Operation of a trading platform for crypto-assets** (取引所運営)
 - **Exchange of crypto-assets for funds** (法定通貨両替)
 - **Exchange of crypto-assets for other crypto-assets** (暗号資産間両替)
@@ -48,9 +49,7 @@ CASP は以下 10 サービスから取得対象を申請する:
 - **Stablecoin (ART/EMT)**: 別途認可必須 (MiCA Title III/IV)。発行体は credit institution または EMI 認可必須
 - **DORA 連携**: Digital Operational Resilience Act との連携で ICT third-party 監査・サイバー耐性義務
 
-## 5. 国際比較
-
-米国の SEC/CFTC 分断 + 50 州 MTL のフラグメント型に対し、EU は単一 passporting で統一性が圧倒的。日本 (FSA + JVCEA 二重) や韓国 (FSC + DAUC) は連邦単一監督だが国内限定。EU の NCA + ESMA 統一は **香港 SFC** や **シンガポール MAS** よりも広域カバレッジを持ち、グローバル CEX が EU 拠点を競って取得する動機を作っている。UAE VARA との競争関係では「規制の明確性」で EU 優位、「税制とスピード」で UAE 優位の住み分け。
+## 5. 国際比較米国の SEC/CFTC 分断 + 50 州 MTL のフラグメント型に対し、EU は単一 passporting で統一性が圧倒的。日本 (FSA + JVCEA 二重) や韓国 (FSC + DAUC) は連邦単一監督だが国内限定。EU の NCA + ESMA 統一は **香港 SFC** や **シンガポール MAS** よりも広域カバレッジを持ち、グローバル CEX が EU 拠点を競って取得する動機を作っている。UAE VARA との競争関係では「規制の明確性」で EU 優位、「税制とスピード」で UAE 優位の住み分け。
 
 ---
 
@@ -65,5 +64,5 @@ CASP は以下 10 サービスから取得対象を申請する:
 - [[fintech/mica-overview]] — MiCA 全体構造
 - [[fintech/mica-emt-art-subcategories-deep-dive]] — ART/EMT Stablecoin 認可枠組み
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
-- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル ステーブルコイン 規制 5 極比較
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバルステーブルコイン規制 5 極比較
 - [[fintech/mica-cross-border-implications]] — MiCA cross-border 影響分析

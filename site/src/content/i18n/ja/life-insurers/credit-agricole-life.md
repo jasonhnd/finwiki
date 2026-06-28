@@ -2,10 +2,11 @@
 source: life-insurers/credit-agricole-life
 source_hash: 08462c52b5950eac
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "クレディ・アグリコル生命保険"
-translated_at: 2026-06-15T03:48:21.855Z
+translated_at: 2026-06-26T08:32:23.066Z
 ---
 
 # クレディ・アグリコル生命保険
@@ -30,9 +31,7 @@ translated_at: 2026-06-15T03:48:21.855Z
 | Home base | 東京都港区（公開会社概要） |
 | Wiki role | Foreign-affiliated bancassurance life-insurance operating company |
 
-## 2. オペレーティングモデル
-
-外資系バンカシュランス生保としての本社の収益構造は、生保の標準モデル—保険料引受 (premium underwriting)、責任準備金 (policy reserves) の積立、長期負債に対応する資産運用 (long-term ALM)、そして保険金・年金の支払い—を、**金融機関代理店チャネル**に最適化したもの。提携する銀行・信用金庫などの窓口を通じて、一時払い個人年金や団体信用生命保険といった貯蓄性・付帯性の高い商品を販売する点で、対面営業職員を抱える [[life-insurers/dai-ichi-life-insurance|第一生命]] のような国内大手とは事業形態が大きく異なる。同じ外資系・銀行窓販モデルの [[life-insurers/cardif-life|カーディフ生命]]、国内 FI チャネル特化の [[life-insurers/ms-primary-life|MS Primary 生命]] や [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] が直接の比較対象になる。資産運用負債管理の枠組みは [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]]、外資系生保の日本市場ポジショニングは [[insurance/foreign-life-affiliate-japan-positioning|foreign life-insurance affiliates positioning]] を参照。
+## 2. オペレーティングモデル外資系バンカシュランス生保としての本社の収益構造は、生保の標準モデル—保険料引受 (premium 引受)、責任準備金 (policy reserves) の積立、長期負債に対応する資産運用 (long-term ALM)、そして保険金・年金の支払い—を、**金融機関代理店チャネル**に最適化したもの。提携する銀行・信用金庫などの窓口を通じて、一時払い個人年金や団体信用生命保険といった貯蓄性・付帯性の高い商品を販売する点で、対面営業職員を抱える [[life-insurers/dai-ichi-life-insurance|第一生命]] のような国内大手とは事業形態が大きく異なる。同じ外資系・銀行窓販モデルの [[life-insurers/cardif-life|カーディフ生命]]、国内 FI チャネル特化の [[life-insurers/ms-primary-life|MS Primary 生命]] や [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] が直接の比較対象になる。資産運用負債管理の枠組みは [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]]、外資系生保の日本市場ポジショニングは [[insurance/foreign-life-affiliate-japan-positioning|foreign life-insurance affiliates positioning]] を参照。
 
 ## 3. このページが重要な理由
 

@@ -2,13 +2,14 @@
 source: retail/seven-i-holdings-finance-deep-dive
 source_hash: 9f806f4535d87494
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "セブン＆アイ・ホールディングス 金融事業ディープダイブ —— 7-Bank、ATM プラットフォーム、nanaco、EC アクワイアリング、2024 York 再編"
-translated_at: 2026-06-15T04:09:41.156Z
+title: "セブン＆アイ・ホールディングス金融事業ディープダイブ —— 7-Bank、ATM プラットフォーム、nanaco、EC アクワイアリング、2024 York 再編"
+translated_at: 2026-06-26T08:31:59.831Z
 ---
 
-# セブン＆アイ・ホールディングス 金融事業ディープダイブ —— 7-Bank、ATM プラットフォーム、nanaco、EC アクワイアリング、2024 York 再編
+# セブン＆アイ・ホールディングス金融事業ディープダイブ —— 7-Bank、ATM プラットフォーム、nanaco、EC アクワイアリング、2024 York 再編
 
 ## Wiki 上の位置づけ
 
@@ -46,7 +47,7 @@ translated_at: 2026-06-15T04:09:41.156Z
 
 ## nanaco —— グループ内プリペイド＋ポイントプログラム
 
-**nanaco** は、資金決済法 第三者型前払式支払手段 として金融庁に登録のもとで Seven Card Service が発行するプリペイド電子マネーであり、**nanaco ポイント**（大半のグループ店舗で ¥100 の利用ごとに 1 ポイント、定期的なボーナスキャンペーンあり）と組み合わされる。nanaco の役割は、オプトインする 7-Eleven、イトーヨーカドー、その他グループ業態向けの**グループ内キャッシュレス・レール**である：
+**nanaco** は、資金決済法第三者型前払式支払手段 として金融庁に登録のもとで Seven Card Service が発行するプリペイド電子マネーであり、**nanaco ポイント**（大半のグループ店舗で ¥100 の利用ごとに 1 ポイント、定期的なボーナスキャンペーンあり）と組み合わされる。nanaco の役割は、オプトインする 7-Eleven、イトーヨーカドー、その他グループ業態向けの**グループ内キャッシュレス・レール**である：
 
 | 機能 | nanaco |
 |---|---|
@@ -68,7 +69,7 @@ translated_at: 2026-06-15T04:09:41.156Z
 | **Seven Card Service** | nanaco ローンチ（2007）の頃に 7&iHD 金融サービス部門からスピンアウト | Seven Card / Seven Card Plus を発行し、nanaco を運営；運営上アクティブなカード子会社 |
 | **Seven CS Card Service** | そごう・西武およびイトーヨーカドーのハウスカード事業に由来 | 旧来のハウスカード・ポートフォリオを管理；そごう・西武（2023に Fortress Investment Group へ売却）とイトーヨーカドーを York 中間持株会社へ移した 2024 York 再編のもとで範囲が実質的に変化 |
 
-割賦販売法 包括信用購入あっせん の事業登録および個別割賦販売の登録は、製品に応じて両事業体に存在する。**2024 York カーブアウト**は、非 CVS 小売が 7&iHD の直接範囲の外へ移ることで Seven CS Card Service の旧来ポートフォリオが縮小するのか、それとも 7&iHD が長期契約を通じて York 側のカード利益を引き続き連結するのか、という問いを提起した。これは 2025-2027 注視すべき項目である。
+割賦販売法包括信用購入あっせん の事業登録および個別割賦販売の登録は、製品に応じて両事業体に存在する。**2024 York カーブアウト**は、非 CVS 小売が 7&iHD の直接範囲の外へ移ることで Seven CS Card Service の旧来ポートフォリオが縮小するのか、それとも 7&iHD が長期契約を通じて York 側のカード利益を引き続き連結するのか、という問いを提起した。これは 2025-2027 注視すべき項目である。
 
 ## Seven Payment Service —— ATM 受取の B2B2C ペイアウトと EC アクワイアリング
 
@@ -83,9 +84,7 @@ translated_at: 2026-06-15T04:09:41.156Z
 
 **ATM 受取モデル**は戦略的に重要である。なぜなら Seven Bank の ATM フットプリントを**銀行口座を持たない、あるいは一時的に持たない人々向けのペイアウト・レール**へと変換するからであり、これはデジタル限定のペイアウト（銀行口座のないギグ労働者、口座開設を待つ外国人労働者、災害救援の支給）に対する構造的優位を持つ。[[regional-banks/seven-bank|Seven Bank]] へのクロスリンクは直接的である —— ATM は同じ物理資産であり、Seven Payment Service は銀行免許を要しないサービスの商業的ラッパーである。
 
-## 2024 York Holdings 再編 —— 金融フローへの影響
-
-アクティビスト圧力（2024年のクシュタール買収アプローチ、2024年後半の創業家による MBO の試み）のもとで発表された **2024 York 再編**は、非 CVS の範囲を再形成した（08, ）：
+## 2024 York Holdings 再編 —— 金融フローへの影響アクティビスト圧力（2024年のクシュタール買収アプローチ、2024年後半の創業家による MBO の試み）のもとで発表された **2024 York 再編**は、非 CVS の範囲を再形成した（08,）：
 
 | 構成要素 | 2024 前| 2024 York 再編後 |
 |---|---|---|
@@ -132,11 +131,11 @@ translated_at: 2026-06-15T04:09:41.156Z
 - [[card-issuers/aeon-bank|Aeon Bank / AFS]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
-- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[INDEX|FinWiki index]]
 

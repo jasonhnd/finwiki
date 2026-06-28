@@ -2,17 +2,18 @@
 source: trust-banks/lgt-wealth-management-trust
 source_hash: d800ffd806a0a01b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "LGTウェルスマネジメント信託"
-translated_at: 2026-06-02T14:54:39.059Z
+translated_at: 2026-06-26T08:32:30.859Z
 ---
 
 # LGTウェルスマネジメント信託
 
 ## ウィキ上の位置づけ
 
-LGTウェルスマネジメント信託は、[[trust-banks/INDEX|trust-banks INDEX]] の下に置く独立した信託会社ページであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[foreign-financial-institutions/ubs-japan|UBS Japan]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] とあわせて読む。
+LGTウェルスマネジメント信託は、[[trust-banks/INDEX|trust-banks INDEX]] の下に置く独立した信託会社ページであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[foreign-financial-institutions/ubs-japan|UBS Japan]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] とあわせて読む。
 
 本ページは、日本のプライベートバンキング、ウェルスマネジメント信託、投資助言、外資系の富裕層向けサービスに関する問いに使う。
 

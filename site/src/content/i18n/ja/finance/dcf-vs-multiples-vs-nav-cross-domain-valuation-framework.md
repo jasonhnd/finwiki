@@ -2,16 +2,15 @@
 source: finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework
 source_hash: c195dc786b0d0e5d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "DCF・マルチプル・NAV のクロスドメイン評価フレームワーク"
-translated_at: 2026-06-02T13:21:55.051Z
+translated_at: 2026-06-26T08:29:25.283Z
 ---
 # DCF・マルチプル・NAV のクロスドメイン評価フレームワーク
 
-## 要約
-
-金融分析では、ドメインをまたいで主に 3 つの評価アプローチが使われる。ディスカウント・キャッシュフロー（DCF）、取引 / 類似会社マルチプル、純資産価値（NAV）である。それぞれ、価値の源泉を将来フリーキャッシュフロー、市場が示唆する比較可能な価格、または負債控除後の資産価値合計とみなす構造的前提を持ち、適合する場面も異なる。DCF はコーポレート / プロジェクトファイナンスと M&A バリュエーションで中心となり、マルチプルは上場株スクリーニング、セクター・ベンチマーク、「公正性」のクロスチェックで中心となり、NAV は J-REIT、資産保有型持株会社、fund-of-fund の価格付け、清算分析で中心となる。本ページはクロスドメインの方法論ルーティング面であり、予測または投資助言ではない。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]]、[[finance/cost-of-capital-japan-2026-reference|cost of capital Japan 2026 reference]] と併せて読む。
+## 要約金融分析では、ドメインをまたいで主に 3 つの評価アプローチが使われる。ディスカウント・キャッシュフロー（DCF）、取引 / 類似会社マルチプル、純資産価値（NAV）である。それぞれ、価値の源泉を将来フリーキャッシュフロー、市場が示唆する比較可能な価格、または負債控除後の資産価値合計とみなす構造的前提を持ち、適合する場面も異なる。DCF はコーポレート / プロジェクトファイナンスと M&A バリュエーションで中心となり、マルチプルは上場株スクリーニング、セクター・ベンチマーク、「公正性」のクロスチェックで中心となり、NAV は J-REIT、資産保有型持株会社、fund-of-fund の価格付け、清算分析で中心となる。本ページはクロスドメインの方法論ルーティング面であり、予測または投資助言ではない。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]]、[[finance/cost-of-capital-japan-2026-reference|cost of capital Japan 2026 reference]] と併せて読む。
 
 ## ウィキ上の位置づけ
 
@@ -126,7 +125,7 @@ J-REIT と不動産ファンドでは、「asset value」は通常 [[real-estate
 - [[real-estate-finance/j-reit-market-overview|J-REITs]] と私募不動産ファンド（price-to-NAV が構造的指標）
 - 資産保有型持株会社（例: 商社、上場 PE、[[finance/japan-listed-financial-groups-investable-universe|listed financial groups]]）
 - Fund-of-fund と上場オルタナティブ投資ビークル
-- 銀行と保険会社（AOCI と economic-value 項目を調整した簿価自己資本が構造的指標。[[insurance/economic-value-based-solvency|economic value based solvency]] 参照）
+- 銀行と保険会社（AOCI と economic-value 項目を調整した簿価自己資本が構造的指標。[[insurance/economic-value-based-solvency|economic value based ソルベンシー]] 参照）
 - 清算分析と倒産再建
 - DCF が情報を与えにくい negative-going-concern の状況
 
@@ -164,9 +163,7 @@ J-REIT と不動産ファンドでは、「asset value」は通常 [[real-estate
 | 商社 | Sum-of-parts + マルチプル | セグメント別 DCF |
 | LBO / レバレッジ分析 | DCF + マルチプル（LBO model） | NAV（担保 / 回収） |
 
-## 照合作業
-
-日本の M&A とフェアネス・オピニオン実務（[[finance/japan-mbo-and-squeeze-out-process|MBO / squeeze-out]]、[[finance/japan-tender-offer-process|TOB]]）では、標準的な照合方法は、各手法（DCF、市場マルチプル、取引マルチプル、市場価格、ときに NAV）から評価レンジを作成し、公正レンジへ調整することである。METI 公正 M&A ガイドラインは、この複数手法の規律を期待している。利益相反が大きい案件で、単一手法による評価がフェアネス・オピニオン水準と扱われることはまれである。
+## 照合作業日本の M&A とフェアネス・オピニオン実務（[[finance/japan-mbo-and-squeeze-out-process|MBO / squeeze-out]]、[[finance/japan-tender-offer-process|TOB]]）では、標準的な照合方法は、各手法（DCF、市場マルチプル、取引マルチプル、市場価格、ときに NAV）から評価レンジを作成し、公正レンジへ調整することである。METI 公正 M&A ガイドラインは、この複数手法の規律を期待している。利益相反が大きい案件で、単一手法による評価がフェアネス・オピニオン水準と扱われることはまれである。
 
 ## 関連項目
 

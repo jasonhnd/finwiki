@@ -2,17 +2,18 @@
 source: foreign-financial-institutions/clearstream-banking-japan
 source_hash: e32762f50658cd2f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "クリアストリーム・バンキング日本 (Clearstream Banking Japan)"
-translated_at: 2026-06-02T14:01:20.911Z
+translated_at: 2026-06-26T08:31:59.854Z
 ---
 
 # クリアストリーム・バンキング日本 (Clearstream Banking Japan)
 
 ## ウィキ上の位置づけ
 
-このページは、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 内の Clearstream 行を独立した ICSD ルートへ昇格させるものである。[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent-license route]] とあわせて読む。
+このページは、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 内の Clearstream 行を独立した ICSD ルートへ昇格させるものである。[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent-license route]] とあわせて読む。
 
 この項目はまず [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] を通じて位置づけ、その後にポストトレード・インフラについては [[securities/INDEX|securities domain]]、カストディ / 支店ステータスについては [[banking/INDEX|banking domain]] を使う。
 
@@ -49,7 +50,7 @@ Clearstream と [[foreign-financial-institutions/euroclear-bank-japan|Euroclear]
 | グループ context | Deutsche Boerse / Clearstream group context. | Euroclear group / Euroclear Bank context. |
 | 日本支店の役割 | Local banking branch plus market-access and disclosure surface. | Local banking branch plus ICSD / JGB collateral surface. |
 | ウィキでの使い方 | JASDEC アクセス、日本債券カストディ、開示要件、Deutsche グループ隣接性に有用。 | JGB 担保、クロスボーダー DVP、カストディ、ポストトレード・リスク削減に有用。 |
-| 読み取り上の主なリスク | Treating a market coverage page as universal availability for every client. | Treating ICSD custody name as economic ownership. |
+| 読み取り上の主なリスク | Treating a market coverage page as universal availability for every client. | Treating ICSD カストディ name as economic ownership. |
 
 ## JapanFG での関連性
 
@@ -63,7 +64,7 @@ Clearstream は同じ調査クラスターに属する: [[foreign-financial-inst
 2. 問いが決済、カストディ、担保、開示、税務 / 実質所有者書類のどれに関するものか確認する。
 3. サービス水準に関する記述を使う前に、Clearstream の最新市場カバレッジページを確認する。
 4. Cross-read local infrastructure with [[securities/japan-securities-depository-center|JASDEC]], [[securities/japan-securities-clearing-corp|JSCC]], and [[securities/japan-market-infrastructure-map|market infrastructure map]].
-5. カストディ銀行比較では、[[banking/japan-trust-bank-custody-map|trust-bank custody map]] とグローバルカストディアンのページを開く。
+5. カストディ銀行比較では、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]] とグローバルカストディアンのページを開く。
 
 ## 注意点
 

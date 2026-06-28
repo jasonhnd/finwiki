@@ -2,17 +2,16 @@
 source: business/seven-bank-atm-platform-deconsolidation-case
 source_hash: 1fa9f70d9a41a870
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "セブン銀行 ATM プラットフォーム + 連結除外事例 —— 銀行間 ATM 手数料で収益を上げる小売資本の銀行、セブン&アイの2025 ポートフォリオ再編で 40% 未満へ縮減"
-translated_at: 2026-06-18T15:47:13.957Z
+translated_at: 2026-06-26T08:29:09.699Z
 ---
 
 # セブン銀行 ATM プラットフォーム + 連結除外事例 —— 銀行間 ATM 手数料で収益を上げる小売資本の銀行、セブン&アイの2025 ポートフォリオ再編で 40% 未満へ縮減
 
-## Wiki ルート
-
-本エントリは [[business/INDEX|business INDEX]] の下に位置し、異例の**ビジネスモデル**（ATM 手数料の銀行）と**2025 連結除外**イベントを組み合わせた上場企業の戦略事例である。ビジネスモデルの側は [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] と対比して読まれたい —— いずれも預金主導ではない金融モデルだが、captive（メーカー系金融）は自動車を売るために ABS で自らを資金調達するのに対し、セブン銀行は店舗 ATM ネットワークから銀行間手数料を稼ぐ。連結除外の側は、金融部門を切り離すための対照的な*課税繰延スピンオフ*ルートとして [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] と、また株主の圧力下で金融子会社を一部売却したもう一つのコングロマリットとして [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] と対比して読まれたい。実体 / セクター概要は [[regional-banks/seven-bank|Seven Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、親会社の [[retail/seven-and-i-hd|Seven & i Holdings]]、およびより詳しい [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]] を参照。[[payments/nanaco-prepaid-seven-i|nanaco prepaid]] および [[retail/INDEX|retail INDEX]] と併せて読まれたい。
+## Wiki ルート本エントリは [[business/INDEX|business INDEX]] の下に位置し、異例の**ビジネスモデル**（ATM 手数料の銀行）と**2025 連結除外**イベントを組み合わせた上場企業の戦略事例である。ビジネスモデルの側は [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] と対比して読まれたい —— いずれも預金主導ではない金融モデルだが、captive（メーカー系金融）は自動車を売るために ABS で自らを資金調達するのに対し、セブン銀行は店舗 ATM ネットワークから銀行間手数料を稼ぐ。連結除外の側は、金融部門を切り離すための対照的な*課税繰延スピンオフ*ルートとして [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] と、また株主の圧力下で金融子会社を一部売却したもう一つのコングロマリットとして [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] と対比して読まれたい。実体 / セクター概要は [[regional-banks/seven-bank|Seven Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、親会社の [[retail/seven-and-i-hd|Seven & i Holdings]]、およびより詳しい [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]] を参照。[[payments/nanaco-prepaid-seven-i|nanaco 前払式]] および [[retail/INDEX|retail INDEX]] と併せて読まれたい。
 
 ## 要点
 
@@ -43,9 +42,7 @@ translated_at: 2026-06-18T15:47:13.957Z
 
 小売業者の強みは**物理的な流通** —— 高来店店舗内の不動産 —— を金融公共レールへ転換した点にある。一般的なパターンは [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]] を参照。
 
-## 3. 2025 連結除外イベント
-
-ポートフォリオを簡素化し株主価値を引き上げる圧力の下（注目度の高い外部からの接触とアクティビストの精査を背景に）、セブン&アイは 2025 年初に変革計画を発表した。セブン銀行に関わる部分：
+## 3. 2025 連結除外イベントポートフォリオを簡素化し株主価値を引き上げる圧力の下（注目度の高い外部からの接触とアクティビストの精査を背景に）、セブン&アイは 2025 年初に変革計画を発表した。セブン銀行に関わる部分：
 
 | ステップ | 詳細 |
 |---|---|
@@ -122,7 +119,7 @@ translated_at: 2026-06-18T15:47:13.957Z
 - [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]]
 - [[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]]
 - [[retail/familymart-itochu-financial-integration|FamilyMart × Itochu financial integration]]
-- [[payments/nanaco-prepaid-seven-i|nanaco prepaid]]
+- [[payments/nanaco-prepaid-seven-i|nanaco 前払式]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[retail/INDEX|retail INDEX]]

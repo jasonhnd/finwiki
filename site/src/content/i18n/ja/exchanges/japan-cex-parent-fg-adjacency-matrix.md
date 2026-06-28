@@ -2,10 +2,11 @@
 source: exchanges/japan-cex-parent-fg-adjacency-matrix
 source_hash: 61805315a848bb6f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の CEX 親 FG 隣接マトリクス"
-translated_at: 2026-06-18T23:33:48.325Z
+translated_at: 2026-06-26T08:27:56.305Z
 ---
 
 # 日本の CEX 親 FG 隣接マトリクス
@@ -67,19 +68,19 @@ translated_at: 2026-06-18T23:33:48.325Z
 
 **隣接性の強度**：中〜高 — マネックスは証券クロスセル、デリバティブ・ライセンスの姉妹実体、そしてグローバル資本アクセスを提供する。Coincheck は独立したブランドと商品サーフェスを保持する。詳細：[[exchanges/jp-exchange-coincheck|jp-exchange-coincheck]]。
 
-### Rakuten Wallet — 楽天グループ（4755）／ 楽天 FG
+### Rakuten ウォレット — 楽天グループ（4755）／ 楽天 FG
 
 **親 FG**：楽天グループ（東証プライム 4755）内の [[payment-firms/rakuten-fg|Rakuten FG]]。**提供されるグループ・サービス**：
 - **銀行** — 楽天銀行（別途上場、東証プライム 5838）は日本最大級のインターネット銀行の一つである。支配的なグループ内の円レールを提供する
-- **証券** — [[securities-firms/rakuten-securities|Rakuten Securities]]（オンライン証券、口座数でトップ 3 ）が金商法のブローカレッジ・サーフェスを提供する
+- **証券** — [[securities-firms/rakuten-securities|Rakuten Securities]]（オンライン証券、口座数でトップ 3）が金商法のブローカレッジ・サーフェスを提供する
 - **カード** — [[card-issuers/rakuten-card|Rakuten Card]]（取引額で日本最大のカード発行者）がカード側のサーフェスを提供する
-- **ポイント** — 楽天ポイント（日本最大のロイヤルティ・プログラム、約 90M の ID 保有者）がクロスリンク・サーフェスである。Rakuten Wallet は歴史的に楽天ポイントを使った暗号資産の購入を可能にしてきた
-- **Edy** — [[payment-firms/rakuten-edy|Rakuten Edy]] はプリペイド電子マネーのアームである。[[payments/japan-prepaid-electronic-money-operator-matrix|JP prepaid e-money operator matrix]] を参照
+- **ポイント** — 楽天ポイント（日本最大のロイヤルティ・プログラム、約 90M の ID 保有者）がクロスリンク・サーフェスである。Rakuten ウォレット は歴史的に楽天ポイントを使った暗号資産の購入を可能にしてきた
+- **Edy** — [[payment-firms/rakuten-edy|Rakuten Edy]] はプリペイド電子マネーのアームである。[[payments/japan-prepaid-electronic-money-operator-matrix|JP 前払式 e-money 事業者 matrix]] を参照
 - **保険** — [[life-insurers/rakuten-life|Rakuten Life]]、[[non-life-insurers/rakuten-general-insurance|Rakuten General Insurance]]、[[non-life-insurers/rakuten-insurance-hd|Rakuten Insurance HD]]
 - **E コマース** — 楽天市場（日本最大のマーケットプレイス）は、グループ内の暗号資産の実験をテストできるマーチャント側のサーフェスである
 - **モバイル** — 楽天モバイル（MNO）がグループにテルコのチャネルを与える
 
-**隣接性の強度**：非常に高い — 日本で最も深い FG エコシステムの一つであり、ユニークなポイント・クロスリンクが VASP の中での際立った特徴である。詳細：[[exchanges/jp-exchange-rakuten-wallet|jp-exchange-rakuten-wallet]]。
+**隣接性の強度**：非常に高い — 日本で最も深い FG エコシステムの一つであり、ユニークなポイント・クロスリンクが VASP の中での際立った特徴である。詳細：[[exchanges/jp-exchange-rakuten-wallet|jp-exchange-rakuten-ウォレット]]。
 
 ### DMM Bitcoin — DMM HD（非公開）
 
@@ -108,7 +109,7 @@ translated_at: 2026-06-18T23:33:48.325Z
 ### Laser Digital Japan — 野村 HD（8604）
 
 **親 FG**：[[securities-firms/nomura-hd|Nomura HD]]（東証プライム 8604）、Laser Digital Holdings（スイスを拠点とするデジタル資産子会社）を通じて。**提供されるグループ・サービス**：
-- **機関投資家ブローカレッジ** — 野村證券（グループのブローカレッジ、リテール資産で日本第 1 ）が機関投資家の顧客基盤とプライムブローカレッジの隣接性を提供する
+- **機関投資家ブローカレッジ** — 野村證券（グループのブローカレッジ、リテール資産で日本第 1）が機関投資家の顧客基盤とプライムブローカレッジの隣接性を提供する
 - **資産運用** — [[asset-managers/nomura-asset-management|Nomura Asset Management]] が機関投資家向けの ETF ／ファンドのエンジニアリングの厚みを提供する
 - **信託銀行** — [[trust-banks/nomura-trust-bank|Nomura Trust Bank]] が機関投資家フローのための信託／カストディ側の法的実体を提供する
 - **ライセンス** — Laser Digital Japan は、標準的な暗号資産交換業ではなく金商法第 2  種（デリバティブ重視）を保有しており、リテール現物ではなく機関投資家／デリバティブ重視を反映している
@@ -119,7 +120,7 @@ translated_at: 2026-06-18T23:33:48.325Z
 ### Crypto Garage — 大和証券グループ（8601）＋ DG ／ 野村のコネクション
 
 **親 FG**：[[securities-firms/daiwa-sg|Daiwa Securities Group]]（東証プライム 8601）。資本構成には DG ホールディングス（デジタルガレージ 4819）、東京短資、その他の戦略的投資家が含まれる。**提供されるグループ・サービス**：
-- **証券** — 大和証券（グループのブローカレッジ、リテール資産で日本第 2 ）が機関投資家のサーフェスを提供する
+- **証券** — 大和証券（グループのブローカレッジ、リテール資産で日本第 2）が機関投資家のサーフェスを提供する
 - **資産運用** — [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] が資産運用のエンジニアリングの厚みを提供する
 - **信託銀行** — [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] ／ 大和トラストの機能
 - **ダイレクト・バンク** — [[regional-banks/daiwa-next-bank|Daiwa Next Bank]]（グループのダイレクト・バンク）がグループ内の円レールを提供する
@@ -131,17 +132,17 @@ translated_at: 2026-06-18T23:33:48.325Z
 
 **親 FG**：PayPay Corp と PayPay FG クラスタを通じたソフトバンクグループ（東証プライム 9984）。**提供されるグループ・サービス**：
 - **ウォレット** — PayPay（GMV で日本最大の QR ／コード決済）がクロスリンク・サーフェスである
-- **カード** — PayPay カード（カード発行者）と PayPay カード ゴールドが PayPay FG の内部に位置する
+- **カード** — PayPay カード（カード発行者）と PayPay カードゴールドが PayPay FG の内部に位置する
 - **銀行** — PayPay 銀行（旧ジャパンネット銀行）がグループ内のインターネット銀行である
 - **証券** — PayPay 証券が金商法のブローカー・サーフェスを提供する
-- **テルコ** — ソフトバンク（東証プライム 9434, 、別途上場）が親会社のテルコ・チャネルである。LINE ヤフー（東証プライム 4689）がメッセージング／検索のサーフェスである
+- **テルコ** — ソフトバンク（東証プライム 9434,、別途上場）が親会社のテルコ・チャネルである。LINE ヤフー（東証プライム 4689）がメッセージング／検索のサーフェスである
 - **暗号資産リンク**：PayPay は [[exchanges/jp-exchange-binance-japan|Binance Japan]]（取得した SEBC のライセンス・ビークル）の約 40% を保有しており、自社名義の VASP ライセンスを持たずに、PayPay FG に間接的な暗号資産取引所のエクスポージャーを与えている
 
 **隣接性の強度**：中（間接的） — PayPay FG は強力な決済＋銀行＋テルコ＋証券のスタックを運営しているが、自社ブランドの VASP ではなく、Binance Japan への少数投資を通じて暗号資産に関与している。これは 2026 時点での意図的なオプショナリティの姿勢である。
 
 ### au 関連 — KDDI クラスタ
 
-**親 FG**：au じぶん銀行／ au PAY ／ au フィナンシャル クラスタを通じた KDDI（東証プライム 9433）。**提供されるグループ・サービス**：
+**親 FG**：au じぶん銀行／ au PAY ／ au フィナンシャルクラスタを通じた KDDI（東証プライム 9433）。**提供されるグループ・サービス**：
 - **テルコ** — KDDI（au）は 3  MNO の一つである
 - **銀行** — au じぶん銀行（MUFG との合弁）がグループ内のインターネット銀行である
 - **ウォレット** — au PAY（QR ／コード決済）と au PAY カードが FG の内部に位置する
@@ -158,7 +159,7 @@ translated_at: 2026-06-18T23:33:48.325Z
 | **GMO コイン** | [[payment-firms/gmo-financial-hd\|GMO Financial HD]] ／ GMO インターネット | 7177 ／ 9449 | [[payment-firms/gmo-aozora-net\|GMO Aozora Net]] | [[securities-firms/gmo-click-securities\|GMO Click Securities]] | [[payment-firms/gmo-payment-gateway\|GMO Payment Gateway]] ＋ [[payment-firms/gmo-epsilon\|GMO Epsilon]] | （限定的） | （限定的） | （限定的） | 高い | あり — インターネット金融 |
 | **bitFlyer** | 独立系 | n/a | 提携銀行のみ | （なし） | （なし） | 提携のみ | （なし） | （なし） | 低い | なし — ブランドのみ |
 | **Coincheck** | [[securities-firms/monex-group\|Monex Group]]（Coincheck Group N.V. 経由、NASDAQ:CNCK） | 8698 （日本）／ CNCK（米国） | （日本にはなし） | マネックス証券 | （なし） | マネックスポイント | （なし） | （なし） | 中〜高 | あり — 証券クロスセル ＋ グローバル資本 |
-| **Rakuten Wallet** | [[payment-firms/rakuten-fg\|Rakuten FG]] ／ 楽天グループ | 4755 | 楽天銀行（5838） | [[securities-firms/rakuten-securities\|Rakuten Securities]] | [[card-issuers/rakuten-card\|Rakuten Card]] ＋ [[payment-firms/rakuten-edy\|Rakuten Edy]] | 楽天ポイント（約 90M ID） | [[life-insurers/rakuten-life\|Rakuten Life]] ＋ [[non-life-insurers/rakuten-general-insurance\|Rakuten General Insurance]] | 楽天市場 | 非常に高い | あり — フル・スーパーストア ＋ ポイント |
+| **Rakuten ウォレット** | [[payment-firms/rakuten-fg\|Rakuten FG]] ／ 楽天グループ | 4755 | 楽天銀行（5838） | [[securities-firms/rakuten-securities\|Rakuten Securities]] | [[card-issuers/rakuten-card\|Rakuten Card]] ＋ [[payment-firms/rakuten-edy\|Rakuten Edy]] | 楽天ポイント（約 90M ID） | [[life-insurers/rakuten-life\|Rakuten Life]] ＋ [[non-life-insurers/rakuten-general-insurance\|Rakuten General Insurance]] | 楽天市場 | 非常に高い | あり — フル・スーパーストア ＋ ポイント |
 | **DMM Bitcoin** | DMM HD（非公開） | n/a | （なし） | DMM.com 証券 | （なし） | DMM ポイント | （なし） | DMM マーケットプレイス | 中 → ワインドダウン 2024 | （かつての）マーケティング・リーチ |
 | **Mercoin** | [[payment-firms/mercari-hd\|Mercari HD]] | 4385 | （なし） | （なし） | メルペイ（資金移動業） | メルカリポイント | （なし） | メルカリ（日本最大の C2C） | 非常に高い | あり — 専属マーケットプレイス・オンランプ |
 | **Laser Digital Japan** | [[securities-firms/nomura-hd\|Nomura HD]] | 8604 | （自社銀行なし） | 野村證券（日本第 1  資産） | （なし） | （なし） | （野村保険） | （なし） | 非常に高い（機関投資家） | あり — 機関投資家の顧客カバレッジ |
@@ -171,7 +172,7 @@ translated_at: 2026-06-18T23:33:48.325Z
 このマトリクスを隣接性の強度による単一のランキングとして読む（高 = 親 FG が銀行／証券／ウォレット／ポイント／保険／E コマースの複数の次元にわたって有意に貢献する）：
 
 1. **SBI VC トレード**（SBI HD） — 金融スーパーストアの親会社、最も深いクロス商品のリーチ
-2. **Rakuten Wallet**（楽天 FG） — スーパーストア ＋ ユニークなポイント・クロスリンク（約 90M の楽天ポイント ID）
+2. **Rakuten ウォレット**（楽天 FG） — スーパーストア ＋ ユニークなポイント・クロスリンク（約 90M の楽天ポイント ID）
 3. **Mercoin**（メルカリ HD） — 専属の C2C マーケットプレイス・オンランプ ＋ メルペイ資金移動業ウォレット統合
 4. **Laser Digital Japan**（野村 HD） — 機関投資家のみ、深いブローカレッジ ＋ 信託銀行の隣接性
 5. **GMO コイン**（GMO フィナンシャル HD ／ GMO インターネット） — 銀行 ＋ ブローカレッジ ＋ PSP を持つインターネット金融の親会社
@@ -184,9 +185,7 @@ translated_at: 2026-06-18T23:33:48.325Z
 
 **銀行 FG のリテール・スーパーストア・モデル（SBI、楽天）**、**専属マーケットプレイス・オンランプ・モデル（Mercoin）**、そして**機関投資家ブローカレッジ隣接モデル（Laser Digital、Crypto Garage）**は、構造的に異なる三つの高強度の隣接アーキタイプである。日本の VASP の競争ダイナミクスを分析する読者は、手数料、商品、または出来高の指標でピア比較を行う前に、各事業者がどのアーキタイプに属するかを特定する必要がある。
 
-## 親 FG が一般的に提供するクロス商品
-
-以下のクロス商品はマトリクス全体で繰り返し現れ、VASP がプラグインできる**FG が提供可能なサーフェスのメニュー**を表す：
+## 親 FG が一般的に提供するクロス商品以下のクロス商品はマトリクス全体で繰り返し現れ、VASP がプラグインできる**FG が提供可能なサーフェスのメニュー**を表す：
 
 - **銀行預金レール** — 顧客が即時の円の入出金に使えるグループ内の銀行口座（SBI 新生、楽天銀行、GMO あおぞらネット、大和ネクスト銀行、au じぶん銀行、PayPay 銀行）。グループ内の銀行がなければ、VASP は提携メガバンクのレールを経由しなければならず、相応の決済時間と手数料の不利を伴う。
 - **証券ブローカレッジの口座基盤** — クロスセルのプールとしての親会社の既存の金商法ブローカレッジ顧客（SBI 証券、楽天証券、野村證券、大和証券、マネックス証券、GMO クリック証券、au カブコム証券、PayPay 証券）。ブローカレッジ口座からのクロスセルは、日本の VASP にとって最も低 CAC のチャネルである。
@@ -197,21 +196,19 @@ translated_at: 2026-06-18T23:33:48.325Z
 - **E コマース／マーケットプレイス** — 楽天市場、メルカリ、DMM マーケットプレイス。マーケットプレイスの統合は、マーチャント側の暗号資産決済の実験と出品者側のオフランプを可能にする。
 - **テルコのチャネル** — ソフトバンク、KDDI（au）、NTT ドコモ、楽天モバイル。テルコの販売は、FG に MNO バンドルのオプショナリティを与える。
 
-これらのサーフェスのうち 4-5 個以上にプラグインする VASP（SBI VC トレード、Rakuten Wallet）は、0-1  個にプラグインする VASP（bitFlyer、引き継ぎ後の DMM Bitcoin）とは構造的に異なるユニットエコノミクスで運営される。これは、このマトリクスが支える最も重要なフレーミングである。
+これらのサーフェスのうち 4-5 個以上にプラグインする VASP（SBI VC トレード、Rakuten ウォレット）は、0-1  個にプラグインする VASP（bitFlyer、引き継ぎ後の DMM Bitcoin）とは構造的に異なるユニットエコノミクスで運営される。これは、このマトリクスが支える最も重要なフレーミングである。
 
 ## マトリクス全体での資金調達コストのレンズ
 
 このマトリクスの VASP の円資金調達コストのランキングは、グループ内の銀行の存在と親 FG のクレジット・プロファイルに従う：
 
-- **最も低い資金調達コスト**：SBI VC トレード（グループ内に SBI 新生）、Rakuten Wallet（グループ内に楽天銀行）、GMO コイン（グループ内に GMO あおぞらネット）、Crypto Garage（グループ内に大和ネクスト銀行） — いずれも直接のグループ内銀行レールを持ち、親 FG のクレジット格付けが安価な運営資本を支える
+- **最も低い資金調達コスト**：SBI VC トレード（グループ内に SBI 新生）、Rakuten ウォレット（グループ内に楽天銀行）、GMO コイン（グループ内に GMO あおぞらネット）、Crypto Garage（グループ内に大和ネクスト銀行） — いずれも直接のグループ内銀行レールを持ち、親 FG のクレジット格付けが安価な運営資本を支える
 - **中程度の資金調達コスト**：Coincheck（マネックスグループ、グループ内銀行はないが資本市場アクセスを持つ上場親会社）、Mercoin（メルカリ HD、メルペイの資金移動業が円側をカバーするが実際の銀行はない）
 - **より高い資金調達コスト**：bitFlyer（独立系、上場親会社なし）、DMM Bitcoin（引き継ぎ前。DMM HD は非公開で、公的な資本市場アクセスなし）、Laser Digital Japan（機関投資家のみ、野村 HD は強いがその実体に注力した直接のグループ内銀行なし）
 
 資金調達コストの次元が重要なのは、暗号資産取引所の運営が、板の流動性、顧客の出金バッファ、運用上の円ポジションの資金を賄うために**相当な運転資本**を必要とするからである。安価なグループ内資金を持つ VASP は、外部の銀行ラインや無担保のペーパーの利用を強いられる独立系 VASP よりも、深い板とタイトなスプレッドを運営できる。銀行クレジット・ラインの詳細については [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]] を参照。
 
-## マトリクス全体でのインシデント対応キャパシティ
-
-ハック関連の補填事象を吸収する親 FG のキャパシティは、劇的に異なる：
+## マトリクス全体でのインシデント対応キャパシティハック関連の補填事象を吸収する親 FG のキャパシティは、劇的に異なる：
 
 - **高いキャパシティ（実証済み）**：DMM HD は、DMM Bitcoin のための Lazarus による 48B の 2024-05  ハックの補填を、希薄化を伴う外部資金調達なしにグループの現金から賄った。SBI HD、楽天グループ、メルカリ HD、野村 HD は、いずれも原則として同等以上のバランスシートのキャパシティを利用可能である
 - **高いキャパシティ（未検証）**：マネックスグループ、GMO インターネットグループ、大和 SG
@@ -224,7 +221,7 @@ Coincheck の NEM 2018-01  インシデント（[[exchanges/coincheck-nem-hack-d
 - **Coincheck Group N.V. の NASDAQ 上場（2024）** — SPAC 合併の後、**Coincheck Inc.（日本）**を、マネックスグループの子会社（日本における企業上の親会社）として読むのが最適か、Coincheck Group N.V. の子会社（米国における最終的な上場親会社）として読むのが最適か、という問いになる。マトリクスの目的上は両者が記録される — 日本の親 FG エコシステムはマネックスを通じて流れ、グローバル資本サーフェスは Coincheck Group N.V. を通じて流れる。マトリクスは両方のラベルを使用する。
 - **DMM Bitcoin のワインドダウン（2024）→ SBI VC トレードへの引き継ぎ** — Lazarus 後の SBI VC トレードへの顧客移行は、日本の VASP の歴史において特異な事象である。完了後、DMM HD の行は事実上ゼロになり、移行したユーザー基盤は SBI HD の行へシフトする。マトリクスは、行を削除するのではなく、ワインドダウンの注記とともに 2024  以前の状態を記録する。なぜなら、FG 隣接性の歴史的な教訓（非金融の親会社のバックストップ）が、最も多く引用される先例であり続けるからである。
 - **PayPay の Binance Japan における少数ポジション** — PayPay FG は Binance Japan（取得した SEBC のライセンス・ビークル）の約 40% を保有しているが、Binance Japan は PayPay FG の商品としてではなく、Binance のグローバル・ブランドの下で運営している。マトリクスはこれを **なし** ではなく **中（間接的）** の隣接性として記載する。なぜなら、このエクイティのリンクが、ゼロから構築する設備投資なしに、日本の暗号資産に関する PayPay FG のオプショナリティを与えるからである。
-- **非銀行の親 FG としてのメルカリ HD** — メルカリは銀行を保有しないが、メルペイの資金移動業ライセンスが [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer regulatory route]] を通じて事実上、円の入出金機能を提供する。マトリクスの目的上、これは「グループ内に銀行なし／グループ内にウォレット」として記録される。なぜなら、規制上の実体が銀行法の銀行とは根本的に異なるからである。
+- **非銀行の親 FG としてのメルカリ HD** — メルカリは銀行を保有しないが、メルペイの資金移動業ライセンスが [[payments/funds-transfer-vs-prepaid-boundary|資金移動 regulatory route]] を通じて事実上、円の入出金機能を提供する。マトリクスの目的上、これは「グループ内に銀行なし／グループ内にウォレット」として記録される。なぜなら、規制上の実体が銀行法の銀行とは根本的に異なるからである。
 - **Laser Digital Japan ／ Crypto Garage が暗号資産交換業ではなく金商法第 2  種を保有していること** — これらの機関投資家／デリバティブの実体は、消費者向け現物の暗号資産交換業のルートではなく、[[exchanges/jp-vasp-derivative-license-system|FIEA Type 2 derivative]] のルートの下でライセンスを受けている。マトリクスがこれらを含めるのは、親 FG（野村、大和）が明白に暗号資産にアクティブであり、運用上の FG 隣接性のメカニクスが同じだからである — ただし、規制上のライセンス・スタックは異なる。
 - **au FG の反事実** — KDDI は日本で最も深い非銀行 FG の決済／銀行／ブローカレッジのスタックの一つを構築したが、暗号資産取引所に参入していない。マトリクスは「VASP の実体が付随しないときに FG 隣接性がどう見えるか」の参照として空の行を保持しており、これは欠けている暗号資産ポジションのコストをベンチマークするのに有用である。
 - **bitFlyer の意図的な独立性** — bitFlyer は複数の買収協議（最近では実現しなかったみずほ FG または SBI FG への売却をめぐる 2024-2025  の憶測）を通じて独立を維持することを選んだ。マトリクスはこれを **低い隣接性** として記録するが、この事業者が親会社のインフラではなくブランド力と JVCEA ネットワークのポジションで補っていることを指摘する。

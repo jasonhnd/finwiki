@@ -2,10 +2,11 @@
 source: exchanges/cex-foxbit-brazil
 source_hash: a219354c8a0f8598
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Foxbit — ブラジル CEX #2  / 老舗 BRL ペア流動性の概観"
-translated_at: 2026-06-02T12:19:04.205Z
+translated_at: 2026-06-26T08:29:25.269Z
 ---
 # Foxbit — ブラジル CEX #2  / 老舗 BRL ペア流動性の概観
 
@@ -83,7 +84,7 @@ translated_at: 2026-06-02T12:19:04.205Z
 - **BCB / CVM 規制対応**：Lei 14.478/2022 施行後の PSAV 登録 + CVM トークン化証券規制への二重対応により、規制対応コストの負担が増加
 - **ABCripto 業界団体活動**：ブラジル暗号通貨業界自主規制 / 規制対話への積極参加により、規制環境の安定化に寄与
 - **海外 CEX 競合対応**：Binance、OKX、Bybit などの offshore CEX のブラジル進出に対し、**現地規制完全準拠 + PIX 即時決済 + ポルトガル語サポート** で差別化
-- **機関向け展開**：OTC desk、API trading、custody 関連サービスを段階的に拡張
+- **機関向け展開**：OTC desk、API trading、カストディ関連サービスを段階的に拡張
 
 ## 8. 業界での位置づけ
 
