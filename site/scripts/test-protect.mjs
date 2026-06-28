@@ -80,6 +80,12 @@ const localizerOk =
 console.log(`ja business-term localizer guard: ${localizerOk}`);
 if (!localizerOk) allLossless = false;
 
+const englishProse =
+  'the operator settles the funds via the merchant while wallet risk remains with the issuer.';
+const englishProseUnchanged = localizeJapaneseBusinessTerms(englishProse, { titleByRoute }) === englishProse;
+console.log(`ja business-term localizer skips English prose: ${englishProseUnchanged}`);
+if (!englishProseUnchanged) allLossless = false;
+
 // custody TL;DR を mask した見本（数字/専名/リンクが占位符になり、散文だけ残るか確認）
 const body = stripFm(readFileSync(join(repo, 'banking/custody-bank-operating-model.md'), 'utf8'));
 const { masked } = mask(body);

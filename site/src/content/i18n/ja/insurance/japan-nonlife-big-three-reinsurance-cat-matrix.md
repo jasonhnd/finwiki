@@ -2,11 +2,10 @@
 source: insurance/japan-nonlife-big-three-reinsurance-cat-matrix
 source_hash: 1fa1bad71f839540
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本損保ビッグスリーの再保険・カット・オーバーレイ・マトリクス"
-translated_at: 2026-06-26T08:32:23.047Z
+translated_at: 2026-06-19T06:09:18.053Z
 ---
 
 # 日本損保ビッグスリーの再保険・カット・オーバーレイ・マトリクス

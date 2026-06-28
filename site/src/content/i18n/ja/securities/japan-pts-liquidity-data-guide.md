@@ -2,11 +2,10 @@
 source: securities/japan-pts-liquidity-data-guide
 source_hash: 7f5a21c0f3b10acf
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 PTS 流動性データガイド"
-translated_at: 2026-06-26T08:29:40.688Z
+translated_at: 2026-06-19T12:43:19.858Z
 ---
 
 # 日本 PTS 流動性データガイド
@@ -15,7 +14,7 @@ translated_at: 2026-06-26T08:29:40.688Z
 
 PTS 流動性データは [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]] の背後にある証拠レイヤーである。これは、ある銘柄にとって代替的な取引の場が重要であるかどうかに答える助けとなるが、顧客固有の最良執行結果と同一ではない。有用な分析は、合計売買代金、銘柄レベルの活動、取引の場の利用可能性、スプレッド / 気配の質、注文サイズ、執行確率、そしてブローカーのルーティング方針を区別しなければならない。
 
-本ページは [[securities/INDEX|securities domain]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[securities/japannext-securities|Japannext]]、[[securities/osaka-digital-exchange|ODX]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、および [[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]] と併せて用いること。
+本ページは [[securities/INDEX|securities domain]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[securities/japannext-securities|Japannext]]、[[securities/osaka-digital-exchange|ODX]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、および [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] と併せて用いること。
 
 ## Source Stack
 

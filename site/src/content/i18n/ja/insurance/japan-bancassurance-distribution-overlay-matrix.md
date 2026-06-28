@@ -2,11 +2,10 @@
 source: insurance/japan-bancassurance-distribution-overlay-matrix
 source_hash: 287e6701185ff57f
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan bancassurance distribution overlay matrix"
-translated_at: 2026-06-26T08:28:46.057Z
+translated_at: 2026-06-19T06:09:18.098Z
 ---
 
 
@@ -18,7 +17,7 @@ translated_at: 2026-06-26T08:28:46.057Z
 
 ## Wiki route
 
-このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/bancassurance-economics-japan|bancassurance economics Japan]] の銀行側の対をなすものである。保険会社が一時払い貯蓄性をどのように価格設定するかに影響する規制資本の文脈について、[[insurance/life-insurance-channel-mix|life insurance channel mix]]、[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / 証券仲介 Japan landscape]]、[[insurance/japan-medical-insurance-rider-product-matrix|the medical insurance rider product matrix]]、[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]、[[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]、[[insurance/internet-life-insurance-business-model|the internet life insurance 事業モデル]]、[[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] と併せて読むこと。
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/bancassurance-economics-japan|bancassurance economics Japan]] の銀行側の対をなすものである。保険会社が一時払い貯蓄性をどのように価格設定するかに影響する規制資本の文脈について、[[insurance/life-insurance-channel-mix|life insurance channel mix]]、[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]]、[[insurance/japan-medical-insurance-rider-product-matrix|the medical insurance rider product matrix]]、[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]、[[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/economic-value-based-solvency|economic-value-based solvency]] と併せて読むこと。
 
 このオーバーレイのクリーンな銀行アンカーには、[[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|MUFG Bank]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-hd|Resona HD]] / [[megabanks/resona-bank|Resona Bank]]、[[megabanks/saitama-resona-bank|Saitama Resona Bank]]、[[regional-banks/japan-post-bank|Japan Post Bank]] / [[megabanks/nippon-post|Japan Post group]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[regional-banks/sony-bank|Sony Bank]]、および [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]] / [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] / [[regional-banks/kita-nippon-bank|Kita-Nippon Bank]] / [[regional-banks/minami-nippon-bank|Minami-Nippon Bank]] の地方銀行の例が含まれる。保険会社のアンカーには、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]、[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/sbi-life|SBI Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、[[life-insurers/aflac-japan|Aflac Japan]]、[[life-insurers/kampo-life|Kampo Life]] が含まれる。
 
@@ -218,7 +217,7 @@ translated_at: 2026-06-26T08:28:46.057Z
 | Foreign-currency annuity dominance | Foreign-currency annuity remained the dominant single-premium bancassurance product family across the 2010s and 2020s |
 | Variable annuity decline | Variable annuity was largely replaced by foreign-currency annuity after FSA-led product redesign in the 2010s |
 | FSA suitability framework progression | Multi-year FSA Conduct Supervision pressure on suitability for elderly customers, foreign-currency-product explanation, and commission-disclosure direction |
-| ESR rollout 2025 | FSA economic-value-based ソルベンシー regime changes the capital treatment of foreign-currency annuity liabilities for the insurer — see [[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]] |
+| ESR rollout 2025 | FSA economic-value-based solvency regime changes the capital treatment of foreign-currency annuity liabilities for the insurer — see [[insurance/economic-value-based-solvency|economic-value-based solvency]] |
 | Bancassurance-dedicated affiliate model | [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] and [[life-insurers/ms-primary-life|MS Primary Life]] structures continue as dedicated bancassurance affiliates of Dai-ichi HD and MS&AD |
 
 ## Historical and structural context

@@ -2,11 +2,10 @@
 source: life-insurers/lifenet
 source_hash: ba125d4e96a64806
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ライフネット生命保険"
-translated_at: 2026-06-26T08:31:59.839Z
+translated_at: 2026-06-24T09:30:00.000Z
 ---
 # ライフネット生命保険 (LifeNet Insurance)
 
@@ -25,10 +24,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | ライフネット生命保険株式会社 / LIFENET INSURANCE COMPANY。^[source:fsa-life-list-2026] |
 | Listed security | TSE Prime, securities code 7157。^[source:lifenet-stock-2026] |
 | Licence boundary | FSA English life-insurer list に LIFENET INSURANCE COMPANY として掲載。^[source:fsa-life-list-2026] |
-| 事業モデル boundary | IR home は customer-oriented, easy-to-understand, affordable, convenient life-insurance policies を掲げる online insurer と説明。^[source:lifenet-ir-home-2026] |
-| ソルベンシー regime | 2026-03-31 から Economic Value-based ソルベンシー Framework が導入され、FY2025 financial results は regulatory ESR 333%、internal ESR 394% と説明。^[source:lifenet-fy2025-results-2026] |
+| Business model boundary | IR home は customer-oriented, easy-to-understand, affordable, convenient life-insurance policies を掲げる online insurer と説明。^[source:lifenet-ir-home-2026] |
+| Solvency regime | 2026-03-31 から Economic Value-based Solvency Framework が導入され、FY2025 financial results は regulatory ESR 333%、internal ESR 394% と説明。^[source:lifenet-fy2025-results-2026] |
 
-## 2. 事業モデル
+## 2. Business model
 
 ### Direct online economics
 
@@ -37,7 +36,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Lane | Reading |
 |---|---|
 | Individual online life | Core franchise is simple online life-insurance UX; old "internet-only" label is useful but no longer sufficient because partner channels are expanding. |
-| Embedded / partner business | FY2025 presentation names JAL, KDDI Group and SMBC Group as 経済圏 for partner-business expansion.^[source:lifenet-fy2025-presentation-2026] |
+| Embedded / partner business | FY2025 presentation names JAL, KDDI Group and SMBC Group as ecosystems for partner-business expansion.^[source:lifenet-fy2025-presentation-2026] |
 | Group credit life | FY2025 presentation notes GCL partnerships, including a second new bank, so housing-loan / bank-adjacent insurance should be analyzed separately from retail direct life.^[source:lifenet-fy2025-presentation-2026] |
 | Capital-market positioning | Since the listing is TSE Prime as of the 2026 stock page, this is no longer just a Growth-market startup case. It is a listed insurer with growth-stock expectations and insurance-regulatory capital constraints.^[source:lifenet-stock-2026] |
 
@@ -50,11 +49,11 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | 2026-06-22 governance update | Lifenet announced JAL became a major shareholder with 18.33% voting rights and an other associated company after the 2026-06-21 shareholder-meeting director appointment.^[source:lifenet-associated-company-2026] |
 | KDDI / au relationship | KDDI / auFH ceased to be other associated companies, but the 2026-06-22 release says Lifenet's independent decision-making was ensured during the auFH / KDDI associated-company period.^[source:lifenet-associated-company-2026] |
 
-This page therefore links to [[megabanks/au-fh]] for the historical telco-finance partnership, but the current 2026 channel map must also treat JAL as the new strategic airline 経済圏 partner. FinWiki does not yet maintain a standalone JAL finance page, so JAL remains an external-source fact here rather than a wikilink target.
+This page therefore links to [[megabanks/au-fh]] for the historical telco-finance partnership, but the current 2026 channel map must also treat JAL as the new strategic airline ecosystem partner. FinWiki does not yet maintain a standalone JAL finance page, so JAL remains an external-source fact here rather than a wikilink target.
 
-## 4. ソルベンシー / insurer capital reading
+## 4. Solvency / insurer capital reading
 
-The old ソルベンシー-margin ratio remains useful for legacy comparison, but Lifenet's latest FY2025 results explicitly shift the supervisory discussion to ESR from the March 2026 framework. The page should read insurer capital as a binding design constraint on growth:
+The old solvency-margin ratio remains useful for legacy comparison, but Lifenet's latest FY2025 results explicitly shift the supervisory discussion to ESR from the March 2026 framework. The page should read insurer capital as a binding design constraint on growth:
 
 - 2026-03-31 regulatory ESR: **333%**; internal ESR: **394%**, both described as preliminary in the FY2025 results release.^[source:lifenet-fy2025-results-2026]
 - Growth metrics such as annualized premiums and insurance service results should be read together with capital adequacy, because online acquisition spending and embedded distribution can accelerate new business but still consumes insurance risk capital.^[source:lifenet-fy2025-presentation-2026]
@@ -65,15 +64,15 @@ The old ソルベンシー-margin ratio remains useful for legacy comparison, bu
 | Peer / category | Contrast |
 |---|---|
 | [[life-insurers/orix-life|ORIX Life]] | Hybrid insurer using agents, financial institutions, mail-order / online sales and Conserve Advisors, not a pure online-direct model. |
-| [[megabanks/sbi-hd|SBI group insurance]] | Internet-finance 経済圏 competitor, with banking / securities / insurance bundling logic. |
-| [[megabanks/paypay-fg|PayPay / SoftBank insurance routes]] | Super-app / payment 経済圏 insurance contrast. |
+| [[megabanks/sbi-hd|SBI group insurance]] | Internet-finance ecosystem competitor, with banking / securities / insurance bundling logic. |
+| [[megabanks/paypay-fg|PayPay / SoftBank insurance routes]] | Super-app / payment ecosystem insurance contrast. |
 | Major traditional insurers | Large legacy agent / bancassurance / workplace channels; contrast with Lifenet's online-first and embedded-partner strategy. |
 
 ## Related
 
 - [[megabanks/au-fh]]（KDDI / au Financial HD、historical strategic-shareholder route）
 - [[life-insurers/orix-life]]（hybrid direct / agent / financial-institution insurer peer）
-- [[megabanks/sbi-hd]]（SBI 生命の親会社、internet-finance 経済圏 peer）
+- [[megabanks/sbi-hd]]（SBI 生命の親会社、internet-finance ecosystem peer）
 - [[megabanks/paypay-fg]]（PayPay insurance / payment-super-app insurance adjacency）
 - [[insurance/internet-life-insurance-business-model]]（仮 / ネット生保ビジネスモデル論）
 

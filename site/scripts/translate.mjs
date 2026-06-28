@@ -14,7 +14,7 @@ import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
 import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
-import { buildTitleByRoute, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
+import { buildTitleByRoute, hasSubstantialEnglishProse, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const TARGET = { ja: '自然な日本語', en: 'English', zh: '简体中文 (Simplified Chinese)' };
@@ -127,6 +127,10 @@ async function main() {
   const processed = new Set();
   const writeLocalJaFromExisting = (rel, h, title, outPath) => {
     const [existingFm, existingBody] = splitFm(readFileSync(outPath, 'utf8'));
+    if (hasSubstantialEnglishProse(existingBody)) {
+      console.log(`skip ${rel}  (english prose needs LLM translation)`);
+      return;
+    }
     const existingTitle = fmTitle(existingFm);
     const localizedTitle = existingTitle
       ? localizeJapaneseBusinessTerms(existingTitle, { titleByRoute })

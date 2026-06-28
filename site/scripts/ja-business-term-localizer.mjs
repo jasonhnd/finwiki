@@ -51,6 +51,24 @@ const KEEP_ENGLISH_PATTERNS = [
 const SOURCE_SECTION_RE =
   /\n##\s+(?:Sources?|ソース|出典|参考資料|参照資料|公開データソース)\s*(?:\([^)\n]*\))?\s*(?:\n|$)/m;
 
+function withoutNonProse(markdown) {
+  const sourceMatch = SOURCE_SECTION_RE.exec(markdown);
+  const sourcesIndex = sourceMatch?.index ?? -1;
+  const head = sourcesIndex >= 0 ? markdown.slice(0, sourcesIndex) : markdown;
+  return head
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/`[^`\n]*`/g, ' ')
+    .replace(/\^\[[^\]\n]+\]/g, ' ')
+    .replace(/https?:\/\/\S+/g, ' ')
+    .replace(WIKILINK_RE, ' ')
+    .replace(/\s+/g, ' ');
+}
+
+export function hasSubstantialEnglishProse(markdown) {
+  const prose = ` ${withoutNonProse(markdown).toLowerCase()} `;
+  return (prose.match(/ the /g) ?? []).length >= 3;
+}
+
 function pushMask(masks, value) {
   const key = `@@JA_TERM_MASK_${masks.length}@@`;
   masks.push(value);
@@ -137,6 +155,7 @@ function localizeSegment(input, options) {
 }
 
 export function localizeJapaneseBusinessTerms(markdown, options = {}) {
+  if (hasSubstantialEnglishProse(markdown)) return markdown;
   const sourceMatch = SOURCE_SECTION_RE.exec(markdown);
   const sourcesIndex = sourceMatch?.index ?? -1;
   const head = sourcesIndex >= 0 ? markdown.slice(0, sourcesIndex) : markdown;

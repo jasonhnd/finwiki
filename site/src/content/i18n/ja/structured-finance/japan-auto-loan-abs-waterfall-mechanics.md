@@ -2,18 +2,17 @@
 source: structured-finance/japan-auto-loan-abs-waterfall-mechanics
 source_hash: 6ff8571aab394ff2
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のオートローン ABS ウォーターフォール機構 — オリジネーター・サービサー分離、サブクラス経済性"
-translated_at: 2026-06-26T08:29:40.690Z
+translated_at: 2026-06-19T13:13:22.649Z
 ---
 
 # 日本のオートローン ABS ウォーターフォール機構 — オリジネーター・サービサー分離、サブクラス経済性
 
 ## TL;DR
 
-日本のオートローン ABS — 年間発行額約 JPY 1.5–2 兆円 のセグメントで、キャプティブ・オリジネーター（[[card-issuers/toyota-finance|Toyota Finance]]、[[leasing-firms/toyota-financial|Toyota Financial Services]] のクロスボーダー・シェルフ、Honda Finance、Nissan Credit）と銀行系マルチブランド・オリジネーター（[[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[card-issuers/orico|Orient Corporation]]、MUFG Capital Auto Loan ABS）が支配する — は二段階の **ウォーターフォール** を運用する。すなわち、利息回収口座における利息優先（サービサー手数料 → シニア利息 → メザニン利息 → リザーブ → エクイティ）、続いて元本回収口座における **シーケンシャル・ペイ元本**（多くの国内ストラクチャーではシニアが先にゼロまで返済され、次いでメザニン、次いでエクイティ）で、一部のクロスボーダーの Toyota Financial Services シェルフ取引では、テストが満たされた場合に **プロラタ元本** が現れる。信用補完は、**劣後**（メザニン + エクイティは、Toyota / Honda / Nissan 案件の AAA シニアで通常 6–12%、マルチブランド銀行系案件で 8–15%）、**超過担保**（1–3% ターゲット、超過スプレッドから積み上げ）、および **キャッシュリザーブ / スプレッド口座**（シニア残高の 0.5–1.5%）を積層する。オリジネーターとサービサーは通常同一のキャプティブ・エンティティであり、オリジネーター・デフォルト時に発動するバックアップ・サービサーとして [[trust-banks/sumitomo-mitsui-trust|SMTB]] または [[trust-banks/nochu-trust-bank|Nochu Trust]] を置く。AAA トランシェは国内案件では [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] により格付けされ、Toyota Financial Services の国際シェルフでは S&P / Moody's のカバレッジを得る — [[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]] を参照。
+日本のオートローン ABS — 年間発行額 約 JPY 1.5–2 兆円 のセグメントで、キャプティブ・オリジネーター（[[card-issuers/toyota-finance|Toyota Finance]]、[[leasing-firms/toyota-financial|Toyota Financial Services]] のクロスボーダー・シェルフ、Honda Finance、Nissan Credit）と銀行系マルチブランド・オリジネーター（[[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[card-issuers/orico|Orient Corporation]]、MUFG Capital Auto Loan ABS）が支配する — は二段階の **ウォーターフォール** を運用する。すなわち、利息回収口座における利息優先（サービサー手数料 → シニア利息 → メザニン利息 → リザーブ → エクイティ）、続いて元本回収口座における **シーケンシャル・ペイ元本**（多くの国内ストラクチャーではシニアが先にゼロまで返済され、次いでメザニン、次いでエクイティ）で、一部のクロスボーダーの Toyota Financial Services シェルフ取引では、テストが満たされた場合に **プロラタ元本** が現れる。信用補完は、**劣後**（メザニン + エクイティは、Toyota / Honda / Nissan 案件の AAA シニアで通常 6–12%、マルチブランド銀行系案件で 8–15%）、**超過担保**（1–3% ターゲット、超過スプレッドから積み上げ）、および **キャッシュリザーブ / スプレッド口座**（シニア残高の 0.5–1.5%）を積層する。オリジネーターとサービサーは通常同一のキャプティブ・エンティティであり、オリジネーター・デフォルト時に発動するバックアップ・サービサーとして [[trust-banks/sumitomo-mitsui-trust|SMTB]] または [[trust-banks/nochu-trust-bank|Nochu Trust]] を置く。AAA トランシェは国内案件では [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] により格付けされ、Toyota Financial Services の国際シェルフでは S&P / Moody's のカバレッジを得る — [[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]] を参照。
 
 ## Wiki route
 
@@ -27,12 +26,14 @@ translated_at: 2026-06-26T08:29:40.690Z
 | Servicer | **Same entity as originator** in nearly all Japan auto-loan ABS | Collects monthly payments from obligors; tracks delinquencies; manages repossession; remits collections to the SPV trust account |
 | Backup servicer | [[trust-banks/sumitomo-mitsui-trust|SMTB]], Mitsubishi UFJ Trust, or [[trust-banks/nochu-trust-bank|Nochu Trust]] | "Cold" backup — no live servicing during normal operation; takes over within 30–60 days on originator default / servicer event of default |
 | Trustee | A trust bank ([[trust-banks/sumitomo-mitsui-trust|SMTB]] / Mitsubishi UFJ Trust) | Holds the trust beneficial interest layer (when used); manages account-bank relationships; oversees waterfall enforcement |
-| 発行会社 (SPV) | GK-TK ([[structured-finance/spv-tk-gk-vehicle-japan-tax|godo kaisha + tokumei kumiai]]) typically | Issues senior, mezz, and equity classes; bankruptcy-remote from originator |
+| Issuer (SPV) | GK-TK ([[structured-finance/spv-tk-gk-vehicle-japan-tax|godo kaisha + tokumei kumiai]]) typically | Issues senior, mezz, and equity classes; bankruptcy-remote from originator |
 | Investor administrator | Megabank securities arm ([[securities-firms/mufg-securities|MUFG MS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) | Arranges and distributes the senior / mezz tranches |
 
 最も重要な運用上の事実は **オリジネーター・サービサーの同一性** である。通常運用下では、ローンを組成したのと同じキャプティブ・ファイナンス会社が、支払を回収し、延滞について債務者と交渉し、いつ引き揚げ（リポゼッション）を行うかを判断する主体となる。これは運用上の摩擦を最小化する（債務者の体験は変わらない）一方で、**サービサー交代リスク** を集中させる — オリジネーターがデフォルトすれば、コールド・バックアップが数日のうちに稼働する必要があり、これが、格付機関が文書化された能力を備えた指名バックアップ・サービサーを要求する理由である。
 
-## 2. プール構成 — 新車対中古車の比率オートローン ABS のプール構成はオリジネーターによって異なる：
+## 2. プール構成 — 新車対中古車の比率
+
+オートローン ABS のプール構成はオリジネーターによって異なる：
 
 | Originator type | New-car share | Used-car share | WAL (weighted-avg life) | Typical APR |
 |---|---|---|---|---|
@@ -45,7 +46,9 @@ translated_at: 2026-06-26T08:29:40.690Z
 - **中古車債権** には OEM サブベンションがなく、デフォルト率は新車デフォルトの 約 1.5–2.5倍 で推移するが、日本の中古車卸売市場が厚い（USS オークション等）ため、回収率は高い
 - 中古車 ABS はより広いシニア・トランシェ劣後を要求する（純粋な新車プールの 5–8% に対し 8–12%）
 
-## 3. 利息ウォーターフォール — 回収順序毎月の分配日に、利息回収口座で回収されたキャッシュは、この **厳格な優先順位** を通って流れる：
+## 3. 利息ウォーターフォール — 回収順序
+
+毎月の分配日に、利息回収口座で回収されたキャッシュは、この **厳格な優先順位** を通って流れる：
 
 | Priority | Item | Note |
 |---|---|---|
@@ -60,7 +63,9 @@ translated_at: 2026-06-26T08:29:40.690Z
 
 **トラッピング機構**：項目 6  と 7  は、項目 3–5  が支払われた場合にのみ資金充当される。パフォーマンスが悪化してトリガーに抵触すれば（セクション 6 参照）、項目 6  と 7  が項目 8,  に優先し、パフォーマンスが回復するまでオリジネーターの残余を絞り込む。
 
-## 4. 元本ウォーターフォール — シーケンシャル対プロラタ日本には二つの元本ウォーターフォール・モデルが存在する：
+## 4. 元本ウォーターフォール — シーケンシャル対プロラタ
+
+日本には二つの元本ウォーターフォール・モデルが存在する：
 
 ### 4a. シーケンシャル・ペイ（最も一般的 — 日本国内オートローン ABS の 約 80%）
 
@@ -89,7 +94,9 @@ translated_at: 2026-06-26T08:29:40.690Z
 
 プロラタは米国オートローン ABS の標準であり、それゆえ Toyota Financial Services の国際シェルフ — グローバル投資家向けに設計されている — はこのモデルを採用する。純粋に国内の日本案件（Toyota Finance 国内シェルフ、Honda Finance、Nissan Credit）は、構造的なシンプルさが日本の機関投資家に好まれるため、通常はシーケンシャルにとどまる。
 
-## 5. 信用補完スタック — 超過担保、劣後、スプレッド口座シニア AAA トランシェは三層によって保護される：
+## 5. 信用補完スタック — 超過担保、劣後、スプレッド口座
+
+シニア AAA トランシェは三層によって保護される：
 
 | Layer | Function | Typical sizing (new-car captive pool) | Typical sizing (multi-brand pool) |
 |---|---|---|---|
@@ -112,7 +119,9 @@ Toyota Finance のキャプティブ・プールにおける AAA シニアの **
 
 トリガーは案件固有であり、募集書類で開示される — JCR / R&I は格付分析の一環としてトリガーのキャリブレーションを評価する。
 
-## 7. リピート発行体プログラムとトランシェの深度キャプティブ・オリジネーターは反復発行を伴う **シェルフ・プログラム** を運用する：
+## 7. リピート発行体プログラムとトランシェの深度
+
+キャプティブ・オリジネーターは反復発行を伴う **シェルフ・プログラム** を運用する：
 
 | Originator | Shelf program | Annual issuance (approx) | Typical deal size | Tranche depth |
 |---|---|---|---|---|
@@ -150,7 +159,7 @@ Toyota Finance のキャプティブ・プールにおける AAA シニアの **
 - JPY の調達コストが優位を保つ中で、Toyota Financial Services が米国シェルフのより多くを日本籍の発行へ移行させるか否か
 - 次の国内景気後退（COVID の落ち込みではなく、本物の景気後退）が、有意な数のシーズンした案件で累積ネット損失トリガーを試すか否か
 - 構造的複雑性が常態化するにつれ、JCR / R&I がプロラタに親和的な基準を徐々に採用するか否か
-- アドレサブルな ABS 市場の拡大における [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] その他のマルチブランド・オリジネーターの役割対 銀行ラインを通じた資金調達の継続
+- アドレサブルな ABS 市場の拡大における [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] その他のマルチブランド・オリジネーターの役割 対 銀行ラインを通じた資金調達の継続
 
 ## Related
 

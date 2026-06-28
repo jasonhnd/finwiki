@@ -2,11 +2,10 @@
 source: fintech/occ-bank-charter-crypto-2025
 source_hash: 112d1961cbedc29d
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "暗号資産企業向け OCC ナショナルバンク・チャーター · 2025 更新"
-translated_at: 2026-06-26T08:28:46.054Z
+translated_at: 2026-06-02T13:21:55.088Z
 ---
 
 # 暗号資産企業向け OCC ナショナルバンク・チャーター · 2025 更新
@@ -23,7 +22,9 @@ translated_at: 2026-06-26T08:28:46.054Z
 
 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|trust-bank charter]] のノートは、ステーブルコイン発行体にとっての OCC charter の**構造的アービトラージ**（州 MTL 回避、FedWire アクセス、Fed master account の可能性）を説明した。この項目は、**2025 年の charter パイプラインの現実**、つまり誰が申請し、誰が承認され、**OCC IL 1183** の明確化が何を変え、**連邦 vs Wyoming SPDI** のトレードオフが実務でどう現れ、2021 年から 2024年の間には存在しなかった実行可能な連邦経路をどの種類の暗号資産企業が得たのかを記録する。二つのノートは、**メカニズム、次にパイプライン**という対を成す。
 
-## OCC チャーターの背景 · 四つの解釈書の連鎖暗号資産活動について national bank と national trust bank を認可する OCC の権限は、2020 年7月から 2021年11月にかけて発出された四つの解釈書簡の連鎖に基づく:
+## OCC チャーターの背景 · 四つの解釈書の連鎖
+
+暗号資産活動について national bank と national trust bank を認可する OCC の権限は、2020 年7月から 2021年11月にかけて発出された四つの解釈書簡の連鎖に基づく:
 
 | 書簡 | 日付 | 認可した内容 |
 |---|---|---|
@@ -56,7 +57,7 @@ IL 1183  と [[fintech/regulatory-reset-2025-usa-crypto-policy|surrounding 2025 
 
 Anchorage の重要性は**商業的というより構造的**である。デジタル資産ネイティブ事業の national bank charter が**可能である**ことを示し、暗号資産カストディアンに対する**連邦監督の運用テンプレート**を確立し、後続申請者が交渉する際の規制上の基準線を提供した。
 
-2025 年後の枠組みの下で、Anchorage の位置づけはさらに改善した。IL 1183  の **non-objection 撤廃**は追加活動の摩擦を下げ、**GENIUS Act PPSI 適格性**はステーブルコイン発行をサービスラインとして開く。Anchorage と **Tether** の発表済み **USAT** 商品（米国準拠の Tether ブランド・ステーブルコイン）での提携は、目に見える 2025-Q4  の展開の一つである。より広い Tether の位置づけは [[fintech/tether-business-model-short-treasury-yield|Tether 事業モデル]] を参照。
+2025 年後の枠組みの下で、Anchorage の位置づけはさらに改善した。IL 1183  の **non-objection 撤廃**は追加活動の摩擦を下げ、**GENIUS Act PPSI 適格性**はステーブルコイン発行をサービスラインとして開く。Anchorage と **Tether** の発表済み **USAT** 商品（米国準拠の Tether ブランド・ステーブルコイン）での提携は、目に見える 2025-Q4  の展開の一つである。より広い Tether の位置づけは [[fintech/tether-business-model-short-treasury-yield|Tether business model]] を参照。
 
 ## Custodia Bank · Wyoming SPDI という対照パターン
 
@@ -102,7 +103,7 @@ Wyoming SPDI remains attractive for:
 | Coinbase | National trust bank charter（2025-Q4申請） | 申請済み | カストディ + USDC サービス向け PPSI オプション |
 | Ripple | National trust bank charter（2025-Q3申請） | 申請済み | RLUSD 向け PPSI 適格性 - [[fintech/ripple-rlusd-stablecoin|RLUSD]] 参照 |
 | Kraken | National trust bank charter（2025-Q4申請） | 申請済み | カストディ + 将来の PPSI オプション |
-| Robinhood | Considering | Under evaluation 2026-Q1 | カストディ + future PPSI optionality |
+| Robinhood | Considering | Under evaluation 2026-Q1 | Custody + future PPSI optionality |
 | Galaxy Digital | 検討中 | 評価中 | 機関投資家顧客向けカストディ |
 | Other (institutional custodians) | Multiple under evaluation | | |
 
@@ -115,7 +116,7 @@ Wyoming SPDI remains attractive for:
 1. GENIUS に基づくステーブルコイン発行の **PPSI 適格性**（§6 監督基準と §501 denylist capability の対象）。
 2. IL 1170  / IL 1183  に基づく、個別の non-objection なしの**暗号資産カストディ権限**。
 3. IL 1172  / IL 1183 に基づく**ステーブルコイン準備金管理**。
-4. **Node 事業者 authority** under IL 1174 / IL 1183.
+4. **Node operator authority** under IL 1174 / IL 1183.
 5. 直接 USD 決済のための **FedWire アクセス**（Federal Reserve 承認が条件）。
 6. **Fed master account の可能性**（Federal Reserve の裁量）。
 7. 連邦優越による**州 MTL 回避**。
@@ -146,7 +147,7 @@ IL 1183  が変えるのは、IL 1179  が基礎権限に追加した**運用上
 
 ## 州認可 trust company アービトラージ
 
-OCC national trust bank 経路と Wyoming SPDI 経路の外にも、州認可 trust company という複数の選択肢がある。これらは Coinbase カストディ Trust（NYDFS limited-purpose trust company）、Gemini Trust Company（NYDFS）、BitGo（South Dakota と New York）などが使ってきた**レガシー**経路である。
+OCC national trust bank 経路と Wyoming SPDI 経路の外にも、州認可 trust company という複数の選択肢がある。これらは Coinbase Custody Trust（NYDFS limited-purpose trust company）、Gemini Trust Company（NYDFS）、BitGo（South Dakota と New York）などが使ってきた**レガシー**経路である。
 
 | 州 | Charter 種類 | 強み | 弱み |
 |---|---|---|---|
@@ -204,7 +205,7 @@ M&A パターンは [[fintech/regulatory-window-strategic-acquisition|regulatory
 - [[fintech/national-license-private-stablecoin-with-dpi-export|national license private stablecoin]]
 - [[fintech/ripple-rlusd-stablecoin|RLUSD]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether 事業モデル]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether business model]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
 - [[business/larry-fink-blackrock-digital-asset-template|Larry Fink template]]
 - [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]]
