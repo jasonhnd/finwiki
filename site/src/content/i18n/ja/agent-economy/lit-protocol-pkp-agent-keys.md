@@ -2,17 +2,18 @@
 source: agent-economy/lit-protocol-pkp-agent-keys
 source_hash: 94e428eee24bd115
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Lit Protocol PKP · AI エージェント向けプログラマブルキーペア"
-translated_at: 2026-06-02T11:47:37.300Z
+translated_at: 2026-06-26T08:28:53.949Z
 ---
 
 # Lit Protocol PKP · AI エージェント向けプログラマブルキーペア
 
 ## ウィキ上の位置づけ
 
-この項目は [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocols seven-protocol overview]] の下に位置する。同種のウォレットスタックについては [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]] および [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]] と、ポリシー/スコープ層については [[agent-economy/erc-7715-overview|ERC-7715 wallet permissions]] と、基盤となる暗号技術系統については [[systems/threshold-bft-consensus-rust-implementations|threshold BFT]] と対照して参照のこと。
+この項目は [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocols seven-protocol overview]] の下に位置する。同種のウォレットスタックについては [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット]] および [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]] と、ポリシー/スコープ層については [[agent-economy/erc-7715-overview|ERC-7715 ウォレット permissions]] と、基盤となる暗号技術系統については [[systems/threshold-bft-consensus-rust-implementations|threshold BFT]] と対照して参照のこと。
 
 ## 主要事実
 
@@ -76,7 +77,7 @@ PKP は次のような場合に特に有用である:
 | プログラマブルポリシー | 限定的(署名ポリシー SDK) | Lit Action 内の完全な JS |
 | リカバリ | 事業者管理(メール、OAuth) | NFT 所有者が制御 |
 
-AI エージェントにとって、PKP モデルは次のように明快に対応する:**エージェントが PKP NFT を所有し、Lit Action 内のポリシーがスコープ(上限支出額、許可されたコントラクト、時間枠)を強制し、エージェントはアクションごとに Lit ネットワークを呼び出して署名する**。これはオンチェーン側について [[agent-economy/erc-7715-overview|ERC-7715 wallet permissions]] を、オフチェーンの承認側について [[agent-economy/ap2-overview|AP2 mandate VC]] を補完する。
+AI エージェントにとって、PKP モデルは次のように明快に対応する:**エージェントが PKP NFT を所有し、Lit Action 内のポリシーがスコープ(上限支出額、許可されたコントラクト、時間枠)を強制し、エージェントはアクションごとに Lit ネットワークを呼び出して署名する**。これはオンチェーン側について [[agent-economy/erc-7715-overview|ERC-7715 ウォレット permissions]] を、オフチェーンの承認側について [[agent-economy/ap2-overview|AP2 mandate VC]] を補完する。
 
 ## 起源と進化
 

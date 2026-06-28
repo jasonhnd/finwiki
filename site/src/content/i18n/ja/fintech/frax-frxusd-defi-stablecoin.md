@@ -2,10 +2,11 @@
 source: fintech/frax-frxusd-defi-stablecoin
 source_hash: 90722eb01b8c51f9
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート"
-translated_at: 2026-06-02T13:21:55.032Z
+translated_at: 2026-06-26T08:29:33.003Z
 ---
 # Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート
 
@@ -21,7 +22,7 @@ translated_at: 2026-06-02T13:21:55.032Z
 - frxUSD 時価総額 **$1.2B** (2026-Q1) · sfrxUSD APY **7-9%** (SOFR + Frax 内部収益に追従) ^[extracted]
 - RWA 担保 ~$1.0B (うち BUIDL ~$200M · 2026-Q2 接続) ^[extracted]
 - Fraxtal L2 TVL **$450M** (Frax 自前 L2 · Optimism Superchain メンバー · 2024-02 ローンチ) ^[extracted]
-- FXS トークン 時価総額 ~$300M · veFXS ロック ~6500 万 FXS (流通の 45%) ^[extracted]
+- FXS トークン時価総額 ~$300M · veFXS ロック ~6500 万 FXS (流通の 45%) ^[extracted]
 - Frax プロトコル年間収益 ~**$45M** (2025 推定) ^[extracted]
 - Frax Ether (frxETH) 時価総額 ~$700M · FPI (Frax CPI アンカー) 時価総額 ~$80M ^[extracted]
 - v3 アップグレード 3 つの手:frxUSD で FRAX を置換 / sfrxUSD ステーキング / Fraxtal L2 ^[extracted]
@@ -32,13 +33,13 @@ Frax は中道路線を行く:**準備金コンプライアンス ([[fintech/bla
 
 ## 起源と発展
 
-Frax の旧 FRAX は 2020 ローンチ (部分準備金 + アルゴリズム安定通貨 hybrid)。2022-2023 UST/Luna 崩壊後にアルゴリズム SC への市場警戒が高まったことを受け、Frax はアルゴリズム部分から能動的に撤退。**2024-Q2 v3 アップグレード**:frxUSD で FRAX を置換、準備金を USDC + アルゴリズムから 100% UST + RWA に移行。**2024-02 Fraxtal L2 ローンチ** (旧 Frax Chain · OP Superchain メンバー)。2025 sfrxUSD 7-9% APY が同類の分散型 SC を凌駕。**2026-Q2 frxUSD ボールト が BUIDL ~$200M を直接保有** = 初めて DeFi プロトコルが BUIDL を直接保有 (RWA 経由の間接 ボールト ではない)。これにより frxUSD は「半コンプライアンス・ホワイト圏」の端まで進んだ —— **準備金 100% はホワイト圏資産にあるが、発行体は veFXS DAO**、[[fintech/genius-act-501-denylist-mandate|GENIUS §501]] グレーコンプライアンス。
+Frax の旧 FRAX は 2020 ローンチ (部分準備金 + アルゴリズム安定通貨 hybrid)。2022-2023 UST/Luna 崩壊後にアルゴリズム SC への市場警戒が高まったことを受け、Frax はアルゴリズム部分から能動的に撤退。**2024-Q2 v3 アップグレード**:frxUSD で FRAX を置換、準備金を USDC + アルゴリズムから 100% UST + RWA に移行。**2024-02 Fraxtal L2 ローンチ** (旧 Frax Chain · OP Superchain メンバー)。2025 sfrxUSD 7-9% APY が同類の分散型 SC を凌駕。**2026-Q2 frxUSD ボールト が BUIDL ~$200M を直接保有** = 初めて DeFi プロトコルが BUIDL を直接保有 (RWA 経由の間接ボールト ではない)。これにより frxUSD は「半コンプライアンス・ホワイト圏」の端まで進んだ —— **準備金 100% はホワイト圏資産にあるが、発行体は veFXS DAO**、[[fintech/genius-act-501-denylist-mandate|GENIUS §501]] グレーコンプライアンス。
 
 ## 関連項目
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 採用マトリクス]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社採用マトリクス]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 加密文化の分離]]

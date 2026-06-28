@@ -2,10 +2,11 @@
 source: agent-economy/privy-embedded-wallet-overview
 source_hash: 5af0c4f9f23e3dce
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)"
-translated_at: 2026-06-02T11:47:37.254Z
+translated_at: 2026-06-26T08:29:09.692Z
 ---
 
 # Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)
@@ -25,19 +26,17 @@ translated_at: 2026-06-02T11:47:37.254Z
 - 買収前のコア顧客:OpenSea / Hyperliquid / Farcaster / Friend.tech / Toku / Zora ^[extracted]
 - 2026 Sessions で Multichain balances API を発表 ^[extracted]
 
-## 仕組み / 動作原理
-
-ユーザーが email/Google でログインすると、Privy SDK(30 行のコード)がフロントエンドで MPC シャーディング鍵生成を実行する。**1 シャードはユーザーのデバイス**(Passkey / WebAuthn / Secure Enclave ベース)+ **1 シャードは Privy の TEE**(Trusted Execution Environment · AWS Nitro Enclaves あるいは同等)に保管される。署名時には 2 シャードが協調して有効な署名を生成するが、Privy だけでは署名できず、ユーザーも単独では署名できない — 「self-custodial でありながら管理不要」という折衷を実現する(同モデルは [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。Multichain balances API では 1 回の API 呼び出しで Ethereum / Solana / Tempo / Polygon 等のマルチチェーン残高を取得でき · 開発者がマルチチェーン集約を個別実装する必要をなくしている(下層は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] に依存)。体験全体は完全に Web2:ユーザーは seed phrase を見ず · MetaMask をインストールせず · ネットワーク切替も不要 — これが Privy が 110M ウォレット規模を占有する核心である。
+## 仕組み / 動作原理ユーザーが email/Google でログインすると、Privy SDK(30 行のコード)がフロントエンドで MPC シャーディング鍵生成を実行する。**1 シャードはユーザーのデバイス**(Passkey / WebAuthn / Secure Enclave ベース)+ **1 シャードは Privy の TEE**(Trusted Execution Environment · AWS Nitro Enclaves あるいは同等)に保管される。署名時には 2 シャードが協調して有効な署名を生成するが、Privy だけでは署名できず、ユーザーも単独では署名できない — 「self-custodial でありながら管理不要」という折衷を実現する(同モデルは [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。Multichain balances API では 1 回の API 呼び出しで Ethereum / Solana / Tempo / Polygon 等のマルチチェーン残高を取得でき · 開発者がマルチチェーン集約を個別実装する必要をなくしている(下層は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] に依存)。体験全体は完全に Web2:ユーザーは seed phrase を見ず · MetaMask をインストールせず · ネットワーク切替も不要 — これが Privy が 110M ウォレット規模を占有する核心である。
 
 ## 起源と進化
 
-2021 ニューヨーク · 創業者 Stern + Li(以前は Protocol Labs)。2022-2024 OpenSea / Hyperliquid / Farcaster 等の dapp と深く統合し · 75M アカウントを蓄積。2024-Q4 Stripe が stablecoin + Tempo + Bridge 買収の連鎖戦略を始動し · ウォレット層が必要になった(戦略全体図は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] 参照)。2025-06 Stripe が Privy 買収を完了 · $300-500M と推定(Bridge は $1.1B との対比で · Privy は急成長期だったため評価額は低めだった)。2025 H2 Privy は独立ブランドで運営を続けつつ · Stripe Connect / Tempo / Bridge の内部需要に応え始めた。2026-05-07 AWS Bedrock AgentCore Payments が Privy と Coinbase CDP をデフォルト wallet provider に並列で組み込み — Privy の AI agent 経済インフラにおけるポジショニングが確立された([[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ5本柱]] の従来経路と対比)。
+2021 ニューヨーク · 創業者 Stern + Li(以前は Protocol Labs)。2022-2024 OpenSea / Hyperliquid / Farcaster 等の dapp と深く統合し · 75M アカウントを蓄積。2024-Q4 Stripe が stablecoin + Tempo + Bridge 買収の連鎖戦略を始動し · ウォレット層が必要になった(戦略全体図は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] 参照)。2025-06 Stripe が Privy 買収を完了 · $300-500M と推定(Bridge は $1.1B との対比で · Privy は急成長期だったため評価額は低めだった)。2025 H2 Privy は独立ブランドで運営を続けつつ · Stripe Connect / Tempo / Bridge の内部需要に応え始めた。2026-05-07 AWS Bedrock AgentCore Payments が Privy と Coinbase CDP をデフォルトウォレット provider に並列で組み込み — Privy の AI agent 経済インフラにおけるポジショニングが確立された([[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ5本柱]] の従来経路と対比)。
 
 ## 関連項目
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore デフォルトウォレット]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet による CEX 中抜き]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded ウォレット による CEX 中抜き]]
 - [[agent-economy/x402-http-payment-overview|x402 HTTP 決済プロトコル]]
 <!-- /wiki-links:managed -->
 

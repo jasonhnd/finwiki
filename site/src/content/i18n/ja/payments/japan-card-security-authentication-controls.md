@@ -2,10 +2,11 @@
 source: payments/japan-card-security-authentication-controls
 source_hash: 726a81f3eecdaee7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan card security and authentication controls"
-translated_at: 2026-06-19T06:09:18.109Z
+translated_at: 2026-06-26T08:29:40.676Z
 ---
 
 # Japan card security and authentication controls
@@ -14,7 +15,7 @@ translated_at: 2026-06-19T06:09:18.109Z
 
 日本の EC カードセキュリティは「3-D Secure」だけではない。有用な統制スタックは次のとおり：カードデータ保護 → 加盟店の脆弱性統制 → EMV 3-D Secure 認証 → 不正監視 → アクワイアラ／PSP／加盟店の情報共有 → チャージバックと是正。
 
-このページは [[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/card-acquiring-japan-stack|card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[payments/credit-purchase-card-operators-japan-index|credit / card 事業者 registry]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]] と併せて使うこと。
+このページは [[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/card-acquiring-japan-stack|card アクワイアリング stack]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[payments/credit-purchase-card-operators-japan-index|credit / card 事業者 registry]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]] と併せて使うこと。
 
 ## Guideline Snapshot
 

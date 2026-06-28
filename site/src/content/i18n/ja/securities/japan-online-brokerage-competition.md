@@ -2,18 +2,17 @@
 source: securities/japan-online-brokerage-competition
 source_hash: e59e79568c36abba
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のオンライン証券競争"
-translated_at: 2026-06-03T00:53:08.269Z
+translated_at: 2026-06-26T08:29:17.591Z
 ---
 # 日本のオンライン証券競争
 
-## 概要
+## 概要日本のオンライン証券競争は、もはや単純な「手数料の安さ」競争ではなく、獲得ファネルの競争になっている。NISA 口座、ポイントプログラム、銀行連携、クレジットカード積立、アプリ配布、SOR / PTS 執行、商品幅、資産維持の導線が競争軸である。
 
-日本のオンライン証券競争は、もはや単純な「手数料の安さ」競争ではなく、獲得ファネルの競争になっている。NISA 口座、ポイントプログラム、銀行連携、クレジットカード積立、アプリ配布、SOR / PTS 執行、商品幅、資産維持の導線が競争軸である。
-
-このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[securities/INDEX|securities INDEX]]ページに置く。
+このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[securities/INDEX|securities INDEX]]ページに置く。
 
 ## 競争軸
 
@@ -41,9 +40,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 | [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Financial Holdings の証券 / FX / CFD 事業者。 | 純粋な NISA 獲得より、デリバティブと高頻度取引の収益化。 |
 | [[securities-firms/dmm-com-securities|DMM.com Securities]] | DMM ブランドの証券 / FX 事業者。 | FX / CFD とアプリ型取引面。商品カテゴリは免許・開示で確認する。 |
 
-## 市場構造の読み方
-
-オンライン証券市場には、三つの重なり合う競争がある。
+## 市場構造の読み方オンライン証券市場には、三つの重なり合う競争がある。
 
 1. **口座競争**: NISA 口座、定期買付設定、家計で最初の投資関係を獲得する。
 2. **活動競争**: アクティブトレーダーを信用取引、FX、CFD、オプション、データ、貸株、執行サービスで収益化する。
@@ -51,9 +48,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 最も重要な分析上の誤りは、すべてのオンライン証券を同じ事業として扱うことである。[[securities-firms/sbi-securities|SBI Securities]]と[[securities-firms/rakuten-securities|Rakuten Securities]]は家計資産フローのプラットフォームであり、[[securities-firms/gmo-click-securities|GMO Click Securities]]と[[securities-firms/dmm-com-securities|DMM.com Securities]]はアクティブ取引 / FX 隣接性が強く、[[securities-firms/paypay-securities|PayPay Securities]]はアプリ組込み型の投資販売に近い。
 
-## NISA とポイント循環
-
-新 NISA は、2024 制度のもとで非課税の長期投資口座を恒久的なものにするため、構造的に重要である。これにより証券収益は継続フローへ寄る。
+## NISA とポイント循環新 NISA は、2024 制度のもとで非課税の長期投資口座を恒久的なものにするため、構造的に重要である。これにより証券収益は継続フローへ寄る。
 
 - 投資信託の定期買付。
 - カード決済による積立。

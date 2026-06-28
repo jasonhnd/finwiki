@@ -2,21 +2,20 @@
 source: finance/cost-of-capital-japan-2026-reference
 source_hash: c6deaeab754f1ff6
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "資本コスト 日本 2026 リファレンス"
-translated_at: 2026-06-18T23:59:13.047Z
+title: "資本コスト日本 2026 リファレンス"
+translated_at: 2026-06-26T08:29:25.282Z
 ---
 
-# 資本コスト 日本 2026 リファレンス
+# 資本コスト日本 2026 リファレンス
 
 ## TL;DR
 
-資本コストは、あらゆる [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF valuation]] において最もレバレッジの効く単一の入力であり、[[finance/japan-leveraged-buyout-economics|LBO economics]]、[[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|real-estate IRR underwriting]]、[[finance/japan-acquisition-finance|acquisition finance pricing]] の構造的なアンカーである。2026,  時点の日本については、構造的な入力は次のとおり：（1）10 年物 JGB 利回りに基づくリスクフリー参照レート（〜1.0-1.5% クラス）、JPY LIBOR 廃止後はショートエンドの参照として TONA ベースの OIS を用いる；（2）BoJ の NIRP 解除以降に圧縮したインプライド ERP に対し、〜5-6% の過去株式リスクプレミアム；（3）日本固有のセクター調整を加えた TOPIX 連動のベータ・ソーシング；（4）日本のソブリン格付および準備通貨の地位を踏まえた控えめなカントリーリスク・プレミアム；（5）東証プライム上場企業の WACC レンジは大型株で通常 5-8%、中型株で 6-10%；（6）2024  以降の BoJ フロアシステムがショートエンドの参照を実質的に押し上げ、変動金利の調達コストへと波及する。本ページは方法論のリファレンスページであり、投資助言ではなく、特定企業の WACC を示すものでもない。
+資本コストは、あらゆる [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF valuation]] において最もレバレッジの効く単一の入力であり、[[finance/japan-leveraged-buyout-economics|LBO economics]]、[[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|real-estate IRR 引受]]、[[finance/japan-acquisition-finance|acquisition finance pricing]] の構造的なアンカーである。2026,  時点の日本については、構造的な入力は次のとおり：（1）10 年物 JGB 利回りに基づくリスクフリー参照レート（〜1.0-1.5% クラス）、JPY LIBOR 廃止後はショートエンドの参照として TONA ベースの OIS を用いる；（2）BoJ の NIRP 解除以降に圧縮したインプライド ERP に対し、〜5-6% の過去株式リスクプレミアム；（3）日本固有のセクター調整を加えた TOPIX 連動のベータ・ソーシング；（4）日本のソブリン格付および準備通貨の地位を踏まえた控えめなカントリーリスク・プレミアム；（5）東証プライム上場企業の WACC レンジは大型株で通常 5-8%、中型株で 6-10%；（6）2024  以降の BoJ フロアシステムがショートエンドの参照を実質的に押し上げ、変動金利の調達コストへと波及する。本ページは方法論のリファレンスページであり、投資助言ではなく、特定企業の WACC を示すものでもない。
 
-## ウィキ動線
-
-本ページは [[finance/INDEX|finance domain]] の配下に位置する。バリュエーションにおける割引率の役割については [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF / multiples / NAV framework]]、負債コストのプライシングについては [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、資本構成のプライシング参照については [[finance/japan-acquisition-finance|Japan acquisition finance]]、不動産側の類似物については [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|cap-rate / NOI / IRR real-estate framework]]、ショートエンドの参照については [[money-market/japan-money-market|Japan money market]]、政策金利の配管については [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system]]、カーブ構築のレイヤーについては [[derivatives/ois-tona-curve|OIS TONA curve]] と併せて用いること。バリュエーション・フレームワークの文脈については [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] と [[finance/real-options-valuation-japan-applications|real options valuation Japan applications]] に動線をたどる。
+## ウィキ動線本ページは [[finance/INDEX|finance domain]] の配下に位置する。バリュエーションにおける割引率の役割については [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF / multiples / NAV framework]]、負債コストのプライシングについては [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、資本構成のプライシング参照については [[finance/japan-acquisition-finance|Japan acquisition finance]]、不動産側の類似物については [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|cap-rate / NOI / IRR real-estate framework]]、ショートエンドの参照については [[money-market/japan-money-market|Japan money market]]、政策金利の配管については [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system]]、カーブ構築のレイヤーについては [[derivatives/ois-tona-curve|OIS TONA curve]] と併せて用いること。バリュエーション・フレームワークの文脈については [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] と [[finance/real-options-valuation-japan-applications|real options valuation Japan applications]] に動線をたどる。
 
 ## 資本コスト — 構造的フォーミュラ
 
@@ -26,9 +25,7 @@ WACC = (E/V) × Re + (D/V) × Rd × (1 − Tc)
 - Re = 株主資本コスト = Rf + β × ERP + （カントリーリスク）+ （サイズ / ガバナンス・プレミアム）
 - Rd = 負債コスト = Rf + クレジットスプレッド
 - Tc = 実効法人税率
-- E、D、V = 株主資本、負債、および総資本の市場価値
-
-日本については、各入力は米国または欧州の参照フレームワークとは異なる構造的特性を持つ。
+- E、D、V = 株主資本、負債、および総資本の市場価値日本については、各入力は米国または欧州の参照フレームワークとは異なる構造的特性を持つ。
 
 ### ロングエンド（10 年物 JGB）
 
@@ -130,9 +127,7 @@ OIS TONA カーブは、ショートレート構築において JPY LIBOR を置
 
 日本の小型株のサイズプレミアムのエビデンスはまちまちであり、実務家は強いコンセンサスなしに 1-3pp のレンジを用いる。非上場ターゲットについては、割引率ではなく価値に対して非公開企業の非流動性ディスカウント（しばしば 20-30%）が適用される。
 
-## 負債コスト
-
-負債コストは、シニア、劣後、およびその他の利付負債の税引後加重コストである。
+## 負債コスト負債コストは、シニア、劣後、およびその他の利付負債の税引後加重コストである。
 
 | レイヤー | 2026  プライシング参照 |
 |---|---|

@@ -2,17 +2,16 @@
 source: money-market/tanshi-company-business-model
 source_hash: 96aa2bde55c14e70
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "短資会社のビジネスモデル"
-translated_at: 2026-06-19T06:09:18.059Z
+translated_at: 2026-06-26T08:29:40.674Z
 ---
 
 # 短資会社のビジネスモデル
 
-## Wiki ルート
-
-本項目は [[money-market/INDEX|money-market index]] の下に位置する。短資ブローカレッジが実際に行われるピア／対比のサーフェスについては [[money-market/call-market-structure|call market structure]] と、短資のフローが中央銀行の政策実施と相互作用する、より広いシステム／規制上の境界については [[money-market/boj-open-market-operations|BoJ open market operations]] と対照して読むこと。ピア・エンティティのルートは [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]]、[[financial-regulators/ueda-yagi-tanshi]] である。
+## Wiki ルート本項目は [[money-market/INDEX|money-market index]] の下に位置する。短資ブローカレッジが実際に行われるピア／対比のサーフェスについては [[money-market/call-market-structure|call market structure]] と、短資のフローが中央銀行の政策実施と相互作用する、より広いシステム／規制上の境界については [[money-market/boj-open-market-operations|BoJ open market operations]] と対照して読むこと。ピア・エンティティのルートは [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]]、[[financial-regulators/ueda-yagi-tanshi]] である。
 
 ## TL;DR
 
@@ -28,7 +27,7 @@ FinWiki にとって、本ページは [[financial-regulators/boj-monetary-polic
 |---|---|---|
 | Call market intermediation | 銀行間ネットワークにわたって、オーバーナイトおよびターム、無担保および有担保の、コールの貸し手と借り手をマッチングする。 | [[money-market/call-market-structure]] |
 | JGB / GC repo intermediation | JGB 担保に対する有担保短期資金調達を仲介し、ディーラー対ディーラーおよびディーラー対バイサイドのフローと並んで位置する。 | [[money-market/jgb-repo-market-japan]] |
-| T-bill brokerage | 投資家とディーラーの間で国庫短期証券（Treasury Discount Bill）のフローを仲介する。 | [[financial-regulators/local-bond-market]] |
+| T-bill 証券仲介 | 投資家とディーラーの間で国庫短期証券（Treasury Discount Bill）のフローを仲介する。 | [[financial-regulators/local-bond-market]] |
 | Securities financing | レポに隣接する現金担保 SBL を含む、証券貸借取引を仲介する。 | [[money-market/jgb-repo-market-japan]] |
 | Market-information services | 参照レート、日次コメンタリー、およびスクリーン／チャットベースの価格発見を購読者に提供する。 | (vendor-specific) |
 | Adjacency to BoJ operations | 日本銀行の操作カウンターパーティ・ユニバースの近くに立ち、コールレートおよびレポの状況に関する読み取りを提供する。 | [[money-market/boj-open-market-operations]] |

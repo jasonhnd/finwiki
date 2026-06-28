@@ -2,10 +2,11 @@
 source: payments/japan-prepaid-electronic-money-operator-matrix
 source_hash: 26932cc78e14e231
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の前払い電子マネー事業者マトリクス"
-translated_at: 2026-06-19T06:09:18.036Z
+translated_at: 2026-06-26T08:29:01.767Z
 ---
 
 # 日本の前払い電子マネー事業者マトリクス
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.036Z
 
 ## ウィキ上の位置づけ
 
-これはクロスカテゴリの前払い電子マネー参照として [[payments/INDEX|payments index]] の下に位置する。発行者別の登録ソースについては [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 JP index]]、各事業者がどのライセンスを保有するかを決める規制境界については [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、交通サイドの深掘りについては [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|JP transit 前払式 Suica/PASMO/ICOCA economics]]、小売サイドの深掘りについては [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail 前払式 comparison]]、コンビニ FG 前払いレーンについては [[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]]、クロススキームのエコノミクスについては [[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]]、そしてこれらの前払いブランドが時にその上に乗る QR / コード決済オーバーレイについては [[payments/japan-code-payment-competitive-map|JP code-payment competitive map]] と併せて読まれたい。グループエンティティのアンカーは [[payment-firms/rakuten-edy|Rakuten Edy]]、[[card-issuers/seven-card-service|Seven Card Service]]（nanaco 事業者）、そして [[card-issuers/aeon-financial-service|AEON Financial Service]]（WAON 事業者）であり、より広範なグループの面は [[loyalty/japan-points-landscape|JP points landscape]]、[[retail/seven-and-i-hd|Seven & i HD]]、[[retail/aeon-group|AEON Group]] にある。
+これはクロスカテゴリの前払い電子マネー参照として [[payments/INDEX|payments index]] の下に位置する。発行者別の登録ソースについては [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社 JP index]]、各事業者がどのライセンスを保有するかを決める規制境界については [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、交通サイドの深掘りについては [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|JP transit 前払式 Suica/PASMO/ICOCA economics]]、小売サイドの深掘りについては [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail 前払式 comparison]]、コンビニ FG 前払いレーンについては [[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]]、クロススキームのエコノミクスについては [[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]]、そしてこれらの前払いブランドが時にその上に乗る QR / コード決済オーバーレイについては [[payments/japan-code-payment-competitive-map|JP コード決済 competitive map]] と併せて読まれたい。グループエンティティのアンカーは [[payment-firms/rakuten-edy|Rakuten Edy]]、[[card-issuers/seven-card-service|Seven Card Service]]（nanaco 事業者）、そして [[card-issuers/aeon-financial-service|AEON Financial Service]]（WAON 事業者）であり、より広範なグループの面は [[loyalty/japan-points-landscape|JP points landscape]]、[[retail/seven-and-i-hd|Seven & i HD]]、[[retail/aeon-group|AEON Group]] にある。
 
 ## なぜこのマトリクスが重要か
 
@@ -132,11 +133,11 @@ translated_at: 2026-06-19T06:09:18.036Z
 - **競争上のマーカーとしての Apple Pay サポートのギャップ** — Apple Pay サポートのタイミング（Suica 2016-10 → nanaco 2019-10 → PASMO 2020-10 → WAON 2021-05 → ICOCA 2023-06 → その他はまだ）は競争上のマーカーである。Suica の iOS-日本統合における先行者優位は、東京メトロのデジタルネイティブの間でその支配を確固たるものにした；ICOCA の 7年のラグは関西サイドのデジタル前払い採用に目に見えて影響した。
 - **nanaco のセブン銀行 ATM 現金レールの独自性** — nanaco は、マトリクスの中で現金の入出金口が**専用のグループ銀行 ATM ネットワークを主要チャネルとして**用いる唯一のブランドである（セブン銀行 ATM はすべての 7-Eleven の中にある）。他の小売ブランド（Edy、WAON）は親会社の顧客サービスカウンターまたは第三者のコンビニ ATM を用いる。これが、JR から遠い顧客の間で nanaco のリロード UX が小売前払いセグメントで最もスムーズである構造的な理由である。
 - **WAON 自動チャージ（オートチャージ）統合** — イオンカードに紐づく WAON のオートチャージはイオン買い物客にとって支配的な UX であり、イオンカード保有者がカード関係を維持する最も引用される理由の一つである。これは、グループ内クレジットカード発行者のない純粋前払いブランドが複製できない構造的なクロスリンクである。
-- **楽天 Edy の e コマース FG ポジショニング** — Edy は、マトリクスの中で親 FG が小売 FG または交通鉄道 FG ではなく **e コマース / インターネットのコングロマリット**である唯一の前払い電子マネーである。楽天経済圏内での楽天 Edy の役割は、部分的に楽天 Pay（QR / コード決済）と楽天カード（クレジットカード）を補完する物理店舗のタッチポイントを提供することである — [[payments/japan-code-payment-competitive-map|JP code-payment competitive map]] 参照。
+- **楽天 Edy の e コマース FG ポジショニング** — Edy は、マトリクスの中で親 FG が小売 FG または交通鉄道 FG ではなく **e コマース / インターネットのコングロマリット**である唯一の前払い電子マネーである。楽天経済圏内での楽天 Edy の役割は、部分的に楽天 Pay（QR / コード決済）と楽天カード（クレジットカード）を補完する物理店舗のタッチポイントを提供することである — [[payments/japan-code-payment-competitive-map|JP コード決済 competitive map]] 参照。
 - **Kitaca のノーモバイルのギャップ** — Kitaca は、2026時点でモバイル / Apple Pay / Google Pay の製品を一切持たない唯一の主要全国相互利用メンバーである。モバイル統合の財務投資コストが引用される理由である；JR 北海道の制約された財務状況が裁量的な技術支出を制限する。
 - **ブレッケージと未償還残高のエコノミクス** — すべての前払い電子マネー発行者は**ブレッケージ**負債（ロードされたが決して使われない残高）を抱えており、資金決済法は発行者に半年の締日における未償還残高の少なくとも 50% の発行保証金を維持することを義務付ける。ブレッケージの項目は小売前払い（WAON、nanaco、Edy）にとって重大な利益ドライバーだが、ユーザーがより頻繁に少額をトップアップする交通前払い（Suica、PASMO）にとってはそうではない。この次元はマトリクスの列の行にはない（公開ソースのマトリクスにとって推定依存が大きすぎる）が、前払い発行者のビジネスモデルの背後にある重大な経済の物語である — 規制上の供託メカニクスについては [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照されたい。
 - **Mobile FeliCa の Android + Apple Pay へのロックイン** — Mobile FeliCa は適切な NFC チップサポートを持つ Android 携帯（本質的に 2010時代のおサイフケータイ以降のすべての日本市場向け Android）と、iPhone 7 （Apple Pay 日本ローンチを伴う 2016）以降の iPhone で機能する。Mobile FeliCa は**日本市場向け以外の Android 携帯では利用できない**。これが、これらの前払いブランドのインバウンド観光客の UX が、モバイルではなく Visit Suica / Welcome Suica の物理カード製品に限られる理由の一つである。
-- **QR / コード決済オーバーレイ**：これらの前払いブランドのいくつかは、ますます QR / コード決済オーバーレイを介してアクセスされている（例：楽天 Pay は Edy チャージをその資金源の一つとして経由する；nanaco は様々な QR レール経由でロードできる）。したがって「前払い電子マネーブランド」と「QR コード決済ブランド」の間のクリーンな分離は侵食されつつある — オーバーレイのランドスケープについては [[payments/japan-code-payment-competitive-map|JP code-payment competitive map]] 参照。
+- **QR / コード決済オーバーレイ**：これらの前払いブランドのいくつかは、ますます QR / コード決済オーバーレイを介してアクセスされている（例：楽天 Pay は Edy チャージをその資金源の一つとして経由する；nanaco は様々な QR レール経由でロードできる）。したがって「前払い電子マネーブランド」と「QR コード決済ブランド」の間のクリーンな分離は侵食されつつある — オーバーレイのランドスケープについては [[payments/japan-code-payment-competitive-map|JP コード決済 competitive map]] 参照。
 
 ## フロートサイズの概算順位任意の時点での未償還前払い残高の公開ソース由来の概算順位（数字は半年の締日により変動し、発行者間で同一の形式で一貫して開示されているわけではない）：
 

@@ -2,23 +2,22 @@
 source: trust-banks/fintech-global-trust
 source_hash: a9d9a9c2a56d2646
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "フィンテックグローバル信託"
-translated_at: 2026-06-02T14:25:12.426Z
+translated_at: 2026-06-26T08:32:30.856Z
 ---
 
 # フィンテックグローバル信託
 
 ## ウィキ上の位置づけ
 
-フィンテックグローバル信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] と併読する。
+フィンテックグローバル信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] と併読する。
 
 ストラクチャードファイナンスに関わる信託機能、資産管理、FGIグループの信託サービスを確認する際に使う。
 
-## 概要
-
-フィンテックグローバル信託は、Fintech Global のストラクチャードファイナンス色に沿った信託サービスを提供する営業信託会社として自社を位置づけている。公開サイトでは、FGIグループの金融商品組成ノウハウと信託機能を組み合わせると説明している。
+## 概要フィンテックグローバル信託は、Fintech Global のストラクチャードファイナンス色に沿った信託サービスを提供する営業信託会社として自社を位置づけている。公開サイトでは、FGIグループの金融商品組成ノウハウと信託機能を組み合わせると説明している。
 
 この法人はストラクチャードファイナンス型の信託会社ルートとして明確であり、信託会社規制、資産組成、ノンバンク金融をつなぐ項目としてFinWikiに置く意義がある。
 
@@ -44,9 +43,7 @@ translated_at: 2026-06-02T14:25:12.426Z
 | グループ商品支援 | 信託サービスを金融商品組成と結びつける。 |
 | ノンバンク信託会社比較 | [[trust-banks/fpg-trust|FPG Trust]] や他の独立系信託会社との比較対象になる。 |
 
-## 公開情報上の文脈
-
-同社は、ノンバンク系のストラクチャードファイナンス信託会社ルートとして有用である。FinWikiでは、信託会社がストラクチャード商品をどう支えるかを扱う時に使い、リテール銀行や証券仲介の論点には使わない。
+## 公開情報上の文脈同社は、ノンバンク系のストラクチャードファイナンス信託会社ルートとして有用である。FinWikiでは、信託会社がストラクチャード商品をどう支えるかを扱う時に使い、リテール銀行や証券仲介の論点には使わない。
 
 具体的な商品、投資家、リターンは、公募資料、開示資料、会社資料で裏づけられる場合にだけ追加する。
 

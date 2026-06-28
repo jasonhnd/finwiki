@@ -2,10 +2,11 @@
 source: agent-economy/solana-saga-seeker-mobile-stack-overview
 source_hash: 4ba3424dbb74e0ee
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)"
-translated_at: 2026-06-02T11:47:37.279Z
+translated_at: 2026-06-26T08:32:15.196Z
 ---
 
 # Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)
@@ -19,14 +20,12 @@ translated_at: 2026-06-02T11:47:37.279Z
 - Saga は 2023 にローンチ · $1000 · 第一世代の実験的ハードウェア ^[extracted]
 - Seeker は 2025 に量産 · $450 · 15 万台予約 ^[extracted]
 - Seed Vault:Android システムレベル keystore · TEE ベース · 秘密鍵はチップから出ない ^[extracted]
-- Mobile Wallet Adapter(MWA):オープンプロトコル · 任意の Android ウォレット app が実装可能 ^[extracted]
+- Mobile ウォレット Adapter(MWA):オープンプロトコル · 任意の Android ウォレット app が実装可能 ^[extracted]
 - Solana dApp Store:Google Play の in-app purchase 30% 手数料を回避 ^[extracted]
 - Seeker は SKR token 経済を内蔵 · Helius RPC と深く統合 ^[extracted]
 - MWA は Solana エコシステムの主流ウォレットすべてに採用済み(Phantom / Solflare / Backpack) ^[extracted]
 
-## 仕組み / 動作原理
-
-主流の embedded wallet(Privy / Coinbase CDP)は dapp 内部のウォレット UX を解決するが、すべての web/PWA ウォレットは依然として iOS Safari サンドボックス + Google Play / App Store 30% 手数料 + ブラウザ push の制限に縛られている。Solana はウォレットを OS 層に降ろさなければならないと判断した([[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレットによる fintech 中抜き]] と OS 層 vs App 層の経路分岐を形成)。**Seed Vault** は Android のシステムサービスレベルで TEE ベースの keystore を提供 · 秘密鍵は SoC から出ない · 任意の dapp が system intent 経由で署名をリクエスト · UI は OS が制御してフィッシングを防ぐ — ハードウェアウォレットをスマホに組み込むのと同じである。**MWA** はオープンプロトコルで · dapp は deep link / QR / Bluetooth でウォレットと通信し · ブラウザ内に JS を注入する必要はない。**dApp Store** は Saga/Seeker にプリインストールされ · 開発者は SOL/USDC を直接受け取れて platform fee がない(USDC settlement は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。Seeker はさらに $450 という大衆価格 + Helius RPC 統合 + SKR token 経済でネイティブ体験を強化している。
+## 仕組み / 動作原理主流の embedded ウォレット(Privy / Coinbase CDP)は dapp 内部のウォレット UX を解決するが、すべての web/PWA ウォレットは依然として iOS Safari サンドボックス + Google Play / App Store 30% 手数料 + ブラウザ push の制限に縛られている。Solana はウォレットを OS 層に降ろさなければならないと判断した([[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレットによる fintech 中抜き]] と OS 層 vs App 層の経路分岐を形成)。**Seed Vault** は Android のシステムサービスレベルで TEE ベースの keystore を提供 · 秘密鍵は SoC から出ない · 任意の dapp が system intent 経由で署名をリクエスト · UI は OS が制御してフィッシングを防ぐ — ハードウェアウォレットをスマホに組み込むのと同じである。**MWA** はオープンプロトコルで · dapp は deep link / QR / Bluetooth でウォレットと通信し · ブラウザ内に JS を注入する必要はない。**dApp Store** は Saga/Seeker にプリインストールされ · 開発者は SOL/USDC を直接受け取れて platform fee がない(USDC 決済 は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。Seeker はさらに $450 という大衆価格 + Helius RPC 統合 + SKR token 経済でネイティブ体験を強化している。
 
 ## 起源と進化
 
@@ -35,9 +34,9 @@ translated_at: 2026-06-02T11:47:37.279Z
 ## 関連項目
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|SMS vs Embedded Wallet · OS 層 vs App 層]]
-- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet による CEX 中抜き]]
+- [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|SMS vs Embedded ウォレット · OS 層 vs App 層]]
+- [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded ウォレット による CEX 中抜き]]
 <!-- /wiki-links:managed -->
 
 ## 出典

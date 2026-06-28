@@ -2,10 +2,11 @@
 source: payments/credit-purchase-card-operators-japan-index
 source_hash: 07b1fbcddfe020a0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信用購入・カード事業者登録インデックス"
-translated_at: 2026-06-02T16:33:58.512Z
+translated_at: 2026-06-26T08:32:23.052Z
 ---
 # 日本の信用購入・カード事業者登録インデックス
 
@@ -13,7 +14,7 @@ translated_at: 2026-06-02T16:33:58.512Z
 
 METI の割賦販売法公開一覧は、日本のクレジットカード発行、ショッピングクレジット、個別割賦信用、加盟店契約 / カード番号取扱いの管理面である。**2026-04 月末**時点で、METI は **241 登録包括信用購入あっせん業者**、**0 少額包括信用購入あっせん業者**、**138 登録個別信用購入あっせん業者**、**275 登録クレジットカード番号等取扱契約締結事業者**を掲載している。
 
-このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] および [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] とあわせて読み、カード信用、加盟店アクワイアリング、PSP 業務、ウォレット / 資金移動商品を切り分ける。公式 METI PDF は、行単位の真実のソースであり続ける。
+このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] および [[payments/funds-transfer-service-providers-japan-index|資金移動 registry]] とあわせて読み、カード信用、加盟店アクワイアリング、PSP 業務、ウォレット / 資金移動商品を切り分ける。公式 METI PDF は、行単位の真実のソースであり続ける。
 
 ## 登録スナップショット
 

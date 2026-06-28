@@ -2,10 +2,11 @@
 source: non-life-insurers/fm-global-japan
 source_hash: e6878ca29adc04e2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FM Global Japan / FMグローバル・ジャパン"
-translated_at: 2026-06-19T06:09:18.105Z
+translated_at: 2026-06-26T08:32:07.557Z
 ---
 
 # FM Global Japan / FMグローバル・ジャパン
@@ -22,14 +23,14 @@ FM Insurance Company Limited Japan Branch（FM Global Japan）は、**FM Global*
 
 | Item | Notes |
 |---|---|
-| Legal name | FM Insurance Company Limited Japan Branch (FMインシュアランス・カンパニー・リミテッド 日本支店) |
+| Legal name | FM Insurance Company Limited Japan Branch (FMインシュアランス・カンパニー・リミテッド日本支店) |
 | English / brand | FM Global / Factory Mutual |
 | License route | FSA non-life insurer foreign branch registration |
 | Industry body | General Insurance Association of Japan (損保協会) participation as foreign insurer |
 | Wiki role | Foreign-affiliated Japan non-life insurance branch (industrial property mutual) |
 | Parent / structure | Factory Mutual Insurance Company (mutual, USA) via FM Insurance Company Limited (UK subsidiary) |
 
-ライセンスルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に属する。
+ライセンスルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に属する。
 
 ## 2. Operating model
 

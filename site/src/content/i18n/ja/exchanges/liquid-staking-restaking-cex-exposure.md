@@ -2,10 +2,11 @@
 source: exchanges/liquid-staking-restaking-cex-exposure
 source_hash: cfb062419e573e58
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Liquid Staking + Restaking エコシステム + CEX エクスポージャー"
-translated_at: 2026-06-02T12:19:04.251Z
+translated_at: 2026-06-26T08:29:25.281Z
 ---
 ﻿
 # Liquid Staking + Restaking エコシステム + CEX エクスポージャー
@@ -24,7 +25,7 @@ translated_at: 2026-06-02T12:19:04.251Z
 - **Rocket Pool** (rETH) — 分散型、permissionless validator、16 ETH minimum で運営参加可能
 - **Coinbase (cbETH)** — Coinbase 子会社 staking、米国 SEC 対応中、機関向け窓口
 - **Binance (BETH/WBETH)** — Binance LST、一部地域制限、ペッグ機構
-- **Mantle (mETH)** — Mantle L2 ecosystem、Bybit との連携
+- **Mantle (mETH)** — Mantle L2 経済圏、Bybit との連携
 - **Lido + Rocket Pool で ETH 全 staked の ~40%** をカバー (中央集権リスク懸念の核心)
 
 ## Restaking エコシステム
@@ -37,7 +38,7 @@ translated_at: 2026-06-02T12:19:04.251Z
 
 ## CEX 取扱状況
 
-- **国内 (日本)**: stETH / cbETH 直接 現物 取扱なし、国内 VASP の ETH staking サービス (bitFlyer / GMO / SBI VC) は別構造 (CEX 内 staking、LST トークン発行なし)
+- **国内 (日本)**: stETH / cbETH 直接現物取扱なし、国内 VASP の ETH staking サービス (bitFlyer / GMO / SBI VC) は別構造 (CEX 内 staking、LST トークン発行なし)
 - **海外 (米)**: Coinbase cbETH 現物、Kraken (米国 staking 停止 2023-)、Binance BETH (一部地域制限)
 - **規制リスク**: SEC は LST/LRT を "未登録証券" として監視、MiCA は CASP ライセンス必須で staking-as-a-service を制限的に許可
 

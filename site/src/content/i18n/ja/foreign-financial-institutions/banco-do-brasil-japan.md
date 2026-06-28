@@ -2,17 +2,18 @@
 source: foreign-financial-institutions/banco-do-brasil-japan
 source_hash: ef6c4222c33ad7a2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ブラジル銀行日本 (Banco do Brasil Japan)"
-translated_at: 2026-06-02T14:01:20.967Z
+translated_at: 2026-06-26T08:32:15.222Z
 ---
 
 # ブラジル銀行日本 (Banco do Brasil Japan)
 
 ## ウィキ上の位置づけ
 
-Banco do Brasil Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 配下に位置づけ、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] におけるブラジル・日本間の外国銀行支店ルートである。[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]]、[[finance/cross-border-m-a-japan|cross-border finance]] とあわせて読む。
+Banco do Brasil Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 配下に位置づけ、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] におけるブラジル・日本間の外国銀行支店ルートである。[[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]]、[[finance/cross-border-m-a-japan|cross-border finance]] とあわせて読む。
 
 BB Japão、日本・ブラジル間送金、外貨預金、支店銀行業務、法人国際業務を扱う場合にこのページを使う。
 

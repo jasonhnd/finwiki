@@ -2,10 +2,11 @@
 source: agent-economy/x402-http-payment-overview
 source_hash: 2f5dd3bbc4779bba
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)"
-translated_at: 2026-06-02T11:47:37.321Z
+translated_at: 2026-06-26T08:29:09.693Z
 ---
 
 # x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)
@@ -20,8 +21,8 @@ translated_at: 2026-06-02T11:47:37.321Z
 - デフォルト決済:USDC on Base · Solana / 他の L2 もサポート ^[extracted]
 - 決済層はプロトコル非依存 · アプリは Solana USDC / Tron USDT / 任意の EVM L2 に切替可能 ^[extracted]
 - Facilitator モデル:Server が facilitator(Coinbase など)に決済検証を委託 ^[extracted]
-- hot wallet + ERC-4337 SCW をサポート · agent は任意のウォレットで利用可能 ^[extracted]
-- USDC on Base settlement < 2s · Facilitator モデル < 100ms ^[extracted]
+- hot ウォレット + ERC-4337 SCW をサポート · agent は任意のウォレットで利用可能 ^[extracted]
+- USDC on Base 決済 < 2s · Facilitator モデル < 100ms ^[extracted]
 - 単発 gas < $0.001(Base L2 + 4337 paymaster) ^[extracted]
 - x402 Bazaar MCP は 10,000+ endpoints を収録 ^[extracted]
 

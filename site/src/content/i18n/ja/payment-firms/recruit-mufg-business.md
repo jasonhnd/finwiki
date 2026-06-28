@@ -2,21 +2,20 @@
 source: payment-firms/recruit-mufg-business
 source_hash: 41682f8ab3f75127
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "リクルートMUFGビジネス"
-translated_at: 2026-06-02T15:14:17.148Z
+translated_at: 2026-06-26T08:31:59.846Z
 ---
 
 # リクルートMUFGビジネス
 
 ## ウィキ上の位置づけ
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。銀行グループの文脈は [[megabanks/mufg|MUFG]]、規制上の経路は [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、ウォレット競争は [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] と併読する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。銀行グループの文脈は [[megabanks/mufg|MUFG]]、規制上の経路は [[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、ウォレット競争は [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] と併読する。
 
-## 概要
-
-株式会社リクルートMUFGビジネスは、Recruit と [[megabanks/mufg-bank|MUFG Bank]] の合弁会社で、Air Wallet アプリと COIN+ 決済ブランドを提供する。公式会社概要には第三者型前払式支払手段発行者登録と資金移動業者登録が記載されており、FSA 一覧では関東財務局長 第00081号、登録日 2020-08-13 として掲載される。
+## 概要株式会社リクルートMUFGビジネスは、Recruit と [[megabanks/mufg-bank|MUFG Bank]] の合弁会社で、Air ウォレットアプリと COIN+ 決済ブランドを提供する。公式会社概要には第三者型前払式支払手段発行者登録と資金移動業者登録が記載されており、FSA 一覧では関東財務局長第00081号、登録日 2020-08-13 として掲載される。
 
 同社が戦略的に重要なのは、Recruit の加盟店・消費者サービス接点と MUFG の銀行レールを組み合わせるためである。古典的なカード発行会社ではなく、口座連動ウォレット・決済インフラの経路として読む。
 
@@ -27,13 +26,13 @@ translated_at: 2026-06-02T15:14:17.148Z
 | 法人 | 株式会社リクルートMUFGビジネス |
 | 設立 | 2019-12-20 |
 | 株主 | Recruit and [[megabanks/mufg-bank|MUFG Bank]] |
-| 主な商品 | Air Wallet, COIN+ |
-| 公開登録 | 第三者型前払式支払手段発行者 関東財務局長第00736号、資金移動業者 関東財務局長第00081号 |
+| 主な商品 | Air ウォレット, COIN+ |
+| 公開登録 | 第三者型前払式支払手段発行者関東財務局長第00736号、資金移動業者関東財務局長第00081号 |
 
 ## 2. 事業上の役割
 
-- 公式会社サイトは、事業内容を Air Wallet 送金アプリと COIN+ 決済ブランドの提供と説明している。
-- Recruit の公開リリースでは、RMB は COIN+ の口座連携、銀行口座接続、給与デジタル払い、Air Wallet Quick Loan ルートの背後にある運営主体として位置づけられている。
+- 公式会社サイトは、事業内容を Air ウォレット送金アプリと COIN+ 決済ブランドの提供と説明している。
+- Recruit の公開リリースでは、RMB は COIN+ の口座連携、銀行口座接続、給与デジタル払い、Air ウォレット Quick Loan ルートの背後にある運営主体として位置づけられている。
 - 重要な視点は流通接点である。Recruit のサービスエコシステムは、単独銀行アプリを起点にせずウォレット接点を作れる。
 
 ## 3. この独立ページが重要な理由

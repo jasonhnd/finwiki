@@ -2,10 +2,11 @@
 source: fintech/singapore-mas-payment-services-act-strategic-implications
 source_hash: c594a1c103f4de80
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル"
-translated_at: 2026-06-02T13:21:55.051Z
+translated_at: 2026-06-26T08:28:38.459Z
 ---
 # MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル
 
@@ -14,15 +15,15 @@ translated_at: 2026-06-02T13:21:55.051Z
 この項目は [[fintech/INDEX|fintech index]] の下に位置づけられる。隣接文脈として [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
 > [!info] 要約
-> シンガポール = 「コンプライアンス USD SC ハブ」、HK = 「グレー USD SC コンプライアンス化試験場」。Circle がシンガポールを APAC HQ に選択（2023）= MAS-US MRA が HK より早期実現することへの賭けで、2026-03 の MRA 締結により戦略が正しかったことが検証された。DBS / Standard Chartered Singapore はアジアの institutional crypto custody 双寡占 · §501(d) 第一波アジア機関 onboarding の中核ノード。HK の第三波（2027-H2）はシンガポールに 1.5 年遅れる → 資本フローはまずシンガポールへ向かい、HK は後回し。
+> シンガポール = 「コンプライアンス USD SC ハブ」、HK = 「グレー USD SC コンプライアンス化試験場」。Circle がシンガポールを APAC HQ に選択（2023）= MAS-US MRA が HK より早期実現することへの賭けで、2026-03 の MRA 締結により戦略が正しかったことが検証された。DBS / Standard Chartered Singapore はアジアの institutional crypto カストディ双寡占 · §501(d) 第一波アジア機関 onboarding の中核ノード。HK の第三波（2027-H2）はシンガポールに 1.5 年遅れる → 資本フローはまずシンガポールへ向かい、HK は後回し。
 
 ## 主要事実
 
 - Circle がシンガポールを APAC HQ に選択（2023）= MAS-US MRA が HK より早期実現することへの賭け ^[extracted]
 - 2026-03 Singapore-US MRA 締結 → 戦略の正しさが検証された ^[extracted]
-- DBS Vickers が DPT 保有 + Circle と institutional USDC custody で提携 = チャネルクローズドループ ^[extracted]
+- DBS Vickers が DPT 保有 + Circle と institutional USDC カストディ で提携 = チャネルクローズドループ ^[extracted]
 - DBS はシンガポール初の USDC をオンチェーンで保管する伝統大手銀行（2024 年 Circle との提携）^[extracted]
-- Standard Chartered Singapore + Zodia Custody = アジア institutional crypto custody 双寡占 ^[extracted]
+- Standard Chartered Singapore + Zodia カストディ = アジア institutional crypto カストディ双寡占 ^[extracted]
 - USDT はシンガポール DPT のグレー流通 → DTSP Regime 2024-04 の引き締め後にハブ戦略から撤退 ^[extracted]
 - HK 第三波（2027-H2）はシンガポールに 1.5 年遅れ ^[extracted]
 - Sky DAO（旧 MakerDAO Foundation）が 2025-11 解散後シンガポール + ケイマンで登記 ^[extracted]
@@ -32,9 +33,9 @@ translated_at: 2026-06-02T13:21:55.051Z
 **Circle SG hub 戦略クローズドループ**：
 - Circle APAC HQ をシンガポールに選定（2023）= MAS-US MRA が HK より早期実現することへの賭け
 - 2026-03 MRA 締結 → USDC ↔ SGD-pegged SC 双方向相互認証が成立
-- DBS Vickers が DPT 保有 + Circle と institutional USDC custody で提携 = チャネルクローズドループ
+- DBS Vickers が DPT 保有 + Circle と institutional USDC カストディ で提携 = チャネルクローズドループ
 
-**DBS / StanChart 銀行系戦略**：DBS はシンガポール初の USDC をオンチェーンで保管する伝統大手銀行（2024 Circle との提携）。Standard Chartered Singapore + Zodia Custody = アジア institutional crypto custody 双寡占。両者は §501(d) 第一波アジア機関 onboarding の中核ノード。
+**DBS / StanChart 銀行系戦略**：DBS はシンガポール初の USDC をオンチェーンで保管する伝統大手銀行（2024 Circle との提携）。Standard Chartered Singapore + Zodia カストディ = アジア institutional crypto カストディ双寡占。両者は §501(d) 第一波アジア機関 onboarding の中核ノード。
 
 **Tether の反証**：USDT はシンガポール DPT のグレー流通 → DTSP Regime 2024-04 の引き締め後にハブ戦略から撤退。Tether がシンガポールではなく HK を選んだのは、MAS 基準が過度に厳しい + DTSP が過度に苛烈なため。**シンガポール = コンプライアンス USD SC ハブ、HK = グレー USD SC コンプライアンス化試験場**。「グレー→コンプライアンス」チャネルのロジックは [[fintech/gray-market-dollar-network-formalization|グレー市場 USD の公式化]] 参照。DPT ライセンス体系の詳細は [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT ライセンス概観]] 参照。
 

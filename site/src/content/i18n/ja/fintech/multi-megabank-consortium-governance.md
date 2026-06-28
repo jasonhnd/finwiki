@@ -2,10 +2,11 @@
 source: fintech/multi-megabank-consortium-governance
 source_hash: c84c96ff0fe92057
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "複数メガバンク型コンソーシアム・ガバナンス"
-translated_at: 2026-06-02T13:21:55.065Z
+translated_at: 2026-06-26T08:29:33.008Z
 ---
 # 複数メガバンク型コンソーシアム・ガバナンス
 
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T13:21:55.065Z
 この項目は [[fintech/INDEX|fintech index]] の配下にあります。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読んでください。
 
 > [!info] 要約
-> フィンテック・インフラを「単一銀行」「複数銀行 JV」「独立企業 + 銀行少数持株」の **3 つのガバナンス・モデル** で比較すると、**Progmat 型(独立企業 + 非支配持分 設計)が最も拡張性が高い**。JPMorgan Kinexys は単一銀行型、BIS Project Agorá は中央銀行コンソーシアム型、Progmat は独立企業型 —— 各々が要求する規制環境と意思決定速度のトレードオフが異なる。
+> フィンテック・インフラを「単一銀行」「複数銀行 JV」「独立企業 + 銀行少数持株」の **3 つのガバナンス・モデル** で比較すると、**Progmat 型(独立企業 + 非支配持分設計)が最も拡張性が高い**。JPMorgan Kinexys は単一銀行型、BIS Project Agorá は中央銀行コンソーシアム型、Progmat は独立企業型 —— 各々が要求する規制環境と意思決定速度のトレードオフが異なる。
 
 ## 3 つの治理モデル
 
@@ -66,7 +67,7 @@ Datachain                 ~3%    ← 技術 partner
 |---|---|---|
 | 主導 | 民間(信託銀行協調)| 国際(BIS + 7 央行)|
 | 規制 | FSA 監督 + 信託法 | BIS 協調 + 各国央行法 |
-| Settlement asset | 信託型 SC | wholesale CBDC + TD |
+| 決済 asset | 信託型 SC | wholesale CBDC + TD |
 | Decision speed | 株主間契約ベース(中速)| 7 央行合意(低速)|
 | Geographic scope | 日本国内中心 → 拡大検討中 | グローバル設計だが pilot 中 |
 | Exit option | 株主としての売却可能 | 国家 commitment 解除不可 |
@@ -88,7 +89,7 @@ Datachain                 ~3%    ← 技術 partner
 - 任何 "複数 megabank 共通 fintech インフラ" 議論の構造分析
 - 韓国 / 台湾 / アジア他国の SC コンソーシアム設計参考
 - mBridge / Project Nexus / IPS-RTGS 相互接続の ガバナンス比較
-- DTCC / Visa / Mastercard 等 既存「業界共通インフラ」の進化系として
+- DTCC / Visa / Mastercard 等既存「業界共通インフラ」の進化系として
 - 中央銀行コンソーシアム + 民間 SC コンソーシアムの 2 層構造設計
 
 ---

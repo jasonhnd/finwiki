@@ -2,17 +2,18 @@
 source: agent-economy/crossmint-agent-sdk
 source_hash: e239366586682fe4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Crossmint エージェント SDK · AI エージェント向けの NFT とウォレット抽象化"
-translated_at: 2026-06-02T11:47:37.314Z
+translated_at: 2026-06-26T08:28:53.947Z
 ---
 
 # Crossmint エージェント SDK · AI エージェント向けの NFT とウォレット抽象化
 
 ## ウィキ上の位置づけ
 
-本項目は [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocols seven-protocol overview]] の下に位置する。同類のウォレットスタックについては [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]] および [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]] を、市場の文脈については [[agent-economy/embedded-wallet-landscape-2026-consolidation|embedded wallet consolidation]] を、価値捕捉のフレーミングについては [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet moat]] を併せて参照のこと。
+本項目は [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocols seven-protocol overview]] の下に位置する。同類のウォレットスタックについては [[agent-economy/privy-embedded-wallet-overview|Privy embedded ウォレット]] および [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]] を、市場の文脈については [[agent-economy/embedded-wallet-landscape-2026-consolidation|embedded ウォレット consolidation]] を、価値捕捉のフレーミングについては [[agent-economy/embedded-wallet-network-effects-moat|embedded ウォレット moat]] を併せて参照のこと。
 
 ## 主要事実
 
@@ -43,7 +44,7 @@ translated_at: 2026-06-02T11:47:37.314Z
 | マルチチェーンの幅 | 広い(EVM + Solana + Aptos + Sui + Cardano)| EVM 中心 + Solana | EVM + Solana | EVM + Bitcoin + Solana |
 | 法定通貨オンランプ内蔵 | あり(カード / Apple Pay ネイティブ)| パートナー経由 | パートナー経由 | パートナー経由 |
 | NFT プリミティブ | ネイティブ | 汎用 | 汎用 | 汎用 |
-| サーバーサイドのエージェントウォレット | あり | あり(App Wallets 経由)| あり | あり |
+| サーバーサイドのエージェントウォレット | あり | あり(App ウォレット経由)| あり | あり |
 | エンタープライズ営業の動き | 強い(NFT ブランド、ゲーミング)| 強い(Stripe チャネル)| 強い(DeFi)| 中程度 |
 
 Crossmint の **ニッチ** は、NFT ミント + 法定通貨購入 + マルチチェーンのすべてを一体に縫い合わせることを必要とするエンタープライズ / ブランド顧客である。AI エージェントに当てはめると、これは以下のようなユースケースに対応する:

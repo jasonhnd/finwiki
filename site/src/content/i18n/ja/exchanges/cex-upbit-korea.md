@@ -2,20 +2,21 @@
 source: exchanges/cex-upbit-korea
 source_hash: 293470442ffb47b8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Upbit（アップビット）/ Dunamu — 韓国 現物 市場で圧倒的首位の概要"
-translated_at: 2026-06-02T12:19:04.246Z
+title: "Upbit（アップビット）/ Dunamu — 韓国現物市場で圧倒的首位の概要"
+translated_at: 2026-06-26T08:29:09.704Z
 ---
 ﻿
-# Upbit（アップビット）/ Dunamu — 韓国 現物 市場で圧倒的首位の概要
+# Upbit（アップビット）/ Dunamu — 韓国現物市場で圧倒的首位の概要
 
 
 ## ウィキ上の位置づけ
 
 この項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。韓国の同業・規制文脈は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]]、最も近い同業比較（#2）は [[exchanges/cex-bithumb-korea|Bithumb]]、より広いグローバル市場文脈は [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] とあわせて読む。
 
-> 2017-10 ローンチ · 韓国 現物 シェア **約 70%**（圧倒的首位）· K-Bank（케이뱅크）実名口座 · ISMS-P 認証 · 親会社 Dunamu は韓国フィンテック大手
+> 2017-10 ローンチ · 韓国現物シェア **約 70%**（圧倒的首位）· K-Bank（케이뱅크）実名口座 · ISMS-P 認証 · 親会社 Dunamu は韓国フィンテック大手
 
 ## 1. 法人・株主
 
@@ -36,20 +37,20 @@ translated_at: 2026-06-02T12:19:04.246Z
 - **가상자산사업자 (VASP)** 등록：FIU 登録済（2021-09 韓国第 1 期登録クラス）
 - **ISMS / ISMS-P 認証**：KISA 강화 ISMS-P 保有（取引高 100 억원 超事業者要件）
 - **실명확인 입출금 계정**：**케이뱅크（K-Bank）** との契約
-  - K-Bank との実質的独占的関係が長期にわたり韓国 KRW 現物 市場のシェア寡占を支えた
+  - K-Bank との実質的独占的関係が長期にわたり韓国 KRW 現物市場のシェア寡占を支えた
   - K-Bank の Upbit 預金額が同行の総預金の相当部分を占めた時期もあり、両社の相互依存構造が複数のメディアで論評
 - 詳細制度は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] 参照
 
 ## 3. 取扱通貨
 
-- KRW 現物 市場：約 180+ 銘柄
+- KRW 現物市場：約 180+ 銘柄
 - BTC market（基軸 BTC）市場 + USDT market 市場も併設
 - 上場審査：DAXA 共通基準 + Upbit 独自基準（보다 엄격）
 - 上場 / 上場廃止が韓国市場価格に与える影響が大きく、いわゆる **"김치 프리미엄"**（Korea premium）を駆動する中核プラットフォーム
 
 ## 4. 業務範囲
 
-- 現物 現物 取引（KRW / BTC / USDT 3 市場）
+- 現物現物取引（KRW / BTC / USDT 3 市場）
 - 派生・margin 取引：**韓国 VASP 規制下では非提供**
 - NFT マーケットプレイス（Upbit NFT、2021 launch）
 - staking：限定的（カスタディアル staking, 規制制約下）
@@ -57,11 +58,11 @@ translated_at: 2026-06-02T12:19:04.246Z
 
 ## 5. 市占・取引高
 
-- **韓国 現物 市場シェア**：**約 70%**（圧倒的首位、[[exchanges/cex-bithumb-korea|Bithumb]] の 25% を大きく引き離す）
+- **韓国現物市場シェア**：**約 70%**（圧倒的首位、[[exchanges/cex-bithumb-korea|Bithumb]] の 25% を大きく引き離す）
 - 24h volume：$2–10B（韓国市場ボラティリティ + アルトコイン投機熱に連動、グローバル top 5 入る日もあり）
 - 顧客層：韓国居住者中心、KYC 完全実施
 - **グローバル CEX ランキング**：常時 top 10、特定銘柄では世界最大の流動性場
-- Dunamu は 2021–2022 期に評価額 韓国 데카콘（decacorn）入りとされ、韓国フィンテック史上最大級のスタートアップ評価
+- Dunamu は 2021–2022 期に評価額韓国 데카콘（decacorn）入りとされ、韓国フィンテック史上最大級のスタートアップ評価
 
 ## 6. 沿革・重大事件
 
@@ -70,7 +71,7 @@ translated_at: 2026-06-02T12:19:04.246Z
 | 2012-04 | 두나무 설립（モバイル証券情報「증권플러스」開発） |
 | 2017-10-24 | **Upbit ローンチ**（Bittrex との API パートナーシップで上場銘柄を大量提供、韓国市場席巻） |
 | 2017-12 | 韓国仮想通貨ブームの中で月間取引高世界 1 位獲得（短期間） |
-| 2019-11 | 약 580 億ウォン規模の ETH 流出事案（hot wallet 不正流出）。Dunamu 自己資金で全額補填 |
+| 2019-11 | 약 580 億ウォン規模の ETH 流出事案（hot ウォレット不正流出）。Dunamu 自己資金で全額補填 |
 | 2020 | K-Bank 実名口座契約締結 |
 | 2021-03 | 韓国 특정금융정보법 施行 |
 | 2021-09 | FIU VASP 登録完了 |
@@ -79,7 +80,7 @@ translated_at: 2026-06-02T12:19:04.246Z
 | 2023 | DAXA 자율규제 협의체 共同設立メンバーとして参画 |
 | 2024-07 | 가상자산이용자보호법 施行、利用者保護体制整備 |
 | 2024–2026 | グローバル展開（Upbit Singapore / Indonesia / Thailand 等）継続 |
-| 2025–2026 | 韓国 現物 市場 70% シェア維持、Bithumb との差を継続拡大 |
+| 2025–2026 | 韓国現物市場 70% シェア維持、Bithumb との差を継続拡大 |
 
 ## 7. 戦略動向
 
@@ -92,9 +93,9 @@ translated_at: 2026-06-02T12:19:04.246Z
 
 ## 8. 業界での位置付け
 
-Upbit は **韓国 CEX 市場の事実上の独占** に近い地位を保ち、韓国アルトコイン市場の価格決定の中心となっている。Solana / XRP / 韓国系 L1（Klaytn 후속 Kaia, WEMIX, XPLA）等の重要トークンの主要 現物 市場の 1 つとして、グローバル流動性層にも組み込まれている。
+Upbit は **韓国 CEX 市場の事実上の独占** に近い地位を保ち、韓国アルトコイン市場の価格決定の中心となっている。Solana / XRP / 韓国系 L1（Klaytn 후속 Kaia, WEMIX, XPLA）等の重要トークンの主要現物市場の 1 つとして、グローバル流動性層にも組み込まれている。
 
-韓国市場の構造的特徴（[[exchanges/korea-cex-five-pillars-comparison]] 参照）— ISMS-P 認証 + 1:1 実名口座契約 + DAXA 自律規制 — が形成する寡占構造の最大受益者であり、韓国 KRW 現物 市場の 70% シェアは 2017 年以降ほぼ揺るがない。比較対象として、日本 CEX 市場（[[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] / [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck]]）はトップ社で 25–30% 程度のシェアにとどまり、より分散した構造となっている。
+韓国市場の構造的特徴（[[exchanges/korea-cex-five-pillars-comparison]] 参照）— ISMS-P 認証 + 1:1 実名口座契約 + DAXA 自律規制 — が形成する寡占構造の最大受益者であり、韓国 KRW 現物市場の 70% シェアは 2017 年以降ほぼ揺るがない。比較対象として、日本 CEX 市場（[[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] / [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck]]）はトップ社で 25–30% 程度のシェアにとどまり、より分散した構造となっている。
 
 ## 関連項目
 

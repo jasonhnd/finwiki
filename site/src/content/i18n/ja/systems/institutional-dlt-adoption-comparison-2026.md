@@ -2,10 +2,11 @@
 source: systems/institutional-dlt-adoption-comparison-2026
 source_hash: 5844b8aa6372e860
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon"
-translated_at: 2026-06-03T01:06:46.365Z
+translated_at: 2026-06-26T08:29:17.595Z
 ---
 ﻿
 # 機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon
@@ -32,15 +33,15 @@ translated_at: 2026-06-03T01:06:46.365Z
 - **典型的顧客**:[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]](2024-03 ローンチ、~$2-3B AUM 2026-Q1)+ Franklin Templeton BENJI(~$700M)+ Ondo USDY + WisdomTree 等
 - **典型的ユースケース**:トークン化マネーマーケットファンド(MMF)+ トークン化米国債、パブリックチェーン上で KYC 済の 機関投資家 に自由に譲渡可能
 - **理由**:全世界の任意の KYC 済機関ウォレットで保有可能 + 機関顧客がプライベートコンソーシアムチェーンに接続する必要なし + stablecoin(USDC / PYUSD)とのネイティブ相互運用
-- **技術的依存**:[[fintech/blackrock-buidl-tokenized-mmf-overview|Securitize]] 等の 移転代理人 プラットフォーム + Wormhole / [[systems/cctp-v2-overview|CCTP V2]] 等のクロスチェーン + ERC-3643 (T-REX) 規制対応 token 標準
+- **技術的依存**:[[fintech/blackrock-buidl-tokenized-mmf-overview|Securitize]] 等の 移転代理人プラットフォーム + Wormhole / [[systems/cctp-v2-overview|CCTP V2]] 等のクロスチェーン + ERC-3643 (T-REX) 規制対応 token 標準
 - **L2 展開**:BUIDL は 2024-Q4 から Aptos / Avalanche / Arbitrum / Optimism / Polygon PoS 等のマルチチェーンに拡張、AUM の ~70% は依然として Ethereum L1
 - **制約**:G-SIB 自社市場の清算・決済は依然として Canton 等のプライベートチェーン志向、パブリックチェーン RWA は主に「公開発行可能 + 二次流通」シナリオに供される
 
 ### 3. Corda(R3、2025 統合後)
 
 - **技術**:JVM-based + UTXO スタイル + notary cluster + application-layer privacy(Canton に類似だが実装は異なる)
-- **統合後の位置づけ**:R3 が 2025 年に Digital Asset と合併後、Corda は主に **central securities depository(CSD)+ 一部中央銀行 ホールセール CBDC パイロット + 英国 / シンガポール / 中東のロングテール顧客** を引き継ぐ。新規顧客開拓は実質的に Canton に転換
-- **典型的顧客**:SIX Digital Exchange(SDX、スイス)+ HQLAᵡ(欧州機関 collateral プラットフォーム)+ ASX(オーストラリア取引所、CHESS 代替中止後)+ 一部中央銀行 ホールセール CBDC パイロット(BoE / MAS / 一部中東中央銀行)
+- **統合後の位置づけ**:R3 が 2025 年に Digital Asset と合併後、Corda は主に **central securities depository(CSD)+ 一部中央銀行ホールセール CBDC パイロット + 英国 / シンガポール / 中東のロングテール顧客** を引き継ぐ。新規顧客開拓は実質的に Canton に転換
+- **典型的顧客**:SIX Digital Exchange(SDX、スイス)+ HQLAᵡ(欧州機関 collateral プラットフォーム)+ ASX(オーストラリア取引所、CHESS 代替中止後)+ 一部中央銀行ホールセール CBDC パイロット(BoE / MAS / 一部中東中央銀行)
 - **TVL とアクティビティ**:歴史的に Corda ネットワーク上で累計 $20T 超の名目資産を処理(2024 R3 開示、主に trade finance + CSD 清算決済 notional)、しかしアクティブなメインネット TVL ははるかに小さい
 - **将来**:Corda 4.x は維持され続けるが、Canton が Corda に代わって R3 の戦略主軸となる
 
@@ -77,9 +78,9 @@ translated_at: 2026-06-03T01:06:46.365Z
 
 | 顧客タイプ | 第一選択 | 次の選択 | 理由 |
 |---|---|---|---|
-| G-SIB 投資銀行 + 資産運用 + カストディ | Canton | Besu / Corda | multi-party atomic settlement + アプリケーションレベルのプライバシー |
+| G-SIB 投資銀行 + 資産運用 + カストディ | Canton | Besu / Corda | multi-party atomic 決済 + アプリケーションレベルのプライバシー |
 | 資産運用会社による公開可能な token MMF / Treasury 発行 | Public Ethereum L1 | Avalanche / Aptos / Stellar | パブリックチェーンの KYC 済二次流動性 + stablecoin 相互運用 |
-| 中央銀行 ホールセール CBDC パイロット | Corda / Besu / Canton(並行パイロット) | — | パイロット段階では複数プラットフォーム並行 |
+| 中央銀行ホールセール CBDC パイロット | Corda / Besu / Canton(並行パイロット) | — | パイロット段階では複数プラットフォーム並行 |
 | 大手カストディ銀行の内部台帳 | Besu / Canton | — | EVM 互換 vs DAML マルチパーティアトミック |
 | プライベートクレジット / プライベートエクイティ資産運用 | Avalanche subnet / Securitize マルチチェーン展開 | Public Ethereum L1 | トークン化サービス + マルチチェーン配信 |
 | 貿易金融 / サプライチェーン | Fabric / その他エンタープライズ | — | 歴史的慣性 + 非金融機関顧客 |
@@ -94,9 +95,7 @@ translated_at: 2026-06-03T01:06:46.365Z
 - **BNY Mellon**:Canton(創設メンバー)+ Public Ethereum L1(BUIDL カストディ) → 2 プラットフォーム
 - **DTCC**:Canton(Project Ion)+ Corda(一部歴史プロジェクト) → 2 プラットフォーム
 - **BlackRock**:Public Ethereum L1(BUIDL 70% AUM)+ 複数 L2(Aptos / Avalanche / Arbitrum / Polygon)
-- **Franklin Templeton**:Stellar(BENJI ネイティブ)+ Aptos + Polygon + 複数 L2 → マルチチェーン分布
-
-機関顧客は **単一チェーンに賭けない**、2026 年の実践は「Canton で G-SIB 内部 + パブリックチェーン Ethereum で対外 MMF / Treasury + Corda / Besu は特定地域またはユースケースのロングテール」となっており、[[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] の機関層への延伸と対照される。
+- **Franklin Templeton**:Stellar(BENJI ネイティブ)+ Aptos + Polygon + 複数 L2 → マルチチェーン分布機関顧客は **単一チェーンに賭けない**、2026 年の実践は「Canton で G-SIB 内部 + パブリックチェーン Ethereum で対外 MMF / Treasury + Corda / Besu は特定地域またはユースケースのロングテール」となっており、[[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] の機関層への延伸と対照される。
 
 ## オンチェーン RWA · TVL 視点
 
@@ -117,7 +116,7 @@ rwa.xyz / DefiLlama の公開口径による 2026-Q1 のトークン化 RWA(stab
 | 大手銀行内部 24/7 repo + collateral mobility | Canton(JPM / GS / DTCC) | マルチパーティアトミック + application privacy + DAML 表現力 |
 | トークン化 MMF / Treasury の対外発行(二次流通可能) | Public Ethereum L1 | KYC 済機関ウォレット + stablecoin 相互運用 + 第三者監査 |
 | Tokenized プライベートクレジット / プライベートエクイティ | Avalanche subnet / Polygon PoS / Public ETH マルチチェーン | トークン化サービス + Securitize 経路 |
-| 中央銀行 ホールセール CBDC パイロット | Corda / Besu / Canton 並行 | 複数プラットフォーム並行パイロット |
+| 中央銀行ホールセール CBDC パイロット | Corda / Besu / Canton 並行 | 複数プラットフォーム並行パイロット |
 | Trade finance / サプライチェーン追跡 | Fabric / 自社エンタープライズ | 歴史的慣性 + 非金融顧客 |
 | Tokenized deposit(単一銀行内部) | Besu(HSBC TDS / Citi CTS)/ Canton | EVM 互換 vs DAML アトミック化 |
 | Cross-G-SIB CBDC pilot([[fintech/bis-project-agora-overview\|BIS Project Agora]]) | Besu / Hedera / Canton マルチプラットフォーム | パイロット段階に統一回答なし |
@@ -132,14 +131,12 @@ rwa.xyz / DefiLlama の公開口径による 2026-Q1 のトークン化 RWA(stab
 - **2020-2023**:Canton Network 概念が徐々に成熟、Digital Asset が Microsoft / DTCC / GS / 複数 G-SIB から投資獲得、Corda は維持されるが新規顧客開拓は減速
 - **2024**:DTCC Project Ion が Canton を選定、Goldman DAP が Canton に移行、JPM が Canton 評価を開始、Canton コンソーシアム拡大
 - **2025**:R3 と Digital Asset が戦略的統合を完了(具体的形態の公開開示は限定的だが、Corda と Canton のチーム / 治理 / 顧客開拓は実質的に合併)
-- **2026**:Canton は統合後の旗艦製品となり、Corda は既存顧客を維持するが戦略的地位は低下
-
-注:具体的な統合時期と形態は双方の公式開示に従う。本節は公開シグナルを総合した合理的推測であり、確度: likely。
+- **2026**:Canton は統合後の旗艦製品となり、Corda は既存顧客を維持するが戦略的地位は低下注:具体的な統合時期と形態は双方の公式開示に従う。本節は公開シグナルを総合した合理的推測であり、確度: likely。
 
 ## 規制 + コンプライアンス角度の対照
 
 - **Canton**:アプリケーションレベルのプライバシー + Regulator Node モデルにより規制当局が参加者として加わることが可能、MiCA(EU)/ MAS(シンガポール)等の規制フレームワークとの互換性が高い
-- **Public Ethereum L1**:ERC-3643(T-REX)または Securitize 等の 移転代理人 による「permissioned token in permissionless chain」モデルに依存、コンプライアンスは token issuer + 移転代理人 が負担
+- **Public Ethereum L1**:ERC-3643(T-REX)または Securitize 等の 移転代理人 による「permissioned token in permissionless chain」モデルに依存、コンプライアンスは token 発行会社 + 移転代理人 が負担
 - **Corda**:notary cluster + UTXO + 参加者のみが閲覧可能な 取引履歴、英国 / シンガポール / 中東での規制受容度が高い
 - **Fabric**:permissioned + endorsement policy、中国の規制サンドボックス + 一部中央銀行内部台帳で歴史的に使用
 - **Besu**:IBFT コンセンサス + Constellation オフチェーン payload、Canton と比べてプライバシーが弱いが EVM 互換性が規制学習コストを下げる
@@ -154,7 +151,7 @@ rwa.xyz / DefiLlama の公開口径による 2026-Q1 のトークン化 RWA(stab
 | Stellar | USDC(Circle native)+ WisdomTree WTSY |
 | Avalanche | USDC / Tether on Avalanche C-Chain |
 | Besu(Kinexys Chain) | JPMD(2026 年に Canton へ移行中) |
-| Corda | 一部中央銀行 ホールセール CBDC pilot + HQLAᵡ collateral |
+| Corda | 一部中央銀行ホールセール CBDC pilot + HQLAᵡ collateral |
 | Solana / Base | USDC native(リテール決済の主要選択肢) |
 
 ## 関連項目

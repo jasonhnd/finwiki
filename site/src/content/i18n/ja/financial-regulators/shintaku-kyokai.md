@@ -2,10 +2,11 @@
 source: financial-regulators/shintaku-kyokai
 source_hash: dff6da704fa4aebe
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "信託協会（Trust Companies Association of Japan）"
-translated_at: 2026-06-02T15:14:17.104Z
+translated_at: 2026-06-26T08:32:07.551Z
 ---
 
 # 信託協会（Trust Companies Association of Japan）
@@ -35,9 +36,7 @@ The association's published outline organises its work as:[^shintaku-profile]
 
 協会は、信託銀行が銀行法上の法人として受ける預金側ルール、決済インフラ、AML/CFTなどの共通テーマでは[[financial-regulators/zenginkyo|Zenginkyō]]と、信託型商品が投資運用・証券規制と交差する場合にはJapan Investment Advisers Association / [[financial-regulators/jsda|JSDA]]とも緊密に連携する。
 
-## 会員とガバナンス
-
-会員は大きく二つの層に分かれる。[^shintaku-members]
+## 会員とガバナンス会員は大きく二つの層に分かれる。[^shintaku-members]
 
 - **Trust banks**（信託銀行）: [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]（ページが存在する場合）、[[trust-banks/smtb|Sumitomo Mitsui Trust Bank (SMTB)]]、みずほグループの信託銀行、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]]、[[trust-banks/nomura-trust-bank|Nomura Trust Bank]]、[[trust-banks/sbi-shinsei-trust-bank|SBI Shinsei Trust Bank]]、信託銀行カストディ業務の[[trust-banks/custody-bank|Custody Bank of Japan]]など。
 - **Trust companies**（信託会社）: FSA一覧上、38 trust companiesとして2026-03-31時点で掲載され、[[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]で参照される事業者。例として[[trust-banks/fpg-trust|FPG Trust]]、[[trust-banks/asahi-trust|Asahi Trust]]、[[trust-banks/alterna-trust|Alterna Trust]]、[[trust-banks/fintech-global-trust|Fintech Global Trust]]、[[trust-banks/sekisui-house-trust|Sekisui House Trust]]などがある。

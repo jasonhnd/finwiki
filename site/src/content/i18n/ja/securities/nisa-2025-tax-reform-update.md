@@ -2,17 +2,18 @@
 source: securities/nisa-2025-tax-reform-update
 source_hash: 722d7fa2f5dd2306
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "NISA 2025 税制改正アップデート"
-translated_at: 2026-06-19T12:43:19.967Z
+translated_at: 2026-06-26T08:29:40.688Z
 ---
 
 # NISA 2025 税制改正アップデート
 
 ## Wiki route
 
-本エントリは [[securities/INDEX|securities index]] の下に位置づけられる。ピア/対比の文脈として [[securities/nisa-2024-flow|NISA 2024 flow]] と、より広範なシステム/規制上の境界として [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] と併せて読むこと。本ページは、2024-開始の恒久 NISA 制度の上に乗る 2025 税制改正の拡充項目を記録する。
+本エントリは [[securities/INDEX|securities index]] の下に位置づけられる。ピア/対比の文脈として [[securities/nisa-2024-flow|NISA 2024 flow]] と、より広範なシステム/規制上の境界として [[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]] と併せて読むこと。本ページは、2024-開始の恒久 NISA 制度の上に乗る 2025 税制改正の拡充項目を記録する。
 
 ## TL;DR
 

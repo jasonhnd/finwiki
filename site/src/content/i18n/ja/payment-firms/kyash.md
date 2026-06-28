@@ -2,10 +2,11 @@
 source: payment-firms/kyash
 source_hash: 3c70f4ad5c6a3887
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Kyash"
-translated_at: 2026-06-02T14:54:39.085Z
+translated_at: 2026-06-26T08:32:23.070Z
 ---
 
 # Kyash
@@ -24,9 +25,9 @@ Kyash は、ウォレット、プリペイド Visa、資金移動を組み合わ
 | 項目 | 読み方 |
 |---|---|
 | 法人名 | 株式会社Kyash |
-| 主な領域 | Kyash app、prepaid card、Kyash Money、ウォレット送金、法人送金 |
+| 主な領域 | Kyash app、前払式 card、Kyash Money、ウォレット送金、法人送金 |
 | 規制ルート | 資金移動、第三者型前払式支払手段、資金決済法上の開示 |
-| FSA 登録ルート | FSA 資金移動業者一覧: 関東財務局長 第00082号、株式会社Kyash |
+| FSA 登録ルート | FSA 資金移動業者一覧: 関東財務局長第00082号、株式会社Kyash |
 
 ## 2. 事業上の役割
 

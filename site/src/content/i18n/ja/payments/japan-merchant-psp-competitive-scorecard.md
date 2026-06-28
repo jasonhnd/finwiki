@@ -2,10 +2,11 @@
 source: payments/japan-merchant-psp-competitive-scorecard
 source_hash: 837071ef5461c24f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の加盟店 PSP 競争スコアカード"
-translated_at: 2026-06-19T06:09:18.183Z
+translated_at: 2026-06-26T08:32:07.540Z
 ---
 
 # 日本の加盟店 PSP 競争スコアカード
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.183Z
 
 ## ウィキ上の位置づけ
 
-これは [[payments/INDEX|payments index]] の下に加盟店側 PSP リファレンスとして位置する。技術スタックの観点については [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] と、役割分離のフレームワークについては [[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]] と、決済サイクルと加盟店エクスポージャーの観点については [[payments/psp-merchant-settlement-risk|PSP 加盟店決済 risk]] と、PSP がますます担う A2A ラインについては [[payments/account-to-account-payment-japan|account-to-account payment in Japan]] と、銀行側の直接ルートについては [[payments/merchant-bank-pay-account-direct-acquiring|加盟店 Bank Pay account direct-acquiring]] と、このエントリが意図的に補完するクロススキームの経済性については [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] と、そして事業者のアンカーである [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]]、[[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/dg-financial-technology|DG Financial Technology / DGFT]]、[[payment-firms/netstars|Netstars]]、[[payment-firms/freee|freee]]、[[payment-firms/money-forward|Money Forward]]、[[payment-firms/famima-digital-one|FamiMa Digital One]]、[[payment-firms/seven-payment-service|Seven Payment Service]] と併せて読むこと。
+これは [[payments/INDEX|payments index]] の下に加盟店側 PSP リファレンスとして位置する。技術スタックの観点については [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] と、役割分離のフレームワークについては [[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]] と、決済サイクルと加盟店エクスポージャーの観点については [[payments/psp-merchant-settlement-risk|PSP 加盟店決済 risk]] と、PSP がますます担う A2A ラインについては [[payments/account-to-account-payment-japan|account-to-account payment in Japan]] と、銀行側の直接ルートについては [[payments/merchant-bank-pay-account-direct-acquiring|加盟店 Bank Pay account direct-アクワイアリング]] と、このエントリが意図的に補完するクロススキームの経済性については [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] と、そして事業者のアンカーである [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]]、[[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/dg-financial-technology|DG Financial Technology / DGFT]]、[[payment-firms/netstars|Netstars]]、[[payment-firms/freee|freee]]、[[payment-firms/money-forward|Money Forward]]、[[payment-firms/famima-digital-one|FamiMa Digital One]]、[[payment-firms/seven-payment-service|Seven Payment Service]] と併せて読むこと。
 
 ## なぜこのマトリクスが重要なのか
 

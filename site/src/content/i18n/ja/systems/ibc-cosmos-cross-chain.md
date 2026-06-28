@@ -2,10 +2,11 @@
 source: systems/ibc-cosmos-cross-chain
 source_hash: 52c41bac10ccc40a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "IBC · Cosmos Inter-Blockchain Communication protocol"
-translated_at: 2026-06-03T01:06:46.362Z
+translated_at: 2026-06-26T08:29:40.695Z
 ---
 # IBC · Cosmos Inter-Blockchain Communication protocol
 
@@ -90,7 +91,7 @@ Channel は app-level である。ICS-20 (fungible token)、ICS-721 (NFT)、Inte
 
 IBC specification は 2018 に Cosmos / Tendermint community で始まり、Cosmos Hub で IBC が有効化された March 2021に mainnet が稼働した。2022-2023 にかけて、広範な token-transfer 採用と Interchain Accounts により protocol は成熟した。2024-2025 の **Eureka** release は戦略的転換点だった。IBC はもはや Cosmos-only ではなく、light-client adapter を Ethereum + EVM L2s へ拡張することで **汎用 interop standard** として競争する。
 
-Cosmos は金融面でも興味深いエコシステムである。Noble(Cosmos の USDC issuer)、dYdX(以前は Ethereum、現在は Cosmos appchain)、Celestia のようなチェーンが IBC mesh 上にある。Celestia の観点では [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer comparison]] とあわせて読む。
+Cosmos は金融面でも興味深いエコシステムである。Noble(Cosmos の USDC 発行会社)、dYdX(以前は Ethereum、現在は Cosmos appchain)、Celestia のようなチェーンが IBC mesh 上にある。Celestia の観点では [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer comparison]] とあわせて読む。
 
 ## 関連項目
 

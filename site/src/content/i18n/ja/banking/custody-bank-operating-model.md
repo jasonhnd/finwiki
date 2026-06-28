@@ -2,10 +2,11 @@
 source: banking/custody-bank-operating-model
 source_hash: 8fd126f0e8af4bbe
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本カストディ銀行の業務モデル"
-translated_at: 2026-06-18T23:33:48.337Z
+translated_at: 2026-06-26T08:31:59.818Z
 ---
 
 # 日本カストディ銀行の業務モデル

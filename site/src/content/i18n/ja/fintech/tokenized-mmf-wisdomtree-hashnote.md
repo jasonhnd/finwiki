@@ -2,10 +2,11 @@
 source: fintech/tokenized-mmf-wisdomtree-hashnote
 source_hash: 7993916faa2000fa
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "トークン化 MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス"
-translated_at: 2026-06-02T14:01:20.912Z
+translated_at: 2026-06-26T08:28:53.961Z
 ---
 
 # トークン化 MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス
@@ -23,20 +24,18 @@ translated_at: 2026-06-02T14:01:20.912Z
 - 第一梯団：BUIDL **$2.58B**（Moody's Aaa-mf）+ BENJI **$800M** + ONDO OUSG **$600M** + FOBXX（Franklin）^[extracted]
 - 第二梯団：**WisdomTree WTGXX**（~$200M、主に WisdomTree Prime ウォレット内）、**Hashnote USYC**（~$1B ピーク、2024-12 Circle に買収）、**Superstate USTB**（~$150M）、Centrifuge / Backed 等 ^[extracted]
 - **2024-12 Circle が Hashnote を買収**（~$200M+ 現金 + 株式）→ USYC が Circle 製品ラインへ統合 → 2025-Q1 に **USDC.YS** をローンチ（USDC + yield、USYC が yield エンジン）^[extracted]
-- WisdomTree Prime：WisdomTree 自営のリテールトークン化資産ウォレット + brokerage、SEC 規制下で WTGXX のオンチェーン share を提供 ^[extracted]
+- WisdomTree Prime：WisdomTree 自営のリテールトークン化資産ウォレット + 証券仲介、SEC 規制下で WTGXX のオンチェーン share を提供 ^[extracted]
 - Moody's Aaa-mf 格付：BUIDL + FYHXX（Fidelity）が同日（2026-05-13）に付与 · WTGXX / USYC / FOBXX の格付経路は異なる ^[extracted]
 - 規制経路：BUIDL = Reg D 506(c) プライベート、WTGXX = 2a-7 登録公募（リテール購入可）、USYC = Reg D プライベート（機関）^[extracted]
 
-## 仕組み / 作動メカニズム
-
-第二梯団トークン化 MMF のコア差別化 = **BUIDL が既に占領した「機関 + プライベート + Reg D」メイン戦場を回避し、リテール / チェーンネイティブ / yield-bearing-stablecoin 等の差別化経路を辿る**：
+## 仕組み / 作動メカニズム第二梯団トークン化 MMF のコア差別化 = **BUIDL が既に占領した「機関 + プライベート + Reg D」メイン戦場を回避し、リテール / チェーンネイティブ / yield-bearing-stablecoin 等の差別化経路を辿る**：
 
 | 方案 | 発行体 | 規制経路 | 主要配信 | 差別化 |
 |---|---|---|---|---|
-| BUIDL | BlackRock + Securitize | Reg D 506(c) プライベート | 機関 + SC issuer 準備金 | 主導、「yield インフラ」 |
+| BUIDL | BlackRock + Securitize | Reg D 506(c) プライベート | 機関 + SC 発行会社準備金 | 主導、「yield インフラ」 |
 | BENJI / FOBXX | Franklin Templeton | 2a-7 登録公募 | Franklin Prime ウォレット + Coinbase | リテール親和的、マルチチェーン命名 |
 | ONDO OUSG | Ondo Finance | Reg D | クリプトネイティブ機関投資家 | DeFi 統合が深い |
-| **WTGXX** | WisdomTree | 2a-7 登録公募 | WisdomTree Prime ウォレット | リテールフレンドリー + brokerage 一体 |
+| **WTGXX** | WisdomTree | 2a-7 登録公募 | WisdomTree Prime ウォレット | リテールフレンドリー + 証券仲介一体 |
 | **USYC** | Hashnote → Circle（2024-12）| Reg D | USDC yield 製品に統合 | 直接「USDC + yield」統合を実現 |
 | Superstate USTB | Superstate | Reg D | クリプトネイティブ機関投資家 | 初期段階 |
 
@@ -53,7 +52,7 @@ USDC.YS（2025-Q1 ローンチ）= USDC + USYC yield の製品パッケージ、
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|fintech index]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer adoption]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社 adoption]]
 - [[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton BENJI]]
 - [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]
 - [[fintech/ondo-finance-rusdy-adoption|Ondo Finance OUSG/RUSDY]]

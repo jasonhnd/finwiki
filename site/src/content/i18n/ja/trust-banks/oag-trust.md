@@ -2,17 +2,18 @@
 source: trust-banks/oag-trust
 source_hash: 4fb50db746ead816
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "OAG信託"
-translated_at: 2026-06-02T15:14:17.084Z
+translated_at: 2026-06-26T08:32:30.861Z
 ---
 
 # OAG信託
 
 ## ウィキ上の位置づけ
 
-OAG信託は、[[trust-banks/INDEX|trust-banks INDEX]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]]と併せて参照する。
+OAG信託は、[[trust-banks/INDEX|trust-banks INDEX]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]]と併せて参照する。
 
 資金保全信託、倒産隔離、コンサルティンググループ内の信託サービス、前払サービスや取引資金の保全を扱う質問で使うページである。
 

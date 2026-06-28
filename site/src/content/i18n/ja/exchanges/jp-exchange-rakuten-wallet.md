@@ -2,34 +2,33 @@
 source: exchanges/jp-exchange-rakuten-wallet
 source_hash: ad7adca32cca9b49
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天ウォレット株式会社 — 日本暗号資産交換業者 overview"
-translated_at: 2026-06-18T23:33:48.314Z
+translated_at: 2026-06-26T08:29:25.279Z
 ---
 
 # 楽天ウォレット株式会社 — 日本暗号資産交換業者 overview
 
 
-## Wiki 経路
+## Wiki 経路本エントリは [[exchanges/INDEX|exchanges index]] の下に位置する。隣接する文脈については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] と、より広範なシステム境界については [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と併せて読むこと。
 
-本エントリは [[exchanges/INDEX|exchanges index]] の下に位置する。隣接する文脈については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] と、より広範なシステム境界については [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と併せて読むこと。
-
-> FSA 登録番号 関東財務局 第00015号 · JVCEA 会員 #1018 · 登録日 2019-03-25
+> FSA 登録番号関東財務局第00015号 · JVCEA 会員 #1018 · 登録日 2019-03-25
 
 ## 1. 法人・株主
 
-- **商号**: 楽天ウォレット株式会社（英文: Rakuten Wallet, Inc.）
+- **商号**: 楽天ウォレット株式会社（英文: Rakuten ウォレット, Inc.）
 - **設立年月日**: 2016年12月15日（旧商号: みんなのビットコイン株式会社）
-- **本店所在地**: 〒107-0062 東京都港区南青山二丁目6番21号 楽天クリムゾンハウス青山
+- **本店所在地**: 〒107-0062 東京都港区南青山二丁目6番21号楽天クリムゾンハウス青山
 - **資本金**: 1,850百万円（18.5億円）
 - **親会社**: 楽天証券ホールディングス株式会社（100%保有）。楽天証券ホールディングスは楽天グループ株式会社（東証プライム 4755）の傘下。
 - **法人番号**: 7010401128837
-- **代表取締役社長**: 山田 達也
+- **代表取締役社長**: 山田達也
 
 ## 2. ライセンス・登録状況
 
-- **暗号資産交換業**: 関東財務局長 第00015号（登録完了 2019年3月25日）
+- **暗号資産交換業**: 関東財務局長第00015号（登録完了 2019年3月25日）
 - **電子決済手段等取引業**: 関東財務局長（電代）第48号
 - **金融商品取引業（第一種）**: 関東財務局長（金商）第3190号（2020年5月登録完了）
 - **JVCEA 会員種類**: 第一種、会員番号 1018。暗号資産交換業・暗号資産デリバティブ取引の両資格を保持。
@@ -98,7 +97,7 @@ translated_at: 2026-06-18T23:33:48.314Z
 
 ## 8. 関連人物
 
-- **山田 達也**: 代表取締役社長（公表情報）
+- **山田達也**: 代表取締役社長（公表情報）
 - **旧来の出発点**: トレイダーズホールディングス（FX系企業グループ）が原法人を設立したが、2018年10月に楽天グループへ完全移行。創業者・設立当時の役員の詳細は公表資料に記載なし。
 
 ## 関連
@@ -108,8 +107,8 @@ translated_at: 2026-06-18T23:33:48.314Z
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[fintech/japan-bittrade-listing-process]] — 上場プロセス一般論
 - [[exchanges/jp-exchange-gmo-coin]] — 同業 GMO コイン overview
-- [[exchanges/jp-exchange-mercoin]] — 同業 メルコイン overview
-- [[exchanges/jp-exchange-binance-japan]] — 同業 バイナンスジャパン overview
+- [[exchanges/jp-exchange-mercoin]] — 同業メルコイン overview
+- [[exchanges/jp-exchange-binance-japan]] — 同業バイナンスジャパン overview
 - [[payment-firms/rakuten-fg]] — 楽天グループ親会社プロファイル
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX ポイント経済統合
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ

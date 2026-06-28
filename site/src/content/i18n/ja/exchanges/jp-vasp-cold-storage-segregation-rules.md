@@ -2,10 +2,11 @@
 source: exchanges/jp-vasp-cold-storage-segregation-rules
 source_hash: ed27b3af44e721bf
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内 VASP コールド保管 95% + 分別管理制度"
-translated_at: 2026-06-02T12:19:04.217Z
+translated_at: 2026-06-26T08:29:25.280Z
 ---
 # 国内 VASP コールド保管 95% + 分別管理制度
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-02T12:19:04.217Z
 
 この項目は [[exchanges/INDEX|exchanges index]] に属する。隣接・対比対象として [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]]、より広い制度・規制境界として [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と併読する。
 
-## 制度概要
-
-改正資金決済法施行規則（2020-05 施行）により、顧客から預託された暗号資産の **95% 以上をコールドウォレット（オフライン環境）で保管する義務**が国内 VASP に課された。残り 5% 以下のみがホット運用許容（出金原資・流動性確保用）。直接のトリガーは [[exchanges/jp-vasp-incident-history]] の 2018-01 Coincheck NEM 580 億円流出事件。事件当時 NEM 全量がホット保管下にあった反省から、業界全体への規制反射として導入された。違反は業務改善命令の根拠となる（[[exchanges/fsa-business-improvement-orders-history]] 参照）。
+## 制度概要改正資金決済法施行規則（2020-05 施行）により、顧客から預託された暗号資産の **95% 以上をコールドウォレット（オフライン環境）で保管する義務**が国内 VASP に課された。残り 5% 以下のみがホット運用許容（出金原資・流動性確保用）。直接のトリガーは [[exchanges/jp-vasp-incident-history]] の 2018-01 Coincheck NEM 580 億円流出事件。事件当時 NEM 全量がホット保管下にあった反省から、業界全体への規制反射として導入された。違反は業務改善命令の根拠となる（[[exchanges/fsa-business-improvement-orders-history]] 参照）。
 
 ## コールド/ホットの定義と例外
 
@@ -36,8 +35,6 @@ translated_at: 2026-06-02T12:19:04.217Z
 
 ## グローバル比較
 
-- 米国 NYDFS BitLicense: 信託銀行 segregation 義務、Trust Charter 取得型カストディアン台頭（Coinbase Custody Trust 等）
+- 米国 NYDFS BitLicense: 信託銀行 segregation 義務、Trust Charter 取得型カストディアン台頭（Coinbase カストディ Trust 等）
 - 香港 SFC Type 1 + VASP ライセンス: 顧客資産との混蔵（Co-Mingling）禁止、独立 Trust Company 経由必須
-- EU MiCA CASP（2024 施行）: 顧客資産の完全分別保管義務、第三者カストディアン許容
-
-参考: [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]] · [[exchanges/jp-institutional-custody-three-pillars]] · [[exchanges/global-vasp-regulatory-comparison-matrix]] · [[exchanges/coincheck-nem-hack-detailed-analysis]] · [[exchanges/cex-matching-engine-wallet-architecture]]
+- EU MiCA CASP（2024 施行）: 顧客資産の完全分別保管義務、第三者カストディアン許容参考: [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]] · [[exchanges/jp-institutional-custody-three-pillars]] · [[exchanges/global-vasp-regulatory-comparison-matrix]] · [[exchanges/coincheck-nem-hack-detailed-analysis]] · [[exchanges/cex-matching-engine-wallet-architecture]]

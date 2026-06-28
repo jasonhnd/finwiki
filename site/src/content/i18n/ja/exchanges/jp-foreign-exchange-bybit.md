@@ -2,10 +2,11 @@
 source: exchanges/jp-foreign-exchange-bybit
 source_hash: 3e95bc4be4b124ee
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Bybit — 海外無登録暗号資産交換所（日本FSA警告3回）"
-translated_at: 2026-06-02T12:19:04.230Z
+translated_at: 2026-06-26T08:29:25.280Z
 ---
 
 # Bybit — 海外無登録暗号資産交換所（日本FSA警告3回）
@@ -72,7 +73,7 @@ translated_at: 2026-06-02T12:19:04.230Z
 | 2023-11 | FTX 破産財団が Bybit の投資部門 Mirana を対象に約10億ドルの訴訟を提起。FTX 破綻前夜に Mirana が優先的に資産を引き出したとする主張 |
 | 2024-10 | Bybit が FTX との訴訟を2億2,800万ドルの支払いで和解 |
 | 2024-11-28 | **FSA 第3回警告**：金融庁が KuCoin・bitcastle・Bybit Fintech Limited（所在地: ドバイ）・MEXC Global・Bitget の5社に同時警告書発出。Bybit は通算3回目の警告 |
-| 2025-02 | **約15億ドル規模のハック（史上最大）**：2025年2月21日、Bybit のマルチシグウォレットが攻撃される。約40万枚の ETH（当時約1.4〜1.5億ドル相当）が流出し、暗号資産取引所史上最大の被害額を記録。攻撃者はサードパーティ提供の Safe{Wallet} インフラを悪用。Arkham Intelligence・Elliptic・米国 FBI が北朝鮮系ハッカー集団「Lazarus Group / TraderTraitor」の関与と結論。Bybit は72時間以内に Galaxy Digital・FalconX・Wintermute 等から約44.7万枚の ETH を確保し準備金を回復 |
+| 2025-02 | **約15億ドル規模のハック（史上最大）**：2025年2月21日、Bybit のマルチシグウォレットが攻撃される。約40万枚の ETH（当時約1.4〜1.5億ドル相当）が流出し、暗号資産取引所史上最大の被害額を記録。攻撃者はサードパーティ提供の Safe{ウォレット} インフラを悪用。Arkham Intelligence・Elliptic・米国 FBI が北朝鮮系ハッカー集団「Lazarus Group / TraderTraitor」の関与と結論。Bybit は72時間以内に Galaxy Digital・FalconX・Wintermute 等から約44.7万枚の ETH を確保し準備金を回復 |
 | 2025-02 | インド FIU-IND 登録完了・罰則金支払い（Rs 9.27 クロール）|
 | 2025-02 | **日本の App Store・Google Play から削除**：金融庁の要請を受け、MEXC・Bybit・Bitfinex・KuCoin・Bitget の各アプリが日本の Apple App Store および Google Play から削除・検索不可に |
 | 2025-10-31 | **日本居住者の新規登録を停止**：Bybit が2025年10月31日をもって日本居住者の新規アカウント開設を受付停止 |
@@ -99,7 +100,7 @@ translated_at: 2026-06-02T12:19:04.230Z
 - [[exchanges/jp-exchange-binance-japan]] — Binance の日本法人化・正規登録事例（Bybit との構造対比）
 - [[exchanges/bybit-lazarus-hack-detailed-analysis]] — Bybit Lazarus ハック詳細分析
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
-- [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス 概要（Bybit 本拠地）
+- [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス概要（Bybit 本拠地）
 - [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
 
 ## 出典

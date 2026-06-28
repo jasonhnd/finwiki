@@ -2,10 +2,11 @@
 source: exchanges/global-perp-dex-five-comparison
 source_hash: 0bb1a73221c75439
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "グローバル Perp DEX 主要 5 社比較"
-translated_at: 2026-06-02T12:19:04.213Z
+translated_at: 2026-06-26T08:29:25.273Z
 ---
 # グローバル Perp DEX 主要 5 社比較
 
@@ -36,4 +37,4 @@ Perp（Perpetual Futures）DEX は、CEX 派生取引（Binance / Bybit / OKX）
 | Vertex | Arbitrum | CLOB+AMM ハイブリッド | VRTX | $0.1-0.4B |
 | Drift | Solana | oracle+AMM | DRIFT | $0.1-0.3B |
 
-設計上の trade-off として、CLOB は注文タイプの多様性（limit / stop / IOC）+ MEV resistance + 価格発見精度で優れる一方、開発複雑度と performance 要求が高い。AMM/oracle pricing は LP リスク（毒注文 toxic flow）+ slippage + oracle 操作脆弱性を抱える反面、流動性ブートストラップが単純である。規制位置はいずれの protocol も米国アクセス遮断が進行している（Hyperliquid 含む）。日本では未上場 token として FSA 警告書発出の対象外だが、JVCEA WhiteList ([[exchanges/jvcea-whitelist-token-listing]]) に載っていないため国内取引所では非取扱。chain native DEX が先行 incumbent を flip する pattern は ([[exchanges/native-dex-flip-incumbent-pattern]]) を参照。取引高は市場変動が大きく、表中の数値は 2025-2026 時点の概算範囲で参考値。Solana 系の Drift は [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] でも詳述し、cross-chain 接続性は [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge × CEX 入出金]] を併読。
+設計上の trade-off として、CLOB は注文タイプの多様性（limit / stop / IOC）+ MEV resistance + 価格発見精度で優れる一方、開発複雑度と performance 要求が高い。AMM/oracle pricing は LP リスク（毒注文 toxic flow）+ slippage + oracle 操作脆弱性を抱える反面、流動性ブートストラップが単純である。規制位置はいずれの protocol も米国アクセス遮断が進行している（Hyperliquid 含む）。日本では未上場 token として FSA 警告書発出の対象外だが、JVCEA WhiteList ([[exchanges/jvcea-whitelist-token-listing]]) に載っていないため国内取引所では非取扱。chain native DEX が先行 incumbent を flip する pattern は ([[exchanges/native-dex-flip-incumbent-pattern]]) を参照。取引高は市場変動が大きく、表中の数値は 2025-2026 時点の概算範囲で参考値。Solana 系の Drift は [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX comparison]] でも詳述し、cross-chain 接続性は [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge × CEX 入出金]] を併読。

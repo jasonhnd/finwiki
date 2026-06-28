@@ -2,16 +2,16 @@
 source: financial-regulators/fsa-planning-coordination-bureau
 source_hash: 77a559cfe879fc20
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "企画市場局 (FSA Planning and Coordination Bureau)"
-translated_at: 2026-06-18T23:59:13.049Z
+translated_at: 2026-06-26T08:32:15.222Z
 ---
 
 # 企画市場局 (FSA Planning and Coordination Bureau)
 
-## ウィキ動線
-本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。監督側の対となる [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]、および省庁横断の戦略レーンである [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] と対比して読むこと。市場ルールの文脈については、[[financial-regulators/jsda|JSDA]] および [[financial-licenses/INDEX|legal / financial licenses]] インデックスを起点に参照する。日銀側のプルーデンス部局との対比については [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を参照。
+## ウィキ動線本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。監督側の対となる [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]、および省庁横断の戦略レーンである [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] と対比して読むこと。市場ルールの文脈については、[[financial-regulators/jsda|JSDA]] および [[financial-licenses/INDEX|legal / financial licenses]] インデックスを起点に参照する。日銀側のプルーデンス部局との対比については [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を参照。
 
 ## TL;DR
 
@@ -19,9 +19,7 @@ translated_at: 2026-06-18T23:59:13.049Z
 
 JapanFG においては、金融庁の立法、金商法改正、スチュワードシップ・コード / コーポレートガバナンス・コードの改訂、開示規制の更新、または証券市場の構造政策業務をページで参照する必要があるときには、本部局が適切な起点となる。
 
-## 1. 機能・所掌範囲
-
-金融庁の英文組織図は、企画市場局を次の事項を所管する部局として位置付けている。
+## 1. 機能・所掌範囲金融庁の英文組織図は、企画市場局を次の事項を所管する部局として位置付けている。
 
 - 金融システムの企画：銀行法、金融商品取引法（金商法）、保険業法、信託業法、資金決済法、貸金業法の改正の起草および立案。
 - 証券市場政策：市場構造、市場行為、PTS 規制、取引所監督政策、取引所外および店頭市場のルール、ならびに立法設計レベルでの暗号資産 / ステーブルコイン政策（登録の実務は [[financial-regulators/fsa-supervision-bureau|監督局]] を通じて運用される — [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]] を参照）。
@@ -31,9 +29,7 @@ JapanFG においては、金融庁の立法、金商法改正、スチュワー
 
 本部局は金融庁内部における立法の重心である。名指しの企業に対して業務改善命令を発出することはない — それは監督局の役割である。
 
-## 2. カウンターパーティ・相互作用
-
-カウンターパーティとの相互作用は、企業監督よりも政策 / 起草 / 基準設定の業務が支配的である。
+## 2. カウンターパーティ・相互作用カウンターパーティとの相互作用は、企業監督よりも政策 / 起草 / 基準設定の業務が支配的である。
 
 - **国会および内閣法制局**：金融セクター法に関する立法起草および政府提出法案の調整。
 - **業界団体および自主規制機関**：[[financial-regulators/jsda|JSDA]]（証券会社）、日本投資顧問業協会、投資信託協会、生命保険協会、日本損害保険協会、全国銀行協会。
@@ -56,7 +52,7 @@ JapanFG においては、金融庁の立法、金商法改正、スチュワー
 - [[financial-regulators/jsda|JSDA]]
 - [[financial-licenses/INDEX|legal / financial licenses]]
 - [[financial-licenses/securities-license-stack|Securities license stack]]
-- [[financial-licenses/insurance-license-and-solvency|Insurance license and solvency]]
+- [[financial-licenses/insurance-license-and-solvency|Insurance license and ソルベンシー]]
 - [[banking/INDEX|Banking landscape]]
 - [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 

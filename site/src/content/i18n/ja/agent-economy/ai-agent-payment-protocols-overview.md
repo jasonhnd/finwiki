@@ -2,10 +2,11 @@
 source: agent-economy/ai-agent-payment-protocols-overview
 source_hash: 303898c53e142856
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰"
-translated_at: 2026-06-02T11:47:37.320Z
+translated_at: 2026-06-26T08:29:25.255Z
 ---
 
 # AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰
@@ -24,7 +25,7 @@ translated_at: 2026-06-02T11:47:37.320Z
 
 ## 仕組み / 動作原理
 
-7プロトコルは階層ごとに分業する。**意図層**(ユーザーが「X 円で Y を買いたい」と表明する)は AP2 / SPT / ACP が mandate の3層信頼チェーン(Intent → Cart → Payment)を処理し、VC + DPK 署名で固定化する。**伝送層**(実際の送金)は x402 が HTTP 402 Payment Required ヘッダを復活させ、per-call の USDC マイクロペイメントを実現、Lite 版は既に Cloudflare Agents / Vercel AI SDK に着地している。**文脈層**(LLM がどのようにツールを呼び出すか)は MCP が LLM ↔ tools / data sources のインタフェースを標準化し、A2A が agent 間通信を扱う。3層は補完関係にあり排他ではない。完成された agent 決済フローは通常 AP2(意図)+ x402(伝送)+ MCP(文脈)を同時に呼び出す。下層は [[systems/erc-4337-overview|ERC-4337 アカウント抽象化]] と [[systems/erc-7702-overview|ERC-7702 EOA アップグレード]] に依存し、プログラマブルな wallet 能力を提供する。
+7プロトコルは階層ごとに分業する。**意図層**(ユーザーが「X 円で Y を買いたい」と表明する)は AP2 / SPT / ACP が mandate の3層信頼チェーン(Intent → Cart → Payment)を処理し、VC + DPK 署名で固定化する。**伝送層**(実際の送金)は x402 が HTTP 402 Payment Required ヘッダを復活させ、per-call の USDC マイクロペイメントを実現、Lite 版は既に Cloudflare Agents / Vercel AI SDK に着地している。**文脈層**(LLM がどのようにツールを呼び出すか)は MCP が LLM ↔ tools / data sources のインタフェースを標準化し、A2A が agent 間通信を扱う。3層は補完関係にあり排他ではない。完成された agent 決済フローは通常 AP2(意図)+ x402(伝送)+ MCP(文脈)を同時に呼び出す。下層は [[systems/erc-4337-overview|ERC-4337 アカウント抽象化]] と [[systems/erc-7702-overview|ERC-7702 EOA アップグレード]] に依存し、プログラマブルな ウォレット能力を提供する。
 
 ## 起源と進化
 

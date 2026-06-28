@@ -2,10 +2,11 @@
 source: non-life-insurers/rakuten-general-insurance
 source_hash: 8a1c26c5ddc73181
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天損害保険"
-translated_at: 2026-06-19T06:09:18.132Z
+translated_at: 2026-06-26T08:32:07.559Z
 ---
 
 # 楽天損害保険
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.132Z
 
 ## TL;DR
 
-楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem の損害保険事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される免許保険会社で、楽天カード・楽天銀行・楽天生命・楽天ポイントの経済圏と接続しうる。
+楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten insurance 経済圏 の損害保険事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される免許保険会社で、楽天カード・楽天銀行・楽天生命・楽天ポイントの経済圏と接続しうる。
 
 ## 1. License / group boundary
 
@@ -24,9 +25,9 @@ translated_at: 2026-06-19T06:09:18.132Z
 |---|---|
 | Legal name | 楽天損害保険株式会社 |
 | English name | Rakuten General Insurance Co., Ltd. |
-| License route | 保険業法 損害保険会社；金融庁 損害保険会社免許一覧 |
-| Protection scheme | 損害保険契約者保護機構 会員 |
-| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
+| License route | 保険業法損害保険会社；金融庁損害保険会社免許一覧 |
+| Protection scheme | 損害保険契約者保護機構会員 |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance 経済圏 |
 
 ## 2. Operating model
 

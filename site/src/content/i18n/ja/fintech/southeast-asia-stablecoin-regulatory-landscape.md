@@ -2,10 +2,11 @@
 source: fintech/southeast-asia-stablecoin-regulatory-landscape
 source_hash: fd1ba5cf9c764e99
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "東南アジアのステーブルコイン規制ランドスケープ 2026"
-translated_at: 2026-06-02T13:21:55.066Z
+translated_at: 2026-06-26T08:29:33.010Z
 ---
 # 東南アジアのステーブルコイン規制ランドスケープ 2026
 
@@ -16,7 +17,7 @@ translated_at: 2026-06-02T13:21:55.066Z
 この項目は [[fintech/INDEX|fintech index]] の配下にあり、ASEAN + 香港のステーブルコイン政策を地域別に案内する入口である。MAS と HKMA を世界地図に位置づける 5 極グローバル・マトリクス [[fintech/global-stablecoin-regulatory-five-pole-matrix]]、規制地図の下で利用者が実際に行うことを説明する新興国ドル化の反対パターン [[fintech/em-market-crypto-dollarization-pattern]] とあわせて読む。法域別の深掘りは [[fintech/singapore-mas-payment-services-act-overview]] と [[fintech/hkma-stablecoin-licensing-overview]] であり、この項目はタイ、インドネシア、フィリピン、ベトナム、マレーシアをそれらと並べる**地図ビュー**である。
 
 > [!info] 要約
-> 2026-05, までに、東南アジアのステーブルコイン規制は**3 つの階層**に分かれた。(1) **ライセンス済み発行制度** — シンガポール MAS SCS（2023-08から稼働）と香港 HKMA Stablecoin Ordinance（2025-08, から稼働、最初の 2 ライセンスは 2026-05-21）。(2) **パイロット／サンドボックス制度** — タイ SEC + BoT のステーブルコイン・サンドボックス（Programmable Payment 経由の THB ペッグ）、マレーシア BNM Discussion Paper 2026, 、フィリピン BSP Project Agila サンドボックス。(3) **禁止またはグレー** — ベトナム SBV の暗号資産禁止、インドネシア OJK/BI の二重規制境界。ルピア連動 SC はまだライセンスされず、USDT は PMA ライセンス取引所と大規模な P2P / OTC 量を通じて流れる。構造的パターンは、**すべての ASEAN 中央銀行が CBDC を望み**、**多くが自国通貨ステーブルコイン・レールを望み**、**どこも USD ステーブルコインのリテール流通を望まない**というものだ。ただし執行能力は地域内で桁違いに異なる。
+> 2026-05, までに、東南アジアのステーブルコイン規制は**3 つの階層**に分かれた。(1) **ライセンス済み発行制度** — シンガポール MAS SCS（2023-08から稼働）と香港 HKMA Stablecoin Ordinance（2025-08, から稼働、最初の 2 ライセンスは 2026-05-21）。(2) **パイロット／サンドボックス制度** — タイ SEC + BoT のステーブルコイン・サンドボックス（Programmable Payment 経由の THB ペッグ）、マレーシア BNM Discussion Paper 2026,、フィリピン BSP Project Agila サンドボックス。(3) **禁止またはグレー** — ベトナム SBV の暗号資産禁止、インドネシア OJK/BI の二重規制境界。ルピア連動 SC はまだライセンスされず、USDT は PMA ライセンス取引所と大規模な P2P / OTC 量を通じて流れる。構造的パターンは、**すべての ASEAN 中央銀行が CBDC を望み**、**多くが自国通貨ステーブルコイン・レールを望み**、**どこも USD ステーブルコインのリテール流通を望まない**というものだ。ただし執行能力は地域内で桁違いに異なる。
 
 ## 地域地図が重要な理由
 
@@ -45,7 +46,7 @@ US GENIUS、EU MiCA、日本 EPI の下で発行された USD ペッグ・ステ
 - **準備資産**: HKD / USD 短期国債、中央銀行準備、分別銀行預金で 100%。日次 mark-to-market。FRTB 資本取扱いは [[fintech/hk-frtb-stablecoin-reserve-overview]] に基づく。
 - **資本下限**: 払込 HK$25M に加え、発行済み SC 価値の継続的な ≥2%。
 - **第 1 陣決定 2026-05-21**: HSBC と Standard Chartered の「Anchorpoint」コンソーシアムが承認。その他 7 申請者（JD-HKD、Ant International、BOCHK、ZA Bank、Conflux、Tether、RD Technologies）は延期または pending。
-- **クロスボーダー**: §501(d) の第 3 波候補（最速で 2027-H2 ）。e-CNY との境界線と OFAC SDN 調整が条件。
+- **クロスボーダー**: §501(d) の第 3 波候補（最速で 2027-H2）。e-CNY との境界線と OFAC SDN 調整が条件。
 
 HK 制度は、Mainland China 関連発行体を現実的に載せ得る**唯一の ASEAN 隣接ルート**である。そのため JD、Ant International、BOCHK が申請した。Tether の HK 申請をめぐる戦略的非対称性は [[fintech/hkma-stablecoin-licensing-implications]]、より広いパターンは [[fintech/gray-market-dollar-network-formalization]] に詳しい。
 
@@ -77,7 +78,7 @@ HK 制度は、Mainland China 関連発行体を現実的に載せ得る**唯一
 - **主管規制当局**: 通貨／決済境界は Bank Negara Malaysia（BNM）、デジタル資産取引は Securities Commission Malaysia。
 - **国内 SC ステータス**: リンギット・ペッグのステーブルコイン発行は**まだライセンス可能ではない**。BNM は 2026 初めに Stablecoins に関する Discussion Paper を公表し、MAS SCS 構造（100% 準備、単一通貨ペッグ、専用発行体ライセンス）をモデルにした将来のライセンス枠組みを示した。協議は 2026半ばに終了。
 - **DuitNow / CBDC**: BNM は BIS Innovation Hub 参加を通じてホールセール CBDC 能力の開発を続けている。リテール CBDC は BNM 総裁発言 2024-2025 によれば「現段階では不要」のままである。
-- **ライセンス済み取引所**: SC Malaysia の recognized market operator regime の下で Luno Malaysia、SINEGY、MX Global、Tokenize Xchange。
+- **ライセンス済み取引所**: SC Malaysia の recognized market 事業者 regime の下で Luno Malaysia、SINEGY、MX Global、Tokenize Xchange。
 - **クロスボーダー MYR-SGD**: BNM-MAS DuitNow-PayNow 連携（2023-04稼働）は、将来の MYR/SGD ステーブルコイン・ペアと素のコストで競合する即時決済コリドーを形成する。
 
 ### フィリピン · BSP Project Agila + 電子マネー + 仮想通貨
@@ -91,7 +92,7 @@ HK 制度は、Mainland China 関連発行体を現実的に載せ得る**唯一
 ### ベトナム · SBV の暗号資産禁止 + 事実上の USDT 経済
 
 - **主管規制当局**: ベトナム国家銀行（SBV）。
-- **法的位置づけ**: 暗号資産は SBV Directive 02/CT-NHNN（2018, 、2026時点でなお有効）の下で**法定通貨として認められず**、**支払手段としても許可されない**。暗号資産を支払手段として発行・流通・使用すると行政罰の対象になる。
+- **法的位置づけ**: 暗号資産は SBV Directive 02/CT-NHNN（2018,、2026時点でなお有効）の下で**法定通貨として認められず**、**支払手段としても許可されない**。暗号資産を支払手段として発行・流通・使用すると行政罰の対象になる。
 - **迂回経路**: ベトナムはリテール暗号資産採用で継続的に**世界トップ 3**に入る（Chainalysis Global Crypto Adoption Index 2023, 2024, 2025）。背景には、USDT P2P 送金、ゲームトークン収益（Sky Mavis Axie Infinity の系譜と新規プロジェクト）、加盟店側で表立って広告せずに受け入れるステーブルコイン決済がある。
 - **保留中の規制**: Digital Asset Management に関する政令案は 2023以降、省庁間で回覧されている。報道された複数の最終化期限（2024, 2025, 2026）はいずれも後ろ倒しになった。想定される形はステーブルコイン発行ライセンスではなく、**認可仮想資産事業**の枠組みである。
 - **実務上の含意**: リテール・レールでは USDT-Tron と USDT-TON が支配的である。ここでの Tether のグレーマーケット優位は、[[fintech/em-market-crypto-dollarization-pattern]] に記録されたパターンそのものだ。

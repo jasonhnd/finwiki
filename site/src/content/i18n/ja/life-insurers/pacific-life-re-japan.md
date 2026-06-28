@@ -2,10 +2,11 @@
 source: life-insurers/pacific-life-re-japan
 source_hash: f067f0a6354af0d5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン"
-translated_at: 2026-06-15T03:48:21.818Z
+translated_at: 2026-06-26T08:31:59.855Z
 ---
 
 # Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
@@ -22,14 +23,14 @@ Pacific Life Re は、**Pacific Life Insurance Company** (Pacific Life)——186
 
 | Item | Notes |
 |---|---|
-| Legal name | Pacific Life Re Japan operating entity (per FSA registration; branch / regional underwriting structure) |
+| Legal name | Pacific Life Re Japan operating entity (per FSA registration; branch / regional 引受 structure) |
 | English / brand | Pacific Life Re / PL Re |
 | License route | FSA life insurer / reinsurer registration |
 | Industry body | Life Insurance Association of Japan participation as applicable to reinsurer |
 | Wiki role | Foreign-affiliated Japan life / health reinsurance entity |
 | Parent / structure | Pacific Life Insurance Company (mutual, USA) → Pacific Life Re Limited and global subsidiaries |
 
-License route の詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に属する。
+License route の詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に属する。
 
 ## 2. Operating model
 

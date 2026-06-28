@@ -2,10 +2,11 @@
 source: fintech/dora-eu-digital-operational-resilience-overview
 source_hash: 0da23cb12232d763
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "DORA · EU Digital Operational Resilience Act 概観"
-translated_at: 2026-06-02T13:21:55.047Z
+translated_at: 2026-06-26T08:29:09.712Z
 ---
 # DORA · EU Digital Operational Resilience Act 概観
 
@@ -14,7 +15,7 @@ translated_at: 2026-06-02T13:21:55.047Z
 この項目は [[fintech/INDEX|fintech index]] の下に位置づけられる。隣接文脈として [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
 > [!info] 要約
-> DORA(Regulation (EU) 2022/2554)は 2025-01-17 に全面施行され、EU 全ての金融機関 + その critical ICT 第三者サプライヤー(cloud / wallet provider / blockchain infrastructure を含む)に 5 本柱の要件を課す:ICT risk management / incident reporting / digital operational resilience testing / third-party risk / information sharing。MiCA と相まって「業務 + レジリエンス」二軌監督を形成する。
+> DORA(Regulation (EU) 2022/2554)は 2025-01-17 に全面施行され、EU 全ての金融機関 + その critical ICT 第三者サプライヤー(cloud / ウォレット provider / blockchain infrastructure を含む)に 5 本柱の要件を課す:ICT risk management / incident reporting / digital operational resilience testing / third-party risk / information sharing。MiCA と相まって「業務 + レジリエンス」二軌監督を形成する。
 
 ## 主要事実
 
@@ -33,7 +34,7 @@ translated_at: 2026-06-02T13:21:55.047Z
 - **ICT Risk Management (Art. 5-16)**:ガバナンスフレーム · CEO / Board に直接責任 · 資産 inventory + リスク評価 · Business Continuity Plan + Disaster Recovery
 - **ICT-関連項目 Incident Reporting (Art. 17-23)**:Major incident は 4 時間以内に初報 + 72 時間以内に詳報 · EU 共通テンプレート(ESAs 2024-07 RTS)
 - **Digital Operational Resilience Testing (Art. 24-27)**:3 年ごとに Threat-Led Penetration Testing (TLPT) · TIBER-EU フレームワークに基づく · クロスボーダー協調テスト
-- **ICT Third-Party Risk (Art. 28-44)**:Critical Third-Party Provider (CTPP) は ESAs が直接監督 · cloud / blockchain infra / wallet provider をカバー — 詳細は [[fintech/dora-eu-digital-operational-resilience-ctpp|DORA CTPP 第三者リスク]] を参照
+- **ICT Third-Party Risk (Art. 28-44)**:Critical Third-Party Provider (CTPP) は ESAs が直接監督 · cloud / blockchain infra / ウォレット provider をカバー — 詳細は [[fintech/dora-eu-digital-operational-resilience-ctpp|DORA CTPP 第三者リスク]] を参照
 - **Information Sharing (Art. 45)**:任意の脅威インテリジェンス共有 · US FS-ISAC に類似
 
 ## 起源と変遷

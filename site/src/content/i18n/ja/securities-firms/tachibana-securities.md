@@ -2,10 +2,11 @@
 source: securities-firms/tachibana-securities
 source_hash: f7dd212a3659602f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "立花証券 (Tachibana Securities)"
-translated_at: 2026-06-02T16:33:58.471Z
+translated_at: 2026-06-26T08:32:23.074Z
 ---
 # 立花証券 (Tachibana Securities)
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-02T16:33:58.471Z
 
 この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に置かれる。比較・対照の文脈では [[securities-firms/marusan-securities|丸三証券]] を、規制ライセンス層については [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] を、FIEA 上のライセンス境界については [[financial-licenses/securities-license-stack|securities license stack]] を参照する。
 
-## 要約
-
-立花証券は **1948 年創業の中堅独立証券会社**で、FSA 金融商品取引業者一覧では「立花証券株式会社」、関東財務局長(金商)第110号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**、非上場の独立系中堅証券として東京を本拠に対面リテール + 信用取引特化型のネット取引「立花証券ストックハウス」を運営する。中堅独立証券枠で同業他社 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) と並ぶポジションだが、**信用取引のアクティブトレーダー向けニッチ** に特化する点で差別化される。
+## 要約立花証券は **1948 年創業の中堅独立証券会社**で、FSA 金融商品取引業者一覧では「立花証券株式会社」、関東財務局長(金商)第110号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**、非上場の独立系中堅証券として東京を本拠に対面リテール + 信用取引特化型のネット取引「立花証券ストックハウス」を運営する。中堅独立証券枠で同業他社 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) と並ぶポジションだが、**信用取引のアクティブトレーダー向けニッチ** に特化する点で差別化される。
 
 ## 1. 法人・ライセンス境界
 
@@ -39,15 +38,13 @@ translated_at: 2026-06-02T16:33:58.471Z
 **本社**：東京都中央区
 **特徴**：持株会社化していない単一事業会社型。グループ内に銀行・保険を持たない**証券専業独立系**。
 
-### 業態の特徴
-
-立花証券は**非上場**の中堅独立証券で、信用取引特化のアクティブトレーダー向けオンライン取引サービス「**立花証券ストックハウス**」を運営する。**対面リテール + 信用取引特化型ネット取引**のハイブリッドモデルで、純粋ネット証券 ([[securities-firms/sbi-securities|SBI]] / [[securities-firms/rakuten-securities|楽天]] / [[securities-firms/monex-group|マネックス]] / [[securities-firms/matsui-sec|松井]]) とは異なる位置付け。
+### 業態の特徴立花証券は**非上場**の中堅独立証券で、信用取引特化のアクティブトレーダー向けオンライン取引サービス「**立花証券ストックハウス**」を運営する。**対面リテール + 信用取引特化型ネット取引**のハイブリッドモデルで、純粋ネット証券 ([[securities-firms/sbi-securities|SBI]] / [[securities-firms/rakuten-securities|楽天]] / [[securities-firms/monex-group|マネックス]] / [[securities-firms/matsui-sec|松井]]) とは異なる位置付け。
 
 ### 重要年表 (公開情報ベース)
 
 | 年月 | 事象 |
 |---|---|
-| **1948** | **立花証券株式会社 創業** (戦後復興期、東京) ^[extracted] |
+| **1948** | **立花証券株式会社創業** (戦後復興期、東京) ^[extracted] |
 
 ## 3. 事業セグメント・マップ
 
@@ -59,11 +56,9 @@ translated_at: 2026-06-02T16:33:58.471Z
 | 債券 | 個人向け国債等 | 限定的 |
 | オンライン取引 | ストックハウスを中心としたネット取引 | 信用特化型 |
 
-### 信用取引特化型ニッチ
+### 信用取引特化型ニッチ立花証券の差別化軸は **信用取引特化型ネット取引サービス「立花証券ストックハウス」**。デイトレーダー・アクティブトレーダー層を主要顧客とし、信用取引手数料・約定スピード・ツール機能で勝負する。これはネット証券大手 ([[securities-firms/sbi-securities|SBI]] / [[securities-firms/rakuten-securities|楽天]] / [[securities-firms/matsui-sec|松井]]) や、信用取引 1 日定額制を導入する松井証券と直接競合するニッチ。
 
-立花証券の差別化軸は **信用取引特化型ネット取引サービス「立花証券ストックハウス」**。デイトレーダー・アクティブトレーダー層を主要顧客とし、信用取引手数料・約定スピード・ツール機能で勝負する。これはネット証券大手 ([[securities-firms/sbi-securities|SBI]] / [[securities-firms/rakuten-securities|楽天]] / [[securities-firms/matsui-sec|松井]]) や、信用取引 1 日定額制を導入する松井証券と直接競合するニッチ。
-
-### 中堅独立証券枠でのポジション ([[securities/japan-online-brokerage-competition|japan-online-brokerage-competition]] 文脈)
+### 中堅独立証券枠でのポジション ([[securities/japan-online-brokerage-competition|japan-online-証券仲介-competition]] 文脈)
 
 - 対面リテール + ネット信用取引のハイブリッドで、純粋対面 ([[securities-firms/marusan-securities|丸三]] / [[securities-firms/aizawa-sg|アイザワ]]) や純粋ネット ([[securities-firms/matsui-sec|松井]] / [[securities-firms/monex-group|マネックス]]) と差別化
 - 非上場のため資本市場圧力を受けず、独自経営判断を維持

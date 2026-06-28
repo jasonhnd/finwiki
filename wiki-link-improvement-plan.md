@@ -71,7 +71,7 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `issue-111` | 1 | 0 | 46.0 |
+| `issue-113` | 1 | 0 | 46.0 |
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |

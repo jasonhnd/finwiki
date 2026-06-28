@@ -2,10 +2,11 @@
 source: real-estate-finance/glp-j-reit-3281
 source_hash: f16c305ae1eb3c2f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "GLP J-REIT (3281)"
-translated_at: 2026-06-19T12:43:19.958Z
+translated_at: 2026-06-26T08:29:40.683Z
 ---
 
 # GLP J-REIT (3281)
@@ -122,7 +123,7 @@ GLP J-REIT の特徴的な運営上の特性は **アクティブなアセット
 - [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/real-estate-cap-rate-compression-2026|real estate cap-rate compression 2026]]
-- [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
+- [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

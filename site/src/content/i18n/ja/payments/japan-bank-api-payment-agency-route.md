@@ -2,18 +2,17 @@
 source: payments/japan-bank-api-payment-agency-route
 source_hash: 69c0717ae1eba5c2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の銀行 API と電子決済等代行業ルート"
-translated_at: 2026-06-02T16:33:58.490Z
+translated_at: 2026-06-26T08:28:46.065Z
 ---
 # 日本の銀行 API と電子決済等代行業ルート
 
-## 概要
+## 概要日本の銀行 API / 電子決済等代行業ルートは、口座情報を取得したり、口座連動の指図を開始したり、顧客向けサービスを預金口座レールに接続したりする fintech アプリと銀行の間にある、法的・実務上の橋渡しである。銀行、資金移動業者、前払式支払手段発行者、カード加盟店契約会社、ウォレット運営者であることとは同じではない。
 
-日本の銀行 API / 電子決済等代行業ルートは、口座情報を取得したり、口座連動の指図を開始したり、顧客向けサービスを預金口座レールに接続したりする fintech アプリと銀行の間にある、法的・実務上の橋渡しである。銀行、資金移動業者、前払式支払手段発行者、カード加盟店契約会社、ウォレット運営者であることとは同じではない。
-
-このページは [[payments/INDEX|payments domain]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]] とあわせて使う。
+このページは [[payments/INDEX|payments domain]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]] とあわせて使う。
 
 ## ルートマップ
 
@@ -44,8 +43,8 @@ translated_at: 2026-06-02T16:33:58.490Z
 |---|---|---|
 | 口座集約 / PFM | アプリが利用者同意に基づいて銀行口座情報を取得しているか。 | 電子決済等代行業ルート + 銀行 API / 契約開示。 |
 | 銀行口座からの支払開始 | 誰が利用者の指図を受け、誰が銀行口座の移動を実行するか。 | 電子決済等代行業ルート、[[payments/account-to-account-payment-japan|A2A payment route]]、銀行ページ。 |
-| 銀行口座からのウォレットチャージ | 口座引落後にウォレット残高へ価値が移動するか。 | [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]。 |
-| 加盟店 QR 口座直接決済 | 加盟店決済が Bank Pay / 口座直接型か、ウォレット残高型か。 | [[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]。 |
+| 銀行口座からのウォレットチャージ | 口座引落後にウォレット残高へ価値が移動するか。 | [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]。 |
+| 加盟店 QR 口座直接決済 | 加盟店決済が Bank Pay / 口座直接型か、ウォレット残高型か。 | [[payments/merchant-bank-pay-account-direct-acquiring|加盟店 account-direct アクワイアリング]]。 |
 | 組込銀行口座 UX | 銀行口座をアプリ会社が持つのか、提携銀行が持つのか。 | [[banking/baas-japan-landscape|BaaS Japan landscape]]。 |
 | ステーブルコイン / EPI 取扱い | その手段が電子決済手段か暗号資産か。 | [[fintech/japan-ecisb-license|ECISB]] と [[fintech/japan-stablecoin-regulatory-landscape|stablecoin regulation]]。 |
 

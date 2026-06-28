@@ -2,10 +2,11 @@
 source: agent-economy/embedded-wallet-network-effects-moat
 source_hash: f1f459339a820e18
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀"
-translated_at: 2026-06-02T11:47:37.262Z
+translated_at: 2026-06-26T08:28:46.037Z
 ---
 
 # 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀
@@ -39,7 +40,7 @@ AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
 規制(GENIUS §501)フレンドリー(埋込ウォレットは USDC 残高を保有しない → 非 VASP)
 ```
 
-インテグレーターが増えるほど → ユーザーがクロス dApp で wallet を「follow me」できる → 新インテグレーターは同じ wallet を選ぶ傾向が強まる → フライホイールが始動する。
+インテグレーターが増えるほど → ユーザーがクロス dApp で ウォレット を「follow me」できる → 新インテグレーターは同じ ウォレット を選ぶ傾向が強まる → フライホイールが始動する。
 
 **従来の決済との類比**:
 
@@ -47,12 +48,12 @@ AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
 |---|---|
 | Stripe payments | バックエンド化 · インテグレーターはカード組織を理解する必要がない |
 | Plaid bank linking | ユーザー認可 · バックエンド集約 |
-| OAuth 2.0 | wallet = OAuth provider · dApp = OAuth consumer |
+| OAuth 2.0 | ウォレット = OAuth provider · dApp = OAuth consumer |
 | Twilio SMS | 下層インフラの複雑さを抽象化 |
 
-**Privy = "Stripe of Web3 wallets"** が 2024.Q4 以降 a16z / Sequoia の投資ロジックの核 · 2025-2026 に AWS AgentCore によって検証された。
+**Privy = "Stripe of Web3 ウォレット"** が 2024.Q4 以降 a16z / Sequoia の投資ロジックの核 · 2025-2026 に AWS AgentCore によって検証された。
 
-**§501 規制フレンドリーの鍵となる設計**:ユーザーの USDC / USDB 残高は **直接ユーザーのオンチェーン wallet**(Privy / CDP-derived address)に存在 · Privy / CDP 自体は **ユーザー残高を保有しない**(MPC + TEE 隔離) · 提供するのは key management / signing サービスのみ → money transmitter ではなく · custodian でもない([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] 参照 · [[exchanges/cex-matching-engine-wallet-architecture|CEX カストディモデル]] と鮮やかな対照)。
+**§501 規制フレンドリーの鍵となる設計**:ユーザーの USDC / USDB 残高は **直接ユーザーのオンチェーンウォレット**(Privy / CDP-derived address)に存在 · Privy / CDP 自体は **ユーザー残高を保有しない**(MPC + TEE 隔離) · 提供するのは key management / signing サービスのみ → money transmitter ではなく · custodian でもない([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] 参照 · [[exchanges/cex-matching-engine-wallet-architecture|CEX カストディモデル]] と鮮やかな対照)。
 
 ## 起源と進化
 

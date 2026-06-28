@@ -2,20 +2,19 @@
 source: card-issuers/shizugin-card
 source_hash: ec9f7089a1327738
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "しずぎんカード"
-translated_at: 2026-06-02T15:14:17.111Z
+translated_at: 2026-06-26T08:32:15.218Z
 ---
 # しずぎんカード
 
 ## ウィキ上の位置づけ
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に置き、[[regional-banks/shizuoka-fg|しずおか FG]] グループ（[[regional-banks/shizuoka-bank|静岡銀行]] 母体）の FG 子会社クレジットカード事業会社アンカーとして扱う。親銀行である [[regional-banks/shizuoka-bank|静岡銀行]]、および兄弟会社の静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証とあわせて読む。比較対象は、めぶきカード、ちばぎんカード、[[card-issuers/ucs-card|UCS カード]]（旧 名古屋鉄道系）、横浜銀行系のはまぎんファイナンスなどの地銀系クレジットカード会社、および [[card-issuers/smbc-card|三井住友カード]] / [[card-issuers/credit-saison|クレディセゾン]] / [[card-issuers/rakuten-card|楽天カード]] / [[card-issuers/seven-card-service|セブンカードサービス]] / [[card-issuers/paypay-card|PayPay カード]] / [[card-issuers/epos-card|エポスカード]] / [[card-issuers/life-card|ライフカード]] / [[card-issuers/aplus|アプラス]] / [[card-issuers/pocket-card|ポケットカード]] などの大手カード発行会社。より広い制度上の位置づけは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]]、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
+この項目は [[card-issuers/INDEX|card-発行会社 INDEX]] の配下に置き、[[regional-banks/shizuoka-fg|しずおか FG]] グループ（[[regional-banks/shizuoka-bank|静岡銀行]] 母体）の FG 子会社クレジットカード事業会社アンカーとして扱う。親銀行である [[regional-banks/shizuoka-bank|静岡銀行]]、および兄弟会社の静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証とあわせて読む。比較対象は、めぶきカード、ちばぎんカード、[[card-issuers/ucs-card|UCS カード]]（旧名古屋鉄道系）、横浜銀行系のはまぎんファイナンスなどの地銀系クレジットカード会社、および [[card-issuers/smbc-card|三井住友カード]] / [[card-issuers/credit-saison|クレディセゾン]] / [[card-issuers/rakuten-card|楽天カード]] / [[card-issuers/seven-card-service|セブンカードサービス]] / [[card-issuers/paypay-card|PayPay カード]] / [[card-issuers/epos-card|エポスカード]] / [[card-issuers/life-card|ライフカード]] / [[card-issuers/aplus|アプラス]] / [[card-issuers/pocket-card|ポケットカード]] などの大手カード発行会社。より広い制度上の位置づけは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]]、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
 
-## 要約
-
-株式会社しずぎんカード (Shizugin Card / Shizuoka Bank Card) は、[[regional-banks/shizuoka-fg|しずおか FG (東証 PRIME 5831)]] グループのクレジットカード子会社で、中核子会社 [[regional-banks/shizuoka-bank|静岡銀行]] (静岡県シェア No.1 / 製造業集積地 メインバンク) の個人 / 法人顧客基盤を背景に、**静岡県地盤の銀行発クレジットカード** (JCB / VISA / Master ブランド) ・ローン・キャッシング・収納代行・電子マネー・QR 決済関連サービスを提供。地銀系クレカ会社の典型モデル で、銀行口座連動・地域加盟店ネットワーク・地域経済圏内決済の機能を担う。[[regional-banks/shizuoka-fg]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
+## 要約株式会社しずぎんカード (Shizugin Card / Shizuoka Bank Card) は、[[regional-banks/shizuoka-fg|しずおか FG (東証 PRIME 5831)]] グループのクレジットカード子会社で、中核子会社 [[regional-banks/shizuoka-bank|静岡銀行]] (静岡県シェア No.1 / 製造業集積地メインバンク) の個人 / 法人顧客基盤を背景に、**静岡県地盤の銀行発クレジットカード** (JCB / VISA / Master ブランド) ・ローン・キャッシング・収納代行・電子マネー・QR 決済関連サービスを提供。地銀系クレカ会社の典型モデル で、銀行口座連動・地域加盟店ネットワーク・地域経済圏内決済の機能を担う。[[regional-banks/shizuoka-fg]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
 
 ## 1. 会社概要
 
@@ -62,7 +61,7 @@ translated_at: 2026-06-02T15:14:17.111Z
 |---|---|
 | [[regional-banks/shizuoka-bank|静岡銀行]] | 個人 / 法人顧客紹介、銀行口座連動カード発行、キャッシュカード一体型 |
 
-### 地銀系クレジットカード 比較対象 比較
+### 地銀系クレジットカード比較対象比較
 
 | クレジットカード子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
 |---|---|---|---|---|
@@ -93,7 +92,7 @@ translated_at: 2026-06-02T15:14:17.111Z
 
 ### 規制論点
 
-- **割販法改正 (2018-)**: 加盟店契約者 (acquirer) の義務強化、セキュリティ対策義務 (PCI DSS 準拠)
+- **割販法改正 (2018-)**: 加盟店契約者 (アクワイアラ) の義務強化、セキュリティ対策義務 (PCI DSS 準拠)
 - **改正割販法 (2020-)**: 利用者保護強化 (与信審査・利用上限管理・苦情処理体制)
 - **個人情報保護法 (2022-改正)**: クレジットカード会員情報の越境移転・適正取得義務
 - **キャッシュレス推進**: 経産省キャッシュレスビジョン 2025・「2025 年キャッシュレス比率 40%」目標下で加盟店手数料水準論争
@@ -113,7 +112,7 @@ translated_at: 2026-06-02T15:14:17.111Z
 - [[payment-firms/bnpl-landscape]] · [[payment-firms/atone]] · [[consumer-finance/acom]] · [[consumer-finance/aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[card-issuers/INDEX|card-issuers INDEX]]
+- [[card-issuers/INDEX|card-発行会社 INDEX]]
 
 ## 出典
 

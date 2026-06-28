@@ -2,10 +2,11 @@
 source: banking/master-trust-bank-operating-model
 source_hash: e469f3ba5b9cafd4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本マスタートラスト信託銀行のオペレーティングモデル"
-translated_at: 2026-06-18T23:33:48.358Z
+translated_at: 2026-06-26T08:32:07.530Z
 ---
 
 # 日本マスタートラスト信託銀行のオペレーティングモデル

@@ -2,21 +2,20 @@
 source: card-issuers/toyota-finance
 source_hash: abe6eb4a64af680f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "トヨタファイナンス"
-translated_at: 2026-06-15T03:48:21.851Z
+translated_at: 2026-06-26T08:32:15.218Z
 ---
 
 # トヨタファイナンス
 
 ## Wiki 内の位置づけ
 
-本項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に位置する。親会社 / 事業会社の分離については [[leasing-firms/toyota-financial|Toyota Financial Services]]、割賦信用・カードの境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と併読されたい。
+本項目は [[card-issuers/INDEX|card-発行会社 INDEX]] の下に位置する。親会社 / 事業会社の分離については [[leasing-firms/toyota-financial|Toyota Financial Services]]、割賦信用・カードの境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と併読されたい。
 
-## 概要
-
-トヨタファイナンス株式会社は、[[manufacturer-finance/toyota-motor|Toyota Motor]] グループの国内中核金融会社であり、[[leasing-firms/toyota-financial|Toyota Financial Services]] の完全子会社。公式の会社概要では、販売金融やクレジットカードなどの金融事業を提供すると記されている。
+## 概要トヨタファイナンス株式会社は、[[manufacturer-finance/toyota-motor|Toyota Motor]] グループの国内中核金融会社であり、[[leasing-firms/toyota-financial|Toyota Financial Services]] の完全子会社。公式の会社概要では、販売金融やクレジットカードなどの金融事業を提供すると記されている。
 
 このページは、日本の事業会社を、グローバルな TFS 持株会社ページから分離する。その分離が重要なのは、トヨタファイナンスが国内の自動車信用、ディーラー連携金融、カード商品、顧客向け金融サービスが集約される場所だからである。
 

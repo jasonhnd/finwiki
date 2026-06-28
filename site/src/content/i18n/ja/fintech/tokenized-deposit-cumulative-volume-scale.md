@@ -2,10 +2,11 @@
 source: fintech/tokenized-deposit-cumulative-volume-scale
 source_hash: 7c9f5e063810d5af
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "トークン化預金の累計取引規模パターン：Kinexys $1.5T を銀行預金トークンセクターのアンカーとして"
-translated_at: 2026-06-02T14:01:20.895Z
+translated_at: 2026-06-26T08:29:33.012Z
 ---
 # トークン化預金の累計取引規模パターン：Kinexys $1.5T を銀行預金トークンセクターのアンカーとして
 
@@ -22,7 +23,7 @@ translated_at: 2026-06-02T14:01:20.895Z
 - 顧客 100% 機関、約 80 社（Visa / Mastercard / Ant / 6 中央銀行を含む）^[extracted]
 - JPMD = JPM Deposit Token（EUR/USD/GBP）。OCC US National Bank Charter に基づき、**§501 のステーブルコインには該当しない** ^[extracted]
 - グローバルデジタル USD インフラランキング（累計）：USDT $20T+（リテール / グレーゾーン）> Kinexys $1.5T（機関）> USDC $1.2T（ミックス）^[extracted]
-- 2026-04 、JPMD が Coinbase Base 公開チェーンに上線。銀行預金トークンセクターとステーブルコインセクターを結ぶ初のブリッジとなった ^[extracted]
+- 2026-04、JPMD が Coinbase Base 公開チェーンに上線。銀行預金トークンセクターとステーブルコインセクターを結ぶ初のブリッジとなった ^[extracted]
 
 ## 仕組み
 
@@ -43,7 +44,7 @@ JPMorgan は預金トークンを使い、§501 の「100% 国債 + 利息支払
 
 ## 起源と発展
 
-2019 JPM Coin が始動（Onyx Coin System プライベートチェーン / Quorum 派生）。2024 Kinexys へ改名。2025-12 に顧客数 80 社到達。2026-04 、[[fintech/jpmorgan-jpmd-coin|JPMD]] が Coinbase Base 公開チェーンへ上線し、公開チェーンへの初ブリッジとなった。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] とあわせて**トークン化資産インフラのデュアルコア**を形成する。BlackRock は中立的なインフラ提供者として BUIDL を全 SC issuer に販売する路線、JPMorgan はクローズドループの銀行路線として JPMD を JPM 顧客に提供する路線である。
+2019 JPM Coin が始動（Onyx Coin System プライベートチェーン / Quorum 派生）。2024 Kinexys へ改名。2025-12 に顧客数 80 社到達。2026-04、[[fintech/jpmorgan-jpmd-coin|JPMD]] が Coinbase Base 公開チェーンへ上線し、公開チェーンへの初ブリッジとなった。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] とあわせて**トークン化資産インフラのデュアルコア**を形成する。BlackRock は中立的なインフラ提供者として BUIDL を全 SC 発行会社 に販売する路線、JPMorgan はクローズドループの銀行路線として JPMD を JPM 顧客に提供する路線である。
 
 ## 関連
 <!-- wiki-links:managed -->

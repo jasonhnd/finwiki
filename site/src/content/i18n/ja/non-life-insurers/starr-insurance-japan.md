@@ -2,10 +2,11 @@
 source: non-life-insurers/starr-insurance-japan
 source_hash: a6c49bc063643a7d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Starr Insurance Japan / スター・インシュアランス・ジャパン"
-translated_at: 2026-06-19T06:09:18.092Z
+translated_at: 2026-06-26T08:32:07.560Z
 ---
 
 # Starr Insurance Japan / スター・インシュアランス・ジャパン
@@ -29,7 +30,7 @@ Starr Insurance Companies（Starr Companies）は、AIG の元 CEO である **M
 | Wiki 上の役割 | 外資系の日本の損害保険スペシャルティ事業体 |
 | 親会社 / 構造 | Starr Insurance Holdings / Starr International Company、広範な非公開会社構造を伴う |
 
-ライセンス経路の詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に属する。
+ライセンス経路の詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に属する。
 
 ## 2. 事業モデル
 

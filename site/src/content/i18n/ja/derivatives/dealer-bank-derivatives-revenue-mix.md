@@ -2,17 +2,16 @@
 source: derivatives/dealer-bank-derivatives-revenue-mix
 source_hash: b83a2669ce10205a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ディーラー銀行のデリバティブ収益構成 — 日本のメガバンクと外国 IB"
-translated_at: 2026-06-02T11:47:37.304Z
+translated_at: 2026-06-26T08:29:25.266Z
 ---
 
 # ディーラー銀行のデリバティブ収益構成 — 日本のメガバンクと外国 IB
 
-## 要約
-
-日本のディーラー銀行のデリバティブフランチャイズは **三つの構造的な階層** に分かれており、それぞれがレート、為替、エクイティ、クレジットのデリバティブの間で異なる収益構成を持つ:
+## 要約日本のディーラー銀行のデリバティブフランチャイズは **三つの構造的な階層** に分かれており、それぞれがレート、為替、エクイティ、クレジットのデリバティブの間で異なる収益構成を持つ:
 
 1. **メガバンクのユニバーサルバンクフランチャイズ — [[megabanks/mufg-bank|MUFG]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] / [[megabanks/mizuho-bank|Mizuho]]** — 日本のディーラー対事業会社およびディーラー対機関投資家のフローのために最大の円 IRS、OIS、ベーシススワップ、為替デリバティブのブックを運用する銀行・証券の統合事業体。レートと為替がメガバンクのデリバティブ収益構成を支配する;エクイティデリバティブはより小さく証券子会社に集中している;クレジットデリバティブは銀行勘定のヘッジと限定的なディーラー CDS の活動に集中している;
 
@@ -26,7 +25,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 ## ウィキ上の位置づけ
 
-この項目は OTC インフラのクラスター内で [[derivatives/INDEX|derivatives index]] の下に位置する。トレード後の清算レールについては [[derivatives/otc-clearing-jp-trade-repository|OTC clearing and trade repository Japan]] と、執行の場のレールについては [[derivatives/swap-execution-facility-japan|Japan SEF-equivalent ETP regime]] と、レート商品の背景については [[derivatives/japan-interest-rate-derivatives-overview|Japan interest rate derivatives overview]] と、エクイティデリバティブのエンドユーザー側については [[derivatives/nikkei-vix-jpx-vi-equivalent|JPX-VI]] および [[derivatives/equity-volatility-hedging-corporates-japan|equity vol hedging by corporates]] と、関連する機関投資家向けファイナンスのフランチャイズについては [[securities/japan-prime-brokerage-and-institutional-financing-matrix|Japan prime brokerage matrix]] とあわせて参照のこと。事業会社のエンドユーザー側は [[finance/japan-corporate-fx-and-rate-hedge-policy|Japan corporate FX and rate hedge policy]] にある。
+この項目は OTC インフラのクラスター内で [[derivatives/INDEX|derivatives index]] の下に位置する。トレード後の清算レールについては [[derivatives/otc-clearing-jp-trade-repository|OTC clearing and trade repository Japan]] と、執行の場のレールについては [[derivatives/swap-execution-facility-japan|Japan SEF-equivalent ETP regime]] と、レート商品の背景については [[derivatives/japan-interest-rate-derivatives-overview|Japan interest rate derivatives overview]] と、エクイティデリバティブのエンドユーザー側については [[derivatives/nikkei-vix-jpx-vi-equivalent|JPX-VI]] および [[derivatives/equity-volatility-hedging-corporates-japan|equity vol hedging by corporates]] と、関連する機関投資家向けファイナンスのフランチャイズについては [[securities/japan-prime-brokerage-and-institutional-financing-matrix|Japan prime 証券仲介 matrix]] とあわせて参照のこと。事業会社のエンドユーザー側は [[finance/japan-corporate-fx-and-rate-hedge-policy|Japan corporate FX and rate hedge policy]] にある。
 
 ## なぜ収益構成が重要か
 
@@ -93,9 +92,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 メガバンク系列の証券部門([[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]])は匹敵するがやや狭いエクイティデリバティブの能力を構築してきた ── メガバンクグループの資本配分の枠組みによって経済的に制約されている。
 
-### ゴールドマン・サックス・ジャパン、モルガン・スタンレー・ジャパン / MUMSS、JP モルガン・ジャパン、シティ・ジャパン、BofA ジャパン
-
-外国 IB 階層は、単独の日本のみのブックではなく、クロスボーダーのグローバルなデリバティブブックに参加する **完全に統合された東京ディーラー業務** を運営する。
+### ゴールドマン・サックス・ジャパン、モルガン・スタンレー・ジャパン / MUMSS、JP モルガン・ジャパン、シティ・ジャパン、BofA ジャパン外国 IB 階層は、単独の日本のみのブックではなく、クロスボーダーのグローバルなデリバティブブックに参加する **完全に統合された東京ディーラー業務** を運営する。
 
 ### 外国 IB のおおよその収益構成(公開情報源からの推論、グループレベルを日本に集計)
 
@@ -116,9 +113,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 - **クロスボーダーの商品能力** ── 円-米ドルクロスカレンシーベーシススワップ、JGB 先物対米ドルレートのレラティブバリュー、JPX 対 S&P のレラティブバリュー、日本の事業会社のクロスボーダー M&A 為替ヘッジ ── すべてが統合された東京 + ロンドン + NY のフランチャイズを必要とする;
 - **規制上の同等性** ── [[derivatives/otc-clearing-jp-trade-repository|EMIR / Title-VII equivalence]] のもとで、登録された東京ディーラー事業体を持つ外国 IB は、資本効率的な扱いを失うことなく、日本清算適格の商品を本国管轄の顧客に提供できる。
 
-### 日本のデリバティブ収益に占める外国 IB のシェア
-
-日本のディーラーデリバティブ市場における外国 IB の合計シェアは、多くの商品でメガバンク + 独立系 IB の階層に対して **実質的だが二次的** である:
+### 日本のデリバティブ収益に占める外国 IB のシェア日本のディーラーデリバティブ市場における外国 IB の合計シェアは、多くの商品でメガバンク + 独立系 IB の階層に対して **実質的だが二次的** である:
 
 - **円 IRS / OIS** ── メガバンク + 野村 / 大和が想定元本残高を支配する;外国 IB は競争するが下位にランクする;
 - **円-米ドルクロスカレンシーベーシススワップ** ── 外国 IB(特に [[foreign-financial-institutions/jpmorgan-japan|JPM]] と [[foreign-financial-institutions/citigroup-japan|Citi]])は、その米ドル調達側のフランチャイズゆえに構造的に重要である;
@@ -146,9 +141,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 経済的な効果:**メガバンクのデリバティブフランチャイズの収益構成は、投機的なポジションテイクの損益ではなく顧客フロー**(事業会社ヘッジ、機関投資家のディーラー活動、為替の事業会社フロー)によって支配される。これが、メガバンクのグローバルマーケットセグメントの収益が、歴史的な自己勘定取引時代の米国 IB の銀行事業体のリターンより構造的により安定しているが低マージンである理由である。
 
-## クロスプロダクトのフランチャイズ統合
-
-一部のデリバティブ商品クラスは **クロスプロダクトのフランチャイズ統合** を牽引する:
+## クロスプロダクトのフランチャイズ統合一部のデリバティブ商品クラスは **クロスプロダクトのフランチャイズ統合** を牽引する:
 
 - **クロスカレンシーベーシススワップ(円-米ドル)** ── レート・為替の交点に位置する;事業会社の為替ヘッジと JGB-円レートヘッジの共同カバレッジを牽引する;[[megabanks/mufg-bank|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]、[[securities-firms/nomura-hd|Nomura]]、およびグローバルな為替の外国 IB における主要なフランチャイズ;
 - **JGB 現物、JGB 先物、JGB レポ、JGB-OIS のヘッジコンプレックス** ── プライマリーディーラーの JGB 活動に支えられた統合されたレートデリバティブのカバレッジを牽引する;

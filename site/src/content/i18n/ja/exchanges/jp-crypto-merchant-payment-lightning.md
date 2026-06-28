@@ -2,10 +2,11 @@
 source: exchanges/jp-crypto-merchant-payment-lightning
 source_hash: e29390016eda58a0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内暗号資産マーチャント決済 + Lightning Network"
-translated_at: 2026-06-02T12:19:04.207Z
+translated_at: 2026-06-26T08:29:25.274Z
 ---
 # 国内暗号資産マーチャント決済 + Lightning Network
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-02T12:19:04.207Z
 
 この項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。比較・対照の文脈では [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] を、より広いシステムおよび規制境界については [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] をあわせて読む。
 
-## 概要
-
-国内暗号資産マーチャント決済は、2017 の BTC バブル期に [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] 経由で導入されたが、2018 流出事件と価格ボラティリティにより縮小した。2023以降は Lightning Network の普及により復活の兆候があり、主に観光地と Web3 ネイティブ事業者で運用されている。
+## 概要国内暗号資産マーチャント決済は、2017 の BTC バブル期に [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] 経由で導入されたが、2018 流出事件と価格ボラティリティにより縮小した。2023以降は Lightning Network の普及により復活の兆候があり、主に観光地と Web3 ネイティブ事業者で運用されている。
 
 ## 国内主要事業者・サービス
 
@@ -38,13 +37,11 @@ translated_at: 2026-06-02T12:19:04.207Z
 - **マーチャント決済**: 加盟店向けは決済代行業者、前払式支払手段、資金移動業のいずれのライセンスに依拠するかが論点となる — [[exchanges/jp-vasp-aml-travel-rule-implementation]]
 - **税制**: 加盟店の受取は事業所得、個人決済は雑所得。
 
-## 国際比較
-
-エルサルバドル（BTC 法定通貨化 2021）・米 Cash App（Strike 連携）・アルゼンチン retail（[[fintech/em-market-crypto-dollarization-pattern]]）と比べ、国内では規制上の慎重姿勢と価格ボラティリティにより普及が遅れている。ステーブルコイン連携（[[exchanges/jp-cex-deposit-token-stablecoin-integration]]）が次世代決済レイヤーの候補である。
+## 国際比較エルサルバドル（BTC 法定通貨化 2021）・米 Cash App（Strike 連携）・アルゼンチン retail（[[fintech/em-market-crypto-dollarization-pattern]]）と比べ、国内では規制上の慎重姿勢と価格ボラティリティにより普及が遅れている。ステーブルコイン連携（[[exchanges/jp-cex-deposit-token-stablecoin-integration]]）が次世代決済レイヤーの候補である。
 
 ## 関連
 
-- [[payments/japan-payment-clearing-and-settlement-infrastructure]] — JP payment clearing & settlement infrastructure
+- [[payments/japan-payment-clearing-and-settlement-infrastructure]] — JP payment clearing & 決済 infrastructure
 - [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX × 預金トークン / EPI 統合
 - [[exchanges/jp-crypto-market-maker-otc-layer]] — JP crypto market maker / OTC レイヤー
 

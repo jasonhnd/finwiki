@@ -2,10 +2,11 @@
 source: agent-economy/nevermined-compute-payment-protocol
 source_hash: 7ac4261eca37bc6b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Nevermined · AI コンピュート決済プロトコル"
-translated_at: 2026-06-02T11:47:37.314Z
+translated_at: 2026-06-26T08:32:15.195Z
 ---
 
 # Nevermined · AI コンピュート決済プロトコル

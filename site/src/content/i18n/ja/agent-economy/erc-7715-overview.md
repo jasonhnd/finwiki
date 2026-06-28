@@ -2,13 +2,14 @@
 source: agent-economy/erc-7715-overview
 source_hash: ef12fb5689068aa2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済"
-translated_at: 2026-06-02T11:47:37.292Z
+title: "ERC-7715 概観 · ウォレット Permissions と AI Agent 自動決済"
+translated_at: 2026-06-26T08:28:53.949Z
 ---
 
-# ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済
+# ERC-7715 概観 · ウォレット Permissions と AI Agent 自動決済
 
 ## ウィキ上の位置づけ
 
@@ -60,9 +61,9 @@ translated_at: 2026-06-02T11:47:37.292Z
 
 ## 起源と進化
 
-7715 ドラフトの起源は 2024 年の MetaMask Snaps チームと Coinbase Smart Wallet チームの調整議論にある — 双方とも独自に session key を実装していたが、フォーマットが相互運用できなかった。OAuth 2.0 scope モデルを参考に · 統一的な権限申請プロトコルとして定義された。
+7715 ドラフトの起源は 2024 年の MetaMask Snaps チームと Coinbase Smart ウォレットチームの調整議論にある — 双方とも独自に session key を実装していたが、フォーマットが相互運用できなかった。OAuth 2.0 scope モデルを参考に · 統一的な権限申請プロトコルとして定義された。
 
-2025 年に MetaMask、Coinbase Smart Wallet、Safe で順次実装。同時期に ERC-4337 / 7702 と組み合わさり「AA + Permissions」の完全スタックを形成し、AP2 / x402 と並んで AI agent 経済の重要インフラと見なされている。
+2025 年に MetaMask、Coinbase Smart ウォレット、Safe で順次実装。同時期に ERC-4337 / 7702 と組み合わさり「AA + Permissions」の完全スタックを形成し、AP2 / x402 と並んで AI agent 経済の重要インフラと見なされている。
 
 ## 関連項目
 <!-- wiki-links:managed -->

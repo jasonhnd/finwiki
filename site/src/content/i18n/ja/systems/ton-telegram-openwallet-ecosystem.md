@@ -2,10 +2,11 @@
 source: systems/ton-telegram-openwallet-ecosystem
 source_hash: cc4ac621871946fc
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "TON · Telegram Open Network エコシステム"
-translated_at: 2026-06-03T01:06:46.359Z
+translated_at: 2026-06-26T08:28:46.072Z
 ---
 # TON · Telegram Open Network エコシステム
 
@@ -16,7 +17,7 @@ translated_at: 2026-06-03T01:06:46.359Z
 ## 主要事実
 
 - **TON (The Open Network)** は、Telegram チームが当初設計した L1 である(2018-2020)。SEC との和解により Telegram による直接ローンチは停止したが、その後 **TON Foundation + community** がオープンネットワークとして開発を継続した
-- **Telegram 統合** が構造的な優位性である。900M+ Telegram ユーザー、ネイティブ bot フレームワーク、アプリ内ウォレット統合(TON Wallet / Wallet bot)を備える
+- **Telegram 統合** が構造的な優位性である。900M+ Telegram ユーザー、ネイティブ bot フレームワーク、アプリ内ウォレット統合(TON ウォレット / ウォレット bot)を備える
 - **USDT on TON** は最も急成長しているステーブルコイン基盤の一つであり、2025-2026までに数十億米ドル規模に達した
 - **大量決済 UX** に強みがある。Telegram の連絡先へメッセージを送るように USDT を送金でき、アドレスのコピーや貼り付けは不要である
 - **エージェント / bot 経済** にネイティブである。Telegram bot エコシステムは、TON の決済レールを通じた AI エージェント決済と自然に対応する
@@ -26,7 +27,7 @@ translated_at: 2026-06-03T01:06:46.359Z
 | レイヤー | 仕組み |
 |---|---|
 | アイデンティティ | Telegram ユーザーID(電話番号確認済み、KYC に近い性質) |
-| ウォレット | TON Wallet bot(アプリ内)、Tonkeeper、MyTonWallet。いずれも Telegram のアイデンティティにリンクする |
+| ウォレット | TON ウォレット bot(アプリ内)、Tonkeeper、MyTonウォレット。いずれも Telegram のアイデンティティにリンクする |
 | 発見経路 | Telegram bot ディレクトリ、チャネル / グループへのルーティング |
 | 決済 | TONネイティブ資産または USDT-TON |
 | UX | @username 宛に TON / USDT を送金でき、アドレスは不要 |

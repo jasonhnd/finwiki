@@ -2,17 +2,18 @@
 source: securities-firms/rakuten-securities
 source_hash: 4a732fedc0ef0ee3
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天証券"
-translated_at: 2026-06-19T12:43:19.882Z
+translated_at: 2026-06-26T08:32:23.073Z
 ---
 
 # 楽天証券
 
 ## TL;DR
 
-楽天証券は、[[payment-firms/rakuten-fg|Rakuten's financial ecosystem]] に関連するオンライン証券部門である。FSA の金融商品取引業者一覧は、楽天証券株式会社を関東財務局（FIBO）No. 195 として特定している。楽天自身の 2024  年 4 月のリリースは、楽天証券が総合証券口座 11  万口座を突破し、その成長環境を刷新された 2024  NISA 制度に結びつけたと述べた。
+楽天証券は、[[payment-firms/rakuten-fg|Rakuten's financial 経済圏]] に関連するオンライン証券部門である。FSA の金融商品取引業者一覧は、楽天証券株式会社を関東財務局（FIBO）No. 195 として特定している。楽天自身の 2024  年 4 月のリリースは、楽天証券が総合証券口座 11  万口座を突破し、その成長環境を刷新された 2024  NISA 制度に結びつけたと述べた。
 
 オンライン証券、リテール NISA 獲得、ポイント / カード / エコシステム流通、家計資産形成フローについては本ページを使用すること。
 
@@ -25,9 +26,7 @@ translated_at: 2026-06-19T12:43:19.882Z
 | 事業レーン | オンライン証券、投資信託、国内 / 外国株、NISA、カード資金によるファンド積立、ポイント投資。 |
 | ピアセット | SBI 証券ルートは後で追加すべき；[[securities-firms/monex-group]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]] が比較アンカー。 |
 
-## 戦略的意味
-
-楽天証券は伝統的な店舗型証券会社ではない。その優位性は流通である：
+## 戦略的意味楽天証券は伝統的な店舗型証券会社ではない。その優位性は流通である：
 
 - 楽天 ID / エコシステムの顧客獲得；
 - 投資信託向けの楽天カードとキャッシュ決済ルート；

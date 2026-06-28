@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { mask, unmask } from './protect.mjs';
+import { localizeJapaneseBusinessTerms, normalizeCrossRefTitle } from './ja-business-term-localizer.mjs';
 
 const repo = join(import.meta.dir, '..', '..');
 const files = [
@@ -54,6 +55,36 @@ console.log(
   `generic terms exposed for translation: ${genericTermsVisible}  wikilink targets protected: ${targetProtected && routeOnlyProtected}  escaped pipe preserved: ${escapedPipePreserved}  guard lossless: ${guardLossless}`,
 );
 if (!genericTermsVisible || !targetProtected || !routeOnlyProtected || !escapedPipePreserved || !guardLossless) allLossless = false;
+
+const titleByRoute = new Map([
+  ['payments/funds-transfer-vs-prepaid-boundary', new Set([normalizeCrossRefTitle('Funds transfer vs prepaid boundary in Japan')])],
+]);
+const localized = localizeJapaneseBusinessTerms(
+  'The consumer wallet operator sits in the SoftBank ecosystem with a merchant acquirer. ' +
+    'Circle acquired Hashnote and code payments remain a live example. ' +
+    'See [[payment-firms/paypay|PayPay consumer wallet operator]], ' +
+    '[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]], ' +
+    'and ^[source:example].\n\n## 出典\n- Keep operator, wallet, funds-transfer, code payments, and acquired source titles unchanged.',
+  { titleByRoute },
+);
+const localizerOk =
+  localized.includes('消費者向けウォレット事業者') &&
+  localized.includes('経済圏') &&
+  localized.includes('加盟店アクワイアラ') &&
+  localized.includes('Circle 買収した Hashnote') &&
+  localized.includes('コード決済') &&
+  localized.includes('[[payment-firms/paypay|PayPay 消費者向けウォレット事業者]]') &&
+  localized.includes('[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]]') &&
+  localized.includes('^[source:example]') &&
+  localized.includes('Keep operator, wallet, funds-transfer, code payments, and acquired source titles unchanged.');
+console.log(`ja business-term localizer guard: ${localizerOk}`);
+if (!localizerOk) allLossless = false;
+
+const englishProse =
+  'the operator settles the funds via the merchant while wallet risk remains with the issuer.';
+const englishProseUnchanged = localizeJapaneseBusinessTerms(englishProse, { titleByRoute }) === englishProse;
+console.log(`ja business-term localizer skips English prose: ${englishProseUnchanged}`);
+if (!englishProseUnchanged) allLossless = false;
 
 // custody TL;DR を mask した見本（数字/専名/リンクが占位符になり、散文だけ残るか確認）
 const body = stripFm(readFileSync(join(repo, 'banking/custody-bank-operating-model.md'), 'utf8'));

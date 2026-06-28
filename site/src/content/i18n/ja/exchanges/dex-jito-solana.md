@@ -2,10 +2,11 @@
 source: exchanges/dex-jito-solana
 source_hash: b98c1984127be819
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview"
-translated_at: 2026-06-02T12:19:04.219Z
+translated_at: 2026-06-26T08:29:25.270Z
 ---
 
 # Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview
@@ -53,7 +54,7 @@ Solana stake の 80%+ が Jito-Solana client を採用しているため、JitoS
 
 - **launch**：2023-12-07 airdrop launch（Solana 上の主要 LST staker、MEV searcher、validator 等が対象）
 - **総供給**：1B JTO
-- **配分**：community 約 34.3%、ecosystem development 約 25%、investors 約 16.2%、core contributors 約 24.5%
+- **配分**：community 約 34.3%、経済圏 development 約 25%、investors 約 16.2%、core contributors 約 24.5%
 - **governance**：Jito DAO の Realms ベース投票で運営
 - **2024–2026 launch 後**：Jito Restaking モジュール（Solana 上の LRT 概念導入）、Jito Network 機能拡張
 

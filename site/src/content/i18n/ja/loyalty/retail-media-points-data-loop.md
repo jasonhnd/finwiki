@@ -2,11 +2,11 @@
 source: loyalty/retail-media-points-data-loop
 source_hash: 00b70bf5ae34beb0
 lang: ja
-model: claude-opus-4-8
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "リテールメディア・ポイント・データループ（ID グラフ基盤としての日本のポイントプログラム）"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-26T08:32:23.051Z
 ---
 # リテールメディア・ポイント・データループ（ID グラフ基盤としての日本のポイントプログラム）
 
@@ -14,9 +14,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 この項目は [[loyalty/INDEX|loyalty index]] の配下に置く**データループ／ID グラフ経済**のページである——割引の先を見たとき、[[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム一覧が*そもそもなぜ*存在するのかを説明する層である。[[loyalty/point-exchange-network-risk|point exchange network risk]]（価値移転ネットワーク）と [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（コスト／負債ネットワーク）と対をなし、[[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial distribution wedge matrix]] の小売アンカーの視点に依拠する。ループの金融流通エンドポイントはグループ金融の各部門——[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]——である。
 
-## 要約
-
-ポイントプログラムは経済的には、**割引を装った顧客アイデンティティ手段**である。リワードは餌であり、資産は、誰がいつどこで何をどう支払って買ったかを結びつける、永続的でマーチャント横断の **ID グラフ**である。そのグラフが四段階のループを動かす——(1) ポイントを発行して ID を獲得・維持し、(2) それに対して購買／決済／位置／キャンペーン反応のデータを観測し、(3) グラフを**リテールメディア**（ターゲティング、計測、スポンサード掲載）として、また金融流通のファネルとして収益化し、(4) その収益をよりリッチなポイントキャンペーンへ再投資する。ポイント負債は**データ資産の獲得コスト**であり、リテールメディアと金融クロスセルこそ、その資産が自らの元を取る手段である。これは日本のポイント事業者を、ロイヤルティ施策から広告・流通プラットフォームへと再定義する——顧客データ規制（APPI）を制約条件として。
+## 要約ポイントプログラムは経済的には、**割引を装った顧客アイデンティティ手段**である。リワードは餌であり、資産は、誰がいつどこで何をどう支払って買ったかを結びつける、永続的でマーチャント横断の **ID グラフ**である。そのグラフが四段階のループを動かす——(1) ポイントを発行して ID を獲得・維持し、(2) それに対して購買／決済／位置／キャンペーン反応のデータを観測し、(3) グラフを**リテールメディア**（ターゲティング、計測、スポンサード掲載）として、また金融流通のファネルとして収益化し、(4) その収益をよりリッチなポイントキャンペーンへ再投資する。ポイント負債は**データ資産の獲得コスト**であり、リテールメディアと金融クロスセルこそ、その資産が自らの元を取る手段である。これは日本のポイント事業者を、ロイヤルティ施策から広告・流通プラットフォームへと再定義する——顧客データ規制（APPI）を制約条件として。
 
 ## 四段階のループ
 
@@ -59,9 +57,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 決定的な能力は**クローズドループの帰属**——特定の露出が、同じ識別された顧客による特定の後の購買につながったことを証明することである。マーチャントをまたぐ共通ポイントは、これを規模感をもって行える数少ない資産の一つであり、だからこそ事業者はポイントを割引項目ではなくメディア基盤として位置づける。ここがまた経済性が反転する場所でもある——リテールメディアのマージンは、ポイントが当初補助していた薄い小売／決済マージンよりもはるかに高い。
 
-## 他のポイントネットワークとの位置関係
-
-ポイント経済は実は三つの重なり合うネットワークであり、このページはデータのものである。
+## 他のポイントネットワークとの位置関係ポイント経済は実は三つの重なり合うネットワークであり、このページはデータのものである。
 
 | ネットワーク | 何が流れるか | ページ |
 |---|---|---|
@@ -71,9 +67,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 いずれかの事業者を一つのネットワークだけで読むと誤る——キャンペーン付与に偏った「赤字」ウォレット（コストネットワーク）が、*最も価値ある ID グラフを買い*（データネットワーク）、それを金融クロスセルで収益化している、ということがある——PayPay ／ [[megabanks/paypay-fg|PayPay FG]] と 楽天 ／ [[payment-firms/rakuten-fg|Rakuten FG]] のパターンである。
 
-## 制約条件：APPI と同意
-
-データループは、日本の**個人情報の保護に関する法律（APPI／個人情報保護法）**——個人情報保護委員会（PPC）が執行——によって境界づけられる。
+## 制約条件：APPI と同意データループは、日本の**個人情報の保護に関する法律（APPI／個人情報保護法）**——個人情報保護委員会（PPC）が執行——によって境界づけられる。
 
 - 識別された人に紐づく購買履歴は個人情報であり、そのマーケティング利用、とりわけ**第三者提供**は、開示された目的と同意／オプトアウト規制に依存する。
 - 実務上のレバーは**利用目的の開示**に加えて第三者共有のオプトアウトである。よりリスクの高い動き（識別可能な行動を広告主に販売する）が、ループの中で最も制約される部分である。
@@ -95,7 +89,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial distribution wedge matrix]]
 - [[retail/aeon-group|Aeon Group]]
 - [[retail/seven-and-i-hd|Seven & i]]

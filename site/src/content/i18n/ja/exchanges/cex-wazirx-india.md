@@ -2,10 +2,11 @@
 source: exchanges/cex-wazirx-india
 source_hash: 532db9579e319a57
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "WazirX — インド CEX / 2024-07 Liminal hack 約 $235M 被害概要"
-translated_at: 2026-06-02T12:19:04.259Z
+translated_at: 2026-06-26T08:27:56.302Z
 ---
 # WazirX — インド CEX / 2024-07 Liminal hack 約 $235M 被害概要
 
@@ -13,7 +14,7 @@ translated_at: 2026-06-02T12:19:04.259Z
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。インドにおける最も近い同業比較・対照の文脈では [[exchanges/cex-coindcx-india|CoinDCX]]、北朝鮮関与パターンの並行例では [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]]、再建手続 / Scheme of Arrangement の枠組みでは [[exchanges/global-crypto-exchange-bankruptcy-comparison|グローバル CEX 破綻比較]] と併読する。
 
-> 2018-03 設立 · インド INR 現物 旧最大手 · Binance 2019-11 買収 → 2023 dissociation 公開対立 · **2024-07-18 Liminal hot wallet hack ~$235M（インド史上最大の暗号資産流出）** · シンガポール Scheme of Arrangement で 再建手続 進行中
+> 2018-03 設立 · インド INR 現物旧最大手 · Binance 2019-11 買収 → 2023 dissociation 公開対立 · **2024-07-18 Liminal hot ウォレット hack ~$235M（インド史上最大の暗号資産流出）** · シンガポール Scheme of Arrangement で 再建手続進行中
 
 ## 1. 法人・株主
 
@@ -26,7 +27,7 @@ translated_at: 2026-06-02T12:19:04.259Z
   - **Tiger Global** 等：早期投資家
   - Nischal Shetty / 共同創業者：継続的株式保有
 - **Binance 関係の特異性**：2023 年期に Binance が公式 blog で「Zanmai Labs は WazirX を Binance とは独立して運営している」と明確化 → 業界では事実上の **dissociation** と理解された
-- 2024-07 Liminal hack 以降、再建手続 プロセス下で株主構造が再編対象に
+- 2024-07 Liminal hack 以降、再建手続プロセス下で株主構造が再編対象に
 
 ## 2. 登録・牌照状況（インド制度）
 
@@ -37,22 +38,22 @@ translated_at: 2026-06-02T12:19:04.259Z
 
 ## 3. 取扱通貨
 
-- INR 現物 市場（2024-07 hack 前は印度市場最大手の 1 つ）
+- INR 現物市場（2024-07 hack 前は印度市場最大手の 1 つ）
 - 取扱銘柄数：250+（hack 前ピーク時）
-- USDT 市場 併設
+- USDT 市場併設
 - **2024-07 hack 後**：引出停止 → 部分再開 → 各種ペア取引制限の状態が継続
 
 ## 4. 業務範囲
 
-- 現物 現物 取引（INR / USDT pair）
+- 現物現物取引（INR / USDT pair）
 - P2P 取引（インド国内ユーザー向け）
 - staking：限定的
 - 法定通貨入金：インド国内銀行口座経由（IMPS / UPI / NEFT、銀行側姿勢により制限あり）
-- **2024-07 hack 以降**：取引機能 / 入出金機能の段階的停止 / 部分再開、再建手続 完了まで 通常運営 不可
+- **2024-07 hack 以降**：取引機能 / 入出金機能の段階的停止 / 部分再開、再建手続完了まで 通常運営不可
 
 ## 5. 市占・取引高
 
-- **インド 現物 市場シェア**：2024-07 hack 以前は [[exchanges/cex-coindcx-india|CoinDCX]] と並ぶ二強の一角（インド市場 #1 とされる時期もあり）
+- **インド現物市場シェア**：2024-07 hack 以前は [[exchanges/cex-coindcx-india|CoinDCX]] と並ぶ二強の一角（インド市場 #1 とされる時期もあり）
 - 2024-07 hack 以降：実質的に [[exchanges/cex-coindcx-india|CoinDCX]] に市場 #1 ポジションを譲渡
 - ユーザー数：1,500 万人超（hack 前公表ベース）
 - 24h volume：hack 前 $50–200M、hack 後は大幅縮小
@@ -69,32 +70,32 @@ translated_at: 2026-06-02T12:19:04.259Z
 | 2022-08 | Enforcement Directorate（ED）による $8M 関連口座凍結事案 |
 | 2023 | **Binance / WazirX 公開対立** — Binance blog で operating entity 関係性を明示否認 |
 | 2024-03 | FIU-IND Show Cause Notice 受領、PMLA コンプライアンス審査 |
-| 2024-03 | FIU-IND PMLA 報告主体 登録完了 |
-| **2024-07-18** | **Liminal custody multi-sig wallet を経由した hot wallet 攻撃で約 $235M 相当の暗号資産流出**。インド史上最大、グローバル top 5 級の流出事案 |
-| 2024-07–08 | 引出停止、損失共同負担 モデルでの債務再構築方針発表 |
+| 2024-03 | FIU-IND PMLA 報告主体登録完了 |
+| **2024-07-18** | **Liminal カストディ multi-sig ウォレット を経由した hot ウォレット攻撃で約 $235M 相当の暗号資産流出**。インド史上最大、グローバル top 5 級の流出事案 |
+| 2024-07–08 | 引出停止、損失共同負担モデルでの債務再構築方針発表 |
 | 2024-08 | Zettai Pte. Ltd. が **Singapore High Court に Moratorium 申請** |
 | 2024-10 | **Scheme of Arrangement** 提案、債権者投票プロセス開始 |
 | 2025 | Scheme of Arrangement 承認 / 異議申立てプロセス継続、部分的 distribution 開始 |
-| 2026 | 再建手続 継続、通常運営 完全回復は未完了 |
+| 2026 | 再建手続継続、通常運営完全回復は未完了 |
 
 ## 7. 戦略動向
 
-- **Liminal hack 原因論争**：WazirX 側は **Liminal Custody（[[exchanges/global-crypto-forensics-vendor-layer|crypto custody / forensics vendor layer]]）のマルチシグウォレットの問題** を主張。Liminal 側は **WazirX 側のキーマネジメントの問題** を主張。両社の公式声明が対立し、責任所在は完全には確定していない
+- **Liminal hack 原因論争**：WazirX 側は **Liminal カストディ（[[exchanges/global-crypto-forensics-vendor-layer|crypto カストディ / forensics vendor layer]]）のマルチシグウォレットの問題** を主張。Liminal 側は **WazirX 側のキーマネジメントの問題** を主張。両社の公式声明が対立し、責任所在は完全には確定していない
 - **北朝鮮 Lazarus グループ関与説**：流出資金の onchain フォレンジック（[[exchanges/global-crypto-forensics-vendor-layer|Chainalysis / Elliptic / TRM Labs]]）により Lazarus 関与が示唆された。[[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit hack]] と同じ攻撃パターン
-- **損失共同負担 提案**：流出資金を全顧客で按分負担する 再建手続 案 → 顧客から強い反発、訴訟複数提起
-- **Scheme of Arrangement**：シンガポール会社法下での債務再構築フレームワーク。インド国内債権者と オフショア 構造の整合性が論点
+- **損失共同負担提案**：流出資金を全顧客で按分負担する 再建手続案 → 顧客から強い反発、訴訟複数提起
+- **Scheme of Arrangement**：シンガポール会社法下での債務再構築フレームワーク。インド国内債権者と オフショア構造の整合性が論点
 - **Binance 関係**：dissociation 後も法的 / 経済的責任を Binance が負うかどうかが訴訟争点
 - **規制対応**：FIU-IND / Singapore MAS / インド ED の複数当局との並列対応負担
 
 ## 8. 業界での位置付け
 
-WazirX は **インド暗号通貨業界最大級のセキュリティ事故 ＋ クロスボーダー 再建手続 の象徴的事案** として、グローバル CEX レジリエンスの参照事例となった。[[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]]（2025-02、$1.5B）に先立つ大規模 hack として、**custody provider のマルチシグ実装 / キーマネジメント / 攻撃検知** のベストプラクティス再評価の契機となった。
+WazirX は **インド暗号通貨業界最大級のセキュリティ事故 ＋ クロスボーダー 再建手続 の象徴的事案** として、グローバル CEX レジリエンスの参照事例となった。[[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]]（2025-02、$1.5B）に先立つ大規模 hack として、**カストディ provider のマルチシグ実装 / キーマネジメント / 攻撃検知** のベストプラクティス再評価の契機となった。
 
-[[exchanges/global-crypto-exchange-bankruptcy-comparison|グローバル CEX 破綻比較]] の文脈では、**FTX 破綻型（fraud + co-mingling）** とは異なり、**hack 起因 ＋ クロスボーダー 再建手続** という [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck]] / [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin]] 型に近い破綻パターン。ただしシンガポール法人を媒介する点で、純粋な国内事案ではなく **アジア跨境 再建手続** の典型例となる。
+[[exchanges/global-crypto-exchange-bankruptcy-comparison|グローバル CEX 破綻比較]] の文脈では、**FTX 破綻型（fraud + co-mingling）** とは異なり、**hack 起因 ＋ クロスボーダー 再建手続** という [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck]] / [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin]] 型に近い破綻パターン。ただしシンガポール法人を媒介する点で、純粋な国内事案ではなく **アジア跨境再建手続** の典型例となる。
 
 ## 関連項目
 
-- [[exchanges/cex-coindcx-india]] — インド最大手 #1（市場ポジション移転先、最重要 クロスリンク）
+- [[exchanges/cex-coindcx-india]] — インド最大手 #1（市場ポジション移転先、最重要クロスリンク）
 - [[exchanges/bybit-lazarus-hack-detailed-analysis]] — Lazarus 攻撃パターン比較
 - [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] — 同 Lazarus 攻撃パターン比較
 - [[exchanges/coincheck-nem-hack-detailed-analysis]] — 日本同規模 hack 事案比較

@@ -2,10 +2,11 @@
 source: securities/japan-prime-brokerage-and-institutional-financing-matrix
 source_hash: 8f475cc2e9a55a28
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のプライムブローカレッジと機関投資家ファイナンスのマトリクス"
-translated_at: 2026-06-19T12:43:19.895Z
+translated_at: 2026-06-26T08:31:59.833Z
 ---
 
 # 日本のプライムブローカレッジと機関投資家ファイナンスのマトリクス
@@ -104,7 +105,7 @@ translated_at: 2026-06-19T12:43:19.895Z
 ## プロバイダー 6 — [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]
 
 - **ライセンスのフットプリント。** 第一種金商業者（ゴールドマン・サックス・ジャパン株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。ゴールドマン・サックスのグローバルプライムブローカレッジブックの東京支店。
-- **PB 顧客構成。** **最も厚いグローバルヘッジファンドの東京プレゼンスカバレッジ** — グローバルマルチストラテジーファンド（Citadel、Millennium、Point72, 、Balyasny、ExodusPoint など）の日本スリーブ。アジアのマクロヘッジファンド。日本戦略を持つクオンツヘッジファンド。オルタナティブクレジットファンド。アクティビスト / イベントドリブンファンド。グローバルマンデートを持つロング・ショート株式ファンド。野村 / 大和より小さい直接の国内 AM カバレッジ。
+- **PB 顧客構成。** **最も厚いグローバルヘッジファンドの東京プレゼンスカバレッジ** — グローバルマルチストラテジーファンド（Citadel、Millennium、Point72,、Balyasny、ExodusPoint など）の日本スリーブ。アジアのマクロヘッジファンド。日本戦略を持つクオンツヘッジファンド。オルタナティブクレジットファンド。アクティビスト / イベントドリブンファンド。グローバルマンデートを持つロング・ショート株式ファンド。野村 / 大和より小さい直接の国内 AM カバレッジ。
 - **株式貸出能力。** **最大のクロスボーダー借入インベントリ** — グローバルゴールドマン・サックス株式貸出ブック（ロンドン / NY / 香港 / シンガポール）から引き出すため、クライアントはグローバル子会社ブックを介して日本銘柄の借入を見つけられる。大型株と中型株で深い。借入がグローバルに見つけられる場合の小型株で競争力がある。
 - **レポ能力。** トップティアのグローバルレポブック。東京の第一種を介した JGB レポ + NY / ロンドンを介したグローバルクロスカレンシーレポ。
 - **証拠金貸付。** フルのリスクベースポートフォリオ証拠金（ゴールドマンのグローバルプラットフォーム証拠金方法論）。資産クラスにわたるクロス証拠金。
@@ -131,21 +132,21 @@ translated_at: 2026-06-19T12:43:19.895Z
 
 ## プロバイダー 8 — [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]
 
-- **ライセンスのフットプリント。** 第一種金商業者（JPモルガン証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。銀行ブック FX、レポ、カストディ統合のために JPモルガン・チェース銀行 東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch tier]]）と並んで運営される。
+- **ライセンスのフットプリント。** 第一種金商業者（JPモルガン証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。銀行ブック FX、レポ、カストディ統合のために JPモルガン・チェース銀行東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch tier]]）と並んで運営される。
 - **PB 顧客構成。** グローバルマルチストラテジーヘッジファンド（日本スリーブ）、アジアのマクロファンド、ロング・ショート株式、クオンツファンド、および JPM カバレッジの機関投資家アセットマネージャー。アジア全域にわたる強力なソブリン・ウェルスおよび中央銀行のカストディ / ファイナンス関係。野村より小さい直接の国内ヘッジファンドカバレッジだが、GS ジャパンに匹敵する。
 - **株式貸出能力。** トップティアのグローバル株式貸出ブック。JPM のグローバルインベントリ（ロンドン / NY / 香港 / シンガポール）から引き出す。大型株と中型株で深い。グローバル借入を介した小型株で競争力がある。
 - **レポ能力。** トップティアのグローバルレポブック。東京を介した JGB レポ + グローバルデスクを介したクロスカレンシーレポ。
 - **証拠金貸付。** フルのリスクベースポートフォリオ証拠金（JPM のグローバルプラットフォーム証拠金）。資産クラスにわたるクロス証拠金。
 - **デリバティブ。** フル JPX 上場デリバティブ。日本の単一株スワップのための深い店頭株式スワップブック。店頭金利 / FX / クレジットデリバティブ。仕組み商品。東京支店を介した JPM の銀行ブックデリバティブ能力は独特である。
 - **FX プライム。** JPM のグローバル FX プライムブローカレッジ — 世界最大の FX プライムブローカーの 1 つとしてしばしばランクされる。資産クラスにわたるクロスカレンシー証拠金。
-- **カストディ / 決済。** JSCC / JASDEC 会員。FIEA 分別を伴う自社カストディ。**JPM のグローバルカストディインフラと統合** — JPモルガン・チェース銀行 東京支店のカストディプラットフォームは日本最大の外国銀行カストディオペレーションの 1 つで、すべてのピアが持つわけではないカストディ-PB 統合を提供する。
+- **カストディ / 決済。** JSCC / JASDEC 会員。FIEA 分別を伴う自社カストディ。**JPM のグローバルカストディインフラと統合** — JPモルガン・チェース銀行東京支店のカストディプラットフォームは日本最大の外国銀行カストディオペレーションの 1 つで、すべてのピアが持つわけではないカストディ-PB 統合を提供する。
 - **キャピタル・イントロダクション。** JPM 東京プライムサービスおよび JPM アセット・マネジメント・ジャパンの隣接を介した確立された capintro プログラム。
 - **地理的リーチ。** 東京本社。JPM ロンドン、JPM NY、JPM 香港、JPM シンガポールと統合 — フルの 24 時間のグローバルプライムサービスプラットフォーム。
 - **際立った特徴。** **カストディ + 銀行ブック + プライムサービス統合** — JPM は 1 つの東京ホールセール関係内で 3 つすべてを提供できる数少ないグローバル IB の 1 つであり、これはクロスボーダー AM マンデートとソブリン・ウェルスクライアントにとって不釣り合いに重要である。
 
 ## プロバイダー 9 — [[foreign-financial-institutions/citigroup-japan|Citi Japan]]（シティグループ証券）
 
-- **ライセンスのフットプリント。** 第一種金商業者（シティグループ証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。シティバンク、エヌ・エイ 東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch]]）と並んで運営される。
+- **ライセンスのフットプリント。** 第一種金商業者（シティグループ証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。シティバンク、エヌ・エイ東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch]]）と並んで運営される。
 - **PB 顧客構成。** グローバルマルチストラテジーヘッジファンド（日本スリーブ）、アジアのマクロファンド、ロング・ショート株式、およびシティのグローバルカバレッジ機関投資家クライアント。シティのグローバル FX / レーツフランチャイズとの著しい FX プライムおよびレーツプライムの重複。
 - **株式貸出能力。** シティのグローバル株式貸出ブック。大型株と中型株で競争力がある。野村 / 大和より小さい専用の国内借入フランチャイズだが、グローバルインベントリへのアクセスが補完する。
 - **レポ能力。** トップティアのグローバルレポブック。東京を介した JGB レポ + シティのグローバルデスクを介したクロスカレンシーレポ。
@@ -154,12 +155,12 @@ translated_at: 2026-06-19T12:43:19.895Z
 - **FX プライム。** **シティは構造的に世界最大級の FX プライムブローカーの 1 つ**。東京 FX プライムは深いクロスカレンシー証拠金を伴うコア能力である。
 - **カストディ / 決済。** JSCC / JASDEC 会員。FIEA 分別を伴う自社カストディ。シティのグローバルカストディと統合（シティのグローバルカストディフランチャイズは最大級のサブカストディアンプラットフォームの 1 つ）。
 - **キャピタル・イントロダクション。** シティ東京プライムサービスおよびシティプライベートバンクの隣接を介した capintro プログラム。アジア全域のソブリンおよびファミリーオフィス資本を求めるヘッジファンドにとって構造的に重要。
-- **地理的リーチ。** 東京本社。シティ ロンドン、シティ NY、シティ 香港、シティ シンガポールと統合。
+- **地理的リーチ。** 東京本社。シティロンドン、シティ NY、シティ香港、シティシンガポールと統合。
 - **際立った特徴。** FX プライム + レーツデリバティブの深さ — シティは FX 重視およびレーツ重視の戦略にとっての構造的選択肢。株式 PB は競争力があるが、日本では GS / MS / JPM ほど深くない。
 
 ## プロバイダー 10 — [[foreign-financial-institutions/bank-of-america-japan|Bank of America Japan]]（BofA 証券）
 
-- **ライセンスのフットプリント。** 第一種金商業者（BofA 証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。バンク・オブ・アメリカ・エヌ・エイ 東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch]]）と並んで運営される。
+- **ライセンスのフットプリント。** 第一種金商業者（BofA 証券株式会社）。JSDA 正会員。PTS 適格。JIPF カバー。バンク・オブ・アメリカ・エヌ・エイ東京支店（[[banking/foreign-bank-japan-retreat|foreign-bank branch]]）と並んで運営される。
 - **PB 顧客構成。** グローバルマルチストラテジーヘッジファンド（日本スリーブ）、アジアのロング・ショート株式ヘッジファンド、BofA のグローバルカバレッジ機関投資家クライアント、およびアジアのマクロファンド。日本では GS / MS / JPM より小さい専用 PB ブックだが、実質的に存在する。
 - **株式貸出能力。** BofA のグローバル株式貸出ブック。大型株と中型株で競争力がある。野村 / 大和より小さい国内借入フランチャイズ。
 - **レポ能力。** グローバルレポブック。東京を介した JGB レポ + グローバルデスクを介したクロスカレンシーレポ。
@@ -190,8 +191,8 @@ translated_at: 2026-06-19T12:43:19.895Z
 | **Listed derivatives** | Full JPX | Full JPX | Full JPX | Full JPX | Listed coverage | Full JPX + global | Full JPX + global | Full JPX + global | Full JPX + global | Full JPX + global |
 | **OTC equity swaps depth** | Tier 1 domestic | Tier 1 domestic | Group-tied | Group-tied | Limited | **Tier 1 (deepest global)** | Tier 1 | Tier 1 | Tier 1 | Tier 1 |
 | **OTC IR / FX / credit derivs** | Tier 1 (Nomura global) | Tier 1 (Daiwa global) | SMBC banking integration | Mizuho banking integration | Limited | Tier 1 | Tier 1 | Tier 1 + banking | **Tier 1 (Citi rates / FX)** | Tier 1 |
-| **FX prime brokerage** | Nomura global FX | Daiwa global FX | SMBC banking-book FX | Mizuho banking-book FX | SBI FX Trade adjacency | GS global FX | MS global FX | **JPM global FX (top tier)** | **Citi global FX (top tier)** | BofA global FX |
-| **Custody / settlement** | JSCC / JASDEC direct | JSCC / JASDEC direct | JSCC / JASDEC direct | JSCC / JASDEC direct + Mizuho Trust | JSCC / JASDEC direct | JSCC / JASDEC + GS global custody | JSCC / JASDEC + MS global + MUTB | **JSCC / JASDEC + JPM banking custody** | JSCC / JASDEC + Citi global custody | JSCC / JASDEC + BofA global custody |
+| **FX prime 証券仲介** | Nomura global FX | Daiwa global FX | SMBC banking-book FX | Mizuho banking-book FX | SBI FX Trade adjacency | GS global FX | MS global FX | **JPM global FX (top tier)** | **Citi global FX (top tier)** | BofA global FX |
+| **カストディ / 決済** | JSCC / JASDEC direct | JSCC / JASDEC direct | JSCC / JASDEC direct | JSCC / JASDEC direct + Mizuho Trust | JSCC / JASDEC direct | JSCC / JASDEC + GS global カストディ | JSCC / JASDEC + MS global + MUTB | **JSCC / JASDEC + JPM banking カストディ** | JSCC / JASDEC + Citi global カストディ | JSCC / JASDEC + BofA global カストディ |
 | **Capital introduction** | Established (domestic-focused) | Selective (domestic / Asian) | SMBC group channel | Mizuho / Dai-ichi Life channel | Limited | **Industry-leading (Asia)** | Established (global + MUFG) | Established (global + JPMAM) | Established (Asia FX-led) | Established (smaller in Asia) |
 | **Geographic reach** | Tokyo + global (Nomura Intl, NY) | Tokyo + global (Daiwa CM US/EU/HK) | Tokyo + SMBC CM (Lon/NY) | Tokyo + Mizuho Sec (US/Lon/HK) | Tokyo + nationwide retail | **Tokyo + GS global 24-hr** | Tokyo + MS global 24-hr | Tokyo + JPM global 24-hr | Tokyo + Citi global 24-hr | Tokyo + BofA global 24-hr |
 | **Collateral haircut grid** | Bilateral negotiated; standard ranges: cash 0%, JGB 2-5%, listed equity 15-40% by liquidity, REIT 25-45%, ETF 15-30%, unlisted negotiated | Bilateral negotiated; comparable ranges to Nomura | Bilateral negotiated; megabank balance-sheet flexibility | Bilateral negotiated; megabank balance-sheet flexibility | Standardized; retail-margin proximity | Bilateral negotiated; **global cross-margining advantage** | Bilateral; global + MUFG cross-margin | Bilateral; global cross-margining | Bilateral; global cross-margining | Bilateral; global cross-margining |
@@ -199,9 +200,7 @@ translated_at: 2026-06-19T12:43:19.895Z
 
 担保ヘアカットに関する注記: 公表された参考レンジ（野村: cash 0%、JGB 2-5%、流動性ティアによる上場株式 15-40%、REIT 25-45%、ETF 15-30%、非上場はケースバイケースで交渉）は例示である — 実際のヘアカットグリッドはクライアント / ファンド / 集中度ごとに二者間で交渉され、詳細は公に開示されない。
 
-## 株式貸出フィーのベンチマークガイド
-
-日本における SLB（証券貸借）市場の公開情報ベースのベンチマークは、JSDA の自主規制集計公表、[[financial-regulators/japan-securities-finance|Japan Securities Finance]] の公表レート参照、および JPX の信用取引統計から得られる。日本における機関投資家の株式借入に対する **参考フィーレンジ**（銘柄、集中度、リコールリスク、コーポレートアクションの近接性、カウンターパーティによって大きく変動する）:
+## 株式貸出フィーのベンチマークガイド日本における SLB（証券貸借）市場の公開情報ベースのベンチマークは、JSDA の自主規制集計公表、[[financial-regulators/japan-securities-finance|Japan Securities Finance]] の公表レート参照、および JPX の信用取引統計から得られる。日本における機関投資家の株式借入に対する **参考フィーレンジ**（銘柄、集中度、リコールリスク、コーポレートアクションの近接性、カウンターパーティによって大きく変動する）:
 
 | Borrow tier | Indicative annualized fee range | Typical names |
 |---|---|---|
@@ -209,7 +208,7 @@ translated_at: 2026-06-19T12:43:19.895Z
 | **Mid-cap warm** | ≈ 50–200 bps | Standard Market mid-caps with moderate borrow availability |
 | **Small-cap warm / hot** | ≈ 200–1,000 bps (2–10%) | Growth Market and small Standard names; corporate-action-adjacent borrow |
 | **Specials / hard-to-borrow** | ≈ 1,000+ bps (10%+) | Names under intense short demand, corporate-action restrictions, or scarcity events |
-| **Recall / fail penalty** | Per JSDA BLT Guidelines and JSF rule books | Recall and settlement-fail penalty structures published by SROs |
+| **Recall / fail penalty** | Per JSDA BLT Guidelines and JSF rule books | Recall and 決済-fail penalty structures published by SROs |
 
 これらのレンジは公開集計の参考水準であり、プロバイダー固有の提示レートではない。実際のフィーは関係性の価格付け、インベントリの源泉、リコールリスク、集中度に依存する。レールレベルのメカニクスについては [[securities/japan-stock-lending-market-route|Japan stock lending market route]] を用いること。
 

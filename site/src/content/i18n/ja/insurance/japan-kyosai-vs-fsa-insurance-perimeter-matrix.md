@@ -2,10 +2,11 @@
 source: insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix
 source_hash: b4539749a7c7ecaf
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan kyosai vs FSA insurance perimeter matrix"
-translated_at: 2026-06-19T06:09:18.125Z
+translated_at: 2026-06-26T08:28:46.060Z
 ---
 
 # Japan kyosai vs FSA insurance perimeter matrix
@@ -16,7 +17,7 @@ translated_at: 2026-06-19T06:09:18.125Z
 
 ## Wiki route
 
-本ページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan entry]] および商業保険のオーバーレイ [[insurance/japan-life-big-four-overlay-comparison-matrix|life big-four overlay]]、[[insurance/japan-nonlife-big-three-reinsurance-cat-matrix|non-life big-three reinsurance / cat overlay]]、[[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] に対する規制パリメーターのコンパニオンである。製品側の文脈については、[[insurance/ja-kyosai-zenkyoren-overview|the JA Zenkyoren overview]]、[[insurance/kampo-japan-post-insurance]]、[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-nonlife-big-three|the Japan non-life big three entry]]、[[insurance/economic-value-based-solvency|economic-value-based solvency]]、[[insurance/esr-economic-value-solvency|ESR]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/medical-cancer-insurance-product-economics|medical / cancer insurance product economics]] と併せて読むこと。
+本ページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan entry]] および商業保険のオーバーレイ [[insurance/japan-life-big-four-overlay-comparison-matrix|life big-four overlay]]、[[insurance/japan-nonlife-big-three-reinsurance-cat-matrix|non-life big-three reinsurance / cat overlay]]、[[insurance/global-solvency-framework-comparison-matrix|the global ソルベンシー framework comparison matrix]] に対する規制パリメーターのコンパニオンである。製品側の文脈については、[[insurance/ja-kyosai-zenkyoren-overview|the JA Zenkyoren overview]]、[[insurance/kampo-japan-post-insurance]]、[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-nonlife-big-three|the Japan non-life big three entry]]、[[insurance/economic-value-based-solvency|economic-value-based ソルベンシー]]、[[insurance/esr-economic-value-solvency|ESR]]、[[insurance/internet-life-insurance-business-model|the internet life insurance 事業モデル]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/medical-cancer-insurance-product-economics|medical / cancer insurance product economics]] と併せて読むこと。
 
 商業側のクリーンなエンティティアンカーには、[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life HD]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[non-life-insurers/tokio-marine|Tokio Marine HD]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo HD]]、[[life-insurers/kampo-life|Kampo Life]]、[[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] が含まれる。共済側は単一の全国上場持株会社に連結されない — 各連合会はそれぞれ独自の特別法に統治される独自の協同組合連合会である。
 
@@ -69,7 +70,7 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Regulator, law, and licence
 
-| Axis | FSA 商業 生保ビッグ4 / 損保ビッグ3 / 外国 / オンライン / Kampo | JA共済 Zenkyoren | 全労済 Zenrosai / こくみん共済 coop | 県民共済 Kenmin-kyosai | COOP共済 | 全自共 Zenjikyo |
+| Axis | FSA 商業生保ビッグ4 / 損保ビッグ3 / 外国 / オンライン / Kampo | JA共済 Zenkyoren | 全労済 Zenrosai / こくみん共済 coop | 県民共済 Kenmin-kyosai | COOP共済 | 全自共 Zenjikyo |
 |---|---|---|---|---|---|---|
 | Regulator | [[FSA|Financial Services Agency]] (金融庁) | MAFF (農林水産省) | MHLW (厚生労働省) | 都道府県知事 + MHLW | MHLW | 連合会に応じて METI / MLIT 隣接 |
 | Supervisory law | 保険業法（保険業法）；Kampo Life は郵政関連法と二重規制 | 農業協同組合法（農業協同組合法） | 消費生活協同組合法（消費生活協同組合法） | 消費生活協同組合法 | 消費生活協同組合法 | セクター固有の協同組合法 / 中小企業等協同組合法 |
@@ -83,7 +84,7 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | Axis | FSA 商業保険 | JA共済 | Zenrosai | Kenmin-kyosai | COOP共済 | Zenjikyo |
 |---|---|---|---|---|---|---|
 | Access | 一般公衆に開放 | JA 協同組合の会員（農村地域 / コミュニティ）；准組合員（associate membership）が広く利用可能 | 協同組合の会員；購入時点で一回限りの会費 | 協同組合の会員；一回限りの少額会費 | CO・OP 協同組合の会員；一回限りの会費 | 業界連合会の会員（トラック / 運送事業者） |
-| Underwriting intensity | 製品に応じたフルの医療 / リスク引受 | 自動車 / 建物でのリスク引受；生命では軽め | シンプルな生命 / 傷害 / 火災で軽め | 非常に軽い；定額保険料、上限のある給付 | シンプルな生命 / 火災 / 傷害で軽い | 商用車のリスク引受 |
+| 引受 intensity | 製品に応じたフルの医療 / リスク引受 | 自動車 / 建物でのリスク引受；生命では軽め | シンプルな生命 / 傷害 / 火災で軽め | 非常に軽い；定額保険料、上限のある給付 | シンプルな生命 / 火災 / 傷害で軽い | 商用車のリスク引受 |
 | Premium structure | リスクレート；年齢 / 健康バンド；製品固有 | 自動車 / 建物はリスクレート；生命はクラスレート | クラスレート、シンプルな定額ティア | 定額の低保険料ティア（例：¥2,000 / 月 のスタイル） | クラスレート、シンプルなティア | 商用車のリスクレート |
 | Geographic concentration | 全国 | 農村地域；農村および郊外で強いシェア | 全国；労働組合および消費者協同組合の基盤 | 都道府県の連合会を通じて全国 | CO・OP 連合会を通じて全国 | 全国のトラック輸送 / 運送事業者 |
 
@@ -142,7 +143,7 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 |---|---|---|
 | Tied sales force | ビッグ4 の生保が日本最大；外国系列はライフプランナー / FA モデルを運営 | JA グループの地域協同組合が JA共済 を販売；労働組合チャネルが Zenrosai を販売 |
 | Bancassurance | 外貨建て年金および一時払い貯蓄の主要チャネル — [[insurance/bancassurance-economics-japan|bancassurance economics Japan]] と [[insurance/japan-bancassurance-distribution-overlay-matrix|the bancassurance distribution overlay matrix]] を参照 | コアでない |
-| Independent agency（代理店） | 損保および選択された生保の主要チャネル；[[insurance/insurance-agency-and-brokerage-japan|agency / brokerage Japan]] | 限定的 |
+| Independent agency（代理店） | 損保および選択された生保の主要チャネル；[[insurance/insurance-agency-and-brokerage-japan|agency / 証券仲介 Japan]] | 限定的 |
 | Internet / direct | [[insurance/internet-life-insurance-business-model|Internet life model]]；オンラインのビッグ3 の自動車 | 連合会のウェブサイトでの限定的なオンライン見積もり / 申し込み |
 | Cooperative store-front | 該当なし | 地域の JA 支店、CO・OP 店舗、都道府県の協同組合連合会のデスク、労働組合のオフィス |
 | Workplace / employer | ビッグ4 の団体生命の給与天引き | Zenrosai での労働組合の給与天引き；COOP共済 での雇用主の会員資格 |

@@ -2,10 +2,11 @@
 source: asset-managers/nomura-asset-management
 source_hash: e2a05deae6e8a530
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "野村アセットマネジメント"
-translated_at: 2026-06-15T03:48:21.916Z
+translated_at: 2026-06-26T08:31:59.850Z
 ---
 
 # 野村アセットマネジメント
@@ -26,16 +27,14 @@ translated_at: 2026-06-15T03:48:21.916Z
 | License route | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第373号 |
 | Parent boundary | [[securities-firms/nomura-hd|野村 HD]] グループの asset-management arm (securities-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
-| Wiki role | 野村系 運用会社 anchor |
+| Wiki role | 野村系運用会社 anchor |
 
-## 2. オペレーティングモデル
-
-投資運用業者として、(1) 公募投信の **投資信託委託** (組成・運用)、(2) ETF / index products、(3) **投資一任** (年金・機関投資家 discretionary mandate)、(4) 投資助言を担う。証券グループの brokerage / investment banking とは分離された **fee-based asset-management pillar**。[[trust-banks/nomura-trust-bank|野村信託銀行]] とともに証券グループの wealth / asset formation stack を構成する。低コスト index / ETF の手数料競争では [[asset-managers/daiwa-asset-management|大和アセット]] や系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
+## 2. オペレーティングモデル投資運用業者として、(1) 公募投信の **投資信託委託** (組成・運用)、(2) ETF / index products、(3) **投資一任** (年金・機関投資家 discretionary mandate)、(4) 投資助言を担う。証券グループの 証券仲介 / investment banking とは分離された **fee-based asset-management pillar**。[[trust-banks/nomura-trust-bank|野村信託銀行]] とともに証券グループの wealth / asset formation stack を構成する。低コスト index / ETF の手数料競争では [[asset-managers/daiwa-asset-management|大和アセット]] や系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
 
 ## 3. このページが重要な理由
 
-- 野村グループを brokerage だけで見ると見えにくい **ETF / index / active / institutional mandate** の運用機能を切り出す。
-- 資産運用立国・NISA・ETF 市場・信託銀行 custody との接続点を確定する。
+- 野村グループを 証券仲介 だけで見ると見えにくい **ETF / index / active / institutional mandate** の運用機能を切り出す。
+- 資産運用立国・NISA・ETF 市場・信託銀行カストディ との接続点を確定する。
 - 証券系ピア ([[asset-managers/daiwa-asset-management|大和アセット]] / [[asset-managers/nikko-asset-management|日興→Amova]]) との比較起点を提供する。
 
 ## 関連

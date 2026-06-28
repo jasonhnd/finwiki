@@ -2,10 +2,11 @@
 source: agent-economy/2026-04-08_agent-payment-infrastructure-research
 source_hash: d0e891a76a2dd092
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Agent 決済インフラ調査レポート"
-translated_at: 2026-06-02T11:47:37.252Z
+translated_at: 2026-06-26T08:29:25.254Z
 ---
 
 # Agent 決済インフラ調査レポート
@@ -18,9 +19,7 @@ translated_at: 2026-06-02T11:47:37.252Z
 > [!info] 要約
 > 公開ソースに基づくプロトコルのスナップショット | 2026-04-08
 
-## 一、プロトコル標準の構図
-
-現在の Agent 決済領域は既に **4 大プロトコル並立** の構図を形成している:
+## 一、プロトコル標準の構図現在の Agent 決済領域は既に **4 大プロトコル並立** の構図を形成している:
 
 1. **ACP (Agentic Commerce Protocol)** — Stripe と OpenAI が共同開発、Apache 2.0 オープンソース。中核イノベーションは Shared Payment Token (SPT) で、ChatGPT 等のアプリがユーザーの決済資格情報を露出せずに取引を開始できる。既に ChatGPT で Instant Checkout がローンチされ、Etsy 出店者と数百万の Shopify マーチャントをサポート。現在は Beta 段階。([出典](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce))
 
@@ -34,11 +33,11 @@ translated_at: 2026-06-02T11:47:37.252Z
 
 | プレイヤー | プロダクト | 状況 | 特徴 |
 |------|------|------|------|
-| **Coinbase** | Agentic Wallets + x402 | ローンチ済(2026.2) | 50M+ の取引量、Base L2 優先、USDC/ETH/BTC をサポート |
-| **Crossmint** | Embedded Agent Wallets | ローンチ済 | デュアル鍵モデル(TEE)、ステーブルコインとバーチャル Visa/MC カードの両方をサポート、10 億+ の商品をカバー |
+| **Coinbase** | Agentic ウォレット + x402 | ローンチ済(2026.2) | 50M+ の取引量、Base L2 優先、USDC/ETH/BTC をサポート |
+| **Crossmint** | Embedded Agent ウォレット | ローンチ済 | デュアル鍵モデル(TEE)、ステーブルコインとバーチャル Visa/MC カードの両方をサポート、10 億+ の商品をカバー |
 | **Skyfire** | KYAPay | ローンチ済 | 法定通貨と USDC チャージをサポート、Agent 信用層を構築 |
 | **Nevermined** | Agent 決済インフラ | ローンチ済 | メータリング、課金、カードエージェントを内蔵、x402 と統合 |
-| **Human.tech** | Agentic WaaP | 2026 リリース | Wallet as a Protocol、暗号学で人間の監督を強制 |
+| **Human.tech** | Agentic WaaP | 2026 リリース | ウォレット as a Protocol、暗号学で人間の監督を強制 |
 | **Circle** | Gateway + CCTP + x402 | ローンチ済 | USDC は 30 チェーンをカバー、CCTP は 19 チェーンを接続、$1260 億の総処理量 |
 
 ## 三、ID と信頼レイヤー
@@ -69,7 +68,7 @@ translated_at: 2026-06-02T11:47:37.252Z
 - [A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402)
 - [Stripe ACP](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce)
 - [x402 Foundation](https://www.x402.org/)
-- [Coinbase Agentic Wallets](https://www.coinbase.com/developer-platform/discover/launches/agentic-wallets)
+- [Coinbase Agentic ウォレット](https://www.coinbase.com/developer-platform/discover/launches/agentic-wallets)
 - [Crossmint Agent Payments](https://www.crossmint.com/solutions/agentic-payments)
 - [Skyfire KYAPay](https://skyfire.xyz/product/)
 - [Nevermined](https://nevermined.ai/)

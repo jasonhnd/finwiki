@@ -2,10 +2,11 @@
 source: payments/waon-prepaid-aeon
 source_hash: 6452b79c65ae7a78
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "WAON：イオングループの全国 IC プリペイド電子マネー"
-translated_at: 2026-06-19T06:09:18.184Z
+translated_at: 2026-06-26T08:38:42.157Z
 ---
 
 # WAON：イオングループの全国 IC プリペイド電子マネー

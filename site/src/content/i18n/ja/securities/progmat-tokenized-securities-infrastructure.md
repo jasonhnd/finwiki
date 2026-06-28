@@ -2,17 +2,16 @@
 source: securities/progmat-tokenized-securities-infrastructure
 source_hash: 8b44c43aee6ec1e0
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Progmat トークン化証券インフラ"
-translated_at: 2026-06-19T12:43:19.884Z
+translated_at: 2026-06-26T08:29:40.689Z
 ---
 
 # Progmat トークン化証券インフラ
 
-## Wiki ルート
-
-本ページは [[securities/INDEX|securities index]] の内部に、会場側の [[securities/odx-start-stb-secondary-market|ODX START security token secondary market]] ページおよびルートレベルの [[securities/japan-security-token-secondary-market-route|Japan security token secondary market route]] ページのプラットフォーム側コンパニオンとして位置づけられる。現物株との対比として [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、参加証券会社の免許側チェックとして [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、ファンドラッピングの問題として [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] と併せて読むこと。クロスドメインの架け橋は [[fintech/jp-stablecoin-progmat|Progmat stablecoin route]] である。なぜなら Progmat Coin（トークン化預金 / ステーブルコイン）は Progmat ST のキャッシュレッグのコンパニオンだからである。
+## Wiki ルート本ページは [[securities/INDEX|securities index]] の内部に、会場側の [[securities/odx-start-stb-secondary-market|ODX START security token secondary market]] ページおよびルートレベルの [[securities/japan-security-token-secondary-market-route|Japan security token secondary market route]] ページのプラットフォーム側コンパニオンとして位置づけられる。現物株との対比として [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、参加証券会社の免許側チェックとして [[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry]]、ファンドラッピングの問題として [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] と併せて読むこと。クロスドメインの架け橋は [[fintech/jp-stablecoin-progmat|Progmat stablecoin route]] である。なぜなら Progmat Coin（トークン化預金 / ステーブルコイン）は Progmat ST のキャッシュレッグのコンパニオンだからである。
 
 ## TL;DR
 

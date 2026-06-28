@@ -2,21 +2,18 @@
 source: consumer-finance/shinsei-financial
 source_hash: f1cc96122d86b540
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "新生フィナンシャル"
-translated_at: 2026-06-15T03:48:21.875Z
+translated_at: 2026-06-26T08:32:07.546Z
 ---
 
 # 新生フィナンシャル
 
-## Wiki 経路
+## Wiki 経路本項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の配下に位置する。隣接する SBI 新生の消費者信用レーンについては [[card-issuers/aplus|APLUS]]、より広い信用／割賦の境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と併せて読むこと。
 
-本項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の配下に位置する。隣接する SBI 新生の消費者信用レーンについては [[card-issuers/aplus|APLUS]]、より広い信用／割賦の境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と併せて読むこと。
-
-## 概要
-
-新生フィナンシャル株式会社は、個人ローン、信用保証、および関連する貸付サービスを担う [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] グループの消費者金融 operator。公式プロフィールは個人ローン、信用保証、その他事業を掲げており、関東財務局長の貸金業登録を持つ。
+## 概要新生フィナンシャル株式会社は、個人ローン、信用保証、および関連する貸付サービスを担う [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] グループの消費者金融事業者。公式プロフィールは個人ローン、信用保証、その他事業を掲げており、関東財務局長の貸金業登録を持つ。
 
 FinWiki にとって本ページが重要なのは、[[megabanks/sbi-hd|SBI]] が SBI 新生を銀行プラットフォームとして用いつつ、消費者金融・保証・割賦信用の隣接領域を [[consumer-finance/shinsei-financial|Shinsei Financial]] や [[card-issuers/aplus|APLUS]] といった専門 operating company に保持しているためである。
 

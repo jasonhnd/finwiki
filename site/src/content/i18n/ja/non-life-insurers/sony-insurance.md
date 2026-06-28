@@ -2,10 +2,11 @@
 source: non-life-insurers/sony-insurance
 source_hash: 9b9c34fd897573d7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ソニー損害保険"
-translated_at: 2026-06-02T15:14:17.105Z
+translated_at: 2026-06-26T08:32:23.069Z
 ---
 
 # ソニー損害保険
@@ -15,9 +16,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]]に置かれる。比較対象として[[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] 同業・対比の文脈を確認する and [[insurance/INDEX|insurance index]] より広い制度・規制境界を確認する.
 
-## 要約
-
-ソニー損害保険株式会社は、[[megabanks/sony-fg]]グループのダイレクト損害保険事業会社である。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される認可保険会社で、ダイレクト自動車保険 / オンライン保険モデルの代表例である。
+## 要約ソニー損害保険株式会社は、[[megabanks/sony-fg]]グループのダイレクト損害保険事業会社である。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される認可保険会社で、ダイレクト自動車保険 / オンライン保険モデルの代表例である。
 
 ## 1. ライセンスとグループ境界
 
@@ -29,9 +28,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 | 保護制度 | Non-Life Insurance Policyholders Protection Corporation member |
 | グループ境界 | [[megabanks/sony-fg]] direct non-life operating company |
 
-## 2. 運営モデル
-
-ソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[life-insurers/sony-life]] and [[banking/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
+## 2. 運営モデルソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[life-insurers/sony-life]] and [[banking/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance 経済圏 を構成する。
 
 ## 3. この項目が存在する理由
 

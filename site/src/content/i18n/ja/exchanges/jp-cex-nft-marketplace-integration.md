@@ -2,10 +2,11 @@
 source: exchanges/jp-cex-nft-marketplace-integration
 source_hash: b5e463e68c332c18
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内 CEX × NFT マーケットプレイス統合モデル"
-translated_at: 2026-06-02T12:19:04.220Z
+translated_at: 2026-06-26T08:29:25.273Z
 ---
 
 # 国内 CEX × NFT マーケットプレイス統合モデル
@@ -14,9 +15,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置づける。同業比較・対照文脈は [[exchanges/jp-cex-staking-lending-regulation|国内 CEX ステーキング・レンディングサービス + 規制]]、より広い制度・規制境界は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] と併読する。
 
-## 概要
-
-国内 CEX は VASP ライセンス保有の強みを活用し、NFT マーケットプレイス (MP) を自社運営または連携。2021-2022 NFT bubble 期に各社が一斉進出したが、2023-2026 は明確な縮小整理フェーズに移行。決済レイヤーで暗号資産を扱う必要があるため、VASP 登録済み CEX が構造的に有利なポジションを持つ。
+## 概要国内 CEX は VASP ライセンス保有の強みを活用し、NFT マーケットプレイス (MP) を自社運営または連携。2021-2022 NFT bubble 期に各社が一斉進出したが、2023-2026 は明確な縮小整理フェーズに移行。決済レイヤーで暗号資産を扱う必要があるため、VASP 登録済み CEX が構造的に有利なポジションを持つ。
 
 ## 主要サービス
 
@@ -39,9 +38,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 - **Adam byGMO**: 規模縮小報道あり (詳細未公表)。
 - **Coincheck NFT**: 継続中だが β 表記を維持、機能拡張は限定的。
 
-## 国際比較
-
-米 OpenSea / Magic Eden / Blur 等は独立 MP として暗号資産 wallet 接続前提。国内は VASP 規制と日本円決済需要から、CEX 統合型独自モデルが成立。海外は MP 主導、国内は CEX 主導という非対称構造。
+## 国際比較米 OpenSea / Magic Eden / Blur 等は独立 MP として暗号資産ウォレット接続前提。国内は VASP 規制と日本円決済需要から、CEX 統合型独自モデルが成立。海外は MP 主導、国内は CEX 主導という非対称構造。
 
 ## 関連
 

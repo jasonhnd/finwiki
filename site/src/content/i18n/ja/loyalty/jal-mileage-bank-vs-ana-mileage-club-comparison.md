@@ -2,17 +2,18 @@
 source: loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison
 source_hash: 046e45c8844f6138
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JAL マイレージバンク vs ANA マイレージクラブ ― 積算、特典交換、提携ネットワーク、ステータス階層、繰延収益会計"
-translated_at: 2026-06-19T06:09:18.088Z
+translated_at: 2026-06-26T08:31:59.825Z
 ---
 
 # JAL マイレージバンク vs ANA マイレージクラブ ― 積算、特典交換、提携ネットワーク、ステータス階層、繰延収益会計
 
 ## Wiki route
 
-この項目は、日本の二大航空ロイヤルティプログラムについての **フリークエント・フライヤー・プログラム（FFP）比較ページ** として [[loyalty/INDEX|loyalty index]] の下に位置する。横断的ロイヤルティ・エコシステムの文脈については [[loyalty/japan-points-landscape|Japan points landscape]] と、共通ポイントプログラムとは大きく異なる IFRS 15 契約負債の取扱いについては [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] と、JAL マイレージバンク ↔ Pontaポイント 間の双方向交換関係については [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] と、航空マイルと相互交換する共通ポイントの同業者については [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] および [[loyalty/v-point-smbc-ccc-case|V Point case]] と、JAL 側のカード発行および決済インフラのスタックについては [[card-issuers/jal-card|JAL Card]] および [[payment-firms/jal-payment-port|JAL Payment Port]] と、ウォレット隣接の文脈については [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせて読むこと。
+この項目は、日本の二大航空ロイヤルティプログラムについての **フリークエント・フライヤー・プログラム（FFP）比較ページ** として [[loyalty/INDEX|loyalty index]] の下に位置する。横断的ロイヤルティ・エコシステムの文脈については [[loyalty/japan-points-landscape|Japan points landscape]] と、共通ポイントプログラムとは大きく異なる IFRS 15 契約負債の取扱いについては [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] と、JAL マイレージバンク ↔ Pontaポイント間の双方向交換関係については [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] と、航空マイルと相互交換する共通ポイントの同業者については [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]] および [[loyalty/v-point-smbc-ccc-case|V Point case]] と、JAL 側のカード発行および決済インフラのスタックについては [[card-issuers/jal-card|JAL Card]] および [[payment-firms/jal-payment-port|JAL Payment Port]] と、ウォレット隣接の文脈については [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせて読むこと。
 
 ## TL;DR
 
@@ -46,25 +47,21 @@ translated_at: 2026-06-19T06:09:18.088Z
 
 両プログラムは詳細な運賃クラス別の積算率表を公表している。構造的パターンは類似しており（運賃ブッキングクラスが高いほど積算 % が高い）、ステータス保有者にはボーナスがある。
 
-### 非搭乗積算
-
-現在、より大きな量のマイル発行は非搭乗ソースから生じており、主に提携クレジットカードと提携交換によるものである：
+### 非搭乗積算現在、より大きな量のマイル発行は非搭乗ソースから生じており、主に提携クレジットカードと提携交換によるものである：
 
 | 非搭乗ソース | JMB | AMC |
 |---|---|---|
 | **提携カード** | [[card-issuers/jal-card|JAL Card]]（JCB / VISA / Master / AmEx / Diners、すべて 5 国際ブランド）| ANA Card シリーズ（JCB / VISA / Master / AmEx / Diners、提携発行）|
 | **カード利用積算** | カード階層に応じて標準 0.5-1% マイル/¥；「ショッピングマイル・プレミアム」任意 ¥3,300/年 の追加で 1% へ倍増 | 標準 0.5-1% マイル/¥；「10マイルコース」任意の手数料体系で積算が倍増 |
-| **プレミアムカード階層** | JAL Card CLUB-A ゴールド, JAL Card プラチナ, JAL アメリカン・エキスプレス・カード CLUB-A ゴールド | ANA ワイドゴールドカード, ANA カード プレミアム, ANA アメリカン・エキスプレス・プレミアム・カード |
+| **プレミアムカード階層** | JAL Card CLUB-A ゴールド, JAL Card プラチナ, JAL アメリカン・エキスプレス・カード CLUB-A ゴールド | ANA ワイドゴールドカード, ANA カードプレミアム, ANA アメリカン・エキスプレス・プレミアム・カード |
 | **共通ポイント双方向交換** | **Pontaポイント ↔ JMB**（2 Pontaポイント → 1 マイル、Pontaポイント→マイル方向の交換比率；[[loyalty/ponta-points-deep-dive|Ponta points deep dive]] 参照）；**dポイント ↔ JMB**（類似の双方向）；歴史的に他の提携先 | **楽天ポイント → AMC**（変動交換）；**Tポイント → AMC**（旧）；**Pontaポイント → AMC**（標準の直接ルートではない）；各種提携ポイント交換 |
 | **モール・ショッピングポータル** | 「JAL ショッピングマイル・プログラム」+「JAL Mall」| 「ANA Mall」+「ANAマイレージモール」|
 | **ホテル提携積算** | JAL ABC, JAL ホテル, 提携グローバルホテルチェーン（ワンワールド + 非アライアンスのホテル提携先）| ANA インターコンチネンタル, ANA Crowne Plaza, 提携グローバルホテルチェーン |
 | **その他** | レンタカー、レストラン、レジャー提携プログラム | レンタカー、レストラン、レジャー提携プログラム |
 
-**最も深い構造的相違** は **共通ポイント双方向交換** 側にある：**JAL マイレージバンクは Pontaポイント と特に強い関係を持つ**（ロイヤリティマーケティング運営、三菱系）。これは JAL が Pontaポイント アライアンスのメンバーであることによって強化されている。**ANA マイレージクラブは 楽天ポイント および歴史的に Tポイント とより強い関係を持つ**。これは異なる商業上の提携交渉を反映している。[[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|2024 Lawson + Mitsubishi take-private]] の下では、JAL ↔ Pontaポイント ↔ ローソン の横断的エコシステムがより一貫した三角形になる。
+**最も深い構造的相違** は **共通ポイント双方向交換** 側にある：**JAL マイレージバンクは Pontaポイント と特に強い関係を持つ**（ロイヤリティマーケティング運営、三菱系）。これは JAL が Pontaポイントアライアンスのメンバーであることによって強化されている。**ANA マイレージクラブは 楽天ポイント および歴史的に Tポイント とより強い関係を持つ**。これは異なる商業上の提携交渉を反映している。[[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|2024 Lawson + Mitsubishi take-private]] の下では、JAL ↔ Pontaポイント ↔ ローソン の横断的エコシステムがより一貫した三角形になる。
 
-## マイル特典交換 ― 座席在庫が支配的
-
-両プログラムの支配的な特典交換モードは、航空会社が管理する特典座席在庫に対する **特典航空券** である：
+## マイル特典交換 ― 座席在庫が支配的両プログラムの支配的な特典交換モードは、航空会社が管理する特典座席在庫に対する **特典航空券** である：
 
 | 特典タイプ | JMB のパターン | AMC のパターン |
 |---|---|---|
@@ -116,11 +113,11 @@ JAL と ANA 双方の **契約負債残高** は、公開 IR 開示に基づき 
 |---|---|---|
 | **アライアンス航空会社** | ワンワールド（BA, AA, QF, CX, IB, MH, S7, 等）| スターアライアンス（UA, LH, SQ, AC, OZ, EVA, TG 等）|
 | **コードシェアのみの提携航空会社（非アライアンス）** | エミレーツ（コードシェア）、各種地域 | TUI 等 |
-| **ホテル** | JAL ホテルチェーン + 提携チェーン（ヒルトン、IHG、マリオット、マイル交換経由）| インターコンチネンタル ホテルズ グループ、ヒルトン、マリオット |
-| **レンタカー** | ハーツ、エイビス 等 | ハーツ、エイビス 等 |
+| **ホテル** | JAL ホテルチェーン + 提携チェーン（ヒルトン、IHG、マリオット、マイル交換経由）| インターコンチネンタルホテルズグループ、ヒルトン、マリオット |
+| **レンタカー** | ハーツ、エイビス等 | ハーツ、エイビス等 |
 | **共通ポイント双方向交換** | **Pontaポイント**（アンカー）、dポイント、その他 | **楽天ポイント**（アンカー）、Tポイント（旧）、その他 |
 | **提携カード** | [[card-issuers/jal-card|JAL Card]]（5 国際ブランド）| ANA Card シリーズ（提携発行体経由で 5 国際ブランド）|
-| **百貨店 / 電子マネー** | JR 東日本 ビューカード（限定）、各種小売 | au PAY（限定）、各種小売 |
+| **百貨店 / 電子マネー** | JR 東日本ビューカード（限定）、各種小売 | au PAY（限定）、各種小売 |
 | **チャリティ寄付** | JMB チャリティプログラム | AMC チャリティプログラム |
 
 ## 競争上のポジショニング
@@ -142,12 +139,12 @@ JMB と AMC が日本以外の FFP に対して持つ構造的な強みは、外
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/t-point-v-point-post-2024-merger|T Point + V Point post-2024 merger detail]]
-- [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank ecosystem]]
-- [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]]
+- [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank 経済圏]]
+- [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty 経済圏 deep]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]
 - [[card-issuers/jal-card|JAL Card]]
 - [[payment-firms/jal-payment-port|JAL Payment Port]]

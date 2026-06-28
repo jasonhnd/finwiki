@@ -2,28 +2,29 @@
 source: payment-firms/diners-club-japan
 source_hash: 96e8fcb9c23bf901
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "ダイナースクラブ ジャパン (Diners Club Japan)"
-translated_at: 2026-06-02T14:25:12.404Z
+title: "ダイナースクラブジャパン (Diners Club Japan)"
+translated_at: 2026-06-26T08:32:07.561Z
 ---
 
-# ダイナースクラブ ジャパン (Diners Club Japan)
+# ダイナースクラブジャパン (Diners Club Japan)
 
 ## ウィキ上の位置づけ
 
-本項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。[[card-issuers/jcb|JCB]] を同業・対比の文脈（両者とも 3者間型・プレミアム志向）として、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] をより広い制度・規制境界として併読する。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。[[card-issuers/jcb|JCB]] を同業・対比の文脈（両者とも 3者間型・プレミアム志向）として、[[payments/japan-card-issuer-acquirer-processor-split|Japan card 発行会社 / アクワイアラ / processor split]] をより広い制度・規制境界として併読する。
 
 ## 1. ライセンス・グループ境界
 
 | 項目 | 注記 |
 |---|---|
-| 法人名 | 三井住友トラストクラブ株式会社 (Sumitomo Mitsui 信託 Club Co., Ltd.) — Diners Club ブランド国内 発行会社 |
+| 法人名 | 三井住友トラストクラブ株式会社 (Sumitomo Mitsui 信託 Club Co., Ltd.) — Diners Club ブランド国内発行会社 |
 | ブランド保有者 | グローバル: Discover Financial Services (米) が Diners Club International ブランドを保有 |
 | 日本でのブランド上の役割 | 国内独占ライセンシー 発行会社 + 国内加盟店契約 (3者間型の構造) |
 | グループ境界 | [[trust-banks/sumitomo-mitsui-trust|三井住友トラスト・グループ]] 系列 — 歴史的にシティバンクからの日本事業移管経緯 |
 | 規制 | 割賦販売法に基づく登録カード発行業者 — METI 登録業者リストに掲載 |
-| ウィキ上の役割 | Diners ブランドの日本国内エンティティ・ページ。ブランドのグローバル権利元 (Discover) と国内 発行会社 (三井住友トラストクラブ) の分離を整理。 |
+| ウィキ上の役割 | Diners ブランドの日本国内エンティティ・ページ。ブランドのグローバル権利元 (Discover) と国内発行会社 (三井住友トラストクラブ) の分離を整理。 |
 
 ## 2. 日本での事業ライン
 
@@ -31,16 +32,16 @@ translated_at: 2026-06-02T14:25:12.404Z
 - **国内加盟店契約 (加盟店契約)**: 自社加盟店網を運営 (歴史的伝統)、ただし国内では決済代行経由のケースも多い。
 - **グルメ・レストラン特典**: 「エグゼクティブダイニング」等、ブランド草創期 (1950 年米国レストラン決済発祥) に由来するグルメ特典が強み。
 - **トラベル・空港ラウンジ**: 国内外空港ラウンジ無料利用、コンシェルジュサービス、海外旅行保険等プレミアム特典。
-- **法人カード・コーポレートカード**: 大企業 出張・交際費 管理向け Diners Club コーポレートカード。
-- **JCB との加盟店相互開放**: JCB 加盟店で Diners カードが利用可能。2006-02 に JCB とシティカードジャパン（当時の Diners 国内 発行会社）が国内加盟店事業の一部で提携し、JCB の子会社 JCB カード Assist が Diners の新規加盟店開拓・売上処理を担い、既存 JCB 加盟店（当時約 13,000 店）でも Diners カードを取扱可能とした（JCB 公式リリース）。現在も JCB との加盟店業務提携により、JCB 加盟契約店で JCB・アメリカン・エキスプレス・ダイナースクラブ・ディスカバー・銀聯のカード取扱が可能（JCB 公式）。
+- **法人カード・コーポレートカード**: 大企業出張・交際費管理向け Diners Club コーポレートカード。
+- **JCB との加盟店相互開放**: JCB 加盟店で Diners カードが利用可能。2006-02 に JCB とシティカードジャパン（当時の Diners 国内発行会社）が国内加盟店事業の一部で提携し、JCB の子会社 JCB カード Assist が Diners の新規加盟店開拓・売上処理を担い、既存 JCB 加盟店（当時約 13,000 店）でも Diners カードを取扱可能とした（JCB 公式リリース）。現在も JCB との加盟店業務提携により、JCB 加盟契約店で JCB・アメリカン・エキスプレス・ダイナースクラブ・ディスカバー・銀聯のカード取扱が可能（JCB 公式）。
 
 ## 3. JCB・国内スキームとの戦略上の競争位置
 
-Diners は **超富裕層・法人 出張・交際費** に絞った極端な特化戦略。[[payment-firms/american-express-international-japan|Amex Japan]] と同じ 3-者間型・プレミアム志向の **直接競合関係** にあり、Amex プラチナ / センチュリオン vs Diners プレミアム という構図。[[card-issuers/jcb|JCB]] (ザ・クラス等) ともプレミアム層で競合するが、JCB は会員ベースが圧倒的に広いのに対し Diners は **会員数を絞ることでブランド価値・コミュニティ希少性を維持** する戦略。Visa / Mastercard とは「広く薄く」vs「狭く深く」の典型対比。グローバル親 Discover との関係では、日本国内ライセンス権が三井住友トラストグループに長期独占され、Discover 直営が事実上日本市場に入っていない (Discover ブランドの日本での薄い存在感は JCB 提携経由のみ)。これにより Diners Japan は **「日本市場で唯一の Discover 系プレゼンス」** という独特の位置付け。
+Diners は **超富裕層・法人出張・交際費** に絞った極端な特化戦略。[[payment-firms/american-express-international-japan|Amex Japan]] と同じ 3-者間型・プレミアム志向の **直接競合関係** にあり、Amex プラチナ / センチュリオン vs Diners プレミアム という構図。[[card-issuers/jcb|JCB]] (ザ・クラス等) ともプレミアム層で競合するが、JCB は会員ベースが圧倒的に広いのに対し Diners は **会員数を絞ることでブランド価値・コミュニティ希少性を維持** する戦略。Visa / Mastercard とは「広く薄く」vs「狭く深く」の典型対比。グローバル親 Discover との関係では、日本国内ライセンス権が三井住友トラストグループに長期独占され、Discover 直営が事実上日本市場に入っていない (Discover ブランドの日本での薄い存在感は JCB 提携経由のみ)。これにより Diners Japan は **「日本市場で唯一の Discover 系プレゼンス」** という独特の位置付け。
 
 ## 4. このページが重要な理由
 
-- 「**ブランドオーナー (Discover Financial Services 米) ≠ 国内 発行会社 (三井住友トラストクラブ)**」という典型的ブランド経済構造の整理
+- 「**ブランドオーナー (Discover Financial Services 米) ≠ 国内発行会社 (三井住友トラストクラブ)**」という典型的ブランド経済構造の整理
 - Discover が独立して日本展開していないことを **エビデンスとして残す** ためのページ
 - 富裕層・法人プレミアム市場での Amex vs Diners 構図の整理
 
@@ -51,7 +52,7 @@ Diners は **超富裕層・法人 出張・交際費** に絞った極端な特
 - [[payment-firms/mastercard-japan|Mastercard Japan]] / [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] (4-party 大手)
 - [[payment-firms/unionpay-international-japan|UnionPay International Japan]]
 - [[trust-banks/sumitomo-mitsui-trust]] (親グループ)
-- [[card-issuers/smbc-card]] (グループ内別ブランド 発行会社・Vパスワード Olive 主軸)
+- [[card-issuers/smbc-card]] (グループ内別ブランド発行会社・Vパスワード Olive 主軸)
 - [[payments/japan-card-issuer-acquirer-processor-split]] / [[payments/japan-interchange-and-merchant-fee-stack]]
 
 ## 出典

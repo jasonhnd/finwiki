@@ -2,10 +2,11 @@
 source: banking/japan-foreign-bank-retreat-refocus-timeline-matrix
 source_hash: e4ea516651cc0f91
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国銀行の撤退・再集中タイムライン・マトリクス"
-translated_at: 2026-06-18T23:33:48.303Z
+translated_at: 2026-06-26T08:29:09.696Z
 ---
 
 # 日本における外国銀行の撤退・再集中タイムライン・マトリクス
@@ -41,22 +42,22 @@ translated_at: 2026-06-18T23:33:48.303Z
 |---|---|---|---|---|---|---|
 | JPMorgan Chase ([[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]]) | 米国 | 2007-08 (CIB ピーク前) → 拡大継続 | 4法人 (証券 / NA 東京支店 / AM / 信託) | グローバル CIB 拡大期; Japan 拡大基調 (G-SIB Bucket 3) | CIB / IB / マーケッツ / カストディ / AM / Securities Services | 縮小ではなく Securities Services 集中拡大 |
 | Goldman Sachs ([[securities-firms/goldman-sachs-japan\|GS Japan]]) | 米国 | 2007 (IB 拡張) | GS 証券 / GS Bank 東京支店 / GSAM / Realty | グローバル IB 拡大期 + 2008 金融危機後再集約; Japan は IB 中核拠点維持 | IB / マーケッツ / AM / Realty / プライベートクレジット | 縮小ではなく PIA / プライベートクレジット拡大 |
-| Morgan Stanley ([[securities-firms/morgan-stanley-japan\|MS Japan]]) | 米国 | 2007 | MUMSS + MSMS (MUFG JV 2010-05〜) + MUMSS リサーチ + MS キャピタル | 2008-09 MUFG 戦略提携 (株式 ~20% 取得 → 24% 拡大局面) → 2010-05 Japan 証券事業 統合 | MUMSS = 対面 + ECM/DCM; MSMS = ホールセール IB / マーケッツ | 縮小ではなく邦銀 IB 一体運営継続 |
-| Bank of America ([[foreign-financial-institutions/bank-of-america-japan\|BofA Japan]]) | 米国 | 2007-08 (グローバル CIB) | BofA 証券 + BofA NA 東京支店 (1947 設立) | グローバル メリル統合 (2009) で IB 再集約; Japan 拠点維持 | コーポレートバンキング / IB / マーケッツ / カストディ / FX | 縮小ではなく Japan inbound corporate banking 維持 |
-| Wells Fargo ([[foreign-financial-institutions/wells-fargo-japan\|Wells Fargo Japan]]) | 米国 | 2010s 半ば (戦略買収後) | Wells Fargo NA 東京支店 (法人特化、リテール無し) | 2016 偽口座事件 → 連邦準備制度 資産上限 (2018-2024+); Japan は元来 niche wholesale | コーポレートバンキング / トランザクションサービス / FX / トレードファイナンス | 縮小ではなく米国本体再起動と歩調 |
+| Morgan Stanley ([[securities-firms/morgan-stanley-japan\|MS Japan]]) | 米国 | 2007 | MUMSS + MSMS (MUFG JV 2010-05〜) + MUMSS リサーチ + MS キャピタル | 2008-09 MUFG 戦略提携 (株式 ~20% 取得 → 24% 拡大局面) → 2010-05 Japan 証券事業統合 | MUMSS = 対面 + ECM/DCM; MSMS = ホールセール IB / マーケッツ | 縮小ではなく邦銀 IB 一体運営継続 |
+| Bank of America ([[foreign-financial-institutions/bank-of-america-japan\|BofA Japan]]) | 米国 | 2007-08 (グローバル CIB) | BofA 証券 + BofA NA 東京支店 (1947 設立) | グローバルメリル統合 (2009) で IB 再集約; Japan 拠点維持 | コーポレートバンキング / IB / マーケッツ / カストディ / FX | 縮小ではなく Japan inbound corporate banking 維持 |
+| Wells Fargo ([[foreign-financial-institutions/wells-fargo-japan\|Wells Fargo Japan]]) | 米国 | 2010s 半ば (戦略買収後) | Wells Fargo NA 東京支店 (法人特化、リテール無し) | 2016 偽口座事件 → 連邦準備制度資産上限 (2018-2024+); Japan は元来 niche wholesale | コーポレートバンキング / トランザクションサービス / FX / トレードファイナンス | 縮小ではなく米国本体再起動と歩調 |
 | State Street ([[foreign-financial-institutions/state-street-japan\|State Street Japan]]) | 米国 | 構造的拡大 (公的年金海外運用拡大期) | State Street 信託銀行 + 外銀支店 (グローバルカストディ JP) | 構造拡大、特に GPIF 海外運用拡大 + パッシブ ETF 拡大 | カストディ / 投信 admin / SSGA ETF | 縮小ではなくグローバル AUC/A 拡大基調 |
 | BNY Mellon ([[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon Japan]]) | 米国 | 構造的拡大 (グローバル AUC/A ~$50tn) | BNY 信託銀行 + 外銀支店 + AM JP | 構造拡大 (世界最大のカストディアン) | カストディ / Securities Services / ADR | 縮小ではなく拡大基調 |
-| RBC ([[foreign-financial-institutions/rbc-japan\|RBC Japan]]) | 米国/カナダ | 2010s 拠点拡張 | RBC キャピタル マーケッツ + 外銀支店 | 構造的に niche; Japan IB / マーケッツに集中 | IB / マーケッツ / 機関投資家 | 縮小ではなく niche 維持 |
+| RBC ([[foreign-financial-institutions/rbc-japan\|RBC Japan]]) | 米国/カナダ | 2010s 拠点拡張 | RBC キャピタルマーケッツ + 外銀支店 | 構造的に niche; Japan IB / マーケッツに集中 | IB / マーケッツ / 機関投資家 | 縮小ではなく niche 維持 |
 | BNP Paribas ([[foreign-financial-institutions/bnp-paribas-japan\|BNP Paribas Japan]]) | EU | 構造的長期増大 | BNP 銀行東京支店 + BNP 証券 + BNP AM + Cardif 生損保 (4 軸) | 1867 横浜開設 (CEP) → 戦後再開 → 1990s-2010s 継続拡大; G-SIB Bucket 2 | CIB / IPS / カストディ / 保険 (Cardif) | 縮小ではなく拡大基調 (約 700 名) |
 | Credit Agricole CIB ([[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB Japan]]) | EU | 2007 | CACIB 東京支店 | グローバル CIB 集中; Japan は欧州系 corporate banking ポジション | コーポレートバンキング / プロジェクトファイナンス / トレード | 縮小ではなく中規模維持 |
-| Deutsche Bank ([[foreign-financial-institutions/deutsche-japan\|Deutsche Japan]]) | EU | 2007 (IB / マーケッツ ピーク) | Deutsche 東京支店 + ドイチェ証券 + DWS Japan (PB) | 2016-2019 経営難; **2019-07 グローバル IB 大規模リストラ (世界 18,000 人削減)** → Japan IB / 株式縮小 | IB (債券 / FX 集中) / DWS / プライベートバンキング | グローバル債券 / FX ピボット完了。株式 IB 大幅縮小 |
+| Deutsche Bank ([[foreign-financial-institutions/deutsche-japan\|Deutsche Japan]]) | EU | 2007 (IB / マーケッツピーク) | Deutsche 東京支店 + ドイチェ証券 + DWS Japan (PB) | 2016-2019 経営難; **2019-07 グローバル IB 大規模リストラ (世界 18,000 人削減)** → Japan IB / 株式縮小 | IB (債券 / FX 集中) / DWS / プライベートバンキング | グローバル債券 / FX ピボット完了。株式 IB 大幅縮小 |
 | UBS ([[foreign-financial-institutions/ubs-japan\|UBS Japan]]) | EU (Swiss) | 構造拡大 + **2023-06 CS 統合** | UBS 証券 + UBS 銀行東京支店 + UBS AM + UBS SuMi TRUST WM (SMTB JV, UBS 51%/SMTB 49%) | 2008 サブプライム巨額損失 → スイス政府救済; 2014 SMTB JV PB; **2023-06 CS 緊急買収完了** → 旧 CS 日本拠点と統合 | GWM / IB / マーケッツ / AM / PB | 旧 CS 日本拠点統合完了; non-core / legacy 段階的縮小 |
-| Credit Suisse → UBS | EU (Swiss) | 2007-08 (旧 CS Japan IB ピーク) | UBS 統合済 (旧 CS 法人消滅) | 2023-03-19 CS 経営危機 (AT1 ~160 億 CHF 無価値化) → 2023-06 UBS 緊急買収完了 | n/a (UBS 統合後) | 旧 CS 法人 統合完了 |
+| Credit Suisse → UBS | EU (Swiss) | 2007-08 (旧 CS Japan IB ピーク) | UBS 統合済 (旧 CS 法人消滅) | 2023-03-19 CS 経営危機 (AT1 ~160 億 CHF 無価値化) → 2023-06 UBS 緊急買収完了 | n/a (UBS 統合後) | 旧 CS 法人統合完了 |
 | Standard Chartered ([[foreign-financial-institutions/standard-chartered-japan\|StanChart Japan]]) | EU (UK) | 2008-10 (アジア新興国コリドール拡大) | StanChart 東京支店 | アジア新興国コリドール志向; Japan は corridor anchor | アジア新興国コリドール / トレード / FX / コーポレートバンキング | 縮小ではなく Asia corridor 戦略 |
-| ING Bank ([[foreign-financial-institutions/ing-bank-japan\|ING Bank Japan]]) | EU (NL) | 2007 (IB ピーク) | ING 銀行東京支店 (法人特化) | 2008 オランダ政府救済 → 2009 グローバル投資銀行縮小 (NN 生保 / 米資産 売却) → Japan も法人特化に集中 | コーポレートバンキング / トレード / FX | 法人特化型維持 |
+| ING Bank ([[foreign-financial-institutions/ing-bank-japan\|ING Bank Japan]]) | EU (NL) | 2007 (IB ピーク) | ING 銀行東京支店 (法人特化) | 2008 オランダ政府救済 → 2009 グローバル投資銀行縮小 (NN 生保 / 米資産売却) → Japan も法人特化に集中 | コーポレートバンキング / トレード / FX | 法人特化型維持 |
 | Natixis ([[foreign-financial-institutions/natixis-japan\|Natixis Japan]]) | EU (FR) | 2007 | Natixis 東京支店 | グローバル CIB 統合周期; Japan は niche corporate / structured | コーポレートバンキング / ストラクチャード / プロジェクトファイナンス | グローバル戦略に同期 |
 | Intesa Sanpaolo ([[foreign-financial-institutions/intesa-sanpaolo-japan\|Intesa Japan]]) | EU (IT) | 2007 (旧 Banca Intesa + SanPaolo IMI 統合後) | Intesa 東京支店 | 構造的に欧州本国集中; Japan は corporate banking | コーポレートバンキング / トレード / イタリア進出企業支援 | 中規模維持 |
-| HSBC ([[foreign-financial-institutions/hsbc-japan\|HSBC Japan]]) | アジア (UK / HK) | 2007-11 (HSBC Premier リテール ピーク; 東京・大阪・名古屋・福岡) | HSBC 東京支店 + HSBC 証券 + HSBC AM + HSBC 信託 (縮小) | **2012-03 HSBC Premier リテール撤退** → SBI 信託等に移管; 2015 Asia-Pacific ピボット戦略 | コーポレートバンキング / 機関投資家 / トレード / FX / IB | リテール完全撤退; ホールセール継続強化 |
+| HSBC ([[foreign-financial-institutions/hsbc-japan\|HSBC Japan]]) | アジア (UK / HK) | 2007-11 (HSBC Premier リテールピーク; 東京・大阪・名古屋・福岡) | HSBC 東京支店 + HSBC 証券 + HSBC AM + HSBC 信託 (縮小) | **2012-03 HSBC Premier リテール撤退** → SBI 信託等に移管; 2015 Asia-Pacific ピボット戦略 | コーポレートバンキング / 機関投資家 / トレード / FX / IB | リテール完全撤退; ホールセール継続強化 |
 | DBS ([[foreign-financial-institutions/dbs-bank-japan\|DBS Japan]]) | アジア (SG) | 拡大基調 | DBS 東京支店 (1977 開設) | アジア・コリドール拡大; Japan は corporate / institutional banking | コーポレートバンキング / 機関投資家 / トレード / アジアコリドール | 縮小ではなく拡大 |
 | OCBC ([[foreign-financial-institutions/ocbc-bank-japan\|OCBC Japan]]) | アジア (SG) | 拡大基調 | OCBC 東京支店 | アジア・コリドール拡大 | コーポレートバンキング / トレード / コリドール | 縮小ではなく拡大 |
 | UOB ([[foreign-financial-institutions/uob-bank-japan\|UOB Japan]]) | アジア (SG) | 拡大基調 | UOB 東京支店 | アジア・コリドール拡大 | コーポレートバンキング / トレード / コリドール | 縮小ではなく拡大 |
@@ -74,12 +75,12 @@ translated_at: 2026-06-18T23:33:48.303Z
 | 2009 | 米 Bank of America: Merrill Lynch 統合 (2009-01 完了) | BofA | IB consolidation |
 | 2009-10 | **Citigroup 日興コーディアル証券を SMFG に売却** | Citi | Brand exit (Japan IB) |
 | 2010-05 | **Morgan Stanley + MUFG: 日本証券事業統合 → MUMSS + MSMS 2社体制** | MS | JV refocus |
-| 2012-03 | **HSBC Premier リテール 日本撤退** → SBI 信託銀等に顧客移管 | HSBC | Retail exit |
+| 2012-03 | **HSBC Premier リテール日本撤退** → SBI 信託銀等に顧客移管 | HSBC | Retail exit |
 | 2013-14 | UBS / Barclays / CS グローバル株式 IB ヘッドカウント縮小 | Multiple | Sector-wide reorganisation |
-| 2014-09 | **Citibank 銀行 リテール → SMBC 信託銀行 売却発表** | Citi | Retail exit |
+| 2014-09 | **Citibank 銀行リテール → SMBC 信託銀行売却発表** | Citi | Retail exit |
 | 2014 | UBS と [[trust-banks/sumitomo-mitsui-trust|SMTB]] が PB JV 設立 (UBS SuMi TRUST WM) | UBS | Refocus + JV |
-| 2015-11 | Citibank 銀行 リテール 売却完了 → SMBC 信託 PRESTIA ブランド継続 | Citi | Retail exit completion |
-| 2016 | Wells Fargo 偽口座事件 露見 → 米連邦準備制度 資産上限 (2018-2024+) | Wells | Parent crisis |
+| 2015-11 | Citibank 銀行リテール売却完了 → SMBC 信託 PRESTIA ブランド継続 | Citi | Retail exit completion |
+| 2016 | Wells Fargo 偽口座事件露見 → 米連邦準備制度資産上限 (2018-2024+) | Wells | Parent crisis |
 | 2016-17 | Barclays グローバル Asia equity 縮小 | Barclays | Refocus |
 | 2018-03 | Deutsche AM (現 DWS) フランクフルト IPO | Deutsche | Subsidiary IPO |
 | 2019-07 | **Deutsche Bank グローバル IB 大規模リストラ (世界 18,000 人削減発表)** → 株式 IB 撤退 | Deutsche | Global reorg → Japan impact |
@@ -89,7 +90,7 @@ translated_at: 2026-06-18T23:33:48.303Z
 | 2023-03-19 | **CS 経営危機: AT1 ~160 億 CHF 無価値化** | CS | Parent crisis |
 | 2023-06-12 | **UBS による旧 CS 緊急買収完了 (取得対価 ~30 億 CHF, 1 株: UBS 1/22.48 株)** | UBS / CS | Global merger |
 | 2024 | UBS が旧 CS 日本拠点と統合作業継続 | UBS | Post-merger integration |
-| 2024 | Wells Fargo の米連邦準備制度 資産上限解除に向けた動き | Wells | Parent recovery |
+| 2024 | Wells Fargo の米連邦準備制度資産上限解除に向けた動き | Wells | Parent recovery |
 | 2024-26 | FSA foreign-bank supervision: AML / suspicious transaction / governance 強化更新 | All | Regulatory continuous |
 
 ## セグメントレベルの現状 (2024-2026)
@@ -120,40 +121,40 @@ translated_at: 2026-06-18T23:33:48.303Z
 | **ESG / サステナブルファイナンス / 気候開示** | All | 新たな日本側の開示 / 監督者の期待 (TCFD 等) |
 | **CS 緊急救済 2023-06 → UBS 統合** | CS / UBS | CS を日本 IB ブランドとして消滅させた; UBS は統合後に拡大 |
 | **2019-07 Deutsche IB リストラ** | Deutsche | 株式 IB / 日本株式デスクを大幅に削減 |
-| **2016 Wells Fargo 偽口座 事件 → 米連邦準備制度 資産上限 (2018-2024+)** | Wells | 親会社のバランスシートを制約 → 日本プレゼンスは niche のまま |
+| **2016 Wells Fargo 偽口座事件 → 米連邦準備制度資産上限 (2018-2024+)** | Wells | 親会社のバランスシートを制約 → 日本プレゼンスは niche のまま |
 | **Barclays 2016-17 Asia equity 縮小** | Barclays | アジア株式を削減したが日本では債券 / FX を維持 |
 | **GPIF 海外運用比率上昇 (政策決定 2014-)** | BNY Mellon、State Street、JPM、Citi (カストディ) | 外資カストディアンの日本ビジネスを構造的に拡大 — 「撤退」とは逆方向 |
 
 ### Citigroup → 最も狭い米国の撤退ケース ([[foreign-financial-institutions/citigroup-japan|Citigroup Japan]])
 
-- **1902** ナショナル・シティ 東京支店 開設 (邦銀史上 最初期 外資 presence).
-- **1980s-2000s** Citibank 銀行 リテール ピーク (24h ATM / 外貨預金 / 富裕層リテール).
-- **2007-08** ピーク Japan presence: 日興コーディアル証券 (2007 買収) + Citibank 銀行 リテール + Citi 法人銀行 + Citi GTS.
+- **1902** ナショナル・シティ東京支店開設 (邦銀史上最初期外資 presence).
+- **1980s-2000s** Citibank 銀行リテールピーク (24h ATM / 外貨預金 / 富裕層リテール).
+- **2007-08** ピーク Japan presence: 日興コーディアル証券 (2007 買収) + Citibank 銀行リテール + Citi 法人銀行 + Citi GTS.
 - **2008-11** TARP $25b 注入 → 実質国有化局面.
 - **2009-10** 日興 → SMFG (現 [[securities-firms/smbc-nikko-securities|SMBC 日興]]). Citi 日本 IB の最大ブランド資産売却.
-- **2014-09 → 2015-11** Citibank 銀行 リテール → [[trust-banks/smbc-trust-bank|SMBC 信託銀行]] (PRESTIA ブランド継続).
-- **Current (2024-2026)** 法人銀行 (NA 東京支店) + IB / マーケッツ (CGMJ) + GTS + custody. リテール完全撤退.
+- **2014-09 → 2015-11** Citibank 銀行リテール → [[trust-banks/smbc-trust-bank|SMBC 信託銀行]] (PRESTIA ブランド継続).
+- **Current (2024-2026)** 法人銀行 (NA 東京支店) + IB / マーケッツ (CGMJ) + GTS + カストディ. リテール完全撤退.
 
 ### HSBC → リテール退出テンプレート ([[foreign-financial-institutions/hsbc-japan|HSBC Japan]])
 
-- **1866** 横浜支店 開設 (HSBC 創業翌年, 邦銀以前の最古級外資銀行).
+- **1866** 横浜支店開設 (HSBC 創業翌年, 邦銀以前の最古級外資銀行).
 - **1990s-2000s** HSBC Premier リテール展開 (在日外国人駐在員 + 富裕層).
 - **2007-11** ピーク Premier 拠点 (東京 + 大阪 + 名古屋 + 福岡).
-- **2012-03** HSBC Premier リテール 日本撤退 → SBI 信託銀等へ顧客移管. 法人 + 機関投資家サービス特化へ.
+- **2012-03** HSBC Premier リテール日本撤退 → SBI 信託銀等へ顧客移管. 法人 + 機関投資家サービス特化へ.
 - **2015** アジア・パシフィック・ピボット戦略下で Japan 役割再定義.
 - **Current (2024-2026)** 東京支店 + 証券会社 + AM + 信託 (縮小). リテール無し.
 
 ### Credit Suisse → UBS 吸収ケース ([[foreign-financial-institutions/ubs-japan|UBS Japan]])
 
 - **2007-08** CS Japan IB ピーク.
-- **2023-03-19** CS 経営危機: AT1 ~160 億 CHF 無価値化, スイス政府 / SNB / FINMA 主導 緊急救済決定.
+- **2023-03-19** CS 経営危機: AT1 ~160 億 CHF 無価値化, スイス政府 / SNB / FINMA 主導緊急救済決定.
 - **2023-06-12** UBS による緊急買収完了 (取得対価 ~30 億 CHF; CS 1 株: UBS 1/22.48 株).
 - **2024** 旧 CS 日本拠点 (CS 証券) と UBS 証券 の統合作業継続.
-- **Current (2024-2026)** UBS 統合: 旧 CS 法人 消滅. UBS 日本 = UBS 証券 + UBS 銀行東京支店 + UBS AM + [[trust-banks/sumitomo-mitsui-trust|SMTB]] JV (UBS SuMi TRUST WM, UBS 51% / SMTB 49%).
+- **Current (2024-2026)** UBS 統合: 旧 CS 法人消滅. UBS 日本 = UBS 証券 + UBS 銀行東京支店 + UBS AM + [[trust-banks/sumitomo-mitsui-trust|SMTB]] JV (UBS SuMi TRUST WM, UBS 51% / SMTB 49%).
 
 ### Deutsche Bank → 2019 IB 削減波及ケース ([[foreign-financial-institutions/deutsche-japan|Deutsche Japan]])
 
-- **1972** 東京支店 開設.
+- **1972** 東京支店開設.
 - **2007** ピーク Japan IB / マーケッツ presence.
 - **2016-2019** Deutsche 親会社経営難 (株価底値 / 配当停止 / 罰金).
 - **2019-07** グローバル IB 大規模リストラ (世界 18,000 人削減). 日本 equity IB / 株式営業大幅縮小.
@@ -165,7 +166,7 @@ translated_at: 2026-06-18T23:33:48.303Z
 - [[foreign-financial-institutions/ocbc-bank-japan|OCBC]] 東京支店 — Singapore corridor.
 - [[foreign-financial-institutions/uob-bank-japan|UOB]] 東京支店 — Singapore corridor.
 - [[foreign-financial-institutions/standard-chartered-japan|StanChart]] 東京支店 — Asia EM corridor.
-- China-five (Bank of China / ICBC / CCB / ABC / BoComm) — RMB / 日中貿易 settlement.
+- China-five (Bank of China / ICBC / CCB / ABC / BoComm) — RMB / 日中貿易決済.
 
 これらのアジア / アジア EM コリドール銀行は同じ 2000-2026 ウィンドウにおいてネットの拡大者であり、米 / EU のリテール撤退ナラティブとバランスを取る。
 
@@ -184,7 +185,7 @@ translated_at: 2026-06-18T23:33:48.303Z
 |---|---|---|---|
 | 米国 Big 4 商業銀行 | [[foreign-financial-institutions/citigroup-japan\|Citi]], [[foreign-financial-institutions/jpmorgan-japan\|JPM]], [[foreign-financial-institutions/bank-of-america-japan\|BofA]], [[foreign-financial-institutions/wells-fargo-japan\|Wells]] | 混合: Citi 縮小 (リテール退出); JPM 拡大 (カストディ / CIB); BofA 安定; Wells niche | 各親会社が独自の危機後トラジェクトリをたどった |
 | 米国 IB ピュアプレイ | [[securities-firms/goldman-sachs-japan\|GS]], [[securities-firms/morgan-stanley-japan\|MS]] | 安定 / 再集中 (MS-MUFG JV 再編 2010-05 + 継続中); GS 維持 | IB コアフランチャイズ保持; MS は MUFG チャネルに深く統合 |
-| 米国 カストディ / アセットサービシング | [[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon]], [[foreign-financial-institutions/state-street-japan\|State Street]] | 構造的拡大 | GPIF 海外運用拡大 + パッシブ ETF; 構造的需要 |
+| 米国カストディ / アセットサービシング | [[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon]], [[foreign-financial-institutions/state-street-japan\|State Street]] | 構造的拡大 | GPIF 海外運用拡大 + パッシブ ETF; 構造的需要 |
 | 米国 niche / 北米コリドール | [[foreign-financial-institutions/wells-fargo-japan\|Wells]], [[foreign-financial-institutions/rbc-japan\|RBC]] | 安定 niche | 親会社固有の戦略的ポジショニング |
 | EU 英国 | [[foreign-financial-institutions/hsbc-japan\|HSBC]], [[foreign-financial-institutions/standard-chartered-japan\|StanChart]], [[foreign-financial-institutions/barclays-japan\|Barclays]] | HSBC リテール退出 (2012-03); StanChart コリドール集中; Barclays 株式縮小 | アジアン・ピボット戦略 + 2016-17 EU IB 合理化 |
 | EU フランス | [[foreign-financial-institutions/bnp-paribas-japan\|BNP]], [[foreign-financial-institutions/socgen-japan\|SG]], [[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB]], [[foreign-financial-institutions/natixis-japan\|Natixis]] | BNP 拡大 (保険 + CIB); 他は安定 | BNP 統合の 4本柱モデル (banking + IB + AM + insurance Cardif) |
@@ -192,9 +193,9 @@ translated_at: 2026-06-18T23:33:48.303Z
 | EU スイス | [[foreign-financial-institutions/ubs-japan\|UBS]], 旧 CS | CS は UBS に吸収 2023-06; UBS は現在より大きい | 2023 CS 危機 → UBS 強制統合 |
 | EU その他 | [[foreign-financial-institutions/ing-bank-japan\|ING]], [[foreign-financial-institutions/intesa-sanpaolo-japan\|Intesa]] | 安定したコーポレートバンキング・プレゼンス | Niche 戦略 |
 | アジア SG | [[foreign-financial-institutions/dbs-bank-japan\|DBS]], [[foreign-financial-institutions/ocbc-bank-japan\|OCBC]], [[foreign-financial-institutions/uob-bank-japan\|UOB]] | ネットの拡大者 | アジアン・コリドール + 中国デカップリングの追い風 |
-| アジア 大中華圏 (5 の中国大陸銀行) | Bank of China / ICBC / CCB / Agricultural Bank of China / Bank of Communications | 安定 / 継続 | 日中貿易 / 人民元決済 |
-| アジア 韓国 (5 の銀行) | Woori, Hana, KB Kookmin, KDB, IBK | 安定 | 法人 / 日韓コリドール |
-| アジア 台湾 | Bank of Taiwan + その他 (FSA registry に 10 の台湾行) | 安定 / 継続 | 台日 法人 / 個人コリドール |
+| アジア大中華圏 (5 の中国大陸銀行) | Bank of China / ICBC / CCB / Agricultural Bank of China / Bank of Communications | 安定 / 継続 | 日中貿易 / 人民元決済 |
+| アジア韓国 (5 の銀行) | Woori, Hana, KB Kookmin, KDB, IBK | 安定 | 法人 / 日韓コリドール |
+| アジア台湾 | Bank of Taiwan + その他 (FSA registry に 10 の台湾行) | 安定 / 継続 | 台日法人 / 個人コリドール |
 | その他アジア | Bangkok Bank / Bank of India / SBI India / インドネシア支店 | 安定 / niche | 特定の国別コリドール需要 |
 
 クラスター・オーバーレイが示すのは、「撤退」パターンが **米国-Citi 固有 (リテール) + 英国-HSBC 固有 (リテール) + 一部の EU 株式 IB 削減** だということである。それは **セクター全体の撤退ではない**。アジア・クラスター — シンガポール、中国、韓国、台湾、インド / インドネシアを含む — は、同じウィンドウにおいて安定または拡大するプレゼンスである。

@@ -2,25 +2,22 @@
 source: financial-regulators/boj-financial-system-dept
 source_hash: 683b74ab60c75b1a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "金融機構局 (BoJ Financial System and Bank Examination Department)"
-translated_at: 2026-06-02T14:01:20.947Z
+translated_at: 2026-06-26T08:32:15.221Z
 ---
 # 金融機構局 (BoJ Financial System and Bank Examination Department)
 
 ## ウィキ上の位置づけ
 この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づける。BoJ の市場オペレーション側の相手方は [[financial-regulators/boj-financial-markets-dept|金融市場局]]、規制外縁の対照は [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] と照らして読む。より広い健全性システムでは [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] と [[banking/INDEX|banking landscape]] を通じて位置づける。
 
-## 要約
-
-金融機構局（Financial System and Bank Examination Department）は、日本銀行内で、日銀当座預金取引先への考査、マクロプルーデンス監視、日銀の *Financial System Report* を担う部局である。金融庁の監督部局に対する健全性分析上のカウンターパートだが、法的な根拠は異なる。日銀考査は当座預金取引先との契約関係に基づくもので、FIEA / 銀行法上の監督ではない。
+## 要約金融機構局（Financial System and Bank Examination Department）は、日本銀行内で、日銀当座預金取引先への考査、マクロプルーデンス監視、日銀の *Financial System Report* を担う部局である。金融庁の監督部局に対する健全性分析上のカウンターパートだが、法的な根拠は異なる。日銀考査は当座預金取引先との契約関係に基づくもので、FIEA / 銀行法上の監督ではない。
 
 JapanFG では、日銀側の銀行考査、金融システムのストレステスト、地域銀行・メガバンク・信用金庫 / 協同組織金融機関に関するマクロプルーデンス上のコメントを参照するページで、この部局をアンカーにする。
 
-## 1. 機能・範囲
-
-日銀の英語版組織図では、金融機構局は次を担う部局として示される。
+## 1. 機能・範囲日銀の英語版組織図では、金融機構局は次を担う部局として示される。
 
 - 日銀当座預金を持つ金融機関に対し、帳簿と経営にアクセスできる契約に基づき、オンサイト考査とオフサイトモニタリングを行う。
 - メガバンク、地域銀行、信用金庫、その他預金取扱金融機関を横断して、日本の金融システムをマクロプルーデンスの観点から分析し、ストレステストを行う。
@@ -30,9 +27,7 @@ JapanFG では、日銀側の銀行考査、金融システムのストレステ
 
 したがって、この部局の分析成果は、個別先考査というミクロ面と、システム全体のストレス・構造分析というマクロ面の両方を持つ。人員数や課レベルの内訳は英語では一貫して公表されていない。
 
-## 2. カウンターパーティ・相互作用
-
-相互作用は三つの層にまたがる。
+## 2. カウンターパーティ・相互作用相互作用は三つの層にまたがる。
 
 - **考査対象機関**: 銀行、信用金庫、外国銀行支店、証券会社、その他の日銀当座預金保有主体。JapanFG の銀行ユニバースの大半を含み、[[megabanks/smfg|SMFG]]、[[securities-firms/mufg-mums|MUFG / MUMS]]、[[regional-banks/chiba-bank|Chiba Bank]] や [[regional-banks/77-bank|77 Bank]] のような地域銀行、[[banking/shinkin-bank-registry-japan|shinkin bank registry]] で扱う信用金庫セグメントも含まれる。
 - **他の規制当局**: 金融庁、とくに [[financial-regulators/fsa-supervision-bureau|監督局]]、預金保険機構、クロスボーダー銀行グループに関する外国監督当局。
@@ -48,7 +43,7 @@ JapanFG では、日銀側の銀行考査、金融システムのストレステ
 ## 関連
 - [[financial-regulators/boj-monetary-policy|BoJ monetary policy]]
 - [[financial-regulators/boj-financial-markets-dept|金融市場局 (Financial Markets Department)]]
-- [[financial-regulators/boj-payment-settlement-dept|決済機構局 (Payment and Settlement Systems Department)]]
+- [[financial-regulators/boj-payment-settlement-dept|決済機構局 (Payment and 決済 Systems Department)]]
 - [[financial-regulators/boj-international-dept|国際局 (International Department)]]
 - [[financial-regulators/fsa-supervision-bureau|FSA 監督局 (Supervision Bureau)]]
 - [[banking/INDEX|Banking landscape]]

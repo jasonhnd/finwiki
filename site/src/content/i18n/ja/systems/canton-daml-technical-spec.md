@@ -2,10 +2,11 @@
 source: systems/canton-daml-technical-spec
 source_hash: b6de27f58e402f69
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Canton DAML 技術仕様：関数型契約言語 + Sub-transaction Privacy"
-translated_at: 2026-06-03T00:53:08.273Z
+translated_at: 2026-06-26T08:29:40.692Z
 ---
 # Canton DAML 技術仕様：関数型契約言語 + Sub-transaction Privacy
 
@@ -33,7 +34,7 @@ DAML と Solidity の次元比較。
 | 監督ノード | 概念上はない | Regulator Node モデル。監督者を参加者として組み込む |
 | 適用シナリオ | DeFi + 汎用 dApp | 金融契約 + 機関間清算 |
 
-DAML の「権利義務モデリング」の具体例では、債券契約を「issuer は義務 X を負う、holder は権利 Y を持つ、custodian は監査義務 Z を負う」と明示的に記述できる。これは伝統的金融の法的契約セマンティクスに直接対応する（[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]で表現される商品構造との対照）。Solidity では、これらの役割関係をプログラム自身がコーディングする必要があり、誤りが起きやすい。
+DAML の「権利義務モデリング」の具体例では、債券契約を「発行会社 は義務 X を負う、holder は権利 Y を持つ、custodian は監査義務 Z を負う」と明示的に記述できる。これは伝統的金融の法的契約セマンティクスに直接対応する（[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]で表現される商品構造との対照）。Solidity では、これらの役割関係をプログラム自身がコーディングする必要があり、誤りが起きやすい。
 
 Sub-transaction privacy の実装では、各 transaction は sub-events に分解され、各 sub-event は関係する参加者だけに暗号化されてブロードキャストされる。Global Synchronizer は順序付けだけを担当し、内容は復号しない。
 

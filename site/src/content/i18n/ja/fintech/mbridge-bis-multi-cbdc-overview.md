@@ -2,10 +2,11 @@
 source: fintech/mbridge-bis-multi-cbdc-overview
 source_hash: 66660eff115d0322
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)"
-translated_at: 2026-06-02T13:21:55.087Z
+translated_at: 2026-06-26T08:29:33.007Z
 ---
 
 # mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T13:21:55.087Z
 この項目は [[fintech/INDEX|fintech index]] の下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
 > [!info] 要約
-> mBridge は中央銀行間で直接決済するホールセール型 CBDC ネットワークで、HotStuff BFT + DLT permissioned ledger をベースとし、SWIFT + Fedwire を迂回して各国自国通貨 CBDC でポイントツーポイントの PvP atomic settlement を行う。2025-10 の BIS 撤退により中国主導の自由度が解放され、三円 MRA 米ドル体系と二極構造を形成。
+> mBridge は中央銀行間で直接決済するホールセール型 CBDC ネットワークで、HotStuff BFT + DLT permissioned ledger をベースとし、SWIFT + Fedwire を迂回して各国自国通貨 CBDC でポイントツーポイントの PvP atomic 決済 を行う。2025-10 の BIS 撤退により中国主導の自由度が解放され、三円 MRA 米ドル体系と二極構造を形成。
 
 ## 主要事実
 
@@ -27,9 +28,7 @@ translated_at: 2026-06-02T13:21:55.087Z
 - カバー国 GDP 合計約 35% ^[extracted]
 - 2030 予測処理量 $35-75B/年 · SWIFT クロスボーダーの 0.5-1% に相当 ^[extracted]
 
-## 仕組み / 作動方法
-
-各中央銀行は mBridge バリデーターノード 1 つ + 自国 CBDC ledger を運営し、mBridge ledger を共有してクロス通貨決済を行う。PvP モデルにより、2 件の CBDC 送金が同時成功または同時ロールバックすることが保証され、Herstatt risk(時差決済リスク)が排除される。商業銀行は sub-participants として各国中央銀行経由で接続 —— プライベートノードは存在しない。HotStuff BFT は < 10 秒 finality を提供し、SWIFT MT クロスボーダーの 1-3 日と対照される。BIS 撤退(2025-10)はむしろ中国 PBoC が同プロトコルを主導する自由度を解放した —— BIS の中立性制約がなくなったため、mBridge は BRICS+ 通貨と商品貿易シナリオへの拡大をより積極的に進められる。SWIFT API チャネルとの対比は [[fintech/cross-border-sc-via-swift-api|クロスボーダー SC via SWIFT API]] を参照。
+## 仕組み / 作動方法各中央銀行は mBridge バリデーターノード 1 つ + 自国 CBDC ledger を運営し、mBridge ledger を共有してクロス通貨決済を行う。PvP モデルにより、2 件の CBDC 送金が同時成功または同時ロールバックすることが保証され、Herstatt risk(時差決済リスク)が排除される。商業銀行は sub-participants として各国中央銀行経由で接続 —— プライベートノードは存在しない。HotStuff BFT は < 10 秒 finality を提供し、SWIFT MT クロスボーダーの 1-3 日と対照される。BIS 撤退(2025-10)はむしろ中国 PBoC が同プロトコルを主導する自由度を解放した —— BIS の中立性制約がなくなったため、mBridge は BRICS+ 通貨と商品貿易シナリオへの拡大をより積極的に進められる。SWIFT API チャネルとの対比は [[fintech/cross-border-sc-via-swift-api|クロスボーダー SC via SWIFT API]] を参照。
 
 ## 起源と発展
 

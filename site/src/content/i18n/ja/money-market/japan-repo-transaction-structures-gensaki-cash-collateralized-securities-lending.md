@@ -2,10 +2,11 @@
 source: money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending
 source_hash: e1fbce229372a7dc
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のレポ取引ストラクチャー：現先と現金担保付債券貸借の対比"
-translated_at: 2026-06-18T15:47:13.947Z
+translated_at: 2026-06-26T08:29:40.673Z
 ---
 
 # 日本のレポ取引ストラクチャー：現先と現金担保付債券貸借の対比
@@ -62,7 +63,7 @@ translated_at: 2026-06-18T15:47:13.947Z
 
 | 要素 | 読み方 |
 |---|---|
-| 決済 | JGB のレッグは中央の JGB 振替決済・資金移動の基盤を通じて決済される；現金・証券の DVP レールについては [[money-market/boj-net-funds-transfer-system-rtgs-settlement|BOJ-NET FTS / RTGS settlement]] を参照。 |
+| 決済 | JGB のレッグは中央の JGB 振替決済・資金移動の基盤を通じて決済される；現金・証券の DVP レールについては [[money-market/boj-net-funds-transfer-system-rtgs-settlement|BOJ-NET FTS / RTGS 決済]] を参照。 |
 | 決済サイクル | 日本の JGB 現物およびレポの決済は短縮化されたサイクルで運用されている（市場は完全売買の JGB について T+1 へ移行し、レポ・サイクルもそれに対応して短縮された）。これにより、フェイル・リスクと日中流動性のタイミングが圧縮される。 |
 | 中央清算 | JGB レポは [[securities/japan-securities-clearing-corp|JSCC]]（旧 JGBCC の機能）へ更改（ノベーション）され得る。同機関は債務を引き受け、清算された JGB および JGB レポ取引について取引相手方リスクを相互化（ミューチュアライズ）する。 |
 | 仲介 | [[money-market/tanshi-company-business-model|Tanshi companies]] と [[financial-regulators/japan-securities-finance|Japan Securities Finance]] が、ディーラー・デスクと並んで債券レポおよび現先を仲介する。 |

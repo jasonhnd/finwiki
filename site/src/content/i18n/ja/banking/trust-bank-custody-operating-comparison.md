@@ -2,17 +2,16 @@
 source: banking/trust-bank-custody-operating-comparison
 source_hash: 5fa3f76fb2d0b058
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信託銀行カストディ業務比較"
-translated_at: 2026-06-02T11:47:37.303Z
+translated_at: 2026-06-26T08:31:59.820Z
 ---
 
 # 日本の信託銀行カストディ業務比較
 
-## 概要
-
-日本のカストディ分析では、機関の類型を主要なフィールドとして用いる。フルサービス信託銀行、資産管理専門会社、グローバルカストディアン / ICSD 支店、決済インフラは、それぞれ異なる役割を担う。株主表における「信託口」やカストディアン名は、通常はノミニー / 管理上の表層であり、当該信託銀行が経済的な投資家であることの証明ではない。
+## 概要日本のカストディ分析では、機関の類型を主要なフィールドとして用いる。フルサービス信託銀行、資産管理専門会社、グローバルカストディアン / ICSD 支店、決済インフラは、それぞれ異なる役割を担う。株主表における「信託口」やカストディアン名は、通常はノミニー / 管理上の表層であり、当該信託銀行が経済的な投資家であることの証明ではない。
 
 このページは [[banking/INDEX|banking domain]] の下に位置し、信託銀行カストディの背後にある業務層を比較する。[[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/smtb|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]]、[[securities/japan-stock-lending-market-route|stock lending market route]] とあわせて用いること。
 

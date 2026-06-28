@@ -2,13 +2,14 @@
 source: real-estate-finance/mitsui-fudosan-financing-model
 source_hash: 1a62239ea1ba889b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "三井不動産 ファイナンシングモデル"
-translated_at: 2026-06-19T12:43:19.959Z
+title: "三井不動産ファイナンシングモデル"
+translated_at: 2026-06-26T08:32:23.057Z
 ---
 
-# 三井不動産 ファイナンシングモデル
+# 三井不動産ファイナンシングモデル
 
 ## TL;DR
 

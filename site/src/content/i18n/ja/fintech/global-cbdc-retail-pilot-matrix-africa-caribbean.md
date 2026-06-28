@@ -2,10 +2,11 @@
 source: fintech/global-cbdc-retail-pilot-matrix-africa-caribbean
 source_hash: 8d65a2987800626a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "世界のリテール CBDC パイロット比較マトリクス — アフリカ、カリブ、アジア、英国"
-translated_at: 2026-06-02T13:21:55.063Z
+translated_at: 2026-06-26T08:29:09.715Z
 ---
 # 世界のリテール CBDC パイロット比較マトリクス — アフリカ、カリブ、アジア、英国
 
@@ -41,7 +42,7 @@ translated_at: 2026-06-02T13:21:55.063Z
 | Sand Dollar | **あり** — CBOB の直接負債 | B$（USD に 1:1  でペッグ） | 固定為替制度を通じてバハマの USD ペッグを引き継ぐ |
 | e-CNY | **あり** — PBoC の直接負債 | CNY（管理フロート） | 明示的な法定通貨地位を持つ初の主要経済圏 CBDC |
 | Bakong | **準法定的** — Bakong は商業銀行残高 + KHR 通貨をトークン化する決済システムであり、純粋な中央銀行負債 CBDC ではない | KHR + USD（二重流通） | Bakong は KHR と USD の両ウォレットに対応し、構造的にはハイブリッド |
-| DCash | あり（実証中） | XCD（USD に 1:1  でペッグ、1 USD = XCD 2.70 ） | 2024-01 に終了 |
+| DCash | あり（実証中） | XCD（USD に 1:1  でペッグ、1 USD = XCD 2.70） | 2024-01 に終了 |
 | eNaira | **あり** — CBN の直接負債 | NGN（管理フロート／事実上の複数バンド） | 明示的な CBDC 法なし。既存の CBN 通貨権限の下で発行 |
 | JAM-DEX | **あり** — BoJ Amendment Act 2022 で明示 | J$（管理フロート） | 最も整理された法的構造。専用 CBDC 改正 |
 | digital pound | 想定中。一次立法が必要 | GBP | 開始されれば BoE の負債となる |
@@ -56,13 +57,13 @@ translated_at: 2026-06-02T13:21:55.063Z
 | e-CNY | 二層仲介型 | **10 指定オペレーター** — 6 国有商業銀行 + 4 決済／通信オペレーター（ICBC、BOC、CCB、ABC、AliPay-via-MyBank、WeChat-via-WeBank を含む） | 複数あるが ICBC + AliPay + WeChat Pay が優勢 |
 | Bakong | ハイブリッド。NBC が Bakong 決済レイヤーを運営し、商業銀行残高をトークン化 | カンボジアの全商業銀行 + 決済機関 | Bakong アプリ（NBC 運営）+ 銀行アプリ |
 | DCash | 銀行経由の実証 | ECCU 商業銀行 | DCash アプリ（ECCB 運営） |
-| eNaira | 二層仲介型 | DMB（deposit money banks）+ MMO（mobile money operators） | eNaira Speed Wallet（CBN 運営）+ DMB ウォレットアプリ + USSD *997# |
+| eNaira | 二層仲介型 | DMB（deposit money banks）+ MMO（mobile money 事業者） | eNaira Speed ウォレット（CBN 運営）+ DMB ウォレットアプリ + USSD *997# |
 | JAM-DEX | 二層仲介型 | 認可 PSP + DTI | **Lynk**（NCB Financial Group の TFOB 子会社）— 単一の支配的アンカー |
 | digital pound | 二層仲介型（提案） | **PIP**（Payment Interface Providers）+ **ESIP**（External Service Interface Providers） | 民間ウォレットのみ。BoE は消費者アプリを運営しないと明示 |
 
 **配布チャネルの所有構造**が採用を制約する変数である。JAM-DEX の Lynk と e-CNY の国有銀行マンデートは配布インセンティブを整合させた。Sand Dollar の相互運用 AFI モデルは構造的にはきれいだが、個々の AFI のマーケティング・インセンティブを希薄化する。eNaira の DMB+MMO スタックは全般にインセンティブが弱かった（DMB は eNaira を手数料のカニバリゼーションと見なし、MMO は自社 e-money との競合と見る）。DCash の終了も、同じ希薄化力学と運用上の脆弱性にたどれる。英国の PIP/ESIP 設計はまだ開始テストを受けていない。
 
-## Matrix D · KYC tier structure and per-wallet limits
+## Matrix D · KYC tier structure and per-ウォレット limits
 
 | プログラム | Tier-1 （低摩擦） | Tier-2 （確認済み） | Tier-3 （高上限／事業者） |
 |---|---|---|---|
@@ -82,7 +83,7 @@ translated_at: 2026-06-02T13:21:55.063Z
 |---|---|---|---|
 | Sand Dollar | 個人 + 加盟店で約 30-50K | 月次取引は登録数の 1 桁 % | **人口比 <1%**（総人口約 400K、絶対規模は小さい） |
 | e-CNY | **180M+** 登録 | 日次アクティブは 100 万台（絶対数は大きいが割合は小さい） | **日次アクティブ <1%**。月次アクティブは利用者数ベースでより高い |
-| Bakong | Bakong 連携口座 約 10M+（NBC） | QR 決済の普及により月次アクティブは同業比で大きい | **成人人口の 40-60%**（NBC 公表発言、決済システムとの境界は曖昧） |
+| Bakong | Bakong 連携口座約 10M+（NBC） | QR 決済の普及により月次アクティブは同業比で大きい | **成人人口の 40-60%**（NBC 公表発言、決済システムとの境界は曖昧） |
 | DCash | 累計 <10K（同業推計） | 該当なし（終了） | **人口比 <0.5%**。最低水準の一つ |
 | eNaira | 約 700K–900K（Y1時点）。その後の推計は混在 | **登録者のうち取引者は <1.5%**（IMF） | **成人人口比 <0.5%**（IMF Y1。以後も大きな段差なし） |
 | JAM-DEX | Lynk 主導で約 200K–300K | かなり小さい。BoJ は正確な日次アクティブを未開示 | **成人人口の数 %**（成人総数約 2M。小規模経済圏では最も明瞭な比率） |

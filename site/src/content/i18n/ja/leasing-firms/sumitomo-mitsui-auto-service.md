@@ -2,10 +2,11 @@
 source: leasing-firms/sumitomo-mitsui-auto-service
 source_hash: f59dbaf7ce1be4cd
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "住友三井オートサービス"
-translated_at: 2026-06-02T15:14:17.130Z
+translated_at: 2026-06-26T08:32:23.066Z
 ---
 
 # 住友三井オートサービス
@@ -55,17 +56,15 @@ translated_at: 2026-06-02T15:14:17.130Z
 | **三井住友トラスト・パナソニックファイナンス系オートリース** | [[trust-banks/smtb|SMTB]] + パナソニック |
 | **トヨタレンタリース** | [[leasing-firms/toyota-financial|TFS]] 系 |
 | **日産フリートサービス** | 日産自動車系 |
-| **東京センチュリー (NRS 系)** | [[leasing-firms/tokyo-century|東京センチュリー]] (旧 ニッポンレンタカー) |
+| **東京センチュリー (NRS 系)** | [[leasing-firms/tokyo-century|東京センチュリー]] (旧ニッポンレンタカー) |
 | **オリックスレンタカー** | [[leasing-firms/orix-corp|オリックス]] 系 |
 
 - **SMFG 銀行ネットワーク** からの法人顧客送客
-- **住友商事 グローバルネットワーク** からのアジア向けクロスボーダー対応
+- **住友商事グローバルネットワーク** からのアジア向けクロスボーダー対応
 - **2007 年合併以来の規模効果**
 - **フリート管理 (TCO) 系の付加サービス** の充実
 
-### 商社系金融子会社 ecosystem 内の位置
-
-住友商事系金融機能の中で、SMAS は **特定アセットクラス特化型 JV（オート）** の代表例。同じパターンが [[leasing-firms/smfl|SMFL]] (汎用リース)・[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (内向け CMS) と並列して 住友商事 + SMFG 系金融機能の **「JV / 子会社の機能分業エコシステム」** を構成。
+### 商社系金融子会社経済圏内の位置住友商事系金融機能の中で、SMAS は **特定アセットクラス特化型 JV（オート）** の代表例。同じパターンが [[leasing-firms/smfl|SMFL]] (汎用リース)・[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (内向け CMS) と並列して 住友商事 + SMFG 系金融機能の **「JV / 子会社の機能分業エコシステム」** を構成。
 
 ## 4. 規制・政策
 
@@ -88,7 +87,7 @@ translated_at: 2026-06-02T15:14:17.130Z
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] (内向けグループ財務。同じ住友商事系)
 - [[megabanks/smfg|SMFG]] (親会社 1)
 - [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]
-- [[leasing-firms/orix-corp|オリックス]] (オートリース 主要競合)
+- [[leasing-firms/orix-corp|オリックス]] (オートリース主要競合)
 - [[leasing-firms/toyota-financial|TFS]] / [[card-issuers/toyota-finance|トヨタファイナンス]] (トヨタ系自動車金融の比較対象)
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (商社系金融の比較対象)
 - [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (比較対象)

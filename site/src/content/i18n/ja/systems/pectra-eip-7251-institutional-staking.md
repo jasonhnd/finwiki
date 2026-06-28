@@ -2,10 +2,11 @@
 source: systems/pectra-eip-7251-institutional-staking
 source_hash: f9cc18e737f627e1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Pectra EIP-7251  · 機関ステーキング経済との親和化（2048 ETH 上限）"
-translated_at: 2026-06-03T01:06:46.357Z
+translated_at: 2026-06-26T08:29:40.696Z
 ---
 # Pectra EIP-7251  · 機関ステーキング経済との親和化（2048 ETH 上限）
 
@@ -18,7 +19,7 @@ translated_at: 2026-06-03T01:06:46.357Z
 - 単一バリデータの残高上限を 32 → 2048 ETH に拡大する（64倍）。^[extracted]
 - 稼働中バリデータ数が減少するため、バリデータ退出キューが高速化する。^[extracted]
 - 小口参加者には影響しない。32 ETH でバリデータを起動できる状態は維持される。^[extracted]
-- Lido は長期的に node operator 数を削減する可能性がある。^[extracted]
+- Lido は長期的に node 事業者数を削減する可能性がある。^[extracted]
 - Coinbase Cloud は運用コストを大幅に削減できる。^[extracted]
 
 ## 仕組み

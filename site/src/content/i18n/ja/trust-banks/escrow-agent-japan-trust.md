@@ -2,17 +2,18 @@
 source: trust-banks/escrow-agent-japan-trust
 source_hash: eb11934ec15e232c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)"
-translated_at: 2026-06-02T14:25:12.439Z
+translated_at: 2026-06-26T08:32:30.855Z
 ---
 
 # エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)
 
 ## ウィキ上の位置づけ
 
-Escrow Agent Japan Trust は、[[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] とあわせて読む。
+Escrow Agent Japan Trust は、[[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] とあわせて読む。
 
 このページは、エスクロー、不動産取引支援、相続関連信託サービス、不動産売却・管理ワークフローを整理するために使う。
 

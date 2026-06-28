@@ -2,10 +2,11 @@
 source: fintech/european-payments-initiative-wero
 source_hash: 2669900e4bf06bee
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗"
-translated_at: 2026-06-02T13:21:55.055Z
+translated_at: 2026-06-26T08:29:01.753Z
 ---
 
 # European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T13:21:55.055Z
 このエントリは [[fintech/INDEX|fintech index]] の配下に位置づけられる。ECB 発行のリテールマネーという並行トラックは [[fintech/e-euro-retail-rollout|digital euro retail rollout]]、ホールセール側の欧州銀行コンソーシアム型パターンは [[fintech/fnality-wholesale-settlement|Fnality]] と併せて読む（Wero はそのリテール側の鏡像である）。
 
 > [!info] 要約
-> European Payments Initiative (EPI Company SE, ベルギー登記) は 2020 年に欧州主要銀行 14 行 + Worldline + Nexi が共同設立したリテール決済連合で、旗艦製品 **Wero wallet** は **2024 年 7 月から DE / FR / BE / NL 4 カ国で段階的にローンチ**、P2P 送金を先行させ、加盟店決済とオンライン決済が段階的にリリースされた。Wero の根本目的 = 欧州銀行による**リテール決済主権の奪還**であり、PayPal / Apple Pay / Google Pay / Visa-Mastercard 等の非欧州系に対抗。基盤は **SEPA Instant Credit Transfer (SCT Inst)** で、ECB が計画する [[fintech/e-euro-retail-rollout|digital euro]] と「銀行連合 vs 中銀直発」二者択一/並走構図を形成。
+> European Payments Initiative (EPI Company SE, ベルギー登記) は 2020 年に欧州主要銀行 14 行 + Worldline + Nexi が共同設立したリテール決済連合で、旗艦製品 **Wero ウォレット** は **2024 年 7 月から DE / FR / BE / NL 4 カ国で段階的にローンチ**、P2P 送金を先行させ、加盟店決済とオンライン決済が段階的にリリースされた。Wero の根本目的 = 欧州銀行による**リテール決済主権の奪還**であり、PayPal / Apple Pay / Google Pay / Visa-Mastercard 等の非欧州系に対抗。基盤は **SEPA Instant Credit Transfer (SCT Inst)** で、ECB が計画する [[fintech/e-euro-retail-rollout|digital euro]] と「銀行連合 vs 中銀直発」二者択一/並走構図を形成。
 
 ## 主要事実
 
@@ -23,10 +24,10 @@ translated_at: 2026-06-02T13:21:55.055Z
 - 株主 / 加盟銀行: BNP Paribas, BPCE, Crédit Mutuel, Deutsche Bank, DZ Bank, ING, KBC, La Banque Postale, Nationale-Nederlanden, Rabobank, Santander, Société Générale, Sparkassen-Finanzgruppe, UniCredit + Worldline + Nexi ^[extracted]
 - Wero ローンチ: 2024-07 (DE / FR 初登場, P2P) → 2024-Q4 (BE / NL P2P) → 2025-Q2 (オンライン加盟店決済) → 2026-Q1 (NFC 実店舗, EU 他国へ拡張) ^[extracted]
 - ユーザー数: ~ **30M+** Wero 登録ユーザー (2026-Q1 連合公表) ^[extracted]
-- 基盤決済: SEPA Instant Credit Transfer (SCT Inst, 10 秒以内に final settlement) ^[extracted]
+- 基盤決済: SEPA Instant Credit Transfer (SCT Inst, 10 秒以内に final 決済) ^[extracted]
 - 累計株式 / 開発投資: ~€1.5B+ (2020-2024 の多次注資) ^[extracted]
 - 拒否 / 撤退: スペイン BBVA、イタリア Intesa Sanpaolo 等が 2022-2023 に撤退 → 連合は 31 行から 14 行へ縮小 ^[extracted]
-- EBA Clearing / SCT Inst との相互運用: Wero 送金は RT1 / TIPS rails (Eurosystem TARGET Instant Payment Settlement) を走る ^[extracted]
+- EBA Clearing / SCT Inst との相互運用: Wero 送金は RT1 / TIPS rails (Eurosystem TARGET Instant Payment 決済) を走る ^[extracted]
 
 ## 仕組み / 作動原理
 

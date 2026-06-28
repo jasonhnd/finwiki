@@ -2,10 +2,11 @@
 source: securities/odx-start-stb-secondary-market
 source_hash: ea535c2573f4e38e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ODX STARTセキュリティトークン流通市場"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-06-26T08:32:15.210Z
 ---
 # ODX STARTセキュリティトークン流通市場
 

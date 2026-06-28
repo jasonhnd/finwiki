@@ -2,10 +2,11 @@
 source: exchanges/jp-crypto-staking-as-a-service-operators
 source_hash: f43328f5505d7180
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層"
-translated_at: 2026-06-02T12:19:04.221Z
+translated_at: 2026-06-26T08:29:25.275Z
 ---
 
 # 国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層
@@ -18,32 +19,24 @@ translated_at: 2026-06-02T12:19:04.221Z
 
 PoS 系チェーン (Ethereum / Solana / Cardano / Polkadot / Cosmos / Tezos / Avalanche 等) のバリデータ運用を専門会社に委託する**ステーキング・アズ・ア・サービス (StaaS)** 市場は、Ethereum The Merge (2022-09) 以降、機関投資家向けで急成長。国内では**国内 VASP のリテール・サービス**と**海外 StaaS 事業者の機関向け B2B 提供**の二層構造が存在する。FSA は「カストディアンによる委託ステーキング = 暗号資産交換業の範囲内」とする運用解釈で、リテール向け委託ステーキングは VASP ライセンス保有者に限定。
 
-## 国内 VASP のリテールステーキングサービス
-
-国内 FSA 登録 VASP 各社が自社カストディ顧客向けに提供:
+## 国内 VASP のリテールステーキングサービス国内 FSA 登録 VASP 各社が自社カストディ顧客向けに提供:
 
 - **[[exchanges/jp-exchange-bitflyer|bitFlyer]] (旧 SBI VC Trade 系)** — ETH / SOL / DOT 等のステーキング報酬を顧客に分配 (公式 "ステーキング" ページ参照)
 - **[[exchanges/jp-exchange-gmo-coin|GMO コイン]]** — DOT / TEZ / XTZ / ATOM 等の対象通貨を順次拡大
 - **[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]** — ETH / SOL / DOT / ADA / ATOM 等の幅広いカバー
 - **[[exchanges/jp-exchange-coincheck|Coincheck]]** — レンディング + ステーキング双方を提供
 - **[[exchanges/jp-exchange-bitbank|bitbank]]** — XTZ / DOT 等を提供
-- **[[exchanges/jp-exchange-bittrade|BitTrade]] (HUOBI 系)** — グローバル HUOBI のステーキング商品の国内展開
+- **[[exchanges/jp-exchange-bittrade|BitTrade]] (HUOBI 系)** — グローバル HUOBI のステーキング商品の国内展開報酬率は通貨により年率 1-10% 程度、VASP の手数料控除後に顧客に分配。**法的性質は「暗号資産の貸借 / 預け入れ」相当**として、預けた数量分だけ報酬を後日返却するスキーム。
 
-報酬率は通貨により年率 1-10% 程度、VASP の手数料控除後に顧客に分配。**法的性質は「暗号資産の貸借 / 預け入れ」相当**として、預けた数量分だけ報酬を後日返却するスキーム。
-
-## 海外 StaaS 事業者の対日 B2B 提供
-
-機関投資家向け StaaS は海外専門事業者が支配。国内法人不在のため、**国内機関は海外契約 + KYC + Travel Rule 経由でアクセス**:
+## 海外 StaaS 事業者の対日 B2B 提供機関投資家向け StaaS は海外専門事業者が支配。国内法人不在のため、**国内機関は海外契約 + KYC + Travel Rule 経由でアクセス**:
 
 - **Kiln (旧 SkillZ・パリ本拠 2018-)** — 機関グレード非カストディアル StaaS。**B2B API + ダッシュボード**。Komainu と提携、Crypto.com・Ledger Live・Stakewise 等 100+ 統合
-- **Figment (カナダ・トロント 2018-)** — Coinbase Custody・Anchorage Digital・BitGo 等北米機関カストディアンと深い統合。**多チェーン対応 (40+ チェーン)**
+- **Figment (カナダ・トロント 2018-)** — Coinbase カストディ・Anchorage Digital・BitGo 等北米機関カストディアンと深い統合。**多チェーン対応 (40+ チェーン)**
 - **Allnodes / Stakefish / Chorus One / P2P.org / Blockdaemon** — それぞれ独立系で機関 + リテール混合
 - **Coinbase Cloud (旧 Bison Trails)** — グローバル機関向け、Coinbase 系プロダクトと統合
 - **Lido (DAO ベース)** — 非中央集権 Liquid Staking プロトコル。**機関向け Lido Institutional (DSL)** ストリームを 2024 開始
 
-### 国内機関の利用パターン
-
-国内機関 (生保 / 信託 / FoF) が ETH ステーキング露出を取る場合の典型ルート:
+### 国内機関の利用パターン国内機関 (生保 / 信託 / FoF) が ETH ステーキング露出を取る場合の典型ルート:
 
 1. **[[exchanges/jp-custody-komainu|Komainu]] (野村 HD + CoinShares + Ledger JV) + Kiln** — 直接バリデータ + 報告書一体提供
 2. **[[exchanges/jp-custody-fireblocks-japan|Fireblocks Japan]] + 海外バリデータ (Figment / Chorus One)** — Fireblocks MPC ウォレットを介した非カストディアル委託

@@ -2,10 +2,11 @@
 source: fintech/mica-emt-art-subcategories-deep-dive
 source_hash: bd833cc8af1e7cb7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ"
-translated_at: 2026-06-02T13:21:55.050Z
+translated_at: 2026-06-26T08:29:09.716Z
 ---
 # MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ
 
@@ -20,7 +21,7 @@ translated_at: 2026-06-02T13:21:55.050Z
 
 - MiCA 3 層:Regulation (EU) 2023/1114(L1)+ EBA/ESMA RTS/ITS(L2)+ Q&A/Guidelines(L3) ^[extracted]
 - 2024-12-30:MiCA 全面施行 ^[extracted]
-- 既存ライセンス EMT issuer(2026-05):Circle EU / Société Générale-Forge / Banking Circle / Membrane / Quantoz / Schuman / StablR / Crypto.com(計 8 社) ^[extracted]
+- 既存ライセンス EMT 発行会社(2026-05):Circle EU / Société Générale-Forge / Banking Circle / Membrane / Quantoz / Schuman / StablR / Crypto.com(計 8 社) ^[extracted]
 - ART はほぼ皆無 · 規制負担が過大 · 市場が足で投票 ^[extracted]
 - USDT の EU シェア:2024-12 ~28% → 2026-05 ~3% ^[extracted]
 - Significant EMT/ART 閾値:Outstanding ≥ €700M · または 30 日日平均取引量 ≥ €500M · または holder ≥ 1M ^[extracted]
@@ -29,7 +30,7 @@ translated_at: 2026-06-02T13:21:55.050Z
 
 ## 仕組み / どのように機能するか
 
-**EMT(E-Money Token · Article 3(1)(7))**:単一公式法定通貨ペッグ(1:1) · Issuer は EMI または credit institution ライセンス保有必須(EU Directive 2009/110/EC) · Reserve ≥ 30% 銀行預金(Article 36(1)(a))+ 残額は高流動性低リスク資産 · Bankruptcy-remote segregation · 代表例 USDC(Circle Europe)/ EURC / EURI / EURCV / EURØP。
+**EMT(E-Money Token · Article 3(1)(7))**:単一公式法定通貨ペッグ(1:1) · 発行会社 は EMI または credit institution ライセンス保有必須(EU Directive 2009/110/EC) · Reserve ≥ 30% 銀行預金(Article 36(1)(a))+ 残額は高流動性低リスク資産 · Bankruptcy-remote segregation · 代表例 USDC(Circle Europe)/ EURC / EURI / EURCV / EURØP。
 
 **ART(Asset-Referenced Token · Article 3(1)(6))**:「any other value or right or combination thereof」(マルチ通貨バスケット / 商品バスケット / マルチアセット)にペッグ · EBA が直接規制(国家 NCA ではない) · Reserve composition は reference asset 比率で保持 · Quarterly audit + monthly reserve attestation · 代表例 XAUT(金) / 停止済みの Diem/Libra / 理論上 BUIDL 類のマルチアセット型。
 

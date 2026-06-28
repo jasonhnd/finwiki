@@ -2,10 +2,11 @@
 source: fintech/erupee-india-pilot-status
 source_hash: cc40eabaa2d26659
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "インド eRupee パイロット状況 2026  — リテール + ホールセール二重トラック、UPI 相互運用、プログラマブルマネー用途"
-translated_at: 2026-06-02T13:21:55.040Z
+translated_at: 2026-06-26T08:32:15.201Z
 ---
 
 # インド eRupee パイロット状況 2026  — リテール + ホールセール二重トラック、UPI 相互運用、プログラマブルマネー用途

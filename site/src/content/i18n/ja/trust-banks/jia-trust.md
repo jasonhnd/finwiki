@@ -2,14 +2,13 @@
 source: trust-banks/jia-trust
 source_hash: 182e341975dce53c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JIA Trust / JIA信託"
-translated_at: 2026-06-02T14:25:12.449Z
+translated_at: 2026-06-26T08:32:30.858Z
 ---
-# JIA Trust / JIA信託
-
-ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
+# JIA Trust / JIA信託ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
 
 ## 概要
 
@@ -17,7 +16,7 @@ JIA Trust は、Japan Investment Adviser group ルートの下にある運用型
 
 ## エンティティ境界
 
-このページは JIA信託株式会社を対象とし、より広い JIA group の [[securities/financial-instruments-business-operators-japan-index|financial-instruments operator]] 全体を対象としない。信託会社分類と、ストラクチャード・アセットの保管・管理文脈に使う。
+このページは JIA信託株式会社を対象とし、より広い JIA group の [[securities/financial-instruments-business-operators-japan-index|financial-instruments 事業者]] 全体を対象としない。信託会社分類と、ストラクチャード・アセットの保管・管理文脈に使う。
 
 ## 事業上の役割マップ
 

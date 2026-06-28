@@ -2,20 +2,19 @@
 source: securities/japan-prime-brokerage-and-institutional-financing
 source_hash: e40b3b854ea344ae
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のプライムブローカレッジと機関投資家向けファイナンス"
-translated_at: 2026-06-03T00:53:08.291Z
+translated_at: 2026-06-26T08:29:01.780Z
 ---
 # 日本のプライムブローカレッジと機関投資家向けファイナンス
 
 ## ウィキ上の位置づけ
 
-このページは [[securities/INDEX|securities domain]] 配下にある。プライムブローカレッジが免許、カストディ、担保、資金調達の問題になる場合は、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/INDEX|banking domain]]、[[money-market/INDEX|money-market domain]] とあわせて読む。
+このページは [[securities/INDEX|securities domain]] 配下にある。プライムブローカレッジが免許、カストディ、担保、資金調達の問題になる場合は、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry]]、[[banking/INDEX|banking domain]]、[[money-market/INDEX|money-market domain]] とあわせて読む。
 
-## 概観
-
-日本のプライムブローカレッジは、単一の免許ラベルではない。第一種金融商品取引業、ブローカーディーラー執行、信用取引金融、証券貸借、株券借入、デリバティブ、レポ / 担保業務、カストディ、清算、決済から構成されるホールセール向けサービススタックである。
+## 概観日本のプライムブローカレッジは、単一の免許ラベルではない。第一種金融商品取引業、ブローカーディーラー執行、信用取引金融、証券貸借、株券借入、デリバティブ、レポ / 担保業務、カストディ、清算、決済から構成されるホールセール向けサービススタックである。
 
 このページは [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[financial-licenses/securities-license-stack|securities license stack]] とともに使う。
 

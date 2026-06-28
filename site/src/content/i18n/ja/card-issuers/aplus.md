@@ -2,22 +2,19 @@
 source: card-issuers/aplus
 source_hash: 012b0ac6ad7b659e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "アプラス (APLUS)"
-translated_at: 2026-06-15T03:48:21.875Z
+translated_at: 2026-06-26T08:31:59.851Z
 ---
 
 # アプラス (APLUS)
 
 
-## Wiki 経路
+## Wiki 経路本項目は [[card-issuers/INDEX|card-発行会社 INDEX]] の配下に位置する。隣接する文脈については [[banking/INDEX|banking index]]、より広いシステムの境界については [[securities/INDEX|securities index]] と併せて読むこと。
 
-本項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に位置する。隣接する文脈については [[banking/INDEX|banking index]]、より広いシステムの境界については [[securities/INDEX|securities index]] と併せて読むこと。
-
-## 要点
-
-アプラスは [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループの総合信販 operator。ショッピングクレジット、カード、ペイメント事業を中心に、banking group と consumer-credit / installment-credit の接続点になる。
+## 要点アプラスは [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループの総合信販事業者。ショッピングクレジット、カード、ペイメント事業を中心に、banking group と consumer-credit / installment-credit の接続点になる。
 
 ## 1. 法人・ライセンス境界
 
@@ -32,7 +29,7 @@ translated_at: 2026-06-15T03:48:21.875Z
 
 - SBI 新生コンシューマーファイナンス・スタック内で割賦信用とカード機能を提供する。
 - 銀行融資・保証・ペイメントサービスを販売金融の関係で補完する; スキームの経済性は [[payments/japan-payment-scheme-economics-matrix]] にある。
-- SBI 統合後に銀行グループがレガシーな消費者信用資産をどのように稼働させ続けるかを読み解くのに有用 — issuer / acquirer / processor の分担については [[payments/japan-card-issuer-acquirer-processor-split]] を参照。
+- SBI 統合後に銀行グループがレガシーな消費者信用資産をどのように稼働させ続けるかを読み解くのに有用 — 発行会社 / アクワイアラ / processor の分担については [[payments/japan-card-issuer-acquirer-processor-split]] を参照。
 - そのショッピングクレジット／割賦モデルを、ノンバンク基盤から同じオートローンと個人割賦のレーンを運営する独立系信販大手 [[card-issuers/orico|オリコ]] および [[card-issuers/jaccs|ジャックス]] と比較する。
 
 ## 3. このスタンドアロン・ページが重要な理由

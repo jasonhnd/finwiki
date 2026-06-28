@@ -2,10 +2,11 @@
 source: exchanges/jp-crypto-tax-software-vendor-layer
 source_hash: d1a6172b32416041
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)"
-translated_at: 2026-06-02T12:19:04.228Z
+translated_at: 2026-06-26T08:29:09.706Z
 ---
 
 # 国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)
@@ -14,9 +15,7 @@ translated_at: 2026-06-02T12:19:04.228Z
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。比較・対照の文脈では [[exchanges/jp-crypto-asset-taxation-detailed|国内暗号資産税制詳細]]、より広いシステム上・規制上の境界については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]] とあわせて読む。
 
-## 概要
-
-国内個人投資家の暗号資産損益は**雑所得 (総合課税・最高税率 55%)** として申告が必要であり、複数 VASP 口座 + 海外取引所 + DeFi + NFT 利用が混在するケースでは手計算が現実的に不可能。これを解決するための**暗号資産税務 SaaS** 市場が 2018 以降急成長。国税庁 (NTA) も VASP に対し顧客取引情報の支払調書提出を 2023 以降強化、税務処理の自動化ニーズは益々増大。**Cryptact / Gtax (旧 Aerial Partners 系) / CryptoLinc (旧 GxC) / Koinly (海外大手の日本対応)** が国内 4 強を形成。
+## 概要国内個人投資家の暗号資産損益は**雑所得 (総合課税・最高税率 55%)** として申告が必要であり、複数 VASP 口座 + 海外取引所 + DeFi + NFT 利用が混在するケースでは手計算が現実的に不可能。これを解決するための**暗号資産税務 SaaS** 市場が 2018 以降急成長。国税庁 (NTA) も VASP に対し顧客取引情報の支払調書提出を 2023 以降強化、税務処理の自動化ニーズは益々増大。**Cryptact / Gtax (旧 Aerial Partners 系) / CryptoLinc (旧 GxC) / Koinly (海外大手の日本対応)** が国内 4 強を形成。
 
 ## 国内主要ベンダー
 
@@ -57,7 +56,7 @@ translated_at: 2026-06-02T12:19:04.228Z
 ## 主要機能 (各社共通)
 
 1. **取引所 API / CSV 連携**：bitFlyer / GMO コイン / SBI VC Trade / Coincheck / bitbank / BitTrade 等の主要 VASP 自動取込
-2. **DeFi 取引解析**：MetaMask / OKX Wallet 等の wallet address 入力 → on-chain トランザクション自動分類
+2. **DeFi 取引解析**：MetaMask / OKX ウォレット等の ウォレット address 入力 → on-chain トランザクション自動分類
 3. **NFT 売買解析**：OpenSea / Magic Eden / Blur 等の取引解析
 4. **移動平均法 / 総平均法切替**：国税庁通達に基づく取得価額計算
 5. **損益計算 + 申告書類出力**：確定申告書添付用 PDF / e-Tax 連携
@@ -65,28 +64,20 @@ translated_at: 2026-06-02T12:19:04.228Z
 7. **支払調書照合**：VASP 発行支払調書との突合機能 (2023 強化)
 8. **法人向け期末時価評価**：法人税法 61 条対応 (2024 改正自社発行・第三者保有トークン除外を反映)
 
-## 税制改正との連動
-
-国内暗号資産税制は近年大きく変動 → [[exchanges/jp-crypto-asset-taxation-detailed|国内暗号資産税制詳細]]:
+## 税制改正との連動国内暗号資産税制は近年大きく変動 → [[exchanges/jp-crypto-asset-taxation-detailed|国内暗号資産税制詳細]]:
 
 - **2024 年度** — 法人保有暗号資産 (自社発行 + 第三者発行) の期末時価評価除外 ([[exchanges/jcba-japan-crypto-business-association|JCBA]] + [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 連名要望が結実)
 - **個人の分離課税化** — 業界長年の要望、まだ実現せず (雑所得・最高 55%・損益通算不可・3 年繰越控除不可)
-- **NFT 課税** — 二次流通の取扱、棚卸資産 / 雑所得の区分判定が論点
+- **NFT 課税** — 二次流通の取扱、棚卸資産 / 雑所得の区分判定が論点各ベンダーは改正のたびにロジックを更新、ユーザ向け解説記事を公開。
 
-各ベンダーは改正のたびにロジックを更新、ユーザ向け解説記事を公開。
-
-## 機関投資家・法人向け実務
-
-法人向けは **CryptoLinc + Guardian (Gtax 法人版)** が双璧。**[[exchanges/japan-crypto-audit-firm-landscape|Big4 監査法人]]** との連携で監査対応データを自動生成。**[[exchanges/japan-crypto-law-firm-landscape|大手法律事務所]]** の税務助言 + ベンダーの集計データ + 監査法人の保証 という 3 段スキームが定着。
+## 機関投資家・法人向け実務法人向けは **CryptoLinc + Guardian (Gtax 法人版)** が双璧。**[[exchanges/japan-crypto-audit-firm-landscape|Big4 監査法人]]** との連携で監査対応データを自動生成。**[[exchanges/japan-crypto-law-firm-landscape|大手法律事務所]]** の税務助言 + ベンダーの集計データ + 監査法人の保証 という 3 段スキームが定着。
 
 ## DeFi / Web3 ユーザ特有の課題
 
 - **NFT mint → flip → swap** の連続取引は損益認識タイミングが論点
 - **流動性提供 (LP)** の組入時 / 解除時の損益、エアドロップ受領時の評価
 - **ステーキング報酬** (→ [[exchanges/jp-crypto-staking-as-a-service-operators|StaaS 事業者層]]) の受領時時価
-- **クロスチェーンブリッジ** ([[exchanges/jp-crypto-on-off-ramp-bridge-layer|on/off ramp 層]] + L2 ブリッジ) のラップ / アンラップ判定
-
-各ベンダーは継続的にこれらの自動分類ロジックを更新。
+- **クロスチェーンブリッジ** ([[exchanges/jp-crypto-on-off-ramp-bridge-layer|on/off ramp 層]] + L2 ブリッジ) のラップ / アンラップ判定各ベンダーは継続的にこれらの自動分類ロジックを更新。
 
 ## 関連項目
 

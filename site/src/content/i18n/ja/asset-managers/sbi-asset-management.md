@@ -2,10 +2,11 @@
 source: asset-managers/sbi-asset-management
 source_hash: 3f6abf081147dab4
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBIアセットマネジメント"
-translated_at: 2026-06-15T03:48:21.810Z
+translated_at: 2026-06-26T08:32:15.217Z
 ---
 
 # SBIアセットマネジメント
@@ -26,11 +27,11 @@ SBIアセットマネジメント株式会社は、金融商品取引法上の *
 | License route | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第311号 |
 | Parent boundary | SBIグローバルアセットマネジメント / [[megabanks/sbi-hd|SBI HD]] グループ (online / independent) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
-| Wiki role | SBI 系 低コスト運用会社 anchor |
+| Wiki role | SBI 系低コスト運用会社 anchor |
 
 ## 2. Operating model
 
-投資運用業者として、公募投信の **投資信託委託** (組成・運用)、ETF / index products、投資助言を担う SBI の asset-management layer (オルタナティブ運用子会社を含む)。販売は [[securities-firms/sbi-securities|SBI証券]] のオンライン販売導線と [[megabanks/sbi-hd|SBI HD]] の金融 ecosystem (証券・銀行・保険・暗号資産の customer funnel) が軸。**low-cost fund competition と NISA 資金流入の beneficiary** として、index / ETF の手数料引き下げ競争では [[asset-managers/nomura-asset-management|野村アセット]] など系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
+投資運用業者として、公募投信の **投資信託委託** (組成・運用)、ETF / index products、投資助言を担う SBI の asset-management layer (オルタナティブ運用子会社を含む)。販売は [[securities-firms/sbi-securities|SBI証券]] のオンライン販売導線と [[megabanks/sbi-hd|SBI HD]] の金融経済圏 (証券・銀行・保険・暗号資産の customer funnel) が軸。**low-cost fund competition と NISA 資金流入の beneficiary** として、index / ETF の手数料引き下げ競争では [[asset-managers/nomura-asset-management|野村アセット]] など系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
 
 ## 3. Why this page matters
 

@@ -2,10 +2,11 @@
 source: fintech/latin-america-cbdc-stablecoin-dollarization
 source_hash: 5f55c1262273cdc1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ラテンアメリカの CBDC と USD ステーブルコインの力学"
-translated_at: 2026-06-02T13:21:55.056Z
+translated_at: 2026-06-26T08:28:46.051Z
 ---
 # ラテンアメリカの CBDC と USD ステーブルコインの力学
 
@@ -26,7 +27,7 @@ translated_at: 2026-06-02T13:21:55.056Z
 - **2024以前の stablecoin の役割**: USDT は家計の USD 価値保存手段として支配的だった。現物の USD 紙幣より取得しやすく、公式レート制限を回避できたためである。
 - **Milei 改革後の stablecoin の役割**: 需要は残っている。cepo が解体された後でも、USDT はドル貯蓄 rail として機能し続ける。オンランプ UX（Lemon、Ripio、Belo、Buenbit、Bitso Argentina）がレガシー銀行の USD 口座体験を上回るためである。
 - **規制の方向性**: CNV（Comisión Nacional de Valores）は Law 27.739 （2024）に基づき virtual asset service providers を登録した。BCRA（中央銀行）は歴史的に crypto payment use cases に反対しており、2026-05時点でいかなる枠組みでも peso-stablecoin 発行を認可していない。
-- **Lemon、Ripio、Belo、Buenbit、Bitso AR**: 稼働中の wallet stack。いずれも USDT-Tron 入金、USDC-Solana / Polygon、Visa card off-ramp、MEP に近いレートでのペソ転換を提供する。
+- **Lemon、Ripio、Belo、Buenbit、Bitso AR**: 稼働中の ウォレット stack。いずれも USDT-Tron 入金、USDC-Solana / Polygon、Visa card off-ramp、MEP に近いレートでのペソ転換を提供する。
 
 アルゼンチンのパターンは、stablecoin による「通貨代替」の典型例であり、より広い [[fintech/em-market-crypto-dollarization-pattern]] と [[fintech/gray-market-dollar-network-formalization]] における制度化の流れの実証的アンカーである。
 
@@ -35,10 +36,10 @@ translated_at: 2026-06-02T13:21:55.056Z
 - **マクロ文脈**: BRL は地域内では相対的に安定している。ブラジルの stablecoin 需要は、インフレヘッジよりも **リテール crypto 投資** + **B2B クロスボーダー決済** + **送金**により強く牽引される。
 - **Pix**: Banco Central do Brasil の即時決済システムで、2020, 以降稼働し、広く普及している。Pix は 1 日あたり数億件の取引を処理し、DREX ベースの programmable money use case にとって**非 stablecoin の競争ベースライン**である。
 - **DREX**: BCB の tokenized deposit プラットフォーム。Hyperledger Besu 上に構築され、2026時点で第 2 パイロット段階にある。DREX は、単一のリテール CBDC token ではなく、permissioned DLT 上で認可銀行が発行する **tokenized deposits** として明示的に位置づけられている。詳細は専用 [[fintech/brazil-drex-timeline-2026]] エントリにある。
-- **民間 rail stablecoin の状況**: Mercado Bitcoin（MB）、Foxbit、Ripio Brazil、Bitso Brazil が主要な国内 venue。Mercado Bitcoin は BRLA Digital インフラ上で BRL ペッグ stablecoin（MBRL）を試験導入した。**BRLA** は銀行パートナーを持つ独立 BRL ペッグ stablecoin issuer であり、DREX の外側で稼働し、リテールおよび B2B 用に設計されている。
+- **民間 rail stablecoin の状況**: Mercado Bitcoin（MB）、Foxbit、Ripio Brazil、Bitso Brazil が主要な国内 venue。Mercado Bitcoin は BRLA Digital インフラ上で BRL ペッグ stablecoin（MBRL）を試験導入した。**BRLA** は銀行パートナーを持つ独立 BRL ペッグ stablecoin 発行会社 であり、DREX の外側で稼働し、リテールおよび B2B 用に設計されている。
 - **規制の方向性**: BCB の枠組み（CMN Resolutions + BCB Circulars 2024-2025）は、USD ペッグの stablecoins を主に**外国為替商品**として扱い、ブラジル居住者による発行・償還に FX-control mechanics を適用する。PL 4401 framework（Marco Legal das Criptomoedas、施行済み）は VASP を BCB 監督下に置く。
 
-DREX と民間 BRL stablecoin の戦略的位置は、[[fintech/institutional-stablecoin-deposit-token-thesis]] の **tokenized deposit vs non-bank stablecoin** 論争、および [[fintech/japan-epi-three-types-overview]] の**日本型 trust-vs-bank-vs-funds-transfer** の分岐と構造的に似ている。
+DREX と民間 BRL stablecoin の戦略的位置は、[[fintech/institutional-stablecoin-deposit-token-thesis]] の **tokenized deposit vs non-bank stablecoin** 論争、および [[fintech/japan-epi-three-types-overview]] の**日本型 trust-vs-bank-vs-資金移動** の分岐と構造的に似ている。
 
 ## メキシコ · Banxico CoDi vs stablecoin
 
@@ -60,19 +61,19 @@ DREX と民間 BRL stablecoin の戦略的位置は、[[fintech/institutional-st
 ## エルサルバドル · BTC 法定通貨 + USDC 二重政策
 
 - **マクロ文脈**: エルサルバドルは 2001 に USD を正式な法定通貨として採用した（完全ドル化）。同国には金融政策の自律性も国内通貨もない。
-- **BTC 採用**: 2021 Bitcoin Law は BTC を USD と並ぶ法定通貨にした。リテール採用は期待を下回り、国家支援の Chivo Wallet は初期予測を下回った。
+- **BTC 採用**: 2021 Bitcoin Law は BTC を USD と並ぶ法定通貨にした。リテール採用は期待を下回り、国家支援の Chivo ウォレット は初期予測を下回った。
 - **2024 IMF 合意**: IMF Extended Fund Facility の下で、エルサルバドルは BTC 受入義務を縮小し、Chivo を後景化することに同意した。ただし BTC の法定通貨としての地位は形式上維持している。
 - **USDC の役割**: USDC は自由に流通する（ドル化経済の USD ペッグ = パリティ商品）。Circle は正式なインフラ上の存在感を持ち、USDC は crypto-native フローにおける USD のオンチェーン版として機能する。
 - **Bitcoin Bonds / Volcano Bonds**: 2026, 時点では再構成され、静かな状態にある。当初の 2021-2022 大規模構想は実現していない。
 - **CBDC**: 完全ドル化しているため CBDC プロジェクトはない。
 
-エルサルバドルは、BTC + USD + USDC + 国家支援 wallet という**二重 rail の極端な事例**であり、中央銀行の金融権限を持たない。マクロ上の教訓は [[fintech/jurisdiction-list-monetary-protectionism]] のより広い stablecoin 地政学にきれいに対応する。
+エルサルバドルは、BTC + USD + USDC + 国家支援ウォレット という**二重 rail の極端な事例**であり、中央銀行の金融権限を持たない。マクロ上の教訓は [[fintech/jurisdiction-list-monetary-protectionism]] のより広い stablecoin 地政学にきれいに対応する。
 
 ## ベネズエラ · petro 廃止、USDT 送金経済
 
 - **マクロ文脈**: ハイパーインフレが続いている（過去 10 年の累積インフレは数千パーセント）。bolívar は複数回デノミされ、資本規制は厳しい。
 - **Petro CBDC**: ベネズエラ政府が発行する石油担保 crypto-asset として 2018 に開始された petro は、2024 までに実質的に失敗し、正式に放棄された。現在の流通はない。
-- **USDT 経済**: 事実上のドル化は、ベネズエラ diaspora（米国、コロンビア、スペイン、チリ、ペルー、メキシコ）からの送金、商業決済、家計貯蓄において USDT-Tron 上で動く。Reserve Wallet と Binance P2P が多用され、bolívares への off-ramp は非公式ローカル OTC を使う。
+- **USDT 経済**: 事実上のドル化は、ベネズエラ diaspora（米国、コロンビア、スペイン、チリ、ペルー、メキシコ）からの送金、商業決済、家計貯蓄において USDT-Tron 上で動く。Reserve ウォレット と Binance P2P が多用され、bolívares への off-ramp は非公式ローカル OTC を使う。
 - **制裁文脈**: ベネズエラ国家機関に対する米 OFAC 制裁は正式な銀行アクセスに影響する。USDT-Tron はリテールフローにおける sanctions-permeable な USD レイヤーとして機能する。
 - **規制の方向性**: Sunacrip（暗号資産監督機関）は制度的混乱を経ており、規制枠組みは流動的である。
 

@@ -2,10 +2,11 @@
 source: insurance/captive-insurance-japan-market
 source_hash: 764a142c4979df7b
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のキャプティブ保険市場"
-translated_at: 2026-06-18T23:59:13.096Z
+translated_at: 2026-06-26T08:32:23.042Z
 ---
 
 # 日本のキャプティブ保険市場
@@ -16,9 +17,7 @@ translated_at: 2026-06-18T23:59:13.096Z
 
 本ページは、その日本固有のギャップをマッピングし、既知および推定される日本グループのキャプティブ（三菱、三井、トヨタ、日立、NYK、日産など）を列挙し、再保険キャプティブ（RTC）やレンタ・キャプティブ（ROC）を含む ART（代替的リスク移転）を説明し、FSA / METI / NTA の境界を扱い、オンショアのライセンス・ギャップが [[insurance/japan-nonlife-big-three|big-three]] 損害保険会社および [[insurance/foreign-reinsurer-japan-landscape|the foreign reinsurer panel]] にとってなぜ重要なのかを示す。
 
-## Wiki ルート
-
-本項目は [[insurance/INDEX|insurance index]] の下に位置する。商業保険会社という代替肢については [[insurance/japan-nonlife-big-three|Japan non-life big three]]、関連するリスク移転市場については [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、特殊リスクの並行例については [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]]、海運キャプティブのクロスオーバーについては [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、オフショア規制当局の親資本制度については [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]、キャプティブがカタストロフィー出再とどう相互作用するかについては [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] と対照して読むこと。ライセンスルートの枠組みは [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] にあり、レジストリのピボットは [[non-life-insurers/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]] である。
+## Wiki ルート本項目は [[insurance/INDEX|insurance index]] の下に位置する。商業保険会社という代替肢については [[insurance/japan-nonlife-big-three|Japan non-life big three]]、関連するリスク移転市場については [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、特殊リスクの並行例については [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]]、海運キャプティブのクロスオーバーについては [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、オフショア規制当局の親資本制度については [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]、キャプティブがカタストロフィー出再とどう相互作用するかについては [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] と対照して読むこと。ライセンスルートの枠組みは [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] にあり、レジストリのピボットは [[non-life-insurers/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]] である。
 
 ## 1. キャプティブとは何か、そしてなぜ企業はキャプティブを設立するのか
 
@@ -41,9 +40,7 @@ translated_at: 2026-06-18T23:59:13.096Z
 | 法域比較 | オンショア・キャプティブ・ライセンス | 日本グループのキャプティブの存在 |
 |---|---|---|
 
-## 3. 既知および推定される日本グループのキャプティブ
-
-キャプティブの公開開示は一般的に乏しい。キャプティブは完全にグループ内の手段であり、オフショア規制当局は限られた情報しか公表しないためである。以下のセットは、公開された二次的な参照（ブローカー市場の論評、キャプティブ業界の刊行物、グループの年次報告書）と構造的推論を組み合わせたものである。
+## 3. 既知および推定される日本グループのキャプティブキャプティブの公開開示は一般的に乏しい。キャプティブは完全にグループ内の手段であり、オフショア規制当局は限られた情報しか公表しないためである。以下のセットは、公開された二次的な参照（ブローカー市場の論評、キャプティブ業界の刊行物、グループの年次報告書）と構造的推論を組み合わせたものである。
 
 | 日本グループ | キャプティブ — 典型的な法域 | 備考 |
 |---|---|---|
@@ -65,23 +62,19 @@ translated_at: 2026-06-18T23:59:13.096Z
 | 論点 | 取扱い |
 |---|---|
 
-## 6. 代替的リスク移転（ART）——より広範なツールキット
-
-キャプティブは ART の中で最も目立つ要素であるが、この用語はより広範なツールキットを包含する。
+## 6. 代替的リスク移転（ART）——より広範なツールキットキャプティブは ART の中で最も目立つ要素であるが、この用語はより広範なツールキットを包含する。
 
 | ART ツール | 何をするか | 日本での存在 |
 |---|---|---|
 
 読み方のルール：キャプティブは ART の *最も定式化された* 端であり、カタストロフィー・ボンドやパラメトリックは *最も市場化された* 端である。日本グループは両端と、ストラクチャード / ファイナイト再保険という中間の双方に参加している。
 
-## 7. ROC 対 RTC ——実務上の区別
-
-関連するが区別される、時に混同される二つのキャプティブ構造。
+## 7. ROC 対 RTC ——実務上の区別関連するが区別される、時に混同される二つのキャプティブ構造。
 
 | 略称 | 正式名称 | 機能 | 日本での利用 |
 |---|---|---|---|
 
-## 9. 比較：キャプティブ 対 商業保険会社 対 再保険会社
+## 9. 比較：キャプティブ対商業保険会社対再保険会社
 
 | 観点 | 商業保険会社（例：[[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]） | 単一親キャプティブ（オフショア） | 再保険会社（例：[[non-life-insurers/munich-re-japan|Munich Re Japan]]） |
 |---|---|---|---|
@@ -90,9 +83,7 @@ translated_at: 2026-06-18T23:59:13.096Z
 | 契約者保護機構 | あり（会員） | なし（第三者契約者なし） | なし（再保険のみ） |
 | 公開開示 | 年次報告書、FSA 提出書類 | 最小限——オフショア規制当局に依存 | 親会社上場レベルでのグループ開示 |
 
-## 10. 意思決定上の利用
-
-次のような問いを立てるときに本ページを利用すること。
+## 10. 意思決定上の利用次のような問いを立てるときに本ページを利用すること。
 
 ## Related
 

@@ -2,16 +2,15 @@
 source: exchanges/jp-vasp-aml-travel-rule-implementation
 source_hash: 6244094904490df3
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)"
-translated_at: 2026-06-02T12:19:04.210Z
+translated_at: 2026-06-26T08:29:09.708Z
 ---
 # 国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)
 
-## 概要
-
-国内 VASP は **犯罪収益移転防止法（犯収法）** により、本人確認、取引監視、疑わしい取引の届出を義務づけられている。**FATF Recommendation 16 （Travel Rule）** は 2023-06 の改正犯収法施行により完全実装され、仮想資産送金が **≥ 10 万円相当** の場合、送受信双方の KYC データ伝達が義務化された。AML/CFT 体系は、FSA 監督、JAFIC（警察庁）による情報集約、JVCEA 自主規制の三層構造で運用される。
+## 概要国内 VASP は **犯罪収益移転防止法（犯収法）** により、本人確認、取引監視、疑わしい取引の届出を義務づけられている。**FATF Recommendation 16 （Travel Rule）** は 2023-06 の改正犯収法施行により完全実装され、仮想資産送金が **≥ 10 万円相当** の場合、送受信双方の KYC データ伝達が義務化された。AML/CFT 体系は、FSA 監督、JAFIC（警察庁）による情報集約、JVCEA 自主規制の三層構造で運用される。
 
 ## 犯収法上の義務 4 本柱
 
@@ -37,7 +36,7 @@ translated_at: 2026-06-02T12:19:04.210Z
 ## リスクと課題
 
 - **Sunrise issue**: 各国の実装速度差（US は連邦法レベルでは後発・EU は MiCA 2024 で完全実装）
-- **non-custodial wallet 問題**: self-hosted wallet 送金時の KYC が困難（MAS / FCA で論点継続）
+- **non-custodial ウォレット問題**: self-hosted ウォレット送金時の KYC が困難（MAS / FCA で論点継続）
 - **プライバシー懸念**: BTC/ETH のオンチェーン透明性と KYC データ照合により、送金者の財務状況が推定されるリスク
 
 ## 関連項目

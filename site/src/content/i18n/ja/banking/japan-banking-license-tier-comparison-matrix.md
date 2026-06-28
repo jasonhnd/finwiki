@@ -2,10 +2,11 @@
 source: banking/japan-banking-license-tier-comparison-matrix
 source_hash: 44d5a10ed135ef78
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の銀行免許ティア比較マトリクス"
-translated_at: 2026-06-18T23:33:48.281Z
+translated_at: 2026-06-26T08:29:25.259Z
 ---
 
 # 日本の銀行免許ティア比較マトリクス
@@ -14,9 +15,7 @@ translated_at: 2026-06-18T23:33:48.281Z
 
 日本の預金受入システムは単一の免許ではない。銀行法、信託業法、信用金庫法、中小企業等協同組合法、労働金庫法、農林中央金庫法は、それぞれ異なる法令、規制当局、資本フロア、預金保険レジーム、認可業務の枠、ガバナンス形態を持つ別個の免許ティアを切り出している。本マトリクスは、**メガバンク / 地方 / 第二地方 / 信託 / ネット / 外国銀行支店 / 信用金庫 / 信用組合 / 労働金庫 / 農林中央金庫-JA-JF** にわたって公的に検証可能な軸を集め、ブランドやバランスシートの問いに先立って免許形態の問いに答えられるようにする。
 
-## Wiki ルート
-
-本項目は [[banking/INDEX|banking index]] に属し、協同組合金融のレーンとして [[banking/cooperative-banking-japan|Cooperative banking in Japan]]、デジタルバンクのレーンとして [[banking/japan-net-bank-competition-map|Japan net bank competition map]]、外国銀行支店のレーンとして [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]]、地方銀行のレーンとして [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] と組み合わさる。規制上の境界は [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 内の [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] である。預金保険システムは [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] である。協同組織の中央機関は [[cooperative-banks/norinchukin|農林中央金庫]] と [[cooperative-banks/shinkin-central|信金中央金庫]] である。
+## Wiki ルート本項目は [[banking/INDEX|banking index]] に属し、協同組合金融のレーンとして [[banking/cooperative-banking-japan|Cooperative banking in Japan]]、デジタルバンクのレーンとして [[banking/japan-net-bank-competition-map|Japan net bank competition map]]、外国銀行支店のレーンとして [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]]、地方銀行のレーンとして [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] と組み合わさる。規制上の境界は [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 内の [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] である。預金保険システムは [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] である。協同組織の中央機関は [[cooperative-banks/norinchukin|農林中央金庫]] と [[cooperative-banks/shinkin-central|信金中央金庫]] である。
 
 ## なぜティアマトリクスが重要か
 
@@ -34,8 +33,8 @@ translated_at: 2026-06-18T23:33:48.281Z
 
 ## ティア 1  — メガバンク（普通銀行 / 都市銀行）
 
-- **法令 / 規制当局。** 銀行法 普通銀行免許。FSA 主要行等・銀行持株会社室が監督し、金融政策上のカウンターパーティとして日銀のオンサイトモニタリングを受ける。
-- **免許 + 数。** 銀行法 普通銀行。SMBC / MUFG / みずほの 3 コアに加え、りそな / 埼玉りそなが [[banking/INDEX|banking index]] の内部にメガバンクレーンとして位置する。
+- **法令 / 規制当局。** 銀行法普通銀行免許。FSA 主要行等・銀行持株会社室が監督し、金融政策上のカウンターパーティとして日銀のオンサイトモニタリングを受ける。
+- **免許 + 数。** 銀行法普通銀行。SMBC / MUFG / みずほの 3 コアに加え、りそな / 埼玉りそなが [[banking/INDEX|banking index]] の内部にメガバンクレーンとして位置する。
 - **資本フロア。** 銀行法の最低払込資本は普通銀行で ¥2  億円。メガバンクははるかに上回る水準で運営し、BIS バーゼル III グループ資本で運営される — 普通株式等 Tier 1  ≥ 4.5%、Tier 1  ≥ 6%、総自己資本比率 ≥ 8%、加えて G-SIB / D-SIB の資本バッファーサーチャージ・ティア（MUFG、SMFG、みずほは G-SIB サーチャージを負う。りそなは D-SIB として扱われる）。
 - **流動性。** 完全なバーゼル III LCR ≥ 100% および NSFR ≥ 100% が連結ベースで適用される。
 - **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバー。標準的な預金保険フレームの下で元本 ¥10  万円 + 利息、決済用預金は全額保護。
@@ -45,12 +44,12 @@ translated_at: 2026-06-18T23:33:48.281Z
 - **地理。** 法定の地理的制限なし。全国の支店および海外プレゼンス。
 - **M&A / 持株会社。** 事前の FSA 承認により銀行持株会社が認められる。銀行法の下で株式持合いと統合のルートが開かれている。
 - **日銀カウンターパーティ。** 日銀当座預金の直接保有。JGB のプライマリーディーラー。日銀の市場操作へのアクセス。
-- **直近の規制変更。** 銀行法 改正（令和 3  / 2021）は、銀行付随会社の範囲とデジタル / 地域活性化投資の範囲を拡大した。銀行発行のデジタルマネーと電子決済等取扱業をめぐる更新がこの層に最も直接的に影響する。[[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] 参照。
+- **直近の規制変更。** 銀行法改正（令和 3  / 2021）は、銀行付随会社の範囲とデジタル / 地域活性化投資の範囲を拡大した。銀行発行のデジタルマネーと電子決済等取扱業をめぐる更新がこの層に最も直接的に影響する。[[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] 参照。
 
 ## ティア 2  — 地方銀行（地方銀行）
 
-- **法令 / 規制当局。** 銀行法 普通銀行免許。FSA の中小・地域金融機関監督指針の下で監督される。多くの地方銀行は、都道府県の FSA 財務局が関与する際には [[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]] にも該当する。
-- **免許 + 数。** 銀行法 普通銀行免許、第一地方銀行協会 会員。全銀協のグルーピングは、これをメガバンクと第二地方銀行の間に位置する「地方銀行」ティアとして扱う。
+- **法令 / 規制当局。** 銀行法普通銀行免許。FSA の中小・地域金融機関監督指針の下で監督される。多くの地方銀行は、都道府県の FSA 財務局が関与する際には [[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]] にも該当する。
+- **免許 + 数。** 銀行法普通銀行免許、第一地方銀行協会会員。全銀協のグルーピングは、これをメガバンクと第二地方銀行の間に位置する「地方銀行」ティアとして扱う。
 - **資本フロア。** 同じ銀行法 ¥2  億円の最低額。大半は BIS 標準的手法、最大手のみ IRB。国際業務を持たない銀行には国内基準の 4% コア資本比率が適用される。
 - **流動性。** 国際的に活動する銀行には LCR / NSFR が適用される。国内基準の銀行は FSA 国内フレームワークの下でより簡素な流動性要件で運営される。
 - **預金保険。** メガバンクと同じ条件で [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバー。
@@ -59,12 +58,12 @@ translated_at: 2026-06-18T23:33:48.281Z
 - **ガバナンス。** 株式会社。多くは TSE 上場。銀行持株会社構造がますます一般的になっている（[[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]]）。
 - **地理。** 法的な地理的制限はないが、フランチャイズは 1 ～ 数県に集中する。
 - **M&A / 持株会社。** FSA 承認により銀行持株会社が認められる。FSA の経営統合フレームワークの下での統合が支配的な M&A ルート。
-- **直近の規制変更。** 2021  銀行法 改正は、認可付随会社業務を拡大し、地方銀行が地域活性化、デジタルバンキング子会社、コンサルティング子会社に投資することを容易にした — [[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]] で追跡される統合の弧に重要。
+- **直近の規制変更。** 2021  銀行法改正は、認可付随会社業務を拡大し、地方銀行が地域活性化、デジタルバンキング子会社、コンサルティング子会社に投資することを容易にした — [[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]] で追跡される統合の弧に重要。
 
 ## ティア 3  — 第二地方銀行（第二地方銀行）
 
-- **法令 / 規制当局。** 銀行法 普通銀行免許。同じ FSA 中小・地域金融機関監督指針。地方銀行とは法的に区別できない — 「第二」のタグは業界団体の会員資格である。
-- **免許 + 数。** 銀行法 普通銀行免許、第二地方銀行協会 会員。歴史的には 1989  改革の下での相互銀行（mutual savings banks）から普通銀行への転換。
+- **法令 / 規制当局。** 銀行法普通銀行免許。同じ FSA 中小・地域金融機関監督指針。地方銀行とは法的に区別できない — 「第二」のタグは業界団体の会員資格である。
+- **免許 + 数。** 銀行法普通銀行免許、第二地方銀行協会会員。歴史的には 1989  改革の下での相互銀行（mutual savings banks）から普通銀行への転換。
 - **資本フロア。** 銀行法の最低額は地方銀行と同一。BIS レジームも同一。
 - **流動性。** 普通の地方銀行と同じ。国際的に活動しない銀行には国内基準の流動性。
 - **預金保険。** 完全な銀行法の条件で [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバー。
@@ -73,12 +72,12 @@ translated_at: 2026-06-18T23:33:48.281Z
 - **ガバナンス。** 株式会社。多くの場合 TSE 上場。銀行持株会社が認められる。
 - **地理。** 第一ティアの地方銀行より単一県のフランチャイズが典型的。
 - **M&A / 持株会社。** [[banking/regional-bank-consolidation-pattern|regional bank consolidation pattern]] で説明される統合フローは、しばしば第一ティアの地方銀行と同一県の第二地方銀行を 1 つの持株会社の内部でペアにする。
-- **直近の規制変更。** 普通の地方銀行と同じ 2021  銀行法 改正の枠。統合のための FSA 支援措置（システムコスト補助、ガバナンスの柔軟性）がこのティアでは意味のある後押し。
+- **直近の規制変更。** 普通の地方銀行と同じ 2021  銀行法改正の枠。統合のための FSA 支援措置（システムコスト補助、ガバナンスの柔軟性）がこのティアでは意味のある後押し。
 
 ## ティア 4  — 信託銀行（信託銀行）
 
-- **法令 / 規制当局。** デュアル免許：銀行法 普通銀行免許 **に加えて** FSA の下での信託業法 信託業務免許。このデュアル免許の形態が、信託銀行を普通銀行と法的に区別するものである。
-- **免許 + 数。** 公的な会員資格は信託協会の信託銀行名簿に捕捉される。オペレーティングカンパニーのアンカーには [[banking/INDEX|banking index]] 信託銀行ルートに加え JapanFG の信託銀行ページが含まれる。オペレーティング比較の表層は [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] である。
+- **法令 / 規制当局。** デュアル免許：銀行法普通銀行免許 **に加えて** FSA の下での信託業法信託業務免許。このデュアル免許の形態が、信託銀行を普通銀行と法的に区別するものである。
+- **免許 + 数。** 公的な会員資格は信託協会の信託銀行名簿に捕捉される。オペレーティングカンパニーのアンカーには [[banking/INDEX|banking index]] 信託銀行ルートに加え JapanFG の信託銀行ページが含まれる。オペレーティング比較の表層は [[banking/trust-bank-custody-operating-comparison|trust-bank カストディ operating comparison]] である。
 - **資本フロア。** 銀行法の最低額が適用される。追加の信託業法の能力・運営要件（分別信託口座、受託者義務）がその上に乗る。
 - **流動性。** バンキングブック側には銀行法の LCR / NSFR。信託資産は別個の受託者会計の下でオフバランスシート。
 - **預金保険。** バンキングブックの預金には [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバー。信託口座は、同じ DICJ フレームの下で元本保護金銭信託について元本補填信託の経路を通じて保護される。
@@ -92,8 +91,8 @@ translated_at: 2026-06-18T23:33:48.281Z
 
 ## ティア 5  — ネット銀行（ネット銀行）
 
-- **法令 / 規制当局。** 銀行法 普通銀行免許。**別個の法定カテゴリは存在しない** — 「ネット銀行」は運営上のものであり、法的なものではない。免許はメガバンクのものと同一である。
-- **免許 + 数。** 銀行法 普通銀行免許。オペレーティングの世界は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] で追跡される（エコシステムリテール、フルバンキング BaaS、法人 API、資産形成、地域デジタル）。
+- **法令 / 規制当局。** 銀行法普通銀行免許。**別個の法定カテゴリは存在しない** — 「ネット銀行」は運営上のものであり、法的なものではない。免許はメガバンクのものと同一である。
+- **免許 + 数。** 銀行法普通銀行免許。オペレーティングの世界は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] で追跡される（エコシステムリテール、フルバンキング BaaS、法人 API、資産形成、地域デジタル）。
 - **資本フロア。** 銀行法の最低資本。大半は BIS 標準的手法、多くは国内基準の 4%。一部のネット銀行（楽天銀行、住信 SBI ネット銀行）は中堅のバランスシートに成長している。
 - **流動性。** 標準的な銀行法の LCR / NSFR ルール。国際的に活動しない事業者には国内基準。
 - **預金保険。** 完全な銀行法の条件で [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバー。
@@ -103,12 +102,12 @@ translated_at: 2026-06-18T23:33:48.281Z
 - **地理。** 従来の意味での支店網はない。全国のデジタルチャネル。
 - **M&A / 持株会社。** 銀行持株会社が認められる。オペレーティングモデルの問い（親エコシステム、パートナー BaaS、証券隣接性）は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] にある。
 - **日銀カウンターパーティ。** 普通銀行として免許を受ければ、日銀当座預金の直接保有。
-- **直近の規制変更。** 2021  銀行法 改正の銀行付随会社範囲の拡大は、このティアにとって最も直接的に重要な変更の一つ。電子決済等取扱業と [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] で追跡される BaaS 境界の監督は、免許形態よりも運営の自由度に影響する。
+- **直近の規制変更。** 2021  銀行法改正の銀行付随会社範囲の拡大は、このティアにとって最も直接的に重要な変更の一つ。電子決済等取扱業と [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] で追跡される BaaS 境界の監督は、免許形態よりも運営の自由度に影響する。
 
 ## ティア 6  — 外国銀行支店（外国銀行支店）
 
-- **法令 / 規制当局。** 銀行法第 IX 章の下での銀行法 外国銀行支店免許。FSA の主要行等および外国銀行監督ルートの下で監督される。
-- **免許 + 数。** 銀行法 外国銀行支店免許。FSA は外国銀行支店リストを公表し、定期的に更新する。このパターンは [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]] で追跡される。
+- **法令 / 規制当局。** 銀行法第 IX 章の下での銀行法外国銀行支店免許。FSA の主要行等および外国銀行監督ルートの下で監督される。
+- **免許 + 数。** 銀行法外国銀行支店免許。FSA は外国銀行支店リストを公表し、定期的に更新する。このパターンは [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]] で追跡される。
 - **資本フロア。** 支店資本相当ルールが適用される（資産相当の扱い、本店の資本充実への依拠）。国内で法人化された銀行向けの通常の ¥2  億円の払込資本フロアではない。本店のバーゼル III の立ち位置が重要。
 - **流動性。** 支店固有の流動性期待。本店の LCR / NSFR が本国監督者のフレームを通じて引き継がれ、国内業務が重要な場合には FSA の上乗せ要件がある。
 - **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバーは、日本の銀行と同じようには外国銀行支店に自動的に適用されない — 銀行法第 IX 章の下で、外国銀行支店の預金は日本の DICJ システムでカバーされない。預金者は本国の保護と支店資産 / 日本資産担保ルールに依拠する。
@@ -123,8 +122,8 @@ translated_at: 2026-06-18T23:33:48.281Z
 ## ティア 7  — 信用金庫（信用金庫）
 
 - **法令 / 規制当局。** 信用金庫法。FSA の中小・地域金融機関監督指針（協同組織金融機関に関する第 V 編）と財務局 / 福岡財務支局 / 沖縄総合事務局のルートの下で監督される。
-- **免許 + 数。** 信用金庫法 免許。[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] によれば 254  の免許を受けた信用金庫、加えて中央機関 [[cooperative-banks/shinkin-central|信金中央金庫]]。
-- **資本フロア。** 信用金庫法の最低 出資金 は普通の信用金庫で ¥100  万円（指定地域は ¥200  万円）。BIS スタイルの資本充実は FSA 国内基準の 4% コア資本フレームワーク。
+- **免許 + 数。** 信用金庫法免許。[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] によれば 254  の免許を受けた信用金庫、加えて中央機関 [[cooperative-banks/shinkin-central|信金中央金庫]]。
+- **資本フロア。** 信用金庫法の最低出資金 は普通の信用金庫で ¥100  万円（指定地域は ¥200  万円）。BIS スタイルの資本充実は FSA 国内基準の 4% コア資本フレームワーク。
 - **流動性。** FSA 国内基準の流動性期待。[[cooperative-banks/shinkin-central|信金中央金庫]] からの中央機関の流動性支援。
 - **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバーが同じ銀行法相当の条件で適用される。
 - **認可業務。** 会員預金、会員貸出、決済、FX、証券投資。非会員への貸出は割合で制限される（50% の非会員上限が歴史的なアンカー、カーブアウトあり）。
@@ -138,13 +137,13 @@ translated_at: 2026-06-18T23:33:48.281Z
 ## ティア 8  — 信用組合（信用組合）
 
 - **法令 / 規制当局。** 中小企業等協同組合法 に加えて 協同組合による金融事業に関する法律。都道府県当局と連携して FSA の中小・地域金融機関ルートの下で監督される。免許は信用協同組合に付与される。
-- **免許 + 数。** [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] によれば 143  の免許を受けた信用組合、加えて中央機関 全国信用協同組合連合会。
-- **資本フロア。** 協同組合法の最低 出資金 と FSA 国内基準の資本充実。信用金庫より小さいフロア。
+- **免許 + 数。** [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] によれば 143  の免許を受けた信用組合、加えて中央機関全国信用協同組合連合会。
+- **資本フロア。** 協同組合法の最低出資金 と FSA 国内基準の資本充実。信用金庫より小さいフロア。
 - **流動性。** FSA 国内基準の流動性。全信組連からの中央機関の流動性支援。
 - **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバーが適用される。
 - **認可業務。** 会員預金、会員貸出、FX、決済。信用金庫より厳格な会員資格ルール（会員は業種、地域、職域、または属性によって制限される — 業域 / 地域 / 職域）。
 - **クロスボーダー。** 一般にはなし。
-- **ガバナンス。** 一人一票と 出資 会員出資を伴う協同組織。
+- **ガバナンス。** 一人一票と 出資会員出資を伴う協同組織。
 - **地理。** 法定の営業地区。多くの組合は都道府県ではなく特定の職業または業種に対応する（例：歴史的には商工組合中央金庫、在日韓国・中国系の商工組合、運輸業組合）。
 - **M&A / 持株会社。** 銀行持株会社のルートなし。信用組合間の合併は中小企業等協同組合法の手続きの下で認められる。
 - **日銀カウンターパーティ。** 全信組連 が信用組合システムの日銀カウンターパーティである。
@@ -153,8 +152,8 @@ translated_at: 2026-06-18T23:33:48.281Z
 ## ティア 9  — 労金（労働金庫）
 
 - **法令 / 規制当局。** 労働金庫法。FSA と 厚生労働省 によって **共同で監督** される。このデュアル規制当局の形態は預金受入の世界で唯一無二である。
-- **免許 + 数。** [[banking/rokin-bank-registry-japan|Japan rokin bank registry]] によれば 13  の免許を受けた労金（中央労働金庫、近畿労働金庫、東海労働金庫等の地域労金）、加えて中央機関 労働金庫連合会。
-- **資本フロア。** 労働金庫法の最低 出資金。FSA 国内基準の資本充実が適用される。
+- **免許 + 数。** [[banking/rokin-bank-registry-japan|Japan rokin bank registry]] によれば 13  の免許を受けた労金（中央労働金庫、近畿労働金庫、東海労働金庫等の地域労金）、加えて中央機関労働金庫連合会。
+- **資本フロア。** 労働金庫法の最低出資金。FSA 国内基準の資本充実が適用される。
 - **流動性。** FSA 国内基準の流動性。労金連からの中央機関の流動性支援。
 - **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] のカバーが適用される。
 - **認可業務。** 会員預金、貸出、住宅ローン、決済。会員は労働組合、消費生活協同組合、および会員組織に属する者。貸出は家計 / 勤労者金融（住宅ローン、教育ローン、ライフイベント金融）に集中する。
@@ -171,7 +170,7 @@ translated_at: 2026-06-18T23:33:48.281Z
 - **免許 + 数。** [[cooperative-banks/norinchukin|農林中央金庫]] が中央機関として頂点に位置する。その下に：都道府県の信連（JA 信用連合会）と信漁連（JF 信用連合会）、および基礎の信用事業 JA と JF 組合。JA Bank システムと JF マリンバンクシステムのルートは [[banking/INDEX|banking index]] を参照。
 - **資本フロア。** 農林中央金庫法は特殊法人としての [[cooperative-banks/norinchukin|農林中央金庫]] に特別なフレームワークを設定する。会員組合はそれぞれの協同組合法の下で運営する。
 - **流動性。** 銀行相当の健全性フレームワークが [[cooperative-banks/norinchukin|農林中央金庫]] に適用される（その市場活動を所与とした BIS スタイルの資本と流動性）。会員機関は協同組合法の健全性基準で運営する。
-- **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] は一般に協同組合金融の経路を通じて JA / JF の預金相当の請求権をカバーする。農水産業協同組合貯金保険機構（農水産業 協同組合の貯金保険機構）が、銀行 DICJ トラックとは別個に、農業 / 漁業協同組合の貯金に並行する保険メカニズムを提供する。
+- **預金保険。** [[financial-regulators/yokin-hoken-kiko|DICJ]] は一般に協同組合金融の経路を通じて JA / JF の預金相当の請求権をカバーする。農水産業協同組合貯金保険機構（農水産業協同組合の貯金保険機構）が、銀行 DICJ トラックとは別個に、農業 / 漁業協同組合の貯金に並行する保険メカニズムを提供する。
 - **認可業務。** 会員預金 / 貯金（JA / JF では技術的に 預金 ではなく 貯金 と呼ばれる）、貸出、決済、FX（[[cooperative-banks/norinchukin|農林中央金庫]] を通じて）、大規模な証券投資、資産運用。[[cooperative-banks/norinchukin|農林中央金庫]] はマンデートによりグローバルに活動する債券 / ストラクチャードクレジット投資家であり、日本の預金受入機関の中で際立っている。
 - **クロスボーダー。** [[cooperative-banks/norinchukin|農林中央金庫]] は大規模な海外投資ポートフォリオを運営し、海外駐在員事務所を持つ。会員 JA / JF 組合は持たない。
 - **ガバナンス。** JA / JF レベルでは協同組織。[[cooperative-banks/norinchukin|農林中央金庫]] レベルでは特殊法人。会員組織のガバナンスと農業政策への近接性が制度設計の一部。
@@ -184,28 +183,26 @@ translated_at: 2026-06-18T23:33:48.281Z
 
 | 軸 | メガバンク | 地方 | 第 2 地方 | 信託銀行 | ネット銀行 | 外国支店 | 信用金庫 | 信用組合 | 労金 | 農林系統 / [[cooperative-banks/norinchukin|農中]] |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **法令** | 銀行法 普銀 | 銀行法 普銀 | 銀行法 普銀 | 銀行法 普銀 + 信託業法 | 銀行法 普銀 | 銀行法 第 IX 章（外銀支店） | 信用金庫法 | 中協法 / 協金法 | 労働金庫法 | 農林中央金庫法 / 農協法 / 水協法 |
+| **法令** | 銀行法普銀 | 銀行法普銀 | 銀行法普銀 | 銀行法普銀 + 信託業法 | 銀行法普銀 | 銀行法第 IX 章（外銀支店） | 信用金庫法 | 中協法 / 協金法 | 労働金庫法 | 農林中央金庫法 / 農協法 / 水協法 |
 | **規制当局** | FSA + 日銀 | FSA + 財務局 | FSA + 財務局 | FSA（銀行 + 信託） | FSA | FSA 主要行等（外国支店ルート） | FSA 中小・地域 | FSA 中小・地域 + 都道府県 | FSA + 厚労省 | FSA + 農水省 |
-| **最低資本フロア** | 銀行法 ¥2 億円（実務上ははるかに高い） | 銀行法 ¥2 億円 | 銀行法 ¥2 億円 | 銀行法 ¥2 億円 + 信託業の能力 | 銀行法 ¥2 億円 | 支店資本相当。本店バーゼル III | 出資金 ¥100 万円 / ¥200 万円 | 協同組合法 出資金 | 協同組合法 出資金 | 特殊法人フレームワーク |
+| **最低資本フロア** | 銀行法 ¥2 億円（実務上ははるかに高い） | 銀行法 ¥2 億円 | 銀行法 ¥2 億円 | 銀行法 ¥2 億円 + 信託業の能力 | 銀行法 ¥2 億円 | 支店資本相当。本店バーゼル III | 出資金 ¥100 万円 / ¥200 万円 | 協同組合法出資金 | 協同組合法出資金 | 特殊法人フレームワーク |
 | **資本レジーム** | BIS バーゼル III + G-SIB/D-SIB サーチャージ | BIS 標準的 / 国内基準 | BIS 標準的 / 国内基準 | 銀行ピアと同じ + 信託健全性 | BIS 標準的 / 国内基準 | 本店バーゼル III + 支店ルール | FSA 国内基準 4% | FSA 国内基準 | FSA 国内基準 | 農中は銀行相当 |
 | **LCR / NSFR** | あり、完全 | 国際的に活動する場合のみ | まれ | バンキングブックにはあり | 国内基準または完全 | 本店 + FSA 上乗せ | 国内基準 | 国内基準 | 国内基準 | 農中にはあり |
 | **預金保険** | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] + 元本保護信託 | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | DICJ で **カバーされない**。本国レジーム | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | 農水産業貯金保険機構（並行） |
-| **認可業務** | 完全 + 証券子会社 + 信託子会社 | 完全 + 証券子会社 | 完全 + 証券子会社 | 完全な銀行業 + 完全な信託 | 完全な銀行業 | 銀行業 + 免許子会社業務 | 会員預金 / 貸出 + 投資 | 会員預金 / 貸出（より厳格） | 勤労者 / 会員金融 | 会員 貯金 / 貸出 + 農中マーケッツ |
+| **認可業務** | 完全 + 証券子会社 + 信託子会社 | 完全 + 証券子会社 | 完全 + 証券子会社 | 完全な銀行業 + 完全な信託 | 完全な銀行業 | 銀行業 + 免許子会社業務 | 会員預金 / 貸出 + 投資 | 会員預金 / 貸出（より厳格） | 勤労者 / 会員金融 | 会員貯金 / 貸出 + 農中マーケッツ |
 | **クロスボーダー** | ネイティブ・グローバル | 限定的 | 最小限 | カストディ / 信託経由でネイティブ | 限定的 | ネイティブ（免許の眼目） | なし | なし | なし | 農中はネイティブ。会員はなし |
 | **ガバナンス** | 株式会社、上場 | 株式会社、大半が上場 | 株式会社 | 銀行 HD 下の株式会社 | 株式会社、しばしば非銀行親 | 外国法人の支店 | 協同組織 | 協同組織 | 協同組合 + 労働組合 | 協同組合 + 特殊法人 |
-| **地理** | 全国 + 海外 | 1 ～ 数県 | 単一県が典型 | 全国 | デジタル全国 | 1 ～ 2 都市 | 法定 営業地区 | 法定 営業地区 | 地域労金エリア | 地元 JA/JF + 全国 農中 |
+| **地理** | 全国 + 海外 | 1 ～ 数県 | 単一県が典型 | 全国 | デジタル全国 | 1 ～ 2 都市 | 法定営業地区 | 法定営業地区 | 地域労金エリア | 地元 JA/JF + 全国農中 |
 | **持株会社** | あり（FSA 承認） | あり（FSA 承認） | あり（FSA 承認） | あり（FSA 承認） | あり（FSA 承認） | なし（親は海外） | なし | なし | なし | なし（システム構造） |
-| **日銀カウンターパーティ** | 直接 | 直接 | 直接 | 直接 | 直接 | 直接（選択した場合） | [[cooperative-banks/shinkin-central\|信金中金]] 経由 | 全信組連 経由 | 労金連 経由 | 直接（[[cooperative-banks/norinchukin\|農中]]） |
+| **日銀カウンターパーティ** | 直接 | 直接 | 直接 | 直接 | 直接 | 直接（選択した場合） | [[cooperative-banks/shinkin-central\|信金中金]] 経由 | 全信組連経由 | 労金連経由 | 直接（[[cooperative-banks/norinchukin\|農中]]） |
 | **G-SIB / D-SIB** | 3 メガバンクグループすべて（G-SIB）。りそな（D-SIB） | なし | なし | G-SIB グループ内の信託部門 | なし | 本店が G-SIB の場合あり | なし | なし | なし | なし |
 
-## このマトリクスの読み方
-
-免許ティアマトリクスは公的表層のツールである。機関をランク付けせず、バランスシートの健全性を推定せず、統合を予測しない。戦略、チャネル、フランチャイズの問いが問われる前に、[[banking/INDEX|banking index]] 項目、[[banking/japan-net-bank-competition-map|net bank]] 項目、または [[banking/foreign-bank-japan-retreat|foreign-branch]] 項目を一貫して分類できるようにするために存在する。
+## このマトリクスの読み方免許ティアマトリクスは公的表層のツールである。機関をランク付けせず、バランスシートの健全性を推定せず、統合を予測しない。戦略、チャネル、フランチャイズの問いが問われる前に、[[banking/INDEX|banking index]] 項目、[[banking/japan-net-bank-competition-map|net bank]] 項目、または [[banking/foreign-bank-japan-retreat|foreign-branch]] 項目を一貫して分類できるようにするために存在する。
 
 任意の単一機関ページを読むとき：
 
 1. **法令** の列から始める — それがほぼすべての他のフィールドを決定する。
-2. **預金保険** の列を確認する。外国支店と 農水産業 協同組合はデフォルトの [[financial-regulators/yokin-hoken-kiko|DICJ]] フレームの例外である。
+2. **預金保険** の列を確認する。外国支店と 農水産業協同組合はデフォルトの [[financial-regulators/yokin-hoken-kiko|DICJ]] フレームの例外である。
 3. **日銀カウンターパーティ** の列を確認する。協同組合金融機関は直接ではなく中央機関を通じて清算する。
 4. **持株会社** の列を確認する。協同組合ティアは銀行持株会社を使えない。外国支店もどちらも使えない。
 5. **ガバナンス** の列を用いて、一人一票、株式会社上場、または外国法人の支店の言語が適用されるかを読む — それがどのガバナンス、開示、M&A の表層が利用可能かを決定する。
@@ -214,7 +211,7 @@ translated_at: 2026-06-18T23:33:48.281Z
 
 - **ネット銀行 vs 普通銀行。** ネット銀行は運営上区別されるが、他のどの普通銀行とも法的に同一である。免許ティアはメガバンクと同じ。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] 参照。
 - **信託銀行 vs 普通銀行。** 信託銀行は **法的に** 区別される（デュアル免許）。信託子会社を持つ普通銀行は信託銀行と同じではない。
-- **信用金庫 vs 信用組合。** どちらも別個の法令を持つ 協同組織 協同組合金融機関である。会員資格ルールと監督財務局が異なる。[[banking/shinkin-bank-registry-japan|shinkin registry]] と [[banking/credit-cooperative-registry-japan|credit cooperative registry]] 参照。
+- **信用金庫 vs 信用組合。** どちらも別個の法令を持つ 協同組織協同組合金融機関である。会員資格ルールと監督財務局が異なる。[[banking/shinkin-bank-registry-japan|shinkin registry]] と [[banking/credit-cooperative-registry-japan|credit cooperative registry]] 参照。
 - **労金 vs 他の協同組合金融。** 労金は唯一無二に 厚労省 と共同で監督され、労働組合の会員構造を持つ。[[banking/rokin-bank-registry-japan|rōkin registry]] 参照。
 - **農林系統 vs 通常の協同組合金融。** このシステムは 預金 ではなく 貯金（savings）の用語を用い、[[financial-regulators/yokin-hoken-kiko|DICJ]] に並行する独自の貯金保険機構を持つ。監督は FSA / 農水省 の共同。
 - **外国銀行支店 vs 日本で法人化された外資系銀行。** 外国銀行支店は第 IX 章の下の支店である。日本で法人化された子会社（例：SBJ 銀行のような [[banking/INDEX|banking INDEX]] エンティティ）は外資系の 普通銀行 であり、外国銀行支店ではない。預金保険の扱いが異なる。

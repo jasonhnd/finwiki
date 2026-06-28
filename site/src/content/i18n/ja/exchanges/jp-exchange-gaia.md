@@ -2,10 +2,11 @@
 source: exchanges/jp-exchange-gaia
 source_hash: 2a759b36467df15a
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "株式会社ガイア — 日本暗号資産交換業者概要"
-translated_at: 2026-06-02T12:19:04.242Z
+translated_at: 2026-06-26T08:29:25.277Z
 ---
 ﻿
 # 株式会社ガイア — 日本暗号資産交換業者概要
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T12:19:04.242Z
 
 本項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。隣接文脈は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]]、より広いシステム境界は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] とあわせて読む。
 
-> FSA 登録番号 近畿財務局 第00004号 · JVCEA 会員 #1034 · 登録日 2021-06-18
+> FSA 登録番号近畿財務局第00004号 · JVCEA 会員 #1034 · 登録日 2021-06-18
 
 ## 1. 法人・株主
 
@@ -31,10 +32,10 @@ translated_at: 2026-06-02T12:19:04.242Z
 
 ## 2. 牌照・登録状況
 
-- **暗号資産交換業**: 近畿財務局長 第00004号（登録日 2021-06-18）
+- **暗号資産交換業**: 近畿財務局長第00004号（登録日 2021-06-18）
 - **JVCEA 第一種会員**: #1034（2021年1月に第二種で加入 → 同年6月に第一種へ種別変更）
 - 金融商品取引業・電子決済手段等取引業・資金移動業の登録なし（公表情報の範囲内）
-- 関西所在の暗号資産交換業 VASP は 26 社中 2 社のみ（[[exchanges/jp-exchange-zaif|Zaif]]: 近畿財務局長 第00001号 と当社、参考は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]]）
+- 関西所在の暗号資産交換業 VASP は 26 社中 2 社のみ（[[exchanges/jp-exchange-zaif|Zaif]]: 近畿財務局長第00001号 と当社、参考は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]]）
 
 ## 3. 取扱通貨
 
@@ -73,7 +74,7 @@ translated_at: 2026-06-02T12:19:04.242Z
 | 2018年1月 | 暗号資産交換業を事業目的に追加 |
 | 2021年1月 | JVCEA 第二種会員加入 |
 | 2021年2月 | 株式会社ガイアホールディングス設立（暗号資産交換業以外の業務を移管） |
-| 2021年6月 | 暗号資産交換業登録完了（近畿財務局長 第00004号）、JVCEA 第一種会員へ種別変更 |
+| 2021年6月 | 暗号資産交換業登録完了（近畿財務局長第00004号）、JVCEA 第一種会員へ種別変更 |
 | 2022年8月 | 暗号資産交換業に基づくサービス開始（同社発表）；国内初の暗号資産自動両替機 BTM を大阪で稼働 |
 | 2022年9月 | 国内2台目 BTM を東京へ設置 |
 | 2022年11月 | 国内3台目 BTM を設置 |
@@ -91,12 +92,12 @@ translated_at: 2026-06-02T12:19:04.242Z
 
 ## 8. 関連人物
 
-- **代表取締役**: 小倉 基宏（公表）
-- **取締役 / COO**: 渡邉 仁実（最高執行責任者）
-- **取締役**: 辻本 直紀（システム部門担当）
-- **取締役**: 金澤 勉（内部管理担当）
-- **監査役**: 段 雅彦
-- **顧問（事業戦略）**: 三根 公博（2021年9月就任）
+- **代表取締役**: 小倉基宏（公表）
+- **取締役 / COO**: 渡邉仁実（最高執行責任者）
+- **取締役**: 辻本直紀（システム部門担当）
+- **取締役**: 金澤勉（内部管理担当）
+- **監査役**: 段雅彦
+- **顧問（事業戦略）**: 三根公博（2021年9月就任）
 
 ## 関連項目
 
@@ -105,7 +106,7 @@ translated_at: 2026-06-02T12:19:04.242Z
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[exchanges/jp-vasp-aml-travel-rule-implementation]] — JP VASP AML / travel rule（ATM・インバウンド）
-- [[exchanges/jp-crypto-merchant-payment-lightning]] — JP crypto merchant payment（現金接点）
+- [[exchanges/jp-crypto-merchant-payment-lightning]] — JP crypto 加盟店 payment（現金接点）
 - [[exchanges/jp-exchange-coinhub]] — 同業 COINHUB（ATM 業者）
 
 ## 出典

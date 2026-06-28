@@ -2,17 +2,18 @@
 source: payments/waon-nanaco-retail-prepaid-comparison
 source_hash: 591f52e7b4b7a270
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "WAON 対 nanaco：小売プリペイド電子マネー比較"
-translated_at: 2026-06-19T06:09:18.169Z
+translated_at: 2026-06-26T08:29:17.581Z
 ---
 
 # WAON 対 nanaco：小売プリペイド電子マネー比較
 
 ## Wiki ルート
 
-このエントリは [[payments/INDEX|payments index]] の配下にあり、FSA 登録の第三者型プリペイドの視点については [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と、4 クラスのスキーム比較については [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] とペアになる、イオン対セブン＆アイの小売プリペイド比較ページである。レール（鉄道）をアンカーとするピアについては [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]] と、プラットフォーム非依存の FeliCa プリペイドの代替については [[payment-firms/rakuten-edy|Rakuten Edy]] と、コンビニエンスストアのコード決済のカウンターパートについては [[payments/famipay-valucreate-strategy|FamiPay]] と比較すること。グループアンカーの企業文脈は [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]]；決済オペレーターのアンカーは [[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/aeon-bank|AEON Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]] である。
+このエントリは [[payments/INDEX|payments index]] の配下にあり、FSA 登録の第三者型プリペイドの視点については [[payments/prepaid-payment-instrument-issuers-japan-index|前払式 payment instrument 発行会社 registry]] と、4 クラスのスキーム比較については [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] とペアになる、イオン対セブン＆アイの小売プリペイド比較ページである。レール（鉄道）をアンカーとするピアについては [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-前払式 scheme economics]] と、プラットフォーム非依存の FeliCa プリペイドの代替については [[payment-firms/rakuten-edy|Rakuten Edy]] と、コンビニエンスストアのコード決済のカウンターパートについては [[payments/famipay-valucreate-strategy|FamiPay]] と比較すること。グループアンカーの企業文脈は [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]]；決済オペレーターのアンカーは [[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/aeon-bank|AEON Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]] である。
 
 ## TL;DR
 
@@ -38,9 +39,7 @@ translated_at: 2026-06-19T06:09:18.169Z
 | グループポイント通貨 | WAON POINT | nanaco ポイント |
 | ポイントの残高への換算 | 1  ポイント = 1  円 WAON 残高 | 1  ポイント = 1  円 nanaco 残高 |
 
-## チャージ / 資金供給レールの比較
-
-小売プリペイドの経済モデルは、消費者がプリペイド残高をロードするためにどの資金供給レールを使用するかに大きく依存する。各レールは発行者にとって異なるコスト / マージンのプロファイルを持つ。
+## チャージ / 資金供給レールの比較小売プリペイドの経済モデルは、消費者がプリペイド残高をロードするためにどの資金供給レールを使用するかに大きく依存する。各レールは発行者にとって異なるコスト / マージンのプロファイルを持つ。
 
 | 資金供給レール | WAON のサポート | nanaco のサポート |
 |---|---|---|
@@ -54,9 +53,7 @@ translated_at: 2026-06-19T06:09:18.169Z
 
 強いグループ銀行およびグループカードの選好は意図的である — それは資金供給コストをグループ内に保ち、外部のカード発行者へのインターチェンジの漏出を回避し、ポイントの獲得をグループのロイヤルティ経済内に集中させる。資金供給ソースのミックスがはるかに多様で、銀行口座の口座引落と外部カードチャージの両方を実質的により大きな比率で含む PayPay クラスのウォレットと比較すること。
 
-## グループ小売の統合
-
-小売をアンカーとするプリペイドの主要な経済的根拠は、スタンドアロンのウォレットの収益性ではなく、**グループ小売事業における頻度とマージンの引き上げ** である。
+## グループ小売の統合小売をアンカーとするプリペイドの主要な経済的根拠は、スタンドアロンのウォレットの収益性ではなく、**グループ小売事業における頻度とマージンの引き上げ** である。
 
 ### イオン / WAON の統合タッチポイント
 

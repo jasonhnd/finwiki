@@ -2,23 +2,22 @@
 source: trust-banks/sekisui-house-trust
 source_hash: 4397f79efa007f60
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "積水ハウス信託"
-translated_at: 2026-06-02T15:14:17.151Z
+translated_at: 2026-06-26T08:32:30.863Z
 ---
 
 # 積水ハウス信託
 
 ## ウィキ上の位置づけ
 
-積水ハウス信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] と併読する。
+積水ハウス信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] と併読する。
 
 このページは、不動産管理信託、賃貸住宅の承継、住宅会社による信託サービスに関する論点で使う。
 
-## 概要
-
-積水ハウス信託は、Sekisui House group に連なる管理型信託会社である。同社ページは管理型信託業としての登録を説明し、賃貸住宅管理や承継をめぐる不動産所有者の課題解決を支援するために開業したと記載している。
+## 概要積水ハウス信託は、Sekisui House group に連なる管理型信託会社である。同社ページは管理型信託業としての登録を説明し、賃貸住宅管理や承継をめぐる不動産所有者の課題解決を支援するために開業したと記載している。
 
 このページが重要なのは、住宅会社系の信託ルートだからである。建設・住宅グループが、長期的な不動産管理と家族内承継を支援するために信託会社機能をどう使えるかを示す。
 
@@ -43,9 +42,7 @@ translated_at: 2026-06-02T15:14:17.151Z
 | グループの信託機能 | 住宅会社による信託サービスへの垂直統合を示す。 |
 | 承継・管理 | [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] および [[trust-banks/starts-trust|Starts Trust]] との比較対象として有用。 |
 
-## 公開情報上の文脈
-
-住宅資産を金融資産・承継資産として扱う論点では、積水ハウス信託が FinWiki 上で有用である。信託会社の役割は受託財産の管理・運営であり、一般的な銀行バランスシートを提供することではない。
+## 公開情報上の文脈住宅資産を金融資産・承継資産として扱う論点では、積水ハウス信託が FinWiki 上で有用である。信託会社の役割は受託財産の管理・運営であり、一般的な銀行バランスシートを提供することではない。
 
 商品別の開示がない限り、融資審査、税務上のメリット、賃貸利回りの結果を推定しない。
 

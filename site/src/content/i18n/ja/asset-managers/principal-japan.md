@@ -2,17 +2,16 @@
 source: asset-managers/principal-japan
 source_hash: c8432079b1c02079
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Principal Japan / プリンシパル・ジャパン"
-translated_at: 2026-06-15T03:48:21.930Z
+translated_at: 2026-06-26T08:32:07.545Z
 ---
 
 # Principal Japan / プリンシパル・ジャパン
 
-## Wiki ルート
-
-本項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。外資系金融グループの同業文脈については [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] と [[life-insurers/nn-life-japan|NN Life Japan]] を、より広い日本の退職給付 / 保険制度 / 規制の境界については [[insurance/INDEX|insurance index]] を併せて参照のこと。
+## Wiki ルート本項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。外資系金融グループの同業文脈については [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] と [[life-insurers/nn-life-japan|NN Life Japan]] を、より広い日本の退職給付 / 保険制度 / 規制の境界については [[insurance/INDEX|insurance index]] を併せて参照のこと。
 
 ## TL;DR
 
@@ -29,7 +28,7 @@ Principal Financial Group, Inc. は、退職給付、保険、資産運用に注
 | Wiki 上の役割 | 外資系の日本の金融グループ（退職給付 / 資産運用に注力） |
 | 親会社 / 構造 | Principal Financial Group, Inc.（NASDAQ: PFG）、アイオワ州デモイン |
 
-ライセンスルートの詳細は、保険免許を有する事業体については [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に、資産運用については [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign-financial-group adjacent licenses]] に属する。
+ライセンスルートの詳細は、保険免許を有する事業体については [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に、資産運用については [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign-financial-group adjacent licenses]] に属する。
 
 ## 2. オペレーティングモデル
 

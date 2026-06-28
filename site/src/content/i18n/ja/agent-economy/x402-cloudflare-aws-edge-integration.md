@@ -2,10 +2,11 @@
 source: agent-economy/x402-cloudflare-aws-edge-integration
 source_hash: dce234af6bdf86f2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント"
-translated_at: 2026-06-02T11:47:37.315Z
+translated_at: 2026-06-26T08:29:09.693Z
 ---
 
 # x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント
@@ -26,7 +27,7 @@ translated_at: 2026-06-02T11:47:37.315Z
 
 ## 仕組み / どのように機能するか
 
-エッジ層(edge layer)は HTTP トラフィックが必ず通過する経路であり、Cloudflare Workers / AWS API Gateway はその中で最大の 2 社である。x402 をエッジ層に統合することは、**開発者が payment ロジックを書く必要がない**ことを意味する。エンドポイント価格(例:「この API は $0.001 USDC」)を宣言するだけで · エッジ層が自動的に:(1) 決済のないリクエストを傍受 → HTTP 402 を返却;(2) X-Payment ヘッダ付きのリクエストを検証(非同期オンチェーン settlement);(3) ルーティング許可 → バックエンドが処理する。Facilitator モデルによりエッジ層は信用代払を実行:オンチェーン [[fintech/usd-stablecoin-interchange|USDC settlement]] 完了前に facilitator が既にリクエストをリリースし · 単発レイテンシを < 100ms に圧縮する。Cloudflare の 1-2% は facilitator fee で · 従来の Stripe の 2.9% + $0.30 と比べて低価格 API 呼び出しでは極めて優位である(料率の堀については [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] と対照)。AWS API Gateway + Bedrock 経路により、agent が AWS 内で有料 API を呼び出す閉ループが形成される。
+エッジ層(edge layer)は HTTP トラフィックが必ず通過する経路であり、Cloudflare Workers / AWS API Gateway はその中で最大の 2 社である。x402 をエッジ層に統合することは、**開発者が payment ロジックを書く必要がない**ことを意味する。エンドポイント価格(例:「この API は $0.001 USDC」)を宣言するだけで · エッジ層が自動的に:(1) 決済のないリクエストを傍受 → HTTP 402 を返却;(2) X-Payment ヘッダ付きのリクエストを検証(非同期オンチェーン決済);(3) ルーティング許可 → バックエンドが処理する。Facilitator モデルによりエッジ層は信用代払を実行:オンチェーン [[fintech/usd-stablecoin-interchange|USDC 決済]] 完了前に facilitator が既にリクエストをリリースし · 単発レイテンシを < 100ms に圧縮する。Cloudflare の 1-2% は facilitator fee で · 従来の Stripe の 2.9% + $0.30 と比べて低価格 API 呼び出しでは極めて優位である(料率の堀については [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] と対照)。AWS API Gateway + Bedrock 経路により、agent が AWS 内で有料 API を呼び出す閉ループが形成される。
 
 ## 起源と進化
 

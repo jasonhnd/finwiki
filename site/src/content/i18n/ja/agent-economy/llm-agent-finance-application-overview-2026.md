@@ -2,10 +2,11 @@
 source: agent-economy/llm-agent-finance-application-overview-2026
 source_hash: cd922ec6aae9774d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "金融における LLM・AI エージェントの応用 · 2026-05 応用領域の全体像"
-translated_at: 2026-06-18T23:33:48.269Z
+translated_at: 2026-06-26T08:28:53.950Z
 ---
 # 金融における LLM・AI エージェントの応用 · 2026-05 応用領域の全体像
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-18T23:33:48.269Z
 
 2026, 半ば時点で、金融における LLM / AI エージェントの活用範囲は、**本番稼働している領域**(顧客向けチャットボット、バックオフィス自動化、不正・AML トリアージ、開発者向けコパイロット)と、**制約付きパイロット段階の領域**(取引シグナル生成、与信判断支援、アドバイザリー水準の推奨)の二極に分化している。前者のクラスターは、G-SIB において「標準ツール」の閾値を越えた — Morgan Stanley AI @ Morgan Stanley、JPM IndexGPT / SpectrumGPT、Goldman GS AI Platform、BBVA / ING の Anthropic 導入、みずほ / SMBC / MUFG の社内コパイロット。後者のクラスターは依然として、**FSB / BIS / IMF の監督上の慎重姿勢**、**SEC の予測データ分析(predictive-data-analytics)ルールの方向性**、**FCA の AI-in-financial-services ペーパー**、そして日本の **FSA AI 原則 2024-2026** によって制約を受けており、これらはいずれも、顧客や市場に重大な影響を及ぼすあらゆる判断に human-in-the-loop 要件を課し続けている。カテゴリ別の成熟度マップ(本番 / パイロット / 研究)が、本エントリがエンコードする中核的なルーティングマップである。人格性(personhood)の枠組みについては [[agent-economy/agent-actorship-debate|agent actorship debate]] を、デプロイヤー責任のデフォルトについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]] を参照。
 
-## Wiki ルート
-
-本エントリは [[agent-economy/INDEX|agent-economy index]] の配下に位置する。責任のウォーターフォールについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]]、その基盤となる決済レールの整備状況については [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]]、取引固有の規制当局スタンスについては [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]] と併読すること。開発者向けツールについては [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture]] と [[agent-economy/stripe-agent-toolkit-position|Stripe agent toolkit position]] を参照。データパイプライン / シグナルの観点については [[agent-economy/agent-driven-market-data-interpretation-pipeline|agent-driven market data interpretation pipeline]] を参照。カストディと権限付与の構成については [[agent-economy/agent-custody-and-authorization-framework-2026|agent custody and authorization framework 2026]] を参照。アイデンティティについては [[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and traditional finance bridge]] を参照。
+## Wiki ルート本エントリは [[agent-economy/INDEX|agent-economy index]] の配下に位置する。責任のウォーターフォールについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]]、その基盤となる決済レールの整備状況については [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]]、取引固有の規制当局スタンスについては [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]] と併読すること。開発者向けツールについては [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture]] と [[agent-economy/stripe-agent-toolkit-position|Stripe agent toolkit position]] を参照。データパイプライン / シグナルの観点については [[agent-economy/agent-driven-market-data-interpretation-pipeline|agent-driven market data interpretation pipeline]] を参照。カストディと権限付与の構成については [[agent-economy/agent-custody-and-authorization-framework-2026|agent カストディ and authorization framework 2026]] を参照。アイデンティティについては [[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and traditional finance bridge]] を参照。
 
 ## 7 つの応用領域 · カテゴリ別成熟度
 
@@ -41,7 +40,7 @@ translated_at: 2026-06-18T23:33:48.269Z
 
 **ここで「PROD」が実際に意味するもの**: LLM がドラフトを作成し、有資格者が承認し、そのドラフトが顧客向けコミュニケーションとなる。LLM は重要な質問(住宅ローン金利、口座残高、アドバイス)について顧客にエンドツーエンドで直接回答することはない。例外はスクリプト化された FAQ(10 年前から ML / NLP 駆動だった) — それらは消費者保護の枠組みを再設計することなく、2024-2026 に静かに LLM へとアップグレードされた。
 
-**規制当局スタンス**: FCA の 2024 「AI in financial services」ペーパーと 2025-2026 のコンサルテーションの流れは、人間のレビューを伴う LLM ドラフトの顧客コミュニケーションを明示的に受け入れている。日本の FSA AI 原則(2021, 、2024更新)は、顧客向けチャットボットを「サポートツール」として扱い、金融機関が FIEA 第 35 条の適合性義務を完全に保持するものとしている。EU AI Act は、顧客向け金融チャットボットを「限定リスク」(透明性のみ)として扱うが、信用力評価に用いられる場合は「高リスク」となる((d) を参照)。
+**規制当局スタンス**: FCA の 2024 「AI in financial services」ペーパーと 2025-2026 のコンサルテーションの流れは、人間のレビューを伴う LLM ドラフトの顧客コミュニケーションを明示的に受け入れている。日本の FSA AI 原則(2021,、2024更新)は、顧客向けチャットボットを「サポートツール」として扱い、金融機関が FIEA 第 35 条の適合性義務を完全に保持するものとしている。EU AI Act は、顧客向け金融チャットボットを「限定リスク」(透明性のみ)として扱うが、信用力評価に用いられる場合は「高リスク」となる((d) を参照)。
 
 **主要ベンダー**: Anthropic Claude(BBVA、ING、みずほ)、OpenAI GPT-4o / GPT-5 (Morgan Stanley、Bank of America の初期パイロット)、Google Gemini(Citi のパイロット、2025開示)、Cohere(BlackRock Aladdin Copilot 隣接)、国内日本勢(NEC cotomi、NTT tsuzumi、PFN PLaMo)。
 
@@ -99,13 +98,11 @@ translated_at: 2026-06-18T23:33:48.269Z
 | アドバイザリー | WealthNavi パイロット | Vanguard パイロット | Schwab パイロット | — | M-AI Insight | Addepar、Orion AI |
 | 開発者向けツール | BBVA、みずほ、Goldman、MS | JPM、Citi、BofA | 軽微 | Bloomberg 社内 | みずほ社内 | Tabnine、Cursor(Anthropic 出資) |
 
-## エージェント決済スタックとの構成
-
-本エントリは**応用領域**をマッピングするものである;これらのアプリケーションが自律的に行動する際の基盤となる**トランザクションインフラ**は、agent-economy のプロトコルスタックでカバーされる。その構成:
+## エージェント決済スタックとの構成本エントリは**応用領域**をマッピングするものである;これらのアプリケーションが自律的に行動する際の基盤となる**トランザクションインフラ**は、agent-economy のプロトコルスタックでカバーされる。その構成:
 
 - **応用領域**(本エントリ) — 「LLM は銀行のために何をするのか?」
 - **アイデンティティレイヤー** — [[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and traditional finance bridge]]
-- **カストディと権限付与** — [[agent-economy/agent-custody-and-authorization-framework-2026|agent custody and authorization framework 2026]]
+- **カストディと権限付与** — [[agent-economy/agent-custody-and-authorization-framework-2026|agent カストディ and authorization framework 2026]]
 - **決済プロトコル** — [[agent-economy/agent-payment-protocol-four-way-comparison-2026|agent payment protocol four-way comparison 2026]]
 - **データ解釈パイプライン** — [[agent-economy/agent-driven-market-data-interpretation-pipeline|agent-driven market data interpretation pipeline]]
 - **規制当局フレームワーク(取引固有)** — [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]]

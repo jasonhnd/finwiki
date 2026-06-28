@@ -2,17 +2,18 @@
 source: trust-banks/hogaraka-trust
 source_hash: 56b9506ffdf481e3
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ほがらか信託 (Hogaraka Trust)"
-translated_at: 2026-06-02T14:25:12.414Z
+translated_at: 2026-06-26T08:32:30.857Z
 ---
 
 # ほがらか信託 (Hogaraka Trust)
 
 ## ウィキ上の位置づけ
 
-ほがらか信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[retail/INDEX|retail]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] とあわせて読む。
+ほがらか信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[retail/INDEX|retail]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] とあわせて読む。
 
 小売グループ系の信託サービス、相続設計、ファミリービジネス承継、高齢者支援、不動産承継を扱うときにこのページを使う。
 

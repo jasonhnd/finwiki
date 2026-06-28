@@ -2,10 +2,11 @@
 source: consumer-finance/smbc-consumer-finance
 source_hash: d2081992dcd7202e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SMBCコンシューマーファイナンス"
-translated_at: 2026-06-15T03:48:21.888Z
+translated_at: 2026-06-26T08:32:15.219Z
 ---
 
 # SMBCコンシューマーファイナンス
@@ -16,7 +17,7 @@ translated_at: 2026-06-15T03:48:21.888Z
 
 ## 要点
 
-SMBCコンシューマーファイナンスは **PROMISE (プロミス) ブランド**で知られる [[megabanks/smfg|SMFG]] グループの consumer-finance operator。貸金業・保証業を本業とし、無担保個人ローンと信用スコアリングのノウハウが中心。法人としての沿革は 1962 年設立の関西金融に遡り、2012 年にプロミスを完全子会社化したうえで現商号へ商号変更した。カード会社の [[card-issuers/smbc-card|三井住友カード]] とは役割を分けて読む。
+SMBCコンシューマーファイナンスは **PROMISE (プロミス) ブランド**で知られる [[megabanks/smfg|SMFG]] グループの consumer-finance 事業者。貸金業・保証業を本業とし、無担保個人ローンと信用スコアリングのノウハウが中心。法人としての沿革は 1962 年設立の関西金融に遡り、2012 年にプロミスを完全子会社化したうえで現商号へ商号変更した。カード会社の [[card-issuers/smbc-card|三井住友カード]] とは役割を分けて読む。
 
 ## 1. 法人・ライセンス境界
 

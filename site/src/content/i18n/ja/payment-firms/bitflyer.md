@@ -2,10 +2,11 @@
 source: payment-firms/bitflyer
 source_hash: e35937a865d956af
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
-translated_at: 2026-06-02T14:01:20.901Z
+translated_at: 2026-06-26T08:32:07.560Z
 ---
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-02T14:01:20.901Z
 
 この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア比較・対比の文脈は [[securities-firms/monex-group|マネックスグループ (Monex Group)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
-## 要約
-
-国内最大手暗号資産取引所の一つ。**2014-01-09 加納裕三 創業**、改正資金決済法施行直後の **2017-09 関東財務局長 第 00003 号** 取得（第一陣 11 社のうちの一角）。ビットコイン現物取引高で **国内トップ級**（年により [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] と首位争い）。2019 持株会社化（bitFlyer Holdings 設立）、**米国 / EU（ルクセンブルク）** に子会社展開。グループ独自プライベートチェーン「miyabi」を [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が運営。2024-2025 IPO 検討報道と並行して **創業者復帰・経営権争い** が表面化。JVCEA Type 1 業者。
+## 要約国内最大手暗号資産取引所の一つ。**2014-01-09 加納裕三創業**、改正資金決済法施行直後の **2017-09 関東財務局長第 00003 号** 取得（第一陣 11 社のうちの一角）。ビットコイン現物取引高で **国内トップ級**（年により [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] と首位争い）。2019 持株会社化（bitFlyer Holdings 設立）、**米国 / EU（ルクセンブルク）** に子会社展開。グループ独自プライベートチェーン「miyabi」を [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が運営。2024-2025 IPO 検討報道と並行して **創業者復帰・経営権争い** が表面化。JVCEA Type 1 業者。
 
 ## 1. 会社概要
 
@@ -24,7 +23,7 @@ translated_at: 2026-06-02T14:01:20.901Z
 **設立**：2014-01-09（株式会社ビットフライヤー）
 **持株会社化**：2019（bitFlyer Holdings 設立）
 **本社**：東京都港区
-**創業者**：加納裕三（Yuzo Kano、元 ゴールドマン・サックス証券）
+**創業者**：加納裕三（Yuzo Kano、元ゴールドマン・サックス証券）
 **未上場**：2024-2025 IPO 検討公開報道（具体的タイムラインは未確定）
 
 ### グループ構造（公開情報ベース）
@@ -51,24 +50,24 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 | 年月 | 事象 |
 |---|---|
-| **2014-01-09** | **株式会社ビットフライヤー 設立**（加納裕三 創業）|
+| **2014-01-09** | **株式会社ビットフライヤー 設立**（加納裕三創業）|
 | 2014-04 | bitFlyer 取引所サービス開始 |
 | 2014-09〜2017 | シリーズ A〜C 資金調達 |
 | 2014-12 | Mt.Gox 破綻後の業界再編期に国内シェア急拡大 |
-| **2017-04** | **改正資金決済法 施行**（暗号資産交換業 登録制導入）|
-| **2017-09** | **関東財務局長 第 00003 号 取得**（第一陣 11 社のうち、登録番号順では業界最古参格）|
+| **2017-04** | **改正資金決済法施行**（暗号資産交換業登録制導入）|
+| **2017-09** | **関東財務局長第 00003 号取得**（第一陣 11 社のうち、登録番号順では業界最古参格）|
 | 2017-11 | bitFlyer USA 営業開始（米国子会社）|
 | 2018-01 | bitFlyer EUROPE 営業開始（ルクセンブルク EU 拠点）|
-| **2018-06** | **金融庁 業務改善命令**（[[exchanges/jp-exchange-coincheck|coincheck]] NEM 流出事件後の業界一斉点検、JVCEA 自主規制対応の遅延を含む内部管理体制不備）|
+| **2018-06** | **金融庁業務改善命令**（[[exchanges/jp-exchange-coincheck|coincheck]] NEM 流出事件後の業界一斉点検、JVCEA 自主規制対応の遅延を含む内部管理体制不備）|
 | 2018-06〜 | 新規口座開設一時停止 → KYC / AML 体制再構築 |
-| 2018-10 | JVCEA（日本暗号資産取引業協会）認定資金決済事業者協会 認定 |
+| 2018-10 | JVCEA（日本暗号資産取引業協会）認定資金決済事業者協会認定 |
 | 2018-07 | 新規口座開設再開 |
 | 2019 | **持株会社化**（bitFlyer Holdings 設立、グループ再編）|
-| 2019-04 | 加納裕三 CEO 退任、後継 平子惠生 CEO 就任（報道ベース）|
+| 2019-04 | 加納裕三 CEO 退任、後継平子惠生 CEO 就任（報道ベース）|
 | 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が miyabi（独自プライベートチェーン）を B2B 提供 |
 | 2022 | bitFlyer EUROPE が 仏 AMF PSAN（暗号資産サービス提供者）登録 |
-| **2024** | **IPO 検討報道**（東証グロース 上場想定、複数メディア）|
-| **2024〜2025** | **創業者・現経営陣の経営権争い 報道**（加納裕三 復帰観測 / 株主総会対立）|
+| **2024** | **IPO 検討報道**（東証グロース上場想定、複数メディア）|
+| **2024〜2025** | **創業者・現経営陣の経営権争い 報道**（加納裕三復帰観測 / 株主総会対立）|
 
 ## 3. 事業セグメント・マップ
 
@@ -92,11 +91,11 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 | 競合 | 関係性 |
 |---|---|
-| [[exchanges/jp-exchange-bitbank|bitbank]] | BTC 現物取引高 国内首位争い |
+| [[exchanges/jp-exchange-bitbank|bitbank]] | BTC 現物取引高国内首位争い |
 | [[exchanges/jp-exchange-coincheck|coincheck]] | アルトコイン取扱数・利用者数で対照的、[[megabanks/ndfg]] グループ傘下 |
 | [[payment-firms/gmo-coin]] | GMO インターネット系、デリバティブに強い |
 | [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]] 系、機関投資家寄り |
-| [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] | 楽天経済圏統合の対極ポジション |
+| [[exchanges/jp-exchange-rakuten-wallet|rakuten-ウォレット]] | 楽天経済圏統合の対極ポジション |
 | Binance Japan / OKJ 等海外系 | 2023〜2024 海外取引所国内法人化との競合激化 |
 
 ### 国際展開
@@ -114,7 +113,7 @@ bitFlyer Holdings, Inc.（持株、未上場）
 ## 5. 規制・政策
 
 - **国内主管**：金融庁 / 関東財務局。
-- **暗号資産交換業登録**：関東財務局長 第 00003 号（第一陣・2017-09）。
+- **暗号資産交換業登録**：関東財務局長第 00003 号（第一陣・2017-09）。
 - **自主規制**：JVCEA（日本暗号資産取引業協会）Type 1（第一種）会員。
 - **米国規制**：FinCEN MSB + 複数州 MTL（NYDFS BitLicense は未取得）。
 - **EU 規制**：仏 AMF PSAN（2022）、MiCA 全面適用（2024-12〜）。
@@ -127,7 +126,7 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 ## 関連
 
-- [[exchanges/jp-exchange-coincheck|coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] · [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
+- [[exchanges/jp-exchange-coincheck|coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] · [[exchanges/jp-exchange-rakuten-wallet|rakuten-ウォレット]]
 - [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/mufg]]
 - [[systems/bitflyer-blockchain|bitFlyer Blockchain]]
 

@@ -2,10 +2,11 @@
 source: systems/erc-7702-overview
 source_hash: 07afc16744749e47
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード"
-translated_at: 2026-06-03T01:06:46.365Z
+translated_at: 2026-06-26T08:29:01.784Z
 ---
 ﻿
 # ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード
@@ -19,8 +20,8 @@ translated_at: 2026-06-03T01:06:46.365Z
 - Pectra 2025-05  メインネット有効化(7702 + 7251 validator + 2935 blockhash 等を含む) ^[extracted]
 - Vitalik は 2024-05 に EIP-3074 を破棄した後、自ら 7702 を起草 ^[extracted]
 - SET_CODE_TX(EIP タイプ 0x04)を新設 ^[extracted]
-- ETH 保有者の 90% は依然として EOA を使用(MetaMask / Rabby / Trust Wallet)· これが 7702 のターゲット ^[extracted]
-- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet がデフォルトでサポート ^[extracted]
+- ETH 保有者の 90% は依然として EOA を使用(MetaMask / Rabby / Trust ウォレット)· これが 7702 のターゲット ^[extracted]
+- 2026-Q1-Q2:MetaMask / Rabby / Coinbase ウォレット がデフォルトでサポート ^[extracted]
 
 ## 仕組み
 
@@ -48,13 +49,13 @@ translated_at: 2026-06-03T01:06:46.365Z
 2017-2024 年の間 · Ethereum AA への取り組みは何度も試行された:EIP-86(2017 失敗)→ EIP-2938(2020 失敗)→ EIP-3074(2022 ほぼ実現しかけたが署名 replay 問題あり)→ ERC-4337(2023-03 アプリケーション層で実現)→ EIP-7702(2024-05 Vitalik 起草)。
 
 **ERC-3074 との重要な差異**:
-- 3074 は `AUTH/AUTHCALL` オペコード を使用 · invoker コントラクト の仲介が必要 · UX が複雑 + 署名 リプレイリスクが高い
+- 3074 は `AUTH/AUTHCALL` オペコード を使用 · invoker コントラクト の仲介が必要 · UX が複雑 + 署名リプレイリスクが高い
 - 7702 は tx 層で直接 set code · **より原生的な SCW 体験に近い** · かつ 4337 と EntryPoint インフラを共有
 
 **タイムライン**:
 - 2024-05:Vitalik が 3074 を破棄 · 7702 を起草
 - 2025-05:Pectra メインネット有効化(7702 + 7251 + 2935 等)
-- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet がデフォルトでサポート
+- 2026-Q1-Q2:MetaMask / Rabby / Coinbase ウォレット がデフォルトでサポート
 - 2026-H2:Fusaka アップグレードで 7702 経済モデルをさらに最適化
 
 ## 関連項目

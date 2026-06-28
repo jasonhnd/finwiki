@@ -2,10 +2,11 @@
 source: real-estate-finance/nippon-prologis-reit-3283
 source_hash: d6477807a80320f1
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Nippon Prologis REIT (3283)"
-translated_at: 2026-06-19T12:43:19.981Z
+translated_at: 2026-06-26T08:29:40.686Z
 ---
 
 # Nippon Prologis REIT (3283)
@@ -126,7 +127,7 @@ NPR のポートフォリオは **AAA グレードの先進型物流施設** に
 - [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/real-estate-cap-rate-compression-2026|real estate cap-rate compression 2026]]
-- [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
+- [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

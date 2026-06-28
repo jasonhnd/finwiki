@@ -2,18 +2,17 @@
 source: payments/japan-bank-api-incident-and-fraud-control
 source_hash: 0bf16dee83164eb7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の銀行 API インシデントと不正管理マップ"
-translated_at: 2026-06-02T16:33:58.483Z
+translated_at: 2026-06-26T08:28:46.064Z
 ---
 # 日本の銀行 API インシデントと不正管理マップ
 
-## 概要
+## 概要日本における銀行 API リスクは、サイバーセキュリティだけの問題ではありません。銀行認証、顧客同意、電子決済等代行業登録、API 契約、不正引出し対応、不審取引モニタリング、補償 / 苦情処理、下流の照合にまたがる管理チェーンです。
 
-日本における銀行 API リスクは、サイバーセキュリティだけの問題ではありません。銀行認証、顧客同意、電子決済等代行業登録、API 契約、不正引出し対応、不審取引モニタリング、補償 / 苦情処理、下流の照合にまたがる管理チェーンです。
-
-このページは [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使います。
+このページは [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 account-direct アクワイアリング]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使います。
 
 ## インシデント面
 
@@ -40,14 +39,12 @@ translated_at: 2026-06-02T16:33:58.483Z
 | 照合 | 銀行元帳、アプリ状態、加盟店 / 会計状態、ユーザー通知状態を比較する。 |
 | インシデント対応 | ログを保全し、不審ルートを凍結し、銀行 / ユーザー / 加盟店へ通知し、苦情処理へ回す。 |
 
-## 境界が重要な理由
-
-同じチェックアウトや会計 UX でも、異なる法的レールの上に置かれることがあります。
+## 境界が重要な理由同じチェックアウトや会計 UX でも、異なる法的レールの上に置かれることがあります。
 
 - [[payments/japan-bank-api-payment-agency-route|electronic payment agency]] を通る銀行口座情報サービス。
 - [[payments/account-to-account-payment-japan|Cotra / Bank Pay / J-Debit style rails]] を通る口座間送金。
-- [[payments/funds-transfer-vs-prepaid-boundary|funds transfer or prepaid classification]] を通るウォレット残高。
-- [[payments/psp-merchant-settlement-risk|PSP settlement risk]] を通る加盟店 PSP 精算問題。
+- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 or 前払式 classification]] を通るウォレット残高。
+- [[payments/psp-merchant-settlement-risk|PSP 決済 risk]] を通る加盟店 PSP 精算問題。
 - [[banking/baas-japan-landscape|BaaS Japan landscape]] または [[banking/mercari-bank-license-stack|Mercari Bank license stack]] を通る組込銀行商品。
 
 これらをすべて「銀行 API 不正」と表現してはいけません。業務上の証拠と法的責任は大きく異なり得ます。

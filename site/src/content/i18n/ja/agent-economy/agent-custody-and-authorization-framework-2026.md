@@ -2,10 +2,11 @@
 source: agent-economy/agent-custody-and-authorization-framework-2026
 source_hash: 61c64e87c0aa20a8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エージェントのカストディおよび権限付与フレームワーク · 2026-05 リファレンスアーキテクチャ"
-translated_at: 2026-06-02T11:47:37.269Z
+translated_at: 2026-06-26T08:27:56.294Z
 ---
 # エージェントのカストディおよび権限付与フレームワーク · 2026-05 リファレンスアーキテクチャ
 
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T11:47:37.269Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[agent-economy/INDEX|agent-economy index]] の配下にある。対になる ID 認証については [[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and TradFi bridge]]、プロトコル層については [[agent-economy/agent-payment-protocol-four-way-comparison-2026|agent payment protocol four-way comparison]]、アプリケーションサーフェスについては [[agent-economy/llm-agent-finance-application-overview-2026|LLM agent finance application overview]]、トレーディング固有の規制当局オーバーレイについては [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]]、ウォレット権限プリミティブについては [[agent-economy/erc-7715-overview|ERC-7715 overview]] + [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]、ウォレット基盤については [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 primer]] + [[agent-economy/erc-7702-eoa-delegation-primer-for-agents|ERC-7702 primer]]、閾値カストディについては [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]]、組み込みウォレットカストディについては [[agent-economy/privy-embedded-wallet-overview|Privy]] + [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]、発行体レベルのカストディについては [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire]]、法的分離との対応については [[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded wallet custody bankruptcy mechanics]]、教義については [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]] と照らし合わせて読むこと。証券会社のアナログについては [[banking/custody-bank-operating-model|custody bank operating model]] と [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage]] を参照のこと。
+このエントリは [[agent-economy/INDEX|agent-economy index]] の配下にある。対になる ID 認証については [[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and TradFi bridge]]、プロトコル層については [[agent-economy/agent-payment-protocol-four-way-comparison-2026|agent payment protocol four-way comparison]]、アプリケーションサーフェスについては [[agent-economy/llm-agent-finance-application-overview-2026|LLM agent finance application overview]]、トレーディング固有の規制当局オーバーレイについては [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]]、ウォレット権限プリミティブについては [[agent-economy/erc-7715-overview|ERC-7715 overview]] + [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]、ウォレット基盤については [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 primer]] + [[agent-economy/erc-7702-eoa-delegation-primer-for-agents|ERC-7702 primer]]、閾値カストディについては [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]]、組み込みウォレットカストディについては [[agent-economy/privy-embedded-wallet-overview|Privy]] + [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]、発行体レベルのカストディについては [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire]]、法的分離との対応については [[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded ウォレットカストディ bankruptcy mechanics]]、教義については [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]] と照らし合わせて読むこと。証券会社のアナログについては [[banking/custody-bank-operating-model|カストディ bank operating model]] と [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime 証券仲介]] を参照のこと。
 
 ## 三軸の設計空間
 
@@ -43,7 +44,7 @@ translated_at: 2026-06-02T11:47:37.269Z
 - ユースケース：消費者向けエージェント決済、エンタープライズのエージェント発行
 - 例：Privy 組み込みウォレット、Coinbase CDP ウォレット、Magic 組み込みウォレット、Skyfire 発行のエージェント ID
 
-カストディアンの市場構造については [[agent-economy/embedded-wallet-landscape-2026-consolidation|embedded wallet landscape 2026 consolidation]]、法的分離要件については [[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded wallet custody bankruptcy mechanics]] を参照のこと。
+カストディアンの市場構造については [[agent-economy/embedded-wallet-landscape-2026-consolidation|embedded ウォレット landscape 2026 consolidation]]、法的分離要件については [[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded ウォレットカストディ bankruptcy mechanics]] を参照のこと。
 
 ### 軸 2 · 権限付与の粒度
 
@@ -75,7 +76,7 @@ GRANT to agent_id A1:
 ### 軸 3 · 失効メカニズム
 
 **オンチェーン即時**：
-- 権限 NFT をバーンする（一部の Coinbase Smart Wallet パターンのようにスコープが NFT エンコードされている場合）
+- 権限 NFT をバーンする（一部の Coinbase Smart ウォレットパターンのようにスコープが NFT エンコードされている場合）
 - ERC-7715対応ウォレットで `revokePermissions` を呼び出す（即時のブロックファイナリティ失効）
 - ERC-4337 SCW 内の資金は、ユーザーが失効 UserOp に署名することでセッションキーを削除できる
 - コスト：失効トランザクションのガス料金（L2では通常 $0.50 未満）
@@ -95,9 +96,7 @@ GRANT to agent_id A1:
 - ユースケース：7日間のプロジェクトで動作するエージェント。ユーザーが失効を忘れても権限が自動失効する
 - これは**最も安全なデフォルト**であり、推奨されるベースラインである
 
-## マルチ署名 / 閾値エージェント制御
-
-高額または機関導入されるエージェントの場合、**単一署名のエージェント制御**は不十分である。マルチ署名 / 閾値パターン：
+## マルチ署名 / 閾値エージェント制御高額または機関導入されるエージェントの場合、**単一署名のエージェント制御**は不十分である。マルチ署名 / 閾値パターン：
 
 ### パターン 1 · エージェント + 人間の共同署名者
 
@@ -127,9 +126,7 @@ GRANT to agent_id A1:
 - ユースケース：エージェントと人間の両方が署名者として適格となる 2-of-3 または 3-of-5 マルチシグを備えた企業トレジャリー
 - 実装：Safe + 閾値 ECDSA、または特定チェーン上の BLS マルチシグ
 
-## 伝統的な証券会社の限定的委任状（LPOA）との比較
-
-伝統的金融からの教義上のアナログは、顧客が限定的委任状（LPOA）を通じて投資顧問に付与する**裁量取引権限**である。この構造は約 50 年間安定している：
+## 伝統的な証券会社の限定的委任状（LPOA）との比較伝統的金融からの教義上のアナログは、顧客が限定的委任状（LPOA）を通じて投資顧問に付与する**裁量取引権限**である。この構造は約 50 年間安定している：
 
 | 次元 | 証券会社 LPOA | エージェント ERC-7715 / Skyfire の同等物 |
 |---|---|---|
@@ -142,7 +139,7 @@ GRANT to agent_id A1:
 | **責任** | 顧客が責任を負う。顧問は受託者義務を負う | デプロイヤーが責任を負う。エージェントプロバイダは契約上の責任を負う場合がある |
 | **規制当局** | SEC IA / BD 監督、FINRA、FSA 第1 種 / 第2 種 FIBO | デプロイヤーの規制対象活動を介して間接的 |
 
-構造的な並行関係は意図的なものである。エージェントのカストディ / 権限付与は、**より強力な失効プリミティブ** と **より細かい粒度のスコープ表現** を備えた**デジタルネイティブな LPOA** である。法的教義はほとんど変わらず適用される。すなわち、本人（ユーザー / デプロイヤー）が責任を保持し、エージェントは付与されたスコープ内で限定的な権限を持ち、失効は本人の一方的な権利である。完全な教義マッピングについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]]、証券会社 LPOA のフレーミングについては [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage]] を参照のこと。
+構造的な並行関係は意図的なものである。エージェントのカストディ / 権限付与は、**より強力な失効プリミティブ** と **より細かい粒度のスコープ表現** を備えた**デジタルネイティブな LPOA** である。法的教義はほとんど変わらず適用される。すなわち、本人（ユーザー / デプロイヤー）が責任を保持し、エージェントは付与されたスコープ内で限定的な権限を持ち、失効は本人の一方的な権利である。完全な教義マッピングについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]]、証券会社 LPOA のフレーミングについては [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime 証券仲介]] を参照のこと。
 
 ## カストディ x 権限付与 x 失効マトリクス · 本番パターン
 
@@ -169,9 +166,7 @@ GRANT to agent_id A1:
 
 運用上の含意：**ベースラインのデフォルトとしてのオンチェーン即時 + 時限有効期限**が、最も強力な失効プロファイルを与える。オフチェーン仲介はカストディアンが信頼されている場合に許容される。法的 / 契約上の失効は、高頻度のエージェント運用には遅すぎる。
 
-## クロススタック構成チェックリスト
-
-本番グレードのエージェントカストディ + 権限付与のデプロイは、以下を指定すべきである：
+## クロススタック構成チェックリスト本番グレードのエージェントカストディ + 権限付与のデプロイは、以下を指定すべきである：
 
 - [ ] **カストディモデル** — セルフ / ハイブリッド / カストディアル（カストディアルの場合はベンダー名も）
 - [ ] **鍵素材の所在** — ローカル TEE / クラウド TEE / 閾値ネットワーク / HSM
@@ -181,7 +176,7 @@ GRANT to agent_id A1:
 - [ ] **監査証跡** — 何がどこに記録されるか、保持期間
 - [ ] **障害モード** — カストディアン / Lit ネットワーク / バンドラーがダウンした場合に何が起こるか
 - [ ] **リカバリー** — ユーザーがパスキー / デバイスを失った場合に何が起こるか
-- [ ] **保険 / 保証** — カストディアンは保証されているか。どの破産分離が適用されるか（[[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded wallet custody bankruptcy mechanics]] を参照）
+- [ ] **保険 / 保証** — カストディアンは保証されているか。どの破産分離が適用されるか（[[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|embedded ウォレットカストディ bankruptcy mechanics]] を参照）
 - [ ] **ID 認証** — 何がエージェントの鍵をデプロイヤーに紐付けるか（[[agent-economy/agent-identity-defi-and-traditional-finance-bridge|agent identity DeFi and TradFi bridge]] を参照）
 
 これらすべてを指定しない本番設計は不完全であり、監督検査に失敗する。

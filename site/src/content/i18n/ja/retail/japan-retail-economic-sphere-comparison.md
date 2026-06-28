@@ -2,14 +2,14 @@
 source: retail/japan-retail-economic-sphere-comparison
 source_hash: c0b7512cafba2cdc
 lang: ja
-model: claude-opus-4-8
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "日本の小売経済圏 比較"
-translated_at: 2026-06-05T00:00:00.000Z
+title: "日本の小売経済圏比較"
+translated_at: 2026-06-26T08:29:40.687Z
 ---
 
-# 日本の小売経済圏 比較
+# 日本の小売経済圏比較
 
 ## Wiki ルート
 

@@ -2,10 +2,11 @@
 source: exchanges/jp-crypto-on-off-ramp-bridge-layer
 source_hash: 089f47440bd39e99
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)"
-translated_at: 2026-06-02T12:19:04.214Z
+translated_at: 2026-06-26T08:29:09.706Z
 ---
 # 国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)
 
@@ -35,12 +36,12 @@ translated_at: 2026-06-02T12:19:04.214Z
 国内 VASP では取扱なしの dApps / NFT 系トークン取得時、ユーザーは海外 on-ramp 事業者の Web ウィジェット経由で JPY → USDC 等を直接購入する事例が存在する。**法的位置付けは継続的にグレー**（FSA は越境 VASP 規制を継続強化）:
 
 - **MoonPay (米マイアミ 2019-)** — Web3 ウォレット (MetaMask / Phantom 等) に最も広く統合。JPY 対応（時期によって変動）、クレジットカード + Apple Pay + Google Pay 入金
-- **Transak (英ロンドン 2019-)** — グローバル on/off ramp。MetaMask Portfolio・Trust Wallet・OpenSea 等に統合。**JP user 対応の可否は時期により変動**
+- **Transak (英ロンドン 2019-)** — グローバル on/off ramp。MetaMask Portfolio・Trust ウォレット・OpenSea 等に統合。**JP user 対応の可否は時期により変動**
 - **Banxa (豪メルボルン 2014-)** — 上場企業 (Toronto Venture)。グローバル多拠点ライセンス保有
-- **Ramp Network (英ロンドン 2017-)** — Web3 中心、複数 wallets に統合
+- **Ramp Network (英ロンドン 2017-)** — Web3 中心、複数ウォレット に統合
 - **Mercuryo (英ロンドン 2018-)** — Web3 + 暗号資産デビットカード
 - **Sardine (米サンフランシスコ 2020-)** — 不正対策に強み、機関向け
-- **Wyre** (2021 サービス停止)、**Simplex** (Nuvei 系) — 主要 wallet 統合だが日本向け取扱は限定
+- **Wyre** (2021 サービス停止)、**Simplex** (Nuvei 系) — 主要ウォレット統合だが日本向け取扱は限定
 
 これら越境事業者は、国内 ID + JPY クレジットカード経由の取引を可能とする構成だが、**FSA は無登録 VASP の越境提供を継続監視**しており、特定事業者に対し業務改善命令 / 警告書発出の前例がある。
 

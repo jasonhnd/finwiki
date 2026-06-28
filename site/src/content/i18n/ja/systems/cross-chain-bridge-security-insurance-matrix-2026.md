@@ -2,10 +2,11 @@
 source: systems/cross-chain-bridge-security-insurance-matrix-2026
 source_hash: 05c500e4a8257c20
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコルの信頼モデル / ハック履歴 / カバレッジ全景"
-translated_at: 2026-06-03T01:06:46.352Z
+translated_at: 2026-06-26T08:28:53.977Z
 ---
 
 # クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコルの信頼モデル / ハック履歴 / カバレッジ全景
@@ -23,9 +24,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 この項目は [[systems/INDEX|systems index]] 配下に位置する。一般的な 9軸のブリッジ比較は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] と照合し、基礎となるアーキテクチャ分類は [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極アーキテクチャ概観]] を参照する。プロトコル別の詳細は [[systems/cctp-v2-overview|CCTP V2 overview]] · [[systems/cctp-v2-technical-spec|CCTP V2 technical spec]] · [[systems/hyperlane-overview|Hyperlane overview]] · [[systems/hyperlane-ism-modular-security|Hyperlane ISM modular security]] · [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]] · [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP institutional messaging]] を参照。これらの信頼モデルを横断する選定ロジックには [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] を使う。ブリッジの上位にある UX レイヤーは [[systems/chain-abstraction-pattern-overview|chain abstraction overview]] と [[systems/chain-abstraction-pattern-three-solutions|chain abstraction three solutions]] と合わせて読む。ハック時系列を再構成するためのセキュリティ・フォレンジック手法は [[security/INDEX|security index]] と [[security/bytecode-forensic-three-tier-verify|bytecode forensic three-tier verify]] を参照。
 
-## このマトリクスが重要な理由
-
-クロスチェーンブリッジは 2021-2024 暗号エコシステムの単一最大の損失源 —— 累計被害 ≥ $2.7B · CEX hack 総計を大きく超える。機関資金が onchain finance に参入する([[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] における SWIFT / DTCC パイロット参照)前の重要ゲートは「ブリッジは保険可能か · 事故時に recover 可能か · trust model が risk committee の要求を満たすか」である。
+## このマトリクスが重要な理由クロスチェーンブリッジは 2021-2024 暗号エコシステムの単一最大の損失源 —— 累計被害 ≥ $2.7B · CEX hack 総計を大きく超える。機関資金が onchain finance に参入する([[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] における SWIFT / DTCC パイロット参照)前の重要ゲートは「ブリッジは保険可能か · 事故時に recover 可能か · trust model が risk committee の要求を満たすか」である。
 
 ただしブリッジのセキュリティ全体像は protocol docs · Rekt leaderboard · L2Beat bridge risk · Nexus Mutual cover terms · 個別 audit firm レポートに分散しており —— 統一対照ビューが存在しない。本マトリクスは **trust model · validator security budget · hack history · insurance coverage · audit firm · recovery process** の 5 大次元を横展開し · institutional / DeFi ユーザーがブリッジ選定時に TVL や latency だけでなく · 「今日攻撃を受けた場合 · 私の $1M はどれだけ recover できるか · どのプロセスで」を見られるようにする。
 
@@ -103,7 +102,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 **監査カバレッジ**:Trail of Bits · CertiK · Sigma Prime · NCC Group。各 v アップグレードで独立 audit。
 
-**復旧プロセス**:RMN は即時 veto 可能 · DON は lane を pause 可能。Chainlink Foundation が institutional 顧客 OTC settlement を調整。
+**復旧プロセス**:RMN は即時 veto 可能 · DON は lane を pause 可能。Chainlink Foundation が institutional 顧客 OTC 決済 を調整。
 
 ### Across
 
@@ -153,7 +152,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 **バリデータのセキュリティ予算**:Router collateral(総 ~$10M 2026-Q2 · ピークより大きく低下)。Sequencer 中央集権化(Connext Inc.)。
 
-**過去のハック**:protocol-level hack なし · しかし 2024-Q3 で 1 回 router insolvency により $400K LP 損失(Connext Inc. が自前補填で解決)。
+**過去のハック**:protocol-level hack なし · しかし 2024-Q3 で 1 回 router inソルベンシー により $400K LP 損失(Connext Inc. が自前補填で解決)。
 
 **保険**:Sherlock 初期 cover は期限切れ未更新。Nexus Mutual は引受拒否(ガバナンス不透明)。
 
@@ -179,7 +178,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 **信頼モデル**:75-validator PoS ネットワーク(CosmosSDK + Tendermint 基盤)· クロスチェーン message は 2/3 validator quorum 署名。General Message Passing(GMP)+ Interchain Token(ITS)モデル。
 
-**バリデータのセキュリティ予算**:AXL token staking ~$300M(2026-Q2)。Validator set 公開 · Binance · Coinbase Custody · Imperator · DSRV 等の機関ノードを含む。
+**バリデータのセキュリティ予算**:AXL token staking ~$300M(2026-Q2)。Validator set 公開 · Binance · Coinbase カストディ · Imperator · DSRV 等の機関ノードを含む。
 
 **過去のハック**:protocol-level hack なし(2022 ローンチから 2026-Q2 まで)。2024 で 1 回 ITS 設定バグが white hat に発見 · payout $200K · ユーザー損失なし。
 
@@ -191,7 +190,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 ### deBridge
 
-**信頼モデル**:12 validator delegated PoS · Chainlink CCIP integration を fallback として。「DLN」(deBridge Liquidity Network)intent-based settlement layer。
+**信頼モデル**:12 validator delegated PoS · Chainlink CCIP integration を fallback として。「DLN」(deBridge Liquidity Network)intent-based 決済 layer。
 
 **バリデータのセキュリティ予算**:DBR token staking ~$80M(2026-Q2 推定)。
 
@@ -245,7 +244,7 @@ translated_at: 2026-06-03T01:06:46.352Z
 | **Across** | Optimistic · UMA OO 7200s challenge window + relayer collateral | UMA bonding ~$50M | None(2022+ ~$0)· 2024 relayer bug 5 分修正 | Sherlock ~$3M · NM 一部 · ACX treasury | OpenZeppelin · Trail of Bits · Code4rena · Sherlock | UMA dispute · challenge 後 relayer slash |
 | **Stargate (LZ)** | LayerZero DVN + LP unified liquidity | LZ DVN + LP TVL $50M-500M | 2023.03 transfer bug 損失なし · 2024 white hat $500K payout | Self insurance fund ~$2M(LP 0.06% fee)· NM | Zellic · Trail of Bits · Spearbit · Code4rena | Insurance fund が先に賠償 · LP haircut |
 | **Synapse** | Validator multisig ~10-of-15 · 2024 optimistic モード低採用 | SYN -95% from peak · 経済セキュリティ縮小 · TVL ~$30M | protocol hack なし · 2024 複数 LP drain 累計 $3M | cover なし(insurer 引受拒否)| Quantstamp · Halborn(2022)· 新 audit なし | DAO quorum 不達 · sunset 寸前 |
-| **Connext** | Optimistic + Router collateral + Sequencer(中央集権化)| Router collateral ~$10M | protocol hack なし · 2024 router insolvency $400K(Connext Inc. 補填)| Sherlock 期限切れ未更新 · NM 引受拒否 | Spearbit · Code4rena(2023)| Connext Inc. ad hoc |
+| **Connext** | Optimistic + Router collateral + Sequencer(中央集権化)| Router collateral ~$10M | protocol hack なし · 2024 router inソルベンシー $400K(Connext Inc. 補填)| Sherlock 期限切れ未更新 · NM 引受拒否 | Spearbit · Code4rena(2023)| Connext Inc. ad hoc |
 | **Squid** | Axelar 上 swap router · Axelar trust を借用 | Axelar AXL ~$300M を借用 | protocol hack なし · 2023 frontend XSS $50K | 独立 cover なし · Axelar 層を借用 | Halborn · Spearbit | Axelar ガバナンス + Squid frontend 調整 |
 | **Axelar** | 75-validator PoS(Tendermint)· 2/3 quorum · GMP/ITS | AXL staking ~$300M | None(2022+ ~$0)· 2024 ITS bug white hat $200K payout | NM ~$5M · InsurAce · Foundation treasury | Trail of Bits · ChainSecurity · Code4rena · Cantina | Validator 合意で凍結 · Foundation OTC |
 | **deBridge** | 12 validator delegated PoS + CCIP fallback · DLN intent-based | DBR staking ~$80M | None protocol-level · 2022 Lazarus フィッシング損失なし | 主流 cover なし · DAO treasury | Zokyo · Halborn · Ackee | Validator quorum pause · DAO 投票 |
@@ -262,16 +261,14 @@ translated_at: 2026-06-03T01:06:46.352Z
 
 **Recovery process の 2 パラダイム**:
 - **Centralized backstop**(CCTP V2 Circle / Wormhole Jump スタイル補填 / Connext Inc. ad hoc)—— recovery は速いが単一エンティティの reputation と資本に依存
-- **Decentralized governance recovery**(Axelar PoS validator 合意 / Hyperlane DAO / Across UMA dispute)—— recovery は遅いが検閲耐性あり · 真の非中央集権
-
-機関顧客(SWIFT / DTCC / J.P. Morgan Kinexys · [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional]] 参照)は centralized backstop を好み · DeFi-native ユーザーは decentralized governance を好む · one-size-fits-all は存在しない。
+- **Decentralized governance recovery**(Axelar PoS validator 合意 / Hyperlane DAO / Across UMA dispute)—— recovery は遅いが検閲耐性あり · 真の非中央集権機関顧客(SWIFT / DTCC / J.P. Morgan Kinexys · [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional]] 参照)は centralized backstop を好み · DeFi-native ユーザーは decentralized governance を好む · one-size-fits-all は存在しない。
 
 **Insurance pool 容量ボトルネック**:Nexus Mutual 全体 capital ~$120M · 全額をブリッジ cover に allocate しても $50B+ クロスチェーン TVL を引き受け不可。これは insurance が永遠に「tail risk top-up」に過ぎず · 主要 backstop は protocol treasury + foundation となることを意味する。Sherlock の「audit + cover bundle」モデルはインセンティブを変えようと試みているが · 2024-2025 で複数回索賠後に capital が逼迫。
 
 **2027-2028 トレンド**:
 - **ZK light client** の普及により trust model が「validator set」から「math + DA」へ進化 —— Hyperlane ZK ISM · Wormhole ZK Verifier · LayerZero Polyhedra DVN が先行者([[systems/multi-proof-aggregation-fault-prover|multi-proof aggregation fault prover]] 参照)
 - **Restaking-backed bridge security**(EigenLayer / Symbiotic AVS モデル · [[systems/eigenlayer-overview|EigenLayer overview]] 参照)により validator set が ETH stake を借用可能 · ただし rehypothecation システミックリスクは未解
-- **Native L2-to-L2 messaging**(Optimism Superchain · Polygon AggLayer · Arbitrum Orbit cross-chain)により同一エコシステム内のブリッジが第三者 trust 不要に · 直接 settlement layer を借用 · 長期的に汎用ブリッジ需要を侵食
+- **Native L2-to-L2 messaging**(Optimism Superchain · Polygon AggLayer · Arbitrum Orbit cross-chain)により同一エコシステム内のブリッジが第三者 trust 不要に · 直接決済 layer を借用 · 長期的に汎用ブリッジ需要を侵食
 - **Post-quantum bridge migration**([[systems/post-quantum-blockchain-day1-integration|post-quantum blockchain day 1 integration]] 参照)は 2030+ にすべてのブリッジに署名アルゴリズムアップグレードを要求 · 大半のブリッジは公開 roadmap なし
 
 **形式的検証**:Hyperlane / LayerZero / Wormhole はいずれも formal spec を導入し始めたが([[systems/formal-spec-implementation-codesign|formal spec implementation codesign]] 参照)実際のカバレッジは < 30% codebase。CCIP は institutional-grade 形式検証を持つ少数派(NCC Group + Galois 共同 audit)。

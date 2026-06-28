@@ -2,10 +2,11 @@
 source: foreign-financial-institutions/foreign-bank-branches-japan-index
 source_hash: 7e247fa13ae634db
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "在日外国銀行支店 registry index"
-translated_at: 2026-06-15T03:48:21.924Z
+translated_at: 2026-06-26T08:32:15.224Z
 ---
 
 # 在日外国銀行支店 registry index
@@ -76,7 +77,7 @@ translated_at: 2026-06-15T03:48:21.924Z
 | オーストラリア連邦 | オーストラリア・コモンウェルス銀行 | 6700150004773 | 103-0023 東京都中央区日本橋室町２－３－１ | [[foreign-financial-institutions/commonwealth-bank-japan]] | standalone |
 | オーストラリア連邦 | オーストラリア・ニュージーランド銀行 | 7700150000375 | 100-6333 東京都千代田区丸の内２－４－１ | [[securities-firms/anz-bank-japan]] | standalone |
 | オーストラリア連邦 | ナショナルオーストラリア銀行 | 8700150003781 | 103-0022 東京都中央区日本橋室町２－２－１ | [[foreign-financial-institutions/national-australia-bank-japan]] | standalone |
-| オランダ王国 | アイエヌジーバンク　エヌ・ヴイ | 6700150001408 | 100-0005 東京都千代田区丸の内２－１－１ | [[foreign-financial-institutions/ing-bank-japan]] | standalone |
+| オランダ王国 | アイエヌジーバンクエヌ・ヴイ | 6700150001408 | 100-0005 東京都千代田区丸の内２－１－１ | [[foreign-financial-institutions/ing-bank-japan]] | standalone |
 | カナダ | カナダロイヤル銀行 | 2700150005412 | 107-0052 東京都港区赤坂１－８－１赤坂インターシティAIR | [[foreign-financial-institutions/rbc-japan]] | standalone |
 | シンガポール共和国 | オーバーシー・チャイニーズ銀行 | 3700150000354 | 100-6105 東京都千代田区永田町２－１１－１ | [[foreign-financial-institutions/ocbc-bank-japan]] | standalone |
 | シンガポール共和国 | ＤＢＳ銀行 | 1700150000819 | 100-0004 東京都千代田区大手町１－５－１ | [[foreign-financial-institutions/dbs-bank-japan]] | standalone |
@@ -125,7 +126,7 @@ translated_at: 2026-06-15T03:48:21.924Z
 
 - 高い日本市場のマテリアリティ、または G-SIB / 大手銀行としての関連性;
 - 韓国、台湾、中国本土、または ASEAN の法人銀行業務など、明確な日本コリドーの重要性;
-- 市場インフラ、custody、決済、または証券サービスとしての関連性;
+- 市場インフラ、カストディ、決済、または証券サービスとしての関連性;
 - FSA 行を超えた分析を支える公的な戦略的開示。
 
 2026-05-22 P2  プロモーションは、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream]]、[[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]]、[[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]]、[[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]]、[[foreign-financial-institutions/bank-of-india-japan|Bank of India]]、[[securities-firms/anz-bank-japan|ANZ]] を standalone 経路へ移した。これらが ICSD、collateral、中国、ASEAN、インド、オーストラリア・ニュージーランドのコリドー関連性を持つためである。

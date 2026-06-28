@@ -2,10 +2,11 @@
 source: fintech/wall-street-crypto-network-neutrality
 source_hash: fb14dfcd00926a0f
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Wall Street 暗号資産ネットワーク中立投資戦略"
-translated_at: 2026-06-02T14:01:20.942Z
+translated_at: 2026-06-26T08:29:33.012Z
 ---
 
 # Wall Street 暗号資産ネットワーク中立投資戦略
@@ -22,12 +23,12 @@ translated_at: 2026-06-02T14:01:20.942Z
 
 1. **少なくとも 2 社の直接競合社へ同時にベット**（投資、運営、統合のいずれかの形式）
 2. **いずれかへの公的選好を示さない**（PR レベルで中立を保つ）
-3. **ベット規模が顕著**（観察的 ベンチャー投資の小口確認 ではなく、戦略的配分）
+3. **ベット規模が顕著**（観察的ベンチャー投資の小口確認 ではなく、戦略的配分）
 
 **Visa 事例の分解**：
 
 - [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] へ：プライベート投資家として参加（BlackRock / Apollo / ICE と同ラウンド）
-- [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] へ：外部 バリデーター ノード運営者として（Stripe / Zodia / OnePay と共同運営）
+- [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] へ：外部バリデーター ノード運営者として（Stripe / Zodia / OnePay と共同運営）
 - 自営事業：Visa Direct + B2B Connect + Tokenized Asset Platform
 - 結果：ステーブルコイン戦争の勝者が誰でも、Visa は手数料を徴収可能
 
@@ -40,8 +41,8 @@ translated_at: 2026-06-02T14:01:20.942Z
 **その他典型事例**：
 
 - BlackRock：[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]（自営）+ Circle Arc（投資）+ Bitcoin ETF（パッシブ）
-- Standard Chartered：Tempo ネットワーク上の Zodia バリデーター + Arc 投資家 + Zodia Custody（自営）
-- AWS Bedrock AgentCore Payments：デフォルト ウォレット = [[agent-economy/privy-aws-agentcore-default-wallet|Privy（Stripe 子会社）]] + Coinbase CDP の**ダブルデフォルト構造**
+- Standard Chartered：Tempo ネットワーク上の Zodia バリデーター + Arc 投資家 + Zodia カストディ（自営）
+- AWS Bedrock AgentCore Payments：デフォルトウォレット = [[agent-economy/privy-aws-agentcore-default-wallet|Privy（Stripe 子会社）]] + Coinbase CDP の**ダブルデフォルト構造**
 
 **反パターン / 不参加リスト**（同様に情報価値あり）：
 

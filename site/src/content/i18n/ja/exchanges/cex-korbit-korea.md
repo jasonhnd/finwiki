@@ -2,10 +2,11 @@
 source: exchanges/cex-korbit-korea
 source_hash: 72b6dbd280b3bbb7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview"
-translated_at: 2026-06-02T12:19:04.219Z
+translated_at: 2026-06-26T08:29:09.703Z
 ---
 
 # Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview
@@ -52,7 +53,7 @@ translated_at: 2026-06-02T12:19:04.219Z
 - staking：限定的サービス
 - 法定通貨入金：신한은행 実名口座経由のみ
 - **NFT marketplace**：Korbit NFT（2021 launch）、Klaytn 系 NFT 取扱で先行
-- **B2B / 機関向け**：Korbit Pro、API trading、custody 関連サービス
+- **B2B / 機関向け**：Korbit Pro、API trading、カストディ関連サービス
 
 ## 5. 市占・取引高
 
@@ -80,7 +81,7 @@ translated_at: 2026-06-02T12:19:04.219Z
 
 ## 7. 戦略動向
 
-- **SK Square 戦略子会社ポジション**：SK 그룹の ICT 投資ポートフォリオの中で、暗号通貨 / Web3 関連事業の中核子会社として位置付け。SK Telecom の **T-Wallet / SK Coin** 等のグループ Web3 戦略との連携可能性
+- **SK Square 戦略子会社ポジション**：SK 그룹の ICT 投資ポートフォリオの中で、暗号通貨 / Web3 関連事業の中核子会社として位置付け。SK Telecom の **T-ウォレット / SK Coin** 等のグループ Web3 戦略との連携可能性
 - **신한은행 関係**：실명계좌 契約の長期安定性、신한은행との関係は **신한금융그룹의 디지털 자산 전략** との整合性
 - **DAXA 参画**：[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] / [[exchanges/cex-coinone-korea|Coinone]] / [[exchanges/cex-gopax-korea|GOPAX]] と共に DAXA で上場基準を共通化、規制対応コスト分散
 - **NFT / Klaytn 系展開**：韓国系 L1 / L2 トークン（Klaytn 후속 Kaia、WEMIX、XPLA 等）の主要上場場所として継続

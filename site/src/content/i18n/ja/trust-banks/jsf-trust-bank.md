@@ -2,23 +2,20 @@
 source: trust-banks/jsf-trust-bank
 source_hash: b66cb24e3d865934
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日証金信託銀行 (JSF Trust and Banking)"
-translated_at: 2026-06-19T12:43:19.875Z
+translated_at: 2026-06-26T08:32:15.215Z
 ---
 
 # 日証金信託銀行 (JSF Trust and Banking)
 
-## Wiki ルート
-
-日証金信託銀行は [[financial-regulators/japan-securities-finance|Japan Securities Finance]] の信託銀行子会社ルートである。[[securities/japan-margin-trading-and-securities-finance|margin trading / securities finance]]、[[securities/japan-stock-lending-market-route|stock lending]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]] と併せて読むこと。
+## Wiki ルート日証金信託銀行は [[financial-regulators/japan-securities-finance|Japan Securities Finance]] の信託銀行子会社ルートである。[[securities/japan-margin-trading-and-securities-finance|margin trading / securities finance]]、[[securities/japan-stock-lending-market-route|stock lending]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]] と併せて読むこと。
 
 このページは、顧客資産保護信託、証拠金 / 担保信託の構造、証券市場のプランビング、暗号資産預託信託、またはセキュリティ・トークンの金銭 / 資産管理に関する問いを扱う際に用いる。
 
-## 概要
-
-日証金信託銀行株式会社は、[[financial-regulators/japan-securities-finance|Japan Securities Finance]] が全額出資する専門信託銀行である。その公式会社概要では、当行は 1998, 設立、資本金 14.0 億円、JSF が 100% 出資と記載されている。
+## 概要日証金信託銀行株式会社は、[[financial-regulators/japan-securities-finance|Japan Securities Finance]] が全額出資する専門信託銀行である。その公式会社概要では、当行は 1998, 設立、資本金 14.0 億円、JSF が 100% 出資と記載されている。
 
 当行が独立したページに値するのは、その信託機能が証券市場インフラと密接に結び付いているためである。その公開された沿革には、顧客資産保護信託、有価証券信託、FX 証拠金信託、デリバティブ / CFD 証拠金信託、暗号資産預託信託、およびセキュリティ・トークン関連の信託取扱いが含まれる。
 
@@ -47,11 +44,9 @@ translated_at: 2026-06-19T12:43:19.875Z
 | 暗号資産預託信託 | 暗号資産事業者の保護ニーズを信託銀行管理に結び付ける。 |
 | セキュリティ・トークン信託 | デジタル証券から信託口座管理への橋渡しを作る。 |
 
-これらの機能は [[financial-regulators/japan-securities-finance|JSF]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operators]]、[[securities/japan-margin-trading-and-securities-finance|margin finance]]、[[exchanges/INDEX|crypto / digital asset exchange]] の調査に結び付く。
+これらの機能は [[financial-regulators/japan-securities-finance|JSF]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者]]、[[securities/japan-margin-trading-and-securities-finance|margin finance]]、[[exchanges/INDEX|crypto / digital asset exchange]] の調査に結び付く。
 
-## 公的文脈
-
-日証金信託銀行はフルサービス信託銀行と比べると小規模だが、レバレッジの高い市場コントロールのポジションに位置する。証券会社・FX 会社・デリバティブ事業者・暗号資産取引所・セキュリティ・トークン・スキームが法的に分別された顧客資産を必要とする場合、専門信託銀行はその業務スタックの一部となり得る。
+## 公的文脈日証金信託銀行はフルサービス信託銀行と比べると小規模だが、レバレッジの高い市場コントロールのポジションに位置する。証券会社・FX 会社・デリバティブ事業者・暗号資産取引所・セキュリティ・トークン・スキームが法的に分別された顧客資産を必要とする場合、専門信託銀行はその業務スタックの一部となり得る。
 
 このことが、当行を [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] や [[trust-banks/custody-bank|Custody Bank of Japan]] のピア / 補完にするのは、あくまで広い「資産管理」のレベルにおいてである。その直接のピア集合はより狭く、証券会社向けの信託銀行サービス、証拠金 / 担保の取り決め、規制された市場運営者である。
 

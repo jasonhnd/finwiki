@@ -2,17 +2,16 @@
 source: banking/japan-net-bank-competition-map
 source_hash: 7bd69fed49f99759
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "日本のネット銀行 競争マップ"
-translated_at: 2026-06-02T11:47:37.287Z
+title: "日本のネット銀行競争マップ"
+translated_at: 2026-06-26T08:29:25.260Z
 ---
 
-# 日本のネット銀行 競争マップ
+# 日本のネット銀行競争マップ
 
-## 概観
-
-日本のネット銀行の競争には、いくつかの公的な事業モデルが含まれる。エコシステム型リテール銀行、フルバンキングのBaaS／ホワイトラベル銀行、中小企業／法人API銀行、証券／資産形成銀行、地域グループのデジタル銀行である。FSAの銀行一覧は法的なユニバースを提供する。公開比較項目には、顧客獲得チャネル、親エコシステム、預金フランチャイズ、貸出構成、BaaSの深度、証券／決済の隣接性、メインアカウント転換が含まれる。
+## 概観日本のネット銀行の競争には、いくつかの公的な事業モデルが含まれる。エコシステム型リテール銀行、フルバンキングのBaaS／ホワイトラベル銀行、中小企業／法人API銀行、証券／資産形成銀行、地域グループのデジタル銀行である。FSAの銀行一覧は法的なユニバースを提供する。公開比較項目には、顧客獲得チャネル、親エコシステム、預金フランチャイズ、貸出構成、BaaSの深度、証券／決済の隣接性、メインアカウント転換が含まれる。
 
 このページは [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]]、[[banking/post-megabank-positioning|post-megabank positioning]] と合わせて使うこと。
 
@@ -54,7 +53,7 @@ translated_at: 2026-06-02T11:47:37.287Z
 
 ### 資産形成のスペシャリスト
 
-[[regional-banks/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] は、ネット銀行が純粋な決済頻度ではなく、住宅ローン、FX、証券隣接性、家計の資産形成を通じてどのように競争できるかを示している。顧客のジャーニーが預金から投資商品へと移行する場合は、[[securities/japan-online-brokerage-competition|online brokerage competition]] と比較すること。
+[[regional-banks/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] は、ネット銀行が純粋な決済頻度ではなく、住宅ローン、FX、証券隣接性、家計の資産形成を通じてどのように競争できるかを示している。顧客のジャーニーが預金から投資商品へと移行する場合は、[[securities/japan-online-brokerage-competition|online 証券仲介 competition]] と比較すること。
 
 ### 地域デジタル銀行
 

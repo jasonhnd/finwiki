@@ -2,10 +2,11 @@
 source: fintech/em-market-crypto-dollarization-pattern
 source_hash: 5ed8f99fbdce567c
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "新興市場における暗号資産ドル化パターン"
-translated_at: 2026-06-02T13:21:55.085Z
+translated_at: 2026-06-26T08:29:09.713Z
 ---
 
 # 新興市場における暗号資産ドル化パターン
@@ -30,7 +31,7 @@ translated_at: 2026-06-02T13:21:55.085Z
 
 1. **自国通貨の不安定性**(ハイパーインフレ / 資本規制 / 通貨減価)
 2. **伝統的ドル入手の困難**(外貨規制 / 闇市場レートプレミアム / クロスボーダー銀行コスト高)
-3. **暗号 USDT / USDC が P2P + モバイルウォレットで容易に入手可能**(**M-Pesa × USDC** / Lemon Wallet / Yellow Card)
+3. **暗号 USDT / USDC が P2P + モバイルウォレットで容易に入手可能**(**M-Pesa × USDC** / Lemon ウォレット / Yellow Card)
 
 **反直観的含意**:
 
@@ -56,7 +57,7 @@ translated_at: 2026-06-02T13:21:55.085Z
 
 - **Yellow Card**(汎アフリカ):USDC / USDT 二軌 onramp、13 カ国カバー
 - **Bitso**(中南米):USDC コリドー + Stripe との提携
-- **Lemon Wallet**(アルゼンチン):USDT デフォルト + Visa クレジットカード
+- **Lemon ウォレット**(アルゼンチン):USDT デフォルト + Visa クレジットカード
 - **WhalesPay / Ant International**(中国系):HK / SG 経由でオフショアから東南アジアにサービス
 
 

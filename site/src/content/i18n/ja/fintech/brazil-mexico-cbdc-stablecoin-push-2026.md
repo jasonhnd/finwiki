@@ -2,17 +2,16 @@
 source: fintech/brazil-mexico-cbdc-stablecoin-push-2026
 source_hash: 09d1303d82049bb2
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ブラジル DREX × メキシコ Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026"
-translated_at: 2026-06-02T13:21:55.076Z
+translated_at: 2026-06-26T08:29:33.000Z
 ---
 
 # ブラジル DREX × メキシコ Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026
 
-## 要約
-
-ブラジルとメキシコは 2026 年に同時期に「CBDC + 民間 stablecoin + 米ドル SC グレー化」の三軌道並行段階に入る。**ブラジル DREX** は 2025-12 に第 2 ラウンド試験運用を 16 機関に拡大し、ホールセール + リテールの dual-layer をカバーする（[[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]] と一致);**Mercado Bitcoin** は Polygon / Ethereum 上で **BRL アンカー stablecoin** を発行し DREX の市場版を補完、DREX とは「公私デュアル・トラック」を形成。**メキシコ Banxico** はリテール CBDC を発行しないが **CoDi 即時決済** を深化させ、**Bitso × Mercado Bitcoin × M0 連合発行の MXNB**（メキシコペソ stablecoin、[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）を黙認することで、USDC/USDT グレードル化に対する「防御的本国通貨 SC」の代替を提示する。この構図はラテンアメリカを [[fintech/em-market-crypto-dollarization-pattern|EM ドル化パターン]] の外の **第二の経路** として位置付ける: 本国通貨を放棄するのではなく、本国通貨 SC + CBDC を並行させて米ドル SC の浸透を抑制する。
+## 要約ブラジルとメキシコは 2026 年に同時期に「CBDC + 民間 stablecoin + 米ドル SC グレー化」の三軌道並行段階に入る。**ブラジル DREX** は 2025-12 に第 2 ラウンド試験運用を 16 機関に拡大し、ホールセール + リテールの dual-layer をカバーする（[[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]] と一致);**Mercado Bitcoin** は Polygon / Ethereum 上で **BRL アンカー stablecoin** を発行し DREX の市場版を補完、DREX とは「公私デュアル・トラック」を形成。**メキシコ Banxico** はリテール CBDC を発行しないが **CoDi 即時決済** を深化させ、**Bitso × Mercado Bitcoin × M0 連合発行の MXNB**（メキシコペソ stablecoin、[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）を黙認することで、USDC/USDT グレードル化に対する「防御的本国通貨 SC」の代替を提示する。この構図はラテンアメリカを [[fintech/em-market-crypto-dollarization-pattern|EM ドル化パターン]] の外の **第二の経路** として位置付ける: 本国通貨を放棄するのではなく、本国通貨 SC + CBDC を並行させて米ドル SC の浸透を抑制する。
 
 ## ウィキ上の位置づけ
 
@@ -70,7 +69,7 @@ translated_at: 2026-06-02T13:21:55.076Z
 
 **MXNB (M0 + Bitso pilot)**:
 
-- 発行体: Bitso がアレンジ、Mercado Bitcoin（ブラジル側）が副 issuer、ベースインフラは M0（[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）
+- 発行体: Bitso がアレンジ、Mercado Bitcoin（ブラジル側）が副発行会社、ベースインフラは M0（[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）
 - チェーン: Base / Ethereum / Polygon
 - 準備: メキシコ短期国債（CETES） + 商業銀行 MXN 預金
 - 流通 MXN 450M (~$25M, 2026-05)、依然 pilot 段階
@@ -97,9 +96,7 @@ translated_at: 2026-06-02T13:21:55.076Z
 
 **中核的洞察**: ブラジルは **Pix + DREX + BRL SC** の三層で本国通貨の利便性、プログラマビリティ、暗号相互運用性をすべて整備しており、これは現在の EM 国家で最も完成度の高い「反ドル化テックスタック」である。メキシコがそれに次ぐ（CoDi + MXNB はまだスケールアップ中）。アルゼンチン / ベネズエラは「本国通貨放棄 → USDT 化」の反例で、[[fintech/jurisdiction-list-monetary-protectionism|規制管轄リスト · 通貨保護主義]] における「ソブリン通貨崩壊国」リストと一致する。
 
-## mBridge / Project Agora との距離
-
-ブラジル、メキシコは **共に mBridge 6 か国メンバーではない**（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge 概要]] 参照）。BIS 2025-09 ワーキング・ペーパー (BIS WP No. 1156) はラテンアメリカのマルチ CBDC 橋渡しが mBridge への参加ではなく **IADB（Inter-American Development Bank）主導の地域試験運用** に向かう可能性が高いと示唆する。
+## mBridge / Project Agora との距離ブラジル、メキシコは **共に mBridge 6 か国メンバーではない**（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge 概要]] 参照）。BIS 2025-09 ワーキング・ペーパー (BIS WP No. 1156) はラテンアメリカのマルチ CBDC 橋渡しが mBridge への参加ではなく **IADB（Inter-American Development Bank）主導の地域試験運用** に向かう可能性が高いと示唆する。
 
 DREX と mBridge の技術互換性（両者とも Hyperledger Besu permissioned chain）から「将来の接続」は可能だが、政治的にはブラジル + メキシコは中国主導の mBridge 連合との距離を保っている。これは [[fintech/jurisdiction-list-monetary-protectionism|規制管轄]] におけるラテンアメリカの「非同盟 + プラグマティズム」の立場と一致する。
 

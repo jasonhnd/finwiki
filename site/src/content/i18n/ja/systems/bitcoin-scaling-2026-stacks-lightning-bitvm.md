@@ -2,10 +2,11 @@
 source: systems/bitcoin-scaling-2026-stacks-lightning-bitvm
 source_hash: 3971a695fa717aed
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック"
-translated_at: 2026-06-03T00:53:08.358Z
+translated_at: 2026-06-26T08:29:01.782Z
 ---
 # Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック
 
@@ -97,13 +98,13 @@ Bitcoin の scaling 路線は長らくソフトフォーク議題で滞ってお
 
 ## Stack 1 深掘り · Lightning 経済モデルと LSP 化
 
-Lightning 2026 の実態は「**デフォルト custodial + self-custody は例外**」である。
+Lightning 2026 の実態は「**デフォルト custodial + self-カストディ は例外**」である。
 
 - **LSP モデルが主導**: Phoenix（ACINQ）、Breez（Greenlight）、Cash App / Strike（custodial）、Galoy（Bitcoin Beach）、Voltage（エンタープライズ LSP）が、リテールユーザー向けに channel の開閉 + inbound liquidity 管理 + routing を担い、ユーザーは channel という概念を意識しない
 - **inbound liquidity オークション**: Lightning Pool / Magma / Amboss などのマーケットプレイスで routing node が inbound channel をオークションし、小規模ルーティングノードはビジネスモデルを失った
 - **国際送金の実ユースケース**: Strike-El Salvador / Bitnob-Nigeria / Tropykus-LATAM などの LSP が USD ↔ Lightning ↔ NGN/ARS/MXN 経路を商業化し、2026 月次 GMV は $200M-500M 規模（業界開示ベース、注意要）
 - **Taproot Assets**: Lightning Labs がステーブルコイン（USDT / USDC モック）を Lightning channel 内で送金可能にし、実質的に Lightning をマルチアセット決済ネットワークへ変えた。2025-2026 メインネットで一部ステーブルコイン統合が稼働
-- **Lightning vs Base USDC 競争**: 同じ「ステーブルコイン決済 rail」でも、Base + USDC + [[systems/erc-4337-overview|ERC-4337]]の開発者体験は Lightning より遥かに優れており、Lightning の優位性は「BTC ネイティブ + 究極の final settlement」に縮小
+- **Lightning vs Base USDC 競争**: 同じ「ステーブルコイン決済 rail」でも、Base + USDC + [[systems/erc-4337-overview|ERC-4337]]の開発者体験は Lightning より遥かに優れており、Lightning の優位性は「BTC ネイティブ + 究極の final 決済」に縮小
 - **Liquid Network 並列スタック**: Blockstream の federated sidechain Liquid 上の L-BTC + USDT-Liquid も Bitcoin エコシステムの決済オプションであり、機関カストディ向けに使われるがユーザー認知度は低い
 
 ## Stack 2 深掘り · Stacks Nakamoto + sBTC
@@ -130,7 +131,7 @@ Stacks は Bitcoin scaling において、**完全なスマートコントラク
 - **GOAT Network**: 2024-2025 BitVM2 初期実装。「sequencer-decentralized BitVM2」を主軸
 - **Citrea vs BOB vs Bitlayer のトラフィック比較**: 2026-Q1 daily active address 順位は概ね BOB > Bitlayer ≈ Merlin > Citrea > Bsquared > GOAT で、変動は激しい
 - **共通の弱点**: BitVM bridge は実装エンジニアリング複雑度が極めて高く、2026 主流デプロイの大半は依然 **multisig federation + BitVM-style verification proof-of-concept**である。純粋な trust-minimized BitVM bridge メインネット数は一桁
-- **Ethereum L2 との対照**: BitVM-EVM 路線は本質的に「**Bitcoin を settlement、EVM を execution として使う**」ものである。これは[[systems/eigenlayer-overview|EigenLayer]]が ETH に economic security を提供させるロジックに類似するが、Bitcoin が提供するのは PoW finality であり stake-slashing ではない
+- **Ethereum L2 との対照**: BitVM-EVM 路線は本質的に「**Bitcoin を 決済、EVM を execution として使う**」ものである。これは[[systems/eigenlayer-overview|EigenLayer]]が ETH に economic security を提供させるロジックに類似するが、Bitcoin が提供するのは PoW finality であり stake-slashing ではない
 
 ## Stack 4 深掘り · Babylon staking メカニズム
 

@@ -2,20 +2,21 @@
 source: payments/google-play-gift-card-japan
 source_hash: 693b06072c1a6bd7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Google Play Gift Card Japan: Google エコシステム向けクローズドループ前払"
-translated_at: 2026-06-02T16:33:58.476Z
+translated_at: 2026-06-26T08:38:42.155Z
 ---
 # Google Play Gift Card Japan: Google エコシステム向けクローズドループ前払
 
 ## ウィキ上の位置づけ
 
-この項目は [[payments/INDEX|payments index]] の配下に置かれる。Google Play Gift Card Japan のクローズドループ前払発行者ページであり、FSA レジストリの見方については [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と対になる。[[payments/amazon-gift-card-japan|Amazon Gift Card Japan]]、[[payments/apple-gift-card-japan|Apple Gift Card Japan]]（プラットフォームをアンカーとするクローズドループ型ギフトカードのピア）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型のオープンループギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク型前払）と比較する。小売アンカー型の第三者前払（[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]）とは区別する。Google Play Gift Card は **クローズドループ**（Google Play ストアおよび Google サービス内でのみ利用可能）であり、WAON / nanaco は第三者型の複数加盟店前払である。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]。
+この項目は [[payments/INDEX|payments index]] の配下に置かれる。Google Play Gift Card Japan のクローズドループ前払発行者ページであり、FSA レジストリの見方については [[payments/prepaid-payment-instrument-issuers-japan-index|前払式 payment instrument 発行会社 registry]] と対になる。[[payments/amazon-gift-card-japan|Amazon Gift Card Japan]]、[[payments/apple-gift-card-japan|Apple Gift Card Japan]]（プラットフォームをアンカーとするクローズドループ型ギフトカードのピア）、[[payments/quo-card-prepaid|QUO Card]]（複数加盟店型のオープンループギフト）、[[payments/visa-gift-card-japan|Visa Gift Card]]（ブランドネットワーク型前払）と比較する。小売アンカー型の第三者前払（[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]）とは区別する。Google Play Gift Card は **クローズドループ**（Google Play ストアおよび Google サービス内でのみ利用可能）であり、WAON / nanaco は第三者型の複数加盟店前払である。法的枠組みは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]。
 
 ## 要約
 
-**Google Play Gift Card (Google Playギフトカード)** は、**Google Play ストアおよび Google エコシステムサービス向けのクローズドループ前払ギフトカード**である。日本では **Google Asia Pacific Pte Ltd / Google Japan G.K.** が、国内のコンビニエンスストアや家電量販店の販売網と組んで発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] の下で自家型 (closed-loop) 前払式支払手段として運営される。残高は **Google Play ストア**（アプリ、アプリ内購入、ゲーム、書籍、映画 — Google Play Pass サブスクリプションを含む）と一部 Google サービスで利用できる。**[[payments/apple-gift-card-japan|Apple Gift Card]] に対する Android エコシステム側の対応物**として、Google Play Gift Card は、登録クレジットカードを持たないユーザー（未成年、クレジットカード非保有層、ギフト受領者）にアプリおよびアプリ内購入への **カードレス導線** を提供するという同じ構造的役割を果たす。販売レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki）、ドラッグストア、家電量販店（Yamada Denki、Bic Camera、Yodobashi Camera、Edion）、オンラインのデジタル販売が含まれる。
+**Google Play Gift Card (Google Playギフトカード)** は、**Google Play ストアおよび Google エコシステムサービス向けのクローズドループ前払ギフトカード**である。日本では **Google Asia Pacific Pte Ltd / Google Japan G.K.** が、国内のコンビニエンスストアや家電量販店の販売網と組んで発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] の下で自家型 (closed-loop) 前払式支払手段として運営される。残高は **Google Play ストア**（アプリ、アプリ内購入、ゲーム、書籍、映画 — Google Play Pass サブスクリプションを含む）と一部 Google サービスで利用できる。**[[payments/apple-gift-card-japan|Apple Gift Card]] に対する Android エコシステム側の対応物**として、Google Play Gift Card は、登録クレジットカードを持たないユーザー（未成年、クレジットカード非保有層、ギフト受領者）にアプリおよびアプリ内購入への **カードレス導線** を提供するという同じ構造的役割を果たす。販売レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki）、ドラッグストア、家電量販店（Yamada Denki、Bic Camera、Yodobashi Camera、Edion）、オンラインのデジタル販売が含まれる。
 
 ## 発行者と運営構造
 

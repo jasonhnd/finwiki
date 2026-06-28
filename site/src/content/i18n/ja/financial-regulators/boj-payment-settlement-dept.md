@@ -2,38 +2,32 @@
 source: financial-regulators/boj-payment-settlement-dept
 source_hash: e35fcfe6936048b7
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "決済機構局 (BoJ Payment and Settlement Systems Department)"
-translated_at: 2026-06-18T23:59:13.068Z
+title: "決済機構局 (BoJ Payment and 決済 Systems Department)"
+translated_at: 2026-06-26T08:31:59.848Z
 ---
 
-# 決済機構局 (BoJ Payment and Settlement Systems Department)
+# 決済機構局 (BoJ Payment and 決済 Systems Department)
 
-## ウィキ経路
-本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。日銀の市場オペレーションの対応部局として [[financial-regulators/boj-financial-markets-dept|金融市場局]] と、プルーデンス側の局として [[financial-regulators/boj-financial-system-dept|金融機構局]] と併せて読むこと。より広い決済システムについては、[[banking/INDEX|banking landscape]] と [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] を経由してアンカーすること。
+## ウィキ経路本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。日銀の市場オペレーションの対応部局として [[financial-regulators/boj-financial-markets-dept|金融市場局]] と、プルーデンス側の局として [[financial-regulators/boj-financial-system-dept|金融機構局]] と併せて読むこと。より広い決済システムについては、[[banking/INDEX|banking landscape]] と [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] を経由してアンカーすること。
 
-## 要約
-
-決済機構局（Payment and Settlement Systems Department）は、日本銀行の内部部局であり、日銀ネットの運営、決済システム政策、および日本における主要な金融市場インフラ（FMI）の監視を担う。日本の中央銀行マネーのレールを運営し、リテール資金決済について全銀システムと連携する部局である。
+## 要約決済機構局（Payment and 決済 Systems Department）は、日本銀行の内部部局であり、日銀ネットの運営、決済システム政策、および日本における主要な金融市場インフラ（FMI）の監視を担う。日本の中央銀行マネーのレールを運営し、リテール資金決済について全銀システムと連携する部局である。
 
 JapanFG にとって、本部局は日銀ネットに依存するすべての決済・清算・BaaS・短資（タンシ）ページの公式の対応先である。すなわち、リテール層より上のほぼすべてのインターバンク・フローの対応先となる。
 
-## 1. 機能 / スコープ
-
-日銀の英文組織図は、決済機構局を以下を担う部局として掲げている。
+## 1. 機能 / スコープ日銀の英文組織図は、決済機構局を以下を担う部局として掲げている。
 
 - 日銀ネット（Bank of Japan Financial Network System）の運営。これは当座預金振替の RTGS 決済および JGB の DvP 決済を提供する。
 - 決済システム・アーキテクチャに関する政策。流動性節約機能、稼働時間、BCP、および日銀ネットと外部 FMI との接続設計を含む。
 - 日本にとってシステミックに重要な FMI の監視。全銀ネットのリテール資金移動システム、JSCC のクリアリング、ならびに JASDEC および日銀における JGB 振替決済システムを含む。
-- 決済・清算統計の公表。『決済動向（Payment and Settlement Statistics）』のリリース、および不定期の『決済システムレポート（Payment and Settlement Systems Report）』を含む。
+- 決済・清算統計の公表。『決済動向（Payment and 決済 Statistics）』のリリース、および不定期の『決済システムレポート（Payment and 決済 Systems Report）』を含む。
 - 主要中央銀行との、PvP・CLS・FX 決済リスクといった論点に関するクロスボーダー決済の連携。これは BIS-CPMI の作業に関して [[financial-regulators/boj-international-dept|国際局]] と重なる。
 
 内部連携は密である。本部局は [[financial-regulators/boj-financial-markets-dept|金融市場局]] が公開市場操作を執行することを可能にするオペレーション層を供給し、また [[financial-regulators/boj-financial-system-dept|金融機構局]] が行う決済リスク・モニタリングを支える。
 
-## 2. カウンターパーティ / 相互作用
-
-カウンターパーティは三つの層にクラスター化する。
+## 2. カウンターパーティ / 相互作用カウンターパーティは三つの層にクラスター化する。
 
 - **日銀ネット参加者**: システムを通じて決済を行う銀行、証券会社、短資会社、その他の当座預金保有者。これには JapanFG の銀行 / 証券ユニバースの大半、ならびに短資のページ [[financial-regulators/tokyo-tanshi|Tokyo Tanshi]]、[[financial-regulators/central-tanshi|Central Tanshi]]、[[financial-regulators/ueda-yagi-tanshi|Ueda Yagi Tanshi]] が含まれる。
 - **国内 FMI 運営者**: 全銀ネット、JSCC、JASDEC、東京金融取引所、および関連するクリアリング / 決済ユーティリティ。ここでの本部局の監視の役割は、法定の監督ではなく政策レベルのものである（法定の監督は FSA にある — [[financial-regulators/fsa-supervision-bureau|監督局]] を参照）。

@@ -2,10 +2,11 @@
 source: payment-firms/paidy
 source_hash: f7f69b28b32e18d8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "株式会社Paidy"
-translated_at: 2026-06-02T15:14:17.077Z
+translated_at: 2026-06-26T08:32:23.071Z
 ---
 
 # 株式会社Paidy
@@ -14,15 +15,13 @@ translated_at: 2026-06-02T15:14:17.077Z
 
 この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置かれる。比較対象として [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]]、制度全体や規制上の境界を把握する入口として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
-## 要約
-
-日本初の本格的 **BNPL (Buy Now Pay Later)** プロバイダー。2008-10 旧 **株式会社エクスチェンジコーポレーション** として設立、2018-09 社名を Paidy に変更。創業者 **Russell Cummer**（米国出身）。**2021-09-07 PayPal Holdings が約 27 億ドル（約 3000 億円）で買収発表**、2022 完了 → PayPal 日本子会社化。メールアドレス + 電話番号のみで決済可、後日コンビニ・銀行振込・口座振替で支払う「あと払い」モデル。加盟店約 100 万店（Amazon Japan / SHEIN / Apple Store / メルカリ等）。米 Affirm / Klarna / Afterpay の日本版ポジション。^[extracted]
+## 要約日本初の本格的 **BNPL (Buy Now Pay Later)** プロバイダー。2008-10 旧 **株式会社エクスチェンジコーポレーション** として設立、2018-09 社名を Paidy に変更。創業者 **Russell Cummer**（米国出身）。**2021-09-07 PayPal Holdings が約 27 億ドル（約 3000 億円）で買収発表**、2022 完了 → PayPal 日本子会社化。メールアドレス + 電話番号のみで決済可、後日コンビニ・銀行振込・口座振替で支払う「あと払い」モデル。加盟店約 100 万店（Amazon Japan / SHEIN / Apple Store / メルカリ等）。米 Affirm / Klarna / Afterpay の日本版ポジション。^[extracted]
 
 ## 1. 会社概要
 
 **正式名**：株式会社ペイディ ^[extracted]
 **英名**：Paidy Inc.
-**設立**：2008-10（旧 株式会社エクスチェンジコーポレーション）^[extracted]
+**設立**：2008-10（旧株式会社エクスチェンジコーポレーション）^[extracted]
 **社名変更**：2018-09 → Paidy ^[extracted]
 **本社**：東京都港区（六本木）^[extracted]
 **親会社**：**PayPal Holdings, Inc.**（NASDAQ: PYPL, 2022 完全子会社化）^[extracted]
@@ -34,7 +33,7 @@ translated_at: 2026-06-02T15:14:17.077Z
 | サービス | 内容 |
 |---|---|
 | **ペイディ（あと払い）** | メアド + 電話番号で決済、翌月コンビニ / 銀行振込 / 口座振替で一括払い |
-| **ペイディあと払いプラン** | 3/6/12 回 分割 / リボ（手数料無料プランあり）|
+| **ペイディあと払いプラン** | 3/6/12 回分割 / リボ（手数料無料プランあり）|
 | **ペイディカード** | Visa バーチャルカード、Apple Pay 登録対応、実店舗・海外 EC でも使用可 |
 | **ペイディカードプラス** | 上位ランク（リアルカード発行・利用枠拡大）|
 | **Amazon Japan あと払い** | Amazon 公式の「あと払い」決済プロバイダー |
@@ -43,7 +42,7 @@ translated_at: 2026-06-02T15:14:17.077Z
 
 | 年月 | 事象 |
 |---|---|
-| **2008-10** | **設立**（旧 株式会社エクスチェンジコーポレーション、創業者 Russell Cummer、最初は FX 等の事業）|
+| **2008-10** | **設立**（旧株式会社エクスチェンジコーポレーション、創業者 Russell Cummer、最初は FX 等の事業）|
 | 2014 | **「あと払い (Paidy)」サービス開始** — 日本初の本格 BNPL |
 | 2016〜2019 | シリーズ B〜D 累計数百億円規模のエクイティ調達（Goldman Sachs / 伊藤忠 / PayPal 他参加）|
 | **2018-09** | **社名を「株式会社ペイディ」に変更** |
@@ -96,7 +95,7 @@ translated_at: 2026-06-02T15:14:17.077Z
 ## 4. 規制・政策
 
 - **主管**: 経済産業省（割賦販売法・少額包括信用購入あっせん業者として登録）+ 金融庁（資金決済法関連）
-- **割賦販売法 改正対応**（2020-06 公布、2021-04 施行）: 「少額包括信用購入あっせん業者」区分新設 → Paidy 含む BNPL 各社が登録対象。AI 与信モデルが正式に認定 ^[extracted]
+- **割賦販売法改正対応**（2020-06 公布、2021-04 施行）: 「少額包括信用購入あっせん業者」区分新設 → Paidy 含む BNPL 各社が登録対象。AI 与信モデルが正式に認定 ^[extracted]
 - **個人情報保護法**: 電話番号 + メール認証ベースの与信に関する個人データ取扱い
 
 ## 関連

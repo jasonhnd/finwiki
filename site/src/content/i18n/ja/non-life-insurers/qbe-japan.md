@@ -2,10 +2,11 @@
 source: non-life-insurers/qbe-japan
 source_hash: 19cba8105ee04388
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "QBE Japan / QBEインシュアランス・ジャパン"
-translated_at: 2026-06-02T15:14:17.140Z
+translated_at: 2026-06-26T08:32:07.559Z
 ---
 # QBE Japan / QBEインシュアランス・ジャパン
 
@@ -28,7 +29,7 @@ QBE Insurance Group は、オーストラリア・シドニーに本社を置き
 | ウィキ上の役割 | 外資系の日本損害保険専門会社 |
 | 親会社 / 構造 | QBE Insurance Group Limited（ASX: QBE）、シドニー |
 
-免許ルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] に置く。
+免許ルートの詳細は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に置く。
 
 ## 2. 事業モデル
 
@@ -39,9 +40,7 @@ QBE Japan は QBE Asia の地域枠組みの中で運営され、個人向け保
 - 金融ライン（D&O、専門職業人賠償責任、金融機関向け保険）
 - 賠償責任・製造物責任
 - 取引信用・保証
-- 法人 / 団体プログラム向けの傷害・医療保険
-
-事業モデルは、日本で事業を行う多国籍企業に対するブローカー主導の販売を重視し、直接個人販売よりも QBE のグローバルネットワークと連携することが多い。これは [[non-life-insurers/lloyd-japan|Lloyd's Japan]] のシンジケート配置や [[insurance/japan-nonlife-big-three|non-life big three]] の大規模企業保険引受能力と並ぶ、外資系専門保険レイヤーを補完する。QBE のソルベンシー特性は [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] で扱うオーストラリア APRA 枠組みに従う。
+- 法人 / 団体プログラム向けの傷害・医療保険事業モデルは、日本で事業を行う多国籍企業に対するブローカー主導の販売を重視し、直接個人販売よりも QBE のグローバルネットワークと連携することが多い。これは [[non-life-insurers/lloyd-japan|Lloyd's Japan]] のシンジケート配置や [[insurance/japan-nonlife-big-three|non-life big three]] の大規模企業保険引受能力と並ぶ、外資系専門保険レイヤーを補完する。QBE のソルベンシー特性は [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] で扱うオーストラリア APRA 枠組みに従う。
 
 ## 3. このページが重要な理由
 

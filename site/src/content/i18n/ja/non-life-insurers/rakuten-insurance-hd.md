@@ -2,10 +2,11 @@
 source: non-life-insurers/rakuten-insurance-hd
 source_hash: 1abf46df67f1ea83
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天インシュアランスホールディングス"
-translated_at: 2026-06-02T15:14:17.101Z
+translated_at: 2026-06-26T08:32:23.069Z
 ---
 
 # 楽天インシュアランスホールディングス
@@ -15,9 +16,7 @@ translated_at: 2026-06-02T15:14:17.101Z
 
 この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]]に置かれる。比較対象として[[life-insurers/rakuten-life|楽天生命保険]] 同業・対比の文脈を確認する and [[insurance/INDEX|insurance index]] より広い制度・規制境界を確認する.
 
-## 要約
-
-楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
+## 要約楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
 
 ## 1. ライセンスとグループ境界
 
@@ -27,7 +26,7 @@ translated_at: 2026-06-02T15:14:17.101Z
 | ライセンス経路 | Insurance holding company; FSA insurance holding-company list |
 | グループ境界 | Rakuten insurance group under [[payment-firms/rakuten-fg]] adjacency |
 | 中核事業ページ | [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]] |
-| ウィキ上の役割 | Rakuten insurance ecosystem holding-company page |
+| ウィキ上の役割 | Rakuten insurance 経済圏 holding-company page |
 
 ## 2. 運営モデル
 

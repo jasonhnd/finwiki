@@ -2,17 +2,16 @@
 source: securities/japan-ipo-listing-disclosure-route
 source_hash: 18d3cdbca6909e40
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 IPO 上場開示ルート"
-translated_at: 2026-06-19T12:43:19.976Z
+translated_at: 2026-06-26T08:32:15.209Z
 ---
 
 # 日本 IPO 上場開示ルート
 
-## 概要
-
-日本の IPO 記録は、取引所の上場審査、有価証券届出による開示、引受／ブックビルディング、上場承認、TDnet 適時開示、EDINET 法定開示、上場後のコーポレートガバナンス記録を組み合わせたものである。本ページは、発行体が TSE 上場市場へ参入する公開ルートを記録する。
+## 概要日本の IPO 記録は、取引所の上場審査、有価証券届出による開示、引受／ブックビルディング、上場承認、TDnet 適時開示、EDINET 法定開示、上場後のコーポレートガバナンス記録を組み合わせたものである。本ページは、発行体が TSE 上場市場へ参入する公開ルートを記録する。
 
 本ページは [[securities/INDEX|securities domain]] に属し、[[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]] にリンクする。
 

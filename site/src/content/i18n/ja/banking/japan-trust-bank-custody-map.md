@@ -2,19 +2,18 @@
 source: banking/japan-trust-bank-custody-map
 source_hash: 0102eb37e5bd1684
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信託銀行・カストディマップ"
-translated_at: 2026-06-02T11:47:37.315Z
+translated_at: 2026-06-26T08:32:07.529Z
 ---
 
 # 日本の信託銀行・カストディマップ
 
-## 概要
+## 概要日本の信託銀行 / カストディ層は、法的名義、受益者、資産管理、運用指図、コーポレートアクション、議決権行使、貸株、ファンド会計を分離している。よくある誤りは、開示書類に現れる「信託口」の名義名を、信託銀行そのものが経済的な投資家であるかのように読み取ることである。
 
-日本の信託銀行 / カストディ層は、法的名義、受益者、資産管理、運用指図、コーポレートアクション、議決権行使、貸株、ファンド会計を分離している。よくある誤りは、開示書類に現れる「信託口」の名義名を、信託銀行そのものが経済的な投資家であるかのように読み取ることである。
-
-このページは [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]] と併せて用いる。
+このページは [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / カストディ bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]] と併せて用いる。
 
 ## 機能マップ
 
@@ -46,9 +45,7 @@ translated_at: 2026-06-02T11:47:37.315Z
 | 貸株収益 | 貸株プログラムの条件によっては、一部が受益者に帰属することがある。 |
 | ファンド会計 / NAV 業務 | 投資判断そのものではなく、運営面の資産サービシング層。 |
 
-## 資本市場とのリンク
-
-信託銀行のカストディは、銀行業を証券市場インフラに結びつける:
+## 資本市場とのリンク信託銀行のカストディは、銀行業を証券市場インフラに結びつける:
 
 - [[securities/japan-securities-depository-center|JASDEC]] および市場インフラを通じた決済とコーポレートアクション;
 - [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] および [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] を通じた ICSD / クロスボーダーカストディ;

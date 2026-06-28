@@ -2,17 +2,18 @@
 source: loyalty/t-point-v-point-post-2024-merger
 source_hash: 1ea1746c9be437f5
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "T ポイント + V ポイント 2024  統合後 — デュアルブランド移行、CCCMK ホールディングス、ポイント負債の移転"
-translated_at: 2026-06-19T06:09:18.158Z
+translated_at: 2026-06-26T08:32:07.536Z
 ---
 
 # T ポイント + V ポイント 2024  統合後 — デュアルブランド移行、CCCMK ホールディングス、ポイント負債の移転
 
 ## Wiki ルート
 
-このエントリは [[loyalty/INDEX|loyalty index]] の配下にあり、T ポイント + V ポイントの統一のための **2024-04-22 後の運用詳細ページ** であり、構造的なフレーミングを記録する戦略的な [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] エントリを補完する。エコシステムマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] と、IFRS 15 ／ ASBJ 29  の負債移転の仕組みについては [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] と、通信系をアンカーとするピアについては [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] と、ウォレットをアンカーとするピアについては [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified ecosystem]] と、第三の連合モデルについては [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] と、親会社の金融持株の文脈については [[megabanks/smfg|SMFG]] と、そして発行カード主体については [[card-issuers/smbc-card|SMBC Card (SMCC)]] と併せて読むこと。
+このエントリは [[loyalty/INDEX|loyalty index]] の配下にあり、T ポイント + V ポイントの統一のための **2024-04-22 後の運用詳細ページ** であり、構造的なフレーミングを記録する戦略的な [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] エントリを補完する。エコシステムマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] と、IFRS 15 ／ ASBJ 29  の負債移転の仕組みについては [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] と、通信系をアンカーとするピアについては [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]] と、ウォレットをアンカーとするピアについては [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified 経済圏]] と、第三の連合モデルについては [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] と、親会社の金融持株の文脈については [[megabanks/smfg|SMFG]] と、そして発行カード主体については [[card-issuers/smbc-card|SMBC Card (SMCC)]] と併せて読むこと。
 
 ## TL;DR
 
@@ -122,7 +123,7 @@ translated_at: 2026-06-19T06:09:18.158Z
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case — strategic framing]]
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]

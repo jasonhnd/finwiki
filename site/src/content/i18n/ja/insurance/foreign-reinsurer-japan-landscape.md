@@ -2,10 +2,11 @@
 source: insurance/foreign-reinsurer-japan-landscape
 source_hash: a2cc3d63d0610a9e
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "外国再保険会社の日本ランドスケープ"
-translated_at: 2026-06-19T06:09:18.025Z
+translated_at: 2026-06-26T08:32:23.043Z
 ---
 
 # 外国再保険会社の日本ランドスケープ
@@ -42,9 +43,7 @@ translated_at: 2026-06-19T06:09:18.025Z
 | RGA | [[life-insurers/rga-japan]] | RGA Inc.、NYSE: RGA ^[extracted] | Missouri DCI（US） | 生命 / 健康再保険の専門会社 |
 | Pacific Life Re | [[life-insurers/pacific-life-re-japan]] | Pacific Life Insurance Co.（米国相互会社） ^[extracted] | California DOI / UK PRA | 生命 / 健康再保険の専門会社 |
 
-## 3. 出再パターン：比例 vs 非比例
-
-日本の元受保険会社は、その出再を 2 つの主要な形に構成し、大半の大手3社プログラムは両方をブレンドしている。
+## 3. 出再パターン：比例 vs 非比例日本の元受保険会社は、その出再を 2 つの主要な形に構成し、大半の大手3社プログラムは両方をブレンドしている。
 
 ### 比例（クォータシェア、サープラス）
 
@@ -87,9 +86,7 @@ Hannover Re の「Structured Reinsurance / Financial Solutions」と RGA の「F
 
 境界は曖昧になる。Munich Re、Swiss Re、Hannover Re はそれぞれ生命部門を運営し、SCOR は P&C と L&H の両方を運営しているからだが、それでもパネルクラスターは有用な第一の読み解きである。
 
-## 6. レトロ市場：再保険会社自身のリスクの行き先
-
-再保険会社は、ピーク・エクスポージャーを管理しキャパシティを解放するため、自ら引き受けたリスクの一部を**レトロセッショネア**（「レトロ」）に出再する。日本に関連するレトロのフローは以下を通じて流れる：
+## 6. レトロ市場：再保険会社自身のリスクの行き先再保険会社は、ピーク・エクスポージャーを管理しキャパシティを解放するため、自ら引き受けたリスクの一部を**レトロセッショネア**（「レトロ」）に出再する。日本に関連するレトロのフローは以下を通じて流れる：
 
 このレトロ層は、金融庁のライセンス済み保険会社 / 再保険会社登録の外側にあり、親再保険会社グループレベルでのみ報告されるため、日本居住のアナリストにはほぼ見えない。各資本制度（[[insurance/global-solvency-framework-comparison-matrix]]）のもとでの親会社の開示を読むことが、唯一の公開ルートである。
 
@@ -97,7 +94,7 @@ Hannover Re の「Structured Reinsurance / Financial Solutions」と RGA の「F
 
 | 次元 | 外国パネル（大手 2 + 2 + 米系2 + 生命1） | 国内専門会社（[[non-life-insurers/toa-reinsurance|Toa Re]]、[[non-life-insurers/japan-earthquake-reinsurance|JER]]） |
 |---|---|---|
-| ライセンス | 外国損害 / 外国生保 支店 ^[extracted] | 内国損害（日本で設立） ^[extracted] |
+| ライセンス | 外国損害 / 外国生保支店 ^[extracted] | 内国損害（日本で設立） ^[extracted] |
 | 地震（住宅）の役割 | テイル層への参加 | コアスキーム運営者（JER） ^[extracted] |
 | 保険契約者保護機構のカバレッジ | 除外（再保険のみ、直接の小売契約なし） ^[extracted] | Toa Re はメンバー ^[extracted]；JER のカバレッジは異なる |
 

@@ -2,10 +2,11 @@
 source: payment-firms/paypal-pte-ltd-japan
 source_hash: 85aca538dfb0c1a8
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "PayPal Pte. Ltd. 日本サービスの境界"
-translated_at: 2026-06-02T15:14:17.100Z
+translated_at: 2026-06-26T08:31:59.847Z
 ---
 
 # PayPal Pte. Ltd. 日本サービスの境界
@@ -15,18 +16,16 @@ translated_at: 2026-06-02T15:14:17.100Z
 
 この項目は [[payment-firms/INDEX|payment-firms INDEX]]に置かれる。比較対象として[[payment-firms/revolut-technologies-japan|REVOLUT TECHNOLOGIES JAPAN]] 同業・対比の文脈を確認する and [[payments/INDEX|payments index]] より広い制度・規制境界を確認する.
 
-## 要約
-
-日本の PayPal サービスは PayPal Pte. Ltd. の資金決済法上の表示で管理される。公式表示は personal account の第三者型前払式支払手段、premier / business account の第二種資金移動業を分けて説明しており、consumer wallet と merchant checkout を同じ名前で読まないことが重要。
+## 要約日本の PayPal サービスは PayPal Pte. Ltd. の資金決済法上の表示で管理される。公式表示は personal account の第三者型前払式支払手段、premier / business account の第二種資金移動業を分けて説明しており、消費者向けウォレット と 加盟店 checkout を同じ名前で読まないことが重要。
 
 ## 1. 法人・ライセンス境界
 
 | 項目 | 読み方 |
 |---|---|
 | 法人格 | PayPal Pte. Ltd. |
-| 日本でのプロダクト面 | PayPal personal / premier / business accounts, merchant checkout, balance and payment services |
-| 規制上の経路 | Payment Services Act disclosures; FSA funds-transfer list. |
-| FSA登録上の経路 | FSA funds-transfer list: 関東財務局長 第00026号, PayPal Pte. Ltd. |
+| 日本でのプロダクト面 | PayPal personal / premier / business accounts, 加盟店 checkout, balance and payment services |
+| 規制上の経路 | Payment Services Act disclosures; FSA 資金移動 list. |
+| FSA登録上の経路 | FSA 資金移動 list: 関東財務局長第00026号, PayPal Pte. Ltd. |
 
 ## 2. 事業上の役割
 

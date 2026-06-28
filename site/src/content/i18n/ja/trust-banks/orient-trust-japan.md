@@ -2,10 +2,11 @@
 source: trust-banks/orient-trust-japan
 source_hash: 0a11e81a206e571d
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ノーザン・トラスト・ジャパン（Northern Trust Japan）"
-translated_at: 2026-06-02T15:14:17.100Z
+translated_at: 2026-06-26T08:32:30.862Z
 ---
 
 # ノーザン・トラスト・ジャパン（Northern Trust Japan）
@@ -15,7 +16,7 @@ translated_at: 2026-06-02T15:14:17.100Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[trust-banks/INDEX|trust-banks INDEX]] 外資系信託・資産サービシング子会社のアンカーとしてに置かれる。比較対象として[[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] 外資系カストディ・資産サービシングの同業群を確認する, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] 国内信託の同業群を確認する, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 登録簿上の文脈を確認する, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] 制度上の位置づけを確認する.
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] 外資系信託・資産サービシング子会社のアンカーとしてに置かれる。比較対象として[[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] 外資系カストディ・資産サービシングの同業群を確認する, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] 国内信託の同業群を確認する, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 登録簿上の文脈を確認する, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank カストディ map]] 制度上の位置づけを確認する.
 
 ## 1. 親会社概要
 

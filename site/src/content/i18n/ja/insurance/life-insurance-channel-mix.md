@@ -2,10 +2,11 @@
 source: insurance/life-insurance-channel-mix
 source_hash: 1b0aa4f735dd3e79
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "生命保険のチャネルミックス"
-translated_at: 2026-06-02T14:01:20.943Z
+translated_at: 2026-06-26T08:32:23.047Z
 ---
 # 生命保険のチャネルミックス
 
@@ -13,9 +14,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 この項目は [[insurance/INDEX|insurance index]] の下に位置づける。比較・対照の文脈は [[insurance/internet-life-insurance-business-model|Internet life insurance business model]]、より広いシステムおよび規制上の境界は [[insurance/INDEX|insurance INDEX]] と照らして読む。
 
-## 要約
-
-日本の生命保険販売は単一チャネルではない。大手保険会社は専属営業職員、代理店、銀行窓販、法人・団体チャネル、インターネット直販、コールセンター、組み込み型パートナーを組み合わせている。チャネルミックスは商品採算、コンプライアンスリスク、顧客層、資本効率を左右する。
+## 要約日本の生命保険販売は単一チャネルではない。大手保険会社は専属営業職員、代理店、銀行窓販、法人・団体チャネル、インターネット直販、コールセンター、組み込み型パートナーを組み合わせている。チャネルミックスは商品採算、コンプライアンスリスク、顧客層、資本効率を左右する。
 
 このページは [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/sumitomo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]]、[[megabanks/sony-fg]] を比較するために使う。
 
@@ -38,9 +37,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 - [[megabanks/sony-fg]]: Sony Life はライフプランナー主導で、Sony の損保・銀行商品はデジタル / 直販寄りであり、同一ブランド内の対照例になる。
 - [[life-insurers/orix-life]]: 直販・代理店チャネルでの商品視認性が高い。
 
-## 戦略上の意味
-
-チャネルミックスは単なる販売明細ではなく、戦略変数である。
+## 戦略上の意味チャネルミックスは単なる販売明細ではなく、戦略変数である。
 
 - 顧客獲得コストと継続率を変える。
 - 責任を持って販売できる商品の範囲を変える。

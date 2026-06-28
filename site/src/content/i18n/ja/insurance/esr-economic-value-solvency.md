@@ -2,18 +2,17 @@
 source: insurance/esr-economic-value-solvency
 source_hash: 0a77ee3b90c0c822
 lang: ja
+model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "ESR (Economic Solvency Ratio)"
-translated_at: 2026-06-18T23:59:13.125Z
+title: "ESR (Economic ソルベンシー Ratio)"
+translated_at: 2026-06-26T08:32:07.534Z
 ---
 
-# ESR (Economic Solvency Ratio)
+# ESR (Economic ソルベンシー Ratio)
 
 
-## Wiki ルート
-
-本項目は [[insurance/INDEX|insurance index]] の配下に位置する。ピア／対比の文脈としては [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] と、より広いシステム／規制の境界としては [[insurance/INDEX|insurance INDEX]] と併せて読むこと。
+## Wiki ルート本項目は [[insurance/INDEX|insurance index]] の配下に位置する。ピア／対比の文脈としては [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] と、より広いシステム／規制の境界としては [[insurance/INDEX|insurance INDEX]] と併せて読むこと。
 
 ## TL;DR
 
