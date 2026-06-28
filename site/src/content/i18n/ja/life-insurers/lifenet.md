@@ -9,71 +9,71 @@ translated_at: 2026-06-24T09:30:00.000Z
 ---
 # ライフネット生命保険 (LifeNet Insurance)
 
-## Wiki route
+## ウィキ上の位置づけ
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置づける。同業比較・対照の文脈は [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] と、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
-## TL;DR
+## 要約
 
-ライフネット生命保険は、FSA の life-insurance-company list に掲載される国内生命保険会社で、IR site は同社を "Japan's leading online life insurer" と位置づける。^[source:fsa-life-list-2026][source:lifenet-ir-home-2026] Stock Information は証券コード **7157**、Tokyo Stock Exchange **Prime**、2026-03-31 時点の発行済株式数 80,340,768 株を示す。^[source:lifenet-stock-2026] 2026-06-18 には au Financial Holdings が保有していた 14,726,100 株が Japan Airlines に移転し、JAL が議決権 18.33% を持つ major shareholder になった。^[source:lifenet-jal-transfer-2026] そのため、このページでは同社を「ネット専業生保」だけでなく、**上場 online insurer + partner-embedded distribution platform** として読む。
+ライフネット生命保険は、FSA の生命保険会社一覧に掲載される国内生命保険会社で、IR サイトは同社を「日本を代表するオンライン生命保険会社」と位置づける。^[source:fsa-life-list-2026][source:lifenet-ir-home-2026] 株式情報は、証券コード **7157**、東京証券取引所 **Prime**、2026-03-31 時点の発行済株式数 80,340,768 株を示す。^[source:lifenet-stock-2026] 2026-06-18 には au Financial Holdings が保有していた 14,726,100 株が Japan Airlines へ移転し、JAL が議決権 18.33% を持つ主要株主となった。^[source:lifenet-jal-transfer-2026] そのため本ページでは、同社を「ネット専業生保」としてだけでなく、**上場のオンライン保険会社かつパートナー組込型の販売プラットフォーム**として読む。
 
-## 1. Entity / licence boundary
+## 1. 会社・免許の境界
 
-| Item | Reading |
+| 項目 | 内容 |
 |---|---|
-| Legal name | ライフネット生命保険株式会社 / LIFENET INSURANCE COMPANY。^[source:fsa-life-list-2026] |
-| Listed security | TSE Prime, securities code 7157。^[source:lifenet-stock-2026] |
-| Licence boundary | FSA English life-insurer list に LIFENET INSURANCE COMPANY として掲載。^[source:fsa-life-list-2026] |
-| Business model boundary | IR home は customer-oriented, easy-to-understand, affordable, convenient life-insurance policies を掲げる online insurer と説明。^[source:lifenet-ir-home-2026] |
-| Solvency regime | 2026-03-31 から Economic Value-based Solvency Framework が導入され、FY2025 financial results は regulatory ESR 333%、internal ESR 394% と説明。^[source:lifenet-fy2025-results-2026] |
+| 正式名称 | ライフネット生命保険株式会社 / LIFENET INSURANCE COMPANY。^[source:fsa-life-list-2026] |
+| 上場証券 | 東証 Prime、証券コード 7157。^[source:lifenet-stock-2026] |
+| 免許の境界 | FSA の英語版生命保険会社一覧に LIFENET INSURANCE COMPANY として掲載。^[source:fsa-life-list-2026] |
+| ビジネスモデルの境界 | IR ホームは、顧客本位で分かりやすく、手頃で便利な生命保険商品を掲げるオンライン保険会社と説明する。^[source:lifenet-ir-home-2026] |
+| ソルベンシーの枠組み | 2026-03-31 から経済価値ベースのソルベンシー規制が導入され、FY2025 の決算は規制 ESR 333%、内部 ESR 394% と説明する。^[source:lifenet-fy2025-results-2026] |
 
-## 2. Business model
+## 2. ビジネスモデル
 
-### Direct online economics
+### ネット直販の収益構造
 
-ライフネットは、営業職員網や店舗網を前提にした大手生保とは違い、オンライン申込と partner embedded distribution を軸にする。IR site は「わかりやすく、安く、便利な」商品・サービスを mission 文脈で説明し、FY2025 presentation は annualized premiums of policies-in-force が YoY 8% 増、insurance service results が YoY 21% 増だったと示す。^[source:lifenet-ir-home-2026][source:lifenet-fy2025-presentation-2026]
+ライフネットは、営業職員網や店舗網を前提にした大手生保とは違い、オンライン申込とパートナー組込型の販売を軸にする。IR サイトは「わかりやすく、安く、便利な」商品・サービスをミッションの文脈で説明し、FY2025 の説明資料は、保有契約の年換算保険料が前年比 8% 増、保険サービス利益が前年比 21% 増だったと示す。^[source:lifenet-ir-home-2026][source:lifenet-fy2025-presentation-2026]
 
-| Lane | Reading |
+| 領域 | 内容 |
 |---|---|
-| Individual online life | Core franchise is simple online life-insurance UX; old "internet-only" label is useful but no longer sufficient because partner channels are expanding. |
-| Embedded / partner business | FY2025 presentation names JAL, KDDI Group and SMBC Group as ecosystems for partner-business expansion.^[source:lifenet-fy2025-presentation-2026] |
-| Group credit life | FY2025 presentation notes GCL partnerships, including a second new bank, so housing-loan / bank-adjacent insurance should be analyzed separately from retail direct life.^[source:lifenet-fy2025-presentation-2026] |
-| Capital-market positioning | Since the listing is TSE Prime as of the 2026 stock page, this is no longer just a Growth-market startup case. It is a listed insurer with growth-stock expectations and insurance-regulatory capital constraints.^[source:lifenet-stock-2026] |
+| 個人向けオンライン生保 | 中核の事業は、シンプルなオンライン生命保険の UX。かつての「ネット専業」というラベルは有用だが、パートナーチャネルが拡大しているため、もはや十分ではない。 |
+| 組込型・パートナー事業 | FY2025 の説明資料は、パートナー事業拡大の経済圏として JAL、KDDI Group、SMBC Group を名指しする。^[source:lifenet-fy2025-presentation-2026] |
+| 団体信用生命 | FY2025 の説明資料は、2 行目の新規銀行を含む団信(GCL)の提携に触れる。したがって住宅ローン・銀行隣接の保険は、リテールの直販生保とは分けて分析すべきである。^[source:lifenet-fy2025-presentation-2026] |
+| 資本市場での位置づけ | 2026年の株式ページの時点で上場市場が東証 Prime であるため、これはもはや単なる Growth 市場のスタートアップの事例ではない。成長株への期待と保険規制上の資本制約を併せ持つ上場保険会社である。^[source:lifenet-stock-2026] |
 
-## 3. Shareholder / channel relationship
+## 3. 株主・チャネルの関係
 
-| Date / state | Reading |
+| 日付・状態 | 内容 |
 |---|---|
-| 2026-03-31 stock page | au Financial Holdings was listed as largest shareholder with 14,726,100 shares / 18.32% of shares outstanding; the page notes all such shares were transferred to JAL on 2026-06-18.^[source:lifenet-stock-2026] |
-| 2026-06-18 transfer | Lifenet announced JAL had obtained regulatory approval as a major shareholder of an insurance company on 2026-06-17 and completed the share transfer on 2026-06-18.^[source:lifenet-jal-transfer-2026] |
-| 2026-06-22 governance update | Lifenet announced JAL became a major shareholder with 18.33% voting rights and an other associated company after the 2026-06-21 shareholder-meeting director appointment.^[source:lifenet-associated-company-2026] |
-| KDDI / au relationship | KDDI / auFH ceased to be other associated companies, but the 2026-06-22 release says Lifenet's independent decision-making was ensured during the auFH / KDDI associated-company period.^[source:lifenet-associated-company-2026] |
+| 2026-03-31 の株式ページ | au Financial Holdings が、14,726,100 株・発行済株式数の 18.32% を保有する筆頭株主として記載されていた。同ページは、これらの株式がすべて 2026-06-18 に JAL へ移転されたと注記する。^[source:lifenet-stock-2026] |
+| 2026-06-18 の移転 | ライフネットは、JAL が 2026-06-17 に保険会社の主要株主としての規制上の認可を得て、2026-06-18 に株式移転を完了したと発表した。^[source:lifenet-jal-transfer-2026] |
+| 2026-06-22 のガバナンス更新 | ライフネットは、2026-06-21 の株主総会での取締役選任を経て、JAL が議決権 18.33% を持つ主要株主かつその他の関係会社になったと発表した。^[source:lifenet-associated-company-2026] |
+| KDDI・au との関係 | KDDI・auFH はその他の関係会社ではなくなったが、2026-06-22 のリリースは、auFH・KDDI が関係会社であった期間中もライフネットの独立した意思決定が確保されていたと述べる。^[source:lifenet-associated-company-2026] |
 
-This page therefore links to [[megabanks/au-fh]] for the historical telco-finance partnership, but the current 2026 channel map must also treat JAL as the new strategic airline ecosystem partner. FinWiki does not yet maintain a standalone JAL finance page, so JAL remains an external-source fact here rather than a wikilink target.
+そのため本ページは、過去の通信・金融の提携については [[megabanks/au-fh]] に結びつけるが、2026年現在のチャネルマップでは、JAL を新たな戦略的な航空会社の経済圏パートナーとして扱う必要がある。FinWiki はまだ JAL の金融に関する独立したページを持たないため、ここでは JAL はウィキリンクの対象ではなく、外部出典に基づく事実として残す。
 
-## 4. Solvency / insurer capital reading
+## 4. ソルベンシー・保険会社の資本の読み
 
-The old solvency-margin ratio remains useful for legacy comparison, but Lifenet's latest FY2025 results explicitly shift the supervisory discussion to ESR from the March 2026 framework. The page should read insurer capital as a binding design constraint on growth:
+従来のソルベンシー・マージン比率も過去との比較には引き続き有用だが、ライフネットの最新の FY2025 決算は、2026年3月の枠組みにより監督上の議論を明確に ESR へと移す。本ページは、保険会社の資本を成長に対する拘束的な設計上の制約として読むべきである。
 
-- 2026-03-31 regulatory ESR: **333%**; internal ESR: **394%**, both described as preliminary in the FY2025 results release.^[source:lifenet-fy2025-results-2026]
-- Growth metrics such as annualized premiums and insurance service results should be read together with capital adequacy, because online acquisition spending and embedded distribution can accelerate new business but still consumes insurance risk capital.^[source:lifenet-fy2025-presentation-2026]
-- The JAL transaction required regulatory approval as a major shareholder of an insurance company, showing that strategic-distribution shareholding changes are also insurance-regulatory events, not only equity-market events.^[source:lifenet-jal-transfer-2026]
+- 2026-03-31 の規制 ESR は **333%**、内部 ESR は **394%** で、いずれも FY2025 決算リリースで暫定値とされている。^[source:lifenet-fy2025-results-2026]
+- 年換算保険料や保険サービス利益といった成長指標は、資本の十分性とあわせて読むべきである。オンラインでの顧客獲得の支出と組込型の販売は新契約を加速しうるが、それでも保険のリスク資本を消費するためである。^[source:lifenet-fy2025-presentation-2026]
+- JAL の取引は、保険会社の主要株主としての規制上の認可を要した。これは、戦略的な販売目的の株式保有の変更もまた、株式市場上のイベントであるだけでなく、保険規制上のイベントであることを示す。^[source:lifenet-jal-transfer-2026]
 
-## 5. Competitive map
+## 5. 競争マップ
 
-| Peer / category | Contrast |
+| 同業・カテゴリ | 対照点 |
 |---|---|
-| [[life-insurers/orix-life|ORIX Life]] | Hybrid insurer using agents, financial institutions, mail-order / online sales and Conserve Advisors, not a pure online-direct model. |
-| [[megabanks/sbi-hd|SBI group insurance]] | Internet-finance ecosystem competitor, with banking / securities / insurance bundling logic. |
-| [[megabanks/paypay-fg|PayPay / SoftBank insurance routes]] | Super-app / payment ecosystem insurance contrast. |
-| Major traditional insurers | Large legacy agent / bancassurance / workplace channels; contrast with Lifenet's online-first and embedded-partner strategy. |
+| [[life-insurers/orix-life|ORIX Life]] | 代理店、金融機関、通信販売・オンライン販売、Conserve Advisors を用いるハイブリッドな保険会社で、純粋なネット直販モデルではない。 |
+| [[megabanks/sbi-hd|SBI group insurance]] | 銀行・証券・保険のバンドルの論理を持つ、インターネット金融の経済圏の競合。 |
+| [[megabanks/paypay-fg|PayPay / SoftBank insurance routes]] | スーパーアプリ・決済経済圏の保険との対照。 |
+| 大手の伝統的保険会社 | 大規模で老舗の代理店・バンカシュアランス・職域チャネル。ライフネットのオンライン中心かつ組込型パートナー戦略との対照。 |
 
 ## Related
 
-- [[megabanks/au-fh]]（KDDI / au Financial HD、historical strategic-shareholder route）
-- [[life-insurers/orix-life]]（hybrid direct / agent / financial-institution insurer peer）
-- [[megabanks/sbi-hd]]（SBI 生命の親会社、internet-finance ecosystem peer）
-- [[megabanks/paypay-fg]]（PayPay insurance / payment-super-app insurance adjacency）
+- [[megabanks/au-fh]]（KDDI / au Financial HD、過去の戦略株主の経路）
+- [[life-insurers/orix-life]]（直販・代理店・金融機関を併用するハイブリッド型保険会社の同業）
+- [[megabanks/sbi-hd]]（SBI 生命の親会社、インターネット金融の経済圏の同業）
+- [[megabanks/paypay-fg]]（PayPay 保険・決済スーパーアプリ保険の隣接）
 - [[insurance/internet-life-insurance-business-model]]（仮 / ネット生保ビジネスモデル論）
 
 ## Sources

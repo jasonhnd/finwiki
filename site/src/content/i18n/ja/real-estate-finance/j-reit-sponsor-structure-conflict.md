@@ -16,66 +16,66 @@ translated_at: 2026-06-19T12:43:19.888Z
 
 日本固有の利益相反の詳細と、名指しのスポンサー・マッピングについては、[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] の後にこのページを用いること。上場銘柄ごとの全体像については、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT overview matrix]] を用いること。
 
-## Wiki route
+## ウィキ上の位置づけ
 
 [[real-estate-finance/INDEX|real-estate-finance domain]] をアンカーとし、[[real-estate-finance/j-reit-market-overview|J-REIT market overview]] および [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] の後にこの項目をたどること。構造下のトラスティ（受託者）の仕組みについては [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] を参照。上場デベロッパー側（スポンサー側）については [[finance/INDEX|finance domain]] と [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] にクロスリンクし、特にリテール／モール系スポンサーについては [[retail/aeon-group|AEON Group]] と [[retail/seven-and-i-hd|Seven & i HD]] にクロスリンクすること。
 
 ## 1. 三者構造
 
-| Party | Role | Public-surface evidence |
+| 当事者 | 役割 | 公開情報上の根拠 |
 |---|---|---|
-| Sponsor | Developer / operator company that supplies pipeline, owns the asset-management company, holds a unit stake in the J-REIT | Listed-developer IR + asset-management-company filings + J-REIT IR |
-| Asset-management company | Registered investment-management business (FSA-registered) running the J-REIT | FSA register, asset-management-company website, J-REIT IR materials |
-| Investment corporation (J-REIT) | Issuer of investment units; holds assets via trust beneficiary interests | JPX listing page + IR + securities report |
+| スポンサー | パイプラインを供給し、資産運用会社を保有し、J-REIT の投資口に持分を持つデベロッパー／運営会社 | 上場デベロッパーの IR ＋ 資産運用会社の開示 ＋ J-REIT の IR |
+| 資産運用会社 | J-REIT を運用する登録済みの投資運用業者（FSA 登録） | FSA の登録簿、資産運用会社のウェブサイト、J-REIT の IR 資料 |
+| 投資法人（J-REIT） | 投資口の発行会社；信託受益権を通じて資産を保有 | JPX の上場ページ ＋ IR ＋ 有価証券報告書 |
 
 投資法人は投資信託法に基づく法定の執行役員および監督役員を有するが、日々の資産運用、取得判断、リーシング、ファイナンスは資産運用会社に委託される。
 
 ## 2. スポンサー・サポート契約 — 通常含まれる内容
 
-| Element | Typical content |
+| 要素 | 典型的な内容 |
 |---|---|
-| Pipeline / first-look | Sponsor undertakes to offer eligible assets to the J-REIT first or in priority |
-| Warehousing / bridge support | Sponsor or affiliate may hold assets in a bridge fund before sale to J-REIT |
-| Operating support | Sponsor brand, leasing capability, property-management agreements |
-| Use of brand | Sponsor name in J-REIT branding |
-| Sponsor stake in units | Sponsor holds a stake in J-REIT units (typically several percent, public in unit-holder report) |
-| Asset-management-company shareholding | Sponsor majority-owns the asset-management company |
-| Personnel | Asset-management-company personnel often seconded from sponsor |
+| パイプライン／優先交渉権 | スポンサーが適格資産を J-REIT に優先的に提示することを約する |
+| ウェアハウジング／ブリッジ支援 | スポンサーまたは関連会社が、J-REIT への売却前にブリッジファンドで資産を保有することがある |
+| 運営支援 | スポンサーのブランド、リーシング能力、プロパティマネジメント契約 |
+| ブランドの使用 | J-REIT のブランディングにおけるスポンサー名 |
+| 投資口へのスポンサー出資 | スポンサーが J-REIT の投資口に持分を保有（通常は数％、投資主報告書で公開） |
+| 資産運用会社の株式保有 | スポンサーが資産運用会社の過半を保有 |
+| 人員 | 資産運用会社の人員はスポンサーからの出向が多い |
 
 これらの構造的な取り決めは典型的なものであり、J-REIT の IPO 書類および継続開示の有価証券報告書において公に開示される。その正確な範囲はスポンサーごと、個々の J-REIT ごとに異なる。
 
 ## 3. 名指しのスポンサー — 公開マッピング
 
-| Sponsor group | Sponsor type | Representative J-REIT (sponsor-affiliated) | Notes |
+| スポンサーグループ | スポンサー類型 | 代表的な J-REIT（スポンサー系列） | 備考 |
 |---|---|---|---|
-| Mitsui Fudosan | Developer | Nippon Building Fund (office), Frontier Real Estate (retail) | Largest office J-REIT sponsor. |
-| Mitsubishi Estate | Developer | Japan Real Estate (office) | Second oldest J-REIT. Marunouchi-area exposure. |
-| Sumitomo Realty | Developer | Limited listed-REIT exposure historically; mostly listed-developer balance sheet | Sponsor model less REIT-heavy than peers. |
-| Mori Building | Developer | Mori Hills REIT, Mori Trust REIT (Mori Trust group) | Urban-redevelopment focus. |
-| Nomura Real Estate | Developer | Nomura Real Estate Master Fund (NMF) | Largest diversified J-REIT by AUM. |
-| Daiwa House | Developer | Daiwa House REIT | Residential / logistics. |
-| Daiwa Office (now part of larger reorganizations) | Financial group developer | Daiwa Office Investment | Office. |
-| Orix | Financial group | Orix JREIT | Diversified. |
-| Kenedix | Financial group asset manager | KDX Tokyo REIT, KDX Office, KDX Residential, KDX Industrial | Independent asset-manager-style sponsor. |
-| Hulic | Developer | Hulic REIT | Office / commercial. |
-| AEON | Retail group | AEON REIT | Sponsor pipeline from [[retail/aeon-group\|AEON Group]] retail real estate. |
-| GLP | Foreign logistics sponsor | GLP J-REIT | Logistics. |
-| Prologis | Foreign logistics sponsor | Nippon Prologis REIT | Logistics. |
-| Mitsubishi UFJ Trust / Mizuho Trust / SMTB | Trustee (not sponsor) | Various | These trust banks are not sponsors. They sit in the trustee role; see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]]. |
+| Mitsui Fudosan | デベロッパー | Nippon Building Fund（オフィス）、Frontier Real Estate（リテール） | 最大のオフィス系 J-REIT スポンサー。 |
+| Mitsubishi Estate | デベロッパー | Japan Real Estate（オフィス） | J-REIT として 2 番目に古い。丸の内エリアへのエクスポージャー。 |
+| Sumitomo Realty | デベロッパー | 歴史的に上場 REIT へのエクスポージャーは限定的；多くは上場デベロッパーのバランスシート | スポンサーモデルは同業より REIT 偏重が小さい。 |
+| Mori Building | デベロッパー | Mori Hills REIT、Mori Trust REIT（Mori Trust グループ） | 都市再開発に注力。 |
+| Nomura Real Estate | デベロッパー | Nomura Real Estate Master Fund (NMF) | AUM で最大の総合型 J-REIT。 |
+| Daiwa House | デベロッパー | Daiwa House REIT | 住宅／物流。 |
+| Daiwa Office（現在はより大きな再編の一部） | 金融グループ系デベロッパー | Daiwa Office Investment | オフィス。 |
+| Orix | 金融グループ | Orix JREIT | 総合型。 |
+| Kenedix | 金融グループ系資産運用会社 | KDX Tokyo REIT、KDX Office、KDX Residential、KDX Industrial | 独立系資産運用会社型のスポンサー。 |
+| Hulic | デベロッパー | Hulic REIT | オフィス／商業。 |
+| AEON | リテールグループ | AEON REIT | [[retail/aeon-group\|AEON グループ]] のリテール不動産からのスポンサー・パイプライン。 |
+| GLP | 海外物流スポンサー | GLP J-REIT | 物流。 |
+| Prologis | 海外物流スポンサー | Nippon Prologis REIT | 物流。 |
+| Mitsubishi UFJ Trust / Mizuho Trust / SMTB | 受託者（スポンサーではない） | 各種 | これらの信託銀行はスポンサーではない。受託者の役割に位置する；[[banking/trust-bank-custody-operating-comparison\|信託銀行カストディ運用比較]] を参照。 |
 
 スポンサーの素性は、J-REIT 分析において資産クラス以外で最も重要な単一の変数である。それはパイプラインの可視性、レバレッジ方針、および利害関係者取引の規律を左右する。
 
 ## 4. 利益相反のチャネル
 
-| Channel | What can go wrong | Public-surface protection |
+| チャネル | 何が問題となりうるか | 公開情報上の保護 |
 |---|---|---|
-| Acquisition price | Sponsor sells asset to J-REIT at too-high price | Mandatory third-party appraisal, related-party-transaction control, asset-management-company internal-control rule |
-| Disposition price | Sponsor buys asset from J-REIT at too-low price | Related-party-transaction control + unit-holder disclosure |
-| Cross-fund allocation | Sponsor allocates better assets to private fund or sponsor balance sheet rather than J-REIT | First-look / pipeline-priority agreement, but enforcement is ultimately governance-driven |
-| Acquisition-fee structure | Asset-management company over-incentivized to grow AUM | Fee disclosure, board oversight, sponsor reputation |
-| Sponsor financing | Sponsor or affiliate provides financing to J-REIT or vice versa | Related-party-transaction control + IR disclosure |
-| Operating contracts | Property-management contracts with sponsor affiliate at off-market terms | Related-party-transaction control + asset-management-company internal-control rule |
-| Cross-shareholding | Sponsor uses J-REIT units as strategic balance-sheet item | Public disclosure via unit-holder report and large-shareholder filings |
+| 取得価格 | スポンサーが資産を J-REIT に高すぎる価格で売却 | 第三者鑑定の義務付け、利害関係者取引規制、資産運用会社の内部統制規程 |
+| 処分価格 | スポンサーが資産を J-REIT から安すぎる価格で取得 | 利害関係者取引規制 ＋ 投資主への開示 |
+| ファンド間の配分 | スポンサーが優良資産を J-REIT ではなく私募ファンドやスポンサーのバランスシートに配分 | 優先交渉権／パイプライン優先の契約。ただし実効性は最終的にガバナンス次第 |
+| 取得報酬の体系 | 資産運用会社が AUM 拡大に過度に動機づけられる | 報酬の開示、取締役会の監督、スポンサーのレピュテーション |
+| スポンサー・ファイナンス | スポンサーまたは関連会社が J-REIT に資金を提供（またはその逆） | 利害関係者取引規制 ＋ IR 開示 |
+| 運営委託契約 | スポンサー関連会社との、市場条件から外れたプロパティマネジメント契約 | 利害関係者取引規制 ＋ 資産運用会社の内部統制規程 |
+| 株式持ち合い | スポンサーが J-REIT の投資口を戦略的なバランスシート項目として利用 | 投資主報告書および大量保有報告による公開 |
 
 ## 5. 金融庁の精査レーン
 
@@ -91,15 +91,15 @@ translated_at: 2026-06-19T12:43:19.888Z
 
 ## 6. 投資主保護ツールキット
 
-| Tool | What it does |
+| 手段 | 機能 |
 |---|---|
-| Investment Trust Act statutory framework | Defines investment-corporation governance, distribution mechanics, and asset-management-company duties |
-| Asset-management-company FSA registration | Subject to FSA inspection, internal-control rules, compliance officer requirement |
-| Trustee role | Trust bank holds assets via trust beneficiary interest; sits outside the sponsor / asset-management-company chain (see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]]) |
-| Supervisory officer | Independent officer at investment-corporation level |
-| Unit-holders' meeting | Approval power on key matters including asset-management-company change |
-| Public IR / securities report | Continuing disclosure including related-party transactions |
-| ARES self-regulatory framework | Industry-level disclosure / governance norms |
+| 投資信託法の法的枠組み | 投資法人のガバナンス、分配の仕組み、資産運用会社の義務を定める |
+| 資産運用会社の FSA 登録 | FSA の検査、内部統制規程、コンプライアンス責任者の設置義務の対象 |
+| 受託者の役割 | 信託銀行が信託受益権を通じて資産を保有；スポンサー／資産運用会社の連鎖の外に位置する（[[banking/trust-bank-custody-operating-comparison\|信託銀行カストディ運用比較]] を参照） |
+| 監督役員 | 投資法人レベルの独立役員 |
+| 投資主総会 | 資産運用会社の変更を含む重要事項の承認権 |
+| 公開 IR／有価証券報告書 | 利害関係者取引を含む継続開示 |
+| ARES の自主規制枠組み | 業界レベルの開示／ガバナンス規範 |
 
 ## 7. なぜこれが投資家にとって重要か
 

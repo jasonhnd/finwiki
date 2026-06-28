@@ -74,27 +74,27 @@ translated_at: 2026-06-19T13:13:22.631Z
 
 ## 大比較マトリクス表以下のマトリクスは、ウェッジの軸を並べて畳み込む。数値は公表ベースの概算であり、開示サイクルとともに変動する — 最新の提出資料についてはエンティティ別ページを参照。
 
-| Axis | AEON | Seven & i | Lawson + KDDI |
+| 軸 | AEON | Seven & i | Lawson + KDDI |
 |---|---|---|---|
-| Anchor retail wedge | Malls + supermarkets (long dwell) | 7-Eleven CVS (high frequency) | Lawson CVS + KDDI au telco zone |
-| Domestic store footprint | ~6,500+ AEON-group facilities, supermarkets, malls, drugstores | ~21,000+ 7-Eleven Japan stores | ~14,000+ Lawson stores |
-| Approximate daily / monthly footfall | High dwell-time per visit; monthly footfall in hundreds of millions across group banners | Highest visit-frequency per store; monthly footfall in low billions across 7-Eleven group | Third-largest CVS footfall; monthly footfall in low-to-mid hundreds of millions |
-| Primary payment rail at POS | FeliCa (WAON) + AEON Card + AEON Pay (QR) + transit IC + PayPay / d払い / au PAY / 楽天ペイ acceptance | FeliCa (nanaco) + Seven Card + transit IC + PayPay / d払い / au PAY / 楽天ペイ acceptance | No proprietary FeliCa scheme; transit IC + au PAY + PayPay / d払い / 楽天ペイ + Pontaポイント |
-| Owned 前払式電子マネー | **WAON** (closed) | **nanaco** (closed) | **None proprietary** |
-| Owned QR-payment ウォレット | **AEON Pay / iAEON** | None at scale (7pay discontinued 2019) | None proprietary; **au PAY** (KDDI-side) routed through |
-| Bank license tier | Ordinary bank (full retail bank) — [[card-issuers/aeon-bank\|Aeon Bank]] | Ordinary bank (ATM-specialised) — [[regional-banks/seven-bank\|Seven Bank]] | Ordinary bank (ATM-only, sub-scale) — [[regional-banks/lawson-bank\|Lawson Bank]] + indirect [[megabanks/au-fh\|au FH]] / au じぶん銀行 |
-| Card 発行会社 arm | **AEON Card** under [[card-issuers/aeon-financial-service\|AFS]] (TSE Prime 8570) | **Seven Card** under [[card-issuers/seven-card-service\|Seven Card Service]] | Lawson Ponta cards + **au PAY Card** (KDDI-side) — no large in-group 発行会社 at AEON Card scale |
-| Point currency | **WAON POINT** (closed in-group) | **nanaco point** (closed in-group) | **Pontaポイント** (multi-brand alliance: JAL, KDDI, gas, restaurants, Lawson, etc.) |
-| Customer-ID anchor | **iAEON** + AEON Card + WAON | **7iD** + nanaco + Seven Card | Federated: Lawson ID + au ID + Ponta ID |
-| ATM network owned | ~6,500 AEON-banner ATMs | **~27,000+ Seven Bank ATMs** (largest CVS-bank ATM network) | ~13,000 Lawson Bank ATMs |
-| BaaS-sponsor identity | Limited — AEON consumes its own licences | Limited — Seven Bank wholesales **ATM-fee revenue** to partner banks (different from BaaS) | Limited — KDDI-side au FH can wholesale banking via au じぶん銀行, but Lawson Bank itself is small |
-| Asia / cross-border footprint | **Significant** — Asian consumer-finance subsidiaries (Thailand, Malaysia, Hong Kong, Cambodia, Myanmar) under AFS | **Selective** — Seven Bank ASEAN ATM operations (Indonesia, Philippines) + Western Union remittance | **Negligible direct** — KDDI mobile international footprint exists but not retail-finance |
-| Insurance distribution | Yes — counter-led insurance solicitation through AFS / Aeon Allianz Life | Limited — primarily product-bundling | Limited — KDDI au insurance lines distributed through telco |
-| Mortgage origination | **Yes — Aeon Bank** is a meaningful retail mortgage originator (flat-fee + variable-rate products at mall finance branches) | Limited — not the primary product line | None at scale |
-| CAC for banking products | **Low** for in-store cross-sell; higher for online deposit | **Very low** for ATM-fee partner revenue; higher for direct deposit | Mixed — telco-anchored via KDDI, not retail-anchored |
-| 決済-data shape | High SKU breadth, multi-hour basket | High frequency, narrow basket | Distributed across three parties (Lawson, KDDI, Mitsubishi Corp) |
-| Regulatory boundary (license + 銀行代理業 + BaaS) | Bank + 前払式 + insurance agency + Asian consumer-finance | Bank + 前払式 + electronic-payment-agency adjacent | Bank + Ponta loyalty operation + KDDI-side licences via JV |
-| Governance shape | Single listed parent (AEON Co. 8267) + AFS (8570) listed sub | Single listed parent (Seven & i 3382) + Seven Bank (8410) listed sub | **50/50 JV** (KDDI 9433 + Mitsubishi Corp 8058) — Lawson Inc. delisted 2024-Q3 |
+| アンカー小売ウェッジ | モール + スーパーマーケット（長い滞留） | 7-イレブン CVS（高頻度） | ローソン CVS + KDDI au 通信ゾーン |
+| 国内店舗数 | イオングループ施設・スーパー・モール・ドラッグストア 約 6,500+ | 7-Eleven Japan 約 21,000+ 店舗 | ローソン 約 14,000+ 店舗 |
+| 概算の日次／月次フットフォール | 来店ごとの滞留時間が長い。グループ各業態合計で月次フットフォールは数億 | 店舗あたりの来店頻度が最も高い。7-イレブン・グループ合計で月次フットフォールは十数億 | 第 3 位の CVS フットフォール。月次フットフォールは数億の低〜中位 |
+| POS の主要決済レール | FeliCa（WAON）+ AEON Card + AEON Pay（QR）+ 交通系 IC + PayPay／d払い／au PAY／楽天ペイ の受け入れ | FeliCa（nanaco）+ Seven Card + 交通系 IC + PayPay／d払い／au PAY／楽天ペイ の受け入れ | プロプライエタリな FeliCa スキームなし。交通系 IC + au PAY + PayPay／d払い／楽天ペイ + Pontaポイント |
+| 自社の前払式電子マネー | **WAON**（クローズド） | **nanaco**（クローズド） | **プロプライエタリなものなし** |
+| 自社の QR 決済ウォレット | **AEON Pay／iAEON** | 規模のあるものなし（7pay は 2019 に終了） | プロプライエタリなものなし。**au PAY**（KDDI 側）を経由 |
+| 銀行免許の層 | 普通銀行（フルな小売銀行）— [[card-issuers/aeon-bank\|Aeon Bank]] | 普通銀行（ATM 特化型）— [[regional-banks/seven-bank\|Seven Bank]] | 普通銀行（ATM 専用、サブスケール）— [[regional-banks/lawson-bank\|Lawson Bank]] + 間接的に [[megabanks/au-fh\|au FH]]／au じぶん銀行 |
+| カード発行会社アーム | [[card-issuers/aeon-financial-service\|AFS]] のもとでの **AEON Card**（TSE プライム 8570） | [[card-issuers/seven-card-service\|Seven Card Service]] のもとでの **Seven Card** | ローソン Ponta カード + **au PAY カード**（KDDI 側）— AEON Card 規模のグループ内発行会社なし |
+| ポイント通貨 | **WAON POINT**（クローズドなグループ内） | **nanaco ポイント**（クローズドなグループ内） | **Pontaポイント**（マルチブランド・アライアンス：JAL、KDDI、ガソリン、レストラン、ローソン 等） |
+| 顧客 ID アンカー | **iAEON** + AEON Card + WAON | **7iD** + nanaco + Seven Card | 連邦型：ローソン ID + au ID + Ponta ID |
+| 自社 ATM ネットワーク | イオン系 ATM 約 6,500 | **Seven Bank ATM 約 27,000+**（最大の CVS 銀行 ATM ネットワーク） | Lawson Bank ATM 約 13,000 |
+| BaaS スポンサーとしての立ち位置 | 限定的 — イオンは自社のライセンスを自ら消費する | 限定的 — Seven Bank はパートナー銀行に **ATM 手数料収益** を卸売りする（BaaS とは異なる） | 限定的 — KDDI 側の au FH は au じぶん銀行を通じて銀行機能を卸売りできるが、Lawson Bank 自体は小規模 |
+| アジア／クロスボーダーのフットプリント | **大きい** — AFS のもとのアジア消費者金融子会社（タイ、マレーシア、香港、カンボジア、ミャンマー） | **選択的** — Seven Bank の ASEAN ATM オペレーション（インドネシア、フィリピン）+ Western Union 送金 | **直接のものはごくわずか** — KDDI モバイルの国際フットプリントはあるが小売金融ではない |
+| 保険の流通 | あり — AFS／Aeon Allianz Life を通じたカウンター主導の保険募集 | 限定的 — 主に商品バンドリング | 限定的 — KDDI au の保険ラインを通信チャネルで流通 |
+| 住宅ローン組成 | **あり — Aeon Bank** は意味のある小売住宅ローン組成者（モール金融支店での定額手数料 + 変動金利商品） | 限定的 — 主力商品ラインではない | 規模のあるものなし |
+| 銀行プロダクトの CAC | 店内クロスセルでは **低い**。オンライン預金では高い | ATM 手数料のパートナー収益では **非常に低い**。直接預金では高い | 混合 — KDDI 経由で通信アンカー型、小売アンカー型ではない |
+| 決済データの形 | 高い SKU 幅、複数時間のバスケット | 高頻度、狭いバスケット | 3 者（ローソン、KDDI、三菱商事）に分散 |
+| 規制境界（免許 + 銀行代理業 + BaaS） | 銀行 + 前払式 + 保険代理 + アジア消費者金融 | 銀行 + 前払式 + 電子決済代行隣接 | 銀行 + Ponta ロイヤルティ運営 + JV 経由の KDDI 側ライセンス |
+| ガバナンスの形 | 単一の上場親会社（AEON Co. 8267）+ 上場子会社 AFS（8570） | 単一の上場親会社（Seven & i 3382）+ 上場子会社 Seven Bank（8410） | **50/50 JV**（KDDI 9433 + 三菱商事 8058）— Lawson Inc. は 2024-Q3 に上場廃止 |
 
 ## 境界ケース / 戦略的分岐
 
@@ -169,27 +169,27 @@ FRS / IFRS 15型のポイント負債開示がさらに厳格化する場合 —
 
 3 つのウェッジは、店内、アプリ内、銀行内のサーフェスがどう縫い合わされるかにおいて異なる。これは、単なるマーケティングではなく構造的なプロダクト設計の問いである。
 
-| Layer | AEON | Seven & i | Lawson + KDDI |
+| レイヤー | AEON | Seven & i | Lawson + KDDI |
 |---|---|---|---|
-| Unified app | iAEON + AEON Pay | 7iD + nanaco app + 7NOW (no single super-app) | Lawson app + au PAY + Ponta app (federated) |
-| In-store identification | iAEON code scan, WAON tap, AEON Card swipe | 7iD code scan, nanaco tap, Seven Card swipe | Pontaポイント scan, au PAY scan, Lawson app code |
-| ATM identification | AEON Bank cash card, partner-bank cards | Seven Bank cash card, partner-bank cards (~600 partners), overseas cards | Lawson Bank cash card, partner-bank cards |
-| Cross-product cross-sell prompt | High — AEON Pay can prompt Aeon Bank, AEON Card, insurance counter | Medium — 7iD can prompt nanaco, Seven Card, Seven Bank | Low — federated IDs reduce in-app cross-sell friction but the surface is split across three apps |
-| Receipt-as-engagement | iAEON receipt / coupon return loop | Seven receipt / 7iD coupon loop | Lawson receipt / Ponta point + au PAY coupon |
-| Mortgage / insurance lead | Counter-led at mall finance branch | Limited — not the strategic surface | Limited — telco-channel insurance instead |
+| 統一アプリ | iAEON + AEON Pay | 7iD + nanaco アプリ + 7NOW（単一のスーパーアプリなし） | ローソンアプリ + au PAY + Ponta アプリ（連邦型） |
+| 店内での識別 | iAEON コードスキャン、WAON タップ、AEON Card スワイプ | 7iD コードスキャン、nanaco タップ、Seven Card スワイプ | Pontaポイント スキャン、au PAY スキャン、ローソンアプリのコード |
+| ATM での識別 | AEON Bank キャッシュカード、パートナー銀行カード | Seven Bank キャッシュカード、パートナー銀行カード（約 600 パートナー）、海外カード | Lawson Bank キャッシュカード、パートナー銀行カード |
+| クロスプロダクトのクロスセル誘導 | 高い — AEON Pay は Aeon Bank、AEON Card、保険カウンターへ誘導できる | 中程度 — 7iD は nanaco、Seven Card、Seven Bank へ誘導できる | 低い — 連邦型 ID はアプリ内クロスセルの摩擦を減らすが、サーフェスは 3 つのアプリに分かれる |
+| エンゲージメントとしてのレシート | iAEON のレシート／クーポン回帰ループ | セブンのレシート／7iD のクーポンループ | ローソンのレシート／Ponta ポイント + au PAY クーポン |
+| 住宅ローン／保険のリード | モール金融支店でのカウンター主導 | 限定的 — 戦略的サーフェスではない | 限定的 — 代わりに通信チャネルの保険 |
 
 アプリ統合の深さは、「3 社ともすべて小売アンカー型の金融グループである」が構造的な違いを過小評価している理由の最も明確な例である。イオンの**シングルアプリ + カウンター主導**モデルとセブンの**シングル ID + 取引頻度主導**モデルは、ローソンの**連邦型アプリ + パートナーネットワーク主導**モデルと根本的に異なる。
 
 ## クロスセクション：店舗経済性から金融プロダクトへのマッピング各店舗経済性の形は、異なる金融プロダクトの機会セットを生み出す。マッピングは恣意的ではない — 滞留時間、バスケットサイズ、来店頻度から導かれる。
 
-| Store-economics dimension | AEON mall / SM | 7-Eleven CVS | Lawson CVS |
+| 店舗経済性の軸 | AEON モール／SM | 7-イレブン CVS | ローソン CVS |
 |---|---|---|---|
-| Dwell time per visit | 30 min – 3 hours | 2 – 8 minutes | 2 – 8 minutes |
-| Average basket size | ¥3,000 – ¥10,000+ | ¥500 – ¥1,500 | ¥500 – ¥1,500 |
-| Visit frequency per customer | 1 – 4 times / month | 8 – 30 times / month | 8 – 30 times / month |
-| Best-fit finance product | Counter-led mortgage, insurance, investment-trust | Bill payment, ATM withdrawal, 前払式 recharge | Bill payment, ATM withdrawal, code-payment top-up |
-| Highest-leverage data | Cross-category basket (food + apparel + household) | Daily-need SKU velocity | Daily-need SKU velocity + telco / mobility cross-data via KDDI |
-| Customer-ID activation moment | In-app coupon at mall entry; finance-branch sit-down | In-app push at POS; ATM transaction | In-app push at POS; au PAY top-up; Ponta scan |
+| 来店ごとの滞留時間 | 30 分 – 3 時間 | 2 – 8 分 | 2 – 8 分 |
+| 平均バスケットサイズ | ¥3,000 – ¥10,000+ | ¥500 – ¥1,500 | ¥500 – ¥1,500 |
+| 顧客あたりの来店頻度 | 月 1 – 4 回 | 月 8 – 30 回 | 月 8 – 30 回 |
+| 最も適合する金融プロダクト | カウンター主導の住宅ローン、保険、投資信託 | 公共料金支払、ATM 引き出し、前払式チャージ | 公共料金支払、ATM 引き出し、コード決済チャージ |
+| 最もレバレッジの効くデータ | カテゴリー横断バスケット（食品 + アパレル + 日用品） | 日々の必需品の SKU 回転 | 日々の必需品の SKU 回転 + KDDI 経由の通信／モビリティのクロスデータ |
+| 顧客 ID の活性化の瞬間 | モール入口でのアプリ内クーポン、金融支店での着座相談 | POS でのアプリ内プッシュ、ATM 取引 | POS でのアプリ内プッシュ、au PAY チャージ、Ponta スキャン |
 
 店舗経済性は、どの金融プロダクトが各ウェッジと*運用上互換性がある*かを決定する。カウンター主導の住宅ローン組成は、CVS の頻度ではなくモール規模の滞留時間と構造的に互換性がある。規模のある ATM 手数料収益は、モールの滞留ではなく CVS の頻度と構造的に互換性がある。各ウェッジは**異なる金融の手の集合が得意**である。
 
@@ -197,18 +197,18 @@ FRS / IFRS 15型のポイント負債開示がさらに厳格化する場合 —
 
 3 つのグループは厳密に相互排他的ではない — 顧客が複数の経済圏に属するオーバーラップ・ゾーンが存在する。以下の相互作用マトリクスは、3 つのウェッジが共有 / 争われる顧客サーフェスをどう扱うかを集める。
 
-| Contested surface | AEON treatment | Seven & i treatment | Lawson + KDDI treatment |
+| 争われるサーフェス | AEON の扱い | Seven & i の扱い | Lawson + KDDI の扱い |
 |---|---|---|---|
-| QR-payment acceptance at counter | Accepts PayPay / d払い / au PAY / 楽天ペイ as well as AEON Pay | Accepts all major QR ウォレット | Accepts all major QR ウォレット + au PAY (telco-anchored) |
-| Transit IC acceptance | Universal accept (Suica / PASMO / 10-IC alliance) | Universal accept | Universal accept |
-| Cross-card credit issuance | AEON Card is owned 発行会社; other-発行会社 cards accepted | Seven Card is owned 発行会社; other-発行会社 cards accepted | au PAY Card pushed; other-発行会社 cards accepted |
-| ATM partner-bank acceptance | Yes — AEON Bank serves partner-bank cards | Yes — Seven Bank serves ~600 partner banks | Yes — Lawson Bank serves partner banks |
-| Bill-payment via in-store | At AEON Pay-supporting kiosks and AEON Bank ATMs | At nanaco / 7iD layer and Seven Bank ATMs | At Loppi + Lawson Bank ATMs + au PAY app |
-| Insurance counter | Yes — AEON Insurance Service counters in malls | No — not a strategic surface | No — not a strategic surface |
-| Mortgage counter | Yes — AEON Bank mall finance branches | No — not a strategic surface | No — not a strategic surface |
-| Inbound-tourist card acceptance | Yes — AEON Bank ATMs accept overseas cards | Yes — Seven Bank ATMs accept overseas cards (a strategic priority) | Yes — Lawson Bank ATMs accept overseas cards |
-| B2B cash payout / refund | Limited — AEON Bank service line | Yes — [[payment-firms/seven-payment-service\|Seven Payment Service]] is a strategic line | Limited |
-| Authentication / digital-procedure infrastructure | Limited | Strategic priority — Seven Bank pivot direction | Limited |
+| カウンターでの QR 決済受け入れ | AEON Pay に加え PayPay／d払い／au PAY／楽天ペイ を受け入れ | 主要な QR ウォレットをすべて受け入れ | 主要な QR ウォレットをすべて受け入れ + au PAY（通信アンカー型） |
+| 交通系 IC の受け入れ | あまねく受け入れ（Suica／PASMO／10 IC アライアンス） | あまねく受け入れ | あまねく受け入れ |
+| クロスカードのクレジット発行 | AEON Card は自社発行会社。他社発行会社のカードも受け入れ | Seven Card は自社発行会社。他社発行会社のカードも受け入れ | au PAY カードを推進。他社発行会社のカードも受け入れ |
+| ATM のパートナー銀行受け入れ | あり — AEON Bank はパートナー銀行カードに対応 | あり — Seven Bank は約 600 のパートナー銀行に対応 | あり — Lawson Bank はパートナー銀行に対応 |
+| 店内での公共料金支払 | AEON Pay 対応キオスクおよび AEON Bank ATM | nanaco／7iD 層および Seven Bank ATM | Loppi + Lawson Bank ATM + au PAY アプリ |
+| 保険カウンター | あり — モール内の AEON Insurance Service カウンター | なし — 戦略的サーフェスではない | なし — 戦略的サーフェスではない |
+| 住宅ローンカウンター | あり — AEON Bank のモール金融支店 | なし — 戦略的サーフェスではない | なし — 戦略的サーフェスではない |
+| インバウンド観光客のカード受け入れ | あり — AEON Bank ATM は海外カードを受け入れ | あり — Seven Bank ATM は海外カードを受け入れ（戦略的優先事項） | あり — Lawson Bank ATM は海外カードを受け入れ |
+| B2B の現金支払／払い戻し | 限定的 — AEON Bank のサービスライン | あり — [[payment-firms/seven-payment-service\|Seven Payment Service]] は戦略的ライン | 限定的 |
+| 認証／デジタル手続きインフラ | 限定的 | 戦略的優先事項 — Seven Bank のピボット方向 | 限定的 |
 
 争われるサーフェスのマトリクスは、**収斂は本物だが部分的**であることを示す：すべてのグループがすべての決済レールを受け入れるが、フルな小売銀行カウンター・スタックを運営するのはイオンのみであり、フルな B2B 現金ユーティリティ・スタックを運営するのはセブンのみである。
 
