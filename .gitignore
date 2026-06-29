@@ -9,3 +9,8 @@ __pycache__/
 /_vercel_public/
 .vercel/
 site/dist/
+
+# loopcoder のローカル成果物（conductor 設定と実行状態。公開ビルドへ含めない）
+.delivery.yml
+.loopcoder/
+/ROADMAP.md
