@@ -36,6 +36,10 @@ const toc = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
 const hasSourcesAnchor = headings.some((h) => h.slug === 'sources');
 
 const counts = new Map(domains.map((d) => [d.slug, d.count]));
+const currentGroup = domainGroups.find((g) => g.domains.includes(domain));
+const railGroupLabel = currentGroup ? groupName(currentGroup, lang) : domainName(domain, lang);
+const railDomainsRaw = currentGroup ? currentGroup.domains.filter((d) => counts.has(d)) : [domain];
+const railDomains = railDomainsRaw.includes(domain) ? railDomainsRaw : [domain, ...railDomainsRaw];
 const confTone =
   confidence && /confirm|high/i.test(confidence)
     ? 'ok'
@@ -46,30 +50,26 @@ const confTone =
         : 'muted';
 const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
 ---
-<Base lang={lang} title={title} wide>
+<Base lang={lang} title={title} active="domains" wide>
   <div class="doc">
     <aside class="drail drail--left" data-pagefind-ignore>
-      <nav aria-label={t(lang, 'nav.domains')}>
-        <p class="drail__label">{t(lang, 'nav.domains')}</p>
-        {domainGroups.map((g) => {
-          const ds = g.domains.filter((d) => counts.has(d));
-          if (!ds.length) return null;
-          return (
-            <div class="drail__group">
-              <span class="drail__gname">{groupName(g, lang)}</span>
-              <ul>
-                {ds.map((d) => (
-                  <li>
-                    <a href={u(lang, `domains/${d}/`)} class:list={['drail__d', { cur: d === domain }]}>
-                      <span>{domainName(d, lang)}</span>
-                      <b>{counts.get(d)}</b>
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          );
-        })}
+      <nav aria-label={t(lang, 'entry.inThisDomain')}>
+        <div class="drail__head">
+          <p class="drail__label">{t(lang, 'entry.inThisDomain')}</p>
+          <a class="drail__all" href={u(lang, 'domains/')}>{t(lang, 'nav.allDomains')}</a>
+        </div>
+        <div class="drail__group">
+          <span class="drail__gname">{railGroupLabel}</span>
+          <ul>
+            {railDomains.map((d) => (
+              <li>
+                <a href={u(lang, `domains/${d}/`)} class:list={['drail__d', { cur: d === domain }]}>
+                  <span>{domainName(d, lang)}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
       </nav>
     </aside>
 
@@ -82,31 +82,45 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
 
       <header class="entry-head">
         <h1>{title}</h1>
-        <div class="factbar">
+        <div class="evidence-strip">
           {confidence && (
-            <span class={`chip chip--${confTone === 'accent' ? 'accent' : confTone === 'warn' ? 'warn' : ''}`.trim()}>
-              <span class="dot" style={`color:var(--${confTone === 'muted' ? 'muted' : confTone})`}></span>
-              {t(lang, 'entry.confidence')}: {confidenceText}
-            </span>
+            <div class={`evidence-item evidence-item--${confTone}`}>
+              <span class="evidence-label">{t(lang, 'entry.confidence')}</span>
+              <span class="evidence-value"><span class="dot"></span>{confidenceText}</span>
+            </div>
           )}
-          {updated && <span class="chip">{t(lang, 'entry.updated')} {updated}</span>}
+          {updated && (
+            <div class="evidence-item">
+              <span class="evidence-label">{t(lang, 'entry.updated')}</span>
+              <span class="evidence-value">{updated}</span>
+            </div>
+          )}
           {reviewBy && (
-            <span class={`chip${overdue ? ' chip--warn' : ''}`}>{t(lang, 'entry.reviewBy')} {reviewBy}</span>
+            <div class:list={['evidence-item', { 'evidence-item--warn': overdue }]}>
+              <span class="evidence-label">{t(lang, 'entry.reviewBy')}</span>
+              <span class="evidence-value">{reviewBy}</span>
+            </div>
           )}
           {sources.length > 0 && (
             hasSourcesAnchor ? (
-              <a class="chip chip--accent" href="#sources">{t(lang, 'entry.sources')} {sources.length}</a>
+              <a class="evidence-item evidence-item--source" href="#sources">
+                <span class="evidence-label">{t(lang, 'entry.sources')}</span>
+                <span class="evidence-value">{sources.length}</span>
+              </a>
             ) : (
-              <span class="chip">{t(lang, 'entry.sources')} {sources.length}</span>
+              <div class="evidence-item">
+                <span class="evidence-label">{t(lang, 'entry.sources')}</span>
+                <span class="evidence-value">{sources.length}</span>
+              </div>
             )
           )}
           {machine && (
-            <span class="chip chip--warn">{t(lang, 'entry.machine')}{needsReview ? ` · ${t(lang, 'entry.needsReview')}` : ''}</span>
+            <span class="evidence-badge evidence-badge--warn">{t(lang, 'entry.machine')}{needsReview ? ` · ${t(lang, 'entry.needsReview')}` : ''}</span>
           )}
-          {origHref && <a class="chip chip--accent" href={origHref}>{t(lang, 'entry.original')}</a>}
+          {origHref && <a class="evidence-badge evidence-badge--link" href={origHref}>{t(lang, 'entry.original')}</a>}
         </div>
         {tags.length > 0 && (
-          <div class="tagrow">
+          <div class="tagrow" aria-label={t(lang, 'entry.tags')}>
             {tags.map((tag: string) => <span class="tag">#{tag}</span>)}
           </div>
         )}
@@ -144,7 +158,7 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
 <style>
   .doc {
     display: grid;
-    grid-template-columns: 14rem minmax(0, 48rem) 13rem;
+    grid-template-columns: var(--rail-left) minmax(0, var(--measure-entry)) var(--rail-right);
     justify-content: center;
     gap: clamp(1.5rem, 1rem + 2.2vw, 3.25rem);
     max-width: var(--w-wide);
@@ -172,6 +186,25 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
     color: var(--muted);
     margin: 0 0 0.7rem;
   }
+  .drail__head {
+    display: grid;
+    gap: 0.25rem;
+    margin-bottom: 0.75rem;
+  }
+  .drail__head .drail__label {
+    margin-bottom: 0;
+  }
+  .drail__all {
+    width: max-content;
+    color: var(--accent-2);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--accent-2) 45%, transparent);
+  }
+  .drail__all:hover {
+    border-bottom-color: var(--accent);
+  }
   .drail__group {
     margin-bottom: 1rem;
   }
@@ -188,11 +221,8 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
     padding: 0;
   }
   .drail__d {
-    display: flex;
-    justify-content: space-between;
-    gap: 0.5rem;
-    align-items: baseline;
-    padding: 0.2rem 0.5rem;
+    display: block;
+    padding: 0.24rem 0.55rem;
     margin-left: -0.5rem;
     border-radius: var(--r-sm);
     text-decoration: none;
@@ -245,22 +275,93 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
     line-height: 1.15;
     margin: 0 0 0.9rem;
   }
-  .factbar {
+  .evidence-strip {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.45rem;
+    gap: 0.55rem 0.75rem;
+    align-items: stretch;
+    padding: 0.8rem 0;
+    border-block: 1px solid var(--line);
+  }
+  .evidence-item {
+    min-width: 7.5rem;
+    display: grid;
+    align-content: center;
+    gap: 0.14rem;
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+  .evidence-label {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    line-height: 1.2;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .evidence-value {
+    display: inline-flex;
     align-items: center;
+    gap: 0.35rem;
+    font-size: var(--fs-sm);
+    line-height: 1.35;
+    font-variant-numeric: tabular-nums;
+  }
+  .evidence-item--ok .dot {
+    color: var(--ok);
+  }
+  .evidence-item--accent .dot,
+  .evidence-item--source {
+    color: var(--accent-2);
+  }
+  .evidence-item--warn {
+    color: var(--warn);
+  }
+  .evidence-item--warn .dot {
+    color: var(--warn);
+  }
+  .evidence-item--source:hover {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+  }
+  .evidence-badge {
+    align-self: center;
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.8rem;
+    padding: 0.2rem 0.45rem;
+    border: 1px solid var(--line);
+    border-radius: var(--r-sm);
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    line-height: 1.25;
+    text-decoration: none;
+  }
+  .evidence-badge--warn {
+    border-color: color-mix(in srgb, var(--warn) 44%, var(--line));
+    color: var(--warn);
+    background: var(--gold-soft);
+  }
+  .evidence-badge--link {
+    color: var(--accent-2);
+  }
+  .evidence-badge--link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
   .tagrow {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem 0.7rem;
+    gap: 0.35rem 0.65rem;
     margin-top: 0.8rem;
   }
   .tag {
-    font-size: var(--fs-xs);
+    font-size: 0.72rem;
     color: var(--muted);
     font-family: var(--font-mono);
+    overflow-wrap: anywhere;
   }
 
   /* right toc */
@@ -331,7 +432,7 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
 
   @media (max-width: 1080px) {
     .doc {
-      grid-template-columns: 13rem minmax(0, 1fr);
+      grid-template-columns: var(--rail-left) minmax(0, 1fr);
     }
     .drail--right {
       display: none;

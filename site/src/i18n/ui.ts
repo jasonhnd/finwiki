@@ -9,9 +9,11 @@ export const ui = {
   ja: {
     'site.title': 'FinWiki — 金融ナレッジグラフ',
     'site.tagline': '公開一次情報にもとづく、三言語・出典つきの金融事実ベース。',
+    'site.subtitle': '公開情報の金融フィールドガイド',
 
     'nav.home': 'ホーム',
     'nav.domains': '領域マップ',
+    'nav.allDomains': 'すべての領域',
     'nav.browse': '全項目',
     'nav.ai': 'AI向け資料',
     'nav.search': '検索',
@@ -75,9 +77,11 @@ export const ui = {
   en: {
     'site.title': 'FinWiki — Financial Knowledge Graph',
     'site.tagline': 'A trilingual, source-backed financial fact base built on public primary information.',
+    'site.subtitle': 'Public-source finance field guide',
 
     'nav.home': 'Home',
     'nav.domains': 'Domains',
+    'nav.allDomains': 'All domains',
     'nav.browse': 'All entries',
     'nav.ai': 'AI surface',
     'nav.search': 'Search',
@@ -141,9 +145,11 @@ export const ui = {
   zh: {
     'site.title': 'FinWiki — 金融知识图谱',
     'site.tagline': '基于公开一手信源的三语、带出处金融事实库。',
+    'site.subtitle': '公开来源金融指南',
 
     'nav.home': '首页',
     'nav.domains': '领域地图',
+    'nav.allDomains': '全部领域',
     'nav.browse': '全部条目',
     'nav.ai': 'AI 资料',
     'nav.search': '搜索',
