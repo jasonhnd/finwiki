@@ -45,7 +45,8 @@ const canonicalRouteIds = [
 
 const canonicalRoutes = canonicalRouteIds
   .map((route) => entryByRoute.get(route))
-  .filter(Boolean) as (typeof all)[number][];
+  .filter((entry): entry is (typeof all)[number] => Boolean(entry));
+const showCanonicalRoutes = canonicalRoutes.length === canonicalRouteIds.length;
 
 const entryCount = all.length;
 const domainCount = counts.size;
@@ -92,28 +93,30 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     </div>
   </section>
 
-  <section class="container home-block">
-    <div class="home-block__head">
-      <div>
-        <p class="eyebrow">{t(lang, 'home.canonicalRoutes')}</p>
-        <h2 class="section-title">{t(lang, 'home.canonicalRoutes')}</h2>
+  {showCanonicalRoutes && (
+    <section class="container home-block">
+      <div class="home-block__head">
+        <div>
+          <p class="eyebrow">{t(lang, 'home.canonicalRoutesKicker')}</p>
+          <h2 class="section-title">{t(lang, 'home.canonicalRoutes')}</h2>
+        </div>
+        <p class="muted home-block__note">{t(lang, 'home.canonicalRoutesNote')}</p>
       </div>
-      <p class="muted home-block__note">{t(lang, 'home.canonicalRoutesNote')}</p>
-    </div>
-    <div class="canonical-strip">
-      {canonicalRoutes.map((entry) => {
-        const route = entryRoute(entry);
-        const domain = entryDomain(entry);
-        return (
-          <a class="canonical-route" href={u(lang, `${route}/`)}>
-            <span class="canonical-route__domain">{domainName(domain, lang)}</span>
-            <span class="canonical-route__title">{titleFor(entry)}</span>
-            <code>{route}</code>
-          </a>
-        );
-      })}
-    </div>
-  </section>
+      <div class="canonical-strip">
+        {canonicalRoutes.map((entry) => {
+          const route = entryRoute(entry);
+          const domain = entryDomain(entry);
+          return (
+            <a class="canonical-route" href={u(lang, `${route}/`)}>
+              <span class="canonical-route__domain">{domainName(domain, lang)}</span>
+              <span class="canonical-route__title">{titleFor(entry)}</span>
+              <code>{route}</code>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
 
   <section class="container home-block">
     <div class="home-block__head">
