@@ -2,7 +2,7 @@
 import Base from '../../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
-import { domainName } from '../../../../i18n/domains';
+import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 
@@ -29,6 +29,19 @@ function titleFor(entry: (typeof entries)[number]): string {
   const tr = translationMap.get(i18nEntryId(lang, entry));
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
+
+const canonicalTerms = ['overview', 'map', 'matrix', 'comparison', 'system', 'landscape', 'operating-model', 'registry', 'timeline', 'framework', 'index'];
+function canonicalScore(entry: (typeof entries)[number]): number {
+  const haystack = `${entryRoute(entry)} ${titleFor(entry)}`.toLowerCase();
+  return canonicalTerms.reduce((score, term, index) => (haystack.includes(term) ? score + canonicalTerms.length - index : score), 0);
+}
+
+const canonicalEntries = [...entries]
+  .map((entry) => ({ entry, score: canonicalScore(entry) }))
+  .sort((a, b) => b.score - a.score || compareEntryRoute(a.entry, b.entry))
+  .slice(0, Math.min(3, entries.length))
+  .map(({ entry }) => entry);
+
 const translatedCount = entries.filter((entry) => translationMap.has(i18nEntryId(lang, entry))).length;
 const showFilter = entries.length > 24;
 ---
@@ -40,16 +53,63 @@ const showFilter = entries.length > 24;
       <span>{domainName(domain, lang)}</span>
     </nav>
 
-    <header class="domain__head">
-      <p class="eyebrow">{domain}</p>
+    <header class="domain-opener">
+      <p class="eyebrow">{t(lang, 'domain.openerLabel')}</p>
       <h1>{domainName(domain, lang)}</h1>
-      <div class="domain__stats">
-        <span class="chip"><b>{entries.length.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
+      <p class="domain-opener__deck">{domainDescription(domain, lang)}</p>
+      <div class="domain-opener__stats">
+        <span><b>{entries.length.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
         {lang !== 'ja' && (
-          <span class="chip"><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>
+          <span><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>
         )}
+        <code>{domain}</code>
       </div>
     </header>
+
+    <section class="domain-brief" aria-label={t(lang, 'domain.openerLabel')}>
+      <div class="domain-brief__section">
+        <h2>{t(lang, 'domain.covers')}</h2>
+        <p>{domainDescription(domain, lang)}</p>
+      </div>
+      <div class="domain-brief__section">
+        <h2>{t(lang, 'domain.readFirst')}</h2>
+        <ol class="domain-brief__links">
+          {canonicalEntries.map((entry) => {
+            const route = entryRoute(entry);
+            return (
+              <li>
+                <a href={u(lang, `${route}/`)}>
+                  <span>{titleFor(entry)}</span>
+                  <code>{route}</code>
+                </a>
+              </li>
+            );
+          })}
+        </ol>
+      </div>
+      <div class="domain-brief__section">
+        <h2>{t(lang, 'domain.canonicalAnchors')}</h2>
+        <div class="domain-anchors">
+          {canonicalEntries.map((entry) => {
+            const route = entryRoute(entry);
+            return (
+              <a href={u(lang, `${route}/`)}>
+                <span>{titleFor(entry)}</span>
+                <code>{route}</code>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+
+    <div class="domain-list-head">
+      <div>
+        <p class="eyebrow">{t(lang, 'domain.routeList')}</p>
+        <h2>{t(lang, 'domain.viewAll')}</h2>
+      </div>
+      <p class="muted">{t(lang, 'domain.routeListNote')}</p>
+    </div>
 
     {showFilter && (
       <div class="domain__bar">
@@ -61,13 +121,14 @@ const showFilter = entries.length > 24;
     <ul class="domain__list">
       {entries.map((entry) => {
         const name = titleFor(entry);
+        const route = entryRoute(entry);
         const translated = lang !== 'ja' && translationMap.has(i18nEntryId(lang, entry));
         return (
-          <li class="domain__item" data-name={`${name} ${entryRoute(entry)}`.toLowerCase()}>
-            <a href={u(lang, `${entryRoute(entry)}/`)}>
+          <li class="domain__item" data-name={`${name} ${route}`.toLowerCase()}>
+            <a href={u(lang, `${route}/`)}>
               <span class="domain__name">{name}</span>
               {translated && <span class="domain__tdot" title={t(lang, 'domain.translated')}></span>}
-              <span class="domain__route">{entryRoute(entry)}</span>
+              <span class="domain__route" aria-label={`${t(lang, 'domain.routeSlug')}: ${route}`}>{route}</span>
             </a>
           </li>
         );
@@ -85,35 +146,146 @@ const showFilter = entries.length > 24;
     flex-wrap: wrap;
     gap: 0.4rem;
     align-items: center;
-    font-size: var(--fs-sm);
     color: var(--muted);
+    font-size: var(--fs-sm);
     margin-bottom: 1.1rem;
   }
   .crumbs a {
     color: var(--accent-2);
     text-decoration: none;
   }
-  .domain__head {
-    margin-bottom: 1.5rem;
+
+  .domain-opener {
+    max-width: var(--measure-lead);
+    margin-bottom: var(--sp-6);
   }
-  .domain__head h1 {
-    font-size: var(--fs-xl);
-    margin: 0 0 0.7rem;
+  .domain-opener h1 {
+    margin: 0 0 0.75rem;
+    font-size: var(--fs-2xl);
+    line-height: 1.08;
   }
-  .domain__stats {
+  .domain-opener__deck {
+    margin: 0;
+    color: var(--ink-2);
+    font-size: var(--fs-md);
+    line-height: 1.55;
+  }
+  .domain-opener__stats {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
+    gap: 0.55rem 1rem;
+    align-items: center;
+    margin-top: 1rem;
+    color: var(--muted);
+    font-size: var(--fs-sm);
   }
-  .domain__stats b {
+  .domain-opener__stats b {
     color: var(--accent);
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    line-height: 1;
+    margin-right: 0.25rem;
+  }
+  .domain-opener__stats code {
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: var(--r-pill);
+    padding: 0.12rem 0.55rem;
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    overflow-wrap: anywhere;
+  }
+
+  .domain-brief {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr 1fr;
+    gap: 1px;
+    background: var(--line);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: var(--sp-7);
+  }
+  .domain-brief__section {
+    min-width: 0;
+    background: var(--paper);
+    padding: 1rem;
+  }
+  .domain-brief__section h2 {
+    margin: 0 0 0.55rem;
+    font-size: var(--fs-md);
+  }
+  .domain-brief__section p {
+    margin: 0;
+    color: var(--ink-2);
+    font-size: var(--fs-sm);
+    line-height: 1.6;
+  }
+  .domain-brief__links {
+    display: grid;
+    gap: 0.55rem;
+    margin: 0;
+    padding-left: 1.15rem;
+  }
+  .domain-brief__links li::marker {
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+  }
+  .domain-brief__links a,
+  .domain-anchors a {
+    display: grid;
+    gap: 0.15rem;
+    min-width: 0;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .domain-brief__links a:hover,
+  .domain-anchors a:hover {
+    color: var(--accent-2);
+  }
+  .domain-brief__links span,
+  .domain-anchors span {
+    font-weight: 650;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+  .domain-brief__links code,
+  .domain-anchors code {
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+  .domain-anchors {
+    display: grid;
+    gap: 0.55rem;
+  }
+
+  .domain-list-head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+  .domain-list-head h2 {
+    margin: 0;
+    font-size: var(--fs-lg);
+  }
+  .domain-list-head p {
+    max-width: 34rem;
+    margin: 0;
+    font-size: var(--fs-sm);
   }
   .domain__bar {
     margin-bottom: 1.25rem;
   }
   .domain__filter {
     width: 100%;
-    max-width: 26rem;
+    max-width: 28rem;
+    min-height: 2.7rem;
     font: inherit;
     font-size: var(--fs-base);
     padding: 0.55rem 0.85rem;
@@ -124,15 +296,16 @@ const showFilter = entries.length > 24;
   }
   .domain__filter:focus-visible {
     border-color: var(--accent);
-    outline: none;
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
   }
   .domain__list {
     list-style: none;
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
-    gap: 0.4rem 1.25rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: 0.35rem 1.25rem;
   }
   .domain__item[hidden] {
     display: none;
@@ -141,17 +314,19 @@ const showFilter = entries.length > 24;
     display: flex;
     align-items: baseline;
     gap: 0.5rem;
-    padding: 0.5rem 0.6rem;
-    border-radius: var(--r);
-    text-decoration: none;
-    color: var(--ink);
+    min-width: 0;
+    padding: 0.55rem 0;
     border-bottom: 1px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
   }
   .domain__item a:hover {
-    background: var(--surface-2);
+    color: var(--accent-2);
   }
   .domain__name {
+    min-width: 0;
     font-weight: 550;
+    overflow-wrap: anywhere;
   }
   .domain__tdot {
     width: 0.4rem;
@@ -164,10 +339,27 @@ const showFilter = entries.length > 24;
   .domain__route {
     margin-left: auto;
     color: var(--muted);
-    font-size: var(--fs-xs);
     font-family: var(--font-mono);
+    font-size: var(--fs-xs);
     text-align: right;
-    word-break: break-all;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  @media (max-width: 900px) {
+    .domain-brief {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 560px) {
+    .domain__item a {
+      display: grid;
+      gap: 0.2rem;
+    }
+    .domain__route {
+      margin-left: 0;
+      text-align: left;
+    }
   }
 </style>
 

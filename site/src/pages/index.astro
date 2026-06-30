@@ -1,18 +1,23 @@
 ---
 import '../styles/global.css';
+import LangSwitcher from '../components/LangSwitcher.astro';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import { getCollection } from 'astro:content';
 import { domainName } from '../i18n/domains';
-import { entryDomain } from '../lib/routes';
+import { rootEditorial } from '../i18n/ui';
+import { entryDomain, entryRoute } from '../lib/routes';
+import { localizedTitle } from '../lib/siteIndex.mjs';
 
 const entries = await getCollection('entries');
 const translations = await getCollection('i18n');
 
 const counts = new Map<string, number>();
+const entryByRoute = new Map<string, (typeof entries)[number]>();
 for (const entry of entries) {
-  counts.set(entryDomain(entry), (counts.get(entryDomain(entry)) ?? 0) + 1);
+  const domain = entryDomain(entry);
+  counts.set(domain, (counts.get(domain) ?? 0) + 1);
+  entryByRoute.set(entryRoute(entry), entry);
 }
-const featured = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
 
 const entryCount = entries.length;
 const domainCount = counts.size;
@@ -26,21 +31,27 @@ const updatedAt = new Intl.DateTimeFormat('ja-JP', {
   day: 'numeric',
 }).format(new Date());
 
-const entrances = [
-  { href: '/ja/', code: '日本語', label: '日本語版', note: '公開一次情報にもとづく日本語版。' },
-  { href: '/en/', code: 'English', label: '英語版', note: '英語訳で読む。未整備項目は日本語版へ戻ります。' },
-  { href: '/zh/', code: '简体中文', label: '簡体中文版', note: '簡体字中国語訳で読む。未整備項目は日本語版へ戻ります。' },
-];
+function titleForRoute(route: string): string {
+  const entry = entryByRoute.get(route);
+  return String(localizedTitle('ja', route) || entry?.data?.title || route);
+}
+
+const startLanes = rootEditorial.startLanes.map((lane) => ({
+  ...lane,
+  routeLinks: lane.routes
+    .filter((route) => entryByRoute.has(route))
+    .map((route) => ({ route, title: titleForRoute(route), href: `/ja/${route}/` })),
+}));
 ---
 <!doctype html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>FinWiki — 公開金融ナレッジグラフ</title>
+    <title>FinWiki — 公開金融フィールドガイド</title>
     <meta
       name="description"
-      content="FinWiki は公開一次情報にもとづき、日本と世界の金融機関・制度・市場構造を三言語で整理する金融ナレッジグラフです。"
+      content="FinWiki は公開一次情報にもとづき、日本と世界の金融機関・制度・市場構造を三言語で整理する金融フィールドガイドです。"
     />
     <script is:inline>
       (function () {
@@ -50,77 +61,127 @@ const entrances = [
         } catch (e) {}
       })();
     </script>
+    <link rel="preload" href="/fonts/source-serif-4/source-serif-4-latin-600.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="alternate" hreflang="ja" href="/ja/" />
     <link rel="alternate" hreflang="en" href="/en/" />
     <link rel="alternate" hreflang="zh" href="/zh/" />
     <link rel="alternate" hreflang="x-default" href="/" />
     <meta property="og:title" content="FinWiki" />
-    <meta property="og:description" content="公開一次情報にもとづく三言語の金融ナレッジグラフ。" />
+    <meta property="og:description" content="公開一次情報にもとづく三言語の金融フィールドガイド。" />
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
     <header class="site-header">
-      <div class="site-header__inner">
-        <a class="brand" href="/" aria-label="FinWiki"><span>Fin<b>Wiki</b></span></a>
-        <div style="margin-left:auto"><ThemeToggle lang="ja" /></div>
+      <div class="site-header__inner root-header">
+        <a class="brand" href="/" aria-label="FinWiki">
+          <span>Fin<b>Wiki</b></span>
+          <small>public finance field guide</small>
+        </a>
+        <div class="root-header__tools">
+          <LangSwitcher lang="ja" />
+          <ThemeToggle lang="ja" />
+        </div>
       </div>
     </header>
 
     <main class="site-main">
-      <section class="root-hero container">
-        <p class="eyebrow">公開金融ナレッジグラフ</p>
+      <section class="root-masthead container">
+        <p class="eyebrow">{rootEditorial.kicker}</p>
         <h1 class="root-title">FinWiki</h1>
-        <div class="root-taglines">
-          <p><span class="rt">JA</span>公開一次情報にもとづく、三言語・出典つきの金融事実ベース。</p>
-          <p><span class="rt">EN</span>A trilingual, source-backed financial fact base built on public primary information.</p>
-          <p><span class="rt">ZH</span>基于公开一手信源的三语、带出处金融事实库。</p>
+        <div class="root-decks" aria-label="FinWiki description">
+          <p><span>JA</span>{rootEditorial.decks.ja}</p>
+          <p><span>EN</span>{rootEditorial.decks.en}</p>
+          <p><span>ZH</span>{rootEditorial.decks.zh}</p>
         </div>
-        <div class="root-stats">
-          <span><b>{entryCount.toLocaleString('ja-JP')}</b> 項目</span>
-          <span><b>{domainCount}</b> 領域</span>
-          <span><b>{zhCount.toLocaleString('en-US')}</b> 中文</span>
-          <span><b>{enCount.toLocaleString('en-US')}</b> 英語</span>
-        </div>
-      </section>
 
-      <section class="container root-block">
-        <div class="entrances">
-          {entrances.map((e) => (
-            <a class="card entrance" href={e.href}>
-              <span class="entrance__code">{e.code}</span>
-              <span class="card__title">{e.label}</span>
-              <span class="muted entrance__note">{e.note}</span>
-              <span class="entrance__go">→</span>
+        <div class="root-entry-paths" aria-label="Language entry paths">
+          {rootEditorial.entryPaths.map((entry) => (
+            <a class="root-entry" href={entry.href} hreflang={entry.code.toLowerCase()}>
+              <span class="root-entry__code">{entry.code}</span>
+              <span class="root-entry__label">{entry.label}</span>
+              <span class="root-entry__note">{entry.note}</span>
             </a>
           ))}
         </div>
       </section>
 
-      <section class="container root-block">
-        <p class="eyebrow">収録領域</p>
-        <h2 class="section-title">主要領域</h2>
-        <div class="root-domains">
-          {featured.map(([d, n]) => (
-            <a class="card root-dcard" href={`/ja/domains/${d}/`}>
-              <span class="root-dcard__ja">{domainName(d, 'ja')}</span>
-              <span class="muted root-dcard__meta">{n.toLocaleString('ja-JP')} 項目</span>
-              <b class="root-dcard__n">{n.toLocaleString('en-US')}</b>
-            </a>
+      <section class="container root-section">
+        <div class="root-section__head">
+          <p class="eyebrow">Start with</p>
+          <h2 class="section-title">読者の目的から入る</h2>
+        </div>
+        <div class="start-lanes">
+          {startLanes.map((lane) => (
+            <article class="start-lane">
+              <a class="start-lane__main" href={lane.href}>
+                <span class="start-lane__en">{lane.title.en}</span>
+                <span class="start-lane__title">{lane.title.ja}</span>
+                <span class="start-lane__note">{lane.note.ja}</span>
+              </a>
+              <div class="start-lane__domains" aria-label={`${lane.title.ja} domains`}>
+                {lane.domains.map((domain) => (
+                  counts.has(domain) && (
+                    <a href={`/ja/domains/${domain}/`}>
+                      <span>{domainName(domain, 'ja')}</span>
+                      <b>{counts.get(domain)}</b>
+                    </a>
+                  )
+                ))}
+              </div>
+              {lane.routeLinks.length > 0 && (
+                <div class="start-lane__routes">
+                  {lane.routeLinks.map((route) => (
+                    <a href={route.href}>
+                      <span>{route.title}</span>
+                      <code>{route.route}</code>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </article>
           ))}
         </div>
       </section>
 
-      <section class="container root-block">
+      <section class="container root-section">
+        <div class="root-proof" aria-label="Corpus stats">
+          <div>
+            <p class="eyebrow">Corpus proof</p>
+            <h2 class="section-title">公開スナップショット</h2>
+          </div>
+          <dl class="root-stats">
+            <div>
+              <dt>項目</dt>
+              <dd>{entryCount.toLocaleString('ja-JP')}</dd>
+            </div>
+            <div>
+              <dt>領域</dt>
+              <dd>{domainCount.toLocaleString('ja-JP')}</dd>
+            </div>
+            <div>
+              <dt>English</dt>
+              <dd>{enCount.toLocaleString('en-US')}</dd>
+            </div>
+            <div>
+              <dt>中文</dt>
+              <dd>{zhCount.toLocaleString('en-US')}</dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <section class="container root-section">
         <div class="root-ai">
           <div>
-            <p class="eyebrow">機械可読</p>
+            <p class="eyebrow">Technical metadata</p>
             <h2 class="section-title">AI・クローラー向け資料</h2>
+            <p class="muted">人間向けの入口とは別に、同じ公開コーパスを機械可読ファイルから確認できます。</p>
           </div>
           <div class="root-ai__links">
-            <a href="/llms.txt">llms.txt</a>
-            <a href="/llms-full.txt">llms-full.txt</a>
-            <a href="/ai-index.json">ai-index.json</a>
-            <a href="/sitemap.xml">sitemap.xml</a>
+            <a href="/llms.txt"><b>llms.txt</b><span>LLM guide</span></a>
+            <a href="/llms-full.txt"><b>llms-full.txt</b><span>full manifest</span></a>
+            <a href="/ai-index.json"><b>ai-index.json</b><span>retrieval map</span></a>
+            <a href="/sitemap.xml"><b>sitemap.xml</b><span>URL inventory</span></a>
           </div>
         </div>
       </section>
@@ -130,13 +191,14 @@ const entrances = [
       <div class="site-footer__inner">
         <div>
           <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
-          <p class="site-footer__note">公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</p>
+          <p class="site-footer__note">公開一次情報にもとづく金融フィールドガイド。事実は各項目の出典に遡れます。</p>
         </div>
         <nav class="site-footer__links" aria-label="フッター">
           <a href="/ja/">日本語</a>
           <a href="/en/">English</a>
           <a href="/zh/">简体中文</a>
           <a href="/llms.txt">llms.txt</a>
+          <a href="/ai-index.json">ai-index.json</a>
         </nav>
         <div class="site-footer__meta">
           <span>© FinWiki</span>
@@ -146,156 +208,283 @@ const entrances = [
     </footer>
 
     <style>
-      .root-hero {
-        padding-top: clamp(3rem, 2rem + 5vw, 6rem);
-        padding-bottom: var(--sp-5);
+      .root-header {
+        max-width: var(--w-content);
+      }
+      .root-header__tools {
+        margin-left: auto;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .root-masthead {
+        padding-top: clamp(3rem, 2rem + 5vw, 6.5rem);
+        padding-bottom: var(--sp-6);
       }
       .root-title {
         font-size: var(--fs-3xl);
         line-height: 0.95;
-        margin: 0 0 1.4rem;
+        margin: 0 0 1.3rem;
         letter-spacing: 0;
       }
-      .root-taglines {
-        display: flex;
-        flex-direction: column;
-        gap: 0.3rem;
-        max-width: 50rem;
+      .root-decks {
+        display: grid;
+        gap: 0.55rem;
+        max-width: 58rem;
       }
-      .root-taglines p {
+      .root-decks p {
         margin: 0;
         color: var(--ink-2);
         font-size: var(--fs-md);
-        line-height: 1.5;
+        line-height: 1.55;
       }
-      .root-taglines p:first-child {
+      .root-decks p:first-child {
         color: var(--ink);
-        font-weight: 550;
       }
-      .rt {
+      .root-decks span {
         display: inline-block;
-        width: 2.2rem;
+        width: 2.35rem;
         font-family: var(--font-mono);
-        font-size: 0.7rem;
+        font-size: 0.72rem;
         font-weight: 700;
         color: var(--accent);
-        letter-spacing: 0.05em;
+        letter-spacing: 0.06em;
       }
-      .root-stats {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1.75rem;
-        margin-top: 1.8rem;
+
+      .root-entry-paths {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 1px;
+        margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+      }
+      .root-entry {
+        display: grid;
+        gap: 0.35rem;
+        min-width: 0;
+        padding: 1rem 1.1rem;
+        color: var(--ink);
+        text-decoration: none;
+        background: color-mix(in srgb, var(--surface) 62%, transparent);
+      }
+      .root-entry + .root-entry {
+        border-left: 1px solid var(--line);
+      }
+      .root-entry:hover {
+        background: var(--surface);
+      }
+      .root-entry__code {
+        font-family: var(--font-mono);
+        font-size: var(--fs-xs);
+        font-weight: 700;
+        color: var(--accent);
+      }
+      .root-entry__label {
+        font-family: var(--font-display);
+        font-size: var(--fs-md);
+        line-height: 1.2;
+      }
+      .root-entry__note {
         color: var(--muted);
         font-size: var(--fs-sm);
-      }
-      .root-stats b {
-        font-family: var(--font-display);
-        font-size: 1.6rem;
-        color: var(--accent);
-        margin-right: 0.35rem;
+        line-height: 1.45;
       }
 
-      .root-block {
+      .root-section {
         padding-top: var(--gap-section);
       }
-      .entrances {
+      .root-section__head {
+        margin-bottom: 1.25rem;
+      }
+      .root-section__head .section-title {
+        margin: 0;
+      }
+
+      .start-lanes {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
         gap: 1rem;
       }
-      .entrance {
-        position: relative;
-        min-height: 9rem;
-        padding: 1.25rem 1.4rem;
+      .start-lane {
+        min-width: 0;
+        border-top: 2px solid var(--accent);
+        border-bottom: 1px solid var(--line);
+        padding: 1rem 0 0.85rem;
       }
-      .entrance__code {
+      .start-lane__main {
+        display: grid;
+        gap: 0.35rem;
+        color: var(--ink);
+        text-decoration: none;
+      }
+      .start-lane__main:hover .start-lane__title {
+        color: var(--accent);
+      }
+      .start-lane__en {
         font-family: var(--font-mono);
         font-size: var(--fs-xs);
         font-weight: 700;
-        color: var(--accent);
-        letter-spacing: 0.04em;
+        color: var(--muted);
+        text-transform: uppercase;
       }
-      .entrance__note {
+      .start-lane__title {
+        font-family: var(--font-display);
+        font-size: var(--fs-md);
+        line-height: 1.22;
+        transition: color var(--dur) var(--ease);
+      }
+      .start-lane__note {
+        color: var(--ink-2);
         font-size: var(--fs-sm);
+        line-height: 1.55;
       }
-      .entrance__go {
-        position: absolute;
-        right: 1.2rem;
-        bottom: 1rem;
-        color: var(--accent);
-        font-size: 1.3rem;
-        transition: transform var(--dur) var(--ease);
+      .start-lane__domains,
+      .start-lane__routes {
+        display: grid;
+        gap: 0.35rem;
+        margin-top: 0.9rem;
       }
-      .entrance:hover .entrance__go {
-        transform: translateX(4px);
+      .start-lane__domains a,
+      .start-lane__routes a {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.75rem;
+        min-width: 0;
+        color: var(--ink-2);
+        text-decoration: none;
+        border-top: 1px solid var(--line);
+        padding-top: 0.42rem;
+      }
+      .start-lane__domains a:hover,
+      .start-lane__routes a:hover {
+        color: var(--accent-2);
+      }
+      .start-lane__domains span,
+      .start-lane__routes span {
+        min-width: 0;
+        overflow-wrap: anywhere;
+      }
+      .start-lane__domains b {
+        color: var(--muted);
+        font-size: var(--fs-xs);
+        font-variant-numeric: tabular-nums;
+      }
+      .start-lane__routes code {
+        max-width: 45%;
+        color: var(--muted);
+        font-family: var(--font-mono);
+        font-size: 0.68rem;
+        overflow-wrap: anywhere;
+        text-align: right;
       }
 
-      .root-domains {
+      .root-proof {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
-        gap: 0.85rem;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+        gap: 1.5rem;
+        align-items: end;
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+        padding: 1.2rem 0;
       }
-      .root-dcard {
-        position: relative;
-        gap: 0.15rem;
-        padding: 1rem 1.1rem 1.4rem;
-        overflow: hidden;
+      .root-proof .section-title {
+        margin: 0;
       }
-      .root-dcard__ja {
-        font-family: var(--font-display);
-        font-weight: 600;
-        font-size: var(--fs-base);
+      .root-stats {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 1px;
+        margin: 0;
+        background: var(--line);
       }
-      .root-dcard__meta {
+      .root-stats div {
+        min-width: 0;
+        background: var(--paper);
+        padding: 0.65rem 0.85rem;
+      }
+      .root-stats dt {
+        color: var(--muted);
         font-size: var(--fs-xs);
       }
-      .root-dcard__n {
-        position: absolute;
-        right: 1rem;
-        bottom: 0.7rem;
+      .root-stats dd {
+        margin: 0;
+        color: var(--accent);
         font-family: var(--font-display);
-        font-size: 1.7rem;
-        color: color-mix(in srgb, var(--accent) 22%, transparent);
-        font-weight: 600;
+        font-size: clamp(1.4rem, 1.1rem + 1vw, 2rem);
+        line-height: 1.05;
       }
 
       .root-ai {
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(18rem, 1.4fr);
+        gap: 1.5rem 2.5rem;
         align-items: center;
-        justify-content: space-between;
-        gap: 1.25rem;
         background: var(--surface-2);
         border: 1px solid var(--line);
-        border-radius: var(--r-lg);
-        padding: clamp(1.5rem, 1rem + 2vw, 2.25rem);
+        border-radius: var(--r);
+        padding: clamp(1.35rem, 1rem + 2vw, 2.25rem);
       }
-      .root-ai .section-title {
+      .root-ai .section-title,
+      .root-ai p {
         margin: 0;
       }
       .root-ai__links {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.6rem;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.7rem;
       }
       .root-ai__links a {
-        font-family: var(--font-mono);
-        font-size: var(--fs-sm);
+        display: grid;
+        gap: 0.2rem;
+        min-width: 0;
         text-decoration: none;
-        color: var(--accent-2);
+        color: var(--ink);
         background: var(--surface);
         border: 1px solid var(--line);
         border-radius: var(--r);
-        padding: 0.5rem 0.8rem;
+        padding: 0.72rem 0.85rem;
       }
       .root-ai__links a:hover {
         border-color: var(--accent);
       }
+      .root-ai__links b {
+        color: var(--accent-2);
+        font-family: var(--font-mono);
+        font-size: var(--fs-sm);
+        overflow-wrap: anywhere;
+      }
+      .root-ai__links span {
+        color: var(--muted);
+        font-size: var(--fs-xs);
+      }
 
-      @media (max-width: 720px) {
-        .entrances {
+      @media (max-width: 760px) {
+        .root-entry-paths,
+        .root-proof,
+        .root-ai {
           grid-template-columns: 1fr;
+        }
+        .root-entry + .root-entry {
+          border-left: 0;
+          border-top: 1px solid var(--line);
+        }
+        .root-stats {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+      @media (max-width: 460px) {
+        .root-ai__links {
+          grid-template-columns: 1fr;
+        }
+        .start-lane__routes a {
+          display: grid;
+        }
+        .start-lane__routes code {
+          max-width: none;
+          text-align: left;
         }
       }
     </style>
