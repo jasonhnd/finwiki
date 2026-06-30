@@ -2,8 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../i18n/ui';
-import { domainName } from '../../i18n/domains';
-import { domainGroups, groupName } from '../../i18n/groups';
+import { domainDescription, domainName } from '../../i18n/domains';
+import { domainGroups, groupDescription, groupName } from '../../i18n/groups';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { isoDate } from '../../lib/format';
 import { localizedTitle } from '../../lib/siteIndex.mjs';
@@ -16,6 +16,7 @@ const { lang } = Astro.params as { lang: Lang };
 const all = await getCollection('entries');
 const translations = await getCollection('i18n');
 const i18nMap = new Map(translations.map((entry) => [entry.id, entry]));
+const entryByRoute = new Map(all.map((entry) => [entryRoute(entry), entry]));
 
 const counts = new Map<string, number>();
 for (const e of all) {
@@ -28,85 +29,134 @@ function titleFor(entry: (typeof all)[number]): string {
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
 
-const recent = [...all]
+const latestReviewed = [...all]
   .filter((e) => e.data.last_updated)
   .sort((a, b) => isoDate(b.data.last_updated).localeCompare(isoDate(a.data.last_updated)))
-  .slice(0, 8);
+  .slice(0, 6);
+
+const canonicalRouteIds = [
+  'banking/japan-banking-license-tier-comparison-matrix',
+  'payments/japan-payment-clearing-and-settlement-infrastructure',
+  'securities/japan-market-infrastructure-map',
+  'exchanges/jp-vasp-regulatory-timeline',
+  'financial-regulators/fsa',
+  'insurance/global-solvency-framework-comparison-matrix',
+];
+
+const canonicalRoutes = canonicalRouteIds
+  .map((route) => entryByRoute.get(route))
+  .filter(Boolean) as (typeof all)[number][];
 
 const entryCount = all.length;
 const domainCount = counts.size;
 const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).length;
 ---
 <Base lang={lang} active="home">
-  <section class="hero container">
+  <section class="home-hero container">
     <p class="eyebrow">FinWiki</p>
-    <h1 class="hero__title">{t(lang, 'site.tagline')}</h1>
-    <p class="lead hero__lead">{t(lang, 'home.intro')}</p>
+    <h1 class="home-hero__title">{t(lang, 'home.headline')}</h1>
+    <p class="lead home-hero__deck">{t(lang, 'home.deck')}</p>
 
-    <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
+    <div class="home-search" aria-label={t(lang, 'home.searchKicker')}>
+      <span class="home-search__label">{t(lang, 'home.searchKicker')}</span>
+      <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
+    </div>
 
-    <div class="hero__stats">
+    <div class="home-proof" aria-label={t(lang, 'home.corpusProof')}>
       <span><b>{entryCount.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
       <span><b>{domainCount}</b> {t(lang, 'nav.domains')}</span>
       {lang !== 'ja' && <span><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>}
     </div>
   </section>
 
-  <section class="container block">
-    <div class="block__head">
+  <section class="container home-block">
+    <div class="home-block__head">
       <div>
         <p class="eyebrow">{t(lang, 'home.startReading')}</p>
-        <h2 class="section-title">{t(lang, 'home.recent')}</h2>
+        <h2 class="section-title">{t(lang, 'home.latestReviewed')}</h2>
       </div>
-      <p class="muted block__note">{t(lang, 'home.recentNote')}</p>
+      <p class="muted home-block__note">{t(lang, 'home.latestReviewedNote')}</p>
     </div>
-    <div class="recent-grid">
-      {recent.map((e) => {
-        const d = entryDomain(e);
+    <div class="review-strip">
+      {latestReviewed.map((entry) => {
+        const route = entryRoute(entry);
+        const domain = entryDomain(entry);
         return (
-          <a class="card" href={u(lang, `${entryRoute(e)}/`)}>
-            <span class="card__kicker">{domainName(d, lang)}</span>
-            <span class="card__title">{titleFor(e)}</span>
-            <span class="card__meta">{t(lang, 'entry.updated')} {isoDate(e.data.last_updated)}</span>
+          <a class="review-card" href={u(lang, `${route}/`)}>
+            <span class="review-card__domain">{domainName(domain, lang)}</span>
+            <span class="review-card__title">{titleFor(entry)}</span>
+            <span class="review-card__meta">{t(lang, 'entry.updated')} {isoDate(entry.data.last_updated)}</span>
           </a>
         );
       })}
     </div>
   </section>
 
-  <section class="container block">
-    <div class="block__head">
+  <section class="container home-block">
+    <div class="home-block__head">
       <div>
-        <p class="eyebrow">{t(lang, 'nav.domains')}</p>
-        <h2 class="section-title">{t(lang, 'home.domainMap')}</h2>
+        <p class="eyebrow">{t(lang, 'home.canonicalRoutes')}</p>
+        <h2 class="section-title">{t(lang, 'home.canonicalRoutes')}</h2>
       </div>
-      <a class="btn block__cta" href={u(lang, 'domains/')}>{t(lang, 'home.viewAllDomains')} →</a>
+      <p class="muted home-block__note">{t(lang, 'home.canonicalRoutesNote')}</p>
     </div>
-    <div class="groups">
-      {domainGroups.map((g) => {
-        const ds = g.domains.filter((d) => counts.has(d));
-        if (!ds.length) return null;
+    <div class="canonical-strip">
+      {canonicalRoutes.map((entry) => {
+        const route = entryRoute(entry);
+        const domain = entryDomain(entry);
         return (
-          <div class="group">
-            <h3 class="group__name">{groupName(g, lang)}</h3>
-            <div class="group__domains">
-              {ds.map((d) => (
-                <a class="dpill" href={u(lang, `domains/${d}/`)}>
-                  <span>{domainName(d, lang)}</span>
-                  <b>{counts.get(d)}</b>
-                </a>
-              ))}
-            </div>
-          </div>
+          <a class="canonical-route" href={u(lang, `${route}/`)}>
+            <span class="canonical-route__domain">{domainName(domain, lang)}</span>
+            <span class="canonical-route__title">{titleFor(entry)}</span>
+            <code>{route}</code>
+          </a>
         );
       })}
     </div>
   </section>
 
-  <section class="container block">
+  <section class="container home-block">
+    <div class="home-block__head">
+      <div>
+        <p class="eyebrow">{t(lang, 'nav.domains')}</p>
+        <h2 class="section-title">{t(lang, 'home.guidedTaxonomy')}</h2>
+      </div>
+      <div class="home-block__actions">
+        <p class="muted home-block__note">{t(lang, 'home.guidedTaxonomyNote')}</p>
+        <a class="btn" href={u(lang, 'domains/')}>{t(lang, 'home.viewAllDomains')} →</a>
+      </div>
+    </div>
+    <div class="taxonomy-grid">
+      {domainGroups.map((group) => {
+        const domains = group.domains.filter((domain) => counts.has(domain));
+        if (!domains.length) return null;
+        const total = domains.reduce((sum, domain) => sum + (counts.get(domain) ?? 0), 0);
+        return (
+          <section class="taxonomy-group">
+            <div class="taxonomy-group__head">
+              <h3>{groupName(group, lang)}</h3>
+              <span>{total.toLocaleString('en-US')}</span>
+            </div>
+            <p>{groupDescription(group, lang)}</p>
+            <div class="taxonomy-group__domains">
+              {domains.slice(0, 5).map((domain) => (
+                <a href={u(lang, `domains/${domain}/`)}>
+                  <span>{domainName(domain, lang)}</span>
+                  <small>{domainDescription(domain, lang)}</small>
+                  <b>{counts.get(domain)}</b>
+                </a>
+              ))}
+            </div>
+          </section>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="container home-block">
     <div class="ai-band">
       <div>
-        <p class="eyebrow">{t(lang, 'nav.ai')}</p>
+        <p class="eyebrow">{t(lang, 'home.aiTechLabel')}</p>
         <h2 class="section-title">{t(lang, 'home.ai')}</h2>
         <p class="muted ai-band__note">{t(lang, 'home.aiNote')}</p>
       </div>
@@ -121,135 +171,234 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 </Base>
 
 <style>
-  .hero {
-    padding-top: clamp(2.5rem, 1.5rem + 4vw, 5rem);
-    padding-bottom: var(--sp-5);
+  .home-hero {
+    padding-top: clamp(2.6rem, 1.6rem + 4vw, 5.6rem);
+    padding-bottom: var(--sp-6);
   }
-  .hero__title {
-    font-size: var(--fs-2xl);
-    line-height: 1.1;
+  .home-hero__title {
+    max-width: 18ch;
     margin: 0 0 1rem;
-    max-width: 22ch;
+    font-size: var(--fs-2xl);
+    line-height: 1.08;
   }
-  .hero__lead {
-    margin: 0 0 1.6rem;
+  html[lang="en"] .home-hero__title {
+    max-width: 20ch;
+  }
+  html[lang="zh"] .home-hero__title {
+    max-width: 19ch;
+  }
+  .home-hero__deck {
+    margin: 0;
+    max-width: var(--measure-lead);
+  }
+  .home-search {
+    display: grid;
+    gap: 0.45rem;
+    max-width: 38rem;
+    margin-top: 1.55rem;
+  }
+  .home-search__label {
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
   }
   .pf-hero {
     display: block;
-    max-width: 36rem;
     --pagefind-ui-scale: 1.05;
   }
-  .hero__stats {
+  .home-proof {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-top: 1.6rem;
+    gap: 0.75rem 1.4rem;
+    margin-top: 1.3rem;
     color: var(--muted);
     font-size: var(--fs-sm);
   }
-  .hero__stats b {
-    font-family: var(--font-display);
-    font-size: 1.5rem;
+  .home-proof b {
     color: var(--accent);
-    margin-right: 0.3rem;
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    line-height: 1;
+    margin-right: 0.25rem;
   }
 
-  .block {
+  .home-block {
     padding-top: var(--gap-section);
   }
-  .block__head {
+  .home-block__head {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    gap: 1rem;
-    margin-bottom: 1.4rem;
+    gap: 1.2rem;
+    margin-bottom: 1.25rem;
     flex-wrap: wrap;
   }
-  .block__head .section-title {
+  .home-block__head .section-title {
     margin: 0;
   }
-  .block__note {
-    font-size: var(--fs-sm);
+  .home-block__note {
+    max-width: 34rem;
     margin: 0;
-  }
-  .block__cta {
-    flex: none;
-  }
-
-  .recent-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-    gap: 1rem;
-  }
-  .recent-grid .card {
-    min-height: 8.5rem;
-  }
-
-  .groups {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
-    gap: 1.5rem 2rem;
-  }
-  .group__name {
     font-size: var(--fs-sm);
-    font-weight: 700;
-    color: var(--ink-2);
-    margin: 0 0 0.7rem;
-    padding-bottom: 0.4rem;
+  }
+  .home-block__actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .review-strip,
+  .canonical-strip {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1px;
+    background: var(--line);
+    border-top: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
   }
-  .group__domains {
+  .review-card,
+  .canonical-route {
+    display: grid;
+    align-content: start;
+    gap: 0.35rem;
+    min-width: 0;
+    min-height: 8.8rem;
+    padding: 1rem;
+    background: var(--paper);
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .review-card:hover,
+  .canonical-route:hover {
+    background: var(--surface);
+  }
+  .review-card__domain,
+  .canonical-route__domain {
+    color: var(--accent);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .review-card__title,
+  .canonical-route__title {
+    color: var(--ink);
+    font-family: var(--font-display);
+    font-size: var(--fs-md);
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+  }
+  .review-card__meta {
+    margin-top: auto;
+    color: var(--muted);
+    font-size: var(--fs-xs);
+  }
+  .canonical-route code {
+    margin-top: auto;
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+
+  .taxonomy-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.35rem 1.5rem;
+  }
+  .taxonomy-group {
+    min-width: 0;
+    border-top: 2px solid var(--line);
+    padding-top: 0.85rem;
+  }
+  .taxonomy-group__head {
     display: flex;
-    flex-direction: column;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.8rem;
+  }
+  .taxonomy-group h3 {
+    margin: 0;
+    font-size: var(--fs-md);
+  }
+  .taxonomy-group__head span {
+    color: var(--muted);
+    font-size: var(--fs-xs);
+    font-variant-numeric: tabular-nums;
+  }
+  .taxonomy-group p {
+    margin: 0.45rem 0 0.8rem;
+    color: var(--ink-2);
+    font-size: var(--fs-sm);
+    line-height: 1.55;
+  }
+  .taxonomy-group__domains {
+    display: grid;
     gap: 0.3rem;
   }
-  .dpill {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 0.5rem;
-    padding: 0.4rem 0.6rem;
-    border-radius: var(--r);
-    text-decoration: none;
+  .taxonomy-group__domains a {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.15rem 0.75rem;
+    min-width: 0;
+    padding: 0.45rem 0;
     color: var(--ink);
-    transition: background var(--dur) var(--ease);
+    text-decoration: none;
+    border-top: 1px solid var(--line);
   }
-  .dpill:hover {
-    background: var(--surface-2);
+  .taxonomy-group__domains a:hover {
+    color: var(--accent-2);
   }
-  .dpill b {
+  .taxonomy-group__domains span {
+    font-weight: 650;
+    overflow-wrap: anywhere;
+  }
+  .taxonomy-group__domains small {
+    grid-column: 1 / -1;
     color: var(--muted);
-    font-weight: 500;
+    font-size: var(--fs-xs);
+    line-height: 1.45;
+  }
+  .taxonomy-group__domains b {
+    color: var(--muted);
+    font-size: var(--fs-xs);
     font-variant-numeric: tabular-nums;
+    font-weight: 600;
   }
 
   .ai-band {
     display: grid;
-    grid-template-columns: 1fr 1.3fr;
+    grid-template-columns: minmax(0, 1fr) minmax(18rem, 1.35fr);
     gap: 1.5rem 2.5rem;
     align-items: center;
     background: var(--surface-2);
     border: 1px solid var(--line);
-    border-radius: var(--r-lg);
-    padding: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+    border-radius: var(--r);
+    padding: clamp(1.35rem, 1rem + 2vw, 2.35rem);
   }
   .ai-band .section-title {
     margin: 0;
   }
   .ai-band__note {
+    margin: 0.55rem 0 0;
     font-size: var(--fs-sm);
-    margin: 0.6rem 0 0;
   }
   .ai-links {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.7rem;
   }
   .ai-links a {
-    display: flex;
-    flex-direction: column;
+    display: grid;
     gap: 0.15rem;
-    padding: 0.7rem 0.9rem;
+    min-width: 0;
+    padding: 0.72rem 0.85rem;
     background: var(--surface);
     border: 1px solid var(--line);
     border-radius: var(--r);
@@ -259,18 +408,34 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     border-color: var(--accent);
   }
   .ai-links b {
+    color: var(--accent-2);
     font-family: var(--font-mono);
     font-size: var(--fs-sm);
-    color: var(--accent-2);
+    overflow-wrap: anywhere;
   }
   .ai-links span {
-    font-size: var(--fs-xs);
     color: var(--muted);
+    font-size: var(--fs-xs);
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 940px) {
+    .review-strip,
+    .canonical-strip,
+    .taxonomy-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
     .ai-band {
       grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 620px) {
+    .review-strip,
+    .canonical-strip,
+    .taxonomy-grid {
+      grid-template-columns: 1fr;
+    }
+    .home-block__actions {
+      justify-content: flex-start;
     }
   }
   @media (max-width: 460px) {
