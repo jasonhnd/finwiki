@@ -38,9 +38,9 @@ function titleForRoute(route: string): string {
 
 const startLanes = rootEditorial.startLanes.map((lane) => ({
   ...lane,
-  routeLinks: lane.routes
-    .filter((route) => entryByRoute.has(route))
-    .map((route) => ({ route, title: titleForRoute(route), href: `/ja/${route}/` })),
+  routeLinks: lane.routes.every((route) => entryByRoute.has(route))
+    ? lane.routes.map((route) => ({ route, title: titleForRoute(route), href: `/ja/${route}/` }))
+    : [],
 }));
 ---
 <!doctype html>
