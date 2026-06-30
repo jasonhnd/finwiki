@@ -332,6 +332,7 @@ hr {
 .site-main {
   flex: 1 0 auto;
   width: 100%;
+  min-width: 0;
 }
 
 .eyebrow {
@@ -659,6 +660,7 @@ hr {
   display: inline-flex;
   align-items: center;
   gap: 0.35em;
+  min-width: 0;
   font-size: var(--fs-xs);
   font-weight: 600;
   color: var(--ink-2);
@@ -696,6 +698,8 @@ hr {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
+  min-width: 0;
+  min-height: 2.5rem;
   font: inherit;
   font-weight: 600;
   font-size: var(--fs-sm);
@@ -727,6 +731,7 @@ hr {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
+  min-width: 0;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--r-lg);
@@ -754,6 +759,7 @@ a.card:hover {
   font-size: var(--fs-md);
   line-height: 1.25;
   color: var(--ink);
+  overflow-wrap: anywhere;
 }
 .card__meta {
   display: flex;
@@ -762,6 +768,7 @@ a.card:hover {
   font-size: var(--fs-xs);
   color: var(--muted);
   margin-top: auto;
+  overflow-wrap: anywhere;
 }
 
 /* ----- Provenance + wikilink (prose-embedded) ----- */
