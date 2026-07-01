@@ -6,11 +6,11 @@
 | Wiki entry | 普通知识库正文条目，通常位于顶级 domain 目录下，`entry_type=wiki_entry`。 |
 | Domain index | 每个 domain 的 `INDEX.md`，用于读者导航和 domain count 对账。 |
 | Control doc | 根目录控制文档，例如 `README.md`、`CHANGELOG.md`、`SCHEMA.md`、`INDEX.md`。 |
-| Release note | `releases/v*.md`，记录每次发布的三语说明，计入 corpus 但不是 wiki entry。 |
+| Release note | `releases/v*.md`，记录每次发布的双语说明，计入 corpus 但不是 wiki entry。 |
 | Discovery surface | `robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json`、`api/` 等机器可发现输出。 |
 | Wikilink | Obsidian 风格链接，例如 `domain/slug` 的双中括号形式。 |
 | Canonical anchor | 多领域 mirror page 指向同一实体主页的 frontmatter 字段。 |
-| i18n mirror | `site/src/content/i18n/{ja,en,zh}/` 下的机器翻译层。 |
+| i18n mirror | `site/src/content/i18n/{ja,en}/` 下的机器翻译层。 |
 | Source hash | 机器翻译 mirror 用来判断源正文是否 stale 的 hash。 |
 | Release gate | `bun tools/release.ts --check --strict` 及其调用的 link audit、count、JSON、LF、duplicate-id 检查。 |
 | BRD | Business Requirements Document，定义业务目标与成功指标。 |

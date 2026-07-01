@@ -36,7 +36,7 @@
 - New domain directories require explicit site and audit allowlist updates.
 - Release note additions change corpus `md` count.
 - `source_hash` must not be casually rewritten to hide stale translations.
-- `README.md` and `CHANGELOG.md` must remain trilingual.
+- `README.md` and `CHANGELOG.md` must remain bilingual.
 - Code implementation agents must not edit requirement, architecture, functional-spec, release or governance documents unless explicitly assigned.
 
 ## Relationship To ADR

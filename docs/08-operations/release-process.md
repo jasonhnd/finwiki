@@ -1,12 +1,12 @@
 # 发布流程 / Release Process
 
-硬性规则源头是根目录 `AGENTS.md`：**任何**内容/结构/索引/领域/公开快照/运营规则变更，都要在同一 session 内同步三语文档并发布。
+发布规则源头是根目录 `AGENTS.md` 与当前 i18n 架构：**任何**内容/结构/索引/领域/公开快照/运营规则变更，都要在同一 session 内同步双语文档并发布。
 
 ## 标准步骤
 
 ```
 1. 改内容（wiki entry / INDEX / 工具 / 配置）
-2. 更新三语 README.md + CHANGELOG.md（日→英→中），写 releases/v<date>-<N>.md
+2. 更新双语 README.md + CHANGELOG.md（日→英），写 releases/v<date>-<N>.md
 3. bun tools/release.ts --write          # 重生成发现面 + 同步 counts
 4. bun tools/release.ts --check --strict  # 门禁：必须 EXIT=0
 5. git add -A && git commit               # 不加 Co-Authored-By（repo 既有惯例）
@@ -19,12 +19,12 @@
 9. gh run watch <runId> --exit-status     # 确认「Deploy FinWiki」build 绿
 ```
 
-## 三语文档格式
+## 双语文档格式
 
-- **README note**：blockquote `>`，最新在最上，空行分隔；三语各一条 note。
-- **CHANGELOG 条目**：最新在最上。结构：`### <ja标题> / <en标题> / <zh标题>` → `#### 日本語記録 / English / 中文` → 日文字段（**JST 時刻 / 背景 / 範囲 / 主要変更 / 実行手順 / 検証結果 / 既知の注意点 / 次の作業**）→ `- **EN**:` 整段 → `- **中文**:` 整段。
-- **release notes 文件**：`# <日文标题>` → `## 日本語` / `## English` / `## 中文`，每语含 公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業。
-- **GitHub Release**：标题**只用日文**；body 用 `--notes-file` 指向 release notes（已是日→英→中）。
+- **README note**：blockquote `>`，最新在最上，空行分隔；日文和英文各一条 note。
+- **CHANGELOG 条目**：最新在最上。结构：`### <ja标题> / <en标题>` → `#### 日本語記録 / English` → 日文字段（**JST 時刻 / 背景 / 範囲 / 主要変更 / 実行手順 / 検証結果 / 既知の注意点 / 次の作業**）→ `- **EN**:` 整段。
+- **release notes 文件**：`# <日文标题>` → `## 日本語` / `## English`，每语含 公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業。
+- **GitHub Release**：标题**只用日文**；body 用 `--notes-file` 指向 release notes（已是日→英）。
 
 ## count 收敛（self-referential）
 
@@ -41,8 +41,8 @@ bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun too
 
 ## 发布前自检清单
 
-- [ ] README / CHANGELOG / index.html 三语都更新了
-- [ ] `releases/v<date>-<N>.md` 已建（三语）
+- [ ] README / CHANGELOG / index.html 双语都更新了
+- [ ] `releases/v<date>-<N>.md` 已建（双语）
 - [ ] `--check --strict` `EXIT=0`，link audit `issues=0`，counts in sync
 - [ ] `git diff` 无密钥 / 本地路径 / 隐私（grep 检查 home 目录路径前缀、token 前缀、真实用户名，命中应为 0）
 - [ ] sitemap `lastmod` 无污染（`git diff sitemap.xml` 里新增的 lastmod 都是当天）

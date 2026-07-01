@@ -25,4 +25,4 @@
 - `bun tools/release.ts --check --strict`.
 - Astro build when site behavior changed.
 - [Visual QA Checklist](../07-quality/visual-qa-checklist.md) when UI, CSS, theme, layout, or localization chrome changed.
-- Spot-check `/ja/`, `/en/`, `/zh/` after deployment when publishing.
+- Spot-check `/ja/` and `/en/` after deployment when publishing.

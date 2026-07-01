@@ -21,7 +21,7 @@ Current baseline characteristics:
 | Browse | Sticky filter, domain jump chips and multi-column scan lists support fast corpus inspection. | `site/src/pages/[lang]/browse/index.astro` |
 | Entry page | Three-column desktop reference layout: left domain rail, central article, right TOC; mobile collapses rails into a single reading column with inline TOC. | `site/src/layouts/EntryLayout.astro` |
 | Prose | Financial-reference Markdown supports headings, wikilinks, provenance marks, callouts/blockquotes, code and horizontally scrolling tables. | `.prose` rules in `site/src/styles/global.css` |
-| Localization chrome | Visible UI labels are centralized in `site/src/i18n/ui.ts` and should remain natural in Japanese, English and Chinese. | `site/src/i18n/ui.ts` |
+| Localization chrome | Visible UI labels are centralized in `site/src/i18n/ui.ts` and should remain natural in Japanese and English. | `site/src/i18n/ui.ts` |
 
 Do not treat UI/UX documentation as a request to redesign the site. It is a contract that records the current satisfactory design and constrains future changes.
 
@@ -30,7 +30,7 @@ Do not treat UI/UX documentation as a request to redesign the site. It is a cont
 | Audience | Primary Need | UI Consequence |
 |---|---|---|
 | Japanese financial reader | Quickly understand institutions, licenses, systems, and adjacent entities. | Japanese labels first, dense navigation, low visual noise. |
-| English / Chinese reader | Read translated mirrors with the same structural affordances. | Language switcher must preserve context; fallback must be honest. |
+| English reader | Read translated mirrors with the same structural affordances. | Language switcher must preserve context; fallback must be honest. |
 | Maintainer | Inspect content coverage, routing, and i18n state. | Counts, badges, paths, and sources must stay visible and stable. |
 | AI / crawler user | Discover full corpus through machine surfaces. | Human UI must not conflict with `llms*`, `ai-index`, sitemap, or API surfaces. |
 
@@ -43,7 +43,7 @@ Do not treat UI/UX documentation as a request to redesign the site. It is a cont
 | UXP-003 | Dense but calm | Financial readers need scan efficiency. Prefer compact tables, rails, chips, breadcrumbs, and grouped lists over large cards or narrative marketing blocks. |
 | UXP-004 | Provenance is visible | Source counts, confidence, review dates, machine-translation badges, and original-language links are product features, not footnotes to hide. |
 | UXP-005 | Navigation never traps | Search, browse, domain pages, breadcrumbs, table of contents, wikilinks, language switcher, and AI entry points should provide multiple routes out of any page. |
-| UXP-006 | Three languages share structure | Japanese, English, and Chinese pages should keep the same layout and controls. Only text and route prefix change. |
+| UXP-006 | Two languages share structure | Japanese and English pages should keep the same layout and controls. Only text and route prefix change. |
 | UXP-007 | Visual identity is restrained | Use cool ledger neutrals, teal-blue primary action, and low-saturation support colors. Avoid purple/purple-blue brand-like palettes, large gradients, decorative blobs, and warm ochre paper themes. |
 | UXP-008 | Mobile is a reading surface | Mobile should preserve search, language switching, title, source/provenance chips, body text, tables, and inline TOC without horizontal text overflow. |
 | UXP-009 | Public knowledge boundary stays clear | UI copy must not encourage private-data entry, customer-specific research, or non-public case handling. |

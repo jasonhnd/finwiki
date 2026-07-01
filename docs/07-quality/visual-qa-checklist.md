@@ -22,12 +22,12 @@ Baseline traits to preserve:
 - Warm editorial paper in light mode and market-desk dark mode, with AA-readable text and muted financial-reference metadata.
 - Compact masthead shell in `site/src/layouts/Base.astro`: skip link, display-serif `FinWiki` brand, localized subtitle, Home / Domains / Browse / AI navigation, Pagefind trigger, theme toggle, language switcher, and footer.
 - Active shell navigation uses `aria-current="page"` plus a visible underline; active state must not rely on color alone.
-- Root `/` opens with `.root-masthead`, trilingual `.root-entry-paths`, `.start-lanes`, supporting `.root-proof`, and technical `.root-ai` links.
+- Root `/` opens with `.root-masthead`, bilingual `.root-entry-paths`, `.start-lanes`, supporting `.root-proof`, and technical `.root-ai` links.
 - Localized `/{lang}/` pages open with `.home-hero`, `.home-search`, and `.home-proof`, then `.review-strip`, `.canonical-strip`, `.taxonomy-grid`, and `.ai-band`.
 - Domain list pages use reader-oriented `.domain-section` groups and `.domain-card` descriptions with counts as secondary metadata.
 - Domain detail pages use `.domain-opener` and `.domain-brief` before the route list, with canonical read-first links and route slugs still visible for maintainers.
 - Entry pages use article-led `.entry-head`, `.evidence-strip`, restrained `.drail--left` current-group rail, `.toc--rail` / `.toc-inline`, and `.prose` content.
-- Japanese, English, and Chinese chrome are all first-class. Japanese pages must not visibly fall back to English UI except allowed artifacts such as `FinWiki`, route slugs, protocols, source titles, and machine files.
+- Japanese and English chrome are first-class. Japanese pages must not visibly fall back to English UI except allowed artifacts such as `FinWiki`, route slugs, protocols, source titles, and machine files.
 - No page-level horizontal overflow, especially around header tools, evidence strips, domain cards, route slugs, source rows, and financial tables.
 
 ## Required Breakpoints
@@ -42,18 +42,18 @@ Capture every matrix route at these viewport widths. Height may vary by tool, bu
 
 ## Editorial Screenshot Matrix
 
-For every row, capture light and dark theme screenshots at `375`, `768`, and `1440` widths. Expand `{lang}` to `ja`, `en`, and `zh` unless the route is explicitly root-only.
+For every row, capture light and dark theme screenshots at `375`, `768`, and `1440` widths. Expand `{lang}` to `ja` and `en` unless the route is explicitly root-only.
 
 | Surface | Language coverage | Required routes / examples | What to verify |
 |---|---|---|---|
-| Root trilingual entrance | `ja`, `en`, `zh` on the same page | `/` | `.root-masthead` leads; language entry cards are visible and non-overlapping; `.start-lanes` are reader-oriented; corpus stats are supporting proof; `.root-ai` is a technical band, not the primary message. |
-| Localized home | `ja`, `en`, `zh` | `/ja/`, `/en/`, `/zh/` | `.home-hero` and `.home-search` are in the first viewport; `.home-proof` does not dominate; `.review-strip` and `.canonical-strip` have distinct kicker and title text; `.taxonomy-grid` descriptions and counts wrap cleanly. |
-| Domain list | `ja`, `en`, `zh` | `/{lang}/domains/` | `.domains__head` explains coverage; `.domain-section` names read like editorial sections; `.domain-card__description` is visible; `.domain-card__count` is secondary and tabular-feeling. |
-| Domain detail | `ja`, `en`, `zh` | `/{lang}/domains/banking/` and one high-count domain such as `/{lang}/domains/regional-banks/` | `.domain-opener` and `.domain-brief` appear before the route inventory; read-first links and canonical anchors are understandable; filter appears only when useful; route slugs remain visible without overpowering titles. |
-| Long entry | `ja`, `en`, `zh` | `/{lang}/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/` | H1, lead, `.evidence-strip`, tags, current-group `.drail--left`, `.toc--rail`, `.toc-inline`, headings, source rows, and long proper nouns remain readable. |
-| Table-heavy entry | `ja`, `en`, `zh` | `/{lang}/banking/japan-banking-license-tier-comparison-matrix/` | `.prose table` scrolls inside its own area; table headers, wikilinks, provenance links, code, and route-like strings remain legible in both themes. |
-| Browse scan surface | `ja`, `en`, `zh` | `/{lang}/browse/` | `.browse__bar`, `.browse__filter`, `.browse__jump`, and `.browse__section` remain usable with localized labels and long slugs; sticky filter does not hide content below the masthead. |
-| Search modal | `ja`, `en`, `zh` | Header Pagefind trigger on `/{lang}/`; home `.pf-hero` trigger on `/{lang}/` | Header and home triggers open the same modal; `Ctrl/Cmd+K` works; results are scoped to the current language; modal contrast and focus are usable in both themes. |
+| Root bilingual entrance | `ja`, `en` on the same page | `/` | `.root-masthead` leads; language entry cards are visible and non-overlapping; `.start-lanes` are reader-oriented; corpus stats are supporting proof; `.root-ai` is a technical band, not the primary message. |
+| Localized home | `ja`, `en` | `/ja/`, `/en/` | `.home-hero` and `.home-search` are in the first viewport; `.home-proof` does not dominate; `.review-strip` and `.canonical-strip` have distinct kicker and title text; `.taxonomy-grid` descriptions and counts wrap cleanly. |
+| Domain list | `ja`, `en` | `/{lang}/domains/` | `.domains__head` explains coverage; `.domain-section` names read like editorial sections; `.domain-card__description` is visible; `.domain-card__count` is secondary and tabular-feeling. |
+| Domain detail | `ja`, `en` | `/{lang}/domains/banking/` and one high-count domain such as `/{lang}/domains/regional-banks/` | `.domain-opener` and `.domain-brief` appear before the route inventory; read-first links and canonical anchors are understandable; filter appears only when useful; route slugs remain visible without overpowering titles. |
+| Long entry | `ja`, `en` | `/{lang}/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/` | H1, lead, `.evidence-strip`, tags, current-group `.drail--left`, `.toc--rail`, `.toc-inline`, headings, source rows, and long proper nouns remain readable. |
+| Table-heavy entry | `ja`, `en` | `/{lang}/banking/japan-banking-license-tier-comparison-matrix/` | `.prose table` scrolls inside its own area; table headers, wikilinks, provenance links, code, and route-like strings remain legible in both themes. |
+| Browse scan surface | `ja`, `en` | `/{lang}/browse/` | `.browse__bar`, `.browse__filter`, `.browse__jump`, and `.browse__section` remain usable with localized labels and long slugs; sticky filter does not hide content below the masthead. |
+| Search modal | `ja`, `en` | Header Pagefind trigger on `/{lang}/`; home `.pf-hero` trigger on `/{lang}/` | Header and home triggers open the same modal; `Ctrl/Cmd+K` works; results are scoped to the current language; modal contrast and focus are usable in both themes. |
 
 ## Contrast Checks
 
@@ -73,7 +73,7 @@ At `375 x 812`, every matrix route must pass the following checks:
 - `document.documentElement.scrollWidth <= document.documentElement.clientWidth`.
 - Header brand, nav, Pagefind trigger, theme toggle, and language switcher do not overlap or create horizontal scroll.
 - `.root-entry`, `.start-lane`, `.review-card`, `.canonical-route`, `.taxonomy-group`, `.domain-card`, `.domain__item`, and `.evidence-strip` wrap without clipping text.
-- Long Japanese, English, and Chinese institution names wrap in cards, rails, filters, tags, evidence items, and source rows.
+- Long Japanese and English institution names wrap in cards, rails, filters, tags, evidence items, and source rows.
 - `.prose table`, `.prose pre`, route slugs, source URLs, and code-like strings scroll inside their own containers if needed; they must not widen the page.
 - No hover, focus, filter, or Pagefind-open state causes layout shift that introduces page-level overflow.
 
@@ -98,7 +98,7 @@ The editorial font setup is performance-sensitive. Treat these as hard guardrail
 - Total self-hosted WOFF2 bytes for the editorial families: maximum `200 KB` compressed unless a new issue explicitly changes the budget.
 - All `@font-face` rules must use `font-display: swap`.
 - All webfont subsets must declare `unicode-range`, `size-adjust`, `ascent-override`, `descent-override`, and `line-gap-override` to reduce layout shift.
-- CJK text must stay on system CJK fonts through `--font-editorial-body-ja`, `--font-editorial-body-zh`, and CJK fallbacks in `--font-editorial-display`; do not add downloaded CJK webfonts.
+- CJK text must stay on system CJK fonts through `--font-editorial-body-ja` and CJK fallbacks in `--font-editorial-display`; do not add downloaded CJK webfonts.
 - No remote font providers, blocking stylesheet imports, or extra preconnects for fonts.
 - CLS target for editorial pages is `< 0.1`; visual QA should reject visible header, masthead, entry title, or table shifts after webfonts swap.
 - Static rendering, Pagefind search, and small page-local scripts remain the performance model. Do not introduce a client framework for layout behavior.

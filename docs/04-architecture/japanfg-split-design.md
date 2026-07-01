@@ -4,9 +4,9 @@
 
 ## 1. 背景与决定
 
-JapanFG 是旗舰领域：≈620 个具体金融机构 entity 页 + **58,061 条 `[[JapanFG/…]]` 入链**（corpus-wide）+ ja/zh/en 三语镜像。当前用 9 个 tag 驱动 sub-INDEX 做导航（[ADR-004](adr.md#adr-004japanfg-用-sub-index-细分而非移文件)：**刻意不移文件**，因为移动会改 URL + 重写数万入链，代价极大且不可逆）。
+JapanFG 是旗舰领域：≈620 个具体金融机构 entity 页 + **58,061 条 `[[JapanFG/…]]` 入链**（corpus-wide）+ ja/en 双语镜像。当前用 9 个 tag 驱动 sub-INDEX 做导航（[ADR-004](adr.md#adr-004japanfg-用-sub-index-细分而非移文件)：**刻意不移文件**，因为移动会改 URL + 重写数万入链，代价极大且不可逆）。
 
-用户判断 JapanFG「太笼统」，决定**物理拆分为新顶级领域**——这是对 ADR-004 的**知情推翻**：接受 ~58,061 条 wikilink 重写 + ≈620 个 URL 变更（旧 URL 404、非 301、不可逆）+ i18n×3 + 站点配置 + audit map + root INDEX 全部同步的代价，换取更细的领域结构。
+用户判断 JapanFG「太笼统」，决定**物理拆分为新顶级领域**——这是对 ADR-004 的**知情推翻**：接受 ~58,061 条 wikilink 重写 + ≈620 个 URL 变更（旧 URL 404、非 301、不可逆）+ i18n×2 + 站点配置 + audit map + root INDEX 全部同步的代价，换取更细的领域结构。
 
 **用户已批准的四个关键决定**：
 1. 拆分方式 = **物理拆成新顶级领域**（非逻辑拆分、非子目录）。
@@ -63,9 +63,9 @@ JapanFG 是旗舰领域：≈620 个具体金融机构 entity 页 + **58,061 条
 
 ## 5. migration 机制（脚本化、原子）
 
-一个脚本对全部 ≈620 entity ×{root, ja, zh, en} 执行：
+一个脚本对全部 ≈620 entity ×{root, ja, en} 执行：
 
-1. `git mv` 到新领域目录（含 3 语镜像）。
+1. `git mv` 到新领域目录（含双语镜像）。
 2. 重写**全部 58,061 条 `[[JapanFG/x]]` → `[[new-domain/x]]`**（精确 path map；正文叙述词、historical CHANGELOG/releases 的史实记述不动，仅改 link target）。
 3. 更新每个 entity frontmatter `domain:`。
 4. 生成 17 个新 `INDEX.md`（landing page）。
@@ -85,7 +85,7 @@ JapanFG 是旗舰领域：≈620 个具体金融机构 entity 页 + **58,061 条
 - `bun tools/release.ts --check --strict` **EXIT=0**：link audit `issues=0`、**dead wikilinks=0**、`canonical_anchor_drift=0`。
 - public source entity 的旧 `JapanFG/<entity>` route 不再作为 canonical path；已迁实体使用 17 个新领域路径。
 - `sitemap.xml` 内旧 `JapanFG/<entity>` URL = 0；`JapanFG/INDEX` umbrella 与 17 个新领域 URL 齐全。
-- domain 数 = 40；i18n 镜像 ×3 全部迁移（ja/zh/en 各域文件数一致）。
+- domain 数 = 40；i18n 镜像 ×2 全部迁移（ja/en 各域文件数一致）。
 - `git diff` 无敏感信息/本地路径；sitemap lastmod 仅当天真实改动页。
 - push 后 GitHub Actions「Deploy FinWiki」build 绿（改了 `site/` 配置，必须 CI 验证）。
 
@@ -96,20 +96,20 @@ worktree 隔离；若 audit 到不了 issues=0 / dead=0，**提交前 abort**（
 ## 9. 分阶段任务大纲（feed 实现计划）
 
 1. **盘点 + 映射**：脚本生成 `mapping.tsv` + `ambiguous.tsv`；人工裁定 ambiguous；锁定 17 领域 × entity 清单。
-2. **迁移脚本**：`git mv` ×{root,ja,zh,en} + 全 wikilink 重写 + frontmatter domain + canonical_anchor 重写。
+2. **迁移脚本**：`git mv` ×{root,ja,en} + 全 wikilink 重写 + frontmatter domain + canonical_anchor 重写。
 3. **新 INDEX + 站点配置 + audit map + root INDEX**。
 4. **discovery 重生成 + 验证门禁**（§7 全过）。
-5. **文档**：ADR-008（推翻 ADR-004 的理由 + 40 领域）、roadmap/backlog/domains 更新、三语 README/CHANGELOG/release notes。
+5. **文档**：ADR-008（推翻 ADR-004 的理由 + 40 领域）、roadmap/backlog/domains 更新、双语 README/CHANGELOG/release notes。
 6. **发布**：worktree → main → tag → GitHub Release → CI 绿。
 
 ## 10. 风险
 
 - **wikilink 重写遗漏/误伤**：58k 条规模，必须精确 path map（只改 `[[JapanFG/<slug>` 前缀，保留 alias/锚点/label），重写后 grep `[[JapanFG/` 必须为 0 且 dead=0。
 - **多 home entity 误分**：ambiguous 必须人工裁定，不能脚本武断。
-- **i18n 不同步**：三语镜像必须同迁，否则 site build 缺文件。
+- **i18n 不同步**：双语镜像必须同迁，否则 site build 缺文件。
 - **site config 漏改**：ENTRY_DOMAIN_DIRS 等 3 处任一漏掉 → 新域不被 Astro 拾取（本地无 node_modules，靠 CI 验证）。
 - **URL 永久变更**：≈620 页旧 URL 消失（已知情接受）。
 
 ## 11. 文档/发布义务
 
-按 `AGENTS.md` 硬性规则：同 session 内更新三语 README + CHANGELOG，跑 discovery 生成，写 `releases/vX.md`，push，更新 GitHub Release。本设计文档在 `docs/`（corpus 排除），不计入公开计数。
+按 `AGENTS.md` 与当前双语发布规则：同 session 内更新双语 README + CHANGELOG，跑 discovery 生成，写 `releases/vX.md`，push，更新 GitHub Release。本设计文档在 `docs/`（corpus 排除），不计入公开计数。
