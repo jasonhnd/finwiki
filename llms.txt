@@ -1,6 +1,6 @@
 # FinWiki
 
-> Public trilingual finance knowledge base covering finance, payments, stablecoins, crypto assets, Japanese financial institutions, policy finance, capital markets, systems, security, and adjacent industries.
+> Public bilingual Japanese-English finance knowledge base covering finance, payments, stablecoins, crypto assets, Japanese financial institutions, policy finance, capital markets, systems, security, and adjacent industries.
 
 ## Best Entry Points
 
@@ -25,8 +25,8 @@
 - Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1483
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 11,153,686
-- Word-like tokens: 1,800,150
+- Non-space UTF-8 characters across Markdown: 10,469,782
+- Word-like tokens: 1,678,095
 
 ## URL Rules for AI Readers
 

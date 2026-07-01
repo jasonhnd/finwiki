@@ -73,7 +73,7 @@ function currentEntryId(file) {
   const i18nIndex = normalized.indexOf(i18nMarker);
   if (i18nIndex !== -1) {
     const rel = routePath(normalized.slice(i18nIndex + i18nMarker.length));
-    return rel.replace(/^(?:ja|en|zh)\//, '');
+    return rel.replace(/^(?:ja|en)\//, '');
   }
 
   const generatedMarker = '/site/src/content/entries/';

@@ -12,10 +12,14 @@ const opt = (name, fallback) => {
   const i = args.indexOf(`--${name}`);
   return i >= 0 && args[i + 1] ? args[i + 1] : fallback;
 };
-const LANGS = opt('langs', 'zh,en')
+const SUPPORTED_LANGS = new Set(['en']);
+const LANGS = opt('langs', 'en')
   .split(',')
   .map((s) => s.trim())
   .filter(Boolean);
+for (const lang of LANGS) {
+  if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
+}
 
 for (const slug of ['custody', 'yucho']) {
   const masked = readFileSync(join(cache, 'masked', `${slug}.txt`), 'utf8');

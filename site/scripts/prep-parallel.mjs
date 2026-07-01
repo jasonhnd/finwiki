@@ -15,7 +15,11 @@ const opt = (n, d) => {
   const i = args.indexOf(`--${n}`);
   return i >= 0 && args[i + 1] ? args[i + 1] : d;
 };
-const LANGS = opt('langs', 'zh,en').split(',').map((s) => s.trim()).filter(Boolean);
+const SUPPORTED_LANGS = new Set(['en']);
+const LANGS = opt('langs', 'en').split(',').map((s) => s.trim()).filter(Boolean);
+for (const lang of LANGS) {
+  if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
+}
 const WORKERS = Number(opt('workers', '10'));
 const SIZE = Number(opt('size', '13'));
 const TOTAL = WORKERS * SIZE;
