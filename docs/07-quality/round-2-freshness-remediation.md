@@ -126,7 +126,7 @@ Any follow-up remediation issue that edits source entries should be treated as c
 ### R2-F1: Highest-signal hubs and Japan-core pages
 
 - Goal: recheck and refresh the 35 source entries assigned to R2-F1 against public sources, then update `last_tended`, `review_by`, and any stale fact/source markers discovered during the review.
-- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,zh,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
+- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
 - Forbidden files: unrelated corpus pages, unrelated docs, `CONTRIBUTING.md`, and manual generated-surface edits not produced by the release command.
 - Validation: `bun tools/fact_freshness_audit.ts --json`, `bun tools/wiki_link_audit.ts --fail-on-issues`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run i18n:status`, and `git diff --check`.
 - Batch source paths:
@@ -172,7 +172,7 @@ fintech/jpmorgan-jpmd-coin.md
 ### R2-F2: Second-wave fintech / exchange / systems queues
 
 - Goal: recheck and refresh the 50 source entries assigned to R2-F2 against public sources, then update `last_tended`, `review_by`, and any stale fact/source markers discovered during the review.
-- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,zh,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
+- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
 - Forbidden files: unrelated corpus pages, unrelated docs, `CONTRIBUTING.md`, and manual generated-surface edits not produced by the release command.
 - Validation: `bun tools/fact_freshness_audit.ts --json`, `bun tools/wiki_link_audit.ts --fail-on-issues`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run i18n:status`, and `git diff --check`.
 - Batch source paths:
@@ -233,7 +233,7 @@ exchanges/jp-exchange-laser-digital-japan.md
 ### R2-F3: Middle queue with domain-clusterable updates
 
 - Goal: recheck and refresh the 60 source entries assigned to R2-F3 against public sources, then update `last_tended`, `review_by`, and any stale fact/source markers discovered during the review.
-- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,zh,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
+- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
 - Forbidden files: unrelated corpus pages, unrelated docs, `CONTRIBUTING.md`, and manual generated-surface edits not produced by the release command.
 - Validation: `bun tools/fact_freshness_audit.ts --json`, `bun tools/wiki_link_audit.ts --fail-on-issues`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run i18n:status`, and `git diff --check`.
 - Batch source paths:
@@ -304,7 +304,7 @@ exchanges/vetoken-host-protocol-flywheel.md
 ### R2-F4: Long-tail high/event freshness pages
 
 - Goal: recheck and refresh the 69 source entries assigned to R2-F4 against public sources, then update `last_tended`, `review_by`, and any stale fact/source markers discovered during the review.
-- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,zh,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
+- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
 - Forbidden files: unrelated corpus pages, unrelated docs, `CONTRIBUTING.md`, and manual generated-surface edits not produced by the release command.
 - Validation: `bun tools/fact_freshness_audit.ts --json`, `bun tools/wiki_link_audit.ts --fail-on-issues`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run i18n:status`, and `git diff --check`.
 - Batch source paths:
@@ -384,7 +384,7 @@ agent-economy/ap2-overview.md
 ### R2-F5: Remaining actionable freshness rows
 
 - Goal: recheck and refresh the 80 source entries assigned to R2-F5 against public sources, then update `last_tended`, `review_by`, and any stale fact/source markers discovered during the review.
-- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,zh,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
+- Allowed files: exactly the source paths listed for this batch below; their `site/src/content/i18n/{ja,en}/...` mirrors only when body changes require retranslation; generated discovery/API/LLM surfaces produced by `bun tools/release.ts --write`; and a release/closeout note only if the implementing issue explicitly requires one.
 - Forbidden files: unrelated corpus pages, unrelated docs, `CONTRIBUTING.md`, and manual generated-surface edits not produced by the release command.
 - Validation: `bun tools/fact_freshness_audit.ts --json`, `bun tools/wiki_link_audit.ts --fail-on-issues`, `bun tools/release.ts --write`, `bun tools/release.ts --check --strict`, `bun run i18n:status`, and `git diff --check`.
 - Batch source paths:
@@ -778,4 +778,3 @@ No rows are omitted from this table. `overrun` is cadence-overrun days, not just
 - `bun run docs:audit`
 - `git diff --check`
 - Open a PR linked to GitHub Issue #72 and stop for review.
-

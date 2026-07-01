@@ -53,7 +53,7 @@
 2. `ls` 各领域真实 disk count → 更新 root `INDEX.md` 的 domain count + 顶部快照。
 3. **全局** `bun tools/wiki_link_audit.ts --fail-on-issues`（此时 agent 全完成，audit 才可靠）→ 确认 `dead=0` `issues=0`。
 4. `release.ts --write` → `--check --strict` EXIT=0。
-5. 三语 README/CHANGELOG note + `releases/vX.md`（见 [release-process.md](../08-operations/release-process.md)）。
+5. 双语 README/CHANGELOG note + `releases/vX.md`（见 [release-process.md](../08-operations/release-process.md)）。
 6. commit / push / tag / `gh release` + `gh run watch`。**commit 要单独跑、message 别含 `verif` 字样**（见 [gotchas.md](../07-quality/gotchas.md) block-no-verify 项）。
 7. 报告，**诚实标注**：内容由并行 agent 生成，结构/链接已 audit，但**事实精度建议人工抽查**。
 

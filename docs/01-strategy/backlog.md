@@ -15,11 +15,11 @@
 | 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
 | 🔴 later | #25 | 小域扩充 round 2（planning） | 复评 #16 后是否还有可补小域。 |
 | 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
-| 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
+| 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文双语计数纳入 `release.ts` 同步。 |
 | 🟢 | #14–#17 | 规划 / 对账任务包 | #14 backlog/roadmap 对账；#15 v12 双批去重任务包；#16 小域扩充候选清单；#17 i18n 刷新批次规划。 |
 | 🟢 | #8 / #9 | Phase E 内容 | #8 v12 双批去重（3 合并、退役 3 页）；#9 日本信托业 license stack 页。 |
 | 🟢 | #19 / #20 / #21 | i18n 批次 | #19 financial-licenses 镜像迁移；#20 cooperative-banks 缺译 + 清 en needs_review；#21 stale 分类 + 刷新（C-1 re-sync / C-2a remap / C-2b 重译）。 |
-| 🟢 | — | **i18n stale 清零（2026-06-19）** | #21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部 opus 重译。`i18n:status` **stale ja/zh/en = 0/0/0**（current=1436、fidelity ok、orphaned/missing/drift 全 0）。详见 [CHANGELOG](../../CHANGELOG.md)。 |
+| 🟢 | — | **i18n stale 清零（2026-06-19）** | #21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部 opus 重译。当前双语 `i18n:status` 以 ja/en 为准，要求 stale/missing/orphaned/drift 全 0。详见 [CHANGELOG](../../CHANGELOG.md)。 |
 
 ## historical canonical_anchor（P1）
 
@@ -37,7 +37,7 @@
 |---|---|---|
 | 🟢 | `security` 4 个 planned 页 | **v12 完成**（+4，security 6→9）。 |
 | 🟢 | 薄领域补内容 | **v12 + v2026.06.05-1 完成**。v12 +46 entry；v05-1 并行 2 agent 把最薄的 `non-profit` 6→12、`trade` 6→12（+12）。现无「最薄」域。 |
-| 🟢 | i18n 翻译（v12 的 43 + v05-1 的 12）| **v2026.06.05-2 完成**。55 个 content entry × ja/zh/en = 165 个镜像，由 8 个并行 subagent 直接翻译（**不需要密钥**——`translate.mjs` 需密钥只因它是独立程序调另一个 Haiku；subagent 自己就能译）。镜像复刻流水线格式（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema）。全局 link-integrity 检查 `checked=165 link_mismatches=0`。17 个新域 INDEX 不需镜像（landing 由 config 生成）。教训：i18n 不在 link audit 内，须自行验证 `[[link]]`/数字 byte 一致（已记入做法）。 |
+| 🟢 | i18n 翻译（v12 的 43 + v05-1 的 12）| **v2026.06.05-2 完成**。55 个 content entry 的 ja/en 镜像由 8 个并行 subagent 直接翻译（**不需要密钥**——`translate.mjs` 需密钥只因它是独立程序调另一个 Haiku；subagent 自己就能译）。镜像复刻流水线格式（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema）。全局 link-integrity 检查要求 link_mismatches=0。17 个新域 INDEX 不需镜像（landing 由 config 生成）。教训：i18n 不在 link audit 内，须自行验证 `[[link]]`/数字 byte 一致（已记入做法）。 |
 | 🟢 | 各领域 INDEX count 常态校准 | **v2026.06.05-4 完成一轮**。root `INDEX.md` 中 13 个 thematic domain Entries 值各 +1，已按 non-INDEX `.md` disk 实数校正。今后内容增删仍需 Phase 2 手动对账（见维护提醒）。 |
 | 🔵 | 评估/合并 v12 双批近重复主题 | **GitHub #8（内容）/ #15（规划任务包）**。v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
 
@@ -47,7 +47,7 @@
 |---|---|---|
 | 🟢 | 9 个未分类 entity | **拆分时解决**（v04-4）。sogo-shosha 母公司经映射裁定归入 `financial-conglomerates` 域（见 ADR-008 / jfg_map RESOLVE）。 |
 | 🟢 | 各机构类型内容深化 | **完成**。~110 个 <250 词存根全部深化（业务模式 / 监管定位 / 集团关系）。**v05-3 完成 58 个**（regional-banks 48 + cooperative-banks 10）+ **v05-5 完成剩余 50 个**（life-insurers 8/securities-firms 8/asset-managers 7/payment-firms 7/trust-banks 6/megabanks 5/card-issuers 5+ 小域 4）。8 并行 subagent·2 batch，无捏造 web 核实并订正多处既有 stub 错误。累计 108 个。 |
-| 🟢 | split 旧路由批量修 | **v2026.06.06-1 完成**。非 thin 实体页（route/footer/正文）+ 其 ja/zh/en i18n mirror 的 `[[JapanFG/INDEX]]` → 各域 INDEX，共 575 source + 2069 mirror = 2644 file。link target source/mirror byte 一致、footer 去重、mirror `source: japanfg/` 指针订正 1887；`source_hash` 刻意不变（mirror 已 stale，改写会伪证 fresh 翻译并冻结 stale，保留自愈信号）。domain INDEX 的 umbrella nav（`[[JapanFG/INDEX|JapanFG]]`）与 releases 史实保留。audit issues=0。 |
+| 🟢 | split 旧路由批量修 | **v2026.06.06-1 完成**。非 thin 实体页（route/footer/正文）+ 其 ja/en i18n mirror 的 `[[JapanFG/INDEX]]` → 各域 INDEX，覆盖 source 与 mirror file 批量修正。link target source/mirror byte 一致、footer 去重、mirror `source: japanfg/` 指针订正；`source_hash` 刻意不变（mirror 已 stale，改写会伪证 fresh 翻译并冻结 stale，保留自愈信号）。domain INDEX 的 umbrella nav（`[[JapanFG/INDEX|JapanFG]]`）与 releases 史实保留。audit issues=0。 |
 
 ## historical 工具 / 基础设施
 

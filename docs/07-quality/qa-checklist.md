@@ -14,8 +14,8 @@
 - [ ] For delegated implementation, a task packet lists source docs, allowed files, forbidden files, commands and return format.
 - [ ] Code-agent diffs do not modify requirements/spec/release/governance docs unless explicitly assigned.
 - [ ] Active subagents were kept at 10 or fewer, and finished agents were closed/retired before launching another batch.
-- [ ] `README.md` and `CHANGELOG.md` remain trilingual.
-- [ ] New release note exists and is ordered Japanese, English, Chinese.
+- [ ] `README.md` and `CHANGELOG.md` remain bilingual.
+- [ ] New release note exists and is ordered Japanese, English.
 - [ ] `bun tools/release.ts --write` was run when public release surface changed.
 - [ ] `bun tools/release.ts --check --strict` exits 0.
 - [ ] `bun tools/wiki_link_audit.ts --fail-on-issues` exits 0.
