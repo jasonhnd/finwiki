@@ -1,0 +1,67 @@
+name: Truthfulness Audit
+
+on:
+  schedule:
+    # Weekly maintenance sweep: Monday 03:20 JST.
+    - cron: "20 18 * * 0"
+  workflow_dispatch:
+    inputs:
+      as_of:
+        description: "Optional freshness date in YYYY-MM-DD. Defaults to the JST run date."
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Resolve audit date
+        id: resolve_date
+        shell: bash
+        env:
+          REQUESTED_AS_OF: ${{ github.event.inputs.as_of || '' }}
+        run: |
+          as_of="$REQUESTED_AS_OF"
+          if [[ -z "$as_of" ]]; then
+            as_of="$(TZ=Asia/Tokyo date +'%Y-%m-%d')"
+          fi
+
+          if [[ ! "$as_of" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+            echo "::error::as_of must be YYYY-MM-DD, got '$as_of'"
+            exit 1
+          fi
+
+          echo "as_of=$as_of" >> "$GITHUB_OUTPUT"
+
+      - name: Run truthfulness audits
+        run: bun run audit:all --out audit-artifacts --as-of "${{ steps.resolve_date.outputs.as_of }}"
+
+      - name: Publish threshold summary
+        if: always()
+        shell: bash
+        run: |
+          if [[ -f audit-artifacts/summary.md ]]; then
+            cat audit-artifacts/summary.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No audit summary was generated." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload audit artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: truthfulness-audit-${{ steps.resolve_date.outputs.as_of }}
+          path: audit-artifacts/
+          if-no-files-found: error
