@@ -9,108 +9,105 @@ Use this checklist for any change to:
 - `site/src/components/*.astro`
 - `site/src/pages/**`
 - `site/src/i18n/ui.ts`, `domains.ts`, or `groups.ts`
-- Any docs that change UI/UX, theme, accessibility, localization, or page-rendering expectations
+- Any docs that change UI/UX, theme, accessibility, localization, performance, or page-rendering expectations
 
-Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme System](../04-architecture/theme-system.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), [Site Rendering](../05-functional-specs/site-rendering.md), [Search](../05-functional-specs/search.md).
+Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Human Site Editorial Design](../02-product/human-site-editorial-design.md), [Theme System](../04-architecture/theme-system.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), [Site Rendering](../05-functional-specs/site-rendering.md), [Search](../05-functional-specs/search.md).
 
-## Baseline To Preserve
+## Editorial Baseline To Preserve
 
-The current UI/UX is accepted. Visual QA should first confirm that a change preserves the existing reference-site behavior unless the issue explicitly requests a scoped visual change.
+The current human site is an editorial financial-reference surface, not a neutral database UI. Visual QA should confirm that a change preserves the Draft A+B+C editorial behavior unless the issue explicitly scopes a visual change.
 
 Baseline traits to preserve:
 
-- Cool neutral page/surface palette with teal-blue primary action and low-saturation support colors.
-- Compact sticky header with visible navigation, search, theme toggle and language switcher.
-- Home page as reader entry: search, corpus stats, recent entries, domain map and AI/crawler links visible early.
-- Entry page as financial reference layout: domain rail, article column, TOC, provenance/freshness chips, machine-translation badge and readable prose.
-- Browse/domain pages as dense scan surfaces with counts, route visibility and localized filters.
-- Japanese UI chrome as the primary quality signal for `/ja/`.
-- No marketing-landing redesign, decorative gradients, purple/purple-blue brand drift or card-heavy visual noise.
+- Warm editorial paper in light mode and market-desk dark mode, with AA-readable text and muted financial-reference metadata.
+- Compact masthead shell in `site/src/layouts/Base.astro`: skip link, display-serif `FinWiki` brand, localized subtitle, Home / Domains / Browse / AI navigation, Pagefind trigger, theme toggle, language switcher, and footer.
+- Active shell navigation uses `aria-current="page"` plus a visible underline; active state must not rely on color alone.
+- Root `/` opens with `.root-masthead`, trilingual `.root-entry-paths`, `.start-lanes`, supporting `.root-proof`, and technical `.root-ai` links.
+- Localized `/{lang}/` pages open with `.home-hero`, `.home-search`, and `.home-proof`, then `.review-strip`, `.canonical-strip`, `.taxonomy-grid`, and `.ai-band`.
+- Domain list pages use reader-oriented `.domain-section` groups and `.domain-card` descriptions with counts as secondary metadata.
+- Domain detail pages use `.domain-opener` and `.domain-brief` before the route list, with canonical read-first links and route slugs still visible for maintainers.
+- Entry pages use article-led `.entry-head`, `.evidence-strip`, restrained `.drail--left` current-group rail, `.toc--rail` / `.toc-inline`, and `.prose` content.
+- Japanese, English, and Chinese chrome are all first-class. Japanese pages must not visibly fall back to English UI except allowed artifacts such as `FinWiki`, route slugs, protocols, source titles, and machine files.
+- No page-level horizontal overflow, especially around header tools, evidence strips, domain cards, route slugs, source rows, and financial tables.
 
-## Required Viewports
+## Required Breakpoints
 
-| Viewport | Purpose |
-|---|---|
-| 1440 x 1000 | Desktop rails, TOC, domain grids, search modal, table density. |
-| 900 x 1000 | Tablet transition for browse columns and entry rail behavior. |
-| 390 x 844 | Mobile Japanese reading, header/tool wrapping, inline TOC, table overflow. |
+Capture every matrix route at these viewport widths. Height may vary by tool, but keep it stable within a QA run.
 
-## Pages To Spot Check
+| Breakpoint | Suggested viewport | Purpose |
+|---|---:|---|
+| Mobile | `375 x 812` | Small-phone header wrapping, language text, route slugs, table scrolling, no horizontal overflow. |
+| Tablet | `768 x 1024` | Rail collapse transitions, domain grids, review/canonical strips, Pagefind and filter controls. |
+| Desktop | `1440 x 1000` | Full masthead, desktop entry rails, sticky TOC, domain taxonomy density, large-table behavior. |
 
-| Page Type | Example |
-|---|---|
-| Home | `/ja/`, `/en/`, `/zh/` |
-| Domain list | `/ja/domains/` |
-| Domain detail | One large domain such as `/ja/domains/exchanges/` or `/ja/domains/regional-banks/` |
-| Browse | `/ja/browse/` |
-| Entry | One long Japanese entry with tables and several headings |
-| Translated entry | One `en` or `zh` entry showing translation behavior |
-| Machine surfaces | Confirm UI changes did not affect `llms.txt`, `ai-index.json`, sitemap, or API output expectations |
+## Editorial Screenshot Matrix
 
-## Checklist
+For every row, capture light and dark theme screenshots at `375`, `768`, and `1440` widths. Expand `{lang}` to `ja`, `en`, and `zh` unless the route is explicitly root-only.
 
-### Theme
+| Surface | Language coverage | Required routes / examples | What to verify |
+|---|---|---|---|
+| Root trilingual entrance | `ja`, `en`, `zh` on the same page | `/` | `.root-masthead` leads; language entry cards are visible and non-overlapping; `.start-lanes` are reader-oriented; corpus stats are supporting proof; `.root-ai` is a technical band, not the primary message. |
+| Localized home | `ja`, `en`, `zh` | `/ja/`, `/en/`, `/zh/` | `.home-hero` and `.home-search` are in the first viewport; `.home-proof` does not dominate; `.review-strip` and `.canonical-strip` have distinct kicker and title text; `.taxonomy-grid` descriptions and counts wrap cleanly. |
+| Domain list | `ja`, `en`, `zh` | `/{lang}/domains/` | `.domains__head` explains coverage; `.domain-section` names read like editorial sections; `.domain-card__description` is visible; `.domain-card__count` is secondary and tabular-feeling. |
+| Domain detail | `ja`, `en`, `zh` | `/{lang}/domains/banking/` and one high-count domain such as `/{lang}/domains/regional-banks/` | `.domain-opener` and `.domain-brief` appear before the route inventory; read-first links and canonical anchors are understandable; filter appears only when useful; route slugs remain visible without overpowering titles. |
+| Long entry | `ja`, `en`, `zh` | `/{lang}/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/` | H1, lead, `.evidence-strip`, tags, current-group `.drail--left`, `.toc--rail`, `.toc-inline`, headings, source rows, and long proper nouns remain readable. |
+| Table-heavy entry | `ja`, `en`, `zh` | `/{lang}/banking/japan-banking-license-tier-comparison-matrix/` | `.prose table` scrolls inside its own area; table headers, wikilinks, provenance links, code, and route-like strings remain legible in both themes. |
+| Browse scan surface | `ja`, `en`, `zh` | `/{lang}/browse/` | `.browse__bar`, `.browse__filter`, `.browse__jump`, and `.browse__section` remain usable with localized labels and long slugs; sticky filter does not hide content below the masthead. |
+| Search modal | `ja`, `en`, `zh` | Header Pagefind trigger on `/{lang}/`; home `.pf-hero` trigger on `/{lang}/` | Header and home triggers open the same modal; `Ctrl/Cmd+K` works; results are scoped to the current language; modal contrast and focus are usable in both themes. |
 
-- [ ] Light theme uses cool neutral surfaces and teal-blue action color.
-- [ ] Dark theme preserves contrast for text, links, chips, tables, and code.
-- [ ] `:root` and `[data-theme="dark"]` token values in `global.css` still match the approved theme direction unless a scoped issue changed them.
-- [ ] No dominant purple/purple-blue, warm ochre, beige, brown/orange, or single-hue palette drift.
-- [ ] No decorative gradients, blobs, or marketing-style atmospheric backgrounds.
-- [ ] Focus rings remain visible in both themes.
+## Contrast Checks
 
-### Header And Shell
+Run contrast checks in light and dark themes for all matrix surfaces.
 
-- [ ] Header stays compact and sticky.
-- [ ] Brand, domain nav, browse nav, AI link, search, theme toggle, and language switcher do not overlap.
-- [ ] Header search still opens the Pagefind modal through the shared shell, not a separate search UI.
-- [ ] Skip link works and is visible on focus.
-- [ ] Footer links remain readable and do not dominate the page.
+- Body text, metadata, nav labels, buttons, cards, source rows, table text, and placeholder text must meet WCAG AA normal-text contrast: `>= 4.5:1`.
+- Large text at `24px` regular or `18.66px` bold and above must meet `>= 3:1`.
+- Non-text UI that communicates state, including focus rings, active nav underlines, input borders, evidence tones, badges, and icon buttons, must meet `>= 3:1` against adjacent colors.
+- Links must remain identifiable without color alone through underline, border, shape, label, or surrounding structure.
+- Active navigation must expose both visual state and `aria-current="page"`.
+- Evidence states in `.evidence-item--high`, `.evidence-item--medium`, `.evidence-item--low`, `.evidence-item--source`, `.evidence-badge--warn`, and `.evidence-badge--link` must remain distinguishable in both themes.
 
-### Search
+## Mobile Overflow Checks
 
-- [ ] Header search trigger opens Pagefind modal.
-- [ ] `Ctrl/Cmd+K` opens search.
-- [ ] Home search trigger opens the same modal.
-- [ ] Search results are scoped to the current language.
-- [ ] Search modal is usable in light and dark themes.
+At `375 x 812`, every matrix route must pass the following checks:
 
-### Japanese UI Chrome
+- `document.documentElement.scrollWidth <= document.documentElement.clientWidth`.
+- Header brand, nav, Pagefind trigger, theme toggle, and language switcher do not overlap or create horizontal scroll.
+- `.root-entry`, `.start-lane`, `.review-card`, `.canonical-route`, `.taxonomy-group`, `.domain-card`, `.domain__item`, and `.evidence-strip` wrap without clipping text.
+- Long Japanese, English, and Chinese institution names wrap in cards, rails, filters, tags, evidence items, and source rows.
+- `.prose table`, `.prose pre`, route slugs, source URLs, and code-like strings scroll inside their own containers if needed; they must not widen the page.
+- No hover, focus, filter, or Pagefind-open state causes layout shift that introduces page-level overflow.
 
-- [ ] `/ja/` header, search placeholder, home copy, domain labels, metadata labels, badges, empty states, and footer are Japanese.
-- [ ] English remains only for allowed artifacts or proper nouns such as `FinWiki`, `llms.txt`, brand names, protocols, tickers, or source titles.
-- [ ] Japanese titles and long institution names do not overflow controls.
+## Keyboard, Focus, And Motion Checks
 
-### Entry Page
+- Tab order starts with the skip link, then masthead controls, then page-local controls, then content links.
+- The skip link moves focus to `#main` and is visible while focused.
+- Header nav links, Pagefind triggers, theme toggle, language switcher, domain filters, browse filters, cards, TOC links, tags, source links, and footer links all show visible `:focus-visible`.
+- Focus states do not shift layout or clip inside compact controls.
+- Pagefind modal can be opened with `Ctrl/Cmd+K`, navigated by keyboard, and dismissed without trapping focus incorrectly.
+- Domain and browse filters are keyboard operable and expose localized no-match text.
+- With `prefers-reduced-motion: reduce`, transitions and animations are effectively disabled; no essential information depends on motion.
+- TOC active-section highlighting may update on scroll, but the page must remain usable if `IntersectionObserver` is unavailable.
 
-- [ ] Breadcrumbs show domain context.
-- [ ] Factbar chips wrap cleanly and preserve confidence, updated date, review date, source count, machine translation badge, and original-language link when present.
-- [ ] Left domain rail is visible on desktop and hidden on mobile.
-- [ ] Right TOC is visible on desktop and replaced by inline TOC on smaller screens.
-- [ ] Central article measure remains close to the current reading width; long Japanese titles do not force rails or chips out of view.
-- [ ] `.prose` headings, body text, wikilinks, blockquotes, code, and tables are readable.
-- [ ] Wide tables scroll horizontally inside the table area, not the whole page.
+## Webfont And Performance Guardrails
 
-### Domain And Browse Pages
+The editorial font setup is performance-sensitive. Treat these as hard guardrails for future UI changes:
 
-- [ ] Domain groups and counts are scannable.
-- [ ] Domain detail filter appears only when useful and has localized placeholder/empty state.
-- [ ] Browse filter is sticky, fast, and does not hide content under the header.
-- [ ] Domain jump links wrap without overlap.
-
-### Accessibility And Stability
-
-- [ ] Keyboard navigation reaches search, theme toggle, language switcher, nav links, filters, and article links.
-- [ ] Hover/focus states do not shift layout.
-- [ ] Text is not clipped inside buttons, chips, cards, rails, or filters.
-- [ ] No page-level horizontal overflow at the required mobile viewport.
-- [ ] `prefers-reduced-motion` behavior is respected by CSS transitions/animations.
+- Webfont families: maximum `2` self-hosted families, currently `Source Serif 4` and `Inter`.
+- Preloads: maximum `1` font preload in `site/src/layouts/Base.astro`, currently `/fonts/source-serif-4/source-serif-4-latin-600.woff2`.
+- Initial preloaded font bytes: maximum `30 KB` compressed.
+- Total self-hosted WOFF2 bytes for the editorial families: maximum `200 KB` compressed unless a new issue explicitly changes the budget.
+- All `@font-face` rules must use `font-display: swap`.
+- All webfont subsets must declare `unicode-range`, `size-adjust`, `ascent-override`, `descent-override`, and `line-gap-override` to reduce layout shift.
+- CJK text must stay on system CJK fonts through `--font-editorial-body-ja`, `--font-editorial-body-zh`, and CJK fallbacks in `--font-editorial-display`; do not add downloaded CJK webfonts.
+- No remote font providers, blocking stylesheet imports, or extra preconnects for fonts.
+- CLS target for editorial pages is `< 0.1`; visual QA should reject visible header, masthead, entry title, or table shifts after webfonts swap.
+- Static rendering, Pagefind search, and small page-local scripts remain the performance model. Do not introduce a client framework for layout behavior.
 
 ## Validation Commands
 
 ```bash
-bun tools/release.ts --check --strict
-bun tools/wiki_link_audit.ts --fail-on-issues
+bun run docs:audit
 git diff --check
 ```
 
-If rendered site behavior changed, also run the Astro build and duplicate-id check before publishing.
+If rendered site behavior changed in the same issue, also run the release check, Astro build, duplicate-id check, and a browser screenshot pass before publishing. Issue #121 is documentation-only, so the required validation is limited to the two commands above.
