@@ -14,3 +14,4 @@ site/dist/
 .delivery.yml
 .loopcoder/
 /ROADMAP.md
+.claude/
