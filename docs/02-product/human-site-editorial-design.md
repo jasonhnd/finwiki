@@ -9,7 +9,7 @@ Scope: human-facing Astro site only. This document does not authorize corpus, to
 
 Move the human site from a competent reference template toward a deliberate financial editorial product: closer to a compact FT / Economist / Nikkei Asia reading system than a database index. The site should still expose search, provenance, freshness, and route structure, but those mechanics should support reading rather than dominate the first impression.
 
-The implementation should stay fast, static, and trilingual. Japanese remains the primary first-class reading surface; English and Chinese should feel intentionally designed, not like translated chrome placed inside a Japanese-only template.
+The implementation should stay fast, static, and bilingual (ja/en). Japanese remains the primary first-class reading surface; English should feel intentionally designed, not like translated chrome placed inside a Japanese-only template.
 
 ## Current-State Audit
 
@@ -36,8 +36,8 @@ The current implementation is usable and internally consistent, but the visible 
 3. Light mode is the default product.
    The default should be bright, print-adjacent, and calm. Dark mode should be a deliberate market-terminal reading mode, not the same palette inverted.
 
-4. Three languages are designed, not merely translated.
-   Japanese, English, and Chinese need language-specific typography stacks, line-height tuning, heading behavior, and line-length targets.
+4. Two languages are designed, not merely translated.
+   Japanese and English need language-specific typography stacks, line-height tuning, heading behavior, and line-length targets.
 
 5. Static performance is non-negotiable.
    The design must preserve Astro static rendering, Pagefind, low JavaScript, fast first render, and stable Core Web Vitals.
@@ -64,10 +64,9 @@ Use a serif-led hierarchy with a highly readable sans body. Avoid viewport-scale
 
 | Token | Proposed value | Mapping |
 |---|---|---|
-| `--font-editorial-display` | `"Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif` | Masthead, article H1, section openers, domain essays. |
+| `--font-editorial-display` | `"Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif` | Masthead, article H1, section openers, domain essays. |
 | `--font-editorial-body-ja` | `"Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", system-ui, sans-serif` | Japanese body and UI. |
 | `--font-editorial-body-en` | `Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif` | English body and UI. |
-| `--font-editorial-body-zh` | `"Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif` | Chinese body and UI. |
 | `--font-editorial-mono` | `"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace` | Routes, counts, source IDs, code. |
 
 Language tuning:
@@ -76,7 +75,6 @@ Language tuning:
 |---|---:|---:|---:|---|
 | Japanese | `1rem` to `1.0625rem` | `1.78` | `38rem` to `44rem` | Prefer slightly wider tracking only in labels, not body. Keep `palt`. |
 | English | `1rem` to `1.0625rem` | `1.65` | `42rem` to `48rem` | Avoid compressed columns for long entity pages. |
-| Chinese | `1rem` to `1.0625rem` | `1.72` | `40rem` to `46rem` | Avoid overly small metadata; long proper nouns need wrapping. |
 
 Type scale:
 
@@ -146,8 +144,8 @@ The landing pages should stop leading with raw corpus inventory.
 
 Root `/`:
 
-1. Masthead first: FinWiki as a financial field guide, with trilingual entry choices.
-2. A concise editorial deck explaining the corpus in one paragraph per language.
+1. Masthead first: FinWiki as a financial field guide, with bilingual ja/en entry choices.
+2. A concise editorial deck explaining the corpus in one paragraph per supported language.
 3. "Start with" lanes: Japan core institutions, payments and cards, exchanges and securities, policy and regulation, global comparison matrices.
 4. Corpus stats as supporting proof, not primary headline.
 5. AI/crawler links in a technical footer band.
@@ -182,7 +180,7 @@ Entry page:
 
 | Surface | Current | Desired |
 |---|---|---|
-| Root index | Trilingual portal with counts and top domains. | Editorial masthead, trilingual entry paths, curated start lanes, stats as support. |
+| Root index | Bilingual portal with counts and top domains. | Editorial masthead, ja/en entry paths, curated start lanes, stats as support. |
 | Localized home | Search, recent entries, domain groups, AI links. | Publication-like home with search, latest reviewed, canonical guides, domain narratives. |
 | Domain index | Grouped cards with counts. | Sectioned taxonomy with brief descriptions and muted count badges. |
 | Domain detail | File-list style grid with route slugs. | Domain briefing page plus filterable entry list. |
@@ -211,11 +209,10 @@ Astro and CWV:
 - Avoid heavy image hero assets unless they have fixed dimensions, responsive sizes, and clear value.
 - Preserve no page-level horizontal overflow, especially for tables, route slugs, factbars, and source lists.
 
-Trilingual behavior:
+Bilingual behavior:
 
-- `lang="ja"`, `lang="en"`, and `lang="zh"` surfaces must tune line-height and measure separately.
+- `lang="ja"` and `lang="en"` surfaces must tune line-height and measure separately.
 - English UI should not leak into Japanese chrome except proper nouns, route slugs, acronyms, protocols, and machine artifact names.
-- Chinese long proper-noun runs must wrap cleanly in cards, chips, tables, and source rows.
 
 ## Implementation Issue Drafts
 
@@ -238,7 +235,7 @@ Validation:
 
 - `bun run docs:audit`
 - `bun tools/release.ts --check --strict`
-- Visual QA for `/`, `/ja/`, `/en/`, `/zh/`, one long entry, one table-heavy entry
+- Visual QA for `/`, `/ja/`, `/en/`, one long entry, one table-heavy entry
 - Mobile overflow check
 
 ### Draft B: Editorial Shell And Entry Layout
@@ -290,7 +287,7 @@ Validation:
 - `bun run docs:audit`
 - `bun run i18n:status`
 - Pagefind/search smoke check
-- Visual QA for ja/en/zh landing and domain pages
+- Visual QA for ja/en landing and domain pages
 
 ### Draft D: Editorial QA And Performance Guardrails
 
@@ -323,5 +320,5 @@ Validation:
 
 - This document exists at `docs/02-product/human-site-editorial-design.md`.
 - It audits current implementation surfaces using actual file names.
-- It specifies typography, color, rhythm, navigation chrome, landing redesign, current-vs-desired states, real references, trilingual constraints, WCAG 2.2, Astro performance, and follow-up issue drafts with Allowed Files.
+- It specifies typography, color, rhythm, navigation chrome, landing redesign, current-vs-desired states, real references, bilingual constraints, WCAG 2.2, Astro performance, and follow-up issue drafts with Allowed Files.
 - It does not modify `site/src/**`, design tokens, corpus pages, generated surfaces, or `CONTRIBUTING.md`.

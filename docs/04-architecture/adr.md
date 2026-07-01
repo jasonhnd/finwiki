@@ -70,3 +70,10 @@
 - **决定**：选 **B**。模型角色按能力分层：spec agent 负责需求、架构、功能规格、非功能要求、RTM、acceptance；code agent 负责 bounded implementation；main session 负责 worktree、验证、commit/push 和 release。
 - **理由**：规格优先让代码任务更小、更确定，快速代码实现模型的速度用于执行而不是需求推理；高推理规格模型保留对产品、架构、公开信息边界和验收的控制。
 - **影响**：新增 [model-agent-workflow.md](../06-implementation/model-agent-workflow.md)。并行 agent 仍遵守 file-scope，active subagent 绝对上限 10；每批完成后必须关闭/retire，再启动下一批。代码 agent 默认不得修改 BRD/PRD/ARD/FSD/NFR/RTM、README/CHANGELOG/release note 或发布门禁，除非任务包明确授权。
+
+## ADR-010：Retire Chinese; adopt bilingual ja/en
+
+- **背景**：Chinese mirror corpus was machine-translated and created a third maintenance lane across routing, language switch UI, discovery surfaces, typography, and QA. Keeping it current raised ongoing cost while Japanese remained the source corpus and English remained the priority mirror.
+- **决定**：FinWiki adopts a bilingual model: Japanese (`ja`) as the first-class source surface and English (`en`) as the intentional mirror. Supported language configuration should become `langCodes = ['ja','en']`.
+- **理由**：A two-language model keeps editorial and QA effort focused on the source corpus plus one maintained mirror, while preserving the Japanese AI-facing raw Markdown corpus unchanged.
+- **影响**：The follow-up code issue deletes `site/src/content/i18n/zh/` from the active tree, removes the `/zh/` route family and Chinese language switch option, and makes `/zh/...` URLs return ordinary 404s without redirects or stub pages. Tooling, documentation, and human-facing surfaces should become ja/en only.
