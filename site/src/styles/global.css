@@ -2,7 +2,7 @@
    FinWiki — editorial financial-reference design system
    One stylesheet, imported once by the shell. Tokens drive light + dark.
    Direction: warm editorial paper, deliberate market-desk dark mode,
-   serif display + trilingual body stacks, hairline structure,
+   serif display + bilingual body stacks, hairline structure,
    sources/provenance as first-class.
    ========================================================================== */
 
@@ -105,10 +105,9 @@
   --selection: #ecd5bc;
 
   /* type */
-  --font-editorial-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif;
+  --font-editorial-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", serif;
   --font-editorial-body-ja: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Yu Gothic UI", "Noto Sans JP", system-ui, sans-serif;
   --font-editorial-body-en: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-editorial-body-zh: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
   --font-editorial-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 
   --font-display: var(--font-editorial-display);
@@ -229,13 +228,6 @@ html[lang="en"] {
   --font-body: var(--font-editorial-body-en);
   --lh-body: 1.65;
   --measure-entry: 48rem;
-  --font-features-body: "kern", "liga";
-}
-
-html[lang="zh"] {
-  --font-body: var(--font-editorial-body-zh);
-  --lh-body: 1.72;
-  --measure-entry: 46rem;
   --font-features-body: "kern", "liga";
 }
 
