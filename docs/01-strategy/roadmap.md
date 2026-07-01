@@ -109,6 +109,7 @@ This keeps range expansion tied to the wiki's ability to remain true, sourced, a
 ### Implement Recurring Audit Runner
 
 - Goal: add a read-only command or CI workflow that runs the three audits, writes machine-readable artifacts, and reports threshold status.
+- Runbook: [Truthfulness Audit Runbook](../08-operations/truthfulness-audit-runbook.md).
 - Allowed files: tooling / workflow files named in the issue, plus documentation for the command.
 - Non-goals: no corpus edits, no automatic source insertion, no automatic issue closure.
 - Validation: audit commands, docs audit, release check if workflow or package scripts change, and `git diff --check`.
