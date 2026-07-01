@@ -22,7 +22,7 @@ import { iterMarkdownFiles, isPublicPage } from "../lib/markdown_helpers";
 
 const ROOT = path.resolve(import.meta.dir, "..");
 const I18N_DIR = path.join(ROOT, "site", "src", "content", "i18n");
-const LANGS = ["ja", "zh", "en"] as const;
+const LANGS = ["ja", "en"] as const;
 
 const ANSI_GREEN = "\x1b[32m";
 const ANSI_YELLOW = "\x1b[33m";

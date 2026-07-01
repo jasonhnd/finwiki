@@ -3,7 +3,7 @@ import { languages, type Lang, restOf, t, u } from '../i18n/ui';
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const rest = restOf(Astro.url.pathname);
-const short: Record<Lang, string> = { ja: '日', en: 'EN', zh: '中' };
+const short: Record<Lang, string> = { ja: '日', en: 'EN' };
 ---
 <div class="lang-switch" role="group" aria-label={t(lang, 'aria.language')}>
   {Object.entries(languages).map(([code]) => (

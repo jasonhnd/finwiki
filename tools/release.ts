@@ -166,8 +166,6 @@ function syncReadmeText(text: string, counts: Counts, snapshotDate: string): str
     if (next.startsWith("| Text volume |")) {
       if (next.includes("~")) {
         next = `| Text volume | ~${charsM}M chars | ~${formatInt(counts.nonspaceChars)} non-space UTF-8 characters across Markdown |`;
-      } else if (next.includes("约")) {
-        next = `| Text volume | 约${charsMan}万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 ${formatInt(counts.nonspaceChars)}） |`;
       } else {
         next = `| Text volume | 約${charsMan}万字 | Markdown 全体の空白除外 UTF-8 文字数（約 ${formatInt(counts.nonspaceChars)}） |`;
       }
@@ -175,8 +173,6 @@ function syncReadmeText(text: string, counts: Counts, snapshotDate: string): str
     if (next.startsWith("| Word-like tokens |")) {
       if (next.includes("~")) {
         next = `| Word-like tokens | ~${tokensM}M | Approximate English / CJK mixed-corpus token count |`;
-      } else if (next.includes("约")) {
-        next = `| Word-like tokens | 约${tokensMan}万 | English / CJK mixed corpus 的近似 token count |`;
       } else {
         next = `| Word-like tokens | 約${tokensMan}万 | English / CJK mixed corpus の近似 token count |`;
       }
@@ -227,20 +223,15 @@ function syncIndexHtmlText(text: string, counts: Counts, snapshotDate: string): 
     .replace(/[\d,]+(?=\s*エントリー)/g, `${formatInt(counts.linkAuditedEntries)}`)
     .replace(/[\d,]+(?=\s*領域)/g, `${counts.topicalDomains}`)
     .replace(/約[\d,]+\s*万字/g, `約${charsMan}万字`)
-    .replace(/约[\d,]+\s*万字/g, `约${charsMan}万字`)
-    // Entry counters that are not "link-audited entries": JP 件 / EN bare entries / ZH 个条目.
+    // Entry counters that are not "link-audited entries": JP 件 / EN bare entries.
     .replace(/[\d,]+(?=\s*件のエントリー)/g, `${formatInt(counts.linkAuditedEntries)}`)
     .replace(/[\d,]+(?=件\s*\/)/g, `${formatInt(counts.linkAuditedEntries)}`)
-    .replace(/[\d,]+(?=\s*entries)/g, `${formatInt(counts.linkAuditedEntries)}`)
-    .replace(/[\d,]+(?=\s*个条目)/g, `${formatInt(counts.linkAuditedEntries)}`)
-    // ZH domain counter (simplified): 个领域.
-    .replace(/[\d,]+(?=\s*个领域)/g, `${counts.topicalDomains}`);
+    .replace(/[\d,]+(?=\s*entries)/g, `${formatInt(counts.linkAuditedEntries)}`);
   next = replaceMetricStrong(next, "Markdown files", String(counts.markdownFiles));
   next = replaceMetricStrong(next, "Topical domains", String(counts.topicalDomains));
   next = replaceMetricStrong(next, "Audited entries", String(counts.linkAuditedEntries));
   next = replaceLanguageMetricStrong(next, "jp", "Text volume", `約${charsMan}万字`);
   next = replaceLanguageMetricStrong(next, "en", "Text volume", `~${charsM}M chars`);
-  next = replaceLanguageMetricStrong(next, "zh", "Text volume", `约${charsMan}万字`);
   next = next.replace(/\d{4}-\d{2}-\d{2}(?= JST[^<]*current repository snapshot)/g, snapshotDate);
   next = next.replace(/~[\d.]+M non-space chars/g, `~${charsM}M non-space chars`);
   next = next.replace(/about [\d.]+ million non-space characters/g, `about ${charsM} million non-space characters`);
@@ -292,10 +283,6 @@ function scaffoldChangelog(text: string, title: string, snapshotDate: string, no
     `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
     "",
     "### English",
-    "",
-    `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
-    "",
-    "### Chinese",
     "",
     `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
     "",

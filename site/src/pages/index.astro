@@ -21,7 +21,6 @@ for (const entry of entries) {
 
 const entryCount = entries.length;
 const domainCount = counts.size;
-const zhCount = translations.filter((entry) => entry.id.startsWith('zh/')).length;
 const enCount = translations.filter((entry) => entry.id.startsWith('en/')).length;
 
 const updatedAt = new Intl.DateTimeFormat('ja-JP', {
@@ -51,7 +50,7 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
     <title>FinWiki — 公開金融フィールドガイド</title>
     <meta
       name="description"
-      content="FinWiki は公開一次情報にもとづき、日本と世界の金融機関・制度・市場構造を三言語で整理する金融フィールドガイドです。"
+      content="FinWiki は公開一次情報にもとづき、日本と世界の金融機関・制度・市場構造を日英二言語で整理する金融フィールドガイドです。"
     />
     <script is:inline>
       (function () {
@@ -64,10 +63,9 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
     <link rel="preload" href="/fonts/source-serif-4/source-serif-4-latin-600.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="alternate" hreflang="ja" href="/ja/" />
     <link rel="alternate" hreflang="en" href="/en/" />
-    <link rel="alternate" hreflang="zh" href="/zh/" />
     <link rel="alternate" hreflang="x-default" href="/" />
     <meta property="og:title" content="FinWiki" />
-    <meta property="og:description" content="公開一次情報にもとづく三言語の金融フィールドガイド。" />
+    <meta property="og:description" content="公開一次情報にもとづく日英二言語の金融フィールドガイド。" />
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
@@ -91,7 +89,6 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
         <div class="root-decks" aria-label="FinWiki description">
           <p><span>JA</span>{rootEditorial.decks.ja}</p>
           <p><span>EN</span>{rootEditorial.decks.en}</p>
-          <p><span>ZH</span>{rootEditorial.decks.zh}</p>
         </div>
 
         <div class="root-entry-paths" aria-label="Language entry paths">
@@ -159,12 +156,8 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
               <dd>{domainCount.toLocaleString('ja-JP')}</dd>
             </div>
             <div>
-              <dt>English</dt>
+              <dt>English mirror</dt>
               <dd>{enCount.toLocaleString('en-US')}</dd>
-            </div>
-            <div>
-              <dt>中文</dt>
-              <dd>{zhCount.toLocaleString('en-US')}</dd>
             </div>
           </dl>
         </div>
@@ -196,7 +189,6 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
         <nav class="site-footer__links" aria-label="フッター">
           <a href="/ja/">日本語</a>
           <a href="/en/">English</a>
-          <a href="/zh/">简体中文</a>
           <a href="/llms.txt">llms.txt</a>
           <a href="/ai-index.json">ai-index.json</a>
         </nav>
@@ -254,7 +246,7 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
 
       .root-entry-paths {
         display: grid;
-        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 1px;
         margin-top: clamp(2rem, 1.5rem + 2vw, 3rem);
         border-top: 1px solid var(--line);
@@ -395,7 +387,7 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
       }
       .root-stats {
         display: grid;
-        grid-template-columns: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 1px;
         margin: 0;
         background: var(--line);

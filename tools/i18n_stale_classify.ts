@@ -19,12 +19,12 @@ import { mask } from "../site/scripts/protect.mjs";
  *   - old blob not found in recent history -> unknown (treat as retranslate, safest).
  *
  * Writes nothing except an optional --json manifest. Never mutates mirrors/sources.
- * Flags: --lang ja|zh|en|all (default all), --limit N (0=all), --json <path>.
+ * Flags: --lang ja|en|all (default all), --limit N (0=all), --json <path>.
  */
 
 const ROOT = path.resolve(import.meta.dir, "..");
 const I18N = path.join(ROOT, "site", "src", "content", "i18n");
-const LANGS = ["ja", "zh", "en"] as const;
+const LANGS = ["ja", "en"] as const;
 const GIT_DEPTH = "120";
 
 function flag(name: string, def: string): string {

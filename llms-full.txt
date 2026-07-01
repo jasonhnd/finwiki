@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-29T01:06:19+09:00
+Generated: 2026-07-01T19:06:27+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1565
 Public pages listed: 1564
@@ -19,7 +19,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md
 - Domain: root
 - Type: control_doc
-- Headings: FinWiki Agent Instructions, Required Trilingual Documentation, 日本語, English, 中文
+- Headings: FinWiki Agent Instructions, 日本語, English
 
 ### CHANGELOG
 - URL: https://finwiki.zksc.io/CHANGELOG
@@ -27,9 +27,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Entity graph Packet 3 - objective typed edges wave 1 (#38) / Add public-source-backed typed edges / 公开来源类型化边第一波, Entity graph Packet 2 - Tier-1 anchor entity_node backfill (#37) / Backfill Tier-1 entity nodes / 回填 Tier-1 实体节点
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 2026-07-01 - i18n bilingual site cutover (#126), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE
@@ -71,15 +69,14 @@ Public pages listed: 1564
 - Headings: Obsidian Setup for FinWiki, Open Links, Link Convention, Recommended Plugin Set, Useful Dataview Queries, Template Usage, Public-Surface Reminder
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/SCHEMA, https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview, https://finwiki.zksc.io/fintech/mica-overview
 
-### FinWiki 📚💴🧭
+### FinWiki
 - URL: https://finwiki.zksc.io/README.md
 - Source path: README.md
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/README.md
 - Domain: root
 - Type: control_doc
-- Summary: FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の wikilink で、全体入口は INDEX.md です。
-- Headings: FinWiki 📚💴🧭, 日本語 🇯🇵, 📊 数字で見る FinWiki, 🚪 まず見る場所, 🗺️ コンテンツマップ, 🔐 公開面ルール, 🔍 使い方, 🛠️ 運用ルール
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX
+- Summary: FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う公開 Markdown ナレッジベースです。本文は公開情報、公的資料、公開開示、または公開情報にもとづく分析だけで構成します。
+- Headings: FinWiki, 日本語, 数字で見る FinWiki, 入口, 運用ルール, 検証, GitHub Releases, English
 
 ### Wiki Frontmatter Schema
 - URL: https://finwiki.zksc.io/SCHEMA
@@ -12526,7 +12523,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.20-6.md
 - Domain: releases
 - Type: release_note
-- Summary: この release は、GitHub Pages のポータルページ（index.html）を更新し、日本語・英語・中国語を完全に分離した上で「日本語、英語、中国語」の順に閲覧できるモダンなセグメントUI（タブ型レイアウト）を構築したスナップショットです。
 - Headings: v2026.05.20-6 Portalページ英語追加と多言語分離化, 日本語 🇯🇵, 概要, 対象範囲, 主要変更, 検証, 既知の注意点, 次の作業
 
 ### v2026.05.20-7 README英語セクション追加と多言語ルール（日・英・中）の適用
@@ -12535,17 +12531,15 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.20-7.md
 - Domain: releases
 - Type: release_note
-- Summary: この release は、GitHub 上の README に英語の翻訳セクションを追加し、さらにリポジトリ全体のエージェント指示書および運用ルールとして、日本語・英語・中国語の3言語維持および並び順（JP-EN-ZH）を明文化して適用したスナップショットです。
 - Headings: v2026.05.20-7 README英語セクション追加と多言語ルール（日・英・中）の適用, 日本語 🇯🇵, 概要, 対象範囲, 主要変更, 検証, English 🌐, Overview
 
-### v2026.05.20-8 GitHub Pages ポータルステータスカードの三言語化
+### releases/v2026.05.20-8
 - URL: https://finwiki.zksc.io/releases/v2026.05.20-8
 - Source path: releases/v2026.05.20-8.md
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.20-8.md
 - Domain: releases
 - Type: release_note
-- Summary: この release は、GitHub Pages ポータルページ（index.html）の下部にあるステータスカード（キー指標）を更新し、以前の「二言語維持・中国語維持」の表記から、今回制定された「日本語・英語・中国語」の三言語維持および並び順（JP-EN-ZH）に基づいた表記へと完全に同期・刷新したスナップショットです。
-- Headings: v2026.05.20-8 GitHub Pages ポータルステータスカードの三言語化, 日本語 🇯🇵, 概要, 対象範囲, 主要変更, 検証, English 🌐, Overview
+- Headings: 日本語 🇯🇵, 概要, 対象範囲, 主要変更, 検証, English 🌐, Overview, Scope
 
 ### v2026.05.20-9 グローバルヘルスチェックの実施とフロントマターおよび壊れたリンクの修正 / 全局健康检查实施与前置元数据及损坏链接修复
 - URL: https://finwiki.zksc.io/releases/v2026.05.20-9
@@ -12590,7 +12584,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.22-3.md
 - Domain: releases
 - Type: release_note
-- Summary: 公開ホームページと README の日本語・中国語セクションを、英語の列挙ではなく各言語で読める内容地図へ修正しました。
 - Headings: 公開ホームページ言語表現修正 2026-05-22, 日本語, 概要, 対象範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### 公開ホームページ長文紹介拡張 2026-05-22
@@ -12690,7 +12683,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.23.md
 - Domain: releases
 - Type: release_note
-- Summary: FSA 損害保険会社一覧の long-tail から、旅行、賃貸住宅、商品特化、外資系 / クロスボーダー文脈を持つ specialty / foreign-affiliated non-life insurers 11 社を、公開ソースに基づく standalone route として追加しました。あわせて、公開 CHANGELOG.md の冒頭と旧作業記録を、日本語、英語、中国語の順に正規化しました。
 - Headings: 損害保険特化会社 D9 拡張と CHANGELOG 言語順序修正 2026-05-23, 日本語, 概要, 対象範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### Wave 3 並列 9 agents 大規模拡張 — 海外 reinsurer / 商社 finance / 業界団体 / 中堅証券 / 4 新 matrix 2026-05-24
@@ -12776,7 +12768,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31-2.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-05-31 JST の公開サイト入口更新です。finwiki.zksc.io/ を単純な日本語ページへの redirect から、FinWiki の三語入口、主要領域、現在の翻訳状況、AI discovery surface を一画面で確認できるカバーホームページへ変更しました。
 - Headings: 公開ルート・カバーホームページ導入, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・610/610 進捗
@@ -12785,7 +12776,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31-3.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-05-31 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 483 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 610 / en 610 へ進めました。
 - Headings: GPT i18n 翻訳バッチ継続・610/610 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ安全収集・483/483 進捗
@@ -12794,7 +12784,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-05-31 JST の i18n 翻訳バッチです。ユーザー指示に従い、Sonnet ではなく GPT/Codex worker で site/src/content/i18n/{zh,en}/ の増分機械翻訳を進めました。
 - Headings: GPT i18n 翻訳バッチ安全収集・483/483 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・883/883 進捗
@@ -12803,7 +12792,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-2.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。Sonnet ではなく GPT/Codex worker で recovery し、placeholder verify を通過した訳文だけを公開 i18n surface に追加しました。累計は zh 883 / en 883 です。
 - Headings: GPT i18n 翻訳バッチ継続・883/883 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・1013/1013 進捗
@@ -12812,7 +12800,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-3.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 883 の release 後、次の 130 source entries を GPT/Codex worker で処理し、累計を zh 1013 / en 1013 へ進めました。
 - Headings: GPT i18n 翻訳バッチ継続・1013/1013 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・1143/1143 進捗
@@ -12821,7 +12808,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-4.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 1013 の release 後、次の 130 source entries を GPT/Codex worker で処理し、累計進捗を zh 1143 / en 1143 に進めました。
 - Headings: GPT i18n 翻訳バッチ継続・1143/1143 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・1273/1273 進捗
@@ -12830,7 +12816,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-5.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 1143 release 後、次の 130 source entries を GPT/Codex worker で処理し、累計進捗を zh 1273 / en 1273 に進めました。
 - Headings: GPT i18n 翻訳バッチ継続・1273/1273 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 全量完了・1380/1380 と封面ホーム更新
@@ -12839,17 +12824,15 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-6.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 最終バッチです。残り 107 source entries を処理し、累計 i18n を zh 1380 / en 1380 まで完了しました。あわせて finwiki.zksc.io のトップページを三語対応の封面ホームページへ更新しました。
 - Headings: GPT i18n 全量完了・1380/1380 と封面ホーム更新, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
-### 三語語彙品質監査と専門語彙 polish
+### releases/v2026.06.01-7
 - URL: https://finwiki.zksc.io/releases/v2026.06.01-7
 - Source path: releases/v2026.06.01-7.md
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-7.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の FinWiki 三語 i18n 語彙品質リリースです。GPT/Codex worker を 10 並列で使い、日文原文、簡体中文訳、English 訳の語彙・語調・専門表現を監査し、大学学部水準を超える金融・制度・インフラ語彙へ寄せました。
-- Headings: 三語語彙品質監査と専門語彙 polish, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+- Headings: 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### GPT i18n 翻訳バッチ継続・740/740 進捗
 - URL: https://finwiki.zksc.io/releases/v2026.06.01
@@ -12857,7 +12840,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 610 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 740 / en 740 へ進めました。
 - Headings: GPT i18n 翻訳バッチ継続・740/740 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### deploy-pages 警告抑制と CI ログ仕上げ
@@ -12875,7 +12857,6 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-3.md
 - Domain: releases
 - Type: release_note
-- Summary: 2026-06-02 JST の FinWiki i18n 品質仕上げリリースです。全量 zh/en 1380 件完了後に残っていた fidelity: needs_review 54 件を解消し、公開 i18n surface をレビュー残 0 の状態へ戻しました。
 - Headings: i18n 残存レビュー完了と語彙破損修復, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### Wikiリンク実在性ゲート追加と死リンク修復
@@ -13087,13 +13068,13 @@ Public pages listed: 1564
 - Type: release_note
 - Headings: P3 内容扩充 — 最薄の non-profit / trade を各 +6 entry（12 entry 追加）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
 
-### P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）
+### releases/v2026.06.05-2
 - URL: https://finwiki.zksc.io/releases/v2026.06.05-2
 - Source path: releases/v2026.06.05-2.md
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-2.md
 - Domain: releases
 - Type: release_note
-- Headings: P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
+- Headings: 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope, Major Changes
 
 ### P2 深化（第 1 批）— JapanFG 拆分域の存根 58 件を実体ページへ深化
 - URL: https://finwiki.zksc.io/releases/v2026.06.05-3

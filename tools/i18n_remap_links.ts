@@ -28,7 +28,7 @@ import { mask } from "../site/scripts/protect.mjs";
  *      diff-based re-sync lacked; any mirror that fails is left untouched for C-2b.
  *
  * Flags: --manifest <path> (default site/.cache/i18n_stale_manifest.json),
- *        --lang ja|zh|en (default all), --limit N (0=all), --dry-run.
+ *        --lang ja|en (default all), --limit N (0=all), --dry-run.
  */
 
 const ROOT = path.resolve(import.meta.dir, "..");

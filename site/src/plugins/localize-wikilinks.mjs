@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { localizedTitle, resolveWiki } from '../lib/siteIndex.mjs';
 
-const LANGS = ['en', 'zh'];
+const LANGS = ['en'];
 const WIKILINK_JA_HREF = /<a class="wl" href="\/ja\//g;
 const WIKILINK_ANCHOR = /<a class="wl" href="([^"]+)" data-wl="([^"]+)">([^<]*)<\/a>/g;
 const WIKI_TARGET = '[A-Za-z0-9_./#-]+';
@@ -211,7 +211,6 @@ function cleanLocalizedTitle(lang, route, localized) {
   const value = String(localized ?? '').trim();
   if (!value) return null;
   if (lang === 'en' && japaneseCount(value) > 0) return routeLabel(route) || null;
-  if (lang === 'zh' && kanaCount(value) > 0) return routeLabel(route) || null;
   return value;
 }
 

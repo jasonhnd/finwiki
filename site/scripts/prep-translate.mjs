@@ -2,7 +2,7 @@
 // subagent が *.masked.md を翻訳 → commit-translate.mjs が verify+unmask+i18n 書込。
 //   bun scripts/prep-translate.mjs --domain money-market
 //   bun scripts/prep-translate.mjs --limit 20 [--force]
-//   bun scripts/prep-translate.mjs --langs ja --domain payment-firms --force
+//   bun scripts/prep-translate.mjs --langs en --domain payment-firms --force
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
@@ -16,7 +16,11 @@ const opt = (n, d = null) => {
   const i = args.indexOf(`--${n}`);
   return i >= 0 && args[i + 1] ? args[i + 1] : d;
 };
-const LANGS = opt('langs', 'zh,en').split(',').map((s) => s.trim()).filter(Boolean);
+const SUPPORTED_LANGS = new Set(['en']);
+const LANGS = opt('langs', 'en').split(',').map((s) => s.trim()).filter(Boolean);
+for (const lang of LANGS) {
+  if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
+}
 const ONLY = opt('domain');
 const DOMAINS = ONLY ? ONLY.toLowerCase().split(',').map((s) => s.trim()) : null;
 const LIMIT = Number(opt('limit', '0')) || Infinity;

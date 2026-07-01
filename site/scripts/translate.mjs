@@ -1,14 +1,13 @@
-// FinWiki 翻訳管线（mask 护栏 + LLM + verify + 增量）。
-// 流れ: corpus(src/content/entries) を走査 → 各篇 × {en,zh}:
+// FinWiki translation pipeline (mask guardrails + LLM + verify + incremental).
+// Flow: root Japanese corpus → English mirror:
 //   source_hash 增量 → mask(数字/日付/[[link]]/^[marker]) → LLM 翻訳(占位符保持)
 //   → verify(占位符整合 + ジャンク) → 必要なら 1 回 retry → unmask → i18n/{lang}/{path}.md へ。
 // 数字・リンク・標記は mask で LLM に渡らないため破壊され得ない(spike の量级错/捏造链接を構造封じ)。
 //
 // 使い方:
-//   ANTHROPIC_API_KEY=... bun scripts/translate.mjs                # 全量(en,zh)增量
+//   ANTHROPIC_API_KEY=... bun scripts/translate.mjs                # full English incremental run
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs --domain money-market   # 1 域だけ
-//   ... --lang zh --limit 5 --force
-//   ... --lang ja --paths payment-firms/paypay.md --force
+//   ... --lang en --limit 5 --force
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
@@ -17,14 +16,18 @@ import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 import { buildTitleByRoute, hasSubstantialEnglishProse, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
-const TARGET = { ja: '自然な日本語', en: 'English', zh: '简体中文 (Simplified Chinese)' };
+const TARGET = { en: 'English' };
 
 const args = process.argv.slice(2);
 const opt = (name, def = null) => {
   const i = args.indexOf(`--${name}`);
   return i >= 0 && args[i + 1] ? args[i + 1] : def;
 };
-const LANGS = (opt('lang', 'en,zh')).split(',');
+const SUPPORTED_LANGS = new Set(['en']);
+const LANGS = (opt('lang', 'en')).split(',').map((s) => s.trim()).filter(Boolean);
+for (const lang of LANGS) {
+  if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
+}
 const ONLY_DOMAIN = opt('domain');
 const ONLY_PATHS = opt('paths')
   ?.split(',')
