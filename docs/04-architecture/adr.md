@@ -70,3 +70,10 @@
 - **决定**：选 **B**。模型角色按能力分层：spec agent 负责需求、架构、功能规格、非功能要求、RTM、acceptance；code agent 负责 bounded implementation；main session 负责 worktree、验证、commit/push 和 release。
 - **理由**：规格优先让代码任务更小、更确定，快速代码实现模型的速度用于执行而不是需求推理；高推理规格模型保留对产品、架构、公开信息边界和验收的控制。
 - **影响**：新增 [model-agent-workflow.md](../06-implementation/model-agent-workflow.md)。并行 agent 仍遵守 file-scope，active subagent 绝对上限 10；每批完成后必须关闭/retire，再启动下一批。代码 agent 默认不得修改 BRD/PRD/ARD/FSD/NFR/RTM、README/CHANGELOG/release note 或发布门禁，除非任务包明确授权。
+
+## ADR-010：Retire Chinese; adopt bilingual ja/en
+
+- **背景**：FinWiki の日本語 source corpus は一級の著者面であり、英語 mirror は読者・crawler・AI discovery のために維持する。一方、中国語 mirror corpus は機械翻訳ベースで、品質確認・同期・UI 表面・発見面の維持コストが継続的に増えていた。
+- **決定**：FinWiki の公開 i18n モデルを bilingual（Japanese source + English mirror）へ変更する。supported languages は `ja` / `en` のみとし、実装 follow-up で `langCodes = ['ja','en']` にする。
+- **理由**：日本語 source と英語 mirror に集中することで、翻訳品質、レビュー、デザイン調整、検索・AI discovery の一貫性を高められる。中国語 mirror は git history に保存されるため、公開 corpus から削除しても過去状態は追跡できる。
+- **影響**：follow-up CODE issue で `site/src/content/i18n/zh/` の committed mirror corpus を削除し、`/zh/...` route family と language switch を取り除く。GitHub Pages では server-side 301 / 410 を使わず、`/zh/...` URL は stub や redirect なしで 404 になる。tooling、generated surfaces、UI copy、validation は ja/en 前提へ移行する。
