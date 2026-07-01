@@ -135,48 +135,6 @@ const DOMAIN_TITLES = {
     'non-profit': 'Non-Profit',
     trade: 'Trade',
   },
-  zh: {
-    japanfg: '日本金融机构',
-    megabanks: '大型银行',
-    'regional-banks': '地方银行',
-    'cooperative-banks': '协同组织金融',
-    'trust-banks': '信托银行',
-    'life-insurers': '寿险公司',
-    'non-life-insurers': '产险公司',
-    'securities-firms': '证券公司',
-    'asset-managers': '资产管理',
-    'payment-firms': '支付机构',
-    'card-issuers': '发卡机构',
-    'leasing-firms': '租赁公司',
-    'consumer-finance': '消费金融',
-    'trading-company-finance': '商社金融',
-    'financial-conglomerates': '综合商社',
-    'foreign-financial-institutions': '外资金融机构',
-    'financial-regulators': '金融监管',
-    'financial-licenses': '金融牌照',
-    exchanges: '交易所与 VASP',
-    fintech: '金融科技',
-    systems: '系统基础设施',
-    'agent-economy': '智能体经济',
-    payments: '支付',
-    banking: '银行',
-    'policy-finance': '政策金融',
-    derivatives: '衍生品',
-    insurance: '保险',
-    securities: '证券',
-    'structured-finance': '结构化融资',
-    'real-estate-finance': '房地产金融',
-    finance: '金融与并购',
-    business: '商业案例',
-    loyalty: '积分经济',
-    'money-market': '货币市场',
-    'manufacturer-finance': '厂商金融',
-    retail: '零售',
-    'corporate-strategy': '企业战略',
-    security: '安全',
-    'non-profit': '非营利',
-    trade: '贸易',
-  },
 };
 
 function toPosix(value) {
@@ -318,7 +276,7 @@ export function resolveWiki(target) {
 }
 
 export function localizedTitle(lang, target) {
-  const safeLang = ['ja', 'en', 'zh'].includes(lang) ? lang : 'ja';
+  const safeLang = ['ja', 'en'].includes(lang) ? lang : 'ja';
   if (!titleMaps.has(safeLang)) {
     titleMaps.set(safeLang, buildLocalizedTitles(safeLang));
   }

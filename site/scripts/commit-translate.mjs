@@ -14,6 +14,12 @@ const optLangs = args.indexOf('--langs');
 const CLI_LANGS = optLangs >= 0 && args[optLangs + 1]
   ? args[optLangs + 1].split(',').map((s) => s.trim()).filter(Boolean)
   : null;
+const SUPPORTED_LANGS = new Set(['en']);
+if (CLI_LANGS) {
+  for (const lang of CLI_LANGS) {
+    if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
+  }
+}
 
 const titleOf = (body) => {
   const m = body.match(/^#\s+(.+?)\s*$/m);
@@ -37,7 +43,7 @@ for (const jsonPath of walkJson(JOBS)) {
   const flat = jsonPath.slice(dir.length + 1).replace(/\.json$/, '');
   const { rel, hash, masks, langs } = JSON.parse(readFileSync(jsonPath, 'utf8'));
   const masked = readFileSync(join(dir, `${flat}.masked.md`), 'utf8');
-  const targetLangs = CLI_LANGS ?? langs ?? ['zh', 'en'];
+  const targetLangs = (CLI_LANGS ?? langs ?? ['en']).filter((lang) => SUPPORTED_LANGS.has(lang));
   for (const lang of targetLangs) {
     const trp = join(dir, `${flat}.${lang}.md`);
     if (!existsSync(trp)) {

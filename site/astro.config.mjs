@@ -5,7 +5,7 @@ import remarkProvenance from './src/plugins/remark-provenance.mjs';
 import remarkStripTitle from './src/plugins/remark-strip-title.mjs';
 import localizeWikilinks from './src/plugins/localize-wikilinks.mjs';
 
-// FinWiki human site: trilingual static pages under /ja, /en, and /zh.
+// FinWiki human site: bilingual static pages under /ja and /en.
 // The content layer reads the canonical root domain corpus directly.
 export default defineConfig({
   site: 'https://finwiki.zksc.io',
