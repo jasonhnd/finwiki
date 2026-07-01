@@ -12,7 +12,7 @@ This document defines the architecture boundary for FinWiki visual styling. The 
 | Shell and Pagefind wiring | `site/src/layouts/Base.astro` | Imports global CSS, initializes theme before paint, renders header/footer/search modal. |
 | Entry layout | `site/src/layouts/EntryLayout.astro` | Owns entry rails, breadcrumb, factbar, tags, TOC, and prose slot. |
 | Theme toggle | `site/src/components/ThemeToggle.astro` | Switches `document.documentElement.dataset.theme` and persists `finwiki-theme`. |
-| Language switcher | `site/src/components/LangSwitcher.astro` | Preserves route context across `ja/en/zh`. |
+| Language switcher | `site/src/components/LangSwitcher.astro` | Preserves route context across `ja/en`. |
 | UI labels | `site/src/i18n/ui.ts` | Localized visible chrome. |
 
 ## Current Template Contract
@@ -27,7 +27,7 @@ The current template is accepted and should be preserved:
 - Compact structure: sticky shell, restrained cards, small radii, hairline borders, visible chips, readable tables.
 - Page-local styles may compose tokens, but must not introduce an unrelated visual system.
 - Pagefind modal styling must use Pagefind CSS variables in `global.css`; do not fork Pagefind markup unless a search requirement forces it.
-- Japanese/English/Chinese UI chrome must use `site/src/i18n/ui.ts`; do not hard-code visible UI labels in component styles.
+- Japanese/English UI chrome must use `site/src/i18n/ui.ts`; do not hard-code visible UI labels in component styles.
 
 If a future task wants a visual direction change, it must explicitly say so in the issue and update [UI/UX Principles](../02-product/ui-ux-principles.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), and [Visual QA Checklist](../07-quality/visual-qa-checklist.md). Otherwise, preserve this template.
 
@@ -79,7 +79,7 @@ Do not shift the theme toward:
 ## Typography
 
 - Display headings use `--font-display`, with Japanese serif fallbacks included.
-- Body text uses `--font-body`, with Japanese and Chinese sans fallbacks included.
+- Body text uses `--font-body`, with Japanese sans fallbacks included.
 - Routes, tags, code, and technical identifiers use `--font-mono`.
 - Do not use negative letter spacing.
 - Do not scale type directly with viewport width outside existing `clamp()` token patterns.
@@ -108,7 +108,7 @@ Do not shift the theme toward:
 
 - Add new colors as tokens first, then use tokens in components.
 - Any theme change must be checked in both light and dark mode.
-- Any UI chrome text change must update `site/src/i18n/ui.ts` for `ja/en/zh`.
+- Any UI chrome text change must update `site/src/i18n/ui.ts` for `ja/en`.
 - Any layout change that affects entry pages must check long Japanese titles, wide financial tables, source blocks, wikilinks, and machine-translation chips.
 - Any CSS change that changes the visual direction must update [UI/UX Principles](../02-product/ui-ux-principles.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), and [Visual QA Checklist](../07-quality/visual-qa-checklist.md) if the acceptance surface changes.
 

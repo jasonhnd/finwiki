@@ -32,7 +32,7 @@ The current schema already has the minimum page-level maintenance fields:
 Current read-only status as of 2026-06-20:
 
 - `release.ts --check --strict`: 1483 link-audited entries, issues=0, canonical_drift=0.
-- `i18n:status --json`: 1436 source entries mirrored in ja/zh/en, all current, stale=0, missing=0, orphaned=0, source-pointer drift=0.
+- `i18n:status --json`: source entries mirrored in ja/en, all current, stale=0, missing=0, orphaned=0, source-pointer drift=0.
 
 The difference matters: link-audited entries include routing/control shapes that are not all translated; i18n migration cost should be estimated from source entries actually mirrored, not only from the link-audit entry count.
 
@@ -159,7 +159,7 @@ No required SCHEMA change is needed for Phase 1. The existing `last_tended` and 
 Migration cost if new required fields were added:
 
 - Source-side public wiki entries: about 1483 link-audited entries.
-- Translated mirror layer: `i18n:status` currently reports 1436 source entries mirrored across ja/zh/en, or 4308 mirror files.
+- Translated mirror layer: `i18n:status` currently reports source entries mirrored across ja/en; use the live command output for exact file counts.
 - Total touch surface for a required metadata migration could therefore exceed 5700 Markdown files before generated-surface updates.
 
 That is not justified before the report has proved useful. Optional fields can be introduced later with sparse adoption on high-volatility pages.

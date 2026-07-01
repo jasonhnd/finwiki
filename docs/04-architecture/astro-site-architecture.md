@@ -11,7 +11,7 @@ The Astro site renders the public human reading layer for the root Markdown corp
 | Framework | Astro 5, static build. |
 | Source corpus | Root domain directories, read directly through `site/src/content.config.ts`. |
 | Domain allowlist | `ENTRY_DOMAIN_DIRS` in `site/src/content.config.ts`; currently 40 domains. |
-| i18n mirrors | `site/src/content/i18n/{ja,en,zh}/<domain>/<slug>.md`. |
+| i18n mirrors | `site/src/content/i18n/{ja,en}/<domain>/<slug>.md`. |
 | Search | Pagefind, generated after Astro build. |
 | Wikilinks | `site/src/lib/siteIndex.mjs` plus build-time localization. |
 | Theme / UI | `site/src/styles/global.css`, `Base.astro`, `EntryLayout.astro`, and UI i18n labels; see [Theme System](theme-system.md) and [UI/UX](../05-functional-specs/ui-ux.md). |

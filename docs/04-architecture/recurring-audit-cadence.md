@@ -95,7 +95,7 @@ Goal:
 
 Allowed Files:
 - <exact source paths from the packet>
-- site/src/content/i18n/{ja,zh,en}/<same paths> only if body changes require retranslation
+- site/src/content/i18n/{ja,en}/<same paths> only if body changes require retranslation
 - generated surfaces produced by bun tools/release.ts --write, only when the issue authorizes corpus edits
 
 Forbidden:

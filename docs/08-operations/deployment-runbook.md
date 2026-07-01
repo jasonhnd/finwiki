@@ -95,7 +95,7 @@ curl -I https://finwiki.zksc.io/ai-index.json
 curl -I https://finwiki.zksc.io/api/entries/index.json
 ```
 
-For UI changes, also open or screenshot representative public pages in Japanese, English and Chinese after deployment.
+For UI changes, also open or screenshot representative public pages in Japanese and English after deployment.
 
 ## GitHub Actions (Deploy FinWiki)
 
@@ -109,7 +109,7 @@ Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`
 
 The `deploy` job then publishes the artifact via `actions/deploy-pages`. `site/` usually has no local dependencies, so the Astro build and search index steps may only be exercised here — always `gh run watch` after pushing a `site/` change (see gotchas #3).
 
-Every push to `origin/main` must keep the release note and GitHub Release aligned with `AGENTS.md`: Japanese-only title, body ordered Japanese -> English -> Chinese, and explicit scope, changes, validation, known notes and next steps.
+Every push to `origin/main` must keep the release note and GitHub Release aligned with the current bilingual release scope: Japanese-only title, body ordered Japanese -> English, and explicit scope, changes, validation, known notes and next steps.
 
 Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
 

@@ -21,7 +21,7 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 |---|---|---|
 | Theme and typography | `global.css` defines editorial light tokens in `:root`, market-desk dark overrides in `[data-theme="dark"]`, self-hosted Latin `Source Serif 4` / `Inter`, and system CJK stacks. | Warm paper light mode, dark mode contrast, serif-led hierarchy, language-aware body stacks, token-first color changes, no downloaded CJK fonts. |
 | Header shell | `Base.astro` renders `.site-header`, editorial `.brand` masthead with localized subtitle, `.site-nav`, `.header-tools`, Pagefind trigger, `ThemeToggle`, `LangSwitcher`, and footer. | Sticky compact header, skip link, Home / Domains / Browse / AI navigation with `aria-current="page"` and underline active state, Pagefind modal wiring, no overlap at narrow widths. |
-| Root entry | `site/src/pages/index.astro` renders `.root-masthead`, `.root-entry-paths`, `.start-lanes`, `.root-proof`, and `.root-ai`. | FinWiki masthead leads; trilingual language entries are first-class; Start-with lanes are reader-oriented; corpus stats and AI links are supporting surfaces. |
+| Root entry | `site/src/pages/index.astro` renders `.root-masthead`, `.root-entry-paths`, `.start-lanes`, `.root-proof`, and `.root-ai`. | FinWiki masthead leads; bilingual language entries are first-class; Start-with lanes are reader-oriented; corpus stats and AI links are supporting surfaces. |
 | Localized home | `[lang]/index.astro` renders `.home-hero`, `.home-search`, `.home-proof`, `.review-strip`, `.canonical-strip`, `.taxonomy-grid`, and `.ai-band`. | Search remains in the first viewport; Latest-reviewed and Canonical-routes strips have distinct kicker/title treatment; guided taxonomy uses descriptions, not only counts; AI links stay technical. |
 | Domains | `domains/index.astro` uses `.domains__head`, `.domain-section`, `.domain-card`; `domains/[domain]/index.astro` uses `.domain-opener`, `.domain-brief`, optional search filter, and route-visible lists. | Grouped taxonomy, localized names/descriptions, muted counts, domain briefings, canonical read-first links, route visibility for maintainers, filter only when useful. |
 | Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__jump`, multi-column `.browse__section ul`, and client-side filter. | Fast scan, sticky filter below header, domain jump chips, localized empty state, no page-level overflow. |
@@ -35,14 +35,14 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 | ID | Contract | Implementation Surface | Requirement |
 |---|---|---|---|
 | ED-001 | Editorial masthead and active nav | `site/src/layouts/Base.astro`, `global.css` | `FinWiki` uses display-serif masthead treatment; wide layouts show a localized subtitle; Home / Domains / Browse / AI links set `aria-current="page"` on the active item and show an underline or equivalent non-color-only active cue. |
-| ED-002 | Root Start-with lanes | `site/src/pages/index.astro` | `/` must lead with `.root-masthead` and trilingual entry paths, then `.start-lanes` organized by reader intent. Counts and machine-readable links remain secondary proof, not the hero message. |
+| ED-002 | Root Start-with lanes | `site/src/pages/index.astro` | `/` must lead with `.root-masthead` and bilingual entry paths, then `.start-lanes` organized by reader intent. Counts and machine-readable links remain secondary proof, not the hero message. |
 | ED-003 | Localized Latest-reviewed strip | `site/src/pages/[lang]/index.astro` | `/{lang}/` must show a `.review-strip` after the hero/search proof area. Cards must expose domain, title, and last-updated metadata using localized labels. |
 | ED-004 | Localized Canonical-routes strip | `site/src/pages/[lang]/index.astro` | `/{lang}/` must show `.canonical-strip` with a distinct kicker from `home.canonicalRoutesKicker` and a title from `home.canonicalRoutes`. If the full canonical route set is unavailable, omit the strip instead of rendering a partial broken guide. |
 | ED-005 | Guided domain taxonomy | `site/src/pages/[lang]/index.astro`, `domains/index.astro`, `site/src/i18n/groups.ts`, `site/src/i18n/domains.ts` | Home and domain-list taxonomy must use localized group/domain descriptions. Counts are secondary badges, not the primary reading hierarchy. |
 | ED-006 | Domain briefings | `site/src/pages/[lang]/domains/[domain]/index.astro` | Domain detail pages must lead with `.domain-opener` and `.domain-brief`, including what the domain covers, read-first entries, canonical anchors, and then the route list. |
 | ED-007 | Evidence strip | `site/src/layouts/EntryLayout.astro` | Entry pages must surface confidence, last updated, review-by when present, source count, machine-translation badge, and original-language link through `.evidence-strip`. Evidence is visible but quieter than H1 and lead content. |
 | ED-008 | De-databased entry rail | `site/src/layouts/EntryLayout.astro` | Desktop left rail shows the current domain group plus an All domains link. It must not expose every domain count on every entry. It hides below the existing `820px` threshold. |
-| ED-009 | Trilingual chrome | `site/src/i18n/ui.ts`, `domains.ts`, `groups.ts` | Japanese, English, and Chinese UI chrome must be localized for nav, search, metadata, empty states, badges, home sections, domain descriptions, and filters. Japanese pages may show English only for allowed artifacts and proper nouns. |
+| ED-009 | Bilingual chrome | `site/src/i18n/ui.ts`, `domains.ts`, `groups.ts` | Japanese and English UI chrome must be localized for nav, search, metadata, empty states, badges, home sections, domain descriptions, and filters. Japanese pages may show English only for allowed artifacts and proper nouns. |
 | ED-010 | Editorial performance | `global.css`, `Base.astro`, page-local scripts | Preserve static Astro rendering, Pagefind search, small page-local filters/TOC behavior, at most two webfont families, one font preload, `font-display: swap`, `size-adjust` overrides, and no page-level horizontal overflow. |
 
 ## Functional Requirement
@@ -51,9 +51,9 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 |---|---|---|---|
 | FSD-008-001 | Site shell | `site/src/layouts/Base.astro` | Render compact editorial masthead, skip link, Home / Domains / Browse / AI navigation, language routes, Pagefind modal, footer, and `data-pagefind-*` boundaries. |
 | FSD-008-002 | Theme switching | `ThemeToggle.astro`, `global.css` | Toggle light/dark without flash, persist `finwiki-theme`, and keep both token sets readable at WCAG AA contrast targets. |
-| FSD-008-003 | Language switching | `LangSwitcher.astro`, `site/src/i18n/ui.ts` | Preserve current route context across `ja/en/zh`; show active language clearly. |
+| FSD-008-003 | Language switching | `LangSwitcher.astro`, `site/src/i18n/ui.ts` | Preserve current route context across `ja/en`; show active language clearly. |
 | FSD-008-004 | Search | Pagefind trigger/modal and [Search](search.md) | Header and home search must open Pagefind and search within the current language. `Ctrl/Cmd+K` opens the same modal. |
-| FSD-008-005 | Root entry | `site/src/pages/index.astro` | Provide trilingual reader entry paths, Start-with lanes, corpus proof, and AI/crawler links without becoming a marketing-only landing page. |
+| FSD-008-005 | Root entry | `site/src/pages/index.astro` | Provide bilingual reader entry paths, Start-with lanes, corpus proof, and AI/crawler links without becoming a marketing-only landing page. |
 | FSD-008-006 | Localized home | `site/src/pages/[lang]/index.astro` | First screen exposes editorial headline/deck, search, and corpus proof; below it expose Latest-reviewed, Canonical-routes, guided taxonomy, and AI metadata. |
 | FSD-008-007 | Domain list | `site/src/pages/[lang]/domains/index.astro` | Group domains by product taxonomy and show localized descriptions plus secondary counts in compact cards. |
 | FSD-008-008 | Domain detail | `site/src/pages/[lang]/domains/[domain]/index.astro` | Show breadcrumbs, domain opener, coverage briefing, read-first/canonical anchors, counts, optional filter, route slugs, and translated markers. |
@@ -70,7 +70,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 | `.container`, `.container--wide`, `.site-main` | `global.css` | Width and page layout primitives. |
 | `.site-header`, `.site-header__inner`, `.site-nav`, `.header-tools` | `global.css`, `Base.astro` | Sticky shell and navigation. |
 | `.brand`, `.brand small`, `.search-trigger` / `.pf-trigger`, `.icon-btn`, `.lang-switch` | `global.css`, components | Editorial masthead brand, localized subtitle, search, theme, and language controls. |
-| `.root-masthead`, `.root-entry-paths`, `.root-entry`, `.start-lanes`, `.start-lane`, `.root-proof`, `.root-ai` | `index.astro` | Root trilingual entrance, Start-with lanes, corpus proof, and technical links. |
+| `.root-masthead`, `.root-entry-paths`, `.root-entry`, `.start-lanes`, `.start-lane`, `.root-proof`, `.root-ai` | `index.astro` | Root bilingual entrance, Start-with lanes, corpus proof, and technical links. |
 | `.home-hero`, `.home-search`, `.pf-hero`, `.home-proof`, `.home-block`, `.review-strip`, `.review-card`, `.canonical-strip`, `.canonical-route`, `.taxonomy-grid`, `.taxonomy-group`, `.ai-band` | `[lang]/index.astro` | Localized editorial home, search, latest-reviewed, canonical routes, guided taxonomy, and AI metadata. |
 | `.domains__head`, `.domains__groups`, `.domain-section`, `.domain-card` | `[lang]/domains/index.astro` | Domain list editorial taxonomy and count-bearing cards. |
 | `.domain-opener`, `.domain-brief`, `.domain-anchors`, `.domain__bar`, `.domain__filter`, `.domain__list`, `.domain__route` | `[lang]/domains/[domain]/index.astro` | Domain briefing, read-first links, canonical anchors, and filterable route inventory. |
@@ -97,11 +97,11 @@ These classes are treated as part of the current UI template. Renaming or removi
 
 | Page | Required UX |
 |---|---|
-| `/` | Editorial trilingual entrance. Masthead, language paths, Start-with lanes, corpus proof, and AI/crawler links must be visible in that hierarchy. |
+| `/` | Editorial bilingual entrance. Masthead, language paths, Start-with lanes, corpus proof, and AI/crawler links must be visible in that hierarchy. |
 | `/{lang}/` | Actual reader entry, not a marketing landing page. Search and corpus proof must be available in the first viewport, followed by Latest-reviewed, Canonical-routes, guided taxonomy, and AI metadata. |
 | `/{lang}/domains/` | Domain groups are scannable; descriptions explain reader value; counts use muted tabular numeric treatment where practical. |
 | `/{lang}/domains/{domain}/` | Domain opener and briefing lead; long lists use filter when needed; routes are visible enough for maintainers without overpowering reader titles. |
-| `/{lang}/browse/` | Filter should be fast, sticky, and usable with Japanese/English/Chinese titles and slugs. |
+| `/{lang}/browse/` | Filter should be fast, sticky, and usable with Japanese/English titles and slugs. |
 | `/{lang}/{domain}/{slug}/` | Entry metadata and provenance appear before the body; rails help orientation on desktop and collapse cleanly on mobile. |
 
 ## Responsive Rules

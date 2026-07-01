@@ -10,12 +10,12 @@ finwiki/
 ├── site/                     # Astro 站点（独立 node_modules，本地通常不装）
 │   └── src/
 │       ├── content.config.ts # ENTRY_DOMAIN_DIRS allowlist（决定 Astro 拾取哪些领域）
-│       ├── content/i18n/{ja,zh,en}/  # 机器翻译产物
-│       ├── lib/siteIndex.mjs # ENTRY_DOMAIN_DIRS + 三语 DOMAIN_TITLES
+│       ├── content/i18n/{ja,en}/     # 机器翻译产物
+│       ├── lib/siteIndex.mjs # ENTRY_DOMAIN_DIRS + 双语 DOMAIN_TITLES
 │       └── i18n/groups.ts    # super-group（领域分组导航）
 ├── tools/*.ts                # Bun 工具链（见 toolchain.md）
 ├── lib/markdown_helpers.ts   # 工具共享的解析 / 扫描 / 常量
-├── releases/vX.md            # 每次发布的三语 release notes（计入 corpus，但 entry_type=release_note）
+├── releases/vX.md            # 每次发布的双语 release notes（计入 corpus，但 entry_type=release_note）
 ├── api/                      # generate_ai_discovery 产出的 JSON API；每次写入前清理旧 entry JSON
 ├── docs/                     # ← 本目录：内部开发文档，已排除出 corpus
 ├── README.md / CHANGELOG.md / AGENTS.md / SCHEMA.md / INDEX.md  # 控制文档
@@ -45,7 +45,7 @@ finwiki/
 
 ## i18n
 
-`site/src/content/i18n/{ja,zh,en}/<domain>/<slug>.md` 是机器翻译产物。改名领域时这三套目录要一起 `git mv`。站点按 `/{lang}/{domain}/{slug}` 路由。
+`site/src/content/i18n/{ja,en}/<domain>/<slug>.md` 是机器翻译产物。改名领域时这两套目录要一起 `git mv`。站点按 `/{lang}/{domain}/{slug}` 路由。
 
 ## site/（Astro）
 

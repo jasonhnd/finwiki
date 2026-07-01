@@ -10,7 +10,7 @@ FinWiki 以公开资料为基础，维护一个多语言、可链接、可被人
 |---|---|---|
 | BRD-001 | 提供可公开访问、可搜索、可追踪来源的金融知识库。 | 公开站点、sitemap、llms、ai-index 均能发现现有 corpus。 |
 | BRD-002 | 降低维护者和 agent 扩充条目的认知成本。 | 新 agent 可从 `docs/README.md` 找到写作、验证、发布流程。 |
-| BRD-003 | 保持三语阅读入口和机器发现入口同步。 | `README.md`、`CHANGELOG.md`、release note、generated surface 同步通过 strict gate。 |
+| BRD-003 | 保持双语阅读入口和机器发现入口同步。 | `README.md`、`CHANGELOG.md`、release note、generated surface 同步通过 strict gate。 |
 | BRD-004 | 保持公开信息安全边界。 | 没有密钥、隐私、非公开信息进入 corpus 或开发文档。 |
 | BRD-005 | 让大规模内容扩充可分批、可审计。 | 并行开发有 file-scope 约束，release gate 能发现死链和计数漂移。 |
 | BRD-006 | 让模型分工可执行：高推理模型写规格，快速代码模型按任务包实现。 | 新代码任务有来源文档、允许文件、禁止文件、验证命令和 reviewer。 |
@@ -34,7 +34,7 @@ FinWiki 以公开资料为基础，维护一个多语言、可链接、可被人
 
 In scope:
 
-- 公开金融知识条目、domain index、三语 mirror、公开站点和 discovery surface。
+- 公开金融知识条目、domain index、双语 mirror、公开站点和 discovery surface。
 - 开发文档、发布流程、质量门禁、并行 agent 流程。
 - 模型角色分工、任务包、代码 agent 验收和并行上限。
 

@@ -178,7 +178,7 @@ Priority domains reviewed: `loyalty`, `money-market`; secondary: `business`, `co
 
 #### Implementation scope for #8 (content agent)
 
-- **Allowed files**: only the named pairs in the three merges — the 3 source pages, their 3 canonicals, and the inbound-linker files listed above — plus those slugs' mirrors under `site/src/content/i18n/{ja,zh,en}/**`; README / CHANGELOG / `releases/**` / generated surfaces if public counts or URLs change. Do not touch unrelated entries or do broad formatting cleanup.
+- **Allowed files**: only the named pairs in the three merges — the 3 source pages, their 3 canonicals, and the inbound-linker files listed above — plus those slugs' mirrors under `site/src/content/i18n/{ja,en}/**`; README / CHANGELOG / `releases/**` / generated surfaces if public counts or URLs change. Do not touch unrelated entries or do broad formatting cleanup.
 - **Per merge**: copy the facts-to-preserve into the canonical page, update every inbound `[[domain/<old-slug>]]` → `[[domain/<canonical>]]`, then either delete the source page (records a public-URL removal) or keep it as an alias-only stub. Delete the 3 merged slugs' i18n mirrors if the page is removed.
 - **Validation**: `bun tools/release.ts --write` then `bun tools/release.ts --check --strict`; `bun tools/wiki_link_audit.ts --fail-on-issues` (dead must stay 0); `bun run i18n:status` after any mirror deletes; `git diff --check`. README/CHANGELOG/release note must record any public URL removals (up to 3 slugs).
 
@@ -209,7 +209,7 @@ Rule (unchanged): add pages only after a public-source gap is identified and the
 
 #### Implementation scope for #9 (content agent)
 
-- **Allowed files**: `financial-licenses/japan-trust-business-license-stack.md` (new entry, use the financial-licenses INDEX Expansion Template), `financial-licenses/INDEX.md` (add to Domain Members + the Active Expansion Backlog row), README / CHANGELOG / `releases/**` / generated surfaces if counts change; optionally the new page's `site/src/content/i18n/{ja,zh,en}/...` mirrors via the i18n pipeline.
+- **Allowed files**: `financial-licenses/japan-trust-business-license-stack.md` (new entry, use the financial-licenses INDEX Expansion Template), `financial-licenses/INDEX.md` (add to Domain Members + the Active Expansion Backlog row), README / CHANGELOG / `releases/**` / generated surfaces if counts change; optionally the new page's `site/src/content/i18n/{ja,en}/...` mirrors via the i18n pipeline.
 - **Source-of-truth**: follow the financial-licenses INDEX "Source-of-Truth Checklist" (FSA lists → law / guideline → e-Gov text → entity disclosure → negative-finding discipline). No legal advice; promote to `confidence: likely` only when source-verified.
 - **Validation**: `bun tools/release.ts --write` then `bun tools/release.ts --check --strict`; `bun tools/wiki_link_audit.ts --fail-on-issues` (dead=0); `git diff --check`.
 
