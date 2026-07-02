@@ -90,23 +90,62 @@ Type scale:
 
 ### Color
 
-Light mode is the default. It should feel like paper and financial print, not a neutral dashboard.
+#### Palette Revision (2026-07-02): cool editorial + ink-blue
+
+Retire the warm cream paper and terracotta/rust accent direction because it read as too close to Claude/Anthropic's warm brand. Move FinWiki to cool gray paper and ink-blue accents so the site feels like a distinct, serious financial reference. Light mode stays the default; dark mode becomes a cool market-desk reading mode.
+
+Light mode should feel like cool financial paper and reference print, not a neutral SaaS dashboard. The approved accent system is ink-blue for masthead, H2 rules, and route links; cool teal for data/peer links; steel for regulatory/system anchors; cool green for source/provenance; and restrained amber only for machine-translation or overdue caution states.
 
 | Token | Light value | Dark value | Mapping |
 |---|---|---|---|
-| `--paper-editorial` | `#f7f1e6` | `#101418` | Page background. |
-| `--surface-editorial` | `#fffaf0` | `#171d22` | Article and cards. |
-| `--surface-editorial-2` | `#efe4d1` | `#202832` | Muted bands, inline TOC, table header. |
-| `--ink-editorial` | `#1e1a16` | `#edf1f2` | Primary text. |
-| `--ink-editorial-2` | `#51483e` | `#c7d0d6` | Secondary text. |
-| `--muted-editorial` | `#786d60` | `#95a2ab` | Metadata. |
-| `--line-editorial` | `#d8c9b4` | `#31404a` | Hairlines and separators. |
-| `--accent-editorial` | `#9f3a24` | `#e0a15d` | Primary accent. |
-| `--accent-editorial-2` | `#0f5b5f` | `#84d0c8` | Link and data accent. |
-| `--source-editorial` | `#386641` | `#8fcf9b` | Provenance/source success. |
-| `--warn-editorial` | `#8a5a12` | `#e1c15f` | Review overdue, caution states. |
+| `--paper-editorial` | `#eef1f5` | `#0e131a` | Page background. |
+| `--surface-editorial` | `#f9fbfc` | `#151c25` | Article and cards. |
+| `--surface-editorial-2` | `#e3e9f0` | `#1e2833` | Muted bands, inline TOC, table header. |
+| `--ink-editorial` | `#131a22` | `#e6edf3` | Primary text. |
+| `--ink-editorial-2` | `#41505d` | `#aeb9c4` | Secondary text. |
+| `--muted-editorial` | `#6a7885` | `#8492a0` | Metadata and quiet route labels. |
+| `--line-editorial` | `#cbd5df` | `#2b3742` | Hairlines and separators. |
+| `--accent-editorial` | `#15486e` | `#5aa7d8` | Deep ink-blue for masthead, H2 rules, route links, active accents. |
+| `--accent-editorial-2` | `#0f6d82` | `#4fb8c9` | Cool teal for data states and peer wikilinks. |
+| `--link-system` | `#42586b` | `#8ea4b6` | Steel system/regulatory anchors; no standalone base system token exists today. |
+| `--source-editorial` | `#2e6b52` | `#7fc59b` | Provenance/source success. |
+| `--warn-editorial` | `#8f6a2a` | `#d6b25e` | Machine-translation and overdue caution only. |
 
-Dark mode should lean toward "market desk at night": darker paper, clear text, warm accent, and lower-chroma surfaces. Do not make dark the default.
+Dark mode should lean toward "market desk at night": dark blue-gray paper, clear cool text, ink-blue/teal accents, steel regulatory anchors, and lower-chroma surfaces. Do not make dark the default.
+
+Wikilink tiers should follow the approved H3 reading architecture: route = ink-blue underline, peer = teal with heavier underline, and system = small-caps plus dotted steel. This revises color only; the H3 structure, preview behavior, table/timeline architecture, and reading layout stay unchanged.
+
+#### Token change checklist
+
+The follow-up CODE issue must retune the current `global.css` color tokens in both `:root` and `[data-theme="dark"]` without changing `site/src/**` in this docs-only issue.
+
+| Token(s) | Follow-up action |
+|---|---|
+| `--paper-editorial` | Needs explicit cool values: light `#eef1f5`, dark `#0e131a`. |
+| `--surface-editorial` | Needs explicit cool values: light `#f9fbfc`, dark `#151c25`. |
+| `--surface-editorial-2` | Needs explicit cool values: light `#e3e9f0`, dark `#1e2833`. |
+| `--ink-editorial` | Needs explicit cool values: light `#131a22`, dark `#e6edf3`. |
+| `--ink-editorial-2` | Needs explicit cool values: light `#41505d`, dark `#aeb9c4`. |
+| `--muted-editorial` | Needs explicit cool values: light `#6a7885`, dark `#8492a0`. |
+| `--line-editorial` | Needs explicit cool values: light `#cbd5df`, dark `#2b3742`. |
+| `--accent-editorial` | Needs explicit ink-blue values: light `#15486e`, dark `#5aa7d8`. |
+| `--accent-editorial-2` | Needs explicit cool teal values: light `#0f6d82`, dark `#4fb8c9`. |
+| `--source-editorial` | Needs explicit cool green values: light `#2e6b52`, dark `#7fc59b`. |
+| `--warn-editorial` | Needs explicit restrained amber values: light `#8f6a2a`, dark `#d6b25e`; reserve for machine-translation and overdue states. |
+| `--paper`, `--surface`, `--surface-2`, `--ink`, `--ink-2`, `--muted`, `--line`, `--accent`, `--accent-2`, `--ok`, `--warn`, `--gold` | Should continue to inherit from the base editorial tokens; verify no warm literal remains. |
+| `--surface-3`, `--line-2`, `--accent-soft`, `--gold-soft`, `--on-accent` | Likely stay derived from base tokens; verify mixes remain cool and meet contrast in light and dark. |
+| `--table-sticky-bg`, `--table-card-bg`, `--preview-bg` | Likely inherit through surface mixes; verify financial tables, mobile matrix cards, and previews do not read warm or muddy. |
+| `--table-sticky-shadow` | Likely inherit from `--ink-editorial`; verify shadow opacity against cool paper in both themes. |
+| `--table-card-label`, `--timeline-date`, `--browse-excerpt`, `--browse-route`, `--search-excerpt` | Should inherit from `--muted-editorial`, `--accent-editorial-2`, or `--ink-editorial-2` as appropriate; verify readable contrast. |
+| `--timeline-rail` | Likely stays a `--line-editorial` plus `--accent-editorial-2` mix; verify the rail stays cool and quiet. |
+| `--link-route` | Needs explicit ink-blue behavior using `--accent-editorial` or an approved ink-blue mix; route links must no longer drift toward warm or generic text color. |
+| `--link-peer` | Should resolve to teal via `--accent-editorial-2`; verify heavier underline treatment remains distinct from route links. |
+| `--link-system` | Needs explicit steel system value: light `#42586b`, dark `#8ea4b6`; current source-green inheritance is not the approved system tier. |
+| `--link-underline-rest`, `--link-underline-hover` | Need cool underline mixes aligned to ink-blue route, teal peer, and dotted steel system states. |
+| `--preview-border`, `--discovery-border`, `--browse-result-border` | Likely inherit through `--line-editorial` mixes; verify borders remain visible without warm cast. |
+| `--strong-ink` | Needs cool editorial emphasis; likely a mix of `--ink-editorial` and `--accent-editorial`, not amber or warning color. |
+| `--discovery-kicker` | Should inherit from `--accent-editorial` ink-blue. |
+| `--discovery-route` | Should inherit from `--muted-editorial` unless route labels need explicit ink-blue affordance in QA. |
 
 ### Rhythm And Layout
 
