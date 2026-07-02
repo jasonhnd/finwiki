@@ -56,8 +56,8 @@ For every row, capture light and dark theme screenshots at `375`, `768`, and `14
 | Sticky table entry | `ja`, `en` | `/{lang}/finance/japan-m-a-deal-process-comparison-matrix/` | `.prose-table-scroll` contains horizontal scroll; `.prose-table--sticky` keeps the header row and first-column labels visible with hairline separation; table headers, wikilinks, provenance links, code, and route-like strings remain legible in both themes. |
 | Mobile matrix card collapse | `ja`, `en` | `/{lang}/exchanges/global-vasp-regulatory-comparison-matrix/` | At `375px`, `.prose-table--cards` renders each wide matrix row as a labeled card using `.matrix-card__title`, `.matrix-card__field`, and generated `data-label`s; two-column key/value tables remain tables; no wikilink or provenance content disappears. |
 | Chronology entry | `ja`, `en` | `/{lang}/exchanges/jp-vasp-regulatory-timeline/` | Conservative dated blocks render as ordered `.timeline` components when present; timeline date rails and event text remain readable, source/provenance affordances remain visible, and event order matches the source order. |
-| Browse scan surface | `ja`, `en` | `/{lang}/browse/` | `.browse__bar`, `.browse__filter`, `.browse__jump`, and `.browse__section` remain usable with localized labels and long slugs; sticky filter does not hide content below the masthead. |
-| Search modal | `ja`, `en` | Header Pagefind trigger on `/{lang}/`; home `.pf-hero` trigger on `/{lang}/` | Header and home triggers open the same modal; `Ctrl/Cmd+K` works; results are scoped to the current language; modal contrast and focus are usable in both themes. |
+| Browse scan surface | `ja`, `en` | `/{lang}/browse/` | `.browse__bar`, `.browse__filter`, `.browse__sort`, `.browse-result`, and domain-sort `.browse__jump` remain usable with localized labels, lead excerpts, update metadata, and long slugs; recommended / recent / title / domain sort changes preserve full-corpus coverage; the empty filter state is localized; sticky controls do not hide content below the masthead. |
+| Search modal | `ja`, `en` | Header Pagefind trigger on `/{lang}/`; home `.pf-hero` trigger on `/{lang}/` | Header and home triggers open the same modal; `Ctrl/Cmd+K` works; results are scoped to the current language; result titles, excerpts, tags, contrast, and focus are usable in both themes. |
 
 ## Contrast Checks
 
@@ -76,7 +76,7 @@ At `375 x 812`, every matrix route must pass the following checks:
 
 - `document.documentElement.scrollWidth <= document.documentElement.clientWidth`.
 - Header brand, nav, Pagefind trigger, theme toggle, and language switcher do not overlap or create horizontal scroll.
-- `.root-entry`, `.start-lane`, `.review-card`, `.canonical-route`, `.taxonomy-group`, `.domain-card`, `.domain__item`, `.evidence-strip`, and `.entry-card` wrap without clipping text.
+- `.root-entry`, `.start-lane`, `.review-card`, `.canonical-route`, `.taxonomy-group`, `.domain-card`, `.domain__item`, `.browse-result`, `.evidence-strip`, and `.entry-card` wrap without clipping text.
 - Long Japanese and English institution names wrap in cards, rails, filters, tags, evidence items, and source rows.
 - `.prose table`, `.prose pre`, route slugs, source URLs, and code-like strings scroll inside their own containers if needed; they must not widen the page.
 - No hover, focus, filter, or Pagefind-open state causes layout shift that introduces page-level overflow.
@@ -85,11 +85,11 @@ At `375 x 812`, every matrix route must pass the following checks:
 
 - Tab order starts with the skip link, then masthead controls, then page-local controls, then content links.
 - The skip link moves focus to `#main` and is visible while focused.
-- Header nav links, Pagefind triggers, theme toggle, language switcher, domain filters, browse filters, cards, TOC links, tags, source links, and footer links all show visible `:focus-visible`.
+- Header nav links, Pagefind triggers, theme toggle, language switcher, domain filters, browse filters, browse sort controls, result links, cards, TOC links, tags, source links, and footer links all show visible `:focus-visible`.
 - Focus states do not shift layout or clip inside compact controls.
 - Wikilink previews are available from keyboard focus, use one shared Pagefind-ignored `.wl-preview`, close on Escape / blur / scroll / resize, and do not appear on coarse-pointer devices.
 - Pagefind modal can be opened with `Ctrl/Cmd+K`, navigated by keyboard, and dismissed without trapping focus incorrectly.
-- Domain and browse filters are keyboard operable and expose localized no-match text.
+- Domain and browse filters are keyboard operable and expose localized no-match text; browse sort controls are keyboard operable and do not introduce horizontal overflow at `375px`.
 - With `prefers-reduced-motion: reduce`, transitions and animations are effectively disabled; no essential information depends on motion.
 - TOC active-section highlighting may update on scroll, but the page must remain usable if `IntersectionObserver` is unavailable.
 
