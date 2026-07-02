@@ -111,6 +111,9 @@
   --preview-bg: color-mix(in srgb, var(--surface-editorial) 96%, var(--paper-editorial));
   --preview-border: color-mix(in srgb, var(--line-editorial) 84%, var(--ink-editorial) 10%);
   --strong-ink: color-mix(in srgb, var(--ink-editorial) 88%, var(--accent-editorial) 12%);
+  --discovery-border: color-mix(in srgb, var(--line-editorial) 88%, var(--ink-editorial) 8%);
+  --discovery-kicker: var(--accent-editorial);
+  --discovery-route: var(--muted-editorial);
 
   --sh-1: 0 1px 2px rgb(30 26 22 / 0.06);
   --sh-2: 0 5px 18px -8px rgb(30 26 22 / 0.18);
@@ -237,6 +240,9 @@
   --preview-bg: color-mix(in srgb, var(--surface-editorial) 94%, var(--paper-editorial));
   --preview-border: color-mix(in srgb, var(--line-editorial) 82%, var(--ink-editorial) 14%);
   --strong-ink: color-mix(in srgb, var(--ink-editorial) 90%, var(--accent-editorial) 10%);
+  --discovery-border: color-mix(in srgb, var(--line-editorial) 84%, var(--ink-editorial) 14%);
+  --discovery-kicker: var(--accent-editorial);
+  --discovery-route: var(--muted-editorial);
 
   --sh-1: 0 1px 2px rgb(0 0 0 / 0.4);
   --sh-2: 0 6px 20px -8px rgb(0 0 0 / 0.55);
@@ -789,6 +795,106 @@ a.card:hover {
   color: var(--muted);
   margin-top: auto;
   overflow-wrap: anywhere;
+}
+
+/* ----- Entry-end discovery ----- */
+.entry-discovery {
+  margin-top: var(--sp-7);
+  padding-top: var(--sp-5);
+  border-top: 1px solid var(--discovery-border);
+}
+.entry-discovery__head {
+  display: grid;
+  gap: 0.25rem;
+  margin-bottom: var(--sp-4);
+}
+.entry-discovery__kicker {
+  margin: 0;
+  color: var(--discovery-kicker);
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.entry-discovery h2 {
+  margin: 0;
+  font-size: var(--fs-lg);
+}
+.entry-discovery__lanes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13.5rem), 1fr));
+  gap: clamp(1rem, 0.6rem + 1.5vw, 1.6rem);
+}
+.entry-discovery__lane {
+  min-width: 0;
+}
+.entry-discovery__lane h3 {
+  margin: 0 0 0.45rem;
+  color: var(--ink-2);
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.entry-discovery__list {
+  display: grid;
+  gap: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--discovery-border);
+}
+.entry-card {
+  display: grid;
+  gap: 0.22rem;
+  min-width: 0;
+  padding: 0.72rem 0;
+  border-bottom: 1px solid var(--discovery-border);
+  color: var(--ink);
+  text-decoration: none;
+}
+.entry-card:hover .entry-card__title,
+.entry-card:focus-visible .entry-card__title {
+  color: var(--accent-2);
+}
+.entry-card__meta {
+  color: var(--muted);
+  font-size: var(--fs-xs);
+  line-height: 1.35;
+}
+.entry-card__title {
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+  transition: color var(--dur) var(--ease);
+}
+.entry-card__lead {
+  color: var(--ink-2);
+  font-size: var(--fs-sm);
+  line-height: 1.45;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.entry-card__route {
+  color: var(--discovery-route);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 560px) {
+  .entry-card__lead {
+    display: -webkit-box;
+    white-space: normal;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
 }
 
 /* ----- Provenance + wikilink (prose-embedded) ----- */
