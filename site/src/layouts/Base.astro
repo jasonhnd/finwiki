@@ -64,6 +64,12 @@ const desc = description ?? t(lang, 'site.tagline');
 
     <main id="main" class={`site-main${wide ? ' is-wide' : ''}`} data-pagefind-body><slot /></main>
 
+    <div id="wl-preview" class="wl-preview" role="tooltip" aria-hidden="true" aria-label={t(lang, 'wikilink.preview')} data-pagefind-ignore>
+      <div class="wl-preview__title"></div>
+      <div class="wl-preview__lead"></div>
+      <div class="wl-preview__meta"></div>
+    </div>
+
     <pagefind-modal reset-on-close></pagefind-modal>
 
     <footer class="site-footer" data-pagefind-ignore>
@@ -98,5 +104,109 @@ const desc = description ?? t(lang, 'site.tagline');
         }
       }
     </style>
+    <script>
+      (() => {
+        const pointerQuery = window.matchMedia('(hover: none), (pointer: coarse)');
+        if (pointerQuery.matches) return;
+
+        const preview = document.getElementById('wl-preview');
+        const links = Array.from(document.querySelectorAll('.prose a.wl[data-wl-kind][data-wl-route]'));
+        if (!preview || !links.length) return;
+
+        const lang = document.documentElement.lang === 'en' ? 'en' : 'ja';
+        const titleEl = preview.querySelector('.wl-preview__title');
+        const leadEl = preview.querySelector('.wl-preview__lead');
+        const metaEl = preview.querySelector('.wl-preview__meta');
+        if (!titleEl || !leadEl || !metaEl) return;
+
+        const previewMap = new Map();
+        for (const link of links) {
+          const kind = link.getAttribute('data-wl-kind') || 'route';
+          const route = link.getAttribute('data-wl-route') || link.getAttribute('data-wl') || '';
+          const title = link.getAttribute(`data-wl-title-${lang}`) || link.getAttribute('data-wl-title-ja') || '';
+          const lead = link.getAttribute(`data-wl-lead-${lang}`) || link.getAttribute('data-wl-lead-ja') || '';
+          const domain = link.getAttribute(`data-wl-domain-${lang}`) || link.getAttribute('data-wl-domain-ja') || '';
+          if (kind === 'route' || kind === 'peer' || kind === 'system') link.classList.add(`wl--${kind}`);
+          if (route && title && lead && !previewMap.has(route)) {
+            previewMap.set(route, { title, lead, domain, route });
+          }
+        }
+
+        let activeLink = null;
+        let timer = 0;
+
+        function clearTimer() {
+          if (timer) {
+            window.clearTimeout(timer);
+            timer = 0;
+          }
+        }
+
+        function place(link) {
+          const rect = link.getBoundingClientRect();
+          const box = preview.getBoundingClientRect();
+          const margin = 12;
+          let top = rect.bottom + 10;
+          if (top + box.height + margin > window.innerHeight) top = rect.top - box.height - 10;
+          if (top < margin) top = margin;
+
+          let left = rect.left + rect.width / 2 - box.width / 2;
+          left = Math.max(margin, Math.min(left, window.innerWidth - box.width - margin));
+          preview.style.left = `${Math.round(left)}px`;
+          preview.style.top = `${Math.round(top)}px`;
+        }
+
+        function closePreview() {
+          clearTimer();
+          if (activeLink) activeLink.removeAttribute('aria-describedby');
+          activeLink = null;
+          preview.classList.remove('is-visible');
+          preview.setAttribute('aria-hidden', 'true');
+        }
+
+        function openPreview(link) {
+          const route = link.getAttribute('data-wl-route') || link.getAttribute('data-wl') || '';
+          const item = previewMap.get(route);
+          if (!item) return;
+
+          activeLink?.removeAttribute('aria-describedby');
+          activeLink = link;
+          titleEl.textContent = item.title;
+          leadEl.textContent = item.lead;
+          metaEl.textContent = [item.domain, item.route].filter(Boolean).join(' / ');
+          preview.setAttribute('aria-hidden', 'false');
+          preview.classList.add('is-visible');
+          link.setAttribute('aria-describedby', 'wl-preview');
+          requestAnimationFrame(() => {
+            if (activeLink === link) place(link);
+          });
+        }
+
+        function schedulePreview(link) {
+          clearTimer();
+          timer = window.setTimeout(() => openPreview(link), 220);
+        }
+
+        for (const link of links) {
+          if (!previewMap.has(link.getAttribute('data-wl-route') || link.getAttribute('data-wl') || '')) continue;
+          link.addEventListener('pointerenter', (event) => {
+            if (event.pointerType === 'touch') return;
+            schedulePreview(link);
+          });
+          link.addEventListener('pointerleave', closePreview);
+          link.addEventListener('focus', () => schedulePreview(link));
+          link.addEventListener('blur', closePreview);
+        }
+
+        document.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape') closePreview();
+        });
+        window.addEventListener('scroll', closePreview, { passive: true, capture: true });
+        window.addEventListener('resize', closePreview, { passive: true });
+        pointerQuery.addEventListener?.('change', (event) => {
+          if (event.matches) closePreview();
+        });
+      })();
+    </script>
   </body>
 </html>

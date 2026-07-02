@@ -137,12 +137,46 @@ const DOMAIN_TITLES = {
   },
 };
 
+const DOMAIN_GROUPS = [
+  ['japanfg', 'megabanks', 'regional-banks', 'cooperative-banks', 'trust-banks', 'foreign-financial-institutions', 'financial-conglomerates', 'trading-company-finance'],
+  ['banking', 'policy-finance', 'money-market'],
+  ['securities', 'securities-firms', 'asset-managers', 'derivatives', 'structured-finance', 'real-estate-finance'],
+  ['insurance', 'life-insurers', 'non-life-insurers'],
+  ['payments', 'payment-firms', 'card-issuers', 'leasing-firms', 'consumer-finance', 'fintech', 'loyalty'],
+  ['exchanges', 'systems'],
+  ['agent-economy'],
+  ['finance', 'business', 'corporate-strategy', 'manufacturer-finance', 'retail', 'trade'],
+  ['financial-regulators', 'financial-licenses', 'non-profit', 'security'],
+];
+
+const SYSTEM_TARGET_DOMAINS = new Set([
+  'financial-regulators',
+  'financial-licenses',
+  'policy-finance',
+  'security',
+  'systems',
+]);
+
 function toPosix(value) {
   return String(value).replace(/\\/g, '/');
 }
 
 function routePath(value) {
   return toPosix(value).replace(/\.md$/i, '').toLowerCase();
+}
+
+function domainGroupId(domain) {
+  const normalized = routePath(domain);
+  if (!normalized) return '';
+  const index = DOMAIN_GROUPS.findIndex((group) => group.includes(normalized));
+  return index === -1 ? '' : `group-${index}`;
+}
+
+export function domainFromRoute(route) {
+  const parts = routePath(route).split('#', 1)[0].split('/').filter(Boolean);
+  if (!parts.length) return '';
+  if (parts[0] === 'domains') return parts[1] ?? '';
+  return parts[0];
 }
 
 function walk(dir, rel = '') {
@@ -281,4 +315,24 @@ export function localizedTitle(lang, target) {
     titleMaps.set(safeLang, buildLocalizedTitles(safeLang));
   }
   return titleMaps.get(safeLang).get(routePath(target)) ?? null;
+}
+
+export function localizedDomainTitle(lang, domain) {
+  const safeLang = ['ja', 'en'].includes(lang) ? lang : 'ja';
+  const slug = routePath(domain);
+  return DOMAIN_TITLES[safeLang]?.[slug] ?? DOMAIN_TITLES.ja?.[slug] ?? slug;
+}
+
+export function wikiTargetKind(fromRoute, targetRoute) {
+  const fromDomain = domainFromRoute(fromRoute);
+  const targetDomain = domainFromRoute(targetRoute);
+
+  if (fromDomain && targetDomain) {
+    if (fromDomain === targetDomain) return 'peer';
+    const fromGroup = domainGroupId(fromDomain);
+    if (fromGroup && fromGroup === domainGroupId(targetDomain)) return 'peer';
+  }
+
+  if (SYSTEM_TARGET_DOMAINS.has(targetDomain)) return 'system';
+  return 'route';
 }
