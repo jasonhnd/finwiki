@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import remarkWikilink from './src/plugins/remark-wikilink.mjs';
 import remarkProvenance from './src/plugins/remark-provenance.mjs';
+import remarkResponsiveTables, { responsiveTableHtmlRepair } from './src/plugins/remark-responsive-tables.mjs';
 import remarkStripTitle from './src/plugins/remark-strip-title.mjs';
 import localizeWikilinks from './src/plugins/localize-wikilinks.mjs';
 
@@ -12,8 +13,8 @@ export default defineConfig({
   base: '/',
   outDir: 'dist',
   build: { format: 'directory' },
-  integrations: [localizeWikilinks()],
+  integrations: [localizeWikilinks(), responsiveTableHtmlRepair()],
   markdown: {
-    remarkPlugins: [remarkStripTitle, remarkWikilink, remarkProvenance],
+    remarkPlugins: [remarkStripTitle, remarkResponsiveTables, remarkWikilink, remarkProvenance],
   },
 });
