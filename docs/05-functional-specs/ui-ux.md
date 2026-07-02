@@ -27,6 +27,7 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 | Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__jump`, multi-column `.browse__section ul`, and client-side filter. | Fast scan, sticky filter below header, domain jump chips, localized empty state, no page-level overflow. |
 | Entry | `EntryLayout.astro` uses `.doc` grid, `.drail--left`, `.doc-article`, `.entry-head`, `.evidence-strip`, `.toc--rail`, `.toc-inline`, and `.prose`. | Desktop rails, central reading width, quiet provenance/freshness evidence, machine-translation badge, current-group domain orientation, inline TOC fallback. |
 | Prose | `global.css` `.prose` covers paragraph rhythm, headings, lists, blockquotes, code, pre, images, tables, provenance links, and wikilinks. | Long Japanese text readability, table horizontal scrolling inside the content area, no page-level overflow, wikilink and source affordances. |
+| Tables, matrices, and timelines | `remark-responsive-tables.mjs` wraps meaningful Markdown tables in `.prose-table-scroll`, adds sticky/table-card classes and generated `data-label` attributes, and converts only conservative dated blocks to `.timeline`. | Real table semantics, wikilinks/provenance inside cells, no two-column key/value card collapse, original chronology order, and no inferred timeline events. |
 
 ## Editorial Behavior Contracts
 
@@ -60,6 +61,7 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 | FSD-008-009 | Browse page | `site/src/pages/[lang]/browse/index.astro` | Provide full corpus scan, domain jump links, sticky filter, and no-match state. |
 | FSD-008-010 | Entry page | `EntryLayout.astro` | Show breadcrumb, title, confidence/review/source evidence strip, machine translation badge, tags, current-group left domain rail with All domains link, right TOC or mobile inline TOC, and prose. |
 | FSD-008-011 | Prose | `global.css` `.prose` rules | Markdown headings, links, tables, code, blockquotes, provenance links, and wikilinks must remain readable in long financial reference pages. |
+| FSD-008-012 | Financial tables and timelines | `site/src/plugins/remark-responsive-tables.mjs`, `global.css` | Build-time rendering must wrap enhanceable tables in `.prose-table-scroll`; apply `.prose-table--sticky` only when the header row and first-column labels are meaningful; apply `.prose-table--cards` only to three-column-or-wider matrices with generated cell `data-label`s; and transform only conservative dated blocks into ordered `.timeline` markup. |
 
 ## CSS Class Contract
 
@@ -79,6 +81,9 @@ These classes are treated as part of the current UI template. Renaming or removi
 | `.card`, `.card__kicker`, `.card__title`, `.card__meta` | `global.css`, page components | Compact repeated entry/domain surfaces where still used. |
 | `.wl`, `.wl-broken`, `.prov-*` | `global.css`, Markdown rendering | Wikilink and provenance affordances. |
 | `.prose` and nested Markdown rules | `global.css` | Entry body typography and financial tables. |
+| `.prose-table-scroll`, `.prose-table--sticky`, `.prose-table--cards` | `remark-responsive-tables.mjs`, `global.css` | Enhanced table scroll container, desktop/tablet sticky header and row-label column, and mobile matrix card-collapse mode. |
+| `.matrix-card__title`, `.matrix-card__field` | `remark-responsive-tables.mjs`, `global.css` | Mobile matrix row-card title cell and generated label/value fields. |
+| `.timeline`, `.timeline__item`, `.timeline__date`, `.timeline__event` | `remark-responsive-tables.mjs`, `global.css` | Semantic chronology rendering for conservative dated event blocks. |
 | `.doc`, `.drail`, `.drail--left`, `.drail--right`, `.doc-article`, `.entry-head`, `.evidence-strip`, `.evidence-item`, `.evidence-badge`, `.tagrow`, `.toc`, `.toc-inline` | `EntryLayout.astro` | Entry page editorial reference layout, evidence metadata, tags, and responsive rails. |
 
 ## Breakpoint Contract

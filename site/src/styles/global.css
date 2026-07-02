@@ -97,6 +97,12 @@
 
   --code-bg: #211a15;
   --code-ink: #fff7ec;
+  --table-sticky-bg: color-mix(in srgb, var(--surface-editorial) 94%, var(--surface-editorial-2));
+  --table-sticky-shadow: color-mix(in srgb, var(--ink-editorial) 18%, transparent);
+  --table-card-bg: color-mix(in srgb, var(--surface-editorial) 92%, var(--surface-editorial-2));
+  --table-card-label: var(--muted-editorial);
+  --timeline-rail: color-mix(in srgb, var(--line-editorial) 74%, var(--accent-editorial-2));
+  --timeline-date: var(--accent-editorial-2);
 
   --sh-1: 0 1px 2px rgb(30 26 22 / 0.06);
   --sh-2: 0 5px 18px -8px rgb(30 26 22 / 0.18);
@@ -209,6 +215,12 @@
 
   --code-bg: #0b1117;
   --code-ink: #e6eef3;
+  --table-sticky-bg: color-mix(in srgb, var(--surface-editorial) 88%, var(--surface-editorial-2));
+  --table-sticky-shadow: color-mix(in srgb, var(--ink-editorial) 24%, transparent);
+  --table-card-bg: color-mix(in srgb, var(--surface-editorial) 84%, var(--surface-editorial-2));
+  --table-card-label: var(--muted-editorial);
+  --timeline-rail: color-mix(in srgb, var(--line-editorial) 72%, var(--accent-editorial-2));
+  --timeline-date: var(--accent-editorial-2);
 
   --sh-1: 0 1px 2px rgb(0 0 0 / 0.4);
   --sh-2: 0 6px 20px -8px rgb(0 0 0 / 0.55);
@@ -942,13 +954,33 @@ a.wl:hover {
 }
 
 /* tables — financial reference often leans on them */
+.prose-table-scroll {
+  max-width: 100%;
+  margin: 1.3rem 0;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--surface);
+}
+.prose-table-scroll:focus-visible {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 3px;
+}
 .prose table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.3rem 0;
   font-size: var(--fs-sm);
+}
+.prose > table {
   display: block;
+  max-width: 100%;
   overflow-x: auto;
+}
+.prose-table-scroll > table {
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
 }
 .prose th,
 .prose td {
@@ -965,6 +997,162 @@ a.wl:hover {
 }
 .prose tbody tr:nth-child(even) {
   background: color-mix(in srgb, var(--surface-2) 50%, transparent);
+}
+.prose-table--sticky thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--table-sticky-bg);
+  box-shadow: 0 1px 0 var(--table-sticky-shadow);
+  background-clip: padding-box;
+}
+.prose-table--sticky th:first-child,
+.prose-table--sticky td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: var(--table-sticky-bg);
+  box-shadow: 1px 0 0 var(--table-sticky-shadow);
+  background-clip: padding-box;
+}
+.prose-table--sticky thead th:first-child {
+  z-index: 3;
+  box-shadow: 1px 0 0 var(--table-sticky-shadow), 0 1px 0 var(--table-sticky-shadow);
+}
+
+.prose .timeline {
+  list-style: none;
+  margin: 1.5rem 0;
+  padding: 0 0 0 1rem;
+  border-left: 1px solid var(--timeline-rail);
+}
+.prose .timeline__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(7rem, 10rem) minmax(0, 1fr);
+  gap: 1rem;
+  margin: 0;
+  padding: 0.1rem 0 1rem 1rem;
+}
+.prose .timeline__item::before {
+  content: "";
+  position: absolute;
+  top: 0.55rem;
+  left: -1.32rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border: 1px solid var(--timeline-rail);
+  border-radius: 50%;
+  background: var(--paper);
+}
+.prose .timeline__item > p {
+  display: contents;
+  margin: 0;
+}
+.timeline__date {
+  color: var(--timeline-date);
+  font-size: var(--fs-sm);
+  font-weight: 700;
+  line-height: 1.45;
+}
+.timeline__event {
+  min-width: 0;
+  color: var(--ink);
+}
+
+@media (max-width: 640px) {
+  .prose-table-scroll:has(.prose-table--cards) {
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+  }
+  .prose-table--cards,
+  .prose-table--cards thead,
+  .prose-table--cards tbody,
+  .prose-table--cards tr,
+  .prose-table--cards td {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+  .prose-table-scroll > .prose-table--cards {
+    width: 100%;
+  }
+  .prose-table--cards thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+  }
+  .prose-table--cards tbody tr {
+    margin: 0 0 0.85rem;
+    padding: 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: var(--r);
+    background: var(--table-card-bg);
+    box-shadow: var(--sh-1);
+  }
+  .prose-table--cards tbody tr:nth-child(even) {
+    background: var(--table-card-bg);
+  }
+  .prose-table--cards th,
+  .prose-table--cards td,
+  .prose-table--cards th:first-child,
+  .prose-table--cards td:first-child {
+    position: static;
+    left: auto;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .prose-table--cards td {
+    padding: 0.48rem 0;
+  }
+  .prose-table--cards .matrix-card__title {
+    margin: 0 0 0.4rem;
+    padding: 0 0 0.6rem;
+    border-bottom: 1px solid var(--line);
+    color: var(--ink);
+    font-weight: 700;
+  }
+  .prose-table--cards .matrix-card__field {
+    display: grid;
+    grid-template-columns: minmax(7rem, 34%) minmax(0, 1fr);
+    gap: 0.75rem;
+    align-items: start;
+  }
+  .prose-table--cards .matrix-card__field + .matrix-card__field {
+    border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+  }
+  .prose-table--cards .matrix-card__field::before {
+    content: attr(data-label);
+    color: var(--table-card-label);
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+  .prose .timeline {
+    padding-left: 0.8rem;
+  }
+  .prose .timeline__item {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+    padding-left: 0.9rem;
+  }
+  .prose .timeline__item::before {
+    left: -1.12rem;
+  }
+}
+
+@media (max-width: 460px) {
+  .prose-table--cards .matrix-card__field {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
 }
 
 /* ----- Pagefind modal theming ----- */
