@@ -4,6 +4,8 @@ import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainName } from '../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../lib/routes';
+import { isoDate } from '../../../lib/format';
+import { localizedEntryPreview } from '../../../lib/entryPreviewIndex.mjs';
 import { localizedTitle } from '../../../lib/siteIndex.mjs';
 
 export function getStaticPaths() {
@@ -22,11 +24,49 @@ for (const e of all) {
   byDomain.get(d)!.push(e);
 }
 const domains = [...byDomain.entries()].sort((a, b) => b[1].length - a[1].length);
+const domainOrder = new Map(domains.map(([domain], index) => [domain, index]));
 
 function titleFor(entry: (typeof all)[number]): string {
   const tr = i18nMap.get(i18nEntryId(lang, entry));
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
+
+const readFirstTerms = ['overview', 'map', 'matrix', 'comparison', 'system', 'landscape', 'operating-model', 'registry', 'timeline', 'framework', 'index'];
+const collator = new Intl.Collator(lang, { numeric: true, sensitivity: 'base' });
+
+function readFirstScore(route: string, title: string): number {
+  const haystack = `${route} ${title}`.toLowerCase();
+  return readFirstTerms.reduce((score, term, index) => (haystack.includes(term) ? score + readFirstTerms.length - index : score), 0);
+}
+
+const browseRecords = all
+  .map((entry) => {
+    const route = entryRoute(entry);
+    const domain = entryDomain(entry);
+    const title = titleFor(entry);
+    const updated = isoDate(entry.data.last_updated);
+    const preview = localizedEntryPreview(lang, route);
+    const lead = preview?.lead || title;
+
+    return {
+      entry,
+      route,
+      domain,
+      title,
+      updated,
+      lead,
+      domainTitle: domainName(domain, lang),
+      domainOrder: domainOrder.get(domain) ?? Number.MAX_SAFE_INTEGER,
+      readFirstScore: readFirstScore(route, title),
+    };
+  })
+  .sort(
+    (a, b) =>
+      b.readFirstScore - a.readFirstScore ||
+      b.updated.localeCompare(a.updated) ||
+      collator.compare(a.title, b.title) ||
+      a.route.localeCompare(b.route, 'en'),
+  );
 ---
 <Base lang={lang} title={t(lang, 'browse.title')} active="browse" wide>
   <div class="container--wide container browse">
@@ -37,33 +77,48 @@ function titleFor(entry: (typeof all)[number]): string {
 
     <div class="browse__bar">
       <input id="browse-filter" type="search" class="browse__filter" placeholder={t(lang, 'browse.filter')} autocomplete="off" aria-label={t(lang, 'browse.filter')} />
+      <label class="browse__sort" for="browse-sort">
+        <span class="browse__sort-label">{t(lang, 'browse.sortLabel')}</span>
+        <select id="browse-sort" class="browse__sort-control" aria-label={t(lang, 'browse.sortLabel')}>
+          <option value="recommended" selected>{t(lang, 'browse.sort.recommended')}</option>
+          <option value="recent">{t(lang, 'browse.sort.recent')}</option>
+          <option value="title">{t(lang, 'browse.sort.title')}</option>
+          <option value="domain">{t(lang, 'browse.sort.domain')}</option>
+        </select>
+      </label>
     </div>
 
-    <nav class="browse__jump" aria-label={t(lang, 'aria.jumpToDomain')}>
+    <nav class="browse__jump" aria-label={t(lang, 'aria.jumpToDomain')} hidden>
       {domains.map(([d, list]) => (
-        <a href={`#${d}`} data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></a>
+        <a href={`#browse-domain-${d}`} data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></a>
       ))}
     </nav>
 
-    <p id="browse-empty" class="browse__empty" hidden>{t(lang, 'browse.noMatch')}</p>
+    <p id="browse-empty" class="browse__empty" hidden aria-live="polite">{t(lang, 'browse.noMatch')}</p>
 
-    <div class="browse__sections">
-      {domains.map(([d, list]) => (
-        <section id={d} class="browse__section" data-domain={d}>
-          <h2>{domainName(d, lang)} <span class="muted">{list.length}</span></h2>
-          <ul>
-            {list.map((e) => {
-              const name = titleFor(e);
-              return (
-                <li class="browse__item" data-name={`${name} ${entryRoute(e)}`.toLowerCase()}>
-                  <a href={u(lang, `${entryRoute(e)}/`)}>{name}</a>
-                </li>
-              );
-            })}
-          </ul>
-        </section>
+    <ol class="browse__results" aria-label={t(lang, 'browse.results')}>
+      {browseRecords.map((record) => (
+        <li
+          class="browse-result"
+          data-search={`${record.title} ${record.domainTitle} ${record.route}`.toLowerCase()}
+          data-title={record.title}
+          data-route={record.route}
+          data-domain={record.domain}
+          data-domain-title={record.domainTitle}
+          data-domain-order={record.domainOrder}
+          data-updated={record.updated}
+          data-recommended-score={record.readFirstScore}
+        >
+          <a class="browse-result__title" href={u(lang, `${record.route}/`)}>{record.title}</a>
+          <p class="browse-result__lead">{record.lead}</p>
+          <div class="browse-result__meta">
+            <span>{record.domainTitle}</span>
+            {record.updated && <time datetime={record.updated}>{t(lang, 'entry.updated')} {record.updated}</time>}
+            <code class="browse-result__route">{record.route}</code>
+          </div>
+        </li>
       ))}
-    </div>
+    </ol>
   </div>
 </Base>
 
@@ -82,10 +137,15 @@ function titleFor(entry: (typeof all)[number]): string {
     background: var(--paper);
     padding: 1rem 0 0.75rem;
     margin-top: 0.5rem;
+    display: flex;
+    align-items: end;
+    gap: 0.75rem;
+    flex-wrap: wrap;
   }
   .browse__filter {
     width: 100%;
-    max-width: 30rem;
+    max-width: 32rem;
+    min-height: 2.7rem;
     font: inherit;
     font-size: var(--fs-base);
     padding: 0.6rem 0.9rem;
@@ -93,16 +153,44 @@ function titleFor(entry: (typeof all)[number]): string {
     border-radius: var(--r);
     background: var(--surface);
     color: var(--ink);
+    flex: 1 1 18rem;
   }
-  .browse__filter:focus-visible {
+  .browse__sort {
+    display: grid;
+    gap: 0.18rem;
+    min-width: min(100%, 13rem);
+  }
+  .browse__sort-label {
+    color: var(--muted);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .browse__sort-control {
+    min-height: 2.7rem;
+    font: inherit;
+    font-size: var(--fs-sm);
+    padding: 0.55rem 2rem 0.55rem 0.75rem;
+    border: 1px solid var(--line-2);
+    border-radius: var(--r);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .browse__filter:focus-visible,
+  .browse__sort-control:focus-visible {
     border-color: var(--accent);
-    outline: none;
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
   }
   .browse__jump {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
     margin-bottom: 1.5rem;
+  }
+  .browse__jump[hidden] {
+    display: none;
   }
   .browse__jump a {
     font-size: var(--fs-xs);
@@ -128,87 +216,180 @@ function titleFor(entry: (typeof all)[number]): string {
     color: var(--muted);
     padding: 2rem 0;
   }
-  .browse__section {
-    margin: 0 0 2rem;
-    scroll-margin-top: calc(var(--header-h) + 4rem);
-  }
-  .browse__section[hidden] {
-    display: none;
-  }
-  .browse__section h2 {
-    font-size: var(--fs-md);
-    margin: 0 0 0.7rem;
-    padding-bottom: 0.35rem;
-    border-bottom: 1px solid var(--line);
-  }
-  .browse__section ul {
+  .browse__results {
+    display: grid;
+    gap: 0;
     list-style: none;
     margin: 0;
     padding: 0;
-    columns: 3;
-    column-gap: 2rem;
+    border-top: 1px solid var(--browse-result-border);
   }
-  .browse__item {
-    break-inside: avoid;
-    margin: 0.18rem 0;
+  .browse-result {
+    display: grid;
+    gap: 0.35rem;
+    min-width: 0;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--browse-result-border);
+    scroll-margin-top: calc(var(--header-h) + 4rem);
   }
-  .browse__item[hidden] {
+  .browse-result[hidden] {
     display: none;
   }
-  .browse__item a {
-    text-decoration: none;
+  .browse-result__title {
+    color: var(--ink);
+    font-family: var(--font-display);
+    font-size: var(--fs-md);
+    font-weight: 600;
+    line-height: 1.24;
+    text-decoration-color: var(--link-underline-rest);
+    overflow-wrap: anywhere;
+  }
+  .browse-result__title:hover,
+  .browse-result__title:focus-visible {
     color: var(--accent-2);
+    text-decoration-color: var(--link-underline-hover);
+  }
+  .browse-result__lead {
+    margin: 0;
+    max-width: var(--measure-lead);
+    color: var(--browse-excerpt);
     font-size: var(--fs-sm);
+    line-height: 1.55;
   }
-  .browse__item a:hover {
-    text-decoration: underline;
+  .browse-result__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.85rem;
+    align-items: baseline;
+    color: var(--muted);
+    font-size: var(--fs-xs);
   }
-  @media (max-width: 900px) {
-    .browse__section ul {
-      columns: 2;
-    }
+  .browse-result__route {
+    color: var(--browse-route);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    overflow-wrap: anywhere;
+  }
+  .browse__results.is-domain-sort .browse-result {
+    padding-left: 0.85rem;
+    border-left: 2px solid transparent;
+  }
+  .browse__results.is-domain-sort .browse-result[data-domain-start="true"] {
+    border-left-color: var(--accent);
   }
   @media (max-width: 560px) {
-    .browse__section ul {
-      columns: 1;
+    .browse__bar {
+      align-items: stretch;
+    }
+    .browse__sort {
+      width: 100%;
+    }
+    .browse__sort-control {
+      width: 100%;
     }
   }
 </style>
 
 <script>
   const input = document.getElementById('browse-filter') as HTMLInputElement | null;
+  const sort = document.getElementById('browse-sort') as HTMLSelectElement | null;
   const empty = document.getElementById('browse-empty');
-  const items = Array.from(document.querySelectorAll('.browse__item')) as HTMLElement[];
-  const sections = Array.from(document.querySelectorAll('.browse__section')) as HTMLElement[];
+  const resultList = document.querySelector('.browse__results') as HTMLElement | null;
+  const items = Array.from(document.querySelectorAll('.browse-result')) as HTMLElement[];
+  const jumpsNav = document.querySelector('.browse__jump') as HTMLElement | null;
   const jumps = new Map(
     Array.from(document.querySelectorAll('.browse__jump a[data-jump]')).map((a) => [
       (a as HTMLElement).dataset.jump,
       a as HTMLElement,
     ]),
   );
+  const locale = document.documentElement.lang === 'en' ? 'en' : 'ja';
+  const collator = new Intl.Collator(locale, { numeric: true, sensitivity: 'base' });
 
-  function apply(q: string) {
-    const needle = q.trim().toLowerCase();
-    let anyVisible = false;
-    for (const s of sections) {
-      let visible = 0;
-      for (const li of s.querySelectorAll('.browse__item')) {
-        const el = li as HTMLElement;
-        const match = !needle || (el.dataset.name || '').includes(needle);
-        el.hidden = !match;
-        if (match) visible++;
-      }
-      s.hidden = visible === 0;
-      const jump = jumps.get(s.dataset.domain);
-      if (jump) jump.hidden = visible === 0;
-      if (visible) anyVisible = true;
+  function compareText(left = '', right = '') {
+    return collator.compare(left, right);
+  }
+
+  function compareItems(a: HTMLElement, b: HTMLElement, mode: string) {
+    if (mode === 'recent') {
+      const updated = (b.dataset.updated || '').localeCompare(a.dataset.updated || '');
+      return updated || compareText(a.dataset.title, b.dataset.title) || compareText(a.dataset.route, b.dataset.route);
     }
+    if (mode === 'title') {
+      return compareText(a.dataset.title, b.dataset.title) || compareText(a.dataset.route, b.dataset.route);
+    }
+    if (mode === 'domain') {
+      const domain = Number(a.dataset.domainOrder || 0) - Number(b.dataset.domainOrder || 0);
+      return domain || compareText(a.dataset.title, b.dataset.title) || compareText(a.dataset.route, b.dataset.route);
+    }
+    const recommended = Number(b.dataset.recommendedScore || 0) - Number(a.dataset.recommendedScore || 0);
+    const updated = (b.dataset.updated || '').localeCompare(a.dataset.updated || '');
+    return recommended || updated || compareText(a.dataset.title, b.dataset.title) || compareText(a.dataset.route, b.dataset.route);
+  }
+
+  function updateDomainStarts(mode: string) {
+    const orderedItems = resultList ? (Array.from(resultList.querySelectorAll('.browse-result')) as HTMLElement[]) : items;
+    let previous = '';
+    for (const item of orderedItems) {
+      delete item.dataset.domainStart;
+      if (mode !== 'domain' || item.hidden) continue;
+      const domain = item.dataset.domain || '';
+      if (domain && domain !== previous) {
+        item.dataset.domainStart = 'true';
+        previous = domain;
+      }
+    }
+  }
+
+  function updateJumps(mode: string) {
+    if (!jumpsNav) return;
+    jumpsNav.hidden = mode !== 'domain';
+    const visibleDomains = new Set(items.filter((item) => !item.hidden).map((item) => item.dataset.domain));
+    for (const [domain, jump] of jumps) {
+      jump.hidden = mode !== 'domain' || !visibleDomains.has(domain);
+    }
+  }
+
+  function sortItems(mode: string) {
+    if (!resultList) return;
+    const sorted = [...items].sort((a, b) => compareItems(a, b, mode));
+    resultList.append(...sorted);
+    resultList.classList.toggle('is-domain-sort', mode === 'domain');
+  }
+
+  function apply() {
+    const needle = input?.value.trim().toLowerCase() || '';
+    const mode = sort?.value || 'recommended';
+    let anyVisible = false;
+    for (const item of items) {
+      const match = !needle || (item.dataset.search || '').includes(needle);
+      item.hidden = !match;
+      if (match) anyVisible = true;
+    }
+    sortItems(mode);
+    updateDomainStarts(mode);
+    updateJumps(mode);
     if (empty) empty.hidden = anyVisible;
   }
 
   let raf = 0;
-  input?.addEventListener('input', () => {
+  function scheduleApply() {
     cancelAnimationFrame(raf);
-    raf = requestAnimationFrame(() => apply(input.value));
-  });
+    raf = requestAnimationFrame(apply);
+  }
+
+  input?.addEventListener('input', scheduleApply);
+  sort?.addEventListener('change', scheduleApply);
+  for (const [, jump] of jumps) {
+    jump.addEventListener('click', (event) => {
+      event.preventDefault();
+      const domain = jump.dataset.jump;
+      const orderedItems = resultList ? (Array.from(resultList.querySelectorAll('.browse-result')) as HTMLElement[]) : items;
+      const target = orderedItems.find((item) => !item.hidden && item.dataset.domain === domain);
+      target?.scrollIntoView({ block: 'start' });
+      (target?.querySelector('a') as HTMLAnchorElement | null)?.focus({ preventScroll: true });
+    });
+  }
+
+  apply();
 </script>

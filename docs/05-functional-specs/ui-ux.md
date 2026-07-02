@@ -24,7 +24,7 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 | Root entry | `site/src/pages/index.astro` renders `.root-masthead`, `.root-entry-paths`, `.start-lanes`, `.root-proof`, and `.root-ai`. | FinWiki masthead leads; bilingual language entries are first-class; Start-with lanes are reader-oriented; corpus stats and AI links are supporting surfaces. |
 | Localized home | `[lang]/index.astro` renders `.home-hero`, `.home-search`, `.home-proof`, `.review-strip`, `.canonical-strip`, `.taxonomy-grid`, and `.ai-band`. | Search remains in the first viewport; Latest-reviewed and Canonical-routes strips have distinct kicker/title treatment; guided taxonomy uses descriptions, not only counts; AI links stay technical. |
 | Domains | `domains/index.astro` uses `.domains__head`, `.domain-section`, `.domain-card`; `domains/[domain]/index.astro` uses `.domain-opener`, `.domain-brief`, optional search filter, and route-visible lists. | Grouped taxonomy, localized names/descriptions, muted counts, domain briefings, canonical read-first links, route visibility for maintainers, filter only when useful. |
-| Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__jump`, multi-column `.browse__section ul`, and client-side filter. | Fast scan, sticky filter below header, domain jump chips, localized empty state, no page-level overflow. |
+| Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__sort`, reader-facing `.browse-result` rows with lead excerpts, optional update metadata, route slugs, and client-side filter/sort. Domain jump chips remain available as a secondary aid in domain sort. | Full-corpus scan, recommended default sorting, localized sort/filter labels, shared lead excerpts, localized empty state, route visibility, no facets in C4, and no page-level overflow. |
 | Entry | `EntryLayout.astro` uses `.doc` grid, `.drail--left`, `.doc-article`, `.entry-head`, `.evidence-strip`, `.toc--rail`, `.toc-inline`, and `.prose`. | Desktop rails, central reading width, quiet provenance/freshness evidence, machine-translation badge, current-group domain orientation, inline TOC fallback. |
 | Entry-end discovery | `EntryLayout.astro`, `entryDiscovery.mjs`, `reverseLinks.mjs`, and `global.css` render `.entry-discovery` after `.prose`. | Discovery uses existing frontmatter, same-domain siblings, shared tags, deterministic read-next ordering, and resolved-wikilink backlinks only; empty lanes are omitted and sources remain in the body/evidence strip. |
 | Prose | `global.css` `.prose` covers paragraph rhythm, headings, lists, blockquotes, code, pre, images, tables, editorial `strong`, provenance links, target-kind wikilinks, and the shared wikilink preview surface. | Long Japanese text readability, table horizontal scrolling inside the content area, no page-level overflow, wikilink and source affordances, keyboard-accessible previews, broken-link visibility, and non-warning strong emphasis. |
@@ -55,12 +55,12 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 | FSD-008-001 | Site shell | `site/src/layouts/Base.astro` | Render compact editorial masthead, skip link, Home / Domains / Browse / AI navigation, language routes, Pagefind modal, footer, and `data-pagefind-*` boundaries. |
 | FSD-008-002 | Theme switching | `ThemeToggle.astro`, `global.css` | Toggle light/dark without flash, persist `finwiki-theme`, and keep both token sets readable at WCAG AA contrast targets. |
 | FSD-008-003 | Language switching | `LangSwitcher.astro`, `site/src/i18n/ui.ts` | Preserve current route context across `ja/en`; show active language clearly. |
-| FSD-008-004 | Search | Pagefind trigger/modal and [Search](search.md) | Header and home search must open Pagefind and search within the current language. `Ctrl/Cmd+K` opens the same modal. |
+| FSD-008-004 | Search | Pagefind trigger/modal and [Search](search.md) | Header and home search must open Pagefind and search within the current language. `Ctrl/Cmd+K` opens the same modal. Result excerpts, tags, and focus states must use Pagefind's generated classes plus FinWiki tokens rather than replacing Pagefind. |
 | FSD-008-005 | Root entry | `site/src/pages/index.astro` | Provide bilingual reader entry paths, Start-with lanes, corpus proof, and AI/crawler links without becoming a marketing-only landing page. |
 | FSD-008-006 | Localized home | `site/src/pages/[lang]/index.astro` | First screen exposes editorial headline/deck, search, and corpus proof; below it expose Latest-reviewed, Canonical-routes, guided taxonomy, and AI metadata. |
 | FSD-008-007 | Domain list | `site/src/pages/[lang]/domains/index.astro` | Group domains by product taxonomy and show localized descriptions plus secondary counts in compact cards. |
 | FSD-008-008 | Domain detail | `site/src/pages/[lang]/domains/[domain]/index.astro` | Show breadcrumbs, domain opener, coverage briefing, read-first/canonical anchors, counts, optional filter, route slugs, and translated markers. |
-| FSD-008-009 | Browse page | `site/src/pages/[lang]/browse/index.astro` | Provide full corpus scan, domain jump links, sticky filter, and no-match state. |
+| FSD-008-009 | Browse page | `site/src/pages/[lang]/browse/index.astro` | Provide full corpus scan with default `recommended` sorting, plus `recent`, `title`, and `domain` sort controls. Each `.browse-result` must show localized title, localized domain, route, optional `last_updated`, and shared lead excerpt. Keep the sticky filter and localized no-match state; keep domain jumps as a secondary aid for domain grouping; do not add facets in C4. |
 | FSD-008-010 | Entry page | `EntryLayout.astro` | Show breadcrumb, title, confidence/review/source evidence strip, machine translation badge, tags, current-group left domain rail with All domains link, right TOC or mobile inline TOC, and prose. |
 | FSD-008-011 | Prose | `global.css` `.prose` rules | Markdown headings, links, tables, code, blockquotes, provenance links, and wikilinks must remain readable in long financial reference pages. |
 | FSD-008-012 | Financial tables and timelines | `site/src/plugins/remark-responsive-tables.mjs`, `global.css` | Build-time rendering must wrap enhanceable tables in `.prose-table-scroll`; apply `.prose-table--sticky` only when the header row and first-column labels are meaningful; apply `.prose-table--cards` only to three-column-or-wider matrices with generated cell `data-label`s; and transform only conservative dated blocks into ordered `.timeline` markup. |
@@ -80,7 +80,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 | `.home-hero`, `.home-search`, `.pf-hero`, `.home-proof`, `.home-block`, `.review-strip`, `.review-card`, `.canonical-strip`, `.canonical-route`, `.taxonomy-grid`, `.taxonomy-group`, `.ai-band` | `[lang]/index.astro` | Localized editorial home, search, latest-reviewed, canonical routes, guided taxonomy, and AI metadata. |
 | `.domains__head`, `.domains__groups`, `.domain-section`, `.domain-card` | `[lang]/domains/index.astro` | Domain list editorial taxonomy and count-bearing cards. |
 | `.domain-opener`, `.domain-brief`, `.domain-anchors`, `.domain__bar`, `.domain__filter`, `.domain__list`, `.domain__route` | `[lang]/domains/[domain]/index.astro` | Domain briefing, read-first links, canonical anchors, and filterable route inventory. |
-| `.browse__bar`, `.browse__filter`, `.browse__jump`, `.browse__section` | `[lang]/browse/index.astro` | Browse filter and full corpus scan. |
+| `.browse__bar`, `.browse__filter`, `.browse__sort`, `.browse__sort-label`, `.browse__sort-control`, `.browse__jump`, `.browse__results`, `.browse-result`, `.browse-result__title`, `.browse-result__lead`, `.browse-result__meta`, `.browse-result__route` | `[lang]/browse/index.astro`, `global.css` tokens | Browse filter, sorting, full-corpus result scan, lead excerpts, route metadata, and secondary domain jumps. |
 | `.chip`, `.chip--accent`, `.chip--warn`, `.dot` | `global.css`, `EntryLayout.astro` | Metadata, provenance, status, and translation badges. |
 | `.card`, `.card__kicker`, `.card__title`, `.card__meta` | `global.css`, page components | Compact repeated entry/domain surfaces where still used. |
 | `.wl`, `.wl--route`, `.wl--peer`, `.wl--system`, `.wl-broken`, `.wl-preview`, `.wl-preview__title`, `.wl-preview__lead`, `.wl-preview__meta`, `.prov-*` | `global.css`, Markdown rendering, `Base.astro` | Target-kind wikilink affordances, shared hover/focus preview UI, broken-link state, and provenance affordances. |
@@ -100,7 +100,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 - Root Start-with lanes and technical links reduce below `720px`; root stats reduce below `560px`.
 - Entry right TOC is hidden below `1080px`; inline TOC is shown instead.
 - Entry left domain rail is hidden below `820px`.
-- Domain detail and browse columns reduce below `900px`, and to single-column mobile layouts around `560px`.
+- Domain detail columns reduce below `900px`. Browse filter/sort controls stack around `560px`, while result rows remain single-column at every breakpoint.
 - Future breakpoints should be introduced only when a concrete page or text-overflow problem requires them.
 
 ## Page-Level Behavior
@@ -111,7 +111,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 | `/{lang}/` | Actual reader entry, not a marketing landing page. Search and corpus proof must be available in the first viewport, followed by Latest-reviewed, Canonical-routes, guided taxonomy, and AI metadata. |
 | `/{lang}/domains/` | Domain groups are scannable; descriptions explain reader value; counts use muted tabular numeric treatment where practical. |
 | `/{lang}/domains/{domain}/` | Domain opener and briefing lead; long lists use filter when needed; routes are visible enough for maintainers without overpowering reader titles. |
-| `/{lang}/browse/` | Filter should be fast, sticky, and usable with Japanese/English titles and slugs. |
+| `/{lang}/browse/` | Filter and sort should be fast, sticky, and usable with Japanese/English titles, localized domains, lead excerpts, update dates, and slugs. Recommended sort is the reader default; domain sort is the maintainer grouping mode. |
 | `/{lang}/{domain}/{slug}/` | Entry metadata and provenance appear before the body; rails help orientation on desktop and collapse cleanly on mobile. |
 
 ## Responsive Rules
@@ -120,7 +120,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 - Root entry cards, Start-with lanes, home strips, taxonomy groups, domain cards, evidence strips, and route rows must wrap without clipping text.
 - Entry right TOC is hidden below the existing `1080px` layout threshold and replaced by inline TOC when enough headings exist.
 - Entry left domain rail is hidden below the existing `820px` threshold.
-- Browse columns reduce from 3 to 2 below `900px`, and to 1 below `560px`.
+- Browse result rows remain single-column and wrap long titles, excerpts, dates, domains, and route slugs below `560px`; the filter and sort controls stack instead of shrinking text.
 - Wide tables must scroll horizontally inside `.prose table`; page-level horizontal overflow is not acceptable.
 
 ## Japanese UI Chrome
