@@ -8,7 +8,7 @@ This spec covers:
 
 - Shell: masthead header, navigation, search trigger, theme toggle, language switcher, footer.
 - Root, localized home, domain list, domain detail, browse, and entry pages.
-- Entry metadata, source/provenance affordances, TOC, wikilinks, and translation badges.
+- Entry metadata, source/provenance affordances, TOC, wikilinks, article-end discovery, and translation badges.
 - Responsive behavior, Japanese UI chrome, and editorial performance guardrails.
 
 It does not cover wiki body authoring rules, which live in [Entry Authoring](../06-implementation/entry-authoring.md), or machine discovery surfaces, which live in [AI Discovery Surface](ai-discovery-surface.md).
@@ -26,6 +26,7 @@ The current site implementation is the baseline to preserve. A UI/CSS issue shou
 | Domains | `domains/index.astro` uses `.domains__head`, `.domain-section`, `.domain-card`; `domains/[domain]/index.astro` uses `.domain-opener`, `.domain-brief`, optional search filter, and route-visible lists. | Grouped taxonomy, localized names/descriptions, muted counts, domain briefings, canonical read-first links, route visibility for maintainers, filter only when useful. |
 | Browse | `browse/index.astro` uses sticky `.browse__bar`, `.browse__jump`, multi-column `.browse__section ul`, and client-side filter. | Fast scan, sticky filter below header, domain jump chips, localized empty state, no page-level overflow. |
 | Entry | `EntryLayout.astro` uses `.doc` grid, `.drail--left`, `.doc-article`, `.entry-head`, `.evidence-strip`, `.toc--rail`, `.toc-inline`, and `.prose`. | Desktop rails, central reading width, quiet provenance/freshness evidence, machine-translation badge, current-group domain orientation, inline TOC fallback. |
+| Entry-end discovery | `EntryLayout.astro`, `entryDiscovery.mjs`, `reverseLinks.mjs`, and `global.css` render `.entry-discovery` after `.prose`. | Discovery uses existing frontmatter, same-domain siblings, shared tags, deterministic read-next ordering, and resolved-wikilink backlinks only; empty lanes are omitted and sources remain in the body/evidence strip. |
 | Prose | `global.css` `.prose` covers paragraph rhythm, headings, lists, blockquotes, code, pre, images, tables, editorial `strong`, provenance links, target-kind wikilinks, and the shared wikilink preview surface. | Long Japanese text readability, table horizontal scrolling inside the content area, no page-level overflow, wikilink and source affordances, keyboard-accessible previews, broken-link visibility, and non-warning strong emphasis. |
 | Tables, matrices, and timelines | `remark-responsive-tables.mjs` wraps meaningful Markdown tables in `.prose-table-scroll`, adds sticky/table-card classes and generated `data-label` attributes, and converts only conservative dated blocks to `.timeline`. | Real table semantics, wikilinks/provenance inside cells, no two-column key/value card collapse, original chronology order, and no inferred timeline events. |
 
@@ -43,8 +44,9 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 | ED-006 | Domain briefings | `site/src/pages/[lang]/domains/[domain]/index.astro` | Domain detail pages must lead with `.domain-opener` and `.domain-brief`, including what the domain covers, read-first entries, canonical anchors, and then the route list. |
 | ED-007 | Evidence strip | `site/src/layouts/EntryLayout.astro` | Entry pages must surface confidence, last updated, review-by when present, source count, machine-translation badge, and original-language link through `.evidence-strip`. Evidence is visible but quieter than H1 and lead content. |
 | ED-008 | De-databased entry rail | `site/src/layouts/EntryLayout.astro` | Desktop left rail shows the current domain group plus an All domains link. It must not expose every domain count on every entry. It hides below the existing `820px` threshold. |
-| ED-009 | Bilingual chrome | `site/src/i18n/ui.ts`, `domains.ts`, `groups.ts` | Japanese and English UI chrome must be localized for nav, search, metadata, empty states, badges, home sections, domain descriptions, and filters. Japanese pages may show English only for allowed artifacts and proper nouns. |
-| ED-010 | Editorial performance | `global.css`, `Base.astro`, page-local scripts | Preserve static Astro rendering, Pagefind search, small page-local filters/TOC behavior, at most two webfont families, one font preload, `font-display: swap`, `size-adjust` overrides, and no page-level horizontal overflow. |
+| ED-009 | Entry-end discovery | `site/src/layouts/EntryLayout.astro`, `site/src/lib/entryDiscovery.mjs`, `site/src/lib/reverseLinks.mjs`, `global.css` | Entry pages may render `.entry-discovery` below `.prose`, never in the TOC rail. Lanes are related, read-next, and backlinks; each item shows localized title, domain, one-line lead, and route using `.entry-card__*`; empty lanes are omitted. Reverse links come from resolved wikilinks, not raw route-string matching, and exclude broken/self links. |
+| ED-010 | Bilingual chrome | `site/src/i18n/ui.ts`, `domains.ts`, `groups.ts` | Japanese and English UI chrome must be localized for nav, search, metadata, empty states, badges, home sections, domain descriptions, entry discovery, and filters. Japanese pages may show English only for allowed artifacts and proper nouns. |
+| ED-011 | Editorial performance | `global.css`, `Base.astro`, page-local scripts | Preserve static Astro rendering, Pagefind search, small page-local filters/TOC behavior, build-time discovery indexes, at most two webfont families, one font preload, `font-display: swap`, `size-adjust` overrides, and no page-level horizontal overflow. |
 
 ## Functional Requirement
 
@@ -63,6 +65,7 @@ Drafts A+B+C established these contracts. Future changes must preserve them unle
 | FSD-008-011 | Prose | `global.css` `.prose` rules | Markdown headings, links, tables, code, blockquotes, provenance links, and wikilinks must remain readable in long financial reference pages. |
 | FSD-008-012 | Financial tables and timelines | `site/src/plugins/remark-responsive-tables.mjs`, `global.css` | Build-time rendering must wrap enhanceable tables in `.prose-table-scroll`; apply `.prose-table--sticky` only when the header row and first-column labels are meaningful; apply `.prose-table--cards` only to three-column-or-wider matrices with generated cell `data-label`s; and transform only conservative dated blocks into ordered `.timeline` markup. |
 | FSD-008-013 | Wikilink hierarchy, preview, and strong emphasis | `site/src/plugins/remark-wikilink.mjs`, `site/src/lib/siteIndex.mjs`, `site/src/lib/entryPreviewIndex.mjs`, `Base.astro`, `global.css` | Resolved wikilinks must keep `.wl` and add `.wl--route`, `.wl--peer`, or `.wl--system` with `data-wl-kind`; broken links remain muted dotted spans with no preview data. Entry pages progressively enhance current-page wikilinks with one Pagefind-ignored `.wl-preview` surface that opens after a short hover/focus delay, uses localized title/lead/domain/route data, closes on blur, Escape, pointer leave, scroll, or resize, and stays disabled on coarse pointers. `.prose strong` must read as editorial emphasis, not a warning badge or highlight. |
+| FSD-008-014 | Article-end discovery | `site/src/layouts/EntryLayout.astro`, `site/src/lib/entryDiscovery.mjs`, `site/src/lib/reverseLinks.mjs`, `global.css` | Build a reverse-link index from resolved wikilinks at static generation time; render `.entry-discovery` after `.prose` with related, read-next, and backlinks lanes capped to compact lists. Candidate de-duplication prioritizes explicit frontmatter `related`, backlinks, shared tags, and same-domain siblings, while read-next stays deterministic within the same domain. |
 
 ## CSS Class Contract
 
@@ -81,6 +84,7 @@ These classes are treated as part of the current UI template. Renaming or removi
 | `.chip`, `.chip--accent`, `.chip--warn`, `.dot` | `global.css`, `EntryLayout.astro` | Metadata, provenance, status, and translation badges. |
 | `.card`, `.card__kicker`, `.card__title`, `.card__meta` | `global.css`, page components | Compact repeated entry/domain surfaces where still used. |
 | `.wl`, `.wl--route`, `.wl--peer`, `.wl--system`, `.wl-broken`, `.wl-preview`, `.wl-preview__title`, `.wl-preview__lead`, `.wl-preview__meta`, `.prov-*` | `global.css`, Markdown rendering, `Base.astro` | Target-kind wikilink affordances, shared hover/focus preview UI, broken-link state, and provenance affordances. |
+| `.entry-discovery`, `.entry-discovery__head`, `.entry-discovery__kicker`, `.entry-discovery__lanes`, `.entry-discovery__lane`, `.entry-discovery__lane--related`, `.entry-discovery__lane--next`, `.entry-discovery__lane--backlinks`, `.entry-discovery__list`, `.entry-card`, `.entry-card__title`, `.entry-card__lead`, `.entry-card__meta`, `.entry-card__route` | `EntryLayout.astro`, `global.css` | Article-end related/read-next/backlink discovery panel and compact cards. |
 | `.prose` and nested Markdown rules | `global.css` | Entry body typography and financial tables. |
 | `.prose-table-scroll`, `.prose-table--sticky`, `.prose-table--cards` | `remark-responsive-tables.mjs`, `global.css` | Enhanced table scroll container, desktop/tablet sticky header and row-label column, and mobile matrix card-collapse mode. |
 | `.matrix-card__title`, `.matrix-card__field` | `remark-responsive-tables.mjs`, `global.css` | Mobile matrix row-card title cell and generated label/value fields. |
@@ -154,4 +158,4 @@ These classes are treated as part of the current UI template. Renaming or removi
 - Astro build and duplicate-id check pass when site rendering changes.
 - `bun run docs:audit` passes for documentation-only UI/UX changes.
 - No English UI chrome leakage on Japanese pages except allowed proper nouns/artifacts.
-- No mobile horizontal overflow on header, entry title, evidence strip, domain lists, browse list, prose tables, or source sections.
+- No mobile horizontal overflow on header, entry title, evidence strip, entry discovery, domain lists, browse list, prose tables, or source sections.

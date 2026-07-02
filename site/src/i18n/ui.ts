@@ -79,6 +79,11 @@ export const ui = {
     'entry.needsReview': '要確認',
     'entry.onThisPage': '目次',
     'entry.inThisDomain': '同じ領域の項目',
+    'entry.discovery': '続けて読む',
+    'entry.discovery.kicker': 'Discovery',
+    'entry.discovery.related': '関連',
+    'entry.discovery.next': '次に読む',
+    'entry.discovery.backlinks': 'ここへリンク',
     'wikilink.preview': 'リンク先プレビュー',
 
     'footer.note': '公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。',
@@ -171,6 +176,11 @@ export const ui = {
     'entry.needsReview': 'needs review',
     'entry.onThisPage': 'On this page',
     'entry.inThisDomain': 'In this domain',
+    'entry.discovery': 'Keep reading',
+    'entry.discovery.kicker': 'Discovery',
+    'entry.discovery.related': 'Related',
+    'entry.discovery.next': 'Read next',
+    'entry.discovery.backlinks': 'Links here',
     'wikilink.preview': 'Link preview',
 
     'footer.note': 'A public-source financial knowledge base. Every fact traces back to the sources cited in each entry.',

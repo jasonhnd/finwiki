@@ -4,7 +4,7 @@ import path from 'node:path';
 const SITE_ROOT = process.cwd();
 const REPO_ROOT = path.resolve(SITE_ROOT, '..');
 
-const ENTRY_DOMAIN_DIRS = [
+export const ENTRY_DOMAIN_DIRS = [
   'agent-economy',
   'asset-managers',
   'banking',

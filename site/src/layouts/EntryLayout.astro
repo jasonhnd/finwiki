@@ -1,11 +1,13 @@
 ---
 import Base from './Base.astro';
+import { getCollection } from 'astro:content';
 import { confidenceLabel, t, u, type Lang } from '../i18n/ui';
 import { domainName } from '../i18n/domains';
 import { domainGroups, groupName } from '../i18n/groups';
 import { entryDomain, entryRoute } from '../lib/routes';
 import { isoDate } from '../lib/format';
 import { localizedTitle } from '../lib/siteIndex.mjs';
+import { buildEntryDiscovery } from '../lib/entryDiscovery.mjs';
 
 interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
@@ -49,6 +51,14 @@ const confTone =
         ? 'warn'
         : 'muted';
 const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
+const allEntries = await getCollection('entries');
+const discovery = buildEntryDiscovery({ lang, entry, entries: allEntries });
+const discoveryLaneLabels = {
+  related: t(lang, 'entry.discovery.related'),
+  next: t(lang, 'entry.discovery.next'),
+  backlinks: t(lang, 'entry.discovery.backlinks'),
+};
+const discoveryLaneLabel = (id: string) => discoveryLaneLabels[id as keyof typeof discoveryLaneLabels] ?? id;
 ---
 <Base lang={lang} title={title} active="domains" wide>
   <div class="doc">
@@ -138,6 +148,34 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
       )}
 
       <div class="prose"><slot /></div>
+
+      {discovery.lanes.length > 0 && (
+        <section class="entry-discovery" aria-labelledby="entry-discovery-title" data-pagefind-ignore>
+          <div class="entry-discovery__head">
+            <p class="entry-discovery__kicker">{t(lang, 'entry.discovery.kicker')}</p>
+            <h2 id="entry-discovery-title">{t(lang, 'entry.discovery')}</h2>
+          </div>
+          <div class="entry-discovery__lanes">
+            {discovery.lanes.map((lane: any) => (
+              <section class:list={['entry-discovery__lane', `entry-discovery__lane--${lane.id}`]} aria-label={discoveryLaneLabel(lane.id)}>
+                <h3>{discoveryLaneLabel(lane.id)}</h3>
+                <ul class="entry-discovery__list">
+                  {lane.items.map((item: any) => (
+                    <li>
+                      <a class="entry-card" href={u(lang, `${item.route}/`)}>
+                        <span class="entry-card__meta">{item.domain}</span>
+                        <span class="entry-card__title">{item.title}</span>
+                        <span class="entry-card__lead">{item.lead}</span>
+                        <span class="entry-card__route">{item.route}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        </section>
+      )}
     </article>
 
     <aside class="drail drail--right" data-pagefind-ignore>
