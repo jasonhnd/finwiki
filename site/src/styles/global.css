@@ -1,7 +1,7 @@
 /* ==========================================================================
    FinWiki — editorial financial-reference design system
    One stylesheet, imported once by the shell. Tokens drive light + dark.
-   Direction: warm editorial paper, deliberate market-desk dark mode,
+   Direction: cool editorial paper, deliberate market-desk dark mode,
    serif display + bilingual body stacks, hairline structure,
    sources/provenance as first-class.
    ========================================================================== */
@@ -61,17 +61,17 @@
   color-scheme: light;
 
   /* editorial color system */
-  --paper-editorial: #f7f1e6;
-  --surface-editorial: #fffaf0;
-  --surface-editorial-2: #efe4d1;
-  --ink-editorial: #1e1a16;
-  --ink-editorial-2: #51483e;
-  --muted-editorial: #786d60;
-  --line-editorial: #d8c9b4;
-  --accent-editorial: #9f3a24;
-  --accent-editorial-2: #0f5b5f;
-  --source-editorial: #386641;
-  --warn-editorial: #8a5a12;
+  --paper-editorial: #eef1f5;
+  --surface-editorial: #f9fbfc;
+  --surface-editorial-2: #e3e9f0;
+  --ink-editorial: #131a22;
+  --ink-editorial-2: #41505d;
+  --muted-editorial: #5a6975;
+  --line-editorial: #cbd5df;
+  --accent-editorial: #15486e;
+  --accent-editorial-2: #0f6d82;
+  --source-editorial: #2e6b52;
+  --warn-editorial: #76561f;
 
   /* legacy surface tokens consumed by current layouts */
   --paper: var(--paper-editorial);
@@ -93,20 +93,20 @@
 
   --ok: var(--source-editorial);
   --warn: var(--warn-editorial);
-  --bad: #aa3d3d;
+  --bad: #9a3552;
 
-  --code-bg: #211a15;
-  --code-ink: #fff7ec;
+  --code-bg: #101923;
+  --code-ink: #edf6fb;
   --table-sticky-bg: color-mix(in srgb, var(--surface-editorial) 94%, var(--surface-editorial-2));
   --table-sticky-shadow: color-mix(in srgb, var(--ink-editorial) 18%, transparent);
   --table-card-bg: color-mix(in srgb, var(--surface-editorial) 92%, var(--surface-editorial-2));
   --table-card-label: var(--muted-editorial);
   --timeline-rail: color-mix(in srgb, var(--line-editorial) 74%, var(--accent-editorial-2));
   --timeline-date: var(--accent-editorial-2);
-  --link-route: color-mix(in srgb, var(--ink-editorial) 92%, var(--accent-editorial-2));
+  --link-route: var(--accent-editorial);
   --link-peer: var(--accent-editorial-2);
-  --link-system: var(--source-editorial);
-  --link-underline-rest: color-mix(in srgb, var(--line-editorial) 78%, var(--accent-editorial-2));
+  --link-system: #42586b;
+  --link-underline-rest: color-mix(in srgb, var(--line-editorial) 70%, var(--accent-editorial) 30%);
   --link-underline-hover: var(--accent-editorial);
   --preview-bg: color-mix(in srgb, var(--surface-editorial) 96%, var(--paper-editorial));
   --preview-border: color-mix(in srgb, var(--line-editorial) 84%, var(--ink-editorial) 10%);
@@ -119,11 +119,11 @@
   --browse-route: var(--muted-editorial);
   --search-excerpt: var(--ink-editorial-2);
 
-  --sh-1: 0 1px 2px rgb(30 26 22 / 0.06);
-  --sh-2: 0 5px 18px -8px rgb(30 26 22 / 0.18);
-  --sh-3: 0 18px 48px -18px rgb(30 26 22 / 0.26);
+  --sh-1: 0 1px 2px rgb(19 26 34 / 0.06);
+  --sh-2: 0 5px 18px -8px rgb(19 26 34 / 0.18);
+  --sh-3: 0 18px 48px -18px rgb(19 26 34 / 0.26);
 
-  --selection: #ecd5bc;
+  --selection: #c6d8e8;
 
   /* type */
   --font-editorial-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", serif;
@@ -195,17 +195,17 @@
 [data-theme="dark"] {
   color-scheme: dark;
 
-  --paper-editorial: #101418;
-  --surface-editorial: #171d22;
-  --surface-editorial-2: #202832;
-  --ink-editorial: #edf1f2;
-  --ink-editorial-2: #c7d0d6;
-  --muted-editorial: #95a2ab;
-  --line-editorial: #31404a;
-  --accent-editorial: #e0a15d;
-  --accent-editorial-2: #84d0c8;
-  --source-editorial: #8fcf9b;
-  --warn-editorial: #e1c15f;
+  --paper-editorial: #0e131a;
+  --surface-editorial: #151c25;
+  --surface-editorial-2: #1e2833;
+  --ink-editorial: #e6edf3;
+  --ink-editorial-2: #aeb9c4;
+  --muted-editorial: #8492a0;
+  --line-editorial: #2b3742;
+  --accent-editorial: #5aa7d8;
+  --accent-editorial-2: #4fb8c9;
+  --source-editorial: #7fc59b;
+  --warn-editorial: #d6b25e;
 
   --paper: var(--paper-editorial);
   --surface: var(--surface-editorial);
@@ -226,7 +226,7 @@
 
   --ok: var(--source-editorial);
   --warn: var(--warn-editorial);
-  --bad: #e07f84;
+  --bad: #e58aa5;
 
   --code-bg: #0b1117;
   --code-ink: #e6eef3;
@@ -236,10 +236,10 @@
   --table-card-label: var(--muted-editorial);
   --timeline-rail: color-mix(in srgb, var(--line-editorial) 72%, var(--accent-editorial-2));
   --timeline-date: var(--accent-editorial-2);
-  --link-route: color-mix(in srgb, var(--ink-editorial) 90%, var(--accent-editorial-2));
+  --link-route: var(--accent-editorial);
   --link-peer: var(--accent-editorial-2);
-  --link-system: var(--source-editorial);
-  --link-underline-rest: color-mix(in srgb, var(--line-editorial) 76%, var(--accent-editorial-2));
+  --link-system: #8ea4b6;
+  --link-underline-rest: color-mix(in srgb, var(--line-editorial) 70%, var(--accent-editorial) 30%);
   --link-underline-hover: var(--accent-editorial);
   --preview-bg: color-mix(in srgb, var(--surface-editorial) 94%, var(--paper-editorial));
   --preview-border: color-mix(in srgb, var(--line-editorial) 82%, var(--ink-editorial) 14%);
@@ -256,7 +256,7 @@
   --sh-2: 0 6px 20px -8px rgb(0 0 0 / 0.55);
   --sh-3: 0 22px 54px -20px rgb(0 0 0 / 0.7);
 
-  --selection: #24474b;
+  --selection: #1d4963;
 }
 
 html[lang="ja"] {

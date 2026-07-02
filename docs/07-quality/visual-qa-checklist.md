@@ -19,7 +19,7 @@ The current human site is an editorial financial-reference surface, not a neutra
 
 Baseline traits to preserve:
 
-- Warm editorial paper in light mode and market-desk dark mode, with AA-readable text and muted financial-reference metadata.
+- Cool editorial paper in light mode and cool market-desk dark mode, with AA-readable text, ink-blue active accents, teal peer/data links, steel system anchors, and muted financial-reference metadata.
 - Compact masthead shell in `site/src/layouts/Base.astro`: skip link, display-serif `FinWiki` brand, localized subtitle, Home / Domains / Browse / AI navigation, Pagefind trigger, theme toggle, language switcher, and footer.
 - Active shell navigation uses `aria-current="page"` plus a visible underline; active state must not rely on color alone.
 - Root `/` opens with `.root-masthead`, bilingual `.root-entry-paths`, `.start-lanes`, supporting `.root-proof`, and technical `.root-ai` links.
@@ -69,6 +69,8 @@ Run contrast checks in light and dark themes for all matrix surfaces.
 - Links must remain identifiable without color alone through underline, border, shape, label, or surrounding structure.
 - Active navigation must expose both visual state and `aria-current="page"`.
 - Evidence states in `.evidence-item--high`, `.evidence-item--medium`, `.evidence-item--low`, `.evidence-item--source`, `.evidence-badge--warn`, and `.evidence-badge--link` must remain distinguishable in both themes.
+- Palette-token sweeps must verify `--ink`, `--ink-2`, `--muted`, `--accent`, `--accent-2`, `--source`, `--warn`, `--link-route`, `--link-peer`, and `--link-system` at `>= 4.5:1` on `--paper`, `--surface`, and `--surface-2` in both themes.
+- Editorial palette QA must reject warm cream, terracotta, rust, or coral casts in base surfaces, masthead accents, H2 rules, route links, H3 wikilink tiers, discovery lanes, table affordances, timelines, search excerpts, and browse results; restrained amber remains limited to caution states.
 
 ## Mobile Overflow Checks
 
