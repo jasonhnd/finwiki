@@ -1,10 +1,13 @@
 // @ts-check
-import { unified } from '@astrojs/markdown-remark';
+import { satteri } from '@astrojs/markdown-satteri';
 import { defineConfig } from 'astro/config';
-import remarkWikilink from './src/plugins/remark-wikilink.mjs';
-import remarkProvenance from './src/plugins/remark-provenance.mjs';
-import remarkResponsiveTables, { responsiveTableHtmlRepair } from './src/plugins/remark-responsive-tables.mjs';
-import remarkStripTitle from './src/plugins/remark-strip-title.mjs';
+import satteriWikilink from './src/plugins/satteri-wikilink.mjs';
+import satteriProvenance from './src/plugins/satteri-provenance.mjs';
+import satteriResponsiveTables, {
+  responsiveTableHtmlRepair,
+  satteriResponsiveTableHast,
+} from './src/plugins/satteri-responsive-tables.mjs';
+import satteriStripTitle from './src/plugins/satteri-strip-title.mjs';
 import localizeWikilinks from './src/plugins/localize-wikilinks.mjs';
 
 // FinWiki human site: bilingual static pages under /ja and /en.
@@ -16,8 +19,9 @@ export default defineConfig({
   build: { format: 'directory' },
   integrations: [localizeWikilinks(), responsiveTableHtmlRepair()],
   markdown: {
-    processor: unified({
-      remarkPlugins: [remarkStripTitle, remarkResponsiveTables, remarkWikilink, remarkProvenance],
+    processor: satteri({
+      mdastPlugins: [satteriStripTitle, satteriResponsiveTables, satteriWikilink, satteriProvenance],
+      hastPlugins: [satteriResponsiveTableHast],
     }),
   },
 });
