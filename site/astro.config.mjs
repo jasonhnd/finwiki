@@ -1,4 +1,5 @@
 // @ts-check
+import { unified } from '@astrojs/markdown-remark';
 import { defineConfig } from 'astro/config';
 import remarkWikilink from './src/plugins/remark-wikilink.mjs';
 import remarkProvenance from './src/plugins/remark-provenance.mjs';
@@ -15,6 +16,8 @@ export default defineConfig({
   build: { format: 'directory' },
   integrations: [localizeWikilinks(), responsiveTableHtmlRepair()],
   markdown: {
-    remarkPlugins: [remarkStripTitle, remarkResponsiveTables, remarkWikilink, remarkProvenance],
+    processor: unified({
+      remarkPlugins: [remarkStripTitle, remarkResponsiveTables, remarkWikilink, remarkProvenance],
+    }),
   },
 });
