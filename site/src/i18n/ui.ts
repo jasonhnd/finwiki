@@ -86,7 +86,7 @@ export const ui = {
     'entry.onThisPage': '目次',
     'entry.inThisDomain': '同じ領域の項目',
     'entry.discovery': '続けて読む',
-    'entry.discovery.kicker': 'Discovery',
+    'entry.discovery.kicker': '発見',
     'entry.discovery.related': '関連',
     'entry.discovery.next': '次に読む',
     'entry.discovery.backlinks': 'ここへリンク',

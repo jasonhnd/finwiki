@@ -90,7 +90,7 @@ const browseRecords = all
 
     <nav class="browse__jump" aria-label={t(lang, 'aria.jumpToDomain')} hidden>
       {domains.map(([d, list]) => (
-        <a href={`#browse-domain-${d}`} data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></a>
+        <button type="button" data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></button>
       ))}
     </nav>
 
@@ -192,20 +192,24 @@ const browseRecords = all
   .browse__jump[hidden] {
     display: none;
   }
-  .browse__jump a {
+  .browse__jump button {
+    appearance: none;
+    margin: 0;
+    font-family: inherit;
+    line-height: inherit;
     font-size: var(--fs-xs);
-    text-decoration: none;
     color: var(--ink-2);
     background: var(--surface-2);
     border: 1px solid var(--line);
     border-radius: var(--r-pill);
     padding: 0.2rem 0.65rem;
+    cursor: pointer;
   }
-  .browse__jump a:hover {
+  .browse__jump button:hover {
     border-color: var(--accent);
     color: var(--ink);
   }
-  .browse__jump a[hidden] {
+  .browse__jump button[hidden] {
     display: none;
   }
   .browse__jump b {
@@ -298,9 +302,9 @@ const browseRecords = all
   const items = Array.from(document.querySelectorAll('.browse-result')) as HTMLElement[];
   const jumpsNav = document.querySelector('.browse__jump') as HTMLElement | null;
   const jumps = new Map(
-    Array.from(document.querySelectorAll('.browse__jump a[data-jump]')).map((a) => [
-      (a as HTMLElement).dataset.jump,
-      a as HTMLElement,
+    Array.from(document.querySelectorAll('.browse__jump button[data-jump]')).map((button) => [
+      (button as HTMLElement).dataset.jump,
+      button as HTMLElement,
     ]),
   );
   const locale = document.documentElement.lang === 'en' ? 'en' : 'ja';
