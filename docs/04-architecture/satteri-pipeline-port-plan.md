@@ -1,8 +1,10 @@
 # Satteri Pipeline Port Plan
 
-Status: feasibility and design document for issue #153. This issue does not implement a port.
+Status: historical feasibility and design document for issue #153, reconciled after the Satteri native port shipped in #157.
 
-Decision: DO-NOT-PORT now. Keep the current Astro 7 `unified()` Markdown processor and the direct `@astrojs/markdown-remark` dependency until a later issue identifies a concrete product, performance, or support reason to rewrite the four custom Markdown transforms.
+Current decision record: the original #154 recommendation was `DO-NOT-PORT now`, but the maintainer explicitly reversed that recommendation before #157. The site now treats the Satteri native Markdown processor as the canonical implementation.
+
+Implementation note, 2026-07-03 JST: #157 implemented the native Satteri port with `markdown.processor = satteri({ mdastPlugins, hastPlugins })`, and `@astrojs/markdown-remark` is no longer a direct site dependency. #157 confirmed rendered marker parity in both Japanese and English for wikilinks across all tiers, responsive tables, matrix cards, provenance markers, provenance code handling, and strip-title behavior.
 
 Research date: 2026-07-03 JST.
 
@@ -15,9 +17,9 @@ This document evaluates whether FinWiki should move its four custom Markdown tra
 - `remark-wikilink`
 - `remark-provenance`
 
-No source code, configuration, template, release, generated, or corpus file changes are part of this issue. A later implementation issue may be opened only if this document recommends a port or if the project later reverses the decision with new evidence.
+No source code, configuration, template, release, generated, or corpus file changes were part of issue #153. The project later reversed the recommendation by maintainer decision, and #157 implemented the port. The original feasibility analysis below is retained as historical record instead of being deleted.
 
-## Current Baseline
+## Historical Baseline Before #157
 
 Issue #151 upgraded the site to Astro 7 while preserving the four custom transforms through:
 
@@ -33,7 +35,9 @@ export default defineConfig({
 });
 ```
 
-The upgrade kept the rendered output byte-equivalent to the Astro 5 production site. That matters because the Markdown pipeline owns reader-facing H3 behavior: duplicate-title removal, target-kind wikilinks, hover-preview data, provenance markers, responsive financial tables, matrix cards, and semantic timelines.
+The upgrade kept the rendered output byte-equivalent to the Astro 5 production site. That mattered because the Markdown pipeline owns reader-facing H3 behavior: duplicate-title removal, target-kind wikilinks, hover-preview data, provenance markers, responsive financial tables, matrix cards, and semantic timelines.
+
+After #157, this is no longer the current baseline. The current site uses the Satteri-native processor configured with `mdastPlugins` and `hastPlugins`. The four original `site/src/plugins/remark-*.mjs` plugins are intentionally retained as a rollback path, not as the active Markdown pipeline.
 
 ## Official Capability Findings
 
@@ -65,7 +69,9 @@ Sources:
 - Satteri plugin API: https://satteri.bruits.org/docs/plugin-api/
 - Satteri features reference: https://satteri.bruits.org/docs/features/
 
-## Feasibility Summary
+## Historical Feasibility Summary
+
+The following feasibility summary is the original #154 analysis. It explains why the port was considered risky before the maintainer reversal and before #157 proved rendered parity.
 
 A Satteri-native port is technically feasible only as a rewrite, not as a configuration move. The current remark plugins use `unist-util-visit`, mutate plain JavaScript MDAST objects, and receive a unified `file` object. Satteri plugins receive read-only Rust-backed node views and must mutate through `ctx`. Existing plugins therefore cannot be reused unmodified.
 
@@ -86,9 +92,9 @@ The port is not blocked by the lack of a JavaScript extension API. Satteri has o
 | `remark-wikilink` | Rewrites `[[target]]` and `[[target|label]]` into raw HTML anchors for resolved targets and spans for broken targets. Resolved anchors include `.wl`, `.wl--route` / `.wl--peer` / `.wl--system`, `href`, `data-wl`, `data-wl-kind`, `data-wl-route`, and localized hover-preview attributes such as `data-wl-title-ja`, `data-wl-title-en`, `data-wl-lead-*`, and `data-wl-domain-*`. Broken links remain `.wl.wl-broken` spans. Code blocks containing wikilinks become `<pre class="astro-code wl-code" tabindex="0" data-language="..."><code>...</code></pre>`. | Do not rely on Satteri's `features.wikilinks` alone because it cannot perform FinWiki route semantics. Implement a Satteri MDAST `text` visitor that splits text nodes into text and `{ rawHtml }` siblings, using `ctx.parent()` and `ctx.indexOf()` to replace the current node with multiple nodes. Implement a `code` visitor that returns one `{ rawHtml }` block for `wl-code`. Resolve current entry and language from `ctx.fileURL` where available, with `ctx.source` frontmatter parsing as a fallback. Preserve existing site-index and preview-index helper logic. | Feasible but high-risk. The main risk is not syntax parsing; it is preserving exact current-entry detection, language detection, table-cell repair ordering, escaping, relative href behavior, and preview attribute parity. |
 | `remark-provenance` | Converts `^[...]`, escaped provenance markers, and `[source:...]` markers into `<sup class="prov ...">` markers. It emits source links with `target="_blank" rel="noopener noreferrer"` for external URLs, `#sources` fallback links, verified/extracted/inferred/ambiguous/note classes, and cleaned links when markers are attached to Markdown links. Code blocks containing markers become `<pre class="astro-code prov-code" tabindex="0" data-language="..."><code>...</code></pre>`. | Implement a Satteri MDAST plugin factory that first collects source-list data from headings/lists, then visits `link`, `text`, `html`, and `code`. Use `ctx.textContent()` for source matching, `ctx.setProperty()` for link URL cleanup, `ctx.insertAfter()` or parent child-list replacement for marker insertion after links, and `{ rawHtml }` for marker and code-block HTML. This plugin must still run after wikilinks so markers embedded in raw wikilink/code HTML are processed or deliberately handled during wikilink rendering. | Feasible but high-risk. The current plugin depends on whole-document source collection plus careful link/code/html marker splitting; Satteri can express the operations, but parity is not a mechanical translation. |
 
-## Required Port Design If This Decision Is Reversed
+## Historical Port Design Used After Reversal
 
-If a later issue decides to port, it should not attempt a single all-at-once rewrite. Use the following design boundary:
+#157 was the later issue that reversed the original decision and implemented the port. The design boundary remains useful as historical context and rollback guidance:
 
 1. Add Satteri-native plugin modules next to, not over, the existing remark plugins.
 2. Keep the current unified processor as the baseline during development.
@@ -103,11 +109,11 @@ If a later issue decides to port, it should not attempt a single all-at-once rew
 7. Keep the responsive table HTML repair hook until rendered parity proves it is unnecessary under Satteri.
 8. Remove `@astrojs/markdown-remark` only after the Satteri branch has passed rendered-output parity checks on both languages.
 
-The later issue must also include a rollback path: switch `markdown.processor` back to `unified()` and keep the current four remark plugins untouched.
+#157 removed `@astrojs/markdown-remark` as a direct site dependency after parity checks passed. It also preserved a rollback path: the current Satteri configuration can be switched back to `unified()` by restoring the dependency and reusing the four retained `site/src/plugins/remark-*.mjs` plugins.
 
-## Validation Plan For A Future Port
+## Historical Validation Plan For The Port
 
-If a future issue recommends and implements PORT, validation must mirror the Astro 7 upgrade checks and add count-level parity gates:
+The port implementation in #157 used this class of validation to prove count-level parity. Keep it as the expected regression surface for future Markdown pipeline changes:
 
 Command checks:
 
@@ -148,17 +154,17 @@ Recommended representative pages:
 
 Acceptance for a future port must be stricter than "build green." It must prove identical or intentionally explained counts for the marker surfaces above. Any unexplained count drift is a release blocker because these classes and attributes are functional UI contracts.
 
-## Recommendation
+## Superseded Recommendation
 
-Do not port in the next implementation issue. The evidence supports "possible but not worth doing now," not "impossible." Satteri exposes a JavaScript plugin API capable of MDAST and HAST transforms, but the four FinWiki plugins would need rewritten implementations and full rendered-output parity testing.
+Original #154 recommendation, superseded by the maintainer reversal and #157: do not port in the next implementation issue. The evidence supported "possible but not worth doing now," not "impossible." Satteri exposes a JavaScript plugin API capable of MDAST and HAST transforms, but the four FinWiki plugins would need rewritten implementations and full rendered-output parity testing.
 
-The current unified path is supported by Astro 7, already works after #151, and has no current deprecation deadline beyond requiring the direct `@astrojs/markdown-remark` dependency that is already present. Porting now would spend engineering risk on infrastructure churn while the reader-facing output must remain exactly unchanged.
+At the time, the unified path was supported by Astro 7, worked after #151, and had no current deprecation deadline beyond requiring the direct `@astrojs/markdown-remark` dependency. The maintainer later accepted the engineering risk, and #157 shipped the Satteri-native implementation with confirmed Japanese and English rendered marker parity.
 
-Open a Satteri implementation issue only if at least one of these becomes true:
+The original recommendation was to open a Satteri implementation issue only if at least one of these became true:
 
 - Astro announces a concrete removal timeline for the unified processor path.
 - Satteri offers a documented compatibility layer or migration helper that materially lowers rewrite risk.
 - Build performance becomes a measured blocker and profiling shows Markdown processing is the bottleneck.
 - A new Markdown feature required by FinWiki is materially easier or safer to implement on Satteri than on unified.
 
-Until then, keep the Astro 7 unified shim and treat the current remark plugin output as the canonical behavior.
+That recommendation is no longer current. After #157, FinWiki's canonical Markdown behavior is the Satteri-native processor with retained remark plugins serving only as a rollback path.
