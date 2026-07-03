@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-01T19:06:27+09:00
+Generated: 2026-07-03T16:25:52+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1565
-Public pages listed: 1564
+Markdown files: 1566
+Public pages listed: 1565
 
 ## Reading Rules
 
@@ -357,6 +357,16 @@ Public pages listed: 1564
 - Summary: This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.
 - Headings: ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow, https://finwiki.zksc.io/systems/erc-7702-overview, https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337
+
+### Agent2Agent (A2A) · cross-vendor agent interoperability protocol
+- URL: https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol
+- Source path: agent-economy/google-a2a-agent-interop-protocol.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/google-a2a-agent-interop-protocol.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits beside AI Agent payment protocols overview because agent commerce needs a non-payment coordination layer before money moves. Read it against AP2 · Google Agent Payments Protocol and agent payment protocol comparison for the payment boundary, agent identity bridge for identity and aut
+- Headings: Agent2Agent (A2A) · cross-vendor agent interoperability protocol, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge, https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/ap2-technical-spec, https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/INDEX
 
 ### Lit Protocol PKP · Programmable Key Pairs for AI agents
 - URL: https://finwiki.zksc.io/agent-economy/lit-protocol-pkp-agent-keys

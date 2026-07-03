@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1565 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1566 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
-| Link-audited entries | 1483 | Entries checked by `tools/wiki_link_audit.ts` |
+| Link-audited entries | 1484 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1047万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,469,782） |
+| Text volume | 約1048万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,479,672） |
 | Word-like tokens | 約168万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -61,11 +61,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1565 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1566 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
-| Link-audited entries | 1483 | Entries checked by `tools/wiki_link_audit.ts` |
+| Link-audited entries | 1484 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.47M chars | ~10,469,782 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.48M chars | ~10,479,672 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.68M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances

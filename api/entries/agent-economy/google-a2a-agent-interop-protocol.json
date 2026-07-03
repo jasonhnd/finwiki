@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/google-a2a-agent-interop-protocol",
+  "source_path": "agent-economy/google-a2a-agent-interop-protocol.md",
+  "url": "https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/google-a2a-agent-interop-protocol.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/google-a2a-agent-interop-protocol.md",
+  "domain": "agent-economy",
+  "title": "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
+    "aliases": [
+      "google-a2a-agent-interop-protocol",
+      "agent2agent",
+      "A2A",
+      "a2a-protocol",
+      "agent-card-json"
+    ],
+    "domain": "agent-economy",
+    "type": null,
+    "created": "2026-07-03",
+    "last_updated": "2026-07-03",
+    "last_tended": "2026-07-03",
+    "review_by": "2027-01-03",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "protocol",
+      "a2a",
+      "agent2agent",
+      "interoperability",
+      "google",
+      "linux-foundation",
+      "mcp",
+      "ap2",
+      "agent-card"
+    ],
+    "status": "candidate",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "sources": [
+      "https://github.com/a2aproject/A2A",
+      "https://a2a-protocol.org/latest/specification/",
+      "https://a2a-protocol.org/latest/topics/agent-discovery/",
+      "https://a2a-protocol.org/latest/topics/a2a-and-mcp/",
+      "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/",
+      "https://www.linuxfoundation.org/press/linux-foundation-launches-the-agent2agent-protocol-project-to-enable-secure-intelligent-communication-between-ai-agents",
+      "https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year",
+      "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/",
+      "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/",
+      "https://cloud.google.com/blog/products/ai-machine-learning/agent2agent-protocol-is-getting-an-upgrade",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol"
+    ]
+  },
+  "summary": "This entry sits beside AI Agent payment protocols overview because agent commerce needs a non-payment coordination layer before money moves. Read it against AP2 · Google Agent Payments Protocol and agent payment protocol comparison for the payment boundary, agent identity bridge for identity and aut",
+  "headings": [
+    "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/agent-identity-defi-and-traditional-finance-bridge",
+      "agent-economy/agent-payment-protocol-four-way-comparison-2026",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/ap2-technical-spec",
+      "agent-economy/claude-code-extension-architecture",
+      "agent-economy/x402-http-payment-overview",
+      "payments/INDEX",
+      "systems/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge",
+      "https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
+      "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9833,
+    "word_like_tokens": 1552,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-07-03"
+  }
+}

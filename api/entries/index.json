@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-01T19:06:28+09:00",
+  "generated_at": "2026-07-03T16:25:53+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1476,
+  "total_entries": 1477,
   "entries": [
     {
       "slug": "JapanFG/INDEX",
@@ -199,6 +199,13 @@
       "title": "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/erc-7715-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/erc-7715-overview"
+    },
+    {
+      "slug": "agent-economy/google-a2a-agent-interop-protocol",
+      "domain": "agent-economy",
+      "title": "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/google-a2a-agent-interop-protocol.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol"
     },
     {
       "slug": "agent-economy/lit-protocol-pkp-agent-keys",
