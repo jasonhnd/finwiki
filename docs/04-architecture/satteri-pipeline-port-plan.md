@@ -37,7 +37,7 @@ export default defineConfig({
 
 The upgrade kept the rendered output byte-equivalent to the Astro 5 production site. That mattered because the Markdown pipeline owns reader-facing H3 behavior: duplicate-title removal, target-kind wikilinks, hover-preview data, provenance markers, responsive financial tables, matrix cards, and semantic timelines.
 
-After #157, this is no longer the current baseline. The current site uses the Satteri-native processor configured with `mdastPlugins` and `hastPlugins`. The four original `site/src/plugins/remark-*.mjs` plugins are intentionally retained as a rollback path, not as the active Markdown pipeline.
+After #157, this is no longer the current baseline. The current site uses the Satteri-native processor configured with `mdastPlugins` and `hastPlugins`. After #160, the four original `site/src/plugins/remark-*.mjs` plugins have been removed because they are no longer imported by the active site pipeline. The rollback path is to `git revert` the #157 Satteri port commit(s), which restores the unified configuration and original remark plugins from git history.
 
 ## Official Capability Findings
 
@@ -109,7 +109,7 @@ The port is not blocked by the lack of a JavaScript extension API. Satteri has o
 7. Keep the responsive table HTML repair hook until rendered parity proves it is unnecessary under Satteri.
 8. Remove `@astrojs/markdown-remark` only after the Satteri branch has passed rendered-output parity checks on both languages.
 
-#157 removed `@astrojs/markdown-remark` as a direct site dependency after parity checks passed. It also preserved a rollback path: the current Satteri configuration can be switched back to `unified()` by restoring the dependency and reusing the four retained `site/src/plugins/remark-*.mjs` plugins.
+#157 removed `@astrojs/markdown-remark` as a direct site dependency after parity checks passed. After #160, the rollback path is no longer a set of retained files in the working tree: revert the #157 Satteri port commit(s) to restore the unified configuration, dependency, and four original `site/src/plugins/remark-*.mjs` plugins from git history.
 
 ## Historical Validation Plan For The Port
 
@@ -167,4 +167,4 @@ The original recommendation was to open a Satteri implementation issue only if a
 - Build performance becomes a measured blocker and profiling shows Markdown processing is the bottleneck.
 - A new Markdown feature required by FinWiki is materially easier or safer to implement on Satteri than on unified.
 
-That recommendation is no longer current. After #157, FinWiki's canonical Markdown behavior is the Satteri-native processor with retained remark plugins serving only as a rollback path.
+That recommendation is no longer current. After #157, FinWiki's canonical Markdown behavior is the Satteri-native processor; after #160, the original remark plugins have been removed, and rollback is handled by reverting the #157 Satteri port commit(s) from git history.
