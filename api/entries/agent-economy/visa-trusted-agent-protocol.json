@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/visa-trusted-agent-protocol",
+  "source_path": "agent-economy/visa-trusted-agent-protocol.md",
+  "url": "https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/visa-trusted-agent-protocol.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/visa-trusted-agent-protocol.md",
+  "domain": "agent-economy",
+  "title": "Visa Trusted Agent Protocol · signed-agent authentication for commerce",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Visa Trusted Agent Protocol · signed-agent authentication for commerce",
+    "aliases": [
+      "visa-trusted-agent-protocol",
+      "visa-tap",
+      "trusted-agent-protocol",
+      "tap",
+      "visa-intelligent-commerce-tap"
+    ],
+    "domain": "agent-economy",
+    "type": null,
+    "created": "2026-07-04",
+    "last_updated": "2026-07-04",
+    "last_tended": "2026-07-04",
+    "review_by": "2026-10-02",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "visa",
+      "trusted-agent-protocol",
+      "tap",
+      "agentic-commerce",
+      "cloudflare",
+      "web-bot-auth",
+      "http-signatures"
+    ],
+    "status": "active",
+    "canonical_anchor": null,
+    "related": [],
+    "note": null,
+    "sources": [
+      "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.21716.html",
+      "https://developer.visa.com/capabilities/trusted-agent-protocol/trusted-agent-protocol-specifications",
+      "https://github.com/visa/trusted-agent-protocol",
+      "https://blog.cloudflare.com/secure-agentic-commerce/",
+      "https://www.cloudflare.com/press/press-releases/2025/cloudflare-collaborates-with-leading-payments-companies-to-secure-and-enable-agentic-commerce/",
+      "https://www.visa.com/en-us/solutions/intelligent-commerce"
+    ]
+  },
+  "summary": "This entry sits under AI Agent payment protocols overview as Visa's signed-agent authentication layer for merchant traffic. Read it against Visa / Mastercard agentic commerce pilots, agent identity bridge, and x402 Cloudflare / AWS edge integration because TAP is more about identity, intent, and pay",
+  "headings": [
+    "Visa Trusted Agent Protocol · signed-agent authentication for commerce",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/agent-identity-defi-and-traditional-finance-bridge",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/openai-stripe-agentic-commerce-protocol",
+      "agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "agent-economy/x402-http-payment-overview",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol",
+      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6954,
+    "word_like_tokens": 1101,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-07-04"
+  }
+}
