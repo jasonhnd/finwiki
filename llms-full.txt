@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-01T19:06:27+09:00
+Generated: 2026-07-04T17:54:35+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1565
-Public pages listed: 1564
+Markdown files: 1571
+Public pages listed: 1570
 
 ## Reading Rules
 
@@ -258,6 +258,16 @@ Public pages listed: 1564
 - Headings: AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-adoption, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview
 
+### Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
+- URL: https://finwiki.zksc.io/agent-economy/circle-agent-stack-usdc
+- Source path: agent-economy/circle-agent-stack-usdc.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/circle-agent-stack-usdc.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols overview as the Circle / USDC issuer-stack view of agent payments. Read it with stablecoin routing for AI agent transactions for the broader settlement-asset question, x402 HTTP payment overview for the HTTP 402 negotiation layer, and Coinbase CDP dev
+- Headings: Circle Agent Stack · USDC agent wallets, nanopayments & marketplace, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/agent-custody-and-authorization-framework-2026, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange
+
 ### Claude Code 拡張コンポーネントアーキテクチャ
 - URL: https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture
 - Source path: agent-economy/claude-code-extension-architecture.md
@@ -267,6 +277,16 @@ Public pages listed: 1564
 - Summary: This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it with ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済 for adjacent context and AP2 · Google Agent Payments Protocol 概観 for the broader system boundary.
 - Headings: Claude Code 拡張コンポーネントアーキテクチャ, Wiki route, 一、6つの拡張コンポーネント, 二、コンポーネント間の区分, Skills vs Subagent, CLAUDE.md vs Skills, MCP vs Skill, 三、Plugins & Marketplace
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/skill-market-monetization, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/erc-4337-overview
+
+### Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base
+- URL: https://finwiki.zksc.io/agent-economy/coinbase-agentkit-agentic-wallets
+- Source path: agent-economy/coinbase-agentkit-agentic-wallets.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/coinbase-agentkit-agentic-wallets.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under agent-economy index as the Coinbase-specific agent wallet / agent payment implementation note. Read it against Coinbase CDP for the broader developer-platform substrate, x402 for the HTTP payment protocol, ERC-4337 account abstraction for agents for adjacent wallet-permission d
+- Headings: Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/embedded-wallet-landscape-2026-consolidation, https://finwiki.zksc.io/agent-economy/erc-4337-account-abstraction-primer-for-agents, https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange
 
 ### Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤
 - URL: https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform
@@ -358,6 +378,16 @@ Public pages listed: 1564
 - Headings: ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow, https://finwiki.zksc.io/systems/erc-7702-overview, https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337
 
+### Agent2Agent (A2A) · cross-vendor agent interoperability protocol
+- URL: https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol
+- Source path: agent-economy/google-a2a-agent-interop-protocol.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/google-a2a-agent-interop-protocol.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits beside AI Agent payment protocols overview because agent commerce needs a non-payment coordination layer before money moves. Read it against AP2 · Google Agent Payments Protocol and agent payment protocol comparison for the payment boundary, agent identity bridge for identity and aut
+- Headings: Agent2Agent (A2A) · cross-vendor agent interoperability protocol, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge, https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/ap2-technical-spec, https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/INDEX
+
 ### Lit Protocol PKP · Programmable Key Pairs for AI agents
 - URL: https://finwiki.zksc.io/agent-economy/lit-protocol-pkp-agent-keys
 - Source path: agent-economy/lit-protocol-pkp-agent-keys.md
@@ -378,6 +408,16 @@ Public pages listed: 1564
 - Headings: LLM and AI agent applications in finance · 2026-05 application surface overview, TL;DR, Wiki route, Seven application surfaces · maturity by category, Per-category deep dive, (a) Customer-facing chatbots, (b) Back-office automation · KYC / AML / compliance review, (c) Trading and execution · NLU news → trading signal / agent-driven hedging
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/agent-actorship-debate, https://finwiki.zksc.io/agent-economy/agent-custody-and-authorization-framework-2026, https://finwiki.zksc.io/agent-economy/agent-driven-market-data-interpretation-pipeline, https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge, https://finwiki.zksc.io/agent-economy/agent-legal-tax-liability-framework, https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026, https://finwiki.zksc.io/agent-economy/agent-protocol-mainnet-adoption-2026, https://finwiki.zksc.io/agent-economy/ai-driven-trading-regulation-japan-2026, https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture, https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position
 
+### Mastercard Agent Pay for Machines · AP4M machine-speed agent settlement
+- URL: https://finwiki.zksc.io/agent-economy/mastercard-agent-pay-for-machines
+- Source path: agent-economy/mastercard-agent-pay-for-machines.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/mastercard-agent-pay-for-machines.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols overview as Mastercard's machine-to-machine complement to its consumer-facing Agent Pay program. Read it against Visa / Mastercard agentic commerce pilots for the card-network pilot layer, AP2 for mandate-style authorization, x402 for HTTP-native micr
+- Headings: Mastercard Agent Pay for Machines · AP4M machine-speed agent settlement, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions, https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position, https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview
+
 ### Nevermined · AI compute-payment protocol
 - URL: https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol
 - Source path: agent-economy/nevermined-compute-payment-protocol.md
@@ -387,6 +427,16 @@ Public pages listed: 1564
 - Summary: This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP-native micropayment for peer / contrast, skill market monetization for the marketplace framing, and payments index for the broader rail context.
 - Headings: Nevermined · AI compute-payment protocol, Wiki route, Key facts, Mechanism — how Nevermined routes compute payments, Compute-marketplace fit, Integration with x402, Where Nevermined sits, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/skill-market-monetization, https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison
+
+### OpenAI + Stripe Agentic Commerce Protocol · ChatGPT Instant Checkout
+- URL: https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol
+- Source path: agent-economy/openai-stripe-agentic-commerce-protocol.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/openai-stripe-agentic-commerce-protocol.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols overview as the ChatGPT-native checkout rail. Read it against AP2, x402, Stripe Agent Toolkit, AI-company payment landscape, and Visa / Mastercard agentic commerce pilots for the competing mandate, HTTP-payment, PSP, AI-lab, and card-network layers. F
+- Headings: OpenAI + Stripe Agentic Commerce Protocol · ChatGPT Instant Checkout, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position, https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/payments/INDEX
 
 ### Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング
 - URL: https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet
@@ -477,6 +527,16 @@ Public pages listed: 1564
 - Summary: Visa Intelligent Commerce (announced 2024-Q4, expanded with the Trusted Agent Protocol in 2025) and Mastercard Agent Pay (announced early 2025) are the card networks' answer to the same problem that x402, AP2, and ERC-7715 are answering from the open-protocol side: how does an AI agent pay on behalf
 - Headings: Visa Intelligent Commerce + Mastercard Agent Pay · Card-Network Agentic Commerce Pilots, TL;DR, Wiki route, Mechanism · Visa Intelligent Commerce, Mechanism · Mastercard Agent Pay, Mechanism · what the card-network rails bring to agents that open-protocol does not, Agent-specific scenarios, Regulatory framing · closed-loop network rules vs open-protocol freelancing
 - First resolved wikilinks: https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers, https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape, https://finwiki.zksc.io/agent-economy/ap2-adoption, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/ap2-technical-spec, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat, https://finwiki.zksc.io/agent-economy/erc-4337-account-abstraction-primer-for-agents, https://finwiki.zksc.io/agent-economy/erc-7702-eoa-delegation-primer-for-agents
+
+### Visa Trusted Agent Protocol · signed-agent authentication for commerce
+- URL: https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol
+- Source path: agent-economy/visa-trusted-agent-protocol.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/visa-trusted-agent-protocol.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols overview as Visa's signed-agent authentication layer for merchant traffic. Read it against Visa / Mastercard agentic commerce pilots, agent identity bridge, and x402 Cloudflare / AWS edge integration because TAP is more about identity, intent, and pay
+- Headings: Visa Trusted Agent Protocol · signed-agent authentication for commerce, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol, https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots, https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/payments/INDEX
 
 ### x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント
 - URL: https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration
