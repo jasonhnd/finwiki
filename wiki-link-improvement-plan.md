@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1483 |
+| Entries checked | 1489 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 6 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,13 +41,19 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `agent-economy/mastercard-agent-pay-for-machines.md` | `??` | 10 | ok |
+| `agent-economy/openai-stripe-agentic-commerce-protocol.md` | `??` | 11 | ok |
+| `agent-economy/visa-trusted-agent-protocol.md` | `??` | 10 | ok |
+| `agent-economy/circle-agent-stack-usdc.md` | `A` | 6 | ok |
+| `agent-economy/coinbase-agentkit-agentic-wallets.md` | `A` | 7 | ok |
+| `agent-economy/google-a2a-agent-interop-protocol.md` | `A` | 9 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
 | `JapanFG` | 1 | 0 | 17.0 |
-| `agent-economy` | 41 | 0 | 13.5 |
+| `agent-economy` | 47 | 0 | 12.9 |
 | `asset-managers` | 15 | 0 | 17.2 |
 | `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
@@ -71,7 +77,6 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `issue-115` | 1 | 0 | 46.0 |
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
@@ -94,6 +99,7 @@
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
 | `trust-banks` | 48 | 0 | 12.7 |
+| `wt` | 1 | 0 | 46.0 |
 
 ## canonical_anchor Integrity (drift-gated)
 

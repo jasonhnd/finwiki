@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://finwiki.zksc.io/</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/CHANGELOG</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/README.md</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -157,8 +157,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/agent-economy/circle-agent-stack-usdc</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture</loc>
     <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/agent-economy/coinbase-agentkit-agentic-wallets</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,6 +229,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/agent-economy/lit-protocol-pkp-agent-keys</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,8 +247,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/agent-economy/mastercard-agent-pay-for-machines</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol</loc>
     <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -285,6 +315,12 @@
   <url>
     <loc>https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-01T19:06:28+09:00",
+  "generated_at": "2026-07-04T17:54:36+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1476,
+  "total_entries": 1482,
   "entries": [
     {
       "slug": "JapanFG/INDEX",
@@ -131,11 +131,25 @@
       "html_url": "https://finwiki.zksc.io/agent-economy/ap2-technical-spec"
     },
     {
+      "slug": "agent-economy/circle-agent-stack-usdc",
+      "domain": "agent-economy",
+      "title": "Circle Agent Stack · USDC agent wallets, nanopayments & marketplace",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/circle-agent-stack-usdc.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/circle-agent-stack-usdc"
+    },
+    {
       "slug": "agent-economy/claude-code-extension-architecture",
       "domain": "agent-economy",
       "title": "Claude Code 拡張コンポーネントアーキテクチャ",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/claude-code-extension-architecture.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture"
+    },
+    {
+      "slug": "agent-economy/coinbase-agentkit-agentic-wallets",
+      "domain": "agent-economy",
+      "title": "Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/coinbase-agentkit-agentic-wallets.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/coinbase-agentkit-agentic-wallets"
     },
     {
       "slug": "agent-economy/coinbase-cdp-developer-platform",
@@ -201,6 +215,13 @@
       "html_url": "https://finwiki.zksc.io/agent-economy/erc-7715-overview"
     },
     {
+      "slug": "agent-economy/google-a2a-agent-interop-protocol",
+      "domain": "agent-economy",
+      "title": "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/google-a2a-agent-interop-protocol.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol"
+    },
+    {
       "slug": "agent-economy/lit-protocol-pkp-agent-keys",
       "domain": "agent-economy",
       "title": "Lit Protocol PKP · Programmable Key Pairs for AI agents",
@@ -215,11 +236,25 @@
       "html_url": "https://finwiki.zksc.io/agent-economy/llm-agent-finance-application-overview-2026"
     },
     {
+      "slug": "agent-economy/mastercard-agent-pay-for-machines",
+      "domain": "agent-economy",
+      "title": "Mastercard Agent Pay for Machines · AP4M machine-speed agent settlement",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/mastercard-agent-pay-for-machines.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/mastercard-agent-pay-for-machines"
+    },
+    {
       "slug": "agent-economy/nevermined-compute-payment-protocol",
       "domain": "agent-economy",
       "title": "Nevermined · AI compute-payment protocol",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/nevermined-compute-payment-protocol.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol"
+    },
+    {
+      "slug": "agent-economy/openai-stripe-agentic-commerce-protocol",
+      "domain": "agent-economy",
+      "title": "OpenAI + Stripe Agentic Commerce Protocol · ChatGPT Instant Checkout",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/openai-stripe-agentic-commerce-protocol.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol"
     },
     {
       "slug": "agent-economy/privy-aws-agentcore-default-wallet",
@@ -283,6 +318,13 @@
       "title": "Visa Intelligent Commerce + Mastercard Agent Pay · Card-Network Agentic Commerce Pilots",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/visa-mastercard-agentic-commerce-pilots.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots"
+    },
+    {
+      "slug": "agent-economy/visa-trusted-agent-protocol",
+      "domain": "agent-economy",
+      "title": "Visa Trusted Agent Protocol · signed-agent authentication for commerce",
+      "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/visa-trusted-agent-protocol.json",
+      "html_url": "https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol"
     },
     {
       "slug": "agent-economy/x402-cloudflare-aws-edge-integration",
