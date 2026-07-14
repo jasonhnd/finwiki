@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 6 |
+| Changed or new entries in current worktree | 1 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,12 +41,7 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `agent-economy/mastercard-agent-pay-for-machines.md` | `??` | 10 | ok |
-| `agent-economy/openai-stripe-agentic-commerce-protocol.md` | `??` | 11 | ok |
-| `agent-economy/visa-trusted-agent-protocol.md` | `??` | 10 | ok |
-| `agent-economy/circle-agent-stack-usdc.md` | `A` | 6 | ok |
-| `agent-economy/coinbase-agentkit-agentic-wallets.md` | `A` | 7 | ok |
-| `agent-economy/google-a2a-agent-interop-protocol.md` | `A` | 9 | ok |
+| `INDEX.md` | `M` | 46 | ok |
 
 ## Domain Snapshot
 
@@ -74,6 +69,7 @@
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
+| `finwiki` | 1 | 0 | 46.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
@@ -99,7 +95,6 @@
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
 | `trust-banks` | 48 | 0 | 12.7 |
-| `wt` | 1 | 0 | 46.0 |
 
 ## canonical_anchor Integrity (drift-gated)
 
