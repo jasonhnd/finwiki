@@ -25,8 +25,8 @@
 - Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1489
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,520,396
-- Word-like tokens: 1,686,245
+- Non-space UTF-8 characters across Markdown: 10,522,374
+- Word-like tokens: 1,686,634
 
 ## URL Rules for AI Readers
 
@@ -63,7 +63,7 @@
 - exchanges (146 entries): https://finwiki.zksc.io/exchanges/INDEX - Japan and global CEX / DEX, VASP regulation, JVCEA / FSA registered-operator completeness, custody, IEO, warnings, and incidents.
 - fintech (143 entries): https://finwiki.zksc.io/fintech/INDEX - Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics.
 - systems (61 entries): https://finwiki.zksc.io/systems/INDEX - Cross-chain infrastructure, BFT / validator economics, account abstraction, Canton / DAML, Besu, Ethereum upgrades, and protocol implementation topics.
-- agent-economy (40 entries): https://finwiki.zksc.io/agent-economy/INDEX - AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure.
+- agent-economy (46 entries): https://finwiki.zksc.io/agent-economy/INDEX - AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure.
 - banking (39 entries): https://finwiki.zksc.io/banking/INDEX - Net banks, net-bank competition map, BaaS operating models, cooperative banking, JA Bank system, JF Marine Bank system, shinkin / credit-cooperative / rokin registry indexes, trust-bank / custody infrastructure, trust-bank custody operating comparison, master trust / custody bank landscape, regional bank API partnerships, foreign-bank retreat, regional-bank consolidation, quick-deposit flows, the Japan banking license tier comparison matrix (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF), and the Japan trust bank vs global custodian comparison matrix.
 - business (24 entries): https://finwiki.zksc.io/business/INDEX - Public company / public person strategic cases and business-model context.
 - policy-finance (34 entries): https://finwiki.zksc.io/policy-finance/INDEX - Public finance, development finance, export credit, housing finance, SME / agriculture / fisheries credit guarantees, policy-bank adjacency, JICA, JBIC, NEXI, JOGMEC, and JASSO.
