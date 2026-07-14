@@ -115,7 +115,7 @@ Do not port these plugins to Satteri in the first v7 upgrade. A Satteri port can
 | Deprecated `NodeApp` from `astro/app/node` | No adapter code found. | No planned change. |
 | Deprecated `loadManifest()` / `loadApp()` from `astro/app/node` | No adapter code found. | No planned change. |
 | Deprecated `createExports()` / `start()` adapter API | No custom adapter found. | No planned change. |
-| Removed legacy content collections | Applies as a guardrail, not as a current blocker. | Preserve Content Layer `glob()` collections. If any old mirror under `site/src/content/entries` reappears, do not restore it as a build input. |
+| Removed legacy content collections | Applies as a guardrail, not as a current blocker. | Preserve Content Layer `glob()` collections. The site reads the root Japanese corpus plus `site/src/content/i18n/{ja,en}/`; do not reintroduce any legacy content-collection mirror under `site/src/content/` as a build input. |
 | Removed `<ViewTransitions />` | No match found. | No planned change. |
 | Removed `emitESMImage()` | No match found. | No planned change. |
 | Removed `Astro.glob()` | No match found. | No planned change. Continue using `getCollection()` and content loaders. |
@@ -210,7 +210,7 @@ Rendered-output validation:
 | Surface | Must verify |
 |---|---|
 | Wikilinks | Tiered wikilinks, broken wikilinks, localized labels, relative hrefs, and hover-preview data attributes render in `/ja/` and `/en/`. |
-| Tables | Sticky header tables, card tables, mobile table `data-label` fields, and the post-build table repair hook still work. |
+| Tables | Sticky header tables, card tables, and mobile table `data-label` fields still work via the Satteri-native `mdastPlugins` / `hastPlugins` pipeline (Bun + TypeScript). |
 | Timelines | Semantic timeline lists render as `.timeline` with date/event spans and survive both source Markdown and i18n mirrors. |
 | Provenance | Source, verified, inferred, ambiguous, and note markers render; source links point to external URLs or `#sources` as before. |
 | H2/H3 reading | Inline and rail TOCs link to generated heading IDs; H3 indentation and active-state behavior still work. |
