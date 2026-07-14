@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-04T17:54:35+09:00",
+  "generated_at": "2026-07-15T00:22:53+09:00",
   "counts": {
     "markdown_files": 1571,
     "public_markdown_pages": 1570,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10520396,
-    "word_like_tokens": 1686245,
+    "nonspace_utf8_chars": 10522374,
+    "word_like_tokens": 1686634,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -186,7 +186,7 @@
     },
     {
       "domain": "agent-economy",
-      "entries": 40,
+      "entries": 46,
       "route": "agent-economy/INDEX",
       "url": "https://finwiki.zksc.io/agent-economy/INDEX",
       "scope": "AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure."
@@ -2415,6 +2415,9 @@
         "Maintenance Principles",
         "日本語",
         "English",
+        "2026-07-15 - Hygiene wave: agent-economy count + stale docs + ROADMAP exclusion (#175)",
+        "日本語",
+        "English",
         "2026-07-01 - i18n bilingual site cutover (#126)",
         "日本語",
         "English"
@@ -2424,8 +2427,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3284,
-      "word_like_tokens": 572,
+      "nonspace_chars": 5609,
+      "word_like_tokens": 1016,
       "last_modified": "2026-07-01"
     },
     {
@@ -2970,7 +2973,7 @@
       "entity_edges": [],
       "nonspace_chars": 3970,
       "word_like_tokens": 681,
-      "last_modified": "2026-07-01"
+      "last_modified": "2026-07-04"
     },
     {
       "source_path": "SCHEMA.md",
@@ -96161,9 +96164,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3749,
-      "word_like_tokens": 686,
-      "last_modified": "2026-06-29"
+      "nonspace_chars": 3402,
+      "word_like_tokens": 631,
+      "last_modified": "2026-07-04"
     }
   ]
 }

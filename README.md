@@ -12,7 +12,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1052万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,520,396） |
+| Text volume | 約1052万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,522,374） |
 | Word-like tokens | 約169万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -65,7 +65,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.52M chars | ~10,520,396 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.52M chars | ~10,522,374 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.69M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances

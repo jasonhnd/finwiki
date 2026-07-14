@@ -29,6 +29,7 @@ const CONTROL_DOCS = new Set([
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",
   "wiki-link-improvement-plan.md",
+  "ROADMAP.md",
 ]);
 
 const SYSTEM_KEYWORDS = [
