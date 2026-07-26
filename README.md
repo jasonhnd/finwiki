@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1571 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1572 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1052万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,522,374） |
+| Text volume | 約1054万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,536,023） |
 | Word-like tokens | 約169万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -29,8 +29,8 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 ### 運用ルール
 
-1. `README.md` と `CHANGELOG.md` は日本語と英語を同時に維持します。
-2. 日本語を先に置き、英語を後に置きます。
+1. `README.md`、`CHANGELOG.md`、release note、GitHub Release body は日本語、英語、中国語を同時に維持します。
+2. 日本語を先に置き、次に英語、その後に中国語を置きます。
 3. サイトの公開 i18n は `ja` / `en` のみです。日本語は source、英語は mirror です。
 4. `site/src/content/i18n/ja/**` と `site/src/content/i18n/en/**` は、明示された翻訳作業以外では変更しません。
 5. 新しい公開言語を追加する場合は、事前に architecture decision が必要です。
@@ -40,6 +40,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 ### 検証
 
 ```bash
+bun run release:docs
 bun tools/release.ts --check --strict
 bun run i18n:status
 bun run docs:audit
@@ -51,7 +52,7 @@ git diff --check
 
 ### GitHub Releases
 
-Release title は日本語のみです。Release body は日本語を先に置き、英語を後に置きます。公開範囲、主要変更、検証結果、既知の注意点、次の作業を明記します。
+Release title は日本語のみです。Release body は日本語、英語、中国語の順に置き、各言語で公開範囲、主要変更、検証結果、既知の注意点、次の作業を明記します。
 
 ## English
 
@@ -61,11 +62,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1571 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1572 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.52M chars | ~10,522,374 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.54M chars | ~10,536,023 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.69M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -82,8 +83,8 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 ### Operating Rules
 
-1. Maintain `README.md` and `CHANGELOG.md` in Japanese and English together.
-2. Keep Japanese first and English second.
+1. Maintain `README.md`, `CHANGELOG.md`, release notes, and GitHub Release bodies in Japanese, English, and Chinese together.
+2. Keep Japanese first, English second, and Chinese third.
 3. The public site i18n model supports only `ja` and `en`. Japanese is the source; English is the mirror.
 4. Do not touch `site/src/content/i18n/ja/**` or `site/src/content/i18n/en/**` unless the task explicitly requires translation work.
 5. Any future public language expansion requires a new architecture decision first.
@@ -93,6 +94,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 ### Validation
 
 ```bash
+bun run release:docs
 bun tools/release.ts --check --strict
 bun run i18n:status
 bun run docs:audit
@@ -104,4 +106,58 @@ git diff --check
 
 ### GitHub Releases
 
-Release titles are Japanese only. Release bodies put Japanese first and English second, and must state release scope, major changes, validation results, known notes, and next steps.
+Release titles are Japanese only. Release bodies put Japanese first, English second, and Chinese third, and each language must state release scope, major changes, validation results, known notes, and next steps.
+
+## 中文
+
+FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币、加密资产、资本市场、日本金融机构、政策金融，以及与公开企业和公众人物有关的战略案例。正文只使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
+
+### FinWiki 数据概览
+
+| Metric | Current snapshot | Notes |
+|---|---:|---|
+| Markdown files | 1572 | 公开 corpus、控制文档、模板与 release notes |
+| Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
+| Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
+| Unresolved link issues | 0 | 发布前必须保持为零 |
+| Text volume | 约1054万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,536,023） |
+| Word-like tokens | 约169万 | English / CJK mixed corpus 的近似 token count |
+
+### 入口
+
+| Entry | Purpose |
+|---|---|
+| [finwiki.zksc.io](https://finwiki.zksc.io/) | 公开首页与仓库内容地图 |
+| [/ja/](https://finwiki.zksc.io/ja/) | 日文主要阅读入口 |
+| [/en/](https://finwiki.zksc.io/en/) | 英文镜像阅读入口 |
+| [INDEX.md](INDEX.md) | 领域地图与控制文档索引 |
+| [llms.txt](llms.txt) | 精简 AI / crawler 指南 |
+| [llms-full.txt](llms-full.txt) | 完整页面清单 |
+| [ai-index.json](ai-index.json) | 机器可读检索索引 |
+
+### 维护规则
+
+1. `README.md`、`CHANGELOG.md`、release note 与 GitHub Release body 必须同时维护日文、英文和中文。
+2. 顺序必须是日文在前、英文在中、中文在后。
+3. 公开站点 i18n 只支持 `ja` / `en`；日文是 source，英文是 mirror。
+4. 除非任务明确要求翻译工作，不修改 `site/src/content/i18n/ja/**` 或 `site/src/content/i18n/en/**`。
+5. 未来若新增公开站点语言，必须先作出新的架构决策。
+6. 修改内容、结构、索引、公开快照或维护规则时，必须在同一轮工作中更新 `CHANGELOG.md`。
+7. 修改 wiki 内容、索引、领域数量或公开快照时，执行 `bun run ai:discovery` 与 `bun run release:write`，并检查生成 surface。
+
+### 验证
+
+```bash
+bun run release:docs
+bun tools/release.ts --check --strict
+bun run i18n:status
+bun run docs:audit
+bun run wiki:audit:ci
+cd site && bun install && bun run build
+cd .. && bun run html:check
+git diff --check
+```
+
+### GitHub Releases
+
+Release title 只使用日文。Release body 按日文、英文、中文排序，并在每种语言中写清楚发布范围、主要变更、验证结果、已知注意事项和下一步。

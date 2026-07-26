@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://finwiki.zksc.io/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/CHANGELOG</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/INDEX</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/README.md</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7903,6 +7903,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.07.27</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/retail/INDEX</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -9422,7 +9428,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/wiki-link-improvement-plan</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

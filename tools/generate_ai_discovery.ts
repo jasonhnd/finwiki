@@ -315,32 +315,6 @@ function frontmatterList(value: unknown): string[] {
   return value.map((item) => String(item).trim()).filter(Boolean);
 }
 
-function containsRetiredLocaleReference(value: string): boolean {
-  return /\bzh\b|\/zh\/|ZH|Chinese|中文|简体|簡体|中国語|三言語|三語|三语|trilingual/i.test(value);
-}
-
-function discoveryEntry(entry: Entry): Record<string, unknown> {
-  const record = { ...entry } as Record<string, unknown>;
-  const shouldFilterText =
-    entry.entry_type === "control_doc" ||
-    entry.entry_type === "release_note" ||
-    entry.source_path === "AGENTS.md" ||
-    entry.source_path.startsWith("releases/");
-
-  if (!shouldFilterText) return record;
-
-  if (containsRetiredLocaleReference(String(record.title ?? ""))) {
-    record.title = entry.source_path.replace(/\.md$/, "");
-  }
-  if (containsRetiredLocaleReference(String(record.summary ?? ""))) {
-    record.summary = "";
-  }
-  if (Array.isArray(record.headings)) {
-    record.headings = record.headings.filter((heading) => !containsRetiredLocaleReference(String(heading)));
-  }
-  return record;
-}
-
 async function buildModel(options: CliOptions): Promise<Model> {
   const absoluteMarkdownFiles = await iterMarkdownFiles(options.rootDir);
   const relPaths = absoluteMarkdownFiles.map((filePath) => pathPosix.relative(options.rootDir, filePath));
@@ -424,7 +398,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
     entity_nodes: entityNodes,
     entity_edges: entityGraphEdges,
     entity_relation_counts: entityRelationCounts,
-    entries: entries.map(discoveryEntry),
+    entries: entries.map((entry) => ({ ...entry })),
   };
 }
 

@@ -6,6 +6,7 @@ export interface ReleaseArgs {
   strict: boolean;
   skipAudit: boolean;
   changelogTitle?: string;
+  releaseNoteTitle?: string;
 }
 
 export interface Counts {

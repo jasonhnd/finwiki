@@ -99,7 +99,7 @@ worktree 隔离；若 audit 到不了 issues=0 / dead=0，**提交前 abort**（
 2. **迁移脚本**：`git mv` ×{root,ja,en} + 全 wikilink 重写 + frontmatter domain + canonical_anchor 重写。
 3. **新 INDEX + 站点配置 + audit map + root INDEX**。
 4. **discovery 重生成 + 验证门禁**（§7 全过）。
-5. **文档**：ADR-008（推翻 ADR-004 的理由 + 40 领域）、roadmap/backlog/domains 更新、双语 README/CHANGELOG/release notes。
+5. **文档**：ADR-008（推翻 ADR-004 的理由 + 40 领域）、roadmap/backlog/domains 更新、日文→英文→中文的 README/CHANGELOG/release notes。
 6. **发布**：worktree → main → tag → GitHub Release → CI 绿。
 
 ## 10. 风险
@@ -112,4 +112,4 @@ worktree 隔离；若 audit 到不了 issues=0 / dead=0，**提交前 abort**（
 
 ## 11. 文档/发布义务
 
-按 `AGENTS.md` 与当前双语发布规则：同 session 内更新双语 README + CHANGELOG，跑 discovery 生成，写 `releases/vX.md`，push，更新 GitHub Release。本设计文档在 `docs/`（corpus 排除），不计入公开计数。
+按 `AGENTS.md` 与当前发布规则：同 session 内按日文→英文→中文更新 README + CHANGELOG，运行 `bun run release:docs` 和 discovery 生成，写三语 `releases/vX.md`，push，更新同顺序的 GitHub Release。本设计文档在 `docs/`（corpus 排除），不计入公开计数；人类站点仍只支持 ja/en。
