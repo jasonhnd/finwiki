@@ -21,7 +21,7 @@ labels: ["type:uiux", "needs-spec"]
 
 ## Acceptance Criteria
 - <observable visual / interaction outcome>
-- Both light/dark and ja/en/zh remain intentional where applicable.
+- Both light/dark and the supported human-site locales ja/en remain intentional.
 
 ## Validation
 - Site build + `bun run html:check`
@@ -34,4 +34,4 @@ labels: ["type:uiux", "needs-spec"]
 - docs/05-functional-specs/ui-ux.md
 
 ## Release Notes
-- If this changes public site behavior or entry points, update README.md / CHANGELOG.md per AGENTS.md.
+- If this changes public site behavior or entry points, update the Japanese / English / Chinese README.md, CHANGELOG.md, and release note per AGENTS.md.

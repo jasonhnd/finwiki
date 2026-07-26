@@ -14,7 +14,7 @@ FinWiki 是一个公开金融知识 wiki，提供 Markdown corpus、Astro 人类
 | PRD-004 | Bilingual access | `ja`、`en` 路由应可访问；缺失 mirror 时按站点策略 fallback。 |
 | PRD-005 | AI discovery | AI/crawler 可通过 `llms.txt`、`llms-full.txt`、`ai-index.json`、sitemap、API 发现条目。 |
 | PRD-006 | Maintainer workflow | 维护者可以按文档完成新增、翻译、验证、发布。 |
-| PRD-007 | Release transparency | 每次发布有双语 README/CHANGELOG/release note，并记录范围、验证和后续。 |
+| PRD-007 | Release transparency | 每次发布有按日文、英文、中文排序的 README / CHANGELOG / release note，并在每种语言中记录范围、变更、验证、注意事项和后续。 |
 | PRD-008 | Model-agent workflow | 高推理规格模型负责需求/规格/验收，快速代码实现模型只按限定任务包写代码。 |
 | PRD-009 | Human-site UI/UX | 人类站应服务日语金融读者的快速查阅，保持低噪音、可扫描、双语一致、来源和翻译状态可见。 |
 
@@ -34,7 +34,7 @@ Future UI/CSS tasks should preserve this baseline unless the GitHub Issue explic
 ## User Journeys
 
 - Reader journey: 进入公开站点 -> 选择语言 -> 浏览 domain -> 阅读 entry -> 通过 wikilink 跳转。
-- Maintainer journey: 读 docs -> 修改 corpus 或工具 -> 跑 release gate -> 更新双语发布文档 -> 提交推送。
+- Maintainer journey: 读 docs -> 修改 corpus 或工具 -> 跑 release gate -> 更新日英中三语发布文档 -> 提交推送。
 - Spec agent journey: 读用户目标 -> 更新 BRD/PRD/ARD/FSD/NFR/RTM -> 写 acceptance -> 输出代码任务包。
 - Code agent journey: 接收 task packet -> 读 source-of-truth docs -> 只改 allowed files -> 跑指定命令 -> 汇报 diff 和风险。
 - AI journey: 读取 `llms.txt` -> 进入 `llms-full.txt` 或 `ai-index.json` -> 拉取 URL/API。
@@ -44,6 +44,7 @@ Future UI/CSS tasks should preserve this baseline unless the GitHub Issue explic
 ## Acceptance
 
 - `bun tools/release.ts --check --strict` 通过。
+- `bun run release:docs` 通过。
 - `bun tools/wiki_link_audit.ts --fail-on-issues` 通过。
 - 新文档或新功能能在 [RTM](../03-requirements/rtm.md) 中追踪。
 - 公开 surface 不包含 `docs/` entry。

@@ -26,6 +26,7 @@ bun tools/release.ts --write
 3. Run release checks:
 
 ```bash
+bun run release:docs
 bun tools/release.ts --check --strict
 bun tools/wiki_link_audit.ts --fail-on-issues
 git diff --check
@@ -51,7 +52,7 @@ bun tools/vercel_build.ts
 
 | Change type | Required inspection |
 |---|---|
-| Docs-only | `bun run docs:audit` (Markdown links), `bun run docs:stale` (stale active-doc facts); release check if a root control doc or release note changed. |
+| Docs-only | `bun run docs:audit` (Markdown links), `bun run docs:stale` (stale active-doc facts); `bun run release:docs` plus the strict release check if a root control doc or release note changed. |
 | Wiki content | `bun tools/wiki_link_audit.ts --fail-on-issues`, release write/check, root/domain count review, `bun run i18n:status` if source bodies changed. |
 | i18n | `bun run i18n:status` (current/stale/missing by locale), rendered language spot-checks. |
 | UI/CSS/theme | Site build, `bun run html:check`, [Visual QA Checklist](../07-quality/visual-qa-checklist.md), desktop/mobile spot-checks. |
@@ -109,7 +110,7 @@ Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`
 
 The `deploy` job then publishes the artifact via `actions/deploy-pages`. `site/` usually has no local dependencies, so the Astro build and search index steps may only be exercised here — always `gh run watch` after pushing a `site/` change (see gotchas #3).
 
-Every push to `origin/main` must keep the release note and GitHub Release aligned with the current bilingual release scope: Japanese-only title, body ordered Japanese -> English, and explicit scope, changes, validation, known notes and next steps.
+Every push to `origin/main` must keep the release note and GitHub Release aligned with the trilingual release-document contract: Japanese-only title, body ordered Japanese -> English -> Chinese, and explicit scope, changes, validation, known notes and next steps in every language. This does not add a Chinese human-site locale; public reading routes remain ja/en.
 
 Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
 
