@@ -2,7 +2,7 @@
 
 | ID | Category | Requirement | Validation |
 |---|---|---|---|
-| NFR-001 | Build reliability | Release gate 必须在本地可重复运行，失败要指出具体 drift 或 issue。 | `bun tools/release.ts --check --strict` |
+| NFR-001 | Build reliability | 同一 release gate 必须以固定 Bun 与 frozen lockfile 在 local pre-push、pull request、GitHub Pages、Vercel 可重复运行，失败要指出具体 gate。 | `bun run verify` locally and as required `Required verification` PR check |
 | NFR-002 | Link integrity | Dead wikilink、missing peer、canonical drift 不得进入发布。 | `bun tools/wiki_link_audit.ts --fail-on-issues` |
 | NFR-003 | Public information safety | 不得包含密钥、隐私、客户信息、非公开对话。 | 人工 QA + targeted grep |
 | NFR-004 | Corpus/discovery separation | `docs/` 不得作为 corpus page、site route、sitemap URL、llms item、ai-index entry/source、API entry 出现；README/CHANGELOG/release note 可公开描述 docs 变更，但生成器不得把 `docs/` markdown links 暴露给 AI surface。 | release gate + surface 抽查 |

@@ -21,8 +21,7 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
         with:
-          # Issue #184 owns replacing this moving tag with the repository pin.
-          bun-version: latest
+          bun-version-file: .bun-version
 
       - name: Install site dependencies
         working-directory: site
