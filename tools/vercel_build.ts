@@ -46,6 +46,10 @@ function pipeline(): Step[] {
       command: ["bun", "tools/release.ts", "--check", "--strict"],
     },
     {
+      label: "Test static publish boundary",
+      command: ["bun", "run", "publish:test"],
+    },
+    {
       label: "Build Astro site",
       cwd: SITE,
       command: ["bun", "run", "build"],

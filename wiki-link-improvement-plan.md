@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,7 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `INDEX.md` | `M` | 46 | ok |
 
 ## Domain Snapshot
 

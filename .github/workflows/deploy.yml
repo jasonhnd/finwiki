@@ -30,6 +30,9 @@ jobs:
       - name: Check wiki link graph
         run: bun run wiki:audit:ci
 
+      - name: Test static publish boundary
+        run: bun run publish:test
+
       - name: Install site deps
         working-directory: site
         run: bun install

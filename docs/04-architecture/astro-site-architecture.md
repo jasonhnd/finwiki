@@ -16,6 +16,7 @@ The Astro site renders the public human reading layer for the root Markdown corp
 | Wikilinks | `site/src/lib/siteIndex.mjs` plus build-time localization. |
 | Theme / UI | `site/src/styles/global.css`, `Base.astro`, `EntryLayout.astro`, and UI i18n labels; see [Theme System](theme-system.md) and [UI/UX](../05-functional-specs/ui-ux.md). |
 | Release build wrapper | Root `bun tools/vercel_build.ts` for full static publish assembly. |
+| Publish boundary | `tools/assemble_static_publish.ts`; Astro output plus generated-manifest-approved raw surfaces only. |
 
 ## Content Loading
 
@@ -45,6 +46,17 @@ The site does not read `docs/`, `tools/`, `releases/`, or generated API artifact
 
 The canonical wiki-source URL rule remains `domain/slug`; the site adds language routing around that source path.
 
+## Static Publish Boundary
+
+The final deployment directory is not a copy of the repository root. Assembly has two inputs:
+
+- every real, non-hidden file produced under `site/dist`;
+- raw public files named by the committed `ai-index.json` and `api/entries/index.json` manifests, filtered through explicit root/domain/release/API allowlists.
+
+The raw allowlist includes the selected reader-facing root documents, domain Markdown, release notes, root AI discovery files and indexed API JSON. It excludes `AGENTS.md`, `docs/`, `lib/`, `tools/`, package/deployment configuration, dotfiles and unknown root files even if a generated manifest names them. The assembler creates `.nojekyll` itself as the one required hidden deployment marker.
+
+Only the direct-child outputs `_site` and `_vercel_public` are accepted. Repo-root, parent, arbitrary, nested and symlink targets fail before the assembler performs recursive cleanup. Astro output wins if a raw path collides with an already built site file.
+
 ## i18n Rendering
 
 The root corpus is the canonical source. The site uses i18n mirrors when available and falls back according to current site logic when a mirror is missing or stale.
@@ -63,6 +75,7 @@ Use root tooling for release readiness:
 ```bash
 bun tools/release.ts --check --strict
 bun tools/wiki_link_audit.ts --fail-on-issues
+bun run publish:test
 git diff --check
 ```
 
