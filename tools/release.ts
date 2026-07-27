@@ -3,6 +3,7 @@
 import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative, resolve, sep } from "node:path";
 import {
+  AUDIT_ARTIFACT_DIR_NAME,
   countWordLikeTokens,
   iterMarkdownFiles,
   parseDomainMap,
@@ -337,7 +338,16 @@ function nextReleaseNotePath(snapshotDate: string): { absolutePath: string; rela
 
 function verifyJsonFiles(): string[] {
   const problems: string[] = [];
-  const excluded = new Set([".git", ".cache", "site", "app", ".vercel", "_site", "_vercel_public"]);
+  const excluded = new Set([
+    ".git",
+    ".cache",
+    AUDIT_ARTIFACT_DIR_NAME,
+    "site",
+    "app",
+    ".vercel",
+    "_site",
+    "_vercel_public",
+  ]);
   const stack = [ROOT];
   while (stack.length > 0) {
     const dir = stack.pop()!;

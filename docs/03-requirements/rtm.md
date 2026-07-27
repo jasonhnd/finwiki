@@ -31,6 +31,7 @@
 | NFR-012 | [NFR](nfr.md) | [Visual QA Checklist](../07-quality/visual-qa-checklist.md), [Theme System](../04-architecture/theme-system.md) | visual QA + responsive spot checks | release note |
 | NFR-013 | [NFR](nfr.md) | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md), [Documentation System](../00-governance/documentation-system.md), `tools/generate_ai_discovery.ts` | docs drift scan + surface grep + strict release check | release note |
 | NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, deploy/Vercel pipelines | `bun run publish:test` + assembled-output inspection | release note |
+| NFR-015 | [NFR](nfr.md) | `tools/audit_runner.ts`, shared walk exclusions, truthfulness workflow, static publisher | `bun test tools/audit_artifact_isolation.test.ts` + strict release/surface checks | release note |
 | FSD-001 | [FSD](../05-functional-specs/fsd.md) | site rendering docs and Astro pages | site build / release check | release note |
 | FSD-002 | [FSD](../05-functional-specs/fsd.md) | search index generation | strict check / build | release note |
 | FSD-003 | [FSD](../05-functional-specs/fsd.md) | wikilink resolution | link audit | release note |

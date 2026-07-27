@@ -17,16 +17,16 @@
 
 ## Current Snapshot
 
-- Markdown files: 1576
-- Public Markdown pages in machine manifest: 1575
+- Markdown files: 1577
+- Public Markdown pages in machine manifest: 1576
 - Topical domains: 40
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
 - Entity graph nodes: 89
 - Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1489
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,581,977
-- Word-like tokens: 1,697,596
+- Non-space UTF-8 characters across Markdown: 10,596,039
+- Word-like tokens: 1,700,098
 
 ## URL Rules for AI Readers
 

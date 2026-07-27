@@ -3,7 +3,7 @@
 import { copyFile, lstat, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
-import { parseDomainMap } from "../lib/markdown_helpers";
+import { AUDIT_ARTIFACT_DIR_NAME, parseDomainMap } from "../lib/markdown_helpers";
 
 const ROOT = path.resolve(import.meta.dir, "..");
 const SITE_DIST = path.join(ROOT, "site", "dist");
@@ -133,6 +133,9 @@ export function isApprovedPublicFile(
   }
 
   const parts = relativePath.split("/");
+  if (parts.includes(AUDIT_ARTIFACT_DIR_NAME)) {
+    return false;
+  }
   if (parts.some((part) => part.startsWith("."))) {
     return false;
   }
@@ -247,6 +250,9 @@ async function collectTreeFiles(rootDir: string, relativeDir = ""): Promise<Copy
   for (const entry of await readdir(directory, { withFileTypes: true })) {
     const relativePath = path.posix.join(relativeDir.replaceAll("\\", "/"), entry.name);
     const absolutePath = path.join(rootDir, relativePath);
+    if (relativePath.split("/").includes(AUDIT_ARTIFACT_DIR_NAME)) {
+      throw new Error(`audit artifacts are not allowed in Astro output: ${relativePath}`);
+    }
     if (relativePath.split("/").some((part) => part.startsWith("."))) {
       throw new Error(`hidden files are not allowed in Astro output: ${relativePath}`);
     }
