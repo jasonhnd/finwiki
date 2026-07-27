@@ -17,6 +17,7 @@
     "i18n:status": "bun tools/i18n_status.ts",
     "index:counts": "bun tools/index_count_audit.ts",
     "html:check": "bun tools/check_duplicate_html_ids.ts site/dist",
+    "release:docs": "bun tools/release_documentation_audit.ts",
     "release:check": "bun tools/release.ts --check --strict",
     "release:write": "bun tools/release.ts --write",
     "wiki:audit": "bun tools/wiki_link_audit.ts --report wiki-link-improvement-plan.md --fail-on-issues",

@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-15T00:22:53+09:00",
+  "generated_at": "2026-07-27T01:09:04+09:00",
   "counts": {
-    "markdown_files": 1571,
-    "public_markdown_pages": 1570,
-    "site_urls_in_sitemap": 1571,
+    "markdown_files": 1572,
+    "public_markdown_pages": 1571,
+    "site_urls_in_sitemap": 1572,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10522374,
-    "word_like_tokens": 1686634,
+    "nonspace_utf8_chars": 10536023,
+    "word_like_tokens": 1689086,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2389,8 +2389,10 @@
       "summary": "",
       "headings": [
         "FinWiki Agent Instructions",
+        "Required Trilingual Documentation",
         "日本語",
-        "English"
+        "English",
+        "中文"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2415,21 +2417,21 @@
         "Maintenance Principles",
         "日本語",
         "English",
-        "2026-07-15 - Hygiene wave: agent-economy count + stale docs + ROADMAP exclusion (#175)",
+        "中文",
+        "2026-07-27 - Trilingual release-document governance gate (#187)",
         "日本語",
         "English",
-        "2026-07-01 - i18n bilingual site cutover (#126)",
-        "日本語",
-        "English"
+        "中文",
+        "2026-07-15 - Hygiene wave: agent-economy count + stale docs + ROADMAP exclusion (#175)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5609,
-      "word_like_tokens": 1016,
-      "last_modified": "2026-07-01"
+      "nonspace_chars": 13227,
+      "word_like_tokens": 2413,
+      "last_modified": "2026-07-15"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -2816,7 +2818,7 @@
       "entity_edges": [],
       "nonspace_chars": 13205,
       "word_like_tokens": 1966,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-15"
     },
     {
       "source_path": "JapanFG/INDEX.md",
@@ -2971,9 +2973,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3970,
-      "word_like_tokens": 681,
-      "last_modified": "2026-07-04"
+      "nonspace_chars": 5602,
+      "word_like_tokens": 969,
+      "last_modified": "2026-07-15"
     },
     {
       "source_path": "SCHEMA.md",
@@ -78360,6 +78362,7 @@
         "検証",
         "既知の注意点",
         "次の作業",
+        "中文 🇨🇳",
         "概要"
       ],
       "wikilinks": [],
@@ -78389,6 +78392,7 @@
         "検証",
         "既知の注意点",
         "次の作業",
+        "中文 🇨🇳",
         "概要"
       ],
       "wikilinks": [],
@@ -78418,6 +78422,7 @@
         "検証",
         "既知の注意点",
         "次の作業",
+        "中文 🇨🇳",
         "概要"
       ],
       "wikilinks": [],
@@ -78447,6 +78452,7 @@
         "検証",
         "既知の注意点",
         "次の作業",
+        "中文 🇨🇳",
         "概要"
       ],
       "wikilinks": [],
@@ -78466,7 +78472,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "この release は、GitHub Pages のポータルページ（index.html）を更新し、日本語・英語・中国語を完全に分離した上で「日本語、英語、中国語」の順に閲覧できるモダンなセグメントUI（タブ型レイアウト）を構築したスナップショットです。",
       "headings": [
         "v2026.05.20-6 Portalページ英語追加と多言語分離化",
         "日本語 🇯🇵",
@@ -78476,6 +78482,7 @@
         "検証",
         "既知の注意点",
         "次の作業",
+        "中文 🇨🇳",
         "概要"
       ],
       "wikilinks": [],
@@ -78495,7 +78502,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "この release は、GitHub 上の README に英語の翻訳セクションを追加し、さらにリポジトリ全体のエージェント指示書および運用ルールとして、日本語・英語・中国語の3言語維持および並び順（JP-EN-ZH）を明文化して適用したスナップショットです。",
       "headings": [
         "v2026.05.20-7 README英語セクション追加と多言語ルール（日・英・中）の適用",
         "日本語 🇯🇵",
@@ -78521,12 +78528,13 @@
       "source_path": "releases/v2026.05.20-8.md",
       "url": "https://finwiki.zksc.io/releases/v2026.05.20-8",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.20-8.md",
-      "title": "releases/v2026.05.20-8",
+      "title": "v2026.05.20-8 GitHub Pages ポータルステータスカードの三言語化",
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "この release は、GitHub Pages ポータルページ（index.html）の下部にあるステータスカード（キー指標）を更新し、以前の「二言語維持・中国語維持」の表記から、今回制定された「日本語・英語・中国語」の三言語維持および並び順（JP-EN-ZH）に基づいた表記へと完全に同期・刷新したスナップショットです。",
       "headings": [
+        "v2026.05.20-8 GitHub Pages ポータルステータスカードの三言語化",
         "日本語 🇯🇵",
         "概要",
         "対象範囲",
@@ -78599,7 +78607,8 @@
         "この release で固定した運用ルール",
         "検証",
         "既知の注意点",
-        "次の作業"
+        "次の作業",
+        "中文 🇨🇳"
       ],
       "wikilinks": [
         "wikilink"
@@ -78682,7 +78691,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "公開ホームページと README の日本語・中国語セクションを、英語の列挙ではなく各言語で読める内容地図へ修正しました。",
       "headings": [
         "公開ホームページ言語表現修正 2026-05-22",
         "日本語",
@@ -79026,7 +79035,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "FSA 損害保険会社一覧の long-tail から、旅行、賃貸住宅、商品特化、外資系 / クロスボーダー文脈を持つ specialty / foreign-affiliated non-life insurers 11 社を、公開ソースに基づく standalone route として追加しました。あわせて、公開 CHANGELOG.md の冒頭と旧作業記録を、日本語、英語、中国語の順に正規化しました。",
       "headings": [
         "損害保険特化会社 D9 拡張と CHANGELOG 言語順序修正 2026-05-23",
         "日本語",
@@ -79356,7 +79365,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-05-31 JST の公開サイト入口更新です。finwiki.zksc.io/ を単純な日本語ページへの redirect から、FinWiki の三語入口、主要領域、現在の翻訳状況、AI discovery surface を一画面で確認できるカバーホームページへ変更しました。",
       "headings": [
         "公開ルート・カバーホームページ導入",
         "日本語",
@@ -79386,7 +79395,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-05-31 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 483 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 610 / en 610 へ進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・610/610 進捗",
         "日本語",
@@ -79416,7 +79425,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-05-31 JST の i18n 翻訳バッチです。ユーザー指示に従い、Sonnet ではなく GPT/Codex worker で site/src/content/i18n/{zh,en}/ の増分機械翻訳を進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ安全収集・483/483 進捗",
         "日本語",
@@ -79446,7 +79455,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。Sonnet ではなく GPT/Codex worker で recovery し、placeholder verify を通過した訳文だけを公開 i18n surface に追加しました。累計は zh 883 / en 883 です。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・883/883 進捗",
         "日本語",
@@ -79476,7 +79485,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 883 の release 後、次の 130 source entries を GPT/Codex worker で処理し、累計を zh 1013 / en 1013 へ進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・1013/1013 進捗",
         "日本語",
@@ -79506,7 +79515,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 1013 の release 後、次の 130 source entries を GPT/Codex worker で処理し、累計進捗を zh 1143 / en 1143 に進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・1143/1143 進捗",
         "日本語",
@@ -79536,7 +79545,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 1143 release 後、次の 130 source entries を GPT/Codex worker で処理し、累計進捗を zh 1273 / en 1273 に進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・1273/1273 進捗",
         "日本語",
@@ -79566,7 +79575,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 最終バッチです。残り 107 source entries を処理し、累計 i18n を zh 1380 / en 1380 まで完了しました。あわせて finwiki.zksc.io のトップページを三語対応の封面ホームページへ更新しました。",
       "headings": [
         "GPT i18n 全量完了・1380/1380 と封面ホーム更新",
         "日本語",
@@ -79592,12 +79601,13 @@
       "source_path": "releases/v2026.06.01-7.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.01-7",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-7.md",
-      "title": "releases/v2026.06.01-7",
+      "title": "三語語彙品質監査と専門語彙 polish",
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の FinWiki 三語 i18n 語彙品質リリースです。GPT/Codex worker を 10 並列で使い、日文原文、簡体中文訳、English 訳の語彙・語調・専門表現を監査し、大学学部水準を超える金融・制度・インフラ語彙へ寄せました。",
       "headings": [
+        "三語語彙品質監査と専門語彙 polish",
         "日本語",
         "概要",
         "公開範囲",
@@ -79625,7 +79635,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 610 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 740 / en 740 へ進めました。",
       "headings": [
         "GPT i18n 翻訳バッチ継続・740/740 進捗",
         "日本語",
@@ -79685,7 +79695,7 @@
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
-      "summary": "",
+      "summary": "2026-06-02 JST の FinWiki i18n 品質仕上げリリースです。全量 zh/en 1380 件完了後に残っていた fidelity: needs_review 54 件を解消し、公開 i18n surface をレビュー残 0 の状態へ戻しました。",
       "headings": [
         "i18n 残存レビュー完了と語彙破損修復",
         "日本語",
@@ -80475,12 +80485,13 @@
       "source_path": "releases/v2026.06.05-2.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.05-2",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-2.md",
-      "title": "releases/v2026.06.05-2",
+      "title": "P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）",
       "domain": "releases",
       "entry_type": "release_note",
       "canonical_anchor": "",
       "summary": "",
       "headings": [
+        "P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）",
         "日本語",
         "公開範囲",
         "主要変更",
@@ -80700,6 +80711,36 @@
       "nonspace_chars": 4172,
       "word_like_tokens": 702,
       "last_modified": "2026-06-22"
+    },
+    {
+      "source_path": "releases/v2026.07.27.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.27",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.27.md",
+      "title": "三言語リリース文書契約の復元",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "三言語リリース文書契約の復元",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 4399,
+      "word_like_tokens": 767,
+      "last_modified": "2026-07-27"
     },
     {
       "source_path": "retail/INDEX.md",
@@ -96166,7 +96207,7 @@
       "entity_edges": [],
       "nonspace_chars": 3402,
       "word_like_tokens": 631,
-      "last_modified": "2026-07-04"
+      "last_modified": "2026-07-15"
     }
   ]
 }
