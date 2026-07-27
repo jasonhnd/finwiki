@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/taiko-bank",
   "source_path": "regional-banks/taiko-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/taiko-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/taiko-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/taiko-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/taiko-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/taiko-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/taiko-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/taiko-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/taiko-bank.md",
   "domain": "regional-banks",
   "title": "大光銀行",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "regional-banks/daishi-hokuetsu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
-      "https://finwiki.zksc.io/regional-banks/daishi-hokuetsu-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-regional-bank-hd/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/dai-shi-hokuetsu-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/daishi-hokuetsu-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

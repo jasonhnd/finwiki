@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-nintei-npo-houjin-tax-benefits",
   "source_path": "non-profit/japan-nintei-npo-houjin-tax-benefits.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-nintei-npo-houjin-tax-benefits/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-nintei-npo-houjin-tax-benefits.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-nintei-npo-houjin-tax-benefits.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits.md",
   "domain": "non-profit",
   "title": "日本 認定NPO法人 — certification route and donor tax benefits",
   "entry_type": "wiki_entry",
@@ -72,13 +77,13 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
-      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/korea-kimchi-premium-economics",
   "source_path": "exchanges/korea-kimchi-premium-economics.md",
-  "url": "https://finwiki.zksc.io/exchanges/korea-kimchi-premium-economics",
+  "url": "https://finwiki.zksc.io/ja/exchanges/korea-kimchi-premium-economics/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/korea-kimchi-premium-economics/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/korea-kimchi-premium-economics/",
+    "en": "https://finwiki.zksc.io/en/exchanges/korea-kimchi-premium-economics/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/korea-kimchi-premium-economics.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/korea-kimchi-premium-economics.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/korea-kimchi-premium-economics.md",
   "domain": "exchanges",
   "title": "韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "fintech/global-stablecoin-regulatory-five-pole-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

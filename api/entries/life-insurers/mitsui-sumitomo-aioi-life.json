@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/mitsui-sumitomo-aioi-life",
   "source_path": "life-insurers/mitsui-sumitomo-aioi-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/mitsui-sumitomo-aioi-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/mitsui-sumitomo-aioi-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/mitsui-sumitomo-aioi-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/mitsui-sumitomo-aioi-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/mitsui-sumitomo-aioi-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/mitsui-sumitomo-aioi-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life.md",
   "domain": "life-insurers",
   "title": "三井住友海上あいおい生命保険",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "non-life-insurers/msad"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/ms-primary-life",
-      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
-      "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
-      "https://finwiki.zksc.io/non-life-insurers/msad"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/ms-primary-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sompo-himawari-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/tokio-marine-nichido-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/rakuten-bank",
   "source_path": "banking/rakuten-bank.md",
-  "url": "https://finwiki.zksc.io/banking/rakuten-bank",
+  "url": "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+    "en": "https://finwiki.zksc.io/en/banking/rakuten-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/rakuten-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/rakuten-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/rakuten-bank.md",
   "domain": "banking",
   "title": "楽天銀行 (Rakuten Bank)",
   "entry_type": "wiki_entry",
@@ -61,14 +66,14 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/au-jibun-bank",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/au-jibun-bank/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/tokai-tokyo-fh",
   "source_path": "securities-firms/tokai-tokyo-fh.md",
-  "url": "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/tokai-tokyo-fh/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/tokai-tokyo-fh.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/tokai-tokyo-fh.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh.md",
   "domain": "securities-firms",
   "title": "東海東京 FH (Tokai Tokyo Financial Holdings)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

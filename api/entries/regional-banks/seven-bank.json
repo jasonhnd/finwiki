@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/seven-bank",
   "source_path": "regional-banks/seven-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/seven-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/seven-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/seven-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/seven-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/seven-bank.md",
   "domain": "regional-banks",
   "title": "セブン銀行 (Seven Bank)",
   "entry_type": "wiki_entry",
@@ -71,16 +76,16 @@
       "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/card-issuers/aeon-bank",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/lawson-bank",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/lawson-bank/",
+      "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/gifu-shinkin",
   "source_path": "cooperative-banks/gifu-shinkin.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/gifu-shinkin",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/gifu-shinkin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/gifu-shinkin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/gifu-shinkin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/gifu-shinkin.md",
   "domain": "cooperative-banks",
   "title": "岐阜信用金庫",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "regional-banks/ogaki-kyoritsu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/okazaki-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/regional-banks/juroku-bank",
-      "https://finwiki.zksc.io/regional-banks/juroku-fg",
-      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/hamamatsu-iwata-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/regional-banks/juroku-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/juroku-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

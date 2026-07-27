@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/erc-4337-embedded-wallet-adoption",
   "source_path": "systems/erc-4337-embedded-wallet-adoption.md",
-  "url": "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
+  "url": "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/",
+    "en": "https://finwiki.zksc.io/en/systems/erc-4337-embedded-wallet-adoption/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-4337-embedded-wallet-adoption.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-4337-embedded-wallet-adoption.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption.md",
   "domain": "systems",
   "title": "ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe",
   "entry_type": "wiki_entry",
@@ -73,16 +78,16 @@
       "systems/erc-7702-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
-      "https://finwiki.zksc.io/systems/erc-7702-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-userop-bundler-flow/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

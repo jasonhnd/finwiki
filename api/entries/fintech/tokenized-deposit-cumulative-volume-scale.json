@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/tokenized-deposit-cumulative-volume-scale",
   "source_path": "fintech/tokenized-deposit-cumulative-volume-scale.md",
-  "url": "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
+  "url": "https://finwiki.zksc.io/ja/fintech/tokenized-deposit-cumulative-volume-scale/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/tokenized-deposit-cumulative-volume-scale/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/tokenized-deposit-cumulative-volume-scale/",
+    "en": "https://finwiki.zksc.io/en/fintech/tokenized-deposit-cumulative-volume-scale/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tokenized-deposit-cumulative-volume-scale.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tokenized-deposit-cumulative-volume-scale.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale.md",
   "domain": "fintech",
   "title": "トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "fintech/stablecoin-revenue-split-economics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
     ],
     "external_links_count": 0,
     "external_links": []

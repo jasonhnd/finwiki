@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/dual-currency-stablecoin-arbitrage-overview",
   "source_path": "fintech/dual-currency-stablecoin-arbitrage-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/dual-currency-stablecoin-arbitrage-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/dual-currency-stablecoin-arbitrage-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/dual-currency-stablecoin-arbitrage-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview.md",
   "domain": "fintech",
   "title": "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-legal-hack",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/mica-overview",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payment-firms/jpyc"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-legal-hack/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
     "external_links_count": 0,
     "external_links": []

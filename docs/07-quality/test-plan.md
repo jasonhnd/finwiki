@@ -17,7 +17,7 @@ bun run verify
 | Change Type | Additional Checks |
 |---|---|
 | Site rendering change | Astro build and browser spot check. |
-| Discovery generator change | `bun tools/generated_surface_drift_scan.ts` (API alignment, stale residue, docs leakage), then diff-review `ai-index.json` / `llms-full.txt`. |
+| Discovery generator / URL helper change | `bun run surface:drift`; `bun test tools/discovery_routes.test.ts` (shallow committed-date fallback, source `markdown_links`, API absolute-HTTP filter, same-host wrong-origin); `bun run verify --out _site`; diff-review sitemap, llms, index and API URL fields. |
 | Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
@@ -39,5 +39,8 @@ bun run verify
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
 - No truthfulness audit artifact or local artifact path changes corpus/API/sitemap counts or enters generated/public output.
 - No stale moved-domain API JSON remains after release write.
+- Fixed-timestamp regeneration is byte-identical for the six fixed discovery targets and every per-entry API JSON, including `metrics.last_modified`.
+- Generated Japanese canonicals, English alternates, raw `.md` and API URLs resolve as non-empty regular files in the final assembled output.
+- API `external_links` contains only absolute HTTP(S); same-host values are audited and wrong-scheme/port origins fail, while source-preserving `ai-index.json` `markdown_links` are not deploy-route claims.
 - Assembled output contains no developer, hidden/ignored source, unmanifested or unknown-root files beyond the generated `.nojekyll` marker, and unsafe output paths cannot reach recursive cleanup.
 - Root, ja/en, crawler, AI/API and Pagefind required routes exist in the final assembled output.

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/taiyo-life",
   "source_path": "life-insurers/taiyo-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/taiyo-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/taiyo-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/taiyo-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/taiyo-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/taiyo-life.md",
   "domain": "life-insurers",
   "title": "太陽生命保険",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "life-insurers/td-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/daido-life",
-      "https://finwiki.zksc.io/life-insurers/td-hd"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/td-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

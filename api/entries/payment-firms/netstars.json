@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/netstars",
   "source_path": "payment-firms/netstars.md",
-  "url": "https://finwiki.zksc.io/payment-firms/netstars",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/netstars/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/netstars/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/netstars/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/netstars/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/netstars.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/netstars.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/netstars.md",
   "domain": "payment-firms",
   "title": "ネットスターズ",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "payments/psp-merchant-settlement-risk"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payment-firms/sb-payment-service",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
-      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
-      "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk"
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/dg-financial-technology/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
+      "https://finwiki.zksc.io/ja/payment-firms/sb-payment-service/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/japan-code-payment-competitive-map/",
+      "https://finwiki.zksc.io/ja/payments/psp-merchant-settlement-risk/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/korea-development-bank-japan",
   "source_path": "foreign-financial-institutions/korea-development-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/korea-development-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/korea-development-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/korea-development-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/korea-development-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/korea-development-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/korea-development-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "韓国産業銀行 東京支店",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/hana-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/kb-kookmin-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/hana-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/industrial-bank-of-korea-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/kb-kookmin-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/woori-bank-japan/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/x402-cloudflare-aws-edge-integration",
   "source_path": "agent-economy/x402-cloudflare-aws-edge-integration.md",
-  "url": "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/x402-cloudflare-aws-edge-integration/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/x402-cloudflare-aws-edge-integration.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/x402-cloudflare-aws-edge-integration.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration.md",
   "domain": "agent-economy",
   "title": "x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント",
   "entry_type": "wiki_entry",
@@ -64,16 +69,16 @@
       "systems/erc-7702-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

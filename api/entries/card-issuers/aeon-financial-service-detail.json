@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/aeon-financial-service-detail",
   "source_path": "card-issuers/aeon-financial-service-detail.md",
-  "url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service-detail",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/aeon-financial-service-detail/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service-detail.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/aeon-financial-service-detail.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service-detail.md",
   "domain": "card-issuers",
   "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
   "entry_type": "wiki_entry",
@@ -77,13 +82,13 @@
       "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/toyota-finance",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/sony-fg"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

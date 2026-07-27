@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-foreign-exchange-bitforex",
   "source_path": "exchanges/jp-foreign-exchange-bitforex.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitforex",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-foreign-exchange-bitforex/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-foreign-exchange-bitforex.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-foreign-exchange-bitforex.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitforex.md",
   "domain": "exchanges",
   "title": "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "security/forensic-identity-anchor-chain"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/"
     ],
     "external_links_count": 10,
     "external_links": [

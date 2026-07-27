@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-bitpoint-historical-deprecated",
   "source_path": "exchanges/jp-exchange-bitpoint-historical-deprecated.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-bitpoint-historical-deprecated",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitpoint-historical-deprecated/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitpoint-historical-deprecated/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitpoint-historical-deprecated/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-bitpoint-historical-deprecated/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-bitpoint-historical-deprecated.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-bitpoint-historical-deprecated.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-bitpoint-historical-deprecated.md",
   "domain": "exchanges",
   "title": "株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）overview",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "exchanges/jvcea-self-regulatory-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/japan-cex-parent-fg-adjacency-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/japan-cex-parent-fg-adjacency-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

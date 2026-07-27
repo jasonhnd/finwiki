@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-korbit-korea",
   "source_path": "exchanges/cex-korbit-korea.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-korbit-korea",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-korbit-korea/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-korbit-korea.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-korbit-korea.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-korbit-korea.md",
   "domain": "exchanges",
   "title": "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
   "entry_type": "wiki_entry",
@@ -70,14 +75,14 @@
       "exchanges/korea-cex-five-pillars-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
-      "https://finwiki.zksc.io/exchanges/cex-coinone-korea",
-      "https://finwiki.zksc.io/exchanges/cex-gopax-korea",
-      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/jpyc",
   "source_path": "payment-firms/jpyc.md",
-  "url": "https://finwiki.zksc.io/payment-firms/jpyc",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/jpyc/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/jpyc.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/jpyc.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/jpyc.md",
   "domain": "payment-firms",
   "title": "JPYC株式会社",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+      "https://finwiki.zksc.io/ja/payment-firms/wise-payments-japan/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

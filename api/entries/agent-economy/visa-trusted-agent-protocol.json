@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/visa-trusted-agent-protocol",
   "source_path": "agent-economy/visa-trusted-agent-protocol.md",
-  "url": "https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/visa-trusted-agent-protocol/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/visa-trusted-agent-protocol/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/visa-trusted-agent-protocol/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/visa-trusted-agent-protocol/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/visa-trusted-agent-protocol.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/visa-trusted-agent-protocol.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/visa-trusted-agent-protocol.md",
   "domain": "agent-economy",
   "title": "Visa Trusted Agent Protocol · signed-agent authentication for commerce",
   "entry_type": "wiki_entry",
@@ -71,15 +76,15 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol",
-      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
-      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/agent-identity-defi-and-traditional-finance-bridge/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/openai-stripe-agentic-commerce-protocol/",
+      "https://finwiki.zksc.io/ja/agent-economy/visa-mastercard-agentic-commerce-pilots/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

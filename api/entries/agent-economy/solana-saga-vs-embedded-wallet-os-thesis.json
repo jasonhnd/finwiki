@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
   "source_path": "agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
-  "url": "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/solana-saga-vs-embedded-wallet-os-thesis/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/solana-saga-vs-embedded-wallet-os-thesis/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/solana-saga-vs-embedded-wallet-os-thesis/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/solana-saga-vs-embedded-wallet-os-thesis/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
   "domain": "agent-economy",
   "title": "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "systems/erc-4337-embedded-wallet-adoption"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/solana-saga-seeker-mobile-stack-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/"
     ],
     "external_links_count": 0,
     "external_links": []

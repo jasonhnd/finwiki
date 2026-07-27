@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/bytecode-forensic-three-tier-verify",
   "source_path": "security/bytecode-forensic-three-tier-verify.md",
-  "url": "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+  "url": "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+  "html_url": "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+    "en": "https://finwiki.zksc.io/en/security/bytecode-forensic-three-tier-verify/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/bytecode-forensic-three-tier-verify.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/bytecode-forensic-three-tier-verify.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify.md",
   "domain": "security",
   "title": "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
   "entry_type": "wiki_entry",
@@ -62,15 +67,15 @@
       "systems/formal-spec-implementation-codesign"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/"
     ],
     "external_links_count": 0,
     "external_links": []

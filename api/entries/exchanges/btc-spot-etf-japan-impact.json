@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/btc-spot-etf-japan-impact",
   "source_path": "exchanges/btc-spot-etf-japan-impact.md",
-  "url": "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
+  "url": "https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/",
+    "en": "https://finwiki.zksc.io/en/exchanges/btc-spot-etf-japan-impact/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/btc-spot-etf-japan-impact.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/btc-spot-etf-japan-impact.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact.md",
   "domain": "exchanges",
   "title": "Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)",
   "entry_type": "wiki_entry",
@@ -64,16 +69,16 @@
       "exchanges/rwa-tokenization-cex-integration"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
-      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
-      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-prime-brokerage-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-sales-vs-exchange-model-economics/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/"
     ],
     "external_links_count": 0,
     "external_links": []

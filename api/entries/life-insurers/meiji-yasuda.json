@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/meiji-yasuda",
   "source_path": "life-insurers/meiji-yasuda.md",
-  "url": "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/meiji-yasuda/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/meiji-yasuda.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/meiji-yasuda.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/meiji-yasuda.md",
   "domain": "life-insurers",
   "title": "明治安田生命保険相互会社",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

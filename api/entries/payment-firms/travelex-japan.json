@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/travelex-japan",
   "source_path": "payment-firms/travelex-japan.md",
-  "url": "https://finwiki.zksc.io/payment-firms/travelex-japan",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/travelex-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/travelex-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/travelex-japan/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/travelex-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/travelex-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/travelex-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/travelex-japan.md",
   "domain": "payment-firms",
   "title": "トラベレックスジャパン (Travelex Japan)",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/sbi-remit",
-      "https://finwiki.zksc.io/payment-firms/western-union-japan",
-      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
+      "https://finwiki.zksc.io/ja/payment-firms/western-union-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/wise-payments-japan/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

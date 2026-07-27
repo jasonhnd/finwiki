@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-bithumb-korea",
   "source_path": "exchanges/cex-bithumb-korea.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-bithumb-korea/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-bithumb-korea.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-bithumb-korea.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-bithumb-korea.md",
   "domain": "exchanges",
   "title": "Bithumb（빗썸）— 韓国 KRW spot CEX overview",
   "entry_type": "wiki_entry",
@@ -67,13 +72,13 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

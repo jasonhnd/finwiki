@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/tokio-marine-nichido-life",
   "source_path": "life-insurers/tokio-marine-nichido-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/tokio-marine-nichido-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/tokio-marine-nichido-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/tokio-marine-nichido-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/tokio-marine-nichido-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/tokio-marine-nichido-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/tokio-marine-nichido-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life.md",
   "domain": "life-insurers",
   "title": "東京海上日動あんしん生命保険",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sompo-himawari-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

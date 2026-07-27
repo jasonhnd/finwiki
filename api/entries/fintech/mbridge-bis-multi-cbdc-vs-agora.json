@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/mbridge-bis-multi-cbdc-vs-agora",
   "source_path": "fintech/mbridge-bis-multi-cbdc-vs-agora.md",
-  "url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora",
+  "url": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/",
+    "en": "https://finwiki.zksc.io/en/fintech/mbridge-bis-multi-cbdc-vs-agora/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/mbridge-bis-multi-cbdc-vs-agora.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/mbridge-bis-multi-cbdc-vs-agora.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora.md",
   "domain": "fintech",
   "title": "mBridge vs Agora · BIS 2025 同年切替の二軌対比",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/megabanks/mufg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
     "external_links_count": 0,
     "external_links": []

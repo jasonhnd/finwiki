@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/mastercard-agent-pay-for-machines",
   "source_path": "agent-economy/mastercard-agent-pay-for-machines.md",
-  "url": "https://finwiki.zksc.io/agent-economy/mastercard-agent-pay-for-machines",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/mastercard-agent-pay-for-machines/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/mastercard-agent-pay-for-machines/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/mastercard-agent-pay-for-machines/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/mastercard-agent-pay-for-machines/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/mastercard-agent-pay-for-machines.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/mastercard-agent-pay-for-machines.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/mastercard-agent-pay-for-machines.md",
   "domain": "agent-economy",
   "title": "Mastercard Agent Pay for Machines · AP4M machine-speed agent settlement",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "agent-economy/x402-http-payment-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions",
-      "https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position",
-      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/stablecoin-routing-agent-transactions/",
+      "https://finwiki.zksc.io/ja/agent-economy/stripe-agent-toolkit-position/",
+      "https://finwiki.zksc.io/ja/agent-economy/visa-mastercard-agentic-commerce-pilots/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

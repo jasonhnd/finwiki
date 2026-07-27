@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/nippon-post",
   "source_path": "megabanks/nippon-post.md",
-  "url": "https://finwiki.zksc.io/megabanks/nippon-post",
+  "url": "https://finwiki.zksc.io/ja/megabanks/nippon-post/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/nippon-post/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/nippon-post/",
+    "en": "https://finwiki.zksc.io/en/megabanks/nippon-post/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/nippon-post.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/nippon-post.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/nippon-post.md",
   "domain": "megabanks",
   "title": "日本郵政 (Japan Post Holdings)",
   "entry_type": "wiki_entry",
@@ -74,17 +79,17 @@
       "regional-banks/yucho"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/japan-post-holdings",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/yucho"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/regional-banks/yucho/"
     ],
     "external_links_count": 0,
     "external_links": []

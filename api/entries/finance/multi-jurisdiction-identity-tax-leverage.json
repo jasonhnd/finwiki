@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/multi-jurisdiction-identity-tax-leverage",
   "source_path": "finance/multi-jurisdiction-identity-tax-leverage.md",
-  "url": "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+  "url": "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+    "en": "https://finwiki.zksc.io/en/finance/multi-jurisdiction-identity-tax-leverage/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/multi-jurisdiction-identity-tax-leverage.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/multi-jurisdiction-identity-tax-leverage.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage.md",
   "domain": "finance",
   "title": "クロスボーダー身分組合せの税務レバレッジ",
   "entry_type": "wiki_entry",
@@ -59,11 +64,11 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/fire-math-reverse-derivation",
-      "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/fire-math-reverse-derivation/",
+      "https://finwiki.zksc.io/ja/domains/money-market/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

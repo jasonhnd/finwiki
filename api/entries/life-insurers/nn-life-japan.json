@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/nn-life-japan",
   "source_path": "life-insurers/nn-life-japan.md",
-  "url": "https://finwiki.zksc.io/life-insurers/nn-life-japan",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/nn-life-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/nn-life-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/nn-life-japan/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/nn-life-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/nn-life-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/nn-life-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/nn-life-japan.md",
   "domain": "life-insurers",
   "title": "NN生命保険",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "life-insurers/prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/life-insurers/axa-japan",
-      "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
-      "https://finwiki.zksc.io/life-insurers/manulife-japan",
-      "https://finwiki.zksc.io/life-insurers/metlife-japan",
-      "https://finwiki.zksc.io/life-insurers/prudential-japan"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/aflac-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/axa-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/credit-agricole-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/manulife-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/metlife-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/prudential-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

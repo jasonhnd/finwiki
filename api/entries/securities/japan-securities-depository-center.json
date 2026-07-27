@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities/japan-securities-depository-center",
   "source_path": "securities/japan-securities-depository-center.md",
-  "url": "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+  "url": "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
+  "html_url": "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
+    "en": "https://finwiki.zksc.io/en/securities/japan-securities-depository-center/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-securities-depository-center.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-securities-depository-center.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities/japan-securities-depository-center.md",
   "domain": "securities",
   "title": "証券保管振替機構 (JASDEC)",
   "entry_type": "wiki_entry",
@@ -63,15 +68,15 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
-      "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
-      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/fintech/japan-listed-company-disclosure-monitoring/",
+      "https://finwiki.zksc.io/ja/fintech/japan-third-party-allotment-5-step-flow/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+      "https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
     "external_links_count": 0,
     "external_links": []

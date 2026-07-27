@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trade/supply-chain-finance-reverse-factoring",
   "source_path": "trade/supply-chain-finance-reverse-factoring.md",
-  "url": "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring",
+  "url": "https://finwiki.zksc.io/ja/trade/supply-chain-finance-reverse-factoring/",
+  "html_url": "https://finwiki.zksc.io/ja/trade/supply-chain-finance-reverse-factoring/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trade/supply-chain-finance-reverse-factoring/",
+    "en": "https://finwiki.zksc.io/en/trade/supply-chain-finance-reverse-factoring/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/supply-chain-finance-reverse-factoring.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/supply-chain-finance-reverse-factoring.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring.md",
   "domain": "trade",
   "title": "サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer",
   "entry_type": "wiki_entry",
@@ -72,13 +77,13 @@
       "trading-company-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/trade/INDEX",
-      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
-      "https://finwiki.zksc.io/trade/forfaiting-international-factoring",
-      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
-      "https://finwiki.zksc.io/trading-company-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/domains/trade/",
+      "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+      "https://finwiki.zksc.io/ja/trade/forfaiting-international-factoring/",
+      "https://finwiki.zksc.io/ja/trade/nexi-trade-insurance-mechanism/",
+      "https://finwiki.zksc.io/ja/domains/trading-company-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

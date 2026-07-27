@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/jf-marine-bank-system-japan",
   "source_path": "banking/jf-marine-bank-system-japan.md",
-  "url": "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+  "url": "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+    "en": "https://finwiki.zksc.io/en/banking/jf-marine-bank-system-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/jf-marine-bank-system-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/jf-marine-bank-system-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan.md",
   "domain": "banking",
   "title": "JF Marine Bank system in Japan",
   "entry_type": "wiki_entry",
@@ -66,12 +71,12 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

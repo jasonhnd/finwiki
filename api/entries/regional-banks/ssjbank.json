@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/ssjbank",
   "source_path": "regional-banks/ssjbank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/ssjbank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/ssjbank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/ssjbank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/ssjbank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/ssjbank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ssjbank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ssjbank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/ssjbank.md",
   "domain": "regional-banks",
   "title": "ssjbank 誤リンク監査",
   "entry_type": "wiki_entry",
@@ -59,12 +64,12 @@
       "regional-banks/proclair-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/regional-banks/77-bank",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/proclair-hd"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/regional-banks/77-bank/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

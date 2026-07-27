@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/crossmint-agent-sdk",
   "source_path": "agent-economy/crossmint-agent-sdk.md",
-  "url": "https://finwiki.zksc.io/agent-economy/crossmint-agent-sdk",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/crossmint-agent-sdk/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/crossmint-agent-sdk/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/crossmint-agent-sdk/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/crossmint-agent-sdk/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/crossmint-agent-sdk.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/crossmint-agent-sdk.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/crossmint-agent-sdk.md",
   "domain": "agent-economy",
   "title": "Crossmint agent SDK · NFT and wallet abstraction for AI agents",
   "entry_type": "wiki_entry",
@@ -74,18 +79,18 @@
       "systems/erc-4337-userop-bundler-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
-      "https://finwiki.zksc.io/agent-economy/embedded-wallet-landscape-2026-consolidation",
-      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
-      "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol",
-      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/agent-economy/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
+      "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-landscape-2026-consolidation/",
+      "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+      "https://finwiki.zksc.io/ja/agent-economy/nevermined-compute-payment-protocol/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-userop-bundler-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

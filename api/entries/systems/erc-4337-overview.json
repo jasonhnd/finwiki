@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/erc-4337-overview",
   "source_path": "systems/erc-4337-overview.md",
-  "url": "https://finwiki.zksc.io/systems/erc-4337-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/erc-4337-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-4337-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-4337-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/erc-4337-overview.md",
   "domain": "systems",
   "title": "ERC-4337 概観 · Account Abstraction のアプリケーション層実装",
   "entry_type": "wiki_entry",
@@ -62,15 +67,15 @@
       "systems/erc-7702-vs-erc-4337"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
-      "https://finwiki.zksc.io/systems/erc-7702-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-userop-bundler-flow/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-vs-erc-4337/"
     ],
     "external_links_count": 0,
     "external_links": []

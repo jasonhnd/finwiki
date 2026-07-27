@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/custody-bank",
   "source_path": "trust-banks/custody-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/custody-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/custody-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/custody-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/custody-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/custody-bank.md",
   "domain": "trust-banks",
   "title": "日本カストディ銀行 (CBJ)",
   "entry_type": "wiki_entry",
@@ -68,14 +73,14 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
-      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

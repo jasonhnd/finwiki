@@ -4,11 +4,12 @@
 
 ## tools/verify.ts（统一必需门禁）
 
-`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / surface / AI / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / diff gates。任何一步 non-zero 都立即阻断。
+`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / generated-surface exact regeneration / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / generated-route / diff gates。任何一步 non-zero 都立即阻断。
 
 - default output：`_vercel_public`
 - Pages parity：`bun run verify --out _site`
 - focused route check：`bun tools/required_publish_routes.ts --out _site`
+- generated route check：`bun run ai:audit --out _site`（必须在 assembly 后运行）
 - full internal HTML href crawl：Issue #183，不能用 required-route smoke check 替代
 
 ## lib/markdown_helpers.ts（共享层）
@@ -19,7 +20,9 @@
 - `extractMarkdownLinks()` — 抽取 Markdown links，但过滤指向 `docs/` 的相对链接，避免内部开发文档作为 AI traversal link 输出。
 - `parseDomainMap()` — 解析 `INDEX.md` 领域表。
 - 常量：`CONTROL_DOCS`、`EXCLUDED_WALK_DIRS`、`AUDIT_ARTIFACT_DIR_NAME`、`SITE_URL`、`GITHUB_BLOB`、各正则。
-- `lastModifiedFor()` — 从 **fs mtime** 取 last_modified（→ 见 [gotchas.md](../07-quality/gotchas.md) 的 clone-mtime 污染）。
+- `publicUrlFor()` / `localizedHtmlUrlFor()` / `publishedMarkdownUrlFor()` — 统一生成日文 HTML canonical、英文 alternate 与显式 `.md` raw URL。
+- `resolveWikilinkRoutes()` — 只对真实 public route set 解析 body wikilink；无法解析的 target 不输出猜测 URL。
+- `lastModifiedFor()` — full-history checkout 优先读取 source path 最新 Git commit date；Git subprocess 会清除继承的 `GIT_DIR` / `GIT_WORK_TREE` / `GIT_INDEX_FILE` 等 repository-addressing context，确保 hook 内仍按传入 path 定位 repository；shallow/history-less 环境先采用 generator 从现有 `ai-index.json` 传入的合法 committed date，再尝试 shallow Git date，fs mtime 只是最终 fallback。
 
 ## tools/release.ts（总编排 + 门禁）
 
@@ -27,7 +30,7 @@
 |---|---|---|
 | `bun tools/release.ts --check` | 只读校验：先跑三语 release-document audit，再跑 link audit、算 canonical counts、查 counts 是否 in sync、verify JSON/LF/duplicate-id | 否 |
 | `bun tools/release.ts --check --strict` | 同上，但 count drift 时 `EXIT=2`（**发布门禁，必须 EXIT=0**） | 否 |
-| `bun tools/release.ts --write` | 三语文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面，且依赖 mtime → clone 后慎用，见 gotchas） |
+| `bun tools/release.ts --write` | 三语文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面；history 不完整时优先复用 committed discovery date，mtime 仅是最终 fallback，见 gotchas） |
 | `bun tools/release.ts --write --release-note "<日本語タイトル>"` | 写入前先审计现有文档与内存中的 draft；通过后创建当天首个可用版本号的三语 release-note scaffold，再执行普通 `--write` | **是** |
 
 `--check` 输出标记行：`[0]` release documentation、`[1]` link audit、`[2]` canonical counts（md/domains/entries/issues/chars/tokens）、`[3]` counts in sync、`[5]` verify。（`[4]` 仅 `--changelog` 时出现。）
@@ -52,9 +55,19 @@
 ## tools/generate_ai_discovery.ts（发现面生成）
 
 - 用 `iterMarkdownFiles`，生成 `robots.txt` / `sitemap.xml` / `llms.txt` / `llms-full.txt` / `ai-index.json` / `api/`。
+- rendered entry 的 `url` / `html_url` 是 `/ja/<route>/`，alternate 是 `/en/<route>/`，raw source 保留 `.md`；domain index 使用 `/ja|en/domains/<domain>/`。
 - 写 `api/entries/` 前会清空旧目录，再写当前 entry set，避免 domain move 后残留旧 slug JSON。
-- `sitemap.xml` 的 `<lastmod>` 来自 fs mtime → clone 后会被污染（见 gotchas）。
+- `ai-index.json` 的 `markdown_links` 在既有 docs filter、去重与数量上限后仍保留 source-target 形式，不宣称是 deploy route；per-entry API 的 `body_links.external_links` 只保留 absolute HTTP(S)。
+- `sitemap.xml` 与 per-entry API 的 `last_modified` 在 full history 中来自 Git；shallow/history-less builder 先复用现有 `ai-index.json` 的合法 source-path date，再尝试 shallow Git，最后才用 fs mtime。
+- `--generated-at` / `--api-index-generated-at` 供 exact-regeneration gate 固定时间戳。
 - 由 `release.ts --write` 调用，一般不单独跑（除非只想刷发现面）。
+
+## 发现面阻断审计
+
+- `bun run surface:drift`：在 temporary directory 用已提交的两个 `generated_at` 精确重生成；`compare_ai_discovery_outputs.ts` byte-compare 六个固定 target、完整 API JSON file set 与每个 per-entry JSON 内容（含 `metrics.last_modified`）。PASS signal：`fixed-timestamp regeneration is byte-identical (including last_modified)`。
+- `bun test tools/discovery_routes.test.ts`：覆盖 URL helper contract、assembled-route positive/negative fixture、absolute-HTTP external-link filter、same-host wrong-origin、hook-like inherited `GIT_*` context 下的 shallow committed-date fallback、per-entry `last_modified` mismatch。
+- `bun run ai:audit --out _site`：只读取 assembled copies；检查 route-bearing fields 与 API `external_links` 中的 same-host URL。hostname 相同但 scheme/port 不同会因 exact origin mismatch 失败；`ai-index.json` source-preserving `markdown_links` 与 external origins 不做 deploy availability claim。PASS signal：`Generated route audit passed: ... resolve in the assembled artifact.`。
+- `bun run verify --out _site`：先跑 exact regeneration，后 build/assemble，再跑 route audit；最终 PASS signal 是 `FinWiki required verification: PASS`。
 
 ## tools/audit_runner.ts（advisory truthfulness audit）
 
@@ -86,4 +99,4 @@ bun tools/wiki_link_audit.ts --fail-on-issues --fail-on-canonical-drift
 bun tools/generate_ai_discovery.ts
 ```
 
-> ⚠️ `--write` 在 fresh clone 上直接跑会污染所有 `lastmod`。clone 后第一次发布要先恢复 mtime，见 [gotchas.md](../07-quality/gotchas.md)。
+> ⚠️ canonical GitHub workflows 以 `fetch-depth: 0` 取得 full history。工作树中已编辑的 tracked 文件在 commit 前仍显示旧 commit date；source commit 后必须再生成并 amend 或追加 release-sync commit。shallow/history-less builder 先复用合法 committed `ai-index.json` date，mtime 不是 immediate fallback；见 [gotchas.md](../07-quality/gotchas.md)。

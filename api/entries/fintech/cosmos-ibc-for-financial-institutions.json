@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/cosmos-ibc-for-financial-institutions",
   "source_path": "fintech/cosmos-ibc-for-financial-institutions.md",
-  "url": "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+  "url": "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+    "en": "https://finwiki.zksc.io/en/fintech/cosmos-ibc-for-financial-institutions/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cosmos-ibc-for-financial-institutions.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cosmos-ibc-for-financial-institutions.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions.md",
   "domain": "fintech",
   "title": "Cosmos IBC for Financial Institutions",
   "entry_type": "wiki_entry",
@@ -73,16 +78,16 @@
       "systems/cross-chain-five-pole-comparison-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

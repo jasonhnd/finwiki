@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/sbi-hd",
   "source_path": "megabanks/sbi-hd.md",
-  "url": "https://finwiki.zksc.io/megabanks/sbi-hd",
+  "url": "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+    "en": "https://finwiki.zksc.io/en/megabanks/sbi-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/sbi-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/sbi-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/sbi-hd.md",
   "domain": "megabanks",
   "title": "SBI ホールディングス (SBI HD)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/shimane-bank",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

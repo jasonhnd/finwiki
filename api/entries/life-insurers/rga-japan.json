@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/rga-japan",
   "source_path": "life-insurers/rga-japan.md",
-  "url": "https://finwiki.zksc.io/life-insurers/rga-japan",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/rga-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/rga-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/rga-japan/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/rga-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/rga-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/rga-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/rga-japan.md",
   "domain": "life-insurers",
   "title": "RGA リインシュアランス・カンパニー日本支店",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/non-life-insurers/gen-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/scor-japan",
-      "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/aflac-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/gen-re-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/hannover-re-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/scor-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/swiss-re-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/toa-reinsurance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/jimoto-hd",
   "source_path": "regional-banks/jimoto-hd.md",
-  "url": "https://finwiki.zksc.io/regional-banks/jimoto-hd",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/jimoto-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/jimoto-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/jimoto-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/jimoto-hd.md",
   "domain": "regional-banks",
   "title": "じもとホールディングス (JIMOTO HD)",
   "entry_type": "wiki_entry",
@@ -73,14 +78,14 @@
       "regional-banks/fidea-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fidea-hd"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fidea-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

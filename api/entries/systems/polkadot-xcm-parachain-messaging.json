@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/polkadot-xcm-parachain-messaging",
   "source_path": "systems/polkadot-xcm-parachain-messaging.md",
-  "url": "https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging",
+  "url": "https://finwiki.zksc.io/ja/systems/polkadot-xcm-parachain-messaging/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/polkadot-xcm-parachain-messaging/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/polkadot-xcm-parachain-messaging/",
+    "en": "https://finwiki.zksc.io/en/systems/polkadot-xcm-parachain-messaging/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/polkadot-xcm-parachain-messaging.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/polkadot-xcm-parachain-messaging.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging.md",
   "domain": "systems",
   "title": "Polkadot XCM · parachain messaging v3-v4",
   "entry_type": "wiki_entry",
@@ -74,17 +79,17 @@
       "systems/l2-agent-economics-arbitrum-base-op-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
-      "https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain",
-      "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026",
-      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+      "https://finwiki.zksc.io/ja/systems/ibc-cosmos-cross-chain/",
+      "https://finwiki.zksc.io/ja/systems/institutional-dlt-adoption-comparison-2026/",
+      "https://finwiki.zksc.io/ja/systems/l2-agent-economics-arbitrum-base-op-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

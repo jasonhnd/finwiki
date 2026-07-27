@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/view-card",
   "source_path": "card-issuers/view-card.md",
-  "url": "https://finwiki.zksc.io/card-issuers/view-card",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/view-card/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/view-card/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/view-card/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/view-card/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/view-card.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/view-card.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/view-card.md",
   "domain": "card-issuers",
   "title": "株式会社ビューカード (Viewcard)",
   "entry_type": "wiki_entry",
@@ -73,17 +78,17 @@
       "payments/credit-purchase-card-operators-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/epos-card",
-      "https://finwiki.zksc.io/card-issuers/jal-card",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/jr-east-financial",
-      "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/jal-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/",
+      "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/"
     ],
     "external_links_count": 3,
     "external_links": [

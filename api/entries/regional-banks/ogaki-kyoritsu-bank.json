@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/ogaki-kyoritsu-bank",
   "source_path": "regional-banks/ogaki-kyoritsu-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/ogaki-kyoritsu-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ogaki-kyoritsu-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ogaki-kyoritsu-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank.md",
   "domain": "regional-banks",
   "title": "大垣共立銀行 (OKB)",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/juroku-fg",
-      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/juroku-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

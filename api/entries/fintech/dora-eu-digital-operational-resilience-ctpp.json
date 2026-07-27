@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/dora-eu-digital-operational-resilience-ctpp",
   "source_path": "fintech/dora-eu-digital-operational-resilience-ctpp.md",
-  "url": "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp",
+  "url": "https://finwiki.zksc.io/ja/fintech/dora-eu-digital-operational-resilience-ctpp/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/dora-eu-digital-operational-resilience-ctpp/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/dora-eu-digital-operational-resilience-ctpp/",
+    "en": "https://finwiki.zksc.io/en/fintech/dora-eu-digital-operational-resilience-ctpp/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/dora-eu-digital-operational-resilience-ctpp.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/dora-eu-digital-operational-resilience-ctpp.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp.md",
   "domain": "fintech",
   "title": "DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/dora-eu-digital-operational-resilience-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/"
     ],
     "external_links_count": 0,
     "external_links": []

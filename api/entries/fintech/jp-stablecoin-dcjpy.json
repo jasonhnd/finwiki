@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jp-stablecoin-dcjpy",
   "source_path": "fintech/jp-stablecoin-dcjpy.md",
-  "url": "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+  "url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
+    "en": "https://finwiki.zksc.io/en/fintech/jp-stablecoin-dcjpy/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jp-stablecoin-dcjpy.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jp-stablecoin-dcjpy.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy.md",
   "domain": "fintech",
   "title": "DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム",
   "entry_type": "wiki_entry",
@@ -72,16 +77,16 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sblox",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sblox/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 6,
     "external_links": [

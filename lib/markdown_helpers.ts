@@ -1,10 +1,25 @@
 import { spawnSync } from "node:child_process";
 import { readdir, readFile, stat } from "node:fs/promises";
 import { dirname, relative, resolve, posix as pathPosix } from "node:path";
+import process from "node:process";
 
 export const SITE_URL = "https://finwiki.zksc.io/";
 export const GITHUB_BLOB = "https://github.com/jasonhnd/finwiki/blob/main/";
+export const GITHUB_RAW = "https://raw.githubusercontent.com/jasonhnd/finwiki/main/";
 export const AUDIT_ARTIFACT_DIR_NAME = "audit-artifacts";
+
+export const PUBLIC_ROOT_MARKDOWN_FILES = new Set([
+  "CHANGELOG.md",
+  "HOW-TO-NAVIGATE.md",
+  "INDEX.md",
+  "OBSIDIAN-SETUP.md",
+  "README.md",
+  "SCHEMA.md",
+  "cross-domain-anchor-convention.md",
+  "domain-bridge-navigation-guide.md",
+  "entity-mirror-page-policy.md",
+  "topic-cluster-reference.md",
+]);
 
 export const CONTROL_DOCS = new Set([
   "README.md",
@@ -37,6 +52,9 @@ export const HEADING_RE = /^(#{1,3})\s+(.+?)\s*$/;
 export interface Entry {
   source_path: string;
   url: string;
+  html_url: string | null;
+  alternate_html_urls: Record<"ja" | "en", string> | null;
+  raw_markdown_url: string;
   github_url: string;
   title: string;
   domain: string;
@@ -126,6 +144,9 @@ export interface DomainRecord {
   entries: number;
   route: string;
   url: string;
+  html_url: string | null;
+  alternate_html_urls: Record<"ja" | "en", string> | null;
+  raw_markdown_url: string;
   scope: string;
 }
 
@@ -133,22 +154,88 @@ export function siteUrl(pathname = ""): string {
   return SITE_URL + pathname.replace(/^\/+/, "");
 }
 
-export function publicUrlFor(relPath: string): string {
-  if (relPath === "README.md") {
-    return siteUrl("README.md");
+function normalizeSourcePath(relPath: string): string {
+  return relPath.replaceAll("\\", "/").replace(/^\/+/, "");
+}
+
+export function rawGithubUrlFor(relPath: string): string {
+  return GITHUB_RAW + normalizeSourcePath(relPath);
+}
+
+export function publishedMarkdownUrlFor(
+  relPath: string,
+  publicDomainDirs: ReadonlySet<string> = new Set(),
+): string | null {
+  const normalized = normalizeSourcePath(relPath);
+  if (!normalized.endsWith(".md")) return null;
+  if (PUBLIC_ROOT_MARKDOWN_FILES.has(normalized)) return siteUrl(normalized);
+
+  const parts = normalized.split("/");
+  if (
+    parts.length >= 2 &&
+    (parts[0] === "releases" || publicDomainDirs.has(parts[0]))
+  ) {
+    return siteUrl(normalized);
   }
-  return siteUrl(relPath.endsWith(".md") ? relPath.slice(0, -3) : relPath);
+  return null;
+}
+
+export function renderedEntryRouteFor(
+  relPath: string,
+  publicDomainDirs?: ReadonlySet<string>,
+): string | null {
+  const normalized = normalizeSourcePath(relPath);
+  const parts = normalized.split("/");
+  if (
+    parts.length < 2 ||
+    parts[0] === "releases" ||
+    (publicDomainDirs && !publicDomainDirs.has(parts[0])) ||
+    !normalized.endsWith(".md") ||
+    normalized.endsWith("/INDEX.md")
+  ) {
+    return null;
+  }
+  return normalized.slice(0, -3).toLowerCase();
+}
+
+export function localizedHtmlUrlFor(
+  relPath: string,
+  lang: "ja" | "en",
+  publicDomainDirs?: ReadonlySet<string>,
+): string | null {
+  const route = renderedEntryRouteFor(relPath, publicDomainDirs);
+  return route ? siteUrl(`${lang}/${route}/`) : null;
+}
+
+export function alternateHtmlUrlsFor(
+  relPath: string,
+  publicDomainDirs?: ReadonlySet<string>,
+): Record<"ja" | "en", string> | null {
+  const ja = localizedHtmlUrlFor(relPath, "ja", publicDomainDirs);
+  const en = localizedHtmlUrlFor(relPath, "en", publicDomainDirs);
+  return ja && en ? { ja, en } : null;
+}
+
+export function publicUrlFor(
+  relPath: string,
+  publicDomainDirs?: ReadonlySet<string>,
+): string {
+  return (
+    localizedHtmlUrlFor(relPath, "ja", publicDomainDirs) ??
+    publishedMarkdownUrlFor(relPath, publicDomainDirs) ??
+    githubUrlFor(relPath)
+  );
 }
 
 export function githubUrlFor(relPath: string): string {
-  return GITHUB_BLOB + relPath;
+  return GITHUB_BLOB + normalizeSourcePath(relPath);
 }
 
 export function wikilinkToUrl(target: string): string {
   const normalized = target.split("|", 1)[0].split("#", 1)[0].trim();
   if (!normalized) return "";
-  if (normalized === "README") return siteUrl("README.md");
-  return siteUrl(normalized.endsWith(".md") ? normalized.slice(0, -3) : normalized);
+  const sourcePath = normalized.endsWith(".md") ? normalized : `${normalized}.md`;
+  return publicUrlFor(sourcePath);
 }
 
 // Resolve raw body wikilink targets to public route URLs. wikilinkToUrl alone
@@ -159,7 +246,7 @@ export function wikilinkToUrl(target: string): string {
 // last-slug lookup, and drop any target that cannot map to a real page.
 export function resolveWikilinkRoutes(
   rawTargets: readonly string[],
-  routeSet: ReadonlySet<string>,
+  routeToUrl: ReadonlyMap<string, string>,
   basenameToRoute: ReadonlyMap<string, string>,
 ): string[] {
   const urls: string[] = [];
@@ -167,9 +254,10 @@ export function resolveWikilinkRoutes(
   for (const raw of rawTargets) {
     const normalized = raw.split("|", 1)[0].split("#", 1)[0].trim().replace(/\.md$/, "");
     if (!normalized) continue;
-    const route = resolveWikilinkRoute(normalized, routeSet, basenameToRoute);
+    const route = resolveWikilinkRoute(normalized, routeToUrl, basenameToRoute);
     if (!route) continue;
-    const url = siteUrl(route);
+    const url = routeToUrl.get(route);
+    if (!url) continue;
     if (!seen.has(url)) {
       seen.add(url);
       urls.push(url);
@@ -180,11 +268,11 @@ export function resolveWikilinkRoutes(
 
 function resolveWikilinkRoute(
   normalized: string,
-  routeSet: ReadonlySet<string>,
+  routeToUrl: ReadonlyMap<string, string>,
   basenameToRoute: ReadonlyMap<string, string>,
 ): string | null {
-  if (routeSet.has(normalized)) return normalized;
-  if (routeSet.has(`${normalized}/INDEX`)) return `${normalized}/INDEX`;
+  if (routeToUrl.has(normalized)) return normalized;
+  if (routeToUrl.has(`${normalized}/INDEX`)) return `${normalized}/INDEX`;
   const slug = normalized.split("/").pop() ?? normalized;
   return basenameToRoute.get(slug) ?? basenameToRoute.get(slug.toLowerCase()) ?? null;
 }
@@ -501,9 +589,27 @@ const GIT_LOG_DATE_PREFIX = "__FINWIKI_COMMIT_DATE__";
 const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const knownGitRoots: string[] = [];
 const gitLastModifiedCacheByRoot = new Map<string, Map<string, string> | null>();
+const shallowGitRootCache = new Map<string, boolean>();
+const GIT_CONTEXT_ENVIRONMENT_VARIABLES = [
+  "GIT_DIR",
+  "GIT_WORK_TREE",
+  "GIT_INDEX_FILE",
+  "GIT_OBJECT_DIRECTORY",
+  "GIT_ALTERNATE_OBJECT_DIRECTORIES",
+  "GIT_QUARANTINE_PATH",
+  "GIT_PREFIX",
+] as const;
 
 function toPosixPath(value: string): string {
   return value.replaceAll("\\", "/");
+}
+
+function isolatedGitEnvironment(): NodeJS.ProcessEnv {
+  const env = { ...process.env };
+  for (const variable of GIT_CONTEXT_ENVIRONMENT_VARIABLES) {
+    delete env[variable];
+  }
+  return env;
 }
 
 function gitRootFor(filePath: string): string | null {
@@ -516,6 +622,7 @@ function gitRootFor(filePath: string): string | null {
 
   const result = spawnSync("git", ["-C", toPosixPath(dirname(absoluteFile)), "rev-parse", "--show-toplevel"], {
     encoding: "utf8",
+    env: isolatedGitEnvironment(),
   });
   if (result.status !== 0) return null;
 
@@ -544,6 +651,7 @@ function loadGitLastModifiedDates(rootDir: string): Map<string, string> | null {
     ],
     {
       encoding: "utf8",
+      env: isolatedGitEnvironment(),
       maxBuffer: 128 * 1024 * 1024,
     },
   );
@@ -571,6 +679,20 @@ function loadGitLastModifiedDates(rootDir: string): Map<string, string> | null {
   return datesByPath;
 }
 
+function isShallowGitRoot(rootDir: string): boolean {
+  if (shallowGitRootCache.has(rootDir)) {
+    return shallowGitRootCache.get(rootDir) ?? true;
+  }
+  const result = spawnSync(
+    "git",
+    ["-C", rootDir, "rev-parse", "--is-shallow-repository"],
+    { encoding: "utf8", env: isolatedGitEnvironment() },
+  );
+  const shallow = result.status !== 0 || result.stdout.trim() !== "false";
+  shallowGitRootCache.set(rootDir, shallow);
+  return shallow;
+}
+
 function gitLastModifiedFor(filePath: string): string | null {
   const rootDir = gitRootFor(filePath);
   if (!rootDir) return null;
@@ -580,9 +702,26 @@ function gitLastModifiedFor(filePath: string): string | null {
   return datesByPath.get(relPath) ?? null;
 }
 
-export async function lastModifiedFor(filePath: string): Promise<string> {
-  const gitDate = gitLastModifiedFor(filePath);
-  if (gitDate) return gitDate;
+export async function lastModifiedFor(
+  filePath: string,
+  committedDiscoveryFallback?: string,
+): Promise<string> {
+  const rootDir = gitRootFor(filePath);
+  const shallow = rootDir ? isShallowGitRoot(rootDir) : false;
+  if (!shallow) {
+    const gitDate = gitLastModifiedFor(filePath);
+    if (gitDate) return gitDate;
+  }
+  if (
+    committedDiscoveryFallback &&
+    ISO_DATE_RE.test(committedDiscoveryFallback)
+  ) {
+    return committedDiscoveryFallback;
+  }
+  if (shallow) {
+    const shallowGitDate = gitLastModifiedFor(filePath);
+    if (shallowGitDate) return shallowGitDate;
+  }
   const fileStat = await stat(filePath);
   return formatLocalDate(new Date(fileStat.mtimeMs));
 }
@@ -606,7 +745,13 @@ export function formatLocalDate(date: Date): string {
   return `${yyyy}-${mm}-${dd}`;
 }
 
-export async function buildEntry(rootDir: string, relPath: string, text: string): Promise<Entry> {
+export async function buildEntry(
+  rootDir: string,
+  relPath: string,
+  text: string,
+  publicDomainDirs?: ReadonlySet<string>,
+  committedLastModified?: string,
+): Promise<Entry> {
   const filePath = pathPosix.join(rootDir, relPath);
   const wikilinks = extractWikilinks(text);
   const frontmatter = extractFrontmatter(text);
@@ -616,7 +761,12 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
   const entityEdges = extractEntityEdges(frontmatter);
   return {
     source_path: relPath,
-    url: publicUrlFor(relPath),
+    url: publicUrlFor(relPath, publicDomainDirs),
+    html_url: localizedHtmlUrlFor(relPath, "ja", publicDomainDirs),
+    alternate_html_urls: alternateHtmlUrlsFor(relPath, publicDomainDirs),
+    raw_markdown_url:
+      publishedMarkdownUrlFor(relPath, publicDomainDirs) ??
+      rawGithubUrlFor(relPath),
     github_url: githubUrlFor(relPath),
     title: extractTitle(relPath, text),
     domain: domainFor(relPath),
@@ -633,7 +783,7 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
     entity_edges: entityEdges,
     nonspace_chars: text.replace(/\s+/g, "").length,
     word_like_tokens: countWordLikeTokens(text),
-    last_modified: await lastModifiedFor(filePath),
+    last_modified: await lastModifiedFor(filePath, committedLastModified),
   };
 }
 
@@ -656,7 +806,22 @@ export async function parseDomainMap(rootDir: string): Promise<DomainRecord[]> {
       domain: cells[0],
       entries: Number(cells[1].replaceAll(",", "")),
       route,
-      url: wikilinkToUrl(route),
+      url:
+        Number(cells[1].replaceAll(",", "")) > 0
+          ? siteUrl(`ja/domains/${cells[0].toLowerCase()}/`)
+          : siteUrl(`${cells[0]}/INDEX.md`),
+      html_url:
+        Number(cells[1].replaceAll(",", "")) > 0
+          ? siteUrl(`ja/domains/${cells[0].toLowerCase()}/`)
+          : null,
+      alternate_html_urls:
+        Number(cells[1].replaceAll(",", "")) > 0
+          ? {
+              ja: siteUrl(`ja/domains/${cells[0].toLowerCase()}/`),
+              en: siteUrl(`en/domains/${cells[0].toLowerCase()}/`),
+            }
+          : null,
+      raw_markdown_url: siteUrl(`${cells[0]}/INDEX.md`),
       scope: stripInlineMarkdown(cells[3]),
     });
   }

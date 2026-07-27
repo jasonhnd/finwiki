@@ -11,15 +11,18 @@
 4. bun tools/release.ts --write --release-note "<日本語タイトル>"
                                            # 生成三语 draft + 发现面 + counts
    # 填写 draft 的真实内容后，再运行 bun tools/release.ts --write
-5. bun run verify                         # 唯一完整门禁：必须 EXIT=0
-6. git add -A && git commit               # 不加 Co-Authored-By（repo 既有惯例）
-7. git push origin main
-8. git tag v<date>-<N> && git push origin v<date>-<N>
-9. gh release create v<date>-<N> \
+5. bun run verify                         # pre-commit gate
+6. git add -A && git commit               # 建立 source 的 Git last_modified
+7. bun tools/release.ts --write           # commit 后再生成 last_modified
+   bun run verify                         # 最终门禁：必须 EXIT=0
+   # 有生成差异时 amend，或追加同一 push 内的 release-sync commit；之后再 verify
+8. git push origin main
+9. git tag v<date>-<N> && git push origin v<date>-<N>
+10. gh release create v<date>-<N> \
      --title "<日本語タイトル>" \
      --notes-file releases/v<date>-<N>.md \
      --target main
-10. gh run watch <runId> --exit-status    # 确认「Deploy FinWiki」build 绿
+11. gh run watch <runId> --exit-status    # 确认「Deploy FinWiki」build 绿
 ```
 
 ## 三语发布文档格式
@@ -39,9 +42,9 @@ bun tools/release.ts --write
 bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun tools/release.ts --check --strict; }
 ```
 
-## fresh clone 的 mtime 处理
+## `last_modified` 处理
 
-`generate_ai_discovery.ts` 从 **fs mtime** 生成 `sitemap.xml`/`api` 的 `lastmod`。`git clone` 重置所有 mtime → 直接 `--write` 会把全站 lastmod 污染成 clone 日期。**clone 后第一次发布前**：从已提交的 `sitemap.xml` 的 `<lastmod>` 把各页 mtime 恢复回去，只给当天真正编辑过的文件设今天。详见 [gotchas.md](../07-quality/gotchas.md)。
+`generate_ai_discovery.ts` 在 full-history checkout 对 tracked source 优先使用最新 Git commit date；canonical GitHub workflows 以 `fetch-depth: 0` 保证该输入。shallow/history-less builder 先复用现有 committed `ai-index.json` 的合法 source-path date，再尝试 shallow Git，fs mtime 仅是最终 fallback。commit 前，已编辑的 tracked file 仍使用旧 commit date；source commit 后必须重新生成，并 amend 或追加 release-sync commit，使 sitemap 与 per-entry API 收敛。最后再跑 `bun run verify`；其 `surface:drift` 会固定 `generated_at` 并精确比较所有生成文件，包括每个 per-entry `last_modified`。详见 [gotchas.md](../07-quality/gotchas.md)。
 
 ## 发布前自检清单
 
@@ -50,5 +53,6 @@ bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun too
 - [ ] Bun version 与 `.bun-version` 一致，`bun run verify` `EXIT=0`
 - [ ] fresh PR 的 `Required verification` 为 green，`main` protection 仍要求该 context
 - [ ] `git diff` 无密钥 / 本地路径 / 隐私（grep 检查 home 目录路径前缀、token 前缀、真实用户名，命中应为 0）
-- [ ] sitemap `lastmod` 无污染（`git diff sitemap.xml` 里新增的 lastmod 都是当天）
+- [ ] `bun run surface:drift` 显示 fixed-timestamp byte-identical（含全部 per-entry `last_modified`）
+- [ ] `bun run verify` 显示 `Generated route audit passed`，生成的 `/ja/` canonical、`/en/` alternate 与显式 `.md` raw URL 均在最终 artifact 可解析
 - [ ] push 后 `gh run watch` 确认 Astro build 绿（尤其改过 `site/` 配置时）

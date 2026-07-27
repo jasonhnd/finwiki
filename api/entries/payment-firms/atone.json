@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/atone",
   "source_path": "payment-firms/atone.md",
-  "url": "https://finwiki.zksc.io/payment-firms/atone",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/atone/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/atone/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/atone/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/atone/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/atone.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/atone.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/atone.md",
   "domain": "payment-firms",
   "title": "atone (アトネ)",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
-      "https://finwiki.zksc.io/payment-firms/famima-digital-one",
-      "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/payment-firms/net-protections-hd",
-      "https://finwiki.zksc.io/payment-firms/paidy",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
-      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
+      "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+      "https://finwiki.zksc.io/ja/payment-firms/net-protections-hd/",
+      "https://finwiki.zksc.io/ja/payment-firms/paidy/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/japan-bnpl-credit-purchase-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

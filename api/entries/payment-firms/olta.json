@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/olta",
   "source_path": "payment-firms/olta.md",
-  "url": "https://finwiki.zksc.io/payment-firms/olta",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/olta/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/olta/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/olta/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/olta/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/olta.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/olta.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/olta.md",
   "domain": "payment-firms",
   "title": "OLTA (オルタ)",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
-      "https://finwiki.zksc.io/payment-firms/freee",
-      "https://finwiki.zksc.io/payment-firms/money-forward",
-      "https://finwiki.zksc.io/payment-firms/net-protections-hd",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
-      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/freee/",
+      "https://finwiki.zksc.io/ja/payment-firms/money-forward/",
+      "https://finwiki.zksc.io/ja/payment-firms/net-protections-hd/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/japan-bnpl-credit-purchase-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/cross-chain-five-pole-comparison-matrix",
   "source_path": "systems/cross-chain-five-pole-comparison-matrix.md",
-  "url": "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+  "url": "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+    "en": "https://finwiki.zksc.io/en/systems/cross-chain-five-pole-comparison-matrix/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-five-pole-comparison-matrix.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-five-pole-comparison-matrix.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix.md",
   "domain": "systems",
   "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
   "entry_type": "wiki_entry",
@@ -73,17 +78,17 @@
       "systems/layerzero-v2-omnichain-messaging"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision",
-      "https://finwiki.zksc.io/systems/hyperlane-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-vs-canton/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-selection-decision/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-vs-layerzero-ccip/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/"
     ],
     "external_links_count": 0,
     "external_links": []

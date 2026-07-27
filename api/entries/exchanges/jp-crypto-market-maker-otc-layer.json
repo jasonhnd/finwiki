@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-crypto-market-maker-otc-layer",
   "source_path": "exchanges/jp-crypto-market-maker-otc-layer.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-crypto-market-maker-otc-layer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-market-maker-otc-layer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-market-maker-otc-layer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer.md",
   "domain": "exchanges",
   "title": "国内暗号資産マーケットメイカー / OTC デスク業界 overview",
   "entry_type": "wiki_entry",
@@ -66,17 +71,17 @@
       "securities/japan-best-execution-sor-pts"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-mercury",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
-      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-prime-brokerage-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+      "https://finwiki.zksc.io/ja/securities/japan-best-execution-sor-pts/"
     ],
     "external_links_count": 0,
     "external_links": []

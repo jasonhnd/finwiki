@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/native-dex-flip-incumbent-pattern",
   "source_path": "exchanges/native-dex-flip-incumbent-pattern.md",
-  "url": "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+  "url": "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+    "en": "https://finwiki.zksc.io/en/exchanges/native-dex-flip-incumbent-pattern/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/native-dex-flip-incumbent-pattern.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/native-dex-flip-incumbent-pattern.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern.md",
   "domain": "exchanges",
   "title": "L2 原生 DEX による incumbent 逆転パターン",
   "entry_type": "wiki_entry",
@@ -66,17 +71,17 @@
       "systems/cross-chain-four-poles-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
-      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
+      "https://finwiki.zksc.io/ja/exchanges/vetoken-host-protocol-flywheel/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

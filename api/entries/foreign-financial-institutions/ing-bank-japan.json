@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/ing-bank-japan",
   "source_path": "foreign-financial-institutions/ing-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/ing-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ing-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ing-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ing-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/ing-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/ing-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/ing-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/ing-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "アイエヌジーバンク エヌ・ヴイ 東京支店",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "foreign-financial-institutions/intesa-sanpaolo-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bbva-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/commerzbank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/intesa-sanpaolo-japan"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bbva-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/commerzbank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/credit-agricole-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/intesa-sanpaolo-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trade/forfaiting-international-factoring",
   "source_path": "trade/forfaiting-international-factoring.md",
-  "url": "https://finwiki.zksc.io/trade/forfaiting-international-factoring",
+  "url": "https://finwiki.zksc.io/ja/trade/forfaiting-international-factoring/",
+  "html_url": "https://finwiki.zksc.io/ja/trade/forfaiting-international-factoring/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trade/forfaiting-international-factoring/",
+    "en": "https://finwiki.zksc.io/en/trade/forfaiting-international-factoring/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/forfaiting-international-factoring.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/forfaiting-international-factoring.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trade/forfaiting-international-factoring.md",
   "domain": "trade",
   "title": "フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash",
   "entry_type": "wiki_entry",
@@ -74,15 +79,15 @@
       "trading-company-finance/mitsubishi-corp-finance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/trade/INDEX",
-      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
-      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
-      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism",
-      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
-      "https://finwiki.zksc.io/trading-company-finance/INDEX",
-      "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
-      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/trade/",
+      "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+      "https://finwiki.zksc.io/ja/trade/japan-customs-tariff-origin-clearance/",
+      "https://finwiki.zksc.io/ja/trade/letter-of-credit-documentary-mechanism/",
+      "https://finwiki.zksc.io/ja/trade/nexi-trade-insurance-mechanism/",
+      "https://finwiki.zksc.io/ja/domains/trading-company-finance/",
+      "https://finwiki.zksc.io/ja/trading-company-finance/itochu-finance/",
+      "https://finwiki.zksc.io/ja/trading-company-finance/mitsubishi-corp-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

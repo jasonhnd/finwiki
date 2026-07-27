@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/morgan-stanley-japan",
   "source_path": "securities-firms/morgan-stanley-japan.md",
-  "url": "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/morgan-stanley-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/morgan-stanley-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/morgan-stanley-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan.md",
   "domain": "securities-firms",
   "title": "モルガン・スタンレー・ジャパン (Morgan Stanley Japan)",
   "entry_type": "wiki_entry",
@@ -68,14 +73,14 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

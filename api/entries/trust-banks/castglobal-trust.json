@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/castglobal-trust",
   "source_path": "trust-banks/castglobal-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/castglobal-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/castglobal-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/castglobal-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/castglobal-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/castglobal-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/castglobal-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/castglobal-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/castglobal-trust.md",
   "domain": "trust-banks",
   "title": "CastGlobal Trust / キャストグローバル信託",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "trust-banks/yamada-escrow-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/castglobal-trust",
-      "https://finwiki.zksc.io/trust-banks/kyodo-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index",
-      "https://finwiki.zksc.io/trust-banks/yamada-escrow-trust"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/payments/account-to-account-payment-japan/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/castglobal-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/kyodo-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/",
+      "https://finwiki.zksc.io/ja/trust-banks/yamada-escrow-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/blackrock-buidl-sc-issuer-adoption",
   "source_path": "fintech/blackrock-buidl-sc-issuer-adoption.md",
-  "url": "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+  "url": "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+    "en": "https://finwiki.zksc.io/en/fintech/blackrock-buidl-sc-issuer-adoption/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/blackrock-buidl-sc-issuer-adoption.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/blackrock-buidl-sc-issuer-adoption.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption.md",
   "domain": "fintech",
   "title": "BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス",
   "entry_type": "wiki_entry",
@@ -70,18 +75,18 @@
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
-      "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+      "https://finwiki.zksc.io/ja/fintech/frax-frxusd-defi-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/sky-usds-decentralized-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
     "external_links_count": 0,
     "external_links": []

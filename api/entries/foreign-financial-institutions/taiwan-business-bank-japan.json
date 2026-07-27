@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/taiwan-business-bank-japan",
   "source_path": "foreign-financial-institutions/taiwan-business-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-business-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/taiwan-business-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/taiwan-business-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/taiwan-business-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/taiwan-business-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/taiwan-business-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/taiwan-business-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-business-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "台湾中小企業銀行日本 (Taiwan Business Bank Japan)",
   "entry_type": "wiki_entry",
@@ -68,14 +73,14 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/chang-hwa-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/industrial-bank-of-korea-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/taishin-bank-japan/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

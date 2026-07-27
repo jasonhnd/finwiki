@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jurisdiction-list-monetary-protectionism",
   "source_path": "fintech/jurisdiction-list-monetary-protectionism.md",
-  "url": "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+  "url": "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+    "en": "https://finwiki.zksc.io/en/fintech/jurisdiction-list-monetary-protectionism/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jurisdiction-list-monetary-protectionism.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jurisdiction-list-monetary-protectionism.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism.md",
   "domain": "fintech",
   "title": "司法管轄区リストとしての貨幣保護主義ツール",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-cross-border-stack/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 0,
     "external_links": []

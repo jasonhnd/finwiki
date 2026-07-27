@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/mitsui-direct",
   "source_path": "non-life-insurers/mitsui-direct.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/mitsui-direct",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-direct/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-direct/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-direct/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/mitsui-direct/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/mitsui-direct.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/mitsui-direct.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-direct.md",
   "domain": "non-life-insurers",
   "title": "三井ダイレクト損害保険",
   "entry_type": "wiki_entry",
@@ -63,12 +68,12 @@
       "non-life-insurers/sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aioi-nissay-dowa-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

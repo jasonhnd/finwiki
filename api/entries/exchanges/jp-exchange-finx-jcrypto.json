@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-finx-jcrypto",
   "source_path": "exchanges/jp-exchange-finx-jcrypto.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-finx-jcrypto",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-finx-jcrypto/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-finx-jcrypto/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-finx-jcrypto/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-finx-jcrypto/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-finx-jcrypto.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-finx-jcrypto.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-finx-jcrypto.md",
   "domain": "exchanges",
   "title": "FINX JCrypto株式会社 — 日本暗号資産交換業者",
   "entry_type": "wiki_entry",
@@ -68,18 +73,18 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-exchange-overview",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coinhub",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-exchange-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/osaka-shoko-shinkin",
   "source_path": "cooperative-banks/osaka-shoko-shinkin.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/osaka-shoko-shinkin",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shoko-shinkin/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shoko-shinkin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shoko-shinkin/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/osaka-shoko-shinkin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/osaka-shoko-shinkin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/osaka-shoko-shinkin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/osaka-shoko-shinkin.md",
   "domain": "cooperative-banks",
   "title": "大阪商工信用金庫",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

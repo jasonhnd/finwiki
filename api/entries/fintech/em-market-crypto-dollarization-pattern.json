@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/em-market-crypto-dollarization-pattern",
   "source_path": "fintech/em-market-crypto-dollarization-pattern.md",
-  "url": "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+  "url": "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+    "en": "https://finwiki.zksc.io/en/fintech/em-market-crypto-dollarization-pattern/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/em-market-crypto-dollarization-pattern.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/em-market-crypto-dollarization-pattern.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern.md",
   "domain": "fintech",
   "title": "新興市場における暗号資産ドル化パターン",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "fintech/tether-business-model-short-treasury-yield"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
-      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/"
     ],
     "external_links_count": 0,
     "external_links": []

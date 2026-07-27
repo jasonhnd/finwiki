@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/wayback-machine-as-forensic-tool",
   "source_path": "security/wayback-machine-as-forensic-tool.md",
-  "url": "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
+  "url": "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/",
+  "html_url": "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/",
+    "en": "https://finwiki.zksc.io/en/security/wayback-machine-as-forensic-tool/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/wayback-machine-as-forensic-tool.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/wayback-machine-as-forensic-tool.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool.md",
   "domain": "security",
   "title": "能動的に de-publishされた内容の救出 — Wayback Machineをフォレンジック武器として使う",
   "entry_type": "wiki_entry",
@@ -58,14 +63,14 @@
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/systems/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/exchanges/mtgox-bankruptcy-processing-timeline/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/domains/systems/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/tomato-bank",
   "source_path": "regional-banks/tomato-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/tomato-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/tomato-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/tomato-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/tomato-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/tomato-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tomato-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/tomato-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/tomato-bank.md",
   "domain": "regional-banks",
   "title": "トマト銀行",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "regional-banks/tottori-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/chugin-okayama",
-      "https://finwiki.zksc.io/regional-banks/chugoku-bank",
-      "https://finwiki.zksc.io/regional-banks/hiroshima-bank",
-      "https://finwiki.zksc.io/regional-banks/tottori-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/chugin-okayama/",
+      "https://finwiki.zksc.io/ja/regional-banks/chugoku-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/hiroshima-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tottori-bank/"
     ],
     "external_links_count": 0,
     "external_links": []
