@@ -12,9 +12,9 @@
 
 README / index.html 内嵌 corpus 的 char/token 计数（如"约 10.09M / 163万 tokens"）。编辑任何 `.md` 都会改总字数；当某计数**跨数量级位数**（999万→1001万，字符串变长）时，单次 `--write` 写入新计数本身又改变了字数 → `--check` 仍 drift。**对策**：`--write` 后若 `--check --strict` 非 0，再 `--write` 一次即收敛。发布脚本里用 `|| { --write; --check; }` 兜底。
 
-## 3. site/ 无 node_modules → 盲推（中危）
+## 3. site/ dependencies 必须 frozen install（中危）
 
-`site/` 有独立依赖，本地通常不装，**无法本地跑 Astro build**。改了 `site/src/content.config.ts` / `siteIndex.mjs` / `i18n/groups.ts` 只能盲推，靠 GitHub Actions「Deploy FinWiki」验证。**对策**：push 后必 `gh run watch <id> --exit-status`；关键步骤是 "Build human site" 和 "Build static search index"；失败就 revert 那个 commit。
+`site/` 有独立 lockfile；手工 `bun install` 或只依赖已有 `node_modules` 会让 local 与 CI 解析结果漂移。**对策**：从 root 跑 `bun run verify`，它先执行 `site/` 的 `bun install --frozen-lockfile`，再做 typecheck、Astro、Pagefind 与 final artifact。push 后仍需 `gh run watch <id> --exit-status`，因为本地绿色不证明 Pages permission / deploy state。
 
 ## 4. 假死链（中危）
 
@@ -40,7 +40,7 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 
 ## 9. 发布门禁的硬约束
 
-`release.ts --check --strict` 必须 `EXIT=0` 才能发：link audit `issues=0`、counts in sync、JSON valid / LF endings / duplicate-id verify OK。任一不满足都别 push。
+`bun run verify` 必须 `EXIT=0` 才能 push / merge / deploy。它包含 strict release check，但还额外要求 docs/surface/AI/i18n/index、dependency、typecheck、tests、build、Pagefind、assembly、required routes 与 diff 全绿；只跑 `release.ts --check --strict` 不再等于完整发布门禁。
 
 ## 10. block-no-verify hook 对复合命令 + "verif" 词误判（中危）
 
@@ -52,4 +52,4 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 
 ## 12. pre-push 门禁需要 bun 在 PATH（中危）
 
-`.git/hooks/pre-push` 会跑 `bun tools/release.ts --check --strict`。若 `bun` 不在该 hook（sh）能看到的 `PATH` 上，push 会被拦（`Bun was not found for the FinWiki release check`）。**对策**：把 `bun` 加进 `PATH`，或 `export FINWIKI_BUN=<bun 路径>`（hook 两者都认）。`release.ts` 内部还会 `spawnSync("bun", ...)`，所以光给 hook 指路不够——`bun` 必须在 PATH 上内部子进程才找得到。**别用 `git push --no-verify` 绕过**：门禁红就先 `release.ts --write` 修好再 push。
+tracked `.githooks/pre-push` 必须保持 `100755`，并会跑 `bun run verify`。若 Bun 不在 hook 的 `PATH`，可设置 `FINWIKI_BUN=<bun 路径>`；hook 会把该 executable 的目录加入 child `PATH`，runner 仍会对照 `.bun-version` 拒绝错版 runtime。**别用 `git push --no-verify` 绕过**：先修复具体 failing step，再用 `git hook run pre-push` 复验。

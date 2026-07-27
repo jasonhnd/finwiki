@@ -7,7 +7,7 @@ finwiki/
 ├── <domain>/                 # 40 个领域目录，每个含 INDEX.md + 若干 entry .md
 │   └── INDEX.md              # 领域索引（domain_index）
 ├── JapanFG/                  # 日本金融机构 umbrella hub；实体已拆到 17 个机构类型域
-├── site/                     # Astro 站点（独立 node_modules，本地通常不装）
+├── site/                     # Astro 站点（独立 frozen Bun lockfile）
 │   └── src/
 │       ├── content.config.ts # ENTRY_DOMAIN_DIRS allowlist（决定 Astro 拾取哪些领域）
 │       ├── content/i18n/{ja,en}/     # 机器翻译产物
@@ -50,7 +50,7 @@ finwiki/
 ## site/（Astro）
 
 - `content.config.ts` 的 `ENTRY_DOMAIN_DIRS` 是**显式 allowlist**——只有列出的领域目录会被 glob 成 content collection。新目录（如 `docs/`）不在其中即自动不被站点拾取。
-- `site/` 有独立 `node_modules`，本地通常不安装 → **无法本地验证 Astro build**，改 site 配置是盲推，靠 GitHub Actions「Deploy FinWiki」验证。
+- `site/` 有独立 lockfile；root `bun run verify` 会 frozen install 后执行 typecheck、Astro、Pagefind、assembly 与 required-route check，因此 site 配置不得盲推或只依赖 CI。
 
 ## ★ 双排除机制（最易混淆）
 

@@ -6,7 +6,7 @@ Quick index; the detailed entries are in [Playbooks](#playbooks).
 
 | Type | Symptom | First Response |
 |---|---|---|
-| Release gate failure | `release.ts --check --strict` exits non-zero. | Read failing section, fix root cause, rerun check. |
+| Release gate failure | `bun run verify` exits non-zero. | Read the named failing step, fix root cause, rerun the canonical command. |
 | Count drift | README/root homepage counts differ from generated counts. | `bun tools/release.ts --write`, review diff, strict check. |
 | Dead wikilink | Audit reports unresolved target. | Fix target, alias, route or remove invalid link. |
 | Canonical drift | Audit reports anchor drift. | Restore anchor page, fix `canonical_anchor`, or update body link. |
@@ -16,7 +16,7 @@ Quick index; the detailed entries are in [Playbooks](#playbooks).
 | `.txt` route failure | `bun run ai:audit` reports an invalid public route in `llms*.txt`. | Fix the generator/source route (or the body wikilink it derives from), `release.ts --write`. |
 | i18n stale spike | Source hashes/source pointers show a large unexpected stale or missing set. | `bun tools/i18n_status.ts`, inspect recent domain moves; never rewrite `source_hash` to hide staleness. |
 | Lastmod pollution | Large sitemap/API lastmod diff after no content edit. | Restore mtimes or revert generated drift, then rerun release write (gotchas #1). |
-| Build failure | Site build or `html:check` fails locally or in Actions. | Reproduce `cd site && bun install && bun run build` + `bun run html:check`; patch forward. |
+| Build failure | Typecheck, Astro, Pagefind, required-route or HTML gate fails locally or in Actions. | Reproduce with `bun run verify`; use the named targeted command for diagnosis, then patch forward. |
 | Deployment failure | "Deploy FinWiki" Actions run fails after push. | `gh run view <id> --log-failed`, reproduce the step locally, patch forward. |
 | UI visual regression | Japanese UI chrome shows English fallback, overflow or unreadable theme state. | Run visual QA checklist, build locally, patch CSS/i18n tokens, verify public route. |
 | Sensitive info exposure | Private data appears in tracked file. | Remove immediately, rotate credentials if applicable, record minimal public-safe incident note. |
@@ -66,17 +66,17 @@ Each playbook: symptom -> likely causes -> inspect -> repair -> exit.
 
 ### Site build failure
 
-- **Symptom**: local `site` build or `bun run html:check` fails, or the Actions "Build human site" / "Build static search index" step fails.
-- **Likely causes**: `site/src/content.config.ts` / content-collection / i18n config change; duplicate HTML ids; a missing mirror file. `site/` often has no local deps, so Actions may be the first real build (gotchas #3).
-- **Inspect**: `cd site && bun install && bun run build`, then `bun run html:check`.
-- **Repair**: fix the config/content issue, rebuild, recheck; if only reproducible in CI, patch forward and `gh run watch`.
-- **Exit**: site build + `bun run html:check` EXIT 0 locally and in Actions.
+- **Symptom**: `bun run verify` fails at typecheck, Astro build, duplicate-ID, Pagefind, assembly, or required-route check.
+- **Likely causes**: content-collection / i18n config change, a type error, duplicate HTML ids, a missing mirror, unsafe assembly input, or a missing final artifact.
+- **Inspect**: rerun the named targeted command only to shorten diagnosis; keep the frozen install and final full command for acceptance.
+- **Repair**: fix the config/content/output issue, then rerun `bun run verify`; if deployment alone fails, inspect Pages/Vercel logs and patch forward.
+- **Exit**: canonical verification is green locally and in the fresh Actions context.
 
 ### GitHub Actions deploy failure
 
 - **Symptom**: the "Deploy FinWiki" run fails after push.
 - **Inspect**: `gh run list --branch main --limit 5`, then `gh run view <run-id> --log-failed`.
-- **Likely causes**: a step that cannot run locally (`wiki:audit:ci`, site build, `html:check`, `index:search`, publish assemble) or a Pages/permissions issue.
+- **Likely causes**: a canonical verification step regressed, or Pages permissions/deployment failed after the verified artifact was produced.
 - **Repair**: reproduce the failing step locally where possible, patch forward, push a corrective commit; record validation + residual risk in `CHANGELOG.md`.
 - **Exit**: a fresh run is green (`gh run watch <run-id> --exit-status`).
 

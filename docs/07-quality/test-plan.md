@@ -9,10 +9,7 @@ rg -n "docs/(architecture|toolchain|release-process|gotchas|entry-authoring|para
 rg -n "23 domains|23-domain|領域数 23|领域数 23|site/src/content/entries|postbuild|python tools/|tools/release\\.py|wiki_link_audit\\.py|generate_ai_discovery\\.py" docs -g "!99-archive/**"
 rg -n "\"source\"\\s*:\\s*\"docs/|\"path\"\\s*:\\s*\"docs/|/docs/|<loc>[^<]*/docs/" ai-index.json api/entries/index.json sitemap.xml llms.txt llms-full.txt robots.txt
 bun tools/release.ts --write
-bun run release:docs
-bun tools/release.ts --check --strict
-bun tools/wiki_link_audit.ts --fail-on-issues
-git diff --check
+bun run verify
 ```
 
 ## When To Add More Tests
@@ -24,7 +21,7 @@ git diff --check
 | Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
-| Static publish assembly change | `bun run publish:test`, a real site build/assembly into `_site`, and positive/negative inspection for allowed raw files, development files, hidden files, unmanifested files and unsafe `--out` values. |
+| Static publish assembly/release-pipeline change | Focused boundary + required-route tests, deliberately broken final-route fixture, `bun run verify --out _site`, and workflow YAML parse. |
 | Factual consistency audit change | `bun tools/factual_consistency_audit.ts`, `bun tools/factual_consistency_audit.ts --json`, and a temporary seeded duplicate-entity conflict with `--fail-on-conflicts` before removing the fixture. |
 | Provenance completeness audit change | `bun tools/provenance_completeness_audit.ts`, `bun tools/provenance_completeness_audit.ts --json`, and a temporary low-score claim block fixture with explicit `--fail-under` before removing the fixture. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
@@ -34,9 +31,11 @@ git diff --check
 ## Exit Criteria
 
 - Required commands exit 0.
+- The local canonical command and fresh pull-request `Required verification` context both pass.
 - README, CHANGELOG, and post-contract release notes pass the Japanese -> English -> Chinese documentation audit.
 - No active stale doc-path references.
 - Generated diff is intentional.
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
 - No stale moved-domain API JSON remains after release write.
 - Assembled output contains no developer, hidden/ignored source, unmanifested or unknown-root files beyond the generated `.nojekyll` marker, and unsafe output paths cannot reach recursive cleanup.
+- Root, ja/en, crawler, AI/API and Pagefind required routes exist in the final assembled output.

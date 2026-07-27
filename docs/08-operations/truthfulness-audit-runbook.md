@@ -44,7 +44,7 @@ The job is read-only:
 - no LLM step
 - no threshold-to-failure conversion
 
-The workflow installs Bun with `oven-sh/setup-bun`, runs `bun install`, writes `summary.md` to `$GITHUB_STEP_SUMMARY`, and uploads `audit-artifacts/` as a workflow artifact named `truthfulness-audit-<as_of>`.
+The workflow installs the exact `.bun-version` with `oven-sh/setup-bun`, writes `summary.md` to `$GITHUB_STEP_SUMMARY`, and uploads `audit-artifacts/` as a workflow artifact named `truthfulness-audit-<as_of>`. The root audit runner has no package dependencies, so this advisory workflow does not perform an unfrozen root install.
 
 ## Cadence
 

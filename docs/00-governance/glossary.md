@@ -12,7 +12,7 @@
 | Canonical anchor | 多领域 mirror page 指向同一实体主页的 frontmatter 字段。 |
 | i18n mirror | `site/src/content/i18n/{ja,en}/` 下的机器翻译层。 |
 | Source hash | 机器翻译 mirror 用来判断源正文是否 stale 的 hash。 |
-| Release gate | `bun tools/release.ts --check --strict` 及其调用的 release-document、link、count、JSON、LF、duplicate-id 检查。 |
+| Release gate | `bun run verify`：固定 Bun / frozen install 后统一执行 release、docs、surface、AI、i18n、index、link、dependency、typecheck、tests、build、assembly、required-route 与 diff checks。 |
 | BRD | Business Requirements Document，定义业务目标与成功指标。 |
 | PRD | Product Requirements Document，定义产品能力和用户需求。 |
 | NFR | Non-Functional Requirements，定义性能、可靠性、安全、可维护性等约束。 |
