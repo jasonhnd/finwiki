@@ -46,6 +46,11 @@ function pipeline(): Step[] {
       command: ["bun", "tools/release.ts", "--check", "--strict"],
     },
     {
+      label: "Audit production dependencies",
+      cwd: SITE,
+      command: ["bun", "audit", "--production"],
+    },
+    {
       label: "Test static publish boundary",
       command: ["bun", "run", "publish:test"],
     },
