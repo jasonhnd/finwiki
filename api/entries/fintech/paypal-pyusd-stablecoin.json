@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/paypal-pyusd-stablecoin",
   "source_path": "fintech/paypal-pyusd-stablecoin.md",
-  "url": "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+  "url": "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+    "en": "https://finwiki.zksc.io/en/fintech/paypal-pyusd-stablecoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/paypal-pyusd-stablecoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/paypal-pyusd-stablecoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin.md",
   "domain": "fintech",
   "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "fintech/world-liberty-usd1-political-stablecoin"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
+      "https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/"
     ],
     "external_links_count": 0,
     "external_links": []

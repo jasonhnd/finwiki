@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/boj-monetary-policy",
   "source_path": "financial-regulators/boj-monetary-policy.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/boj-monetary-policy/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/boj-monetary-policy.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/boj-monetary-policy.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy.md",
   "domain": "financial-regulators",
   "title": "BoJ monetary policy",
   "entry_type": "wiki_entry",
@@ -73,12 +78,12 @@
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/japan-money-market"
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+      "https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/",
+      "https://finwiki.zksc.io/ja/money-market/japan-money-market/"
     ],
     "external_links_count": 0,
     "external_links": []

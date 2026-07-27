@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/san-jusan-fg",
   "source_path": "regional-banks/san-jusan-fg.md",
-  "url": "https://finwiki.zksc.io/regional-banks/san-jusan-fg",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/san-jusan-fg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/san-jusan-fg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/san-jusan-fg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/san-jusan-fg.md",
   "domain": "regional-banks",
   "title": "三十三 FG (San ju San Financial Group)",
   "entry_type": "wiki_entry",
@@ -60,12 +65,12 @@
       "regional-banks/juroku-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/hyakugo-bank",
-      "https://finwiki.zksc.io/regional-banks/juroku-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/hyakugo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/juroku-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

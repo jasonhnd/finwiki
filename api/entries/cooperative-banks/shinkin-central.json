@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/shinkin-central",
   "source_path": "cooperative-banks/shinkin-central.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/shinkin-central/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-central.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/shinkin-central.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/shinkin-central.md",
   "domain": "cooperative-banks",
   "title": "信金中央金庫 (Shinkin Central Bank)",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/korea-cex-five-pillars-comparison",
   "source_path": "exchanges/korea-cex-five-pillars-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/korea-cex-five-pillars-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/korea-cex-five-pillars-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/korea-cex-five-pillars-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison.md",
   "domain": "exchanges",
   "title": "韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX",
   "entry_type": "wiki_entry",
@@ -59,11 +64,11 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/ja-zenchu",
   "source_path": "cooperative-banks/ja-zenchu.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/ja-zenchu/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/ja-zenchu/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/ja-zenchu/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/ja-zenchu/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/ja-zenchu.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/ja-zenchu.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/ja-zenchu.md",
   "domain": "cooperative-banks",
   "title": "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
   "entry_type": "wiki_entry",
@@ -73,16 +78,16 @@
       "non-life-insurers/ja-kyosairen"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
-      "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
-      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
-      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen"
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/ja-shinnoren/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/ja-zen-noh/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/jf-zengyoren/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
+      "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/ja-kyosairen/"
     ],
     "external_links_count": 0,
     "external_links": []

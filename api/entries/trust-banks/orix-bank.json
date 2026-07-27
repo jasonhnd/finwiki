@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/orix-bank",
   "source_path": "trust-banks/orix-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/orix-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/orix-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/orix-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/orix-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/orix-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/orix-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/orix-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/orix-bank.md",
   "domain": "trust-banks",
   "title": "オリックス銀行 (ORIX Bank)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/post-megabank-positioning",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/post-megabank-positioning/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

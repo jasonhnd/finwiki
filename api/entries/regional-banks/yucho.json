@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/yucho",
   "source_path": "regional-banks/yucho.md",
-  "url": "https://finwiki.zksc.io/regional-banks/yucho",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/yucho/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yucho.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/yucho.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/yucho.md",
   "domain": "regional-banks",
   "title": "ゆうちょ銀行 (Japan Post Bank)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "regional-banks/japan-post-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/japan-post-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

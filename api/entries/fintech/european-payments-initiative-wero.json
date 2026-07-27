@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/european-payments-initiative-wero",
   "source_path": "fintech/european-payments-initiative-wero.md",
-  "url": "https://finwiki.zksc.io/fintech/european-payments-initiative-wero",
+  "url": "https://finwiki.zksc.io/ja/fintech/european-payments-initiative-wero/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/european-payments-initiative-wero/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/european-payments-initiative-wero/",
+    "en": "https://finwiki.zksc.io/en/fintech/european-payments-initiative-wero/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/european-payments-initiative-wero.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/european-payments-initiative-wero.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/european-payments-initiative-wero.md",
   "domain": "fintech",
   "title": "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗",
   "entry_type": "wiki_entry",
@@ -76,17 +81,17 @@
       "systems/sepa-instant-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
-      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
-      "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/mica-overview",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-adoption-curve-china-japan-eu-india-2026/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+      "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
+      "https://finwiki.zksc.io/ja/fintech/fnality-wholesale-settlement/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/fintech/stripe-usdb-bridge-stablecoin/"
     ],
     "external_links_count": 0,
     "external_links": []

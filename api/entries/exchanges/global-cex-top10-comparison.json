@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/global-cex-top10-comparison",
   "source_path": "exchanges/global-cex-top10-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/global-cex-top10-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-cex-top10-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-cex-top10-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison.md",
   "domain": "exchanges",
   "title": "グローバル CEX top 10 ランキング比較 (2025-2026)",
   "entry_type": "wiki_entry",
@@ -63,18 +68,18 @@
       "exchanges/jp-foreign-exchange-mexc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coinbase-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-okcoin-japan",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-binance-holdings-legacy",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/"
     ],
     "external_links_count": 0,
     "external_links": []

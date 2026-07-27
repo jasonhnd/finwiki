@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/multi-proof-aggregation-fault-prover",
   "source_path": "systems/multi-proof-aggregation-fault-prover.md",
-  "url": "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
+  "url": "https://finwiki.zksc.io/ja/systems/multi-proof-aggregation-fault-prover/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/multi-proof-aggregation-fault-prover/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/multi-proof-aggregation-fault-prover/",
+    "en": "https://finwiki.zksc.io/en/systems/multi-proof-aggregation-fault-prover/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/multi-proof-aggregation-fault-prover.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/multi-proof-aggregation-fault-prover.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover.md",
   "domain": "systems",
   "title": "多証明システム集約 fault prover アーキテクチャ",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
-      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/",
+      "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

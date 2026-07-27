@@ -129,10 +129,6 @@ export function verificationPipeline(outDir: string): Step[] {
       command: bunCommand("run", "surface:drift"),
     },
     {
-      label: "Audit AI text routes",
-      command: bunCommand("run", "ai:audit"),
-    },
-    {
       label: "Check translation completeness and freshness",
       command: bunCommand("run", "i18n:check"),
     },
@@ -189,6 +185,10 @@ export function verificationPipeline(outDir: string): Step[] {
         outDir,
       ),
       note: "The full internal-href crawl and current 19 broken links remain Issue #183.",
+    },
+    {
+      label: "Audit generated URLs against the assembled artifact",
+      command: bunCommand("run", "ai:audit", "--out", outDir),
     },
     {
       label: "Check patch whitespace",

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "consumer-finance/acom",
   "source_path": "consumer-finance/acom.md",
-  "url": "https://finwiki.zksc.io/consumer-finance/acom",
+  "url": "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+  "html_url": "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+    "en": "https://finwiki.zksc.io/en/consumer-finance/acom/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/acom.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/acom.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/consumer-finance/acom.md",
   "domain": "consumer-finance",
   "title": "アコム株式会社 (Acom)",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/consumer-finance/INDEX",
-      "https://finwiki.zksc.io/consumer-finance/aiful",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/consumer-finance/",
+      "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

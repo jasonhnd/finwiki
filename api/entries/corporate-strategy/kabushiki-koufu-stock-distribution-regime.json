@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
   "source_path": "corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
-  "url": "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+  "url": "https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/",
+  "html_url": "https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/",
+    "en": "https://finwiki.zksc.io/en/corporate-strategy/kabushiki-koufu-stock-distribution-regime/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
   "domain": "corporate-strategy",
   "title": "株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision",
   "entry_type": "wiki_entry",
@@ -74,18 +79,18 @@
       "finance/japan-tender-offer-process"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
-      "https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/",
+      "https://finwiki.zksc.io/ja/finance/japan-m-a-deal-process-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/"
     ],
     "external_links_count": 0,
     "external_links": []

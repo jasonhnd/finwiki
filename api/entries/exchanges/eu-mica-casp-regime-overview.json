@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/eu-mica-casp-regime-overview",
   "source_path": "exchanges/eu-mica-casp-regime-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/eu-mica-casp-regime-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/eu-mica-casp-regime-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/eu-mica-casp-regime-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview.md",
   "domain": "exchanges",
   "title": "EU MiCA CASP (Crypto-Asset Service Provider) regime",
   "entry_type": "wiki_entry",
@@ -64,17 +69,17 @@
       "fintech/mica-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
-      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/mica-cross-border-implications",
-      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
-      "https://finwiki.zksc.io/fintech/mica-overview"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+      "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/mica-cross-border-implications/",
+      "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
+      "https://finwiki.zksc.io/ja/fintech/mica-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

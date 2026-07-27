@@ -32,12 +32,13 @@
 | NFR-013 | [NFR](nfr.md) | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md), [Documentation System](../00-governance/documentation-system.md), `tools/generate_ai_discovery.ts` | docs drift scan + surface grep + strict release check | release note |
 | NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, deploy/Vercel pipelines | `bun run publish:test` + assembled-output inspection | release note |
 | NFR-015 | [NFR](nfr.md) | `tools/audit_runner.ts`, shared walk exclusions, truthfulness workflow, static publisher | `bun test tools/audit_artifact_isolation.test.ts` + strict release/surface checks | release note |
+| NFR-016 | [NFR](nfr.md) | `lib/markdown_helpers.ts`, discovery generator/audits, `tools/verify.ts`, canonical verification/deploy workflows | `bun run surface:drift` + `bun test tools/discovery_routes.test.ts` + `bun run verify --out _site` | release note |
 | FSD-001 | [FSD](../05-functional-specs/fsd.md) | site rendering docs and Astro pages | site build / release check | release note |
 | FSD-002 | [FSD](../05-functional-specs/fsd.md) | search index generation | strict check / build | release note |
 | FSD-003 | [FSD](../05-functional-specs/fsd.md) | wikilink resolution | link audit | release note |
 | FSD-004 | [FSD](../05-functional-specs/fsd.md) | i18n pipeline | translation verify | release note |
 | FSD-005 | [FSD](../05-functional-specs/fsd.md) | canonical release gate | `bun run verify` locally and in a fresh PR | release note |
-| FSD-006 | [FSD](../05-functional-specs/fsd.md) | AI discovery surface | release write/check | release note |
+| FSD-006 | [FSD](../05-functional-specs/fsd.md) | AI discovery generator, exact-regeneration scan and assembled-route audit | `bun run surface:drift` + `bun run verify --out _site` | release note |
 | FSD-007 | [FSD](../05-functional-specs/fsd.md) | [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) | task packet + review checklist | release note |
 | FSD-008 | [FSD](../05-functional-specs/fsd.md), [UI/UX](../05-functional-specs/ui-ux.md), [Visual QA Checklist](../07-quality/visual-qa-checklist.md) | `site/src/layouts/Base.astro`, `site/src/layouts/EntryLayout.astro`, `site/src/styles/global.css`, `site/src/pages/**`, `site/src/i18n/ui.ts` | visual QA + Astro build when changed | release note |
 | FSD-009 | [FSD](../05-functional-specs/fsd.md), [Release Gate](../05-functional-specs/release-gate.md) | static assembler plus boundary/required-route tests | `bun run verify --out _site` + focused negative fixtures | release note |

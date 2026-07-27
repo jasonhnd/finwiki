@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/aeon-financial-service",
   "source_path": "card-issuers/aeon-financial-service.md",
-  "url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/aeon-financial-service/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/aeon-financial-service.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service.md",
   "domain": "card-issuers",
   "title": "イオンフィナンシャルサービス (AEON Financial Service)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "retail/aeon-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-bank",
-      "https://finwiki.zksc.io/card-issuers/epos-card",
-      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
-      "https://finwiki.zksc.io/card-issuers/pocket-card",
-      "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/card-issuers/ucs-card",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/retail/aeon-group"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
+      "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+      "https://finwiki.zksc.io/ja/card-issuers/pocket-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/ucs-card/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/retail/aeon-group/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/typosquatting-package-detection-checklist",
   "source_path": "security/typosquatting-package-detection-checklist.md",
-  "url": "https://finwiki.zksc.io/security/typosquatting-package-detection-checklist",
+  "url": "https://finwiki.zksc.io/ja/security/typosquatting-package-detection-checklist/",
+  "html_url": "https://finwiki.zksc.io/ja/security/typosquatting-package-detection-checklist/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/typosquatting-package-detection-checklist/",
+    "en": "https://finwiki.zksc.io/en/security/typosquatting-package-detection-checklist/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/typosquatting-package-detection-checklist.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/typosquatting-package-detection-checklist.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/typosquatting-package-detection-checklist.md",
   "domain": "security",
   "title": "Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage",
   "entry_type": "wiki_entry",
@@ -66,11 +71,11 @@
       "security/module-path-confusion-supply-chain-attack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
-      "https://finwiki.zksc.io/security/INDEX",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+      "https://finwiki.zksc.io/ja/domains/security/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/"
     ],
     "external_links_count": 2,
     "external_links": [

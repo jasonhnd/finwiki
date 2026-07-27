@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/dex-pendle",
   "source_path": "exchanges/dex-pendle.md",
-  "url": "https://finwiki.zksc.io/exchanges/dex-pendle",
+  "url": "https://finwiki.zksc.io/ja/exchanges/dex-pendle/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/dex-pendle/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/dex-pendle/",
+    "en": "https://finwiki.zksc.io/en/exchanges/dex-pendle/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-pendle.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-pendle.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/dex-pendle.md",
   "domain": "exchanges",
   "title": "Pendle Finance — yield tokenization プロトコル（PT/YT）overview",
   "entry_type": "wiki_entry",
@@ -68,15 +73,15 @@
       "exchanges/solana-ecosystem-dex-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
-      "https://finwiki.zksc.io/exchanges/dex-jito-solana",
-      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
-      "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-native-token-strategy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-jito-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-orca-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

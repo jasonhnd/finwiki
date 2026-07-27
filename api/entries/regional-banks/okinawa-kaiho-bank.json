@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/okinawa-kaiho-bank",
   "source_path": "regional-banks/okinawa-kaiho-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/okinawa-kaiho-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/okinawa-kaiho-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/okinawa-kaiho-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/okinawa-kaiho-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/okinawa-kaiho-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/okinawa-kaiho-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank.md",
   "domain": "regional-banks",
   "title": "株式会社沖縄海邦銀行",
   "entry_type": "wiki_entry",
@@ -74,16 +79,16 @@
       "regional-banks/ryukyu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/okinawa-shinko",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fidea-hd",
-      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
-      "https://finwiki.zksc.io/regional-banks/ryukyu-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/financial-regulators/okinawa-shinko/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fidea-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/okinawa-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ryukyu-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

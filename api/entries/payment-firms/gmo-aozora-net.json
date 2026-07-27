@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/gmo-aozora-net",
   "source_path": "payment-firms/gmo-aozora-net.md",
-  "url": "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/gmo-aozora-net/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/gmo-aozora-net.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/gmo-aozora-net.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/gmo-aozora-net.md",
   "domain": "payment-firms",
   "title": "GMO あおぞらネット銀行",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/au-jibun-bank",
-      "https://finwiki.zksc.io/banking/baas-japan-landscape",
-      "https://finwiki.zksc.io/banking/mercari-bank",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/gmo-coin",
-      "https://finwiki.zksc.io/regional-banks/aozora-bank",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/au-jibun-bank/",
+      "https://finwiki.zksc.io/ja/banking/baas-japan-landscape/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-coin/",
+      "https://finwiki.zksc.io/ja/regional-banks/aozora-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/mufg-nicos",
   "source_path": "card-issuers/mufg-nicos.md",
-  "url": "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/mufg-nicos/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/mufg-nicos.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/mufg-nicos.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/mufg-nicos.md",
   "domain": "card-issuers",
   "title": "三菱UFJニコス (Mitsubishi UFJ NICOS)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "payments/japan-card-issuer-acquirer-processor-split"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/us-crypto-licensing-multi-layer-system",
   "source_path": "exchanges/us-crypto-licensing-multi-layer-system.md",
-  "url": "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+  "url": "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+    "en": "https://finwiki.zksc.io/en/exchanges/us-crypto-licensing-multi-layer-system/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/us-crypto-licensing-multi-layer-system.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/us-crypto-licensing-multi-layer-system.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system.md",
   "domain": "exchanges",
   "title": "米国暗号資産取引業 ライセンス重層制度",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
-      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/tether-business-model-short-treasury-yield",
   "source_path": "fintech/tether-business-model-short-treasury-yield.md",
-  "url": "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+  "url": "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+    "en": "https://finwiki.zksc.io/en/fintech/tether-business-model-short-treasury-yield/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tether-business-model-short-treasury-yield.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tether-business-model-short-treasury-yield.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield.md",
   "domain": "fintech",
   "title": "Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制",
   "entry_type": "wiki_entry",
@@ -60,15 +65,15 @@
       "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/payment-firms/jpyc"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
     "external_links_count": 0,
     "external_links": []

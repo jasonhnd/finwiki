@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/pwc-aarata",
   "source_path": "financial-regulators/pwc-aarata.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/pwc-aarata",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/pwc-aarata/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/pwc-aarata/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/pwc-aarata/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/pwc-aarata/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/pwc-aarata.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/pwc-aarata.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/pwc-aarata.md",
   "domain": "financial-regulators",
   "title": "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
   "entry_type": "wiki_entry",
@@ -75,16 +80,16 @@
       "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
-      "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
-      "https://finwiki.zksc.io/financial-regulators/kpmg-azsa",
-      "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton",
-      "https://finwiki.zksc.io/non-life-insurers/sompo"
+      "https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/deloitte-touche-tohmatsu/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ey-shinnihon/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/kpmg-azsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/taiyo-grant-thornton/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/"
     ],
     "external_links_count": 0,
     "external_links": []

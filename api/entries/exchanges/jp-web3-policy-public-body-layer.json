@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-web3-policy-public-body-layer",
   "source_path": "exchanges/jp-web3-policy-public-body-layer.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-web3-policy-public-body-layer",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-web3-policy-public-body-layer/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-web3-policy-public-body-layer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-web3-policy-public-body-layer/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-web3-policy-public-body-layer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-web3-policy-public-body-layer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-web3-policy-public-body-layer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-web3-policy-public-body-layer.md",
   "domain": "exchanges",
   "title": "国内 Web3 / 暗号資産 公共政策ボディ層 (METI Web3 政策室 / 自民党 web3 PT / 内閣官房)",
   "entry_type": "wiki_entry",
@@ -73,17 +78,17 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/japan-blockchain-association-jba",
-      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/japan-blockchain-association-jba/",
+      "https://finwiki.zksc.io/ja/exchanges/jcba-japan-crypto-business-association/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

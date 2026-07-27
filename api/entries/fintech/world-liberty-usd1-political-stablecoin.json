@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/world-liberty-usd1-political-stablecoin",
   "source_path": "fintech/world-liberty-usd1-political-stablecoin.md",
-  "url": "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin",
+  "url": "https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/",
+    "en": "https://finwiki.zksc.io/en/fintech/world-liberty-usd1-political-stablecoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/world-liberty-usd1-political-stablecoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/world-liberty-usd1-political-stablecoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin.md",
   "domain": "fintech",
   "title": "WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
+      "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

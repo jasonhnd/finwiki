@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-mercury",
   "source_path": "exchanges/jp-exchange-mercury.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-mercury",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-mercury/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-mercury.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-mercury.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-mercury.md",
   "domain": "exchanges",
   "title": "株式会社マーキュリー（CoinTrade） — 日本暗号資産交換業者 overview",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "fintech/jp-trust-type-sc-architecture"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
     "external_links_count": 5,
     "external_links": [

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/starr-insurance-japan",
   "source_path": "non-life-insurers/starr-insurance-japan.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/starr-insurance-japan",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/starr-insurance-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/starr-insurance-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/starr-insurance-japan/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/starr-insurance-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/starr-insurance-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/starr-insurance-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/starr-insurance-japan.md",
   "domain": "non-life-insurers",
   "title": "Starr Insurance Japan / スター・インシュアランス・ジャパン",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "non-life-insurers/qbe-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
-      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aig-japan",
-      "https://finwiki.zksc.io/non-life-insurers/allianz-fire-marine-japan",
-      "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan",
-      "https://finwiki.zksc.io/non-life-insurers/fm-global-japan",
-      "https://finwiki.zksc.io/non-life-insurers/lloyd-japan",
-      "https://finwiki.zksc.io/non-life-insurers/qbe-japan"
+      "https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/global-solvency-framework-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/insurance/japan-nonlife-big-three/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aig-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/allianz-fire-marine-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/chubb-insurance-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/fm-global-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/lloyd-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/qbe-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

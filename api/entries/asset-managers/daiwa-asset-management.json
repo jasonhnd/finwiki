@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "asset-managers/daiwa-asset-management",
   "source_path": "asset-managers/daiwa-asset-management.md",
-  "url": "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
+  "url": "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
+  "html_url": "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
+    "en": "https://finwiki.zksc.io/en/asset-managers/daiwa-asset-management/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/daiwa-asset-management.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/daiwa-asset-management.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/daiwa-asset-management.md",
   "domain": "asset-managers",
   "title": "大和アセットマネジメント",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/asset-managers/INDEX",
-      "https://finwiki.zksc.io/asset-managers/nikko-asset-management",
-      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/asset-managers/",
+      "https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/",
+      "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+      "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

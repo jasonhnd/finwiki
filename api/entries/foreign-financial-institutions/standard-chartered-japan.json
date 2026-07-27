@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/standard-chartered-japan",
   "source_path": "foreign-financial-institutions/standard-chartered-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/standard-chartered-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/standard-chartered-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/standard-chartered-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/standard-chartered-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/standard-chartered-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/standard-chartered-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)",
   "entry_type": "wiki_entry",
@@ -71,16 +76,16 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/hsbc-japan/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

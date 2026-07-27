@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-custody-komainu",
   "source_path": "exchanges/jp-custody-komainu.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-custody-komainu/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-custody-komainu.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-custody-komainu.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-custody-komainu.md",
   "domain": "exchanges",
   "title": "Komainu — 機関投資家向けデジタル資産 custody 専業",
   "entry_type": "wiki_entry",
@@ -71,17 +76,17 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
-      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
-      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
     "external_links_count": 5,
     "external_links": [

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/hyakugo-bank",
   "source_path": "regional-banks/hyakugo-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/hyakugo-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/hyakugo-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/hyakugo-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/hyakugo-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/hyakugo-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hyakugo-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/hyakugo-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/hyakugo-bank.md",
   "domain": "regional-banks",
   "title": "百五銀行 (Hyakugo Bank)",
   "entry_type": "wiki_entry",
@@ -64,14 +69,14 @@
       "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
-      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/hyakujushi-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

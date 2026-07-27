@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/smbc-trust-bank",
   "source_path": "trust-banks/smbc-trust-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/smbc-trust-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/smbc-trust-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/smbc-trust-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/smbc-trust-bank.md",
   "domain": "trust-banks",
   "title": "SMBC信託銀行 (SMBC Trust Bank)",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/trust-banks/smtb"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/smtb/"
     ],
     "external_links_count": 0,
     "external_links": []

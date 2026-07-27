@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities/tokyo-commodity-exchange",
   "source_path": "securities/tokyo-commodity-exchange.md",
-  "url": "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
+  "url": "https://finwiki.zksc.io/ja/securities/tokyo-commodity-exchange/",
+  "html_url": "https://finwiki.zksc.io/ja/securities/tokyo-commodity-exchange/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities/tokyo-commodity-exchange/",
+    "en": "https://finwiki.zksc.io/en/securities/tokyo-commodity-exchange/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/tokyo-commodity-exchange.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/tokyo-commodity-exchange.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities/tokyo-commodity-exchange.md",
   "domain": "securities",
   "title": "東京商品取引所 (TOCOM)",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "trade/jetro-organization-structure"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
-      "https://finwiki.zksc.io/securities/osaka-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange",
-      "https://finwiki.zksc.io/trade/jetro-organization-structure"
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+      "https://finwiki.zksc.io/ja/securities/osaka-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/",
+      "https://finwiki.zksc.io/ja/trade/jetro-organization-structure/"
     ],
     "external_links_count": 0,
     "external_links": []

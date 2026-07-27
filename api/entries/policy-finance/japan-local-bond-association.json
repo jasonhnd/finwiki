@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "policy-finance/japan-local-bond-association",
   "source_path": "policy-finance/japan-local-bond-association.md",
-  "url": "https://finwiki.zksc.io/policy-finance/japan-local-bond-association",
+  "url": "https://finwiki.zksc.io/ja/policy-finance/japan-local-bond-association/",
+  "html_url": "https://finwiki.zksc.io/ja/policy-finance/japan-local-bond-association/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/policy-finance/japan-local-bond-association/",
+    "en": "https://finwiki.zksc.io/en/policy-finance/japan-local-bond-association/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-local-bond-association.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-local-bond-association.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/policy-finance/japan-local-bond-association.md",
   "domain": "policy-finance",
   "title": "Japan Local Government Bond Association (Chihousai Kyoukai)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "policy-finance/national-federation-credit-guarantee-corporations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/financial-regulators/local-bond-market",
-      "https://finwiki.zksc.io/financial-regulators/local-govt-finance",
-      "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
-      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
-      "https://finwiki.zksc.io/policy-finance/local-government-bond-market",
-      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-govt-finance/",
+      "https://finwiki.zksc.io/ja/domains/money-market/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-finance-organization-municipalities/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-policy-finance-system/",
+      "https://finwiki.zksc.io/ja/policy-finance/local-government-bond-market/",
+      "https://finwiki.zksc.io/ja/policy-finance/national-federation-credit-guarantee-corporations/"
     ],
     "external_links_count": 0,
     "external_links": []

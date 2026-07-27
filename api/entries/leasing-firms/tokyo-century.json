@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/tokyo-century",
   "source_path": "leasing-firms/tokyo-century.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/tokyo-century/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/tokyo-century.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/tokyo-century.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/tokyo-century.md",
   "domain": "leasing-firms",
   "title": "東京センチュリー株式会社 (Tokyo Century Corporation)",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

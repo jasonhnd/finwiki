@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/tama-shinkin",
   "source_path": "cooperative-banks/tama-shinkin.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/tama-shinkin",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/tama-shinkin/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/tama-shinkin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/tama-shinkin/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/tama-shinkin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/tama-shinkin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/tama-shinkin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/tama-shinkin.md",
   "domain": "cooperative-banks",
   "title": "多摩信用金庫",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "financial-regulators/fsa"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/asahi-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/johoku-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/jonan-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/financial-regulators/fsa"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/asahi-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/johoku-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/jonan-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/"
     ],
     "external_links_count": 0,
     "external_links": []

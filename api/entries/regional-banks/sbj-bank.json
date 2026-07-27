@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/sbj-bank",
   "source_path": "regional-banks/sbj-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/sbj-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/sbj-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/sbj-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/sbj-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/sbj-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/sbj-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/sbj-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/sbj-bank.md",
   "domain": "regional-banks",
   "title": "SBJ銀行 (Shinhan Bank Japan)",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/hsbc-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/korea-development-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/standard-chartered-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/woori-bank-japan/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

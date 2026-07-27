@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/dai-ichi-ipet-insurance",
   "source_path": "non-life-insurers/dai-ichi-ipet-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/dai-ichi-ipet-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/dai-ichi-ipet-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/dai-ichi-ipet-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/dai-ichi-ipet-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/dai-ichi-ipet-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/dai-ichi-ipet-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance.md",
   "domain": "non-life-insurers",
   "title": "第一アイペット損害保険",
   "entry_type": "wiki_entry",
@@ -67,14 +72,14 @@
       "non-life-insurers/pet-and-family-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-insurance",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-neo-life",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/anicom-hd",
-      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/pet-and-family-insurance"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life-insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-neo-life/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/anicom-hd/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/anicom-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/pet-and-family-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

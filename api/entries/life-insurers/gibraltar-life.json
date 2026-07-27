@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/gibraltar-life",
   "source_path": "life-insurers/gibraltar-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/gibraltar-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/gibraltar-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/gibraltar-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/gibraltar-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/gibraltar-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/gibraltar-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/gibraltar-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/gibraltar-life.md",
   "domain": "life-insurers",
   "title": "ジブラルタ生命保険",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "life-insurers/sony-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/nn-life-japan",
-      "https://finwiki.zksc.io/life-insurers/pgf-life",
-      "https://finwiki.zksc.io/life-insurers/prudential-japan",
-      "https://finwiki.zksc.io/life-insurers/sony-life"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/nn-life-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/pgf-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/prudential-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/sony-life/"
     ],
     "external_links_count": 0,
     "external_links": []

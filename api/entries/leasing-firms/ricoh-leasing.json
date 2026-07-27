@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/ricoh-leasing",
   "source_path": "leasing-firms/ricoh-leasing.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/ricoh-leasing",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/ricoh-leasing/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/ricoh-leasing.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/ricoh-leasing.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/ricoh-leasing.md",
   "domain": "leasing-firms",
   "title": "リコーリース",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "megabanks/mizuho-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/toyota-finance",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -198,7 +198,7 @@ function buildEntityEdges(entries: Entry[]): CanonicalEntityEdge[] {
     });
     edges.push({
       anchor,
-      anchor_url: wikilinkToUrl(anchor),
+      anchor_url: canonicalEntry?.url ?? wikilinkToUrl(anchor),
       anchor_resolves: canonicalEntry !== null,
       member_count: memberList.length,
       mirror_count: mirrorCount,
@@ -315,10 +315,49 @@ function frontmatterList(value: unknown): string[] {
   return value.map((item) => String(item).trim()).filter(Boolean);
 }
 
+async function committedLastModifiedBySource(
+  rootDir: string,
+): Promise<Map<string, string>> {
+  const dates = new Map<string, string>();
+  try {
+    const current = JSON.parse(
+      await readTextUtf8(pathPosix.join(rootDir, "ai-index.json")),
+    ) as {
+      entries?: Array<{ source_path?: unknown; last_modified?: unknown }>;
+    };
+    for (const entry of current.entries ?? []) {
+      const sourcePath = String(entry.source_path ?? "");
+      const lastModified = String(entry.last_modified ?? "");
+      if (sourcePath && /^\d{4}-\d{2}-\d{2}$/.test(lastModified)) {
+        dates.set(sourcePath, lastModified);
+      }
+    }
+  } catch {
+    // A first-time generation has no committed discovery fallback.
+  }
+  return dates;
+}
+
+export function absoluteHttpLinks(values: readonly string[]): string[] {
+  return values.filter((value) => {
+    try {
+      const parsed = new URL(value);
+      return parsed.protocol === "http:" || parsed.protocol === "https:";
+    } catch {
+      return false;
+    }
+  });
+}
+
 async function buildModel(options: CliOptions): Promise<Model> {
   const absoluteMarkdownFiles = await iterMarkdownFiles(options.rootDir);
   const relPaths = absoluteMarkdownFiles.map((filePath) => pathPosix.relative(options.rootDir, filePath));
   const publicRelPaths = relPaths.filter(isPublicPage);
+  const domains = await parseDomainMap(options.rootDir);
+  const publicDomainDirs = new Set(domains.map((domain) => domain.domain));
+  const committedLastModified = await committedLastModifiedBySource(
+    options.rootDir,
+  );
 
   const textByRelPath = new Map<string, string>();
   for (const relPath of relPaths) {
@@ -327,33 +366,61 @@ async function buildModel(options: CliOptions): Promise<Model> {
 
   const entries: Entry[] = [];
   for (const relPath of publicRelPaths) {
-    entries.push(await buildEntry(options.rootDir, relPath, textByRelPath.get(relPath) ?? ""));
+    entries.push(
+      await buildEntry(
+        options.rootDir,
+        relPath,
+        textByRelPath.get(relPath) ?? "",
+        publicDomainDirs,
+        committedLastModified.get(relPath),
+      ),
+    );
+  }
+
+  const domainByIndexSource = new Map(
+    domains.map((domain) => [`${domain.domain}/INDEX.md`, domain]),
+  );
+  for (const entry of entries) {
+    const domain = domainByIndexSource.get(entry.source_path);
+    if (!domain) continue;
+    entry.url = domain.url;
+    entry.html_url = domain.html_url;
+    entry.alternate_html_urls = domain.alternate_html_urls;
+    entry.raw_markdown_url = domain.raw_markdown_url;
   }
 
   // Resolve each entry's body wikilinks against the real public route set so the
   // discovery surface never emits a 404 route (buildEntry leaves this empty).
-  const routeSet = new Set<string>();
+  const routeToUrl = new Map<string, string>();
   const basenameToRoute = new Map<string, string>();
   for (const entry of entries) {
-    const route = entry.url.replace(SITE_URL, "");
-    routeSet.add(route);
+    const route = entry.source_path.replace(/\.md$/, "");
+    routeToUrl.set(route, entry.url);
     const base = pathPosix.basename(entry.source_path).replace(/\.md$/, "");
     if (base && base !== "INDEX" && !basenameToRoute.has(base)) {
       basenameToRoute.set(base, route);
     }
   }
   for (const entry of entries) {
-    entry.resolved_wikilinks = resolveWikilinkRoutes(entry.wikilinks, routeSet, basenameToRoute).slice(0, 80);
+    entry.resolved_wikilinks = resolveWikilinkRoutes(
+      entry.wikilinks,
+      routeToUrl,
+      basenameToRoute,
+    ).slice(0, 80);
   }
 
   const allText = relPaths.map((relPath) => textByRelPath.get(relPath) ?? "").join("\n");
   const audit = await parseAuditSummary(options.rootDir);
-  const domains = await parseDomainMap(options.rootDir);
   const entities = buildEntityEdges(entries);
   const entityNodes = buildEntityNodes(entries);
   const entityGraphEdges = buildEntityGraphEdges(entries);
   const entityRelationCounts = relationCounts(entityGraphEdges);
   const generatedAt = options.generatedAt ?? formatJstIsoSeconds();
+  const sitemapCanonicalUrls = new Set(
+    entries
+      .map((entry) => entry.html_url)
+      .filter((url): url is string => typeof url === "string" && url.length > 0),
+  );
 
   return {
     site: SITE_URL.replace(/\/$/, ""),
@@ -361,7 +428,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
     counts: {
       markdown_files: relPaths.length,
       public_markdown_pages: publicRelPaths.length,
-      site_urls_in_sitemap: entries.length + 1,
+      site_urls_in_sitemap: sitemapCanonicalUrls.size + 1,
       topical_domains: domains.length,
       link_audited_entries: audit.entries_checked ?? null,
       entries_with_any_issue: audit.entries_with_any_issue ?? null,
@@ -378,7 +445,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
     },
     navigation: {
       human_homepage: siteUrl(),
-      global_index: siteUrl("INDEX"),
+      global_index: siteUrl("INDEX.md"),
       global_index_markdown: siteUrl("INDEX.md"),
       llms: siteUrl("llms.txt"),
       llms_full: siteUrl("llms-full.txt"),
@@ -388,10 +455,12 @@ async function buildModel(options: CliOptions): Promise<Model> {
       github_repository: "https://github.com/jasonhnd/finwiki",
     },
     url_rules: {
-      wikilink_rule: "[[domain/slug]] resolves to https://finwiki.zksc.io/domain/slug",
-      domain_index_rule: "[[domain/INDEX]] resolves to https://finwiki.zksc.io/domain/INDEX",
-      root_readme_note: "README is available as https://finwiki.zksc.io/README.md on GitHub Pages.",
-      source_fallback: "Every entry also has a GitHub blob URL in ai-index.json.",
+      wikilink_rule: "[[domain/slug]] resolves to the Japanese HTML canonical at https://finwiki.zksc.io/ja/domain/slug/.",
+      language_alternate_rule: "The English alternate for /ja/domain/slug/ is https://finwiki.zksc.io/en/domain/slug/.",
+      domain_index_rule: "[[domain/INDEX]] resolves to https://finwiki.zksc.io/ja/domains/domain/ when that localized domain route exists.",
+      raw_markdown_rule: "Raw Markdown URLs retain the explicit .md suffix.",
+      source_link_field_rule: "entries[].markdown_links preserves author-written hrefs and is not a deployed-route inventory; use resolved_wikilinks for internal traversal.",
+      source_fallback: "Every entry also has GitHub blob and raw Markdown URLs in ai-index.json.",
     },
     domains,
     entities,
@@ -437,25 +506,52 @@ async function writeRobots(model: Model, outDir: string): Promise<void> {
 async function writeSitemap(model: Model, outDir: string): Promise<void> {
   const entries = model.entries;
   const generatedDate = String(model.generated_at).slice(0, 10);
+  const htmlEntries = new Map<string, Record<string, unknown>>();
+  for (const entry of entries) {
+    if (typeof entry.html_url === "string" && entry.html_url) {
+      htmlEntries.set(entry.html_url, entry);
+    }
+  }
   const urls = [
     {
       loc: SITE_URL.replace(/\/$/, "") + "/",
       lastmod: generatedDate,
       priority: "1.0",
       changefreq: "daily",
+      alternates: {
+        ja: siteUrl("ja/"),
+        en: siteUrl("en/"),
+      },
     },
-    ...entries.map((entry) => ({
-      loc: String(entry.url),
+    ...[...htmlEntries.values()].map((entry) => ({
+      loc: String(entry.html_url),
       lastmod: String(entry.last_modified),
       priority: entry.entry_type === "wiki_entry" ? "0.7" : "0.6",
       changefreq: "weekly",
+      alternates: entry.alternate_html_urls as Record<string, string> | null,
     })),
   ];
 
-  const lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'];
+  const lines = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">',
+  ];
   for (const item of urls) {
     lines.push("  <url>");
     lines.push(`    <loc>${xmlEscape(item.loc)}</loc>`);
+    if (item.alternates) {
+      for (const lang of ["ja", "en"] as const) {
+        const href = item.alternates[lang];
+        if (href) {
+          lines.push(
+            `    <xhtml:link rel="alternate" hreflang="${lang}" href="${xmlEscape(href)}" />`,
+          );
+        }
+      }
+      lines.push(
+        `    <xhtml:link rel="alternate" hreflang="x-default" href="${xmlEscape(item.loc)}" />`,
+      );
+    }
     lines.push(`    <lastmod>${item.lastmod}</lastmod>`);
     lines.push(`    <changefreq>${item.changefreq}</changefreq>`);
     lines.push(`    <priority>${item.priority}</priority>`);
@@ -481,9 +577,9 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     `- Machine JSON index: ${String(nav.ai_index_json)}`,
     `- Per-entry JSON API (1 file per entry, frontmatter + summary + links + inbound count): ${SITE_URL}api/entries/index.json`,
     `- Full LLM page manifest: ${String(nav.llms_full)}`,
-    `- Reader-profile navigation guide: ${SITE_URL}HOW-TO-NAVIGATE`,
-    `- Topic cluster reference (14 thematic clusters): ${SITE_URL}topic-cluster-reference`,
-    `- Domain bridge navigation guide (14 reader journeys): ${SITE_URL}domain-bridge-navigation-guide`,
+    `- Reader-profile navigation guide: ${SITE_URL}HOW-TO-NAVIGATE.md`,
+    `- Topic cluster reference (14 thematic clusters): ${SITE_URL}topic-cluster-reference.md`,
+    `- Domain bridge navigation guide (14 reader journeys): ${SITE_URL}domain-bridge-navigation-guide.md`,
     `- XML sitemap: ${String(nav.sitemap)}`,
     "",
     "## Current Snapshot",
@@ -501,9 +597,10 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     "",
     "## URL Rules for AI Readers",
     "",
-    "- Obsidian wikilinks are vault-root paths. Resolve `[[fintech/mica-overview]]` as `https://finwiki.zksc.io/fintech/mica-overview` (no `.md` suffix - GitHub Pages strips it).",
-    "- Resolve `[[megabanks/INDEX]]` as `https://finwiki.zksc.io/megabanks/INDEX`.",
-    "- Do NOT append `.md` to URLs - `https://finwiki.zksc.io/fintech/circle-usdc-stablecoin.md` returns 404. Use the extensionless URL or fetch raw markdown from `https://raw.githubusercontent.com/jasonhnd/finwiki/main/<domain>/<slug>.md`.",
+    "- Obsidian wikilinks are vault-root paths. Resolve a wiki entry such as `[[fintech/mica-overview]]` to the Japanese HTML canonical `https://finwiki.zksc.io/ja/fintech/mica-overview/`.",
+    "- The language alternate keeps the same route under `/en/`, for example `https://finwiki.zksc.io/en/fintech/mica-overview/`.",
+    "- Resolve a domain index such as `[[megabanks/INDEX]]` to the localized domain route `https://finwiki.zksc.io/ja/domains/megabanks/`.",
+    "- Raw Markdown keeps the explicit `.md` suffix: use `https://finwiki.zksc.io/fintech/circle-usdc-stablecoin.md` or `https://raw.githubusercontent.com/jasonhnd/finwiki/main/<domain>/<slug>.md`.",
     "- For a single entry's metadata in one request (frontmatter / summary / headings / wikilinks / inbound count), fetch `https://finwiki.zksc.io/api/entries/<domain>/<slug>.json`.",
     "- If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name=\"finwiki:*\">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel=\"alternate\" type=\"application/json\">` to the per-entry API and `<link rel=\"alternate\" type=\"text/markdown\">` to the raw source.",
     "- For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.",
@@ -528,6 +625,12 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
 
 async function writeLlmsFull(model: Model, outDir: string): Promise<void> {
   const counts = model.counts;
+  const entryUrlBySource = new Map(
+    model.entries.map((entry) => [
+      String(entry.source_path).replace(/\.md$/, ""),
+      String(entry.url),
+    ]),
+  );
   const lines = [
     "# FinWiki Full LLM Manifest",
     "",
@@ -538,9 +641,10 @@ async function writeLlmsFull(model: Model, outDir: string): Promise<void> {
     "",
     "## Reading Rules",
     "",
-    "- Start with `/llms.txt`, `/ai-index.json`, or `/INDEX`.",
-    "- Convert `[[fintech/INDEX]]` to `https://finwiki.zksc.io/fintech/INDEX`.",
-    "- Use `github_url` when raw source is needed.",
+    "- Start with `/llms.txt`, `/ai-index.json`, or `/INDEX.md`.",
+    "- Convert `[[fintech/INDEX]]` to `https://finwiki.zksc.io/ja/domains/fintech/`.",
+    "- Wiki-entry HTML canonicals use `/ja/<domain>/<slug>/`; English alternates use `/en/<domain>/<slug>/`.",
+    "- Raw Markdown URLs always retain `.md`; use `raw_markdown_url` or `github_url` when source text is needed.",
     "",
     "## Pages",
     "",
@@ -548,12 +652,21 @@ async function writeLlmsFull(model: Model, outDir: string): Promise<void> {
   for (const entry of model.entries) {
     lines.push(`### ${String(entry.title)}`);
     lines.push(`- URL: ${String(entry.url)}`);
+    if (entry.html_url) {
+      lines.push(`- Japanese HTML: ${String(entry.html_url)}`);
+      const alternates = entry.alternate_html_urls as Record<string, string> | null;
+      if (alternates?.en) lines.push(`- English alternate: ${alternates.en}`);
+    }
+    lines.push(`- Raw Markdown: ${String(entry.raw_markdown_url)}`);
     lines.push(`- Source path: ${String(entry.source_path)}`);
     lines.push(`- GitHub source: ${String(entry.github_url)}`);
     lines.push(`- Domain: ${String(entry.domain)}`);
     lines.push(`- Type: ${String(entry.entry_type)}`);
     if (entry.canonical_anchor) {
-      lines.push(`- Canonical anchor: ${String(entry.canonical_anchor)} -> ${wikilinkToUrl(String(entry.canonical_anchor))}`);
+      const anchor = String(entry.canonical_anchor).replace(/\.md$/, "");
+      lines.push(
+        `- Canonical anchor: ${anchor} -> ${entryUrlBySource.get(anchor) ?? wikilinkToUrl(anchor)}`,
+      );
     }
     if (entry.entity_node) {
       lines.push(
@@ -589,10 +702,17 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
 
   const entries = model.entries;
   const inbound = new Map<string, number>();
+  const sourceSlugByUrl = new Map(
+    entries.map((entry) => [
+      String(entry.url),
+      String(entry.source_path).replace(/\.md$/, ""),
+    ]),
+  );
   for (const entry of entries) {
     const resolved = Array.isArray(entry.resolved_wikilinks) ? entry.resolved_wikilinks : [];
     for (const url of resolved) {
-      const slug = String(url).replace(SITE_URL, "");
+      const slug = sourceSlugByUrl.get(String(url));
+      if (!slug) continue;
       inbound.set(slug, (inbound.get(slug) ?? 0) + 1);
     }
   }
@@ -605,14 +725,19 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
 
     const text = await readTextUtf8(pathPosix.join(options.rootDir, sourcePath));
     const fm = extractFrontmatter(text);
+    const externalLinks = absoluteHttpLinks(
+      Array.isArray(entry.markdown_links) ? entry.markdown_links : [],
+    );
     const slug = sourcePath.endsWith(".md") ? sourcePath.slice(0, -3) : sourcePath;
     const record = {
       schema_version: "1.0",
       slug,
       source_path: sourcePath,
       url: String(entry.url),
+      html_url: entry.html_url ? String(entry.html_url) : null,
+      alternate_html_urls: entry.alternate_html_urls ?? null,
       github_url: String(entry.github_url),
-      raw_markdown_url: `https://raw.githubusercontent.com/jasonhnd/finwiki/main/${sourcePath}`,
+      raw_markdown_url: String(entry.raw_markdown_url),
       domain: String(entry.domain),
       title: String(entry.title),
       entry_type: String(entry.entry_type),
@@ -639,8 +764,8 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
         wikilinks_count: Array.isArray(entry.wikilinks) ? entry.wikilinks.length : 0,
         wikilinks: Array.isArray(entry.wikilinks) ? entry.wikilinks.slice(0, 80) : [],
         resolved_wikilinks: Array.isArray(entry.resolved_wikilinks) ? entry.resolved_wikilinks : [],
-        external_links_count: Array.isArray(entry.markdown_links) ? entry.markdown_links.length : 0,
-        external_links: Array.isArray(entry.markdown_links) ? entry.markdown_links.slice(0, 40) : [],
+        external_links_count: externalLinks.length,
+        external_links: externalLinks.slice(0, 40),
       },
       metrics: {
         nonspace_chars: Number(entry.nonspace_chars),
@@ -664,7 +789,10 @@ async function writeApiEntries(model: Model, options: CliOptions): Promise<numbe
       domain: String(entry.domain),
       title: String(entry.title),
       api_url: siteUrl(`api/entries/${slug}.json`),
-      html_url: String(entry.url),
+      url: String(entry.url),
+      html_url: entry.html_url ? String(entry.html_url) : null,
+      alternate_html_urls: entry.alternate_html_urls ?? null,
+      raw_markdown_url: String(entry.raw_markdown_url),
     });
   }
   const apiIndexGeneratedAt = options.apiIndexGeneratedAt ?? options.generatedAt ?? formatJstIsoSeconds();
@@ -707,4 +835,6 @@ async function main(): Promise<void> {
   );
 }
 
-await main();
+if (import.meta.main) {
+  await main();
+}

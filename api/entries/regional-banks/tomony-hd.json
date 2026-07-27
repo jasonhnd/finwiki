@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/tomony-hd",
   "source_path": "regional-banks/tomony-hd.md",
-  "url": "https://finwiki.zksc.io/regional-banks/tomony-hd",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/tomony-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tomony-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/tomony-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/tomony-hd.md",
   "domain": "regional-banks",
   "title": "トモニホールディングス (Tomony HD)",
   "entry_type": "wiki_entry",
@@ -68,18 +73,18 @@
       "regional-banks/tokushima-taisho-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/awa-bank",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
-      "https://finwiki.zksc.io/regional-banks/iyo-bank",
-      "https://finwiki.zksc.io/regional-banks/iyogin-hd",
-      "https://finwiki.zksc.io/regional-banks/kagawa-bank",
-      "https://finwiki.zksc.io/regional-banks/shikoku-bank",
-      "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/awa-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/hyakujushi-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/iyo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/kagawa-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/shikoku-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tokushima-taisho-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

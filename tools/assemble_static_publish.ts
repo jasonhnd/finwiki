@@ -3,7 +3,11 @@
 import { copyFile, lstat, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
-import { AUDIT_ARTIFACT_DIR_NAME, parseDomainMap } from "../lib/markdown_helpers";
+import {
+  AUDIT_ARTIFACT_DIR_NAME,
+  parseDomainMap,
+  PUBLIC_ROOT_MARKDOWN_FILES,
+} from "../lib/markdown_helpers";
 
 const ROOT = path.resolve(import.meta.dir, "..");
 const SITE_DIST = path.join(ROOT, "site", "dist");
@@ -12,22 +16,13 @@ export const APPROVED_OUTPUT_DIR_NAMES = new Set(["_site", "_vercel_public"]);
 
 export const PUBLIC_ROOT_FILES = new Set([
   "CNAME",
-  "CHANGELOG.md",
-  "HOW-TO-NAVIGATE.md",
-  "INDEX.md",
-  "OBSIDIAN-SETUP.md",
-  "README.md",
-  "SCHEMA.md",
   "ai-index.json",
-  "cross-domain-anchor-convention.md",
-  "domain-bridge-navigation-guide.md",
-  "entity-mirror-page-policy.md",
   "llms-full.txt",
   "llms-tasks.txt",
   "llms.txt",
   "robots.txt",
   "sitemap.xml",
-  "topic-cluster-reference.md",
+  ...PUBLIC_ROOT_MARKDOWN_FILES,
 ]);
 
 const PUBLIC_STATIC_FILES = [

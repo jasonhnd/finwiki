@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/paidy",
   "source_path": "payment-firms/paidy.md",
-  "url": "https://finwiki.zksc.io/payment-firms/paidy",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/paidy/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/paidy/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/paidy/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/paidy/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/paidy.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/paidy.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/paidy.md",
   "domain": "payment-firms",
   "title": "株式会社ペイディ (Paidy)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
-      "https://finwiki.zksc.io/payment-firms/mercari-hd",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
+      "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/mercari-hd/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

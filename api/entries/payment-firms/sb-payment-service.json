@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/sb-payment-service",
   "source_path": "payment-firms/sb-payment-service.md",
-  "url": "https://finwiki.zksc.io/payment-firms/sb-payment-service",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/sb-payment-service/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/sb-payment-service/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/sb-payment-service/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/sb-payment-service/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/sb-payment-service.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/sb-payment-service.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/sb-payment-service.md",
   "domain": "payment-firms",
   "title": "SBペイメントサービス (SB Payment Service)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "payments/cashless-jp-landscape"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/paypay-card",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
-      "https://finwiki.zksc.io/payment-firms/gmo-epsilon",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+      "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/dg-financial-technology/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-epsilon/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/"
     ],
     "external_links_count": 0,
     "external_links": []

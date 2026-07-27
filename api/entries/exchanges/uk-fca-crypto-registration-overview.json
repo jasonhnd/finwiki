@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/uk-fca-crypto-registration-overview",
   "source_path": "exchanges/uk-fca-crypto-registration-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/uk-fca-crypto-registration-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/uk-fca-crypto-registration-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/uk-fca-crypto-registration-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/uk-fca-crypto-registration-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/uk-fca-crypto-registration-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/uk-fca-crypto-registration-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview.md",
   "domain": "exchanges",
   "title": "UK FCA crypto-asset registration regime",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "fintech/global-stablecoin-regulatory-five-pole-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
-      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+      "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

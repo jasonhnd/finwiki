@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/hitachi-capital",
   "source_path": "leasing-firms/hitachi-capital.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/hitachi-capital",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/hitachi-capital/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/hitachi-capital/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/hitachi-capital/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/hitachi-capital/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/hitachi-capital.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/hitachi-capital.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/hitachi-capital.md",
   "domain": "leasing-firms",
   "title": "日立キャピタル (旧称・現三菱HCキャピタル統合)",
   "entry_type": "wiki_entry",
@@ -73,18 +78,18 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/ibj-leasing",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
-      "https://finwiki.zksc.io/leasing-firms/nec-leasing",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/ricoh-leasing",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/megabanks/mufg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/ibj-leasing/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/nec-leasing/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
     "external_links_count": 0,
     "external_links": []

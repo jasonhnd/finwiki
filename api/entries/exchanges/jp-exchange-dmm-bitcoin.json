@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-dmm-bitcoin",
   "source_path": "exchanges/jp-exchange-dmm-bitcoin.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-dmm-bitcoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-dmm-bitcoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-dmm-bitcoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin.md",
   "domain": "exchanges",
   "title": "株式会社DMM Bitcoin — 日本暗号資産交換業者（former VASP）overview",
   "entry_type": "wiki_entry",
@@ -72,17 +77,17 @@
       "security/forensic-identity-anchor-chain"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/"
     ],
     "external_links_count": 7,
     "external_links": [

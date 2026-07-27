@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/zk-evm-rollup-maturity-comparison-matrix-2026",
   "source_path": "systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
-  "url": "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026",
+  "url": "https://finwiki.zksc.io/ja/systems/zk-evm-rollup-maturity-comparison-matrix-2026/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/zk-evm-rollup-maturity-comparison-matrix-2026/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/zk-evm-rollup-maturity-comparison-matrix-2026/",
+    "en": "https://finwiki.zksc.io/en/systems/zk-evm-rollup-maturity-comparison-matrix-2026/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
   "domain": "systems",
   "title": "ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization",
   "entry_type": "wiki_entry",
@@ -90,17 +95,17 @@
       "systems/vitalik-l1-l2-strategy-anchor"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
-      "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
-      "https://finwiki.zksc.io/systems/pectra-upgrade-overview",
-      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
-      "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+      "https://finwiki.zksc.io/ja/systems/multi-proof-aggregation-fault-prover/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/",
+      "https://finwiki.zksc.io/ja/systems/pectra-upgrade-overview/",
+      "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+      "https://finwiki.zksc.io/ja/systems/vitalik-l1-l2-strategy-anchor/"
     ],
     "external_links_count": 0,
     "external_links": []

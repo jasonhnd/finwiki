@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-crypto-merchant-payment-lightning",
   "source_path": "exchanges/jp-crypto-merchant-payment-lightning.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-merchant-payment-lightning",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-crypto-merchant-payment-lightning/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-merchant-payment-lightning.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-merchant-payment-lightning.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-merchant-payment-lightning.md",
   "domain": "exchanges",
   "title": "国内暗号資産マーチャント決済 + Lightning Network",
   "entry_type": "wiki_entry",
@@ -67,18 +72,18 @@
       "payments/japan-payment-clearing-and-settlement-infrastructure"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gaia",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaia/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-clearing-and-settlement-infrastructure/"
     ],
     "external_links_count": 0,
     "external_links": []

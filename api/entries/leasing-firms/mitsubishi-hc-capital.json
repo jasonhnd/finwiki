@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/mitsubishi-hc-capital",
   "source_path": "leasing-firms/mitsubishi-hc-capital.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/mitsubishi-hc-capital/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/mitsubishi-hc-capital.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/mitsubishi-hc-capital.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital.md",
   "domain": "leasing-firms",
   "title": "三菱 HC キャピタル (Mitsubishi HC Capital)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/smfl",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/megabanks/mufg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
     "external_links_count": 0,
     "external_links": []

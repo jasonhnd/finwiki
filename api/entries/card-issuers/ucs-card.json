@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/ucs-card",
   "source_path": "card-issuers/ucs-card.md",
-  "url": "https://finwiki.zksc.io/card-issuers/ucs-card",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/ucs-card/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/ucs-card/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/ucs-card/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/ucs-card/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/ucs-card.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/ucs-card.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/ucs-card.md",
   "domain": "card-issuers",
   "title": "UCSカード (UCS)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/epos-card",
-      "https://finwiki.zksc.io/card-issuers/life-card",
-      "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/life-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

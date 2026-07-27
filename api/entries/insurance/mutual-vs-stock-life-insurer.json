@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "insurance/mutual-vs-stock-life-insurer",
   "source_path": "insurance/mutual-vs-stock-life-insurer.md",
-  "url": "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+  "url": "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+  "html_url": "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+    "en": "https://finwiki.zksc.io/en/insurance/mutual-vs-stock-life-insurer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/mutual-vs-stock-life-insurer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/mutual-vs-stock-life-insurer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer.md",
   "domain": "insurance",
   "title": "Mutual vs stock life insurer",
   "entry_type": "wiki_entry",
@@ -68,18 +73,18 @@
       "life-insurers/sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/orix-life",
-      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/esr-economic-value-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/orix-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sumitomo-life/"
     ],
     "external_links_count": 0,
     "external_links": []

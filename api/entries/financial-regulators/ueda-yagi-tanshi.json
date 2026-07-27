@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/ueda-yagi-tanshi",
   "source_path": "financial-regulators/ueda-yagi-tanshi.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/ueda-yagi-tanshi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/ueda-yagi-tanshi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/ueda-yagi-tanshi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi.md",
   "domain": "financial-regulators",
   "title": "上田八木短資株式会社 (Ueda Yagi Tanshi)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/japan-money-market"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/",
+      "https://finwiki.zksc.io/ja/money-market/japan-money-market/"
     ],
     "external_links_count": 0,
     "external_links": []

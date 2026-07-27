@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/frax-frxusd-defi-stablecoin",
   "source_path": "fintech/frax-frxusd-defi-stablecoin.md",
-  "url": "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin",
+  "url": "https://finwiki.zksc.io/ja/fintech/frax-frxusd-defi-stablecoin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/frax-frxusd-defi-stablecoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/frax-frxusd-defi-stablecoin/",
+    "en": "https://finwiki.zksc.io/en/fintech/frax-frxusd-defi-stablecoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/frax-frxusd-defi-stablecoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/frax-frxusd-defi-stablecoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin.md",
   "domain": "fintech",
   "title": "Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート",
   "entry_type": "wiki_entry",
@@ -72,17 +77,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/sky-usds-decentralized-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

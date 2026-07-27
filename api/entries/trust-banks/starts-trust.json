@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/starts-trust",
   "source_path": "trust-banks/starts-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/starts-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/starts-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/starts-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/starts-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/starts-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/starts-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/starts-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/starts-trust.md",
   "domain": "trust-banks",
   "title": "スターツ信託 (Starts Trust)",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

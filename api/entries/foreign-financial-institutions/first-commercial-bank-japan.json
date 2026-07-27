@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/first-commercial-bank-japan",
   "source_path": "foreign-financial-institutions/first-commercial-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/first-commercial-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/first-commercial-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/first-commercial-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/first-commercial-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/first-commercial-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/first-commercial-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/first-commercial-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/first-commercial-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "第一商業銀行日本 (First Commercial Bank Japan)",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "foreign-financial-institutions/taipei-fubon-bank-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/ctbc-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taipei-fubon-bank-japan"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-taiwan-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/ctbc-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/esun-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/mega-icbc-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/taipei-fubon-bank-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

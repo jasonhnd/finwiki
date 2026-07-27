@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/famima-digital-one",
   "source_path": "payment-firms/famima-digital-one.md",
-  "url": "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/famima-digital-one/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/famima-digital-one.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/famima-digital-one.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/famima-digital-one.md",
   "domain": "payment-firms",
   "title": "ファミマデジタルワン (FamiMa Digital One)",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-gakkou-houjin",
   "source_path": "non-profit/japan-gakkou-houjin.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-gakkou-houjin/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-gakkou-houjin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-gakkou-houjin/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-gakkou-houjin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-gakkou-houjin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-gakkou-houjin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin.md",
   "domain": "non-profit",
   "title": "日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法",
   "entry_type": "wiki_entry",
@@ -74,16 +79,16 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
-      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/manulife-japan",
   "source_path": "life-insurers/manulife-japan.md",
-  "url": "https://finwiki.zksc.io/life-insurers/manulife-japan",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/manulife-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/manulife-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/manulife-japan/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/manulife-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/manulife-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/manulife-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/manulife-japan.md",
   "domain": "life-insurers",
   "title": "マニュライフ生命保険 (Manulife Life Insurance Japan)",
   "entry_type": "wiki_entry",
@@ -64,12 +69,12 @@
       "life-insurers/prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/life-insurers/axa-japan",
-      "https://finwiki.zksc.io/life-insurers/metlife-japan",
-      "https://finwiki.zksc.io/life-insurers/prudential-japan"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/aflac-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/axa-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/metlife-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/prudential-japan/"
     ],
     "external_links_count": 0,
     "external_links": []
