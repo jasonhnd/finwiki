@@ -30,6 +30,7 @@
 | NFR-011 | [NFR](nfr.md) | [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md), [Next Development Plan](../01-strategy/next-development-plan.md) | stale-code-doc scan + docs link check | release note |
 | NFR-012 | [NFR](nfr.md) | [Visual QA Checklist](../07-quality/visual-qa-checklist.md), [Theme System](../04-architecture/theme-system.md) | visual QA + responsive spot checks | release note |
 | NFR-013 | [NFR](nfr.md) | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md), [Documentation System](../00-governance/documentation-system.md), `tools/generate_ai_discovery.ts` | docs drift scan + surface grep + strict release check | release note |
+| NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, deploy/Vercel pipelines | `bun run publish:test` + assembled-output inspection | release note |
 | FSD-001 | [FSD](../05-functional-specs/fsd.md) | site rendering docs and Astro pages | site build / release check | release note |
 | FSD-002 | [FSD](../05-functional-specs/fsd.md) | search index generation | strict check / build | release note |
 | FSD-003 | [FSD](../05-functional-specs/fsd.md) | wikilink resolution | link audit | release note |
@@ -38,3 +39,4 @@
 | FSD-006 | [FSD](../05-functional-specs/fsd.md) | AI discovery surface | release write/check | release note |
 | FSD-007 | [FSD](../05-functional-specs/fsd.md) | [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) | task packet + review checklist | release note |
 | FSD-008 | [FSD](../05-functional-specs/fsd.md), [UI/UX](../05-functional-specs/ui-ux.md), [Visual QA Checklist](../07-quality/visual-qa-checklist.md) | `site/src/layouts/Base.astro`, `site/src/layouts/EntryLayout.astro`, `site/src/styles/global.css`, `site/src/pages/**`, `site/src/i18n/ui.ts` | visual QA + Astro build when changed | release note |
+| FSD-009 | [FSD](../05-functional-specs/fsd.md), [Release Gate](../05-functional-specs/release-gate.md) | `tools/assemble_static_publish.ts`, `tools/assemble_static_publish.test.ts` | `bun run publish:test` + `_site` / `_vercel_public` assembly | release note |

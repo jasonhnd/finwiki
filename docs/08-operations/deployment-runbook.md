@@ -29,6 +29,7 @@ bun tools/release.ts --write
 bun run release:docs
 bun tools/release.ts --check --strict
 bun tools/wiki_link_audit.ts --fail-on-issues
+bun run publish:test
 git diff --check
 ```
 
@@ -45,8 +46,11 @@ bun tools/check_duplicate_html_ids.ts site/dist
 5. If static publish assembly changed, run:
 
 ```bash
+bun run publish:test
 bun tools/vercel_build.ts
 ```
+
+The assembler accepts only `_site` and `_vercel_public`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files.
 
 ## What To Inspect Locally
 
@@ -57,6 +61,7 @@ bun tools/vercel_build.ts
 | i18n | `bun run i18n:status` (current/stale/missing by locale), rendered language spot-checks. |
 | UI/CSS/theme | Site build, `bun run html:check`, [Visual QA Checklist](../07-quality/visual-qa-checklist.md), desktop/mobile spot-checks. |
 | Discovery/API generator | `bun run surface:drift` (API alignment + stale residue + docs leakage), `bun run ai:audit` (`.txt` routes), then diff-review `ai-index.json` / `llms*.txt` / `sitemap.xml`. |
+| Static publish assembly | `bun run publish:test`, build `site/dist`, assemble to `_site` or `_vercel_public`, then inspect positive raw routes and negative development/hidden/unknown paths. |
 
 ## Pre-Push Gate
 
@@ -106,7 +111,8 @@ Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`
 2. `bun install` + `bun run build` in `site/` — Astro human site.
 3. `bun run html:check` — duplicate HTML id gate on `site/dist`.
 4. `bun run index:search` in `site/` — Pagefind static search index.
-5. `bun tools/assemble_static_publish.ts --out _site` — assemble HTML + raw Markdown + AI discovery surfaces.
+5. `bun run publish:test` — enforce public allowlist and destructive-output guards.
+6. `bun tools/assemble_static_publish.ts --out _site` — assemble HTML plus manifest-approved raw Markdown / AI discovery surfaces.
 
 The `deploy` job then publishes the artifact via `actions/deploy-pages`. `site/` usually has no local dependencies, so the Astro build and search index steps may only be exercised here — always `gh run watch` after pushing a `site/` change (see gotchas #3).
 

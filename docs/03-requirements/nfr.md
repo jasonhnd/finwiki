@@ -15,3 +15,4 @@
 | NFR-011 | Code/document alignment | 活文档必须反映当前代码事实；历史草案必须归档或明确标注为历史。 | code-doc alignment audit + stale scan |
 | NFR-012 | Visual usability | 人类站 UI 必须保持日语可读、响应式无横向溢出、light/dark 可读、来源与翻译状态可见。 | visual QA checklist + site build when UI changes |
 | NFR-013 | Documentation drift control | 活跃开发文档、root control docs、release-generated surface 与当前代码/内容事实不得互相漂移；历史记录可以保留旧事实，但必须清楚属于历史。 | documentation drift audit + stale scan + release surface grep |
+| NFR-014 | Static publish safety | 最终发布目录只能包含 Astro 输出、生成清单明确批准的 raw wiki / AI 文件与 assembler 生成的 `.nojekyll` marker；开发文件、隐藏/忽略 source file 与未知 root 文件不得进入，并且递归清理前必须拒绝 repo root、越界、嵌套或符号链接输出路径。 | `bun run publish:test` + assembled-output inspection |

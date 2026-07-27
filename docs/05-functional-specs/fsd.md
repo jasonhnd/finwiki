@@ -12,6 +12,7 @@
 | FSD-006 | AI discovery surface | [AI Discovery Surface](ai-discovery-surface.md) | `release.ts --write` + `--check --strict` |
 | FSD-007 | Model-agent development workflow | [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) | task packet + allowed-file review |
 | FSD-008 | Human-site UI/UX | [UI/UX](ui-ux.md) | visual QA + site build when UI changes |
+| FSD-009 | Static publish boundary | [Release Gate](release-gate.md#static-publish-boundary) | `bun run publish:test` + assembled-output inspection |
 
 ## Shared Acceptance
 
@@ -24,3 +25,4 @@
 - Public information boundary remains intact.
 - Delegated code output can be traced back to a task packet and accepted against PRD/FSD/ARD/NFR/RTM.
 - Human-site UI changes preserve Japanese chrome, theme direction, responsive readability, and visible provenance/translation states.
+- Static deployment contains only Astro output and manifest-approved raw public surfaces, and unsafe output paths fail before recursive cleanup.
