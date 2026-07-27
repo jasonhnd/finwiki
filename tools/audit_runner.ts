@@ -1,13 +1,14 @@
 #!/usr/bin/env bun
 
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, realpathSync, writeFileSync } from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
+import { AUDIT_ARTIFACT_DIR_NAME } from "../lib/markdown_helpers";
 
 type Status = "tripped" | "not_tripped" | "monitor";
 
-type CliOptions = {
+export type CliOptions = {
   asOf: string;
   outDir: string;
   rootDir: string;
@@ -29,11 +30,9 @@ type ThresholdCheck = {
 
 type AuditCounts = Record<string, number>;
 
-type Summary = {
+export type Summary = {
   generated_at: string;
   as_of: string;
-  root_dir: string;
-  artifact_dir: string;
   audits: {
     factual_consistency: AuditCounts;
     provenance_completeness: AuditCounts;
@@ -43,7 +42,7 @@ type Summary = {
   never_actions: string[];
 };
 
-const ROOT = path.resolve(import.meta.dir, "..").replaceAll("\\", "/");
+const REPOSITORY_ROOT = path.resolve(import.meta.dir, "..").replaceAll("\\", "/");
 const DEFAULT_NEEDS_REVIEW_THRESHOLD = 10;
 
 const TIER_ONE_DOMAINS = new Set([
@@ -79,35 +78,56 @@ const NEVER_ACTIONS = [
   "no hard release gate",
 ];
 
-function main() {
+export function main() {
   const options = parseArgs(process.argv.slice(2));
   mkdirSync(options.outDir, { recursive: true });
+  assertArtifactOutputLocation(options.rootDir, realpathSync(options.outDir));
 
   const consistency = runAudit(
     "factual_consistency",
-    ["bun", "tools/factual_consistency_audit.ts", "--json"],
-    options.rootDir,
+    [
+      process.execPath,
+      path.join(REPOSITORY_ROOT, "tools", "factual_consistency_audit.ts"),
+      "--json",
+      "--root-dir",
+      options.rootDir,
+    ],
+    REPOSITORY_ROOT,
   );
   const provenance = runAudit(
     "provenance_completeness",
-    ["bun", "tools/provenance_completeness_audit.ts", "--json"],
-    options.rootDir,
+    [
+      process.execPath,
+      path.join(REPOSITORY_ROOT, "tools", "provenance_completeness_audit.ts"),
+      "--json",
+      "--root-dir",
+      options.rootDir,
+    ],
+    REPOSITORY_ROOT,
   );
   const freshness = runAudit(
     "fact_freshness",
-    ["bun", "tools/fact_freshness_audit.ts", "--json", "--as-of", options.asOf],
-    options.rootDir,
+    [
+      process.execPath,
+      path.join(REPOSITORY_ROOT, "tools", "fact_freshness_audit.ts"),
+      "--json",
+      "--as-of",
+      options.asOf,
+      "--root-dir",
+      options.rootDir,
+    ],
+    REPOSITORY_ROOT,
   );
 
   const summary = buildSummary(options, consistency, provenance, freshness);
   writeArtifacts(options.outDir, consistency, provenance, freshness, summary);
-  printSummary(summary);
+  printSummary(summary, options.outDir);
 }
 
-function parseArgs(argv: string[]): CliOptions {
+export function parseArgs(argv: string[]): CliOptions {
   let asOf = todayIso();
-  let outDir: string | null = null;
-  let rootDir = ROOT;
+  let requestedOutDir: string | null = null;
+  let rootDir = REPOSITORY_ROOT;
 
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];
@@ -117,10 +137,10 @@ function parseArgs(argv: string[]): CliOptions {
     } else if (arg.startsWith("--as-of=")) {
       asOf = arg.slice("--as-of=".length);
     } else if (arg === "--out") {
-      outDir = requireValue(arg, argv[index + 1]);
+      requestedOutDir = requireValue(arg, argv[index + 1]);
       index += 1;
     } else if (arg.startsWith("--out=")) {
-      outDir = arg.slice("--out=".length);
+      requestedOutDir = arg.slice("--out=".length);
     } else if (arg === "--root-dir") {
       rootDir = path.resolve(requireValue(arg, argv[index + 1])).replaceAll("\\", "/");
       index += 1;
@@ -138,14 +158,42 @@ function parseArgs(argv: string[]): CliOptions {
     throw new Error(`--as-of must be YYYY-MM-DD, got ${asOf}`);
   }
 
-  const artifactRoot = outDir
-    ? path.resolve(outDir)
-    : path.join(os.tmpdir(), "finwiki-audit-runner", `truthfulness-${asOf}`);
   return {
     asOf,
-    outDir: artifactRoot.replaceAll("\\", "/"),
+    outDir: resolveArtifactOutput(rootDir, requestedOutDir, asOf),
     rootDir,
   };
+}
+
+export function assertArtifactOutputLocation(rootDir: string, outDir: string): void {
+  const absoluteRoot = path.resolve(rootDir);
+  const absoluteOut = path.resolve(outDir);
+  const relativeOut = path.relative(absoluteRoot, absoluteOut);
+  const isInsideRoot =
+    relativeOut === "" ||
+    (!relativeOut.startsWith(`..${path.sep}`) &&
+      relativeOut !== ".." &&
+      !path.isAbsolute(relativeOut));
+  if (!isInsideRoot) return;
+
+  const topLevel = relativeOut.split(path.sep)[0];
+  if (!relativeOut || topLevel !== AUDIT_ARTIFACT_DIR_NAME) {
+    throw new Error(
+      `unsafe in-repository audit output: ${outDir}; use ${AUDIT_ARTIFACT_DIR_NAME}/ or a directory outside the repository`,
+    );
+  }
+}
+
+export function resolveArtifactOutput(
+  rootDir: string,
+  requestedOutDir: string | null,
+  asOf: string,
+): string {
+  const artifactRoot = requestedOutDir
+    ? path.resolve(rootDir, requestedOutDir)
+    : path.join(os.tmpdir(), "finwiki-audit-runner", `truthfulness-${asOf}`);
+  assertArtifactOutputLocation(rootDir, artifactRoot);
+  return artifactRoot.replaceAll("\\", "/");
 }
 
 function printHelp() {
@@ -158,6 +206,8 @@ Runs the read-only FinWiki truthfulness audits and writes artifacts:
 - summary.json
 - summary.md
 
+The default output is outside the repository under the operating-system temp directory.
+An explicit in-repository output must stay under ${AUDIT_ARTIFACT_DIR_NAME}/.
 The runner does not edit corpus pages, i18n mirrors, generated surfaces, or GitHub issues.`);
 }
 
@@ -257,8 +307,6 @@ function buildSummary(
   return {
     generated_at: new Date().toISOString(),
     as_of: options.asOf,
-    root_dir: options.rootDir,
-    artifact_dir: options.outDir,
     audits: {
       factual_consistency: {
         total: consistency.rows.length,
@@ -323,13 +371,12 @@ function writeJson(filePath: string, data: unknown) {
   writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
 }
 
-function renderMarkdown(summary: Summary): string {
+export function renderMarkdown(summary: Summary): string {
   const lines = [
     "# Truthfulness Audit Summary",
     "",
     `- Generated at: ${summary.generated_at}`,
     `- As of: ${summary.as_of}`,
-    `- Artifact directory: \`${summary.artifact_dir}\``,
     "",
     "## Counts",
     "",
@@ -357,14 +404,16 @@ function renderMarkdown(summary: Summary): string {
   return `${lines.join("\n")}\n`;
 }
 
-function printSummary(summary: Summary) {
+function printSummary(summary: Summary, artifactDir: string) {
   console.log("truthfulness_audit_runner=ok");
   console.log(`as_of=${summary.as_of}`);
-  console.log(`artifact_dir=${summary.artifact_dir}`);
+  console.log(`artifact_dir=${artifactDir}`);
   console.log("audit\tstatus\tcount\tthreshold");
   for (const check of summary.checks) {
     console.log(`${check.audit}\t${check.status}\t${check.count}\t${check.threshold}`);
   }
 }
 
-main();
+if (import.meta.main) {
+  main();
+}

@@ -18,7 +18,7 @@
 - `buildEntry()` / `entryTypeFor()` / `domainFor()` — 解析单文件成 `Entry`、分类、归属领域。
 - `extractMarkdownLinks()` — 抽取 Markdown links，但过滤指向 `docs/` 的相对链接，避免内部开发文档作为 AI traversal link 输出。
 - `parseDomainMap()` — 解析 `INDEX.md` 领域表。
-- 常量：`CONTROL_DOCS`、`EXCLUDED_WALK_DIRS`、`SITE_URL`、`GITHUB_BLOB`、各正则。
+- 常量：`CONTROL_DOCS`、`EXCLUDED_WALK_DIRS`、`AUDIT_ARTIFACT_DIR_NAME`、`SITE_URL`、`GITHUB_BLOB`、各正则。
 - `lastModifiedFor()` — 从 **fs mtime** 取 last_modified（→ 见 [gotchas.md](../07-quality/gotchas.md) 的 clone-mtime 污染）。
 
 ## tools/release.ts（总编排 + 门禁）
@@ -55,6 +55,13 @@
 - 写 `api/entries/` 前会清空旧目录，再写当前 entry set，避免 domain move 后残留旧 slug JSON。
 - `sitemap.xml` 的 `<lastmod>` 来自 fs mtime → clone 后会被污染（见 gotchas）。
 - 由 `release.ts --write` 调用，一般不单独跑（除非只想刷发现面）。
+
+## tools/audit_runner.ts（advisory truthfulness audit）
+
+- `bun run audit:all --as-of YYYY-MM-DD` 默认写到 OS temporary directory。
+- repository 内显式 output 只允许 `audit-artifacts/` 或其子目录；real path 若落入其他 repository 位置会 fail。
+- summary 只写 audit counts / thresholds / never-actions，不记录 repository root 或 artifact absolute path。
+- `audit-artifacts/` 同时进入 gitignore、shared Markdown exclusion 与 wiki-link exclusion；CI 使用 `$RUNNER_TEMP`，publish assembler 对同名 Astro output 直接 fail。
 
 ## tools/update_footer_timestamp.ts
 

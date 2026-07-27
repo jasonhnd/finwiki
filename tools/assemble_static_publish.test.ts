@@ -75,6 +75,7 @@ describe("static publish assembly", () => {
       ".DS_Store",
       ".delivery.yml",
       "AGENTS.md",
+      "audit-artifacts/summary.md",
       "docs/private.md",
       "lib/private.ts",
       "package.json",
@@ -159,6 +160,7 @@ describe("static publish assembly", () => {
     expect(published).toContain("JapanFG/example.md");
     expect(published).toContain("api/entries/JapanFG/example.json");
     expect(published).not.toContain("AGENTS.md");
+    expect(published).not.toContain("audit-artifacts/summary.md");
     expect(published).not.toContain("docs/private.md");
     expect(published).not.toContain("JapanFG/unmanifested.md");
     expect(published).not.toContain("api/entries/unmanifested.json");
@@ -231,6 +233,21 @@ describe("static publish assembly", () => {
     expect(await readFile(path.join(rootDir, "_site", "keep.txt"), "utf8")).toBe(
       "publish-sentinel",
     );
+  });
+
+  test("rejects audit artifacts emitted into Astro output", async () => {
+    const { rootDir } = await makeWorkspace();
+    await put(rootDir, "site/dist/index.html", "astro-home");
+    await put(rootDir, "site/dist/audit-artifacts/summary.md", "private-build-artifact");
+
+    await expect(
+      assembleStaticPublish({
+        rootDir,
+        outDir: "_site",
+        manifestFiles: [],
+        domainDirs: [],
+      }),
+    ).rejects.toThrow("audit artifacts are not allowed");
   });
 });
 

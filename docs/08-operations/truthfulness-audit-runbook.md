@@ -11,10 +11,10 @@ The workflow is advisory. A tripped threshold should start human triage, but it 
 Run the same command locally when checking the workflow core path or preparing a remediation packet:
 
 ```bash
-bun run audit:all --out audit-artifacts --as-of YYYY-MM-DD
+bun run audit:all --as-of YYYY-MM-DD
 ```
 
-If `--as-of` is omitted, the runner uses the current system date. CI passes an explicit date so fact freshness is deterministic for each run.
+If `--as-of` is omitted, the runner uses the current system date. CI passes an explicit date so fact freshness is deterministic for each run. The default output is under the operating-system temporary directory. For a deliberate in-repository local copy, use `--out audit-artifacts`; any other in-repository output path is rejected.
 
 The runner writes five artifacts:
 
@@ -26,12 +26,14 @@ The runner writes five artifacts:
 | `summary.json` | Machine-readable counts, threshold checks, and never-actions. |
 | `summary.md` | Human-readable counts and threshold status for review. |
 
+Neither summary contains the repository root or artifact-directory absolute path. `audit-artifacts/` is gitignored and excluded from the shared Markdown walker, wiki-link audit, discovery/API generation, Astro content allowlist, release verification, and static publishing. The publisher fails if an audit-artifact directory somehow appears in Astro output.
+
 ## GitHub Actions Workflow
 
 `.github/workflows/truthfulness-audit.yml` runs the same command in GitHub Actions:
 
 ```bash
-bun run audit:all --out audit-artifacts --as-of <resolved date>
+bun run audit:all --out "$RUNNER_TEMP/finwiki-truthfulness-audit" --as-of <resolved date>
 ```
 
 The job is read-only:
@@ -44,7 +46,7 @@ The job is read-only:
 - no LLM step
 - no threshold-to-failure conversion
 
-The workflow installs the exact `.bun-version` with `oven-sh/setup-bun`, writes `summary.md` to `$GITHUB_STEP_SUMMARY`, and uploads `audit-artifacts/` as a workflow artifact named `truthfulness-audit-<as_of>`. The root audit runner has no package dependencies, so this advisory workflow does not perform an unfrozen root install.
+The workflow installs the exact `.bun-version` with `oven-sh/setup-bun`, writes the temporary `summary.md` to `$GITHUB_STEP_SUMMARY`, and uploads that temporary directory as a workflow artifact named `truthfulness-audit-<as_of>`. The root audit runner has no package dependencies, so this advisory workflow does not perform an unfrozen root install.
 
 ## Cadence
 
