@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
   "source_path": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
-  "url": "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+  "url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+  "html_url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+    "en": "https://finwiki.zksc.io/en/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
   "domain": "corporate-strategy",
   "title": "会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "non-profit/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/non-profit/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/oita-bank",
   "source_path": "regional-banks/oita-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/oita-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/oita-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/oita-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/oita-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/oita-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/oita-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/oita-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/oita-bank.md",
   "domain": "regional-banks",
   "title": "大分銀行",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "regional-banks/saga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
-      "https://finwiki.zksc.io/regional-banks/higo-bank",
-      "https://finwiki.zksc.io/regional-banks/howa-bank",
-      "https://finwiki.zksc.io/regional-banks/miyazaki-bank",
-      "https://finwiki.zksc.io/regional-banks/saga-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/higo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/howa-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/miyazaki-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/saga-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

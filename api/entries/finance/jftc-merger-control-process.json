@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/jftc-merger-control-process",
   "source_path": "finance/jftc-merger-control-process.md",
-  "url": "https://finwiki.zksc.io/finance/jftc-merger-control-process",
+  "url": "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
+    "en": "https://finwiki.zksc.io/en/finance/jftc-merger-control-process/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/jftc-merger-control-process.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/jftc-merger-control-process.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/jftc-merger-control-process.md",
   "domain": "finance",
   "title": "JFTC merger control process",
   "entry_type": "wiki_entry",
@@ -76,18 +81,18 @@
       "financial-licenses/securities-license-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
-      "https://finwiki.zksc.io/finance/japan-fair-disclosure-and-insider-trading-controls",
-      "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/financial-licenses/securities-license-stack"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-activist-investor-playbook/",
+      "https://finwiki.zksc.io/ja/finance/japan-fair-disclosure-and-insider-trading-controls/",
+      "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
+      "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
     ],
     "external_links_count": 0,
     "external_links": []

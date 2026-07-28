@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/cctp-v2-vs-canton",
   "source_path": "systems/cctp-v2-vs-canton.md",
-  "url": "https://finwiki.zksc.io/systems/cctp-v2-vs-canton",
+  "url": "https://finwiki.zksc.io/ja/systems/cctp-v2-vs-canton/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/cctp-v2-vs-canton/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/cctp-v2-vs-canton/",
+    "en": "https://finwiki.zksc.io/en/systems/cctp-v2-vs-canton/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cctp-v2-vs-canton.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cctp-v2-vs-canton.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/cctp-v2-vs-canton.md",
   "domain": "systems",
   "title": "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "systems/cctp-v2-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-mmf-coalition",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-mmf-coalition/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/aichi-iryo-shinkumi",
   "source_path": "cooperative-banks/aichi-iryo-shinkumi.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/aichi-iryo-shinkumi",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/aichi-iryo-shinkumi/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/aichi-iryo-shinkumi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/aichi-iryo-shinkumi/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/aichi-iryo-shinkumi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/aichi-iryo-shinkumi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/aichi-iryo-shinkumi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/aichi-iryo-shinkumi.md",
   "domain": "cooperative-banks",
   "title": "愛知県医療信用組合 (Aichi Medical Credit Cooperative)",
   "entry_type": "wiki_entry",
@@ -78,16 +83,16 @@
       "financial-regulators/dic"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/aichi-shogin-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/keishicho-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/tokyo-to-shokuin-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/dic"
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/aichi-shogin-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/iwaki-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/keishicho-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/tokyo-to-shokuin-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/"
     ],
     "external_links_count": 1,
     "external_links": [

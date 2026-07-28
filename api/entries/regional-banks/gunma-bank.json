@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/gunma-bank",
   "source_path": "regional-banks/gunma-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/gunma-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/gunma-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/gunma-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/gunma-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/gunma-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/gunma-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/gunma-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/gunma-bank.md",
   "domain": "regional-banks",
   "title": "群馬銀行 (The Gunma Bank, Ltd.)",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "regional-banks/towa-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/chiba-bank",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
-      "https://finwiki.zksc.io/regional-banks/towa-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/chiba-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/towa-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

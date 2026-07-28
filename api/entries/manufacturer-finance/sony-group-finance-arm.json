@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "manufacturer-finance/sony-group-finance-arm",
   "source_path": "manufacturer-finance/sony-group-finance-arm.md",
-  "url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+  "url": "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
+  "html_url": "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
+    "en": "https://finwiki.zksc.io/en/manufacturer-finance/sony-group-finance-arm/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/sony-group-finance-arm.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/sony-group-finance-arm.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm.md",
   "domain": "manufacturer-finance",
   "title": "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
   "entry_type": "wiki_entry",
@@ -75,18 +80,18 @@
       "regional-banks/sony-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
-      "https://finwiki.zksc.io/life-insurers/sony-life",
-      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
-      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
-      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/regional-banks/sony-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
+      "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "https://finwiki.zksc.io/ja/domains/manufacturer-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+      "https://finwiki.zksc.io/ja/regional-banks/sony-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/erc-7702-overview",
   "source_path": "systems/erc-7702-overview.md",
-  "url": "https://finwiki.zksc.io/systems/erc-7702-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/erc-7702-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-7702-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-7702-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/erc-7702-overview.md",
   "domain": "systems",
   "title": "ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード",
   "entry_type": "wiki_entry",
@@ -60,12 +65,12 @@
       "systems/erc-7702-vs-erc-4337"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-vs-erc-4337/"
     ],
     "external_links_count": 0,
     "external_links": []

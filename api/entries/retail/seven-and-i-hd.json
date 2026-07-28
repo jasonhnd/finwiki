@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "retail/seven-and-i-hd",
   "source_path": "retail/seven-and-i-hd.md",
-  "url": "https://finwiki.zksc.io/retail/seven-and-i-hd",
+  "url": "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/",
+    "en": "https://finwiki.zksc.io/en/retail/seven-and-i-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/seven-and-i-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/seven-and-i-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/retail/seven-and-i-hd.md",
   "domain": "retail",
   "title": "Seven & i Holdings",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "retail/aeon-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/regional-banks/lawson-bank",
-      "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/retail/INDEX",
-      "https://finwiki.zksc.io/retail/aeon-group"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/regional-banks/lawson-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+      "https://finwiki.zksc.io/ja/domains/retail/",
+      "https://finwiki.zksc.io/ja/retail/aeon-group/"
     ],
     "external_links_count": 0,
     "external_links": []

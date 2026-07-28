@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/central-tanshi",
   "source_path": "financial-regulators/central-tanshi.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/central-tanshi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/central-tanshi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/central-tanshi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/central-tanshi.md",
   "domain": "financial-regulators",
   "title": "セントラル短資株式会社 (Central Tanshi)",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

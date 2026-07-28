@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/td-financial-life",
   "source_path": "life-insurers/td-financial-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/td-financial-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/td-financial-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/td-financial-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/td-financial-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/td-financial-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/td-financial-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/td-financial-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/td-financial-life.md",
   "domain": "life-insurers",
   "title": "T&Dフィナンシャル生命保険",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "life-insurers/td-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/daido-life",
-      "https://finwiki.zksc.io/life-insurers/taiyo-life",
-      "https://finwiki.zksc.io/life-insurers/td-hd"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/td-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

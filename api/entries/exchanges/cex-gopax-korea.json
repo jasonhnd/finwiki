@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-gopax-korea",
   "source_path": "exchanges/cex-gopax-korea.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-gopax-korea",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-gopax-korea/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-gopax-korea.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-gopax-korea.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-gopax-korea.md",
   "domain": "exchanges",
   "title": "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
   "entry_type": "wiki_entry",
@@ -74,15 +79,15 @@
       "exchanges/korea-cex-five-pillars-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
-      "https://finwiki.zksc.io/exchanges/cex-coinone-korea",
-      "https://finwiki.zksc.io/exchanges/cex-korbit-korea",
-      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

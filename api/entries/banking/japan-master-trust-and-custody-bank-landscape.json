@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/japan-master-trust-and-custody-bank-landscape",
   "source_path": "banking/japan-master-trust-and-custody-bank-landscape.md",
-  "url": "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
+  "url": "https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/",
+    "en": "https://finwiki.zksc.io/en/banking/japan-master-trust-and-custody-bank-landscape/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-master-trust-and-custody-bank-landscape.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/japan-master-trust-and-custody-bank-landscape.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape.md",
   "domain": "banking",
   "title": "Japan master trust and custody bank landscape",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/state-street-japan",
-      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
-      "https://finwiki.zksc.io/securities/japan-short-selling-and-stock-loan-controls",
-      "https://finwiki.zksc.io/securities/japan-stock-lending-market-route",
-      "https://finwiki.zksc.io/trust-banks/custody-bank",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/",
+      "https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/",
+      "https://finwiki.zksc.io/ja/securities/japan-short-selling-and-stock-loan-controls/",
+      "https://finwiki.zksc.io/ja/securities/japan-stock-lending-market-route/",
+      "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jvcea-spot-volume-statistics-analysis",
   "source_path": "exchanges/jvcea-spot-volume-statistics-analysis.md",
-  "url": "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jvcea-spot-volume-statistics-analysis/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-spot-volume-statistics-analysis.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-spot-volume-statistics-analysis.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis.md",
   "domain": "exchanges",
   "title": "JVCEA 国内 spot 取引高 統計分析 (2017-2026)",
   "entry_type": "wiki_entry",
@@ -61,14 +66,14 @@
       "exchanges/korea-cex-five-pillars-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-sales-vs-exchange-model-economics/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

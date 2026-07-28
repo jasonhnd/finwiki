@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/ripple-rlusd-stablecoin",
   "source_path": "fintech/ripple-rlusd-stablecoin.md",
-  "url": "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
+  "url": "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
+    "en": "https://finwiki.zksc.io/en/fintech/ripple-rlusd-stablecoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/ripple-rlusd-stablecoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/ripple-rlusd-stablecoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin.md",
   "domain": "fintech",
   "title": "Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
     "external_links_count": 0,
     "external_links": []

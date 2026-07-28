@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jp-trust-type-sc-architecture",
   "source_path": "fintech/jp-trust-type-sc-architecture.md",
-  "url": "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+  "url": "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+    "en": "https://finwiki.zksc.io/en/fintech/jp-trust-type-sc-architecture/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jp-trust-type-sc-architecture.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jp-trust-type-sc-architecture.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture.md",
   "domain": "fintech",
   "title": "日本信託型 SC 架構",
   "entry_type": "wiki_entry",
@@ -71,17 +76,17 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/mufg-bank",
   "source_path": "megabanks/mufg-bank.md",
-  "url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+  "url": "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+    "en": "https://finwiki.zksc.io/en/megabanks/mufg-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/mufg-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/mufg-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/mufg-bank.md",
   "domain": "megabanks",
   "title": "三菱UFJ銀行 (MUFG Bank)",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/post-megabank-positioning",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/securities-firms/mufg-mums",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/post-megabank-positioning/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "https://finwiki.zksc.io/ja/securities-firms/mufg-mums/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

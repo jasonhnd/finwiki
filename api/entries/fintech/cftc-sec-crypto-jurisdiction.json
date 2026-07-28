@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/cftc-sec-crypto-jurisdiction",
   "source_path": "fintech/cftc-sec-crypto-jurisdiction.md",
-  "url": "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
+  "url": "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
+    "en": "https://finwiki.zksc.io/en/fintech/cftc-sec-crypto-jurisdiction/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cftc-sec-crypto-jurisdiction.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cftc-sec-crypto-jurisdiction.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction.md",
   "domain": "fintech",
   "title": "CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

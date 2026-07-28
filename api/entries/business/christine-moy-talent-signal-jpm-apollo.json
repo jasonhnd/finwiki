@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "business/christine-moy-talent-signal-jpm-apollo",
   "source_path": "business/christine-moy-talent-signal-jpm-apollo.md",
-  "url": "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
+  "url": "https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/",
+  "html_url": "https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/",
+    "en": "https://finwiki.zksc.io/en/business/christine-moy-talent-signal-jpm-apollo/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/christine-moy-talent-signal-jpm-apollo.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/christine-moy-talent-signal-jpm-apollo.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo.md",
   "domain": "business",
   "title": "主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "fintech/apollo-acred-private-credit-tokenization"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
-      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/",
+      "https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/apollo-acred-private-credit-tokenization/"
     ],
     "external_links_count": 0,
     "external_links": []

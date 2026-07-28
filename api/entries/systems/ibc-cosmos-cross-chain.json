@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/ibc-cosmos-cross-chain",
   "source_path": "systems/ibc-cosmos-cross-chain.md",
-  "url": "https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain",
+  "url": "https://finwiki.zksc.io/ja/systems/ibc-cosmos-cross-chain/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/ibc-cosmos-cross-chain/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/ibc-cosmos-cross-chain/",
+    "en": "https://finwiki.zksc.io/en/systems/ibc-cosmos-cross-chain/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/ibc-cosmos-cross-chain.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/ibc-cosmos-cross-chain.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain.md",
   "domain": "systems",
   "title": "IBC · Cosmos Inter-Blockchain Communication protocol",
   "entry_type": "wiki_entry",
@@ -77,18 +82,18 @@
       "systems/polkadot-xcm-parachain-messaging"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/data-availability-celestia-eigenda-blob-comparison",
-      "https://finwiki.zksc.io/systems/hyperlane-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
-      "https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-bridge-security-insurance-matrix-2026/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/data-availability-celestia-eigenda-blob-comparison/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-vs-layerzero-ccip/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+      "https://finwiki.zksc.io/ja/systems/polkadot-xcm-parachain-messaging/"
     ],
     "external_links_count": 0,
     "external_links": []

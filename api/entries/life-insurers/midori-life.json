@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/midori-life",
   "source_path": "life-insurers/midori-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/midori-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/midori-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/midori-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/midori-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/midori-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/midori-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/midori-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/midori-life.md",
   "domain": "life-insurers",
   "title": "みどり生命保険",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "life-insurers/nanairo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
-      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
-      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
-      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/asahi-life",
-      "https://finwiki.zksc.io/life-insurers/medicare-life",
-      "https://finwiki.zksc.io/life-insurers/nanairo-life"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/missing-financial-institutions-backlog/",
+      "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "https://finwiki.zksc.io/ja/insurance/global-solvency-framework-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/asahi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/medicare-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nanairo-life/"
     ],
     "external_links_count": 0,
     "external_links": []

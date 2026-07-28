@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/dock-financial",
   "source_path": "payment-firms/dock-financial.md",
-  "url": "https://finwiki.zksc.io/payment-firms/dock-financial",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/dock-financial/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/dock-financial/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/dock-financial/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/dock-financial/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/dock-financial.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/dock-financial.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/dock-financial.md",
   "domain": "payment-firms",
   "title": "SBペイメントサービス (SoftBank Payment Service)",
   "entry_type": "wiki_entry",
@@ -82,18 +87,18 @@
       "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/card-issuers/paypay-card",
-      "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
-      "https://finwiki.zksc.io/securities-firms/paypay-securities"
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/",
+      "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
     ],
     "external_links_count": 0,
     "external_links": []

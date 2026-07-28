@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/aig-japan",
   "source_path": "non-life-insurers/aig-japan.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/aig-japan",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/aig-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/aig-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/aig-japan/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/aig-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/aig-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/aig-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/aig-japan.md",
   "domain": "non-life-insurers",
   "title": "AIG ジャパン (AIG 損害保険)",
   "entry_type": "wiki_entry",
@@ -71,15 +76,15 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/life-insurers/axa-japan",
-      "https://finwiki.zksc.io/life-insurers/prudential-japan",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/life-insurers/aflac-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/axa-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/prudential-japan/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/kyoritsu-fire-marine/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

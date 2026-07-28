@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/chang-hwa-bank-japan",
   "source_path": "foreign-financial-institutions/chang-hwa-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/chang-hwa-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/chang-hwa-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/chang-hwa-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/chang-hwa-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/chang-hwa-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/chang-hwa-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "彰化商業銀行日本 (Chang Hwa Bank Japan)",
   "entry_type": "wiki_entry",
@@ -69,18 +74,18 @@
       "foreign-financial-institutions/taiwan-cooperative-bank-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/first-commercial-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taishin-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-business-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/taiwan-cooperative-bank-japan"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-taiwan-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/first-commercial-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/mega-icbc-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/taishin-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/taiwan-business-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/taiwan-cooperative-bank-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -42,9 +42,9 @@ To exercise the exact GitHub Pages output target, use:
 bun run verify --out _site
 ```
 
-`bun run verify` checks the `.bun-version` pin, installs `site/` from the frozen lockfile, then runs the release, docs, surface, AI, i18n, index, wiki, dependency, typecheck, test, build, duplicate-ID, Pagefind, assembly, required-route and diff gates. It is the release decision; targeted commands below are diagnostic helpers, not substitutes.
+`bun run verify` checks the `.bun-version` pin, installs `site/` from the frozen lockfile, runs fixed-timestamp exact regeneration before the build, then runs i18n/index/wiki/dependency/typecheck/tests/Astro/Pagefind, assembles the approved output, and audits required plus generated routes against that final tree. The canonical Required verification and deploy workflows checkout with `fetch-depth: 0`; shallow/history-less builders instead reuse valid committed `ai-index.json` dates before shallow Git/mtime fallback. It is the release decision; targeted commands below are diagnostic helpers, not substitutes.
 
-The assembler accepts only `_site` and `_vercel_public`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files. The required-route gate then checks root, ja/en, crawler, AI/API and Pagefind files in the assembled directory. Issue #183 separately owns crawling every internal HTML href.
+The assembler accepts only `_site` and `_vercel_public`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files. The required-route smoke gate then checks root, ja/en, crawler, AI/API and Pagefind files. `ai:audit` separately reads the assembled llms/sitemap/index/API copies; route fields and same-host API `external_links` must resolve and match the exact scheme/host/port. Source-preserving `ai-index.json` `markdown_links` and external origins are not deploy availability claims. Issue #183 owns the broader internal HTML href crawl.
 
 ## What To Inspect Locally
 
@@ -55,7 +55,7 @@ The assembler accepts only `_site` and `_vercel_public`. It validates the target
 | Wiki content | `bun run wiki:audit:ci`, `bun run index:counts`, and `bun run i18n:check`. |
 | i18n | `bun run i18n:status` for diagnosis, `bun run i18n:check` for the blocking result, plus rendered language spot-checks. |
 | UI/CSS/theme | `cd site && CI=1 bun run check && bun run build && cd .. && bun run html:check`, [Visual QA Checklist](../07-quality/visual-qa-checklist.md), and desktop/mobile spot-checks. |
-| Discovery/API generator | `bun run surface:drift`, `bun run ai:audit`, then diff-review `ai-index.json` / `llms*.txt` / `sitemap.xml`. |
+| Discovery/API generator or URL helper | `bun run surface:drift`, `bun test tools/discovery_routes.test.ts`, then `bun run verify --out _site`; expect byte-identical regeneration, `Generated route audit passed` and final `PASS`. |
 | Static publish assembly | `bun test tools/assemble_static_publish.test.ts tools/required_publish_routes.test.ts`, then inspect the assembled output if the focused failure needs diagnosis. |
 
 ## Pre-Push Gate
@@ -92,6 +92,9 @@ Spot-check public URLs after Actions succeeds:
 ```bash
 curl -I https://finwiki.zksc.io/
 curl -I https://finwiki.zksc.io/ja/
+curl -I https://finwiki.zksc.io/ja/<domain>/<slug>/
+curl -I https://finwiki.zksc.io/en/<domain>/<slug>/
+curl -I https://finwiki.zksc.io/<domain>/<slug>.md
 curl -I https://finwiki.zksc.io/llms.txt
 curl -I https://finwiki.zksc.io/ai-index.json
 curl -I https://finwiki.zksc.io/api/entries/index.json

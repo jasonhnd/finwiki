@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/tochigi-bank",
   "source_path": "regional-banks/tochigi-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/tochigi-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/tochigi-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/tochigi-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/tochigi-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/tochigi-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tochigi-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/tochigi-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/tochigi-bank.md",
   "domain": "regional-banks",
   "title": "栃木銀行",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "regional-banks/towa-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/ashikaga-bank",
-      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
-      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
-      "https://finwiki.zksc.io/regional-banks/towa-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/ashikaga-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/towa-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

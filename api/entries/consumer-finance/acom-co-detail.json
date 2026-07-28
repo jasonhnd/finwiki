@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "consumer-finance/acom-co-detail",
   "source_path": "consumer-finance/acom-co-detail.md",
-  "url": "https://finwiki.zksc.io/consumer-finance/acom-co-detail",
+  "url": "https://finwiki.zksc.io/ja/consumer-finance/acom-co-detail/",
+  "html_url": "https://finwiki.zksc.io/ja/consumer-finance/acom-co-detail/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/consumer-finance/acom-co-detail/",
+    "en": "https://finwiki.zksc.io/en/consumer-finance/acom-co-detail/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/acom-co-detail.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/acom-co-detail.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/consumer-finance/acom-co-detail.md",
   "domain": "consumer-finance",
   "title": "アコム 事業詳細 (Acom Operating Profile)",
   "entry_type": "wiki_entry",
@@ -71,15 +76,15 @@
       "megabanks/mufg-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/consumer-finance/INDEX",
-      "https://finwiki.zksc.io/consumer-finance/acom",
-      "https://finwiki.zksc.io/consumer-finance/aiful",
-      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/mufg-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/consumer-finance/",
+      "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+      "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+      "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

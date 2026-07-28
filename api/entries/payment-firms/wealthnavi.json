@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/wealthnavi",
   "source_path": "payment-firms/wealthnavi.md",
-  "url": "https://finwiki.zksc.io/payment-firms/wealthnavi",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/wealthnavi/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/wealthnavi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/wealthnavi/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/wealthnavi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/wealthnavi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/wealthnavi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/wealthnavi.md",
   "domain": "payment-firms",
   "title": "ウェルスナビ株式会社 (WealthNavi)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd"
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

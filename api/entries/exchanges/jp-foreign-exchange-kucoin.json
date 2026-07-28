@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-foreign-exchange-kucoin",
   "source_path": "exchanges/jp-foreign-exchange-kucoin.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-foreign-exchange-kucoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-foreign-exchange-kucoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-foreign-exchange-kucoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin.md",
   "domain": "exchanges",
   "title": "KuCoin — 海外無登録暗号資産交換所（日本FSA警告）",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 3,
     "external_links": [

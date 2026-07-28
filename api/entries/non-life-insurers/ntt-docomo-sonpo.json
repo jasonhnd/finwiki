@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/ntt-docomo-sonpo",
   "source_path": "non-life-insurers/ntt-docomo-sonpo.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sonpo",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sonpo/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sonpo/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sonpo/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/ntt-docomo-sonpo/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/ntt-docomo-sonpo.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/ntt-docomo-sonpo.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sonpo.md",
   "domain": "non-life-insurers",
   "title": "NTTドコモ損害保険",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "non-life-insurers/yamap-naturance-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/au-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sompo-hd",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/yamap-naturance-insurance"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sompo-hd/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/yamap-naturance-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

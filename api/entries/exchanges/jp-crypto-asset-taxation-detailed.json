@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-crypto-asset-taxation-detailed",
   "source_path": "exchanges/jp-crypto-asset-taxation-detailed.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-crypto-asset-taxation-detailed/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-asset-taxation-detailed.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-asset-taxation-detailed.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed.md",
   "domain": "exchanges",
   "title": "国内暗号資産 税制 詳細 — 雑所得 vs 申告分離 + 個人 vs 法人",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
-      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+      "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

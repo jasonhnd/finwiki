@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/four-motive-classes-asymmetric-competition",
   "source_path": "fintech/four-motive-classes-asymmetric-competition.md",
-  "url": "https://finwiki.zksc.io/fintech/four-motive-classes-asymmetric-competition",
+  "url": "https://finwiki.zksc.io/ja/fintech/four-motive-classes-asymmetric-competition/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/four-motive-classes-asymmetric-competition/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/four-motive-classes-asymmetric-competition/",
+    "en": "https://finwiki.zksc.io/en/fintech/four-motive-classes-asymmetric-competition/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/four-motive-classes-asymmetric-competition.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/four-motive-classes-asymmetric-competition.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/four-motive-classes-asymmetric-competition.md",
   "domain": "fintech",
   "title": "4 動機クラスの非対称分析",
   "entry_type": "wiki_entry",
@@ -72,18 +77,18 @@
       "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
-      "https://finwiki.zksc.io/payment-firms/jpyc"
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/apollo-acred-private-credit-tokenization/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+      "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
     "external_links_count": 0,
     "external_links": []

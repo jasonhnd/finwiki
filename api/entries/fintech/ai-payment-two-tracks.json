@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/ai-payment-two-tracks",
   "source_path": "fintech/ai-payment-two-tracks.md",
-  "url": "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+  "url": "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+    "en": "https://finwiki.zksc.io/en/fintech/ai-payment-two-tracks/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/ai-payment-two-tracks.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/ai-payment-two-tracks.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/ai-payment-two-tracks.md",
   "domain": "fintech",
   "title": "AI 産業の 2 つの決済軌道",
   "entry_type": "wiki_entry",
@@ -55,17 +60,17 @@
       "fintech/usd-stablecoin-interchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol",
-      "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/nevermined-compute-payment-protocol/",
+      "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/"
     ],
     "external_links_count": 0,
     "external_links": []

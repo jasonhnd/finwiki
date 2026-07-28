@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/basel-iii-frtb-crypto-exposure-implications",
   "source_path": "fintech/basel-iii-frtb-crypto-exposure-implications.md",
-  "url": "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications",
+  "url": "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-implications/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-implications/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-implications/",
+    "en": "https://finwiki.zksc.io/en/fintech/basel-iii-frtb-crypto-exposure-implications/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/basel-iii-frtb-crypto-exposure-implications.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/basel-iii-frtb-crypto-exposure-implications.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications.md",
   "domain": "fintech",
   "title": "Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル",
   "entry_type": "wiki_entry",
@@ -68,14 +73,14 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-overview",
-      "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-overview/",
+      "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

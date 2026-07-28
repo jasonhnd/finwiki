@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/kyoto-chuo-shinkin",
   "source_path": "cooperative-banks/kyoto-chuo-shinkin.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/kyoto-chuo-shinkin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kyoto-chuo-shinkin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/kyoto-chuo-shinkin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin.md",
   "domain": "cooperative-banks",
   "title": "京都中央信用金庫",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "regional-banks/kyoto-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/regional-banks/kyoto-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/regional-banks/kyoto-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

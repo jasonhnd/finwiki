@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/chain-level-ofac-freeze-precedent",
   "source_path": "fintech/chain-level-ofac-freeze-precedent.md",
-  "url": "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+  "url": "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+    "en": "https://finwiki.zksc.io/en/fintech/chain-level-ofac-freeze-precedent/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/chain-level-ofac-freeze-precedent.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/chain-level-ofac-freeze-precedent.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent.md",
   "domain": "fintech",
   "title": "チェーン・レベル OFAC freeze = 米ドルのチェーン・レベル覇権",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
-      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

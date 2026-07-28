@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/daiwa-living-trust",
   "source_path": "trust-banks/daiwa-living-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/daiwa-living-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/daiwa-living-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/daiwa-living-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/daiwa-living-trust.md",
   "domain": "trust-banks",
   "title": "大和リビング信託 (Daiwa Living Trust)",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/starts-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/starts-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

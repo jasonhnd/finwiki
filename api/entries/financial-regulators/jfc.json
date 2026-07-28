@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/jfc",
   "source_path": "financial-regulators/jfc.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/jfc",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/jfc/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/jfc.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/jfc.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/jfc.md",
   "domain": "financial-regulators",
   "title": "日本政策金融公庫 (JFC)",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "policy-finance/okinawa-development-finance-corp"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/policy-finance/japan-student-services-organization",
-      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/shoko-chukin/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-student-services-organization/",
+      "https://finwiki.zksc.io/ja/policy-finance/okinawa-development-finance-corp/"
     ],
     "external_links_count": 0,
     "external_links": []

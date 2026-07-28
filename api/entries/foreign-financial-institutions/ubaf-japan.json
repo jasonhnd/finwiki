@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/ubaf-japan",
   "source_path": "foreign-financial-institutions/ubaf-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/ubaf-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ubaf-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ubaf-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/ubaf-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/ubaf-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/ubaf-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/ubaf-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/ubaf-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "foreign-financial-institutions/socgen-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/natixis-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bnp-paribas-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/credit-agricole-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/natixis-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/socgen-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

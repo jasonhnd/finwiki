@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/nissay-wealth-life",
   "source_path": "life-insurers/nissay-wealth-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/nissay-wealth-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/nissay-wealth-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/nissay-wealth-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/nissay-wealth-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/nissay-wealth-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/nissay-wealth-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/nissay-wealth-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/nissay-wealth-life.md",
   "domain": "life-insurers",
   "title": "ニッセイ・ウェルス生命保険",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "life-insurers/td-financial-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/td-financial-life"
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/hanasaku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/td-financial-life/"
     ],
     "external_links_count": 0,
     "external_links": []

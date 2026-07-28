@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/saxo-bank-securities",
   "source_path": "securities-firms/saxo-bank-securities.md",
-  "url": "https://finwiki.zksc.io/securities-firms/saxo-bank-securities",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/saxo-bank-securities/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/saxo-bank-securities/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/saxo-bank-securities/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/saxo-bank-securities/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/saxo-bank-securities.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/saxo-bank-securities.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/saxo-bank-securities.md",
   "domain": "securities-firms",
   "title": "サクソバンク証券",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "securities-firms/traders-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/jsda",
-      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/dmm-com-securities",
-      "https://finwiki.zksc.io/securities-firms/gmo-click-securities",
-      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
-      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
-      "https://finwiki.zksc.io/securities-firms/traders-securities"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/dmm-com-securities/",
+      "https://finwiki.zksc.io/ja/securities-firms/gmo-click-securities/",
+      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
+      "https://finwiki.zksc.io/ja/securities-firms/sbi-fx-trade/",
+      "https://finwiki.zksc.io/ja/securities-firms/traders-securities/"
     ],
     "external_links_count": 0,
     "external_links": []

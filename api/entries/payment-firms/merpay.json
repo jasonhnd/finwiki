@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/merpay",
   "source_path": "payment-firms/merpay.md",
-  "url": "https://finwiki.zksc.io/payment-firms/merpay",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/merpay/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/merpay.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/merpay.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/merpay.md",
   "domain": "payment-firms",
   "title": "メルペイ (Merpay)",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/mercari-hd",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/mercari-hd/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

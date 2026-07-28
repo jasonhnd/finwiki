@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-trek-labs-japan",
   "source_path": "exchanges/jp-exchange-trek-labs-japan.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-trek-labs-japan",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-trek-labs-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-trek-labs-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-trek-labs-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-trek-labs-japan.md",
   "domain": "exchanges",
   "title": "Trek Labs Japan 株式会社 — 日本暗号資産交換業者（準備法人）",
   "entry_type": "wiki_entry",
@@ -73,16 +78,16 @@
       "fintech/japan-stablecoin-regulatory-landscape"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview",
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-saxo-bank-japan",
-      "https://finwiki.zksc.io/exchanges/jvcea-type2-associate-membership-system",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/ja/agent-economy/solana-saga-seeker-mobile-stack-overview/",
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-saxo-bank-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-type2-associate-membership-system/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/"
     ],
     "external_links_count": 6,
     "external_links": [

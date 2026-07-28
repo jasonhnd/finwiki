@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/rcc",
   "source_path": "financial-regulators/rcc.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/rcc",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/rcc/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/rcc/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/rcc/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/rcc/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/rcc.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/rcc.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/rcc.md",
   "domain": "financial-regulators",
   "title": "整理回収機構 (RCC)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "financial-regulators/jfc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/jfc"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/"
     ],
     "external_links_count": 0,
     "external_links": []

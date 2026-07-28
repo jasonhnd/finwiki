@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jpm-onyx-wholesale-network",
   "source_path": "fintech/jpm-onyx-wholesale-network.md",
-  "url": "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
+  "url": "https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/",
+    "en": "https://finwiki.zksc.io/en/fintech/jpm-onyx-wholesale-network/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jpm-onyx-wholesale-network.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jpm-onyx-wholesale-network.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network.md",
   "domain": "fintech",
   "title": "JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets",
   "entry_type": "wiki_entry",
@@ -76,17 +81,17 @@
       "systems/swift-iso-20022-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium",
-      "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
-      "https://finwiki.zksc.io/systems/canton-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/fnality-wholesale-settlement/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/fintech/partior-jpm-dbs-temasek-consortium/",
+      "https://finwiki.zksc.io/ja/fintech/tokenized-deposit-cumulative-volume-scale/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

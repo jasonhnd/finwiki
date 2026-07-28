@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-wazirx-india",
   "source_path": "exchanges/cex-wazirx-india.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-wazirx-india",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-wazirx-india/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-wazirx-india.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-wazirx-india.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-wazirx-india.md",
   "domain": "exchanges",
   "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
   "entry_type": "wiki_entry",
@@ -71,14 +76,14 @@
       "exchanges/global-crypto-forensics-vendor-layer"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
-      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
-      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/",
+      "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/"
     ],
     "external_links_count": 0,
     "external_links": []

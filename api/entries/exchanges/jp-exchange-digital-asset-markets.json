@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-digital-asset-markets",
   "source_path": "exchanges/jp-exchange-digital-asset-markets.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-digital-asset-markets",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-digital-asset-markets/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-digital-asset-markets.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-digital-asset-markets.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-digital-asset-markets.md",
   "domain": "exchanges",
   "title": "株式会社デジタルアセットマーケッツ — 日本暗号資産交換業者 overview",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "fintech/jp-trust-type-sc-architecture"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
     "external_links_count": 6,
     "external_links": [

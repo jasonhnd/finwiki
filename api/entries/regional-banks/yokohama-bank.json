@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/yokohama-bank",
   "source_path": "regional-banks/yokohama-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/yokohama-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/yokohama-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yokohama-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/yokohama-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/yokohama-bank.md",
   "domain": "regional-banks",
   "title": "横浜銀行",
   "entry_type": "wiki_entry",
@@ -62,11 +67,11 @@
       "regional-banks/kanagawa-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank",
-      "https://finwiki.zksc.io/regional-banks/kanagawa-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/higashi-nippon-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kanagawa-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

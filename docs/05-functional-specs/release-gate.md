@@ -22,6 +22,12 @@ Runs the release-document audit before mutation, then regenerates synchronized p
 
 Validates the release-document contract before any mutation, then checks counts, wikilinks, canonical drift, generated output sync, JSON/LF state and duplicate IDs.
 
+## Generated discovery gates
+
+Before building the site, `bun run verify` runs `bun run surface:drift`. It regenerates discovery output in a temporary directory with the committed `ai-index.json` and API manifest timestamps fixed, then requires byte equality for the six top-level/index targets and the complete `api/entries/**/*.json` file set and contents. This comparison includes every per-entry `metrics.last_modified`.
+
+After Astro, Pagefind and static assembly, the runner executes `bun run ai:audit --out <approved-output>`. It reads the assembled copies of `llms.txt`, `llms-full.txt`, `llms-tasks.txt`, sitemap, `ai-index.json`, the API manifest and every per-entry API JSON. Route-bearing fields and same-host API `external_links` must resolve to non-empty, non-symlink regular files and match the exact site origin; wrong-scheme or wrong-port same-host URLs fail. Source-preserving `ai-index.json` `markdown_links` are not route claims, external origins are not availability-tested, and repository source-file existence is not acceptable evidence for a published route.
+
 ## Static publish boundary
 
 The canonical command runs all Bun tests, including the destructive/public-file boundary tests and required-route negative fixtures, before assembling the real artifact:
@@ -39,6 +45,7 @@ The required-route check is a release smoke gate. Issue #183 separately owns cra
 - `.githooks/pre-push` is tracked executable and runs `bun run verify`.
 - `.github/workflows/required-verification.yml` exposes the stable `Required verification` pull-request context.
 - GitHub Pages runs `bun run verify --out _site`.
+- Both canonical GitHub workflows checkout with `fetch-depth: 0`, so Git-first `last_modified` uses full history rather than a shallow HEAD.
 - Vercel invokes the same `tools/verify.ts` runner for `_vercel_public` through the official exact-build pin pattern `bunx bun@<version>`; startup rejects drift from `.bun-version` and `packageManager`.
 - Every Actions workflow reads the same `.bun-version`; every dependency installation uses the committed frozen site lockfile.
 
@@ -48,6 +55,8 @@ The required-route check is a release smoke gate. Issue #183 separately owns cra
 - Release-document violation: restore exact Japanese -> English -> Chinese order and the required release-note subsections; do not add a human-site Chinese locale.
 - Count drift: recalibrate domain map or generated output intentionally.
 - Discovery drift: run `--write`, review generated diff, rerun check.
+- Exact-regeneration drift: preserve the committed `generated_at` values, fix nondeterministic fields or stale generated files, then rerun `bun run surface:drift`.
+- Generated-route failure: fix URL construction or assembly, regenerate, rebuild and rerun `bun run ai:audit --out <approved-output>`; do not replace localized HTML canonicals with extensionless raw paths.
 - Docs/development-file leakage: verify corpus exclusions, site allowlists, generated manifests and the static-publish allowlist.
 - Unsafe publish output: use `_site` or `_vercel_public`; never relax output validation to make a local command pass.
 - Missing required final route: inspect assembly and Pagefind output; do not remove a required route to make the check pass.
@@ -56,4 +65,4 @@ The required-route check is a release smoke gate. Issue #183 separately owns cra
 
 ## Acceptance
 
-Release is not publishable until `bun run verify` exits 0. A pull request is not mergeable until the fresh `Required verification` context is green. `main` protection must require a pull request and that context, include administrators, and reject force pushes/deletion; repository-rule evidence is part of closeout.
+Release is not publishable until `bun run verify` exits 0, including `Generated-surface drift scan passed`, `Generated route audit passed` and final `FinWiki required verification: PASS`. A pull request is not mergeable until the fresh `Required verification` context is green. `main` protection must require a pull request and that context, include administrators, and reject force pushes/deletion; repository-rule evidence is part of closeout.

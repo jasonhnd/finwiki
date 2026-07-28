@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/rakuten-card",
   "source_path": "card-issuers/rakuten-card.md",
-  "url": "https://finwiki.zksc.io/card-issuers/rakuten-card",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/rakuten-card/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/rakuten-card.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/rakuten-card.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/rakuten-card.md",
   "domain": "card-issuers",
   "title": "楽天カード (Rakuten Card)",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/paypay-card",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

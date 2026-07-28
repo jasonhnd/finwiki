@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/bft-validator-economy-tempo-vs-arc",
   "source_path": "systems/bft-validator-economy-tempo-vs-arc.md",
-  "url": "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc",
+  "url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-tempo-vs-arc/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-tempo-vs-arc/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-tempo-vs-arc/",
+    "en": "https://finwiki.zksc.io/en/systems/bft-validator-economy-tempo-vs-arc/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-tempo-vs-arc.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-tempo-vs-arc.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc.md",
   "domain": "systems",
   "title": "Tempo vs Arc · 機関チェーン validator 設計の2経路",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "systems/eigenlayer-l1-bootstrapping"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-four-variables/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-l1-bootstrapping/"
     ],
     "external_links_count": 0,
     "external_links": []

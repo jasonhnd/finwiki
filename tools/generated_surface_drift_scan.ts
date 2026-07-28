@@ -1,6 +1,15 @@
 #!/usr/bin/env bun
 
-import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
+import { spawnSync } from "node:child_process";
+import {
+  existsSync,
+  mkdtempSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  statSync,
+} from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import {
   AUDIT_ARTIFACT_DIR_NAME,
@@ -8,6 +17,7 @@ import {
   isPublicPage,
   SITE_URL,
 } from "../lib/markdown_helpers";
+import { compareAiDiscoveryOutputs } from "./compare_ai_discovery_outputs";
 
 /**
  * Generated-Surface Drift Scan
@@ -281,6 +291,76 @@ function checkTextSurface(file: string, options: { fieldLines?: boolean }): void
   });
 }
 
+async function checkExactRegeneration(): Promise<void> {
+  const aiIndexPath = path.join(ROOT, "ai-index.json");
+  const apiIndexPath = path.join(API_DIR, "index.json");
+  if (!existsSync(aiIndexPath) || !existsSync(apiIndexPath)) return;
+
+  let generatedAt = "";
+  let apiGeneratedAt = "";
+  try {
+    generatedAt = String(
+      (JSON.parse(readFileSync(aiIndexPath, "utf8")) as { generated_at?: unknown })
+        .generated_at ?? "",
+    );
+    apiGeneratedAt = String(
+      (JSON.parse(readFileSync(apiIndexPath, "utf8")) as { generated_at?: unknown })
+        .generated_at ?? "",
+    );
+  } catch (error) {
+    report("discovery regeneration", "invalid-generated-timestamp", String(error));
+    return;
+  }
+  if (!generatedAt || !apiGeneratedAt) {
+    report(
+      "discovery regeneration",
+      "missing-generated-timestamp",
+      "ai-index.json and api/entries/index.json must declare generated_at",
+    );
+    return;
+  }
+
+  const regeneratedRoot = mkdtempSync(
+    path.join(os.tmpdir(), "finwiki-discovery-regeneration-"),
+  );
+  try {
+    const generator = spawnSync(
+      process.execPath,
+      [
+        path.join(ROOT, "tools", "generate_ai_discovery.ts"),
+        `--root=${ROOT}`,
+        `--out-dir=${regeneratedRoot}`,
+        `--generated-at=${generatedAt}`,
+        `--api-index-generated-at=${apiGeneratedAt}`,
+      ],
+      {
+        cwd: ROOT,
+        encoding: "utf8",
+        maxBuffer: 16 * 1024 * 1024,
+      },
+    );
+    if (generator.status !== 0) {
+      report(
+        "discovery regeneration",
+        "generator-failed",
+        `${generator.stderr || generator.stdout}`.trim().slice(0, 1200),
+      );
+      return;
+    }
+    try {
+      await compareAiDiscoveryOutputs(ROOT, regeneratedRoot);
+    } catch (error) {
+      report(
+        "discovery regeneration",
+        "exact-regeneration-drift",
+        error instanceof Error ? error.message : String(error),
+      );
+    }
+  } finally {
+    rmSync(regeneratedRoot, { recursive: true, force: true });
+  }
+}
+
 async function main(): Promise<void> {
   console.log(`${ANSI_YELLOW}🔍 Scanning generated public surfaces for drift...${ANSI_RESET}`);
 
@@ -292,6 +372,7 @@ async function main(): Promise<void> {
   checkTextSurface("llms.txt", {});
   checkTextSurface("llms-full.txt", { fieldLines: true });
   checkTextSurface("robots.txt", {});
+  await checkExactRegeneration();
 
   if (findings.length > 0) {
     for (const finding of findings) {
@@ -306,7 +387,7 @@ async function main(): Promise<void> {
   }
 
   console.log(
-    `\n${ANSI_GREEN}Generated-surface drift scan passed: API aligned (${expected.size} entries), no docs / audit-artifact / local-path leakage across ai-index / api / sitemap / llms / llms-full / robots.${ANSI_RESET}`,
+    `\n${ANSI_GREEN}Generated-surface drift scan passed: API aligned (${expected.size} entries), fixed-timestamp regeneration is byte-identical (including last_modified), and no docs / audit-artifact / local-path leakage exists across ai-index / api / sitemap / llms / llms-full / robots.${ANSI_RESET}`,
   );
   process.exit(0);
 }

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/japan-financial-regulation",
   "source_path": "fintech/japan-financial-regulation.md",
-  "url": "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+  "url": "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+    "en": "https://finwiki.zksc.io/en/fintech/japan-financial-regulation/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-financial-regulation.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-financial-regulation.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-financial-regulation.md",
   "domain": "fintech",
   "title": "日本金融規制 — トークン・暗号資産・決済に関する法体系",
   "entry_type": "wiki_entry",
@@ -58,16 +63,16 @@
       "fintech/jp-trust-type-sc-architecture"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/japan-stablecoin-bank-perimeter-2025",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
-      "https://finwiki.zksc.io/fintech/gold-tokenization-scheme-comparison",
-      "https://finwiki.zksc.io/fintech/japan-ecisb-license",
-      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/japan-stablecoin-bank-perimeter-2025/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+      "https://finwiki.zksc.io/ja/fintech/gold-tokenization-scheme-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-ecisb-license/",
+      "https://finwiki.zksc.io/ja/fintech/japan-listed-company-disclosure-monitoring/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
     "external_links_count": 0,
     "external_links": []

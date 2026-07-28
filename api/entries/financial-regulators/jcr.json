@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/jcr",
   "source_path": "financial-regulators/jcr.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/jcr",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/jcr/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/jcr.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/jcr.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/jcr.md",
   "domain": "financial-regulators",
   "title": "日本格付研究所 (JCR)",
   "entry_type": "wiki_entry",
@@ -67,13 +72,13 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

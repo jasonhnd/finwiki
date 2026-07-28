@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/carf-1099da-end-of-crypto-anonymity",
   "source_path": "fintech/carf-1099da-end-of-crypto-anonymity.md",
-  "url": "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
+  "url": "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
+    "en": "https://finwiki.zksc.io/en/fintech/carf-1099da-end-of-crypto-anonymity/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/carf-1099da-end-of-crypto-anonymity.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/carf-1099da-end-of-crypto-anonymity.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity.md",
   "domain": "fintech",
   "title": "CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉",
   "entry_type": "wiki_entry",
@@ -63,15 +68,15 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/irs-1099-da",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/irs-1099-da/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

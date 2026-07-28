@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/kiraboshi-fg",
   "source_path": "regional-banks/kiraboshi-fg.md",
-  "url": "https://finwiki.zksc.io/regional-banks/kiraboshi-fg",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/kiraboshi-fg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kiraboshi-fg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kiraboshi-fg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/kiraboshi-fg.md",
   "domain": "regional-banks",
   "title": "東京きらぼし FG (Tokyo Kiraboshi FG)",
   "entry_type": "wiki_entry",
@@ -71,17 +76,17 @@
       "regional-banks/fukuoka-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

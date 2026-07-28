@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/japan-exchange-group",
   "source_path": "financial-regulators/japan-exchange-group.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/japan-exchange-group/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/japan-exchange-group.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/japan-exchange-group.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/japan-exchange-group.md",
   "domain": "financial-regulators",
   "title": "日本取引所グループ (JPX)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
-      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
-      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
-      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
-      "https://finwiki.zksc.io/securities/osaka-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/",
+      "https://finwiki.zksc.io/ja/fintech/japan-listed-company-disclosure-monitoring/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+      "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
+      "https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/",
+      "https://finwiki.zksc.io/ja/securities/osaka-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-commodity-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
     "external_links_count": 0,
     "external_links": []

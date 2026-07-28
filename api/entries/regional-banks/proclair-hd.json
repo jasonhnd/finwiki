@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/proclair-hd",
   "source_path": "regional-banks/proclair-hd.md",
-  "url": "https://finwiki.zksc.io/regional-banks/proclair-hd",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/proclair-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/proclair-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/proclair-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/proclair-hd.md",
   "domain": "regional-banks",
   "title": "プロクレアホールディングス (ProCrea HD)",
   "entry_type": "wiki_entry",
@@ -69,13 +74,13 @@
       "regional-banks/fidea-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fidea-hd"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fidea-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

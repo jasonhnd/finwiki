@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/ja-mitsui-leasing",
   "source_path": "cooperative-banks/ja-mitsui-leasing.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/ja-mitsui-leasing/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/ja-mitsui-leasing.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/ja-mitsui-leasing.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing.md",
   "domain": "cooperative-banks",
   "title": "JA三井リース",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "leasing-firms/tokyo-century"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
-      "https://finwiki.zksc.io/leasing-firms/smfl",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
     ],
     "external_links_count": 0,
     "external_links": []

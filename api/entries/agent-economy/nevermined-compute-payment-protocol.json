@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/nevermined-compute-payment-protocol",
   "source_path": "agent-economy/nevermined-compute-payment-protocol.md",
-  "url": "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/nevermined-compute-payment-protocol/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/nevermined-compute-payment-protocol/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/nevermined-compute-payment-protocol/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/nevermined-compute-payment-protocol/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/nevermined-compute-payment-protocol.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/nevermined-compute-payment-protocol.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol.md",
   "domain": "agent-economy",
   "title": "Nevermined · AI compute-payment protocol",
   "entry_type": "wiki_entry",
@@ -72,18 +77,18 @@
       "systems/l2-agent-economics-arbitrum-base-op-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
-      "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/agent-economy/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/skill-market-monetization/",
+      "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/systems/l2-agent-economics-arbitrum-base-op-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

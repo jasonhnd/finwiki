@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/bdo-sanyu",
   "source_path": "financial-regulators/bdo-sanyu.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/bdo-sanyu",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/bdo-sanyu/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/bdo-sanyu/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/bdo-sanyu/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/bdo-sanyu/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/bdo-sanyu.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/bdo-sanyu.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/bdo-sanyu.md",
   "domain": "financial-regulators",
   "title": "BDO 三優監査法人 (BDO Sanyu)",
   "entry_type": "wiki_entry",
@@ -76,17 +81,17 @@
       "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
-      "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
-      "https://finwiki.zksc.io/financial-regulators/kpmg-azsa",
-      "https://finwiki.zksc.io/financial-regulators/pwc-aarata",
-      "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton",
-      "https://finwiki.zksc.io/megabanks/sbi-hd"
+      "https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/deloitte-touche-tohmatsu/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ey-shinnihon/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/kpmg-azsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/pwc-aarata/",
+      "https://finwiki.zksc.io/ja/financial-regulators/taiyo-grant-thornton/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

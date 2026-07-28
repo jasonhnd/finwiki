@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/smbc-card",
   "source_path": "card-issuers/smbc-card.md",
-  "url": "https://finwiki.zksc.io/card-issuers/smbc-card",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/smbc-card/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/smbc-card.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/smbc-card.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/smbc-card.md",
   "domain": "card-issuers",
   "title": "三井住友カード (SMCC)",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "payments/cashless-jp-landscape"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
-      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+      "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/"
     ],
     "external_links_count": 0,
     "external_links": []

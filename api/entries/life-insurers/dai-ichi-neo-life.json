@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/dai-ichi-neo-life",
   "source_path": "life-insurers/dai-ichi-neo-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/dai-ichi-neo-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-neo-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-neo-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-neo-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/dai-ichi-neo-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/dai-ichi-neo-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/dai-ichi-neo-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/dai-ichi-neo-life.md",
   "domain": "life-insurers",
   "title": "第一ネオ生命保険",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "life-insurers/dai-ichi-life-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
-      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
-      "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-insurance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
+      "https://finwiki.zksc.io/ja/insurance/medical-cancer-insurance-product-economics/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

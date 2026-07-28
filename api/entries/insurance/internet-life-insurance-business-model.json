@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "insurance/internet-life-insurance-business-model",
   "source_path": "insurance/internet-life-insurance-business-model.md",
-  "url": "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+  "url": "https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/",
+  "html_url": "https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/",
+    "en": "https://finwiki.zksc.io/en/insurance/internet-life-insurance-business-model/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/internet-life-insurance-business-model.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/internet-life-insurance-business-model.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model.md",
   "domain": "insurance",
   "title": "Internet life insurance business model",
   "entry_type": "wiki_entry",
@@ -67,17 +72,17 @@
       "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/orix-life",
-      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
-      "https://finwiki.zksc.io/megabanks/sony-fg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/orix-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sumitomo-life/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

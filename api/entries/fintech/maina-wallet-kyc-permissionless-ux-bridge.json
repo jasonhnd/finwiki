@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/maina-wallet-kyc-permissionless-ux-bridge",
   "source_path": "fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
-  "url": "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge",
+  "url": "https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/",
+    "en": "https://finwiki.zksc.io/en/fintech/maina-wallet-kyc-permissionless-ux-bridge/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
   "domain": "fintech",
   "title": "マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解",
   "entry_type": "wiki_entry",
@@ -61,15 +66,15 @@
       "systems/erc-4337-embedded-wallet-adoption"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/retail-stablecoin-dual-bind/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/"
     ],
     "external_links_count": 0,
     "external_links": []

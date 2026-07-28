@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payments/pasmo-prepaid-tokyo-metro",
   "source_path": "payments/pasmo-prepaid-tokyo-metro.md",
-  "url": "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro",
+  "url": "https://finwiki.zksc.io/ja/payments/pasmo-prepaid-tokyo-metro/",
+  "html_url": "https://finwiki.zksc.io/ja/payments/pasmo-prepaid-tokyo-metro/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payments/pasmo-prepaid-tokyo-metro/",
+    "en": "https://finwiki.zksc.io/en/payments/pasmo-prepaid-tokyo-metro/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/pasmo-prepaid-tokyo-metro.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/pasmo-prepaid-tokyo-metro.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro.md",
   "domain": "payments",
   "title": "PASMO: Tokyo private-rail and bus consortium prepaid IC",
   "entry_type": "wiki_entry",
@@ -77,17 +82,17 @@
       "payments/waon-prepaid-aeon"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
-      "https://finwiki.zksc.io/payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
-      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
-      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
-      "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
-      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/edy-rakuten-prepaid/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
+      "https://finwiki.zksc.io/ja/payments/japan-transit-prepaid-suica-pasmo-icoca-economics/",
+      "https://finwiki.zksc.io/ja/payments/nanaco-prepaid-seven-i/",
+      "https://finwiki.zksc.io/ja/payments/prepaid-payment-instrument-issuers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/",
+      "https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/"
     ],
     "external_links_count": 0,
     "external_links": []

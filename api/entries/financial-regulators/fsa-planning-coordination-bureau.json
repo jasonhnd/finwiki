@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/fsa-planning-coordination-bureau",
   "source_path": "financial-regulators/fsa-planning-coordination-bureau.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/fsa-planning-coordination-bureau",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/fsa-planning-coordination-bureau/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa-planning-coordination-bureau/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/fsa-planning-coordination-bureau/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/fsa-planning-coordination-bureau/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/fsa-planning-coordination-bureau.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/fsa-planning-coordination-bureau.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/fsa-planning-coordination-bureau.md",
   "domain": "financial-regulators",
   "title": "企画市場局 (FSA Planning and Coordination Bureau)",
   "entry_type": "wiki_entry",
@@ -75,18 +80,18 @@
       "financial-regulators/jsda"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
-      "https://finwiki.zksc.io/financial-regulators/cpaaob",
-      "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
-      "https://finwiki.zksc.io/financial-regulators/jsda"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/",
+      "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-system-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/cpaaob/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-inspection-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jsda/"
     ],
     "external_links_count": 0,
     "external_links": []

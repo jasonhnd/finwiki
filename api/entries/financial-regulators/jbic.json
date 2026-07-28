@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/jbic",
   "source_path": "financial-regulators/jbic.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/jbic",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/jbic/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/jbic.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/jbic.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/jbic.md",
   "domain": "financial-regulators",
   "title": "国際協力銀行 (JBIC)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "policy-finance/oecd-export-credit-arrangement"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
-      "https://finwiki.zksc.io/policy-finance/jica",
-      "https://finwiki.zksc.io/policy-finance/jogmec",
-      "https://finwiki.zksc.io/policy-finance/nexi",
-      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-policy-finance-system/",
+      "https://finwiki.zksc.io/ja/policy-finance/jica/",
+      "https://finwiki.zksc.io/ja/policy-finance/jogmec/",
+      "https://finwiki.zksc.io/ja/policy-finance/nexi/",
+      "https://finwiki.zksc.io/ja/policy-finance/oecd-export-credit-arrangement/"
     ],
     "external_links_count": 0,
     "external_links": []

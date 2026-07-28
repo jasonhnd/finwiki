@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-ippan-vs-koeki-shadan-houjin",
   "source_path": "non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-ippan-vs-koeki-shadan-houjin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
   "domain": "non-profit",
   "title": "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
   "entry_type": "wiki_entry",
@@ -72,13 +77,13 @@
       "non-profit/japan-research-grant-map-2026"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
-      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/"
     ],
     "external_links_count": 0,
     "external_links": []

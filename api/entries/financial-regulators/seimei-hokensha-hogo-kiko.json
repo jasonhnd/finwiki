@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/seimei-hokensha-hogo-kiko",
   "source_path": "financial-regulators/seimei-hokensha-hogo-kiko.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/seimei-hokensha-hogo-kiko/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/seimei-hokensha-hogo-kiko/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/seimei-hokensha-hogo-kiko/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/seimei-hokensha-hogo-kiko/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/seimei-hokensha-hogo-kiko.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/seimei-hokensha-hogo-kiko.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko.md",
   "domain": "financial-regulators",
   "title": "生命保険契約者保護機構",
   "entry_type": "wiki_entry",
@@ -82,16 +87,16 @@
       "life-insurers/toho-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/asahi-life",
-      "https://finwiki.zksc.io/life-insurers/daido-life",
-      "https://finwiki.zksc.io/life-insurers/fukoku-life",
-      "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/life-insurers/taiyo-life"
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/sonpo-hosho-kiko/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/asahi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/fukoku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/"
     ],
     "external_links_count": 0,
     "external_links": []

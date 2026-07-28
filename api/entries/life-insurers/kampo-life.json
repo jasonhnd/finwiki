@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/kampo-life",
   "source_path": "life-insurers/kampo-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/kampo-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/kampo-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/kampo-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/kampo-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/kampo-life.md",
   "domain": "life-insurers",
   "title": "かんぽ生命保険 (Japan Post Insurance)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

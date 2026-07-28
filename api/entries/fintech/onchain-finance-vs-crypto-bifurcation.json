@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/onchain-finance-vs-crypto-bifurcation",
   "source_path": "fintech/onchain-finance-vs-crypto-bifurcation.md",
-  "url": "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+  "url": "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+    "en": "https://finwiki.zksc.io/en/fintech/onchain-finance-vs-crypto-bifurcation/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/onchain-finance-vs-crypto-bifurcation.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/onchain-finance-vs-crypto-bifurcation.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation.md",
   "domain": "fintech",
   "title": "ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した",
   "entry_type": "wiki_entry",
@@ -62,17 +67,17 @@
       "systems/canton-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/fx-onchain-as-stablecoin-final-boss",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
-      "https://finwiki.zksc.io/systems/canton-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/fx-onchain-as-stablecoin-final-boss/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/retail-stablecoin-dual-bind/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

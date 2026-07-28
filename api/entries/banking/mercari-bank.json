@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/mercari-bank",
   "source_path": "banking/mercari-bank.md",
-  "url": "https://finwiki.zksc.io/banking/mercari-bank",
+  "url": "https://finwiki.zksc.io/ja/banking/mercari-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/mercari-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/mercari-bank/",
+    "en": "https://finwiki.zksc.io/en/banking/mercari-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/mercari-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/mercari-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/mercari-bank.md",
   "domain": "banking",
   "title": "メルカリバンク (Mercari Bank)",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "payment-firms/gmo-aozora-net"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/baas-japan-landscape",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
-      "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/baas-japan-landscape/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/banking/quick-deposit-four-methods/",
+      "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/"
     ],
     "external_links_count": 0,
     "external_links": []

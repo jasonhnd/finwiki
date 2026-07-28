@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/banco-do-brasil-japan",
   "source_path": "foreign-financial-institutions/banco-do-brasil-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/banco-do-brasil-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/banco-do-brasil-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/banco-do-brasil-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/banco-do-brasil-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/banco-do-brasil-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/banco-do-brasil-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "ブラジル銀行日本 (Banco do Brasil Japan)",
   "entry_type": "wiki_entry",
@@ -73,17 +78,17 @@
       "payments/funds-transfer-service-providers-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/metrobank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
-      "https://finwiki.zksc.io/megabanks/mufg-bank",
-      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-agency-business-route/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/metrobank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/philippine-national-bank-japan/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

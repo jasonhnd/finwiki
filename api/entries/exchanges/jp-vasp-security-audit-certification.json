@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-vasp-security-audit-certification",
   "source_path": "exchanges/jp-vasp-security-audit-certification.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-vasp-security-audit-certification/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-security-audit-certification.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-security-audit-certification.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification.md",
   "domain": "exchanges",
   "title": "国内 VASP セキュリティ・監査・ISMS 認証実態",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "exchanges/us-crypto-licensing-multi-layer-system"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
-      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/"
     ],
     "external_links_count": 0,
     "external_links": []

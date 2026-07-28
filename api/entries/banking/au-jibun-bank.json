@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/au-jibun-bank",
   "source_path": "banking/au-jibun-bank.md",
-  "url": "https://finwiki.zksc.io/banking/au-jibun-bank",
+  "url": "https://finwiki.zksc.io/ja/banking/au-jibun-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/au-jibun-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/au-jibun-bank/",
+    "en": "https://finwiki.zksc.io/en/banking/au-jibun-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/au-jibun-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/au-jibun-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/au-jibun-bank.md",
   "domain": "banking",
   "title": "auじぶん銀行 (au Jibun Bank)",
   "entry_type": "wiki_entry",
@@ -62,14 +67,14 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

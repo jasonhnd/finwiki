@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/chainlink-ccip-institutional-messaging",
   "source_path": "systems/chainlink-ccip-institutional-messaging.md",
-  "url": "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+  "url": "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+    "en": "https://finwiki.zksc.io/en/systems/chainlink-ccip-institutional-messaging/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chainlink-ccip-institutional-messaging.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chainlink-ccip-institutional-messaging.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging.md",
   "domain": "systems",
   "title": "Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)",
   "entry_type": "wiki_entry",
@@ -63,14 +68,14 @@
       "systems/layerzero-v2-omnichain-messaging"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-ccip-institutional/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/"
     ],
     "external_links_count": 0,
     "external_links": []

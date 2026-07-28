@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payments/amazon-gift-card-japan",
   "source_path": "payments/amazon-gift-card-japan.md",
-  "url": "https://finwiki.zksc.io/payments/amazon-gift-card-japan",
+  "url": "https://finwiki.zksc.io/ja/payments/amazon-gift-card-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/payments/amazon-gift-card-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payments/amazon-gift-card-japan/",
+    "en": "https://finwiki.zksc.io/en/payments/amazon-gift-card-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/amazon-gift-card-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/amazon-gift-card-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payments/amazon-gift-card-japan.md",
   "domain": "payments",
   "title": "Amazon Gift Card Japan: closed-loop e-commerce prepaid",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "payments/waon-prepaid-aeon"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/apple-gift-card-japan",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/google-play-gift-card-japan",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
-      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
-      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
-      "https://finwiki.zksc.io/payments/quo-card-prepaid",
-      "https://finwiki.zksc.io/payments/visa-gift-card-japan",
-      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/apple-gift-card-japan/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/google-play-gift-card-japan/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
+      "https://finwiki.zksc.io/ja/payments/nanaco-prepaid-seven-i/",
+      "https://finwiki.zksc.io/ja/payments/prepaid-payment-instrument-issuers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/quo-card-prepaid/",
+      "https://finwiki.zksc.io/ja/payments/visa-gift-card-japan/",
+      "https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/"
     ],
     "external_links_count": 0,
     "external_links": []

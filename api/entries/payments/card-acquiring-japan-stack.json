@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payments/card-acquiring-japan-stack",
   "source_path": "payments/card-acquiring-japan-stack.md",
-  "url": "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+  "url": "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+  "html_url": "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+    "en": "https://finwiki.zksc.io/en/payments/card-acquiring-japan-stack/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/card-acquiring-japan-stack.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/card-acquiring-japan-stack.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payments/card-acquiring-japan-stack.md",
   "domain": "payments",
   "title": "Japan card acquiring stack",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

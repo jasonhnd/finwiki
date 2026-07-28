@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/kuroneko-atobarai",
   "source_path": "payment-firms/kuroneko-atobarai.md",
-  "url": "https://finwiki.zksc.io/payment-firms/kuroneko-atobarai",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/kuroneko-atobarai/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/kuroneko-atobarai/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/kuroneko-atobarai/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/kuroneko-atobarai/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/kuroneko-atobarai.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/kuroneko-atobarai.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/kuroneko-atobarai.md",
   "domain": "payment-firms",
   "title": "クロネコ代金後払いサービス (Kuroneko Atobarai)",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/megabanks/nippon-post",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/atone",
-      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
-      "https://finwiki.zksc.io/payment-firms/net-protections-hd",
-      "https://finwiki.zksc.io/payment-firms/paidy",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
-      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/megabanks/nippon-post/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/atone/",
+      "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/net-protections-hd/",
+      "https://finwiki.zksc.io/ja/payment-firms/paidy/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/japan-bnpl-credit-purchase-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

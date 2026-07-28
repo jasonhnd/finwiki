@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/aichi-fg",
   "source_path": "regional-banks/aichi-fg.md",
-  "url": "https://finwiki.zksc.io/regional-banks/aichi-fg",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/aichi-fg/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/aichi-fg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/aichi-fg/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/aichi-fg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/aichi-fg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/aichi-fg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/aichi-fg.md",
   "domain": "regional-banks",
   "title": "あいち FG (Aichi FG)",
   "entry_type": "wiki_entry",
@@ -70,18 +75,18 @@
       "regional-banks/shizuoka-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/aichi-bank",
-      "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
-      "https://finwiki.zksc.io/regional-banks/juroku-fg",
-      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
-      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
-      "https://finwiki.zksc.io/regional-banks/san-jusan-fg",
-      "https://finwiki.zksc.io/regional-banks/shizuoka-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/aichi-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/hachijuni-nagano-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/juroku-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/nagoya-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

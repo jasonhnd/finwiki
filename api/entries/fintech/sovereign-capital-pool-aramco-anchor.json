@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/sovereign-capital-pool-aramco-anchor",
   "source_path": "fintech/sovereign-capital-pool-aramco-anchor.md",
-  "url": "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
+  "url": "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+    "en": "https://finwiki.zksc.io/en/fintech/sovereign-capital-pool-aramco-anchor/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/sovereign-capital-pool-aramco-anchor.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/sovereign-capital-pool-aramco-anchor.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor.md",
   "domain": "fintech",
   "title": "ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/fintech/sovereign-fund-crypto-allocation-pattern",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+      "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+      "https://finwiki.zksc.io/ja/fintech/sovereign-fund-crypto-allocation-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
     "external_links_count": 0,
     "external_links": []

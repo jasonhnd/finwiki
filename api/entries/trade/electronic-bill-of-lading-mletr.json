@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trade/electronic-bill-of-lading-mletr",
   "source_path": "trade/electronic-bill-of-lading-mletr.md",
-  "url": "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr",
+  "url": "https://finwiki.zksc.io/ja/trade/electronic-bill-of-lading-mletr/",
+  "html_url": "https://finwiki.zksc.io/ja/trade/electronic-bill-of-lading-mletr/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trade/electronic-bill-of-lading-mletr/",
+    "en": "https://finwiki.zksc.io/en/trade/electronic-bill-of-lading-mletr/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/electronic-bill-of-lading-mletr.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/electronic-bill-of-lading-mletr.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr.md",
   "domain": "trade",
   "title": "電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data",
   "entry_type": "wiki_entry",
@@ -73,14 +78,14 @@
       "trade/letter-of-credit-documentary-mechanism"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
-      "https://finwiki.zksc.io/trade/INDEX",
-      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
-      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
-      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
-      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/account-to-account-payment-japan/",
+      "https://finwiki.zksc.io/ja/domains/trade/",
+      "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+      "https://finwiki.zksc.io/ja/trade/incoterms-2020-trade-terms-framework/",
+      "https://finwiki.zksc.io/ja/trade/japan-customs-tariff-origin-clearance/",
+      "https://finwiki.zksc.io/ja/trade/letter-of-credit-documentary-mechanism/"
     ],
     "external_links_count": 0,
     "external_links": []
