@@ -1,12 +1,12 @@
 ---
 source: agent-economy/agent-legal-tax-liability-framework
-source_hash: c30da143b72cba98
+source_hash: 3ea209d6821de242
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AIエージェントの法的・税務上の責任フレームワーク · 誰が責任を負うのか、エージェントの所得はどう課税されるのか"
-translated_at: 2026-06-26T08:28:53.946Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # AIエージェントの法的・税務上の責任フレームワーク · 誰が責任を負うのか、エージェントの所得はどう課税されるのか
@@ -108,13 +108,16 @@ EU AI法(規則2024/1689,、12, 年7月にOJで公表、2024,、1, 年8月に発
 
 ## 法域横断の比較マトリクス
 
-| 法域 | エージェントの法人格に関する規制当局の立場 | 責任のデフォルト | エージェントの所得の税務上の取扱い |
+| 法域 | 関連する公開制度 | Deployment ごとに解決すべき問い | 引用資料が確立していない事項 |
 |---|---|---|---|
-| 米国(SEC / CFTC / FinCEN / FTC / IRS) | 法人格なし;エージェントは企業のツール | デプロイヤー(FTCによる消費者詐欺のオーバーレイあり) | デプロイヤーの所得;企業レベルの課税 + 1099-DAの下での暗号資産報告の対象 |
-| 英国(FCA / PRA / HMRC) | 法人格なし;SMCRの上級管理者が説明責任を負う | デプロイヤー;システミックな失敗について上級管理者が個人的に責任を負う | デプロイヤーの所得;供給者としてのデプロイヤーにVATが適用される |
-| 日本(FSA / NTA) | 法人格なし;委任契約の枠組みは、人である場合にのみエージェントを受任者として扱う | デプロイヤー(規制対象企業) | デプロイヤーの所得;供給者としてのデプロイヤーに消費税が適用される;CARF + VASPを通じた暗号資産報告 |
-| シンガポール(MAS / IRAS) | 法人格なし;Veritasフレームワークが企業に説明責任を負わせる | デプロイヤー(規制対象企業) | デプロイヤーの所得;供給者としてのデプロイヤーにGSTが適用される |
-| EU(AI法 + ESMA / EBA / EIOPA + 加盟国の税制) | 法人格なし;AI法第26 条の下でのデプロイヤーの義務 | デプロイヤー(システムの瑕疵についてはプロバイダー責任あり) | 加盟国レベルでのデプロイヤーの所得;EUルールの下での国境を越えるVAT |
+| **米国** | activity-specific な SEC / CFTC / FinCEN / FTC rules、contract / agency law、IRS tax rules | principal、adviser / broker / money transmitter、record owner、taxpayer は誰か。product terms は何を割り当てるか | 全 transaction に共通する AI-agent liability waterfall または単一の税務処理 |
+| **英国** | FCA / PRA rules、該当する場合の SMCR、contract law、HMRC tax rules | どの regulated entity が system を運営し、誰が decision を承認し、誰が income-producing service を受領 / 提供するか | 全 senior manager の自動的な個人責任または一般的な AI-agent tax rule |
+| **日本** | 金融商品取引法 / 銀行法等の activity rules、民法上の関係、国税庁 guidance | deployer が regulated act を行うか、authority をどう付与するか、asset / income の owner と必要 record は誰か | software 自体が法的な受任者または taxpayer になること |
+| **シンガポール** | MAS activity / technology-risk rules、contract law、IRAS tax rules | licensing、outsourcing / model governance、customer authority、beneficial ownership、GST / income characterization | 全 autonomous-agent business model を一律に扱う rule |
+| **欧州連合** | EU AI Act、sectoral financial law、civil-liability rules、member-state tax law | AI Act role classification、regulated activity、human oversight、contractual allocation、member-state tax nexus | AI agent を legal person または taxpayer とする harmonized EU rule |
+
+Sources: ^[https://www.sec.gov/] ^[https://www.cftc.gov/] ^[https://www.irs.gov/] ^[https://www.fca.org.uk/] ^[https://www.gov.uk/government/organisations/hm-revenue-customs] ^[https://www.fsa.go.jp/en/] ^[https://www.nta.go.jp/english/] ^[https://www.mas.gov.sg/] ^[https://www.iras.gov.sg/] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689]
+
 
 収斂は顕著である:**いかなる主要な法域もデプロイヤーの説明責任から逸脱しておらず**、EUの最もAI特化型の立法ですら、既存の法人格の枠組みを破壊するのではなく補強している。
 

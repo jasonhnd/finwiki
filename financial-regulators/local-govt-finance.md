@@ -3,9 +3,9 @@ title: 地方公共団体金融機構 (JFM)
 aliases: ["JFM", "Japan Finance Organization for Municipalities", "地方公共団体金融機構", "地方金融機構", "旧 公営企業金融公庫"]
 domain: financial-regulators
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, policy-finance, local-government]
 status: active
@@ -79,6 +79,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | 2018-07 | 西日本豪雨 → 災害復興融資対応 |
 | 2019-10 | 令和元年東日本台風 → 災害復興融資対応 |
 | **2024-01-01** | **能登半島地震** → 災害復興融資対応 ^[extracted]
+
+Sources: ^[地方公共団体金融機構「プロフィール・沿革」: https://www.jfm.go.jp/about/overview/profile.html; 同「復興支援相談」: https://www.jfm.go.jp/support.html; 同「貸付対象事業・条件一覧」: https://www.jfm.go.jp/financing/loan/index.html.]
 
 ## 3. 事業セグメント map
 

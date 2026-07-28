@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-securities-finance
-source_hash: e2d505fb0dfaf153
+source_hash: dd060d81603a2f83
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Securities Finance (JSF)"
-translated_at: 2026-05-31T23:59:49.361Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Japan Securities Finance (JSF)
 
@@ -32,6 +32,9 @@ For FinWiki, JSF links retail margin trading, institutional stock lending, broke
 | Listing | Tokyo Stock Exchange Prime Market |
 | Core business | Securities finance under the FIEA |
 
+Sources: ^[Japan Securities Finance company profile: https://www.jsf.co.jp/ja/about/outline.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
+
+
 ## 2. Business segment map
 
 | Layer | Function |
@@ -40,6 +43,9 @@ For FinWiki, JSF links retail margin trading, institutional stock lending, broke
 | Securities finance | Lending, borrowing, and collateralized finance tied to listed securities. |
 | Securities investment | Investment and treasury operations. |
 | Trust-bank adjacency | JSF group includes trust-bank functions through Nisshokin Trust Bank. |
+
+Sources: ^[Japan Securities Finance company and investor-relations pages: https://www.jsf.co.jp/ja/about/outline.html; https://www.jsf.co.jp/ja/ir.html.]
+
 
 ## 3. Strategy and competition
 

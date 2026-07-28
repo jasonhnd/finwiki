@@ -1,12 +1,12 @@
 ---
 source: agent-economy/circle-agent-stack-usdc
-source_hash: 86a6450bb2bc7033
+source_hash: f37836e4305da284
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Circle Agent Stack · USDC agent wallets, nanopayments & marketplace"
-translated_at: 2026-07-28T17:01:18.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
@@ -40,6 +40,9 @@ Circle Agent Stack は、USDC を単なる token balance ではなく、agent �
 | Agent Marketplace | agent が paid API や service を見つけるための machine-readable service catalog を提供する。 | service metadata、pricing、capability、invocation method、provider distinction。 |
 | Circle CLI | human と agent に、wallet、funding、policy、transfer、swap、contract、skill operation のための deterministic command interface を与える。 | `circle wallet ...`、`circle contract ...`、`circle skill ...`、agent 利用向けの JSON / quiet output mode。 |
 | Circle Skills | Circle product knowledge と workflow を reusable agent skill として packaged する。 | skill list / info / install / update command と public `circlefin/skills` catalog。 |
+
+Sources: ^[https://developers.circle.com/agent-stack] ^[https://developers.circle.com/agent-stack/agent-wallets] ^[https://developers.circle.com/gateway/nanopayments] ^[https://agents.circle.com/services] ^[https://developers.circle.com/agent-stack/circle-cli/command-reference] ^[https://github.com/circlefin/skills]
+
 
 settlement path は、API call ごとに標準的な onchain transfer を発生させる方式とは意図的に異なる。
 

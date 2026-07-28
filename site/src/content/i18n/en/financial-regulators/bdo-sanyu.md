@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/bdo-sanyu
-source_hash: 86f0fa4aee5e439d
+source_hash: 8efaf0ced2d26483
 lang: en
 status: machine
 fidelity: ok
 title: "BDO Sanyu Audit Corporation (BDO Sanyu)"
-translated_at: 2026-06-15T03:48:21.842Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # BDO Sanyu Audit Corporation (BDO Sanyu)
 
@@ -80,12 +80,15 @@ The financial-sector clients for which BDO Sanyu has served / currently serves a
 
 ## 6. Competitive relationships
 
-| Tier | Corporation | Strength axis |
+| Tier | Firm | FinWiki analysis focus (organized from each firm's public information) |
 |---|---|---|
-| Big 4  | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | Large listed companies / mega FG |
-| Quasi-large (Tier 2) | [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] | Mid-tier listed / IPO / VASP |
-| **Quasi-large (Tier 2)** | **BDO Sanyu** | **Mid-tier / Web3  startups / foreign-affiliated** |
-| Small | Numerous | Regional / specialized |
+| Big 4 | [[financial-regulators/ey-shinnihon|EY ShinNihon]] / [[financial-regulators/deloitte-touche-tohmatsu|Tohmatsu]] / [[financial-regulators/kpmg-azsa|KPMG AZSA]] / [[financial-regulators/pwc-aarata|PwC Arata]] | Broad audit and assurance work, including large listed companies and financial groups |
+| Quasi-major (Tier 2)| [[financial-regulators/taiyo-grant-thornton|Grant Thornton Taiyo]] | Mid-sized listed companies, IPOs and international-network coordination |
+| **Quasi-major (Tier 2)** | **BDO Sanyu** | **Mid-sized companies, IPOs and BDO international-network coordination** |
+| Small | Numerous | Regional and industry specialization |
+
+Sources: ^[This comparison is a FinWiki analytical grouping based on each network's public firm and service descriptions, not an official market-share ranking: BDO Sanyu https://www.bdo.or.jp/firm/; Grant Thornton Taiyo https://www.grantthornton.jp/about/firm/; JICPA https://jicpa.or.jp/; CPAAOB https://www.fsa.go.jp/cpaaob/.]
+
 
 Within Tier 2 , it divides the field with Taiyo Grant Thornton:
 

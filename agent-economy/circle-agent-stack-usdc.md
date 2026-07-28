@@ -65,6 +65,8 @@ Circle Agent Stack turns USDC into an agent-facing operating loop rather than on
 | Circle CLI | Gives humans and agents a deterministic command interface for wallet, funding, policy, transfer, swap, contract, and skill operations. | `circle wallet ...`, `circle contract ...`, `circle skill ...`, JSON / quiet output modes for agent use. |
 | Circle Skills | Packages Circle product knowledge and workflows into reusable agent skills. | Skill list / info / install / update commands and the public `circlefin/skills` catalog. |
 
+Sources: ^[https://developers.circle.com/agent-stack] ^[https://developers.circle.com/agent-stack/agent-wallets] ^[https://developers.circle.com/gateway/nanopayments] ^[https://agents.circle.com/services] ^[https://developers.circle.com/agent-stack/circle-cli/command-reference] ^[https://github.com/circlefin/skills]
+
 The settlement path is deliberately different from a standard onchain transfer for every API call:
 
 1. The buyer funds a Gateway Wallet balance with USDC in a one-time onchain transaction.

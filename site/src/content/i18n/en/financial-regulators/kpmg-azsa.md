@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/kpmg-azsa
-source_hash: 1c1be4cd70aeaf0d
+source_hash: b602c9228ce7d653
 lang: en
 status: machine
 fidelity: ok
 title: "KPMG AZSA LLC (有限責任 あずさ監査法人)"
-translated_at: 2026-06-18T23:59:13.060Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # KPMG AZSA LLC (有限責任 あずさ監査法人)
 
@@ -73,12 +73,15 @@ AZSA has strength in auditing major financial institutions, but the latest audit
 
 ## 6. Competitive landscape
 
-| Big 4 | Domestic brand | Strength axis (on a public basis) |
+| Big 4 | Domestic brand | Public-service focus in FinWiki analysis |
 |---|---|---|
-| KPMG | **AZSA** | Financial-institution internal control / J-SOX / strong in regional banks |
-| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | Number of listed-company audits |
-| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | M&A / early mover in crypto assets |
-| PwC | [[financial-regulators/pwc-aarata|PwC あらた]] | FinTech / Web3 |
+| KPMG | **KPMG AZSA** | Financial services, internal controls and J-SOX |
+| EY | [[financial-regulators/ey-shinnihon|EY ShinNihon]] | Large listed companies and financial services |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|Tohmatsu]] | Audit and assurance, FAS coordination and digital assets |
+| PwC | [[financial-regulators/pwc-aarata|PwC Japan LLC]] | Global network and digital assets |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: KPMG https://kpmg.com/jp/ja/home/services/audit.html; EY https://www.shinnihon.or.jp/services/financial-services/; Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; PwC https://www.pwc.com/jp/ja/services/audit-assurance.html.]
+
 
 Tier 2: [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]], BDO Sanyu & Co. ^[extracted].
 

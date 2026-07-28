@@ -1,11 +1,11 @@
 ---
 source: agent-economy/embedded-wallet-network-effects-moat
-source_hash: f1f459339a820e18
+source_hash: c1d3d6e583ccd471
 lang: en
 status: machine
 fidelity: ok
 title: "Embedded-wallet network effects · the moat is in the integrator, not the wallet itself"
-translated_at: 2026-05-30T17:04:08.790Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Embedded-wallet network effects · the moat is in the integrator, not the wallet itself
@@ -43,12 +43,15 @@ The more integrators there are → the more users can have their wallet "follow 
 
 **Analogy to traditional payments**:
 
-| Analogy | Embedded-wallet counterpart |
-|---|---|
-| Stripe payments | Backend-ized · integrators need not understand card networks |
-| Plaid bank linking | User authorization · backend aggregation |
-| OAuth 2.0 | wallet = OAuth provider · dApp = OAuth consumer |
-| Twilio SMS | Abstracts away the complexity of the underlying infrastructure |
+| Analytical analogy | Corresponding abstraction in embedded wallets | Limits of the analogy |
+|---|---|---|
+| Payment API | Hides chain / signer / transaction details behind an SDK / API | Card payments and on-chain signing differ in finality, custody and chargebacks |
+| Account-linking API | Connects user identity, wallet and application authorization | Bank account linking is not the same as key control / asset ownership |
+| OAuth-style authorization | Allows an application to use wallet capabilities within a user-approved scope | Wallet permission types, revocation and asset risk are more implementation-dependent than OAuth scopes |
+| Communications API | Presents differences among chains / providers through a unified interface | A reversible message-delivery failure and an irreversible asset transfer do not share the same safety model |
+
+Sources: ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/]
+
 
 **Privy = "Stripe of Web3  wallets"** has been the core of a16z / Sequoia's investment logic since 2024.Q4  · validated by AWS AgentCore in 2025-2026 .
 

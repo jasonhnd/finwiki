@@ -1,11 +1,11 @@
 ---
 source: agent-economy/embedded-wallet-custody-bankruptcy-mechanics
-source_hash: 57b3bbb2bbce57c5
+source_hash: b5d2366ae412523a
 lang: ja
 status: machine
 fidelity: ok
 title: "組込型ウォレットのカストディ破綻メカニクス · Privy / Stripe / Coinbase CDP / AWS Bedrock が破綻した場合、エンドユーザー資金はどうなるか"
-translated_at: 2026-06-02T11:47:37.320Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 組込型ウォレットのカストディ破綻メカニクス · Privy / Stripe / Coinbase CDP / AWS Bedrock が破綻した場合、エンドユーザー資金はどうなるか
@@ -18,12 +18,15 @@ translated_at: 2026-06-02T11:47:37.320Z
 
 ## 四つの破綻シナリオ
 
-| シナリオ | 何が破綻するか | ユーザー資金への直接的影響 | オペレーション上のリカバリーの問題 |
+| Failure scenario | 利用不能になり得る layer | 仮定してはいけない事項 | Deployment 前に必要な evidence |
 |---|---|---|---|
-| 1. Privy / Magic / CDP が支払不能になる | SDK ベンダーの企業レベルのオペレーションが停止 | 基盤チェーンの残高には影響なし | ユーザーはプロバイダーのサーバー側シャードなしで MPC 署名を再構築できるか? |
-| 2. Stripe (Privy の親会社) が第 11 章に入る| 企業の親会社が破産中 | ウォレットアドレスには直接の影響なし; ウォレットは (大半の製品構成において) Stripe で法定通貨をカストディしていない | Privy の TEE は DIP ファイナンスの下で稼働を続けるのか、それとも破産裁判所が売却を強制するのか? |
-| 3. Coinbase が第 11 章に入る| CDP の親会社が破綻; Coinbase ウォレット (消費者向け) と CDP (SDK) のオペレーションは異なる影響を受ける | Coinbase ウォレット (消費者向け) はセルフカストディ — オンチェーンのアドレスは影響を受けない。Coinbase カストディ / Coinbase Prime (機関カストディ) は別個の適格カストディアンエンティティ内 — これも法的に分離。ユーザー資金がリスクにさらされる問題が最も大きいのは **Coinbase Exchange** の残高であり、これは組込型ウォレットのカテゴリではない | CDP 管理のスマートウォレットについて、ユーザーは CDP 側のサーバーシャードなしで署名できるか? |
-| 4. AWS Bedrock / AWS TEE の障害またはシャットダウン | 一つの MPC シャードを保持する基盤 TEE インフラが利用不能になる | 障害が一時的なら、TEE が回復し次第ユーザーは署名する。恒久的なら (AWS には前例がない)、リカバリー可能なデバイス上またはクラウドのシャードを持つユーザーは生き延びる | プロバイダーは、サーバー側シャードを別のクラウド / ハードウェアエンクレーブへ移行する TEE ポータビリティ計画を維持しているか? |
+| **Wallet-infrastructure provider の insolvency / shutdown** | API、signer service、policy engine、recovery service、support | on-chain address が残ることは user が valid signature を作れる証明ではない | key / share ownership、export path、recovery ceremony、escrow / continuity plan、tested migration |
+| **Provider parent-company の insolvency** | shared staff、contract、cloud account、funding、acquired product operation | corporate separation、bankruptcy remoteness、uninterrupted service は product branding から推定できない | contracting entity、asset / IP ownership、customer-fund treatment、service continuity、legal opinion |
+| **Cloud / TEE / HSM outage** | signing、attestation、authentication、storage の一部または全部 | required share / policy service が offline なら「MPC」だけでは availability を保証しない | threshold、independent failure domain、backup / restore、regional failover、recovery-time test |
+| **User device / recovery-share loss** | user-controlled signer または recovery factor | provider-side share だけでは意図的に署名不能な場合がある | recovery quorum、social / cloud backup risk、rotation、lost-device process、irreversible-loss disclosure |
+
+Sources: ^[https://docs.privy.io/security] ^[https://docs.cdp.coinbase.com/get-started/security] ^[https://magic.link/docs/wallets/security]
+
 
 四つすべてのシナリオで **オンチェーンのウォレットアドレスは存続する** — それは SDK ベンダーの企業ステータスを意に介さない、決定論的に公開鍵から導出された文字列である。破綻しうるのは **有効な署名を組み立てる能力** であり、それは生き残ったシャードに依存する。
 
@@ -69,17 +72,19 @@ translated_at: 2026-06-02T11:47:37.320Z
 
 2026半ばの時点で、いずれの主要な管轄にも、組込型ウォレットのエンドユーザー資金に対する SIPC 同等のレジームは存在しない。最も近いアナログ:
 
-| レジーム | 何をカバーするか | 組込型ウォレットがスコープ内かどうか |
+| Regime / authority | 公開 protection または regulatory scope | Embedded-wallet analysis boundary |
 |---|---|---|
-| FDIC ($250K の預金者ごと・保険対象銀行ごとの標準的最大預金保険) | 銀行預金 | はい、パススルーを伴うパートナー銀行 FBO 口座を通じた **法定通貨側のレッグ** において |
-| FDIC パススルー (12 CFR 第 370部) | 識別可能な顧客のために非銀行が保有する銀行残高 | はい、非銀行の仲介者 (Stripe 等) が記録保持要件を満たすことを条件として |
-| SIPC ($500K のカバレッジ、うち $250K は現金が可) | SIPC 加盟ブローカーディーラーで証券取引において保有される証券および現金 | いいえ、組込型ウォレットはブローカーディーラー口座ではない |
-| Coinbase NY 限定目的トラストチャーター (NYDFS) | Coinbase カストディ Trust の機関カストディ | 部分的 — Coinbase カストディ に適用され、CDP の組込型ウォレットには適用されない |
-| 米国 OCC / SAB 121 (2025 年1月に SAB 122により撤回された SAB 121 ) | 銀行のバランスシート上の暗号資産のカストディ | カストディを提供する銀行に関連; エンドユーザーへの直接の保護ではない |
-| GENIUS Act §501 (米国) | ステーブルコイン発行体の準備金と分別 | USDC / USDB / 同等の準備金に適用され、ウォレットプロバイダーには適用されない |
-| FCA 暗号資産登録 + セーフガーディング規則 (英国) | 来たる英国レジームの下のカストディアル・ウォレットプロバイダーとステーブルコイン企業 | 英国所在のウォレットプロバイダーに適用される; 組込型ウォレットのベンダーは通常、これらを避けるためにカストディを設計から外す |
-| FSA 日本暗号資産交換業 (Crypto Asset Exchange) | 顧客の暗号資産を保有する VASP | 顧客の暗号資産を「保有」しないよう設計された組込型ウォレットは分類を回避 — [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX integration]] を参照 |
-| MAS シンガポール Payment Services Act | DPT (デジタル決済トークン) サービスプロバイダー | DPT を保有または送信する組込型ウォレットのベンダーはスコープ内; 鍵に一切触れない純粋な SDK ベンダーはスコープ外でありうる |
+| **FDIC deposit insurance** | eligible deposit を insured depository institution で、ownership / recordkeeping rules に従い保護 | qualifying fiat deposit arrangement に限る。on-chain token や wallet software は保証しない |
+| **FDIC pass-through treatment** | deposit / record が applicable requirement を満たす場合に beneficial owner を認識し得る | insured bank、account title、record、custodial chain、各 customer の eligibility を確認。「FBO」の表記だけでは不十分 |
+| **SIPC** | failed SIPC-member broker-dealer が customer のため保有していた missing cash / securities を statutory limit 内で保護 | standalone embedded wallet は通常対象外。scope は member broker と customer property に依存 |
+| **Entity-specific trust / custody charter** | named custodian と charter / customer agreement の対象 service を規制 | parent / affiliate の charter は別 developer-wallet product を自動的に cover しない |
+| **SEC SAB 122 / custody accounting guidance** | SAB 121 rescission 後の accounting / disclosure consideration | accounting guidance は deposit insurance、SIPC protection、recovery guarantee ではない |
+| **UK FCA cryptoasset regime** | registration / authorization、conduct / safeguarding duty は activity と effective rule に依存 | entity、service、custody / control、territorial scope を特定。SDK label は classification を決めない |
+| **Japan FSA cryptoasset / payment regimes** | registration、segregation、user-protection duty は regulated activity に依存 | 誰が key / asset を control し transfer / exchange を行うか分析。「non-custodial」の marketing は決定的でない |
+| **Singapore Payment Services Act / MAS rules** | licensing / safeguarding duty は payment / DPT service に依存 | 選択 configuration の possession / control、transmission、customer relationship、exemption を分析 |
+
+Sources: ^[https://www.fdic.gov/resources/deposit-insurance/] ^[https://www.sipc.org/for-investors/what-sipc-protects] ^[https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122] ^[https://www.fca.org.uk/firms/cryptoassets] ^[https://www.fsa.go.jp/en/policy/payments/index.html] ^[https://www.mas.gov.sg/regulation/payments]
+
 
 パターンは一貫している: **主要な管轄のいずれも、組込型ウォレットのエンドユーザー資金に特化した SIPC 型の保険スキームを構築していない**。規制上の賭けは、組込型ウォレットの設計が本質的に問題を回避する (ユーザーは常に一つのシャードを支配し、プロバイダーは決して資産を保有しない) というものである。
 

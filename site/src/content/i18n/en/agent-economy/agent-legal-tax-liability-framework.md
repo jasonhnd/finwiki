@@ -1,11 +1,11 @@
 ---
 source: agent-economy/agent-legal-tax-liability-framework
-source_hash: c30da143b72cba98
+source_hash: 3ea209d6821de242
 lang: en
 status: machine
 fidelity: ok
 title: "AI agent legal and tax liability framework · who is liable, how is agent income taxed"
-translated_at: 2026-05-30T16:40:11.491Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # AI agent legal and tax liability framework · who is liable, how is agent income taxed
@@ -107,13 +107,16 @@ A subtler edge case appears when the **end user** mandates the agent via [[agent
 
 ## Cross-jurisdictional comparison matrix
 
-| Jurisdiction | Regulator stance on agent personhood | Liability default | Tax treatment of agent income |
+| Jurisdiction | Relevant public regimes | Questions that must be resolved for a deployment | What the cited materials do not establish |
 |---|---|---|---|
-| US (SEC / CFTC / FinCEN / FTC / IRS) | No personhood; agent is firm tool | Deployer (with consumer fraud overlay from FTC) | Deployer income; subject to firm-level tax + crypto-asset reporting under 1099-DA |
-| UK (FCA / PRA / HMRC) | No personhood; SMCR senior manager accountable | Deployer; senior manager personally on the hook for systemic failures | Deployer income; VAT applies to deployer-as-supplier |
-| Japan (FSA / NTA) | No personhood; 委任契約 frame treats agent as 受任者 only if a person | Deployer (regulated firm) | Deployer income; 消費税 applies to deployer-as-supplier; CARF + crypto reporting via VASPs |
-| Singapore (MAS / IRAS) | No personhood; Veritas framework holds firm accountable | Deployer (regulated firm) | Deployer income; GST applies to deployer-as-supplier |
-| EU (AI Act + ESMA / EBA / EIOPA + member-state tax) | No personhood; deployer obligations under AI Act Art. 26 | Deployer (with provider liability for system defects) | Deployer income at member-state level; cross-border VAT under EU rules |
+| **United States** | Activity-specific SEC / CFTC / FinCEN / FTC rules, contract / agency law and IRS tax rules | Who is principal, adviser / broker / money transmitter, record owner and taxpayer; what the product terms allocate | A universal AI-agent liability waterfall or a single tax treatment for every transaction |
+| **United Kingdom** | FCA / PRA rules, SMCR where applicable, contract law and HMRC tax rules | Which regulated entity operates the system, who approves decisions, and who receives / supplies the income-producing service | Automatic personal liability for every senior manager or a general AI-agent tax rule |
+| **Japan** | FIEA / Banking Act and other activity rules, Civil Code relationships and NTA tax guidance | Whether the deployer performs a regulated act, how authority is granted, who owns assets / income and what records are required | That software itself becomes a legal mandatary or taxpayer |
+| **Singapore** | MAS activity / technology-risk rules, contract law and IRAS tax rules | Licensing, outsourcing / model governance, customer authority, beneficial ownership and GST / income characterization | A blanket rule covering all autonomous-agent business models |
+| **European Union** | EU AI Act plus sectoral financial law, civil-liability rules and member-state tax law | AI Act role classification, regulated activity, human oversight, contractual allocation and member-state tax nexus | A harmonized EU rule making an AI agent a legal person or taxpayer |
+
+Sources: ^[https://www.sec.gov/] ^[https://www.cftc.gov/] ^[https://www.irs.gov/] ^[https://www.fca.org.uk/] ^[https://www.gov.uk/government/organisations/hm-revenue-customs] ^[https://www.fsa.go.jp/en/] ^[https://www.nta.go.jp/english/] ^[https://www.mas.gov.sg/] ^[https://www.iras.gov.sg/] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689]
+
 
 The convergence is striking: **no major jurisdiction has departed from deployer accountability**, and even the EU's most AI-specific legislation reinforces rather than disrupts the existing personhood framework.
 

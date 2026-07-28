@@ -1,12 +1,12 @@
 ---
 source: agent-economy/agent-driven-market-data-interpretation-pipeline
-source_hash: ad20df922e61baaa
+source_hash: aa94b86897e210b2
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エージェント駆動型マーケットデータ解釈パイプライン · フィード → LLM → シグナル → トレーディングシステム"
-translated_at: 2026-06-26T08:32:15.191Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # エージェント駆動型マーケットデータ解釈パイプライン · フィード → LLM → シグナル → トレーディングシステム
 
@@ -38,15 +38,16 @@ translated_at: 2026-06-26T08:32:15.191Z
 
 **LLM の選択肢**(2026-05):
 
-| LLM | 出自 | 金融チューニング済みか | 採用先(公表) |
+| Model route | 引用可能な公開 provenance | 金融 specialization | Production validation boundary |
 |---|---|---|---|
-| **BloombergGPT** | Bloomberg 内製、50B パラメータ、40年以上の Bloomberg 金融コーパスで学習 | はい(金融のみの学習) | Bloomberg Terminal AI 機能(製品化 2024-2025);外部ライセンスなし |
-| **Anthropic Claude(Opus / Sonnet)** | Anthropic フロンティアモデル | いいえ(汎用)、ただしファインチューニング可能 | BBVA、Mizuho、Goldman の開発ツール;個別の HF リサーチ |
-| **OpenAI GPT-4o / GPT-5** | OpenAI フロンティアモデル | いいえ(汎用)、ただしファインチューニング可能 | Morgan Stanley AI アシスタント、JPM SpectrumGPT(派生版)、BofA パイロット |
-| **JPM 内製 LLM** | JPMorgan 内製、内部コーパスで学習 | はい | JPM IndexGPT、SpectrumGPT |
-| **Google Gemini Pro / Ultra** | Google フロンティアモデル | いいえ、ただし Vertex AI チューニング | Citi パイロット公表済み |
-| **Cohere Command R+** | Cohere 汎用モデル | RAG / 検索に特化 | BlackRock Aladdin Copilot 周辺 |
-| **NEC cotomi / NTT tsuzumi / PFN PLaMo** | 日本国内モデル | 一部金融特化 | Mizuho / MUFG / SMBC 内部パイロット |
+| **BloombergGPT research model** | BloombergGPT paper と Bloomberg の公開 AI material | 公開論文では financial-language task 向けに training / evaluation | research paper から external API availability や特定 Terminal production model を推定しない |
+| **General frontier API** | Anthropic、OpenAI、Google の provider model card / API documentation | general-purpose。金融での挙動は grounding、prompt、tool、evaluation に依存 | exact model ID / date を固定し、licensed かつ time-aligned な financial data で評価する |
+| **Cloud-hosted tuned / grounded model** | cloud provider documentation と顧客自身の tuning / retrieval configuration | product support の範囲で enterprise data に適応可能 | base model、retrieval corpus、access control、region、change policy を記録する |
+| **Institution-specific model** | 当該機関の公開 technical paper または product disclosure | finance-specific の可能性はあるが scope は異なる | product name や trademark は architecture、training corpus、production use の証拠ではない |
+| **Domestic-language model** | vendor model card と benchmark report | 対象となる日本語金融 task で language / domain performance を測定する必要がある | licensing、tokenizer / context limit、data residency、human-review control を確認する |
+
+Sources: ^[https://arxiv.org/abs/2303.17564] ^[https://www.bloomberg.com/professional/products/ai/] ^[https://docs.anthropic.com/] ^[https://platform.openai.com/docs/models] ^[https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models]
+
 
 **金融チューニング済み vs 汎用が重要な理由**:ウェブデータで学習した汎用 LLM は、何百万もの該当文書でファインチューニングされたモデルと比べて、10-Q / 有価証券報告書 / IFRS 財務諸表の解析が弱い。BloombergGPT の 2023 論文(arxiv.org/abs/2303.17564)は、同じパラメータ数の汎用 LLM に対して、金融固有のベンチマークで顕著な優位性を実証した。トレードオフは、BloombergGPT が外部ライセンスされていないことである;同等の能力を望む企業は、Bloomberg の製品化された Terminal AI 機能をライセンスするか、自社の金融コーパスで汎用モデルをファインチューニングするかのいずれかが必要となる。
 

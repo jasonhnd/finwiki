@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/tokyo-tanshi
-source_hash: 9f6045db5f4416cd
+source_hash: 23c81eb0cc9be788
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Tanshi (東京短資)"
-translated_at: 2026-06-18T23:59:13.092Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Tokyo Tanshi (東京短資)
@@ -46,6 +46,9 @@ The 3  major tanshi firms are the 3 社 that survived the postwar reorganization
 | **BOJ open-market-operation counterparty** | Participation as a counterparty in BOJ open-market operations (short-term JGB purchases, funds-supplying against pooled collateral, JGB sell/repo, etc.) | BOJ |
 | **Corporate FX brokerage** | Interbank intermediation of large-lot FX, corporate hedging | domestic banks, foreign banks, treasury departments of large corporations |
 | **Short-term money-market product-related services** | Repo-transaction intermediation, bond lending/borrowing intermediation, etc. | same as above |
+
+Sources: ^[東京短資 公式サイト: https://www.tokyotanshi.co.jp/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm; 日本銀行「オペレーション」: https://www.boj.or.jp/mopo/measures/mkt_ope/index.htm.]
+
 
 Tanshi operators do not take large proprietary trading positions; **intermediation fees (brokerage) are the main revenue**. Under negative interest rates, interest-rate spreads disappeared and call-market balances plummeted, so call-intermediation fees dried up → diversification of revenue sources through non-call businesses such as corporate FX had become a common challenge across the industry.
 

@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/rcc
-source_hash: ec606054c243b65a
+source_hash: 9c2234a240f683c0
 lang: ja
 status: machine
 fidelity: ok
 title: "整理回収機構 (RCC)"
-translated_at: 2026-06-15T03:48:21.922Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 整理回収機構 (RCC)
@@ -29,6 +29,9 @@ translated_at: 2026-06-15T03:48:21.922Z
 | Formed | 1999-04、住宅金融債権管理機構 + 整理回収銀行 の合併 |
 | Legal/policy basis | 金融再生・預金保険の枠組み下の resolution vehicle (米 RTC をモデルとした株式会社形態) |
 | Core role | Resolution, collection, special servicing |
+
+Sources: ^[FSA bank-license workbook: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; RCC company profile: https://www.kaisyukikou.co.jp/intro/intro_001.html; Deposit Insurance Corporation RCC overview: https://www.dic.go.jp/yokinsha/page_000132.html.]
+
 
 RCC は「銀行」カテゴリに載るが、retail deposits や corporate lending を競う銀行ではない。預金保険機構の子会社として、破綻処理・債権回収の専用 vehicle である点が境界の本質。
 

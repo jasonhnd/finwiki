@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/insurance-license-and-solvency
-source_hash: 7723f65c094783cb
+source_hash: 92a5acb7d0179554
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の保険免許とソルベンシーのルート"
-translated_at: 2026-06-15T03:48:21.815Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本の保険免許とソルベンシーのルート
@@ -27,6 +27,9 @@ translated_at: 2026-06-15T03:48:21.815Z
 | Insurance agent / solicitor | Insurance Business Act / FSA guideline / company disclosures | Who solicits or explains insurance for an insurer | [[insurance/life-insurance-channel-mix]], bank / retailer / direct channels |
 | Insurance broker | FSA insurance broker list and FSA guideline | Who mediates insurance contracts as a broker rather than acting as insurer-side agency | [[insurance/insurance-agency-and-brokerage-japan]] |
 | ソルベンシー / ESR | FSA economic-value ソルベンシー hub plus company disclosure | How insurer capital adequacy is measured and disclosed | [[insurance/economic-value-based-solvency]], [[insurance/esr-economic-value-solvency]] |
+
+Sources: ^[Insurance Business Act: https://laws.e-gov.go.jp/law/407AC0000000105; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON; FSA insurance supervisory guideline: https://www.fsa.go.jp/common/law/guide/ins/; FSA economic-value-based solvency hub: https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html.]
+
 
 ## 引受と販売 (引受 And Distribution)
 

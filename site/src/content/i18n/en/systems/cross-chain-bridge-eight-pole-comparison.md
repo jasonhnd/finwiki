@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-bridge-eight-pole-comparison
-source_hash: daa92949214ae880
+source_hash: 4f3751a8402e543a
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-Chain Bridge 8 -Pole Comparison Matrix · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM"
-translated_at: 2026-06-15T04:09:41.201Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Cross-Chain Bridge 8 -Pole Comparison Matrix · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM
@@ -196,18 +196,21 @@ Note: this matrix ≠ [[systems/cross-chain-bridge-security-insurance-matrix-202
 
 ## Big comparison matrix table
 
-**8  protocols × 9  dimensions comparison** (2026-Q2  status):
+**Architecture comparison across 8 protocols** (excluding dynamic TVL, supported-chain counts, latency and adoption counts):
 
-| Protocol | Trust model | TVL (defillama) | Chains | Message model | Validation latency | Fee model | Native asset | Security incidents | Institutional pilots |
-|---|---|---|---|---|---|---|---|---|---|
-| **IBC (Cosmos)** | Light-client (chain ↔ chain mutual verification) | ~$2-3B | ~100 Cosmos appchain + cross-ecosystem v2 | Channel + Connection + relayer transport | 6-30s | Free at protocol · fee middleware optional | n/a (borrows hub / appchain token) | None (2021+) | Few directly · internally dYdX v4 / INJ / Noble |
-| **CCTP V2 (Circle)** | Native burn-mint · Circle attester | n/a (no locking) · ~$50B/mo throughput | 18+ chains | Burn → attest → mint + Hooks callback | Fast Transfer 8-20s · V1 was 10-20min | V2 small fast-transfer fee + Hooks gas | n/a (USDC only) | None (2023+) · 2024 6h outage 0 loss | Mastercard · Visa · Stripe · Coinbase Inst. |
-| **Chainlink CCIP** | Oracle DON (16-of-31) + RMN independent veto | ~$1B + msg-only volume | 30+ chains (quality > quantity) | Lane-based · GMP + Programmable Token Transfer | 10-30min | LINK or native · DON + RMN + dest gas | LINK (~$2B staked) | None (2023+) · v1.5 false positive no loss | SWIFT · DTCC · J.P. Morgan Kinexys · Mastercard CBDC |
-| **Wormhole** | 19-of-19 Guardian + 2024 ZK Verifier · NTT/CCTP integ | ~$1.5B | 35+ chains | GMP (VAA Verifiable Action Approval) | 5-15min (Solana ↔ ETH remains slower) | Destination gas relay · Guardian free at msg | W token (2024) · slashing terms not publicly specified in the referenced public materials | **2022 $325M Solana (Jump backstop)** · 2024 ZK remediation | Medium — Securitize · Backed Finance RWA |
-| **Hyperlane** | Permissionless ISM (multisig/EL/ZK/opt) | ~$2B | 70+ chains · permissionless deploy | Mailbox + ISM verify + Mailbox deliver | 30s-2min (multisig) · 5-10min (ZK) | Source gas + dest relay + ISM-specific | HYP (2024 · governance) | None protocol · 2024 long-tail misconf $1.2M | Few · mainly modular rollup eco |
-| **LayerZero v2** | DVN M-of-N (LZ Labs/Google/Polyhedra default) | ~$8B | 70+ chains | Endpoint + DVN + Executor · ULN dest verify | 2-5min default · 30s single DVN | Native fee · DVN + Executor independent | ZRO (2024 · governance) | None protocol (2022+) · 2024 DVN bug 0 loss | Medium · Google DVN is enterprise anchor |
-| **Axelar** | 75-validator PoS (Tendermint) · 2/3 quorum · GMP+ITS | ~$3.5B | 60+ chains | GMP via Axelar hub · ITS canonical token | 30s-2min | AXL or dest native · validator + dest gas | AXL (~$300M staked) | None (2022+) · 2024 ITS bug $200K bounty | Medium · Centrifuge · Azure · Cosmos institutional |
-| **Polkadot XCM** | Shared-security relay (~300 NPoS validators) | ~$1B intra-eco | ~50 parachain + early cross-eco | UMP / DMP / HRMP via relay chain | ~12s HRMP · XCMP future 6s | Parachain-defined (DOT or token) · Asset Hub canonical | DOT (relay staking) · USDT/USDC native | None XCM protocol (2022+) · Acala app-level not XCM | UK RTGS pilot · Euroclear · JAM settlement narrative |
+| Protocol | Verification / trust boundary | Core messaging and asset model | Execution / relay | Main responsibilities retained by the integrator |
+|---|---|---|---|---|
+| **IBC (Cosmos)** | Light clients of connected chains and IBC verification rules | Packets over clients / connections / channels | Relayers carry packets and proofs | Configure client updates, timeouts, channels and application permissions |
+| **CCTP (Circle)** | Circle attestation service and supported domains | USDC burn → attestation → mint; messaging features follow the specification for each version | The caller or a relayer executes source / destination transactions | Check finality threshold, message replay protection, supported chains and fees |
+| **Chainlink CCIP** | CCIP decentralized oracle network and independent risk-management layer | Arbitrary messaging and token transfer | Router / off-ramp handles destination execution | Check lanes, token pools, receiver access controls and rate limits |
+| **Wormhole** | Guardian-signed VAAs and each integration contract | Core messaging and application-specific models such as token bridge / NTT | Relayer is optional; receiving application verifies VAA and emitter | Check emitter, consistency level, upgrade authority and relayer fallback |
+| **Hyperlane** | Application-selected ISM | Messages through Mailbox; Warp Route is a token-specific configuration | Relayer delivers messages and can be combined with a gas-payment hook | Select ISM, validators, hooks, relayer and upgrade keys |
+| **LayerZero V2** | OApp-configured DVN set and MessageLib | OApp messages / OFT over Endpoint | After verification, a permissionless Executor or manual execution | Align send / receive configuration, use multiple DVNs and protect owner / delegate keys |
+| **Axelar** | Axelar-network validator consensus and gateway contracts | GMP and Interchain Token Service | Network / relayer and gas service advance the destination call | Check gateway, gas, destination contract and token-manager permissions |
+| **Polkadot XCM** | XCM format interpreted across consensus systems and each chain's execution rules | Instruction sequences, including asset movements | Route depends on the connection type, such as UMP / DMP / HRMP | Configure asset location, weight / fee, barriers and origin conversion |
+
+Sources: ^[https://ibc.cosmos.network/] ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.chain.link/ccip] ^[https://docs.wormhole.com/] ^[https://docs.hyperlane.xyz/] ^[https://docs.layerzero.network/v2] ^[https://docs.axelar.dev/] ^[https://wiki.polkadot.network/]
+
 
 **How to read the matrix**:
 - Horizontally, view the 9 -dimension institutional profile of 1  a protocol · vertically, view the same-dimension differences across 8  protocols

@@ -1,12 +1,12 @@
 ---
 source: trade/letter-of-credit-documentary-mechanism
-source_hash: f8f131d9c46b4f93
+source_hash: f2bcf6592bdb1c0a
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Letter of credit (documentary credit) — the trade-settlement mechanism"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Letter of credit (documentary credit) — the trade-settlement mechanism
 
@@ -77,6 +77,9 @@ The L/C is not primarily a creature of statute; it runs on a privately maintaine
 | ISP98 | A separate rule set typically used for **standby** letters of credit (which function more like guarantees) |
 | URDG 758 | ICC rules for **demand guarantees** — a related but distinct instrument |
 
+Sources: ^[ICC trade-finance rules overview: https://iccwbo.org/business-solutions/trade-finance/; ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC eUCP version 2.1 page: https://iccwbo.org/news-publications/policies-reports/eucp-version-2-1-icc-uniform-customs-and-practice-for-documentary-credits/.]
+
+
 Because the rules are incorporated by reference rather than imposed by law, their authority comes from near-universal banking adoption. This makes the L/C one of the clearest examples of a globally harmonised, industry-governed financial standard — a contrast with the state-anchored frameworks documented across [[policy-finance/INDEX|policy-finance]].
 
 ## Common credit variants
@@ -92,6 +95,9 @@ Because the rules are incorporated by reference rather than imposed by law, thei
 | Revolving | Reinstates automatically for repeated shipments under one facility |
 | Red clause | Permits a pre-shipment advance to the beneficiary |
 | Standby | Pays only if the applicant **fails** to perform — economically a guarantee, usually under ISP98 |
+
+Sources: ^[ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC Academy documentary-credit terminology guide: https://academy.iccwbo.org/international-trade/article/documentary-credits-rules-guidelines-terminology/.]
+
 
 ## Where the L/C sits in the trade-finance and settlement stack
 

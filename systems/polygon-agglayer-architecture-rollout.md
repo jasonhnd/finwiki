@@ -3,9 +3,9 @@ title: Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統�
 aliases: [polygon-agglayer-architecture, agglayer-rollout, polygon-cdk-agglayer, polygon-pol-business-model, agglayer-partner-chains, polygon-pos-to-agglayer, polygon-zk-aggregation]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, polygon, agglayer, zk, l2, polygon-cdk, pol, matic, layer2]
 status: active
@@ -14,6 +14,10 @@ sources:
   - https://polygon.technology/blog/agglayer-v0-2
   - https://docs.polygon.technology/cdk/
   - https://polygon.technology/blog/migrate-matic-to-pol
+  - https://docs.optimism.io/stack/getting-started
+  - https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction
+  - https://docs.zksync.io/zksync-protocol/rollup/overview
+  - https://docs.eclipse.xyz/
   - https://l2beat.com/scaling/projects
   - https://defillama.com/chain/Polygon
   - Polygon Labs blog & GitHub
@@ -123,14 +127,15 @@ AggLayer は 1 回のリリースではなく、**継続的にイテレーショ
 
 ## その他の RaaS / マルチチェーンプロトコルとの競合
 
-| 観点 | Polygon CDK / AggLayer | OP Stack / Superchain | Arbitrum Orbit | zkSync ZK Stack | Eclipse / Solana 系 |
-|---|---|---|---|---|---|
-| 主要 prover / コンセンサス | ZK(Plonk) + Pessimistic | Optimistic + Fault Proof | Optimistic + BoLD | ZK(Boojum) | SVM + Celestia |
-| 既知の展開チェーン数 | 5-10 active | 50+ (Base / OP / World / Zora / Mode 等) | 20+ (Xai / Sanko / DeGen 等) | 5-10 | 1-3 |
-| 旗艦 chain | (なし) | Base | Arbitrum One | zkSync Era | Eclipse Mainnet |
-| Unified Bridge | あり(AggLayer Unified Bridge) | なし(各 OP chain 独立) | なし(各 Orbit chain 独立) | Hyperchain shared bridge(roadmap) | 単一チェーン中心 |
-| 共有 sequencer | (なし) | 計画(2026+) | (なし) | (なし) | (なし) |
-| RaaS トップサプライヤー | Polygon Labs / Caldera | Conduit / Caldera / Alchemy | Conduit / Caldera / Alchemy | Matter Labs | (エコシステム内自社展開) |
+| Stack / reference | Proof / settlement model | Shared interoperability model | Custom-chain boundary | 導入時に確認する項目 |
+|---|---|---|---|---|
+| **Polygon CDK / AggLayer** | CDK chain の選択した ZK / validium 構成を settlement へ接続 | AggLayer が proof aggregation と unified bridge model を提供 | CDK configuration と AggLayer 接続範囲に依存 | prover、DA mode、bridge ownership、AggLayer version |
+| **OP Stack / Superchain** | optimistic rollup stack と fault-proof system | Superchain の標準化・interop components。利用可能範囲は現行 release を確認 | chain operator が sequencer、batcher、governance parameters を設定 | L1 contracts、fault-proof deployment、interop status、upgrade keys |
+| **Arbitrum Orbit** | Nitro-based custom L2 / L3。Rollup / AnyTrust 等の選択肢 | Orbit chain 間の共有性は採用する bridge / messaging に依存 | chain owner が settlement、DA、gas token、governance を構成 | parent chain、DA mode、validator / sequencer、bridge |
+| **ZK Stack** | ZK rollup / validium family と shared protocol components | shared bridge / interoperability の実装状態は現行 ZK Stack docs に従う | chain-specific prover、DA、governance configuration | proof system、DA、shared bridge version、upgrade authority |
+| **Eclipse** | SVM execution、Ethereum settlement、外部 DA を組み合わせる単一 L2 architecture | 一般的な RaaS family ではなく比較用の modular reference | Eclipse operator と採用 components の境界に依存 | settlement bridge、DA、sequencer、SVM compatibility |
+
+Sources: ^[https://docs.polygon.technology/cdk/] ^[https://docs.polygon.technology/agglayer/] ^[https://docs.optimism.io/stack/getting-started] ^[https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction] ^[https://docs.zksync.io/zksync-protocol/rollup/overview] ^[https://docs.eclipse.xyz/]
 
 Polygon CDK の AggLayer は **「stack 内 unified bridge」をコア差別化に位置づける唯一の方式**、ただし OP Stack のネットワーク効果が強すぎることが最大の対抗。
 

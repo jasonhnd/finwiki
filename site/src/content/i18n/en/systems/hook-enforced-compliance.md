@@ -1,11 +1,11 @@
 ---
 source: systems/hook-enforced-compliance
-source_hash: f760e5e1747f8cc6
+source_hash: 9afb20ea631598d0
 lang: en
 status: machine
 fidelity: ok
 title: "Hook-Enforced Compliance"
-translated_at: 2026-06-01T04:15:40.098Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Hook-Enforced Compliance
 
@@ -14,14 +14,18 @@ translated_at: 2026-06-01T04:15:40.098Z
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite）]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
-## 5 -Layer Defense Model (personal OS)
+## 5-layer public control-point model
 
-| Layer | Nature | Implementation |
-|---|------|------|
-| 1 | **Pre-injection** (hardest) | UserPromptSubmit hook → injects a HARD RULE reminder before response generation |
-| 2 | **Output-format enforcement** | Pre-flight Compliance Check → `🌅 Trigger: ...` in the first ROUTER line |
-| 3 | **Subagent self-attestation** | Subagent declares "Task() true launch" on the first line |
-| 4 | **Post-run audit** | AUDITOR Compliance Patrol (Mode 3) 7-class taxonomy |
+| Layer | Public hook / control point | Enforceable boundary | Implementation caution |
+|---|---|---|---|
+| 1 | `UserPromptSubmit` / `SessionStart` | Adds public rules or validation context before execution | Minimize injected content and include no secrets |
+| 2 | `PreToolUse` | Branches a tool call to allow / ask / deny | Test matcher, input schema and exit code / JSON response |
+| 3 | `PermissionRequest` | Handles permission decisions according to policy | Do not allow unconditionally; match the target resource and action |
+| 4 | `PostToolUse` / `PostToolUseFailure` | Records results and returns additional feedback | Cannot undo side effects that already occurred, so it is not a substitute for a pre-execution gate |
+| 5 | `Stop` / `SubagentStop` and regression tests | Blocks completion when required validation is missing and detects recurrence after configuration changes | State the policy for infinite hook loops, timeouts and fail-open / fail-closed behavior |
+
+Sources: ^[https://code.claude.com/docs/en/hooks]
+
 
 **Essence by layer**:
 - Layer 1  is **injection** (before the main contract)

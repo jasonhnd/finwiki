@@ -1,11 +1,11 @@
 ---
 source: systems/rollup-market-share-2026-arbitrum-optimism-base
-source_hash: 35531e7cdf6588c1
+source_hash: 1dcf621bed1a0222
 lang: en
 status: machine
 fidelity: ok
 title: "Rollup Market Share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea"
-translated_at: 2026-06-01T04:15:40.102Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Rollup Market Share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
 
@@ -293,17 +293,20 @@ This matrix compares 7  publicly operating mainstream L2 s · expands across 11 
 
 ## Big comparison matrix table
 
-**7  mainstream L2 rollups × 11  axes comparison** (2026-Q2  status):
+**Architecture snapshot of 7 L2 / rollups**. Measure market share, TVL, user counts, fees and revenue with live telemetry; this table does not fix those values:
 
-| Rollup | TVL May 2026 | Daily Active | Daily Tx | Sequencer Revenue | User Gas | DEX depth | Lending scale | RWA | Governance maturity | Ecosystem features | DA Layer |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Base (Coinbase)** | **~$18B (L2  leader)** | **3-5M (leader)** | 10-15M | $30-100M ARR | $0.0005-0.005 | Aerodrome $3-5B · Uniswap · Curve | Aave $2-4B · Morpho $500M-1B | Stripe USDC · PayPal PYUSD · Centrifuge | Stage 1 · SC 7/13 · 7d timelock | Consumer-heavy · meme/social/game · Coinbase Smart Wallet | L1 blobs only |
-| **Arbitrum** | ~$13B (second) | 1-2M | 4-6M | $30-70M ARR | $0.001-0.01 | GMX $1-2B perp · Uniswap · Camelot | Aave $2-3B · Radiant $500M | Relatively limited | Stage 1 · DAO+ARB · SC 9/12 · BoLD permissionless | **Stylus (Rust/C++)** · DeFi-heavy · Orbit L3 framework | L1 blobs + Orbit can choose AnyTrust/EigenDA |
-| **Optimism + Superchain** | ~$5B main chain · Superchain total ~$25B+ | 600k-1M main chain · Superchain 5-8M | main 2-3M · Superchain 15-25M | $30-60M ARR (including sharing) | $0.001-0.01 | Velodrome-led · Uniswap | Aave $1-2B · Sonne | Maker partial | Stage 1 · OP DAO + Citizen House · SC + 7d timelock | **OP Superchain federation ~30+ chain** · Worldcoin/Zora/Mode/Soneium | L1 blobs (main) · Mode EigenDA · some Celestia tests |
-| **zkSync Era** | ~$2.0B (ZK leader) | 400-700k | 2-3M | $15-30M ARR | $0.001-0.005 · **AA native** | SyncSwap · Maverick | Aave $300-500M | Limited | Stage 1 · ZK DAO · SC 9/15 · 21d timelock | DeFi + **AA native** · ZK Stack hyperchain (GRVT/Treasure/Cronos) | L1 blobs · hyperchain can choose EigenDA/Celestia |
-| **Linea (Consensys)** | ~$1.2B | 300-500k | 1-2M | $10-25M ARR | $0.002-0.01 | Lynex · Mendi medium | Aave $200-400M | MetaMask Institutional pilot | Stage 1 · Consensys-led · SC 7/13 · 7d timelock | **MetaMask integration** · Infura/Truffle toolchain | L1 blobs only (all on-chain stance) |
-| **Polygon zkEVM/AggLayer** | ~$800M (including AggLayer) | 150-300k main · AggLayer total 500k-1M | 500k-1M | $5-15M ARR | $0.001-0.005 | QuickSwap · Uniswap · Balancer | Aave $100-300M | **Franklin Templeton FOBXX pilot** · multiple enterprise pilots | Stage 1 · POL DAO · SC 7/13 · 7d timelock | DeFi + enterprise + **Polygon ID** · AggLayer federation | L1 blobs + Validium mode (DAC 7/9) |
-| **Scroll** | ~$700M | 100-200k | 500k-1M | $5-15M ARR | $0.005-0.02 | Aave/Uniswap/Pendle/GMX mainstream | Aave $200-400M | Limited · but L1 DA purity attracts some institutional activity | Stage 1 · Scroll Foundation · SC 7/13 · 7d timelock | DeFi-heavy · **Type 2 EVM-equivalent** · academic lineage (PSE) | L1 blobs only (explicitly no validium) |
+| Rollup | Execution / proof family | Settlement / DA | Ordering / upgrade boundary | Publicly documented characteristics | Items to verify live when comparing |
+|---|---|---|---|---|---|
+| **Base** | OP Stack optimistic rollup | Ethereum settlement / blob DA | Check sequencer, fault-proof deployment and upgrade keys in Base / OP documentation | Integration of OP Stack and Coinbase developer stack | TVL, transactions, fees, proof status and bridge / contract versions |
+| **Arbitrum One** | Nitro optimistic rollup and BoLD protocol | Ethereum settlement / data posting | Sequencer, delayed inbox, validators and upgrade authority | Nitro, Stylus and the Orbit ecosystem | TVL, transactions, fees, BoLD status and bridge / contract versions |
+| **Optimism Mainnet / Superchain** | OP Stack optimistic rollup | Ethereum settlement / blob DA | Sequencer, fault proofs and Superchain governance / upgrade model | OP Stack standards and Superchain components | Separate the individual chain from Superchain aggregates and check interoperability status |
+| **zkSync Era** | ZK rollup and EraVM / ZK Stack | Ethereum settlement / DA configuration | Check sequencer / prover / governance in current documentation and contracts | Protocol-level account abstraction and ZK Stack | Proof publication, DA mode, bridge and upgrade / emergency powers |
+| **Linea** | EVM-oriented ZK rollup | Ethereum settlement / data posting | Check sequencer / prover / upgrade roles in current Linea documentation | Emphasis on compatibility with Ethereum developer tooling | Proof status, DA, bridge and security-council / upgrade controls |
+| **Polygon zkEVM / AggLayer** | Evaluate ZK rollup separately from the AggLayer / CDK ecosystem | Ethereum settlement and per-chain DA mode | Separate operator / upgrade boundaries for the zkEVM chain and AggLayer / CDK | Proof aggregation and unified-bridge model | Product status, connected chains, proof / bridge version and DA mode |
+| **Scroll** | EVM-compatible ZK rollup | Ethereum settlement / data posting | Check sequencer / prover / upgrade roles in current Scroll documentation | EVM compatibility and ZK proof pipeline | Proof status, DA, bridge and upgrade / emergency controls |
+
+Sources: ^[https://docs.base.org/] ^[https://docs.arbitrum.io/] ^[https://docs.optimism.io/superchain] ^[https://docs.zksync.io/] ^[https://docs.linea.build/] ^[https://docs.polygon.technology/zkEVM/] ^[https://docs.scroll.io/]
+
 
 **How to read the matrix**:
 - **TVL ranking**: Base > Arbitrum > Optimism (main chain) > zkSync > Linea > Polygon zkEVM > Scroll · but if the whole Superchain is counted into Optimism, OP Superchain > Base > Arbitrum

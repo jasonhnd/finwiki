@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/deloitte-touche-tohmatsu
-source_hash: 0a849ce8f53404a7
+source_hash: 42b110ba269aaa04
 lang: en
 status: machine
 fidelity: ok
 title: "Deloitte Touche Tohmatsu LLC (Deloitte Touche Tohmatsu)"
-translated_at: 2026-06-18T23:59:13.108Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Deloitte Touche Tohmatsu LLC (Deloitte Touche Tohmatsu)
 
@@ -79,12 +79,15 @@ Note: the auditor of any individual company fluctuates over time. For the latest
 
 ## 6. Competitive relationships
 
-| Big 4 | Domestic brand | Strength axis (public basis) |
+| Big 4 | Domestic brand | Public-service focus in FinWiki analysis |
 |---|---|---|
-| Deloitte | **Tohmatsu** | M&A / FAS coordination, crypto-asset front-runner |
-| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | number of listed-company audits |
-| PwC | [[financial-regulators/pwc-aarata|あらた]] | global PwC network |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | financial-institution internal controls |
+| Deloitte | **Tohmatsu** | Audit and assurance, FAS coordination and digital assets |
+| EY | [[financial-regulators/ey-shinnihon|EY ShinNihon]] | Large listed companies and financial services |
+| PwC | [[financial-regulators/pwc-aarata|PwC Japan LLC]] | Global network and digital assets |
+| KPMG | [[financial-regulators/kpmg-azsa|KPMG AZSA]] | Financial services and internal controls |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; EY https://www.shinnihon.or.jp/services/financial-services/; PwC https://www.pwc.com/jp/ja/services/audit-assurance.html; KPMG https://kpmg.com/jp/ja/home/services/audit.html.]
+
 
 Tier 2: [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]], BDO Sanyu & Co. ^[extracted].
 

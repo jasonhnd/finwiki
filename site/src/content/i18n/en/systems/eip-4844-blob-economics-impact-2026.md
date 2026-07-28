@@ -1,11 +1,11 @@
 ---
 source: systems/eip-4844-blob-economics-impact-2026
-source_hash: f4f632fe4ae1969d
+source_hash: b4aca1ecaae3a453
 lang: en
 status: machine
 fidelity: ok
 title: "EIP-4844  blob economics and 2026  market impact · full view from Dencun to Pectra and Fusaka"
-translated_at: 2026-06-01T04:15:40.120Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # EIP-4844  blob economics and 2026  market impact · full view from Dencun to Pectra and Fusaka
 
@@ -78,13 +78,16 @@ Typical flow for an L2  sequencer submitting a batch to L1 :
 
 ### Comparison with calldata
 
-| Dimension | Calldata (pre-Dencun / still optional) | Blob (EIP-4844) |
+| Dimension | Calldata | Blob (EIP-4844) |
 |---|---|---|
-| Price | gas_per_byte × gas_base_fee (high) | blob_base_fee × 131072 × number of blobs / blob bytes (low, ~100x) |
-| Retention period | Permanent (state) | ~18  days (P2P prune) + permanent commitment |
-| EVM accessible | Yes (via CALLDATALOAD and other opcodes) | No (only through KZG point evaluation precompile) |
-| Use case | State access · onchain data consumption | rollup data availability · short-term reconstructability |
-| Fee market | Shared with user gas · congestion contagion | Independent base fee · no congestion contagion |
+| Fee market | Uses the execution-gas fee market | Uses an independent blob-gas fee market |
+| Data retention | Included in history as part of transaction / block data; it is not contract state itself | Retained temporarily by consensus clients, while the versioned hash / commitment remains in the block |
+| EVM access | Contracts can read it as transaction input during execution | Blob contents cannot be read directly by the EVM; `BLOBHASH` and the point-evaluation precompile handle commitments |
+| Main use | Input that contracts read during execution, or historical data | Rollup data availability |
+| How to read capacity / unit price | Depends on execution-gas demand | Depends on blob target / maximum and blob base fee; it is not a fixed multiple |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4844] ^[https://ethereum.org/en/roadmap/danksharding/]
+
 
 ### Initial Dencun launch period (2024-03 - 2024-Q2)
 
@@ -209,15 +212,17 @@ See [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer landsc
 
 ### Before vs after Pectra EIP-7691 
 
-| State | Pre-Pectra (Dencun) | Post-Pectra (2025-Q2+) |
+| Protocol item | At Dencun | After EIP-7691 |
 |---|---|---|
 | Blob target | 3 / block | 6 / block |
-| Blob max | 6 / block | 9 / block |
-| Max throughput | ~0.75 MB / 12s ≈ 5.4 GB/day | ~1.1 MB / 12s ≈ 8 GB/day |
-| Average blob fee | 5-50 gwei (volatile) | 1-5 gwei (most of the time) |
-| L2  sequencer cost | $20-100 / batch (volatile) | $5-30 / batch (stable) |
-| L2  user gas | $0.001-0.05  (spikes in high vol) | $0.0005-0.02  (further 30-50% decline after Pectra) |
-| Alt-DA price advantage | ~5-10x | ~3-5x |
+| Blob maximum | 6 / block | 9 / block |
+| Blob size | Unchanged | Unchanged |
+| Fee update fraction | Initial EIP-4844 value | Updated by EIP-7691 to reflect the higher target |
+| Directly supported effect | Initial blob capacity | Increased target and maximum |
+| Not directly inferable | USD-denominated batch cost, user gas or price difference from alt-DA | Do not assign fixed values without observing demand and the ETH price |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4844] ^[https://eips.ethereum.org/EIPS/eip-7691]
+
 
 ### Fusaka PeerDAS forecast (planned for 2026-Q4 )
 

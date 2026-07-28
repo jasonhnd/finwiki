@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/japan-trust-business-license-stack
-source_hash: a96a09e5d8bdb73e
+source_hash: 263b0fb78bf46239
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信託業ライセンス・スタック"
-translated_at: 2026-06-26T08:31:59.843Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本の信託業ライセンス・スタック
@@ -25,6 +25,9 @@ translated_at: 2026-06-26T08:31:59.843Z
 | 信託業法（信託業法、2004） | 誰が**業として**信託を引き受けることができ、いかなる参入規制の下に置かれるか。 | ライセンス / 登録の背骨。運用型対 管理型の信託会社、代理、および行為規制。 |
 | 兼営法（兼営法、1943） | 銀行その他の金融機関はいかにして信託業務を**併せて**営みうるか。 | 「信託銀行」が存在するためのルート。銀行は信託業務および兼営業務を営むための認可を取得する。 |
 
+Sources: ^[FSA trust-business hub and supervisory guideline: https://www.fsa.go.jp/policy/shintaku/index.html; https://www.fsa.go.jp/common/law/guide/shintaku.pdf; Trust Companies Association of Japan legal overview: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
+
+
 この三分法（信託法 / 信託業法 / 兼営法）は信託協会（Trust Companies Association of Japan）が用いる標準的な枠組みであり、ページを読む際には三者を分けて捉えること。
 
 ## レジーム・マップ
@@ -37,6 +40,9 @@ translated_at: 2026-06-26T08:31:59.843Z
 | 信託会社のために信託契約を締結する代理 / 媒介を行う | 信託契約代理業 — **登録** | 信託業法 | 信託会社のために行為する銀行・証券会社・販売会社 | 地方財務局「信託契約代理店」登録簿 |
 | **信託受益権**の販売または媒介 | **第二種金融商品取引業**（受益権はみなし有価証券） | 金融商品取引法 | 不動産受益権の取扱業者、ファンド販売会社 | [[financial-licenses/securities-license-stack|securities license stack]]；FSA FIBO リスト |
 | 大規模なカストディ / 資産管理信託 | 兼営法に基づく信託銀行ルート（管理 / カストディ / ファンド・サービシング） | 兼営法 + 信託業法 | [[trust-banks/custody-bank|カストディ Bank]]、[[trust-banks/master-trust-bank|Master Trust Bank]] | FSA「信託兼営金融機関」リスト；事業体開示 |
+
+Sources: ^[FSA trust-business hub: https://www.fsa.go.jp/policy/shintaku/index.html; FSA trust-company supervisory guideline: https://www.fsa.go.jp/common/law/guide/shintaku.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Kanto Local Finance Bureau trust-agency registry route: https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html.]
+
 
 ## 運用型対 管理型の区分信託業法の内部における決定的な境界線は、**受託者が信託財産の裁量的運用を行うか否か**である。
 
@@ -55,6 +61,9 @@ translated_at: 2026-06-26T08:31:59.843Z
 | 自主規制 / 業界 | 信託協会（信託協会） | 信託法 / 信託業法 / 兼営法 の枠組みと業界実務。 | 法定のライセンスそのもの。 |
 | 商品開示 | 事業体ページ、信託契約書類、EDINET / 公式商品ページ | 当該会社が現在その信託商品を提供しているか否か、およびそれに付随する開示事項。 | 一般的なライセンスに関する結論。 |
 
+Sources: ^[FSA trust-business hub and supervisory guideline: https://www.fsa.go.jp/policy/shintaku/index.html; https://www.fsa.go.jp/common/law/guide/shintaku.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Trust Companies Association of Japan: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
+
+
 ## 実務上のディシジョン・ツリー
 
 | 問い | 最初に確認すべき場所 | 次の確認 |
@@ -64,6 +73,9 @@ translated_at: 2026-06-26T08:31:59.843Z
 | この会社は信託契約の取りまとめのみを行っているか。 | 信託契約代理の登録。 | 地方財務局信託契約代理店登録簿；どの信託会社を代理しているか。 |
 | これは信託受益権の販売か。 | 信託業法ではなく、金融商品取引法の第二種金融商品取引業。 | [[financial-licenses/securities-license-stack|securities license stack]] および FSA FIBO リスト。 |
 | これは投資型の「特定信託契約」か。 | 信託ルートの上に重ねられる金融商品取引法の行為規制。 | 特定信託契約 の行為 / 適合性ルールが適用されるか否か。 |
+
+Sources: ^[This decision tree applies the categories in the FSA trust supervisory guideline and official registry routes: https://www.fsa.go.jp/common/law/guide/shintaku.pdf; https://www.fsa.go.jp/menkyo/menkyo.html; https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html.]
+
 
 ## JapanFG との関連
 
@@ -81,6 +93,9 @@ translated_at: 2026-06-26T08:31:59.843Z
 | 信託業務対 受益権の販売 | 信託受益権の販売は有価証券（金融商品取引法第二種）の行為であって、信託業法上の受託者活動ではない。 | 受益権の販売は [[financial-licenses/securities-license-stack|securities license stack]] へと振り分ける。 |
 | 信託法対 信託業法 | 私法上の信託関係は、業としての参入規制ではない。 | 実体的な信託と、業として受託者となるためのライセンスとを分けて扱う。 |
 | 「未掲載」対「無免許」 | あるリストに見当たらないことは、区分の誤りや表記の陳腐化を意味する場合がある。 | 無免許の状態であると断定するのではなく、「確認された情報源において基準日時点で未掲載」と記録する。 |
+
+Sources: ^[FSA trust-business hub: https://www.fsa.go.jp/policy/shintaku/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Trust Companies Association of Japan legal overview: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
+
 
 ## 調査チェックリスト
 

@@ -7,9 +7,9 @@ aliases:
   - "Bank of Japan monetary policy"
 domain: financial-regulators
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, BoJ, monetary-policy, money-market, tanshi, legal, central-bank]
 status: active
@@ -95,6 +95,8 @@ For JapanFG, BoJ monetary policy is not an abstract macro topic. It is a direct 
 | Tanshi companies | Call-market volume, O/N rate formation, money-market brokerage demand | Track whether rate normalization revives brokerage flow |
 | Payment / settlement infrastructure | BOJ current accounts, BOJ-NET, liquidity timing | Map settlement liquidity and account-access boundaries |
 | Legal / regulatory pages | BoJ Act, FSA-supervised licenses, financial-market control powers | Route statutory questions to [[financial-licenses/INDEX]] |
+
+Sources: ^[This is a FinWiki analytical routing table derived from the Bank of Japan's official policy, market-operations, and payments materials: https://www.boj.or.jp/en/mopo/outline/index.htm; https://www.boj.or.jp/en/mopo/measures/mkt_ope/index.htm; https://www.boj.or.jp/en/paym/market/.]
 
 The key analytical distinction: a higher policy rate can improve money-market economics, but it does not automatically recreate pre-QQE interbank activity if excess reserves remain abundant.
 

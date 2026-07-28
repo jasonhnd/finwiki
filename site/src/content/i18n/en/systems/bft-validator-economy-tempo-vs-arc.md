@@ -1,11 +1,11 @@
 ---
 source: systems/bft-validator-economy-tempo-vs-arc
-source_hash: 89b2cb80292de2f7
+source_hash: 1d8ef779c539d43c
 lang: en
 status: machine
 fidelity: ok
 title: "Tempo vs Arc · 2 paths for institutional-chain validator design"
-translated_at: 2026-06-01T04:15:40.170Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Tempo vs Arc · 2 paths for institutional-chain validator design
 
@@ -33,11 +33,14 @@ Comparison dimensions:
 
 | Dimension | Tempo | Arc |
 |---|---|---|
-| Validator count | 4  carefully selected | Evolving (PoA → 20-50 → ?) |
-| Decentralization path | Not pursued | Three-stage progression |
-| Concentration | Openly accepted | Covered by roadmap |
-| BFT fault tolerance | 1/4 (fragile) | Phase-dependent |
-| Core trade-off | Performance + reliability | Compliance launch + gradual opening |
+| Publicly stated primary purpose | L1 for payment workloads | L1 for stablecoin finance |
+| Design emphasis | High throughput, predictable fees and payment-oriented features | Design using stablecoins for gas, institutional privacy and integrations |
+| How to read validator / consensus claims | Verify validator count and participation conditions in current technical documentation and network configuration, not marketing summaries | Verify validator count and participation conditions against the launch stage and current technical documentation |
+| Governance assessment | Check the operator, upgrade authority and incident controls separately | Check the operator, upgrade authority and incident controls separately |
+| Comparison caveat | Do not infer a fixed validator count or long-term decentralization level from public materials | Do not infer stage-by-stage validator counts or an eventual decentralization level from public materials |
+
+Sources: ^[https://tempo.xyz/] ^[https://www.arc.io/] ^[https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance]
+
 
 ## Origin & evolution
 
