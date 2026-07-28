@@ -113,6 +113,7 @@ describe("required verification pipeline", () => {
     expect(allCommands).toContain("run index:search");
     expect(allCommands).toContain("assemble_static_publish.ts --out _site");
     expect(allCommands).toContain("required_publish_routes.ts --out _site");
+    expect(allCommands).toContain("run html:routes --out _site");
     expect(allCommands).toContain("run ai:audit --out _site");
     expect(
       commands.findIndex((command) => command.includes("run ai:audit")),
