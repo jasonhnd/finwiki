@@ -3,6 +3,7 @@
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
+import { AUDIT_ARTIFACT_DIR_NAME } from "../lib/markdown_helpers";
 
 const ROOT = path.resolve(import.meta.dir, "..");
 
@@ -11,6 +12,7 @@ const IGNORED_DIRS = new Set([
   ".github",
   ".templates",
   ".opinions",
+  AUDIT_ARTIFACT_DIR_NAME,
   "docs",
   "releases",
   "tools",

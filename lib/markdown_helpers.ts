@@ -4,6 +4,7 @@ import { dirname, relative, resolve, posix as pathPosix } from "node:path";
 
 export const SITE_URL = "https://finwiki.zksc.io/";
 export const GITHUB_BLOB = "https://github.com/jasonhnd/finwiki/blob/main/";
+export const AUDIT_ARTIFACT_DIR_NAME = "audit-artifacts";
 
 export const CONTROL_DOCS = new Set([
   "README.md",
@@ -20,6 +21,7 @@ export const EXCLUDED_WALK_DIRS = new Set([
   ".github",
   ".cache",
   ".opinions",
+  AUDIT_ARTIFACT_DIR_NAME,
   "docs",
   "site",
   "app",
