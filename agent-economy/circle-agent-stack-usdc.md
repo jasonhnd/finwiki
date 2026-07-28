@@ -10,10 +10,10 @@ aliases:
   - Circle Skills
 domain: agent-economy
 created: 2026-07-03
-last_updated: 2026-07-03
-last_tended: 2026-07-03
-review_by: 2027-01-03
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [agent-economy, circle, usdc, stablecoin, x402, nanopayments, agent-wallet, marketplace, cli, policy-controls]
 sources:
   - https://www.circle.com/blog/introducing-circle-agent-stack-financial-infrastructure-for-the-agentic-economy
@@ -30,7 +30,7 @@ sources:
   - https://github.com/circlefin/skills
   - https://www.tradingview.com/news/cointelegraph%3Ac6949a402094b%3A0-circle-makes-usdc-push-into-ai-agent-payment-tools/
   - https://docs.cdp.coinbase.com/agentic-wallet/cli/welcome
-status: candidate
+status: active
 ---
 
 # Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
@@ -43,6 +43,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 - Circle announced Circle Agent Stack on 2026-05-11 as chain- and protocol-agnostic infrastructure for agents to hold funds, discover services, and transact with USDC. ^[extracted]
 - The initial stack consists of Agent Wallets, Agent Marketplace, Circle CLI, Nanopayments powered by Circle Gateway, and Circle Skills. ^[extracted]
+- As of 2026-07-29, Circle's official product page and developer documentation continue to expose Agent Wallets, Agent Marketplace, Circle CLI, Nanopayments, and Circle Skills as publicly available product surfaces rather than announcement-only concepts. ^[extracted]
 - Circle said Agent Wallets let agents hold and move USDC within human-defined policies, including time-bound spending limits, transfer / x402 caps, recipient allowlists and blocklists, and contract-address controls. ^[extracted]
 - Circle's Agent Wallet documentation says the wallets are built on Circle user-controlled wallets with 2-of-2 MPC key management; key shares are not exposed to the agent, users retain custody, and transfers are screened against sanctions controls before onchain submission. ^[extracted]
 - Nanopayments powered by Circle Gateway supports gas-free USDC transfers as small as $0.000001 and uses Gateway batching rather than settling each individual payment onchain. ^[extracted]

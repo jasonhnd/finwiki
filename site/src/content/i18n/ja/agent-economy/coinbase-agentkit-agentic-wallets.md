@@ -1,15 +1,15 @@
 ---
 source: agent-economy/coinbase-agentkit-agentic-wallets
-source_hash: 71f108629ca3ce9a
+source_hash: 9681174e135aeb7e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Coinbase AgentKit & Agentic Wallets · Base 上の agent ウォレット"
-translated_at: 2026-07-03T00:00:00.000Z
+title: "Coinbase AgentKit & Agentic Wallets · Base 上の TEE agent ウォレット"
+translated_at: 2026-07-28T17:01:18.000Z
 ---
 
-# Coinbase AgentKit & Agentic Wallets · Base 上の agent ウォレット
+# Coinbase AgentKit & Agentic Wallets · Base 上の TEE agent ウォレット
 
 ## ウィキ上の位置づけ
 
@@ -20,11 +20,12 @@ translated_at: 2026-07-03T00:00:00.000Z
 - Coinbase は 2024-11-08 に AgentKit を公開した。これは transfer、token swap、smart-contract interaction などの onchain 操作を AI agent に持たせるための CDP framework である。^[extracted]
 - 現在の `coinbase/agentkit` repository は、AgentKit を AI agent に crypto wallet と onchain interaction を与える CDP toolkit と説明し、framework-agnostic / wallet-agnostic な統合を掲げている。^[extracted]
 - Coinbase は 2026-02-11 に Agentic Wallets を発表した。これは agent 専用の wallet infrastructure であり、一般的な CDP platform entry や open AgentKit framework とは区別される。^[extracted]
+- 2026-07-29 時点でも、Coinbase の live product / developer-documentation surface は Agentic Wallet CLI と Agentic Wallet MCP を提供し、public `coinbase/agentkit` repository は open framework の入口として維持されている。^[extracted]
 - Agentic Wallets には 2 つの入口がある。`awal` command を使う Agentic Wallet CLI と、Claude / Codex / Gemini など MCP-compatible agent 向けの Agentic Wallet MCP server / companion app である。^[extracted]
 - Coinbase の Agentic Wallets ページは x402 を中核の payment standard と位置づけ、x402 が 50M+ transactions を処理済みで、machine-to-machine payments、API paywalls、programmatic resource access を可能にすると説明している。^[extracted]
 - Coinbase の product page は Agentic Wallets が Base 上の任意 token について gasless trading を支援すると説明し、MCP documentation は Base / Polygon / Solana 上の automatic payments を挙げている。^[extracted]
 - 2026 年時点の公式 CDP Wallets v2 security story は TEE / enclave isolation と programmable policy controls であり、現行の MPC key-shard model ではない。Coinbase の CDP Wallets launch は "no MPC, no key shards" と明記し、previous Wallet API v1 が MPC-based だったと説明している。^[extracted]
-- したがって "MPC agent wallets" は legacy / category shorthand または Coinbase の cryptography background として扱うのが安全で、検証済みの Agentic Wallet launch claim は CDP Wallets + TEE isolation + session / transaction guardrails である。^[inferred]
+- したがって MPC は earlier Wallet API v1 の historical comparison point であり、検証済みの current Agentic Wallet architecture は CDP Wallets + TEE isolation + session / transaction guardrails である。^[inferred]
 - 競争上の位置づけとして、Coinbase は open AgentKit actions、CDP wallet security、x402 payment discovery、Base gas abstraction を束ねる。Privy は app 横断の embedded-wallet UX、Circle Wallets は product に応じて MPC または passkey で保護される USDC-native wallet API に重心を置く。^[inferred]
 
 ## 仕組み / 動作原理
@@ -37,7 +38,7 @@ security boundary は prompt ではなく wallet layer にある。Agentic Walle
 
 x402 は wallet を agent-native にする transaction rail である。agent は API ごとの事前登録をせず、HTTP 402 payment requirement を受け取り、小額 stablecoin payment を authorize して request を継続できる。Agentic Wallet MCP はこの pattern を MCP client 向けに包み、agent が paid services を発見し、supported networks 上の USDC で支払い、data を user に返す。Base 上では Coinbase が gas abstraction path を加えるため、低額 API / compute payment のたびに agent が native ETH を持つ必要がない。
 
-title に含まれる "MPC" は慎重に読むべきである。Coinbase は open MPC cryptography stack を持ち、古い CDP wallet material は Wallet API v1 を MPC-based と説明している。しかし 2026 年の Agentic Wallet / CDP Wallets v2 について Coinbase が文書化している architecture は enclave / TEE based で、MPC key shards との対比を明示している。事実記述としては、MPC は historical comparison point、現行 product architecture は TEE + policy guardrails と扱う。
+Coinbase は open MPC cryptography stack を持ち、古い CDP wallet material は Wallet API v1 を MPC-based と説明している。しかし 2026 年の Agentic Wallet / CDP Wallets v2 について Coinbase が文書化している architecture は enclave / TEE based で、MPC key shards との対比を明示している。事実記述としては、MPC は historical comparison point、現行 product architecture は TEE + policy guardrails と扱う。
 
 ## 起源と進化
 
