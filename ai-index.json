@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T02:47:00+09:00",
+  "generated_at": "2026-07-29T03:36:44+09:00",
   "counts": {
-    "markdown_files": 1595,
-    "public_markdown_pages": 1594,
+    "markdown_files": 1596,
+    "public_markdown_pages": 1595,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10827693,
-    "word_like_tokens": 1742501,
+    "nonspace_utf8_chars": 10855944,
+    "word_like_tokens": 1747636,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table-level provenance proximity calibration (#219)",
+        "2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220)"
+        "2026-07-29 - Table-level provenance proximity calibration (#219)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 177137,
-      "word_like_tokens": 32327,
+      "nonspace_chars": 190587,
+      "word_like_tokens": 34811,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16028,
-      "word_like_tokens": 2817,
+      "nonspace_chars": 17172,
+      "word_like_tokens": 2998,
       "last_modified": "2026-07-29"
     },
     {
@@ -5567,9 +5567,7 @@
         "agent-economy/embedded-wallet-network-effects-moat",
         "agent-economy/privy-aws-agentcore-default-wallet",
         "agent-economy/x402-http-payment-overview",
-        "exchanges/global-institutional-custody-five-pillars",
         "fintech/embedded-wallet-fintech-disintermediation-overview",
-        "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
         "payments/INDEX",
         "systems/chain-abstraction-pattern-overview",
         "systems/erc-4337-embedded-wallet-adoption"
@@ -5580,9 +5578,7 @@
         "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
         "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
         "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
-        "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
         "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
-        "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
         "https://finwiki.zksc.io/ja/domains/payments/",
         "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
         "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/"
@@ -5590,9 +5586,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2786,
-      "word_like_tokens": 448,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3350,
+      "word_like_tokens": 527,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "agent-economy/skill-market-monetization.md",
@@ -7757,9 +7753,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17931,
-      "word_like_tokens": 2786,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 18287,
+      "word_like_tokens": 2832,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/daiwa-next-bank.md",
@@ -8492,9 +8488,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 31374,
-      "word_like_tokens": 5053,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 31484,
+      "word_like_tokens": 5071,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-master-trust-and-custody-bank-landscape.md",
@@ -9008,9 +9004,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13489,
-      "word_like_tokens": 2163,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 13216,
+      "word_like_tokens": 2117,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-trust-bank-custody-map.md",
@@ -10198,9 +10194,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8544,
-      "word_like_tokens": 1412,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 8684,
+      "word_like_tokens": 1437,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -11345,9 +11341,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3681,
-      "word_like_tokens": 572,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4232,
+      "word_like_tokens": 639,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/matt-huang-triple-role-coi-template.md",
@@ -20912,9 +20908,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2686,
-      "word_like_tokens": 466,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2850,
+      "word_like_tokens": 488,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/bybit-lazarus-hack-detailed-analysis.md",
@@ -23311,7 +23307,6 @@
         "Rakuten Wallet — Rakuten Group (4755) / Rakuten FG"
       ],
       "wikilinks": [
-        "asset-managers/daiwa-asset-management",
         "asset-managers/nomura-asset-management",
         "asset-managers/sbi-asset-management",
         "card-issuers/aeon-financial-service",
@@ -23378,12 +23373,9 @@
         "payment-firms/sbi-remit\\",
         "payments/funds-transfer-vs-prepaid-boundary",
         "payments/japan-prepaid-electronic-money-operator-matrix",
-        "regional-banks/daiwa-next-bank",
-        "regional-banks/daiwa-next-bank\\",
         "regional-banks/sbi-shinsei-bank",
         "regional-banks/sbi-shinsei-bank\\",
         "securities-firms/daiwa-sg",
-        "securities-firms/daiwa-sg\\",
         "securities-firms/gmo-click-securities",
         "securities-firms/gmo-click-securities\\",
         "securities-firms/monex-group",
@@ -23395,11 +23387,9 @@
         "securities-firms/sbi-fx-trade",
         "securities-firms/sbi-securities",
         "securities-firms/sbi-securities\\",
-        "trust-banks/daiwa-living-trust",
         "trust-banks/nomura-trust-bank"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
         "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
         "https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/",
         "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
@@ -23452,7 +23442,6 @@
         "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
         "https://finwiki.zksc.io/ja/payments/japan-prepaid-electronic-money-operator-matrix/",
-        "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
         "https://finwiki.zksc.io/ja/securities-firms/gmo-click-securities/",
@@ -23461,15 +23450,14 @@
         "https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/",
         "https://finwiki.zksc.io/ja/securities-firms/sbi-fx-trade/",
         "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/",
-        "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
         "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 29658,
-      "word_like_tokens": 4892,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 30264,
+      "word_like_tokens": 5006,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/japan-crypto-audit-firm-landscape.md",
@@ -23711,7 +23699,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は (1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所 という 10 のビジネスモデル軸で異なるポジションを取る。販売所スプレッド 収益モデルが国内市場の主軸である一方、海外系日本法人",
+      "summary": "FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で 26 業者を掲載している。本マトリクスの 39 分析行は、この登録母集団だけでなく、暗号資産デリバティブ、電子決済手段、機関向け隣接事業、移行・履歴上の関連 entity を含むため、39 を FSA 登録 VASP 数として読んではならない。各行は (1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所",
       "headings": [
         "日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較",
         "TL;DR",
@@ -23841,9 +23829,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14613,
-      "word_like_tokens": 2293,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 14474,
+      "word_like_tokens": 2273,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jcba-japan-crypto-business-association.md",
@@ -25354,9 +25342,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5698,
-      "word_like_tokens": 1007,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 5767,
+      "word_like_tokens": 1000,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-bitpoint-historical-deprecated.md",
@@ -26069,9 +26057,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4683,
-      "word_like_tokens": 818,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 4913,
+      "word_like_tokens": 848,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-finx-jcrypto.md",
@@ -27485,9 +27473,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4486,
-      "word_like_tokens": 801,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4625,
+      "word_like_tokens": 830,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-tokyo-hash.md",
@@ -28746,7 +28734,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "国内暗号資産交換業者 (VASP) は約 35 社 (2026-05 時点) が FSA 登録済みで、親会社属性により行動様式が大きく異なる。資本系列を 3 大分類で整理すると、(1) 上場会社系（独立した持株会社・事業会社の子会社）、(2) 独立系（親会社なし、創業者・経営陣保有）、(3) 海外系（グローバル CEX の日本法人）に分かれ、それぞれ商品設計・コンプラ姿勢・流動性供給戦略が異なる。",
+      "summary": "FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で 26 業者を掲載している。本ページはこの公式母集団の親会社属性を起点にし、関連する持株会社・デリバティブ entity・履歴上の operator を別ラベルで補足する。資本系列を 3 大分類で整理すると、(1) 上場会社系（独立した持株会社・事業会社の子会社）、(2) 独立系（親会社なし、創業者・経営陣保有）、(3) 海外系（グローバル CEX の日本法人）に分かれるが、関連 entity を足した分析行数を FSA 登録業者数として扱わない。^[Source: https://www.fsa.go.jp/menkyo/me",
       "headings": [
         "国内 VASP 親会社・株主構造マップ",
         "概要",
@@ -28823,9 +28811,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2913,
-      "word_like_tokens": 447,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 3056,
+      "word_like_tokens": 470,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-vasp-regulatory-timeline.md",
@@ -29876,7 +29864,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は MLR 2017 (Money Laundering Regulations 2017) ベースの AML/CFT 登録のみ で、証券性のあるトークンや規制資産は別 framework (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の phased regulation (段階的規制) が進行中で、現行の AML 中心の枠組みから trading/custody/stable",
+      "summary": "UK の現行 cryptoasset-firm registration は MLR 2017 に基づく AML/CTF/CPF 監督であり、FSMA authorisation と同義ではない。FCA は新しい包括的な cryptoasset regulatory regime の申請期間を 2026-09-30 から 2027-02-28、施行日を 2027-10-25 と案内している。したがって、本項は「2026-27 の時期未定 phased regulation」ではなく、現行 MLR registration から 2027-10-25 の FSMA regime へ移る二段階とし",
       "headings": [
         "UK FCA crypto-asset registration regime",
         "1. 制度概要",
@@ -29913,9 +29901,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2252,
-      "word_like_tokens": 367,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2875,
+      "word_like_tokens": 473,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/us-crypto-licensing-multi-layer-system.md",
@@ -33569,9 +33557,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10459,
-      "word_like_tokens": 1567,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10582,
+      "word_like_tokens": 1586,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-regulators/INDEX.md",
@@ -85999,8 +85987,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4891,
-      "word_like_tokens": 967,
+      "nonspace_chars": 5383,
+      "word_like_tokens": 1066,
       "last_modified": "2026-07-29"
     },
     {
@@ -89315,6 +89303,39 @@
       "entity_edges": [],
       "nonspace_chars": 8062,
       "word_like_tokens": 1520,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-6.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-6.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-6.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-6.md",
+      "title": "低密度出典17件と翻訳保護の校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "低密度出典17件と翻訳保護の校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 9759,
+      "word_like_tokens": 1866,
       "last_modified": "2026-07-29"
     },
     {

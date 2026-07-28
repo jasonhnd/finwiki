@@ -8,9 +8,9 @@ aliases:
   - "MoneyKit"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-06-03
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, sony-fg, fx, mortgage, deposit-bank, asset-formation-bank]
 status: active
@@ -60,7 +60,7 @@ Sony Group Corporation (TSE 6758, ultimate parent)
         └── Other financial subsidiaries
 ```
 
-Sony FG was previously listed; in 2020 Sony Group launched a TOB and took Sony FG private. On 2025-09-29 Sony Group re-listed Sony FG on the TSE Prime market via Japan's first "partial spin-off" — distributing over 80% of its Sony FG shares in-kind to Sony Group shareholders while retaining roughly 20% — which re-introduced a public-market reference for Sony Bank's stake economics (Sony FG opening price ¥205). Sony Bank itself remains a non-listed bank operating company under Sony FG.
+Sony FG was previously listed; in 2020 Sony Group launched a TOB and made it a wholly owned subsidiary. Sony's official partial-spin-off record states that Sony FG listed on the TSE Prime market on 2025-09-29, slightly more than 80% of its shares were distributed in kind to Sony shareholders, and Sony retained slightly less than 20%. Sony FG was deconsolidated and became an equity-method affiliate effective 2025-10-01. Sony Bank itself remains a non-listed operating bank under Sony FG; this entry does not use an unsourced opening-price figure to infer its stake economics. ^[Source: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/.]
 
 ### Multi-currency deposit + FX core
 

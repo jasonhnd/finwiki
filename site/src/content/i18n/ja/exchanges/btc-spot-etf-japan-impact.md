@@ -1,12 +1,12 @@
 ---
 source: exchanges/btc-spot-etf-japan-impact
-source_hash: f2a01ed547394ad1
+source_hash: 70bf6e16cab9fca0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Bitcoin 現物 ETF 米承認の国内 CEX 影響 (2024-01〜)"
-translated_at: 2026-06-26T08:28:46.047Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 ﻿
 # Bitcoin 現物 ETF 米承認の国内 CEX 影響 (2024-01〜)
@@ -18,7 +18,7 @@ translated_at: 2026-06-26T08:28:46.047Z
 
 ## 1. 概要
 
-2024-01-10、米 SEC は BTC 現物 ETF 11 件を一斉承認した (BlackRock IBIT, Fidelity FBTC, Ark 21Shares ARKB, Bitwise BITB, Grayscale GBTC, Invesco/Galaxy BTCO, VanEck HODL, Valkyrie BRRR, Franklin EZBC, WisdomTree BTCW, Hashdex DEFI)。これにより世界の機関投資家フローが暗号資産現物市場へ正規ルートで解放され、ヘッジファンド・年金・RIA (Registered Investment Advisor) が低コスト exposure を得た。日本国内 CEX への影響は **(a) 現物価格上昇による取引高増** **(b) 国内機関口座の加速** **(c) 国内 BTC ETF 解禁議論の本格化** の 3 経路で観察される。
+2024-01-10、米 SEC は 11 件の spot bitcoin ETP に関する取引所規則変更を承認し、登録取引所で売買される商品を通じた bitcoin exposure の経路を開いた。SEC 自身はこの措置が bitcoin や暗号資産取引プラットフォームの承認・推奨ではないと明記している。日本国内 CEX への **(a) spot 価格・取引高**、**(b) 国内機関口座**、**(c) 国内 ETF 制度議論** という 3 経路は本項の分析仮説であり、SEC order が日本市場への因果を立証したものではない。^[Sources: https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf; https://www.sec.gov/newsroom/speeches-statements/gensler-statement-spot-bitcoin-011023.]
 
 ## 2. 数字 (2024-2026)
 

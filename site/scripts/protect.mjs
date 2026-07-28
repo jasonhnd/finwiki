@@ -125,9 +125,10 @@ function maskMarkdownUrls(text, masks) {
   return out;
 }
 
+const PROVENANCE_MARKER_RE = /\^\[[^\]\n]+\]/g;
+
 // 退避パターン（優先順: 特殊・長いものから。先に処理した占位符は英字のみなので後続に拾われない）
 const PATTERNS = [
-  /\^\[[^\]\n]+\]/g, // provenance marker
   /\d{4}-\d{2}-\d{2}/g, // ISO 日付
   /(?:令和|平成|昭和)\s*\d+\s*年(?:\s*\d+\s*月)?(?:\s*\d+\s*日)?/g, // 和暦
   /\d{4}\s*年(?:\s*\d+\s*月)?(?:\s*\d+\s*日)?/g, // 西暦 年月日
@@ -137,7 +138,11 @@ const PATTERNS = [
 
 export function mask(text) {
   const masks = [];
-  let out = text.replace(WIKILINK_RE, (match, target, sep, label) => {
+  // Protect the complete marker before masking URLs. Otherwise an URL inside
+  // ^[Source: ...] becomes an inner placeholder that one-pass unmasking cannot
+  // restore after the outer marker placeholder is expanded.
+  let out = text.replace(PROVENANCE_MARKER_RE, (marker) => pushMask(masks, marker));
+  out = out.replace(WIKILINK_RE, (match, target, sep, label) => {
     if (label == null) return pushMask(masks, match);
     return `[[${pushMask(masks, target)}${sep}${label}]]`;
   });

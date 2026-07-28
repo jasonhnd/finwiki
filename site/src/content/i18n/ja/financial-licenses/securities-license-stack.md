@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/securities-license-stack
-source_hash: 78a48826b9016dd6
+source_hash: 1aeeb80a4be75806
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本証券ライセンス・スタック"
-translated_at: 2026-06-26T08:32:07.547Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 日本証券ライセンス・スタック
@@ -28,7 +28,7 @@ translated_at: 2026-06-26T08:32:07.547Z
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | 取引・清算・決済・PTS ルート。 | ブローカー登録または適合性。 |
 | Product disclosure | 会社ページ、目論見書、EDINET / TDnet、公式商品ページ | その会社が現在その商品を販売しているか、およびどの開示が付随するか。 | 一般的なライセンスの結論。 |
 
-2026-05-22 に確認した FSA のライセンス・ポータルは、金融商品取引業者、登録金融機関、金融商品仲介業者、証券金融会社、清算、保管、および関連する登録ルートを、現行の as-of 日付付きで掲載していた。専用の FinWiki 登録管理ページは、1,945 行の FSA 金融商品取引業者の母集団を、公式ワークブックを複製するのではなく要約レベルで保持している。
+2026-07-29 に確認した FSA のライセンス・ポータルは、金融商品取引業者、登録金融機関、金融商品仲介業者、証券金融会社、清算、保管、および関連する登録ルートを、現行の as-of 日付付きで掲載していた。現行の公式金融商品取引業者 workbook は 1,954 業者を報告しており、専用の FinWiki 登録管理ページは公式 workbook を複製せず、その母集団を要約レベルで保持する。^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, checked 2026-07-29, 「全業者数: 1954」.]
 
 ## レジーム・マップ
 

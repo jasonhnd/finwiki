@@ -24,9 +24,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "certain",
     "tags": [
       "agent-economy",
@@ -42,7 +42,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://docs.privy.io/"
+      "https://docs.privy.io/",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/"
     ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀 for peer / contrast context and payments index for the broader system / regulatory boundary.",
@@ -56,16 +58,14 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "agent-economy/ai-agent-payment-protocols-overview",
       "agent-economy/embedded-wallet-network-effects-moat",
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/x402-http-payment-overview",
-      "exchanges/global-institutional-custody-five-pillars",
       "fintech/embedded-wallet-fintech-disintermediation-overview",
-      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "payments/INDEX",
       "systems/chain-abstraction-pattern-overview",
       "systems/erc-4337-embedded-wallet-adoption"
@@ -76,9 +76,7 @@
       "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
       "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
       "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
-      "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
       "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
-      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
       "https://finwiki.zksc.io/ja/domains/payments/",
       "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
       "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/"
@@ -87,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2786,
-    "word_like_tokens": 448,
+    "nonspace_chars": 3350,
+    "word_like_tokens": 527,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

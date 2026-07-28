@@ -1,11 +1,11 @@
 ---
 source: business/larry-fink-blackrock-digital-asset-template
-source_hash: 57f29b824dd2e2a4
+source_hash: 149146640896b243
 lang: ja
 status: machine
 fidelity: ok
 title: "資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力"
-translated_at: 2026-06-02T11:47:37.324Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力
@@ -29,7 +29,7 @@ translated_at: 2026-06-02T11:47:37.324Z
 
 ## 起源と進化
 
-起点は2022-08のBlackRock × Coinbase戦略提携(Aladdin統合 + BTCカストディ)で、第一の柱を仕込んだ局面。2024-01-11にIBIT等11社のBTC現物ETFが同日に承認され、ETFの柱が成立。2024-03-20にBUIDLがSecuritize経由でEthereum上にローンチされ、RWAの柱が成立。2024-05にIETHが承認されETFの柱が拡張。2025-Q1のLarry Fink Annual Letter「Tokenization is the next generation for markets」で政治の柱が正式に発信開始。2026-Q1には三本の柱が同時にピークに達した:IBIT $80B + BUIDL $60B + GENIUS Act通過によりテンプレートの検証が完了。フォロワー:Franklin Templeton(BENJI)/ WisdomTree(WTI系列)/ Ondo(USDY)。
+公開一次資料で確認できる起点は、2022-08-04 の Coinbase Prime と Aladdin の接続発表である。SEC は 2024-01-10 に複数の spot bitcoin ETP の上場・取引規則変更を承認し、Securitize は 2024-03-20 に BlackRock 初の tokenized fund BUIDL の Ethereum 上での開始を発表した。BlackRock の 2025 Annual Chairman's Letter は tokenization を市場インフラの論点として扱っている。これらは ETF、tokenized fund、経営者発信という三つの公開経路の時系列を裏付けるが、特定法案への因果的影響、未固定の 2026-Q1 AUM、または「三本の柱がピークに達した」という評価までは立証しないため、本項ではその数値・因果を確定事実として扱わない。^[Sources: https://www.coinbase.com/blog/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via; https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf; https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network; https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter.]
 
 ## 関連
 <!-- wiki-links:managed -->

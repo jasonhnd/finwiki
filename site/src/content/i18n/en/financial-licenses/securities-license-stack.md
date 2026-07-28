@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/securities-license-stack
-source_hash: 78a48826b9016dd6
+source_hash: 1aeeb80a4be75806
 lang: en
 status: machine
 fidelity: ok
 title: "Japan securities license stack"
-translated_at: 2026-06-15T03:48:21.829Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Japan securities license stack
@@ -29,7 +29,7 @@ This page is a public-source research route, not legal advice. A live product or
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | Trading, clearing, settlement, and PTS route. | Broker registration or suitability. |
 | Product disclosure | Firm pages, prospectuses, EDINET / TDnet, official product pages | Whether the firm currently markets the product and what disclosures attach to it. | A general license conclusion. |
 
-FSA's license portal checked on 2026-05-22 listed the financial instruments business operator, registered financial institution, financial instruments intermediary, securities finance company, clearing, depository, and related registry routes with current as-of dates. The dedicated FinWiki registry-control page keeps the 1,945-row FSA financial instruments business operator population at summary level rather than copying the official workbook.
+FSA's license portal checked on 2026-07-29 listed the financial instruments business operator, registered financial institution, financial instruments intermediary, securities finance company, clearing, depository, and related registry routes with current as-of dates. The current official financial instruments business operator workbook reports 1,954 operators; the dedicated FinWiki registry-control page keeps that population at summary level rather than copying the workbook. ^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, checked 2026-07-29, 「全業者数: 1954」.]
 
 ## Regime Map
 

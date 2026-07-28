@@ -1,24 +1,24 @@
 ---
 source: exchanges/uk-fca-crypto-registration-overview
-source_hash: 2295764cc163e94b
+source_hash: aae5b3718f80f88b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "英国 FCA 暗号資産登録制度"
-translated_at: 2026-06-26T08:29:09.709Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 ﻿
 # 英国 FCA 暗号資産登録制度
 
 ## 1. 制度概要
 
-Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は **MLR 2017** (Money Laundering Regulations 2017) ベースの **AML/CFT 登録のみ** で、証券性のあるトークンや規制資産は別枠組み (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の 段階的規制 (段階的規制) が進行中で、現行の AML 中心の枠組みから 取引 / カストディ / ステーブルコイン を含む包括規制への移行が計画されている。
+UK の現行 cryptoasset-firm registration は MLR 2017 に基づく AML/CTF/CPF 監督であり、FSMA authorisation と同義ではない。FCA は新しい包括的な cryptoasset regulatory regime の申請期間を 2026-09-30 から 2027-02-28、施行日を **2027-10-25** と案内している。したがって、本項は「2026-27 の時期未定 phased regulation」ではなく、現行 MLR registration から 2027-10-25 の FSMA regime へ移る二段階として読む。^[Sources: https://www.fca.org.uk/firms/cryptoassets/who-needs-register; https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/what-you-need-to-do.]
 
 ## 2. 制度の二段階構造
 
-- **第 1 段階 (現行・MLR 2017 登録)**: AML/CFT 義務 (KYC, SAR 報告, 取引監視, travel rule) のみ。取扱品目・カストディの財務要件・自己資本規制・consumer protection は対象外。事業者登録 = AML compliance のみ確認
-- **第 2 段階 (FSMA 2023 + 計画中の包括規制)**: Financial Services and Markets Act 2023 改正で暗号資産 trading platform + カストディ + stablecoin payment が **規制対象業務** に編入される予定。2026-27 phased 実装
+- **第 1 段階 (現行・MLR 2017 登録)**: 登録は AML/CTF/CPF framework、fit-and-proper、governance、取引監視等を FCA が審査・監督するが、FSMA authorisation や全 product の prudential / consumer-protection approval を意味しない。crypto financial promotions など別制度の義務は並行して適用され得る。^[Sources: https://www.fca.org.uk/firms/cryptoassets/application-registration; https://www.fca.org.uk/firms/cryptoassets/who-needs-register.]
+- **第 2 段階 (新 FSMA regime)**: FCA は対象 cryptoasset regulated activities に authorisation を要求する新制度を **2027-10-25** に開始すると公表し、現行 MLR-registered firms にも申請・permission 変更の準備を求めている。^[Source: https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/what-you-need-to-do.]
 
 ## 3. 主要保有事業者 (2024-2026)
 
