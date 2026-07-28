@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 9 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,15 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `payment-firms/bitflyer.md` | `M` | 18 | ok |
-| `payment-firms/famima-digital-one.md` | `M` | 7 | ok |
-| `payment-firms/gmo-coin.md` | `M` | 13 | ok |
-| `payment-firms/mercari-hd.md` | `M` | 8 | ok |
-| `payment-firms/rakuten-fg.md` | `M` | 14 | ok |
-| `payments/edy-rakuten-prepaid.md` | `M` | 9 | ok |
-| `payments/japan-bnpl-pay-later-operator-registry-matrix.md` | `M` | 81 | ok |
-| `payments/japan-merchant-psp-competitive-scorecard.md` | `M` | 80 | ok |
-| `payments/japan-prepaid-electronic-money-operator-matrix.md` | `M` | 36 | ok |
 
 ## Domain Snapshot
 
