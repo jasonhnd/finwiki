@@ -1,22 +1,23 @@
 ---
 source: life-insurers/dai-ichi-life
-source_hash: 28f55d1e0c52cbcd
+source_hash: 38c0e46ae039d2c2
 lang: ja
+model: canonical-ja-source-sync
 status: machine
 fidelity: ok
 title: "第一ライフグループ / 旧 第一生命 HD"
-translated_at: 2026-06-02T14:25:12.411Z
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
 # 第一ライフグループ / 旧 第一生命 HD
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下に位置する。比較・対照の文脈では [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]]、制度全体と規制境界の文脈では [[insurance/INDEX|insurance index]] とあわせて読む。
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
-国内大手 4 生保の一角（第一生命 / [[life-insurers/nippon-life]] / 住友生命 / 明治安田生命）。**1902-09 創業、日本初の相互会社形態保険会社**。2010-04 株式会社化・上場（当時史上最大の相互→株式会社化）、2016-10 持株会社化で**第一生命 HD 発足**。2026-04-01 に商号を **株式会社第一ライフグループ（Daiichi Life Group, Inc.）** へ変更。東証 PRIME 8750。**国内（営業職員 + 銀行窓販 + 乗合代理店 3 軸）+ 海外（米 Protective / 豪 TAL / アジア）+ 資産運用（みずほ JV アセマネ One）** 戦略。**FY2024（2025-03 期）純利益 4,296 億円（+34%）、海外事業利益が初の 1,000 億円超（1,146 億円）**で米 Protective 利益 3.4 倍。健康増進型「健康第一」など DX 推進。中計「Re-connect 2026」（2024〜）展開中。
+株式会社第一ライフグループは、1902 年に日本初の相互会社形態の生命保険会社として創業し、2010 年の株式会社化・上場、2016 年の持株会社体制移行を経た上場保険グループ（証券コード 8750）である。2026-04-01 に第一生命ホールディングス株式会社から現在の商号へ変更した。FY2024（2025-03 期）の公式決算短信では、親会社株主帰属純利益は 4,296 億円、経常利益は 7,190 億円、期末総資産は 69 兆 5,929 億円だった。^[Corporate profile and current trade name: https://www.daiichilife-group.com/en/about/outline.html; history: https://www.daiichilife-group.com/en/about/history.html; FY2024 results: https://www.daiichilife-group.com/en/investor/library/earning/pdf/2024/2024_001.pdf]
 
 ## 1. 会社概要
 
@@ -28,7 +29,7 @@ translated_at: 2026-06-02T14:25:12.411Z
 **株式会社化・上場**：2010-04-01
 **持株会社化**：2016-10-01（第一生命 HD 発足）
 **本社**：東京都千代田区有楽町 1-13-1（第一生命館）
-**業態**：国内大手 4 生保の一角
+**業態**：上場保険持株会社 ^[https://www.daiichilife-group.com/en/about/outline.html]
 
 ### 主要 KPI（FY2024 = 2025-03 期 連結, 2025-05-15 開示）
 
@@ -152,21 +153,21 @@ translated_at: 2026-06-02T14:25:12.411Z
   - **2025〜 米関税政策懸念**で FY2025 利益縮小予想（▲19% 通期予想）
   - 営業職員チャネルの**コンプライアンス強化**（2020 年の不適切金銭取引案件後）
 
-## 関連項目
+## Related
 
 - [[life-insurers/nippon-life]] · [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]]
 - [[insurance/life-insurance-channel-mix]] · [[insurance/economic-value-based-solvency]]
 
-## 出典
+## Sources
 
-- **Wikipedia: 第一生命ホールディングス**（公開情報 2026-05-19 抽出）
-- **第一生命 HD 公式 IR・沿革ページ**（公開情報、https://www.dai-ichi-life-hd.com/ → 現 https://www.daiichilife-group.com/）
+- **第一ライフグループ 会社概要** https://www.daiichilife-group.com/en/about/outline.html
+- **第一ライフグループ 沿革** https://www.daiichilife-group.com/en/about/history.html
+- **商号変更発表** https://www.dai-ichi-life-hd.com/en/newsroom/newsrelease/2024/pdf/index_040.pdf
 - **2025年3月期 決算短信（連結, 2025-05-15 開示）** https://www.daiichilife-group.com/investor/library/earning/pdf/2024/2024_001.pdf
 - **2026年3月期 第2四半期 中間決算短信（連結, 2025-11-14 開示）** https://www.dai-ichi-life-hd.com/investor/library/earning/pdf/2025_hanki_001.pdf
 - **業績ハイライト・連結**（公式 IR）https://www.daiichilife-group.com/investor/financial/highlight.html
-- 日経新聞 2025-05-15 報道（純利益 +34% / Protective 3.4 倍 / 配当 137 円）
 
 ---
 
 > [!info] 校核状态
-> 信頼度: **high**（v1.1, 2026-05-19 公開 IR 校核完了）。FY2024 通期数値（純利益 4,296 億 / 経常収益 9.87 兆 / 経常利益 7,191 億 / 総資産 69.6 兆 / 海外事業利益 1,146 億 / 従業員 60,814 名）は決算短信 + 公式 IR ハイライトベース。Protective 利益 3.4 倍化と海外初の 1,000 億超は日経報道・公式 IR 一致。FY2025 1H 実績（2025-11-14 開示）も反映済み。
+> confidence: **certain**（2026-07-29）。現商号、創業・組織変更の沿革、上場情報、FY2024 の主要連結数値を公式会社概要・沿革・決算短信で再確認した。時点の異なる KPI は各年度の公式開示として読む。

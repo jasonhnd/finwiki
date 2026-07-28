@@ -26,9 +26,9 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -57,10 +57,11 @@
       "https://www.partior.com/",
       "https://www.mas.gov.sg/news/media-releases/2021/partior-launch",
       "https://www.jpmorgan.com/kinexys",
-      "https://www.jpmorgan.com/onyx",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc/agora.htm",
-      "https://www.bis.org/publ/work1116.htm"
+      "https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys",
+      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/about/bisih/topics/cbdc/mariana.htm",
+      "https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26"
     ]
   },
   "summary": "This entry sits under fintech index as the six-way side-by-side comparison matrix for the most-cited wholesale settlement networks. It complements the per-network deep dives at Fnality fnPS, Partior, JPM Onyx / Kinexys, mBridge, and BIS Project Agorá. For the governance pattern see 多大银行联邦治理; for the",
@@ -124,9 +125,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20579,
-    "word_like_tokens": 3251,
+    "nonspace_chars": 21453,
+    "word_like_tokens": 3359,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-07-29"
   }
 }

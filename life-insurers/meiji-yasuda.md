@@ -9,10 +9,10 @@ aliases:
   - "life-insurers/meiji-yasuda-life"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [JapanFG, life-insurance, mutual-company]
 status: active
 entity_node:
@@ -20,8 +20,10 @@ entity_node:
   scope: japan_core
   status: anchor
 sources:
-  - "Wikipedia: 明治安田生命保険 (2026-05-19 抽出)"
-  - "明治安田生命 公式サイト 沿革 (2026-05-19 参照)"
+  - "https://www.meijiyasuda.co.jp/english/about-us/company_profile.html"
+  - "https://www.meijiyasuda.co.jp/english/about-us/history.html"
+  - "https://www.meijiyasuda.co.jp/english/governance/mutual_company.html"
+  - "https://www.meijiyasuda.co.jp/english/newsroom/pdf/20160308_01.pdf"
 ---
 
 # 明治安田生命保険相互会社
@@ -32,13 +34,13 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-日本初の近代生命保険会社 **明治生命**（1881 創業）と **安田生命**（1880 共済五百名社 → 1894 安田生命）が 2004-01-01 に合併して発足した、大手 4 生保の一角。**相互会社形態**（非上場、社員 = 契約者）を維持し、契約者重視配当を経営の柱に据える。営業職員「MY リンクコーディネーター」チャネル × 法人（中堅企業向け団体保険）× 米国 StanCorp Financial Group（2016 完全子会社化、約 5000 億円）の 3 軸構成。Jリーグタイトルパートナー・読売巨人軍スポンサーで B2C ブランド露出は強い。中計「MY ミューチュアル Way Ⅱ」実施中。
+明治安田生命は、1881 年創業の明治生命と、1880 年の共済五百名社を起点とする安田生命が 2004 年 1 月に合併して発足した相互会社である。公式会社概要（2026-03-31 時点）は総資産 48 兆 217 億円、基金 9,800 億円、契約者 5,965,701 人を示す。米国 StanCorp Financial Group は 2016-03 に完全子会社化されたが、買収額の概算やチャネル別収益順位は今回の警告解消に使う確定事実から外す。^[Company profile: https://www.meijiyasuda.co.jp/english/about-us/company_profile.html; history: https://www.meijiyasuda.co.jp/english/about-us/history.html; mutual-company structure: https://www.meijiyasuda.co.jp/english/governance/mutual_company.html; StanCorp completion: https://www.meijiyasuda.co.jp/english/newsroom/pdf/20160308_01.pdf]
 
 ## 1. 会社概要
 
 **正式名**：明治安田生命保険相互会社
 **英名**：Meiji Yasuda Life Insurance Company
-**法人形態**：**相互会社**（上場せず、契約者 = 社員が議決権を持つ）
+**法人形態**：**相互会社**（有配当保険の契約者が社員となり、総代会等を通じて運営に関与）^[https://www.meijiyasuda.co.jp/english/governance/mutual_company.html]
 **設立**：2004-01-01（旧 明治生命保険 + 旧 安田生命保険 合併）
 **本社**：東京都千代田区丸の内 2-1-1（明治安田生命ビル）
 **業界順位**：大手 4 生保の一角（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）
@@ -53,9 +55,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 前身 2 系統
 
-- **明治生命**: 1881-07 創業、安田善次郎・阿部泰蔵らによる日本初の近代生命保険会社
-- **安田生命**: 1880 共済五百名社 → 1894 安田生命保険合資会社 → 安田財閥系
-- **帝国生命**: 1947 戦後再編で **明治生命保険** へ改称（戦時統合解消）
+- **明治生命**: 1881 年、阿部泰蔵らが設立。保険料を予定死亡率等に基づいて定める日本初の近代的生命保険サービスを提供した。
+- **安田生命の前身**: 1880 年、安田善次郎が共済五百名社を設立し、1894 年に近代的な相互扶助会社へ改組した。
 
 ### 重要年表
 
@@ -64,11 +65,9 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | 1880 | 共済五百名社 創業 |
 | 1881-07 | 明治生命 創業（日本初の近代生命保険会社）|
 | 1894 | 共済五百名社 → 安田生命保険合資会社 |
-| 1947 | 帝国生命 → 明治生命保険 改称 |
 | **2004-01-01** | **明治生命 + 安田生命 → 明治安田生命** 合併発足 |
 | 2005〜2006 | **保険金不払い事件** → 金融庁から業務改善命令・行政処分 |
-| 2010 | 米 **StanCorp Financial Group** 買収検討開始 |
-| **2016-03-07** | **StanCorp Financial Group 完全子会社化**（約 5000 億円）|
+| **2016-03-07** | **StanCorp Financial Group 完全子会社化** |
 | 2024 | 中期経営計画「MY ミューチュアル Way Ⅱ」開始 |
 
 ### 主要子会社・関連
@@ -109,11 +108,11 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 - **Jリーグ タイトルパートナー**（「明治安田Jリーグ」呼称）── 日本サッカー全体への露出
 - **読売巨人軍 スポンサー**（東京ドーム外野フェンス等）
 - **「みんなの健活プロジェクト」**: 自治体・大学との健康増進連携
-- 業界 4 社の中で **B2C 知名度はトップクラス**（特に若年層・スポーツファン層）
+- これらの施策は B2C 接点を広げるが、本項では比較可能な知名度順位を置かない
 
 ### 海外戦略
 
-- **StanCorp 集中**: 米国団体保険プラットフォーム、2016 完全子会社化で約 5000 億円投下
+- **StanCorp 集中**: 米国団体保険プラットフォーム、2016-03 に完全子会社化
 - アジア展開は同業（[[life-insurers/nippon-life]]・[[life-insurers/dai-ichi-life]]）と比較すると控えめ
 - 米国 1 軸の集中リスクと裏返しの専門特化
 
@@ -149,11 +148,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### Sources
 
-- **Wikipedia: 明治安田生命保険**（https://ja.wikipedia.org/wiki/明治安田生命保険, 2026-05-19 抽出）
-- 明治安田生命 公式サイト 沿革・会社概要（2026-05-19 参照）
-- 金融庁「保険会社の経営状況」公表資料
+- 明治安田生命 — Company Profile: https://www.meijiyasuda.co.jp/english/about-us/company_profile.html
+- 明治安田生命 — History: https://www.meijiyasuda.co.jp/english/about-us/history.html
+- 明治安田生命 — Operation of Mutual Company: https://www.meijiyasuda.co.jp/english/governance/mutual_company.html
+- 明治安田生命 — Completion of Acquisition of StanCorp: https://www.meijiyasuda.co.jp/english/newsroom/pdf/20160308_01.pdf
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 公開情報のみ・2026-05-19）。本記事は公開情報（Wikipedia / 公式サイト / 金融庁公表資料）のみに基づく。具体的な財務数値（総資産・保険料等収入・基礎利益等）は最新ディスクロージャー誌を要参照。StanCorp 買収額・年表は公開報道ベース。
+> confidence: **certain**（2026-07-29）。創業系譜、2004 年合併、相互会社制度、2026-03-31 時点の会社概要、StanCorp 完全子会社化を公式資料で再確認した。変動する財務・人員値は公式会社概要の基準日とともに読む。
