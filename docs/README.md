@@ -63,6 +63,7 @@
 | [ARD](04-architecture/ard.md) | 架构原则、系统边界、数据流、关键约束、与 ADR 的关系。 |
 | [System Architecture](04-architecture/system-architecture.md) | repo、corpus、domain、release、discovery 的系统结构。 |
 | [Astro Site Architecture](04-architecture/astro-site-architecture.md) | `site/` 的 Astro 渲染结构与构建边界。 |
+| [Entry Discovery Build Graph](04-architecture/entry-discovery-build-graph.md) | Issue #195：article-end discovery 的单次 build graph、cache fingerprint 与 parity contract。 |
 | [Theme System](04-architecture/theme-system.md) | CSS token、light/dark theme、视觉方向与组件样式边界。 |
 | [Content Model](04-architecture/content-model.md) | entry、domain index、control doc、release note 的数据模型。 |
 | [i18n Architecture](04-architecture/i18n-architecture.md) | 机器翻译层、source hash、fallback 与 mirror 规则。 |
