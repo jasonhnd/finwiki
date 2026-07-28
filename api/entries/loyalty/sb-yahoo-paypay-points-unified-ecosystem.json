@@ -11,27 +11,27 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
   "raw_markdown_url": "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
   "domain": "loyalty",
-  "title": "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+  "title": "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+    "title": "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
     "aliases": [
       "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "sb-yahoo-paypay-points-unified-ecosystem",
       "PayPay Points ecosystem",
       "PayPayポイント",
-      "Yahoo!ポイント PayPay統合",
-      "SoftBank Smart Login points",
+      "Yahoo!ショッピング PayPayポイント",
+      "LINE PayPay account linking",
       "LY PayPay Points integration",
-      "LINE Yahoo points 2025"
+      "LINE PayPay points 2026"
     ],
     "domain": "loyalty",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "loyalty",
       "points",
@@ -42,32 +42,30 @@
       "softbank",
       "ly-corp",
       "japan",
-      "2022-unification",
-      "2025-ly-integration"
+      "2022-rename",
+      "2026-account-linking"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://paypay.ne.jp/",
-      "https://about.paypay.ne.jp/news/",
-      "https://about.paypay.ne.jp/corp/",
-      "https://paypay-card.co.jp/",
-      "https://www.lycorp.co.jp/ja/news/",
-      "https://www.softbank.jp/corp/news/press/",
-      "https://www.softbank.jp/biz/blog/business/articles/202404/",
-      "https://paymentsjapan.or.jp/category/publications/"
+      "https://about.paypay.ne.jp/en/pr/20220301/01/",
+      "https://www.lycorp.co.jp/en/news/release/008632/",
+      "https://www.lycorp.co.jp/ja/news/release/016863/",
+      "https://about.paypay.ne.jp/en/pr/20260702/01/",
+      "https://about.paypay.ne.jp/en/pr/20260318/02/",
+      "https://about.paypay.ne.jp/en/about/"
     ]
   },
   "summary": "This entry sits under loyalty index as the wallet-anchored common-point deep page, complementing the bank-anchored V Point case, the telco-anchored d Point detailed ecosystem and d Point / au telco-point consolidation case, the coalition-anchored Ponta points deep dive, and the post-merger detail in",
   "headings": [
-    "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+    "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
     "Wiki route",
     "TL;DR",
-    "2022 unification — the consolidation event",
-    "2023-10 LY Corporation integration — parent-level alignment",
-    "2025 LINE Yahoo points integration — LINE Pay termination consequences",
+    "2022 name change — what changed and what did not",
+    "2023 corporate integration — separate from point-program integration",
+    "2025 LINE Pay termination and 2026 account linking",
     "Member ID base and reach",
     "Accounting treatment — campaign cost vs contract liability",
     "Comparison with other major common points",
@@ -121,13 +119,19 @@
       "https://finwiki.zksc.io/ja/domains/retail/",
       "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://about.paypay.ne.jp/en/pr/20220301/01/",
+      "https://about.paypay.ne.jp/en/pr/20260318/02/",
+      "https://about.paypay.ne.jp/en/pr/20260702/01/",
+      "https://www.lycorp.co.jp/en/news/release/008632/",
+      "https://www.lycorp.co.jp/ja/news/release/016863/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12721,
-    "word_like_tokens": 2062,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 11352,
+    "word_like_tokens": 1922,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-07-29"
   }
 }

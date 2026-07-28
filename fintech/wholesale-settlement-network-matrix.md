@@ -9,9 +9,9 @@ aliases:
   - wholesale CBDC vs deposit-token matrix
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [fintech, wholesale-settlement, cbdc, deposit-token, matrix, comparison, fnality, partior, jpmorgan, kinexys, mbridge, agora, mariana, central-bank-money, commercial-bank-money]
 status: active
@@ -21,10 +21,11 @@ sources:
   - https://www.partior.com/
   - https://www.mas.gov.sg/news/media-releases/2021/partior-launch
   - https://www.jpmorgan.com/kinexys
-  - https://www.jpmorgan.com/onyx
-  - https://www.bis.org/about/bisih/topics/cbdc.htm
-  - https://www.bis.org/about/bisih/topics/cbdc/agora.htm
-  - https://www.bis.org/publ/work1116.htm
+  - https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.bis.org/about/bisih/topics/cbdc/mariana.htm
+  - https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26
 ---
 
 # Wholesale settlement network comparison matrix — Fnality / Partior / JPM Kinexys / mBridge / Agorá / Mariana
@@ -34,24 +35,24 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]] as the six-way side-by-side comparison matrix for the most-cited wholesale settlement networks. It complements the per-network deep dives at [[fintech/fnality-wholesale-settlement|Fnality fnPS]], [[fintech/partior-jpm-dbs-temasek-consortium|Partior]], [[fintech/jpm-onyx-wholesale-network|JPM Onyx / Kinexys]], [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]], and [[fintech/bis-project-agora-overview|BIS Project Agorá]]. For the governance pattern see [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]; for the central-banking-unbundling context see [[fintech/central-banking-function-unbundling|央行职能解体]]; for the interoperability story with stablecoins see [[fintech/circle-usdc-stablecoin|Circle USDC]] and [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]].
 
 > [!info] TL;DR
-> Six wholesale-settlement networks anchor the 2026-05 public dataset: **Fnality fnPS** (BoE-licensed central-bank-reserve token, GBP live 2024-Q2, 20+ shareholder banks), **Partior** (4-bank Singapore-MAS-licensed consortium, USD/SGD/EUR/GBP/JPY live, $1.5T cumulative), **JPM Kinexys** (single-bank-owned $5B/day, $1.5T cumulative, JPM Coin + Liink + Onyx Digital Assets), **mBridge** (BIS multi-CBDC bridge — PBoC/HKMA/BoT/CBUAE/SAMA after BIS exit 2025-10), **Project Agorá** (7 G10 central banks + 40 commercial banks, design-phase since 2024-04), and **Project Mariana** (BIS multi-CBDC FX swap PoC with BdF/MAS/SNB, completed 2023). Read across the matrix the structural pattern: **settlement asset (central-bank reserve vs commercial-bank deposit vs synthetic) is the binding regulatory variable**, **consortium membership shape (single-bank vs multi-bank vs central-bank-only) dictates governance speed**, and **only Fnality has 100% central-bank-reserve backing with full BoE approval as a systemic payment system**.
+> The six initiatives do not share one maturity or legal category. **Fnality £FnPS** made pilot payments in December 2023 and began operating under Bank of England limits in December 2024. **Partior** is a private, permissioned commercial clearing-and-settlement network whose public materials identify USD, EUR and SGD commercial flows. **Kinexys by J.P. Morgan** reported more than $1.5T processed since inception and more than $2B in average daily volume in November 2024. **mBridge** reached MVP in mid-2024, after which the BIS handed the project to its central-bank partners in October 2024. **Project Agorá** delivered a prototype—not a finished product—in May 2026 with eight central banks and more than 40 financial institutions. **Project Mariana** was a research proof of concept completed in 2023. Comparisons should therefore separate settlement asset, operator, production status and disclosed volume rather than rank all six as equivalent live networks. ^[Fnality: https://www.bankofengland.co.uk/report/2024/rtgs-and-chaps-annual-report-2023-24 and https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26; Partior: https://partior.com/about-us/our-story; Kinexys: https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys; mBridge: https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm; Agorá: https://www.bis.org/about/bisih/topics/fmis/agora.htm; Mariana: https://www.bis.org/about/bisih/topics/cbdc/mariana.htm]
 
 ## Why a six-way comparison
 
-Single-network narratives ("Fnality is the consortium model," "Kinexys is the single-bank model") capture different parts of the story but obscure the binding structural variable: **what settlement asset backs each token**. By placing all six networks side-by-side on **settlement asset / consortium membership / currencies live / daily volume / regulatory status / central-bank backing / interoperability with stablecoins**, the regulatory-arbitrage and competitive-positioning patterns become visible. The matrix also clarifies why **Fnality is the only currently live system with full RTGS-equivalent finality** (central-bank reserves), why **Kinexys leads in volume despite single-bank constraint** (decision speed without multi-shareholder coordination), and why **mBridge survived the BIS withdrawal** (the operational machinery was already running and the political coordination problem the BIS posed was already solved). For the broader institutional-stablecoin-deposit-token contrast see [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC vs TD 论点]].
+Single-network narratives ("Fnality is the consortium model," "Kinexys is the single-bank model") capture different parts of the story but obscure the central structural variable: **what settlement asset or claim is being transferred**. Placing the initiatives side-by-side on settlement asset, operator, maturity, disclosed currencies and volume helps distinguish regulated infrastructure from bank products and research prototypes. The public evidence does not support treating every row as a production network or inferring a single speed ranking from consortium size. For the broader institutional-stablecoin-deposit-token contrast see [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC vs TD 论点]]. ^[Status sources: https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26; https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm; https://www.bis.org/about/bisih/topics/fmis/agora.htm]
 
 ## Matrix A · Settlement asset and finality
 
 | Network | Settlement asset | Finality type | Equivalent to |
 |---|---|---|---|
-| **[[fintech/fnality-wholesale-settlement\|Fnality fnPS]]** | **Central-bank reserves** (omnibus account at BoE / Fed / ECB / BoJ; 1:1 reserve-backed tokens) | **RTGS final settlement** (legally final) | Tokenised central-bank reserves |
+| **[[fintech/fnality-wholesale-settlement\|Fnality £FnPS]]** | Funds held through the Bank of England RTGS Omnibus Account | DLT-based sterling settlement under operating limits | Central-bank-money-backed settlement representation |
 | **[[fintech/partior-jpm-dbs-temasek-consortium\|Partior]]** | **Commercial-bank deposits** (4 main shareholder bank balance sheets interlocking) | Near-RTGS (atomic PvP on commercial-deposit basis) | Multi-bank commercial-deposit network |
 | **[[fintech/jpm-onyx-wholesale-network\|JPM Coin (Kinexys)]]** | **JPM commercial-bank deposits** (single bank balance sheet) | Internal RTGS within JPM customer base | Single-bank tokenised deposit |
-| **[[fintech/mbridge-bis-multi-cbdc-overview\|mBridge]]** | **Wholesale CBDCs** of 5+ participating central banks (PBoC / HKMA / BoT / CBUAE / SAMA) | **RTGS final settlement** (atomic PvP) | Multi-currency wholesale CBDC bridge |
-| **[[fintech/bis-project-agora-overview\|Project Agorá]]** | **Mixed**: wholesale CBDCs (M0 central-bank money) + tokenised commercial bank deposits (M1) on shared platform | Design phase; finality model not yet fully specified | Hybrid M0 + M1 interoperability layer |
+| **[[fintech/mbridge-bis-multi-cbdc-overview\|mBridge]]** | Wholesale CBDCs of participating central banks | MVP enabled for real-value transactions subject to jurisdictional readiness | Multi-currency wholesale-CBDC platform |
+| **[[fintech/bis-project-agora-overview\|Project Agorá]]** | Tokenised central-bank reserves + tokenised commercial-bank deposits | Prototype demonstrated atomic multi-currency settlement | Research prototype combining central- and commercial-bank money |
 | **Project Mariana** | Synthetic — wholesale CBDC + automated market maker for cross-currency swap | PoC completed 2023; not in production | FX swap experiment using wCBDC + AMM |
 
-**The central distinction is M0 vs M1 vs synthetic**: Fnality and mBridge use **M0 central-bank money** (tokenised reserves / wholesale CBDC); Partior and Kinexys use **M1 commercial-bank deposits**; Agorá explicitly experiments with **both layers simultaneously**; Mariana uses **synthetic wCBDC + AMM** as a research design. This is the single most consequential dimension because it determines (a) legal finality, (b) regulatory status, (c) whether the system can serve as final settlement vs intermediate settlement, and (d) whether the system competes with or complements existing RTGS rails.
+**The central distinction is the legal claim represented by the settlement asset**: Fnality uses funds held through a central-bank omnibus account; mBridge experiments with wholesale CBDCs; Partior and Kinexys operate through commercial-bank-money arrangements; Agorá combines tokenised central-bank reserves and commercial-bank deposits in a prototype; and Mariana tested wCBDC/AMM mechanics. The legal and operational consequences must be assessed from each system's rules and jurisdiction rather than inferred from a simple M0/M1 label.
 
 ## Matrix B · Consortium membership
 
@@ -60,50 +61,50 @@ Single-network narratives ("Fnality is the consortium model," "Kinexys is the si
 | Fnality fnPS | **Multi-bank consortium + infrastructure** | **20+ shareholders**: Lloyds, Santander, UBS, BNY Mellon, Barclays, Goldman, MUFG, ING, Sumitomo Mitsui, State Street, Nasdaq Ventures, DTCC, Euroclear | Multi-shareholder governance; slow decision speed (£ fnPS took 9 years from USC concept to launch) |
 | Partior | **4 main shareholders + 30+ network members** | **JPMorgan + DBS + Temasek + Standard Chartered (2024)** | Singapore-anchored; faster than Fnality but slower than Kinexys |
 | JPM Kinexys | **Single bank** | **JPM only** | Fastest decision speed; 180+ institutional clients via Liink |
-| mBridge | **Central-bank consortium** | **5 active central banks** post-BIS exit: PBoC + HKMA + BoT + CBUAE + SAMA | Multi-central-bank with PBoC operational lead post-2025-10 BIS exit |
-| Project Agorá | **G10 central banks + global commercial banks** | **7 G10 central banks** (FRBNY, BoE, BdF, BoJ, BoK, Banxico, SNB) + **40+ commercial banks** | BIS-coordinated; design phase |
+| mBridge | **Central-bank consortium** | Five participating central banks after SAMA joined in 2024 | BIS handed the project to the partners in October 2024 |
+| Project Agorá | **Central banks + regulated financial institutions** | **8 central banks + 40+ financial institutions** | BIS/IIF-coordinated prototype; further testing planned |
 | Project Mariana | **3 central banks** (PoC) | BdF + MAS + SNB | Time-limited research PoC (2022-2023) |
 
-**Decision-speed scaling**: **Kinexys (1 bank) > Partior (4 banks) > mBridge (5 central banks) > Fnality (20+ banks) > Agorá (47+ institutions)**. The Fnality 9-year-to-launch vs Kinexys' 4-year-to-$1.5T comparison is the canonical case for "multi-shareholder governance is slow." But Fnality has central-bank-reserve backing that Kinexys structurally cannot match (a commercial bank cannot tokenise other banks' reserves), making the comparison about **scope of legitimacy** rather than pure speed.
+Membership counts describe governance breadth, but they do not by themselves prove a decision-speed ordering. Kinexys is operated within one banking group, Partior has multiple shareholders and participating banks, Fnality has a multi-bank shareholder base, and mBridge / Agorá coordinate public authorities. Their timelines also reflect different legal, settlement-asset and project-scope requirements.
 
 ## Matrix C · Currencies live (2026-05)
 
 | Network | Currencies live | Currencies in pipeline |
 |---|---|---|
-| Fnality fnPS | **GBP** (£ fnPS live 2024-Q2; first commercial tx Lloyds × Santander × UBS) | **USD / EUR / JPY** in regulator negotiation (Fed / ECB / BoJ); 2026-2027 expected |
-| Partior | **USD / SGD / EUR / GBP / JPY** (5 live) | **INR / IDR** planned 2026-Q1 |
-| JPM Kinexys | **USD / EUR / GBP** (3 live); **SGD** planned 2026-Q2 | SGD via partnership; long-term JPY |
+| Fnality £FnPS | **GBP**; pilot payments in Dec. 2023 and operation under limits from Dec. 2024 | Future currency systems are not treated here as dated commitments |
+| Partior | **USD / EUR / SGD** commercial flows disclosed | Additional currencies, including JPY, are expansion / study items rather than confirmed live currencies |
+| JPM Kinexys | Public materials describe multi-currency digital payments, but this review does not assert a complete live-currency list | FX functionality and additional use cases continue to evolve |
 | mBridge | **CNY / HKD / THB / AED / SAR** (5 currencies tied to participating central banks) | Brazil DREX (BCB) Q2 2026 H2 interoperability test |
 | Project Agorá | Test currencies for design phase; no production currencies live | n/a (Phase 2 design ongoing) |
 | Project Mariana | EUR / SGD / CHF (PoC) | n/a (PoC completed 2023) |
 
-**Currency coverage scoreboard**: Partior has the most production-live currencies (5), Fnality has the highest **regulatory weight** per currency (only one live, but it is BoE-approved central-bank-reserve-backed), mBridge has the largest **non-USD coverage**, Kinexys has the deepest single-currency penetration (USD). Agorá and Mariana are research/design programmes without production currency coverage.
+The disclosed currency sets are not directly comparable: Partior identifies USD, EUR and SGD commercial flows; Fnality currently operates a sterling system under limits; mBridge's currencies follow participating central banks; and Agorá / Mariana are prototype or research programmes rather than production currency networks. ^[Partior: https://partior.com/about-us/our-story and https://partior.com/news-and-insights/nh-nonghyup-bank-pilots-blockchain-based-cross-border-payments-with-partior; Fnality: https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26]
 
 ## Matrix D · Daily volume and cumulative scale
 
 | Network | Daily volume (2026-Q1) | Cumulative throughput | Equivalent to |
 |---|---|---|---|
-| Fnality fnPS | Growing post-launch; not yet at meaningful steady state | <£10B cumulative | Early-stage; first commercial year |
-| Partior | Variable; sources suggest single-digit-billion per day | **~$1.5T cumulative** (since 2021-08 launch) | Comparable to Kinexys cumulative |
-| JPM Kinexys | **$5B+ per day** average (~30-40% of USDC daily) | **$1.5T+ cumulative** (since 2024-11 rebrand) | Largest single-network volume |
-| mBridge | Small but growing; specific 2026 daily volume not publicly disclosed | Estimated <$100B cumulative | Limited but politically important |
+| Fnality £FnPS | Not disclosed in the reviewed BoE sources | Not disclosed | Operation under limits |
+| Partior | Not disclosed in the reviewed official sources | Not disclosed | Commercial network; no unsupported estimate inserted |
+| JPM Kinexys | **More than $2B average per day** (Nov. 2024 disclosure) | **More than $1.5T since inception** | Bank-operated production platform |
+| mBridge | Not disclosed | Not disclosed | MVP; real-value use subject to jurisdictional readiness |
 | Project Agorá | n/a (design phase) | n/a | n/a |
 | Project Mariana | n/a (PoC completed) | n/a | n/a |
 
-**Kinexys leads in volume** despite single-bank constraint — because JPM can deploy without coordinating with competitor banks. Partior is comparable on cumulative but represents 4-bank shared activity. Fnality is early-stage with central-bank-reserve backing as its long-term moat. mBridge has lower volume but **structurally different reach**: it covers non-USD cross-border commodity / oil settlement that no other network has access to.
+Kinexys is the only row in this comparison for which the reviewed official source publishes both a daily average and a since-inception value. The absence of comparable official values for the other rows means this table cannot support a cross-network volume ranking. ^[https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys]
 
 ## Matrix E · Regulatory status and central-bank backing
 
 | Network | Lead regulator | Central-bank approval status | Regulatory category |
 |---|---|---|---|
-| Fnality fnPS | **Bank of England** | **BoE 2023-11 statement** confirms £ fnPS as systemically important payment system | **Licensed systemic payment system** (first globally) |
-| Partior | **MAS Singapore** | MAS-licensed wholesale payment network operator | Singapore-anchored licensed PSP |
+| Fnality £FnPS | **Bank of England** | Recognised and supervised; operation remains subject to BoE limits and expectations | DLT-based sterling payment system using an RTGS omnibus account |
+| Partior | Participating institutions and applicable jurisdictions | Reviewed public sources describe a private institutional network; they do not support the prior blanket “MAS-licensed PSP” claim | Commercial clearing-and-settlement infrastructure |
 | JPM Kinexys | **OCC + Fed** (via JPM bank charter) | JPM Coin = on-balance-sheet commercial deposit; legally part of JPM banking license | Tokenised commercial deposit within G-SIB charter |
-| mBridge | **PBoC + HKMA + participating central banks** post-BIS exit | Central-bank-operated platform; no separate regulatory category | Multi-central-bank inter-CB platform |
-| Project Agorá | **BIS coordination + 7 G10 central banks** | Research and design phase; no licensing yet | BIS Innovation Hub design phase |
+| mBridge | Participating central banks after the BIS handover in Oct. 2024 | MVP enabled for real-value transactions subject to jurisdictional readiness | Multi-central-bank experimental platform |
+| Project Agorá | **BIS / IIF + 8 central banks** | Prototype delivered; further testing planned | Public-private research prototype |
 | Project Mariana | BdF + MAS + SNB | Completed PoC | Research-only |
 
-The regulatory category split is binary: **Fnality is the only system that is both production-live AND holds a dedicated systemic-payment-system license**. Kinexys is technically a feature of JPM's banking license rather than a separate licensed system. Partior is licensed as a PSP. mBridge operates as a multi-central-bank inter-CB platform without commercial regulatory framework. Agorá and Mariana are explicitly research / design.
+The regulatory categories are not binary. Fnality is a recognised and supervised payment system operating under limits; Kinexys sits within J.P. Morgan's banking perimeter; Partior is commercial infrastructure used by regulated financial institutions; mBridge is a central-bank MVP; and Agorá / Mariana are research prototypes. A platform's technology label does not establish its legal finality or licensing status. ^[Fnality status: https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26; project status: https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm and https://www.bis.org/about/bisih/topics/fmis/agora.htm]
 
 ## Matrix F · Technology stack
 
@@ -116,7 +117,7 @@ The regulatory category split is binary: **Fnality is the only system that is bo
 | Project Agorá | Not finalised; design phase exploring multiple platforms | Not publicly specified in the cited design materials | Designed to be platform-agnostic |
 | Project Mariana | Distributed ledger with AMM module | PoC ledger | n/a (research) |
 
-The technology stack pattern: **all production systems use permissioned BFT consensus** (no public-chain consensus); **Quorum / Besu / Fabric** dominate; **Canton emerges in 2026** as JPM's chosen privacy-and-composability target for JPMD; **HotStuff BFT** is unique to mBridge. The platform-agnosticism of Agorá is a deliberate design choice — BIS coordination across 7 G10 central banks cannot mandate a single stack.
+The reviewed systems use controlled-access infrastructure, but their published materials do not expose a uniform level of technical detail. Agorá is a prototype involving eight central banks and more than 40 financial institutions; its official result should not be read as a commitment to one production stack. Technology comparisons must therefore distinguish verified implementation disclosures from roadmap or inference.
 
 ## Matrix G · Cross-border PvP / DvP capability
 
@@ -129,7 +130,7 @@ The technology stack pattern: **all production systems use permissioned BFT cons
 | Project Agorá | **Cross-border PvP + DvP** are explicit design goals for Phase 2 | DvP design phase | Cross-currency atomic swap is design goal |
 | Project Mariana | **Cross-currency wCBDC swap via AMM** (PoC result) | n/a | Mariana's central PoC finding |
 
-**Herstatt risk elimination** is the explicit goal of all six networks — but only **Partior (live), Fnality (regulator-approved, $-fnPS pending), and mBridge (live PvP across 5 central banks)** can claim production capability. Kinexys's cross-currency capability is internal-only; Agorá and Mariana are design / research. Project Mariana's 2023 PoC validated that wCBDC + AMM could clear cross-currency FX atomically — a foundational result that influenced both Agorá design and mBridge architecture.
+PvP and atomic settlement are common design goals, but production status differs. Partior discloses commercial flows, Fnality operates its sterling system under limits, mBridge is an MVP whose real-value use depends on jurisdictional readiness, Agorá delivered a prototype, and Mariana completed a PoC. The reviewed sources do not establish that Mariana directly determined the architectures of Agorá or mBridge.
 
 ## Matrix H · Interoperability with stablecoins / tokenized assets
 
@@ -139,10 +140,10 @@ The technology stack pattern: **all production systems use permissioned BFT cons
 | Partior | Stablecoin-bridge concept (USDC) discussed but not live | Tokenised asset DvP design |
 | JPM Kinexys / JPMD | **JPMD is JPM's commercial deposit tokenised onto Base + Canton public chains** — direct SC-adjacent | **[[fintech/blackrock-buidl-tokenized-mmf-overview\|BUIDL]] IM collateral** + Onyx Digital Assets repo |
 | mBridge | Not in scope; mBridge is wCBDC-only | Not in scope |
-| Project Agorá | **Explicit goal**: stablecoin → bank deposit → wCBDC three-layer pass-through | Tokenised securities + RWA interop is design goal |
+| Project Agorá | The official prototype scope combines tokenised commercial-bank deposits and central-bank reserves; it does not establish a live stablecoin pass-through | Further use cases remain subject to future testing |
 | Project Mariana | n/a | n/a |
 
-This is the dimension where **Agorá's strategic positioning becomes clearest**: it explicitly aims to be the **interoperability layer between stablecoins (private), tokenised deposits (commercial-bank M1), and wholesale CBDC (central-bank M0)**. If the three-circle MRA framework crystallises (US GENIUS + EU MiCA + HK / SG / JP cross-recognition), Agorá would become the natural settlement anchor where compliant stablecoins ultimately redeem. Fnality and Kinexys both have stablecoin-adjacent strategies but are not architected as multi-layer interoperability fabrics.
+Agorá's official prototype scope is narrower than the prior claim: it tests tokenised commercial-bank deposits and central-bank reserves on a shared programmable arrangement. Any future role as a stablecoin interoperability layer is an analytical possibility, not a delivered capability or stated MRA-dependent roadmap. ^[https://www.bis.org/about/bisih/topics/fmis/agora.htm]
 
 ## Matrix I · Strategic position relative to SWIFT
 
@@ -167,19 +168,19 @@ The nine matrix axes (settlement asset, consortium membership, currencies live, 
 4. **Daily volume** — measures realised adoption (the only metric that matters post-launch).
 5. **Regulatory status** — determines whether the system can serve as final settlement (Fnality's BoE license is unique).
 6. **Central-bank backing** — determines legitimacy ceiling.
-7. **Stablecoin interoperability** — determines whether the system fits into the post-GENIUS three-circle MRA framework.
+7. **Interoperability** — determines how the system can connect to other payment, token and asset networks.
 8. **Technology stack** — determines operational risk and cross-chain reach.
 9. **SWIFT relationship** — determines competitive positioning vs the incumbent.
 
-These nine dimensions together explain why **Fnality is the only system that can claim "tokenised central-bank money"** as a product category, why **Kinexys leads in raw throughput** despite single-bank constraint, why **Partior occupies the Asian-corridor commercial-deposit middle ground**, why **mBridge survived BIS withdrawal** (operational machinery already running), and why **Agorá is positioned as the future interoperability layer** rather than a competitor to any of the live systems. The matrix view exposes these structural patterns side-by-side.
+These nine dimensions show why the six rows are not substitutes: Fnality is supervised sterling infrastructure backed through a central-bank omnibus account; Kinexys is a bank-operated platform with disclosed production volume; Partior is a multi-bank commercial network; mBridge is a central-bank MVP; and Agorá / Mariana are prototypes. The matrix is a classification aid, not evidence for a universal ranking.
 
 ## Reading the matrix
 
 - **Fnality is "tokenised central-bank money"; Kinexys is "tokenised commercial-bank deposit"; mBridge is "wholesale CBDC bridge"; Partior is "multi-bank deposit consortium"**. These are four structurally different products that get casually grouped as "wholesale settlement" but have completely different regulatory classifications and finality properties.
-- **Fnality's 9-year-to-launch reflects multi-shareholder governance friction**. Kinexys's 4-year-to-$1.5T reflects single-bank decision speed. The architectural choice (consortium vs single-bank) drives the speed differential — but Fnality has central-bank-reserve backing that Kinexys structurally cannot match.
-- **BIS withdrawal from mBridge (2025-10) was a political decision, not a technical one**. The operational platform continued under PBoC operational lead; if anything, BIS withdrawal **clarified the political alignment** rather than disrupting operations. Agorá launch (2024-04) was BIS's pivot toward a Western-led parallel.
+- **Different timelines do not isolate one cause**. Fnality and Kinexys differ in operator, legal perimeter, settlement asset and scope, so their elapsed time and volume cannot be attributed solely to shareholder count.
+- **The BIS handover of mBridge occurred in October 2024, not October 2025**. The BIS stated that the project had reached a stage where the partners could carry it forward and explicitly rejected failure or political considerations as the reason. The official material does not identify a PBoC-only operational lead. ^[https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm; https://www.bis.org/speeches/sp241031.htm]
 - **Project Mariana's 2023 PoC** validated that wCBDC + AMM could clear cross-currency FX atomically — a foundational result that influenced both Agorá design and mBridge architecture. Many of Agorá's Phase 2 design goals trace back to Mariana findings.
-- **Stablecoin interoperability is the next-decade boundary condition**. The three-circle MRA framework (GENIUS / MiCA / EPI) plus Agorá's M0-M1-stablecoin three-layer model implies an architecture where compliant stablecoins ultimately redeem into wholesale CBDC via tokenised bank deposits. Fnality and Kinexys are positioned for this architecture; mBridge is not (wCBDC-only by design).
+- **Stablecoin interoperability remains a scenario, not an Agorá result**. The official Agorá prototype combines tokenised commercial-bank deposits and central-bank reserves; extending that design to stablecoins would require additional legal, governance and technical work.
 - **SWIFT × Fnality is the canonical "incumbent + tokenised" partnership** (2024-Q4). It suggests SWIFT's strategic positioning is to **provide cross-border messaging on top of tokenised settlement assets** rather than to replace its own correspondent-banking model directly.
 - **The "consortium of 20" vs "single bank" vs "five central banks" governance comparison** is the canonical case for the [[fintech/multi-megabank-consortium-governance|multi-megabank consortium governance]] tradeoff: speed vs scope of legitimacy.
 
@@ -206,13 +207,12 @@ These nine dimensions together explain why **Fnality is the only system that can
 ## Sources
 
 - Fnality International public materials: https://www.fnality.org/
-- Bank of England — statement on Fnality (2023-11): https://www.bankofengland.co.uk/news/2023/november/boe-statement-on-fnality
+- Bank of England — first pilot payments (Dec. 2023): https://www.bankofengland.co.uk/report/2024/rtgs-and-chaps-annual-report-2023-24
+- Bank of England — £FnPS operation under limits from Dec. 2024: https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision/report/fmi-annual-report-2025-26
 - Partior public materials: https://www.partior.com/
 - MAS — Partior launch announcement (2021): https://www.mas.gov.sg/news/media-releases/2021/partior-launch
-- JPMorgan Kinexys public site: https://www.jpmorgan.com/kinexys
-- JPMorgan Onyx legacy page: https://www.jpmorgan.com/onyx
-- BIS Innovation Hub CBDC topic landing: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Project Agorá page: https://www.bis.org/about/bisih/topics/cbdc/agora.htm
-- BIS Working Paper No. 1116 — "The next-generation monetary system — a blueprint" (2024): https://www.bis.org/publ/work1116.htm
-- BIS Project Mariana — published research report (2023)
+- JPMorgan — Introducing Kinexys, including disclosed volume: https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
+- BIS — Project mBridge MVP and October 2024 handover: https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+- BIS — Project Agorá prototype (May 2026): https://www.bis.org/about/bisih/topics/fmis/agora.htm
+- BIS — Project Mariana: https://www.bis.org/about/bisih/topics/cbdc/mariana.htm
 - SWIFT × Fnality collaboration announcement (2024-Q4): https://www.swift.com/news-events/news/swift-fnality-collaboration

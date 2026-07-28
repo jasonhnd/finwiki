@@ -3,17 +3,18 @@ title: 日本郵政株式会社
 aliases: ["日本郵政", "Japan Post Holdings", "JP Holdings", "JP", "6178"]
 domain: megabanks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [JapanFG, postal, holding-company, listed, government-stake]
 status: active
 sources:
-  - "Wikipedia: 日本郵政 (2026-05-25 抽出)"
-  - "日本郵政 公式サイト (https://www.japanpost.jp/, 2026-05-25 参照)"
-  - "日本郵政株式会社法 (平成 17 年法律第 98 号)"
-  - "東京証券取引所 上場会社情報 6178 (2026-05-25 参照)"
+  - "https://www.japanpost.jp/en/ir/stock/index10.html"
+  - "https://www.japanpost.jp/en/ir/faq/index.html"
+  - "https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html"
+  - "https://www.jp-life.japanpost.jp/IR/en/stock/basic.html"
+  - "https://www.post.japanpost.jp/about/profile_en.html"
 ---
 # 日本郵政株式会社
 
@@ -23,7 +24,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 
 ## TL;DR
 
-**日本郵政グループの持株会社（東証プライム 6178）**。郵便（[[megabanks/japan-post-co|日本郵便]]）・銀行（[[regional-banks/japan-post-bank|ゆうちょ銀行 7182]]）・生保（[[life-insurers/kampo-life|かんぽ生命 7181]]）の三事業を傘下に統合。**2005 郵政民営化法 → 2007-10 持株会社化 → 2015-11 三社同時上場（トリプル IPO）** という戦後最大級の民営化案件。日本政府（財務大臣）は法律により **3 分の 1 超の議決権保有義務** あり（現在も過半数保有が継続）。子会社 [[regional-banks/japan-post-bank|ゆうちょ銀行]] / [[life-insurers/kampo-life|かんぽ生命]] については日本郵政の保有割合を段階的に引き下げる方針。2019 [[life-insurers/kampo-life|かんぽ生命]] 不適切販売問題、2024-2025 [[regional-banks/japan-post-bank|ゆうちょ銀行]] 持株比率引下げ・成長戦略再構築が直近論点。
+**日本郵政は日本郵政グループの上場持株会社（東証プライム 6178）**で、日本郵便、ゆうちょ銀行、かんぽ生命を主要グループ会社とする。政府には日本郵政株式の 3 分の 1 超を保有する法的義務があり、2026-03-31 時点の財務大臣保有比率は自己株式控除後ベースで 38.05% であって、過半数ではない。同日時点で日本郵政は日本郵便を 100%、ゆうちょ銀行を約 49.87%、かんぽ生命を 49.75% 保有しており、金融 2 社はいずれも既に 50% 未満である。^[Japan Post Holdings shareholders: https://www.japanpost.jp/en/ir/stock/index10.html; Japan Post Bank ownership: https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; Japan Post Insurance ownership: https://www.jp-life.japanpost.jp/IR/en/stock/basic.html; Japan Post Co. ownership: https://www.post.japanpost.jp/about/profile_en.html]
 
 ## 1. 法人構造
 
@@ -35,15 +36,15 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 **本社**: 東京都千代田区大手町
 **主要株主**: **財務大臣**（3 分の 1 超保有 = 法律義務）
 **業態**: 特殊会社（株式会社、上場）
-**法的根拠**: **日本郵政株式会社法**（平成 17 年法律第 98 号）
+**法的根拠**: **日本郵政株式会社法**（平成 17 年法律第 98 号）^[Current shareholder data and statutory-holding explanation: https://www.japanpost.jp/en/ir/stock/index10.html and https://www.japanpost.jp/en/ir/faq/index.html]
 
 ### グループ構造
 
 ```
 日本郵政株式会社（6178、財務大臣 3 分の 1 超保有）
   ├── [[megabanks/japan-post-co|日本郵便株式会社]]（郵便・物流、100%）
-  ├── [[regional-banks/japan-post-bank|株式会社ゆうちょ銀行]]（7182、上場、過半数保有）
-  └── [[life-insurers/kampo-life|株式会社かんぽ生命保険]]（7181、上場、過半数保有）
+  ├── [[regional-banks/japan-post-bank|株式会社ゆうちょ銀行]]（7182、上場、約 49.87%）
+  └── [[life-insurers/kampo-life|株式会社かんぽ生命保険]]（7181、上場、49.75%）
 ```
 
 ※ 日本郵政の [[regional-banks/japan-post-bank|ゆうちょ]] / [[life-insurers/kampo-life|かんぽ]] 出資比率は段階的引下げ方針
@@ -79,13 +80,16 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 - **日本郵政株式会社法**: 政府は日本郵政の株式の **3 分の 1 超** を保有する義務
 - 日本郵政は [[regional-banks/japan-post-bank|ゆうちょ銀行]] / [[life-insurers/kampo-life|かんぽ生命]] 株式の保有比率を段階的に引下げ（金融 2 社の完全民営化を目指す）
 
-### 政府保有比率推移
+### 現在の主要持株比率
 
-| 時期 | 政府（財務大臣）保有比率 |
-|---|---|
-| 2015-11 IPO 時 | 80.49% |
-| 2017-09 2 次売出後 | 約 57% |
-| 2021-10 3 次売出後 | 約 60.6% → ※買戻・売出が交錯 |
+| 対象 | 保有者 | 比率 | 基準日 |
+|---|---|---:|---|
+| 日本郵政 | 財務大臣 | 38.05%（自己株式控除後） | 2026-03-31 |
+| 日本郵便 | 日本郵政 | 100% | 2026-03-31 |
+| ゆうちょ銀行 | 日本郵政 | 約 49.87% | 2026-03-31 |
+| かんぽ生命 | 日本郵政 | 49.75% | 2026-03-31 |
+
+比率の分母定義は各社開示に従う。^[https://www.japanpost.jp/en/ir/stock/index10.html; https://www.post.japanpost.jp/about/profile_en.html; https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; https://www.jp-life.japanpost.jp/IR/en/stock/basic.html]
 
 ### トリプル IPO（2015-11-04）
 
@@ -109,7 +113,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 ### 金融 2 社民営化の進捗
 
 - 日本郵政株式会社法上、[[regional-banks/japan-post-bank|ゆうちょ]] / [[life-insurers/kampo-life|かんぽ]] の完全民営化が目標
-- 2025 時点で日本郵政は両社の過半数を保有 → 売出継続が政策課題
+- 2026-03-31 時点で日本郵政の持分は、ゆうちょ銀行約 49.87%、かんぽ生命 49.75% と、ともに 50% 未満
 - 完全民営化されれば、ユニバーサルサービス義務との両立が論点となる
 
 ## Related
@@ -121,12 +125,13 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 
 ## Sources
 
-- **Wikipedia: 日本郵政**（https://ja.wikipedia.org/wiki/日本郵政, 2026-05-25 抽出）
-- **日本郵政 公式サイト**（https://www.japanpost.jp/, 2026-05-25 参照）
-- **日本郵政株式会社法**（平成 17 年法律第 98 号）
-- **東京証券取引所 6178**（https://www.jpx.co.jp/, 2026-05-25 参照）
-- **郵政民営化法**（平成 17 年法律第 97 号）
+- Japan Post Holdings — General Stock Information: https://www.japanpost.jp/en/ir/stock/index10.html
+- Japan Post Holdings — IR Q&A / statutory ownership: https://www.japanpost.jp/en/ir/faq/index.html
+- Japan Post Bank — current position within the group: https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html
+- Japan Post Insurance — General Stock Information: https://www.jp-life.japanpost.jp/IR/en/stock/basic.html
+- Japan Post Co. — Corporate Information: https://www.post.japanpost.jp/about/profile_en.html
 
 ---
 
 > [!info] 校核状態
+> confidence: **certain**（2026-07-29）。政府、日本郵便、ゆうちょ銀行、かんぽ生命の持株比率を各社の 2026-03-31 公式開示で再確認し、旧「政府・金融 2 社とも過半数」記述を訂正した。

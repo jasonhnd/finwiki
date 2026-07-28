@@ -1,11 +1,12 @@
 ---
 source: life-insurers/dai-ichi-life
-source_hash: 28f55d1e0c52cbcd
+source_hash: 38c0e46ae039d2c2
 lang: en
+model: codex-source-faithful
 status: machine
 fidelity: ok
-title: "第一ライフグループ / 旧 第一生命 HD"
-translated_at: 2026-06-19T06:09:18.040Z
+title: "Daiichi Life Group / formerly Dai-ichi Life HD"
+translated_at: 2026-07-28T19:18:08Z
 ---
 
 # 第一ライフグループ / 旧 第一生命 HD
@@ -16,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-One of the major domestic 4  life insurers (Dai-ichi Life / [[life-insurers/nippon-life]] / Sumitomo Life / Meiji Yasuda Life). **Founded 1902-09 , Japan's first mutual-company-form insurance company**. Demutualized and listed 2010-04  (the largest mutual-to-stock conversion in history at the time); converted to a holding company 2016-10 , **launching Dai-ichi Life HD**. In 2026-04-01 it changed its trade name to **Daiichi Life Group, Inc. (株式会社第一ライフグループ)**. TSE PRIME 8750. Strategy: **domestic (sales-representative + bank counter sales + multi-tied agency 3  axes) + overseas (US Protective / Australian TAL / Asia) + asset management (the Mizuho JV Asset Management One)**. **FY2024 (2025-03  period) net income 4,296 億円 (+34%), with overseas business profit exceeding 1,000 億円 for the first time (1,146 億円)** and US Protective profit 3.4 x. Promoting DX such as the health-promotion-type "Kenko Daiichi." The mid-term plan "Re-connect 2026" (2024〜) is being rolled out.
+Daiichi Life Group, Inc. is a listed insurance group (securities code 8750) that was founded in 1902 as Japan's first mutual life insurance company, demutualized and listed in 2010, and moved to a holding-company structure in 2016. It changed its name from Dai-ichi Life Holdings, Inc. to its current name on 2026-04-01. Its official FY2024 financial results for the year ended 2025-03 reported JPY 429.6 billion in net income attributable to owners of the parent, JPY 719.0 billion in ordinary profit, and JPY 69.5929 trillion in total assets at year-end. ^[Corporate profile and current trade name: https://www.daiichilife-group.com/en/about/outline.html; history: https://www.daiichilife-group.com/en/about/history.html; FY2024 results: https://www.daiichilife-group.com/en/investor/library/earning/pdf/2024/2024_001.pdf]
 
 ## 1. Company overview
 
@@ -28,7 +29,7 @@ One of the major domestic 4  life insurers (Dai-ichi Life / [[life-insurers/nipp
 **Demutualization and listing**: 2010-04-01
 **Holding-company conversion**: 2016-10-01 (launch of Dai-ichi Life HD)
 **Headquarters**: 1-13-1 Yurakucho, Chiyoda-ku, Tokyo (Dai-ichi Life Building)
-**Business type**: one of the major domestic 4  life insurers
+**Business type**: listed insurance holding company ^[https://www.daiichilife-group.com/en/about/outline.html]
 
 ### Key KPIs (FY2024  = 2025-03  period, consolidated, disclosed 2025-05-15)
 
@@ -159,14 +160,14 @@ One of the major domestic 4  life insurers (Dai-ichi Life / [[life-insurers/nipp
 
 ## Sources
 
-- **Wikipedia: Dai-ichi Life Holdings** (public information 2026-05-19 extracted)
-- **Dai-ichi Life HD official IR / history page** (public information, https://www.dai-ichi-life-hd.com/ → current https://www.daiichilife-group.com/)
-- **2025年3月 period financial summary (consolidated, disclosed 2025-05-15)** https://www.daiichilife-group.com/investor/library/earning/pdf/2024/2024_001.pdf
-- **2026年3月 period 2 quarter interim financial summary (consolidated, disclosed 2025-11-14)** https://www.dai-ichi-life-hd.com/investor/library/earning/pdf/2025_hanki_001.pdf
-- **Results highlights / consolidated** (official IR) https://www.daiichilife-group.com/investor/financial/highlight.html
-- Nikkei 2025-05-15 report (net income +34% / Protective 3.4 x / dividend 137 円)
+- **Daiichi Life Group company profile** https://www.daiichilife-group.com/en/about/outline.html
+- **Daiichi Life Group history** https://www.daiichilife-group.com/en/about/history.html
+- **Announcement of trade-name change** https://www.dai-ichi-life-hd.com/en/newsroom/newsrelease/2024/pdf/index_040.pdf
+- **Financial results for the year ended March 2025 (consolidated, disclosed 2025-05-15)** https://www.daiichilife-group.com/investor/library/earning/pdf/2024/2024_001.pdf
+- **Interim financial results for the year ending March 2026 (consolidated, disclosed 2025-11-14)** https://www.dai-ichi-life-hd.com/investor/library/earning/pdf/2025_hanki_001.pdf
+- **Consolidated financial highlights** (official IR) https://www.daiichilife-group.com/investor/financial/highlight.html
 
 ---
 
 > [!info] Verification status
-> confidence: **high** (v1.1, 2026-05-19 public IR verification completed). FY2024  full-year figures (net income 4,296 億 / ordinary revenue 9.87 兆 / ordinary profit 7,191 億 / total assets 69.6 兆 / overseas business profit 1,146 億 / employees 60,814 名) are based on the financial summary + official IR highlights. The Protective profit 3.4 x increase and the first overseas exceeding 1,000 億 match the Nikkei report and official IR. FY2025  1H actuals (disclosed 2025-11-14) are also reflected.
+> confidence: **certain** (2026-07-29). The current trade name, founding and organizational history, listing information, and principal FY2024 consolidated figures were rechecked against the official company profile, history, and financial results. KPIs from different dates should be read as disclosures for their respective fiscal periods.

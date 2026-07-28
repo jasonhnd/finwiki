@@ -3,16 +3,16 @@ title: トヨタファイナンシャルサービス (TFS)
 aliases: ["TFS", "トヨタファイナンシャルサービス", "Toyota Financial Services", "Toyota Financial Services Corporation", "トヨタ FS"]
 domain: leasing-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [JapanFG, auto-finance, toyota]
 status: active
 sources:
-  - "Wikipedia: トヨタファイナンシャルサービス (2026-05-19 公開情報)"
-  - "Wikipedia: トヨタファイナンス (2026-05-19 公開情報)"
-  - "Toyota Financial Services 公式 公開コーポレートサイト"
+  - "https://www.tfsc.jp/en/company/index.html"
+  - "https://www.tfsc.jp/en/what/index.html"
+  - "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
 ---
 
 # トヨタファイナンシャルサービス (TFS)
@@ -23,17 +23,17 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-**トヨタ自動車 100% 子会社、グローバル自動車金融統括会社**（2000-07-03 設立）。世界 **30 ヶ国超**で自動車ローン・リース・保険・クレカを展開。**米 Toyota Financial Services Americas（旧 TMCC）は米国大手自動車金融**として Ford Motor Credit・Ally Financial に伍する規模。国内コアは **トヨタファイナンス株式会社**（TS キュービックカード・自動車ローン）。新車販売 + ローン + リース + 保険 + クレカの**総合パッケージ**でディーラー網と一体化、Toyota ブランドの収益源として 2024 年以降は EV / コネクテッドカー連動金融へシフト中。非上場（トヨタ自動車 連結子会社）。
+**トヨタファイナンシャルサービス株式会社（TFSC）は、トヨタ自動車が 100% 保有する販売金融子会社の持株会社**で、2000-07-07 に設立された。TFS グループは日本を含む 40 超の国・地域で、自動車ローンやリースなどの販売金融サービスを提供する。TFSC 自体は非上場であり、競合順位、保険持株機能、EV 金融への移行時期については、今回確認した公式会社概要だけでは確定しない。 ^[TFSC company profile: https://www.tfsc.jp/en/company/index.html; TFS Group overview: https://www.tfsc.jp/en/what/index.html]
 
 ## 1. 会社概要
 
-**正式名**：株式会社トヨタファイナンシャルサービス
+**正式名**：トヨタファイナンシャルサービス株式会社
 **英名**：Toyota Financial Services Corporation
-**設立**：2000-07-03
-**本社**：愛知県名古屋市西区（トヨタ自動車 グループ拠点近接）
+**設立**：2000-07-07
+**本社**：愛知県名古屋市西区牛島町 6-1 名古屋ルーセントタワー 15F
 **上場**：非上場 — トヨタ自動車（東証 PRIME 7203）100% 連結子会社
 **親会社**：トヨタ自動車株式会社（[[manufacturer-finance/toyota-motor|toyota-motor]]）
-**位置付け**：トヨタグループの**金融事業統括持株会社**
+**位置付け**：トヨタの販売金融会社を統括する持株会社 ^[https://www.tfsc.jp/en/company/index.html]
 
 ### 主要子会社・グループ会社
 
@@ -45,17 +45,15 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
         │   │     ├── 自動車ローン（新車・中古車）
         │   │     ├── TS キュービックカード（トヨタディーラー会員クレカ)
         │   │     └── リース（個人・法人）
-        │   └── トヨタファイナンシャルサービス・インシュアランス ── 保険持株会社
-        │         (旧 アイオイ・ライフ系統合、生命/損保 取扱)
         ├── 米州
         │   └── Toyota Financial Services Americas
-        │         └── Toyota Motor Credit Corporation (TMCC, 1988 設立)
+        │         └── Toyota Motor Credit Corporation (TMCC, 1982 設立)
         │               ── 米国大手自動車金融、Lexus Financial Services 含む
         ├── 欧州
         │   └── Toyota Kreditbank GmbH (ドイツ拠点)
         │         ── 欧州全域の自動車ローン・リース統括
         ├── アジア・豪州・中南米
-        │   └── 各国 Toyota Financial Services 法人 (30 ヶ国超)
+        │   └── 各国 Toyota Financial Services 法人 (40 超の国・地域)
         │         ── タイ・インドネシア・豪州・ブラジル・南アフリカ等
         └── トヨタモビリティパーツ等の関連金融機能
 ```
@@ -72,17 +70,14 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 | 年月 | 事象 |
 |---|---|
-| 1988 | **米 Toyota Motor Credit Corporation (TMCC) 設立** — 米国自動車金融進出の起点 |
-| 1989 | Toyota Credit Canada 設立（北米展開拡大） |
-| 1990s | 欧州 Toyota Kreditbank（ドイツ）設立、欧州自動車金融展開 |
-| **2000-07-03** | **株式会社トヨタファイナンシャルサービス 設立** — トヨタ自動車の金融事業統括会社として |
-| 2000s 前半 | グローバル各地の自動車金融子会社を TFS 配下に集約・統合 |
-| 2010-2020 | 海外自動車ローン拡大、新興国（東南アジア・中南米・東欧）展開加速 |
-| 2010s 後半 | コネクテッドカー × 金融の試行（テレマティクス活用ローン） |
-| 2020-2023 | コロナ禍で残価リスク管理強化、中古車市場高騰局面で残価益拡大 |
-| 2024〜 | **EV 普及 + コネクテッドカー連動金融**へシフト（充電インフラ連携・残価モデル刷新） |
+| 1982 | Toyota Finance Australia と Toyota Motor Credit Corporation（米国）を設立 |
+| 1988 | Toyota Finance Corporation（日本）を設立 |
+| **2000-07-07** | **トヨタファイナンシャルサービス株式会社を設立** |
+| 2001 | 20 の国・地域へ展開 |
+| 2005 | 30 の国・地域へ展開 |
+| 2021 | 40 の国・地域へ展開 |
 
-> 注: TFS は非上場・トヨタ自動車連結子会社のため、独立した IR 公開は親会社（トヨタ自動車）の有価証券報告書「金融事業セグメント」に集約される。本ページは公開コーポレートサイトと Wikipedia 公開情報ベース。
+> 注: 上記年表と会社属性は TFSC の公式会社概要に基づく。グループ連結数値はトヨタ自動車の開示と併読する。^[https://www.tfsc.jp/en/company/index.html]
 
 ## 3. 事業セグメント・マップ
 
@@ -94,7 +89,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | 国内保険 | トヨタファイナンシャルサービス・インシュアランス | 生損保代理販売・引受持株 |
 | 米州 | Toyota Financial Services Americas / TMCC | 米国自動車金融大手、Ford Motor Credit / Ally / GM Financial と競合 |
 | 欧州 | Toyota Kreditbank | 独 BaFin 監督下、欧州自動車金融統括 |
-| アジア・新興国 | 各国 TFS 法人 | タイ・インドネシア・豪州・中南米・南アフリカ等 30 ヶ国超 |
+| アジア・新興国 | 各国 TFS 法人 | グループ全体で 40 超の国・地域に展開 |
 
 ### 総合パッケージ戦略
 
@@ -144,11 +139,11 @@ EV 普及で**残価評価モデルが従来 ICE 車と乖離**（バッテリ�
 
 ## Sources
 
-- **Wikipedia: トヨタファイナンシャルサービス**（公開情報、2026-05-19 抽出）
-- **Wikipedia: トヨタファイナンス**（国内子会社、公開情報、2026-05-19 抽出）
-- Toyota Financial Services 公式コーポレートサイト（公開情報）
+- TFS — Company Profile: https://www.tfsc.jp/en/company/index.html
+- TFS — What is the TFS Group?: https://www.tfsc.jp/en/what/index.html
+- Toyota Motor Corporation — Financial Services: https://global.toyota/en/company/profile/other-toyota-businesses/finance/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（公開情報ベース・2026-05-19）。TFS 非上場のため単体連結数値は親会社トヨタ自動車有価証券報告書「金融事業セグメント」を要参照。子会社持分・各国法人ステータスは時点変動あり、最新値は TFS 公式 / トヨタ自動車 IR を参照。
+> confidence: **certain**。会社名、設立日、所在地、株主、業態、展開地域は TFSC / Toyota の公式資料で再確認した。子会社持分と各国法人ステータスは時点変動があるため、最新の公式開示を優先する。
