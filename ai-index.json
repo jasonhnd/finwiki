@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T06:02:55+09:00",
+  "generated_at": "2026-07-29T06:04:48+09:00",
   "counts": {
     "markdown_files": 1599,
     "public_markdown_pages": 1598,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10925078,
-    "word_like_tokens": 1759935,
+    "nonspace_utf8_chars": 10924456,
+    "word_like_tokens": 1759826,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -79504,7 +79504,7 @@
       "entity_edges": [],
       "nonspace_chars": 2853,
       "word_like_tokens": 423,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/ehime-bank.md",
@@ -81257,7 +81257,7 @@
       "entity_edges": [],
       "nonspace_chars": 3560,
       "word_like_tokens": 542,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/japan-post-bank.md",
@@ -83105,7 +83105,7 @@
       "entity_edges": [],
       "nonspace_chars": 5149,
       "word_like_tokens": 795,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/nishi-nippon-city-bank.md",
@@ -83461,7 +83461,7 @@
       "entity_edges": [],
       "nonspace_chars": 7246,
       "word_like_tokens": 1324,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/okinawa-kaiho-bank.md",
@@ -83623,7 +83623,7 @@
       "entity_edges": [],
       "nonspace_chars": 3848,
       "word_like_tokens": 540,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/saga-bank.md",
@@ -84806,7 +84806,7 @@
       "entity_edges": [],
       "nonspace_chars": 7099,
       "word_like_tokens": 1333,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/suruga-bank.md",
@@ -89878,7 +89878,7 @@
       "entity_edges": [],
       "nonspace_chars": 33233,
       "word_like_tokens": 5594,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/japan-retail-media-finance-loop.md",
@@ -90469,7 +90469,7 @@
       "entity_edges": [],
       "nonspace_chars": 4602,
       "word_like_tokens": 689,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/aizawa-sg.md",
@@ -91293,7 +91293,7 @@
       "entity_edges": [],
       "nonspace_chars": 5053,
       "word_like_tokens": 801,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/japan-asia-securities.md",
@@ -91789,7 +91789,7 @@
       "entity_edges": [],
       "nonspace_chars": 5044,
       "word_like_tokens": 746,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/morgan-stanley-japan.md",
@@ -92055,7 +92055,7 @@
       "entity_edges": [],
       "nonspace_chars": 5069,
       "word_like_tokens": 818,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/nomura-hd.md",
@@ -92555,7 +92555,7 @@
       "entity_edges": [],
       "nonspace_chars": 6759,
       "word_like_tokens": 1083,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/tachibana-securities.md",
@@ -92768,7 +92768,7 @@
       "entity_edges": [],
       "nonspace_chars": 5812,
       "word_like_tokens": 892,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "securities-firms/traders-securities.md",
@@ -106459,8 +106459,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3998,
-      "word_like_tokens": 735,
+      "nonspace_chars": 3376,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]
