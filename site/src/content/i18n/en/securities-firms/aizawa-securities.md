@@ -1,11 +1,11 @@
 ---
 source: securities-firms/aizawa-securities
-source_hash: 804b08bf794a59d4
+source_hash: 0ecb2a449ad6f645
 lang: en
 status: machine
 fidelity: ok
 title: "アイザワ証券 (Aizawa Securities)"
-translated_at: 2026-06-19T12:43:19.906Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # アイザワ証券 (Aizawa Securities)
@@ -17,7 +17,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Aizawa Securities Co., Ltd. is a **mid-tier independent securities firm headquartered in Tokyo・Nihonbashi Kabutocho**, the core 100% subsidiary of TSE STANDARD-listed [[securities-firms/aizawa-sg|アイザワ証券グループ (8708)]]. In 1918 年 (Taisho 7 )・month 2 , Aizawa Yahachi founded it as "藍澤證券店" in Tokyo・Nihonbashi Kabutocho → became a stock company in 1948  → the current structure was formed via holding-company-ization in 2017-04 . **Financial instruments business operator, Director-General of the Kanto Local Finance Bureau (Kinsho) 第3198号** (FIEA Type 1  Type I financial instruments business). With the unique position of a **"specialist securities firm for Asian-emerging-market investment,"** it has the broadest Asian-emerging-market coverage among Japanese securities firms (Vietnam・Indonesia・Thailand・Cambodia・Myanmar), and the point that it provides individual-stock brokerage via local subsidiaries・partners is a differentiating factor from purely-domestic independent securities firms such as [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]・[[securities-firms/marusan-securities|丸三証券]].
+Aizawa Securities Co., Ltd. is a wholly owned subsidiary of TSE Standard-listed [[securities-firms/aizawa-sg|Aizawa Securities Group (8708)]]. The current company was established on 2021-04-01 and began securities operations on 2021-10-01 as part of the transition to a holding-company structure. Its official profile lists its head office at Shiodome City Center in Higashi-Shimbashi, Tokyo, capital of ¥3 billion, registration as Kanto Local Finance Bureau (FIBO) No. 3283, 779 employees, and 36 branches as of 2026-03-31. The official history traces its predecessor to the founding of Minatoya Shoten in 1918-07. ^[Aizawa Securities company profile: https://www.aizawa.co.jp/company/outline/; company history: https://www.aizawa.co.jp/company/history/; FSA financial instruments business operator registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. 法人・株主
 

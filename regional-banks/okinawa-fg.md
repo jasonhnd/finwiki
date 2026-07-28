@@ -3,16 +3,16 @@ title: おきなわ FG (Okinawa FG)
 aliases: ["Okinawa FG", "おきなわフィナンシャルグループ", "Okinawa Financial Group", "株式会社おきなわフィナンシャルグループ", "OFG", "OkiFG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
 status: active
 sources:
-  - "Wikipedia: おきなわフィナンシャルグループ (2026-05-19 抽出)"
-  - "Wikipedia: 沖縄銀行 (2026-05-19 抽出)"
+  - "https://www.okinawafg.co.jp/about_us/"
   - "おきなわ FG 公式 沿革 (https://www.okinawafg.co.jp/history/)"
+  - "https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=7350"
   - "おきなわ FG 2025-03 期 決算短信 (2025-05-09 公表)"
   - "おきなわ FG 第 2 次中期経営計画『成長の共創』(2024-04 開示)"
   - "おきなわ FG 第 2 次中期経営計画 PDF (https://www.okinawafg.co.jp/_themes/assets/file/mediumterm_management_plan/Medium-term_management_plan202404.pdf)"
@@ -34,9 +34,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 **正式名**：株式会社おきなわフィナンシャルグループ
 **英名**：Okinawa Financial Group, Inc.
-**証券コード**：東証 PRIME 7350（2021-10-01 上場）
+**証券コード**：7350（東京証券取引所プライム市場・福岡証券取引所本則市場）
 **設立**：2021-10-01（沖縄銀行 単独株式移転による完全親会社化）
 **本社**：沖縄県那覇市久茂地 3-10-1（沖縄銀行 本店所在地と同一）
+^[おきなわフィナンシャルグループ「会社概要」: https://www.okinawafg.co.jp/about_us/; 同「沿革」: https://www.okinawafg.co.jp/history/; 日本取引所グループ「銘柄基本情報 7350」: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=7350]
 
 ### 2025-03 期決算（連結）
 

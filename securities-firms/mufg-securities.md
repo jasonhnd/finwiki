@@ -3,17 +3,16 @@ title: MUFG 証券ホールディングス
 aliases: ["MUFG Securities Holdings", "MUFG 証券 HD", "三菱 UFJ 証券ホールディングス", "MUSHD"]
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, mufg-subsidiary, investment-banking, morgan-stanley-jv]
 status: active
 sources:
-  - "Wikipedia: 三菱 UFJ 証券ホールディングス (2026-05-25 抽出)"
-  - "MUFG 証券 HD 公式サイト (https://www.sc.mufg.jp/, 2026-05-25 参照)"
-  - "MUFG 統合報告書・有価証券報告書 (2024-25 公開分)"
-  - "Morgan Stanley 10-K Filings (joint venture sections, 2024-25)"
+  - "https://www.hd.sc.mufg.jp/company/profile.html"
+  - "https://www.hd.sc.mufg.jp/company/history.html"
+  - "https://www.mufg.jp/dam/pressrelease/2010/pdf/pressrelease-20100330-001_en.pdf"
 ---
 # MUFG 証券ホールディングス
 
@@ -30,10 +29,11 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 **正式名**: 三菱 UFJ 証券ホールディングス株式会社
 **英名**: Mitsubishi UFJ Securities Holdings Co., Ltd. (MUSHD)
 **設立**: **2010-04-01**（証券子会社・関連会社の統合管理）
-**本社**: 東京都千代田区丸の内
+**本社**: 東京都千代田区大手町
 **業態**: 中間持株会社（非上場、MUFG 100% 子会社）
 **主要株主**: **[[megabanks/mufg|MUFG（三菱 UFJ フィナンシャル・グループ）100%]]**
 **主管**: [[financial-regulators/fsa|金融庁]]（証券業）
+^[三菱 UFJ 証券ホールディングス「会社概要」: https://www.hd.sc.mufg.jp/company/profile.html; 同「沿革」: https://www.hd.sc.mufg.jp/company/history.html]
 
 ### 傘下構造
 
