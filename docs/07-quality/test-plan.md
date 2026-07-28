@@ -22,6 +22,7 @@ bun run verify
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
 | Static publish assembly/release-pipeline change | Focused boundary + required-route tests, deliberately broken final-route fixture, `bun run verify --out _site`, and workflow YAML parse. |
+| Truthfulness audit/output-boundary change | `bun test tools/audit_artifact_isolation.test.ts`; generate an in-repo `audit-artifacts/` fixture, then prove strict release counts and fixed-timestamp discovery/API/sitemap outputs are unchanged and contain no local path. |
 | Factual consistency audit change | `bun tools/factual_consistency_audit.ts`, `bun tools/factual_consistency_audit.ts --json`, and a temporary seeded duplicate-entity conflict with `--fail-on-conflicts` before removing the fixture. |
 | Provenance completeness audit change | `bun tools/provenance_completeness_audit.ts`, `bun tools/provenance_completeness_audit.ts --json`, and a temporary low-score claim block fixture with explicit `--fail-under` before removing the fixture. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
@@ -36,6 +37,7 @@ bun run verify
 - No active stale doc-path references.
 - Generated diff is intentional.
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
+- No truthfulness audit artifact or local artifact path changes corpus/API/sitemap counts or enters generated/public output.
 - No stale moved-domain API JSON remains after release write.
 - Assembled output contains no developer, hidden/ignored source, unmanifested or unknown-root files beyond the generated `.nojekyll` marker, and unsafe output paths cannot reach recursive cleanup.
 - Root, ja/en, crawler, AI/API and Pagefind required routes exist in the final assembled output.

@@ -19,6 +19,7 @@
 - No dead wikilinks.
 - No count drift.
 - No docs leakage into public corpus/discovery as page/source/API entry or AI traversal link.
+- No audit artifact or local artifact path enters corpus counts, discovery/API/site/publish output, or shareable audit summaries.
 - No stale moved-entry API JSON remains after release generation.
 - No unrelated generated churn.
 - README, CHANGELOG, and post-contract release notes follow Japanese -> English -> Chinese order; release titles are Japanese-only.
