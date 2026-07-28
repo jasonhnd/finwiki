@@ -1,11 +1,11 @@
 ---
 source: securities-firms/monex-group
-source_hash: 5de5b62a7adbeaa8
+source_hash: 363d01b0aabfc01e
 lang: ja
 status: machine
 fidelity: ok
 title: "マネックスグループ"
-translated_at: 2026-06-02T14:54:39.067Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # マネックスグループ
@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.067Z
 
 ## 要約
 
-日本のオンライン証券大手 + 暗号資産（Coincheck）+ 米国オンラインブローカー（TradeStation）を束ねる**個人投資家向けグローバル金融プラットフォーム**持株会社（東証 PRIME 8698）。1999-05-19 創業（旧マネックス証券、ソニー + 松本大 共同出資）、創業者の**松本大**（元 Goldman Sachs パートナー、現会長兼 CEO）が今も舵を取る。**国内（マネックス証券）/ 米国（TradeStation）/ 暗号資産（Coincheck）の 3 軸構造**が特徴で、メガバンク系の総合金融とは対極の「個人投資家プラットフォーム特化」モデル。2024 年に NTT ドコモが出資・連結子会社化を公表し、マネックス証券は [[megabanks/ndfg]]（ドコモ系金融グループ）の証券コア事業として位置付けられる方向（2026 年公開予定）。
+マネックスグループ株式会社は、国内オンライン証券、米国の TradeStation、暗号資産関連事業などを束ねる東証 PRIME 8698 の持株会社で、現法人の設立日は 2004-08-02 である。前身のマネックス証券は 1999-04-05 に設立された。現在の取締役会議長は松本大、代表執行役 CEO は清明祐子である。NTT ドコモとの資本業務提携では、ドコモが中間持株会社ドコモマネックスホールディングスの約 49%、マネックスグループが約 51%を保有する一方、ドコモが取締役の過半数を指名して同社とマネックス証券を連結し、マネックスグループは両社を持分法適用関連会社として扱う。^[マネックスグループ「会社概要」: https://www.monexgroup.jp/jp/company/profile.html; 同「沿革」: https://www.monexgroup.jp/en/company/history.htm; 同「役員一覧」: https://www.monexgroup.jp/jp/company/directors.html; NTT ドコモ「マネックスグループとの資本業務提携」(2023-10-04): https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html]
 
 ## 1. 会社概要
 

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: deedf775be17d540
+source_hash: 4046af040c4e4841
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社南都銀行 (The Nanto Bank)"
-translated_at: 2026-06-19T12:43:19.855Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 株式会社南都銀行 (The Nanto Bank)
@@ -23,9 +23,10 @@ A standalone bank based in Nara Prefecture (one of the **regional banks that hav
 **Legal name**: 株式会社南都銀行
 **English name**: The Nanto Bank, Ltd.
 **Securities code**: TSE PRIME 8367
-**Founded**: 1934-06-01 (wartime consolidation of the 68th Bank + Yagi Godo Bank + Gose Bank + Yoshino Bank + Yamato Jitsugyo Bank, etc.)
-**Head office**: Hashimoto-cho 16
-, Nara City, Nara Prefecture**Business model**: A standalone listed bank (the fact that it **has not undergone FG conversion under a bank holding company at the top** stands in contrast to the FG-conversion trend of nearby Kansai regional banks such as [[regional-banks/kyoto-fg|京都 FG]], [[regional-banks/ikeda-senshu-hd|池田泉州 HD]], and [[regional-banks/tomony-hd|トモニ HD]]. It has, however, set up in 2019  an **intermediate holding company, "Nanto Management Service,"** that bundles non-bank subsidiaries, but the listed and banking-business principal remains the Nanto Bank entity itself)
+**Established**: 1934-06-01 through the merger of the 68th Bank, Yoshino Bank, Yagi Bank, and Gose Bank
+**Head office**: 4-297-2 Omiya-cho, Nara City, Nara Prefecture
+**Business model**: Standalone listed bank without a bank holding company
+^[Nanto Bank company profile: https://www.nantobank.co.jp/company/profile/outline.html; Nanto Bank history: https://www.nantobank.co.jp/company/profile/history.html]
 
 ### Key financials (FY2023, as of 2024-03-31)
 

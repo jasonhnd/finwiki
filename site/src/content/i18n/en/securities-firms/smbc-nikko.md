@@ -1,11 +1,11 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: d8a5097363d4d662
+source_hash: 0f7a72b2cf9c0339
 lang: en
 status: machine
 fidelity: ok
 title: "SMBC Nikko Securities (SMBC 日興証券)"
-translated_at: 2026-06-19T12:43:19.894Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # SMBC Nikko Securities (SMBC 日興証券)
@@ -22,11 +22,13 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 **Legal name**: SMBC Nikko Securities Inc.
 **English name**: SMBC Nikko Securities Inc.
-**Established**: 1944 (as the former Nikko Securities) / origin 1918 (Kawashimaya Shoten)
-**Current corporate name**: 2011-04-01 (renamed SMBC Nikko Securities)
+**Current legal entity established**: 2009-06-15 (operations began 2009-10-01)
+**Predecessor history**: traces back to the founding of Kawashimaya Shoten in 1918 and Nikko Securities in 1944
 **Headquarters**: Marunouchi, Chiyoda Ward, Tokyo
 **Parent company**: Sumitomo Mitsui Financial Group, Inc. ([[megabanks/smfg]], 100% consolidated subsidiary)
-**Business type**: domestic major 5  large securities firm (unlisted; listed via parent [[megabanks/smfg]] 8316 )
+**Registration**: Kanto Local Finance Bureau (FIBO) No. 2251
+**Business type**: Type I financial instruments business operator (unlisted; listed via parent [[megabanks/smfg]] 8316)
+^[SMBC Nikko Securities company profile: https://www.smbcnikko.co.jp/company/info/profile/; company history: https://www.smbcnikko.co.jp/company/info/profile/history/]
 
 ### Major subsidiaries / affiliates (based on public information)
 

@@ -3,16 +3,15 @@ title: 株式会社琉球銀行
 aliases: ["琉球銀行", "りゅうぎん", "Bank of The Ryukyus", "The Bank of The Ryukyus, Ltd.", "Ryukyu Bank"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
 status: active
 sources:
-  - "Wikipedia: 琉球銀行 (公開項目)"
-  - 琉球銀行 公式 IR (有価証券報告書・決算短信)
-  - 沖縄県金融業界一般公開情報
+  - "https://www.ryugin.co.jp/corporate/about/profile/"
+  - "https://www.ryugin.co.jp/corporate/about/history/"
 ---
 
 # 株式会社琉球銀行
@@ -33,6 +32,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **設立**：1948-05-01（琉球列島米国民政府布令第 1 号「琉球銀行設立に関する布令」による設立）
 **本店**：沖縄県那覇市久茂地 1-11-1
 **形態**：単独上場銀行（持株会社化していない、メガバンク・大手地銀の多くが採用する FG 構造を取らず）
+**上場沿革**：1983-10 に東証第二部・福証へ上場、1985-09 に東証第一部へ指定替え
+^[琉球銀行「会社概要」: https://www.ryugin.co.jp/corporate/about/profile/; 琉球銀行「沿革」: https://www.ryugin.co.jp/corporate/about/history/]
 
 ### 設立の特殊性
 

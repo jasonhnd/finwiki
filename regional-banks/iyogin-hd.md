@@ -3,16 +3,16 @@ title: いよぎん HD (Iyogin Holdings)
 aliases: ["いよぎんホールディングス", "Iyogin HD", "Iyogin Holdings", "伊予銀行 HD", "5830"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
 status: active
 sources:
-  - "Wikipedia: 株式会社いよぎんホールディングス (公開情報)"
-  - "Wikipedia: 株式会社伊予銀行 (公開情報)"
-  - "いよぎん HD コーポレートサイト (公開 IR)"
+  - "https://www.iyogin-hd.co.jp/press-release/pdf/release_20221003a.pdf"
+  - "https://www.iyobank.co.jp/about/company/overview/history/"
+  - "https://www.iyobank.co.jp/about/company/overview/history/m11-01.html"
 ---
 
 # いよぎん HD (Iyogin Holdings)
@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-愛媛県を地盤とする四国最大級地銀グループ。2022-10-03 伊予銀行の単独株式移転で持株会社化、東証 PRIME 5830 で上場。中核子会社の**[[regional-banks/iyo-bank|伊予銀行]]**は 1878 年「第二十九国立銀行」(松山) として設立された四国で最古級の銀行で、愛媛県内シェア No.1。今治造船を中心とした**海運・造船クラスター向け融資**が特色。四国 4 県では [[regional-banks/tomony-hd]] (徳島・香川) / [[regional-banks/hyakujushi-bank|百十四銀]] (香川) / [[regional-banks/shikoku-bank|四国銀]] (高知) と競合する。
+いよぎんホールディングスは、2022-10-03 に [[regional-banks/iyo-bank|伊予銀行]] の単独株式移転で設立され、同行を完全子会社とする銀行持株会社である。同日、証券コード 5830 で東京証券取引所プライム市場に上場した。伊予銀行の公式沿革は、1878 年に愛媛県川之石で開業した第二十九国立銀行を前身の一つとし、1941 年の伊豫合同銀行設立、1951 年の伊豫銀行への改称を記録している。^[いよぎんホールディングス「設立のお知らせ」(2022-10-03): https://www.iyogin-hd.co.jp/press-release/pdf/release_20221003a.pdf; 伊予銀行「沿革・あゆみ」: https://www.iyobank.co.jp/about/company/overview/history/; 伊予銀行「明治11年 第二十九国立銀行開業」: https://www.iyobank.co.jp/about/company/overview/history/m11-01.html]
 
 ## 1. 会社概要
 

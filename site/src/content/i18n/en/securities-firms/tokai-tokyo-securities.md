@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tokai-tokyo-securities
-source_hash: 87a595c0ad458187
+source_hash: eba1aee8c918d624
 lang: en
 status: machine
 fidelity: ok
 title: "東海東京証券 (Tokai Tokyo Securities)"
-translated_at: 2026-06-19T13:13:22.644Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 東海東京証券 (Tokai Tokyo Securities)
@@ -17,7 +17,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Tokai Tokyo Securities Co., Ltd. is a **mid-tier independent securities firm headquartered in Nagoya**, the core 100% subsidiary of the TSE PRIME-listed [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (8616)]]. The current structure was established by the **spin-off of the former Tokai Tokyo Securities (the Tokai Bank-affiliated firm) into a separate company in 2008–10 **, with its origins in Maruman Securities, founded by 1929 年（昭和 4 年）. **Financial instruments business operator, Director-General of the Tokai Local Finance Bureau (Kinsho) 第140号** (FIEA Type 1  Type I financial instruments business). Head office at Midland Square, Meieki, Nakamura-ku, Nagoya; capital 60 億円; employees 1,869 名. As a **mid-tier independent securities firm centered on face-to-face retail based in the Tokai region (Aichi, Gifu, Mie, Shizuoka)**, it develops a regional-bank partnership model (jointly operated branches with Tokai-region regional banks), IPO underwriting, and consulting-style sales. The joint ventures / co-branch brand "Tokai Tokyo XX Securities" with regional banks is a distinctive feature. Competitors are [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]・[[securities-firms/okasan-sg|岡三証券グループ]]・[[securities-firms/aizawa-sg|藍澤証券]]・[[securities-firms/matsui-sec|松井証券]].
+Tokai Tokyo Securities Co., Ltd. is a wholly owned subsidiary of TSE Prime-listed [[securities-firms/tokai-tokyo-fh|Tokai Tokyo Financial Holdings (8616)]]. The current company was established on 2008-10-08 through a company split for the transition to a holding-company structure and has its head office at Midland Square in Meieki, Nakamura-ku, Nagoya. Its official profile lists capital of ¥6 billion, registration as Tokai Local Finance Bureau (FIBO) No. 140, and membership in the Japan Securities Dealers Association, Financial Futures Association of Japan, and Type II Financial Instruments Firms Association. ^[Tokai Tokyo Securities company profile: https://www.tokaitokyo.co.jp/company/profile/outline.html; company history: https://www.tokaitokyo.co.jp/company/profile/history.html; FSA financial instruments business operator registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. 法人・株主
 

@@ -7,9 +7,9 @@ aliases:
   - Tokai Tokyo Securities Co., Ltd.
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, independent, regional, tokai, FIEA-type-1]
 status: active
@@ -29,7 +29,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-東海東京証券株式会社は **名古屋本店の中堅独立系証券会社**、東証 PRIME 上場 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (8616)]] の中核 100% 子会社。**2008-10 に旧 東海東京証券（東海銀行系）の事業分社化** により現体制が成立、その源流は 1929 年（昭和 4 年）創業の丸万證券。**金融商品取引業者 東海財務局長(金商)第140号**（FIEA Type 1 第一種金融商品取引業）。本店 名古屋市中村区名駅 ミッドランドスクエア、資本金 60 億円、従業員 1,869 名。**東海地方（愛知・岐阜・三重・静岡）基盤の対面リテール中心の中堅独立証券** として、地銀提携モデル（東海地方の地銀との地域共同店舗）、IPO 引受、コンサルティング型営業を展開。地銀との合弁 / 共同店舗ブランド「東海東京 〇〇 証券」が特徴。競合は [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]・[[securities-firms/okasan-sg|岡三証券グループ]]・[[securities-firms/aizawa-sg|藍澤証券]]・[[securities-firms/matsui-sec|松井証券]]。
+東海東京証券株式会社は、東証 PRIME 上場 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (8616)]] の 100% 子会社である。現法人は持株会社移行のための会社分割に伴い 2008-10-08 に設立され、本店を名古屋市中村区名駅のミッドランドスクエアに置く。公式会社概要による資本金は 60 億円、登録番号は東海財務局長（金商）第 140 号で、日本証券業協会、金融先物取引業協会、第二種金融商品取引業協会に加入している。^[東海東京証券「会社概要・地図」: https://www.tokaitokyo.co.jp/company/profile/outline.html; 東海東京証券「沿革」: https://www.tokaitokyo.co.jp/company/profile/history.html; 金融庁「金融商品取引業者登録一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. 法人・株主
 
