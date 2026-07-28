@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/bank-negara-indonesia-japan",
   "source_path": "foreign-financial-institutions/bank-negara-indonesia-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/bank-negara-indonesia-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-negara-indonesia-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-negara-indonesia-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-negara-indonesia-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/bank-negara-indonesia-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/bank-negara-indonesia-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/bank-negara-indonesia-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/bank-negara-indonesia-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/state-bank-of-india-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bangkok-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/dbs-bank-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/state-bank-of-india-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/uob-bank-japan/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

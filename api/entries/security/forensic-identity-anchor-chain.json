@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/forensic-identity-anchor-chain",
   "source_path": "security/forensic-identity-anchor-chain.md",
-  "url": "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+  "url": "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+  "html_url": "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+    "en": "https://finwiki.zksc.io/en/security/forensic-identity-anchor-chain/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/forensic-identity-anchor-chain.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/forensic-identity-anchor-chain.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/forensic-identity-anchor-chain.md",
   "domain": "security",
   "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
-      "https://finwiki.zksc.io/systems/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+      "https://finwiki.zksc.io/ja/domains/systems/"
     ],
     "external_links_count": 0,
     "external_links": []

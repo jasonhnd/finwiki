@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/seven-card-service",
   "source_path": "card-issuers/seven-card-service.md",
-  "url": "https://finwiki.zksc.io/card-issuers/seven-card-service",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/seven-card-service/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/seven-card-service.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/seven-card-service.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/seven-card-service.md",
   "domain": "card-issuers",
   "title": "セブン・カードサービス (Seven Card Service)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/ucs-card",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/ucs-card/",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+      "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

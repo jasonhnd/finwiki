@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/sonpo-hosho-kiko",
   "source_path": "financial-regulators/sonpo-hosho-kiko.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/sonpo-hosho-kiko/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/sonpo-hosho-kiko/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/sonpo-hosho-kiko/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/sonpo-hosho-kiko/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/sonpo-hosho-kiko.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/sonpo-hosho-kiko.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko.md",
   "domain": "financial-regulators",
   "title": "損害保険契約者保護機構",
   "entry_type": "wiki_entry",
@@ -71,12 +76,12 @@
       "non-life-insurers/tokio-marine-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance"
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/seimei-hokensha-hogo-kiko/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aioi-nissay-dowa-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/japan-epi-four-camps-comparison",
   "source_path": "fintech/japan-epi-four-camps-comparison.md",
-  "url": "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
+  "url": "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
+    "en": "https://finwiki.zksc.io/en/fintech/japan-epi-four-camps-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-epi-four-camps-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-epi-four-camps-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison.md",
   "domain": "fintech",
   "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 0,
     "external_links": []

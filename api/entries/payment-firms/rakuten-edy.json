@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/rakuten-edy",
   "source_path": "payment-firms/rakuten-edy.md",
-  "url": "https://finwiki.zksc.io/payment-firms/rakuten-edy",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/rakuten-edy/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/rakuten-edy/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/rakuten-edy/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/rakuten-edy/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/rakuten-edy.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/rakuten-edy.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/rakuten-edy.md",
   "domain": "payment-firms",
   "title": "楽天Edy",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "payments/japan-prepaid-electronic-money-operator-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/rakuten-card",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payment-firms/seven-payment-service",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
-      "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
+      "https://finwiki.zksc.io/ja/payments/japan-prepaid-electronic-money-operator-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

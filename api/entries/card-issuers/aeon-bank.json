@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/aeon-bank",
   "source_path": "card-issuers/aeon-bank.md",
-  "url": "https://finwiki.zksc.io/card-issuers/aeon-bank",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/aeon-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/aeon-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aeon-bank.md",
   "domain": "card-issuers",
   "title": "イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)",
   "entry_type": "wiki_entry",
@@ -75,18 +80,18 @@
       "retail/aeon-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/lawson-bank",
-      "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/retail/aeon-group"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/lawson-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+      "https://finwiki.zksc.io/ja/retail/aeon-group/"
     ],
     "external_links_count": 0,
     "external_links": []

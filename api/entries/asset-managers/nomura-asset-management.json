@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "asset-managers/nomura-asset-management",
   "source_path": "asset-managers/nomura-asset-management.md",
-  "url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+  "url": "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
+  "html_url": "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
+    "en": "https://finwiki.zksc.io/en/asset-managers/nomura-asset-management/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/nomura-asset-management.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/nomura-asset-management.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/nomura-asset-management.md",
   "domain": "asset-managers",
   "title": "野村アセットマネジメント",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "trust-banks/nomura-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/asset-managers/INDEX",
-      "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
-      "https://finwiki.zksc.io/asset-managers/nikko-asset-management",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow",
-      "https://finwiki.zksc.io/trust-banks/nomura-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/asset-managers/",
+      "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
+      "https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/",
+      "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

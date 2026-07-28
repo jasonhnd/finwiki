@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/agent-actorship-debate",
   "source_path": "agent-economy/agent-actorship-debate.md",
-  "url": "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/agent-actorship-debate/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/agent-actorship-debate.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/agent-actorship-debate.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/agent-actorship-debate.md",
   "domain": "agent-economy",
   "title": "Agent 主体性論争:4つの陣営",
   "entry_type": "wiki_entry",
@@ -50,12 +55,12 @@
       "systems/erc-4337-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research",
-      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
-      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/systems/erc-4337-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/2026-04-08_agent-payment-infrastructure-research/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+      "https://finwiki.zksc.io/ja/agent-economy/skill-market-monetization/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

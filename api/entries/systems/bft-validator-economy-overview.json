@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/bft-validator-economy-overview",
   "source_path": "systems/bft-validator-economy-overview.md",
-  "url": "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/bft-validator-economy-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/bft-validator-economy-overview.md",
   "domain": "systems",
   "title": "BFT validator 経済学概観",
   "entry_type": "wiki_entry",
@@ -66,13 +71,13 @@
       "systems/chain-abstraction-pattern-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-four-variables/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-tempo-vs-arc/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

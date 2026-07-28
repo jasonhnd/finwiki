@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/bittrade",
   "source_path": "payment-firms/bittrade.md",
-  "url": "https://finwiki.zksc.io/payment-firms/bittrade",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/bittrade/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/bittrade/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/bittrade/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/bittrade/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/bittrade.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/bittrade.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/bittrade.md",
   "domain": "payment-firms",
   "title": "ビットトレード (BitTrade)",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "securities-firms/monex-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bitflyer",
-      "https://finwiki.zksc.io/payment-firms/gmo-coin",
-      "https://finwiki.zksc.io/securities-firms/monex-group"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-coin/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/"
     ],
     "external_links_count": 0,
     "external_links": []

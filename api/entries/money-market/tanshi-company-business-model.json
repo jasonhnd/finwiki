@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "money-market/tanshi-company-business-model",
   "source_path": "money-market/tanshi-company-business-model.md",
-  "url": "https://finwiki.zksc.io/money-market/tanshi-company-business-model",
+  "url": "https://finwiki.zksc.io/ja/money-market/tanshi-company-business-model/",
+  "html_url": "https://finwiki.zksc.io/ja/money-market/tanshi-company-business-model/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/money-market/tanshi-company-business-model/",
+    "en": "https://finwiki.zksc.io/en/money-market/tanshi-company-business-model/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/money-market/tanshi-company-business-model.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/money-market/tanshi-company-business-model.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/money-market/tanshi-company-business-model.md",
   "domain": "money-market",
   "title": "Tanshi company business model",
   "entry_type": "wiki_entry",
@@ -77,18 +82,18 @@
       "money-market/jgb-repo-market-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/local-bond-market",
-      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/call-market-structure",
-      "https://finwiki.zksc.io/money-market/japan-money-market",
-      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+      "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+      "https://finwiki.zksc.io/ja/domains/money-market/",
+      "https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/",
+      "https://finwiki.zksc.io/ja/money-market/call-market-structure/",
+      "https://finwiki.zksc.io/ja/money-market/japan-money-market/",
+      "https://finwiki.zksc.io/ja/money-market/jgb-repo-market-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

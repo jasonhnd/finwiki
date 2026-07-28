@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-vasp-derivative-license-system",
   "source_path": "exchanges/jp-vasp-derivative-license-system.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-vasp-derivative-license-system/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-derivative-license-system.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-derivative-license-system.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system.md",
   "domain": "exchanges",
   "title": "国内暗号資産デリバティブ取引業 制度 — 金商法 × 資金決済法 デュアル登録",
   "entry_type": "wiki_entry",
@@ -65,18 +70,18 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bi-fxtrade",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-com-securities",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-goldenway-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-monex",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-securities",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-traders-securities",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-com-securities/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-goldenway-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-securities/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

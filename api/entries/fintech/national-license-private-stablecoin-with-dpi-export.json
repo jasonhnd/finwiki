@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/national-license-private-stablecoin-with-dpi-export",
   "source_path": "fintech/national-license-private-stablecoin-with-dpi-export.md",
-  "url": "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
+  "url": "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+    "en": "https://finwiki.zksc.io/en/fintech/national-license-private-stablecoin-with-dpi-export/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export.md",
   "domain": "fintech",
   "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
-      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-overview/",
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

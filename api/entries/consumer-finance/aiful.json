@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "consumer-finance/aiful",
   "source_path": "consumer-finance/aiful.md",
-  "url": "https://finwiki.zksc.io/consumer-finance/aiful",
+  "url": "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+  "html_url": "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+    "en": "https://finwiki.zksc.io/en/consumer-finance/aiful/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/aiful.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/aiful.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/consumer-finance/aiful.md",
   "domain": "consumer-finance",
   "title": "アイフル株式会社 (Aiful)",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/consumer-finance/INDEX",
-      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/consumer-finance/",
+      "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

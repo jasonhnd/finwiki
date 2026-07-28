@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/mufg-mums",
   "source_path": "securities-firms/mufg-mums.md",
-  "url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/mufg-mums/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/mufg-mums/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/mufg-mums/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/mufg-mums/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/mufg-mums.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/mufg-mums.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/mufg-mums.md",
   "domain": "securities-firms",
   "title": "Mitsubishi UFJ Morgan Stanley Securities",
   "entry_type": "wiki_entry",
@@ -71,18 +76,18 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jsda",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

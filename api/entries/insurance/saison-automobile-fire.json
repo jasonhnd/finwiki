@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "insurance/saison-automobile-fire",
   "source_path": "insurance/saison-automobile-fire.md",
-  "url": "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+  "url": "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+  "html_url": "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+    "en": "https://finwiki.zksc.io/en/insurance/saison-automobile-fire/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/saison-automobile-fire.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/saison-automobile-fire.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/insurance/saison-automobile-fire.md",
   "domain": "insurance",
   "title": "Saison Automobile & Fire / SOMPO Direct",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/"
     ],
     "external_links_count": 0,
     "external_links": []

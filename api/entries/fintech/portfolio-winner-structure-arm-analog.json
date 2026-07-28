@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/portfolio-winner-structure-arm-analog",
   "source_path": "fintech/portfolio-winner-structure-arm-analog.md",
-  "url": "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
+  "url": "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+    "en": "https://finwiki.zksc.io/en/fintech/portfolio-winner-structure-arm-analog/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/portfolio-winner-structure-arm-analog.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/portfolio-winner-structure-arm-analog.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog.md",
   "domain": "fintech",
   "title": "ポートフォリオ勝者構造(Portfolio Winner Structure)",
   "entry_type": "wiki_entry",
@@ -71,16 +76,16 @@
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
-      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
     "external_links_count": 0,
     "external_links": []

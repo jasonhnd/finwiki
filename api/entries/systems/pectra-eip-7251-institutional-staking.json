@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/pectra-eip-7251-institutional-staking",
   "source_path": "systems/pectra-eip-7251-institutional-staking.md",
-  "url": "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking",
+  "url": "https://finwiki.zksc.io/ja/systems/pectra-eip-7251-institutional-staking/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/pectra-eip-7251-institutional-staking/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/pectra-eip-7251-institutional-staking/",
+    "en": "https://finwiki.zksc.io/en/systems/pectra-eip-7251-institutional-staking/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-eip-7251-institutional-staking.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-eip-7251-institutional-staking.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking.md",
   "domain": "systems",
   "title": "Pectra EIP-7251 · 機関 staking 経済親和化(2048 ETH 上限)",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "systems/pectra-upgrade-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
-      "https://finwiki.zksc.io/systems/pectra-upgrade-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/liquid-staking-restaking-cex-exposure/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/",
+      "https://finwiki.zksc.io/ja/systems/pectra-upgrade-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

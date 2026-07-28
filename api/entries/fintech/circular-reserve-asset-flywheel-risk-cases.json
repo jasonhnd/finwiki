@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/circular-reserve-asset-flywheel-risk-cases",
   "source_path": "fintech/circular-reserve-asset-flywheel-risk-cases.md",
-  "url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases",
+  "url": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-risk-cases/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-risk-cases/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-risk-cases/",
+    "en": "https://finwiki.zksc.io/en/fintech/circular-reserve-asset-flywheel-risk-cases/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/circular-reserve-asset-flywheel-risk-cases.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/circular-reserve-asset-flywheel-risk-cases.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases.md",
   "domain": "fintech",
   "title": "準備金インターロック・フライホイール · 三層システミックリスク・シナリオ",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "fintech/stablecoin-revenue-split-economics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
     ],
     "external_links_count": 0,
     "external_links": []

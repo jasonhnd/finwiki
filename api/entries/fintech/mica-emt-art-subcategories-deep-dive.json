@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/mica-emt-art-subcategories-deep-dive",
   "source_path": "fintech/mica-emt-art-subcategories-deep-dive.md",
-  "url": "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+  "url": "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
+    "en": "https://finwiki.zksc.io/en/fintech/mica-emt-art-subcategories-deep-dive/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/mica-emt-art-subcategories-deep-dive.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/mica-emt-art-subcategories-deep-dive.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive.md",
   "domain": "fintech",
   "title": "MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/mica-cross-border-implications",
-      "https://finwiki.zksc.io/fintech/mica-overview",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/mica-cross-border-implications/",
+      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/dai-shi-hokuetsu-fg",
   "source_path": "regional-banks/dai-shi-hokuetsu-fg.md",
-  "url": "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/dai-shi-hokuetsu-fg/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/dai-shi-hokuetsu-fg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/dai-shi-hokuetsu-fg/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/dai-shi-hokuetsu-fg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/dai-shi-hokuetsu-fg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/dai-shi-hokuetsu-fg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg.md",
   "domain": "regional-banks",
   "title": "第四北越 FG",
   "entry_type": "wiki_entry",
@@ -70,18 +75,18 @@
       "regional-banks/yucho"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/chiba-bank",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
-      "https://finwiki.zksc.io/regional-banks/yucho"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/chiba-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/yucho/"
     ],
     "external_links_count": 0,
     "external_links": []

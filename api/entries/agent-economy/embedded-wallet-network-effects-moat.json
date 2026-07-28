@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/embedded-wallet-network-effects-moat",
   "source_path": "agent-economy/embedded-wallet-network-effects-moat.md",
-  "url": "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/embedded-wallet-network-effects-moat/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/embedded-wallet-network-effects-moat.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/embedded-wallet-network-effects-moat.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat.md",
   "domain": "agent-economy",
   "title": "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀",
   "entry_type": "wiki_entry",
@@ -66,17 +71,17 @@
       "systems/erc-4337-embedded-wallet-adoption"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture",
-      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-matching-engine-wallet-architecture/",
+      "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/"
     ],
     "external_links_count": 0,
     "external_links": []

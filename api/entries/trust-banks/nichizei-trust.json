@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/nichizei-trust",
   "source_path": "trust-banks/nichizei-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/nichizei-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/nichizei-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/nichizei-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/nichizei-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/nichizei-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/nichizei-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/nichizei-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/nichizei-trust.md",
   "domain": "trust-banks",
   "title": "Nichizei Trust / 日税信託",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/asahi-trust",
-      "https://finwiki.zksc.io/trust-banks/midori-trust",
-      "https://finwiki.zksc.io/trust-banks/nichizei-trust",
-      "https://finwiki.zksc.io/trust-banks/oag-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/asahi-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/midori-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/nichizei-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/oag-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

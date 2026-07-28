@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/yokohama-kogin-shinkumi",
   "source_path": "cooperative-banks/yokohama-kogin-shinkumi.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/yokohama-kogin-shinkumi",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-kogin-shinkumi/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-kogin-shinkumi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-kogin-shinkumi/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/yokohama-kogin-shinkumi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/yokohama-kogin-shinkumi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/yokohama-kogin-shinkumi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/yokohama-kogin-shinkumi.md",
   "domain": "cooperative-banks",
   "title": "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)",
   "entry_type": "wiki_entry",
@@ -80,16 +85,16 @@
       "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/hana-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/financial-regulators/dic",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/hana-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shogin-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
     ],
     "external_links_count": 1,
     "external_links": [

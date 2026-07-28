@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/kita-nippon-bank",
   "source_path": "regional-banks/kita-nippon-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/kita-nippon-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/kita-nippon-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/kita-nippon-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/kita-nippon-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/kita-nippon-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kita-nippon-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kita-nippon-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/kita-nippon-bank.md",
   "domain": "regional-banks",
   "title": "北日本銀行",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "regional-banks/tohoku-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/iwate-bank",
-      "https://finwiki.zksc.io/regional-banks/tohoku-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/iwate-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tohoku-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/fsa-inspection-bureau",
   "source_path": "financial-regulators/fsa-inspection-bureau.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/fsa-inspection-bureau/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa-inspection-bureau/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/fsa-inspection-bureau/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/fsa-inspection-bureau/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/fsa-inspection-bureau.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/fsa-inspection-bureau.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau.md",
   "domain": "financial-regulators",
   "title": "検査局 (FSA Inspection Bureau — historical)",
   "entry_type": "wiki_entry",
@@ -69,14 +74,14 @@
       "financial-regulators/fsa-supervision-bureau"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
-      "https://finwiki.zksc.io/financial-regulators/cpaaob",
-      "https://finwiki.zksc.io/financial-regulators/fsa-planning-coordination-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-system-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/cpaaob/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-planning-coordination-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/"
     ],
     "external_links_count": 0,
     "external_links": []

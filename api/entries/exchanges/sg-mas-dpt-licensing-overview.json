@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/sg-mas-dpt-licensing-overview",
   "source_path": "exchanges/sg-mas-dpt-licensing-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/sg-mas-dpt-licensing-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/sg-mas-dpt-licensing-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/sg-mas-dpt-licensing-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview.md",
   "domain": "exchanges",
   "title": "シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業",
   "entry_type": "wiki_entry",
@@ -62,15 +67,15 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
-      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-overview/",
+      "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-strategic-implications/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
   "source_path": "fintech/stablecoin-channel-japan-sbi-jpyc-ring.md",
-  "url": "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+  "url": "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
+    "en": "https://finwiki.zksc.io/en/fintech/stablecoin-channel-japan-sbi-jpyc-ring/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-channel-japan-sbi-jpyc-ring.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stablecoin-channel-japan-sbi-jpyc-ring.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring.md",
   "domain": "fintech",
   "title": "SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 0,
     "external_links": []

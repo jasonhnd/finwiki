@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-custody-ginco",
   "source_path": "exchanges/jp-custody-ginco.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-custody-ginco/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-custody-ginco.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-custody-ginco.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-custody-ginco.md",
   "domain": "exchanges",
   "title": "株式会社Ginco — 日本 B2B ブロックチェーン・カストディインフラ提供者",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
-      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 5,
     "external_links": [

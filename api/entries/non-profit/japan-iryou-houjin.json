@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-iryou-houjin",
   "source_path": "non-profit/japan-iryou-houjin.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-iryou-houjin",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-iryou-houjin/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-iryou-houjin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-iryou-houjin/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-iryou-houjin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-iryou-houjin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-iryou-houjin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-iryou-houjin.md",
   "domain": "non-profit",
   "title": "日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment",
   "entry_type": "wiki_entry",
@@ -72,14 +77,14 @@
       "non-profit/japan-shakai-fukushi-houjin"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
-      "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-shakai-fukushi-houjin/"
     ],
     "external_links_count": 0,
     "external_links": []

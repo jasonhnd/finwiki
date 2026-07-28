@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/sumire-regional-trust",
   "source_path": "trust-banks/sumire-regional-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/sumire-regional-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/sumire-regional-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/sumire-regional-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/sumire-regional-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/sumire-regional-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/sumire-regional-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/sumire-regional-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/sumire-regional-trust.md",
   "domain": "trust-banks",
   "title": "Sumire Regional Trust / すみれ地域信託",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/greif-trust",
-      "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
-      "https://finwiki.zksc.io/trust-banks/sumire-regional-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-credit-guarantee-system/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/greif-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/kiriu-real-estate-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/sumire-regional-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

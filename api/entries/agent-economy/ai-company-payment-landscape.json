@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/ai-company-payment-landscape",
   "source_path": "agent-economy/ai-company-payment-landscape.md",
-  "url": "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/ai-company-payment-landscape/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ai-company-payment-landscape.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ai-company-payment-landscape.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape.md",
   "domain": "agent-economy",
   "title": "AI 企業の決済方式の現状",
   "entry_type": "wiki_entry",
@@ -54,17 +59,17 @@
       "fintech/usd-stablecoin-interchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research",
-      "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
-      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/2026-04-08_agent-payment-infrastructure-research/",
+      "https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/skill-market-monetization/",
+      "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/"
     ],
     "external_links_count": 0,
     "external_links": []

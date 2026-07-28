@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/cbdc-multi-tier-architecture-three-paradigms",
   "source_path": "fintech/cbdc-multi-tier-architecture-three-paradigms.md",
-  "url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+  "url": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
+    "en": "https://finwiki.zksc.io/en/fintech/cbdc-multi-tier-architecture-three-paradigms/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cbdc-multi-tier-architecture-three-paradigms.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cbdc-multi-tier-architecture-three-paradigms.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms.md",
   "domain": "fintech",
   "title": "CBDC 3 大現役パラダイム",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "fintech/mbridge-bis-multi-cbdc-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-vs-mbridge/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

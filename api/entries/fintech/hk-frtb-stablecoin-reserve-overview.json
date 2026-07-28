@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/hk-frtb-stablecoin-reserve-overview",
   "source_path": "fintech/hk-frtb-stablecoin-reserve-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/hk-frtb-stablecoin-reserve-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/hk-frtb-stablecoin-reserve-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/hk-frtb-stablecoin-reserve-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview.md",
   "domain": "fintech",
   "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications",
-      "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-implications/",
+      "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-implications/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

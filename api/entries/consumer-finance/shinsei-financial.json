@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "consumer-finance/shinsei-financial",
   "source_path": "consumer-finance/shinsei-financial.md",
-  "url": "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
+  "url": "https://finwiki.zksc.io/ja/consumer-finance/shinsei-financial/",
+  "html_url": "https://finwiki.zksc.io/ja/consumer-finance/shinsei-financial/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/consumer-finance/shinsei-financial/",
+    "en": "https://finwiki.zksc.io/en/consumer-finance/shinsei-financial/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/shinsei-financial.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/shinsei-financial.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/consumer-finance/shinsei-financial.md",
   "domain": "consumer-finance",
   "title": "新生フィナンシャル",
   "entry_type": "wiki_entry",
@@ -62,14 +67,14 @@
       "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/aplus",
-      "https://finwiki.zksc.io/consumer-finance/INDEX",
-      "https://finwiki.zksc.io/consumer-finance/acom",
-      "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
-      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+      "https://finwiki.zksc.io/ja/card-issuers/aplus/",
+      "https://finwiki.zksc.io/ja/domains/consumer-finance/",
+      "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+      "https://finwiki.zksc.io/ja/consumer-finance/shinsei-financial/",
+      "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

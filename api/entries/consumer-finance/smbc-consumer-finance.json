@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "consumer-finance/smbc-consumer-finance",
   "source_path": "consumer-finance/smbc-consumer-finance.md",
-  "url": "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+  "url": "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+  "html_url": "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/",
+    "en": "https://finwiki.zksc.io/en/consumer-finance/smbc-consumer-finance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/smbc-consumer-finance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/smbc-consumer-finance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance.md",
   "domain": "consumer-finance",
   "title": "SMBCコンシューマーファイナンス",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/consumer-finance/INDEX",
-      "https://finwiki.zksc.io/consumer-finance/acom",
-      "https://finwiki.zksc.io/consumer-finance/aiful",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/domains/consumer-finance/",
+      "https://finwiki.zksc.io/ja/consumer-finance/acom/",
+      "https://finwiki.zksc.io/ja/consumer-finance/aiful/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

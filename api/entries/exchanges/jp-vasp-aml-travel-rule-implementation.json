@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-vasp-aml-travel-rule-implementation",
   "source_path": "exchanges/jp-vasp-aml-travel-rule-implementation.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-vasp-aml-travel-rule-implementation/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-aml-travel-rule-implementation.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-aml-travel-rule-implementation.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation.md",
   "domain": "exchanges",
   "title": "国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "fintech/fatf-travel-rule-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
-      "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
-      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
+      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-cross-border-stack/",
+      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

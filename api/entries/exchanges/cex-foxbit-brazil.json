@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-foxbit-brazil",
   "source_path": "exchanges/cex-foxbit-brazil.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-foxbit-brazil",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-foxbit-brazil/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-foxbit-brazil.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-foxbit-brazil.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-foxbit-brazil.md",
   "domain": "exchanges",
   "title": "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
   "entry_type": "wiki_entry",
@@ -66,13 +71,13 @@
       "exchanges/rwa-tokenization-cex-integration"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
-      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
-      "https://finwiki.zksc.io/exchanges/cex-mercado-bitcoin-brazil",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/"
     ],
     "external_links_count": 0,
     "external_links": []

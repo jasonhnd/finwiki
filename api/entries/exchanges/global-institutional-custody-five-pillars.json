@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/global-institutional-custody-five-pillars",
   "source_path": "exchanges/global-institutional-custody-five-pillars.md",
-  "url": "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+  "url": "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+    "en": "https://finwiki.zksc.io/en/exchanges/global-institutional-custody-five-pillars/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-institutional-custody-five-pillars.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-institutional-custody-five-pillars.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars.md",
   "domain": "exchanges",
   "title": "グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "exchanges/jp-institutional-custody-three-pillars"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
-      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
-      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/"
     ],
     "external_links_count": 0,
     "external_links": []

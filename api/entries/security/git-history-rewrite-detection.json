@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/git-history-rewrite-detection",
   "source_path": "security/git-history-rewrite-detection.md",
-  "url": "https://finwiki.zksc.io/security/git-history-rewrite-detection",
+  "url": "https://finwiki.zksc.io/ja/security/git-history-rewrite-detection/",
+  "html_url": "https://finwiki.zksc.io/ja/security/git-history-rewrite-detection/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/git-history-rewrite-detection/",
+    "en": "https://finwiki.zksc.io/en/security/git-history-rewrite-detection/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/git-history-rewrite-detection.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/git-history-rewrite-detection.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/git-history-rewrite-detection.md",
   "domain": "security",
   "title": "Git history rewrite detection — recovering squashed and force-pushed states",
   "entry_type": "wiki_entry",
@@ -63,11 +68,11 @@
       "security/wayback-machine-as-forensic-tool"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/security/INDEX",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
-      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool"
+      "https://finwiki.zksc.io/ja/domains/security/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+      "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/"
     ],
     "external_links_count": 2,
     "external_links": [

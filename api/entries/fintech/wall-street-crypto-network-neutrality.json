@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/wall-street-crypto-network-neutrality",
   "source_path": "fintech/wall-street-crypto-network-neutrality.md",
-  "url": "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+  "url": "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
+    "en": "https://finwiki.zksc.io/en/fintech/wall-street-crypto-network-neutrality/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/wall-street-crypto-network-neutrality.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/wall-street-crypto-network-neutrality.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality.md",
   "domain": "fintech",
   "title": "Wall Street 暗号資産ネットワーク中立投資戦略",
   "entry_type": "wiki_entry",
@@ -62,16 +67,16 @@
       "fintech/stablecoin-chain-token-strategy-trilemma"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/"
     ],
     "external_links_count": 0,
     "external_links": []

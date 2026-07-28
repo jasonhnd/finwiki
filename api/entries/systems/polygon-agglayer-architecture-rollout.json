@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/polygon-agglayer-architecture-rollout",
   "source_path": "systems/polygon-agglayer-architecture-rollout.md",
-  "url": "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout",
+  "url": "https://finwiki.zksc.io/ja/systems/polygon-agglayer-architecture-rollout/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/polygon-agglayer-architecture-rollout/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/polygon-agglayer-architecture-rollout/",
+    "en": "https://finwiki.zksc.io/en/systems/polygon-agglayer-architecture-rollout/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/polygon-agglayer-architecture-rollout.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/polygon-agglayer-architecture-rollout.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout.md",
   "domain": "systems",
   "title": "Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約",
   "entry_type": "wiki_entry",
@@ -85,18 +90,18 @@
       "systems/pectra-eip-7691-blob-l2-impact"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-overview",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/"
     ],
     "external_links_count": 0,
     "external_links": []

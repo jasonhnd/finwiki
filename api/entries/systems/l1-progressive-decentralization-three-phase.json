@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/l1-progressive-decentralization-three-phase",
   "source_path": "systems/l1-progressive-decentralization-three-phase.md",
-  "url": "https://finwiki.zksc.io/systems/l1-progressive-decentralization-three-phase",
+  "url": "https://finwiki.zksc.io/ja/systems/l1-progressive-decentralization-three-phase/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/l1-progressive-decentralization-three-phase/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/l1-progressive-decentralization-three-phase/",
+    "en": "https://finwiki.zksc.io/en/systems/l1-progressive-decentralization-three-phase/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/l1-progressive-decentralization-three-phase.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/l1-progressive-decentralization-three-phase.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/l1-progressive-decentralization-three-phase.md",
   "domain": "systems",
   "title": "L1 渐进式去中心化三阶段路径",
   "entry_type": "wiki_entry",
@@ -59,12 +64,12 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

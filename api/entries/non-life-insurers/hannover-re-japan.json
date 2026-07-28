@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/hannover-re-japan",
   "source_path": "non-life-insurers/hannover-re-japan.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/hannover-re-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/hannover-re-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/hannover-re-japan/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/hannover-re-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/hannover-re-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/hannover-re-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan.md",
   "domain": "non-life-insurers",
   "title": "ハノーバー再保険日本支店",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/life-insurers/rga-japan",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/japan-earthquake-reinsurance",
-      "https://finwiki.zksc.io/non-life-insurers/munich-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/scor-japan",
-      "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/rga-japan/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/japan-earthquake-reinsurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/munich-re-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/scor-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/swiss-re-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/toa-reinsurance/"
     ],
     "external_links_count": 0,
     "external_links": []

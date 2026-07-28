@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/first-digital-fdusd-hk-stablecoin",
   "source_path": "fintech/first-digital-fdusd-hk-stablecoin.md",
-  "url": "https://finwiki.zksc.io/fintech/first-digital-fdusd-hk-stablecoin",
+  "url": "https://finwiki.zksc.io/ja/fintech/first-digital-fdusd-hk-stablecoin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/first-digital-fdusd-hk-stablecoin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/first-digital-fdusd-hk-stablecoin/",
+    "en": "https://finwiki.zksc.io/en/fintech/first-digital-fdusd-hk-stablecoin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/first-digital-fdusd-hk-stablecoin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/first-digital-fdusd-hk-stablecoin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/first-digital-fdusd-hk-stablecoin.md",
   "domain": "fintech",
   "title": "First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替",
   "entry_type": "wiki_entry",
@@ -71,17 +76,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

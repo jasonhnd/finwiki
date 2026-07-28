@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/nanairo-life",
   "source_path": "life-insurers/nanairo-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/nanairo-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/nanairo-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/nanairo-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/nanairo-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/nanairo-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/nanairo-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/nanairo-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/nanairo-life.md",
   "domain": "life-insurers",
   "title": "なないろ生命保険",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "life-insurers/medicare-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/asahi-life",
-      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
-      "https://finwiki.zksc.io/life-insurers/medicare-life"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/global-solvency-framework-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/asahi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/hanasaku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/medicare-life/"
     ],
     "external_links_count": 0,
     "external_links": []

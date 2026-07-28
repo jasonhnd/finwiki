@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/epos-card",
   "source_path": "card-issuers/epos-card.md",
-  "url": "https://finwiki.zksc.io/card-issuers/epos-card",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/epos-card/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/epos-card/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/epos-card.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/epos-card.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/epos-card.md",
   "domain": "card-issuers",
   "title": "エポスカード (EPOS Card)",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
-      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
-      "https://finwiki.zksc.io/card-issuers/pocket-card",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+      "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+      "https://finwiki.zksc.io/ja/card-issuers/pocket-card/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

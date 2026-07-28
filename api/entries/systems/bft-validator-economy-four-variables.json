@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/bft-validator-economy-four-variables",
   "source_path": "systems/bft-validator-economy-four-variables.md",
-  "url": "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
+  "url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-four-variables/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-four-variables/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/bft-validator-economy-four-variables/",
+    "en": "https://finwiki.zksc.io/en/systems/bft-validator-economy-four-variables/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-four-variables.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-four-variables.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables.md",
   "domain": "systems",
   "title": "BFT validator 経済の4変数",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "systems/bft-validator-economy-tempo-vs-arc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-tempo-vs-arc/"
     ],
     "external_links_count": 0,
     "external_links": []

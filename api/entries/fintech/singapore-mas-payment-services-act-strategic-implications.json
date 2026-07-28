@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/singapore-mas-payment-services-act-strategic-implications",
   "source_path": "fintech/singapore-mas-payment-services-act-strategic-implications.md",
-  "url": "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications",
+  "url": "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-strategic-implications/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-strategic-implications/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-strategic-implications/",
+    "en": "https://finwiki.zksc.io/en/fintech/singapore-mas-payment-services-act-strategic-implications/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/singapore-mas-payment-services-act-strategic-implications.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/singapore-mas-payment-services-act-strategic-implications.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications.md",
   "domain": "fintech",
   "title": "MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル",
   "entry_type": "wiki_entry",
@@ -71,17 +76,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-overview/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

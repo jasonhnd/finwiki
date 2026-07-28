@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/pring",
   "source_path": "payment-firms/pring.md",
-  "url": "https://finwiki.zksc.io/payment-firms/pring",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/pring/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/pring/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/pring/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/pring/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/pring.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/pring.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/pring.md",
   "domain": "payment-firms",
   "title": "pring",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/kyash",
-      "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/kyash/",
+      "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

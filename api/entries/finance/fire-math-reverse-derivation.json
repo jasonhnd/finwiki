@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/fire-math-reverse-derivation",
   "source_path": "finance/fire-math-reverse-derivation.md",
-  "url": "https://finwiki.zksc.io/finance/fire-math-reverse-derivation",
+  "url": "https://finwiki.zksc.io/ja/finance/fire-math-reverse-derivation/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/fire-math-reverse-derivation/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/fire-math-reverse-derivation/",
+    "en": "https://finwiki.zksc.io/en/finance/fire-math-reverse-derivation/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/fire-math-reverse-derivation.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/fire-math-reverse-derivation.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/fire-math-reverse-derivation.md",
   "domain": "finance",
   "title": "FIRE 数学逆算フレームワーク",
   "entry_type": "wiki_entry",
@@ -57,11 +62,11 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
+      "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/mitsui-sumitomo-insurance",
   "source_path": "non-life-insurers/mitsui-sumitomo-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/mitsui-sumitomo-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/mitsui-sumitomo-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/mitsui-sumitomo-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance.md",
   "domain": "non-life-insurers",
   "title": "三井住友海上火災保険",
   "entry_type": "wiki_entry",
@@ -64,12 +69,12 @@
       "non-life-insurers/msad"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/msad"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/mitsui-sumitomo-aioi-life/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aioi-nissay-dowa-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/"
     ],
     "external_links_count": 0,
     "external_links": []

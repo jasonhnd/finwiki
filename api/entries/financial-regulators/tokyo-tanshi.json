@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/tokyo-tanshi",
   "source_path": "financial-regulators/tokyo-tanshi.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/tokyo-tanshi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/tokyo-tanshi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/tokyo-tanshi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi.md",
   "domain": "financial-regulators",
   "title": "東京短資 (Tokyo Tanshi)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "money-market/call-market-structure"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/money-market/call-market-structure"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/money-market/call-market-structure/"
     ],
     "external_links_count": 0,
     "external_links": []

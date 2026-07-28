@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "insurance/natcat-reinsurance-japan",
   "source_path": "insurance/natcat-reinsurance-japan.md",
-  "url": "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+  "url": "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+    "en": "https://finwiki.zksc.io/en/insurance/natcat-reinsurance-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/natcat-reinsurance-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/natcat-reinsurance-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan.md",
   "domain": "insurance",
   "title": "Nat-cat reinsurance in Japan",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
-      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-      "https://finwiki.zksc.io/non-life-insurers/daido-fire-marine",
-      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/esr-economic-value-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/daido-fire-marine/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/kyoritsu-fire-marine/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

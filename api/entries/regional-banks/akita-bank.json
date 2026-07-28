@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/akita-bank",
   "source_path": "regional-banks/akita-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/akita-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/akita-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/akita-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/akita-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/akita-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/akita-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/akita-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/akita-bank.md",
   "domain": "regional-banks",
   "title": "株式会社秋田銀行 (The Akita Bank)",
   "entry_type": "wiki_entry",
@@ -60,13 +65,13 @@
       "regional-banks/proclair-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fidea-hd",
-      "https://finwiki.zksc.io/regional-banks/iwate-bank",
-      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/regional-banks/proclair-hd"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fidea-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/iwate-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

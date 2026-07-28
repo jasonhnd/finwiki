@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/taiju-life",
   "source_path": "life-insurers/taiju-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/taiju-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/taiju-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/taiju-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/taiju-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/taiju-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/taiju-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/taiju-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/taiju-life.md",
   "domain": "life-insurers",
   "title": "大樹生命保険",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "life-insurers/sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/asahi-life",
-      "https://finwiki.zksc.io/life-insurers/fukoku-life",
-      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
-      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/asahi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/fukoku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/hanasaku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sumitomo-life/"
     ],
     "external_links_count": 0,
     "external_links": []

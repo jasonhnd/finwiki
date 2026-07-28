@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/alterna-trust",
   "source_path": "trust-banks/alterna-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/alterna-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/alterna-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/alterna-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/alterna-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/alterna-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/alterna-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/alterna-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/alterna-trust.md",
   "domain": "trust-banks",
   "title": "オルタナ信託 (Alterna Trust)",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/smtb",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+      "https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/smtb/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

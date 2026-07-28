@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/towa-bank",
   "source_path": "regional-banks/towa-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/towa-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/towa-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/towa-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/towa-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/towa-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/towa-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/towa-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/towa-bank.md",
   "domain": "regional-banks",
   "title": "東和銀行 (The Towa Bank, Ltd.)",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fidea-hd",
-      "https://finwiki.zksc.io/regional-banks/gunma-bank",
-      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
-      "https://finwiki.zksc.io/regional-banks/proclair-hd",
-      "https://finwiki.zksc.io/regional-banks/tomony-hd"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fidea-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/gunma-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

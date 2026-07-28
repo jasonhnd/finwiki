@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/visa-worldwide-japan",
   "source_path": "payment-firms/visa-worldwide-japan.md",
-  "url": "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/visa-worldwide-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/visa-worldwide-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/visa-worldwide-japan/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/visa-worldwide-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/visa-worldwide-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/visa-worldwide-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan.md",
   "domain": "payment-firms",
   "title": "ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "payments/japan-interchange-and-merchant-fee-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
-      "https://finwiki.zksc.io/card-issuers/rakuten-card",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/american-express-international-japan",
-      "https://finwiki.zksc.io/payment-firms/mastercard-japan",
-      "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
-      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack"
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+      "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/american-express-international-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/mastercard-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/unionpay-international-japan/",
+      "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/",
+      "https://finwiki.zksc.io/ja/payments/japan-interchange-and-merchant-fee-stack/"
     ],
     "external_links_count": 0,
     "external_links": []

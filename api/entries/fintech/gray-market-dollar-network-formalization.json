@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/gray-market-dollar-network-formalization",
   "source_path": "fintech/gray-market-dollar-network-formalization.md",
-  "url": "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+  "url": "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
+    "en": "https://finwiki.zksc.io/en/fintech/gray-market-dollar-network-formalization/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/gray-market-dollar-network-formalization.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/gray-market-dollar-network-formalization.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization.md",
   "domain": "fintech",
   "title": "グレー市場ドルネットワークの正式化",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "fintech/tether-business-model-short-treasury-yield"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
-      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-guardian-overview/",
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
+      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
+      "https://finwiki.zksc.io/ja/fintech/singapore-mas-payment-services-act-overview/",
+      "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+      "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/"
     ],
     "external_links_count": 0,
     "external_links": []

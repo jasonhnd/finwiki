@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "cooperative-banks/osaka-shogin-shinkumi",
   "source_path": "cooperative-banks/osaka-shogin-shinkumi.md",
-  "url": "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
+  "url": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shogin-shinkumi/",
+  "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shogin-shinkumi/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shogin-shinkumi/",
+    "en": "https://finwiki.zksc.io/en/cooperative-banks/osaka-shogin-shinkumi/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/osaka-shogin-shinkumi.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/osaka-shogin-shinkumi.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi.md",
   "domain": "cooperative-banks",
   "title": "大阪商銀信用組合 (Osaka Shogin Credit Cooperative)",
   "entry_type": "wiki_entry",
@@ -79,18 +84,18 @@
       "financial-regulators/dic"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/cooperative-banks/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
-      "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
-      "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/cooperative-banks/yokohama-kogin-shinkumi",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/financial-regulators/dic"
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/ja-shinnoren/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/jf-shingyoren/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/rokin-renraku/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-kogin-shinkumi/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dic/"
     ],
     "external_links_count": 0,
     "external_links": []

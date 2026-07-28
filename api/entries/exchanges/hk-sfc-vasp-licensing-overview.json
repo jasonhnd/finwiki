@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/hk-sfc-vasp-licensing-overview",
   "source_path": "exchanges/hk-sfc-vasp-licensing-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/hk-sfc-vasp-licensing-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/hk-sfc-vasp-licensing-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/hk-sfc-vasp-licensing-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview.md",
   "domain": "exchanges",
   "title": "香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview",
   "entry_type": "wiki_entry",
@@ -66,18 +71,18 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-tokyo-hash",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-implications/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

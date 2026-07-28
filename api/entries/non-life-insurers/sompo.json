@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/sompo",
   "source_path": "non-life-insurers/sompo.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/sompo",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/sompo/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sompo.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sompo.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/sompo.md",
   "domain": "non-life-insurers",
   "title": "SOMPO ホールディングス (Sompo Holdings)",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
     "external_links_count": 1,
     "external_links": [

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/module-path-confusion-supply-chain-attack",
   "source_path": "security/module-path-confusion-supply-chain-attack.md",
-  "url": "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
+  "url": "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+  "html_url": "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+    "en": "https://finwiki.zksc.io/en/security/module-path-confusion-supply-chain-attack/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/module-path-confusion-supply-chain-attack.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/module-path-confusion-supply-chain-attack.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack.md",
   "domain": "security",
   "title": "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
   "entry_type": "wiki_entry",
@@ -60,13 +65,13 @@
       "systems/canton-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

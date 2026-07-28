@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/formal-spec-implementation-codesign",
   "source_path": "systems/formal-spec-implementation-codesign.md",
-  "url": "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+  "url": "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+    "en": "https://finwiki.zksc.io/en/systems/formal-spec-implementation-codesign/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/formal-spec-implementation-codesign.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/formal-spec-implementation-codesign.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign.md",
   "domain": "systems",
   "title": "形式化仕様 ↔ 実装 co-design",
   "entry_type": "wiki_entry",
@@ -59,12 +64,12 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
-      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/dag-bft-vs-chain-bft-architecture/",
+      "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

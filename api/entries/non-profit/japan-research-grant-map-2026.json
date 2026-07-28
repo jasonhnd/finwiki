@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-research-grant-map-2026",
   "source_path": "non-profit/japan-research-grant-map-2026.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-research-grant-map-2026/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-research-grant-map-2026.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-research-grant-map-2026.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026.md",
   "domain": "non-profit",
   "title": "日本 研究助成金 map（2026 年度）",
   "entry_type": "wiki_entry",
@@ -59,13 +64,13 @@
       "policy-finance/japan-student-services-organization"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/policy-finance/japan-student-services-organization"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-student-services-organization/"
     ],
     "external_links_count": 0,
     "external_links": []

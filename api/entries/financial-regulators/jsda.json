@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/jsda",
   "source_path": "financial-regulators/jsda.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/jsda",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/jsda/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/jsda.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/jsda.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/jsda.md",
   "domain": "financial-regulators",
   "title": "Japan Securities Dealers Association (JSDA)",
   "entry_type": "wiki_entry",
@@ -71,14 +76,14 @@
       "securities-firms/smbc-nikko"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
-      "https://finwiki.zksc.io/securities-firms/smbc-nikko"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/",
+      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/"
     ],
     "external_links_count": 0,
     "external_links": []

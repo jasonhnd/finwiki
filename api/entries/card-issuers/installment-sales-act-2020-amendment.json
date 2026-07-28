@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/installment-sales-act-2020-amendment",
   "source_path": "card-issuers/installment-sales-act-2020-amendment.md",
-  "url": "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/installment-sales-act-2020-amendment/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/installment-sales-act-2020-amendment/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/installment-sales-act-2020-amendment.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/installment-sales-act-2020-amendment.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment.md",
   "domain": "card-issuers",
   "title": "割賦販売法 2020 改正",
   "entry_type": "wiki_entry",
@@ -68,13 +73,13 @@
       "payment-firms/paidy"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
-      "https://finwiki.zksc.io/payment-firms/paidy"
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
+      "https://finwiki.zksc.io/ja/payment-firms/paidy/"
     ],
     "external_links_count": 0,
     "external_links": []

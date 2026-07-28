@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/orix-corp",
   "source_path": "leasing-firms/orix-corp.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/orix-corp",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/orix-corp/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/orix-corp.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/orix-corp.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/orix-corp.md",
   "domain": "leasing-firms",
   "title": "オリックス株式会社 (ORIX Corporation)",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/leasing-firms/ntt-tc-lease",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/leasing-firms/ntt-tc-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

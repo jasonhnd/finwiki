@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/zurich-life",
   "source_path": "life-insurers/zurich-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/zurich-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/zurich-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/zurich-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/zurich-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/zurich-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/zurich-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/zurich-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/zurich-life.md",
   "domain": "life-insurers",
   "title": "チューリッヒ生命保険",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "non-life-insurers/zurich-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/life-insurers/orix-life",
-      "https://finwiki.zksc.io/life-insurers/sbi-life",
-      "https://finwiki.zksc.io/non-life-insurers/zurich-japan"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/credit-agricole-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/life-insurers/orix-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sbi-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/zurich-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

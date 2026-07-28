@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/sony-insurance",
   "source_path": "non-life-insurers/sony-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/sony-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sony-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sony-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/sony-insurance.md",
   "domain": "non-life-insurers",
   "title": "ソニー損害保険",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "non-life-insurers/tokio-marine-direct"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/sony-bank",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-      "https://finwiki.zksc.io/life-insurers/sony-life",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
+      "https://finwiki.zksc.io/ja/banking/sony-bank/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+      "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-direct/"
     ],
     "external_links_count": 0,
     "external_links": []

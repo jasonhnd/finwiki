@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/jpmorgan-japan",
   "source_path": "foreign-financial-institutions/jpmorgan-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/jpmorgan-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/jpmorgan-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/jpmorgan-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "JP モルガン日本 (JPMorgan Japan)",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "securities-firms/morgan-stanley-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/ubs-japan",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
-      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/ubs-japan/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
+      "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/sbi-life",
   "source_path": "life-insurers/sbi-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/sbi-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/sbi-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/sbi-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/sbi-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/sbi-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/sbi-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/sbi-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/sbi-life.md",
   "domain": "life-insurers",
   "title": "SBI生命保険",
   "entry_type": "wiki_entry",
@@ -67,17 +72,17 @@
       "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/life-insurers/rakuten-life",
-      "https://finwiki.zksc.io/life-insurers/sony-life",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/non-life-insurers/sbi-insurance-group",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/securities-firms/sbi-securities"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/life-insurers/rakuten-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance-group/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
+      "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/"
     ],
     "external_links_count": 0,
     "external_links": []

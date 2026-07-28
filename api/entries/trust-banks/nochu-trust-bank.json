@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/nochu-trust-bank",
   "source_path": "trust-banks/nochu-trust-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/nochu-trust-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/nochu-trust-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/nochu-trust-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/nochu-trust-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/nochu-trust-bank.md",
   "domain": "trust-banks",
   "title": "農中信託銀行 (Norinchukin Trust & Banking)",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
-      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/",
+      "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

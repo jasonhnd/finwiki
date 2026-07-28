@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/ap2-overview",
   "source_path": "agent-economy/ap2-overview.md",
-  "url": "https://finwiki.zksc.io/agent-economy/ap2-overview",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/ap2-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/ap2-overview.md",
   "domain": "agent-economy",
   "title": "AP2 · Google Agent Payments Protocol 概観",
   "entry_type": "wiki_entry",
@@ -60,14 +65,14 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-adoption",
-      "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-adoption/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-technical-spec/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

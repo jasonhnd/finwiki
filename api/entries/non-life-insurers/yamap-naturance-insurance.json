@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/yamap-naturance-insurance",
   "source_path": "non-life-insurers/yamap-naturance-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/yamap-naturance-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/yamap-naturance-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/yamap-naturance-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/yamap-naturance-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/yamap-naturance-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/yamap-naturance-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/yamap-naturance-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/yamap-naturance-insurance.md",
   "domain": "non-life-insurers",
   "title": "ヤマップネイチャランス損害保険",
   "entry_type": "wiki_entry",
@@ -70,18 +75,18 @@
       "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/au-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sonpo",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/anicom-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sonpo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-direct/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/"
     ],
     "external_links_count": 0,
     "external_links": []

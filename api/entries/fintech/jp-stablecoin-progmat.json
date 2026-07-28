@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jp-stablecoin-progmat",
   "source_path": "fintech/jp-stablecoin-progmat.md",
-  "url": "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+  "url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+    "en": "https://finwiki.zksc.io/en/fintech/jp-stablecoin-progmat/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jp-stablecoin-progmat.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jp-stablecoin-progmat.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat.md",
   "domain": "fintech",
   "title": "株式会社Progmat — デジタルアセットプラットフォーム概要",
   "entry_type": "wiki_entry",
@@ -69,16 +74,16 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 7,
     "external_links": [

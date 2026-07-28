@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "asset-managers/saison-asset-management",
   "source_path": "asset-managers/saison-asset-management.md",
-  "url": "https://finwiki.zksc.io/asset-managers/saison-asset-management",
+  "url": "https://finwiki.zksc.io/ja/asset-managers/saison-asset-management/",
+  "html_url": "https://finwiki.zksc.io/ja/asset-managers/saison-asset-management/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/asset-managers/saison-asset-management/",
+    "en": "https://finwiki.zksc.io/en/asset-managers/saison-asset-management/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/saison-asset-management.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/saison-asset-management.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/saison-asset-management.md",
   "domain": "asset-managers",
   "title": "セゾン投信 (Saison Asset Management)",
   "entry_type": "wiki_entry",
@@ -80,13 +85,13 @@
       "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/asset-managers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+      "https://finwiki.zksc.io/ja/domains/asset-managers/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

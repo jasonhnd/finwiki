@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/daido-fire-marine",
   "source_path": "non-life-insurers/daido-fire-marine.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/daido-fire-marine",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/daido-fire-marine/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/daido-fire-marine/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/daido-fire-marine/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/daido-fire-marine/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/daido-fire-marine.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/daido-fire-marine.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/daido-fire-marine.md",
   "domain": "non-life-insurers",
   "title": "大同火災海上保険",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

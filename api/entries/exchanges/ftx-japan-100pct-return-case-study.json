@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/ftx-japan-100pct-return-case-study",
   "source_path": "exchanges/ftx-japan-100pct-return-case-study.md",
-  "url": "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
+  "url": "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
+    "en": "https://finwiki.zksc.io/en/exchanges/ftx-japan-100pct-return-case-study/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/ftx-japan-100pct-return-case-study.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/ftx-japan-100pct-return-case-study.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study.md",
   "domain": "exchanges",
   "title": "FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例",
   "entry_type": "wiki_entry",
@@ -62,14 +67,14 @@
       "exchanges/jp-vasp-ma-consolidation-history"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/"
     ],
     "external_links_count": 0,
     "external_links": []

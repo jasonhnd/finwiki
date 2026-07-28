@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
   "source_path": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
-  "url": "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+  "url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-group-tsusan-consolidated-tax-regime/",
+  "html_url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-group-tsusan-consolidated-tax-regime/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/corporate-strategy/japan-group-tsusan-consolidated-tax-regime/",
+    "en": "https://finwiki.zksc.io/en/corporate-strategy/japan-group-tsusan-consolidated-tax-regime/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
   "domain": "corporate-strategy",
   "title": "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring",
   "entry_type": "wiki_entry",
@@ -76,16 +81,16 @@
       "finance/japan-listed-financial-groups-investable-universe"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime",
-      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-gappei-merger-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-holding-company-conversion/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-koukan-iten-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/"
     ],
     "external_links_count": 0,
     "external_links": []

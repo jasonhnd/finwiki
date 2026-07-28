@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/jia-trust",
   "source_path": "trust-banks/jia-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/jia-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/jia-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/jia-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/jia-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/jia-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/jia-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/jia-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/jia-trust.md",
   "domain": "trust-banks",
   "title": "JIA Trust / JIA信託",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/capital-trust",
-      "https://finwiki.zksc.io/trust-banks/jia-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/capital-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/jia-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

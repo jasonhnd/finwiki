@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/proxy-upgrade-rug-pattern",
   "source_path": "security/proxy-upgrade-rug-pattern.md",
-  "url": "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern",
+  "url": "https://finwiki.zksc.io/ja/security/proxy-upgrade-rug-pattern/",
+  "html_url": "https://finwiki.zksc.io/ja/security/proxy-upgrade-rug-pattern/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/proxy-upgrade-rug-pattern/",
+    "en": "https://finwiki.zksc.io/en/security/proxy-upgrade-rug-pattern/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/proxy-upgrade-rug-pattern.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/proxy-upgrade-rug-pattern.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern.md",
   "domain": "security",
   "title": "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor",
   "entry_type": "wiki_entry",
@@ -68,15 +73,15 @@
       "systems/hook-enforced-compliance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
-      "https://finwiki.zksc.io/security/INDEX",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-overview",
-      "https://finwiki.zksc.io/systems/hook-enforced-compliance"
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+      "https://finwiki.zksc.io/ja/domains/security/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/security/etherscan-verified-source-poisoning/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+      "https://finwiki.zksc.io/ja/systems/hook-enforced-compliance/"
     ],
     "external_links_count": 3,
     "external_links": [
