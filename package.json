@@ -12,6 +12,7 @@
     "ai:audit": "bun tools/txt_route_audit.ts",
     "docs:audit": "bun tools/docs_link_audit.ts",
     "docs:stale": "bun tools/active_doc_stale_scan.ts",
+    "dependency:audit": "cd site && bun audit --production",
     "surface:drift": "bun tools/generated_surface_drift_scan.ts",
     "footer:timestamp": "bun tools/update_footer_timestamp.ts",
     "i18n:status": "bun tools/i18n_status.ts",

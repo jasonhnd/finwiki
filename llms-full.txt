@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-27T10:59:50+09:00
+Generated: 2026-07-27T15:57:59+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1573
-Public pages listed: 1572
+Markdown files: 1574
+Public pages listed: 1573
 
 ## Reading Rules
 
@@ -27,7 +27,7 @@ Public pages listed: 1572
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-27 - Static publish allowlist and destructive-output guard (#177), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-27 - Astro dependency security update and audit gate (#186), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE
@@ -13210,6 +13210,14 @@ Public pages listed: 1572
 - Domain: releases
 - Type: release_note
 - Headings: 静的公開境界の固定, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 依存関係と監査ゲートの更新
+- URL: https://finwiki.zksc.io/releases/v2026.07.27-2
+- Source path: releases/v2026.07.27-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.27-2.md
+- Domain: releases
+- Type: release_note
+- Headings: 依存関係と監査ゲートの更新, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 三言語リリース文書契約の復元
 - URL: https://finwiki.zksc.io/releases/v2026.07.27
