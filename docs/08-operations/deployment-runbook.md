@@ -72,15 +72,19 @@ git hook run pre-push
 
 ## Push And Production Verification
 
-After the user asks to push:
+After the maintainer approves production promotion, create or refresh a PR whose head is `pre` and base is `main`. Do not push a work branch or local `main` directly to production:
 
 ```bash
 git status --short --branch
-git push origin main
+gh pr create --repo jasonhnd/finwiki --base main --head pre \
+  --title "<日本語の promotion title>" \
+  --body "<boundary, validation, release tag>"
+gh pr checks <promotion-pr-number>
+gh pr merge <promotion-pr-number> --merge
 git ls-remote origin refs/heads/main
 ```
 
-Watch the latest deployment:
+Record the resulting main merge SHA, then watch the deployment triggered by that exact SHA:
 
 ```bash
 gh run list --branch main --limit 3
@@ -114,14 +118,14 @@ Supplemental scheduled audits may remain separate, but they do not replace this 
 
 ## Main Branch Protection
 
-After the workflow is present on the base branch and a fresh PR has produced a green `Required verification` context, configure `main` protection/rules so that:
+After the workflow is present on `main` and a fresh PR has produced a green `Required verification` context, configure `main` protection/rules so that:
 
 - changes require a pull request;
 - `Required verification` is required with the branch required to be current;
 - administrators are included;
 - force pushes and branch deletion are blocked.
 
-Do not require a check context before GitHub has observed it on the base branch. Before closing the implementation issue, record both the green PR check URL and read-only repository-rule evidence:
+Do not require a check context while the workflow is absent from `main`; that would deadlock the first promotion PR. For the one bootstrap promotion that introduces the workflow, require the already-green `pre` gate, human approval and exact-SHA deployment verification, then enable protection immediately after the workflow reaches `main`. Before closing the implementation issue, record both the green check URL and read-only repository-rule evidence:
 
 ```bash
 gh pr checks <pr-number>
@@ -137,7 +141,7 @@ The `deploy` job then publishes the artifact via `actions/deploy-pages`. Always 
 
 Every push to `origin/main` must keep the release note and GitHub Release aligned with the trilingual release-document contract: Japanese-only title, body ordered Japanese -> English -> Chinese, and explicit scope, changes, validation, known notes and next steps in every language. This does not add a Chinese human-site locale; public reading routes remain ja/en.
 
-Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
+Create the tag and GitHub Release only after the exact main merge SHA and successful production deployment are known. The tag target, Release target and recorded promotion SHA must match. Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
 
 ## Rollback
 

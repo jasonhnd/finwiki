@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-28T21:18:53+09:00
+Generated: 2026-07-29T00:01:36+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1587
-Public pages listed: 1586
+Markdown files: 1590
+Public pages listed: 1589
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1586
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -16241,6 +16241,16 @@ Public pages listed: 1586
 - Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開ベース・2025-03-31 実績）, 親会社・グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/resona-hd/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/
 
+### リリース状態台帳 / Release State Registry / 发布状态台账
+- URL: https://finwiki.zksc.io/releases/README.md
+- Raw Markdown: https://finwiki.zksc.io/releases/README.md
+- Source path: releases/README.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/README.md
+- Domain: releases
+- Type: release_note
+- Summary: この台帳は、releases/v*.md、Git tag、GitHub Release の関係を明示します。release note の basename と tag / GitHub Release の tag は同じ version を使います。
+- Headings: リリース状態台帳 / Release State Registry / 发布状态台账, 日本語, 公開済み, 個別には公開しない staging record, 詳細履歴, English, Published, Staging records not published individually
+
 ### v2026.05.20-2 Release運用ルール更新
 - URL: https://finwiki.zksc.io/releases/v2026.05.20-2.md
 - Raw Markdown: https://finwiki.zksc.io/releases/v2026.05.20-2.md
@@ -16557,6 +16567,16 @@ Public pages listed: 1586
 - Summary: 2026-05-25 JST 1 回目の release です。Wave 4 (v2026.05.24-3) 公開直後、wave 5 として 10 並列 agent を起動し、50 件新規 entry + 8 件 INDEX 更新を一括で実施しました。Wave 5 のテーマは「残量収口」: 単独で立てるほどの量はないが institutional registry として欠かせない 10 領域 (JapanFG 非寿命 specialty / 海外再保険現地法人残量 / 地方 FG 子会社 / 信用保証協会 / 政策金融 operating arm / Trust bank custody o
 - Headings: Wave 5 並列 10 agents 残量収口 — JapanFG 非寿命 / 再保険 / 地方 FG 子会社 / 信用保証協会 / 政策金融 operating / Trust custody / Payments / Securities / Insurance analytical / Finance + 50 件新規 entry 2026-05-25, 日本語, 概要, 対象範囲, 主要変更, 数値スナップショット, 検証結果, 既知の注意点
 - First resolved wikilinks: https://finwiki.zksc.io/ja/policy-finance/osaka-credit-guarantee-corp/, https://finwiki.zksc.io/ja/policy-finance/tokyo-credit-guarantee-corp/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/cooperative-banks/ja-shinnoren/, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/financial-regulators/jfc/
+
+### 公開計数再同期と国際化完了と発布自動化
+- URL: https://finwiki.zksc.io/releases/v2026.05.29.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.05.29.md
+- Source path: releases/v2026.05.29.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.29.md
+- Domain: releases
+- Type: release_note
+- Summary: 前回 release v2026.05.24-3 以降の知識ベース公開スナップショット。既存 GitHub Release body を repository release note として復元した記録であり、公開済み tag / Release の内容は変更していません。
+- Headings: 公開計数再同期と国際化完了と発布自動化, 主な変更 / Highlights / 主要变更, 日本語, English, 中文
 
 ### 公開ルート・カバーホームページ導入
 - URL: https://finwiki.zksc.io/releases/v2026.05.31-2.md
@@ -17112,6 +17132,15 @@ Public pages listed: 1586
 - Domain: releases
 - Type: release_note
 - Headings: 正準アンカー契約と文書入口の統一, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 検証基盤統合と公開リリース再開
+- URL: https://finwiki.zksc.io/releases/v2026.07.28-9.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28-9.md
+- Source path: releases/v2026.07.28-9.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-9.md
+- Domain: releases
+- Type: release_note
+- Headings: 検証基盤統合と公開リリース再開, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 翻訳保護と公開隔離の強化
 - URL: https://finwiki.zksc.io/releases/v2026.07.28.md
