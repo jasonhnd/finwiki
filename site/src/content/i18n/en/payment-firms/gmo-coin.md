@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-coin
-source_hash: 40d15092f8f9b3e6
+source_hash: 59eacf4d1b052e05
 lang: en
 status: machine
 fidelity: ok
 title: "GMO コイン (GMO Coin)"
-translated_at: 2026-06-19T06:09:18.182Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # GMO コイン (GMO Coin)
@@ -16,18 +16,20 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-A crypto-asset exchange under the **GMO Internet Group**. **Director-General of the Kanto Local Finance Bureau 第 00006 号** (one of the 1  earliest registrations in the industry), JVCEA Type 1 member. A major domestic player with a 3 -axis model of **sales outlet + exchange + leveraged trading** plus **20 + tradable currencies**. The **crypto-asset arm** of the GMO financial ecosystem, alongside parent [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO Click Securities / [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]. Competitors are [[payment-firms/bitflyer]] / Coincheck (within [[securities-firms/monex-group]]) / SBI VC Trade (within [[megabanks/sbi-hd]]) / DMM Bitcoin / bitbank / [[payment-firms/bittrade]].
+GMO Coin, Inc. is the GMO Internet Group's crypto-asset business company, with [[payment-firms/gmo-financial-hd|GMO Financial Holdings]] as its shareholder. Established in **October 2016**, it changed its name from Z.com Coin, Inc. to the current name on 2017-08-09. It is registered as crypto-asset exchange operator **Kanto Local Finance Bureau No. 00006** and Type I financial instruments business **Kanto Local Finance Bureau (FIBO) No. 3188**. [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] is a separate company line within the same wider group, not GMO Coin's parent. ^[GMO Coin company profile: https://coin.z.com/jp/corp/about/company/; name-change announcement: https://coin.z.com/jp/news/2017/08/123/; FSA crypto-asset exchange registry: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf]
 
 ## 1. Company profile
 
-**Legal name**: GMO Coin Co., Ltd.
+**Legal name**: GMO Coin, Inc.
 **English name**: GMO Coin, Inc.
-**Established**: 2016-10-21
-**Headquarters**: Cerulean Tower 26-1 , Sakuragaoka-cho, Shibuya-ku, Tokyo (within the GMO Internet Group headquarters)
-**Business type**: Crypto-asset exchange operator
-**Registration number**: **Director-General of the Kanto Local Finance Bureau 第 00006 号** (crypto-asset exchange business)
+**Established**: October 2016
+**Head office**: Shibuya Fukuras, 1-2-3 Dogenzaka, Shibuya-ku, Tokyo
+**Representative**: Tomitaka Ishimura, President and Representative Director
+**Business type**: crypto-asset exchange operator / Type I financial instruments business
+**Registration number**: **Kanto Local Finance Bureau No. 00006** (crypto-asset exchange business)
+**Financial instruments registration**: **Kanto Local Finance Bureau (FIBO) No. 3188**
 **Industry body**: Japan Virtual and Crypto assets Exchange Association (JVCEA) Type 1 member
-**Parent company**: [[payment-firms/gmo-financial-hd|GMO フィナンシャルホールディングス]] (TSE PRIME 7177, voting rights 100%) → GMO Internet Group (TSE PRIME 9449)
+**Shareholder**: [[payment-firms/gmo-financial-hd|GMO Financial Holdings]]
 
 ### Group structure
 
@@ -61,10 +63,10 @@ GMO Internet Group（9449 / TSE PRIME）
 
 | Year/Month | Event |
 |---|---|
-| 2016-10-21 | Established as Z.com Coin Co., Ltd. (a GMO Internet subsidiary) |
+| 2016-10 | Established as GMO Wallet, Inc. |
 | 2017-04-01 | The amended Payment Services Act came into force (the registration system for crypto-asset exchange business began) |
-| 2017-05-26 | **Registered as a crypto-asset exchange operator (Director-General of the Kanto Local Finance Bureau 第 00006 号)** ── one of the 1  earliest registrations in the industry |
-| 2017-09-13 | Changed its trade name to "GMO Coin" |
+| 2017-08-09 | Changed its name from Z.com Coin, Inc. to GMO Coin, Inc. |
+| 2017-09-29 | **Registered as crypto-asset exchange operator Kanto Local Finance Bureau No. 00006** |
 | **2018-01-26** | **Coincheck NEM outflow incident (approximately 580 億円)** ── intensive inspections / regulatory tightening by the FSA across the entire industry |
 | 2018-03 | FSA business improvement order (deficiencies in internal control systems, industry-wide disposition) |
 | 2018  latter half | Improvement of internal control systems / strengthening of compliance |

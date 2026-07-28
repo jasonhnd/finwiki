@@ -24,10 +24,10 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "crypto"
@@ -37,10 +37,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 株式会社ビットフライヤー",
-      "Wikipedia: bitFlyer",
-      "関東財務局 暗号資産交換業者登録一覧",
-      "JVCEA 会員名簿"
+      "bitFlyer 会社概要 (https://bitflyer.com/ja-jp/s/company)",
+      "金融庁 暗号資産交換業者登録一覧 (https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)",
+      "JVCEA 会員一覧 (https://jvcea.or.jp/member/)"
     ]
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -90,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5093,
-    "word_like_tokens": 811,
+    "nonspace_chars": 5052,
+    "word_like_tokens": 813,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-08"
   }

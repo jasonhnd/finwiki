@@ -28,10 +28,10 @@
     "domain": "payments",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "payments",
       "matrix",
@@ -47,14 +47,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://corp.gmo-pg.com/",
-      "https://corp.gmo-pg.com/ir/",
+      "https://www.gmo-pg.com/corp/company/",
+      "https://www.gmo-pg.com/corp/history/",
+      "https://www.gmo.jp/news/article/9557/",
       "https://www.epsilon.jp/",
       "https://www.sbpayment.jp/",
       "https://www.dgft.jp/",
       "https://netstars.co.jp/",
       "https://squareup.com/jp/",
       "https://stripe.com/jp",
+      "https://pay.jp/info/2018-01-04-191841",
       "https://www.paypal.com/jp/business",
       "https://komoju.com/ja/",
       "https://pay.amazon.co.jp/",
@@ -174,8 +176,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 33428,
-    "word_like_tokens": 5448,
+    "nonspace_chars": 33688,
+    "word_like_tokens": 5497,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-04"
   }

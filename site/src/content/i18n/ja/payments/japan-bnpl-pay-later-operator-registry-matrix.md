@@ -1,18 +1,18 @@
 ---
 source: payments/japan-bnpl-pay-later-operator-registry-matrix
-source_hash: 9ca5e6397c450602
+source_hash: 2caae58e85b329d7
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan BNPL / pay-later 事業者 registry matrix"
-translated_at: 2026-06-19T06:09:18.049Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # Japan BNPL / pay-later 事業者 registry matrix
 
 ## TL;DR
 
-日本の BNPL / 後払い のランドスケープは、主に **割賦販売法** によって、**個別信用購入あっせん業者** の登録ラインを通じて規律されており、経済産業省（METI）が主要な規制当局である。METI の登録個別信用購入あっせん業者一覧には、[[payments/credit-purchase-card-operators-japan-index|credit-purchase card 事業者 registry]] によれば 2026-04 月末時点で約 138 の登録事業者が含まれており、そのうちより小さな部分集合 — おおよそ 15-20  — が、意味のある規模で消費者に見える BNPL / 後払い 商品を積極的に運営している。このマトリクスは、BNPL の経済性を決定する各軸にわたってそれらのアクティブな事業者をプロファイルする：親会社／所有、取引モデル（一括後払い vs 分割）、信用リスクモデル（事業者が損失を負う vs 加盟店が損失を負う vs 共有）、資金源、加盟店カテゴリーの特化、月間取引高のオーダー、登録年、そして 2020 改正割賦販売法 の枠組み（認定包括 / 少額包括 / 個別 / 適用除外）の下での規制ティア。このマトリクスは [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] の事業者レベルの対をなすものであり、[[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit 事業者 comparison matrix]] の BNPL 固有の断面である。
+日本の **BNPL / 後払い** というチェックアウト表示は、単一のライセンスに対応しない。経済産業省は、信用購入あっせん業を、一般に事業者が加盟店へ代金を支払い、2 か月を超える期間にわたり消費者から代金を受領する仕組みとして説明している。したがって適用される割賦販売法上の制度は、支払期間と商品構造に応じて、個別信用購入あっせん、包括・認定包括・少額包括、または短期間の適用範囲外取引に分かれる。経済産業省の公開ポータルは **2026-05 時点で登録個別信用購入あっせん業者 138 社**を掲載しているが、この登録件数は消費者向け BNPL ブランド数や稼働規模の調査ではない。本マトリクスは、チェックアウト表示から登録を推定せず、運営法人、商品構造、支払期間、リスク配分、正確な登録区分を別々に扱う。^[経済産業省 登録事業者一覧: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html; 後払い分野の概要・FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html; クレジット政策: https://www.meti.go.jp/policy/economy/consumer/credit/index.html]
 
 ## ウィキ上の位置づけ
 

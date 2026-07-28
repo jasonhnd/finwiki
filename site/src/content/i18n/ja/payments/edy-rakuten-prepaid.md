@@ -1,37 +1,37 @@
 ---
 source: payments/edy-rakuten-prepaid
-source_hash: baf73cd415770c05
+source_hash: 08c22a10624c85e9
 lang: ja
 status: machine
 fidelity: ok
 title: "Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー"
-translated_at: 2026-06-19T06:09:18.196Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー
 
 ## ウィキ上の位置づけ
 
-本項目は [[payments/INDEX|決済インデックス]] の下にある Rakuten Edy の前払式発行会社ページであり、FSA 登録簿の視点では [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社の登録簿]] と、4 区分のスキーム比較では [[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] と対をなす。リテール起点型（[[payments/waon-prepaid-aeon|WAON]]／[[payments/nanaco-prepaid-seven-i|nanaco]]）および交通起点型（[[payments/suica-prepaid-jr-east|Suica]]／[[payments/pasmo-prepaid-tokyo-metro|PASMO]]）の前払式システムと比較されたい。Edy は小売・鉄道のいずれの親会社アンカーも持たない **プラットフォーム非依存型 FeliCa 前払式** であり、これが構造上の主たる特徴である。企業／グループのアンカーは [[payment-firms/rakuten-edy|楽天Edy株式会社]]（FSA 登録の第三者型前払式発行会社、法人番号 3010901038102、楽天グループ傘下で 2016-07-21 登録）である。関連する楽天の決済商品には、[[card-issuers/rakuten-card|Rakuten Card]]（Edy オートチャージ付きのクレジットカード提携）や 楽天ペイ（コード決済アプリ）が含まれる。FeliCa 技術の基盤は [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa スキームのアーキテクチャ]]。
+本項目は [[payments/INDEX|決済インデックス]] の下にある Rakuten Edy の前払式発行会社ページであり、FSA 登録簿の視点では [[payments/prepaid-payment-instrument-issuers-japan-index|前払式支払手段発行会社の登録簿]] と、4 区分のスキーム比較では [[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] と対をなす。現運営会社の [[payment-firms/rakuten-edy|楽天Edy株式会社]] は 2016-05-09 に設立され、2016-10 に Edy 事業を承継した。楽天ペイメントの完全子会社であり、法人番号 3010901038102、関東財務局長 第 00692 号（2016-07-21 登録）の第三者型前払式支払手段発行者である。Edy ブランド自体は、前身 bitWallet が 2001 年に開始したサービスに遡る。^[楽天Edy 会社概要: https://edy.rakuten.co.jp/company/company.html; 沿革: https://edy.rakuten.co.jp/company/history.html; 金融庁 第三者型前払式支払手段発行者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf]
 
 ## TL;DR
 
-**Rakuten Edy（楽天Edy）** は、日本における **主要なプラットフォーム非依存型 FeliCa 前払式電子マネー** であり、リテール起点型（[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]）および交通起点型（[[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]）の前払式システムとは区別される。もともと 2001 年に **bitWallet（ビットワレット株式会社）**──NTT ドコモ＋ソニー＋銀行コンソーシアムのスピンオフ──によってローンチされた Edy は、日本で **最初の主要な FeliCa 電子マネー製品** であり、WAON／nanaco に 6 年先行し、Suica／PASMO のリテール受容にも数年先行した。**2009-11 に楽天により買収**（完全子会社化は 2010 年）され、2012-06 に Rakuten Edy へリブランドされて以降、このフランチャイズは現在 **楽天Edy株式会社（Rakuten Edy Co Ltd）** が、第三者型前払式発行会社（FSA 登録、法人番号 3010901038102、登録 2016-07-21）として運営している。Edy の際立った特徴は **単一加盟店アンカーを持たない** ことであり、受容はコンビニエンスストア（ローソン、ファミリーマート、ミニストップ、デイリーヤマザキ ── およびセイコーマート）、ドラッグストア、レストラン、自動販売機、その他の加盟店にプラットフォーム中立的に及び、楽天カードのオートチャージと 楽天ポイント（Rakuten Points）連携を主要な顧客獲得レールとする。
+**Rakuten Edy（楽天Edy）** は FeliCa ベースの第三者型前払式支払手段である。前身の bitWallet は 2001-11 に Edy の本格サービスを開始し、2010-01 に楽天グループ入り、2012-06 に楽天Edyへ商号変更した。現法人は 2016-05 に設立、同年 10 月に事業を承継し、2019-04 に楽天ペイメントの完全子会社となった。現在の公式案内は対応 Android のおサイフケータイ / Google ウォレットでの利用を案内する一方、iPhone は非対応としている。残高上限は 5 万円で、原則として現金での払戻しはできない。^[楽天Edy 沿革: https://edy.rakuten.co.jp/company/history.html; サービス情報: https://edy.rakuten.co.jp/terms/info.html; Google ウォレット案内: https://edy.rakuten.co.jp/howto/google/pay/; 対応端末 FAQ: https://support.rakuten-edy.co.jp/faq/show/1179]
 
 ## 発行会社と運営構造
 
 | 項目 | 読み方 |
 |---|---|
 | 運営会社 | 楽天Edy株式会社（Rakuten Edy Co Ltd） |
-| グループ親会社 | [[card-issuers/rakuten-card\|Rakuten Card]]／Rakuten Group |
+| グループ親会社 | 楽天ペイメント（100%）／楽天グループ |
 | FSA 前払式登録 | 第三者型前払式支払手段 |
 | 法人番号 | 3010901038102 |
 | FSA 登録日 | 2016-07-21 |
-| 当初の事業者 | bitWallet（ビットワレット株式会社）──NTT ドコモ＋ソニー＋銀行コンソーシアム |
-| 楽天による買収 | 2009-11（買収発表）、2010（完全子会社化）、2012-06（Rakuten Edy へリブランド） |
-| ローンチ年 | 2001（bitWallet の当初ローンチ） |
+| 現法人の設立 | 2016-05-09；2016-10 に Edy 事業を承継 |
+| ブランドの沿革 | bitWallet は 2010-01 に楽天グループ入り；2012-06 に楽天Edyへ商号変更 |
+| ローンチ年 | 2001-11（前身法人による Edy 本格サービス） |
 | 技術 | FeliCa 非接触 IC |
-| モバイルレール | おサイフケータイ Edy（Android FeliCa 端末）；Apple Pay 対応は Suica／PASMO に比べ限定的 |
+| モバイルレール | 対応 Android のおサイフケータイ / Google ウォレット；iPhone は非対応 |
 | チャージ上限 | 1 枚あたり ¥50,000 |
 | 提供形態 | カード、モバイル、Edy 内蔵クレジットカード（楽天カードおよびその他の提携カード） |
 
@@ -54,11 +54,13 @@ Edy の構造的ポジションは、日本の FeliCa 電子マネーの **パ�
 | 2001 | bitWallet が Edy をローンチ ── 日本初の主要 FeliCa 電子マネー |
 | 2001-11 | JR 東日本が Suica をローンチ |
 | 2007 | イオンが WAON を、セブン&アイが nanaco をローンチ |
-| 2009-11 | 楽天が bitWallet を買収 |
-| 2010 | bitWallet が楽天の完全子会社化 |
+| 2010-01 | bitWallet が楽天グループ入り |
 | 2012-06 | Rakuten Edy へリブランド |
 | 2013 | 10 IC 相互利用スキームのローンチ（交通系前払式） |
-| 2016-07 | Edy の現行 FSA 登録（楽天Edy株式会社として） |
+| 2016-05 | 現在の楽天Edy株式会社を設立 |
+| 2016-07 | 楽天Edy株式会社として現行 FSA 登録 |
+| 2016-10 | 現法人が Edy 事業を承継 |
+| 2019-04 | 現法人が楽天ペイメントの完全子会社化 |
 
 WAON と nanaco がローンチされた 2007 年時点で、Edy はすでに確立された FeliCa 電子マネーブランドであった ── しかし WAON（イオンモール／スーパーマーケット／ドラッグストア／ミニストップ）と nanaco（7-イレブン／イトーヨーカドー／そごう・西武）の **リテール起点型ネットワーク効果** が、多くの特定加盟店独占提携から Edy を徐々に押しのけた。Edy の対応は、**プラットフォーム非依存型の代替** ── 単一小売の囲い込みなしに多数の加盟店で受容可能 ── として位置づけることであった。
 

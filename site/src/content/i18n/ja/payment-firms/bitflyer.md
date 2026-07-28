@@ -1,12 +1,12 @@
 ---
 source: payment-firms/bitflyer
-source_hash: e35937a865d956af
+source_hash: 28db4d5db050ced1
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
-translated_at: 2026-06-26T08:32:07.560Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
@@ -14,17 +14,19 @@ translated_at: 2026-06-26T08:32:07.560Z
 
 この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア比較・対比の文脈は [[securities-firms/monex-group|マネックスグループ (Monex Group)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
-## 要約国内最大手暗号資産取引所の一つ。**2014-01-09 加納裕三創業**、改正資金決済法施行直後の **2017-09 関東財務局長第 00003 号** 取得（第一陣 11 社のうちの一角）。ビットコイン現物取引高で **国内トップ級**（年により [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] と首位争い）。2019 持株会社化（bitFlyer Holdings 設立）、**米国 / EU（ルクセンブルク）** に子会社展開。グループ独自プライベートチェーン「miyabi」を [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が運営。2024-2025 IPO 検討報道と並行して **創業者復帰・経営権争い** が表面化。JVCEA Type 1 業者。
+## 要約
+
+株式会社 bitFlyer は **2014-01-09 設立**の暗号資産交換業者・第一種金融商品取引業者で、暗号資産交換業は **関東財務局長 第 00003 号**、金融商品取引業は **関東財務局長（金商）第 3294 号**。代表取締役は加納裕三、本社は東京都港区赤坂の東京ミッドタウン、株主は bitFlyer Holdings 株式会社である。公式サイトは暗号資産売買・交換とブロックチェーン開発・サービスを事業内容として掲げ、JVCEA の第一種会員一覧にも掲載されている。^[bitFlyer 会社概要: https://bitflyer.com/ja-jp/s/company; 金融庁 暗号資産交換業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf; JVCEA 会員一覧: https://jvcea.or.jp/member/]
 
 ## 1. 会社概要
 
-**正式名**：株式会社ビットフライヤーホールディングス（持株）/ 株式会社ビットフライヤー（取引所運営）
-**英名**：bitFlyer Holdings, Inc. / bitFlyer, Inc.
-**設立**：2014-01-09（株式会社ビットフライヤー）
-**持株会社化**：2019（bitFlyer Holdings 設立）
-**本社**：東京都港区
-**創業者**：加納裕三（Yuzo Kano、元ゴールドマン・サックス証券）
-**未上場**：2024-2025 IPO 検討公開報道（具体的タイムラインは未確定）
+**正式名**：株式会社 bitFlyer
+**英名**：bitFlyer, Inc.
+**設立**：2014-01-09
+**本社**：東京都港区赤坂 9-7-1 ミッドタウン・タワー
+**代表者**：加納裕三（代表取締役）
+**株主**：bitFlyer Holdings 株式会社
+**登録**：暗号資産交換業 関東財務局長 第 00003 号 / 第一種金融商品取引業 関東財務局長（金商）第 3294 号
 
 ### グループ構造（公開情報ベース）
 
@@ -55,14 +57,13 @@ bitFlyer Holdings, Inc.（持株、未上場）
 | 2014-09〜2017 | シリーズ A〜C 資金調達 |
 | 2014-12 | Mt.Gox 破綻後の業界再編期に国内シェア急拡大 |
 | **2017-04** | **改正資金決済法施行**（暗号資産交換業登録制導入）|
-| **2017-09** | **関東財務局長第 00003 号取得**（第一陣 11 社のうち、登録番号順では業界最古参格）|
+| **2017-09-29** | **暗号資産交換業 関東財務局長 第 00003 号 登録** |
 | 2017-11 | bitFlyer USA 営業開始（米国子会社）|
 | 2018-01 | bitFlyer EUROPE 営業開始（ルクセンブルク EU 拠点）|
 | **2018-06** | **金融庁業務改善命令**（[[exchanges/jp-exchange-coincheck|coincheck]] NEM 流出事件後の業界一斉点検、JVCEA 自主規制対応の遅延を含む内部管理体制不備）|
 | 2018-06〜 | 新規口座開設一時停止 → KYC / AML 体制再構築 |
 | 2018-10 | JVCEA（日本暗号資産取引業協会）認定資金決済事業者協会認定 |
 | 2018-07 | 新規口座開設再開 |
-| 2019 | **持株会社化**（bitFlyer Holdings 設立、グループ再編）|
 | 2019-04 | 加納裕三 CEO 退任、後継平子惠生 CEO 就任（報道ベース）|
 | 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が miyabi（独自プライベートチェーン）を B2B 提供 |
 | 2022 | bitFlyer EUROPE が 仏 AMF PSAN（暗号資産サービス提供者）登録 |
