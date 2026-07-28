@@ -40,6 +40,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 9. local pre-push、pull request、GitHub Pages、Vercel は `.bun-version` の Bun と同じ canonical verification runner を使用します。local command は `bun run verify` で、個別 gate の成功を全体検証の代わりにしません。
 10. truthfulness audit の成果物は既定で repository 外へ出力します。明示的な local output は ignored `audit-artifacts/` の下だけを許可し、corpus、discovery、API、site、publish artifact には含めません。
 11. AI discovery surface は日本語 HTML canonical `/ja/{route}/`、英語 alternate `/en/{route}/`、公開 raw Markdown の明示的な `.md` URL、または static artifact 対象外 source の GitHub fallback という実 deploy contract に従います。API `external_links` は absolute HTTP(S) に正規化し、最終 assembled output の全 declared internal route URL を監査して wrong-origin も fail closed とします。exact drift gate は committed surface と固定 timestamp による一回の clean regeneration を `last_modified` まで byte 単位で比較します。更新日は full git history を第一 source、shallow / history-less builder では committed discovery date を fallback、mtime を最終 fallback とします。
+12. GitHub Issues を live scope / state / dependency / ordering の唯一の真相源とします。active developer docs は番号付きの現在キューや生成済み corpus metrics を複製せず、`ai-index.json` と canonical audits を参照します。
 
 ### 検証
 
@@ -92,6 +93,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 9. Local pre-push, pull requests, GitHub Pages, and Vercel use the same canonical verification runner with the Bun version in `.bun-version`. The local command is `bun run verify`; a passing individual gate does not replace the full verification.
 10. Truthfulness-audit artifacts default outside the repository. Explicit local output is allowed only under ignored `audit-artifacts/`, which is excluded from the corpus, discovery, API, site, and publish artifacts.
 11. AI discovery surfaces follow the deployed contract: Japanese HTML canonicals at `/ja/{route}/`, English alternates at `/en/{route}/`, explicit `.md` URLs for published raw Markdown, and GitHub fallback for sources excluded from the static artifact. Normalize API `external_links` to absolute HTTP(S), audit every declared internal route URL against the final assembled output, and fail closed on a wrong origin. The exact-drift gate compares committed surfaces with one clean fixed-timestamp regeneration byte-for-byte, including `last_modified`. Full Git history remains the primary date source; shallow/history-less builders fall back to committed discovery dates, with mtime last.
+12. GitHub Issues are the sole live source for scope, state, dependencies, and ordering. Active developer docs must not copy numbered current queues or generated corpus metrics; they point to `ai-index.json` and the canonical audits.
 
 ### Validation
 
@@ -144,6 +146,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 9. local pre-push、pull request、GitHub Pages 与 Vercel 使用 `.bun-version` 中的 Bun 和同一个 canonical verification runner；local command 是 `bun run verify`，单个 gate 通过不能替代完整验证。
 10. truthfulness audit 产物默认输出到仓库外；显式 local output 只允许放在已 ignored 的 `audit-artifacts/` 下，并从 corpus、discovery、API、site 与 publish artifact 全部排除。
 11. AI discovery surface 遵循实际部署契约：日文 HTML canonical 使用 `/ja/{route}/`，英文 alternate 使用 `/en/{route}/`，已发布 raw Markdown 使用显式 `.md` URL，static artifact 排除的 source fallback 到 GitHub。全部 declared internal route URL 都针对最终 assembled output 审计，API `external_links` 统一为 absolute HTTP(S)，wrong-origin 必须 fail closed。exact drift gate 将 committed surface 与一次 fixed-timestamp clean regeneration 按 byte 比较，包括 `last_modified`。更新日期仍以 full git history 为第一来源；shallow / history-less builder fallback 到 committed discovery date，mtime 只作为最后 fallback。
+12. GitHub Issues 是 live scope、state、dependency 与 ordering 的唯一真相源。active developer docs 不再复制带编号的当前队列或已生成的 corpus metrics，而是引用 `ai-index.json` 与 canonical audits。
 
 ### 验证
 
