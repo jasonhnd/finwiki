@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1585 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1586 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1070万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,698,893） |
+| Text volume | 約1071万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,709,878） |
 | Word-like tokens | 約172万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -43,6 +43,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 12. GitHub Issues を live scope / state / dependency / ordering の唯一の真相源とします。active developer docs は番号付きの現在キューや生成済み corpus metrics を複製せず、`ai-index.json` と canonical audits を参照します。
 13. canonical verification は最終 assembled artifact 内の全 HTML `href` を、各 HTML file の公開 URL を基準に解決して監査します。同一 origin の相対 / absolute URL は query と fragment を除いて、exact-case・non-empty・non-symlink regular file として存在しなければ release を阻断します。
 14. 各 wiki entry の HTML head は同一 route の self-canonical、`ja` / `en` / `x-default` hreflang、per-entry JSON API と raw Markdown alternate、schema.org `Article` JSON-LD、frontmatter 由来の `finwiki:*` meta を出力します。canonical verification は build 後の全 entry language page を監査し、homepage へ退行した hreflang、欠落 metadata、JSON-LD / meta の不整合を fail closed とします。
+15. 翻訳の source discovery は `i18n:status` と同じ canonical public-corpus walker を使用します。翻訳 script に領域 directory list を重複保持せず、新しい公開 domain は自動検出し、parity test と write-free prep dry-run で denominator の一致を検証します。
 
 ### 検証
 
@@ -63,11 +64,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1585 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1586 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.70M chars | ~10,698,893 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.71M chars | ~10,709,878 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.72M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -98,6 +99,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 12. GitHub Issues are the sole live source for scope, state, dependencies, and ordering. Active developer docs must not copy numbered current queues or generated corpus metrics; they point to `ai-index.json` and the canonical audits.
 13. Canonical verification resolves every HTML `href` in the final assembled artifact from that HTML file's public URL. Same-origin relative and absolute URLs must resolve, after removing query strings and fragments, to exact-case, non-empty, non-symlink regular files or the release is blocked.
 14. Every wiki-entry HTML head emits a same-route self-canonical, route-equivalent `ja` / `en` / `x-default` hreflang links, per-entry JSON API and raw Markdown alternates, schema.org `Article` JSON-LD, and frontmatter-backed `finwiki:*` metadata. Canonical verification audits every built entry-language page and fails closed on homepage hreflang regressions, missing metadata, or JSON-LD/meta inconsistency.
+15. Translation source discovery uses the same canonical public-corpus walker as `i18n:status`. Translation scripts do not maintain a second domain-directory list; new public domains are discovered automatically, while a parity test and write-free preparation dry-run verify the shared denominator.
 
 ### Validation
 
@@ -118,11 +120,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1585 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1586 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1070万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,698,893） |
+| Text volume | 约1071万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,709,878） |
 | Word-like tokens | 约172万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -153,6 +155,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 12. GitHub Issues 是 live scope、state、dependency 与 ordering 的唯一真相源。active developer docs 不再复制带编号的当前队列或已生成的 corpus metrics，而是引用 `ai-index.json` 与 canonical audits。
 13. canonical verification 会以每个 HTML file 的公开 URL 为基准，解析最终 assembled artifact 中的全部 HTML `href`。同一 origin 的相对 / absolute URL 去除 query 与 fragment 后，必须对应 exact-case、non-empty、non-symlink regular file，否则阻断发布。
 14. 每个 wiki entry 的 HTML head 都输出同一路由的 self-canonical、保持路由一致的 `ja` / `en` / `x-default` hreflang、per-entry JSON API 与 raw Markdown alternate、schema.org `Article` JSON-LD，以及来自 frontmatter 的 `finwiki:*` meta。canonical verification 会审计构建后的全部 entry language page；一旦 hreflang 退回语言首页、metadata 缺失或 JSON-LD / meta 不一致，就 fail closed。
+15. 翻译 source discovery 与 `i18n:status` 使用同一个 canonical public-corpus walker。翻译脚本不再维护第二份领域目录列表；新增公开 domain 会被自动发现，并由 parity test 与不写文件的 prep dry-run 验证共同 denominator。
 
 ### 验证
 
