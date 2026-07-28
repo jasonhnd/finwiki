@@ -26,6 +26,38 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-07-28 - Current JST review-overdue boundary (#194)
+
+### 日本語
+
+- **2026-07-28 14:25:07 JST / 背景:** Issue #194。entry evidence strip の `review_by` warning は `2026-06-02` と直接比較していたため、repository と deployment が時間経過しても overdue boundary が更新されず、実際の build 日付と矛盾していた。
+- **範囲:** entry layout の overdue 判定、shared JST date helper、focused date-boundary tests、本 CHANGELOG、`releases/v2026.07.28-3.md`。wiki entry の事実本文、frontmatter、`ja` / `en` translation mirror、domain map は変更しない。
+- **主要ファイル:** `site/src/layouts/EntryLayout.astro`、`site/src/lib/reviewDate.ts`、`tools/review_date.test.ts`、`CHANGELOG.md`、`releases/v2026.07.28-3.md`。
+- **実行手順:** `Intl.DateTimeFormat` と明示的な `Asia/Tokyo` time zone から static build 時点の `YYYY-MM-DD` を組み立てる pure helper を追加した。`review_by` が今日より前の場合のみ overdue とし、今日 / 将来 / 欠落 / 不正値は warning にしない。UTC 14:59:59 と 15:00:00 の JST calendar rollover、および昨日 / 今日 / 明日の境界を unit tests に固定し、`EntryLayout.astro` から hard-coded date を除去した。
+- **検証結果:** focused review-date suite は 4 tests / 10 assertions PASS。full canonical `bun run verify --out _site` は全 54 tests / 184 assertions、Astro check 40 files / 0 errors / 0 warnings / 5 既知 hints、Astro 2,969 pages、duplicate HTML id 0、Pagefind 2,968 pages、assembly 6,258 Astro files + 3,065 raw files、13 required routes、6,029 generated internal URLs、production vulnerabilities 0 を含む全 gate で PASS。`git diff --check` も PASS。
+- **既知の注意点:** overdue state は static build の JST 日付で計算され、再 build ごとに更新される。既に deploy 済みの static artifact は次の build まで変化しない。5 Astro hints は Issue #198 の既存 scope。
+- **残タスク:** commit 後に history-aware discovery date を再同期し、real pre-push を通す。push 後に `pre` 向け PR を作成し、CI / preview evidence を Issue #194 に記録する。`main` と GitHub Release は承認済み promotion まで変更しない。
+
+### English
+
+- **2026-07-28 14:25:07 JST / Background:** Issue #194. The entry evidence strip compared `review_by` directly with `2026-06-02`, so the overdue boundary never advanced as the repository and deployment aged and could contradict the actual build date.
+- **Scope:** Entry-layout overdue evaluation, a shared JST date helper, focused date-boundary tests, this CHANGELOG, and `releases/v2026.07.28-3.md`. Factual wiki-entry bodies, frontmatter, `ja` / `en` translation mirrors, and the domain map are unchanged.
+- **Primary files:** `site/src/layouts/EntryLayout.astro`, `site/src/lib/reviewDate.ts`, `tools/review_date.test.ts`, `CHANGELOG.md`, and `releases/v2026.07.28-3.md`.
+- **Steps:** Added a pure helper that constructs the static build's `YYYY-MM-DD` from `Intl.DateTimeFormat` with the explicit `Asia/Tokyo` time zone. Only a `review_by` before today is overdue; today, future, missing, and invalid values are not warnings. Locked the UTC 14:59:59/15:00:00 JST calendar rollover plus yesterday/today/tomorrow boundaries in unit tests and removed the hard-coded date from `EntryLayout.astro`.
+- **Validation:** The focused review-date suite passed 4 tests / 10 assertions. Full canonical `bun run verify --out _site` passed every gate, including all 54 tests / 184 assertions, Astro check across 40 files with 0 errors / 0 warnings / 5 known hints, 2,969 Astro pages, zero duplicate HTML IDs, 2,968 Pagefind pages, assembly of 6,258 Astro files plus 3,065 raw files, 13 required routes, 6,029 generated internal URLs, and zero production vulnerabilities. `git diff --check` also passed.
+- **Known notes:** The overdue state is calculated from the static build's JST date and advances on each rebuild. An already deployed static artifact remains unchanged until the next build. The five Astro hints remain the existing Issue #198 scope.
+- **Next steps:** After the source commit, resynchronize history-aware discovery dates and pass the real pre-push. Then open a PR into `pre` and attach CI/preview evidence to Issue #194. Do not change `main` or the GitHub Release before an approved promotion.
+
+### 中文
+
+- **2026-07-28 14:25:07 JST / 背景:** Issue #194。entry evidence strip 直接把 `review_by` 与 `2026-06-02` 比较，因此随着 repository 与 deployment 老化，overdue boundary 也不会前进，可能与实际 build 日期矛盾。
+- **范围:** entry layout 的 overdue 判断、shared JST date helper、聚焦日期边界测试、本 CHANGELOG 与 `releases/v2026.07.28-3.md`。不修改 wiki entry 事实正文、frontmatter、`ja` / `en` translation mirror 或 domain map。
+- **主要文件:** `site/src/layouts/EntryLayout.astro`、`site/src/lib/reviewDate.ts`、`tools/review_date.test.ts`、`CHANGELOG.md` 与 `releases/v2026.07.28-3.md`。
+- **执行步骤:** 新增 pure helper，使用带明确 `Asia/Tokyo` time zone 的 `Intl.DateTimeFormat` 生成 static build 当天的 `YYYY-MM-DD`。只有 `review_by` 早于今天时才视为逾期；今天、未来、缺失与无效值均不显示 warning。通过 unit tests 固定 UTC 14:59:59 / 15:00:00 的 JST 日历跨日边界和昨天 / 今天 / 明天的判断，并从 `EntryLayout.astro` 删除 hard-coded date。
+- **验证结果:** 聚焦 review-date suite 的 4 tests / 10 assertions 全部通过。full canonical `bun run verify --out _site` 的全部 gate 均通过，包括 54 tests / 184 assertions、Astro check 40 files / 0 errors / 0 warnings / 5 个既有 hints、Astro 2,969 pages、duplicate HTML id 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,065 个 raw files、13 个 required routes、6,029 个 generated internal URLs 与 production vulnerabilities 0；`git diff --check` 也通过。
+- **已知注意事项:** overdue state 按 static build 时的 JST 日期计算，并会在每次重新构建时前进；已经部署的 static artifact 本身要到下一次 build 才会变化。5 个 Astro hints 仍属于 Issue #198 的既有范围。
+- **后续事项:** source commit 后重新同步 history-aware discovery dates，并通过 real pre-push；随后创建目标为 `pre` 的 PR，把 CI / preview evidence 回填 Issue #194。批准 promotion 前不修改 `main` 或 GitHub Release。
+
 ## 2026-07-28 - Entry HTML metadata and route-level language alternates (#180)
 
 ### 日本語
