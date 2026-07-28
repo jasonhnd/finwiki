@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-28T20:39:31+09:00
+Generated: 2026-07-28T20:42:54+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1583
-Public pages listed: 1582
+Markdown files: 1584
+Public pages listed: 1583
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1582
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Current JST review-overdue boundary (#194), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Scheduled truthfulness history and aggregation repair (#191), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -17076,6 +17076,15 @@ Public pages listed: 1582
 - Domain: releases
 - Type: release_note
 - Headings: 活用中の開発文書とリポジトリ情報の修復, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 定期監査の履歴比較と集計精度の修復
+- URL: https://finwiki.zksc.io/releases/v2026.07.28-5.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28-5.md
+- Source path: releases/v2026.07.28-5.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-5.md
+- Domain: releases
+- Type: release_note
+- Headings: 定期監査の履歴比較と集計精度の修復, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 翻訳保護と公開隔離の強化
 - URL: https://finwiki.zksc.io/releases/v2026.07.28.md

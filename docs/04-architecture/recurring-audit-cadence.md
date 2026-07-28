@@ -46,13 +46,13 @@ Initial thresholds are intentionally conservative. After two weekly cycles, open
 
 ## Automation Shape
 
-The eventual implementation should be read-only:
+The current implementation is read-only:
 
 1. Run the three audit commands with deterministic options where available.
-2. Store JSON artifacts as CI artifacts, scheduled-job artifacts, or a generated report attached to an issue.
-3. Compute threshold status and a small summary table.
+2. Store JSON artifacts as scheduled-job artifacts and download the two latest successful scheduled summaries before the next run.
+3. Compute threshold status, a bounded three-cycle trend, and a small summary table without retaining artifact or machine-local paths.
 4. Draft a remediation issue only when a threshold trips.
-5. Include exact paths, suggested batch size, Allowed Files, and validation commands in the issue.
+5. Leave issue creation to maintainer review; any later issue must include exact paths, suggested batch size, Allowed Files, and validation commands.
 
 The automation should never:
 
