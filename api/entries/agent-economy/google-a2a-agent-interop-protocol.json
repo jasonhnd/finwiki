@@ -25,10 +25,10 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-07-03",
-    "last_updated": "2026-07-03",
-    "last_tended": "2026-07-03",
-    "review_by": "2027-01-03",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "agent-economy",
       "protocol",
@@ -41,13 +41,14 @@
       "ap2",
       "agent-card"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
       "https://github.com/a2aproject/A2A",
       "https://a2a-protocol.org/latest/specification/",
+      "https://a2a-protocol.org/latest/announcing-1.0/",
       "https://a2a-protocol.org/latest/topics/agent-discovery/",
       "https://a2a-protocol.org/latest/topics/a2a-and-mcp/",
       "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
@@ -100,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9833,
-    "word_like_tokens": 1552,
+    "nonspace_chars": 10252,
+    "word_like_tokens": 1624,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-07-04"
+    "last_modified": "2026-07-29"
   }
 }

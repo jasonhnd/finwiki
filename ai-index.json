@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T01:48:00+09:00",
+  "generated_at": "2026-07-29T02:06:40+09:00",
   "counts": {
-    "markdown_files": 1593,
-    "public_markdown_pages": 1592,
+    "markdown_files": 1594,
+    "public_markdown_pages": 1593,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10791747,
-    "word_like_tokens": 1735801,
+    "nonspace_utf8_chars": 10808731,
+    "word_like_tokens": 1738889,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Repeated factual-consistency calibration (#218)",
+        "2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Fact-freshness event inference calibration (#217)"
+        "2026-07-29 - Repeated factual-consistency calibration (#218)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 159082,
-      "word_like_tokens": 28942,
+      "nonspace_chars": 167292,
+      "word_like_tokens": 30431,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14484,
-      "word_like_tokens": 2549,
+      "nonspace_chars": 15307,
+      "word_like_tokens": 2682,
       "last_modified": "2026-07-29"
     },
     {
@@ -4460,9 +4460,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11288,
-      "word_like_tokens": 1831,
-      "last_modified": "2026-07-04"
+      "nonspace_chars": 11520,
+      "word_like_tokens": 1868,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "agent-economy/claude-code-extension-architecture.md",
@@ -4528,13 +4528,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/coinbase-agentkit-agentic-wallets.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/coinbase-agentkit-agentic-wallets.md",
-      "title": "Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base",
+      "title": "Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base",
       "domain": "agent-economy",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under agent-economy index as the Coinbase-specific agent wallet / agent payment implementation note. Read it against Coinbase CDP for the broader developer-platform substrate, x402 for the HTTP payment protocol, ERC-4337 account abstraction for agents for adjacent wallet-permission d",
       "headings": [
-        "Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base",
+        "Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base",
         "Wiki route",
         "Key facts",
         "Mechanism / How it works",
@@ -4571,9 +4571,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9220,
-      "word_like_tokens": 1520,
-      "last_modified": "2026-07-04"
+      "nonspace_chars": 9410,
+      "word_like_tokens": 1552,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "agent-economy/coinbase-cdp-developer-platform.md",
@@ -5185,9 +5185,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9833,
-      "word_like_tokens": 1552,
-      "last_modified": "2026-07-04"
+      "nonspace_chars": 10252,
+      "word_like_tokens": 1624,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "agent-economy/lit-protocol-pkp-agent-keys.md",
@@ -85999,8 +85999,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4238,
-      "word_like_tokens": 845,
+      "nonspace_chars": 4557,
+      "word_like_tokens": 906,
       "last_modified": "2026-07-29"
     },
     {
@@ -89249,6 +89249,39 @@
       "entity_edges": [],
       "nonspace_chars": 7531,
       "word_like_tokens": 1354,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-4.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-4.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-4.md",
+      "title": "エージェント基盤3件の公開状態更新",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "エージェント基盤3件の公開状態更新",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 6791,
+      "word_like_tokens": 1264,
       "last_modified": "2026-07-29"
     },
     {
