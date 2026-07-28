@@ -1,16 +1,13 @@
 #!/bin/sh
-# FinWiki pre-push gate. Blocks a push when the public release surface is not
-# publishable under the repository rules.
+# FinWiki pre-push gate. Blocks a push unless the same required verification
+# pipeline used by pull requests, GitHub Pages, and Vercel passes locally.
 #
-#     bun tools/release.ts --check --strict
+#     bun run verify
 #
 # Install:
 #     cp .githooks/pre-push .git/hooks/pre-push
 # or:
 #     git config core.hooksPath .githooks
-#
-# Bypass a single push only when intentionally handling an emergency:
-#     git push --no-verify
 
 cat > /dev/null
 
@@ -27,8 +24,8 @@ fi
 
 if [ -z "$BUN" ]; then
   {
-    echo "pre-push BLOCKED: Bun was not found for the FinWiki release check."
-    echo "  Put bun on PATH, set FINWIKI_BUN=<path>, or bypass once: git push --no-verify"
+    echo "pre-push BLOCKED: Bun was not found for FinWiki required verification."
+    echo "  Put bun on PATH or set FINWIKI_BUN=<path>."
   } >&2
   exit 1
 fi
@@ -36,20 +33,26 @@ fi
 ROOT=$(git rev-parse --show-toplevel) || exit 0
 cd "$ROOT" || exit 0
 
-echo "pre-push: FinWiki Bun release check (link audit + count drift)..."
-"$BUN" tools/release.ts --check --strict
+case "$BUN" in
+  */*)
+    BUN_DIR=$(dirname "$BUN")
+    PATH="$BUN_DIR:$PATH"
+    export PATH
+    ;;
+esac
+
+echo "pre-push: running FinWiki required verification..."
+"$BUN" run verify
 status=$?
 
 if [ "$status" -ne 0 ]; then
   {
     echo ""
-    echo "pre-push BLOCKED (release check exit $status):"
-    echo "  Fix links or sync README/index/discovery first."
-    echo "  Fix:    bun tools/release.ts --write   (then commit the synced files)"
-    echo "  Bypass: git push --no-verify   (not recommended)"
+    echo "pre-push BLOCKED (required verification exit $status)."
+    echo "  Fix the reported gate, commit any synchronized files, and retry."
   } >&2
   exit 1
 fi
 
-echo "pre-push: OK - links resolve and counts are in sync."
+echo "pre-push: OK - required verification passed."
 exit 0

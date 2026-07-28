@@ -2,6 +2,7 @@
   "name": "finwiki",
   "private": true,
   "type": "module",
+  "packageManager": "bun@1.3.14",
   "scripts": {
     "ai:discovery": "bun tools/generate_ai_discovery.ts",
     "audit:all": "bun tools/audit_runner.ts",
@@ -16,6 +17,7 @@
     "surface:drift": "bun tools/generated_surface_drift_scan.ts",
     "footer:timestamp": "bun tools/update_footer_timestamp.ts",
     "i18n:status": "bun tools/i18n_status.ts",
+    "i18n:check": "bun tools/i18n_status.ts --fail-on-issues",
     "index:counts": "bun tools/index_count_audit.ts",
     "html:check": "bun tools/check_duplicate_html_ids.ts site/dist",
     "release:docs": "bun tools/release_documentation_audit.ts",
@@ -25,7 +27,8 @@
     "wiki:audit:ci": "bun tools/wiki_link_audit.ts --fail-on-issues",
     "publish:test": "bun test tools/assemble_static_publish.test.ts",
     "publish:assemble": "bun tools/assemble_static_publish.ts --out _vercel_public",
-    "vercel:build": "bun tools/vercel_build.ts"
+    "verify": "bun tools/verify.ts",
+    "vercel:build": "bun run verify --out _vercel_public"
   },
   "version": "1.0.0",
   "description": "FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の `[[wikilink]]` で、全体入口は [INDEX.md](INDEX.md) です。",
