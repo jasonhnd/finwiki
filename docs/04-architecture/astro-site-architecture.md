@@ -8,13 +8,14 @@ The Astro site renders the public human reading layer for the root Markdown corp
 
 | Area | Current implementation |
 |---|---|
-| Framework | Astro 5, static build. |
+| Framework | Astro 7.1.3, static build. |
 | Source corpus | Root domain directories, read directly through `site/src/content.config.ts`. |
 | Domain allowlist | `ENTRY_DOMAIN_DIRS` in `site/src/content.config.ts`; currently 40 domains. |
 | i18n mirrors | `site/src/content/i18n/{ja,en}/<domain>/<slug>.md`. |
 | Search | Pagefind, generated after Astro build. |
 | Wikilinks | `site/src/lib/siteIndex.mjs` plus build-time localization. |
 | Theme / UI | `site/src/styles/global.css`, `Base.astro`, `EntryLayout.astro`, and UI i18n labels; see [Theme System](theme-system.md) and [UI/UX](../05-functional-specs/ui-ux.md). |
+| Entry discovery | One immutable route graph built in entry `getStaticPaths()` and passed to `EntryLayout`; see [Entry Discovery Build Graph](entry-discovery-build-graph.md). |
 | Release build wrapper | Root `bun run verify` for the full audited build and static publish assembly. |
 | Publish boundary | `tools/assemble_static_publish.ts`; Astro output plus generated-manifest-approved raw surfaces only. |
 

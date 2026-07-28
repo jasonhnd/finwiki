@@ -4,9 +4,11 @@ import { getCollection, render } from 'astro:content';
 import { langCodes, type Lang } from '../../i18n/ui';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { publishableTranslations } from '../../lib/translations';
+import { buildEntryDiscovery, buildEntryDiscoveryGraph } from '../../lib/entryDiscovery.mjs';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
+  const discoveryGraph = buildEntryDiscoveryGraph(entries);
 
   const counts = new Map<string, number>();
   for (const e of entries) {
@@ -26,23 +28,31 @@ export async function getStaticPaths() {
   return langCodes.flatMap((lang) =>
     entries.map((entry) => {
       const route = entryRoute(entry);
+      const discovery = buildEntryDiscovery({ lang, entry, graph: discoveryGraph });
       return {
         params: { lang, slug: route },
-        props: { entry, tr: i18nMap.get(i18nEntryId(lang, entry)) ?? null, lang: lang as Lang, domains },
+        props: {
+          entry,
+          tr: i18nMap.get(i18nEntryId(lang, entry)) ?? null,
+          lang: lang as Lang,
+          domains,
+          discovery,
+        },
       };
     }),
   );
 }
 
-const { entry, tr, lang, domains } = Astro.props as {
+const { entry, tr, lang, domains, discovery } = Astro.props as {
   entry: any;
   tr: any;
   lang: Lang;
   domains: { slug: string; count: number }[];
+  discovery: { lanes: { id: string; items: any[] }[] };
 };
 // Render the translation when present, else fall back to the Japanese source.
 const { Content, headings } = await render(tr ?? entry);
 ---
-<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains}>
+<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains} discovery={discovery}>
   <Content />
 </EntryLayout>
