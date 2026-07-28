@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bitflyer
-source_hash: e35937a865d956af
+source_hash: 28db4d5db050ced1
 lang: en
 status: machine
 fidelity: ok
 title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
-translated_at: 2026-06-19T06:09:18.048Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
@@ -15,17 +15,16 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-One of the largest domestic crypto-asset exchanges. **Founded by Yuzo Kano in 2014-01-09**, it obtained the **2017-09  Director-General of the Kanto Local Finance Bureau 第 00003 号** registration shortly after the amended Payment Services Act took effect (one of the first cohort of 11 社). In Bitcoin spot trading volume it is **among the domestic top tier** (in some years vying for first place with [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]]). It became a holding company in 2019  (establishing bitFlyer Holdings), with subsidiaries deployed in the **US / EU (Luxembourg)**. The group's own private chain "miyabi" is operated by [[systems/bitflyer-blockchain|bitFlyer Blockchain]]. In parallel with 2024-2025  reports of IPO consideration, a **founder's return / control struggle** surfaced. A JVCEA Type 1  operator.
+bitFlyer, Inc. is a crypto-asset exchange operator and Type I financial instruments business established on **2014-01-09**. It is registered as crypto-asset exchange operator **Kanto Local Finance Bureau No. 00003** and Type I financial instruments business **Kanto Local Finance Bureau (FIBO) No. 3294**. Its representative director is Yuzo Kano, its head office is in Tokyo Midtown in Akasaka, and its shareholder is bitFlyer Holdings, Inc. The official profile lists crypto-asset trading / exchange and blockchain development / services as its businesses, and JVCEA lists it as a Type I member. ^[bitFlyer company profile: https://bitflyer.com/en-jp/s/company; FSA crypto-asset exchange registry: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf; JVCEA member list: https://jvcea.or.jp/member/]
 
 ## 1. Company overview
 
-**Legal name**: 株式会社ビットフライヤーホールディングス (holding) / 株式会社ビットフライヤー (exchange operation)
-**English name**: bitFlyer Holdings, Inc. / bitFlyer, Inc.
-**Established**: 2014-01-09 (株式会社ビットフライヤー)
-**Holding-company conversion**: 2019 (establishment of bitFlyer Holdings)
-**Headquarters**: Minato-ku, Tokyo
-**Founder**: Yuzo Kano (元 Goldman Sachs Securities)
-**Unlisted**: 2024-2025  public reports of IPO consideration (specific timeline undetermined)
+**Legal name**: bitFlyer, Inc.
+**Established**: 2014-01-09
+**Head office**: Midtown Tower, 9-7-1 Akasaka, Minato-ku, Tokyo
+**Representative**: Yuzo Kano, Representative Director
+**Shareholder**: bitFlyer Holdings, Inc.
+**Registrations**: crypto-asset exchange operator Kanto No. 00003 / Type I financial instruments business Kanto (FIBO) No. 3294
 
 ### Group structure (based on public information)
 
@@ -56,14 +55,13 @@ bitFlyer Holdings, Inc.（持株、未上場）
 | 2014-09〜2017 | Series A–C fundraising |
 | 2014-12 | Domestic share expanded rapidly during the industry reorganization period after the Mt.Gox collapse |
 | **2017-04** | **Amended Payment Services Act enforced** (introduction of a registration system for crypto-asset exchange business) |
-| **2017-09** | **Obtained Director-General of the Kanto Local Finance Bureau 第 00003 号** (one of the first cohort of 11 社; by registration-number order, among the most senior in the industry) |
+| **2017-09-29** | **Registered as crypto-asset exchange operator Kanto Local Finance Bureau No. 00003** |
 | 2017-11 | bitFlyer USA started operations (US subsidiary) |
 | 2018-01 | bitFlyer EUROPE started operations (Luxembourg EU base) |
 | **2018-06** | **FSA business improvement order** (the industry-wide inspection after the [[exchanges/jp-exchange-coincheck|coincheck]] NEM outflow incident, internal-control deficiencies including delays in JVCEA self-regulation response) |
 | 2018-06〜 | New-account opening temporarily suspended → KYC / AML system rebuilt |
 | 2018-10 | Certified by JVCEA (Japan Virtual and Crypto assets Exchange Association), a certified payment-services-operator association |
 | 2018-07 | New-account opening resumed |
-| 2019 | **Holding-company conversion** (establishment of bitFlyer Holdings, group reorganization) |
 | 2019-04 | Yuzo Kano stepped down as CEO, successor Yoshio Hirako took office as CEO (based on reports) |
 | 2020〜 | [[systems/bitflyer-blockchain|bitFlyer Blockchain]] provides miyabi (its own private chain) on a B2B basis |
 | 2022 | bitFlyer EUROPE obtained French AMF PSAN (crypto-asset service provider) registration |

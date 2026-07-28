@@ -8,17 +8,19 @@ aliases:
   - "ビットワレット bitWallet"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [payments, prepaid, electronic-money, felica, edy, rakuten, platform-agnostic]
 status: active
 sources:
-  - "https://edy.rakuten.co.jp/"
-  - "https://corp.rakuten.co.jp/"
-  - "https://www.rakuten-card.co.jp/"
-  - "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx"
+  - "https://edy.rakuten.co.jp/company/company.html"
+  - "https://edy.rakuten.co.jp/company/history.html"
+  - "https://edy.rakuten.co.jp/terms/info.html"
+  - "https://edy.rakuten.co.jp/howto/google/pay/"
+  - "https://support.rakuten-edy.co.jp/faq/show/1179"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf"
   - "https://www.fsa.go.jp/policy/prepaid/"
   - "https://www.felicanetworks.co.jp/"
   - "https://www.meti.go.jp/policy/mono_info_service/cashless/"
@@ -28,26 +30,26 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) prepaid systems — Edy is the **platform-agnostic FeliCa prepaid** without a retail-or-rail parent anchor, which is its principal structural distinction. Corporate / group anchor is [[payment-firms/rakuten-edy|楽天Edy株式会社]] (FSA-registered third-party prepaid issuer, 法人番号 3010901038102, registered 2016-07-21 under Rakuten group); related Rakuten payment products include [[card-issuers/rakuten-card|Rakuten Card]] (credit-card co-brand with Edy auto-charge) and 楽天ペイ (code-payment app). FeliCa technology backbone: [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]].
+This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. The current operator, [[payment-firms/rakuten-edy|楽天Edy株式会社]], was established on 2016-05-09 and took over the Edy business in October 2016; it is a wholly owned subsidiary of Rakuten Payment and is registered as a third-party prepaid issuer under corporate number 3010901038102 (Kanto Local Finance Bureau No. 00692, registered 2016-07-21). The Edy brand itself traces back to the predecessor bitWallet service launched in 2001. ^[Rakuten Edy company profile: https://edy.rakuten.co.jp/company/company.html; company history: https://edy.rakuten.co.jp/company/history.html; FSA third-party prepaid issuer registry: https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf]
 
 ## TL;DR
 
-**Rakuten Edy (楽天Edy)** is the **principal platform-agnostic FeliCa prepaid e-money** in Japan, distinct from retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) prepaid systems. Originally launched 2001 by **bitWallet (ビットワレット株式会社)** — a NTT Docomo + Sony + bank consortium spin-off — Edy was the **first major FeliCa e-money product** in Japan, predating WAON / nanaco by six years and Suica / PASMO retail acceptance by years. **Acquired by Rakuten in 2009-11** (full subsidiary 2010) and rebranded to Rakuten Edy 2012-06, the franchise is now operated by **楽天Edy株式会社 (Rakuten Edy Co Ltd)** as a 第三者型 prepaid issuer registered with FSA (corporate number 3010901038102, registered 2016-07-21). Edy's distinguishing feature is **no single-merchant anchor** — acceptance spans convenience stores (Lawson, FamilyMart, MiniStop, Daily Yamazaki — and Seicomart), drugstores, restaurants, vending machines, and other merchants on a platform-neutral basis, with Rakuten Card auto-charge and 楽天ポイント (Rakuten Points) integration as the principal customer-acquisition rails.
+**Rakuten Edy (楽天Edy)** is a FeliCa-based third-party prepaid payment instrument. The predecessor bitWallet began full Edy service in November 2001, joined the Rakuten group in January 2010, and changed its name to Rakuten Edy in June 2012. The present legal entity was established in May 2016, succeeded to the business in October 2016, and became a wholly owned subsidiary of Rakuten Payment in April 2019. Current official guidance supports Edy on compatible Android Osaifu-Keitai / Google Wallet devices, but states that iPhone is not supported; the balance ceiling is ¥50,000 and cash refunds are generally unavailable. ^[Rakuten Edy history: https://edy.rakuten.co.jp/company/history.html; service information: https://edy.rakuten.co.jp/terms/info.html; Google Wallet guide: https://edy.rakuten.co.jp/howto/google/pay/; supported-device FAQ: https://support.rakuten-edy.co.jp/faq/show/1179]
 
 ## Issuer and operational structure
 
 | Dimension | Reading |
 |---|---|
 | Operating company | 楽天Edy株式会社 (Rakuten Edy Co Ltd) |
-| Group parent | [[card-issuers/rakuten-card\|Rakuten Card]] / Rakuten Group |
+| Group parent | Rakuten Payment (100%) / Rakuten Group |
 | FSA prepaid registration | 第三者型前払式支払手段 |
 | Corporate number | 3010901038102 |
 | FSA registration date | 2016-07-21 |
-| Original operator | bitWallet (ビットワレット株式会社) — NTT Docomo + Sony + bank consortium |
-| Rakuten acquisition | 2009-11 (acquisition announced), 2010 (full subsidiary), 2012-06 (rebrand to Rakuten Edy) |
-| Launch year | 2001 (bitWallet original launch) |
+| Current-company establishment | 2016-05-09; Edy operation succeeded in 2016-10 |
+| Brand lineage | bitWallet joined the Rakuten group in 2010-01; renamed Rakuten Edy in 2012-06 |
+| Launch year | 2001-11 (predecessor's full Edy service) |
 | Technology | FeliCa contactless IC |
-| Mobile rail | Osaifu Keitai Edy (Android FeliCa devices); Apple Pay support is limited compared to Suica / PASMO |
+| Mobile rail | Compatible Android Osaifu-Keitai / Google Wallet devices; iPhone is not supported |
 | Charge ceiling | ¥50,000 per card |
 | Distribution | Card, mobile, Edy-embedded credit card (Rakuten Card and other co-brand cards) |
 
@@ -70,11 +72,13 @@ Edy's structural position is **pioneer / legacy** of Japan FeliCa e-money:
 | 2001 | bitWallet launches Edy — first major Japan FeliCa e-money |
 | 2001-11 | JR East launches Suica |
 | 2007 | AEON launches WAON, Seven & i launches nanaco |
-| 2009-11 | Rakuten acquires bitWallet |
-| 2010 | bitWallet full Rakuten subsidiary |
+| 2010-01 | bitWallet joins the Rakuten group |
 | 2012-06 | Rebrand to Rakuten Edy |
 | 2013 | 10 IC mutual-use scheme launch (transit-prepaid) |
-| 2016-07 | Edy current FSA registration as 楽天Edy株式会社 |
+| 2016-05 | Current Rakuten Edy company established |
+| 2016-07 | Current FSA registration as 楽天Edy株式会社 |
+| 2016-10 | Current company succeeds to the Edy business |
+| 2019-04 | Current company becomes a wholly owned Rakuten Payment subsidiary |
 
 By the time WAON and nanaco launched 2007, Edy was the established FeliCa e-money brand — but the **retail-anchored network effect** of WAON (AEON malls / supermarkets / drugstores / MiniStop) and nanaco (7-Eleven / Ito-Yokado / Sogo & Seibu) gradually displaced Edy from many specific-merchant exclusive partnerships. Edy's response was to position as the **platform-agnostic alternative** — acceptable across many merchants without single-retailer lock-in.
 
