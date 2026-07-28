@@ -1,7 +1,7 @@
 // 並列翻訳の前処理: 未翻訳条目を N 个 worker 子目录(.cache/jobs/w0..w{N-1})へ分配。
 // 各 worker を 1 个 opus subagent が担当 → commit-translate.mjs(递归)が回収。
 //   bun scripts/prep-parallel.mjs --workers 10 --size 13
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask } from './protect.mjs';
@@ -29,19 +29,11 @@ const stripFm = (t) => {
   const m = t.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/);
   return m ? t.slice(m[0].length) : t;
 };
-function* walk(dir, rel = '') {
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    const r = rel ? `${rel}/${e.name}` : e.name;
-    if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
-  }
-}
-
 rmSync(JOBS, { recursive: true, force: true });
 for (let w = 0; w < WORKERS; w++) mkdirSync(join(JOBS, `w${w}`), { recursive: true });
 
 const todo = [];
-for (const rel of walkEntries(walk)) {
+for await (const rel of walkEntries()) {
   if (todo.length >= TOTAL) break;
   const relLc = rel.toLowerCase();
   const body = stripFm(readFileSync(join(REPO, rel), 'utf8'));
