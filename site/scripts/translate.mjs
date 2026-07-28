@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 // FinWiki translation pipeline (mask guardrails + LLM + verify + incremental).
 // Flow: root Japanese corpus → English mirror:
 //   source_hash 增量 → mask(数字/日付/[[link]]/^[marker]) → LLM 翻訳(占位符保持)
