@@ -1,40 +1,40 @@
 ---
 source: fintech/paypal-pyusd-stablecoin
-source_hash: 3415d22e6d6f9d4e
+source_hash: c28108b97b112dd1
 lang: ja
+model: canonical-ja-source-sync
 status: machine
 fidelity: ok
-title: "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場"
-translated_at: 2026-06-02T13:21:55.057Z
+title: "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン"
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
-# PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場
+# PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン
 
-## ウィキ上の位置づけ
+## Wiki route
 
-このエントリは [[fintech/INDEX|fintech index]] の配下に位置づけられる。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム / 規制上の境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読む。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
-> [!info] 要約
-> PayPal PYUSD は 2023-08-07 に稼働(Ethereum)、2024-05 に Solana へクロスして急速に主戦場へとアップグレード、2026-05 MCap **$1B+**。Paxos Trust Company(NY DFS)が発行、PayPal/Venmo が分配、**Paxos → PayPal の利息分配は 80-90%**(Circle × Coinbase の鏡像)。PYUSD は**大手決済企業による直接ブランド化初のステーブルコイン**で、P2P リテール送金 + PayPal/Venmo ユーザー間内部送金にポジショニング、GENIUS Act §501 後の「コンプラ・ホワイトサークル」リテール層を確保する。
+> [!info] TL;DR
+> PayPal USD（PYUSD）は、Paxos が発行し、米ドル預金・米国債・同等の現金等価物で全額裏付けるドル建てステーブルコインである。PayPal は 2023-08-07 に Ethereum 上で提供を開始し、2024-05-29 に Solana を追加した。現在の PayPal 送金案内では Ethereum、Solana、Arbitrum が対応ネットワークとして示され、2026-03-17 には PayPal アカウントでの提供地域を 70 市場へ拡大した。準備金利回りの PayPal/Paxos 間配分、チェーン別残高比率、DEX 流動性については、今回確認した公式資料からは検証できないため本稿の確定事実から除外する。^[PayPal launch (2023-08-07): https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin; Solana launch (2024-05-29): https://investor.pypl.com/news-and-events/news-details/2024/PayPal-USD-Stablecoin-Now-Available-on-Solana-Blockchain-Providing-Faster-Cheaper-Transactions-for-Consumers/default.aspx; supported networks: https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822; 70-market expansion (2026-03-17): https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS]
 
-## 主要事実
+## Key facts
 
-- MCap **$1B+**(2026-05)· 稼働 2023-08-07 · Solana クロス 2024-05 ^[extracted]
-- 主要チェーン:Solana(主戦場 80%)+ Ethereum(オリジナル)+ Arbitrum(2026-Q1 追加)^[extracted]
-- 発行者 Paxos Trust Company(NY DFS Trust)· 準備金 100% UST + 現金 ^[extracted]
-- 月次監査 WithumSmith+Brown ^[extracted]
-- Solana DEX 流動性 $200M+(Jupiter/Raydium)· Solana 月次送金量 ~$5B(2026-Q1)^[extracted]
-- PayPal/Venmo グローバル・アクティブ・アカウント ~4 億(うち新興市場 2 億)^[extracted]
+- 2023-08-07: PayPal が PYUSD を発表し、対象となる米国顧客へ段階提供を開始。^[https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin]
+- 2024-05-29: Solana 上での PYUSD 提供を開始。^[https://investor.pypl.com/news-and-events/news-details/2024/PayPal-USD-Stablecoin-Now-Available-on-Solana-Blockchain-Providing-Faster-Cheaper-Transactions-for-Consumers/default.aspx]
+- 対応ネットワーク: Ethereum、Solana、Arbitrum。^[https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822]
+- 発行・準備金: Paxos が発行し、米ドル預金・米国債・同等の現金等価物で全額裏付ける。^[https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS]
+- 2026-03-17: PayPal アカウントでの提供を世界 70 市場へ拡大。^[https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS]
 
-## 仕組み / 作動原理
+## Mechanism / How it works
 
-PYUSD のコア差別化要素 = **DeFi 流動性を追求しない(USDC の強み)、PayPal/Venmo の 5 億アクティブ・アカウントへのリテール到達に専念** —— 「PayPal アカウントを使う人」を「PYUSD オンチェーン送金を使う人」へ自然に移行させる。分配インセンティブ・モデルは Circle × Coinbase を鏡像とする:Paxos は準備金 yield の 80-90% を PayPal へ分配インセンティブとして付与、**分配チャネルが経済価値の大部分を捕捉し、発行者はライセンスの殻とコンプラ義務のみが残る**。これは [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]] と直接対応し、[[fintech/issuer-distributor-incentive-realignment-50-50-model|発行/分配 50-50 再配置パラダイム]] とも呼応する、2023-2026 ステーブルコイン業界における「分配 > 発行」モデルの典型サンプル。
+PYUSD の公開確認可能な仕組みは、Paxos による発行・準備金管理と、PayPal / Venmo による顧客接点の組み合わせである。対象ユーザーは PayPal、Venmo、対応する外部ウォレットの間で PYUSD を移転でき、外部送金時には対応ネットワークを選ぶ。PayPal と Paxos の収益配分条件は公式資料で開示されていないため、他社の収益分配モデルを PYUSD に当てはめない。^[PayPal/Venmo availability: https://newsroom.paypal-corp.com/2023-09-20-PayPal-USD-is-now-available-on-Venmo; transfer mechanics: https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822]
 
-## 起源と発展
+## Origin & evolution
 
-2023-08-07 NY DFS が Paxos へ PYUSD 信託許可を付与 → Paxos が 2 週間後に PYUSD を稼働(Ethereum シングルチェーン)。2024-05 PYUSD が Solana へクロス = **戦略的に重要な転換点**(Ethereum gas $5-50 はリテール送金に不適切 · Solana gas ≈ $0 + sub-second)。2024-05 から 2025-Q2 にかけて Solana PYUSD MCap は 0 → $800M(総 MCap の 80%)。2025-Q3 PayPal が **PayPal World** を発表(グローバル P2P ネットワーク · UPI / Mercado Pago / Tenpay 等を統合) · PYUSD が下層決済資産となる。2026-Q1 PYUSD が Arbitrum 稼働で L2 流動性を補強。**PYUSD は「決済企業ブランド化ステーブルコイン」潮流を起動**:2024 Stripe USDB、2024 Ripple RLUSD、2024 WLF USD1 等は全て後続フォロワー。
+PayPal は 2023-08-07 の発表当日から対象となる米国顧客への段階提供を開始し、Ethereum 上の ERC-20 として PYUSD を導入した。2023-09-20 に Venmo での提供を開始し、2024-05-29 に Solana を追加した。PayPal の現行ヘルプは Ethereum、Solana、Arbitrum への外部送金を案内している。2026-03-17 の 70 市場への拡大は、PYUSD の利用範囲が米国内の初期提供から国際的な PayPal アカウントへ広がった節目である。^[Launch chronology: https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin; Venmo: https://newsroom.paypal-corp.com/2023-09-20-PayPal-USD-is-now-available-on-Venmo; Solana: https://investor.pypl.com/news-and-events/news-details/2024/PayPal-USD-Stablecoin-Now-Available-on-Solana-Blockchain-Providing-Faster-Cheaper-Transactions-for-Consumers/default.aspx; current networks and global expansion: https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822 and https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS]
 
-## 関連項目
+## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
@@ -45,8 +45,10 @@ PYUSD のコア差別化要素 = **DeFi 流動性を追求しない(USDC の強�
 - [[fintech/circle-usdc-stablecoin|Circle USDC · ホワイトサークル首位対比]]
 <!-- /wiki-links:managed -->
 
-## 出典
+## Sources
 
----
-
-**最終更新** (2026-05-26): 日付を更新し、Circle USDC の peer wikilink（ホワイトサークル SC 比較）を追加。
+- PayPal — PYUSD launch (2023-08-07): https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin
+- PayPal — PYUSD on Venmo (2023-09-20): https://newsroom.paypal-corp.com/2023-09-20-PayPal-USD-is-now-available-on-Venmo
+- PayPal — PYUSD on Solana (2024-05-29): https://investor.pypl.com/news-and-events/news-details/2024/PayPal-USD-Stablecoin-Now-Available-on-Solana-Blockchain-Providing-Faster-Cheaper-Transactions-for-Consumers/default.aspx
+- PayPal — supported transfer networks: https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822
+- PayPal — expansion to 70 markets (2026-03-17): https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS

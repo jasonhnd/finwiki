@@ -38,7 +38,7 @@ Sony Life operates a stock-company life insurer whose distribution is built almo
 
 The Lifeplanner channel is positioned as a high-productivity, consultative, fully-tied salesforce: smaller in headcount than a big-four sales-rep network, but typically higher in average new-business APE per advisor and higher in 13-month / 25-month persistency. The group-life channel adds a low-acquisition-cost, employer-paid base of in-force premium that smooths channel volatility.
 
-Governance sits under [[megabanks/sony-fg|Sony Financial Group]], which directly owns 100% of Sony Life. Sony FG relisted on the TSE Prime Market on 2025-09-29. After Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01, Sony Group ceased to be Sony FG's parent and retained a minority interest. Sony Life therefore remains a wholly owned operating subsidiary of a listed insurance holding company, with direct public-equity discipline at the Sony FG level.
+Governance sits under [[megabanks/sony-fg|Sony Financial Group]], which directly owns 100% of Sony Life. Sony FG relisted on the TSE Prime Market on 2025-09-29. After Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01, Sony Group ceased to be Sony FG's parent and retained a minority interest. Sony Life therefore remains a wholly owned operating subsidiary of a listed insurance holding company, with direct public-equity discipline at the Sony FG level. ^[Sony FG group-company ownership: https://www.sonyfg.co.jp/en/company/about_group.html; listing: https://www.sonyfg.co.jp/en/250929_01.html; parent-company change and 83.60% distribution: https://www.sonyfg.co.jp/en/news/article/250929_02.pdf]
 
 ### Lifeplanner channel (tied, consultative, individual life)
 
@@ -89,7 +89,7 @@ This structure gives Sony Life the stock-company capital-allocation model that m
 
 ## Take-private, relisting, and capital architecture
 
-Sony Financial Holdings was listed until Sony Group Corporation completed a tender offer and squeeze-out in 2020, taking it private as a wholly owned subsidiary. Sony Financial Group then relisted on 2025-09-29. Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01 and ceased to be Sony FG's parent. The current capital-architecture consequences are:
+Sony Financial Holdings was listed until Sony Group Corporation completed a tender offer and squeeze-out in 2020, taking it private as a wholly owned subsidiary. Sony Financial Group then relisted on 2025-09-29. Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01 and ceased to be Sony FG's parent. ^[Sony FG listing and security code 8729: https://www.sonyfg.co.jp/en/news/article/250929_01.pdf; parent-company change effective 2025-10-01: https://www.sonyfg.co.jp/en/news/article/250929_02.pdf] The current capital-architecture consequences are:
 
 - Sony FG once again has separately listed equity, so investors can assess its financial-group economics directly;
 - Sony Life dividends flow first to its direct parent Sony FG and are governed within Sony FG's listed holding-company capital policy;

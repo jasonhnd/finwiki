@@ -1,14 +1,15 @@
 ---
 source: loyalty/sb-yahoo-paypay-points-unified-ecosystem
-source_hash: 38d0e84b3f8d44ce
+source_hash: 28d60f2fed5210c7
 lang: en
+model: canonical-en-source-sync
 status: machine
 fidelity: ok
-title: "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting"
-translated_at: 2026-06-19T06:09:18.144Z
+title: "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting"
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
-# SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting
+# SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting
 
 ## Wiki route
 
@@ -16,69 +17,44 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **wallet-anchored c
 
 ## TL;DR
 
-**PayPayポイント** is the unified consumer-loyalty currency of the SoftBank / LY (formerly Yahoo Japan + LINE) / PayPay economic zone. The unification arc spans three phases. The **2022 unification phase** consolidated **Yahoo! JAPAN ポイント, PayPay ボーナス, and SoftBank Smart Login ポイント** into a single PayPayポイント brand starting in 2022-04, eliminating brand fragmentation across SoftBank-aligned consumer services. The **2023-10 LY Corporation integration phase** (post LINE + Yahoo Japan parent-level merger to form LY Corporation) extended the unification reach into LINE-side commerce surfaces. The **2025 LINE Yahoo points integration phase** completed the remaining LINEポイント-related consolidation following LINE Pay's 2025-04-30 termination, with residual LINEポイント converted into PayPayポイント at defined ratios. Active PayPay registered users exceed **70 million** (PayPay official disclosure, 2025-07), making PayPayポイント's reach functionally comparable to dポイント and Pontaポイント. The accounting treatment is distinctive: PayPayポイント liability includes a **heavy campaign-grant component (promotional expense)** alongside purchase-earned **contract liability**, with the campaign-cost line frequently dominating reported point cost in PayPay / SoftBank IR materials.
+**PayPayポイント** is PayPay's reward unit and is used across PayPay-linked Yahoo! JAPAN services. The official 2022 change was a **name change from PayPayボーナス to PayPayポイント**, including the name of PayPay rewards granted by Yahoo! JAPAN campaigns; it was not an announced merger of Yahoo! JAPAN, SoftBank Smart Login, and PayPay balances. LINE Pay's Japanese service ended on 2025-04-30, but LY Corporation explicitly said that **LINEポイント would continue**; only eligible LINE Pay balances could optionally be transferred to PayPay. On 2026-07-02, LINE Yahoo and PayPay announced phased LINE / PayPay account linking, including point exchange and PayPay functions in LINE. The announcement reported **100 million monthly LINE users in Japan** and **74 million PayPay registered users**. ([PayPay, 2022-03-01](https://about.paypay.ne.jp/en/pr/20220301/01/); [LY Corporation, 2024-06-13](https://www.lycorp.co.jp/en/news/release/008632/); [PayPay, 2026-07-02](https://about.paypay.ne.jp/en/pr/20260702/01/))
 
-## 2022 unification — the consolidation event
+## 2022 name change — what changed and what did not
 
-The **2022-04 unification** combined three previously-separate point currencies under the PayPayポイント brand:
+From 2022-04-01, the following PayPay reward labels changed:
 
-| Pre-2022 point | Origin | Role |
+| Before 2022-04-01 | From 2022-04-01 | Officially stated scope |
 |---|---|---|
-| **Yahoo! JAPAN ポイント** | Yahoo Japan service-side reward (ECサイト, Yahoo!オークション, Yahoo!プレミアム, etc.) | Long-standing Yahoo loyalty currency since early 2000s |
-| **PayPay ボーナス** | PayPay wallet campaign reward (since 2018-10 PayPay launch) | Wallet-activity reward, including the campaign-heavy "100億あげちゃうキャンペーン" era |
-| **SoftBank Smart Login ポイント / その他** | SoftBank telecom-line-anchored reward | Mobile-line subscriber reward |
+| PayPayボーナス | PayPayポイント | Name of the balance and reward changed; its functions did not change |
+| Yahoo! JAPAN campaigns that granted PayPayボーナス | Campaigns granting PayPayポイント | Reward naming changed on Yahoo! JAPAN services |
 
-The unification mechanics:
+The cited announcement does **not** state that legacy Yahoo! JAPAN points or SoftBank Smart Login rewards were converted into a new PayPay ledger, nor does it describe a three-program 1:1 liability transfer. Those earlier claims are therefore excluded from this entry. ([PayPay, 2022-03-01](https://about.paypay.ne.jp/en/pr/20220301/01/))
 
-| Aspect | Description |
+## 2023 corporate integration — separate from point-program integration
+
+LY Corporation began operations in 2023 after the reorganization of Z Holdings, LINE, Yahoo Japan, and related companies. That corporate event brought major consumer services under one corporate perimeter, but it did not by itself prove that LINEポイント had been converted into PayPayポイント. Product-level integration should be dated to the later service announcements below, not inferred from the corporate reorganization.
+
+## 2025 LINE Pay termination and 2026 account linking
+
+The LINE Pay shutdown and the later LINE / PayPay integration are distinct events:
+
+| Date | Event | Boundary |
 |---|---|
-| Unification date | 2022-04 (rolled out in stages through 2022-Q2) |
-| Conversion ratio | 1:1 across the three legacy currencies into PayPayポイント |
-| Naming | "PayPayボーナス" rebranded to "PayPayポイント"; Yahoo!ポイント migrated to PayPayポイント |
-| Liability transfer | Each operator's accrued point liability migrated to the unified PayPayポイント ledger under PayPay 株式会社 |
-| Customer experience | Single balance visible in PayPay app, Yahoo Japan services, SoftBank-aligned apps |
+| 2025-04-23 | Optional LINE Pay balance transfer to PayPay ended | Transfer applied to eligible LINE Pay balances, with limits; it was not a LINEポイント conversion |
+| 2025-04-30 | LINE Pay's Japanese service ended | LY said LINE's app, LINEポイント, and related services would continue |
+| 2026-07-02 onward | Phased LINE / PayPay account linking | Announced functions include PayPay payment from LINE, sending / receiving money, and mutual exchange of LINEポイント and PayPayポイント |
 
-The strategic intent was to **eliminate cross-brand customer confusion** and to **maximise PayPayポイント's apparent reach** for marketing and merchant-acquisition purposes. The economic effect was to concentrate point liability and breakage assumptions inside PayPay 株式会社's accounting perimeter, simplifying both customer experience and operator reporting.
-
-## 2023-10 LY Corporation integration — parent-level alignment
-
-The **2023-10 LY Corporation formation** (parent-level merger of Z Holdings — Yahoo Japan and LINE side — into a unified LY Corporation entity) was the corporate-structural event that enabled deeper PayPayポイント integration into LINE-side surfaces. Key changes:
-
-| Element | Pre-2023-10 | Post-2023-10 |
-|---|---|---|
-| Parent company | Z Holdings (Yahoo Japan + LINE separately) | LY Corporation (unified) |
-| LINE-side wallet | LINE Pay (separate operator) | LINE Pay scheduled for wind-down |
-| LINEポイント | Separate LINE-side currency | Migration path planned to PayPayポイント |
-| PayPayポイント reach | Yahoo Japan + SoftBank + PayPay | Extended toward LINE commerce / merchant surfaces |
-| LINE Mall, LINEギフト, LINEクーポン | LINEポイント-funded | Progressively PayPayポイント-aligned |
-
-The strategic intent was to **converge the SoftBank-Yahoo-LINE consumer surface into a single loyalty currency** (PayPayポイント), reducing the friction of multi-wallet / multi-point management for the combined ~100M+ unique-user base across LY Corporation's services.
-
-## 2025 LINE Yahoo points integration — LINE Pay termination consequences
-
-The **2025-04-30 LINE Pay (Japan domestic) service termination** triggered the final phase of LINE-side point consolidation:
-
-| Element | Description |
-|---|---|
-| LINE Pay (Japan domestic) | Discontinued 2025-04-30 (officially announced by LINE ヤフー / LY) |
-| LINEポイント residual balances | Migration to PayPayポイント at defined conversion ratios |
-| LINE-side merchant acceptance | LINE Pay merchant-acceptance discontinued; PayPay becomes the unified wallet |
-| LY consumer-service reward | PayPayポイント becomes the single reward currency across LY-operated consumer surfaces |
-| Cross-program clean-up | Removes the dual-wallet / dual-point ambiguity that persisted 2023-2025 |
-
-The economic effect is to **consolidate the LY-PayPay ecosystem under a single wallet and single point**, eliminating the operational complexity of running LINE Pay alongside PayPay within the same corporate family. This was a precondition for the **PayPay IPO observation** that gained momentum in SoftBank's FY2025 results disclosures.
+The 2026 announcement is the first cited official basis in this entry for describing **mutual point exchange**. It also says that rollout timing and details vary by function, so “single wallet and single point completed in 2025” would overstate the disclosed state. ([LY Corporation, 2024-06-13](https://www.lycorp.co.jp/en/news/release/008632/); [LY Corporation, 2025-01-27](https://www.lycorp.co.jp/ja/news/release/016863/); [PayPay, 2026-07-02](https://about.paypay.ne.jp/en/pr/20260702/01/))
 
 ## Member ID base and reach
 
-| Metric | Approximate value | Source |
+| Metric | Officially disclosed value | Date / source |
 |---|---|---|
-| PayPay registered users | 70M+ (2025-07) | PayPay official disclosure |
-| PayPay MAU | Tens of millions (industry-leading among code-payment wallets) | PayPay official / Cashless Promotion Council |
-| Yahoo! JAPAN ID base | 70M+ (cross-referenced into PayPay ID via 2022 unification) | LY Corporation IR |
-| LINE-side ID base | 90M+ (Japan-domestic LINE users) | LY Corporation IR |
-| Combined LY + PayPay unique-user reach | ~100M+ (overlapping ID base across services) | LY Corporation / PayPay disclosures |
+| PayPay registered users | 74M | 2026-07-02 PayPay announcement |
+| PayPay identity-verified users | 40M of 73M registered users | 2026-03-18 PayPay announcement |
+| LINE monthly users in Japan | 100M | 2026-07-02 PayPay announcement |
 
-The reach is functionally comparable to dポイント (NTT docomo, 100M+ d-accounts) and Pontaポイント (Loyalty Marketing + au IDs, 100M+ combined). The structural distinction is that PayPay's reach is **wallet-anchored** (built through PayPay app adoption) rather than **telco-line-anchored** (dポイント, au PAY ポイント) or **card-bank-anchored** (V Point).
+These populations overlap and use different definitions, so they must not be added to claim a unique-user total. The structural distinction is that PayPay's reach is **wallet-anchored** rather than solely telco-line-anchored or card-bank-anchored. ([PayPay, 2026-03-18](https://about.paypay.ne.jp/en/pr/20260318/02/); [PayPay, 2026-07-02](https://about.paypay.ne.jp/en/pr/20260702/01/))
 
 ## Accounting treatment — campaign cost vs contract liability
 
@@ -92,9 +68,9 @@ PayPayポイント's accounting is distinctive because **campaign-funded grants 
 | **Yahoo!プレミアム / LINEギフト rewards** | Subscription-revenue allocation under IFRS 15 if part of bundled service; otherwise promotional expense | LY revenue / cost notes |
 | **Breakage release** | Expected-unused-balance recognition pattern in proportion to redemption | PayPay / LY revenue recognition over redemption window |
 
-The **"100億あげちゃうキャンペーン"** (100 billion yen give-away campaigns) era of 2019-2020 was characterised by **massive promotional grants** that hit operating expenses immediately rather than building contract-liability — this is the structural reason PayPay's reported losses during the campaign-heavy growth phase were so large despite rapid user growth.
+The **「100億円あげちゃうキャンペーン」** name refers to a 10-billion-yen campaign, not 100 billion yen. The accounting for any points granted in a campaign depends on which entity funds the reward, whether the grant is attached to a customer contract, and whether the issuer has a remaining performance obligation; the campaign name alone does not determine the journal entry.
 
-Post-2022 unification and post-2024 IPO-prep period, the campaign intensity has moderated, and the **purchase-earned contract liability layer has grown relative to the campaign-cost layer**. For the broader accounting framework, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] which covers the five accounting buckets that "points" can fall into.
+Accordingly, this page does not infer the relative size of promotional expense and contract liabilities without entity-level note disclosures. For the broader accounting framework, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]], which separates the possible accounting buckets for loyalty rewards.
 
 ## Comparison with other major common points
 
@@ -102,7 +78,7 @@ Post-2022 unification and post-2024 IPO-prep period, the campaign intensity has 
 |---|---|---|---|---|---|
 | Anchor type | Wallet-led (PayPay app) + LY data + SoftBank telco | NTT docomo telco | KDDI au telco + Mitsubishi retail + Recruit | SMBC bank + CCCMK | Rakuten EC + card + bank + mobile |
 | Operator | PayPay 株式会社 | NTT docomo direct | Loyalty Marketing + au Financial Service | CCCMK Holdings | Rakuten Group |
-| Registered users | 70M+ PayPay | 100M+ d-accounts | 100M+ Ponta + au IDs | 130M+ unified | Tens of millions of active |
+| Registered users | 74M PayPay (2026-07) | Program-specific disclosure required | Program-specific disclosure required | Program-specific disclosure required | Program-specific disclosure required |
 | Wallet share | Dominant (see [[payments/japan-code-payment-operator-2025-market-share-matrix|share matrix]]) | Second-tier (d払い) | Niche (au PAY) | Limited (V NEAR PAY) | Mid-tier (楽天ペイ) |
 | Credit card | PayPay Card | d Card / d Card GOLD | au PAY カード | SMBC Card / Olive | Rakuten Card |
 | Bank | PayPay Bank | (NDFG planned) | au じぶん銀行 | SMBC / Olive | Rakuten Bank |
@@ -120,7 +96,7 @@ The structural distinction of PayPay's wallet-anchored model is **highest campai
 
 | Aspect | Description |
 |---|---|
-| Issuer | PayPay Card 株式会社 (PayPay FG subsidiary) |
+| Issuer | PayPay Card 株式会社 |
 | Standard reward | 1% in PayPayポイント on card spend |
 | PayPay app integration | Set as default PayPay funding source for enhanced reward rate |
 | あと払い (Pay Later) | Credit-purchase line within PayPay wallet, settles to PayPay Card billing |
@@ -155,10 +131,9 @@ The strategic intent is to **convert high-frequency PayPay wallet users into hig
 
 ## Sources
 
-- PayPay official: https://paypay.ne.jp/
-- PayPay corporate news: https://about.paypay.ne.jp/news/
-- PayPay corporate overview: https://about.paypay.ne.jp/corp/
-- PayPayカード official: https://paypay-card.co.jp/
-- LY Corporation news (LINE Pay termination, LINE points integration): https://www.lycorp.co.jp/ja/news/
-- SoftBank Corp press releases: https://www.softbank.jp/corp/news/press/
-- Cashless Promotion Council publications: https://paymentsjapan.or.jp/category/publications/
+- PayPay, “PayPay Bonus to Be Renamed PayPay Points” (2022-03-01): https://about.paypay.ne.jp/en/pr/20220301/01/
+- LY Corporation, LINE Pay termination announcement (2024-06-13): https://www.lycorp.co.jp/en/news/release/008632/
+- LY Corporation, LINE Pay balance transfer details (2025-01-27): https://www.lycorp.co.jp/ja/news/release/016863/
+- PayPay / LINE Yahoo, LINE and PayPay account-linking announcement (2026-07-02): https://about.paypay.ne.jp/en/pr/20260702/01/
+- PayPay, 40 million identity-verified users (2026-03-18): https://about.paypay.ne.jp/en/pr/20260318/02/
+- PayPay corporate profile: https://about.paypay.ne.jp/en/about/

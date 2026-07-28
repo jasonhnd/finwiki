@@ -8,13 +8,14 @@ aliases:
   - "トヨタ FS 製造業視点"
 domain: "manufacturer-finance"
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [manufacturing, toyota, captive-finance, auto-finance, abs, residual-value, mobility, japan, global]
 status: active
 sources:
+  - "https://www.tfsc.jp/en/company/index.html"
   - "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
   - "https://global.toyota/en/ir/library/annual/"
   - "https://www.toyotafinancial.com/us/en.html"
@@ -38,7 +39,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and com
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社トヨタファイナンシャルサービス / Toyota Financial Services Corporation |
-| 設立 | 2000-07-03 |
+| 設立 | 2000-07-07 |
 | 本社 | 愛知県名古屋市西区 |
 | 上場 | 非上場 ([[manufacturer-finance/toyota-motor|Toyota Motor]] 100% 連結子会社) |
 | 連結事業地域 | 30+ ヵ国 (米州 / 欧州 / 日本 / 豪州 / 新興国) |

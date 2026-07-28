@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/paypay-fg.md",
   "raw_markdown_url": "https://finwiki.zksc.io/megabanks/paypay-fg.md",
   "domain": "megabanks",
-  "title": "PayPay 金融グループ",
+  "title": "PayPay 金融エコシステム（分析上のグループ呼称）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "PayPay 金融グループ",
+    "title": "PayPay 金融エコシステム（分析上のグループ呼称）",
     "aliases": [
       "PayPay FG",
       "PayPay 金融グループ",
@@ -25,50 +25,54 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "payment-fg",
-      "telecom-fg"
+      "telecom-fg",
+      "paypay",
+      "softbank",
+      "listed-company"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: PayPay (2026-05-19 抽出)",
-      "Wikipedia: PayPay銀行 (2026-05-19 抽出)",
-      "Wikipedia: LY Corporation (2026-05-19 抽出)",
-      "Wikipedia: PayPayカード (2026-05-19 抽出)",
-      "Wikipedia: PayPay証券 (2026-05-19 抽出)",
-      "PayPay 公式 PR (2025-03-31, 2025-07-15, 2025-01-27)",
-      "LINE ヤフー 公式 (LINE Pay 終了告知)",
-      "SoftBank Corp (9434) FY2025 通期決算 2025-11-05",
-      "PayPay 株式会社 公式コーポレートサイト"
+      "https://about.paypay.ne.jp/en/about/",
+      "https://about.paypay.ne.jp/en/pr/20260312/01/",
+      "https://about.paypay.ne.jp/en/pr/20260318/02/",
+      "https://about.paypay.ne.jp/en/pr/20260702/01/",
+      "https://www.softbank.jp/en/corp/ir/financials/analytics/",
+      "https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf",
+      "https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf",
+      "https://www.lycorp.co.jp/en/news/release/008632/"
     ]
   },
-  "summary": "This entry sits under megabanks INDEX. Read it against au フィナンシャルホールディングス (au-FH) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it with PayPay, PayPay Card, PayPay Securities, and banking index. au Financial Holdings and Rakuten FG provide peer context.",
   "headings": [
-    "PayPay 金融グループ",
+    "PayPay 金融エコシステム（分析上のグループ呼称）",
     "Wiki route",
     "TL;DR",
-    "1. 会社概要",
-    "コア事業者一覧",
-    "主要 KPI（公開資料ベース、2025 年最新）",
-    "資本関係（公開資料）",
-    "合併歴史・前身",
-    "重要年表",
-    "2. 事業セグメント・マップ"
+    "1. 呼称と法的境界",
+    "2. SoftBank Financial segment の主要主体",
+    "3. 最新 KPI",
+    "4. 2026 IPO",
+    "5. LINE Pay 終了と LINE / PayPay 連携",
+    "6. 機能マップ",
+    "7. 開示を読む際の注意"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 15,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
+      "card-issuers/paypay-card",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "megabanks/INDEX",
       "megabanks/au-fh",
       "megabanks/mizuho-fg",
@@ -77,12 +81,15 @@
       "megabanks/sbi-hd",
       "megabanks/smfg",
       "payment-firms/paypay",
-      "payment-firms/rakuten-fg"
+      "payment-firms/rakuten-fg",
+      "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
       "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
+      "https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/",
       "https://finwiki.zksc.io/ja/domains/megabanks/",
       "https://finwiki.zksc.io/ja/megabanks/au-fh/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
@@ -91,15 +98,23 @@
       "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
       "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/payment-firms/paypay/",
-      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://about.paypay.ne.jp/en/about/",
+      "https://about.paypay.ne.jp/en/pr/20260318/02/",
+      "https://about.paypay.ne.jp/en/pr/20260702/01/",
+      "https://www.lycorp.co.jp/en/news/release/008632/",
+      "https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf",
+      "https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 8163,
-    "word_like_tokens": 1600,
+    "nonspace_chars": 7132,
+    "word_like_tokens": 1159,
     "inbound_wikilinks_count": 74,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }
