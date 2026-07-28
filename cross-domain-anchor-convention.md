@@ -7,8 +7,8 @@ aliases:
   - canonical-anchor-rules
 domain: control-anchor
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-28
+last_tended: 2026-07-28
 review_by: 2027-05-25
 confidence: likely
 tags: [meta, convention, navigation, cross-domain, canonical-anchor]
@@ -16,7 +16,7 @@ status: active
 sources:
   - SCHEMA.md (FinWiki frontmatter and body-link conventions)
   - AGENTS.md (FinWiki public-surface and maintenance rules)
-  - INDEX.md (FinWiki domain map, 23 domains, 1347+ entries)
+  - INDEX.md (current FinWiki domain map and routing surfaces)
   - Example entries cited in body (Circle USDC, JPMorgan Japan, Saison Automobile & Fire, etc.)
 ---
 
@@ -24,20 +24,20 @@ sources:
 
 ## Wiki route
 
-This entry sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[entity-mirror-page-policy|entity mirror-page policy]] for parallel-page rules, [[domain-bridge-navigation-guide|domain bridge navigation guide]] for the reader-facing flow, and [[frontmatter-canonical-anchor-field-proposal|frontmatter canonical_anchor proposal]] for the forward-looking machine-readable extension.
+This entry sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[entity-mirror-page-policy|entity mirror-page policy]] for parallel-page rules, [[domain-bridge-navigation-guide|domain bridge navigation guide]] for the reader-facing flow, and [[frontmatter-canonical-anchor-field-proposal|the historical canonical_anchor decision record]] for rollout context.
 
 > [!info] TL;DR
-> FinWiki has 23 domains and ~1347 entries (per [[INDEX]] as of 2026-05-25). Many real-world entities sit in two or three domain contexts at once: a stablecoin issuer is a fintech bedrock entity **and** a banking-perimeter counterparty **and** a payments-license consumer. There is no single global convention for which domain "owns" the canonical page. This document codifies the decision rule used across waves 1-9 and going forward.
+> Many real-world entities sit in two or three current [[INDEX|domain contexts]] at once: a stablecoin issuer can be a fintech bedrock entity, a banking-perimeter counterparty, and a payments-license consumer. FinWiki designates one primary anchor. A true mirror must declare that anchor; an ordinary cross-reference must not use `canonical_anchor`.
 
 ## 1. Why this matters
 
-FinWiki entries are routed primarily by directory (`fintech/`, `JapanFG/`, `banking/`, `payments/`, etc.), and `INDEX.md` files plus `[[domain/INDEX]]` wikilinks anchor every entry to one parent domain.
+FinWiki entries are routed primarily by directory (`fintech/`, `banking/`, `payments/`, and role-specific institution domains such as `regional-banks/`), and `INDEX.md` files plus `[[domain/INDEX]]` wikilinks anchor every entry to one parent domain.
 
 Real entities, however, almost never sit in only one domain:
 
 - **Circle Internet Financial** is a fintech stablecoin issuer, a NYSE-listed business, and a payments-rail counterparty.
 - **JPMorgan Chase & Co.** is a global bank, a derivatives dealer, a US securities firm, a Japan foreign-bank-branch operator, and a fintech / tokenized-deposit pioneer.
-- **Saison Automobile & Fire (SOMPO Direct)** is a non-life insurer, a JapanFG operating company, and a piece of the Credit Saison brand cluster.
+- **Saison Automobile & Fire (SOMPO Direct)** is a non-life insurer, a role-specific operating-company anchor, and a piece of the Credit Saison brand cluster.
 
 Choosing the right domain for the canonical anchor — and deciding whether mirror pages are warranted — is the central navigation question for any cross-domain entity. This convention codifies how FinWiki has been making that choice.
 
@@ -47,7 +47,7 @@ For a given entity E, the **canonical anchor** is the single page in the domain 
 
 The decision flow:
 
-1. **Regulated entity test.** If E is a regulated entity in Japan (FSA, METI, BoJ counterparty register, JVCEA), the canonical anchor goes under the domain matching its regulatory perimeter — most often `JapanFG/`, `banking/`, `insurance/`, `securities/`, `payments/`, or `exchanges/`.
+1. **Regulated entity test.** If E is a regulated entity in Japan (FSA, METI, BoJ counterparty register, JVCEA), the canonical anchor goes under the domain matching its regulatory or institutional role — for example `regional-banks/`, `non-life-insurers/`, `securities-firms/`, `banking/`, `insurance/`, `payments/`, or `exchanges/`.
 2. **Macro / regulatory topic test.** If E is a regulatory framework, a macro policy line, or a multi-jurisdiction trend (GENIUS Act, MiCA, HKMA stablecoin licensing, MAS PSA, EPI four-camp landscape, CBDC adoption curve), it belongs in `fintech/` if crypto / stablecoin / tokenized money is central, otherwise in `payments/` or `policy-finance/`.
 3. **Public-company strategic narrative test.** If E is best understood as a public-company strategic case (Jamie Dimon's anti-crypto pivot, Larry Fink's BlackRock digital-asset template, Brian Armstrong's Coinbase public-company template), the canonical anchor goes under `business/`.
 4. **System / protocol test.** If E is a protocol, network, or system-layer concept (BFT validator economics, account abstraction, Canton, Besu, IBC), it belongs in `systems/` or `agent-economy/`.
@@ -56,19 +56,19 @@ The decision flow:
 
 | Entity | Canonical domain | Why | Cross-domain references |
 |---|---|---|---|
-| [[fintech/circle-usdc-stablecoin\|Circle USDC]] | `fintech/` | Stablecoin issuer + macro fintech case dominates the narrative | Referenced from `payments/` (settlement rail) and `JapanFG/` (Japan stablecoin-bank-perimeter context) |
+| [[fintech/circle-usdc-stablecoin\|Circle USDC]] | `fintech/` | Stablecoin issuer + macro fintech case dominates the narrative | Referenced from `payments/` (settlement rail) and `banking/` (Japan stablecoin-bank-perimeter context) |
 | [[fintech/stripe-usdb-bridge-stablecoin\|Stripe USDB / Bridge]] | `fintech/` | Stablecoin issuance is the lead story; the broader Stripe strategy lives under `business/` and `payments/` | Referenced from [[business/founder-pivot-outcome-template-matrix\|founder pivot template]] and embedded-wallet fintech-disintermediation entries |
-| [[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]] | `JapanFG/` | Primary classification is "foreign bank with Japan branch / securities / trust subsidiaries" | Referenced from [[fintech/jpmorgan-jpmd-coin\|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] for tokenized-deposit context |
+| [[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]] | `foreign-financial-institutions/` | Primary classification is "foreign bank with Japan branch / securities / trust subsidiaries" | Referenced from [[fintech/jpmorgan-jpmd-coin\|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] for tokenized-deposit context |
 | [[fintech/jpmorgan-jpmd-coin\|JPM JPMD coin]] | `fintech/` | This is a stablecoin / tokenized-deposit product, not a bank entity | Referenced from [[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]] |
-| [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] | `fintech/` | This is a tokenized-money network, not a bank entity | Referenced from JapanFG JPMorgan page and from `systems/` cross-chain entries |
+| [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] | `fintech/` | This is a tokenized-money network, not a bank entity | Referenced from the JPMorgan Japan institution page and from `systems/` cross-chain entries |
 | [[business/jamie-dimon-anti-crypto-pivot-case\|Jamie Dimon anti-crypto pivot]] | `business/` | This is a public-figure strategic-narrative entry | Referenced from JPMorgan-related fintech entries |
-| [[insurance/saison-automobile-fire\|Saison Automobile & Fire (insurance)]] + [[non-life-insurers/saison-automobile-fire-insurance\|same (JapanFG)]] | mirrored | Insurance perimeter and JapanFG operating-company perimeter both apply | See [[entity-mirror-page-policy]] |
+| [[insurance/saison-automobile-fire\|Saison Automobile & Fire (insurance)]] + [[non-life-insurers/saison-automobile-fire-insurance\|same institution]] | mirrored | Insurance-topic and non-life-insurer operating-company perimeters both apply | See [[entity-mirror-page-policy]] |
 
 ## 4. When the canonical anchor sits in fintech but the entity is also a Japan-regulated operator
 
 Stablecoin issuers, tokenized-money products, and global macro policy lines almost always anchor in `fintech/`, even when there is a Japan-side operating reality. The reason: the global stablecoin / tokenized-money narrative is one connected graph (issuers, regulators, reserve structure, GENIUS / MiCA / HKMA / MAS / EPI / CBDC trackers), and forcing that graph to split by jurisdiction would break the cross-reference density that makes the fintech domain useful.
 
-The Japan-side operator, when one exists, gets a separate, shorter `JapanFG/` page that focuses on the **Japan license**, **Japan capital**, and **Japan counterparty perimeter**, and that links back to the fintech anchor for the global product / reserve / treasury context.
+A distinct Japan-side operator, when one exists, belongs in its current role-specific institution domain and focuses on the **Japan license**, **Japan capital**, and **Japan counterparty perimeter**. It cross-links to the fintech product context. If the second page is instead a domain-specific view of the same entity, it is a mirror and must follow the `canonical_anchor` rule.
 
 Example: [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] focuses on the **Japan four-entity structure** (banking branch + securities + asset management + trust bank). The global JPM crypto / tokenized-deposit story sits in [[fintech/jpmorgan-jpmd-coin|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]]. The [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon pivot case]] sits separately under `business/`.
 
@@ -77,18 +77,18 @@ Example: [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] focuse
 See [[entity-mirror-page-policy]] for the full rule. The short version:
 
 - Default: **one canonical anchor + cross-links from other domains**.
-- Mirror page is justified when the same operating entity has **distinct regulator-facing perimeters** (e.g. insurance license vs. JapanFG operating-company catalog), or when each domain's index would lose navigational completeness without a local stub.
-- Example of justified mirror: [[insurance/saison-automobile-fire]] + [[non-life-insurers/saison-automobile-fire-insurance]]. The insurance domain anchor focuses on **product economics and channel mix**; the JapanFG anchor focuses on **the Credit Saison brand stack + SOMPO subsidiary structure**.
+- Mirror page is justified when the same operating entity has **distinct regulator-facing perimeters**, or when each domain's index would lose navigational completeness without a substantive local page.
+- Example of justified mirror: [[insurance/saison-automobile-fire]] + [[non-life-insurers/saison-automobile-fire-insurance]]. The insurance view focuses on **product economics and channel mix**; the `non-life-insurers/` anchor focuses on **the Credit Saison brand stack + SOMPO subsidiary structure**.
 
 ## 6. Frontmatter alignment for cross-domain entities
 
-Every entry — canonical anchor or mirror — must:
+Every entry must:
 
 - set `domain:` to the **parent directory name** (this is a SCHEMA requirement, see [[SCHEMA]]);
 - declare `aliases:` that include every name the entity is known by across domains, so Obsidian link resolution works regardless of which domain a reader starts from;
-- include cross-domain `tags:` (for example, a JapanFG-domain JPM page may carry `tags: [JapanFG, foreign-ib, banking]` so it is also discoverable from banking-domain searches).
+- include cross-domain `tags:` when useful (for example, a `foreign-financial-institutions/` JPM page may carry `tags: [foreign-financial-institutions, foreign-ib, banking]`).
 
-A forward-looking proposal to add an explicit `canonical_anchor:` frontmatter field — pointing each mirror or related page to its single source-of-truth anchor — is documented in [[frontmatter-canonical-anchor-field-proposal]].
+In addition, a **mirror page must** set `canonical_anchor: domain/slug` to one designated primary anchor and must link that exact target in its core body. The anchor and ordinary related pages omit the field. The rollout history is retained in [[frontmatter-canonical-anchor-field-proposal]], while [[SCHEMA]] is authoritative.
 
 ## 7. Reciprocal cross-link rule
 
@@ -98,7 +98,7 @@ Mechanically:
 
 - Add the cross-domain link inside the body (in a `## Wiki route` paragraph or in the relevant content section), not only in `## Related`.
 - Use the form `[[domain/slug|display-name]]` so the prose reads naturally.
-- The link audit ([[wiki-link-improvement-plan]] / `tools/wiki_link_audit.ts`) does not enforce reciprocity, but reviewers should treat orphan cross-references as a flaw.
+- For a declared mirror, the release gate enforces anchor resolution and the mirror-to-anchor core-body link. It does not infer every missing mirror declaration or every reverse anchor-to-mirror link, so reviewers still treat orphan cross-references as a flaw.
 
 ## 8. Common anti-patterns to avoid
 
@@ -114,12 +114,12 @@ Mechanically:
 - [[entity-mirror-page-policy]] — When parallel pages in 2-3 domains are justified.
 - [[domain-bridge-navigation-guide]] — Reader-facing journeys across the cross-domain graph.
 - [[topic-cluster-reference]] — Topic-cluster groupings that cross domain boundaries.
-- [[frontmatter-canonical-anchor-field-proposal]] — Forward-looking machine-readable canonical-anchor field.
+- [[frontmatter-canonical-anchor-field-proposal]] — Historical decision record for the implemented canonical-anchor field.
 - [[wiki-link-improvement-plan]] — Body-link audit report and standards.
 
 ## Sources
 
 - [[SCHEMA]] — frontmatter spec, body-link rule.
 - [[AGENTS]] — public-surface rule, trilingual maintenance protocol.
-- [[INDEX]] — domain map, 23 domains, current entry counts.
+- [[INDEX]] — current domain map and routing surfaces.
 - Example entries: [[fintech/circle-usdc-stablecoin]], [[fintech/stripe-usdb-bridge-stablecoin]], [[foreign-financial-institutions/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[insurance/saison-automobile-fire]], [[non-life-insurers/saison-automobile-fire-insurance]], [[business/jamie-dimon-anti-crypto-pivot-case]].

@@ -34,6 +34,7 @@
 | [Next Development Plan](01-strategy/next-development-plan.md) | 下一阶段开发顺序、任务包方向、验收标准。 |
 | [Roadmap](01-strategy/roadmap.md) | 已完成里程碑、近期重点、中长期方向。 |
 | [Backlog](01-strategy/backlog.md) | 待办事项、优先级、状态、验收出口。 |
+| [Asset Management Register Gap Shortlist](01-strategy/asset-management-register-gap-shortlist.md) | 资产管理登记名录的公开来源缺口与候选补全顺序。 |
 
 ### 02 Product
 
@@ -45,6 +46,8 @@
 | [UI/UX Principles](02-product/ui-ux-principles.md) | 人类站体验原则、日语用户优先、视觉语气与产品边界。 |
 | [Domains](02-product/domains.md) | 领域现状、边界、扩充优先级。 |
 | [Japanese Finance Coverage Gap Map](02-product/japanese-finance-coverage-gap-map.md) | Issue #32 设计：公开来源覆盖轴、缺口判断和未来内容候选优先级。 |
+| [Human Site Editorial Design](02-product/human-site-editorial-design.md) | 人类站编辑层级、阅读路径与内容呈现设计。 |
+| [Human Site Reading Experience Spec](02-product/human-site-reading-experience-spec.md) | 人类站阅读体验、页面状态与验收规格。 |
 
 ### 03 Requirements
 
@@ -66,6 +69,10 @@
 | [AI Discovery Architecture](04-architecture/ai-discovery-architecture.md) | `llms*`、`ai-index.json`、API、sitemap 的生成关系。 |
 | [Canonical Anchor](04-architecture/canonical-anchor.md) | mirror page 与 canonical identity 的设计规则。 |
 | [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md) | Issue #29 设计：entity node、typed edge、build packet 和图谱输出边界。 |
+| [Astro 5 to 7 Upgrade Plan](04-architecture/astro-5-to-7-upgrade-plan.md) | Astro 5 到 7 的分阶段升级、兼容性与回退计划。 |
+| [Fact Freshness Source Recheck](04-architecture/fact-freshness-source-recheck.md) | 事实新鲜度与公开来源复核机制。 |
+| [Recurring Audit Cadence](04-architecture/recurring-audit-cadence.md) | 周期性审计的频率、输入、输出与责任边界。 |
+| [Satteri Pipeline Port Plan](04-architecture/satteri-pipeline-port-plan.md) | Satteri pipeline 移植的架构边界与执行顺序。 |
 | [ADR](04-architecture/adr.md) | 架构决策记录汇总。 |
 | [JapanFG Split Design](04-architecture/japanfg-split-design.md) | JapanFG 物理拆分设计与执行记录。 |
 
@@ -100,6 +107,9 @@
 | [Code/Docs Alignment Audit](07-quality/code-doc-alignment-audit.md) | 当前代码、生成面与开发文档的切合度审计。 |
 | [Documentation Drift Audit](07-quality/documentation-drift-audit.md) | 活跃文档、根入口、生成面与代码事实的全量漂移审计基线。 |
 | [Cross-Page Factual Consistency Audit](07-quality/cross-page-factual-consistency-audit.md) | Issue #30 设计：重复公开事实跨页不一致的 report-only 审计。 |
+| [Provenance Source Completeness Audit](07-quality/provenance-source-completeness-audit.md) | 来源完整性与 provenance 覆盖审计。 |
+| [Round 1 Content Quality Remediation](07-quality/round-1-content-quality-remediation.md) | 第一轮内容质量修复范围、证据与结果。 |
+| [Round 2 Freshness Remediation](07-quality/round-2-freshness-remediation.md) | 第二轮事实新鲜度修复范围、证据与结果。 |
 | [Acceptance Criteria](07-quality/acceptance-criteria.md) | 内容、结构、发布、文档变更验收标准。 |
 | [QA Checklist](07-quality/qa-checklist.md) | 提交前人工检查清单。 |
 | [Visual QA Checklist](07-quality/visual-qa-checklist.md) | UI/CSS/theme/layout/localization 改动的视觉验收清单。 |
@@ -113,6 +123,7 @@
 | [Deployment Runbook](08-operations/deployment-runbook.md) | GitHub Actions / GitHub Pages 部署检查。 |
 | [Maintenance Runbook](08-operations/maintenance-runbook.md) | 常态维护、计数校准、文档同步。 |
 | [Incident Runbook](08-operations/incident-runbook.md) | 发布失败、死链、计数漂移、敏感信息风险的处理。 |
+| [Truthfulness Audit Runbook](08-operations/truthfulness-audit-runbook.md) | truthfulness audit 的执行、产物与故障处置流程。 |
 
 ### 99 Archive
 

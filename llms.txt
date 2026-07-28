@@ -17,16 +17,16 @@
 
 ## Current Snapshot
 
-- Markdown files: 1586
-- Public Markdown pages in machine manifest: 1585
+- Markdown files: 1587
+- Public Markdown pages in machine manifest: 1586
 - Topical domains: 40
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
 - Entity graph nodes: 89
 - Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1489
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,709,878
-- Word-like tokens: 1,720,684
+- Non-space UTF-8 characters across Markdown: 10,715,523
+- Word-like tokens: 1,721,672
 
 ## URL Rules for AI Readers
 
@@ -73,7 +73,7 @@
 - security (9 entries): https://finwiki.zksc.io/ja/domains/security/ - Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation.
 - money-market (16 entries): https://finwiki.zksc.io/ja/domains/money-market/ - Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure.
 - non-profit (12 entries): https://finwiki.zksc.io/ja/domains/non-profit/ - Japanese non-profit / public-interest legal structures (一般/公益 財団・社団, NPO / 認定NPO, plus sector-licensed 社会福祉 / 学校 / 医療 / 宗教 法人), the 公益法人会計基準 reporting layer, and research-grant information (grantee map + grantor 助成財団). Corporate / listed-company governance lives in finance / securities / exchanges.
-- manufacturer-finance (13 entries): https://finwiki.zksc.io/ja/domains/manufacturer-finance/ - Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance.
+- manufacturer-finance (13 entries): https://finwiki.zksc.io/ja/domains/manufacturer-finance/ - Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer anchors may live in this domain; finance-company institution profiles use role-specific domains such as leasing-firms, while manufacturing ABS lives in structured-finance.
 - retail (10 entries): https://finwiki.zksc.io/ja/domains/retail/ - Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms.
 - trade (12 entries): https://finwiki.zksc.io/ja/domains/trade/ - JETRO and trade channels, plus trade finance — letters of credit / documentary collection, Incoterms 2020, NEXI trade insurance, customs / tariff / origin, FTA / EPA / RCEP, electronic bill of lading (MLETR), forfaiting / international factoring, and supply-chain finance.
 - corporate-strategy (10 entries): https://finwiki.zksc.io/ja/domains/corporate-strategy/ - Public corporate reorganization and tax-structured spin-off reference.
