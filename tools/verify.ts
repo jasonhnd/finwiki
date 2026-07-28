@@ -165,6 +165,10 @@ export function verificationPipeline(outDir: string): Step[] {
       command: bunCommand("run", "html:check"),
     },
     {
+      label: "Audit entry HTML metadata and route-level alternates",
+      command: bunCommand("run", "html:metadata"),
+    },
+    {
       label: "Build the Pagefind index",
       cwd: SITE,
       command: bunCommand("run", "index:search"),

@@ -20,6 +20,7 @@
     "i18n:check": "bun tools/i18n_status.ts --fail-on-issues",
     "index:counts": "bun tools/index_count_audit.ts",
     "html:check": "bun tools/check_duplicate_html_ids.ts site/dist",
+    "html:metadata": "bun tools/entry_metadata_audit.ts site/dist",
     "html:routes": "bun tools/html_route_audit.ts",
     "release:docs": "bun tools/release_documentation_audit.ts",
     "release:check": "bun tools/release.ts --check --strict",
