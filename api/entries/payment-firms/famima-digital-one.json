@@ -25,10 +25,10 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "payment",
@@ -40,9 +40,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: ファミマデジタルワン (2026-05-19 抽出)",
-      "Wikipedia: FamiPay (2026-05-19 抽出)",
-      "Wikipedia: ファミリーマート (2026-05-19 抽出)"
+      "ファミマデジタルワン 会社概要 (https://famidigi.jp/aboutus/)",
+      "ファミマデジタルワン 沿革 (https://famidigi.jp/aboutus/history/)",
+      "ファミリーマート 社名変更発表 (https://www.family.co.jp/company/news_releases/2019/20190701_01.html)",
+      "金融庁 第三者型前払式支払手段発行者登録一覧 (https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf)"
     ]
   },
   "summary": "This entry sits under payment-firms INDEX. Read it against GMO ペイメントゲートウェイ for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
@@ -88,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4413,
-    "word_like_tokens": 756,
+    "nonspace_chars": 4729,
+    "word_like_tokens": 792,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-08"
   }

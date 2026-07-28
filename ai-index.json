@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T04:34:50+09:00",
+  "generated_at": "2026-07-29T05:26:12+09:00",
   "counts": {
-    "markdown_files": 1597,
-    "public_markdown_pages": 1596,
+    "markdown_files": 1598,
+    "public_markdown_pages": 1597,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10883247,
-    "word_like_tokens": 1752254,
+    "nonspace_utf8_chars": 10903847,
+    "word_like_tokens": 1756104,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222)",
+        "2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247)"
+        "2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 200846,
-      "word_like_tokens": 36688,
+      "nonspace_chars": 208601,
+      "word_like_tokens": 38129,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17873,
-      "word_like_tokens": 3121,
+      "nonspace_chars": 18538,
+      "word_like_tokens": 3220,
       "last_modified": "2026-07-29"
     },
     {
@@ -66912,8 +66912,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5093,
-      "word_like_tokens": 811,
+      "nonspace_chars": 5052,
+      "word_like_tokens": 813,
       "last_modified": "2026-06-08"
     },
     {
@@ -67268,8 +67268,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4413,
-      "word_like_tokens": 756,
+      "nonspace_chars": 4729,
+      "word_like_tokens": 792,
       "last_modified": "2026-06-08"
     },
     {
@@ -67448,8 +67448,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4424,
-      "word_like_tokens": 764,
+      "nonspace_chars": 4615,
+      "word_like_tokens": 794,
       "last_modified": "2026-06-08"
     },
     {
@@ -68240,8 +68240,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6547,
-      "word_like_tokens": 1209,
+      "nonspace_chars": 7074,
+      "word_like_tokens": 1292,
       "last_modified": "2026-06-22"
     },
     {
@@ -69012,8 +69012,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6421,
-      "word_like_tokens": 1243,
+      "nonspace_chars": 6797,
+      "word_like_tokens": 1302,
       "last_modified": "2026-06-22"
     },
     {
@@ -70401,7 +70401,7 @@
       "domain": "payments",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with retail-anchored (WAON / nanaco) and tran",
+      "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. The current operator, 楽天Edy株式会社, was established on 2",
       "headings": [
         "Rakuten Edy: platform-agnostic FeliCa prepaid e-money",
         "Wiki route",
@@ -70450,8 +70450,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8498,
-      "word_like_tokens": 1327,
+      "nonspace_chars": 8267,
+      "word_like_tokens": 1334,
       "last_modified": "2026-06-04"
     },
     {
@@ -71019,7 +71019,7 @@
       "domain": "payments",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's BNPL / 後払い landscape is governed mainly by the 割賦販売法 (Installment Sales Act) through the 個別信用購入あっせん業者 (individual credit-purchase intermediary) registration line, with METI as the primary regulator. The METI 登録個別信用購入あっせん業者 list contains around 138 registered operators as of 2026-04 month-end",
+      "summary": "Japan's BNPL / 後払い checkout label does not map to one license. METI explains that a credit-purchase intermediary generally pays the merchant and receives the consumer's payment over a period exceeding two months; the applicable Installment Sales Act regime therefore depends on the product's payment",
       "headings": [
         "Japan BNPL / pay-later operator registry matrix",
         "TL;DR",
@@ -71131,8 +71131,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 35069,
-      "word_like_tokens": 5653,
+      "nonspace_chars": 34995,
+      "word_like_tokens": 5648,
       "last_modified": "2026-06-04"
     },
     {
@@ -71933,8 +71933,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 33428,
-      "word_like_tokens": 5448,
+      "nonspace_chars": 33688,
+      "word_like_tokens": 5497,
       "last_modified": "2026-06-04"
     },
     {
@@ -72209,9 +72209,7 @@
       "wikilinks": [
         "INDEX",
         "card-issuers/aeon-bank",
-        "card-issuers/aeon-bank\\",
         "card-issuers/aeon-financial-service",
-        "card-issuers/aeon-financial-service\\",
         "card-issuers/seven-card-service",
         "card-issuers/seven-card-service\\",
         "financial-licenses/payment-license-stack",
@@ -72232,7 +72230,6 @@
         "payments/prepaid-payment-instrument-issuers-japan-index",
         "payments/waon-nanaco-retail-prepaid-comparison",
         "regional-banks/seven-bank",
-        "regional-banks/seven-bank\\",
         "retail/aeon-group",
         "retail/aeon-group\\",
         "retail/seven-and-i-hd",
@@ -72266,8 +72263,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 37452,
-      "word_like_tokens": 6333,
+      "nonspace_chars": 36720,
+      "word_like_tokens": 6216,
       "last_modified": "2026-06-04"
     },
     {
@@ -85998,8 +85995,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5836,
-      "word_like_tokens": 1153,
+      "nonspace_chars": 6259,
+      "word_like_tokens": 1241,
       "last_modified": "2026-07-29"
     },
     {
@@ -89380,6 +89377,39 @@
       "entity_edges": [],
       "nonspace_chars": 11468,
       "word_like_tokens": 2179,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-8.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-8.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-8.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-8.md",
+      "title": "決済9ページの出典警告と公開事実の校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "決済9ページの出典警告と公開事実の校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 10705,
+      "word_like_tokens": 1997,
       "last_modified": "2026-07-29"
     },
     {
@@ -106396,8 +106426,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3376,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3836,
+      "word_like_tokens": 707,
       "last_modified": "2026-07-29"
     }
   ]

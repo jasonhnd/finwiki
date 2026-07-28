@@ -1,11 +1,11 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: 313194440dbea807
+source_hash: cedb66d0ac07de86
 lang: en
 status: machine
 fidelity: ok
 title: "FamiMa Digital One (FamiMa Digital One)"
-translated_at: 2026-06-19T06:09:18.133Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # FamiMa Digital One (FamiMa Digital One)
@@ -16,17 +16,17 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-A **convenience-store-affiliated payments / points / finance subsidiary** under Itochu Corporation → FamilyMart 100%. Established in 2019-04-01 (predecessor: FamiMa Travel Co., Ltd.); in 2019-07-01 it released **FamiPay** (QR + barcode payment). Based on a funds-transfer-service-provider license, with no banking license. Convenience-store-app-closed payments + BNPL (FamiPay deferred next-month payment) + personal lending (FamiPay Loan) + FamiPay Card (former FamiMa T Card). It is transitioning toward an "Itochu-group internal payment platform" by **dissolving the T-Point linkage in 2024-04  → making FamiPay Point independent**. Competitors are au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d-barai ([[megabanks/ndfg]]).
+FamiMa Digital One Co., Ltd. is a payments and financial-services company established on **2000-05-19**, with FamilyMart Co., Ltd. as its shareholder. It changed its name from UFI FUTECH to the current name in July 2019 and launched **FamiPay** that month. Its official company profile lists registrations for third-party prepaid payment instruments, credit-card merchant contracting, comprehensive and certified comprehensive credit-purchase intermediation, and money lending; it does not list a funds-transfer registration. ^[FamiMa Digital One company profile: https://famidigi.jp/aboutus/; company history: https://famidigi.jp/aboutus/history/; FamilyMart name-change announcement: https://www.family.co.jp/company/news_releases/2019/20190701_01.html]
 
 ## 1. Company overview
 
-**Formal name**: FamiMa Digital One Co., Ltd.
+**Legal name**: FamiMa Digital One Co., Ltd.
 **English name**: FamiMa Digital One Co., Ltd.
-**Established**: **2019-04-01** (predecessor: FamiMa Travel → reorganized)
-**Parent**: FamilyMart Co., Ltd. (100%)
-**Ultimate parent**: **Itochu Corporation** (made FamilyMart a wholly-owned subsidiary in 2020-08  → delisted)
-**Business type**: funds-transfer service provider (no banking license) + comprehensive credit purchase intermediary + money-lending business
-**Headquarters**: Shibaura, Minato-ku, Tokyo (inside FamilyMart head office)
+**Established**: **2000-05-19**
+**Shareholder**: FamilyMart Co., Ltd.
+**Capital**: ¥500 million
+**Registrations**: third-party prepaid issuer Kanto No. 00719 / credit-card merchant-contracting operator Kanto No. 148 / comprehensive credit-purchase intermediary Kanto No. 126 / certified comprehensive credit-purchase intermediary Kanto No. 3 / money lender Kanto No. 01525
+**Head office**: msb Tamachi, Tamachi Station Tower S, 3-1-21 Shibaura, Minato-ku, Tokyo
 
 ### Parent / shareholder structure (as of 2026 )
 
@@ -42,12 +42,14 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 
 | Year/month | Event |
 |---|---|
-| 2019-04-01 | **FamiMa Digital One established** (predecessor: FamiMa Travel reorganized) |
+| 2000-05-19 | Famima.com Co., Ltd. established |
+| 2017-09 | Company renamed UFI FUTECH Co., Ltd. |
 | **2019-07-01** | **FamiPay released** (QR / barcode payment, closed within the convenience-store app) |
+| 2019-07 | Company renamed FamiMa Digital One Co., Ltd. |
 | 2020-08 | Itochu Corporation TOB → **FamilyMart made a wholly-owned subsidiary / delisted from TSE** (former 8028) |
 | 2020〜 | FamiPay Bonus (effectively points) launched |
-| 2021 | FamiPay deferred next-month payment (BNPL) launched |
-| 2022 | FamiPay Loan (personal lending) launched |
+| 2021-09 | FamiPay deferred next-month payment (BNPL) launched |
+| 2021-12 | FamiPay Loan (personal lending) launched |
 | **2023-03** | **FamiMa T Card → FamiPay Card migration** (dissolution of the co-branded card with CCC / T-Point) |
 | **2024-04** | **Dissolution of FamiPay's T-Point linkage** (did not align with the integration of V-Point = T-Point + V) → **FamiPay Point made independent** |
 | 2024〜 | Mid-term plan — policy to platformize within the Itochu group |
@@ -70,7 +72,7 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 
 - **Convenience-store-app-closed model**: store-front origination at about 16,200 店 of FamilyMart → QR scan payment → unified management of balance / points / card within the app
 - **Platformization within the Itochu group** (2024〜 mid-term plan): rolling out FamiPay horizontally as a B2C touchpoint for Itochu Corporation businesses (FamilyMart / convenience-store wholesale / food / textiles / machinery, etc.)
-- **Non-holding of a banking license** (based on funds-transfer-service-provider status) → specialized in simple payments. Full-scale banking is premised on outsourcing / partnership
+- **No banking license**. FamiPay is based on a third-party prepaid instrument, while deferred payment, card, and lending products use the relevant Installment Sales Act and Money Lending Business Act registrations
 - **House-point independence** (T-Point dissolution 2024-04 ): internalizing the reward economy → ending dependence on CCC / V-Point
 
 ### Competitive landscape
@@ -97,15 +99,15 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 
 ### Limits / issues
 
-- Non-holding of a banking license → deposits / FX remittance / large-lot settlement depend on other companies (partner banks)
+- No banking license; deposits and banking services therefore require external financial institutions
 - The main battlefield is skewed toward inside FamiMa stores; its out-of-store rollout as a universal code payment is weak relative to PayPay / Rakuten Pay / d-barai
 
 ## 4. Regulation / policy
 
-- **Supervisor**: Financial Services Agency (FSA)
-- **Funds-transfer service provider**: registration under Article 37  of the Payment Services Act
+- **Jurisdiction**: FSA / Kanto Local Finance Bureau / METI
+- **Third-party prepaid issuer**: Kanto Local Finance Bureau No. 00719 (registered 2019-04-19)
 - **Money-lending business**: registration under the Money Lending Business Act (FamiPay Loan)
-- **Comprehensive credit purchase intermediary**: Installment Sales Act (FamiPay Card / next-month payment)
+- **Comprehensive and certified comprehensive credit-purchase intermediary**: Installment Sales Act (FamiPay Card / next-month payment)
 - **Personal data**: Act on the Protection of Personal Information (3 -fold marketing information of payment data + purchase history + points)
 - **Recent policy issues**:
   - 2025〜 credit-information sharing / credit management related to BNPL (FamiPay next-month payment is also subject)

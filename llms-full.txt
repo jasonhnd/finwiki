@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T04:34:50+09:00
+Generated: 2026-07-29T05:26:12+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1597
-Public pages listed: 1596
+Markdown files: 1598
+Public pages listed: 1597
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1596
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -13220,7 +13220,7 @@ Public pages listed: 1596
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/payments/edy-rakuten-prepaid.md
 - Domain: payments
 - Type: wiki_entry
-- Summary: This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with retail-anchored (WAON / nanaco) and tran
+- Summary: This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. The current operator, 楽天Edy株式会社, was established on 2
 - Headings: Rakuten Edy: platform-agnostic FeliCa prepaid e-money, Wiki route, TL;DR, Issuer and operational structure, Legal basis: 第三者型 prepaid, Pioneer / legacy position vs successor entrants, Acceptance footprint, Rakuten Card + Edy + Rakuten Points integration
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/payment-firms/rakuten-edy/, https://finwiki.zksc.io/ja/domains/payments/, https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/, https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/, https://finwiki.zksc.io/ja/payments/japan-transit-prepaid-suica-pasmo-icoca-economics/, https://finwiki.zksc.io/ja/payments/nanaco-prepaid-seven-i/, https://finwiki.zksc.io/ja/payments/pasmo-prepaid-tokyo-metro/, https://finwiki.zksc.io/ja/payments/prepaid-payment-instrument-issuers-japan-index/, https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/
 
@@ -13324,7 +13324,7 @@ Public pages listed: 1596
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/payments/japan-bnpl-pay-later-operator-registry-matrix.md
 - Domain: payments
 - Type: wiki_entry
-- Summary: Japan's BNPL / 後払い landscape is governed mainly by the 割賦販売法 (Installment Sales Act) through the 個別信用購入あっせん業者 (individual credit-purchase intermediary) registration line, with METI as the primary regulator. The METI 登録個別信用購入あっせん業者 list contains around 138 registered operators as of 2026-04 month-end
+- Summary: Japan's BNPL / 後払い checkout label does not map to one license. METI explains that a credit-purchase intermediary generally pays the merchant and receives the consumer's payment over a period exceeding two months; the applicable Installment Sales Act regime therefore depends on the product's payment
 - Headings: Japan BNPL / pay-later operator registry matrix, TL;DR, Wiki route, Why this matrix matters, Net Protections HD (NP 後払い, TSE PRIME 7383), atone (Net Protections subsidiary), Kuroneko Atobarai (Yamato Financial Holdings), GMO Postpay (GMO Payment Gateway group)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/card-issuers/aplus/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/
 
@@ -17204,6 +17204,15 @@ Public pages listed: 1596
 - Domain: releases
 - Type: release_note
 - Headings: 出典警告13件と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 決済9ページの出典警告と公開事実の校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-8.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-8.md
+- Source path: releases/v2026.07.29-8.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-8.md
+- Domain: releases
+- Type: release_note
+- Headings: 決済9ページの出典警告と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md

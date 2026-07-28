@@ -25,10 +25,10 @@
     "domain": "payments",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "payments",
       "prepaid",
@@ -43,16 +43,18 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://edy.rakuten.co.jp/",
-      "https://corp.rakuten.co.jp/",
-      "https://www.rakuten-card.co.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://edy.rakuten.co.jp/company/company.html",
+      "https://edy.rakuten.co.jp/company/history.html",
+      "https://edy.rakuten.co.jp/terms/info.html",
+      "https://edy.rakuten.co.jp/howto/google/pay/",
+      "https://support.rakuten-edy.co.jp/faq/show/1179",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf",
       "https://www.fsa.go.jp/policy/prepaid/",
       "https://www.felicanetworks.co.jp/",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/"
     ]
   },
-  "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with retail-anchored (WAON / nanaco) and tran",
+  "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. The current operator, 楽天Edy株式会社, was established on 2",
   "headings": [
     "Rakuten Edy: platform-agnostic FeliCa prepaid e-money",
     "Wiki route",
@@ -104,8 +106,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8498,
-    "word_like_tokens": 1327,
+    "nonspace_chars": 8267,
+    "word_like_tokens": 1334,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-04"
   }

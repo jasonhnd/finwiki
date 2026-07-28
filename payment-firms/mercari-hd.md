@@ -3,10 +3,10 @@ title: メルカリ HD（株式会社メルカリ）
 aliases: ["メルカリ", "Mercari", "Mercari Inc.", "メルペイ", "メルコイン", "Merpay", "Mercoin", "メルカード", "4385"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [JapanFG, ec-fintech, crypto]
 status: active
 entity_node:
@@ -14,6 +14,9 @@ entity_node:
   scope: japan_core
   status: anchor
 sources:
+  - "メルカリ 会社概要 (https://about.mercari.com/about/company/)"
+  - "日本取引所グループ 銘柄情報 4385 (https://www2.jpx.co.jp/tseHpFront/StockSearch.do?callJorEFlg=1&method=topsearch&topSearchStr=4385)"
+  - "日本取引所グループ 市場区分変更承認 (https://www.jpx.co.jp/news/6030/20220602-01.html)"
   - "Wikipedia: 株式会社メルカリ (2026-05-19 抽出)"
   - "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)"
   - "FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示"
@@ -30,16 +33,18 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-日本最大級 **C2C フリマアプリ + 決済 + 暗号資産** 垂直統合エコシステム。2013-02-01 山田進太郎 創業、2018-06-19 東証マザーズ IPO（2022 PRIME 移行、東証 PRIME **4385**）。**メルカリ（フリマ）+ メルペイ（決済・後払い）+ メルコイン（ビットコイン）+ メルカード（JCB 提携）** の 4 軸。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6 通期）、メルカード発行 **300 万枚超**、メルコイン口座 **200 万超**。FY2025.6 通期で売上収益 **1,926 億円**（YoY +3%）、当期利益 **261 億円**（YoY +94%、3 期連続最高益）、**米国事業が初の通期黒字化**達成（US GMV 728 百万米ドル ≒ 1,091 億円）。銀行ライセンスは未保有（資金移動業者）。メガバンク系 [[megabanks/mufg]] / [[megabanks/smfg]] とは異なり「マーケットプレース起点」金融プラットフォーム化が特徴。
+日本最大級 **C2C フリマアプリ + 決済 + 暗号資産** 垂直統合エコシステム。2013-02-01 山田進太郎 創業、2018-06-19 東証マザーズ IPO。2022-04 の市場再編ではグロース市場に移行し、**2022-06-07 にプライム市場へ市場区分を変更**した（東証 PRIME **4385**）。**メルカリ（フリマ）+ メルペイ（決済・後払い）+ メルコイン（ビットコイン）+ メルカード（JCB 提携）** の 4 軸。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6 通期）、メルカード発行 **300 万枚超**、メルコイン口座 **200 万超**。FY2025.6 通期で売上収益 **1,926 億円**（YoY +3%）、当期利益 **261 億円**（YoY +94%、3 期連続最高益）、**米国事業が初の通期黒字化**達成（US GMV 728 百万米ドル ≒ 1,091 億円）。銀行ライセンスは未保有（資金移動業者）。メガバンク系 [[megabanks/mufg]] / [[megabanks/smfg]] とは異なり「マーケットプレース起点」金融プラットフォーム化が特徴。
 
 ## 1. 会社概要
 
 **正式名**：株式会社メルカリ（英: Mercari, Inc.）
-**証券コード**：東証 PRIME **4385**（2018-06-19 マザーズ上場 → 2022-04 PRIME 移行）
-**設立**：2013-02-01（旧称: 株式会社コウゾウ → 2013-11 メルカリに改称）
+**証券コード**：東証 PRIME **4385**（2018-06-19 マザーズ上場 → 2022-04 グロース市場 → 2022-06-07 プライム市場）
+**設立**：2013-02-01
 **本社**：東京都港区六本木 6-10-1 六本木ヒルズ森タワー
-**創業者・代表**：山田進太郎（代表取締役 CEO、元ウノウ創業者）
+**代表者**：山田進太郎（代表執行役 CEO）
 **業態**：C2C マーケットプレース + 決済 + 後払い + クレカ + 暗号資産 + スポットワーク
+
+^[メルカリ 会社概要: https://about.mercari.com/about/company/; 日本取引所グループ 銘柄情報 4385: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?callJorEFlg=1&method=topsearch&topSearchStr=4385; 市場区分変更承認: https://www.jpx.co.jp/news/6030/20220602-01.html]
 
 > 注: メルカリは銀行ライセンスを保有せず、メルペイ（資金移動業者）・メルコイン（暗号資産交換業者）を通じて金融事業を展開する EC 起点のグループ。本 wiki/JapanFG 内での分類上の扱い（「EC / Bank 一体型」垂直統合例とするか否か）は編集判断のため `.opinions/JapanFG/mercari-hd.md` を参照。
 
@@ -73,7 +78,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | 2019-08 | 鹿島アントラーズ FC 経営権取得 |
 | **2020-04** | **メルペイスマート払い 開始**（後払いサービス）|
 | **2021-04** | **株式会社メルコイン 設立**（暗号資産子会社）|
-| 2022-04 | 東証市場区分変更 → PRIME 市場 |
+| 2022-04 | 東証市場再編に伴いグロース市場へ移行 |
+| **2022-06-07** | **プライム市場へ市場区分変更** |
 | **2022-11** | **メルカード 発行開始**（JCB 提携、プラスチックカード）|
 | **2023-03** | **メルコイン ビットコイン取引サービス開始** |
 | 2023-08 | メルコイン 利用者 100 万人突破 |
