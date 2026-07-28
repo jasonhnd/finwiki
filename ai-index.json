@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-28T21:01:09+09:00",
+  "generated_at": "2026-07-28T21:18:53+09:00",
   "counts": {
-    "markdown_files": 1586,
-    "public_markdown_pages": 1585,
+    "markdown_files": 1587,
+    "public_markdown_pages": 1586,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10709878,
-    "word_like_tokens": 1720684,
+    "nonspace_utf8_chars": 10715523,
+    "word_like_tokens": 1721672,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -437,7 +437,7 @@
         "en": "https://finwiki.zksc.io/en/domains/manufacturer-finance/"
       },
       "raw_markdown_url": "https://finwiki.zksc.io/manufacturer-finance/INDEX.md",
-      "scope": "Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance."
+      "scope": "Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer anchors may live in this domain; finance-company institution profiles use role-specific domains such as leasing-firms, while manufacturing ABS lives in structured-finance."
     },
     {
       "domain": "retail",
@@ -2663,19 +2663,19 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Shared translation corpus discovery repair (#182)",
+        "2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190)",
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Astro check residual hint cleanup (#198)"
+        "2026-07-28 - Shared translation corpus discovery repair (#182)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 114252,
-      "word_like_tokens": 20739,
+      "nonspace_chars": 121446,
+      "word_like_tokens": 21990,
       "last_modified": "2026-07-28"
     },
     {
@@ -3067,8 +3067,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13248,
-      "word_like_tokens": 1974,
+      "nonspace_chars": 13373,
+      "word_like_tokens": 1994,
       "last_modified": "2026-07-28"
     },
     {
@@ -3233,8 +3233,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11226,
-      "word_like_tokens": 1958,
+      "nonspace_chars": 11890,
+      "word_like_tokens": 2080,
       "last_modified": "2026-07-28"
     },
     {
@@ -3255,7 +3255,7 @@
         "Required Fields",
         "Recommended Fields",
         "Body-Link Requirement",
-        "Optional / Legacy Fields",
+        "Conditional / Optional / Legacy Fields",
         "Confidence Enum",
         "Status Lifecycle",
         "Canonical Key Order",
@@ -3278,9 +3278,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4269,
-      "word_like_tokens": 650,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4429,
+      "word_like_tokens": 677,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
@@ -17513,7 +17513,7 @@
       "domain": "root",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits at FinWiki root next to SCHEMA and INDEX. Read it together with entity mirror-page policy for parallel-page rules, domain bridge navigation guide for the reader-facing flow, and frontmatter canonical_anchor proposal for the forward-looking machine-readable extension.",
+      "summary": "This entry sits at FinWiki root next to SCHEMA and INDEX. Read it together with entity mirror-page policy for parallel-page rules, domain bridge navigation guide for the reader-facing flow, and the historical canonical_anchor decision record for rollout context.",
       "headings": [
         "Cross-Domain Anchor Convention · FinWiki 跨领域实体页面归属约定",
         "Wiki route",
@@ -17576,9 +17576,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9881,
-      "word_like_tokens": 1594,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10129,
+      "word_like_tokens": 1637,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "derivatives/INDEX.md",
@@ -20485,7 +20485,7 @@
       "domain": "root",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This policy sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the canonical-anchor designation rule and with frontmatter canonical_anchor proposal for the forward-looking machine-readable extension. Use the routing surface INDEX to confirm the cu",
+      "summary": "This policy sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the current designation rule and with the historical canonical_anchor decision record for rollout context. Use the routing surface INDEX to confirm the current domain map.",
       "headings": [
         "Entity Mirror-Page Policy · FinWiki 镜像页面规则",
         "Wiki route",
@@ -20502,7 +20502,6 @@
         "AGENTS",
         "Circle",
         "INDEX",
-        "JapanFG/INDEX",
         "SCHEMA",
         "banking/japan-stablecoin-bank-perimeter-2025",
         "business/jamie-dimon-anti-crypto-pivot-case",
@@ -20520,6 +20519,7 @@
         "insurance/INDEX",
         "insurance/japan-nonlife-big-three",
         "insurance/saison-automobile-fire",
+        "non-life-insurers/INDEX",
         "non-life-insurers/saison-automobile-fire-insurance",
         "topic-cluster-reference",
         "wiki-link-improvement-plan"
@@ -20527,7 +20527,6 @@
       "resolved_wikilinks": [
         "https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md",
         "https://finwiki.zksc.io/INDEX.md",
-        "https://finwiki.zksc.io/JapanFG/INDEX.md",
         "https://finwiki.zksc.io/SCHEMA.md",
         "https://finwiki.zksc.io/ja/banking/japan-stablecoin-bank-perimeter-2025/",
         "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
@@ -20545,6 +20544,7 @@
         "https://finwiki.zksc.io/ja/domains/insurance/",
         "https://finwiki.zksc.io/ja/insurance/japan-nonlife-big-three/",
         "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+        "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
         "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
         "https://finwiki.zksc.io/topic-cluster-reference.md",
         "https://github.com/jasonhnd/finwiki/blob/main/wiki-link-improvement-plan.md"
@@ -20552,9 +20552,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10737,
-      "word_like_tokens": 1852,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11122,
+      "word_like_tokens": 1934,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/INDEX.md",
@@ -50170,70 +50170,43 @@
       "alternate_html_urls": null,
       "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/frontmatter-canonical-anchor-field-proposal.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/frontmatter-canonical-anchor-field-proposal.md",
-      "title": "Frontmatter canonical_anchor Field · 提议 / Proposal",
+      "title": "Frontmatter canonical_anchor Field · Historical Decision Record",
       "domain": "root",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This proposal sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the prose rules it would formalize, with mirror-page policy for the case that motivates the field, and with domain bridge navigation guide for the reader-side benefit.",
+      "summary": "This historical record sits at FinWiki root next to the current schema and the repository map. Read the mirror-page policy and the anchor convention for current editorial rules. The original proposal is retained to explain why canonical_anchor exists; it is not a future-work specification.",
       "headings": [
-        "Frontmatter canonical_anchor Field · 提议 / Proposal",
+        "Frontmatter canonical_anchor Field · Historical Decision Record",
         "Wiki route",
-        "1. Motivation",
-        "2. The proposed field",
-        "Example: mirror pair",
-        "Example: cross-product split (JPM family)",
-        "3. Tradeoffs",
-        "Pros",
-        "Cons",
-        "Net assessment"
+        "1. Original problem",
+        "2. Landed decision sequence",
+        "3. Current authoritative contract",
+        "4. Resolved design questions",
+        "5. Current outputs and invariants",
+        "6. Supersession",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "AGENTS",
-        "CHANGELOG",
         "INDEX",
         "SCHEMA",
-        "X",
-        "business/jamie-dimon-anti-crypto-pivot-case",
         "cross-domain-anchor-convention",
-        "domain-bridge-navigation-guide",
         "entity-mirror-page-policy",
-        "fintech/circle-usdc-stablecoin",
-        "fintech/jpm-onyx-wholesale-network",
-        "fintech/jpmorgan-jpmd-coin",
-        "foreign-financial-institutions/jpmorgan-japan",
-        "insurance/saison-automobile-fire",
-        "leasing-firms/toyota-financial",
-        "manufacturer-finance/toyota-financial-services",
-        "non-life-insurers/saison-automobile-fire-insurance",
-        "topic-cluster-reference",
         "wiki-link-improvement-plan"
       ],
       "resolved_wikilinks": [
-        "https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md",
-        "https://finwiki.zksc.io/CHANGELOG.md",
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/SCHEMA.md",
-        "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
         "https://finwiki.zksc.io/cross-domain-anchor-convention.md",
-        "https://finwiki.zksc.io/domain-bridge-navigation-guide.md",
         "https://finwiki.zksc.io/entity-mirror-page-policy.md",
-        "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
-        "https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/",
-        "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
-        "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
-        "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
-        "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
-        "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/",
-        "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
-        "https://finwiki.zksc.io/topic-cluster-reference.md",
         "https://github.com/jasonhnd/finwiki/blob/main/wiki-link-improvement-plan.md"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13412,
-      "word_like_tokens": 2309,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5110,
+      "word_like_tokens": 833,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "insurance/INDEX.md",
@@ -89048,6 +89021,39 @@
       "last_modified": "2026-07-28"
     },
     {
+      "source_path": "releases/v2026.07.28-8.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-8.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-8.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-8.md",
+      "title": "正準アンカー契約と文書入口の統一",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "正準アンカー契約と文書入口の統一",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 5172,
+      "word_like_tokens": 919,
+      "last_modified": "2026-07-28"
+    },
+    {
       "source_path": "releases/v2026.07.28.md",
       "url": "https://finwiki.zksc.io/releases/v2026.07.28.md",
       "html_url": null,
@@ -106061,7 +106067,7 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3377,
+      "nonspace_chars": 3376,
       "word_like_tokens": 626,
       "last_modified": "2026-07-28"
     }

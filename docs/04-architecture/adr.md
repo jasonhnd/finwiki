@@ -12,10 +12,12 @@
 
 ## ADR-002：canonical_anchor 分 Phase 落地
 
+> **历史状态：已完成，并由 ADR-007 明确最终 steady-state contract。** 下列内容记录当时的 staged rollout；其中 “report-only / future gate” 不是当前规则。
+
 - **背景**：mirror page（如 net bank）需要指向其 entity 单一真相 anchor，但全量改造风险高。
 - **决定**：Phase 0（SCHEMA 字段 + 2 pilot）→ Phase 1（report-only audit，不影响 gate）→ Phase 2（entity edge / 全量 / hard requirement）。
 - **理由**：report-only 让 audit 先观测 drift 而不阻塞发布，避免一次性强约束打断现有 1400+ entry 的发布节奏。
-- **影响**：`wiki_link_audit` 有 `canonical_anchor_checked` / `canonical_anchor_drift` 计数但不进 exit code；Phase 2 才考虑升为 gate。见 [backlog.md](../01-strategy/backlog.md) P1。
+- **影响（当时）**：`wiki_link_audit` 先让 `canonical_anchor_checked` / `canonical_anchor_drift` 保持 report-only；后续 ADR-007 已决定 release runner 始终带 `--fail-on-canonical-drift`，因此当前 release contract 是 declared drift 必须为 0。
 
 ## ADR-003：docs/ 用双排除而非单一机制
 
