@@ -5,25 +5,25 @@
 ## 标准步骤
 
 ```
-1. 改内容（wiki entry / INDEX / 工具 / 配置）
-2. 更新 README.md + CHANGELOG.md（日→英→中）
-3. bun run release:docs                  # 三语顺序、title、必填小节门禁
-4. bun tools/release.ts --write --release-note "<日本語タイトル>"
-                                           # 生成三语 draft + 发现面 + counts
-   # 填写 draft 的真实内容后，再运行 bun tools/release.ts --write
-5. bun run verify                         # pre-commit gate
-6. git add -A && git commit               # 建立 source 的 Git last_modified
-7. bun tools/release.ts --write           # commit 后再生成 last_modified
-   bun run verify                         # 最终门禁：必须 EXIT=0
-   # 有生成差异时 amend，或追加同一 push 内的 release-sync commit；之后再 verify
-8. git push origin main
-9. git tag v<date>-<N> && git push origin v<date>-<N>
-10. gh release create v<date>-<N> \
-     --title "<日本語タイトル>" \
-     --notes-file releases/v<date>-<N>.md \
-     --target main
-11. gh run watch <runId> --exit-status    # 确认「Deploy FinWiki」build 绿
+1. work branch で変更し、README.md + CHANGELOG.md（日→英→中）と必要な release note を更新
+2. bun run release:docs
+3. bun tools/release.ts --write
+4. bun run verify                         # pre-commit gate
+5. commit → post-commit release:write → 必要なら amend → bun run verify
+6. work branch を pushし、`pre` 向け PR を作成
+7. Required Verification / Dependency Audit / preview を確認し、承認後 `pre` へ merge
+8. publish boundary で新規作業を止め、`pre` HEAD、open PR 0、release note / registry を確認
+9. `pre` → `main` promotion PR を作成し、人間の明示承認後に merge
+10. resulting main merge SHA と Deploy FinWiki success を確認
+11. git tag v<date>-<N> <main-merge-sha> && git push origin v<date>-<N>
+12. gh release create v<date>-<N> \
+      --title "<日本語タイトル>" \
+      --notes-file releases/v<date>-<N>.md \
+      --target <main-merge-sha>
+13. public routes と GitHub Release target を確認
 ```
+
+`main` への direct push は release 手順ではありません。bootstrap promotion で required workflow が初めて `main` に入る場合は、その production deploy 完了直後に branch protection を有効化し、以後は PR と current `Required verification` を必須にします。
 
 ## 三语发布文档格式
 
@@ -32,6 +32,13 @@
 - **release notes 文件**：`# <只含日文的标题>` → `## 日本語` / `## English` / `## 中文`。每种语言按顺序包含 5 个三级标题：公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業；Release Scope / Major Changes / Validation Results / Known Notes / Next Steps；发布范围 / 主要变更 / 验证结果 / 已知注意事项 / 下一步。
 - **GitHub Release**：title **只用日文**；body 用 `--notes-file` 指向上述三语 release note。
 - **历史边界**：`bun run release:docs` 对 2026-07-27 以前的 release notes grandfather，不批量改写公开历史；新 release note 没有例外。
+
+## Release state reconciliation
+
+- [releases/README.md](../../releases/README.md) is the authoritative mapping among maintained release notes, Git tags and GitHub Releases.
+- A note may remain as a detailed `pre` staging record without an individual tag only when the registry names the catch-up Release that incorporates it.
+- A published tag without a repository note is repaired by restoring the public GitHub Release body into a same-version note; do not rewrite the already published Release merely to modernize historical formatting.
+- Before promotion, compare note basenames, Git tags and GitHub Release tags. The Git tag and GitHub Release sets must match exactly, and every note-only exception must appear in the registry.
 
 ## count 收敛（self-referential）
 
@@ -51,7 +58,9 @@ bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun too
 - [ ] README / CHANGELOG 已按日文→英文→中文更新；index.html 的 ja/en 人类入口保持同步
 - [ ] `releases/v<date>-<N>.md` 已建（三语、只含日文的 H1、每语 5 个必填小节）
 - [ ] Bun version 与 `.bun-version` 一致，`bun run verify` `EXIT=0`
-- [ ] fresh PR 的 `Required verification` 为 green，`main` protection 仍要求该 context
+- [ ] work branch → `pre` PR 的 `Required verification` 为 green；promotion 後は `main` protection も同じ current context を要求
+- [ ] `pre` → `main` promotion PR の boundary、resulting main SHA、tag target、GitHub Release target が同一
+- [ ] `releases/README.md` が note-only / tag-only exception をすべて意図的に説明
 - [ ] `git diff` 无密钥 / 本地路径 / 隐私（grep 检查 home 目录路径前缀、token 前缀、真实用户名，命中应为 0）
 - [ ] `bun run surface:drift` 显示 fixed-timestamp byte-identical（含全部 per-entry `last_modified`）
 - [ ] `bun run verify` 显示 `Generated route audit passed`，生成的 `/ja/` canonical、`/en/` alternate 与显式 `.md` raw URL 均在最终 artifact 可解析
