@@ -10,9 +10,9 @@ aliases:
   - "trade settlement methods comparison"
 domain: trade
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [trade, trade-finance, documentary-collection, settlement, urc-522, icc]
 status: active
@@ -73,6 +73,8 @@ Crucially, **none of these banks guarantees payment**. This is the structural di
 | Speed / complexity | Simpler, faster to set up | More documentation and steps |
 | Document examination | Banks check documents are **present per instructions**, not for strict compliance to a credit | Banks examine for **strict compliance** to the credit terms |
 | Typical use | Established relationships, moderate risk, lower-value or repeat trade | New / weak counterparties, higher-risk corridors, where seller needs a bank promise |
+
+Sources: ^[ICC URC 522 publication page: https://2go.iccwbo.org/urc-522-uniform-rules-for-collections-config-1+book_version-Book/; ICC trade-finance overview: https://iccwbo.org/business-solutions/trade-finance/; U.S. International Trade Administration methods-of-payment guide: https://www.trade.gov/methods-payment.]
 
 A bank handling a collection does **not** perform the strict-compliance document examination that defines an L/C; it checks that the documents listed in the instruction are there and acts accordingly. That lighter duty is part of why collections are cheaper — and why they give the exporter less protection.
 

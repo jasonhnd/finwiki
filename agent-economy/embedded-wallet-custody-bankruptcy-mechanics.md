@@ -11,9 +11,9 @@ aliases:
   - AWS Bedrock TEE failure wallet impact
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, embedded-wallet, custody, bankruptcy, mpc, tee, key-reconstruction, social-recovery, multisig, sipc, fdic, stripe-treasury, regulatory-protection]
 status: active
@@ -46,12 +46,14 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it with 
 
 ## Four failure scenarios
 
-| Scenario | What fails | Direct effect on user funds | Operational recovery question |
+| Failure scenario | Layer that may become unavailable | What must not be assumed | Evidence required before deployment |
 |---|---|---|---|
-| 1. Privy / Magic / CDP becomes insolvent | The SDK vendor's company-level operations halt | None on the underlying chain balance | Can the user reconstruct an MPC signature without the provider's server-side shard? |
-| 2. Stripe (the Privy parent) enters Ch. 11 | The corporate parent is in bankruptcy | None directly on the wallet address; the wallet does not custody fiat at Stripe (in most product configurations) | Does the Privy TEE remain operational under DIP financing, or does a bankruptcy court force a sale? |
-| 3. Coinbase enters Ch. 11 | CDP's parent fails; Coinbase Wallet (consumer) and CDP (SDK) operations affected differently | Coinbase Wallet (consumer) is self-custody — addresses on chain are not affected. Coinbase Custody / Coinbase Prime (institutional custody) is in a separate qualified-custodian entity — also legally separated. The user-funds-at-risk question is largest for **Coinbase Exchange** balances, which are not the embedded-wallet category | For CDP-managed Smart Wallets, can the user sign without the CDP-side server shard? |
-| 4. AWS Bedrock / AWS TEE outage or shutdown | The underlying TEE infrastructure that holds one MPC shard becomes unavailable | If outage is temporary, user signs once TEE recovers. If permanent (which has no precedent for AWS), users with recoverable on-device or cloud shards survive | Does the provider maintain a TEE-portability plan to migrate the server-side shard to a different cloud / hardware enclave? |
+| **Wallet-infrastructure provider insolvency / shutdown** | API, signer service, policy engine, recovery service and support | An on-chain address surviving does not prove that the user can still produce a valid signature | Key / share ownership, export path, recovery ceremony, escrow / continuity plan and tested migration |
+| **Provider parent-company insolvency** | Shared staff, contracts, cloud accounts, funding and acquired product operations | Corporate separation, bankruptcy remoteness and uninterrupted service cannot be inferred from product branding | Contracting entity, asset / IP ownership, customer-fund treatment, service-continuity and legal opinions |
+| **Cloud / TEE / HSM outage** | One or more signing, attestation, authentication or storage dependencies | “MPC” does not guarantee availability if a required share or policy service is offline | Threshold, independent failure domains, backup / restore, regional failover and recovery-time tests |
+| **User device / recovery-share loss** | User-controlled signer or recovery factor | A provider-side share alone may be intentionally insufficient to sign | Recovery quorum, social / cloud backup risks, rotation, lost-device process and irreversible-loss disclosure |
+
+Sources: ^[https://docs.privy.io/security] ^[https://docs.cdp.coinbase.com/get-started/security] ^[https://magic.link/docs/wallets/security]
 
 In all four scenarios the **on-chain wallet address persists** — it is a deterministic public-key-derived string that does not care about the corporate status of the SDK vendor. What can fail is **the ability to assemble a valid signature**, which depends on the surviving shards.
 
@@ -105,17 +107,18 @@ The bankruptcy question therefore splits into **two halves**:
 
 There is no SIPC-equivalent regime for embedded-wallet end-user funds in any major jurisdiction as of mid-2026. The closest analogs:
 
-| Regime | What it covers | Whether embedded wallets are inside scope |
+| Regime / authority | Public protection or regulatory scope | Embedded-wallet analysis boundary |
 |---|---|---|
-| FDIC ($250K standard maximum deposit insurance per depositor per insured bank) | Bank deposits | Yes, on the **fiat-side leg** through partner-bank FBO accounts with pass-through |
-| FDIC pass-through (12 CFR Part 370) | Banked balances held by a non-bank for the benefit of identifiable customers | Yes, conditional on the recordkeeping requirements being met by the non-bank intermediary (Stripe, etc.) |
-| SIPC ($500K coverage, of which $250K may be cash) | Brokerage securities and cash held at a SIPC-member broker-dealer in a securities transaction | No, embedded wallets are not broker-dealer accounts |
-| Coinbase NY Limited Purpose Trust charter (NYDFS) | Coinbase Custody Trust's institutional custody | Partial — applies to Coinbase Custody, not to CDP's embedded wallets |
-| US OCC / SAB 121 (rescinded SAB 121 January 2025 via SAB 122) | Custody of crypto assets on bank balance sheets | Relevant to banks offering custody; not direct end-user protection |
-| GENIUS Act §501 (US) | Stablecoin issuer reserves and segregation | Applies to USDC / USDB / equivalent reserves, not to wallet provider |
-| FCA Cryptoasset register + safeguarding rules (UK) | Custodial wallet providers and stablecoin firms under the upcoming UK regime | Will apply to UK-domiciled wallet providers; embedded-wallet vendors typically design out of custody to avoid these |
-| FSA Japan 暗号資産交換業 (Crypto Asset Exchange) | VASPs holding customer crypto | Embedded wallet designed not to "hold" customer crypto avoids classification — see [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX integration]] |
-| MAS Singapore Payment Services Act | DPT (digital payment token) service providers | Embedded wallet vendors that hold or transmit DPTs are inside scope; pure SDK vendors that never touch keys may be outside |
+| **FDIC deposit insurance** | Covers eligible deposits at an insured depository institution, subject to ownership and recordkeeping rules | Applies only to a qualifying fiat deposit arrangement; it does not insure an on-chain token or wallet software |
+| **FDIC pass-through treatment** | May recognize beneficial owners when the deposit and records meet applicable requirements | Must verify the insured bank, account title, records, custodial chain and each customer's eligibility; “FBO” wording alone is insufficient |
+| **SIPC** | Protects missing cash / securities held for customers of a failed SIPC-member broker-dealer within statutory limits | Does not generally cover a standalone embedded wallet; scope depends on the member broker and the customer property |
+| **Entity-specific trust / custody charter** | Regulates the named custodian and the services within its charter / customer agreement | A parent's or affiliate's charter does not automatically cover a separate developer-wallet product |
+| **SEC SAB 122 / custody accounting guidance** | Addresses accounting / disclosure considerations after rescission of SAB 121 | Accounting guidance is not deposit insurance, SIPC protection or a recovery guarantee |
+| **UK FCA cryptoasset regime** | Registration / authorization and conduct or safeguarding duties depend on the activity and effective rules | Determine entity, service, custody / control and territorial scope; an SDK label does not decide classification |
+| **Japan FSA cryptoasset / payment regimes** | Registration, segregation and user-protection duties depend on the regulated activity | Analyze who controls keys / assets and performs transfer or exchange; “non-custodial” marketing is not dispositive |
+| **Singapore Payment Services Act / MAS rules** | Licensing and safeguarding duties depend on payment / DPT services performed | Analyze possession / control, transmission, customer relationship and exemptions for the selected configuration |
+
+Sources: ^[https://www.fdic.gov/resources/deposit-insurance/] ^[https://www.sipc.org/for-investors/what-sipc-protects] ^[https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122] ^[https://www.fca.org.uk/firms/cryptoassets] ^[https://www.fsa.go.jp/en/policy/payments/index.html] ^[https://www.mas.gov.sg/regulation/payments]
 
 The pattern is consistent: **none of the major jurisdictions has built a SIPC-style insurance scheme specifically for embedded-wallet end-user funds**. The regulatory bet is that the embedded-wallet design intrinsically avoids the problem (the user always controls one shard; the provider never holds the asset).
 

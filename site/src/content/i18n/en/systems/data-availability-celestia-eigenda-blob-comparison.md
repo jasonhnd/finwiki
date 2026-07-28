@@ -1,11 +1,11 @@
 ---
 source: systems/data-availability-celestia-eigenda-blob-comparison
-source_hash: 83de69337c432a0a
+source_hash: 6b6f4c8946d30811
 lang: en
 status: machine
 fidelity: ok
 title: "DA layer panoramic comparison 2026  · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA"
-translated_at: 2026-06-01T04:15:40.172Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # DA layer panoramic comparison 2026  · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
 
@@ -130,15 +130,18 @@ This matrix compares 5  publicly operating DA layers across 8  dimensions using 
 
 ## Big comparison matrix table
 
-**5  DA layers × 8  dimensions** (state as of 2026-Q2 ):
+**Public-specification comparison of 5 DA layers**. Prices, throughput, validator counts and adoption counts change, so verify them separately with live documentation / telemetry:
 
-| DA Layer | Architecture | Security model | Cost/GB-day | Throughput | Finality | Adopting rollups | Governance | Regulatory exposure |
-|---|---|---|---|---|---|---|---|---|
-| **Ethereum blobs (EIP-4844)** | Ethereum L1  native · KZG · target=6/max=9  (post-Pectra) | Ethereum PoS ~100万 validators · DAS (PeerDAS 2026-Q4) · attack cost $40B+ | $0.10-0.30 | ~6 GB/day (post-Pectra) · ~60 GB/day after Fusaka | ~12-15 min (2 epoch) | **95%+ ETH-aligned rollups**: Arbitrum · Optimism · Base · zkSync · Linea · Scroll · Taiko · Polygon zkEVM | Ethereum protocol governance (EIP/ACD) | Extremely low · Ethereum sufficiently decentralized consensus |
-| **Celestia** | Independent PoS · Cosmos SDK+Tendermint · DAS · 2D RS+KZG | ~100 validators · TIA staking ~$1-2B · strong DAS guarantee | **$0.02-0.05** (cheapest modular DA) | 2 MB/block 6s ≈ 28 GB/day · 2027 8 MB target | ~6s instant (Tendermint) | Manta Pacific · some Eclipse · some Polygon CDK · Astria · Movement · ~30+ chains | Celestia Foundation+TIA DAO | TIA SEC no statement · geo-fence US · MiCA undecided |
-| **EigenDA** | EigenLayer AVS · Dispatcher/Encoder/Validator · KZG+DAS | EigenLayer ~$6B opt-in (restaking) · slashing via EigenLayer · borrows ETH stake | $0.06-0.15 | **~15 MB/s sustained** (~100-500 GB/day in practice) | ~10-30s dispatcher + slashing window | Mantle · Movement · Cyber · Rivalz · ZK Stack hyperchains · some OP Stack · some Arbitrum Orbit | EigenLabs+EIGEN+SC | EIGEN SEC no statement · restaking is close to securities |
-| **Avail** | Independent DA chain · Substrate (Polkadot lineage) · Babe+Grandpa · KZG+DAS | ~150 validators · AVAIL staking ~$200-500M · EigenLayer hybrid planned | $0.04-0.08 | 2 MB/block 20s ≈ 8.6 GB/day · 4 MB upgrade ≈ 17 GB | ~30s-1min (Grandpa) | Some Polygon CDK · Sophon · QuarkChain · Madara · LumioVM | Avail Foundation+AVAIL DAO | AVAIL 2025 new launch · MiCA compliance priority |
-| **NEAR DA** | NEAR L1 module · sharded consensus · storage staking · EVM through bridge | NEAR ~250 validators · staking ~$1-2B · bridge security is additional surface | **$0.01-0.03** (cheapest) | Theoretical 100 MB/s · actual ~10-50 GB/day | ~2-3s (NEAR fast finality) | Some Caldera RaaS · OP Stack experiments · some Polygon CDK | NEAR Foundation+NEAR DAO | NEAR reviewed in multiple jurisdictions · moderate regulatory exposure |
+| DA Layer | Data-availability architecture | Source of security | Rollup integration boundary | Main operational trade-offs |
+|---|---|---|---|---|
+| **Ethereum blobs (EIP-4844)** | Blob-carrying transactions and KZG commitments; blob data is temporary while commitments remain in blocks | Ethereum consensus and blob fee market | Rollup batcher submits blobs to L1 and contracts refer to commitments | Uses the same trust boundary as Ethereum settlement, while capacity and price depend on the blob market |
+| **Celestia** | Dedicated DA network with namespaced data and data-availability sampling | Celestia consensus / validator set and sampling assumptions | Rollup posts data to Celestia and connects commitments / proofs to the settlement layer | Separates execution / settlement from DA, adding bridge and namespace configuration responsibilities |
+| **EigenDA** | Data dispersal and availability certificates through disperser / encoder / operators | Operators / delegation on EigenLayer and EigenDA contracts | Rollup sends blobs to a disperser and handles certificates in settlement logic | Requires checks of operator set, disperser availability, certificate verification and retention policy |
+| **Avail** | Dedicated DA chain with KZG commitments and data-availability sampling | Avail consensus and validator set | Rollup / sovereign application posts data and passes proofs / bridge output to settlement | Assumes responsibility for independent DA-chain finality, bridge and namespace / app ID configuration |
+| **NEAR DA** | Posts rollup data to NEAR and uses the NEAR network as a DA layer | NEAR consensus, data-publication and archival assumptions | Adapter / batcher posts to NEAR and the consumer handles inclusion / retrieval | Requires separate verification of NEAR-specific submission / retrieval paths and the settlement bridge |
+
+Sources: ^[https://ethereum.org/en/developers/docs/data-availability/] ^[https://docs.celestia.org/] ^[https://docs.eigenda.xyz/] ^[https://docs.availproject.org/] ^[https://near.org/blog/near-da]
+
 
 **How to read the matrix**:
 - **Cost ranking**: NEAR DA < Celestia < Avail < EigenDA < Ethereum blobs (blobs are most expensive but safest · NEAR is cheapest but has fewer customers)

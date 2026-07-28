@@ -1,12 +1,12 @@
 ---
 source: agent-economy/ap2-adoption
-source_hash: cb391e27df52c78c
+source_hash: 33712c3fdb8e66cb
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦"
-translated_at: 2026-06-26T08:27:56.297Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦
@@ -29,13 +29,15 @@ Google の4本柱の組み合わせ:**Google Pay(6 億 mobile ウォレットユ
 
 同時期プロトコルとの位置関係:
 
-| プロトコル | 主推進者 | ポジショニング | 決済層 |
+| Protocol | Public steward / specification | Stack 上の位置 | Payment semantics |
 |---|---|---|---|
-| **AP2** | Google | Agent → 加盟店認可決済 | Google Pay / card / USDC |
-| **MPP** | Microsoft | 加盟店側 API 標準 | マルチ |
-| **ACP** | Anthropic | Agent と commerce platform の対話 | Stripe / 汎用 |
-| **x402** | Cloudflare + Coinbase + AWS | HTTP 402 ステータスコード復活 | USDC on Base 優先 |
-| **A2A** | Linux Foundation | 汎用 agent 間通信(payment 含む) | プロトコル非依存 |
+| **AP2** | Google 主導の public AP2 repository と reference implementation | agent commerce における user intent、cart authorization、payment evidence | payment-method agnostic。adapter で card、bank rail、digital asset を接続できる |
+| **A2A** | Public Agent2Agent specification | agent discovery、task、message interoperability | 自ら payment を settle しない。AP2 が agent interaction を拡張できる |
+| **MCP** | Public Model Context Protocol specification | model / agent から tool、resource、prompt への access | 自ら payment rail を定義しない。paid tool は AP2 / x402 と組み合わせられる |
+| **x402 V2** | Public x402 specification / documentation | resource 向け HTTP-native payment negotiation | `PAYMENT-*` header が advertised scheme、network、asset から選択する |
+
+Sources: ^[https://github.com/google-agentic-commerce/AP2] ^[https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol] ^[https://a2a-protocol.org/latest/] ^[https://modelcontextprotocol.io/] ^[https://docs.x402.org/]
+
 
 ## 起源と進化四国大戦の構図は偶然ではない — 各大手は agent 経済が台頭した後、**agent-payment 標準を握る者が次世代 commerce gateway を握る** ことを認識している。Google は ウォレット+identity(自社の強み)に賭け、Microsoft は 加盟店 API に、Anthropic は commerce platform の対話に、Cloudflare/Coinbase/AWS は最下層の HTTP+stablecoin チャネルに賭けた([[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。Linux Foundation の A2A は中立 fallback である。
 

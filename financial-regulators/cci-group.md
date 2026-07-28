@@ -9,9 +9,9 @@ aliases:
   - "北國 FHD"
 domain: financial-regulators
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, bank-holding-company, hokkoku, digital-bank, stablecoin]
 status: active
@@ -48,6 +48,8 @@ The page matters because the rename is not only cosmetic. The official profile d
 | Listing | Tokyo Stock Exchange Prime, 7381 |
 | Core operating bank | [[regional-banks/hokkoku-bank|Hokkoku Bank]] |
 | Regulatory route | FSA bank holding-company list |
+
+Sources: ^[CCI Group company profile: https://www.ccig.co.jp/company/about/; CCI Group corporate site: https://www.ccig.co.jp/company/; FSA bank holding-company list: https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf.]
 
 The existing [[regional-banks/hokkoku-fhd|hokkoku-fhd]] page remains a historical / old-name bridge, but the current official-name route point here.
 

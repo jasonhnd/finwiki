@@ -9,9 +9,9 @@ aliases:
   - "監査審査会"
 domain: financial-regulators
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regulator, FSA, affiliated-body, audit, accounting, oversight]
 status: active
@@ -80,6 +80,8 @@ CPAAOB の検査・建議 → FSA Commissioner の処分判断 のフローで�
 | 倫理・自主規制 | 監督 | **規律 (Self-regulation)** |
 | 検査 | **権限を持つ** | 規律調査 |
 | 国際連携 | **IFIAR** | **IFAC** |
+
+Sources: ^[公認会計士・監査審査会 公式サイト: https://www.fsa.go.jp/cpaaob/; CPAAOB 検査・モニタリング: https://www.fsa.go.jp/cpaaob/kensa/index.html; 日本公認会計士協会: https://jicpa.or.jp/.]
 
 ## 5. ガバナンス上の位置
 

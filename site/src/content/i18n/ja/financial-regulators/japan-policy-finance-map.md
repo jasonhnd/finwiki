@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-policy-finance-map
-source_hash: 27ae54ac65611541
+source_hash: 3cbba3f44a3c7e9a
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の政策金融マップ"
-translated_at: 2026-06-02T14:25:12.424Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 日本の政策金融マップ
 
@@ -58,6 +58,9 @@ translated_at: 2026-06-02T14:25:12.424Z
 | 国内インフラ、GX、事業再編、大企業向けリスクマネー案件が長期資金を必要とする | [[financial-regulators/dbj|DBJ]] | DBJ は SME 向け政策信用よりも、開発銀行 / 成長資本 / 危機対応金融に近い。 |
 | 沖縄の借り手または地域開発プロジェクトが政策金融を必要とする | [[policy-finance/okinawa-development-finance-corp|ODFC]] | ODFC は沖縄固有の統合機関であり、機械的に本土 JFC へ振り分けてはならない。 |
 | 「この活動をどの法的権限が認めているのか」が論点 | [[financial-licenses/INDEX]] | 法務 / ライセンスページは、銀行、証券、保険、決済、暗号資産、特殊法人の制度を切り分ける。 |
+
+Sources: ^[This is a FinWiki use-case routing synthesis from each institution's official mandate: JFC https://www.jfc.go.jp/n/english/about/profile.html; JBIC https://www.jbic.go.jp/en/about/organization.html; DBJ https://www.dbj.jp/en/co/info/law.html; JICA https://www.jica.go.jp/english/about/basic/oda/index.html; NEXI https://www.nexi.go.jp/en/corporate/profile.html; JOGMEC https://www.jogmec.go.jp/english/about/overview.html; ODFC https://www.okinawakouko.go.jp/english/1678100259/.]
+
 
 ## JapanFG での意義
 

@@ -3,9 +3,9 @@ title: 日本銀行 (BoJ)
 aliases: ["BoJ", "Bank of Japan", "日銀", "日本銀行", "8301"]
 domain: financial-regulators
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, central-bank, monetary-policy, banker-of-banks, government-banker]
 status: active
@@ -56,7 +56,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | **1998-04-01** | **新日本銀行法 施行**（政策委員会発足、検査局廃止）|
 | 1999-02 | **ゼロ金利政策**（初）|
 | **2001-03** | **量的緩和政策（QE）導入**（世界初の本格的非伝統的金融政策）|
-| 2006-03 | QE 解除 → 短期金利 0.25% |
+| 2006-03 / 2006-07 | QE 解除 / 無担保コールレート誘導目標を 0.25% 前後へ引上げ |
 | 2008-09 | リーマンショック → 緊急流動性供給・社債等買入 |
 | 2010-10 | 包括的金融緩和（CME）開始 |
 | **2013-04** | **黒田東彦総裁就任 → 量的・質的金融緩和（QQE）開始**（マネタリーベース 2 倍化）|
@@ -70,6 +70,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | 2023-07 | YCC 弾力化（上限 1.0% 目途）|
 | **2024-03-19** | **マイナス金利・YCC 撤廃 → 短期金利 0-0.1%**（17 年ぶり利上げ）|
 | **2024-07-31** | **政策金利 0.25% への利上げ**（追加利上げ）|
+
+Sources: ^[日本銀行「沿革」: https://www.boj.or.jp/about/outline/history/index.htm; 「金融政策の枠組みの見直しについて」(2024-03-19): https://www.boj.or.jp/mopo/mpmdeci/state_2024/k240319a.htm; 2024 年金融政策決定会合公表資料一覧: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/index.htm.]
 
 ### 1) 通貨発行
 

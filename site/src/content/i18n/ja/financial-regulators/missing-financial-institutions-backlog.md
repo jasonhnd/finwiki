@@ -1,12 +1,12 @@
 ---
 source: financial-regulators/missing-financial-institutions-backlog
-source_hash: 20ab19512f2bde0e
+source_hash: e356beac5b8f7c83
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の未収載金融機関拡充バックログ"
-translated_at: 2026-06-26T08:32:07.551Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本の未収載金融機関拡充バックログ
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:07.551Z
 2. 信用金庫、信用協同組合、前払式支払手段発行者、ロングテールの FIEA 事業者など、非常に大きな母集団については、レジストリ / インデックスページを利用する。
 3. 非公開のコンテキストから会社ページを作成しないこと。すべてのページは、公開レジストリ、IR、開示、会社概要、年次報告書、協会一覧、または法令 / 政策文書から出典を辿れるものでなければならない。
 
-## 公式レジストリ・ベースライン
+## 公式レジストリの歴史的ベースライン（2026年5月 snapshot）
 
 | レジストリ | 公式件数 / 範囲 | 出典ルート | Wiki 上の取扱い |
 |---|---:|---|---|
@@ -44,6 +44,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | 第三者型前払式支払手段発行者 | 803 | FSA 前払式発行者 Excel | レジストリルートは [[payments/prepaid-payment-instrument-issuers-japan-index]] 経由で完了；単独ページは主要なウォレット / カード / 小売事業者に限る。 |
 | 信用購入 / カード事業者 | 241 包括信用購入あっせん業者、138 個別信用購入あっせん業者、275 クレジットカード番号等取扱契約締結事業者 | METI 割賦販売法一覧 | レジストリルートは [[payments/credit-purchase-card-operators-japan-index]] 経由で完了；単独ページはカード発行会社、アクワイアラー、PSP、および BNPL / 消費者信用事業者向け。 |
 
+Sources: ^[Historical May 2026 maintenance snapshot; do not treat the counts as current without rechecking the official registries. FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; METI credit-purchase registries: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
+
 ## Batch A：市場インフラを最優先
 
 これらは任意ではない。日本の資本市場の中核であり、現在は他のページ内の参照としてのみ登場している。
@@ -59,6 +62,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | `JapanFG/japan-securities-finance.md` | 日本証券金融 / JSF | 信用取引貸付、証券金融、信託銀行隣接。 |
 | [x] | `securities/japannext-securities.md` | ジャパンネクスト証券 | PTS / 代替的取引所。 |
 | [x] | `securities/osaka-digital-exchange.md` | 大阪デジタルエクスチェンジ / ODX | PTS + セキュリティトークン市場インフラ。 |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the official market-infrastructure entry points: JPX https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html; JASDEC https://www.jasdec.com/en/; JSCC https://www.jpx.co.jp/jscc/en/.]
+
 
 ## Batch B：銀行事業会社ページ多くの親 FG ページが存在するが、免許を受けた銀行事業会社には単独ページがない。事業会社に独立した公開開示、戦略的役割、免許境界、または市場上の重要性がある場合にのみ追加する。
 
@@ -84,6 +90,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | `JapanFG/01-bank.md` | 01銀行 | データ駆動型の中小企業向けデジタル銀行モデル。 |
 | [x] | `JapanFG/sbj-bank.md` | SBJ銀行 | 新韓銀行ジャパンの子会社。 |
 | [x] | `JapanFG/rcc.md` | 整理回収機構 / RCC | 銀行免許の特別サービサー / 整理回収主体。 |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA bank-license and bank-holding-company registries: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 
 ### B2. 欠落またはグループでのみカバーされている地方銀行
 
@@ -120,6 +129,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | `JapanFG/daiwa-asset-management.md` | 大和アセットマネジメント | 大和 AM プラットフォーム。 |
 | [x] | `JapanFG/sbi-asset-management.md` | SBIアセットマネジメント | SBI AM プラットフォーム。 |
 
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA financial-instruments operator registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
+
+
 ## Batch D：保険事業会社親保険 HD ページだけでは商品 / チャネル分析には不十分である。公開開示が存在する場合に事業会社を追加する。
 
 | Status | グループ | 作成または整合すべき機関 |
@@ -133,6 +145,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | 残りの正式名称の生命保険会社 D7 | [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]], [[life-insurers/dai-ichi-life-insurance|第一生命保険]], [[life-insurers/dai-ichi-neo-life|第一ネオ生命]], [[life-insurers/fukokushinrai-life|フコクしんらい生命]], [[life-insurers/pgf-life|PGF生命]], [[life-insurers/ms-primary-life|三井住友海上プライマリー生命]], [[life-insurers/midori-life|みどり生命]], [[life-insurers/meiji-yasuda-trust-life|明治安田トラスト生命]] |
 | [x] | 特殊損害保険の拡張 D8 | [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]], [[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]], [[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], [[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]] |
 | [x] | 特殊 / 外資系損害保険の拡張 D9 | [[non-life-insurers/american-home-insurance-japan|American Home]], [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Japan]], [[non-life-insurers/hs-insurance|HS Insurance]], [[non-life-insurers/cardif-nonlife|Cardif Non-Life]], [[non-life-insurers/capital-insurance|Capital Insurance]], [[non-life-insurers/sakura-insurance|Sakura Insurance]], [[non-life-insurers/ji-accident-fire-insurance|JI Accident & Fire]], [[non-life-insurers/zenkankyo-reiwa-insurance|Zenkankyo Reiwa]], [[non-life-insurers/chubb-insurance-japan|Chubb Japan]], [[non-life-insurers/rescue-insurance|Rescue Insurance]], [[non-life-insurers/hyundai-marine-fire-japan|Hyundai Marine & Fire Japan]] |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the insurance categories linked from the FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 
 ## Batch E：決済、カード、消費者信用、および送金
 
@@ -149,6 +164,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | クロスボーダー送金 E2 | [[payment-firms/wise-payments-japan|Wise Payments Japan]], [[payment-firms/revolut-technologies-japan|Revolut Japan]], [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd.]], [[payment-firms/payoneer-japan|Payoneer Japan]], [[payment-firms/western-union-japan|Western Union Japan]], [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex Japan]], [[payment-firms/airwallex-japan|Airwallex Japan]] |
 | [x] | ステーブルコイン / EPI 隣接 E3 | [[payment-firms/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade EPSP / USDC cross-link]], [[payment-firms/progmat|Progmat]] / [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]] リンクマップ |
 
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA payment-service registries and METI credit-purchase lists: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
+
 ## Batch F：暗号資産・デジタル資産のクリーンアップ取引所の名前空間は強固だが、現在の FSA 一覧には少なくとも 2 つの直接的に欠落した事業者がある。
 
 | Status | 対象ページ | 機関 | 注記 |
@@ -157,6 +175,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | `exchanges/jp-exchange-coinhub.md` | COINHUB | FSA 登録暗号資産交換業者。 |
 | [x] | `exchanges/INDEX.md` | 登録事業者の完全性テーブル | 全 27  の FSA 事業者と JVCEA 会員クラスを記す。 |
 | [x] | `exchanges/jp-exchange-sbi-vc-trade.md` | SBI VC Trade | EPSP / USDC 電子決済手段のクロスリンクを追加。 |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA crypto-asset and electronic-payment-instrument operator registries: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 
 ## Batch G：外国銀行支店およびグローバル金融機関現在の wiki はすでにいくつかの主要な米国 / 欧州の銀行をカバーしている。FSA 一覧には 57  の外国銀行支店が含まれるため、段階的なアプローチを用いる。
 
@@ -168,6 +189,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | P2  戦略的例外 | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream]], [[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]], [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]], [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]], [[foreign-financial-institutions/bank-of-india-japan|Bank of India]], [[securities-firms/anz-bank-japan|ANZ]] | ICSD / 担保 / 中国 / ASEAN / インド / 豪州・ニュージーランドのコリドー行を、レジストリのみから単独ページに昇格 |
 | [x] | P3  コリドー例外 | [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank]], [[foreign-financial-institutions/bank-negara-indonesia-japan|Bank Negara Indonesia]], [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank]], [[foreign-financial-institutions/metrobank-japan|Metrobank]], [[foreign-financial-institutions/banco-do-brasil-japan|Banco do Brasil]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank]], [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank]] | 豪州、インドネシア、フィリピン、ブラジル、台湾のコリドー行を、レジストリのみから単独ページに昇格 |
 | [x] | P4  レジストリのみのクローズ | [[foreign-financial-institutions/chang-hwa-bank-japan|彰化商業銀行]], [[foreign-financial-institutions/taishin-bank-japan|台新國際商業銀行]], [[foreign-financial-institutions/taiwan-business-bank-japan|台湾中小企業銀行]], [[foreign-financial-institutions/taiwan-cooperative-bank-japan|合作金庫商業銀行]], [[foreign-financial-institutions/national-bank-of-pakistan-japan|パキスタン・ナショナル銀行]], [[foreign-financial-institutions/ubaf-japan|ユバフーアラブ・フランス連合銀行]] | 残る 6  のレジストリのみの行を、簡潔な単独の支店 / コリドーページに昇格；[[foreign-financial-institutions/foreign-bank-branches-japan-index]] が現在、全 57  の FSA 行をルーティングする |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA foreign-bank branch registry: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf.]
+
 
 ## Batch H：協同組織・地域金融機関レジストリインデックスが存在するまでは、何百ものページを一つずつ作成しないこと。
 
@@ -201,6 +225,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | [x] | 各バッチごとに [[CHANGELOG|CHANGELOG]] を更新する。 | A/F、B1,、Batch J を JST 時刻、範囲、検証、残作業とともに記録。 |
 | [x] | 各バッチ後にルート [[INDEX|INDEX]] を再カウントする。 | B1 の後、ルートのドメインテーブル合計 = 538、ファイルシステム件数 = 538；Batch J は項目を追加しない。Wave-13  後のリフレッシュ（2026-05-25）：JapanFG のヘッドラインは現在 **620  エンティティ項目**、ファイルシステムの .md 件数 = **621**（INDEX / バックログ / 非エンティティのサーフェスを含む）。 |
 
+Sources: ^[Historical repository QA checklist. The completion marks record the May 2026 maintenance run and are not an assertion about current corpus counts.]
+
+
 ### Batch J QA スナップショット（2026-05-20）
 
 このテーブルはソース管理上のチェックポイントであり、最終的なカバレッジの主張ではない。`Machine match` は、現在の wiki タイトルとエイリアスからの完全一致 / エイリアス正規化の下限である。wiki が、法人名ページの代わりに親グループページ、外国銀行の日本アンブレラページ、またはインデックスルートを意図的に使用している箇所では、カバレッジを過小に表示する。
@@ -225,6 +252,9 @@ translated_at: 2026-06-26T08:32:07.551Z
 | 暗号資産交換業者 | 2026-04-01 | 27 | 23 | 手動の `exchanges/INDEX.md` 完全性テーブルが、Batch F 後の真実の情報源である。 | 完全一致のエイリアスを継続的に改善する；FSA の 27  一覧から、当面の単独ギャップはない。 |
 | 電子決済手段等取引業者 | 2025-03-04 | 1 | 1 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] 経由で完了。 | ステーブルコイン / EPI のクロスリンクを維持する。 |
 | 第三者型前払式発行者 | 2026-04-30 | 803 | 803 | レジストリルートは [[payments/prepaid-payment-instrument-issuers-japan-index]] 経由で完了；法域件数と主要な wiki ルートを修正、完全な行レベルの出典は FSA ワークブックのまま。 | FSA `daisan.xlsx` が変更されたらリフレッシュする；単独ページは主要なウォレット / カード / 小売の例外に限る。 |
+
+Sources: ^[Dated 2026-05-20 repository QA snapshot; official counts must be rechecked before reuse. FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; METI credit-purchase registries: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
 
 ## 推奨実行順序
 

@@ -24,9 +24,9 @@
     "domain": "systems",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "systems",
@@ -137,9 +137,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 25172,
-    "word_like_tokens": 4118,
+    "nonspace_chars": 24579,
+    "word_like_tokens": 3970,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-07-29"
   }
 }

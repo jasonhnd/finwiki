@@ -1,11 +1,11 @@
 ---
 source: agent-economy/agent-payment-protocol-four-way-comparison-2026
-source_hash: 48a01f3fdc6893ba
+source_hash: 5831ad91f7bbdebd
 lang: ja
 status: machine
 fidelity: ok
 title: "エージェント決済 Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP"
-translated_at: 2026-06-02T11:47:37.299Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # エージェント決済 Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
@@ -111,16 +111,19 @@ translated_at: 2026-06-02T11:47:37.299Z
 
 ## 大比較マトリクス表
 
-**四つの主要プロトコル + 二つの補助層にわたる六軸比較**(2026-Q2 ステータス):
+**四つの payment / commerce component と二つの authorization layer**。これらは交換可能な製品ではなく、組み合わせて使う layer である:
 
-| 観点 | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute mp)** | **ERC-7715 (補助)** | **Lit PKP (補助)** |
-|---|---|---|---|---|---|---|
-| **Transport** | HTTPS + W3C Verifiable Credential mandate chain | HTTP 402 + `X-Payment` headers | Card-rail REST API (Visa) | Smart-contract escrow + token-gated endpoint | ウォレット RPC `wallet_grantPermissions` | Lit-network threshold sign + Lit Actions JS |
-| **決済 asset** | アセット非依存 (Google Pay / card / USDC / bank rails) | **USDC stablecoin** on Base / Solana / EVM L2 | **Fiat 仮想カード** (主に USD;USDC トップアップ可能) | **Stablecoin compute credit** (USDC / Nevermined credit) | 該当なし (他の rail をゲートする) | 該当なし (任意のチェーンに署名する) |
-| **認可モデル** | OAuth ライクの VC mandate (Intent → Cart → Payment) | Delegated session key (ERC-7715 / 4337 / 7702) | Card issuance + bank-sponsored BIN | Token-gated escrow (NFT または ERC-20 access token) | ウォレット事前付与スコープ (cap + period + targets 付き) | Threshold MPC + Lit Action 内の runtime policy |
-| **Q1-Q2 2026 mainnet** | 60+ consortium · ~4 production pilots · AAIF 引き渡し 2026-Q2 | **Cloudflare GA Q1 + AWS GA Q2 · single-digit B req/mo · Vercel SDK · 10k+ Bazaar endpoints** | Series A · Visa パートナーシップライブ · low-tens-M USD annualized | ニッチな AI compute marketplace · 即時決済のため x402 を統合 | MetaMask + Coinbase Smart ウォレット + Safe ライブ · portability ギャップ | 成熟した mainnet · 自律 agent 向けの production key カストディ |
-| **Target 加盟店** | Web2 のエンタープライズ SaaS · card-network 小売業者 · 金融機関 | AI compute / API プロバイダ · DeFi ネイティブ · per-call HTTP サービス | **任意の Visa 受容マーチャント** (マーチャントは agent identity を認識しない) | AI compute プロバイダ · model inference · GPU レンタル · dataset アクセス | (任意) — ウォレット scope 層 | (任意) — key カストディ層 |
-| **規制モデル** | **Open-loop interop** — プラグ可能な決済、標準としての AAIF | **Open-loop crypto** — facilitator は大半の管轄で非規制 · 発行者に MiCA · GENIUS Act 保留中 | **Closed-loop card issuance** — bank-sponsored BIN · KYC / AML / PCI すべて対象 | **Crypto ネイティブの marketplace** — smart-contract プラットフォーム · DAO dispute | (なし — ウォレット機能) | (なし — key カストディ) |
+| Component | Protocol layer | 公開文書で確認できる interaction | Settlement position | Authorization / trust boundary |
+|---|---|---|---|---|
+| **AP2** | Agent-commerce authorization と evidence | Intent Mandate と Cart Mandate が signed / verifiable な transaction trail を形成 | payment-agnostic。card、bank rail、digital asset を接続できる | user / merchant mandate と選択した credential / payment provider |
+| **x402 V2** | HTTP-native payment negotiation | `402` と `PAYMENT-REQUIRED`、`PAYMENT-SIGNATURE`、`PAYMENT-RESPONSE` | scheme / network 依存であり、単一 token / chain に限定されない | client signer、resource server、任意の facilitator verification / settlement |
+| **Skyfire** | Managed agent identity / payment product | vendor API と product-specific な payment credential / control | 利用可能 rail と加盟店範囲は現行 Skyfire docs / contract で確認する | Skyfire account、issuer / payment partner、user policy、merchant terms |
+| **Nevermined** | AI-service discovery、plan、payment / access control | provider が AI service と payment plan を公開し、agent が access を取得・消費 | asset、credit、settlement behavior は選択した Nevermined plan / deployment に依存 | marketplace / smart contract と provider-defined service / refund terms |
+| **ERC-7715 Draft** | Wallet execution permission request | `wallet_requestExecutionPermissions`、query、revocation RPC | settlement asset はなく、別 rail の execution を gate する | wallet implementation と delegation manager が typed permission / rule を強制する |
+| **Lit PKP / Lit Actions** | Distributed signing と programmable policy | configured Lit Action / access condition を満たすと threshold network が署名 | それ自体に settlement asset はない | Lit network、PKP ownership、action code、external data dependency |
+
+Sources: ^[https://cloud.google.com/blog/products/ai-machine-learning/announcing-agent-payments-protocol-ap2] ^[https://docs.x402.org/core-concepts/http-402] ^[https://docs.skyfire.xyz/] ^[https://docs.nevermined.io/] ^[https://eips.ethereum.org/EIPS/eip-7715] ^[https://developer.litprotocol.com/]
+
 
 **マトリクスの読み方**:
 - 横にひとつのプロトコルの 6 軸プロフィールを見る · 縦に同じ軸での 4 プロトコルの差別化を見る

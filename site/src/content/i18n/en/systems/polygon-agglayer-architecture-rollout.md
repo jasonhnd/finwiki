@@ -1,11 +1,11 @@
 ---
 source: systems/polygon-agglayer-architecture-rollout
-source_hash: 4f9c8abdcc1f3863
+source_hash: 20bfbb557b8cfd6e
 lang: en
 status: machine
 fidelity: ok
 title: "Polygon AggLayer Architecture and 2024-2026  Rollout · CDK + Unified Bridge + ZK Aggregation"
-translated_at: 2026-06-01T04:15:40.166Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Polygon AggLayer Architecture and 2024-2026  Rollout · CDK + Unified Bridge + ZK Aggregation
@@ -111,14 +111,16 @@ AggLayer is not 1  release, but a **continuously iterated stack**. The rhythm of
 
 ## Competition with Other RaaS / Multichain Protocols
 
-| Viewpoint | Polygon CDK / AggLayer | OP Stack / Superchain | Arbitrum Orbit | zkSync ZK Stack | Eclipse / Solana family |
-|---|---|---|---|---|---|
-| Main prover / consensus | ZK (Plonk) + Pessimistic | Optimistic + Fault Proof | Optimistic + BoLD | ZK (Boojum) | SVM + Celestia |
-| Known deployed chain count | 5-10 active | 50+ (Base / OP / World / Zora / Mode, etc.) | 20+ (Xai / Sanko / DeGen, etc.) | 5-10 | 1-3 |
-| Flagship chain | (none) | Base | Arbitrum One | zkSync Era | Eclipse Mainnet |
-| Unified Bridge | Yes (AggLayer Unified Bridge) | No (each OP chain independent) | No (each Orbit chain independent) | Hyperchain shared bridge (roadmap) | Single-chain centered |
-| Shared sequencer | (none) | Planned (2026+) | (none) | (none) | (none) |
-| Top RaaS suppliers | Polygon Labs / Caldera | Conduit / Caldera / Alchemy | Conduit / Caldera / Alchemy | Matter Labs | (in-ecosystem self deployment) |
+| Stack / reference | Proof / settlement model | Shared interoperability model | Custom-chain boundary | Deployment checks |
+|---|---|---|---|---|
+| **Polygon CDK / AggLayer** | Connects the selected ZK / validium configuration of a CDK chain to settlement | AggLayer provides proof aggregation and a unified-bridge model | Depends on CDK configuration and the scope of the AggLayer connection | Prover, DA mode, bridge ownership and AggLayer version |
+| **OP Stack / Superchain** | Optimistic rollup stack and fault-proof system | Superchain standardization / interoperability components; check current releases for available scope | Chain operator configures sequencer, batcher and governance parameters | L1 contracts, fault-proof deployment, interoperability status and upgrade keys |
+| **Arbitrum Orbit** | Nitro-based custom L2 / L3; choices include Rollup / AnyTrust | Sharing among Orbit chains depends on the adopted bridge / messaging | Chain owner configures settlement, DA, gas token and governance | Parent chain, DA mode, validator / sequencer and bridge |
+| **ZK Stack** | ZK rollup / validium family and shared protocol components | Implementation status of shared bridge / interoperability follows current ZK Stack documentation | Chain-specific prover, DA and governance configuration | Proof system, DA, shared-bridge version and upgrade authority |
+| **Eclipse** | A single L2 architecture combining SVM execution, Ethereum settlement and external DA | Modular reference for comparison, not a general RaaS family | Depends on the boundary between the Eclipse operator and adopted components | Settlement bridge, DA, sequencer and SVM compatibility |
+
+Sources: ^[https://docs.polygon.technology/cdk/] ^[https://docs.polygon.technology/agglayer/] ^[https://docs.optimism.io/stack/getting-started] ^[https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction] ^[https://docs.zksync.io/zksync-protocol/rollup/overview] ^[https://docs.eclipse.xyz/]
+
 
 Polygon CDK's AggLayer is the only approach that positions **"unified bridge inside the stack"** as its core differentiation, but the excessive strength of OP Stack's network effect is the largest headwind.
 

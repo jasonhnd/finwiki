@@ -3,9 +3,9 @@ title: DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Av
 aliases: [data availability comparison 2026, celestia eigenda blobs avail near da, modular da layer matrix, da layer competition post-dencun, ethereum blob vs celestia, eigenda restaking-secured da, avail polkadot da, near da bridged rollup, da cost per gb-day 2026]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, matrix, data-availability, celestia, eigenda, ethereum-blob, avail, near-da, modular, rollup, eip-4844, dencun]
 status: active
@@ -143,15 +143,17 @@ DA layer は 2023-2024 時点では「rollup は自動的に Ethereum L1 calldat
 
 ## Big comparison matrix table
 
-**5 DA layer × 8 次元対照**(2026-Q2 状態):
+**5 DA layer の公開仕様対照**。価格、throughput、validator 数、採用数は変動するため live docs / telemetry で別途確認する:
 
-| DA Layer | アーキテクチャ | セキュリティモデル | Cost/GB-day | Throughput | Finality | 採用 rollup | ガバナンス | 規制エクスポージャ |
-|---|---|---|---|---|---|---|---|---|
-| **Ethereum blobs (EIP-4844)** | Ethereum L1 ネイティブ · KZG · target=6/max=9 (post-Pectra) | Ethereum PoS ~100万 validator · DAS (PeerDAS 2026-Q4) · 攻撃コスト $40B+ | $0.10-0.30 | ~6 GB/day (post-Pectra) · Fusaka 後 ~60 GB/day | ~12-15 min (2 epoch) | **95%+ ETH-aligned rollup**: Arbitrum · Optimism · Base · zkSync · Linea · Scroll · Taiko · Polygon zkEVM | Ethereum プロトコルガバナンス (EIP/ACD) | 極低 · Ethereum sufficiently decentralized 共識 |
-| **Celestia** | 独立 PoS · Cosmos SDK+Tendermint · DAS · 2D RS+KZG | ~100 validator · TIA staking ~$1-2B · DAS 強保証 | **$0.02-0.05** (最安 modular DA) | 2 MB/block 6s ≈ 28 GB/day · 2027 8 MB target | ~6s instant (Tendermint) | Manta Pacific · Eclipse 一部 · Polygon CDK 一部 · Astria · Movement · ~30+ chain | Celestia Foundation+TIA DAO | TIA SEC 未表態 · geo-fence US · MiCA 未裁定 |
-| **EigenDA** | EigenLayer AVS · Dispatcher/Encoder/Validator · KZG+DAS | EigenLayer ~$6B opt-in (restaking) · slashing 経由 EigenLayer · ETH stake 借用 | $0.06-0.15 | **~15 MB/s sustained** (~100-500 GB/day 実際) | ~10-30s dispatcher + slashing window | Mantle · Movement · Cyber · Rivalz · ZK Stack hyperchain · OP Stack 一部 · Arbitrum Orbit 一部 | EigenLabs+EIGEN+SC | EIGEN SEC 未表態 · restaking は securities に近い |
-| **Avail** | 独立 DA chain · Substrate (Polkadot 系)· Babe+Grandpa · KZG+DAS | ~150 validator · AVAIL staking ~$200-500M · EigenLayer hybrid 計画 | $0.04-0.08 | 2 MB/block 20s ≈ 8.6 GB/day · 4 MB アップグレード ≈ 17 GB | ~30s-1min (Grandpa) | Polygon CDK 一部 · Sophon · QuarkChain · Madara · LumioVM | Avail Foundation+AVAIL DAO | AVAIL 2025 新ローンチ · MiCA コンプライアンス優先 |
-| **NEAR DA** | NEAR L1 モジュール · sharded コンセンサス · storage staking · bridge 経由 EVM | NEAR ~250 validator · staking ~$1-2B · bridge セキュリティは追加 surface | **$0.01-0.03** (最安) | 理論 100 MB/s · 実際 ~10-50 GB/day | ~2-3s (NEAR fast finality) | Caldera RaaS 一部 · OP Stack 実験 · Polygon CDK 一部 | NEAR Foundation+NEAR DAO | NEAR 複数 jurisdiction 審査 · 中等規制エクスポージャ |
+| DA Layer | データ可用性アーキテクチャ | セキュリティの源泉 | Rollup integration boundary | 主な運用トレードオフ |
+|---|---|---|---|---|
+| **Ethereum blobs (EIP-4844)** | blob-carrying transaction と KZG commitment。blob data は一時的、commitment は block に残る | Ethereum consensus と blob fee market | rollup batcher が blob を L1 に提出し、contract は commitment を参照する | Ethereum settlement と同じ trust boundary を使える一方、容量と価格は blob market に依存 |
+| **Celestia** | namespaced data と data-availability sampling を持つ専用 DA network | Celestia の consensus / validator set と sampling assumptions | rollup が data を Celestia に投稿し、settlement layer へ commitment / proof を接続する | execution / settlement と DA が分離され、bridge と namespace 設定が追加責任になる |
+| **EigenDA** | disperser / encoder / operators による data dispersal と availability certificate | EigenLayer 上の operator / delegation と EigenDA contracts | rollup が blob を disperser に送り、certificate を settlement logic で扱う | operator set、disperser availability、certificate verification と retention policy を確認する |
+| **Avail** | KZG commitments と data-availability sampling を持つ専用 DA chain | Avail consensus と validator set | rollup / sovereign application が data を投稿し、proof / bridge を settlement 側へ渡す | 独立 DA chain の finality、bridge、namespace / app ID 設定を負う |
+| **NEAR DA** | rollup data を NEAR に投稿して NEAR network を DA layer として利用 | NEAR consensus、data publication と archival assumptions | adapter / batcher が NEAR へ投稿し、利用側が inclusion / retrieval を扱う | NEAR 固有の投稿・取得経路と settlement bridge を別途検証する |
+
+Sources: ^[https://ethereum.org/en/developers/docs/data-availability/] ^[https://docs.celestia.org/] ^[https://docs.eigenda.xyz/] ^[https://docs.availproject.org/] ^[https://near.org/blog/near-da]
 
 **マトリクスの読み方**:
 - **Cost 順位**:NEAR DA < Celestia < Avail < EigenDA < Ethereum blobs(blob 最高価だが最安全 · NEAR 最安だが顧客数小)

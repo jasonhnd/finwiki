@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/central-tanshi
-source_hash: c3f3795f4fa379d9
+source_hash: 782795b5a6882219
 lang: en
 status: machine
 fidelity: ok
 title: "Central Tanshi Co., Ltd."
-translated_at: 2026-05-31T11:13:44.895Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Central Tanshi Co., Ltd.
@@ -51,6 +51,9 @@ Japan **3 A short-term money market intermediary that is part of Daitanshi Compa
 | Bond brokerage | Buying and selling of national and local bonds | Including hand-to-hand transactions with the Bank of Japan |
 | FX for individuals | Central Tanshi FX (subsidiary) | Retail development for individuals, which is rare in the money market industry |
 | Online Finance | Central Tanshi Online | Digital Personal Financial Services |
+
+Sources: ^[セントラル短資 公式サイト: https://www.central-tanshi.com/; セントラル短資 FX 公式サイト: https://www.central-tanshifx.com/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm.]
+
 
 ### Role of tanshi companies
 

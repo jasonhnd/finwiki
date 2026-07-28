@@ -1,12 +1,12 @@
 ---
 source: agent-economy/crossmint-agent-sdk
-source_hash: e239366586682fe4
+source_hash: 9669590f6306cf1c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Crossmint エージェント SDK · AI エージェント向けの NFT とウォレット抽象化"
-translated_at: 2026-06-26T08:28:53.947Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Crossmint エージェント SDK · AI エージェント向けの NFT とウォレット抽象化
@@ -37,15 +37,17 @@ translated_at: 2026-06-26T08:28:53.947Z
 
 ## Crossmint vs Privy vs Dynamic vs Magic
 
-| 観点 | Crossmint | Privy | Dynamic | Magic |
+| 選定次元 | Crossmint | Privy | Dynamic | Magic |
 |---|---|---|---|---|
-| 当初の焦点 | NFT チェックアウト / コマース | コンシューマーアプリ向け埋込ウォレット | DeFi / Web3 向け埋込ウォレット | Magic-link 認証 + ウォレット |
-| 所有者 | 独立(非公開)| Stripe 子会社([[agent-economy/privy-embedded-wallet-overview|see entry]])| 独立 | 独立(Magic-Labs 後の時代)|
-| マルチチェーンの幅 | 広い(EVM + Solana + Aptos + Sui + Cardano)| EVM 中心 + Solana | EVM + Solana | EVM + Bitcoin + Solana |
-| 法定通貨オンランプ内蔵 | あり(カード / Apple Pay ネイティブ)| パートナー経由 | パートナー経由 | パートナー経由 |
-| NFT プリミティブ | ネイティブ | 汎用 | 汎用 | 汎用 |
-| サーバーサイドのエージェントウォレット | あり | あり(App ウォレット経由)| あり | あり |
-| エンタープライズ営業の動き | 強い(NFT ブランド、ゲーミング)| 強い(Stripe チャネル)| 強い(DeFi)| 中程度 |
+| **公開 product surface** | Wallet、payment / checkout、tokenization API | Embedded / server wallet と authorization control | Wallet / identity orchestration と embedded wallet | Wallet SDK と authentication / wallet infrastructure |
+| **Chain support** | wallet / API product ごとに current Crossmint support matrix を確認 | current chain / wallet-type support を確認 | current chain / connector support を確認 | current chain / wallet-product support を確認 |
+| **Fiat funding / checkout** | first-party Crossmint checkout / payment docs が supported flow を定義 | product / partner availability と jurisdiction を確認 | product / partner availability を確認 | product / partner availability を確認 |
+| **Token / NFT operation** | dedicated tokenization / minting API を公開 | product が別途示さない限り general wallet transaction capability であり app が contract logic を提供 | general wallet transaction capability であり app が contract logic を提供 | general wallet transaction capability であり app が contract logic を提供 |
+| **Server / agent use** | server-wallet API、authorization、policy model を確認 | server-wallet ownership、signer、policy configuration を確認 | server-wallet / delegated signing product docs を確認 | server-wallet / delegated signing product docs を確認 |
+| **Custody / recovery** | 選択 configuration の key ownership、export、recovery、operator role を特定 | 同左 | 同左 | 同左 |
+
+Sources: ^[https://docs.crossmint.com/] ^[https://docs.privy.io/] ^[https://docs.dynamic.xyz/] ^[https://magic.link/docs/home/welcome]
+
 
 Crossmint の **ニッチ** は、NFT ミント + 法定通貨購入 + マルチチェーンのすべてを一体に縫い合わせることを必要とするエンタープライズ / ブランド顧客である。AI エージェントに当てはめると、これは以下のようなユースケースに対応する:
 

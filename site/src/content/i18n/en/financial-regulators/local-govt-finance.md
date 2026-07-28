@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/local-govt-finance
-source_hash: 8d4c4a3c5a567622
+source_hash: 270042ce66da8bc3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Finance Organization for Municipalities (JFM)"
-translated_at: 2026-06-18T23:59:13.080Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Japan Finance Organization for Municipalities (JFM)
@@ -70,6 +70,9 @@ A **local joint corporation** specializing in long-term lending to local governm
 | 2018-07 | Western Japan torrential rain → disaster-recovery lending response |
 | 2019-10 | Typhoon Hagibis (Reiwa 1 East Japan typhoon) → disaster-recovery lending response |
 | **2024-01-01** | **Noto Peninsula earthquake** → disaster-recovery lending response ^[extracted]
+
+Sources: ^[地方公共団体金融機構「プロフィール・沿革」: https://www.jfm.go.jp/about/overview/profile.html; 同「復興支援相談」: https://www.jfm.go.jp/support.html; 同「貸付対象事業・条件一覧」: https://www.jfm.go.jp/financing/loan/index.html.]
+
 
 ## 3. Business segment map
 

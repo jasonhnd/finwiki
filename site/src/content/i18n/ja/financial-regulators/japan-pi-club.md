@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-pi-club
-source_hash: 7403a7a8dbfdabdb
+source_hash: 57c3a7fe4948736b
 lang: ja
 status: machine
 fidelity: ok
 title: "日本船主責任相互保険組合"
-translated_at: 2026-06-02T14:25:12.416Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本船主責任相互保険組合
@@ -28,6 +28,9 @@ translated_at: 2026-06-02T14:25:12.416Z
 | 会員構成 | 外航船社（日本郵船・商船三井・川崎汽船等）+ 内航船社 + 漁船・小型船社 |
 | 国際上の階層 | International Group of P&I Clubs（IG）正会員 |
 | Wiki 上の役割 | 日本唯一の P&I 相互海上保険者アンカー |
+
+Sources: ^[Japan P&I Club official site: https://www.piclub.or.jp/; International Group member-club list: https://www.igpandi.org/clubs; Shipowners' Mutual Insurance Association Act: https://laws.e-gov.go.jp/law/325AC0000000177.]
+
 
 ## 2. 事業ライン
 

@@ -7,9 +7,9 @@ aliases:
   - "Crossmint NFT agent"
 domain: "agent-economy"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, wallet, crossmint, embedded-wallet, nft, agent-sdk, privy, dynamic, magic]
 status: active
@@ -18,6 +18,9 @@ sources:
   - "https://docs.crossmint.com/"
   - "https://github.com/crossmint"
   - "https://blog.crossmint.com/"
+  - "https://docs.privy.io/"
+  - "https://docs.dynamic.xyz/"
+  - "https://magic.link/docs/home/welcome"
 ---
 
 # Crossmint agent SDK · NFT and wallet abstraction for AI agents
@@ -47,15 +50,16 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Crossmint vs Privy vs Dynamic vs Magic
 
-| Dimension | Crossmint | Privy | Dynamic | Magic |
+| Selection dimension | Crossmint | Privy | Dynamic | Magic |
 |---|---|---|---|---|
-| Original focus | NFT checkout / commerce | Embedded wallet for consumer apps | Embedded wallet for DeFi / Web3 | Magic-link auth + wallet |
-| Owner | Independent (private) | Stripe subsidiary ([[agent-economy/privy-embedded-wallet-overview|see entry]]) | Independent | Independent (post-Magic-Labs era) |
-| Multi-chain breadth | Broad (EVM + Solana + Aptos + Sui + Cardano) | EVM-heavy + Solana | EVM + Solana | EVM + Bitcoin + Solana |
-| Fiat onramp built-in | Yes (card / Apple Pay native) | Via partners | Via partners | Via partners |
-| NFT primitive | Native | Generic | Generic | Generic |
-| Server-side agent wallet | Yes | Yes (via App Wallets) | Yes | Yes |
-| Enterprise sales motion | Strong (NFT brands, gaming) | Strong (Stripe channel) | Strong (DeFi) | Mid |
+| **Public product surface** | Wallets, payments / checkout and tokenization APIs | Embedded / server wallets and authorization controls | Wallet / identity orchestration and embedded wallets | Wallet SDK and authentication / wallet infrastructure |
+| **Chain support** | Check the current Crossmint support matrix per wallet / API product | Check current chain and wallet-type support | Check current chain and connector support | Check current chain and wallet-product support |
+| **Fiat funding / checkout** | First-party Crossmint checkout / payments documentation defines supported flows | Product / partner availability and jurisdiction must be verified | Product / partner availability must be verified | Product / partner availability must be verified |
+| **Token / NFT operation** | Dedicated tokenization / minting APIs are documented | General wallet transaction capability; app supplies contract logic unless a product says otherwise | General wallet transaction capability; app supplies contract logic | General wallet transaction capability; app supplies contract logic |
+| **Server / agent use** | Verify server-wallet API, authorization and policy model | Verify server-wallet ownership, signer and policy configuration | Verify server-wallet / delegated signing product documentation | Verify server-wallet / delegated signing product documentation |
+| **Custody / recovery** | Determine key ownership, export, recovery and operator roles for the selected configuration | Same | Same | Same |
+
+Sources: ^[https://docs.crossmint.com/] ^[https://docs.privy.io/] ^[https://docs.dynamic.xyz/] ^[https://magic.link/docs/home/welcome]
 
 The Crossmint **niche** is enterprise / brand customers who need: NFT mint + fiat purchase + multi-chain — all stitched together. For AI agents, this maps to use cases like:
 

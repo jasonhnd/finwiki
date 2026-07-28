@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/payment-license-stack
-source_hash: c0c768134f7f2966
+source_hash: 2d5897cc8006651c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan payment license stack"
-translated_at: 2026-06-18T23:59:13.127Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Japan payment license stack
@@ -30,6 +30,9 @@ This page belongs to [[financial-licenses/INDEX|JapanFG legal / financial licens
 | Merchant PSP / acquiring | Merchant-contracting / PSP / card acquiring route | Installment Sales Act, card rules, service terms | Depends on role | [[payments/card-acquiring-japan-stack]], [[payments/psp-merchant-settlement-risk]] |
 | Bank-account direct payment | Bank Pay / J-Debit / Cotra / bank direct debit route | Network / scheme / bank-account route | Participant and scheme route | [[payments/account-to-account-payment-japan]] |
 
+Sources: ^[Payment Services Act: https://laws.e-gov.go.jp/law/421AC0000000059; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA funds-transfer route: https://www.fsa.go.jp/common/shinsei/shikinidou.html; FSA prepaid-payment hub: https://www.fsa.go.jp/policy/prepaid/index.html; METI credit-purchase registry: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
+
 ## Funds Transfer Route
 
 The funds-transfer route is a Payment Services Act registration category for non-bank remittance. FSA materials identify the current three-type structure:
@@ -39,6 +42,9 @@ The funds-transfer route is a Payment Services Act registration category for non
 | Type I | Route for transfer needs above JPY 1 million | Higher-value funds-transfer category. |
 | Type II | Legacy core funds-transfer category | Main non-bank remittance / wallet-transfer category. |
 | Type III | Lower-value transfer route | Low-value transfer category. |
+
+Sources: ^[Payment Services Act: https://laws.e-gov.go.jp/law/421AC0000000059; FSA funds-transfer application and operator-list routes: https://www.fsa.go.jp/common/shinsei/shikinidou.html; https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf.]
+
 
 Public verification uses the FSA funds-transfer page, FSA funds-transfer list, entity terms, and registration number. The balance is not recorded as a bank deposit unless the product terms and legal entity identify a licensed bank deposit route.
 
@@ -52,6 +58,9 @@ The prepaid route is a Payment Services Act route for stored value. The main pub
 | Third-party prepaid instrument | Stored value can be used with third-party merchants or services under the instrument route. | FSA third-party prepaid issuer list and service terms. |
 | Self-use threshold field | FSA Q&A states that a self-use issuer has filing duties once unused balance exceeds JPY 10 million on the base date. | FSA FinTech Support Desk Q&A and issuer records. |
 | Third-party approval field | Third-party prepaid issuer route uses prior registration. | FSA third-party prepaid issuer list. |
+
+Sources: ^[FSA prepaid-payment hub: https://www.fsa.go.jp/policy/prepaid/index.html; FSA third-party prepaid issuer list: https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf; FSA Q&A on self-use prepaid instruments: https://www.fsa.go.jp/access/r2/213.html.]
+
 
 The prepaid route is a merchant-payment / stored-value route. It is separate from general remittance unless another route, such as funds transfer, is also present.
 
@@ -72,6 +81,9 @@ The Banking Act side uses `電子決済等取扱業` for bank-commissioned elect
 | Stablecoin payment | EPI transaction route, electronic payment handling route, issuer / trust / bank classification, wallet or exchange registration where applicable. |
 | BaaS deposit wallet | Licensed bank, partner UI, bank agency or electronic payment agency route where disclosed. |
 
+Sources: ^[This is a FinWiki product-to-regime routing table derived from the FSA payment, prepaid, EPI, and electronic-payment-handling routes: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/policy/prepaid/index.html; https://www.fsa.go.jp/policy/virtual_currency02/; https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
+
 ## Public Record Fields
 
 | Field | Source route |
@@ -86,6 +98,9 @@ The Banking Act side uses `電子決済等取扱業` for bank-commissioned elect
 | Balance type | Deposit, prepaid balance, funds-transfer balance, credit receivable, electronic payment instrument, or bank deposit claim. |
 | Merchant route | Acquirer, PSP, payment facilitator, Bank Pay / J-Debit route, or scheme route. |
 | User protection / segregation | Regulator guidance, terms, and disclosure documents. |
+
+Sources: ^[FSA licensed-operator portal and role-specific registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/shikinidou.html; https://www.fsa.go.jp/policy/prepaid/index.html; METI credit-purchase registry: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
 
 ## JapanFG Operator Links
 

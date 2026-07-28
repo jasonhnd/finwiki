@@ -1,12 +1,12 @@
 ---
 source: trade/incoterms-2020-trade-terms-framework
-source_hash: 53ac46c0c66ecbbd
+source_hash: af3785c0c19b6db0
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Incoterms 2020 — ICC の貿易条件の枠組み"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Incoterms 2020 — ICC の貿易条件の枠組み
 
@@ -36,6 +36,9 @@ Incoterms が**しない**ことも同じく重要である。それらは売買
 | DPU | 荷卸込持込渡し | 指定地で売主によって荷卸しされたとき |
 | DDP | 関税込持込渡し | 仕向地で、売主が輸入関税／清算を負担する |
 
+Sources: ^[ICC Incoterms 2020 official overview: https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/; U.S. International Trade Administration Incoterms guide: https://www.trade.gov/know-your-incoterms.]
+
+
 ### 海上および内陸水路のみ向け
 
 | 規則 | 名称 | リスク移転（おおまかに） |
@@ -44,6 +47,9 @@ Incoterms が**しない**ことも同じく重要である。それらは売買
 | FOB | 本船渡し | 物品が指定港で本船上にあるとき |
 | CFR | 運賃込み | 本船上。売主が仕向港までの運賃を支払う |
 | CIF | 運賃保険料込み | CFR と同じく、加えて売主が保険を購入する（2020 では最低カバー） |
+
+Sources: ^[ICC Incoterms 2020 official overview: https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/; ICC Academy summary of the 2020 rules: https://academy.iccwbo.org/incoterms/article/incoterms-2020-vs-2010-whats-changed/.]
+
 
 繰り返される実務上の誤りは、内陸ターミナルで引き渡されるコンテナ貨物に海上専用条件（FOB、CIF）を使うこと — そこでは **FCA / CIP** が正しい規則である。なぜなら売主はコンテナが本船の船側に達する前にその支配を失うからである。
 

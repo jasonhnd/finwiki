@@ -3,9 +3,9 @@ title: ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の 
 aliases: [zk-evm rollup maturity matrix 2026, zk rollup comparison 2026, polygon zksync starknet scroll linea taiko matrix, zk-evm proving system tvl da decentralization comparison, ethereum l2 zk rollup landscape 2026]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, matrix, zk-evm, rollup, ethereum, l2, polygon, zksync, starknet, scroll, linea, taiko, kakarot, miden, immutable, agglayer]
 status: active
@@ -231,19 +231,21 @@ ZK-EVM rollup は 2023-2025 年に集中的にメインネット稼働した後 
 
 ## Big comparison matrix table
 
-**9 個の ZK-EVM / ZK-rollup × 9 軸対照**(2026-Q2 状態):
+**9 個の ZK execution project の公開アーキテクチャ対照**。proof time、gas、TVL、dApp 数、decentralization stage は live telemetry / contracts なしに固定値で比較しない:
 
-| Rollup | EVM Type | Proving System | Proof Time | Gas Cost | TVL May 2026 | Mainnet Maturity | Seq/Prover Decentralization | Ecosystem | DA Layer |
-|---|---|---|---|---|---|---|---|---|---|
-| **Polygon zkEVM / AggLayer** | Type 2.5(target Type 1)| Plonky2/3(STARK→SNARK) | 5-10 分 | sub-cent | $800M | 2023-03 · Stage 1 | Seq 中央集権 · Prover 5 社ネットワーク · 7d timelock + SC 7/13 | ~150 dApp · QuickSwap · Polygon ID · Franklin Templeton pilot | L1 blobs + Validium モード · AggLayer unifier |
-| **zkSync Era** | Type 4(zkSolc) | Boojum(STARK+FRI) | 10-15 分 | sub-cent($0.001-0.005)· AA native | $2.0B | 2023-03 · Stage 1 | Seq 中央集権 · Prover Matter Labs+1-2 · 21d timelock + SC 9/15 | ~250 dApp · SyncSwap · Aave · Argent · ZK Stack hyperchains | L1 blobs · Validium ("zkPorter") 延期 · hyperchains は EigenDA/Celestia を選択可 |
-| **StarkNet** | Type 4(Cairo native · Solidity via Kakarot) | Cairo-STARK(ネイティブ · 耐量子) | 30-60 分 | $0.01-0.1 | $650M | 2021-11 alpha · 2023 v0.13 · Stage 1 一部 | Seq 中央集権 · Prover SDK 開放 · Foundation+STRK 治理 | ~120 dApp · Ekubo · ZkLend · Visa Aeon · Provenance pilot | L1 blobs + Volition モード + EigenDA 探索中 |
-| **Scroll** | Type 2(99% bytecode-equivalent) | Halo2 + PSE-zkEVM · multi-proof agg | 15-25 分 | sub-cent($0.005-0.02) | $700M | 2023-10 · Stage 1 | Seq 中央集権 · Prover サードパーティ beta · 7d timelock + SC | ~180 dApp · Aave/Uni/Pendle/GMX · Scroll Canvas | L1 blobs only(validium しない明示) |
-| **Linea (Consensys)** | Type 2 | zk-SNARK custom(VK2.0/3.0 · Vortex+Arcane) | 10-20 分 | sub-cent($0.002-0.01) | $1.2B | 2023-07 · Stage 1 | Seq 中央集権 · Prover Consensys+SDK · 7d timelock + SC | ~200 dApp · MetaMask 統合 · Aave/Uni/OKX | L1 blobs only(all on-chain スタンス) |
-| **Taiko** | Type 1(bit-for-bit EVM) | Halo2(SGX+ZK)· SP1/Risc Zero/Aligned 3 方 | 20-40 分 | $0.01-0.05 | $350M | 2024-05 メインネット · Stage 1 進化中 | **Based rollup · Seq は L1 proposer 借用 · Permissionless prover market · 7d timelock** | ~80 dApp · Ethereum-native fork · Vitalik 推奨 based rollup | L1 blobs(based rollup は L1 DA 必須) |
-| **Kakarot** | Type 4(EVM on Cairo on StarkNet) | StarkNet Cairo-STARK 借用 | ~30-60 分(StarkNet 借用) | StarkNet よりやや高い | $15M | 2024 Q4 beta · production-grade ではない | StarkNet 借用 · Kakarot チーム主導 | ~10-20 dApp · 実験的 deploy | StarkNet 借用(L1 blobs + Volition + EigenDA 探索) |
-| **Polygon Miden** | 非 EVM(MASM · EVM transpiler early) | Miden VM(Winterfell STARK)· **クライアント prover** | ユーザーローカル 1-30s · L1 batch 10-20 分 | sub-cent(prove ローカル) | $30M | 2024 testnet · 2026 メインネット beta | Seq 中央集権 · **Prover ユーザー自己 prove(自然に分散化)** | ~10 dApp · プライベート支払い/DeFi 実験 | Miden P2P 自社 DA · Celestia/EigenDA 探索 · AggLayer 接続 |
-| **ImmutableX zkEVM** | Type 2(Polygon zkEVM stack ベース) | Plonky2(Polygon 借用) | 10-20 分 | NFT gas-free 補助 · その他 sub-cent | $280M(NFT-heavy) | 2024 Q1 zkEVM メインネット · 以前 StarkEx | Seq 中央集権(ゲーム位置づけ)· Prover Polygon 借用 · 7d timelock | **gaming に特化** · 80+ ゲーム:Illuvium/Gods Unchained/Guild | L1 blobs + 一部 NFT metadata validium |
+| Project | Execution compatibility | Publicly documented proof model | Settlement / DA boundary | Sequencing / proving boundary | Maturity を判断する証拠 |
+|---|---|---|---|---|---|
+| **Polygon zkEVM / AggLayer** | EVM-oriented zkEVM。AggLayer / CDK は別 layer として区別 | Polygon zkEVM / CDK の proof pipeline と AggLayer proof aggregation | chain の Ethereum settlement / DA と AggLayer bridge model | sequencer、prover、bridge、upgrade roles を product ごとに確認 | current product status、verified contracts、proof publication、bridge docs |
+| **zkSync Era** | EraVM。Solidity / Vyper は ZK Stack toolchain で compile | ZK Stack / Era の proving system | Ethereum settlement と chain-specific DA configuration | sequencer、prover、governance / emergency controls | current protocol version、proof status、bridge、DA mode |
+| **Starknet** | Cairo VM native。EVM bytecode compatibility とは分けて評価 | Cairo / STARK-based proving | Ethereum settlement と Starknet data-availability modes | sequencer / prover roadmap と governance を current docs で確認 | mainnet docs、proof verification、DA mode、upgrade contracts |
+| **Scroll** | EVM-compatible zkEVM | Scroll proving pipeline | Ethereum settlement / data posting | sequencer、prover、bridge、upgrade roles | verified contracts、proof status、bridge and security docs |
+| **Linea** | EVM-oriented ZK rollup | Linea prover / proof system as documented by current release | Ethereum settlement / data posting | sequencer、prover、bridge、upgrade roles | current architecture、proof status、contracts、security controls |
+| **Taiko** | Ethereum-equivalent / based-rollup design | multi-proof / contestation design according to current Taiko protocol | Ethereum settlement / DA | Ethereum proposers participate in ordering; prover / guardian details require current docs | protocol version、proof / contest rules、bridge、upgrade authority |
+| **Kakarot** | Cairo 上の EVM implementation | Starknet / Cairo proof boundary を継承 | deployment target に依存 | project / host network の sequencer、prover、upgrade boundary | production status、deployed contracts、host-network assumptions |
+| **Miden** | Miden VM nativeであり、ZK-EVM と同一分類ではない | client-side proving を中心とする Miden proof model | Miden network の state / data model | client proving、operator / network roles を current docs で確認 | network stage、client / node releases、bridge and data docs |
+| **Immutable zkEVM** | gaming-oriented EVM chain built with Polygon technology | adopted Polygon CDK / proof configuration に依存 | Ethereum / Polygon stack と chain-specific DA / bridge configuration | Immutable operator と adopted stack の roles | current network status、chain docs、bridge、proof / DA configuration |
+
+Sources: ^[https://polygon.technology/agglayer] ^[https://docs.zksync.io/] ^[https://docs.starknet.io/] ^[https://docs.scroll.io/] ^[https://docs.linea.build/] ^[https://docs.taiko.xyz/] ^[https://docs.kakarot.org/] ^[https://0xmiden.github.io/miden-docs/] ^[https://docs.immutable.com/]
 
 **マトリクスの読み方**:
 - **EVM equivalence vs proving cost tradeoff**:Type 1(Taiko)が最も高価だが完璧な互換性 · Type 4(zkSync · StarkNet · Kakarot)が最も安価だが dev tooling 対応が必要

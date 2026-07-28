@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/foreign-bank-branch-license-route
-source_hash: 6bc3ed845eb86a22
+source_hash: be72f6b6dcee94ea
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国銀行支店免許ルート"
-translated_at: 2026-06-26T08:32:07.546Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 日本における外国銀行支店免許ルート
 # Japan foreign-bank branch license route
@@ -25,6 +25,9 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 | 駐在員事務所 | 銀行免許に基づく活動を伴わないマーケティング・連絡拠点。 | FSA一覧にない限り銀行支店として扱わない。 |
 | 証券会社・FIBO | ブローカレッジ、引受、デリバティブ、証券業務。 | [[financial-licenses/securities-license-stack|securities license stack]]. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf.]
+
+
 ## 監督上の焦点
 
 | 焦点 | 公開情報上の意味 |
@@ -35,6 +38,9 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 | リスク管理 | 流動性、信用、市場、オペレーショナル、アウトソーシング、ブッキングモデルの管理は支店に適合していなければならない。 |
 | 母国・受入国監督の連携 | FSA は外国本店および母国監督当局と連携する場合がある。 |
 | 開示上の明確性 | 支店、子会社、駐在員事務所、証券会社を混同してはならない。 |
+
+Sources: ^[FSA comprehensive supervisory guideline for major banks, including foreign-bank branches: https://www.fsa.go.jp/common/law/guide/city/06.html; FSA materials on foreign-bank branch regulation: https://www.fsa.go.jp/news/25/ginkou/20140626-5.html.]
+
 
 ## Strategic Foreign-Bank P2 Exceptions
 
@@ -56,6 +62,9 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 | 外国銀行が信託・カストディエンティティを持つ | カストディが中核機能の場合は [[banking/japan-trust-bank-custody-map|trust-bank カストディ map]] へリンクする。 |
 | 日本子会社銀行 | 外国銀行支店ではなく、日本の免許銀行エンティティとして扱う。 |
 | 代理関係 | FSA の外国銀行代理銀行一覧を確認し、直接の支店免許とは別に記録する。 |
+
+Sources: ^[FSA licensed-operator portal and the separate foreign-bank / agency registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf.]
+
 
 ## 調査チェックリスト
 

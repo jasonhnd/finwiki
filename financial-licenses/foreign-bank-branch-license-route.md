@@ -7,9 +7,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, legal, banking, foreign-bank-branch, license, supervision]
 status: active
@@ -42,6 +42,8 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 | Representative office | Marketing / liaison presence without banking-license activity. | Do not treat as bank branch unless in FSA list. |
 | Securities company / FIBO | Brokerage, underwriting, derivatives, or securities business. | [[financial-licenses/securities-license-stack|securities license stack]]. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf.]
+
 ## Supervision Focus
 
 | Focus | Public relevance |
@@ -52,6 +54,8 @@ Use this page with [[foreign-financial-institutions/foreign-bank-branches-japan-
 | Risk management | Liquidity, credit, market, operational, outsourcing, and booking-model controls must fit the branch. |
 | Home-host coordination | FSA may coordinate with foreign head office and home supervisors. |
 | Disclosure clarity | Branch, subsidiary, representative office, and securities company must not be conflated. |
+
+Sources: ^[FSA comprehensive supervisory guideline for major banks, including foreign-bank branches: https://www.fsa.go.jp/common/law/guide/city/06.html; FSA materials on foreign-bank branch regulation: https://www.fsa.go.jp/news/25/ginkou/20140626-5.html.]
 
 ## Strategic Foreign-Bank P2 Exceptions
 
@@ -73,6 +77,8 @@ Most long-tail foreign-bank branch rows can stay registry-only, but promote a st
 | Foreign bank has a trust / custody entity | Link to [[banking/japan-trust-bank-custody-map|trust-bank custody map]] when custody is the core function. |
 | Japan subsidiary bank | Treat as a Japanese licensed bank entity, not a foreign bank branch. |
 | Agency relationship | Check FSA foreign-bank agency-bank list and record separately from direct branch license. |
+
+Sources: ^[FSA licensed-operator portal and the separate foreign-bank / agency registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf.]
 
 ## Research Checklist
 

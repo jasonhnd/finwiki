@@ -1,12 +1,12 @@
 ---
 source: systems/cross-chain-bridge-security-insurance-matrix-2026
-source_hash: b94644099a7c3cf4
+source_hash: 1daf5cfcb54d3f10
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコルの信頼モデル / ハック履歴 / カバレッジ全景"
-translated_at: 2026-06-26T08:28:53.977Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコルの信頼モデル / ハック履歴 / カバレッジ全景
@@ -232,24 +232,27 @@ translated_at: 2026-06-26T08:28:53.977Z
 
 ## 大型比較マトリクス表
 
-**14 プロトコル × 7 次元対照**(2026-Q2 状態):
+**14 プロトコルの公開セキュリティ境界対照**。保険金額、監査済み範囲、事故の不存在、補償可能性は、各時点の契約と報告を確認せずに断定しない:
 
-| プロトコル | 信頼モデル | バリデータのセキュリティ予算 | 過去のハック | 保険 | 監査会社 | 復旧プロセス |
-|---|---|---|---|---|---|---|
-| **CCTP V2** | Native burn-mint · Circle attester | Circle reputation + compliance moat · チェーン上 stake なし | None(2023-06+ ~$0)| Lloyd's via Coincover · NM USDC depeg cover | OpenZeppelin · Halborn · ChainSecurity · SOC2 Type II | Circle 凍結 + Mint OTC 補償 |
-| **Hyperlane** | Permissionless ISM(multisig/EigenLayer/ZK/optimistic)| ISM 依存 · EigenLayer ISM ~$1B+ | None(2024-07+ ~$0 protocol-level)| Sherlock ~$5M · NM 一部 | Trail of Bits · Zellic · OpenZeppelin · CertiK · Cantina | App 自定 · Foundation が大手顧客調整 |
-| **LayerZero v2** | DVN M-of-N(LayerZero/Google/Polyhedra default)| DVN 設定コスト N 依存 · Polyhedra ZK stake | None protocol-level(2022+ ~$0)· 2024 DVN bug 損失なし | NM ~$15M · Sherlock · InsurAce · Stargate insurance fund | Zellic · Trail of Bits · Spearbit · Quantstamp · OpenZeppelin | App 自定 · Stargate insurance fund が先に賠償 |
-| **Wormhole** | 19-of-19 Guardian + 2024 ZK Verifier · NTT/CCTP integration | Guardian 機関 reputation · 2024 W token slashing 議論中 | **2022.02 $325M Solana(Jump 全額補填)**· 2024 ZK Verifier 後なし | 独立 cover なし · W treasury ~$200M 暗黙 backstop · NM 2024 後一部回復 | Trail of Bits · OtterSec · Halborn · Coinspect · Polyhedra(ZK)| Foundation + Guardian 投票 · institutional OTC |
-| **Chainlink CCIP** | Oracle DON 16-of-31 + RMN 独立 veto(2-of-N)| LINK staking ~$2B · RMN 独立 client | None(2023-07+ ~$0)| NM ~$8M · institutional は Lloyd's syndicate で自前 | Trail of Bits · CertiK · Sigma Prime · NCC Group | RMN veto + DON pause + Foundation OTC |
-| **Across** | Optimistic · UMA OO 7200s challenge window + relayer collateral | UMA bonding ~$50M | None(2022+ ~$0)· 2024 relayer bug 5 分修正 | Sherlock ~$3M · NM 一部 · ACX treasury | OpenZeppelin · Trail of Bits · Code4rena · Sherlock | UMA dispute · challenge 後 relayer slash |
-| **Stargate (LZ)** | LayerZero DVN + LP unified liquidity | LZ DVN + LP TVL $50M-500M | 2023.03 transfer bug 損失なし · 2024 white hat $500K payout | Self insurance fund ~$2M(LP 0.06% fee)· NM | Zellic · Trail of Bits · Spearbit · Code4rena | Insurance fund が先に賠償 · LP haircut |
-| **Synapse** | Validator multisig ~10-of-15 · 2024 optimistic モード低採用 | SYN -95% from peak · 経済セキュリティ縮小 · TVL ~$30M | protocol hack なし · 2024 複数 LP drain 累計 $3M | cover なし(insurer 引受拒否)| Quantstamp · Halborn(2022)· 新 audit なし | DAO quorum 不達 · sunset 寸前 |
-| **Connext** | Optimistic + Router collateral + Sequencer(中央集権化)| Router collateral ~$10M | protocol hack なし · 2024 router inソルベンシー $400K(Connext Inc. 補填)| Sherlock 期限切れ未更新 · NM 引受拒否 | Spearbit · Code4rena(2023)| Connext Inc. ad hoc |
-| **Squid** | Axelar 上 swap router · Axelar trust を借用 | Axelar AXL ~$300M を借用 | protocol hack なし · 2023 frontend XSS $50K | 独立 cover なし · Axelar 層を借用 | Halborn · Spearbit | Axelar ガバナンス + Squid frontend 調整 |
-| **Axelar** | 75-validator PoS(Tendermint)· 2/3 quorum · GMP/ITS | AXL staking ~$300M | None(2022+ ~$0)· 2024 ITS bug white hat $200K payout | NM ~$5M · InsurAce · Foundation treasury | Trail of Bits · ChainSecurity · Code4rena · Cantina | Validator 合意で凍結 · Foundation OTC |
-| **deBridge** | 12 validator delegated PoS + CCIP fallback · DLN intent-based | DBR staking ~$80M | None protocol-level · 2022 Lazarus フィッシング損失なし | 主流 cover なし · DAO treasury | Zokyo · Halborn · Ackee | Validator quorum pause · DAO 投票 |
-| **Symbiosis** | Relayer + TSS 15-of-21 · cross-chain swap aggregator | SIS staking ~$15M · TVL ~$40M | None · 2023 frontend bug < $10K | cover なし | Hacken · CertiK · Beosin | Foundation 調整 |
-| **Allbridge** | Classic multisig + Core stablecoin AMM(独立 LP)| Multisig 小規模 · TVL ~$20M | **2023.04 Classic $570K BSC flash loan**(60% 返却)· Classic 非推奨化 | cover なし | Hacken · SmartState(Classic)· Halborn(Core)| Classic freeze · Foundation 調整 |
+| プロトコル | 公開文書上の検証 / 制御境界 | 回復・停止面で確認する項目 | 導入側に残る責任 |
+|---|---|---|---|
+| **CCTP** | Circle attestation と source / destination contracts | 対応ドメイン、finality threshold、attestation availability | message 再利用防止、recipient、API / contract version |
+| **Hyperlane** | アプリが選ぶ ISM と Mailbox | ISM / hook / validator の変更権限、relayer fallback | 独立した validator、owner key、route 設定 |
+| **LayerZero V2** | OApp が構成する MessageLib、DVN、Endpoint | send / receive config、delegate、library migration | 複数 DVN、peer、confirmation、executor gas |
+| **Wormhole** | Guardian-signed VAA と統合先 contract | core / token bridge upgrade、governance message、relayer fallback | emitter / chain 検証、consistency level、replay protection |
+| **Chainlink CCIP** | CCIP network、risk-management controls、router / lane | lane status、rate limit、token pool と receiver controls | allowlist、receiver logic、token / lane support |
+| **Across** | relayer fill と UMA ベースの optimistic settlement | dispute / settlement window、spoke / hub pool controls | quote、fill deadline、recipient と chain support |
+| **Stargate** | LayerZero messaging と liquidity-pool contracts | messaging config、pool / credit accounting、admin controls | pool exposure、slippage、destination execution |
+| **Synapse** | bridge / messaging contracts と protocol-defined verification | validator / admin / pause authority、contract version | route、token representation、upgrade key の確認 |
+| **Connext** | protocol contracts、routers / agents、採用する verification path | route availability、dispute / upgrade controls | router liquidity、slippage、destination call |
+| **Squid** | Axelar GMP と DEX / router integration | Axelar gateway、route status、frontend / API dependency | swap minimum、recipient、gas service と call data |
+| **Axelar** | validator network と gateway contracts | gateway / ITS control、network governance、gas service | destination contract、token manager、gas / replay handling |
+| **deBridge** | deBridge messaging / validator layer と DLN contracts | order status、validator / contract upgrade、refund path | order constraints、receiver、token approval |
+| **Symbiosis** | protocol contracts、relayer / MPC components、liquidity routing | contract / relayer status、route and refund behavior | slippage、recipient、token allowance、destination gas |
+| **Allbridge** | 製品別 bridge contracts、validator / relay、liquidity pools | Classic / Core の区別、admin / pause、pool condition | 使用製品、asset mapping、slippage と approvals |
+
+Sources: ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.hyperlane.xyz/] ^[https://docs.layerzero.network/v2] ^[https://docs.wormhole.com/] ^[https://docs.chain.link/ccip] ^[https://docs.across.to/] ^[https://stargateprotocol.gitbook.io/stargate/] ^[https://docs.synapseprotocol.com/] ^[https://docs.connext.network/] ^[https://docs.squidrouter.com/] ^[https://docs.axelar.dev/] ^[https://docs.debridge.finance/] ^[https://docs.symbiosis.finance/] ^[https://docs.allbridge.io/]
+
 
 **マトリクスの読み方**:
 - 横方向で 1 プロトコルの 7 次元プロファイル · 縦方向で同一次元の 14 プロトコル差異を見る

@@ -8,9 +8,9 @@ aliases:
   - BloombergGPT IndexGPT Marquee AI pipeline
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, market-data, llm, pipeline, bloomberg, reuters, nikkei, indexgpt, marquee, bloomberggpt, hallucination-control, audit-trail, model-risk]
 status: active
@@ -30,6 +30,9 @@ sources:
   - https://www.fca.org.uk/publications/discussion-papers
   - https://www.esma.europa.eu/document
   - https://arxiv.org/abs/2303.17564
+  - https://docs.anthropic.com/
+  - https://platform.openai.com/docs/models
+  - https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models
 ---
 # Agent-driven market data interpretation pipeline · feed → LLM → signal → trading system
 
@@ -61,15 +64,15 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 
 **The LLM options** (2026-05):
 
-| LLM | Provenance | Finance-tuned? | Used by (public) |
+| Model route | Public provenance that can be cited | Finance specialization | Production validation boundary |
 |---|---|---|---|
-| **BloombergGPT** | Bloomberg in-house, 50B params, trained on 40+ years Bloomberg finance corpus | Yes (finance-only training) | Bloomberg Terminal AI surfaces (productized 2024-2025); not licensed externally |
-| **Anthropic Claude (Opus / Sonnet)** | Anthropic frontier model | No (general), but fine-tuneable | BBVA, Mizuho, Goldman dev tooling; ad-hoc HF research |
-| **OpenAI GPT-4o / GPT-5** | OpenAI frontier model | No (general), but fine-tuneable | Morgan Stanley AI assistant, JPM SpectrumGPT (variant), BofA pilot |
-| **JPM internal LLM** | JPMorgan in-house, trained on internal corpus | Yes | JPM IndexGPT, SpectrumGPT |
-| **Google Gemini Pro / Ultra** | Google frontier model | No, but Vertex AI tuning | Citi pilot disclosed |
-| **Cohere Command R+** | Cohere general model | Specialized for RAG / search | BlackRock Aladdin Copilot adjacent |
-| **NEC cotomi / NTT tsuzumi / PFN PLaMo** | Japan domestic models | Some finance specialization | Mizuho / MUFG / SMBC internal pilots |
+| **BloombergGPT research model** | BloombergGPT paper and Bloomberg's public AI materials | Trained and evaluated for financial-language tasks in the published paper | Do not infer external API availability or a specific Terminal production model from the research paper |
+| **General frontier API** | Provider model cards / API documentation for Anthropic, OpenAI or Google | General-purpose; finance behavior depends on grounding, prompts, tools and evaluation | Pin the exact model ID / date and evaluate on licensed, time-aligned financial data |
+| **Cloud-hosted tuned / grounded model** | Cloud provider documentation plus the customer's own tuning / retrieval configuration | Can be adapted with enterprise data subject to product support | Record base model, retrieval corpus, access controls, region and change policy |
+| **Institution-specific model** | The institution's public technical paper or product disclosure | Potentially finance-specific, but scope varies | A product name or trademark is not evidence of architecture, training corpus or production use |
+| **Domestic-language model** | Vendor model card and benchmark report | Language / domain performance must be measured for the target Japanese financial task | Verify licensing, tokenizer / context limits, data residency and human-review controls |
+
+Sources: ^[https://arxiv.org/abs/2303.17564] ^[https://www.bloomberg.com/professional/products/ai/] ^[https://docs.anthropic.com/] ^[https://platform.openai.com/docs/models] ^[https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models]
 
 **Why finance-tuned vs general matters**: a general LLM trained on web data is weaker at parsing 10-Q / 有価証券報告書 / IFRS financial statements than a model fine-tuned on millions of such documents. BloombergGPT's 2023 publication (arxiv.org/abs/2303.17564) demonstrated material outperformance on finance-specific benchmarks vs general LLMs at the same parameter count. The trade-off: BloombergGPT is not externally licensed; firms wanting equivalent capability must either license Bloomberg's productized Terminal AI surfaces or fine-tune a general model on their own finance corpus.
 

@@ -1,12 +1,12 @@
 ---
 source: trade/japan-fta-epa-rcep-utilization
-source_hash: 752f3c85630cab79
+source_hash: b44426468aa83230
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them
 
@@ -28,6 +28,9 @@ So "having an EPA" and "using an EPA" are different things, and the latter is an
 | **FTA (free trade agreement)** | Tariff elimination on goods between members | Narrower term |
 | **EPA (economic partnership agreement)** | FTA **plus** services, investment, IP, movement of people, procurement | Japan's signature instrument — most Japanese deals are "EPA", not bare "FTA" |
 | **Mega-regional (RCEP / CPTPP)** | Plurilateral EPAs spanning many economies with **cumulation** of origin across the bloc | The structural shift of the 2020s |
+
+Sources: ^[Ministry of Foreign Affairs of Japan, Free Trade Agreement / Economic Partnership Agreement hub: https://www.mofa.go.jp/policy/economy/fta/; Japan Customs English portal: https://www.customs.go.jp/english/; RCEP Secretariat: https://rcepsec.org/.]
+
 
 Japan deliberately uses "**EPA**" because its agreements bundle more than tariffs. The tariff cut is read off the **EPA rate column** of the tariff schedule described in [[trade/japan-customs-tariff-origin-clearance|customs, tariff and certificate of origin]] — but only with a qualifying origin proof.
 

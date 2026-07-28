@@ -10,9 +10,9 @@ aliases:
   - eoa agent authorization
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, erc-7702, eoa-delegation, ai-agent, session-key, pectra, set-code-tx, account-abstraction]
 status: active
@@ -114,18 +114,18 @@ The flip side is that the *delegation designator itself* is a new attestation th
 
 ## Comparison to ERC-4337 for agent use cases
 
-| Dimension | ERC-4337 path | ERC-7702 path |
+| Dimension | ERC-4337 path | EIP-7702 path |
 |---|---|---|
-| Starting state | User does not yet have an Ethereum wallet, or has one and accepts moving | User has an existing EOA with history they want to keep |
-| Address | New SCW address | Existing EOA address |
-| Onboarding cost | Counterfactual deploy + first UserOp | One `SET_CODE_TX` signature (~30k–50k gas) |
-| Session-key support | Native via SCW module installation | Native after delegation, via delegated implementation's storage |
-| Gas sponsorship | Paymaster (4337-native) | Paymaster if composed with 4337; otherwise legacy relayer |
-| Revocation | Module uninstall via UserOp | Either remove module, or signing `SET_CODE_TX` to `address(0)` for nuclear option |
-| Single-use authorization | Awkward (each UserOp creates persistent state) | Native via single-tx delegation pattern |
-| Agent identity on history | Agent acts via a new address with no track record | Agent acts via the user's existing address with full track record |
-| Compliance / KYC continuity | Identity must be re-anchored | Identity persists |
-| Security worst case | SCW logic bug = SCW funds at risk | Delegation logic bug = *entire EOA history* at risk |
+| **Account model** | Smart-contract account sends `UserOperation` objects through an EntryPoint | Existing EOA stores a delegation indicator pointing to implementation code |
+| **Activation** | Account may be deployed counterfactually or already exist | A type-`0x04` transaction carries one or more signed authorization tuples |
+| **Persistence** | Account code / modules persist until the account changes them | Delegation persists until a later authorization replaces or clears it; it is not inherently single-use |
+| **Programmable limits** | Defined by account / module code | Defined by delegated implementation code; the EIP itself does not supply a session-key policy |
+| **Sponsorship** | Paymaster is part of the ERC-4337 protocol flow | The outer transaction can be submitted by another account; composition with ERC-4337 is implementation-specific |
+| **Revocation / recovery** | Account-defined module removal, owner / recovery logic | Submit a valid later authorization, including the specified clear-to-zero case |
+| **Address continuity** | Usually a smart-account address, which may differ from a prior EOA | The authorizing EOA address remains the same |
+| **Primary security boundary** | EntryPoint, account implementation, modules, owners and paymaster | Delegate bytecode, initialization, storage, chain / nonce scope and authorization phishing |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4337] ^[https://eips.ethereum.org/EIPS/eip-7702]
 
 For agent use cases the practical guide:
 

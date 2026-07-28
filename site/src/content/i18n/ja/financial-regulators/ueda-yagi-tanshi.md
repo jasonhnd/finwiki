@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/ueda-yagi-tanshi
-source_hash: b8b4584c00da19f6
+source_hash: 630768a4d437d80d
 lang: ja
 status: machine
 fidelity: ok
 title: "上田八木短資株式会社"
-translated_at: 2026-06-02T16:33:58.458Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 上田八木短資株式会社
 
@@ -43,6 +43,9 @@ translated_at: 2026-06-02T16:33:58.458Z
 | **日銀対手業務** | 日本銀行の市場オペレーション（公開市場操作）対手・仲介 | 日本銀行 |
 | **国債・地方債売買** | 短期国債（T-Bill）・中長期国債・地方債売買 | 銀行・機関投資家 |
 | **海外債券（ドル建コール等）** | ドル建短期資金市場（ユーロドルコール等）の仲介 | 邦銀海外拠点・外銀東京支店 |
+
+Sources: ^[上田八木短資 公式サイト: https://www.uedayagi.com/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm; 日本銀行「オペレーション」: https://www.boj.or.jp/mopo/measures/mkt_ope/index.htm.]
+
 
 ### ビジネスモデル
 

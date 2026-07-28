@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/jcr
-source_hash: 3cd5409a965981f6
+source_hash: 46835ad807dd9c39
 lang: ja
 status: machine
 fidelity: ok
 title: "日本格付研究所 (JCR)"
-translated_at: 2026-06-02T14:25:12.403Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 日本格付研究所 (JCR)
 
@@ -35,10 +35,13 @@ translated_at: 2026-06-02T14:25:12.403Z
 | 1991 | 国内社債格付の本格展開 |
 | 1998 | 金融商品取引法改正（信用格付業者登録制度施行は 2010） |
 | 2007〜 | サブプライム危機 → 国際的に格付業界規制論議が活発化 |
-| **2010-04** | **信用格付業者登録制度施行** → JCR が登録第 1 号級として登録（[[financial-regulators/rating-and-investment|R&I]] と並ぶ） |
+| **2010-04 / 2010-09-30** | **信用格付業者登録制度施行 / JCR が金融庁長官（格付）第 1 号として登録** |
 | 2013〜 | ストラクチャードファイナンス（RMBS / ABS）格付の透明性強化 |
 | 2017〜 | **グリーンボンド / ソーシャルボンド / サステナビリティリンクボンド** 等 ESG 関連評価業務開始 |
 | 2020〜 | コロナ後の社債発行急増局面で格付件数増加 |
+
+Sources: ^[JCR 会社概要・沿革: https://www.jcr.co.jp/service/company/company; FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf.]
+
 
 ## 2. 格付業務 マップ
 
@@ -53,6 +56,9 @@ translated_at: 2026-06-02T14:25:12.403Z
 | **ESG / サステナビリティ評価** | グリーン / ソーシャル / サステナビリティ / トランジション債評価 | 発行体全般 |
 | **第三者意見書** | フレームワーク準拠性に関する SPO | 発行体 |
 
+Sources: ^[JCR 会社概要（事業内容）: https://www.jcr.co.jp/service/company/company; JCR サービス一覧: https://www.jcr.co.jp/service/.]
+
+
 ### 格付スケール
 
 - **長期格付**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB 以下（投機的）→ D（デフォルト）
@@ -64,9 +70,12 @@ translated_at: 2026-06-02T14:25:12.403Z
 | 格付機関 | 特徴 | 親会社・系列 |
 |---|---|---|
 | **JCR** | 独立系・国内系 | 独立系（特定親会社なし） |
-| **R&I** | みずほ系（旧 IBJ 系 + 日経系）| みずほ系（[[megabanks/mizuho-fg|みずほ FG]] 関連） |
+| **R&I** | 国内系（日経の公社債研究会を起源） | 日本経済新聞社グループ |
 | **S&P Global Ratings Japan** | 米 S&P 子会社 | S&P Global |
 | **Moody's Japan / Moody's SF Japan** | 米 Moody's 子会社 | Moody's Corp |
+
+Sources: ^[FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf; JCR 会社概要: https://www.jcr.co.jp/service/company/company; JPX ESG Knowledge Hub「R&I」: https://www.jpx.co.jp/corporate/sustainability/esgknowledgehub/esg-rating/09.html.]
+
 
 ### 国内 vs 国際の格付ギャップ問題
 

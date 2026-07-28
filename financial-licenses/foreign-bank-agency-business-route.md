@@ -7,9 +7,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, legal, banking, foreign-bank, agency-business, cross-border]
 status: active
@@ -38,6 +38,8 @@ Use this page with [[financial-licenses/foreign-bank-branch-license-route|foreig
 | Japanese bank subsidiary | Japanese incorporated bank controlled by foreign group. | Japanese bank license under domestic entity. | Foreign bank branch status. |
 | Representative office | Liaison / information-gathering presence. | Presence only. | Banking, deposits, lending, agency, or securities business. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; FSA supervisory guideline, foreign-bank agency section: https://www.fsa.go.jp/common/law/guide/city/06.html.]
+
 ## Use Cases
 
 | Use case | Why agency route can matter |
@@ -48,6 +50,8 @@ Use this page with [[financial-licenses/foreign-bank-branch-license-route|foreig
 | Private / wealth banking | Cross-border referrals and account access need careful licensing boundaries. |
 | Group branch coordination | A licensed Japan branch may act for head-office or other overseas branches under approval / notification route. |
 
+Sources: ^[This is a FinWiki use-case map derived from the FSA foreign-bank agency framework and supervisory guideline: https://www.fsa.go.jp/news/25/ginkou/20140626-5.html; https://www.fsa.go.jp/common/law/guide/city/06.html.]
+
 ## Control Questions
 
 | Question | Public relevance |
@@ -57,6 +61,8 @@ Use this page with [[financial-licenses/foreign-bank-branch-license-route|foreig
 | Which service is being mediated? | Deposit, lending, FX, trade finance, securities, or payment-like service can trigger other regimes. |
 | Is the customer dealing with a Japan branch, offshore branch, or Japanese subsidiary? | Legal entity, deposit protection, and disclosure differ. |
 | Is there also a securities entity? | Check FIBO / JSDA status separately. |
+
+Sources: ^[FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/city/06.html.]
 
 ## JapanFG Relevance
 

@@ -1,12 +1,12 @@
 ---
 source: agent-economy/nevermined-compute-payment-protocol
-source_hash: 7ac4261eca37bc6b
+source_hash: fbdfb9f1c074c587
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Nevermined · AI コンピュート決済プロトコル"
-translated_at: 2026-06-26T08:32:15.195Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Nevermined · AI コンピュート決済プロトコル
@@ -59,13 +59,17 @@ Nevermined の背後にあるエージェントエコノミーのテーゼ:エ�
 
 との統合
 
-| 層 | x402 | Nevermined |
+| Layer | x402 public specification | Nevermined public product / protocol docs |
 |---|---|---|
-| HTTP ハンドシェイク | `402 Payment Required` + `X-Payment` ヘッダを定義 | x402 をトランスポートの一オプションとして採用 |
-| 決済 | デフォルトで Base 上の USDC | マルチステーブルコイン、エスクローベース |
-| マーケットプレイス | Bazaar MCP(10k+ エンドポイント)| コンピュート / モデル / データの Nevermined レジストリ |
-| ロイヤルティ / 分配 | 対象外 | 多者間分配をネイティブにサポート |
-| サブスクリプションモデル | 呼び出しごとのみ | サブスクリプション NFT + 呼び出しごと |
+| **HTTP negotiation** | `402` と V2 の `PAYMENT-REQUIRED`、`PAYMENT-SIGNATURE`、`PAYMENT-RESPONSE` payload を定義 | 選択した Nevermined integration が文書化する場合、x402 を interaction / payment transport として利用できる |
+| **Payment abstraction** | server が accepted scheme、network、asset、destination を advertise。settlement は scheme-specific | provider が payment plan / credit と deployment の settlement configuration を定義 |
+| **Service discovery** | discovery は minimal payment handshake の外であり ecosystem registry / application が提供可能 | Nevermined は AI service、model、data の marketplace / registry concept を公開 |
+| **Access model** | core flow は payment verification 後に HTTP resource を gate。extension / scheme が別 behavior を追加可能 | current Nevermined docs に従い plan / credit が metered / recurring access を表現できる |
+| **Revenue / split logic** | core x402 は universal marketplace royalty split を定義しない | split、escrow、provider payout claim は exact Nevermined contract / plan version に結び付ける |
+| **Operator responsibility** | client は signing key を保護。server / facilitator は selected scheme を validate / settle | provider / buyer は plan terms、service delivery、contract address、refund / dispute、key custody を確認 |
+
+Sources: ^[https://docs.x402.org/core-concepts/http-402] ^[https://docs.x402.org/core-concepts/network-and-token-support] ^[https://docs.nevermined.io/] ^[https://github.com/nevermined-io]
+
 
 実務的なパターン:コンピュート提供者はカタログ + エスクローのために Nevermined 経由で公開し、トランスポート層の決済には x402 ファシリテーターを備えた呼び出しエンドポイントを公開し、エージェントには [[systems/l2-agent-economics-arbitrum-base-op-comparison|Base / Arbitrum]] 上の [[fintech/usd-stablecoin-interchange|USDC]] で決済させる。
 
