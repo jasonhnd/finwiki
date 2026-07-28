@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T01:48:00+09:00
+Generated: 2026-07-29T02:06:40+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1593
-Public pages listed: 1592
+Markdown files: 1594
+Public pages listed: 1593
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1592
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Repeated factual-consistency calibration (#218), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -344,7 +344,7 @@ Public pages listed: 1592
 - Headings: Claude Code 拡張コンポーネントアーキテクチャ, Wiki route, 一、6つの拡張コンポーネント, 二、コンポーネント間の区分, Skills vs Subagent, CLAUDE.md vs Skills, MCP vs Skill, 三、Plugins & Marketplace
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/agent-economy/2026-04-08_agent-payment-infrastructure-research/, https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/, https://finwiki.zksc.io/ja/agent-economy/ap2-overview/, https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/, https://finwiki.zksc.io/ja/agent-economy/skill-market-monetization/, https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/, https://finwiki.zksc.io/ja/systems/erc-4337-overview/
 
-### Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base
+### Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base
 - URL: https://finwiki.zksc.io/ja/agent-economy/coinbase-agentkit-agentic-wallets/
 - Japanese HTML: https://finwiki.zksc.io/ja/agent-economy/coinbase-agentkit-agentic-wallets/
 - English alternate: https://finwiki.zksc.io/en/agent-economy/coinbase-agentkit-agentic-wallets/
@@ -354,7 +354,7 @@ Public pages listed: 1592
 - Domain: agent-economy
 - Type: wiki_entry
 - Summary: This entry sits under agent-economy index as the Coinbase-specific agent wallet / agent payment implementation note. Read it against Coinbase CDP for the broader developer-platform substrate, x402 for the HTTP payment protocol, ERC-4337 account abstraction for agents for adjacent wallet-permission d
-- Headings: Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- Headings: Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-landscape-2026-consolidation/, https://finwiki.zksc.io/ja/agent-economy/erc-4337-account-abstraction-primer-for-agents/, https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/, https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/, https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/, https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/
 
 ### Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤
@@ -17168,6 +17168,15 @@ Public pages listed: 1592
 - Domain: releases
 - Type: release_note
 - Headings: 反復事実整合性監査の精度改善, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### エージェント基盤3件の公開状態更新
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-4.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-4.md
+- Source path: releases/v2026.07.29-4.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-4.md
+- Domain: releases
+- Type: release_note
+- Headings: エージェント基盤3件の公開状態更新, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md
