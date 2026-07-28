@@ -1,12 +1,12 @@
 ---
 source: agent-economy/circle-agent-stack-usdc
-source_hash: 2ec63abefc7d87b7
+source_hash: 86a6450bb2bc7033
 lang: en
 model: manual-en-source-sync
 status: machine
 fidelity: ok
 title: "Circle Agent Stack · USDC agent wallets, nanopayments & marketplace"
-translated_at: 2026-07-03T07:15:03.025Z
+translated_at: 2026-07-28T17:01:18.000Z
 ---
 
 # Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
@@ -19,6 +19,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 - Circle announced Circle Agent Stack on 2026-05-11 as chain- and protocol-agnostic infrastructure for agents to hold funds, discover services, and transact with USDC. ^[extracted]
 - The initial stack consists of Agent Wallets, Agent Marketplace, Circle CLI, Nanopayments powered by Circle Gateway, and Circle Skills. ^[extracted]
+- As of 2026-07-29, Circle's official product page and developer documentation continue to expose Agent Wallets, Agent Marketplace, Circle CLI, Nanopayments, and Circle Skills as publicly available product surfaces rather than announcement-only concepts. ^[extracted]
 - Circle said Agent Wallets let agents hold and move USDC within human-defined policies, including time-bound spending limits, transfer / x402 caps, recipient allowlists and blocklists, and contract-address controls. ^[extracted]
 - Circle's Agent Wallet documentation says the wallets are built on Circle user-controlled wallets with 2-of-2 MPC key management; key shares are not exposed to the agent, users retain custody, and transfers are screened against sanctions controls before onchain submission. ^[extracted]
 - Nanopayments powered by Circle Gateway supports gas-free USDC transfers as small as $0.000001 and uses Gateway batching rather than settling each individual payment onchain. ^[extracted]

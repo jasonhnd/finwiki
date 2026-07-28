@@ -3,14 +3,15 @@ title: Agent2Agent (A2A) · cross-vendor agent interoperability protocol
 aliases: [google-a2a-agent-interop-protocol, agent2agent, A2A, a2a-protocol, agent-card-json]
 domain: agent-economy
 created: 2026-07-03
-last_updated: 2026-07-03
-last_tended: 2026-07-03
-review_by: 2027-01-03
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [agent-economy, protocol, a2a, agent2agent, interoperability, google, linux-foundation, mcp, ap2, agent-card]
 sources:
   - https://github.com/a2aproject/A2A
   - https://a2a-protocol.org/latest/specification/
+  - https://a2a-protocol.org/latest/announcing-1.0/
   - https://a2a-protocol.org/latest/topics/agent-discovery/
   - https://a2a-protocol.org/latest/topics/a2a-and-mcp/
   - https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
@@ -21,7 +22,7 @@ sources:
   - https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/
   - https://cloud.google.com/blog/products/ai-machine-learning/agent2agent-protocol-is-getting-an-upgrade
   - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
-status: candidate
+status: active
 ---
 
 # Agent2Agent (A2A) · cross-vendor agent interoperability protocol
@@ -35,6 +36,7 @@ This entry sits beside [[agent-economy/ai-agent-payment-protocols-overview|AI Ag
 - Agent2Agent (A2A) is an open protocol created by Google for secure agent-to-agent communication and collaboration across vendors, platforms, and frameworks. ^[extracted]
 - Google announced A2A on 2025-04-09 with support from more than 50 technology and service partners, then transferred the specification, SDKs, and developer tooling to a Linux Foundation-hosted project on 2025-06-23. ^[extracted]
 - The Linux Foundation described A2A as vendor-neutral under its governance, with more than 100 supporting companies at launch and more than 150 supporting organizations by 2026. ^[extracted]
+- As of 2026-07-29, the official specification identifies 1.0.0 as the latest released version; the A2A project calls v1.0 its first stable, production-ready release, and the Linux Foundation reports active production deployments across multiple industries. ^[extracted]
 - A2A is the discovery / delegation / messaging layer: agents advertise capabilities, exchange messages, manage tasks, and collaborate without exposing private memory, internal tools, or implementation state. ^[extracted]
 - The protocol standardizes Agent Cards, including the recommended public discovery path `https://{agent-server-domain}/.well-known/agent-card.json`. ^[extracted]
 - A2A is distinct from AP2: AP2 is the payment / mandate layer for agent-led commerce, while A2A is the peer-agent communication layer that AP2 can extend or ride on. ^[extracted]
@@ -85,6 +87,7 @@ The strategic reading is that A2A tries to become the **inter-agent control plan
 
 - A2A project repository - https://github.com/a2aproject/A2A
 - A2A protocol specification - https://a2a-protocol.org/latest/specification/
+- A2A Protocol, "A2A Protocol Ships v1.0: Production-Ready Standard for Agent-to-Agent Communication" - https://a2a-protocol.org/latest/announcing-1.0/
 - A2A Agent Discovery documentation - https://a2a-protocol.org/latest/topics/agent-discovery/
 - A2A and MCP comparison - https://a2a-protocol.org/latest/topics/a2a-and-mcp/
 - Google Developers Blog, "Announcing the Agent2Agent Protocol (A2A)" - https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/

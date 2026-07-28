@@ -1,12 +1,12 @@
 ---
 source: agent-economy/circle-agent-stack-usdc
-source_hash: 2ec63abefc7d87b7
+source_hash: 86a6450bb2bc7033
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Circle Agent Stack · USDC agent wallets, nanopayments & marketplace"
-translated_at: 2026-07-03T07:15:03.025Z
+translated_at: 2026-07-28T17:01:18.000Z
 ---
 
 # Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
@@ -19,6 +19,7 @@ translated_at: 2026-07-03T07:15:03.025Z
 
 - Circle は 2026-05-11 に Circle Agent Stack を発表した。これは agent が資金を保持し、サービスを発見し、USDC で取引するための chain-agnostic / protocol-agnostic なインフラである。 ^[extracted]
 - 初期スタックは Agent Wallets、Agent Marketplace、Circle CLI、Circle Gateway powered Nanopayments、Circle Skills で構成される。 ^[extracted]
+- 2026-07-29 時点でも、Circle の公式 product page と developer documentation は Agent Wallets、Agent Marketplace、Circle CLI、Nanopayments、Circle Skills を公開利用可能な product surface として提供しており、announcement-only の concept ではない。 ^[extracted]
 - Circle は、Agent Wallets により agent が人間の定義した policy の範囲内で USDC を保持・移動できると説明している。その policy には、時間制限付き spending limit、transfer / x402 cap、recipient allowlist / blocklist、contract address control が含まれる。 ^[extracted]
 - Circle の Agent Wallet 文書は、wallet が Circle user-controlled wallet と 2-of-2 MPC key management に基づき、key share は agent に公開されず、user が custody を保持し、transfer は onchain submission 前に sanctions control によって screening されるとしている。 ^[extracted]
 - Circle Gateway powered Nanopayments は、$0.000001 からの gas-free USDC transfer をサポートし、個別 payment を毎回 onchain settle するのではなく Gateway batching を使う。 ^[extracted]
