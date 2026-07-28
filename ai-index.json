@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T01:15:32+09:00",
+  "generated_at": "2026-07-29T01:48:00+09:00",
   "counts": {
-    "markdown_files": 1592,
-    "public_markdown_pages": 1591,
+    "markdown_files": 1593,
+    "public_markdown_pages": 1592,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10771501,
-    "word_like_tokens": 1731982,
+    "nonspace_utf8_chars": 10791747,
+    "word_like_tokens": 1735801,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Fact-freshness event inference calibration (#217)",
+        "2026-07-29 - Repeated factual-consistency calibration (#218)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Entry-discovery build graph and cache invalidation repair (#195)"
+        "2026-07-29 - Fact-freshness event inference calibration (#217)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 147741,
-      "word_like_tokens": 26763,
+      "nonspace_chars": 159082,
+      "word_like_tokens": 28942,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13775,
-      "word_like_tokens": 2435,
+      "nonspace_chars": 14484,
+      "word_like_tokens": 2549,
       "last_modified": "2026-07-29"
     },
     {
@@ -53050,8 +53050,8 @@
         "Lifeplanner channel (tied, consultative, individual life)",
         "Group life (集団保険) channel",
         "What is explicitly not in the channel",
-        "Foreign-tech parent governance",
-        "Sony FG re-buyout and capital architecture",
+        "Listed holding-company governance after the partial spin-off",
+        "Take-private, relisting, and capital architecture",
         "Persistency and FA productivity",
         "Comparison to big-four sales-agency model"
       ],
@@ -53110,9 +53110,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19056,
-      "word_like_tokens": 3007,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 19415,
+      "word_like_tokens": 3124,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/INDEX.md",
@@ -67387,9 +67387,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5383,
-      "word_like_tokens": 943,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5448,
+      "word_like_tokens": 950,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "payment-firms/gmo-coin.md",
@@ -78777,7 +78777,7 @@
       "domain": "regional-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, 三菱UFJ銀行 as parent group co-investor, and banking index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, au フィナンシャルホールディングス for the current direct-shareholder boundary, and banking index for the broader system / regulatory boundary.",
       "headings": [
         "au じぶん銀行 (au Jibun Bank)",
         "Wiki route",
@@ -78794,7 +78794,7 @@
         "banking/INDEX",
         "banking/paypay-bank",
         "banking/rakuten-bank",
-        "megabanks/mufg",
+        "megabanks/au-fh",
         "megabanks/mufg-bank",
         "regional-banks/INDEX",
         "regional-banks/sbi-sumishin-net-bank",
@@ -78805,7 +78805,7 @@
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/paypay-bank/",
         "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
+        "https://finwiki.zksc.io/ja/megabanks/au-fh/",
         "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
         "https://finwiki.zksc.io/ja/domains/regional-banks/",
         "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
@@ -78814,9 +78814,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4209,
-      "word_like_tokens": 743,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4228,
+      "word_like_tokens": 755,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "regional-banks/awa-bank.md",
@@ -85999,8 +85999,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4016,
-      "word_like_tokens": 809,
+      "nonspace_chars": 4238,
+      "word_like_tokens": 845,
       "last_modified": "2026-07-29"
     },
     {
@@ -89216,6 +89216,39 @@
       "entity_edges": [],
       "nonspace_chars": 6653,
       "word_like_tokens": 1205,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-3.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-3.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-3.md",
+      "title": "反復事実整合性監査の精度改善",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "反復事実整合性監査の精度改善",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 7531,
+      "word_like_tokens": 1354,
       "last_modified": "2026-07-29"
     },
     {
@@ -106234,7 +106267,7 @@
       "entity_edges": [],
       "nonspace_chars": 3376,
       "word_like_tokens": 626,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-07-29"
     }
   ]
 }
