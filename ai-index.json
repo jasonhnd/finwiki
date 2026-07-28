@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-28T14:50:35+09:00",
+  "generated_at": "2026-07-28T20:21:36+09:00",
   "counts": {
-    "markdown_files": 1579,
-    "public_markdown_pages": 1578,
+    "markdown_files": 1580,
+    "public_markdown_pages": 1579,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10627027,
-    "word_like_tokens": 1705636,
+    "nonspace_utf8_chars": 10638221,
+    "word_like_tokens": 1707574,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2667,15 +2667,15 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-27 - AI discovery route and deployed-URL repair (#179)"
+        "2026-07-28 - Ordered translation protection and failed-output quarantine (#181)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 66677,
-      "word_like_tokens": 12113,
+      "nonspace_chars": 73777,
+      "word_like_tokens": 13334,
       "last_modified": "2026-07-28"
     },
     {
@@ -88851,6 +88851,39 @@
       "last_modified": "2026-07-28"
     },
     {
+      "source_path": "releases/v2026.07.28.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28.md",
+      "title": "翻訳保護と公開隔離の強化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "翻訳保護と公開隔離の強化",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 4094,
+      "word_like_tokens": 717,
+      "last_modified": "2026-07-28"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/ja/domains/retail/",
       "html_url": "https://finwiki.zksc.io/ja/domains/retail/",
@@ -105833,7 +105866,7 @@
       "entity_edges": [],
       "nonspace_chars": 3390,
       "word_like_tokens": 628,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-07-28"
     }
   ]
 }
