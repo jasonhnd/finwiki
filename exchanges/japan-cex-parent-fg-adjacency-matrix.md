@@ -9,9 +9,9 @@ aliases:
   - JVCEA member parent-group cross-service matrix
 domain: exchanges
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [exchanges, matrix, vasp, parent-company, japan, fg-adjacency, group-strategy]
 status: active
@@ -27,6 +27,9 @@ sources:
   - https://www.daiwa-grp.jp/
   - https://www.dmm.com/
   - https://corporate.bitflyer.com/
+  - https://www.laserdigital.com/japan/en/information/about-laser-digital-japan
+  - https://jvcea.or.jp/information/admission-info/20250919-001/
+  - https://cryptogarage.co.jp/en/about/
 ---
 
 # Japan CEX parent FG adjacency matrix
@@ -130,21 +133,18 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 - **Institutional brokerage** — Nomura Securities (group brokerage, JP #1 by retail wealth) provides institutional client base and prime-brokerage adjacency
 - **Asset management** — [[asset-managers/nomura-asset-management|Nomura Asset Management]] provides institutional ETF / fund engineering depth
 - **Trust banking** — [[trust-banks/nomura-trust-bank|Nomura Trust Bank]] provides the trust / custody-side legal entity for institutional flows
-- **License** — Laser Digital Japan holds FIEA Type 2 (derivatives-focused) rather than the standard 暗号資産交換業, reflecting the institutional / derivatives focus rather than retail spot
+- **Public regulatory status** — Laser Digital Japan's official page says the Japanese entity provides operational services to the wider Laser Digital group; JVCEA records it as a **第二種会員** from 2025-09-19. JVCEA's membership category is not a Type II Financial Instruments Business registration, and the entity does not appear in the checked FSA crypto-asset-exchange or financial-instruments-business workbooks
 - **Global Laser Digital network** — Switzerland HQ, Dubai (VARA-licensed), Abu Dhabi, and London surfaces feed institutional flow into the JP entity
 
 **Adjacency intensity**: very high (institutional only) — Nomura's commitment is to the institutional / derivatives surface, not retail spot. The FG cross-link is brokerage-client coverage and trust-banking custody, not the consumer cross-sell that bank-FG retail VASPs use. Detail: [[exchanges/jp-exchange-laser-digital-japan|jp-exchange-laser-digital-japan]].
 
-### Crypto Garage — Daiwa Securities Group (8601) + DG / 野村 connection
+### Crypto Garage — Digital Garage + Tokyo Tanshi joint venture
 
-**Parent FG**: [[securities-firms/daiwa-sg|Daiwa Securities Group]] (TSE Prime 8601), with DG ホールディングス (Digital Garage 4819), 東京短資, and other strategic investors on cap table. **Group services contributed**:
-- **Securities** — Daiwa Securities (group brokerage, JP #2 by retail wealth) provides institutional surface
-- **Asset management** — [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] provides asset-management engineering depth
-- **Trust banking** — [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] / Daiwa Trust functions
-- **Direct bank** — [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] (group direct-bank) provides in-group JPY rail
-- **License** — Crypto Garage holds Type 2 / institutional-focus structure, similar in posture to Laser Digital Japan; the entity is positioned for PTS / institutional / DCJPY / stablecoin-issuance experimentation rather than retail spot
+**Parent structure**: Crypto Garage's official profile says Digital Garage and Tokyo Tanshi established the joint venture; its published board includes a Nomura Holdings director. The reviewed official profile does not identify Daiwa Securities Group as a parent or establish access to Daiwa's bank, brokerage, asset-management, or trust entities. **Group services contributed**:
+- **Institutional infrastructure** — SETTLENET, OTC, custody, settlement, staking, and blockchain-development services are presented for professional and institutional users
+- **License** — Crypto Garage is an FSA-registered crypto-asset exchange service provider under the Payment Services Act, Kanto Local Finance Bureau No. 00029; it is not described as a Type II Financial Instruments Business Operator
 
-**Adjacency intensity**: high (institutional / experimental) — Crypto Garage sits at the intersection of Daiwa institutional surface and JPX-adjacent experimentation, with sibling-entity [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]] in the same JPX / 三井物産 / Monex consortium for institutional spot. Detail: [[exchanges/jp-exchange-crypto-garage|jp-exchange-crypto-garage]].
+**Adjacency intensity**: medium-high (institutional joint venture) — Crypto Garage combines Digital Garage's technology surface with Tokyo Tanshi's wholesale-market adjacency and a published Nomura board link. It should not be modelled as a Daiwa group subsidiary or as a sibling of [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]] without a supporting ownership source. Detail: [[exchanges/jp-exchange-crypto-garage|jp-exchange-crypto-garage]].
 
 ### PayPay-related — SoftBank-FG cluster
 
@@ -181,7 +181,7 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 | **DMM Bitcoin** | DMM HD (private) | n/a | (none) | DMM.com Securities | (none) | DMM Points | (none) | DMM marketplaces | medium → wind-down 2024 | (was) marketing reach |
 | **Mercoin** | [[payment-firms/mercari-hd\|Mercari HD]] | 4385 | (none) | (none) | Merpay (資金移動業) | Mercari Points | (none) | Mercari (largest JP C2C) | very high | Yes — captive marketplace on-ramp |
 | **Laser Digital Japan** | [[securities-firms/nomura-hd\|Nomura HD]] | 8604 | (none own bank) | Nomura Securities (JP #1 wealth) | (none) | (none) | (Nomura Insurance) | (none) | very high (institutional) | Yes — institutional client coverage |
-| **Crypto Garage** | [[securities-firms/daiwa-sg\|Daiwa SG]] + DG + 東京短資 + 野村 | 8601 (Daiwa) | [[regional-banks/daiwa-next-bank\|Daiwa Next Bank]] | Daiwa Securities (JP #2 wealth) | (none) | (none) | (Daiwa Life) | (none) | high (institutional) | Yes — institutional + JPX-adjacent |
+| **Crypto Garage** | Digital Garage + 東京短資 JV; Nomura board link | 4819 (Digital Garage) | (no disclosed in-group bank) | (no disclosed in-group broker) | (none) | (none) | (none) | (none) | medium-high (institutional JV) | Yes — wholesale / technology adjacency |
 | **PayPay-related (via Binance Japan minority)** | SoftBank Group / PayPay-FG | 9984 | PayPay Bank | PayPay Securities | PayPay (largest JP QR) | PayPay Points | (limited) | (limited) | medium (indirect, ~40% stake only) | Indirect — optionality |
 | **au-related** | KDDI | 9433 | auじぶん銀行 (with MUFG) | auカブコム証券 (with MUFG) | au PAY | Ponta-adjacent | (au Insurance) | au マーケット | low (no own VASP) | (no crypto entity) |
 
@@ -195,7 +195,7 @@ Reading the matrix as a single ranking by adjacency intensity (high = parent FG 
 4. **Laser Digital Japan** (Nomura HD) — institutional-only, deep brokerage + trust-banking adjacency
 5. **GMO Coin** (GMO Financial HD / GMO Internet) — internet-finance parent with bank + brokerage + PSP
 6. **Coincheck** (Monex Group / Coincheck Group N.V.) — securities cross-sell + global capital surface
-7. **Crypto Garage** (Daiwa SG + DG + 東京短資 + 野村) — institutional + JPX-adjacent experimental surface
+7. **Crypto Garage** (Digital Garage + 東京短資 JV; Nomura board link) — institutional wholesale / technology surface
 8. **PayPay-related (via Binance Japan)** (SoftBank / PayPay-FG) — minority position (~40%), indirect adjacency
 9. **DMM Bitcoin** (DMM HD, pre-2024) — non-financial parent backstop role demonstrated (now wound down)
 10. **bitFlyer** (independent) — no FG ecosystem services; brand + JVCEA-network position only
@@ -222,8 +222,8 @@ A VASP that plugs into 4-5+ of these surfaces (SBI VC Trade, Rakuten Wallet) ope
 
 A JPY-funding-cost ranking for the VASPs in this matrix follows the in-group bank presence and parent-FG credit profile:
 
-- **Lowest funding cost**: SBI VC Trade (SBI Shinsei in group), Rakuten Wallet (Rakuten Bank in group), GMO Coin (GMO Aozora Net in group), Crypto Garage (Daiwa Next Bank in group) — all have direct in-group bank rails and the parent FG's credit rating supports inexpensive operating capital
-- **Medium funding cost**: Coincheck (Monex Group, no in-group bank but listed parent with capital-market access), Mercoin (Mercari HD, Merpay 資金移動業 covers JPY-side but no actual bank)
+- **Lowest funding cost**: SBI VC Trade (SBI Shinsei in group), Rakuten Wallet (Rakuten Bank in group), and GMO Coin (GMO Aozora Net in group) have disclosed in-group bank rails and listed-parent support
+- **Medium / externally evidenced funding context**: Coincheck (Monex Group, no in-group bank but listed parent with capital-market access), Mercoin (Mercari HD, Merpay 資金移動業 covers JPY-side but no actual bank), and Crypto Garage (Digital Garage + Tokyo Tanshi JV, with no disclosed Daiwa in-group bank rail)
 - **Higher funding cost**: bitFlyer (independent, no listed parent), DMM Bitcoin (pre-handover; DMM HD is private, no public capital-market access), Laser Digital Japan (institutional-only, Nomura HD strong but no direct in-group bank focused on the entity)
 
 The funding-cost dimension matters because crypto-exchange operations require **substantial working capital** to fund order-book liquidity, customer-withdrawal buffer, and operational JPY positions. A VASP with cheap in-group funding can run a deeper book and tighter spreads than an independent VASP forced to use external bank lines or unsecured paper. See [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]] for the bank-credit-line specifics.
@@ -244,7 +244,7 @@ The lesson from the Coincheck NEM 2018-01 incident ([[exchanges/coincheck-nem-ha
 - **DMM Bitcoin wind-down (2024) → SBI VC Trade handover** — The post-Lazarus customer migration to SBI VC Trade is a unique event in JP VASP history. After completion, the DMM HD row effectively zeroes out and the migrated user base shifts to the SBI HD row. The matrix records the pre-2024 state with a wind-down note rather than deleting the row, since the historical FG-adjacency lesson (non-financial parent backstop) remains the most-cited precedent.
 - **PayPay's minority position in Binance Japan** — The PayPay-FG holds ~40% of Binance Japan (acquired SEBC's license vehicle), but Binance Japan operates under the Binance global brand rather than as a PayPay-FG product. The matrix lists this as **medium (indirect)** adjacency rather than **none**, because the equity link gives PayPay-FG optionality on JP crypto without the capex of building from scratch.
 - **Mercari HD as a non-bank parent FG** — Mercari does not hold a bank, but Merpay's 資金移動業 license effectively delivers the JPY in/out function via the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer regulatory route]]. For the matrix this is recorded as "no bank in group / wallet in group" rather than "bank in group", because the regulatory entity is fundamentally different from a Banking Act bank.
-- **Laser Digital Japan / Crypto Garage holding FIEA Type 2 rather than 暗号資産交換業** — These institutional / derivative entities are licensed under the [[exchanges/jp-vasp-derivative-license-system|FIEA Type 2 derivative]] route rather than the consumer-spot 暗号資産交換業 route. The matrix includes them because the parent FG (Nomura, Daiwa) is unambiguously crypto-active and the operational FG-adjacency mechanics are the same — but the regulatory license stack differs.
+- **Laser Digital Japan / Crypto Garage regulatory routes** — Laser Digital Japan is a JVCEA 第二種会員 and says it provides group operational services; that membership label is not FIEA Type II registration. Crypto Garage is instead an FSA-registered crypto-asset exchange service provider (Kanto No. 00029). The matrix includes both because they are institution-facing crypto entities, but it records these different public regulatory routes rather than collapsing them into a fictional shared FIEA Type II license. ^[Sources: https://www.laserdigital.com/japan/en/information/about-laser-digital-japan; https://jvcea.or.jp/information/admission-info/20250919-001/; https://cryptogarage.co.jp/en/about/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 - **au-FG counterfactual** — KDDI built out one of the deepest non-bank-FG payment / banking / brokerage stacks in JP but has not entered crypto exchange. The matrix retains the empty row as a reference for "what FG-adjacency looks like without a VASP entity attached", which is useful for benchmarking the cost of the missing crypto position.
 - **bitFlyer's deliberate independence** — bitFlyer chose to remain independent through multiple acquisition discussions (most recently 2024-2025 speculation around a Mizuho-FG or SBI-FG sale that did not materialize). The matrix records this as **low adjacency** but flags that the operator compensates with brand strength and JVCEA-network position rather than parent infrastructure.
 

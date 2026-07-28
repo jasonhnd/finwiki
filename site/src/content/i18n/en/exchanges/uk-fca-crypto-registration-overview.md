@@ -1,23 +1,23 @@
 ---
 source: exchanges/uk-fca-crypto-registration-overview
-source_hash: 2295764cc163e94b
+source_hash: aae5b3718f80f88b
 lang: en
 status: machine
 fidelity: ok
 title: "UK FCA crypto-asset registration regime"
-translated_at: 2026-05-31T05:31:05.798Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # UK FCA crypto-asset registration regime
 
 ## 1. Regime overview
 
-After Brexit (2020-01), the UK became independent of EU MiCA and chose its own distinct crypto-asset regulatory path. FCA (Financial Conduct Authority) registration of crypto-asset businesses is **AML/CFT registration only**, based on the **MLR 2017** (Money Laundering Regulations 2017), while securities-like tokens and regulated assets are handled under a separate framework (FSMA) — a two-tier structure. Heading toward 2026-2027 , a phased regulation of crypto assets is in progress, with a planned migration from the current AML-centric framework to comprehensive regulation covering trading/custody/stablecoin.
+The UK's current cryptoasset-firm registration is AML/CTF/CPF supervision under the MLR 2017 and is not equivalent to FSMA authorisation. The FCA gives 2026-09-30 to 2027-02-28 as the application window for the new comprehensive cryptoasset regulatory regime and **2027-10-25** as its commencement date. This entry should therefore be read as a two-stage move from current MLR registration to the FSMA regime on 2027-10-25, not as an undated 2026-27 phased transition. ^[Sources: https://www.fca.org.uk/firms/cryptoassets/who-needs-register; https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/what-you-need-to-do.]
 
 ## 2. The regime's two-stage structure
 
-- **Stage 1  (current · MLR 2017  registration)**: AML/CFT obligations only (KYC, SAR reporting, transaction monitoring, travel rule). Permitted product scope, custody financial requirements, capital regulation, and consumer protection are out of scope. Business registration = AML compliance check only
-- **Stage 2  (FSMA 2023  + planned comprehensive regulation)**: A Financial Services and Markets Act 2023  amendment is to bring crypto-asset trading platform + custody + stablecoin payment into **regulated activity**. 2026-27  phased implementation
+- **Stage 1 (current · MLR 2017 registration)**: The FCA assesses and supervises the AML/CTF/CPF framework, fit-and-proper status, governance, transaction monitoring, and related controls. Registration does not mean FSMA authorisation or prudential and consumer-protection approval for every product; separate regimes such as crypto financial promotions may apply in parallel. ^[Sources: https://www.fca.org.uk/firms/cryptoassets/application-registration; https://www.fca.org.uk/firms/cryptoassets/who-needs-register.]
+- **Stage 2 (new FSMA regime)**: The FCA says the new regime requiring authorisation for covered cryptoasset regulated activities starts on **2027-10-25**, and current MLR-registered firms must prepare to apply or vary their permissions. ^[Source: https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/what-you-need-to-do.]
 
 ## 3. Major licensed businesses (2024-2026)
 

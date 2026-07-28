@@ -1,18 +1,18 @@
 ---
 source: exchanges/jp-vasp-parent-company-map
-source_hash: a774608a8d99edc7
+source_hash: dd4d3a8fa5e0424c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan domestic VASP parent-company / shareholder-structure map"
-translated_at: 2026-05-31T05:31:05.796Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Japan domestic VASP parent-company / shareholder-structure map
 
 ## Overview
 
-Roughly 35 社 domestic Japanese crypto-asset exchange operators (VASPs) (as of 2026-05 ) are FSA-registered, and their behavior patterns differ greatly by parent-company attribute. Organizing the capital lineages into 3  broad categories, they split into (1) **listed-company type** (subsidiaries of independent holding companies / operating companies), (2) **independent type** (no parent; held by founders / management), and (3) **offshore type** (Japan entities of global CEXs), each differing in product design, compliance posture, and liquidity-provision strategy.
+The FSA crypto-asset exchange service provider registry lists **26 operators** as of 2026-06-30. This page starts from the parent-company attributes of that official population and separately labels related holding companies, derivatives entities, and historical operators. The capital lineages can be grouped into three broad categories: (1) **listed-company type** (subsidiaries of independent holding or operating companies), (2) **independent type** (no parent; founder or management ownership), and (3) **offshore type** (Japanese entities of global CEXs). Analytical rows added for related entities must not be treated as the FSA registrant count. ^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx, 2026-06-30, 「全業者数: 26」.]
 
 ## Large financial-conglomerate type (the main 5  cluster)
 

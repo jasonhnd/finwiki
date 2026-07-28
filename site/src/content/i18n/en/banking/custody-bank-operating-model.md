@@ -1,11 +1,11 @@
 ---
 source: banking/custody-bank-operating-model
-source_hash: 8fd126f0e8af4bbe
+source_hash: a6607c2c0b8adb23
 lang: en
 status: machine
 fidelity: ok
 title: "Custody Bank of Japan operating model"
-translated_at: 2026-06-18T23:33:48.338Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Custody Bank of Japan operating model
@@ -16,7 +16,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with the entity a
 
 ## TL;DR
 
-The Custody Bank of Japan (CBJ — 日本カストディ銀行) is the other half of Japan's two-strong asset-administration utility, formed by the 2020-07-27 merger of JTSB (日本トラスティ・サービス信託銀行) and TCSB (資産管理サービス信託銀行). Its shareholder camp is the Sumitomo Mitsui Trust Group (33.3%) + Mizuho FG (27.0%) + Resona Bank (16.7%) + Dai-ichi Life (8.0%) + life-insurer (Asahi / Meiji Yasuda / Japan Post Insurance / Fukoku) axis — distinct from MTBJ's MUFG Trust + Nippon Life + Meiji Yasuda + Norinchukin camp. Operationally CBJ does the same work as MTBJ: pension trust administration, securities-investment-trust administration, and securities custody — under the dual 銀行法 + 信託業法 license route, with direct JASDEC + BoJ JGB settlement participation. Its 「日本カストディ銀行（信託口）」 nominee name appears at the top of every TOPIX issuer's shareholder register alongside MTBJ's. The 2020 merger consolidated two duplicate systems into one mandate base and was driven by the same passive-fund growth and pension-asset scale that produced MTBJ. CBJ + MTBJ together account for the majority of Japan's institutional custody volume.
+Custody Bank of Japan (CBJ — 日本カストディ銀行) is an asset-administration bank created in July 2020 through the merger of JTC Holdings, Japan Trustee Services Bank, and Trust & Custody Services Bank. CBJ's current company profile lists Sumitomo Mitsui Trust Group (33.3%), Mizuho FG (27.0%), Resona Bank (16.7%), Dai-ichi Life (8.0%), and four other life insurers as shareholders; its recruiting disclosure describes more than JPY 710tn of assets under custody as of 2025-09. The FSA bank workbook lists CBJ in the trust-bank category, while CBJ's own business pages describe custody, settlement, accounting, reporting, securities lending, and institutional outsourcing. These sources support CBJ's scale and role, but do not by themselves establish that CBJ plus MTBJ hold a quantified majority of all Japanese institutional-custody volume, so this page does not present that comparison as a measured fact. ^[Sources: https://www.custody.jp/corporate/information/index.html; https://www.custody.jp/recruit/aboutus/about.html; https://www.custody.jp/recruit/aboutus/business.html; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
 ## 1. Institutional position
 
@@ -223,7 +223,7 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 
 ### Merger-accounting note
 
-The 2020-07-27 JTSB + TCSB merger involved system integration over multiple years; integration costs flowed through CBJ P&L and were absorbed by shareholder parents in their consolidated trust-bank operating segments. The granular cost recovery and IT-write-down profile is not publicly disclosed (CBJ is non-listed and reports only summary figures; merger goodwill specifics sit in shareholder-parent consolidated disclosure).
+CBJ's 2020 annual and interim disclosures confirm the three-company merger and publish aggregate balance-sheet and income information after launch. The reviewed public CBJ disclosures do not provide a standalone schedule attributing multi-year system-integration costs, IT write-downs, or goodwill recovery to individual shareholder-parent segments. Those allocations should therefore be treated as undisclosed rather than inferred from the merger itself. ^[Sources: https://www.custody.jp/data/disclosure/pdf/_disclosure2020.pdf; https://www.custody.jp/data/disclosure/pdf/_disclosure202101.pdf.]
 
 ## 6. JASDEC / clearing infrastructure connection
 

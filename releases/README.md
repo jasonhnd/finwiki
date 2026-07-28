@@ -14,6 +14,7 @@
 - `v2026.07.29-3` は、Issue #218 の反復事実整合性監査の精度改善と公開事実の校正を公開する release です。
 - `v2026.07.29-4` は、Issue #220 の agent infrastructure 3 entry の candidate lifecycle 再検証と active status 更新を公開する release です。
 - `v2026.07.29-5` は、Issue #219 の table-level provenance proximity 校正、complete JSON output、residual content routing を公開する release です。
+- `v2026.07.29-6` は、Issue #221 の 17 low-marker warnings を公式一次資料で校正して 15 source entries / ja / en mirrors を同期し、Issue #247 の URL-bearing provenance marker 翻訳保護を修復する release です。
 
 ### 個別には公開しない staging record
 
@@ -42,6 +43,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.29-3` publishes the repeated factual-consistency audit calibration and public-fact corrections from Issue #218.
 - `v2026.07.29-4` publishes the candidate-lifecycle recheck and active-status updates for three agent-infrastructure entries from Issue #220.
 - `v2026.07.29-5` publishes Issue #219's table-level provenance-proximity calibration, complete JSON output, and residual content routing.
+- `v2026.07.29-6` publishes Issue #221's official-primary-source corrections for 17 low-marker warnings across 15 source entries and their ja/en mirrors, plus Issue #247's translation-protection fix for URL-bearing provenance markers.
 
 ### Staging records not published individually
 
@@ -70,6 +72,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.29-3` 发布 Issue #218 的重复事实一致性审计校准与公开事实修正。
 - `v2026.07.29-4` 发布 Issue #220 对 3 个 agent infrastructure 条目的 candidate lifecycle 复核与 active status 更新。
 - `v2026.07.29-5` 发布 Issue #219 的 table-level provenance proximity 校准、完整 JSON 输出与 residual content routing。
+- `v2026.07.29-6` 发布 Issue #221 对 17 条 low-marker warnings 的官方一手资料校正与 15 个 source entries / ja / en mirrors 同步，并修复 Issue #247 的 URL-bearing provenance marker 翻译保护。
 
 ### 不单独发布的 staging record
 

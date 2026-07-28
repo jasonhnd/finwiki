@@ -3,9 +3,9 @@ title: 資産運用大手の暗号資産コンプライアンス三角形テン�
 aliases: [larry-fink-blackrock-digital-asset, blackrock-three-vector-template, etf-rwa-political-triangle]
 domain: business
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-18
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [business, people, blackrock, etf, rwa, tokenization, template, larry-fink]
 sources:
@@ -13,6 +13,8 @@ sources:
   - https://fortune.com/crypto/2024/01/18/blackrock-spot-bitcoin-etf-1-billion-assets-under-managment-aum/
   - https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network
   - https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter
+  - https://www.coinbase.com/blog/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via
+  - https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf
 status: confirmed
 ---
 
@@ -37,7 +39,7 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 ## Origin & evolution
 
-起点は2022-08のBlackRock × Coinbase戦略提携(Aladdin統合 + BTCカストディ)で、第一の柱を仕込んだ局面。2024-01-11にIBIT等11社のBTC現物ETFが同日に承認され、ETFの柱が成立。2024-03-20にBUIDLがSecuritize経由でEthereum上にローンチされ、RWAの柱が成立。2024-05にIETHが承認されETFの柱が拡張。2025-Q1のLarry Fink Annual Letter「Tokenization is the next generation for markets」で政治の柱が正式に発信開始。2026-Q1には三本の柱が同時にピークに達した:IBIT $80B + BUIDL $60B + GENIUS Act通過によりテンプレートの検証が完了。フォロワー:Franklin Templeton(BENJI)/ WisdomTree(WTI系列)/ Ondo(USDY)。
+公開一次資料で確認できる起点は、2022-08-04 の Coinbase Prime と Aladdin の接続発表である。SEC は 2024-01-10 に複数の spot bitcoin ETP の上場・取引規則変更を承認し、Securitize は 2024-03-20 に BlackRock 初の tokenized fund BUIDL の Ethereum 上での開始を発表した。BlackRock の 2025 Annual Chairman's Letter は tokenization を市場インフラの論点として扱っている。これらは ETF、tokenized fund、経営者発信という三つの公開経路の時系列を裏付けるが、特定法案への因果的影響、未固定の 2026-Q1 AUM、または「三本の柱がピークに達した」という評価までは立証しないため、本項ではその数値・因果を確定事実として扱わない。^[Sources: https://www.coinbase.com/blog/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via; https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf; https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network; https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter.]
 
 ## Related
 <!-- wiki-links:managed -->

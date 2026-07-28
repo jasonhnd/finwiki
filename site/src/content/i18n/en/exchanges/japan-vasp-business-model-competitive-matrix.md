@@ -1,18 +1,18 @@
 ---
 source: exchanges/japan-vasp-business-model-competitive-matrix
-source_hash: a51409fb3b7c29e1
+source_hash: 7ff7b5f5d7727731
 lang: en
 status: machine
 fidelity: ok
 title: "Japan VASP business-model competitive matrix — comparison of 39 社's business segments / revenue structures / differentiation axes"
-translated_at: 2026-05-31T03:19:56.398Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Japan VASP business-model competitive matrix — comparison of 39 社's business segments / revenue structures / differentiation axes
 
 ## TL;DR
 
-Japan's FSA-registered crypto-asset exchange service providers (VASPs) number approximately 27-39 社 as of 2026-05  (JVCEA membership categories + cumulative count including electronic-payment-instruments trading business). Each firm takes a different position along 10  business-model axes: **(1) spot sales-outlet / (2) spot exchange / (3) margin / leverage / (4) crypto-asset derivatives (FIEA category 1 ) / (5) custody / (6) listing specialization / (7) staking / lending / (8) IEO / (9) institutional OTC / (10) retail sales-outlet**. While the **sales-outlet spread** revenue model is the mainstay of the domestic market, foreign-affiliated Japanese entities (Binance / OKJ / OSL, etc.) appeal with **exchange order-book depth**, and Crypto Garage / Digital Asset Markets, etc. differentiate with **institutional OTC + RWA**. Starting from [[exchanges/jp-vasp-parent-company-map|親会社・株主構造マップ]] and [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]], this matrix compares 39 社 side by side along 10  axes.
+The FSA crypto-asset exchange service provider registry lists **26 operators** as of 2026-06-30. The matrix's 39 analytical rows also include crypto-asset derivatives, electronic-payment-instrument firms, institution-facing adjacent businesses, and transitional or historical related entities, so 39 must not be read as the number of FSA-registered VASPs. Each row is compared across 10 axes: **(1) spot sales outlet / (2) spot exchange / (3) margin / leverage / (4) crypto-asset derivatives / (5) custody / (6) listing specialisation / (7) staking / lending / (8) IEO / (9) institutional OTC / (10) retail sales outlet**. ^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx, 2026-06-30, 「全業者数: 26」.]
 
 ## Wiki route
 

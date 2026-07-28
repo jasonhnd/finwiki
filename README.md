@@ -8,12 +8,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1595 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1596 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1083万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,827,693） |
-| Word-like tokens | 約174万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1086万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,855,944） |
+| Word-like tokens | 約175万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
 
@@ -51,6 +51,8 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 20. factual-consistency の current-parent 抽出は、明示的な parent / shareholder label、`subsidiary of` / `owned by`、日本語の `の子会社` という方向付き文脈だけを使用します。self / peer / child / historical link を最初の link という理由で parent にせず、同じ行に複数の金額がある場合は metric label に最も近い値だけを結び付けます。
 21. `candidate` entry を `active` へ変更する際は、live な公式 product / documentation / specification / production evidence で lifecycle を再確認し、`last_updated`、`last_tended`、`review_by`、`confidence` と ja / en mirror を同じ作業で同期します。公開 entry point が存在することと、個別機能の GA、adoption、market share は別の主張として扱います。
 22. provenance table audit は、各行の marker / direct public link と、同一 section 内の明示的な table lead / caption / footer / source block を区別します。generic な近接 marker や遠い `## Sources` は table 全体を cover せず、完全に未出典の table は 1 件の table-level warning、source が混在する table は未 cover 行だけを warning とします。
+23. `low_marker_density` の content review では、warning を消すためだけに marker を挿入せず、主張を official primary source で再確認します。registry count、membership、license、法人・親会社、取引条件、推定値を区別し、一次資料が開示しない数字・因果は確定事実として保持しません。
+24. 翻訳保護では `^[...]` provenance marker 全体を URL・日付・数字より先に原子的に mask します。marker 内 URL を二重 placeholder 化せず、single-pass `unmask` の完全 round trip を single / multiple URL fixtures で固定します。
 
 ### 検証
 
@@ -71,12 +73,12 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1595 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1596 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.83M chars | ~10,827,693 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.74M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.86M chars | ~10,855,944 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.75M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
 
@@ -114,6 +116,8 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 20. Factual-consistency current-parent extraction uses only directional context: explicit parent/shareholder labels, `subsidiary of` / `owned by`, or Japanese `の子会社`. A self, peer, child, or historical link is never treated as the parent merely because it appears first, and a line with multiple amounts binds only the value nearest the metric label.
 21. Before moving a `candidate` entry to `active`, recheck its lifecycle against live official product, documentation, specification, or production evidence, then synchronize `last_updated`, `last_tended`, `review_by`, `confidence`, and the ja/en mirrors in the same work unit. A public entry point does not by itself prove that every feature is GA or establish adoption or market share.
 22. The provenance table audit distinguishes row-level markers / direct public links from explicit table leads, captions, footers, and source blocks in the same section. A generic nearby marker or distant `## Sources` does not cover a table; a wholly unsupported table emits one table-level warning, while a mixed-source table warns only on uncovered rows.
+23. A `low_marker_density` content review does not insert a marker merely to silence a warning; it rechecks the claim against official primary sources. Distinguish registry counts, membership, licences, legal entities and parents, transaction terms, and estimates, and do not retain figures or causal claims that primary sources do not disclose as established facts.
+24. Translation protection atomically masks the complete `^[...]` provenance marker before URLs, dates, and numbers. Single- and multi-URL fixtures prove a lossless one-pass `unmask` without nested placeholders inside a marker.
 
 ### Validation
 
@@ -134,12 +138,12 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1595 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1596 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1083万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,827,693） |
-| Word-like tokens | 约174万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1086万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,855,944） |
+| Word-like tokens | 约175万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
 
@@ -177,6 +181,8 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 20. factual-consistency 的 current-parent 抽取只使用有方向的上下文：明确的 parent / shareholder label、`subsidiary of` / `owned by`，或日文 `の子会社`。self、peer、child、historical link 不会仅因排在首位就被当作 parent；同一行含多个金额时，只绑定离 metric label 最近的值。
 21. 将 `candidate` entry 调整为 `active` 前，必须用仍可访问的官方 product、documentation、specification 或 production evidence 重新核实 lifecycle，并在同一工作单元同步 `last_updated`、`last_tended`、`review_by`、`confidence` 与 ja / en mirrors。公开入口仍然存在，并不等于所有功能都已 GA，也不能单独证明 adoption 或 market share。
 22. provenance table audit 会区分逐行 marker / direct public link 与同一 section 内明确的 table lead、caption、footer 和 source block。generic 的相邻 marker 或远处 `## Sources` 不能覆盖整张表；完全无局部来源的表只输出 1 条 table-level warning，来源混合的表只警告未覆盖行。
+23. `low_marker_density` content review 不能只为消除 warning 而插入 marker，必须用官方一手资料重新核对主张。要区分 registry count、membership、license、法人及母公司、交易条件与推计值；一手资料未披露的数字或因果关系，不得保留为确定事实。
+24. 翻译保护会在 URL、日期与数字之前，原子化 mask 完整的 `^[...]` provenance marker。single / multiple URL fixtures 必须证明 marker 内不会产生 nested placeholders，并能用 single-pass `unmask` 完整还原。
 
 ### 验证
 

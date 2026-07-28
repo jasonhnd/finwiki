@@ -11,9 +11,9 @@ aliases:
   - "Japan foreign bank corridor presence matrix"
 domain: "banking"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, matrix, foreign-bank, foreign-bank-branch, retreat, refocus, timeline, japan, custody, corporate-banking, markets, wealth]
 status: active
@@ -41,7 +41,7 @@ The foreign-bank parent and Japan-entity pages referenced here are: US (Citi, JP
 
 ## Why this matrix matters
 
-"Foreign bank X left Japan" is one of the most over-stated claims in Japan financial-system commentary. The FSA foreign-bank branch registry shows 57 active branches as of 2026-05-13 — so the licensed-presence side is not shrinking in raw count terms. What is shrinking is the consumer-facing brand surface (Citibank retail → 2014, HSBC Premier → 2012) and the high-touch wealth / domestic-IPO franchise some foreign IBs maintained in the 2000s.
+"Foreign bank X left Japan" is one of the most over-stated claims in Japan financial-system commentary. The FSA foreign-bank branch worksheet shows exactly 57 licensed foreign-bank branches as of 2026-05-13 — so the licensed-presence side is not shrinking in raw count terms. What is shrinking is the consumer-facing brand surface (Citibank retail → 2014, HSBC Premier → 2012) and the high-touch wealth / domestic-IPO franchise some foreign IBs maintained in the 2000s. ^[Source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, worksheet 「外国銀行支店」, 2026-05-13.]
 
 Specifically, the matrix surfaces:
 
