@@ -38,6 +38,7 @@ bun run verify
 - Generated diff is intentional.
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
 - No truthfulness audit artifact or local artifact path changes corpus/API/sitemap counts or enters generated/public output.
+- Historical audit fixtures reproduce the observed freshness trend, two-cycle growth can trip, repeated consistency groups count both source sides, and the workflow passes downloaded scheduled history into the runner.
 - No stale moved-domain API JSON remains after release write.
 - Fixed-timestamp regeneration is byte-identical for the six fixed discovery targets and every per-entry API JSON, including `metrics.last_modified`.
 - Generated Japanese canonicals, English alternates, raw `.md` and API URLs resolve as non-empty regular files in the final assembled output.

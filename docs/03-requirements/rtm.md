@@ -33,6 +33,7 @@
 | NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, deploy/Vercel pipelines | `bun run publish:test` + assembled-output inspection | release note |
 | NFR-015 | [NFR](nfr.md) | `tools/audit_runner.ts`, shared walk exclusions, truthfulness workflow, static publisher | `bun test tools/audit_artifact_isolation.test.ts` + strict release/surface checks | release note |
 | NFR-016 | [NFR](nfr.md) | `lib/markdown_helpers.ts`, discovery generator/audits, `tools/verify.ts`, canonical verification/deploy workflows | `bun run surface:drift` + `bun test tools/discovery_routes.test.ts` + `bun run verify --out _site` | release note |
+| NFR-017 | [NFR](nfr.md) | `tools/audit_runner.ts`, `.github/workflows/truthfulness-audit.yml`, historical summary fixtures | `bun test tools/audit_runner.test.ts` + historical `bun run audit:all` + workflow YAML parse | release note |
 | FSD-001 | [FSD](../05-functional-specs/fsd.md) | site rendering docs and Astro pages | site build / release check | release note |
 | FSD-002 | [FSD](../05-functional-specs/fsd.md) | search index generation | strict check / build | release note |
 | FSD-003 | [FSD](../05-functional-specs/fsd.md) | wikilink resolution | link audit | release note |
