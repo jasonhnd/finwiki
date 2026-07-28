@@ -12,6 +12,7 @@
 - `v2026.07.29` は、Issue #195 の entry-discovery build graph と cache invalidation 修復を公開する release です。
 - `v2026.07.29-2` は、Issue #217 の fact-freshness event inference 精度改善を公開する release です。
 - `v2026.07.29-3` は、Issue #218 の反復事実整合性監査の精度改善と公開事実の校正を公開する release です。
+- `v2026.07.29-4` は、Issue #220 の agent infrastructure 3 entry の candidate lifecycle 再検証と active status 更新を公開する release です。
 
 ### 個別には公開しない staging record
 
@@ -38,6 +39,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.29` publishes the entry-discovery build graph and cache-invalidation repair from Issue #195.
 - `v2026.07.29-2` publishes the fact-freshness event-inference precision repair from Issue #217.
 - `v2026.07.29-3` publishes the repeated factual-consistency audit calibration and public-fact corrections from Issue #218.
+- `v2026.07.29-4` publishes the candidate-lifecycle recheck and active-status updates for three agent-infrastructure entries from Issue #220.
 
 ### Staging records not published individually
 
@@ -64,6 +66,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.29` 发布 Issue #195 的 entry-discovery build graph 与 cache invalidation 修复。
 - `v2026.07.29-2` 发布 Issue #217 的 fact-freshness event inference 精度修复。
 - `v2026.07.29-3` 发布 Issue #218 的重复事实一致性审计校准与公开事实修正。
+- `v2026.07.29-4` 发布 Issue #220 对 3 个 agent infrastructure 条目的 candidate lifecycle 复核与 active status 更新。
 
 ### 不单独发布的 staging record
 

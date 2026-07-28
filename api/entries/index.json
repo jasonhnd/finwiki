@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T01:48:01+09:00",
+  "generated_at": "2026-07-29T02:06:41+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -264,7 +264,7 @@
     {
       "slug": "agent-economy/coinbase-agentkit-agentic-wallets",
       "domain": "agent-economy",
-      "title": "Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base",
+      "title": "Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/coinbase-agentkit-agentic-wallets.json",
       "url": "https://finwiki.zksc.io/ja/agent-economy/coinbase-agentkit-agentic-wallets/",
       "html_url": "https://finwiki.zksc.io/ja/agent-economy/coinbase-agentkit-agentic-wallets/",
