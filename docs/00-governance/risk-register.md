@@ -6,7 +6,7 @@
 | RISK-002 | `docs/` 被误纳入 corpus 或 discovery surface。 | 内部开发文档被公开站点/AI surface 当成知识条目。 | 保持 `EXCLUDED_WALK_DIRS` + `IGNORED_DIRS` 双排除；release gate 后抽查 surface。 | Maintainer |
 | RISK-003 | 发布记录不足，下一轮无法判断变更边界。 | 回归定位困难，GitHub Release 不可审计。 | `CHANGELOG.md` 和 `releases/v*.md` 必须写背景、范围、步骤、验证、后续。 | Maintainer |
 | RISK-004 | 公开信息边界被破坏。 | 泄露隐私或非公开信息。 | 公开信息政策、QA checklist、敏感信息 grep、人工审阅。 | Maintainer |
-| RISK-005 | release write 污染 lastmod。 | sitemap/API lastmod 大面积漂移。 | fresh clone 后恢复 mtime；参考 `gotchas.md`；用 diff 审核。 | Maintainer |
+| RISK-005 | release write 污染 lastmod。 | sitemap/API lastmod 大面积漂移。 | 保留完整 Git history；确认已有 committed discovery fallback；先提交 source 再生成 release；filesystem mtime 仅作最终兜底；用 diff 审核。 | Maintainer |
 | RISK-006 | i18n mirror stale 或 hash 误用。 | 多语言站点内容不一致。 | source hash 保持语义；翻译变更走 i18n pipeline；发布时抽查。 | Maintainer |
 | RISK-007 | 并行 agent 越界改文件。 | unrelated diff 和冲突扩大。 | file-scope prompt、批次隔离、`git status` 对账。 | Maintainer |
 | RISK-008 | 需求、架构、规格未建立追踪。 | 文档多但无法验收。 | RTM 用 ID 映射需求、实现文件、验证命令和 release note。 | Maintainer |
