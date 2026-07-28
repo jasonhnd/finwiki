@@ -3,6 +3,7 @@ import EntryLayout from '../../layouts/EntryLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { langCodes, type Lang } from '../../i18n/ui';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
+import { publishableTranslations } from '../../lib/translations';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -18,7 +19,7 @@ export async function getStaticPaths() {
 
   let i18nMap = new Map<string, any>();
   try {
-    const all = await getCollection('i18n');
+    const all = publishableTranslations(await getCollection('i18n'));
     i18nMap = new Map(all.map((entry) => [entry.id, entry]));
   } catch {}
 
