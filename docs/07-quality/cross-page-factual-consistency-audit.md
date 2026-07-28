@@ -188,6 +188,11 @@ Reason codes should be stable:
 7. **Use allowlists before broad regexes**. Start with licence / registration and dated status facts.
 8. **Emit `needs_review` rather than failure for ambiguous prose**.
 9. **Do not gate release initially**. Gate only after first baseline is triaged and false-positive rate is acceptable.
+10. **Resolve relationship direction before extracting a parent**. Use explicit `parent` / `shareholder`, `subsidiary of` / `owned by`, or Japanese `の子会社` context; never treat the first link on a line as the parent.
+11. **Ignore explicitly historical relationship prose and dated timeline rows** when deriving the current parent.
+12. **Bind a numeric value to the nearest matching metric label** when one line also contains ownership percentages or other amounts.
+
+The Issue #218 calibration applies these controls to the deterministic extractor. Ambiguous peer, self, child, and historical links remain outside the current-parent comparison, while focused fixtures retain coverage for genuine Japanese / English parent differences and capital differences.
 
 ## Implementation Feasibility
 

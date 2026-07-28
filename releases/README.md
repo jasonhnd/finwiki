@@ -11,6 +11,7 @@
 - `v2026.07.28-9` は、2026-07-28 の `pre → main` catch-up promotion と同じ main merge commit を target にする統合 release です。
 - `v2026.07.29` は、Issue #195 の entry-discovery build graph と cache invalidation 修復を公開する release です。
 - `v2026.07.29-2` は、Issue #217 の fact-freshness event inference 精度改善を公開する release です。
+- `v2026.07.29-3` は、Issue #218 の反復事実整合性監査の精度改善と公開事実の校正を公開する release です。
 
 ### 個別には公開しない staging record
 
@@ -36,6 +37,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.28-9` is the consolidated Release targeting the same main merge commit as the 2026-07-28 `pre → main` catch-up promotion.
 - `v2026.07.29` publishes the entry-discovery build graph and cache-invalidation repair from Issue #195.
 - `v2026.07.29-2` publishes the fact-freshness event-inference precision repair from Issue #217.
+- `v2026.07.29-3` publishes the repeated factual-consistency audit calibration and public-fact corrections from Issue #218.
 
 ### Staging records not published individually
 
@@ -61,6 +63,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.28-9` 是 2026-07-28 `pre → main` catch-up promotion 的整合 Release，target 与该 main merge commit 相同。
 - `v2026.07.29` 发布 Issue #195 的 entry-discovery build graph 与 cache invalidation 修复。
 - `v2026.07.29-2` 发布 Issue #217 的 fact-freshness event inference 精度修复。
+- `v2026.07.29-3` 发布 Issue #218 的重复事实一致性审计校准与公开事实修正。
 
 ### 不单独发布的 staging record
 

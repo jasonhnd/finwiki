@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T01:15:32+09:00
+Generated: 2026-07-29T01:48:00+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1592
-Public pages listed: 1591
+Markdown files: 1593
+Public pages listed: 1592
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1591
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Fact-freshness event inference calibration (#217), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Repeated factual-consistency calibration (#218), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -9630,7 +9630,7 @@ Public pages listed: 1591
 - Type: wiki_entry
 - Canonical anchor: life-insurers/sony-life -> https://finwiki.zksc.io/ja/life-insurers/sony-life/
 - Summary: This entry sits under insurance index and is the channel / operating-model deep dive for Sony Life. Read it together with life insurance channel mix for the macro framing of agent vs bancassurance vs direct, with Japan life big four for the traditional sales-agency contrast, with internet life busin
-- Headings: Sony Life group-life and Lifeplanner operating model, Wiki route, TL;DR, Lifeplanner channel (tied, consultative, individual life), Group life (集団保険) channel, What is explicitly not in the channel, Foreign-tech parent governance, Sony FG re-buyout and capital architecture
+- Headings: Sony Life group-life and Lifeplanner operating model, Wiki route, TL;DR, Lifeplanner channel (tied, consultative, individual life), Group life (集団保険) channel, What is explicitly not in the channel, Listed holding-company governance after the partial spin-off, Take-private, relisting, and capital architecture
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/, https://finwiki.zksc.io/ja/insurance/esr-economic-value-solvency/, https://finwiki.zksc.io/ja/insurance/foreign-life-affiliate-japan-positioning/, https://finwiki.zksc.io/ja/insurance/global-solvency-framework-comparison-matrix/, https://finwiki.zksc.io/ja/insurance/insurance-agency-and-brokerage-japan/, https://finwiki.zksc.io/ja/insurance/internet-life-insurance-business-model/, https://finwiki.zksc.io/ja/insurance/japan-iaig-ics-mapping/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/
 
 ### leasing-firms — Japanese leasing / auto-finance / captive-lessor index
@@ -14611,9 +14611,9 @@ Public pages listed: 1591
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/au-jibun-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, 三菱UFJ銀行 as parent group co-investor, and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, au フィナンシャルホールディングス for the current direct-shareholder boundary, and banking index for the broader system / regulatory boundary.
 - Headings: au じぶん銀行 (au Jibun Bank), Wiki route, TL;DR, 1. 法人・株主, 2. ライセンス・規制境界, 3. 業務セグメント, 4. 親会社・グループ関係, 5. 競合・業界ポジション
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/sony-bank/, https://finwiki.zksc.io/ja/trust-banks/orix-bank/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/sony-bank/, https://finwiki.zksc.io/ja/trust-banks/orix-bank/
 
 ### 阿波銀行
 - URL: https://finwiki.zksc.io/ja/regional-banks/awa-bank/
@@ -17159,6 +17159,15 @@ Public pages listed: 1591
 - Domain: releases
 - Type: release_note
 - Headings: 事実鮮度イベント推論の精度改善, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 反復事実整合性監査の精度改善
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-3.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-3.md
+- Source path: releases/v2026.07.29-3.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-3.md
+- Domain: releases
+- Type: release_note
+- Headings: 反復事実整合性監査の精度改善, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md

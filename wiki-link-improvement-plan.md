@@ -70,7 +70,7 @@
 | `fintech` | 144 | 0 | 10.9 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
-| `insurance` | 33 | 0 | 42.7 |
+| `insurance` | 33 | 0 | 42.6 |
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
