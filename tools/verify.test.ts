@@ -102,6 +102,7 @@ describe("required verification pipeline", () => {
       "index:counts",
       "wiki:audit:ci",
       "html:check",
+      "html:metadata",
     ]) {
       expect(allCommands).toContain(requiredScript);
     }
