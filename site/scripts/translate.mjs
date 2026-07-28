@@ -10,7 +10,7 @@
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs                # full English incremental run
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs --domain money-market   # 1 域だけ
 //   ... --lang en --limit 5 --force
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
@@ -53,15 +53,6 @@ function fmTitle(fm) {
 function fmHash(fm) {
   const m = fm.match(/^source_hash:\s*(.+)\s*$/m);
   return m ? m[1].trim() : '';
-}
-
-function* walk(dir, rel = '') {
-  if (!existsSync(dir)) return;
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    const r = rel ? `${rel}/${e.name}` : e.name;
-    if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
-  }
 }
 
 async function callLLM(maskedText, lang) {
@@ -159,7 +150,7 @@ async function main() {
     mkdirSync(dirname(outPath), { recursive: true });
     writeFileSync(outPath, head + localizedBody.replace(/\n*$/, '') + '\n', { encoding: 'utf8' });
   };
-  for (const rel of walkEntries(walk)) {
+  for await (const rel of walkEntries()) {
     if (done >= LIMIT) break;
     if (ONLY_DOMAIN && !rel.toLowerCase().startsWith(ONLY_DOMAIN.toLowerCase() + '/')) continue;
     if (ONLY_PATHS && !ONLY_PATHS.includes(rel.toLowerCase())) continue;
