@@ -1,12 +1,12 @@
 # Next Development Plan
 
-> Development plan for the next FinWiki phase after the documentation-system rebuild. It is based on [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md) and current code behavior, not on older roadmap snapshots.
+> Completed historical implementation plan derived from the 2026-06-08 documentation rebuild and [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md). The tooling, i18n, operations, and bounded-content packets below were delivered through their linked issues. This file is retained for design evidence, not current work authorization; use [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue%20state%3Aopen) for live intake.
 
 ## Planning Principle
 
-Do not add more content volume until the public entry points, documentation checks, and i18n freshness checks are first-class tooling. FinWiki already has 40 domains and 1485 link-audited entries; the next phase should improve control, repeatability and handoff quality. The 2026-06-08 drift audit also corrected stale canonical-anchor paths and stale API cleanup behavior, so new work should build on those facts rather than old JapanFG aliases or memory-only deployment steps.
+The plan prioritized public entry points, documentation checks, and i18n freshness controls before further content volume. Those controls are now first-class tooling. Current corpus metrics must be read from `ai-index.json` and the strict release output rather than copied into this historical plan.
 
-## Phase A - Public Entry-Point Audit Hardening
+## Phase A - Public Entry-Point Audit Hardening (completed)
 
 Goal: make `.txt` AI/crawler entry points as safe as Markdown entries.
 
@@ -30,7 +30,7 @@ Acceptance:
 - The check can be called from the release gate or package script.
 - Historical `.txt` entries are not rewritten unless the check finds a real issue.
 
-## Phase B - Developer Docs Quality Gates
+## Phase B - Developer Docs Quality Gates (completed)
 
 Goal: make internal docs safe to use even though `docs/` is intentionally excluded from corpus/wikilink audit.
 
@@ -84,7 +84,7 @@ Acceptance:
 - The scan distinguishes historical prose from page/source/API entries.
 - It catches stale `api/entries/<old-domain>/` files after a route/domain move.
 
-## Phase C - i18n Freshness And Integrity Reporting
+## Phase C - i18n Freshness And Integrity Reporting (completed)
 
 Goal: turn i18n status from batch memory into a repeatable report.
 
@@ -114,7 +114,7 @@ Acceptance:
 - It does not rewrite `source_hash`.
 - It can be used before translation batches and after domain moves.
 
-## Phase D - Release And Deployment Operations
+## Phase D - Release And Deployment Operations (completed)
 
 Goal: make local and GitHub deployment verification less dependent on memory.
 
@@ -140,7 +140,7 @@ Acceptance:
 
 - Add repair recipes for count drift, docs leakage, canonical drift, `.txt` audit failure, i18n stale spike and deployment failure.
 
-## Phase E - Content Quality After Tooling
+## Phase E - Content Quality After Tooling (completed)
 
 Goal: resume content work only after the tooling/control gaps above are closed.
 
@@ -190,32 +190,32 @@ Candidate domains reviewed: `security`, `retail`, `consumer-finance`, `financial
 
 Rule (unchanged): add pages only after a public-source gap is identified and the route cannot be served by an existing page.
 
-#### Recommended now (1)
+#### Historical recommendation (delivered)
 
 | Route | Domain | Rationale | Public-source basis | Why an existing page can't cover |
 |---|---|---|---|---|
 | `financial-licenses/japan-trust-business-license-stack` | financial-licenses | The domain holds horizontal license-**stack** pages for bank, securities, payment, and insurance, but **not trust** — trust is only a Core-License-Matrix row routing to entity pages. A trust-business license-stack page (信託業法: 運用型 / 管理型 信託会社, 信託兼営金融機関, 信託契約代理業, custody / master-trust functions, 特定信託) completes the parallel set. | 信託業法 (e-Gov 法令検索); FSA 信託会社 / 信託兼営金融機関 lists (fsa.go.jp/menkyo) | `trust-banks/*` (SMTH, Custody Bank, Master Trust Bank) are ENTITY pages; `financial-licenses/foreign-financial-group-adjacent-licenses` covers only the foreign-group trust slice. No horizontal Japanese trust-**license** page exists like the other four stacks. |
 
-#### Deferred — do not create now
+#### Historical deferrals
 
 - `security/timelock-governance-pattern`, `security/non-evm-bytecode-forensics` — the only maintainer-noted future directions (security INDEX). Niche crypto-forensics, tangential to the Japan-finance core; revisit only on a concrete public-source trigger.
 - `financial-licenses/lending-installment-credit-license-stack` (貸金業法 + 割賦販売法 horizontal stack) — already partially served by `card-issuers/installment-sales-act-2020-amendment` and the `consumer-finance` INDEX regulation notes; create only if those prove insufficient for a real route.
 
-#### No expansion now — at healthy coverage (documented per acceptance)
+#### Historical no-expansion decisions
 
 - `consumer-finance`: the 3 大消費者金融 (Acom / MUFG-affiliated, Promise / SMFG, Aiful / independent) + レイク (Shinsei Financial / SBI) are covered; no remaining major 貸金業 operator has an uncovered bank/megabank/card group relationship under the domain's strict expansion rule.
 - `retail`: INDEX Expansion Backlog is fully "Done" (Wave 6 wedge/economic-sphere matrices + the CVS-finance comparison shipped).
 - `trading-company-finance` and `financial-conglomerates`: both cover all seven sōgō-shōsha (Mitsubishi, Mitsui, Itochu, Sumitomo, Marubeni, Sojitz, Toyota Tsusho) as entity + finance-arm pairs — complete.
 
-#### Implementation scope for #9 (content agent)
+#### Delivered implementation scope for #9
 
 - **Allowed files**: `financial-licenses/japan-trust-business-license-stack.md` (new entry, use the financial-licenses INDEX Expansion Template), `financial-licenses/INDEX.md` (add to Domain Members + the Active Expansion Backlog row), README / CHANGELOG / `releases/**` / generated surfaces if counts change; optionally the new page's `site/src/content/i18n/{ja,en}/...` mirrors via the i18n pipeline.
 - **Source-of-truth**: follow the financial-licenses INDEX "Source-of-Truth Checklist" (FSA lists → law / guideline → e-Gov text → entity disclosure → negative-finding discipline). No legal advice; promote to `confidence: likely` only when source-verified.
 - **Validation**: `bun tools/release.ts --write` then `bun tools/release.ts --check --strict`; `bun tools/wiki_link_audit.ts --fail-on-issues` (dead=0); `git diff --check`.
 
-## Recommended Sequence
+## Historical Delivery Sequence
 
-| Order | Work item | Why first | Owner model role |
+| Order | Delivered work item | Sequencing rationale | Owner model role |
 |---:|---|---|---|
 | 1 | `.txt` route/link audit | Protects public AI entry points and closes a known audit gap. | High-reasoning spec agent -> code implementation agent |
 | 2 | Docs Markdown link checker | Makes the new documentation system self-checking. | High-reasoning spec agent -> code implementation agent |
@@ -226,14 +226,14 @@ Rule (unchanged): add pages only after a public-source gap is identified and the
 | 7 | v12 dedup review | Content cleanup after tooling is safer. | High-reasoning content reviewer |
 | 8 | Small-domain expansion | Adds content only after operational controls are stronger. | Content agents under file-scope rules |
 
-## Non-Goals For This Phase
+## Historical Non-Goals For This Phase
 
 - No broad UI redesign. Targeted UI/CSS work should follow [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme System](../04-architecture/theme-system.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), and [Visual QA Checklist](../07-quality/visual-qa-checklist.md).
 - No new large translation batch unless i18n status reporting shows the exact scope.
 - No bulk content expansion before `.txt` audit and docs checks are first-class.
 - No model-version-specific workflow rules; keep model roles capability-based.
 
-## Validation Bundle
+## Historical Validation Bundle
 
 Each completed item should end with:
 

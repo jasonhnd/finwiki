@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-28T13:58:30+09:00
+Generated: 2026-07-28T20:31:38+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1579
-Public pages listed: 1578
+Markdown files: 1581
+Public pages listed: 1580
 
 ## Reading Rules
 
@@ -17049,6 +17049,24 @@ Public pages listed: 1578
 - Domain: releases
 - Type: release_note
 - Headings: 最終組立済み文書の全リンク監査と十九件の壊れた経路修復, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 活用中の開発文書とリポジトリ情報の修復
+- URL: https://finwiki.zksc.io/releases/v2026.07.28-4.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28-4.md
+- Source path: releases/v2026.07.28-4.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-4.md
+- Domain: releases
+- Type: release_note
+- Headings: 活用中の開発文書とリポジトリ情報の修復, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 翻訳保護と公開隔離の強化
+- URL: https://finwiki.zksc.io/releases/v2026.07.28.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28.md
+- Source path: releases/v2026.07.28.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28.md
+- Domain: releases
+- Type: release_note
+- Headings: 翻訳保護と公開隔離の強化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/ja/domains/retail/

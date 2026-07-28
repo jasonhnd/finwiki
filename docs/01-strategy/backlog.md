@@ -1,25 +1,14 @@
 # 待办清单 / Backlog
 
-> 一站式 open-items，沉淀自历史 CHANGELOG 的「次の作業 / 既知の注意点」。状态：🔴 未开始 / 🟡 进行中 / 🟢 近期完成可移除。完成后移到 [roadmap.md](roadmap.md) 的「已完成」并从此处删。
+> 本文件保留长期工作流与已完成批次的历史背景，不再复制实时 issue 编号、状态或排序。
 
 ## 当前优先级（GitHub Issues 驱动）
 
-> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**（`gh issue list`）。**当前 open：#22–#27（6 项，见下）**；#1–#21 全部关闭。下表含当前 open 项 + 最近一轮完结快照，详情见 [roadmap.md](roadmap.md)「已完成」。
+2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。
 
-| 状态 | GitHub | 项目 | 备注 |
-|---|---|---|---|
-| 🔴 next | #22 | 内容深化批次规划（planning, agent-ready） | 只读评审圈 ~15–25 个可深化 entity 页 → task packet → 解锁 #26。仿 #15→#8 / #16→#9。 |
-| 🔴 next | #24 | 域 INDEX entry 计数校验（tooling, agent-ready） | per-domain INDEX count 漂移 CI 现抓不到；加校验 + 可选 `--write` 同步。 |
-| 🔴 next | #27 | CONTRIBUTING.md 贡献者指南（docs, agent-ready） | 综合现有文档为单一贡献入口；内部文档已齐全，缺的是贡献者面。 |
-| 🔴 later | #26 | 内容深化执行（content, **blocked** by #22） | #22 的 task packet 落地后开做。 |
-| 🔴 later | #23 | 人类版 UI 阅读体验（uiux, **needs-spec**） | 编辑型金融参考方向；实现前先补规格。 |
-| 🔴 later | #25 | 小域扩充 round 2（planning） | 复评 #16 后是否还有可补小域。 |
-| 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
-| 🟢 | #10–#13 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#13 UI/UX baseline 文档；#18 index.html og/正文双语计数纳入 `release.ts` 同步。 |
-| 🟢 | #14–#17 | 规划 / 对账任务包 | #14 backlog/roadmap 对账；#15 v12 双批去重任务包；#16 小域扩充候选清单；#17 i18n 刷新批次规划。 |
-| 🟢 | #8 / #9 | Phase E 内容 | #8 v12 双批去重（3 合并、退役 3 页）；#9 日本信托业 license stack 页。 |
-| 🟢 | #19 / #20 / #21 | i18n 批次 | #19 financial-licenses 镜像迁移；#20 cooperative-banks 缺译 + 清 en needs_review；#21 stale 分类 + 刷新（C-1 re-sync / C-2a remap / C-2b 重译）。 |
-| 🟢 | — | **i18n stale 清零（2026-06-19）** | #21 后残余 + 两波 benign-drift + 9 个 pre-rename `source:` pointer 全部 opus 重译。当前双语 `i18n:status` 以 ja/en 为准，要求 stale/missing/orphaned/drift 全 0。详见 [CHANGELOG](../../CHANGELOG.md)。 |
+- [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue%20state%3Aopen) 是实时范围、状态、依赖与排序的唯一真相源。
+- `status:*`、`queue:*`、`agent-ready`、`needs-spec` 等标签决定执行入口；本文件不再手抄编号队列。
+- 已交付批次与长期维护约束保留在下文作为历史和决策背景；它们不构成新的工作授权。
 
 ## historical canonical_anchor（P1）
 
@@ -57,7 +46,7 @@
 
 ## 维护提醒（非待办，长期注意）
 
-- clone 后首次发布前要恢复 mtime（见 [gotchas.md](../07-quality/gotchas.md) #1）。
+- 发布计数与 `last_modified` 使用完整 Git history 和已提交 discovery snapshot 作为主要依据；源内容提交后再生成 release，filesystem mtime 只允许作为最后兜底（见 [gotchas.md](../07-quality/gotchas.md) #1）。
 - 改领域名要同步 4 处（site 三配置 + wiki_link_audit map + INDEX 表），见 [gotchas.md](../07-quality/gotchas.md) #5 / [adr.md](../04-architecture/adr.md) ADR-001。
 - README / CHANGELOG 散文里别写字面 `[[domain/...]]`（见 gotchas #6）。
 - 内容增删后 root / domain INDEX 表 count 易滞后；`release.ts` 不自动改领域 count，需按 disk 实数手动对账（v2026.06.05-4 修过一轮）。
