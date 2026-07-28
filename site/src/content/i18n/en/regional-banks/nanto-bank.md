@@ -1,6 +1,6 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: 83dcc09d480c43ee
+source_hash: deedf775be17d540
 lang: en
 status: machine
 fidelity: ok

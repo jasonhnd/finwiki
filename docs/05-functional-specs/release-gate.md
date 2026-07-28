@@ -38,7 +38,7 @@ The canonical command runs all Bun tests, including the destructive/public-file 
 - `docs/`, `lib/`, tooling, development configuration, hidden/ignored source files, unmanifested domain/API files and unknown root files remain absent; the assembler-created `.nojekyll` marker is the only hidden output exception.
 - root, ja/en, crawler, AI/API and Pagefind required routes must exist as non-empty regular files in the final assembled output.
 
-The required-route check is a release smoke gate. Issue #183 separately owns crawling every internal href and repairing route-level content links.
+The required-route check remains a release smoke gate. The separate final-HTML route audit parses every assembled HTML element carrying `href`, resolves relative and same-origin absolute values from the source page's deployed URL, strips query strings and fragments, and requires the target to be an exact-case, non-empty, non-symlink regular file. External origins and non-HTTP schemes are not deployment-availability claims. A committed negative fixture proves that a missing internal route blocks the canonical runner.
 
 ## Shared execution surfaces
 
@@ -57,6 +57,7 @@ The required-route check is a release smoke gate. Issue #183 separately owns cra
 - Discovery drift: run `--write`, review generated diff, rerun check.
 - Exact-regeneration drift: preserve the committed `generated_at` values, fix nondeterministic fields or stale generated files, then rerun `bun run surface:drift`.
 - Generated-route failure: fix URL construction or assembly, regenerate, rebuild and rerun `bun run ai:audit --out <approved-output>`; do not replace localized HTML canonicals with extensionless raw paths.
+- Final-HTML href failure: inspect the reported source HTML, element, original `href`, resolved URL and filesystem reason; repair the route or source link, rebuild and rerun `bun run html:routes --out <approved-output>`.
 - Docs/development-file leakage: verify corpus exclusions, site allowlists, generated manifests and the static-publish allowlist.
 - Unsafe publish output: use `_site` or `_vercel_public`; never relax output validation to make a local command pass.
 - Missing required final route: inspect assembly and Pagefind output; do not remove a required route to make the check pass.
@@ -65,4 +66,4 @@ The required-route check is a release smoke gate. Issue #183 separately owns cra
 
 ## Acceptance
 
-Release is not publishable until `bun run verify` exits 0, including `Generated-surface drift scan passed`, `Generated route audit passed` and final `FinWiki required verification: PASS`. A pull request is not mergeable until the fresh `Required verification` context is green. `main` protection must require a pull request and that context, include administrators, and reject force pushes/deletion; repository-rule evidence is part of closeout.
+Release is not publishable until `bun run verify` exits 0, including `Generated-surface drift scan passed`, `final HTML route audit: PASS`, `Generated route audit passed` and final `FinWiki required verification: PASS`. A pull request is not mergeable until the fresh `Required verification` context is green. `main` protection must require a pull request and that context, include administrators, and reject force pushes/deletion; repository-rule evidence is part of closeout.

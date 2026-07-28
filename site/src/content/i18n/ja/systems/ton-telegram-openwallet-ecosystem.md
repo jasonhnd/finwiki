@@ -40,7 +40,7 @@ AI エージェントが次のことを必要とする場合:
 - Web3 の摩擦なしでオンボードする
 - 十億人規模のユーザーベースに到達する
 
-Telegram + TON は、構造的に利用可能な最も単純なスタックの一つである。[[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]](開発者にとって扱いやすいステーブルコインSDK)や [[agent-economy/privy-embedded-wallet-overview|Privy]](埋め込みウォレットUX)とは、異なる次元で比較できる。
+Telegram + TON は、構造的に利用可能な最も単純なスタックの一つである。[[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]] (開発者にとって扱いやすいステーブルコインSDK)や [[agent-economy/privy-embedded-wallet-overview|Privy]] (埋め込みウォレットUX)とは、異なる次元で比較できる。
 
 ## TON アーキテクチャの概要
 
