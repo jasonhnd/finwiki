@@ -1,7 +1,7 @@
 # FinWiki Index
 
 > Last privacy review: 2026-05-25 JST.
-> Current public surface: 1485 wiki entries checked by the link audit, including domain entries and the root index, plus control documents, templates, and release notes.
+> Current public-surface counts are generated into `ai-index.json`, `README.md`, and `index.html`; the strict release, wikilink, and index-count audits verify them instead of relying on a handwritten snapshot here.
 
 FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-asset regulation, Japanese financial institutions, payment infrastructure, capital markets, and adjacent industrial context.
 
