@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/cci-group
-source_hash: 1082cacd69871d9e
+source_hash: a9da925b456d67eb
 lang: en
 status: machine
 fidelity: ok
 title: "CCI Group"
-translated_at: 2026-06-15T03:48:21.854Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # CCI Group
@@ -34,6 +34,9 @@ The page matters because the rename is not only cosmetic. The official profile d
 | Listing | Tokyo Stock Exchange Prime, 7381 |
 | Core operating bank | [[regional-banks/hokkoku-bank|Hokkoku Bank]] |
 | Regulatory route | FSA bank holding-company list |
+
+Sources: ^[CCI Group company profile: https://www.ccig.co.jp/company/about/; CCI Group corporate site: https://www.ccig.co.jp/company/; FSA bank holding-company list: https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf.]
+
 
 The existing [[regional-banks/hokkoku-fhd|hokkoku-fhd]] page remains a historical / old-name bridge, but the current official-name route point here.
 

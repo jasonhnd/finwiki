@@ -24,9 +24,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -45,7 +45,8 @@
       "https://nevermined.io/",
       "https://docs.nevermined.io/",
       "https://github.com/nevermined-io",
-      "https://nevermined.app/"
+      "https://nevermined.app/",
+      "https://docs.x402.org/"
     ]
   },
   "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP-native micropayment for peer / contrast, skill market monetization for the marketplace framing, and payments index for the broader rail context.",
@@ -94,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4702,
-    "word_like_tokens": 708,
+    "nonspace_chars": 5751,
+    "word_like_tokens": 864,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

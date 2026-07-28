@@ -3,9 +3,9 @@ title: "日本証券金融 (JSF)"
 aliases: ["JSF", "Japan Securities Finance", "日本証券金融", "日証金", "8511"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, securities-finance, margin, listed-company]
 status: active
@@ -44,6 +44,8 @@ For FinWiki, JSF links retail margin trading, institutional stock lending, broke
 | Listing | Tokyo Stock Exchange Prime Market |
 | Core business | Securities finance under the FIEA |
 
+Sources: ^[Japan Securities Finance company profile: https://www.jsf.co.jp/ja/about/outline.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
+
 ## 2. 事業セグメント・マップ
 
 | Layer | Function |
@@ -52,6 +54,8 @@ For FinWiki, JSF links retail margin trading, institutional stock lending, broke
 | Securities finance | Lending, borrowing, and collateralized finance tied to listed securities. |
 | Securities investment | Investment and treasury operations. |
 | Trust-bank adjacency | JSF group includes trust-bank functions through Nisshokin Trust Bank. |
+
+Sources: ^[Japan Securities Finance company and investor-relations pages: https://www.jsf.co.jp/ja/about/outline.html; https://www.jsf.co.jp/ja/ir.html.]
 
 ## 3. 戦略・競争
 

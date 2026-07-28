@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-policy-finance-map
-source_hash: 27ae54ac65611541
+source_hash: 3cbba3f44a3c7e9a
 lang: en
 status: machine
 fidelity: ok
 title: "Japan policy-finance map"
-translated_at: 2026-05-31T23:59:49.321Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Japan policy-finance map
@@ -59,6 +59,9 @@ The core analytical split is **commercial bank license vs policy-finance mandate
 | A domestic infrastructure, GX, restructuring, or larger-company risk-capital case needs long-term money | [[financial-regulators/dbj|DBJ]] | DBJ is closer to development-bank / growth-capital / crisis-response finance than SME policy credit. |
 | An Okinawa borrower or regional-development project needs policy finance | [[policy-finance/okinawa-development-finance-corp|ODFC]] | ODFC is the Okinawa-specific consolidated institution and should not be routed mechanically to mainland JFC. |
 | The issue is "what legal authority permits this activity?" | [[financial-licenses/INDEX]] | The legal / license page separates bank, securities, insurance, payment, crypto, and special-corporation regimes. |
+
+Sources: ^[This is a FinWiki use-case routing synthesis from each institution's official mandate: JFC https://www.jfc.go.jp/n/english/about/profile.html; JBIC https://www.jbic.go.jp/en/about/organization.html; DBJ https://www.dbj.jp/en/co/info/law.html; JICA https://www.jica.go.jp/english/about/basic/oda/index.html; NEXI https://www.nexi.go.jp/en/corporate/profile.html; JOGMEC https://www.jogmec.go.jp/english/about/overview.html; ODFC https://www.okinawakouko.go.jp/english/1678100259/.]
+
 
 ## JapanFG Relevance
 

@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/fsa
-source_hash: 442516a61393dea1
+source_hash: 678e186697525180
 lang: en
 status: machine
 fidelity: ok
 title: "Financial Services Agency (FSA)"
-translated_at: 2026-06-18T23:59:13.079Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Financial Services Agency (FSA)
 
@@ -44,20 +44,23 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | Date | Event |
 |---|---|
-| 1998-03 | MoF entertainment-bribery scandal → Diet testimony / loss of trust in banking administration |
-| **1998-06** | **Financial Supervisory Agency inaugurated** |
-| 1998-10 | Financial Reconstruction Commission inaugurated (responsible for resolving bank failures) |
-| **2000-07** | **Financial Supervisory Agency + secretariat of the Financial Reconstruction Commission → Financial Services Agency inaugurated** |
-| 2003-05 | [[megabanks/resona-hd|りそな]] public-fund injection / effective nationalization |
-| **2006-06** | **Financial Instruments and Exchange Act enacted** (a full revision of the Securities and Exchange Act) |
-| 2007-09 | Financial Instruments and Exchange Act came into force |
-| **2014-06** | **Stewardship Code published** |
-| **2014-06** | **Corporate Governance Code published (jointly with the TSE)** |
-| **2017-04** | **Revised Payment Services Act came into force → virtual-currency (crypto-asset) exchange registration system** |
-| 2018-01 | Coincheck leak incident → strengthening of crypto-asset regulation |
-| 2020 | **COVID-response financial measures / moratorium / strengthening of electronic-payment intermediary business** |
-| **2022-04** | **Financial Instruments and Exchange Act amended → strengthening of sustainability disclosure** |
-| 2023-04 | Digital securities (ST) regulation developed |
+| 1998-03 | Ministry of Finance entertainment-corruption scandal → Diet testimony and loss of trust in banking administration |
+| **1998-06** | **Financial Supervisory Agency launched** |
+| 1998-10 | Financial Reconstruction Commission launched (responsible for bank-failure resolution)|
+| **2000-07** | **Financial Supervisory Agency + Financial Reconstruction Commission secretariat → Financial Services Agency launched** |
+| 2003-05 | [[megabanks/resona-hd|Resona]] received public capital and was effectively nationalized |
+| **2006-06** | **Financial Instruments and Exchange Act enacted** (comprehensive revision of the Securities and Exchange Act)|
+| 2007-09 | Financial Instruments and Exchange Act took effect |
+| **2014-02** | **Japan's Stewardship Code published** |
+| **2015-06** | **Corporate Governance Code took effect (TSE)** |
+| **2017-04** | **Revised Payment Services Act took effect → registration system for virtual-currency (crypto-asset) exchanges** |
+| 2018-01 | Coincheck asset-loss incident → stronger crypto-asset regulation |
+| 2020 | **COVID-response financial measures, moratoriums and stronger electronic-payment intermediary framework** |
+| 2023-01 | Amended Cabinet Office Ordinance on sustainability disclosures in annual securities reports took effect |
+| 2023-06 | Revised Payment Services Act, including registration for electronic payment instrument service providers, took effect |
+
+Sources: ^[金融庁設立 20 周年資料: https://www.fsa.go.jp/access/31/gougai.pdf; 日本版スチュワードシップ・コード: https://www.fsa.go.jp/status/stewardshipcode/; JPX コーポレートガバナンス・コード: https://www.jpx.co.jp/equities/listing/cg/; 金融庁企業開示制度: https://www.fsa.go.jp/policy/kaiji/.]
+
 
 ## 2. Organizational structure (current)
 
@@ -97,6 +100,9 @@ FSA Commissioner (top of the administrative staff)
 | **Funds-transfer business** | Payment Services Act | [[payment-firms/paypay|PayPay]] / [[megabanks/line-pay|LINE Pay]], etc. |
 | **Crypto-asset business** | revised Payment Services Act (2017) | [[payment-firms/bitflyer|bitFlyer]] / [[payment-firms/gmo-coin|GMO コイン]], etc. |
 | **Money-lending business** | Money Lending Business Act | [[consumer-finance/acom|アコム]] / [[consumer-finance/aiful|アイフル]], etc. |
+
+Sources: ^[金融庁「免許・許可・登録等を受けている業者一覧」: https://www.fsa.go.jp/menkyo/menkyo.html; 金融庁の任務・所掌: https://www.fsa.go.jp/common/about/index.html.]
+
 
 ### Corporate Governance Code (2014 onward)
 

@@ -3,9 +3,9 @@ title: 機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric 
 aliases: [institutional-dlt-adoption-2026, dlt-platform-comparison-institutional, canton-fabric-corda-comparison, institutional-blockchain-adoption-2026, dlt-financial-institutions-matrix, bank-dlt-selection-2026]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, dlt, institutional, canton, hyperledger, corda, avalanche, polygon, rwa, adoption]
 status: active
@@ -89,15 +89,16 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## 機関 DLT 選定マトリクス
 
-| 顧客タイプ | 第一選択 | 次の選択 | 理由 |
+| 要求パターン | 評価対象になり得る platform family | 主要な設計質問 | 必要な公開証拠 |
 |---|---|---|---|
-| G-SIB 投資銀行 + 資産運用 + カストディ | Canton | Besu / Corda | multi-party atomic settlement + application-level privacy |
-| 資産運用会社による公開可能な token MMF / Treasury 発行 | Public Ethereum L1 | Avalanche / Aptos / Stellar | パブリックチェーンの KYC 済二次流動性 + stablecoin 相互運用 |
-| 中央銀行 wholesale CBDC パイロット | Corda / Besu / Canton(並行パイロット) | — | パイロット段階では複数プラットフォーム並行 |
-| 大手カストディ銀行の内部台帳 | Besu / Canton | — | EVM 互換 vs DAML マルチパーティアトミック |
-| プライベートクレジット / プライベートエクイティ資産運用 | Avalanche subnet / Securitize マルチチェーン展開 | Public Ethereum L1 | tokenization-as-service + マルチチェーン配信 |
-| 貿易金融 / サプライチェーン | Fabric / その他エンタープライズ | — | 歴史的慣性 + 非金融機関顧客 |
-| クロス G-SIB CBDC パイロット(BIS Agora 類) | Besu / Hedera / Canton(複数プラットフォーム並行) | — | パイロット段階では複数チェーン並行、統一回答なし |
+| 複数機関間の private workflow / atomic settlement | Canton、Corda、Fabric、permissioned EVM | participant ごとの privacy、finality、identity、upgrade authority をどう実装するか | production architecture、operator model、governance、障害時手順 |
+| 公開市場向け tokenized fund / security | public L1 / L2 と permissioned distribution layer | transfer restriction、wallet eligibility、cash leg、公開検証可能性をどう両立するか | issuer prospectus、transfer-agent / custodian disclosure、contract addresses |
+| wholesale CBDC / regulated settlement pilot | 複数の permissioned / public DLT を中立に比較 | central-bank money、DvP / PvP、privacy、offline / resilience requirement を満たすか | pilot report、参加者、scope、結果。pilot を production adoption と扱わない |
+| 単一機関の内部 token ledger | permissioned EVM、Corda、Fabric、Canton application | external interoperability が必要か、単一管理者を明示できるか | control ownership、audit trail、reconciliation、exit plan |
+| private-market asset distribution | public chain、permissioned subnet / appchain、hybrid model | investor gating、secondary transfer、NAV / servicing data を誰が担うか | regulated entities、off-chain records、redemption mechanics |
+| trade finance / supply chain | Fabric、Corda、permissioned EVM 等 | document state、legal title、oracle、counterparty onboarding をどう結ぶか | legal rulebook、participant duties、document / payment finality |
+
+Sources: ^[https://www.canton.network/] ^[https://r3.com/products/corda/] ^[https://www.hyperledger.org/projects/fabric] ^[https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund] ^[https://www.avax.network/subnets]
 
 ## 複数 G-SIB の実際の展開例
 
@@ -126,18 +127,19 @@ rwa.xyz / DefiLlama の公開口径による 2026-Q1 のトークン化 RWA(stab
 
 ## Use case 軸 · 誰が何のプラットフォームを選ぶか
 
-| Use case | プラットフォーム選択 | 理由 |
-|---|---|---|
-| 大手銀行内部 24/7 repo + collateral mobility | Canton(JPM / GS / DTCC) | マルチパーティアトミック + application privacy + DAML 表現力 |
-| Tokenized MMF / Treasury の対外発行(二次流通可能) | Public Ethereum L1 | KYC 済機関ウォレット + stablecoin 相互運用 + 第三者監査 |
-| Tokenized プライベートクレジット / プライベートエクイティ | Avalanche subnet / Polygon PoS / Public ETH マルチチェーン | tokenization-as-service + Securitize 経路 |
-| 中央銀行 wholesale CBDC パイロット | Corda / Besu / Canton 並行 | 複数プラットフォーム並行パイロット |
-| Trade finance / サプライチェーン追跡 | Fabric / 自社エンタープライズ | 歴史的慣性 + 非金融顧客 |
-| Tokenized deposit(単一銀行内部) | Besu(HSBC TDS / Citi CTS)/ Canton | EVM 互換 vs DAML アトミック化 |
-| Cross-G-SIB CBDC pilot([[fintech/bis-project-agora-overview\|BIS Project Agora]]) | Besu / Hedera / Canton マルチプラットフォーム | パイロット段階に統一回答なし |
-| Tokenized 株式の二次取引 | Public Ethereum L1 / Solana / 一部 L2 | stablecoin 流動性に最も近い |
-| Stablecoin payment(リテール) | Public L2(Base / Tron / Polygon PoS) | 低 gas + ユーザーウォレット密度 |
-| カストディ銀行のトークン化記録管理 | Canton(BNY)/ Corda(SDX / HQLAᵡ) | application-layer privacy |
+| Use case | 必要な privacy / permission model | Settlement / interoperability requirement | Platform family の評価軸 |
+|---|---|---|---|
+| repo / collateral mobility | participant / transaction ごとの selective disclosure | atomic DvP、既存 CSD / custodian との reconciliation | Canton / Corda / permissioned EVM の identity、privacy、finality |
+| tokenized MMF / Treasury | eligible-holder controls と公開監査性 | stablecoin / bank-money redemption と transfer-agent record | public chain と permissioned distribution の contract / legal record 一致 |
+| private credit / private equity | investor eligibility と confidential servicing data | NAV、subscription、redemption、secondary transfer | public、subnet / appchain、hybrid の off-chain control boundary |
+| wholesale CBDC pilot | central-bank-defined access と privacy | PvP / DvP、resilience、inter-ledger messaging | platform-neutral requirements と pilot report を先に比較 |
+| trade finance | consortium identity と document-level visibility | legal document、goods event、payment の連動 | endorsement / notary / smart-contract model と legal rulebook |
+| tokenized deposit | bank-controlled issuance と customer entitlement | core ledger、payment rail、external redemption | EVM / Corda / Canton 等の control ownership と reconciliation |
+| tokenized equity secondary trading | regulated venue / broker / investor permissions | cash leg、corporate actions、settlement finality | venue license、transfer restriction、custody と public verifiability |
+| retail stablecoin payment | open wallet access または issuer controls | low-friction payment、redemption、cross-chain / off-ramp | supported asset / chain、fee、wallet safety、issuer terms |
+| custody recordkeeping | strict role segregation と confidential positions | external chain / CSD / fund administrator reconciliation | audit trail、key management、recovery、data export / exit |
+
+Sources: ^[https://www.canton.network/] ^[https://r3.com/products/corda/] ^[https://www.hyperledger.org/projects/fabric] ^[https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund] ^[https://www.franklintempleton.com/investments/options/money-market-funds] ^[https://www.avax.network/subnets]
 
 ## R3 / Digital Asset 統合タイムライン(公開開示口径)
 

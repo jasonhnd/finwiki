@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-four-poles-overview
-source_hash: 5386c9f95dbcba3f
+source_hash: c9c55756c2f68043
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-Chain 4 -Pole Architecture · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2"
-translated_at: 2026-06-01T04:15:40.145Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Cross-Chain 4 -Pole Architecture · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2
 
@@ -25,13 +25,16 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **5 -pole differentiated positioning**:
 
-| Dimension | LayerZero | CCIP | Wormhole | Hyperlane | CCTP V2 |
+| Dimension | LayerZero | CCIP | Wormhole | Hyperlane | CCTP |
 |---|---|---|---|---|---|
-| Architecture | DVN multisig verification · user-configurable | RMN + Oracle network | Guardian 19  multisig + ZK | Permissionless ISM modular | Circle off-chain attestation |
-| Chain coverage | 100+ | ~20 (high quality) | ~30 (strong in Solana) | Any EVM self-service | 12 chains |
-| Security model | Client can change DVN | High institutional grade | Guardian committee + ZK | ISM customer choice | Circle centralized |
-| Representative customers | Stargate · Pendle · LiFi | DTCC / SWIFT / Kinexys | Solana · Jito · Pyth | Eclipse · Celestia · long-tail L2 | Coinbase · Circle native USDC |
-| Positioning | General purpose default | Institutional / regulated | Solana-centered + throughput | Permissionless / open | USDC only · O(1) burn-mint |
+| Core architecture | Endpoint + MessageLib + DVN + Executor | Router / lane + oracle network + risk controls | Guardian-signed VAA + product-specific contracts | Mailbox + application-selected ISM + relayer | USDC burn / mint + Circle attestation |
+| Verification configuration | OApp configures DVNs and confirmations | Protocol lane and token-pool controls | Receiving side verifies chain / emitter / VAA | Application selects ISM | Circle domains and attestation service |
+| Destination execution | Permissionless Executor or manual execution | Off-ramp / receiver call | Relayer optional; receiving application executes | Relayer delivers to Mailbox | Caller / relayer submits mint |
+| Main deployment checks | Peers, libraries, DVN diversity and owner keys | Lanes, tokens, rate limits and receiver access | Emitters, consistency and upgrade authority | Validators, ISM, hooks, relayer and owner keys | Finality, message version, recipient and supported domains |
+| Scope | General-purpose OApp / token | Messaging and managed token transfer | Messaging, token bridge, NTT, etc. | Permissionless interchain application / token route | USDC-native transfer |
+
+Sources: ^[https://docs.layerzero.network/v2] ^[https://docs.chain.link/ccip] ^[https://docs.wormhole.com/] ^[https://docs.hyperlane.xyz/] ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started]
+
 
 CCIP's two-layer verification (transaction + risk) is key to institutional acceptance; LayerZero DVN is the general-purpose default; Wormhole's large TVL comes from concentration in the Solana ecosystem; and Hyperlane does not make long-tail chains wait to be listed. See [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] for the full comparison; contrast with [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX cross-chain bridges]] for real distribution on CEX deposit/withdrawal paths.
 

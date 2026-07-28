@@ -3,9 +3,9 @@ title: "Missing Japan financial institutions expansion backlog"
 aliases: ["日本金融機関追加候補実行リスト", "日本金融机构补写执行清单", "Japan financial institution missing backlog"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-05-22
-last_tended: 2026-06-23
-review_by: 2026-08-07
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, financial-institutions, backlog, registry, execution-checklist]
 status: active
@@ -33,7 +33,7 @@ Execution rule:
 2. Use registry / index pages for very large populations such as shinkin banks, credit cooperatives, prepaid issuers, and long-tail FIEA operators.
 3. Do not create company pages from non-public context. Every page must be sourceable from public registry, IR, disclosure, company profile, annual report, association list, or law / policy documents.
 
-## Official registry baseline
+## Historical official-registry baseline (May 2026 snapshot)
 
 | Registry | Official count / scope | Source route | Wiki treatment |
 |---|---:|---|---|
@@ -56,6 +56,8 @@ Execution rule:
 | Third-party prepaid payment instrument issuers | 803 | FSA prepaid issuer Excel | Registry route completed via [[payments/prepaid-payment-instrument-issuers-japan-index]]; standalone pages only for major wallet/card/retail operators. |
 | Credit purchase / card operators | 241 comprehensive credit purchase intermediaries, 138 individual credit purchase intermediaries, 275 card-number handling contract concluding operators | METI Installment Sales Act lists | Registry route completed via [[payments/credit-purchase-card-operators-japan-index]]; standalone pages for card issuers, acquirers, PSPs, and BNPL/consumer-credit operators. |
 
+Sources: ^[Historical May 2026 maintenance snapshot; do not treat the counts as current without rechecking the official registries. FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; METI credit-purchase registries: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
 ## Batch A: Market infrastructure first
 
 These are not optional. They are central to Japanese capital markets and currently appear only as references inside other pages.
@@ -71,6 +73,8 @@ These are not optional. They are central to Japanese capital markets and current
 | [x] | `JapanFG/japan-securities-finance.md` | 日本証券金融 / JSF | Margin loan, securities finance, trust bank adjacency. |
 | [x] | `securities/japannext-securities.md` | ジャパンネクスト証券 | PTS / alternative trading venue. |
 | [x] | `securities/osaka-digital-exchange.md` | 大阪デジタルエクスチェンジ / ODX | PTS + security token market infrastructure. |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the official market-infrastructure entry points: JPX https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html; JASDEC https://www.jasdec.com/en/; JSCC https://www.jpx.co.jp/jscc/en/.]
 
 ## Batch B: Bank operating-company pages
 
@@ -98,6 +102,8 @@ Many parent FG pages exist, but the licensed bank operating companies do not hav
 | [x] | `JapanFG/01-bank.md` | 01銀行 | Data-driven SME digital-bank model. |
 | [x] | `JapanFG/sbj-bank.md` | SBJ銀行 | Shinhan Bank Japan subsidiary. |
 | [x] | `JapanFG/rcc.md` | 整理回収機構 / RCC | Bank-license special servicer / resolution entity. |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA bank-license and bank-holding-company registries: https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ### B2. Regional banks still missing or only group-covered
 
@@ -136,6 +142,8 @@ The company-page layer is now supported by six control pages: [[financial-licens
 | [x] | `JapanFG/daiwa-asset-management.md` | 大和アセットマネジメント | Daiwa AM platform. |
 | [x] | `JapanFG/sbi-asset-management.md` | SBIアセットマネジメント | SBI AM platform. |
 
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA financial-instruments operator registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
+
 ## Batch D: Insurance operating companies
 
 Parent insurance HD pages are not enough for product/channel analysis. Add operating companies where public disclosure exists.
@@ -152,6 +160,8 @@ Parent insurance HD pages are not enough for product/channel analysis. Add opera
 | [x] | Specialty non-life extension D8 | [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]], [[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]], [[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], [[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]] |
 | [x] | Specialty / foreign-affiliated non-life extension D9 | [[non-life-insurers/american-home-insurance-japan|American Home]], [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Japan]], [[non-life-insurers/hs-insurance|HS Insurance]], [[non-life-insurers/cardif-nonlife|Cardif Non-Life]], [[non-life-insurers/capital-insurance|Capital Insurance]], [[non-life-insurers/sakura-insurance|Sakura Insurance]], [[non-life-insurers/ji-accident-fire-insurance|JI Accident & Fire]], [[non-life-insurers/zenkankyo-reiwa-insurance|Zenkankyo Reiwa]], [[non-life-insurers/chubb-insurance-japan|Chubb Japan]], [[non-life-insurers/rescue-insurance|Rescue Insurance]], [[non-life-insurers/hyundai-marine-fire-japan|Hyundai Marine & Fire Japan]] |
 
+Sources: ^[Repository-maintenance completion state, cross-checked against the insurance categories linked from the FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 ## Batch E: Payments, cards, consumer credit, and remittance
 
 This is the largest strategic gap after banks and insurance. Start from major consumer-facing platforms and registered funds-transfer / credit-card operators.
@@ -167,6 +177,8 @@ This is the largest strategic gap after banks and insurance. Start from major co
 | [x] | Cross-border remittance E2 | [[payment-firms/wise-payments-japan|Wise Payments Japan]], [[payment-firms/revolut-technologies-japan|Revolut Japan]], [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd.]], [[payment-firms/payoneer-japan|Payoneer Japan]], [[payment-firms/western-union-japan|Western Union Japan]], [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex Japan]], [[payment-firms/airwallex-japan|Airwallex Japan]] |
 | [x] | Stablecoin / EPI adjacency E3 | [[payment-firms/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade EPSP / USDC cross-link]], [[payment-firms/progmat|Progmat]] / [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]] link map |
 
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA payment-service registries and METI credit-purchase lists: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
 ## Batch F: Crypto and digital-asset cleanup
 
 The exchange namespace is strong, but the current FSA list has at least two direct missing operators.
@@ -177,6 +189,8 @@ The exchange namespace is strong, but the current FSA list has at least two dire
 | [x] | `exchanges/jp-exchange-coinhub.md` | COINHUB | FSA registered crypto asset exchange operator. |
 | [x] | `exchanges/INDEX.md` | Registered-operator completeness table | Mark all 27 FSA operators and JVCEA membership class. |
 | [x] | `exchanges/jp-exchange-sbi-vc-trade.md` | SBI VC Trade | Add EPSP / USDC electronic payment instrument cross-link. |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA crypto-asset and electronic-payment-instrument operator registries: https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## Batch G: Foreign bank branches and global financial institutions
 
@@ -190,6 +204,8 @@ Current wiki already covers several major US / European banks. The FSA list cont
 | [x] | P2 strategic exceptions | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream]], [[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]], [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]], [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]], [[foreign-financial-institutions/bank-of-india-japan|Bank of India]], [[securities-firms/anz-bank-japan|ANZ]] | ICSD / collateral / China / ASEAN / India / Australia-New Zealand corridor rows promoted from registry-only to standalone pages |
 | [x] | P3 corridor exceptions | [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank]], [[foreign-financial-institutions/bank-negara-indonesia-japan|Bank Negara Indonesia]], [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank]], [[foreign-financial-institutions/metrobank-japan|Metrobank]], [[foreign-financial-institutions/banco-do-brasil-japan|Banco do Brasil]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank]], [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank]] | Australia, Indonesia, Philippines, Brazil, and Taiwan corridor rows promoted from registry-only to standalone pages |
 | [x] | P4 registry-only closure | [[foreign-financial-institutions/chang-hwa-bank-japan|彰化商業銀行]], [[foreign-financial-institutions/taishin-bank-japan|台新國際商業銀行]], [[foreign-financial-institutions/taiwan-business-bank-japan|台湾中小企業銀行]], [[foreign-financial-institutions/taiwan-cooperative-bank-japan|合作金庫商業銀行]], [[foreign-financial-institutions/national-bank-of-pakistan-japan|パキスタン・ナショナル銀行]], [[foreign-financial-institutions/ubaf-japan|ユバフーアラブ・フランス連合銀行]] | Remaining 6 registry-only rows promoted to concise standalone branch / corridor pages; [[foreign-financial-institutions/foreign-bank-branches-japan-index]] now routes all 57 FSA rows |
+
+Sources: ^[Repository-maintenance completion state, cross-checked against the FSA foreign-bank branch registry: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf.]
 
 ## Batch H: Cooperative and community financial institutions
 
@@ -229,6 +245,8 @@ Complete these before writing more than 20 new pages.
 | [x] | Update [[CHANGELOG|CHANGELOG]] for each batch. | A/F, B1, and Batch J recorded with JST time, scope, validation, and remaining work. |
 | [x] | Recount root [[INDEX|INDEX]] after each batch. | Root domain table sum = 538 and filesystem count = 538 after B1; Batch J does not add entries. Post-Wave-13 refresh (2026-05-25): JapanFG headline now **620 entity entries**, filesystem .md count = **621** incl. INDEX / backlog / non-entity surfaces. |
 
+Sources: ^[Historical repository QA checklist. The completion marks record the May 2026 maintenance run and are not an assertion about current corpus counts.]
+
 ### Batch J QA snapshot (2026-05-20)
 
 This table is a source-control checkpoint, not a final coverage claim. `Machine match` is an exact / alias normalization lower bound from current wiki titles and aliases. It understates coverage where the wiki intentionally uses a parent group page, a foreign-bank Japan umbrella page, or an index route instead of a legal-name page.
@@ -253,6 +271,8 @@ This table is a source-control checkpoint, not a final coverage claim. `Machine 
 | Crypto asset exchange operators | 2026-04-01 | 27 | 23 | Manual `exchanges/INDEX.md` completeness table is the source of truth after Batch F. | Keep exact-name aliases improving over time; no immediate standalone gap from the FSA 27 list. |
 | Electronic payment instrument service providers | 2025-03-04 | 1 | 1 | Complete via [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]. | Maintain stablecoin / EPI cross-links. |
 | Third-party prepaid issuers | 2026-04-30 | 803 | 803 | Registry route completed via [[payments/prepaid-payment-instrument-issuers-japan-index]]; jurisdiction counts and material wiki routes fixed, full row-level source remains FSA workbook. | Refresh when FSA `daisan.xlsx` changes; standalone pages only for material wallet/card/retail exceptions. |
+
+Sources: ^[Dated 2026-05-20 repository QA snapshot; official counts must be rechecked before reuse. FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; METI credit-purchase registries: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
 
 ## Recommended execution order
 

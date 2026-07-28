@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-five-pole-comparison-matrix
-source_hash: ce3f778d24038291
+source_hash: 80bc3f0eb27c3bb0
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-chain 5 -pole comparison matrix · The 9 dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole"
-translated_at: 2026-06-23T01:29:43.838Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Cross-chain 5 -pole comparison matrix · The 9 dimensions of CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole
@@ -24,19 +24,22 @@ This page is a comparison matrix under [[systems/INDEX|systems index]]; read [[s
 
 ## Mechanism / How it works
 
-**9 -dimension comparison matrix** (2026-Q2 state):
+**Architecture comparison matrix based on public specifications**:
 
 | Dimension | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
 |---|---|---|---|---|---|
-| **Messaging model** | Burn-mint (USDC only) · Circle off-chain attestation signing | Oracle DON + Risk Management Network · Lock-mint or general-purpose messaging | DVN M-of-N (app-configured) · Lightweight ULN · general-purpose messaging | Permissionless · ISM customer choice (multisig/POS/optimistic/ZK) · Lock-mint or messaging | Guardian 19-of-19 multisig + ZK Verifier · Lock-mint + Burn-mint (NTT) |
-| **Security model** | Circle centralized attester · regulatory-compliance backing | RMN independent committee (2-of-N veto) + Chainlink OCR · two-layer redundancy | DVN set (default LayerZero Labs + Google Cloud + Polyhedra ZK) · customer-changeable | Modular · default multisig · optional Eigen restaking / ZK / optimistic | Guardian set 19 nodes (Jump / Everstake / Forbole etc.) · ZK Verifier complement |
-| **Settlement guarantee** | Fast Transfer 8-20 s · Standard 10-20 min · irreversible | typically 7-20 min (incl. risk window) · delay configurable for high value | DVN-config dependent · minimum single DVN a few seconds · high-security multi-DVN minutes | ISM-determined · multisig 1-2 blocks · optimistic 30 min challenge window | ~15 min finality (waiting on source chain finality) + Guardian signing |
-| **Chain coverage (2026)** | 12+ chains (EVM L1/L2 mainstream + Arc + Sonic + Aptos) · all-EVM-centric | ~25 chains (EVM L1/L2 + some non-EVM e.g. Solana in testing) | 100+ chains (full EVM + Aptos / Sui / Solana / TON / Tron) | any chain can self-deploy · primarily promotes Eclipse / Celestia / Cosmos / SVM long-tail | 30+ chains (strong Solana + full EVM + Sui / Aptos / Near / Algorand) |
-| **Institutional adoption** | Circle native USDC · Coinbase · Stripe Tempo · MoneyGram · regulation-friendly | SWIFT messaging pilot · DTCC Smart NAV · J.P. Morgan Kinexys · ANZ A$DC · BNY · strong TradFi | Stargate / Pendle / LiFi / Trader Joe · some fintech (PayPal PYUSD bridging) | Eclipse / Celestia / Renzo / Karak · DeFi-native long-tail · weak institutional adoption | Jito / MakerDAO / Lido · major Solana apps · Uniswap cross-chain governance |
-| **Gas/cost** | user pays source chain gas + Circle Fast Transfer fee (~$0.10-1) · priced in USDC | user pays LINK or native token · double fee (execution + risk verification) · high-cost institutional grade | user pays source gas + DVN fee + destination execution (billed in any token via Pay Master) | user pays source gas + Hyperlane gas oracle-estimated destination · any token · self-run relayer can save | user pays source gas + Wormhole fee + destination gas drop (NTT) · VAA relay can be outsourced to a third party |
-| **Governance / upgrade** | Circle Inc. (centralized · OFAC + §501 bound) | Chainlink Foundation + DAO proposals + RMN independent committee (Smartcon governance) | LayerZero Labs (team governance · ZRO token to decentralize in future) | Hyperlane DAO + HYPER token (2024 launch) · permissionless modification requires ISM-level customer consent | Wormhole DAO + W token (2024) · Guardian set changes require ≥2/3 vote · Foundation coordination |
-| **Past incidents / audits** | Circle single-point trust not yet broken · audits OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | no major incident · Chainlink audited multiple times · RMN independent audit · CertiK / Trail of Bits | 2024.01 one-time DVN-config bug (no loss of funds) · audited multiple times Zellic / Trail of Bits · DVN diversity defense-in-depth | 2024 no major incident since Eclipse mainnet went live · audits Trail of Bits / Zellic / OpenZeppelin · permissionless risk depends on ISM choice | **2022.02 $325M theft on the Solana bridge** (Jump Crypto fully reimbursed) · 2024 security upgrade after ZK Verifier went live · Guardian incentive alignment under continuous discussion |
-| **Best use case** | pure USDC cross-chain sourcing · institutional regulation-compliant stablecoin transfer | Bank-grade tokenized-asset settlement · DvP / PvP · high-value low-frequency | general-purpose dApp omnichain · Stargate-style aggregator · long-tail token bridging | App-chain / rollup self-sovereign deployment · non-EVM first-class · permissionless ISM tradeoff | Solana-centric cross-chain · NFT bridge · DAO governance messaging · NTT replaces wrapped tokens |
+| **Messaging model** | USDC burn → attestation → mint | Arbitrary messaging and token transfer | OApp messages / OFT over Endpoint | Mailbox messages / Warp Route | VAA-based messaging / token bridge / NTT |
+| **Verification boundary** | Circle attestation | CCIP network and risk-management controls | OApp-configured DVNs | Application-selected ISM | Guardian-signed VAA and integration contract |
+| **Destination execution** | Caller or relayer executes mint / hook | Router / off-ramp executes | Permissionless Executor or manual execution | Relayer delivers to Mailbox | Relayer is optional; receiving application consumes VAA |
+| **Asset model** | Circle-issued USDC | Depends on pool / token-manager configuration | OFT or application-specific model | Warp Route or application-specific model | Product-specific, such as wrapped bridge / NTT |
+| **Application configuration** | Domain, finality, recipient and message version | Lane, pool, receiver and rate limit | Peer, MessageLib, DVN, confirmation and Executor | ISM, hook, validators and gas payment | Emitter, chain, consistency and recipient |
+| **Fee checkpoints** | Gas on both chains and selected transfer mode | Network / execution cost included in quote | DVNs, Executor and destination gas | Relay / destination gas and hooks | Source / destination gas and relayer option |
+| **Upgrade checkpoints** | Current Circle contracts / attestation-service version | Router, lane and pool owner / release notes | OApp owner / delegate and library migration | Mailbox / ISM / route owner | Governance and emitter for core / token bridge / NTT |
+| **Suitable scope** | USDC-native transfer | Managed messaging / token transfer | Configurable omnichain application | Sovereign app-chain / rollup integration | Multi-ecosystem messaging and token integration |
+| **Avoid unsupported inferences** | Verify supported chains, duration and fees in live documentation | Verify lanes, tokens and limits in live documentation | Do not treat default DVNs as a safety guarantee | Do not treat permissionless deployment as a safety guarantee | Do not treat Guardian count or incident record as a fixed value |
+
+Sources: ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.chain.link/ccip] ^[https://docs.layerzero.network/v2] ^[https://docs.hyperlane.xyz/] ^[https://docs.wormhole.com/]
+
 
 **How to read the matrix**: read horizontally for the full-dimension profile of 1 protocols · read vertically for the 5 -pole differences in the same dimension. CCTP V2 is narrow and deep (USDC only but optimized to the extreme) · CCIP is institutional-grade (expensive but compliant) · LayerZero v2 is broad and flexible (maximum coverage but DVN configuration means responsibility) · Hyperlane is self-service permissionless · Wormhole is Solana-centric + Guardian-model legacy.
 

@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-bridge-security-insurance-matrix-2026
-source_hash: b94644099a7c3cf4
+source_hash: 1daf5cfcb54d3f10
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-chain bridge security and insurance matrix 2026  · full view of 14  protocols' trust model / hack history / coverage"
-translated_at: 2026-06-01T04:15:40.118Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Cross-chain bridge security and insurance matrix 2026  · full view of 14  protocols' trust model / hack history / coverage
 
@@ -232,24 +232,27 @@ The matrix compares the 2026-Q2  state and excludes already-sunset Multichain / 
 
 ## Big comparison matrix table
 
-**14  protocols × 7  dimensions** (2026-Q2  state):
+**Public security-boundary comparison across 14 protocols**. Do not assert insurance amounts, audited scope, absence of incidents or compensation availability without checking contracts and reports for the relevant date:
 
-| Protocol | Trust model | Validator security budget | Historical hack | Insurance | Audit firms | Recovery process |
-|---|---|---|---|---|---|---|
-| **CCTP V2** | Native burn-mint · Circle attester | Circle reputation + compliance moat · no onchain stake | None (2023-06+ ~$0) | Lloyd's via Coincover · NM USDC depeg cover | OpenZeppelin · Halborn · ChainSecurity · SOC2 Type II | Circle freeze + Mint OTC compensation |
-| **Hyperlane** | Permissionless ISM (multisig/EigenLayer/ZK/optimistic) | ISM-dependent · EigenLayer ISM ~$1B+ | None (2024-07+ ~$0  protocol-level) | Sherlock ~$5M · partial NM | Trail of Bits · Zellic · OpenZeppelin · CertiK · Cantina | App-defined · Foundation coordinates major customers |
-| **LayerZero v2** | DVN M-of-N (LayerZero/Google/Polyhedra default) | DVN configuration cost depends on N · Polyhedra ZK stake | None protocol-level (2022+ ~$0) · 2024  DVN bug no loss | NM ~$15M · Sherlock · InsurAce · Stargate insurance fund | Zellic · Trail of Bits · Spearbit · Quantstamp · OpenZeppelin | App-defined · Stargate insurance fund pays first |
-| **Wormhole** | 19-of-19 Guardian + 2024 ZK Verifier · NTT/CCTP integration | Guardian institutional reputation · 2024 W token slashing under discussion | **2022.02 $325M Solana (Jump fully backfilled)** · none after 2024 ZK Verifier | no independent cover · W treasury ~$200M implicit backstop · NM partially recovered after 2024  | Trail of Bits · OtterSec · Halborn · Coinspect · Polyhedra (ZK) | Foundation + Guardian vote · institutional OTC |
-| **Chainlink CCIP** | Oracle DON 16-of-31 + RMN independent veto (2-of-N) | LINK staking ~$2B · RMN independent client | None (2023-07+ ~$0) | NM ~$8M · institutions self-cover through Lloyd's syndicates | Trail of Bits · CertiK · Sigma Prime · NCC Group | RMN veto + DON pause + Foundation OTC |
-| **Across** | Optimistic · UMA OO 7200s challenge window + relayer collateral | UMA bonding ~$50M | None (2022+ ~$0) · 2024  relayer bug fixed in 5  minutes | Sherlock ~$3M · partial NM · ACX treasury | OpenZeppelin · Trail of Bits · Code4rena · Sherlock | UMA dispute · relayer slash after challenge |
-| **Stargate (LZ)** | LayerZero DVN + LP unified liquidity | LZ DVN + LP TVL $50M-500M | 2023.03  transfer bug no loss · 2024  white hat $500K payout | Self insurance fund ~$2M (LP 0.06% fee) · NM | Zellic · Trail of Bits · Spearbit · Code4rena | Insurance fund pays first · LP haircut |
-| **Synapse** | Validator multisig ~10-of-15  · 2024  optimistic mode low adoption | SYN -95% from peak · economic security shrunk · TVL ~$30M | no protocol hack · 2024  multiple LP drains cumulative $3M | no cover (insurers decline) | Quantstamp · Halborn (2022) · no new audit | DAO quorum not reached · near sunset |
-| **Connext** | Optimistic + Router collateral + Sequencer (centralized) | Router collateral ~$10M | no protocol hack · 2024  router insolvency $400K (Connext Inc. compensated) | Sherlock expired and not renewed · NM declined | Spearbit · Code4rena (2023) | Connext Inc. ad hoc |
-| **Squid** | swap router on Axelar · borrows Axelar trust | borrows Axelar AXL ~$300M | no protocol hack · 2023  frontend XSS $50K | no independent cover · borrows Axelar layer | Halborn · Spearbit | Axelar governance + Squid frontend coordination |
-| **Axelar** | 75-validator PoS (Tendermint) · 2/3  quorum · GMP/ITS | AXL staking ~$300M | None (2022+ ~$0) · 2024  ITS bug white hat $200K payout | NM ~$5M · InsurAce · Foundation treasury | Trail of Bits · ChainSecurity · Code4rena · Cantina | Validator consensus freezes · Foundation OTC |
-| **deBridge** | 12 validator delegated PoS + CCIP fallback · DLN intent-based | DBR staking ~$80M | None protocol-level · 2022  Lazarus phishing no loss | no mainstream cover · DAO treasury | Zokyo · Halborn · Ackee | Validator quorum pause · DAO vote |
-| **Symbiosis** | Relayer + TSS 15-of-21  · cross-chain swap aggregator | SIS staking ~$15M · TVL ~$40M | None · 2023  frontend bug < $10K | no cover | Hacken · CertiK · Beosin | Foundation coordination |
-| **Allbridge** | Classic multisig + Core stablecoin AMM (independent LP) | small multisig · TVL ~$20M | **2023.04 Classic $570K BSC flash loan** (60% returned) · Classic deprecated | no cover | Hacken · SmartState (Classic) · Halborn (Core) | Classic freeze · Foundation coordination |
+| Protocol | Verification / control boundary in public documentation | Recovery and pause items to check | Responsibility retained by the integrator |
+|---|---|---|---|
+| **CCTP** | Circle attestation and source / destination contracts | Supported domains, finality threshold and attestation availability | Message replay protection, recipient and API / contract version |
+| **Hyperlane** | Application-selected ISM and Mailbox | Authority to change ISM / hook / validators and relayer fallback | Independent validators, owner keys and route configuration |
+| **LayerZero V2** | OApp-configured MessageLib, DVNs and Endpoint | Send / receive configuration, delegate and library migration | Multiple DVNs, peers, confirmations and executor gas |
+| **Wormhole** | Guardian-signed VAA and integration contract | Core / token-bridge upgrades, governance messages and relayer fallback | Emitter / chain verification, consistency level and replay protection |
+| **Chainlink CCIP** | CCIP network, risk-management controls and router / lane | Lane status, rate limits, token pools and receiver controls | Allowlist, receiver logic and token / lane support |
+| **Across** | Relayer fills and UMA-based optimistic settlement | Dispute / settlement window and spoke / hub-pool controls | Quote, fill deadline, recipient and chain support |
+| **Stargate** | LayerZero messaging and liquidity-pool contracts | Messaging configuration, pool / credit accounting and administrative controls | Pool exposure, slippage and destination execution |
+| **Synapse** | Bridge / messaging contracts and protocol-defined verification | Validator / administrator / pause authority and contract version | Route, token representation and upgrade keys |
+| **Connext** | Protocol contracts, routers / agents and the adopted verification path | Route availability and dispute / upgrade controls | Router liquidity, slippage and destination call |
+| **Squid** | Axelar GMP and DEX / router integration | Axelar gateway, route status and frontend / API dependency | Swap minimum, recipient, gas service and call data |
+| **Axelar** | Validator network and gateway contracts | Gateway / ITS controls, network governance and gas service | Destination contract, token manager and gas / replay handling |
+| **deBridge** | deBridge messaging / validator layer and DLN contracts | Order status, validator / contract upgrade and refund path | Order constraints, receiver and token approval |
+| **Symbiosis** | Protocol contracts, relayer / MPC components and liquidity routing | Contract / relayer status and route and refund behavior | Slippage, recipient, token allowance and destination gas |
+| **Allbridge** | Product-specific bridge contracts, validator / relay and liquidity pools | Distinction between Classic / Core, administrator / pause and pool condition | Product used, asset mapping, slippage and approvals |
+
+Sources: ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.hyperlane.xyz/] ^[https://docs.layerzero.network/v2] ^[https://docs.wormhole.com/] ^[https://docs.chain.link/ccip] ^[https://docs.across.to/] ^[https://stargateprotocol.gitbook.io/stargate/] ^[https://docs.synapseprotocol.com/] ^[https://docs.connext.network/] ^[https://docs.squidrouter.com/] ^[https://docs.axelar.dev/] ^[https://docs.debridge.finance/] ^[https://docs.symbiosis.finance/] ^[https://docs.allbridge.io/]
+
 
 **How to read the matrix**:
 - Read horizontally for the 7 -dimension profile of 1  protocols · read vertically for 14  protocol differences within the same dimension

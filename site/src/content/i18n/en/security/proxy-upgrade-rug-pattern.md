@@ -1,12 +1,12 @@
 ---
 source: security/proxy-upgrade-rug-pattern
-source_hash: efb549811e484feb
+source_hash: 96803567c2fa72cf
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor
@@ -37,6 +37,9 @@ The `- 1` trick yields a slot with no known keccak256 preimage, so application s
 | Transparent proxy | the **proxy** itself | ERC-1967 admin slot | Admin calls are routed to upgrade logic; non-admin calls fall through to implementation |
 | UUPS ([ERC-1822](https://eips.ethereum.org/EIPS/eip-1822)) | the **implementation** | a function (often `upgradeTo`) guarded by an `onlyOwner`-style modifier in the implementation | Lighter/cheaper, but the guard is *in code that can itself be upgraded away* — read the current implementation's auth, not just the proxy |
 | Beacon proxy | a shared **beacon** contract | beacon owner | A single beacon upgrade can repoint *many* proxies at once — blast radius is the whole family |
+
+Sources: ^[ERC-1967 proxy storage slots: https://eips.ethereum.org/EIPS/eip-1967; ERC-1822 UUPS: https://eips.ethereum.org/EIPS/eip-1822; OpenZeppelin proxy documentation: https://docs.openzeppelin.com/contracts/4.x/api/proxy.]
+
 
 OpenZeppelin's `UUPSUpgradeable` adds a guard that refuses upgrades to a non-UUPS-compliant implementation (to avoid bricking upgradeability), but that guard does not constrain *what* a permitted upgrader may install. Authorization is the only real control, and authorization is mutable.
 

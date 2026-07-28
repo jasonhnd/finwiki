@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/bank-license-and-baas-boundary
-source_hash: a76144a83ecededb
+source_hash: af1c2ff3120daf08
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の銀行免許と BaaS 境界"
-translated_at: 2026-06-02T14:54:39.079Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本の銀行免許と BaaS 境界
@@ -27,6 +27,9 @@ translated_at: 2026-06-02T14:54:39.079Z
 | 電子決済等取扱業 | `電子決済等取扱業` | 登録 | 銀行から委託された、銀行預金債権の電子的な増減と関連する預金契約媒介。 |
 | パートナーブランドの BaaS 表面 | パートナーアプリ、支店、UI、または商品ブランド | 役割による | 残高が免許銀行の銀行預金として残る場合がある顧客向けインターフェース。 |
 | ウォレット・前払式支払手段レイヤー | 該当する場合の資金移動または前払式ルート | 登録／届出ルート | 非銀行の決済残高、送金債権、前払残高、加盟店決済ルート。 |
+
+Sources: ^[Banking Act: https://laws.e-gov.go.jp/law/356AC0000000059; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA bank-agency guideline: https://www.fsa.go.jp/common/law/guide/city/07.html; FSA electronic-payment-agency guideline: https://www.fsa.go.jp/common/law/guide/city/08.html; FSA electronic-payment-handling route: https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
 
 ## 銀行免許レイヤー
 
@@ -65,6 +68,9 @@ FSA の電子決済等取扱業ページと関連する監督ルートは、通�
 | 非銀行ウォレットルート | FSA 資金移動業者一覧、前払式支払手段発行者一覧、商品規約。 |
 | 利用者向けブランド | パートナー支店ページ、NEOBANK ページ、BaaS ページ、アプリページ。 |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA bank-agent registry: https://www.fsa.go.jp/menkyo/menkyoj/dairi_a.pdf; FSA electronic-payment-agency registry: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; FSA electronic-payment-handling route: https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
+
 ## BaaS の運営レイヤー
 
 | BaaS モデル | 銀行免許の保有者 | パートナー・インターフェース層 | 関連する FinWiki ルート |
@@ -75,6 +81,9 @@ FSA の電子決済等取扱業ページと関連する監督ルートは、通�
 | 法人 API 銀行 | 免許銀行 | 法人銀行 API、財務、会計、プラットフォーム業務フロー | [[payment-firms/gmo-aozora-net]] |
 | 銀行代理業ルート | 所属銀行と許可を受けた銀行代理業者 | 代理チャネル／アプリルート | [[regional-banks/ui-bank]] |
 | ウォレットと銀行連携 | 銀行口座に加え、資金移動・前払式支払手段・口座連携ルート | ウォレットまたは加盟店決済サービス | [[payments/funds-transfer-vs-prepaid-boundary]] |
+
+Sources: ^[This is a FinWiki analytical routing table derived from the Banking Act and the role-specific FSA routes: https://laws.e-gov.go.jp/law/356AC0000000059; https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/dendai/index.html.]
+
 
 ## 公開情報による検証チェックリスト
 
@@ -87,6 +96,9 @@ FSA の電子決済等取扱業ページと関連する監督ルートは、通�
 | 預金トークン／電子的な預金債権ルートを用いているか。 | FSA の `電子決済等取扱業` ページおよび監督ルート。 |
 | 資金移動または前払式レイヤーはあるか。 | FSA の `資金移動業者` 一覧、FSA の前払式支払手段発行会社一覧、および商品規約。 |
 | 公開ページは所属銀行を特定しているか。 | パートナー支店、NEOBANK、銀行代理業、BaaS のサービスページ。 |
+
+Sources: ^[FSA licensed-operator portal and linked registries: https://www.fsa.go.jp/menkyo/menkyo.html; FSA electronic-payment-agency application page: https://www.fsa.go.jp/common/shinsei/dendai/index.html; FSA bank-agent registry: https://www.fsa.go.jp/menkyo/menkyoj/dairi_a.pdf.]
+
 
 ## 関連項目
 

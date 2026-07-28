@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-bridge-eight-pole-comparison
-source_hash: daa92949214ae880
+source_hash: 4f3751a8402e543a
 lang: ja
 status: machine
 fidelity: ok
 title: "クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM"
-translated_at: 2026-06-15T04:09:41.200Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM
@@ -194,18 +194,21 @@ translated_at: 2026-06-15T04:09:41.200Z
 
 ## 大対照マトリクス表
 
-**8 プロトコル × 9 次元対照**(2026-Q2 状態):
+**8 プロトコルのアーキテクチャ対照**（動的な TVL、対応チェーン数、遅延、採用件数は含めない）:
 
-| プロトコル | Trust model | TVL (defillama) | Chains | Message model | Validation latency | Fee model | Native asset | Security incidents | Institutional pilots |
-|---|---|---|---|---|---|---|---|---|---|
-| **IBC (Cosmos)** | Light-client (chain ↔ chain 相互検証) | ~$2-3B | ~100 Cosmos appchain + クロス経済圏 v2 | Channel + Connection + relayer 運搬 | 6-30s | プロトコルで Free · fee middleware optional | n/a (hub / appchain token を借用) | None (2021+) | 直接は少ない · 内部 dYdX v4 / INJ / Noble |
-| **CCTP V2 (Circle)** | Native burn-mint · Circle attester | n/a (ロックなし) · ~$50B/mo throughput | 18+ chains | Burn → attest → mint + Hooks callback | Fast Transfer 8-20s · V1 was 10-20min | V2 小額 fast-transfer fee + Hooks gas | n/a (USDC のみ) | None (2023+) · 2024 6h outage 0 loss | Mastercard · Visa · Stripe · Coinbase Inst. |
-| **Chainlink CCIP** | Oracle DON (16-of-31) + RMN independent veto | ~$1B + msg-only volume | 30+ chains (質 > 数) | Lane-based · GMP + Programmable Token Transfer | 10-30min | LINK or native · DON + RMN + dest gas | LINK (~$2B staked) | None (2023+) · v1.5 false positive no loss | SWIFT · DTCC · J.P. Morgan Kinexys · Mastercard CBDC |
-| **Wormhole** | 19-of-19 Guardian + 2024 ZK Verifier · NTT/CCTP integ | ~$1.5B | 35+ chains | GMP (VAA Verifiable Action Approval) | 5-15min (Solana ↔ ETH remains slower) | Destination gas relay · Guardian free at msg | W token (2024) · slashing terms not publicly specified in the referenced public materials | **2022 $325M Solana (Jump backstop)** · 2024 ZK remediation | Medium — Securitize · Backed Finance RWA |
-| **Hyperlane** | Permissionless ISM (multisig/EL/ZK/opt) | ~$2B | 70+ chains · permissionless deploy | Mailbox + ISM verify + Mailbox deliver | 30s-2min (multisig) · 5-10min (ZK) | Source gas + dest relay + ISM-specific | HYP (2024 · ガバナンス) | None protocol · 2024 long-tail misconf $1.2M | 少 · 主に modular rollup eco |
-| **LayerZero v2** | DVN M-of-N (LZ Labs/Google/Polyhedra default) | ~$8B | 70+ chains | Endpoint + DVN + Executor · ULN dest verify | 2-5min default · 30s single DVN | Native fee · DVN + Executor 独立 | ZRO (2024 · ガバナンス) | None protocol (2022+) · 2024 DVN bug 0 loss | 中 · Google DVN は enterprise anchor |
-| **Axelar** | 75-validator PoS (Tendermint) · 2/3 quorum · GMP+ITS | ~$3.5B | 60+ chains | GMP via Axelar hub · ITS canonical token | 30s-2min | AXL or dest native · validator + dest gas | AXL (~$300M staked) | None (2022+) · 2024 ITS bug $200K bounty | 中 · Centrifuge · Azure · Cosmos institutional |
-| **Polkadot XCM** | Shared-security relay (~300 NPoS validators) | ~$1B intra-eco | ~50 parachain + early cross-eco | UMP / DMP / HRMP via relay chain | ~12s HRMP · XCMP future 6s | Parachain-defined (DOT or token) · Asset Hub canonical | DOT (relay staking) · USDT/USDC native | None XCM protocol (2022+) · Acala app-level not XCM | UK RTGS pilot · Euroclear · JAM 決済 narrative |
+| プロトコル | 検証 / trust boundary | 中核メッセージ・資産モデル | 実行 / relay | 導入側が負う主な責任 |
+|---|---|---|---|---|
+| **IBC (Cosmos)** | 接続先チェーンの light client と IBC 検証規則 | client / connection / channel 上の packet | relayer が packet と proof を運ぶ | client 更新、timeout、channel とアプリ権限の設定 |
+| **CCTP (Circle)** | Circle の attestation service と対応ドメイン | USDC の burn → attestation → mint。メッセージ機能は版ごとの仕様に従う | source / destination のトランザクションを呼び出し側または relayer が実行 | finality threshold、message 再利用防止、対応チェーンと手数料の確認 |
+| **Chainlink CCIP** | CCIP の decentralized oracle network と独立した risk-management layer | arbitrary messaging と token transfer | router / off-ramp が destination execution を処理 | lane、token pool、receiver access control、rate limit の確認 |
+| **Wormhole** | Guardian が署名する VAA と各統合コントラクト | core messaging、token bridge / NTT 等のアプリ別モデル | relayer は任意。受信アプリが VAA と emitter を検証 | emitter、consistency level、upgrade authority、relayer fallback の確認 |
+| **Hyperlane** | アプリが選択する ISM | Mailbox 経由の message。Warp Route は token 専用構成 | relayer が配達し、gas payment hook を組み合わせられる | ISM、validator、hook、relayer と upgrade key の選定 |
+| **LayerZero V2** | OApp が構成する DVN 集合と MessageLib | Endpoint 上の OApp message / OFT | verification 後、permissionless な Executor または手動実行 | send / receive 設定の一致、複数 DVN、owner / delegate key の保護 |
+| **Axelar** | Axelar network の validator consensus と gateway contracts | GMP と Interchain Token Service | network / relayer と gas service が destination call を進める | gateway、gas、destination contract、token manager 権限の確認 |
+| **Polkadot XCM** | consensus system 間で解釈される XCM format と各 chain の execution rules | 資産移動を含む命令列 | UMP / DMP / HRMP 等、経路は接続形態に依存 | asset location、weight / fee、barrier、origin conversion の設定 |
+
+Sources: ^[https://ibc.cosmos.network/] ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.chain.link/ccip] ^[https://docs.wormhole.com/] ^[https://docs.hyperlane.xyz/] ^[https://docs.layerzero.network/v2] ^[https://docs.axelar.dev/] ^[https://wiki.polkadot.network/]
+
 
 **マトリクスの読み方**:
 - 横方向で 1 プロトコルの 9 次元 institutional プロファイル · 縦方向で 8 プロトコルの同一次元差を見る

@@ -1,11 +1,11 @@
 ---
 source: systems/bft-validator-economy-tempo-vs-arc
-source_hash: 89b2cb80292de2f7
+source_hash: 1d8ef779c539d43c
 lang: ja
 status: machine
 fidelity: ok
 title: "Tempo vs Arc · 機関チェーン validator 設計の2経路"
-translated_at: 2026-06-03T00:53:08.347Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Tempo vs Arc · 機関チェーン validator 設計の2経路
 
@@ -33,11 +33,14 @@ translated_at: 2026-06-03T00:53:08.347Z
 
 | 次元 | Tempo | Arc |
 |---|---|---|
-| validator 数 | 4 厳選 | 進化中(PoA → 20-50 → ?) |
-| 非中央集権経路 | 追求しない | 三段階漸進 |
-| 集中度 | 公然と承認 | ロードマップで隠蔽 |
-| BFT 耐障害性 | 1/4(脆弱) | フェーズ依存 |
-| 中核トレードオフ | パフォーマンス + 信頼性 | コンプライアンス起動 + 漸進的開放 |
+| 公開上の主目的 | 決済ワークロード向けの L1 | ステーブルコイン金融向けの L1 |
+| 設計上の重点 | 高スループット、予測可能な手数料、決済向け機能 | ステーブルコインをガスに使う設計、機関向けプライバシーと統合 |
+| validator / consensus の読み方 | validator 数や参加条件は、マーケティング要約ではなく現行の技術文書とネットワーク設定で確認する | validator 数や参加条件は、ローンチ段階と現行の技術文書で確認する |
+| ガバナンス評価 | 運営主体、アップグレード権限、障害時の制御を個別に確認する | 運営主体、アップグレード権限、障害時の制御を個別に確認する |
+| 比較上の注意 | 公開資料から固定 validator 数や長期的な非中央集権度を断定しない | 公開資料から段階別 validator 数や最終的な非中央集権度を断定しない |
+
+Sources: ^[https://tempo.xyz/] ^[https://www.arc.io/] ^[https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance]
+
 
 ## 起源と進化
 

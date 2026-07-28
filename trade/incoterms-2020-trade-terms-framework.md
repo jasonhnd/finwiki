@@ -9,9 +9,9 @@ aliases:
   - "EXW FCA FOB CIF CIP DAP DPU DDP"
 domain: trade
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [trade, trade-finance, incoterms, icc, shipping, delivery-terms]
 status: active
@@ -50,6 +50,8 @@ The rules split into two families by mode of transport.
 | DPU | Delivered at Place Unloaded | When unloaded at the named place by the seller |
 | DDP | Delivered Duty Paid | At destination, with seller bearing import duties / clearance |
 
+Sources: ^[ICC Incoterms 2020 official overview: https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/; U.S. International Trade Administration Incoterms guide: https://www.trade.gov/know-your-incoterms.]
+
 ### Rules for sea and inland waterway only
 
 | Rule | Name | Risk passes (broadly) |
@@ -58,6 +60,8 @@ The rules split into two families by mode of transport.
 | FOB | Free On Board | When goods are on board the vessel at the named port |
 | CFR | Cost and Freight | On board; seller pays freight to destination port |
 | CIF | Cost, Insurance and Freight | As CFR, plus seller buys insurance (minimum cover under 2020) |
+
+Sources: ^[ICC Incoterms 2020 official overview: https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/; ICC Academy summary of the 2020 rules: https://academy.iccwbo.org/incoterms/article/incoterms-2020-vs-2010-whats-changed/.]
 
 A recurring practical error is using a sea-only term (FOB, CIF) for containerised cargo handed over at an inland terminal — where **FCA / CIP** are the correct rules, because the seller loses control of the container before it reaches the ship's rail.
 

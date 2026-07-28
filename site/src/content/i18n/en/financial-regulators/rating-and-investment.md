@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/rating-and-investment
-source_hash: 73a0d482012617d1
+source_hash: 2b4710bc69a099a7
 lang: en
 status: machine
 fidelity: ok
 title: "Rating and Investment Information, Inc. (R&I) (格付投資情報センター)"
-translated_at: 2026-06-18T23:59:13.129Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Rating and Investment Information, Inc. (R&I) (格付投資情報センター)
 
@@ -37,16 +37,19 @@ One of the **2  major players** among Japan's domestic credit-rating agencies (t
 
 ### Key chronology
 
-| Year-month | Event |
+| Date | Event |
 |---|---|
-| 1979 | Japan Bond Research Institute established (IBJ line = Mizuho-line source) |
-| 1985 | Nippon Investors Service established (Nikkei line) |
-| **1998-04** | **The two merged → R&I launched** |
-| 2000-04 | Mizuho Holdings launched → R&I's affiliation relationship clarified |
-| **2010-04** | **Registration as a credit-rating agency** (in connection with the entry into force of the FIEA registration system) |
-| 2013~ | Strengthening transparency of structured-finance ratings |
-| 2017~ | Full-scale launch of ESG-evaluation business such as **R&I Green Bond Assessment** |
-| 2020~ | Surge in corporate-bond issuance during the COVID phase → increase in the number of ratings |
+| 1979 | Japan Bond Research Institute established (IBJ lineage = origin of the Mizuho lineage) |
+| 1985 | Nippon Investors Service established (Nikkei lineage) |
+| **1998-04** | **The two organizations merged → R&I launched** |
+| 2000年代 | Operated as a domestic rating agency in the Nikkei Inc. group |
+| **2010-09-30** | **Registered as Commissioner of the Financial Services Agency (Rating) 第 6 号** |
+| 2013 onward | Greater transparency for structured-finance ratings |
+| 2017 onward | Full-scale expansion of ESG assessments including the **R&I Green Bond Assessment** |
+| 2020 onward | Corporate-bond issuance rose during COVID → rating volume increased |
+
+Sources: ^[FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf; JPX ESG Knowledge Hub「R&I」: https://www.jpx.co.jp/corporate/sustainability/esgknowledgehub/esg-rating/09.html; R&I 公式サイト: https://www.r-i.co.jp/.]
+
 
 ## 2. Business map
 

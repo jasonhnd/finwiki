@@ -9,9 +9,9 @@ aliases:
   - "UCP 600 documentary credit"
 domain: trade
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [trade, trade-finance, letter-of-credit, ucp-600, settlement, icc]
 status: active
@@ -92,6 +92,8 @@ The L/C is not primarily a creature of statute; it runs on a privately maintaine
 | ISP98 | A separate rule set typically used for **standby** letters of credit (which function more like guarantees) |
 | URDG 758 | ICC rules for **demand guarantees** — a related but distinct instrument |
 
+Sources: ^[ICC trade-finance rules overview: https://iccwbo.org/business-solutions/trade-finance/; ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC eUCP version 2.1 page: https://iccwbo.org/news-publications/policies-reports/eucp-version-2-1-icc-uniform-customs-and-practice-for-documentary-credits/.]
+
 Because the rules are incorporated by reference rather than imposed by law, their authority comes from near-universal banking adoption. This makes the L/C one of the clearest examples of a globally harmonised, industry-governed financial standard — a contrast with the state-anchored frameworks documented across [[policy-finance/INDEX|policy-finance]].
 
 ## Common credit variants
@@ -107,6 +109,8 @@ Because the rules are incorporated by reference rather than imposed by law, thei
 | Revolving | Reinstates automatically for repeated shipments under one facility |
 | Red clause | Permits a pre-shipment advance to the beneficiary |
 | Standby | Pays only if the applicant **fails** to perform — economically a guarantee, usually under ISP98 |
+
+Sources: ^[ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC Academy documentary-credit terminology guide: https://academy.iccwbo.org/international-trade/article/documentary-credits-rules-guidelines-terminology/.]
 
 ## Where the L/C sits in the trade-finance and settlement stack
 

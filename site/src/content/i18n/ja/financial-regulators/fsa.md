@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/fsa
-source_hash: 442516a61393dea1
+source_hash: 678e186697525180
 lang: ja
 status: machine
 fidelity: ok
 title: "金融庁 (FSA)"
-translated_at: 2026-06-02T14:25:12.433Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 金融庁 (FSA)
 
@@ -51,13 +51,16 @@ translated_at: 2026-06-02T14:25:12.433Z
 | 2003-05 | [[megabanks/resona-hd|りそな]] 公的資金注入・実質国有化 |
 | **2006-06** | **金融商品取引法 成立**（証券取引法を全面改正）|
 | 2007-09 | 金融商品取引法 施行 |
-| **2014-06** | **スチュワードシップ・コード 公表** |
-| **2014-06** | **コーポレートガバナンス・コード 公表（東証と共同）** |
+| **2014-02** | **日本版スチュワードシップ・コード 公表** |
+| **2015-06** | **コーポレートガバナンス・コード 適用開始（東証）** |
 | **2017-04** | **改正資金決済法施行 → 仮想通貨（暗号資産）交換業者登録制度** |
 | 2018-01 | コインチェック流出事件 → 暗号資産規制強化 |
 | 2020 | **コロナ対応金融政策・モラトリアム・電子決済等代行業強化** |
-| **2022-04** | **金融商品取引法改正 → サステナビリティ開示強化** |
-| 2023-04 | デジタル証券（ST）規制整備 |
+| 2023-01 | 有価証券報告書のサステナビリティ情報開示に関する改正府令施行 |
+| 2023-06 | 電子決済手段等取引業の登録制度を含む改正資金決済法施行 |
+
+Sources: ^[金融庁設立 20 周年資料: https://www.fsa.go.jp/access/31/gougai.pdf; 日本版スチュワードシップ・コード: https://www.fsa.go.jp/status/stewardshipcode/; JPX コーポレートガバナンス・コード: https://www.jpx.co.jp/equities/listing/cg/; 金融庁企業開示制度: https://www.fsa.go.jp/policy/kaiji/.]
+
 
 ## 2. 組織体制（現行）
 
@@ -97,6 +100,9 @@ translated_at: 2026-06-02T14:25:12.433Z
 | **資金移動業** | 資金決済法 | [[payment-firms/paypay|PayPay]] / [[megabanks/line-pay|LINE Pay]] 等 |
 | **暗号資産業** | 改正資金決済法（2017）| [[payment-firms/bitflyer|bitFlyer]] / [[payment-firms/gmo-coin|GMO コイン]] 等 |
 | **貸金業** | 貸金業法 | [[consumer-finance/acom|アコム]] / [[consumer-finance/aiful|アイフル]] 等 |
+
+Sources: ^[金融庁「免許・許可・登録等を受けている業者一覧」: https://www.fsa.go.jp/menkyo/menkyo.html; 金融庁の任務・所掌: https://www.fsa.go.jp/common/about/index.html.]
+
 
 ### コーポレートガバナンス・コード（2014〜）
 

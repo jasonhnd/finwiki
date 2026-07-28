@@ -25,9 +25,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -63,7 +63,10 @@
       "https://www.fsa.go.jp/en/news/index.html",
       "https://www.fca.org.uk/publications/discussion-papers",
       "https://www.esma.europa.eu/document",
-      "https://arxiv.org/abs/2303.17564"
+      "https://arxiv.org/abs/2303.17564",
+      "https://docs.anthropic.com/",
+      "https://platform.openai.com/docs/models",
+      "https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models"
     ]
   },
   "summary": "The 2026 agent-driven market data pipeline is a four-stage compound: (1) ingest raw market data from Bloomberg, Reuters / Refinitiv, Nikkei, exchange direct feeds, regulator releases, corporate filings; (2) interpret via LLM (BloombergGPT, JPM internal LLM, Anthropic Claude or OpenAI GPT through lic",
@@ -115,9 +118,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17048,
-    "word_like_tokens": 2684,
+    "nonspace_chars": 17763,
+    "word_like_tokens": 2794,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

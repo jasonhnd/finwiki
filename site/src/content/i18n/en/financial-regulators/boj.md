@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/boj
-source_hash: 8a9bc46cc32f0667
+source_hash: a35afb62fa359ebc
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of Japan (BoJ)"
-translated_at: 2026-06-18T23:59:13.079Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Bank of Japan (BoJ)
 
@@ -37,28 +37,31 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | Date | Event |
 |---|---|
-| **1882-10-10** | **Bank of Japan established** (Matsukata Masayoshi's fiscal consolidation / silver-standard foundation) |
-| 1885 | Bank of Japan notes (the first banknotes) began to be issued |
+| **1882-10-10** | **Bank of Japan established** (Matsukata Masayoshi's fiscal consolidation and the foundation for the silver standard)|
+| 1885 | Issuance of Bank of Japan notes (its first banknotes) began |
 | 1897 | Shift to the gold standard |
-| 1942 | Old Bank of Japan Act (strongly wartime-control-tinged) |
-| **1997-06** | **New Bank of Japan Act enacted** (independence of monetary policy established) |
-| **1998-04-01** | **New Bank of Japan Act came into force** (Policy Board inaugurated, Inspection Bureau abolished) |
-| 1999-02 | **Zero interest-rate policy** (first time) |
-| **2001-03** | **Quantitative easing (QE) introduced** (the world's first full-scale unconventional monetary policy) |
-| 2006-03 | QE lifted → short-term rate 0.25% |
-| 2008-09 | Lehman shock → emergency liquidity provision / purchases of corporate bonds, etc. |
-| 2010-10 | Comprehensive Monetary Easing (CME) begun |
-| **2013-04** | **Governor Haruhiko Kuroda took office → Quantitative and Qualitative Easing (QQE) begun** (monetary base 2 -doubled) |
-| 2014-10 | QQE expansion No. 2  |
-| **2016-01** | **QQE with a negative interest rate introduced** (complementary deposit facility -0.1%) |
-| **2016-09** | **Yield Curve Control (YCC) introduced** (steering the 10 -year rate to around 0%) |
-| 2018-07 | YCC flexibilization (10 -year rate fluctuation band ±0.2%) |
+| 1942 | Former Bank of Japan Act (with strong wartime controls)|
+| **1997-06** | **New Bank of Japan Act enacted** (establishing monetary-policy independence)|
+| **1998-04-01** | **New Bank of Japan Act took effect** (Policy Board launched and Inspection Bureau abolished)|
+| 1999-02 | **Zero interest-rate policy** (first use)|
+| **2001-03** | **Quantitative easing (QE) introduced** (the world's first full-scale unconventional monetary policy)|
+| 2006-03 / 2006-07 | QE ended / uncollateralized overnight call-rate target raised to around 0.25% |
+| 2008-09 | Lehman shock → emergency liquidity provision and purchases of corporate bonds, etc. |
+| 2010-10 | Comprehensive Monetary Easing (CME) began |
+| **2013-04** | **Governor Haruhiko Kuroda took office → Quantitative and Qualitative Easing (QQE) began** (doubling the monetary base 2-fold)|
+| 2014-10 | QQE expansion phase 2 |
+| **2016-01** | **QQE with a negative interest rate introduced** (complementary deposit facility -0.1%)|
+| **2016-09** | **Yield Curve Control (YCC) introduced** (steering the 10-year yield to around 0%)|
+| 2018-07 | YCC made more flexible (10-year yield fluctuation band ±0.2%)|
 | 2021-03 | YCC fluctuation band ±0.25% |
 | 2022-12 | YCC fluctuation band ±0.5% |
-| **2023-04** | **Governor Kazuo Ueda took office** (end of the 10 -year Kuroda regime; the first economist governor in the postwar era) |
-| 2023-07 | YCC flexibilization (with 1.0% as the reference upper bound) |
-| **2024-03-19** | **Negative rate and YCC removed → short-term rate 0-0.1%** (first rate hike in 17  years) |
-| **2024-07-31** | **Policy rate hiked to 0.25%** (additional rate hike) |
+| **2023-04** | **Governor Kazuo Ueda took office** (ending the 10-year Kuroda era; first economist governor in postwar Japan)|
+| 2023-07 | YCC made more flexible (1.0% reference upper bound)|
+| **2024-03-19** | **Negative interest rate and YCC ended → short-term rate 0-0.1%** (first rate increase in 17 years)|
+| **2024-07-31** | **Policy rate raised to 0.25%** (additional increase)|
+
+Sources: ^[日本銀行「沿革」: https://www.boj.or.jp/about/outline/history/index.htm; 「金融政策の枠組みの見直しについて」(2024-03-19): https://www.boj.or.jp/mopo/mpmdeci/state_2024/k240319a.htm; 2024 年金融政策決定会合公表資料一覧: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/index.htm.]
+
 
 ### 1) Currency issuance
 

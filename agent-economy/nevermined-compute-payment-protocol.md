@@ -7,9 +7,9 @@ aliases:
   - "per-inference micropayment"
 domain: "agent-economy"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, payment, nevermined, compute-marketplace, per-inference, micropayment, x402]
 status: active
@@ -18,6 +18,7 @@ sources:
   - "https://docs.nevermined.io/"
   - "https://github.com/nevermined-io"
   - "https://nevermined.app/"
+  - "https://docs.x402.org/"
 ---
 
 # Nevermined · AI compute-payment protocol
@@ -68,13 +69,16 @@ Compare with the [[agent-economy/x402-http-payment-overview|x402]] architecture:
 
 ## Integration with x402
 
-| Layer | x402 | Nevermined |
+| Layer | x402 public specification | Nevermined public product / protocol docs |
 |---|---|---|
-| HTTP handshake | Defines `402 Payment Required` + `X-Payment` headers | Adopts x402 as one transport option |
-| Settlement | USDC on Base default | Multi-stablecoin, escrow-based |
-| Marketplace | Bazaar MCP (10k+ endpoints) | Nevermined registry of compute / models / data |
-| Royalty / splits | Out of scope | Native support for multi-party splits |
-| Subscription model | Per-call only | Subscription NFTs + per-call |
+| **HTTP negotiation** | Defines `402` plus V2 `PAYMENT-REQUIRED`, `PAYMENT-SIGNATURE` and `PAYMENT-RESPONSE` payloads | May use x402 as an interaction / payment transport where the selected Nevermined integration documents it |
+| **Payment abstraction** | Server advertises accepted schemes, networks, assets and destinations; settlement is scheme-specific | Provider defines payment plans / credits and the deployment's settlement configuration |
+| **Service discovery** | Discovery is outside the minimal payment handshake and can be supplied by ecosystem registries / applications | Nevermined publishes marketplace / registry concepts for AI services, models or data |
+| **Access model** | Core flow gates an HTTP resource after payment verification; extensions / schemes may add other behavior | Plans and credits can represent metered or recurring access according to current Nevermined docs |
+| **Revenue / split logic** | Core x402 does not define a universal marketplace royalty split | Any split, escrow or provider payout claim must be tied to the exact Nevermined contract / plan version |
+| **Operator responsibility** | Client protects signing keys; server / facilitator validates and settles the selected scheme | Provider and buyer must verify plan terms, service delivery, contract addresses, refund / dispute and key custody |
+
+Sources: ^[https://docs.x402.org/core-concepts/http-402] ^[https://docs.x402.org/core-concepts/network-and-token-support] ^[https://docs.nevermined.io/] ^[https://github.com/nevermined-io]
 
 Practical pattern: a compute provider publishes via Nevermined for catalog + escrow, exposes the call endpoint with an x402 facilitator for transport-layer payment, and lets agents settle in [[fintech/usd-stablecoin-interchange|USDC]] on [[systems/l2-agent-economics-arbitrum-base-op-comparison|Base / Arbitrum]].
 

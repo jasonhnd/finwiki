@@ -3,9 +3,9 @@ title: "日本船主責任相互保険組合"
 aliases: ["Japan P&I Club", "日本 P&I クラブ", "JPI", "Japan P and I Club", "Nihon Senshu Sekinin Sogo Hoken Kumiai", "船主責任相互保険組合"]
 domain: financial-regulators
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, insurance, p-and-i, marine-insurance, mutual, operating-company]
 status: active
@@ -35,6 +35,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | Membership | 外航船社（日本郵船・商船三井・川崎汽船等）+ 内航船社 + 漁船・小型船社 |
 | International tier | International Group of P&I Clubs（IG）正会員 |
 | Wiki role | Japan's sole P&I mutual marine insurer anchor |
+
+Sources: ^[Japan P&I Club official site: https://www.piclub.or.jp/; International Group member-club list: https://www.igpandi.org/clubs; Shipowners' Mutual Insurance Association Act: https://laws.e-gov.go.jp/law/325AC0000000177.]
 
 ## 2. Business lines
 

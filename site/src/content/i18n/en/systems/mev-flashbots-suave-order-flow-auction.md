@@ -1,11 +1,11 @@
 ---
 source: systems/mev-flashbots-suave-order-flow-auction
-source_hash: 3d4555f954345202
+source_hash: e0b5cde8f11a859e
 lang: en
 status: machine
 fidelity: ok
 title: "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions"
-translated_at: 2026-06-01T04:15:40.111Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions
 
@@ -85,12 +85,15 @@ Status (2025-2026): SUAVE testnet live; production rollout in progress. Strategi
 
 OFAs route user transactions to a **private auction** where searchers compete to give the user the best execution:
 
-| OFA | Mechanism | Use case |
+| OFA / channel | Publicly documented mechanism | Agent integration boundary |
 |---|---|---|
-| **CoW Swap** | Batch auction with coincidence-of-wants matching | Swap with MEV protection |
-| **UniswapX** | Permit2 + signed orders, fillers compete | Aggregator + MEV protection |
-| **1inch Fusion** | Resolver-based fill of signed orders | Same pattern |
-| **MEV Blocker** | Direct mempool replacement | RPC-level protection |
+| **CoW Protocol** | users sign intents; solvers compete in batch auctions and may use coincidence of wants | verify order validity, signing domain, solver result and settlement contract |
+| **UniswapX** | Permit2-based signed orders are filled by competing fillers under the order's auction parameters | validate chain, nonce, deadline, reactor and output constraints |
+| **1inch Fusion** | signed swap intent is resolved by eligible resolvers through the Fusion auction flow | verify resolver / API terms, auction parameters, allowance and settlement status |
+| **MEV Blocker** | an RPC endpoint routes transactions away from the public mempool and uses a searcher / backrun flow | RPC availability and policy are an added dependency; signed transaction limits remain the user's responsibility |
+
+Sources: ^[https://docs.cow.fi/] ^[https://docs.uniswap.org/contracts/uniswapx/overview] ^[https://help.1inch.io/en/articles/6800254-1inch-fusion-mode] ^[https://docs.mevblocker.io/]
+
 
 For AI agents executing on-chain trades, OFAs offer **structural MEV protection** — instead of broadcasting to public mempool (sandwich risk), the agent signs an intent and a resolver competes to fill it.
 

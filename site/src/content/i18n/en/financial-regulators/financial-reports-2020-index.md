@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/financial-reports-2020-index
-source_hash: 7d98ec72afe2de93
+source_hash: 3bc45457c9fd4f8b
 lang: en
 status: machine
 fidelity: ok
 title: "JapanFG financial reports 2020+ index"
-translated_at: 2026-06-15T03:48:21.894Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # JapanFG financial reports 2020+ index
@@ -31,6 +31,9 @@ The policy is **archive-first**: prioritize recording an official archive / back
 | boundary | Not a single listed entity; an explanation of the parent, predecessor, subsidiary, or Japan-entity boundary is needed |
 | partial | An official entry point exists, but year-by-year PDF expansion is needed, or there is a 2020  gap |
 | gap | No public annual report / disclosure archive found; only company, rating, regulatory, or parent entry points can be listed |
+
+Sources: ^[Repository-defined editorial status vocabulary for the source matrix below; these labels describe FinWiki review state rather than an external institution claim.]
+
 
 ## Source matrix
 

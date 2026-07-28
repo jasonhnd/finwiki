@@ -1,11 +1,11 @@
 ---
 source: agent-economy/embedded-wallet-landscape-2026-consolidation
-source_hash: cf919546a0d0d7ec
+source_hash: 55e2ebb37bf93e23
 lang: en
 status: machine
 fidelity: ok
 title: "Embedded-wallet landscape 2026 · post-consolidation provider map"
-translated_at: 2026-05-30T17:04:08.789Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Embedded-wallet landscape 2026 · post-consolidation provider map
@@ -22,16 +22,19 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it with 
 
 The category split visible in public docs and hyperscaler announcements by mid-2026:
 
-| Tier | Provider | Owner | Hyperscaler default | Public footprint | Notes |
-|---|---|---|---|---|---|
-| Default | Privy | Stripe (acquired Jun 2025) | AWS Bedrock AgentCore (default), Azure AI Foundry (one of two defaults) | 110M+ wallets, 1,000+ integrations | Routes through Stripe Connect + Bridge USDB rail (see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]) |
-| Default | Coinbase CDP | Coinbase (NASDAQ: COIN) | AWS Bedrock AgentCore (co-default with Privy), GCP Vertex AI Agent Builder (default) | ~150K developers, ~8K dApps, ~5M MAU embedded wallets | Default-binds Base + USDC + Onramp |
-| Secondary | Magic | Independent (Tiger / SV Angel) | Not a hyperscaler default | Long-tail Web3 SaaS clients | Magic Link / OAuth + DKLs MPC; pricing tiered per-MAU |
-| Secondary | thirdweb | Independent | Not a hyperscaler default | Heavy on NFT / gaming / consumer dApps | InAppWallet + smart-account SDK; chain-agnostic; partial open source |
-| Secondary | Dynamic | Independent (a16z crypto) | Not a hyperscaler default | DeFi / consumer-finance focus | Multi-chain login, embedded + external-wallet bridge |
-| Secondary | Web3Auth | Independent (Torus Labs, BNB-Labs backed) | Not a hyperscaler default | Long-tail Web3 + enterprise | tKey + OAuth share reconstruction; open-source |
-| Secondary | Particle Network | Independent | Not a hyperscaler default | EVM + BTC + multi-chain | Modular SDK + own chain-abstraction layer |
-| Secondary | Crossmint | Independent | Not a hyperscaler default | NFT / commerce / RWA | Specializes in fiat-funded wallets + receipt rails |
+| Provider | Publicly documented product surface | Corporate / integration fact that can be sourced | Live selection checks |
+|---|---|---|---|
+| **Privy** | Embedded / server wallets, authorization and recovery controls | Privy announced its acquisition by Stripe; AWS documents a Stripe Privy connector | wallet ownership, signer / policy model, supported chains, export / recovery, pricing |
+| **Coinbase CDP** | Developer / embedded wallets, policies and agent tooling | AWS documents a Coinbase CDP connector | wallet type, key / policy ownership, supported networks, onramp / off-ramp and limits |
+| **Magic** | Authentication and wallet infrastructure | Use current Magic corporate and product documentation; do not infer status from old funding reports | wallet architecture, chain support, recovery, server signing and pricing |
+| **thirdweb** | In-app / smart wallets and developer infrastructure | Product scope is defined by current thirdweb portal | account type, paymaster / bundler, supported chains, key management |
+| **Dynamic** | Wallet / identity orchestration and embedded wallets | Product scope is defined by current Dynamic docs | wallet ownership, external-wallet linking, chains, server / delegated signing |
+| **Web3Auth** | Wallet infrastructure and key-management / recovery options | Product scope is defined by current Web3Auth docs | threshold / recovery design, hosting, chain adapters, export |
+| **Particle Network** | Wallet abstraction and chain-abstraction products | Product scope is defined by current Particle docs | account model, bundler / paymaster, chain support, bridge / solver dependency |
+| **Crossmint** | Wallets, payments / checkout and tokenization APIs | Product scope is defined by current Crossmint docs | custody / recovery, chain / product support, compliance roles and payment terms |
+
+Sources: ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/] ^[https://magic.link/docs] ^[https://portal.thirdweb.com/] ^[https://docs.dynamic.xyz/] ^[https://web3auth.io/docs/] ^[https://docs.particle.network/] ^[https://docs.crossmint.com/] ^[https://privy.io/blog/announcing-our-acquisition-by-stripe]
+
 
 "Default" means the SDK appears in the hyperscaler's first-class agent-orchestration documentation as the recommended path, with credentials / billing / IAM wiring pre-built. Developers can swap to any other SDK, but the default is what the bulk of net-new agents inherit.
 
@@ -121,12 +124,15 @@ The most consequential 2026 dynamic is the way **hyperscaler agent platforms** p
 
 Visible default placements in mid-2026 hyperscaler public docs:
 
-| Hyperscaler | Agent platform | Default wallet providers | Notes |
+| Cloud platform | Public agent / payment surface | Wallet-provider statement supported by public docs | Evidence required before calling a provider “default” |
 |---|---|---|---|
-| AWS | Bedrock AgentCore Payments | Privy + Coinbase CDP | Public since 2025-Q3 GA; x402 + Bazaar MCP integration; see [[agent-economy/x402-http-payment-overview|x402 overview]] |
-| Azure | AI Foundry Agent Service | Privy listed as supported default; second default ambiguous in public docs | Microsoft's Stripe relationship is the structural anchor |
-| Google Cloud | Vertex AI Agent Builder | CDP-leaning; AP2 co-authorship with Coinbase is the structural anchor | See [[agent-economy/ap2-overview|AP2 overview]] |
-| Cloudflare | Workers AI Agents | x402-integrated; wallet-provider choice still developer-side | Lower-level: routes payments rather than provisioning identity |
+| **AWS Bedrock AgentCore** | AgentCore payments documents x402 orchestration, spending limits and payment connectors | Current AWS docs list Coinbase CDP and Stripe Privy connector types and label the payment feature's release stage | Exact region / stage, connector type, templates, service terms and current API reference |
+| **Azure AI Foundry** | Public agent platform and tool / identity integrations | The platform landing page alone does not establish an embedded-wallet default | A current Microsoft connector page or API naming the provider and lifecycle support |
+| **Google Cloud agent platform** | Agent tooling plus Google-led AP2 materials | AP2 participation or co-authorship does not establish a wallet default | A current Google product document naming the wallet connector and supported flow |
+| **Cloudflare developer platform** | Workers / Agents and payment-protocol integrations may be composed | x402 support does not by itself provision or choose a wallet | Current Cloudflare docs for client / server integration, signer ownership and supported schemes |
+
+Sources: ^[https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html] ^[https://azure.microsoft.com/en-us/products/ai-foundry] ^[https://cloud.google.com/agent-builder] ^[https://docs.x402.org/]
+
 
 ## Stripe ownership of Privy — strategic implications
 
@@ -139,14 +145,13 @@ Stripe acquired Privy in June 2025. Public reporting has the deal in the $300-50
 
 ## M&A activity since 2024
 
-| Date | Event | Buyer | Target | Public price |
-|---|---|---|---|---|
-| 2025-06 | Stripe acquires Privy | Stripe | Privy | ~$300-500M (some sources up to $1.1B) |
-| 2025-06 | Stripe acquires Bridge | Stripe | Bridge | ~$1.1B |
-| 2024-Q3 | Coinbase folds Wallet API + Cloud into CDP rebrand | Coinbase | (internal) | n/a |
-| 2025-04 | Coinbase ships AgentKit on top of CDP | Coinbase | (internal) | n/a |
-| 2025-Q3 | AWS picks Privy + CDP as AgentCore defaults | AWS / Stripe / Coinbase | (platform default) | n/a |
-| Open | thirdweb / Magic / Web3Auth / Dynamic acquisition rumors | (various) | (various) | None confirmed |
+| Date | Confirmed corporate event | Primary evidence | Terms that can be stated |
+|---|---|---|---|
+| **2025-02-04** | Stripe announced completion of the Bridge acquisition | Stripe newsroom | Completion is public; the cited announcement does not state a purchase price |
+| **2025-06-11** | Privy announced that Stripe was acquiring Privy | Privy announcement | Acquisition and intended continued product operation are public; terms were not disclosed in the cited announcement |
+
+Sources: ^[https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition] ^[https://privy.io/blog/announcing-our-acquisition-by-stripe]
+
 
 Plausibility-weighted but unconfirmed: a hyperscaler may buy a secondary-tier provider to compete with Stripe-Privy and Coinbase-CDP. Public docs and public M&A filings do not show this as of mid-2026.
 

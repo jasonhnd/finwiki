@@ -8,9 +8,9 @@ aliases:
   - LLM banking insurance trading underwriting 2026
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, llm, ai-finance, overview, 2026-event, banking, insurance, trading, kyc-aml, fraud, robo-advisor, underwriting]
 status: active
@@ -29,6 +29,11 @@ sources:
   - https://www.morganstanley.com/press-releases
   - https://www.anthropic.com/customers
   - https://openai.com/index/finance
+  - https://docs.anthropic.com/
+  - https://platform.openai.com/docs/models
+  - https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models
+  - https://www.fsa.go.jp/en/news/2025/20250304/aidp.html
+  - https://www.sec.gov/rules-regulations/2025/06/s7-12-23
 ---
 # LLM and AI agent applications in finance · 2026-05 application surface overview
 
@@ -44,15 +49,17 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 
 The 2026-05 maturity map across seven categories. **PROD** = at least one G-SIB / top-10-by-AUM operator running in real customer / regulatory traffic, **PILOT** = consortium or single-firm regulated pilot with public disclosure, **RESEARCH** = pre-pilot prototype with published papers but no production traffic.
 
-| Category | Maturity 2026-05 | Lead operators (public) | Regulator stance |
+| Category | Publicly observed use class | Minimum evidence for a maturity claim | Core control questions |
 |---|---|---|---|
-| **(a) Customer-facing chatbots** (banking / insurance / wealth) | **PROD** | Morgan Stanley AI @ MS, BBVA + OpenAI, ING + Anthropic, Mizuho / SMBC / MUFG internal | Permitted with disclosure; FCA AI principles; FSA AI guideline applied via existing consumer-protection rules |
-| **(b) Back-office automation** (KYC / AML / compliance review) | **PROD** | JPM SpectrumGPT, HSBC AI compliance, Citi compliance copilot, Nomura ops AI | Permitted with audit trail; FINRA / FATF recommend HITL on final decision |
-| **(c) Trading and execution** (NLU signal / agent-driven hedging) | **PILOT** | Goldman Marquee + Marquee AI, JPM IndexGPT, BlackRock Aladdin Copilot, Renaissance / Two Sigma research | Heavily constrained; see [[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]] |
-| **(d) Credit underwriting** (LLM-augmented) | **PILOT** | Upstart, Pagaya, Klarna AI underwriting, Affirm AI assist, Rakuten Card AI | CFPB / Japan FSA / EBA require explainability; no full automation permitted for adverse decisions |
-| **(e) Fraud detection** | **PROD** | Visa AI fraud (Visa Risk Manager + AI), Mastercard Decision Intelligence, Stripe Radar with LLM augmentation, JP card networks (JCB / Suica) | Permitted as risk-scoring; final action requires deterministic rule or human |
-| **(f) Advisory** (robo-advisor evolution) | **PILOT** | WealthNavi AI assistant pilot, Schwab Intelligent Portfolios + AI, Vanguard Personal Advisor + AI, Mizuho M-AI Insight | Suitability requires fiduciary; SEC Reg BI + Japan FIEA suitability rules constrain |
-| **(g) Developer tooling** | **PROD** | Anthropic Claude Code in BBVA / Mizuho / Goldman tooling, GitHub Copilot in JPM / Citi, Bloomberg internal AI dev tools | Largely unregulated; internal-use carve-out from financial-services AI rules |
+| **(a) Customer-facing chat / assistance** | Retrieval, drafting, service triage and staff-assisted responses | Named institution, dated first-party disclosure, affected users, production / pilot label and human-handoff design | disclosure, hallucination handling, authentication, complaint / escalation, record retention |
+| **(b) Back-office automation** | Document extraction, KYC / AML support, compliance search and workflow drafting | Deployed workflow, decision boundary, data source, reviewer role and measured error / override data | access control, data lineage, model validation, reviewer independence and audit trail |
+| **(c) Trading / execution support** | Research summarization, event extraction, signal generation and execution support | Exact role in the order lifecycle, venue / asset scope, pre-trade limits and production evidence | market-abuse controls, latency, kill switch, model / code change control and replay |
+| **(d) Credit / underwriting support** | Document analysis, feature generation, decision support and explanation drafting | Whether AI affects approval / pricing, validation results, adverse-action process and applicable law | bias / fairness, explainability, data quality, override and appeal |
+| **(e) Fraud / financial-crime detection** | Risk scoring, alert triage, anomaly detection and investigation support | Production scope, false-positive / false-negative evaluation, customer-impact boundary and review process | drift, feedback loops, appeal, watchlist / data quality and model governance |
+| **(f) Advice / suitability support** | Research, portfolio explanation, adviser copilot and recommendation drafting | Licensed-entity disclosure, final decision maker, suitability / fiduciary controls and monitored outcomes | conflicts, suitability, disclosure, human approval and communication records |
+| **(g) Developer tooling** | Code completion, testing, review, documentation and operations support | Named tool, approved repositories / data classes, security review and production SDLC boundary | secrets / code leakage, dependency risk, review gates, testing and change management |
+
+Sources: ^[https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/] ^[https://www.bis.org/publ/work1194.htm] ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html]
 
 **Reading the map**: the gap between PROD and PILOT correlates almost perfectly with whether the AI output is a **customer-facing financial decision** (PILOT) versus a **support / drafting / triage output reviewed by a licensed human** (PROD). Regulators have not blocked AI in finance — they have blocked AI from making the **final** customer-impacting decision without human sign-off.
 
@@ -112,15 +119,17 @@ See [[payment-firms/wealthnavi|WealthNavi]] for the canonical Japan robo-advisor
 
 ## Vendor landscape · 2026-05 leaders by category
 
-| Category | Anthropic | OpenAI | Google | Bloomberg | Domestic JP | Domain specialists |
-|---|---|---|---|---|---|---|
-| Customer chatbot | BBVA, ING, Mizuho | Morgan Stanley, BofA pilot | Citi pilot | — | NEC cotomi, NTT tsuzumi | — |
-| Back-office / compliance | HSBC pilot, Mizuho | JPM SpectrumGPT, Citi | — | Bloomberg Terminal AI | — | NICE Actimize, Quantexa |
-| Trading signal | Goldman Marquee adjacent | JPM IndexGPT, ad hoc HF | — | BloombergGPT, Bloomberg AI | — | Kensho (S&P), AlphaSense |
-| Credit underwriting | — | Upstart, Pagaya partial | — | — | Rakuten Card pilot | Zest AI, FICO + Datarobot |
-| Fraud | — | Stripe Radar | — | — | JCB, Visa Japan | Featurespace, Sardine, Unit21 |
-| Advisory | WealthNavi pilot | Vanguard pilot | Schwab pilot | — | M-AI Insight | Addepar, Orion AI |
-| Developer tooling | BBVA, Mizuho, Goldman, MS | JPM, Citi, BofA | minor | Bloomberg internal | Mizuho internal | Tabnine, Cursor (Anthropic-backed) |
+| Category | General model API role | Financial-data / domain-system role | In-house layer | Evidence required before naming a “leader” |
+|---|---|---|---|---|
+| Customer chat | language generation, classification and tool use | authenticated customer / product knowledge and policy retrieval | conversation policy, escalation and channel integration | production scope, active users, quality / complaint data and first-party disclosure |
+| Back-office / compliance | extraction, summarization and agent workflow | KYC / AML data, case system and policy corpus | access, reviewer workflow and audit logging | measured throughput / error change and decision boundary |
+| Trading signal | text / event interpretation and research tooling | licensed market data, analytics and order / risk systems | strategy code, pre-trade controls and surveillance | live-vs-research status, asset / venue scope and monitored outcomes |
+| Credit underwriting | document / feature assistance and explanation support | bureau / cash-flow / application data and decision engine | policy, validation, adverse action and appeal | approval / pricing role, fairness / performance validation and legal review |
+| Fraud | anomaly explanation, entity resolution and alert support | network / transaction data and case management | deterministic controls, investigation and feedback | false-positive / loss metrics, production scope and customer-action boundary |
+| Advisory | research synthesis and communication drafting | portfolio, risk, suitability and product data | licensed adviser workflow and conflict controls | client-facing scope, adviser approval and suitability monitoring |
+| Developer tooling | code generation, review and tests | internal repositories, package / vulnerability systems | SDLC, CI, secrets and release controls | approved use, adoption metric, defect / security outcomes and source disclosure |
+
+Sources: ^[https://docs.anthropic.com/] ^[https://platform.openai.com/docs/models] ^[https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models] ^[https://www.bloomberg.com/professional/products/ai/]
 
 ## Composition with agent payment stack
 
@@ -138,17 +147,19 @@ Most 2026 production deployments compose **3-4 of these layers** rather than tre
 
 ## Regulator stance summary · 2026-05
 
-| Regulator | Stance | Key references |
-|---|---|---|
-| **FSB** (global) | Cautious; monitor systemic risk from concentrated AI model use across G-SIBs | FSB AI/ML 2024 report |
-| **BIS** (global) | Multiple working papers; emphasizes governance / explainability / model risk management | BIS WP 1194 (2024) AI in central banking |
-| **IMF** (global) | Fintech Notes series; emphasizes consumer protection + financial stability | IMF Fintech Notes 2024-2025 |
-| **US SEC** | Predictive-data-analytics rule trajectory; SAB 122 framework; AI conflicts-of-interest rule | SEC speeches 2024-2026 |
-| **US Federal Reserve** | SR 11-7 model-risk-management applied to AI; emphasizes governance | Fed Financial Stability Report |
-| **UK FCA** | AI in financial services discussion paper (2024) + 2026 consultation arc | FCA publications |
-| **EU ESMA / EBA** | AI Act high-risk classification for credit + insurance + KYC; existing MIFID-II / CRD-VI rules apply | EUR-Lex 2024/1689 |
-| **Japan FSA** | AI principles 2021 (updated 2024); existing FIEA / Banking Act suitability rules unchanged | FSA news 2024 |
-| **Singapore MAS** | FEAT principles (Fairness, Ethics, Accountability, Transparency); MAS AI Veritas | MAS publications |
+| Authority / source | Confirmed public material | Confirmed focus | Do not overread as |
+|---|---|---|---|
+| **FSB** | 2024 report on financial-stability implications of AI | third-party dependencies, market correlations, cyber / model risk and information gaps | A binding firm-level AI rule |
+| **BIS** | Working papers and research on AI in finance / central banking | use cases, governance, economics and supervisory questions | A regulation issued to private firms |
+| **IMF** | Fintech Notes and policy research | macro-financial, consumer-protection and capacity considerations | Directly enforceable national law |
+| **US Federal Reserve** | SR 11-7 and financial-stability publications | model-risk governance and system-wide vulnerabilities according to applicable scope | A statement that every LLM use is automatically an SR 11-7 model |
+| **US SEC** | Speeches / roundtables and the June 2025 withdrawal of the predictive-data-analytics proposal | existing securities duties, conflicts, disclosure and oversight questions | A current final predictive-data-analytics rule |
+| **UK FCA** | AI / financial-services publications and innovation work | safe adoption, accountability and existing regulatory outcomes | Blanket approval or prohibition of a particular model |
+| **European Union** | Regulation (EU) 2024/1689 plus sectoral financial law | role- and use-case-specific AI Act duties and existing financial obligations | A rule that every finance LLM is automatically high-risk |
+| **Japan FSA** | AI Discussion Paper v1.1 and AI public-private forum | use cases, governance, risk and regulatory-clarity dialogue | A final AI-specific trading or banking rule; the paper describes preliminary analysis |
+| **Singapore MAS** | Public AI / data-governance, FEAT / Veritas and consultation materials | fairness, ethics, accountability, transparency and sectoral supervision | A universal certification or safe harbor |
+
+Sources: ^[https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/] ^[https://www.bis.org/publ/work1194.htm] ^[https://www.imf.org/en/Publications/fintech-notes] ^[https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm] ^[https://www.sec.gov/rules-regulations/2025/06/s7-12-23] ^[https://www.fca.org.uk/publications] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689] ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html] ^[https://www.mas.gov.sg/news]
 
 The cross-jurisdictional convergence: **no jurisdiction is granting AI agent personhood**; **all major jurisdictions retain deployer accountability**; **EU AI Act sets the high-water mark for ex-ante regulation**; **US / UK / JP / SG lean toward principle-based supervision with existing financial-services rules carrying most of the weight**.
 

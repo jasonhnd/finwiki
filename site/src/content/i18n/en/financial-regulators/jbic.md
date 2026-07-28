@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/jbic
-source_hash: ca6df8e1fc846933
+source_hash: a162e16d80676609
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Bank for International Cooperation (JBIC) (国際協力銀行)"
-translated_at: 2026-06-18T23:59:13.128Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Japan Bank for International Cooperation (JBIC) (国際協力銀行)
 
@@ -64,6 +64,9 @@ A Japanese **policy-finance institution** oriented toward overseas business (wit
 | **Untied loans** | Industrial-development support finance (not tied to specific Japanese-company projects; for middle-income countries) | Middle-income-country governments / public institutions |
 | **Equity participation** | Minority equity stakes in strategic projects (risk-money supply) | Infrastructure / resource / GX projects |
 | **Guarantees** | Provision of guarantees on private financial institutions' loans and bonds | Private banks / institutional investors |
+
+Sources: ^[JBIC official functions and organization: https://www.jbic.go.jp/en/about/organization.html; JBIC official English site: https://www.jbic.go.jp/en/.]
+
 
 ### Business schemes
 

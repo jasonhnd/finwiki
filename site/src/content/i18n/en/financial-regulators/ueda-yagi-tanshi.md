@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/ueda-yagi-tanshi
-source_hash: b8b4584c00da19f6
+source_hash: 630768a4d437d80d
 lang: en
 status: machine
 fidelity: ok
 title: "上田八木短資株式会社 (Ueda Yagi Tanshi)"
-translated_at: 2026-06-18T23:59:13.100Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 上田八木短資株式会社 (Ueda Yagi Tanshi)
@@ -44,6 +44,9 @@ An independent money-market dealer (tanshi) firm that is one of Japan's 3  major
 | **BOJ-counterparty business** | Counterparty / intermediary for Bank of Japan market operations (open-market operations) | Bank of Japan |
 | **JGB / municipal-bond trading** | Trading of short-term JGBs (T-Bills), medium-to-long-term JGBs, and municipal bonds | Banks, institutional investors |
 | **Overseas bonds (USD call, etc.)** | Intermediation in the USD short-term funding market (Eurodollar call, etc.) | Overseas bases of Japanese banks, Tokyo branches of foreign banks |
+
+Sources: ^[上田八木短資 公式サイト: https://www.uedayagi.com/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm; 日本銀行「オペレーション」: https://www.boj.or.jp/mopo/measures/mkt_ope/index.htm.]
+
 
 ### Business model
 

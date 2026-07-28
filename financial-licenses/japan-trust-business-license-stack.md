@@ -10,9 +10,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-06-15
-last_updated: 2026-06-15
-last_tended: 2026-06-15
-review_by: 2026-12-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust, shintaku, financial-license, trust-bank, FIEA]
 status: active
@@ -46,6 +46,8 @@ This page is a public-source research route, not legal advice. A live product or
 | Trust Business Act (信託業法, 2004) | Who may accept trusts **as a business**, and under what entry control? | The licensing / registration spine: operating-type vs management-type trust companies, agency, and conduct rules. |
 | Concurrent Operation Act (兼営法, 1943) | How may a bank or other financial institution **also** run trust business? | The route by which "trust banks" exist; a bank obtains authorization to operate trust + concurrent businesses. |
 
+Sources: ^[FSA trust-business hub and supervisory guideline: https://www.fsa.go.jp/policy/shintaku/index.html; https://www.fsa.go.jp/common/law/guide/shintaku.pdf; Trust Companies Association of Japan legal overview: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
+
 The trichotomy (信託法 / 信託業法 / 兼営法) is the standard framing used by the Trust Companies Association of Japan; keep them separate when reading a page.
 
 ## Regime Map
@@ -58,6 +60,8 @@ The trichotomy (信託法 / 信託業法 / 兼営法) is the standard framing us
 | Act as agent / intermediary to conclude trust contracts for a trust company | Trust contract agency business — **registration (登録)** | Trust Business Act | Banks, brokers, and distributors acting for a trust company | Local Finance Bureau "信託契約代理店" registry |
 | Sell or intermediate **trust beneficiary rights** | **Type II Financial Instruments Business** (beneficiary rights are deemed securities) | Financial Instruments and Exchange Act | Real-estate beneficiary-right dealers, fund distributors | [[financial-licenses/securities-license-stack|securities license stack]]; FSA FIBO list |
 | Custody / asset-administration trust at scale | Trust-bank route under 兼営法 (administration / custody / fund servicing) | Concurrent Operation Act + Trust Business Act | [[trust-banks/custody-bank|Custody Bank]], [[trust-banks/master-trust-bank|Master Trust Bank]] | FSA "信託兼営金融機関" list; entity disclosure |
+
+Sources: ^[FSA trust-business hub: https://www.fsa.go.jp/policy/shintaku/index.html; FSA trust-company supervisory guideline: https://www.fsa.go.jp/common/law/guide/shintaku.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Kanto Local Finance Bureau trust-agency registry route: https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html.]
 
 ## The operating-type vs management-type split
 
@@ -78,6 +82,8 @@ A bank that wants the full trust toolkit does not become a trust company at all 
 | Self-regulation / industry | Trust Companies Association of Japan (信託協会) | The 信託法 / 信託業法 / 兼営法 framing and industry practice. | Statutory licensing by itself. |
 | Product disclosure | Entity pages, trust-agreement documents, EDINET / official product pages | Whether the firm currently offers the trust product and what disclosures attach. | A general license conclusion. |
 
+Sources: ^[FSA trust-business hub and supervisory guideline: https://www.fsa.go.jp/policy/shintaku/index.html; https://www.fsa.go.jp/common/law/guide/shintaku.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Trust Companies Association of Japan: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
+
 ## Practical Decision Tree
 
 | Question | First place to check | Second check |
@@ -87,6 +93,8 @@ A bank that wants the full trust toolkit does not become a trust company at all 
 | Is this firm only arranging trust contracts? | Trust contract agency registration. | Local Finance Bureau 信託契約代理店 registry; which trust company it represents. |
 | Is this the sale of a trust beneficiary right? | FIEA Type II Financial Instruments Business, not the Trust Business Act. | [[financial-licenses/securities-license-stack|securities license stack]] and FSA FIBO list. |
 | Is this an investment-style "specified trust contract"? | FIEA conduct rules layered on top of the trust route. | Whether 特定信託契約 conduct / suitability rules apply. |
+
+Sources: ^[This decision tree applies the categories in the FSA trust supervisory guideline and official registry routes: https://www.fsa.go.jp/common/law/guide/shintaku.pdf; https://www.fsa.go.jp/menkyo/menkyo.html; https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html.]
 
 ## JapanFG Relevance
 
@@ -104,6 +112,8 @@ A bank that wants the full trust toolkit does not become a trust company at all 
 | Trust business vs beneficiary-right sale | Selling a trust beneficiary right is a securities (FIEA Type II) act, not Trust-Business-Act trustee activity. | Route beneficiary-right sale to the [[financial-licenses/securities-license-stack|securities license stack]]. |
 | 信託法 vs 信託業法 | The private-law trust relationship is not the business-entry regime. | Separate the substantive trust from the licence to act as trustee as a business. |
 | "Not found" vs "unlicensed" | Missing from one list may mean wrong category or stale spelling. | Record "not found in checked source as of date" rather than asserting unlicensed status. |
+
+Sources: ^[FSA trust-business hub: https://www.fsa.go.jp/policy/shintaku/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; Trust Companies Association of Japan legal overview: https://www.shintaku-kyokai.or.jp/trust/more/law.html.]
 
 ## Research Checklist
 

@@ -1,11 +1,11 @@
 ---
 source: trade/jetro-vs-nexi-vs-jbic-comparison
-source_hash: e585cfba692639d2
+source_hash: 3a697d9be6dd405d
 lang: ja
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-06-03T01:06:46.371Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 ﻿# JETRO vs NEXI vs JBIC — 日本の輸出促進・保険・金融の三本柱比較
 
@@ -50,6 +50,9 @@ JETRO、NEXI、JBIC は互換的な機関ではない。日本のクロスボー
 | 海外直接投資 | 「収用、戦争、通貨移転リスクをどうカバーするか。」 | **NEXI** の海外投資保険 + **JBIC** の出資 / 融資 |
 | 長期資源・インフラ案件 | 「15-20 年の米ドル建て資金を誰が提供するか。」 | **JBIC** のプロジェクトファイナンス + **NEXI** の政治リスクカバー |
 
+Sources: ^[This is a FinWiki routing synthesis from the institutions' official mandates and service descriptions: JETRO https://www.jetro.go.jp/en/jetro/; NEXI https://www.nexi.go.jp/en/; JBIC https://www.jbic.go.jp/en/.]
+
+
 ## JETRO — 情報提供と促進
 
 JETRO は融資を行わず、信用リスクも負わない。主な手段は次のとおり。
@@ -77,6 +80,9 @@ NEXI は日本の輸出信用機関である。融資は行わない。定義さ
 | 海外アンタイドローン保険 | 日本からの輸出に紐づかない政策目的融資の借り手不履行 | 新興市場に融資する日本の銀行 |
 | バイヤーズクレジット向け貿易・投資保険 | 銀行が供与したバイヤーズクレジットにおける海外買い手の不履行 | 日本製品の海外買い手に融資する銀行 |
 
+Sources: ^[NEXI official English service and product portal: https://www.nexi.go.jp/en/.]
+
+
 NEXI は [[financial-regulators/jbic|JBIC]] と密接に協力する。JBIC が供与するバイヤーズクレジットやプロジェクトファイナンス融資では、商業銀行トランシェに NEXI カバーが付くことが多く、これにより資金調達コストが下がり、より広い銀行シンジケーションが可能になる。NEXI は、最低保険料、国リスク分類、期間・頭金条件に関する [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] コンセンサスの下で運用される。
 
 ## JBIC — 政策金融機関
@@ -94,6 +100,9 @@ JBIC は政府全額出資の政策金融機関であり、主に財務省の監
 | 出資 | 日本にとって戦略的な海外案件への少数持分出資 | プロジェクト SPV、インフラ会社 |
 | 保証 | JBIC 案件を協調融資する商業銀行融資への信用保証 | JBIC と並んで融資する商業銀行 |
 | プロジェクトファイナンス | 資源・インフラ向けの長期（15-20+ 年）限定遡及融資 | プロジェクト SPV |
+
+Sources: ^[JBIC official English business and organization portal: https://www.jbic.go.jp/en/.]
+
 
 JBIC は [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]] の頂点ノードである。スポンサーのタームシートに JBIC が入ることは、商業銀行だけでは到達しにくい期間のプロジェクトファイナンスについて、銀行融資可能性を示すシグナルになることが多い。輸出金融、プロジェクト金融、資源金融の融資は米ドル建てが中心で、一部のアンタイド業務では円建て融資も行われる。
 
@@ -121,6 +130,9 @@ JBIC は **ODA 機関ではない**。低利・長期据置の円借款 ODA は 
 | JETRO Members（有料階層） | より深いマッチングや市場参入支援を求める日本の輸出者・海外日系企業 | 年会費（会員種別により異なる）— [[trade/jetro-members-gateway-model|JETRO Members gateway model]] 参照 |
 | NEXI | 日本で設立された輸出者、海外直接投資を持つ日本の親会社、輸出・プロジェクトファイナンス案件に融資する日本の銀行 | 引受審査 — リスクベース価格、国別限度、ハイリスク国では謝絶される場合あり |
 | JBIC | 日本の資本財輸出者、海外案件をスポンサーする日本企業、日本の利益に沿う目的で借り入れる外国政府・銀行 | 高い — 借り手と案件の信用審査、ストラクチャリング交渉、商業銀行との協調融資が多い。効率的な最小案件規模は大きい |
+
+Sources: ^[JETRO official English portal: https://www.jetro.go.jp/en/jetro/; NEXI official English portal: https://www.nexi.go.jp/en/; JBIC official English portal: https://www.jbic.go.jp/en/.]
+
 
 利用資格の絞り込みは JETRO → NEXI → JBIC の順に大きくなる。中小企業は JETRO を日常的に使え、NEXI は選択的に使えるが、JBIC を直接使うことはほとんどない。JBIC の案件規模とストラクチャリングの複雑さは、大企業輸出者や商社向けに寄っている。
 
