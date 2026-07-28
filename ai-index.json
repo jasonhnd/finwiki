@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T04:32:49+09:00",
+  "generated_at": "2026-07-29T04:34:50+09:00",
   "counts": {
     "markdown_files": 1597,
     "public_markdown_pages": 1596,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10883902,
-    "word_like_tokens": 1752365,
+    "nonspace_utf8_chars": 10883247,
+    "word_like_tokens": 1752254,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -44479,7 +44479,7 @@
       "entity_edges": [],
       "nonspace_chars": 5147,
       "word_like_tokens": 819,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "fintech/portfolio-winner-structure-arm-analog.md",
@@ -45992,7 +45992,7 @@
       "entity_edges": [],
       "nonspace_chars": 4282,
       "word_like_tokens": 700,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "fintech/three-circles-stablecoin-mra-framework.md",
@@ -46585,7 +46585,7 @@
       "entity_edges": [],
       "nonspace_chars": 21453,
       "word_like_tokens": 3359,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "fintech/world-liberty-usd1-political-stablecoin.md",
@@ -48474,7 +48474,7 @@
       "entity_edges": [],
       "nonspace_chars": 12761,
       "word_like_tokens": 1633,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "foreign-financial-institutions/hana-bank-japan.md",
@@ -54513,7 +54513,7 @@
       "entity_edges": [],
       "nonspace_chars": 4339,
       "word_like_tokens": 686,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/yamaguchi-leasing.md",
@@ -55359,7 +55359,7 @@
       "entity_edges": [],
       "nonspace_chars": 6551,
       "word_like_tokens": 1143,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "life-insurers/dai-ichi-neo-life.md",
@@ -56053,7 +56053,7 @@
       "entity_edges": [],
       "nonspace_chars": 4753,
       "word_like_tokens": 698,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "life-insurers/metlife-japan.md",
@@ -58553,7 +58553,7 @@
       "entity_edges": [],
       "nonspace_chars": 11352,
       "word_like_tokens": 1922,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/t-point-v-point-post-2024-merger.md",
@@ -59481,7 +59481,7 @@
       "entity_edges": [],
       "nonspace_chars": 7332,
       "word_like_tokens": 1139,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/toyota-motor.md",
@@ -59973,7 +59973,7 @@
       "entity_edges": [],
       "nonspace_chars": 5300,
       "word_like_tokens": 845,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/mizuho-bank.md",
@@ -60456,7 +60456,7 @@
       "entity_edges": [],
       "nonspace_chars": 7132,
       "word_like_tokens": 1159,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/resona-bank.md",
@@ -106396,8 +106396,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4031,
-      "word_like_tokens": 737,
+      "nonspace_chars": 3376,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]
