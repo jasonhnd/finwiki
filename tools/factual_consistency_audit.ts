@@ -66,6 +66,12 @@ type MetricPattern = {
   pattern: RegExp;
 };
 
+type EntityLink = {
+  target: string;
+  start: number;
+  end: number;
+};
+
 const ROOT = path.resolve(import.meta.dir, "..").replaceAll("\\", "/");
 const DATE_RE = /(\d{4})[-/.年](\d{1,2})[-/.月](\d{1,2})日?/g;
 const MARKDOWN_TABLE_SEPARATOR_RE = /^\s*\|?\s*:?-{3,}:?\s*(?:\|\s*:?-{3,}:?\s*)+\|?\s*$/;
@@ -332,9 +338,27 @@ function normalizeNumericValue(value: string, unit: string): string {
 function extractNumericClaims(doc: SourceDoc, line: string, lineNumber: number): Claim[] {
   const metric = matchingMetric(line, NUMERIC_METRICS);
   if (!metric) return [];
-  const claims: Claim[] = [];
+  const metricMatch = metric.pattern.exec(line);
+  if (!metricMatch || metricMatch.index === undefined) return [];
+  const metricStart = metricMatch.index;
+  const metricEnd = metricStart + metricMatch[0].length;
   const amountRe = /([0-9][0-9,]*(?:\.\d+)?)\s*(兆円|億円|百万円|万円|円|JPY|yen|million|billion|%|branches|stores|members|店舗|店|社|人)/gi;
-  for (const match of line.matchAll(amountRe)) {
+  const amounts = [...line.matchAll(amountRe)].filter(
+    (match): match is RegExpMatchArray & { index: number } => match.index !== undefined,
+  );
+  if (amounts.length === 0) return [];
+
+  const distanceToMetric = (match: RegExpMatchArray & { index: number }): number => {
+    const amountStart = match.index;
+    const amountEnd = amountStart + match[0].length;
+    if (amountEnd < metricStart) return metricStart - amountEnd;
+    if (amountStart > metricEnd) return amountStart - metricEnd;
+    return 0;
+  };
+  const minimumDistance = Math.min(...amounts.map(distanceToMetric));
+  const nearestAmounts = amounts.filter((match) => distanceToMetric(match) === minimumDistance);
+  const claims: Claim[] = [];
+  for (const match of nearestAmounts) {
     const rawNumber = match[1]?.trim();
     const rawUnit = match[2]?.trim();
     if (!rawNumber || !rawUnit) continue;
@@ -377,10 +401,11 @@ function extractStatusClaims(doc: SourceDoc, line: string, lineNumber: number): 
 }
 
 function extractRelationshipClaims(doc: SourceDoc, line: string, lineNumber: number): Claim[] {
-  if (!/(parent|subsidiary|shareholder|owned by|親会社|子会社|株主|完全子会社|100%)/i.test(line)) return [];
-  const rawTarget = firstEntityLink(line);
+  if (!/(parent|subsidiary|shareholder|owned by|親会社|子会社|株主|100%|100％)/i.test(line)) return [];
+  if (isHistoricalRelationshipLine(line)) return [];
+  const rawTarget = parentEntityLink(line);
   const normalizedTarget = normalizeEntityPath(rawTarget.replace(/^\.\//, "").replace(/\.md$/, ""));
-  if (!normalizedTarget) return [];
+  if (!normalizedTarget || normalizedTarget === doc.entityKey) return [];
   return [
     {
       claim_type: "relationship",
@@ -397,20 +422,79 @@ function extractRelationshipClaims(doc: SourceDoc, line: string, lineNumber: num
   ];
 }
 
-function firstEntityLink(line: string): string {
-  const candidates: string[] = [];
+function isHistoricalRelationshipLine(line: string): boolean {
+  if (/^\s*\|\s*(?:19|20)\d{2}(?:[-/.年]\d{1,2})?/i.test(line)) return true;
+  return /\b(?:former|historical|previously|planned|pending acquisition)\b|旧親会社|旧株主|旧称/i.test(line);
+}
+
+function entityLinks(line: string): EntityLink[] {
+  const candidates: EntityLink[] = [];
   for (const match of line.matchAll(/\[\[([^|\]#]+)(?:[|#][^\]]*)?\]\]/g)) {
-    candidates.push(match[1] ?? "");
+    if (match.index === undefined) continue;
+    candidates.push({
+      target: match[1] ?? "",
+      start: match.index,
+      end: match.index + match[0].length,
+    });
   }
   for (const match of line.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)) {
-    candidates.push(match[2] ?? "");
+    if (match.index === undefined) continue;
+    candidates.push({
+      target: match[2] ?? "",
+      start: match.index,
+      end: match.index + match[0].length,
+    });
   }
-  for (const candidate of candidates) {
-    const normalized = normalizeEntityPath(candidate.replace(/^\.\//, "").replace(/\.md$/, ""));
-    if (!normalized || normalized.endsWith("/INDEX") || normalized.toLowerCase().endsWith("/index")) continue;
-    return candidate;
+  return candidates.filter((candidate) => {
+    const normalized = normalizeEntityPath(candidate.target.replace(/^\.\//, "").replace(/\.md$/, ""));
+    return normalized && !normalized.endsWith("/INDEX") && !normalized.toLowerCase().endsWith("/index");
+  });
+}
+
+function relationshipScore(line: string, candidate: EntityLink): number {
+  const before = line.slice(Math.max(0, candidate.start - 140), candidate.start);
+  const after = line.slice(candidate.end, Math.min(line.length, candidate.end + 100));
+  const beforeCell = before.slice(Math.max(before.lastIndexOf("|"), before.lastIndexOf("。"), before.lastIndexOf(".")) + 1);
+
+  if (
+    /(?:^|\|)\s*(?:\*\*)?(?:parent|ultimate parent|parent boundary|shareholder|親会社|主要株主|株主)(?:\*\*)?\s*[:：|]\s*[^|。]*$/i.test(
+      before,
+    )
+  ) {
+    return 100;
   }
-  return "";
+  if (/\b(?:subsidiary of|owned by)\s*$/i.test(beforeCell)) return 95;
+  if (/(?:親会社|主要株主|株主)(?:\*\*)?\s*[:：]\s*[^|。]*$/i.test(beforeCell)) return 95;
+  if (
+    /^\s*(?:[（(][^）)]*[）)])?\s*(?:is\s+)?(?:the\s+)?(?:parent company|parent page|親会社|主要株主|株主)\b/i.test(
+      after,
+    )
+  ) {
+    return 90;
+  }
+  if (/^\s*(?:[（(][^）)]*[）)])?\s*(?:100\s*(?:%|％))\s*(?:出資|連結子会社|子会社)/i.test(after)) {
+    return 90;
+  }
+  if (/^\s*(?:[（(][^）)]*[）)])?\s*の\s*(?:(?:100\s*(?:%|％)|完全)\s*)?(?:連結)?子会社/i.test(after)) {
+    return 90;
+  }
+  if (/^\s*(?:[（(][^）)]*[）)])?\s*(?:100\s*%)\s+(?:bank\s+)?subsidiary\b/i.test(after)) return 90;
+  return 0;
+}
+
+function parentEntityLink(line: string): string {
+  const scored = entityLinks(line)
+    .map((candidate) => ({ candidate, score: relationshipScore(line, candidate) }))
+    .filter(({ score }) => score > 0)
+    .sort((left, right) => right.score - left.score || left.candidate.start - right.candidate.start);
+  if (scored.length === 0) return "";
+  const bestScore = scored[0].score;
+  const bestTargets = new Set(
+    scored
+      .filter(({ score }) => score === bestScore)
+      .map(({ candidate }) => normalizeEntityPath(candidate.target.replace(/^\.\//, "").replace(/\.md$/, ""))),
+  );
+  return bestTargets.size === 1 ? scored[0].candidate.target : "";
 }
 
 function extractPeriod(line: string): string | null {

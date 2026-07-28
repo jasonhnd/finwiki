@@ -8,12 +8,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1592 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1593 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1077万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,771,501） |
-| Word-like tokens | 約173万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1079万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,791,747） |
+| Word-like tokens | 約174万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
 
@@ -48,6 +48,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 17. 公開フローは work branch → verified PR to `pre` → human-approved promotion PR from `pre` to `main` → production deploy → 同じ main merge commit への tag / GitHub Release です。`main` への direct push は行わず、release state は [releases/README.md](releases/README.md) で明示します。
 18. article-end discovery は entry の static-path generation で一度だけ route graph を構築し、各 page へ完成済み lane を渡します。graph fingerprint は中間 entry の route、title、tag、curated `related` link の変更を検出し、`EntryLayout` は page ごとに全 collection を再取得しません。
 19. fact-freshness の 45 日 `event` class は route / title に明示された lifecycle-state cue だけで推論します。本文での言及、topical tag、transaction topic、case study は単独では active event とせず、必要に応じて 90 日 `high` class に留めます。
+20. factual-consistency の current-parent 抽出は、明示的な parent / shareholder label、`subsidiary of` / `owned by`、日本語の `の子会社` という方向付き文脈だけを使用します。self / peer / child / historical link を最初の link という理由で parent にせず、同じ行に複数の金額がある場合は metric label に最も近い値だけを結び付けます。
 
 ### 検証
 
@@ -68,12 +69,12 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1592 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1593 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.77M chars | ~10,771,501 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.73M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.79M chars | ~10,791,747 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.74M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
 
@@ -108,6 +109,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 17. The publication flow is work branch → verified PR into `pre` → human-approved promotion PR from `pre` to `main` → production deploy → tag and GitHub Release on the same main merge commit. Do not push directly to `main`; record intentional release state in [releases/README.md](releases/README.md).
 18. Article-end discovery builds its route graph once during entry static-path generation and passes completed lanes to each page. The graph fingerprint detects intermediate-entry route, title, tag, and curated `related`-link changes; `EntryLayout` does not reload the full collection per page.
 19. Fact freshness infers the 45-day `event` class only from explicit lifecycle-state cues in the route or title. Body mentions, topical tags, transaction topics, and case studies do not alone make a page an active event; where appropriate they remain in the 90-day `high` class.
+20. Factual-consistency current-parent extraction uses only directional context: explicit parent/shareholder labels, `subsidiary of` / `owned by`, or Japanese `の子会社`. A self, peer, child, or historical link is never treated as the parent merely because it appears first, and a line with multiple amounts binds only the value nearest the metric label.
 
 ### Validation
 
@@ -128,12 +130,12 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1592 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1593 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1077万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,771,501） |
-| Word-like tokens | 约173万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1079万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,791,747） |
+| Word-like tokens | 约174万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
 
@@ -168,6 +170,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 17. 公开流程是 work branch → verified PR 到 `pre` → 经人工批准的 `pre` 到 `main` promotion PR → production deploy → 在同一个 main merge commit 上建立 tag 与 GitHub Release。不得 direct push 到 `main`；有意的 release state 记录在 [releases/README.md](releases/README.md)。
 18. article-end discovery 在 entry static-path generation 阶段只构建一次 route graph，并把已完成的 lane 传给每个页面。graph fingerprint 会检测中间 entry 的 route、title、tag 与 curated `related` link 变化；`EntryLayout` 不再为每个页面重新载入完整 collection。
 19. fact freshness 只根据 route / title 中明确的 lifecycle-state cue 推断 45 天 `event` class。正文中的顺带提及、topical tag、transaction topic 与 case study 不会单独把页面判定为 active event；适用时只提升到 90 天 `high` class。
+20. factual-consistency 的 current-parent 抽取只使用有方向的上下文：明确的 parent / shareholder label、`subsidiary of` / `owned by`，或日文 `の子会社`。self、peer、child、historical link 不会仅因排在首位就被当作 parent；同一行含多个金额时，只绑定离 metric label 最近的值。
 
 ### 验证
 
