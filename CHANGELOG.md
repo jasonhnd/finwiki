@@ -26,6 +26,38 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-07-28 - Astro check residual hint cleanup (#198)
+
+### 日本語
+
+- **2026-07-28 15:21:09 JST / 背景:** Issue #198。#185 で実 Astro typecheck を導入した後、check 自体は green だったが、Node global `process` の型不足 1 件、deprecated Zod `.passthrough()` 2 件、未使用 helper 2 件の計 5 hints が残っていた。
+- **範囲:** `site/package.json` / `site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、wikilink / responsive-table plugin、本 CHANGELOG、`releases/v2026.07.28-6.md`、release generator が同期する public surface。wiki entry、`ja` / `en` mirror、translation algorithm、table / wikilink runtime behavior は変更しない。
+- **主要ファイル:** `site/package.json`、`site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、`site/src/plugins/localize-wikilinks.mjs`、`site/src/plugins/satteri-responsive-tables.mjs`、本 CHANGELOG、release note。
+- **実行手順:** exact dev dependency `@types/node@26.1.2` と file-level Node type reference を追加した。2 collection schema は deprecated chain を等価な `z.looseObject(...)` に置換し、unknown frontmatter key を引き続き保持する。reference が存在しない `kanaCount` と HAST `hasMeaningfulFirstColumn` だけを削除した。
+- **検証結果:** `bun run verify --out _site` の full canonical gate は PASS。frozen install は 276 installs / 377 packages を変更なしで再現し、site production audit は vulnerability 0。Astro check は 39 files / 0 errors / 0 warnings / 0 hints、root test は 50 tests / 174 assertions、Astro build は 2,969 pages / duplicate ID 0、Pagefind は 2,968 pages、assembly は 6,258 Astro files + 3,065 raw files、13 required routes、assembled route audit は 6,029 unique internal URLs で全て PASS。strict release check、generated-surface drift、`git diff --check` も PASS。release-inclusive snapshot は Markdown 1,579、public pages 1,578、sitemap URLs 1,482、domains 40、audited entries 1,489。
+- **既知の注意点:** `@types/node` は dev-only type surface で runtime bundle を変更しない。`z.looseObject` は従来の passthrough behavior を維持し、実 corpus / mirror 全体の build がその互換性を確認した。
+- **残タスク:** real pre-push、remote HEAD、PR checks を確認する。Issue #198 に closeout evidence を記録して maintainer review を待ち、self-merge / self-close はしない。
+
+### English
+
+- **2026-07-28 15:21:09 JST / Background:** Issue #198. After #185 introduced real Astro typechecking, the check was green but retained five hints: one missing Node global type for `process`, two deprecated Zod `.passthrough()` calls, and two unused helpers.
+- **Scope:** `site/package.json` / `site/bun.lock`, `site/scripts/translate.mjs`, `site/src/content.config.ts`, the wikilink/responsive-table plugins, this CHANGELOG, `releases/v2026.07.28-6.md`, and public surfaces synchronized by the release generator. Wiki entries, `ja` / `en` mirrors, translation algorithms, and table/wikilink runtime behavior are unchanged.
+- **Primary files:** `site/package.json`, `site/bun.lock`, `site/scripts/translate.mjs`, `site/src/content.config.ts`, `site/src/plugins/localize-wikilinks.mjs`, `site/src/plugins/satteri-responsive-tables.mjs`, this CHANGELOG, and the release note.
+- **Steps:** Added the exact dev dependency `@types/node@26.1.2` plus a file-level Node type reference. Replaced both deprecated collection-schema chains with equivalent `z.looseObject(...)` definitions, preserving unknown frontmatter keys. Removed only the unreferenced `kanaCount` and HAST `hasMeaningfulFirstColumn` helpers.
+- **Validation:** The full canonical `bun run verify --out _site` gate passed. The frozen install reproduced 276 installs / 377 packages without changes, and the site production audit reported zero vulnerabilities. Astro check completed across 39 files with 0 errors / 0 warnings / 0 hints; root tests passed 50 tests / 174 assertions; Astro built 2,969 pages with zero duplicate IDs; Pagefind indexed 2,968 pages; assembly produced 6,258 Astro files plus 3,065 raw files; all 13 required routes passed; and the assembled-route audit passed across 6,029 unique internal URLs. The strict release check, generated-surface drift check, and `git diff --check` also passed. The release-inclusive snapshot contains 1,579 Markdown files, 1,578 public pages, 1,482 sitemap URLs, 40 domains, and 1,489 audited entries.
+- **Known notes:** `@types/node` is a development-only type surface and does not change the runtime bundle. `z.looseObject` preserves the previous passthrough behavior; the full corpus/mirror build confirmed that compatibility.
+- **Follow-up:** Confirm the real pre-push, remote HEAD, and PR checks. Attach closeout evidence to Issue #198, wait for maintainer review, and do not self-merge or self-close.
+
+### 中文
+
+- **2026-07-28 15:21:09 JST / 背景:** Issue #198。#185 引入真实 Astro typecheck 后，check 已经为 green，但仍留下 5 个 hints：1 个 Node global `process` 类型缺失、2 个 deprecated Zod `.passthrough()`、2 个未使用 helper。
+- **范围:** `site/package.json` / `site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、wikilink / responsive-table plugin、本 CHANGELOG、`releases/v2026.07.28-6.md`，以及 release generator 同步的公开 surface。不修改 wiki entry、`ja` / `en` mirror、translation algorithm 或 table / wikilink runtime behavior。
+- **主要文件:** `site/package.json`、`site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、`site/src/plugins/localize-wikilinks.mjs`、`site/src/plugins/satteri-responsive-tables.mjs`、本 CHANGELOG 与 release note。
+- **执行步骤:** 增加 exact dev dependency `@types/node@26.1.2` 与 file-level Node type reference；将两个 collection schema 的 deprecated chain 替换为等价的 `z.looseObject(...)`，继续保留 unknown frontmatter key；只删除没有任何引用的 `kanaCount` 与 HAST `hasMeaningfulFirstColumn` helper。
+- **验证结果:** 完整 canonical gate `bun run verify --out _site` 已通过。frozen install 以 276 installs / 377 packages 无变化复现，site production audit 为 vulnerability 0。Astro check 为 39 files / 0 errors / 0 warnings / 0 hints；root test 为 50 tests / 174 assertions；Astro build 为 2,969 pages / duplicate ID 0；Pagefind 为 2,968 pages；assembly 为 6,258 Astro files + 3,065 raw files；13 个 required routes 全部通过；assembled route audit 以 6,029 unique internal URLs 通过。strict release check、generated-surface drift 与 `git diff --check` 也通过。release-inclusive snapshot 为 Markdown 1,579、public pages 1,578、sitemap URLs 1,482、domains 40、audited entries 1,489。
+- **已知注意事项:** `@types/node` 仅为开发期 type surface，不修改 runtime bundle。`z.looseObject` 保持原 passthrough behavior；对全部 corpus / mirror 的 build 已验证该兼容性。
+- **后续事项:** 确认真实 pre-push、remote HEAD 与 PR checks。将 closeout evidence 附到 Issue #198，等待 maintainer review，不 self-merge / self-close。
+
 ## 2026-07-27 - AI discovery route and deployed-URL repair (#179)
 
 ### 日本語

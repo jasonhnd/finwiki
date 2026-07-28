@@ -55,21 +55,17 @@ const entries = defineCollection({
       '!**/INDEX.md',
     ],
   }),
-  schema: z
-    .object({
-      title: z.coerce.string().default('(untitled)'),
-    })
-    .passthrough(),
+  schema: z.looseObject({
+    title: z.coerce.string().default('(untitled)'),
+  }),
 });
 
 // Machine translation output. id = {lang}/{domain}/{slug}.
 const i18n = defineCollection({
   loader: glob({ base: './src/content/i18n', pattern: '**/*.md' }),
-  schema: z
-    .object({
-      title: z.coerce.string().default(''),
-    })
-    .passthrough(),
+  schema: z.looseObject({
+    title: z.coerce.string().default(''),
+  }),
 });
 
 export const collections = { entries, i18n };

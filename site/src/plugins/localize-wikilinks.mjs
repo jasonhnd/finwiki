@@ -179,10 +179,6 @@ function japaneseCount(value) {
   return (String(value).match(/[\u3040-\u30ff\u3400-\u9fff]/g) ?? []).length;
 }
 
-function kanaCount(value) {
-  return (String(value).match(/[\u3040-\u30ff]/g) ?? []).length;
-}
-
 function asciiLetterCount(value) {
   return (String(value).match(/[A-Za-z]/g) ?? []).length;
 }
