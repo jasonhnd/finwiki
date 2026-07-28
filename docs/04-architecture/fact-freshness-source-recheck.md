@@ -80,7 +80,10 @@ Suggested inferred rules:
 - `status: borderline` is always due until rechecked.
 - `status: deprecated` should be excluded from ordinary freshness queues unless it has inbound traffic or an active forward route.
 - Domains such as `financial-regulators`, `financial-licenses`, `exchanges`, `fintech`, `business`, `corporate-strategy`, `securities`, and entity-heavy JapanFG-split domains start at `medium` or above.
-- Titles/body containing `2024`, `2025`, `2026`, `case`, `matrix`, `market share`, `registry`, `implementation`, `status`, `licensing`, `TOB`, `MBO`, `IPO`, `spinoff`, `closure`, `revocation`, or `deadline` should be considered higher volatility unless explicitly overridden.
+- Explicit lifecycle-state cues such as `announced`, `pending`, `completed`, `cancelled`, `closure`, `revocation`, `deadline`, or `enforcement action` infer the 45-day `event` class only when the route or title identifies the page itself as an active event. A passing mention in body prose or a topical tag is context, not enough to reclassify the whole page.
+- Transaction/event topics such as `TOB`, `MBO`, `IPO`, `spinoff`, merger, acquisition, bankruptcy, or migration in a route/title/tag promote a low/medium page to `high`. They do not imply that a reference mechanism, historical case, or stable profile is an active 45-day event.
+- A route/title/tag containing `case` or `case study` promotes a low/medium page to `high`, not `event`; a generic body phrase such as “use case” has no class effect.
+- Registry/statistics cues such as `matrix`, `market share`, `registry`, `implementation`, `status`, or `licensing` may still use route/title/tag/body context to promote a low/medium page to `high`.
 
 ## Staleness Heuristic
 
@@ -121,6 +124,8 @@ Reason codes should be stable, for example:
 - `candidate_status`
 - `empty_sources`
 - `event_keyword`
+- `volatile_topic_keyword`
+- `case_study_keyword`
 - `registry_or_statistics_keyword`
 
 ## Command Shape
