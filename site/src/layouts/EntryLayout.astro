@@ -9,6 +9,7 @@ import { isoDate } from '../lib/format';
 import { localizedTitle } from '../lib/siteIndex.mjs';
 import { buildEntryDiscovery } from '../lib/entryDiscovery.mjs';
 import { buildEntryHead } from '../lib/entryHead';
+import { isPublishableTranslation } from '../lib/translations';
 
 interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
@@ -20,6 +21,9 @@ interface Props {
   domains?: DomainCount[];
 }
 const { lang, entry, tr, headings = [], domains = [] } = Astro.props;
+if (tr && !isPublishableTranslation(tr)) {
+  throw new Error(`refusing to render non-publishable translation: ${tr.id ?? '(unknown)'}`);
+}
 
 const fm = entry.data ?? {};
 const route = entryRoute(entry);
@@ -32,7 +36,6 @@ const tags = Array.isArray(fm.tags) ? fm.tags.slice(0, 6) : [];
 const title = (tr?.data?.title && String(tr.data.title)) || localizedTitle(lang, route) || fm.title;
 const confidenceText = confidence ? confidenceLabel(lang, confidence) : null;
 const machine = !!tr && tr.data?.status === 'machine';
-const needsReview = tr?.data?.fidelity === 'needs_review';
 const origHref = lang !== 'ja' ? u('ja', `${route}/`) : null;
 
 const toc = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
@@ -134,7 +137,7 @@ const entryHead = buildEntryHead({
             )
           )}
           {machine && (
-            <span class="evidence-badge evidence-badge--warn">{t(lang, 'entry.machine')}{needsReview ? ` · ${t(lang, 'entry.needsReview')}` : ''}</span>
+            <span class="evidence-badge evidence-badge--warn">{t(lang, 'entry.machine')}</span>
           )}
           {origHref && <a class="evidence-badge evidence-badge--link" href={origHref}>{t(lang, 'entry.original')}</a>}
         </div>
