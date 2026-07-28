@@ -1,12 +1,12 @@
 ---
 source: agent-economy/google-a2a-agent-interop-protocol
-source_hash: 43ecafc586b239dc
+source_hash: 537531633abe0914
 lang: ja
 model: codex-manual-verified
 status: machine
 fidelity: ok
 title: "Agent2Agent (A2A) · クロスベンダー agent 相互運用プロトコル"
-translated_at: 2026-07-03T07:35:00.000Z
+translated_at: 2026-07-28T17:01:18.000Z
 ---
 
 # Agent2Agent (A2A) · クロスベンダー agent 相互運用プロトコル
@@ -20,6 +20,7 @@ translated_at: 2026-07-03T07:35:00.000Z
 - Agent2Agent (A2A) は、Google が作成した open protocol で、vendor、platform、framework をまたいだ安全な agent-to-agent communication と collaboration を目的とする。 ^[extracted]
 - Google は 2025-04-09 に A2A を発表し、50 超の technology / service partner が支持した。その後 2025-06-23 に specification、SDK、developer tooling を Linux Foundation hosted project へ移管した。 ^[extracted]
 - Linux Foundation は A2A を自らの governance 下にある vendor-neutral な project と位置づけ、launch 時点で 100 超、2026 年までに 150 超の supporting organizations があると説明した。 ^[extracted]
+- 2026-07-29 時点で、公式 specification は 1.0.0 を latest released version としている。A2A project は v1.0 を first stable / production-ready release と位置づけ、Linux Foundation は複数 industry で active production deployment があると報告している。 ^[extracted]
 - A2A は discovery / delegation / messaging layer である。agent は capabilities を広告し、message を交換し、task を管理し、private memory、internal tools、implementation state を公開せずに collaborate できる。 ^[extracted]
 - A2A は Agent Card を標準化しており、public discovery path として `https://{agent-server-domain}/.well-known/agent-card.json` が推奨されている。 ^[extracted]
 - A2A は AP2 とは異なる。AP2 は agent-led commerce の payment / mandate layer であり、A2A は AP2 が拡張または利用できる peer-agent communication layer である。 ^[extracted]
@@ -70,6 +71,7 @@ Google は 2025 年 4 月に A2A を agent interoperability のための open pr
 
 - A2A project repository - https://github.com/a2aproject/A2A
 - A2A protocol specification - https://a2a-protocol.org/latest/specification/
+- A2A Protocol, "A2A Protocol Ships v1.0: Production-Ready Standard for Agent-to-Agent Communication" - https://a2a-protocol.org/latest/announcing-1.0/
 - A2A Agent Discovery documentation - https://a2a-protocol.org/latest/topics/agent-discovery/
 - A2A and MCP comparison - https://a2a-protocol.org/latest/topics/a2a-and-mcp/
 - Google Developers Blog, "Announcing the Agent2Agent Protocol (A2A)" - https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/

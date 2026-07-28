@@ -1,15 +1,15 @@
 ---
 source: agent-economy/coinbase-agentkit-agentic-wallets
-source_hash: 71f108629ca3ce9a
+source_hash: 9681174e135aeb7e
 lang: en
 model: local-en-business-term-glossary
 status: machine
 fidelity: ok
-title: "Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base"
-translated_at: 2026-07-03T00:00:00.000Z
+title: "Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base"
+translated_at: 2026-07-28T17:01:18.000Z
 ---
 
-# Coinbase AgentKit & Agentic Wallets · MPC agent wallets on Base
+# Coinbase AgentKit & Agentic Wallets · TEE agent wallets on Base
 
 ## Wiki route
 
@@ -20,11 +20,12 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]] as the Coinbas
 - Coinbase launched AgentKit on 2024-11-08 as a CDP framework for AI agents that need to perform onchain operations such as transfers, token swaps, and smart-contract interactions. ^[extracted]
 - The current `coinbase/agentkit` repository describes AgentKit as CDP's toolkit for giving AI agents a crypto wallet and onchain interactions, with framework-agnostic and wallet-agnostic integration. ^[extracted]
 - Coinbase introduced Agentic Wallets on 2026-02-11 as wallet infrastructure built specifically for agents, distinct from the general CDP platform entry and from the open AgentKit framework. ^[extracted]
+- As of 2026-07-29, Coinbase's live product and developer-documentation surfaces continue to offer Agentic Wallet CLI and Agentic Wallet MCP, while the public `coinbase/agentkit` repository remains the open framework entry point. ^[extracted]
 - Agentic Wallets are exposed through two product surfaces: an Agentic Wallet CLI using `awal` commands and an Agentic Wallet MCP server / companion app for MCP-compatible agents such as Claude, Codex, and Gemini. ^[extracted]
 - Coinbase's Agentic Wallet pages position x402 as the core payment standard, state that x402 had processed more than 50M transactions, and emphasize machine-to-machine payments, API paywalls, and programmatic resource access. ^[extracted]
 - Coinbase's product page says Agentic Wallets support gasless trading for any token on Base; the MCP documentation also lists automatic payments on Base, Polygon, and Solana. ^[extracted]
 - The official 2026 CDP Wallets v2 security story is TEE / enclave isolation plus programmable policy controls, not a current MPC key-shard model: Coinbase's CDP Wallets launch states "no MPC, no key shards," while noting that the previous Wallet API v1 was MPC-based. ^[extracted]
-- "MPC agent wallets" is therefore best treated as a legacy / category shorthand or Coinbase cryptography background, while the verified Agentic Wallet launch claim is CDP Wallets + TEE isolation + session and transaction guardrails. ^[inferred]
+- MPC is therefore a historical comparison point for the earlier Wallet API v1, while the verified current Agentic Wallet architecture is CDP Wallets + TEE isolation + session and transaction guardrails. ^[inferred]
 - Competitive positioning: Coinbase bundles open AgentKit actions, CDP wallet security, x402 payment discovery, and Base gas abstraction; Privy emphasizes embedded-wallet UX across apps, while Circle Wallets emphasize USDC-native wallet APIs secured by MPC or passkeys depending on product. ^[inferred]
 
 ## Mechanism / How it works
@@ -37,7 +38,7 @@ The security boundary is the wallet layer, not the prompt. Agentic Wallets inher
 
 x402 is the transaction rail that makes the wallet agent-native. Instead of pre-registering for every API, an agent can receive an HTTP 402 payment requirement, authorize a small stablecoin payment, and continue the request. Agentic Wallet MCP wraps this pattern for MCP clients: the agent discovers paid services, pays with USDC on supported networks, and returns the data to the user. On Base, Coinbase adds the gas-abstraction path that keeps the agent from needing native ETH for every operation, which is especially important for low-value API and compute payments.
 
-The "MPC" wording in the title should be read carefully. Coinbase does maintain an open MPC cryptography stack, and older CDP wallet materials reference Wallet API v1 as MPC-based. But the verified Agentic Wallet / CDP Wallets v2 architecture Coinbase documents in 2026 is enclave / TEE based and explicitly contrasts itself with MPC key shards. For factual use, this entry treats MPC as a historical comparison point and uses TEE + policy guardrails as the current product architecture.
+Coinbase does maintain an open MPC cryptography stack, and older CDP wallet materials reference Wallet API v1 as MPC-based. But the verified Agentic Wallet / CDP Wallets v2 architecture Coinbase documents in 2026 is enclave / TEE based and explicitly contrasts itself with MPC key shards. For factual use, this entry treats MPC as a historical comparison point and uses TEE + policy guardrails as the current product architecture.
 
 ## Origin & evolution
 

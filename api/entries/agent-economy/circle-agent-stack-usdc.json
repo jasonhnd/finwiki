@@ -27,10 +27,10 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-07-03",
-    "last_updated": "2026-07-03",
-    "last_tended": "2026-07-03",
-    "review_by": "2027-01-03",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "agent-economy",
       "circle",
@@ -43,7 +43,7 @@
       "cli",
       "policy-controls"
     ],
-    "status": "candidate",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11288,
-    "word_like_tokens": 1831,
+    "nonspace_chars": 11520,
+    "word_like_tokens": 1868,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-07-04"
+    "last_modified": "2026-07-29"
   }
 }
