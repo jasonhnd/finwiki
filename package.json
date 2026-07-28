@@ -22,6 +22,7 @@
     "release:write": "bun tools/release.ts --write",
     "wiki:audit": "bun tools/wiki_link_audit.ts --report wiki-link-improvement-plan.md --fail-on-issues",
     "wiki:audit:ci": "bun tools/wiki_link_audit.ts --fail-on-issues",
+    "publish:test": "bun test tools/assemble_static_publish.test.ts",
     "publish:assemble": "bun tools/assemble_static_publish.ts --out _vercel_public",
     "vercel:build": "bun tools/vercel_build.ts"
   },

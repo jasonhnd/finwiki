@@ -21,6 +21,8 @@
 - [ ] `bun tools/release.ts --write` was run when public release surface changed.
 - [ ] `bun tools/release.ts --check --strict` exits 0.
 - [ ] `bun tools/wiki_link_audit.ts --fail-on-issues` exits 0.
+- [ ] `bun run publish:test` exits 0 when static assembly, generated manifests or deployment pipeline behavior changes.
+- [ ] Assembled `_site` / `_vercel_public` contains only Astro output, approved raw wiki / AI files and generated `.nojekyll`; `docs/`, developer config, hidden/ignored source files and unmanifested files are absent.
 - [ ] `bun run facts:freshness -- --json` exits 0 when fact-freshness / source-recheck behavior changes.
 - [ ] `bun tools/active_doc_stale_scan.ts` exits 0 (no stale facts in active docs).
 - [ ] `bun tools/generated_surface_drift_scan.ts` exits 0 (no docs leakage or stale API residue).

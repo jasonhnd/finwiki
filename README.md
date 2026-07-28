@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1572 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1573 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1054万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,536,023） |
+| Text volume | 約1055万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,546,766） |
 | Word-like tokens | 約169万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -36,6 +36,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 5. 新しい公開言語を追加する場合は、事前に architecture decision が必要です。
 6. 内容、構造、索引、公開 snapshot、運用ルールを変更した場合は、同じ作業内で `CHANGELOG.md` を更新します。
 7. wiki 内容、索引、領域数、公開 snapshot を更新した場合は、`bun run ai:discovery` と `bun run release:write` を実行し、生成 surface を確認します。
+8. 静的な公開物は Astro の build output と、生成 manifest が選択した明示的な raw wiki / AI allowlist だけで構成します。開発文書、tooling、設定、hidden / ignored source file、未知の root file は公開しません。
 
 ### 検証
 
@@ -45,6 +46,7 @@ bun tools/release.ts --check --strict
 bun run i18n:status
 bun run docs:audit
 bun run wiki:audit:ci
+bun run publish:test
 cd site && bun install && bun run build
 cd .. && bun run html:check
 git diff --check
@@ -62,11 +64,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1572 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1573 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.54M chars | ~10,536,023 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.55M chars | ~10,546,766 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.69M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -90,6 +92,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 5. Any future public language expansion requires a new architecture decision first.
 6. When changing content, structure, indexes, public snapshots, or operating rules, update `CHANGELOG.md` in the same work session.
 7. When wiki content, indexes, domain counts, or public snapshots change, run `bun run ai:discovery` and `bun run release:write`, then inspect generated surfaces.
+8. Static deployment consists only of the Astro build output and an explicit raw wiki / AI allowlist selected by generated manifests. Developer docs, tooling, configuration, hidden / ignored source files, and unknown root files are not published.
 
 ### Validation
 
@@ -99,6 +102,7 @@ bun tools/release.ts --check --strict
 bun run i18n:status
 bun run docs:audit
 bun run wiki:audit:ci
+bun run publish:test
 cd site && bun install && bun run build
 cd .. && bun run html:check
 git diff --check
@@ -116,11 +120,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1572 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1573 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1054万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,536,023） |
+| Text volume | 约1055万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,546,766） |
 | Word-like tokens | 约169万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -144,6 +148,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 5. 未来若新增公开站点语言，必须先作出新的架构决策。
 6. 修改内容、结构、索引、公开快照或维护规则时，必须在同一轮工作中更新 `CHANGELOG.md`。
 7. 修改 wiki 内容、索引、领域数量或公开快照时，执行 `bun run ai:discovery` 与 `bun run release:write`，并检查生成 surface。
+8. 静态发布物只由 Astro build output 与生成 manifest 选出的显式 raw wiki / AI allowlist 构成；开发文档、tooling、配置、hidden / ignored source file 和未知 root file 不得发布。
 
 ### 验证
 
@@ -153,6 +158,7 @@ bun tools/release.ts --check --strict
 bun run i18n:status
 bun run docs:audit
 bun run wiki:audit:ci
+bun run publish:test
 cd site && bun install && bun run build
 cd .. && bun run html:check
 git diff --check
