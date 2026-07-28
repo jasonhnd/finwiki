@@ -8,9 +8,9 @@ aliases:
   - DeCurret
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - fintech
@@ -25,6 +25,7 @@ sources:
   - https://www.weblio.jp/content/S.BLOX
   - https://prtimes.jp/main/html/searchrlp/company_id/130885
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+  - https://m.sblox.jp/ja-jp/recruit/
 ---
 
 # S.BLOX株式会社 — 日本暗号資産交換業者 overview
@@ -87,7 +88,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **2022年2月**：デジタル通貨事業を株式会社ディーカレットDCPへ吸収分割にて承継。同日、残存の暗号資産交換業（交換所事業）部分を シンガポール系マーケットメーカー **Amber Group（アンバー・グループ）** の日本法人 WhaleFin Holdings Japan株式会社に売却（株主変更）。
 - **2022年9月**：社名を **Amber Japan株式会社** に変更。サービス名も「WhaleFin」に刷新。
 - **2023年8月**：**Quetta Web株式会社**（ソニーグループ株式会社100%出資の子会社）がAmber Japan全株式を取得、ソニーグループ傘下に加入。Amber時代の代表取締役 李依錦（リー・イージン）氏は辞任し、ソニーネットワークコミュニケーションズ出身の **渡辺潤** 氏が代表取締役社長に就任。
-- **2024年7月1日**：社名を **S.BLOX株式会社** に変更。ソニーグループのWeb3戦略における暗号資産交換業窓口として位置づけ。
+- **2024年7月**：社名を Amber Japan株式会社から **S.BLOX株式会社** に変更。公式会社説明は、2023年8月のソニーグループ傘下入りと、2025年1月のサービス名 WhaleFin から S.BLOX へのリニューアルを別の出来事として記載している。^[Source: https://m.sblox.jp/ja-jp/recruit/.]
 - **2025年1月**：サービスリニューアル完了、サービス名を「WhaleFin」から **S.BLOX** に変更。
 
 **TaoTao との関係について**：TaoTao株式会社（旧 Yahoo!Japan / Z Corp 系）は2021年12月にSBI VCトレード株式会社に合併吸収された、**別法人・別系列**。S.BLOX（旧ディーカレット）とは一切の法人継承関係はなく、FSA登録番号も異なる。

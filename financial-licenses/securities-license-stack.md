@@ -8,9 +8,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, FIEA, financial-license, JSDA, FIBO]
 status: active
@@ -45,7 +45,7 @@ This page is a public-source research route, not legal advice. A live product or
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | Trading, clearing, settlement, and PTS route. | Broker registration or suitability. |
 | Product disclosure | Firm pages, prospectuses, EDINET / TDnet, official product pages | Whether the firm currently markets the product and what disclosures attach to it. | A general license conclusion. |
 
-FSA's license portal checked on 2026-05-22 listed the financial instruments business operator, registered financial institution, financial instruments intermediary, securities finance company, clearing, depository, and related registry routes with current as-of dates. The dedicated FinWiki registry-control page keeps the 1,945-row FSA financial instruments business operator population at summary level rather than copying the official workbook.
+FSA's license portal checked on 2026-07-29 listed the financial instruments business operator, registered financial institution, financial instruments intermediary, securities finance company, clearing, depository, and related registry routes with current as-of dates. The current official financial instruments business operator workbook reports 1,954 operators; the dedicated FinWiki registry-control page keeps that population at summary level rather than copying the workbook.^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, checked 2026-07-29, 「全業者数: 1954」.]
 
 ## Regime Map
 

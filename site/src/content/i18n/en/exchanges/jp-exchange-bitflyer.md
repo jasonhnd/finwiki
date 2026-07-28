@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-bitflyer
-source_hash: a34662a8c80c39b1
+source_hash: ab02483800052cd3
 lang: en
 status: machine
 fidelity: ok
 title: "bitFlyer Inc. — Japan crypto-asset exchange overview"
-translated_at: 2026-06-18T23:33:48.313Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # bitFlyer Inc. — Japan crypto-asset exchange overview
@@ -23,8 +23,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Established**: 2014年1月9日
 - **Head office location**: 〒107-6230  Midtown Tower, 9-7-1  Akasaka, Minato-ku, Tokyo
 - **Capital**: 41億238万円 (including capital reserve) (value posted on the official website, point in time unspecified)
-- **Parent company**: bitFlyer Holdings, Inc. (100% stake, unlisted, established 2018年10月1日, capital 50億円)
-- **Shareholder composition (Holdings level)**: Yuzo Kano approx. 40%, Takashi Komiyama approx. 13%, Sekisui House just under 13% (as of 2022年4月). This ratio is consistent with the 2022年4月 Nikkei reporting (a coalition of minority shareholders + the support of Komiyama / Sekisui House making ACA likely to secure over 50 percent) and the value posted on Wikipedia. Thereafter, the acquisition by the ACA Group fell through at the end of 2022年9月 (Kano's opposition + the withdrawal of some shareholders' sale, with the valuation rising to approx. 900億円 as Rakuten and Monex entered), and Kano was reappointed as representative director 2023-03-30. Given these developments, the 2022年4月 ratio has likely changed, but the latest post-reappointment stake (2023–2026年) is unconfirmed in public information (unlisted, IPO in preparation).
+- **Parent company**: The official company profile lists bitFlyer Holdings, Inc. as bitFlyer Inc.'s shareholder and parent, and discloses that Holdings was established on 2018-10-01 with JPY 5 billion in capital including capital reserve. ^[Source: https://bitflyer.com/ja-jp/s/company.]
+- **Shareholder composition (Holdings level)**: bitFlyer's current official disclosures do not publish Holdings' private cap table, so this entry does not restate 2022 press estimates of founder and minority-shareholder percentages as current 2026 holdings. The confirmed scope is that bitFlyer Holdings is bitFlyer Inc.'s shareholder, together with the companies' current directors and stated capital. ^[Sources: https://bitflyer.com/ja-jp/s/company; https://bitflyer.com/ja-jp/s/director-profile.]
 - **Accounting auditor**: Ernst & Young ShinNihon LLC
 - **Main bank**: Sumitomo Mitsui Banking Corporation
 - **Corporate number**: 2011101068824

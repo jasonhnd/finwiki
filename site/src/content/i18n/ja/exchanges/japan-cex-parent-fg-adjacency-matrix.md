@@ -1,12 +1,12 @@
 ---
 source: exchanges/japan-cex-parent-fg-adjacency-matrix
-source_hash: 61805315a848bb6f
+source_hash: 4d0a6750ba39a74b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の CEX 親 FG 隣接マトリクス"
-translated_at: 2026-06-26T08:27:56.305Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 日本の CEX 親 FG 隣接マトリクス
@@ -112,21 +112,18 @@ translated_at: 2026-06-26T08:27:56.305Z
 - **機関投資家ブローカレッジ** — 野村證券（グループのブローカレッジ、リテール資産で日本第 1）が機関投資家の顧客基盤とプライムブローカレッジの隣接性を提供する
 - **資産運用** — [[asset-managers/nomura-asset-management|Nomura Asset Management]] が機関投資家向けの ETF ／ファンドのエンジニアリングの厚みを提供する
 - **信託銀行** — [[trust-banks/nomura-trust-bank|Nomura Trust Bank]] が機関投資家フローのための信託／カストディ側の法的実体を提供する
-- **ライセンス** — Laser Digital Japan は、標準的な暗号資産交換業ではなく金商法第 2  種（デリバティブ重視）を保有しており、リテール現物ではなく機関投資家／デリバティブ重視を反映している
+- **公開規制ステータス** — Laser Digital Japan の公式ページは日本法人が Laser Digital グループ全体に operational services を提供すると説明し、JVCEA は 2025-09-19 から同社を **第二種会員**として記録する。JVCEA の会員区分は第二種金融商品取引業登録ではなく、同社は確認した FSA の暗号資産交換業者・金融商品取引業者 workbook に掲載されていない
 - **グローバルな Laser Digital ネットワーク** — スイス本社、ドバイ（VARA ライセンス）、アブダビ、ロンドンのサーフェスが、機関投資家フローを日本の実体に供給する
 
 **隣接性の強度**：非常に高い（機関投資家のみ） — 野村のコミットメントは、リテール現物ではなく機関投資家／デリバティブのサーフェスに対するものである。FG のクロスリンクは、銀行 FG のリテール VASP が用いる消費者向けクロスセルではなく、ブローカレッジ顧客のカバレッジと信託銀行のカストディである。詳細：[[exchanges/jp-exchange-laser-digital-japan|jp-exchange-laser-digital-japan]]。
 
-### Crypto Garage — 大和証券グループ（8601）＋ DG ／ 野村のコネクション
+### Crypto Garage — デジタルガレージ＋東京短資の合弁
 
-**親 FG**：[[securities-firms/daiwa-sg|Daiwa Securities Group]]（東証プライム 8601）。資本構成には DG ホールディングス（デジタルガレージ 4819）、東京短資、その他の戦略的投資家が含まれる。**提供されるグループ・サービス**：
-- **証券** — 大和証券（グループのブローカレッジ、リテール資産で日本第 2）が機関投資家のサーフェスを提供する
-- **資産運用** — [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] が資産運用のエンジニアリングの厚みを提供する
-- **信託銀行** — [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] ／ 大和トラストの機能
-- **ダイレクト・バンク** — [[regional-banks/daiwa-next-bank|Daiwa Next Bank]]（グループのダイレクト・バンク）がグループ内の円レールを提供する
-- **ライセンス** — Crypto Garage は第 2  種／機関投資家重視の構造を保有しており、Laser Digital Japan と姿勢が類似している。この実体は、リテール現物ではなく PTS ／機関投資家／DCJPY ／ステーブルコイン発行の実験に向けて位置づけられている
+**親会社構造**：Crypto Garage の公式 profile は、デジタルガレージと東京短資が共同で設立した合弁会社であるとし、公開役員一覧には野村ホールディングスの取締役を含む。確認した公式 profile は大和証券グループを親会社として示さず、大和の銀行、証券、資産運用、信託 entity へのアクセスも立証しない。**提供されるグループ・サービス**：
+- **機関向け infrastructure** — SETTLENET、OTC、custody、settlement、staking、blockchain development を professional / institutional users 向けに掲げる
+- **ライセンス** — Crypto Garage は資金決済法上の FSA 登録暗号資産交換業者（関東財務局 第00029号）であり、第二種金融商品取引業者とは説明されていない
 
-**隣接性の強度**：高い（機関投資家／実験的） — Crypto Garage は大和の機関投資家サーフェスと JPX 隣接の実験の交点に位置し、機関投資家向け現物のために同じ JPX ／三井物産／マネックスのコンソーシアム内に姉妹実体 [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]] を持つ。詳細：[[exchanges/jp-exchange-crypto-garage|jp-exchange-crypto-garage]]。
+**隣接性の強度**：中〜高（機関向け合弁） — Crypto Garage はデジタルガレージの technology surface と東京短資の wholesale-market adjacency、および公開された野村の取締役 link を組み合わせる。裏付けとなる ownership source なしに、大和グループ子会社または [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]] の sibling entity として model 化しない。詳細：[[exchanges/jp-exchange-crypto-garage|jp-exchange-crypto-garage]]。
 
 ### PayPay 関連 — ソフトバンク FG クラスタ
 
@@ -163,7 +160,7 @@ translated_at: 2026-06-26T08:27:56.305Z
 | **DMM Bitcoin** | DMM HD（非公開） | n/a | （なし） | DMM.com 証券 | （なし） | DMM ポイント | （なし） | DMM マーケットプレイス | 中 → ワインドダウン 2024 | （かつての）マーケティング・リーチ |
 | **Mercoin** | [[payment-firms/mercari-hd\|Mercari HD]] | 4385 | （なし） | （なし） | メルペイ（資金移動業） | メルカリポイント | （なし） | メルカリ（日本最大の C2C） | 非常に高い | あり — 専属マーケットプレイス・オンランプ |
 | **Laser Digital Japan** | [[securities-firms/nomura-hd\|Nomura HD]] | 8604 | （自社銀行なし） | 野村證券（日本第 1  資産） | （なし） | （なし） | （野村保険） | （なし） | 非常に高い（機関投資家） | あり — 機関投資家の顧客カバレッジ |
-| **Crypto Garage** | [[securities-firms/daiwa-sg\|Daiwa SG]] ＋ DG ＋ 東京短資 ＋ 野村 | 8601 （大和） | [[regional-banks/daiwa-next-bank\|Daiwa Next Bank]] | 大和証券（日本第 2  資産） | （なし） | （なし） | （大和ライフ） | （なし） | 高い（機関投資家） | あり — 機関投資家 ＋ JPX 隣接 |
+| **Crypto Garage** | デジタルガレージ＋東京短資 JV、野村の取締役 link | 4819（デジタルガレージ） | （開示されたグループ内銀行なし） | （開示されたグループ内証券なし） | （なし） | （なし） | （なし） | （なし） | 中〜高（機関向け JV） | あり — wholesale / technology adjacency |
 | **PayPay 関連（Binance Japan 少数経由）** | ソフトバンクグループ／ PayPay FG | 9984 | PayPay 銀行 | PayPay 証券 | PayPay（日本最大の QR） | PayPay ポイント | （限定的） | （限定的） | 中（間接的、約 40% の持分のみ） | 間接的 — オプショナリティ |
 | **au 関連** | KDDI | 9433 | au じぶん銀行（MUFG と） | au カブコム証券（MUFG と） | au PAY | Ponta 隣接 | （au 保険） | au マーケット | 低い（自社 VASP なし） | （暗号資産実体なし） |
 
@@ -177,7 +174,7 @@ translated_at: 2026-06-26T08:27:56.305Z
 4. **Laser Digital Japan**（野村 HD） — 機関投資家のみ、深いブローカレッジ ＋ 信託銀行の隣接性
 5. **GMO コイン**（GMO フィナンシャル HD ／ GMO インターネット） — 銀行 ＋ ブローカレッジ ＋ PSP を持つインターネット金融の親会社
 6. **Coincheck**（マネックスグループ ／ Coincheck Group N.V.） — 証券クロスセル ＋ グローバル資本サーフェス
-7. **Crypto Garage**（大和 SG ＋ DG ＋ 東京短資 ＋ 野村） — 機関投資家 ＋ JPX 隣接の実験的サーフェス
+7. **Crypto Garage**（デジタルガレージ＋東京短資 JV、野村の取締役 link） — 機関向け wholesale / technology surface
 8. **PayPay 関連（Binance Japan 経由）**（ソフトバンク／ PayPay FG） — 少数ポジション（約 40%）、間接的な隣接性
 9. **DMM Bitcoin**（DMM HD、2024 以前） — 非金融の親会社のバックストップの役割を実証（現在はワインドダウン済み）
 10. **bitFlyer**（独立系） — FG エコシステム・サービスなし。ブランド ＋ JVCEA ネットワークのポジションのみ
@@ -202,8 +199,8 @@ translated_at: 2026-06-26T08:27:56.305Z
 
 このマトリクスの VASP の円資金調達コストのランキングは、グループ内の銀行の存在と親 FG のクレジット・プロファイルに従う：
 
-- **最も低い資金調達コスト**：SBI VC トレード（グループ内に SBI 新生）、Rakuten ウォレット（グループ内に楽天銀行）、GMO コイン（グループ内に GMO あおぞらネット）、Crypto Garage（グループ内に大和ネクスト銀行） — いずれも直接のグループ内銀行レールを持ち、親 FG のクレジット格付けが安価な運営資本を支える
-- **中程度の資金調達コスト**：Coincheck（マネックスグループ、グループ内銀行はないが資本市場アクセスを持つ上場親会社）、Mercoin（メルカリ HD、メルペイの資金移動業が円側をカバーするが実際の銀行はない）
+- **最も低い資金調達コスト**：SBI VC トレード（グループ内に SBI 新生）、Rakuten ウォレット（グループ内に楽天銀行）、GMO コイン（グループ内に GMO あおぞらネット）は、開示された直接のグループ内銀行レールと上場親会社の支援を持つ
+- **中程度／外部資料で確認できる資金 context**：Coincheck（マネックスグループ、グループ内銀行はないが資本市場アクセスを持つ上場親会社）、Mercoin（メルカリ HD、メルペイの資金移動業が円側をカバーするが実際の銀行はない）、Crypto Garage（デジタルガレージ＋東京短資 JV、大和のグループ内銀行レールの開示なし）
 - **より高い資金調達コスト**：bitFlyer（独立系、上場親会社なし）、DMM Bitcoin（引き継ぎ前。DMM HD は非公開で、公的な資本市場アクセスなし）、Laser Digital Japan（機関投資家のみ、野村 HD は強いがその実体に注力した直接のグループ内銀行なし）
 
 資金調達コストの次元が重要なのは、暗号資産取引所の運営が、板の流動性、顧客の出金バッファ、運用上の円ポジションの資金を賄うために**相当な運転資本**を必要とするからである。安価なグループ内資金を持つ VASP は、外部の銀行ラインや無担保のペーパーの利用を強いられる独立系 VASP よりも、深い板とタイトなスプレッドを運営できる。銀行クレジット・ラインの詳細については [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]] を参照。
@@ -222,7 +219,7 @@ Coincheck の NEM 2018-01  インシデント（[[exchanges/coincheck-nem-hack-d
 - **DMM Bitcoin のワインドダウン（2024）→ SBI VC トレードへの引き継ぎ** — Lazarus 後の SBI VC トレードへの顧客移行は、日本の VASP の歴史において特異な事象である。完了後、DMM HD の行は事実上ゼロになり、移行したユーザー基盤は SBI HD の行へシフトする。マトリクスは、行を削除するのではなく、ワインドダウンの注記とともに 2024  以前の状態を記録する。なぜなら、FG 隣接性の歴史的な教訓（非金融の親会社のバックストップ）が、最も多く引用される先例であり続けるからである。
 - **PayPay の Binance Japan における少数ポジション** — PayPay FG は Binance Japan（取得した SEBC のライセンス・ビークル）の約 40% を保有しているが、Binance Japan は PayPay FG の商品としてではなく、Binance のグローバル・ブランドの下で運営している。マトリクスはこれを **なし** ではなく **中（間接的）** の隣接性として記載する。なぜなら、このエクイティのリンクが、ゼロから構築する設備投資なしに、日本の暗号資産に関する PayPay FG のオプショナリティを与えるからである。
 - **非銀行の親 FG としてのメルカリ HD** — メルカリは銀行を保有しないが、メルペイの資金移動業ライセンスが [[payments/funds-transfer-vs-prepaid-boundary|資金移動 regulatory route]] を通じて事実上、円の入出金機能を提供する。マトリクスの目的上、これは「グループ内に銀行なし／グループ内にウォレット」として記録される。なぜなら、規制上の実体が銀行法の銀行とは根本的に異なるからである。
-- **Laser Digital Japan ／ Crypto Garage が暗号資産交換業ではなく金商法第 2  種を保有していること** — これらの機関投資家／デリバティブの実体は、消費者向け現物の暗号資産交換業のルートではなく、[[exchanges/jp-vasp-derivative-license-system|FIEA Type 2 derivative]] のルートの下でライセンスを受けている。マトリクスがこれらを含めるのは、親 FG（野村、大和）が明白に暗号資産にアクティブであり、運用上の FG 隣接性のメカニクスが同じだからである — ただし、規制上のライセンス・スタックは異なる。
+- **Laser Digital Japan / Crypto Garage の規制ルート** — Laser Digital Japan は JVCEA 第二種会員で、グループ向け operational services を提供すると説明している。この会員ラベルは第二種金融商品取引業登録ではない。Crypto Garage は FSA 登録暗号資産交換業者（関東 第00029号）である。本マトリクスは両者を機関向け crypto entity として含めるが、架空の共通 FIEA Type II license にまとめず、異なる公開規制ルートを記録する。^[Sources: https://www.laserdigital.com/japan/en/information/about-laser-digital-japan; https://jvcea.or.jp/information/admission-info/20250919-001/; https://cryptogarage.co.jp/en/about/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 - **au FG の反事実** — KDDI は日本で最も深い非銀行 FG の決済／銀行／ブローカレッジのスタックの一つを構築したが、暗号資産取引所に参入していない。マトリクスは「VASP の実体が付随しないときに FG 隣接性がどう見えるか」の参照として空の行を保持しており、これは欠けている暗号資産ポジションのコストをベンチマークするのに有用である。
 - **bitFlyer の意図的な独立性** — bitFlyer は複数の買収協議（最近では実現しなかったみずほ FG または SBI FG への売却をめぐる 2024-2025  の憶測）を通じて独立を維持することを選んだ。マトリクスはこれを **低い隣接性** として記録するが、この事業者が親会社のインフラではなくブランド力と JVCEA ネットワークのポジションで補っていることを指摘する。
 
