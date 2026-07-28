@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T02:06:40+09:00",
+  "generated_at": "2026-07-29T02:47:00+09:00",
   "counts": {
-    "markdown_files": 1594,
-    "public_markdown_pages": 1593,
+    "markdown_files": 1595,
+    "public_markdown_pages": 1594,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10808731,
-    "word_like_tokens": 1738889,
+    "nonspace_utf8_chars": 10827693,
+    "word_like_tokens": 1742501,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220)",
+        "2026-07-29 - Table-level provenance proximity calibration (#219)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Repeated factual-consistency calibration (#218)"
+        "2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 167292,
-      "word_like_tokens": 30431,
+      "nonspace_chars": 177137,
+      "word_like_tokens": 32327,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15307,
-      "word_like_tokens": 2682,
+      "nonspace_chars": 16028,
+      "word_like_tokens": 2817,
       "last_modified": "2026-07-29"
     },
     {
@@ -85999,8 +85999,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4557,
-      "word_like_tokens": 906,
+      "nonspace_chars": 4891,
+      "word_like_tokens": 967,
       "last_modified": "2026-07-29"
     },
     {
@@ -89282,6 +89282,39 @@
       "entity_edges": [],
       "nonspace_chars": 6791,
       "word_like_tokens": 1264,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-5.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-5.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-5.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-5.md",
+      "title": "表単位の出典監査校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "表単位の出典監査校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 8062,
+      "word_like_tokens": 1520,
       "last_modified": "2026-07-29"
     },
     {
