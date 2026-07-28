@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1596 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1597 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1086万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,855,944） |
+| Text volume | 約1088万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,883,902） |
 | Word-like tokens | 約175万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -53,6 +53,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 22. provenance table audit は、各行の marker / direct public link と、同一 section 内の明示的な table lead / caption / footer / source block を区別します。generic な近接 marker や遠い `## Sources` は table 全体を cover せず、完全に未出典の table は 1 件の table-level warning、source が混在する table は未 cover 行だけを warning とします。
 23. `low_marker_density` の content review では、warning を消すためだけに marker を挿入せず、主張を official primary source で再確認します。registry count、membership、license、法人・親会社、取引条件、推定値を区別し、一次資料が開示しない数字・因果は確定事実として保持しません。
 24. 翻訳保護では `^[...]` provenance marker 全体を URL・日付・数字より先に原子的に mask します。marker 内 URL を二重 placeholder 化せず、single-pass `unmask` の完全 round trip を single / multiple URL fixtures で固定します。
+25. 事実校正で `canonical_anchor`、別 domain の duplicate route、または反復 KPI が同じ主体を扱う場合は、対象ページだけで完了とせず factual-consistency audit を再実行します。公式一次資料で確定した設立日、所有比率、商号、status を関連 route と ja / en mirror へ同期し、cross-path conflict を残しません。
 
 ### 検証
 
@@ -73,11 +74,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1596 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1597 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.86M chars | ~10,855,944 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.88M chars | ~10,883,902 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.75M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -118,6 +119,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 22. The provenance table audit distinguishes row-level markers / direct public links from explicit table leads, captions, footers, and source blocks in the same section. A generic nearby marker or distant `## Sources` does not cover a table; a wholly unsupported table emits one table-level warning, while a mixed-source table warns only on uncovered rows.
 23. A `low_marker_density` content review does not insert a marker merely to silence a warning; it rechecks the claim against official primary sources. Distinguish registry counts, membership, licences, legal entities and parents, transaction terms, and estimates, and do not retain figures or causal claims that primary sources do not disclose as established facts.
 24. Translation protection atomically masks the complete `^[...]` provenance marker before URLs, dates, and numbers. Single- and multi-URL fixtures prove a lossless one-pass `unmask` without nested placeholders inside a marker.
+25. When a factual correction affects a `canonical_anchor`, a duplicate route in another domain, or a repeated KPI for the same entity, rerun the factual-consistency audit instead of stopping at the target page. Synchronize primary-source-confirmed founding dates, ownership ratios, trade names, and status across related routes and ja/en mirrors, leaving no cross-path conflict.
 
 ### Validation
 
@@ -138,11 +140,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1596 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1597 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1086万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,855,944） |
+| Text volume | 约1088万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,883,902） |
 | Word-like tokens | 约175万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -183,6 +185,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 22. provenance table audit 会区分逐行 marker / direct public link 与同一 section 内明确的 table lead、caption、footer 和 source block。generic 的相邻 marker 或远处 `## Sources` 不能覆盖整张表；完全无局部来源的表只输出 1 条 table-level warning，来源混合的表只警告未覆盖行。
 23. `low_marker_density` content review 不能只为消除 warning 而插入 marker，必须用官方一手资料重新核对主张。要区分 registry count、membership、license、法人及母公司、交易条件与推计值；一手资料未披露的数字或因果关系，不得保留为确定事实。
 24. 翻译保护会在 URL、日期与数字之前，原子化 mask 完整的 `^[...]` provenance marker。single / multiple URL fixtures 必须证明 marker 内不会产生 nested placeholders，并能用 single-pass `unmask` 完整还原。
+25. 当事实校正影响 `canonical_anchor`、其他 domain 的 duplicate route，或同一主体的重复 KPI 时，不能只修改目标页；必须重新执行 factual-consistency audit。把官方一手资料确认的设立日、持股比例、商号与 status 同步到相关 route 和 ja / en mirrors，不保留 cross-path conflict。
 
 ### 验证
 

@@ -1,27 +1,28 @@
 ---
 source: foreign-financial-institutions/foreign-bank-branches-japan-index
-source_hash: 7e247fa13ae634db
+source_hash: 55190d2528aebc5a
 lang: ja
-model: local-ja-business-term-glossary
+model: canonical-ja-source-sync
 status: machine
 fidelity: ok
-title: "在日外国銀行支店 registry index"
-translated_at: 2026-06-26T08:32:15.224Z
+title: "Foreign bank branches in Japan registry index"
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
-# 在日外国銀行支店 registry index
+# Foreign bank branches in Japan registry index
 
-## Wiki 経路
 
-この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。ピア／対比の文脈としては [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] と、より広範なシステム／規制の境界としては [[banking/INDEX|banking index]] と併せて読むこと。
+## Wiki route
 
-## 概要
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-この registry index は、**2026-05-13** 時点で FSA の銀行免許ワークブックに掲載されているすべての **57 外国銀行支店** を捕捉する。これは Batch G のコントロールサーフェスである: 残っていた台湾、パキスタン、UBAF の registry-only 行を 2026-05-22 P4  でクローズした後、すべての 57 行が standalone または umbrella の wiki 経路を持つ。
+## Overview
 
-この表からデフォルトで long-tail の外国銀行支店ページを 1 つずつ作成しないこと。重要な日本コリドー銀行、市場インフラ隣接銀行、または戦略的に重要なクロスボーダー銀行コリドーについては standalone ページを用いること。
+The FSA bank-license workbook's `外国銀行支店` worksheet lists **57 foreign-bank branch rows** as of **2026-05-13**. Separately, FinWiki's current corpus maps each of those 57 rows to a standalone or umbrella wiki route; that route count is an internal coverage result, not an FSA statement. ^[FSA bank-license workbook, worksheet `外国銀行支店`, as of 2026-05-13: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx]
 
-## カバレッジ・サマリー
+Do not create long-tail foreign-bank branch pages one by one from this table by default. Use standalone pages for material Japan corridor banks, market-infrastructure-adjacent banks, or strategically important cross-border banking corridors.
+
+## Coverage summary
 
 | Metric | Count |
 |---|---:|
@@ -30,7 +31,7 @@ translated_at: 2026-06-26T08:32:15.224Z
 | Registry-only rows | 0 |
 | Source as-of date | 2026-05-13 |
 
-## 管轄区域サマリー
+## Jurisdiction summary
 
 | Jurisdiction | FSA rows |
 |---|---:|
@@ -58,7 +59,7 @@ translated_at: 2026-06-26T08:32:15.224Z
 | 香港特別行政区 | 1 |
 | ルクセンブルク大公国 | 1 |
 
-## レジストリ行
+## Registry rows
 
 | Jurisdiction | FSA listed name | Corporate no. | Representative branch address | Wiki route | Coverage |
 |---|---|---:|---|---|---|
@@ -77,7 +78,7 @@ translated_at: 2026-06-26T08:32:15.224Z
 | オーストラリア連邦 | オーストラリア・コモンウェルス銀行 | 6700150004773 | 103-0023 東京都中央区日本橋室町２－３－１ | [[foreign-financial-institutions/commonwealth-bank-japan]] | standalone |
 | オーストラリア連邦 | オーストラリア・ニュージーランド銀行 | 7700150000375 | 100-6333 東京都千代田区丸の内２－４－１ | [[securities-firms/anz-bank-japan]] | standalone |
 | オーストラリア連邦 | ナショナルオーストラリア銀行 | 8700150003781 | 103-0022 東京都中央区日本橋室町２－２－１ | [[foreign-financial-institutions/national-australia-bank-japan]] | standalone |
-| オランダ王国 | アイエヌジーバンクエヌ・ヴイ | 6700150001408 | 100-0005 東京都千代田区丸の内２－１－１ | [[foreign-financial-institutions/ing-bank-japan]] | standalone |
+| オランダ王国 | アイエヌジーバンク　エヌ・ヴイ | 6700150001408 | 100-0005 東京都千代田区丸の内２－１－１ | [[foreign-financial-institutions/ing-bank-japan]] | standalone |
 | カナダ | カナダロイヤル銀行 | 2700150005412 | 107-0052 東京都港区赤坂１－８－１赤坂インターシティAIR | [[foreign-financial-institutions/rbc-japan]] | standalone |
 | シンガポール共和国 | オーバーシー・チャイニーズ銀行 | 3700150000354 | 100-6105 東京都千代田区永田町２－１１－１ | [[foreign-financial-institutions/ocbc-bank-japan]] | standalone |
 | シンガポール共和国 | ＤＢＳ銀行 | 1700150000819 | 100-0004 東京都千代田区大手町１－５－１ | [[foreign-financial-institutions/dbs-bank-japan]] | standalone |
@@ -120,24 +121,24 @@ translated_at: 2026-06-26T08:32:15.224Z
 | 香港特別行政区 | 香港上海銀行 | 3700150003670 | 103-0027 東京都中央区日本橋３－１１－１ | [[foreign-financial-institutions/hsbc-japan]] | standalone |
 | ルクセンブルク大公国 | クリアストリーム・バンキング・エス・エー | 7700150103426 | 100-0005 東京都千代田区丸の内１－６－５ | [[foreign-financial-institutions/clearstream-banking-japan]] | standalone |
 
-## Standalone ページ・ポリシー
+## Standalone-page policy
 
-支店が次のいずれかを持つ場合、standalone ページが適切である:
+Standalone pages are appropriate when a branch has one of the following:
 
-- 高い日本市場のマテリアリティ、または G-SIB / 大手銀行としての関連性;
-- 韓国、台湾、中国本土、または ASEAN の法人銀行業務など、明確な日本コリドーの重要性;
-- 市場インフラ、カストディ、決済、または証券サービスとしての関連性;
-- FSA 行を超えた分析を支える公的な戦略的開示。
+- high Japan-market materiality or G-SIB / large-bank relevance;
+- clear Japan corridor significance, such as Korea, Taiwan, mainland China, or ASEAN corporate banking;
+- market-infrastructure, custody, settlement, or securities-services relevance;
+- public strategic disclosure that supports analysis beyond the FSA row.
 
-2026-05-22 P2  プロモーションは、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream]]、[[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]]、[[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]]、[[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]]、[[foreign-financial-institutions/bank-of-india-japan|Bank of India]]、[[securities-firms/anz-bank-japan|ANZ]] を standalone 経路へ移した。これらが ICSD、collateral、中国、ASEAN、インド、オーストラリア・ニュージーランドのコリドー関連性を持つためである。
+The 2026-05-22 P2 promotion moved [[foreign-financial-institutions/euroclear-bank-japan|Euroclear]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream]], [[foreign-financial-institutions/bank-of-communications-japan|Bank of Communications]], [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank]], [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India]], [[foreign-financial-institutions/bank-of-india-japan|Bank of India]], and [[securities-firms/anz-bank-japan|ANZ]] to standalone routes because they carry ICSD, collateral, China, ASEAN, India, and Australia-New Zealand corridor relevance.
 
-2026-05-22 P3  プロモーションは、[[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank]]、[[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank]]、[[foreign-financial-institutions/bank-negara-indonesia-japan|Bank Negara Indonesia]]、[[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank]]、[[foreign-financial-institutions/metrobank-japan|Metrobank]]、[[foreign-financial-institutions/banco-do-brasil-japan|Banco do Brasil]]、[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank]]、[[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank]] を standalone 経路へ移した。これらが生のレジストリ存在を超えた、オーストラリア、インドネシア、フィリピン、ブラジル、台湾のコリドー関連性を持つためである。
+The 2026-05-22 P3 promotion moved [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank]], [[foreign-financial-institutions/bank-negara-indonesia-japan|Bank Negara Indonesia]], [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank]], [[foreign-financial-institutions/metrobank-japan|Metrobank]], [[foreign-financial-institutions/banco-do-brasil-japan|Banco do Brasil]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank]], and [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank]] to standalone routes because they carry Australia, Indonesia, Philippines, Brazil, and Taiwan corridor relevance beyond raw registry presence.
 
-2026-05-22 P4  クローズは、[[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank]]、[[foreign-financial-institutions/taishin-bank-japan|Taishin Bank]]、[[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank]]、[[foreign-financial-institutions/taiwan-cooperative-bank-japan|Taiwan Cooperative Bank]]、[[foreign-financial-institutions/national-bank-of-pakistan-japan|National Bank of Pakistan]]、[[foreign-financial-institutions/ubaf-japan|UBAF]] を standalone 経路へ移した。これにより、各ページを簡潔かつ支店 / コリドー中心に保ちつつ、以前の 6 registry-only 行をクローズする。
+The 2026-05-22 P4 closure moved [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank]], [[foreign-financial-institutions/taishin-bank-japan|Taishin Bank]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank]], [[foreign-financial-institutions/taiwan-cooperative-bank-japan|Taiwan Cooperative Bank]], [[foreign-financial-institutions/national-bank-of-pakistan-japan|National Bank of Pakistan]], and [[foreign-financial-institutions/ubaf-japan|UBAF]] to standalone routes. This closes the previous 6 registry-only rows while keeping each page concise and branch / corridor focused.
 
-このパスの時点で registry-only 行は残っていない。今後の変更は、生のページ数の完遂ではなく、FSA リストの変更または新たな戦略的リサーチ・クエスチョンに従うべきである。
+No registry-only rows remain as of this pass. Future changes should follow FSA list changes or a new strategic research question, not raw page-count completion.
 
-## 関連
+## Related
 
 - [[foreign-financial-institutions/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
@@ -160,6 +161,6 @@ translated_at: 2026-06-26T08:32:15.224Z
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 
-## 出典
+## Sources
 
 - FSA: bank license list, foreign bank branches, as of 2026-05-13.

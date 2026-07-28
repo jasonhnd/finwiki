@@ -1,11 +1,12 @@
 ---
 source: foreign-financial-institutions/foreign-bank-branches-japan-index
-source_hash: 7e247fa13ae634db
+source_hash: 55190d2528aebc5a
 lang: en
+model: canonical-en-source-sync
 status: machine
 fidelity: ok
 title: "Foreign bank branches in Japan registry index"
-translated_at: 2026-06-15T03:48:21.925Z
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
 # Foreign bank branches in Japan registry index
@@ -17,7 +18,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## Overview
 
-This registry index captures all **57 foreign bank branches** listed in the FSA bank-license workbook as of **2026-05-13**. It is the control surface for Batch G: all 57 rows now have standalone or umbrella wiki routes after the 2026-05-22 P4 closure of the remaining Taiwan, Pakistan, and UBAF registry-only rows.
+The FSA bank-license workbook's `外国銀行支店` worksheet lists **57 foreign-bank branch rows** as of **2026-05-13**. Separately, FinWiki's current corpus maps each of those 57 rows to a standalone or umbrella wiki route; that route count is an internal coverage result, not an FSA statement. ^[FSA bank-license workbook, worksheet `外国銀行支店`, as of 2026-05-13: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx]
 
 Do not create long-tail foreign-bank branch pages one by one from this table by default. Use standalone pages for material Japan corridor banks, market-infrastructure-adjacent banks, or strategically important cross-border banking corridors.
 

@@ -1,32 +1,33 @@
 ---
 source: insurance/sony-life-group-life-operating-model
-source_hash: d65b5fb09583c5a3
+source_hash: 4d22650f55c288f1
 lang: ja
+model: canonical-ja-source-sync
 status: machine
 fidelity: ok
 title: "Sony Life group-life and Lifeplanner operating model"
-translated_at: 2026-07-28T16:39:58Z
+translated_at: 2026-07-28T19:25:32.800Z
 ---
 
 # Sony Life group-life and Lifeplanner operating model
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[insurance/INDEX|insurance index]] の下に位置し、[[life-insurers/sony-life|Sony Life]] のチャネル／オペレーティングモデルの深掘りである。代理店対バンカシュアランス対直販のマクロ的な枠組みについては [[insurance/life-insurance-channel-mix|life insurance channel mix]] と、従来の販売代理店との対比については [[insurance/japan-life-insurance-big-four|Japan life big four]] と、デジタル直販との対比については [[insurance/internet-life-insurance-business-model|internet life 事業モデル]] と、法的形態のレンズ（Sony Life は [[megabanks/sony-fg|Sony Financial Group]] の下の株式会社）については [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] と、ライフプランナー専用チャネルに適用される規制資本の枠組みについては [[insurance/economic-value-based-solvency|economic-value ソルベンシー]] と併せて読むこと。
+This entry sits under [[insurance/INDEX|insurance index]] and is the channel / operating-model deep dive for [[life-insurers/sony-life|Sony Life]]. Read it together with [[insurance/life-insurance-channel-mix|life insurance channel mix]] for the macro framing of agent vs bancassurance vs direct, with [[insurance/japan-life-insurance-big-four|Japan life big four]] for the traditional sales-agency contrast, with [[insurance/internet-life-insurance-business-model|internet life business model]] for the digital-direct contrast, with [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the legal-form lens (Sony Life is a stock company under [[megabanks/sony-fg|Sony Financial Group]]), and with [[insurance/economic-value-based-solvency|economic-value solvency]] for the regulatory-capital frame applied to a Lifeplanner-only channel.
 
-Sony FG の非公開化、再上場、パーシャルスピンオフの文脈は [[megabanks/sony-fg|Sony FG]] と [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]] で扱われている。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe]] にある。
+The Sony FG take-private, relisting, and partial-spin-off context is captured in [[megabanks/sony-fg|Sony FG]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]. The investable-universe context is in [[finance/japan-listed-financial-groups-investable-universe]].
 
 ## TL;DR
 
-Sony Life は、その販売がほぼ全面的に専属のライフプランナー・ファイナンシャルアドバイザーと、企業の従業員に雇用主提供の保障を販売する「集団保険」（集団保険）チャネルの上に構築された株式会社の生命保険会社を運営している。これは、デフォルトのチャネルが専属の女性販売員部隊（生保レディ）とバンカシュアランスおよび法人代理店の組み合わせである [[insurance/japan-life-insurance-big-four|big-four mutual life insurers]] とも、デフォルトのチャネルが人的なコンサルティング層を持たないウェブサイトである [[insurance/internet-life-insurance-business-model|internet life models]] とも、鋭く対照的である。
+Sony Life operates a stock-company life insurer whose distribution is built almost entirely on tied Lifeplanner financial advisors plus a "group life" (集団保険) channel that sells employer-sponsored coverage to corporate workforces. This contrasts sharply with the [[insurance/japan-life-insurance-big-four|big-four mutual life insurers]] whose default channel is a tied female sales-representative force (生保レディ) combined with bancassurance and corporate agencies, and with [[insurance/internet-life-insurance-business-model|internet life models]] whose default channel is a website with no human consultative layer.
 
-ライフプランナー・チャネルは、高生産性、コンサルティング型、完全に専属の販売部隊として位置づけられている：人員数では大手四社の販売員ネットワークより小さいが、典型的にはアドバイザー一人当たりの平均新契約 APE が高く、13か月／25か月の継続率が高い。集団保険チャネルは、低い獲得コストの、雇用主が支払う保有契約保険料の基盤を加え、チャネルのボラティリティを平準化する。
+The Lifeplanner channel is positioned as a high-productivity, consultative, fully-tied salesforce: smaller in headcount than a big-four sales-rep network, but typically higher in average new-business APE per advisor and higher in 13-month / 25-month persistency. The group-life channel adds a low-acquisition-cost, employer-paid base of in-force premium that smooths channel volatility.
 
-ガバナンスは、Sony Life を直接 100% 保有する [[megabanks/sony-fg|Sony Financial Group]] の下にある。Sony FG は 2025-09-29 に東証プライム市場へ再上場した。Sony Group が 83.60% の Sony FG 株式を交付したパーシャルスピンオフは 2025-10-01 に効力を生じ、Sony Group は Sony FG の親会社ではなくなって少数持分を残した。したがって Sony Life は、上場保険持株会社の完全子会社として、Sony FG レベルの直接的な公開株式市場の規律を受ける。
+Governance sits under [[megabanks/sony-fg|Sony Financial Group]], which directly owns 100% of Sony Life. Sony FG relisted on the TSE Prime Market on 2025-09-29. After Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01, Sony Group ceased to be Sony FG's parent and retained a minority interest. Sony Life therefore remains a wholly owned operating subsidiary of a listed insurance holding company, with direct public-equity discipline at the Sony FG level. ^[Sony FG group-company ownership: https://www.sonyfg.co.jp/en/company/about_group.html; listing: https://www.sonyfg.co.jp/en/250929_01.html; parent-company change and 83.60% distribution: https://www.sonyfg.co.jp/en/news/article/250929_02.pdf]
 
 ### Lifeplanner channel (tied, consultative, individual life)
 
-| 項目 | Lifeplanner channel | Big-four sales-rep channel | Internet life |
+| Field | Lifeplanner channel | Big-four sales-rep channel | Internet life |
 |---|---|---|---|
 | Employment | Mostly contracted financial advisors, performance-driven compensation | Mostly employed sales representatives, base + commission | Salaried digital marketing and call-center staff |
 | Recruitment pool | Mid-career career-changers, often from finance, IT, or sales backgrounds | New graduates and re-entry workers, large entry cohorts | Engineering, marketing, actuarial |
@@ -35,78 +36,78 @@ Sony Life は、その販売がほぼ全面的に専属のライフプランナ�
 | Product mix | Term, whole life, foreign-currency, variable, medical, annuity sold consultatively | Whole life, medical, savings, group attached to employer relations | Term-first, simple medical, narrow product menu |
 | Compliance overhead | Heavy per-policy needs-analysis and suitability documentation | Standardized scripts, branch oversight, conduct training | Online disclosure, algorithmic suitability flagging |
 
-ライフプランナー・チャネルは Sony Life のアイデンティティの歴史的中核である。その経済的論理は、ニーズベースのプランをマスアフルエントおよび小規模事業者の世帯に販売する、より小規模で高生産性のアドバイザー部隊が、一人当たりの研修・報酬コストが高くても、より大規模だが低生産性の部隊よりも優れたライフタイムバリューを提供できる、というものである。
+The Lifeplanner channel is the historical core of the Sony Life identity. The economic logic is that a smaller force of higher-productivity advisors selling needs-based plans to mass-affluent and small-business households can deliver better lifetime value than a larger but lower-productivity force, even after higher per-head training and compensation costs.
 
 ### Group life (集団保険) channel
 
-日本の集団保険は典型的に次をカバーする：
+Group life in Japan typically covers:
 
-- 雇用主または労働組合のレベルでの団体定期保険（団体定期保険）、雇用主または従業員の保険料による；
-- 住宅ローンまたは消費者ローンの借り手に対する団体信用生命保険；
-- 団体年金／年金隣接の生命保険商品（DB／DC の退職ビークルと重複）；
-- 給与天引きの貯蓄プログラムに付帯する従業員貯蓄生命保険特約。
+- group term life (団体定期保険) on the employer or labor-union level, with employer or employee premium;
+- group credit life on borrowers of mortgages or consumer loans;
+- group annuity / pension-adjacent life products (overlap with DB / DC retirement vehicles);
+- employee-savings life riders attached to payroll-deducted savings programs.
 
-集団保険は次を提供する：
+Group life provides:
 
-- 低い単位獲得コスト — 一つの引受と契約交渉で多数の被保険者をカバーする；
-- 解約には人事の措置または雇用主の変更が必要であるため、相対的に低い失効リスク；
-- 個人のライフプランナー・チャネルの採用の循環性を分散させる保険料量；
-- 個人のライフプランナー紹介へクロスセルできる法人関係の資産。
+- low unit acquisition cost — one underwriting and contract negotiation covers many lives;
+- relatively low lapse risk because cancellation requires HR action or employer change;
+- premium volume that diversifies the individual-Lifeplanner channel's recruitment cyclicality;
+- a corporate-relationship asset that can cross-sell into individual Lifeplanner introductions.
 
-トレードオフは、契約当たりの集団保険のマージンが個人のライフプランナー販売より薄く、法人の買い手（人事／財務）が価格に敏感であることである。集団保険はそれ自体では新契約価値（VNB）の成長エンジンではないが、ライフプランナーの損益の上にある安定化要因である。
+The trade-off is that group-life margins per policy are thinner than individual Lifeplanner sales, and the corporate buyer (HR / treasury) is price-sensitive. Group life is not a growth engine for value of new business (VNB) on its own, but it is a stabilizer on top of the Lifeplanner P&L.
 
 ### What is explicitly not in the channel
 
-- 個人保険について大規模な [[insurance/insurance-agency-and-brokerage-japan|independent-agency or hoken-shop]] への依存はない — Sony Life のブランドの位置づけは専属のライフプランナーのコンサルティングであり、「我々は多数の代理店を通じて販売されている」というメッセージではない；
-- 大手四社と比較した大規模なバンカシュアランスの推進はない — Sony Life は提携銀行の販売を選択的に使用できるが、それはチャネルのアイデンティティではない；
-- Sony Life エンティティのレベルでのインターネット直販のリテールブランドはない — 親グループのデジタル直販生命保険子会社は別個のビークルであり、[[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]] の下に独自のライセンスを持つ。
+- No large-scale [[insurance/insurance-agency-and-brokerage-japan|independent-agency or hoken-shop]] reliance for individual life — Sony Life's brand positioning is the tied Lifeplanner consultation, not a "we are sold across many agencies" message;
+- No major bancassurance push relative to the big-four — Sony Life can use partner-bank distribution selectively, but it is not the channel identity;
+- No internet-direct retail brand at the Sony Life entity level — the parent group's digital-direct life subsidiaries are separate vehicles, with their own licensing under [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
 
-## パーシャルスピンオフ後の上場持株会社ガバナンス
+## Listed holding-company governance after the partial spin-off
 
-[[megabanks/sony-fg|Sony Financial Group]] は、Sony Life、Sony Assurance、Sony Bank の直上にある上場持株会社である。Sony FG の公式グループ会社ページでは Sony Life の持株比率を 100% としている。Sony Group Corporation はパーシャルスピンオフ後も少数持分とブランド／戦略上の関係を残すが、Sony FG の親会社ではない。三つのガバナンス上の含意がある：
+[[megabanks/sony-fg|Sony Financial Group]] is the listed holding company directly above Sony Life, Sony Assurance, and Sony Bank. Sony FG's official group-company page reports 100% ownership of Sony Life. Sony Group Corporation retains a minority interest and a brand / strategic relationship after the partial spin-off, but it is no longer Sony FG's parent. Three governance implications follow:
 
-1. **上場保険持株会社による直接所有**。[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]] のような相互会社とは異なり、Sony Life は Sony FG を通じて統治される株式会社の子会社である。資本配分、配当の上方還流、IT 投資、ブランド戦略は、この上場金融グループの境界内で決定される。
-2. **持株会社レベルの公開株式市場規律**。Sony FG は 2025-09-29 に東証プライム市場へ復帰した。したがって保険経済性、資本政策、開示、株価シグナルは Sony FG で直接公開市場の評価を受け、Sony Life 自体は非上場のままである。これは 2020-2025 年の Sony Group 完全子会社構造よりも、[[life-insurers/dai-ichi-life|Dai-ichi Life]] の上場持株会社構造に近い。
-3. **規制の境界は不変**。FSA は引き続き保険業法の下で Sony Life を認可・監督し、[[insurance/economic-value-based-solvency|economic-value ソルベンシー]] 制度と関連する指定保険グループの ICS 報告が適用される。[[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー obligations]] は再上場やパーシャルスピンオフによって変更されていない。
+1. **Direct listed-insurance-holding ownership**. Unlike [[life-insurers/nippon-life|Nippon Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], or [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual companies governed by policyholder representatives), Sony Life is a stock-company subsidiary governed through Sony FG. Capital allocation, dividend up-streaming, IT investment, and brand strategy are decided within that listed financial-group boundary.
+2. **Public-equity discipline at the holding-company level**. Sony FG returned to the TSE Prime Market on 2025-09-29. Its insurance economics, capital policy, disclosures, and share-price signals are therefore subject to direct public-market scrutiny at Sony FG, while Sony Life itself remains unlisted. This is closer to [[life-insurers/dai-ichi-life|Dai-ichi Life]]'s listed-holding structure than the 2020-2025 wholly owned Sony Group structure was.
+3. **Regulatory perimeter unchanged**. The FSA continues to license and supervise Sony Life under the Insurance Business Act, the [[insurance/economic-value-based-solvency|economic-value solvency]] regime applies, ICS reporting applies to the relevant designated insurance group, and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency obligations]] were not changed by the relisting or partial spin-off.
 
-この構造では、Sony Life は相互会社とは異なる株式会社型の資本配分モデルを持ち、公開市場の規律は Sony Life 単独の株価ではなく上場持株会社 Sony FG を通じて表れる。ESR 感応度と配当の上方還流能力を評価する際は、[[insurance/global-solvency-framework-comparison-matrix|global ソルベンシー framework comparison matrix]] と併せて読む。
+This structure gives Sony Life the stock-company capital-allocation model that mutual peers do not have, while public-market discipline is expressed through the listed Sony FG holding company rather than a standalone Sony Life share price. Both are read together with [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] when assessing ESR sensitivity and dividend-upstream capacity.
 
-## 非公開化、再上場、資本構造
+## Take-private, relisting, and capital architecture
 
-ソニーフィナンシャルホールディングスは、Sony Group Corporation が 2020 年に公開買付けとスクイーズアウトを完了して完全子会社化するまで上場していた。その後、Sony Financial Group は 2025-09-29 に再上場した。Sony Group は 2025-10-01 に効力が生じたパーシャルスピンオフで Sony FG 株式の 83.60% を交付し、Sony FG の親会社ではなくなった。現在の資本構造上の帰結は次のとおり：
+Sony Financial Holdings was listed until Sony Group Corporation completed a tender offer and squeeze-out in 2020, taking it private as a wholly owned subsidiary. Sony Financial Group then relisted on 2025-09-29. Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01 and ceased to be Sony FG's parent. ^[Sony FG listing and security code 8729: https://www.sonyfg.co.jp/en/news/article/250929_01.pdf; parent-company change effective 2025-10-01: https://www.sonyfg.co.jp/en/news/article/250929_02.pdf] The current capital-architecture consequences are:
 
-- Sony FG は再び独立した上場株式を持ち、投資家は金融グループの経済性を直接評価できる；
-- Sony Life の配当はまず直接の親会社 Sony FG に上方還流し、Sony FG の上場持株会社としての資本政策の下で管理される；
-- Sony FG はグループの資本配分と子会社資本を決定する際、公開株主を考慮する必要がある；
-- Sony Group の少数持分とブランド関係は、同社を Sony FG または Sony Life の現在の親会社にするものではない；
-- FSA の規制境界は不変で、Sony Life は保険業法上の日本の認可保険会社であり、ESR と ORSA 型のリスク・ソルベンシー自己評価が継続する。
+- Sony FG once again has separately listed equity, so investors can assess its financial-group economics directly;
+- Sony Life dividends flow first to its direct parent Sony FG and are governed within Sony FG's listed holding-company capital policy;
+- Sony FG must account for its public shareholders when making group capital-allocation and subsidiary-capital decisions;
+- Sony Group's retained minority interest and brand relationship do not make it the current parent of Sony FG or Sony Life;
+- the FSA regulatory perimeter is unchanged — Sony Life remains a Japan-licensed insurer under the Insurance Business Act, ESR applies, and ORSA-style risk-and-solvency self-assessment continues.
 
-上場ピア [[life-insurers/dai-ichi-life|Dai-ichi Life]] との資本構造上の違いは、上場持株会社の市場規律の有無ではなく、主として事業構成とチャネル設計にある。相互会社のピア（[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]]）との違いは引き続き法的形態にあり、相互会社が ALM を相互会社手続きに基づく契約者配当に変換する一方、Sony Life は ALM を Sony FG を通じて統治されるグループ内資本フローに変換する。
+The capital-architecture difference versus listed peer [[life-insurers/dai-ichi-life|Dai-ichi Life]] is now principally business mix and channel design, not the absence of listed-holding-company discipline. The difference versus mutual peers ([[life-insurers/nippon-life|Nippon Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], [[life-insurers/sumitomo-life|Sumitomo Life]]) remains legal form: mutuals translate ALM into policyholder dividends governed by mutual procedures, while Sony Life translates ALM into intra-group capital flows governed through Sony FG.
 
 ## Persistency and FA productivity
 
-ライフプランナー専用の保険会社にとって、二つの指標がオペレーティングのストーリーを支配する：
+For Lifeplanner-only insurers, two metrics dominate the operating story:
 
-| 指標 | Why it matters | Read alongside |
+| Metric | Why it matters | Read alongside |
 |---|---|---|
 | 13-month persistency | Captures policy survival through the first contract year; weak persistency means commissions were paid against business that did not stick | Channel-mix comparison in [[insurance/life-insurance-channel-mix|life insurance channel mix]] |
 | 25-month persistency | Captures survival past the typical "second-year cliff" when introductory pricing or commission structures end | Compare to big-four [[insurance/japan-life-insurance-big-four|disclosure]] |
 | New-business APE per Lifeplanner | Productivity per producer; the headline of the consultative-channel argument | [[insurance/internet-life-insurance-business-model|Internet model]] productivity differs structurally |
 | Lifeplanner headcount and recruit churn | Smaller force amplifies any cohort-recruitment shock | Compare to the much larger big-four sales-rep forces |
-| VNB margin | Value of new business per APE — the consultative-channel claim must convert into VNB | [[insurance/economic-value-based-solvency|Economic-value ソルベンシー]] anchors why VNB / ESR matter |
+| VNB margin | Value of new business per APE — the consultative-channel claim must convert into VNB | [[insurance/economic-value-based-solvency|Economic-value solvency]] anchors why VNB / ESR matter |
 | Surrender-and-lapse rate by product line | Foreign-currency and variable products typically have higher lapse sensitivity to FX and equity moves | [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] |
 
-ライフプランナー専用チャネルは、次の理由から、一般化された販売員チャネルよりも高い継続率をもっともらしく維持できる：
+A Lifeplanner-only channel can plausibly sustain higher persistency than a generalized sales-rep channel because:
 
-- アドバイザーは契約を有効に保つインセンティブを持つ（更新報酬、複数契約の世帯関係）；
-- 買い手は通常、複数回の面談によるニーズ分析を経ており、買い手の後悔による解約を減らす；
-- アドバイザー・チャネルが唯一の関係層であるため、顧客は契約を競合する代理店を通じて容易にルーティングできない。
+- the advisor is incentivized to keep the policy in force (renewal compensation, multi-policy household relationship);
+- the buyer typically went through a multi-meeting needs-analysis, reducing buyer's-remorse cancellation;
+- the advisor channel is the only relationship layer, so the customer cannot easily route the policy through a competing agency.
 
-しかしこのモデルには構造的な脆弱性がある：
+But the model has structural fragilities:
 
-- より小規模な部隊は業務をより少数のプロデューサーに集中させる — トッププロデューサーの離職は現実の収益ショックである；
-- 中途のアドバイザーの採用は、同じ人口層を巡って銀行、証券、IFA プラットフォーム、テック企業と競争しなければならない；
-- 外貨建て商品のミックス（JGB カーブの外側で利回りを求めるマスアフルエント世帯に販売される）は、相互会社のピアのバランスシートが必ずしも同程度には抱えていない ESR 感応度を生み出す。
+- the smaller force concentrates business in fewer producers — top-producer attrition is a real revenue shock;
+- recruitment of mid-career advisors must compete with banks, securities, IFA platforms, and tech firms for the same demographic;
+- the foreign-currency product mix (sold to mass-affluent households seeking yield outside the JGB curve) creates ESR sensitivity that mutual-peer balance sheets do not always carry to the same degree.
 
 ## Comparison to big-four sales-agency model
 
@@ -118,50 +119,50 @@ Sony Life は、その販売がほぼ全面的に専属のライフプランナ�
 | Per-policy economics | Higher APE per producer, higher cost per producer | Lower APE per producer, lower cost per producer |
 | Persistency claim | Higher 13M / 25M typically disclosed | Mixed; depends on cohort and channel |
 | Brand positioning | Consultative, plan-based, mass-affluent | Relationship-based, household, mass-market |
-| Governance | 上場 Sony FG の完全子会社である事業会社 | Mutual policyholder-representative governance (Nippon, Meiji Yasuda, Sumitomo) or listed insurance holding (Dai-ichi) |
+| Governance | Wholly owned operating subsidiary of listed Sony FG | Mutual policyholder-representative governance (Nippon, Meiji Yasuda, Sumitomo) or listed insurance holding (Dai-ichi) |
 
-この比較は「どちらのモデルが優れているか」ではなく — 「各保険会社がどのチャネル・アーキテクチャを最適化しているか」である。Sony Life は、定義された顧客セグメントにおける生産性と継続率のために最適化する。大手四社は、規模、広がり、長期在任の関係のために最適化する。両者は同じ [[insurance/economic-value-based-solvency|economic-value ソルベンシー]] の制度を満たさなければならない。
+The comparison is not "which model is better" — it is "which channel architecture each insurer is optimizing." Sony Life optimizes for productivity and persistency in a defined customer segment. Big-four optimize for scale, breadth, and long-tenure relationship. Both must satisfy the same [[insurance/economic-value-based-solvency|economic-value solvency]] regime.
 
 ## Group-life product mechanics
 
-日本の集団保険は、独自のアクチュアリー上および契約上の特性を持つ別個の商品ファミリーである：
+Group life in Japan is a distinct product family with its own actuarial and contractual properties:
 
-| Product | Mechanics | 引受 note |
+| Product | Mechanics | Underwriting note |
 |---|---|---|
 | 団体定期保険 (group term life) | One master contract covers the employer's workforce; coverage typically expires annually and is renewed | Underwritten at employer level on employee census data; minimal individual selection |
-| 団体信用生命保険 (group credit life) | Coverage on borrowers of housing or consumer loans; payout to lender on borrower death or qualifying disability | 引受 tied to loan origination by partner bank or lender |
+| 団体信用生命保険 (group credit life) | Coverage on borrowers of housing or consumer loans; payout to lender on borrower death or qualifying disability | Underwriting tied to loan origination by partner bank or lender |
 | 拠出型企業年金 / 団体年金 (group annuity / pension-adjacent life) | Coverage associated with corporate retirement schemes; some structures overlap with DB pension administration | Often co-managed with trust banks and pension consultants |
 | 従業員積立 / 財形 (employee savings, payroll-deduction savings) | Life rider attached to payroll-deducted savings programs | Stable contribution flow; long persistency tied to employment tenure |
 
-Sony Life について具体的には、集団保険はライフプランナー・チャネルの代わりにではなく、それと並んで販売される。法人関係のライフプランナーが集団商品を雇用主アカウントに紹介し、集団商品が、個人のライフプランナーの生産の循環性を平準化する保有契約保険料の基盤を創出する。
+For Sony Life specifically, group life is sold alongside the Lifeplanner channel rather than instead of it. Corporate-relationship Lifeplanners introduce the group product into employer accounts, and the group product creates a base of in-force premium that smooths the cyclicality of individual Lifeplanner production.
 
 ## ESR and capital structure
 
-Sony Life は年次の開示資料で ESR／ソルベンシー・マージンを開示している。ライフプランナー・チャネルが相当量の外貨建て生命保険と変額／年金型の商品を販売するため、Sony Life の経済価値ベースのソルベンシーは次を抱える：
+Sony Life discloses an ESR / solvency margin in its annual disclosure book. Because the Lifeplanner channel sells significant foreign-currency life and variable / annuity-style products, Sony Life's economic-value solvency carries:
 
-- 長期デュレーションの円建て負債からの金利感応度（ピアと同様）；
-- USD／AUD 建ての保険と対応する債券ポートフォリオからの外貨金利および FX 感応度；
-- 変額商品および任意のセパレートアカウントのエクスポージャーを通じた株式市場感応度；
-- 低い円金利の条件下での利回り追求型のクレジット配分からのクレジットスプレッド感応度。
+- interest-rate sensitivity from long-duration yen liabilities (similar to peers);
+- foreign-currency interest-rate and FX sensitivity from USD / AUD-denominated insurance and the corresponding bond portfolio;
+- equity-market sensitivity through variable products and any separate-account exposures;
+- credit-spread sensitivity from yield-seeking credit allocation under low-yen-rate conditions.
 
-これらのエクスポージャーは、資産負債のメカニクスについては [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] を、会社比率の枠組みについては [[insurance/esr-economic-value-solvency|ESR]] を通じてルーティングされる。
+These exposures are routed through [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] for the asset-liability mechanics and through [[insurance/esr-economic-value-solvency|ESR]] for the company ratio framing.
 
 ## Sony FG group composition
 
-ソニーフィナンシャルグループは単一事業の保険会社ではない。その境界は次を含む：
+Sony Financial Group is not a single-business insurer. Its perimeter includes:
 
 | Subsidiary | Business |
 |---|---|
 | Sony Life Insurance | Stock-company life insurer with Lifeplanner channel and group-life channel |
 | Sony Assurance | Non-life insurer with direct-channel auto focus |
-| Sony Bank | Internet bank; deposit, mortgage, and 証券仲介 cross-sell |
+| Sony Bank | Internet bank; deposit, mortgage, and brokerage cross-sell |
 | Sony Life Insurance (Philippines), Sony Life Singapore | Selected overseas insurance presences depending on disclosure date |
 
-統合された Sony FG の境界はクロスセルのポテンシャルを提供する — 生命保険のライフプランナーの顧客は銀行または損保の顧客になりうる；銀行の顧客は生命保険の見込み客になりうる。クロスセルの論理は、別個のライセンス（生命保険対損害保険対銀行）と、クロスセルに関する FSA の行為規制によって運用上制約される。グループレベルの資本は [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]] の下で統治され、Sony FG の持株会社の資本枠組みの中に統合される。
+The combined Sony FG perimeter delivers cross-sell potential — life Lifeplanner clients can become bank or assurance clients; bank customers can be life prospects. The cross-sell logic is operationally constrained by separate licensing (life insurance vs non-life insurance vs banking) and by FSA conduct rules on cross-selling. Group-level capital is governed under [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] and integrated within Sony FG's holding-company capital framework.
 
 ## Lifeplanner-channel international comparators
 
-ライフプランナー／ファイナンシャルアドバイザーのモデルは、Sony Life に固有ではない、グローバルな保険のアーキテクチャである。国際的な比較対象には次が含まれる：
+The Lifeplanner / financial-advisor model is a global insurance architecture, not unique to Sony Life. International comparators include:
 
 | Comparator | Channel parallel |
 |---|---|
@@ -171,24 +172,24 @@ Sony Life は年次の開示資料で ESR／ソルベンシー・マージンを
 | AXA tied agents globally | European tied-agent model translated across markets |
 | US career-agent life insurers (e.g., Northwestern Mutual, MassMutual, New York Life) | Career-agent franchise with multi-decade producer tenure |
 
-これらすべてに共通する経済的論理は同じである：小規模で高生産性の部隊、複数年の顧客関係、ニーズベースのコンサルティング販売、長い継続率。具体的な報酬構造、生産性のベンチマーク、継続率の結果は、法域と商品ミックスによって異なる。クロス比較は [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] で扱われている。
+The economic logic across all of these is the same: small high-productivity force, multi-year client relationship, needs-based consultative sale, long persistency. The specific compensation structure, productivity benchmark, and persistency outcome vary by jurisdiction and product mix. Cross-comparison is captured in [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]].
 
 ## Operational reading guide for the Sony Life disclosure book
 
-[[life-insurers/sony-life|Sony Life]] のディスクロージャー誌（開示資料）と Sony FG の財務報告を読むとき、開示のセクションをこの順序で焦点化すること：
+When reading [[life-insurers/sony-life|Sony Life]]'s ディスクロージャー誌 (disclosure book) and Sony FG financial reports, focus disclosure sections in this order:
 
 | Section | What to extract |
 |---|---|
 | Annual / interim financial highlights | Premium income trend, new-business APE, in-force policy count |
 | Channel summary | Lifeplanner headcount, group-life premium contribution, channel-mix shifts year over year |
 | Persistency tables | 13-month and 25-month persistency by product line and channel |
-| ソルベンシー / ESR | Headline ratio, sensitivity tables to interest rate / equity / FX shocks |
+| Solvency / ESR | Headline ratio, sensitivity tables to interest rate / equity / FX shocks |
 | Product mix | Foreign-currency share, variable share, group-life share, individual life share |
 | Investment portfolio | JGB / foreign bond split, hedged vs unhedged foreign bond, credit allocation |
 | Capital and intra-group flows | Dividend up-stream to Sony FG, capital reinforcement events |
 | Governance | Board composition, ALM committee, risk-committee structure |
 
-各セクションは、バランスシートのドライバーについては [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] と、規制資本の解釈については [[insurance/economic-value-based-solvency|ESR]] と照らして読まれる。[[insurance/japan-life-insurance-big-four|big-four mutual peers]] とのクロス比較は、構造的な違いが最も明確であるチャネルおよび商品ミックスのレベルで最も有用である。
+Each section is read against [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] for the balance-sheet drivers and against [[insurance/economic-value-based-solvency|ESR]] for the regulatory capital interpretation. Cross-comparison with [[insurance/japan-life-insurance-big-four|big-four mutual peers]] is most useful at the channel and product-mix levels, where structural differences are clearest.
 
 ## Related
 
@@ -215,7 +216,7 @@ Sony Life は年次の開示資料で ESR／ソルベンシー・マージンを
 ## Sources
 
 - Sony Life: 会社案内 / ディスクロージャー誌 (disclosure book) and integrated reports.
-- Sony Financial Group：グループ会社構成、再上場発表、親会社変更通知、現在の株主情報。
+- Sony Financial Group: group-company structure, relisting announcement, parent-company change notice, and current shareholder information.
 - Life Insurance Association of Japan: member-company list.
 - FSA: economic value-based solvency regulation hub.
-- Sony Group と Sony Financial Group：2020 年の非公開化および 2025 年の再上場／パーシャルスピンオフに関する公開記録。
+- Sony Group and Sony Financial Group: public records for the 2020 take-private and the 2025 relisting / partial spin-off.

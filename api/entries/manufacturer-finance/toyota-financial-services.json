@@ -25,9 +25,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -45,6 +45,7 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.tfsc.jp/en/company/index.html",
       "https://global.toyota/en/company/profile/other-toyota-businesses/finance/",
       "https://global.toyota/en/ir/library/annual/",
       "https://www.toyotafinancial.com/us/en.html",
@@ -109,8 +110,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7288,
-    "word_like_tokens": 1131,
+    "nonspace_chars": 7332,
+    "word_like_tokens": 1139,
     "inbound_wikilinks_count": 12,
     "last_modified": "2026-06-08"
   }
