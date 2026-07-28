@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-28T13:56:28+09:00",
+  "generated_at": "2026-07-28T13:58:30+09:00",
   "counts": {
     "markdown_files": 1579,
     "public_markdown_pages": 1578,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10626090,
-    "word_like_tokens": 1705572,
+    "nonspace_utf8_chars": 10625650,
+    "word_like_tokens": 1705501,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2676,7 +2676,7 @@
       "entity_edges": [],
       "nonspace_chars": 67031,
       "word_like_tokens": 12213,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3235,7 +3235,7 @@
       "entity_edges": [],
       "nonspace_chars": 8837,
       "word_like_tokens": 1535,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "SCHEMA.md",
@@ -22857,7 +22857,7 @@
       "entity_edges": [],
       "nonspace_chars": 20800,
       "word_like_tokens": 3551,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/global-dex-major-five-comparison.md",
@@ -24346,7 +24346,7 @@
       "entity_edges": [],
       "nonspace_chars": 2940,
       "word_like_tokens": 434,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/jp-crypto-exchange-overview.md",
@@ -27823,7 +27823,7 @@
       "entity_edges": [],
       "nonspace_chars": 5860,
       "word_like_tokens": 948,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bitcastle.md",
@@ -36601,7 +36601,7 @@
       "entity_edges": [],
       "nonspace_chars": 6078,
       "word_like_tokens": 801,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "financial-regulators/pwc-aarata.md",
@@ -83133,7 +83133,7 @@
       "entity_edges": [],
       "nonspace_chars": 5183,
       "word_like_tokens": 805,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "regional-banks/nishi-nippon-city-bank.md",
@@ -99068,7 +99068,7 @@
       "entity_edges": [],
       "nonspace_chars": 21416,
       "word_like_tokens": 3477,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "systems/cross-chain-five-pole-comparison-matrix.md",
@@ -101048,7 +101048,7 @@
       "entity_edges": [],
       "nonspace_chars": 20703,
       "word_like_tokens": 3466,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "systems/rollup-market-share-2026-arbitrum-optimism-base.md",
@@ -105830,9 +105830,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3817,
-      "word_like_tokens": 697,
-      "last_modified": "2026-07-27"
+      "nonspace_chars": 3377,
+      "word_like_tokens": 626,
+      "last_modified": "2026-07-28"
     }
   ]
 }
