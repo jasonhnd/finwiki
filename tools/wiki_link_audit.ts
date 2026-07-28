@@ -371,7 +371,9 @@ function loadEntriesSync(): Map<string, Entry> {
     const text = readFileSync(filePath, "utf8");
     const { frontmatter, body } = parseFrontmatter(text);
     const rel = toPosix(path.relative(ROOT, filePath));
-    const domain = asString(frontmatter.domain) || path.basename(path.dirname(filePath));
+    const domain =
+      asString(frontmatter.domain) ||
+      (rel.includes("/") ? rel.split("/", 1)[0] : "root");
     const title = asString(frontmatter.title) || path.basename(filePath, ".md");
     const aliases = asList(frontmatter.aliases);
     const tags = asList(frontmatter.tags);

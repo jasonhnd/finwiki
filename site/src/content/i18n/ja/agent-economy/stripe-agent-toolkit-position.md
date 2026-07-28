@@ -76,7 +76,7 @@ Stripe Agent Toolkit の最大の非技術的な差別化要因は規制であ�
 
 **[[agent-economy/x402-http-payment-overview|x402]](Coinbase / Cloudflare / AWS)に対して ── 異なるトランスポート、重なるユースケース。** x402 は HTTP ネイティブ、USDC デフォルト、秒単位の決済、Stripe のレーキなしだが、加盟店がステーブルコインを受け入れ 402 ハンドシェイクを統合することを要求する。Stripe Agent Toolkit は SDK ネイティブ、マルチレールで、加盟店が Stripe を受け入れること(大半のオンライン加盟店はすでにそうしている)を要求し、標準の Stripe 手数料を支払う。エージェント間のインフラ呼び出しについては両者は真に競合する;エージェント対伝統的加盟店のフローについては、加盟店がすでに Stripe の顧客であるため Stripe がデフォルトで勝つ。
 
-**[[agent-economy/ap2-overview|AP2]](Google)に対して ── 異なる層、補完的。** AP2 は *マンデート*(「このエージェントはこのユーザーの代理として支出する権限を持つ」と述べるクレデンシャル)を標準化する。Stripe Agent Toolkit は実のところマンデートを話さない;それは「エージェントが制限付き API キーを持つ」を話す。時とともに両者は構成されうる ── AP2 マンデートがユーザーの認可を検証し、Stripe Toolkit が資金を動かす ── が、現時点では AP2 の決済アダプタのリストは Stripe 互換のフローを Connect 経由でのみ含み、Toolkit にネイティブではない。
+**[[agent-economy/ap2-overview|AP2]] (Google)に対して ── 異なる層、補完的。** AP2 は *マンデート*(「このエージェントはこのユーザーの代理として支出する権限を持つ」と述べるクレデンシャル)を標準化する。Stripe Agent Toolkit は実のところマンデートを話さない;それは「エージェントが制限付き API キーを持つ」を話す。時とともに両者は構成されうる ── AP2 マンデートがユーザーの認可を検証し、Stripe Toolkit が資金を動かす ── が、現時点では AP2 の決済アダプタのリストは Stripe 互換のフローを Connect 経由でのみ含み、Toolkit にネイティブではない。
 
 **[[agent-economy/privy-embedded-wallet-overview|Privy]] に対して ── Stripe が Privy を所有するため、両者はペアになる。** Privy は組み込みウォレットの基盤であり;Toolkit はエージェントが Stripe 台帳を記録システムとして用いるときにその上に位置する SDK である。オンチェーンに留まる必要のあるエージェントフロー(非 Stripe の取引相手に USDC で決済する)には、エージェントは Privy を直接用いる;法定通貨レールに当たるフロー(カード、ACH、電信送金)には Toolkit を通じる。その構成は業務上のものにされた [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Trojan-horse strategy]] である。
 

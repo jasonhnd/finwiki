@@ -35,7 +35,7 @@ finwiki/
 | `*/INDEX.md` | `domain_index` |
 | 其余 | `wiki_entry` ← 即"知识库正文条目" |
 
-**`entries` 计数 = entry_type 为 `wiki_entry` 的文件数**（当前 1485 条由 link audit 检查的 public wiki entries）。`md` 计数 = 全部 corpus `.md`（当前 1566，含 control/release/index）。`domains` = `INDEX.md` 表里的领域行数（40）。
+**`entries` 计数 = entry_type 为 `wiki_entry` 的文件数**；`md` 计数 = 全部 corpus `.md`（含 control/release/index）；`domains` = `INDEX.md` 表里的领域行数。当前值统一读取 `ai-index.json` 的 `counts.link_audited_entries`、`counts.markdown_files`、`counts.topical_domains`，并由 strict release、wikilink audit 与 index-count audit 交叉验证，文档不再复制易漂移快照。
 
 ## domain 体系
 

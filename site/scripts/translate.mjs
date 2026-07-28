@@ -16,6 +16,7 @@ import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
 import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 import { buildTitleByRoute, hasSubstantialEnglishProse, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
+import { clearTranslationReview, writeTranslationReview } from './translation-output.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const TARGET = { en: 'English' };
@@ -122,6 +123,9 @@ async function translateProtected(text, lang, titleByRoute) {
         : restored,
     fidelity: v.ok ? 'ok' : 'needs_review',
     v,
+    masked,
+    masks,
+    translatedMasked: out,
   };
 }
 
@@ -176,8 +180,34 @@ async function main() {
         }
         const tt = title ? await translateProtected(title, lang, titleByRoute) : { text: '', fidelity: 'ok' };
         const bt = await translateProtected(body, lang, titleByRoute);
-        const fidelity = tt.fidelity === 'needs_review' || bt.fidelity === 'needs_review' ? 'needs_review' : 'ok';
-        if (fidelity === 'needs_review') reviews++;
+        const failed = [tt, bt].some((result) => result.fidelity === 'needs_review');
+        if (failed) {
+          reviews++;
+          for (const [stage, result] of [
+            ['title', tt],
+            ['body', bt],
+          ]) {
+            if (!result.v) continue;
+            writeTranslationReview({
+              lang,
+              rel,
+              stage,
+              hash: h,
+              masked: result.masked,
+              masks: result.masks,
+              translatedMasked: result.translatedMasked,
+              verification: result.v,
+              model: MODEL,
+              reason: 'title/body translation rejected as one atomic mirror update',
+            });
+          }
+          const failedParts = [
+            tt.fidelity === 'needs_review' ? 'title' : null,
+            bt.fidelity === 'needs_review' ? 'body' : null,
+          ].filter(Boolean);
+          console.log(`REV ${lang}  ${rel}  (${failedParts.join('+')} quarantined; formal mirror unchanged)`);
+          continue;
+        }
         const head =
           `---\n` +
           `source: ${rel.replace(/\.md$/, '').toLowerCase()}\n` +
@@ -185,13 +215,15 @@ async function main() {
           `lang: ${lang}\n` +
           `model: ${MODEL}\n` +
           `status: machine\n` +
-          `fidelity: ${fidelity}\n` +
+          `fidelity: ok\n` +
           `title: ${JSON.stringify(tt.text || title)}\n` +
           `translated_at: ${new Date().toISOString()}\n` +
           `---\n`;
         mkdirSync(dirname(outPath), { recursive: true });
         writeFileSync(outPath, head + bt.text + '\n', { encoding: 'utf8' });
-        console.log(`${fidelity === 'ok' ? 'ok ' : 'REV'} ${lang}  ${rel}`);
+        clearTranslationReview({ lang, rel, stage: 'title' });
+        clearTranslationReview({ lang, rel, stage: 'body' });
+        console.log(`ok  ${lang}  ${rel}`);
       } catch (err) {
         console.error(`ERR ${lang}  ${rel}: ${err.message}`);
       }
@@ -224,7 +256,7 @@ async function main() {
       }
     }
   }
-  console.log(`\n完了: ${done} entries, needs_review=${reviews}`);
+  console.log(`\n完了: ${done} entries, quarantined=${reviews}`);
 }
 
 await main();
