@@ -24,10 +24,10 @@
     "domain": "insurance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-29",
+    "confidence": "certain",
     "tags": [
       "insurance",
       "life-insurance",
@@ -43,8 +43,10 @@
     "note": null,
     "sources": [
       "https://www.sonylife.co.jp/company/disclosure/",
-      "https://www.sonyfh.co.jp/ja/financial_info/",
-      "https://www.sonyfh.co.jp/en/financial_info/",
+      "https://www.sonyfg.co.jp/ja/company/about_group.html",
+      "https://www.sonyfg.co.jp/en/250929_01.html",
+      "https://www.sonyfg.co.jp/en/news/article/250929_02.pdf",
+      "https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html",
       "https://www.seiho.or.jp/english/about/companies/",
       "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
     ]
@@ -57,8 +59,8 @@
     "Lifeplanner channel (tied, consultative, individual life)",
     "Group life (集団保険) channel",
     "What is explicitly not in the channel",
-    "Foreign-tech parent governance",
-    "Sony FG re-buyout and capital architecture",
+    "Listed holding-company governance after the partial spin-off",
+    "Take-private, relisting, and capital architecture",
     "Persistency and FA productivity",
     "Comparison to big-four sales-agency model"
   ],
@@ -120,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19056,
-    "word_like_tokens": 3007,
+    "nonspace_chars": 19415,
+    "word_like_tokens": 3124,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

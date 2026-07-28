@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-aozora-net
-source_hash: 9bb0e217ef0f7e63
+source_hash: 6b63012d77418cdf
 lang: en
 status: machine
 fidelity: ok
 title: "GMO Aozora Net Bank"
-translated_at: 2026-06-19T06:09:18.165Z
+translated_at: 2026-07-28T16:39:58Z
 ---
 
 # GMO Aozora Net Bank
@@ -16,14 +16,14 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-A net bank **anchored on a corporate-focused BaaS (Banking as a Service) axis**. Based on the former **Aozora Trust Bank** (a [[regional-banks/aozora-bank]] subsidiary), the **GMO Internet Group** acquired a majority of voting rights in 2018-07 , renaming it and converting it into a net bank. After the reorganization of classes of shares, the shareholder composition is, **on a common-stock (shareholding) ratio basis, Aozora Bank 50.00% / GMO Internet Group 25.00% / GMO Financial Holdings 25.00%**, while **on a voting-rights ratio basis, Aozora Bank 85.12% / GMO's two companies 7.43% each** (as of 2026-02-20; because part of Aozora's holdings are voting-rights-restricted class shares, the shareholding ratio and the voting-rights ratio diverge). **Unlike Rakuten Bank, PayPay Bank, and SBI Sumishin Net Bank, which emphasize individuals, it places at its core corporate accounts linked to freelancers, startups, and fintech, plus API connectivity.** Its representative services are "**Anshin Wide**" (a business loan for corporations) and "**Bank API for Developers**." It has built its position through strategic partnerships with fintechs such as freee, Money Forward, Square, and Stripe. ^[extracted]
+A net bank **anchored on a corporate-focused BaaS (Banking as a Service) axis**. It developed from the former **Aozora Trust Bank**, originally a wholly owned [[regional-banks/aozora-bank|Aozora Bank]] subsidiary, and was renamed and converted into a net bank in 2018-07 after preparations for the GMO joint venture. The official company profile reports **share ownership of Aozora Bank 50.00% / GMO Internet Group 25.00% / GMO Financial Holdings 25.00%** and **voting rights of Aozora Bank 85.12% / the two GMO companies 7.43% each** as of 2026-02-20. The former statement that GMO acquired a voting majority was therefore incorrect; Aozora Bank is the current voting-control shareholder. **Unlike retail-focused Rakuten Bank, PayPay Bank, and SBI Sumishin Net Bank, it centers corporate accounts for freelancers, startups, and fintech integrations plus API connectivity.** Its representative services are **Anshin Wide** and **Bank API for Developers**, supported by partnerships with freee, Money Forward, Square, Stripe, and other fintechs. ^[extracted]
 
 ## 1. Company overview
 
 **Legal name**: GMO Aozora Net Bank, Ltd. ^[extracted]
 **English name**: GMO Aozora Net Bank, Ltd.
 **Established**: 2004-04 (opened as Aozora Trust Bank) ^[extracted]
-**Current structure launched**: 2018-07 (GMO Internet Group acquired a majority → renamed) ^[extracted]
+**Current structure launched**: 2018-07 (renamed and launched net-bank operations after GMO joint-venture preparations; current Aozora voting rights are 85.12%) ^[extracted]
 **Headquarters**: Shibuya-ku, Tokyo ^[extracted]
 **Business type**: Banking business (ordinary bank / net bank)
 
@@ -35,7 +35,7 @@ A net bank **anchored on a corporate-focused BaaS (Banking as a Service) axis**.
 | GMO Internet Group (TSE PRIME 9449) | 25.00% | 7.43% |
 | GMO Financial Holdings | 25.00% | 7.43% |
 
-> Background: GMO initially invested 15% (2016-05) → converted it into a net bank in 2018-07  (acquiring a majority on a voting-rights basis). Based on the shareholders' agreement of 2016 年, on 2023 年 the class shares held by Aozora Bank were transferred to GMO Financial Holdings. On a common-stock (shareholding) basis it is Aozora 50% / GMO's two companies totaling 50%, but because part of Aozora's holdings are voting-rights-restricted class shares, **on a voting-rights basis it is Aozora 85.12% / GMO's two companies 7.43% each**. The ratios shift with IR disclosure, so for the latest, refer to each company's disclosure.
+> Background: GMO invested in 2016-05, and the bank converted to the net-bank model in 2018-07. Under the 2016 shareholders' agreement, class shares held by Aozora Bank were transferred to GMO Financial Holdings in 2023. Share ownership is Aozora 50% / the two GMO companies 50% in total, but the class-share voting design means **Aozora holds 85.12% of voting rights and the two GMO companies 7.43% each**. The ratios can change with disclosure, so use current company and shareholder materials.
 
 ### Position within the group
 
@@ -57,7 +57,7 @@ GMO 互联网集团（东证 PRIME 9449・熊谷正寿）
 |---|---|
 | 2004-04 | **Aozora Trust Bank** opens (a [[regional-banks/aozora-bank]] 100% subsidiary, centered on trust operations) |
 | 2016-05 | GMO Internet invests 15% in Aozora Trust Bank → prepares a joint venture for conversion to a net bank |
-| 2018-07 | **GMO acquires a majority → renamed GMO Aozora Net Bank, commences operations** (begins opening individual and corporate accounts) |
+| 2018-07 | **Renamed GMO Aozora Net Bank and launches net-bank operations** (begins opening individual and corporate accounts; GMO did not acquire a voting majority) |
 | 2019 onward | Corporate fintech-linked accounts become the growth axis. API connectivity with freee / Money Forward, etc., expands |
 | 2020 onward | "Anshin Wide" (a corporate business loan) launches; BaaS-partner linkage accelerates |
 | 2022 onward | Linkage with payment fintechs such as Stripe / Square / Wise expands |
@@ -107,7 +107,7 @@ GMO 互联网集团（东证 PRIME 9449・熊谷正寿）
 
 ## Related
 
-- [[regional-banks/aozora-bank]] (former parent company, current ~15% shareholder)
+- [[regional-banks/aozora-bank]] (50.00% share ownership / 85.12% voting-control shareholder as of 2026-02-20)
 - [[payment-firms/gmo-coin]] (sibling company, crypto assets)
 - [[regional-banks/ssnb|sbi-sumishin-net]] (SBI Sumishin Net Bank, competing BaaS)
 - [[banking/paypay-bank|paypay-bank]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/au-jibun-bank|au-jibun-bank]] (individual net banks, a different battlefield)

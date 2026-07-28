@@ -27,10 +27,10 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-29",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "banking",
@@ -44,13 +44,13 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jibunbank.co.jp/company/profile/",
-      "https://www.jibunbank.co.jp/company/history/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.mufg.jp/profile/group/index.html"
+      "https://www.jibunbank.co.jp/corporate/outline/",
+      "https://www.jibunbank.co.jp/corporate/history/",
+      "https://www.jibunbank.co.jp/corporate/news/2026/pdf/news_20260324_01.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
     ]
   },
-  "summary": "This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, 三菱UFJ銀行 as parent group co-investor, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, au フィナンシャルホールディングス for the current direct-shareholder boundary, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "au じぶん銀行 (au Jibun Bank)",
     "Wiki route",
@@ -69,7 +69,7 @@
       "banking/INDEX",
       "banking/paypay-bank",
       "banking/rakuten-bank",
-      "megabanks/mufg",
+      "megabanks/au-fh",
       "megabanks/mufg-bank",
       "regional-banks/INDEX",
       "regional-banks/sbi-sumishin-net-bank",
@@ -80,7 +80,7 @@
       "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/banking/paypay-bank/",
       "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
       "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
       "https://finwiki.zksc.io/ja/domains/regional-banks/",
       "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4209,
-    "word_like_tokens": 743,
+    "nonspace_chars": 4228,
+    "word_like_tokens": 755,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }
