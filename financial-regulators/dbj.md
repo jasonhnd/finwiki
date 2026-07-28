@@ -3,9 +3,9 @@ title: 日本政策投資銀行 (DBJ)
 aliases: ["DBJ", "Development Bank of Japan", "株式会社日本政策投資銀行", "日本政策投資銀行", "政投銀"]
 domain: financial-regulators
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, policy-finance, government]
 status: active
@@ -61,9 +61,11 @@ DBJ(株式会社日本政策投資銀行・財務大臣 100%)
 | 2008-10-01 | **株式会社化**(株式会社日本政策投資銀行発足) |
 | 2008-2009 | リーマンショック → 危機対応業務発動 |
 | 2011-03 | 東日本大震災 → 完全民営化 延期(2012 法改正) |
-| 2015 | **「特定投資業務」開始**(3 兆円規模、官民ファンドの大型版) |
+| 2015 | **「特定投資業務」開始**（政府出資を一部活用する成長資金供給） |
 | 2020-2022 | コロナ危機対応融資 → 民営化 さらに延期 |
 | 2023-2025 | GX(グリーン・トランスフォーメーション)投資強化 |
+
+Sources: ^[DBJ「沿革」: https://www.dbj.jp/co/info/history/; DBJ「特定投資業務」: https://www.dbj.jp/service/special/; DBJ 会社概要: https://www.dbj.jp/co/info/outline.html.]
 
 ## 2. 事業セグメント・マップ
 
@@ -73,9 +75,11 @@ DBJ(株式会社日本政策投資銀行・財務大臣 100%)
 | エクイティ投資 | PE 投資・メザニン・優先株引受 | 民間 PE と協調、事業再生案件多い |
 | M&A・アドバイザリー | 業界再編・クロスボーダー助言 | 政策金融ならではの中立性 |
 | 危機対応業務 | 緊急時資金供給(指定金融機関) | リーマン / 東日本大震災 / コロナで発動 |
-| 特定投資業務(2015〜) | 3 兆円規模の ESG/GX/DX 重点投資 | 「リスクマネー供給」の旗艦事業 |
+| 特定投資業務(2015〜) | 政府出資を一部活用する成長資金供給（GX・ディープテック・地域等） | 「リスクマネー供給」の旗艦事業 |
 | 地域再生 | 地方銀行協調ファンド・地域企業支援 | 各地で地域ファンド共同設立 |
 | シンクタンク | 価値総合研究所(VRI) | 産業調査・地域政策レポート |
+
+Sources: ^[DBJ 会社概要（業務範囲）: https://www.dbj.jp/co/info/outline.html; DBJ「特定投資業務」: https://www.dbj.jp/service/special/; DBJ 公式サイト: https://www.dbj.jp/.]
 
 ### ポジショニング
 

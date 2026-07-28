@@ -1,12 +1,12 @@
 ---
 source: agent-economy/agent-protocol-mainnet-adoption-2026
-source_hash: 13e3df6d3724ae09
+source_hash: fce539ccc90ce69b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エージェントプロトコルのメインネット採用 · 2026-05 本番稼働準備状況スナップショット"
-translated_at: 2026-06-26T08:27:56.296Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # エージェントプロトコルのメインネット採用 · 2026-05 本番稼働準備状況スナップショット
@@ -85,12 +85,16 @@ ERC-4337 (EntryPoint 経由のアカウント抽象化)は2023-03年からイー
 
 ERC-7702 (トランザクションスコープの認可による EOA からスマートコントラクトコードへの委任)は、2025年Q2 (Prague-Electra フォーク有効化後)にイーサリアムの **Pectra アップグレード**の一部として出荷された。初めて、**大量にインストールされた EOA ウォレットベース**(MetaMask EOA、ハードウェアウォレット EOA)が、別個の SCW アカウントへ移行することなくトランザクション単位でスマートコントラクトの振る舞いにオプトインできるようになった。
 
-| サーフェス | ステータス | 日付 |
+| Surface | 確認できる公開 status | それだけでは証明できない事項 |
 |---|---|---|
-| ERC-7702 EIP ファイナル / Pectra 有効化 | イーサリアムメインネットで稼働中 | 2025-Q2 |
-| MetaMask EOA + 7702 委任 UX | 稼働中 | 2025-Q4 |
-| Coinbase ウォレット EOA + 7702 | 稼働中 | 2025-Q4 |
-| ウォレット側の7702 使い勝手(ワンクリック委任) | 部分的。多くのウォレットは依然としてパワーユーザーフローを要求 | 2026-Q2 |
+| **EIP-7702 core mechanism** | EIP は EOA に code を設定する authorization tuple と delegation indicator を定義する | 安全な wallet UI や permission policy 自体は定義しない |
+| **Pectra activation** | Ethereum の Pectra upgrade は EIP-7702; chain support は network ごとに確認する | activation は全 wallet が delegation を有効化したことを意味しない |
+| **Wallet implementation** | wallet の current release note、supported chain、audited delegate contract で証明する必要がある | marketing に EIP number があるだけでは full flow の production readiness を証明しない |
+| **Delegation persistence / clearing** | delegation は後続の valid authorization で replacement / clearing されるまで残る | 本質的に transaction-scoped ではなく、limit は delegated code が与える |
+| **Operational readiness** | verified delegate bytecode、initialization、nonce / chain handling、recovery、monitoring が必要 | one-click UX は EIP の storage、phishing、upgrade risk を除去しない |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-7702] ^[https://ethereum.org/en/roadmap/pectra/]
+
 
 **エージェントにとって重要な理由**:ERC-7702 は、約150Mの既存 EOA ユーザーが**ウォレットを切り替えずに**エージェントに1トランザクションスコープの委任を付与できることを意味する。ERC-7715の `wallet_grantPermissions` と組み合わせれば、既存の MetaMask ユーザーは今日(2026年Q2)、シードフレーズを放棄せずに Claude / Gemini / GPT エージェントに `erc20-token-transfer` USDC スコープを委任できる。委任の仕組みについては [[systems/erc-7702-overview|ERC-7702 総覧]] を参照。
 
@@ -98,15 +102,16 @@ ERC-7702 (トランザクションスコープの認可による EOA からス�
 
 これは「理論が現実に出会う」決定的な表である — どの AI エージェントベンダーが**ファーストパーティ**の決済プロトコル統合を出荷するか、対してどれがコミュニティラッパーを必要とするか。
 
-| ベンダー / SDK | x402 | AP2 | ERC-7715 | ERC-4337 | ERC-7702 |
-|---|---|---|---|---|---|
-| **Anthropic Claude Code** | コミュニティラッパー | 未統合 | コミュニティラッパー | MCP ツール経由 | MCP ツール経由 |
-| **Anthropic Claude Agent SDK** | コミュニティラッパー | 未統合 | コミュニティラッパー | MCP ツール経由 | MCP ツール経由 |
-| **OpenAI Agents SDK** | コミュニティラッパー | 部分的(早期統合) | コミュニティラッパー | ツールレジストリ経由 | ツールレジストリ経由 |
-| **Google Gemini Agent** | 未統合 | ファーストパーティ | ファーストパーティ(Android ウォレットパイロット) | ファーストパーティ(Android ウォレット 4337 パス) | ファーストパーティ |
-| **LangChain / LlamaIndex** | コミュニティラッパー | コミュニティラッパー | コミュニティラッパー | コミュニティラッパー | コミュニティラッパー |
-| **Vercel AI SDK** | ファーストパーティクライアント | 未統合 | 未統合 | 未統合 | 未統合 |
-| **CrewAI / AutoGen** | コミュニティラッパー | コミュニティラッパー | 未統合 | 未統合 | 未統合 |
+| Vendor / SDK surface | Payment claim に必要な first-party evidence | 許容できる integration evidence | 推定根拠にしてはいけないもの |
+|---|---|---|---|
+| **Anthropic developer / agent tooling** | protocol と supported flow を明記した official Anthropic docs / repository | versioned tool / MCP integration と wallet / settlement documentation | community wrapper、example prompt、third-party MCP listing |
+| **OpenAI Agents SDK** | protocol または payment tool を明記した official OpenAI SDK docs / repository | authorization、error、settlement handling を備えた versioned tool integration | shipped SDK documentation のない partner announcement |
+| **Google ADK / AP2** | AP2 repository、ADK docs、runnable reference implementation | signed mandate flow、payment-method adapter、conformance test | AP2 consortium membership だけ |
+| **Vercel AI SDK** | x402 等の payment protocol を明記した official AI SDK package / docs | versioned client middleware と protocol-version compatibility | 当該 SDK で構築された application |
+| **Other agent frameworks** | framework 自身の docs / release と maintained protocol package | maintained adapter、test、key / facilitator の明確な responsibility | registry presence、blog post、unmaintained sample |
+
+Sources: ^[https://docs.anthropic.com/] ^[https://openai.github.io/openai-agents-python/] ^[https://google.github.io/adk-docs/] ^[https://github.com/google-agentic-commerce/AP2] ^[https://ai-sdk.dev/docs] ^[https://docs.x402.org/]
+
 
 **重要な推定**:Anthropic は意図的に決済についてプロトコル中立を保っており、いかなる決済プロトコル SDK もファーストパーティで統合せず、すべてを MCP ツール経由でルーティングしている。Google は垂直統合的に所有するスタックとして AP2 + 7715 に賭けた。OpenAI はヘッジしている。Vercel は純粋なインフラの賭けとして x402-on-edge に賭けた。
 

@@ -23,9 +23,9 @@
     "domain": "financial-licenses",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8962,
-    "word_like_tokens": 1436,
+    "nonspace_chars": 10193,
+    "word_like_tokens": 1652,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

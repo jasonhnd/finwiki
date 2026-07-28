@@ -3,9 +3,9 @@ title: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / Laye
 aliases: [cross chain five pole comparison matrix, cctp ccip layerzero hyperlane wormhole comparison, bridge protocol nine dimensions matrix]
 domain: systems
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, cross-chain, bridge, cctp, ccip, layerzero, hyperlane, wormhole, comparison-matrix]
 status: active
@@ -35,19 +35,21 @@ sources:
 
 ## Mechanism / How it works
 
-**9 次元対照マトリクス**(2026-Q2 状態):
+**公開仕様に基づくアーキテクチャ対照マトリクス**:
 
 | 次元 | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
 |---|---|---|---|---|---|
-| **Messaging モデル** | Burn-mint(USDC のみ)· Circle オフチェーン attestation 署名 | Oracle DON + Risk Management Network · Lock-mint または汎用 messaging | DVN M-of-N(アプリ設定)· Lightweight ULN · 汎用 messaging | Permissionless · ISM 顧客選択(multisig/POS/optimistic/ZK)· Lock-mint または messaging | Guardian 19-of-19 マルチシグ + ZK Verifier · Lock-mint + Burn-mint(NTT) |
-| **Security モデル** | Circle 中央集権 attester · 規制コンプライアンス背書 | RMN 独立委員会(2-of-N veto) + Chainlink OCR · 二層冗長 | DVN 集合(default LayerZero Labs + Google Cloud + Polyhedra ZK)· 顧客変更可能 | Modular · default multisig · オプション Eigen restaking / ZK / optimistic | Guardian set 19 ノード(Jump / Everstake / Forbole 等)· ZK Verifier 補完 |
-| **Settlement 保証** | Fast Transfer 8-20 秒 · Standard 10-20 分 · 不可逆 | 通常 7-20 分(risk window 含む)· 高額は delay 設定可能 | DVN 設定依存 · 最低単 DVN 数秒 · 高セキュリティマルチ DVN 分単位 | ISM 決定 · multisig 1-2 ブロック · optimistic 30 分 challenge window | ~15 分 finality(source chain finality 待ち)+ Guardian 署名 |
-| **チェーンカバレッジ(2026)** | 12+ chains(EVM L1/L2 主流 + Arc + Sonic + Aptos)· 全 EVM 中心 | ~25 chains(EVM L1/L2 + 一部 non-EVM 例えば Solana 試験中) | 100+ chains(EVM 全面 + Aptos / Sui / Solana / TON / Tron) | 任意 chain がセルフデプロイ可能 · 主推 Eclipse / Celestia / Cosmos / SVM long-tail | 30+ chains(Solana 強 + EVM 全面 + Sui / Aptos / Near / Algorand) |
-| **機関採用** | Circle ネイティブ USDC · Coinbase · Stripe Tempo · MoneyGram · 規制フレンドリー | SWIFT messaging パイロット · DTCC Smart NAV · J.P. Morgan Kinexys · ANZ A$DC · BNY · 強 TradFi | Stargate / Pendle / LiFi / Trader Joe · 一部 fintech(PayPal PYUSD bridging) | Eclipse / Celestia / Renzo / Karak · DeFi-native long-tail · 機関採用弱 | Jito / MakerDAO / Lido · Solana 大手アプリ · Uniswap cross-chain governance |
-| **Gas/費用** | ユーザーが source chain gas + Circle Fast Transfer fee を支払う(~$0.10-1)· USDC 計価 | ユーザーが LINK または native token を支払う · ダブル fee(execution + risk verification)· 高額機関グレード | ユーザーが source gas + DVN fee + destination execution を支払う(任意 token 計費 via Pay Master) | ユーザーが source gas + Hyperlane gas oracle 推定 destination を支払う · 任意 token · 自営 relayer で節約可能 | ユーザーが source gas + Wormhole fee + destination gas drop(NTT)· VAA リレーは第三者代行可能 |
-| **Governance / アップグレード** | Circle Inc.(centralized · OFAC + §501 拘束) | Chainlink Foundation + DAO 提案 + RMN 独立委員会(Smartcon ガバナンス) | LayerZero Labs(チームガバナンス · ZRO token は将来分権) | Hyperlane DAO + HYPER token(2024 ローンチ)· permissionless 改修は ISM-level 顧客同意必要 | Wormhole DAO + W token(2024)· Guardian set 変更は ≥2/3 投票必要 · Foundation 調整 |
-| **過去事件 / 監査** | Circle 単点信頼は未だ破られず · 監査 OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | 重大 incident なし · Chainlink 複数回監査 · RMN 独立監査 · CertiK / Trail of Bits | 2024.01 一時的 DVN 設定バグ(資金損失なし)· 複数回監査 Zellic / Trail of Bits · DVN diversity 防御深度 | 2024 Eclipse メインネット稼働後重大 incident なし · audits Trail of Bits / Zellic / OpenZeppelin · permissionless リスクは ISM 選択次第 | **2022.02 Solana ブリッジで $325M 盗難**(Jump Crypto 全額補填)· 2024 ZK Verifier 稼働後セキュリティアップグレード · Guardian incentive alignment は継続的議論 |
-| **最適ユースケース** | 純 USDC クロスチェーン調達 · institutional 規制対応ステーブルコイン transfer | Bank-grade トークン化資産 settlement · DvP / PvP · 高額低頻度 | General-purpose dApp omnichain · Stargate スタイル aggregator · long-tail token bridging | App-chain / rollup self-sovereign デプロイ · 非 EVM ファーストクラス · permissionless ISM tradeoff | Solana 中心 cross-chain · NFT bridge · DAO governance messaging · NTT が wrapped token を置換 |
+| **Messaging モデル** | USDC burn → attestation → mint | arbitrary messaging と token transfer | Endpoint 上の OApp message / OFT | Mailbox message / Warp Route | VAA-based messaging / token bridge / NTT |
+| **Verification 境界** | Circle attestation | CCIP network と risk-management controls | OApp が構成する DVN | アプリが選択する ISM | Guardian-signed VAA と統合 contract |
+| **Destination 実行** | 呼び出し側または relayer が mint / hook を実行 | router / off-ramp が実行 | permissionless Executor または手動実行 | relayer が Mailbox に配達 | relayer は任意、受信アプリが VAA を消費 |
+| **資産モデル** | Circle 発行 USDC | pool / token-manager 構成に依存 | OFT またはアプリ独自 | Warp Route またはアプリ独自 | wrapped bridge / NTT 等、製品別 |
+| **アプリ側設定** | domain、finality、recipient、message version | lane、pool、receiver、rate limit | peer、MessageLib、DVN、confirmation、Executor | ISM、hook、validator、gas payment | emitter、chain、consistency、recipient |
+| **手数料の確認点** | 両 chain gas と選択した transfer mode | quote が含む network / execution cost | DVN、Executor、destination gas | relay / destination gas と hook | source / destination gas と relayer option |
+| **アップグレード確認点** | Circle contracts / attestation service の現行版 | router、lane、pool の owner / release notes | OApp owner / delegate と library migration | Mailbox / ISM / route owner | core / token bridge / NTT の governance と emitter |
+| **適合しやすい範囲** | USDC-native transfer | 管理された messaging / token transfer | 構成可能な omnichain app | sovereign app-chain / rollup integration | multi-ecosystem messaging と token integration |
+| **非対応の推定を避ける事項** | 対応 chain、所要時間、fee は live docs で確認 | lane、token、limit は live docs で確認 | default DVN を安全性の保証とみなさない | permissionless deployment を安全性の保証とみなさない | Guardian 数や incident record を固定値として扱わない |
+
+Sources: ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.chain.link/ccip] ^[https://docs.layerzero.network/v2] ^[https://docs.hyperlane.xyz/] ^[https://docs.wormhole.com/]
 
 **マトリクスの読み方**:横方向で 1 プロトコルの全次元プロファイル · 縦方向で同一次元の 5 極差異を見る。CCTP V2 は狭く深い(USDC のみだが極限まで最適化)· CCIP は institutional-grade(高価だがコンプライアンス)· LayerZero v2 は広く柔軟(カバレッジ最大だが DVN 設定即責任)· Hyperlane はセルフサービス permissionless · Wormhole は Solana 中心 + Guardian モデル遺産。
 

@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/securities-license-stack
-source_hash: 1aeeb80a4be75806
+source_hash: f64d8690999f62a5
 lang: en
 status: machine
 fidelity: ok
 title: "Japan securities license stack"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Japan securities license stack
@@ -29,6 +29,9 @@ This page is a public-source research route, not legal advice. A live product or
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | Trading, clearing, settlement, and PTS route. | Broker registration or suitability. |
 | Product disclosure | Firm pages, prospectuses, EDINET / TDnet, official product pages | Whether the firm currently markets the product and what disclosures attach to it. | A general license conclusion. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html; JSDA member-list route: https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html.]
+
+
 FSA's license portal checked on 2026-07-29 listed the financial instruments business operator, registered financial institution, financial instruments intermediary, securities finance company, clearing, depository, and related registry routes with current as-of dates. The current official financial instruments business operator workbook reports 1,954 operators; the dedicated FinWiki registry-control page keeps that population at summary level rather than copying the workbook. ^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, checked 2026-07-29, 「全業者数: 1954」.]
 
 ## Regime Map
@@ -46,6 +49,9 @@ FSA's license portal checked on 2026-07-29 listed the financial instruments busi
 | Securities finance | Securities finance company | Relevant to [[financial-regulators/japan-securities-finance|Japan Securities Finance]] and margin / lending plumbing. |
 | Clearing / depository | Clearing organization / depository institution | Relevant to [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]]. |
 
+Sources: ^[FSA licensed-operator portal and financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html.]
+
+
 ## Practical Decision Tree
 
 | Question | First place to check | Second check |
@@ -58,6 +64,9 @@ FSA's license portal checked on 2026-07-29 listed the financial instruments busi
 | Is this investment management? | Investment management registration. | Fund documents, trustee / custodian structure, and product disclosures. |
 | Is this a PTS? | FSA registry and venue approval. | Venue rulebook, JSDA / exchange data, clearing / settlement route. |
 | Is this security-token related? | FIEA tokenized securities rows and product classification. | Whether the token is an electronic payment instrument, crypto asset, or FIEA security. |
+
+Sources: ^[This decision tree applies the categories in the FSA operator workbook and supervisory guideline, with JSDA membership as a separate self-regulatory check: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html; https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html.]
+
 
 ## JapanFG Relevance
 
@@ -79,6 +88,9 @@ The same customer journey can contain multiple regulated roles:
 | PTS vs broker SOR | Customer sees one order ticket, but execution may route to TSE, PTS, or internalized OTC flow. | Link to [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] and venue pages. |
 | Securities token vs crypto asset | A token can be marketed as digital, but legal classification changes the regime. | Route to FIEA first when it represents securities rights; route to [[exchanges/INDEX|exchanges]] for crypto-asset exchange status, and to the [[financial-licenses/payment-license-stack|Japan payment license stack]] when it is an electronic payment instrument or stablecoin rather than a security. |
 | "Unlisted" vs "unlicensed" | Not finding a firm in one list may mean wrong category or stale spelling. | Record "not found in checked source as of date" rather than asserting unlicensed status. |
+
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html.]
+
 
 ## Research Checklist
 

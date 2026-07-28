@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/dic
-source_hash: 0449d346c6afec89
+source_hash: 8d1985ffbc0570fa
 lang: en
 status: machine
 fidelity: ok
 title: "Deposit Insurance Corporation of Japan (DIC)"
-translated_at: 2026-06-18T23:59:13.117Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Deposit Insurance Corporation of Japan (DIC)
 
@@ -37,21 +37,23 @@ Private financial institutions ── 1/3  equivalent ── (megabanks, regiona
 
 ### Key chronology
 
-| Year/Month | Event |
+| Date | Event |
 |---|---|
-| **1971-07** | Deposit Insurance Act enters into force; **Deposit Insurance Corporation established** (built with reference to the US FDIC) |
-| 1986 | Introduction of the **financial assistance method** (adding schemes such as rescue mergers to failure resolution) |
-| 1996 | Jusen Resolution Act enacted → Housing Loan Administration Corporation (HLAC) established |
-| **1998-10** | Financial Revitalization Act / Early Strengthening Act enacted → public-fund injection framework established |
-| **2000-04** | Resolution and Collection Corporation ([[financial-regulators/rcc|RCC]]) launched (merger of HLAC + Resolution and Collection Bank; made a DIC subsidiary) |
-| 2001-04 | **Lifting of the pay-off freeze**, stage 1  (time deposits) |
-| **2002-04** | Full removal of pay-off restrictions → postponed to the following year |
-| **2003-05** | **[[megabanks/resona-hd|りそな]] public-fund injection** of approximately 2 兆円 (de facto temporary nationalization) |
-| **2003-11** | **[[regional-banks/ashikaga-hd|足利銀行]] temporary nationalization** (special crisis-management bank 第 1 号) |
-| 2005-04 | **Full implementation of pay-off** (other than settlement deposits, principal up to 1,000 万円 + interest is protected) |
-| 2010-09 | [[financial-regulators/japan-shinko-bank|日本振興銀行]] failure → **first invocation of pay-off in Japan** |
-| 2014 | Amendment of the Deposit Insurance Act → orderly resolution (resolution of financial institutions of systemic importance, etc.) |
-| 2020～ | COVID-crisis response; continued operation of the Act on Strengthening Financial Functions |
+| **1971-07** | Deposit Insurance Act took effect and **Deposit Insurance Corporation established** (modeled with reference to the US FDIC) |
+| 1986 | **Financial-assistance method** introduced (adding schemes such as rescue mergers to failure resolution) |
+| 1996 | Jusen Resolution Act enacted → Housing Loan Administration Corporation established |
+| **1998-10** | Financial Revitalization Act / Early Strengthening Act enacted → public-capital injection framework established |
+| **2000-04** | Resolution and Collection Corporation ([[financial-regulators/rcc|RCC]]) launched (Housing Loan Administration Corporation + Resolution and Collection Bank combined; made a DIC subsidiary) |
+| **2002-04** | Payoff restrictions lifted for time deposits and similar deposits |
+| **2003-05** | Approximately 2 兆円 in **public capital injected into [[megabanks/resona-hd|Resona]]** (de facto temporary nationalization) |
+| **2003-11** | **[[regional-banks/ashikaga-hd|Ashikaga Bank]] temporarily nationalized** (special crisis-management bank 第 1 号)|
+| 2005-04 | **Full implementation of payoff** (deposits other than settlement deposits protected up to 1,000 万円 in principal plus interest) |
+| 2010-09 | [[financial-regulators/japan-shinko-bank|Incubator Bank of Japan]] failed → **Japan's first activation of payoff** |
+| 2014 | Deposit Insurance Act amended → orderly resolution (resolution of systemically important financial institutions, etc.) |
+| 2020 onward | COVID crisis response and continued operation of the Act on Strengthening Financial Functions |
+
+Sources: ^[預金保険機構 公式サイト: https://www.dic.go.jp/; 金融庁「預金保険制度」: https://www.fsa.go.jp/policy/payoff/; e-Gov 預金保険法: https://laws.e-gov.go.jp/law/346AC0000000034.]
+
 
 ## 2. Business areas
 
@@ -65,6 +67,9 @@ Private financial institutions ── 1/3  equivalent ── (megabanks, regiona
 | **Asset purchase** | Purchase of non-performing loans / specified hard-to-recover claims via the RCC | Via [[financial-regulators/rcc|RCC]] |
 | **Strengthening of financial functions** | Support for voluntary capital reinforcement of small and mid-sized financial institutions (Act on Strengthening Financial Functions) | 2008-09  post-Lehman |
 | **Special provisions for financial instruments business operators** | Area of coordination with the Investor Protection Fund | Limited |
+
+Sources: ^[預金保険機構 公式サイト: https://www.dic.go.jp/; 金融庁「預金保険制度」: https://www.fsa.go.jp/policy/payoff/; e-Gov 預金保険法: https://laws.e-gov.go.jp/law/346AC0000000034.]
+
 
 ### Ecosystem of principal institutions
 

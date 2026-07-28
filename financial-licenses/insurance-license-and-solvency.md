@@ -7,9 +7,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, legal, insurance, solvency, ESR, license]
 status: active
@@ -42,6 +42,8 @@ Source hierarchy: FSA license lists identify legal categories; the Insurance Bus
 | Insurance agent / solicitor | Insurance Business Act / FSA guideline / company disclosures | Who solicits or explains insurance for an insurer | [[insurance/life-insurance-channel-mix]], bank / retailer / direct channels |
 | Insurance broker | FSA insurance broker list and FSA guideline | Who mediates insurance contracts as a broker rather than acting as insurer-side agency | [[insurance/insurance-agency-and-brokerage-japan]] |
 | Solvency / ESR | FSA economic-value solvency hub plus company disclosure | How insurer capital adequacy is measured and disclosed | [[insurance/economic-value-based-solvency]], [[insurance/esr-economic-value-solvency]] |
+
+Sources: ^[Insurance Business Act: https://laws.e-gov.go.jp/law/407AC0000000105; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON; FSA insurance supervisory guideline: https://www.fsa.go.jp/common/law/guide/ins/; FSA economic-value-based solvency hub: https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html.]
 
 ## Underwriting And Distribution
 

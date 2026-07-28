@@ -3,13 +3,17 @@ title: AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦
 aliases: [ap2-adoption, ap2-ecosystem, ap2-protocol-landscape]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, adoption, mpp, acp, x402]
 sources:
   - https://github.com/google-agentic-commerce/AP2
+  - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+  - https://a2a-protocol.org/latest/
+  - https://modelcontextprotocol.io/
+  - https://docs.x402.org/
 status: active
 ---
 
@@ -33,13 +37,14 @@ Google の4本柱の組み合わせ:**Google Pay(6 億 mobile wallet ユーザ�
 
 同時期プロトコルとの位置関係:
 
-| プロトコル | 主推進者 | ポジショニング | 決済層 |
+| Protocol | Public steward / specification | Position in the stack | Payment semantics |
 |---|---|---|---|
-| **AP2** | Google | Agent → Merchant 認可決済 | Google Pay / card / USDC |
-| **MPP** | Microsoft | Merchant 側 API 標準 | マルチ |
-| **ACP** | Anthropic | Agent と commerce platform の対話 | Stripe / 汎用 |
-| **x402** | Cloudflare + Coinbase + AWS | HTTP 402 ステータスコード復活 | USDC on Base 優先 |
-| **A2A** | Linux Foundation | 汎用 agent 間通信(payment 含む) | プロトコル非依存 |
+| **AP2** | Google-led public AP2 repository and reference implementation | User intent, cart authorization and payment evidence for agent commerce | Payment-method agnostic; adapters can connect cards, bank rails or digital assets |
+| **A2A** | Public Agent2Agent specification | Agent discovery, task and message interoperability | Does not itself settle payment; AP2 can extend an agent interaction |
+| **MCP** | Public Model Context Protocol specification | Model / agent access to tools, resources and prompts | Does not itself define a payment rail; a paid tool can compose with AP2 or x402 |
+| **x402 V2** | Public x402 specification and documentation | HTTP-native payment negotiation for a resource | `PAYMENT-*` headers select among advertised schemes, networks and assets |
+
+Sources: ^[https://github.com/google-agentic-commerce/AP2] ^[https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol] ^[https://a2a-protocol.org/latest/] ^[https://modelcontextprotocol.io/] ^[https://docs.x402.org/]
 
 ## Origin & evolution
 

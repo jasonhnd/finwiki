@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-securities-finance
-source_hash: e2d505fb0dfaf153
+source_hash: dd060d81603a2f83
 lang: ja
 status: machine
 fidelity: ok
 title: "日本証券金融 (JSF)"
-translated_at: 2026-06-02T14:25:12.443Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本証券金融 (JSF)
@@ -33,6 +33,9 @@ FinWiki では、JSF は [[securities/INDEX|securities]] 側で、個人の信�
 | 上場 | 東京証券取引所 PRIME 市場 |
 | 中核事業 | FIEA 上の証券金融業 |
 
+Sources: ^[Japan Securities Finance company profile: https://www.jsf.co.jp/ja/about/outline.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
+
+
 ## 2. 事業セグメント・マップ
 
 | レイヤー | 機能 |
@@ -41,6 +44,9 @@ FinWiki では、JSF は [[securities/INDEX|securities]] 側で、個人の信�
 | 証券金融 | 上場証券に紐づく貸付、借入、担保金融。 |
 | 証券投資 | 投資および資金運用業務。 |
 | 信託銀行との隣接 | JSF グループには日証金信託銀行を通じた信託銀行機能が含まれる。 |
+
+Sources: ^[Japan Securities Finance company and investor-relations pages: https://www.jsf.co.jp/ja/about/outline.html; https://www.jsf.co.jp/ja/ir.html.]
+
 
 ## 3. 戦略・競争
 

@@ -1,12 +1,12 @@
 ---
 source: agent-economy/circle-agent-stack-usdc
-source_hash: 86a6450bb2bc7033
+source_hash: f37836e4305da284
 lang: en
 model: manual-en-source-sync
 status: machine
 fidelity: ok
 title: "Circle Agent Stack · USDC agent wallets, nanopayments & marketplace"
-translated_at: 2026-07-28T17:01:18.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Circle Agent Stack · USDC agent wallets, nanopayments & marketplace
@@ -40,6 +40,9 @@ Circle Agent Stack turns USDC into an agent-facing operating loop rather than on
 | Agent Marketplace | Provides a machine-readable service catalog where agents can find paid APIs and services. | Service metadata, pricing, capabilities, invocation methods, and provider distinction. |
 | Circle CLI | Gives humans and agents a deterministic command interface for wallet, funding, policy, transfer, swap, contract, and skill operations. | `circle wallet ...`, `circle contract ...`, `circle skill ...`, JSON / quiet output modes for agent use. |
 | Circle Skills | Packages Circle product knowledge and workflows into reusable agent skills. | Skill list / info / install / update commands and the public `circlefin/skills` catalog. |
+
+Sources: ^[https://developers.circle.com/agent-stack] ^[https://developers.circle.com/agent-stack/agent-wallets] ^[https://developers.circle.com/gateway/nanopayments] ^[https://agents.circle.com/services] ^[https://developers.circle.com/agent-stack/circle-cli/command-reference] ^[https://github.com/circlefin/skills]
+
 
 The settlement path is deliberately different from a standard onchain transfer for every API call:
 

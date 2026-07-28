@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-four-poles-overview
-source_hash: 5386c9f95dbcba3f
+source_hash: c9c55756c2f68043
 lang: ja
 status: machine
 fidelity: ok
 title: "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2"
-translated_at: 2026-06-03T01:06:46.360Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2
 
@@ -27,13 +27,16 @@ translated_at: 2026-06-03T01:06:46.360Z
 
 **5 極の差別化ポジショニング**:
 
-| 次元 | LayerZero | CCIP | Wormhole | Hyperlane | CCTP V2 |
+| 次元 | LayerZero | CCIP | Wormhole | Hyperlane | CCTP |
 |---|---|---|---|---|---|
-| アーキテクチャ | DVN マルチシグ検証 · ユーザー設定可能 | RMN + Oracle ネットワーク | Guardian 19 マルチシグ + ZK | Permissionless ISM モジュラー | Circle オフチェーン attestation |
-| チェーンカバレッジ | 100+ | ~20(高品質) | ~30(Solana に強い) | 任意の EVM をセルフサービスで接続 | 12 chains |
-| セキュリティモデル | クライアントが DVN を変更可能 | 高い機関投資家向け水準 | Guardian 委員会 + ZK | ISM を顧客が選択 | Circle への中央集権的信頼 |
-| 代表顧客 | Stargate · Pendle · LiFi | DTCC / SWIFT / Kinexys | Solana · Jito · Pyth | Eclipse · Celestia · long-tail L2 | Coinbase · Circle ネイティブ USDC |
-| ポジショニング | 汎用の標準選択肢 | 機関・規制対応向け | Solana 中心 + 高スループット | Permissionless / open | USDC 専用 · O(1) burn-mint |
+| 中核アーキテクチャ | Endpoint + MessageLib + DVN + Executor | router / lane + oracle network + risk controls | Guardian-signed VAA + product-specific contracts | Mailbox + app-selected ISM + relayer | USDC burn / mint + Circle attestation |
+| 検証設定 | OApp が DVN と confirmation を設定 | protocol lane と token-pool controls | 受信側が chain / emitter / VAA を検証 | アプリが ISM を選択 | Circle の domain と attestation service |
+| Destination 実行 | permissionless Executor または手動 | off-ramp / receiver call | relayer 任意、受信 app が実行 | relayer が Mailbox に配達 | caller / relayer が mint を提出 |
+| 導入時の主要確認 | peer、library、DVN diversity、owner key | lane、token、rate limit、receiver access | emitter、consistency、upgrade authority | validator、ISM、hook、relayer、owner key | finality、message version、recipient、対応 domain |
+| 適用範囲 | general-purpose OApp / token | messaging と managed token transfer | messaging、token bridge、NTT 等 | permissionless interchain app / token route | USDC-native transfer |
+
+Sources: ^[https://docs.layerzero.network/v2] ^[https://docs.chain.link/ccip] ^[https://docs.wormhole.com/] ^[https://docs.hyperlane.xyz/] ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started]
+
 
 CCIP の二層検証(transaction + risk)は、機関投資家に受け入れられるための要である。LayerZero の DVN は汎用標準として使われやすい。Wormhole の TVL は大きいが、その強さは Solana エコシステムへの集中に由来する。Hyperlane は long-tail チェーンをリスト掲載待ちにしない。完全な対照は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対比マトリクス]] を参照。CEX deposit/withdrawal 経路上の実分布は [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] と対照。
 

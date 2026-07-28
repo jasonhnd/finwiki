@@ -1,11 +1,11 @@
 ---
 source: systems/institutional-dlt-adoption-comparison-2026
-source_hash: 5844b8aa6372e860
+source_hash: 4effd695a45c4e85
 lang: en
 status: machine
 fidelity: ok
 title: "Institutional DLT Platform Adoption Comparison 2026 · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon"
-translated_at: 2026-06-01T04:15:40.164Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Institutional DLT Platform Adoption Comparison 2026 · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon
@@ -76,15 +76,17 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Institutional DLT Selection Matrix
 
-| Customer type | First choice | Next choice | Rationale |
+| Requirement pattern | Platform families that may be evaluated | Main design question | Required public evidence |
 |---|---|---|---|
-| G-SIB investment bank + asset management + custody | Canton | Besu / Corda | multi-party atomic settlement + application-level privacy |
-| Publicly issuable token MMF / Treasury issuance by asset managers | Public Ethereum L1 | Avalanche / Aptos / Stellar | KYC-completed secondary liquidity on public chains + stablecoin interoperability |
-| Central-bank wholesale CBDC pilot | Corda / Besu / Canton (parallel pilots) | — | Multiple platforms run in parallel at the pilot stage |
-| Internal ledger of major custody banks | Besu / Canton | — | EVM compatibility vs DAML multi-party atomicity |
-| Private credit / private equity asset management | Avalanche subnet / Securitize multichain rollout | Public Ethereum L1 | tokenization-as-service + multichain distribution |
-| Trade finance / supply chain | Fabric / other enterprise platforms | — | Historical inertia + non-financial institution customers |
-| Cross-G-SIB CBDC pilot (BIS Agora-like) | Besu / Hedera / Canton (multiple platforms in parallel) | — | Multiple chains run in parallel at the pilot stage; no unified answer |
+| Private workflow / atomic settlement among multiple institutions | Canton, Corda, Fabric and permissioned EVM | How are participant-level privacy, finality, identity and upgrade authority implemented? | Production architecture, operator model, governance and incident procedures |
+| Tokenized fund / security for public markets | Public L1 / L2 and permissioned distribution layer | How are transfer restrictions, wallet eligibility, cash leg and public verifiability reconciled? | Issuer prospectus, transfer-agent / custodian disclosure and contract addresses |
+| Wholesale CBDC / regulated settlement pilot | Compare multiple permissioned / public DLTs neutrally | Does it satisfy central-bank money, DvP / PvP, privacy and offline / resilience requirements? | Pilot report, participants, scope and results; do not treat a pilot as production adoption |
+| Internal token ledger for a single institution | Permissioned EVM, Corda, Fabric or Canton application | Is external interoperability needed, and can a single administrator be identified? | Control ownership, audit trail, reconciliation and exit plan |
+| Private-market asset distribution | Public chain, permissioned subnet / appchain or hybrid model | Who handles investor gating, secondary transfers and NAV / servicing data? | Regulated entities, off-chain records and redemption mechanics |
+| Trade finance / supply chain | Fabric, Corda, permissioned EVM, etc. | How are document state, legal title, oracles and counterparty onboarding connected? | Legal rulebook, participant duties and document / payment finality |
+
+Sources: ^[https://www.canton.network/] ^[https://r3.com/products/corda/] ^[https://www.hyperledger.org/projects/fabric] ^[https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund] ^[https://www.avax.network/subnets]
+
 
 ## Actual Deployment Examples Across Multiple G-SIBs
 
@@ -113,18 +115,20 @@ Important difference: **public-chain RWA tracking is independently auditable by 
 
 ## Use-case Axis · Who Chooses Which Platform
 
-| Use case | Platform choice | Rationale |
-|---|---|---|
-| Major-bank internal 24/7 repo + collateral mobility | Canton (JPM / GS / DTCC) | multi-party atomicity + application privacy + DAML expressiveness |
-| External issuance of tokenized MMF / Treasury (secondary tradability) | Public Ethereum L1 | KYC-completed institutional wallets + stablecoin interoperability + third-party audit |
-| Tokenized private credit / private equity | Avalanche subnet / Polygon PoS / Public ETH multichain | tokenization-as-service + Securitize route |
-| Central-bank wholesale CBDC pilot | Corda / Besu / Canton in parallel | Multiple platforms piloted in parallel |
-| Trade finance / supply-chain tracking | Fabric / proprietary enterprise platform | Historical inertia + non-financial customers |
-| Tokenized deposit (inside a single bank) | Besu (HSBC TDS / Citi CTS) / Canton | EVM compatibility vs DAML atomicization |
-| Cross-G-SIB CBDC pilot ([[fintech/bis-project-agora-overview\|BIS Project Agora]]) | Besu / Hedera / Canton multi-platform | No unified answer at the pilot stage |
-| Secondary trading of tokenized equities | Public Ethereum L1 / Solana / some L2 s | Closest to stablecoin liquidity |
-| Stablecoin payment (retail) | Public L2 (Base / Tron / Polygon PoS) | Low gas + user-wallet density |
-| Tokenized record management for custody banks | Canton (BNY) / Corda (SDX / HQLAᵡ) | application-layer privacy |
+| Use case | Required privacy / permission model | Settlement / interoperability requirement | Platform-family evaluation axis |
+|---|---|---|---|
+| Repo / collateral mobility | Selective disclosure by participant / transaction | Atomic DvP and reconciliation with existing CSD / custodian | Identity, privacy and finality of Canton / Corda / permissioned EVM |
+| Tokenized MMF / Treasury | Eligible-holder controls and public auditability | Stablecoin / bank-money redemption and transfer-agent record | Alignment between public-chain and permissioned-distribution contract / legal records |
+| Private credit / private equity | Investor eligibility and confidential servicing data | NAV, subscription, redemption and secondary transfer | Off-chain control boundary of public, subnet / appchain and hybrid models |
+| Wholesale CBDC pilot | Central-bank-defined access and privacy | PvP / DvP, resilience and inter-ledger messaging | Compare platform-neutral requirements and pilot reports first |
+| Trade finance | Consortium identity and document-level visibility | Coordination of legal documents, goods events and payments | Endorsement / notary / smart-contract model and legal rulebook |
+| Tokenized deposit | Bank-controlled issuance and customer entitlement | Core ledger, payment rail and external redemption | Control ownership and reconciliation for EVM / Corda / Canton, etc. |
+| Tokenized-equity secondary trading | Regulated venue / broker / investor permissions | Cash leg, corporate actions and settlement finality | Venue license, transfer restrictions, custody and public verifiability |
+| Retail stablecoin payment | Open wallet access or issuer controls | Low-friction payment, redemption and cross-chain / off-ramp | Supported assets / chains, fees, wallet safety and issuer terms |
+| Custody recordkeeping | Strict role segregation and confidential positions | Reconciliation with external chain / CSD / fund administrator | Audit trail, key management, recovery and data export / exit |
+
+Sources: ^[https://www.canton.network/] ^[https://r3.com/products/corda/] ^[https://www.hyperledger.org/projects/fabric] ^[https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund] ^[https://www.franklintempleton.com/investments/options/money-market-funds] ^[https://www.avax.network/subnets]
+
 
 ## R3 / Digital Asset Integration Timeline (Public Disclosure Basis)
 

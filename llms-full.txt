@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T06:04:48+09:00
+Generated: 2026-07-29T07:12:20+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1599
-Public pages listed: 1598
+Markdown files: 1600
+Public pages listed: 1599
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1598
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Regional-bank, retail-finance, and securities-firm low-marker corrections (#224), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 01 corrections (#231), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -394,7 +394,7 @@ Public pages listed: 1598
 - Type: wiki_entry
 - Summary: End-user funds in an embedded wallet are on-chain at an address the user controls jointly with the provider, not on the provider's balance sheet. If Privy, Stripe (the Privy parent), Coinbase CDP, or the underlying AWS Bedrock TEE infrastructure fails, the legal-bankruptcy claim on the cash a user m
 - Headings: Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails, TL;DR, Wiki route, Four failure scenarios, MPC sharding · the structural protection, Social-recovery + Passkey on-device shards, Multisig escape hatches for institutional users, Stripe Treasury · the fiat-side custody chain
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-landscape-2026-consolidation/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/, https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-landscape-2026-consolidation/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/, https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/, https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/
 
 ### Embedded-wallet landscape 2026 · post-consolidation provider map
 - URL: https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-landscape-2026-consolidation/
@@ -407,7 +407,7 @@ Public pages listed: 1598
 - Type: wiki_entry
 - Summary: By mid-2026 the embedded-wallet category has compressed from a long tail of 20+ SDK vendors into a default-tier duopoly (Privy under Stripe, Coinbase CDP) and a secondary tier (Magic, thirdweb, Dynamic, Web3Auth, Particle Network, Crossmint) competing for niches the hyperscalers' default routing doe
 - Headings: Embedded-wallet landscape 2026 · post-consolidation provider map, TL;DR, Wiki route, Default-tier vs secondary-tier split, The five drivers of consolidation, Privy (Stripe), Coinbase CDP, Magic
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/agent-economy/ap2-overview/, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/, https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/, https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/, https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/agent-economy/ap2-overview/, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/, https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/, https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/, https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/
 
 ### 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀
 - URL: https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/
@@ -6314,7 +6314,7 @@ Public pages listed: 1598
 - Domain: financial-regulators
 - Type: wiki_entry
 - Summary: This page is the execution checklist for expanding financial-regulators INDEX from a major-institution wiki into a registry-aware Japan financial institution map.
-- Headings: Missing Japan financial institutions expansion backlog, Overview, Official registry baseline, Batch A: Market infrastructure first, Batch B: Bank operating-company pages, B1. Megabank / trust / internet-bank operating companies, B2. Regional banks still missing or only group-covered, Batch C: Securities, asset management, and FIEA operators
+- Headings: Missing Japan financial institutions expansion backlog, Overview, Historical official-registry baseline (May 2026 snapshot), Batch A: Market infrastructure first, Batch B: Bank operating-company pages, B1. Megabank / trust / internet-bank operating companies, B2. Regional banks still missing or only group-covered, Batch C: Securities, asset management, and FIEA operators
 - First resolved wikilinks: https://finwiki.zksc.io/CHANGELOG.md, https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/banking/regional-bank-api-digital-partnership-route/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/aplus/
 
 ### 日本海事協会 (ClassNK)
@@ -17151,6 +17151,15 @@ Public pages listed: 1598
 - Type: release_note
 - Headings: 翻訳保護と公開隔離の強化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 表出典124件と公開事実の校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-10.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-10.md
+- Source path: releases/v2026.07.29-10.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-10.md
+- Domain: releases
+- Type: release_note
+- Headings: 表出典124件と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md
 - Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-2.md
@@ -19295,7 +19304,7 @@ Public pages listed: 1598
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: Hook-Enforced Compliance, Wiki route, 5 層防御モデル（personal OS）, 首次 verification pattern, 昇級階段（違反頻度に応じた強制度上昇）, 応用可能性, 認知特性との関係, 関連
+- Headings: Hook-Enforced Compliance, Wiki route, 5 層の公開 control-point モデル, 首次 verification pattern, 昇級階段（違反頻度に応じた強制度上昇）, 応用可能性, 認知特性との関係, 関連
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/domains/systems/, https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/
 
 ### Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー

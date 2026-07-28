@@ -1,12 +1,12 @@
 ---
 source: trade/japan-fta-epa-rcep-utilization
-source_hash: 752f3c85630cab79
+source_hash: b44426468aa83230
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "FTA / EPA / RCEP の活用 — 特恵貿易協定と日本企業が実際にそれを利用する方法"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # FTA / EPA / RCEP の活用 — 特恵貿易協定と日本企業が実際にそれを利用する方法
 
@@ -28,6 +28,9 @@ translated_at: 2026-06-05T00:00:00.000Z
 | **FTA（自由貿易協定）** | 加盟国・地域間の物品の関税撤廃 | より狭い用語 |
 | **EPA（経済連携協定）** | FTA **に加えて**、サービス、投資、知的財産、人の移動、政府調達 | 日本の看板となる手段 — 日本の協定の大半は単なる「FTA」ではなく「EPA」 |
 | **メガ地域（RCEP / CPTPP）** | 多くの経済を跨ぐ複数国間 EPA で、枠組み全体にわたる原産地の**累積**を伴う | 2020 年代の構造的転換 |
+
+Sources: ^[Ministry of Foreign Affairs of Japan, Free Trade Agreement / Economic Partnership Agreement hub: https://www.mofa.go.jp/policy/economy/fta/; Japan Customs English portal: https://www.customs.go.jp/english/; RCEP Secretariat: https://rcepsec.org/.]
+
 
 日本が意図的に「**EPA**」を使うのは、その協定が関税以上のものを束ねているからである。関税引き下げは [[trade/japan-customs-tariff-origin-clearance|通関・関税・原産地証明]] で説明する関税表の **EPA 税率欄**から読み取られる — ただし適格な原産地証明があってこそである。
 

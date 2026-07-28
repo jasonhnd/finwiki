@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/dbj
-source_hash: a36aa6ee75099467
+source_hash: bbe4bec404e5ea2a
 lang: en
 status: machine
 fidelity: ok
 title: "Development Bank of Japan (DBJ)"
-translated_at: 2026-06-15T03:48:21.879Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Development Bank of Japan (DBJ)
@@ -43,29 +43,35 @@ DBJ (Development Bank of Japan Inc.・Minister of Finance 100%)
 
 ### Key chronology
 
-| Year/Month | Event |
+| Date | Event |
 |---|---|
-| 1951 | Japan Development Bank established (long-term credit institution of the postwar reconstruction era) |
+| 1951 | Japan Development Bank established (a long-term credit institution for postwar reconstruction) |
 | 1956 | Hokkaido-Tohoku Development Finance Public Corporation established |
 | 1999-10 | Japan Development Bank + Hokkaido-Tohoku Development Finance Public Corporation → **Development Bank of Japan** (special public corporation) |
-| 2008-10-01 | **Incorporation as a stock company** (launch of Development Bank of Japan Inc.) |
-| 2008-2009 | Lehman shock → activation of crisis-response operations |
-| 2011-03 | Great East Japan Earthquake → full privatization postponed (2012  legal amendment) |
-| 2015 | **Launch of "Specified Investment Business"** (on the order of 3 兆円, a large-scale version of public-private funds) |
-| 2020-2022 | COVID crisis-response lending → privatization further postponed |
-| 2023-2025 | Strengthening of GX (Green Transformation) investment |
+| 2008-10-01 | **Converted to a stock company** (Development Bank of Japan Inc. launched) |
+| 2008-2009 | Lehman shock → crisis-response operations activated |
+| 2011-03 | Great East Japan Earthquake → full privatization postponed (2012 legal amendment) |
+| 2015 | **“Specified Investment Business” launched** (supplying growth capital partly using government investment) |
+| 2020-2022 | COVID crisis-response lending → privatization postponed further |
+| 2023-2025 | Stronger GX (Green Transformation) investment |
+
+Sources: ^[DBJ「沿革」: https://www.dbj.jp/co/info/history/; DBJ「特定投資業務」: https://www.dbj.jp/service/special/; DBJ 会社概要: https://www.dbj.jp/co/info/outline.html.]
+
 
 ## 2. Business segment map
 
 | Segment | Main function | Characteristics |
 |---|---|---|
-| Long-term lending | Long-term funds of over 5–30  years for mid-tier and large enterprises | Strong in infrastructure, energy, and environmental fields |
-| Equity investment | PE investment, mezzanine, preferred-stock underwriting | Coordinates with private PE; many business-revitalization deals |
-| M&A / advisory | Industry-reorganization, cross-border advisory | Neutrality unique to policy-based finance |
-| Crisis-response operations | Emergency fund supply (designated financial institution) | Activated for Lehman / Great East Japan Earthquake / COVID |
-| Specified Investment Business (2015–) | ESG/GX/DX-focused investment on the order of 3 兆円 | The flagship business of "risk-money supply" |
-| Regional revitalization | Regional-bank cooperative funds, support for regional enterprises | Joint establishment of regional funds across the country |
-| Think tank | Value Management Institute (VRI) | Industry research, regional-policy reports |
+| Long-term lending | Long-term funding of 5–30 years or more for mid-sized and large companies | Strong in infrastructure, energy and environmental fields |
+| Equity investment | PE investment, mezzanine and preferred-share underwriting | Coordinates with private PE; many business-revitalization transactions |
+| M&A and advisory | Industry restructuring and cross-border advice | Neutrality distinctive to policy finance |
+| Crisis-response operations | Emergency funding (as a designated financial institution) | Activated for Lehman / Great East Japan Earthquake / COVID |
+| Specified Investment Business (2015–) | Supplying growth capital partly using government investment (GX, deep tech, regional projects, etc.) | Flagship “risk-capital supply” business |
+| Regional revitalization | Regional-bank co-investment funds and support for regional companies | Jointly establishes regional funds across Japan |
+| Think tank | Value Management Institute (VRI) | Industry research and regional-policy reports |
+
+Sources: ^[DBJ 会社概要（業務範囲）: https://www.dbj.jp/co/info/outline.html; DBJ「特定投資業務」: https://www.dbj.jp/service/special/; DBJ 公式サイト: https://www.dbj.jp/.]
+
 
 ### Positioning
 

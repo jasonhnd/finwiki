@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/taiyo-grant-thornton
-source_hash: b1d3e6c6f3562658
+source_hash: b3022b428452dd7c
 lang: en
 status: machine
 fidelity: ok
 title: "Grant Thornton Taiyo LLC (太陽有限責任監査法人)"
-translated_at: 2026-06-18T23:59:13.081Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Grant Thornton Taiyo LLC (太陽有限責任監査法人)
 
@@ -68,12 +68,15 @@ Grant Thornton Taiyo has strengths in audits of mid-tier listed companies, IPO-p
 
 ## 6. Competitive landscape
 
-| Tier | Firm | Strength axis |
+| Tier | Firm | FinWiki analysis focus (organized from each firm's public information) |
 |---|---|---|
-| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | Major listings / mega FGs |
-| **Quasi-major (Tier 2)** | **Grant Thornton Taiyo** | **Mid-tier listings / IPO / VASP** |
-| Quasi-major (Tier 2)| BDO Sanyu & Co. | Mid-tier / foreign-affiliated |
-| Small-and-medium | PwC Kyoto (former) / many others | Regional / specialized |
+| Big 4 | [[financial-regulators/ey-shinnihon|EY ShinNihon]] / [[financial-regulators/deloitte-touche-tohmatsu|Tohmatsu]] / [[financial-regulators/kpmg-azsa|KPMG AZSA]] / [[financial-regulators/pwc-aarata|PwC Japan LLC]] | Broad audit and assurance work, including large listed companies and financial groups |
+| **Quasi-major (Tier 2)** | **Grant Thornton Taiyo** | **Mid-sized listed companies, IPOs and international-network coordination** |
+| Quasi-major (Tier 2)| BDO Sanyu & Co. | Mid-sized companies, IPOs and international-network coordination |
+| Small | Numerous | Regional and industry specialization |
+
+Sources: ^[This comparison is a FinWiki analytical grouping based on public firm descriptions, not an official market-share ranking: Grant Thornton Taiyo https://www.grantthornton.jp/about/firm/; BDO Sanyu https://www.bdo.or.jp/firm/; JICPA https://jicpa.or.jp/; CPAAOB https://www.fsa.go.jp/cpaaob/.]
+
 
 ## Related
 

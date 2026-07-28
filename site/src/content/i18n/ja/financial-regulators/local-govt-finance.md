@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/local-govt-finance
-source_hash: 8d4c4a3c5a567622
+source_hash: 270042ce66da8bc3
 lang: ja
 status: machine
 fidelity: ok
 title: "地方公共団体金融機構（JFM）"
-translated_at: 2026-06-02T14:54:39.092Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 地方公共団体金融機構（JFM）
 # 地方公共団体金融機構 (JFM)
@@ -70,6 +70,9 @@ translated_at: 2026-06-02T14:54:39.092Z
 | 2018-07 | 西日本豪雨 → 災害復興融資対応 |
 | 2019-10 | 令和元年東日本台風 → 災害復興融資対応 |
 | **2024-01-01** | **能登半島地震** → 災害復興融資対応 ^[extracted]
+
+Sources: ^[地方公共団体金融機構「プロフィール・沿革」: https://www.jfm.go.jp/about/overview/profile.html; 同「復興支援相談」: https://www.jfm.go.jp/support.html; 同「貸付対象事業・条件一覧」: https://www.jfm.go.jp/financing/loan/index.html.]
+
 
 ## 3. 事業セグメント map
 

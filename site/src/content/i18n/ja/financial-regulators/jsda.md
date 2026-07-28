@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/jsda
-source_hash: 11f950cdc9e44631
+source_hash: ed537253af057abf
 lang: ja
 status: machine
 fidelity: ok
 title: "日本証券業協会 (JSDA)"
-translated_at: 2026-06-15T03:48:21.908Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本証券業協会 (JSDA)
@@ -25,6 +25,9 @@ JapanFG のマッピングにおいて、JSDA は [[securities-firms/smbc-nikko]
 | 自主規制機関 | JSDA | 協会会員向けの自主規制ルールを定め執行する；検査、モニタリング、懲戒処分、外務員の資格／登録業務、苦情相談、あっせんを行う |
 | 会員企業 | 証券会社、第一種金融商品取引業者、および証券業務を行う登録金融機関 | 本ウィキでの例には [[securities-firms/smbc-nikko]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/mizuho-securities]]、[[securities-firms/rakuten-securities]] が含まれる |
 | 顧客／市場層 | 投資家、発行体、PTS／取引所外フロー、店頭債券市場 | JSDA のルールと市場インフラは、勧誘、保管、分別管理、取引報告、紛争処理、市場の透明性に影響する |
+
+Sources: ^[JSDA profile: https://www.jsda.or.jp/en/about/profile/index.html; JSDA major activities: https://www.jsda.or.jp/en/about/major-activities/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 
 JSDA 自身の英語プロフィールは、同協会を自主規制機関 (SRO) であると同時に業界の対話者であると説明している。その使命は、会員による公正かつ円滑な証券取引を通じた投資家保護、ならびに日本の金融商品取引業の健全な発展である。[^jsda-profile]
 
@@ -62,6 +65,9 @@ JSDA は、証券会社のビジネスモデルを法律、コンプライアン
 | なぜ銀行系証券子会社は銀行と異なる挙動をするのか？ | [[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]] などの証券子会社やグループ同業は、銀行監督レーンだけでなく FIEA／JSDA レーンに位置する。 |
 | 「免許」と「自主規制」を何が分けるのか？ | FSA 登録は公的な免許／登録層；JSDA の会員資格と自主規制は行為と市場インフラの層である。 |
 | 証券ページはコンプライアンス・レジームをどう引用すべきか？ | 企業ページを、ライセンススタックについては [[financial-licenses/INDEX]] に、JSDA の自主規制機能については本ページにリンクする。 |
+
+Sources: ^[JSDA member lists: https://www.jsda.or.jp/en/about/members-list/index.html; JSDA major activities: https://www.jsda.or.jp/en/about/major-activities/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 
 JSDA の 7, 2026 年 5 月時点の会員一覧ページによれば、JSDA は正会員 259  社、特定業務会員 14  社、特別会員 198  社を報告している。[^jsda-members] この数値は市場規模の把握に有用だが、現在の定量的な主張を行う際には更新すべきである。
 

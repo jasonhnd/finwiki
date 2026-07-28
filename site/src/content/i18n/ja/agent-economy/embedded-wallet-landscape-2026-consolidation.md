@@ -1,11 +1,11 @@
 ---
 source: agent-economy/embedded-wallet-landscape-2026-consolidation
-source_hash: cf919546a0d0d7ec
+source_hash: 55e2ebb37bf93e23
 lang: ja
 status: machine
 fidelity: ok
 title: "埋込型ウォレットの全体地図 2026 · 統合後のプロバイダーマップ"
-translated_at: 2026-06-02T11:47:37.254Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 埋込型ウォレットの全体地図 2026 · 統合後のプロバイダーマップ
@@ -22,16 +22,19 @@ translated_at: 2026-06-02T11:47:37.254Z
 
 2026中盤時点で公開ドキュメントとハイパースケーラーの発表から見えるカテゴリ区分:
 
-| 層 | プロバイダー | 所有者 | ハイパースケーラーのデフォルト | 公開フットプリント | 備考 |
-|---|---|---|---|---|---|
-| デフォルト | Privy | Stripe(2025年6月買収) | AWS Bedrock AgentCore(デフォルト)、Azure AI Foundry(2つのデフォルトのうち1つ) | 110M+ ウォレット、1,000+ 統合 | Stripe Connect + Bridge USDB レール経由でルーティング([[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]] 参照) |
-| デフォルト | Coinbase CDP | Coinbase(NASDAQ: COIN) | AWS Bedrock AgentCore(Privy と共同デフォルト)、GCP Vertex AI Agent Builder(デフォルト) | 約 150K developer、約 8K dApp、約 5M MAU の埋込型ウォレット | Base + USDC + Onramp にデフォルトでバインド |
-| 二次 | Magic | 独立系(Tiger / SV Angel) | ハイパースケーラーのデフォルトではない | ロングテールの Web3 SaaS クライアント | Magic Link / OAuth + DKLs MPC、MAU 当たりの階層型価格 |
-| 二次 | thirdweb | 独立系 | ハイパースケーラーのデフォルトではない | NFT / ゲーム / コンシューマー dApp に厚い | InAppWallet + スマートアカウント SDK、チェーン非依存、部分的にオープンソース |
-| 二次 | Dynamic | 独立系(a16z crypto) | ハイパースケーラーのデフォルトではない | DeFi / コンシューマーファイナンス志向 | マルチチェーンログイン、埋込型 + 外部ウォレットのブリッジ |
-| 二次 | Web3Auth | 独立系(Torus Labs、BNB-Labs 出資) | ハイパースケーラーのデフォルトではない | ロングテールの Web3 + エンタープライズ | tKey + OAuth シェア再構成、オープンソース |
-| 二次 | Particle Network | 独立系 | ハイパースケーラーのデフォルトではない | EVM + BTC + マルチチェーン | モジュラー SDK + 独自のチェーン抽象化層 |
-| 二次 | Crossmint | 独立系 | ハイパースケーラーのデフォルトではない | NFT / コマース / RWA | 法定通貨でファンドするウォレット + レシートレールに特化 |
+| Provider | 公開 document 上の product surface | sourceable な corporate / integration fact | Live selection checks |
+|---|---|---|---|
+| **Privy** | Embedded / server wallet、authorization、recovery control | Privy は Stripe による acquisition を発表。AWS は Stripe Privy connector を文書化 | wallet ownership、signer / policy model、supported chain、export / recovery、pricing |
+| **Coinbase CDP** | Developer / embedded wallet、policy、agent tooling | AWS は Coinbase CDP connector を文書化 | wallet type、key / policy ownership、supported network、onramp / off-ramp、limit |
+| **Magic** | Authentication と wallet infrastructure | old funding report ではなく current Magic corporate / product documentation を使う | wallet architecture、chain support、recovery、server signing、pricing |
+| **thirdweb** | In-app / smart wallet と developer infrastructure | product scope は current thirdweb portal が定義 | account type、paymaster / bundler、supported chain、key management |
+| **Dynamic** | Wallet / identity orchestration と embedded wallet | product scope は current Dynamic docs が定義 | wallet ownership、external-wallet linking、chain、server / delegated signing |
+| **Web3Auth** | Wallet infrastructure と key-management / recovery option | product scope は current Web3Auth docs が定義 | threshold / recovery design、hosting、chain adapter、export |
+| **Particle Network** | Wallet abstraction と chain-abstraction product | product scope は current Particle docs が定義 | account model、bundler / paymaster、chain support、bridge / solver dependency |
+| **Crossmint** | Wallet、payment / checkout、tokenization API | product scope は current Crossmint docs が定義 | custody / recovery、chain / product support、compliance role、payment terms |
+
+Sources: ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/] ^[https://magic.link/docs] ^[https://portal.thirdweb.com/] ^[https://docs.dynamic.xyz/] ^[https://web3auth.io/docs/] ^[https://docs.particle.network/] ^[https://docs.crossmint.com/] ^[https://privy.io/blog/announcing-our-acquisition-by-stripe]
+
 
 「デフォルト」とは、その SDK がハイパースケーラーのファーストクラスのエージェントオーケストレーション文書に推奨パスとして現れ、資格情報 / 課金 / IAM の配線が事前に組まれていることを意味する。開発者は他の任意の SDK に切り替え可能だが、ネット新規のエージェントの大半はデフォルトを継承する。
 
@@ -119,12 +122,15 @@ translated_at: 2026-06-02T11:47:37.254Z
 
 2026 中盤のハイパースケーラー公開ドキュメントで見えるデフォルト配置:
 
-| ハイパースケーラー | エージェントプラットフォーム | デフォルトウォレットプロバイダー | 備考 |
+| Cloud platform | Public agent / payment surface | Public docs が支える wallet-provider statement | Provider を「default」と呼ぶ前に必要な evidence |
 |---|---|---|---|
-| AWS | Bedrock AgentCore Payments | Privy + Coinbase CDP | 2025-Q3 GA 以来公開、x402 + Bazaar MCP 統合、[[agent-economy/x402-http-payment-overview|x402 overview]] 参照 |
-| Azure | AI Foundry Agent Service | Privy をサポート対象のデフォルトとして掲載、2つ目のデフォルトは公開ドキュメントで曖昧 | Microsoft の Stripe との関係が構造的アンカー |
-| Google Cloud | Vertex AI Agent Builder | CDP 寄り、Coinbase との AP2 共同執筆が構造的アンカー | [[agent-economy/ap2-overview|AP2 overview]] 参照 |
-| Cloudflare | Workers AI Agents | x402統合、ウォレットプロバイダーの選択はなお開発者側 | より低レイヤー:ID をプロビジョニングするのではなく決済をルーティングする |
+| **AWS Bedrock AgentCore** | AgentCore payments は x402 orchestration、spending limit、payment connector を文書化 | current AWS docs は Coinbase CDP と Stripe Privy connector type を列挙し、payment feature の release stage を示す | exact region / stage、connector type、template、service terms、current API reference |
+| **Azure AI Foundry** | Public agent platform と tool / identity integration | platform landing page だけでは embedded-wallet default を確立しない | provider と lifecycle support を明記した current Microsoft connector page / API |
+| **Google Cloud agent platform** | agent tooling と Google-led AP2 material | AP2 participation / co-authorship は wallet default を確立しない | wallet connector と supported flow を明記した current Google product document |
+| **Cloudflare developer platform** | Workers / Agents と payment-protocol integration を組み合わせられる | x402 support だけでは wallet を provision / select しない | client / server integration、signer ownership、supported scheme の current Cloudflare docs |
+
+Sources: ^[https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html] ^[https://azure.microsoft.com/en-us/products/ai-foundry] ^[https://cloud.google.com/agent-builder] ^[https://docs.x402.org/]
+
 
 ## Stripe による Privy 所有 — 戦略的含意
 
@@ -139,14 +145,13 @@ Stripe は 2025年6月に Privy を買収した。公開報道では取引額を
 
 以降の M&A 活動
 
-| 日付 | イベント | 買い手 | 対象 | 公表価格 |
-|---|---|---|---|---|
-| 2025-06 | Stripe が Privy を買収 | Stripe | Privy | 約 $300-500M(一部のソースは最大 $1.1B) |
-| 2025-06 | Stripe が Bridge を買収 | Stripe | Bridge | 約 $1.1B |
-| 2024-Q3 | Coinbase が ウォレット API + Cloud を CDP リブランドに統合 | Coinbase | (内部) | n/a |
-| 2025-04 | Coinbase が CDP 上に AgentKit を出荷 | Coinbase | (内部) | n/a |
-| 2025-Q3 | AWS が AgentCore のデフォルトとして Privy + CDP を選定 | AWS / Stripe / Coinbase | (プラットフォームデフォルト) | n/a |
-| 未決 | thirdweb / Magic / Web3Auth / Dynamic の買収観測 | (各種) | (各種) | 確認なし |
+| 日付 | 確認済みの corporate event | Primary evidence | 記載可能な terms |
+|---|---|---|---|
+| **2025-02-04** | Stripe が Bridge acquisition completion を発表 | Stripe newsroom | completion は公開済み。引用 announcement は purchase price を示さない |
+| **2025-06-11** | Privy が Stripe による acquisition を発表 | Privy announcement | acquisition と intended continued product operation は公開済み。引用 announcement では terms 非開示 |
+
+Sources: ^[https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition] ^[https://privy.io/blog/announcing-our-acquisition-by-stripe]
+
 
 蓋然性で重み付けされるが未確認:ハイパースケーラーが Stripe-Privy と Coinbase-CDP に対抗するため二次層のプロバイダーを買収する可能性がある。公開ドキュメントと公開 M&A 届出は、2026中盤時点でこれを示していない。
 

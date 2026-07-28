@@ -1,11 +1,11 @@
 ---
 source: systems/mev-flashbots-suave-order-flow-auction
-source_hash: 3d4555f954345202
+source_hash: e0b5cde8f11a859e
 lang: ja
 status: machine
 fidelity: ok
 title: "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions"
-translated_at: 2026-06-03T01:06:46.350Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions
 
@@ -85,12 +85,15 @@ User tx ──► mempool(public または private OFA)
 
 OFAs は user transactions を **private auction** にルーティングし、searchers がユーザーに最良執行を与えるために競う。
 
-| OFA | 仕組み | 用途 |
+| OFA / channel | 公開文書で確認できる mechanism | Agent integration boundary |
 |---|---|---|
-| **CoW Swap** | coincidence-of-wants matching を伴う batch auction | MEV protection 付き swap |
-| **UniswapX** | Permit2 + signed orders、fillers が競争 | Aggregator + MEV protection |
-| **1inch Fusion** | signed orders の resolver-based fill | 同じ pattern |
-| **MEV Blocker** | 直接的な mempool replacement | RPC-level protection |
+| **CoW Protocol** | user が intent に署名し、solver が batch auction で競争し、coincidence of wants を利用できる | order validity、signing domain、solver result、settlement contract を検証する |
+| **UniswapX** | Permit2-based signed order を、order の auction parameter に従って競合 filler が fill する | chain、nonce、deadline、reactor、output constraint を検証する |
+| **1inch Fusion** | signed swap intent を eligible resolver が Fusion auction flow で解決する | resolver / API terms、auction parameter、allowance、settlement status を確認する |
+| **MEV Blocker** | RPC endpoint が transaction を public mempool から迂回させ、searcher / backrun flow を利用する | RPC availability と policy が追加依存となる。signed transaction limit は引き続き user の責任 |
+
+Sources: ^[https://docs.cow.fi/] ^[https://docs.uniswap.org/contracts/uniswapx/overview] ^[https://help.1inch.io/en/articles/6800254-1inch-fusion-mode] ^[https://docs.mevblocker.io/]
+
 
 On-chain trades を実行する AI agents にとって、OFAs は **構造的な MEV protection** を提供する。public mempool に broadcast する(sandwich risk)のではなく、agent が intent に署名し、resolver がその充足を競う。
 

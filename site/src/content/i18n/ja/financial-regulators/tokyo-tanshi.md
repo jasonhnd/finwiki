@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/tokyo-tanshi
-source_hash: 9f6045db5f4416cd
+source_hash: 23c81eb0cc9be788
 lang: ja
 status: machine
 fidelity: ok
 title: "東京短資 (Tokyo Tanshi)"
-translated_at: 2026-06-18T23:59:13.091Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 東京短資 (Tokyo Tanshi)
@@ -46,6 +46,9 @@ translated_at: 2026-06-18T23:59:13.091Z
 | **日銀オペ対手** | 日銀公開市場操作（短期国債買入・共通担保資金供給・国債売現先等）対手として参加 | 日銀 |
 | **法人向け FX ブローカレッジ** | 大口外為のインターバンク仲介、法人ヘッジ | 邦銀・外銀・大企業財務部 |
 | **短期金融商品関連サービス** | レポ取引仲介・債券貸借取引仲介等 | 同上 |
+
+Sources: ^[東京短資 公式サイト: https://www.tokyotanshi.co.jp/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm; 日本銀行「オペレーション」: https://www.boj.or.jp/mopo/measures/mkt_ope/index.htm.]
+
 
 短資業者は自己勘定での取引ポジションを大きく取らず、**仲介手数料（ブローカレッジ）が主収益**。マイナス金利下では金利スプレッドが消失しコール市場残高が激減したため、コール仲介手数料が枯渇 → 法人 FX 等の非コール業務での収益源多様化が業界共通課題となっていた。
 

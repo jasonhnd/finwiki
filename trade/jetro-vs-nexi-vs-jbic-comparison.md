@@ -11,9 +11,9 @@ aliases:
   - "JETRO NEXI JBIC function map"
 domain: trade
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [trade, export-credit, policy-finance, japan]
 status: active
@@ -68,6 +68,8 @@ A Japanese exporter routinely uses all three on the same project — JETRO for t
 | Overseas direct investment | "How do we cover expropriation, war, currency-transfer risk?" | **NEXI** overseas investment insurance + **JBIC** equity / loan |
 | Long-term resource / infra project | "Who provides 15-20 year USD financing?" | **JBIC** project finance + **NEXI** political-risk cover |
 
+Sources: ^[This is a FinWiki routing synthesis from the institutions' official mandates and service descriptions: JETRO https://www.jetro.go.jp/en/jetro/; NEXI https://www.nexi.go.jp/en/; JBIC https://www.jbic.go.jp/en/.]
+
 ## JETRO — Information and Promotion
 
 JETRO does not lend money and does not bear credit risk. Its tools are:
@@ -95,6 +97,8 @@ Main policy types:
 | Overseas Untied Loan Insurance | Borrower default on policy-driven loans not tied to Japanese exports | Japanese banks lending into emerging markets |
 | Trade and Investment Insurance for Buyer Credit | Default by overseas buyer on bank-extended buyer credit | Banks lending to overseas buyers of Japanese goods |
 
+Sources: ^[NEXI official English service and product portal: https://www.nexi.go.jp/en/.]
+
 NEXI cooperates closely with [[financial-regulators/jbic|JBIC]] — buyer credits and project-finance loans extended by JBIC frequently carry a NEXI wrap on the commercial bank tranche, which lowers funding cost and allows wider bank syndication. NEXI operates under the [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] consensus on premium minimums, country risk classification, and tenor / down-payment terms.
 
 ## JBIC — The Policy Bank
@@ -112,6 +116,8 @@ Main business lines:
 | Equity Participations | Minority equity in overseas projects strategic to Japan | Project SPVs, infrastructure companies |
 | Guarantees | Credit guarantees for commercial bank loans co-financing JBIC projects | Commercial banks lending alongside JBIC |
 | Project Finance | Long-tenor (15-20+ year) limited-recourse financing of resource / infrastructure | Project SPVs |
+
+Sources: ^[JBIC official English business and organization portal: https://www.jbic.go.jp/en/.]
 
 JBIC is the apex node in the [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]] — its presence on a sponsor's term sheet generally signals project-finance bankability for tenors that commercial banks cannot reach unaided. Loans are USD-denominated for export, project, and resource finance; JPY-denominated for some untied operations.
 
@@ -139,6 +145,8 @@ The JBIC vs JICA boundary is the one most often confused outside Japan. The 2008
 | JETRO Members (paid tier) | Japanese exporters and overseas Japanese affiliates seeking deeper matchmaking / market-entry support | Annual membership fee (varies by member category) — see [[trade/jetro-members-gateway-model|JETRO Members gateway model]] |
 | NEXI | Exporters incorporated in Japan, Japanese parents with overseas FDI, Japanese banks lending into export / project-finance situations | Underwriting review — risk-based pricing, country-limit constraints, sometimes refused on high-risk sovereigns |
 | JBIC | Japanese exporters of capital goods, Japanese sponsors of overseas projects, foreign sovereigns / banks borrowing for purposes aligned to Japanese interests | High — credit assessment of borrower and project, structuring negotiation, often syndicated with commercial banks; minimum efficient deal size is large |
+
+Sources: ^[JETRO official English portal: https://www.jetro.go.jp/en/jetro/; NEXI official English portal: https://www.nexi.go.jp/en/; JBIC official English portal: https://www.jbic.go.jp/en/.]
 
 The eligibility funnel narrows materially from JETRO → NEXI → JBIC. SMEs can use JETRO routinely, use NEXI selectively, and almost never use JBIC directly — JBIC's deal size and structuring complexity push it toward large exporters and trading houses.
 

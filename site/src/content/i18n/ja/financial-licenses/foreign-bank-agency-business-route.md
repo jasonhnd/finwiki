@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/foreign-bank-agency-business-route
-source_hash: aa40211842e0053d
+source_hash: 1ecd20c2eb1bf074
 lang: ja
 status: machine
 fidelity: ok
 title: "日本における外国銀行代理業務ルート"
-translated_at: 2026-06-02T14:54:39.085Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本における外国銀行代理業務ルート
@@ -25,6 +25,9 @@ translated_at: 2026-06-02T14:54:39.085Z
 | 日本法人銀行子会社 | 外国グループが支配する日本法人銀行 | 国内法人としての日本の銀行免許 | 外国銀行支店としての地位 |
 | 駐在員事務所 | 連絡・情報収集の拠点 | 拠点の存在のみ | 銀行、預金、貸出、代理、証券業務 |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf; FSA supervisory guideline, foreign-bank agency section: https://www.fsa.go.jp/common/law/guide/city/06.html.]
+
+
 ## 利用場面
 
 | 利用場面 | 代理業務ルートが重要になり得る理由 |
@@ -35,6 +38,9 @@ translated_at: 2026-06-02T14:54:39.085Z
 | プライベート / ウェルスバンキング | クロスボーダー紹介と口座アクセスでは、免許境界の慎重な確認が必要になる。 |
 | グループ支店連携 | 免許を受けた日本支店が、承認 / 届出ルートの下で本店または海外支店のために行為する場合がある。 |
 
+Sources: ^[This is a FinWiki use-case map derived from the FSA foreign-bank agency framework and supervisory guideline: https://www.fsa.go.jp/news/25/ginkou/20140626-5.html; https://www.fsa.go.jp/common/law/guide/city/06.html.]
+
+
 ## 確認すべき論点
 
 | 問い | 公開情報上の意味 |
@@ -44,6 +50,9 @@ translated_at: 2026-06-02T14:54:39.085Z
 | どのサービスを媒介しているか。 | 預金、貸出、FX、貿易金融、証券、決済類似サービスは別制度を発動し得る。 |
 | 顧客は日本支店、オフショア支店、日本子会社のどれと取引しているか。 | 法主体、預金保護、開示が異なる。 |
 | 証券エンティティも存在するか。 | FIBO / JSDA の状態を別途確認する。 |
+
+Sources: ^[FSA foreign-bank agency list: https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/city/06.html.]
+
 
 ## JapanFG における位置づけ
 

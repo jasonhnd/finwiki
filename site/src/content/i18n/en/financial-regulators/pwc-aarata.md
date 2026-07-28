@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/pwc-aarata
-source_hash: a6a14ad4f498746a
+source_hash: 6814b6930c823d38
 lang: en
 status: machine
 fidelity: ok
 title: "PwC Japan LLC (formerly PwC Arata)"
-translated_at: 2026-06-18T23:59:13.119Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # PwC Japan LLC (formerly PwC Arata)
 
@@ -81,12 +81,15 @@ Note: Because a comprehensive assessment of the disciplinary history after Arata
 
 ## 6. Competitive landscape
 
-| Big 4 | Domestic brand | Strength axis (public basis) |
+| Big 4 | Domestic brand | Public-service focus in FinWiki analysis |
 |---|---|---|
-| PwC | **PwC Japan (formerly Arata)** | FinTech / Web3 / global PwC linkage |
-| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | Number of listed-company audits |
-| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | M&A / crypto-asset lead |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | Financial-institution internal control |
+| PwC | **PwC Japan LLC (formerly PwC Arata)** | Global network and digital assets |
+| EY | [[financial-regulators/ey-shinnihon|EY ShinNihon]] | Large listed companies and financial services |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|Tohmatsu]] | Audit and assurance, FAS coordination and digital assets |
+| KPMG | [[financial-regulators/kpmg-azsa|KPMG AZSA]] | Financial services and internal controls |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: PwC https://www.pwc.com/jp/ja/services/audit-assurance.html; EY https://www.shinnihon.or.jp/services/financial-services/; Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; KPMG https://kpmg.com/jp/ja/home/services/audit.html.]
+
 
 Tier 2: [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]], BDO Sanyu Audit Corporation ^[extracted].
 

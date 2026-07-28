@@ -1,11 +1,11 @@
 ---
 source: systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic
-source_hash: c6d3d82953634e9c
+source_hash: 69fca75609d609cd
 lang: en
 status: machine
 fidelity: ok
 title: "Restaking and AVS Landscape Matrix · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM"
-translated_at: 2026-06-01T04:15:40.183Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Restaking and AVS Landscape Matrix · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM
 
@@ -185,16 +185,19 @@ This matrix compares 6  active restaking infrastructures cross-sectionally · 10
 
 ## Big comparison matrix table
 
-**6  restaking infrastructures × 10  axis comparison** (state as of 2026-Q2 ):
+**Public-specification comparison of 6 staking / restaking components**. Do not compare TVL, yield, operator concentration, slashing history, audit scope or regulatory assessments as fixed values without live data and individual contracts:
 
-| Protocol | Restaking Model | TVL May 2026 | Slashing | AVS Economics | Correlation Risk | Operator Concentration | Governance | Audit | Lido Overlap | Regulatory |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **EigenLayer** | Operator-delegated · native ETH+LST+EIGEN | ~$14B | 2025-Q2  enabled · ≤5 events · <$5M cumulative | ~40 AVS · EIGEN+AVS token rewards · +1-3% on base | Rehypothecation 2.5-3x · cascade concern | Top 5 ~50% | EigenLabs+EIGEN+SC 7/13 | Trail of Bits · ChainSecurity · OZ · Sigma Prime · C4 · Cantina | ~25% stETH | SEC EIGEN security not stated · EU MiCA awaiting judgment |
-| **Symbiotic** | **Multi-asset** (ETH+LST+stablecoin+token) · modular vault | ~$3.2B | Day 1 design · 2025-Q1  enabled · vault-level | ~15 AVS · stablecoin/vault/AVS token rewards | Complex multi-asset · vault curator anchor | Top 5 ~60% | Symbiotic Labs · 2026 Q4 token+DAO | OZ · Sigma Prime · Cantina · early stage | ~40% stETH (Mellow vault main route) | Complex multi-asset regulatory surface |
-| **Karak** | Universal (ETH+BTC+USDC) · K2 L2  integration | ~$1.0B | 2025-Q3  enabled · ≤2 events | ~10 AVS · Karak-incubated centered | Multi-asset complex · small TVL, low risk for now | Top 5 ~70% (high concentration) | Karak Foundation · KAR 2026 Q3-Q4 | Sigma Prime · Halborn · Cantina partial | ~20% stETH | BTC restaking SEC interest · USDC close to MM regulation |
-| **Mellow** | **LRT vault aggregator** (on EigenLayer+Symbiotic) · socialize slashing | ~$1.8B | Vault-level socialize | Multi-AVS pool basket rewards | Highest (in-vault cascade) | Borrows underlying · no new concentration | Mellow DAO+MLW 2025-Q2 · vault curator sub-gov | Sigma Prime · Spearbit · C4 · joint with Symbiotic | ~100% (predominantly LST-based) | Close to managed fund · avoids US |
-| **EtherFi LRT** | **Integrated LST+restaking** · own nodes+multi-layer restake | ~$5.5B (largest LRT) | EtherFi node responsibility · insurance fund first-loss | EigenDA+Hyperlane+Espresso+Lagrange · annualized 4-6% | 3  layer slash cascade · insurance ~$50M buffer | EtherFi network ~200 operator | EtherFi DAO+ETHFI 2024 Q2 · SC 7/15 | Spearbit · Halborn · Certora · Hats bounty | Lido competitor · own validators · indirect AVS pool overlap | LRT is SEC focus · US retail geo-fence |
-| **Lido CSM / stVaults** | CSM home staker + stVaults restaking hook (2026  plan) | ~$280M CSM · total stETH $32B | CSM operator bond first · insurance backup · stVaults users bear | Strict AVS whitelist (DAO vote) | Lido philosophy minimize · AVS cap limits | CSM ~200  small operators + main set 30 | Lido DAO+LDO+referendum (heaviest governance) | Sigma Prime · ChainSecurity · OZ · Certora · Statemind · MixBytes · industry deepest | **100% (Lido itself)** · stETH is restaking liquidity source | LDO security awaiting judgment · stETH MiCA ART awaiting judgment |
+| Protocol / component | Publicly documented role | Collateral / delegation model | Slashing / loss boundary | Operator / vault control | Main due diligence |
+|---|---|---|---|---|---|
+| **EigenLayer** | Restaking protocol in which operators participate in multiple AVSs / services | Protocol contracts manage the relationship among stakers / delegators and operators | Check service-specific slashing conditions and allocations | Operator registration, delegation, AVS contracts and protocol governance | Slashing terms, withdrawal delay, operator allocation and AVS code |
+| **Symbiotic** | Modular shared-security protocol separating vaults, networks and operators | Vault defines collateral and delegation / curator policy | Depends on network-specific slashing and resolver / vault configuration | Review permissions of vault owner / curator, network, operator and resolver separately | Collateral, epoch / withdrawal, slasher, resolver and vault upgrades |
+| **Karak** | Restaking platform where operators provide security to DSSs | Supported collateral and vault / delegation depend on current contracts | Check DSS-specific conditions and protocol controls | Boundary among operator, DSS and vault / contract owner | Supported assets, DSS code, slashing status and withdrawal / upgrades |
+| **Mellow** | Middleware configuring vault strategy / curation over restaking infrastructure | Asset, strategy and underlying-protocol exposure differ by vault | Loss conditions of the vault and underlying restaking layer overlap | Check both curator / vault owner and underlying operator | Vault parameters, underlying protocol, fees, withdrawal and upgrades |
+| **ether.fi** | Staking / liquid-restaking product and node-operator workflow | Deposit product and downstream restaking allocation depend on product version | Assess validator, protocol and downstream-service conditions separately | Node operator, protocol contracts and governance / product controls | Withdrawal, operator selection, allocation and insurance-claim terms |
+| **Lido CSM / stVaults** | CSM is a community staking module; check product status of stVaults in current Lido documentation | Deposit, operator and control models differ by module / vault | Separate operator bond, module / vault rules and downstream exposure | Lido DAO, module / vault roles and node operator | Production status, bond / loss waterfall, permissions and withdrawal |
+
+Sources: ^[https://docs.eigenlayer.xyz/] ^[https://docs.symbiotic.fi/] ^[https://docs.karak.network/] ^[https://docs.mellow.finance/] ^[https://docs.ether.fi/] ^[https://docs.lido.fi/]
+
 
 **How to read the matrix**:
 - **Restaking model 3  quadrant comparison**: operator-delegated (EigenLayer · Karak · Symbiotic) → direct delegation · vault aggregator (Mellow) → wraps other restaking · integrated LST+restaking (EtherFi · Lido stVaults) → users receive LRT tokens

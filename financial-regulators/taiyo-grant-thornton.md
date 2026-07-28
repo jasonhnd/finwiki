@@ -8,9 +8,9 @@ aliases:
   - Taiyo LLC
 domain: financial-regulators
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - JapanFG
@@ -90,12 +90,14 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## 6. 競合関係
 
-| 層 | 法人 | 強み軸 |
+| 層 | 法人 | FinWiki 分析上の注目領域（各法人の公開情報から整理） |
 |---|---|---|
-| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | 大手上場・メガ FG |
-| **準大手（Tier 2）** | **太陽グラントソントン** | **中堅上場 / IPO / VASP** |
-| 準大手（Tier 2）| BDO 三優監査法人 | 中堅 / 外資系 |
-| 中小 | PwC 京都監査法人（旧）/ 他多数 | 地域・特化 |
+| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC Japan 有限責任監査法人]] | 大規模上場会社・金融グループを含む幅広い監査・保証業務 |
+| **準大手（Tier 2）** | **太陽グラントソントン** | **中堅上場会社、IPO、国際ネットワーク連携** |
+| 準大手（Tier 2）| BDO 三優監査法人 | 中堅企業、IPO、国際ネットワーク連携 |
+| 中小 | 多数 | 地域・業種特化 |
+
+Sources: ^[This comparison is a FinWiki analytical grouping based on public firm descriptions, not an official market-share ranking: Grant Thornton Taiyo https://www.grantthornton.jp/about/firm/; BDO Sanyu https://www.bdo.or.jp/firm/; JICPA https://jicpa.or.jp/; CPAAOB https://www.fsa.go.jp/cpaaob/.]
 
 ## Related
 

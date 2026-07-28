@@ -3,9 +3,9 @@ title: "日本取引所グループ (JPX)"
 aliases: ["JPX", "Japan Exchange Group", "日本取引所グループ", "8697"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, exchange, market-infrastructure, listed-company]
 status: active
@@ -43,6 +43,8 @@ For FinWiki, JPX is not just a stock. It is the gatekeeper layer for listing, tr
 | Legal role | Financial instruments exchange holding company group management |
 | Fiscal year-end | March 31 |
 
+Sources: ^[JPX corporate profile: https://www.jpx.co.jp/english/corporate/about-jpx/profile/; JPX business description: https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html.]
+
 ```
 Japan Exchange Group (JPX)
   ├── Tokyo Stock Exchange (cash equity market)
@@ -63,6 +65,8 @@ Japan Exchange Group (JPX)
 | Clearing | [[securities/japan-securities-clearing-corp|JSCC]] | Securities, derivatives, JGB, OTC derivatives, and commodity clearing. |
 | Regulation | Japan Exchange Regulation | Listing examination, listed-company compliance, market surveillance, participant inspection. |
 | Data / indices | JPX Market Innovation & Research | Indices, data services, analytics, digital and data products. |
+
+Sources: ^[JPX business description: https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html; JPX corporate profile: https://www.jpx.co.jp/english/corporate/about-jpx/profile/.]
 
 ## 3. 戦略・競争
 

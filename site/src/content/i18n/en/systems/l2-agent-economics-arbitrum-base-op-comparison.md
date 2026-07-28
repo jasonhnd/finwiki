@@ -1,11 +1,11 @@
 ---
 source: systems/l2-agent-economics-arbitrum-base-op-comparison
-source_hash: a0b5cbdbd9a4e2db
+source_hash: 3721439af14c64a6
 lang: en
 status: machine
 fidelity: ok
 title: "L2 Agent Economics · AI Agent Workload Comparison of Arbitrum vs Base vs Optimism"
-translated_at: 2026-06-01T04:15:40.182Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # L2 Agent Economics · AI Agent Workload Comparison of Arbitrum vs Base vs Optimism
 
@@ -21,17 +21,16 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 | Perspective | Base | Arbitrum One | Optimism Mainnet |
 |---|---|---|---|
-| Type | OP Stack (Bedrock + Fault Proof) | Arbitrum Nitro (custom rollup) | OP Stack (Bedrock + Fault Proof) |
-| TVL (DefiLlama, 2026-Q1) | ~$8-10B | ~$15-20B | ~$1-2B |
-| Daily tx | ~3-5M | ~2-3M | ~300-500k |
-| Average per-tx user fee (post-Pectra) | $0.001-0.005 | $0.002-0.01 | $0.001-0.005 |
-| DA layer | Ethereum blob | Ethereum blob (Nova partly uses AnyTrust DA) | Ethereum blob |
-| Sequencer centralization | Coinbase single sequencer | Offchain Labs single sequencer (BoLD fault proof + decentralization plan) | Optimism Foundation single sequencer (decentralization plan) |
-| Native USDC | USDC Native (Circle, 2023-09  launch) | USDC Native (2023-06  launch) | USDC Native (2023-09  launch) |
-| Bridged USDC | USDbC (deprecated, user migration mostly complete) | USDC.e (legacy, still exists) | USDC.e (legacy, still exists) |
-| Smart wallet default | Coinbase Smart Wallet (ERC-4337) | Multiple third parties (Safe / Biconomy, etc.) | Multiple third parties |
-| Paymaster commercial product | Coinbase CDP Paymaster | Alchemy Account Kit / Biconomy / Pimlico | Alchemy Account Kit / Biconomy / Pimlico |
-| Known large agent / payment integrations | x402 / Coinbase Agent Kit / Privy default | GMX agent / DeFi agent / some institutions | World mini-apps / Worldcoin |
+| Execution stack | OP Stack | Arbitrum Nitro | OP Stack |
+| Settlement / DA | Ethereum settlement; batch data uses Ethereum blobs | Ethereum settlement; Arbitrum One batch data is posted to Ethereum | Ethereum settlement; batch data uses Ethereum blobs |
+| State validation | OP Stack fault-proof system and chain-specific governance / contracts | Check Nitro fraud-proof architecture and current BoLD deployment | OP Stack fault-proof system and chain-specific governance / contracts |
+| Sequencing boundary | Check ordering, forced inclusion and upgrade / pause authority in Base documentation | Check sequencer, delayed inbox and upgrade authority in Arbitrum documentation | Check ordering, forced inclusion and upgrade / pause authority in Optimism documentation |
+| Agent wallet / sponsorship | CDP / smart-wallet / paymaster interfaces can be selected, but conditions depend on product documentation | Select third-party wallet / bundler / paymaster such as ERC-4337 separately | Select third-party wallet / bundler / paymaster such as ERC-4337 separately |
+| USDC / cross-chain | Check native USDC, CCTP and contract addresses in Circle's current support matrix | Same | Same |
+| Economics validation | Measure TVL, transaction count, gas and sponsorship price with live telemetry / quotes | Same | Same |
+
+Sources: ^[https://docs.base.org/] ^[https://docs.arbitrum.io/] ^[https://docs.optimism.io/] ^[https://docs.cdp.coinbase.com/] ^[https://www.circle.com/en/cross-chain-transfer-protocol]
+
 
 ## Per-transaction cost · agent workload perspective
 
