@@ -26,6 +26,38 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-07-27 - Astro dependency security update and audit gate (#186)
+
+### 日本語
+
+- **2026-07-27 15:53:57 JST / 背景:** Issue #186。`site/bun.lock` の production dependency tree に 4 high / 2 moderate の advisory が残り、通常の build pipeline は frozen lockfile と vulnerability audit を強制していなかったため、安全な解決結果が将来の install で再現されない、または新規 advisory が継続的に見えない状態だった。
+- **範囲:** `site/package.json` と `site/bun.lock`、root dependency-audit script、GitHub Pages / Vercel build、pull request / `pre` / `main` / weekly dependency-audit workflow、本 CHANGELOG、三言語 release note、README / root homepage と生成 public snapshot。Bun runtime pin は Issue #184、TypeScript / typecheck は Issue #185 の別 scope とした。
+- **主要ファイル:** `site/package.json`、`site/bun.lock`、`package.json`、`.github/workflows/deploy.yml`、`.github/workflows/dependency-audit.yml`、`tools/vercel_build.ts`、`releases/v2026.07.27-2.md`、`README.md`、`index.html` と AI / crawler discovery surface。
+- **実行手順:** `astro` 7.1.3、`@astrojs/markdown-satteri` 0.3.4、`satteri` 0.9.5 へ直接依存を更新し、fresh lockfile を生成。`js-yaml` 4.3.0、`postcss` 8.5.23、`sharp` 0.35.3、`svgo` 4.0.2 を含む安全な transitive tree を固定した。site install を `--frozen-lockfile` にし、local script、Pages、Vercel、PR / branch push / weekly schedule へ `bun audit --production` を追加した。
+- **検証結果:** `bun audit --production` は production vulnerability 0 件。`bun install --frozen-lockfile --ignore-scripts` は lockfile を変更せず 197 installs / 299 packages を確認。`bun tools/vercel_build.ts` は link audit（1,489 entries、issues=0、canonical drift=0）、strict release check、dependency audit、publish tests 7/7、Astro 7.1.3 build（2,969 pages）、duplicate HTML ID check（0）、Pagefind（ja/en 2,968 pages）、assembly（Astro 6,258 files + raw 3,060 files）を通過。release-document / docs-link / active-doc-stale / generated-surface / txt-route / i18n / index-count / wiki-link / workflow YAML / `git diff --check` も PASS。
+- **既知の注意点:** dependency-audit workflow の `bun-version: latest` は Issue #184 が repository-wide pin を導入するまで維持する。#186 branch は PR #197 の commit に一時的に積み重ねており、PR #197 が `pre` へ merge されるまでは重複 PR を開かない。
+- **次の作業:** ローカル実装と validation は完了。PR #197 merge 後に最新 `pre` へ重ね直して #186 PR を開き、review / CI を待つ。self-merge / self-close はせず、`main` publish と GitHub Release は承認済み promotion 時だけ行う。
+
+### English
+
+- **2026-07-27 15:53:57 JST / Background:** Issue #186. The production tree in `site/bun.lock` retained four high and two moderate advisories, while the normal build pipelines enforced neither a frozen lockfile nor a vulnerability audit. A safe resolution therefore was not guaranteed to reproduce on later installs, and future advisories would not surface continuously.
+- **Scope:** `site/package.json` and `site/bun.lock`, the root dependency-audit script, GitHub Pages / Vercel builds, a pull-request / `pre` / `main` / weekly dependency-audit workflow, this CHANGELOG, the trilingual release note, README / root homepage, and generated public snapshot. Bun runtime pinning remains Issue #184; TypeScript / typecheck remains Issue #185.
+- **Primary files:** `site/package.json`, `site/bun.lock`, `package.json`, `.github/workflows/deploy.yml`, `.github/workflows/dependency-audit.yml`, `tools/vercel_build.ts`, `releases/v2026.07.27-2.md`, `README.md`, `index.html`, and the AI / crawler discovery surfaces.
+- **Steps:** Upgraded the direct dependencies to Astro 7.1.3, `@astrojs/markdown-satteri` 0.3.4, and Satteri 0.9.5, then generated a fresh lockfile. Locked a secure transitive tree including `js-yaml` 4.3.0, `postcss` 8.5.23, `sharp` 0.35.3, and `svgo` 4.0.2. Switched site installation to `--frozen-lockfile` and added `bun audit --production` to a local script, Pages, Vercel, pull-request / branch-push, and weekly scheduled paths.
+- **Validation:** `bun audit --production` reported zero production vulnerabilities. `bun install --frozen-lockfile --ignore-scripts` verified 197 installs / 299 packages without changing the lockfile. `bun tools/vercel_build.ts` passed the link audit (1,489 entries, issues=0, canonical drift=0), strict release check, dependency audit, publish tests (7/7), Astro 7.1.3 build (2,969 pages), duplicate HTML ID check (0), Pagefind (2,968 ja/en pages), and assembly (6,258 Astro files plus 3,060 raw files). The release-document, docs-link, active-doc-stale, generated-surface, txt-route, i18n, index-count, wiki-link, workflow-YAML, and `git diff --check` gates also passed.
+- **Known notes:** The dependency-audit workflow keeps `bun-version: latest` until Issue #184 introduces the repository-wide pin. The #186 branch is temporarily stacked on the PR #197 commit, so no duplicate PR will be opened until PR #197 merges into `pre`.
+- **Next steps:** Local implementation and validation are complete. After PR #197 merges, replay onto the latest `pre`, open the #186 PR, and wait for review/CI. Do not self-merge or self-close; publish to `main` and create the GitHub Release only during an approved promotion.
+
+### 中文
+
+- **2026-07-27 15:53:57 JST / 背景:** Issue #186。`site/bun.lock` 的 production dependency tree 仍有 4 个 high 与 2 个 moderate advisory，而常规 build pipeline 既没有强制 frozen lockfile，也没有执行 vulnerability audit，因此安全解析结果无法保证在后续安装中复现，新 advisory 也不会持续暴露。
+- **范围:** `site/package.json` 与 `site/bun.lock`、root dependency-audit script、GitHub Pages / Vercel build、pull request / `pre` / `main` / weekly dependency-audit workflow、本 CHANGELOG、三语 release note、README / 根首页与生成的 public snapshot。Bun runtime 固定仍属于 Issue #184，TypeScript / typecheck 仍属于 Issue #185。
+- **主要文件:** `site/package.json`、`site/bun.lock`、`package.json`、`.github/workflows/deploy.yml`、`.github/workflows/dependency-audit.yml`、`tools/vercel_build.ts`、`releases/v2026.07.27-2.md`、`README.md`、`index.html` 与 AI / crawler discovery surface。
+- **执行步骤:** 将直接依赖升级到 Astro 7.1.3、`@astrojs/markdown-satteri` 0.3.4 和 Satteri 0.9.5，并生成 fresh lockfile；固定包含 `js-yaml` 4.3.0、`postcss` 8.5.23、`sharp` 0.35.3 与 `svgo` 4.0.2 的安全传递依赖树。site 安装改为 `--frozen-lockfile`，并把 `bun audit --production` 接入本地 script、Pages、Vercel、PR / branch push 与 weekly schedule。
+- **验证结果:** `bun audit --production` 报告 production vulnerability 为 0。`bun install --frozen-lockfile --ignore-scripts` 在不修改 lockfile 的情况下确认 197 installs / 299 packages。`bun tools/vercel_build.ts` 已通过 link audit（1,489 entries、issues=0、canonical drift=0）、strict release check、dependency audit、publish tests 7/7、Astro 7.1.3 build（2,969 pages）、duplicate HTML ID check（0）、Pagefind（ja/en 共 2,968 pages）与 assembly（6,258 个 Astro files + 3,060 个 raw files）。release-document、docs-link、active-doc-stale、generated-surface、txt-route、i18n、index-count、wiki-link、workflow YAML 与 `git diff --check` 门禁也全部通过。
+- **已知注意事项:** dependency-audit workflow 的 `bun-version: latest` 将保留到 Issue #184 引入全仓库版本固定。#186 branch 临时叠加在 PR #197 commit 上，因此 PR #197 合并进 `pre` 前不会创建重复 PR。
+- **下一步:** 本地实现与 validation 已完成；PR #197 merge 后重放到最新 `pre`，创建 #186 PR 并等待 review / CI。不得 self-merge / self-close；只有经批准 promotion 时才发布到 `main` 并创建 GitHub Release。
+
 ## 2026-07-27 - Static publish allowlist and destructive-output guard (#177)
 
 ### 日本語
