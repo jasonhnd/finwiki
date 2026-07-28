@@ -11,10 +11,10 @@ aliases:
   - "日本 BNPL 後払い事業者登録マトリクス"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [payments, matrix, BNPL, atobarai, 後払い, installment-sales-act, METI, individual-credit-purchase, registry, Japan]
 status: active
 sources:
@@ -39,7 +39,7 @@ sources:
 
 ## TL;DR
 
-Japan's BNPL / 後払い landscape is governed mainly by the **割賦販売法 (Installment Sales Act)** through the **個別信用購入あっせん業者** (individual credit-purchase intermediary) registration line, with METI as the primary regulator. The METI 登録個別信用購入あっせん業者 list contains around 138 registered operators as of 2026-04 month-end (per the [[payments/credit-purchase-card-operators-japan-index|credit-purchase card operator registry]]), of which a smaller subset — roughly 15-20 — actively run consumer-visible BNPL / 後払い products at meaningful scale. This matrix profiles those active operators across the axes that determine BNPL economics: parent / ownership, transaction model (single-payment deferred vs installment), credit-risk model (operator-eats-loss vs merchant-eats-loss vs co-share), funding source, merchant-category specialization, monthly transaction volume order-of-magnitude, registration year, and regulatory tier under the 2020 改正割賦販売法 framework (認定包括 / 少額包括 / 個別 / exemption). The matrix is the operator-level companion to [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] and the BNPL-specific cross-section of [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]].
+Japan's **BNPL / 後払い** checkout label does not map to one license. METI explains that a credit-purchase intermediary generally pays the merchant and receives the consumer's payment over a period exceeding two months; the applicable Installment Sales Act regime therefore depends on the product's payment period and structure, including 個別信用購入あっせん, 包括・認定包括・少額包括 regimes, or an out-of-scope short-period arrangement. METI's public portal listed **138 registered individual credit-purchase intermediary operators as of May 2026**, but that registry count is not a census of consumer-facing BNPL brands or active product scale. This matrix consequently treats the operating entity, product structure, payment period, risk allocation, and exact registration category as separate fields rather than inferring a license from the checkout label. ^[METI registered-operator portal: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html; METI pay-later overview and FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html; METI credit policy: https://www.meti.go.jp/policy/economy/consumer/credit/index.html]
 
 ## Wiki route
 

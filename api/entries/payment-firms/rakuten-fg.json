@@ -27,10 +27,10 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "ec-fg",
@@ -41,6 +41,9 @@
     "related": [],
     "note": null,
     "sources": [
+      "楽天グループ 会社概要 (https://global.rakuten.com/corp/about/)",
+      "楽天グループ 沿革 (https://global.rakuten.com/corp/about/history.html)",
+      "日本取引所グループ 銘柄情報 4755 (https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=4755)",
       "楽天グループ 2024年12月期 通期決算ハイライト (2025-02-14 公表)",
       "楽天銀行 5838 2025年3月期 決算短信 (2025-05-12)",
       "楽天銀行 預金 12 兆円突破プレスリリース (2025-01-07)",
@@ -92,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6421,
-    "word_like_tokens": 1243,
+    "nonspace_chars": 6797,
+    "word_like_tokens": 1302,
     "inbound_wikilinks_count": 72,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

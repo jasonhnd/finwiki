@@ -1,11 +1,11 @@
 ---
 source: payment-firms/mercari-hd
-source_hash: b030fa6c9e5d5520
+source_hash: e329f8602a58c36e
 lang: en
 status: machine
 fidelity: ok
 title: "Mercari HD (Mercari, Inc.)"
-translated_at: 2026-06-15T03:48:21.872Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # Mercari HD (Mercari, Inc.)
@@ -16,16 +16,18 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-One of Japan's largest **C2C flea-market app + payments + crypto-asset** vertically integrated ecosystems. Founded 2013-02-01 by Shintaro Yamada; TSE Mothers IPO 2018-06-19 (moved to PRIME in 2022 ; TSE PRIME **4385**). The 4  axes of **Mercari (flea market) + Merpay (payments / deferred payment) + Mercoin (Bitcoin) + Mercard (JCB partnership)**. Domestic MAU **2,304 万** (FY2025.6 4Q), Marketplace GMV **1.12 兆円** (FY2025.6  full year), Mercard issuance **over 300 万**, Mercoin accounts **over 200 万**. In FY2025.6  full year, revenue **1,926 億円** (YoY +3%), net income **261 億円** (YoY +94%, 3  consecutive periods of record profit), and the **US business achieved its first full-year profitability** (US GMV 728 百万 USD ≒ 1,091 億円). It holds no bank license (a funds-transfer operator). Unlike megabank-affiliated [[megabanks/mufg]] / [[megabanks/smfg]], its feature is becoming a "marketplace-origin" financial platform.
+One of Japan's largest vertically integrated **C2C marketplace + payments + crypto-asset** ecosystems. Founded on 2013-02-01 by Shintaro Yamada, Mercari completed its TSE Mothers IPO on 2018-06-19. It entered the Growth Market in the April 2022 market restructuring and changed to the **Prime Market on 2022-06-07** (TSE PRIME **4385**). Its four main axes are **Mercari + Merpay + Mercoin + Mercard**. Domestic MAU was **23.04 million** in FY2025.6 Q4, Marketplace GMV was **¥1.12 trillion** for FY2025.6, Mercard issuance exceeded **3 million**, and Mercoin accounts exceeded **2 million**. FY2025.6 revenue was **¥192.6 billion**, profit was **¥26.1 billion** (YoY +94%, a third consecutive record), and the US business achieved its first full-year profit (US GMV USD 728 million, about ¥109.1 billion). Mercari does not hold a banking license; its financial services are provided through regulated subsidiaries. Unlike megabank-affiliated [[megabanks/mufg]] / [[megabanks/smfg]], its defining feature is a marketplace-origin financial platform.
 
 ## 1. Company overview
 
 **Legal name**: 株式会社メルカリ (English: Mercari, Inc.)
-**Securities code**: TSE PRIME **4385** (2018-06-19 Mothers listing → 2022-04  moved to PRIME)
-**Established**: 2013-02-01 (former name: 株式会社コウゾウ → renamed Mercari in 2013-11 )
+**Securities code**: TSE PRIME **4385** (2018-06-19 Mothers listing → 2022-04 Growth Market → 2022-06-07 Prime Market)
+**Established**: 2013-02-01
 **Head office**: Roppongi Hills Mori Tower, Roppongi 6-10-1 , Minato-ku, Tokyo
-**Founder / representative**: Shintaro Yamada (Representative Director & CEO, former founder of Unoh)
+**Representative**: Shintaro Yamada, Representative Executive Officer and CEO
 **Business type**: C2C marketplace + payments + deferred payment + credit card + crypto assets + spot work
+
+^[Mercari company profile: https://about.mercari.com/about/company/; JPX issue information 4385: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?callJorEFlg=1&method=topsearch&topSearchStr=4385; JPX market-section change approval: https://www.jpx.co.jp/news/6030/20220602-01.html]
 
 > Note: Mercari holds no bank license; it is an e-commerce-origin group that develops financial businesses through Merpay (a funds-transfer operator) and Mercoin (a crypto-asset exchange operator). Its classification treatment within this wiki/JapanFG (whether or not to treat it as an "EC / Bank integrated" vertical-integration example) is an editorial judgment, so refer to `.opinions/JapanFG/mercari-hd.md`.
 
@@ -59,7 +61,8 @@ Mercari, Inc. (holding function + flea-market operation; listed 4385)
 | 2019-08 | Acquired management control of Kashima Antlers FC |
 | **2020-04** | **Merpay Smart Payment started** (deferred-payment service) |
 | **2021-04** | **Mercoin, Inc. established** (crypto-asset subsidiary) |
-| 2022-04 | TSE market-segment change → PRIME market |
+| 2022-04 | Entered the Growth Market in the TSE market restructuring |
+| **2022-06-07** | **Changed market section to the Prime Market** |
 | **2022-11** | **Mercard issuance started** (JCB partnership, plastic card) |
 | **2023-03** | **Mercoin Bitcoin trading service started** |
 | 2023-08 | Mercoin users surpassed 100 万 |

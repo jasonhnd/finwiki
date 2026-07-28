@@ -14,7 +14,7 @@
   "title": "Japan prepaid electronic money operator matrix",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Japan prepaid electronic money operator matrix — issuer, license, technology, AUM, breakage, mobile, merchant, refund, group bank",
+    "title": "Japan prepaid electronic money operator matrix — issuer, license, technology, mobile, merchant, refund, and liability",
     "aliases": [
       "payments/japan-prepaid-electronic-money-operator-matrix",
       "japan-prepaid-electronic-money-operator-matrix",
@@ -27,10 +27,10 @@
     "domain": "payments",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "payments",
       "matrix",
@@ -48,16 +48,22 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/policy/prepaid/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/zenshikoukinrishou.pdf",
-      "https://www.fsa.go.jp/menkyo/menkyoj/zendaisanshakogata.pdf",
-      "https://corp.rakuten.co.jp/",
-      "https://www.7andi.com/",
-      "https://www.aeon.info/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf",
+      "https://edy.rakuten.co.jp/company/company.html",
+      "https://edy.rakuten.co.jp/terms/info.html",
+      "https://support.rakuten-edy.co.jp/faq/show/1179",
+      "https://www.7andi.com/company/news/release/20489.html",
+      "https://www.nanaco-net.jp/how-to/charge/cash.html",
+      "https://www.aeon.info/news/release_33536/",
+      "https://www.waon.net/stipulation/49000/",
+      "https://www.apple.com/jp/newsroom/2016/09/apple-pay-coming-to-japan-with-iphone-7/",
+      "https://www.pasmo.co.jp/corporate/history/",
+      "https://www.westjr.co.jp/press/article/2023/06/page_22773.html",
       "https://www.jreast.co.jp/",
       "https://www.pasmo.co.jp/",
       "https://www.jr-odekake.net/",
-      "https://www.jrhokkaido.co.jp/",
+      "https://www.jrhokkaido.co.jp/kitaca/",
+      "https://www.jrhokkaido.co.jp/CM/Info/press/pdf/20250709_KO_KitacaSuica.pdf",
       "https://jr-central.co.jp/",
       "https://www.meitetsu.co.jp/",
       "https://www.nishitetsu.jp/",
@@ -79,13 +85,11 @@
     "PASMO — PASMO Co."
   ],
   "body_links": {
-    "wikilinks_count": 30,
+    "wikilinks_count": 27,
     "wikilinks": [
       "INDEX",
       "card-issuers/aeon-bank",
-      "card-issuers/aeon-bank\\",
       "card-issuers/aeon-financial-service",
-      "card-issuers/aeon-financial-service\\",
       "card-issuers/seven-card-service",
       "card-issuers/seven-card-service\\",
       "financial-licenses/payment-license-stack",
@@ -106,7 +110,6 @@
       "payments/prepaid-payment-instrument-issuers-japan-index",
       "payments/waon-nanaco-retail-prepaid-comparison",
       "regional-banks/seven-bank",
-      "regional-banks/seven-bank\\",
       "retail/aeon-group",
       "retail/aeon-group\\",
       "retail/seven-and-i-hd",
@@ -141,9 +144,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 37452,
-    "word_like_tokens": 6333,
+    "nonspace_chars": 36720,
+    "word_like_tokens": 6216,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

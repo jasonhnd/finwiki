@@ -29,10 +29,10 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "ec-fintech",
@@ -43,6 +43,9 @@
     "related": [],
     "note": null,
     "sources": [
+      "メルカリ 会社概要 (https://about.mercari.com/about/company/)",
+      "日本取引所グループ 銘柄情報 4385 (https://www2.jpx.co.jp/tseHpFront/StockSearch.do?callJorEFlg=1&method=topsearch&topSearchStr=4385)",
+      "日本取引所グループ 市場区分変更承認 (https://www.jpx.co.jp/news/6030/20220602-01.html)",
       "Wikipedia: 株式会社メルカリ (2026-05-19 抽出)",
       "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)",
       "FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示",
@@ -102,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6547,
-    "word_like_tokens": 1209,
+    "nonspace_chars": 7074,
+    "word_like_tokens": 1292,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }
