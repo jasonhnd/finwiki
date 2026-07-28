@@ -208,7 +208,7 @@ export function assembledRouteCandidates(urlValue: string): string[] {
   return [relativePath, path.posix.join(relativePath, "index.html")];
 }
 
-function routeFailure(
+export function assembledRouteFailure(
   outDir: string,
   canonicalOutDir: string,
   url: string,
@@ -325,7 +325,7 @@ export function auditGeneratedRoutes(
 
   const findings: RouteAuditFinding[] = [];
   for (const [url, contexts] of contextsByUrl) {
-    const reason = routeFailure(outDir, canonicalOutDir, url);
+    const reason = assembledRouteFailure(outDir, canonicalOutDir, url);
     if (reason) {
       findings.push({
         url,

@@ -38,7 +38,7 @@ sources:
 - **MEV protection の3大メカニズム**:**CoW Protocol のバッチオークション + uniform clearing price**(構造的にMEVを消す)· **1inch Fusion / 0x Settler の intent-based + signed quote**(MEVをほぼキャンセル)· **flashbots private mempool** ラッパ(一部aggregatorが統合)— JupiterのSolana上のMEVはJito tipモデルで緩和
 - **Daily volume**(2026-Q2推定):1inch ~$1.5-2B · Jupiter ~$1-2B(Solanaの70%+のroutingが経由)· 0x/Matcha ~$0.8-1.2B · CowSwap ~$0.4-0.6B · KyberSwap / OKX DEX ~$0.3-0.5B · ParaSwap / OpenOcean それぞれ ~$0.2-0.4B
 - **Governance token**:1INCH · ZRX · COW · JUP · KNC · OKB(OKX本体のtoken)· PSP(2024 launchのParaSwap)· OpenOcean OOE · 各々の治理モデルとfee distributionは大きく異なる
-- 関連:[[exchanges/global-dex-major-five-comparison|global DEX 5強]](DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
+- 関連:[[exchanges/global-dex-major-five-comparison|global DEX 5強]] (DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
 
 ## Wiki route
 

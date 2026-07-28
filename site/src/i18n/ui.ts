@@ -238,7 +238,7 @@ export const rootEditorial = {
         ja: 'メガバンク、金融グループ、地方銀行、協同組織を俯瞰する入口。',
         en: 'Start with the banks, groups, regional banks, and cooperative systems that anchor Japan finance.',
       },
-      href: '/ja/domains/japanfg/',
+      href: '/ja/domains/megabanks/',
       domains: ['japanfg', 'megabanks', 'regional-banks'],
       routes: ['finance/japan-listed-financial-groups-investable-universe', 'banking/japan-banking-license-tier-comparison-matrix'],
     },

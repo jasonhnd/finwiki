@@ -1,12 +1,12 @@
 // subagent が .cache/jobs/(及び子目录 w*/) に書いた訳文を verify+unmask して
-// site/src/content/i18n/{lang}/{rel} へ確定書込。子目录(並列 worker)も再帰回収。
+// site/src/content/i18n/{lang}/{rel} へ確定書込。検証失敗は正式 mirror を上書きせず、
+// site/.cache/translation-review/ へ隔離する。子目录(並列 worker)も再帰回収。
 //   bun scripts/commit-translate.mjs
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
-import { unmask, verify } from './protect.mjs';
+import { commitMaskedTranslation } from './translation-output.mjs';
 
 const HERE = import.meta.dir;
-const I18N = join(HERE, '..', 'src', 'content', 'i18n');
 const JOBS = join(HERE, '..', '.cache', 'jobs');
 
 const args = process.argv.slice(2);
@@ -20,11 +20,6 @@ if (CLI_LANGS) {
     if (!SUPPORTED_LANGS.has(lang)) throw new Error(`unsupported translation target: ${lang}`);
   }
 }
-
-const titleOf = (body) => {
-  const m = body.match(/^#\s+(.+?)\s*$/m);
-  return m ? m[1].trim() : '';
-};
 
 function* walkJson(dir) {
   if (!existsSync(dir)) return;
@@ -52,27 +47,25 @@ for (const jsonPath of walkJson(JOBS)) {
       continue;
     }
     const tr = readFileSync(trp, 'utf8');
-    const v = verify(masked, tr);
-    const body = unmask(tr, masks);
-    const fidelity = v.ok ? 'ok' : 'needs_review';
-    if (fidelity === 'ok') ok++;
-    else {
+    const result = commitMaskedTranslation({
+      lang,
+      rel,
+      hash,
+      masked,
+      masks,
+      translatedMasked: tr,
+    });
+    const v = result.verification;
+    if (result.committed) {
+      ok++;
+    } else {
       rev++;
-      console.log(`REV  ${lang}  ${rel}  (placeholders ${v.gotCount}/${v.wantCount} junk=${v.junk})`);
+      console.log(
+        `REV  ${lang}  ${rel}  (placeholders ${v.gotCount}/${v.wantCount} ` +
+          `reordered=${v.reordered} missing=${v.missing.length} unknown=${v.unknown.length} ` +
+          `duplicates=${v.duplicates.length} junk=${v.junk}; formal mirror unchanged)`,
+      );
     }
-    const head =
-      `---\n` +
-      `source: ${rel.replace(/\.md$/, '')}\n` +
-      `source_hash: ${hash}\n` +
-      `lang: ${lang}\n` +
-      `status: machine\n` +
-      `fidelity: ${fidelity}\n` +
-      `title: ${JSON.stringify(titleOf(body))}\n` +
-      `translated_at: ${new Date().toISOString()}\n` +
-      `---\n`;
-    const outPath = join(I18N, lang, rel);
-    mkdirSync(dirname(outPath), { recursive: true });
-    writeFileSync(outPath, head + body.replace(/\n*$/, '') + '\n', 'utf8');
   }
 }
-console.log(`\ncommitted: ok=${ok} needs_review=${rev} missing=${miss}`);
+console.log(`\ncommitted: ok=${ok} quarantined=${rev} missing=${miss}`);

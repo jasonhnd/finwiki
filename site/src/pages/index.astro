@@ -7,9 +7,10 @@ import { domainName } from '../i18n/domains';
 import { rootEditorial } from '../i18n/ui';
 import { entryDomain, entryRoute } from '../lib/routes';
 import { localizedTitle } from '../lib/siteIndex.mjs';
+import { publishableTranslations } from '../lib/translations';
 
 const entries = await getCollection('entries');
-const translations = await getCollection('i18n');
+const translations = publishableTranslations(await getCollection('i18n'));
 
 const counts = new Map<string, number>();
 const entryByRoute = new Map<string, (typeof entries)[number]>();

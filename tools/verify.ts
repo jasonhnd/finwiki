@@ -188,7 +188,10 @@ export function verificationPipeline(outDir: string): Step[] {
         "--out",
         outDir,
       ),
-      note: "The full internal-href crawl and current 19 broken links remain Issue #183.",
+    },
+    {
+      label: "Audit every final HTML href against the assembled artifact",
+      command: bunCommand("run", "html:routes", "--out", outDir),
     },
     {
       label: "Audit generated URLs against the assembled artifact",
