@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T00:01:36+09:00",
+  "generated_at": "2026-07-29T00:49:59+09:00",
   "counts": {
-    "markdown_files": 1590,
-    "public_markdown_pages": 1589,
+    "markdown_files": 1591,
+    "public_markdown_pages": 1590,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10738749,
-    "word_like_tokens": 1725932,
+    "nonspace_utf8_chars": 10755277,
+    "word_like_tokens": 1728980,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188)",
+        "2026-07-29 - Entry-discovery build graph and cache invalidation repair (#195)",
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190)"
+        "2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 130663,
-      "word_like_tokens": 23594,
+      "nonspace_chars": 138955,
+      "word_like_tokens": 25121,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12568,
-      "word_like_tokens": 2211,
+      "nonspace_chars": 13212,
+      "word_like_tokens": 2323,
       "last_modified": "2026-07-29"
     },
     {
@@ -85999,8 +85999,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3544,
-      "word_like_tokens": 718,
+      "nonspace_chars": 3794,
+      "word_like_tokens": 766,
       "last_modified": "2026-07-29"
     },
     {
@@ -89184,6 +89184,39 @@
       "nonspace_chars": 4094,
       "word_like_tokens": 717,
       "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.29.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29.md",
+      "title": "エントリ発見グラフのビルド最適化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "エントリ発見グラフのビルド最適化",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 7342,
+      "word_like_tokens": 1361,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/INDEX.md",

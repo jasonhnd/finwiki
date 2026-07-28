@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1590 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1591 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1074万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,738,749） |
+| Text volume | 約1076万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,755,277） |
 | Word-like tokens | 約173万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -46,6 +46,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 15. 翻訳の source discovery は `i18n:status` と同じ canonical public-corpus walker を使用します。翻訳 script に領域 directory list を重複保持せず、新しい公開 domain は自動検出し、parity test と write-free prep dry-run で denominator の一致を検証します。
 16. `canonical_anchor` は真の mirror page にのみ必須で、canonical anchor と通常の related page は省略します。宣言した target は解決可能で、mirror の core body からリンクされ、declared drift は release を阻断します。ページが mirror かどうかの意味的判断と reverse link は editorial review で確認します。
 17. 公開フローは work branch → verified PR to `pre` → human-approved promotion PR from `pre` to `main` → production deploy → 同じ main merge commit への tag / GitHub Release です。`main` への direct push は行わず、release state は [releases/README.md](releases/README.md) で明示します。
+18. article-end discovery は entry の static-path generation で一度だけ route graph を構築し、各 page へ完成済み lane を渡します。graph fingerprint は中間 entry の route、title、tag、curated `related` link の変更を検出し、`EntryLayout` は page ごとに全 collection を再取得しません。
 
 ### 検証
 
@@ -66,11 +67,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1590 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1591 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.74M chars | ~10,738,749 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.76M chars | ~10,755,277 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.73M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -104,6 +105,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 15. Translation source discovery uses the same canonical public-corpus walker as `i18n:status`. Translation scripts do not maintain a second domain-directory list; new public domains are discovered automatically, while a parity test and write-free preparation dry-run verify the shared denominator.
 16. `canonical_anchor` is required only on a true mirror page; the canonical anchor and ordinary related pages omit it. A declared target must resolve, be linked from the mirror's core body, and any declared drift blocks release. Semantic mirror classification and the reverse link remain editorial-review responsibilities.
 17. The publication flow is work branch → verified PR into `pre` → human-approved promotion PR from `pre` to `main` → production deploy → tag and GitHub Release on the same main merge commit. Do not push directly to `main`; record intentional release state in [releases/README.md](releases/README.md).
+18. Article-end discovery builds its route graph once during entry static-path generation and passes completed lanes to each page. The graph fingerprint detects intermediate-entry route, title, tag, and curated `related`-link changes; `EntryLayout` does not reload the full collection per page.
 
 ### Validation
 
@@ -124,11 +126,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1590 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1591 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1074万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,738,749） |
+| Text volume | 约1076万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,755,277） |
 | Word-like tokens | 约173万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -162,6 +164,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 15. 翻译 source discovery 与 `i18n:status` 使用同一个 canonical public-corpus walker。翻译脚本不再维护第二份领域目录列表；新增公开 domain 会被自动发现，并由 parity test 与不写文件的 prep dry-run 验证共同 denominator。
 16. `canonical_anchor` 只在真正的 mirror page 上必填；canonical anchor 与普通 related page 必须省略。声明的 target 必须可解析、必须由 mirror 的 core body 链接，任何 declared drift 都会阻断 release。页面是否属于 mirror 的语义判断和 reverse link 仍由 editorial review 负责。
 17. 公开流程是 work branch → verified PR 到 `pre` → 经人工批准的 `pre` 到 `main` promotion PR → production deploy → 在同一个 main merge commit 上建立 tag 与 GitHub Release。不得 direct push 到 `main`；有意的 release state 记录在 [releases/README.md](releases/README.md)。
+18. article-end discovery 在 entry static-path generation 阶段只构建一次 route graph，并把已完成的 lane 传给每个页面。graph fingerprint 会检测中间 entry 的 route、title、tag 与 curated `related` link 变化；`EntryLayout` 不再为每个页面重新载入完整 collection。
 
 ### 验证
 
