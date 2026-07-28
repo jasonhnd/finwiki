@@ -74,9 +74,10 @@
 ## tools/audit_runner.ts（advisory truthfulness audit）
 
 - `bun run audit:all --as-of YYYY-MM-DD` 默认写到 OS temporary directory。
+- `--history-dir <DIR>` 会递归读取 prior `summary.json`，只把 `as_of` 与 freshness actionable count 带入 bounded three-cycle trend；连续两个 cycle 增长时 advisory threshold 才会 trip。
 - repository 内显式 output 只允许 `audit-artifacts/` 或其子目录；real path 若落入其他 repository 位置会 fail。
 - summary 只写 audit counts / thresholds / never-actions，不记录 repository root 或 artifact absolute path。
-- `audit-artifacts/` 同时进入 gitignore、shared Markdown exclusion 与 wiki-link exclusion；CI 使用 `$RUNNER_TEMP`，publish assembler 对同名 Astro output 直接 fail。
+- `audit-artifacts/` 同时进入 gitignore、shared Markdown exclusion 与 wiki-link exclusion；CI 用 read-only Actions permission 下载前两个成功 scheduled artifacts，并在 `$RUNNER_TEMP` 中读写；publish assembler 对同名 Astro output 直接 fail。
 
 ## tools/update_footer_timestamp.ts
 

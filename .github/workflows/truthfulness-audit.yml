@@ -12,6 +12,7 @@ on:
         type: string
 
 permissions:
+  actions: read
   contents: read
 
 jobs:
@@ -42,10 +43,38 @@ jobs:
 
           echo "as_of=$as_of" >> "$GITHUB_OUTPUT"
 
+      - name: Download two prior scheduled audit artifacts
+        shell: bash
+        env:
+          AUDIT_HISTORY_DIR: ${{ runner.temp }}/finwiki-truthfulness-history
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$AUDIT_HISTORY_DIR"
+
+          run_ids="$(gh run list \
+            --workflow truthfulness-audit.yml \
+            --event schedule \
+            --status success \
+            --limit 2 \
+            --json databaseId \
+            --jq '.[].databaseId')"
+
+          downloaded=0
+          for run_id in $run_ids; do
+            gh run download "$run_id" \
+              --pattern 'truthfulness-audit-*' \
+              --dir "$AUDIT_HISTORY_DIR/run-$run_id"
+            downloaded=$((downloaded + 1))
+          done
+
+          echo "Downloaded $downloaded prior scheduled audit artifact(s)."
+
       - name: Run truthfulness audits
         env:
+          AUDIT_HISTORY_DIR: ${{ runner.temp }}/finwiki-truthfulness-history
           AUDIT_OUTPUT_DIR: ${{ runner.temp }}/finwiki-truthfulness-audit
-        run: bun run audit:all --out "$AUDIT_OUTPUT_DIR" --as-of "${{ steps.resolve_date.outputs.as_of }}"
+        run: bun run audit:all --out "$AUDIT_OUTPUT_DIR" --history-dir "$AUDIT_HISTORY_DIR" --as-of "${{ steps.resolve_date.outputs.as_of }}"
 
       - name: Publish threshold summary
         if: always()

@@ -1,26 +1,38 @@
 #!/usr/bin/env bun
 
-import { mkdirSync, realpathSync, writeFileSync } from "node:fs";
+import {
+  closeSync,
+  existsSync,
+  mkdtempSync,
+  mkdirSync,
+  openSync,
+  readFileSync,
+  readdirSync,
+  realpathSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { AUDIT_ARTIFACT_DIR_NAME } from "../lib/markdown_helpers";
 
-type Status = "tripped" | "not_tripped" | "monitor";
+export type Status = "tripped" | "not_tripped" | "monitor";
 
 export type CliOptions = {
   asOf: string;
+  historyDir: string | null;
   outDir: string;
   rootDir: string;
 };
 
-type AuditRun = {
+export type AuditRun = {
   name: string;
   command: string[];
   rows: Record<string, unknown>[];
 };
 
-type ThresholdCheck = {
+export type ThresholdCheck = {
   audit: string;
   status: Status;
   count: number;
@@ -30,6 +42,11 @@ type ThresholdCheck = {
 
 type AuditCounts = Record<string, number>;
 
+export type TrendPoint = {
+  as_of: string;
+  count: number;
+};
+
 export type Summary = {
   generated_at: string;
   as_of: string;
@@ -37,6 +54,9 @@ export type Summary = {
     factual_consistency: AuditCounts;
     provenance_completeness: AuditCounts;
     fact_freshness: AuditCounts;
+  };
+  trends: {
+    fact_freshness_actionable_rows: TrendPoint[];
   };
   checks: ThresholdCheck[];
   never_actions: string[];
@@ -119,13 +139,23 @@ export function main() {
     REPOSITORY_ROOT,
   );
 
-  const summary = buildSummary(options, consistency, provenance, freshness);
+  const history = options.historyDir
+    ? loadHistoricalTrend(options.historyDir)
+    : [];
+  const summary = buildSummary(
+    options,
+    consistency,
+    provenance,
+    freshness,
+    history,
+  );
   writeArtifacts(options.outDir, consistency, provenance, freshness, summary);
   printSummary(summary, options.outDir);
 }
 
 export function parseArgs(argv: string[]): CliOptions {
   let asOf = todayIso();
+  let requestedHistoryDir: string | null = null;
   let requestedOutDir: string | null = null;
   let rootDir = REPOSITORY_ROOT;
 
@@ -141,6 +171,11 @@ export function parseArgs(argv: string[]): CliOptions {
       index += 1;
     } else if (arg.startsWith("--out=")) {
       requestedOutDir = arg.slice("--out=".length);
+    } else if (arg === "--history-dir") {
+      requestedHistoryDir = requireValue(arg, argv[index + 1]);
+      index += 1;
+    } else if (arg.startsWith("--history-dir=")) {
+      requestedHistoryDir = arg.slice("--history-dir=".length);
     } else if (arg === "--root-dir") {
       rootDir = path.resolve(requireValue(arg, argv[index + 1])).replaceAll("\\", "/");
       index += 1;
@@ -160,6 +195,9 @@ export function parseArgs(argv: string[]): CliOptions {
 
   return {
     asOf,
+    historyDir: requestedHistoryDir
+      ? path.resolve(rootDir, requestedHistoryDir).replaceAll("\\", "/")
+      : null,
     outDir: resolveArtifactOutput(rootDir, requestedOutDir, asOf),
     rootDir,
   };
@@ -197,7 +235,7 @@ export function resolveArtifactOutput(
 }
 
 function printHelp() {
-  console.log(`Usage: bun tools/audit_runner.ts [--as-of YYYY-MM-DD] [--out DIR]
+  console.log(`Usage: bun tools/audit_runner.ts [--as-of YYYY-MM-DD] [--out DIR] [--history-dir DIR]
 
 Runs the read-only FinWiki truthfulness audits and writes artifacts:
 - factual-consistency.json
@@ -208,6 +246,8 @@ Runs the read-only FinWiki truthfulness audits and writes artifacts:
 
 The default output is outside the repository under the operating-system temp directory.
 An explicit in-repository output must stay under ${AUDIT_ARTIFACT_DIR_NAME}/.
+When --history-dir is supplied, prior summary.json artifacts are loaded recursively
+to evaluate two-cycle queue growth. Only dates and counts enter the new summary.
 The runner does not edit corpus pages, i18n mirrors, generated surfaces, or GitHub issues.`);
 }
 
@@ -222,17 +262,40 @@ function todayIso(): string {
   return new Date().toISOString().slice(0, 10);
 }
 
-function runAudit(name: string, command: string[], cwd: string): AuditRun {
-  const result = spawnSync(command[0]!, command.slice(1), {
-    cwd,
-    encoding: "utf8",
-    maxBuffer: 1024 * 1024 * 80,
-  });
-  if (result.status !== 0) {
-    const stderr = result.stderr.trim();
-    throw new Error(`${name} failed with exit ${result.status}: ${stderr || result.stdout}`);
+export function runAudit(
+  name: string,
+  command: string[],
+  cwd: string,
+): AuditRun {
+  // Bun 1.3.14 truncates spawnSync pipe output at 768 KiB even when maxBuffer
+  // is larger. Provenance JSON is already multiple MiB, so capture stdout in a
+  // private temporary file and read it only after the child exits.
+  const captureDir = mkdtempSync(
+    path.join(os.tmpdir(), "finwiki-audit-child-"),
+  );
+  const stdoutPath = path.join(captureDir, `${name}.json`);
+  let stdoutFd = openSync(stdoutPath, "w");
+  try {
+    const result = spawnSync(command[0]!, command.slice(1), {
+      cwd,
+      encoding: "utf8",
+      maxBuffer: 1024 * 1024 * 80,
+      stdio: ["ignore", stdoutFd, "pipe"],
+    });
+    closeSync(stdoutFd);
+    stdoutFd = -1;
+    const stdout = readFileSync(stdoutPath, "utf8");
+    if (result.status !== 0) {
+      const stderr = String(result.stderr ?? "").trim();
+      throw new Error(
+        `${name} failed with exit ${result.status}: ${stderr || stdout}`,
+      );
+    }
+    return { name, command, rows: parseJsonRows(stdout, name) };
+  } finally {
+    if (stdoutFd >= 0) closeSync(stdoutFd);
+    rmSync(captureDir, { recursive: true, force: true });
   }
-  return { name, command, rows: parseJsonRows(result.stdout, name) };
 }
 
 function parseJsonRows(stdout: string, name: string): Record<string, unknown>[] {
@@ -244,11 +307,101 @@ function parseJsonRows(stdout: string, name: string): Record<string, unknown>[] 
   return parsed as Record<string, unknown>[];
 }
 
-function buildSummary(
+export function loadHistoricalTrend(historyDir: string): TrendPoint[] {
+  if (!existsSync(historyDir)) {
+    throw new Error(`audit history directory does not exist: ${historyDir}`);
+  }
+
+  const candidates = new Map<
+    string,
+    { point: TrendPoint; generatedAt: string }
+  >();
+  for (const summaryPath of findSummaryFiles(historyDir)) {
+    const parsed = JSON.parse(readFileSync(summaryPath, "utf8")) as {
+      as_of?: unknown;
+      generated_at?: unknown;
+      audits?: {
+        fact_freshness?: {
+          actionable_rows?: unknown;
+        };
+      };
+    };
+    const asOf = String(parsed.as_of ?? "");
+    const count = parsed.audits?.fact_freshness?.actionable_rows;
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(asOf)) {
+      throw new Error(`historical summary has invalid as_of: ${summaryPath}`);
+    }
+    if (typeof count !== "number" || !Number.isInteger(count) || count < 0) {
+      throw new Error(
+        `historical summary has invalid fact_freshness.actionable_rows: ${summaryPath}`,
+      );
+    }
+    const generatedAt = String(parsed.generated_at ?? "");
+    const existing = candidates.get(asOf);
+    if (!existing || generatedAt.localeCompare(existing.generatedAt) > 0) {
+      candidates.set(asOf, {
+        point: { as_of: asOf, count },
+        generatedAt,
+      });
+    }
+  }
+
+  return [...candidates.values()]
+    .map((candidate) => candidate.point)
+    .sort((left, right) => left.as_of.localeCompare(right.as_of));
+}
+
+function findSummaryFiles(rootDir: string): string[] {
+  const files: string[] = [];
+  for (const entry of readdirSync(rootDir, { withFileTypes: true })) {
+    const entryPath = path.join(rootDir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...findSummaryFiles(entryPath));
+    } else if (entry.isFile() && entry.name === "summary.json") {
+      files.push(entryPath);
+    }
+  }
+  return files.sort();
+}
+
+export function evaluateTwoCycleGrowth(points: TrendPoint[]): {
+  status: Status;
+  details: string;
+  points: TrendPoint[];
+} {
+  const latest = [...points]
+    .sort((left, right) => left.as_of.localeCompare(right.as_of))
+    .slice(-3);
+  const trend = latest
+    .map((point) => `${point.as_of}=${point.count}`)
+    .join(" -> ");
+
+  if (latest.length < 3) {
+    return {
+      status: "monitor",
+      details: `need two prior summaries; observed ${latest.length - 1} prior cycle(s); trend=${trend}`,
+      points: latest,
+    };
+  }
+
+  const firstChange = latest[1]!.count - latest[0]!.count;
+  const secondChange = latest[2]!.count - latest[1]!.count;
+  const status =
+    firstChange > 0 && secondChange > 0 ? "tripped" : "not_tripped";
+  const signed = (value: number) => (value >= 0 ? `+${value}` : String(value));
+  return {
+    status,
+    details: `trend=${trend}; changes=${signed(firstChange)},${signed(secondChange)}`,
+    points: latest,
+  };
+}
+
+export function buildSummary(
   options: CliOptions,
   consistency: AuditRun,
   provenance: AuditRun,
   freshness: AuditRun,
+  history: TrendPoint[] = [],
 ): Summary {
   const consistencyCounts = countBy(consistency.rows, "severity");
   const provenanceCounts = countBy(provenance.rows, "severity");
@@ -262,6 +415,14 @@ function buildSummary(
   const consistencyRepeatedNeedsReview = repeatedConsistencyNeedsReview(consistency.rows);
   const provenanceNeedsReview = provenanceCounts.needs_review ?? 0;
   const tierOneFreshnessDue = freshnessCounts.tier1_review_by_due;
+  const historicalFreshness = history
+    .filter((point) => point.as_of < options.asOf)
+    .sort((left, right) => left.as_of.localeCompare(right.as_of))
+    .slice(-2);
+  const freshnessGrowth = evaluateTwoCycleGrowth([
+    ...historicalFreshness,
+    { as_of: options.asOf, count: freshnessCounts.actionable_rows },
+  ]);
 
   const checks: ThresholdCheck[] = [
     {
@@ -276,10 +437,13 @@ function buildSummary(
     },
     {
       audit: "factual_consistency_needs_review_pattern",
-      status: consistencyRepeatedNeedsReview > 0 ? "monitor" : "not_tripped",
+      status:
+        consistencyRepeatedNeedsReview > 0 ? "tripped" : "not_tripped",
       count: consistencyRepeatedNeedsReview,
-      threshold: "monitor repeated needs_review entity/metric groups; do not gate before calibration",
-      details: "cadence design mentions repeated needs_review patterns, but the runner keeps this advisory",
+      threshold:
+        "trip when a needs_review entity/metric group spans multiple source paths",
+      details:
+        "the threshold is advisory and includes paths from both sides of each consistency row",
     },
     {
       audit: "provenance_completeness",
@@ -297,10 +461,11 @@ function buildSummary(
     },
     {
       audit: "fact_freshness_queue_growth",
-      status: "monitor",
+      status: freshnessGrowth.status,
       count: freshness.rows.length,
-      threshold: "monitor two-cycle growth; requires a previous artifact for comparison",
-      details: "no historical artifact was supplied, so growth cannot be determined in this run",
+      threshold:
+        "trip when total actionable rows grow across two consecutive cycles",
+      details: freshnessGrowth.details,
     },
   ];
 
@@ -318,6 +483,9 @@ function buildSummary(
       },
       fact_freshness: freshnessCounts,
     },
+    trends: {
+      fact_freshness_actionable_rows: freshnessGrowth.points,
+    },
     checks,
     never_actions: NEVER_ACTIONS,
   };
@@ -332,19 +500,35 @@ function countBy(rows: Record<string, unknown>[], field: string): AuditCounts {
   return counts;
 }
 
-function repeatedConsistencyNeedsReview(rows: Record<string, unknown>[]): number {
+export function repeatedConsistencyNeedsReview(
+  rows: Record<string, unknown>[],
+): number {
   const groups = new Map<string, Set<string>>();
   for (const row of rows) {
     if (row.severity !== "needs_review") continue;
     const key = `${String(row.entity_key ?? "")}::${String(row.metric_key ?? "")}`;
     if (!groups.has(key)) groups.set(key, new Set());
-    groups.get(key)!.add(String(row.path ?? ""));
+    const paths = [
+      row.path,
+      asRecord(row.left)?.path,
+      asRecord(row.right)?.path,
+    ]
+      .map((value) => String(value ?? ""))
+      .filter(Boolean);
+    for (const sourcePath of paths) {
+      groups.get(key)!.add(sourcePath);
+    }
   }
   let repeated = 0;
   for (const paths of groups.values()) {
     if (paths.size > 1) repeated += 1;
   }
   return repeated;
+}
+
+function asRecord(value: unknown): Record<string, unknown> | null {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return null;
+  return value as Record<string, unknown>;
 }
 
 function isTierOneReviewByDue(row: Record<string, unknown>): boolean {
@@ -385,6 +569,12 @@ export function renderMarkdown(summary: Summary): string {
     `| factual_consistency | ${summary.audits.factual_consistency.total} | conflict=${summary.audits.factual_consistency.conflict ?? 0}; needs_review=${summary.audits.factual_consistency.needs_review ?? 0} |`,
     `| provenance_completeness | ${summary.audits.provenance_completeness.total} | needs_review=${summary.audits.provenance_completeness.needs_review ?? 0}; warning=${summary.audits.provenance_completeness.warning ?? 0} |`,
     `| fact_freshness | ${summary.audits.fact_freshness.total} | tier1_review_by_due=${summary.audits.fact_freshness.tier1_review_by_due}; actionable=${summary.audits.fact_freshness.actionable_rows} |`,
+    "",
+    "## Trends",
+    "",
+    "| Metric | Recent cycles |",
+    "|---|---|",
+    `| fact_freshness_actionable_rows | ${summary.trends.fact_freshness_actionable_rows.map((point) => `${point.as_of}=${point.count}`).join(" -> ")} |`,
     "",
     "## Threshold Status",
     "",
