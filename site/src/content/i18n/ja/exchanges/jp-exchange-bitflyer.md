@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-bitflyer
-source_hash: a34662a8c80c39b1
+source_hash: ab02483800052cd3
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社 bitFlyer — 日本暗号資産交換業者 overview"
-translated_at: 2026-06-02T12:19:04.221Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 株式会社 bitFlyer — 日本暗号資産交換業者 overview
@@ -23,8 +23,8 @@ translated_at: 2026-06-02T12:19:04.221Z
 - **設立**：2014年1月9日
 - **本店所在地**：〒107-6230 東京都港区赤坂9-7-1 ミッドタウン・タワー
 - **資本金**：41億238万円（資本準備金含）（公式サイト掲載値、時点未指定）
-- **親会社**：株式会社 bitFlyer Holdings（100%出資・未上場、設立2018年10月1日、資本金50億円）
-- **株主構成（Holdings 段階）**：加納裕三 約40%、小宮山峰史 約13%、積水ハウス 13%弱（2022年4月時点）。この比率は2022年4月の日経報道（少数株主連合＋小宮山・積水ハウスの賛同で ACA が5割超確保見込み）および Wikipedia 掲載値と整合。その後、ACA グループによる買収は2022年9月末に破談（加納の反対＋一部株主の売却撤回、評価額が楽天・マネックス参戦で約900億円に上昇）、2023-03-30 に加納が代表取締役に再任。これらの経緯により2022年4月の比率は変動した可能性が高いが、再任後（2023–2026年）の最新の出資比率は公開情報で未確認（未上場・IPO準備中）。
+- **親会社**：公式会社概要は株式会社 bitFlyer Holdings を株式会社 bitFlyer の株主・親会社として掲載し、Holdings の設立日を2018年10月1日、資本金を50億円（資本準備金含む）と開示している。^[Source: https://bitflyer.com/ja-jp/s/company.]
+- **株主構成（Holdings 段階）**：bitFlyer の現行公式開示は Holdings 自体の private cap table を掲載していないため、2022年の報道推計（創業者・少数株主の比率）を 2026年の現行持分として再掲しない。確認できる範囲は、株式会社 bitFlyer の株主が bitFlyer Holdings であることと、両社の現行役員・資本金である。^[Sources: https://bitflyer.com/ja-jp/s/company; https://bitflyer.com/ja-jp/s/director-profile.]
 - **会計監査人**：EY新日本有限責任監査法人
 - **主要取引銀行**：三井住友銀行
 - **法人番号**：2011101068824

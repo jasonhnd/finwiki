@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-dmm-com-securities
-source_hash: 6202a6db00d74ea1
+source_hash: 34cf925a21d24d24
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview
@@ -88,7 +88,7 @@ The company's mainstay business comprises the following 4 pillars:
 
 **Relationship to the wind-down of DMM Bitcoin (a separate legal entity)**:
 
-DMM.com Securities and DMM Bitcoin are separate legal entities (their address is the same Tokyo Nihonbashi Tower, but their legal personality and registration numbers differ). No official announcement can be confirmed that the wind-down of DMM Bitcoin (announced 2024-12  · completed 2025-03 ) directly affected DMM.com Securities' JVCEA crypto-asset derivatives registration or business continuity (as of 2026-05-18). However, because the crypto-asset spot trading business as the DMM Group disappeared, the group's crypto-asset business as a whole has contracted substantially.
+DMM.com Securities' official company profile lists it as a Type I and Type II Financial Instruments Business Operator and JVCEA member #1043. By contrast, the National Police Agency and SBI VC Trade identify the theft and customer-account transfer target as the separate legal entity DMM Bitcoin Inc.; SBI VC Trade gives 2025-03-08 as the transfer date for accounts and assets under custody. DMM Bitcoin's spot-exchange wind-down must therefore not be conflated with termination of DMM.com Securities as a legal entity or registrant. The narrower group scope is nevertheless clear: DMM's crypto-asset spot exchange ended while DMM.com Securities' financial-instruments business continued separately. ^[Sources: https://securities.dmm.com/company/; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.sbivc.co.jp/newsview/273xz3k65.]
 
 ## 7. Strategic developments
 

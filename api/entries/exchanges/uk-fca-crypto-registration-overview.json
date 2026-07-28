@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,10 +40,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fca.org.uk/"
+      "https://www.fca.org.uk/firms/cryptoassets/who-needs-register",
+      "https://www.fca.org.uk/firms/cryptoassets/how-apply-registration",
+      "https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/what-you-need-to-do"
     ]
   },
-  "summary": "Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は MLR 2017 (Money Laundering Regulations 2017) ベースの AML/CFT 登録のみ で、証券性のあるトークンや規制資産は別 framework (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の phased regulation (段階的規制) が進行中で、現行の AML 中心の枠組みから trading/custody/stable",
+  "summary": "UK の現行 cryptoasset-firm registration は MLR 2017 に基づく AML/CTF/CPF 監督であり、FSMA authorisation と同義ではない。FCA は新しい包括的な cryptoasset regulatory regime の申請期間を 2026-09-30 から 2027-02-28、施行日を 2027-10-25 と案内している。したがって、本項は「2026-27 の時期未定 phased regulation」ではなく、現行 MLR registration から 2027-10-25 の FSMA regime へ移る二段階とし",
   "headings": [
     "UK FCA crypto-asset registration regime",
     "1. 制度概要",
@@ -83,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2252,
-    "word_like_tokens": 367,
+    "nonspace_chars": 2875,
+    "word_like_tokens": 473,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

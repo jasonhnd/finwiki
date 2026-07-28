@@ -3,13 +3,15 @@ title: Privy · Stripe 傘下の埋込型セルフカストディウォレット
 aliases: [privy-embedded-wallet-overview, privy, stripe-privy, henri-stern]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: certain
 tags: [agent-economy, wallet, embedded-wallet, mpc, privy, stripe, self-custodial]
 sources:
   - https://docs.privy.io/
+  - https://privy.io/blog/announcing-our-acquisition-by-stripe
+  - https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/
 status: active
 ---
 
@@ -21,10 +23,9 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Key facts
 
-- 2021 ニューヨーク設立 · 創業者 Henri Stern + Asta Li ^[extracted]
-- 2025-06 Stripe に買収される($300-500M と推定) ^[extracted]
-- 買収時 75M アカウント · 2026-Q1 には 110M+ ウォレットに到達 ^[extracted]
-- 1,000+ developer team が統合 ^[extracted]
+- 2025-06-11 の公式発表は Henri Stern と Asta Li の連名で、Privy を「3 年余り前」に始めたと説明 ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
+- 同日、Stripe による買収を発表。発表時点では通常の完了条件付きで、数週間以内の完了見込みとされた ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
+- 買収発表時の公式開示は 75M+ accounts / 1,000+ developer teams。取引価格や 110M wallets という数値は同発表では開示されていない ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
 - Self-custodial モデル:MPC + TEE シャーディング · 秘密鍵は Privy 単一ポイントに存在しない ^[extracted]
 - ユーザー onboarding ~10 秒 vs MetaMask 5-10 分 ^[extracted]
 - 買収前のコア顧客:OpenSea / Hyperliquid / Farcaster / Friend.tech / Toku / Zora ^[extracted]
@@ -32,11 +33,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-ユーザーが email/Google でログインすると、Privy SDK(30 行のコード)がフロントエンドで MPC シャーディング鍵生成を実行する。**1 シャードはユーザーのデバイス**(Passkey / WebAuthn / Secure Enclave ベース)+ **1 シャードは Privy の TEE**(Trusted Execution Environment · AWS Nitro Enclaves あるいは同等)に保管される。署名時には 2 シャードが協調して有効な署名を生成するが、Privy だけでは署名できず、ユーザーも単独では署名できない — 「self-custodial でありながら管理不要」という折衷を実現する(同モデルは [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。Multichain balances API では 1 回の API 呼び出しで Ethereum / Solana / Tempo / Polygon 等のマルチチェーン残高を取得でき · 開発者がマルチチェーン集約を個別実装する必要をなくしている(下層は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] に依存)。体験全体は完全に Web2:ユーザーは seed phrase を見ず · MetaMask をインストールせず · ネットワーク切替も不要 — これが Privy が 110M ウォレット規模を占有する核心である。
+ユーザーが email/Google でログインすると、Privy SDK(30 行のコード)がフロントエンドで MPC シャーディング鍵生成を実行する。**1 シャードはユーザーのデバイス**(Passkey / WebAuthn / Secure Enclave ベース)+ **1 シャードは Privy の TEE**(Trusted Execution Environment · AWS Nitro Enclaves あるいは同等)に保管される。署名時には 2 シャードが協調して有効な署名を生成するが、Privy だけでは署名できず、ユーザーも単独では署名できない — 「self-custodial でありながら管理不要」という折衷を実現する(同モデルは [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。Multichain balances API では 1 回の API 呼び出しで Ethereum / Solana / Tempo / Polygon 等のマルチチェーン残高を取得でき · 開発者がマルチチェーン集約を個別実装する必要をなくしている(下層は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] に依存)。体験全体は完全に Web2:ユーザーは seed phrase を見ず · MetaMask をインストールせず · ネットワーク切替も不要。規模については、2025-06-11 の公式開示で確認できる 75M+ accounts を基準とし、一次資料で確認できない 110M wallets という推計は採用しない。
 
 ## Origin & evolution
 
-2021 ニューヨーク · 創業者 Stern + Li(以前は Protocol Labs)。2022-2024 OpenSea / Hyperliquid / Farcaster 等の dapp と深く統合し · 75M アカウントを蓄積。2024-Q4 Stripe が stablecoin + Tempo + Bridge 買収の連鎖戦略を始動し · ウォレット層が必要になった(戦略全体図は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] 参照)。2025-06 Stripe が Privy 買収を完了 · $300-500M と推定(Bridge は $1.1B との対比で · Privy は急成長期だったため評価額は低めだった)。2025 H2 Privy は独立ブランドで運営を続けつつ · Stripe Connect / Tempo / Bridge の内部需要に応え始めた。2026-05-07 AWS Bedrock AgentCore Payments が Privy と Coinbase CDP をデフォルト wallet provider に並列で組み込み — Privy の AI agent 経済インフラにおけるポジショニングが確立された([[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ5本柱]] の従来経路と対比)。
+Privy の 2025-06-11 公式発表は、Henri Stern と Asta Li が同社を「3 年余り前」に始め、発表時点で 75M+ accounts / 1,000+ developer teams を支えていたと説明した。同発表は Stripe による買収を通常の完了条件付き取引として公表し、Privy が独立した product として運営を続ける方針を示した。その後の Stripe / Privy 公開資料は Privy を Stripe company として扱い、AWS は 2026-05-07 に AgentCore Payments preview で Coinbase CDP と Stripe (Privy) の wallet connector を正式に列挙した。これらの一次資料は取引価格、110M wallets、または推定企業価値を開示していないため、本項ではそれらを確定値として扱わない。^[Sources: https://privy.io/blog/announcing-our-acquisition-by-stripe; https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/.]
 
 ## Related
 <!-- wiki-links:managed -->
@@ -49,3 +50,5 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 ## Sources
 
 - Privy docs — https://docs.privy.io/
+- Privy and Stripe acquisition announcement — https://privy.io/blog/announcing-our-acquisition-by-stripe
+- AWS AgentCore Payments preview — https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/

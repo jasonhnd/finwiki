@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T02:47:00+09:00
+Generated: 2026-07-29T03:36:44+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1595
-Public pages listed: 1594
+Markdown files: 1596
+Public pages listed: 1595
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1594
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table-level provenance proximity calibration (#219), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -576,7 +576,7 @@ Public pages listed: 1594
 - Type: wiki_entry
 - Summary: This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀 for peer / contrast context and payments index for the broader system / regulatory boundary.
 - Headings: Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧), Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/, https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/, https://finwiki.zksc.io/ja/domains/payments/, https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/, https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/, https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/, https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/, https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/, https://finwiki.zksc.io/ja/domains/payments/, https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/, https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/
 
 ### Skill マーケット有料化
 - URL: https://finwiki.zksc.io/ja/agent-economy/skill-market-monetization/
@@ -3938,7 +3938,7 @@ Public pages listed: 1594
 - Type: wiki_entry
 - Summary: A Japanese 暗号資産交換業者 (FSA-registered VASP) is rarely a standalone business — it is almost always a node inside a parent financial group (FG) that already runs securities, banking, payments, points, remittance, insurance, or e-commerce. The FG-adjacency dimension is what determines (a) funding cost fo
 - Headings: Japan CEX parent FG adjacency matrix, TL;DR, Wiki route, Why this matrix matters, Per-operator profiles, SBI VC Trade — SBI HD (8473), GMO Coin — GMO Financial HD (7177) / GMO Internet Group (9449), bitFlyer — independent (no listed parent)
-- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/
 
 ### 国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較
 - URL: https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/
@@ -3988,7 +3988,7 @@ Public pages listed: 1594
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/japan-vasp-business-model-competitive-matrix.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は (1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所 という 10 のビジネスモデル軸で異なるポジションを取る。販売所スプレッド 収益モデルが国内市場の主軸である一方、海外系日本法人
+- Summary: FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で 26 業者を掲載している。本マトリクスの 39 分析行は、この登録母集団だけでなく、暗号資産デリバティブ、電子決済手段、機関向け隣接事業、移行・履歴上の関連 entity を含むため、39 を FSA 登録 VASP 数として読んではならない。各行は (1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所
 - Headings: 日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較, TL;DR, Wiki route, Why this matrix matters, Per-operator sections, A. 独立系老舗 + bitFlyer Holdings 系 (現物 + デリバ主軸), B. 金融グループ系 (現物 + デリバ + ステーキング 全方位), C. 海外系日本法人 (グローバル流動性ブリッジ)
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-matching-engine-wallet-architecture/, https://finwiki.zksc.io/ja/exchanges/cex-native-token-strategy-comparison/, https://finwiki.zksc.io/ja/exchanges/crypto-custody-provider-landscape-matrix/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/japan-stablecoin-issuer-regulatory-classification-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-exchange-overview/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-backseat-exchange/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/
 
@@ -4976,7 +4976,7 @@ Public pages listed: 1594
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-parent-company-map.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 国内暗号資産交換業者 (VASP) は約 35 社 (2026-05 時点) が FSA 登録済みで、親会社属性により行動様式が大きく異なる。資本系列を 3 大分類で整理すると、(1) 上場会社系（独立した持株会社・事業会社の子会社）、(2) 独立系（親会社なし、創業者・経営陣保有）、(3) 海外系（グローバル CEX の日本法人）に分かれ、それぞれ商品設計・コンプラ姿勢・流動性供給戦略が異なる。
+- Summary: FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で 26 業者を掲載している。本ページはこの公式母集団の親会社属性を起点にし、関連する持株会社・デリバティブ entity・履歴上の operator を別ラベルで補足する。資本系列を 3 大分類で整理すると、(1) 上場会社系（独立した持株会社・事業会社の子会社）、(2) 独立系（親会社なし、創業者・経営陣保有）、(3) 海外系（グローバル CEX の日本法人）に分かれるが、関連 entity を足した分析行数を FSA 登録業者数として扱わない。^[Source: https://www.fsa.go.jp/menkyo/me
 - Headings: 国内 VASP 親会社・株主構造マップ, 概要, 大手金融 conglomerate 系（主要 5 群）, 上場会社系（上記以外）, 海外系（グローバル CEX 日本法人）, 独立系（親会社なし）, 行動様式の差
 - First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-backseat-exchange/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-btcbox/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/
 
@@ -5236,7 +5236,7 @@ Public pages listed: 1594
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/uk-fca-crypto-registration-overview.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は MLR 2017 (Money Laundering Regulations 2017) ベースの AML/CFT 登録のみ で、証券性のあるトークンや規制資産は別 framework (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の phased regulation (段階的規制) が進行中で、現行の AML 中心の枠組みから trading/custody/stable
+- Summary: UK の現行 cryptoasset-firm registration は MLR 2017 に基づく AML/CTF/CPF 監督であり、FSMA authorisation と同義ではない。FCA は新しい包括的な cryptoasset regulatory regime の申請期間を 2026-09-30 から 2027-02-28、施行日を 2027-10-25 と案内している。したがって、本項は「2026-27 の時期未定 phased regulation」ではなく、現行 MLR registration から 2027-10-25 の FSMA regime へ移る二段階とし
 - Headings: UK FCA crypto-asset registration regime, 1. 制度概要, 2. 制度の二段階構造, 3. 主要保有事業者 (2024-2026), 4. 2024 Financial Promotion Regulation, 5. 戦略的位置づけ, Cross-links
 - First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/, https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/
 
@@ -17186,6 +17186,15 @@ Public pages listed: 1594
 - Domain: releases
 - Type: release_note
 - Headings: 表単位の出典監査校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 低密度出典17件と翻訳保護の校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-6.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-6.md
+- Source path: releases/v2026.07.29-6.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-6.md
+- Domain: releases
+- Type: release_note
+- Headings: 低密度出典17件と翻訳保護の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md
