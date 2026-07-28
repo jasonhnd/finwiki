@@ -7,8 +7,8 @@ aliases:
   - cross-domain-mirror-rules
 domain: control-mirror
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-28
+last_tended: 2026-07-28
 review_by: 2027-05-25
 confidence: likely
 tags: [meta, convention, mirror-page, cross-domain, navigation]
@@ -24,10 +24,10 @@ sources:
 
 ## Wiki route
 
-This policy sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[cross-domain-anchor-convention|cross-domain anchor convention]] for the canonical-anchor designation rule and with [[frontmatter-canonical-anchor-field-proposal|frontmatter canonical_anchor proposal]] for the forward-looking machine-readable extension. Use the routing surface [[INDEX]] to confirm the current domain map.
+This policy sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[cross-domain-anchor-convention|cross-domain anchor convention]] for the current designation rule and with [[frontmatter-canonical-anchor-field-proposal|the historical canonical_anchor decision record]] for rollout context. Use the routing surface [[INDEX]] to confirm the current domain map.
 
 > [!info] TL;DR
-> The default for FinWiki is **one canonical anchor per entity**, with cross-links from other domains. Mirror pages — full parallel pages of the same entity in two or three domains — are allowed but **rare**, justified only when each domain's index would lose navigational completeness without a local page and the two pages can carry **non-overlapping content focus**. This document codifies when to mirror, when to cross-link instead, and how to coordinate frontmatter aliases and reciprocal links between mirror siblings.
+> The default for FinWiki is **one canonical anchor per entity**, with cross-links from other domains. Mirror pages — full parallel pages of the same entity in two or three domains — are allowed but **rare**, justified only when each domain's index would lose navigational completeness without a local page and the pages can carry **non-overlapping content focus**. Every admitted mirror must declare `canonical_anchor` to the primary page and link it in the core body; the anchor and ordinary pages omit the field.
 
 ## 1. Definition of terms
 
@@ -50,7 +50,7 @@ The canonical-anchor-only approach is the right answer for ~95% of cross-domain 
 
 A mirror page is warranted only when **all** of the following are true:
 
-1. **Distinct regulator-facing perimeters.** The entity sits inside two different regulatory or operating perimeters, each of which has its own domain index that should enumerate the entity (e.g. an insurance-license perimeter and a JapanFG operating-company catalog).
+1. **Distinct regulator-facing perimeters.** The entity sits inside two different regulatory or operating perimeters, each of which has its own domain index that should enumerate the entity (e.g. an insurance-topic perimeter and a role-specific non-life-insurer operating-company catalog).
 2. **Non-overlapping content focus.** The two pages can carry meaningfully different content (different angle, different framing, different cluster of peers). If one page would be 80%+ duplicate of the other, do not mirror.
 3. **Index navigational completeness loss.** Removing the entity from one of the two domain indexes would create a visible gap a reader would hit when scanning that index.
 4. **Maintainable.** The entity is stable enough that two synchronized pages can be kept aligned (not a fast-moving stablecoin issuer with weekly news cycles).
@@ -59,16 +59,16 @@ If any of these fails, use a single canonical anchor plus cross-references from 
 
 ## 4. Worked example: Saison Automobile & Fire (justified mirror)
 
-The pair [[insurance/saison-automobile-fire|insurance domain page]] + [[non-life-insurers/saison-automobile-fire-insurance|JapanFG domain page]] is a justified mirror:
+The pair [[insurance/saison-automobile-fire|insurance domain page]] + [[non-life-insurers/saison-automobile-fire-insurance|non-life-insurers domain page]] is a justified mirror:
 
-- **Distinct perimeters:** the insurance perimeter (non-life insurance / direct insurance / auto insurance product) and the JapanFG operating-company perimeter (Credit Saison brand stack + SOMPO subsidiary structure) are both real and both have their own indexes that should enumerate this entity.
-- **Non-overlapping focus:** the insurance page emphasizes **product economics, channel mix, direct-insurance positioning, and natcat reinsurance bridge**. The JapanFG page emphasizes **the SOMPO subsidiary structure, the Saison brand stack, the "Otona no Jidousha Hoken" product line, and the operating-company catalog framing**.
-- **Index completeness:** [[insurance/INDEX]] needs to list this insurer alongside [[insurance/japan-nonlife-big-three]]; [[JapanFG/INDEX]] needs to list it alongside [[card-issuers/credit-saison]] and other SOMPO operating entities.
+- **Distinct perimeters:** the insurance-topic perimeter (non-life insurance / direct insurance / auto insurance product) and the `non-life-insurers/` operating-company perimeter (Credit Saison brand stack + SOMPO subsidiary structure) are both real and both have indexes that should enumerate this entity.
+- **Non-overlapping focus:** the insurance page emphasizes **product economics, channel mix, direct-insurance positioning, and natcat reinsurance bridge**. The `non-life-insurers/` page emphasizes **the SOMPO subsidiary structure, the Saison brand stack, the "Otona no Jidousha Hoken" product line, and the operating-company catalog framing**.
+- **Index completeness:** [[insurance/INDEX]] needs to list this insurer alongside [[insurance/japan-nonlife-big-three]]; [[non-life-insurers/INDEX]] needs to list it alongside [[card-issuers/credit-saison]] and other relevant operating entities.
 - **Maintainable:** the entity is a stable Japanese non-life insurer with predictable disclosure cadence.
 
 ## 5. Worked counter-example: Circle USDC (not mirrored)
 
-[[fintech/circle-usdc-stablecoin]] is the **single canonical anchor** for Circle Internet Financial in FinWiki. There is no JapanFG mirror page even though Circle has Japan-relevant context (FSA stablecoin perimeter, Japan-side IS-LM consumption). Why no mirror?
+[[fintech/circle-usdc-stablecoin]] is the **single canonical anchor** for Circle Internet Financial in FinWiki. There is no second institution-domain mirror page even though Circle has Japan-relevant context (FSA stablecoin perimeter, Japan-side IS-LM consumption). Why no mirror?
 
 - **Non-overlapping focus would not exist.** A Japan-only Circle page would be 80%+ duplicate of the global fintech anchor and would drift quickly.
 - **The Japan-side perimeter is already covered.** [[banking/japan-stablecoin-bank-perimeter-2025]] is the Japan-side anchor for the **stablecoin perimeter as a banking topic**, not for any specific issuer. This is the correct level of abstraction.
@@ -80,7 +80,7 @@ The right pattern is therefore: one canonical anchor in `fintech/`, cross-refere
 
 The JPM family demonstrates a **cross-product split** that looks like a mirror but is not:
 
-- [[foreign-financial-institutions/jpmorgan-japan|JapanFG JPMorgan Japan]] — Japan four-entity operating structure.
+- [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan institution page]] — Japan four-entity operating structure.
 - [[fintech/jpmorgan-jpmd-coin|JPMD coin]] — tokenized-deposit product.
 - [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]] — wholesale tokenized-money network.
 - [[fintech/partior-jpm-dbs-temasek-consortium|Partior]] — multi-bank consortium product.
@@ -95,20 +95,20 @@ This pattern — one canonical anchor per real-world entity or per distinct prod
 When a mirror is justified, the two pages must be frontmatter-coordinated:
 
 - **`aliases:` must overlap.** Every public name of the entity must appear in `aliases:` on **both** pages. This ensures Obsidian link resolution lands on whichever page the reader's link form matches. (In practice, both pages will often resolve, and Obsidian picks one — that is acceptable.)
-- **`tags:` should differ in cluster keys.** The insurance-domain mirror should have `tags: [insurance, ...]`; the JapanFG-domain mirror should have `tags: [JapanFG, insurance, ...]` so the entity is discoverable from both domain tag searches.
+- **`tags:` should differ in cluster keys.** The insurance-topic view should have `tags: [insurance, ...]`; the operating-company anchor should use role-specific keys such as `tags: [non-life-insurers, insurance, ...]` so the entity is discoverable from both domain tag searches.
 - **`domain:` must equal the parent directory.** This is a [[SCHEMA]] hard rule; do not set `domain:` to the other domain's name.
 - **`status:` should match.** If one page is `active`, the other should be `active`. A mirror with mismatched lifecycle is a quality bug.
-- **Forward-looking:** a future `canonical_anchor:` frontmatter field would point each mirror at its single source-of-truth sibling. See [[frontmatter-canonical-anchor-field-proposal]].
+- **`canonical_anchor:` is required on the mirror page.** It points to one designated primary anchor using a vault-root `domain/slug` path. The anchor page and ordinary related pages omit the field. The mirror must link that exact target in its core body; declared drift blocks release. See [[SCHEMA]] and the [[frontmatter-canonical-anchor-field-proposal|historical decision record]].
 
 ## 8. Reciprocal cross-link rule for mirror pairs
 
 Mirror pages **must** cross-link in the body, not only in `## Related`:
 
-- The insurance mirror's `## Wiki route` paragraph (or an equivalent body paragraph) must link to the JapanFG mirror.
-- The JapanFG mirror's `## Wiki route` paragraph must link to the insurance mirror.
+- The declaring mirror's `## Wiki route` paragraph (or an equivalent core-body paragraph) must link to its `canonical_anchor`.
+- The canonical anchor should link back to the mirror so readers can traverse both domain views.
 - Both pages should link to the same set of peer entries (e.g. the relevant comparison-matrix pages) so the cluster context is preserved on both sides.
 
-This is the same reciprocal-link rule as for ordinary cross-domain references (see [[cross-domain-anchor-convention]] §7), applied with extra strictness because mirror siblings are the easiest pair to let drift.
+The release gate mechanically checks the declaring mirror's anchor resolution and core-body link. The reverse anchor-to-mirror link remains an editorial review rule because the anchor does not self-declare every mirror.
 
 ## 9. When in doubt: cross-reference, do not mirror
 
@@ -118,10 +118,10 @@ The cost of converting a cross-reference into a mirror later is low. The cost of
 
 ## 10. Anti-patterns
 
-- **Vanity mirrors.** Creating a JapanFG mirror of a fintech-domain stablecoin issuer just because the issuer has a Japan-side counterparty is a vanity mirror. Use a cross-reference instead.
+- **Vanity mirrors.** Creating a role-specific institution mirror of a fintech-domain stablecoin issuer just because the issuer has a Japan-side counterparty is a vanity mirror. Use a cross-reference instead.
 - **Stub mirrors.** A 30-line "see the canonical page for details" stub mirror is worse than no mirror; it fails the body-link density check and creates index clutter.
 - **Drift.** Two mirror pages that contradict each other on basic facts (capital, license number, subsidiary count) are a quality failure. Schedule a `last_tended:` review for both pages at the same date.
-- **Asymmetric link.** Mirror A links to mirror B, but mirror B does not link to mirror A. This is an orphan link. The link audit ([[wiki-link-improvement-plan]]) does not catch this directly; reviewers must.
+- **Asymmetric link.** The mirror links to its anchor, but the anchor does not link back. Declared-anchor drift catches a missing mirror-to-anchor link; reviewers must still catch a missing reverse link.
 
 ## 11. Decision flow (summary)
 
@@ -129,7 +129,7 @@ The cost of converting a cross-reference into a mirror later is low. The cost of
 2. Can the two pages carry meaningfully non-overlapping content? If no → cross-reference.
 3. Would each domain's index have a visible gap without a local page? If no → cross-reference.
 4. Is the entity stable enough to maintain in sync? If no → cross-reference.
-5. All four yes → mirror; coordinate frontmatter aliases and body reciprocal links.
+5. All four yes → designate one anchor, add `canonical_anchor` only to each mirror, link the anchor in each mirror's core body, and add the editorial reverse link from the anchor.
 
 ## Related
 
@@ -138,7 +138,7 @@ The cost of converting a cross-reference into a mirror later is low. The cost of
 - [[cross-domain-anchor-convention]] — canonical-anchor designation rule.
 - [[domain-bridge-navigation-guide]] — reader-facing journey patterns.
 - [[topic-cluster-reference]] — thematic cluster groupings.
-- [[frontmatter-canonical-anchor-field-proposal]] — proposed machine-readable `canonical_anchor:` field.
+- [[frontmatter-canonical-anchor-field-proposal]] — historical decision record for the implemented `canonical_anchor:` field.
 - [[wiki-link-improvement-plan]] — body-link audit and standards.
 
 ## Sources

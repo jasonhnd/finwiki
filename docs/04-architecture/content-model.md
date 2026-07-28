@@ -20,7 +20,7 @@ Canonical frontmatter is defined in root `SCHEMA.md`. The important operational 
 - `domain`: owning domain.
 - `slug`: route slug.
 - `sources`: public source references.
-- `canonical_anchor`: optional mirror-to-anchor relationship.
+- `canonical_anchor`: conditionally required mirror-to-anchor relationship; mirror pages declare it, while the anchor and ordinary entries omit it.
 - `status` and `confidence`: review state and confidence.
 
 ## Derived Fields

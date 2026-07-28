@@ -57,8 +57,8 @@
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
-| `control-mirror` | 1 | 0 | 25.0 |
-| `control-proposal` | 1 | 0 | 28.0 |
+| `control-mirror` | 1 | 0 | 24.0 |
+| `control-proposal` | 1 | 0 | 4.0 |
 | `cooperative-banks` | 46 | 0 | 15.6 |
 | `corporate-strategy` | 11 | 0 | 19.2 |
 | `derivatives` | 33 | 0 | 20.8 |

@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-28T21:01:09+09:00
+Generated: 2026-07-28T21:18:53+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1586
-Public pages listed: 1585
+Markdown files: 1587
+Public pages listed: 1586
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1585
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Shared translation corpus discovery repair (#182), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -94,7 +94,7 @@ Public pages listed: 1585
 - Domain: root
 - Type: control_doc
 - Summary: Every entry must be safe for a public repository. Do not commit:
-- Headings: Wiki Frontmatter Schema, Public-Surface Requirement, Required Fields, Recommended Fields, Body-Link Requirement, Optional / Legacy Fields, Confidence Enum, Status Lifecycle
+- Headings: Wiki Frontmatter Schema, Public-Surface Requirement, Required Fields, Recommended Fields, Body-Link Requirement, Conditional / Optional / Legacy Fields, Confidence Enum, Status Lifecycle
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/OBSIDIAN-SETUP.md
 
 ### Agent 決済インフラ調査レポート
@@ -2913,7 +2913,7 @@ Public pages listed: 1585
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cross-domain-anchor-convention.md
 - Domain: root
 - Type: wiki_entry
-- Summary: This entry sits at FinWiki root next to SCHEMA and INDEX. Read it together with entity mirror-page policy for parallel-page rules, domain bridge navigation guide for the reader-facing flow, and frontmatter canonical_anchor proposal for the forward-looking machine-readable extension.
+- Summary: This entry sits at FinWiki root next to SCHEMA and INDEX. Read it together with entity mirror-page policy for parallel-page rules, domain bridge navigation guide for the reader-facing flow, and the historical canonical_anchor decision record for rollout context.
 - Headings: Cross-Domain Anchor Convention · FinWiki 跨领域实体页面归属约定, Wiki route, 1. Why this matters, 2. Canonical anchor designation rule, 3. Worked examples, 4. When the canonical anchor sits in fintech but the entity is also a Japan-regulated operator, 5. When to create a mirror page instead of a cross-link, 6. Frontmatter alignment for cross-domain entities
 - First resolved wikilinks: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md, https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/SCHEMA.md, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/domain-bridge-navigation-guide.md, https://finwiki.zksc.io/entity-mirror-page-policy.md, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/, https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/, https://finwiki.zksc.io/ja/fintech/stripe-usdb-bridge-stablecoin/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/, https://github.com/jasonhnd/finwiki/blob/main/frontmatter-canonical-anchor-field-proposal.md
 
@@ -3364,9 +3364,9 @@ Public pages listed: 1585
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/entity-mirror-page-policy.md
 - Domain: root
 - Type: wiki_entry
-- Summary: This policy sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the canonical-anchor designation rule and with frontmatter canonical_anchor proposal for the forward-looking machine-readable extension. Use the routing surface INDEX to confirm the cu
+- Summary: This policy sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the current designation rule and with the historical canonical_anchor decision record for rollout context. Use the routing surface INDEX to confirm the current domain map.
 - Headings: Entity Mirror-Page Policy · FinWiki 镜像页面规则, Wiki route, 1. Definition of terms, 2. Default rule: do not mirror, 3. When mirroring is justified, 4. Worked example: Saison Automobile & Fire (justified mirror), 5. Worked counter-example: Circle USDC (not mirrored), 6. Worked counter-example: JPMorgan (cross-product split, not mirror)
-- First resolved wikilinks: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md, https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/JapanFG/INDEX.md, https://finwiki.zksc.io/SCHEMA.md, https://finwiki.zksc.io/ja/banking/japan-stablecoin-bank-perimeter-2025/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/cross-domain-anchor-convention.md, https://finwiki.zksc.io/domain-bridge-navigation-guide.md, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/, https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/
+- First resolved wikilinks: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md, https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/SCHEMA.md, https://finwiki.zksc.io/ja/banking/japan-stablecoin-bank-perimeter-2025/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/cross-domain-anchor-convention.md, https://finwiki.zksc.io/domain-bridge-navigation-guide.md, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/, https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/, https://finwiki.zksc.io/ja/fintech/partior-jpm-dbs-temasek-consortium/
 
 ### exchanges — Crypto exchange / VASP / market-structure index
 - URL: https://finwiki.zksc.io/ja/domains/exchanges/
@@ -9189,16 +9189,16 @@ Public pages listed: 1585
 - Headings: ウリィ銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/, https://finwiki.zksc.io/ja/foreign-financial-institutions/hana-bank-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/industrial-bank-of-korea-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/kb-kookmin-bank-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/korea-development-bank-japan/, https://finwiki.zksc.io/ja/regional-banks/sbj-bank/
 
-### Frontmatter canonical_anchor Field · 提议 / Proposal
+### Frontmatter canonical_anchor Field · Historical Decision Record
 - URL: https://github.com/jasonhnd/finwiki/blob/main/frontmatter-canonical-anchor-field-proposal.md
 - Raw Markdown: https://raw.githubusercontent.com/jasonhnd/finwiki/main/frontmatter-canonical-anchor-field-proposal.md
 - Source path: frontmatter-canonical-anchor-field-proposal.md
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/frontmatter-canonical-anchor-field-proposal.md
 - Domain: root
 - Type: wiki_entry
-- Summary: This proposal sits at FinWiki root next to SCHEMA and INDEX. Read it together with cross-domain anchor convention for the prose rules it would formalize, with mirror-page policy for the case that motivates the field, and with domain bridge navigation guide for the reader-side benefit.
-- Headings: Frontmatter canonical_anchor Field · 提议 / Proposal, Wiki route, 1. Motivation, 2. The proposed field, Example: mirror pair, Example: cross-product split (JPM family), 3. Tradeoffs, Pros
-- First resolved wikilinks: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md, https://finwiki.zksc.io/CHANGELOG.md, https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/SCHEMA.md, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/cross-domain-anchor-convention.md, https://finwiki.zksc.io/domain-bridge-navigation-guide.md, https://finwiki.zksc.io/entity-mirror-page-policy.md, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/, https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/
+- Summary: This historical record sits at FinWiki root next to the current schema and the repository map. Read the mirror-page policy and the anchor convention for current editorial rules. The original proposal is retained to explain why canonical_anchor exists; it is not a future-work specification.
+- Headings: Frontmatter canonical_anchor Field · Historical Decision Record, Wiki route, 1. Original problem, 2. Landed decision sequence, 3. Current authoritative contract, 4. Resolved design questions, 5. Current outputs and invariants, 6. Supersession
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/SCHEMA.md, https://finwiki.zksc.io/cross-domain-anchor-convention.md, https://finwiki.zksc.io/entity-mirror-page-policy.md, https://github.com/jasonhnd/finwiki/blob/main/wiki-link-improvement-plan.md
 
 ### Insurance domain
 - URL: https://finwiki.zksc.io/ja/domains/insurance/
@@ -17103,6 +17103,15 @@ Public pages listed: 1585
 - Domain: releases
 - Type: release_note
 - Headings: 翻訳対象コーパスの統一, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 正準アンカー契約と文書入口の統一
+- URL: https://finwiki.zksc.io/releases/v2026.07.28-8.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28-8.md
+- Source path: releases/v2026.07.28-8.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-8.md
+- Domain: releases
+- Type: release_note
+- Headings: 正準アンカー契約と文書入口の統一, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 翻訳保護と公開隔離の強化
 - URL: https://finwiki.zksc.io/releases/v2026.07.28.md
