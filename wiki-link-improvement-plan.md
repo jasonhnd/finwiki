@@ -68,7 +68,7 @@
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
-| `finwiki-issue-181` | 1 | 0 | 46.0 |
+| `finwiki-issue-179` | 1 | 0 | 46.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
