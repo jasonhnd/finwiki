@@ -67,7 +67,7 @@
 | `financial-conglomerates` | 8 | 0 | 25.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
-| `fintech` | 144 | 0 | 10.9 |
+| `fintech` | 144 | 0 | 10.8 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.6 |
@@ -75,7 +75,7 @@
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
 | `manufacturer-finance` | 14 | 0 | 17.4 |
-| `megabanks` | 20 | 0 | 15.9 |
+| `megabanks` | 20 | 0 | 15.8 |
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
