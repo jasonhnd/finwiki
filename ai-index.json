@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-28T21:18:53+09:00",
+  "generated_at": "2026-07-29T00:01:36+09:00",
   "counts": {
-    "markdown_files": 1587,
-    "public_markdown_pages": 1586,
+    "markdown_files": 1590,
+    "public_markdown_pages": 1589,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10715523,
-    "word_like_tokens": 1721672,
+    "nonspace_utf8_chars": 10738749,
+    "word_like_tokens": 1725932,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,20 +2663,22 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190)",
+        "2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188)",
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Shared translation corpus discovery repair (#182)"
+        "2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 121446,
-      "word_like_tokens": 21990,
-      "last_modified": "2026-07-28"
+      "nonspace_chars": 130663,
+      "word_like_tokens": 23594,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3229,13 +3231,14 @@
         "https://finwiki.zksc.io/en/",
         "https://finwiki.zksc.io/ja/",
         "llms-full.txt",
-        "llms.txt"
+        "llms.txt",
+        "releases/README.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11890,
-      "word_like_tokens": 2080,
-      "last_modified": "2026-07-28"
+      "nonspace_chars": 12568,
+      "word_like_tokens": 2211,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "SCHEMA.md",
@@ -85966,6 +85969,41 @@
       "last_modified": "2026-06-08"
     },
     {
+      "source_path": "releases/README.md",
+      "url": "https://finwiki.zksc.io/releases/README.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/README.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/README.md",
+      "title": "リリース状態台帳 / Release State Registry / 发布状态台账",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "この台帳は、releases/v*.md、Git tag、GitHub Release の関係を明示します。release note の basename と tag / GitHub Release の tag は同じ version を使います。",
+      "headings": [
+        "リリース状態台帳 / Release State Registry / 发布状态台账",
+        "日本語",
+        "公開済み",
+        "個別には公開しない staging record",
+        "詳細履歴",
+        "English",
+        "Published",
+        "Staging records not published individually",
+        "Detailed history",
+        "中文"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [
+        "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
+      ],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 3544,
+      "word_like_tokens": 718,
+      "last_modified": "2026-07-29"
+    },
+    {
       "source_path": "releases/v2026.05.20-2.md",
       "url": "https://finwiki.zksc.io/releases/v2026.05.20-2.md",
       "html_url": null,
@@ -87070,6 +87108,34 @@
       "nonspace_chars": 16172,
       "word_like_tokens": 3037,
       "last_modified": "2026-06-04"
+    },
+    {
+      "source_path": "releases/v2026.05.29.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.05.29.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.05.29.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.29.md",
+      "title": "公開計数再同期と国際化完了と発布自動化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "前回 release v2026.05.24-3 以降の知識ベース公開スナップショット。既存 GitHub Release body を repository release note として復元した記録であり、公開済み tag / Release の内容は変更していません。",
+      "headings": [
+        "公開計数再同期と国際化完了と発布自動化",
+        "主な変更 / Highlights / 主要变更",
+        "日本語",
+        "English",
+        "中文"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 1927,
+      "word_like_tokens": 381,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "releases/v2026.05.31-2.md",
@@ -89052,6 +89118,39 @@
       "nonspace_chars": 5172,
       "word_like_tokens": 919,
       "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28-9.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-9.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-9.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-9.md",
+      "title": "検証基盤統合と公開リリース再開",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "検証基盤統合と公開リリース再開",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 7860,
+      "word_like_tokens": 1426,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "releases/v2026.07.28.md",
