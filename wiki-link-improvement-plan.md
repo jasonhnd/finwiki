@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 12 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,18 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `fintech/paypal-pyusd-stablecoin.md` | `M` | 3 | ok |
-| `fintech/three-circles-mra-2030-economic-scale.md` | `M` | 5 | ok |
-| `fintech/wholesale-settlement-network-matrix.md` | `M` | 18 | ok |
-| `foreign-financial-institutions/foreign-bank-branches-japan-index.md` | `M` | 81 | ok |
-| `insurance/sony-life-group-life-operating-model.md` | `M` | 45 | ok |
-| `leasing-firms/toyota-financial.md` | `M` | 7 | ok |
-| `life-insurers/dai-ichi-life.md` | `M` | 9 | ok |
-| `life-insurers/meiji-yasuda.md` | `M` | 16 | ok |
-| `loyalty/sb-yahoo-paypay-points-unified-ecosystem.md` | `M` | 14 | ok |
-| `manufacturer-finance/toyota-financial-services.md` | `M` | 17 | ok |
-| `megabanks/japan-post-holdings.md` | `M` | 23 | ok |
-| `megabanks/paypay-fg.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
