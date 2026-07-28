@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T03:36:44+09:00
+Generated: 2026-07-29T04:32:49+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1596
-Public pages listed: 1595
+Markdown files: 1597
+Public pages listed: 1596
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1595
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -7959,7 +7959,7 @@ Public pages listed: 1595
 - Headings: Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG, TL;DR, Wiki route, What broke in 2023 — the BUSD stop-mint, Product matrix (2026-05), PYUSD — the flagship after BUSD, USDG — the multi-distributor alliance, USDL — Lift Dollar, yield-bearing from ADGM
 - First resolved wikilinks: https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/apollo-acred-private-credit-tokenization/, https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/, https://finwiki.zksc.io/ja/fintech/cbbtc-institutional-btc-wrapper/, https://finwiki.zksc.io/ja/fintech/first-digital-fdusd-hk-stablecoin/, https://finwiki.zksc.io/ja/fintech/frax-frxusd-defi-stablecoin/, https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/, https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/, https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/
 
-### PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場
+### PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン
 - URL: https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/
 - Japanese HTML: https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/
 - English alternate: https://finwiki.zksc.io/en/fintech/paypal-pyusd-stablecoin/
@@ -7969,8 +7969,8 @@ Public pages listed: 1595
 - Domain: fintech
 - Type: wiki_entry
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
-- Headings: PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/, https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/, https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/, https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/
+- Headings: PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/, https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/, https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/, https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/
 
 ### ポートフォリオ勝者構造(Portfolio Winner Structure)
 - URL: https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/
@@ -8284,7 +8284,7 @@ Public pages listed: 1595
 - Headings: Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/chain-level-ofac-freeze-precedent/, https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/, https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/, https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/, https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/, https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/, https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/, https://finwiki.zksc.io/ja/fintech/regulatory-reset-2025-usa-crypto-policy/, https://finwiki.zksc.io/ja/fintech/stripe-usdb-bridge-stablecoin/, https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/
 
-### 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル
+### 三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算
 - URL: https://finwiki.zksc.io/ja/fintech/three-circles-mra-2030-economic-scale/
 - Japanese HTML: https://finwiki.zksc.io/ja/fintech/three-circles-mra-2030-economic-scale/
 - English alternate: https://finwiki.zksc.io/en/fintech/three-circles-mra-2030-economic-scale/
@@ -8294,8 +8294,8 @@ Public pages listed: 1595
 - Domain: fintech
 - Type: wiki_entry
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
-- Headings: 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/, https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/, https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/mica-cross-border-implications/, https://finwiki.zksc.io/ja/fintech/mica-overview/, https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/, https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/, https://finwiki.zksc.io/ja/payment-firms/jpyc/
+- Headings: 三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/, https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/mica-overview/, https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/, https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/
 
 ### 米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ
 - URL: https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/
@@ -10745,7 +10745,7 @@ Public pages listed: 1595
 - Headings: Retail-media points data loop (JP point programs as ID-graph infrastructure), Wiki route, TL;DR, The four-stage loop, Why points beat a plain loyalty card for data, Retail media: closing the measurement loop, Where this sits against the other point networks, The binding constraint: APPI and consent
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-exchange-network-risk/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
-### SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting
+### SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting
 - URL: https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/
 - Japanese HTML: https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/
 - English alternate: https://finwiki.zksc.io/en/loyalty/sb-yahoo-paypay-points-unified-ecosystem/
@@ -10755,7 +10755,7 @@ Public pages listed: 1595
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty index as the wallet-anchored common-point deep page, complementing the bank-anchored V Point case, the telco-anchored d Point detailed ecosystem and d Point / au telco-point consolidation case, the coalition-anchored Ponta points deep dive, and the post-merger detail in
-- Headings: SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting, Wiki route, TL;DR, 2022 unification — the consolidation event, 2023-10 LY Corporation integration — parent-level alignment, 2025 LINE Yahoo points integration — LINE Pay termination consequences, Member ID base and reach, Accounting treatment — campaign cost vs contract liability
+- Headings: SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting, Wiki route, TL;DR, 2022 name change — what changed and what did not, 2023 corporate integration — separate from point-program integration, 2025 LINE Pay termination and 2026 account linking, Member ID base and reach, Accounting treatment — campaign cost vs contract liability
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/ndfg/
 
 ### T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer
@@ -11112,7 +11112,7 @@ Public pages listed: 1595
 - Headings: 日本郵政 (Japan Post Holdings), Wiki route, TL;DR, 1. 会社概要, 株主構造（民営化法上の特例）^[extracted], 主要子会社・持分, 重要年表（抜粋）^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/life-insurers/kampo-life/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/regional-banks/yucho/
 
-### PayPay 金融グループ
+### PayPay 金融エコシステム（分析上のグループ呼称）
 - URL: https://finwiki.zksc.io/ja/megabanks/paypay-fg/
 - Japanese HTML: https://finwiki.zksc.io/ja/megabanks/paypay-fg/
 - English alternate: https://finwiki.zksc.io/en/megabanks/paypay-fg/
@@ -11122,9 +11122,9 @@ Public pages listed: 1595
 - Domain: megabanks
 - Type: wiki_entry
 - Entity node: kind=financial_group scope=japan_core status=anchor
-- Summary: This entry sits under megabanks INDEX. Read it against au フィナンシャルホールディングス (au-FH) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: PayPay 金融グループ, Wiki route, TL;DR, 1. 会社概要, コア事業者一覧, 主要 KPI（公開資料ベース、2025 年最新）, 資本関係（公開資料）, 合併歴史・前身
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/payment-firms/paypay/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/
+- Summary: This entry sits under megabanks INDEX. Read it with PayPay, PayPay Card, PayPay Securities, and banking index. au Financial Holdings and Rakuten FG provide peer context.
+- Headings: PayPay 金融エコシステム（分析上のグループ呼称）, Wiki route, TL;DR, 1. 呼称と法的境界, 2. SoftBank Financial segment の主要主体, 3. 最新 KPI, 4. 2026 IPO, 5. LINE Pay 終了と LINE / PayPay 連携
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
 ### りそな銀行 (Resona Bank)
 - URL: https://finwiki.zksc.io/ja/megabanks/resona-bank/
@@ -17195,6 +17195,15 @@ Public pages listed: 1595
 - Domain: releases
 - Type: release_note
 - Headings: 低密度出典17件と翻訳保護の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 出典警告13件と公開事実の校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-7.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-7.md
+- Source path: releases/v2026.07.29-7.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-7.md
+- Domain: releases
+- Type: release_note
+- Headings: 出典警告13件と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md

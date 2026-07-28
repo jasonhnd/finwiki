@@ -25,10 +25,10 @@
     "domain": "leasing-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
       "auto-finance",
@@ -39,9 +39,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: トヨタファイナンシャルサービス (2026-05-19 公開情報)",
-      "Wikipedia: トヨタファイナンス (2026-05-19 公開情報)",
-      "Toyota Financial Services 公式 公開コーポレートサイト"
+      "https://www.tfsc.jp/en/company/index.html",
+      "https://www.tfsc.jp/en/what/index.html",
+      "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
     ]
   },
   "summary": "This entry sits under leasing-firms INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,8 +79,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4483,
-    "word_like_tokens": 708,
+    "nonspace_chars": 4339,
+    "word_like_tokens": 686,
     "inbound_wikilinks_count": 15,
     "last_modified": "2026-06-08"
   }

@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/paypal-pyusd-stablecoin.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin.md",
   "domain": "fintech",
-  "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+  "title": "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+    "title": "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
     "aliases": [
       "paypal-pyusd-stablecoin",
       "PYUSD",
@@ -23,9 +23,9 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-09-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "certain",
     "tags": [
       "fintech",
@@ -43,13 +43,15 @@
     "sources": [
       "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
       "https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin",
-      "https://paxos.com/pyusd/",
-      "https://paxos.com/wp-content/uploads/2024/01/PYUSD-Whitepaper.pdf"
+      "https://investor.pypl.com/news-and-events/news-details/2024/PayPal-USD-Stablecoin-Now-Available-on-Solana-Blockchain-Providing-Faster-Cheaper-Transactions-for-Consumers/default.aspx",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-transfer-my-crypto-help822",
+      "https://newsroom.paypal-corp.com/2026-03-17-PAYPAL-BRINGS-PAYPAL-USD-TO-USERS-ACROSS-70-MARKETS",
+      "https://paxos.com/pyusd/"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+    "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -58,13 +60,12 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "agent-economy/coinbase-cdp-developer-platform",
       "fintech/INDEX",
       "fintech/circle-usdc-stablecoin",
-      "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/ripple-rlusd-stablecoin",
@@ -77,7 +78,6 @@
       "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
-      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
@@ -89,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3043,
-    "word_like_tokens": 501,
+    "nonspace_chars": 5147,
+    "word_like_tokens": 819,
     "inbound_wikilinks_count": 23,
     "last_modified": "2026-06-24"
   }

@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/toyota-financial-services
-source_hash: 3a4b75a92f36e0ca
+source_hash: 8786eb2a3b55646f
 lang: ja
 status: machine
 fidelity: ok
@@ -23,7 +23,7 @@ translated_at: 2026-06-19T13:31:34.048Z
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社トヨタファイナンシャルサービス / Toyota Financial Services Corporation |
-| 設立 | 2000-07-03 |
+| 設立 | 2000-07-07 |
 | 本社 | 愛知県名古屋市西区 |
 | 上場 | 非上場 ([[manufacturer-finance/toyota-motor|Toyota Motor]] 100% 連結子会社) |
 | 連結事業地域 | 30+ ヵ国 (米州 / 欧州 / 日本 / 豪州 / 新興国) |

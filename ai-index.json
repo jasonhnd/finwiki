@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T03:36:44+09:00",
+  "generated_at": "2026-07-29T04:32:49+09:00",
   "counts": {
-    "markdown_files": 1596,
-    "public_markdown_pages": 1595,
+    "markdown_files": 1597,
+    "public_markdown_pages": 1596,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10855944,
-    "word_like_tokens": 1747636,
+    "nonspace_utf8_chars": 10883902,
+    "word_like_tokens": 1752365,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247)",
+        "2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table-level provenance proximity calibration (#219)"
+        "2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 190587,
-      "word_like_tokens": 34811,
+      "nonspace_chars": 200846,
+      "word_like_tokens": 36688,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17172,
-      "word_like_tokens": 2998,
+      "nonspace_chars": 17873,
+      "word_like_tokens": 3121,
       "last_modified": "2026-07-29"
     },
     {
@@ -44436,13 +44436,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/paypal-pyusd-stablecoin.md",
-      "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+      "title": "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
       "domain": "fintech",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
       "headings": [
-        "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+        "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
         "Wiki route",
         "Key facts",
         "Mechanism / How it works",
@@ -44455,7 +44455,6 @@
         "agent-economy/coinbase-cdp-developer-platform",
         "fintech/INDEX",
         "fintech/circle-usdc-stablecoin",
-        "fintech/issuer-distributor-incentive-realignment-50-50-model",
         "fintech/japan-financial-regulation",
         "fintech/japan-stablecoin-regulatory-landscape",
         "fintech/ripple-rlusd-stablecoin",
@@ -44468,7 +44467,6 @@
         "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
         "https://finwiki.zksc.io/ja/domains/fintech/",
         "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
-        "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
         "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
         "https://finwiki.zksc.io/ja/fintech/ripple-rlusd-stablecoin/",
@@ -44479,8 +44477,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3043,
-      "word_like_tokens": 501,
+      "nonspace_chars": 5147,
+      "word_like_tokens": 819,
       "last_modified": "2026-06-24"
     },
     {
@@ -45953,13 +45951,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/three-circles-mra-2030-economic-scale.md",
-      "title": "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
+      "title": "三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算",
       "domain": "fintech",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
       "headings": [
-        "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
+        "三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算",
         "Wiki route",
         "Key facts",
         "Mechanism / How it works",
@@ -45972,34 +45970,28 @@
         "fintech/INDEX",
         "fintech/em-market-crypto-dollarization-pattern",
         "fintech/genius-act-501-denylist-mandate",
-        "fintech/japan-epi-three-types-overview",
         "fintech/japan-financial-regulation",
         "fintech/japan-stablecoin-regulatory-landscape",
-        "fintech/mica-cross-border-implications",
         "fintech/mica-overview",
         "fintech/stablecoin-revenue-split-economics",
-        "fintech/three-circles-stablecoin-mra-framework",
-        "payment-firms/jpyc"
+        "fintech/three-circles-stablecoin-mra-framework"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/ja/domains/fintech/",
         "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
         "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-        "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
         "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-        "https://finwiki.zksc.io/ja/fintech/mica-cross-border-implications/",
         "https://finwiki.zksc.io/ja/fintech/mica-overview/",
         "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
-        "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
-        "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
+        "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2776,
-      "word_like_tokens": 497,
+      "nonspace_chars": 4282,
+      "word_like_tokens": 700,
       "last_modified": "2026-06-24"
     },
     {
@@ -46591,8 +46583,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 20579,
-      "word_like_tokens": 3251,
+      "nonspace_chars": 21453,
+      "word_like_tokens": 3359,
       "last_modified": "2026-06-01"
     },
     {
@@ -48480,8 +48472,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12675,
-      "word_like_tokens": 1620,
+      "nonspace_chars": 12761,
+      "word_like_tokens": 1633,
       "last_modified": "2026-06-06"
     },
     {
@@ -53098,8 +53090,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19415,
-      "word_like_tokens": 3124,
+      "nonspace_chars": 19832,
+      "word_like_tokens": 3203,
       "last_modified": "2026-07-29"
     },
     {
@@ -54519,8 +54511,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4483,
-      "word_like_tokens": 708,
+      "nonspace_chars": 4339,
+      "word_like_tokens": 686,
       "last_modified": "2026-06-08"
     },
     {
@@ -55365,8 +55357,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6349,
-      "word_like_tokens": 1188,
+      "nonspace_chars": 6551,
+      "word_like_tokens": 1143,
       "last_modified": "2026-06-22"
     },
     {
@@ -56059,8 +56051,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4064,
-      "word_like_tokens": 622,
+      "nonspace_chars": 4753,
+      "word_like_tokens": 698,
       "last_modified": "2026-06-22"
     },
     {
@@ -58487,18 +58479,18 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
-      "title": "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+      "title": "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under loyalty index as the wallet-anchored common-point deep page, complementing the bank-anchored V Point case, the telco-anchored d Point detailed ecosystem and d Point / au telco-point consolidation case, the coalition-anchored Ponta points deep dive, and the post-merger detail in",
       "headings": [
-        "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+        "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
         "Wiki route",
         "TL;DR",
-        "2022 unification — the consolidation event",
-        "2023-10 LY Corporation integration — parent-level alignment",
-        "2025 LINE Yahoo points integration — LINE Pay termination consequences",
+        "2022 name change — what changed and what did not",
+        "2023 corporate integration — separate from point-program integration",
+        "2025 LINE Pay termination and 2026 account linking",
         "Member ID base and reach",
         "Accounting treatment — campaign cost vs contract liability",
         "Comparison with other major common points",
@@ -58550,11 +58542,17 @@
         "https://finwiki.zksc.io/ja/domains/retail/",
         "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/pr/20220301/01/",
+        "https://about.paypay.ne.jp/en/pr/20260318/02/",
+        "https://about.paypay.ne.jp/en/pr/20260702/01/",
+        "https://www.lycorp.co.jp/en/news/release/008632/",
+        "https://www.lycorp.co.jp/ja/news/release/016863/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12721,
-      "word_like_tokens": 2062,
+      "nonspace_chars": 11352,
+      "word_like_tokens": 1922,
       "last_modified": "2026-06-04"
     },
     {
@@ -59481,8 +59479,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7288,
-      "word_like_tokens": 1131,
+      "nonspace_chars": 7332,
+      "word_like_tokens": 1139,
       "last_modified": "2026-06-08"
     },
     {
@@ -59949,7 +59947,7 @@
         "重要年表",
         "2. 事業セグメント",
         "法律上の保有義務",
-        "政府保有比率推移",
+        "現在の主要持株比率",
         "トリプル IPO（2015-11-04）"
       ],
       "wikilinks": [
@@ -59973,8 +59971,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4256,
-      "word_like_tokens": 650,
+      "nonspace_chars": 5300,
+      "word_like_tokens": 845,
       "last_modified": "2026-06-06"
     },
     {
@@ -60391,27 +60389,29 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/megabanks/paypay-fg.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/paypay-fg.md",
-      "title": "PayPay 金融グループ",
+      "title": "PayPay 金融エコシステム（分析上のグループ呼称）",
       "domain": "megabanks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under megabanks INDEX. Read it against au フィナンシャルホールディングス (au-FH) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under megabanks INDEX. Read it with PayPay, PayPay Card, PayPay Securities, and banking index. au Financial Holdings and Rakuten FG provide peer context.",
       "headings": [
-        "PayPay 金融グループ",
+        "PayPay 金融エコシステム（分析上のグループ呼称）",
         "Wiki route",
         "TL;DR",
-        "1. 会社概要",
-        "コア事業者一覧",
-        "主要 KPI（公開資料ベース、2025 年最新）",
-        "資本関係（公開資料）",
-        "合併歴史・前身",
-        "重要年表",
-        "2. 事業セグメント・マップ"
+        "1. 呼称と法的境界",
+        "2. SoftBank Financial segment の主要主体",
+        "3. 最新 KPI",
+        "4. 2026 IPO",
+        "5. LINE Pay 終了と LINE / PayPay 連携",
+        "6. 機能マップ",
+        "7. 開示を読む際の注意"
       ],
       "wikilinks": [
         "banking/INDEX",
         "banking/mercari-bank-license-stack",
         "banking/minna-bank-baas-model",
+        "card-issuers/paypay-card",
+        "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
         "megabanks/INDEX",
         "megabanks/au-fh",
         "megabanks/mizuho-fg",
@@ -60420,12 +60420,15 @@
         "megabanks/sbi-hd",
         "megabanks/smfg",
         "payment-firms/paypay",
-        "payment-firms/rakuten-fg"
+        "payment-firms/rakuten-fg",
+        "securities-firms/paypay-securities"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
         "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+        "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
+        "https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/",
         "https://finwiki.zksc.io/ja/domains/megabanks/",
         "https://finwiki.zksc.io/ja/megabanks/au-fh/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
@@ -60434,17 +60437,25 @@
         "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/payment-firms/paypay/",
-        "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
+        "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+        "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
+        "https://about.paypay.ne.jp/en/pr/20260318/02/",
+        "https://about.paypay.ne.jp/en/pr/20260702/01/",
+        "https://www.lycorp.co.jp/en/news/release/008632/",
+        "https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf",
+        "https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf"
+      ],
       "entity_node": {
         "kind": "financial_group",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 8163,
-      "word_like_tokens": 1600,
+      "nonspace_chars": 7132,
+      "word_like_tokens": 1159,
       "last_modified": "2026-06-22"
     },
     {
@@ -85987,8 +85998,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5383,
-      "word_like_tokens": 1066,
+      "nonspace_chars": 5836,
+      "word_like_tokens": 1153,
       "last_modified": "2026-07-29"
     },
     {
@@ -89336,6 +89347,39 @@
       "entity_edges": [],
       "nonspace_chars": 9759,
       "word_like_tokens": 1866,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-7.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-7.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-7.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-7.md",
+      "title": "出典警告13件と公開事実の校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "出典警告13件と公開事実の校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 11468,
+      "word_like_tokens": 2179,
       "last_modified": "2026-07-29"
     },
     {
@@ -106352,8 +106396,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3376,
-      "word_like_tokens": 626,
+      "nonspace_chars": 4031,
+      "word_like_tokens": 737,
       "last_modified": "2026-07-29"
     }
   ]

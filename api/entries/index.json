@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T03:36:45+09:00",
+  "generated_at": "2026-07-29T04:32:50+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -7804,7 +7804,7 @@
     {
       "slug": "fintech/paypal-pyusd-stablecoin",
       "domain": "fintech",
-      "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
+      "title": "PayPal PYUSD · PayPal ブランドのドル建てステーブルコイン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/paypal-pyusd-stablecoin.json",
       "url": "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
@@ -8129,7 +8129,7 @@
     {
       "slug": "fintech/three-circles-mra-2030-economic-scale",
       "domain": "fintech",
-      "title": "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
+      "title": "三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/three-circles-mra-2030-economic-scale.json",
       "url": "https://finwiki.zksc.io/ja/fintech/three-circles-mra-2030-economic-scale/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/three-circles-mra-2030-economic-scale/",
@@ -10560,7 +10560,7 @@
     {
       "slug": "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "domain": "loyalty",
-      "title": "SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting",
+      "title": "SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/sb-yahoo-paypay-points-unified-ecosystem.json",
       "url": "https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/",
       "html_url": "https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/",
@@ -10911,7 +10911,7 @@
     {
       "slug": "megabanks/paypay-fg",
       "domain": "megabanks",
-      "title": "PayPay 金融グループ",
+      "title": "PayPay 金融エコシステム（分析上のグループ呼称）",
       "api_url": "https://finwiki.zksc.io/api/entries/megabanks/paypay-fg.json",
       "url": "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
       "html_url": "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",

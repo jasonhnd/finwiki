@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/toyota-financial-services
-source_hash: 3a4b75a92f36e0ca
+source_hash: 8786eb2a3b55646f
 lang: en
 status: machine
 fidelity: ok
@@ -23,7 +23,7 @@ Toyota Financial Services (TFS) is the **world's largest auto captive finance**.
 | Item | Content |
 |---|---|
 | Official name | Toyota Financial Services Corporation / Toyota Financial Services Corporation |
-| Founded | 2000-07-03 |
+| Founded | 2000-07-07 |
 | Head office | Nishi-ku, Nagoya, Aichi Prefecture |
 | Listing | Unlisted ([[manufacturer-finance/toyota-motor|Toyota Motor]] 100% consolidated subsidiary) |
 | Consolidated business regions | 30+ countries (Americas / Europe / Japan / Australia / emerging markets) |

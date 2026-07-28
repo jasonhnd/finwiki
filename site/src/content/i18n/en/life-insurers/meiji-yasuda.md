@@ -1,11 +1,12 @@
 ---
 source: life-insurers/meiji-yasuda
-source_hash: c02e5d4a2e15f856
+source_hash: ba478364eea7afb9
 lang: en
+model: codex-source-faithful
 status: machine
 fidelity: ok
-title: "明治安田生命保険相互会社"
-translated_at: 2026-06-19T06:09:18.056Z
+title: "Meiji Yasuda Life Insurance Company"
+translated_at: 2026-07-28T19:18:08Z
 ---
 
 # 明治安田生命保険相互会社
@@ -16,13 +17,13 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji Life** (founded 1881 ), Japan's first modern life insurance company, and **Yasuda Life** (Kyosai Gohyaku Meisha 1880  → Yasuda Life 1894 ). It maintains the **mutual-company form** (unlisted; members = policyholders) and places policyholder-focused dividends at the core of management. A 3 -axis structure of the sales-staff "MY Link Coordinator" channel × corporate (group insurance for mid-sized companies) × the US StanCorp Financial Group (fully consolidated in 2016 , approx. 5000 億円). With the J.League title partnership and Yomiuri Giants sponsorship, B2C brand exposure is strong. The mid-term plan "MY Mutual Way Ⅱ" is in progress.
+Meiji Yasuda Life is a mutual company formed in January 2004 through the merger of Meiji Life, founded in 1881, and Yasuda Life, which traces its origin to Kyosai Gohyaku Meisha in 1880. Its official company profile as of 2026-03-31 reports total assets of JPY 48.0217 trillion, foundation funds of JPY 980 billion, and 5,965,701 policyholders. StanCorp Financial Group became a wholly owned subsidiary in 2016-03, but this correction excludes an estimated purchase price and revenue rankings by channel from its confirmed facts. ^[Company profile: https://www.meijiyasuda.co.jp/english/about-us/company_profile.html; history: https://www.meijiyasuda.co.jp/english/about-us/history.html; mutual-company structure: https://www.meijiyasuda.co.jp/english/governance/mutual_company.html; StanCorp completion: https://www.meijiyasuda.co.jp/english/newsroom/pdf/20160308_01.pdf]
 
 ## 1. Company overview
 
 **Official name**: 明治安田生命保険相互会社
 **English name**: Meiji Yasuda Life Insurance Company
-**Corporate form**: **mutual company** (not listed; policyholders = members hold voting rights)
+**Corporate form**: **mutual company** (participating-policy policyholders become members and take part in governance through the general meeting of representatives and related mechanisms) ^[https://www.meijiyasuda.co.jp/english/governance/mutual_company.html]
 **Establishment**: 2004-01-01 (merger of former Meiji Life Insurance + former Yasuda Life Insurance)
 **Head office**: 2-1-1 Marunouchi, Chiyoda-ku, Tokyo (Meiji Yasuda Life Building)
 **Industry ranking**: one of the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
@@ -35,11 +36,10 @@ One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji
 - Because it cannot list, equity financing from the capital markets is impossible; it centers on retained earnings and subordinated debt
 - Peers of the same form: [[life-insurers/nippon-life]] / Sumitomo Life / Fukoku Life / Asahi Life
 
-### Predecessor 2  lineages
+### Two predecessor lineages
 
-- **Meiji Life**: founded 1881-07 , Japan's first modern life insurance company, by Yasuda Zenjiro, Abe Taizo, and others
-- **Yasuda Life**: Kyosai Gohyaku Meisha 1880  → Yasuda Life Insurance limited partnership 1894  → Yasuda zaibatsu affiliated
-- **Teikoku Life**: renamed to **Meiji Life Insurance** in the 1947  postwar reorganization (dissolution of wartime consolidation)
+- **Meiji Life**: established in 1881 by Taizo Abe and others. It provided Japan's first modern life-insurance service with premiums set from assumed mortality rates and related actuarial assumptions.
+- **Predecessor of Yasuda Life**: Zenjiro Yasuda established Kyosai Gohyaku Meisha in 1880, and it was reorganized as a modern mutual-aid company in 1894.
 
 ### Key chronology
 
@@ -48,11 +48,9 @@ One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji
 | 1880 | Kyosai Gohyaku Meisha founded |
 | 1881-07 | Meiji Life founded (Japan's first modern life insurance company) |
 | 1894 | Kyosai Gohyaku Meisha → Yasuda Life Insurance limited partnership |
-| 1947 | Teikoku Life → Meiji Life Insurance renaming |
 | **2004-01-01** | **Meiji Life + Yasuda Life → Meiji Yasuda Life** merger established |
 | 2005〜2006 | **insurance-claim non-payment incident** → FSA business-improvement order / administrative disposition |
-| 2010 | began studying acquisition of the US **StanCorp Financial Group** |
-| **2016-03-07** | **StanCorp Financial Group fully consolidated** (approx. 5000 億円) |
+| **2016-03-07** | **StanCorp Financial Group became a wholly owned subsidiary** |
 | 2024 | mid-term management plan "MY Mutual Way Ⅱ" launched |
 
 ### Main subsidiaries / affiliates
@@ -93,11 +91,11 @@ One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji
 - **J.League title partner** (the "Meiji Yasuda J.League" designation) ── exposure to Japanese soccer as a whole
 - **Yomiuri Giants sponsor** (Tokyo Dome outfield fence, etc.)
 - **"Everyone's Kenkatsu Project"**: health-promotion coordination with local governments / universities
-- Within the industry 4 社, **B2C name recognition is top-class** (especially among the young and sports-fan segments)
+- These initiatives expand B2C touchpoints, but this entry does not assign a comparative brand-awareness ranking
 
 ### Overseas strategy
 
-- **StanCorp concentration**: US group-insurance platform, with approx. 5000 億円 invested through the 2016  full consolidation
+- **StanCorp concentration**: US group-insurance platform, made a wholly owned subsidiary in 2016-03
 - Asia expansion is modest compared with peers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]])
 - The flip side of the US 1 -axis concentration risk is specialization
 
@@ -133,11 +131,12 @@ One of the major 4  life insurers, formed in 2004-01-01 by the merger of **Meiji
 
 ### Sources
 
-- **Wikipedia: Meiji Yasuda Life Insurance** (https://ja.wikipedia.org/wiki/明治安田生命保険, extracted 2026-05-19)
-- Meiji Yasuda Life official site, corporate history / company overview (refer 2026-05-19)
-- FSA "Management status of insurance companies" published materials
+- Meiji Yasuda Life — Company Profile: https://www.meijiyasuda.co.jp/english/about-us/company_profile.html
+- Meiji Yasuda Life — History: https://www.meijiyasuda.co.jp/english/about-us/history.html
+- Meiji Yasuda Life — Operation of Mutual Company: https://www.meijiyasuda.co.jp/english/governance/mutual_company.html
+- Meiji Yasuda Life — Completion of Acquisition of StanCorp: https://www.meijiyasuda.co.jp/english/newsroom/pdf/20160308_01.pdf
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  public information only / 2026-05-19). This article is based only on public information (Wikipedia / official site / FSA published materials). Specific financial figures (total assets / premium and other income / core profit, etc.) should be referred to in the latest disclosure publication. The StanCorp acquisition amount / chronology is based on public reporting.
+> confidence: **certain** (2026-07-29). The predecessor history, 2004 merger, mutual-company system, company profile as of 2026-03-31, and completion of the StanCorp acquisition were rechecked against official materials. Read changing financial and employee figures together with the reference date of the official company profile.
