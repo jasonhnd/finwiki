@@ -26,6 +26,38 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-07-28 - Shared translation corpus discovery repair (#182)
+
+### 日本語
+
+- **2026-07-28 20:53:53 JST / 背景:** Issue #182。translation command が `site/scripts/corpus-roots.mjs` の 23 directory 固定 list を使い続け、40 domain へ分割済みの current corpus のうち 784 件しか発見できなかった。一方、canonical `i18n:status` denominator は 1,442 件であり、`JapanFG` を指す smoke target 2 件も既に移動済みだった。
+- **範囲:** translation corpus discovery、direct / parallel / interactive prep walker、manifest-driven prep source allowlist、write-free prep dry-run、smoke target、focused regression test、三言語 README、本 CHANGELOG、`releases/v2026.07.28-7.md`、release generator が同期する public surface。source entry と committed `ja` / `en` mirror は変更しない。
+- **主要ファイル:** `site/scripts/corpus-roots.mjs`、`translate.mjs`、`prep-parallel.mjs`、`prep-translate.mjs`、`prep-c2b.mjs`、`emit-masked.mjs`、`corpus-roots.test.mjs`、`README.md`、本 CHANGELOG、release note。
+- **実行手順:** 固定 `ENTRY_DOMAIN_DIRS` を削除し、repository canonical `iterMarkdownFiles()` / `isPublicPage()` を使って public domain entry を自動発見する async walker に統一した。全 discovery command は同じ walker を使い、manifest source もその集合に限定した。`prep-translate.mjs --force --dry-run` は job file を書かず対象数を確認する。smoke target は `trust-banks/custody-bank.md` と `regional-banks/yucho.md` へ更新した。
+- **検証結果:** focused suite は 16 tests / 59 assertions PASS。parity test と `bun run i18n:status` はともに 1,442 source entries を確認し、ja / en は各 current 1,442、stale / orphaned / missing 0、fidelity ok 1,442。`--force --dry-run` は write-free で 1,442 jobs を発見した。future-domain fixture は directory list 変更なしで新 entry を発見し、更新済み smoke target は 56 / 46 masks を生成した。full `bun run verify --out _site` も 82 tests / 272 assertions、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 Astro files + 3,072 raw files、13 required routes、final HTML audit 5,864 routes、generated URL audit 6,036 unique URLs、production vulnerability 0 で PASS した。
+- **既知の注意点:** discovery denominator の修復であり、自動翻訳 API を呼ばず、既存 mirror を書き換えない。manifest-driven prep は canonical corpus 外の stale path を安全に無視する。
+- **残タスク:** full canonical gate、real pre-push、remote HEAD、PR checks を確認し、Issue #182 に closeout evidence を記録して maintainer review を待つ。self-close はしない。
+
+### English
+
+- **2026-07-28 20:53:53 JST / Background:** Issue #182. Translation commands still relied on a fixed 23-directory list in `site/scripts/corpus-roots.mjs`, discovering only 784 entries after the current corpus had been split across 40 domains. The canonical `i18n:status` denominator was 1,442, and two smoke targets still referenced deleted `JapanFG` paths.
+- **Scope:** Translation corpus discovery, direct/parallel/interactive preparation walkers, the manifest-driven preparation source allowlist, a write-free preparation dry-run, smoke targets, focused regression tests, the trilingual README, this CHANGELOG, `releases/v2026.07.28-7.md`, and public surfaces synchronized by the release generator. Source entries and committed `ja` / `en` mirrors are unchanged.
+- **Primary files:** `site/scripts/corpus-roots.mjs`, `translate.mjs`, `prep-parallel.mjs`, `prep-translate.mjs`, `prep-c2b.mjs`, `emit-masked.mjs`, `corpus-roots.test.mjs`, `README.md`, this CHANGELOG, and the release note.
+- **Steps:** Removed the fixed `ENTRY_DOMAIN_DIRS` list and unified discovery on an asynchronous walker backed by the repository's canonical `iterMarkdownFiles()` / `isPublicPage()` helpers. Every discovery command now uses that walker, while manifest sources are constrained to the same set. `prep-translate.mjs --force --dry-run` reports the target count without writing job files. Smoke targets now use `trust-banks/custody-bank.md` and `regional-banks/yucho.md`.
+- **Validation:** The focused suite passed 16 tests / 59 assertions. The parity test and `bun run i18n:status` both confirmed 1,442 source entries; ja/en each report 1,442 current, zero stale/orphaned/missing, and 1,442 `fidelity: ok`. `--force --dry-run` found 1,442 jobs without writes. A future-domain fixture was discovered without a directory-list edit, and the updated smoke targets generated 56 / 46 masks. Full `bun run verify --out _site` also passed with 82 tests / 272 assertions, Astro check across 44 files with 0 errors / 0 warnings / 0 hints, 2,969 Astro pages, 2,884 entry metadata pages with zero issues, 2,968 Pagefind pages, assembly of 6,258 Astro files plus 3,072 raw files, all 13 required routes, a final HTML audit across 5,864 routes, a generated URL audit across 6,036 unique URLs, and zero production vulnerabilities.
+- **Known notes:** This repairs the discovery denominator without calling an automatic-translation API or rewriting an existing mirror. Manifest-driven preparation safely ignores stale paths outside the canonical corpus.
+- **Follow-up:** Confirm the full canonical gate, real pre-push, remote HEAD, and PR checks; attach closeout evidence to Issue #182; and wait for maintainer review. Do not self-close.
+
+### 中文
+
+- **2026-07-28 20:53:53 JST / 背景:** Issue #182。translation command 仍使用 `site/scripts/corpus-roots.mjs` 中固定的 23 个目录列表；current corpus 已拆分为 40 个 domain，但它只能发现 784 条，而 canonical `i18n:status` denominator 是 1,442 条；两个 smoke target 也仍指向已删除的 `JapanFG` 路径。
+- **范围:** translation corpus discovery、direct / parallel / interactive prep walker、manifest-driven prep source allowlist、不写文件的 prep dry-run、smoke target、聚焦 regression test、三语 README、本 CHANGELOG、`releases/v2026.07.28-7.md`，以及 release generator 同步的公开 surface。不修改 source entry 或已提交的 `ja` / `en` mirror。
+- **主要文件:** `site/scripts/corpus-roots.mjs`、`translate.mjs`、`prep-parallel.mjs`、`prep-translate.mjs`、`prep-c2b.mjs`、`emit-masked.mjs`、`corpus-roots.test.mjs`、`README.md`、本 CHANGELOG 与 release note。
+- **执行步骤:** 删除固定 `ENTRY_DOMAIN_DIRS`，统一使用 repository canonical `iterMarkdownFiles()` / `isPublicPage()` 支持的异步 walker 自动发现公开 domain entry。所有 discovery command 使用同一 walker，manifest source 也被限制在同一集合中。`prep-translate.mjs --force --dry-run` 只报告目标数，不写 job file。smoke target 更新为 `trust-banks/custody-bank.md` 与 `regional-banks/yucho.md`。
+- **验证结果:** 聚焦 suite 以 16 tests / 59 assertions 通过。parity test 与 `bun run i18n:status` 都确认 1,442 个 source entry；ja / en 各为 current 1,442、stale / orphaned / missing 0、fidelity ok 1,442。`--force --dry-run` 在不写文件的情况下发现 1,442 个 job。future-domain fixture 无需修改目录列表即可被发现，更新后的 smoke target 分别生成 56 / 46 个 masks。完整 `bun run verify --out _site` 也以 82 tests / 272 assertions、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 Astro files + 3,072 raw files、13 个 required routes、final HTML audit 5,864 routes、generated URL audit 6,036 unique URLs、production vulnerability 0 通过。
+- **已知注意事项:** 本次只修复 discovery denominator，不调用自动翻译 API，也不改写任何既有 mirror。manifest-driven prep 会安全忽略 canonical corpus 之外的 stale path。
+- **后续事项:** 确认 full canonical gate、real pre-push、remote HEAD 与 PR checks，把 closeout evidence 写入 Issue #182，并等待 maintainer review；不 self-close。
+
 ## 2026-07-28 - Astro check residual hint cleanup (#198)
 
 ### 日本語
