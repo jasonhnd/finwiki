@@ -327,18 +327,6 @@ function hasMeaningfulHeader(headers, columnCount) {
   return headers.slice(1, columnCount).some(isMeaningfulLabel);
 }
 
-function hasMeaningfulFirstColumn(rows, ctx) {
-  const bodyRows = rows.filter((row) => elementChildren(row).length > 0);
-  if (!bodyRows.length) return false;
-
-  let meaningful = 0;
-  for (const row of bodyRows) {
-    const firstCell = elementChildren(row).find((cell) => cell.tagName === 'td' || cell.tagName === 'th');
-    if (isMeaningfulLabel(ctx.textContent(firstCell))) meaningful += 1;
-  }
-  return meaningful === bodyRows.length;
-}
-
 function enhanceHastTable(table, ctx) {
   const rawHeaders = table.properties?.[CARD_HEADERS_PROPERTY];
   if (typeof rawHeaders !== 'string') return;
