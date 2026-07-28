@@ -25,35 +25,10 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
         with:
-          bun-version: latest
+          bun-version-file: .bun-version
 
-      - name: Check wiki link graph
-        run: bun run wiki:audit:ci
-
-      - name: Test static publish boundary
-        run: bun run publish:test
-
-      - name: Install site deps
-        working-directory: site
-        run: bun install --frozen-lockfile
-
-      - name: Audit production dependencies
-        working-directory: site
-        run: bun audit --production
-
-      - name: Build human site
-        working-directory: site
-        run: bun run build
-
-      - name: Check duplicate HTML ids
-        run: bun run html:check
-
-      - name: Build static search index
-        working-directory: site
-        run: bun run index:search
-
-      - name: Assemble publish dir
-        run: bun tools/assemble_static_publish.ts --out _site
+      - name: Run required verification and assemble Pages artifact
+        run: bun run verify --out _site
 
       - uses: actions/upload-pages-artifact@v5
         with:

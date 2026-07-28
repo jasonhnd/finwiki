@@ -26,4 +26,4 @@
 
 ## Status (read-only)
 
-`bun tools/i18n_status.ts` (`i18n:status`) reports, per locale: mirror counts, current vs stale (via `source_hash`), missing source entries, orphaned mirrors, source-pointer drift, and status / fidelity distribution (including `needs_review`). It never writes mirrors, `source_hash`, or generated surfaces — run it before a translation batch and after domain moves. `--json` emits machine output.
+`bun tools/i18n_status.ts` (`i18n:status`) reports, per locale: mirror counts, current vs stale (via `source_hash`), missing source entries, orphaned mirrors, source-pointer drift, and status / fidelity distribution (including `needs_review`). It never writes mirrors, `source_hash`, or generated surfaces — run it before a translation batch and after domain moves. `--json` emits machine output. Default report mode remains non-blocking; `bun run i18n:check` adds `--fail-on-issues` and exits non-zero for missing, stale, orphaned, source-pointer drift, or review/missing fidelity, so the canonical release pipeline cannot silently accept translation drift.

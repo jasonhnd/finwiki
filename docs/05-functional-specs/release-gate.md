@@ -3,13 +3,12 @@
 ## Commands
 
 ```bash
-bun run release:docs
-bun tools/release.ts --write
-bun tools/release.ts --check --strict
-bun tools/wiki_link_audit.ts --fail-on-issues
-bun run publish:test
-git diff --check
+bun tools/release.ts --write  # when the public snapshot needs regeneration
+bun run verify                # canonical local / PR / Vercel gate
+bun run verify --out _site    # canonical GitHub Pages artifact
 ```
+
+The runtime must exactly match `.bun-version`. `bun run verify` installs `site/` with `--frozen-lockfile`, fails fast, and is the only command that establishes release readiness. Individual commands remain available for diagnosis but cannot substitute for the canonical gate.
 
 ## Release-document contract
 
@@ -25,12 +24,23 @@ Validates the release-document contract before any mutation, then checks counts,
 
 ## Static publish boundary
 
-`bun run publish:test` verifies the destructive and public-file boundaries used by both GitHub Pages and Vercel:
+The canonical command runs all Bun tests, including the destructive/public-file boundary tests and required-route negative fixtures, before assembling the real artifact:
 
 - only `_site` and `_vercel_public` are valid output directories;
 - output validation and symlink rejection happen before recursive cleanup;
 - the result contains `site/dist` plus raw source paths selected by `ai-index.json` and `api/entries/index.json`, then filtered by explicit root/domain/release/API allowlists;
 - `docs/`, `lib/`, tooling, development configuration, hidden/ignored source files, unmanifested domain/API files and unknown root files remain absent; the assembler-created `.nojekyll` marker is the only hidden output exception.
+- root, ja/en, crawler, AI/API and Pagefind required routes must exist as non-empty regular files in the final assembled output.
+
+The required-route check is a release smoke gate. Issue #183 separately owns crawling every internal href and repairing route-level content links.
+
+## Shared execution surfaces
+
+- `.githooks/pre-push` is tracked executable and runs `bun run verify`.
+- `.github/workflows/required-verification.yml` exposes the stable `Required verification` pull-request context.
+- GitHub Pages runs `bun run verify --out _site`.
+- Vercel invokes the same `tools/verify.ts` runner for `_vercel_public` through the official exact-build pin pattern `bunx bun@<version>`; startup rejects drift from `.bun-version` and `packageManager`.
+- Every Actions workflow reads the same `.bun-version`; every dependency installation uses the committed frozen site lockfile.
 
 ## Failure Handling
 
@@ -40,8 +50,10 @@ Validates the release-document contract before any mutation, then checks counts,
 - Discovery drift: run `--write`, review generated diff, rerun check.
 - Docs/development-file leakage: verify corpus exclusions, site allowlists, generated manifests and the static-publish allowlist.
 - Unsafe publish output: use `_site` or `_vercel_public`; never relax output validation to make a local command pass.
+- Missing required final route: inspect assembly and Pagefind output; do not remove a required route to make the check pass.
+- Bun mismatch: install the exact `.bun-version`; do not update the pin without a separate dependency/runtime review.
 - Stale API residue: verify discovery generation clears `api/entries/` before writing current entries.
 
 ## Acceptance
 
-Release is not publishable until `bun run release:docs`, the strict gate and `bun run publish:test` exit 0 and generated-surface drift scans are clean for the changed scope.
+Release is not publishable until `bun run verify` exits 0. A pull request is not mergeable until the fresh `Required verification` context is green. `main` protection must require a pull request and that context, include administrators, and reject force pushes/deletion; repository-rule evidence is part of closeout.

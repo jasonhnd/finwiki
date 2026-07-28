@@ -11,7 +11,7 @@
 4. bun tools/release.ts --write --release-note "<日本語タイトル>"
                                            # 生成三语 draft + 发现面 + counts
    # 填写 draft 的真实内容后，再运行 bun tools/release.ts --write
-5. bun tools/release.ts --check --strict  # 门禁：必须 EXIT=0
+5. bun run verify                         # 唯一完整门禁：必须 EXIT=0
 6. git add -A && git commit               # 不加 Co-Authored-By（repo 既有惯例）
 7. git push origin main
 8. git tag v<date>-<N> && git push origin v<date>-<N>
@@ -47,8 +47,8 @@ bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun too
 
 - [ ] README / CHANGELOG 已按日文→英文→中文更新；index.html 的 ja/en 人类入口保持同步
 - [ ] `releases/v<date>-<N>.md` 已建（三语、只含日文的 H1、每语 5 个必填小节）
-- [ ] `bun run release:docs` `EXIT=0`
-- [ ] `--check --strict` `EXIT=0`，link audit `issues=0`，counts in sync
+- [ ] Bun version 与 `.bun-version` 一致，`bun run verify` `EXIT=0`
+- [ ] fresh PR 的 `Required verification` 为 green，`main` protection 仍要求该 context
 - [ ] `git diff` 无密钥 / 本地路径 / 隐私（grep 检查 home 目录路径前缀、token 前缀、真实用户名，命中应为 0）
 - [ ] sitemap `lastmod` 无污染（`git diff sitemap.xml` 里新增的 lastmod 都是当天）
 - [ ] push 后 `gh run watch` 确认 Astro build 绿（尤其改过 `site/` 配置时）

@@ -1,6 +1,15 @@
 # 工具链 / Toolchain
 
-运行时是 **Bun**（非 Node）。所有工具是 `tools/*.ts`，共享 `lib/markdown_helpers.ts`。
+运行时是 **Bun**（非 Node），exact version 记录在 root `.bun-version`。所有工具是 `tools/*.ts`，共享 `lib/markdown_helpers.ts`。
+
+## tools/verify.ts（统一必需门禁）
+
+`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / surface / AI / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / diff gates。任何一步 non-zero 都立即阻断。
+
+- default output：`_vercel_public`
+- Pages parity：`bun run verify --out _site`
+- focused route check：`bun tools/required_publish_routes.ts --out _site`
+- full internal HTML href crawl：Issue #183，不能用 required-route smoke check 替代
 
 ## lib/markdown_helpers.ts（共享层）
 
@@ -54,9 +63,8 @@
 ## 常用命令速查
 
 ```bash
-# 发布前门禁（必须 EXIT=0）
-bun run release:docs
-bun tools/release.ts --check --strict
+# 发布前唯一完整门禁（必须 EXIT=0）
+bun run verify
 
 # 改了 wiki 内容后，重生成发现面 + 同步 counts
 bun tools/release.ts --write
