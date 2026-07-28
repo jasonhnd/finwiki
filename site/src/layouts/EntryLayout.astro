@@ -8,6 +8,7 @@ import { entryDomain, entryRoute } from '../lib/routes';
 import { isoDate } from '../lib/format';
 import { localizedTitle } from '../lib/siteIndex.mjs';
 import { buildEntryDiscovery } from '../lib/entryDiscovery.mjs';
+import { isReviewOverdue } from '../lib/reviewDate';
 
 interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
@@ -50,7 +51,7 @@ const confTone =
       : confidence
         ? 'warn'
         : 'muted';
-const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
+const overdue = isReviewOverdue(reviewBy);
 const allEntries = await getCollection('entries');
 const discovery = buildEntryDiscovery({ lang, entry, entries: allEntries });
 const discoveryLaneLabels = {
