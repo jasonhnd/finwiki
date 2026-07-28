@@ -5,6 +5,7 @@ import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
+import { publishableTranslations } from '../../../../lib/translations';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -22,7 +23,7 @@ const entries = (await getCollection('entries'))
   .filter((entry) => entryDomain(entry) === domain)
   .sort(compareEntryRoute);
 
-const translations = await getCollection('i18n');
+const translations = publishableTranslations(await getCollection('i18n'));
 const translationMap = new Map(translations.map((entry) => [entry.id, entry]));
 
 function titleFor(entry: (typeof entries)[number]): string {

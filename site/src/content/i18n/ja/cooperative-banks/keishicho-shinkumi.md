@@ -11,7 +11,7 @@ translated_at: 2026-06-18T23:33:48.274Z
 
 ## Wiki ルート
 
-本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に、警察セクターの **首都圏(東京)職域(occupation-based)信組アンカー**として位置し、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録された 143協同組合群の中で、[[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]](消防)および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]](東京都職員)を補完する。
+本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に、警察セクターの **首都圏(東京)職域(occupation-based)信組アンカー**として位置し、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録された 143協同組合群の中で、[[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (消防)および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (東京都職員)を補完する。
 
 ## TL;DR
 
@@ -124,4 +124,4 @@ translated_at: 2026-06-18T23:33:48.274Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地(警視庁本部内)は ^[extracted](公開情報)。総資産・預金等 KPI は Wikipedia(2022-03 末) + 警視庁職員信用組合 公式経営情報で確定(預金 5,216 億円・貸出 3,553 億円・総資産 6,830 億円・出資金 47.2 億円・7 店・職員 144 人)。当初「数百億〜数千億円規模」概数は実規模(総資産約 6,800 億円)に修正。職域信組(警察系)の代表アンカーとして Wave 13 拡張で追加。警察共済組合との具体的役割分担は本文で断定せず、要追加検証。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地(警視庁本部内)は ^[extracted] (公開情報)。総資産・預金等 KPI は Wikipedia(2022-03 末) + 警視庁職員信用組合 公式経営情報で確定(預金 5,216 億円・貸出 3,553 億円・総資産 6,830 億円・出資金 47.2 億円・7 店・職員 144 人)。当初「数百億〜数千億円規模」概数は実規模(総資産約 6,800 億円)に修正。職域信組(警察系)の代表アンカーとして Wave 13 拡張で追加。警察共済組合との具体的役割分担は本文で断定せず、要追加検証。

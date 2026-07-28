@@ -1,6 +1,6 @@
 ---
 source: exchanges/global-dex-aggregator-comparison-matrix
-source_hash: 6dcba8b3b6f84291
+source_hash: 7c44c761060d7bef
 lang: ja
 status: machine
 fidelity: ok
@@ -18,7 +18,7 @@ translated_at: 2026-06-02T12:19:04.253Z
 - **MEV 保護 の3大メカニズム**:**CoW Protocol のバッチオークション + uniform 清算 price**(構造的にMEVを消す)· **1inch Fusion / 0x Settler の intent-based + signed quote**(MEVをほぼキャンセル)· **flashbots private メンプール** ラッパ(一部aggregatorが統合)— JupiterのSolana上のMEVはJito tipモデルで緩和
 - **日次出来高**(2026-Q2推定):1inch ~$1.5-2B · Jupiter ~$1-2B(Solanaの70%+のルーティングが経由)· 0x/Matcha ~$0.8-1.2B · CowSwap ~$0.4-0.6B · KyberSwap / OKX DEX ~$0.3-0.5B · ParaSwap / OpenOcean それぞれ ~$0.2-0.4B
 - **ガバナンストークン**:1INCH · ZRX · COW · JUP · KNC · OKB(OKX本体のトークン)· PSP(2024 ローンチのParaSwap)· OpenOcean OOE · 各々の治理モデルと手数料分配は大きく異なる
-- 関連項目:[[exchanges/global-dex-major-five-comparison|global DEX 5強]](DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
+- 関連項目:[[exchanges/global-dex-major-five-comparison|global DEX 5強]] (DEX比較)· [[exchanges/solana-ecosystem-dex-comparison|Solana 経済圏 DEX]](Solana 6層)· 本マトリックスは8 aggregator横断に特化
 
 ## ウィキ上の位置づけ
 
