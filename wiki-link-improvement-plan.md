@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 7 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,13 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `exchanges/global-dex-aggregator-comparison-matrix.md` | `M` | 26 | ok |
-| `exchanges/jp-crypto-bank-credit-facilities.md` | `M` | 6 | ok |
-| `exchanges/jp-foreign-exchange-binance-holdings-legacy.md` | `M` | 5 | ok |
-| `financial-regulators/okinawa-shinko.md` | `M` | 17 | ok |
-| `regional-banks/nanto-bank.md` | `M` | 19 | ok |
-| `systems/cross-chain-bridge-security-insurance-matrix-2026.md` | `M` | 26 | ok |
-| `systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic.md` | `M` | 23 | ok |
 
 ## Domain Snapshot
 
