@@ -7,7 +7,7 @@ finwiki/
 ├── <domain>/                 # 40 个领域目录，每个含 INDEX.md + 若干 entry .md
 │   └── INDEX.md              # 领域索引（domain_index）
 ├── JapanFG/                  # 日本金融机构 umbrella hub；实体已拆到 17 个机构类型域
-├── site/                     # Astro 站点（独立 node_modules，本地通常不装）
+├── site/                     # Astro 站点（独立 frozen Bun lockfile）
 │   └── src/
 │       ├── content.config.ts # ENTRY_DOMAIN_DIRS allowlist（决定 Astro 拾取哪些领域）
 │       ├── content/i18n/{ja,en}/     # 机器翻译产物
@@ -15,7 +15,7 @@ finwiki/
 │       └── i18n/groups.ts    # super-group（领域分组导航）
 ├── tools/*.ts                # Bun 工具链（见 toolchain.md）
 ├── lib/markdown_helpers.ts   # 工具共享的解析 / 扫描 / 常量
-├── releases/vX.md            # 每次发布的双语 release notes（计入 corpus，但 entry_type=release_note）
+├── releases/vX.md            # 每次发布的日文→英文→中文 release notes（计入 corpus，但 entry_type=release_note）
 ├── api/                      # generate_ai_discovery 产出的 JSON API；每次写入前清理旧 entry JSON
 ├── docs/                     # ← 本目录：内部开发文档，已排除出 corpus
 ├── README.md / CHANGELOG.md / AGENTS.md / SCHEMA.md / INDEX.md  # 控制文档
@@ -35,7 +35,7 @@ finwiki/
 | `*/INDEX.md` | `domain_index` |
 | 其余 | `wiki_entry` ← 即"知识库正文条目" |
 
-**`entries` 计数 = entry_type 为 `wiki_entry` 的文件数**（当前 1485 条由 link audit 检查的 public wiki entries）。`md` 计数 = 全部 corpus `.md`（当前 1566，含 control/release/index）。`domains` = `INDEX.md` 表里的领域行数（40）。
+**`entries` 计数 = entry_type 为 `wiki_entry` 的文件数**；`md` 计数 = 全部 corpus `.md`（含 control/release/index）；`domains` = `INDEX.md` 表里的领域行数。当前值统一读取 `ai-index.json` 的 `counts.link_audited_entries`、`counts.markdown_files`、`counts.topical_domains`，并由 strict release、wikilink audit 与 index-count audit 交叉验证，文档不再复制易漂移快照。
 
 ## domain 体系
 
@@ -50,7 +50,7 @@ finwiki/
 ## site/（Astro）
 
 - `content.config.ts` 的 `ENTRY_DOMAIN_DIRS` 是**显式 allowlist**——只有列出的领域目录会被 glob 成 content collection。新目录（如 `docs/`）不在其中即自动不被站点拾取。
-- `site/` 有独立 `node_modules`，本地通常不安装 → **无法本地验证 Astro build**，改 site 配置是盲推，靠 GitHub Actions「Deploy FinWiki」验证。
+- `site/` 有独立 lockfile；root `bun run verify` 会 frozen install 后执行 typecheck、Astro、Pagefind、assembly 与 required-route check，因此 site 配置不得盲推或只依赖 CI。
 
 ## ★ 双排除机制（最易混淆）
 
@@ -67,7 +67,7 @@ finwiki/
 
 ## 如何新增一个 wiki entry
 
-1. 在对应 `<domain>/` 下建 `<slug>.md`，按 `SCHEMA.md` 写 frontmatter（title/domain/aliases/related/... ；可选 `canonical_anchor`）。
+1. 在对应 `<domain>/` 下建 `<slug>.md`，按 `SCHEMA.md` 写 frontmatter（title/domain/aliases/related/...；mirror page 必填 `canonical_anchor`，anchor 与普通条目省略）。
 2. 正文用 `[[domain/slug]]` 写 wikilink（`buildAliasMap` 会用 frontmatter `aliases` 解析别名）。
 3. 在该领域 `INDEX.md` 加一行；如果领域计数变了，`INDEX.md` 根表的 count 由 `release.ts` 不自动改——需手动核对（领域 count 来自 INDEX 表文本）。
 4. 走 [release-process.md](../08-operations/release-process.md)。

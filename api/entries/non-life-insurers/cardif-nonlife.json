@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/cardif-nonlife",
   "source_path": "non-life-insurers/cardif-nonlife.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/cardif-nonlife",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/cardif-nonlife/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/cardif-nonlife/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/cardif-nonlife/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/cardif-nonlife/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/cardif-nonlife.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/cardif-nonlife.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/cardif-nonlife.md",
   "domain": "non-life-insurers",
   "title": "Cardif Non-Life Japan / カーディフ損害保険",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "non-life-insurers/ji-accident-fire-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/cardif-life",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/cardif-nonlife",
-      "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance"
+      "https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bnp-paribas-japan/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/cardif-life/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/cardif-nonlife/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/ji-accident-fire-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

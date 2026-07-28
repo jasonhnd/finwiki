@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/ap2-adoption",
   "source_path": "agent-economy/ap2-adoption.md",
-  "url": "https://finwiki.zksc.io/agent-economy/ap2-adoption",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/ap2-adoption/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/ap2-adoption/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/ap2-adoption/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/ap2-adoption/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-adoption.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-adoption.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/ap2-adoption.md",
   "domain": "agent-economy",
   "title": "AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦",
   "entry_type": "wiki_entry",
@@ -66,17 +71,17 @@
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-technical-spec/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/domains/systems/"
     ],
     "external_links_count": 0,
     "external_links": []

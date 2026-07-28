@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/eigenlayer-avs-mechanism",
   "source_path": "systems/eigenlayer-avs-mechanism.md",
-  "url": "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism",
+  "url": "https://finwiki.zksc.io/ja/systems/eigenlayer-avs-mechanism/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/eigenlayer-avs-mechanism/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/eigenlayer-avs-mechanism/",
+    "en": "https://finwiki.zksc.io/en/systems/eigenlayer-avs-mechanism/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eigenlayer-avs-mechanism.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eigenlayer-avs-mechanism.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism.md",
   "domain": "systems",
   "title": "EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁",
   "entry_type": "wiki_entry",
@@ -60,13 +65,13 @@
       "systems/hyperlane-ism-modular-security"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/liquid-staking-restaking-cex-exposure/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-l1-bootstrapping/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-ism-modular-security/"
     ],
     "external_links_count": 0,
     "external_links": []

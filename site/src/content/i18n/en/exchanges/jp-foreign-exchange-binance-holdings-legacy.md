@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-foreign-exchange-binance-holdings-legacy
-source_hash: 9d2b4da2a358c714
+source_hash: f577a319906563b6
 lang: en
 status: machine
 fidelity: ok
@@ -138,7 +138,7 @@ The Binance Holdings Limited case is noteworthy in the history of Japanese crypt
 ## Sources
 
 - [FSA alert information (list of unregistered crypto-asset exchange operators)](https://www.fsa.go.jp/ordinary/chuui/) (retrieved 2026-05-19 · the 2018年 and 2021年 warning letters have now been removed from the FSA site)
-- [Binance Japan entry (this wiki)](wiki/exchanges/jp-exchange-binance-japan.md) (reference 2026-05-19)
+- [[exchanges/jp-exchange-binance-japan|Binance Japan entry (this wiki)]] (reference 2026-05-19)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-19)
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
 - [PayPay × Binance Japan investment press release](https://about.paypay.ne.jp/pr/20251009/) (retrieved 2026-05-18 · confirms the investment relationship of the parent Binance Holdings)

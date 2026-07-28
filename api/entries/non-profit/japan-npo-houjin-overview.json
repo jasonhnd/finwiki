@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-npo-houjin-overview",
   "source_path": "non-profit/japan-npo-houjin-overview.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-npo-houjin-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-npo-houjin-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-npo-houjin-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview.md",
   "domain": "non-profit",
   "title": "日本 NPO法人（特定非営利活動法人）— legal structure overview",
   "entry_type": "wiki_entry",
@@ -72,15 +77,15 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-ippan-vs-koeki-shadan-houjin/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

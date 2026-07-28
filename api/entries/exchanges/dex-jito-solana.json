@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/dex-jito-solana",
   "source_path": "exchanges/dex-jito-solana.md",
-  "url": "https://finwiki.zksc.io/exchanges/dex-jito-solana",
+  "url": "https://finwiki.zksc.io/ja/exchanges/dex-jito-solana/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/dex-jito-solana/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/dex-jito-solana/",
+    "en": "https://finwiki.zksc.io/en/exchanges/dex-jito-solana/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-jito-solana.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-jito-solana.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/dex-jito-solana.md",
   "domain": "exchanges",
   "title": "Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview",
   "entry_type": "wiki_entry",
@@ -65,12 +70,12 @@
       "exchanges/solana-ecosystem-dex-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
-      "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-orca-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

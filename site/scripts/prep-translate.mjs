@@ -3,7 +3,8 @@
 //   bun scripts/prep-translate.mjs --domain money-market
 //   bun scripts/prep-translate.mjs --limit 20 [--force]
 //   bun scripts/prep-translate.mjs --langs en --domain payment-firms --force
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync } from 'node:fs';
+//   bun scripts/prep-translate.mjs --force --dry-run
+import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask } from './protect.mjs';
@@ -25,26 +26,21 @@ const ONLY = opt('domain');
 const DOMAINS = ONLY ? ONLY.toLowerCase().split(',').map((s) => s.trim()) : null;
 const LIMIT = Number(opt('limit', '0')) || Infinity;
 const FORCE = args.includes('--force');
+const DRY_RUN = args.includes('--dry-run');
 
 const sha = (s) => createHash('sha256').update(s).digest('hex').slice(0, 16);
 const stripFm = (t) => {
   const m = t.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/);
   return m ? t.slice(m[0].length) : t;
 };
-function* walk(dir, rel = '') {
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    const r = rel ? `${rel}/${e.name}` : e.name;
-    if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
-  }
+if (!DRY_RUN) {
+  rmSync(JOBS, { recursive: true, force: true });
+  mkdirSync(JOBS, { recursive: true });
 }
-
-rmSync(JOBS, { recursive: true, force: true });
-mkdirSync(JOBS, { recursive: true });
 
 let n = 0;
 const list = [];
-for (const rel of walkEntries(walk)) {
+for await (const rel of walkEntries()) {
   if (n >= LIMIT) break;
   const relLc = rel.toLowerCase();
   if (DOMAINS && !DOMAINS.some((d) => relLc.startsWith(d + '/'))) continue;
@@ -59,10 +55,16 @@ for (const rel of walkEntries(walk)) {
   if (allDone) continue;
   const { masked, masks } = mask(body);
   const flat = relLc.replace(/\.md$/, '').replace(/\//g, '__');
-  writeFileSync(join(JOBS, `${flat}.masked.md`), masked);
-  writeFileSync(join(JOBS, `${flat}.json`), JSON.stringify({ rel: relLc, hash: h, masks }));
+  if (!DRY_RUN) {
+    writeFileSync(join(JOBS, `${flat}.masked.md`), masked);
+    writeFileSync(join(JOBS, `${flat}.json`), JSON.stringify({ rel: relLc, hash: h, masks }));
+  }
   list.push(`${flat}.masked.md`);
   n++;
 }
-console.log(`prepared ${n} jobs → site/.cache/jobs/  (langs: ${LANGS.join(',')})`);
+console.log(
+  DRY_RUN
+    ? `prepared ${n} jobs (dry run; no files written)  (langs: ${LANGS.join(',')})`
+    : `prepared ${n} jobs → site/.cache/jobs/  (langs: ${LANGS.join(',')})`,
+);
 for (const f of list.slice(0, 60)) console.log('  ' + f);

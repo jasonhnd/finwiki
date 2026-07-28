@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trade/documentary-collection-vs-letter-of-credit",
   "source_path": "trade/documentary-collection-vs-letter-of-credit.md",
-  "url": "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+  "url": "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+  "html_url": "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trade/documentary-collection-vs-letter-of-credit/",
+    "en": "https://finwiki.zksc.io/en/trade/documentary-collection-vs-letter-of-credit/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/documentary-collection-vs-letter-of-credit.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/documentary-collection-vs-letter-of-credit.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit.md",
   "domain": "trade",
   "title": "Documentary collection vs letter of credit — trade settlement methods compared",
   "entry_type": "wiki_entry",
@@ -72,15 +77,15 @@
       "trade/letter-of-credit-documentary-mechanism"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
-      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
-      "https://finwiki.zksc.io/trade/INDEX",
-      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
-      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
-      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/insurance/marine-insurance-and-pi-cover-market/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-clearing-and-settlement-infrastructure/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/",
+      "https://finwiki.zksc.io/ja/policy-finance/nexi-export-credit-insurance-products/",
+      "https://finwiki.zksc.io/ja/domains/trade/",
+      "https://finwiki.zksc.io/ja/trade/incoterms-2020-trade-terms-framework/",
+      "https://finwiki.zksc.io/ja/trade/jetro-vs-nexi-vs-jbic-comparison/",
+      "https://finwiki.zksc.io/ja/trade/letter-of-credit-documentary-mechanism/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/global-crypto-exchange-bankruptcy-comparison",
   "source_path": "exchanges/global-crypto-exchange-bankruptcy-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/global-crypto-exchange-bankruptcy-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-crypto-exchange-bankruptcy-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-crypto-exchange-bankruptcy-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison.md",
   "domain": "exchanges",
   "title": "暗号資産取引所 倒産処理 国際比較",
   "entry_type": "wiki_entry",
@@ -65,18 +70,18 @@
       "exchanges/us-crypto-licensing-multi-layer-system"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
-      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
+      "https://finwiki.zksc.io/ja/exchanges/mtgox-bankruptcy-processing-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/"
     ],
     "external_links_count": 0,
     "external_links": []

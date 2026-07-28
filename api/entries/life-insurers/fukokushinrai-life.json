@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/fukokushinrai-life",
   "source_path": "life-insurers/fukokushinrai-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/fukokushinrai-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/fukokushinrai-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/fukokushinrai-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/fukokushinrai-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/fukokushinrai-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/fukokushinrai-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/fukokushinrai-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/fukokushinrai-life.md",
   "domain": "life-insurers",
   "title": "フコクしんらい生命保険",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "non-life-insurers/kyoritsu-fire-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
-      "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/fukoku-life",
-      "https://finwiki.zksc.io/life-insurers/ms-primary-life",
-      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "https://finwiki.zksc.io/ja/insurance/bancassurance-economics-japan/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/fukoku-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/ms-primary-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/kyoritsu-fire-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

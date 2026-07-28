@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/carve-out-divestiture-japan",
   "source_path": "finance/carve-out-divestiture-japan.md",
-  "url": "https://finwiki.zksc.io/finance/carve-out-divestiture-japan",
+  "url": "https://finwiki.zksc.io/ja/finance/carve-out-divestiture-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/carve-out-divestiture-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/carve-out-divestiture-japan/",
+    "en": "https://finwiki.zksc.io/en/finance/carve-out-divestiture-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/carve-out-divestiture-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/carve-out-divestiture-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/carve-out-divestiture-japan.md",
   "domain": "finance",
   "title": "Carve-out and divestiture process in Japan",
   "entry_type": "wiki_entry",
@@ -77,18 +82,18 @@
       "financial-licenses/securities-license-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
-      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/finance/jftc-merger-control-process",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/financial-licenses/securities-license-stack"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
+      "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
+      "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
+      "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
     ],
     "external_links_count": 0,
     "external_links": []

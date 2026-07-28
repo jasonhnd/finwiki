@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/institutional-dlt-adoption-comparison-2026",
   "source_path": "systems/institutional-dlt-adoption-comparison-2026.md",
-  "url": "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026",
+  "url": "https://finwiki.zksc.io/ja/systems/institutional-dlt-adoption-comparison-2026/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/institutional-dlt-adoption-comparison-2026/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/institutional-dlt-adoption-comparison-2026/",
+    "en": "https://finwiki.zksc.io/en/systems/institutional-dlt-adoption-comparison-2026/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/institutional-dlt-adoption-comparison-2026.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/institutional-dlt-adoption-comparison-2026.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026.md",
   "domain": "systems",
   "title": "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
   "entry_type": "wiki_entry",
@@ -85,18 +90,18 @@
       "systems/polygon-agglayer-architecture-rollout"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
-      "https://finwiki.zksc.io/systems/canton-mmf-coalition",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration",
-      "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-daml-technical-spec/",
+      "https://finwiki.zksc.io/ja/systems/canton-mmf-coalition/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-vs-canton-migration/",
+      "https://finwiki.zksc.io/ja/systems/polygon-agglayer-architecture-rollout/"
     ],
     "external_links_count": 0,
     "external_links": []

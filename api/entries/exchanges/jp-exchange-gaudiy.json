@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-gaudiy",
   "source_path": "exchanges/jp-exchange-gaudiy.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-gaudiy",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaudiy/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaudiy/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaudiy/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-gaudiy/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-gaudiy.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-gaudiy.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-gaudiy.md",
   "domain": "exchanges",
   "title": "株式会社Gaudiy Financial Labs — JVCEA 第二種会員（Web3 IP プラットフォーム事業者）",
   "entry_type": "wiki_entry",
@@ -76,17 +81,17 @@
       "fintech/jp-trust-type-sc-architecture"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-cex-nft-marketplace-integration",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-saxo-bank-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-trek-labs-japan",
-      "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases",
-      "https://finwiki.zksc.io/exchanges/jvcea-type2-associate-membership-system",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-saxo-bank-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-type2-associate-membership-system/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
     "external_links_count": 10,
     "external_links": [

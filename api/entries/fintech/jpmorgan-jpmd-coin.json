@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/jpmorgan-jpmd-coin",
   "source_path": "fintech/jpmorgan-jpmd-coin.md",
-  "url": "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+  "url": "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+    "en": "https://finwiki.zksc.io/en/fintech/jpmorgan-jpmd-coin/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jpmorgan-jpmd-coin.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jpmorgan-jpmd-coin.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin.md",
   "domain": "fintech",
   "title": "JPMorgan JPMD · トークン化預金 · GENIUS §501 法的分類下の TD パラダイム",
   "entry_type": "wiki_entry",
@@ -72,19 +77,19 @@
       "systems/canton-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
-      "https://finwiki.zksc.io/systems/canton-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jpm-onyx-wholesale-network/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/fintech/tokenized-deposit-cumulative-volume-scale/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -92,7 +97,7 @@
   "metrics": {
     "nonspace_chars": 3408,
     "word_like_tokens": 598,
-    "inbound_wikilinks_count": 28,
+    "inbound_wikilinks_count": 27,
     "last_modified": "2026-06-23"
   }
 }

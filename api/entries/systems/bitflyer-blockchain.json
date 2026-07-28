@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/bitflyer-blockchain",
   "source_path": "systems/bitflyer-blockchain.md",
-  "url": "https://finwiki.zksc.io/systems/bitflyer-blockchain",
+  "url": "https://finwiki.zksc.io/ja/systems/bitflyer-blockchain/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/bitflyer-blockchain/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/bitflyer-blockchain/",
+    "en": "https://finwiki.zksc.io/en/systems/bitflyer-blockchain/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bitflyer-blockchain.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bitflyer-blockchain.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/bitflyer-blockchain.md",
   "domain": "systems",
   "title": "bitFlyer Blockchain",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "systems/hyperledger-besu-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/payment-firms/bitflyer",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-overview"
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

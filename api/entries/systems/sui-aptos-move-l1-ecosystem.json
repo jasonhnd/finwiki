@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/sui-aptos-move-l1-ecosystem",
   "source_path": "systems/sui-aptos-move-l1-ecosystem.md",
-  "url": "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem",
+  "url": "https://finwiki.zksc.io/ja/systems/sui-aptos-move-l1-ecosystem/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/sui-aptos-move-l1-ecosystem/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/sui-aptos-move-l1-ecosystem/",
+    "en": "https://finwiki.zksc.io/en/systems/sui-aptos-move-l1-ecosystem/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/sui-aptos-move-l1-ecosystem.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/sui-aptos-move-l1-ecosystem.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem.md",
   "domain": "systems",
   "title": "Sui and Aptos · Move L1 ecosystem",
   "entry_type": "wiki_entry",
@@ -77,17 +82,17 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
-      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
-      "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/dag-bft-vs-chain-bft-architecture/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+      "https://finwiki.zksc.io/ja/systems/l2-agent-economics-arbitrum-base-op-comparison/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+      "https://finwiki.zksc.io/ja/systems/solana-firedancer-validator-economics/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

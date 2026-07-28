@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/toyota-finance",
   "source_path": "card-issuers/toyota-finance.md",
-  "url": "https://finwiki.zksc.io/card-issuers/toyota-finance",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/toyota-finance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/toyota-finance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/toyota-finance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/toyota-finance.md",
   "domain": "card-issuers",
   "title": "トヨタファイナンス",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "payments/credit-purchase-card-operators-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/toyota-financial",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
+      "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

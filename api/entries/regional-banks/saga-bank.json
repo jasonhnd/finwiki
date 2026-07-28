@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/saga-bank",
   "source_path": "regional-banks/saga-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/saga-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/saga-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/saga-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/saga-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/saga-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/saga-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/saga-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/saga-bank.md",
   "domain": "regional-banks",
   "title": "佐賀銀行",
   "entry_type": "wiki_entry",
@@ -69,18 +74,18 @@
       "regional-banks/oita-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank",
-      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd",
-      "https://finwiki.zksc.io/regional-banks/oita-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-city-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-fhd/",
+      "https://finwiki.zksc.io/ja/regional-banks/oita-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

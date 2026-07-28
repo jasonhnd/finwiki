@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-crypto-tax-software-vendor-layer",
   "source_path": "exchanges/jp-crypto-tax-software-vendor-layer.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-tax-software-vendor-layer",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-tax-software-vendor-layer/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-tax-software-vendor-layer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-tax-software-vendor-layer/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-crypto-tax-software-vendor-layer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-tax-software-vendor-layer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-tax-software-vendor-layer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-tax-software-vendor-layer.md",
   "domain": "exchanges",
   "title": "国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)",
   "entry_type": "wiki_entry",
@@ -71,16 +76,16 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
-      "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
-      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-on-off-ramp-bridge-layer",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-staking-as-a-service-operators",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/",
+      "https://finwiki.zksc.io/ja/exchanges/japan-crypto-law-firm-landscape/",
+      "https://finwiki.zksc.io/ja/exchanges/jcba-japan-crypto-business-association/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-on-off-ramp-bridge-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-staking-as-a-service-operators/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

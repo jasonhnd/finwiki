@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-kraken-japan-historical",
   "source_path": "exchanges/jp-exchange-kraken-japan-historical.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-kraken-japan-historical/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-kraken-japan-historical.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-kraken-japan-historical.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical.md",
   "domain": "exchanges",
   "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coinbase-japan",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

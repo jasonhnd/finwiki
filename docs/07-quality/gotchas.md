@@ -2,19 +2,19 @@
 
 踩过的坑，按"会咬人"程度排序。
 
-## 1. clone-mtime 污染（高危）
+## 1. `last_modified` 的 Git-first / mtime fallback（高危）
 
-`generate_ai_discovery.ts` 从 **fs mtime** 生成 `sitemap.xml` / `api` 的 `<lastmod>`（`lib/markdown_helpers.ts` 的 `lastModifiedFor` → `stat().mtimeMs`）。`git clone` 把所有文件 mtime 重置为 clone 时刻 → 一旦 `release.ts --write`，**全站 1400+ 页 lastmod 全被改成 clone 日期**，且会随 commit 污染历史。
+`lib/markdown_helpers.ts` 的 `lastModifiedFor()` 在 full-history checkout 优先用 source path 最新 Git commit date 生成 sitemap/API 的 `last_modified`。canonical GitHub verify/deploy workflows 都设置 `fetch-depth: 0`。已编辑的 tracked 文件在 commit 前仍返回旧 commit date；shallow/history-less builder 会先复用现有 `ai-index.json` 中该 source 的合法 date，再尝试 shallow Git date，只有这些都不可用时才使用 `stat().mtimeMs`。因此 mtime 既不是全站真值，也不是 history 不完整时的 immediate fallback。
 
-**对策**：clone 后第一次发布前，把已提交 `sitemap.xml` 的 `<lastmod>` 当真值，逐页恢复 mtime（`utimes`），只给当天真正编辑过的文件设今天。验证：`git diff sitemap.xml | grep '^+.*<lastmod>' | grep -v <今天>` 应为 0。
+**对策**：先确认 checkout depth 与 source history：`git rev-parse --is-shallow-repository`、`git log -1 --format=%cs -- <path>`，再检查 committed `ai-index.json` 的对应 date。初次 `--write` / verify 可在 commit 前发现其他问题，但 source commit 后必须再次 `--write`，把生成差异 amend 到该 commit 或作为同一 push 的 release-sync commit，再跑最终 `bun run verify`。`bun run surface:drift` 会固定两个 `generated_at` 后 byte-compare 全部发现面与每个 per-entry API JSON；任何 `last_modified` 差异都会阻断。
 
 ## 2. self-referential count 不收敛（中危）
 
 README / index.html 内嵌 corpus 的 char/token 计数（如"约 10.09M / 163万 tokens"）。编辑任何 `.md` 都会改总字数；当某计数**跨数量级位数**（999万→1001万，字符串变长）时，单次 `--write` 写入新计数本身又改变了字数 → `--check` 仍 drift。**对策**：`--write` 后若 `--check --strict` 非 0，再 `--write` 一次即收敛。发布脚本里用 `|| { --write; --check; }` 兜底。
 
-## 3. site/ 无 node_modules → 盲推（中危）
+## 3. site/ dependencies 必须 frozen install（中危）
 
-`site/` 有独立依赖，本地通常不装，**无法本地跑 Astro build**。改了 `site/src/content.config.ts` / `siteIndex.mjs` / `i18n/groups.ts` 只能盲推，靠 GitHub Actions「Deploy FinWiki」验证。**对策**：push 后必 `gh run watch <id> --exit-status`；关键步骤是 "Build human site" 和 "Build static search index"；失败就 revert 那个 commit。
+`site/` 有独立 lockfile；手工 `bun install` 或只依赖已有 `node_modules` 会让 local 与 CI 解析结果漂移。**对策**：从 root 跑 `bun run verify`，它先执行 `site/` 的 `bun install --frozen-lockfile`，再做 typecheck、Astro、Pagefind 与 final artifact。push 后仍需 `gh run watch <id> --exit-status`，因为本地绿色不证明 Pages permission / deploy state。
 
 ## 4. 假死链（中危）
 
@@ -40,7 +40,7 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 
 ## 9. 发布门禁的硬约束
 
-`release.ts --check --strict` 必须 `EXIT=0` 才能发：link audit `issues=0`、counts in sync、JSON valid / LF endings / duplicate-id verify OK。任一不满足都别 push。
+`bun run verify` 必须 `EXIT=0` 才能 push / merge / deploy。它包含 strict release check，但还额外要求 docs、fixed-timestamp exact regeneration、i18n/index、dependency、typecheck、tests、build、Pagefind、assembly、required routes、全生成 URL 对最终 artifact 的 route audit 与 diff 全绿；只跑 `release.ts --check --strict` 不再等于完整发布门禁。
 
 ## 10. block-no-verify hook 对复合命令 + "verif" 词误判（中危）
 
@@ -52,4 +52,4 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 
 ## 12. pre-push 门禁需要 bun 在 PATH（中危）
 
-`.git/hooks/pre-push` 会跑 `bun tools/release.ts --check --strict`。若 `bun` 不在该 hook（sh）能看到的 `PATH` 上，push 会被拦（`Bun was not found for the FinWiki release check`）。**对策**：把 `bun` 加进 `PATH`，或 `export FINWIKI_BUN=<bun 路径>`（hook 两者都认）。`release.ts` 内部还会 `spawnSync("bun", ...)`，所以光给 hook 指路不够——`bun` 必须在 PATH 上内部子进程才找得到。**别用 `git push --no-verify` 绕过**：门禁红就先 `release.ts --write` 修好再 push。
+tracked `.githooks/pre-push` 必须保持 `100755`，并会跑 `bun run verify`。若 Bun 不在 hook 的 `PATH`，可设置 `FINWIKI_BUN=<bun 路径>`；hook 会把该 executable 的目录加入 child `PATH`，runner 仍会对照 `.bun-version` 拒绝错版 runtime。**别用 `git push --no-verify` 绕过**：先修复具体 failing step，再用 `git hook run pre-push` 复验。

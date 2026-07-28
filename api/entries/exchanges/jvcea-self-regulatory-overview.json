@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jvcea-self-regulatory-overview",
   "source_path": "exchanges/jvcea-self-regulatory-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jvcea-self-regulatory-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-self-regulatory-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-self-regulatory-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview.md",
   "domain": "exchanges",
   "title": "JVCEA — 日本暗号資産取引業協会 自主規制制度 overview",
   "entry_type": "wiki_entry",
@@ -60,12 +65,12 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

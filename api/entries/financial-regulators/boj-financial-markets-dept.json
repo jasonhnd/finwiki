@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/boj-financial-markets-dept",
   "source_path": "financial-regulators/boj-financial-markets-dept.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-markets-dept/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-markets-dept/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-markets-dept/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/boj-financial-markets-dept/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/boj-financial-markets-dept.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/boj-financial-markets-dept.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept.md",
   "domain": "financial-regulators",
   "title": "金融市場局 (BoJ Financial Markets Department)",
   "entry_type": "wiki_entry",
@@ -73,18 +78,18 @@
       "money-market/jgb-repo-market-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
-      "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
-      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
-      "https://finwiki.zksc.io/financial-regulators/boj-payment-settlement-dept",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/call-market-structure",
-      "https://finwiki.zksc.io/money-market/japan-money-market",
-      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan"
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-system-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-international-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-payment-settlement-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ueda-yagi-tanshi/",
+      "https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/",
+      "https://finwiki.zksc.io/ja/money-market/call-market-structure/",
+      "https://finwiki.zksc.io/ja/money-market/japan-money-market/",
+      "https://finwiki.zksc.io/ja/money-market/jgb-repo-market-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

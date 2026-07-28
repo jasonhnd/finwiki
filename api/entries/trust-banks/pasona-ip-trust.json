@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/pasona-ip-trust",
   "source_path": "trust-banks/pasona-ip-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/pasona-ip-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/pasona-ip-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/pasona-ip-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/pasona-ip-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/pasona-ip-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/pasona-ip-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/pasona-ip-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/pasona-ip-trust.md",
   "domain": "trust-banks",
   "title": "パソナ知財信託 (Pasona IP Trust)",
   "entry_type": "wiki_entry",
@@ -63,12 +68,12 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

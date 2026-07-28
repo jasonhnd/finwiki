@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/mev-flashbots-suave-order-flow-auction",
   "source_path": "systems/mev-flashbots-suave-order-flow-auction.md",
-  "url": "https://finwiki.zksc.io/systems/mev-flashbots-suave-order-flow-auction",
+  "url": "https://finwiki.zksc.io/ja/systems/mev-flashbots-suave-order-flow-auction/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/mev-flashbots-suave-order-flow-auction/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/mev-flashbots-suave-order-flow-auction/",
+    "en": "https://finwiki.zksc.io/en/systems/mev-flashbots-suave-order-flow-auction/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/mev-flashbots-suave-order-flow-auction.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/mev-flashbots-suave-order-flow-auction.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/mev-flashbots-suave-order-flow-auction.md",
   "domain": "systems",
   "title": "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions",
   "entry_type": "wiki_entry",
@@ -80,18 +85,18 @@
       "systems/sui-aptos-move-l1-ecosystem"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
-      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison",
-      "https://finwiki.zksc.io/systems/rollup-market-share-2026-arbitrum-optimism-base",
-      "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
-      "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/agent-economy/",
+      "https://finwiki.zksc.io/ja/agent-economy/stablecoin-routing-agent-transactions/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-userop-bundler-flow/",
+      "https://finwiki.zksc.io/ja/systems/l2-agent-economics-arbitrum-base-op-comparison/",
+      "https://finwiki.zksc.io/ja/systems/rollup-market-share-2026-arbitrum-optimism-base/",
+      "https://finwiki.zksc.io/ja/systems/solana-firedancer-validator-economics/",
+      "https://finwiki.zksc.io/ja/systems/sui-aptos-move-l1-ecosystem/"
     ],
     "external_links_count": 0,
     "external_links": []

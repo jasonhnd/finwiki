@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/diners-club-japan",
   "source_path": "payment-firms/diners-club-japan.md",
-  "url": "https://finwiki.zksc.io/payment-firms/diners-club-japan",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/diners-club-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/diners-club-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/diners-club-japan/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/diners-club-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/diners-club-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/diners-club-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/diners-club-japan.md",
   "domain": "payment-firms",
   "title": "ダイナースクラブ ジャパン (Diners Club Japan)",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/american-express-international-japan",
-      "https://finwiki.zksc.io/payment-firms/mastercard-japan",
-      "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
-      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
-      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack",
-      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/american-express-international-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/mastercard-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/unionpay-international-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/visa-worldwide-japan/",
+      "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/",
+      "https://finwiki.zksc.io/ja/payments/japan-interchange-and-merchant-fee-stack/",
+      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

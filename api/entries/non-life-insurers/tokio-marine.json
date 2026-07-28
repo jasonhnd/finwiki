@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/tokio-marine",
   "source_path": "non-life-insurers/tokio-marine.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/tokio-marine/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/tokio-marine.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/tokio-marine.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine.md",
   "domain": "non-life-insurers",
   "title": "東京海上ホールディングス (Tokio Marine Holdings)",
   "entry_type": "wiki_entry",
@@ -66,13 +71,13 @@
       "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/"
     ],
     "external_links_count": 0,
     "external_links": []

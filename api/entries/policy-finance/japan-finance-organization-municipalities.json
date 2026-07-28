@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "policy-finance/japan-finance-organization-municipalities",
   "source_path": "policy-finance/japan-finance-organization-municipalities.md",
-  "url": "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
+  "url": "https://finwiki.zksc.io/ja/policy-finance/japan-finance-organization-municipalities/",
+  "html_url": "https://finwiki.zksc.io/ja/policy-finance/japan-finance-organization-municipalities/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/policy-finance/japan-finance-organization-municipalities/",
+    "en": "https://finwiki.zksc.io/en/policy-finance/japan-finance-organization-municipalities/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-finance-organization-municipalities.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-finance-organization-municipalities.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities.md",
   "domain": "policy-finance",
   "title": "Japan Finance Organization for Municipalities (JFM)",
   "entry_type": "wiki_entry",
@@ -72,17 +77,17 @@
       "policy-finance/japan-project-finance-stack-diagram"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/financial-regulators/local-bond-market",
-      "https://finwiki.zksc.io/financial-regulators/local-govt-finance",
-      "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
-      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
-      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-govt-finance/",
+      "https://finwiki.zksc.io/ja/domains/money-market/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-policy-finance-system/",
+      "https://finwiki.zksc.io/ja/policy-finance/japan-project-finance-stack-diagram/"
     ],
     "external_links_count": 0,
     "external_links": []

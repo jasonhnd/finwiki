@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "business/jamie-dimon-anti-crypto-pivot-case",
   "source_path": "business/jamie-dimon-anti-crypto-pivot-case.md",
-  "url": "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case",
+  "url": "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
+  "html_url": "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
+    "en": "https://finwiki.zksc.io/en/business/jamie-dimon-anti-crypto-pivot-case/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/jamie-dimon-anti-crypto-pivot-case.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/jamie-dimon-anti-crypto-pivot-case.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case.md",
   "domain": "business",
   "title": "Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base",
   "entry_type": "wiki_entry",
@@ -67,14 +72,14 @@
       "fintech/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
-      "https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case",
-      "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
-      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
-      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
-      "https://finwiki.zksc.io/fintech/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/",
+      "https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/",
+      "https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/",
+      "https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/",
+      "https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/",
+      "https://finwiki.zksc.io/ja/domains/fintech/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -82,7 +87,7 @@
   "metrics": {
     "nonspace_chars": 3323,
     "word_like_tokens": 578,
-    "inbound_wikilinks_count": 14,
+    "inbound_wikilinks_count": 13,
     "last_modified": "2026-05-29"
   }
 }

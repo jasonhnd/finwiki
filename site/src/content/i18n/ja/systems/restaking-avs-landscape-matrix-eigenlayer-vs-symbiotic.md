@@ -1,6 +1,6 @@
 ---
 source: systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic
-source_hash: 91d67a92b21cdcdd
+source_hash: c6d3d82953634e9c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
@@ -19,7 +19,7 @@ translated_at: 2026-06-26T08:29:09.720Z
 - **AVS 全景 5 大**: **EigenDA**（~$120M revenue 2026 estimate · 複数 ZK rollup ユーザー）· **Hyperlane**(ISM で EigenLayer/Symbiotic を借用)· **Espresso**(shared sequencer · Polygon/zkSync/Caldera 等が接続)· **Lagrange**(coprocessor + state proof)· **Witness Chain**(POI · 物理インフラ検証)
 - 2025 年 EigenLayer のスラッシングが正式有効化 · 実 slash イベント ≤ 5 件 · 累計 < $5M(早期懸念をはるかに下回る)· ただし 相関リスク（rehypothecation）はいまだ十分に価格付けされていない
 - **Lido stake 重複率**:EigenLayer の ~25% TVL が stETH restaking 由来 · Symbiotic では ~40% · Mellow は完全に LST 集合ベース —— Lido はリステーキングエコシステムの「基層流動性源」
-- ルーティング:[[systems/eigenlayer-overview]](コア)· [[exchanges/liquid-staking-restaking-cex-exposure]](LRT CEX エクスポージャー)· [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · 2048 ETH validator]](機関 staking 経路)
+- ルーティング:[[systems/eigenlayer-overview]] (コア)· [[exchanges/liquid-staking-restaking-cex-exposure]](LRT CEX エクスポージャー)· [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · 2048 ETH validator]](機関 staking 経路)
 
 ## ウィキ上の位置づけ
 

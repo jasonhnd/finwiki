@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/nippon-kaiji-kyokai",
   "source_path": "financial-regulators/nippon-kaiji-kyokai.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/nippon-kaiji-kyokai",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/nippon-kaiji-kyokai/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/nippon-kaiji-kyokai/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/nippon-kaiji-kyokai/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/nippon-kaiji-kyokai/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/nippon-kaiji-kyokai.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/nippon-kaiji-kyokai.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/nippon-kaiji-kyokai.md",
   "domain": "financial-regulators",
   "title": "日本海事協会 (ClassNK)",
   "entry_type": "wiki_entry",
@@ -65,12 +70,12 @@
       "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-pi-club/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/"
     ],
     "external_links_count": 0,
     "external_links": []

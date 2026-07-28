@@ -1,6 +1,6 @@
 ---
 source: systems/cross-chain-bridge-security-insurance-matrix-2026
-source_hash: 05c500e4a8257c20
+source_hash: b94644099a7c3cf4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
@@ -18,7 +18,7 @@ translated_at: 2026-06-26T08:28:53.977Z
 - 過去の hack 累計 ≥ $2.7B(2021-2025)· **Ronin $625M · Wormhole $325M · BNB Bridge $570M · Poly $611M · Nomad $190M · Multichain $126M(2023 逃亡)· Orbit Chain $81M(2024)· Wormhole は 2022.02 後に Jump Crypto が全額補填 + 2024 ZK Verifier で修正**
 - Insurance 3 大プール:**Nexus Mutual**(~$120M capital · 主流ブリッジは cover available)· **InsurAce**(~$30M · 中小ブリッジをより深くカバー)· **Sherlock**(~$15M · audit + cover bundled · Hyperlane / LayerZero を一部カバー)
 - 2026 で真に保険可能なブリッジは ~6 個のみ(CCTP V2 · LayerZero v2 · Wormhole NTT · Across · Hyperlane · Axelar)· 大半のブリッジは規模が小さすぎるか trust model が複雑すぎて insurer に引受拒否される
-- 経路:[[systems/cross-chain-five-pole-comparison-matrix]](general comparison)· [[systems/cross-chain-four-poles-overview]](architecture)· 本マトリクスは security + insurance 次元に特化
+- 経路:[[systems/cross-chain-five-pole-comparison-matrix]](general comparison)· [[systems/cross-chain-four-poles-overview]] (architecture)· 本マトリクスは security + insurance 次元に特化
 
 ## ウィキ上の位置づけ
 

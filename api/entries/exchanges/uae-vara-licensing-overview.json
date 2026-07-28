@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/uae-vara-licensing-overview",
   "source_path": "exchanges/uae-vara-licensing-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/uae-vara-licensing-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/uae-vara-licensing-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/uae-vara-licensing-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/uae-vara-licensing-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview.md",
   "domain": "exchanges",
   "title": "UAE VARA ライセンス制度 — ドバイ拠点の世界初独立暗号資産規制機関",
   "entry_type": "wiki_entry",
@@ -65,18 +70,18 @@
       "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-okcoin-japan",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
-      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/",
+      "https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
     "external_links_count": 0,
     "external_links": []

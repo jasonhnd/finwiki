@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/multi-megabank-consortium-governance",
   "source_path": "fintech/multi-megabank-consortium-governance.md",
-  "url": "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+  "url": "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+    "en": "https://finwiki.zksc.io/en/fintech/multi-megabank-consortium-governance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/multi-megabank-consortium-governance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/multi-megabank-consortium-governance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance.md",
   "domain": "fintech",
   "title": "多巨行联合体治理",
   "entry_type": "wiki_entry",
@@ -72,18 +77,18 @@
       "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/progmat"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
     "external_links_count": 0,
     "external_links": []

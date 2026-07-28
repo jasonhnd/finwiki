@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/gmo-epsilon",
   "source_path": "payment-firms/gmo-epsilon.md",
-  "url": "https://finwiki.zksc.io/payment-firms/gmo-epsilon",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/gmo-epsilon/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/gmo-epsilon/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/gmo-epsilon/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/gmo-epsilon/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/gmo-epsilon.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/gmo-epsilon.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/gmo-epsilon.md",
   "domain": "payment-firms",
   "title": "GMOイプシロン (GMO Epsilon)",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/business/gmo-internet-group",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/sb-payment-service",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/business/gmo-internet-group/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/sb-payment-service/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

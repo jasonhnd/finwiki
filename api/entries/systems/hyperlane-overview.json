@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/hyperlane-overview",
   "source_path": "systems/hyperlane-overview.md",
-  "url": "https://finwiki.zksc.io/systems/hyperlane-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/hyperlane-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperlane-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperlane-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/hyperlane-overview.md",
   "domain": "systems",
   "title": "Hyperlane 概観 · Permissionless Cross-chain Interoperability",
   "entry_type": "wiki_entry",
@@ -61,14 +66,14 @@
       "systems/hyperlane-vs-layerzero-ccip"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security",
-      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-ism-modular-security/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-vs-layerzero-ccip/"
     ],
     "external_links_count": 0,
     "external_links": []

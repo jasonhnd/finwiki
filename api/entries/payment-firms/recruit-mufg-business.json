@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/recruit-mufg-business",
   "source_path": "payment-firms/recruit-mufg-business.md",
-  "url": "https://finwiki.zksc.io/payment-firms/recruit-mufg-business",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/recruit-mufg-business/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/recruit-mufg-business/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/recruit-mufg-business/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/recruit-mufg-business/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/recruit-mufg-business.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/recruit-mufg-business.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/recruit-mufg-business.md",
   "domain": "payment-firms",
   "title": "リクルートMUFGビジネス",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payments/prepaid-payment-instrument-issuers-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/mufg-bank",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/au-payment",
-      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
-      "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
-      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index"
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/au-payment/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-payment-gateway/",
+      "https://finwiki.zksc.io/ja/payment-firms/merpay/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-code-payment-competitive-map/",
+      "https://finwiki.zksc.io/ja/payments/prepaid-payment-instrument-issuers-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

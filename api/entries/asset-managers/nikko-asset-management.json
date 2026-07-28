@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "asset-managers/nikko-asset-management",
   "source_path": "asset-managers/nikko-asset-management.md",
-  "url": "https://finwiki.zksc.io/asset-managers/nikko-asset-management",
+  "url": "https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/",
+  "html_url": "https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/",
+    "en": "https://finwiki.zksc.io/en/asset-managers/nikko-asset-management/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/nikko-asset-management.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/nikko-asset-management.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/nikko-asset-management.md",
   "domain": "asset-managers",
   "title": "アモーヴァ・アセットマネジメント (旧 日興アセット)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/asset-managers/INDEX",
-      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
-      "https://finwiki.zksc.io/asset-managers/smt-am",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow",
-      "https://finwiki.zksc.io/trust-banks/smtb",
-      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/asset-managers/",
+      "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
+      "https://finwiki.zksc.io/ja/asset-managers/smt-am/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/",
+      "https://finwiki.zksc.io/ja/trust-banks/smtb/",
+      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

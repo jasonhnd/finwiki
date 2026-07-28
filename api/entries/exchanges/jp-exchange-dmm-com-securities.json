@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-dmm-com-securities",
   "source_path": "exchanges/jp-exchange-dmm-com-securities.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-com-securities",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-com-securities/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-com-securities/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-com-securities/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-dmm-com-securities/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-dmm-com-securities.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-dmm-com-securities.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-com-securities.md",
   "domain": "exchanges",
   "title": "株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "securities-firms/dmm-com-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/securities-firms/dmm-com-securities"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/securities-firms/dmm-com-securities/"
     ],
     "external_links_count": 7,
     "external_links": [

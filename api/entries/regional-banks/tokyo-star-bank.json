@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/tokyo-star-bank",
   "source_path": "regional-banks/tokyo-star-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/tokyo-star-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tokyo-star-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/tokyo-star-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/tokyo-star-bank.md",
   "domain": "regional-banks",
   "title": "東京スター銀行",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "regional-banks/sbj-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank",
-      "https://finwiki.zksc.io/regional-banks/kanagawa-bank",
-      "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
-      "https://finwiki.zksc.io/regional-banks/sbj-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/higashi-nippon-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kanagawa-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbj-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

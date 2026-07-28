@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/secom-insurance",
   "source_path": "non-life-insurers/secom-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/secom-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/secom-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/secom-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/secom-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/secom-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/secom-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/secom-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/secom-insurance.md",
   "domain": "non-life-insurers",
   "title": "セコム損害保険",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/anicom-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/"
     ],
     "external_links_count": 0,
     "external_links": []

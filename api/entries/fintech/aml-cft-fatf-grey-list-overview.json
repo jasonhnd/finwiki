@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/aml-cft-fatf-grey-list-overview",
   "source_path": "fintech/aml-cft-fatf-grey-list-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/aml-cft-fatf-grey-list-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/aml-cft-fatf-grey-list-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/aml-cft-fatf-grey-list-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview.md",
   "domain": "fintech",
   "title": "FATF グレーリスト / ブラックリスト · AML/CFT 国別評価メカニズム概要",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "fintech/jurisdiction-list-monetary-protectionism"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-cross-border-implications",
-      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-cross-border-implications/",
+      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/"
     ],
     "external_links_count": 0,
     "external_links": []

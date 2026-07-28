@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/minato-bank",
   "source_path": "regional-banks/minato-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/minato-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/minato-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/minato-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/minato-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/minato-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/minato-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/minato-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/minato-bank.md",
   "domain": "regional-banks",
   "title": "みなと銀行",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "regional-banks/tajima-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/megabanks/resona-bank",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank",
-      "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank",
-      "https://finwiki.zksc.io/regional-banks/kyoto-bank",
-      "https://finwiki.zksc.io/regional-banks/tajima-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/ikeda-senshu-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kansai-mirai-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kyoto-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tajima-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

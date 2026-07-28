@@ -11,6 +11,7 @@
 | ARD-005 | i18n mirrors are derivative artifacts with traceable source. | Preserve source pointers, hashes, link target integrity, and fallback behavior. |
 | ARD-006 | Specifications precede code when work is delegated to model agents. | High-reasoning models own requirements/specs; code models implement bounded packets only. |
 | ARD-007 | Human-site visual styling is token-driven. | `site/src/styles/global.css` tokens and [Theme System](theme-system.md) govern light/dark colors, typography, layout widths, and shared visual direction. |
+| ARD-008 | Static deployment is an explicit allowlist boundary. | The assembler may copy Astro output plus generated-manifest-approved raw wiki / AI files only; it must validate the output target before recursive cleanup. |
 
 ## System Boundaries
 
@@ -19,24 +20,27 @@
 - Human site: `site/`, Astro build, language routes, static search index.
 - Theme system: `site/src/styles/global.css`, `Base.astro`, `EntryLayout.astro`, UI i18n labels, and the component surfaces named in [Theme System](theme-system.md).
 - Machine surface: root generated files and `api/`.
-- Operations: release tools, GitHub Actions, GitHub Pages deployment.
+- Operations: release tools, allowlisted static assembly, GitHub Actions, GitHub Pages deployment.
 
 ## Data Flow
 
 1. Markdown corpus is scanned by `lib/markdown_helpers.ts`.
 2. Release tooling builds entries, counts, sitemap, llms files, ai-index and API outputs.
 3. Astro site reads source content and i18n mirrors through explicit allowlists.
-4. Validation runs link audit, count sync, JSON/LF/duplicate checks.
-5. Push to `origin/main` triggers GitHub Actions deployment.
+4. Validation runs link audit, count sync, JSON/LF/duplicate checks and static-publish boundary tests.
+5. Static assembly overlays generated-manifest-approved raw wiki / AI files onto `site/dist` in `_site` or `_vercel_public`.
+6. Push to `origin/main` triggers GitHub Actions deployment.
 
 ## Constraints
 
 - `docs/` must remain excluded.
 - AI discovery output must not expose `docs/` as crawlable markdown links.
+- Static assembly must not copy `docs/`, `lib/`, tooling, development config, hidden/ignored files or unknown root files.
+- Recursive output cleanup is restricted to the direct-child build directories `_site` and `_vercel_public`; symlink output targets are rejected.
 - New domain directories require explicit site and audit allowlist updates.
 - Release note additions change corpus `md` count.
 - `source_hash` must not be casually rewritten to hide stale translations.
-- `README.md` and `CHANGELOG.md` must remain bilingual.
+- `README.md`, `CHANGELOG.md`, release notes, and GitHub Release bodies must remain ordered Japanese, English, then Chinese; the human-site locale boundary remains ja/en.
 - Code implementation agents must not edit requirement, architecture, functional-spec, release or governance documents unless explicitly assigned.
 
 ## Relationship To ADR

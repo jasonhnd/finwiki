@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-laser-digital-japan",
   "source_path": "exchanges/jp-exchange-laser-digital-japan.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-laser-digital-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-laser-digital-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-laser-digital-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan.md",
   "domain": "exchanges",
   "title": "Laser Digital Japan — 日本暗号資産交換業者 overview",
   "entry_type": "wiki_entry",
@@ -72,16 +77,16 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
-      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
-      "https://finwiki.zksc.io/exchanges/jvcea-type2-associate-membership-system",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-prime-brokerage-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-type2-associate-membership-system/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
     "external_links_count": 8,
     "external_links": [

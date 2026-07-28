@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/tokio-marine-nichido-fire",
   "source_path": "non-life-insurers/tokio-marine-nichido-fire.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-nichido-fire/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/tokio-marine-nichido-fire/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/tokio-marine-nichido-fire.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/tokio-marine-nichido-fire.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire.md",
   "domain": "non-life-insurers",
   "title": "東京海上日動火災保険",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "non-life-insurers/tokio-marine-direct"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/tokio-marine-nichido-life/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aioi-nissay-dowa-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-direct/"
     ],
     "external_links_count": 0,
     "external_links": []

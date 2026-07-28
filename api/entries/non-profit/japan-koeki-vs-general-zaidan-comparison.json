@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-koeki-vs-general-zaidan-comparison",
   "source_path": "non-profit/japan-koeki-vs-general-zaidan-comparison.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-koeki-vs-general-zaidan-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
   "domain": "non-profit",
   "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
   "entry_type": "wiki_entry",
@@ -69,11 +74,11 @@
       "non-profit/japan-research-grant-map-2026"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-research-grant-map-2026/"
     ],
     "external_links_count": 0,
     "external_links": []

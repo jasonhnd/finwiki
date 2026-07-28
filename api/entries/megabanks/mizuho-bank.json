@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/mizuho-bank",
   "source_path": "megabanks/mizuho-bank.md",
-  "url": "https://finwiki.zksc.io/megabanks/mizuho-bank",
+  "url": "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
+    "en": "https://finwiki.zksc.io/en/megabanks/mizuho-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/mizuho-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/mizuho-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/mizuho-bank.md",
   "domain": "megabanks",
   "title": "みずほ銀行 (Mizuho Bank)",
   "entry_type": "wiki_entry",
@@ -64,14 +69,14 @@
       "trust-banks/mizuho-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/asset-managers/asset-management-one",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg-bank",
-      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
-      "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/asset-managers/asset-management-one/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
+      "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

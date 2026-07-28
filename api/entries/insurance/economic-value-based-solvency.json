@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "insurance/economic-value-based-solvency",
   "source_path": "insurance/economic-value-based-solvency.md",
-  "url": "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+  "url": "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
+  "html_url": "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
+    "en": "https://finwiki.zksc.io/en/insurance/economic-value-based-solvency/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/economic-value-based-solvency.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/economic-value-based-solvency.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/insurance/economic-value-based-solvency.md",
   "domain": "insurance",
   "title": "Economic value-based solvency regulation",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/esr-economic-value-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/natcat-reinsurance-japan/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

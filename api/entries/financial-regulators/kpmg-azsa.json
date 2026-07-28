@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/kpmg-azsa",
   "source_path": "financial-regulators/kpmg-azsa.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/kpmg-azsa",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/kpmg-azsa/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/kpmg-azsa/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/kpmg-azsa/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/kpmg-azsa/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/kpmg-azsa.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/kpmg-azsa.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/kpmg-azsa.md",
   "domain": "financial-regulators",
   "title": "有限責任 あずさ監査法人 (KPMG AZSA)",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
-      "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
-      "https://finwiki.zksc.io/financial-regulators/pwc-aarata",
-      "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/deloitte-touche-tohmatsu/",
+      "https://finwiki.zksc.io/ja/financial-regulators/ey-shinnihon/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
+      "https://finwiki.zksc.io/ja/financial-regulators/pwc-aarata/",
+      "https://finwiki.zksc.io/ja/financial-regulators/taiyo-grant-thornton/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

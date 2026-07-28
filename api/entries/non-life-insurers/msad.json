@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/msad",
   "source_path": "non-life-insurers/msad.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/msad",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/msad/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/msad.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/msad.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/msad.md",
   "domain": "non-life-insurers",
   "title": "MS&AD インシュアランス グループ ホールディングス",
   "entry_type": "wiki_entry",
@@ -62,12 +67,12 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

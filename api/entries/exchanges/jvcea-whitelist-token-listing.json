@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jvcea-whitelist-token-listing",
   "source_path": "exchanges/jvcea-whitelist-token-listing.md",
-  "url": "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jvcea-whitelist-token-listing/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-whitelist-token-listing.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-whitelist-token-listing.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing.md",
   "domain": "exchanges",
   "title": "JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト",
   "entry_type": "wiki_entry",
@@ -68,18 +73,18 @@
       "exchanges/jvcea-whitelist-listing-timeline"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-backseat-exchange",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-digital-asset-markets",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
-      "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-backseat-exchange/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/"
     ],
     "external_links_count": 0,
     "external_links": []

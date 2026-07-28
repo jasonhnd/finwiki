@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/cbbtc-institutional-btc-wrapper",
   "source_path": "fintech/cbbtc-institutional-btc-wrapper.md",
-  "url": "https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper",
+  "url": "https://finwiki.zksc.io/ja/fintech/cbbtc-institutional-btc-wrapper/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/cbbtc-institutional-btc-wrapper/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/cbbtc-institutional-btc-wrapper/",
+    "en": "https://finwiki.zksc.io/en/fintech/cbbtc-institutional-btc-wrapper/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cbbtc-institutional-btc-wrapper.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cbbtc-institutional-btc-wrapper.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper.md",
   "domain": "fintech",
   "title": "cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/vetoken-host-protocol-flywheel/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/cross-chain-bridge-security-insurance-matrix-2026",
   "source_path": "systems/cross-chain-bridge-security-insurance-matrix-2026.md",
-  "url": "https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026",
+  "url": "https://finwiki.zksc.io/ja/systems/cross-chain-bridge-security-insurance-matrix-2026/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/cross-chain-bridge-security-insurance-matrix-2026/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/cross-chain-bridge-security-insurance-matrix-2026/",
+    "en": "https://finwiki.zksc.io/en/systems/cross-chain-bridge-security-insurance-matrix-2026/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-bridge-security-insurance-matrix-2026.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-bridge-security-insurance-matrix-2026.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026.md",
   "domain": "systems",
   "title": "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景",
   "entry_type": "wiki_entry",
@@ -109,27 +114,27 @@
       "systems/post-quantum-blockchain-day1-integration"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/security/INDEX",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-technical-spec",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
-      "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security",
-      "https://finwiki.zksc.io/systems/hyperlane-overview",
-      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip",
-      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
-      "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
-      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/security/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-technical-spec/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-three-solutions/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-ccip-institutional/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-selection-decision/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/formal-spec-implementation-codesign/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-ism-modular-security/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperlane-vs-layerzero-ccip/",
+      "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+      "https://finwiki.zksc.io/ja/systems/multi-proof-aggregation-fault-prover/",
+      "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -138,6 +143,6 @@
     "nonspace_chars": 21416,
     "word_like_tokens": 3477,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-07-28"
   }
 }

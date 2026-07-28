@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/post-quantum-blockchain-day1-integration",
   "source_path": "systems/post-quantum-blockchain-day1-integration.md",
-  "url": "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+  "url": "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+    "en": "https://finwiki.zksc.io/en/systems/post-quantum-blockchain-day1-integration/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/post-quantum-blockchain-day1-integration.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/post-quantum-blockchain-day1-integration.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration.md",
   "domain": "systems",
   "title": "耐量子署名 day-1 統合の経済学",
   "entry_type": "wiki_entry",
@@ -56,10 +61,10 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

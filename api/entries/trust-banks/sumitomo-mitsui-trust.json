@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/sumitomo-mitsui-trust",
   "source_path": "trust-banks/sumitomo-mitsui-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/sumitomo-mitsui-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/sumitomo-mitsui-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/sumitomo-mitsui-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust.md",
   "domain": "trust-banks",
   "title": "三井住友トラストグループ (SuMi TRUST)",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/ssnb",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

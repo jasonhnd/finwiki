@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/pectra-upgrade-overview",
   "source_path": "systems/pectra-upgrade-overview.md",
-  "url": "https://finwiki.zksc.io/systems/pectra-upgrade-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/pectra-upgrade-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/pectra-upgrade-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/pectra-upgrade-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/pectra-upgrade-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-upgrade-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-upgrade-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/pectra-upgrade-overview.md",
   "domain": "systems",
   "title": "Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "systems/pectra-eip-7691-blob-l2-impact"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-overview",
-      "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7251-institutional-staking/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/"
     ],
     "external_links_count": 0,
     "external_links": []

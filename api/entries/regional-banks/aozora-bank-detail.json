@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/aozora-bank-detail",
   "source_path": "regional-banks/aozora-bank-detail.md",
-  "url": "https://finwiki.zksc.io/regional-banks/aozora-bank-detail",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/aozora-bank-detail/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/aozora-bank-detail/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/aozora-bank-detail/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/aozora-bank-detail/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/aozora-bank-detail.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/aozora-bank-detail.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/aozora-bank-detail.md",
   "domain": "regional-banks",
   "title": "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)",
   "entry_type": "wiki_entry",
@@ -69,14 +74,14 @@
       "regional-banks/tokyo-star-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-bank",
-      "https://finwiki.zksc.io/megabanks/mufg-bank",
-      "https://finwiki.zksc.io/megabanks/smbc",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/aozora-bank",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/smbc/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/aozora-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

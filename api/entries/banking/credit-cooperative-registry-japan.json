@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "banking/credit-cooperative-registry-japan",
   "source_path": "banking/credit-cooperative-registry-japan.md",
-  "url": "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+  "url": "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
+    "en": "https://finwiki.zksc.io/en/banking/credit-cooperative-registry-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/credit-cooperative-registry-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/credit-cooperative-registry-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan.md",
   "domain": "banking",
   "title": "Japan credit cooperative registry",
   "entry_type": "wiki_entry",
@@ -63,11 +68,11 @@
       "financial-regulators/missing-financial-institutions-backlog"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/missing-financial-institutions-backlog/"
     ],
     "external_links_count": 0,
     "external_links": []

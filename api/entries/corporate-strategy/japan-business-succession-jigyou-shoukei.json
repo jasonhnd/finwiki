@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "corporate-strategy/japan-business-succession-jigyou-shoukei",
   "source_path": "corporate-strategy/japan-business-succession-jigyou-shoukei.md",
-  "url": "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei",
+  "url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-business-succession-jigyou-shoukei/",
+  "html_url": "https://finwiki.zksc.io/ja/corporate-strategy/japan-business-succession-jigyou-shoukei/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/corporate-strategy/japan-business-succession-jigyou-shoukei/",
+    "en": "https://finwiki.zksc.io/en/corporate-strategy/japan-business-succession-jigyou-shoukei/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-business-succession-jigyou-shoukei.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-business-succession-jigyou-shoukei.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei.md",
   "domain": "corporate-strategy",
   "title": "事業承継 (jigyou shoukei) — Japan business-succession framework and 事業承継税制 inheritance / gift-tax deferral (法人版 / 個人版)",
   "entry_type": "wiki_entry",
@@ -78,18 +83,18 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix",
-      "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
-      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
+      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-holding-company-conversion/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-koukan-iten-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
+      "https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

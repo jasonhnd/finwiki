@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/global-dex-major-five-comparison",
   "source_path": "exchanges/global-dex-major-five-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/global-dex-major-five-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-dex-major-five-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-dex-major-five-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison.md",
   "domain": "exchanges",
   "title": "グローバル DEX 主要 5 社比較",
   "entry_type": "wiki_entry",
@@ -60,15 +65,15 @@
       "systems/cross-chain-four-poles-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
-      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/vetoken-host-protocol-flywheel/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

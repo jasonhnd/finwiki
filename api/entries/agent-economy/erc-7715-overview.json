@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/erc-7715-overview",
   "source_path": "agent-economy/erc-7715-overview.md",
-  "url": "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/erc-7715-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7715-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7715-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/erc-7715-overview.md",
   "domain": "agent-economy",
   "title": "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "systems/erc-7702-vs-erc-4337"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
-      "https://finwiki.zksc.io/systems/erc-7702-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-userop-bundler-flow/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-vs-erc-4337/"
     ],
     "external_links_count": 0,
     "external_links": []

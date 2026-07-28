@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/shimizu-bank",
   "source_path": "regional-banks/shimizu-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/shimizu-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/shimizu-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/shimizu-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/shimizu-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/shimizu-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shimizu-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/shimizu-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/shimizu-bank.md",
   "domain": "regional-banks",
   "title": "清水銀行",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "regional-banks/suruga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/shizuoka-bank",
-      "https://finwiki.zksc.io/regional-banks/shizuoka-chuo-bank",
-      "https://finwiki.zksc.io/regional-banks/shizuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/suruga-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-regional-bank-hd/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/shizuoka-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/shizuoka-chuo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/suruga-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

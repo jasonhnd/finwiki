@@ -1,5 +1,5 @@
 ---
-title: Frontmatter canonical_anchor Field · 提议 / Proposal
+title: Frontmatter canonical_anchor Field · Historical Decision Record
 aliases:
   - frontmatter-canonical-anchor-field-proposal
   - canonical-anchor-field-proposal
@@ -7,170 +7,92 @@ aliases:
   - schema-extension-canonical-anchor
 domain: control-proposal
 created: 2026-05-25
-last_updated: 2026-06-04
-last_tended: 2026-06-04
+last_updated: 2026-07-28
+last_tended: 2026-07-28
 review_by: 2027-05-25
-confidence: likely
-tags: [meta, proposal, schema-extension, frontmatter, canonical-anchor, navigation]
-status: active
+confidence: certain
+tags: [meta, decision-record, historical, frontmatter, canonical-anchor, navigation]
+status: deprecated
 sources:
-  - SCHEMA.md (current FinWiki frontmatter spec)
-  - AGENTS.md (FinWiki maintenance protocol)
-  - INDEX.md (domain map and entry counts)
-  - tools/wiki_link_audit.ts (current body-link audit script)
-  - tools/generate_ai_discovery.ts (current AI-discovery surface generator)
+  - SCHEMA.md (current FinWiki frontmatter contract)
+  - docs/04-architecture/adr.md (ADR-002 and ADR-007)
+  - docs/06-implementation/entry-authoring.md (current authoring rule)
+  - tools/wiki_link_audit.ts (declared-anchor integrity audit)
+  - tools/generate_ai_discovery.ts (entity-identity discovery output)
 ---
 
-# Frontmatter canonical_anchor Field · 提议 / Proposal
+# Frontmatter canonical_anchor Field · Historical Decision Record
 
 ## Wiki route
 
-This proposal sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[cross-domain-anchor-convention|cross-domain anchor convention]] for the prose rules it would formalize, with [[entity-mirror-page-policy|mirror-page policy]] for the case that motivates the field, and with [[domain-bridge-navigation-guide|domain bridge navigation guide]] for the reader-side benefit.
+This historical record sits at FinWiki root next to [[SCHEMA|the current schema]] and [[INDEX|the repository map]]. Read [[entity-mirror-page-policy|the mirror-page policy]] and [[cross-domain-anchor-convention|the anchor convention]] for current editorial rules. The original proposal is retained to explain why `canonical_anchor` exists; it is not a future-work specification.
 
-> [!info] TL;DR
-> Proposal: add an optional (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. The field makes machine-readable what is currently a prose convention, would enable an audit-tool extension that flags drift, and would improve `tools/generate_ai_discovery.ts` output by exposing entity-level graph edges to AI / crawler consumers.
->
-> **Status (2026-06-04): Phases 0-3 landed; Phase 2 discovery edges live.** `canonical_anchor:` is documented in [[SCHEMA]] as an optional field. Phase 1 (report-only audit) landed in v2026.06.03-8, and Phase 3 (back-fill) in v2026.06.03-8 / v2026.06.03-13 (12 mirror declarations now carry the field, `canonical_anchor_drift=0`). **Phase 2 (discovery-output entity edges) landed in v2026.06.04-2**: `tools/generate_ai_discovery.ts` now emits an `entities[]` array (12 edges) plus a per-entry `canonical_anchor` in `ai-index.json`, and `llms-full.txt` notes the canonical anchor on each mirror page (see §4). Only Phase 4 (hard requirement on new mirror pages) remains future work.
+> [!info] Current status
+> The proposal has been fully decided and implemented. `canonical_anchor` is **required on a mirror page**, omitted on the canonical anchor and on ordinary single-domain entries, and drift-gated when declared. Current authority is `SCHEMA.md`, ADR-007, and the entry-authoring guide.
 
-## 1. Motivation
+## 1. Original problem
 
-FinWiki has settled into a working convention where:
+FinWiki needed a machine-readable way to distinguish a domain-specific mirror from an ordinary cross-reference. Aliases resolve page names, but they do not state that two pages describe the same underlying entity. Without an identity edge, reviewers and AI consumers could not reliably tell which page was primary, and a moved anchor could silently leave mirror metadata stale.
 
-- Each cross-domain entity has **one canonical anchor** (per [[cross-domain-anchor-convention]]).
-- Mirror pages exist in narrow cases (per [[entity-mirror-page-policy]]).
-- Cross-domain references are body wikilinks reciprocally enforced.
+## 2. Landed decision sequence
 
-This convention works for human readers, but it is invisible to tooling. The current frontmatter schema ([[SCHEMA]]) has no field that captures the **entity-level identity** of a page. Aliases are the closest thing, but aliases are page-local: they tell Obsidian how to resolve incoming links, not which other pages represent the same entity.
-
-The result:
-
-- `tools/wiki_link_audit.ts` cannot detect orphan mirrors (a mirror page that does not cross-link back to its sibling).
-- `tools/generate_ai_discovery.ts` emits page-level metadata in `llms.txt`, `llms-full.txt`, and `ai-index.json`, but cannot emit **entity-level graph edges** (page X and page Y describe the same real-world entity from different angles).
-- Reviewers have to remember which pages are mirror siblings and which are merely cross-referenced. This is a maintenance tax that scales poorly past 1500 entries.
-
-## 2. The proposed field
-
-Add an optional frontmatter field:
-
-```yaml
-canonical_anchor: <domain/slug>
-```
-
-Semantics:
-
-- **On a mirror page:** `canonical_anchor:` points at the canonical anchor in the **other** domain. The two mirror siblings either both point at one of them (the designated canonical), or both leave the field empty if the mirror pair is symmetric and neither is primary.
-- **On a cross-reference-heavy page:** if a page repeatedly references the same entity that has a canonical anchor elsewhere (for example, [[business/jamie-dimon-anti-crypto-pivot-case]] references JPM extensively), the page may set `canonical_anchor: foreign-financial-institutions/jpmorgan-japan` to declare that JPMorgan Japan is the canonical anchor for JPM-the-entity. Whether to use the field this way is a stylistic choice.
-- **On the canonical anchor itself:** `canonical_anchor:` is either omitted or set to the page's own `domain/slug` (self-pointing) to signal "this is the canonical anchor for the entity".
-
-The field is **recommended, not required**. Existing entries do not need to be back-filled in a single sweep.
-
-### Example: mirror pair
-
-`insurance/saison-automobile-fire.md`:
-
-```yaml
-title: Saison Automobile & Fire / SOMPO Direct
-aliases: [saison-automobile-fire, Saison Automobile & Fire, セゾン自動車火災保険, SOMPO Direct]
-domain: insurance
-canonical_anchor: non-life-insurers/saison-automobile-fire-insurance
-...
-```
-
-`non-life-insurers/saison-automobile-fire-insurance.md` (the canonical anchor — self-pointing field optional, omitted in the Phase 0 pilot):
-
-```yaml
-title: セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)
-aliases: [Saison Automobile & Fire, セゾン自動車火災保険, SOMPO Direct, ...]
-domain: JapanFG
-...
-```
-
-The choice of which page is canonical is editorial. The Phase 0 adoption designates the **JapanFG operating-company page** as the canonical anchor (it self-describes as "the operating-company anchor for the direct non-life insurer"), and the insurance page — the product/channel deep-dive "case" — points at it.
-
-### Example: cross-product split (JPM family)
-
-| Page | `canonical_anchor:` |
+| Phase | Landed result |
 |---|---|
-| [[foreign-financial-institutions/jpmorgan-japan]] | self (`foreign-financial-institutions/jpmorgan-japan`) — this is the canonical anchor for JPM-the-Japan-operating-entity |
-| [[fintech/jpmorgan-jpmd-coin]] | self — JPMD is its own entity (a tokenized deposit product) |
-| [[fintech/jpm-onyx-wholesale-network]] | self — Onyx is its own entity |
-| [[business/jamie-dimon-anti-crypto-pivot-case]] | optional `foreign-financial-institutions/jpmorgan-japan` to note the related-entity backbone |
+| 0 | Added the string field to `SCHEMA.md` and piloted it on confirmed mirror pairs. |
+| 1 | Added declared-anchor resolution and core-body backlink reporting to `tools/wiki_link_audit.ts`. |
+| 2 | Added canonical identity edges to `ai-index.json` and inline anchor metadata to `llms-full.txt`. |
+| 3 | Back-filled the known mirror set and reached `canonical_anchor_drift=0`. |
+| 4 | ADR-007 made the field an editorial hard requirement for mirror pages and made declared drift a release blocker through `--fail-on-canonical-drift`. |
 
-The field is **not** a duplicate-detection mechanism. It declares entity identity, not page equivalence.
+The staged rollout was deliberate: report-only observation came first, then discovery output and back-fill, then the release gate. This record is therefore historical, while the resulting contract remains active.
 
-## 3. Tradeoffs
+## 3. Current authoritative contract
 
-### Pros
+- **Mirror page:** must set one internal vault-root `canonical_anchor: domain/slug` value pointing to the designated anchor.
+- **Canonical anchor page:** must omit `canonical_anchor`; self-pointing is not allowed by the authoring convention.
+- **Ordinary or merely related page:** must omit the field and use normal wikilinks or `related` metadata instead.
+- **Core-body link:** a declaring mirror must link the same anchor before `## Related` / `## Sources`.
+- **Declared-anchor gate:** the target must resolve and the required core-body link must exist. `bun tools/release.ts --check --strict` fails when `canonical_anchor_drift>0`.
+- **Mirror discovery boundary:** tooling cannot reliably infer every semantic mirror. Review and authoring rules enforce whether the field is present; tooling fail-closes the integrity of every declaration.
 
-- **Audit tool can detect mirror-pair drift.** `tools/wiki_link_audit.ts` could be extended to verify that every page that declares `canonical_anchor: X` cross-links to X in the body, and that page X cross-links back if it is a mirror sibling.
-- **AI-discovery output gains entity edges.** `tools/generate_ai_discovery.ts` could emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor, exposing entity-level identity to AI consumers. This raises the quality of LLM context that downstream tools assemble.
-- **Reviewers gain explicit memory.** Anyone touching a page knows from frontmatter whether it is part of a mirror pair or a cross-product split.
-- **Backwards compatible.** Optional field; existing entries continue to validate.
+## 4. Resolved design questions
 
-### Cons
+| Question | Decision |
+|---|---|
+| String or list? | One string. The field expresses one primary identity anchor. |
+| Internal path or external URL? | Internal vault-root path only. |
+| May an anchor self-point? | No. The anchor omits the field. |
+| May ordinary related pages use it? | No. Use wikilinks, `related`, or typed entity edges. |
+| Is it a redirect/successor field? | No. Deprecation and successor navigation use explicit status, notes, and links. |
+| Does the release gate find missing mirror declarations? | No. Mirror classification is editorial; the gate validates declarations that exist. |
 
-- **Maintenance cost.** Every new mirror or cross-product page is one more field to set. Misconfiguration (pointing at a non-existent anchor) becomes a new audit failure mode.
-- **Tooling change required.** `tools/wiki_link_audit.ts` and `tools/generate_ai_discovery.ts` both need extensions. The audit script currently checks body-link density only; entity-edge checks are a new layer of logic.
-- **Ambiguity in cross-product splits.** When JPM-the-group is the entity but each product has its own canonical anchor, the field becomes editorial. Different reviewers may disagree on whether [[fintech/jpmorgan-jpmd-coin]] should set `canonical_anchor: foreign-financial-institutions/jpmorgan-japan` or leave it self-pointing.
-- **Risk of overuse.** If reviewers start filling in `canonical_anchor:` on every cross-referenced page, the field stops being a signal for mirror / cross-product pairs and becomes noise.
+## 5. Current outputs and invariants
 
-### Net assessment
+The declared relationship remains part of the public machine-readable identity surface:
 
-Tooling cost is modest because both existing tools already parse frontmatter. Editorial ambiguity is real but bounded — the convention can simply say "only set `canonical_anchor:` on mirror pages and on pages where you would otherwise paste a `> See [[X]] for the canonical entity description` callout". Net is mildly positive.
+- `ai-index.json` groups anchors and mirrors in its canonical identity edges.
+- `llms-full.txt` exposes the anchor on declaring mirror pages.
+- Per-entry JSON frontmatter includes `canonical_anchor` or `null`.
+- Release verification keeps `canonical_anchor_drift=0`.
 
-## 4. Migration plan
+These are implemented contracts, not optional proposal phases.
 
-If adopted, migration would be **incremental and opt-in**:
+## 6. Supersession
 
-1. **Phase 0 (preparatory). — ADOPTED 2026-06-03.** [[SCHEMA]] now documents `canonical_anchor:` as an optional field: a row in the §"Optional / Legacy Fields" table (Type: string; vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page) plus an entry in the §"Canonical Key Order" block immediately after `related`. The field has been set as a manual pilot on two confirmed mirror pairs, with the **JapanFG operating-company page** designated as the canonical anchor in each case and the other-domain page (the secondary/mirror "view") pointing at it:
-   - [[insurance/saison-automobile-fire]] → `canonical_anchor: non-life-insurers/saison-automobile-fire-insurance` (the insurance page is the product/channel deep-dive; [[non-life-insurers/saison-automobile-fire-insurance]] is the operating-company anchor).
-   - [[manufacturer-finance/toyota-financial-services]] → `canonical_anchor: leasing-firms/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[leasing-firms/toyota-financial]] is the entity profile / operating-company anchor).
-
-   Still outstanding from this phase: updating [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair, and [[cross-domain-anchor-convention]] §6 to mention the field. No code changes were made (`tools/*` untouched).
-2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.ts` to:
-   - Resolve `canonical_anchor:` values to existing pages (flag broken anchors).
-   - Verify reciprocal body links between mirror siblings (both pages must cross-link to each other if they declare the same canonical anchor).
-   - Emit a new section in [[wiki-link-improvement-plan]] listing entity clusters and any orphan mirrors.
-3. **Phase 2 (discovery output). — LANDED v2026.06.04-2.** `tools/generate_ai_discovery.ts` now emits an `entities[]` array in `ai-index.json` grouping pages by canonical anchor (each edge carries `anchor` / `anchor_url` / `anchor_resolves` / `member_count` / `mirror_count` / `members[]` with `relation: canonical | mirror`); it also adds a `canonical_anchor` field to every entry in `entries[]` and `entity_anchors` / `entity_mirror_pages` counts. `llms-full.txt` surfaces a `Canonical anchor: <anchor> -> <url>` line on each mirror page, and `llms.txt` gains a snapshot line plus an AI reader rule. `lib/markdown_helpers.ts` (`Entry` + `buildEntry`) was extended to extract the field. The per-entry API (`api/entries/*.json`) was intentionally left unchanged (already a curated subset; the edges are fully exposed via `ai-index.json` + `llms-full.txt`).
-4. **Phase 3 (back-fill).** Back-fill `canonical_anchor:` on all known mirror pairs (current count is small — the Saison Automobile & Fire pair plus a handful of others; specifics to be enumerated during phase 1 audit). Do not back-fill cross-references except where the page explicitly cites a single canonical entity.
-5. **Phase 4 (steady state).** Make `canonical_anchor:` a hard requirement on new mirror pages going forward. Keep it optional on cross-reference-heavy pages.
-
-Each phase can ship independently. Phases 0-2 are zero-risk additions. Phase 3 is a content-touching pass that must be split per [[AGENTS]] rules (each batch updates [[CHANGELOG]] and the AI-discovery surfaces).
-
-## 5. Open questions
-
-- **Should `canonical_anchor:` be a list?** Some entities legitimately have multiple canonical-anchor candidates (e.g. JPM-the-group across JapanFG / fintech / business clusters). A single-string field forces an editorial choice. A list field allows pluralism but weakens the "single source of truth" semantics. Current proposal: single string. Reconsider if real-world use shows it is insufficient.
-- **Should the field accept external URLs?** No. Limit to FinWiki internal `domain/slug` paths to keep the tool layer simple.
-- **Should the field affect `tags:` derivation?** No. `tags:` remains independent and continues to drive search.
-- **How does this interact with deprecated entries?** A deprecated entry should set `canonical_anchor:` to its successor page, similar to a forward-redirect note. This is a natural extension and does not require special handling.
-
-## 6. Decision recommendation
-
-**Phases 0-3 landed; Phase 2 discovery edges live (2026-06-04).** [[SCHEMA]] documents the optional field; Phase 1 (report-only audit) shipped in v2026.06.03-8; Phase 3 (back-fill) reached 12 mirror declarations at `drift=0` (v2026.06.03-8 / v2026.06.03-13); and Phase 2 (discovery-output entity edges) shipped in v2026.06.04-2. The pilot proved out — the field now carries machine-readable entity identity into `ai-index.json` / `llms-full.txt`. Remaining Phase 0 prose touch-ups ([[entity-mirror-page-policy]] §7 and [[cross-domain-anchor-convention]] §6) are still outstanding.
-
-Only Phase 4 (make `canonical_anchor:` a hard requirement on new mirror pages and gate the audit) stays deferred, pending a coverage review now that back-fill and discovery edges are both done.
-
-## 7. Risks of not adopting
-
-- Mirror drift over time. As more domains gain matrix and overlay pages, the temptation to mirror operating entities will rise. Without a machine-readable identity field, drift becomes a manual maintenance problem.
-- AI-discovery output stays page-flat. `llms.txt` / `llms-full.txt` / `ai-index.json` will continue to look like a flat list of pages rather than a graph of entities, which limits downstream LLM context-assembly quality.
-- Reviewer load. The cross-domain anchor convention will continue to live in prose, increasing onboarding cost for new contributors.
+The original proposal text described optional use, possible self-pointing anchors, use on heavily related pages, and a future hard-requirement phase. Those alternatives were superseded by ADR-007 and the current `SCHEMA.md` / entry-authoring rules. This page retains the route and aliases so historical links remain valid while clearly recording the final decision.
 
 ## Related
 
-- [[SCHEMA]] — current frontmatter spec (would gain the new optional field).
-- [[INDEX]] — FinWiki domain map.
-- [[cross-domain-anchor-convention]] — prose rule the field would formalize.
-- [[entity-mirror-page-policy]] — mirror-pair rules the field would help enforce.
-- [[domain-bridge-navigation-guide]] — reader-side benefit of better entity edges.
-- [[topic-cluster-reference]] — cluster groupings that complement entity-level grouping.
-- [[wiki-link-improvement-plan]] — audit-report extension target for phase 1.
+- [[SCHEMA]] — current frontmatter authority.
+- [[INDEX]] — current domain and control-document map.
+- [[cross-domain-anchor-convention]] — current anchor designation and cross-domain rule.
+- [[entity-mirror-page-policy]] — current mirror admission and frontmatter rule.
+- [[wiki-link-improvement-plan]] — generated link and declared-anchor integrity report.
 
 ## Sources
 
-- [[SCHEMA]] — current frontmatter spec, optional / legacy field section.
-- [[AGENTS]] — public-surface rule, trilingual maintenance protocol, AI-discovery refresh requirement.
-- [[INDEX]] — domain map and current entry counts.
-- `tools/wiki_link_audit.ts` — current body-link audit script (extension target for phase 1).
-- `tools/generate_ai_discovery.ts` — current AI-discovery surface generator (extension target for phase 2).
-- Worked examples: [[insurance/saison-automobile-fire]] + [[non-life-insurers/saison-automobile-fire-insurance]] (mirror pair); [[foreign-financial-institutions/jpmorgan-japan]] + [[fintech/jpmorgan-jpmd-coin]] + [[fintech/jpm-onyx-wholesale-network]] + [[business/jamie-dimon-anti-crypto-pivot-case]] (cross-product split); [[fintech/circle-usdc-stablecoin]] (canonical-only).
+- `SCHEMA.md` — current conditional requirement and key order.
+- `docs/04-architecture/adr.md` — ADR-002 staged rollout and ADR-007 final gate decision.
+- `docs/06-implementation/entry-authoring.md` — current mirror authoring checklist.
+- `tools/wiki_link_audit.ts` — declared-anchor validation.
+- `tools/generate_ai_discovery.ts` — public entity identity output.

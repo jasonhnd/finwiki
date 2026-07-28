@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/ve33-governance-mechanism",
   "source_path": "exchanges/ve33-governance-mechanism.md",
-  "url": "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+  "url": "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
+    "en": "https://finwiki.zksc.io/en/exchanges/ve33-governance-mechanism/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/ve33-governance-mechanism.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/ve33-governance-mechanism.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism.md",
   "domain": "exchanges",
   "title": "ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "fintech/portfolio-winner-structure-arm-analog"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
-      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
-      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-native-token-strategy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/vetoken-host-protocol-flywheel/",
+      "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/sompo-direct",
   "source_path": "non-life-insurers/sompo-direct.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/sompo-direct/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sompo-direct.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sompo-direct.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/sompo-direct.md",
   "domain": "non-life-insurers",
   "title": "SOMPOダイレクト損害保険",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "non-life-insurers/tokio-marine-direct"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-japan-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-direct/"
     ],
     "external_links_count": 0,
     "external_links": []

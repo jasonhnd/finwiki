@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/jal-payment-port",
   "source_path": "payment-firms/jal-payment-port.md",
-  "url": "https://finwiki.zksc.io/payment-firms/jal-payment-port",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/jal-payment-port/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/jal-payment-port/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/jal-payment-port/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/jal-payment-port/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/jal-payment-port.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/jal-payment-port.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/jal-payment-port.md",
   "domain": "payment-firms",
   "title": "JALペイメント・ポート",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/seven-payment-service",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
-      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/payments/japan-code-payment-competitive-map/",
+      "https://finwiki.zksc.io/ja/payments/prepaid-payment-instrument-issuers-japan-index/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

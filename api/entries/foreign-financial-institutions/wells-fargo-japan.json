@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/wells-fargo-japan",
   "source_path": "foreign-financial-institutions/wells-fargo-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/wells-fargo-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/wells-fargo-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/wells-fargo-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/wells-fargo-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/wells-fargo-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/wells-fargo-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/wells-fargo-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/wells-fargo-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)",
   "entry_type": "wiki_entry",
@@ -64,14 +69,14 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

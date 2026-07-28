@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/saga-kyoei-bank",
   "source_path": "regional-banks/saga-kyoei-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/saga-kyoei-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/saga-kyoei-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/saga-kyoei-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/saga-kyoei-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/saga-kyoei-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/saga-kyoei-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/saga-kyoei-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/saga-kyoei-bank.md",
   "domain": "regional-banks",
   "title": "佐賀共栄銀行",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "regional-banks/saga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
-      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank",
-      "https://finwiki.zksc.io/regional-banks/saga-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-city-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/saga-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

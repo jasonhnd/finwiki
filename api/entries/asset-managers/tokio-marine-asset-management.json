@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "asset-managers/tokio-marine-asset-management",
   "source_path": "asset-managers/tokio-marine-asset-management.md",
-  "url": "https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management",
+  "url": "https://finwiki.zksc.io/ja/asset-managers/tokio-marine-asset-management/",
+  "html_url": "https://finwiki.zksc.io/ja/asset-managers/tokio-marine-asset-management/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/asset-managers/tokio-marine-asset-management/",
+    "en": "https://finwiki.zksc.io/en/asset-managers/tokio-marine-asset-management/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/tokio-marine-asset-management.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/tokio-marine-asset-management.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management.md",
   "domain": "asset-managers",
   "title": "東京海上アセットマネジメント (Tokio Marine AM)",
   "entry_type": "wiki_entry",
@@ -71,18 +76,18 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/asset-managers/INDEX",
-      "https://finwiki.zksc.io/asset-managers/asset-management-one",
-      "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
-      "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
-      "https://finwiki.zksc.io/asset-managers/smt-am",
-      "https://finwiki.zksc.io/asset-managers/t-and-d-asset-management",
-      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
-      "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/ja/domains/asset-managers/",
+      "https://finwiki.zksc.io/ja/asset-managers/asset-management-one/",
+      "https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/",
+      "https://finwiki.zksc.io/ja/asset-managers/nissay-asset-management/",
+      "https://finwiki.zksc.io/ja/asset-managers/smt-am/",
+      "https://finwiki.zksc.io/ja/asset-managers/t-and-d-asset-management/",
+      "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/msad/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/toyota-financial",
   "source_path": "leasing-firms/toyota-financial.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/toyota-financial",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/toyota-financial/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/toyota-financial.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/toyota-financial.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/toyota-financial.md",
   "domain": "leasing-firms",
   "title": "トヨタファイナンシャルサービス (TFS)",
   "entry_type": "wiki_entry",
@@ -63,12 +68,12 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
-      "https://finwiki.zksc.io/megabanks/mufg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -76,7 +81,7 @@
   "metrics": {
     "nonspace_chars": 4483,
     "word_like_tokens": 708,
-    "inbound_wikilinks_count": 16,
+    "inbound_wikilinks_count": 15,
     "last_modified": "2026-06-08"
   }
 }

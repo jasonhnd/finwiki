@@ -5,7 +5,7 @@
 | Target | Purpose | Trigger |
 |---|---|---|
 | GitHub Pages production | Public `finwiki.zksc.io` site and generated raw surfaces. | Push to `origin/main`. |
-| Vercel shadow/static publish | Optional validation of the assembled static output. | `bun tools/vercel_build.ts` or Vercel integration when configured. |
+| Vercel shadow/static publish | Optional validation of the assembled static output. | `bun run verify` or Vercel integration when configured. |
 
 Do not push until the user explicitly asks for GitHub publishing.
 
@@ -23,62 +23,68 @@ git status --short --branch
 bun tools/release.ts --write
 ```
 
-3. Run release checks:
+3. Confirm the local runtime matches the repository pin:
 
 ```bash
-bun tools/release.ts --check --strict
-bun tools/wiki_link_audit.ts --fail-on-issues
-git diff --check
+bun --version
+cat .bun-version
 ```
 
-4. If site UI, CSS, Astro rendering, Pagefind or HTML output changed, run the site build and duplicate-id check:
+4. Run the local command for the same required runner used by pull requests and Vercel:
 
 ```bash
-cd site
-bun install
-bun run build
-cd ..
-bun tools/check_duplicate_html_ids.ts site/dist
+bun run verify
 ```
 
-5. If static publish assembly changed, run:
+To exercise the exact GitHub Pages output target, use:
 
 ```bash
-bun tools/vercel_build.ts
+bun run verify --out _site
 ```
+
+`bun run verify` checks the `.bun-version` pin, installs `site/` from the frozen lockfile, runs fixed-timestamp exact regeneration before the build, then runs i18n/index/wiki/dependency/typecheck/tests/Astro/Pagefind, assembles the approved output, and audits required routes, every final HTML `href`, and generated routes against that final tree. The canonical Required verification and deploy workflows checkout with `fetch-depth: 0`; shallow/history-less builders instead reuse valid committed `ai-index.json` dates before shallow Git/mtime fallback. It is the release decision; targeted commands below are diagnostic helpers, not substitutes.
+
+The assembler accepts only `_site` and `_vercel_public`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files. The required-route smoke gate checks root, ja/en, crawler, AI/API and Pagefind files. `html:routes` then resolves every assembled HTML `href` from its source-page URL and requires every same-origin target to be an exact-case, non-empty, non-symlink regular file after query/fragment removal. `ai:audit` separately reads the assembled llms/sitemap/index/API copies; route fields and same-host API `external_links` must resolve and match the exact scheme/host/port. Source-preserving `ai-index.json` `markdown_links` and external origins are not deploy availability claims.
 
 ## What To Inspect Locally
 
 | Change type | Required inspection |
 |---|---|
-| Docs-only | `bun run docs:audit` (Markdown links), `bun run docs:stale` (stale active-doc facts); release check if a root control doc or release note changed. |
-| Wiki content | `bun tools/wiki_link_audit.ts --fail-on-issues`, release write/check, root/domain count review, `bun run i18n:status` if source bodies changed. |
-| i18n | `bun run i18n:status` (current/stale/missing by locale), rendered language spot-checks. |
-| UI/CSS/theme | Site build, `bun run html:check`, [Visual QA Checklist](../07-quality/visual-qa-checklist.md), desktop/mobile spot-checks. |
-| Discovery/API generator | `bun run surface:drift` (API alignment + stale residue + docs leakage), `bun run ai:audit` (`.txt` routes), then diff-review `ai-index.json` / `llms*.txt` / `sitemap.xml`. |
+| All changes | `bun run verify`; use the failing step name to select a targeted diagnostic below. |
+| Docs-only | `bun run docs:audit`, `bun run docs:stale`, and `bun run release:docs`. |
+| Wiki content | `bun run wiki:audit:ci`, `bun run index:counts`, and `bun run i18n:check`. |
+| i18n | `bun run i18n:status` for diagnosis, `bun run i18n:check` for the blocking result, plus rendered language spot-checks. |
+| UI/CSS/theme | `cd site && CI=1 bun run check && bun run build && cd .. && bun run html:check`, [Visual QA Checklist](../07-quality/visual-qa-checklist.md), and desktop/mobile spot-checks. |
+| Discovery/API generator or URL helper | `bun run surface:drift`, `bun test tools/discovery_routes.test.ts`, then `bun run verify --out _site`; expect byte-identical regeneration, `Generated route audit passed` and final `PASS`. |
+| Static publish assembly / HTML routes | `bun test tools/assemble_static_publish.test.ts tools/required_publish_routes.test.ts tools/html_route_audit.test.ts`, then run `bun run html:routes --out <assembled-output>` and inspect each reported source/resolved target if the focused failure needs diagnosis. |
 
 ## Pre-Push Gate
 
-A `pre-push` hook runs the strict release check before any push:
+A tracked executable `pre-push` hook runs the canonical command before any push:
 
 ```bash
-bun tools/release.ts --check --strict
+git hook run pre-push
 ```
 
-- The hook must be able to resolve `bun`. If `bun` is not on the `PATH` the hook sees, put it on `PATH` or set `FINWIKI_BUN=<path-to-bun>` (the hook honors both).
-- Do not bypass with `git push --no-verify`. If the gate fails, fix the surface (`bun tools/release.ts --write`, recommit) and push again.
+- The hook must be mode `100755`, and `core.hooksPath` must point to `.githooks`.
+- The hook resolves `bun` from `PATH` or `FINWIKI_BUN`, adds an explicitly supplied executable directory to child `PATH`, and the runner still rejects a version that differs from `.bun-version`.
+- Do not bypass with `git push --no-verify`. Fix the reported gate, commit synchronized files when needed, and rerun the hook.
 
 ## Push And Production Verification
 
-After the user asks to push:
+After the maintainer approves production promotion, create or refresh a PR whose head is `pre` and base is `main`. Do not push a work branch or local `main` directly to production:
 
 ```bash
 git status --short --branch
-git push origin main
+gh pr create --repo jasonhnd/finwiki --base main --head pre \
+  --title "<日本語の promotion title>" \
+  --body "<boundary, validation, release tag>"
+gh pr checks <promotion-pr-number>
+gh pr merge <promotion-pr-number> --merge
 git ls-remote origin refs/heads/main
 ```
 
-Watch the latest deployment:
+Record the resulting main merge SHA, then watch the deployment triggered by that exact SHA:
 
 ```bash
 gh run list --branch main --limit 3
@@ -90,6 +96,9 @@ Spot-check public URLs after Actions succeeds:
 ```bash
 curl -I https://finwiki.zksc.io/
 curl -I https://finwiki.zksc.io/ja/
+curl -I https://finwiki.zksc.io/ja/<domain>/<slug>/
+curl -I https://finwiki.zksc.io/en/<domain>/<slug>/
+curl -I https://finwiki.zksc.io/<domain>/<slug>.md
 curl -I https://finwiki.zksc.io/llms.txt
 curl -I https://finwiki.zksc.io/ai-index.json
 curl -I https://finwiki.zksc.io/api/entries/index.json
@@ -97,21 +106,42 @@ curl -I https://finwiki.zksc.io/api/entries/index.json
 
 For UI changes, also open or screenshot representative public pages in Japanese and English after deployment.
 
+## Pull Request Required Check
+
+`.github/workflows/required-verification.yml` runs on pull requests and pushes targeting `pre` or `main`. The stable required-check context is `Required verification`, and its only release command is:
+
+```bash
+bun run verify
+```
+
+Supplemental scheduled audits may remain separate, but they do not replace this required context.
+
+## Main Branch Protection
+
+After the workflow is present on `main` and a fresh PR has produced a green `Required verification` context, configure `main` protection/rules so that:
+
+- changes require a pull request;
+- `Required verification` is required with the branch required to be current;
+- administrators are included;
+- force pushes and branch deletion are blocked.
+
+Do not require a check context while the workflow is absent from `main`; that would deadlock the first promotion PR. For the one bootstrap promotion that introduces the workflow, require the already-green `pre` gate, human approval and exact-SHA deployment verification, then enable protection immediately after the workflow reaches `main`. Before closing the implementation issue, record both the green check URL and read-only repository-rule evidence:
+
+```bash
+gh pr checks <pr-number>
+gh api repos/jasonhnd/finwiki/branches/main/protection
+gh api repos/jasonhnd/finwiki/rulesets
+```
+
 ## GitHub Actions (Deploy FinWiki)
 
-Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`, which builds and publishes to GitHub Pages. The `build` job runs, in order:
+Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`, which pins Bun from `.bun-version`, runs `bun run verify --out _site`, and uploads that verified output to GitHub Pages.
 
-1. `bun run wiki:audit:ci` — wiki link graph gate.
-2. `bun install` + `bun run build` in `site/` — Astro human site.
-3. `bun run html:check` — duplicate HTML id gate on `site/dist`.
-4. `bun run index:search` in `site/` — Pagefind static search index.
-5. `bun tools/assemble_static_publish.ts --out _site` — assemble HTML + raw Markdown + AI discovery surfaces.
+The `deploy` job then publishes the artifact via `actions/deploy-pages`. Always use `gh run watch` after a production push; a local green gate does not prove Pages permissions or the external deployment state.
 
-The `deploy` job then publishes the artifact via `actions/deploy-pages`. `site/` usually has no local dependencies, so the Astro build and search index steps may only be exercised here — always `gh run watch` after pushing a `site/` change (see gotchas #3).
+Every push to `origin/main` must keep the release note and GitHub Release aligned with the trilingual release-document contract: Japanese-only title, body ordered Japanese -> English -> Chinese, and explicit scope, changes, validation, known notes and next steps in every language. This does not add a Chinese human-site locale; public reading routes remain ja/en.
 
-Every push to `origin/main` must keep the release note and GitHub Release aligned with the current bilingual release scope: Japanese-only title, body ordered Japanese -> English, and explicit scope, changes, validation, known notes and next steps.
-
-Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
+Create the tag and GitHub Release only after the exact main merge SHA and successful production deployment are known. The tag target, Release target and recorded promotion SHA must match. Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
 
 ## Rollback
 

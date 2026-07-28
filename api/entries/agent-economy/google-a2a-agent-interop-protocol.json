@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/google-a2a-agent-interop-protocol",
   "source_path": "agent-economy/google-a2a-agent-interop-protocol.md",
-  "url": "https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/google-a2a-agent-interop-protocol/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/google-a2a-agent-interop-protocol/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/google-a2a-agent-interop-protocol/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/google-a2a-agent-interop-protocol/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/google-a2a-agent-interop-protocol.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/google-a2a-agent-interop-protocol.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/google-a2a-agent-interop-protocol.md",
   "domain": "agent-economy",
   "title": "Agent2Agent (A2A) · cross-vendor agent interoperability protocol",
   "entry_type": "wiki_entry",
@@ -80,16 +85,16 @@
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/agent-identity-defi-and-traditional-finance-bridge",
-      "https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
-      "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/agent-identity-defi-and-traditional-finance-bridge/",
+      "https://finwiki.zksc.io/ja/agent-economy/agent-payment-protocol-four-way-comparison-2026/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-technical-spec/",
+      "https://finwiki.zksc.io/ja/agent-economy/claude-code-extension-architecture/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/domains/systems/"
     ],
     "external_links_count": 0,
     "external_links": []

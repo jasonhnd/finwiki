@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/cross-chain-four-poles-overview",
   "source_path": "systems/cross-chain-four-poles-overview.md",
-  "url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/cross-chain-four-poles-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview.md",
   "domain": "systems",
   "title": "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-ccip-institutional/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-selection-decision/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

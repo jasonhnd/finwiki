@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/saison-automobile-fire-insurance",
   "source_path": "non-life-insurers/saison-automobile-fire-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/saison-automobile-fire-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/saison-automobile-fire-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/saison-automobile-fire-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/saison-automobile-fire-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance.md",
   "domain": "non-life-insurers",
   "title": "セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)",
   "entry_type": "wiki_entry",
@@ -78,14 +83,14 @@
       "non-life-insurers/sompo-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/mitsui-direct",
-      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/sompo"
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-direct/",
+      "https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/",
+      "https://finwiki.zksc.io/ja/life-insurers/sompo-himawari-life/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -93,7 +98,7 @@
   "metrics": {
     "nonspace_chars": 6035,
     "word_like_tokens": 944,
-    "inbound_wikilinks_count": 6,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-06"
   }
 }

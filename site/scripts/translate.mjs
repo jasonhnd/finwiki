@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 // FinWiki translation pipeline (mask guardrails + LLM + verify + incremental).
 // Flow: root Japanese corpus → English mirror:
 //   source_hash 增量 → mask(数字/日付/[[link]]/^[marker]) → LLM 翻訳(占位符保持)
@@ -8,12 +10,13 @@
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs                # full English incremental run
 //   ANTHROPIC_API_KEY=... bun scripts/translate.mjs --domain money-market   # 1 域だけ
 //   ... --lang en --limit 5 --force
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
 import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 import { buildTitleByRoute, hasSubstantialEnglishProse, localizeJapaneseBusinessTerms } from './ja-business-term-localizer.mjs';
+import { clearTranslationReview, writeTranslationReview } from './translation-output.mjs';
 
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const TARGET = { en: 'English' };
@@ -50,15 +53,6 @@ function fmTitle(fm) {
 function fmHash(fm) {
   const m = fm.match(/^source_hash:\s*(.+)\s*$/m);
   return m ? m[1].trim() : '';
-}
-
-function* walk(dir, rel = '') {
-  if (!existsSync(dir)) return;
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    const r = rel ? `${rel}/${e.name}` : e.name;
-    if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
-  }
 }
 
 async function callLLM(maskedText, lang) {
@@ -120,6 +114,9 @@ async function translateProtected(text, lang, titleByRoute) {
         : restored,
     fidelity: v.ok ? 'ok' : 'needs_review',
     v,
+    masked,
+    masks,
+    translatedMasked: out,
   };
 }
 
@@ -153,7 +150,7 @@ async function main() {
     mkdirSync(dirname(outPath), { recursive: true });
     writeFileSync(outPath, head + localizedBody.replace(/\n*$/, '') + '\n', { encoding: 'utf8' });
   };
-  for (const rel of walkEntries(walk)) {
+  for await (const rel of walkEntries()) {
     if (done >= LIMIT) break;
     if (ONLY_DOMAIN && !rel.toLowerCase().startsWith(ONLY_DOMAIN.toLowerCase() + '/')) continue;
     if (ONLY_PATHS && !ONLY_PATHS.includes(rel.toLowerCase())) continue;
@@ -174,8 +171,34 @@ async function main() {
         }
         const tt = title ? await translateProtected(title, lang, titleByRoute) : { text: '', fidelity: 'ok' };
         const bt = await translateProtected(body, lang, titleByRoute);
-        const fidelity = tt.fidelity === 'needs_review' || bt.fidelity === 'needs_review' ? 'needs_review' : 'ok';
-        if (fidelity === 'needs_review') reviews++;
+        const failed = [tt, bt].some((result) => result.fidelity === 'needs_review');
+        if (failed) {
+          reviews++;
+          for (const [stage, result] of [
+            ['title', tt],
+            ['body', bt],
+          ]) {
+            if (!result.v) continue;
+            writeTranslationReview({
+              lang,
+              rel,
+              stage,
+              hash: h,
+              masked: result.masked,
+              masks: result.masks,
+              translatedMasked: result.translatedMasked,
+              verification: result.v,
+              model: MODEL,
+              reason: 'title/body translation rejected as one atomic mirror update',
+            });
+          }
+          const failedParts = [
+            tt.fidelity === 'needs_review' ? 'title' : null,
+            bt.fidelity === 'needs_review' ? 'body' : null,
+          ].filter(Boolean);
+          console.log(`REV ${lang}  ${rel}  (${failedParts.join('+')} quarantined; formal mirror unchanged)`);
+          continue;
+        }
         const head =
           `---\n` +
           `source: ${rel.replace(/\.md$/, '').toLowerCase()}\n` +
@@ -183,13 +206,15 @@ async function main() {
           `lang: ${lang}\n` +
           `model: ${MODEL}\n` +
           `status: machine\n` +
-          `fidelity: ${fidelity}\n` +
+          `fidelity: ok\n` +
           `title: ${JSON.stringify(tt.text || title)}\n` +
           `translated_at: ${new Date().toISOString()}\n` +
           `---\n`;
         mkdirSync(dirname(outPath), { recursive: true });
         writeFileSync(outPath, head + bt.text + '\n', { encoding: 'utf8' });
-        console.log(`${fidelity === 'ok' ? 'ok ' : 'REV'} ${lang}  ${rel}`);
+        clearTranslationReview({ lang, rel, stage: 'title' });
+        clearTranslationReview({ lang, rel, stage: 'body' });
+        console.log(`ok  ${lang}  ${rel}`);
       } catch (err) {
         console.error(`ERR ${lang}  ${rel}: ${err.message}`);
       }
@@ -222,7 +247,7 @@ async function main() {
       }
     }
   }
-  console.log(`\n完了: ${done} entries, needs_review=${reviews}`);
+  console.log(`\n完了: ${done} entries, quarantined=${reviews}`);
 }
 
 await main();

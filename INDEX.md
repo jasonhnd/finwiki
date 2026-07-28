@@ -1,7 +1,7 @@
 # FinWiki Index
 
 > Last privacy review: 2026-05-25 JST.
-> Current public surface: 1485 wiki entries checked by the link audit, including domain entries and the root index, plus control documents, templates, and release notes.
+> Current public-surface counts are generated into `ai-index.json`, `README.md`, and `index.html`; the strict release, wikilink, and index-count audits verify them instead of relying on a handwritten snapshot here.
 
 FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-asset regulation, Japanese financial institutions, payment infrastructure, capital markets, and adjacent industrial context.
 
@@ -37,7 +37,7 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 | exchanges | 146 | [[exchanges/INDEX]] / [web](exchanges/INDEX) | Japan and global CEX / DEX, VASP regulation, JVCEA / FSA registered-operator completeness, custody, IEO, warnings, and incidents. |
 | fintech | 143 | [[fintech/INDEX]] / [web](fintech/INDEX) | Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics. |
 | systems | 61 | [[systems/INDEX]] / [web](systems/INDEX) | Cross-chain infrastructure, BFT / validator economics, account abstraction, Canton / DAML, Besu, Ethereum upgrades, and protocol implementation topics. |
-| agent-economy | 40 | [[agent-economy/INDEX]] / [web](agent-economy/INDEX) | AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure. |
+| agent-economy | 46 | [[agent-economy/INDEX]] / [web](agent-economy/INDEX) | AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure. |
 | banking | 39 | [[banking/INDEX]] / [web](banking/INDEX) | Net banks, net-bank competition map, BaaS operating models, cooperative banking, JA Bank system, JF Marine Bank system, shinkin / credit-cooperative / rokin registry indexes, trust-bank / custody infrastructure, trust-bank custody operating comparison, master trust / custody bank landscape, regional bank API partnerships, foreign-bank retreat, regional-bank consolidation, quick-deposit flows, the Japan banking license tier comparison matrix (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF), and the Japan trust bank vs global custodian comparison matrix. |
 | business | 24 | [[business/INDEX]] / [web](business/INDEX) | Public company / public person strategic cases and business-model context. |
 | policy-finance | 34 | [[policy-finance/INDEX]] / [web](policy-finance/INDEX) | Public finance, development finance, export credit, housing finance, SME / agriculture / fisheries credit guarantees, policy-bank adjacency, JICA, JBIC, NEXI, JOGMEC, and JASSO. |
@@ -46,7 +46,7 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 | security | 9 | [[security/INDEX]] / [web](security/INDEX) | Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation. |
 | money-market | 16 | [[money-market/INDEX]] / [web](money-market/INDEX) | Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure. |
 | non-profit | 12 | [[non-profit/INDEX]] / [web](non-profit/INDEX) | Japanese non-profit / public-interest legal structures (一般/公益 財団・社団, NPO / 認定NPO, plus sector-licensed 社会福祉 / 学校 / 医療 / 宗教 法人), the 公益法人会計基準 reporting layer, and research-grant information (grantee map + grantor 助成財団). Corporate / listed-company governance lives in finance / securities / exchanges. |
-| manufacturer-finance | 13 | [[manufacturer-finance/INDEX]] / [web](manufacturer-finance/INDEX) | Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance. |
+| manufacturer-finance | 13 | [[manufacturer-finance/INDEX]] / [web](manufacturer-finance/INDEX) | Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer anchors may live in this domain; finance-company institution profiles use role-specific domains such as leasing-firms, while manufacturing ABS lives in structured-finance. |
 | retail | 10 | [[retail/INDEX]] / [web](retail/INDEX) | Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms. |
 | trade | 12 | [[trade/INDEX]] / [web](trade/INDEX) | JETRO and trade channels, plus trade finance — letters of credit / documentary collection, Incoterms 2020, NEXI trade insurance, customs / tariff / origin, FTA / EPA / RCEP, electronic bill of lading (MLETR), forfaiting / international factoring, and supply-chain finance. |
 | corporate-strategy | 10 | [[corporate-strategy/INDEX]] / [web](corporate-strategy/INDEX) | Public corporate reorganization and tax-structured spin-off reference. |
@@ -68,18 +68,18 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 
 ## Control Documents
 
-- [[README]] / [README.md](README.md): bilingual public entry point.
+- [[README]] / [README.md](README.md): trilingual public entry point.
 - [[HOW-TO-NAVIGATE]] / [HOW-TO-NAVIGATE.md](HOW-TO-NAVIGATE.md): reader profile navigation guide — start here if you are new to FinWiki, with top 30 essential entries, top 15 matrices, top 10 bedrock pages, and per-profile reading orders.
 - [[SCHEMA]] / [SCHEMA](SCHEMA): entry frontmatter and maintenance conventions.
 - [[OBSIDIAN-SETUP]] / [OBSIDIAN-SETUP](OBSIDIAN-SETUP): generic Obsidian reading setup without local paths.
-- [[CHANGELOG]] / [CHANGELOG](CHANGELOG): bilingual maintenance record.
+- [[CHANGELOG]] / [CHANGELOG](CHANGELOG): trilingual maintenance record.
 - [[AGENTS]] / [AGENTS](AGENTS): local agent rules for this repository.
 - [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md): body-link density and semantic-link audit report.
 - [cross-domain-anchor-convention.md](cross-domain-anchor-convention.md): rule for designating the single canonical domain anchor for a multi-domain entity.
 - [entity-mirror-page-policy.md](entity-mirror-page-policy.md): when a parallel mirror page is justified versus a single anchor with reciprocal cross-links.
 - [topic-cluster-reference.md](topic-cluster-reference.md): cross-domain thematic cluster index for entries that span domain boundaries.
 - [domain-bridge-navigation-guide.md](domain-bridge-navigation-guide.md): directed cross-domain reader journeys ("if reading X, go to Y").
-- [frontmatter-canonical-anchor-field-proposal.md](frontmatter-canonical-anchor-field-proposal.md): forward-looking proposal for an optional `canonical_anchor:` frontmatter field (not yet adopted in SCHEMA).
+- [frontmatter-canonical-anchor-field-proposal.md](frontmatter-canonical-anchor-field-proposal.md): historical decision record for the implemented `canonical_anchor:` contract; current authority is `SCHEMA.md`, ADR-007, and the entry-authoring guide.
 - `tools/wiki_link_audit.ts`: repeatable internal-link quality audit (run with `bun`).
 - `.templates/`: new-entry template surface.
 - `releases/`: public release-note drafts.

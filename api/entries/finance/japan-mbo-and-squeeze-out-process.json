@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/japan-mbo-and-squeeze-out-process",
   "source_path": "finance/japan-mbo-and-squeeze-out-process.md",
-  "url": "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+  "url": "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+    "en": "https://finwiki.zksc.io/en/finance/japan-mbo-and-squeeze-out-process/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-mbo-and-squeeze-out-process.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-mbo-and-squeeze-out-process.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process.md",
   "domain": "finance",
   "title": "Japan MBO and squeeze-out process",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/payment-firms/wealthnavi",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/finance/japan-activist-investor-playbook/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/payment-firms/wealthnavi/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
     "external_links_count": 0,
     "external_links": []

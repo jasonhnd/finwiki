@@ -1,0 +1,32 @@
+name: Dependency Audit
+
+on:
+  pull_request:
+    branches: [pre, main]
+  push:
+    branches: [pre, main]
+  schedule:
+    # Weekly dependency sweep: Monday 03:40 JST.
+    - cron: "40 18 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version-file: .bun-version
+
+      - name: Install site dependencies
+        working-directory: site
+        run: bun install --frozen-lockfile
+
+      - name: Audit production dependencies
+        working-directory: site
+        run: bun audit --production

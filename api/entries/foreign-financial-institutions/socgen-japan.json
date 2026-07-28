@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/socgen-japan",
   "source_path": "foreign-financial-institutions/socgen-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/socgen-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/socgen-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/socgen-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/socgen-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/socgen-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/socgen-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "ソシエテ・ジェネラル日本 (Societe Generale Japan)",
   "entry_type": "wiki_entry",
@@ -71,18 +76,18 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/barclays-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
-      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
-      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/barclays-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bnp-paribas-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/deutsche-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/standard-chartered-japan/",
+      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
+      "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

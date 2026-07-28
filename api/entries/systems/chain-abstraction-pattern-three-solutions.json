@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/chain-abstraction-pattern-three-solutions",
   "source_path": "systems/chain-abstraction-pattern-three-solutions.md",
-  "url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions",
+  "url": "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-three-solutions/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-three-solutions/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-three-solutions/",
+    "en": "https://finwiki.zksc.io/en/systems/chain-abstraction-pattern-three-solutions/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chain-abstraction-pattern-three-solutions.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chain-abstraction-pattern-three-solutions.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions.md",
   "domain": "systems",
   "title": "チェーン抽象の 3 大主流方式",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "systems/eigenlayer-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/liquid-staking-restaking-cex-exposure/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/bft-validator-economy-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-value-capture/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/18-shinwa-bank",
   "source_path": "regional-banks/18-shinwa-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/18-shinwa-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/18-shinwa-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/18-shinwa-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/18-shinwa-bank.md",
   "domain": "regional-banks",
   "title": "株式会社十八親和銀行 (Eighteenth Shinwa Bank)",
   "entry_type": "wiki_entry",
@@ -63,14 +68,14 @@
       "regional-banks/kyushu-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/regional-banks/77-bank",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/kyushu-fg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/regional-banks/77-bank/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/kyushu-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

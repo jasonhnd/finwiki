@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/miyazaki-bank",
   "source_path": "regional-banks/miyazaki-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/miyazaki-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/miyazaki-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/miyazaki-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/miyazaki-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/miyazaki-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/miyazaki-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/miyazaki-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/miyazaki-bank.md",
   "domain": "regional-banks",
   "title": "宮崎銀行",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "regional-banks/oita-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/higo-bank",
-      "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
-      "https://finwiki.zksc.io/regional-banks/kyushu-fg",
-      "https://finwiki.zksc.io/regional-banks/miyazaki-taiyo-bank",
-      "https://finwiki.zksc.io/regional-banks/oita-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/higo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kagoshima-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kyushu-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/miyazaki-taiyo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/oita-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities/japan-securities-clearing-corp",
   "source_path": "securities/japan-securities-clearing-corp.md",
-  "url": "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+  "url": "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+  "html_url": "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
+    "en": "https://finwiki.zksc.io/en/securities/japan-securities-clearing-corp/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-securities-clearing-corp.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-securities-clearing-corp.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities/japan-securities-clearing-corp.md",
   "domain": "securities",
   "title": "日本証券クリアリング機構 (JSCC)",
   "entry_type": "wiki_entry",
@@ -66,18 +71,18 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
-      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
-      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
-      "https://finwiki.zksc.io/securities/osaka-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/",
+      "https://finwiki.zksc.io/ja/money-market/jgb-repo-market-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
+      "https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/",
+      "https://finwiki.zksc.io/ja/securities/osaka-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-commodity-exchange/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
     "external_links_count": 0,
     "external_links": []

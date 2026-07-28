@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/okinawa-shinko",
   "source_path": "financial-regulators/okinawa-shinko.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/okinawa-shinko",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/okinawa-shinko/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/okinawa-shinko/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/okinawa-shinko/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/okinawa-shinko/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/okinawa-shinko.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/okinawa-shinko.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/okinawa-shinko.md",
   "domain": "financial-regulators",
   "title": "沖縄振興開発金融公庫 (ODFC)",
   "entry_type": "wiki_entry",
@@ -66,14 +71,14 @@
       "regional-banks/ryukyu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
-      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
-      "https://finwiki.zksc.io/regional-banks/ryukyu-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/financial-regulators/shoko-chukin/",
+      "https://finwiki.zksc.io/ja/regional-banks/okinawa-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ryukyu-bank/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -82,6 +87,6 @@
     "nonspace_chars": 6078,
     "word_like_tokens": 801,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-28"
   }
 }

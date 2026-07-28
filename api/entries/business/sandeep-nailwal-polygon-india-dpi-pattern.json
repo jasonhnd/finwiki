@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "business/sandeep-nailwal-polygon-india-dpi-pattern",
   "source_path": "business/sandeep-nailwal-polygon-india-dpi-pattern.md",
-  "url": "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern",
+  "url": "https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/",
+  "html_url": "https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/",
+    "en": "https://finwiki.zksc.io/en/business/sandeep-nailwal-polygon-india-dpi-pattern/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/sandeep-nailwal-polygon-india-dpi-pattern.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/sandeep-nailwal-polygon-india-dpi-pattern.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern.md",
   "domain": "business",
   "title": "国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給",
   "entry_type": "wiki_entry",
@@ -67,14 +72,14 @@
       "fintech/india-anti-dollar-dpi-alliance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/INDEX",
-      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
-      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
-      "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/business/",
+      "https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/",
+      "https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/",
+      "https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/"
     ],
     "external_links_count": 0,
     "external_links": []

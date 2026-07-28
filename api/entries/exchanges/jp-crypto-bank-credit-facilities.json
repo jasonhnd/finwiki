@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-crypto-bank-credit-facilities",
   "source_path": "exchanges/jp-crypto-bank-credit-facilities.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-crypto-bank-credit-facilities/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-bank-credit-facilities.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-bank-credit-facilities.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities.md",
   "domain": "exchanges",
   "title": "CEX × 日本銀行 無担保授信実績図譜",
   "entry_type": "wiki_entry",
@@ -55,14 +60,14 @@
       "fintech/usd-stablecoin-interchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -71,6 +76,6 @@
     "nonspace_chars": 2940,
     "word_like_tokens": 434,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-28"
   }
 }

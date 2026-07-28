@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "cd site && bun install --frozen-lockfile",
-  "buildCommand": "bun run vercel:build",
+  "installCommand": "cd site && bunx bun@1.3.14 install --frozen-lockfile",
+  "buildCommand": "bunx bun@1.3.14 tools/verify.ts --out _vercel_public",
   "outputDirectory": "_vercel_public"
 }

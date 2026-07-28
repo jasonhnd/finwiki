@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/oag-trust",
   "source_path": "trust-banks/oag-trust.md",
-  "url": "https://finwiki.zksc.io/trust-banks/oag-trust",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/oag-trust/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/oag-trust/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/oag-trust/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/oag-trust/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/oag-trust.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/oag-trust.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/oag-trust.md",
   "domain": "trust-banks",
   "title": "OAG信託 (OAG Trust)",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "trust-banks/yamada-escrow-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index",
-      "https://finwiki.zksc.io/trust-banks/yamada-escrow-trust"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/",
+      "https://finwiki.zksc.io/ja/trust-banks/yamada-escrow-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

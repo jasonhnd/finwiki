@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trade/japan-fta-epa-rcep-utilization",
   "source_path": "trade/japan-fta-epa-rcep-utilization.md",
-  "url": "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization",
+  "url": "https://finwiki.zksc.io/ja/trade/japan-fta-epa-rcep-utilization/",
+  "html_url": "https://finwiki.zksc.io/ja/trade/japan-fta-epa-rcep-utilization/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trade/japan-fta-epa-rcep-utilization/",
+    "en": "https://finwiki.zksc.io/en/trade/japan-fta-epa-rcep-utilization/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/japan-fta-epa-rcep-utilization.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/japan-fta-epa-rcep-utilization.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization.md",
   "domain": "trade",
   "title": "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them",
   "entry_type": "wiki_entry",
@@ -71,12 +76,12 @@
       "trade/jetro-vs-nexi-vs-jbic-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/trade/INDEX",
-      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
-      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
-      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/",
+      "https://finwiki.zksc.io/ja/domains/trade/",
+      "https://finwiki.zksc.io/ja/trade/incoterms-2020-trade-terms-framework/",
+      "https://finwiki.zksc.io/ja/trade/japan-customs-tariff-origin-clearance/",
+      "https://finwiki.zksc.io/ja/trade/jetro-vs-nexi-vs-jbic-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

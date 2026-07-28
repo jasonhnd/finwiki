@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/eigenlayer-l1-bootstrapping",
   "source_path": "systems/eigenlayer-l1-bootstrapping.md",
-  "url": "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping",
+  "url": "https://finwiki.zksc.io/ja/systems/eigenlayer-l1-bootstrapping/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/eigenlayer-l1-bootstrapping/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/eigenlayer-l1-bootstrapping/",
+    "en": "https://finwiki.zksc.io/en/systems/eigenlayer-l1-bootstrapping/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eigenlayer-l1-bootstrapping.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eigenlayer-l1-bootstrapping.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping.md",
   "domain": "systems",
   "title": "EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/liquid-staking-restaking-cex-exposure/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-avs-mechanism/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -3,11 +3,18 @@
 import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative, resolve, sep } from "node:path";
 import {
+  AUDIT_ARTIFACT_DIR_NAME,
   countWordLikeTokens,
   iterMarkdownFiles,
   parseDomainMap,
 } from "../lib/markdown_helpers";
 import { type AuditResult, type Counts, type ReleaseArgs, countsView, formatInt } from "./release.helpers";
+import {
+  auditReleaseDocumentation,
+  auditReleaseNoteText,
+  formatDocumentationAuditIssue,
+  scaffoldReleaseNote,
+} from "./release_documentation_audit";
 
 const ROOT = resolve(import.meta.dir, "..");
 const README = join(ROOT, "README.md");
@@ -46,12 +53,25 @@ function parseReleaseArgs(argv: string[]): ReleaseArgs {
     else if (arg === "--changelog") {
       args.changelogTitle = argv[i + 1];
       i += 1;
+    } else if (arg === "--release-note") {
+      const title = argv[i + 1];
+      if (title === undefined || title.startsWith("--")) {
+        throw new Error("--release-note requires a non-empty Japanese title");
+      }
+      args.releaseNoteTitle = title;
+      i += 1;
     } else {
       throw new Error(`unknown arg: ${arg}`);
     }
   }
   if (args.check && args.write) {
     throw new Error("--check and --write are mutually exclusive");
+  }
+  if (args.releaseNoteTitle !== undefined && !args.releaseNoteTitle.trim()) {
+    throw new Error("--release-note requires a non-empty Japanese title");
+  }
+  if (args.releaseNoteTitle !== undefined && !args.write) {
+    throw new Error("--release-note requires --write");
   }
   return args;
 }
@@ -157,23 +177,33 @@ async function computeCounts(entriesChecked: number, issues: number): Promise<Co
 function syncReadmeText(text: string, counts: Counts, snapshotDate: string): string {
   const { charsMan, tokensMan, charsM, tokensM } = countsView(counts);
   const out: string[] = [];
+  let language: "ja" | "en" | "zh" | null = null;
   for (const line of text.split("\n")) {
     let next = line;
+    if (next === "## 日本語") language = "ja";
+    else if (next === "## English") language = "en";
+    else if (next === "## 中文") language = "zh";
+    else if (next.startsWith("## ")) language = null;
+
     next = next.replace(/(\| Markdown files \| )[\d,]+( \|)/, `$1${counts.markdownFiles}$2`);
     next = next.replace(/(\| Topical domains \| )[\d,]+( \|)/, `$1${counts.topicalDomains}$2`);
     next = next.replace(/(\| Link-audited entries \| )[\d,]+( \|)/, `$1${counts.linkAuditedEntries}$2`);
     next = next.replace(/(\| Unresolved link issues \| )[\d,]+( \|)/, `$1${counts.unresolvedIssues}$2`);
     if (next.startsWith("| Text volume |")) {
-      if (next.includes("~")) {
+      if (language === "en") {
         next = `| Text volume | ~${charsM}M chars | ~${formatInt(counts.nonspaceChars)} non-space UTF-8 characters across Markdown |`;
-      } else {
+      } else if (language === "zh") {
+        next = `| Text volume | 约${charsMan}万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 ${formatInt(counts.nonspaceChars)}） |`;
+      } else if (language === "ja") {
         next = `| Text volume | 約${charsMan}万字 | Markdown 全体の空白除外 UTF-8 文字数（約 ${formatInt(counts.nonspaceChars)}） |`;
       }
     }
     if (next.startsWith("| Word-like tokens |")) {
-      if (next.includes("~")) {
+      if (language === "en") {
         next = `| Word-like tokens | ~${tokensM}M | Approximate English / CJK mixed-corpus token count |`;
-      } else {
+      } else if (language === "zh") {
+        next = `| Word-like tokens | 约${tokensMan}万 | English / CJK mixed corpus 的近似 token count |`;
+      } else if (language === "ja") {
         next = `| Word-like tokens | 約${tokensMan}万 | English / CJK mixed corpus の近似 token count |`;
       }
     }
@@ -278,13 +308,17 @@ function scaffoldChangelog(text: string, title: string, snapshotDate: string, no
   const block = [
     `## ${snapshotDate} - ${title}`,
     "",
-    "### Japanese",
+    "### 日本語",
     "",
-    `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
+    `- **${nowDisplay} / 背景:** <公開情報にもとづく背景、範囲、主要ファイル、手順、検証結果、残タスクを記入。>`,
     "",
     "### English",
     "",
     `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
+    "",
+    "### 中文",
+    "",
+    `- **${nowDisplay} / 背景:** <填写基于公开信息的背景、范围、主要文件、步骤、验证结果和后续事项。>`,
     "",
   ].join("\n");
   const match = text.match(/^## \d{4}-\d{2}-\d{2}/m);
@@ -292,9 +326,28 @@ function scaffoldChangelog(text: string, title: string, snapshotDate: string, no
   return text.slice(0, match.index) + block + text.slice(match.index);
 }
 
+function nextReleaseNotePath(snapshotDate: string): { absolutePath: string; relativePath: string } {
+  const versionDate = snapshotDate.replaceAll("-", ".");
+  for (let suffix = 0; ; suffix += 1) {
+    const filename = `v${versionDate}${suffix === 0 ? "" : `-${suffix}`}.md`;
+    const relativePath = `releases/${filename}`;
+    const absolutePath = join(ROOT, relativePath);
+    if (!existsSync(absolutePath)) return { absolutePath, relativePath };
+  }
+}
+
 function verifyJsonFiles(): string[] {
   const problems: string[] = [];
-  const excluded = new Set([".git", ".cache", "site", "app", ".vercel", "_site", "_vercel_public"]);
+  const excluded = new Set([
+    ".git",
+    ".cache",
+    AUDIT_ARTIFACT_DIR_NAME,
+    "site",
+    "app",
+    ".vercel",
+    "_site",
+    "_vercel_public",
+  ]);
   const stack = [ROOT];
   while (stack.length > 0) {
     const dir = stack.pop()!;
@@ -355,7 +408,47 @@ function runRequiredTool(command: string[], label: string): void {
 async function main(): Promise<number> {
   const args = parseReleaseArgs(process.argv.slice(2));
   const mode = args.write ? "WRITE" : "CHECK";
+  const snapshotDate = todayJst();
   console.log(`=== FinWiki release (${mode}) ===`);
+
+  let documentationAudit = auditReleaseDocumentation(ROOT);
+  console.log(
+    `[0] release documentation: files=${documentationAudit.filesChecked} ` +
+      `release_notes=${documentationAudit.releaseNotesChecked} ` +
+      `problems=${documentationAudit.issues.length} -> ${documentationAudit.ok ? "PASS" : "FAIL"}`,
+  );
+  if (!documentationAudit.ok) {
+    for (const issue of documentationAudit.issues.slice(0, 40)) {
+      console.log(`    - ${formatDocumentationAuditIssue(issue)}`);
+    }
+    if (documentationAudit.issues.length > 40) {
+      console.log(`    ... ${documentationAudit.issues.length - 40} more problem(s)`);
+    }
+    return 2;
+  }
+
+  if (args.releaseNoteTitle !== undefined) {
+    const releaseNote = nextReleaseNotePath(snapshotDate);
+    const draft = scaffoldReleaseNote(args.releaseNoteTitle);
+    const draftIssues = auditReleaseNoteText(draft, releaseNote.relativePath);
+    if (draftIssues.length > 0) {
+      for (const issue of draftIssues) console.log(`    - ${formatDocumentationAuditIssue(issue)}`);
+      return 2;
+    }
+    writeUtf8Lf(releaseNote.absolutePath, draft);
+    console.log(`[0a] release note scaffold: ${releaseNote.relativePath}`);
+    documentationAudit = auditReleaseDocumentation(ROOT);
+    console.log(
+      `[0b] generated release note audit: release_notes=${documentationAudit.releaseNotesChecked} ` +
+        `problems=${documentationAudit.issues.length} -> ${documentationAudit.ok ? "PASS" : "FAIL"}`,
+    );
+    if (!documentationAudit.ok) {
+      for (const issue of documentationAudit.issues.slice(0, 40)) {
+        console.log(`    - ${formatDocumentationAuditIssue(issue)}`);
+      }
+      return 2;
+    }
+  }
 
   let entries = 0;
   let issues = 0;
@@ -388,7 +481,6 @@ async function main(): Promise<number> {
   }
   printCounts(counts);
 
-  const snapshotDate = todayJst();
   const readmeOld = readUtf8(README);
   const indexOld = readUtf8(INDEX_HTML);
   const readmeNew = syncReadmeText(readmeOld, counts, snapshotDate);
@@ -426,7 +518,7 @@ async function main(): Promise<number> {
   console.log("\n--- remaining manual steps ---");
   if (args.write) {
     console.log("  1. Review `git diff` for generated surfaces and docs.");
-    console.log("  2. Write the real CHANGELOG / release note narrative.");
+    console.log("  2. Replace any CHANGELOG / release note scaffold placeholders with the real narrative.");
     console.log("  3. Run `bun tools/release.ts --check --strict` and the site build.");
   } else {
     console.log("  Run `bun tools/release.ts --write` to regenerate + sync, then commit/push.");
