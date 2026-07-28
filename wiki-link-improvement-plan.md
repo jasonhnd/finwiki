@@ -79,8 +79,8 @@
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
-| `payment-firms` | 54 | 0 | 11.9 |
-| `payments` | 41 | 0 | 34.9 |
+| `payment-firms` | 54 | 0 | 11.7 |
+| `payments` | 41 | 0 | 34.2 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `regional-banks` | 136 | 0 | 14.0 |

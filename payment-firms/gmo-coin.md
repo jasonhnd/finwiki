@@ -3,17 +3,17 @@ title: GMO コイン (GMO Coin)
 aliases: ["GMO Coin", "株式会社 GMO コイン", "GMO Coin, Inc.", "GMOコイン"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
 tags: [JapanFG, crypto, gmo]
 status: active
 sources:
-  - "Wikipedia: GMO コイン (2026-05-19 抽出)"
-  - "金融庁 暗号資産交換業者登録一覧 (関東財務局長 第 00006 号)"
-  - "JVCEA 加盟業者一覧"
-  - "GMO フィナンシャルホールディングス IR 公開資料"
+  - "GMO コイン 会社概要 (https://coin.z.com/jp/corp/about/company/)"
+  - "GMO コイン 商号変更のお知らせ (https://coin.z.com/jp/news/2017/08/123/)"
+  - "金融庁 暗号資産交換業者登録一覧 (https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)"
+  - "GMO コイン 株主変更のお知らせ (https://coin.z.com/jp/news/2026/02/15535/)"
 ---
 
 # GMO コイン (GMO Coin)
@@ -24,18 +24,20 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-**GMO インターネットグループ** 傘下の暗号資産取引所。**関東財務局長 第 00006 号**（業界最初期登録の 1 つ）、JVCEA 第一種会員。**販売所 + 取引所 + レバレッジ取引** 3 軸 + **20 種以上の取扱通貨** で国内大手。親会社 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO クリック証券 / [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] と並ぶ GMO 金融エコシステムの **暗号資産担当**。競合は [[payment-firms/bitflyer]] / Coincheck（[[securities-firms/monex-group]] 内）/ SBI VC Trade（[[megabanks/sbi-hd]] 内）/ DMM Bitcoin / bitbank / [[payment-firms/bittrade]]。
+GMO コイン株式会社は GMO インターネットグループの暗号資産事業会社で、株主は [[payment-firms/gmo-financial-hd|GMO フィナンシャルホールディングス]]。**2016-10 設立**、2017-08-09 に Z.com コイン株式会社から現商号へ変更し、暗号資産交換業は **関東財務局長 第 00006 号**、第一種金融商品取引業は **関東財務局長（金商）第 3188 号**として登録されている。[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] は同じ GMO インターネットグループ内の別系統会社であり、GMO コインの親会社ではない。^[GMO コイン 会社概要: https://coin.z.com/jp/corp/about/company/; 商号変更のお知らせ: https://coin.z.com/jp/news/2017/08/123/; 金融庁 暗号資産交換業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf]
 
 ## 1. 会社概要
 
 **正式名**：株式会社 GMO コイン
 **英名**：GMO Coin, Inc.
-**設立**：2016-10-21
-**本社**：東京都渋谷区桜丘町 26-1 セルリアンタワー（GMO インターネットグループ本社内）
-**業態**：暗号資産交換業者
+**設立**：2016-10
+**本社**：東京都渋谷区道玄坂 1-2-3 渋谷フクラス
+**代表者**：石村富隆（代表取締役社長）
+**業態**：暗号資産交換業者 / 第一種金融商品取引業者
 **登録番号**：**関東財務局長 第 00006 号**（暗号資産交換業）
+**金融商品取引業**：**関東財務局長（金商）第 3188 号**
 **業界団体**：日本暗号資産取引業協会（JVCEA）第一種会員
-**親会社**：[[payment-firms/gmo-financial-hd|GMO フィナンシャルホールディングス]]（東証 PRIME 7177、議決権 100%）→ GMO インターネットグループ（東証 PRIME 9449）
+**株主**：[[payment-firms/gmo-financial-hd|GMO フィナンシャルホールディングス]]
 
 ### グループ構造
 
@@ -69,10 +71,10 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 | 年月 | 事象 |
 |---|---|
-| 2016-10-21 | 株式会社 Z.com Coin として設立（GMO インターネット 子会社）|
+| 2016-10 | GMO Wallet 株式会社として設立 |
 | 2017-04-01 | 改正資金決済法施行（暗号資産交換業 登録制開始）|
-| 2017-05-26 | **暗号資産交換業者登録（関東財務局長 第 00006 号）** ── 業界最初期登録の 1 つ |
-| 2017-09-13 | 「GMO コイン」に商号変更 |
+| 2017-08-09 | Z.com コイン株式会社から「GMO コイン株式会社」に商号変更 |
+| 2017-09-29 | **暗号資産交換業者登録（関東財務局長 第 00006 号）** |
 | **2018-01-26** | **Coincheck NEM 流出事件（約 580 億円）** ── 業界全体に金融庁の集中検査・規制強化 |
 | 2018-03 | 金融庁 業務改善命令（内部管理体制不備、業界一斉処分）|
 | 2018 後半 | 内部管理体制整備・コンプライアンス強化 |

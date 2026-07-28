@@ -1,12 +1,12 @@
 ---
 source: payments/japan-merchant-psp-competitive-scorecard
-source_hash: 837071ef5461c24f
+source_hash: 2f3f5b9ec4969be5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の加盟店 PSP 競争スコアカード"
-translated_at: 2026-06-26T08:32:07.540Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # 日本の加盟店 PSP 競争スコアカード
@@ -25,9 +25,9 @@ PSP を選ぶ加盟店 — または日本の EC スタックを読もうとす�
 
 ### GMO ペイメントゲートウェイ（GMO-PG、東証 PRIME 3769）
 
-[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] は、加盟店数と処理高で日本最大の純粋 PSP である。1995-03-25 に株式会社カードコマースとして設立され、2000,  に GMO-PG に改称、2005,  に東証マザーズに上場、2008 に東証一部（現 PRIME）へ移行。[[business/gmo-internet-group|GMO Internet Group]] の連結子会社。EC 加盟店基盤は報道では 30 万+ 店舗。マルチプロダクトライン：カードゲートウェイ、コード決済、コンビニ決済、銀行振込収納、BtoB インボイス / 後払い、Pay.JP デベロッパー SDK（Stripe 型の競合）、NextPay（ベトナム）・ECPay（台湾）経由のトランスアジアゲートウェイ。SMBC GMO PAYMENT JV 経由で [[card-issuers/smbc-card|SMBC Card]] と戦略的関係。加盟店決済データに基づくトランザクションレンディングの副業。
+[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]（東証 PRIME 3769）は、決済関連・金融関連サービスを提供する。1995-03 に株式会社カードコールサービスとして設立され、2000-11 に株式会社カードコマースサービス、2005-02 に GMO ペイメントゲートウェイ株式会社へ商号変更した。2005-04 に東証マザーズへ上場、2008-09 に東証一部へ市場変更し、2022-04 にプライム市場へ移行した。現行の会社概要は本社を渋谷フクラスとし、クレジットカード番号等取扱契約締結、資金移動、貸金、第三者型前払式支払手段などの登録を掲載している。^[GMO ペイメントゲートウェイ 会社概要: https://www.gmo-pg.com/corp/company/; 沿革: https://www.gmo-pg.com/corp/history/; GMO インターネットグループ発表: https://www.gmo.jp/news/article/9557/]
 
-GMO-PG の特徴的なポジション：**マルチアクワイアラ関係ブローカー** — PSP はブランドごとに複数のカードアクワイアラに加盟店をルーティングし、METI のクレジットカード番号等取扱契約締結事業者リストに自身の加盟店契約締結事業者登録を保有し、決済の信頼性と統合の深さが表面的な手数料率よりも重要な大量取引の加盟店アカウントを争う。
+GMO-PG の公式登録一覧には **関東（クレジットカード番号等取扱契約締結事業者）第 130 号**と**関東財務局長 資金移動業者 第 00037 号**が含まれる。これらは同社が担う規制上の役割を示すが、それ自体から非開示の加盟店数、処理高順位、全アクワイアラとのルーティング関係を推定してはならない。
 
 ### GMO イプシロン（GMO-PG の子会社）
 
@@ -63,7 +63,7 @@ Square Japan は Block, Inc.（旧 Square, Inc.）の日本部門である。カ
 
 Stripe Japan は Stripe, Inc. の日本部門である。API ファーストの決済統合で、デベロッパー、スタートアップ、デジタルファーストの加盟店をターゲットとし、カードブランド（Visa、Mastercard、JCB、AMEX）、コード決済（PayPay、コンビニ決済、銀行振込、Apple Pay、Google Pay）、定期課金 / サブスクリプションのプリミティブをサポートする。Stripe Japan は自身の物理的 POS ハードウェアを運営しない；商品は完全にオンライン / アプリ組み込みである。
 
-特徴的なポジション：**デベロッパー API ファースト** — Stripe のドキュメントの深さ、API の使い勝手、SDK の品質は、同様のボリュームに対する GMO-PG や SBPS からの交渉済み料率よりも高い表面手数料率にもかかわらず、カスタムチェックアウトを構築する技術系加盟店のデフォルトの選択肢とする。Pay.JP（GMO-PG のデベロッパー SDK 商品）がこの軸での主要な日本ネイティブの競合である。
+特徴的なポジション：**デベロッパー API ファースト** — Stripe のドキュメントの深さ、API の使い勝手、SDK の品質は、同様のボリュームに対する GMO-PG や SBPS からの交渉済み料率よりも高い表面手数料率にもかかわらず、カスタムチェックアウトを構築する技術系加盟店のデフォルトの選択肢とする。PAY.JP は BASE グループの PAY 株式会社が運営する、日本発の API 中心の競合の一つであり、GMO-PG の商品ではない。^[PAY.JP 事業承継のお知らせ: https://pay.jp/info/2018-01-04-191841]
 
 ### PayPal Japan
 

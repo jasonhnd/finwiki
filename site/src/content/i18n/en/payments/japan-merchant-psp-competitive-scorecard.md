@@ -1,11 +1,11 @@
 ---
 source: payments/japan-merchant-psp-competitive-scorecard
-source_hash: 837071ef5461c24f
+source_hash: 2f3f5b9ec4969be5
 lang: en
 status: machine
 fidelity: ok
 title: "Japan merchant PSP competitive scorecard"
-translated_at: 2026-06-15T03:48:21.900Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # Japan merchant PSP competitive scorecard
@@ -24,9 +24,9 @@ A merchant choosing a PSP — or a sector reader trying to read the Japan EC sta
 
 ### GMO Payment Gateway (GMO-PG, TSE PRIME 3769)
 
-[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] is Japan's largest pure-play PSP by merchant count and processed value. Founded 1995-03-25 as 株式会社カードコマース, renamed GMO-PG in 2000, listed on TSE Mothers in 2005, moved to TSE 一部 (now PRIME) in 2008. Consolidated subsidiary of [[business/gmo-internet-group|GMO Internet Group]]. EC merchant base reportedly 30 万+ stores. Multi-product line: card-gateway, code-payment, convenience-store payment, bank-transfer collection, BtoB invoice / 後払い, Pay.JP developer SDK (the Stripe-style competitor), trans-Asia gateway via NextPay (Vietnam), ECPay (Taiwan). Strategic relationship with [[card-issuers/smbc-card|SMBC Card]] via SMBC GMO PAYMENT JV. Trans-action-lending sideline based on merchant payment data.
+[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769) provides payment and financial services. It was established in March 1995 as Card Call Service Co., Ltd., renamed Card Commerce Service Co., Ltd. in November 2000 and GMO Payment Gateway, Inc. in February 2005, listed on TSE Mothers in April 2005, moved to the TSE First Section in September 2008, and entered the Prime Market in April 2022. Its current corporate profile lists its head office at Shibuya Fukuras and public registrations covering merchant contracting, funds transfer, money lending, and third-party prepaid instruments, among others. ^[GMO Payment Gateway company profile: https://www.gmo-pg.com/corp/company/; corporate history: https://www.gmo-pg.com/corp/history/; GMO Internet Group announcement: https://www.gmo.jp/news/article/9557/]
 
-GMO-PG's distinctive position: **multi-acquirer relationship-broker** — the PSP routes merchants to multiple card acquirers per brand, owns its own merchant-contracting operator registration on the METI クレジットカード番号等取扱契約締結事業者 list, and competes for high-volume merchant accounts where settlement reliability and integration depth matter more than headline fee rate.
+GMO-PG's official registration list includes **Kanto (credit-card merchant-contracting) No. 130** and **Kanto Local Finance Bureau funds-transfer No. 00037**. Those registrations document the regulated roles held by the company; they do not by themselves establish an undisclosed merchant count, processed-value ranking, or routing relationship with every acquirer.
 
 ### GMO Epsilon (subsidiary of GMO-PG)
 
@@ -62,7 +62,7 @@ Distinctive position: **micro-merchant + frictionless onboarding** — Square's 
 
 Stripe Japan is the Japanese arm of Stripe, Inc. Targets developers, startups, and digital-first merchants with API-first payment integration, supporting card brands (Visa, Mastercard, JCB, AMEX), code payments (PayPay, Konbini Payment, Bank Transfer, Apple Pay, Google Pay), and recurring billing / subscription primitives. Stripe Japan does not operate its own physical POS hardware; the product is entirely online / app-embedded.
 
-Distinctive position: **developer-API-first** — Stripe's documentation depth, API ergonomics, and SDK quality make it the default choice for technical merchants building custom checkout, despite higher headline fee rates than negotiated rates from GMO-PG or SBPS for similar volume. Pay.JP (GMO-PG's developer-SDK product) is the principal Japan-native competitor on this axis.
+Distinctive position: **developer-API-first** — Stripe's documentation depth, API ergonomics, and SDK quality make it the default choice for technical merchants building custom checkout, despite higher headline fee rates than negotiated rates from GMO-PG or SBPS for similar volume. PAY.JP, operated by BASE Group subsidiary PAY, is one Japan-native API-centric competitor on this axis; it is not a GMO-PG product. ^[PAY.JP business succession notice: https://pay.jp/info/2018-01-04-191841]
 
 ### PayPal Japan
 

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/rakuten-fg
-source_hash: 68ae8d87ab692f41
+source_hash: edab312904636c61
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Group financial businesses (Rakuten FG)"
-translated_at: 2026-06-19T06:09:18.095Z
+translated_at: 2026-07-28T20:15:36Z
 ---
 
 # Rakuten Group financial businesses (Rakuten FG)
@@ -22,10 +22,12 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 
 **Legal name**: 楽天グループ株式会社 (holding company / conglomerate)
 **English name**: Rakuten Group, Inc.
-**Securities code**: TSE PRIME 4755 (2000-04-19 JASDAQ listing → 2013  Mothers → 2014  First Section → 2022-04  PRIME)
-**Established**: 1997-02-07 (as MDM Corporation; Rakuten Ichiba opened 1997-05 )
+**Securities code**: TSE PRIME 4755 (listing date: 2000-04-19)
+**Established**: 1997-02-07 (Rakuten Ichiba opened 1997-05-01)
 **Head office**: 1-14-1 Tamagawa, Setagaya-ku, Tokyo (Rakuten Crimson House)
 **Representative**: Hiroshi Mikitani (Chairman & President CEO, founded 1997 )
+
+^[Rakuten Group company profile: https://global.rakuten.com/corp/about/; corporate history: https://global.rakuten.com/corp/about/history.html; JPX issue information 4755: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=4755]
 
 ### Group scale (based on latest disclosures / consolidated)
 
@@ -60,7 +62,7 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
   │     │     └── No.1  domestic shopping transaction volume (Yano Research, FY2024 年)
   │     ├── Rakuten Payment (operates 楽天ペイ / 楽天 Edy in an integrated manner)
   │     │     ├── Rakuten Pay (code payment)
-  │     │     └── Rakuten Edy (prepaid e-money, former bitWallet → 2009  brought under Rakuten)
+  │     │     └── Rakuten Edy (prepaid e-money, former bitWallet → joined Rakuten Group in 2010-01)
   │     ├── Rakuten Life Insurance (former Airio Life, 2013  brought under Rakuten)
   │     ├── Rakuten General Insurance (former Asahi Fire & Marine, 2018  brought under Rakuten)
   │     ├── Rakuten Wallet (crypto-asset exchange business)
@@ -84,7 +86,7 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 | 2003-11 | Rakuten Securities (former DLJ Direct SFG Securities) made a consolidated subsidiary |
 | 2004-12 | Acquired Rakuten KC (former Kokunai Shinpan) → later became Rakuten Card |
 | 2005 | Rakuten Card established |
-| 2008-08 | Rakuten Edy (former bitWallet) made a consolidated subsidiary |
+| 2010-01 | bitWallet joins Rakuten Group (later Rakuten Edy) |
 | 2009 | eBANK → renamed Rakuten Bank (2010) |
 | 2010-05 | Rakuten Bank formally inaugurated (trade name changed from eBANK) |
 | 2013 | Rakuten Life Insurance inaugurated (acquired / renamed Airio Life) |
