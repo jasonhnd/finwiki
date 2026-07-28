@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "manufacturer-finance/honda-finance",
   "source_path": "manufacturer-finance/honda-finance.md",
-  "url": "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+  "url": "https://finwiki.zksc.io/ja/manufacturer-finance/honda-finance/",
+  "html_url": "https://finwiki.zksc.io/ja/manufacturer-finance/honda-finance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/manufacturer-finance/honda-finance/",
+    "en": "https://finwiki.zksc.io/en/manufacturer-finance/honda-finance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/honda-finance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/honda-finance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/manufacturer-finance/honda-finance.md",
   "domain": "manufacturer-finance",
   "title": "Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)",
   "entry_type": "wiki_entry",
@@ -82,18 +87,18 @@
       "structured-finance/japan-auto-loan-abs-waterfall-mechanics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
-      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
-      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
-      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
-      "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
-      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
-      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
-      "https://finwiki.zksc.io/structured-finance/japan-auto-loan-abs-waterfall-mechanics"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/manufacturer-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/export-finance-mechanism/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/vendor-finance-mechanism/",
+      "https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/",
+      "https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/"
     ],
     "external_links_count": 0,
     "external_links": []

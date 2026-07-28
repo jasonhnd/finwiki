@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-institutional-custody-three-pillars",
   "source_path": "exchanges/jp-institutional-custody-three-pillars.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-institutional-custody-three-pillars/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-institutional-custody-three-pillars.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-institutional-custody-three-pillars.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars.md",
   "domain": "exchanges",
   "title": "国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較",
   "entry_type": "wiki_entry",
@@ -63,12 +68,12 @@
       "exchanges/jp-exchange-laser-digital-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
-      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
-      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan"
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/"
     ],
     "external_links_count": 0,
     "external_links": []

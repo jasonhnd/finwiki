@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-ieo-system-and-cases",
   "source_path": "exchanges/jp-ieo-system-and-cases.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-ieo-system-and-cases/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-ieo-system-and-cases.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-ieo-system-and-cases.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases.md",
   "domain": "exchanges",
   "title": "国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline",
   "entry_type": "wiki_entry",
@@ -60,14 +65,14 @@
       "exchanges/jvcea-whitelist-token-listing"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/cex-native-token-strategy-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/"
     ],
     "external_links_count": 0,
     "external_links": []

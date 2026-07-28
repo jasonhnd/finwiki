@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/ji-accident-fire-insurance",
   "source_path": "non-life-insurers/ji-accident-fire-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/ji-accident-fire-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/ji-accident-fire-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/ji-accident-fire-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/ji-accident-fire-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/ji-accident-fire-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/ji-accident-fire-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance.md",
   "domain": "non-life-insurers",
   "title": "JI Accident & Fire Insurance / ジェイアイ傷害火災保険",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "non-life-insurers/ji-accident-fire-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aig-japan",
-      "https://finwiki.zksc.io/non-life-insurers/hs-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aig-japan/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/hs-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/ji-accident-fire-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "structured-finance/japan-cmbs-issuance-structure",
   "source_path": "structured-finance/japan-cmbs-issuance-structure.md",
-  "url": "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+  "url": "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
+  "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
+    "en": "https://finwiki.zksc.io/en/structured-finance/japan-cmbs-issuance-structure/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-cmbs-issuance-structure.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/japan-cmbs-issuance-structure.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure.md",
   "domain": "structured-finance",
   "title": "Japan CMBS issuance structure",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
-      "https://finwiki.zksc.io/real-estate-finance/INDEX",
-      "https://finwiki.zksc.io/structured-finance/INDEX",
-      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
-      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
-      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
-      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
-      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
+      "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
+      "https://finwiki.zksc.io/ja/domains/structured-finance/",
+      "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
+      "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
+      "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
+      "https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/",
+      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
     ],
     "external_links_count": 0,
     "external_links": []

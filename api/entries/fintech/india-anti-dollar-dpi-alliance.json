@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/india-anti-dollar-dpi-alliance",
   "source_path": "fintech/india-anti-dollar-dpi-alliance.md",
-  "url": "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+  "url": "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
+    "en": "https://finwiki.zksc.io/en/fintech/india-anti-dollar-dpi-alliance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/india-anti-dollar-dpi-alliance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/india-anti-dollar-dpi-alliance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance.md",
   "domain": "fintech",
   "title": "インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ",
   "entry_type": "wiki_entry",
@@ -70,15 +75,15 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

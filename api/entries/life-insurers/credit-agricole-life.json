@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/credit-agricole-life",
   "source_path": "life-insurers/credit-agricole-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/credit-agricole-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/credit-agricole-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/credit-agricole-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/credit-agricole-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/credit-agricole-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/credit-agricole-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/credit-agricole-life.md",
   "domain": "life-insurers",
   "title": "クレディ・アグリコル生命保険",
   "entry_type": "wiki_entry",
@@ -70,18 +75,18 @@
       "life-insurers/pgf-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
-      "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
-      "https://finwiki.zksc.io/insurance/foreign-life-affiliate-japan-positioning",
-      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/cardif-life",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-insurance",
-      "https://finwiki.zksc.io/life-insurers/ms-primary-life",
-      "https://finwiki.zksc.io/life-insurers/pgf-life"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "https://finwiki.zksc.io/ja/insurance/bancassurance-economics-japan/",
+      "https://finwiki.zksc.io/ja/insurance/foreign-life-affiliate-japan-positioning/",
+      "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/cardif-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life-insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/ms-primary-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/pgf-life/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/mbridge-non-usd-settlement-ring-scale",
   "source_path": "fintech/mbridge-non-usd-settlement-ring-scale.md",
-  "url": "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale",
+  "url": "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
+    "en": "https://finwiki.zksc.io/en/fintech/mbridge-non-usd-settlement-ring-scale/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/mbridge-non-usd-settlement-ring-scale.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/mbridge-non-usd-settlement-ring-scale.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale.md",
   "domain": "fintech",
   "title": "mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率",
   "entry_type": "wiki_entry",
@@ -70,16 +75,16 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

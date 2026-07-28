@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/master-trust-bank",
   "source_path": "trust-banks/master-trust-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/master-trust-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/master-trust-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/master-trust-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/master-trust-bank.md",
   "domain": "trust-banks",
   "title": "日本マスタートラスト信託銀行",
   "entry_type": "wiki_entry",
@@ -69,15 +74,15 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/custody-bank",
-      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
     "external_links_count": 0,
     "external_links": []

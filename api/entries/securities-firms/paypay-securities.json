@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/paypay-securities",
   "source_path": "securities-firms/paypay-securities.md",
-  "url": "https://finwiki.zksc.io/securities-firms/paypay-securities",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/paypay-securities/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/paypay-securities.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/paypay-securities.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/paypay-securities.md",
   "domain": "securities-firms",
   "title": "PayPay証券",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/financial-regulators/jsda",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/",
+      "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

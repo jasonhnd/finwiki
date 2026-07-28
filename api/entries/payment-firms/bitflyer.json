@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/bitflyer",
   "source_path": "payment-firms/bitflyer.md",
-  "url": "https://finwiki.zksc.io/payment-firms/bitflyer",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/bitflyer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/bitflyer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/bitflyer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/bitflyer.md",
   "domain": "payment-firms",
   "title": "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)",
   "entry_type": "wiki_entry",
@@ -68,18 +73,18 @@
       "systems/bitflyer-blockchain"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/gmo-coin",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/systems/bitflyer-blockchain"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/gmo-coin/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
+      "https://finwiki.zksc.io/ja/systems/bitflyer-blockchain/"
     ],
     "external_links_count": 0,
     "external_links": []

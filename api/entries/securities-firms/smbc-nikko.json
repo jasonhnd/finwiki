@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/smbc-nikko",
   "source_path": "securities-firms/smbc-nikko.md",
-  "url": "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/smbc-nikko/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/smbc-nikko.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/smbc-nikko.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/smbc-nikko.md",
   "domain": "securities-firms",
   "title": "SMBC 日興証券 (SMBC Nikko Securities)",
   "entry_type": "wiki_entry",
@@ -75,18 +80,18 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jsda",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/jsda/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

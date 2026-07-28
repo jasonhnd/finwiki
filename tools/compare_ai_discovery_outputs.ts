@@ -3,7 +3,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { posix as pathPosix } from "node:path";
 
-const TARGET_FILES = [
+export const AI_DISCOVERY_TARGET_FILES = [
   "robots.txt",
   "sitemap.xml",
   "llms.txt",
@@ -52,9 +52,11 @@ async function assertEqualFile(baseA: string, baseB: string, relPath: string): P
   }
 }
 
-async function main(): Promise<void> {
-  const { expected, actual } = parseArgs(process.argv.slice(2));
-  for (const relPath of TARGET_FILES) {
+export async function compareAiDiscoveryOutputs(
+  expected: string,
+  actual: string,
+): Promise<{ surfaceFiles: number; apiJsonFiles: number }> {
+  for (const relPath of AI_DISCOVERY_TARGET_FILES) {
     await assertEqualFile(expected, actual, relPath);
   }
 
@@ -70,7 +72,20 @@ async function main(): Promise<void> {
   for (const relPath of expectedJsons) {
     await assertEqualFile(expectedApiRoot, actualApiRoot, relPath);
   }
-  console.log(`compare-ok files=${TARGET_FILES.length} api_jsons=${expectedJsons.length}`);
+  return {
+    surfaceFiles: AI_DISCOVERY_TARGET_FILES.length,
+    apiJsonFiles: expectedJsons.length,
+  };
 }
 
-await main();
+async function main(): Promise<void> {
+  const { expected, actual } = parseArgs(process.argv.slice(2));
+  const result = await compareAiDiscoveryOutputs(expected, actual);
+  console.log(
+    `compare-ok files=${result.surfaceFiles} api_jsons=${result.apiJsonFiles}`,
+  );
+}
+
+if (import.meta.main) {
+  await main();
+}

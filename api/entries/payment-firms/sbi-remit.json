@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/sbi-remit",
   "source_path": "payment-firms/sbi-remit.md",
-  "url": "https://finwiki.zksc.io/payment-firms/sbi-remit",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/sbi-remit/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/sbi-remit.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/sbi-remit.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/sbi-remit.md",
   "domain": "payment-firms",
   "title": "SBIレミット",
   "entry_type": "wiki_entry",
@@ -63,14 +68,14 @@
       "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/western-union-japan",
-      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/western-union-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/wise-payments-japan/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

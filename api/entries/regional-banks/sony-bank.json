@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/sony-bank",
   "source_path": "regional-banks/sony-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/sony-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/sony-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/sony-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/sony-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/sony-bank.md",
   "domain": "regional-banks",
   "title": "ソニー銀行 (Sony Bank)",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "regional-banks/daiwa-next-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
-      "https://finwiki.zksc.io/regional-banks/daiwa-next-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

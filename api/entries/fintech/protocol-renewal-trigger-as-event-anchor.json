@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/protocol-renewal-trigger-as-event-anchor",
   "source_path": "fintech/protocol-renewal-trigger-as-event-anchor.md",
-  "url": "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
+  "url": "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
+    "en": "https://finwiki.zksc.io/en/fintech/protocol-renewal-trigger-as-event-anchor/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/protocol-renewal-trigger-as-event-anchor.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/protocol-renewal-trigger-as-event-anchor.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor.md",
   "domain": "fintech",
   "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "fintech/stablecoin-revenue-split-economics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/enterprise-procurement-deadline-anchor",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/enterprise-procurement-deadline-anchor/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
     ],
     "external_links_count": 0,
     "external_links": []

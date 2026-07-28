@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/erc-7715-agent-payment-stack",
   "source_path": "agent-economy/erc-7715-agent-payment-stack.md",
-  "url": "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/erc-7715-agent-payment-stack/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/erc-7715-agent-payment-stack/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7715-agent-payment-stack.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7715-agent-payment-stack.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack.md",
   "domain": "agent-economy",
   "title": "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "systems/erc-7702-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-embedded-wallet-adoption/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-7702-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/hkma-stablecoin-licensing-overview",
   "source_path": "fintech/hkma-stablecoin-licensing-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/hkma-stablecoin-licensing-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/hkma-stablecoin-licensing-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/hkma-stablecoin-licensing-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview.md",
   "domain": "fintech",
   "title": "HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観",
   "entry_type": "wiki_entry",
@@ -66,17 +71,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
-      "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview",
-      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-implications/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

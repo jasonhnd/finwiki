@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-crypto-garage",
   "source_path": "exchanges/jp-exchange-crypto-garage.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-crypto-garage/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-crypto-garage.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-crypto-garage.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage.md",
   "domain": "exchanges",
   "title": "株式会社 Crypto Garage — 日本暗号資産交換業者 overview",
   "entry_type": "wiki_entry",
@@ -71,18 +76,18 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
-      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
+      "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
     "external_links_count": 10,
     "external_links": [

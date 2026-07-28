@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/smfl",
   "source_path": "leasing-firms/smfl.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/smfl",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/smfl/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/smfl.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/smfl.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/smfl.md",
   "domain": "leasing-firms",
   "title": "SMFL / Sumitomo Mitsui Finance and Leasing",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
-      "https://finwiki.zksc.io/leasing-firms/ntt-tc-lease",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/ntt-tc-lease/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

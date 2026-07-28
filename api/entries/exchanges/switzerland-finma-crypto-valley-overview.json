@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/switzerland-finma-crypto-valley-overview",
   "source_path": "exchanges/switzerland-finma-crypto-valley-overview.md",
-  "url": "https://finwiki.zksc.io/exchanges/switzerland-finma-crypto-valley-overview",
+  "url": "https://finwiki.zksc.io/ja/exchanges/switzerland-finma-crypto-valley-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/switzerland-finma-crypto-valley-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/switzerland-finma-crypto-valley-overview/",
+    "en": "https://finwiki.zksc.io/en/exchanges/switzerland-finma-crypto-valley-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/switzerland-finma-crypto-valley-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/switzerland-finma-crypto-valley-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/switzerland-finma-crypto-valley-overview.md",
   "domain": "exchanges",
   "title": "スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム",
   "entry_type": "wiki_entry",
@@ -63,16 +68,16 @@
       "fintech/global-stablecoin-regulatory-five-pole-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
-      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
-      "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview",
-      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+      "https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
+      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
+      "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/",
+      "https://finwiki.zksc.io/ja/exchanges/uk-fca-crypto-registration-overview/",
+      "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/"
     ],
     "external_links_count": 0,
     "external_links": []

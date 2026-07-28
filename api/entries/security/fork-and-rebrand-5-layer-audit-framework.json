@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/fork-and-rebrand-5-layer-audit-framework",
   "source_path": "security/fork-and-rebrand-5-layer-audit-framework.md",
-  "url": "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+  "url": "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+  "html_url": "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+    "en": "https://finwiki.zksc.io/en/security/fork-and-rebrand-5-layer-audit-framework/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/fork-and-rebrand-5-layer-audit-framework.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/fork-and-rebrand-5-layer-audit-framework.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework.md",
   "domain": "security",
   "title": "Fork and Rebrand プロジェクトの五層監査フレームワーク",
   "entry_type": "wiki_entry",
@@ -69,17 +74,17 @@
       "systems/hook-enforced-compliance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
-      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
-      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/hook-enforced-compliance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+      "https://finwiki.zksc.io/ja/exchanges/mtgox-bankruptcy-processing-timeline/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
+      "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/",
+      "https://finwiki.zksc.io/ja/security/wayback-machine-as-forensic-tool/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/hook-enforced-compliance/"
     ],
     "external_links_count": 0,
     "external_links": []

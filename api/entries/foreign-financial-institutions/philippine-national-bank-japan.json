@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "foreign-financial-institutions/philippine-national-bank-japan",
   "source_path": "foreign-financial-institutions/philippine-national-bank-japan.md",
-  "url": "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
+  "url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/philippine-national-bank-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/foreign-financial-institutions/philippine-national-bank-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/foreign-financial-institutions/philippine-national-bank-japan/",
+    "en": "https://finwiki.zksc.io/en/foreign-financial-institutions/philippine-national-bank-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/philippine-national-bank-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/philippine-national-bank-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan.md",
   "domain": "foreign-financial-institutions",
   "title": "フィリピン・ナショナル・バンク日本 (Philippine National Bank Japan)",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "payments/funds-transfer-service-providers-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
-      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
-      "https://finwiki.zksc.io/foreign-financial-institutions/metrobank-japan",
-      "https://finwiki.zksc.io/payment-firms/sbi-remit",
-      "https://finwiki.zksc.io/payment-firms/western-union-japan",
-      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/foreign-bank-branches-japan-index/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/metrobank-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
+      "https://finwiki.zksc.io/ja/payment-firms/western-union-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/wise-payments-japan/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/account-to-account-payment-japan/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-service-providers-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

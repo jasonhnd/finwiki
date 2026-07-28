@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/jp-exchange-jpyc",
   "source_path": "exchanges/jp-exchange-jpyc.md",
-  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+  "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
+    "en": "https://finwiki.zksc.io/en/exchanges/jp-exchange-jpyc/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-jpyc.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-jpyc.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc.md",
   "domain": "exchanges",
   "title": "JPYC 株式会社 — 日本円ステーブルコイン発行体（資金移動業者型）",
   "entry_type": "wiki_entry",
@@ -68,16 +73,16 @@
       "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
-      "https://finwiki.zksc.io/payment-firms/jpyc"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
     "external_links_count": 4,
     "external_links": [

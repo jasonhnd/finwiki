@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/openai-stripe-agentic-commerce-protocol",
   "source_path": "agent-economy/openai-stripe-agentic-commerce-protocol.md",
-  "url": "https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/openai-stripe-agentic-commerce-protocol/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/openai-stripe-agentic-commerce-protocol/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/openai-stripe-agentic-commerce-protocol/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/openai-stripe-agentic-commerce-protocol/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/openai-stripe-agentic-commerce-protocol.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/openai-stripe-agentic-commerce-protocol.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/openai-stripe-agentic-commerce-protocol.md",
   "domain": "agent-economy",
   "title": "OpenAI + Stripe Agentic Commerce Protocol · ChatGPT Instant Checkout",
   "entry_type": "wiki_entry",
@@ -71,14 +76,14 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position",
-      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-company-payment-landscape/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/stripe-agent-toolkit-position/",
+      "https://finwiki.zksc.io/ja/agent-economy/visa-mastercard-agentic-commerce-pilots/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

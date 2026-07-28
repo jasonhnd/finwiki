@@ -6,17 +6,18 @@ Quick index; the detailed entries are in [Playbooks](#playbooks).
 
 | Type | Symptom | First Response |
 |---|---|---|
-| Release gate failure | `release.ts --check --strict` exits non-zero. | Read failing section, fix root cause, rerun check. |
+| Release gate failure | `bun run verify` exits non-zero. | Read the named failing step, fix root cause, rerun the canonical command. |
 | Count drift | README/root homepage counts differ from generated counts. | `bun tools/release.ts --write`, review diff, strict check. |
 | Dead wikilink | Audit reports unresolved target. | Fix target, alias, route or remove invalid link. |
 | Canonical drift | Audit reports anchor drift. | Restore anchor page, fix `canonical_anchor`, or update body link. |
 | Active-doc stale facts | A developer doc states a superseded implementation fact (old domain count, removed mirror path, deprecated build step). | `bun run docs:stale` to locate; correct the doc or move the fact to dated history/ADR/archive. |
 | Docs leakage | `docs/` appears as a source/page/API entry or crawlable link in a generated surface. | `bun run surface:drift` to locate; fix `EXCLUDED_WALK_DIRS` / markdown-link filtering; `release.ts --write`. |
 | Stale API residue | `api/entries/<old-domain\|old-slug>.json` remains after a domain/slug move. | `bun run surface:drift`; `release.ts --write` clears `api/entries/`; stage deletions + new JSON together. |
-| `.txt` route failure | `bun run ai:audit` reports an invalid public route in `llms*.txt`. | Fix the generator/source route (or the body wikilink it derives from), `release.ts --write`. |
+| Generated route failure | `bun run ai:audit --out <dir>` reports an invalid URL from llms, sitemap, index or API output. | Fix URL construction, wikilink resolution or assembly; regenerate and rebuild before rerunning the audit. |
+| Exact-regeneration drift | `bun run surface:drift` reports `exact-regeneration-drift`. | Keep committed timestamps fixed, locate the first mismatched surface/API JSON, and remove nondeterminism or stale output. |
 | i18n stale spike | Source hashes/source pointers show a large unexpected stale or missing set. | `bun tools/i18n_status.ts`, inspect recent domain moves; never rewrite `source_hash` to hide staleness. |
-| Lastmod pollution | Large sitemap/API lastmod diff after no content edit. | Restore mtimes or revert generated drift, then rerun release write (gotchas #1). |
-| Build failure | Site build or `html:check` fails locally or in Actions. | Reproduce `cd site && bun install && bun run build` + `bun run html:check`; patch forward. |
+| Lastmod drift | Sitemap/API `last_modified` disagrees with source history. | Check checkout depth, full/shallow Git date and committed `ai-index.json` fallback in that order; mtime is terminal only. |
+| Build failure | Typecheck, Astro, Pagefind, required-route or HTML gate fails locally or in Actions. | Reproduce with `bun run verify`; use the named targeted command for diagnosis, then patch forward. |
 | Deployment failure | "Deploy FinWiki" Actions run fails after push. | `gh run view <id> --log-failed`, reproduce the step locally, patch forward. |
 | UI visual regression | Japanese UI chrome shows English fallback, overflow or unreadable theme state. | Run visual QA checklist, build locally, patch CSS/i18n tokens, verify public route. |
 | Sensitive info exposure | Private data appears in tracked file. | Remove immediately, rotate credentials if applicable, record minimal public-safe incident note. |
@@ -49,6 +50,22 @@ Each playbook: symptom -> likely causes -> inspect -> repair -> exit.
 - **Repair**: `bun tools/release.ts --write` (clears + rewrites `api/entries/`), stage deletions + new JSON together, recommit.
 - **Exit**: `bun run surface:drift` EXIT 0.
 
+### Generated route failure
+
+- **Symptom**: `ai:audit` reports a generated internal URL with no non-empty regular file in the assembled output.
+- **Likely causes**: extensionless raw entry URL, wrong locale/domain-index route, unresolved wikilink emitted as a guessed URL, same-host wrong scheme/port, stale generated surface, or missing assembly input.
+- **Inspect**: build/assemble first, then run `bun run ai:audit --out _site`; use the reported surface/key context to trace the URL owner.
+- **Repair**: preserve `/ja/<route>/` canonical, `/en/<route>/` alternate and explicit `.md` raw semantics; fix the helper/generator or assembler, run `bun tools/release.ts --write`, rebuild.
+- **Exit**: `Generated route audit passed: ... resolve in the assembled artifact.` and `bun run verify --out _site` EXIT 0.
+
+### Exact-regeneration or `last_modified` drift
+
+- **Symptom**: `surface:drift` reports `exact-regeneration-drift`, often naming a per-entry API JSON after a `last_modified` difference.
+- **Likely causes**: generated files were not refreshed after the source commit, a nondeterministic field bypasses the fixed timestamps, a tracked working-tree edit still sees the previous commit date, or a new file is using the fs-mtime fallback.
+- **Inspect**: `bun run surface:drift`; for a date mismatch, check `git rev-parse --is-shallow-repository`, full/shallow `git log -1 --format=%cs -- <source-path>`, then the existing `ai-index.json` source-path date.
+- **Repair**: canonical GitHub workflows must retain `fetch-depth: 0`. Commit the intended source change, rerun `bun tools/release.ts --write`, and review the complete generated diff; amend or add a release-sync commit and rerun the final gate. Do not restore mtimes or bypass a valid committed discovery fallback.
+- **Exit**: `Generated-surface drift scan passed: ... fixed-timestamp regeneration is byte-identical (including last_modified) ...`.
+
 ### Canonical anchor drift
 
 - **Symptom**: `release.ts --check` / `wiki_link_audit --fail-on-canonical-drift` reports `canonical_anchor_drift > 0`.
@@ -66,17 +83,17 @@ Each playbook: symptom -> likely causes -> inspect -> repair -> exit.
 
 ### Site build failure
 
-- **Symptom**: local `site` build or `bun run html:check` fails, or the Actions "Build human site" / "Build static search index" step fails.
-- **Likely causes**: `site/src/content.config.ts` / content-collection / i18n config change; duplicate HTML ids; a missing mirror file. `site/` often has no local deps, so Actions may be the first real build (gotchas #3).
-- **Inspect**: `cd site && bun install && bun run build`, then `bun run html:check`.
-- **Repair**: fix the config/content issue, rebuild, recheck; if only reproducible in CI, patch forward and `gh run watch`.
-- **Exit**: site build + `bun run html:check` EXIT 0 locally and in Actions.
+- **Symptom**: `bun run verify` fails at typecheck, Astro build, duplicate-ID, Pagefind, assembly, or required-route check.
+- **Likely causes**: content-collection / i18n config change, a type error, duplicate HTML ids, a missing mirror, unsafe assembly input, or a missing final artifact.
+- **Inspect**: rerun the named targeted command only to shorten diagnosis; keep the frozen install and final full command for acceptance.
+- **Repair**: fix the config/content/output issue, then rerun `bun run verify`; if deployment alone fails, inspect Pages/Vercel logs and patch forward.
+- **Exit**: canonical verification is green locally and in the fresh Actions context.
 
 ### GitHub Actions deploy failure
 
 - **Symptom**: the "Deploy FinWiki" run fails after push.
 - **Inspect**: `gh run list --branch main --limit 5`, then `gh run view <run-id> --log-failed`.
-- **Likely causes**: a step that cannot run locally (`wiki:audit:ci`, site build, `html:check`, `index:search`, publish assemble) or a Pages/permissions issue.
+- **Likely causes**: a canonical verification step regressed, or Pages permissions/deployment failed after the verified artifact was produced.
 - **Repair**: reproduce the failing step locally where possible, patch forward, push a corrective commit; record validation + residual risk in `CHANGELOG.md`.
 - **Exit**: a fresh run is green (`gh run watch <run-id> --exit-status`).
 

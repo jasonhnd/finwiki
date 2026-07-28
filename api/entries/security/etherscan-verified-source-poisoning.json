@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "security/etherscan-verified-source-poisoning",
   "source_path": "security/etherscan-verified-source-poisoning.md",
-  "url": "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning",
+  "url": "https://finwiki.zksc.io/ja/security/etherscan-verified-source-poisoning/",
+  "html_url": "https://finwiki.zksc.io/ja/security/etherscan-verified-source-poisoning/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/security/etherscan-verified-source-poisoning/",
+    "en": "https://finwiki.zksc.io/en/security/etherscan-verified-source-poisoning/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/etherscan-verified-source-poisoning.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/etherscan-verified-source-poisoning.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning.md",
   "domain": "security",
   "title": "Etherscan verified-source poisoning — why \"verified\" is not \"the bytecode\"",
   "entry_type": "wiki_entry",
@@ -65,12 +70,12 @@
       "security/proxy-upgrade-rug-pattern"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
-      "https://finwiki.zksc.io/security/INDEX",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern"
+      "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
+      "https://finwiki.zksc.io/ja/domains/security/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/security/fork-and-rebrand-5-layer-audit-framework/",
+      "https://finwiki.zksc.io/ja/security/proxy-upgrade-rug-pattern/"
     ],
     "external_links_count": 1,
     "external_links": [

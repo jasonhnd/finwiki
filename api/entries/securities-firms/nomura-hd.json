@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/nomura-hd",
   "source_path": "securities-firms/nomura-hd.md",
-  "url": "https://finwiki.zksc.io/securities-firms/nomura-hd",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/nomura-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/nomura-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/nomura-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/nomura-hd.md",
   "domain": "securities-firms",
   "title": "野村ホールディングス (Nomura HD)",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/domains/securities/",
+      "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/"
     ],
     "external_links_count": 0,
     "external_links": []

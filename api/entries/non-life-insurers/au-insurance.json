@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/au-insurance",
   "source_path": "non-life-insurers/au-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/au-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/au-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/au-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/au-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/au-insurance.md",
   "domain": "non-life-insurers",
   "title": "au損害保険",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "retail/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/rakuten-general-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sbi-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/retail/INDEX"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/aioi-nissay-dowa-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/rakuten-general-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+      "https://finwiki.zksc.io/ja/domains/retail/"
     ],
     "external_links_count": 0,
     "external_links": []

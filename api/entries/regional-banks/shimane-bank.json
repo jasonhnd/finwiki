@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/shimane-bank",
   "source_path": "regional-banks/shimane-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/shimane-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/shimane-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shimane-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/shimane-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/shimane-bank.md",
   "domain": "regional-banks",
   "title": "島根銀行",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "regional-banks/tottori-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/momiji-bank",
-      "https://finwiki.zksc.io/regional-banks/san-in-godo-bank",
-      "https://finwiki.zksc.io/regional-banks/tottori-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-regional-bank-hd/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/momiji-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/san-in-godo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/tottori-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

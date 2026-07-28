@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/privy-aws-agentcore-default-wallet",
   "source_path": "agent-economy/privy-aws-agentcore-default-wallet.md",
-  "url": "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/privy-aws-agentcore-default-wallet/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/privy-aws-agentcore-default-wallet.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/privy-aws-agentcore-default-wallet.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet.md",
   "domain": "agent-economy",
   "title": "Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
-      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/solana-saga-vs-embedded-wallet-os-thesis/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
+      "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

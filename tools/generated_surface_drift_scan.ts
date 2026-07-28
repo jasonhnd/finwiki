@@ -1,19 +1,35 @@
 #!/usr/bin/env bun
 
-import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
+import { spawnSync } from "node:child_process";
+import {
+  existsSync,
+  mkdtempSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  statSync,
+} from "node:fs";
+import os from "node:os";
 import path from "node:path";
-import { iterMarkdownFiles, isPublicPage, SITE_URL } from "../lib/markdown_helpers";
+import {
+  AUDIT_ARTIFACT_DIR_NAME,
+  iterMarkdownFiles,
+  isPublicPage,
+  SITE_URL,
+} from "../lib/markdown_helpers";
+import { compareAiDiscoveryOutputs } from "./compare_ai_discovery_outputs";
 
 /**
  * Generated-Surface Drift Scan
  *
  * Field-aware checks that the generated public surfaces stay aligned with the
- * current corpus and never leak `docs/` (which is intentionally excluded from
- * the public surface). Complements release.ts --check; see
+ * current corpus and never leak excluded developer documents, audit artifacts,
+ * or local filesystem paths. Complements release.ts --check; see
  * docs/05-functional-specs/ai-discovery-surface.md and release-gate.md.
  *
  * Two failure classes (release-gate.md "Failure Handling"):
- *   - docs leakage: a docs/ path appears as a route / source / API entry / link.
+ *   - excluded-path leakage: docs/, audit artifacts, or local paths appear in a
+ *     route / source / API entry / link.
  *   - stale API residue: an api/entries/*.json without a current corpus entry
  *     (or a corpus entry without its API file / manifest row).
  *
@@ -55,6 +71,34 @@ function isInternalDocsRef(value: string): boolean {
     /^(?:\.{1,2}\/)+docs\//.test(value) ||
     value.startsWith(`${SITE_URL}docs/`)
   );
+}
+
+function isAuditArtifactRef(value: string): boolean {
+  const normalized = value.replaceAll("\\", "/");
+  return (
+    normalized === AUDIT_ARTIFACT_DIR_NAME ||
+    normalized.startsWith(`${AUDIT_ARTIFACT_DIR_NAME}/`) ||
+    normalized.includes(`/${AUDIT_ARTIFACT_DIR_NAME}/`) ||
+    normalized.endsWith(`/${AUDIT_ARTIFACT_DIR_NAME}`)
+  );
+}
+
+function hasLocalFilesystemPath(value: string): boolean {
+  const normalized = value.replaceAll("\\", "/");
+  return (
+    /(?:^|[\s`"'(=])(?:\/Users\/|\/home\/[^/\s]+\/|\/tmp\/|\/private\/var\/|\/var\/folders\/|\/vercel\/path\d*\/|[A-Za-z]:\/)/.test(
+      normalized,
+    ) || normalized.includes("file://")
+  );
+}
+
+function scanStringForPrivateLeaks(value: string, surface: string, keyPath: string): void {
+  if (isAuditArtifactRef(value)) {
+    report(surface, "audit-artifact-leak", `${keyPath} = ${value}`);
+  }
+  if (hasLocalFilesystemPath(value)) {
+    report(surface, "local-path-leak", `${keyPath} = ${value}`);
+  }
 }
 
 // Per-entry API inclusion mirrors writeApiEntries in generate_ai_discovery.ts:
@@ -122,7 +166,27 @@ function checkApiAlignment(expected: Set<string>): void {
   for (const slug of manifestSlugs) {
     if (!expected.has(slug)) report("api/entries/index.json", "manifest-stale", `manifest lists non-corpus slug "${slug}"`);
   }
-  scanJsonForDocs(manifest, "api/entries/index.json");
+  scanJsonForLeaks(manifest, "api/entries/index.json");
+}
+
+function checkApiEntryLeaks(directory = API_DIR): void {
+  if (!existsSync(directory)) return;
+  for (const name of readdirSync(directory)) {
+    const fullPath = path.join(directory, name);
+    const fileStat = statSync(fullPath);
+    if (fileStat.isDirectory()) {
+      checkApiEntryLeaks(fullPath);
+      continue;
+    }
+    if (!name.endsWith(".json")) continue;
+    const relativePath = toPosix(path.relative(ROOT, fullPath));
+    if (relativePath === "api/entries/index.json") continue;
+    try {
+      scanJsonForLeaks(JSON.parse(readFileSync(fullPath, "utf-8")), relativePath);
+    } catch (error) {
+      report(relativePath, "invalid-json", String(error));
+    }
+  }
 }
 
 // URL- and path-bearing keys. Free-text keys (summary, headings, scope, title)
@@ -148,22 +212,31 @@ const URLISH_KEYS = new Set([
 ]);
 const URL_ARRAY_KEYS = new Set(["resolved_wikilinks", "markdown_links", "external_links"]);
 
-function scanJsonForDocs(node: unknown, surface: string, keyPath = ""): void {
+function scanJsonForLeaks(node: unknown, surface: string, keyPath = ""): void {
   if (Array.isArray(node)) {
-    node.forEach((item, index) => scanJsonForDocs(item, surface, `${keyPath}[${index}]`));
+    node.forEach((item, index) => scanJsonForLeaks(item, surface, `${keyPath}[${index}]`));
     return;
   }
   if (node && typeof node === "object") {
     for (const [key, value] of Object.entries(node)) {
       const childPath = keyPath ? `${keyPath}.${key}` : key;
       if (typeof value === "string") {
+        scanStringForPrivateLeaks(value, surface, childPath);
         if (URLISH_KEYS.has(key) && isInternalDocsRef(value)) report(surface, "docs-leak", `${childPath} = ${value}`);
-      } else if (Array.isArray(value) && URL_ARRAY_KEYS.has(key)) {
+      } else if (Array.isArray(value)) {
         value.forEach((item, index) => {
-          if (typeof item === "string" && isInternalDocsRef(item)) report(surface, "docs-leak", `${childPath}[${index}] = ${item}`);
+          const itemPath = `${childPath}[${index}]`;
+          if (typeof item === "string") {
+            scanStringForPrivateLeaks(item, surface, itemPath);
+            if (URL_ARRAY_KEYS.has(key) && isInternalDocsRef(item)) {
+              report(surface, "docs-leak", `${itemPath} = ${item}`);
+            }
+          } else {
+            scanJsonForLeaks(item, surface, itemPath);
+          }
         });
       } else {
-        scanJsonForDocs(value, surface, childPath);
+        scanJsonForLeaks(value, surface, childPath);
       }
     }
   }
@@ -175,7 +248,7 @@ function checkAiIndex(): void {
     report("ai-index.json", "missing", "ai-index.json not found");
     return;
   }
-  scanJsonForDocs(JSON.parse(readFileSync(aiIndexPath, "utf-8")), "ai-index.json");
+  scanJsonForLeaks(JSON.parse(readFileSync(aiIndexPath, "utf-8")), "ai-index.json");
 }
 
 function checkSitemap(): void {
@@ -189,6 +262,7 @@ function checkSitemap(): void {
   let match: RegExpExecArray | null;
   while ((match = locRe.exec(text)) !== null) {
     if (isInternalDocsRef(match[1])) report("sitemap.xml", "docs-leak", `<loc>${match[1]}</loc>`);
+    scanStringForPrivateLeaks(match[1], "sitemap.xml", "<loc>");
   }
 }
 
@@ -206,6 +280,7 @@ function checkTextSurface(file: string, options: { fieldLines?: boolean }): void
   const fieldRe = /^- (URL|Source path|GitHub source|Canonical anchor):/;
   lines.forEach((line, index) => {
     const trimmed = line.trim().slice(0, 140);
+    scanStringForPrivateLeaks(line, file, `:${index + 1}`);
     if (line.includes(docsUrl) || /\]\((?:\.{0,2}\/)*docs\//.test(line)) {
       report(file, "docs-leak", `:${index + 1} ${trimmed}`);
       return;
@@ -216,16 +291,88 @@ function checkTextSurface(file: string, options: { fieldLines?: boolean }): void
   });
 }
 
+async function checkExactRegeneration(): Promise<void> {
+  const aiIndexPath = path.join(ROOT, "ai-index.json");
+  const apiIndexPath = path.join(API_DIR, "index.json");
+  if (!existsSync(aiIndexPath) || !existsSync(apiIndexPath)) return;
+
+  let generatedAt = "";
+  let apiGeneratedAt = "";
+  try {
+    generatedAt = String(
+      (JSON.parse(readFileSync(aiIndexPath, "utf8")) as { generated_at?: unknown })
+        .generated_at ?? "",
+    );
+    apiGeneratedAt = String(
+      (JSON.parse(readFileSync(apiIndexPath, "utf8")) as { generated_at?: unknown })
+        .generated_at ?? "",
+    );
+  } catch (error) {
+    report("discovery regeneration", "invalid-generated-timestamp", String(error));
+    return;
+  }
+  if (!generatedAt || !apiGeneratedAt) {
+    report(
+      "discovery regeneration",
+      "missing-generated-timestamp",
+      "ai-index.json and api/entries/index.json must declare generated_at",
+    );
+    return;
+  }
+
+  const regeneratedRoot = mkdtempSync(
+    path.join(os.tmpdir(), "finwiki-discovery-regeneration-"),
+  );
+  try {
+    const generator = spawnSync(
+      process.execPath,
+      [
+        path.join(ROOT, "tools", "generate_ai_discovery.ts"),
+        `--root=${ROOT}`,
+        `--out-dir=${regeneratedRoot}`,
+        `--generated-at=${generatedAt}`,
+        `--api-index-generated-at=${apiGeneratedAt}`,
+      ],
+      {
+        cwd: ROOT,
+        encoding: "utf8",
+        maxBuffer: 16 * 1024 * 1024,
+      },
+    );
+    if (generator.status !== 0) {
+      report(
+        "discovery regeneration",
+        "generator-failed",
+        `${generator.stderr || generator.stdout}`.trim().slice(0, 1200),
+      );
+      return;
+    }
+    try {
+      await compareAiDiscoveryOutputs(ROOT, regeneratedRoot);
+    } catch (error) {
+      report(
+        "discovery regeneration",
+        "exact-regeneration-drift",
+        error instanceof Error ? error.message : String(error),
+      );
+    }
+  } finally {
+    rmSync(regeneratedRoot, { recursive: true, force: true });
+  }
+}
+
 async function main(): Promise<void> {
   console.log(`${ANSI_YELLOW}🔍 Scanning generated public surfaces for drift...${ANSI_RESET}`);
 
   const expected = await expectedApiSlugs();
   checkApiAlignment(expected);
+  checkApiEntryLeaks();
   checkAiIndex();
   checkSitemap();
   checkTextSurface("llms.txt", {});
   checkTextSurface("llms-full.txt", { fieldLines: true });
   checkTextSurface("robots.txt", {});
+  await checkExactRegeneration();
 
   if (findings.length > 0) {
     for (const finding of findings) {
@@ -234,13 +381,13 @@ async function main(): Promise<void> {
     }
     console.error(`\n${ANSI_RED}Generated-surface drift scan failed: ${findings.length} issue(s).${ANSI_RESET}`);
     console.error(
-      `${ANSI_DIM}docs leakage -> verify EXCLUDED_WALK_DIRS / link filtering. stale API / count drift -> run \`bun tools/release.ts --write\` and recommit the regenerated surface.${ANSI_RESET}`,
+      `${ANSI_DIM}excluded-path leakage -> verify shared walk exclusions and artifact output paths. stale API / count drift -> run \`bun tools/release.ts --write\` and recommit the regenerated surface.${ANSI_RESET}`,
     );
     process.exit(1);
   }
 
   console.log(
-    `\n${ANSI_GREEN}Generated-surface drift scan passed: API aligned (${expected.size} entries), no docs leakage across ai-index / api / sitemap / llms / llms-full / robots.${ANSI_RESET}`,
+    `\n${ANSI_GREEN}Generated-surface drift scan passed: API aligned (${expected.size} entries), fixed-timestamp regeneration is byte-identical (including last_modified), and no docs / audit-artifact / local-path leakage exists across ai-index / api / sitemap / llms / llms-full / robots.${ANSI_RESET}`,
   );
   process.exit(0);
 }

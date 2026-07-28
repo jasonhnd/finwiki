@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/au-jibun-bank",
   "source_path": "regional-banks/au-jibun-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/au-jibun-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/au-jibun-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/au-jibun-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/au-jibun-bank.md",
   "domain": "regional-banks",
   "title": "au じぶん銀行 (au Jibun Bank)",
   "entry_type": "wiki_entry",
@@ -72,14 +77,14 @@
       "trust-banks/orix-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/mufg-bank",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/sony-bank",
-      "https://finwiki.zksc.io/trust-banks/orix-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/paypay-bank/",
+      "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/orix-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

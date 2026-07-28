@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/ryukyu-bank",
   "source_path": "regional-banks/ryukyu-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/ryukyu-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/ryukyu-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/ryukyu-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/ryukyu-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/ryukyu-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ryukyu-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ryukyu-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/ryukyu-bank.md",
   "domain": "regional-banks",
   "title": "株式会社琉球銀行",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "regional-banks/okinawa-kaiho-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
-      "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/okinawa-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/okinawa-kaiho-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

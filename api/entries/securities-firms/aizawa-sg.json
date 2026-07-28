@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/aizawa-sg",
   "source_path": "securities-firms/aizawa-sg.md",
-  "url": "https://finwiki.zksc.io/securities-firms/aizawa-sg",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/aizawa-sg/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/aizawa-sg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/aizawa-sg/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/aizawa-sg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/aizawa-sg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/aizawa-sg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/aizawa-sg.md",
   "domain": "securities-firms",
   "title": "アイザワ証券グループ (Aizawa Securities Group)",
   "entry_type": "wiki_entry",
@@ -70,17 +75,17 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
-      "https://finwiki.zksc.io/securities-firms/matsui-sec",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
-      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/iwai-cosmo-hd/",
+      "https://finwiki.zksc.io/ja/securities-firms/matsui-sec/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
+      "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+      "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

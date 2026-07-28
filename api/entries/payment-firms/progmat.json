@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/progmat",
   "source_path": "payment-firms/progmat.md",
-  "url": "https://finwiki.zksc.io/payment-firms/progmat",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/progmat/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/progmat/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/progmat.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/progmat.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/progmat.md",
   "domain": "payment-firms",
   "title": "株式会社Progmat",
   "entry_type": "wiki_entry",
@@ -66,16 +71,16 @@
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

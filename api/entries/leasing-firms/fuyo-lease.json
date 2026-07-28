@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "leasing-firms/fuyo-lease",
   "source_path": "leasing-firms/fuyo-lease.md",
-  "url": "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
+  "url": "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+  "html_url": "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
+    "en": "https://finwiki.zksc.io/en/leasing-firms/fuyo-lease/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/fuyo-lease.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/fuyo-lease.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/fuyo-lease.md",
   "domain": "leasing-firms",
   "title": "芙蓉総合リース",
   "entry_type": "wiki_entry",
@@ -65,13 +70,13 @@
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
+      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
     "external_links_count": 0,
     "external_links": []

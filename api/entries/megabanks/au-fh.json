@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/au-fh",
   "source_path": "megabanks/au-fh.md",
-  "url": "https://finwiki.zksc.io/megabanks/au-fh",
+  "url": "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/au-fh/",
+    "en": "https://finwiki.zksc.io/en/megabanks/au-fh/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/au-fh.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/au-fh.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/au-fh.md",
   "domain": "megabanks",
   "title": "au フィナンシャルホールディングス (au-FH)",
   "entry_type": "wiki_entry",
@@ -74,17 +79,17 @@
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/life-insurers/lifenet",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/regional-banks/ssnb"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/life-insurers/lifenet/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
     ],
     "external_links_count": 0,
     "external_links": []

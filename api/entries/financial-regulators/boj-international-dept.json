@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/boj-international-dept",
   "source_path": "financial-regulators/boj-international-dept.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/boj-international-dept/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/boj-international-dept/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/boj-international-dept/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/boj-international-dept/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/boj-international-dept.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/boj-international-dept.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/boj-international-dept.md",
   "domain": "financial-regulators",
   "title": "国際局 (BoJ International Department)",
   "entry_type": "wiki_entry",
@@ -75,18 +80,18 @@
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
-      "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
-      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
-      "https://finwiki.zksc.io/financial-regulators/boj-payment-settlement-dept",
-      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-china-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
-      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
-      "https://finwiki.zksc.io/money-market/japan-money-market"
+      "https://finwiki.zksc.io/ja/financial-licenses/foreign-bank-branch-license-route/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-markets-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-financial-system-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-payment-settlement-dept/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa-strategy-bureau/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-china-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/bnp-paribas-japan/",
+      "https://finwiki.zksc.io/ja/foreign-financial-institutions/credit-agricole-bank-japan/",
+      "https://finwiki.zksc.io/ja/money-market/japan-money-market/"
     ],
     "external_links_count": 0,
     "external_links": []

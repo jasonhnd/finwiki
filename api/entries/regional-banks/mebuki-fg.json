@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/mebuki-fg",
   "source_path": "regional-banks/mebuki-fg.md",
-  "url": "https://finwiki.zksc.io/regional-banks/mebuki-fg",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/mebuki-fg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/mebuki-fg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/mebuki-fg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/mebuki-fg.md",
   "domain": "regional-banks",
   "title": "めぶき FG (Mebuki FG)",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "regional-banks/fukuoka-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/chiba-bank",
-      "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/chiba-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

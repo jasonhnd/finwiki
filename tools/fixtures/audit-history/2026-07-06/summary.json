@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-07-05T19:47:32.200Z",
+  "as_of": "2026-07-06",
+  "audits": {
+    "fact_freshness": {
+      "actionable_rows": 49
+    }
+  }
+}

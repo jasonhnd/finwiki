@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/td-hd",
   "source_path": "life-insurers/td-hd.md",
-  "url": "https://finwiki.zksc.io/life-insurers/td-hd",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/td-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/td-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/td-hd/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/td-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/td-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/td-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/td-hd.md",
   "domain": "life-insurers",
   "title": "T&D ホールディングス (T&D Holdings)",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/sony-fg"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/kampo-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sony-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

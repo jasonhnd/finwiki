@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/seven-payment-service",
   "source_path": "payment-firms/seven-payment-service.md",
-  "url": "https://finwiki.zksc.io/payment-firms/seven-payment-service",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/seven-payment-service/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/seven-payment-service.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/seven-payment-service.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/seven-payment-service.md",
   "domain": "payment-firms",
   "title": "セブン・ペイメントサービス",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/jal-payment-port",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/ja/card-issuers/seven-card-service/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/jal-payment-port/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
+      "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
+      "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
     "external_links_count": 0,
     "external_links": []

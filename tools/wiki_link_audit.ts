@@ -3,6 +3,7 @@
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
+import { AUDIT_ARTIFACT_DIR_NAME } from "../lib/markdown_helpers";
 
 const ROOT = path.resolve(import.meta.dir, "..");
 
@@ -11,6 +12,7 @@ const IGNORED_DIRS = new Set([
   ".github",
   ".templates",
   ".opinions",
+  AUDIT_ARTIFACT_DIR_NAME,
   "docs",
   "releases",
   "tools",
@@ -29,6 +31,7 @@ const CONTROL_DOCS = new Set([
   "SCHEMA.md",
   "OBSIDIAN-SETUP.md",
   "wiki-link-improvement-plan.md",
+  "ROADMAP.md",
 ]);
 
 const SYSTEM_KEYWORDS = [
@@ -368,7 +371,9 @@ function loadEntriesSync(): Map<string, Entry> {
     const text = readFileSync(filePath, "utf8");
     const { frontmatter, body } = parseFrontmatter(text);
     const rel = toPosix(path.relative(ROOT, filePath));
-    const domain = asString(frontmatter.domain) || path.basename(path.dirname(filePath));
+    const domain =
+      asString(frontmatter.domain) ||
+      (rel.includes("/") ? rel.split("/", 1)[0] : "root");
     const title = asString(frontmatter.title) || path.basename(filePath, ".md");
     const aliases = asList(frontmatter.aliases);
     const tags = asList(frontmatter.tags);

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/local-bond-market",
   "source_path": "financial-regulators/local-bond-market.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/local-bond-market",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/local-bond-market/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/local-bond-market/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/local-bond-market.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/local-bond-market.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/local-bond-market.md",
   "domain": "financial-regulators",
   "title": "Japan local government bond market",
   "entry_type": "wiki_entry",
@@ -71,18 +76,18 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
-      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/financial-regulators/dbj",
-      "https://finwiki.zksc.io/financial-regulators/japan-policy-finance-map",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/financial-regulators/local-govt-finance",
-      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
-      "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
+      "https://finwiki.zksc.io/ja/financial-regulators/central-tanshi/",
+      "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-policy-finance-map/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/financial-regulators/local-govt-finance/",
+      "https://finwiki.zksc.io/ja/financial-regulators/tokyo-tanshi/",
+      "https://finwiki.zksc.io/ja/domains/money-market/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []

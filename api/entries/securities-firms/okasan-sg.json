@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/okasan-sg",
   "source_path": "securities-firms/okasan-sg.md",
-  "url": "https://finwiki.zksc.io/securities-firms/okasan-sg",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/okasan-sg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/okasan-sg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/okasan-sg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/okasan-sg.md",
   "domain": "securities-firms",
   "title": "岡三証券グループ (Okasan Securities Group)",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
+      "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

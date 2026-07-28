@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/kiraboshi-bank",
   "source_path": "regional-banks/kiraboshi-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/kiraboshi-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kiraboshi-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kiraboshi-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/kiraboshi-bank.md",
   "domain": "regional-banks",
   "title": "きらぼし銀行",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/banking/ui-bank",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/kiraboshi-fg",
-      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
-      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/banking/ui-bank/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/tokyo-star-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

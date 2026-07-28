@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/japan-third-party-allotment-5-step-flow",
   "source_path": "fintech/japan-third-party-allotment-5-step-flow.md",
-  "url": "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow",
+  "url": "https://finwiki.zksc.io/ja/fintech/japan-third-party-allotment-5-step-flow/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/japan-third-party-allotment-5-step-flow/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/japan-third-party-allotment-5-step-flow/",
+    "en": "https://finwiki.zksc.io/en/fintech/japan-third-party-allotment-5-step-flow/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-third-party-allotment-5-step-flow.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-third-party-allotment-5-step-flow.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow.md",
   "domain": "fintech",
   "title": "日本上場会社 第三者割当増資の 5 段階フロー",
   "entry_type": "wiki_entry",
@@ -57,12 +62,12 @@
       "fintech/japan-listed-company-disclosure-monitoring"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/fintech/gold-tokenization-scheme-comparison",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/finance/japan-large-shareholding-disclosure/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/fintech/gold-tokenization-scheme-comparison/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-listed-company-disclosure-monitoring/"
     ],
     "external_links_count": 0,
     "external_links": []

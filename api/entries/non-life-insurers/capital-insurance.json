@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/capital-insurance",
   "source_path": "non-life-insurers/capital-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/capital-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/capital-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/capital-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/capital-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/capital-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/capital-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/capital-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/capital-insurance.md",
   "domain": "non-life-insurers",
   "title": "Capital Insurance / キャピタル損害保険",
   "entry_type": "wiki_entry",
@@ -61,14 +66,14 @@
       "non-life-insurers/sakura-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/financial-regulators/cci-group",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/capital-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sakura-insurance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/",
+      "https://finwiki.zksc.io/ja/financial-regulators/cci-group/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/capital-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sakura-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

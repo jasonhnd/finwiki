@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/hyperledger-besu-overview",
   "source_path": "systems/hyperledger-besu-overview.md",
-  "url": "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
+  "url": "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/hyperledger-besu-overview/",
+    "en": "https://finwiki.zksc.io/en/systems/hyperledger-besu-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperledger-besu-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperledger-besu-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/hyperledger-besu-overview.md",
   "domain": "systems",
   "title": "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
   "entry_type": "wiki_entry",
@@ -64,15 +69,15 @@
       "systems/hyperledger-besu-vs-canton-migration"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/hyperledger-besu-vs-canton-migration/"
     ],
     "external_links_count": 0,
     "external_links": []

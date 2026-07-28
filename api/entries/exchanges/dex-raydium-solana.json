@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/dex-raydium-solana",
   "source_path": "exchanges/dex-raydium-solana.md",
-  "url": "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
+  "url": "https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/",
+    "en": "https://finwiki.zksc.io/en/exchanges/dex-raydium-solana/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-raydium-solana.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-raydium-solana.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/dex-raydium-solana.md",
   "domain": "exchanges",
   "title": "Raydium — Solana 系老舗 AMM / memecoin 流動性 hub overview",
   "entry_type": "wiki_entry",
@@ -66,12 +71,12 @@
       "exchanges/solana-ecosystem-dex-comparison"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/dex-orca-solana/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/"
     ],
     "external_links_count": 0,
     "external_links": []

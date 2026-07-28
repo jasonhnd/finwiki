@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/jaccs",
   "source_path": "card-issuers/jaccs.md",
-  "url": "https://finwiki.zksc.io/card-issuers/jaccs",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/jaccs/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/jaccs.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/jaccs.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/jaccs.md",
   "domain": "card-issuers",
   "title": "株式会社ジャックス (Jaccs)",
   "entry_type": "wiki_entry",
@@ -65,12 +70,12 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/credit-saison",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

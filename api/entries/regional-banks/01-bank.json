@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/01-bank",
   "source_path": "regional-banks/01-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/01-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/01-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/01-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/01-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/01-bank.md",
   "domain": "regional-banks",
   "title": "01銀行 (01Bank)",
   "entry_type": "wiki_entry",
@@ -74,14 +79,14 @@
       "regional-banks/ui-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/baas-japan-landscape",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
-      "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/regional-banks/ui-bank"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/baas-japan-landscape/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/hokkoku-fhd/",
+      "https://finwiki.zksc.io/ja/regional-banks/ikeda-senshu-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/ui-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

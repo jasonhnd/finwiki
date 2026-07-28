@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/kiyo-bank",
   "source_path": "regional-banks/kiyo-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/kiyo-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/kiyo-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/kiyo-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/kiyo-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/kiyo-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kiyo-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kiyo-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/kiyo-bank.md",
   "domain": "regional-banks",
   "title": "株式会社紀陽銀行 (The Kiyo Bank)",
   "entry_type": "wiki_entry",
@@ -69,18 +74,18 @@
       "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
-      "https://finwiki.zksc.io/regional-banks/nanto-bank",
-      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/ikeda-senshu-hd/",
+      "https://finwiki.zksc.io/ja/regional-banks/kyoto-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/nanto-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/"
     ],
     "external_links_count": 0,
     "external_links": []

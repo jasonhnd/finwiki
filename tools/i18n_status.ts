@@ -16,8 +16,9 @@ import { iterMarkdownFiles, isPublicPage } from "../lib/markdown_helpers";
  * Spec: docs/04-architecture/i18n-architecture.md, docs/05-functional-specs/
  * i18n-pipeline.md, docs/01-strategy/next-development-plan.md (C1).
  *
- * Read-only: never writes mirrors, source_hash, or generated surfaces. Exits 0
- * (it is a status report, not a gate). Pass --json for machine output.
+ * Read-only: never writes mirrors, source_hash, or generated surfaces. Default
+ * status mode exits 0. Pass --fail-on-issues for a strict release gate or
+ * --json for machine output.
  */
 
 const ROOT = path.resolve(import.meta.dir, "..");
@@ -93,7 +94,7 @@ function listMirrors(lang: string): string[] {
   return mirrors;
 }
 
-interface LangReport {
+export interface LangReport {
   lang: string;
   mirrors: number;
   current: number;
@@ -175,13 +176,25 @@ function formatCounts(counts: Record<string, number>): string {
   return entries.length > 0 ? entries.map(([key, value]) => `${key}=${value}`).join(" ") : "(none)";
 }
 
+export function blockingIssueCount(report: LangReport): number {
+  const reviewish =
+    (report.fidelity_counts.needs_review ?? 0) +
+    (report.fidelity_counts["(none)"] ?? 0);
+  return (
+    report.stale +
+    report.orphaned +
+    report.missing +
+    report.source_pointer_drift +
+    reviewish
+  );
+}
+
 function printHuman(sourceCount: number, reports: LangReport[]): void {
   console.log(`${ANSI_BOLD}i18n status (read-only)${ANSI_RESET}`);
   console.log(`Translatable source entries (corpus, excluding INDEX): ${sourceCount}`);
   console.log("");
   for (const report of reports) {
-    const reviewish = (report.fidelity_counts.needs_review ?? 0) + (report.fidelity_counts["(none)"] ?? 0);
-    const flag = report.stale + report.orphaned + report.missing + reviewish > 0 ? ANSI_YELLOW : ANSI_GREEN;
+    const flag = blockingIssueCount(report) > 0 ? ANSI_YELLOW : ANSI_GREEN;
     console.log(`${flag}[${report.lang}]${ANSI_RESET} mirrors=${report.mirrors}  current=${report.current}  stale=${report.stale}  orphaned=${report.orphaned}  missing=${report.missing}`);
     console.log(`    status: ${formatCounts(report.status_counts)}`);
     console.log(`    fidelity: ${formatCounts(report.fidelity_counts)}`);
@@ -201,21 +214,51 @@ function printHuman(sourceCount: number, reports: LangReport[]): void {
   console.log(`${ANSI_DIM}Read-only report. To act on stale/missing items, run the site/scripts translation pipeline (prep -> translate -> commit).${ANSI_RESET}`);
 }
 
+interface CliOptions {
+  asJson: boolean;
+  failOnIssues: boolean;
+}
+
+export function parseCliArgs(argv: readonly string[]): CliOptions {
+  const options: CliOptions = { asJson: false, failOnIssues: false };
+  for (const arg of argv) {
+    if (arg === "--json") {
+      options.asJson = true;
+      continue;
+    }
+    if (arg === "--fail-on-issues") {
+      options.failOnIssues = true;
+      continue;
+    }
+    throw new Error(`unknown argument: ${arg}`);
+  }
+  return options;
+}
+
 async function main(): Promise<void> {
-  const asJson = process.argv.includes("--json");
+  const options = parseCliArgs(process.argv.slice(2));
   if (!existsSync(I18N_DIR)) {
-    console.error(`i18n directory not found: ${toPosix(path.relative(ROOT, I18N_DIR))}`);
-    process.exit(1);
+    throw new Error(`i18n directory not found: ${toPosix(path.relative(ROOT, I18N_DIR))}`);
   }
   const sourceIndex = await buildSourceIndex();
   const reports = LANGS.map((lang) => analyzeLang(lang, sourceIndex));
 
-  if (asJson) {
+  if (options.asJson) {
     console.log(JSON.stringify({ source_entries: sourceIndex.size, locales: reports }, null, 2));
   } else {
     printHuman(sourceIndex.size, reports);
   }
-  process.exit(0);
+  if (options.failOnIssues) {
+    const issues = reports.reduce((total, report) => total + blockingIssueCount(report), 0);
+    if (issues > 0) {
+      throw new Error(`i18n gate failed with ${issues} blocking issue(s)`);
+    }
+  }
 }
 
-main();
+if (import.meta.main) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : error);
+    process.exit(1);
+  });
+}

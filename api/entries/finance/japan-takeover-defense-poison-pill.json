@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/japan-takeover-defense-poison-pill",
   "source_path": "finance/japan-takeover-defense-poison-pill.md",
-  "url": "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
+  "url": "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
+    "en": "https://finwiki.zksc.io/en/finance/japan-takeover-defense-poison-pill/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-takeover-defense-poison-pill.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-takeover-defense-poison-pill.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill.md",
   "domain": "finance",
   "title": "Japan takeover defense and poison pill",
   "entry_type": "wiki_entry",
@@ -74,15 +79,15 @@
       "finance/jftc-merger-control-process"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
-      "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/finance/jftc-merger-control-process"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-activist-investor-playbook/",
+      "https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-shareholder-proposal-and-agm-voting-route/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/"
     ],
     "external_links_count": 0,
     "external_links": []

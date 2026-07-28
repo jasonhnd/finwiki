@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/dag-bft-vs-chain-bft-architecture",
   "source_path": "systems/dag-bft-vs-chain-bft-architecture.md",
-  "url": "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+  "url": "https://finwiki.zksc.io/ja/systems/dag-bft-vs-chain-bft-architecture/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/dag-bft-vs-chain-bft-architecture/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/dag-bft-vs-chain-bft-architecture/",
+    "en": "https://finwiki.zksc.io/en/systems/dag-bft-vs-chain-bft-architecture/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/dag-bft-vs-chain-bft-architecture.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/dag-bft-vs-chain-bft-architecture.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture.md",
   "domain": "systems",
   "title": "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
   "entry_type": "wiki_entry",
@@ -64,14 +69,14 @@
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
-      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
+      "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/post-quantum-blockchain-day1-integration/",
+      "https://finwiki.zksc.io/ja/systems/threshold-bft-consensus-rust-implementations/"
     ],
     "external_links_count": 0,
     "external_links": []

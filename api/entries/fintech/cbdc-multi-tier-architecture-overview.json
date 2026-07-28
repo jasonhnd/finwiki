@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/cbdc-multi-tier-architecture-overview",
   "source_path": "fintech/cbdc-multi-tier-architecture-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/cbdc-multi-tier-architecture-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cbdc-multi-tier-architecture-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cbdc-multi-tier-architecture-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview.md",
   "domain": "fintech",
   "title": "CBDC 多層アーキテクチャ概要",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "fintech/jp-stablecoin-dcjpy"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
-      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
-      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
+      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
+      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
+      "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/sbi-insurance",
   "source_path": "non-life-insurers/sbi-insurance.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/sbi-insurance",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/sbi-insurance/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sbi-insurance.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sbi-insurance.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/sbi-insurance.md",
   "domain": "non-life-insurers",
   "title": "SBI損害保険",
   "entry_type": "wiki_entry",
@@ -67,15 +72,15 @@
       "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/life-insurers/sbi-life",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/sbi-insurance-group",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
-      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
-      "https://finwiki.zksc.io/securities-firms/sbi-securities"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/life-insurers/sbi-life/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sbi-insurance-group/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sompo-direct/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine-direct/",
+      "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/toyama-bank",
   "source_path": "regional-banks/toyama-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/toyama-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/toyama-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/toyama-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/toyama-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/toyama-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/toyama-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/toyama-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/toyama-bank.md",
   "domain": "regional-banks",
   "title": "富山銀行",
   "entry_type": "wiki_entry",
@@ -63,14 +68,14 @@
       "regional-banks/toyama-first-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
-      "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
-      "https://finwiki.zksc.io/regional-banks/toyama-first-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/hokuhoku-fg/",
+      "https://finwiki.zksc.io/ja/regional-banks/hokuriku-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/toyama-first-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

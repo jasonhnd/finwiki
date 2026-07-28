@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm",
   "source_path": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
-  "url": "https://finwiki.zksc.io/systems/bitcoin-scaling-2026-stacks-lightning-bitvm",
+  "url": "https://finwiki.zksc.io/ja/systems/bitcoin-scaling-2026-stacks-lightning-bitvm/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/bitcoin-scaling-2026-stacks-lightning-bitvm/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/bitcoin-scaling-2026-stacks-lightning-bitvm/",
+    "en": "https://finwiki.zksc.io/en/systems/bitcoin-scaling-2026-stacks-lightning-bitvm/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
   "domain": "systems",
   "title": "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック",
   "entry_type": "wiki_entry",
@@ -81,17 +86,17 @@
       "systems/vitalik-l1-l2-strategy-anchor"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
-      "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
-      "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout",
-      "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/",
+      "https://finwiki.zksc.io/ja/systems/chain-abstraction-pattern-overview/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/",
+      "https://finwiki.zksc.io/ja/systems/eigenlayer-overview/",
+      "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
+      "https://finwiki.zksc.io/ja/systems/pectra-eip-7691-blob-l2-impact/",
+      "https://finwiki.zksc.io/ja/systems/polygon-agglayer-architecture-rollout/",
+      "https://finwiki.zksc.io/ja/systems/vitalik-l1-l2-strategy-anchor/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "agent-economy/skyfire-closed-loop-agent-issuer",
   "source_path": "agent-economy/skyfire-closed-loop-agent-issuer.md",
-  "url": "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
+  "url": "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+  "html_url": "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/agent-economy/skyfire-closed-loop-agent-issuer/",
+    "en": "https://finwiki.zksc.io/en/agent-economy/skyfire-closed-loop-agent-issuer/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/skyfire-closed-loop-agent-issuer.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/skyfire-closed-loop-agent-issuer.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer.md",
   "domain": "agent-economy",
   "title": "Skyfire · closed-loop card-network agent payment issuer",
   "entry_type": "wiki_entry",
@@ -74,17 +79,17 @@
       "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
-      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position",
-      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/payments/INDEX"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/agent-economy/",
+      "https://finwiki.zksc.io/ja/agent-economy/agent-actorship-debate/",
+      "https://finwiki.zksc.io/ja/agent-economy/ai-agent-payment-protocols-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/ap2-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/coinbase-cdp-developer-platform/",
+      "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
+      "https://finwiki.zksc.io/ja/agent-economy/stripe-agent-toolkit-position/",
+      "https://finwiki.zksc.io/ja/agent-economy/visa-mastercard-agentic-commerce-pilots/",
+      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
+      "https://finwiki.zksc.io/ja/domains/payments/"
     ],
     "external_links_count": 0,
     "external_links": []

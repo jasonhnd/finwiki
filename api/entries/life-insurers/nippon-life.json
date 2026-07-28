@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/nippon-life",
   "source_path": "life-insurers/nippon-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/nippon-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/nippon-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/nippon-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/nippon-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/nippon-life.md",
   "domain": "life-insurers",
   "title": "日本生命保険相互会社 (Nippon Life)",
   "entry_type": "wiki_entry",
@@ -74,16 +79,16 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/nippon-post",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/esr-economic-value-solvency/",
+      "https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/nippon-post/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

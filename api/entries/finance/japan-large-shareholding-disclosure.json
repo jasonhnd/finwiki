@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "finance/japan-large-shareholding-disclosure",
   "source_path": "finance/japan-large-shareholding-disclosure.md",
-  "url": "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+  "url": "https://finwiki.zksc.io/ja/finance/japan-large-shareholding-disclosure/",
+  "html_url": "https://finwiki.zksc.io/ja/finance/japan-large-shareholding-disclosure/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/finance/japan-large-shareholding-disclosure/",
+    "en": "https://finwiki.zksc.io/en/finance/japan-large-shareholding-disclosure/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-large-shareholding-disclosure.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-large-shareholding-disclosure.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure.md",
   "domain": "finance",
   "title": "Japan large shareholding disclosure",
   "entry_type": "wiki_entry",
@@ -75,17 +80,17 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/finance/INDEX",
-      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
-      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
-      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
-      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payment-firms/wealthnavi",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/finance/",
+      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-activist-investor-playbook/",
+      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
+      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/payment-firms/wealthnavi/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
+      "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
     "external_links_count": 0,
     "external_links": []

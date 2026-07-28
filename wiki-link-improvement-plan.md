@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 6 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,12 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `agent-economy/mastercard-agent-pay-for-machines.md` | `??` | 10 | ok |
-| `agent-economy/openai-stripe-agentic-commerce-protocol.md` | `??` | 11 | ok |
-| `agent-economy/visa-trusted-agent-protocol.md` | `??` | 10 | ok |
-| `agent-economy/circle-agent-stack-usdc.md` | `A` | 6 | ok |
-| `agent-economy/coinbase-agentkit-agentic-wallets.md` | `A` | 7 | ok |
-| `agent-economy/google-a2a-agent-interop-protocol.md` | `A` | 9 | ok |
 
 ## Domain Snapshot
 
@@ -63,8 +57,8 @@
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
-| `control-mirror` | 1 | 0 | 25.0 |
-| `control-proposal` | 1 | 0 | 28.0 |
+| `control-mirror` | 1 | 0 | 24.0 |
+| `control-proposal` | 1 | 0 | 4.0 |
 | `cooperative-banks` | 46 | 0 | 15.6 |
 | `corporate-strategy` | 11 | 0 | 19.2 |
 | `derivatives` | 33 | 0 | 20.8 |
@@ -91,6 +85,7 @@
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `regional-banks` | 136 | 0 | 14.0 |
 | `retail` | 11 | 0 | 23.1 |
+| `root` | 1 | 0 | 46.0 |
 | `securities` | 33 | 0 | 32.1 |
 | `securities-firms` | 37 | 0 | 18.8 |
 | `security` | 10 | 0 | 9.9 |
@@ -99,7 +94,6 @@
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
 | `trust-banks` | 48 | 0 | 12.7 |
-| `wt` | 1 | 0 | 46.0 |
 
 ## canonical_anchor Integrity (drift-gated)
 

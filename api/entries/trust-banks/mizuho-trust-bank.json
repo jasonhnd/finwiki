@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/mizuho-trust-bank",
   "source_path": "trust-banks/mizuho-trust-bank.md",
-  "url": "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/mizuho-trust-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/mizuho-trust-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/mizuho-trust-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank.md",
   "domain": "trust-banks",
   "title": "みずほ信託銀行 (Mizuho Trust & Banking)",
   "entry_type": "wiki_entry",
@@ -68,17 +73,17 @@
       "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/asset-managers/asset-management-one",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/megabanks/mizuho-bank",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/trust-banks/smtb"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/asset-managers/asset-management-one/",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/smtb/"
     ],
     "external_links_count": 0,
     "external_links": []

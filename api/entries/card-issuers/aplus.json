@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "card-issuers/aplus",
   "source_path": "card-issuers/aplus.md",
-  "url": "https://finwiki.zksc.io/card-issuers/aplus",
+  "url": "https://finwiki.zksc.io/ja/card-issuers/aplus/",
+  "html_url": "https://finwiki.zksc.io/ja/card-issuers/aplus/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/card-issuers/aplus/",
+    "en": "https://finwiki.zksc.io/en/card-issuers/aplus/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aplus.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/aplus.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aplus.md",
   "domain": "card-issuers",
   "title": "アプラス (APLUS)",
   "entry_type": "wiki_entry",
@@ -65,17 +70,17 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/card-issuers/INDEX",
-      "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/card-issuers/",
+      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
+      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/",
+      "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
+      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -25,7 +25,40 @@ AI discovery surfaces let crawlers and LLM agents understand FinWiki without scr
 - Domain map from root `INDEX.md`.
 - Canonical anchor relationships.
 - Wikilinks and headings.
-- Last modified timestamps.
+- Latest full-history Git commit date per source path, plus valid committed `ai-index.json` dates for shallow/history-less fallback.
+
+## URL Contract and Ownership
+
+`lib/markdown_helpers.ts` is the single owner of URL construction. A rendered
+entry uses `/ja/<domain>/<slug>/` as its canonical and
+`/en/<domain>/<slug>/` as the alternate; raw Markdown keeps `.md`. Populated
+domain indexes use `/ja|en/domains/<domain>/`, while non-rendered control
+records may have no HTML URL. Body wikilinks are resolved against the current
+public route set, and unresolved targets are omitted instead of guessed.
+
+`tools/generate_ai_discovery.ts` projects that model into every text, sitemap,
+index and API output. `tools/generated_surface_drift_scan.ts` fixes the two
+generated timestamps and byte-compares a temporary regeneration, including
+the complete per-entry API file set and every `last_modified`.
+
+After Astro and Pagefind output is assembled, `tools/txt_route_audit.ts`
+reads those assembled surfaces, collects route-bearing internal URLs from
+llms, sitemap, index and all API records, and
+requires each one to resolve to a non-empty, non-symlink regular file in the
+final `_site` or `_vercel_public` tree. Source-repository existence alone is not
+route evidence. Same-host values are collected by hostname, then required to
+match the exact `SITE_URL` origin; a wrong scheme or port is a blocking finding.
+
+`ai-index.json` preserves author Markdown targets in `markdown_links`; these
+may be relative or non-HTTP and are source evidence, not deployed-route claims.
+Per-entry API `body_links.external_links` is the narrower absolute HTTP(S)
+projection. External origins are not availability-tested, while same-host
+values in that API field enter the assembled-route and exact-origin audit.
+
+Canonical GitHub verification and deploy workflows use `fetch-depth: 0`.
+Shallow or history-less builders first reuse a valid source-path date from the
+committed `ai-index.json`, then try shallow Git history, and use fs mtime only
+as the terminal fallback.
 
 ## Per-Entry API Record Boundary
 

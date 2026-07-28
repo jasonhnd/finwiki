@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "trust-banks/kainuma-trust-real-estate",
   "source_path": "trust-banks/kainuma-trust-real-estate.md",
-  "url": "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
+  "url": "https://finwiki.zksc.io/ja/trust-banks/kainuma-trust-real-estate/",
+  "html_url": "https://finwiki.zksc.io/ja/trust-banks/kainuma-trust-real-estate/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/trust-banks/kainuma-trust-real-estate/",
+    "en": "https://finwiki.zksc.io/en/trust-banks/kainuma-trust-real-estate/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/kainuma-trust-real-estate.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/kainuma-trust-real-estate.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate.md",
   "domain": "trust-banks",
   "title": "Kainuma Trust Real Estate / 貝沼信託不動産",
   "entry_type": "wiki_entry",
@@ -62,13 +67,13 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/daito-mirai-trust",
-      "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
-      "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
-      "https://finwiki.zksc.io/trust-banks/sekisui-house-trust",
-      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/trust-banks/",
+      "https://finwiki.zksc.io/ja/trust-banks/daito-mirai-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/kainuma-trust-real-estate/",
+      "https://finwiki.zksc.io/ja/trust-banks/sekisui-house-trust/",
+      "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
     ],
     "external_links_count": 0,
     "external_links": []

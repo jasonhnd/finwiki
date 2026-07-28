@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-profit/japan-koeki-houjin-accounting-standard",
   "source_path": "non-profit/japan-koeki-houjin-accounting-standard.md",
-  "url": "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard",
+  "url": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-houjin-accounting-standard/",
+  "html_url": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-houjin-accounting-standard/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-profit/japan-koeki-houjin-accounting-standard/",
+    "en": "https://finwiki.zksc.io/en/non-profit/japan-koeki-houjin-accounting-standard/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-houjin-accounting-standard.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-koeki-houjin-accounting-standard.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard.md",
   "domain": "non-profit",
   "title": "日本 公益法人会計基準 — the accounting standard for public-interest corporations",
   "entry_type": "wiki_entry",
@@ -71,14 +76,14 @@
       "non-profit/japan-npo-houjin-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/cpaaob",
-      "https://finwiki.zksc.io/non-profit/INDEX",
-      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
-      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
-      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
-      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/cpaaob/",
+      "https://finwiki.zksc.io/ja/domains/non-profit/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-koeki-vs-general-zaidan-comparison/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-nintei-npo-houjin-tax-benefits/",
+      "https://finwiki.zksc.io/ja/non-profit/japan-npo-houjin-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

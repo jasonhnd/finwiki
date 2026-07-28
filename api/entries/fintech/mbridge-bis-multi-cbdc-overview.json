@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/mbridge-bis-multi-cbdc-overview",
   "source_path": "fintech/mbridge-bis-multi-cbdc-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/mbridge-bis-multi-cbdc-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/mbridge-bis-multi-cbdc-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/mbridge-bis-multi-cbdc-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview.md",
   "domain": "fintech",
   "title": "mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)",
   "entry_type": "wiki_entry",
@@ -72,17 +77,17 @@
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora",
-      "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale",
-      "https://finwiki.zksc.io/fintech/mbridge-six-central-banks-roster",
-      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
+      "https://finwiki.zksc.io/ja/fintech/mbridge-six-central-banks-roster/",
+      "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []

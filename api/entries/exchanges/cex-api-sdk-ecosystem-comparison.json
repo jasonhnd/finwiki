@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/cex-api-sdk-ecosystem-comparison",
   "source_path": "exchanges/cex-api-sdk-ecosystem-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/cex-api-sdk-ecosystem-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/cex-api-sdk-ecosystem-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-api-sdk-ecosystem-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/cex-api-sdk-ecosystem-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/cex-api-sdk-ecosystem-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-api-sdk-ecosystem-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-api-sdk-ecosystem-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-api-sdk-ecosystem-comparison.md",
   "domain": "exchanges",
   "title": "CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface",
   "entry_type": "wiki_entry",
@@ -65,17 +70,17 @@
       "exchanges/jp-foreign-exchange-bybit"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
-      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
+      "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/"
     ],
     "external_links_count": 0,
     "external_links": []

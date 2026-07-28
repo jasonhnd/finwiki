@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/layerzero-v2-omnichain-messaging",
   "source_path": "systems/layerzero-v2-omnichain-messaging.md",
-  "url": "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
+  "url": "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/layerzero-v2-omnichain-messaging/",
+    "en": "https://finwiki.zksc.io/en/systems/layerzero-v2-omnichain-messaging/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/layerzero-v2-omnichain-messaging.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/layerzero-v2-omnichain-messaging.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging.md",
   "domain": "systems",
   "title": "LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル",
   "entry_type": "wiki_entry",
@@ -61,13 +66,13 @@
       "systems/cross-chain-four-poles-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
+      "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/chainlink-ccip-institutional-messaging/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

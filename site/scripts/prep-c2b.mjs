@@ -1,14 +1,13 @@
 // C-2b 前処理(manifest 駆動): 分類器の stale manifest から prose_changed / unknown の
 // mirror を選び、CURRENT source を mask して .cache/jobs/w0..w{N-1} へ分配。
 // 各 worker を 1 个 opus subagent が担当 → commit-translate.mjs が verify+unmask 回収。
-// prep-parallel.mjs と違い walkEntries を使わず manifest の source パスを直接辿るため、
-// JapanFG 分割後の新 domain(cooperative-banks 等)にも到達できる。
+// manifest の source パスも canonical translatable-source set に限定する。
 //   bun scripts/prep-c2b.mjs --workers 10 --size 13 [--manifest <path>] [--klass prose_changed,unknown]
 import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask } from './protect.mjs';
-import { I18N, REPO } from './corpus-roots.mjs';
+import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 
 const HERE = import.meta.dir;
 const JOBS = join(HERE, '..', '.cache', 'jobs');
@@ -31,12 +30,18 @@ const stripFm = (t) => {
 };
 
 const manifest = JSON.parse(readFileSync(MANIFEST, 'utf8'));
+const canonicalSources = new Map();
+for await (const rel of walkEntries()) {
+  canonicalSources.set(rel.toLowerCase(), rel);
+}
 
 // source(.md) -> set of stale langs, filtered by klass
 const bySource = new Map();
 for (const e of manifest) {
   if (!KLASS.includes(e.klass)) continue;
-  const rel = e.source.endsWith('.md') ? e.source : `${e.source}.md`;
+  const requested = e.source.endsWith('.md') ? e.source : `${e.source}.md`;
+  const rel = canonicalSources.get(requested.toLowerCase());
+  if (!rel) continue;
   if (!bySource.has(rel)) bySource.set(rel, new Set());
   bySource.get(rel).add(e.lang);
 }

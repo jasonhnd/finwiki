@@ -12,6 +12,7 @@ on:
         type: string
 
 permissions:
+  actions: read
   contents: read
 
 jobs:
@@ -22,10 +23,7 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
         with:
-          bun-version: latest
-
-      - name: Install dependencies
-        run: bun install
+          bun-version-file: .bun-version
 
       - name: Resolve audit date
         id: resolve_date
@@ -45,15 +43,47 @@ jobs:
 
           echo "as_of=$as_of" >> "$GITHUB_OUTPUT"
 
+      - name: Download two prior scheduled audit artifacts
+        shell: bash
+        env:
+          AUDIT_HISTORY_DIR: ${{ runner.temp }}/finwiki-truthfulness-history
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$AUDIT_HISTORY_DIR"
+
+          run_ids="$(gh run list \
+            --workflow truthfulness-audit.yml \
+            --event schedule \
+            --status success \
+            --limit 2 \
+            --json databaseId \
+            --jq '.[].databaseId')"
+
+          downloaded=0
+          for run_id in $run_ids; do
+            gh run download "$run_id" \
+              --pattern 'truthfulness-audit-*' \
+              --dir "$AUDIT_HISTORY_DIR/run-$run_id"
+            downloaded=$((downloaded + 1))
+          done
+
+          echo "Downloaded $downloaded prior scheduled audit artifact(s)."
+
       - name: Run truthfulness audits
-        run: bun run audit:all --out audit-artifacts --as-of "${{ steps.resolve_date.outputs.as_of }}"
+        env:
+          AUDIT_HISTORY_DIR: ${{ runner.temp }}/finwiki-truthfulness-history
+          AUDIT_OUTPUT_DIR: ${{ runner.temp }}/finwiki-truthfulness-audit
+        run: bun run audit:all --out "$AUDIT_OUTPUT_DIR" --history-dir "$AUDIT_HISTORY_DIR" --as-of "${{ steps.resolve_date.outputs.as_of }}"
 
       - name: Publish threshold summary
         if: always()
         shell: bash
+        env:
+          AUDIT_OUTPUT_DIR: ${{ runner.temp }}/finwiki-truthfulness-audit
         run: |
-          if [[ -f audit-artifacts/summary.md ]]; then
-            cat audit-artifacts/summary.md >> "$GITHUB_STEP_SUMMARY"
+          if [[ -f "$AUDIT_OUTPUT_DIR/summary.md" ]]; then
+            cat "$AUDIT_OUTPUT_DIR/summary.md" >> "$GITHUB_STEP_SUMMARY"
           else
             echo "No audit summary was generated." >> "$GITHUB_STEP_SUMMARY"
           fi
@@ -63,5 +93,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: truthfulness-audit-${{ steps.resolve_date.outputs.as_of }}
-          path: audit-artifacts/
+          path: ${{ runner.temp }}/finwiki-truthfulness-audit/
           if-no-files-found: error

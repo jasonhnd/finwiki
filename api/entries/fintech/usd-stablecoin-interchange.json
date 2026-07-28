@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/usd-stablecoin-interchange",
   "source_path": "fintech/usd-stablecoin-interchange.md",
-  "url": "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+  "url": "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
+    "en": "https://finwiki.zksc.io/en/fintech/usd-stablecoin-interchange/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/usd-stablecoin-interchange.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/usd-stablecoin-interchange.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange.md",
   "domain": "fintech",
   "title": "USD ステーブルコイン互換市場",
   "entry_type": "wiki_entry",
@@ -56,18 +61,18 @@
       "fintech/stablecoin-crossborder-b2b-growth"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
-      "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview",
-      "https://finwiki.zksc.io/fintech/japan-ecisb-license",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
+      "https://finwiki.zksc.io/ja/fintech/circle-usdc-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
+      "https://finwiki.zksc.io/ja/fintech/japan-ecisb-license/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/sky-usds-decentralized-stablecoin/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/"
     ],
     "external_links_count": 0,
     "external_links": []

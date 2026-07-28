@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "financial-regulators/dbj",
   "source_path": "financial-regulators/dbj.md",
-  "url": "https://finwiki.zksc.io/financial-regulators/dbj",
+  "url": "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+  "html_url": "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
+    "en": "https://finwiki.zksc.io/en/financial-regulators/dbj/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/dbj.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/dbj.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/financial-regulators/dbj.md",
   "domain": "financial-regulators",
   "title": "日本政策投資銀行 (DBJ)",
   "entry_type": "wiki_entry",
@@ -63,13 +68,13 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/financial-regulators/",
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

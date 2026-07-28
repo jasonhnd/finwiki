@@ -2,7 +2,8 @@
 import '../styles/global.css';
 import LangSwitcher from '../components/LangSwitcher.astro';
 import ThemeToggle from '../components/ThemeToggle.astro';
-import { t, u, type Lang } from '../i18n/ui';
+import { restOf, t, u, type Lang } from '../i18n/ui';
+import { serializeJsonLd, type EntryHeadMetadata } from '../lib/entryHead';
 
 interface Props {
   lang: Lang;
@@ -10,10 +11,20 @@ interface Props {
   description?: string;
   active?: 'home' | 'domains' | 'browse' | 'ai' | null;
   wide?: boolean;
+  entryHead?: EntryHeadMetadata;
 }
-const { lang, title, description, active = null, wide = false } = Astro.props;
+const { lang, title, description, active = null, wide = false, entryHead } = Astro.props;
 const pageTitle = title ? `${title} · FinWiki` : t(lang, 'site.title');
 const desc = description ?? t(lang, 'site.tagline');
+const pageRest = restOf(Astro.url.pathname);
+const siteBase = Astro.site ?? Astro.url;
+const absolute = (href: string) => new URL(href, siteBase).href;
+const canonical = entryHead?.canonical ?? absolute(u(lang, pageRest));
+const languageAlternates = entryHead?.languageAlternates ?? {
+  ja: absolute(u('ja', pageRest)),
+  en: absolute(u('en', pageRest)),
+  'x-default': absolute(u('ja', pageRest)),
+};
 ---
 <!doctype html>
 <html lang={lang}>
@@ -32,11 +43,23 @@ const desc = description ?? t(lang, 'site.tagline');
     </script>
     <link rel="preload" href="/fonts/source-serif-4/source-serif-4-latin-600.woff2" as="font" type="font/woff2" crossorigin />
     <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
-    <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
-    <link rel="alternate" hreflang="ja" href={u('ja')} />
-    <link rel="alternate" hreflang="en" href={u('en')} />
+    <script is:inline src="/pagefind/pagefind-component-ui.js" type="module"></script>
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="ja" href={languageAlternates.ja} />
+    <link rel="alternate" hreflang="en" href={languageAlternates.en} />
+    <link rel="alternate" hreflang="x-default" href={languageAlternates['x-default']} />
+    {entryHead && (
+      <>
+        <link rel="alternate" type="application/json" href={entryHead.resourceAlternates.api} />
+        <link rel="alternate" type="text/markdown" href={entryHead.resourceAlternates.markdown} />
+        {entryHead.finwikiMeta.map(({ name, content }) => <meta name={name} content={content} />)}
+        <script is:inline type="application/ld+json" set:html={serializeJsonLd(entryHead.jsonLd)} />
+      </>
+    )}
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={desc} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content={entryHead ? 'article' : 'website'} />
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
@@ -110,16 +133,28 @@ const desc = description ?? t(lang, 'site.tagline');
         if (pointerQuery.matches) return;
 
         const preview = document.getElementById('wl-preview');
-        const links = Array.from(document.querySelectorAll('.prose a.wl[data-wl-kind][data-wl-route]'));
-        if (!preview || !links.length) return;
+        const links = Array.from(
+          document.querySelectorAll<HTMLAnchorElement>('.prose a.wl[data-wl-kind][data-wl-route]'),
+        );
+        if (!(preview instanceof HTMLElement) || !links.length) return;
 
         const lang = document.documentElement.lang === 'en' ? 'en' : 'ja';
-        const titleEl = preview.querySelector('.wl-preview__title');
-        const leadEl = preview.querySelector('.wl-preview__lead');
-        const metaEl = preview.querySelector('.wl-preview__meta');
+        const titleEl = preview.querySelector<HTMLElement>('.wl-preview__title');
+        const leadEl = preview.querySelector<HTMLElement>('.wl-preview__lead');
+        const metaEl = preview.querySelector<HTMLElement>('.wl-preview__meta');
         if (!titleEl || !leadEl || !metaEl) return;
+        const previewElement = preview;
+        const titleElement = titleEl;
+        const leadElement = leadEl;
+        const metaElement = metaEl;
 
-        const previewMap = new Map();
+        type PreviewItem = {
+          title: string;
+          lead: string;
+          domain: string;
+          route: string;
+        };
+        const previewMap = new Map<string, PreviewItem>();
         for (const link of links) {
           const kind = link.getAttribute('data-wl-kind') || 'route';
           const route = link.getAttribute('data-wl-route') || link.getAttribute('data-wl') || '';
@@ -132,7 +167,7 @@ const desc = description ?? t(lang, 'site.tagline');
           }
         }
 
-        let activeLink = null;
+        let activeLink: HTMLAnchorElement | null = null;
         let timer = 0;
 
         function clearTimer() {
@@ -142,9 +177,9 @@ const desc = description ?? t(lang, 'site.tagline');
           }
         }
 
-        function place(link) {
+        function place(link: HTMLAnchorElement) {
           const rect = link.getBoundingClientRect();
-          const box = preview.getBoundingClientRect();
+          const box = previewElement.getBoundingClientRect();
           const margin = 12;
           let top = rect.bottom + 10;
           if (top + box.height + margin > window.innerHeight) top = rect.top - box.height - 10;
@@ -152,37 +187,37 @@ const desc = description ?? t(lang, 'site.tagline');
 
           let left = rect.left + rect.width / 2 - box.width / 2;
           left = Math.max(margin, Math.min(left, window.innerWidth - box.width - margin));
-          preview.style.left = `${Math.round(left)}px`;
-          preview.style.top = `${Math.round(top)}px`;
+          previewElement.style.left = `${Math.round(left)}px`;
+          previewElement.style.top = `${Math.round(top)}px`;
         }
 
         function closePreview() {
           clearTimer();
           if (activeLink) activeLink.removeAttribute('aria-describedby');
           activeLink = null;
-          preview.classList.remove('is-visible');
-          preview.setAttribute('aria-hidden', 'true');
+          previewElement.classList.remove('is-visible');
+          previewElement.setAttribute('aria-hidden', 'true');
         }
 
-        function openPreview(link) {
+        function openPreview(link: HTMLAnchorElement) {
           const route = link.getAttribute('data-wl-route') || link.getAttribute('data-wl') || '';
           const item = previewMap.get(route);
           if (!item) return;
 
           activeLink?.removeAttribute('aria-describedby');
           activeLink = link;
-          titleEl.textContent = item.title;
-          leadEl.textContent = item.lead;
-          metaEl.textContent = [item.domain, item.route].filter(Boolean).join(' / ');
-          preview.setAttribute('aria-hidden', 'false');
-          preview.classList.add('is-visible');
+          titleElement.textContent = item.title;
+          leadElement.textContent = item.lead;
+          metaElement.textContent = [item.domain, item.route].filter(Boolean).join(' / ');
+          previewElement.setAttribute('aria-hidden', 'false');
+          previewElement.classList.add('is-visible');
           link.setAttribute('aria-describedby', 'wl-preview');
           requestAnimationFrame(() => {
             if (activeLink === link) place(link);
           });
         }
 
-        function schedulePreview(link) {
+        function schedulePreview(link: HTMLAnchorElement) {
           clearTimer();
           timer = window.setTimeout(() => openPreview(link), 220);
         }

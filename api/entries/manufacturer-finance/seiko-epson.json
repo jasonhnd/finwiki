@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "manufacturer-finance/seiko-epson",
   "source_path": "manufacturer-finance/seiko-epson.md",
-  "url": "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+  "url": "https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/",
+  "html_url": "https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/",
+    "en": "https://finwiki.zksc.io/en/manufacturer-finance/seiko-epson/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/seiko-epson.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/seiko-epson.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/manufacturer-finance/seiko-epson.md",
   "domain": "manufacturer-finance",
   "title": "Seiko Epson Corporation (セイコーエプソン)",
   "entry_type": "wiki_entry",
@@ -63,11 +68,11 @@
       "regional-banks/hachijuni-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/leasing-firms/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
-      "https://finwiki.zksc.io/regional-banks/hachijuni-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/domains/manufacturer-finance/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
+      "https://finwiki.zksc.io/ja/regional-banks/hachijuni-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

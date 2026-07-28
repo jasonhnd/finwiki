@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "systems/canton-mmf-coalition",
   "source_path": "systems/canton-mmf-coalition.md",
-  "url": "https://finwiki.zksc.io/systems/canton-mmf-coalition",
+  "url": "https://finwiki.zksc.io/ja/systems/canton-mmf-coalition/",
+  "html_url": "https://finwiki.zksc.io/ja/systems/canton-mmf-coalition/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/systems/canton-mmf-coalition/",
+    "en": "https://finwiki.zksc.io/en/systems/canton-mmf-coalition/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/canton-mmf-coalition.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/canton-mmf-coalition.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/systems/canton-mmf-coalition.md",
   "domain": "systems",
   "title": "Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線",
   "entry_type": "wiki_entry",
@@ -66,15 +71,15 @@
       "systems/cctp-v2-vs-canton"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
+      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/domains/systems/",
+      "https://finwiki.zksc.io/ja/systems/canton-daml-technical-spec/",
+      "https://finwiki.zksc.io/ja/systems/canton-overview/",
+      "https://finwiki.zksc.io/ja/systems/cctp-v2-vs-canton/"
     ],
     "external_links_count": 0,
     "external_links": []

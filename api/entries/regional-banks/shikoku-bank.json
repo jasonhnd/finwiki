@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "regional-banks/shikoku-bank",
   "source_path": "regional-banks/shikoku-bank.md",
-  "url": "https://finwiki.zksc.io/regional-banks/shikoku-bank",
+  "url": "https://finwiki.zksc.io/ja/regional-banks/shikoku-bank/",
+  "html_url": "https://finwiki.zksc.io/ja/regional-banks/shikoku-bank/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/regional-banks/shikoku-bank/",
+    "en": "https://finwiki.zksc.io/en/regional-banks/shikoku-bank/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shikoku-bank.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/shikoku-bank.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/regional-banks/shikoku-bank.md",
   "domain": "regional-banks",
   "title": "四国銀行",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "regional-banks/kochi-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/awa-bank",
-      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
-      "https://finwiki.zksc.io/regional-banks/iyo-bank",
-      "https://finwiki.zksc.io/regional-banks/kochi-bank"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/regional-banks/",
+      "https://finwiki.zksc.io/ja/regional-banks/awa-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/hyakujushi-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/iyo-bank/",
+      "https://finwiki.zksc.io/ja/regional-banks/kochi-bank/"
     ],
     "external_links_count": 0,
     "external_links": []

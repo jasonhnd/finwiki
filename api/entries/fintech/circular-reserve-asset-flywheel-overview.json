@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "fintech/circular-reserve-asset-flywheel-overview",
   "source_path": "fintech/circular-reserve-asset-flywheel-overview.md",
-  "url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
+  "url": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+  "html_url": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
+    "en": "https://finwiki.zksc.io/en/fintech/circular-reserve-asset-flywheel-overview/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/circular-reserve-asset-flywheel-overview.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/circular-reserve-asset-flywheel-overview.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview.md",
   "domain": "fintech",
   "title": "準備金インターロック・フライホイール · BUIDL ↔ USDC システミックな循環依存",
   "entry_type": "wiki_entry",
@@ -67,16 +72,16 @@
       "fintech/stablecoin-revenue-split-economics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
-      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
+      "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-risk-cases/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
+      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
     ],
     "external_links_count": 0,
     "external_links": []

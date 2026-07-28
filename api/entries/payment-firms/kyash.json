@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/kyash",
   "source_path": "payment-firms/kyash.md",
-  "url": "https://finwiki.zksc.io/payment-firms/kyash",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/kyash/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/kyash/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/kyash/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/kyash/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/kyash.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/kyash.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/kyash.md",
   "domain": "payment-firms",
   "title": "Kyash",
   "entry_type": "wiki_entry",
@@ -65,15 +70,15 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
-      "https://finwiki.zksc.io/card-issuers/smbc-card",
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payment-firms/pring",
-      "https://finwiki.zksc.io/payment-firms/smartbank",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
+      "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
+      "https://finwiki.zksc.io/ja/payment-firms/pring/",
+      "https://finwiki.zksc.io/ja/payment-firms/smartbank/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

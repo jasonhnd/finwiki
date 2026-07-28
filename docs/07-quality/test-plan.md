@@ -9,9 +9,7 @@ rg -n "docs/(architecture|toolchain|release-process|gotchas|entry-authoring|para
 rg -n "23 domains|23-domain|領域数 23|领域数 23|site/src/content/entries|postbuild|python tools/|tools/release\\.py|wiki_link_audit\\.py|generate_ai_discovery\\.py" docs -g "!99-archive/**"
 rg -n "\"source\"\\s*:\\s*\"docs/|\"path\"\\s*:\\s*\"docs/|/docs/|<loc>[^<]*/docs/" ai-index.json api/entries/index.json sitemap.xml llms.txt llms-full.txt robots.txt
 bun tools/release.ts --write
-bun tools/release.ts --check --strict
-bun tools/wiki_link_audit.ts --fail-on-issues
-git diff --check
+bun run verify
 ```
 
 ## When To Add More Tests
@@ -19,10 +17,13 @@ git diff --check
 | Change Type | Additional Checks |
 |---|---|
 | Site rendering change | Astro build and browser spot check. |
-| Discovery generator change | `bun tools/generated_surface_drift_scan.ts` (API alignment, stale residue, docs leakage), then diff-review `ai-index.json` / `llms-full.txt`. |
+| Discovery generator / URL helper change | `bun run surface:drift`; `bun test tools/discovery_routes.test.ts` (shallow committed-date fallback, source `markdown_links`, API absolute-HTTP filter, same-host wrong-origin); `bun run verify --out _site`; diff-review sitemap, llms, index and API URL fields. |
 | Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
-| Release tooling change | Positive and negative gate tests. |
+| Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
+| Static publish assembly/release-pipeline change | Focused boundary + required-route tests, deliberately broken final-route fixture, `bun run verify --out _site`, and workflow YAML parse. |
+| Final HTML route-audit change | `bun test tools/html_route_audit.test.ts tools/verify.test.ts`; include positive relative / same-origin / asset cases and a committed missing-route negative fixture; build, Pagefind, assemble, then run `bun run html:routes --out _site`. |
+| Truthfulness audit/output-boundary change | `bun test tools/audit_artifact_isolation.test.ts`; generate an in-repo `audit-artifacts/` fixture, then prove strict release counts and fixed-timestamp discovery/API/sitemap outputs are unchanged and contain no local path. |
 | Factual consistency audit change | `bun tools/factual_consistency_audit.ts`, `bun tools/factual_consistency_audit.ts --json`, and a temporary seeded duplicate-entity conflict with `--fail-on-conflicts` before removing the fixture. |
 | Provenance completeness audit change | `bun tools/provenance_completeness_audit.ts`, `bun tools/provenance_completeness_audit.ts --json`, and a temporary low-score claim block fixture with explicit `--fail-under` before removing the fixture. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
@@ -32,7 +33,17 @@ git diff --check
 ## Exit Criteria
 
 - Required commands exit 0.
+- The local canonical command and fresh pull-request `Required verification` context both pass.
+- README, CHANGELOG, and post-contract release notes pass the Japanese -> English -> Chinese documentation audit.
 - No active stale doc-path references.
 - Generated diff is intentional.
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
+- No truthfulness audit artifact or local artifact path changes corpus/API/sitemap counts or enters generated/public output.
+- Historical audit fixtures reproduce the observed freshness trend, two-cycle growth can trip, repeated consistency groups count both source sides, and the workflow passes downloaded scheduled history into the runner.
 - No stale moved-domain API JSON remains after release write.
+- Fixed-timestamp regeneration is byte-identical for the six fixed discovery targets and every per-entry API JSON, including `metrics.last_modified`.
+- Generated Japanese canonicals, English alternates, raw `.md` and API URLs resolve as non-empty regular files in the final assembled output.
+- API `external_links` contains only absolute HTTP(S); same-host values are audited and wrong-scheme/port origins fail, while source-preserving `ai-index.json` `markdown_links` are not deploy-route claims.
+- Assembled output contains no developer, hidden/ignored source, unmanifested or unknown-root files beyond the generated `.nojekyll` marker, and unsafe output paths cannot reach recursive cleanup.
+- Root, ja/en, crawler, AI/API and Pagefind required routes exist in the final assembled output.
+- Every same-origin `href` in every final assembled HTML file resolves to an exact-case, non-empty, non-symlink regular file after query and fragment removal.

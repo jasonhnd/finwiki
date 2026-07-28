@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "non-life-insurers/anicom-hd",
   "source_path": "non-life-insurers/anicom-hd.md",
-  "url": "https://finwiki.zksc.io/non-life-insurers/anicom-hd",
+  "url": "https://finwiki.zksc.io/ja/non-life-insurers/anicom-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/non-life-insurers/anicom-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/non-life-insurers/anicom-hd/",
+    "en": "https://finwiki.zksc.io/en/non-life-insurers/anicom-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/anicom-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/anicom-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/non-life-insurers/anicom-hd.md",
   "domain": "non-life-insurers",
   "title": "アニコム ホールディングス",
   "entry_type": "wiki_entry",
@@ -64,12 +69,12 @@
       "non-life-insurers/pet-and-family-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/fsa",
-      "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/pet-and-family-insurance"
+      "https://finwiki.zksc.io/INDEX.md",
+      "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "https://finwiki.zksc.io/ja/domains/non-life-insurers/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/anicom-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/dai-ichi-ipet-insurance/",
+      "https://finwiki.zksc.io/ja/non-life-insurers/pet-and-family-insurance/"
     ],
     "external_links_count": 0,
     "external_links": []

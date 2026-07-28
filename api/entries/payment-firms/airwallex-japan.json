@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "payment-firms/airwallex-japan",
   "source_path": "payment-firms/airwallex-japan.md",
-  "url": "https://finwiki.zksc.io/payment-firms/airwallex-japan",
+  "url": "https://finwiki.zksc.io/ja/payment-firms/airwallex-japan/",
+  "html_url": "https://finwiki.zksc.io/ja/payment-firms/airwallex-japan/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/payment-firms/airwallex-japan/",
+    "en": "https://finwiki.zksc.io/en/payment-firms/airwallex-japan/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/airwallex-japan.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/airwallex-japan.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/payment-firms/airwallex-japan.md",
   "domain": "payment-firms",
   "title": "Airwallex Japan",
   "entry_type": "wiki_entry",
@@ -64,13 +69,13 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/payoneer-japan",
-      "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
-      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/ja/domains/payment-firms/",
+      "https://finwiki.zksc.io/ja/payment-firms/payoneer-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/paypal-pte-ltd-japan/",
+      "https://finwiki.zksc.io/ja/payment-firms/wise-payments-japan/",
+      "https://finwiki.zksc.io/ja/domains/payments/",
+      "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
+      "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
     "external_links_count": 0,
     "external_links": []

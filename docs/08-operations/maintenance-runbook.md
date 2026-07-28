@@ -11,8 +11,10 @@
 | Documentation drift audit | Before next development phase and after large docs/code moves | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md) command bundle. |
 | Model-agent workflow review | After delegated development | Task packet, allowed-file diff, RTM row and subagent closeout. |
 | i18n freshness review | After source content batch | `bun tools/i18n_status.ts` (read-only), then translation prep/commit if needed. |
-| Generated API residue check | After domain move or route generator change | `bun run surface:drift` (API alignment + stale residue + docs leakage). |
+| Generated API residue check | After domain move or route generator change | `bun run surface:drift` (API alignment + stale residue + docs/audit/local-path leakage). |
+| Truthfulness audit | Weekly or before large content batches | `bun run audit:all --as-of YYYY-MM-DD`; keep output outside the repository or under ignored `audit-artifacts/`. |
 | Visual QA | After UI/CSS/theme/localization chrome change | [Visual QA Checklist](../07-quality/visual-qa-checklist.md), site build and representative route screenshots. |
+| Required release verification | Before every push / PR merge / deployment | Bun matches `.bun-version`; `bun run verify` exits 0. |
 
 ## Standard Flow
 
@@ -22,8 +24,8 @@
 4. Apply scoped changes or send the bounded packet to the code agent.
 5. Review allowed-file diff, RTM and acceptance criteria.
 6. Update documentation, RTM and release note when the work changes requirements/specs/operations.
-7. Run release write/check.
-8. Review generated surfaces and stale API residue.
+7. Run release write when needed, then `bun run verify`.
+8. Review generated surfaces, assembled required routes and stale API residue.
 9. Review diff.
 10. Commit and push only when instructed.
 

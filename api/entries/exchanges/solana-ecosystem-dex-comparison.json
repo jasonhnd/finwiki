@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "exchanges/solana-ecosystem-dex-comparison",
   "source_path": "exchanges/solana-ecosystem-dex-comparison.md",
-  "url": "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+  "url": "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+  "html_url": "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/",
+    "en": "https://finwiki.zksc.io/en/exchanges/solana-ecosystem-dex-comparison/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/solana-ecosystem-dex-comparison.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/solana-ecosystem-dex-comparison.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison.md",
   "domain": "exchanges",
   "title": "Solana エコシステム DEX 群比較",
   "entry_type": "wiki_entry",
@@ -64,16 +69,16 @@
       "systems/cross-chain-four-poles-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/exchanges/INDEX",
-      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
-      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
-      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
-      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline",
-      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
-      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+      "https://finwiki.zksc.io/ja/domains/exchanges/",
+      "https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/",
+      "https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/",
+      "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
+      "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/",
+      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",
+      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
+      "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
+      "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
     ],
     "external_links_count": 0,
     "external_links": []

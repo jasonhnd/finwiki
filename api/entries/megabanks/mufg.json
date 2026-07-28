@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "megabanks/mufg",
   "source_path": "megabanks/mufg.md",
-  "url": "https://finwiki.zksc.io/megabanks/mufg",
+  "url": "https://finwiki.zksc.io/ja/megabanks/mufg/",
+  "html_url": "https://finwiki.zksc.io/ja/megabanks/mufg/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/megabanks/mufg/",
+    "en": "https://finwiki.zksc.io/en/megabanks/mufg/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/mufg.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/mufg.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/megabanks/mufg.md",
   "domain": "megabanks",
   "title": "三菱 UFJ FG (MUFG)",
   "entry_type": "wiki_entry",
@@ -80,15 +85,15 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg"
+      "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/",
+      "https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/",
+      "https://finwiki.zksc.io/ja/domains/megabanks/",
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/ndfg/",
+      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
     "external_links_count": 0,
     "external_links": []

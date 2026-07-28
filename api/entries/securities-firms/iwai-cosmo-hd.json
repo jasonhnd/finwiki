@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "securities-firms/iwai-cosmo-hd",
   "source_path": "securities-firms/iwai-cosmo-hd.md",
-  "url": "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
+  "url": "https://finwiki.zksc.io/ja/securities-firms/iwai-cosmo-hd/",
+  "html_url": "https://finwiki.zksc.io/ja/securities-firms/iwai-cosmo-hd/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/securities-firms/iwai-cosmo-hd/",
+    "en": "https://finwiki.zksc.io/en/securities-firms/iwai-cosmo-hd/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/iwai-cosmo-hd.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/iwai-cosmo-hd.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd.md",
   "domain": "securities-firms",
   "title": "岩井コスモホールディングス",
   "entry_type": "wiki_entry",
@@ -65,16 +70,16 @@
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/securities-firms/INDEX",
-      "https://finwiki.zksc.io/securities-firms/aizawa-sg",
-      "https://finwiki.zksc.io/securities-firms/matsui-sec",
-      "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
+      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/domains/securities-firms/",
+      "https://finwiki.zksc.io/ja/securities-firms/aizawa-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/matsui-sec/",
+      "https://finwiki.zksc.io/ja/securities-firms/okasan-sg/",
+      "https://finwiki.zksc.io/ja/securities-firms/tokai-tokyo-fh/",
+      "https://finwiki.zksc.io/ja/domains/securities/"
     ],
     "external_links_count": 0,
     "external_links": []

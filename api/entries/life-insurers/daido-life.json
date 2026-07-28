@@ -2,9 +2,14 @@
   "schema_version": "1.0",
   "slug": "life-insurers/daido-life",
   "source_path": "life-insurers/daido-life.md",
-  "url": "https://finwiki.zksc.io/life-insurers/daido-life",
+  "url": "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+  "html_url": "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+  "alternate_html_urls": {
+    "ja": "https://finwiki.zksc.io/ja/life-insurers/daido-life/",
+    "en": "https://finwiki.zksc.io/en/life-insurers/daido-life/"
+  },
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/daido-life.md",
-  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/daido-life.md",
+  "raw_markdown_url": "https://finwiki.zksc.io/life-insurers/daido-life.md",
   "domain": "life-insurers",
   "title": "大同生命保険",
   "entry_type": "wiki_entry",
@@ -65,14 +70,14 @@
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/taiyo-life",
-      "https://finwiki.zksc.io/life-insurers/td-financial-life",
-      "https://finwiki.zksc.io/life-insurers/td-hd",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/ja/financial-regulators/jfc/",
+      "https://finwiki.zksc.io/ja/domains/insurance/",
+      "https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/",
+      "https://finwiki.zksc.io/ja/domains/life-insurers/",
+      "https://finwiki.zksc.io/ja/life-insurers/taiyo-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/td-financial-life/",
+      "https://finwiki.zksc.io/ja/life-insurers/td-hd/",
+      "https://finwiki.zksc.io/ja/domains/policy-finance/"
     ],
     "external_links_count": 0,
     "external_links": []
