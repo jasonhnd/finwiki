@@ -67,7 +67,7 @@ finwiki/
 
 ## 如何新增一个 wiki entry
 
-1. 在对应 `<domain>/` 下建 `<slug>.md`，按 `SCHEMA.md` 写 frontmatter（title/domain/aliases/related/... ；可选 `canonical_anchor`）。
+1. 在对应 `<domain>/` 下建 `<slug>.md`，按 `SCHEMA.md` 写 frontmatter（title/domain/aliases/related/...；mirror page 必填 `canonical_anchor`，anchor 与普通条目省略）。
 2. 正文用 `[[domain/slug]]` 写 wikilink（`buildAliasMap` 会用 frontmatter `aliases` 解析别名）。
 3. 在该领域 `INDEX.md` 加一行；如果领域计数变了，`INDEX.md` 根表的 count 由 `release.ts` 不自动改——需手动核对（领域 count 来自 INDEX 表文本）。
 4. 走 [release-process.md](../08-operations/release-process.md)。

@@ -47,7 +47,9 @@ FinWiki entries must work as connected wiki nodes, not as isolated notes with on
 - `## Related` remains useful as a footer, but footer-only links do not satisfy the body-link requirement.
 - Run `bun tools/wiki_link_audit.ts --report wiki-link-improvement-plan.md --fail-on-issues` before push.
 
-## Optional / Legacy Fields
+## Conditional / Optional / Legacy Fields
+
+`canonical_anchor` is conditionally required for mirror pages and must otherwise be omitted. The remaining fields in this section are optional or legacy as described below.
 
 | Field | Type | Notes |
 |---|---|---|
