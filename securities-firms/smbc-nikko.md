@@ -11,9 +11,9 @@ aliases:
   - "securities-firms/smbc-nikko-securities"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities]
 status: active
@@ -22,9 +22,8 @@ entity_node:
   scope: japan_core
   status: anchor
 sources:
-  - "Wikipedia: SMBC日興証券 (公開情報、2026-05-19 抽出)"
-  - "Wikipedia: 日興コーディアル証券 (公開情報、2026-05-19 抽出)"
-  - "SMBC 日興証券 公式コーポレートサイト / 沿革ページ (公開情報)"
+  - "https://www.smbcnikko.co.jp/company/info/profile/"
+  - "https://www.smbcnikko.co.jp/company/info/profile/history/"
   - "三井住友フィナンシャルグループ IR 公開資料 (連結子会社情報)"
   - "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)"
   - "https://diamond.jp/articles/-/305405"
@@ -45,11 +44,13 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 **正式名**：SMBC 日興証券株式会社
 **英名**：SMBC Nikko Securities Inc.
-**設立**：1944（旧 日興証券として）/ 起源 1918（川島屋商店）
-**現法人名称**：2011-04-01（SMBC 日興証券に改称）
+**現法人の設立**：2009-06-15（2009-10-01 営業開始）
+**前身の沿革**：1918 年の川島屋商店創業、1944 年の日興證券設立へ遡る
 **本社**：東京都千代田区丸の内
 **親会社**：株式会社三井住友フィナンシャルグループ（[[megabanks/smfg]]、100% 連結子会社）
-**業態**：国内大手 5 大証券（非上場・親会社経由 [[megabanks/smfg]] 8316 上場）
+**登録番号**：関東財務局長（金商）第 2251 号
+**業態**：第一種金融商品取引業者（非上場・親会社経由 [[megabanks/smfg]] 8316 上場）
+^[SMBC 日興証券「会社概要」: https://www.smbcnikko.co.jp/company/info/profile/; 同「沿革」: https://www.smbcnikko.co.jp/company/info/profile/history/]
 
 ### 主要子会社・関連会社（公開情報ベース）
 

@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-securities
-source_hash: 4a57c727faf83adf
+source_hash: 1b3a7de1a05571c9
 lang: en
 status: machine
 fidelity: ok
 title: "IwaiCosmo Securities (岩井コスモ証券)"
-translated_at: 2026-06-19T12:43:19.893Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # IwaiCosmo Securities (岩井コスモ証券)
@@ -17,7 +17,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-IwaiCosmo Securities Co., Ltd. is a **mid-tier independent securities firm headquartered in Osaka**, the core 100% subsidiary of TSE PRIME-listed [[securities-firms/iwai-cosmo-hd|岩井コスモホールディングス (8707)]]. Founded in 1917 年 (Taisho 6 ) in Osaka as Iwai Securities, it adopted its current name when **the former Iwai Securities and the former Cosmo Securities merged in 2010-04 **. **Financial instruments business operator: Director-General of the Kinki Local Finance Bureau (Kinsho) 第15号** (FIEA Type 1  Type I financial instruments business). Head office in Imabashi, Chuo Ward, Osaka City; capital of 135 億円; operating 28  sales branches nationwide + 2  call centers + 2  net-support centers. As a **mid-tier independent securities firm centered on Kansai-based face-to-face retail**, it conducts overseas brokerage of US stocks / Greater China stocks, IPO underwriting, and consulting-style sales. Its competitors are mid-tier independent securities firms such as [[securities-firms/aizawa-sg|藍澤証券グループ]], [[securities-firms/okasan-sg|岡三証券グループ]], [[securities-firms/tokai-tokyo-fh|東海東京FH]], [[securities-firms/matsui-sec|松井証券]], and [[securities-firms/marusan-securities|丸三証券]].
+IwaiCosmo Securities Co., Ltd., headquartered in Imabashi, Osaka, is a wholly owned subsidiary of TSE Prime-listed [[securities-firms/iwai-cosmo-hd|IwaiCosmo Holdings (8707)]]. After Iwai Securities made Cosmo Securities a wholly owned subsidiary in 2010-04, the two securities companies merged on 2012-05-01 to form the current IwaiCosmo Securities. Its official profile lists capital of ¥13.5 billion, registration as Kinki Local Finance Bureau (FIBO) No. 15, and 902 employees as of 2026-04-01. ^[IwaiCosmo Securities company profile: https://www.iwaicosmo.co.jp/corporate/about/; company history: https://www.iwaicosmo.co.jp/corporate/history/; FSA financial instruments business operator registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. Corporation / shareholders
 

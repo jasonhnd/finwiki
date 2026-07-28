@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ssnb
-source_hash: bce3c1665759e5e2
+source_hash: ae79c9b0c8e2ed7c
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Sumishin Net Bank → Docomo SMTB Net Bank"
-translated_at: 2026-06-15T04:09:41.141Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # SBI Sumishin Net Bank → Docomo SMTB Net Bank
@@ -16,20 +16,21 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A former net bank that went through a dramatic parent-company switch: **2025-09-25 delisting from the TSE Standard market → 2025-10-01 becoming an NTT Docomo consolidated subsidiary → 2025-10-02 complete dissolution of the SBI HD capital relationship → 2026-08-03 planned rename to "Docomo SMTB Net Bank."** Having opened on 2007-09-24 as a 50:50  JV of Sumitomo Mitsui Trust + SBI HD, and after listing on 2023-03-29 PRIME, NTT Docomo acquired SBI HD's stake just 2  and a half years later. With **FY2024 (term 2025-03 ) consolidated net income of 281 億円, ordinary revenue of 1,465 億円, deposit balance of 9 兆 8,216 億円, and 825 万 accounts**, it is the second-largest in the net-bank industry after [[banking/rakuten-bank|rakuten-bank]]. Its core is the 2 -fold axis of being a **No.1 -class net bank by mortgage origination volume** plus **one of Japan's largest BaaS (NEOBANK) providers**. It is a rare case where the bank that had been the backend of "docomo NEOBANK / d Smart Bank" was absorbed by its partner [[megabanks/ndfg]] itself.
+SBI Sumishin Net Bank is a licensed ordinary bank that provides mortgages and the NEOBANK BaaS platform. It was delisted on 2025-09-25 and became an NTT Docomo consolidated subsidiary on 2025-10-01. Following a capital reorganisation on 2025-12-25, the Docomo side holds 55.37% and Sumitomo Mitsui Trust Bank 44.63%, while each side has 50% of voting rights. On 2026-07-01, NTT Docomo Financial Group became the new parent and major shareholder. As of 2026-07-29, the legal name remains SBI Sumishin Net Bank, Ltd.; subject to regulatory approval, it is scheduled to change to Docomo SMTB Net Bank, Ltd. on 2026-08-03 and adopt "Docomo Bank" as its retail service brand. ^[SBI Sumishin Net Bank company profile: https://www.netbk.co.jp/contents/company/about/organization/; joint release on the name change and capital reorganisation (2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; SBI Sumishin Net Bank, change in parent and major shareholder (2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html; SBI Sumishin Net Bank, "Docomo Bank" retail brand (2026-07-09): https://www.netbk.co.jp/contents/company/press/2026/0709_006011.html]
 
 ## 1. Company profile
 
-**Legal name**: SBI Sumishin Net Bank, Ltd. (株式会社住信 SBI ネット銀行) → **Docomo SMTB Net Bank, Ltd.** (株式会社ドコモ SMTB ネット銀行) (rename planned for 2026-08-03)
+**Legal name**: SBI Sumishin Net Bank, Ltd. (scheduled to become Docomo SMTB Net Bank, Ltd. on 2026-08-03, subject to regulatory approval)
 **English name**: SBI Sumishin Net Bank, Ltd.
-**Securities code**: former TSE STANDARD 7163 (**delisted 2025-09-25**; the former PRIME listing migrated in the Standard-market reorganisation of 2024 )
-**Established**: 2007-09-24 (opened the same day)
-**Current parents** (from 2025-10-02):
-  - **NTT Docomo**: shareholding ratio **55.37%** (under [[megabanks/ndfg]], consolidated subsidiary)
+**Securities code**: former 7163 (delisted on 2025-09-25)
+**Established**: 1986-06 (banking licence obtained in 2007-09)
+**Current parent and ownership** (as of 2026-07-29):
+  - **NTT Docomo Financial Group**: shareholding ratio **55.37%** (consolidating parent)
   - **Sumitomo Mitsui Trust Bank**: shareholding ratio **44.63%** (voting rights 50:50)
 **Business type**: net bank (ordinary banking licence) + BaaS provider
-**Head office**: Minato-ku, Tokyo
+**Head office**: Sumitomo Fudosan Roppongi Grand Tower, 3-2-1 Roppongi, Minato-ku, Tokyo
 **Governance structure**: company with a board of corporate auditors
+^[SBI Sumishin Net Bank company profile: https://www.netbk.co.jp/contents/company/about/organization/; joint release on the name change and capital reorganisation (2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; SBI Sumishin Net Bank, change in parent and major shareholder (2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html]
 
 ### Figures (FY2024  = term 2025-03 , consolidated basis)
 

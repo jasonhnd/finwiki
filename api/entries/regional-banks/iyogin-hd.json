@@ -25,9 +25,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -39,9 +39,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 株式会社いよぎんホールディングス (公開情報)",
-      "Wikipedia: 株式会社伊予銀行 (公開情報)",
-      "いよぎん HD コーポレートサイト (公開 IR)"
+      "https://www.iyogin-hd.co.jp/press-release/pdf/release_20221003a.pdf",
+      "https://www.iyobank.co.jp/about/company/overview/history/",
+      "https://www.iyobank.co.jp/about/company/overview/history/m11-01.html"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3294,
-    "word_like_tokens": 502,
+    "nonspace_chars": 3560,
+    "word_like_tokens": 542,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

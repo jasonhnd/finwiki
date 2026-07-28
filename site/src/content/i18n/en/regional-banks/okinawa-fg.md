@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 2a8e152111b98f5f
+source_hash: 2bc96e72c8a4efc4
 lang: en
 status: machine
 fidelity: ok
 title: "Okinawa FG"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # Okinawa FG
@@ -22,9 +22,10 @@ A standalone regional-bank FG based in Okinawa Prefecture (consolidated total as
 
 **Formal name**: Okinawa Financial Group, Inc.
 **English name**: Okinawa Financial Group, Inc.
-**Securities code**: TSE PRIME 7350 (listed 2021-10-01)
+**Securities code**: 7350 (Tokyo Stock Exchange Prime Market and Fukuoka Stock Exchange Main Board)
 **Established**: 2021-10-01 (full parent-company conversion via the sole share transfer of Bank of Okinawa)
 **Headquarters**: 3-10-1 Kumoji, Naha City, Okinawa Prefecture (same as the Bank of Okinawa head-office location)
+^[Okinawa Financial Group company profile: https://www.okinawafg.co.jp/about_us/; company history: https://www.okinawafg.co.jp/history/; Japan Exchange Group security profile 7350: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=7350]
 
 ### 2025-03  financial results (consolidated)
 

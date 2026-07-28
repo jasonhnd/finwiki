@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ryukyu-bank
-source_hash: 937d04c275307914
+source_hash: 09e65919ac41cf8a
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of the Ryukyus, Ltd. (株式会社琉球銀行)"
-translated_at: 2026-06-19T12:43:19.963Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # The Bank of the Ryukyus, Ltd. (株式会社琉球銀行)
@@ -26,6 +26,8 @@ The No. 2  regional bank within Okinawa Prefecture (a scale second to the Bank o
 **Established**: 1948-05-01 (established under USCAR Ordinance No. 第 1 号 "Ordinance Concerning the Establishment of the Bank of the Ryukyus")
 **Head office**: Kumoji, Naha City, Okinawa Prefecture 1-11-1
 **Form**: A standalone listed bank (not converted to a holding company, not adopting the FG structure adopted by many mega-banks and major regional banks)
+**Listing history**: Listed on the TSE Second Section and Fukuoka Stock Exchange in 1983-10, then reassigned to the TSE First Section in 1985-09
+^[Bank of the Ryukyus company profile: https://www.ryugin.co.jp/corporate/about/profile/; company history: https://www.ryugin.co.jp/corporate/about/history/]
 
 ### The special nature of its establishment
 
