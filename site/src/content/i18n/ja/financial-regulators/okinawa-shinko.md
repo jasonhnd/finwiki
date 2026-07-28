@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/okinawa-shinko
-source_hash: f70381599975e41c
+source_hash: ee67eb7808decd59
 lang: ja
 status: machine
 fidelity: ok
@@ -172,8 +172,8 @@ ODFC の存在意義は本土 JFC 同様「**民間金融機関が貸せない�
 
 - [[financial-regulators/jfc]](本土の総合政策金融・ODFC の本土版)
 - [[financial-regulators/dbj]](本土の中堅・大企業向け政策金融・ODFC 産業開発事業の本土版)
-- [[financial-regulators/shoko-chukin]](商工組合中央金庫・本土の中小企業政策金融)
-- [[financial-regulators/jbic]](国際協力銀行・海外金融)
+- [[financial-regulators/shoko-chukin]] (商工組合中央金庫・本土の中小企業政策金融)
+- [[financial-regulators/jbic]] (国際協力銀行・海外金融)
 - [[regional-banks/okinawa-fg]] · [[regional-banks/ryukyu-bank]](沖縄県内地銀・ODFC の協調融資相手)
 
 ## 出典
