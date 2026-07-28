@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/payment-license-stack
-source_hash: c0c768134f7f2966
+source_hash: 2d5897cc8006651c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の決済ライセンス・スタック"
-translated_at: 2026-06-26T08:31:59.847Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本の決済ライセンス・スタック
@@ -29,6 +29,9 @@ translated_at: 2026-06-26T08:31:59.847Z
 | 加盟店 PSP / アクワイアリング | 加盟店契約 / PSP / カードアクワイアリングルート | 割賦販売法、カードルール、サービス規約 | 役割による | [[payments/card-acquiring-japan-stack]]・[[payments/psp-merchant-settlement-risk]] |
 | 銀行口座直接決済 | Bank Pay / J-Debit / Cotra / 銀行口座振替ルート | ネットワーク / スキーム / 銀行口座ルート | 参加者およびスキームルート | [[payments/account-to-account-payment-japan]] |
 
+Sources: ^[Payment Services Act: https://laws.e-gov.go.jp/law/421AC0000000059; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA funds-transfer route: https://www.fsa.go.jp/common/shinsei/shikinidou.html; FSA prepaid-payment hub: https://www.fsa.go.jp/policy/prepaid/index.html; METI credit-purchase registry: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
+
 ## 資金移動ルート資金移動ルートは、ノンバンク送金に係る資金決済法上の登録カテゴリである。FSA 資料は、現行の三類型構造を示している：
 
 | 類型 | FSA 資料における公開記載 | 境界フィールド |
@@ -36,6 +39,9 @@ translated_at: 2026-06-26T08:31:59.847Z
 | 第一種 | 1 百万円超の送金ニーズ向けルート | より高額な資金移動カテゴリ。 |
 | 第二種 | 従来からの中核的資金移動カテゴリ | 主たるノンバンク送金 / ウォレット送金カテゴリ。 |
 | 第三種 | より低額な送金ルート | 少額送金カテゴリ。 |
+
+Sources: ^[Payment Services Act: https://laws.e-gov.go.jp/law/421AC0000000059; FSA funds-transfer application and operator-list routes: https://www.fsa.go.jp/common/shinsei/shikinidou.html; https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf.]
+
 
 公開検証には、FSA 資金移動業ページ、FSA 資金移動業者一覧、事業者の規約、登録番号を用いる。プロダクトの規約と法人格が認可された銀行預金ルートを示していない限り、残高は銀行預金として記録されない。
 
@@ -47,6 +53,9 @@ translated_at: 2026-06-26T08:31:59.847Z
 | 第三者型前払式支払手段 | 当該手段ルートの下で、価値保存は第三者の加盟店またはサービスに利用できる。 | FSA 第三者型前払発行者一覧およびサービス規約。 |
 | 自家型基準額フィールド | FSA Q&A は、自家型発行者が基準日に未使用残高が 10 百万円を超えた時点で届出義務を負うと述べている。 | FSA FinTech サポートデスク Q&A および発行者記録。 |
 | 第三者型認可フィールド | 第三者型前払発行者ルートは事前登録を用いる。 | FSA 第三者型前払発行者一覧。 |
+
+Sources: ^[FSA prepaid-payment hub: https://www.fsa.go.jp/policy/prepaid/index.html; FSA third-party prepaid issuer list: https://www.fsa.go.jp/menkyo/menkyoj/daisan.pdf; FSA Q&A on self-use prepaid instruments: https://www.fsa.go.jp/access/r2/213.html.]
+
 
 前払ルートは加盟店決済 / 価値保存のルートである。資金移動など別のルートが併存しない限り、一般的な送金とは区別される。
 
@@ -65,6 +74,9 @@ translated_at: 2026-06-26T08:31:59.847Z
 | ステーブルコイン決済 | EPI 取引ルート、電子決済等取扱ルート、発行者 / 信託 / 銀行の分類、適用される場合のウォレットまたは取引所登録。 |
 | BaaS 預金ウォレット | 認可された銀行、パートナー UI、開示されている場合の銀行代理または電子決済等代行ルート。 |
 
+Sources: ^[This is a FinWiki product-to-regime routing table derived from the FSA payment, prepaid, EPI, and electronic-payment-handling routes: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/policy/prepaid/index.html; https://www.fsa.go.jp/policy/virtual_currency02/; https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
+
 ## 公開記録フィールド
 
 | フィールド | ソースルート |
@@ -79,6 +91,9 @@ translated_at: 2026-06-26T08:31:59.847Z
 | 残高の種類 | 預金、前払残高、資金移動残高、信用債権、電子決済手段、または銀行預金債権。 |
 | 加盟店ルート | アクワイアラー、PSP、ペイメントファシリテーター、Bank Pay / J-Debit ルート、またはスキームルート。 |
 | 利用者保護 / 分別管理 | 規制当局のガイダンス、規約、開示文書。 |
+
+Sources: ^[FSA licensed-operator portal and role-specific registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/shikinidou.html; https://www.fsa.go.jp/policy/prepaid/index.html; METI credit-purchase registry: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html.]
+
 
 ## JapanFG 事業者リンク
 

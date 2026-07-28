@@ -47,7 +47,7 @@
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
 | `JapanFG` | 1 | 0 | 17.0 |
-| `agent-economy` | 47 | 0 | 12.9 |
+| `agent-economy` | 47 | 0 | 12.7 |
 | `asset-managers` | 15 | 0 | 17.2 |
 | `banking` | 40 | 0 | 42.8 |
 | `business` | 25 | 0 | 20.0 |
@@ -66,7 +66,7 @@
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 25.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |
-| `financial-regulators` | 53 | 0 | 21.9 |
+| `financial-regulators` | 53 | 0 | 21.8 |
 | `fintech` | 144 | 0 | 10.8 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |

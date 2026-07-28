@@ -27,9 +27,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -63,6 +63,9 @@
       "https://aws.amazon.com/bedrock/agentcore/",
       "https://azure.microsoft.com/en-us/products/ai-foundry",
       "https://cloud.google.com/agent-builder",
+      "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition",
       "https://www.fsa.go.jp/en/",
       "https://www.sec.gov/",
       "https://www.fca.org.uk/"
@@ -82,7 +85,7 @@
     "Particle Network"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -92,7 +95,6 @@
       "agent-economy/erc-7715-overview",
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/privy-embedded-wallet-overview",
-      "agent-economy/x402-http-payment-overview",
       "fintech/INDEX",
       "fintech/embedded-wallet-fintech-disintermediation-overview",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
@@ -107,7 +109,6 @@
       "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
       "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
       "https://finwiki.zksc.io/ja/agent-economy/privy-embedded-wallet-overview/",
-      "https://finwiki.zksc.io/ja/agent-economy/x402-http-payment-overview/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-overview/",
       "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
@@ -117,9 +118,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15198,
-    "word_like_tokens": 2438,
+    "nonspace_chars": 16555,
+    "word_like_tokens": 2623,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

@@ -3,9 +3,9 @@ title: "JapanFG financial reports 2020+ index"
 aliases: ["JapanFG 財報索引", "金融会社五年財報索引", "2020+ financial reports", "Japan financial company report index"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, financial-reports, IR, disclosure, annual-report]
 status: active
@@ -37,6 +37,8 @@ sources:
 | boundary | 単一上場主体ではなく、親会社、前身会社、子会社、または日本実体境界の説明が必要 |
 | partial | 公式入口は存在するが、年ごとの PDF 展開が必要、または 2020 ギャップあり |
 | gap | 公開 annual report / disclosure archive が見つからず、会社、格付、規制、または親会社入口のみ掲載可能 |
+
+Sources: ^[Repository-defined editorial status vocabulary for the source matrix below; these labels describe FinWiki review state rather than an external institution claim.]
 
 ## Source matrix
 

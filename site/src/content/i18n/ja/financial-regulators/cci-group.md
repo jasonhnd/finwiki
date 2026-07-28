@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/cci-group
-source_hash: 1082cacd69871d9e
+source_hash: a9da925b456d67eb
 lang: ja
 status: machine
 fidelity: ok
 title: "CCIグループ (CCI Group)"
-translated_at: 2026-06-15T03:48:21.853Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # CCIグループ (CCI Group)
@@ -34,6 +34,9 @@ CCI Group は、北國銀行を中核として構築された現行の上場銀�
 | Listing | 東京証券取引所プライム、7381 |
 | Core operating bank | [[regional-banks/hokkoku-bank|Hokkoku Bank]] |
 | Regulatory route | FSA 銀行持株会社一覧 |
+
+Sources: ^[CCI Group company profile: https://www.ccig.co.jp/company/about/; CCI Group corporate site: https://www.ccig.co.jp/company/; FSA bank holding-company list: https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf.]
+
 
 既存の [[regional-banks/hokkoku-fhd|hokkoku-fhd]] ページは歴史的 / 旧名のブリッジとして残るが、現行の公式名ルートはここを指す。
 

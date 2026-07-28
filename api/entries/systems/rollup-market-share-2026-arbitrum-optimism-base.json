@@ -29,9 +29,9 @@
     "domain": "systems",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "systems",
@@ -66,7 +66,11 @@
       "https://lineascan.build/",
       "https://docs.optimism.io/superchain",
       "https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart",
-      "https://docs.base.org/"
+      "https://docs.base.org/",
+      "https://docs.zksync.io/",
+      "https://docs.linea.build/",
+      "https://docs.polygon.technology/zkEVM/",
+      "https://docs.scroll.io/"
     ]
   },
   "summary": "This entry sits under systems index. Read it against ZK-EVM rollup maturity matrix 2026 for the technical maturity dimension that this entry's market share table summarizes economically, and EIP-4844 blob 経済と 2026 市場影響 for the underlying DA cost structure that determines rollup unit economics. Pair",
@@ -130,9 +134,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22821,
-    "word_like_tokens": 4080,
+    "nonspace_chars": 22854,
+    "word_like_tokens": 3992,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,12 +1,12 @@
 ---
 source: agent-economy/agent-custody-and-authorization-framework-2026
-source_hash: 61c64e87c0aa20a8
+source_hash: 24afe84ddd49e599
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エージェントのカストディおよび権限付与フレームワーク · 2026-05 リファレンスアーキテクチャ"
-translated_at: 2026-06-26T08:27:56.294Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # エージェントのカストディおよび権限付与フレームワーク · 2026-05 リファレンスアーキテクチャ
 
@@ -48,14 +48,17 @@ translated_at: 2026-06-26T08:27:56.294Z
 
 ### 軸 2 · 権限付与の粒度
 
-| 粒度 | 説明 | サポートされる場所 |
+| 粒度 | 説明 | 標準 / 実装の境界 |
 |---|---|---|
-| **単一取引** | エージェントは行動ごとにユーザー承認を要求しなければならない | 任意のウォレット（デフォルト） |
-| **時間制限** | `expiresAt` タイムスタンプまで有効なスコープ | ERC-7715 `expiry`；Skyfire 台帳；AP2 マンデートの有効性 |
-| **金額制限** | ローリングウィンドウにわたる支出上限（例：$50/日、$500/月） | ERC-7715 `period` + `amount`；Skyfire 支出上限；Privy アプリレベル上限 |
-| **支出ルール制限** | 許可されたマーチャント / カテゴリ / パターン | ERC-7715 `permissionsContext` 許可リスト；Skyfire マーチャントカテゴリ制限；AP2 マンデートスコープ |
-| **リソース別制限** | 許可された特定資産（USDC のみ、ETH 不可；特定トークン） | ERC-7715 `permission.type`（例：特定トークン向けの `erc20-token-transfer`）；Skyfire カードレベル設定 |
-| **構成** | 上記の組み合わせ（例：「.vercel.com のみへ $50/日、USDC のみ、7日有効期限」） | ほとんどの本番スタックは 3+ を構成する |
+| **単一アクションの承認** | ウォレットが取引またはメッセージごとにユーザーへ承認を求める | 既存のウォレット RPC / 署名フロー。挙動はウォレットごとに異なる |
+| **期限付き** | 定義した時刻に権限が失効する | ERC-7715 Draft は `expiry` rule を例示する。ウォレットが正しく強制しなければならない |
+| **金額上限付き** | 権限が価値または token allowance を制限する | ERC-7715 は typed permission data を許容するが、対応する allowance type は実装依存 |
+| **対象限定** | 呼び出し先を特定の contract、加盟店、method、destination に限定する | permission type / rule または application policy で表現する。共通の加盟店 taxonomy は定義されていない |
+| **asset / chain 限定** | 権限を特定 chain と asset または operation に限定する | ERC-7715 request は `chainId`、account、typed permission data を含む。対応 type は各 wallet が別途公開する |
+| **複合 policy** | 複数の制約を同時に強制する | wallet / delegation implementation が composition、precedence、revocation、failure behavior を定義する必要がある |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-7715] ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/] ^[https://docs.skyfire.xyz/]
+
 
 2026 の本番リファレンス：**構成が常態である**。単一の次元で十分なことはまれである。実際のエージェント権限は次のように見える：
 
@@ -128,16 +131,18 @@ GRANT to agent_id A1:
 
 ## 伝統的な証券会社の限定的委任状（LPOA）との比較伝統的金融からの教義上のアナログは、顧客が限定的委任状（LPOA）を通じて投資顧問に付与する**裁量取引権限**である。この構造は約 50 年間安定している：
 
-| 次元 | 証券会社 LPOA | エージェント ERC-7715 / Skyfire の同等物 |
-|---|---|---|
-| **スコープ** | 資産クラス（株式、債券、FX） | `permission.type`（トークン、転送、スワップ） |
-| **金額** | ポジションサイズ上限、時に想定元本 | `amount_cap` + `period` |
-| **時間** | 失効権付きの無期限。一部は時間制限 | `expiry` タイムスタンプ |
-| **承認された取引相手** | 証券会社の執行会場 | `allowed_targets` 許可リスト |
-| **失効** | 書面通知。通常 T+1 で発効 | オンチェーン即時、またはウォレット仲介で数秒 |
-| **監査** | 月次取引報告書 + Form 8949 / 法定調書 | オンチェーン台帳 + 署名済みレシート + 監査ログ |
-| **責任** | 顧客が責任を負う。顧問は受託者義務を負う | デプロイヤーが責任を負う。エージェントプロバイダは契約上の責任を負う場合がある |
-| **規制当局** | SEC IA / BD 監督、FINRA、FSA 第1 種 / 第2 種 FIBO | デプロイヤーの規制対象活動を介して間接的 |
+| 次元 | 従来の裁量権限 | ウォレット権限における類似要素 | 類比の重要な限界 |
+|---|---|---|---|
+| **範囲** | 契約と口座条件が許可された行為を定義する | typed permission と rule が実行可能な call を定義する | 技術的 permission 自体は法的な代理契約ではない |
+| **金額** | mandate、口座または risk limit が取引を制限し得る | allowance / policy data が価値を制限し得る | 対応する limit semantics は wallet implementation に依存する |
+| **期間** | 契約上の authority は expiry または revocation まで継続する | permission に expiry rule を付与できる | ERC-7715 は Draft であり、全 wallet が同じ rule を支援するわけではない |
+| **相手方 / 対象** | broker、venue、product permission が execution を制限する | target / method restriction を permission system で符号化できる | 加盟店 / 相手方 identity には引き続き off-chain verification が必要 |
+| **撤回** | 口座条件に基づく契約・運用 process | ERC-7715 は `wallet_revokeExecutionPermission` を定義する | confirmation と発効 timing は wallet / chain behavior に依存する |
+| **監査** | books、records、confirmations、statements | permission context、signature、transaction、application log | on-chain record だけでは off-chain intent や法的 suitability を記録できない |
+| **責任 / 監督** | 準拠法、契約、regulated duty が適用される | product terms と deployer の regulated activity が引き続き関係する | 引用した標準はいずれも責任を AI agent に一律移転しない |
+
+Sources: ^[https://www.finra.org/rules-guidance/notices/12-25] ^[https://www.sec.gov/divisions/investment/imapplications/discretionary] ^[https://eips.ethereum.org/EIPS/eip-7715]
+
 
 構造的な並行関係は意図的なものである。エージェントのカストディ / 権限付与は、**より強力な失効プリミティブ** と **より細かい粒度のスコープ表現** を備えた**デジタルネイティブな LPOA** である。法的教義はほとんど変わらず適用される。すなわち、本人（ユーザー / デプロイヤー）が責任を保持し、エージェントは付与されたスコープ内で限定的な権限を持ち、失効は本人の一方的な権利である。完全な教義マッピングについては [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]]、証券会社 LPOA のフレーミングについては [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime 証券仲介]] を参照のこと。
 

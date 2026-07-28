@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/jbic
-source_hash: ca6df8e1fc846933
+source_hash: a162e16d80676609
 lang: ja
 status: machine
 fidelity: ok
 title: "国際協力銀行 (JBIC)"
-translated_at: 2026-06-02T14:25:12.449Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 国際協力銀行 (JBIC)
 
@@ -64,6 +64,9 @@ translated_at: 2026-06-02T14:25:12.449Z
 | **アンタイドローン** | 産業発展支援融資（特定の日本企業案件と紐付かない、中所得国向け）| 中所得国政府 / 公的機関 |
 | **出資** | 戦略案件への少数出資（リスクマネー供給）| インフラ / 資源 / GX 案件 |
 | **保証** | 民間金融機関の融資・債券への保証付与 | 民間銀 / 機関投資家 |
+
+Sources: ^[JBIC official functions and organization: https://www.jbic.go.jp/en/about/organization.html; JBIC official English site: https://www.jbic.go.jp/en/.]
+
 
 ### 業務スキーム
 

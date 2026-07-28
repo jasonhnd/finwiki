@@ -1,11 +1,11 @@
 ---
 source: systems/hook-enforced-compliance
-source_hash: f760e5e1747f8cc6
+source_hash: 9afb20ea631598d0
 lang: ja
 status: machine
 fidelity: ok
 title: "Hook-Enforced Compliance"
-translated_at: 2026-06-03T01:06:46.346Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Hook-Enforced Compliance
 
@@ -13,14 +13,18 @@ translated_at: 2026-06-03T01:06:46.346Z
 
 この項目は [[systems/INDEX|systems index]] に属する。ピア比較・対照の文脈では [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite）]] と合わせて読み、より広いシステム境界・規制境界については [[fintech/INDEX|fintech index]] を参照する。
 
-## 5 層防御モデル(personal OS)
+## 5 層の公開 control-point モデル
 
-| 層 | 性質 | 実装 |
-|---|------|------|
-| 1  | **前置注入**(最も硬い) | UserPromptSubmit hook → 応答生成前に HARD RULE reminder を注入 |
-| 2  | **出力形式強制** | Pre-flight Compliance Check → ROUTER の先頭行で `🌅 Trigger: ...` |
-| 3  | **サブエージェント自己証明** | Subagent の第一行で「Task() 真実 launch」を宣言 |
-| 4  | **事後監査** | AUDITOR Compliance Patrol(Mode 3) 7-class taxonomy |
+| Layer | 公開 hook / control point | 強制できる境界 | 実装時の注意 |
+|---|---|---|---|
+| 1 | `UserPromptSubmit` / `SessionStart` | 実行前に公開ルールや検証 context を追加する | 注入内容を最小化し、秘密情報を含めない |
+| 2 | `PreToolUse` | tool call を allow / ask / deny に分岐する | matcher、入力 schema、exit code / JSON response をテストする |
+| 3 | `PermissionRequest` | permission decision を policy に従って処理する | 無条件許可にせず、対象 resource と action を照合する |
+| 4 | `PostToolUse` / `PostToolUseFailure` | 結果を記録し、追加 feedback を返す | 既に起きた副作用は取り消せないため、事前 gate の代替にしない |
+| 5 | `Stop` / `SubagentStop` と回帰テスト | 必要な検証が欠けた終了を止め、設定変更の再発を検出する | hook の無限 loop、timeout、fail-open / fail-closed 方針を明示する |
+
+Sources: ^[https://code.claude.com/docs/en/hooks]
+
 
 **層別の本質**:
 

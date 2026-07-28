@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/pwc-aarata
-source_hash: a6a14ad4f498746a
+source_hash: 6814b6930c823d38
 lang: ja
 status: machine
 fidelity: ok
 title: "PwC Japan 有限責任監査法人 (旧 PwC あらた)"
-translated_at: 2026-06-18T23:59:13.118Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # PwC Japan 有限責任監査法人 (旧 PwC あらた)
 
@@ -81,12 +81,15 @@ PwC 系（旧 中央青山 + あらた + 現 PwC Japan）の金融機関監査�
 
 ## 6. 競合関係
 
-| Big 4 | 国内ブランド | 強み軸（公開ベース）|
+| Big 4 | 国内ブランド | FinWiki 分析上の公開サービス注目領域 |
 |---|---|---|
-| PwC | **PwC Japan（旧 あらた）** | FinTech / Web3 / グローバル PwC 連携 |
-| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | 上場会社監査数 |
-| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | M&A / 暗号資産先行 |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | 金融機関内部統制 |
+| PwC | **PwC Japan 有限責任監査法人（旧 PwC あらた）** | グローバルネットワーク、デジタル資産 |
+| EY | [[financial-regulators/ey-shinnihon|EY 新日本]] | 大規模上場会社、金融サービス |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | 監査・保証、FAS 連携、デジタル資産 |
+| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | 金融サービス、内部統制 |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: PwC https://www.pwc.com/jp/ja/services/audit-assurance.html; EY https://www.shinnihon.or.jp/services/financial-services/; Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; KPMG https://kpmg.com/jp/ja/home/services/audit.html.]
+
 
 Tier 2：[[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人 ^[extracted]。
 

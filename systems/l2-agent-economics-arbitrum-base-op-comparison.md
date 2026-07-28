@@ -3,9 +3,9 @@ title: L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワーク
 aliases: [l2-agent-economics, arbitrum-base-op-agent-comparison, l2-for-ai-agents, l2-per-tx-cost-agent, l2-paymaster-availability, agent-workload-l2-selection, base-default-l2-for-agents]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, l2, arbitrum, base, optimism, agent-economy, gas, paymaster, usdc, cdp, privy]
 status: active
@@ -35,17 +35,15 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 | 観点 | Base | Arbitrum One | Optimism Mainnet |
 |---|---|---|---|
-| タイプ | OP Stack(Bedrock + Fault Proof) | Arbitrum Nitro(custom rollup) | OP Stack(Bedrock + Fault Proof) |
-| TVL(DefiLlama、2026-Q1) | ~$8-10B | ~$15-20B | ~$1-2B |
-| 日次 tx | ~3-5M | ~2-3M | ~300-500k |
-| 平均 per-tx ユーザー fee(post-Pectra) | $0.001-0.005 | $0.002-0.01 | $0.001-0.005 |
-| DA 層 | Ethereum blob | Ethereum blob(Nova は一部 AnyTrust DA) | Ethereum blob |
-| Sequencer 中央集権度 | Coinbase 単一 sequencer | Offchain Labs 単一 sequencer(BoLD fault proof + 分散化計画あり) | Optimism Foundation 単一 sequencer(分散化計画あり) |
-| Native USDC | USDC Native(Circle, 2023-09 ローンチ) | USDC Native(2023-06 ローンチ) | USDC Native(2023-09 ローンチ) |
-| Bridged USDC | USDbC(deprecated, ユーザー移行ほぼ完了) | USDC.e(legacy, 依然として存在) | USDC.e(legacy, 依然として存在) |
-| Smart wallet デフォルト | Coinbase Smart Wallet(ERC-4337) | 複数のサードパーティ(Safe / Biconomy 等) | 複数のサードパーティ |
-| Paymaster 商用化製品 | Coinbase CDP Paymaster | Alchemy Account Kit / Biconomy / Pimlico | Alchemy Account Kit / Biconomy / Pimlico |
-| 既知の大型 agent / payment 統合 | x402 / Coinbase Agent Kit / Privy デフォルト | GMX agent / DeFi agent / 一部機関 | World mini-apps / Worldcoin |
+| Execution stack | OP Stack | Arbitrum Nitro | OP Stack |
+| Settlement / DA | Ethereum settlement、batch data は Ethereum blob を利用 | Ethereum settlement、Arbitrum One の batch data は Ethereum に投稿 | Ethereum settlement、batch data は Ethereum blob を利用 |
+| State validation | OP Stack fault-proof system と chain-specific governance / contracts | Nitro fraud-proof architecture と BoLD の現行 deployment を確認 | OP Stack fault-proof system と chain-specific governance / contracts |
+| Sequencing boundary | ordering、forced inclusion、upgrade / pause authority を Base docs で確認 | sequencer、delayed inbox、upgrade authority を Arbitrum docs で確認 | ordering、forced inclusion、upgrade / pause authority を Optimism docs で確認 |
+| Agent wallet / sponsorship | CDP / smart-wallet / paymaster interfaces を選べるが、利用条件は製品文書に依存 | ERC-4337 等の第三者 wallet / bundler / paymaster を別途選定 | ERC-4337 等の第三者 wallet / bundler / paymaster を別途選定 |
+| USDC / cross-chain | Circle の現行 support matrix で native USDC、CCTP、contract address を確認 | 同左 | 同左 |
+| 経済性の検証 | TVL、tx 数、gas、sponsor price は live telemetry / quote で測る | 同左 | 同左 |
+
+Sources: ^[https://docs.base.org/] ^[https://docs.arbitrum.io/] ^[https://docs.optimism.io/] ^[https://docs.cdp.coinbase.com/] ^[https://www.circle.com/en/cross-chain-transfer-protocol]
 
 ## Per-transaction cost · agent ワークロード視点
 

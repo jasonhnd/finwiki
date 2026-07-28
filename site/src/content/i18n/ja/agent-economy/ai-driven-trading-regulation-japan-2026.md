@@ -1,12 +1,12 @@
 ---
 source: agent-economy/ai-driven-trading-regulation-japan-2026
-source_hash: 173df95f6783818d
+source_hash: 974b81d162e6f48b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AI 主導トレーディング規制 · 日本 FSA / SESC とグローバルな FCA / SEC / ESMA の比較 2026"
-translated_at: 2026-06-26T08:32:15.193Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # AI 主導トレーディング規制 · 日本 FSA / SESC とグローバルな FCA / SEC / ESMA の比較 2026
 
@@ -111,30 +111,34 @@ ESMA は、AI が国内所管当局レベル（NCA レベル）の監督でど�
 
 2025-2026 の監督フレームは、AI 主導の操作を別個のカテゴリとしてますます区別する：
 
-| 次元 | 人間主導の操作 | AI 主導の操作 |
+| Supervisory dimension | Human-directed activity | AI / algorithm-assisted activity |
 |---|---|---|
-| **速度 / ボリューム** | 人間に制約される（ミリ秒の反応、毎分数十の注文） | アルゴに制約される（マイクロ秒の反応、毎分数千の注文） |
-| **クロス会場の連携** | 明示的な連携なしには困難（それ自体が違反） | 複数会場にまたがって動作する単一エージェントによって容易に執行される |
-| **パターンの反復性** | トレーダーのシグネチャは検知可能だが可変 | アルゴリズムのシグネチャはエピソード間で高度に反復可能 |
-| **意図の帰属** | トレーダーの証言、コミュニケーション、損益パターン | アルゴリズムの設計上の選択と訓練データから推論される |
-| **提起される防御** | 「操作する意図はなかった」 | 「モデルが予期せぬ挙動をした」（ESMA / SESC の 2024-2025 ガイダンスにより却下） |
-| **執行の対象** | トレーダー | アルゴリズムをデプロイした運用者 / 企業 |
-| **検知手法** | トレーダーパターンのサーベイランス、コミュニケーションレビュー | クロス会場の注文フロー相関、モデル出力の異常検知 |
+| **Applicable prohibition** | 既存の market-manipulation、conduct、supervision rules が適用される | 同じ activity-based prohibition が適用され、AI の使用は safe harbor を作らない |
+| **Decision evidence** | order、communication、account relationship、incentive、trading pattern | 同じ record に加え、model version、prompt / feature、code、parameter、override、deployment log |
+| **Attribution** | trader、controller、beneficiary、supervising firm を特定する | model を legal actor と仮定せず、deploying firm、accountable operator、model / data provider、human approval path を特定する |
+| **Pre-trade controls** | limit、restricted list、venue / product permission、supervisory approval | model-output validation、deterministic risk limit、kill switch、drift / change control、prompt / data defense を追加 |
+| **Post-trade surveillance** | pattern、venue、communication review | 通常の market-abuse surveillance を維持しつつ model / strategy correlation と replayable decision trace を追加 |
+| **Supervisory conclusion** | intent と responsibility は governing law と evidence から判断する | 「unexpected model behavior」は risk-management fact であり、それ自体は法的結論でも自動的な defense でもない |
+
+Sources: ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html] ^[https://www.fsa.go.jp/sesc/english/news.html] ^[https://www.esma.europa.eu/document] ^[https://www.sec.gov/newsroom/speeches-statements/crenshaw-remarks-ai-roundtable-032725]
+
 
 **「モデルが予期せぬ挙動をした」** という防御は、SESC、ESMA、FCA、SEC、MAS のガイダンスにおいて 2024-2025に一貫して却下されてきた。その立場は、運用者がデプロイ前に AI システムを理解・監督する責任を負うというものである。予期せぬ挙動はデプロイヤーの失敗であり、言い訳ではない。
 
 ## 2025-2026 の規制パイロット · 注視すべきもの
 
-| パイロット | 管轄 | ステータス | 何をテストするか |
+| Public workstream | 法域 | 確認できる公開 artifact | 導ける結論 |
 |---|---|---|---|
-| **FSA AI 原則の更新の弧** | 日本 | 進行中 | AI 主導の意思決定アーティファクトが金商法の適合性 + 顧客保護のために「説明可能」とみなされるかどうか |
-| **SESC AI 拡張サーベイランス** | 日本 | 本番 | JPX + PTS におけるクロス会場の AI 主導操作の検知 |
-| **FCA AI サンドボックス金融コホート** | 英国 | 2025-2026 コホート稼働中 | 監督観察下にある実環境の AI トレーディングシステム |
-| **MAS Veritas + AI サンドボックス** | シンガポール | 進行中 | FEAT 原則の運用化。企業が MAS サンドボックスでモデルをテストする |
-| **IOSCO 資本市場における AI レビュー** | グローバル | 2026 まで進行中 | クロス管轄の収束に関する知見 |
-| **EU AI 法高リスク実装** | EU | 2026-2027 まで段階的導入 | トレーディング固有のユースケースが附属書 III に追加されるかどうか |
-| **SEC AI 利益相反規則** | 米国 | 2025に一時停止；ステータス不確実 | 予測データ分析規則が復活するかどうか |
-| **JPX アルゴ取引規則の明確化** | 日本 | 2024-2025 公表ガイダンス | LLM 拡張戦略が対象範囲内であることを特に明確化 |
+| **FSA AI Discussion Paper v1.1** | 日本 | 金融庁 discussion paper と AI 官民フォーラム資料 | initial issue、use case、governance dialogue。paper は分析が preliminary であり trading-specific rule ではないとする |
+| **SESC market surveillance publications** | 日本 | 証券取引等監視委員会の annual / news materials | 既存の market-abuse supervision が継続する。named disclosure なしに特定 AI engine や production capability を主張しない |
+| **FCA AI / financial-services work** | 英国 | FCA discussion、consultation、innovation publications | supervisory exploration と existing-rule application。個別 sandbox participation は別途 source が必要 |
+| **MAS FEAT / Veritas and consultations** | シンガポール | MAS public principles、toolkits、consultation pages | governance / fairness method と policy work。autonomous trading の blanket approval ではない |
+| **IOSCO AI reports / consultations** | グローバル | IOSCO public report library | cross-market risk と policy observation。直接 enforceable な global rule ではない |
+| **EU AI Act implementation** | 欧州連合 | Regulation (EU) 2024/1689 と implementing material | role / use-case-specific な AI Act duties と existing financial law。classification は評価が必要 |
+| **SEC predictive-data-analytics proposal** | 米国 | SEC は June 2025 に proposal を正式撤回 | existing securities duties は残るが、withdrawn proposal は current final rule ではない |
+
+Sources: ^[https://www.fsa.go.jp/news/r7/sonota/20260303/aidp.html] ^[https://www.fsa.go.jp/sesc/english/news.html] ^[https://www.fca.org.uk/publications/discussion-papers] ^[https://www.mas.gov.sg/regulation/consultations] ^[https://www.iosco.org/library/pubdocs/] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689] ^[https://www.sec.gov/rules-regulations/2025/06/s7-12-23]
+
 
 **統合 2026-05**：2026に AI 固有のトレーディング規則を出す態勢にある管轄はない。すべて既存フレームワークの下で観察している。主要な AI 固有トレーディング規則の最も早く考えられる窓は、AI 主導トレーディングに起因する公開市場のストレスイベント（重大な規模ではまだ発生していない）を条件として 2027-2028, である。
 

@@ -27,9 +27,9 @@
     "domain": "financial-regulators",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4502,
-    "word_like_tokens": 687,
+    "nonspace_chars": 4870,
+    "word_like_tokens": 748,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

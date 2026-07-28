@@ -1,12 +1,12 @@
 ---
 source: trade/letter-of-credit-documentary-mechanism
-source_hash: f8f131d9c46b4f93
+source_hash: f2bcf6592bdb1c0a
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "信用状（荷為替信用状） — 貿易決済の仕組み"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 信用状（荷為替信用状） — 貿易決済の仕組み
 
@@ -77,6 +77,9 @@ L/C は主として制定法の産物ではなく、**国際商業会議所（IC
 | ISP98 | **スタンドバイ**信用状（保証に近い機能を持つ）に通常用いられる別個の規則集 |
 | URDG 758 | **請求払保証**に関する ICC 規則 — 関連するが別個の手段 |
 
+Sources: ^[ICC trade-finance rules overview: https://iccwbo.org/business-solutions/trade-finance/; ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC eUCP version 2.1 page: https://iccwbo.org/news-publications/policies-reports/eucp-version-2-1-icc-uniform-customs-and-practice-for-documentary-credits/.]
+
+
 規則は法律によって課されるのではなく引用によって取り込まれるため、その権威はほぼ普遍的な銀行採用に由来する。これにより L/C は、グローバルに調和した業界統治の金融標準の最も明確な一例となる — [[policy-finance/INDEX|policy-finance]] 全体で記録される国家を拠り所とする枠組みとは対照的である。
 
 ## 一般的な信用状の種類
@@ -92,6 +95,9 @@ L/C は主として制定法の産物ではなく、**国際商業会議所（IC
 | 回転 | 一つのファシリティのもとで反復出荷のために自動的に復元する |
 | レッドクローズ | 受益者への船積前前貸しを認める |
 | スタンドバイ | 発行依頼人が履行**しない**場合にのみ支払う — 経済的には保証で、通常は ISP98 のもと |
+
+Sources: ^[ICC UCP 600 publication page: https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/; ICC Academy documentary-credit terminology guide: https://academy.iccwbo.org/international-trade/article/documentary-credits-rules-guidelines-terminology/.]
+
 
 ## 貿易金融・決済スタックにおける L/C の位置
 

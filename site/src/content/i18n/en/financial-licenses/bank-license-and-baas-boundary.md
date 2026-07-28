@@ -1,11 +1,11 @@
 ---
 source: financial-licenses/bank-license-and-baas-boundary
-source_hash: a76144a83ecededb
+source_hash: af1c2ff3120daf08
 lang: en
 status: machine
 fidelity: ok
 title: "Japan bank license and BaaS boundary"
-translated_at: 2026-05-31T23:59:49.387Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Japan bank license and BaaS boundary
 
@@ -26,6 +26,9 @@ This page belongs to [[financial-licenses/INDEX|JapanFG legal / financial licens
 | Electronic payment handling | `電子決済等取扱業` | Registration | Bank-commissioned intermediation for electronic increase / decrease of bank deposit claims and related deposit-contract intermediation. |
 | Partner-branded BaaS surface | Partner app, branch, UI, or product brand | Depends on role | Customer-facing interface where the balance may remain a bank deposit at the licensed bank. |
 | Wallet / stored-value layer | Funds transfer or prepaid route where applicable | Registration / filing route | Non-bank payment balance, remittance claim, prepaid balance, or merchant-payment route. |
+
+Sources: ^[Banking Act: https://laws.e-gov.go.jp/law/356AC0000000059; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA bank-agency guideline: https://www.fsa.go.jp/common/law/guide/city/07.html; FSA electronic-payment-agency guideline: https://www.fsa.go.jp/common/law/guide/city/08.html; FSA electronic-payment-handling route: https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
 
 ## Licensed Bank Layer
 
@@ -64,6 +67,9 @@ This route is the Banking Act side of deposit-token / bank-issued digital-money 
 | Non-bank wallet route | FSA funds-transfer list, prepaid issuer list, product terms. |
 | User-facing brand | Partner branch page, NEOBANK page, BaaS page, app page. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA bank-agent registry: https://www.fsa.go.jp/menkyo/menkyoj/dairi_a.pdf; FSA electronic-payment-agency registry: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; FSA electronic-payment-handling route: https://www.fsa.go.jp/common/shinsei/dendai/dentori.html.]
+
+
 ## BaaS Operating Layers
 
 | BaaS model | Bank-license holder | Partner / interface layer | Linked FinWiki route |
@@ -74,6 +80,9 @@ This route is the Banking Act side of deposit-token / bank-issued digital-money 
 | Corporate API bank | Licensed bank | Corporate banking API, treasury, accounting, platform workflows | [[payment-firms/gmo-aozora-net]] |
 | Bank-agent route | Principal bank plus permitted bank agent | Agent channel / app route | [[regional-banks/ui-bank]] |
 | Wallet plus bank linkage | Bank account plus funds-transfer / prepaid / account-linking route | Wallet or merchant payment service | [[payments/funds-transfer-vs-prepaid-boundary]] |
+
+Sources: ^[This is a FinWiki analytical routing table derived from the Banking Act and the role-specific FSA routes: https://laws.e-gov.go.jp/law/356AC0000000059; https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/dendai/index.html.]
+
 
 ## Public Verification Checklist
 
@@ -86,6 +95,9 @@ This route is the Banking Act side of deposit-token / bank-issued digital-money 
 | Is a deposit-token / electronic deposit-claim route used? | FSA `電子決済等取扱業` page and supervisory route. |
 | Is there a funds-transfer or prepaid layer? | FSA `資金移動業者` list, FSA prepaid issuer list, and product terms. |
 | Does the public page identify a principal bank? | Partner branch, NEOBANK, bank-agent, or BaaS service page. |
+
+Sources: ^[FSA licensed-operator portal and linked registries: https://www.fsa.go.jp/menkyo/menkyo.html; FSA electronic-payment-agency application page: https://www.fsa.go.jp/common/shinsei/dendai/index.html; FSA bank-agent registry: https://www.fsa.go.jp/menkyo/menkyoj/dairi_a.pdf.]
+
 
 ## Related
 

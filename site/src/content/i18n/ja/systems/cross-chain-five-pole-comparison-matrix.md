@@ -1,11 +1,11 @@
 ---
 source: systems/cross-chain-five-pole-comparison-matrix
-source_hash: ce3f778d24038291
+source_hash: 80bc3f0eb27c3bb0
 lang: ja
 status: machine
 fidelity: ok
 title: "クロスチェーン5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の9 次元"
-translated_at: 2026-06-23T01:29:43.837Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # クロスチェーン5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の9 次元
 
@@ -23,19 +23,22 @@ translated_at: 2026-06-23T01:29:43.837Z
 
 ## 仕組み
 
-**9 次元対照マトリクス**（2026-Q2 時点）:
+**公開仕様に基づくアーキテクチャ対照マトリクス**:
 
 | 次元 | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
 |---|---|---|---|---|---|
-| **メッセージングモデル** | Burn-mint（USDC のみ）· Circle のオフチェーン証明署名 | Oracle DON + Risk Management Network · Lock-mint または汎用メッセージング | DVN M-of-N（アプリ設定）· Lightweight ULN · 汎用メッセージング | パーミッションレス · 顧客が ISM を選択（マルチシグ / POS / optimistic / ZK）· Lock-mint またはメッセージング | Guardian 19-of-19 マルチシグ + ZK Verifier · Lock-mint + Burn-mint（NTT） |
-| **セキュリティモデル** | Circle の中央集権 attester · 規制コンプライアンスの裏付け | RMN の独立委員会（2-of-N veto）+ Chainlink OCR · 二層冗長 | DVN 集合（既定は LayerZero Labs + Google Cloud + Polyhedra ZK）· 顧客が変更可能 | モジュール型 · 既定は multisig · Eigen restaking / ZK / optimistic を選択可能 | Guardian set 19 ノード（Jump / Everstake / Forbole など）· ZK Verifier が補完 |
-| **決済保証** | Fast Transfer 8-20 秒 · Standard 10-20 分 · 不可逆 | 通常 7-20 分（リスク確認期間を含む）· 高額取引では遅延設定が可能 | DVN 設定に依存 · 最小構成の単一 DVN は数秒 · 高セキュリティの複数 DVN は分単位 | ISM が決定 · マルチシグは 1-2 ブロック · optimistic は 30 分の異議申立期間 | 約15 分のファイナリティ（送信元チェーンのファイナリティ待ち）+ Guardian 署名 |
-| **チェーンカバレッジ（2026）** | 12以上のチェーン（EVM L1/ L2 主流 + Arc + Sonic + Aptos）· 全体として EVM 中心 | 約25 チェーン（EVM L1/ L2 + 一部の non-EVM。例: Solana 試験中） | 100以上のチェーン（EVM 全面 + Aptos / Sui / Solana / TON / Tron） | 任意チェーンがセルフデプロイ可能 · 主な対象は Eclipse / Celestia / Cosmos / SVM のロングテール | 30以上のチェーン（Solana に強く、EVM 全面 + Sui / Aptos / Near / Algorand） |
-| **機関採用** | Circle ネイティブ USDC · Coinbase · Stripe Tempo · MoneyGram · 規制フレンドリー | SWIFT メッセージングパイロット · DTCC Smart NAV · J.P. Morgan Kinexys · ANZ A$DC · BNY · TradFi に強い | Stargate / Pendle / LiFi / Trader Joe · 一部の fintech（PayPal PYUSD bridging） | Eclipse / Celestia / Renzo / Karak · DeFi ネイティブのロングテール · 機関採用は弱い | Jito / MakerDAO / Lido · Solana の大手アプリ · Uniswap のクロスチェーンガバナンス |
-| **ガス / 費用** | ユーザーが送信元チェーンのガス + Circle Fast Transfer 手数料を支払う（約$0.10-1）· USDC 建て | ユーザーが LINK またはネイティブトークンを支払う · 実行 + リスク検証の二重手数料 · 高額機関グレード | ユーザーが送信元ガス + DVN 手数料 + 宛先側実行費を支払う（Pay Master 経由で任意トークン課金） | ユーザーが送信元ガス + Hyperlane gas oracle が推定する宛先側ガスを支払う · 任意トークン · 自営リレーで節約可能 | ユーザーが送信元ガス + Wormhole 手数料 + 宛先側ガス補助（NTT）を支払う · VAA リレーは第三者代行可能 |
-| **ガバナンス / アップグレード** | Circle Inc.（中央集権 · OFAC + §501 の拘束） | Chainlink Foundation + DAO 提案 + RMN 独立委員会（SmartCon ガバナンス） | LayerZero Labs（チームガバナンス · ZRO token は将来的に分権化） | Hyperlane DAO + HYPER token（2024 ローンチ）· パーミッションレス改修は ISM レベルで顧客同意が必要 | Wormhole DAO + W token（2024）· Guardian set 変更は ≥2/3 の投票が必要 · Foundation が調整 |
-| **過去事件 / 監査** | Circle の単点信頼はまだ破られていない · 監査は OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | 重大事故なし · Chainlink は複数回監査済み · RMN は独立監査済み · CertiK / Trail of Bits | 2024.01 一時的な DVN 設定バグ（資金損失なし）· 複数回監査は Zellic / Trail of Bits · DVN 多様性による防御深度 | 2024 Eclipse メインネット稼働後、重大事故なし · 監査は Trail of Bits / Zellic / OpenZeppelin · パーミッションレスリスクは ISM 選択次第 | **2022.02 Solana ブリッジで $325M 盗難**（Jump Crypto が全額補填）· 2024 ZK Verifier 稼働後のセキュリティアップグレード · Guardian のインセンティブ整合性は継続的な論点 |
-| **最適ユースケース** | 純粋な USDC クロスチェーン調達 · 機関向けの規制対応ステーブルコイン移転 | 銀行級のトークン化資産決済 · DvP / PvP · 高額低頻度 | 汎用 dApp の omnichain 対応 · Stargate 型 aggregator · ロングテールのトークンブリッジ | App-chain / rollup の自律的デプロイ · 非 EVM を第一級に扱う用途 · パーミッションレス ISM のトレードオフ | Solana 中心のクロスチェーン · NFT bridge · DAO governance messaging · NTT による wrapped token 置換 |
+| **Messaging モデル** | USDC burn → attestation → mint | arbitrary messaging と token transfer | Endpoint 上の OApp message / OFT | Mailbox message / Warp Route | VAA-based messaging / token bridge / NTT |
+| **Verification 境界** | Circle attestation | CCIP network と risk-management controls | OApp が構成する DVN | アプリが選択する ISM | Guardian-signed VAA と統合 contract |
+| **Destination 実行** | 呼び出し側または relayer が mint / hook を実行 | router / off-ramp が実行 | permissionless Executor または手動実行 | relayer が Mailbox に配達 | relayer は任意、受信アプリが VAA を消費 |
+| **資産モデル** | Circle 発行 USDC | pool / token-manager 構成に依存 | OFT またはアプリ独自 | Warp Route またはアプリ独自 | wrapped bridge / NTT 等、製品別 |
+| **アプリ側設定** | domain、finality、recipient、message version | lane、pool、receiver、rate limit | peer、MessageLib、DVN、confirmation、Executor | ISM、hook、validator、gas payment | emitter、chain、consistency、recipient |
+| **手数料の確認点** | 両 chain gas と選択した transfer mode | quote が含む network / execution cost | DVN、Executor、destination gas | relay / destination gas と hook | source / destination gas と relayer option |
+| **アップグレード確認点** | Circle contracts / attestation service の現行版 | router、lane、pool の owner / release notes | OApp owner / delegate と library migration | Mailbox / ISM / route owner | core / token bridge / NTT の governance と emitter |
+| **適合しやすい範囲** | USDC-native transfer | 管理された messaging / token transfer | 構成可能な omnichain app | sovereign app-chain / rollup integration | multi-ecosystem messaging と token integration |
+| **非対応の推定を避ける事項** | 対応 chain、所要時間、fee は live docs で確認 | lane、token、limit は live docs で確認 | default DVN を安全性の保証とみなさない | permissionless deployment を安全性の保証とみなさない | Guardian 数や incident record を固定値として扱わない |
+
+Sources: ^[https://developers.circle.com/stablecoins/docs/cctp-getting-started] ^[https://docs.chain.link/ccip] ^[https://docs.layerzero.network/v2] ^[https://docs.hyperlane.xyz/] ^[https://docs.wormhole.com/]
+
 
 **マトリクスの読み方**: 横方向では 1 プロトコルの全次元プロファイルを、縦方向では同一次元における 5 極の差異を見る。CCTP V2 は狭く深い（USDC のみだが極限まで最適化）。CCIP は institutional-grade（高価だがコンプライアンスに強い）。LayerZero v2 は広く柔軟（カバレッジ最大だが DVN 設定の責任も利用者側にある）。Hyperlane はセルフサービスのパーミッションレス型。Wormhole は Solana 中心で、Guardian モデルの遺産を持つ。
 

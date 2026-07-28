@@ -24,9 +24,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -45,14 +45,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "Cloudflare Workers x402 release notes (2026-Q1)",
-      "AWS API Gateway x402 integration announcement (2026-Q2)",
-      "Google AP2 launch consortium press (2025-09)",
-      "Ethereum Pectra upgrade release notes (2025-Q2)",
-      "Anthropic Claude Code SDK documentation (2026)",
-      "OpenAI Agents SDK documentation (2026)",
-      "Google Gemini Agent platform documentation (2026)",
-      "FIDO Alliance AAIF announcement (2026-Q2)"
+      "https://docs.x402.org/",
+      "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://github.com/google-agentic-commerce/AP2",
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://ethereum.org/en/roadmap/pectra/",
+      "https://docs.anthropic.com/",
+      "https://openai.github.io/openai-agents-python/",
+      "https://google.github.io/adk-docs/",
+      "https://ai-sdk.dev/docs"
     ]
   },
   "summary": "As of May 2026, the agent-payment protocol stack has bifurcated sharply between mainnet-shipped infrastructure and testnet / consortium-only specs. The production-live tier is dominated by x402 (Cloudflare Workers + AWS API Gateway edge integrations), ERC-4337 (mature 4+ years on mainnet), and ERC-7",
@@ -104,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17082,
-    "word_like_tokens": 2863,
+    "nonspace_chars": 18416,
+    "word_like_tokens": 3087,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

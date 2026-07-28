@@ -1,12 +1,12 @@
 ---
 source: agent-economy/erc-7702-eoa-delegation-primer-for-agents
-source_hash: d2c5cd5f5212c9cc
+source_hash: 95eea1980e89bc44
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ERC-7702  AI エージェント向け EOA 委任入門"
-translated_at: 2026-06-26T08:28:53.948Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # ERC-7702  AI エージェント向け EOA 委任入門
@@ -94,18 +94,19 @@ EOA がセッションキーをサポートするウォレット実装(Safe バ�
 
 ## エージェントユースケースにおける ERC-4337 との比較
 
-| 次元 | ERC-4337 経路 | ERC-7702 経路 |
+| 次元 | ERC-4337 path | EIP-7702 path |
 |---|---|---|
-| 開始状態 | ユーザーはまだ Ethereum ウォレットを持たない、または持っていて移動を受け入れる | ユーザーは保持したい履歴を持つ既存 EOA を持つ |
-| アドレス | 新規 SCW アドレス | 既存 EOA アドレス |
-| オンボーディングコスト | 反実仮想的デプロイ + 初回 UserOp | 一つの `SET_CODE_TX` 署名(~30k–50k ガス) |
-| セッションキーサポート | SCW モジュールインストール経由でネイティブ | 委任後、委任された実装のストレージ経由でネイティブ |
-| ガススポンサーシップ | Paymaster(4337ネイティブ) | 4337と構成すれば Paymaster;さもなくばレガシーリレイヤー |
-| 取り消し | UserOp 経由でモジュールアンインストール | モジュール削除、または核オプションとして `address(0)` への `SET_CODE_TX` 署名 |
-| 単一使用認可 | 不格好(各 UserOp が持続的状態を作る) | 単一トランザクション委任パターン経由でネイティブ |
-| 履歴上のエージェントアイデンティティ | エージェントは実績のない新しいアドレス経由で行動する | エージェントは完全な実績を持つユーザーの既存アドレス経由で行動する |
-| コンプライアンス / KYC の連続性 | アイデンティティの再アンカーが必要 | アイデンティティが持続する |
-| セキュリティ最悪ケース | SCW ロジックのバグ = SCW 資金がリスクに | 委任ロジックのバグ = *EOA 履歴全体* がリスクに |
+| **Account model** | Smart-contract account が EntryPoint 経由で `UserOperation` object を送る | 既存 EOA が implementation code を指す delegation indicator を保存 |
+| **Activation** | account は counterfactual deployment または既存 deployment | type-`0x04` transaction が一つ以上の signed authorization tuple を運ぶ |
+| **Persistence** | account code / module は account が変更するまで存続 | delegation は後続 authorization で replacement / clearing されるまで存続し、本質的に single-use ではない |
+| **Programmable limits** | account / module code が定義 | delegated implementation code が定義し、EIP 自体は session-key policy を提供しない |
+| **Sponsorship** | Paymaster は ERC-4337 protocol flow の一部 | outer transaction を別 account が submit できる。ERC-4337 との composition は implementation-specific |
+| **Revocation / recovery** | account-defined module removal、owner / recovery logic | specified clear-to-zero case を含む valid な後続 authorization を submit |
+| **Address continuity** | 通常は prior EOA と異なる可能性がある smart-account address | authorizing EOA address は同一 |
+| **Primary security boundary** | EntryPoint、account implementation、module、owner、paymaster | delegate bytecode、initialization、storage、chain / nonce scope、authorization phishing |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4337] ^[https://eips.ethereum.org/EIPS/eip-7702]
+
 
 エージェントユースケースに対する実践的ガイド:
 

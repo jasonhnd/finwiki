@@ -23,9 +23,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -40,7 +40,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://eips.ethereum.org/EIPS/eip-7715"
+      "https://eips.ethereum.org/EIPS/eip-7715",
+      "https://eips.ethereum.org/EIPS/eip-4337",
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://docs.x402.org/",
+      "https://github.com/google-agentic-commerce/AP2"
     ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
@@ -83,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3017,
-    "word_like_tokens": 517,
+    "nonspace_chars": 3887,
+    "word_like_tokens": 641,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

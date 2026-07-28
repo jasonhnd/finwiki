@@ -9,9 +9,9 @@ aliases:
   - EY Japan audit
 domain: financial-regulators
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - JapanFG
@@ -103,11 +103,13 @@ EDINET 上の **有価証券報告書 監査人開示** および各社開示資
 
 ## 6. 競合関係（Big 4 内）
 
-| Big 4 | 国内ブランド | 強み軸（公開ベース）|
+| Big 4 | 国内ブランド | FinWiki 分析上の公開サービス注目領域 |
 |---|---|---|
-| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | 大手 M&A・テック・暗号資産 |
-| PwC | [[financial-regulators/pwc-aarata|あらた]] | グローバル PwC ネットワーク、Web3 戦略 |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | 金融機関内部統制・J-SOX |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | 監査・保証、FAS 連携、デジタル資産 |
+| PwC | [[financial-regulators/pwc-aarata|PwC Japan 有限責任監査法人]] | グローバルネットワーク、デジタル資産 |
+| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | 金融サービス、内部統制・J-SOX |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: EY https://www.shinnihon.or.jp/services/financial-services/; Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; PwC https://www.pwc.com/jp/ja/services/audit-assurance.html; KPMG https://kpmg.com/jp/ja/home/services/audit.html.]
 
 中堅（Tier 2）には [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人等が存在し、地方銀行 / 中堅企業を担う ^[extracted]。
 

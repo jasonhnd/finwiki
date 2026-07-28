@@ -3,9 +3,9 @@ title: セントラル短資株式会社 (Central Tanshi)
 aliases: ["Central Tanshi", "セントラル短資", "中央短資", "Central Tanshi Co., Ltd."]
 domain: financial-regulators
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
 status: active
@@ -62,6 +62,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | 債券仲介 | 国債・地方債売買 | 日銀対手取引含む |
 | 個人向け FX | セントラル短資 FX（子会社）| 短資業界では珍しい個人 retail 展開 |
 | オンライン金融 | セントラル短資オンライン | デジタル個人金融サービス |
+
+Sources: ^[セントラル短資 公式サイト: https://www.central-tanshi.com/; セントラル短資 FX 公式サイト: https://www.central-tanshifx.com/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm.]
 
 ### 短資会社の役割
 

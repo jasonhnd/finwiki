@@ -1,12 +1,12 @@
 ---
 source: trade/documentary-collection-vs-letter-of-credit
-source_hash: 0c1ef61bfb4a4012
+source_hash: 77163ce07a5324cd
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Documentary collection vs letter of credit — trade settlement methods compared"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Documentary collection vs letter of credit — trade settlement methods compared
 
@@ -58,6 +58,9 @@ Crucially, **none of these banks guarantees payment**. This is the structural di
 | Speed / complexity | Simpler, faster to set up | More documentation and steps |
 | Document examination | Banks check documents are **present per instructions**, not for strict compliance to a credit | Banks examine for **strict compliance** to the credit terms |
 | Typical use | Established relationships, moderate risk, lower-value or repeat trade | New / weak counterparties, higher-risk corridors, where seller needs a bank promise |
+
+Sources: ^[ICC URC 522 publication page: https://2go.iccwbo.org/urc-522-uniform-rules-for-collections-config-1+book_version-Book/; ICC trade-finance overview: https://iccwbo.org/business-solutions/trade-finance/; U.S. International Trade Administration methods-of-payment guide: https://www.trade.gov/methods-payment.]
+
 
 A bank handling a collection does **not** perform the strict-compliance document examination that defines an L/C; it checks that the documents listed in the instruction are there and acts accordingly. That lighter duty is part of why collections are cheaper — and why they give the exporter less protection.
 

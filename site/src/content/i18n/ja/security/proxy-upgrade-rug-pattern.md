@@ -1,12 +1,12 @@
 ---
 source: security/proxy-upgrade-rug-pattern
-source_hash: efb549811e484feb
+source_hash: 96803567c2fa72cf
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "プロキシ・アップグレード可能コントラクトの rug パターン — admin のアップグレード権限がバックドアになる"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # プロキシ・アップグレード可能コントラクトの rug パターン — admin のアップグレード権限がバックドアになる
@@ -37,6 +37,9 @@ translated_at: 2026-06-05T00:00:00.000Z
 | Transparent proxy | **proxy** 自体 | ERC-1967 admin スロット | admin の呼び出しはアップグレードロジックへルーティングされ、非 admin の呼び出しは implementation へ通り抜ける |
 | UUPS ([ERC-1822](https://eips.ethereum.org/EIPS/eip-1822)) | **implementation** | implementation 内の `onlyOwner` 系修飾子で守られた関数（多くは `upgradeTo`） | より軽量・安価だが、そのガードは *それ自身がアップグレードで取り除かれ得るコードの中にある* — proxy だけでなく、現在の implementation の認可を読むこと |
 | Beacon proxy | 共有の **beacon** コントラクト | beacon owner | 単一の beacon アップグレードが *多数の* プロキシを一度に再指定できる — 影響範囲はファミリ全体 |
+
+Sources: ^[ERC-1967 proxy storage slots: https://eips.ethereum.org/EIPS/eip-1967; ERC-1822 UUPS: https://eips.ethereum.org/EIPS/eip-1822; OpenZeppelin proxy documentation: https://docs.openzeppelin.com/contracts/4.x/api/proxy.]
+
 
 OpenZeppelin の `UUPSUpgradeable` は、UUPS 非準拠の implementation へのアップグレードを拒否するガードを追加する（アップグレード可能性が壊れるのを防ぐため）が、そのガードは許可されたアップグレード実行者が *何を* インストールするかを制約しない。認可こそが唯一の実質的な制御であり、その認可は可変である。
 

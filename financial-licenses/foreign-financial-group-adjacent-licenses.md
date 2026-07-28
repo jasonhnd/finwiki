@@ -7,9 +7,9 @@ aliases:
 domain: financial-licenses
 subdomain: "legal-financial-licenses"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, legal, foreign-bank, FIBO, trust, securities, payments, license-stack]
 status: active
@@ -41,6 +41,8 @@ Use this page with [[financial-licenses/foreign-bank-branch-license-route|foreig
 | Foreign bank agency | Agent / intermediary for principal foreign bank. | FSA foreign bank agency-bank list. |
 | Payment / remittance / wallet | Funds transfer, prepaid, electronic payment agency, EPI. | FSA Payment Services Act lists and [[payments/INDEX|payments domain]]. |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator list: https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/city.pdf; JSDA member lists: https://www.jsda.or.jp/en/about/members-list/index.html.]
+
 ## Group Reading Examples
 
 | Group | Why one page is not enough |
@@ -54,6 +56,8 @@ Use this page with [[financial-licenses/foreign-bank-branch-license-route|foreig
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Custody / asset servicing makes them different from ordinary wholesale-bank branches. |
 | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] / [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | ICSD, settlement, collateral, custody, and disclosure routes make the bank-branch row infrastructure-adjacent. |
 | [[securities-firms/anz-bank-japan|ANZ Japan]] | Bank branch plus securities / FIBO adjacency requires a bank / securities split reading. |
+
+Sources: ^[This is a FinWiki entity-boundary routing table. Verify each legal entity against the separate FSA bank and financial-instruments registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/en/regulated/licensed/city.pdf; https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf.]
 
 ## Control Questions
 

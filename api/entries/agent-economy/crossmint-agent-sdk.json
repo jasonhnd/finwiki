@@ -24,9 +24,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -47,7 +47,10 @@
       "https://www.crossmint.com/",
       "https://docs.crossmint.com/",
       "https://github.com/crossmint",
-      "https://blog.crossmint.com/"
+      "https://blog.crossmint.com/",
+      "https://docs.privy.io/",
+      "https://docs.dynamic.xyz/",
+      "https://magic.link/docs/home/welcome"
     ]
   },
   "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, embedded wallet consolidation for market context, and embedded wallet moat for value-capture framing.",
@@ -96,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5241,
-    "word_like_tokens": 819,
+    "nonspace_chars": 6124,
+    "word_like_tokens": 932,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }
