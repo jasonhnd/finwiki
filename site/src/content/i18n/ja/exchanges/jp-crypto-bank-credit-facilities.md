@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-crypto-bank-credit-facilities
-source_hash: cdf4f85bda00b336
+source_hash: b7fbc782c50c189c
 lang: ja
 status: machine
 fidelity: ok
@@ -96,7 +96,7 @@ translated_at: 2026-06-02T12:19:04.254Z
   - 各行の与信appetite残量
   - 最新の審査基準変更
 
-参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]](同じCEXセクターのマクロ需要側)
+参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]] (同じCEXセクターのマクロ需要側)
 
 ## 出典
 

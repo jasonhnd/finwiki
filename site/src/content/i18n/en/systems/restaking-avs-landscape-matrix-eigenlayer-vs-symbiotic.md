@@ -1,6 +1,6 @@
 ---
 source: systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic
-source_hash: 91d67a92b21cdcdd
+source_hash: c6d3d82953634e9c
 lang: en
 status: machine
 fidelity: ok
