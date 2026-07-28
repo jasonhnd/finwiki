@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T00:49:59+09:00",
+  "generated_at": "2026-07-29T01:15:32+09:00",
   "counts": {
-    "markdown_files": 1591,
-    "public_markdown_pages": 1590,
+    "markdown_files": 1592,
+    "public_markdown_pages": 1591,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10755277,
-    "word_like_tokens": 1728980,
+    "nonspace_utf8_chars": 10771501,
+    "word_like_tokens": 1731982,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Entry-discovery build graph and cache invalidation repair (#195)",
+        "2026-07-29 - Fact-freshness event inference calibration (#217)",
         "日本語",
         "English",
         "中文",
-        "2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188)"
+        "2026-07-29 - Entry-discovery build graph and cache invalidation repair (#195)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 138955,
-      "word_like_tokens": 25121,
+      "nonspace_chars": 147741,
+      "word_like_tokens": 26763,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13212,
-      "word_like_tokens": 2323,
+      "nonspace_chars": 13775,
+      "word_like_tokens": 2435,
       "last_modified": "2026-07-29"
     },
     {
@@ -85999,8 +85999,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3794,
-      "word_like_tokens": 766,
+      "nonspace_chars": 4016,
+      "word_like_tokens": 809,
       "last_modified": "2026-07-29"
     },
     {
@@ -89184,6 +89184,39 @@
       "nonspace_chars": 4094,
       "word_like_tokens": 717,
       "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.29-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-2.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-2.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-2.md",
+      "title": "事実鮮度イベント推論の精度改善",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "事実鮮度イベント推論の精度改善",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 6653,
+      "word_like_tokens": 1205,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "releases/v2026.07.29.md",
