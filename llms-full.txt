@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-27T18:59:48+09:00
+Generated: 2026-07-28T15:28:55+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1578
-Public pages listed: 1577
+Markdown files: 1579
+Public pages listed: 1578
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1577
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-27 - AI discovery route and deployed-URL repair (#179), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-28 - Astro check residual hint cleanup (#198), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -17040,6 +17040,15 @@ Public pages listed: 1577
 - Domain: releases
 - Type: release_note
 - Headings: 三言語リリース文書契約の復元, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 型検査の残存指摘解消
+- URL: https://finwiki.zksc.io/releases/v2026.07.28-6.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.28-6.md
+- Source path: releases/v2026.07.28-6.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-6.md
+- Domain: releases
+- Type: release_note
+- Headings: 型検査の残存指摘解消, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/ja/domains/retail/
