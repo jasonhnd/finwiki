@@ -139,6 +139,84 @@ The calibrated rule keeps the report read-only and deterministic while making `n
 
 The default threshold remains `0.70`. Rows below `0.50` are `needs_review`; rows from `0.50` to below `0.70` are `warning`. `--fail-under` remains an explicit reviewer gate and is not wired into release checks.
 
+## Table-Proximity Calibration - 2026-07-29
+
+Issue #219 replaces the original per-row table heuristic with a bounded table-scope contract. The issue snapshot contained 6,311 `table_row_without_marker` warnings. After Issue #220 changed three agent-infrastructure entries, the exact release base contained 6,313 such rows across 1,089 paths and 39 domains.
+
+### Deterministic table contract
+
+A factual table row is covered when the row itself contains either a `^[marker]` or a direct absolute HTTP(S) source link. A marker in one row does not cover the preceding or following row.
+
+Whole-table coverage is recognized only in these bounded cases:
+
+1. The table is the first substantive block after a marker-bearing or directly linked section heading.
+2. The immediately preceding lead / caption contains direct evidence and either names a table / matrix / rows or ends with `:` / `：`.
+3. The Markdown table header contains a marker.
+4. An immediately adjacent source-labelled lead or footer is tied to a marker, a direct HTTP(S) link, or the page's public frontmatter source inventory.
+5. A source-labelled block appears in the same heading section, no more than three logical blocks and twelve physical lines before or after the table.
+
+The audit stops at `## Related` / `## Sources` (and equivalent deeper headings). A generic nearby marker without table scope, a distant source note, or a page-level source list by itself does not cover a table.
+
+Output behavior is intentionally asymmetric:
+
+- A homogeneous factual table with no row or table evidence emits one `table_without_provenance` row at the table start.
+- A mixed table with some directly evidenced factual rows emits `table_row_without_marker` only for the remaining factual rows.
+- A standard Markdown header row is structural and is not audited as a factual data row.
+- Table residuals with a non-empty public frontmatter source inventory remain advisory `warning` rows. Missing source inventory can still produce `needs_review`.
+- `--json` uses an awaited stdout write so the complete report remains parseable when it exceeds the operating-system pipe buffer.
+
+### Before / after accounting
+
+| Measure | Before calibration | After calibration |
+|---|---:|---:|
+| Table-related residual rows | 6,313 | 2,280 |
+| Unique source paths | 1,089 | 1,064 |
+| Domains | 39 | 39 |
+| Table-level residuals | N/A | 2,175 |
+| Mixed-table row residuals | 6,313 per-row candidates | 105 |
+| Severity | 6,313 warning | 2,280 warning |
+
+The old-row mapping is exact:
+
+- 5,656 old row warnings consolidate into 2,175 actionable table warnings.
+- 599 old row warnings are detector false positives covered by a scoped heading / lead / caption / footer / section source block or direct row link.
+- 58 old row warnings remain row warnings.
+- 47 additional mixed-table rows become visible because a marker in a neighbouring row no longer spills across the table.
+
+Therefore `6,313 = 5,656 + 599 + 58`, while the calibrated residual queue is `2,175 + 58 + 47 = 2,280`. The full provenance report also contains 56 non-table `low_marker_density` warnings, for 2,336 advisory warnings total.
+
+Representative classifications were checked across all 39 domains:
+
+| Shape | Representative result |
+|---|---|
+| Marker-bearing section heading | `megabanks/mufg.md` shareholder tables are covered by their scoped heading marker. |
+| Direct public link in each row | `financial-regulators/financial-reports-2020-index.md` rows are directly evidenced. |
+| Linked table lead ending in a colon | The ERC-1967 slot table in `security/proxy-upgrade-rug-pattern.md` is covered by its immediate linked lead. |
+| Mixed per-row markers | Unmarked rows in tables such as `asset-managers/saison-asset-management.md` remain individually visible. |
+| Homogeneous table without local evidence | Tables such as the operating-constraint matrix in `banking/baas-japan-landscape.md` produce one table-level residual. |
+
+### Residual routing
+
+Every calibrated table residual is assigned to one bounded content issue. The batches are disjoint by first path component. This table is immutable 2026-07-29 closeout evidence; GitHub remains the live source for issue state and ordering.
+
+| Issue | Domains | Warnings | Paths |
+|---|---|---:|---:|
+| #231 | agent economy, financial licences / regulators, security, systems, trade | 124 | 73 |
+| #232 | asset managers, financial groups, manufacturer finance, megabanks, trading-company finance, trust banks | 170 | 89 |
+| #233 | banking, cooperative banks | 146 | 69 |
+| #234 | business, corporate strategy, retail | 114 | 32 |
+| #235 | card issuers, consumer finance, leasing, loyalty | 135 | 64 |
+| #236 | derivatives, structured finance | 196 | 54 |
+| #237 | exchanges | 123 | 81 |
+| #238 | finance, real-estate finance | 233 | 49 |
+| #239 | fintech | 162 | 65 |
+| #240 | foreign financial institutions, money market, non-profit, policy finance | 176 | 96 |
+| #241 | insurance, life insurers, non-life insurers | 186 | 116 |
+| #242 | payment firms, payments | 208 | 90 |
+| #243 | regional banks | 169 | 122 |
+| #244 | securities, securities firms | 138 | 64 |
+| **Total** | **39 domains** | **2,280** | **1,064** |
+
 ## Provenance Value Signal
 
 Add a future roadmap signal:
