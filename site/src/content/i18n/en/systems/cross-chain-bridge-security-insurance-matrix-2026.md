@@ -1,6 +1,6 @@
 ---
 source: systems/cross-chain-bridge-security-insurance-matrix-2026
-source_hash: 05c500e4a8257c20
+source_hash: b94644099a7c3cf4
 lang: en
 status: machine
 fidelity: ok

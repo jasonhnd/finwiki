@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/okinawa-shinko
-source_hash: f70381599975e41c
+source_hash: ee67eb7808decd59
 lang: en
 status: machine
 fidelity: ok
