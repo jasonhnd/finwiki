@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-27T18:59:48+09:00",
+  "generated_at": "2026-07-28T13:56:28+09:00",
   "counts": {
-    "markdown_files": 1578,
-    "public_markdown_pages": 1577,
+    "markdown_files": 1579,
+    "public_markdown_pages": 1578,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10613259,
-    "word_like_tokens": 1703143,
+    "nonspace_utf8_chars": 10626090,
+    "word_like_tokens": 1705572,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,19 +2663,19 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-27 - AI discovery route and deployed-URL repair (#179)",
+        "2026-07-28 - Final HTML internal-route crawl and broken-link repair (#183)",
         "日本語",
         "English",
         "中文",
-        "2026-07-27 - Truthfulness audit artifact isolation (#178)"
+        "2026-07-27 - AI discovery route and deployed-URL repair (#179)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 59112,
-      "word_like_tokens": 10741,
+      "nonspace_chars": 67031,
+      "word_like_tokens": 12213,
       "last_modified": "2026-07-27"
     },
     {
@@ -3233,8 +3233,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8207,
-      "word_like_tokens": 1414,
+      "nonspace_chars": 8837,
+      "word_like_tokens": 1535,
       "last_modified": "2026-07-27"
     },
     {
@@ -27817,13 +27817,12 @@
         "https://ja.wikipedia.org/wiki/Binance_Japan",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-        "https://www.fsa.go.jp/ordinary/chuui/",
-        "wiki/exchanges/jp-exchange-binance-japan.md"
+        "https://www.fsa.go.jp/ordinary/chuui/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5867,
-      "word_like_tokens": 950,
+      "nonspace_chars": 5860,
+      "word_like_tokens": 948,
       "last_modified": "2026-05-24"
     },
     {
@@ -88818,6 +88817,39 @@
       "last_modified": "2026-07-27"
     },
     {
+      "source_path": "releases/v2026.07.28-1.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-1.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-1.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-1.md",
+      "title": "最終組立済み文書の全リンク監査と十九件の壊れた経路修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "最終組立済み文書の全リンク監査と十九件の壊れた経路修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 3862,
+      "word_like_tokens": 769,
+      "last_modified": "2026-07-28"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/ja/domains/retail/",
       "html_url": "https://finwiki.zksc.io/ja/domains/retail/",
@@ -105798,8 +105830,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3390,
-      "word_like_tokens": 628,
+      "nonspace_chars": 3817,
+      "word_like_tokens": 697,
       "last_modified": "2026-07-27"
     }
   ]

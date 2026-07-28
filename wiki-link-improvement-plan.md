@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 7 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,13 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `exchanges/global-dex-aggregator-comparison-matrix.md` | `M` | 26 | ok |
+| `exchanges/jp-crypto-bank-credit-facilities.md` | `M` | 6 | ok |
+| `exchanges/jp-foreign-exchange-binance-holdings-legacy.md` | `M` | 5 | ok |
+| `financial-regulators/okinawa-shinko.md` | `M` | 17 | ok |
+| `regional-banks/nanto-bank.md` | `M` | 19 | ok |
+| `systems/cross-chain-bridge-security-insurance-matrix-2026.md` | `M` | 26 | ok |
+| `systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic.md` | `M` | 23 | ok |
 
 ## Domain Snapshot
 
@@ -68,7 +75,6 @@
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
-| `finwiki-issue-179` | 1 | 0 | 46.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
@@ -86,6 +92,7 @@
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `regional-banks` | 136 | 0 | 14.0 |
 | `retail` | 11 | 0 | 23.1 |
+| `root` | 1 | 0 | 46.0 |
 | `securities` | 33 | 0 | 32.1 |
 | `securities-firms` | 37 | 0 | 18.8 |
 | `security` | 10 | 0 | 9.9 |

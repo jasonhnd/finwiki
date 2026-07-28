@@ -1,6 +1,6 @@
 ---
 source: exchanges/global-dex-aggregator-comparison-matrix
-source_hash: 6dcba8b3b6f84291
+source_hash: 7c44c761060d7bef
 lang: en
 status: machine
 fidelity: ok

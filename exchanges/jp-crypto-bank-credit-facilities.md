@@ -103,7 +103,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
   - 各行の与信appetite残量
   - 最新の審査基準変更
 
-参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]](同じCEXセクターのマクロ需要側)
+参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]] (同じCEXセクターのマクロ需要側)
 
 ## Sources
 

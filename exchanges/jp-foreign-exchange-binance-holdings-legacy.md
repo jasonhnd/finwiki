@@ -156,7 +156,7 @@ Binance Holdings Limited のケースは、日本の暗号資産規制史にお�
 ## Sources
 
 - [FSA 注意喚起情報（暗号資産交換業 無登録業者一覧）](https://www.fsa.go.jp/ordinary/chuui/)（取得 2026-05-19 · 2018年・2021年の警告書は現在 FSA サイトから削除済み）
-- [Binance Japan エントリ（本 wiki）](wiki/exchanges/jp-exchange-binance-japan.md)（参照 2026-05-19）
+- [[exchanges/jp-exchange-binance-japan|Binance Japan エントリ（本 wiki）]]（参照 2026-05-19）
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-19）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
 - [PayPay × Binance Japan 出資プレスリリース](https://about.paypay.ne.jp/pr/20251009/)（取得 2026-05-18 · 親会社 Binance Holdings の出資関係を確認）
