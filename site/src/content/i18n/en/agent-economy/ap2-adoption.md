@@ -1,11 +1,11 @@
 ---
 source: agent-economy/ap2-adoption
-source_hash: cb391e27df52c78c
+source_hash: 33712c3fdb8e66cb
 lang: en
 status: machine
 fidelity: ok
 title: "AP2  adoption landscape · Google closed loop vs the four-protocol war"
-translated_at: 2026-05-30T17:04:08.782Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # AP2  adoption landscape · Google closed loop vs the four-protocol war
@@ -28,13 +28,15 @@ Google's combination of 4 root pillars: **Google Pay (6 億 mobile wallet users)
 
 Positioning relative to contemporaneous protocols:
 
-| Protocol | Lead driver | Positioning | Settlement layer |
+| Protocol | Public steward / specification | Position in the stack | Payment semantics |
 |---|---|---|---|
-| **AP2** | Google | Agent → Merchant authorized payment | Google Pay / card / USDC |
-| **MPP** | Microsoft | Merchant-side API standard | Multiple |
-| **ACP** | Anthropic | Dialogue between agent and commerce platform | Stripe / generic |
-| **x402** | Cloudflare + Coinbase + AWS | Revival of the HTTP 402  status code | USDC on Base preferred |
-| **A2A** | Linux Foundation | General agent-to-agent communication (incl. payment) | Protocol-agnostic |
+| **AP2** | Google-led public AP2 repository and reference implementation | User intent, cart authorization and payment evidence for agent commerce | Payment-method agnostic; adapters can connect cards, bank rails or digital assets |
+| **A2A** | Public Agent2Agent specification | Agent discovery, task and message interoperability | Does not itself settle payment; AP2 can extend an agent interaction |
+| **MCP** | Public Model Context Protocol specification | Model / agent access to tools, resources and prompts | Does not itself define a payment rail; a paid tool can compose with AP2 or x402 |
+| **x402 V2** | Public x402 specification and documentation | HTTP-native payment negotiation for a resource | `PAYMENT-*` headers select among advertised schemes, networks and assets |
+
+Sources: ^[https://github.com/google-agentic-commerce/AP2] ^[https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol] ^[https://a2a-protocol.org/latest/] ^[https://modelcontextprotocol.io/] ^[https://docs.x402.org/]
+
 
 ## Origin & evolution
 

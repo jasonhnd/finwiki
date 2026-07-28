@@ -1,11 +1,11 @@
 ---
 source: agent-economy/agent-payment-protocol-four-way-comparison-2026
-source_hash: 48a01f3fdc6893ba
+source_hash: 5831ad91f7bbdebd
 lang: en
 status: machine
 fidelity: ok
 title: "Agent Payment Protocol four-way comparison matrix 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP"
-translated_at: 2026-05-30T16:40:11.493Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Agent Payment Protocol four-way comparison matrix 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
@@ -111,16 +111,19 @@ The bifurcation matters because 2026-Q4  will see the FIDO Alliance handover of 
 
 ## Big comparison matrix table
 
-**Six-axis comparison across four primary protocols + two supplementary layers** (2026-Q2 status):
+**Four payment / commerce components and two authorization layers**. These are composable layers rather than interchangeable products:
 
-| Dimension | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute mp)** | **ERC-7715 (supp.)** | **Lit PKP (supp.)** |
-|---|---|---|---|---|---|---|
-| **Transport** | HTTPS + W3C Verifiable Credential mandate chain | HTTP 402 + `X-Payment` headers | Card-rail REST API (Visa) | Smart-contract escrow + token-gated endpoint | Wallet RPC `wallet_grantPermissions` | Lit-network threshold sign + Lit Actions JS |
-| **Settlement asset** | Asset-agnostic (Google Pay / card / USDC / bank rails) | **USDC stablecoin** on Base / Solana / EVM L2 | **Fiat virtual card** (USD primarily; USDC topup possible) | **Stablecoin compute credit** (USDC / Nevermined credit) | n/a (gates other rails) | n/a (signs any chain) |
-| **Authorization model** | OAuth-like VC mandate (Intent → Cart → Payment) | Delegated session key (ERC-7715 / 4337 / 7702) | Card issuance + bank-sponsored BIN | Token-gated escrow (NFT or ERC-20 access token) | Wallet pre-grant scope w/ cap + period + targets | Threshold MPC + runtime policy in Lit Action |
-| **Q1-Q2 2026 mainnet** | 60+ consortium · ~4 production pilots · AAIF handover 2026-Q2 | **Cloudflare GA Q1 + AWS GA Q2 · single-digit B req/mo · Vercel SDK · 10k+ Bazaar endpoints** | Series A · Visa partnership live · low-tens-M USD annualized | Niche AI compute marketplace · integrates x402 for inst. settlement | MetaMask + Coinbase Smart Wallet + Safe live · portability gap | Mature mainnet · production key custody for autonomous agents |
-| **Target merchant** | Web2 enterprise SaaS · card-network retailers · financial institutions | AI compute / API providers · DeFi-native · per-call HTTP services | **Any Visa-accepting merchant** (merchant unaware of agent identity) | AI compute providers · model inference · GPU rental · dataset access | (any) — wallet scope layer | (any) — key custody layer |
-| **Regulatory model** | **Open-loop interop** — pluggable settlement, AAIF as standard | **Open-loop crypto** — facilitator unregulated in most jdx · MiCA on issuer · GENIUS Act pending | **Closed-loop card issuance** — bank-sponsored BIN · KYC / AML / PCI all in scope | **Crypto-native marketplace** — smart-contract platform · DAO dispute | (none — wallet feature) | (none — key custody) |
+| Component | Protocol layer | Publicly documented interaction | Settlement position | Authorization / trust boundary |
+|---|---|---|---|---|
+| **AP2** | Agent-commerce authorization and evidence | Intent Mandate and Cart Mandate form a signed, verifiable transaction trail | Payment-agnostic; cards, bank rails and digital assets can be connected | User / merchant mandates and the selected credential / payment providers |
+| **x402 V2** | HTTP-native payment negotiation | `402` plus `PAYMENT-REQUIRED`, `PAYMENT-SIGNATURE` and `PAYMENT-RESPONSE` | Scheme- and network-dependent; it is not restricted to one token or chain | Client signer, resource server and optional facilitator verification / settlement |
+| **Skyfire** | Managed agent identity / payment product | Vendor API and product-specific payment credentials / controls | Available rails and merchant reach must be checked in current Skyfire docs and contracts | Skyfire account, issuer / payment partners, user policy and merchant terms |
+| **Nevermined** | AI-service discovery, plans and payment / access control | Provider publishes an AI service and payment plan; agents obtain and consume access | Asset, credit and settlement behavior depend on the selected Nevermined plan / deployment | Marketplace / smart contracts plus provider-defined service and refund terms |
+| **ERC-7715 Draft** | Wallet execution permission request | `wallet_requestExecutionPermissions`, query and revocation RPCs | No settlement asset; it gates execution by another rail | Wallet implementation and delegation manager must enforce typed permission / rules |
+| **Lit PKP / Lit Actions** | Distributed signing and programmable policy | Threshold network signs when the configured Lit Action / access conditions pass | No settlement asset by itself | Lit network, PKP ownership, action code and external data dependencies |
+
+Sources: ^[https://cloud.google.com/blog/products/ai-machine-learning/announcing-agent-payments-protocol-ap2] ^[https://docs.x402.org/core-concepts/http-402] ^[https://docs.skyfire.xyz/] ^[https://docs.nevermined.io/] ^[https://eips.ethereum.org/EIPS/eip-7715] ^[https://developer.litprotocol.com/]
+
 
 **How to read the matrix**:
 - Read horizontally for one protocol's 6 -axis profile · read vertically for the 4  protocols' differentiation on the same axis

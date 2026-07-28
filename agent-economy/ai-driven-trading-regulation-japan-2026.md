@@ -9,9 +9,9 @@ aliases:
   - AI-driven market manipulation detection 2026
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, regulation, ai-trading, japan, fsa, sesc, sec, sab-122, mifid-ii, fca, esma, boj, algorithmic-trading, market-manipulation, 2026-event]
 status: active
@@ -133,30 +133,32 @@ ESMA published **2024-2025 reports on AI in financial markets**, surveying how A
 
 The 2025-2026 supervisory frame increasingly distinguishes AI-driven manipulation as a separate category:
 
-| Dimension | Human-driven manipulation | AI-driven manipulation |
+| Supervisory dimension | Human-directed activity | AI / algorithm-assisted activity |
 |---|---|---|
-| **Speed / volume** | Human-bounded (millisecond reaction, dozens of orders/min) | Algo-bounded (microsecond reaction, thousands of orders/min) |
-| **Cross-venue coordination** | Difficult without explicit coordination (which itself is a violation) | Trivially executed by a single agent operating across venues |
-| **Pattern repeatability** | Trader signatures detectable but variable | Algorithm signature highly repeatable across episodes |
-| **Intent attribution** | Trader testimony, communications, profit/loss pattern | Inferred from algorithm design choices and training data |
-| **Defense raised** | "I didn't intend to manipulate" | "The model behaved unexpectedly" (rejected by ESMA / SESC 2024-2025 guidance) |
-| **Enforcement target** | The trader | The operator / firm that deployed the algorithm |
-| **Detection technique** | Trader-pattern surveillance, communications review | Cross-venue order-flow correlation, model-output anomaly detection |
+| **Applicable prohibition** | Existing market-manipulation, conduct and supervision rules apply | The same activity-based prohibitions apply; use of AI does not create a safe harbor |
+| **Decision evidence** | Orders, communications, account relationships, incentives and trading pattern | The same records plus model version, prompts / features, code, parameters, overrides and deployment logs |
+| **Attribution** | Identify the trader, controller, beneficiary and supervising firm | Identify the deploying firm, accountable operators, model / data providers and human approval path without assuming the model is a legal actor |
+| **Pre-trade controls** | Limits, restricted lists, venue / product permissions and supervisory approval | Add model-output validation, deterministic risk limits, kill switch, drift / change controls and prompt / data defenses |
+| **Post-trade surveillance** | Pattern, venue and communications review | Add model / strategy correlation and replayable decision traces, while retaining ordinary market-abuse surveillance |
+| **Supervisory conclusion** | Intent and responsibility are determined from the governing law and evidence | “Unexpected model behavior” is a risk-management fact, not by itself a legal conclusion or an automatic defense |
+
+Sources: ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html] ^[https://www.fsa.go.jp/sesc/english/news.html] ^[https://www.esma.europa.eu/document] ^[https://www.sec.gov/newsroom/speeches-statements/crenshaw-remarks-ai-roundtable-032725]
 
 The **"the model behaved unexpectedly"** defense has been rejected consistently across SESC, ESMA, FCA, SEC, and MAS guidance 2024-2025. The position: the operator is responsible for understanding and supervising the AI system before deployment; unexpected behavior is a deployer failure, not an excuse.
 
 ## 2025-2026 regulatory pilots · what to watch
 
-| Pilot | Jurisdiction | Status | What it tests |
+| Public workstream | Jurisdiction | Confirmed public artifact | What may be concluded |
 |---|---|---|---|
-| **FSA AI principles update arc** | Japan | Ongoing | Whether AI-driven decision artifacts count as "explainable" for FIEA suitability + customer protection |
-| **SESC AI-augmented surveillance** | Japan | Production | Cross-venue AI-driven manipulation detection at JPX + PTS |
-| **FCA AI sandbox finance cohort** | UK | 2025-2026 cohort active | Lit-environment AI trading systems under supervisory observation |
-| **MAS Veritas + AI sandbox** | Singapore | Ongoing | FEAT principle operationalization; firms test models in MAS sandbox |
-| **IOSCO AI in capital markets review** | Global | Ongoing through 2026 | Cross-jurisdictional convergence finding |
-| **EU AI Act high-risk implementation** | EU | Phase-in through 2026-2027 | Whether trading-specific use cases get added to Annex III |
-| **SEC AI conflicts-of-interest rule** | US | Paused 2025; status uncertain | Whether predictive-data analytics rule revives |
-| **JPX algo-trading rule clarifications** | Japan | 2024-2025 published guidance | Specifically clarifies LLM-augmented strategy in scope |
+| **FSA AI Discussion Paper v1.1** | Japan | FSA discussion paper and AI public-private forum materials | Initial issues, use cases and governance dialogue; the paper says its analysis is preliminary, not a trading-specific rule |
+| **SESC market surveillance publications** | Japan | SESC annual / news materials | Existing market-abuse supervision continues; do not claim a particular AI engine or production capability without a named disclosure |
+| **FCA AI / financial-services work** | UK | FCA discussion, consultation and innovation publications | Supervisory exploration and existing-rule application; individual sandbox participation must be sourced separately |
+| **MAS FEAT / Veritas and consultations** | Singapore | MAS public principles, toolkits and consultation pages | Governance / fairness methods and policy work; not blanket approval of autonomous trading |
+| **IOSCO AI reports / consultations** | Global | IOSCO public report library | Cross-market risk and policy observations; not a directly enforceable global rule |
+| **EU AI Act implementation** | EU | Regulation (EU) 2024/1689 and implementing material | Role- and use-case-specific AI Act duties plus existing financial law; classification must be assessed, not assumed |
+| **SEC predictive-data-analytics proposal** | United States | SEC formally withdrew the proposal in June 2025 | Existing securities duties remain; the withdrawn proposal is not a current final rule |
+
+Sources: ^[https://www.fsa.go.jp/news/r7/sonota/20260303/aidp.html] ^[https://www.fsa.go.jp/sesc/english/news.html] ^[https://www.fca.org.uk/publications/discussion-papers] ^[https://www.mas.gov.sg/regulation/consultations] ^[https://www.iosco.org/library/pubdocs/] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689] ^[https://www.sec.gov/rules-regulations/2025/06/s7-12-23]
 
 The **synthesis 2026-05**: no jurisdiction is poised to ship an AI-specific trading rule in 2026. All are observing under existing frameworks. The earliest plausible window for a major AI-specific trading rule is 2027-2028, contingent on a public market-stress event attributable to AI-driven trading (which has not yet occurred at material scale).
 

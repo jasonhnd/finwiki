@@ -8,9 +8,9 @@ aliases:
   - "日本証券業協会"
 domain: financial-regulators
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, self-regulatory, JSDA, FIEA, regulation]
 status: active
@@ -45,6 +45,8 @@ For JapanFG mapping, JSDA is the cross-cutting rule and membership layer behind 
 | Self-regulatory body | JSDA | Sets and enforces self-regulatory rules for association members; conducts inspection, monitoring, disciplinary action, sales-representative qualification/registration work, complaint counseling, and mediation |
 | Member firms | Securities firms, Type I FIBOs, and registered financial institutions conducting securities business | Examples in this wiki include [[securities-firms/smbc-nikko]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/rakuten-securities]] |
 | Customer / market layer | Investors, issuers, PTS / off-exchange flows, OTC bond market | JSDA rules and market infrastructure affect solicitation, custody, segregation, trade reporting, dispute handling, and market transparency |
+
+Sources: ^[JSDA profile: https://www.jsda.or.jp/en/about/profile/index.html; JSDA major activities: https://www.jsda.or.jp/en/about/major-activities/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 JSDA's own English profile describes it as both an SRO and an industry interlocutor. Its mission is investor protection through fair and smooth securities transactions by members, plus the sound development of Japan's financial instruments business.[^jsda-profile]
 
@@ -82,6 +84,8 @@ JSDA is a hub node for JapanFG because it connects securities-company business m
 | Why do bank-owned securities subsidiaries behave differently from banks? | Securities subsidiaries such as [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and group peers are in the FIEA / JSDA lane, not only the banking-supervision lane. |
 | What separates "licensed" from "self-regulated"? | FSA registration is the public licensing / registration layer; JSDA membership and self-regulation are conduct and market-infrastructure layers. |
 | How should securities pages cite compliance regimes? | Link the firm page to [[financial-licenses/INDEX]] for license stack and to this page for JSDA self-regulatory functions. |
+
+Sources: ^[JSDA member lists: https://www.jsda.or.jp/en/about/members-list/index.html; JSDA major activities: https://www.jsda.or.jp/en/about/major-activities/index.html; FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 As of JSDA's May 7, 2026 member-list page, JSDA reported 259 Regular Members, 14 Specified Business Members, and 198 Special Members.[^jsda-members] This count is useful for market scale but should be refreshed when making a current quantitative claim.
 

@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/ey-shinnihon
-source_hash: 2d09d739d7840752
+source_hash: 3cd9219e6a1abaab
 lang: en
 status: machine
 fidelity: ok
 title: "EY ShinNihon LLC (EY 新日本有限責任監査法人)"
-translated_at: 2026-06-18T23:59:13.127Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # EY ShinNihon LLC (EY 新日本有限責任監査法人)
 
@@ -79,11 +79,14 @@ Note: Because auditor changes can occur frequently under the Companies Act + FIE
 
 ## 6. Competitive relationships (within the Big 4 )
 
-| Big 4 | Domestic brand | Strength axis (public basis) |
+| Big 4 | Domestic brand | Public-service focus in FinWiki analysis |
 |---|---|---|
-| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] | Major M&A, tech, crypto-assets |
-| PwC | [[financial-regulators/pwc-aarata|あらた]] | Global PwC network, Web3  strategy |
-| KPMG | [[financial-regulators/kpmg-azsa|あずさ]] | Financial-institution internal control, J-SOX |
+| Deloitte | [[financial-regulators/deloitte-touche-tohmatsu|Tohmatsu]] | Audit and assurance, FAS coordination and digital assets |
+| PwC | [[financial-regulators/pwc-aarata|PwC Japan LLC]] | Global network and digital assets |
+| KPMG | [[financial-regulators/kpmg-azsa|KPMG AZSA]] | Financial services, internal controls and J-SOX |
+
+Sources: ^[This is a FinWiki analytical comparison of public service descriptions, not an official ranking: EY https://www.shinnihon.or.jp/services/financial-services/; Deloitte https://www.deloitte.com/jp/ja/services/audit-assurance.html; PwC https://www.pwc.com/jp/ja/services/audit-assurance.html; KPMG https://kpmg.com/jp/ja/home/services/audit.html.]
+
 
 In the mid-tier (Tier 2) there are [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]], BDO Sanyu Audit Corporation, and others, which handle regional banks / mid-sized companies ^[extracted].
 

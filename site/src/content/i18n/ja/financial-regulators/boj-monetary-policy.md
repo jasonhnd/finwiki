@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/boj-monetary-policy
-source_hash: be07603680c14728
+source_hash: 389625f9ca0125ec
 lang: ja
 status: machine
 fidelity: ok
 title: "日本銀行の金融政策"
-translated_at: 2026-06-18T23:59:13.058Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本銀行の金融政策
@@ -77,6 +77,9 @@ JapanFG にとって、日本銀行の金融政策は抽象的なマクロのト
 | 短資会社 | コール市場の出来高、O/N レートの形成、短期金融市場のブローカレッジ需要 | 金利正常化がブローカレッジ・フローを復活させるかを追跡する |
 | 決済 / 清算インフラ | 日本銀行当座預金、日銀ネット、流動性のタイミング | 決済流動性と口座アクセスの境界をマッピングする |
 | 法務 / 規制ページ | 日本銀行法、FSA 監督下のライセンス、金融市場調節の権限 | 法定上の問いを [[financial-licenses/INDEX]] にルーティングする |
+
+Sources: ^[This is a FinWiki analytical routing table derived from the Bank of Japan's official policy, market-operations, and payments materials: https://www.boj.or.jp/en/mopo/outline/index.htm; https://www.boj.or.jp/en/mopo/measures/mkt_ope/index.htm; https://www.boj.or.jp/en/paym/market/.]
+
 
 重要な分析上の区別は次のとおりである。政策金利の引き上げは短期金融市場の経済性を改善しうるが、超過準備が潤沢なままであれば QQE 以前のインターバンク活動を自動的に再現するわけではない。
 

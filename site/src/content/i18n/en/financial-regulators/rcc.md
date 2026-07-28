@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/rcc
-source_hash: ec606054c243b65a
+source_hash: 9c2234a240f683c0
 lang: en
 status: machine
 fidelity: ok
 title: "Resolution and Collection Corporation (RCC)"
-translated_at: 2026-06-15T03:48:21.923Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Resolution and Collection Corporation (RCC)
@@ -29,6 +29,9 @@ The Resolution and Collection Corporation (RCC) is a resolution / collection ins
 | Formed | 1999-04, merger of the Housing Loan Administration Corporation + the Resolution and Collection Bank |
 | Legal/policy basis | a resolution vehicle under the financial-revitalization / deposit-insurance framework (joint-stock form modeled on the US RTC) |
 | Core role | Resolution, collection, special servicing |
+
+Sources: ^[FSA bank-license workbook: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; RCC company profile: https://www.kaisyukikou.co.jp/intro/intro_001.html; Deposit Insurance Corporation RCC overview: https://www.dic.go.jp/yokinsha/page_000132.html.]
+
 
 RCC appears in the "bank" category, but it is not a bank competing for retail deposits or corporate lending. The essence of its boundary is that, as a subsidiary of the Deposit Insurance Corporation, it is a dedicated vehicle for resolution and debt collection.
 

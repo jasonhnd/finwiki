@@ -8,9 +8,9 @@ aliases:
   - agent limited power of attorney comparison
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, custody, authorization, revocation, multi-sig, threshold, pkp, privy, magic, lit, erc-7715, erc-4337, erc-7702, limited-poa, brokerage]
 status: active
@@ -70,14 +70,16 @@ See [[agent-economy/embedded-wallet-landscape-2026-consolidation|embedded wallet
 
 ### Axis 2 · Authorization granularity
 
-| Granularity | Description | Where supported |
+| Granularity | Description | Standards / implementation boundary |
 |---|---|---|
-| **Single-transaction** | Agent must request user approval per action | Any wallet (default) |
-| **Time-bounded** | Scope valid until `expiresAt` timestamp | ERC-7715 `expiry`; Skyfire ledger; AP2 mandate validity |
-| **Amount-bounded** | Spend cap over rolling window (e.g. $50/day, $500/month) | ERC-7715 `period` + `amount`; Skyfire spend cap; Privy app-level cap |
-| **Spend-rule scoped** | Allowed merchants / categories / patterns | ERC-7715 `permissionsContext` allowlist; Skyfire merchant-category restriction; AP2 mandate scope |
-| **Per-resource scoped** | Allowed specific assets (USDC only, no ETH; specific tokens) | ERC-7715 `permission.type` (e.g. `erc20-token-transfer` for specific token); Skyfire card-level config |
-| **Composition** | Combination of above (e.g. "$50/day to .vercel.com only, USDC only, 7-day expiry") | Most production stacks compose 3+ |
+| **Single-action approval** | The wallet asks the user to approve each transaction or message | Existing wallet RPC / signing flow; behavior is wallet-specific |
+| **Time-bounded** | A permission expires at a defined timestamp | ERC-7715 Draft shows an `expiry` rule; the wallet must enforce it correctly |
+| **Amount-bounded** | A permission limits value or token allowance | ERC-7715 permits typed permission data, but supported allowance types are implementation-specific |
+| **Target-scoped** | Calls are limited to defined contracts, merchants, methods, or destinations | Expressed by a permission type / rule or by an application policy; no universal merchant taxonomy is defined |
+| **Asset / chain-scoped** | Authority is limited to a chain and a defined asset or operation | ERC-7715 requests include `chainId`, account and typed permission data; wallets publish their supported types separately |
+| **Composed policy** | Multiple constraints are enforced together | The wallet / delegation implementation must define composition, precedence, revocation and failure behavior |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-7715] ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/] ^[https://docs.skyfire.xyz/]
 
 The 2026 production reference: **composition is the norm**. A single dimension is rarely sufficient. Real agent permissions look like:
 
@@ -154,16 +156,17 @@ For high-value or institutionally-deployed agents, **single-signature agent cont
 
 The doctrinal analog from traditional finance is **discretionary trading authority** granted by a client to an investment adviser via Limited Power of Attorney (LPOA). The structure has been stable for ~50 years:
 
-| Dimension | Brokerage LPOA | Agent ERC-7715 / Skyfire equivalent |
-|---|---|---|
-| **Scope** | Asset classes (equity, fixed-income, FX) | `permission.type` (token, transfer, swap) |
-| **Amount** | Position-size limit, sometimes notional | `amount_cap` + `period` |
-| **Time** | Indefinite with revocation right; some are time-bounded | `expiry` timestamp |
-| **Approved counterparties** | Brokerage's execution venues | `allowed_targets` allowlist |
-| **Revocation** | Written notice; usually effective T+1 | On-chain instant or wallet-mediated seconds |
-| **Audit** | Monthly statements + Form 8949 / 法定調書 | On-chain ledger + signed receipt + audit log |
-| **Liability** | Client responsible; adviser fiduciary-bound | Deployer responsible; agent provider may have contractual liability |
-| **Regulator** | SEC IA / BD oversight, FINRA, FSA Type-1 / Type-2 FIBO | Indirect via deployer's regulated activity |
+| Dimension | Traditional discretionary authority | Wallet-permission analogue | Important limit of the analogy |
+|---|---|---|---|
+| **Scope** | Agreement and account terms define permitted activity | Typed permission and rules define executable calls | A technical permission is not itself a legal agency agreement |
+| **Amount** | Mandate, account or risk limits may constrain trades | Allowance / policy data may constrain value | Supported limit semantics depend on the wallet implementation |
+| **Time** | Authority continues under the agreement until expiry or revocation | An expiry rule can be attached to a permission | ERC-7715 remains Draft and does not make every wallet support the same rule |
+| **Counterparties / targets** | Broker, venue and product permissions constrain execution | Target / method restrictions can be encoded by the permission system | Merchant / counterparty identity still requires off-chain verification |
+| **Revocation** | Contractual and operational process under account terms | ERC-7715 defines `wallet_revokeExecutionPermission` | Confirmation and effective timing depend on wallet / chain behavior |
+| **Audit** | Books, records, confirmations and statements | Permission context, signatures, transactions and application logs | On-chain records do not capture off-chain intent or legal suitability by themselves |
+| **Liability / supervision** | Governing law, contract and regulated duties apply | Product terms and the deployer's regulated activity remain relevant | No cited standard creates a universal transfer of liability to an AI agent |
+
+Sources: ^[https://www.finra.org/rules-guidance/notices/12-25] ^[https://www.sec.gov/divisions/investment/imapplications/discretionary] ^[https://eips.ethereum.org/EIPS/eip-7715]
 
 The structural parallels are intentional. Agent custody / authorization is a **digitally-native LPOA** with **stronger revocation primitives** and **finer-grained scope expression**. The legal doctrine carries over almost unchanged: the principal (user / deployer) retains liability; the agent has limited authority within the granted scope; revocation is a unilateral right of the principal. See [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]] for the full doctrinal mapping and [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage]] for the brokerage LPOA framing.
 

@@ -3,21 +3,23 @@ title: Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot
 aliases: [agent-protocol-mainnet-adoption-2026, agent payment mainnet status 2026, x402 ap2 erc7715 production status, agent stack production readiness]
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, 2026-event, mainnet, adoption, x402, ap2, erc-7715, erc-4337, erc-7702, production-readiness]
 status: active
 sources:
-  - Cloudflare Workers x402 release notes (2026-Q1)
-  - AWS API Gateway x402 integration announcement (2026-Q2)
-  - Google AP2 launch consortium press (2025-09)
-  - Ethereum Pectra upgrade release notes (2025-Q2)
-  - Anthropic Claude Code SDK documentation (2026)
-  - OpenAI Agents SDK documentation (2026)
-  - Google Gemini Agent platform documentation (2026)
-  - FIDO Alliance AAIF announcement (2026-Q2)
+  - https://docs.x402.org/
+  - https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html
+  - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+  - https://github.com/google-agentic-commerce/AP2
+  - https://eips.ethereum.org/EIPS/eip-7702
+  - https://ethereum.org/en/roadmap/pectra/
+  - https://docs.anthropic.com/
+  - https://openai.github.io/openai-agents-python/
+  - https://google.github.io/adk-docs/
+  - https://ai-sdk.dev/docs
 ---
 
 # Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot
@@ -96,12 +98,15 @@ For agent payments specifically, ERC-4337 provides the underlying **smart contra
 
 ERC-7702 (EOA delegation to smart contract code via transaction-scoped authorization) shipped as part of Ethereum's **Pectra upgrade** in 2025-Q2 (post-Prague-Electra fork activation). For the first time, the **mass-installed EOA wallet base** (MetaMask EOAs, hardware-wallet EOAs) can opt-in to smart-contract behavior per-transaction without migrating to a separate SCW account.
 
-| Surface | Status | Date |
+| Surface | Confirmed public status | What this does not prove |
 |---|---|---|
-| ERC-7702 EIP final / Pectra activation | Live on Ethereum mainnet | 2025-Q2 |
-| MetaMask EOA + 7702 delegation UX | Live | 2025-Q4 |
-| Coinbase Wallet EOA + 7702 | Live | 2025-Q4 |
-| Wallet-side 7702 ergonomics (one-click delegation) | Partial; many wallets still require power-user flow | 2026-Q2 |
+| **EIP-7702 core mechanism** | The EIP defines authorization tuples and a delegation indicator that sets code for an EOA | It does not define a safe wallet UI or a permission policy by itself |
+| **Pectra activation** | Ethereum's Pectra upgrade includes EIP-7702; chain support must be checked per network | Activation does not mean every wallet enables delegation |
+| **Wallet implementation** | Must be evidenced by the wallet's current release notes, supported chains and audited delegate contract | An EIP number in marketing is not proof that the full flow is production-ready |
+| **Delegation persistence / clearing** | Delegation remains until replaced or cleared with a later valid authorization | It is not inherently transaction-scoped; limits come from the delegated code |
+| **Operational readiness** | Requires verified delegate bytecode, initialization, nonce / chain handling, recovery and monitoring | A one-click UX does not remove the EIP's storage, phishing and upgrade risks |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-7702] ^[https://ethereum.org/en/roadmap/pectra/]
 
 **Why it matters for agents**: ERC-7702 means the ~150M existing EOA users can grant an agent a one-transaction-scoped delegation **without switching wallets**. Combined with ERC-7715's `wallet_grantPermissions`, an existing MetaMask user can today (2026-Q2) delegate a Claude / Gemini / GPT agent a `erc20-token-transfer` USDC scope without abandoning their seed phrase. See [[systems/erc-7702-overview|ERC-7702 総覧]] for the delegation mechanics.
 
@@ -109,15 +114,15 @@ ERC-7702 (EOA delegation to smart contract code via transaction-scoped authoriza
 
 This is the critical "where the rubber meets the road" table — which AI agent vendor ships **first-party** payment-protocol integration vs which require community wrappers.
 
-| Vendor / SDK | x402 | AP2 | ERC-7715 | ERC-4337 | ERC-7702 |
-|---|---|---|---|---|---|
-| **Anthropic Claude Code** | community-wrapper | not integrated | community-wrapper | via MCP tool | via MCP tool |
-| **Anthropic Claude Agent SDK** | community-wrapper | not integrated | community-wrapper | via MCP tool | via MCP tool |
-| **OpenAI Agents SDK** | community-wrapper | partial (early integration) | community-wrapper | via tool registry | via tool registry |
-| **Google Gemini Agent** | not integrated | first-party | first-party (Android wallet pilot) | first-party (Android Wallet 4337 path) | first-party |
-| **LangChain / LlamaIndex** | community-wrapper | community-wrapper | community-wrapper | community-wrapper | community-wrapper |
-| **Vercel AI SDK** | first-party client | not integrated | not integrated | not integrated | not integrated |
-| **CrewAI / AutoGen** | community-wrapper | community-wrapper | not integrated | not integrated | not integrated |
+| Vendor / SDK surface | First-party evidence required for a payment claim | Acceptable integration evidence | Do not infer from |
+|---|---|---|---|
+| **Anthropic developer / agent tooling** | Official Anthropic docs or repository naming the protocol and supported flow | Versioned tool / MCP integration plus wallet and settlement documentation | A community wrapper, example prompt or third-party MCP listing |
+| **OpenAI Agents SDK** | Official OpenAI SDK docs / repository naming the protocol or payment tool | Versioned tool integration with authorization, error and settlement handling | A partner announcement without shipped SDK documentation |
+| **Google ADK / AP2** | AP2 repository plus ADK docs and runnable reference implementation | Signed mandate flow, payment-method adapter and conformance tests | AP2 consortium membership alone |
+| **Vercel AI SDK** | Official AI SDK package / docs naming x402 or another payment protocol | Versioned client middleware and protocol-version compatibility | An application built with the SDK |
+| **Other agent frameworks** | The framework's own docs / release plus maintained protocol package | Maintained adapter, tests and explicit responsibility for keys / facilitators | Registry presence, a blog post or an unmaintained sample |
+
+Sources: ^[https://docs.anthropic.com/] ^[https://openai.github.io/openai-agents-python/] ^[https://google.github.io/adk-docs/] ^[https://github.com/google-agentic-commerce/AP2] ^[https://ai-sdk.dev/docs] ^[https://docs.x402.org/]
 
 **Key inference**: Anthropic has deliberately stayed protocol-neutral on payments, routing everything through MCP tools rather than integrating any payment-protocol SDK first-party. Google has bet on AP2 + 7715 as a vertically-owned stack. OpenAI is hedging. Vercel has bet on x402-on-edge as a pure infrastructure play.
 

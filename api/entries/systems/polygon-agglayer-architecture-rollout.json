@@ -27,9 +27,9 @@
     "domain": "systems",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "systems",
@@ -51,6 +51,10 @@
       "https://polygon.technology/blog/agglayer-v0-2",
       "https://docs.polygon.technology/cdk/",
       "https://polygon.technology/blog/migrate-matic-to-pol",
+      "https://docs.optimism.io/stack/getting-started",
+      "https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction",
+      "https://docs.zksync.io/zksync-protocol/rollup/overview",
+      "https://docs.eclipse.xyz/",
       "https://l2beat.com/scaling/projects",
       "https://defillama.com/chain/Polygon",
       "Polygon Labs blog & GitHub",
@@ -107,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9683,
-    "word_like_tokens": 1639,
+    "nonspace_chars": 10710,
+    "word_like_tokens": 1772,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

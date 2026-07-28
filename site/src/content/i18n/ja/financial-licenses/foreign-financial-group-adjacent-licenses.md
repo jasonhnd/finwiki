@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/foreign-financial-group-adjacent-licenses
-source_hash: 2ff5c80a2dc12891
+source_hash: cd3b077806389ec8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国金融グループの近接ライセンス"
-translated_at: 2026-06-26T08:32:07.547Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本における外国金融グループの近接ライセンス
@@ -26,6 +26,9 @@ translated_at: 2026-06-26T08:32:07.547Z
 | 外国銀行代理業 | 本人たる外国銀行のための代理人／媒介者。 | 金融庁の外国銀行代理銀行一覧。 |
 | 決済／送金／ウォレット | 資金移動、前払式、電子決済代行、EPI。 | 金融庁の資金決済法関連一覧および [[payments/INDEX|payments domain]]。 |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator list: https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf; FSA foreign-bank branch list: https://www.fsa.go.jp/en/regulated/licensed/city.pdf; JSDA member lists: https://www.jsda.or.jp/en/about/members-list/index.html.]
+
+
 ## グループ読解の例
 
 | グループ | 1 ページでは不十分な理由 |
@@ -39,6 +42,9 @@ translated_at: 2026-06-26T08:32:07.547Z
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] | カストディ／アセットサービシングにより、通常のホールセール銀行支店とは異なる。 |
 | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] / [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | ICSD、決済、担保、カストディ、開示の各経路により、銀行支店の行はインフラ近接的となる。 |
 | [[securities-firms/anz-bank-japan|ANZ Japan]] | 銀行支店に加えて証券／FIBO の近接性があるため、銀行／証券の切り分けによる読解が必要となる。 |
+
+Sources: ^[This is a FinWiki entity-boundary routing table. Verify each legal entity against the separate FSA bank and financial-instruments registries: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/en/regulated/licensed/city.pdf; https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf.]
+
 
 ## コントロール上の問い
 

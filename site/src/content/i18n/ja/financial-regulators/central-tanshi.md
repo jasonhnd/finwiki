@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/central-tanshi
-source_hash: c3f3795f4fa379d9
+source_hash: 782795b5a6882219
 lang: ja
 status: machine
 fidelity: ok
 title: "セントラル短資株式会社 (Central Tanshi)"
-translated_at: 2026-06-02T14:01:20.954Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # セントラル短資株式会社 (Central Tanshi)
@@ -51,6 +51,9 @@ translated_at: 2026-06-02T14:01:20.954Z
 | 債券仲介 | 国債・地方債売買 | 日銀対手取引含む |
 | 個人向け FX | セントラル短資 FX（子会社）| 短資業界では珍しい個人 retail 展開 |
 | オンライン金融 | セントラル短資オンライン | デジタル個人金融サービス |
+
+Sources: ^[セントラル短資 公式サイト: https://www.central-tanshi.com/; セントラル短資 FX 公式サイト: https://www.central-tanshifx.com/; 日本銀行「短期金融市場」: https://www.boj.or.jp/paym/market/index.htm.]
+
 
 ### 短資会社の役割
 

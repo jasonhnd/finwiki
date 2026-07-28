@@ -1,12 +1,12 @@
 ---
 source: trade/documentary-collection-vs-letter-of-credit
-source_hash: 0c1ef61bfb4a4012
+source_hash: 77163ce07a5324cd
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "荷為替手形決済 vs 信用状 — 貿易決済方法の比較"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 荷為替手形決済 vs 信用状 — 貿易決済方法の比較
 
@@ -58,6 +58,9 @@ D/P は「書類と引換えの現金」、D/A はバイヤーに金融期間を
 | 速度／複雑さ | より単純、設定がより速い | より多くの書類とステップ |
 | 書類審査 | 銀行は書類が**指示どおりに揃っているか**を確認し、信用状への厳格一致については確認しない | 銀行は信用状の条件への**厳格一致**について審査する |
 | 典型的な用途 | 確立された関係、中程度のリスク、より低額または反復取引 | 新規／脆弱な相手、より高リスクの回廊、売主が銀行の約束を必要とする場合 |
+
+Sources: ^[ICC URC 522 publication page: https://2go.iccwbo.org/urc-522-uniform-rules-for-collections-config-1+book_version-Book/; ICC trade-finance overview: https://iccwbo.org/business-solutions/trade-finance/; U.S. International Trade Administration methods-of-payment guide: https://www.trade.gov/methods-payment.]
+
 
 取立てを扱う銀行は、L/C を定義する厳格一致の書類審査を**行わない**。それは指示に列挙された書類が揃っていることを確認し、それに応じて行動する。その軽い義務が、取立てがより安価である理由の一部であり — そして取立てが輸出者により少ない保護を与える理由でもある。
 

@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/rating-and-investment
-source_hash: 73a0d482012617d1
+source_hash: 2b4710bc69a099a7
 lang: ja
 status: machine
 fidelity: ok
 title: "格付投資情報センター"
-translated_at: 2026-06-02T15:14:17.124Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 格付投資情報センター
 
@@ -42,11 +42,14 @@ translated_at: 2026-06-02T15:14:17.124Z
 | 1979 | 日本公社債研究所 設立（IBJ 系 = みずほ系源流） |
 | 1985 | 日本インベスターズサービス 設立（日経系） |
 | **1998-04** | **両者統合 → R&I 発足** |
-| 2000-04 | みずほホールディングス発足 → R&I の系列関係明確化 |
-| **2010-04** | **信用格付業者登録**（金融商品取引法登録制度施行に伴い） |
+| 2000年代 | 日本経済新聞社グループの国内格付会社として事業展開 |
+| **2010-09-30** | **金融庁長官（格付）第 6 号として登録** |
 | 2013〜 | ストラクチャードファイナンス格付の透明性強化 |
 | 2017〜 | **R&I グリーンボンドアセスメント** 等 ESG 評価業務本格化 |
 | 2020〜 | コロナ局面で社債発行急増 → 格付件数増加 |
+
+Sources: ^[FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf; JPX ESG Knowledge Hub「R&I」: https://www.jpx.co.jp/corporate/sustainability/esgknowledgehub/esg-rating/09.html; R&I 公式サイト: https://www.r-i.co.jp/.]
+
 
 ## 2. 業務 map
 

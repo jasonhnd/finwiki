@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/taiyo-grant-thornton
-source_hash: b1d3e6c6f3562658
+source_hash: b3022b428452dd7c
 lang: ja
 status: machine
 fidelity: ok
 title: "太陽有限責任監査法人 (Grant Thornton Taiyo)"
-translated_at: 2026-06-18T23:59:13.080Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 太陽有限責任監査法人 (Grant Thornton Taiyo)
 
@@ -68,12 +68,15 @@ translated_at: 2026-06-18T23:59:13.080Z
 
 ## 6. 競合関係
 
-| 層 | 法人 | 強み軸 |
+| 層 | 法人 | FinWiki 分析上の注目領域（各法人の公開情報から整理） |
 |---|---|---|
-| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC あらた]] | 大手上場・メガ FG |
-| **準大手（Tier 2）** | **太陽グラントソントン** | **中堅上場 / IPO / VASP** |
-| 準大手（Tier 2）| BDO 三優監査法人 | 中堅 / 外資系 |
-| 中小 | PwC 京都監査法人（旧）/ 他多数 | 地域・特化 |
+| Big 4 | [[financial-regulators/ey-shinnihon|EY 新日本]] / [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] / [[financial-regulators/kpmg-azsa|あずさ]] / [[financial-regulators/pwc-aarata|PwC Japan 有限責任監査法人]] | 大規模上場会社・金融グループを含む幅広い監査・保証業務 |
+| **準大手（Tier 2）** | **太陽グラントソントン** | **中堅上場会社、IPO、国際ネットワーク連携** |
+| 準大手（Tier 2）| BDO 三優監査法人 | 中堅企業、IPO、国際ネットワーク連携 |
+| 中小 | 多数 | 地域・業種特化 |
+
+Sources: ^[This comparison is a FinWiki analytical grouping based on public firm descriptions, not an official market-share ranking: Grant Thornton Taiyo https://www.grantthornton.jp/about/firm/; BDO Sanyu https://www.bdo.or.jp/firm/; JICPA https://jicpa.or.jp/; CPAAOB https://www.fsa.go.jp/cpaaob/.]
+
 
 ## 関連
 

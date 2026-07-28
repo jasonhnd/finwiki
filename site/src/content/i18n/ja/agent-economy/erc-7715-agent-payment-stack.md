@@ -1,12 +1,12 @@
 ---
 source: agent-economy/erc-7715-agent-payment-stack
-source_hash: 9397cf2ee13c7394
+source_hash: 0dfd9671152be585
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調"
-translated_at: 2026-06-26T08:27:56.299Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調
@@ -27,12 +27,16 @@ translated_at: 2026-06-26T08:27:56.299Z
 
 **4層 stack アーキテクチャ**:
 
-| 層 | プロトコル | 役割 |
-|---|---|---|
-| **HTTP** | x402 | API が 402 + 決済指示を返却 · client が決済完了後リトライ |
-| **Agent 交渉** | AP2 / MPP / ACP / A2A | mandate / intent メタデータ標準 |
-| **ウォレット認可** | ERC-7715 | agent に scoped permission を付与 · 一度の認可で複数回利用 |
-| **ウォレット基盤** | ERC-4337 / 7702 | プログラマブルウォレット([[systems/erc-4337-overview|ERC-4337]] と [[systems/erc-7702-overview|ERC-7702]] 参照) · module / delegation をサポート |
+| 層 | 公開仕様 | 役割 | 実装境界 |
+|---|---|---|---|
+| **HTTP payment negotiation** | x402 V2 | `402` と `PAYMENT-REQUIRED` / `PAYMENT-SIGNATURE` / `PAYMENT-RESPONSE` で支払条件と結果を交換 | scheme、network、asset、server / facilitator responsibility を選択する |
+| **Commerce authorization** | AP2 | Intent / Cart Mandate で user intent と purchase authorization の証拠を連結 | payment adapter と credential trust は別途選択する |
+| **Wallet execution permission** | ERC-7715 **Draft** | `wallet_requestExecutionPermissions` で typed permission / rules を要求し、query / revoke する | permission type と enforcement は wallet / delegation implementation 依存 |
+| **Account execution** | ERC-4337 / EIP-7702 | smart account の `UserOperation` または EOA code delegation で programmable execution を実現 | EntryPoint / account modules と delegate bytecode は異なる security boundary |
+| **Settlement** | 選択した x402 scheme / payment adapter | 実際の asset transfer または batch redemption を行う | ERC-7715 は settlement rail ではなく、資産・chain を固定しない |
+
+Sources: ^[https://docs.x402.org/core-concepts/http-402] ^[https://github.com/google-agentic-commerce/AP2] ^[https://eips.ethereum.org/EIPS/eip-7715] ^[https://eips.ethereum.org/EIPS/eip-4337] ^[https://eips.ethereum.org/EIPS/eip-7702]
+
 
 **典型的な agent 自動決済フロー**:
 1. ユーザーが agent に「毎日 $5 まで vercel.com API に支払ってよい」と認可(7715 scoped permission)

@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/cpaaob
-source_hash: 1d64284f111ebfdd
+source_hash: 8bd04bc1a4c6f6e9
 lang: ja
 status: machine
 fidelity: ok
 title: "公認会計士・監査審査会 (CPAAOB)"
-translated_at: 2026-06-02T14:01:20.941Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 公認会計士・監査審査会 (CPAAOB)
@@ -59,6 +59,9 @@ CPAAOB の検査・建議 → FSA Commissioner の処分判断 のフローで�
 | 倫理・自主規制 | 監督 | **規律 (自主規制)** |
 | 検査 | **権限を持つ** | 規律調査 |
 | 国際連携 | **IFIAR** | **IFAC** |
+
+Sources: ^[公認会計士・監査審査会 公式サイト: https://www.fsa.go.jp/cpaaob/; CPAAOB 検査・モニタリング: https://www.fsa.go.jp/cpaaob/kensa/index.html; 日本公認会計士協会: https://jicpa.or.jp/.]
+
 
 ## 5. ガバナンス上の位置
 

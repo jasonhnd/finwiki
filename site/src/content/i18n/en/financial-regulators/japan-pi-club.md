@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-pi-club
-source_hash: 7403a7a8dbfdabdb
+source_hash: 57c3a7fe4948736b
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Shipowners' Mutual Protection & Indemnity Association"
-translated_at: 2026-06-18T23:59:13.108Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Japan Shipowners' Mutual Protection & Indemnity Association
@@ -28,6 +28,9 @@ The Japan Shipowners' Mutual Protection & Indemnity Association (Japan P&I Club,
 | Membership | Ocean-going shipping companies (NYK Line, Mitsui O.S.K. Lines, Kawasaki Kisen, etc.) + coastal shipping companies + fishing-vessel / small-vessel operators |
 | International tier | Full member of the International Group of P&I Clubs (IG) |
 | Wiki role | Japan's sole P&I mutual marine insurer anchor |
+
+Sources: ^[Japan P&I Club official site: https://www.piclub.or.jp/; International Group member-club list: https://www.igpandi.org/clubs; Shipowners' Mutual Insurance Association Act: https://laws.e-gov.go.jp/law/325AC0000000177.]
+
 
 ## 2. Business lines
 

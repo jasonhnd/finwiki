@@ -3,9 +3,9 @@ title: Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Kar
 aliases: [restaking avs landscape matrix, eigenlayer vs symbiotic vs karak matrix, restaking infrastructure comparison 2026, avs landscape eigenda hyperlane espresso lagrange witness, lrt etherfi mellow lido csm comparison]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, matrix, restaking, eigenlayer, symbiotic, karak, mellow, etherfi, lido, csm, avs, eigenda, hyperlane, espresso, lagrange, witness-chain, lrt]
 status: active
@@ -203,16 +203,18 @@ Restaking は 2023-2024 年において EigenLayer 単独プレイヤーの「ET
 
 ## Big comparison matrix table
 
-**6 つの restaking インフラ × 10 軸対照**(2026-Q2 状態):
+**6 つの staking / restaking component の公開仕様対照**。TVL、利回り、operator concentration、slashing 実績、監査範囲、規制評価は live data と個別契約なしに固定値で比較しない:
 
-| Protocol | Restaking Model | TVL May 2026 | Slashing | AVS Economics | Correlation Risk | Operator Concentration | Governance | Audit | Lido Overlap | Regulatory |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **EigenLayer** | Operator-delegated · native ETH+LST+EIGEN | ~$14B | 2025-Q2 有効化 · ≤5 events · <$5M 累計 | ~40 AVS · EIGEN+AVS token rewards · base に +1-3% | Rehypothecation 2.5-3x · cascade 懸念 | Top 5 ~50% | EigenLabs+EIGEN+SC 7/13 | Trail of Bits · ChainSecurity · OZ · Sigma Prime · C4 · Cantina | ~25% stETH | SEC EIGEN security 未表明 · EU MiCA 判決待ち |
-| **Symbiotic** | **マルチアセット**(ETH+LST+stablecoin+token)· modular vault | ~$3.2B | Day 1 design · 2025-Q1 有効化 · vault-level | ~15 AVS · stablecoin/vault/AVS token rewards | 複雑マルチアセット · vault curator アンカー | Top 5 ~60% | Symbiotic Labs · 2026 Q4 token+DAO | OZ · Sigma Prime · Cantina · 初期段階 | ~40% stETH(Mellow vault 主経路) | マルチアセット規制サーフェス複雑 |
-| **Karak** | Universal(ETH+BTC+USDC)· K2 L2 統合 | ~$1.0B | 2025-Q3 有効化 · ≤2 events | ~10 AVS · Karak-incubated 中心 | マルチアセット複雑 · TVL 小 リスク当面低 | Top 5 ~70%(集中度高) | Karak Foundation · KAR 2026 Q3-Q4 | Sigma Prime · Halborn · Cantina 一部 | ~20% stETH | BTC restaking SEC 関心 · USDC は MM 規制に接近 |
-| **Mellow** | **LRT vault aggregator**(EigenLayer+Symbiotic 上に)· socialize slashing | ~$1.8B | Vault-level socialize | マルチ AVS pool basket rewards | 最高(vault 内 cascade) | underlying 借用 · 新規集中なし | Mellow DAO+MLW 2025-Q2 · vault curator sub-gov | Sigma Prime · Spearbit · C4 · Symbiotic と合同 | ~100%(基本的に全 LST) | managed fund に接近 · 米国回避 |
-| **EtherFi LRT** | **LST+restaking 一体化** · 自社ノード+マルチレイヤー restake | ~$5.5B(最大 LRT) | EtherFi ノード責任 · insurance fund first-loss | EigenDA+Hyperlane+Espresso+Lagrange · 年化 4-6% | 3 層 slash cascade · insurance ~$50M buffer | EtherFi ネットワーク ~200 operator | EtherFi DAO+ETHFI 2024 Q2 · SC 7/15 | Spearbit · Halborn · Certora · Hats bounty | Lido 競合 · 自社 validator · AVS pool 間接重複 | LRT は SEC 重点関心 · 米国リテール geo-fence |
-| **Lido CSM / stVaults** | CSM home staker + stVaults restaking hook(2026 計画) | ~$280M CSM · stETH 全体 $32B | CSM operator bond first · insurance backup · stVaults ユーザー負担 | 厳格 AVS ホワイトリスト(DAO 投票) | Lido 哲学 minimize · AVS cap 制限 | CSM ~200 小 operator + 主集合 30 | Lido DAO+LDO+referendum(治理最重) | Sigma Prime · ChainSecurity · OZ · Certora · Statemind · MixBytes · 業界最深 | **100%(Lido 自身)** · stETH は restaking 流動性源 | LDO security 判決待ち · stETH MiCA ART 判決待ち |
+| Protocol / component | 公開上の役割 | Collateral / delegation model | Slashing / loss boundary | Operator / vault control | 主な due-diligence |
+|---|---|---|---|---|---|
+| **EigenLayer** | operators が複数の AVS / services に参加する restaking protocol | staker / delegator と operator の関係を protocol contracts が管理 | service-specific slashing conditions と allocation を確認 | operator registration、delegation、AVS contracts、protocol governance | slashing terms、withdrawal delay、operator allocation、AVS code |
+| **Symbiotic** | vault、network、operator を分離する modular shared-security protocol | vault が collateral と delegation / curator policy を定義 | network-specific slashing と resolver / vault configuration に依存 | vault owner / curator、network、operator、resolver の権限を分けて確認 | collateral、epoch / withdrawal、slasher、resolver、vault upgrade |
+| **Karak** | operators が DSS に security を提供する restaking platform | 対応 collateral と vault / delegation は current contracts に依存 | DSS-specific conditions と protocol controls を確認 | operator、DSS、vault / contract owner の境界 | supported asset、DSS code、slashing status、withdrawal / upgrade |
+| **Mellow** | restaking infrastructure 上に vault strategy / curation を構成する middleware | vault ごとに asset、strategy、underlying protocol exposure が異なる | vault と underlying restaking layer の損失条件が重なる | curator / vault owner と underlying operator の双方を確認 | vault parameters、underlying protocol、fee、withdrawal、upgrade |
+| **ether.fi** | staking / liquid-restaking product と node-operator workflow | deposit product と downstream restaking allocation は product version に依存 | validator、protocol、downstream service の条件を分けて評価 | node operator、protocol contracts、governance / product controls | withdrawal、operator selection、allocation、insurance claim terms |
+| **Lido CSM / stVaults** | CSM は community staking module。stVaults は current Lido docs の product status を確認 | module / vault ごとの deposit、operator、control model | operator bond、module / vault rules、downstream exposure を分離 | Lido DAO、module / vault roles、node operator | production status、bond / loss waterfall、permissions、withdrawal |
+
+Sources: ^[https://docs.eigenlayer.xyz/] ^[https://docs.symbiotic.fi/] ^[https://docs.karak.network/] ^[https://docs.mellow.finance/] ^[https://docs.ether.fi/] ^[https://docs.lido.fi/]
 
 **マトリクスの読み方**:
 - **Restaking model 3 象限対照**:operator-delegated(EigenLayer · Karak · Symbiotic)→ 直接受託 · vault aggregator(Mellow)→ 他 restaking を包装 · LST+restaking 一体化(EtherFi · Lido stVaults)→ ユーザーが LRT token を受領

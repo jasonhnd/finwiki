@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/dic
-source_hash: 0449d346c6afec89
+source_hash: 8d1985ffbc0570fa
 lang: ja
 status: machine
 fidelity: ok
 title: "預金保険機構 (DIC)"
-translated_at: 2026-06-02T14:25:12.398Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 預金保険機構 (DIC)
 
@@ -44,14 +44,16 @@ translated_at: 2026-06-02T14:25:12.398Z
 | 1996 | 住専処理法成立 → 住宅金融債権管理機構（住管機構）設立 |
 | **1998-10** | 金融再生法 / 早期健全化法成立 → 公的資金注入枠組み確立 |
 | **2000-04** | 整理回収機構（[[financial-regulators/rcc|RCC]]）発足（住管機構＋整理回収銀行統合・DIC 子会社化） |
-| 2001-04 | **ペイオフ凍結解除** 第 1 段階（定期性預金）|
-| **2002-04** | ペイオフ全面解禁 → 翌年延期 |
+| **2002-04** | 定期性預金等についてペイオフ解禁 |
 | **2003-05** | **[[megabanks/resona-hd|りそな]] 公的資金注入** 約 2 兆円（事実上の一時国有化） |
 | **2003-11** | **[[regional-banks/ashikaga-hd|足利銀行]] 一時国有化**（特別危機管理銀行第 1 号）|
 | 2005-04 | **ペイオフ全面実施**（決済用預金以外は元本 1,000 万円 + 利息まで保護） |
 | 2010-09 | [[financial-regulators/japan-shinko-bank|日本振興銀行]] 破綻 → **日本で初のペイオフ発動** |
 | 2014 | 預金保険法改正 → 秩序ある処理（金融システム上重要な金融機関等の処理） |
 | 2020〜 | コロナ危機対応・金融機能強化法の継続運用 |
+
+Sources: ^[預金保険機構 公式サイト: https://www.dic.go.jp/; 金融庁「預金保険制度」: https://www.fsa.go.jp/policy/payoff/; e-Gov 預金保険法: https://laws.e-gov.go.jp/law/346AC0000000034.]
+
 
 ## 2. 業務領域
 
@@ -65,6 +67,9 @@ translated_at: 2026-06-02T14:25:12.398Z
 | **資産買取** | RCC を通じた不良債権・特定回収困難債権の買取 | [[financial-regulators/rcc|RCC]] 経由 |
 | **金融機能強化** | 中小金融機関の自主的資本増強支援（金融機能強化法）| 2008-09 リーマン後 |
 | **金融商品取引業者特例** | 投資者保護基金との連携領域 | 限定的 |
+
+Sources: ^[預金保険機構 公式サイト: https://www.dic.go.jp/; 金融庁「預金保険制度」: https://www.fsa.go.jp/policy/payoff/; e-Gov 預金保険法: https://laws.e-gov.go.jp/law/346AC0000000034.]
+
 
 ### 主要機関エコシステム
 

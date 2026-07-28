@@ -1,12 +1,12 @@
 ---
 source: financial-licenses/securities-license-stack
-source_hash: 1aeeb80a4be75806
+source_hash: f64d8690999f62a5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本証券ライセンス・スタック"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本証券ライセンス・スタック
@@ -28,6 +28,9 @@ translated_at: 2026-07-28T18:19:40Z
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | 取引・清算・決済・PTS ルート。 | ブローカー登録または適合性。 |
 | Product disclosure | 会社ページ、目論見書、EDINET / TDnet、公式商品ページ | その会社が現在その商品を販売しているか、およびどの開示が付随するか。 | 一般的なライセンスの結論。 |
 
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html; JSDA member-list route: https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html.]
+
+
 2026-07-29 に確認した FSA のライセンス・ポータルは、金融商品取引業者、登録金融機関、金融商品仲介業者、証券金融会社、清算、保管、および関連する登録ルートを、現行の as-of 日付付きで掲載していた。現行の公式金融商品取引業者 workbook は 1,954 業者を報告しており、専用の FinWiki 登録管理ページは公式 workbook を複製せず、その母集団を要約レベルで保持する。^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx, checked 2026-07-29, 「全業者数: 1954」.]
 
 ## レジーム・マップ
@@ -45,6 +48,9 @@ translated_at: 2026-07-28T18:19:40Z
 | 証券金融 | 証券金融会社 | [[financial-regulators/japan-securities-finance|Japan Securities Finance]] および信用 / 貸付の配管に関連。 |
 | 清算 / 保管 | 清算機関 / 保管機関 | [[securities/japan-securities-clearing-corp|JSCC]] および [[securities/japan-securities-depository-center|JASDEC]] に関連。 |
 
+Sources: ^[FSA licensed-operator portal and financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html.]
+
+
 ## 実務上の決定木
 
 | Question | First place to check | Second check |
@@ -57,6 +63,9 @@ translated_at: 2026-07-28T18:19:40Z
 | これは投資運用か？ | 投資運用の登録。 | ファンド文書、受託者 / カストディアン構造、商品開示。 |
 | これは PTS か？ | FSA の登録と場の認可。 | 場のルールブック、JSDA / 取引所データ、清算 / 決済ルート。 |
 | これはセキュリティ・トークン関連か？ | FIEA トークン化証券の行と商品分類。 | そのトークンが電子決済手段か、暗号資産か、FIEA 上の証券か。 |
+
+Sources: ^[This decision tree applies the categories in the FSA operator workbook and supervisory guideline, with JSDA membership as a separate self-regulatory check: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html; https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html.]
+
 
 ## JapanFG との関連性同一のカスタマー・ジャーニーが複数の規制対象の役割を含みうる：
 
@@ -76,6 +85,9 @@ translated_at: 2026-07-28T18:19:40Z
 | PTS vs ブローカー SOR | 顧客は 1 枚の注文票を見るが、執行は TSE、PTS、または内部化された OTC フローへ回送されうる。 | [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] と場のページへリンクする。 |
 | セキュリティ・トークン vs 暗号資産 | トークンはデジタルとして販売されうるが、法的分類はレジームを変える。 | 証券上の権利を表す場合はまず FIEA へ回送する; 暗号資産交換業の地位については [[exchanges/INDEX|exchanges]] へ、証券ではなく電子決済手段または stablecoin である場合は [[financial-licenses/payment-license-stack|Japan payment license stack]] へ回送する。 |
 | 「未上場」vs「無免許」 | ある一覧で会社が見つからないことは、カテゴリ違いまたは表記の陳腐化を意味しうる。 | 無免許の状態を主張するのではなく、「確認したソースにその日付時点で見つからない」と記録する。 |
+
+Sources: ^[FSA licensed-operator portal: https://www.fsa.go.jp/menkyo/menkyo.html; FSA financial-instruments operator workbook: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; FSA supervisory guideline: https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html.]
+
 
 ## リサーチ・チェックリスト
 

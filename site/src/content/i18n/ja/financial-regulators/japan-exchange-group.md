@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/japan-exchange-group
-source_hash: 328a67d88dc61cad
+source_hash: 51a3fc8459da1587
 lang: ja
 status: machine
 fidelity: ok
 title: "日本取引所グループ (JPX)"
-translated_at: 2026-06-18T23:59:13.098Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # 日本取引所グループ (JPX)
@@ -32,6 +32,9 @@ FinWiki にとって、JPX は単なる一銘柄ではない。上場、取引�
 | 法的役割 | 金融商品取引所持株会社グループの運営 |
 | 決算期 | 31 月期 |
 
+Sources: ^[JPX corporate profile: https://www.jpx.co.jp/english/corporate/about-jpx/profile/; JPX business description: https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html.]
+
+
 ```
 Japan Exchange Group (JPX)
   ├── 東京証券取引所 (現物株式市場)
@@ -52,6 +55,9 @@ Japan Exchange Group (JPX)
 | 清算 | [[securities/japan-securities-clearing-corp|JSCC]] | 証券、デリバティブ、JGB、店頭デリバティブ、および商品の清算。 |
 | 規制 | 日本取引所自主規制法人 | 上場審査、上場会社のコンプライアンス、市場監視、参加者検査。 |
 | データ / 指数 | JPX 総研 | 指数、データサービス、アナリティクス、デジタル・データ商品。 |
+
+Sources: ^[JPX business description: https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html; JPX corporate profile: https://www.jpx.co.jp/english/corporate/about-jpx/profile/.]
+
 
 ## 3. 戦略・競争
 

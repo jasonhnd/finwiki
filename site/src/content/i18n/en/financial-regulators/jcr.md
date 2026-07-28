@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/jcr
-source_hash: 3cd5409a965981f6
+source_hash: 46835ad807dd9c39
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Credit Rating Agency (JCR)"
-translated_at: 2026-06-18T23:59:13.040Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # Japan Credit Rating Agency (JCR)
 
@@ -29,16 +29,19 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ### Key chronology
 
-| Year / month | Event |
+| Date | Event |
 |---|---|
-| **1985-04** | **Establishment** (responding to rating needs amid the surge in corporate-bond issuance before the bubble period) |
-| 1991  | Full-scale rollout of domestic corporate-bond ratings |
-| 1998  | Amendment to the Financial Instruments and Exchange Act (the credit-rating-agency registration system took effect in 2010) |
-| 2007〜 | Subprime crisis → international debate on rating-industry regulation intensified |
-| **2010-04** | **Credit-rating-agency registration system took effect** → JCR registered as a registered 第 1 号-class agency (alongside [[financial-regulators/rating-and-investment|R&I]]) |
-| 2013〜 | Enhanced transparency of structured-finance (RMBS / ABS) ratings |
-| 2017〜 | Began ESG-related assessment work such as **green bonds / social bonds / sustainability-linked bonds** |
-| 2020〜 | Rating volume increased amid the post-COVID surge in corporate-bond issuance |
+| **1985-04** | **Established** (responding to rating demand created by rapid corporate-bond issuance before the bubble period) |
+| 1991 | Full-scale expansion of domestic corporate-bond ratings |
+| 1998 | Financial Instruments and Exchange Act amended (credit-rating-agency registration system took effect in 2010) |
+| 2007 onward | Subprime crisis → international debate on rating-industry regulation intensified |
+| **2010-04 / 2010-09-30** | **Credit-rating-agency registration system took effect / JCR registered as Commissioner of the Financial Services Agency (Rating) 第 1 号** |
+| 2013 onward | Greater transparency for structured-finance (RMBS / ABS) ratings |
+| 2017 onward | Began ESG-related assessment services including **green bonds / social bonds / sustainability-linked bonds** |
+| 2020 onward | Rating volume rose amid increased corporate-bond issuance after COVID |
+
+Sources: ^[JCR 会社概要・沿革: https://www.jcr.co.jp/service/company/company; FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf.]
+
 
 ## 2. Rating-business map
 
@@ -53,6 +56,9 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | **ESG / sustainability assessment** | Assessment of green / social / sustainability / transition bonds | Issuers generally |
 | **Second-party opinions** | SPOs on framework conformity | Issuers |
 
+Sources: ^[JCR 会社概要（事業内容）: https://www.jcr.co.jp/service/company/company; JCR サービス一覧: https://www.jcr.co.jp/service/.]
+
+
 ### Rating scale
 
 - **Long-term ratings**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB and below (speculative) → D (default)
@@ -63,10 +69,13 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | Rating agency | Characteristics | Parent / affiliation |
 |---|---|---|
-| **JCR** | Independent / domestic | Independent (no specific parent) |
-| **R&I** | Mizuho-affiliated (former IBJ lineage + Nikkei lineage) | Mizuho-affiliated (related to [[megabanks/mizuho-fg|みずほ FG]]) |
+| **JCR** | Independent and domestic | Independent (no specific parent company) |
+| **R&I** | Domestic (originating in Nikkei's bond-research organization) | Nikkei Inc. group |
 | **S&P Global Ratings Japan** | US S&P subsidiary | S&P Global |
 | **Moody's Japan / Moody's SF Japan** | US Moody's subsidiary | Moody's Corp |
+
+Sources: ^[FSA 信用格付業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf; JCR 会社概要: https://www.jcr.co.jp/service/company/company; JPX ESG Knowledge Hub「R&I」: https://www.jpx.co.jp/corporate/sustainability/esgknowledgehub/esg-rating/09.html.]
+
 
 ### The domestic-vs-international rating-gap issue
 

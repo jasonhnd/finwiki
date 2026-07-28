@@ -3,9 +3,9 @@ title: Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs 
 aliases: [rollup market share 2026, arbitrum optimism base 2026, l2 tvl ranking 2026, base-led l2 growth, optimism superchain expansion, arbitrum stagnation, zksync linea scroll mid-tier, rollup ecosystem depth 2026, l2 governance maturity comparison]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [systems, matrix, rollup, l2, arbitrum, optimism, base, zksync, polygon-zkevm, scroll, linea, market-share, tvl, ecosystem, governance]
 status: active
@@ -22,6 +22,10 @@ sources:
   - https://docs.optimism.io/superchain
   - https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart
   - https://docs.base.org/
+  - https://docs.zksync.io/
+  - https://docs.linea.build/
+  - https://docs.polygon.technology/zkEVM/
+  - https://docs.scroll.io/
 ---
 
 # Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
@@ -310,17 +314,19 @@ L2 rollup は 2023-2024 年において依然として「技術路線の争い +
 
 ## Big comparison matrix table
 
-**7 つの主流 L2 rollup × 11 軸対照**(2026-Q2 状態):
+**7 つの L2 / rollup のアーキテクチャ snapshot**。市場シェア、TVL、利用者数、手数料、revenue は live telemetry で測り、この表では固定しない:
 
-| Rollup | TVL May 2026 | Daily Active | Daily Tx | Sequencer Revenue | User Gas | DEX 深度 | 借貸規模 | RWA | 治理成熟度 | エコシステム特色 | DA Layer |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Base (Coinbase)** | **~$18B (L2 首位)** | **3-5M (首位)** | 10-15M | $30-100M ARR | $0.0005-0.005 | Aerodrome $3-5B · Uniswap · Curve | Aave $2-4B · Morpho $500M-1B | Stripe USDC · PayPal PYUSD · Centrifuge | Stage 1 · SC 7/13 · 7d timelock | Consumer-heavy · meme/social/game · Coinbase Smart Wallet | L1 blobs only |
-| **Arbitrum** | ~$13B (第二) | 1-2M | 4-6M | $30-70M ARR | $0.001-0.01 | GMX $1-2B perp · Uniswap · Camelot | Aave $2-3B · Radiant $500M | 相対的に少ない | Stage 1 · DAO+ARB · SC 9/12 · BoLD permissionless | **Stylus (Rust/C++)** · DeFi-heavy · Orbit L3 フレーム | L1 blobs + Orbit が AnyTrust/EigenDA を選択可 |
-| **Optimism + Superchain** | ~$5B 主チェーン · Superchain 総 ~$25B+ | 600k-1M 主チェーン · Superchain 5-8M | 主 2-3M · Superchain 15-25M | $30-60M ARR (分配含む) | $0.001-0.01 | Velodrome 主導 · Uniswap | Aave $1-2B · Sonne | Maker 一部 | Stage 1 · OP DAO + Citizen House · SC + 7d timelock | **OP Superchain 連邦 ~30+ chain** · Worldcoin/Zora/Mode/Soneium | L1 blobs (主) · Mode EigenDA · 一部 Celestia テスト |
-| **zkSync Era** | ~$2.0B (ZK 首位) | 400-700k | 2-3M | $15-30M ARR | $0.001-0.005 · **AA native** | SyncSwap · Maverick | Aave $300-500M | 少ない | Stage 1 · ZK DAO · SC 9/15 · 21d timelock | DeFi + **AA native** · ZK Stack hyperchain(GRVT/Treasure/Cronos) | L1 blobs · hyperchain は EigenDA/Celestia を選択可 |
-| **Linea (Consensys)** | ~$1.2B | 300-500k | 1-2M | $10-25M ARR | $0.002-0.01 | Lynex · Mendi 中等 | Aave $200-400M | MetaMask Institutional pilot | Stage 1 · Consensys 主導 · SC 7/13 · 7d timelock | **MetaMask 統合** · Infura/Truffle ツールチェーン | L1 blobs only (all on-chain スタンス) |
-| **Polygon zkEVM/AggLayer** | ~$800M (AggLayer 含む) | 150-300k 主 · AggLayer 総 500k-1M | 500k-1M | $5-15M ARR | $0.001-0.005 | QuickSwap · Uniswap · Balancer | Aave $100-300M | **Franklin Templeton FOBXX pilot** · 複数 enterprise pilot | Stage 1 · POL DAO · SC 7/13 · 7d timelock | DeFi + enterprise + **Polygon ID** · AggLayer 連邦 | L1 blobs + Validium モード(DAC 7/9) |
-| **Scroll** | ~$700M | 100-200k | 500k-1M | $5-15M ARR | $0.005-0.02 | Aave/Uniswap/Pendle/GMX 主流 | Aave $200-400M | 少ない · ただし L1 DA 純度が一部 institutional を惹きつける | Stage 1 · Scroll Foundation · SC 7/13 · 7d timelock | DeFi-heavy · **Type 2 EVM-equivalent** · 学術血統 (PSE) | L1 blobs only (validium しない明示) |
+| Rollup | Execution / proof family | Settlement / DA | Ordering / upgrade boundary | 公開上の特徴 | 比較時に live 確認する項目 |
+|---|---|---|---|---|---|
+| **Base** | OP Stack optimistic rollup | Ethereum settlement / blob DA | sequencer、fault-proof deployment、upgrade keys は Base / OP docs で確認 | OP Stack と Coinbase developer stack の統合 | TVL、tx、fees、proof status、bridge / contract versions |
+| **Arbitrum One** | Nitro optimistic rollup、BoLD protocol | Ethereum settlement / data posting | sequencer、delayed inbox、validators、upgrade authority | Nitro、Stylus と Orbit ecosystem | TVL、tx、fees、BoLD status、bridge / contract versions |
+| **Optimism Mainnet / Superchain** | OP Stack optimistic rollup | Ethereum settlement / blob DA | sequencer、fault proofs、Superchain governance / upgrade model | OP Stack standards と Superchain components | chain 単体と Superchain aggregate を分離し、interop status を確認 |
+| **zkSync Era** | ZK rollup、EraVM / ZK Stack | Ethereum settlement / DA configuration | sequencer / prover / governance は current docs と contracts で確認 | protocol-level account abstraction と ZK Stack | proof publication、DA mode、bridge、upgrade / emergency powers |
+| **Linea** | EVM-oriented ZK rollup | Ethereum settlement / data posting | sequencer / prover / upgrade roles は current Linea docs で確認 | Ethereum developer tooling との互換性を重視 | proof status、DA、bridge、security council / upgrade controls |
+| **Polygon zkEVM / AggLayer** | ZK rollup と AggLayer / CDK ecosystem は区別して評価 | Ethereum settlement、chain ごとの DA mode | zkEVM chain と AggLayer / CDK の operator / upgrade boundary を分ける | proof aggregation と unified-bridge model | product status、connected chains、proof / bridge version、DA mode |
+| **Scroll** | EVM-compatible ZK rollup | Ethereum settlement / data posting | sequencer / prover / upgrade roles は current Scroll docs で確認 | EVM compatibility と ZK proof pipeline | proof status、DA、bridge、upgrade / emergency controls |
+
+Sources: ^[https://docs.base.org/] ^[https://docs.arbitrum.io/] ^[https://docs.optimism.io/superchain] ^[https://docs.zksync.io/] ^[https://docs.linea.build/] ^[https://docs.polygon.technology/zkEVM/] ^[https://docs.scroll.io/]
 
 **マトリクスの読み方**:
 - **TVL 順位**:Base > Arbitrum > Optimism (主チェーン) > zkSync > Linea > Polygon zkEVM > Scroll · ただし Superchain 全体を Optimism に算入すれば OP Superchain > Base > Arbitrum

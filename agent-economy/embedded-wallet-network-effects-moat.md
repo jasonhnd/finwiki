@@ -3,9 +3,9 @@ title: 埋込ウォレットのネットワーク効果 · ウォレット本体
 aliases: [embedded wallet network effects moat, embedded wallet integrator moat, Privy AgentCore default]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-09-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [agent-economy, embedded-wallet, privy, agentcore, network-effects, mpc, moat]
 sources:
@@ -49,12 +49,14 @@ AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
 
 **従来の決済との類比**:
 
-| 類比 | 埋込ウォレットの対応物 |
-|---|---|
-| Stripe payments | バックエンド化 · インテグレーターはカード組織を理解する必要がない |
-| Plaid bank linking | ユーザー認可 · バックエンド集約 |
-| OAuth 2.0 | wallet = OAuth provider · dApp = OAuth consumer |
-| Twilio SMS | 下層インフラの複雑さを抽象化 |
+| 分析上の類比 | 埋込ウォレットで対応する抽象化 | 類比の限界 |
+|---|---|---|
+| Payment API | chain / signer / transaction details を SDK / API の背後に隠す | カード決済とオンチェーン署名では finality、custody、chargeback が異なる |
+| Account-linking API | ユーザー identity、wallet と application authorization を接続する | 銀行 account linking と key control / asset ownership は同一ではない |
+| OAuth-style authorization | application が user-approved scope で wallet capability を使う | Wallet permission types、revocation、asset risk は OAuth scope より実装依存が大きい |
+| Communications API | chain / provider ごとの差を統一 interface にまとめる | 送信失敗が可逆な message と不可逆な asset transfer は同じ安全モデルではない |
+
+Sources: ^[https://docs.privy.io/] ^[https://docs.cdp.coinbase.com/]
 
 **Privy = "Stripe of Web3 wallets"** が 2024.Q4 以降 a16z / Sequoia の投資ロジックの核 · 2025-2026 に AWS AgentCore によって検証された。
 

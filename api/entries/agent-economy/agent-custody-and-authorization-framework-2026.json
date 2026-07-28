@@ -25,9 +25,9 @@
     "domain": "agent-economy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "agent-economy",
@@ -142,9 +142,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16906,
-    "word_like_tokens": 2638,
+    "nonspace_chars": 17982,
+    "word_like_tokens": 2805,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

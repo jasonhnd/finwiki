@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/financial-reports-2020-index
-source_hash: 7d98ec72afe2de93
+source_hash: 3bc45457c9fd4f8b
 lang: ja
 status: machine
 fidelity: ok
 title: "JapanFG 財務報告 2020+ インデックス"
-translated_at: 2026-06-15T03:48:21.891Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # JapanFG 財務報告 2020+ インデックス
@@ -31,6 +31,9 @@ translated_at: 2026-06-15T03:48:21.891Z
 | boundary | 単一上場主体ではなく、親会社、前身会社、子会社、または日本実体境界の説明が必要 |
 | partial | 公式入口は存在するが、年ごとの PDF 展開が必要、または 2020 ギャップあり |
 | gap | 公開 annual report / disclosure archive が見つからず、会社、格付、規制、または親会社入口のみ掲載可能 |
+
+Sources: ^[Repository-defined editorial status vocabulary for the source matrix below; these labels describe FinWiki review state rather than an external institution claim.]
+
 
 ## Source matrix
 

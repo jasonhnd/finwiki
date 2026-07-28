@@ -3,9 +3,9 @@ title: "整理回収機構 (RCC)"
 aliases: ["RCC", "Resolution and Collection Corporation", "整理回収機構", "株式会社整理回収機構"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, resolution, servicer, policy-finance-adjacent]
 status: active
@@ -36,6 +36,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]] 
 | Formed | 1999-04、住宅金融債権管理機構 + 整理回収銀行 の合併 |
 | Legal/policy basis | 金融再生・預金保険の枠組み下の resolution vehicle (米 RTC をモデルとした株式会社形態) |
 | Core role | Resolution, collection, special servicing |
+
+Sources: ^[FSA bank-license workbook: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; RCC company profile: https://www.kaisyukikou.co.jp/intro/intro_001.html; Deposit Insurance Corporation RCC overview: https://www.dic.go.jp/yokinsha/page_000132.html.]
 
 RCC は「銀行」カテゴリに載るが、retail deposits や corporate lending を競う銀行ではない。預金保険機構の子会社として、破綻処理・債権回収の専用 vehicle である点が境界の本質。
 

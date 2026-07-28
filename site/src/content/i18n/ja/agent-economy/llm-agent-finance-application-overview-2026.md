@@ -1,12 +1,12 @@
 ---
 source: agent-economy/llm-agent-finance-application-overview-2026
-source_hash: cd922ec6aae9774d
+source_hash: d6e55e48e8085a7e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "金融における LLM・AI エージェントの応用 · 2026-05 応用領域の全体像"
-translated_at: 2026-06-26T08:28:53.950Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 # 金融における LLM・AI エージェントの応用 · 2026-05 応用領域の全体像
 
@@ -20,15 +20,18 @@ translated_at: 2026-06-26T08:28:53.950Z
 
 2026-05 7 つのカテゴリにわたる成熟度マップ。**PROD** = 少なくとも 1 社の G-SIB / AUM 上位 10の事業者が実際の顧客 / 規制トラフィックで稼働、**PILOT** = コンソーシアムまたは単独企業による公開開示を伴う規制下のパイロット、**RESEARCH** = 論文公表済みだが本番トラフィックのないパイロット前のプロトタイプ。
 
-| カテゴリ | 成熟度 2026-05 | 主要事業者(公開) | 規制当局スタンス |
+| Category | 公開上観測できる use class | Maturity claim に必要な最低 evidence | Core control questions |
 |---|---|---|---|
-| **(a) 顧客向けチャットボット**(銀行 / 保険 / ウェルス) | **PROD** | Morgan Stanley AI @ MS、BBVA + OpenAI、ING + Anthropic、みずほ / SMBC / MUFG 社内 | 開示を条件に許容;FCA AI 原則;FSA AI ガイドラインは既存の消費者保護ルールを通じて適用 |
-| **(b) バックオフィス自動化**(KYC / AML / コンプライアンス審査) | **PROD** | JPM SpectrumGPT、HSBC AI コンプライアンス、Citi コンプライアンスコパイロット、野村 ops AI | 監査証跡を条件に許容;FINRA / FATF は最終判断での HITL を推奨 |
-| **(c) 取引・執行**(NLU シグナル / エージェント駆動ヘッジ) | **PILOT** | Goldman Marquee + Marquee AI、JPM IndexGPT、BlackRock Aladdin Copilot、Renaissance / Two Sigma の研究 | 厳しく制約;[[agent-economy/ai-driven-trading-regulation-japan-2026|AI-driven trading regulation Japan 2026]] を参照 |
-| **(d) 与信審査**(LLM 拡張) | **PILOT** | Upstart、Pagaya、Klarna AI 審査、Affirm AI アシスト、楽天カード AI | CFPB / 日本 FSA / EBA は説明可能性を要求;不利な判断への完全自動化は認められない |
-| **(e) 不正検知** | **PROD** | Visa AI 不正(Visa Risk Manager + AI)、Mastercard Decision Intelligence、LLM 拡張を伴う Stripe Radar、JP カードネットワーク(JCB / Suica) | リスクスコアリングとして許容;最終アクションは決定論的ルールまたは人間が必要 |
-| **(f) アドバイザリー**(ロボアドバイザーの進化) | **PILOT** | WealthNavi AI アシスタントパイロット、Schwab Intelligent Portfolios + AI、Vanguard Personal Advisor + AI、みずほ M-AI Insight | 適合性にはフィデューシャリーが必要;SEC Reg BI + 日本 FIEA 適合性ルールが制約 |
-| **(g) 開発者向けツール** | **PROD** | BBVA / みずほ / Goldman のツールにおける Anthropic Claude Code、JPM / Citi における GitHub Copilot、Bloomberg 社内 AI 開発ツール | おおむね非規制;金融サービス AI ルールからの社内利用カーブアウト |
+| **(a) Customer-facing chat / assistance** | retrieval、drafting、service triage、staff-assisted response | named institution、dated first-party disclosure、affected users、production / pilot label、human-handoff design | disclosure、hallucination handling、authentication、complaint / escalation、record retention |
+| **(b) Back-office automation** | document extraction、KYC / AML support、compliance search、workflow drafting | deployed workflow、decision boundary、data source、reviewer role、measured error / override data | access control、data lineage、model validation、reviewer independence、audit trail |
+| **(c) Trading / execution support** | research summarization、event extraction、signal generation、execution support | order lifecycle における exact role、venue / asset scope、pre-trade limit、production evidence | market-abuse control、latency、kill switch、model / code change control、replay |
+| **(d) Credit / underwriting support** | document analysis、feature generation、decision support、explanation drafting | AI が approval / pricing に影響するか、validation result、adverse-action process、applicable law | bias / fairness、explainability、data quality、override、appeal |
+| **(e) Fraud / financial-crime detection** | risk scoring、alert triage、anomaly detection、investigation support | production scope、false-positive / false-negative evaluation、customer-impact boundary、review process | drift、feedback loop、appeal、watchlist / data quality、model governance |
+| **(f) Advice / suitability support** | research、portfolio explanation、adviser copilot、recommendation drafting | licensed-entity disclosure、final decision maker、suitability / fiduciary control、monitored outcome | conflict、suitability、disclosure、human approval、communication record |
+| **(g) Developer tooling** | code completion、testing、review、documentation、operations support | named tool、approved repository / data class、security review、production SDLC boundary | secrets / code leakage、dependency risk、review gate、testing、change management |
+
+Sources: ^[https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/] ^[https://www.bis.org/publ/work1194.htm] ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html]
+
 
 **マップの読み方**: PROD と PILOT の間のギャップは、AI のアウトプットが **顧客向けの金融判断**(PILOT)なのか、それとも **有資格者がレビューするサポート / ドラフト / トリアージのアウトプット**(PROD)なのか、という点とほぼ完全に相関する。規制当局は金融における AI を阻止したのではない — 人間のサインオフなしに AI が顧客に影響を与える**最終**判断を下すことを阻止したのである。
 
@@ -88,15 +91,18 @@ translated_at: 2026-06-26T08:28:53.950Z
 
 ## ベンダーランドスケープ · 2026-05 カテゴリ別リーダー
 
-| カテゴリ | Anthropic | OpenAI | Google | Bloomberg | 国内 JP | ドメイン専門 |
-|---|---|---|---|---|---|---|
-| 顧客チャットボット | BBVA、ING、みずほ | Morgan Stanley、BofA パイロット | Citi パイロット | — | NEC cotomi、NTT tsuzumi | — |
-| バックオフィス / コンプライアンス | HSBC パイロット、みずほ | JPM SpectrumGPT、Citi | — | Bloomberg Terminal AI | — | NICE Actimize、Quantexa |
-| 取引シグナル | Goldman Marquee 隣接 | JPM IndexGPT、アドホック HF | — | BloombergGPT、Bloomberg AI | — | Kensho(S&P)、AlphaSense |
-| 与信審査 | — | Upstart、Pagaya 部分的 | — | — | 楽天カードパイロット | Zest AI、FICO + Datarobot |
-| 不正 | — | Stripe Radar | — | — | JCB、Visa Japan | Featurespace、Sardine、Unit21 |
-| アドバイザリー | WealthNavi パイロット | Vanguard パイロット | Schwab パイロット | — | M-AI Insight | Addepar、Orion AI |
-| 開発者向けツール | BBVA、みずほ、Goldman、MS | JPM、Citi、BofA | 軽微 | Bloomberg 社内 | みずほ社内 | Tabnine、Cursor(Anthropic 出資) |
+| Category | General model API role | Financial-data / domain-system role | In-house layer | 「leader」と名付ける前に必要な evidence |
+|---|---|---|---|---|
+| Customer chat | language generation、classification、tool use | authenticated customer / product knowledge と policy retrieval | conversation policy、escalation、channel integration | production scope、active users、quality / complaint data、first-party disclosure |
+| Back-office / compliance | extraction、summarization、agent workflow | KYC / AML data、case system、policy corpus | access、reviewer workflow、audit logging | measured throughput / error change と decision boundary |
+| Trading signal | text / event interpretation、research tooling | licensed market data、analytics、order / risk system | strategy code、pre-trade control、surveillance | live-vs-research status、asset / venue scope、monitored outcome |
+| Credit underwriting | document / feature assistance、explanation support | bureau / cash-flow / application data、decision engine | policy、validation、adverse action、appeal | approval / pricing role、fairness / performance validation、legal review |
+| Fraud | anomaly explanation、entity resolution、alert support | network / transaction data、case management | deterministic control、investigation、feedback | false-positive / loss metrics、production scope、customer-action boundary |
+| Advisory | research synthesis、communication drafting | portfolio、risk、suitability、product data | licensed adviser workflow、conflict control | client-facing scope、adviser approval、suitability monitoring |
+| Developer tooling | code generation、review、test | internal repository、package / vulnerability system | SDLC、CI、secrets、release control | approved use、adoption metric、defect / security outcome、source disclosure |
+
+Sources: ^[https://docs.anthropic.com/] ^[https://platform.openai.com/docs/models] ^[https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models] ^[https://www.bloomberg.com/professional/products/ai/]
+
 
 ## エージェント決済スタックとの構成本エントリは**応用領域**をマッピングするものである;これらのアプリケーションが自律的に行動する際の基盤となる**トランザクションインフラ**は、agent-economy のプロトコルスタックでカバーされる。その構成:
 
@@ -112,17 +118,20 @@ translated_at: 2026-06-26T08:28:53.950Z
 
 ## 規制当局スタンスのまとめ · 2026-05
 
-| 規制当局 | スタンス | 主要参照 |
-|---|---|---|
-| **FSB**(グローバル) | 慎重;G-SIB 全体での集中的な AI モデル利用による systemic risk を監視 | FSB AI/ML 2024 レポート |
-| **BIS**(グローバル) | 複数のワーキングペーパー;ガバナンス / 説明可能性 / モデルリスク管理を重視 | BIS WP 1194 (2024) 中央銀行における AI |
-| **IMF**(グローバル) | Fintech Notes シリーズ;消費者保護 + 金融安定を重視 | IMF Fintech Notes 2024-2025 |
-| **米 SEC** | 予測データ分析ルールの方向性;SAB 122 フレームワーク;AI 利益相反ルール | SEC スピーチ 2024-2026 |
-| **米連邦準備制度** | SR 11-7 のモデルリスク管理を AI に適用;ガバナンスを重視 | Fed Financial Stability Report |
-| **英 FCA** | AI in financial services ディスカッションペーパー(2024)+ 2026 コンサルテーションの流れ | FCA 公表資料 |
-| **EU ESMA / EBA** | 信用 + 保険 + KYC に対する AI Act の高リスク分類;既存の MIFID-II / CRD-VI ルールが適用 | EUR-Lex 2024/1689 |
-| **日本 FSA** | AI 原則 2021 (2024更新);既存の FIEA / 銀行法の適合性ルールは不変 | FSA ニュース 2024 |
-| **シンガポール MAS** | FEAT 原則(公正性、倫理、説明責任、透明性);MAS AI Veritas | MAS 公表資料 |
+| Authority / source | 確認済みの公開 material | 確認できる focus | 過大解釈してはいけないもの |
+|---|---|---|---|
+| **FSB** | financial-stability implications of AI に関する 2024 report | third-party dependency、market correlation、cyber / model risk、information gap | binding firm-level AI rule |
+| **BIS** | AI in finance / central banking に関する working paper と research | use case、governance、economics、supervisory question | private firm に対して発行された regulation |
+| **IMF** | Fintech Notes と policy research | macro-financial、consumer-protection、capacity consideration | directly enforceable な national law |
+| **US Federal Reserve** | SR 11-7 と financial-stability publication | applicable scope に応じた model-risk governance と system-wide vulnerability | 全 LLM use が自動的に SR 11-7 model だという statement |
+| **US SEC** | speech / roundtable と June 2025 の predictive-data-analytics proposal withdrawal | existing securities duty、conflict、disclosure、oversight question | current final predictive-data-analytics rule |
+| **UK FCA** | AI / financial-services publication と innovation work | safe adoption、accountability、existing regulatory outcome | 特定 model の blanket approval / prohibition |
+| **European Union** | Regulation (EU) 2024/1689 と sectoral financial law | role / use-case-specific AI Act duty と existing financial obligation | finance LLM がすべて自動的に high-risk となる rule |
+| **Japan FSA** | AI Discussion Paper v1.1 と AI 官民フォーラム | use case、governance、risk、regulatory-clarity dialogue | final AI-specific trading / banking rule。paper は preliminary analysis と明記 |
+| **Singapore MAS** | public AI / data-governance、FEAT / Veritas、consultation material | fairness、ethics、accountability、transparency、sectoral supervision | universal certification / safe harbor |
+
+Sources: ^[https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/] ^[https://www.bis.org/publ/work1194.htm] ^[https://www.imf.org/en/Publications/fintech-notes] ^[https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm] ^[https://www.sec.gov/rules-regulations/2025/06/s7-12-23] ^[https://www.fca.org.uk/publications] ^[https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689] ^[https://www.fsa.go.jp/en/news/2025/20250304/aidp.html] ^[https://www.mas.gov.sg/news]
+
 
 法域横断的な収斂: **いかなる法域も AI エージェントの人格性を付与していない**;**すべての主要法域がデプロイヤーのアカウンタビリティを維持している**;**EU AI Act が事前(ex-ante)規制の最高水準を設定している**;**米 / 英 / JP / SG は、既存の金融サービスルールが大半の比重を担う原則ベースの監督に傾いている**。
 

@@ -3,9 +3,9 @@ title: EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusa
 aliases: [eip-4844 blob 2026, blob economics 2026, dencun pectra fusaka blob, rollup cost reduction post-dencun, blob fee market mechanics, l2 sequencer margin recovery, blob target increase pectra, peerdas fusaka, blob market alt-da competition]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: certain
 tags: [systems, ethereum, eip-4844, blob, dencun, pectra, fusaka, l2, rollup, sequencer, blob-fee, peerdas, da]
 status: active
@@ -90,13 +90,15 @@ L2 sequencer が L1 に batch を提出する典型フロー:
 
 ### calldata との比較
 
-| 次元 | Calldata(Dencun 前 / 依然オプション)| Blob(EIP-4844)|
+| 次元 | Calldata | Blob (EIP-4844) |
 |---|---|---|
-| 価格 | gas_per_byte × gas_base_fee(高)| blob_base_fee × 131072 × blob 数 / blob bytes(低 ~100x)|
-| 保存期間 | 永久(state)| ~18 日(P2P prune)+ commitment 永久 |
-| EVM アクセス可能 | はい(CALLDATALOAD 等 opcode 経由) | いいえ(KZG point evaluation precompile 経由のみ)|
-| 適用シナリオ | 状態アクセス · オンチェーンデータ消費 | rollup data availability · 短期再構築可能 |
-| Fee market | user gas と共有 · 混雑伝染 | 独立 base fee · 混雑不伝染 |
+| 料金市場 | execution gas の fee market を使う | blob gas の独立 fee market を使う |
+| データ保持 | transaction / block data の一部として履歴に含まれる。contract state そのものではない | consensus client が一時的に保持し、versioned hash / commitment は block に残る |
+| EVM からの参照 | 実行中の transaction input として contract が読み取れる | blob 本文は EVM から直接読めず、`BLOBHASH` と point-evaluation precompile で commitment を扱う |
+| 主な用途 | contract が実行時に読む入力、または履歴データ | rollup の data availability |
+| 容量 / 単価の読み方 | execution gas demand に依存 | blob target / maximum と blob base fee に依存し、固定倍率ではない |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4844] ^[https://ethereum.org/en/roadmap/danksharding/]
 
 ### Dencun ローンチ初期(2024-03 - 2024-Q2)
 
@@ -219,15 +221,16 @@ L2 sequencer が L1 に batch を提出する典型フロー:
 
 ### Pectra EIP-7691 前 vs 後
 
-| 状態 | Pre-Pectra (Dencun) | Post-Pectra (2025-Q2+) |
+| プロトコル項目 | Dencun 時点 | EIP-7691 適用後 |
 |---|---|---|
 | Blob target | 3 / block | 6 / block |
-| Blob max | 6 / block | 9 / block |
-| Max throughput | ~0.75 MB / 12s ≈ 5.4 GB/day | ~1.1 MB / 12s ≈ 8 GB/day |
-| 平均 blob fee | 5-50 gwei (変動)| 1-5 gwei (大半時間) |
-| L2 sequencer cost | $20-100 / batch (変動) | $5-30 / batch (安定) |
-| L2 ユーザー gas | $0.001-0.05 (high vol 時 spike) | $0.0005-0.02 (Pectra 後さらに 30-50% 下落) |
-| Alt-DA 価格優位 | ~5-10x | ~3-5x |
+| Blob maximum | 6 / block | 9 / block |
+| Blob size | 変更なし | 変更なし |
+| Fee update fraction | EIP-4844 の初期値 | target 増加に合わせて EIP-7691 が更新 |
+| 直接言える効果 | 初期 blob capacity | target と maximum の増加 |
+| 直接は導けない項目 | USD 建て batch cost、ユーザー gas、alt-DA との価格差 | demand と ETH 価格を観測せず固定値を置かない |
+
+Sources: ^[https://eips.ethereum.org/EIPS/eip-4844] ^[https://eips.ethereum.org/EIPS/eip-7691]
 
 ### Fusaka PeerDAS 予想(2026-Q4 計画)
 

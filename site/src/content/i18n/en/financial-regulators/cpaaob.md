@@ -1,11 +1,11 @@
 ---
 source: financial-regulators/cpaaob
-source_hash: 1d64284f111ebfdd
+source_hash: 8bd04bc1a4c6f6e9
 lang: en
 status: machine
 fidelity: ok
 title: "Certified Public Accountants and Auditing Oversight Board (CPAAOB / 公認会計士・監査審査会)"
-translated_at: 2026-06-18T23:59:13.088Z
+translated_at: 2026-07-28T22:03:26.809Z
 ---
 
 # Certified Public Accountants and Auditing Oversight Board (CPAAOB / 公認会計士・監査審査会)
@@ -59,6 +59,9 @@ In the flow of CPAAOB inspection / recommendation → the FSA Commissioner's dis
 | Ethics / self-regulation | Supervision | **Discipline (self-regulation)** |
 | Inspection | **Holds the authority** | Disciplinary investigation |
 | International cooperation | **IFIAR** | **IFAC** |
+
+Sources: ^[公認会計士・監査審査会 公式サイト: https://www.fsa.go.jp/cpaaob/; CPAAOB 検査・モニタリング: https://www.fsa.go.jp/cpaaob/kensa/index.html; 日本公認会計士協会: https://jicpa.or.jp/.]
+
 
 ## 5. Position in governance
 
