@@ -9,6 +9,7 @@
 - 下記の staging record を除く既存 `releases/v*.md` は、同名の Git tag と GitHub Release に一対一で対応します。
 - `v2026.05.29` は GitHub Release body から repository note を復元し、tag / Release は変更していません。
 - `v2026.07.28-9` は、2026-07-28 の `pre → main` catch-up promotion と同じ main merge commit を target にする統合 release です。
+- `v2026.07.29` は、Issue #195 の entry-discovery build graph と cache invalidation 修復を公開する release です。
 
 ### 個別には公開しない staging record
 
@@ -32,6 +33,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - Every existing `releases/v*.md` except the staging records listed below maps one-to-one to a same-named Git tag and GitHub Release.
 - The repository note for `v2026.05.29` was restored from the existing GitHub Release body; its tag and Release were not changed.
 - `v2026.07.28-9` is the consolidated Release targeting the same main merge commit as the 2026-07-28 `pre → main` catch-up promotion.
+- `v2026.07.29` publishes the entry-discovery build graph and cache-invalidation repair from Issue #195.
 
 ### Staging records not published individually
 
@@ -55,6 +57,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - 除下列 staging record 外，既有 `releases/v*.md` 都与同名 Git tag、GitHub Release 一一对应。
 - `v2026.05.29` 的仓库 note 已从现有 GitHub Release body 恢复；没有修改其 tag 或 Release。
 - `v2026.07.28-9` 是 2026-07-28 `pre → main` catch-up promotion 的整合 Release，target 与该 main merge commit 相同。
+- `v2026.07.29` 发布 Issue #195 的 entry-discovery build graph 与 cache invalidation 修复。
 
 ### 不单独发布的 staging record
 
