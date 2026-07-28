@@ -24,6 +24,7 @@ git diff --check
 | Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
+| Static publish assembly change | `bun run publish:test`, a real site build/assembly into `_site`, and positive/negative inspection for allowed raw files, development files, hidden files, unmanifested files and unsafe `--out` values. |
 | Factual consistency audit change | `bun tools/factual_consistency_audit.ts`, `bun tools/factual_consistency_audit.ts --json`, and a temporary seeded duplicate-entity conflict with `--fail-on-conflicts` before removing the fixture. |
 | Provenance completeness audit change | `bun tools/provenance_completeness_audit.ts`, `bun tools/provenance_completeness_audit.ts --json`, and a temporary low-score claim block fixture with explicit `--fail-under` before removing the fixture. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
@@ -38,3 +39,4 @@ git diff --check
 - Generated diff is intentional.
 - No `docs/` page/source/API entry or crawlable markdown link leaks into public content surfaces.
 - No stale moved-domain API JSON remains after release write.
+- Assembled output contains no developer, hidden/ignored source, unmanifested or unknown-root files beyond the generated `.nojekyll` marker, and unsafe output paths cannot reach recursive cleanup.
