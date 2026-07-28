@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-28T15:28:55+09:00",
+  "generated_at": "2026-07-28T20:47:48+09:00",
   "counts": {
-    "markdown_files": 1579,
-    "public_markdown_pages": 1578,
+    "markdown_files": 1585,
+    "public_markdown_pages": 1584,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10623465,
-    "word_like_tokens": 1704937,
+    "nonspace_utf8_chars": 10698893,
+    "word_like_tokens": 1718695,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2667,15 +2667,15 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-27 - AI discovery route and deployed-URL repair (#179)"
+        "2026-07-28 - Scheduled truthfulness history and aggregation repair (#191)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 64692,
-      "word_like_tokens": 11733,
+      "nonspace_chars": 108157,
+      "word_like_tokens": 19632,
       "last_modified": "2026-07-28"
     },
     {
@@ -3067,9 +3067,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13205,
-      "word_like_tokens": 1966,
-      "last_modified": "2026-07-15"
+      "nonspace_chars": 13248,
+      "word_like_tokens": 1974,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "JapanFG/INDEX.md",
@@ -3233,8 +3233,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8207,
-      "word_like_tokens": 1414,
+      "nonspace_chars": 10641,
+      "word_like_tokens": 1856,
       "last_modified": "2026-07-28"
     },
     {
@@ -22857,7 +22857,7 @@
       "entity_edges": [],
       "nonspace_chars": 20800,
       "word_like_tokens": 3551,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/global-dex-major-five-comparison.md",
@@ -24346,7 +24346,7 @@
       "entity_edges": [],
       "nonspace_chars": 2940,
       "word_like_tokens": 434,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/jp-crypto-exchange-overview.md",
@@ -27817,14 +27817,13 @@
         "https://ja.wikipedia.org/wiki/Binance_Japan",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-        "https://www.fsa.go.jp/ordinary/chuui/",
-        "wiki/exchanges/jp-exchange-binance-japan.md"
+        "https://www.fsa.go.jp/ordinary/chuui/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5867,
-      "word_like_tokens": 950,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5860,
+      "word_like_tokens": 948,
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bitcastle.md",
@@ -36602,7 +36601,7 @@
       "entity_edges": [],
       "nonspace_chars": 6078,
       "word_like_tokens": 801,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "financial-regulators/pwc-aarata.md",
@@ -83134,7 +83133,7 @@
       "entity_edges": [],
       "nonspace_chars": 5183,
       "word_like_tokens": 805,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "regional-banks/nishi-nippon-city-bank.md",
@@ -88818,6 +88817,171 @@
       "last_modified": "2026-07-27"
     },
     {
+      "source_path": "releases/v2026.07.28-1.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-1.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-1.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-1.md",
+      "title": "最終組立済み文書の全リンク監査と十九件の壊れた経路修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "最終組立済み文書の全リンク監査と十九件の壊れた経路修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 3862,
+      "word_like_tokens": 769,
+      "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-2.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-2.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-2.md",
+      "title": "項目ページの機械可読メタデータ修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "項目ページの機械可読メタデータ修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 5449,
+      "word_like_tokens": 982,
+      "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-3.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-3.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-3.md",
+      "title": "レビュー期限の日本標準時日付判定修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "レビュー期限の日本標準時日付判定修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 3426,
+      "word_like_tokens": 652,
+      "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-4.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-4.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-4.md",
+      "title": "活用中の開発文書とリポジトリ情報の修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "活用中の開発文書とリポジトリ情報の修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 5662,
+      "word_like_tokens": 1027,
+      "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28-5.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28-5.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28-5.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28-5.md",
+      "title": "定期監査の履歴比較と集計精度の修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "定期監査の履歴比較と集計精度の修復",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 7013,
+      "word_like_tokens": 1266,
+      "last_modified": "2026-07-28"
+    },
+    {
       "source_path": "releases/v2026.07.28-6.md",
       "url": "https://finwiki.zksc.io/releases/v2026.07.28-6.md",
       "html_url": null,
@@ -88848,6 +89012,39 @@
       "entity_edges": [],
       "nonspace_chars": 4626,
       "word_like_tokens": 802,
+      "last_modified": "2026-07-28"
+    },
+    {
+      "source_path": "releases/v2026.07.28.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.28.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.28.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.28.md",
+      "title": "翻訳保護と公開隔離の強化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "翻訳保護と公開隔離の強化",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 4094,
+      "word_like_tokens": 717,
       "last_modified": "2026-07-28"
     },
     {
@@ -99069,7 +99266,7 @@
       "entity_edges": [],
       "nonspace_chars": 21416,
       "word_like_tokens": 3477,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "systems/cross-chain-five-pole-comparison-matrix.md",
@@ -101049,7 +101246,7 @@
       "entity_edges": [],
       "nonspace_chars": 20703,
       "word_like_tokens": 3466,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-07-28"
     },
     {
       "source_path": "systems/rollup-market-share-2026-arbitrum-optimism-base.md",
@@ -105831,9 +106028,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3390,
-      "word_like_tokens": 628,
-      "last_modified": "2026-07-27"
+      "nonspace_chars": 3377,
+      "word_like_tokens": 626,
+      "last_modified": "2026-07-28"
     }
   ]
 }

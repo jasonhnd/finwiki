@@ -4,13 +4,14 @@
 
 ## tools/verify.ts（统一必需门禁）
 
-`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / generated-surface exact regeneration / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / generated-route / diff gates。任何一步 non-zero 都立即阻断。
+`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / generated-surface exact regeneration / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / final-HTML-href / generated-route / diff gates。任何一步 non-zero 都立即阻断。
 
 - default output：`_vercel_public`
 - Pages parity：`bun run verify --out _site`
 - focused route check：`bun tools/required_publish_routes.ts --out _site`
+- final HTML href check：`bun run html:routes --out _site`（必须在 build、Pagefind、assembly 后运行）
 - generated route check：`bun run ai:audit --out _site`（必须在 assembly 后运行）
-- full internal HTML href crawl：Issue #183，不能用 required-route smoke check 替代
+- required-route smoke、full internal HTML href crawl、generated-route audit 是互补 gate，不能互相替代
 
 ## lib/markdown_helpers.ts（共享层）
 
@@ -67,14 +68,16 @@
 - `bun run surface:drift`：在 temporary directory 用已提交的两个 `generated_at` 精确重生成；`compare_ai_discovery_outputs.ts` byte-compare 六个固定 target、完整 API JSON file set 与每个 per-entry JSON 内容（含 `metrics.last_modified`）。PASS signal：`fixed-timestamp regeneration is byte-identical (including last_modified)`。
 - `bun test tools/discovery_routes.test.ts`：覆盖 URL helper contract、assembled-route positive/negative fixture、absolute-HTTP external-link filter、same-host wrong-origin、hook-like inherited `GIT_*` context 下的 shallow committed-date fallback、per-entry `last_modified` mismatch。
 - `bun run ai:audit --out _site`：只读取 assembled copies；检查 route-bearing fields 与 API `external_links` 中的 same-host URL。hostname 相同但 scheme/port 不同会因 exact origin mismatch 失败；`ai-index.json` source-preserving `markdown_links` 与 external origins 不做 deploy availability claim。PASS signal：`Generated route audit passed: ... resolve in the assembled artifact.`。
+- `bun run html:routes --out _site`：扫描 final assembled tree 的全部 HTML `[href]`，以 source page public URL 解析相对链接；same-origin target 去除 query / fragment 后必须是 exact-case、non-empty、non-symlink regular file。failure 会报告 source file、tag、原始 href、resolved URL 与 reason。PASS signal：`final HTML route audit: PASS`。
 - `bun run verify --out _site`：先跑 exact regeneration，后 build/assemble，再跑 route audit；最终 PASS signal 是 `FinWiki required verification: PASS`。
 
 ## tools/audit_runner.ts（advisory truthfulness audit）
 
 - `bun run audit:all --as-of YYYY-MM-DD` 默认写到 OS temporary directory。
+- `--history-dir <DIR>` 会递归读取 prior `summary.json`，只把 `as_of` 与 freshness actionable count 带入 bounded three-cycle trend；连续两个 cycle 增长时 advisory threshold 才会 trip。
 - repository 内显式 output 只允许 `audit-artifacts/` 或其子目录；real path 若落入其他 repository 位置会 fail。
 - summary 只写 audit counts / thresholds / never-actions，不记录 repository root 或 artifact absolute path。
-- `audit-artifacts/` 同时进入 gitignore、shared Markdown exclusion 与 wiki-link exclusion；CI 使用 `$RUNNER_TEMP`，publish assembler 对同名 Astro output 直接 fail。
+- `audit-artifacts/` 同时进入 gitignore、shared Markdown exclusion 与 wiki-link exclusion；CI 用 read-only Actions permission 下载前两个成功 scheduled artifacts，并在 `$RUNNER_TEMP` 中读写；publish assembler 对同名 Astro output 直接 fail。
 
 ## tools/update_footer_timestamp.ts
 

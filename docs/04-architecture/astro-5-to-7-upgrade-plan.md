@@ -1,8 +1,8 @@
-# Astro 5 to 7 Upgrade Migration Plan
+# Astro 5 to 7 Upgrade Migration Record
 
-Status: planning document for issue #148. Do not implement the upgrade in this issue.
+Status: historical implementation record. Issue #148 produced the plan, Issue #150 delivered the Astro 7 upgrade, and later Satteri migration issues superseded the unified-pipeline fallback described below. Do not use this document as a current dependency or implementation task.
 
-Target: upgrade the FinWiki Astro site from the current locked Astro 5.18.2 setup to Astro 7.0.5, crossing Astro 6 and Astro 7. The later implementation PR must target `pre`, not `main`, and must wait for review and merge.
+Historical target: upgrade the FinWiki Astro site from the then-locked Astro 5.18.2 setup to Astro 7.0.5, crossing Astro 6 and Astro 7. The following sections preserve the reviewed migration reasoning and validation contract as dated evidence.
 
 ## Research Inputs
 

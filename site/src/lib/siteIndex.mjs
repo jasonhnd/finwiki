@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import path from 'node:path';
+import { isPublishableTranslationText } from './translations.ts';
 
 const SITE_ROOT = process.cwd();
 const REPO_ROOT = path.resolve(SITE_ROOT, '..');
@@ -285,7 +286,9 @@ function buildLocalizedTitles(lang) {
   for (const rel of walk(root)) {
     const target = routePath(rel);
     try {
-      const title = parseTitle(readFileSync(path.join(root, rel), 'utf8'));
+      const text = readFileSync(path.join(root, rel), 'utf8');
+      if (!isPublishableTranslationText(text)) continue;
+      const title = parseTitle(text);
       if (title) titles.set(target, title);
     } catch {
       // Best-effort title lookup. The main content build reports hard failures.
