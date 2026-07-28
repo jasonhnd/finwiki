@@ -7,6 +7,7 @@ import {
   isPublicPage,
   iterMarkdownFiles,
   readTextUtf8,
+  stripFrontmatter,
   stripInlineMarkdown,
   type Entry,
 } from "../lib/markdown_helpers";
@@ -22,6 +23,8 @@ type ReasonCode =
   | "candidate_status"
   | "empty_sources"
   | "event_keyword"
+  | "volatile_topic_keyword"
+  | "case_study_keyword"
   | "registry_or_statistics_keyword";
 
 type CliOptions = {
@@ -96,8 +99,11 @@ const MEDIUM_PLUS_DOMAINS = new Set([
   "trust-banks",
 ]);
 
-const EVENT_RE =
-  /\b(?:case|TOB|MBO|IPO|spinoff|spin-off|bankruptcy|closure|revocation|deadline|enforcement|migration|announced|completed|cancelled|canceled)\b|買収|合併|上場|廃止|取消|処分|期限/i;
+const EVENT_STATE_METADATA_RE =
+  /\b(?:deadline|announced|pending|completed|cancelled|canceled|closure|revocation|enforcement action|effective date|launch date)\b|発表|予定|完了|中止|廃止|取消|処分|期限|施行日/i;
+const VOLATILE_TOPIC_METADATA_RE =
+  /\b(?:TOB|MBO|IPO|spinoff|spin-off|bankruptcy|migration|merger|acquisition|takeover|tender offer|incident)\b|\bm[&-]a\b|買収|合併|上場|破産|移行/i;
+const CASE_STUDY_METADATA_RE = /\bcase(?: study)?\b|ケース|事例/i;
 const REGISTRY_OR_STATS_RE =
   /\b(?:market share|registry|statistics|ranking|rankings|snapshot|implementation|status|licen[cs]ing|registration|register|operator list|member list|AUM|solvency|branch count|employee count)\b|登録|免許|許可|統計|一覧|市場シェア|会員|資産残高|店舗|従業員/i;
 
@@ -214,19 +220,32 @@ function inferFreshnessClass(doc: SourceDoc): { value: FreshnessClass; keywordRe
   const confidence = asString(fm.confidence).toLowerCase();
   const tags = asStringList(fm.tags).join(" ");
   const title = asString(fm.title) || doc.entry.title;
-  const haystack = stripInlineMarkdown(`${doc.entry.source_path} ${title} ${tags} ${doc.text.slice(0, 4000)}`).normalize("NFKC");
+  const routeTitleHaystack = stripInlineMarkdown(`${doc.entry.source_path} ${title}`).normalize("NFKC");
+  const metadataHaystack = stripInlineMarkdown(`${doc.entry.source_path} ${title} ${tags}`).normalize("NFKC");
+  const bodyLead = stripFrontmatter(doc.text).slice(0, 4000);
+  const contextualHaystack = stripInlineMarkdown(`${metadataHaystack} ${bodyLead}`).normalize("NFKC");
   const keywordReasons: ReasonCode[] = [];
   let value: FreshnessClass = MEDIUM_PLUS_DOMAINS.has(doc.entry.domain) ? "medium" : "low";
 
   if (status === "candidate" || confidence === "possible" || confidence === "unlikely") {
     value = "high";
   }
-  if (EVENT_RE.test(haystack)) {
+  if (EVENT_STATE_METADATA_RE.test(routeTitleHaystack)) {
     value = "event";
     keywordReasons.push("event_keyword");
-  } else if (REGISTRY_OR_STATS_RE.test(haystack)) {
-    if (value === "low" || value === "medium") value = "high";
-    keywordReasons.push("registry_or_statistics_keyword");
+  } else {
+    if (VOLATILE_TOPIC_METADATA_RE.test(metadataHaystack)) {
+      if (value === "low" || value === "medium") value = "high";
+      keywordReasons.push("volatile_topic_keyword");
+    }
+    if (CASE_STUDY_METADATA_RE.test(metadataHaystack)) {
+      if (value === "low" || value === "medium") value = "high";
+      keywordReasons.push("case_study_keyword");
+    }
+    if (REGISTRY_OR_STATS_RE.test(contextualHaystack)) {
+      if (value === "low" || value === "medium") value = "high";
+      keywordReasons.push("registry_or_statistics_keyword");
+    }
   }
   return { value, keywordReasons };
 }
@@ -282,7 +301,9 @@ function rowForDoc(doc: SourceDoc, asOf: Date): ReportRow | null {
     if (!reasons.includes(reason)) reasons.push(reason);
   }
 
-  const actionableReasons = reasons.filter((reason) => reason !== "event_keyword" && reason !== "registry_or_statistics_keyword");
+  const actionableReasons = reasons.filter((reason) =>
+    !["event_keyword", "volatile_topic_keyword", "case_study_keyword", "registry_or_statistics_keyword"].includes(reason),
+  );
   if (actionableReasons.length === 0) return null;
 
   const daysSinceTended = lastTended ? daysBetween(asOf, lastTended) : null;
