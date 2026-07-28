@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-securities
-source_hash: 4a57c727faf83adf
+source_hash: 1b3a7de1a05571c9
 lang: ja
 status: machine
 fidelity: ok
 title: "岩井コスモ証券 (IwaiCosmo Securities)"
-translated_at: 2026-06-02T14:25:12.415Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 岩井コスモ証券 (IwaiCosmo Securities)
@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 ## 要約
 
-岩井コスモ証券株式会社は **大阪本店の中堅独立系証券会社**、東証 PRIME 上場 [[securities-firms/iwai-cosmo-hd|岩井コスモホールディングス (8707)]] の中核 100% 子会社。1917 年（大正 6 年）大阪で岩井証券として創業、**2010-04 に旧 岩井証券と旧 コスモ証券が経営統合**して現商号に。**金融商品取引業者 近畿財務局長(金商)第15号**（FIEA 類型 1 第一種金融商品取引業）。本店 大阪市中央区今橋、資本金 135 億円、全国 28 営業店 + 2 コールセンター + 2 ネットサポートセンター展開。**関西基盤の対面リテール中心の中堅独立証券**として、米国株 / 中華圏株などの海外仲介、IPO 引受、コンサルティング型営業を展開。競合は [[securities-firms/aizawa-sg|藍澤証券グループ]]・[[securities-firms/okasan-sg|岡三証券グループ]]・[[securities-firms/tokai-tokyo-fh|東海東京FH]]・[[securities-firms/matsui-sec|松井証券]]・[[securities-firms/marusan-securities|丸三証券]] 等の中堅独立証券。
+岩井コスモ証券株式会社は、大阪市中央区今橋に本店を置く、東証 PRIME 上場 [[securities-firms/iwai-cosmo-hd|岩井コスモホールディングス (8707)]] の 100% 子会社である。岩井証券が 2010-04 にコスモ証券を完全子会社化した後、両証券会社は 2012-05-01 に合併し、現在の岩井コスモ証券となった。公式会社概要による資本金は 135 億円、登録番号は近畿財務局長（金商）第 15 号、2026-04-01 現在の従業員数は 902 名である。^[岩井コスモ証券「会社概要」: https://www.iwaicosmo.co.jp/corporate/about/; 岩井コスモ証券「沿革」: https://www.iwaicosmo.co.jp/corporate/history/; 金融庁「金融商品取引業者登録一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. 法人・株主
 

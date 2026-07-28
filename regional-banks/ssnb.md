@@ -11,16 +11,17 @@ aliases:
   - "banking/sumishin-sbi-net-bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, net-bank, baas, ndfg-affiliate]
 status: active
 sources:
-  - "Wikipedia: 住信SBIネット銀行 (2026-05-19 抽出)"
-  - "Wikipedia: NTTドコモ (2026-05-19 抽出)"
-  - "住信 SBI ネット銀行 公式 IR (2026-05-19 抽出)"
+  - "https://www.netbk.co.jp/contents/company/about/organization/"
+  - "https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html"
+  - "https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html"
+  - "https://www.netbk.co.jp/contents/company/press/2026/0709_006011.html"
 ---
 
 # 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
@@ -31,20 +32,21 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-**2025-09-25 東証スタンダード上場廃止 → 2025-10-01 NTT ドコモ連結子会社化 → 2025-10-02 SBI HD 資本関係完全解消 → 2026-08-03 「ドコモ SMTB ネット銀行」改称予定**という劇的な親会社入替を経た元ネット銀行。三井住友信託 + SBI HD 50:50 JV として 2007-09-24 開業し、2023-03-29 PRIME 上場した後、わずか 2 年半で SBI HD 持分を NTT ドコモが買収。**FY2024（2025-03 期）連結純利益 281 億円・経常収益 1,465 億円・預金残高 9 兆 8,216 億円・口座数 825 万件**で、ネット銀行業界 [[banking/rakuten-bank|rakuten-bank]] に次ぐ規模。**住宅ローン取扱高ネット銀行 No.1 級** + **日本最大級の BaaS（NEOBANK）プロバイダー** の 2 軸が中核。「docomo NEOBANK / d スマートバンク」のバックエンドだった同行が、提携先 [[megabanks/ndfg]] そのものに吸収された珍しい事例。
+住信 SBI ネット銀行は、普通銀行免許を持ち、住宅ローンと BaaS「NEOBANK」を展開するネット銀行である。2025-09-25 に上場廃止、2025-10-01 に NTT ドコモの連結子会社となり、2025-12-25 の資本再編後は NTT ドコモ側 55.37%、三井住友信託銀行 44.63%（議決権は各 50%）の共同経営体制となった。2026-07-01 には NTT ドコモ・フィナンシャルグループが新たな親会社・主要株主となった。2026-07-29 現在の商号は住信 SBI ネット銀行株式会社で、関係当局の認可を前提に 2026-08-03 から「株式会社ドコモ SMTB ネット銀行」へ変更し、個人向けブランドを「ドコモの銀行」とする予定である。^[住信 SBI ネット銀行「会社概要」: https://www.netbk.co.jp/contents/company/about/organization/; 3 社「商号変更、資本再編および協業施策」(2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; 住信 SBI ネット銀行「親会社及び主要株主の異動」(2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html; 同「ドコモの銀行」(2026-07-09): https://www.netbk.co.jp/contents/company/press/2026/0709_006011.html]
 
 ## 1. 会社概要
 
-**正式名**：株式会社住信 SBI ネット銀行 → **株式会社ドコモ SMTB ネット銀行**（2026-08-03 改称予定）
+**正式名**：住信 SBI ネット銀行株式会社（2026-08-03 に株式会社ドコモ SMTB ネット銀行へ改称予定、関係当局の認可が前提）
 **英名**：SBI Sumishin Net Bank, Ltd.
-**証券コード**：旧 東証 STANDARD 7163（**2025-09-25 上場廃止**、旧 PRIME は 2024 のスタンダード市場再編で移行）
-**設立**：2007-09-24（同日開業）
-**現親会社**（2025-10-02〜）：
-  - **NTT ドコモ**: 持株比率 **55.37%**（[[megabanks/ndfg]] 傘下、連結子会社）
+**証券コード**：旧 7163（2025-09-25 上場廃止）
+**設立**：1986-06（銀行業の営業免許取得は 2007-09）
+**現親会社・株主構成**（2026-07-29 現在）：
+  - **NTT ドコモ・フィナンシャルグループ**: 持株比率 **55.37%**（連結親会社）
   - **三井住友信託銀行**: 持株比率 **44.63%**（議決権は 50:50）
 **業態**：ネット銀行（普通銀行免許）+ BaaS プロバイダー
-**本社**：東京都港区
+**本社**：東京都港区六本木 3-2-1 住友不動産六本木グランドタワー
 **機関設計**：監査役会設置会社
+^[住信 SBI ネット銀行「会社概要」: https://www.netbk.co.jp/contents/company/about/organization/; 3 社「商号変更、資本再編および協業施策」(2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; 住信 SBI ネット銀行「親会社及び主要株主の異動」(2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html]
 
 ### 数値（FY2024 = 2025-03 期、連結ベース）
 

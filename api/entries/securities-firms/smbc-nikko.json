@@ -28,9 +28,9 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,9 +41,8 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: SMBC日興証券 (公開情報、2026-05-19 抽出)",
-      "Wikipedia: 日興コーディアル証券 (公開情報、2026-05-19 抽出)",
-      "SMBC 日興証券 公式コーポレートサイト / 沿革ページ (公開情報)",
+      "https://www.smbcnikko.co.jp/company/info/profile/",
+      "https://www.smbcnikko.co.jp/company/info/profile/history/",
       "三井住友フィナンシャルグループ IR 公開資料 (連結子会社情報)",
       "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)",
       "https://diamond.jp/articles/-/305405",
@@ -97,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6596,
-    "word_like_tokens": 1064,
+    "nonspace_chars": 6759,
+    "word_like_tokens": 1083,
     "inbound_wikilinks_count": 68,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

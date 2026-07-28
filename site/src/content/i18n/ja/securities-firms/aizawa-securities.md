@@ -1,11 +1,11 @@
 ---
 source: securities-firms/aizawa-securities
-source_hash: 804b08bf794a59d4
+source_hash: 0ecb2a449ad6f645
 lang: ja
 status: machine
 fidelity: ok
 title: "アイザワ証券 (Aizawa Securities)"
-translated_at: 2026-06-02T14:01:20.924Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # アイザワ証券 (Aizawa Securities)
@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:01:20.924Z
 
 ## 要約
 
-アイザワ証券株式会社は **東京・日本橋兜町本店の中堅独立系証券会社**、東証 STANDARD 上場 [[securities-firms/aizawa-sg|アイザワ証券グループ (8708)]] の中核 100% 子会社。1918 年（大正 7 年）2 月 藍澤彌八が東京・日本橋兜町で「藍澤證券店」として創業 → 1948 株式会社化 → 2017-04 持株会社化により現体制成立。**金融商品取引業者 関東財務局長(金商)第3198号**（FIEA Type 1 第一種金融商品取引業）。**「アジア新興国投資の専門証券」** という独自ポジションで、日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー）を持ち、現地子会社・提携先を通じた個別株仲介を提供する点が [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]・[[securities-firms/marusan-securities|丸三証券]] 等の純粋国内型独立証券との差別化要素。
+アイザワ証券株式会社は、東証 STANDARD 上場 [[securities-firms/aizawa-sg|アイザワ証券グループ (8708)]] の 100% 子会社である。現法人は 2021-04-01 に設立され、持株会社体制への移行に伴い 2021-10-01 に証券事業を開始した。公式会社概要による本社は東京都港区東新橋（汐留シティセンター）、資本金 30 億円、登録番号は関東財務局長（金商）第 3283 号、2026-03-31 現在の従業員数は 779 名、店舗数は 36 店舗である。公式沿革は前身の起点を 1918-07 の港屋商店創業としている。^[アイザワ証券「会社概要」: https://www.aizawa.co.jp/company/outline/; アイザワ証券「沿革」: https://www.aizawa.co.jp/company/history/; 金融庁「金融商品取引業者登録一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx]
 
 ## 1. 法人・株主
 

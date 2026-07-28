@@ -83,11 +83,11 @@
 | `payments` | 41 | 0 | 34.2 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `regional-banks` | 136 | 0 | 14.0 |
-| `retail` | 11 | 0 | 23.1 |
+| `regional-banks` | 136 | 0 | 13.9 |
+| `retail` | 11 | 0 | 23.0 |
 | `root` | 1 | 0 | 46.0 |
 | `securities` | 33 | 0 | 32.1 |
-| `securities-firms` | 37 | 0 | 18.8 |
+| `securities-firms` | 37 | 0 | 18.5 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |

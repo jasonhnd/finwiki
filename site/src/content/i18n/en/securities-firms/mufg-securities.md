@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-securities
-source_hash: 130984fcb45c5043
+source_hash: ea37d467c344bac1
 lang: en
 status: machine
 fidelity: ok
 title: "MUFG Securities Holdings"
-translated_at: 2026-06-19T12:43:19.965Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 # MUFG Securities Holdings
 
@@ -22,10 +22,11 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 **Legal name**: Mitsubishi UFJ Securities Holdings Co., Ltd. (三菱 UFJ 証券ホールディングス株式会社)
 **English name**: Mitsubishi UFJ Securities Holdings Co., Ltd. (MUSHD)
 **Established**: **2010-04-01** (integrated management of securities subsidiaries / affiliates)
-**Headquarters**: Marunouchi, Chiyoda-ku, Tokyo
+**Headquarters**: Otemachi, Chiyoda-ku, Tokyo
 **Business type**: Intermediate holding company (unlisted, a MUFG 100% subsidiary)
 **Major shareholder**: **[[megabanks/mufg|MUFG（三菱 UFJ フィナンシャル・グループ）100%]]**
 **Supervision**: [[financial-regulators/fsa|金融庁]] (securities business)
+^[Mitsubishi UFJ Securities Holdings company profile: https://www.hd.sc.mufg.jp/company/profile.html; company history: https://www.hd.sc.mufg.jp/company/history.html]
 
 ### Subordinate structure
 
