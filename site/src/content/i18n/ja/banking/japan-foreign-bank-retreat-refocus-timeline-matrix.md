@@ -1,12 +1,12 @@
 ---
 source: banking/japan-foreign-bank-retreat-refocus-timeline-matrix
-source_hash: e4ea516651cc0f91
+source_hash: 31567b59e030a83a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における外国銀行の撤退・再集中タイムライン・マトリクス"
-translated_at: 2026-06-26T08:29:09.696Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # 日本における外国銀行の撤退・再集中タイムライン・マトリクス
@@ -23,7 +23,7 @@ translated_at: 2026-06-26T08:29:09.696Z
 
 ## このマトリクスが重要な理由
 
-「外国銀行 X が日本から撤退した」は、日本の金融システム評論において最も過大に語られる主張の一つである。FSA の外国銀行支店 registry は 2026-05-13 時点で 57 の活動中支店を示している — したがって、ライセンス・プレゼンスの側は生の件数では縮小していない。縮小しているのは消費者向けのブランド・サーフェス (Citibank リテール → 2014, HSBC Premier → 2012) と、一部の外資 IB が 2000s に維持していたハイタッチなウェルス / 国内 IPO フランチャイズである。
+「外国銀行 X が日本から撤退した」は、日本の金融システム評論において最も過大に語られる主張の一つである。FSA の外国銀行支店 worksheet は 2026-05-13 時点で正確に 57 の免許済み外国銀行支店を示している — したがって、ライセンス・プレゼンスの側は生の件数では縮小していない。縮小しているのは消費者向けのブランド・サーフェス (Citibank リテール → 2014, HSBC Premier → 2012) と、一部の外資 IB が 2000s に維持していたハイタッチなウェルス / 国内 IPO フランチャイズである。^[Source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, worksheet 「外国銀行支店」, 2026-05-13.]
 
 具体的に、本マトリクスは以下を浮かび上がらせる:
 

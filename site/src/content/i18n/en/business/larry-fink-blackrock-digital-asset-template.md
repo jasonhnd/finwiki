@@ -1,11 +1,11 @@
 ---
 source: business/larry-fink-blackrock-digital-asset-template
-source_hash: 57f29b824dd2e2a4
+source_hash: 149146640896b243
 lang: en
 status: machine
 fidelity: ok
 title: "Large asset manager's crypto-asset compliance triangle template · ETF + RWA tokenisation + political influence"
-translated_at: 2026-05-30T16:08:36.701Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Large asset manager's crypto-asset compliance triangle template · ETF + RWA tokenisation + political influence
@@ -29,7 +29,7 @@ Diagnostic template: when a traditional asset-management firm enters the crypto-
 
 ## Origin & evolution
 
-The starting point is the 2022-08 BlackRock × Coinbase strategic partnership (Aladdin integration + BTC custody), the phase that seeded the first pillar. In 2024-01-11, 11社 spot BTC ETFs including IBIT were approved on the same day, establishing the ETF pillar. In 2024-03-20, BUIDL launched on Ethereum via Securitize, establishing the RWA pillar. In 2024-05, IETH was approved, expanding the ETF pillar. In 2025-Q1, the Larry Fink Annual Letter "Tokenization is the next generation for markets" formally began the political-pillar messaging. In 2026-Q1, all three pillars peaked simultaneously: IBIT $80B + BUIDL $60B + the passage of the GENIUS Act completed the verification of the template. Followers: Franklin Templeton (BENJI) / WisdomTree (WTI series) / Ondo (USDY).
+The public-primary-source timeline starts with the 2022-08-04 announcement connecting Coinbase Prime to Aladdin. The SEC approved exchange rule changes for multiple spot bitcoin ETPs on 2024-01-10, and Securitize announced the launch of BlackRock's first tokenized fund, BUIDL, on Ethereum on 2024-03-20. BlackRock's 2025 Annual Chairman's Letter treats tokenization as a market-infrastructure topic. These sources support a chronology across ETF, tokenized-fund, and executive-communication channels, but they do not establish causal influence on a particular bill, unfixed 2026-Q1 AUM figures, or the assessment that all three pillars had peaked. This entry therefore does not present those figures or causal claims as established facts. ^[Sources: https://www.coinbase.com/blog/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via; https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf; https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network; https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter.]
 
 ## Related
 <!-- wiki-links:managed -->

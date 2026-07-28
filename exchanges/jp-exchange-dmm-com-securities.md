@@ -7,9 +7,9 @@ aliases:
   - DMMドットコム証券
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - fintech
@@ -107,7 +107,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 **DMM Bitcoin（別法人）廃業との関係**：
 
-DMM.com証券と DMM Bitcoin は別法人（住所は同じ東京日本橋タワーだが法人格・登録番号は別）。DMM Bitcoin の廃業（2024-12 発表・2025-03 完了）が DMM.com証券の JVCEA 暗号資産デリバティブ登録・事業継続に直接影響したとの公式発表は確認できない（2026-05-18現在）。ただし DMM グループとしての暗号資産現物取引業務は消滅したため、グループ全体の暗号資産事業は大幅に縮小した。
+DMM.com証券の公式会社概要は同社を第一種・第二種金融商品取引業者および JVCEA 会員 #1043 として掲載している。一方、警察庁と SBI VC Trade の公表は、窃取・顧客口座移管の対象を別法人の株式会社DMM Bitcoin と明記し、SBI VC Trade は口座・預かり資産の移管日を 2025-03-08 とした。したがって、DMM Bitcoin の現物交換業終了を DMM.com証券の法人・登録の終了と同一視してはならない。ただし、DMM グループ内の暗号資産現物交換業が終了し、DMM.com証券の金融商品取引業が別に継続するという事業範囲の縮小は確認できる。^[Sources: https://securities.dmm.com/company/; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.sbivc.co.jp/newsview/273xz3k65.]
 
 ## 7. 戦略動向
 

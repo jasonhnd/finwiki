@@ -13,6 +13,7 @@
 ## Requirements
 
 - Placeholder set and count must match before commit.
+- A complete `^[...]` provenance marker is masked atomically before URL, date, or numeric masking so it cannot contain nested placeholders and one-pass unmasking remains lossless.
 - Markdown structure must remain compatible with site rendering.
 - Wikilink targets must not be invented or reordered.
 - `source` path must match current source location.
@@ -21,6 +22,7 @@
 ## Acceptance
 
 - Commit script reports no missing translations for the batch.
+- Single-URL and multi-URL provenance markers round-trip exactly through `mask` / `unmask`.
 - `fidelity` is `ok` unless review is required.
 - Site build or release check passes after mirror updates.
 

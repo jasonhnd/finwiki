@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-sblox
-source_hash: 78d74c1f356890ea
+source_hash: 1565d1b86b97c6dd
 lang: en
 status: machine
 fidelity: ok
 title: "S.BLOX Inc. — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.791Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # S.BLOX Inc. — Japanese crypto-asset exchange operator overview
@@ -68,7 +68,7 @@ The official site states that "further expansion is planned going forward." BTC 
 - **2022年2月**: Succeeded the digital-currency business to DeCurret DCP, Inc. via an absorption-type split. On the same day, sold the remaining crypto-asset exchange business (exchange operation) portion to WhaleFin Holdings Japan, Inc., the Japanese entity of the Singapore-based market maker **Amber Group** (change of shareholder).
 - **2022年9月**: Changed its company name to **Amber Japan, Inc.** The service name was also rebranded to "WhaleFin."
 - **2023年8月**: **Quetta Web, Inc.** (a subsidiary 100%-invested by Sony Group Corporation) acquired all shares of Amber Japan, joining the Sony Group. Lee Yijin, the Amber-era Representative Director, resigned, and **Jun Watanabe**, formerly of Sony Network Communications, became Representative Director and President.
-- **2024年7月1日**: Changed its company name to **S.BLOX Inc.** Positioned as the crypto-asset exchange window in Sony Group's Web 3 strategy.
+- **2024-07**: Changed its company name from Amber Japan Inc. to **S.BLOX Inc.** The official company description records the August 2023 entry into Sony Group and the January 2025 service-name renewal from WhaleFin to S.BLOX as separate events. ^[Source: https://m.sblox.jp/ja-jp/recruit/.]
 - **2025年1月**: Completed the service renewal and changed the service name from "WhaleFin" to **S.BLOX**.
 
 **Regarding the relationship with TaoTao**: TaoTao, Inc. (former Yahoo! Japan / Z Corp lineage) was merged into and absorbed by SBI VC Trade, Inc. at 2021年12月, and is a **separate entity / separate lineage**. It has no corporate-succession relationship whatsoever with S.BLOX (formerly DeCurret), and its FSA registration number differs.

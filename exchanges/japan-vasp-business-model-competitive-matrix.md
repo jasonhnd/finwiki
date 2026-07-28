@@ -11,9 +11,9 @@ aliases:
   - JP crypto exchange institutional vs retail focus
 domain: exchanges
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - exchanges
@@ -35,7 +35,7 @@ sources:
 
 ## TL;DR
 
-日本 FSA 登録の暗号資産交換業者 (VASP) は 2026-05 時点で約 27-39 社 (JVCEA 会員区分 + 電子決済手段等取引業を含めた延べ数)。各社は **(1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ (金商法 1 種) / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所** という 10 のビジネスモデル軸で異なるポジションを取る。**販売所スプレッド** 収益モデルが国内市場の主軸である一方、海外系日本法人 (Binance / OKJ / OSL 等) は **取引所板厚** 訴求、Crypto Garage / Digital Asset Markets 等は **機関向け OTC + RWA** で差別化する。本マトリクスは [[exchanges/jp-vasp-parent-company-map|親会社・株主構造マップ]] と [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]] を出発点に、39 社を 10 軸で側並び比較する。
+FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者**を掲載している。本マトリクスの 39 分析行は、この登録母集団だけでなく、暗号資産デリバティブ、電子決済手段、機関向け隣接事業、移行・履歴上の関連 entity を含むため、39 を FSA 登録 VASP 数として読んではならない。各行は **(1) 現物販売所 / (2) 現物取引所 / (3) マージン / レバレッジ / (4) 暗号資産デリバ / (5) カストディ / (6) 銘柄上場特化 / (7) ステーキング・レンディング / (8) IEO / (9) 機関向け OTC / (10) リテール販売所** という 10 軸で比較する。^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx, 2026-06-30, 「全業者数: 26」.]
 
 ## Wiki route
 

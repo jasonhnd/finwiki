@@ -49,7 +49,7 @@
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 47 | 0 | 12.9 |
 | `asset-managers` | 15 | 0 | 17.2 |
-| `banking` | 40 | 0 | 42.9 |
+| `banking` | 40 | 0 | 42.8 |
 | `business` | 25 | 0 | 20.0 |
 | `card-issuers` | 24 | 0 | 16.5 |
 | `consumer-finance` | 6 | 0 | 15.3 |
@@ -62,7 +62,7 @@
 | `cooperative-banks` | 46 | 0 | 15.6 |
 | `corporate-strategy` | 11 | 0 | 19.2 |
 | `derivatives` | 33 | 0 | 20.8 |
-| `exchanges` | 147 | 0 | 12.9 |
+| `exchanges` | 147 | 0 | 12.8 |
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 25.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |

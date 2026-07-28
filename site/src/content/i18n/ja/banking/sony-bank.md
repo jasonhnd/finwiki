@@ -1,12 +1,12 @@
 ---
 source: banking/sony-bank
-source_hash: 9d7c775f08bb100f
+source_hash: e16316d2bc475def
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ソニー銀行事業プロファイル (ソニー銀行)"
-translated_at: 2026-06-26T08:28:46.043Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # ソニー銀行事業プロファイル (ソニー銀行)
@@ -39,7 +39,7 @@ Sony Group Corporation (TSE 6758, 最終親会社)
         └── その他の金融子会社
 ```
 
-ソニー FG は以前は上場していたが、2020 にソニーグループが TOB を実施しソニー FG を非公開化した。2025-09-29にソニーグループは日本初の「部分スピンオフ」により TSE プライム市場でソニー FG を再上場させ — ソニー FG 株式の 80%超をソニーグループ株主に現物分配する一方、約 20%を保有し続け — これによりソニー銀行の持分経済性に対する公開市場の参照が再導入された (ソニー FG 初値 ¥205)。ソニー銀行自体はソニー FG 傘下の非上場銀行事業会社として存続している。
+ソニー FG は以前は上場していたが、2020年にソニーグループが TOB を実施し完全子会社化した。ソニーの公式 partial-spin-off 記録によると、ソニー FG は 2025-09-29 に TSE プライム市場へ上場し、株式の 80%強がソニー株主へ現物分配され、ソニーは 20%弱を保有した。ソニー FG は連結対象から外れ、2025-10-01 付で持分法適用会社となった。ソニー銀行自体はソニー FG 傘下の非上場銀行事業会社として存続する。本項は出典を確認できない初値を持分経済性の推計に用いない。^[Source: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/.]
 
 ### マルチカレンシー預金 + FX コアソニー銀行の外貨預金商品は、より広範な [[banking/japan-net-bank-competition-map|net bank universe]] に対して同行の最も特徴的な機能である:
 
