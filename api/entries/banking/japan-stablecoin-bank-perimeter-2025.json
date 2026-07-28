@@ -25,9 +25,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -56,7 +56,8 @@
       "https://jpyc.co.jp/",
       "https://www.sbivc.co.jp/usdc",
       "https://www.hokkokubank.co.jp/other/news/2024/pdf/20240401a.pdf",
-      "https://www.businesslawyers.jp/articles/1476"
+      "https://www.businesslawyers.jp/articles/1476",
+      "https://www.fsa.go.jp/news/27/sonota/20151214-2.html"
     ]
   },
   "summary": "This entry sits under banking index as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with 日本 Stablecoin 法制度の三層構造 for the fintech-side perimeter view, with the platform anchor Progmat and the issuer anchors JPYC · SBI VC Tr",
@@ -138,9 +139,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13489,
-    "word_like_tokens": 2163,
+    "nonspace_chars": 13216,
+    "word_like_tokens": 2117,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

@@ -19,7 +19,7 @@ bun run verify
 | Site rendering change | Astro build and browser spot check. |
 | Discovery generator / URL helper change | `bun run surface:drift`; `bun test tools/discovery_routes.test.ts` (shallow committed-date fallback, source `markdown_links`, API absolute-HTTP filter, same-host wrong-origin); `bun run verify --out _site`; diff-review sitemap, llms, index and API URL fields. |
 | Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
-| Translation pipeline change | Placeholder tests and sample mirror verify. |
+| Translation pipeline change | `bun test site/scripts/protect.test.mjs`, including ordered placeholders, sample-source losslessness, and single-/multi-URL provenance-marker round trips; then `bun run i18n:check` and full verify. |
 | Release tooling change | `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`, plus positive and negative language-order / title / required-subsection gate tests. |
 | Static publish assembly/release-pipeline change | Focused boundary + required-route tests, deliberately broken final-route fixture, `bun run verify --out _site`, and workflow YAML parse. |
 | Final HTML route-audit change | `bun test tools/html_route_audit.test.ts tools/verify.test.ts`; include positive relative / same-origin / asset cases and a committed missing-route negative fixture; build, Pagefind, assemble, then run `bun run html:routes --out _site`. |

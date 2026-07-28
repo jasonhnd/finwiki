@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -54,6 +54,8 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.jasdec.com/en/system/",
       "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
+      "https://www.custody.jp/data/disclosure/pdf/_disclosure2020.pdf",
+      "https://www.custody.jp/data/disclosure/pdf/_disclosure202101.pdf",
       "https://ja.wikipedia.org/wiki/日本カストディ銀行"
     ]
   },
@@ -130,9 +132,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17931,
-    "word_like_tokens": 2786,
+    "nonspace_chars": 18287,
+    "word_like_tokens": 2832,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

@@ -6,9 +6,9 @@ aliases:
   - JVCEA member ownership taxonomy
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-23
-review_by: 2026-08-07
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags:
   - exchanges
@@ -26,7 +26,7 @@ status: active
 
 ## 概要
 
-国内暗号資産交換業者 (VASP) は約 35 社 (2026-05 時点) が FSA 登録済みで、親会社属性により行動様式が大きく異なる。資本系列を 3 大分類で整理すると、(1) **上場会社系**（独立した持株会社・事業会社の子会社）、(2) **独立系**（親会社なし、創業者・経営陣保有）、(3) **海外系**（グローバル CEX の日本法人）に分かれ、それぞれ商品設計・コンプラ姿勢・流動性供給戦略が異なる。
+FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者**を掲載している。本ページはこの公式母集団の親会社属性を起点にし、関連する持株会社・デリバティブ entity・履歴上の operator を別ラベルで補足する。資本系列を 3 大分類で整理すると、(1) **上場会社系**（独立した持株会社・事業会社の子会社）、(2) **独立系**（親会社なし、創業者・経営陣保有）、(3) **海外系**（グローバル CEX の日本法人）に分かれるが、関連 entity を足した分析行数を FSA 登録業者数として扱わない。^[Source: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx, 2026-06-30, 「全業者数: 26」.]
 
 ## 大手金融 conglomerate 系（主要 5 群）
 

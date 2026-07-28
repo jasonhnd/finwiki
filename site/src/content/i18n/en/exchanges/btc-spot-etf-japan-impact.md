@@ -1,11 +1,11 @@
 ---
 source: exchanges/btc-spot-etf-japan-impact
-source_hash: f2a01ed547394ad1
+source_hash: 70bf6e16cab9fca0
 lang: en
 status: machine
 fidelity: ok
 title: "Impact of US approval of Bitcoin spot ETFs on domestic CEXs (2024-01~)"
-translated_at: 2026-06-18T23:33:48.278Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Impact of US approval of Bitcoin spot ETFs on domestic CEXs (2024-01~)
@@ -17,7 +17,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 1. Overview
 
-On 2024-01-10, the US SEC approved 11 件 BTC spot ETFs all at once (BlackRock IBIT, Fidelity FBTC, Ark 21Shares ARKB, Bitwise BITB, Grayscale GBTC, Invesco/Galaxy BTCO, VanEck HODL, Valkyrie BRRR, Franklin EZBC, WisdomTree BTCW, Hashdex DEFI). This released global institutional-investor flows into the crypto spot market through a formal route, giving hedge funds, pensions, and RIAs (Registered Investment Advisors) low-cost exposure. The impact on Japan's domestic CEXs is observed through 3  routes: **(a) higher trading volume from rising spot prices**, **(b) acceleration of domestic institutional accounts**, and **(c) the move toward full-fledged debate over lifting the ban on a domestic BTC ETF**.
+On 2024-01-10, the US SEC approved exchange rule changes for 11 spot bitcoin ETPs, opening a route to bitcoin exposure through products traded on registered exchanges. The SEC itself stated that this action did not approve or endorse bitcoin or crypto trading platforms. The three proposed paths to Japan's domestic CEXs—**(a) spot prices and trading volume**, **(b) domestic institutional accounts**, and **(c) domestic ETF-policy debate**—are analytical hypotheses in this entry; the SEC order does not establish causation for the Japanese market. ^[Sources: https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf; https://www.sec.gov/newsroom/speeches-statements/gensler-statement-spot-bitcoin-011023.]
 
 ## 2. Figures (2024-2026)
 

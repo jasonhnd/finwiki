@@ -65,6 +65,19 @@ describe('translation protection', () => {
     expect(unmask(result.masked, result.masks)).toBe(source);
   });
 
+  test('round-trips provenance markers containing one or multiple URLs', () => {
+    const source =
+      'Single source.^[Source: https://example.com/report/2026-07-29.]\n' +
+      'Multiple sources.^[Sources: https://example.com/a?id=1; https://example.com/b.pdf.]';
+    const result = mask(source);
+    const restored = unmask(result.masked, result.masks);
+
+    expect(result.masked).not.toContain('https://');
+    expect(result.masks.filter((value) => value.startsWith('^['))).toHaveLength(2);
+    expect(restored).toBe(source);
+    expect(restored).not.toMatch(/❰[a-z]+❱/i);
+  });
+
   test('requires the exact ordered placeholder sequence', () => {
     const masked = 'First ❰a❱ then ❰b❱ and finally ❰c❱.';
     expect(verify(masked, 'Uno ❰a❱ dos ❰b❱ tres ❰c❱.').ok).toBe(true);

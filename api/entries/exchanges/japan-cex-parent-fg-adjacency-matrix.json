@@ -26,9 +26,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -54,7 +54,10 @@
       "https://www.nomuraholdings.com/",
       "https://www.daiwa-grp.jp/",
       "https://www.dmm.com/",
-      "https://corporate.bitflyer.com/"
+      "https://corporate.bitflyer.com/",
+      "https://www.laserdigital.com/japan/en/information/about-laser-digital-japan",
+      "https://jvcea.or.jp/information/admission-info/20250919-001/",
+      "https://cryptogarage.co.jp/en/about/"
     ]
   },
   "summary": "A Japanese 暗号資産交換業者 (FSA-registered VASP) is rarely a standalone business — it is almost always a node inside a parent financial group (FG) that already runs securities, banking, payments, points, remittance, insurance, or e-commerce. The FG-adjacency dimension is what determines (a) funding cost fo",
@@ -71,9 +74,8 @@
     "Rakuten Wallet — Rakuten Group (4755) / Rakuten FG"
   ],
   "body_links": {
-    "wikilinks_count": 86,
+    "wikilinks_count": 81,
     "wikilinks": [
-      "asset-managers/daiwa-asset-management",
       "asset-managers/nomura-asset-management",
       "asset-managers/sbi-asset-management",
       "card-issuers/aeon-financial-service",
@@ -140,22 +142,22 @@
       "payment-firms/sbi-remit\\",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-prepaid-electronic-money-operator-matrix",
-      "regional-banks/daiwa-next-bank",
-      "regional-banks/daiwa-next-bank\\",
       "regional-banks/sbi-shinsei-bank",
       "regional-banks/sbi-shinsei-bank\\",
       "securities-firms/daiwa-sg",
-      "securities-firms/daiwa-sg\\",
       "securities-firms/gmo-click-securities",
       "securities-firms/gmo-click-securities\\",
       "securities-firms/monex-group",
       "securities-firms/monex-group\\",
       "securities-firms/nomura-hd",
       "securities-firms/nomura-hd\\",
-      "securities-firms/rakuten-securities"
+      "securities-firms/rakuten-securities",
+      "securities-firms/rakuten-securities\\",
+      "securities-firms/sbi-fx-trade",
+      "securities-firms/sbi-securities",
+      "securities-firms/sbi-securities\\"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/",
       "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
       "https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
@@ -208,7 +210,6 @@
       "https://finwiki.zksc.io/ja/payment-firms/sbi-remit/",
       "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
       "https://finwiki.zksc.io/ja/payments/japan-prepaid-electronic-money-operator-matrix/",
-      "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
       "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
       "https://finwiki.zksc.io/ja/securities-firms/gmo-click-securities/",
@@ -217,16 +218,15 @@
       "https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/",
       "https://finwiki.zksc.io/ja/securities-firms/sbi-fx-trade/",
       "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/",
-      "https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/",
       "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 29658,
-    "word_like_tokens": 4892,
+    "nonspace_chars": 30264,
+    "word_like_tokens": 5006,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

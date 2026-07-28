@@ -25,9 +25,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -45,7 +45,8 @@
       "https://coinpost.jp/?p=541838",
       "https://www.weblio.jp/content/S.BLOX",
       "https://prtimes.jp/main/html/searchrlp/company_id/130885",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://m.sblox.jp/ja-jp/recruit/"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -98,9 +99,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4486,
-    "word_like_tokens": 801,
+    "nonspace_chars": 4625,
+    "word_like_tokens": 830,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

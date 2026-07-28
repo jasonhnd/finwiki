@@ -1,11 +1,11 @@
 ---
 source: agent-economy/privy-embedded-wallet-overview
-source_hash: 5af0c4f9f23e3dce
+source_hash: 2cc86328a9020b3e
 lang: en
 status: machine
 fidelity: ok
 title: "Privy · Stripe-owned embedded self-custodial wallet (overview)"
-translated_at: 2026-05-30T17:31:02.643Z
+translated_at: 2026-07-28T18:19:40Z
 ---
 
 # Privy · Stripe-owned embedded self-custodial wallet (overview)
@@ -16,10 +16,9 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI age
 
 ## Key facts
 
-- 2021 founded in New York · founders Henri Stern + Asta Li ^[extracted]
-- 2025-06 acquired by Stripe (estimated $300-500M) ^[extracted]
-- 75M accounts at time of acquisition · reached 110M+ wallets by 2026-Q1  ^[extracted]
-- 1,000+ developer team integrated ^[extracted]
+- Privy's official 2025-06-11 announcement, signed by Henri Stern and Asta Li, says they started Privy a little over three years earlier. ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
+- The same announcement disclosed Stripe's acquisition, subject to customary closing conditions and expected to close within weeks. ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
+- The official disclosure reported 75M+ accounts and 1,000+ developer teams; it did not disclose the transaction price or a 110M-wallet figure. ^[Source: https://privy.io/blog/announcing-our-acquisition-by-stripe.]
 - Self-custodial model: MPC + TEE sharding · the private key never exists at any single Privy point ^[extracted]
 - User onboarding ~10 seconds vs MetaMask 5-10 minutes ^[extracted]
 - Pre-acquisition core customers: OpenSea / Hyperliquid / Farcaster / Friend.tech / Toku / Zora ^[extracted]
@@ -27,11 +26,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI age
 
 ## Mechanism / How it works
 
-When a user logs in with email or Google, the Privy SDK (roughly 30 lines of code) runs MPC sharding key generation in the frontend. **One shard is stored on the user's device** (Passkey / WebAuthn / Secure Enclave based), and **one shard is stored in Privy's TEE** (Trusted Execution Environment · AWS Nitro Enclaves or equivalent). At signing time the two shards cooperate to generate a valid signature, but Privy alone cannot sign, and the user alone cannot sign either: this realizes the compromise of "self-custodial yet management-free" (for the same model see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded-wallet adoption]]). With the Multichain balances API, one API call can retrieve multi-chain balances across Ethereum, Solana, Tempo, Polygon, and other networks, eliminating the need for developers to implement multi-chain aggregation individually; the underlying layer depends on [[systems/chain-abstraction-pattern-overview|chain-abstraction patterns]]. The whole experience is fully Web2: the user never sees a seed phrase, never installs MetaMask, and never has to switch networks. This is the core reason Privy reached a 110M-wallet scale.
+When a user logs in with email or Google, the Privy SDK (roughly 30 lines of code) runs MPC sharding key generation in the frontend. **One shard is stored on the user's device** (Passkey / WebAuthn / Secure Enclave based), and **one shard is stored in Privy's TEE** (Trusted Execution Environment · AWS Nitro Enclaves or equivalent). At signing time the two shards cooperate to generate a valid signature, but Privy alone cannot sign, and the user alone cannot sign either: this realizes the compromise of "self-custodial yet management-free" (for the same model see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded-wallet adoption]]). With the Multichain balances API, one API call can retrieve multi-chain balances across Ethereum, Solana, Tempo, Polygon, and other networks, eliminating the need for developers to implement multi-chain aggregation individually; the underlying layer depends on [[systems/chain-abstraction-pattern-overview|chain-abstraction patterns]]. The whole experience is fully Web2: the user never sees a seed phrase, never installs MetaMask, and never has to switch networks. For scale, this entry uses the 75M+ accounts confirmed in the 2025-06-11 official disclosure and does not adopt the unsupported 110M-wallet estimate.
 
 ## Origin & evolution
 
-Privy was founded in New York in 2021 by Stern and Li, both formerly at Protocol Labs. During 2022-2024, it integrated deeply with dapps such as OpenSea, Hyperliquid, Farcaster, and Friend.tech, accumulating 75M accounts. In 2024-Q4, Stripe launched its chained acquisition strategy around stablecoins, Tempo, and Bridge, making a wallet layer necessary; for the full strategic picture, see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]. In 2025-06, Stripe completed the Privy acquisition at an estimated $300-500M, below Bridge's $1.1B valuation because Privy was still in a high-growth phase. In 2025 H2, Privy continued operating under an independent brand while beginning to serve internal demand from Stripe Connect, Tempo, and Bridge. On 2026-05-07, AWS Bedrock AgentCore Payments embedded Privy and Coinbase CDP in parallel as default wallet providers, establishing Privy's position in AI agent economy infrastructure; for the legacy path, see [[exchanges/global-institutional-custody-five-pillars|global institutional custody five pillars]].
+Privy's official 2025-06-11 announcement says Henri Stern and Asta Li started the company a little over three years earlier and supported 75M+ accounts and 1,000+ developer teams at the time of the announcement. It disclosed Stripe's acquisition as a transaction subject to customary closing conditions and said Privy would continue operating as an independent product. Later Stripe / Privy public materials refer to Privy as a Stripe company, and AWS formally listed Coinbase CDP and Stripe (Privy) wallet connectors in its 2026-05-07 AgentCore Payments preview. These primary sources do not disclose the transaction price, 110M wallets, or an estimated valuation, so this entry does not treat those figures as established facts. ^[Sources: https://privy.io/blog/announcing-our-acquisition-by-stripe; https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/.]
 
 ## Related
 <!-- wiki-links:managed -->
@@ -44,3 +43,5 @@ Privy was founded in New York in 2021 by Stern and Li, both formerly at Protocol
 ## Sources
 
 - Privy docs — https://docs.privy.io/
+- Privy and Stripe acquisition announcement — https://privy.io/blog/announcing-our-acquisition-by-stripe
+- AWS AgentCore Payments preview — https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview/
