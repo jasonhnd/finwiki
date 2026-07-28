@@ -25,9 +25,9 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,7 +41,7 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.aizawa.co.jp/company/profile/",
+      "https://www.aizawa.co.jp/company/outline/",
       "https://www.aizawa.co.jp/company/history/",
       "https://www.aizawa-sg.co.jp/company/outline.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
@@ -94,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4608,
-    "word_like_tokens": 672,
+    "nonspace_chars": 4602,
+    "word_like_tokens": 689,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-06"
   }

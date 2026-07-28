@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iyogin-hd
-source_hash: 7f7a1b40d645db30
+source_hash: c1463f8f9252b108
 lang: en
 status: machine
 fidelity: ok
 title: "Iyogin HD (Iyogin Holdings)"
-translated_at: 2026-06-19T12:43:19.983Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # Iyogin HD (Iyogin Holdings)
@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-One of Shikoku's largest regional bank groups, based in Ehime Prefecture. It became a holding company through a sole share transfer by 2022-10-03 Iyo Bank, and is listed on TSE PRIME 5830 . Its core subsidiary, **[[regional-banks/iyo-bank|伊予銀行]]**, was established in 1878 年 as the "29th National Bank" (Matsuyama) and is one of the oldest banks in Shikoku, holding the No.1 share within Ehime Prefecture. It is characterized by **lending to the shipping and shipbuilding cluster** centered on Imabari Shipbuilding. Across Shikoku's 4  prefectures it competes with [[regional-banks/tomony-hd]] (Tokushima / Kagawa), [[regional-banks/hyakujushi-bank|百十四銀]] (Kagawa), and [[regional-banks/shikoku-bank|四国銀]] (Kochi).
+Iyogin Holdings was established on 2022-10-03 through a sole share transfer by [[regional-banks/iyo-bank|Iyo Bank]] and is the bank holding company that wholly owns it. It listed on the Tokyo Stock Exchange Prime Market that day under securities code 5830. Iyo Bank's official history identifies the 29th National Bank, which opened in Kawanoishi, Ehime, in 1878, as one of its predecessors, and records the establishment of Iyo Godo Bank in 1941 and its renaming to Iyo Bank in 1951. ^[Iyogin Holdings, notice of establishment (2022-10-03): https://www.iyogin-hd.co.jp/press-release/pdf/release_20221003a.pdf; Iyo Bank history: https://www.iyobank.co.jp/about/company/overview/history/; Iyo Bank, "Opening of the 29th National Bank": https://www.iyobank.co.jp/about/company/overview/history/m11-01.html]
 
 ## 1. Company profile
 

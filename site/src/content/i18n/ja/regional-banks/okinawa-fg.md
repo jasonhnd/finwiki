@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 2a8e152111b98f5f
+source_hash: 2bc96e72c8a4efc4
 lang: ja
 status: machine
 fidelity: ok
 title: "おきなわ FG (Okinawa FG)"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # おきなわ FG (Okinawa FG)
@@ -22,9 +22,10 @@ translated_at: 2026-06-22T07:08:50.155Z
 
 **正式名**：株式会社おきなわフィナンシャルグループ
 **英名**：Okinawa Financial Group, Inc.
-**証券コード**：東証 PRIME 7350（2021-10-01 上場）
+**証券コード**：7350（東京証券取引所プライム市場・福岡証券取引所本則市場）
 **設立**：2021-10-01（沖縄銀行 単独株式移転による完全親会社化）
 **本社**：沖縄県那覇市久茂地 3-10-1（沖縄銀行 本店所在地と同一）
+^[おきなわフィナンシャルグループ「会社概要」: https://www.okinawafg.co.jp/about_us/; 同「沿革」: https://www.okinawafg.co.jp/history/; 日本取引所グループ「銘柄基本情報 7350」: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=7350]
 
 ### 2025-03 期決算（連結）
 

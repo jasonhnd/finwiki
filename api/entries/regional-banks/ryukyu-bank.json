@@ -26,9 +26,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -40,9 +40,8 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: 琉球銀行 (公開項目)",
-      "琉球銀行 公式 IR (有価証券報告書・決算短信)",
-      "沖縄県金融業界一般公開情報"
+      "https://www.ryugin.co.jp/corporate/about/profile/",
+      "https://www.ryugin.co.jp/corporate/about/history/"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against おきなわ FG (Okinawa FG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -82,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3635,
-    "word_like_tokens": 505,
+    "nonspace_chars": 3848,
+    "word_like_tokens": 540,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-08"
   }

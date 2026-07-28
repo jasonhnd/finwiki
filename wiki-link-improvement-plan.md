@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 13 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,19 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `regional-banks/daiwa-next-bank.md` | `M` | 12 | ok |
+| `regional-banks/iyogin-hd.md` | `M` | 17 | ok |
+| `regional-banks/nanto-bank.md` | `M` | 16 | ok |
+| `regional-banks/okinawa-fg.md` | `M` | 15 | ok |
+| `regional-banks/ryukyu-bank.md` | `M` | 9 | ok |
+| `regional-banks/ssnb.md` | `M` | 11 | ok |
+| `retail/japan-retail-financial-distribution-wedge-matrix.md` | `M` | 59 | ok |
+| `securities-firms/aizawa-securities.md` | `M` | 19 | ok |
+| `securities-firms/iwai-cosmo-securities.md` | `M` | 27 | ok |
+| `securities-firms/monex-group.md` | `M` | 8 | ok |
+| `securities-firms/mufg-securities.md` | `M` | 24 | ok |
+| `securities-firms/smbc-nikko.md` | `M` | 39 | ok |
+| `securities-firms/tokai-tokyo-securities.md` | `M` | 33 | ok |
 
 ## Domain Snapshot
 
@@ -83,11 +96,11 @@
 | `payments` | 41 | 0 | 34.2 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `regional-banks` | 136 | 0 | 14.0 |
-| `retail` | 11 | 0 | 23.1 |
+| `regional-banks` | 136 | 0 | 13.9 |
+| `retail` | 11 | 0 | 23.0 |
 | `root` | 1 | 0 | 46.0 |
 | `securities` | 33 | 0 | 32.1 |
-| `securities-firms` | 37 | 0 | 18.8 |
+| `securities-firms` | 37 | 0 | 18.5 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |

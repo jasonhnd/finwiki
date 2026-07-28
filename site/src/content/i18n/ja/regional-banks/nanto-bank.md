@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: deedf775be17d540
+source_hash: 4046af040c4e4841
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社南都銀行 (The Nanto Bank)"
-translated_at: 2026-06-19T12:43:19.855Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 株式会社南都銀行 (The Nanto Bank)
@@ -23,9 +23,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **正式名**：株式会社南都銀行
 **英名**：The Nanto Bank, Ltd.
 **証券コード**：東証 PRIME 8367
-**創業**：1934-06-01（六十八銀行 + 八木合同銀行 + 御所銀行 + 吉野銀行 + 大和実業銀行 等 戦時統合）
-**本店**：奈良県奈良市橋本町 16
-**業態**：単独上場銀行（**銀行持株会社を頂点とする FG 化はしていない**点が、近隣の [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]]・[[regional-banks/tomony-hd|トモニ HD]] 等の関西地銀 FG 化トレンドと対照的。なお 2019 に非銀行子会社を束ねる**中間持株会社「南都マネージメントサービス」**を設置しているが、上場・銀行業の主体は南都銀行本体のまま）
+**設立**：1934-06-01（六十八銀行・吉野銀行・八木銀行・御所銀行の 4 行合併）
+**本店**：奈良県奈良市大宮町 4 丁目 297 番地 2
+**業態**：銀行持株会社を介さない単独上場銀行
+^[南都銀行「会社概要」: https://www.nantobank.co.jp/company/profile/outline.html; 南都銀行「沿革」: https://www.nantobank.co.jp/company/profile/history.html]
 
 ### 主要財務（FY2023、2024-03-31 現在）
 

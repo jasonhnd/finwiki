@@ -27,9 +27,9 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,9 +41,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: マネックスグループ (公開情報、2026-05-19 抽出)",
-      "マネックスグループ 公式コーポレートサイト IR セクション",
-      "公開プレスリリース (NTT ドコモ提携 2024 年公表分)"
+      "https://www.monexgroup.jp/jp/company/profile.html",
+      "https://www.monexgroup.jp/en/company/history.htm",
+      "https://www.monexgroup.jp/jp/company/directors.html",
+      "https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html"
     ]
   },
   "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -87,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4733,
-    "word_like_tokens": 702,
+    "nonspace_chars": 5044,
+    "word_like_tokens": 746,
     "inbound_wikilinks_count": 35,
     "last_modified": "2026-06-22"
   }

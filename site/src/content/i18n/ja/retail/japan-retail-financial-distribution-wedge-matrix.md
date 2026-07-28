@@ -1,11 +1,11 @@
 ---
 source: retail/japan-retail-financial-distribution-wedge-matrix
-source_hash: c0889ed81c937cf8
+source_hash: 51df7472a35d1ee4
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の小売金融流通ウェッジ・マトリクス"
-translated_at: 2026-06-19T13:13:22.631Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 日本の小売金融流通ウェッジ・マトリクス
@@ -33,7 +33,7 @@ translated_at: 2026-06-19T13:13:22.631Z
 ### イオングループ — モール・アンカー型のフルスタック小売金融
 
 - **アンカー・ウェッジ**：総合スーパー、スーパーマーケット、ショッピングモール。**複数時間の滞留時間**は、カウンター主導の販売（カード申込、保険リード、住宅ローン相談）を経済的にする — コンビニのスループット経済性とは根本的に異なる。
-- **銀行免許**：[[card-issuers/aeon-bank|Aeon Bank]]（2007-10-29設立、銀行法のもとでの普通銀行免許、親会社 [[card-issuers/aeon-financial-service|Aeon Financial Service]] 100% 子会社）。完全な小売銀行 — 預金、住宅ローン、投資信託販売、保険販売。イオングループ施設および駅内に概算 6,500+ の ATM ネットワーク。
+- **銀行免許**：[[card-issuers/aeon-bank|Aeon Bank]] は 2006-05-15 に設立され、2007-10 に銀行免許を取得して営業を開始した。[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]]連結グループ内の AFS コーポレーションの 100% 子会社で、預金、住宅ローン、投資信託販売、保険販売を扱うフルサービスのリテール銀行である。^[イオン銀行「会社概要」: https://www.aeonbank.co.jp/company/about/outline/; イオン銀行「沿革」: https://www.aeonbank.co.jp/company/about/history/; イオンフィナンシャルサービス「組織再編に関するお知らせ」(2024-10-28): https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/news/2024/news241028.pdf]
 - **カード発行アーム**：[[card-issuers/aeon-financial-service|Aeon Financial Service]] のもとでの AEON Card（AFS、TSE プライム 8570）— 流通カード枚数で国内最大級のクレジットカード発行体。カード + WAON のデュアルレール発行、Visa / Mastercard / JCB のブランド・バリアント。
 - **プリペイド電子マネー**：**WAON**（資金決済法のプリペイド支払手段登録のもとでの FeliCa ベースの蓄積価値型電子マネー）。クローズド・スキーム；加盟店フットプリントはイオン店舗で最も深い；多くの交通隣接型およびコンビニ加盟店で受け入れられる。
 - **ポイント通貨**：**WAON POINT** — クローズドなグループ内リワード。他の共通ポイント・スキームへのクロスプログラム変換は限定的；ロイヤルティの価値はネットワーク効果ではなくグループ内の粘着性である。
@@ -61,7 +61,7 @@ translated_at: 2026-06-19T13:13:22.631Z
 ### ローソン + KDDI — コンビニ + 通信ハイブリッド（2024後）
 
 - **アンカー・ウェッジ**：ローソンのコンビニ密度（**7-イレブンとファミリーマートに次ぐ店舗数で第 3 位の CVS チェーン**；公表ベースで国内約 14,000+ 店舗）。KDDI と三菱商事による 2024-02 共同非公開化（1 株 ¥10,360、KDDI + 三菱商事 50/50,、2024年央に完了）の後、ウェッジは **CVS 密度 × KDDI の au 加入者ベース × Pontaポイント・アライアンス**になる。追加された戦略資産は新たな銀行免許ではない — それはローソン POS および Pontaポイント・ネットワークを通じてルーティングされる au PAY 経済圏である。
-- **銀行免許**：[[regional-banks/lawson-bank|Lawson Bank]]（2017-11-15設立、2018-10-15開業、普通銀行免許）。ATM 数（ローソン店舗内に約 13,000 の ATM）でもパートナー銀行のリーチでも [[regional-banks/seven-bank|Seven Bank]] より大幅に小さい。KDDI 親会社を通じた **au じぶん銀行** への間接エクスポージャー — [[megabanks/au-fh|au Financial Holdings]] を参照。
+- **銀行免許**：[[regional-banks/lawson-bank|ローソン銀行]]の準備会社は 2016-11 に設立され、2018-08-10 に普通銀行免許を取得し、2018-10-15 に銀行業務を開始した。免許取得時の株主構成はローソン 95%、三菱 UFJ 銀行 5%で、ローソンの現行グループ情報は全国 13,500 台超の ATM を記載している。2024 年以降のローソン親会社構造を通じ、KDDI 側の **au じぶん銀行** への間接的な接点もある。[[megabanks/au-fh|au Financial Holdings]] を参照。^[金融庁「株式会社ローソン銀行に対する銀行業の免許」(2018-08-10): https://www.fsa.go.jp/news/30/ginkou/20180810-1/20180810.html; ローソン「沿革」: https://www.lawson.co.jp/company/corporate/data/history/detail/development.html; ローソン「グループ会社」: https://www.lawson.co.jp/company/gr/]
 - **カード発行アーム**：ローソンは AEON Card / Seven Card の規模でプライマリーなクレジットカード発行体を所有していない。**au PAY カード**（KDDI 側の au フィナンシャルホールディングスを通じて発行）が 2024後にローソン・チャネルを通じて押し出されるクレジットカードである。ローソン Ponta クレジットカードのバリアントは存在するが、カード発行の重心はローソンの内側ではなく KDDI 経済圏の内側にある。
 - **プリペイド電子マネー**：ローソンは WAON や nanaco に匹敵する**プロプライエタリな FeliCa ベースの蓄積価値型スキームを運営していない**。POS は交通系 IC（Suica / PASMO / ICOCA ファミリー）と主要なコード決済ウォレットを受け入れる。これは構造的な違いである — クローズドなプリペイドのロックインがない。
 - **ポイント通貨**：**Pontaポイント** — **マルチブランド・アライアンス**であり、ロイヤルティマーケティング株式会社（CCC 事業カーブアウト後の三菱商事グループ）が運営する。メンバーには JAL、KDDI、ガソリンスタンド（Shell / ENEOS）、ホットペッパー / レストラン、ローソン、多くの非ローソン加盟店が含まれる。ネットワーク効果は WAON POINT / nanaco ポイントとは根本的に異なる。
