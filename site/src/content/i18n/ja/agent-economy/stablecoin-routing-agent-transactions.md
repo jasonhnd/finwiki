@@ -88,7 +88,7 @@ AIエージェントがAPIコール、ツール呼び出し、または下流の
 
 ## x402 + USDC · 支配的なエージェント決済のHTTPスタック
 
-[[agent-economy/x402-http-payment-overview|x402 protocol]](Coinbase、2025-05)は、HTTP 402 「Payment Required」ステータスコードを復活させ、リファレンス実装についてはデフォルトでそれをBase上のUSDCにバインドする。エージェントのフロー:
+[[agent-economy/x402-http-payment-overview|x402 protocol]] (Coinbase、2025-05)は、HTTP 402 「Payment Required」ステータスコードを復活させ、リファレンス実装についてはデフォルトでそれをBase上のUSDCにバインドする。エージェントのフロー:
 
 1. エージェントがAPIエンドポイントを呼び出す。
 2. サーバーがHTTP 402 と支払い指示(USDC金額 + 受取先チェーン + アドレス)で応答する。

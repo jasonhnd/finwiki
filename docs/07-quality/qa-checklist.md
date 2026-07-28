@@ -22,6 +22,7 @@
 - [ ] A fresh pull request shows green `Required verification` before merge.
 - [ ] Assembled `_site` / `_vercel_public` contains only Astro output, approved raw wiki / AI files and generated `.nojekyll`; `docs/`, developer config, hidden/ignored source files and unmanifested files are absent.
 - [ ] All required root, ja/en, crawler, AI/API and Pagefind routes exist in the assembled artifact.
+- [ ] `bun run html:routes --out <assembled-output>` passes for every same-origin `href` in all final HTML files, including relative links and static assets.
 - [ ] `bun run facts:freshness -- --json` exits 0 when fact-freshness / source-recheck behavior changes.
 - [ ] `bun tools/active_doc_stale_scan.ts` exits 0 (no stale facts in active docs).
 - [ ] `bun tools/generated_surface_drift_scan.ts` exits 0 (no docs leakage or stale API residue).

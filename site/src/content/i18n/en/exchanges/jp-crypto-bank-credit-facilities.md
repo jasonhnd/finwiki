@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-crypto-bank-credit-facilities
-source_hash: cdf4f85bda00b336
+source_hash: b7fbc782c50c189c
 lang: en
 status: machine
 fidelity: ok
