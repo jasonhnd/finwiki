@@ -26,9 +26,9 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -40,8 +40,8 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://ja.wikipedia.org/wiki/南都銀行",
-      "南都銀行 開示資料（FY2023、2024-03-31）"
+      "https://www.nantobank.co.jp/company/profile/outline.html",
+      "https://www.nantobank.co.jp/company/profile/history.html"
     ]
   },
   "summary": "This entry sits under regional-banks INDEX. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -93,8 +93,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5183,
-    "word_like_tokens": 805,
+    "nonspace_chars": 5149,
+    "word_like_tokens": 795,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-07-28"
   }

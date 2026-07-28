@@ -1,11 +1,11 @@
 ---
 source: securities-firms/monex-group
-source_hash: 5de5b62a7adbeaa8
+source_hash: 363d01b0aabfc01e
 lang: en
 status: machine
 fidelity: ok
 title: "Monex Group (マネックスグループ)"
-translated_at: 2026-06-19T12:43:19.938Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # Monex Group (マネックスグループ)
@@ -16,7 +16,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-A holding company that bundles a major Japanese online brokerage + crypto assets (Coincheck) + a U.S. online broker (TradeStation) into a **global retail-investor financial platform** (TSE PRIME 8698). Founded in 1999-05-19 (the former Monex, Inc., jointly invested by Sony + Oki Matsumoto), with founder **Oki Matsumoto** (a former Goldman Sachs partner, now Chairman and CEO) still at the helm. Characterized by a **3 -axis structure of domestic (Monex, Inc.) / U.S. (TradeStation) / crypto assets (Coincheck)**, it is the polar opposite of the universal-finance model of the megabank groups: a "retail-investor-platform-focused" model. At 2024 年, NTT DOCOMO announced an investment and consolidation, and Monex, Inc. is on track to be positioned as the securities core business of [[megabanks/ndfg]] (the DOCOMO-affiliated financial group) (to be disclosed at 2026 年).
+Monex Group, Inc. is a TSE Prime 8698 holding company spanning a domestic online brokerage, U.S.-based TradeStation, and crypto-asset businesses. The current legal entity was established on 2004-08-02; its predecessor Monex, Inc. was established on 1999-04-05. Oki Matsumoto currently chairs the board, while Yuko Seimei is Representative Executive Officer and CEO. Under the capital and business alliance with NTT Docomo, Docomo owns approximately 49% and Monex Group approximately 51% of the intermediate holding company Docomo Monex Holdings. Docomo appoints a majority of its directors and consolidates it and Monex, Inc., while Monex Group accounts for both as equity-method affiliates. ^[Monex Group company profile: https://www.monexgroup.jp/jp/company/profile.html; company history: https://www.monexgroup.jp/en/company/history.htm; directors and executive officers: https://www.monexgroup.jp/jp/company/directors.html; NTT Docomo, capital and business alliance with Monex Group (2023-10-04): https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html]
 
 ## 1. Company overview
 

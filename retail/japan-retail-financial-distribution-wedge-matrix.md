@@ -11,9 +11,9 @@ aliases:
   - "コンビニ・モール小売金融マトリクス"
 domain: retail
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [retail, matrix, financial-distribution, convenience-store, mall, atm, prepaid, points, baas, cvs, finance-wedge, japan]
 status: active
@@ -21,6 +21,8 @@ sources:
   - "https://www.aeon.info/en/company/"
   - "https://www.aeonfinancial.co.jp/en/corp/about/"
   - "https://www.aeonbank.co.jp/company/about/outline/"
+  - "https://www.aeonbank.co.jp/company/about/history/"
+  - "https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/news/2024/news241028.pdf"
   - "https://www.waon.net/about/"
   - "https://www.7andi.com/en/company/profile"
   - "https://www.7andi.com/en/ir/library/co_financial/2025/finance/"
@@ -29,6 +31,8 @@ sources:
   - "https://www.nanaco-net.jp/introduction/"
   - "https://www.lawson.co.jp/company/"
   - "https://www.lawsonbank.jp/"
+  - "https://www.fsa.go.jp/news/30/ginkou/20180810-1/20180810.html"
+  - "https://www.lawson.co.jp/company/gr/"
   - "https://www.kddi.com/corporate/newsrelease/"
   - "https://aupay.auone.jp/"
   - "https://www.ponta.jp/"
@@ -62,7 +66,7 @@ These three differences cascade into materially different CAC for cross-sell, ma
 ### AEON Group — mall-anchored full-stack retail finance
 
 - **Anchor wedge**: General-merchandise stores, supermarkets, and shopping malls. **Multi-hour dwell time** means counter-led sales (card application, insurance lead, mortgage consult) are economic — fundamentally different from convenience-store throughput economics.
-- **Bank charter**: [[card-issuers/aeon-bank|Aeon Bank]] (estabished 2007-10-29, ordinary-bank licence under the Banking Act, parent [[card-issuers/aeon-financial-service|Aeon Financial Service]] 100% subsidiary). Full retail bank — deposits, mortgages, investment-trust distribution, insurance distribution. Approximate ATM network of 6,500+ inside AEON-group facilities and stations.
+- **Bank charter**: [[card-issuers/aeon-bank|Aeon Bank]] was established on 2006-05-15 and obtained its banking licence and began operations in 2007-10. It is a wholly owned subsidiary of AFS Corporation within the consolidated [[card-issuers/aeon-financial-service|AEON Financial Service]] group and operates a full retail bank spanning deposits, mortgages, investment-trust distribution, and insurance distribution. ^[AEON Bank company outline: https://www.aeonbank.co.jp/company/about/outline/; AEON Bank history: https://www.aeonbank.co.jp/company/about/history/; AEON Financial Service, corporate reorganisation notice (2024-10-28): https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/news/2024/news241028.pdf]
 - **Card issuer arm**: AEON Card under [[card-issuers/aeon-financial-service|Aeon Financial Service]] (AFS, TSE Prime 8570) — among the largest domestic credit-card issuers by number of cards in circulation. Card + WAON dual-rail issuance, Visa / Mastercard / JCB brand variants.
 - **Prepaid e-money**: **WAON** (FeliCa-based stored-value electronic money under the Payment Services Act prepaid-payment-instrument register). Closed scheme; merchant footprint deepest in AEON stores; accepted in many transit-adjacent and convenience-store merchants.
 - **Point currency**: **WAON POINT** — closed in-group reward. Cross-program conversion to other 共通ポイント schemes is limited; the loyalty value is intra-group stickiness, not network effects.
@@ -90,7 +94,7 @@ These three differences cascade into materially different CAC for cross-sell, ma
 ### Lawson + KDDI — convenience-store + telco hybrid (post-2024)
 
 - **Anchor wedge**: Lawson convenience-store density (**third-largest CVS chain by store count after 7-Eleven and FamilyMart**; publicly reported around 14,000+ domestic stores). After the 2024-02 joint take-private (¥10,360 per share, KDDI + Mitsubishi Corp 50/50, completed mid-2024), the wedge becomes **CVS density × KDDI au subscriber base × Pontaポイント alliance**. The strategic asset added is not new bank licensing — it is the au PAY economic zone routed through Lawson POS and the Pontaポイント network.
-- **Bank charter**: [[regional-banks/lawson-bank|Lawson Bank]] (established 2017-11-15, opened 2018-10-15, ordinary-bank licence). Substantially smaller than [[regional-banks/seven-bank|Seven Bank]] both by ATM count (approximately 13,000 ATMs in Lawson stores) and by partner-bank reach. Indirect exposure to **au じぶん銀行** through the KDDI parent — see [[megabanks/au-fh|au Financial Holdings]].
+- **Bank charter**: The preparatory company for [[regional-banks/lawson-bank|Lawson Bank]] was established in 2016-11, obtained an ordinary-bank licence on 2018-08-10, and began banking operations on 2018-10-15. At licensing, Lawson held 95% and MUFG Bank 5%; Lawson's current group profile reports more than 13,500 ATMs nationwide. The post-2024 Lawson parent structure also creates indirect exposure to **au じぶん銀行** through KDDI — see [[megabanks/au-fh|au Financial Holdings]]. ^[FSA, grant of banking licence to Lawson Bank (2018-08-10): https://www.fsa.go.jp/news/30/ginkou/20180810-1/20180810.html; Lawson corporate history: https://www.lawson.co.jp/company/corporate/data/history/detail/development.html; Lawson group companies: https://www.lawson.co.jp/company/gr/]
 - **Card issuer arm**: Lawson does not own a primary credit-card issuer at the AEON Card / Seven Card scale. **au PAY Card** (issued through KDDI-side au Financial Holdings) is the credit card pushed through Lawson channel post-2024. Lawson Ponta credit-card variants exist but the card-issuer centre of gravity sits inside the KDDI economic zone, not inside Lawson.
 - **Prepaid e-money**: Lawson does **not run a proprietary FeliCa-based stored-value scheme** comparable to WAON or nanaco. POS accepts transit IC (Suica / PASMO / ICOCA family) and the major code-payment wallets. This is a structural difference — no closed prepaid lock-in.
 - **Point currency**: **Pontaポイント** — **multi-brand alliance**, operated by Loyalty Marketing, Inc. (Mitsubishi Corp group after the CCC business carve-out). Members include JAL, KDDI, gas stations (Shell / ENEOS), Hot Pepper / restaurants, Lawson, and many non-Lawson merchants. Network effects fundamentally different from WAON POINT / nanaco point.

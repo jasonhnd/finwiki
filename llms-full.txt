@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T05:27:37+09:00
+Generated: 2026-07-29T06:02:55+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1598
-Public pages listed: 1597
+Markdown files: 1599
+Public pages listed: 1598
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1597
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Regional-bank, retail-finance, and securities-firm low-marker corrections (#224), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -17213,6 +17213,15 @@ Public pages listed: 1597
 - Domain: releases
 - Type: release_note
 - Headings: 決済9ページの出典警告と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 地域銀行・小売金融・証券13ページの出典校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-9.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-9.md
+- Source path: releases/v2026.07.29-9.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-9.md
+- Domain: releases
+- Type: release_note
+- Headings: 地域銀行・小売金融・証券13ページの出典校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### エントリ発見グラフのビルド最適化
 - URL: https://finwiki.zksc.io/releases/v2026.07.29.md

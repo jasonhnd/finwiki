@@ -28,9 +28,9 @@
     "domain": "retail",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "retail",
@@ -54,6 +54,8 @@
       "https://www.aeon.info/en/company/",
       "https://www.aeonfinancial.co.jp/en/corp/about/",
       "https://www.aeonbank.co.jp/company/about/outline/",
+      "https://www.aeonbank.co.jp/company/about/history/",
+      "https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/news/2024/news241028.pdf",
       "https://www.waon.net/about/",
       "https://www.7andi.com/en/company/profile",
       "https://www.7andi.com/en/ir/library/co_financial/2025/finance/",
@@ -62,6 +64,8 @@
       "https://www.nanaco-net.jp/introduction/",
       "https://www.lawson.co.jp/company/",
       "https://www.lawsonbank.jp/",
+      "https://www.fsa.go.jp/news/30/ginkou/20180810-1/20180810.html",
+      "https://www.lawson.co.jp/company/gr/",
       "https://www.kddi.com/corporate/newsrelease/",
       "https://aupay.auone.jp/",
       "https://www.ponta.jp/",
@@ -154,8 +158,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 32320,
-    "word_like_tokens": 5435,
+    "nonspace_chars": 33233,
+    "word_like_tokens": 5594,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-04"
   }

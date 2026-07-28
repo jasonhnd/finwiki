@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T05:27:37+09:00",
+  "generated_at": "2026-07-29T06:02:55+09:00",
   "counts": {
-    "markdown_files": 1598,
-    "public_markdown_pages": 1597,
+    "markdown_files": 1599,
+    "public_markdown_pages": 1598,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10903387,
-    "word_like_tokens": 1756023,
+    "nonspace_utf8_chars": 10925078,
+    "word_like_tokens": 1759935,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223)",
+        "2026-07-29 - Regional-bank, retail-finance, and securities-firm low-marker corrections (#224)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222)"
+        "2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 208601,
-      "word_like_tokens": 38129,
+      "nonspace_chars": 216159,
+      "word_like_tokens": 39521,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 18538,
-      "word_like_tokens": 3220,
+      "nonspace_chars": 19255,
+      "word_like_tokens": 3320,
       "last_modified": "2026-07-29"
     },
     {
@@ -79502,8 +79502,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2654,
-      "word_like_tokens": 386,
+      "nonspace_chars": 2853,
+      "word_like_tokens": 423,
       "last_modified": "2026-06-05"
     },
     {
@@ -81255,8 +81255,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3294,
-      "word_like_tokens": 502,
+      "nonspace_chars": 3560,
+      "word_like_tokens": 542,
       "last_modified": "2026-06-08"
     },
     {
@@ -83103,8 +83103,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5183,
-      "word_like_tokens": 805,
+      "nonspace_chars": 5149,
+      "word_like_tokens": 795,
       "last_modified": "2026-07-28"
     },
     {
@@ -83459,8 +83459,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6994,
-      "word_like_tokens": 1291,
+      "nonspace_chars": 7246,
+      "word_like_tokens": 1324,
       "last_modified": "2026-06-23"
     },
     {
@@ -83621,8 +83621,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3635,
-      "word_like_tokens": 505,
+      "nonspace_chars": 3848,
+      "word_like_tokens": 540,
       "last_modified": "2026-06-08"
     },
     {
@@ -84804,8 +84804,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6389,
-      "word_like_tokens": 1231,
+      "nonspace_chars": 7099,
+      "word_like_tokens": 1333,
       "last_modified": "2026-06-08"
     },
     {
@@ -85995,8 +85995,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6259,
-      "word_like_tokens": 1241,
+      "nonspace_chars": 6715,
+      "word_like_tokens": 1337,
       "last_modified": "2026-07-29"
     },
     {
@@ -89413,6 +89413,39 @@
       "last_modified": "2026-07-29"
     },
     {
+      "source_path": "releases/v2026.07.29-9.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-9.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-9.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-9.md",
+      "title": "地域銀行・小売金融・証券13ページの出典校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "地域銀行・小売金融・証券13ページの出典校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 9453,
+      "word_like_tokens": 1774,
+      "last_modified": "2026-07-29"
+    },
+    {
       "source_path": "releases/v2026.07.29.md",
       "url": "https://finwiki.zksc.io/releases/v2026.07.29.md",
       "html_url": null,
@@ -89843,8 +89876,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 32320,
-      "word_like_tokens": 5435,
+      "nonspace_chars": 33233,
+      "word_like_tokens": 5594,
       "last_modified": "2026-06-04"
     },
     {
@@ -90434,8 +90467,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4608,
-      "word_like_tokens": 672,
+      "nonspace_chars": 4602,
+      "word_like_tokens": 689,
       "last_modified": "2026-06-06"
     },
     {
@@ -91258,8 +91291,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5174,
-      "word_like_tokens": 828,
+      "nonspace_chars": 5053,
+      "word_like_tokens": 801,
       "last_modified": "2026-06-06"
     },
     {
@@ -91754,8 +91787,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4733,
-      "word_like_tokens": 702,
+      "nonspace_chars": 5044,
+      "word_like_tokens": 746,
       "last_modified": "2026-06-22"
     },
     {
@@ -92020,8 +92053,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4951,
-      "word_like_tokens": 799,
+      "nonspace_chars": 5069,
+      "word_like_tokens": 818,
       "last_modified": "2026-06-06"
     },
     {
@@ -92520,8 +92553,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6596,
-      "word_like_tokens": 1064,
+      "nonspace_chars": 6759,
+      "word_like_tokens": 1083,
       "last_modified": "2026-06-22"
     },
     {
@@ -92733,8 +92766,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5911,
-      "word_like_tokens": 919,
+      "nonspace_chars": 5812,
+      "word_like_tokens": 892,
       "last_modified": "2026-06-06"
     },
     {
@@ -106426,8 +106459,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3376,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3998,
+      "word_like_tokens": 735,
       "last_modified": "2026-07-29"
     }
   ]

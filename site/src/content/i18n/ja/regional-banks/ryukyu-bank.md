@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ryukyu-bank
-source_hash: 937d04c275307914
+source_hash: 09e65919ac41cf8a
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社琉球銀行"
-translated_at: 2026-06-02T15:14:17.140Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # 株式会社琉球銀行
@@ -26,6 +26,8 @@ translated_at: 2026-06-02T15:14:17.140Z
 **設立**：1948-05-01（琉球列島米国民政府布令第 1 号「琉球銀行設立に関する布令」による設立）
 **本店**：沖縄県那覇市久茂地 1-11-1
 **形態**：単独上場銀行（持株会社化していない、メガバンク・大手地銀の多くが採用する FG 構造を取らず）
+**上場沿革**：1983-10 に東証第二部・福証へ上場、1985-09 に東証第一部へ指定替え
+^[琉球銀行「会社概要」: https://www.ryugin.co.jp/corporate/about/profile/; 琉球銀行「沿革」: https://www.ryugin.co.jp/corporate/about/history/]
 
 ### 設立の特殊性
 

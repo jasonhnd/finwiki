@@ -1,11 +1,11 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: d8a5097363d4d662
+source_hash: 0f7a72b2cf9c0339
 lang: ja
 status: machine
 fidelity: ok
 title: "SMBC 日興証券 (SMBC Nikko Securities)"
-translated_at: 2026-06-02T15:14:17.111Z
+translated_at: 2026-07-28T20:55:25Z
 ---
 
 # SMBC 日興証券 (SMBC Nikko Securities)
@@ -22,11 +22,13 @@ translated_at: 2026-06-02T15:14:17.111Z
 
 **正式名**：SMBC 日興証券株式会社
 **英名**：SMBC Nikko Securities Inc.
-**設立**：1944（旧 日興証券として）/ 起源 1918（川島屋商店）
-**現法人名称**：2011-04-01（SMBC 日興証券に改称）
+**現法人の設立**：2009-06-15（2009-10-01 営業開始）
+**前身の沿革**：1918 年の川島屋商店創業、1944 年の日興證券設立へ遡る
 **本社**：東京都千代田区丸の内
 **親会社**：株式会社三井住友フィナンシャルグループ（[[megabanks/smfg]]、100% 連結子会社）
-**業態**：国内大手 5 大証券（非上場・親会社経由 [[megabanks/smfg]] 8316 上場）
+**登録番号**：関東財務局長（金商）第 2251 号
+**業態**：第一種金融商品取引業者（非上場・親会社経由 [[megabanks/smfg]] 8316 上場）
+^[SMBC 日興証券「会社概要」: https://www.smbcnikko.co.jp/company/info/profile/; 同「沿革」: https://www.smbcnikko.co.jp/company/info/profile/history/]
 
 ### 主要子会社・関連会社（公開情報ベース）
 
