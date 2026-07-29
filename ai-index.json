@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T19:24:17+09:00",
+  "generated_at": "2026-07-29T19:24:35+09:00",
   "counts": {
     "markdown_files": 1605,
     "public_markdown_pages": 1604,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10853444,
-    "word_like_tokens": 1748860,
+    "nonspace_utf8_chars": 10850093,
+    "word_like_tokens": 1748315,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -17460,7 +17460,7 @@
       "entity_edges": [],
       "nonspace_chars": 13821,
       "word_like_tokens": 2276,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/cds-japan-corporate-spread-mechanics.md",
@@ -17540,7 +17540,7 @@
       "entity_edges": [],
       "nonspace_chars": 17782,
       "word_like_tokens": 2760,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/corporate-fx-hedge-policy-japan-listed.md",
@@ -17608,7 +17608,7 @@
       "entity_edges": [],
       "nonspace_chars": 15517,
       "word_like_tokens": 2445,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/cross-currency-basis-swap-japan.md",
@@ -17678,7 +17678,7 @@
       "entity_edges": [],
       "nonspace_chars": 11788,
       "word_like_tokens": 2084,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/dealer-bank-derivatives-revenue-mix.md",
@@ -17778,7 +17778,7 @@
       "entity_edges": [],
       "nonspace_chars": 11508,
       "word_like_tokens": 1730,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/equity-volatility-hedging-corporates-japan.md",
@@ -17878,7 +17878,7 @@
       "entity_edges": [],
       "nonspace_chars": 19530,
       "word_like_tokens": 3009,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/fx-options-japan-corporate-treasury.md",
@@ -17950,7 +17950,7 @@
       "entity_edges": [],
       "nonspace_chars": 15752,
       "word_like_tokens": 2607,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/fx-stp-broker-aggregation.md",
@@ -18028,7 +18028,7 @@
       "entity_edges": [],
       "nonspace_chars": 14927,
       "word_like_tokens": 2467,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/isda-2020-protocol-japan-implementation.md",
@@ -18110,7 +18110,7 @@
       "entity_edges": [],
       "nonspace_chars": 14398,
       "word_like_tokens": 2318,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-cds-market-overview.md",
@@ -18180,7 +18180,7 @@
       "entity_edges": [],
       "nonspace_chars": 8485,
       "word_like_tokens": 1425,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-cms-constant-maturity-swap.md",
@@ -18254,7 +18254,7 @@
       "entity_edges": [],
       "nonspace_chars": 8716,
       "word_like_tokens": 1553,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-equity-derivatives-product-matrix.md",
@@ -18396,7 +18396,7 @@
       "entity_edges": [],
       "nonspace_chars": 10546,
       "word_like_tokens": 1790,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-interest-rate-derivatives-overview.md",
@@ -18484,7 +18484,7 @@
       "entity_edges": [],
       "nonspace_chars": 11673,
       "word_like_tokens": 1804,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-irs-market.md",
@@ -18570,7 +18570,7 @@
       "entity_edges": [],
       "nonspace_chars": 10861,
       "word_like_tokens": 1772,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-otc-derivative-market-overview.md",
@@ -18677,7 +18677,7 @@
       "entity_edges": [],
       "nonspace_chars": 8521,
       "word_like_tokens": 1285,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-rates-derivative-product-matrix.md",
@@ -18753,7 +18753,7 @@
       "entity_edges": [],
       "nonspace_chars": 12641,
       "word_like_tokens": 2090,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-single-stock-options.md",
@@ -18827,7 +18827,7 @@
       "entity_edges": [],
       "nonspace_chars": 10699,
       "word_like_tokens": 1700,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/japan-swaption-market.md",
@@ -18905,7 +18905,7 @@
       "entity_edges": [],
       "nonspace_chars": 10705,
       "word_like_tokens": 1681,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/jgb-futures-curve.md",
@@ -18983,7 +18983,7 @@
       "entity_edges": [],
       "nonspace_chars": 10798,
       "word_like_tokens": 1831,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/jgb-inflation-linked-bond-jgbi.md",
@@ -19059,7 +19059,7 @@
       "entity_edges": [],
       "nonspace_chars": 9762,
       "word_like_tokens": 1651,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/jgb-special-participants-primary-dealer.md",
@@ -19145,7 +19145,7 @@
       "entity_edges": [],
       "nonspace_chars": 8808,
       "word_like_tokens": 1376,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/nikkei-225-futures-options.md",
@@ -19217,7 +19217,7 @@
       "entity_edges": [],
       "nonspace_chars": 12592,
       "word_like_tokens": 2058,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/nikkei-vix-jpx-vi-equivalent.md",
@@ -19303,7 +19303,7 @@
       "entity_edges": [],
       "nonspace_chars": 13902,
       "word_like_tokens": 2281,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/ois-tona-curve.md",
@@ -19385,7 +19385,7 @@
       "entity_edges": [],
       "nonspace_chars": 10616,
       "word_like_tokens": 1766,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/otc-clearing-jp-trade-repository.md",
@@ -19477,7 +19477,7 @@
       "entity_edges": [],
       "nonspace_chars": 12845,
       "word_like_tokens": 1964,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/retail-fx-margin-trade-japan.md",
@@ -19543,7 +19543,7 @@
       "entity_edges": [],
       "nonspace_chars": 17274,
       "word_like_tokens": 2832,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/structured-bond-japan-retail-issuance.md",
@@ -19627,7 +19627,7 @@
       "entity_edges": [],
       "nonspace_chars": 14237,
       "word_like_tokens": 2288,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/structured-product-eb-knockin-japan-retail.md",
@@ -19711,7 +19711,7 @@
       "entity_edges": [],
       "nonspace_chars": 16667,
       "word_like_tokens": 2724,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/swap-execution-facility-japan.md",
@@ -19809,7 +19809,7 @@
       "entity_edges": [],
       "nonspace_chars": 9890,
       "word_like_tokens": 1506,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/topix-futures.md",
@@ -19879,7 +19879,7 @@
       "entity_edges": [],
       "nonspace_chars": 8632,
       "word_like_tokens": 1431,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "derivatives/yen-basis-swap-market.md",
@@ -19953,7 +19953,7 @@
       "entity_edges": [],
       "nonspace_chars": 8917,
       "word_like_tokens": 1484,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "domain-bridge-navigation-guide.md",
@@ -96523,7 +96523,7 @@
       "entity_edges": [],
       "nonspace_chars": 4087,
       "word_like_tokens": 623,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/aircraft-leasing-financing-japan-shosha.md",
@@ -96575,7 +96575,7 @@
       "entity_edges": [],
       "nonspace_chars": 4543,
       "word_like_tokens": 690,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/auto-loan-abs-japan-toyota-honda.md",
@@ -96627,7 +96627,7 @@
       "entity_edges": [],
       "nonspace_chars": 3410,
       "word_like_tokens": 526,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/consumer-loan-abs-japan-card-issuer.md",
@@ -96681,7 +96681,7 @@
       "entity_edges": [],
       "nonspace_chars": 3787,
       "word_like_tokens": 578,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/credit-rating-methodology-jcr-r-and-i.md",
@@ -96749,7 +96749,7 @@
       "entity_edges": [],
       "nonspace_chars": 6103,
       "word_like_tokens": 994,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/fitch-moody-sp-japan-criteria.md",
@@ -96816,7 +96816,7 @@
       "entity_edges": [],
       "nonspace_chars": 7852,
       "word_like_tokens": 1290,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/infrastructure-finance-spv-japan.md",
@@ -96956,7 +96956,7 @@
       "entity_edges": [],
       "nonspace_chars": 4443,
       "word_like_tokens": 684,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-auto-loan-abs-waterfall-mechanics.md",
@@ -97010,7 +97010,7 @@
       "entity_edges": [],
       "nonspace_chars": 5851,
       "word_like_tokens": 882,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-clo-issuance-japanese-banks.md",
@@ -97129,7 +97129,7 @@
       "entity_edges": [],
       "nonspace_chars": 3919,
       "word_like_tokens": 594,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-consumer-loan-abs-structure.md",
@@ -97187,7 +97187,7 @@
       "entity_edges": [],
       "nonspace_chars": 5361,
       "word_like_tokens": 822,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-covered-bond-mufg-smbc.md",
@@ -97267,7 +97267,7 @@
       "entity_edges": [],
       "nonspace_chars": 9313,
       "word_like_tokens": 1518,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-credit-card-receivable-abs.md",
@@ -97322,7 +97322,7 @@
       "entity_edges": [],
       "nonspace_chars": 4840,
       "word_like_tokens": 733,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-equipment-lease-abs.md",
@@ -97377,7 +97377,7 @@
       "entity_edges": [],
       "nonspace_chars": 4338,
       "word_like_tokens": 652,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-green-securitization.md",
@@ -97433,7 +97433,7 @@
       "entity_edges": [],
       "nonspace_chars": 5922,
       "word_like_tokens": 930,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-rmbs-issuance-structure.md",
@@ -97488,7 +97488,7 @@
       "entity_edges": [],
       "nonspace_chars": 3769,
       "word_like_tokens": 591,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-securitization-product-matrix.md",
@@ -97568,7 +97568,7 @@
       "entity_edges": [],
       "nonspace_chars": 9770,
       "word_like_tokens": 1535,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/japan-trust-beneficial-interest-vs-spv.md",
@@ -97639,7 +97639,7 @@
       "entity_edges": [],
       "nonspace_chars": 10716,
       "word_like_tokens": 1691,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md",
@@ -97700,7 +97700,7 @@
       "entity_edges": [],
       "nonspace_chars": 7101,
       "word_like_tokens": 1112,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/jhf-mbs-mechanics.md",
@@ -97766,7 +97766,7 @@
       "entity_edges": [],
       "nonspace_chars": 9112,
       "word_like_tokens": 1538,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/jhf-mbs-vs-private-rmbs-spread.md",
@@ -97832,7 +97832,7 @@
       "entity_edges": [],
       "nonspace_chars": 7879,
       "word_like_tokens": 1297,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/npl-securitization-japan.md",
@@ -98032,7 +98032,7 @@
       "entity_edges": [],
       "nonspace_chars": 3854,
       "word_like_tokens": 560,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/ship-financing-japan-megabank.md",
@@ -98177,7 +98177,7 @@
       "entity_edges": [],
       "nonspace_chars": 6690,
       "word_like_tokens": 1032,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "structured-finance/synthetic-securitization-japan-bank-rwa-relief.md",
@@ -98322,7 +98322,7 @@
       "entity_edges": [],
       "nonspace_chars": 6955,
       "word_like_tokens": 1057,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "systems/INDEX.md",
@@ -106161,8 +106161,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6726,
-      "word_like_tokens": 1171,
+      "nonspace_chars": 3375,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]

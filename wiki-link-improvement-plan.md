@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 54 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,60 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `derivatives/basis-trade-bond-cds-japan.md` | `M` | 13 | ok |
-| `derivatives/cds-japan-corporate-spread-mechanics.md` | `M` | 21 | ok |
-| `derivatives/corporate-fx-hedge-policy-japan-listed.md` | `M` | 20 | ok |
-| `derivatives/cross-currency-basis-swap-japan.md` | `M` | 9 | ok |
-| `derivatives/dealer-bank-derivatives-revenue-mix.md` | `M` | 20 | ok |
-| `derivatives/equity-volatility-hedging-corporates-japan.md` | `M` | 51 | ok |
-| `derivatives/fx-options-japan-corporate-treasury.md` | `M` | 15 | ok |
-| `derivatives/fx-stp-broker-aggregation.md` | `M` | 17 | ok |
-| `derivatives/isda-2020-protocol-japan-implementation.md` | `M` | 8 | ok |
-| `derivatives/japan-cds-market-overview.md` | `M` | 9 | ok |
-| `derivatives/japan-cms-constant-maturity-swap.md` | `M` | 11 | ok |
-| `derivatives/japan-inflation-swap.md` | `M` | 11 | ok |
-| `derivatives/japan-interest-rate-derivatives-overview.md` | `M` | 19 | ok |
-| `derivatives/japan-irs-market.md` | `M` | 12 | ok |
-| `derivatives/japan-otc-derivative-market-overview.md` | `M` | 25 | ok |
-| `derivatives/japan-rates-derivative-product-matrix.md` | `M` | 20 | ok |
-| `derivatives/japan-single-stock-options.md` | `M` | 12 | ok |
-| `derivatives/japan-swaption-market.md` | `M` | 13 | ok |
-| `derivatives/jgb-futures-curve.md` | `M` | 9 | ok |
-| `derivatives/jgb-inflation-linked-bond-jgbi.md` | `M` | 8 | ok |
-| `derivatives/jgb-special-participants-primary-dealer.md` | `M` | 6 | ok |
-| `derivatives/nikkei-225-futures-options.md` | `M` | 16 | ok |
-| `derivatives/nikkei-vix-jpx-vi-equivalent.md` | `M` | 11 | ok |
-| `derivatives/ois-tona-curve.md` | `M` | 9 | ok |
-| `derivatives/otc-clearing-jp-trade-repository.md` | `M` | 13 | ok |
-| `derivatives/retail-fx-margin-trade-japan.md` | `M` | 13 | ok |
-| `derivatives/structured-bond-japan-retail-issuance.md` | `M` | 11 | ok |
-| `derivatives/structured-product-eb-knockin-japan-retail.md` | `M` | 12 | ok |
-| `derivatives/swap-execution-facility-japan.md` | `M` | 11 | ok |
-| `derivatives/topix-futures.md` | `M` | 9 | ok |
-| `derivatives/yen-basis-swap-market.md` | `M` | 11 | ok |
-| `structured-finance/abcp-conduit-japan-megabank.md` | `M` | 5 | ok |
-| `structured-finance/aircraft-leasing-financing-japan-shosha.md` | `M` | 4 | ok |
-| `structured-finance/auto-loan-abs-japan-toyota-honda.md` | `M` | 5 | ok |
-| `structured-finance/consumer-loan-abs-japan-card-issuer.md` | `M` | 5 | ok |
-| `structured-finance/credit-rating-methodology-jcr-r-and-i.md` | `M` | 8 | ok |
-| `structured-finance/fitch-moody-sp-japan-criteria.md` | `M` | 6 | ok |
-| `structured-finance/japan-abs-market-overview.md` | `M` | 4 | ok |
-| `structured-finance/japan-auto-loan-abs-waterfall-mechanics.md` | `M` | 5 | ok |
-| `structured-finance/japan-cmbs-issuance-structure.md` | `M` | 5 | ok |
-| `structured-finance/japan-consumer-loan-abs-structure.md` | `M` | 5 | ok |
-| `structured-finance/japan-covered-bond-mufg-smbc.md` | `M` | 13 | ok |
-| `structured-finance/japan-credit-card-receivable-abs.md` | `M` | 5 | ok |
-| `structured-finance/japan-equipment-lease-abs.md` | `M` | 5 | ok |
-| `structured-finance/japan-green-securitization.md` | `M` | 5 | ok |
-| `structured-finance/japan-rmbs-issuance-structure.md` | `M` | 5 | ok |
-| `structured-finance/japan-securitization-product-matrix.md` | `M` | 12 | ok |
-| `structured-finance/japan-trust-beneficial-interest-vs-spv.md` | `M` | 7 | ok |
-| `structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md` | `M` | 3 | ok |
-| `structured-finance/jhf-mbs-mechanics.md` | `M` | 8 | ok |
-| `structured-finance/jhf-mbs-vs-private-rmbs-spread.md` | `M` | 8 | ok |
-| `structured-finance/repackaging-note-japan.md` | `M` | 3 | ok |
-| `structured-finance/spv-tk-gk-vehicle-japan-tax.md` | `M` | 5 | ok |
-| `structured-finance/tmk-special-purpose-company-mechanics.md` | `M` | 5 | ok |
 
 ## Domain Snapshot
 
