@@ -1,11 +1,11 @@
 ---
 source: card-issuers/view-card
-source_hash: ecb2a4d70802bfde
+source_hash: 534e1238473c455f
 lang: en
 status: machine
 fidelity: ok
 title: "Viewcard Co., Ltd. (Viewcard)"
-translated_at: 2026-06-18T23:33:48.283Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Viewcard Co., Ltd. (Viewcard)
@@ -17,27 +17,25 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-Viewcard Co., Ltd. is **a wholly owned subsidiary of JR East that issues and operates credit cards under the "View Card" brand**. Established 2009年10月 (spun off from the former JR East credit-card business division), head office in Osaki, Shinagawa-ku, Tokyo, capital of 50 億円, employees 590 名 (as of 2024-04 ). As **the flagship issuer of "Suica"-integrated cards**, it forms the core of the cashless / mobility economy of the JR East group. Unlike other card companies, it holds a **bank-agency registration**, and has a wide range of financial functions including Suica charging and card-loan intermediation. Competitors include [[card-issuers/jal-card|JAL カード]], ANA Card (aviation-affiliated), and [[card-issuers/credit-saison|セゾン]] / [[card-issuers/epos-card|エポス]] (distribution-affiliated), etc.
+Viewcard Co., Ltd. is a 100%-owned JR East subsidiary. Its official company overview states that it was established on 2009-09-01, has capital of 50 億円, and conducts credit-card, financial, bank-agency, and prepaid-payment-instrument businesses. Bank-agency business is stated in that overview; it is not inferred from Suica charging or card-loan intermediation. ^[verified-2026-07-29]
 
 ## 1. Corporation / shareholders
 
 - **Trade name**: Viewcard Co., Ltd. (English: Viewcard Co., Ltd.)
-- **Established**: 2009年10月1日 (spun off the credit-card business division of East Japan Railway Company)
-- **Head-office location**: 〒141-8540  Osaki 1-5-1 , Shinagawa-ku, Tokyo, Osaki New City Building 1号
+- **Established**: 2009-9-1
+- **Head-office location**: Osaki Ichome 5-1, Shinagawa-ku, Tokyo, Osaki Center Building
 - **Capital**: 50 億円
 - **Corporate number**: 2010701023263
 - **Parent company**: a wholly owned subsidiary with 100% investment from East Japan Railway Company (JR East, TSE PRIME 9020)
-- **Representative**: Representative Director and President
-- **Number of employees**: 590 名 (as of 2024 年 4 月 1 日)
+- **Number of employees**: 645 (as of 2026-4-1)
 
 ## 2. License / registration
 
 - **Installment Sales Act**: registered with METI as a comprehensive credit-purchase intermediary
 - **Operator concluding contracts for handling credit-card numbers, etc.**: registered with METI
-- **Bank agent**: bears the bank-agency business related to the JR East group (a distinctive license, not held by other card companies)
+- **Bank-agency business**: listed as a business activity in the official company overview
 - **Industry body**: [[card-issuers/jcb|日本クレジット協会]] (JCA) member
 - **International brand partnerships**: JCB / VISA / Mastercard
-- **Issuance cooperation**: in addition to its own issuance, it also bundles card functions of the [[card-issuers/jr-east-financial|JR東日本ファイナンシャル]]-affiliated group
 
 ## 3. Product line
 
@@ -50,12 +48,9 @@ Viewcard Co., Ltd. is **a wholly owned subsidiary of JR East that issues and ope
 - **View Gold Plus Card** — gold-class
 - **Viewcard Premium** — upper tier
 
-## 4. Key KPIs (publicly disclosed basis)
+## 4. Treatment of disclosed figures
 
-- **Number of members**: over approximately 600 万 people (based on the JR East group integrated report)
-- **Suica charge transaction volume**: the flagship channel of auto-charge + JRE POINT rewards
-- **JRE POINT economic-sphere members**: over 1,900 万 people (JR East overall, integrated Suica + Viewcard ID)
-- **Transaction volume**: not disclosed (integrated into the parent company JR East's "IT / Suica business" segment)
+This page uses the official company facts of capital 50 億円, JR East's 100% ownership, and 645 employees as of 2026-04-01. It does not state fixed membership, JRE POINT membership, or transaction-volume figures without an identified primary source.
 
 ## 5. Industry position
 
@@ -69,19 +64,13 @@ Viewcard Co., Ltd. is **a wholly owned subsidiary of JR East that issues and ope
 
 | Year/month | Item |
 |------|------|
-| latter half of the 1980 年s | JR East brought the credit-card business in-house |
-| 2001-11  | Suica service started — integrated card products of View Card and Suica expanded |
-| 2007-03  | Mobile Suica service started |
-| 2009-10-01 | Viewcard Co., Ltd. established (spinoff of the JR East credit-card business division) |
-| 2010  | Expanded operation of "View Thanks Points," the predecessor of the JRE POINT system |
-| 2016-06  | JRE POINT integration — Suica + Viewcard + JRE POINT integrated into 1  ID economic sphere |
-| 2019-10  | Mobile Suica function expansion, progress in Apple Pay / Google Pay support |
-| 2022  | Expansion of Viewcard Premium card loans (utilizing the bank-agent license) |
-| 2024-04  | Number of employees 590 名, Suica + Viewcard + JRE POINT consolidated into the JR East integrated ID |
+| 2009-09-01 | Viewcard Co., Ltd. established |
+
+Sources: [Viewcard company overview](https://www.viewcard.co.jp/company.html) for company formation and current corporate facts. Unsupported product-history and inferred bank-agency rows were removed.
 
 ## 7. Affiliated companies / business partners
 
-- **Parent company**: [[card-issuers/jr-east-financial|JR East Financial]] / East Japan Railway Company
+- **Parent company**: East Japan Railway Company
 - **International brands**: JCB / VISA / Mastercard
 - **Jointly issued cards**: [[card-issuers/jal-card|JAL カード Suica]]
 - **Member-store partners**: Bic Camera (Bic Camera Suica Card), JR East ekinaka member-store network (NewDays / ecute, etc.)
@@ -89,11 +78,11 @@ Viewcard Co., Ltd. is **a wholly owned subsidiary of JR East that issues and ope
 
 ## 8. Why a standalone page is needed
 
-A standalone comparison benchmark is needed by separating, from JR East's main [[card-issuers/jr-east-financial|JR East Financial]] page, the license boundary as a card issuer, the bank-agent license, the JRE POINT ecosystem, and the Suica-integrated card strategy. It is also essential for accurately recording the rare composite license of **"a card company holding a bank-agent license."**
+This page separates JR East from the operating company and confirms the credit-card, financial, bank-agency, and prepaid-payment-instrument businesses listed for the same legal entity in its company overview.
 
 ## Related
 
-- [[card-issuers/jr-east-financial|JR East Financial]] — parent company / group financial parent
+- [[card-issuers/jr-east-financial|JR East card and bank-agency services]] — group legal-entity and service boundaries
 - [[card-issuers/jal-card|JAL Card]] — jointly issued JAL Card Suica
 - [[card-issuers/credit-saison|Credit Saison]] — distribution-affiliated comparison
 - [[card-issuers/epos-card|エポスカード]] — distribution-affiliated comparison
@@ -114,4 +103,4 @@ A standalone comparison benchmark is needed by separating, from JR East's main [
 ---
 
 > [!info] Verification status
-> confidence: **likely** (based on the publicly disclosed company overview / JR East integrated report). The capital of 50 億円 and the number of employees 590 名 are official (as of 2024-04-01). Precise figures for transaction volume / number of members are consolidated into the parent company's disclosure.
+> confidence: **likely** (rechecked 2026-07-29). Establishment date, location, capital, shareholder, business activities, and employee count are based on Viewcard's official company overview.

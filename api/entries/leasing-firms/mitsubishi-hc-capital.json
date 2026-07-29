@@ -46,7 +46,7 @@
       "https://ja.wikipedia.org/wiki/三菱HCキャピタル"
     ]
   },
-  "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / parent context, and against the FSA for the supervisory boundary (lessors register",
+  "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / shareholder context, and against the FSA for the supervisory boundary.",
   "headings": [
     "三菱 HC キャピタル (Mitsubishi HC Capital)",
     "Wiki route",
@@ -81,13 +81,15 @@
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.mitsubishi-hc-capital.com/corporate/overview.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2866,
-    "word_like_tokens": 428,
-    "inbound_wikilinks_count": 52,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2935,
+    "word_like_tokens": 440,
+    "inbound_wikilinks_count": 53,
+    "last_modified": "2026-07-29"
   }
 }

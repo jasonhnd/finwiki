@@ -40,6 +40,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain rout
 | Cash-advance lane | カードローン／キャッシング枠は貸金業法の枠組み |
 | Supervision | 金融庁（銀行グループ・貸金）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 
+Sources: [三菱UFJニコス会社情報](https://www.cr.mufg.jp/corporate/company/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html). The card-number merchant-contract registration should be verified in the current METI register.
+
 ## 2. Operating model
 
 三菱UFJニコスは MUFG の retail / merchant payment surface として、card issuing（発行）と merchant acceptance（加盟店 acquiring）の両面を担う。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)、加えてカードローン・加盟店サービスを展開する。日本のカードブランド・信販事業の歴史的な統合点であり、issuing と acquiring を一社で抱える点が、ブランド・ライセンス三位一体型の [[card-issuers/jcb|JCB]] や SMFG ハブの [[card-issuers/smbc-card|三井住友カード]] との比較軸になる。

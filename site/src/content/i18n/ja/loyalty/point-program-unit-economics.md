@@ -1,110 +1,128 @@
 ---
 source: loyalty/point-program-unit-economics
-source_hash: e642486f2a1c480f
+source_hash: 5db31d9de5485aa1
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ポイントプログラムのユニットエコノミクス（日本のロイヤルティの資金原資、フロート、ブレッケージ、CPA）"
-translated_at: 2026-06-26T08:28:38.467Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# ポイントプログラムのユニットエコノミクス（日本のロイヤルティの資金原資、フロート、ブレッケージ、CPA）
+# Point program unit economics (JP loyalty funding, float, breakage, CPA)
 
-## Wiki ルート本項目は**ユニットエコノミクス／資金原資の仕組み**のページとして [[loyalty/INDEX|loyalty index]] の下に位置する。これは [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] の経済的な補完である：あちらのページは*ポイントがどのように分類されるか*を問い、本ページは*そのプログラムが利益を生むのか、そして誰が負担するのか*を問う。本ページは [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム地図、[[loyalty/retail-media-points-data-loop|retail-media points data loop]] のデータ収益化のフライホイール、および [[loyalty/point-exchange-network-risk|point exchange network risk]] の事業者間移転の仕組みと併せて読まれる。有利なポイント経済性の川下の受益者はグループ金融である：[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]。
+## Wiki route
 
-## 要旨ポイントプログラムの経済性は、小さな等式に還元される：**資金原資 − 償還コスト − 運営コスト + ブレッケージ利益 + フロート利回り + 収益化（リテールメディア／金融クロスセル）= プログラムのマージン。**構造的に興味深い二つの項は、**ブレッケージ**（付与されたが決して償還されないポイントは、その*計上時点*が ASBJ 企業会計基準第 29  号／IFRS 第 15 号に支配される、ほぼ純粋なマージン利益である）と、**フロート**（ポイント負債を付与してから償還の支払いをするまでの差は、無利息の資金原資の残高である）である。プログラムが利益を生むかどうかは、表向きの還元率よりも、**誰がポイントの原資を負担するか**（加盟店か事業者か）、**ブレッケージがどれほど高く推移するか**、そして**ID グラフが収益化されているか**に左右される。「1% 還元」のプログラムは一つの経済的対象ではない；それらの答え次第で、少なくとも四つの非常に異なる対象である。
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **unit-economics / funding-mechanics** page. It is the economic complement to [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]: that page asks *how a point is classified*, this page asks *whether the program makes money and who pays*. It reads alongside the program map in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]], the data-monetisation flywheel in [[loyalty/retail-media-points-data-loop|retail-media points data loop]], and the inter-operator transfer mechanics in [[loyalty/point-exchange-network-risk|point exchange network risk]]. The downstream beneficiary of favourable point economics is group finance: [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]].
 
-## ユニットエコノミクスの等式付与されたポイントの代表的な一単位について、事業者の経済性は次のとおりである：
+## TL;DR
 
-| 項 | 符号 | ドライバー |
+A point program's economics reduce to a small equation: **funding source − redemption cost − operating cost + breakage gain + float yield + monetisation (retail media / finance cross-sell) = program margin.** The two structurally interesting terms are **breakage** (points granted but never redeemed are a near-pure margin gain whose *timing* is governed by ASBJ Statement No.29 / IFRS 15) and **float** (the gap between granting a point liability and paying for redemption is a zero-interest funding balance). Whether a program is profitable turns less on the headline reward rate than on **who funds the point** (merchant vs operator), **how high breakage runs**, and **whether the ID graph is monetised**. A "1% back" program is not one economic object; it is at least four very different ones depending on those answers.
+
+## The unit-economics equation
+
+For a representative unit of points granted, the operator's economics are:
+
+| Term | Sign | Driver |
 |---|---|---|
-| 資金の流入 | + | 加盟店原資のポイント：加盟店が発行のために事業者に支払う。事業者原資：純粋なコスト。 |
-| 償還コスト | − | 実際に償還されたポイントの価値（事業者はそれを履行しなければならない） |
-| 運営コスト | − | プラットフォーム、決済、不正対策、データインフラ、パートナー管理 |
-| ブレッケージ利益 | + | 決して償還されないポイント → 負債が収益に振り替えられる（計上時点は会計基準による） |
-| フロート利回り | + | 未償還の負債は、償還まで保有される無利息の残高である |
-| 収益化 | + | ID グラフに帰属するリテールメディア + 金融クロスセルの収益 |
+| Funding inflow | + | Merchant-funded points: the merchant pays the operator to issue. Operator-funded: pure cost. |
+| Redemption cost | − | Value of points actually redeemed (the operator must honour them) |
+| Operating cost | − | Platform, settlement, fraud control, data infrastructure, partner management |
+| Breakage gain | + | Points never redeemed → liability released to revenue (timing per accounting standard) |
+| Float yield | + | Outstanding liability is an interest-free balance held until redemption |
+| Monetisation | + | Retail-media + finance cross-sell revenue attributable to the ID graph |
 
-表向きの「還元率」は*グロスの*償還コストを設定するにすぎない。マージンは他の五つの項によって決まる —— だからこそ、同じパーセンテージの還元を謳う二つのプログラムが正反対の経済性を持ちうる。
+The headline "reward rate" only sets the *gross* redemption cost. Margin is decided by the other five terms — which is why two programs advertising the same percentage back can have opposite economics.
 
-## 資金原資：実際に誰がポイントを負担するのか
+## Funding: who actually pays for the point
 
-最大の単一の経済的な分岐は**資金原資**であり、それは消費者が目にするものとは一致しない。
+The single biggest economic split is the **funding source**, and it does not match what the consumer sees.
 
-| 資金原資のモデル | 誰が負担するか | 事業者の経済性 | 典型的なケース |
+| Funding model | Who pays | Operator economics | Typical case |
 |---|---|---|---|
-| 加盟店原資 | 提携加盟店が発行されたポイントごとに事業者へ支払う | 事業者は発行でマージンを得る + ブレッケージ／フロートを保持する | 提携小売店での共通ポイントの受け入れ |
-| 事業者原資（キャンペーン） | 事業者自身のマーケティング予算 | 純粋な獲得コスト；データ／クロスセルによってのみ回収される | ウォレットの「100% 還元」プロモーション |
-| 発行体原資（カード） | カード発行体がインターチェンジ／手数料から還元の原資を賄う | カードの経済性を守る；還元はインターチェンジのコスト | クレジットカードの還元ポイント |
-| 自己原資（グループ小売） | グループ自身の小売マージン | リテンション支出；リピート購入として回収される | 店舗グループのポイント（食品／コンビニ） |
+| Merchant-funded | Partner merchant pays operator per point issued | Operator earns a margin on issuance + keeps breakage/float | Common-point acceptance at partner retailers |
+| Operator-funded (campaign) | Operator's own marketing budget | Pure acquisition cost; only pays back via data / cross-sell | Wallet "100% 還元" promotions |
+| Issuer-funded (card) | Card issuer funds reward from interchange / fees | Defends card economics; reward is a cost of interchange | Credit-card reward points |
+| Self-funded (group retail) | The group's own retail margin | Retention spend; pays back as repeat purchase | Store-group points (grocery / convenience) |
 
-共通ポイントは通常、**加盟店原資**の中核（発行でマージンがプラス、*さらに*ブレッケージとフロート）の上に、**事業者原資**のキャンペーンの上乗せを重ねて運営される。両者を混同することは [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]] で指摘される典型的な誤読である：キャンペーンの上乗せは直ちに損益計算書を直撃し、プログラムを赤字に見せる一方、加盟店原資の基盤は静かにマージンプラスである。
+A common point typically runs a **merchant-funded** core (margin-positive on issuance, *plus* breakage and float) with an **operator-funded** campaign overlay on top. Conflating the two is the classic misread flagged in [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]]: the campaign overlay hits P&L immediately and makes the program look loss-making, while the merchant-funded base is quietly margin-positive.
 
-## ブレッケージ：マージンのエンジン
+## Breakage: the margin engine
 
-**ブレッケージ** —— 付与されたが決して償還されないポイント —— は、ロイヤルティにおいて純粋なマージン利益に最も近いものである。仕組みとしては：
+**Breakage** — points granted but never redeemed — is the closest thing in loyalty to a pure-margin gain. Mechanically:
 
-- 事業者が決して履行する必要のないポイントは、最終的に収益に振り替えられる負債である。
-- **ASBJ 企業会計基準第 29 号**および **IFRS 第 15 号**の下では、その振替は予想償還期間にわたって*償還のパターンに比例して*認識され —— 失効時に一括ではなく —— かつブレッケージが履歴に基づく**信頼できる見積り**である場合に限られる。見積れない場合には、収益はさらなる償還の可能性が低くなるまで待たれる。
-- ブレッケージが高い = 構造的なマージンが高い；しかしそれはプログラム全体の中で最も**見積りに敏感で、レビューにさらされる**数値でもある。それを過大に計上すると収益が前倒しされる；キャッシュレス推進協議会／Payments Japan の開示規範（比較可能な償還率、失効、未償還残高の報告）は、ブレッケージが収益の平準化のバルブとして用いられるのを止めるために、一つにはそのために存在する。
+- Points the operator never has to honour are a liability that is eventually released to revenue.
+- Under **ASBJ Statement No.29** and **IFRS 15**, that release is recognised *in proportion to the pattern of redemption* over the expected redemption period — not all at once on expiry — and only when breakage is a **reliable estimate** from history. Where it is not estimable, revenue waits until further redemption is remote.
+- Higher breakage = higher structural margin; but it is also the most **estimate-sensitive and review-exposed** number in the whole program. Overstating it pulls revenue forward; the Cashless Promotion Council / Payments Japan disclosure norms (comparable redemption-rate, expiry, outstanding-balance reporting) exist partly to stop breakage being used as a revenue-smoothing valve.
 
-設計上の選択はブレッケージを直接押し上げる：短い失効期間、限定利用のポイント（期間・用途限定）、および高い最低償還の閾値はすべてブレッケージを*高める* —— これが、限定利用のポイントがこれほど普及している（めったに明言されない）一因である。これの会計上の枠組みは [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]] におけるバケット 3  である。
+Design choices push breakage directly: short expiry, limited-use points (期間・用途限定), and high minimum-redemption thresholds all *raise* breakage — which is one (rarely stated) reason limited-use points are so prevalent. The accounting framing of this is bucket 3 in [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]].
 
-## フロート：無利息の資金原資の残高ポイントを付与してからその償還の支払いをするまでの間、事業者はまだ決済する必要のない**未償還の負債**を保有する。集計すると、これは大きく、ゆっくりと動く、無利息の残高である —— 保険のフロートやプリペイド手段のフロートに類似する：
+## Float: the interest-free funding balance
 
-- 平均的な償還までの時間が長いほど、発行に対するフロートは大きくなる。
-- 大規模な共通ポイントやウォレットの場合、未償還のポイント負債は、完全に顧客により無利息で賄われる常設の残高である。
-- フロートはブレッケージとは*別物*である：ブレッケージは決して戻ってこないポイント（マージン利益）であり、フロートは最終的に戻ってくるポイントのキャリー（保有している間の資金原資の便益）である。
+Between granting a point and paying for its redemption, the operator holds an **outstanding liability** it has not yet had to settle. In aggregate this is a large, slow-moving, interest-free balance — analogous to insurance float or prepaid-instrument float:
 
-このフロートという読み方こそが、ポイント負債を金融グループにとって興味深いものにする：銀行／通信グループ（[[payment-firms/rakuten-fg|Rakuten FG]]、[[megabanks/ndfg|NDFG]]、[[megabanks/paypay-fg|PayPay FG]]）の内部にあるポイント事業者は、顧客原資の残高と日次頻度の接点とを一度に提供する。
+- The longer the average time-to-redemption, the larger the float relative to issuance.
+- For a large common point or wallet, the outstanding point liability is a standing balance funded entirely by customers at zero interest.
+- Float is *separate* from breakage: breakage is points that never come back (a margin gain); float is the carry on points that will eventually come back (a funding benefit while held).
 
-## バランスシートの視点：顧客原資のフロートとしての負債一単位あたりの等式から一歩引くと、*集計された*未償還のポイント残高は、バランスシート上で独特のプロフィールを持つ。いったん付与されると、未償還のポイントは常設の負債であり、四つの属性が相まって、それに教科書的な**フロート**の形を与える：
+The float reading is what makes point liabilities interesting to a financial group: a point operator inside a bank / telco group ([[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]]) contributes a customer-funded balance and a daily-frequency touchpoint at once.
 
-| 属性 | 含意 |
+## Balance-sheet view: the liability as customer-funded float
+
+Stepping back from the per-unit equation, the *aggregate* outstanding point balance has a distinct profile on the balance sheet. Once granted, unredeemed points are a standing liability, and four properties together give it the textbook shape of a **float**:
+
+| Property | Implication |
 |---|---|
-| 決済前に付与される | 事業者はまだ支払っていない価値を保有する |
-| 顧客原資である | その残高は、事業者が借り入れたからではなく、顧客が獲得したから存在する |
-| 無利息である | 未償還のポイント負債にはクーポンが支払われない |
-| ゆっくり動く | 大規模な共通ポイントの場合、集計残高は粘着的で、減るより速く補充される |
+| Granted before settled | The operator holds value it has not yet paid out |
+| Customer-funded | The balance exists because customers earned, not because the operator borrowed |
+| Interest-free | No coupon is paid on the outstanding point liability |
+| Slow-moving | For a large common point, the aggregate balance is sticky and replenished faster than it drains |
 
-### プリペイド型ストアドバリューとの違い
+### How it differs from prepaid stored value
 
-ロイヤルティのポイント残高と**プリペイド型ストアドバリューの残高**（電子マネー、ギフト残高）は、いずれも顧客原資のフロートに見えるが、同じ手段ではない：
+A loyalty point balance and a **prepaid stored-value balance** (electronic money, gift balance) both look like customer-funded float, but they are not the same instrument:
 
-| 観点 | ロイヤルティのポイント負債 | プリペイド型ストアドバリュー |
+| Dimension | Loyalty point liability | Prepaid stored value |
 |---|---|---|
-| 起源 | 還元として付与される（現金の流入なし） | 顧客が現金をチャージした |
-| 規制上の所在 | ロイヤルティ／収益認識の会計 | 資金決済法のプリペイド制度（資産保全、登録） |
-| 現金等価性 | 通常は限定利用で、現金との近さが低い | 現金により近い；償還可能性／譲渡可能性が重要 |
-| ブレッケージの論理 | 失効により駆動され、見積りに大きく依存 | プリペイド規則／未使用残高の取扱いに制約される |
+| Origin | Granted as a reward (no cash in) | Customer loaded cash |
+| Regulatory home | Loyalty / revenue-recognition accounting | Payment Services Act prepaid regime (asset-preservation, registration) |
+| Cash-equivalence | Usually limited-use, lower cash-likeness | Closer to cash; redeemability / transferability matter |
+| Breakage logic | Expiry-driven, estimate-heavy | Constrained by prepaid rules / unused-balance treatment |
 
-両者の間の線はまさに [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] である —— 現金チャージ型になる、あるいは自由に譲渡可能になるポイントは、プリペイド制度へと**越える**ことができ、その規制とそのフロートの取扱いの両方を変える。
+Sources: [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), [Rakuten investor information](https://corp.rakuten.co.jp/investors/financial/), the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), and the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html). The table separates economic mechanisms from entity-specific reported amounts.
 
-### フロートのリスク面顧客原資のフロートはタダの金ではない；アナリストが価格づけすべき残高固有のリスクを伴う：
+The line between them is precisely the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] — a point that becomes cash-charged or freely transferable can **cross** into the prepaid regime, changing both its regulation and its float treatment.
 
-| リスク | それが何か | 対照して読むもの |
+### The risk side of the float
+
+Customer-funded float is not free money; it carries balance-specific risks an analyst should price:
+
+| Risk | What it is | Read against |
 |---|---|---|
-| 償還の急増 | キャンペーンや失効の変更が償還を加速させる → フロートが流出し、現金がモデル化より速く出ていく | [[loyalty/point-program-unit-economics|unit economics]] |
-| ブレッケージの誤った見積り | 楽観的なブレッケージは収益を前倒しする；事後調整がそれを反転させる | [[loyalty/point-liability-accounting-boundary|accounting boundary]] |
-| 再分類 | 現金類似となるポイントがプリペイド制度へと移り、保全／登録の義務を高める | [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] |
-| プログラム間の漏出 | 他の事業者／マイレージへの交換が、決済レートで価値をオフバランスへと移す | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
+| Redemption surge | A campaign or expiry change accelerates redemption → the float drains and cash goes out faster than modelled | [[loyalty/point-program-unit-economics|unit economics]] |
+| Breakage misestimate | Optimistic breakage pulls revenue forward; a true-up reverses it | [[loyalty/point-liability-accounting-boundary|accounting boundary]] |
+| Reclassification | A point that becomes cash-like migrates into the prepaid regime, raising preservation / registration duties | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] |
+| Cross-program exchange | Conversion may alter the obligor or settlement exposure depending on the contracts; consumer terms do not reveal private rates | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
 
-## 収益化：薄いプログラムが利益化する場所資金原資 − 償還 − コストだけで判断されるポイントプログラムは、ぎりぎりに見えうる。それを反転させる項は、**ブレッケージ**、**フロート**、および **ID グラフの収益化** —— [[loyalty/retail-media-points-data-loop|the retail-media data-loop page]] に示されるリテールメディア + 金融クロスセルのフライホイール —— である。これが「赤字」のウォレットに対する整合の説明である：
+Sources: [Rakuten Point guidance](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [ASBJ Statement No. 29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), and the official terms of the relevant exchange partners. It is a unit-economics framework, not a disclosure of any private settlement rate.
 
-- キャンペーン重視のウォレットは、事業者原資の付与を即時の費用として計上する（損益計算書は悪く見える）。
-- 同じ支出が、最も豊かな ID グラフと最も深い日次頻度のファネルを買う。
-- リテールメディアのマージンと金融クロスセル —— ポイントが補助した薄い小売／決済事業よりも高マージン —— こそが、それが回収される場所である。
+## Monetisation: where thin programs turn profitable
 
-したがって収益性の問いは決して「還元率はいくらか」ではない；それは「加盟店原資か事業者原資か、ブレッケージはどれほど高いか、フロートはどれほど大きいか、そしてグラフは収益化されているか」である。
+A point program judged on funding − redemption − cost alone can look marginal. The terms that flip it are **breakage**, **float**, and **monetisation of the ID graph** — the retail-media + finance cross-sell flywheel set out in [[loyalty/retail-media-points-data-loop|the retail-media data-loop page]]. This is the reconciliation for "loss-making" wallets:
 
-## これが日本の金融グループ／金融分析にとってなぜ重要か
+- Campaign-heavy wallets book operator-funded grants as immediate expense (P&L looks bad).
+- The same spend buys the richest ID graph and the deepest daily-frequency funnel.
+- Retail-media margins and finance cross-sell — higher-margin than the thin retail/payment business the point subsidised — are where it pays back.
 
-- **還元率は誤った見出しである。**二つの「1% 還元」のプログラムは、資金原資、ブレッケージ、フロート、収益化において完全に異なる。比較すべきはそれらであり、パーセンテージではない。
-- **ブレッケージは利益の質のフラグである。**マージンを示すために楽観的なブレッケージに依存するプログラムは、収益を前倒ししている；「ポイント引当金」が「契約負債」へと移行したかどうか、そして償還の前提がどのように開示されているか（[[loyalty/point-liability-accounting-boundary|accounting boundary]] による）を確認すること。
-- **フロート + ID グラフこそが、金融グループがポイント事業者を欲する理由である。**グループ内部のポイントは、無利息の顧客原資の残高*と*クロスセルのファネルを供給する —— [[megabanks/smfg|SMFG]] / V-Point、[[megabanks/ndfg|NDFG]] / dポイント、および [[payment-firms/rakuten-fg|Rakuten FG]] の内部統合を、マーケティングを超えて合理的たらしめる経済性である。
+So the profitability question is never "what is the reward rate"; it is "merchant-funded or operator-funded, how high is breakage, how large is the float, and is the graph monetised."
 
-## 関連
+## Why this matters for JapanFG / financial analysis
+
+- **Reward rate is the wrong headline.** Two "1% back" programs differ entirely on funding source, breakage, float, and monetisation. Compare those, not the percentage.
+- **Breakage is a quality-of-earnings flag.** Review the applicable accounting policy, obligation, redemption assumptions, and sensitivity. The presence or absence of “ポイント引当金” versus “契約負債” does not by itself prove adoption or the correct classification.
+- **Float + ID graph are why financial groups want point operators.** A point inside a group supplies an interest-free customer-funded balance *and* a cross-sell funnel — the economics that make [[megabanks/smfg|SMFG]] / V-Point, [[megabanks/ndfg|NDFG]] / dポイント, and [[payment-firms/rakuten-fg|Rakuten FG]] internal integration rational beyond marketing.
+
+## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
@@ -112,10 +130,10 @@ translated_at: 2026-06-26T08:28:38.467Z
 - [[loyalty/retail-media-points-data-loop|retail-media points data loop]]
 - [[loyalty/point-exchange-network-risk|point exchange network risk]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]
-- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
-- [[payments/japan-prepaid-electronic-money-operator-matrix|Japan 前払式 electronic-money 事業者 matrix]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]
 - [[payments/INDEX|payments INDEX]]
 - [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[megabanks/ndfg|NDFG]]
@@ -124,10 +142,10 @@ translated_at: 2026-06-26T08:28:38.467Z
 - [[fintech/INDEX|fintech INDEX]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- 楽天ポイントクラブ 公式ガイダンス —— ポイントプログラムの構造と償還条件。
-- ASBJ 企業会計基準第 29,  号「収益認識に関する会計基準」 —— ブレッケージ／繰延収益の計上時点。
-- 楽天グループ IR —— 契約負債およびポイント関連の繰延収益の開示。
-- NTT ドコモ IR —— dポイント の償還前提と収益の配分。
-- Payments Japan 協会 —— コード決済の償還／ブレッケージの開示規範。
+- Rakuten Point Club official guidance — point program structure and redemption terms.
+- ASBJ Statement No.29, "Accounting Standard for Revenue Recognition" (収益認識に関する会計基準) — breakage / deferred-revenue timing.
+- Rakuten Group IR — contract-liability and point-related deferred-revenue disclosures.
+- NTT docomo IR — dポイント redemption assumptions and revenue allocation.
+- Payments Japan Association — code-payment redemption / breakage disclosure norms.

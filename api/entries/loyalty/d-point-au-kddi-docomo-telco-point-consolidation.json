@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
   "raw_markdown_url": "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
   "domain": "loyalty",
-  "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+  "title": "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+    "title": "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
     "aliases": [
       "d-point-au-kddi-docomo-telco-point-consolidation",
       "d-point vs au point",
@@ -45,23 +45,21 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://dpoint.docomo.ne.jp/",
-      "https://aupay.wallet.auone.jp/contents/static/point/",
-      "https://www.kddi.com/corporate/newsrelease/",
-      "https://www.docomo.ne.jp/info/news_release/",
-      "https://www.recruit.co.jp/newsroom/"
+      "https://dpoint.docomo.ne.jp/guide/index.html",
+      "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html",
+      "https://www.loyalty.co.jp/company/outline"
     ]
   },
   "summary": "This entry sits under loyalty INDEX and is the telco-anchored counterpart to the finance-anchored V Point (SMBC × CCC) case. Read with Japan points and loyalty landscape for the cross-ecosystem map, point liability accounting boundary for the breakage / IFRS-15 treatment, and Japan code-payment comp",
   "headings": [
-    "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+    "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
     "Wiki route",
     "TL;DR",
     "Telco-anchored model — what subscriber identity buys",
     "Side-by-side comparison",
     "The Lawson question — overlapping retail anchor",
     "NTT docomo — d Point as the front-end of NDFG",
-    "KDDI — au Point inside au FH",
+    "KDDI — Ponta linkage around au FH",
     "Contrast with V Point — finance-anchored vs telco-anchored",
     "Issuance and accrual mechanics"
   ],
@@ -101,13 +99,20 @@
       "https://finwiki.zksc.io/ja/domains/retail/",
       "https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://dpoint.docomo.ne.jp/guide/index.html",
+      "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html",
+      "https://vpoint.jp/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.loyalty.co.jp/company/outline",
+      "https://www.ponta.jp/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 13569,
-    "word_like_tokens": 2349,
+    "nonspace_chars": 13831,
+    "word_like_tokens": 2369,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

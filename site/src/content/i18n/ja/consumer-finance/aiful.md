@@ -1,20 +1,20 @@
 ---
 source: consumer-finance/aiful
-source_hash: ca7287d638c5c6b6
+source_hash: 45f536925aa34719
 lang: ja
 status: machine
 fidelity: ok
 title: "アイフル株式会社 (Aiful)"
-translated_at: 2026-06-15T03:48:21.863Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # アイフル株式会社 (Aiful)
 
-## Wiki 上の位置づけ
+## Wiki route
 
-本項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の下に位置する。ピア／対比のコンテキストとしては [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と、より広いシステム／規制の境界については [[banking/INDEX|banking index]] と併せて読むこと。
+This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it against [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 京都発祥の消費者金融大手。**1967-04 福田吉孝が個人事業「丸三」として京都で創業**、1978 に「アイフル」に改称。業態は個人向け無担保ローン主軸（カードローン）+ クレジットカード（ライフカード子会社）+ 事業者ローン。**アコム（[[megabanks/mufg]] 内）・プロミス（[[megabanks/smfg]] 内）と並ぶ「3 大消費者金融」のうち、メガバンク系列に属さない独立系唯一の大手** ★。2006-2010 のグレーゾーン金利・過払い金返還問題で経営危機 → 事業再生 ADR 経由で再建。東証 PRIME 8515 上場。^[extracted]
 
@@ -34,9 +34,11 @@ translated_at: 2026-06-15T03:48:21.863Z
 
 | 会社 | 系列 | 主要株主 |
 |---|---|---|
-| アコム | [[megabanks/mufg]] グループ | 三菱 UFJ 銀行 持分法 39.6% |
+| アコム | [[megabanks/mufg]] グループ | MUFG 37.57%（2026-03-31、直接保有） |
 | プロミス（SMBC コンシューマーファイナンス）| [[megabanks/smfg]] グループ | SMFG 100% 完全子会社 |
-| **アイフル** | **独立系**（メガバンク非系列）★ | **創業家・福田家中心の独立資本** |
+| **アイフル** | **独立系**（メガバンク非系列）★ | **AMG 19.80%、福田光秀 12.99%（2025-03-31）** |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), Acom's [share information](https://www.acom.co.jp/corp/ir/stock/outline/), and [SMBC Consumer Finance's company profile](https://www.smbc-cf.com/corporate/outline.html). Holdings are dated; no accounting classification is inferred from percentage alone.
 
 ### 主要グループ会社
 
@@ -52,7 +54,7 @@ translated_at: 2026-06-15T03:48:21.863Z
 
 ### 創業家・独立性
 
-**創業家・福田家中心の独立資本構造**が最大の特徴。アコム（[[megabanks/mufg]] 持分法 39.6%）・プロミス（[[megabanks/smfg]] 100% 完全子会社）と異なり、メガバンク系列に組み込まれていない大手消費者金融としては唯一。^[extracted]
+メガバンク親会社を持たない**独立系**であることが最大の特徴。2025-03-31 時点の大株主は AMG 19.80%、福田光秀 12.99%、日本マスタートラスト信託銀行（信託口）8.97%、マルタカ5.13%など。アコム（[[megabanks/mufg]] の連結子会社）・プロミス（[[megabanks/smfg]] 100% 完全子会社）とは資本構造が異なる。
 
 ## 2. 事業セグメント・マップ
 
@@ -64,6 +66,8 @@ translated_at: 2026-06-15T03:48:21.863Z
 | **不動産担保ローン** | キャレント・本体 | 担保ローン軸の補完 |
 | **保証事業** | 銀行カードローンの保証受託 | 銀行へのインフラ提供 |
 | **海外**（ASEAN） | タイ・インドネシア等 | 現地法人で個人向け小口金融、後発 |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf) and [company information](https://www.aiful.co.jp/company/). The descriptions identify disclosed business categories and do not quantify market position.
 
 ### 与信・テクノロジー
 
@@ -96,6 +100,8 @@ translated_at: 2026-06-15T03:48:21.863Z
 | 2022-04 | 東証市場区分見直し → **東証 PRIME 8515** |
 | 2024〜 | **中期経営計画**（黒字化定着フェーズ、AI 与信・Web 完結拡充）|
 
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), the [Financial Services Agency's Money Lending Business Act materials](https://www.fsa.go.jp/policy/kashikin/), and the FSA's [administrative-action publications](https://www.fsa.go.jp/news/). Dates and legal actions should be checked against those primary records.
+
 ### 過払い金問題（2006〜）の影響 ★
 
 - **最高裁判決（2006-01-13）**: 貸金業法の「みなし弁済」規定をほぼ否定 → 利息制限法（上限 15-20%）超過分は不当利得として返還義務
@@ -114,11 +120,13 @@ translated_at: 2026-06-15T03:48:21.863Z
 
 | 競合 | 系列 | アイフルとの差 |
 |---|---|---|
-| アコム | [[megabanks/mufg]] 系列（持分法 39.6%）| 親会社の銀行 ATM・送客で先行、海外（タイ Easy Buy 等）展開 |
+| アコム | [[megabanks/mufg]] 連結子会社 | 銀行カードローン保証、海外（タイ Easy Buy 等）展開 |
 | [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
 | 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン | 全メガバンク・地銀 | 銀行直営の低金利カードローンが代替商品化 |
 | [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), Acom's [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf), and [SMBC Consumer Finance's company profile](https://www.smbc-cf.com/corporate/outline.html). The final column is an editorial product-boundary comparison rather than a performance ranking.
 
 ### 中期戦略（公開された方向性）
 
@@ -148,9 +156,9 @@ translated_at: 2026-06-15T03:48:21.863Z
   - 過払い金請求は減少基調だが完全消滅していない
   - 銀行カードローンの「実質総量規制超過」問題（業界自主規制）
 
-## 関連項目
+## Related
 
-- [[megabanks/mufg]] — 3 大消費者金融の競合（アコム持分法 39.6%）
+- [[megabanks/mufg]] — 3 大消費者金融の競合（アコムの親会社）
 - [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
 - [[card-issuers/jaccs]] — 信販大手・隣接業態
 - [[card-issuers/orico]] — 信販大手・隣接業態
@@ -158,14 +166,14 @@ translated_at: 2026-06-15T03:48:21.863Z
 - [[payment-firms/rakuten-fg]] — 楽天カードによる若年層侵食
 - [[megabanks/paypay-fg]] — PayPay カードによる決済プラットフォーム侵食
 
-## 出典
+## Sources
 
 - **Wikipedia: アイフル株式会社**（https://ja.wikipedia.org/wiki/アイフル, 2026-05-19 参照、公開情報のみ）
-- **Aiful 公式 IR**（東証 PRIME 8515 開示資料、公開分・有価証券報告書）
+- **Aiful 第48期有価証券報告書（2025-03期）**：https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf
 - **金融庁 業務改善命令 公表資料**（2008-04 アイフルへの業務改善命令、公開分）
 - **改正貸金業法・最高裁 2006-01-13 判決**（公開法令・判例）
 
 ---
 
-> [!info] 校核状態
+> [!info] 校核状态
 > confidence: **likely**（公開情報のみで構成、2026-05-19）。創業年・上場年・3 大消費者金融位置付け・独立系維持・過払い金問題は Wikipedia + 公開 IR + 公開判例で確認可能な範囲。中計の細部・海外拠点別収益は公開分のみ。内部資料・非公開情報は一切含まず。

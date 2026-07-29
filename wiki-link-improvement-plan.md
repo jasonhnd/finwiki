@@ -51,8 +51,8 @@
 | `asset-managers` | 15 | 0 | 15.9 |
 | `banking` | 40 | 0 | 35.4 |
 | `business` | 25 | 0 | 8.0 |
-| `card-issuers` | 24 | 0 | 16.5 |
-| `consumer-finance` | 6 | 0 | 15.3 |
+| `card-issuers` | 24 | 0 | 14.8 |
+| `consumer-finance` | 6 | 0 | 15.2 |
 | `control` | 1 | 0 | 207.0 |
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
@@ -71,9 +71,9 @@
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.6 |
-| `leasing-firms` | 24 | 0 | 22.4 |
+| `leasing-firms` | 24 | 0 | 18.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
-| `loyalty` | 17 | 0 | 22.4 |
+| `loyalty` | 17 | 0 | 20.6 |
 | `manufacturer-finance` | 14 | 0 | 14.1 |
 | `megabanks` | 20 | 0 | 15.4 |
 | `money-market` | 17 | 0 | 23.4 |

@@ -1,11 +1,11 @@
 ---
 source: card-issuers/orico
-source_hash: 5b74384c05822228
+source_hash: 50578decbfada090
 lang: en
 status: machine
 fidelity: ok
 title: "Orient Corporation (Orico) (株式会社オリエントコーポレーション)"
-translated_at: 2026-06-18T23:33:48.370Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # Orient Corporation (Orico) (株式会社オリエントコーポレーション)
 
@@ -64,6 +64,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 | **2024** | **Announcement of a medium-term management plan** (based on public information) ^[extracted] |
 | **2024-11** | Itochu Corporation sold part of its holdings → the Itochu side moved out of equity-method scope |
 | **2026-05** | Mizuho sold 15% of Orico shares to Muninova HD, the parent of AIFUL (48.79%→33.79%); a Mizuho / Orico / Muninova 3 社 business alliance |
+
+Sources: [Orico company information](https://www.orico.co.jp/company/) and [Orico IR](https://www.orico.co.jp/company/ir/). Competitor descriptions are comparative context and should not be read as current market-share rankings.
 
 ## 2. Business segment map
 

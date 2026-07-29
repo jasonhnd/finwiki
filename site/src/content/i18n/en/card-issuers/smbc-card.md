@@ -1,11 +1,11 @@
 ---
 source: card-issuers/smbc-card
-source_hash: 948222bd97bf2017
+source_hash: 00278d322caaa825
 lang: en
 status: machine
 fidelity: ok
 title: "SMBC Card"
-translated_at: 2026-06-26T03:26:36.038Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # SMBC Card
 
@@ -27,6 +27,8 @@ SMBC Card is the core card, credit-sales, and transaction-business operator of [
 | Main lanes | Credit card, installment / credit sales, merchant acquiring, transaction services |
 | Regulatory route | Installment Sales Act / METI credit-transaction materials; lending and card-number handling disclosures should be checked against official pages. ^[verified-2026-06-24] |
 | Company profile scope | Official outline lists credit card, debit / prepaid / other payment, loan, guarantee, credit sales, transaction, and related businesses. ^[verified-2026-06-24] |
+
+Sources: [Sumitomo Mitsui Card company profile](https://www.smbc-card.com/company/info/outline.jsp) and [METI credit-transaction policy](https://www.meti.go.jp/policy/economy/consumer/credit/). The card-number merchant-contract registration should be read from the current METI list.
 
 ## 2. Business role
 

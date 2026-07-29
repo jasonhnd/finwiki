@@ -14,6 +14,8 @@ confidence: likely
 tags: [JapanFG, leasing, finance, regional-lease, hokkaido, regional-bank-affiliated]
 status: active
 sources:
+  - "https://www.do-lease.co.jp/company/profile.html"
+  - "https://www.do-lease.co.jp/company/history.html"
   - "https://www.hokkaidobank.co.jp/"
   - "https://www.hokuhoku-fg.co.jp/"
   - "https://www.leasing.or.jp/"
@@ -23,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context (national 準大手 vs regional captive) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the parent / regional context.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context (national 準大手 vs regional specialist) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|北海道銀行]] for the principal-shareholder / equity-method relationship.
 
 ## TL;DR
 
@@ -34,12 +36,13 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | Item | Notes |
 |---|---|
 | Legal name | 北海道リース株式会社 / Hokkaido Lease Co., Ltd. |
-| Listing | 非上場 (地域金融機関 + 地元企業の戦略株主構造) |
-| Headquarters | 札幌市 |
-| Founded | 1970 年代 (地域系リースの典型) |
-| Parent / group | 北海道銀行 (ほくほく FG 系) [[regional-banks/hokkaido-bank|北海道銀行]] + 地元有力企業 + その他地銀の合弁的株主構成 |
-| License route | 銀行業許可なし。貸金業登録 (FSA money-lending business registration) を関連業務範囲で取得 |
+| Headquarters | 札幌市中央区南1条西10丁目3番地 |
+| Founded | 1964-08-25 |
+| Shareholder / accounting relationship | 北海道銀行が主要株主第1位。2024-10 に北海道銀行の持分法適用会社となった（親会社・子会社関係とは記載しない） |
+| Regulatory scope | 公式会社概要が確認できる事業は各種物件のリース・割賦販売。本ページでは会社固有の貸金業登録を裏付ける当局資料を確認できないため、貸金業者とは断定しない |
 | Wiki role | 北海道地域のリース機能のノード。全国系準大手 ([[leasing-firms/fuyo-lease|芙蓉総合リース]] 等) との対比対象 |
+
+出典: [北海道リース会社概要](https://www.do-lease.co.jp/company/profile.html)（創立日、所在地、事業、主要株主）および[北海道リース沿革](https://www.do-lease.co.jp/company/history.html)（2024-10 の北海道銀行持分法適用会社化）。
 
 ## 2. Business lines
 
@@ -54,7 +57,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## 3. Strategy & competitive position
 
-北海道リースの戦略軸は「北海道地域特化 + 地銀ネットワーク利用」。三大リース・準大手リースが全国展開で規模を競うのとは異なり、地域内の顧客密着 + 案件規模は小型でも回転率重視という地銀系金融機関の captive lease に典型的なモデル。
+北海道リースの戦略軸は「北海道地域特化」。三大リース・準大手リースが全国展開で規模を競うのとは異なり、公式沿革は道内全域への拠点展開と地域密着を示す。北海道銀行との関係は 2024-10 以降の持分法適用であり、銀行の captive lease や子会社とは位置付けない。
 
 [[regional-banks/hokkaido-bank|北海道銀行]] や [[regional-banks/hokuyo-bank|北洋銀行]] が地域内主要法人取引を抑えるなか、北海道リースは「銀行融資ではなくリースで設備提供」というニッチ。地銀ローンとの棲み分けは、不動産担保がない設備 (移動可能機械 / 農業機械 / 中古市場のある資産) で発生しやすい。
 
@@ -65,7 +68,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 ## 4. Why this page matters
 
 - 地域系リース会社の典型例。全国系 / グローバル系の準大手とは戦略・業容・規模が全く異なる
-- 北海道地銀 ([[regional-banks/hokkaido-bank|北海道銀行]] / [[regional-banks/hokuyo-bank|北洋銀行]]) のグループ内リース機能の理解ノード
+- 北海道銀行が主要株主で、2024-10 から同行の持分法適用会社となった地域リース会社の理解ノード
 - 一次産業 (農業・水産業) 向けリースは全国系リースが手薄な領域
 - 再エネ豊富地域 (北海道) のリース機会と全国系大手の参入競合構造
 
@@ -82,6 +85,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## Sources
 
+- 北海道リース 会社概要 (https://www.do-lease.co.jp/company/profile.html)
+- 北海道リース 沿革 (https://www.do-lease.co.jp/company/history.html)
 - 北海道銀行 公式コーポレートサイト (https://www.hokkaidobank.co.jp/)
 - ほくほくフィナンシャルグループ (https://www.hokuhoku-fg.co.jp/)
 - 公益社団法人リース事業協会 (JLA) 統計 (https://www.leasing.or.jp/)

@@ -28,7 +28,7 @@ sources:
 
 ## TL;DR
 
-V Point in its current form (2024-04-22 onward) is the **bank-led common-point case** of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with [[megabanks/smfg|SMFG]]'s [[card-issuers/smbc-card|SMBC Card]] (SMCC) as the issuing financial backbone and the [[payments/INDEX|payments]] / [[retail/INDEX|retail]] partner network inherited from T Point. It is the most credible counterweight to telco-led (dポイント), e-commerce-led (Rakuten Points), and payment-app-led (PayPay points) common-point systems.
+V Point in its current form (2024-04-22 onward) is a **bank-led common-point case**: the former T Point and SMBC-side V Point services adopted the V Point brand. SMBC Card's official guidance states that customers must link the specified IDs to combine balances; without linking, points remain within their existing service scopes. The customer-facing unification therefore does not imply that every balance was automatically one ledger.
 
 For accounting framing on what "point liability" actually means inside this kind of unification, see [[loyalty/point-liability-accounting-boundary]]. For the broader competitive map, see [[loyalty/japan-points-landscape]] and [[loyalty/INDEX|loyalty index]].
 
@@ -44,6 +44,8 @@ For accounting framing on what "point liability" actually means inside this kind
 | 2024-04-22 | T Point and Vポイント unify under the "Vポイント" brand; T Point branding for the common-point business ends |
 | 2024- | SMBC Olive Account integrates V Point earn as core loyalty layer for the bank's flagship retail product |
 | 2025- | Rolling migration of legacy T-card holders to V-card design; partner-merchant network rolled over to V Point acceptance |
+
+Sources: [CCC's 2024 unification release](https://www.ccc.co.jp/en/news/press/20240109_002347.html), [V Point](https://vpoint.jp/), [SMBC Card](https://www.smbc-card.com/mem/service/cardless/vpoint.jsp), and [SMFG news](https://www.smfg.co.jp/news/). The timeline separates published completion dates from continuing transition activity.
 
 ## Players
 

@@ -1,19 +1,19 @@
 ---
 source: card-issuers/aeon-bank
-source_hash: c082123a745510f9
+source_hash: cd9cec3bf07c9942
 lang: ja
 status: machine
 fidelity: ok
 title: "イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)"
-translated_at: 2026-06-02T14:01:20.966Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] 配下に位置づける。ピア比較・対照の文脈では [[regional-banks/seven-bank|セブン銀行 (Seven Bank)]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[regional-banks/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 **流通系銀行の代表格**。総合スーパー [[retail/aeon-group]] イオン株式会社が頂点に立ち、中間持株会社 **イオンフィナンシャルサービス（AFS、東証 PRIME 8570）** が **イオン銀行 100%** と **アジア消費者金融 7 ヶ国網** を束ねる構造。**店舗 = イオンモール内ブランチ + 駅前 ATM 約 6,500 台級**、**プロダクト = イオンカード（国内発行枚数上位）+ WAON 電子マネー + イオン住宅ローン**、**海外 = タイ・マレーシア・香港等のアジア消費者金融子会社群**。[[regional-banks/seven-bank]] / [[regional-banks/lawson-bank]] と並ぶ流通 3 兄弟だが、ATM 単機能の 7 銀 / L 銀と異なり「総合銀行 + クレカ + アジア」の **3 階建てモデル**。^[extracted]
 
@@ -39,7 +39,6 @@ translated_at: 2026-06-02T14:01:20.966Z
 ```
 イオン株式会社 (8267, 流通最大手)
         ├── 株式会社イオン銀行 (100%) ── 商業銀行・イオンモール内支店 + ATM
-        ├── イオン・アリアンツ生命保険 (Allianz と JV) ── 生保
         ├── イオン保険サービス ── 来店型保険ショップ
         ├── AEON Thana Sinsap (Thailand) PCL ── タイ消費者金融 (SET 上場)
         ├── AEON Credit Service (M) Bhd ── マレーシア消費者金融 (Bursa 上場)
@@ -53,7 +52,6 @@ translated_at: 2026-06-02T14:01:20.966Z
 ### 重要子会社・関連
 
 - **イオン銀行**：商業銀行コア。店舗 = イオンモール内有人ブランチ + イオン店舗内 ATM。住宅ローン直販強化。^[extracted]
-- **イオン・アリアンツ生命**：独 Allianz と JV、来店型販売チャネル ^[extracted]
 - **AEON Thana Sinsap (Thailand)**：タイ SET 上場、東南アジア最大の AFS 海外子会社 ^[extracted]
 - **AEON Credit Service (Asia) / (M)**：香港・マレーシアそれぞれ現地上場 ^[extracted]
 
@@ -63,10 +61,11 @@ translated_at: 2026-06-02T14:01:20.966Z
 |---|---|---|
 | 商業銀行（国内）| イオン銀行 | イオンモール内ブランチ + ATM 6,855 台（2025-03-31、全国 47 都道府県）、住宅ローン直販強化 |
 | 電子マネー | WAON（Aeon グループ）| 流通系電子マネー、イオン銀行口座と連携 |
-| 生命保険 | イオン・アリアンツ生命（JV）| 来店型販売 |
 | 損害保険・代理店 | イオン保険サービス | 来店型保険ショップ |
 | 海外消費者金融（タイ）| AEON Thana Sinsap PCL（SET 上場）| 最大の海外子会社 |
 | 海外消費者金融（香港）| AEON Credit Service (Asia)（HKEX 上場）| 老舗、域内最古参 |
+
+Sources: [イオン銀行ディスクロージャー誌 2025](https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf) for the domestic bank and ATM disclosure; [イオンフィナンシャルサービス IR](https://www.aeonfinancial.co.jp/ir/) for the group businesses and overseas subsidiaries. イオン・アリアンツ生命は 2025-07-01 に AFS の連結範囲から外れたため、現行セグメント表には含めない。
 
 ## 3. 沿革
 
@@ -79,7 +78,9 @@ translated_at: 2026-06-02T14:01:20.966Z
 | **2013-04-01** | **イオンクレジットサービス → イオンフィナンシャルサービス 改称・持株会社化、イオン銀行を 100% 子会社化** ^[extracted] |
 | 2013〜 | アジア消費者金融 子会社群を AFS 傘下に集約・現地上場維持 ^[extracted] |
 | 2020-03-31 | AFS がアリアンツ生命保険の株式 60% を取得 → 2020-05-01「イオン・アリアンツ生命保険」へ商号変更 |
-| 2025 | イオン・アリアンツ生命を明治安田生命へ譲渡（2025-07-01 明治安田が約 85% 取得 → 2025-10-01「明治安田トラスト生命保険」へ商号変更）|
+| 2025-07-01 / 2025-10-01 | AFS がイオン・アリアンツ生命の発行済株式 85.1% を明治安田生命へ譲渡完了。明治安田生命の子会社となった後、2025-10-01 に「明治安田トラスト生命保険」へ商号変更 |
+
+Sources: [イオンフィナンシャルサービス IR](https://www.aeonfinancial.co.jp/ir/) and [イオン銀行の会社情報](https://www.aeonbank.co.jp/company/) for the group and bank events; [明治安田生命の2025-07-01完了リリース](https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf) for the 85.1% acquisition completion and 2025-10-01 rename.
 
 ### 流通系銀行モデル（差別化軸）
 
@@ -114,24 +115,24 @@ translated_at: 2026-06-02T14:01:20.966Z
   - 日銀政策金利正常化 → 国内預貸マージン改善
   - キャッシュレス決済シェア争奪（WAON vs PayPay 等）
 
-## 6. 反論点
+## 6. Counterpoints
 
 > 主観的な反論点（ATM 規模劣後観・住宅ローン直販収益性の議論）は `.opinions/JapanFG/aeon-bank.md` に隔離（2026-05-29）。
 
-## 7. 未解決の問い
+## 7. Open questions
 
 - AFS 連結における **イオン銀行 vs アジア消費者金融** の収益構成比は？ 中計目標は？
 - **イオンカード + WAON** のキャッシュレス陣営内ポジション — PayPay / 楽天との競合戦略は？
 - **デジタルバンキング**戦略 — ネット専業銀行（[[megabanks/sony-fg]] / 楽天）に対する差別化軸は店舗動線のみか？
 
-## 8. 関連
+## 8. Related
 
 - [[regional-banks/seven-bank]] · [[regional-banks/lawson-bank]] ── 流通系銀行 3 兄弟
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── メガバンク比較
 - [[megabanks/sony-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] ── 個人向けデジタル銀行・FG 比較
 - [[card-issuers/jcb]] ── 国内クレカ比較
 
-## 出典
+## Sources
 
 - **Wikipedia: 株式会社イオン銀行**（https://ja.wikipedia.org/wiki/株式会社イオン銀行, 2026-05-19 抽出）
 - **Wikipedia: イオンフィナンシャルサービス**（https://ja.wikipedia.org/wiki/イオンフィナンシャルサービス, 2026-05-19 抽出）
@@ -140,8 +141,8 @@ translated_at: 2026-06-02T14:01:20.966Z
 - AEON Credit Service (Asia) Co., Ltd. 公式（HKEX）
 - AEON Credit Service (M) Bhd 公式（Bursa Malaysia）
 - イオン銀行 ディスクロージャー誌 2025（ATM 6,855 台・2025-03-31） — https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf
-- イオン・アリアンツ生命保険 沿革（AFS が 2020-03-31 に 60% 取得 → 2020-05-01 商号変更／2025-10-01 明治安田トラスト生命へ） — https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険
+- 明治安田生命 2025-07-01 株式取得完了リリース（85.1%取得、2025-10-01 明治安田トラスト生命へ商号変更） — https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf
 
 ---
 
-> [!info] 校核状態
+> [!info] 校核状态

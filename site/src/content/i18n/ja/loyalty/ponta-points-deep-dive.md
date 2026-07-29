@@ -1,121 +1,129 @@
 ---
 source: loyalty/ponta-points-deep-dive
-source_hash: 206748c3f6f4dcfa
+source_hash: 8ba054dc305d92d3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor"
-translated_at: 2026-06-26T08:32:23.050Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor
 
-## ウィキ上の位置づけ
+## Wiki route
 
-本エントリは Pontaポイント の **deep 事業者 page** として [[loyalty/INDEX|loyalty index]] の下に位置し、au PAY ポイント（2024-12にウォレット側で Ponta を吸収した統一ブランド）の戦略的フレーミングについては [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] と、銀行アンカーとの対比については [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] と、テレコムアンカーのピアについては [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]] と、経済圏マップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] と、IFRS 15 処理については [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] と、ウォレットレイヤーのオーバーレイについては [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan コード決済事業者 2025 市場シェア matrix]] と、親会社の金融持株構造については [[megabanks/au-fh|au Financial Holdings]] と、最も争点となる小売アンカーのサーフェスについては [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] と対になる。
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator page** for Pontaポイント, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] for the KDDI linkage, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored contrast, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the accounting framework, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[megabanks/au-fh|au Financial Holdings]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the retail-anchor surface.
 
 ## TL;DR
 
-**Pontaポイント** は日本の三大共通ポイントプログラムの一つで、**株式会社ロイヤリティマーケティング (Loyalty Marketing, Inc.)** — 2015 の買収以降は三菱商事グループの一員 — によって運営される。当初は **2010 に CCC + 三菱商事の合弁連合として** 当時の T-Point の優位に対抗して立ち上げられ、Ponta は **ローソン（三菱商事の投資先）、KDDI au（テレコム連合パートナー）、JAL（航空アライアンス）、リクルートホールディングスの経済圏（じゃらん、Hot Pepper、GEO）、出光昭和シェル（燃料）** でアンカーパートナーの地位を獲得した。戦略的な再編は 2 つの波を通じて起こった：**2010-2020 の連合フェーズ**（三菱・リクルート・KDDI のマルチ・エクイティ・アライアンス）と、**2024以降の統合フェーズ**（KDDI による三菱商事とのローソン非公開化がテレコム・小売・商社の軸を強固にし、2024-12 の au PAY ポイントブランド統一が Ponta を au ウォレットのロイヤリティレイヤーに吸収した）。アクティブな Ponta-ID ベースは **100 百万** を超える（ロイヤリティマーケティングの公開開示と KDDI au の ID を合算）。dポイント（純粋な NTT docomo アンカー）や V-Point（純粋な SMBC アンカー）に対する構造的な区別は、**Ponta が単一アンカーのプログラムではなく三つの大規模グループ（三菱商事、KDDI、リクルート）にまたがる連合** である点にあり — これにより、より広い小売サーフェスを持つ一方で、より複雑なガバナンスと収益分配のエコノミクスを抱える。
+**Pontaポイント** is a Japanese common-point programme operated by **株式会社ロイヤリティ マーケティング (Loyalty Marketing, Inc.)**. The operator was established on **2008-12-01** and launched Ponta in 2010. Its official company profile describes a multi-shareholder coalition: Mitsubishi Corporation 22.37%, Lawson 20%, KDDI 20%, Recruit 15%, JAL 15%, MUFG Bank 5%, and GEO 2.63%. KDDI changed its loyalty currency from au WALLET ポイント to **Pontaポイント on 2020-05-21**; au PAY remains the payment service through which Ponta can be earned or used. There is no separate 2024 conversion into a currency called “au PAY ポイント” in the cited official materials.
 
-## Loyalty Marketing, Inc. — the 事業者 entity
+## Loyalty Marketing, Inc. — the operator entity
 
-**株式会社ロイヤリティマーケティング (Loyalty Marketing, Inc.)** は Pontaポイント の運営会社である。公開された構造：
+**株式会社ロイヤリティ マーケティング (Loyalty Marketing, Inc.)** is the operating company for Pontaポイント. Public structure:
 
 | Layer | Role |
 |---|---|
-| Established | 2010-03 （当初は三菱商事ほかの JV） |
-| Current parent | 三菱商事（2015 に CCC から完全／過半数の出資を取得） |
-| Primary role | Pontaポイント共通ポイントプログラムを運営；加盟店契約、ポイント発行原資、償還決済、ID データベース、データマーケティング業務を管理 |
-| Headquarters | 東京 |
-| Operating relationship with KDDI / au | au PAY ポイント と Pontaポイント は 2024-12から au PAY ポイントブランドのもとで運用上統一；ロイヤリティマーケティングは引き続き Ponta の小売連合パートナーネットワークを運営 |
-| Operating relationship with Lawson | ローソンは主要な小売アンカー；2024 の KDDI + 三菱の非公開化が運用上の統合を深める |
+| Established | 2008-12-01 |
+| Shareholders | Mitsubishi Corporation 22.37%; Lawson 20%; KDDI 20%; Recruit 15%; JAL 15%; MUFG Bank 5%; GEO 2.63% |
+| Primary role | Operates the Pontaポイント programme and provides loyalty / marketing services described in the company profile |
+| Headquarters | Tokyo |
+| Operating relationship with KDDI / au | KDDI changed au WALLET ポイント to Pontaポイント on 2020-05-21; au PAY users can earn and use Ponta under published service terms |
+| Operating relationship with Lawson | Lawson is a major retail anchor; the 2024 KDDI + Mitsubishi take-private deepens the operational integration |
 
-会社の沿革は 2 つの戦略フェーズを反映している。**2010-2015 の CCC 連合フェーズ** では、創設コンソーシアムへの CCC の関与とともに Ponta が T-Point へのカウンターウェイトであった。**2015 の三菱買収** はロイヤリティマーケティングの支配権を三菱商事のもとに統合し、Ponta を CCC（当時は並行しつつ競合する共通ポイントとして T-Point を保持）から運用上分離した。**2024 の KDDI・三菱によるローソン非公開化** は、共有ロイヤリティ通貨としての Ponta を中心に、テレコム・小売・商社の軸をさらに統合する。
+Sources: Loyalty Marketing's [official company profile](https://www.loyalty.co.jp/company/outline) supplies the establishment date and complete shareholder list; KDDI's [2020-05-21 announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html) supplies the point-service change. The shareholder list does not establish a parent-subsidiary relationship.
 
-## KDDI au PAY linkage — 2024-12 brand unification
+The ownership structure is therefore better described as a **multi-shareholder coalition**, not as a Mitsubishi parent-subsidiary structure. The **2024 KDDI-Mitsubishi take-private of Lawson** changes the retail-channel relationship, while Loyalty Marketing's current shareholder percentages remain the appropriate source for the operator's ownership.
 
-Ponta 経済圏における直近の最も重要な変化は、ウォレット側における au PAY ポイントブランドのもとでの **2024-12 の au PAY ポイント と Pontaポイント の統一** である。その仕組み：
+## KDDI au PAY linkage — 2020 point-service change
 
-| Aspect | Pre-unification | Post-2024-12 unification |
+KDDI's official announcement describes a **2020-05-21 change from au WALLET ポイント to Pontaポイント** and account linking between au ID and Ponta membership. The currency continues to be called Pontaポイント; “au PAY ポイント運用” is a separate service name, not evidence of a renamed common-point currency.
+
+| Aspect | Before 2020-05-21 | From 2020-05-21 |
 |---|---|---|
-| ウォレット-side accrual | au PAY 利用 → au ウォレットポイント（別建て）；Ponta はスキャン＆アーンのサーフェスで付与 | ウォレット活動について au PAY ポイントブランドに統一；Ponta は別個の小売連合アイデンティティを保持 |
-| Card-side accrual | au PAY カード → au ウォレットポイント | au PAY ポイント に統一 |
-| Retail-coalition accrual | ローソン、リクルートの経済圏、JAL 等での Ponta | 小売では Pontaポイント として継続；ウォレット償還は 1:1 で au PAY ポイント に換算 |
-| Customer ID | au-ID（モバイル回線にアンカー）+ Ponta-ID（別建て） | ウォレットレイヤーで連携／統一 |
-| 事業者 | KDDI / au Financial Service（ウォレット）；ロイヤリティマーケティング（Ponta 小売） | KDDI / au Financial Service（ウォレット）；ロイヤリティマーケティング（Ponta 小売）— 連携するが別個の法人 |
+| KDDI point currency | au WALLET ポイント | Pontaポイント |
+| Payment surface | au PAY / predecessor services | au PAY remains the payment surface; eligible transactions earn or use Ponta under current terms |
+| Customer identity | au ID and Ponta member ID were separate | Users can link the IDs under the published process |
+| Programme operator | KDDI operated the legacy point; Loyalty Marketing operated Ponta | Loyalty Marketing operates Ponta; KDDI operates its payment and customer services |
 
-実質的な経済効果は、au の契約者がどの加盟店でも au PAY を使えば単一の統一残高に積算され、その残高がすべての Ponta 受け入れ小売店で機能的に Ponta と等価になる、ということである。戦略的な意図は、**Ponta の連合のリーチを au アンカーのロイヤリティの深さに転換** し、au Financial Holdings のクロスセル（au じぶん銀行、au カブコム証券、au 損害保険）へのファネルを絞り込むことである。
+Sources: KDDI, [“au WALLET ポイント”から“Pontaポイント”へ変更](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html), 2020-05-21. Eligibility, accrual, and redemption remain product- and merchant-specific.
 
-戦略的なフレーミングについては [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]] を参照。
+The strategic effect is that KDDI can connect au PAY and other au services to Ponta's coalition surface. It does not make every au PAY transaction eligible for points, nor does it collapse the operating entities into one company.
+
+For the strategic framing, see [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]].
 
 ## Lawson + Ponta + au — the integration triangle
 
-**ローソンは Ponta 経済圏において最も戦略的に重要な小売アンカー** である。統合のトライアングル：
+**Lawson is the most strategically important retail anchor** in the Ponta ecosystem. The integration triangle:
 
 | Element | Role |
 |---|---|
-| Lawson stores | ~14,000 の店舗ネットワーク；Ponta 付与のための日次トラフィックアンカー |
-| Ponta accrual at Lawson | POS でのスキャン＆アーン；キャンペーン倍率が一般的 |
-| ローソンPonta card | ローソンのコブランドロイヤリティカード |
-| au PAY at Lawson | au 契約者向けのボーナス Ponta 付与を伴う QR 決済受け入れ |
-| 2024 KDDI + 三菱の非公開化 | 両株主ともローソンでの Ponta 統合を深めるインセンティブを持つ |
-| Cross-coalition complication | dポイントは歴史的に提携を通じてローソンでも貯められた；KDDI 所有後は、KDDI の戦略的インセンティブは dポイントよりも Ponta を優遇する |
+| Lawson stores | ~14,000 store network; daily-traffic anchor for Ponta accrual |
+| Ponta accrual at Lawson | Scan-and-earn at POS; campaign multipliers common |
+| ローソンPonta card | Co-branded loyalty card at Lawson |
+| au PAY at Lawson | QR-payment acceptance with bonus Ponta accrual for au subscribers |
+| 2024 KDDI + Mitsubishi take-private | Both shareholders incentivised to deepen Ponta integration at Lawson |
+| Cross-coalition complication | dポイント was historically also earnable at Lawson via partnership; post-KDDI ownership, KDDI's strategic incentive favours Ponta over dポイント |
 
-**2024 の非公開化** は、KDDI の経済的インセンティブが今やローソンでの Ponta 付与／償還の最大化と一致し、ロイヤリティマーケティングにおける三菱商事の既存の運用上の関与は、小売アンカーでの Ponta の成功に両 50% の株主が一致した利害を共有することを意味するため、Ponta とローソンの結びつきを実質的に強化する。ローソン非公開化の深い仕組みと戦略的再編については [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi Corporation 2024 take-private + KDDI tie-up]] を参照。
+Sources: [Ponta](https://www.ponta.jp/), [d Point](https://dpoint.docomo.ne.jp/), and [Lawson news](https://www.lawson.co.jp/company/news/). The final clause is editorial analysis of the public ownership and partnership structure.
 
-**争点となる提携の問い** は、dポイントが中期的にローソンでアーンのパリティを維持するのか、それとも KDDI が徐々にインセンティブ構造を Ponta のみへとシフトさせるのか、である。2024-2025 の運用上の現実は、両ポイントとも依然としてローソンで積算されるが、キャンペーン倍率とボーナスイベントは KDDI に整合したプロモーション期間において Ponta / au PAY ポイント を優遇してきた、ということである。
+The **2024 take-private** materially strengthens the Ponta-Lawson tie because KDDI's economic incentive is now aligned with maximising Ponta accrual / redemption at Lawson, and Mitsubishi Corp's existing operational involvement at Loyalty Marketing means both 50% shareholders share aligned interest in Ponta's success at the retail anchor. For the deep mechanics of the Lawson take-private and the strategic restructuring, see [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi Corporation 2024 take-private + KDDI tie-up]].
 
-## Recruit 経済圏 — じゃらん, Hot Pepper, GEO
+Future campaign balance between Ponta and dポイント at Lawson is an analytical question. Current earn / use eligibility must be checked in Lawson and each programme's live terms; no trend in campaign preference is asserted without dated campaign data.
 
-**リクルートホールディングスの連合** は、非テレコムの日常利用サーフェスを Ponta 経済圏にもたらす：
+## Recruit ecosystem — じゃらん, Hot Pepper, GEO
+
+The **Recruit Holdings coalition** brings non-telco daily-use surfaces to the Ponta ecosystem:
 
 | Recruit service | Ponta integration | Customer category |
 |---|---|---|
-| じゃらん（旅行予約） | 予約時の Ponta 付与；宿泊料金への Ponta 償還 | レジャー／旅行 |
-| Hot Pepper（レストラン／美容予約） | 予約時の Ponta 付与；参加店舗での償還 | 飲食／パーソナルサービス |
-| GEO（レンタル／中古品） | 店舗での Ponta 付与 | エンタメ／中古小売 |
-| Air Regi（リクルートの中小事業者向け POS） | 間接的 — Air Regi 上の加盟店は Ponta 受け入れにオプトインできる | 中小事業者インフラ |
-| ホットペッパーグルメ / ビューティー | 予約で Ponta を獲得 | 裁量的サービス |
+| じゃらん (travel booking) | Ponta accrual on bookings; Ponta redemption for room charges | Leisure / travel |
+| Hot Pepper (restaurant / beauty booking) | Ponta accrual on bookings; redemption at participating venues | Dining / personal services |
+| GEO (rental / used goods) | Ponta accrual at stores | Entertainment / second-hand retail |
+| Air Regi (Recruit's POS for SMB merchants) | Indirect — merchants on Air Regi can opt into Ponta acceptance | SMB merchant infrastructure |
+| ホットペッパーグルメ / ビューティー | Bookings earn Ponta | Discretionary services |
 
-リクルートと Ponta 連合との関係は、Ponta-ID の日常利用頻度を広げる **非三菱・非 KDDI の商業サーフェス** を加える。Ponta 運営会社（ロイヤリティマーケティング）をめぐる歴史的なリクルート・CCC・au・KDDI のクロス・エクイティの動きは、KDDI とリクルートのプレスリリースを通じて公的に文書化されている。
+Recruit's relationship with the Ponta coalition adds **non-Mitsubishi and non-KDDI commercial surfaces**. Loyalty Marketing's current company profile lists Recruit as a 15% shareholder.
 
 ## Comparison with d-Point, PayPay Points, and V-Point
 
-| 項目 | Pontaポイント / au PAY ポイント | dポイント | PayPay Points | V Point |
+| Dimension | Pontaポイント | dポイント | PayPay Points | V Point |
 |---|---|---|---|---|
-| Anchor type | 連合：KDDI テレコム + 三菱小売（ローソン）+ リクルートサービス + JAL 航空 | NTT docomo テレコム | SoftBank / LY ウォレット | SMBC 銀行／カード |
-| 事業者 | ロイヤリティマーケティング（Ponta）+ au Financial Service（au PAY ポイント） | NTT docomo 直営 | PayPay 株式会社 | CCCMK Holdings |
-| Member ID base | 100M+ の Ponta + au ID 合算 | 100M+ の d アカウント | 70M+ の PayPay 登録 | 130M+ 統一 |
-| ウォレット integration | au PAY | d払い | PayPay（支配的；[[payments/japan-code-payment-operator-2025-market-share-matrix|share matrix]] 参照） | V NEAR PAY + Olive |
+| Anchor type | Coalition: KDDI telco + Mitsubishi retail (Lawson) + Recruit services + JAL airline | NTT docomo telco | SoftBank / LY wallet | SMBC bank / card |
+| Operator | Loyalty Marketing | NTT docomo / NTT docomo Financial Group under current terms | PayPay 株式会社 | CCCMK Holdings / SMBC-side services under current terms |
+| Wallet integration | au PAY | d払い | PayPay (dominant; see [[payments/japan-code-payment-operator-2025-market-share-matrix|share matrix]]) | V NEAR PAY + Olive |
 | Credit card | au PAY カード | d Card / d Card GOLD | PayPay Card | SMBC Card / Olive一体型 |
-| Bank | au じぶん銀行 | （NDFG で計画中；現状はパートナー銀行） | PayPay Bank | SMBC / Olive |
-| Securities | au カブコム証券 | （NDFG のもと SMBC アライアンス経路で計画中） | PayPay 証券 | SBI証券協業 |
-| Insurance | au 損害保険 | （NDFG のロールアップで計画中） | LINE保険 / パートナー経路 | SMBC パートナー経路 |
-| Retail flagship | ローソン（50/50 KDDI + 三菱）、リクルートの経済圏、JAL | ローソン（提携）、マクドナルド、マツモトキヨシ、ENEOS | 全国 QR 受け入れ | T-card / TSUTAYA のレガシーネットワーク、ファミリーマートのレガシー |
-| Coalition character | **マルチグループアライアンス**（KDDI + 三菱 + リクルート + JAL） | 単一アンカー（NTT docomo）＋二者間パートナー | 単一アンカー（SoftBank / LY / PayPay）＋全国 QR | 二者間（SMFG + CCC） |
+| Bank | au じぶん銀行 | (planned NDFG; partner banks today) | PayPay Bank | SMBC / Olive |
+| Securities | au カブコム証券 | (planned via SMBC alliance route under NDFG) | PayPay 証券 | SBI証券 cooperation |
+| Insurance | au 損害保険 | (planned NDFG roll-up) | LINE保険 / partner route | SMBC partner route |
+| Retail flagship | Lawson (50/50 KDDI + Mitsubishi), Recruit ecosystem, JAL | Lawson (partnership), McDonald's, Matsumoto Kiyoshi, ENEOS | National QR acceptance | T-card / TSUTAYA legacy network, FamilyMart legacy |
+| Coalition character | **Multi-group alliance** (KDDI + Mitsubishi + Recruit + JAL) | Single-anchor (NTT docomo) with bilateral partners | Single-anchor (SoftBank / LY / PayPay) with national QR | Bilateral (SMFG + CCC) |
 
-構造的な区別は、**Ponta が四大共通ポイントの中で最も連合の形をとっている** という点であり、三つの大規模なエクイティ・ステークホルダー（KDDI、三菱商事、リクルート）に加えて航空（JAL）他がいる。これにより Ponta は最も広い小売・サービスのサーフェスを持つが、単一アンカーのプログラム（d-Point、PayPay Points）が回避する **多者間のガバナンスの複雑性** を生む。
+Sources: [Ponta](https://www.ponta.jp/), [d Point](https://dpoint.docomo.ne.jp/), [PayPay corporate information](https://about.paypay.ne.jp/en/about/), and [V Point](https://vpoint.jp/). The coalition labels compare disclosed programme structures rather than market rankings.
+
+The structural distinction is that **Ponta is the most coalition-shaped of the four major common points**, with three large equity stakeholders (KDDI, Mitsubishi Corp, Recruit) plus airline (JAL) and others. This gives Ponta the broadest retail and service surface but creates **multi-party governance complexity** that single-anchor programmes (d-Point, PayPay Points) avoid.
 
 ## JAL mileage exchange — airline alliance
 
-**JAL アライアンス** は Ponta 経済圏の際立った特徴である。その仕組み：
+The **JAL alliance** is a distinctive feature of the Ponta ecosystem. The mechanics:
 
 | Aspect | Description |
 |---|---|
-| Exchange direction | 定義された換算レートでの Ponta ↔ JAL マイレージ（航空マイレージのプレミアムを反映して、典型的にはいずれの方向でも 1:1 未満） |
-| 決済 | ロイヤリティマーケティングと JAL マイレージバンクの間の二者間ネット決済 |
-| Customer use case | 特典航空券のために Ponta を JAL マイルに換算；日常の小売利用のために JAL マイルを Ponta に換算 |
-| Cross-program economics | 消費者向け換算レートと二者間決済レートの間のスプレッドが運営者のマージン |
+| Exchange direction | Ponta ↔ JAL mileage conversion is offered under published customer terms |
+| Customer rate | The current conversion rate, minimum unit, eligibility, and exclusions must be read from the programme terms at the time of use |
+| Customer use case | Convert Ponta to JAL miles for award flights; convert JAL miles to Ponta for daily retail use |
+| Commercial settlement | The consumer pages do not disclose the operators' settlement timing, settlement rate, credit support, or margin |
 
-この交換関係は日本で最も成熟したものの一つであり、運用上の深さにおいて比較対象となる Rakuten ↔ ANA や dポイント ↔ JAL の交換に先行する。クロスプログラム交換の会計的フレーミングについては、運営者間の負債移転がどのように起こるかを記述する [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] を参照。
+Sources: [Ponta](https://www.ponta.jp/) and [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/). The customer conversion route is public; any bilateral settlement economics are analytical and not presented as a disclosed rate.
+
+For accounting review of an exchange, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]. Recognition depends on the relevant contracts and which entity has the enforceable redemption obligation; a consumer conversion page alone does not establish a “liability transfer” between operators.
 
 ## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger detail]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]
@@ -129,7 +137,7 @@ Ponta 経済圏における直近の最も重要な変化は、ウォレット�
 - [[megabanks/paypay-fg|PayPay FG]]
 - [[megabanks/smfg|SMFG]]
 - [[payment-firms/rakuten-fg|Rakuten FG]]
-- [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan コード決済事業者 2025 市場シェア matrix]]
+- [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]
@@ -139,9 +147,8 @@ Ponta 経済圏における直近の最も重要な変化は、ウォレット�
 ## Sources
 
 - Pontaポイント official: https://www.ponta.jp/
-- au PAY ポイント official: https://aupay.wallet.auone.jp/contents/static/point/
-- ロイヤリティ マーケティング official: https://www.loyalty.co.jp/
-- KDDI corporate newsroom (au PAY ポイント / Ponta unification, Lawson acquisition): https://www.kddi.com/corporate/newsrelease/
+- ロイヤリティ マーケティング 会社概要：https://www.loyalty.co.jp/company/outline
+- KDDI 2020-05-21 Pontaポイント変更発表：https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html
 - 三菱商事 press releases (Lawson investment, Ponta business): https://www.mitsubishicorp.com/jp/ja/pr/
 - Lawson press releases: https://www.lawson.co.jp/company/news/
 - Recruit Holdings newsroom (Ponta history and coalition): https://www.recruit.co.jp/newsroom/

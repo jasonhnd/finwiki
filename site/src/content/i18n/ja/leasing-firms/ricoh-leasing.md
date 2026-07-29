@@ -1,22 +1,24 @@
 ---
 source: leasing-firms/ricoh-leasing
-source_hash: e2c340349408f33a
+source_hash: 6cdade34e218c74e
 lang: ja
 status: machine
 fidelity: ok
-title: "リコーリース"
-translated_at: 2026-06-19T06:09:18.100Z
+title: リコーリース
+translated_at: 2026-07-29T07:37:42Z
 ---
 
 # リコーリース
 
 ## Wiki route
 
-この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置する。ピア／対比のコンテキストとして [[leasing-firms/fuyo-lease|芙蓉総合リース]] と、より広範なシステム／規制上の境界として [[banking/INDEX|banking index]] と照らし合わせて読むこと。リコー／みずほ隣接のリースプラットフォームとして、みずほ側のアセットファイナンス・エクスポージャーをマッピングする際は [[megabanks/mizuho-fg|Mizuho FG]] および [[leasing-firms/mizuho-lease|Mizuho Leasing]] と併せて読むべきである。
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with [[megabanks/mizuho-fg|Mizuho FG]] and [[leasing-firms/mizuho-lease|Mizuho Leasing]] when mapping Mizuho-side asset-finance exposure.
 
 ## TL;DR
 
-リコーリースは リコー の captive (vendor) lease 子会社として 1976 年に設立され、現在は東証 PRIME 8566 上場の独立性のある総合リース会社（みずほ系 + リコー系のハイブリッド構造）。リコー製 OA 機器・複合機リースを起点に、一般機器リース・集金代行・ファクタリング・医療リース・環境リース・海外リースへと多角化しており、準大手リース ([[leasing-firms/fuyo-lease|芙蓉総合リース]] / NECキャピタルソリューション 等) の一角を占める。
+リコーリースはリコー製品の vendor lease を起点に 1976 年に設立され、現在は東証 PRIME 8566 上場の総合リース会社（[リコーリース会社概要](https://www.r-lease.co.jp/corp/about/)）。
+
+2026-04-01 時点の公式会社概要は、リコーとみずほリースを大株主として掲げる。一般機器リース・集金代行・ファクタリング・医療リース・環境リース等へ事業を広げている。
 
 ## 1. License / group boundary
 
@@ -24,15 +26,21 @@ translated_at: 2026-06-19T06:09:18.100Z
 |---|---|
 | Legal name | リコーリース株式会社 / Ricoh Leasing Company, Ltd. |
 | Listing | 東証 PRIME 8566 上場 |
-| Headquarters | 東京都江東区 |
-| Founded | 1976-12-22 |
-| Parent / group | リコー (筆頭株主) + みずほフィナンシャルグループ [[megabanks/mizuho-fg|Mizuho FG]] 系列の安定株主基盤 |
-| License route | Leasing は銀行業許可ではなく、貸金業登録 (FSA money-lending business registration) を貸金関連業務で取得。FIEA Type 1 が必要な特定業務は限定的 |
-| Wiki role | リコー系 captive lease + みずほ系インフラの hybrid 準大手として、[[leasing-firms/mizuho-lease|Mizuho Leasing]] と並ぶ Mizuho 圏内アセットファイナンス機能を補完 |
+| Headquarters | 東京都港区東新橋1-5-2（2026-04-01 時点） |
+| Founded | 1976-12 |
+| Major shareholders | 株式会社リコー、みずほリース株式会社（2026-04-01 時点の公式会社概要） |
+| License route | 貸金業者登録番号：関東財務局長（14）第00286号、登録有効期間：2023-06-30〜2026-06-29 |
+| Wiki role | リコー製品の vendor lease を起点に一般総合リースへ展開した上場会社。リコーと[[leasing-firms/mizuho-lease|みずほリース]]を大株主に持つ |
+
+出典: [リコーリース会社概要](https://www.r-lease.co.jp/corp/about/)
+
+登録情報の出典: [貸金業者登録票](https://www.r-lease.co.jp/assets/docs/kashikingyosha_torokuhyou.pdf)
+
+第一種金融商品取引業に関する従前の記述は、直接の根拠を確認できないため削除した。
 
 ## 2. Business lines
 
-- **情報機器リース (vendor lease)**：親会社リコー製複合機・プリンタ・OA 機器の captive リース
+- **情報機器リース (vendor lease)**：大株主であるリコーの製品（複合機・プリンタ・OA 機器等）を扱う vendor lease
 - **一般機器リース**：工作機械・産業機械・OA 機器・医療機器
 - **集金代行 (収納代行)**：公共料金・各種会費の集金代行は同社の収益柱の一つ
 - **ファクタリング・売掛債権買取**：BtoB 金融サービス
@@ -43,9 +51,9 @@ translated_at: 2026-06-19T06:09:18.100Z
 
 ## 3. Strategy & competitive position
 
-リコーリースは「リコー captive + 独立準大手」というユニークなハイブリッドポジションに位置する。三大リース ([[leasing-firms/orix-corp|オリックス]] / 三菱HCキャピタル / [[leasing-firms/tokyo-century|東京センチュリー]]) と異なり、リコー製品の vendor lease 基盤を持ちながら、集金代行という非リース収益ストリームで安定収益を確保している点が特色。
+リコーリースは、リコー製品の vendor lease を起点とする上場準大手というポジションにある。三大リース ([[leasing-firms/orix-corp|オリックス]] / 三菱HCキャピタル / [[leasing-firms/tokyo-century|東京センチュリー]]) と異なり、メーカー製品の vendor lease 基盤を持ちながら、集金代行という非リース収益ストリームを備える点が特色。
 
-[[leasing-firms/fuyo-lease|芙蓉総合リース]] (同じくみずほ系準大手) と比較すると、リコーリースは captive 色 + 集金代行 + 中小企業向けが強く、芙蓉が大型不動産・航空機・再エネを志向するのとは business mix が異なる。NECキャピタルソリューション (NEC captive) とは「事業会社 captive」というポジショニング上の peer 関係。
+[[leasing-firms/fuyo-lease|芙蓉総合リース]] と比較すると、リコーリースは vendor lease + 集金代行 + 中小企業向けが強く、芙蓉が大型不動産・航空機・再エネを志向するのとは business mix が異なる。NECキャピタルソリューションとは「メーカー製品の vendor lease を起点とする上場会社」というポジショニング上の分析用 peer 関係にある。
 
 近年は **環境ソリューション (太陽光・PPA)** と **海外** を成長軸とし、リコー本体の OA 需要構造変化 (ペーパーレス化) に対するヘッジを意識した戦略。M&A 拡大も活発で、各種ファクタリング会社・地域 captive lease の買収を行っている。
 
@@ -53,7 +61,7 @@ translated_at: 2026-06-19T06:09:18.100Z
 
 ## 4. Why this page matters
 
-- リコー系 captive lease として、メーカー系リースの代表例 (cf. NECキャピタルソリューション / [[card-issuers/toyota-finance|トヨタファイナンス]] 等)
+- メーカー製品の vendor lease を起点とする上場リース会社の代表例 (cf. NECキャピタルソリューション)
 - みずほ系内のリース機能の重複構造 ([[leasing-firms/mizuho-lease|Mizuho Leasing]] / [[leasing-firms/fuyo-lease|芙蓉総合リース]] / 旧 興銀リース → みずほリース統合) の理解に必要なノード
 - 集金代行という非リース収益が安定しており、純粋リース会社とは収益構造が異なる
 - 環境・PPA・海外への展開は準大手リースの成長戦略テンプレ
@@ -78,5 +86,5 @@ translated_at: 2026-06-19T06:09:18.100Z
 
 ---
 
-> [!info] 校核状態
-> confidence: **likely** (公開情報ベース 2026-05-24)。定量数値 (総資産・契約実行高・株主比率) は時点変動が大きく、最新値は半期報告書を要参照。リコー本体の持株比率と みずほ FG 系列銀行団との関係性は今後の親会社戦略により変動する可能性。
+> [!info] 校核状态
+> confidence: **likely** (公開情報ベース 2026-05-24)。定量数値 (総資産・契約実行高・株主比率) は時点変動が大きく、最新値は半期報告書を要参照。リコーおよびみずほリースとの資本・業務関係は、最新の会社概要・適時開示で継続確認する。

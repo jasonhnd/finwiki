@@ -1,122 +1,114 @@
 ---
 source: leasing-firms/tokyo-century
-source_hash: eac77e51914bbfc7
+source_hash: 7db67a2043d094dd
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Century Corporation (東京センチュリー株式会社)"
-translated_at: 2026-06-19T06:09:18.156Z
+translated_at: 2026-07-29T08:00:16Z
 ---
 
 # Tokyo Century Corporation (東京センチュリー株式会社)
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|ORIX Corporation]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-One of Japan's 3  major comprehensive leasing & finance firms (the [[leasing-firms/orix-corp]] / [[megabanks/mufg]]-affiliated group of Mitsubishi HC Capital / Tokyo Century). It has an unusual capital structure with **Mizuho FG ([[megabanks/mizuho-fg]]) + Itochu Corporation as 2 -axis major shareholders**. It is diversified from automobile, IT, and industrial-equipment leasing to real estate, **aircraft finance**, overseas (the Americas / Asia), environment / renewable energy, concessions, and car rental (formerly Nippon Rent-A-Car Service). TSE PRIME **8439**. 2019 年 Through making the U.S. firm Aviation Capital Group (ACG) a wholly owned subsidiary, it entered the **global Top 10 of aircraft leasing**.
+One of Japan's leading diversified leasing and finance companies. Its official company profile lists Itochu Corporation, Chuo-Nittochi, NTT, and Mizuho Bank as major shareholders and does not identify Mizuho FG or Itochu Corporation as a "parent company." Its businesses span automobile, IT, and industrial-equipment leasing; real estate; aircraft finance; overseas operations; environmental and renewable-energy projects; and mobility. The company is listed on TSE PRIME under securities code **8439**.
 
-## 1. Company overview
+## 1. Company Overview
 
 **Legal name**: Tokyo Century Corporation
 **English name**: Tokyo Century Corporation
 **Securities code**: TSE PRIME **8439**
-**Business type**: Comprehensive leasing & finance (one of the 3  major leasing firms)
-**Major shareholders (totaling approx. 50%-class)**:
-- **Mizuho FG ([[megabanks/mizuho-fg]])** (lineage of the former Dai-Ichi Kangyo Bank system)
-- **Itochu Corporation**
+**Business type**: Diversified leasing and finance (one of the 3 major leasing companies)
+**Major shareholders (as of 2025-03-31)**: Itochu Corporation 29.94%, Chuo-Nittochi 14.00%, NTT 10.03%, KS-O 8.43%, Mizuho Bank 3.82%, among others. Source: [Tokyo Century Stock Information](https://www.tokyocentury.co.jp/jp/ir/stock/basic.html). This shareholder structure is not used to infer that any specific company is the parent company.
 
-The 2 -axis shareholder structure is unique among Japan's major comprehensive leasing firms. The Mizuho side provides financial support, and the Itochu side provides a trading-company network (automobiles, industrial equipment, overseas projects), supporting both the procurement of leasing funds and the supply of deals.
+### Major Business Segments
 
-### Major business segments
-
-| Segment | Main business |
+| Segment | Main businesses |
 |---|---|
-| **Equipment & machinery leasing** | Automobiles, IT, industrial equipment, OA |
-| **Real estate** | Real-estate finance, real-estate investment |
-| **Aircraft & vessels** | Aircraft leasing (the core after making U.S. firm ACG 100% a subsidiary), vessel finance |
-| **Overseas** | The Americas, Asia (China, Thailand, Indonesia, etc.) |
-| **Environment & renewable energy** | Solar / wind PPAs, energy management, PPP/concessions |
-| **Mobility** | Car rental of the former Nippon Rent-A-Car Service (NRS) system, fleet management |
-| **Specialty** | Principal investment, venture, startup collaboration |
+| **Equipment and machinery leasing** | Automobiles, IT, industrial equipment, and office-automation equipment |
+| **Real estate** | Real-estate finance and real-estate investment |
+| **Aircraft and vessels** | Aircraft leasing (a core business after U.S.-based ACG became a 100% subsidiary) and vessel finance |
+| **Overseas** | The Americas and Asia (including China, Thailand, and Indonesia) |
+| **Environment and renewable energy** | Solar and wind PPAs, energy management, and PPP / concessions |
+| **Mobility** | Car rental originating from the former Nippon Rent-A-Car Service (NRS) and fleet management |
+| **Specialty** | Principal investment, venture investment, and startup collaboration |
 
-### Major competitors
+Source: [Tokyo Century Company Information](https://www.tokyocentury.co.jp/jp/company/) and [Company Profile](https://www.tokyocentury.co.jp/jp/company/info/outline/) (for the publicly disclosed business categories in this table).
 
-Including the 3  major leasing firms and the quasi-majors, the following:
+### Major Competitors
 
-- **[[leasing-firms/orix-corp]]** (ORIX) ── leasing in origin but now a financial conglomerate
-- **Mitsubishi HC Capital** (within [[megabanks/mufg]], TSE PRIME 8593) ── the former Mitsubishi UFJ Lease + Hitachi Capital
+Including the 3 major leasing companies and the second-tier majors:
+
+- **[[leasing-firms/orix-corp]]** (ORIX) ── Originated in leasing but is now a financial conglomerate
+- **Mitsubishi HC Capital** (within [[megabanks/mufg]], TSE PRIME 8593) ── Formed from the former Mitsubishi UFJ Lease + Hitachi Capital
 - **Tokyo Century** (this page)
-- **Fuyo General Lease ([[leasing-firms/fuyo-lease]])** ── a separate axis of the Mizuho system
-- **SMFL (Sumitomo Mitsui Finance and Leasing)** ── within [[megabanks/smfg]], a Sumitomo Corporation-affiliated joint venture
+- **Fuyo General Lease ([[leasing-firms/fuyo-lease]])** ── A separate Mizuho-affiliated leasing company
+- **SMFL (Sumitomo Mitsui Finance and Leasing)** ── A Sumitomo Corporation-affiliated joint venture within [[megabanks/smfg]]
 
-### The 2  predecessors
+### 2 Predecessors
 
-Tokyo Century was born from **the merger of 2  leasing companies**.
+Tokyo Century was formed through the **merger of 2 leasing companies**.
 
 | Former company | Established | Lineage |
 |---|---|---|
-| **Tokyo Leasing** | 1969 | Former Dai-Ichi Bank / Long-Term Credit Bank of Japan system |
-| **Century Leasing System** | 1969 | Former Dai-Ichi Kangyo Bank / Industrial Bank of Japan (IBJ) system |
+| **Century Leasing System** | 1964 | Established through joint investment by Nippon Kangyo Bank, Kangin Land and Building, and Minamisakura Trading |
+| **Tokyo Leasing** | 1969 | Established through joint investment by Itochu Corporation, Dai-Ichi Bank, Nippon Life Insurance, and Asahi Life Insurance |
 
-Both companies were established in 1969 年, each launched as bank-affiliated firms during the rise of the leasing industry in Japan's period of high economic growth.
+Source: [Tokyo Century Corporate History](https://www.tokyocentury.co.jp/jp/company/chronology/)&nbsp;(accessed&nbsp;2026-07-29).
 
-### Timeline (excerpt)
+### Timeline (Excerpt)
 
 | Year | Event |
 |---|---|
-| 1969 | Tokyo Leasing established (Dai-Ichi Bank / LTCB system) |
-| 1969 | Century Leasing System established (Dai-Ichi Kangyo Bank / IBJ system) |
-| 2009 | **Tokyo Leasing + Century Leasing → Tokyo Century Leasing merger** (consolidating overlapping leasing 2 社 within Mizuho FG amid the flow of Mizuho FG's management integration) |
-| 2016 | Name change: Tokyo Century Leasing → **Tokyo Century** (a statement of intent toward a financial conglomerate beyond the bounds of the leasing business) |
-| 2019 | **Made U.S. firm Aviation Capital Group (ACG) a wholly owned subsidiary** → global Top 10  in aircraft leasing |
+| 1964 | Century Leasing System established |
+| 1969 | Tokyo Leasing established |
+| 2009 | **Century Leasing System + Tokyo Leasing → merger into Tokyo Century Leasing** |
+| 2016 | Company name changed from Tokyo Century Leasing → **Tokyo Century** (signaling an ambition to become a financial conglomerate extending beyond leasing) |
+| 2019 | **U.S.-based Aviation Capital Group (ACG) became a wholly owned subsidiary** → global Top 10 in aircraft leasing |
 | 2024 | Medium-term management plan updated |
 
-The 2009 年 consolidation was carried out in the context of **organizing the keiretsu leasing companies** that stood in parallel multiplicity within Mizuho FG (the former DKB Dai-Ichi Kangyo Bank + IBJ Industrial Bank + Fuji Bank). By integrating the former Dai-Ichi Kangyo Bank-affiliated Century Leasing System with the former Dai-Ichi Bank / LTCB-affiliated Tokyo Leasing, the leasing function within the Mizuho group was consolidated. The deletion of "Leasing" in 2016 年 was a move imitating how ORIX had already become "comprehensive finance."
+Source: [Tokyo Century Corporate History](https://www.tokyocentury.co.jp/jp/company/chronology/) (for the predecessor companies, merger, company-name change, and major business history shown in this table).
 
-### Core businesses
+The facts confirmed by the official corporate history are the merger of the two companies in 2009 and the company-name change in 2016. This page does not make a definitive claim about the reason for the merger or a causal link to reorganization within any specific financial group.
 
-- **Domestic leasing**: automobiles (fleets), IT, industrial equipment, medical equipment
-- **Real-estate finance**: offices, logistics, rental housing
-- **Aircraft leasing**: global via ACG, of global Top 10  scale
+### Core Businesses
 
-### Global expansion
+- **Domestic leasing**: Automobiles (fleets), IT, industrial equipment, and medical equipment
+- **Real-estate finance**: Offices, logistics facilities, and rental housing
+- **Aircraft leasing**: Global operations through ACG, on a global Top 10 scale
 
-- **The Americas**: ACG (aircraft leasing) is the core, plus real-estate and PE investment
-- **Asia**: local leasing joint ventures and local subsidiaries in China, Thailand, Indonesia, Vietnam, etc.
+### Global Expansion
 
-### Environment & social infrastructure
+- **Americas**: ACG (aircraft leasing) is the core, alongside real-estate and PE investment
+- **Asia**: Local leasing joint ventures and subsidiaries in China, Thailand, Indonesia, Vietnam, and other markets
 
-- **Renewable energy**: investment and lending in solar / wind / biomass projects
-- **Concessions**: PPP / PFI projects such as airport operations and water / sewage
-- **EV & mobility**: fleet EV conversion and car-sharing leveraging the former Nippon Rent-A-Car resources
+### Environmental and Social Infrastructure
 
-### Strategic position
+- **Renewable energy**: Investment and lending for solar, wind, and biomass projects
+- **Concessions**: PPP / PFI projects such as airport operations and water and sewerage systems
+- **EV and mobility**: Fleet electrification and car sharing using resources from the former Nippon Rent-A-Car business
 
-Differentiation within the 3  major leasing firms:
+### Strategic Position
 
-| Major firm | Differentiation axis |
-|---|---|
-| [[leasing-firms/orix-corp]] | **Financial-conglomerate** transformation extending to real estate, PE, insurance, and banking |
-| Mitsubishi HC Capital | **A domestic corporate network + global industrial equipment** of the Mitsubishi Corporation + [[megabanks/mufg]] keiretsu |
-| **Tokyo Century** | **The 2 -axis of Mizuho FG + Itochu Corporation**, aircraft leasing (ACG), overseas multi-currency finance |
+Tokyo Century's differentiation can be understood by reading the major shareholder structure shown in its [official company profile](https://www.tokyocentury.co.jp/jp/company/info/outline/) together with the portfolio of aircraft, overseas, environmental-infrastructure, mobility, and other businesses presented in its [Integrated Report](https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/)&nbsp;(2025 Edition). This is an analysis of business positioning and does not indicate a capital-based parent-subsidiary relationship.
 
-The relationship with Itochu Corporation is accurately read in parallel with trading-company-affiliated leasing (Sumitomo Corporation ⇄ SMFL, Mitsubishi Corporation ⇄ Mitsubishi HC Capital).
+## 4. Regulation and Policy
 
-## 4. Regulation & policy
+- **Supervisory authorities**: Financial Services Agency and Ministry of Economy, Trade and Industry (leasing business)
+- **Accounting**: Adoption of IFRS 16 (the new lease-accounting standard) changes the method used to recognize leases in Japan and overseas. The effect on lessors is limited, but it influences lessee companies' decision-making
+- **Holding-company regulation**: Outside the scope of the Banking Act (leasing companies are not banks)
+- **Overseas regulation**: For aircraft leasing, ACG handles compliance with U.S. law and international aviation law, including the Cape Town Convention
 
-- **Supervisor**: Financial Services Agency / Ministry of Economy, Trade and Industry (leasing business)
-- **Accounting**: With the response to IFRS 16 (the new lease-accounting standard), the method of recognizing leases changes domestically and abroad; the impact on the lessor side is minor but it affects the decision-making of lessee firms
-- **Holding-company regulation**: Outside the scope of the Banking Act (leasing companies are not in the banking business)
-- **Overseas regulation**: For aircraft leasing, ACG handles compliance with U.S. law and international aviation law (the Cape Town Convention, etc.)
+### Policy Considerations
 
-### Policy issues
-
-- From 2024 — BOJ policy-rate normalization → upward pressure on borrowing costs vs the risk of a lag in passing through lease fees
-- From 2024 — EV & decarbonization → expanding demand for fleet EV conversion and renewable-energy PPAs is a tailwind
-- From 2025 — the U.S. interest-rate environment → affects ACG aircraft-leasing yields and fluctuations in USD-denominated funding costs
+- 2024 onward — BOJ policy-rate normalization → upward pressure on borrowing costs vs. the risk of delayed pass-through to lease rates
+- 2024 onward — EV adoption and decarbonization → expanding demand for fleet electrification and renewable-energy PPAs is a tailwind
+- 2025 onward — U.S. interest-rate environment → affects ACG aircraft-leasing yields and changes in U.S. dollar funding costs
 
 ## Related
 
@@ -124,10 +116,11 @@ The relationship with Itochu Corporation is accurately read in parallel with tra
 
 ## Sources
 
-- **Wikipedia: Tokyo Century** (public information, 2026-05-19 extraction)
-- Tokyo Century official IR (history, major shareholders, segments; public information)
+- Tokyo Century Company Profile (https://www.tokyocentury.co.jp/jp/company/info/outline/)
+- Tokyo Century Corporate History (https://www.tokyocentury.co.jp/jp/company/chronology/)
+- Tokyo Century Stock Information (https://www.tokyocentury.co.jp/jp/ir/stock/basic.html)
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (public-information-based, 2026-05-19). The history and major-shareholder structure have been confirmed with Wikipedia + the official IR. The ranking position of "global Top 10" in aircraft leasing varies by point in time, so for the strict ranking refer to the latest industry surveys. Specific performance figures (consolidated revenue, operating profit, segment-level earnings) are intentionally omitted — for the latest values, refer directly to the securities report in Tokyo Century's IR.
+> [!info] Verification Status
+> confidence: **likely** (based on public information as of 2026-05-19). The company history and major shareholder structure have been verified against Wikipedia + official IR materials. The "global Top 10" aircraft-leasing ranking varies over time, so the exact position should be checked against the latest industry surveys. Specific financial results (consolidated revenue, operating profit, and segment earnings) are intentionally omitted — consult the latest securities report in Tokyo Century's IR materials.

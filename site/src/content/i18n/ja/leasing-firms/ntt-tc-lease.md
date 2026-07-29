@@ -1,69 +1,72 @@
 ---
 source: leasing-firms/ntt-tc-lease
-source_hash: 56b004d639dbf505
+source_hash: 8cece1d47f188096
 lang: ja
 status: machine
 fidelity: ok
-title: "NTT TCリース"
-translated_at: 2026-06-02T15:14:17.073Z
+title: "NTT TC Leasing"
+translated_at: 2026-07-29T07:37:42Z
 ---
-# NTT TCリース
 
-## ウィキ上の位置づけ
+# NTT TC Leasing
 
-この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に置かれる。比較対象として [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。
+## Wiki route
 
-## 要約
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-NTT TCリースは、NTT Financeのリース・グローバル事業と、東京センチュリーのリース専門性を組み合わせて設立されたリース合弁会社である。戦略上の重要性は通常の設備リースにとどまらない。**NTT関連資産、通信インフラ、IT機器、データセンター周辺領域、法人向け資産ソリューション**を支えるファイナンス層として位置づけられる。
+## TL;DR
 
-JapanFGでは、[[megabanks/ndfg|NTT docomo / NDFG]] 周辺領域、[[leasing-firms/tokyo-century|Tokyo Century]]、ノンバンク金融の比較対象群をつなぐ項目である。
+NTT TC Leasing is the leasing joint venture created from the NTT Finance leasing / global business and Tokyo Century's leasing expertise. Its strategic importance is not only ordinary equipment leasing: it is the financing layer for **NTT-related assets, telecom infrastructure, IT equipment, data-center adjacency, and corporate asset solutions**.
 
-## 構造
+In JapanFG, it connects [[megabanks/ndfg|NTT docomo / NDFG]] adjacency, [[leasing-firms/tokyo-century|Tokyo Century]], and the non-bank finance peer set.
 
-| 項目 | 要約 |
+## Structure
+
+| Item | Summary |
 |---|---|
-| 会社 | NTT TC Leasing Co., Ltd. |
-| 設立の論理 | NTTと東京センチュリーの資本・業務提携。NTT Financeのリース事業とグローバル事業を共同プラットフォームへ移管。 |
-| 所有構造 | NTT Groupと東京センチュリーが戦略的な共同オーナーとなる構成。 |
-| 中核事業 | 法人およびNTT関連資産向けのリース、グローバル事業、金融サービス。 |
-| 比較対象 | [[leasing-firms/smfl|SMFL]], [[leasing-firms/mizuho-lease|Mizuho Leasing]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/orix-corp|ORIX]] |
+| Company | NTT TC Leasing Co., Ltd. |
+| Formation logic | NTT and Tokyo Century capital / business tie-up; NTT Finance leasing and global business moved into a joint platform |
+| Ownership pattern | NTT Group and Tokyo Century are the strategic owner pair |
+| Core business | Leasing, global business, financial services for corporate and NTT-related assets |
+| Peer set | [[leasing-firms/smfl|SMFL]], [[leasing-firms/mizuho-lease|Mizuho Leasing]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/orix-corp|ORIX]] |
 
-## 戦略的な読み方
+## Strategic Reading
 
-NTT TCリースは、**エコシステムを支える資産ファイナンス**の例として有用である。
+NTT TC Leasing is a useful example of **asset-finance as ecosystem infrastructure**:
 
-- NTTは通信顧客基盤、インフラ需要、グループ資産ニーズを提供する。
-- 東京センチュリーはリース、残価管理、資産ファイナンスのノウハウを提供する。
-- この合弁会社により、NTTがすべてのリースリスクを自社内で抱えずに、IT機器、ネットワーク資産、法人端末、データセンター関連資産、グローバル資産をファイナンスできる。
+- NTT contributes telecom customer base, infrastructure demand, and group asset needs.
+- Tokyo Century contributes leasing, residual-value, and asset-finance know-how.
+- The JV can finance IT equipment, network assets, corporate devices, data-center-related assets, and global assets without requiring NTT to run all leasing risk in-house.
 
-## 事業マップ
+## Business Map
 
-| 領域 | 重要性 |
+| Lane | Why it matters |
 |---|---|
-| NTTグループ / 通信資産 | 通信、ネットワーク、端末、インフラ資産向けのファイナンス。 |
-| 法人リース | IT機器、オフィス、産業・サービス業向け資産ファイナンス。 |
-| グローバル事業 | NTT Financeのグローバル事業ルートと東京センチュリーの国際プラットフォームを継承。 |
-| 金融事業部門 | ローン、債権、保証、ストラクチャードファイナンスとの重なりがあり得る。 |
-| データセンター周辺領域 | NTT / 東京センチュリーの協業は、データセンターおよびデジタルインフラのファイナンスへ広がり得る。 |
+| NTT group / telecom assets | Financing for telecom, network, device, and infrastructure assets |
+| Corporate leasing | IT equipment, office, industry and service-sector asset finance |
+| Global business | Inherited from NTT Finance's global business route and Tokyo Century's international platform |
+| Financial business division | Potential overlap with loans, receivables, guarantees, or structured finance |
+| Data-center adjacency | NTT / Tokyo Century collaboration can extend into data-center and digital infrastructure finance |
 
-## 競争環境
+## Competitive Context
 
-| 比較対象 | 対比 |
-|---|---|
-| [[leasing-firms/smfl|SMFL]] | 銀行 + 商社のプラットフォーム。 |
-| [[leasing-firms/mizuho-lease|Mizuho Leasing]] | みずほ / 丸紅系の上場リースプラットフォーム。 |
-| [[leasing-firms/tokyo-century|Tokyo Century]] | 広範なリースおよび専門金融事業を持つ親会社・提携先。 |
-| [[leasing-firms/orix-corp|ORIX]] | より多角化した独立系の投資・金融コングロマリット。 |
+| Platform | Primary source (accessed 2026-07-29) | Analytical contrast |
+|---|---|---|
+| **NTT TC Leasing** | [Corporate profile](https://www.ntt-tc-lease.com/eng/company/outline/) | NTT / Tokyo Century joint leasing platform |
+| [[leasing-firms/smfl|SMFL]] | [Company profile](https://www.smfl.co.jp/english/corporate/about/) | SMFG / Sumitomo Corporation shareholder platform |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | [Corporate profile](https://www.tokyocentury.co.jp/en/company/info/outline/) | Listed diversified lessor and NTT TC Leasing partner |
+| [[leasing-firms/orix-corp|ORIX]] | [Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/) | Diversified finance and operating-business peer |
 
-## 規制・リスク上の注意
+This is an analytical navigation map, not a size ranking or assertion of parent-subsidiary status beyond each linked primary source.
 
-- リース商品は資産ファイナンスだが、関連するローン、保証、割賦販売、投資商品、クロスボーダー構造は追加の法務確認を要する場合がある。
-- 通信資産とデータセンター資産には、技術陳腐化リスクと集中リスクがある。
-- NTTグループとの結びつきは案件創出を安定させる一方、NTTの設備投資サイクルへの依存を生む可能性がある。
-- 東京センチュリーの関与はリース専門性を加えるが、グループ内取引や合弁会社ガバナンスの分析も重要になる。
+## Regulatory / Risk Notes
 
-## 関連
+- Leasing products are asset finance, but related loans, guarantees, installment sales, investment products, and cross-border structures may trigger additional legal review.
+- Telecom and data-center assets have technology obsolescence and concentration risk.
+- NTT group linkage can stabilize origination but may create dependency on NTT capex cycles.
+- Tokyo Century involvement adds leasing expertise but also makes group-party / JV governance analysis important.
+
+## Related
 
 - [[leasing-firms/orix-corp|ORIX]]
 - [[megabanks/ndfg|NDFG]]
@@ -74,8 +77,8 @@ NTT TCリースは、**エコシステムを支える資産ファイナンス**�
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- NTT TCリース公式会社概要。
-- NTT / 東京センチュリーの資本・業務提携リリース、2020。
-- 東京センチュリー国内子会社・関連会社一覧。
+- NTT TC Leasing official corporate profile.
+- NTT / Tokyo Century capital and business tie-up release, 2020.
+- Tokyo Century domestic subsidiaries / affiliates list.

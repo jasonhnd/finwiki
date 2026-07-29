@@ -51,7 +51,7 @@
       "https://shizugin-card.shizuokabank.co.jp/company/",
       "https://ja.wikipedia.org/wiki/静銀カード",
       "https://www.shizuokabank.co.jp/",
-      "https://www.shizuokafg.co.jp/",
+      "https://www.shizuoka-fg.co.jp/company/gaiyo-history.html",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.j-credit.or.jp/"
     ]
@@ -161,13 +161,16 @@
       "https://finwiki.zksc.io/ja/securities-firms/ffg-securities/",
       "https://finwiki.zksc.io/ja/securities-firms/mebuki-securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://shizugin-card.shizuokabank.co.jp/company/",
+      "https://www.shizuoka-fg.co.jp/company/gaiyo-history.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7861,
-    "word_like_tokens": 1198,
+    "nonspace_chars": 8460,
+    "word_like_tokens": 1299,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

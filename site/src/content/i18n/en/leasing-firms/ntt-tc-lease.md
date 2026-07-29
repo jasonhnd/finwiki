@@ -1,12 +1,13 @@
 ---
 source: leasing-firms/ntt-tc-lease
-source_hash: 56b004d639dbf505
+source_hash: 8cece1d47f188096
 lang: en
 status: machine
 fidelity: ok
 title: "NTT TC Leasing"
-translated_at: 2026-06-01T00:41:50.423Z
+translated_at: 2026-07-29T07:39:01Z
 ---
+
 # NTT TC Leasing
 
 ## Wiki route
@@ -49,12 +50,14 @@ NTT TC Leasing is a useful example of **asset-finance as ecosystem infrastructur
 
 ## Competitive Context
 
-| Peer | Contrast |
-|---|---|
-| [[leasing-firms/smfl|SMFL]] | Bank + trading-company platform |
-| [[leasing-firms/mizuho-lease|Mizuho Leasing]] | Mizuho / Marubeni-linked listed leasing platform |
-| [[leasing-firms/tokyo-century|Tokyo Century]] | Parent / partner with broad leasing and specialty finance operations |
-| [[leasing-firms/orix-corp|ORIX]] | More diversified independent investment / finance conglomerate |
+| Platform | Primary source (accessed 2026-07-29) | Analytical contrast |
+|---|---|---|
+| **NTT TC Leasing** | [Corporate profile](https://www.ntt-tc-lease.com/eng/company/outline/) | NTT / Tokyo Century joint leasing platform |
+| [[leasing-firms/smfl|SMFL]] | [Company profile](https://www.smfl.co.jp/english/corporate/about/) | SMFG / Sumitomo Corporation shareholder platform |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | [Corporate profile](https://www.tokyocentury.co.jp/en/company/info/outline/) | Listed diversified lessor and NTT TC Leasing partner |
+| [[leasing-firms/orix-corp|ORIX]] | [Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/) | Diversified finance and operating-business peer |
+
+This is an analytical navigation map, not a size ranking or assertion of parent-subsidiary status beyond each linked primary source.
 
 ## Regulatory / Risk Notes
 

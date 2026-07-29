@@ -39,6 +39,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[
 | Main lanes | Credit card issuing, card loan, bank-agency / payment-app adjacency |
 | Regulatory route | METI Installment Sales Act registered-operator lists; official company profile and lending / bank-agency notices. |
 
+Sources: [楽天カード会社概要](https://www.rakuten-card.co.jp/corporate/info/about/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
+
 ## 2. Business role
 
 - Converts Rakuten commerce and point activity into card usage and recurring account relationships.

@@ -1,11 +1,11 @@
 ---
 source: card-issuers/aeon-financial-service
-source_hash: 03ab5cf580909a15
+source_hash: c2d06b3604b93c65
 lang: en
 status: machine
 fidelity: ok
 title: "イオンフィナンシャルサービス (AEON Financial Service)"
-translated_at: 2026-06-15T03:48:21.863Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # イオンフィナンシャルサービス (AEON Financial Service)
@@ -28,6 +28,8 @@ AEON Financial Service Co., Ltd. (AFS) is the listed holding / coordinating comp
 | Card / credit lane | Comprehensive credit-purchase intermediation under the Installment Sales Act (credit-card installment / installment payment / revolving) |
 | Cash-advance lane | The card's cash-advance line is provided under the framework of the Money Lending Business Act (by subsidiary / product unit) |
 | Supervision | Financial Services Agency (banking / money lending) + Ministry of Economy, Trade and Industry (Installment Sales Act); industry self-regulation is [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
+
+Sources: [Aeon Financial Service company profile](https://www.aeonfinancial.co.jp/corp/about/) for the group and bank relationship, and [METI registered-operator list](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html) for the installment-sales route.
 
 ## 2. Operating model
 

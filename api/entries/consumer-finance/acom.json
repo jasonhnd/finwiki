@@ -40,10 +40,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wikipedia: アコム株式会社 (公開情報, 2026-05-19 参照)",
-      "Acom 公式 IR 開示資料 (公開分・東証 STD 8572)",
-      "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (公開分)",
-      "Wikipedia: グレーゾーン金利 / 改正貸金業法 (公開情報)"
+      "https://www.acom.co.jp/corp/about-us/company/outline/",
+      "https://www.acom.co.jp/corp/about-us/company/history/",
+      "https://www.acom.co.jp/corp/ir/stock/outline/",
+      "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf"
     ]
   },
   "summary": "This entry sits under consumer-finance INDEX. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -87,13 +87,24 @@
       "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 10,
+    "external_links": [
+      "https://www.acom.co.jp/corp/about-us/businessoutline/foreigncountries/",
+      "https://www.acom.co.jp/corp/about-us/businessoutline/guarantee/",
+      "https://www.acom.co.jp/corp/about-us/businessoutline/loan/",
+      "https://www.acom.co.jp/corp/about-us/company/history/",
+      "https://www.acom.co.jp/corp/about-us/company/outline/",
+      "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf",
+      "https://www.acom.co.jp/corp/ir/stock/outline/",
+      "https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf",
+      "https://www.fsa.go.jp/policy/kashikin/",
+      "https://www.smbc-cf.com/corporate/outline.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6241,
-    "word_like_tokens": 1067,
+    "nonspace_chars": 7699,
+    "word_like_tokens": 1282,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

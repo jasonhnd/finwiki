@@ -1,21 +1,21 @@
 ---
 source: card-issuers/jal-card
-source_hash: 805f834e862c1319
+source_hash: 304042fc40665774
 lang: ja
 status: machine
 fidelity: ok
-title: "株式会社JALカード"
-translated_at: 2026-06-02T14:25:12.442Z
+title: "株式会社JALカード (JAL Card)"
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# 株式会社JALカード
+# 株式会社JALカード (JAL Card)
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に位置づける。比較対象の文脈は [[card-issuers/jr-east-financial|株式会社JR東日本ファイナンシャル & View Card]]、規制・登録上の境界は [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] とあわせて読む。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/jr-east-financial|株式会社JR東日本ファイナンシャル & View Card]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
 
-## 要約
+## TL;DR
 
 株式会社JALカード（商号：株式会社ジャルカード）は **日本航空（JAL）のマイル獲得型クレジットカードを発行・運営する企業向け・個人向けカード会社**。1984年10月設立、本店 東京都品川区東品川。**JAL 100% 子会社**、資本金 3 億 6,000 万円。発行カードは VISA / Mastercard / JCB / American Express / Diners Club の 5 国際ブランド全て、提携カード会社（[[card-issuers/jcb|JCB]]・[[card-issuers/smbc-card|三井住友カード]]・[[card-issuers/mufg-nicos|三菱UFJニコス]]等）と組んだ「マイラー専用」アフィニティーカードの最大手の一つ。**ANA カードと共に日本航空業界・マイレージ経済の中核**を成し、競合は [[card-issuers/jr-east-financial|View Card]]・[[card-issuers/credit-saison|セゾン]]・[[card-issuers/epos-card|エポスカード]]等の交通・流通系アフィニティーカード。
 
@@ -78,6 +78,8 @@ translated_at: 2026-06-02T14:25:12.442Z
 | 2024-04 | **JAL Pay** ローンチ — JAL マイル ↔ プリペイド ↔ 加盟店決済の統合 |
 | 2026 | DX 認定事業者として再認定（プレスリリース） |
 
+Sources: [JALカード あゆみ](https://jalcard.jal.co.jp/profile/company/history/) and [JALカード 会社概要](https://jalcard.jal.co.jp/profile/company/overview/). Parent-company restructuring and product dates should be read as JAL/JALカード public disclosures, respectively.
+
 ## 7. 関連企業・取引先
 
 - **国際ブランド提携カード会社**：[[card-issuers/smbc-card|三井住友カード]]（VISA・Mastercard）、[[card-issuers/jcb|JCB]]、[[card-issuers/mufg-nicos|三菱UFJニコス]]（VISA・Mastercard）、American Express、Diners Club
@@ -89,9 +91,9 @@ translated_at: 2026-06-02T14:25:12.442Z
 
 JAL カードは親会社 JAL のセグメント開示には現れないが、**カード発行・割賦販売法・マイル経済・加盟店ネットワーク** という独自規制 / ビジネス境界を持つ。JAL の航空事業ページと混同せず、[[card-issuers/jr-east-financial|JR East Financial]] や [[card-issuers/credit-saison|Credit Saison]] と並ぶ「アフィニティーカード発行体」として独立比較ベンチマークが必要。
 
-## 関連項目
+## Related
 
-- [[card-issuers/jr-east-financial|JR East Financial / View Card]] — 鉄道系アフィニティーカードの比較対象
+- [[card-issuers/jr-east-financial|JR East Financial / View Card]] — 鉄道系アフィニティーカードの peer
 - [[card-issuers/credit-saison|Credit Saison]] — 流通系カード大手
 - [[card-issuers/smbc-card|三井住友カード]] — VISA / Mastercard 提携イシュア
 - [[card-issuers/jcb|JCB]] — JCB 提携イシュア
@@ -102,7 +104,7 @@ JAL カードは親会社 JAL のセグメント開示には現れないが、**
 - [[payments/cashless-jp-landscape|JP キャッシュレス景観]]
 - [[payments/card-acquiring-japan-stack|カードアクワイアリングスタック]]
 
-## 出典
+## Sources
 
 - [JAL カード 会社概要](https://jalcard.jal.co.jp/profile/company/overview/) (2026-05-25 取得)
 - [JAL カード あゆみ（沿革）](https://jalcard.jal.co.jp/profile/company/history/) (2026-05-25 取得)
@@ -112,5 +114,5 @@ JAL カードは親会社 JAL のセグメント開示には現れないが、**
 
 ---
 
-> [!info] 検証状況
-> 信頼度：**高め**（公開された会社概要・沿革・Gビズインフォ法人番号情報・親会社 JAL の連結子会社開示と整合）。年会費・会員数は公式値（2024 年度時点）。年次決算は親会社 JAL 連結に含まれるため独立 P/L 開示は限定的。
+> [!info] 校核状态
+> confidence: **likely**（公開された会社概要・沿革・Gビズインフォ法人番号情報・親会社 JAL の連結子会社開示と整合）。年会費・会員数は公式値（2024 年度時点）。年次決算は親会社 JAL 連結に含まれるため独立 P/L 開示は限定的。

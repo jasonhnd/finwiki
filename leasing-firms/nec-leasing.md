@@ -18,6 +18,8 @@ status: active
 sources:
   - "https://www.necap.co.jp/"
   - "https://www.necap.co.jp/ir/"
+  - "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf"
+  - "https://www.necap.co.jp/company/pdf/FIEA.pdf"
   - "https://www.nec.com/"
   - "https://www.leasing.or.jp/"
   - "東証 PRIME 8793 上場 公開情報"
@@ -27,11 +29,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/ricoh-leasing|リコーリース]] for peer / contrast context (both are事業会社 captive lease) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[leasing-firms/fuyo-lease|芙蓉総合リース]] for the準大手 leasing peer set.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/ricoh-leasing|リコーリース]] for peer / contrast context (both are manufacturer-product vendor lease を起点とする上場会社) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[leasing-firms/fuyo-lease|芙蓉総合リース]] for the準大手 leasing peer set.
 
 ## TL;DR
 
-NECキャピタルソリューション (旧 NECリース) は NEC グループの captive リース子会社として 1978 年に設立され、現在は東証 PRIME 8793 上場の準大手総合リース会社。NEC 製 IT 機器・サーバ・ネットワーク機器・PCの captive リース基盤を起点に、IT サービス融合型ファイナンス・PFI / コンセッション・地方自治体向けリース・環境関連リースへと多角化。「IT 機器特化 + ソリューション提案型リース」という業容で他のリース会社と差別化されており、リコーリース (リコー製品) との対比は典型的事業会社系 captive leasing の peer set。
+NECキャピタルソリューション (旧 NECリース) は NEC 系の機器リースを起点に 1978 年に設立され、現在は東証 PRIME 8793 上場の総合リース会社。NEC は主要株主だが、同社は上場会社であり NEC の子会社とは位置付けない。IT サービス融合型ファイナンス・PFI / コンセッション・地方自治体向けリース・環境関連リースへと多角化している。
 
 ## 1. License / group boundary
 
@@ -40,14 +42,16 @@ NECキャピタルソリューション (旧 NECリース) は NEC グループ�
 | Legal name | NECキャピタルソリューション株式会社 / NEC Capital Solutions Limited |
 | Listing | 東証 PRIME 8793 上場 |
 | Headquarters | 東京都港区 |
-| Founded | 1978-04-01 (旧 日本電気リース → 後 NEC リース → 2006 NECキャピタルソリューション へ社名変更) |
-| Parent / group | 日本電気 (NEC) 筆頭株主。NEC グループ + 戦略株主 (旧 みずほ系 / 旧 住友系銀行団) |
-| License route | 銀行業許可なし。貸金業登録 (FSA money-lending business registration) を関連業務範囲で取得 |
-| Wiki role | NEC グループの captive lease + 一般総合リース hybrid 機能。IT・自治体・PFI 領域に特化 |
+| Founded | 1978-11-30 |
+| Major shareholder / relationship | 日本電気 (NEC) が主要株主（2024-03-31 時点 37.65%）。NEC の子会社とは記載しない |
+| Regulatory disclosures | 事業はリース・割賦・ファクタリング・融資等。第二種金融商品取引業は関東財務局長（金商）第3054号。本ページでは会社固有の貸金業登録番号を確認できないため、貸金業者登録は断定しない |
+| Wiki role | NEC 製品の vendor finance を起点に一般総合リースへ展開した上場会社。IT・自治体・PFI 領域に特化 |
+
+出典: [NECキャピタルソリューション 2024 統合レポート pp.47–50](https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf)（創立日、事業、上場、株主）および[金融商品取引業者登録票](https://www.necap.co.jp/company/pdf/FIEA.pdf)（第二種金融商品取引業の登録番号）。
 
 ## 2. Business lines
 
-- **IT 機器リース (vendor lease)**：親会社 NEC 製サーバ・ネットワーク機器・ストレージの captive リース
+- **IT 機器リース (vendor lease)**：主要株主である NEC の製品（サーバ・ネットワーク機器・ストレージ等）を扱う vendor lease
 - **PC / OA 機器リース**：法人向け一般リース
 - **ソリューションリース**：IT 機器 + 運用・保守・マイグレーション をパッケージ化
 - **自治体・公的セクター向けリース**：地方自治体の IT インフラ・庁舎設備・PFI 関連
@@ -60,14 +64,16 @@ NECキャピタルソリューション (旧 NECリース) は NEC グループ�
 
 NECキャピタルソリューションは「IT 機器特化 + 自治体 / 公的セクター強み」のポジショニング。三大リース ([[leasing-firms/orix-corp|オリックス]] / 三菱HCキャピタル / [[leasing-firms/tokyo-century|東京センチュリー]]) や [[leasing-firms/fuyo-lease|芙蓉総合リース]] と比較すると、業容規模では中位だが、**自治体向け PFI / IT 案件** で独自の競争力を持つ。
 
-リコーリース ([[leasing-firms/ricoh-leasing|リコーリース]]) との対比は事業会社系 captive lease の典型的 peer set：
+リコーリース ([[leasing-firms/ricoh-leasing|リコーリース]]) との対比は、メーカー製品の vendor lease を起点とする上場リース会社の分析用 peer set：
 
 | 観点 | NECキャピタルソリューション | [[leasing-firms/ricoh-leasing|リコーリース]] |
 |---|---|---|
-| 親会社 | NEC (IT インフラ) | リコー (OA 機器・複合機) |
+| 主要株主 / メーカーとの関係 | NEC が 37.65% を保有する主要株主（子会社ではない） | リコーが公式会社概要に記載された大株主 |
 | Captive 軸 | サーバ・ネットワーク IT | 複合機・プリンタ |
 | 非リース収益 | 自治体 PFI・ソリューション | 集金代行・ファクタリング |
 | 上場 | 東証 PRIME 8793 | 東証 PRIME 8566 |
+
+出典: [NECキャピタルソリューションズ](https://www.necap.co.jp/)および[リコーリースIR情報](https://www.r-lease.co.jp/ir/)（各社公開資料に基づく事業軸の比較）。
 
 NEC 本体が「IT ソリューション / システムインテグレーション会社」として変化してきた流れに合わせ、NECキャピタルソリューションも「単純 IT リース」から「IT 運用込ソリューションファイナンス」へとシフトしている点が戦略的特色。
 
@@ -75,7 +81,7 @@ NEC 本体が「IT ソリューション / システムインテグレーショ�
 
 ## 4. Why this page matters
 
-- 事業会社系 captive リースの代表例 ([[leasing-firms/ricoh-leasing|リコーリース]] / [[card-issuers/toyota-finance|トヨタファイナンス]] と並ぶ peer set)
+- メーカー製品の vendor lease を起点とする上場リース会社の代表例 ([[leasing-firms/ricoh-leasing|リコーリース]] などとの分析用 peer set)
 - 自治体 / PFI 領域での IT インフラ × リースの融合は他のリース会社にない競争領域
 - NEC 本体の事業構造変化 (ハード → ソリューション) との連動を理解する切り口
 - 準大手リースの差別化軸 (規模で勝てないなら専門性で勝つ) のサンプル

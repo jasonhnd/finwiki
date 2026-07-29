@@ -1,51 +1,57 @@
 ---
 source: card-issuers/epos-card
-source_hash: 79dbf24660da4e3e
+source_hash: 919a065970f85dcb
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "エポスカード (EPOS Card)"
-translated_at: 2026-06-26T08:31:59.851Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # エポスカード (EPOS Card)
 
-## Wiki 上の位置づけ
+## Wiki route
 
-本項は [[card-issuers/INDEX|card-発行会社 INDEX]]（そのドメインルート）の下に置かれる。小売起点のピア／対比として [[card-issuers/pocket-card|ポケットカード]] および [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] と照らし合わせ、監督・システムの境界として [[financial-regulators/fsa|the FSA]] および [[payments/INDEX|payments]] と照らし合わせて読むこと。アクワイアリングを規律する根拠法は [[card-issuers/installment-sales-act-2020-amendment|割賦販売法 2020 改正]]。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain route). Read it against [[card-issuers/pocket-card|ポケットカード]] and [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] for retail-origin peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[payments/INDEX|payments]] for the supervisory / system boundary. The governing acquiring statute is [[card-issuers/installment-sales-act-2020-amendment|割賦販売法 2020 改正]].
 
-## 要点株式会社エポスカードは、丸井グループ (Marui Group) のカード・金融事業を担う オペレーティング・カンパニー。小売店頭・商業施設・オンライン入会といった生活接点を入会チャネルにする retail-origin 発行会社 で、カード発行・割賦は割賦販売法上の **包括信用購入あっせん** として行われる。預金基盤を持つ銀行系発行会社 とは異なり、テナント網と顧客体験を moat にする点が読みどころ。
+## TL;DR
 
-## 1. ライセンス／グループ境界
+株式会社エポスカードは、丸井グループ (Marui Group) のカード・金融事業を担う operating company。小売店頭・商業施設・オンライン入会といった生活接点を入会チャネルにする retail-origin issuer で、カード発行・割賦は割賦販売法上の **包括信用購入あっせん** として行われる。預金基盤を持つ銀行系 issuer とは異なり、テナント網と顧客体験を moat にする点が読みどころ。
 
-| 項目 | 注記 |
+## 1. License / group boundary
+
+| Item | Notes |
 |---|---|
-| 法人 | 株式会社エポスカード / EPOS Card Co., Ltd. |
-| グループ | 丸井グループ (Marui Group) の金融事業会社 |
-| カード／信用レーン | 割賦販売法上の包括信用購入あっせん（カードショッピング・分割払い／リボ） |
-| キャッシュアドバンス・レーン | カードのキャッシング（cashing）枠は貸金業法の枠組みで提供される |
-| 監督 | 金融庁（貸金）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
-| Wiki 上の役割 | 丸井グループの小売起点カードオペレーティング・カンパニー アンカー |
+| Legal entity | 株式会社エポスカード / EPOS Card Co., Ltd. |
+| Group | 丸井グループ (Marui Group) の金融事業会社 |
+| Card / credit lane | 割賦販売法上の包括信用購入あっせん（カードショッピング・分割払い／リボ） |
+| Cash-advance lane | カードのキャッシング（cashing）枠は貸金業法の枠組みで提供される |
+| Supervision | 金融庁（貸金）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
+| Wiki role | Marui group retail-origin card operating-company anchor |
 
-## 2. 事業モデルエポスカードは丸井の 小売／商業施設リレーションシップ を 顧客獲得チャネル として使い、カード利用を loyalty、テナント／施設経済、家賃保証・保険などの生活密着型金融商品につなぐ。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)、加えて issuing 中心に加盟店・co-brand を展開する。日本のカード発行会社 が必ずしも銀行子会社ではないことを示す典型例で、[[card-issuers/pocket-card|ポケットカード]]・[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] と同じ retail-origin lane に位置する。
+Sources: [エポスカード会社情報](https://www.eposcard.co.jp/company/) for the operating-company boundary and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html) for the statutory route.
 
-## 3. このページが重要な理由
+## 2. Operating model
 
-- メガバンク系カード（例: [[card-issuers/mufg-nicos|三菱UFJニコス]]）と違い、エポスの moat は 小売リレーションシップ・テナント網・顧客体験であって預金基盤ではないことを明確にする。
+エポスカードは丸井の retail / commercial-facility relationship を customer-acquisition channel として使い、カード利用を loyalty、テナント／施設経済、家賃保証・保険などの生活密着型金融商品につなぐ。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)、加えて issuing 中心に加盟店・co-brand を展開する。日本のカード issuer が必ずしも銀行子会社ではないことを示す典型例で、[[card-issuers/pocket-card|ポケットカード]]・[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] と同じ retail-origin lane に位置する。
+
+## 3. Why this page matters
+
+- megabank 系カード（例: [[card-issuers/mufg-nicos|三菱UFJニコス]]）と違い、エポスの moat は retail relationship・テナント網・顧客体験であって預金基盤ではないことを明確にする。
 - 流通・小売起点の card finance を、銀行系・EC系・通信系カードと並べて比較するための anchor を提供する。
 - 包括信用購入あっせん（割賦販売法）という登録ベースの規制業務として位置づけ、単なる「丸井のブランド」ではないことを示す。
 
-## 関連
+## Related
 
 - [[card-issuers/pocket-card|ポケットカード]]
 - [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]]
 - [[card-issuers/credit-saison|クレディセゾン]]
 - [[card-issuers/installment-sales-act-2020-amendment|割賦販売法 2020 改正]]
-- [[card-issuers/INDEX|card-発行会社 INDEX]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
 - EPOS Card company information.
 - METI: registered operators under the Installment Sales Act (包括信用購入あっせん).

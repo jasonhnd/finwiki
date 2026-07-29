@@ -15,10 +15,10 @@ confidence: likely
 tags: [JapanFG, consumer-finance, mufg, operating-profile, lending, guarantee, edinet]
 status: active
 sources:
-  - "https://www.acom.co.jp/corporate/corporate/overview.html"
-  - "https://www.acom.co.jp/corporate/ir/"
-  - "https://disclosure2.edinet-fsa.go.jp/"
-  - "https://www.mufg.jp/profile/group/index.html"
+  - "https://www.acom.co.jp/corp/about-us/company/outline/"
+  - "https://www.acom.co.jp/corp/about-us/company/history/"
+  - "https://www.acom.co.jp/corp/ir/stock/outline/"
+  - "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf"
 ---
 
 # アコム 事業詳細 (Acom Operating Profile)
@@ -30,15 +30,14 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 
 ## TL;DR
 
-[[consumer-finance/acom|アコム株式会社]] (8572 / 東証 STANDARD) は **[[megabanks/mufg|MUFG]] 持分法適用会社（議決権ベース 39.6% 強）** の大手消費者金融。本エントリは事業セグメント・収益構造・保証ビジネス・海外展開・規制対応の**operating-level depth** を扱う。1936-04 神戸で「丸糸呉服店」として木下政雄により創業 → 1978 消費者金融業へ業態転換と「アコム」改称 → 1996-10 東証一部上場 → 2008-10 MUFG TOB で持分法適用化。**アコムの戦略中核 4 セグメント**は (a) ローン（個人カードローン、自動契約機「むじんくん」が物理チャネル）、(b) クレジットカード（AC マスターカード）、(c) **信用保証**（三菱UFJ銀行・地銀向け銀行ローン保証）、(d) **海外金融**（タイ Easy Buy PCL 等）。
+[[consumer-finance/acom|アコム株式会社]] (8572 / 東証 STANDARD) は **[[megabanks/mufg|MUFG]] の連結子会社**である大手消費者金融。本エントリは事業セグメント・収益構造・保証ビジネス・海外展開・規制対応の**operating-level depth** を扱う。1936-04 神戸で「丸糸呉服店」として木下政雄により創業 → 1978 に「アコム」へ改称 → 1996-10 東証一部上場 → 2008-12 MUFG の連結子会社化、という沿革を持つ。**アコムの主要 4 事業**は (a) ローン・クレジットカード、(b) **信用保証**、(c) **海外金融**、(d) 債権管理回収である。
 
 ## 1. 親グループ関係
 
-- **MUFG 出資**：[[megabanks/mufg|MUFG]] が議決権ベース 39.6% 強保有（2024 期報告ベース、議決権 + 信託合算）
-- **連結 vs 持分法**：MUFG 連結ベースでは持分法適用、アコム自体は独立上場会社として東証 STANDARD 8572 にて株主開示
-- **コーポレートガバナンス**：MUFG からの派遣役員 + 創業家・木下家系の役員が併存
-- **MUFG グループ内ポジション**：消費者金融事業は MUFG グループの **「リテール × カード」事業 (Retail & Commercial Banking Business Group)** に位置付け
-- **取引銀行**：[[megabanks/mufg-bank|三菱UFJ銀行]] が主取引銀行・銀行ローン保証ビジネスの主要パートナー
+- **親会社**：[[megabanks/mufg|MUFG]]。アコム公式沿革は 2008-12 の MUFG 連結子会社化を明記する。
+- **直接保有**：アコムの株式情報では、2026-03-31 時点で MUFG が 37.57% を保有する。三菱UFJ信託銀行の 2.01% は別の大株主行として表示されており、両者の単純合算から会計上の分類を推定しない。
+- **上場**：アコム自体は東証 STANDARD 8572 の上場会社として株主情報を開示する。
+- **事業上の関係**：[[megabanks/mufg-bank|三菱UFJ銀行]] はカードローン保証事業の主要提携先である。
 
 ## 2. 事業セグメント詳細
 
@@ -95,16 +94,15 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 
 | 項目 | 規模感 |
 |---|---|
-| 連結 営業収益 | 約 2,700 億円レンジ（2024-03 期） |
-| 連結 営業利益 | 700-1,000 億円レンジ |
-| ローン残高 (個人) | 約 1.6 兆円 |
-| 信用保証残高 | 数千億円〜兆円規模 |
-| タイ Easy Buy 残高 | 数百億円〜千億円レンジ |
-| MUFG 持分比率 | 議決権 39.6% 強（信託含む） |
+| 連結 営業収益 | 3,177 億 42 百万円（2025-03 期） |
+| 連結 営業利益 | 585 億 61 百万円（2025-03 期） |
+| 営業貸付金（連結） | 1 兆 2,020 億 85 百万円（2025-03-31） |
+| 海外金融事業の営業債権 | 2,667 億 94 百万円（2025-03-31） |
+| MUFG 直接保有比率 | 37.57%（2026-03-31） |
 | 上場 | 東証 STANDARD 8572 |
-| 従業員 (連結) | 約 5,000 名 |
+| 従業員 (連結) | 5,498 名（2025-03-31） |
 
-詳細は EDINET 有報・アコム IR 決算短信参照。
+Sources: Acom's [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf) supplies the dated consolidated figures; its [share information](https://www.acom.co.jp/corp/ir/stock/outline/) supplies the 2026-03-31 ownership figure.
 
 ## 6. 戦略・最近の動向
 
@@ -126,7 +124,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 ## Related
 
 - [[consumer-finance/acom|アコム株式会社]] — 親エントリ
-- [[megabanks/mufg|MUFG]] — 持分法適用親グループ
+- [[megabanks/mufg|MUFG]] — 親会社
 - [[megabanks/mufg-bank|三菱UFJ銀行]] — 主取引銀行・信用保証主要パートナー
 - [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] — SMFG 系競合
 - [[consumer-finance/aiful|アイフル]] — 独立系競合
@@ -137,8 +135,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 
 ## Sources
 
-- アコム 公式 会社概要：https://www.acom.co.jp/corporate/corporate/overview.html
-- アコム 公式 IR：https://www.acom.co.jp/corporate/ir/
-- EDINET 開示書類検索：https://disclosure2.edinet-fsa.go.jp/
-- MUFG 公式 グループ会社一覧：https://www.mufg.jp/profile/group/index.html
-- MUFG 統合報告書（消費者金融事業セグメント開示部分）
+- アコム 公式 会社概要：https://www.acom.co.jp/corp/about-us/company/outline/
+- アコム 公式 沿革：https://www.acom.co.jp/corp/about-us/company/history/
+- アコム 公式 株式情報：https://www.acom.co.jp/corp/ir/stock/outline/
+- アコム 第48期事業報告（2025-03期）：https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf

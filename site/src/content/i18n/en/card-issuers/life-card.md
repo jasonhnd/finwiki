@@ -1,11 +1,11 @@
 ---
 source: card-issuers/life-card
-source_hash: 0684637058f2e0b2
+source_hash: 955ae80923d7e342
 lang: en
 status: machine
 fidelity: ok
 title: "Life Card (ライフカード)"
-translated_at: 2026-06-15T03:48:21.905Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Life Card (ライフカード)
@@ -28,6 +28,8 @@ Life Card Co., Ltd. is the card issuer of the [[consumer-finance/aiful|アイフ
 | Prepaid lane | Prepaid cards (the prepaid payment instrument framework under the Payment Services Act) |
 | Cash-advance lane | A card's cash-advance line is under the Money Lending Business Act framework; the group's lending core is [[consumer-finance/aiful|アイフル]] |
 | Supervision | FSA (money lending / prepaid) + METI (Installment Sales Act); self-regulation by [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
+
+Sources: [Life Card company profile](https://www.lifecard.co.jp/company/outline/) and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
 
 ## 2. Operating model
 

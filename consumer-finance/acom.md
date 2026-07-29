@@ -10,10 +10,10 @@ confidence: likely
 tags: [JapanFG, consumer-finance]
 status: active
 sources:
-  - "Wikipedia: アコム株式会社 (公開情報, 2026-05-19 参照)"
-  - Acom 公式 IR 開示資料 (公開分・東証 STD 8572)
-  - MUFG 第 20 期 (2025-03 期) 有価証券報告書 (公開分)
-  - "Wikipedia: グレーゾーン金利 / 改正貸金業法 (公開情報)"
+  - "https://www.acom.co.jp/corp/about-us/company/outline/"
+  - "https://www.acom.co.jp/corp/about-us/company/history/"
+  - "https://www.acom.co.jp/corp/ir/stock/outline/"
+  - "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf"
 ---
 
 # アコム株式会社 (Acom)
@@ -24,7 +24,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## TL;DR
 
-[[megabanks/mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[megabanks/mufg]] 系列）・プロミス（[[megabanks/smfg]] 内 SMBCCF）・アイフル（[[consumer-finance/aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]
+[[megabanks/mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[megabanks/mufg]] 系列）・プロミス（[[megabanks/smfg]] 内 SMBCCF）・アイフル（[[consumer-finance/aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。アコム公式沿革によれば、2008-09 に MUFG との業務・資本提携を強化し、**2008-12 に MUFG の連結子会社**となった。2026-03-31 時点の MUFG 直接保有比率は 37.57% である。
 
 ## 1. 会社概要
 
@@ -40,14 +40,16 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 会社 | 系列 | 主要株主 | 上場区分 |
 |---|---|---|---|
-| **アコム** | **[[megabanks/mufg]] グループ** ★ | **三菱 UFJ 持分法 37.6% + 信託 2.0% = 39.6%** | 東証 STD 8572 |
+| **アコム** | **[[megabanks/mufg]] グループ** ★ | **MUFG 37.57%（2026-03-31、直接保有）** | 東証 STD 8572 |
 | プロミス（SMBC コンシューマーファイナンス）| [[megabanks/smfg]] グループ | SMFG 100% 完全子会社 | 非上場（2012 上場廃止）|
 | [[consumer-finance/aiful]] | 独立系（メガバンク非系列）| 創業家・福田家中心の独立資本 | 東証 PRIME 8515 |
+
+Sources: Acom's [company profile](https://www.acom.co.jp/corp/about-us/company/outline/) and [share information](https://www.acom.co.jp/corp/ir/stock/outline/), Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), and [SMBC Consumer Finance corporate profile](https://www.smbc-cf.com/corporate/outline.html). Holdings are dated and are not used alone to infer consolidation classifications.
 
 ### 主要グループ会社
 
 ```
-アコム（上場 8572、MUFG 持分法 39.6%）
+アコム（上場 8572、MUFG 連結子会社）
   ├── アコム本体 ── 個人向け無担保ローン「アコム」ブランド
   │     ├── ACマスターカード ── クレジットカード機能付きカードローン
   │     └── むじんくん ── 自動契約機（業界象徴的チャネル）
@@ -62,7 +64,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ### MUFG との資本関係
 
-**2008-10-22 MUFG TOB で約 40% 取得 → 持分法適用会社化**。以降、銀行カードローン保証事業（バンクイック）を通じて MUFG リテール戦略の中核に組み込まれている。2025-03-31 時点 持分法 37.6% + 信託 2.0% = **39.6%**（MUFG 第 20 期有価証券報告書ベース）^[extracted]
+アコム公式沿革は、**2008-09 に MUFG との業務・資本提携を強化し、2008-12 に MUFG の連結子会社となった**と記載する。アコムの株式情報では 2026-03-31 時点の MUFG 直接保有は **37.57%**。三菱UFJ信託銀行の 2.01% は別の大株主行として表示されるため、ここでは合算して会計上の分類を推定しない。
 
 ## 2. 事業セグメント・マップ
 
@@ -73,6 +75,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 | **海外（タイ）** | Easy Buy PCL「Umay+」（71% 連結子会社）| **タイ最大級消費者金融**、二輪車ローン軸、業界先行モデル |
 | **債権管理回収（サービサー）** | アイ・アール債権回収 | 自社債権 + 第三者債権の回収業 |
 | **クレジットカード** | ACマスターカード | 自社発行、カードローン一体型、独立ブランド |
+
+Sources: Acom's [business overview](https://www.acom.co.jp/corp/about-us/businessoutline/loan/), [guarantee-business page](https://www.acom.co.jp/corp/about-us/businessoutline/guarantee/), [overseas-business page](https://www.acom.co.jp/corp/about-us/businessoutline/foreigncountries/), and [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf). Comparative characterisations are editorial, not market-share rankings.
 
 ### 自動契約機「むじんくん」
 
@@ -101,26 +105,26 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 | **2006-01-13** | **最高裁判決「グレーゾーン金利」事実上違法化** ★ → 過払い金請求殺到 ^[extracted] |
 | 2006-12 | 改正貸金業法成立（上限金利 29.2% → 20% 引下げ・総量規制導入、施行 2010-06） |
 | 2007〜 | 過払い金返還損失で業界全体が経営苦境化 |
-| **2008-10-22** | **MUFG が TOB でアコム株式約 40% 取得 → 持分法適用会社化** ★ ^[extracted] |
+| **2008-09〜12** | **MUFG との業務・資本提携を強化し、12月に MUFG の連結子会社化** ★ |
 | 2010-06 | **改正貸金業法 完全施行**（上限金利 20%・総量規制年収 1/3） |
 | 2010-2015 | 過払い金返還継続、業界全体で武富士は会社更生、アコムは MUFG 体制下で継続 |
 | 2014〜 | 営業再開・収益回復フェーズ、銀行カードローン保証事業の比重拡大 |
 | 2017-2019 | 業績回復・黒字化定着、MUFG リテール連携深化 |
 | 2022-04 | 東証市場区分見直し → **東証 STANDARD 8572** ^[extracted] |
-| 2025-03 期 | MUFG 持分法 37.6% + 信託 2.0% = 39.6% 維持（MUFG 有価証券報告書ベース） |
+| 2026-03-31 | MUFG の直接保有 37.57%。三菱UFJ信託銀行は別に 2.01% と開示 |
+
+Sources: Acom's [corporate history](https://www.acom.co.jp/corp/about-us/company/history/) and dated [share information](https://www.acom.co.jp/corp/ir/stock/outline/), plus the [Financial Services Agency's Money Lending Business Act materials](https://www.fsa.go.jp/policy/kashikin/). The consolidation classification comes from the corporate history, not a percentage calculation.
 
 ### 過払い金問題と MUFG TOB（2006-2008）★
 
 - **最高裁判決（2006-01-13）**: 貸金業法の「みなし弁済」規定をほぼ否定 → 利息制限法（上限 15-20%）超過分は不当利得として返還義務
 - **2006 改正貸金業法**: 上限金利を 29.2% → 20% に引下げ、**総量規制**（年収 1/3）導入
 - **過払い金返還**: 業界全体で数兆円規模、アコムも巨額引当で経営圧迫
-- **2008-10-22 MUFG TOB**: 三菱 UFJ 銀行（当時 三菱東京 UFJ 銀行）が約 40% 取得、持分法適用会社化で資本注入と銀行系列再編が実現 ^[extracted]
+- **2008-09〜12 MUFG 提携強化**: 業務・資本提携を強化し、12月に MUFG の連結子会社となった
 
 ### MUFG 系列としての位置付け ★
 
 - **銀行カードローン保証**: バンクイック保証で MUFG リテール戦略の中核
-- **資金調達**: MUFG グループ内資金調達で独立系（[[consumer-finance/aiful]]）より低コスト
-- **顧客送客**: 三菱 UFJ 銀行 ATM・店舗との連携で集客効率
 - **海外**: Easy Buy（タイ）が MUFG ASEAN 戦略（[[megabanks/mufg]] Krungsri）と補完関係
 
 ### 競合構造
@@ -132,6 +136,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 | 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン（直営）| 全メガバンク・地銀 | アコム保証経由で「敵ではなくインフラ提供先」関係も多数 |
 | [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
+
+Sources: Acom's [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf), Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), and [SMBC Consumer Finance's company profile](https://www.smbc-cf.com/corporate/outline.html). The “difference” column is a high-level product-boundary comparison, not a claim of relative performance.
 
 ### 中期戦略（公開された方向性）
 
@@ -165,7 +171,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## Related
 
-- [[megabanks/mufg]] — 親会社（持分法 37.6% + 信託 2.0% = 39.6%）
+- [[megabanks/mufg]] — 親会社（2026-03-31 直接保有 37.57%）
 - [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
 - [[consumer-finance/aiful]] — 3 大消費者金融の競合（独立系・東証 PRIME 8515）
 - [[card-issuers/jaccs]] — 信販大手・隣接業態
@@ -177,13 +183,12 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## Sources
 
-- **Wikipedia: アコム株式会社**（https://ja.wikipedia.org/wiki/アコム, 2026-05-19 参照、公開情報のみ）
-- **Acom 公式 IR**（東証 STANDARD 8572 開示資料、公開分・有価証券報告書）
-- **MUFG 第 20 期（2025-03 期）有価証券報告書**（公開分、持分法 37.6% + 信託 2.0% = 39.6% の根拠）
-- **Wikipedia: グレーゾーン金利 / 改正貸金業法 / 最高裁 2006-01-13 判決**（公開法令・判例）
-- **Wikipedia: Easy Buy PCL / Umay+**（タイ拠点関連、公開情報）
+- **アコム 公式 会社概要**：https://www.acom.co.jp/corp/about-us/company/outline/
+- **アコム 公式 沿革**：https://www.acom.co.jp/corp/about-us/company/history/
+- **アコム 公式 株式情報**：https://www.acom.co.jp/corp/ir/stock/outline/
+- **アコム 第48期事業報告（2025-03期）**：https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（公開情報のみで構成、2026-05-19）。創業年（1936 神戸・丸糸呉服店）・改称年（1978）・上場年（1996-10 東証一部）・MUFG TOB（2008-10-22）・持分法比率（39.6%）・Easy Buy（タイ 71%）は Wikipedia + MUFG 公開有報 + 公開判例で確認可能な範囲。FY2024 個別数値は公開分のみ、内部資料・非公開情報は一切含まず。
+> confidence: **likely**（公開情報のみで構成）。創業・改称・上場・2008年の MUFG 連結子会社化はアコム公式沿革、保有比率は 2026-03-31 時点のアコム公式株式情報、FY2025 数値と Easy Buy 出資は第48期事業報告で確認した。内部資料・非公開情報は一切含まない。

@@ -14,8 +14,8 @@ confidence: likely
 tags: [JapanFG, leasing, finance, sbi-shinsei-group, captive-lease, non-bank-finance]
 status: active
 sources:
-  - "https://www.showa-leasing.co.jp/"
-  - "https://www.showa-leasing.co.jp/company/"
+  - "https://www.s-l.co.jp/company/profile/"
+  - "https://www.s-l.co.jp/company/profile/history.html"
   - "https://www.sbishinseibank.co.jp/"
   - "https://www.leasing.or.jp/"
 ---
@@ -36,11 +36,13 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 |---|---|
 | Legal name | 昭和リース株式会社 / Showa Leasing Co., Ltd. |
 | Listing | 非上場 (SBI新生銀行 100% 子会社) |
-| Headquarters | 東京都千代田区 |
-| Founded | 1969-04 |
+| Headquarters | 東京都中央区日本橋室町2-4-3 |
+| Founded | 1969-04-02 |
 | Parent / group | [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] (旧 新生銀行・旧 日本長期信用銀行) → SBIホールディングス 傘下 |
-| License route | 銀行業許可なし。貸金業登録 (FSA money-lending business registration) を関連業務範囲で取得 |
+| Regulatory scope | 公式企業概要が示す事業はリース、割賦販売、各種ファイナンス。本ページでは会社固有の貸金業登録番号を確認できないため、貸金業者登録は断定しない |
 | Wiki role | SBI新生銀行グループの captive リース機能ノード。グループ内では [[consumer-finance/shinsei-financial|新生フィナンシャル]] (消費者金融) と業容棲み分け |
+
+出典: [昭和リース企業概要](https://www.s-l.co.jp/company/profile/)（所在地、設立日、SBI新生銀行 100% 株主、事業）および[沿革](https://www.s-l.co.jp/company/profile/history.html)（2016 年の完全子会社化）。
 
 ## 2. Business lines
 
@@ -84,7 +86,8 @@ SBIホールディングス傘下入り (2021 以降) に伴い、SBI グルー�
 
 ## Sources
 
-- 昭和リース 公式コーポレートサイト (https://www.showa-leasing.co.jp/)
+- 昭和リース 企業概要 (https://www.s-l.co.jp/company/profile/)
+- 昭和リース 沿革 (https://www.s-l.co.jp/company/profile/history.html)
 - SBI新生銀行 IR / 開示資料
 - 公益社団法人リース事業協会 (JLA) 統計 (https://www.leasing.or.jp/)
 

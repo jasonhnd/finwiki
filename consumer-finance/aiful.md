@@ -41,9 +41,11 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 会社 | 系列 | 主要株主 |
 |---|---|---|
-| アコム | [[megabanks/mufg]] グループ | 三菱 UFJ 銀行 持分法 39.6% |
+| アコム | [[megabanks/mufg]] グループ | MUFG 37.57%（2026-03-31、直接保有） |
 | プロミス（SMBC コンシューマーファイナンス）| [[megabanks/smfg]] グループ | SMFG 100% 完全子会社 |
-| **アイフル** | **独立系**（メガバンク非系列）★ | **創業家・福田家中心の独立資本** |
+| **アイフル** | **独立系**（メガバンク非系列）★ | **AMG 19.80%、福田光秀 12.99%（2025-03-31）** |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), Acom's [share information](https://www.acom.co.jp/corp/ir/stock/outline/), and [SMBC Consumer Finance's company profile](https://www.smbc-cf.com/corporate/outline.html). Holdings are dated; no accounting classification is inferred from percentage alone.
 
 ### 主要グループ会社
 
@@ -59,7 +61,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ### 創業家・独立性
 
-**創業家・福田家中心の独立資本構造**が最大の特徴。アコム（[[megabanks/mufg]] 持分法 39.6%）・プロミス（[[megabanks/smfg]] 100% 完全子会社）と異なり、メガバンク系列に組み込まれていない大手消費者金融としては唯一。^[extracted]
+メガバンク親会社を持たない**独立系**であることが最大の特徴。2025-03-31 時点の大株主は AMG 19.80%、福田光秀 12.99%、日本マスタートラスト信託銀行（信託口）8.97%、マルタカ5.13%など。アコム（[[megabanks/mufg]] の連結子会社）・プロミス（[[megabanks/smfg]] 100% 完全子会社）とは資本構造が異なる。
 
 ## 2. 事業セグメント・マップ
 
@@ -71,6 +73,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 | **不動産担保ローン** | キャレント・本体 | 担保ローン軸の補完 |
 | **保証事業** | 銀行カードローンの保証受託 | 銀行へのインフラ提供 |
 | **海外**（ASEAN） | タイ・インドネシア等 | 現地法人で個人向け小口金融、後発 |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf) and [company information](https://www.aiful.co.jp/company/). The descriptions identify disclosed business categories and do not quantify market position.
 
 ### 与信・テクノロジー
 
@@ -103,6 +107,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 | 2022-04 | 東証市場区分見直し → **東証 PRIME 8515** |
 | 2024〜 | **中期経営計画**（黒字化定着フェーズ、AI 与信・Web 完結拡充）|
 
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), the [Financial Services Agency's Money Lending Business Act materials](https://www.fsa.go.jp/policy/kashikin/), and the FSA's [administrative-action publications](https://www.fsa.go.jp/news/). Dates and legal actions should be checked against those primary records.
+
 ### 過払い金問題（2006〜）の影響 ★
 
 - **最高裁判決（2006-01-13）**: 貸金業法の「みなし弁済」規定をほぼ否定 → 利息制限法（上限 15-20%）超過分は不当利得として返還義務
@@ -121,11 +127,13 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 競合 | 系列 | アイフルとの差 |
 |---|---|---|
-| アコム | [[megabanks/mufg]] 系列（持分法 39.6%）| 親会社の銀行 ATM・送客で先行、海外（タイ Easy Buy 等）展開 |
+| アコム | [[megabanks/mufg]] 連結子会社 | 銀行カードローン保証、海外（タイ Easy Buy 等）展開 |
 | [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
 | 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン | 全メガバンク・地銀 | 銀行直営の低金利カードローンが代替商品化 |
 | [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
+
+Sources: Aiful's [FY2025 securities report](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), Acom's [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf), and [SMBC Consumer Finance's company profile](https://www.smbc-cf.com/corporate/outline.html). The final column is an editorial product-boundary comparison rather than a performance ranking.
 
 ### 中期戦略（公開された方向性）
 
@@ -157,7 +165,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## Related
 
-- [[megabanks/mufg]] — 3 大消費者金融の競合（アコム持分法 39.6%）
+- [[megabanks/mufg]] — 3 大消費者金融の競合（アコムの親会社）
 - [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
 - [[card-issuers/jaccs]] — 信販大手・隣接業態
 - [[card-issuers/orico]] — 信販大手・隣接業態
@@ -168,7 +176,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 ## Sources
 
 - **Wikipedia: アイフル株式会社**（https://ja.wikipedia.org/wiki/アイフル, 2026-05-19 参照、公開情報のみ）
-- **Aiful 公式 IR**（東証 PRIME 8515 開示資料、公開分・有価証券報告書）
+- **Aiful 第48期有価証券報告書（2025-03期）**：https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf
 - **金融庁 業務改善命令 公表資料**（2008-04 アイフルへの業務改善命令、公開分）
 - **改正貸金業法・最高裁 2006-01-13 判決**（公開法令・判例）
 

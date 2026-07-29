@@ -1,11 +1,11 @@
 ---
 source: card-issuers/ucs-card
-source_hash: 16a7accf84b864ab
+source_hash: dbbd44368e439f83
 lang: en
 status: machine
 fidelity: ok
 title: "UCS Card (UCS)"
-translated_at: 2026-06-01T02:31:57.132Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # UCS Card (UCS)
 
@@ -26,6 +26,8 @@ UCS is a retail finance operator handling credit cards, majica electronic money,
 | Main lanes | Credit card, majica electronic money, insurance agency, leasing / FIEA-adjacent services |
 | Retail context | PPIH / UNY / majica payment and loyalty ecosystem |
 | Regulatory route | Lending registration shown in official profile; Installment Sales Act lists for card-credit control. |
+
+Sources: [UCS company profile](https://www.ucscard.co.jp/company/com/profile/) and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
 
 ## 2. Business role
 
