@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-30T00:31:32+09:00",
+  "generated_at": "2026-07-30T00:32:43+09:00",
   "counts": {
     "markdown_files": 1607,
     "public_markdown_pages": 1606,
@@ -106314,7 +106314,7 @@
       "entity_edges": [],
       "nonspace_chars": 3375,
       "word_like_tokens": 626,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-07-30"
     }
   ]
 }
