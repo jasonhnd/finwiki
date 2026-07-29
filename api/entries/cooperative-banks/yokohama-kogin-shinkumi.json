@@ -25,8 +25,8 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -52,8 +52,6 @@
       "https://www.dic.go.jp/",
       "https://www.yokohamakougin.co.jp/about/overview.html",
       "https://www.yokohamakougin.co.jp/disclosure/index.html",
-      "https://ja.wikipedia.org/wiki/横浜幸銀信用組合",
-      "https://ja.wikipedia.org/wiki/商銀信用組合",
       "中小企業等協同組合法"
     ]
   },
@@ -96,14 +94,15 @@
       "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
     ],
-    "external_links_count": 1,
+    "external_links_count": 2,
     "external_links": [
+      "https://www.yokohamakougin.co.jp/about/overview.html",
       "https://www.yokohamakougin.co.jp/disclosure/index.html"
     ]
   },
   "metrics": {
-    "nonspace_chars": 5078,
-    "word_like_tokens": 746,
+    "nonspace_chars": 4860,
+    "word_like_tokens": 712,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-06"
   }

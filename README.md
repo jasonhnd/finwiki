@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1601 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1602 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1103万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,027,888） |
+| Text volume | 約1104万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,035,466） |
 | Word-like tokens | 約178万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -57,6 +57,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 26. 決済事業者・前払式支払手段の content review では、現行法人、ブランド沿革、登録区分、チャージ経路、払戻条件、モバイル対応を別々の主張として確認します。グループ銀行、ATM、カードとの運用関係を、発行者責任、保証、財務的なバックストップと推定せず、会社概要、規制当局の登録簿、商品規約・公式発表を優先します。
 27. 地域銀行・小売金融・証券会社の content review では、現法人と前身、設立と営業開始、上場市場、親会社・議決権、登録番号、本店所在地、将来予定の商号変更を別々に確認します。将来日が付いた取引・組織再編・改称は完了済みと扱わず、会社概要、沿革、規制当局・取引所資料、当事者の適時開示を優先します。
 28. table provenance の content review では、遠い source inventory や generic marker で unsupported table を cover しません。公開仕様・法令・registry・公式開示で architecture、責任境界、動的指標を区別し、未開示の TVL、validator 数、保険額、採用・順位、固定 fee / latency を確定値から除外します。一つの source set が table 全体を支える場合だけ scoped lead / caption / footer を使い、根拠が行ごとに異なる場合は row-level marker / direct public link を維持し、ja / en mirrors を同じ作業で同期します。
+29. mirror の一括同期では、source-language body を完全一致させ、翻訳側は Markdown shape、wikilink target、URL、provenance marker、金額・比率の意味を照合します。`million` / `billion` / `trillion` と 万 / 億 / 兆 の変換は数量級で検証し、`i18n:status` の stale / orphaned / missing / needs-review をすべて 0 にしてから公開します。
 
 ### 検証
 
@@ -77,11 +78,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1601 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1602 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~11.03M chars | ~11,027,888 non-space UTF-8 characters across Markdown |
+| Text volume | ~11.04M chars | ~11,035,466 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.78M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -126,6 +127,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 26. Content review for payment operators and prepaid instruments verifies the current legal entity, brand history, registration category, charge rail, refund terms, and mobile support as separate claims. An operational relationship with a group bank, ATM, or card is not inferred to be issuer liability, a guarantee, or a financial backstop; prefer corporate profiles, regulator registries, product terms, and official announcements.
 27. Content review for regional banks, retail finance, and securities firms verifies the current entity versus its predecessors, incorporation versus business launch, listing venue, parent and voting rights, registration number, head-office location, and future trade-name changes as separate facts. A dated transaction, reorganization, or rename is not treated as completed before its effective date; prefer corporate profiles and histories, regulator and exchange records, and issuer disclosures.
 28. Table-provenance content review does not cover an unsupported table with a distant source inventory or generic marker. Distinguish architecture, responsibility boundaries, and dynamic metrics using public specifications, laws, registries, and official disclosures; remove undisclosed TVL, validator counts, insurance amounts, adoption / ranking, and fixed fee / latency from definitive values. Use a scoped lead / caption / footer only when one source set supports the whole table, retain row-level markers / direct public links when evidence differs by row, and synchronize ja/en mirrors in the same work unit.
+29. Bulk mirror synchronization keeps the source-language body byte-equivalent and checks the translated side for Markdown shape, wikilink targets, URLs, provenance markers, and the semantic value of amounts and ratios. Validate `million` / `billion` / `trillion` conversions against 万 / 億 / 兆 by order of magnitude, and publish only after `i18n:status` reports zero stale, orphaned, missing, and needs-review mirrors.
 
 ### Validation
 
@@ -146,11 +148,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1601 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1602 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1103万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,027,888） |
+| Text volume | 约1104万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,035,466） |
 | Word-like tokens | 约178万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -195,6 +197,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 26. 复核支付运营商与预付式支付工具时，必须把现行法人、品牌沿革、登记类别、充值路径、退款条件与移动端支持视为独立主张逐项核实。不得把集团银行、ATM 或卡片的运营关系推断为发行人责任、保证或财务 backstop；优先使用公司资料、监管登记簿、产品条款与官方公告。
 27. 复核区域银行、零售金融与证券公司时，必须把现行法人和前身、设立与开业、上市市场、母公司与表决权、登记编号、总部所在地、未来商号变更视为独立事实逐项核实。带未来生效日的交易、重组或更名不得提前写成已完成；优先使用公司概要与沿革、监管/交易所资料和当事方公告。
 28. 复核 table provenance 时，不得用远处的 source inventory 或 generic marker 覆盖 unsupported table。必须依照公开规范、法律、registry 与官方披露区分 architecture、责任边界和动态指标，并从确定值中删除未披露的 TVL、validator 数量、保险金额、adoption / ranking 与固定 fee / latency。只有同一组资料支持整张表时才使用 scoped lead / caption / footer；各行证据不同时保留 row-level marker / direct public link，并在同一工作单元同步 ja / en mirrors。
+29. 批量同步 mirror 时，source-language body 必须完全一致；翻译侧必须检查 Markdown shape、wikilink target、URL、provenance marker，以及金额和比例的语义值。`million` / `billion` / `trillion` 与 万 / 亿 / 兆 的换算必须按数量级验证，并在 `i18n:status` 的 stale / orphaned / missing / needs-review 全部为 0 后才发布。
 
 ### 验证
 

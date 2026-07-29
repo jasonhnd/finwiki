@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T10:53:53+09:00",
+  "generated_at": "2026-07-29T12:49:10+09:00",
   "counts": {
-    "markdown_files": 1601,
-    "public_markdown_pages": 1600,
+    "markdown_files": 1602,
+    "public_markdown_pages": 1601,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11027888,
-    "word_like_tokens": 1776277,
+    "nonspace_utf8_chars": 11035466,
+    "word_like_tokens": 1776904,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 02 corrections (#232)",
+        "2026-07-29 - Table provenance batch 03 corrections (#233)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 01 corrections (#231)"
+        "2026-07-29 - Table provenance batch 02 corrections (#232)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 230134,
-      "word_like_tokens": 42175,
+      "nonspace_chars": 235818,
+      "word_like_tokens": 43225,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 20407,
-      "word_like_tokens": 3511,
+      "nonspace_chars": 21210,
+      "word_like_tokens": 3643,
       "last_modified": "2026-07-29"
     },
     {
@@ -7539,8 +7539,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3515,
-      "word_like_tokens": 569,
+      "nonspace_chars": 3984,
+      "word_like_tokens": 651,
       "last_modified": "2026-06-04"
     },
     {
@@ -7659,8 +7659,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13498,
-      "word_like_tokens": 1864,
+      "nonspace_chars": 13747,
+      "word_like_tokens": 1912,
       "last_modified": "2026-06-04"
     },
     {
@@ -7747,8 +7747,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 18287,
-      "word_like_tokens": 2832,
+      "nonspace_chars": 19647,
+      "word_like_tokens": 2953,
       "last_modified": "2026-07-29"
     },
     {
@@ -7772,7 +7772,7 @@
         "TL;DR",
         "1. Identity and group position",
         "Why a securities group built a bank",
-        "Group structure (post-Orix Bank acquisition completion)",
+        "Announced group structure if the Orix Bank transaction completes",
         "Brokerage-linked deposit core (MRF / sweep mechanics)",
         "Yen and foreign-currency deposit",
         "Asset-formation support",
@@ -7827,8 +7827,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11440,
-      "word_like_tokens": 1802,
+      "nonspace_chars": 13716,
+      "word_like_tokens": 2203,
       "last_modified": "2026-06-22"
     },
     {
@@ -7976,7 +7976,7 @@
         "Corporate / SME / freelancer account franchise",
         "Business-loan flagship: あんしんワイド",
         "Bank API for Developers",
-        "Partner ecosystem (representative)"
+        "Partner evidence protocol"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -7994,7 +7994,6 @@
         "banking/sony-bank",
         "banking/ui-bank",
         "financial-licenses/bank-license-and-baas-boundary",
-        "fintech/japan-stablecoin-regulatory-landscape",
         "payment-firms/gmo-aozora-net",
         "payment-firms/gmo-coin",
         "payment-firms/gmo-financial-hd",
@@ -8021,7 +8020,6 @@
         "https://finwiki.zksc.io/ja/banking/sony-bank/",
         "https://finwiki.zksc.io/ja/banking/ui-bank/",
         "https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/",
-        "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
         "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
         "https://finwiki.zksc.io/ja/payment-firms/gmo-coin/",
         "https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/",
@@ -8035,8 +8033,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11637,
-      "word_like_tokens": 1850,
+      "nonspace_chars": 13902,
+      "word_like_tokens": 2215,
       "last_modified": "2026-06-08"
     },
     {
@@ -8157,8 +8155,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6320,
-      "word_like_tokens": 1000,
+      "nonspace_chars": 7167,
+      "word_like_tokens": 1145,
       "last_modified": "2026-06-04"
     },
     {
@@ -8175,7 +8173,7 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This",
+      "summary": "Japan's deposit-taking system is not one legal form. The Banking Act, the Act on Engagement in Trust Business Activities by Financial Institutions, 信用金庫法, 中小企業等協同組合法 / 協金法, 労働金庫法, 農協法 / 水協法, and 農林中央金庫法 create different perimeters. At the same time, “megabank”, “regional bank”, “second regional bank",
       "headings": [
         "Japan banking-license tier comparison matrix",
         "TL;DR",
@@ -8198,14 +8196,13 @@
         "banking/japan-baas-operating-models",
         "banking/japan-net-bank-competition-map",
         "banking/jf-marine-bank-system-japan",
+        "banking/post-megabank-positioning",
         "banking/regional-bank-consolidation-pattern",
         "banking/rokin-bank-registry-japan",
         "banking/shinkin-bank-registry-japan",
         "banking/trust-bank-custody-operating-comparison",
         "cooperative-banks/norinchukin",
-        "cooperative-banks/norinchukin\\",
         "cooperative-banks/shinkin-central",
-        "cooperative-banks/shinkin-central\\",
         "financial-licenses/INDEX",
         "financial-licenses/bank-license-and-baas-boundary",
         "financial-regulators/yokin-hoken-kiko",
@@ -8221,6 +8218,7 @@
         "https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/",
         "https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/",
         "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+        "https://finwiki.zksc.io/ja/banking/post-megabank-positioning/",
         "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
         "https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/",
         "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
@@ -8234,8 +8232,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 30105,
-      "word_like_tokens": 4612,
+      "nonspace_chars": 32433,
+      "word_like_tokens": 4971,
       "last_modified": "2026-06-06"
     },
     {
@@ -8252,7 +8250,7 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's \"cooperative-finance\" lane is not one system. There are five distinct federation-anchored systems sitting under three different ministries and three different statutes: JA Bank (497 JA + 31 Shinnoren + 農中 under 農協法 / 農林中央金庫法, joint FSA + 農水省), JF Marine Bank (71 JF + 10 JF Shingyoren + 農中 un",
+      "summary": "Japan's \"cooperative-finance\" lane is not one system. The dated public snapshots used here distinguish JA Bank (497 JA + 31 Shinnoren + Norinchukin at 2025-04-01), JF Marine Bank (71 JF + 10 JF Shingyoren + Norinchukin at 2025-04-01), 信用金庫 (254 shinkin in the cited FSA workbook), 信用組合 (143 shinkumi",
       "headings": [
         "Japan cooperative-banking unified federation matrix",
         "TL;DR",
@@ -8270,11 +8268,8 @@
         "banking/INDEX",
         "banking/cooperative-banking-japan",
         "banking/credit-cooperative-registry-japan",
-        "banking/foreign-bank-japan-retreat",
         "banking/ja-bank-system-japan",
         "banking/japan-banking-license-tier-comparison-matrix",
-        "banking/japan-foreign-bank-retreat-refocus-timeline-matrix",
-        "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix",
         "banking/jf-marine-bank-system-japan",
         "banking/regional-bank-consolidation-pattern",
         "banking/rokin-bank-registry-japan",
@@ -8307,11 +8302,8 @@
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
         "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
-        "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
         "https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/",
         "https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/",
-        "https://finwiki.zksc.io/ja/banking/japan-foreign-bank-retreat-refocus-timeline-matrix/",
-        "https://finwiki.zksc.io/ja/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/",
         "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
         "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
         "https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/",
@@ -8332,8 +8324,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 34677,
-      "word_like_tokens": 5310,
+      "nonspace_chars": 35002,
+      "word_like_tokens": 5430,
       "last_modified": "2026-06-04"
     },
     {
@@ -8350,7 +8342,7 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Foreign banks did not \"leave Japan\" between 2000-2026. They narrowed. The retail-heavy presence that several global banks built up in the 1980s-2000s gave way to a focused mix of corporate banking, markets, custody / asset-servicing, ICSD gateway, wealth management (often via Japanese JV), and Asia-",
+      "summary": "“A foreign bank left Japan” can refer to a retail-service closure, a legal-entity exit, a business-line transfer, or a global-parent merger. Those are different events. This page limits its timeline to changes supported by an official registry, regulator, or announcement by the parties. It does not",
       "headings": [
         "Japan foreign-bank retreat and refocus timeline matrix",
         "TL;DR",
@@ -8372,69 +8364,39 @@
         "banking/japan-net-bank-competition-map",
         "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix",
         "banking/japan-trust-bank-vs-global-custodian-comparison-matrix",
-        "banking/japan-trust-bank-vs-global-custodian-comparison-matrix\\",
         "banking/post-megabank-positioning",
         "financial-licenses/INDEX",
-        "financial-licenses/bank-license-and-baas-boundary",
         "foreign-financial-institutions/bank-of-america-japan",
-        "foreign-financial-institutions/bank-of-america-japan\\",
         "foreign-financial-institutions/barclays-japan",
-        "foreign-financial-institutions/barclays-japan\\",
         "foreign-financial-institutions/bnp-paribas-japan",
-        "foreign-financial-institutions/bnp-paribas-japan\\",
         "foreign-financial-institutions/bny-mellon-japan",
-        "foreign-financial-institutions/bny-mellon-japan\\",
         "foreign-financial-institutions/citigroup-japan",
-        "foreign-financial-institutions/citigroup-japan\\",
         "foreign-financial-institutions/commerzbank-japan",
-        "foreign-financial-institutions/commerzbank-japan\\",
         "foreign-financial-institutions/credit-agricole-bank-japan",
-        "foreign-financial-institutions/credit-agricole-bank-japan\\",
         "foreign-financial-institutions/dbs-bank-japan",
-        "foreign-financial-institutions/dbs-bank-japan\\",
         "foreign-financial-institutions/deutsche-japan",
-        "foreign-financial-institutions/deutsche-japan\\",
         "foreign-financial-institutions/foreign-bank-branches-japan-index",
         "foreign-financial-institutions/hsbc-japan",
-        "foreign-financial-institutions/hsbc-japan\\",
         "foreign-financial-institutions/ing-bank-japan",
-        "foreign-financial-institutions/ing-bank-japan\\",
         "foreign-financial-institutions/intesa-sanpaolo-japan",
-        "foreign-financial-institutions/intesa-sanpaolo-japan\\",
         "foreign-financial-institutions/jpmorgan-japan",
-        "foreign-financial-institutions/jpmorgan-japan\\",
         "foreign-financial-institutions/natixis-japan",
-        "foreign-financial-institutions/natixis-japan\\",
         "foreign-financial-institutions/ocbc-bank-japan",
-        "foreign-financial-institutions/ocbc-bank-japan\\",
         "foreign-financial-institutions/rbc-japan",
-        "foreign-financial-institutions/rbc-japan\\",
         "foreign-financial-institutions/socgen-japan",
-        "foreign-financial-institutions/socgen-japan\\",
         "foreign-financial-institutions/standard-chartered-japan",
-        "foreign-financial-institutions/standard-chartered-japan\\",
         "foreign-financial-institutions/state-street-japan",
-        "foreign-financial-institutions/state-street-japan\\",
         "foreign-financial-institutions/ubs-japan",
-        "foreign-financial-institutions/ubs-japan\\",
         "foreign-financial-institutions/uob-bank-japan",
-        "foreign-financial-institutions/uob-bank-japan\\",
         "foreign-financial-institutions/wells-fargo-japan",
-        "foreign-financial-institutions/wells-fargo-japan\\",
         "insurance/INDEX",
-        "megabanks/mufg-bank\\",
         "securities-firms/goldman-sachs-japan",
-        "securities-firms/goldman-sachs-japan\\",
         "securities-firms/morgan-stanley-japan",
-        "securities-firms/morgan-stanley-japan\\",
         "securities-firms/smbc-nikko-securities",
         "trust-banks/custody-bank",
-        "trust-banks/custody-bank\\",
         "trust-banks/master-trust-bank",
-        "trust-banks/master-trust-bank\\",
         "trust-banks/smbc-trust-bank",
-        "trust-banks/sumitomo-mitsui-trust",
-        "trust-banks/sumitomo-mitsui-trust\\"
+        "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
@@ -8447,7 +8409,6 @@
         "https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/",
         "https://finwiki.zksc.io/ja/banking/post-megabank-positioning/",
         "https://finwiki.zksc.io/ja/domains/financial-licenses/",
-        "https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/barclays-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/bnp-paribas-japan/",
@@ -8482,8 +8443,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 31484,
-      "word_like_tokens": 5071,
+      "nonspace_chars": 20994,
+      "word_like_tokens": 3293,
       "last_modified": "2026-07-29"
     },
     {
@@ -8541,8 +8502,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5613,
-      "word_like_tokens": 836,
+      "nonspace_chars": 6081,
+      "word_like_tokens": 912,
       "last_modified": "2026-06-06"
     },
     {
@@ -8615,8 +8576,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6457,
-      "word_like_tokens": 1000,
+      "nonspace_chars": 6994,
+      "word_like_tokens": 1091,
       "last_modified": "2026-06-04"
     },
     {
@@ -8633,18 +8594,18 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's net-bank cohort entered 2026 as a clearly segmented competitive surface rather than one undifferentiated category. The ten-plus operators range from trillion-yen deposit franchises (Rakuten Bank, Sumishin SBI Net Bank, Sony Bank) to specialist BaaS / partner-led brands (Minna Bank, Sumishin",
+      "summary": "Japan's online-bank market is not one homogeneous category. Operators differ by group ownership, direct-versus-partner distribution, product scope, and public disclosure format. This page therefore records where each claim can be verified rather than freezing volatile balances, rates, fees, rankings",
       "headings": [
         "Japan net bank deposit & feature matrix 2026",
         "TL;DR",
         "Wiki route",
         "Why deposit feature comparison matters in 2026",
         "Bank universe in scope",
-        "Core matrix — deposit base and parent ecosystem",
-        "Core matrix — FX, mortgage, card, and API depth",
-        "Core matrix — 2025-2026 growth, fees, interest, embedded-finance partnerships",
+        "Core matrix — entity and disclosure route",
+        "Core matrix — product evidence map",
+        "Publication protocol for volatile comparisons",
         "Differentiation axes",
-        "Deposit-base scale tier"
+        "Deposit-base comparison"
       ],
       "wikilinks": [
         "INDEX",
@@ -8672,15 +8633,12 @@
         "card-issuers/paypay-card",
         "finance/japan-acquisition-finance",
         "fintech/INDEX",
-        "megabanks/au-fh",
         "megabanks/mufg",
         "megabanks/sbi-hd",
         "regional-banks/01-bank",
-        "regional-banks/aozora-bank",
         "regional-banks/japan-post-bank",
         "regional-banks/sbi-shinsei-bank",
-        "securities-firms/daiwa-sg",
-        "securities-firms/sbi-fx-trade"
+        "securities-firms/daiwa-sg"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
@@ -8707,21 +8665,18 @@
         "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
         "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
         "https://finwiki.zksc.io/ja/domains/fintech/",
-        "https://finwiki.zksc.io/ja/megabanks/au-fh/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/aozora-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
-        "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
-        "https://finwiki.zksc.io/ja/securities-firms/sbi-fx-trade/"
+        "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19084,
-      "word_like_tokens": 3150,
+      "nonspace_chars": 15408,
+      "word_like_tokens": 2503,
       "last_modified": "2026-06-04"
     },
     {
@@ -8763,7 +8718,6 @@
         "financial-regulators/cci-group",
         "financial-regulators/cci-group\\",
         "life-insurers/td-hd",
-        "life-insurers/td-hd\\",
         "megabanks/ndfg",
         "megabanks/resona-bank",
         "megabanks/resona-hd",
@@ -8840,11 +8794,8 @@
         "regional-banks/san-jusan-fg",
         "regional-banks/san-jusan-fg\\",
         "regional-banks/sapporo-hokuyo-bank",
-        "regional-banks/sbi-shinsei-bank",
         "regional-banks/sbi-shinsei-bank\\",
         "regional-banks/sendai-bank\\",
-        "regional-banks/shimane-bank",
-        "regional-banks/shimane-bank\\",
         "regional-banks/shizuoka-fg",
         "regional-banks/shizuoka-fg\\",
         "regional-banks/shonai-bank\\",
@@ -8894,8 +8845,6 @@
         "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-fhd/",
         "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
-        "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/yamaguchi-fg/",
@@ -8904,8 +8853,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 33366,
-      "word_like_tokens": 5813,
+      "nonspace_chars": 32371,
+      "word_like_tokens": 5576,
       "last_modified": "2026-06-06"
     },
     {
@@ -8929,7 +8878,7 @@
         "TL;DR",
         "1. The three-layer perimeter",
         "Deposit token — within the standard bank deposit regime",
-        "Bank-issued EPI (預金型) — bridging deposit and broader circulation",
+        "Category-1 EPI issuance route",
         "Trust-type EPI (信託型) — the institutional-platform lane",
         "3. Issuer / distributor anchor map (2025–2026)",
         "Why platform-provider ≠ issuer",
@@ -8998,8 +8947,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13216,
-      "word_like_tokens": 2117,
+      "nonspace_chars": 14555,
+      "word_like_tokens": 2308,
       "last_modified": "2026-07-29"
     },
     {
@@ -9075,8 +9024,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6224,
-      "word_like_tokens": 907,
+      "nonspace_chars": 6654,
+      "word_like_tokens": 976,
       "last_modified": "2026-06-04"
     },
     {
@@ -9093,7 +9042,7 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks",
+      "summary": "This page compares what can be verified about Japanese trust banks and global custodians operating in Japan. It does not rank pricing power, infer customer mandates, or assume market connectivity from a group brand. Legal-entity status comes from FSA registers; business scope from each entity's offi",
       "headings": [
         "Japan trust bank vs global custodian comparison matrix",
         "TL;DR",
@@ -9103,7 +9052,7 @@
         "Comparison Matrix (global custodians in Japan)",
         "Cross-camp matrix view",
         "Master Trust vs Custody Bank of Japan — 2020 統合の意味",
-        "Pricing power dynamics",
+        "Public comparison limits",
         "Interpretation rules"
       ],
       "wikilinks": [
@@ -9161,8 +9110,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13121,
-      "word_like_tokens": 2157,
+      "nonspace_chars": 12661,
+      "word_like_tokens": 1945,
       "last_modified": "2026-06-04"
     },
     {
@@ -9179,18 +9128,18 @@
       "domain": "banking",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under banking index as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside JASDEC entity page and JSCC clearing corp for the market-infrastructure side; with Master Trust Bank operating model, Custody Bank",
+      "summary": "This entry sits under banking index as a settlement-infrastructure companion to JASDEC entity page and JSCC clearing corp. Use it with Master Trust Bank operating model, Custody Bank operating model, Japan master trust and custody bank landscape, trust-bank custody operating comparison, and Japan ma",
       "headings": [
         "JASDEC settlement operations",
         "Wiki route",
         "TL;DR",
-        "1. 機関位置",
-        "What JASDEC is not",
-        "Participant types",
-        "Book-entry systems",
-        "DVP and ancillary services",
-        "Function-type breakdown",
-        "3. 競合構造"
+        "1. Entity and legal-operating perimeter",
+        "2. System map",
+        "3. Participant vocabulary",
+        "4. Clearing, matching, securities settlement, and cash settlement",
+        "5. Corrections to avoid",
+        "6. Trust-bank and custody research boundary",
+        "Related"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -9208,7 +9157,6 @@
         "foreign-financial-institutions/euroclear-bank-japan",
         "foreign-financial-institutions/jpmorgan-japan",
         "foreign-financial-institutions/state-street-japan",
-        "payment-firms/progmat",
         "securities/japan-market-infrastructure-map",
         "securities/japan-securities-clearing-corp",
         "securities/japan-securities-depository-center",
@@ -9220,7 +9168,6 @@
         "trust-banks/master-trust-bank",
         "trust-banks/mitsubishi-ufj-trust-bank",
         "trust-banks/mizuho-trust-bank",
-        "trust-banks/nochu-trust-bank",
         "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
@@ -9239,7 +9186,6 @@
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/euroclear-bank-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/",
-        "https://finwiki.zksc.io/ja/payment-firms/progmat/",
         "https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/",
         "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
         "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
@@ -9251,14 +9197,13 @@
         "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
-        "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13873,
-      "word_like_tokens": 2046,
+      "nonspace_chars": 11420,
+      "word_like_tokens": 1809,
       "last_modified": "2026-06-04"
     },
     {
@@ -9337,9 +9282,6 @@
         "Three competitive layers"
       ],
       "wikilinks": [
-        "asset-managers/mitsubishi-ufj-asset-management",
-        "asset-managers/nomura-asset-management",
-        "asset-managers/sbi-asset-management",
         "banking/INDEX",
         "banking/custody-bank-operating-model",
         "banking/japan-banking-license-tier-comparison-matrix",
@@ -9367,8 +9309,6 @@
         "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
-        "https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/",
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/custody-bank-operating-model/",
         "https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/",
@@ -9398,8 +9338,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17587,
-      "word_like_tokens": 2654,
+      "nonspace_chars": 17653,
+      "word_like_tokens": 2573,
       "last_modified": "2026-06-04"
     },
     {
@@ -9457,8 +9397,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2778,
-      "word_like_tokens": 367,
+      "nonspace_chars": 3242,
+      "word_like_tokens": 454,
       "last_modified": "2026-06-04"
     },
     {
@@ -9512,8 +9452,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2414,
-      "word_like_tokens": 332,
+      "nonspace_chars": 2789,
+      "word_like_tokens": 391,
       "last_modified": "2026-06-04"
     },
     {
@@ -9567,8 +9507,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2938,
-      "word_like_tokens": 441,
+      "nonspace_chars": 3584,
+      "word_like_tokens": 555,
       "last_modified": "2026-06-04"
     },
     {
@@ -9710,8 +9650,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14739,
-      "word_like_tokens": 2218,
+      "nonspace_chars": 14913,
+      "word_like_tokens": 2134,
       "last_modified": "2026-06-04"
     },
     {
@@ -9781,8 +9721,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3205,
-      "word_like_tokens": 480,
+      "nonspace_chars": 3547,
+      "word_like_tokens": 536,
       "last_modified": "2026-06-04"
     },
     {
@@ -9808,7 +9748,7 @@
         "方式選択の論点",
         "事業者側の観点",
         "ユーザ側の観点",
-        "副産物：Pay-easy 7日送金制限",
+        "入金後の利用制限",
         "電子決済等代行業登録の意味",
         "参照系 API と 更新系 API"
       ],
@@ -9833,8 +9773,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2939,
-      "word_like_tokens": 474,
+      "nonspace_chars": 3144,
+      "word_like_tokens": 450,
       "last_modified": "2026-05-29"
     },
     {
@@ -9957,8 +9897,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6034,
-      "word_like_tokens": 923,
+      "nonspace_chars": 6699,
+      "word_like_tokens": 1037,
       "last_modified": "2026-06-04"
     },
     {
@@ -10067,8 +10007,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3643,
-      "word_like_tokens": 576,
+      "nonspace_chars": 3882,
+      "word_like_tokens": 624,
       "last_modified": "2026-06-04"
     },
     {
@@ -10115,8 +10055,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 20679,
-      "word_like_tokens": 2877,
+      "nonspace_chars": 20923,
+      "word_like_tokens": 2925,
       "last_modified": "2026-06-04"
     },
     {
@@ -10188,8 +10128,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8684,
-      "word_like_tokens": 1437,
+      "nonspace_chars": 10152,
+      "word_like_tokens": 1688,
       "last_modified": "2026-07-29"
     },
     {
@@ -10260,8 +10200,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7681,
-      "word_like_tokens": 1111,
+      "nonspace_chars": 8531,
+      "word_like_tokens": 1251,
       "last_modified": "2026-06-04"
     },
     {
@@ -10288,8 +10228,8 @@
         "Pension trust admin fees",
         "Securities investment trust admin fees",
         "Real-estate trust fees (full-service trust banks only)",
-        "Cross-bank fee-economy matrix (10 entities)",
-        "Pricing-power summary"
+        "Cross-entity public comparison boundary",
+        "Fee trends"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -10351,8 +10291,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15207,
-      "word_like_tokens": 2414,
+      "nonspace_chars": 13727,
+      "word_like_tokens": 2095,
       "last_modified": "2026-06-04"
     },
     {
@@ -10398,10 +10338,7 @@
         "banking/regional-bank-consolidation-pattern",
         "banking/sony-bank",
         "financial-licenses/bank-license-and-baas-boundary",
-        "megabanks/resona-hd",
-        "megabanks/saitama-resona-bank",
         "regional-banks/01-bank",
-        "regional-banks/fukuoka-fg",
         "regional-banks/kiraboshi-bank",
         "regional-banks/kiraboshi-fg",
         "regional-banks/ui-bank"
@@ -10422,10 +10359,7 @@
         "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
         "https://finwiki.zksc.io/ja/banking/sony-bank/",
         "https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/",
-        "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
-        "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/ui-bank/"
@@ -10433,8 +10367,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9076,
-      "word_like_tokens": 1533,
+      "nonspace_chars": 8227,
+      "word_like_tokens": 1375,
       "last_modified": "2026-06-08"
     },
     {
@@ -14078,7 +14012,7 @@
         "全国医療系信組ネットワーク ^[extracted FSA registry 抜粋]",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI"
+        "5. KPI update route"
       ],
       "wikilinks": [
         "banking/cooperative-banking-japan",
@@ -14105,13 +14039,11 @@
         "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
         "https://finwiki.zksc.io/ja/financial-regulators/dic/"
       ],
-      "markdown_links": [
-        "https://www.iryoushin.com/"
-      ],
+      "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5452,
-      "word_like_tokens": 776,
+      "nonspace_chars": 5136,
+      "word_like_tokens": 690,
       "last_modified": "2026-06-06"
     },
     {
@@ -14138,7 +14070,7 @@
         "全信組連内の位置付け",
         "商銀系信組の歴史的背景 ^[extracted]",
         "主要業務 ^[extracted]",
-        "5. KPI",
+        "5. KPI update route",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -14167,13 +14099,11 @@
         "https://finwiki.zksc.io/ja/regional-banks/aichi-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/nagoya-bank/"
       ],
-      "markdown_links": [
-        "https://www.a-sg.jp/shogin/discloser/"
-      ],
+      "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4569,
-      "word_like_tokens": 660,
+      "nonspace_chars": 4602,
+      "word_like_tokens": 616,
       "last_modified": "2026-06-06"
     },
     {
@@ -14231,8 +14161,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3475,
-      "word_like_tokens": 508,
+      "nonspace_chars": 3654,
+      "word_like_tokens": 533,
       "last_modified": "2026-06-05"
     },
     {
@@ -14249,7 +14179,7 @@
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX as the largest of the 13 rokin (labour bank) operating companies in Japan, providing the rokin-side operating-company anchor parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central ins",
+      "summary": "This entry sits under cooperative-banks INDEX as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central institution, rokin registry for the 13-rok",
       "headings": [
         "中央労働金庫 (Chuo Rokin / Central Labour Bank)",
         "Wiki route",
@@ -14292,11 +14222,13 @@
         "https://finwiki.zksc.io/ja/financial-regulators/dic/",
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://chuo.rokin.com/aboutus/profile/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5990,
-      "word_like_tokens": 961,
+      "nonspace_chars": 5756,
+      "word_like_tokens": 912,
       "last_modified": "2026-06-06"
     },
     {
@@ -14324,7 +14256,7 @@
         "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI"
+        "5. KPI update route"
       ],
       "wikilinks": [
         "JapanFG/fukuoka-shinkin",
@@ -14350,13 +14282,11 @@
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-fhd/"
       ],
-      "markdown_links": [
-        "https://kenshin-f.jp/disclosure/"
-      ],
+      "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4703,
-      "word_like_tokens": 686,
+      "nonspace_chars": 4558,
+      "word_like_tokens": 624,
       "last_modified": "2026-06-06"
     },
     {
@@ -14373,7 +14303,7 @@
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫 and 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block (岐阜信用金庫 is the third-largest Chubu shinkin by deposits, behind those two), and against Japan shinkin bank registry for the broader system / regulatory boundar",
+      "summary": "This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫 and 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block, and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
       "headings": [
         "岐阜信用金庫",
         "Wiki route",
@@ -14411,8 +14341,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2800,
-      "word_like_tokens": 402,
+      "nonspace_chars": 2560,
+      "word_like_tokens": 360,
       "last_modified": "2026-06-06"
     },
     {
@@ -14468,8 +14398,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3546,
-      "word_like_tokens": 510,
+      "nonspace_chars": 3717,
+      "word_like_tokens": 532,
       "last_modified": "2026-06-05"
     },
     {
@@ -14496,7 +14426,7 @@
         "全信組連内の位置付け",
         "朝銀系信用組合の歴史的経緯 ^[extracted/inferred]",
         "主要業務 ^[extracted]",
-        "5. KPI",
+        "5. KPI update route",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -14521,13 +14451,11 @@
         "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
         "https://finwiki.zksc.io/ja/financial-regulators/dic/"
       ],
-      "markdown_links": [
-        "https://www.hanashinkumi.com/info/disclosure.php"
-      ],
+      "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4552,
-      "word_like_tokens": 637,
+      "nonspace_chars": 4430,
+      "word_like_tokens": 571,
       "last_modified": "2026-06-06"
     },
     {
@@ -14581,12 +14509,13 @@
         "https://finwiki.zksc.io/ja/regional-banks/toho-bank/"
       ],
       "markdown_links": [
-        "https://www.iwaki-shinkumi.com/about-disk.html"
+        "https://www.iwaki-shinkumi.com/about-disk.html",
+        "https://www.iwaki-shinkumi.shinkumi.net/about-profile.html"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4586,
-      "word_like_tokens": 686,
+      "nonspace_chars": 4751,
+      "word_like_tokens": 714,
       "last_modified": "2026-06-08"
     },
     {
@@ -14644,11 +14573,13 @@
         "https://finwiki.zksc.io/ja/non-life-insurers/ja-kyosairen/",
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "http://shinren.jatokyo.or.jp/organization.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5322,
-      "word_like_tokens": 882,
+      "nonspace_chars": 5124,
+      "word_like_tokens": 826,
       "last_modified": "2026-06-06"
     },
     {
@@ -14766,8 +14697,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3188,
-      "word_like_tokens": 523,
+      "nonspace_chars": 3534,
+      "word_like_tokens": 519,
       "last_modified": "2026-06-06"
     },
     {
@@ -14879,11 +14810,14 @@
         "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
         "https://finwiki.zksc.io/ja/non-life-insurers/ja-kyosairen/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.zennoh.or.jp/about/financial/statement/r6-7.html",
+        "https://www.zennoh.or.jp/about/structure/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4593,
-      "word_like_tokens": 735,
+      "nonspace_chars": 4497,
+      "word_like_tokens": 722,
       "last_modified": "2026-06-06"
     },
     {
@@ -14966,9 +14900,9 @@
         "1. 組織構造",
         "共済事業 vs 保険業法 (区別) ^[extracted]",
         "JF グループ 3 大全国連合会 ^[extracted]",
-        "JA 共済連との対比 ^[extracted / inferred]",
+        "JA 共済連との対比",
         "重要年表 ^[extracted / inferred]",
-        "JA 共済連との規模対比",
+        "比較時の注意",
         "漁業者組合員特性"
       ],
       "wikilinks": [
@@ -15006,8 +14940,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6119,
-      "word_like_tokens": 1084,
+      "nonspace_chars": 6247,
+      "word_like_tokens": 1017,
       "last_modified": "2026-06-06"
     },
     {
@@ -15064,11 +14998,14 @@
         "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
         "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://marinebank.jp/disclosure/disclosure2025_02.pdf",
+        "https://marinebank.jp/disclosure/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6782,
-      "word_like_tokens": 1089,
+      "nonspace_chars": 6929,
+      "word_like_tokens": 1111,
       "last_modified": "2026-06-06"
     },
     {
@@ -15244,8 +15181,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3452,
-      "word_like_tokens": 508,
+      "nonspace_chars": 3624,
+      "word_like_tokens": 532,
       "last_modified": "2026-06-05"
     },
     {
@@ -15307,8 +15244,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3664,
-      "word_like_tokens": 522,
+      "nonspace_chars": 3855,
+      "word_like_tokens": 546,
       "last_modified": "2026-06-05"
     },
     {
@@ -15366,8 +15303,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3465,
-      "word_like_tokens": 501,
+      "nonspace_chars": 3639,
+      "word_like_tokens": 525,
       "last_modified": "2026-06-05"
     },
     {
@@ -15394,7 +15331,7 @@
         "東京都内職域信組ブロック (registry比較)",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI",
+        "5. KPI update route",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -15420,8 +15357,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4909,
-      "word_like_tokens": 739,
+      "nonspace_chars": 4576,
+      "word_like_tokens": 598,
       "last_modified": "2026-06-06"
     },
     {
@@ -15434,72 +15371,39 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/kitakyushu-shinkin.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kitakyushu-shinkin.md",
-      "title": "北九州信用金庫",
+      "title": "福岡ひびき信用金庫（旧 kitakyushu-shinkin route）",
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against ふくおかフィナンシャルグループ（福岡銀行・熊本銀行・十八親和銀行）と 西日本フィナンシャルホールディングス（西日本シティ銀行）for the Kyushu commercial-bank counterparts, against 北九州銀行（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against Japan shinkin bank registry for the br",
+      "summary": "This page keeps the existing route under cooperative-banks INDEX but corrects the legal entity to 福岡ひびき信用金庫. Read it with Japan shinkin bank registry and 信金中央金庫, the sector's central financial institution, and distinguish it from 北九州銀行, a separate ordinary bank.",
       "headings": [
-        "北九州信用金庫",
+        "福岡ひびき信用金庫（旧 kitakyushu-shinkin route）",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
-        "2. Operating model",
-        "3. 系統内位置（Systemic position）",
-        "4. Why this page matters",
-        "5. 関連 / 地域論点",
-        "北九州工業地帯との結びつき",
-        "北九州市の人口減少と地域経済"
+        "Legal / operating identity",
+        "Identity history",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "banking/INDEX",
-        "banking/cooperative-banking-japan",
-        "banking/japan-cooperative-banking-unified-federation-matrix",
-        "banking/japan-decarbonization-financing-roadmap",
         "banking/shinkin-bank-registry-japan",
         "cooperative-banks/INDEX",
-        "cooperative-banks/nagoya-shinkin",
-        "cooperative-banks/sapporo-shinkin",
-        "cooperative-banks/sendai-shinkin",
         "cooperative-banks/shinkin-central",
-        "cooperative-banks/shinkin-network-services",
-        "financial-regulators/yokin-hoken-kiko",
-        "financial-regulators/zenshin-kyo",
-        "regional-banks/18-shinwa-bank",
-        "regional-banks/fukuoka-bank",
         "regional-banks/fukuoka-fg",
-        "regional-banks/kitakyushu-bank",
-        "regional-banks/kumamoto-bank",
-        "regional-banks/nishi-nippon-city-bank",
-        "regional-banks/nishi-nippon-fh",
-        "trust-banks/sumitomo-mitsui-trust"
+        "regional-banks/kitakyushu-bank"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/domains/banking/",
-        "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
-        "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
         "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
         "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/",
         "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
-        "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
-        "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-        "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-        "https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/kumamoto-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-city-bank/",
-        "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+        "https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5259,
-      "word_like_tokens": 713,
+      "nonspace_chars": 2590,
+      "word_like_tokens": 369,
       "last_modified": "2026-06-06"
     },
     {
@@ -15555,8 +15459,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3501,
-      "word_like_tokens": 509,
+      "nonspace_chars": 3677,
+      "word_like_tokens": 532,
       "last_modified": "2026-06-05"
     },
     {
@@ -15609,8 +15513,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2834,
-      "word_like_tokens": 395,
+      "nonspace_chars": 2809,
+      "word_like_tokens": 384,
       "last_modified": "2026-06-06"
     },
     {
@@ -15623,70 +15527,41 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/nagoya-shinkin.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/nagoya-shinkin.md",
-      "title": "名古屋信用金庫",
+      "title": "「名古屋信用金庫」識別ノート",
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and 浜松磐田信用金庫（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against 名古屋銀行 and あいち銀行（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against Japan shinkin bank registry for",
+      "summary": "This page preserves the historical nagoya-shinkin route under cooperative-banks INDEX while correcting an entity-identification error. Use Japan shinkin bank registry for the complete current roster, 岡崎信用金庫 as a current regional shinkin peer, and 名古屋銀行 for the separate Banking Act bank.",
       "headings": [
-        "名古屋信用金庫",
+        "「名古屋信用金庫」識別ノート",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
-        "2. Operating model",
-        "名古屋信用金庫 vs 岡崎信用金庫（geographic / industrial split）",
-        "3. 系統内位置（Systemic position）",
-        "4. Why this page matters",
-        "5. 関連 / 地域論点",
-        "中京経済との結びつき"
+        "Current-entity identification",
+        "Verification rule",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "banking/INDEX",
-        "banking/cooperative-banking-japan",
-        "banking/japan-cooperative-banking-unified-federation-matrix",
         "banking/shinkin-bank-registry-japan",
         "cooperative-banks/INDEX",
-        "cooperative-banks/hamamatsu-iwata-shinkin",
-        "cooperative-banks/kitakyushu-shinkin",
+        "cooperative-banks/gifu-shinkin",
         "cooperative-banks/okazaki-shinkin",
-        "cooperative-banks/sapporo-shinkin",
-        "cooperative-banks/sendai-shinkin",
-        "cooperative-banks/shinkin-central",
-        "cooperative-banks/shinkin-network-services",
-        "financial-regulators/yokin-hoken-kiko",
-        "financial-regulators/zenshin-kyo",
-        "megabanks/mizuho-fg",
-        "megabanks/mufg",
-        "megabanks/smfg",
         "regional-banks/aichi-bank",
         "regional-banks/nagoya-bank"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/domains/banking/",
-        "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
-        "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
         "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
         "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/hamamatsu-iwata-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/",
+        "https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/",
         "https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
-        "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
-        "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-        "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/regional-banks/aichi-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/nagoya-bank/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5013,
-      "word_like_tokens": 678,
+      "nonspace_chars": 2439,
+      "word_like_tokens": 329,
       "last_modified": "2026-06-08"
     },
     {
@@ -15713,7 +15588,7 @@
         "主要拠点",
         "重要年表（抜粋）^[extracted]",
         "2. 事業セグメント・マップ",
-        "二重性格：系統中央銀行 + 国内屈指の機関投資家",
+        "系統金融と投資ビジネス",
         "国際分散投資戦略"
       ],
       "wikilinks": [
@@ -15757,8 +15632,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6073,
-      "word_like_tokens": 951,
+      "nonspace_chars": 5401,
+      "word_like_tokens": 786,
       "last_modified": "2026-06-08"
     },
     {
@@ -15816,8 +15691,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3525,
-      "word_like_tokens": 516,
+      "nonspace_chars": 3717,
+      "word_like_tokens": 540,
       "last_modified": "2026-06-05"
     },
     {
@@ -15875,8 +15750,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3456,
-      "word_like_tokens": 505,
+      "nonspace_chars": 3648,
+      "word_like_tokens": 529,
       "last_modified": "2026-06-05"
     },
     {
@@ -15955,7 +15830,7 @@
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block (大阪商工信用金庫 は商工業者特化の中堅信金で、府内最大手の 大阪信用金庫 とは規模・地盤が異なる) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
+      "summary": "This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
       "headings": [
         "大阪商工信用金庫",
         "Wiki route",
@@ -15989,8 +15864,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2619,
-      "word_like_tokens": 354,
+      "nonspace_chars": 2438,
+      "word_like_tokens": 335,
       "last_modified": "2026-06-08"
     },
     {
@@ -16039,11 +15914,13 @@
         "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.rokinren.com/about/profile.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2524,
-      "word_like_tokens": 369,
+      "nonspace_chars": 2599,
+      "word_like_tokens": 380,
       "last_modified": "2026-06-06"
     },
     {
@@ -16097,11 +15974,13 @@
         "https://finwiki.zksc.io/ja/regional-banks/hokuhoku-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4529,
-      "word_like_tokens": 669,
+      "nonspace_chars": 4633,
+      "word_like_tokens": 686,
       "last_modified": "2026-06-06"
     },
     {
@@ -16114,60 +15993,39 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/sapporo-shinkin.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/sapporo-shinkin.md",
-      "title": "札幌信用金庫",
+      "title": "札幌信用金庫（2018年に北海道信用金庫へ統合）",
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 北海道銀行 and 北洋銀行 for the prefecture-level commercial-bank counterparts, against 横浜信用金庫 for a comparable other-prefecture city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 a",
+      "summary": "This page preserves the historical Sapporo Shinkin route under cooperative-banks INDEX. For the operating company after 2018-01-01, use 北海道信用金庫 and verify it against Japan shinkin bank registry. Compare 札幌中央信用組合 as a separate cooperative institution; for ordinary-bank comparisons in Hokkaido, see 北海",
       "headings": [
-        "札幌信用金庫",
+        "札幌信用金庫（2018年に北海道信用金庫へ統合）",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
-        "2. Operating model",
-        "3. 系統内位置（Systemic position）",
-        "4. Why this page matters",
-        "5. 関連 / 地域論点",
-        "北海道経済との結びつき",
-        "業界再編リスク"
+        "Successor identity",
+        "Interpretation rule",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "banking/INDEX",
-        "banking/cooperative-banking-japan",
-        "banking/japan-cooperative-banking-unified-federation-matrix",
         "banking/shinkin-bank-registry-japan",
         "cooperative-banks/INDEX",
-        "cooperative-banks/norinchukin",
-        "cooperative-banks/sendai-shinkin",
-        "cooperative-banks/shinkin-central",
-        "cooperative-banks/shinkin-network-services",
-        "cooperative-banks/yokohama-shinkin",
-        "financial-regulators/yokin-hoken-kiko",
-        "financial-regulators/zenshin-kyo",
+        "cooperative-banks/sapporo-chuo-shinkumi",
         "regional-banks/hokkaido-bank",
         "regional-banks/hokuyo-bank"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/domains/banking/",
-        "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
-        "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
         "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
         "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/",
-        "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
-        "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
+        "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-chuo-shinkumi/",
         "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4690,
-      "word_like_tokens": 634,
+      "nonspace_chars": 2793,
+      "word_like_tokens": 416,
       "last_modified": "2026-06-06"
     },
     {
@@ -16239,8 +16097,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4809,
-      "word_like_tokens": 670,
+      "nonspace_chars": 5000,
+      "word_like_tokens": 695,
       "last_modified": "2026-06-06"
     },
     {
@@ -16309,62 +16167,45 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-network-services.md",
-      "title": "Shinkin Network Services (信金ネットワークサービス)",
+      "title": "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the operational central-bank counterpart that anchors the shinkin system, against 全国信用金庫協会 for the industry-body / policy layer, and against Japan shinkin bank registry for the full member-population route. The cooperative-sys",
+      "summary": "This entry preserves the historical shinkin-network-services slug under cooperative-banks INDEX while correcting the entity to the 一般社団法人しんきん共同センター. Read it with 信金中央金庫 for the central financial institution, 全国信用金庫協会 for the industry association, and Japan shinkin bank registry for the wider license",
       "headings": [
-        "Shinkin Network Services (信金ネットワークサービス)",
+        "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
         "Wiki route",
         "TL;DR",
-        "1. Legal / group boundary",
-        "2. 業務の内容",
-        "3. 戦略的位置付け（Why this entity matters）",
-        "協同組織金融機関の規模の経済問題",
-        "メガバンク / 地銀との対比",
-        "信金中金 との分業",
-        "全信協 との分業"
+        "1. 法人・会員境界",
+        "2. 公式に確認できる業務",
+        "3. 読み分け",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "banking/INDEX",
-        "banking/atm-network-japan",
         "banking/cooperative-banking-japan",
         "banking/japan-cooperative-banking-unified-federation-matrix",
         "banking/shinkin-bank-registry-japan",
-        "banking/zengin-network",
         "cooperative-banks/INDEX",
-        "cooperative-banks/jonan-shinkin",
-        "cooperative-banks/kyoto-chuo-shinkin",
-        "cooperative-banks/osaka-shinkin",
         "cooperative-banks/shinkin-central",
-        "cooperative-banks/yokohama-shinkin",
-        "financial-regulators/zenshin-kyo",
-        "megabanks/mizuho-fg",
-        "megabanks/mufg",
-        "megabanks/smfg"
+        "financial-regulators/zenshin-kyo"
       ],
       "resolved_wikilinks": [
-        "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
         "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
         "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
         "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/jonan-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/",
         "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/",
-        "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-        "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/megabanks/smfg/"
+        "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://shinkinkyodo.org/outline/",
+        "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5403,
-      "word_like_tokens": 723,
+      "nonspace_chars": 2992,
+      "word_like_tokens": 402,
       "last_modified": "2026-06-08"
     },
     {
@@ -16377,13 +16218,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/shinkin-shoken.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-shoken.md",
-      "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+      "title": "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
       "domain": "cooperative-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫（中央機関本体）, 全国信用金庫協会（policy / industry body）, and 信金ネットワークサービス（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against 農林中央金庫 グループの 農中信託銀行・農中証券 for the parallel JA central-sy",
+      "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the shareholder/group boundary, 全国信用金庫協会 for the industry-body boundary, and 信金ネットワークサービス for the IT-infrastructure boundary.",
       "headings": [
-        "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+        "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
         "Wiki route",
         "TL;DR",
         "1. Legal / group boundary",
@@ -16392,7 +16233,7 @@
         "4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）",
         "5. Why this page matters",
         "6. 関連 / 戦略論点",
-        "信用金庫顧客の資産運用ニーズ拡大"
+        "更新時の確認点"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -16436,8 +16277,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6214,
-      "word_like_tokens": 810,
+      "nonspace_chars": 5134,
+      "word_like_tokens": 687,
       "last_modified": "2026-06-06"
     },
     {
@@ -16495,8 +16336,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3538,
-      "word_like_tokens": 529,
+      "nonspace_chars": 3728,
+      "word_like_tokens": 552,
       "last_modified": "2026-06-05"
     },
     {
@@ -16523,7 +16364,7 @@
         "東京都内 emergency/civil-servant 職域信組三巨頭 (registry比較)",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI (確定値)",
+        "5. KPI update route",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -16546,13 +16387,11 @@
         "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
         "https://finwiki.zksc.io/ja/financial-regulators/dic/"
       ],
-      "markdown_links": [
-        "https://www.shoubou.co.jp/profile/report.html"
-      ],
+      "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4894,
-      "word_like_tokens": 733,
+      "nonspace_chars": 4397,
+      "word_like_tokens": 606,
       "last_modified": "2026-06-06"
     },
     {
@@ -16577,7 +16416,7 @@
         "組合員資格 ^[extracted]",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI",
+        "5. KPI update route",
         "6. 監督・規制",
         "Related",
         "Sources"
@@ -16605,8 +16444,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4241,
-      "word_like_tokens": 654,
+      "nonspace_chars": 3952,
+      "word_like_tokens": 529,
       "last_modified": "2026-06-06"
     },
     {
@@ -16661,12 +16500,13 @@
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
       "markdown_links": [
+        "https://www.yokohamakougin.co.jp/about/overview.html",
         "https://www.yokohamakougin.co.jp/disclosure/index.html"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5078,
-      "word_like_tokens": 746,
+      "nonspace_chars": 4860,
+      "word_like_tokens": 712,
       "last_modified": "2026-06-06"
     },
     {
@@ -16722,8 +16562,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3480,
-      "word_like_tokens": 508,
+      "nonspace_chars": 3673,
+      "word_like_tokens": 532,
       "last_modified": "2026-06-05"
     },
     {
@@ -16780,8 +16620,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4245,
-      "word_like_tokens": 620,
+      "nonspace_chars": 5084,
+      "word_like_tokens": 681,
       "last_modified": "2026-06-08"
     },
     {
@@ -85985,8 +85825,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7800,
-      "word_like_tokens": 1539,
+      "nonspace_chars": 8323,
+      "word_like_tokens": 1637,
       "last_modified": "2026-07-29"
     },
     {
@@ -89235,6 +89075,39 @@
       "entity_edges": [],
       "nonspace_chars": 10606,
       "word_like_tokens": 1939,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-12.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-12.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-12.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-12.md",
+      "title": "銀行・協同組織金融の表出典146件を校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "銀行・協同組織金融の表出典146件を校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 8994,
+      "word_like_tokens": 1583,
       "last_modified": "2026-07-29"
     },
     {
@@ -106504,8 +106377,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3376,
-      "word_like_tokens": 626,
+      "nonspace_chars": 7061,
+      "word_like_tokens": 1247,
       "last_modified": "2026-07-29"
     }
   ]

@@ -1,12 +1,14 @@
 ---
 source: cooperative-banks/kyoto-shinkin
-source_hash: e4032a7523ce255b
+source_hash: 1bbdbf64bc30e534
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Kyoto Shinkin Bank"
-translated_at: 2026-06-14T23:01:38.055Z
+translated_at: 2026-07-29T03:30:48.130Z
 ---
+
 # Kyoto Shinkin Bank
 
 ## Wiki route
@@ -15,7 +17,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-Kyoto Shinkin Bank (Kyoshin, brand name "Community Bank Kyoshin") is a major shinkin bank headquartered in Shimogyo-ku, Kyoto City, Kyoto Prefecture, whose main operating base is Kyoto Prefecture and adjacent areas. Founded in 1923 年, it is, among Kyoto's regional financial institutions, the next in scale after [[regional-banks/kyoto-bank|京都銀行]] and [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]], but older than both in history. It is a cooperative financial institution centered on SME lending in Kyoto, regional community finance, housing loans, and individual deposits.
+Kyoto Shinkin Bank (brand name: Community Bank Kyoshin) is a credit union with its head office located in Shimogyo Ward, Kyoto City, Kyoto Prefecture, and its base in the official business district of Kyoto Prefecture and adjacent areas. Founded in 1923, a cooperative financial institution in Kyoto whose core businesses include loans for small and medium-sized businesses, local community finance, housing loans, and personal deposits.
 
 ## 1. License / group boundary
 
@@ -26,9 +28,11 @@ Kyoto Shinkin Bank (Kyoshin, brand name "Community Bank Kyoshin") is a major shi
 | Brand name | Community Bank Kyoshin (established 2023 年) |
 | License route | Shinkin Bank Act / FSA shinkin license list |
 | Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| Home market | Kyoto Prefecture + adjacent areas (branch network exceeding 90  locations) |
-| Wiki role | Kyoto/Kansai major shinkin operating-company anchor page |
+| Home market | Official business areas in Kyoto Prefecture and adjacent areas (check current store list) |
+| Wiki role | Kyoto/Kansai shinkin operating-company anchor page |
 | Supervisory bureau | Kinki Local Finance Bureau |
+
+Sources: For official name, corporate number, location of head office, and presence on the license list, check the Financial Services Agency list, and information on founding, brand, business area, and stores on the official website of Kyoto Shinkin Bank. The previous version's approximate number of stores on non-base date has been withdrawn. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.kyoto-shinkin.co.jp/.]
 
 ## 2. Operating model
 
@@ -56,5 +60,4 @@ Kyoto Shinkin Bank's core businesses are SME lending, working capital, equipment
 
 - FSA: shinkin license list (latest snapshot per FSA registry): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - Kyoto Shinkin Bank (Community Bank Kyoshin) official site: https://www.kyoto-shinkin.co.jp/
-- Kyoto Shinkin Bank (Wikipedia Japanese edition): https://ja.wikipedia.org/wiki/京都信用金庫
 - Shinkin Central Bank cooperative system context: https://www.shinkin-central-bank.jp/

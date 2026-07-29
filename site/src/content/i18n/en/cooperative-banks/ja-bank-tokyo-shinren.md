@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/ja-bank-tokyo-shinren
-source_hash: 9fb2ef5dc9459902
+source_hash: 8106024dd01074bd
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)"
-translated_at: 2026-06-18T23:33:48.274Z
+translated_at: 2026-07-29T03:30:48.126Z
 ---
 # JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)
 
@@ -70,7 +71,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **Number of branches**: 1 店 (agency 1 店)
 - **Established**: 1948-08  / **Head office**: Shibasaki-cho, Tachikawa City, Tokyo
 
-> Note: The above are figures published by the federation in "Outline of Our Federation" (as of 2024-12-24). As of 2021-03-31, Wikipedia / Weblio record savings of about 2 兆 8,433 億円, loans of about 3,407 億円, and staff of 147 名. For the precise breakdown of member JA numbers, refer to the federation's IR + the JA Tokyo Central Union.
+> Note: The above values ​​are published in the “Overview of the Association” (as of 2024-12-24). For the exact breakdown of the number of JA members, please refer to the association's published materials and the JA Tokyo Central Association.
 
 ### Toshinren's position within the 31  Shinren
 
@@ -95,7 +96,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | Toshinren capital contributions | about 1,356 億円 | Same as above |
 | Staff count | 139 名 | Same as above |
 
-> Note: For detailed KPIs across the 31  Shinren as a whole, refer to [[cooperative-banks/norinchukin|農林中金]] public materials + each Shinren's IR. Wikipedia / Weblio record values as of 2021-03-31 (savings of about 2 兆 8,433 億円, loans of about 3,407 億円, capital contributions of about 1,313 億円, staff 147 名).
+Sources: [JA Bank Tokyo Shinren ``Overview of the Association''](http://shinren.jatokyo.or.jp/organization.html)（2024-12-24 the current).
+
+> Note: Detailed KPIs for the entire 31 Shinren are [[cooperative-banks/norinchukin|Norinchukin]] See public materials and official disclosures of each Shinren.
 
 ## 5. Supervision / regulation
 
@@ -128,7 +131,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **JA Bank system official**: https://www.jabank.org/about/sikumi/banksystem/
 - **JA Tokyo Central Union**: https://www.ja-tokyo.or.jp/
 - **JA Bank Tokyo Shinren "Outline of Our Federation"** (financial figures as of 2024-12-24): http://shinren.jatokyo.or.jp/organization.html
-- **Wikipedia "Tokyo Prefectural Credit Federation of Agricultural Cooperatives"** (financial figures as of 2021-03-31, establishment / head office): https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会
 - **Norinchukin Bank features (layered staff counts as of 2025-04-01)**: https://www.nochubank.or.jp/about/features.html
 - **JA Group Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - Agricultural Cooperatives Act (昭和 22 年 Act 第 132 号)

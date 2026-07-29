@@ -10,8 +10,8 @@ aliases:
   - "Central Rokin"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, rokin, cooperative-banking, labour-bank, kanto, operating-company, ja-bank-system-peer]
@@ -29,11 +29,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **largest of the 13 rokin (labour bank) operating companies in Japan**, providing the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
 ## TL;DR
 
-中央労働金庫 (中央ろうきん) は、**13 ろうきんの中で総資産・預金規模最大の関東 1 都 7 県広域労働金庫**。労働金庫法を根拠とし、東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨の 1 都 7 県を営業地盤とする。会員は **労働組合・生協・NPO 等の勤労者団体 + 個人勤労者**で、勤労者福祉金融 (住宅ローン・教育ローン・住宅資金等) を中核業務とする。[[cooperative-banks/rokin-renraku|労働金庫連合会]] の最大会員 + 全国 13 ろうきんの代表格 (関東一円の人口集中 + 勤労者世帯密度を反映)。**「協同組織型 + 勤労者目的限定」**という固有モデルで、銀行 (株式会社型) でも信金 (中小企業向け) でも JA バンク (農家向け) でもない、**勤労者福祉セグメント専業**を担う。^[extracted]
+中央労働金庫 (中央ろうきん) は、**関東 1 都 7 県を営業区域とする広域労働金庫**。労働金庫法を根拠とし、東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨を営業地盤とする。会員は労働組合・生協・NPO 等の勤労者団体で、勤労者向けの預金、住宅・教育・自動車等の融資を扱う。株式会社銀行、信用金庫、JA バンクとは法的な組織形態と会員基盤が異なる。
 
 ## 1. License / 組織構造
 
@@ -46,9 +46,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 根拠法 | 労働金庫法 |
 | 設立 | **2001 年 4 月 1 日** (1 都 7 県 8 ろうきん統合により) ^[extracted] |
 | 営業エリア | **東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨 (1 都 7 県)** |
-| 系統 | [[cooperative-banks/rokin-renraku|労働金庫連合会]] 会員 (全 13 会員の最大行) |
+| 系統 | [[cooperative-banks/rokin-renraku|労働金庫連合会]] 会員 |
 | 監督官庁 | 金融庁・関東財務局 + 厚生労働省 (協同組織側) |
-| Wiki role | **13 ろうきん最大行**, 関東広域 operating-company anchor |
+| Wiki role | 関東広域 operating-company anchor |
 
 ### 13 労働金庫の構成 ^[extracted]
 
@@ -113,17 +113,17 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 | 指標 | 値 | 備考 |
 |---|---|---|
-| **預金残高** | **6 兆 8,913 億円** | 13 ろうきん最大 (中央ろうきん概要 2025-03 末) |
+| **預金残高** | **6 兆 8,913 億円** | 中央ろうきん概要 2025-03 末 |
 | **貸出金** | **4 兆 7,609 億円** | 住宅ローン中心 (同上) |
 | **出資金** | **288 億円** | 団体会員 11,318 会員 (同上) |
 | **店舗数** | **130 店舗** | 1 都 7 県広域 (同上) |
 | **自己資本比率** | **10.96%** | (同上) |
 
-> 注: 中央ろうきんは単体の「総資産」を概要上は開示せず、預金 6.9 兆円ベースの広域労金。詳細は中央ろうきん公式概要・ディスクロージャーを要参照 (https://chuo.rokin.com/aboutus/profile/)。なお労金連 (中央機関) 単体の総資産は 8 兆 316 億円 (2025-03 末、13 労金合算ベースの中央機関統計)。
+> 注: 中央ろうきんは単体の「総資産」を概要上は開示していない。詳細は [中央ろうきん公式概要](https://chuo.rokin.com/aboutus/profile/) とディスクロージャーを参照。
 
 ### 13 ろうきん内の代表性
 
-- [[cooperative-banks/rokin-renraku|労金連]] の **最大会員**、業界の方向性を実質的に主導
+- [[cooperative-banks/rokin-renraku|労金連]] を中央機関とする 13 労働金庫の一つ
 - **系統 IT・JASTEM 類似の R・ONE システム**運用にコミット (Rokinren 共同インフラ) ^[extracted]
 
 ### 住宅ローン主力モデル
@@ -141,13 +141,15 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 | 指標 | 値 (2025-03 末) | 比較 |
 |---|---|---|
-| 預金 | 6 兆 8,913 億円 | 13 ろうきん最大 |
+| 預金 | 6 兆 8,913 億円 | 公式概要公表値 |
 | 貸出金 | 4 兆 7,609 億円 | 住宅ローン中心 |
 | 出資金 | 288 億円 | - |
-| 自己資本比率 | 10.96% | 信金大手 + 地銀並み水準 |
+| 自己資本比率 | 10.96% | 国内基準 |
 | 店舗数 | 130 店舗 | 1 都 7 県広域 |
 | 常勤役職員数 | 3,008 名 | - |
 | 団体会員数 | 11,318 会員 | 間接構成員 約 422 万人 |
+
+Sources: [中央労働金庫「金庫の概要」](https://chuo.rokin.com/aboutus/profile/)（2025-03-31 現在）。比較順位は同資料の範囲外であるため付していない。
 
 > 注: 数値は中央ろうきん公式概要 (2025-03 末)。単体総資産は概要上非開示。
 

@@ -1,17 +1,18 @@
 ---
 source: cooperative-banks/hana-shinkumi
-source_hash: de7d71e157cfbf87
+source_hash: f74ba04dc902bc7a
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "ハナ信用組合"
-translated_at: 2026-06-02T14:25:12.428Z
+title: "ハナ信用組合 (Hana Credit Cooperative)"
+translated_at: 2026-07-29T03:30:48.125Z
 ---
-# ハナ信用組合
+# ハナ信用組合 (Hana Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下で、**首都圏（東京）の在日コリアン民族系信用組合アンカー**として位置づける。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西商銀系）、[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]]（神奈川幸銀系）、[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]]（中京商銀系）と比較し、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理される在日コリアン系信用組合群の中で読む。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **首都圏 (Tokyo) 在日コリアン民族系 shinkumi anchor**, peer to [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai 商銀系)・[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (Kanagawa 幸銀系)・[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]] (Chukyo 商銀系) within the broader Korean-business shinkumi sub-population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## 1. 法人概要
 
@@ -20,7 +21,7 @@ translated_at: 2026-06-02T14:25:12.428Z
 | 正式名 | ハナ信用組合 |
 | 通称 | ハナ信組 / HANA Credit Cooperative |
 | 法人番号 | **4011005001243** ^[extracted FSA registry] |
-| FSA登録番号 | **53** (関東財務局) |
+| FSA registry No. | **53** (関東財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
 | 本店所在地 | 東京都渋谷区千駄ヶ谷5-29-10 (郵便番号 151-0051) ^[extracted FSA registry] |
 | 系統 | [[cooperative-banks/zenshin-kumi|全信組連]] 会員 |
@@ -37,7 +38,7 @@ translated_at: 2026-06-02T14:25:12.428Z
 2. **民族コミュニティ**: 在日韓国・朝鮮人 + その配偶者・親族・関連事業者
 3. **地区要件**: 関東圏を中心とする定款指定地区に在住・在勤・事業所を有する者
 
-### 東京都内民族系信組 (登録比較)
+### 東京都内民族系信組 (registry比較)
 
 東京 19 信組のうち民族系信組:
 
@@ -76,19 +77,16 @@ translated_at: 2026-06-02T14:25:12.428Z
 | **コミュニティ金融** | 教育・冠婚葬祭等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 約 3,533 億円 (2025-03-31) | Wikipedia (ディスクロージャー誌準拠) |
-| 純資産 | 約 177.7 億円 (2025-03-31) | 同上 |
-| 出資金 | 約 38.5 億円 (2025-03-31) | 同上 |
-| 預金残高 | 約 2,397 億円 (2022-03-31) | 同上 |
-| 貸出金残高 | 約 1,889 億円 (2022-03-31) | 同上 |
-| 従業員数 | 188 人 (2025-03-31) | 同上 |
-| 店舗数 | 17 店 | 同上 |
+| 総資産・預金・貸出金・出資金・純資産 | ハナ信用組合の最新ディスクロージャー誌 | 異なる基準年度の数値を一つのスナップショットに混在させない |
+| 自己資本比率・不良債権指標 | 同ディスクロージャー誌 | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 店舗網の基準日を明記する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 組合員数は当組合ディスクロージャー誌を要参照。最新数値は [ハナ信組ディスクロージャー](https://www.hanashinkumi.com/info/disclosure.php) 参照。
+Sources: KPI はハナ信用組合の最新公式ディスクロージャー、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版で基準年度を混在させていた二次資料由来 KPI は撤回した。 ^[Sources: https://www.hanashinkumi.com/info/disclosure.php; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -100,23 +98,22 @@ translated_at: 2026-06-02T14:25:12.428Z
   - **組合員世代交代** (在日 2 世・3 世以降の信組離れリスク)
   - **韓国系銀行 (新韓銀行東京支店等)** との競合
 
-## 関連項目
+## Related
 
-- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (比較対象の民族系信組、関西商銀系)
-- [[cooperative-banks/yokohama-kogin-shinkumi]] — 横浜幸銀信用組合 (比較対象の民族系信組、神奈川幸銀系)
-- [[cooperative-banks/aichi-shogin-shinkumi]] — 信用組合愛知商銀 (比較対象の民族系信組、中京商銀系)
+- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (peer 民族系信組、関西商銀系)
+- [[cooperative-banks/yokohama-kogin-shinkumi]] — 横浜幸銀信用組合 (peer 民族系信組、神奈川幸銀系)
+- [[cooperative-banks/aichi-shogin-shinkumi]] — 信用組合愛知商銀 (peer 民族系信組、中京商銀系)
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
 - [[financial-regulators/dic]] — 預金保険機構 (朝銀危機公的資金投入主体)
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (比較対象の地域型信組、業態対比)
+- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4011005001243, registry No. 53)
 - **ハナ信用組合 ディスクロージャー**: https://www.hanashinkumi.com/info/disclosure.php
-- **Wikipedia「ハナ信用組合」** (財務諸数値・設立経緯・承継元朝銀 5 組合・公的資金約 4,000 億円・商号由来): https://ja.wikipedia.org/wiki/ハナ信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -127,4 +124,4 @@ translated_at: 2026-06-02T14:25:12.428Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠) で出典付与済み (組合員数のみ要参照)。設立経緯・承継元朝銀 5 組合・公的資金規模・商号「ハナ」の由来も Wikipedia で出典付与済み。朝銀系再編後の代表的受け皿信組として Wave 13 拡張で追加。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI は公式ディスクロージャー誌を根拠とする。沿革・承継・公的資金の記述は預金保険機構等の一次資料で項目ごとに再確認する必要があり、旧版の二次資料由来 KPI は削除済み。

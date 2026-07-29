@@ -27,8 +27,8 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -54,7 +54,7 @@
       "労働金庫法 (昭和 28 年法律第 227 号)"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX as the largest of the 13 rokin (labour bank) operating companies in Japan, providing the rokin-side operating-company anchor parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central ins",
+  "summary": "This entry sits under cooperative-banks INDEX as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central institution, rokin registry for the 13-rok",
   "headings": [
     "中央労働金庫 (Chuo Rokin / Central Labour Bank)",
     "Wiki route",
@@ -99,12 +99,14 @@
       "https://finwiki.zksc.io/ja/financial-regulators/dic/",
       "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 1,
+    "external_links": [
+      "https://chuo.rokin.com/aboutus/profile/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5990,
-    "word_like_tokens": 961,
+    "nonspace_chars": 5756,
+    "word_like_tokens": 912,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

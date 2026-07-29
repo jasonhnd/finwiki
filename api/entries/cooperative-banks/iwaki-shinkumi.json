@@ -23,8 +23,8 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -89,14 +89,15 @@
       "https://finwiki.zksc.io/ja/financial-regulators/shoko-chukin/",
       "https://finwiki.zksc.io/ja/regional-banks/toho-bank/"
     ],
-    "external_links_count": 1,
+    "external_links_count": 2,
     "external_links": [
-      "https://www.iwaki-shinkumi.com/about-disk.html"
+      "https://www.iwaki-shinkumi.com/about-disk.html",
+      "https://www.iwaki-shinkumi.shinkumi.net/about-profile.html"
     ]
   },
   "metrics": {
-    "nonspace_chars": 4586,
-    "word_like_tokens": 686,
+    "nonspace_chars": 4751,
+    "word_like_tokens": 714,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-08"
   }

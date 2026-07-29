@@ -3,9 +3,9 @@ title: "川崎信用金庫"
 aliases: ["Kawasaki Shinkin Bank", "川崎信金", "信金"]
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, kanagawa, kanto, operating-company]
 status: active
@@ -37,6 +37,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 神奈川県川崎市 + 東京南部一部 |
 | Wiki role | Kanagawa Kawasaki shinkin operating-company anchor page |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は川崎信用金庫の公式プロフィールで確認する。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.shinkin.co.jp/kawashin/profile/.]
 
 ## 2. Institution-type business model
 

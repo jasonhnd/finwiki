@@ -1,11 +1,12 @@
 ---
 source: banking/baas-japan-landscape
-source_hash: 5483848c42f6a179
+source_hash: bdb646870885f3e9
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan BaaS landscape"
-translated_at: 2026-06-18T23:33:48.303Z
+translated_at: 2026-07-29T03:30:48.094Z
 ---
 
 # Japan BaaS landscape
@@ -16,7 +17,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-Japan's BaaS is not a single "bank API product." It splits into at least 4  types: API provision, partner branches, banking-agency / white-label-style account acquisition, and the narrow BaaS specialized in payment, account transfer, and instant deposit. [[banking/minna-bank-baas-model|みんなの銀行]] is compared as embedded BaaS for B2C apps, [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] as corporate / API / embedded-finance leaning, and [[regional-banks/ssnb|住信SBIネット銀行]] as the NEOBANK type.
+日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[regional-banks/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。
 
 ## Landscape map
 
@@ -49,6 +50,8 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 | AML / fraud monitoring | Embedded UX does not remove bank-grade monitoring duties |
 | Responsibility boundary | User-facing brand and regulated service provider may differ |
 
+Sources: this table is a role-boundary summary. Bank-license status and electronic-payment-agency status must be checked against the current FSA registers; Minna Bank's pages support only its own disclosed BaaS models and partners. ^[Sources: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/dendai/index.html; https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
+
 ## Related
 
 - [[banking/minna-bank-baas-model]]
@@ -65,3 +68,4 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 - FFG IR Day, 2025-09-08: みんなの銀行の事業戦略.
 - みんなの銀行: 提携サービス / BaaS overview.
 - 金融庁: 免許・許可・登録等を受けている事業者一覧.
+- 金融庁: 電子決済等代行業者の登録・届出制度.

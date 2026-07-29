@@ -27,9 +27,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -63,9 +63,9 @@
     "1. 組織構造",
     "共済事業 vs 保険業法 (区別) ^[extracted]",
     "JF グループ 3 大全国連合会 ^[extracted]",
-    "JA 共済連との対比 ^[extracted / inferred]",
+    "JA 共済連との対比",
     "重要年表 ^[extracted / inferred]",
-    "JA 共済連との規模対比",
+    "比較時の注意",
     "漁業者組合員特性"
   ],
   "body_links": {
@@ -106,8 +106,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6119,
-    "word_like_tokens": 1084,
+    "nonspace_chars": 6247,
+    "word_like_tokens": 1017,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

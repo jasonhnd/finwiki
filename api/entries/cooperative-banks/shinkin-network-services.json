@@ -11,104 +11,82 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-network-services.md",
   "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services.md",
   "domain": "cooperative-banks",
-  "title": "Shinkin Network Services (信金ネットワークサービス)",
+  "title": "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Shinkin Network Services (信金ネットワークサービス)",
+    "title": "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
     "aliases": [
       "cooperative-banks/shinkin-network-services",
       "shinkin-network-services",
       "信金ネットワークサービス",
-      "SNS",
-      "Shinkin Network Services Co., Ltd.",
-      "信金 ATM ネットワーク",
+      "Shinkin Network Services",
       "信金共同センター",
-      "banking/atm-network-japan"
+      "しんきん共同センター",
+      "Shinkin Joint Center"
     ],
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
+    "confidence": "verified",
     "tags": [
       "JapanFG",
       "shinkin",
       "cooperative-banking",
       "infrastructure",
-      "atm",
       "system-shared",
-      "operating-company"
+      "industry-association"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.shinkin.org/",
-      "https://www.shinkin-central-bank.jp/",
-      "https://www.shinkin.co.jp/network/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
-      "https://www.shinkin.org/zenshinkyo/about/"
+      "https://shinkinkyodo.org/outline/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the operational central-bank counterpart that anchors the shinkin system, against 全国信用金庫協会 for the industry-body / policy layer, and against Japan shinkin bank registry for the full member-population route. The cooperative-sys",
+  "summary": "This entry preserves the historical shinkin-network-services slug under cooperative-banks INDEX while correcting the entity to the 一般社団法人しんきん共同センター. Read it with 信金中央金庫 for the central financial institution, 全国信用金庫協会 for the industry association, and Japan shinkin bank registry for the wider license",
   "headings": [
-    "Shinkin Network Services (信金ネットワークサービス)",
+    "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
     "Wiki route",
     "TL;DR",
-    "1. Legal / group boundary",
-    "2. 業務の内容",
-    "3. 戦略的位置付け（Why this entity matters）",
-    "協同組織金融機関の規模の経済問題",
-    "メガバンク / 地銀との対比",
-    "信金中金 との分業",
-    "全信協 との分業"
+    "1. 法人・会員境界",
+    "2. 公式に確認できる業務",
+    "3. 読み分け",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "banking/INDEX",
-      "banking/atm-network-japan",
       "banking/cooperative-banking-japan",
       "banking/japan-cooperative-banking-unified-federation-matrix",
       "banking/shinkin-bank-registry-japan",
-      "banking/zengin-network",
       "cooperative-banks/INDEX",
-      "cooperative-banks/jonan-shinkin",
-      "cooperative-banks/kyoto-chuo-shinkin",
-      "cooperative-banks/osaka-shinkin",
       "cooperative-banks/shinkin-central",
-      "cooperative-banks/yokohama-shinkin",
-      "financial-regulators/zenshin-kyo",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg"
+      "financial-regulators/zenshin-kyo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
       "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
       "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
       "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/jonan-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/",
       "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/",
-      "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/"
+      "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://shinkinkyodo.org/outline/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5403,
-    "word_like_tokens": 723,
-    "inbound_wikilinks_count": 6,
+    "nonspace_chars": 2992,
+    "word_like_tokens": 402,
+    "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-08"
   }
 }

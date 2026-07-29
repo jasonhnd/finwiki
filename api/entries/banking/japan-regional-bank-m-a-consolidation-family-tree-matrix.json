@@ -29,9 +29,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -56,7 +56,8 @@
       "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
       "https://www.chiginkyo.or.jp/",
       "FG IR disclosures for each holding company referenced",
-      "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス"
+      "https://www.fukuoka-fg.com/investorimage/ir_pdf/202507_zaimu/corporate.pdf",
+      "https://tsubasa-al.co.jp/company/"
     ]
   },
   "summary": "Post-1990 regional-bank consolidation in Japan has produced a layered map of bank holding companies, each combining one or more first-regional (\"地銀\") and/or second-regional (\"第二地銀\") predecessors, and in some cases a credit-cooperative / 新銀行 predecessor. This matrix collects the surviving FG name, ye",
@@ -73,7 +74,7 @@
     "Predecessor-to-successor mapping (the family-tree pairs)"
   ],
   "body_links": {
-    "wikilinks_count": 104,
+    "wikilinks_count": 100,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -86,7 +87,6 @@
       "financial-regulators/cci-group",
       "financial-regulators/cci-group\\",
       "life-insurers/td-hd",
-      "life-insurers/td-hd\\",
       "megabanks/ndfg",
       "megabanks/resona-bank",
       "megabanks/resona-hd",
@@ -154,7 +154,8 @@
       "regional-banks/momiji-bank\\",
       "regional-banks/nagasaki-bank\\",
       "regional-banks/nishi-nippon-city-bank\\",
-      "regional-banks/nishi-nippon-fhd"
+      "regional-banks/nishi-nippon-fhd",
+      "regional-banks/nishi-nippon-fhd\\"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -193,8 +194,6 @@
       "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-fhd/",
       "https://finwiki.zksc.io/ja/regional-banks/proclair-hd/",
       "https://finwiki.zksc.io/ja/regional-banks/san-jusan-fg/",
-      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/shimane-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/tomony-hd/",
       "https://finwiki.zksc.io/ja/regional-banks/yamaguchi-fg/",
@@ -204,9 +203,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 33366,
-    "word_like_tokens": 5813,
-    "inbound_wikilinks_count": 6,
+    "nonspace_chars": 32371,
+    "word_like_tokens": 5576,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-06"
   }
 }

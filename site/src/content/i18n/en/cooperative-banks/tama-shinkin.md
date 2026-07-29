@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/tama-shinkin
-source_hash: dc6e7b7ccbc4d05a
+source_hash: daaf330f3fc77632
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Tama Shinkin Bank (多摩信用金庫)"
-translated_at: 2026-06-15T03:48:21.907Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 
 # Tama Shinkin Bank (多摩信用金庫)
@@ -30,6 +31,8 @@ Tama Shinkin Bank (Tamashin) is a major regional shinkin bank headquartered in T
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Tama region of Tokyo + part of Kanagawa |
 | Wiki role | Tokyo Tama major shinkin operating-company anchor page |
+
+Sources: Check the official name, corporate number, head office location, and presence on the license list as listed by the Financial Services Agency, and check the official profile of Tama Shinkin Bank for business district and organization information. Comparison terms are not treated as rankings unless all stocks on the same reference date are compared. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.tamashin.jp/profile/.]
 
 ## 2. Institution-type business model
 

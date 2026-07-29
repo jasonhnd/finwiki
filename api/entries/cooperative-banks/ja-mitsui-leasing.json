@@ -25,9 +25,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -42,9 +42,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jamitsui.com/",
-      "https://www.jamitsui.com/company/",
-      "https://www.nochubank.or.jp/",
+      "https://www.jamitsuilease.co.jp/company/basic_info.html",
+      "https://www.jamitsuilease.co.jp/kinsyou.html",
+      "https://www.jamitsuilease.co.jp/lending.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasi.pdf",
+      "https://www.nochubank.or.jp/ir/disclosure/",
       "https://www.leasing.or.jp/"
     ]
   },
@@ -88,8 +90,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3188,
-    "word_like_tokens": 523,
+    "nonspace_chars": 3534,
+    "word_like_tokens": 519,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-06-06"
   }

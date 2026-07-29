@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T10:53:53+09:00
+Generated: 2026-07-29T12:49:10+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1601
-Public pages listed: 1600
+Markdown files: 1602
+Public pages listed: 1601
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 02 corrections (#232), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 03 corrections (#233), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -1006,7 +1006,7 @@ Public pages listed: 1600
 - Type: wiki_entry
 - Canonical anchor: regional-banks/daiwa-next-bank -> https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at 大和ネクスト銀行 entity anchor. Read it within the segment map at Japan net bank competition map, with parent context at Daiwa Securities Group and the to-be-consolidated Orix Bank page, against the securities-adj
-- Headings: Daiwa Next Bank operating profile (大和ネクスト銀行), Wiki route, TL;DR, 1. Identity and group position, Why a securities group built a bank, Group structure (post-Orix Bank acquisition completion), Brokerage-linked deposit core (MRF / sweep mechanics), Yen and foreign-currency deposit
+- Headings: Daiwa Next Bank operating profile (大和ネクスト銀行), Wiki route, TL;DR, 1. Identity and group position, Why a securities group built a bank, Announced group structure if the Orix Bank transaction completes, Brokerage-linked deposit core (MRF / sweep mechanics), Yen and foreign-currency deposit
 - First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/daiwa-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/au-jibun-bank/, https://finwiki.zksc.io/ja/banking/gmo-aozora-net-bank/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/banking/sony-bank/, https://finwiki.zksc.io/ja/banking/ui-bank/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/
 
 ### Foreign-bank Japan retreat pattern
@@ -1071,9 +1071,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-banking-license-tier-comparison-matrix.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This
+- Summary: Japan's deposit-taking system is not one legal form. The Banking Act, the Act on Engagement in Trust Business Activities by Financial Institutions, 信用金庫法, 中小企業等協同組合法 / 協金法, 労働金庫法, 農協法 / 水協法, and 農林中央金庫法 create different perimeters. At the same time, “megabank”, “regional bank”, “second regional bank
 - Headings: Japan banking-license tier comparison matrix, TL;DR, Wiki route, Why a tier matrix matters, Tier 1 — Megabank (普通銀行 / 都市銀行), Tier 2 — Regional bank (地方銀行), Tier 3 — Second regional bank (第二地方銀行), Tier 4 — Trust bank (信託銀行)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/
 
 ### Japan cooperative-banking unified federation matrix
 - URL: https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/
@@ -1084,9 +1084,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-cooperative-banking-unified-federation-matrix.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: Japan's "cooperative-finance" lane is not one system. There are five distinct federation-anchored systems sitting under three different ministries and three different statutes: JA Bank (497 JA + 31 Shinnoren + 農中 under 農協法 / 農林中央金庫法, joint FSA + 農水省), JF Marine Bank (71 JF + 10 JF Shingyoren + 農中 un
+- Summary: Japan's "cooperative-finance" lane is not one system. The dated public snapshots used here distinguish JA Bank (497 JA + 31 Shinnoren + Norinchukin at 2025-04-01), JF Marine Bank (71 JF + 10 JF Shingyoren + Norinchukin at 2025-04-01), 信用金庫 (254 shinkin in the cited FSA workbook), 信用組合 (143 shinkumi
 - Headings: Japan cooperative-banking unified federation matrix, TL;DR, Wiki route, Why this matrix matters, Cross-system comparison table, JA Bank — 農業協同組合系統 (JA Bank system), JF Marine Bank — 漁業協同組合系統 (JF Marine Bank system), 信用金庫 — Shinkin system (Japan shinkin bank registry)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-foreign-bank-retreat-refocus-timeline-matrix/, https://finwiki.zksc.io/ja/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/cooperative-banks/ja-zen-noh/, https://finwiki.zksc.io/ja/cooperative-banks/ja-zenchu/
 
 ### Japan foreign-bank retreat and refocus timeline matrix
 - URL: https://finwiki.zksc.io/ja/banking/japan-foreign-bank-retreat-refocus-timeline-matrix/
@@ -1097,9 +1097,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-foreign-bank-retreat-refocus-timeline-matrix.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: Foreign banks did not "leave Japan" between 2000-2026. They narrowed. The retail-heavy presence that several global banks built up in the 1980s-2000s gave way to a focused mix of corporate banking, markets, custody / asset-servicing, ICSD gateway, wealth management (often via Japanese JV), and Asia-
+- Summary: “A foreign bank left Japan” can refer to a retail-service closure, a legal-entity exit, a business-line transfer, or a global-parent merger. Those are different events. This page limits its timeline to changes supported by an official registry, regulator, or announcement by the parties. It does not
 - Headings: Japan foreign-bank retreat and refocus timeline matrix, TL;DR, Wiki route, Why this matrix matters, Cross-parent comparison matrix (US + EU + Asia), Timeline of major Japan-presence inflections (2000-2026), Segment-level current state (2024-2026), Retreat / inflection trigger taxonomy
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bank-of-america-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/barclays-japan/
 
 ### Japan master trust and custody bank landscape
 - URL: https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/
@@ -1136,8 +1136,8 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-net-bank-deposit-feature-matrix-2026.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: Japan's net-bank cohort entered 2026 as a clearly segmented competitive surface rather than one undifferentiated category. The ten-plus operators range from trillion-yen deposit franchises (Rakuten Bank, Sumishin SBI Net Bank, Sony Bank) to specialist BaaS / partner-led brands (Minna Bank, Sumishin
-- Headings: Japan net bank deposit & feature matrix 2026, TL;DR, Wiki route, Why deposit feature comparison matters in 2026, Bank universe in scope, Core matrix — deposit base and parent ecosystem, Core matrix — FX, mortgage, card, and API depth, Core matrix — 2025-2026 growth, fees, interest, embedded-finance partnerships
+- Summary: Japan's online-bank market is not one homogeneous category. Operators differ by group ownership, direct-versus-partner distribution, product scope, and public disclosure format. This page therefore records where each claim can be verified rather than freezing volatile balances, rates, fees, rankings
+- Headings: Japan net bank deposit & feature matrix 2026, TL;DR, Wiki route, Why deposit feature comparison matters in 2026, Bank universe in scope, Core matrix — entity and disclosure route, Core matrix — product evidence map, Publication protocol for volatile comparisons
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/au-jibun-bank/, https://finwiki.zksc.io/ja/banking/daiwa-next-bank/, https://finwiki.zksc.io/ja/banking/gmo-aozora-net-bank/, https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/mercari-bank/, https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/banking/paypay-bank/
 
 ### Japan regional bank M&A consolidation family-tree matrix
@@ -1163,7 +1163,7 @@ Public pages listed: 1600
 - Domain: banking
 - Type: wiki_entry
 - Summary: This entry sits under banking index as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with 日本 Stablecoin 法制度の三層構造 for the fintech-side perimeter view, with the platform anchor Progmat and the issuer anchors JPYC · SBI VC Tr
-- Headings: Japan stablecoin / BaaS bank perimeter (2025–2026), Wiki route, TL;DR, 1. The three-layer perimeter, Deposit token — within the standard bank deposit regime, Bank-issued EPI (預金型) — bridging deposit and broader circulation, Trust-type EPI (信託型) — the institutional-platform lane, 3. Issuer / distributor anchor map (2025–2026)
+- Headings: Japan stablecoin / BaaS bank perimeter (2025–2026), Wiki route, TL;DR, 1. The three-layer perimeter, Deposit token — within the standard bank deposit regime, Category-1 EPI issuance route, Trust-type EPI (信託型) — the institutional-platform lane, 3. Issuer / distributor anchor map (2025–2026)
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/baas-japan-landscape/, https://finwiki.zksc.io/ja/banking/gmo-aozora-net-bank/, https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/
 
 ### Japan trust bank and custody map
@@ -1188,7 +1188,7 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks
+- Summary: This page compares what can be verified about Japanese trust banks and global custodians operating in Japan. It does not rank pricing power, infer customer mandates, or assume market connectivity from a group brand. Legal-entity status comes from FSA registers; business scope from each entity's offi
 - Headings: Japan trust bank vs global custodian comparison matrix, TL;DR, Wiki route, Population covered, Comparison Matrix (Japanese trust banks), Comparison Matrix (global custodians in Japan), Cross-camp matrix view, Master Trust vs Custody Bank of Japan — 2020 統合の意味
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/clearstream-banking-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/euroclear-bank-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/, https://finwiki.zksc.io/ja/securities/japan-asset-manager-landscape-matrix/
 
@@ -1201,8 +1201,8 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/jasdec-settlement-operations.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: This entry sits under banking index as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside JASDEC entity page and JSCC clearing corp for the market-infrastructure side; with Master Trust Bank operating model, Custody Bank
-- Headings: JASDEC settlement operations, Wiki route, TL;DR, 1. 機関位置, What JASDEC is not, Participant types, Book-entry systems, DVP and ancillary services
+- Summary: This entry sits under banking index as a settlement-infrastructure companion to JASDEC entity page and JSCC clearing corp. Use it with Master Trust Bank operating model, Custody Bank operating model, Japan master trust and custody bank landscape, trust-bank custody operating comparison, and Japan ma
+- Headings: JASDEC settlement operations, Wiki route, TL;DR, 1. Entity and legal-operating perimeter, 2. System map, 3. Participant vocabulary, 4. Clearing, matching, securities settlement, and cash settlement, 5. Corrections to avoid
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/custody-bank-operating-model/, https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/, https://finwiki.zksc.io/ja/banking/master-trust-bank-operating-model/, https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/, https://finwiki.zksc.io/ja/banking/trust-bank-fee-structure-comparison/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/clearstream-banking-japan/
 
 ### JF Marine Bank system in Japan
@@ -1229,7 +1229,7 @@ Public pages listed: 1600
 - Type: wiki_entry
 - Summary: This entry sits under banking index. Read it with the entity anchor 日本マスタートラスト信託銀行 (MTBJ), the operating peer 日本カストディ銀行 (CBJ), the landscape summary Japan master trust and custody bank landscape, the operating comparison trust-bank custody operating comparison, and the cross-camp matrix Japan trust
 - Headings: Master Trust Bank of Japan operating model, Wiki route, TL;DR, 1. 機関位置, Shareholder structure (public disclosure), Why a custody-only trust bank exists, Business-line map, Operating-function breakdown
-- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/custody-bank-operating-model/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/, https://finwiki.zksc.io/ja/banking/jasdec-settlement-operations/, https://finwiki.zksc.io/ja/banking/pension-trust-mandate-allocation-japan/, https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/, https://finwiki.zksc.io/ja/banking/trust-bank-fee-structure-comparison/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/custody-bank-operating-model/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-master-trust-and-custody-bank-landscape/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-vs-global-custodian-comparison-matrix/, https://finwiki.zksc.io/ja/banking/jasdec-settlement-operations/, https://finwiki.zksc.io/ja/banking/pension-trust-mandate-allocation-japan/, https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/, https://finwiki.zksc.io/ja/banking/trust-bank-fee-structure-comparison/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/
 
 ### メルカリバンク license stack
 - URL: https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/
@@ -1319,7 +1319,7 @@ Public pages listed: 1600
 - Domain: banking
 - Type: wiki_entry
 - Summary: This entry sits under banking index. Read it against Regional bank consolidation pattern for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.
-- Headings: クイック入金の4方式分解フレーム, Wiki route, 核心命題, 4方式の比較, 方式選択の論点, 事業者側の観点, ユーザ側の観点, 副産物：Pay-easy 7日送金制限
+- Headings: クイック入金の4方式分解フレーム, Wiki route, 核心命題, 4方式の比較, 方式選択の論点, 事業者側の観点, ユーザ側の観点, 入金後の利用制限
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/mercari-bank-license-stack/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
 ### 楽天銀行 (Rakuten Bank)
@@ -2226,7 +2226,7 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/chochukin-rokin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX as the largest of the 13 rokin (labour bank) operating companies in Japan, providing the rokin-side operating-company anchor parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central ins
+- Summary: This entry sits under cooperative-banks INDEX as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central institution, rokin registry for the 13-rok
 - Headings: 中央労働金庫 (Chuo Rokin / Central Labour Bank), Wiki route, TL;DR, 1. License / 組織構造, 13 労働金庫の構成 ^[extracted], 重要年表 ^[extracted], 主要業務 ^[extracted], ALM・資金フロー ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/osaka-shogin-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/rokin-renraku/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/, https://finwiki.zksc.io/ja/financial-regulators/dic/
 
@@ -2252,7 +2252,7 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/gifu-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫 and 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block (岐阜信用金庫 is the third-largest Chubu shinkin by deposits, behind those two), and against Japan shinkin bank registry for the broader system / regulatory boundar
+- Summary: This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫 and 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block, and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
 - Headings: 岐阜信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/hamamatsu-iwata-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/regional-banks/juroku-bank/, https://finwiki.zksc.io/ja/regional-banks/juroku-fg/, https://finwiki.zksc.io/ja/regional-banks/ogaki-kyoritsu-bank/
 
@@ -2383,7 +2383,7 @@ Public pages listed: 1600
 - Domain: cooperative-banks
 - Type: wiki_entry
 - Summary: This entry sits under cooperative-banks INDEX as the JF Group cooperative-insurance national federation, the JF-side parallel to JA 共済連 in the agricultural cooperative system. Closes the audit gap where JA 共済連 was deeply documented but the JF-side equivalent (JF 共水連) had no anchor. Read with JF 全漁連
-- Headings: JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren), Wiki route, TL;DR, 1. 組織構造, 共済事業 vs 保険業法 (区別) ^[extracted], JF グループ 3 大全国連合会 ^[extracted], JA 共済連との対比 ^[extracted / inferred], 重要年表 ^[extracted / inferred]
+- Headings: JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren), Wiki route, TL;DR, 1. 組織構造, 共済事業 vs 保険業法 (区別) ^[extracted], JF グループ 3 大全国連合会 ^[extracted], JA 共済連との対比, 重要年表 ^[extracted / inferred]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/ja-kyosairen-fukushima/, https://finwiki.zksc.io/ja/cooperative-banks/ja-zen-noh/, https://finwiki.zksc.io/ja/cooperative-banks/ja-zenchu/, https://finwiki.zksc.io/ja/cooperative-banks/jf-marine-bank-hokkaido/, https://finwiki.zksc.io/ja/cooperative-banks/jf-shingyoren/, https://finwiki.zksc.io/ja/cooperative-banks/jf-zengyoren/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/insurance/mutual-vs-stock-life-insurer/
 
 ### JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)
@@ -2477,7 +2477,7 @@ Public pages listed: 1600
 - Headings: 警視庁職員信用組合 (Metropolitan Police Employees Credit Cooperative), Wiki route, TL;DR, 1. 法人概要, 組合員資格 ^[extracted], 東京都内職域信組ブロック (registry比較), 全信組連内の位置付け, 主要業務 ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/iwaki-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/tokyo-shobo-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/tokyo-to-shokuin-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/, https://finwiki.zksc.io/ja/financial-regulators/dic/
 
-### 北九州信用金庫
+### 福岡ひびき信用金庫（旧 kitakyushu-shinkin route）
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/
 - Japanese HTML: https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/
 - English alternate: https://finwiki.zksc.io/en/cooperative-banks/kitakyushu-shinkin/
@@ -2486,9 +2486,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kitakyushu-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against ふくおかフィナンシャルグループ（福岡銀行・熊本銀行・十八親和銀行）と 西日本フィナンシャルホールディングス（西日本シティ銀行）for the Kyushu commercial-bank counterparts, against 北九州銀行（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against Japan shinkin bank registry for the br
-- Headings: 北九州信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. 系統内位置（Systemic position）, 4. Why this page matters, 5. 関連 / 地域論点
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/, https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/, https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/
+- Summary: This page keeps the existing route under cooperative-banks INDEX but corrects the legal entity to 福岡ひびき信用金庫. Read it with Japan shinkin bank registry and 信金中央金庫, the sector's central financial institution, and distinguish it from 北九州銀行, a separate ordinary bank.
+- Headings: 福岡ひびき信用金庫（旧 kitakyushu-shinkin route）, Wiki route, TL;DR, Legal / operating identity, Identity history, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/, https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/
 
 ### 京都中央信用金庫
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/
@@ -2516,7 +2516,7 @@ Public pages listed: 1600
 - Headings: 京都信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/regional-banks/kyoto-bank/, https://finwiki.zksc.io/ja/regional-banks/kyoto-fg/
 
-### 名古屋信用金庫
+### 「名古屋信用金庫」識別ノート
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/
 - Japanese HTML: https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/
 - English alternate: https://finwiki.zksc.io/en/cooperative-banks/nagoya-shinkin/
@@ -2525,9 +2525,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/nagoya-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and 浜松磐田信用金庫（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against 名古屋銀行 and あいち銀行（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against Japan shinkin bank registry for
-- Headings: 名古屋信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 名古屋信用金庫 vs 岡崎信用金庫（geographic / industrial split）, 3. 系統内位置（Systemic position）, 4. Why this page matters
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/hamamatsu-iwata-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/
+- Summary: This page preserves the historical nagoya-shinkin route under cooperative-banks INDEX while correcting an entity-identification error. Use Japan shinkin bank registry for the complete current roster, 岡崎信用金庫 as a current regional shinkin peer, and 名古屋銀行 for the separate Banking Act bank.
+- Headings: 「名古屋信用金庫」識別ノート, Wiki route, TL;DR, Current-entity identification, Verification rule, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/, https://finwiki.zksc.io/ja/regional-banks/aichi-bank/, https://finwiki.zksc.io/ja/regional-banks/nagoya-bank/
 
 ### 農林中央金庫 (Norinchukin Bank)
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/
@@ -2590,7 +2590,7 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/osaka-shoko-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block (大阪商工信用金庫 は商工業者特化の中堅信金で、府内最大手の 大阪信用金庫 とは規模・地盤が異なる) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
+- Summary: This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
 - Headings: 大阪商工信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
@@ -2620,7 +2620,7 @@ Public pages listed: 1600
 - Headings: 札幌中央信用組合 (Sapporo Chuo Credit Cooperative), Wiki route, TL;DR, 1. 法人概要, 組合員資格 ^[extracted], 北海道信組ブロック (registry比較), 全信組連内の位置付け, 主要業務 ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/iwaki-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/, https://finwiki.zksc.io/ja/financial-regulators/dic/, https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/, https://finwiki.zksc.io/ja/regional-banks/hokuhoku-fg/, https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/
 
-### 札幌信用金庫
+### 札幌信用金庫（2018年に北海道信用金庫へ統合）
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/
 - Japanese HTML: https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/
 - English alternate: https://finwiki.zksc.io/en/cooperative-banks/sapporo-shinkin/
@@ -2629,9 +2629,9 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/sapporo-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 北海道銀行 and 北洋銀行 for the prefecture-level commercial-bank counterparts, against 横浜信用金庫 for a comparable other-prefecture city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 a
-- Headings: 札幌信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. 系統内位置（Systemic position）, 4. Why this page matters, 5. 関連 / 地域論点
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/, https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/, https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/, https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/
+- Summary: This page preserves the historical Sapporo Shinkin route under cooperative-banks INDEX. For the operating company after 2018-01-01, use 北海道信用金庫 and verify it against Japan shinkin bank registry. Compare 札幌中央信用組合 as a separate cooperative institution; for ordinary-bank comparisons in Hokkaido, see 北海
+- Headings: 札幌信用金庫（2018年に北海道信用金庫へ統合）, Wiki route, TL;DR, Successor identity, Interpretation rule, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/sapporo-chuo-shinkumi/, https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/, https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/
 
 ### 杜の都信用金庫 (Sendai-area / Tohoku leader shinkin)
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/
@@ -2659,7 +2659,7 @@ Public pages listed: 1600
 - Headings: 信金中央金庫 (Shinkin Central Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（2025-03 末 / 公式ディスクロージャー）^[extracted], 重要年表（抜粋）^[extracted], 2. 事業セグメント・マップ, 中央機関としての二重役割
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
-### Shinkin Network Services (信金ネットワークサービス)
+### 一般社団法人しんきん共同センター（旧 shinkin-network-services route）
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/
 - Japanese HTML: https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/
 - English alternate: https://finwiki.zksc.io/en/cooperative-banks/shinkin-network-services/
@@ -2668,11 +2668,11 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-network-services.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the operational central-bank counterpart that anchors the shinkin system, against 全国信用金庫協会 for the industry-body / policy layer, and against Japan shinkin bank registry for the full member-population route. The cooperative-sys
-- Headings: Shinkin Network Services (信金ネットワークサービス), Wiki route, TL;DR, 1. Legal / group boundary, 2. 業務の内容, 3. 戦略的位置付け（Why this entity matters）, 協同組織金融機関の規模の経済問題, メガバンク / 地銀との対比
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/jonan-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/osaka-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/cooperative-banks/yokohama-shinkin/, https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/
+- Summary: This entry preserves the historical shinkin-network-services slug under cooperative-banks INDEX while correcting the entity to the 一般社団法人しんきん共同センター. Read it with 信金中央金庫 for the central financial institution, 全国信用金庫協会 for the industry association, and Japan shinkin bank registry for the wider license
+- Headings: 一般社団法人しんきん共同センター（旧 shinkin-network-services route）, Wiki route, TL;DR, 1. 法人・会員境界, 2. 公式に確認できる業務, 3. 読み分け, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/, https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/
 
-### 信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)
+### しんきんアセットマネジメント投信 (Shinkin Asset Management)
 - URL: https://finwiki.zksc.io/ja/cooperative-banks/shinkin-shoken/
 - Japanese HTML: https://finwiki.zksc.io/ja/cooperative-banks/shinkin-shoken/
 - English alternate: https://finwiki.zksc.io/en/cooperative-banks/shinkin-shoken/
@@ -2681,8 +2681,8 @@ Public pages listed: 1600
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-shoken.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫（中央機関本体）, 全国信用金庫協会（policy / industry body）, and 信金ネットワークサービス（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against 農林中央金庫 グループの 農中信託銀行・農中証券 for the parallel JA central-sy
-- Headings: 信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane), Wiki route, TL;DR, 1. Legal / group boundary, 2. 業務の内容, 3. 系統内位置（Systemic position）, 4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）, 5. Why this page matters
+- Summary: This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the shareholder/group boundary, 全国信用金庫協会 for the industry-body boundary, and 信金ネットワークサービス for the IT-infrastructure boundary.
+- Headings: しんきんアセットマネジメント投信 (Shinkin Asset Management), Wiki route, TL;DR, 1. Legal / group boundary, 2. 業務の内容, 3. 系統内位置（Systemic position）, 4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）, 5. Why this page matters
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/, https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/kyoto-chuo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/cooperative-banks/rokin-renraku/, https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/, https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/
 
 ### 多摩信用金庫
@@ -2721,7 +2721,7 @@ Public pages listed: 1600
 - Domain: cooperative-banks
 - Type: wiki_entry
 - Summary: This entry sits under cooperative-banks INDEX as the largest 自治体職員 (local government employee) shinkumi in Japan, complementing peer 職域 (occupation-based) shinkumi like 警視庁職員信用組合 (police) and 東京消防信用組合 (fire dept) within the 143-cooperative population catalogued in Japan credit cooperative registry.
-- Headings: 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative), Wiki route, 1. 法人概要, 組合員資格 ^[extracted], 全信組連内の位置付け, 主要業務 ^[extracted], 5. KPI, 6. 監督・規制
+- Headings: 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative), Wiki route, 1. 法人概要, 組合員資格 ^[extracted], 全信組連内の位置付け, 主要業務 ^[extracted], 5. KPI update route, 6. 監督・規制
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/, https://finwiki.zksc.io/ja/domains/cooperative-banks/, https://finwiki.zksc.io/ja/cooperative-banks/iwaki-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/keishicho-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/tokyo-shobo-shinkumi/, https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/, https://finwiki.zksc.io/ja/financial-regulators/dic/
 
 ### 横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)
@@ -17168,6 +17168,15 @@ Public pages listed: 1600
 - Domain: releases
 - Type: release_note
 - Headings: 表出典168件と金融グループ事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 銀行・協同組織金融の表出典146件を校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-12.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-12.md
+- Source path: releases/v2026.07.29-12.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-12.md
+- Domain: releases
+- Type: release_note
+- Headings: 銀行・協同組織金融の表出典146件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md

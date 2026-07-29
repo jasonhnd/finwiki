@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/jf-marine-bank-hokkaido
-source_hash: d50e367ffdc89587
+source_hash: 55aeb8b76919d370
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JF Marine Bank Hokkaido (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)"
-translated_at: 2026-06-18T23:33:48.352Z
+translated_at: 2026-07-29T03:30:48.127Z
 ---
 # JF Marine Bank Hokkaido (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)
 
@@ -41,7 +42,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 | Shingyoren (estimated) | Jurisdiction area | Scale |
 |---|---|---|
-| **Hokkaido Shingyoren (this page)** | **Hokkaido** | **Largest (national fisheries 1/4)** |
+| **Hokkaido Shingyoren (this page)** | **Hokkaido** | Hokkaido Credit Business Federation |
 | Tohoku Shingyoren | Aomori, Miyagi, Iwate, Fukushima, etc. | Large |
 | Kanto-Koshinetsu Shingyoren | Chiba, Ibaraki, Shizuoka, etc. | Medium |
 | Hokuriku Shingyoren | Toyama, Ishikawa, Fukui | Medium |
@@ -59,7 +60,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
   Layer 1: 全国 71 JF (うち北海道 JF 数十組合)
                 ↓ 余資預け入れ
   Layer 2: 10 信漁連
-            ★ 北海道信漁連 (本ページ、最大規模)
+            ★ Hokkaido Shingyoren (this page)
                 ↓ 余資預け入れ
   Layer 3: 1 [[cooperative-banks/norinchukin|農林中央金庫]] (中央)
                 ↓ 機関投資・系統還元
@@ -77,7 +78,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **2010 年s** | **Brand unification of "[[banking/jf-marine-bank-system-japan|JF Marine Bank]]"** ^[extracted] |
 | 2015~ | **JF Marine Bank Basic Policy** strengthening of unified operation ^[extracted] |
 | 2020 年s | Response to the halt of marine-product exports to China (2023~) |
-| **2025-04-01** | **Within the 10 -shingyoren framework, Hokkaido Shingyoren continues to operate at the largest scale** ^[extracted] |
+| **2025-03-31** | **Hokkaido Shingyoren releases official disclosure** |
 
 ### The 4  major functions (common to shingyoren) ^[extracted]
 
@@ -125,6 +126,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | Paid-in capital | 13,442 百万円 | Hokkaido Shingyoren disclosure 2025 |
 | Number of staff | 154  | Hokkaido Shingyoren disclosure 2025 |
 | Non-consolidated capital-adequacy ratio | 16.15% | Hokkaido Shingyoren disclosure 2025 |
+
+Sources: [Hokkaido Credit Fisheries Cooperative Federation “Disclosure 2025”](https://marinebank.jp/disclosure/disclosure2025_02.pdf)（2025-03-31 Current) and [Official Disclosure List](https://marinebank.jp/disclosure/index.html)。
 
 > Note: established 1949 年. 5 -year trend (deposits and savings balance, million yen): Reiwa 3=671,566 / Reiwa 4=686,544 / Reiwa 5=731,966 / Reiwa 6=717,657 / Reiwa 7=765,436. Comparative KPI across all 10  shingyoren should be checked against [[cooperative-banks/norinchukin|農林中金]] public materials + each shingyoren's disclosure.
 

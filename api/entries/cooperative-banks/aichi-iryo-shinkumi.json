@@ -24,9 +24,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -50,7 +50,6 @@
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
       "https://www.iryoushin.com/",
-      "https://ja.wikipedia.org/wiki/愛知県医療信用組合",
       "中小企業等協同組合法"
     ]
   },
@@ -65,7 +64,7 @@
     "全国医療系信組ネットワーク ^[extracted FSA registry 抜粋]",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI"
+    "5. KPI update route"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -94,14 +93,12 @@
       "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
       "https://finwiki.zksc.io/ja/financial-regulators/dic/"
     ],
-    "external_links_count": 1,
-    "external_links": [
-      "https://www.iryoushin.com/"
-    ]
+    "external_links_count": 0,
+    "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5452,
-    "word_like_tokens": 776,
+    "nonspace_chars": 5136,
+    "word_like_tokens": 690,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

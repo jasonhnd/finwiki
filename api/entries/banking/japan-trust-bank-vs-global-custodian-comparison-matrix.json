@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -67,7 +67,7 @@
       "https://www.boj.or.jp/en/paym/jgb_bes/index.htm"
     ]
   },
-  "summary": "Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks",
+  "summary": "This page compares what can be verified about Japanese trust banks and global custodians operating in Japan. It does not rank pricing power, infer customer mandates, or assume market connectivity from a group brand. Legal-entity status comes from FSA registers; business scope from each entity's offi",
   "headings": [
     "Japan trust bank vs global custodian comparison matrix",
     "TL;DR",
@@ -77,7 +77,7 @@
     "Comparison Matrix (global custodians in Japan)",
     "Cross-camp matrix view",
     "Master Trust vs Custody Bank of Japan — 2020 統合の意味",
-    "Pricing power dynamics",
+    "Public comparison limits",
     "Interpretation rules"
   ],
   "body_links": {
@@ -138,8 +138,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13121,
-    "word_like_tokens": 2157,
+    "nonspace_chars": 12661,
+    "word_like_tokens": 1945,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-04"
   }

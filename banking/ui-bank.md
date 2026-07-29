@@ -8,9 +8,9 @@ aliases:
   - "Kiraboshi UI Bank"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-06-03
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, digital-bank, regional-bank-group, kiraboshi-fg, smartphone-first]
 status: active
@@ -18,8 +18,6 @@ sources:
   - "https://www.uibank.co.jp/"
   - "https://www.uibank.co.jp/info/"
   - "https://www.uibank.co.jp/service/uiplus/"
-  - "https://ja.wikipedia.org/wiki/UI銀行"
-  - "https://www.albino.co.jp/bank-deposit-balance-ranking/"
   - "https://www.tokyo-kiraboshifg.co.jp/"
   - "https://www.tokyo-kiraboshifg.co.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -34,7 +32,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 ## TL;DR
 
-UI銀行 (UI Bank Co., Ltd.) is the smartphone-first digital-bank subsidiary of [[regional-banks/kiraboshi-fg|東京きらぼし FG]], opened on **2022-01-04** as the group's standalone digital bank. Its strategic logic is that the parent regional bank ([[regional-banks/kiraboshi-bank|きらぼし銀行]]) covers Tokyo-centric branch banking, while UI Bank takes the nationwide, smartphone-only customer journey that the legacy branch network cannot serve cost-effectively. UI Bank is one of three meaningful regional-group digital banks alongside [[banking/minna-bank-baas-model|Minna Bank]] ([[regional-banks/fukuoka-fg|Fukuoka FG]]) and [[regional-banks/01-bank|01 Bank]] ([[megabanks/saitama-resona-bank|Saitama Resona]] / Resona group), each with a distinct architectural read: Minna Bank specialises in BaaS partner-channel distribution, 01 Bank focuses on Resona-group cross-sell, UI Bank emphasises smartphone-first life-partner financial UX with API connectivity. Deposit balance has grown steadily since 2022 opening but remains sub-trillion-yen (approximately ¥0.7 trillion / ¥6,952億 as of 2025-03-31), an order of magnitude smaller than ecosystem-bank peers ([[banking/rakuten-bank|Rakuten Bank]] ¥11.5tn / [[banking/paypay-bank|PayPay Bank]] ¥1.9tn / [[banking/au-jibun-bank|au Jibun]] ¥4tn+ at the same date). Tactical positioning emphasises the convergence of bank, savings, payment, and lifestyle services through a single mobile-first UX layer.
+UI銀行 (UI Bank Co., Ltd.) is an ordinary bank in the Tokyo Kiraboshi Financial Group and provides smartphone-centred banking services. Its licence and legal entity should be checked in the FSA bank register; products and group relationships should be checked on UI Bank and Tokyo Kiraboshi FG official pages. Volatile balances, account counts, rates, and peer rankings are deliberately not frozen here without a dated primary disclosure.
 
 ## 1. Identity and group position
 
@@ -49,6 +47,8 @@ UI銀行 (UI Bank Co., Ltd.) is the smartphone-first digital-bank subsidiary of 
 | HQ | Tokyo |
 | Channel architecture | Smartphone app + web; no physical branches |
 | Primary regulator | 金融庁 (FSA) |
+
+Sources: ^[UI Bank corporate information, https://www.uibank.co.jp/info/; FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; Tokyo Kiraboshi FG corporate site, https://www.tokyo-kiraboshifg.co.jp/.]
 
 ### Why a separate license from きらぼし銀行
 
@@ -85,34 +85,39 @@ The UX architecture explicitly bundles bank account, deposit, payment, transfer,
 
 ### Where UI Bank competes
 
-| Axis | Position |
+| Verification question | Primary official evidence |
 |---|---|
-| Smartphone-first deposit growth | Active; account-opening flow optimised for in-app onboarding |
-| Cross-sell with きらぼし銀行 corporate clients | Possible via group linkage — employer-pay schemes, corporate payroll, partner-business linkages |
-| Lifestyle / partner-service integration | Differentiating UX axis vs ecosystem-points-led peers |
-| Geographic reach | Nationwide via mobile (vs きらぼし銀行 Tokyo focus) |
+| Which accounts and deposits are currently offered? | UI Bank's current product pages and customer terms |
+| Which loans are currently available? | UI Bank's current loan menu and product terms |
+| Which group or external services are live? | UI Bank / Tokyo Kiraboshi FG dated announcements |
+| Which KPIs can be compared? | Same-date, same-definition figures in official disclosure documents |
+
+Sources: ^[UI Bank official site, https://www.uibank.co.jp/; UI Bank service page, https://www.uibank.co.jp/service/uiplus/; Tokyo Kiraboshi FG IR, https://www.tokyo-kiraboshifg.co.jp/ir/.]
 
 ### Three-bank regional-digital comparison
 
-| Dimension | UI Bank (this entry) | [[banking/minna-bank-baas-model|Minna Bank]] | [[regional-banks/01-bank|01 Bank]] |
-|---|---|---|---|
-| Parent group | [[regional-banks/kiraboshi-fg|東京きらぼし FG]] | [[regional-banks/fukuoka-fg|Fukuoka FG]] | [[megabanks/resona-hd|Resona HD]] / [[megabanks/saitama-resona-bank|Saitama Resona]] |
-| Opening | 2022-01 | 2021-05 | Later launch |
-| Channel architecture | Smartphone + web | BaaS partner journeys + direct app | Resona-group cross-sell + direct app |
-| Strategic axis | Smartphone-first life-partner banking + API | Full BaaS — partner brands own the customer journey | Group-customer digital adjunct |
-| BaaS depth | Lighter | Heaviest of the three | Lighter |
-| Direct UX maturity | Growing | Strong app UX | Growing |
+| Dimension | Evidence required before comparison |
+|---|---|
+| Licensed entity and start date | FSA register plus each bank's official company history |
+| Parent relationship | Current group organisation or securities disclosure |
+| Direct channel | Current official service and app pages |
+| BaaS / partner channel | Named, dated announcements by both parties |
+| Scale and growth | Same-period official financial / KPI disclosures using compatible definitions |
+
+Sources: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; official company and IR pages for UI Bank, Fukuoka FG / Minna Bank, and Resona group.]
 
 ## 4. KPI and franchise shape
 
 UI Bank publishes selective KPI updates through きらぼし FG IR materials and its own disclosure publications; point-in-time deposit balance and account count appear there. The franchise pattern through the early years post-launch is:
 
-| Metric | Pattern |
+| Metric | Publication rule |
 |---|---|
-| Account count | ~73,000 accounts as of 2023-03-31; growing but an order of magnitude below ecosystem-bank peers (and far below the ~2.7-3.0m 3-year target floated at 2022 opening) |
-| Deposit balance | ~¥6,952億 (≈¥0.7tn) as of 2025-03-31 — sub-trillion-yen, well below [[banking/rakuten-bank|Rakuten Bank]] (¥11.5tn) or [[banking/paypay-bank|PayPay Bank]] (¥1.9tn) |
-| Loan book | Retail / consumer-loan focus (smartphone loan, free / auto / housing loans); modest in absolute terms |
-| Capital | Above 銀行法 minimum; relatively low business-risk balance sheet for a young digital bank |
+| Account count | Publish only from a dated UI Bank or Tokyo Kiraboshi FG disclosure, preserving the issuer's account definition |
+| Deposit balance | Publish only with the balance-sheet date, unit, and legal-entity perimeter |
+| Loan balance / mix | Use official disclosure; do not infer book size from the product menu |
+| Capital and capital ratio | Use the bank's statutory disclosure and preserve the reported basis |
+
+Sources: ^[Tokyo Kiraboshi FG IR, https://www.tokyo-kiraboshifg.co.jp/ir/; UI Bank corporate information, https://www.uibank.co.jp/info/.]
 
 ## 5. Regulatory and policy boundary
 
@@ -123,7 +128,9 @@ UI Bank publishes selective KPI updates through きらぼし FG IR materials and
 | Deposit insurance | 預金保険機構 | Standard JPY deposit insurance coverage |
 | Cybersecurity / IT resilience | FSA IT 統合的監督指針 + サイバーセキュリティ報告 | Digital-only banks face heightened IT-resilience expectations |
 | AML / CFT | 金融庁 + FATF 第 4 次審査 | Online-onboarding eKYC compliance heightened post-FATF review |
-| Parent-bank consolidation | 銀行法 + 金融商品取引法 — Resona-like holdings rules | Consolidated supervision through きらぼし FG |
+| Parent-bank consolidation | 銀行法 + 金融商品取引法 | Group and entity disclosures must be distinguished |
+
+Sources: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; FSA bank supervisory guidance, https://www.fsa.go.jp/common/law/guide/city/.]
 
 ## Related
 
@@ -148,7 +155,5 @@ UI Bank publishes selective KPI updates through きらぼし FG IR materials and
 - UI Bank corporate / product site (https://www.uibank.co.jp/).
 - UI Bank corporate-information page (https://www.uibank.co.jp/info/).
 - UI Bank UI プラス / service page — loan menu (UI プラン smartphone loan, free / auto / housing / doctor loans, UI サポート overdraft), API-connected 電子決済等代行業者 linkage, time deposits (https://www.uibank.co.jp/service/uiplus/).
-- Wikipedia「UI銀行」— 預金残高 6,952億円 (2025-03-31), 口座数 73,000 (2023-03-31), 開業, 3-year targets (https://ja.wikipedia.org/wiki/UI銀行, 2026-05-29 確認).
-- 銀行の預金残高ランキング（アルビノ）— UI銀行 6,865億円 / PayPay銀行 1兆9,122億円 / 楽天銀行 11兆4,763億円, いずれも 2025-03 (https://www.albino.co.jp/bank-deposit-balance-ranking/).
 - Tokyo Kiraboshi Financial Group corporate / IR site (https://www.tokyo-kiraboshifg.co.jp/).
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).

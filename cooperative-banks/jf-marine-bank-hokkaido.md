@@ -9,8 +9,8 @@ aliases:
   - "道信漁連"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, jf-group, jf-marine-bank-system, prefectural-federation, shingyoren, hokkaido, fisheries-finance, cooperative-banking]
@@ -59,7 +59,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 | 信漁連 (推定) | 管轄エリア | 規模 |
 |---|---|---|
-| **北海道信漁連 (本ページ)** | **北海道** | **最大 (国内漁業 1/4)** |
+| **北海道信漁連 (本ページ)** | **北海道** | 道内の信用事業連合会 |
 | 東北信漁連 | 青森・宮城・岩手・福島 等 | 大 |
 | 関東甲信越信漁連 | 千葉・茨城・静岡 等 | 中 |
 | 北陸信漁連 | 富山・石川・福井 | 中 |
@@ -77,7 +77,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
   Layer 1: 全国 71 JF (うち北海道 JF 数十組合)
                 ↓ 余資預け入れ
   Layer 2: 10 信漁連
-            ★ 北海道信漁連 (本ページ、最大規模)
+            ★ 北海道信漁連 (本ページ)
                 ↓ 余資預け入れ
   Layer 3: 1 [[cooperative-banks/norinchukin|農林中央金庫]] (中央)
                 ↓ 機関投資・系統還元
@@ -95,7 +95,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **2010 年代** | **「[[banking/jf-marine-bank-system-japan|JF Marine Bank]]」ブランド統一化** ^[extracted] |
 | 2015〜 | **JF Marine Bank Basic Policy** 一体運営強化 ^[extracted] |
 | 2020 年代 | 中国向け水産物輸出停止 (2023〜) への対応 |
-| **2025-04-01** | **10 信漁連体制内で北海道信漁連は最大規模で継続稼働** ^[extracted] |
+| **2025-03-31** | **北海道信漁連が公式ディスクロージャーを公表** |
 
 ### 4 大機能 (信漁連共通) ^[extracted]
 
@@ -143,6 +143,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 出資金 | 13,442 百万円 | 道信漁連ディスクロージャー 2025 |
 | 職員数 | 154 人 | 道信漁連ディスクロージャー 2025 |
 | 単体自己資本比率 | 16.15% | 道信漁連ディスクロージャー 2025 |
+
+Sources: [北海道信用漁業協同組合連合会「ディスクロージャー 2025」](https://marinebank.jp/disclosure/disclosure2025_02.pdf)（2025-03-31 現在）および [公式ディスクロージャー一覧](https://marinebank.jp/disclosure/index.html)。
 
 > 注: 設立 1949 年。5 年推移 (貯金等残高, 百万円): 令和3=671,566 / 令和4=686,544 / 令和5=731,966 / 令和6=717,657 / 令和7=765,436。10 信漁連全体での比較 KPI は [[cooperative-banks/norinchukin|農林中金]] 公開資料 + 各信漁連ディスクロージャー要参照。
 

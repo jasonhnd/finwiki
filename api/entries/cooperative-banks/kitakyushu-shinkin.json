@@ -11,24 +11,25 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kitakyushu-shinkin.md",
   "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/kitakyushu-shinkin.md",
   "domain": "cooperative-banks",
-  "title": "北九州信用金庫",
+  "title": "福岡ひびき信用金庫（旧 kitakyushu-shinkin route）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "北九州信用金庫",
+    "title": "福岡ひびき信用金庫（旧 `kitakyushu-shinkin` route）",
     "aliases": [
       "cooperative-banks/kitakyushu-shinkin",
       "kitakyushu-shinkin",
       "Kitakyushu Shinkin Bank",
+      "北九州信用金庫",
       "北九州信金",
-      "きたしん",
-      "信金"
+      "福岡ひびき信用金庫",
+      "ひびしん"
     ],
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -37,85 +38,52 @@
       "fukuoka",
       "kyushu",
       "kitakyushu",
-      "operating-company"
+      "operating-company",
+      "identity-correction"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.kitakyushushinkin.com/",
-      "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
-      "https://www.shinkin-central-bank.jp/"
+      "https://www.fukuokahibiki.co.jp/info.php",
+      "https://www.fukuokahibiki.co.jp/about/disclosure2024.php"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX. Read it against ふくおかフィナンシャルグループ（福岡銀行・熊本銀行・十八親和銀行）と 西日本フィナンシャルホールディングス（西日本シティ銀行）for the Kyushu commercial-bank counterparts, against 北九州銀行（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against Japan shinkin bank registry for the br",
+  "summary": "This page keeps the existing route under cooperative-banks INDEX but corrects the legal entity to 福岡ひびき信用金庫. Read it with Japan shinkin bank registry and 信金中央金庫, the sector's central financial institution, and distinguish it from 北九州銀行, a separate ordinary bank.",
   "headings": [
-    "北九州信用金庫",
+    "福岡ひびき信用金庫（旧 kitakyushu-shinkin route）",
     "Wiki route",
     "TL;DR",
-    "1. License / group boundary",
-    "2. Operating model",
-    "3. 系統内位置（Systemic position）",
-    "4. Why this page matters",
-    "5. 関連 / 地域論点",
-    "北九州工業地帯との結びつき",
-    "北九州市の人口減少と地域経済"
+    "Legal / operating identity",
+    "Identity history",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 5,
     "wikilinks": [
-      "banking/INDEX",
-      "banking/cooperative-banking-japan",
-      "banking/japan-cooperative-banking-unified-federation-matrix",
-      "banking/japan-decarbonization-financing-roadmap",
       "banking/shinkin-bank-registry-japan",
       "cooperative-banks/INDEX",
-      "cooperative-banks/nagoya-shinkin",
-      "cooperative-banks/sapporo-shinkin",
-      "cooperative-banks/sendai-shinkin",
       "cooperative-banks/shinkin-central",
-      "cooperative-banks/shinkin-network-services",
-      "financial-regulators/yokin-hoken-kiko",
-      "financial-regulators/zenshin-kyo",
-      "regional-banks/18-shinwa-bank",
-      "regional-banks/fukuoka-bank",
       "regional-banks/fukuoka-fg",
-      "regional-banks/kitakyushu-bank",
-      "regional-banks/kumamoto-bank",
-      "regional-banks/nishi-nippon-city-bank",
-      "regional-banks/nishi-nippon-fh",
-      "trust-banks/sumitomo-mitsui-trust"
+      "regional-banks/kitakyushu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/domains/banking/",
-      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
-      "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
       "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
       "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/",
       "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
-      "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
-      "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-      "https://finwiki.zksc.io/ja/regional-banks/18-shinwa-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-      "https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/kumamoto-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-city-bank/",
-      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+      "https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5259,
-    "word_like_tokens": 713,
-    "inbound_wikilinks_count": 4,
+    "nonspace_chars": 2590,
+    "word_like_tokens": 369,
+    "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-06"
   }
 }

@@ -7,9 +7,9 @@ aliases:
   - "Shinkumi registry Japan"
 domain: "banking"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
-review_by: 2026-11-21
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, cooperative-banking, credit-cooperative, shinkumi, registry, japan]
 status: active
@@ -39,6 +39,8 @@ This registry index captures the FSA public authorization list for Japan's credi
 | Licensed credit cooperatives | 143 |
 | Legal / institutional route | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
 | Wiki treatment | Registry index; standalone pages only for central institutions or strategically material exceptions |
+
+Sources: the as-of date, central row, and 143 cooperative rows are read from the cited FSA workbook; counts are a snapshot and must be regenerated when that workbook changes. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. Coverage decision
 

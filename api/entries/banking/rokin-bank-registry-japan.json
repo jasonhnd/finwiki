@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -78,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3643,
-    "word_like_tokens": 576,
+    "nonspace_chars": 3882,
+    "word_like_tokens": 624,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-04"
   }

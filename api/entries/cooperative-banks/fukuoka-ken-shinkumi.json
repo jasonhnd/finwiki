@@ -23,9 +23,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -48,7 +48,6 @@
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
       "https://kenshin-f.jp/disclosure/",
-      "https://ja.wikipedia.org/wiki/福岡県信用組合",
       "中小企業等協同組合法"
     ]
   },
@@ -63,7 +62,7 @@
     "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI"
+    "5. KPI update route"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -91,14 +90,12 @@
       "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/nishi-nippon-fhd/"
     ],
-    "external_links_count": 1,
-    "external_links": [
-      "https://kenshin-f.jp/disclosure/"
-    ]
+    "external_links_count": 0,
+    "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4703,
-    "word_like_tokens": 686,
+    "nonspace_chars": 4558,
+    "word_like_tokens": 624,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }
