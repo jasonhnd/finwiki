@@ -11,17 +11,17 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-bank-credit-facilities.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities.md",
   "domain": "exchanges",
-  "title": "CEX × 日本銀行 無担保授信実績図譜",
+  "title": "CEX × 日本銀行 公開コミットメントライン事例",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CEX × 日本銀行 無担保授信実績図譜(Fintech業界インテリジェンス)",
+    "title": "CEX × 日本銀行 公開コミットメントライン事例",
     "aliases": [],
     "domain": "exchanges",
     "type": null,
     "created": "2026-04-17",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-10-30",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "certain",
     "tags": [
       "fintech"
@@ -36,16 +36,15 @@
   },
   "summary": "This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [
-    "CEX × 日本銀行 無担保授信実績図譜",
+    "CEX × 日本銀行 公開コミットメントライン事例",
     "Wiki route",
     "既知の先例",
-    "bitbank × きらぼし銀行(2026-03公表)⭐",
-    "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認",
-    "GMO 初期 × 単一地銀(公開ソース未確認)",
-    "業界共通要素",
-    "銀行側の選好(パターン)",
-    "きらぼし銀行",
-    "あおぞら銀行"
+    "bitbank × きらぼし銀行（2026-03 公表）",
+    "公表された契約条件",
+    "証拠の境界",
+    "2026-04 時点の主要ギャップ",
+    "Sources",
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -69,13 +68,15 @@
       "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
       "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 1,
+    "external_links": [
+      "https://prtimes.jp/main/html/rd/p/000000240.000024344.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2940,
-    "word_like_tokens": 434,
+    "nonspace_chars": 2130,
+    "word_like_tokens": 309,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-07-28"
+    "last_modified": "2026-07-29"
   }
 }

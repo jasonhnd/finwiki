@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,6 +40,9 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://docs.orca.so/support/about",
+      "https://docs.orca.so/developers/overview",
+      "https://docs.orca.so/governance/tokenomics",
       "公開情報整理 (Orca 公式 docs / Whirlpools whitepaper, orca.so)",
       "公開情報整理 (DefiLlama Orca TVL/Volume データ, 2024-2026)",
       "公開情報整理 (Solana Foundation エコシステム発表)",
@@ -53,7 +56,7 @@
     "1. プロトコル概要",
     "2. Whirlpools CLMM の設計",
     "3. UX / 設計思想",
-    "4. Raydium との比較（Solana 2 大 AMM）",
+    "4. Orca 公開仕様スナップショット",
     "5. 主要事件・沿革",
     "6. ガバナンス・経済モデル",
     "7. 国際比較・cross-chain 戦略",
@@ -77,13 +80,17 @@
       "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
       "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://docs.orca.so/developers/overview",
+      "https://docs.orca.so/governance/tokenomics",
+      "https://docs.orca.so/support/about"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3654,
-    "word_like_tokens": 634,
+    "nonspace_chars": 3884,
+    "word_like_tokens": 618,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

@@ -11,21 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-tokyo-hash.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-tokyo-hash.md",
   "domain": "exchanges",
-  "title": "東京ハッシュ株式会社 — 日本暗号資産交換業者 overview",
+  "title": "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "東京ハッシュ株式会社 — 日本暗号資産交換業者",
+    "title": "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者",
     "aliases": [
       "Tokyo Hash",
       "東京ハッシュ",
-      "Tokyo Hash Co., Ltd."
+      "Tokyo Hash Co., Ltd.",
+      "HashKey Japan",
+      "HashKey Japan Co., Ltd."
     ],
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -49,7 +51,7 @@
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [
-    "東京ハッシュ株式会社 — 日本暗号資産交換業者 overview",
+    "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 牌照・登録状況",
@@ -61,15 +63,12 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-vasp-regulatory-comparison-matrix",
       "exchanges/hk-sfc-vasp-licensing-overview",
-      "exchanges/jp-exchange-bitflyer",
-      "exchanges/jp-exchange-coincheck",
-      "exchanges/jp-exchange-gmo-coin",
       "exchanges/jp-vasp-parent-company-map",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
@@ -81,9 +80,6 @@
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
       "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
@@ -103,9 +99,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4363,
-    "word_like_tokens": 736,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4156,
+    "word_like_tokens": 707,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-07-29"
   }
 }

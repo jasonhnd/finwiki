@@ -25,7 +25,7 @@
     "created": "2026-05-18",
     "last_updated": "2026-07-29",
     "last_tended": "2026-07-29",
-    "review_by": "2026-10-27",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -41,6 +41,8 @@
       "https://bitflyer.com/ja-jp/s/company",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf",
+      "https://bitflyer.com/pub/20240828-The-Change-of-Company-Name-of-Consolidated-Subsidiary-ja.pdf",
       "https://ja.wikipedia.org/wiki/BitFlyer",
       "https://www.nikkei.com/article/DGXZQOUB305WU0Q2A930C2000000/",
       "https://www.bloomberg.com/news/articles/2023-03-30/bitflyer-co-founder-yuzo-kano-to-return-as-crypto-exchange-s-ceo",
@@ -88,9 +90,11 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/payment-firms/bitflyer/"
     ],
-    "external_links_count": 7,
+    "external_links_count": 9,
     "external_links": [
       "https://bitflyer.com/ja-jp/s/company",
+      "https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf",
+      "https://bitflyer.com/pub/20240828-The-Change-of-Company-Name-of-Consolidated-Subsidiary-ja.pdf",
       "https://coinpost.jp/?p=448642",
       "https://ja.wikipedia.org/wiki/BitFlyer",
       "https://jvcea.or.jp/member/",
@@ -100,9 +104,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5767,
-    "word_like_tokens": 1000,
-    "inbound_wikilinks_count": 45,
+    "nonspace_chars": 5648,
+    "word_like_tokens": 924,
+    "inbound_wikilinks_count": 32,
     "last_modified": "2026-07-29"
   }
 }

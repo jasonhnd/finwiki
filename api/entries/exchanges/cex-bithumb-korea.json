@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,11 +40,12 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.bithumbcorp.com/ko/company/aboutus.php",
+      "https://www.kofiu.go.kr/kor/notification/notice.do",
       "公開情報整理 (Bithumb Korea 公式 IR / 회사 소개 페이지)",
       "公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)",
       "公開情報整理 (KISA ISMS-P 인증 발표)",
-      "公開情報整理 (NH 농협은행 실명확인 입출금 계정 계약 보도)",
-      "公開情報整理 (Bithumb IPO 2025-2026 KOSDAQ 상장 추진 보도)"
+      "公開情報整理 (NH 농협은행 실명확인 입출금 계정 계약 보도)"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit for the closest peer comparison, and global CEX top 10 comparison for the broader system / market boundary.",
@@ -80,13 +81,16 @@
       "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.bithumbcorp.com/ko/company/aboutus.php",
+      "https://www.kofiu.go.kr/kor/notification/notice.do"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3449,
-    "word_like_tokens": 585,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 3020,
+    "word_like_tokens": 486,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-07-29"
   }
 }

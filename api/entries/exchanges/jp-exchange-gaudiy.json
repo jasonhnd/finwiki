@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -41,6 +41,7 @@
     "note": null,
     "sources": [
       "https://gaudiy.com/",
+      "https://gaudiy.com/en",
       "https://gaudiy.com/about",
       "https://gaudiy.com/business",
       "https://jvcea.or.jp/member/",
@@ -108,9 +109,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 7163,
-    "word_like_tokens": 1190,
+    "nonspace_chars": 7888,
+    "word_like_tokens": 1296,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }
