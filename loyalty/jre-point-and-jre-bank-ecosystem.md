@@ -36,7 +36,7 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **transit-anchored 
 
 ## TL;DR
 
-**JRE POINT** is the loyalty currency of the **[[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem**, sitting at the intersection of **Mobile Suica (and physical Suica)**, **ViewCard credit cards**, and the **JRE BANK** brand banking account (operated under [[banking/rakuten-bank|楽天銀行]] BaaS from 2024-05). The economic logic is to **convert daily-life railway commute + 駅ナカ retail + credit-card spend + bank-deposit balance into a single LTV ladder** that ties customers to the JR-East group across multiple consumption categories. JRE POINT differs structurally from telco-anchored common points (dポイント, au PAY ポイント, PayPay Points) in that its **anchor is daily-frequency rail commuting** — a use case with extremely high stickiness in metropolitan Tokyo — and from bank-anchored common points (V Point) in that the **payment-card layer (ViewCard) is captive to JR-East rather than tied to a megabank**. The **JRE BANK** opening in May 2024 added a **bank-deposit / fund-transfer dimension** that previously did not exist, completing the "ride → eat → shop → spend → save" LTV chain. The strategic question is whether JRE POINT becomes a **regional-transit-anchored common point** that competes for cross-merchant scale with the national common-point operators, or remains a **JR-East ecosystem-internal loyalty** focused on consolidating spend within group banners.
+**JRE POINT** is the loyalty currency of the **[[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem**, sitting at the intersection of **Mobile Suica (and physical Suica)**, **ViewCard credit cards**, and the **JRE BANK** brand banking account (operated under [[banking/rakuten-bank|楽天銀行]] BaaS from 2024-05). The economic logic is to **convert daily-life railway commute + 駅ナカ retail + credit-card spend + bank-deposit balance into a single LTV ladder** that ties customers to the JR-East group across multiple consumption categories. JRE POINT differs structurally from telco-linked common points (dポイント, Pontaポイント through KDDI services, PayPay Points) in that its **anchor is daily-frequency rail commuting** — a use case with extremely high stickiness in metropolitan Tokyo — and from bank-anchored common points (V Point) in that the **payment-card layer (ViewCard) is captive to JR-East rather than tied to a megabank**. The **JRE BANK** opening in May 2024 added a **bank-deposit / fund-transfer dimension** that previously did not exist, completing the "ride → eat → shop → spend → save" LTV chain. The strategic question is whether JRE POINT becomes a **regional-transit-anchored common point** that competes for cross-merchant scale with the national common-point operators, or remains a **JR-East ecosystem-internal loyalty** focused on consolidating spend within group banners.
 
 ## Ecosystem perimeter — the four anchors
 
@@ -46,6 +46,8 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **transit-anchored 
 | **ViewCard (株式会社ビューカード)** | JR-East-100% subsidiary | Credit-card spend accrual; auto-charge to Suica; gold-tier service tier |
 | **JRE BANK** | JR-East brand × [[banking/rakuten-bank|楽天銀行]] BaaS (opened 2024-05-09) | Bank deposit-balance accrual; long-distance ticket fare-discount benefit |
 | **JRE 駅ナカ retail (Lumine, atré, ecute, NewDays)** | JR-East group banners | Scan-and-earn at retail POS; merchant-funded accrual campaigns |
+
+Sources: [JRE POINT](https://www.jrepoint.jp/), [JR East's JRE POINT information](https://www.jreast.co.jp/jrepoint/), [ViewCard's profile](https://www.viewsnet.jp/company/profile.html), and [JRE BANK](https://www.jreast.co.jp/lifeservice/jrebank.html). “Role” describes the disclosed product connection.
 
 The **identity layer is the JRE POINT membership ID**, which connects across all four anchors. A JRE POINT member can be:
 - a Mobile Suica user without a ViewCard or JRE BANK account (entry-level membership);
@@ -66,6 +68,8 @@ The JRE BANK membership funnel is the narrowest because it requires opening a ne
 | **Suica 電子マネー (e-money) at 駅ナカ retail (NewDays, Lumine, etc.)** | 0.5-1% accrual + campaign multipliers |
 | **Suica 電子マネー at external partner stores** | Variable; not all external stores grant JRE POINT |
 | **Mobile Suica auto-charge from ViewCard** | The ViewCard side accrues "VIEW Plus" 1.5% on auto-charge; the Suica side accrues 0% (the credit-card side is the higher rate) |
+
+Sources: [JRE POINT](https://www.jrepoint.jp/), [Mobile Suica](https://www.jreast.co.jp/eki-net/Suica/), and the applicable [ViewCard](https://www.viewsnet.jp/) terms. Rates and eligible transactions are campaign- and product-specific.
 
 The **Mobile Suica × ViewCard auto-charge combination** is the structural sweet spot for JRE POINT optimization: the customer accrues at 1.5% on the credit-card side (via ViewCard's "VIEW Plus" bonus when charging Suica or buying JR-East tickets) plus the campaign-period multipliers on the Suica side. For a typical Tokyo commuter spending ¥10,000-15,000/mo on rail + 駅ナカ, the effective accrual rate can reach **2-3%** when stacking all bonuses — competitive with dポイント / Pontaポイント at flagship-partner stores.
 
@@ -102,6 +106,8 @@ The **"VIEW Plus" bonus tier** for ViewCard provides **1.5% accrual on Mobile Su
 | Identity layer | JRE BANK account is linked to the JRE POINT member ID |
 | Target customer | Long-distance JR-East travelers, particularly leisure travelers from outside the commute belt who want the fare-discount benefit on Shinkansen / 特急 / 在来線 long-distance fares |
 
+Sources: the official [JRE BANK page](https://www.jreast.co.jp/lifeservice/jrebank.html) and [Rakuten Bank](https://www.rakuten-bank.co.jp/). It identifies the disclosed operator and opening date; the audience description is editorial.
+
 The **economic logic** is that a customer holding ¥X in a JRE BANK deposit account receives:
 1. **Standard 楽天銀行 deposit interest** (variable based on tier);
 2. **JRE POINT accrual** on deposit balance and transaction count;
@@ -130,7 +136,7 @@ The **funnel widens at the lower layers and narrows at the higher layers**, whic
 |---|---|---|---|---|---|
 | **JRE POINT** | JR-East rail commute + 駅ナカ | Suica / Mobile Suica | ViewCard | JRE BANK (2024-05, BaaS) | Tokyo metropolitan + JR-East serving area (Kanto, Tohoku, Shinetsu) |
 | **[[loyalty/d-point-detailed-ecosystem|dポイント]]** | NTT docomo telco | docomo mobile + d払い | d Card | dスマートバンク (digital-bank brand) | National |
-| **[[loyalty/au-pay-loyalty-ecosystem-deep|au PAY ポイント (旧 Ponta統合)]]** | KDDI au telco | au mobile + au PAY | au PAY Card | au じぶん銀行 | National |
+| **[[loyalty/au-pay-loyalty-ecosystem-deep|Pontaポイント (KDDI linkage)]]** | Loyalty Marketing coalition + KDDI au services | au mobile + au PAY | au PAY Card | au じぶん銀行 | National |
 | **[[loyalty/v-point-smbc-ccc-case|V Point]]** | SMBC bank + CCC | SMBC Olive + V Point app | SMBC Card | SMBC | National |
 | **[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay Points]]** | SoftBank / LY / PayPay | PayPay QR app | PayPay Card | PayPay 銀行 | National |
 | **Rakuten Points** | Rakuten EC + group | Rakuten EC + 楽天ペイ | 楽天カード | 楽天銀行 | National |

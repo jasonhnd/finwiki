@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T15:37:07+09:00",
+  "generated_at": "2026-07-29T17:23:27+09:00",
   "counts": {
-    "markdown_files": 1603,
-    "public_markdown_pages": 1602,
+    "markdown_files": 1604,
+    "public_markdown_pages": 1603,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10976869,
-    "word_like_tokens": 1767941,
+    "nonspace_utf8_chars": 10998109,
+    "word_like_tokens": 1771473,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 04 corrections (#234)",
+        "2026-07-29 - Table provenance batch 05 corrections (#235)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 03 corrections (#233)"
+        "2026-07-29 - Table provenance batch 04 corrections (#234)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 241288,
-      "word_like_tokens": 44225,
+      "nonspace_chars": 247760,
+      "word_like_tokens": 45487,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 22104,
-      "word_like_tokens": 3766,
+      "nonspace_chars": 23120,
+      "word_like_tokens": 3908,
       "last_modified": "2026-07-29"
     },
     {
@@ -11946,12 +11946,17 @@
         "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
         "https://finwiki.zksc.io/ja/retail/aeon-group/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.aeonbank.co.jp/company/",
+        "https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf",
+        "https://www.aeonfinancial.co.jp/ir/",
+        "https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5479,
-      "word_like_tokens": 886,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6054,
+      "word_like_tokens": 992,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aeon-financial-service-detail.md",
@@ -11963,50 +11968,41 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service-detail.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service-detail.md",
-      "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+      "title": "電通ベンチャーズ (Dentsu Ventures)",
       "domain": "card-issuers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer co",
+      "summary": "This legacy-path entry remains under card-issuers INDEX for route compatibility but records only the documented Dentsu Ventures CVC fund. Read it with 日本 CVC ランドスケープ and contrast it with the actual financial-services operating-company entry イオンフィナンシャルサービス; it is not a card-issuer or captive-finance",
       "headings": [
-        "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+        "電通ベンチャーズ (Dentsu Ventures)",
         "Wiki route",
         "TL;DR",
         "1. 親会社・グループ構造",
-        "グループ金融機能の所在",
-        "2.1 電通ベンチャーズ（Dentsu Ventures）",
-        "2.2 電通キャピタル（電通グループの戦略投資 / M&A 機能）",
-        "2.3 広告主向け請求・決済機能",
-        "2.4 国際拠点ファイナンス管理",
-        "3.1 CVC モデル（電通ベンチャーズ）"
+        "2. 電通ベンチャーズ（Dentsu Ventures）",
+        "3. 確認範囲",
+        "4. 公表値（2021-04-27 リリース時点）",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
-        "JapanFG/nissan-finance",
-        "JapanFG/sony-finance",
         "asset-managers/cvc-japan-landscape",
         "card-issuers/INDEX",
-        "card-issuers/aeon-financial-service",
-        "card-issuers/toyota-finance",
-        "megabanks/mufg",
-        "megabanks/sbi-hd",
-        "megabanks/smfg",
-        "megabanks/sony-fg"
+        "card-issuers/aeon-financial-service"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/card-issuers/",
-        "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
-        "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
-        "https://finwiki.zksc.io/ja/megabanks/smfg/",
-        "https://finwiki.zksc.io/ja/megabanks/sony-fg/"
+        "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.group.dentsu.com/jp/about-us/data-location.html",
+        "https://www.group.dentsu.com/jp/ir/",
+        "https://www.group.dentsu.com/jp/news/release/000439.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6018,
-      "word_like_tokens": 1031,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3004,
+      "word_like_tokens": 540,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aeon-financial-service.md",
@@ -12059,16 +12055,19 @@
         "https://finwiki.zksc.io/ja/domains/payments/",
         "https://finwiki.zksc.io/ja/retail/aeon-group/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.aeonfinancial.co.jp/corp/about/",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      ],
       "entity_node": {
         "kind": "financial_group",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3178,
-      "word_like_tokens": 475,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3414,
+      "word_like_tokens": 510,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aplus.md",
@@ -12121,12 +12120,15 @@
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/domains/securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+        "https://www.sbigroup.co.jp/english/company/group/aplus.html/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2248,
-      "word_like_tokens": 351,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2451,
+      "word_like_tokens": 380,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/credit-saison.md",
@@ -12175,16 +12177,19 @@
         "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://corporate.saisoncard.co.jp/company/",
+        "https://corporate.saisoncard.co.jp/ir/library/"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4288,
-      "word_like_tokens": 682,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4527,
+      "word_like_tokens": 715,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/epos-card.md",
@@ -12233,12 +12238,15 @@
         "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
         "https://finwiki.zksc.io/ja/domains/payments/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.eposcard.co.jp/company/",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2666,
-      "word_like_tokens": 394,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2885,
+      "word_like_tokens": 426,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/installment-sales-act-2020-amendment.md",
@@ -12285,12 +12293,15 @@
         "https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/",
         "https://finwiki.zksc.io/ja/payment-firms/paidy/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4858,
-      "word_like_tokens": 658,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5195,
+      "word_like_tokens": 707,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jaccs.md",
@@ -12335,16 +12346,21 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jaccs.co.jp/corporate/about/group/strategy/",
+        "https://www.jaccs.co.jp/corporate/about/history/",
+        "https://www.jaccs.co.jp/corporate/ir/",
+        "https://www.jaccs.co.jp/corporate/ir/stock/stockinformation/"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4194,
-      "word_like_tokens": 641,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4524,
+      "word_like_tokens": 698,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jal-card.md",
@@ -12413,9 +12429,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4957,
-      "word_like_tokens": 886,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5194,
+      "word_like_tokens": 929,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jcb.md",
@@ -12438,7 +12454,7 @@
         "TL;DR",
         "1. 会社概要",
         "略称の由来",
-        "主要株主 (公開情報・非上場のため概要のみ)",
+        "出資・株主情報の扱い",
         "主要子会社・関連法人",
         "重要年表",
         "2. 事業セグメント・マップ",
@@ -12464,16 +12480,20 @@
         "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.global.jcb/ja/about-us/business-area/index.html",
+        "https://www.global.jcb/ja/about-us/company/history/index.html",
+        "https://www.global.jcb/ja/about-us/company/overview/index.html"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4620,
-      "word_like_tokens": 748,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5000,
+      "word_like_tokens": 814,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jr-east-financial.md",
@@ -12485,22 +12505,22 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/jr-east-financial.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/jr-east-financial.md",
-      "title": "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+      "title": "JR東日本のカード・銀行代理サービス",
       "domain": "card-issuers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer com",
+      "summary": "This entry sits under card-issuers INDEX to distinguish the legal entity 株式会社ビューカード from the JRE BANK service. Read イオン銀行 / AFS as a retail-finance contrast: JRE BANK uses a bank-agency model rather than a group-owned bank. This page does not assert a separate “JR-East Financial” company or a paymen",
       "headings": [
-        "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+        "JR東日本のカード・銀行代理サービス",
         "Wiki route",
         "TL;DR",
         "1.1 株式会社ビューカード（View Card）",
         "1.2 JRE BANK（2024-05 開業）",
-        "1.3 JR 東日本ペイメントサービス + Suica",
         "2. 業務ライン（金融機能マップ）",
-        "3. 親会社関係（JR 東日本 連結内）",
-        "戦略意義（鉄道企業のフルスタック金融化）",
-        "4. KPI（公開情報ベース）"
+        "3. 法人境界",
+        "6. 規制・監督",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "JapanFG/odakyu-cards",
@@ -12509,10 +12529,6 @@
         "banking/rakuten-bank",
         "card-issuers/INDEX",
         "card-issuers/aeon-bank",
-        "megabanks/au-fh",
-        "payments/d-barai",
-        "payments/paypay",
-        "payments/rakuten-pay",
         "payments/suica-pasmo-fares",
         "payments/suica-prepaid-jr-east",
         "regional-banks/seven-bank"
@@ -12521,17 +12537,19 @@
         "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
         "https://finwiki.zksc.io/ja/domains/card-issuers/",
         "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
-        "https://finwiki.zksc.io/ja/megabanks/au-fh/",
-        "https://finwiki.zksc.io/ja/payment-firms/paypay/",
         "https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/",
         "https://finwiki.zksc.io/ja/regional-banks/seven-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jreast.co.jp/press/2024/20240409_ho02.pdf",
+        "https://www.jreast.co.jp/suica/",
+        "https://www.viewcard.co.jp/company.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6356,
-      "word_like_tokens": 1191,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3631,
+      "word_like_tokens": 653,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/life-card.md",
@@ -12580,12 +12598,15 @@
         "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
         "https://finwiki.zksc.io/ja/domains/payments/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.lifecard.co.jp/company/outline/",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2733,
-      "word_like_tokens": 413,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2909,
+      "word_like_tokens": 437,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/mufg-nicos.md",
@@ -12634,16 +12655,19 @@
         "https://finwiki.zksc.io/ja/domains/payments/",
         "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.cr.mufg.jp/corporate/company/",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3058,
-      "word_like_tokens": 467,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3318,
+      "word_like_tokens": 506,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/orico.md",
@@ -12702,16 +12726,19 @@
         "https://finwiki.zksc.io/ja/payment-firms/paidy/",
         "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.orico.co.jp/company/",
+        "https://www.orico.co.jp/company/ir/"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6044,
-      "word_like_tokens": 926,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6238,
+      "word_like_tokens": 960,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/paypay-card.md",
@@ -12764,16 +12791,19 @@
         "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
         "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/",
+        "https://www.paypay-card.co.jp/company/"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2307,
-      "word_like_tokens": 342,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2578,
+      "word_like_tokens": 386,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -12822,12 +12852,15 @@
         "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
         "https://finwiki.zksc.io/ja/domains/payments/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+        "https://www.pocketcard.co.jp/ir/profile/profile_031.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2844,
-      "word_like_tokens": 439,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3134,
+      "word_like_tokens": 485,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/rakuten-card.md",
@@ -12878,16 +12911,19 @@
         "https://finwiki.zksc.io/ja/payments/japan-card-issuer-acquirer-processor-split/",
         "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+        "https://www.rakuten-card.co.jp/corporate/info/about/"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2453,
-      "word_like_tokens": 392,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2637,
+      "word_like_tokens": 418,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/seven-card-service.md",
@@ -12936,12 +12972,16 @@
         "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
         "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.7card.co.jp/company/bs/",
+        "https://www.7card.co.jp/company/com_info/",
+        "https://www.meti.go.jp/policy/economy/consumer/credit/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2227,
-      "word_like_tokens": 350,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2445,
+      "word_like_tokens": 388,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -13060,12 +13100,15 @@
         "https://finwiki.zksc.io/ja/securities-firms/ffg-securities/",
         "https://finwiki.zksc.io/ja/securities-firms/mebuki-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://shizugin-card.shizuokabank.co.jp/company/",
+        "https://www.shizuoka-fg.co.jp/company/gaiyo-history.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7861,
-      "word_like_tokens": 1198,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 8460,
+      "word_like_tokens": 1299,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/smbc-card.md",
@@ -13112,16 +13155,19 @@
         "https://finwiki.zksc.io/ja/payments/card-acquiring-japan-stack/",
         "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/",
+        "https://www.smbc-card.com/company/info/outline.jsp"
+      ],
       "entity_node": {
         "kind": "operating_company",
         "scope": "japan_core",
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2471,
-      "word_like_tokens": 359,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2695,
+      "word_like_tokens": 397,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -13166,12 +13212,15 @@
         "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
         "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.tfsc.jp/corporate/index.html",
+        "https://www.toyota-finance.co.jp/company/data.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3073,
-      "word_like_tokens": 484,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3233,
+      "word_like_tokens": 508,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/ucs-card.md",
@@ -13220,12 +13269,15 @@
         "https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/",
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+        "https://www.ucscard.co.jp/company/com/profile/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1981,
-      "word_like_tokens": 319,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2157,
+      "word_like_tokens": 344,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/view-card.md",
@@ -13249,7 +13301,7 @@
         "1. 法人・株主",
         "2. ライセンス・登録",
         "3. 商品ライン",
-        "4. 主要 KPI（公表ベース）",
+        "4. 公表値の扱い",
         "5. 業界ポジション",
         "6. 沿革",
         "7. 関連企業・取引先"
@@ -13287,9 +13339,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4644,
-      "word_like_tokens": 836,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3854,
+      "word_like_tokens": 670,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/INDEX.md",
@@ -13402,12 +13454,15 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/mufg-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf",
+        "https://www.acom.co.jp/corp/ir/stock/outline/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4584,
-      "word_like_tokens": 734,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4739,
+      "word_like_tokens": 767,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/acom.md",
@@ -13462,12 +13517,23 @@
         "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.acom.co.jp/corp/about-us/businessoutline/foreigncountries/",
+        "https://www.acom.co.jp/corp/about-us/businessoutline/guarantee/",
+        "https://www.acom.co.jp/corp/about-us/businessoutline/loan/",
+        "https://www.acom.co.jp/corp/about-us/company/history/",
+        "https://www.acom.co.jp/corp/about-us/company/outline/",
+        "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf",
+        "https://www.acom.co.jp/corp/ir/stock/outline/",
+        "https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf",
+        "https://www.fsa.go.jp/policy/kashikin/",
+        "https://www.smbc-cf.com/corporate/outline.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6241,
-      "word_like_tokens": 1067,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7699,
+      "word_like_tokens": 1282,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/aiful.md",
@@ -13520,12 +13586,20 @@
         "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf",
+        "https://www.acom.co.jp/corp/ir/stock/outline/",
+        "https://www.aiful.co.jp/company/",
+        "https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf",
+        "https://www.fsa.go.jp/news/",
+        "https://www.fsa.go.jp/policy/kashikin/",
+        "https://www.smbc-cf.com/corporate/outline.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5142,
-      "word_like_tokens": 763,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6479,
+      "word_like_tokens": 1004,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/shinsei-financial.md",
@@ -13572,12 +13646,15 @@
         "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/",
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://shinseifinancial.co.jp/company/corporate.html",
+        "https://www.sbigroup.co.jp/company/group/shinseifinancial.php"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3000,
-      "word_like_tokens": 459,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3266,
+      "word_like_tokens": 499,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/smbc-consumer-finance.md",
@@ -13624,12 +13701,15 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.smbc-cf.com/business/service.html",
+        "https://www.smbc-cf.com/corporate/outline.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2667,
-      "word_like_tokens": 413,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2948,
+      "word_like_tokens": 460,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/INDEX.md",
@@ -52829,7 +52909,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎ",
+      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 浜銀ファイナンス (神奈川地銀系リース) / 北海道リース / 山口リース / い",
       "headings": [
         "ちばぎんリース (Chibagin Leasing)",
         "Wiki route",
@@ -52870,7 +52950,6 @@
         "regional-banks/chiba-kogyo-bank",
         "regional-banks/concordia-fg",
         "regional-banks/fukuoka-fg",
-        "regional-banks/hokkaido-bank",
         "regional-banks/iyogin-hd",
         "regional-banks/mebuki-fg",
         "regional-banks/shizuoka-fg",
@@ -52906,7 +52985,6 @@
         "https://finwiki.zksc.io/ja/regional-banks/chiba-kogyo-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-        "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/",
@@ -52914,12 +52992,20 @@
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/chibagin-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "http://www.cblnet.co.jp/about/",
+        "https://www.chibabank.co.jp/news/news202200805_01_001",
+        "https://www.do-lease.co.jp/company/history.html",
+        "https://www.do-lease.co.jp/company/profile.html",
+        "https://www.iyogin-hd.co.jp/company/group.html",
+        "https://www.mebuki-lease.co.jp/gaiyo/index.html",
+        "https://www.ymfg.co.jp/about/profile/group/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7146,
-      "word_like_tokens": 1087,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7082,
+      "word_like_tokens": 1094,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/fuyo-lease.md",
@@ -52966,12 +53052,17 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fgl.co.jp/eng/fgl/history.html",
+        "https://www.fgl.co.jp/fgl/about.html",
+        "https://www.fgl.co.jp/ir/faq.html",
+        "https://www.tokyocentury.co.jp/jp/company/chronology/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3626,
-      "word_like_tokens": 617,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3666,
+      "word_like_tokens": 619,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/hitachi-capital.md",
@@ -53028,12 +53119,15 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.hitachi.com/",
+        "https://www.mitsubishi-hc-capital.com/english/corporate/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4061,
-      "word_like_tokens": 666,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4196,
+      "word_like_tokens": 687,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/hokkaido-lease.md",
@@ -53049,7 +53143,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
+      "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional specialist) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 for the principal-shareholder / equity-method relationship.",
       "headings": [
         "北海道リース",
         "Wiki route",
@@ -53083,12 +53177,15 @@
         "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.do-lease.co.jp/company/history.html",
+        "https://www.do-lease.co.jp/company/profile.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3153,
-      "word_like_tokens": 463,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3490,
+      "word_like_tokens": 520,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ibj-leasing.md",
@@ -53139,12 +53236,15 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.mizuho-fg.co.jp/",
+        "https://www.mizuho-ls.co.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3435,
-      "word_like_tokens": 597,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3547,
+      "word_like_tokens": 618,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/iyogin-leasing.md",
@@ -53160,7 +53260,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千",
+      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 浜銀ファイナンス (神奈川) / ちばぎんリース",
       "headings": [
         "いよぎんリース (Iyogin Leasing)",
         "Wiki route",
@@ -53201,7 +53301,6 @@
         "regional-banks/concordia-fg",
         "regional-banks/ehime-bank",
         "regional-banks/fukuoka-fg",
-        "regional-banks/hokkaido-bank",
         "regional-banks/iyo-bank",
         "regional-banks/iyogin-hd",
         "regional-banks/mebuki-fg",
@@ -53238,7 +53337,6 @@
         "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/ehime-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-        "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/iyo-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
@@ -53247,12 +53345,21 @@
         "https://finwiki.zksc.io/ja/regional-banks/yamaguchi-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.chibabank.co.jp/news/news202200805_01_001",
+        "https://www.do-lease.co.jp/company/history.html",
+        "https://www.do-lease.co.jp/company/profile.html",
+        "https://www.iyogin-hd.co.jp/company/group.html",
+        "https://www.iyoginlease.co.jp/corporate/history/",
+        "https://www.iyoginlease.co.jp/corporate/outline/",
+        "https://www.mebuki-lease.co.jp/gaiyo/index.html",
+        "https://www.ymfg.co.jp/about/profile/group/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7320,
-      "word_like_tokens": 1156,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7541,
+      "word_like_tokens": 1188,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/kanematsu-leasing.md",
@@ -53302,12 +53409,15 @@
         "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.kanematsu.co.jp/",
+        "https://www.leasing.or.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3014,
-      "word_like_tokens": 474,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3149,
+      "word_like_tokens": 491,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mebuki-lease.md",
@@ -53380,12 +53490,16 @@
         "https://finwiki.zksc.io/ja/regional-banks/tsukuba-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/mebuki-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.mebuki-fg.co.jp/",
+        "https://www.mebuki-lease.co.jp/",
+        "https://www.mebuki-lease.co.jp/gaiyo/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8745,
-      "word_like_tokens": 1463,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 8945,
+      "word_like_tokens": 1499,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mitsubishi-hc-capital.md",
@@ -53401,7 +53515,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / parent context, and against the FSA for the supervisory boundary (lessors register",
+      "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / shareholder context, and against the FSA for the supervisory boundary.",
       "headings": [
         "三菱 HC キャピタル (Mitsubishi HC Capital)",
         "Wiki route",
@@ -53434,12 +53548,14 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.mitsubishi-hc-capital.com/corporate/overview.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2866,
-      "word_like_tokens": 428,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2935,
+      "word_like_tokens": 440,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mizuho-lease.md",
@@ -53524,7 +53640,7 @@
         "4. 親グループ関係（NEC）",
         "5. 競合・業界ポジション",
         "6. 戦略・最近の動向",
-        "7. 主要 KPI（概観 / 連結）"
+        "7. 主要 KPI（2024-03-31 / 連結）"
       ],
       "wikilinks": [
         "banking/INDEX",
@@ -53548,12 +53664,19 @@
         "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+        "https://www.necap.co.jp/company/pdf/FIEA.pdf",
+        "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
+        "https://www.necap.co.jp/ir/",
+        "https://www.r-lease.co.jp/corp/about/",
+        "https://www.tokyocentury.co.jp/jp/company/info/outline/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4518,
-      "word_like_tokens": 781,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4887,
+      "word_like_tokens": 872,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/nec-leasing.md",
@@ -53569,7 +53692,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are事業会社 captive lease) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.",
+      "summary": "This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are manufacturer-product vendor lease を起点とする上場会社) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.",
       "headings": [
         "NECキャピタルソリューション",
         "Wiki route",
@@ -53605,12 +53728,17 @@
         "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.necap.co.jp/",
+        "https://www.necap.co.jp/company/pdf/FIEA.pdf",
+        "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
+        "https://www.r-lease.co.jp/ir/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3473,
-      "word_like_tokens": 618,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3869,
+      "word_like_tokens": 673,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ntt-tc-lease.md",
@@ -53663,12 +53791,17 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/ndfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ntt-tc-lease.com/eng/company/outline/",
+        "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
+        "https://www.smfl.co.jp/english/corporate/about/",
+        "https://www.tokyocentury.co.jp/en/company/info/outline/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3855,
-      "word_like_tokens": 603,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4265,
+      "word_like_tokens": 674,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/orix-corp.md",
@@ -53721,12 +53854,14 @@
         "https://finwiki.zksc.io/ja/megabanks/ndfg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.orix.co.jp/grp/en/ir/library/annual_report/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4680,
-      "word_like_tokens": 788,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4789,
+      "word_like_tokens": 806,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ricoh-leasing.md",
@@ -53756,7 +53891,6 @@
       ],
       "wikilinks": [
         "banking/INDEX",
-        "card-issuers/toyota-finance",
         "finance/japan-acquisition-finance",
         "leasing-firms/INDEX",
         "leasing-firms/fuyo-lease",
@@ -53768,7 +53902,6 @@
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/banking/",
-        "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
         "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
         "https://finwiki.zksc.io/ja/domains/leasing-firms/",
         "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
@@ -53778,12 +53911,15 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.r-lease.co.jp/assets/docs/kashikingyosha_torokuhyou.pdf",
+        "https://www.r-lease.co.jp/corp/about/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3405,
-      "word_like_tokens": 556,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3558,
+      "word_like_tokens": 591,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/showa-leasing.md",
@@ -53835,12 +53971,15 @@
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sbi-shinsei-trust-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.s-l.co.jp/company/profile/",
+        "https://www.s-l.co.jp/company/profile/history.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3254,
-      "word_like_tokens": 511,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3507,
+      "word_like_tokens": 564,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/smfl.md",
@@ -53891,12 +54030,15 @@
         "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.smfl.co.jp/english/corporate/about/",
+        "https://www.smfl.co.jp/english/corporate/finance/integrated-report/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4146,
-      "word_like_tokens": 613,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4634,
+      "word_like_tokens": 688,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/sumitomo-mitsui-auto-service.md",
@@ -53990,12 +54132,12 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context and banking index for the broader system / regulatory boundary.",
       "headings": [
         "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
         "Wiki route",
         "TL;DR",
-        "1. 親グループ関係 - 2 軸株主構造",
+        "1. 主要株主構造",
         "2. 事業セグメント詳細",
         "2.1 国内法人リース・ファイナンス",
         "2.2 国際ビジネス（米州・アジア・欧州）",
@@ -54025,12 +54167,17 @@
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+        "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
+        "https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/",
+        "https://www.tokyocentury.co.jp/jp/ir/stock/basic.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4465,
-      "word_like_tokens": 746,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4724,
+      "word_like_tokens": 731,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/tokyo-century.md",
@@ -54077,12 +54224,18 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.tokyocentury.co.jp/jp/company/",
+        "https://www.tokyocentury.co.jp/jp/company/chronology/",
+        "https://www.tokyocentury.co.jp/jp/company/info/outline/",
+        "https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/",
+        "https://www.tokyocentury.co.jp/jp/ir/stock/basic.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3743,
-      "word_like_tokens": 618,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3991,
+      "word_like_tokens": 626,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/toyota-financial.md",
@@ -54114,6 +54267,7 @@
       "wikilinks": [
         "banking/INDEX",
         "leasing-firms/INDEX",
+        "leasing-firms/mitsubishi-hc-capital",
         "leasing-firms/orix-corp",
         "leasing-firms/tokyo-century",
         "manufacturer-finance/toyota-motor",
@@ -54122,16 +54276,24 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+        "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
         "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://global.toyota/en/company/profile/other-toyota-businesses/finance/",
+        "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+        "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
+        "https://www.tfsc.jp/en/company/index.html",
+        "https://www.tfsc.jp/en/what/index.html",
+        "https://www.tokyocentury.co.jp/jp/company/info/outline/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4339,
-      "word_like_tokens": 686,
+      "nonspace_chars": 4926,
+      "word_like_tokens": 762,
       "last_modified": "2026-07-29"
     },
     {
@@ -54148,7 +54310,7 @@
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 山口 FG (YMFG). Read it against parent operating banks 山口 FG 3 行体制 (もみじ銀行 / 北九州銀行 / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千葉) / 北海道リース / いよぎんリー",
+      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 山口 FG (YMFG). Read it against parent operating banks 山口 FG 3 行体制 (もみじ銀行 / 北九州銀行 / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: めぶきリース (北関東) / 浜銀ファイナンス (神奈川) / ちばぎんリース (千葉) / 北海道リース / いよぎん",
       "headings": [
         "山口リース (Yamaguchi Leasing)",
         "Wiki route",
@@ -54190,7 +54352,6 @@
         "regional-banks/fukuoka-bank",
         "regional-banks/fukuoka-fg",
         "regional-banks/hiroshima-bank",
-        "regional-banks/hokkaido-bank",
         "regional-banks/iyogin-hd",
         "regional-banks/kitakyushu-bank",
         "regional-banks/mebuki-fg",
@@ -54228,7 +54389,6 @@
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/hiroshima-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
         "https://finwiki.zksc.io/ja/regional-banks/kitakyushu-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
@@ -54237,12 +54397,21 @@
         "https://finwiki.zksc.io/ja/regional-banks/yamaguchi-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.chibabank.co.jp/news/news202200805_01_001",
+        "https://www.do-lease.co.jp/company/history.html",
+        "https://www.do-lease.co.jp/company/profile.html",
+        "https://www.iyogin-hd.co.jp/company/group.html",
+        "https://www.mebuki-lease.co.jp/gaiyo/index.html",
+        "https://www.ym-lease.co.jp/about.html",
+        "https://www.ym-lease.co.jp/history.html",
+        "https://www.ymfg.co.jp/about/profile/group/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7703,
-      "word_like_tokens": 1214,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7845,
+      "word_like_tokens": 1247,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/yokohama-bank-leasing.md",
@@ -54254,37 +54423,33 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/leasing-firms/yokohama-bank-leasing.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/yokohama-bank-leasing.md",
-      "title": "横浜銀リース (Yokohama Bank Leasing)",
+      "title": "浜銀ファイナンス (Hamagin Finance)",
       "domain": "leasing-firms",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 東日本銀行. Peer comparison: めぶきリース (北関東地銀系) and major lessor 三菱 HC キャピタル / みずほリース / 東京センチュリー. For broader",
+      "summary": "This entry sits under the leasing-firms INDEX as the leasing and finance operating-company entry for the 横浜銀行 group. Read it with 横浜フィナンシャルグループ, regional-bank leasing peer めぶきリース, and the broader banking index.",
       "headings": [
-        "横浜銀リース (Yokohama Bank Leasing)",
+        "浜銀ファイナンス (Hamagin Finance)",
         "Wiki route",
         "TL;DR",
         "1. License / group boundary",
         "2. 持株ツリー",
-        "横浜銀リース 設立",
-        "CFG → YFG 商号変更 (2025-10-01)",
-        "4. KPI table (qualitative — no standalone subsidiary financials disclosed)",
-        "5. 事業セグメント・マップ",
-        "FG 内ポジション"
+        "3. 沿革",
+        "4. 公開スナップショット",
+        "5. 事業マップ",
+        "6. 読み方",
+        "7. 規制上の留意"
       ],
       "wikilinks": [
         "banking/INDEX",
         "banking/regional-bank-consolidation-pattern",
-        "card-issuers/toyota-finance",
-        "cooperative-banks/ja-mitsui-leasing",
         "leasing-firms/INDEX",
         "leasing-firms/fuyo-lease",
         "leasing-firms/hokkaido-lease",
         "leasing-firms/mebuki-lease",
         "leasing-firms/mitsubishi-hc-capital",
         "leasing-firms/mizuho-lease",
-        "leasing-firms/nec-leasing",
         "leasing-firms/ricoh-leasing",
-        "leasing-firms/showa-leasing",
         "leasing-firms/smfl",
         "leasing-firms/tokyo-century",
         "regional-banks/concordia-fg",
@@ -54294,29 +54459,29 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/banking/",
         "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
-        "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
-        "https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/",
         "https://finwiki.zksc.io/ja/domains/leasing-firms/",
         "https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/",
         "https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/",
         "https://finwiki.zksc.io/ja/leasing-firms/mebuki-lease/",
         "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
         "https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/",
-        "https://finwiki.zksc.io/ja/leasing-firms/nec-leasing/",
         "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
-        "https://finwiki.zksc.io/ja/leasing-firms/showa-leasing/",
         "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
         "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
         "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
         "https://finwiki.zksc.io/ja/regional-banks/higashi-nippon-bank/",
         "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://h-fc.co.jp/company",
+        "https://h-fc.co.jp/service/lease_and_finance",
+        "https://www.boy.co.jp/boy/company/group/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5536,
-      "word_like_tokens": 839,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3556,
+      "word_like_tokens": 510,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "life-insurers/INDEX.md",
@@ -57105,20 +57270,20 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/loyalty/au-pay-loyalty-ecosystem-deep.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/au-pay-loyalty-ecosystem-deep.md",
-      "title": "au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack",
+      "title": "au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack",
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under loyalty index as the operator-deep page for the KDDI au-economic-zone loyalty stack, complementing d Point / au / docomo telco-point consolidation case (the cross-telco comparison view) and d Point detailed ecosystem (the docomo-side deep dive). Pair it with Ponta points deep d",
       "headings": [
-        "au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack",
+        "au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack",
         "Wiki route",
         "TL;DR",
         "The six-layer integrated stack",
         "Pontaポイント — the loyalty-currency anchor (post-2020 \"au Ponta\")",
         "au PAY — the QR / barcode wallet layer",
         "au PAY Card — the credit-card layer",
-        "au Smart Pass + au Smart Pass Premium — the bundled-subscription layer",
+        "Pontaパス — the bundled-subscription layer",
         "UQ Mobile + povo — the multi-line mobile-subscription strategy",
         "au じぶん銀行 — the bank-deposit anchor"
       ],
@@ -57188,12 +57353,24 @@
         "https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/",
         "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
+        "https://aupay.auone.jp/",
+        "https://dpoint.docomo.ne.jp/guide/index.html",
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html",
+        "https://www.au.com/finance/",
+        "https://www.au.com/pontapass/",
+        "https://www.aupay-card.co.jp/",
+        "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "https://www.jibunbank.co.jp/",
+        "https://www.ponta.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16703,
-      "word_like_tokens": 2885,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 15196,
+      "word_like_tokens": 2596,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
@@ -57205,20 +57382,20 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
-      "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+      "title": "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under loyalty INDEX and is the telco-anchored counterpart to the finance-anchored V Point (SMBC × CCC) case. Read with Japan points and loyalty landscape for the cross-ecosystem map, point liability accounting boundary for the breakage / IFRS-15 treatment, and Japan code-payment comp",
       "headings": [
-        "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+        "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
         "Wiki route",
         "TL;DR",
         "Telco-anchored model — what subscriber identity buys",
         "Side-by-side comparison",
         "The Lawson question — overlapping retail anchor",
         "NTT docomo — d Point as the front-end of NDFG",
-        "KDDI — au Point inside au FH",
+        "KDDI — Ponta linkage around au FH",
         "Contrast with V Point — finance-anchored vs telco-anchored",
         "Issuance and accrual mechanics"
       ],
@@ -57256,12 +57433,19 @@
         "https://finwiki.zksc.io/ja/domains/retail/",
         "https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://dpoint.docomo.ne.jp/guide/index.html",
+        "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html",
+        "https://vpoint.jp/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.loyalty.co.jp/company/outline",
+        "https://www.ponta.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13569,
-      "word_like_tokens": 2349,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13831,
+      "word_like_tokens": 2369,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/d-point-detailed-ecosystem.md",
@@ -57273,17 +57457,17 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/d-point-detailed-ecosystem.md",
-      "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+      "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under loyalty index as the operator-deep page for dポイント, pairing with d Point / au telco-point consolidation case for the comparative telco-anchor view, V Point (SMBC × CCC) case for the bank-anchored contrast, Japan points and loyalty landscape for the ecosystem map, point liability",
       "headings": [
-        "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+        "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
         "Wiki route",
         "TL;DR",
         "d-account, dポイントクラブ, and member scale",
-        "2025 dポイントクラブ reform — rank-system overhaul",
+        "Current dポイントクラブ rank rules",
         "Accrual rate at docomo services vs partner merchants",
         "d Card GOLD — the gold-status hurdle and economics",
         "d払い convergence — wallet, card, and bill payment",
@@ -57334,12 +57518,28 @@
         "https://finwiki.zksc.io/ja/domains/retail/",
         "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
+        "https://dcard.docomo.ne.jp/",
+        "https://dpoint.docomo.ne.jp/dpc/d_account/kiyaku.html",
+        "https://dpoint.docomo.ne.jp/guide/about_rank/index.html",
+        "https://dpoint.docomo.ne.jp/guide/index.html",
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://service.smt.docomo.ne.jp/keitai_payment/",
+        "https://vpoint.jp/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+        "https://www.loyalty.co.jp/company/outline",
+        "https://www.nanaco-net.jp/introduction/",
+        "https://www.waon.net/point/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13513,
-      "word_like_tokens": 2318,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13595,
+      "word_like_tokens": 2356,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison.md",
@@ -57365,7 +57565,7 @@
         "Non-flight accrual",
         "Mileage redemption — seat inventory dominant",
         "Status-tier dynamics — FOP / PP and JGC / SFC",
-        "Deferred-revenue accounting — IFRS 15 contract liability",
+        "Accounting review framework — not an airline-specific conclusion",
         "Partner-network depth — beyond alliance"
       ],
       "wikilinks": [
@@ -57408,12 +57608,21 @@
         "https://finwiki.zksc.io/ja/payments/japan-code-payment-operator-2025-market-share-matrix/",
         "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ana.co.jp/group/investors/",
+        "https://www.ana.co.jp/ja/jp/amc/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+        "https://www.jal.co.jp/jp/ja/jalmile/",
+        "https://www.jal.com/ja/investor/",
+        "https://www.oneworld.com/",
+        "https://www.staralliance.com/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15836,
-      "word_like_tokens": 2629,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 15101,
+      "word_like_tokens": 2529,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/japan-points-landscape.md",
@@ -57480,12 +57689,20 @@
         "https://finwiki.zksc.io/ja/retail/aeon-group/",
         "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://dpoint.docomo.ne.jp/",
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+        "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "https://www.nanaco-net.jp/introduction/",
+        "https://www.waon.net/point/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6282,
-      "word_like_tokens": 1037,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7301,
+      "word_like_tokens": 1208,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/jre-point-and-jre-bank-ecosystem.md",
@@ -57561,12 +57778,20 @@
         "https://finwiki.zksc.io/ja/domains/retail/",
         "https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jreast.co.jp/eki-net/Suica/",
+        "https://www.jreast.co.jp/jrepoint/",
+        "https://www.jreast.co.jp/lifeservice/jrebank.html",
+        "https://www.jrepoint.jp/",
+        "https://www.rakuten-bank.co.jp/",
+        "https://www.viewsnet.jp/",
+        "https://www.viewsnet.jp/company/profile.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13051,
-      "word_like_tokens": 2266,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 13818,
+      "word_like_tokens": 2386,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-economy-funding-source-comparison.md",
@@ -57658,7 +57883,7 @@
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under loyalty index as the cross-program exchange page — the mechanism layer beneath the program directory in Japan points and loyalty landscape. It pairs with point liability accounting boundary (which defines how a conversion splits into a liability-transfer event plus a settlement",
+      "summary": "This entry sits under loyalty index as the cross-program exchange risk-scenario page beneath Japan points and loyalty landscape. It pairs with point liability accounting boundary, which explains why conversion accounting depends on contracts and the redemption obligor. For the regulatory edge, route",
       "headings": [
         "Point exchange network risk (JP cross-program conversion economics)",
         "Wiki route",
@@ -57705,12 +57930,20 @@
         "https://finwiki.zksc.io/ja/domains/payments/",
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://www.ana.co.jp/en/jp/shoppingandlife/point/tukau_rakuten/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "https://www.jal.co.jp/jp/ja/jalmile/",
+        "https://www.ponta.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10497,
-      "word_like_tokens": 1797,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9143,
+      "word_like_tokens": 1456,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-liability-accounting-boundary.md",
@@ -57726,7 +57959,7 @@
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "\"Points\" in Japan are not one accounting concept. The same word covers (1) marketing-promotional grants that are pure expense, (2) loyalty liabilities that are deferred revenue under IFRS 15 / ASBJ Statement No.29, (3) breakage assumptions that drive when revenue is finally recognised, (4) purchased",
+      "summary": "\"Points\" in Japan are not one accounting concept. Classification depends on the contract, funder, customer promise, redemption obligor, and principal-agent role. A grant may be marketing expense, a provision, a contract liability, consideration payable to a customer, or another item. Purchased store",
       "headings": [
         "Point liability accounting boundary (JP loyalty programs)",
         "TL;DR",
@@ -57769,12 +58002,18 @@
         "https://finwiki.zksc.io/ja/domains/payments/",
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.fsa.go.jp/menkyo/menkyo.html",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+        "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10233,
-      "word_like_tokens": 1686,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9211,
+      "word_like_tokens": 1504,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-program-unit-economics.md",
@@ -57843,12 +58082,18 @@
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
         "https://finwiki.zksc.io/ja/payments/japan-prepaid-electronic-money-operator-matrix/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://corp.rakuten.co.jp/investors/financial/",
+        "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.fsa.go.jp/menkyo/menkyo.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11401,
-      "word_like_tokens": 1877,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 12065,
+      "word_like_tokens": 1993,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/ponta-points-deep-dive.md",
@@ -57864,13 +58109,13 @@
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under loyalty index as the deep operator page for Pontaポイント, pairing with d Point / au (KDDI) telco-point consolidation case for the strategic framing of au PAY ポイント (the unified brand that absorbed Ponta on the wallet side in 2024-12), V Point (SMBC × CCC) case for the bank-anchored",
+      "summary": "This entry sits under loyalty index as the deep operator page for Pontaポイント, pairing with d Point / au (KDDI) telco-point consolidation case for the KDDI linkage, V Point (SMBC × CCC) case for the bank-anchored contrast, d Point detailed ecosystem for the telco-anchored peer, Japan points and loyalt",
       "headings": [
         "Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor",
         "Wiki route",
         "TL;DR",
         "Loyalty Marketing, Inc. — the operator entity",
-        "KDDI au PAY linkage — 2024-12 brand unification",
+        "KDDI au PAY linkage — 2020 point-service change",
         "Lawson + Ponta + au — the integration triangle",
         "Recruit ecosystem — じゃらん, Hot Pepper, GEO",
         "Comparison with d-Point, PayPay Points, and V-Point",
@@ -57925,12 +58170,21 @@
         "https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/",
         "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
+        "https://dpoint.docomo.ne.jp/",
+        "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html",
+        "https://vpoint.jp/",
+        "https://www.jal.co.jp/jp/ja/jalmile/",
+        "https://www.lawson.co.jp/company/news/",
+        "https://www.loyalty.co.jp/company/outline",
+        "https://www.ponta.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12359,
-      "word_like_tokens": 2037,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11793,
+      "word_like_tokens": 1958,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/rakuten-point-ecosystem-deep.md",
@@ -58005,12 +58259,16 @@
         "https://finwiki.zksc.io/ja/payments/edy-rakuten-prepaid/",
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://corp.rakuten.co.jp/investors/financial/",
+        "https://global.rakuten.com/corp/news/update/2022/0719_01.html",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9025,
-      "word_like_tokens": 1514,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9347,
+      "word_like_tokens": 1564,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/retail-media-points-data-loop.md",
@@ -58081,12 +58339,17 @@
         "https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/",
         "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://dpoint.docomo.ne.jp/",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://www.ccc.co.jp/en/news/press/",
+        "https://www.ppc.go.jp/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9327,
-      "word_like_tokens": 1582,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9662,
+      "word_like_tokens": 1639,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
@@ -58111,7 +58374,7 @@
         "2023 corporate integration — separate from point-program integration",
         "2025 LINE Pay termination and 2026 account linking",
         "Member ID base and reach",
-        "Accounting treatment — campaign cost vs contract liability",
+        "Accounting review framework — campaign and purchase rewards",
         "Comparison with other major common points",
         "PayPay Card integration"
       ],
@@ -58162,16 +58425,23 @@
         "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
       ],
       "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
         "https://about.paypay.ne.jp/en/pr/20220301/01/",
         "https://about.paypay.ne.jp/en/pr/20260318/02/",
         "https://about.paypay.ne.jp/en/pr/20260702/01/",
+        "https://dpoint.docomo.ne.jp/guide/index.html",
+        "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+        "https://vpoint.jp/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+        "https://www.loyalty.co.jp/company/outline",
         "https://www.lycorp.co.jp/en/news/release/008632/",
         "https://www.lycorp.co.jp/ja/news/release/016863/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11352,
-      "word_like_tokens": 1922,
+      "nonspace_chars": 12443,
+      "word_like_tokens": 2105,
       "last_modified": "2026-07-29"
     },
     {
@@ -58184,20 +58454,20 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/t-point-v-point-post-2024-merger.md",
-      "title": "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+      "title": "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under loyalty index as the post-2024-04-22 operational detail page for the T-Point + V-Point unification, complementing the strategic V Point (SMBC × CCC) bank-led common-point case entry that documents the structural framing. Read with Japan points and loyalty landscape for the ecos",
       "headings": [
-        "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+        "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
         "Wiki route",
         "TL;DR",
         "Timeline of the merger and the dual-brand transition",
         "CCCMK Holdings — the joint venture vehicle",
         "Dual-brand mechanics — what's TSUTAYA-branded vs SMBC-branded",
         "Comparison with PayPay Points",
-        "Points-liability transfer mechanics — IFRS 15 / ASBJ 29 framing",
+        "Publicly disclosed accounting boundary",
         "SBI alliance — investment-product attachment as the bank-led differentiation",
         "Related"
       ],
@@ -58241,12 +58511,27 @@
         "https://finwiki.zksc.io/ja/payments/japan-code-payment-operator-2025-market-share-matrix/",
         "https://finwiki.zksc.io/ja/domains/retail/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://about.paypay.ne.jp/en/about/",
+        "https://vpoint.jp/",
+        "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+        "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+        "https://www.ccc.co.jp/en/news/press/20240422_002200.html",
+        "https://www.ccc.co.jp/news/",
+        "https://www.lycorp.co.jp/en/",
+        "https://www.sbisec.co.jp/",
+        "https://www.smbc-card.com/company/news/news0001852.jsp",
+        "https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp",
+        "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp",
+        "https://www.smbc.co.jp/kojin/olive/",
+        "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf",
+        "https://www.smfg.co.jp/news/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12819,
-      "word_like_tokens": 2197,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12463,
+      "word_like_tokens": 2107,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/v-point-smbc-ccc-case.md",
@@ -58262,7 +58547,7 @@
       "domain": "loyalty",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "V Point in its current form (2024-04-22 onward) is the bank-led common-point case of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with SMFG's SMBC Card (SMCC) as the issuing financial backbone and the payments / retail partner networ",
+      "summary": "V Point in its current form (2024-04-22 onward) is a bank-led common-point case: the former T Point and SMBC-side V Point services adopted the V Point brand. SMBC Card's official guidance states that customers must link the specified IDs to combine balances; without linking, points remain within the",
       "headings": [
         "V Point (SMBC × CCC) — bank-led common-point case",
         "TL;DR",
@@ -58315,12 +58600,17 @@
         "https://finwiki.zksc.io/ja/retail/aeon-group/",
         "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://vpoint.jp/",
+        "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+        "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp",
+        "https://www.smfg.co.jp/news/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7706,
-      "word_like_tokens": 1362,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7905,
+      "word_like_tokens": 1392,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/INDEX.md",
@@ -85612,8 +85902,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8890,
-      "word_like_tokens": 1738,
+      "nonspace_chars": 9550,
+      "word_like_tokens": 1856,
       "last_modified": "2026-07-29"
     },
     {
@@ -88928,6 +89218,39 @@
       "entity_edges": [],
       "nonspace_chars": 7704,
       "word_like_tokens": 1373,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-14.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-14.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-14.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-14.md",
+      "title": "カード・消費者金融・リース・ポイントの表出典132件を校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "カード・消費者金融・リース・ポイントの表出典132件を校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 8796,
+      "word_like_tokens": 1660,
       "last_modified": "2026-07-29"
     },
     {

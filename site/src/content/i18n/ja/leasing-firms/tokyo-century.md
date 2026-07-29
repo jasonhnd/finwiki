@@ -1,22 +1,22 @@
 ---
 source: leasing-firms/tokyo-century
-source_hash: eac77e51914bbfc7
+source_hash: 7db67a2043d094dd
 lang: ja
 status: machine
 fidelity: ok
-title: "東京センチュリー株式会社 (Tokyo Century Corporation)"
-translated_at: 2026-06-19T06:09:18.155Z
+title: 東京センチュリー株式会社 (Tokyo Century Corporation)
+translated_at: 2026-07-29T07:37:42Z
 ---
 
 # 東京センチュリー株式会社 (Tokyo Century Corporation)
 
-## Wiki ルート
+## Wiki route
 
-このエントリは [[leasing-firms/INDEX|leasing-firms INDEX]] の配下にある。ピア／対比の文脈については [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] と、より広いシステム／規制の境界については [[banking/INDEX|banking index]] と照らし合わせて読むこと。
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-日本 3 大総合リース・ファイナンスの一角（[[leasing-firms/orix-corp]] / [[megabanks/mufg]] 系 三菱 HC キャピタル / 東京センチュリー）。**みずほ FG ([[megabanks/mizuho-fg]]) + 伊藤忠商事の 2 軸主要株主**という珍しい資本構造。自動車・IT・産業機器リースから不動産・**航空機ファイナンス**・海外（米州・アジア）・環境/再エネ・コンセッション・レンタカー（旧 ニッポンレンタカーサービス）まで多角化。東証 PRIME **8439**。2019 年 米 Aviation Capital Group (ACG) 完全子会社化により**航空機リース世界 Top 10** 入り。
+日本の大手総合リース・ファイナンス会社の一角。公式会社概要は主要株主として伊藤忠商事、中央日本土地建物、NTT、みずほ銀行を掲げており、みずほ FG や伊藤忠商事を「親会社」とは位置付けない。自動車・IT・産業機器リースから不動産、航空機ファイナンス、海外、環境・再エネ、モビリティまで事業を展開し、東証 PRIME **8439** に上場する。
 
 ## 1. 会社概要
 
@@ -24,11 +24,7 @@ translated_at: 2026-06-19T06:09:18.155Z
 **英名**：Tokyo Century Corporation
 **証券コード**：東証 PRIME **8439**
 **業態**：総合リース・ファイナンス（3 大リース）
-**主要株主（合計約 50% 級）**：
-- **みずほ FG ([[megabanks/mizuho-fg]])**（旧 第一勧業銀行系の系譜）
-- **伊藤忠商事**
-
-2 軸株主構造は日本の総合リース大手としてはユニーク。みずほ側は金融的支援、伊藤忠側は商社ネットワーク（自動車・産業機器・海外プロジェクト）を提供し、リース原資調達と案件供給の両面で支えている。
+**大株主（2025-03-31 時点）**：伊藤忠商事 29.94%、中央日本土地建物 14.00%、NTT 10.03%、ケイ・エス・オー 8.43%、みずほ銀行 3.82% など。出典は[東京センチュリー株式基本情報](https://www.tokyocentury.co.jp/jp/ir/stock/basic.html)。この株主構成から特定社を親会社とは推定しない。
 
 ### 主要事業セグメント
 
@@ -41,6 +37,8 @@ translated_at: 2026-06-19T06:09:18.155Z
 | **環境・再エネ** | 太陽光・風力 PPA、エネルギーマネジメント、PPP/コンセッション |
 | **モビリティ** | 旧 ニッポンレンタカーサービス（NRS）系レンタカー、フリート管理 |
 | **スペシャルティ** | プリンシパル投資・ベンチャー・スタートアップ協業 |
+
+出典: [東京センチュリー企業情報](https://www.tokyocentury.co.jp/jp/company/)および[会社概要](https://www.tokyocentury.co.jp/jp/company/info/outline/)（この表の公開事業区分）。
 
 ### 主要 競合
 
@@ -58,23 +56,25 @@ translated_at: 2026-06-19T06:09:18.155Z
 
 | 旧社 | 設立 | 系譜 |
 |---|---|---|
-| **東京リース** | 1969 | 旧 第一銀行 / 日本長期信用銀行 系 |
-| **センチュリー・リーシング・システム** | 1969 | 旧 第一勧業銀行 / 日本興業銀行 (IBJ) 系 |
+| **センチュリー・リーシング・システム** | 1964 | 日本勧業銀行、勧銀土地建物、南桜商事の共同出資で設立 |
+| **東京リース** | 1969 | 伊藤忠商事、第一銀行、日本生命、朝日生命の共同出資で設立 |
 
-両社とも 1969 年設立で、それぞれ 日本の高度経済成長期のリース産業勃興期に銀行系として立ち上がった。
+出典: [東京センチュリー沿革](https://www.tokyocentury.co.jp/jp/company/chronology/)（2026-07-29 参照）。
 
 ### 年表（抜粋）
 
 | 年 | 事象 |
 |---|---|
-| 1969 | 東京リース 設立（第一銀行 / 長銀系）|
-| 1969 | センチュリー・リーシング・システム 設立（第一勧銀 / IBJ 系）|
-| 2009 | **東京リース + センチュリー・リーシング → 東京センチュリーリース 合併**（みずほ FG 経営統合の流れの中で同 FG 内重複リース 2 社を統合）|
+| 1964 | センチュリー・リーシング・システム 設立 |
+| 1969 | 東京リース 設立 |
+| 2009 | **センチュリー・リーシング・システム + 東京リース → 東京センチュリーリース 合併** |
 | 2016 | 商号変更：東京センチュリーリース → **東京センチュリー**（リース業の枠を超えた金融複合体への意思表示）|
 | 2019 | **米 Aviation Capital Group (ACG) 完全子会社化** → 航空機リース世界 Top 10 |
 | 2024 | 中期経営計画 更新 |
 
-2009 年の統合は、みずほ FG (旧 DKB 第一勧銀 + IBJ 興銀 + 富士銀行) 内に複数並立していた**系列リース会社の整理**という文脈で行われた。旧 第一勧銀系の センチュリー・リーシング・システム と 旧 第一銀行 / 長銀系の 東京リース が一体化することで、みずほグループ内のリース機能を集約した。2016 年の「リース」削除はオリックスが既に「総合金融」化していたのに倣う動き。
+出典: [東京センチュリー沿革](https://www.tokyocentury.co.jp/jp/company/chronology/)（この表の旧社、合併、商号変更および主要な事業史）。
+
+公式沿革が確認できる事実は、2009 年の両社合併と 2016 年の商号変更である。合併理由や特定金融グループ内の再編だったとの因果は、このページでは断定しない。
 
 ### コア事業
 
@@ -95,15 +95,7 @@ translated_at: 2026-06-19T06:09:18.155Z
 
 ### 戦略上のポジション
 
-3 大リース内での差別化：
-
-| 大手 | 差別化軸 |
-|---|---|
-| [[leasing-firms/orix-corp]] | 不動産・PE・保険・銀行までの**金融コングロマリット**化 |
-| 三菱 HC キャピタル | 三菱商事 + [[megabanks/mufg]] 系列の**国内法人ネットワーク + グローバル産業機器** |
-| **東京センチュリー** | **みずほ FG + 伊藤忠商事の 2 軸**、航空機リース (ACG)、海外多通貨ファイナンス |
-
-伊藤忠商事との関係は商社系リース（住友商事 ⇄ SMFL、三菱商事 ⇄ 三菱 HC キャピタル）と並列で読むのが正確。
+東京センチュリーの差別化は、[公式会社概要](https://www.tokyocentury.co.jp/jp/company/info/outline/)に掲げる主要株主構成と、[統合レポート2025](https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/)が示す航空機・海外・環境インフラ・モビリティなどの事業ポートフォリオを組み合わせて読む。これは事業ポジショニング上の分析であり、資本上の親子関係を示すものではない。
 
 ## 4. 規制・政策
 
@@ -118,14 +110,15 @@ translated_at: 2026-06-19T06:09:18.155Z
 - 2024〜 EV・脱炭素 → フリート EV 化・再エネ PPA 需要拡大は追い風
 - 2025〜 米国金利環境 → ACG 航空機リース利回りに影響、ドル建て資金調達コスト変動
 
-## 関連
+## Related
 
 - [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[leasing-firms/orix-corp]] · [[leasing-firms/fuyo-lease]]
 
-## 出典
+## Sources
 
-- **Wikipedia: 東京センチュリー**（公開情報・2026-05-19 抽出）
-- 東京センチュリー 公式 IR（沿革・主要株主・セグメント、公開情報）
+- 東京センチュリー 会社概要 (https://www.tokyocentury.co.jp/jp/company/info/outline/)
+- 東京センチュリー 沿革 (https://www.tokyocentury.co.jp/jp/company/chronology/)
+- 東京センチュリー 株式基本情報 (https://www.tokyocentury.co.jp/jp/ir/stock/basic.html)
 
 ---
 

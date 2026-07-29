@@ -1,11 +1,11 @@
 ---
 source: card-issuers/shizugin-card
-source_hash: ec9f7089a1327738
+source_hash: 5d54a6f4dade6239
 lang: en
 status: machine
 fidelity: ok
 title: "しずぎんカード (Shizugin Card / Shizuoka Bank Card)"
-translated_at: 2026-06-18T23:33:48.273Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # しずぎんカード (Shizugin Card / Shizuoka Bank Card)
 
@@ -120,11 +120,13 @@ Shizugin Card Co., Ltd. (Shizuoka Bank Card) is the credit-card subsidiary of th
 - **Shizugin Card Co., Ltd. official site — company profile** (https://shizugin-card.shizuokabank.co.jp/company/, established 1983-04-01 / capital 5,000 万円 / employees 81 名 / head office Kusanagi, Shimizu-ku, Shizuoka City)
 - **Wikipedia: Shizugin Card** (https://ja.wikipedia.org/wiki/静銀カード, 1983-04  establishment history / 2006-03  Shizugin joyca / 2022-10  parent change / 2023-08-01 name change to the current company name)
 - **Shizuoka Bank official site** (https://www.shizuokabank.co.jp/, group company information)
-- **Shizuoka FG official IR** (https://www.shizuokafg.co.jp/)
+- **Shizuoka FG company overview and history** (https://www.shizuoka-fg.co.jp/company/gaiyo-history.html)
 - **EDINET securities reports (Shizuoka FG consolidated / segment information)** (https://disclosure.edinet-fsa.go.jp/)
 - **Japan Consumer Credit Association** (https://www.j-credit.or.jp/, register of member businesses)
 - **Wikipedia: Shizugin Card / Shizuoka Bank / Shizuoka Financial Group** (2026-05-25 extracted)
 
+
+Sources: [Shizugin Card company information](https://shizugin-card.shizuokabank.co.jp/company/) and [Shizuoka Financial Group company overview and history](https://www.shizuoka-fg.co.jp/company/gaiyo-history.html). The company source supports the legal entity and establishment information; group-structure changes should be checked against current FG disclosure. Peer comparisons are illustrative only and require current peer disclosures.
 ---
 
 > [!info] Verification status

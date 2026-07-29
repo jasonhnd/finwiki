@@ -43,7 +43,7 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.necap.co.jp/company/profile/",
+      "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
       "https://www.necap.co.jp/ir/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.lease.or.jp/"
@@ -60,7 +60,7 @@
     "4. 親グループ関係（NEC）",
     "5. 競合・業界ポジション",
     "6. 戦略・最近の動向",
-    "7. 主要 KPI（概観 / 連結）"
+    "7. 主要 KPI（2024-03-31 / 連結）"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -86,13 +86,20 @@
       "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+      "https://www.necap.co.jp/company/pdf/FIEA.pdf",
+      "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
+      "https://www.necap.co.jp/ir/",
+      "https://www.r-lease.co.jp/corp/about/",
+      "https://www.tokyocentury.co.jp/jp/company/info/outline/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4518,
-    "word_like_tokens": 781,
+    "nonspace_chars": 4887,
+    "word_like_tokens": 872,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

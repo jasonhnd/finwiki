@@ -37,6 +37,8 @@ sources:
 | 規制上の確認経路 | 割賦販売法・カード与信管理、経済産業省の信用取引資料、公式会社概要を確認する。^[verified-2026-06-24] |
 | 小売決済の境界 | 公式会社資料は、クレジットカードサービスと電子マネー nanaco の発行・運営の双方を説明している。^[verified-2026-06-24] |
 
+Sources: [セブン・カードサービス会社情報](https://www.7card.co.jp/company/com_info/) and [事業概要](https://www.7card.co.jp/company/bs/). The statutory route is checked through [METI の信用取引政策](https://www.meti.go.jp/policy/economy/consumer/credit/).
+
 ## 2. 事業上の役割
 
 - カード利用を、コンビニエンスストアや小売の顧客接点につなげる。会社メッセージは、セブン・カードサービスが 2002 年にクレジットカード事業を開始し、2007 年に電子マネー nanaco の発行・運営を始めたと説明している。^[verified-2026-06-24]

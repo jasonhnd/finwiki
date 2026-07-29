@@ -40,6 +40,8 @@ In the JapanFG map, SMFL belongs beside [[leasing-firms/orix-corp|ORIX]], [[leas
 | Core business | Domestic leasing, environment / energy, real estate, transportation, international finance, equipment and asset services |
 | License angle | Leasing itself is a commercial finance business, but money lending, FIEA / fund-related products, structured finance, and overseas subsidiaries can trigger additional regulated layers |
 
+Source: [SMFL company profile](https://www.smfl.co.jp/english/corporate/about/) (the company, shareholder, business and regulatory-context summary in this table).
+
 ## Business Map
 
 | Segment | Why it matters |
@@ -50,6 +52,8 @@ In the JapanFG map, SMFL belongs beside [[leasing-firms/orix-corp|ORIX]], [[leas
 | Transportation | Aircraft, ship, rail, vehicle and logistics-asset exposure |
 | International | Overseas leasing / finance platform, often tied to Japanese corporate clients and trading-company networks |
 | Structured / investment products | Can overlap with FIEA, fund, or securities-solicitation analysis depending on structure |
+
+Source: [SMFL Integrated Report](https://www.smfl.co.jp/english/corporate/finance/integrated-report/) (the published business portfolio underlying this segment map).
 
 ## Strategic Reading
 
@@ -69,6 +73,8 @@ That makes SMFL less comparable to pure consumer finance and more comparable to 
 | [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi / MUFG-centered leasing platform with global asset finance scale |
 | [[leasing-firms/mizuho-lease|Mizuho Lease]] | Mizuho / Marubeni-linked listed leasing company |
 | [[leasing-firms/ntt-tc-lease|NTT TC Leasing]] | NTT asset base plus Tokyo Century leasing expertise |
+
+Source: [SMFL company profile](https://www.smfl.co.jp/english/corporate/about/) (SMFL's ownership and business basis); peer descriptions are an editorial comparison of the named companies' public profiles.
 
 ## Regulatory / Risk Notes
 

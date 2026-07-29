@@ -1,11 +1,11 @@
 ---
 source: card-issuers/rakuten-card
-source_hash: a78d22131119c5bf
+source_hash: 79277e57aae5b67c
 lang: en
 status: machine
 fidelity: ok
 title: "楽天カード (Rakuten Card)"
-translated_at: 2026-06-15T03:48:21.826Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # 楽天カード (Rakuten Card)
@@ -27,6 +27,8 @@ Rakuten Card is a card issuer / payment touchpoint of [[payment-firms/rakuten-fg
 | Group | [[payment-firms/rakuten-fg|Rakuten financial ecosystem]] |
 | Main lanes | Credit card issuing, card loan, bank-agency / payment-app adjacency |
 | Regulatory route | METI Installment Sales Act registered-operator lists; official company profile and lending / bank-agency notices. |
+
+Sources: [Rakuten Card company profile](https://www.rakuten-card.co.jp/corporate/info/about/) and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
 
 ## 2. Business role
 

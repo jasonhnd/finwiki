@@ -1,20 +1,20 @@
 ---
 source: leasing-firms/orix-corp
-source_hash: cc00c969aa6fc607
+source_hash: 4ced89b2262c48f4
 lang: ja
 status: machine
 fidelity: ok
-title: "オリックス株式会社"
-translated_at: 2026-06-02T15:14:17.114Z
+title: オリックス株式会社 (ORIX Corporation)
+translated_at: 2026-07-29T07:37:42Z
 ---
 
-# オリックス株式会社
+# オリックス株式会社 (ORIX Corporation)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 日本最大手の総合金融サービス・コングロマリット。1964-04-17 旧 オリエント・リース として三和銀行 + 日綿実業 + ニチメン 等 5 社共同出資で設立。**リース起点 → 10 セグメント（法人金融・自動車・不動産・事業投資・環境エネルギー・保険・銀行・AM・米州・アジア豪州）**へ多角化。連結持分会社的構造で銀行法上の銀行持株会社ではない（金融商品取引業者）。東証 PRIME 8591 / NYSE: IX 二重上場。会長 井上亮、シニア・チェアマン 宮内義彦（実質的中興の祖）。^[extracted]
 
@@ -103,6 +103,8 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | 米州 | ORIX USA | 米国不動産・PE・融資 |
 | アジア・豪州 | ORIX Asia / Australia / India | 中国・インド・印度・豪州 |
 
+出典: [ORIX Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/)（この表の事業セグメントおよびグループ構成）。
+
 ### 多角化モデル
 
 - **「リース＋」モデル**: 創業のリースを起点に、隣接事業（融資 → 不動産 → 投資 → 保険 → 銀行 → AM）へ段階的拡張 ^[extracted]
@@ -132,12 +134,12 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | - | 藤木保彦 | 2000 年代 社長 | - |
 | - | 井上亮 | 2014〜社長 → 2024-06〜 取締役会長 兼 CEO | 現体制 |
 
-## 関連項目
+## Related
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/fuyo-lease|芙蓉総合リース]] · [[leasing-firms/ntt-tc-lease|NTT・TC リース]]（同業リース）
 
-## 出典
+## Sources
 
 - **Wikipedia: オリックス (企業)**（https://ja.wikipedia.org/wiki/オリックス_(企業), 2026-05-19 抽出）
 - ORIX 第 62 期（2025-03 期）有価証券報告書（2025-06 公表）
@@ -147,4 +149,4 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 ---
 
 > [!info] 検証状況
-> 信頼度: **高め**（v1.0 Wikipedia + 公式 IR 校核 2026-05-19）。10 セグメント区分・年表・経営体制は Wikipedia + ORIX 公式沿革ベース。海外比率・米国不動産含み損の具体数値は あいまい（時点変動・開示粒度に依存）。最新値は ORIX 統合報告書および四半期 IR を要参照。
+> confidence: **likely**（v1.0 Wikipedia + 公式 IR 校核 2026-05-19）。10 セグメント区分・年表・経営体制は Wikipedia + ORIX 公式沿革ベース。海外比率・米国不動産含み損の具体数値は ambiguous（時点変動・開示粒度に依存）。最新値は ORIX 統合報告書および四半期 IR を要参照。

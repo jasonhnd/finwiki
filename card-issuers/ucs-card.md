@@ -34,6 +34,8 @@ UCSは credit card、majica electronic money、insurance agency などを扱う 
 | Retail context | PPIH / UNY / majica payment and loyalty ecosystem |
 | Regulatory route | Lending registration shown in official profile; Installment Sales Act lists for card-credit control. |
 
+Sources: [UCS会社概要](https://www.ucscard.co.jp/company/com/profile/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
+
 ## 2. Business role
 
 - Converts retail-store frequency into card usage and majica stored-value / loyalty activity.

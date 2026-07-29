@@ -26,14 +26,14 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-**日本唯一の国際カードブランド**。1961-01 旧三和銀行 + 日本信販 等の出資で「日本クレジットビューロー (Japan Credit Bureau)」として発足、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場 — 主要株主は [[megabanks/mufg]] 系・[[megabanks/smfg]] 系の銀行連合。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[megabanks/smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。
+**日本唯一の国際カードブランド**。1961-01 に「日本クレジットビューロー (Japan Credit Bureau)」として発足し、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場で、2026-06 末時点の公式会社概要は、従業員持株会、三菱 UFJ 銀行、太陽生命、三井住友銀行、トヨタファイナンシャルサービス、オリックス、TIS などを主要株主として開示する。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[megabanks/smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。
 
 ## 1. 会社概要
 
 **正式名**：株式会社ジェーシービー
 **英名**：JCB Co., Ltd.
 **創業**：1961-01 (「株式会社日本クレジットビューロー」として設立)
-**上場**：**非上場** (主要株主は銀行系)
+**上場**：**非上場**（主要株主は従業員持株会、銀行、保険、事業会社など）
 **本社**：東京都港区南青山 5-1-22 青山ライズスクエア
 **業態**：クレジットカード会社 + 国際カードブランド (発行 / 加盟店開拓 / ブランド・ライセンスの 3 機能)
 
@@ -42,16 +42,9 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 - **JCB** = **J**apan **C**redit **B**ureau (日本クレジットビューロー)
 - 創業時の社名「日本クレジットビューロー」の英名頭文字。後に英略称が社名・ブランド名として定着。
 
-### 主要株主 (公開情報・非上場のため概要のみ)
+### 出資・株主情報の扱い
 
-| 株主 | 備考 |
-|---|---|
-| 三菱 UFJ 銀行 ([[megabanks/mufg]] 系) | 旧三和銀行系の流れを継承 |
-| 三井住友 FG ([[megabanks/smfg]] 系) | 旧太陽神戸 + 三井 + 住友系銀行の流れ |
-| 三井住友信託銀行 | 信託系 |
-| その他 銀行系・関係会社 | 詳細持株比率は非上場のため限定開示 |
-
-> 非上場のため正確な持株比率は限定公開。Wikipedia 公開情報ベースで「銀行系主要株主」の構成のみ確認。^[likely]
+JCB は非上場会社である。公式会社概要が 2026-06 末時点で開示する主要株主は、ジェーシービー従業員持株会、三菱 UFJ 銀行、太陽生命、三井住友銀行、トヨタファイナンシャルサービス、オリックス、TIS ほかである。個別の持株比率は同ページに掲載されていないため、この一覧から支配関係や比率を推定しない。
 
 ### 主要子会社・関連法人
 
@@ -73,17 +66,19 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 | 年月 | 事象 |
 |---|---|
-| **1961-01** | 三和銀行 + 日本信販 + 富士銀行 + 大正生命 + 三井銀行 等の出資で「株式会社日本クレジットビューロー」設立 |
+| **1961-01** | 「株式会社日本クレジットビューロー」（略称 JCB）設立 |
 | 1961 | 「JCB カード」第 1 号発行 |
 | 1970 年代 | 国内加盟店網拡大・主要 city bank との提携カード化 |
 | **1981** | **国際ブランド化開始** (海外加盟店開拓スタート) |
-| **1989** | **American Express (米) と業務提携** (国際決済ネットワーク補完) |
+| **2000** | **American Express と日本および海外 5 か国の加盟店業務で提携** |
 | 1990 年代 | アジア地域 (タイ・韓国・台湾) 加盟店網拡張 |
 | 2000 年代 | 「JCB プラチナ」「JCB ゴールド」等プレミアム商品ラインナップ強化 |
-| **2006** | **中国銀聯 (UnionPay) と提携** (中華圏インバウンド需要捕捉) |
+| **2010** | **中国銀聯と国内の銀聯カード加盟店業務について契約締結** |
 | 2010 年代 | EMV 化対応 / IC チップカード移行 |
 | **2020〜** | **JCB コンタクトレス (タッチ決済) 拡大** (NFC 非接触決済) |
 | 2020 年代 | デジタル決済 (QR コード / モバイル決済) 対応・「Apple Pay / Google Pay / Garmin Pay」等対応 |
+
+Sources: [JCB 会社概要](https://www.global.jcb/ja/about-us/company/overview/index.html) and [JCB の沿革](https://www.global.jcb/ja/about-us/company/history/index.html).
 
 ## 2. 事業セグメント・マップ
 
@@ -97,6 +92,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 | **アクセプタンス (相互利用)** | Discover (米) / 銀聯 (中国) / Amex (旧) との相互利用 | 海外加盟店カバレッジ補完 |
 | **デジタル・タッチ決済** | JCB コンタクトレス / Apple Pay / Google Pay / モバイル決済 | 2020〜拡大 |
 
+Sources: [JCB の事業紹介](https://www.global.jcb/ja/about-us/business-area/index.html) and [JCB 会社概要](https://www.global.jcb/ja/about-us/company/overview/index.html). International acceptance partnerships and individual product availability are subject to the relevant current JCB disclosure.
+
 ### 国際ブランド差別化
 
 - **「アジアで強い国際ブランド」ポジション**: 日本・中国・韓国・台湾・東南アジア (タイ / ベトナム等) で加盟店網優位
@@ -106,7 +103,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ### インバウンド戦略
 
-- **訪日中華圏旅客需要**: 銀聯提携 (2006〜) で訪日中国人観光客の決済需要を捕捉
+- **訪日中華圏旅客需要**: 2010 年の中国銀聯との国内加盟店業務契約を基盤に、訪日中国人観光客の決済需要へ対応
 - **アジア観光地**: タイ・韓国・台湾の加盟店網で日本人海外旅行決済を取り込み
 - **クロスボーダー決済**: 国際旅客流動の両方向 (in / out) で優位性
 
@@ -154,4 +151,4 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (Wikipedia + JCB 公式公開情報ベース、2026-05-19 参照)。非上場のため業績・正確な持株比率等の数値は限定的。重要な歴史 (1961 設立 / 1981 国際化 / 1989 Amex 提携 / 2006 銀聯提携 / 2020 タッチ決済) は公開情報で十分検証可能。国内シェア・国際展開規模等の最新値は JCB 公式発表 / 経産省「キャッシュレス決済比率」公表資料を要参照。
+> confidence: **likely** (JCB 公式公開情報ベース、2026-07-29 参照)。非上場のため業績・正確な持株比率等の数値は限定的。重要な歴史 (1961 設立 / 1981 国際化 / 2000 Amex 加盟店業務提携 / 2010 中国銀聯加盟店業務契約 / 2020 年代のタッチ決済拡大) は JCB 公式沿革で確認した。国内シェア・国際展開規模等の最新値は JCB 公式発表 / 経産省「キャッシュレス決済比率」公表資料を要参照。

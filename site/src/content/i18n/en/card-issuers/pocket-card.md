@@ -1,11 +1,11 @@
 ---
 source: card-issuers/pocket-card
-source_hash: 8c1c677e9aa454f3
+source_hash: 8545e8d7230d698b
 lang: en
 status: machine
 fidelity: ok
 title: "Pocket Card (ポケットカード)"
-translated_at: 2026-06-15T03:48:21.813Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Pocket Card (ポケットカード)
@@ -28,6 +28,8 @@ Pocket Card Co., Ltd. (ポケットカード株式会社) is an independent cred
 | Cash-advance lane | The card's cash-advance line is under the Money Lending Business Act framework |
 | Supervision | FSA (money lending) + METI (Installment Sales Act); self-regulation is [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 | Wiki role | non-megabank co-brand / co-brand-card issuer anchor |
+
+Sources: [Pocket Card company profile](https://www.pocketcard.co.jp/ir/profile/profile_031.html) and [METI registered-operator list](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html). The official profile lists 株式会社PCH（伊藤忠商事の100%子会社）, ファミリーマート, and 三井住友銀行 as shareholders; ownership remains time-sensitive.
 
 ## 2. Business model
 

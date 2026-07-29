@@ -139,6 +139,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 | 2024〜 | 海外（インド）事業拡大・中期経営計画推進 |
 | 2024 | 新 NISA 制度開始 → セゾン投信 資産集積加速 |
 
+Sources: [クレディセゾン公式の会社情報](https://corporate.saisoncard.co.jp/company/) and [IR ライブラリー](https://corporate.saisoncard.co.jp/ir/library/). Individual investment-product and overseas-business developments should be checked against the relevant company release.
+
 ## Related
 
 - [[megabanks/mizuho-fg]]（主要株主・メインバンク系列）

@@ -1,6 +1,6 @@
 ---
 source: loyalty/point-program-unit-economics
-source_hash: e642486f2a1c480f
+source_hash: 5db31d9de5485aa1
 lang: en
 status: machine
 fidelity: ok
@@ -88,6 +88,8 @@ A loyalty point balance and a **prepaid stored-value balance** (electronic money
 | Cash-equivalence | Usually limited-use, lower cash-likeness | Closer to cash; redeemability / transferability matter |
 | Breakage logic | Expiry-driven, estimate-heavy | Constrained by prepaid rules / unused-balance treatment |
 
+Sources: [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), [Rakuten investor information](https://corp.rakuten.co.jp/investors/financial/), the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), and the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html). The table separates economic mechanisms from entity-specific reported amounts.
+
 The line between them is precisely the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] — a point that becomes cash-charged or freely transferable can **cross** into the prepaid regime, changing both its regulation and its float treatment.
 
 ### The risk side of the float
@@ -99,7 +101,9 @@ Customer-funded float is not free money; it carries balance-specific risks an an
 | Redemption surge | A campaign or expiry change accelerates redemption → the float drains and cash goes out faster than modelled | [[loyalty/point-program-unit-economics|unit economics]] |
 | Breakage misestimate | Optimistic breakage pulls revenue forward; a true-up reverses it | [[loyalty/point-liability-accounting-boundary|accounting boundary]] |
 | Reclassification | A point that becomes cash-like migrates into the prepaid regime, raising preservation / registration duties | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] |
-| Cross-program leakage | Exchange into other operators / mileage moves value off-balance at a settlement rate | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
+| Cross-program exchange | Conversion may alter the obligor or settlement exposure depending on the contracts; consumer terms do not reveal private rates | [[loyalty/point-exchange-network-risk|point exchange network risk]] |
+
+Sources: [Rakuten Point guidance](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [ASBJ Statement No. 29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), and the official terms of the relevant exchange partners. It is a unit-economics framework, not a disclosure of any private settlement rate.
 
 ## Monetisation: where thin programs turn profitable
 
@@ -114,7 +118,7 @@ So the profitability question is never "what is the reward rate"; it is "merchan
 ## Why this matters for JapanFG / financial analysis
 
 - **Reward rate is the wrong headline.** Two "1% back" programs differ entirely on funding source, breakage, float, and monetisation. Compare those, not the percentage.
-- **Breakage is the quality-of-earnings flag.** A program leaning on optimistic breakage to show margin is pulling revenue forward; check whether "ポイント引当金" has migrated to "契約負債" and how redemption assumptions are disclosed (per [[loyalty/point-liability-accounting-boundary|accounting boundary]]).
+- **Breakage is a quality-of-earnings flag.** Review the applicable accounting policy, obligation, redemption assumptions, and sensitivity. The presence or absence of “ポイント引当金” versus “契約負債” does not by itself prove adoption or the correct classification.
 - **Float + ID graph are why financial groups want point operators.** A point inside a group supplies an interest-free customer-funded balance *and* a cross-sell funnel — the economics that make [[megabanks/smfg|SMFG]] / V-Point, [[megabanks/ndfg|NDFG]] / dポイント, and [[payment-firms/rakuten-fg|Rakuten FG]] internal integration rational beyond marketing.
 
 ## Related

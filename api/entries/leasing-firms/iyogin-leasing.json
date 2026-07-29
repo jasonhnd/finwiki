@@ -47,12 +47,12 @@
       "https://www.iyoginlease.co.jp/corporate/outline/",
       "https://www.iyoginlease.co.jp/corporate/history/",
       "https://www.iyobank.co.jp/",
-      "https://www.iyoginhd.co.jp/",
+      "https://www.iyogin-hd.co.jp/company/group.html",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.chiginkyo.or.jp/"
     ]
   },
-  "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千",
+  "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 浜銀ファイナンス (神奈川) / ちばぎんリース",
   "headings": [
     "いよぎんリース (Iyogin Leasing)",
     "Wiki route",
@@ -66,7 +66,7 @@
     "強み・弱み"
   ],
   "body_links": {
-    "wikilinks_count": 35,
+    "wikilinks_count": 34,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
@@ -95,7 +95,6 @@
       "regional-banks/concordia-fg",
       "regional-banks/ehime-bank",
       "regional-banks/fukuoka-fg",
-      "regional-banks/hokkaido-bank",
       "regional-banks/iyo-bank",
       "regional-banks/iyogin-hd",
       "regional-banks/mebuki-fg",
@@ -132,7 +131,6 @@
       "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/ehime-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-      "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/iyo-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
       "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
@@ -141,13 +139,22 @@
       "https://finwiki.zksc.io/ja/regional-banks/yamaguchi-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.chibabank.co.jp/news/news202200805_01_001",
+      "https://www.do-lease.co.jp/company/history.html",
+      "https://www.do-lease.co.jp/company/profile.html",
+      "https://www.iyogin-hd.co.jp/company/group.html",
+      "https://www.iyoginlease.co.jp/corporate/history/",
+      "https://www.iyoginlease.co.jp/corporate/outline/",
+      "https://www.mebuki-lease.co.jp/gaiyo/index.html",
+      "https://www.ymfg.co.jp/about/profile/group/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7320,
-    "word_like_tokens": 1156,
+    "nonspace_chars": 7541,
+    "word_like_tokens": 1188,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

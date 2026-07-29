@@ -1,11 +1,11 @@
 ---
 source: card-issuers/installment-sales-act-2020-amendment
-source_hash: 04e6be00f953cc71
+source_hash: c5b458f7380e2355
 lang: en
 status: machine
 fidelity: ok
 title: "Installment Sales Act 2020  Amendment"
-translated_at: 2026-06-18T23:33:48.319Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Installment Sales Act 2020  Amendment
@@ -74,6 +74,8 @@ Supervisory means such as business-suspension orders were established for regist
 | PSP performs merchant screening on behalf of others | Whether registration is required changes depending on who holds the final decision-making authority | The actual contractual relationship between the acquirer and the PSP |
 | Purpose-specific loan | Even a monetary loan can become individual credit purchase intermediation if it has a close connection with the sales contract | Tie-up with the seller, solicitation, integration of procedures |
 | Code-payment linkage | The duty of storage, linkage, and fraud prevention for card numbers, etc., becomes an issue | Non-retention, PCI DSS, EMV 3-D Secure, etc. |
+
+Sources: [METI overview and FAQ for deferred-payment services](https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html) and [overview of the Reiwa 2 amendment](https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf). The rows are analytical classifications, not determinations for an individual service.
 
 ## Related
 

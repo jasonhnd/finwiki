@@ -1,11 +1,11 @@
 ---
 source: leasing-firms/fuyo-lease
-source_hash: aa64fdc8af33a41e
+source_hash: d87e583b19baeaab
 lang: en
 status: machine
 fidelity: ok
 title: "Fuyo General Lease"
-translated_at: 2026-06-19T06:09:18.126Z
+translated_at: 2026-07-29T08:00:00Z
 ---
 
 # Fuyo General Lease
@@ -16,14 +16,14 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-A second-tier general leasing company in the former Fuji Bank lineage (TSE PRIME **8424**). **A second-tier player following the 3  major leasing firms ([[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]])**, it carries the financial core function of the **Fuyo Group** (the former Fuji Bank community: [[megabanks/mizuho-fg]] + Marubeni + Nissan + Canon + Nisshin Flour Milling + Tokio Marine [[non-life-insurers/tokio-marine]], etc.). Founded in 1969-09-04 (former name: Fuyo Factor). It has a 6 -axis composition of general equipment leasing + real estate + environment / renewable energy + medical / nursing care + aircraft / ships + overseas (centered on Asia). It is in a sibling-cum-competitor relationship with [[leasing-firms/tokyo-century]], which, in the same former Fuji Bank lineage, "managed to consolidate ahead into the second tier of the three majors." ^[extracted]
+Fuyo General Lease is a general leasing company listed on TSE PRIME **8424**. According to its official history, it was established in 1969-05 with investment from Fuji Bank (now Mizuho Bank), Marubeni-Iida (now Marubeni), and 4 other Fuyo Group companies. Its stated business fields include real estate, aviation, energy and the environment, BPO/ICT, healthcare, and mobility/logistics.
 
 ## 1. 会社概要 / Company overview
 
 **Formal name**: Fuyo General Lease Co., Ltd. ^[extracted]
 **English name**: Fuyo General Lease Co., Ltd. ^[extracted]
 **Securities code**: TSE PRIME 8424 ^[extracted]
-**Founded**: 1969-09-04 (former name: Fuyo Factor) ^[extracted]
+**Established**: 1969-05-01
 **Headquarters**: Chiyoda-ku, Tokyo (Marunouchi area) ^[extracted]
 **Business type**: General leasing / finance (bank-affiliated) ^[extracted]
 
@@ -81,10 +81,11 @@ Fuyo General Lease (8424)
 
 | Year/month | Event |
 |---|---|
-| **1969-09-04** | Founded as Fuyo Factor (former Fuji Bank lineage leasing) ^[extracted] |
-| 1971 | Established positioning as a Fuji Bank affiliate leasing firm ^[extracted] |
-| **1999** | Fuji Bank + Dai-Ichi Kangyo Bank + Industrial Bank of Japan merger → Mizuho FG launched; Fuyo General Lease also effectively moved into the Mizuho lineage ^[extracted] |
-| 2024〜 | Mid-term management plan in progress ^[extracted] |
+| **1969-05-01** | Established with investment from Fuji Bank, Marubeni-Iida, and other Fuyo Group companies |
+| 2004-12 | Listed on the First Section of the Tokyo Stock Exchange |
+| 2022 | Began the medium-term management plan “Fuyo Shared Value 2026” |
+
+Sources: [Fuyo General Lease company profile](https://www.fgl.co.jp/fgl/about.html), [official history](https://www.fgl.co.jp/eng/fgl/history.html), and [IR FAQ](https://www.fgl.co.jp/ir/faq.html).
 
 ### Intra-Fuyo Group transactions
 
@@ -96,12 +97,12 @@ Fuyo General Lease (8424)
 
 ### Competitive structure
 
-| Aspect | Fuyo General Lease | [[leasing-firms/tokyo-century]] |
+| Company | Officially verifiable history / shareholder context | Primary source (accessed 2026-07-29) |
 |---|---|---|
-| Affiliation | Former Fuji Bank (Mizuho lineage) | Former Dai-Ichi Kangyo Bank (Mizuho lineage) |
-| Consolidation strategy | Maintains second-tier on its own | Scaled up to major via Tokyo Lease + Century Leasing merger |
-| Business scale | Second tier | One of the three major leasing firms |
-| Customer base | Fuyo Group + mid-tier companies | Mizuho lineage + ITC (Itochu), etc. |
+| Fuyo General Lease | Established in 1969-05 with investment from Fuji Bank, Marubeni-Iida, and other Fuyo Group companies | [Official history](https://www.fgl.co.jp/eng/fgl/history.html) |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | Formed in 2009 through the merger of Century Leasing System, established in 1964, and Tokyo Leasing, established in 1969 | [Official history](https://www.tokyocentury.co.jp/jp/company/chronology/) |
+
+This table is an analytical comparison of differences documented in the companies' official histories; it does not infer current parent-subsidiary relationships, size rankings, or customer composition.
 
 Other competitors:
 

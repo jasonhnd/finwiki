@@ -108,6 +108,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 | **エポスカード** | 丸井グループ | 流通系・若年層 | マルイ販促連携 |
 | **楽天カード** | 楽天 FG ([[payment-firms/rakuten-fg]] 系) | 国内発行枚数 No.1 級 | ポイント経済圏 |
 
+Sources: [Orico 会社情報](https://www.orico.co.jp/company/) and [Orico IR](https://www.orico.co.jp/company/ir/). Competitor descriptions are comparative context and should not be read as current market-share rankings.
+
 ### 戦略課題
 
 - **オートローン市場の構造変化**: EV シフト・サブスク (KINTO 等)・カーシェアの普及で、従来型「個人購入+割賦」モデルが中長期で変容リスク

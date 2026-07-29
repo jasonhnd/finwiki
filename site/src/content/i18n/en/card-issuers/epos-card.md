@@ -1,11 +1,11 @@
 ---
 source: card-issuers/epos-card
-source_hash: 79dbf24660da4e3e
+source_hash: 919a065970f85dcb
 lang: en
 status: machine
 fidelity: ok
 title: "EPOS Card"
-translated_at: 2026-06-15T03:48:21.888Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # EPOS Card
@@ -28,6 +28,8 @@ EPOS Card Co., Ltd. is the operating company that runs the card and finance busi
 | Cash-advance lane | The card's cashing line is offered under the framework of the Money Lending Business Act |
 | Supervision | FSA (money lending) + METI (Installment Sales Act); self-regulation by [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 | Wiki role | Marui group retail-origin card operating-company anchor |
+
+Sources: [EPOS Card company information](https://www.eposcard.co.jp/company/) for the operating-company boundary and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html) for the statutory route.
 
 ## 2. Operating model
 

@@ -1,11 +1,11 @@
 ---
 source: consumer-finance/aiful
-source_hash: ca7287d638c5c6b6
+source_hash: 45f536925aa34719
 lang: en
 status: machine
 fidelity: ok
 title: "アイフル株式会社 (Aiful)"
-translated_at: 2026-06-15T03:48:21.864Z
+translated_at: 2026-07-29T07:52:14.000Z
 ---
 
 # アイフル株式会社 (Aiful)
@@ -34,9 +34,9 @@ Industry standing among the **3  major consumer-finance firms** (including indep
 
 | Company | Affiliation | Major shareholder |
 |---|---|---|
-| Acom | [[megabanks/mufg]] group | MUFG Bank, equity method 39.6% |
-| Promise (SMBC Consumer Finance) | [[megabanks/smfg]] group | SMFG 100% wholly owned subsidiary |
-| **Aiful** | **Independent** (not a megabank affiliate) ★ | **Independent capital centered on the founding Fukuda family** |
+| Acom | [[megabanks/mufg]] group | MUFG 37.57% direct holding (2026-03-31) |
+| Promise (SMBC Consumer Finance) | [[megabanks/smfg]] group | 100% ultimately owned within SMFG; directly held by Sumitomo Mitsui Card |
+| **Aiful** | **Independent** (not a megabank affiliate) ★ | **AMG 19.80% and Mitsuhide Fukuda 12.99% (2025-03-31)** |
 
 ### Major group companies
 
@@ -52,7 +52,7 @@ Aiful (holding-company function + directly operated businesses; listed 8515)
 
 ### Founding family / independence
 
-The biggest feature is its **independent capital structure centered on the founding Fukuda family**. Unlike Acom ([[megabanks/mufg]] equity method 39.6%) and Promise ([[megabanks/smfg]] 100% wholly owned subsidiary), it is the only major consumer-finance firm not incorporated into a megabank group. ^[extracted]
+The biggest feature is its **independent capital structure centered on the founding Fukuda family**. As of 2025-03-31, major holders included AMG (19.80%), Mitsuhide Fukuda (12.99%), The Master Trust Bank of Japan (trust account; 8.97%), and Marutaka (5.13%). Unlike Acom ([[megabanks/mufg]] consolidated subsidiary) and Promise (100% ultimately owned within [[megabanks/smfg]] and directly held by Sumitomo Mitsui Card), it is the only major consumer-finance firm not incorporated into a megabank group. ^[extracted]
 
 ## 2. Business segment map
 
@@ -114,8 +114,8 @@ As a major independent firm not belonging to a megabank group:
 
 | Competitor | Affiliation | Difference from Aiful |
 |---|---|---|
-| Acom | [[megabanks/mufg]]-affiliated (equity method 39.6%) | Ahead via the parent's bank ATMs / customer referrals; overseas expansion (e.g., Thailand's Easy Buy) |
-| [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] 100% wholly owned subsidiary | High referral efficiency through integrated operation with the parent bank |
+| Acom | [[megabanks/mufg]] consolidated subsidiary | Bank card-loan guarantees and overseas expansion, including Thailand's Easy Buy |
+| [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] group, 100% ultimate ownership | Directly held by Sumitomo Mitsui Card within the SMFG group |
 | Rakuten Card / PayPay Card | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | Integrated with e-commerce / payment platforms; ahead with younger segments |
 | Bank card loans | All megabanks / regional banks | Banks' directly operated low-rate card loans have become substitute products |
 | [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | Credit-sales affiliated | A different per-item-installment axis; adjacent to consumer finance |
@@ -150,8 +150,8 @@ As a major independent firm not belonging to a megabank group:
 
 ## Related
 
-- [[megabanks/mufg]] — competitor among the 3  major consumer-finance firms (Acom equity method 39.6%)
-- [[megabanks/smfg]] — competitor among the 3  major consumer-finance firms (Promise = SMBCCF 100% subsidiary)
+- [[megabanks/mufg]] — competitor among the 3 major consumer-finance firms (Acom is an MUFG consolidated subsidiary)
+- [[megabanks/smfg]] — competitor among the 3 major consumer-finance firms (Promise has 100% ultimate SMFG ownership and is directly held by Sumitomo Mitsui Card)
 - [[card-issuers/jaccs]] — major credit-sales firm / adjacent business type
 - [[card-issuers/orico]] — major credit-sales firm / adjacent business type
 - [[card-issuers/credit-saison]] — major credit-sales firm / adjacent business type
@@ -161,11 +161,13 @@ As a major independent firm not belonging to a megabank group:
 ## Sources
 
 - **Wikipedia: アイフル株式会社** (https://ja.wikipedia.org/wiki/アイフル, accessed 2026-05-19, public information only)
-- **Aiful official IR** (TSE PRIME 8515  disclosure materials, public portion / securities reports)
+- **Aiful 48th-term securities report** (FY ended 2025-03): https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf
 - **FSA business-improvement order public materials** (2008-04  business-improvement order against Aiful, public portion)
 - **Amended Money Lending Business Act / Supreme Court 2006-01-13 ruling** (public laws / precedents)
 
+
+Sources: [primary source](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), [primary source](https://www.acom.co.jp/corp/ir/stock/outline/), [primary source](https://www.smbc-cf.com/corporate/outline.html), [primary source](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), [primary source](https://www.aiful.co.jp/company/), [primary source](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), [primary source](https://www.fsa.go.jp/policy/kashikin/), [primary source](https://www.fsa.go.jp/news/), [primary source](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf), [primary source](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf), [primary source](https://www.smbc-cf.com/corporate/outline.html), [primary source](https://www.aiful.co.jp/group/ir/pdf/SR202503.pdf). These disclosures are dated and should not be used to infer ownership or accounting classifications beyond their stated scope.
 ---
 
 > [!info] Verification status
-> confidence: **likely** (composed of public information only, 2026-05-19). The founding year, listing year, 3  major-consumer-finance positioning, maintenance of independence, and the overpaid-interest problem are within the range confirmable via Wikipedia + public IR + public precedents. Details of the medium-term plan and revenue by overseas location are public portions only. It contains no internal materials or non-public information whatsoever.
+> confidence: **likely** (composed of public information only, 2026-05-19). The FY2025 Aiful securities report, FY2025 Acom share information, FY2025 SMBC Consumer Finance profile, FY2025 company information, and FY2025 public disclosures support the dated facts. The founding year, listing year, 3 major-consumer-finance positioning, maintenance of independence, and the overpaid-interest problem are within the range confirmable via public IR and public precedents. Details of the medium-term plan and revenue by overseas location are public portions only. It contains no internal materials or non-public information whatsoever.

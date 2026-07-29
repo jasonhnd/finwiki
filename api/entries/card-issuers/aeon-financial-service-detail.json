@@ -11,20 +11,14 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service-detail.md",
   "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service-detail.md",
   "domain": "card-issuers",
-  "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+  "title": "電通ベンチャーズ (Dentsu Ventures)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+    "title": "電通ベンチャーズ (Dentsu Ventures)",
     "aliases": [
-      "Dentsu Finance",
-      "電通金融",
-      "電通ファイナンス",
-      "電通グループ金融",
-      "Dentsu Group Financial",
-      "Dentsu Capital",
-      "電通キャピタル",
       "電通ベンチャーズ",
-      "Dentsu Ventures"
+      "Dentsu Ventures",
+      "Dentsu Ventures Fund II"
     ],
     "domain": "card-issuers",
     "type": null,
@@ -35,68 +29,55 @@
     "confidence": "likely",
     "tags": [
       "JapanFG",
-      "corporate-finance",
-      "captive-finance",
       "dentsu",
       "CVC",
       "ventures",
-      "media-finance"
+      "startup-investing"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.group.dentsu.com/jp/about/",
+      "https://www.group.dentsu.com/jp/about-us/data-location.html",
       "https://www.group.dentsu.com/jp/ir/",
-      "https://www.dentsuventures.com/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/fund_transfer.html",
-      "Wikipedia: 電通グループ (公開情報, 2026-05-25 抽出)"
+      "https://www.group.dentsu.com/jp/news/release/000439.html"
     ]
   },
-  "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer co",
+  "summary": "This legacy-path entry remains under card-issuers INDEX for route compatibility but records only the documented Dentsu Ventures CVC fund. Read it with 日本 CVC ランドスケープ and contrast it with the actual financial-services operating-company entry イオンフィナンシャルサービス; it is not a card-issuer or captive-finance",
   "headings": [
-    "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+    "電通ベンチャーズ (Dentsu Ventures)",
     "Wiki route",
     "TL;DR",
     "1. 親会社・グループ構造",
-    "グループ金融機能の所在",
-    "2.1 電通ベンチャーズ（Dentsu Ventures）",
-    "2.2 電通キャピタル（電通グループの戦略投資 / M&A 機能）",
-    "2.3 広告主向け請求・決済機能",
-    "2.4 国際拠点ファイナンス管理",
-    "3.1 CVC モデル（電通ベンチャーズ）"
+    "2. 電通ベンチャーズ（Dentsu Ventures）",
+    "3. 確認範囲",
+    "4. 公表値（2021-04-27 リリース時点）",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 3,
     "wikilinks": [
-      "JapanFG/nissan-finance",
-      "JapanFG/sony-finance",
       "asset-managers/cvc-japan-landscape",
       "card-issuers/INDEX",
-      "card-issuers/aeon-financial-service",
-      "card-issuers/toyota-finance",
-      "megabanks/mufg",
-      "megabanks/sbi-hd",
-      "megabanks/smfg",
-      "megabanks/sony-fg"
+      "card-issuers/aeon-financial-service"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/card-issuers/",
-      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
-      "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/megabanks/sony-fg/"
+      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.group.dentsu.com/jp/about-us/data-location.html",
+      "https://www.group.dentsu.com/jp/ir/",
+      "https://www.group.dentsu.com/jp/news/release/000439.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6018,
-    "word_like_tokens": 1031,
+    "nonspace_chars": 3004,
+    "word_like_tokens": 540,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

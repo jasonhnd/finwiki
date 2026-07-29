@@ -20,50 +20,53 @@ sources:
   - "https://www.ana.co.jp/en/jp/shoppingandlife/point/tukau_rakuten/"
   - "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/"
   - "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf"
-  - "https://paymentsjapan.or.jp/"
+  - "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059"
+  - "https://www.fsa.go.jp/menkyo/menkyo.html"
 ---
 
 # Point exchange network risk (JP cross-program conversion economics)
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **cross-program exchange** page — the mechanism layer beneath the program directory in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]. It pairs with [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] (which defines how a conversion splits into a liability-transfer event plus a settlement leg) and with [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] (because airline mileage is the highest-value sink most exchange paths flow toward). For the regulatory edge — where a freely transferable, cash-like point stops being loyalty marketing and becomes a payments topic — route to [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|payment-license stack]].
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **cross-program exchange risk-scenario** page beneath [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]. It pairs with [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]], which explains why conversion accounting depends on contracts and the redemption obligor. For the regulatory edge, route to [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|payment-license stack]].
 
 ## TL;DR
 
-A point that can be **converted into another operator's point or into airline mileage** is no longer a self-contained loyalty liability. Conversion creates a small inter-operator financial network: each edge carries a **consumer-facing exchange ratio**, a (usually different and confidential) **bilateral settlement rate**, a **liability transfer**, and a set of **anti-abuse controls**. The network is where most of Japan loyalty's systemic risk concentrates — non-additive liability accounting, FX-like rate exposure, arbitrage / laundering vectors, and the route by which a "marketing" point drifts toward cash-equivalence. Reading any single operator's point balance in isolation overstates how contained that liability really is.
+Cross-program conversion creates **potential** counterparty, rate, fraud, accounting, and regulatory exposures. Public consumer terms normally show direction, rate, units, caps, eligibility, and timing. They generally do not disclose wholesale settlement rates, settlement cycles, credit support, insolvency allocation, operator margin, or journal entries. The risks below are therefore explicit **scenarios**, not claims that a named programme uses a particular private settlement model.
 
 ## Why exchange turns a point into a network
 
-A closed point (earn at Rakuten, spend at Rakuten) is one operator's deferred-revenue liability and nothing more. The moment an exchange edge opens — Rakuten Point ↔ ANA mileage, Rakuten Point ↔ JAL mileage, dポイント ↔ JAL mileage, Pontaポイント ↔ JAL mileage — three things become true at once:
+A public exchange edge — for example, a point-to-mile conversion — creates three review questions:
 
-1. **The same yen of purchasing power can exist in two liability lines.** During a conversion window the originating operator may not yet have extinguished its liability while the receiving operator has already created one. Outstanding balances across operators are therefore **non-additive**; you cannot sum operator-reported point balances to get a "Japan point economy" total.
-2. **There are two prices on every edge, not one.** The consumer sees an exchange ratio (e.g. Rakuten → JAL at 2 points = 1 mile). The operators settle at a separate, contractually agreed rate that is normally not disclosed. The spread is the receiving operator's acquisition revenue and the originating operator's release cost.
-3. **Asymmetry is deliberate.** Reverse edges are usually priced worse and capped. Publicly, Rakuten's reverse path (JAL miles → Rakuten Points) runs at roughly 1 mile = 0.8 point at scale, versus 2 points = 1 mile inbound — a one-way valve that pushes value toward the higher-margin mileage sink and discourages round-tripping.
+1. **Obligor / recognition:** does the originating obligation end at conversion, redemption, settlement, or another event, and when does the receiving obligation arise?
+2. **Commercial settlement:** does consideration move gross, net, periodically, prefunded, or through another arrangement? Consumer terms do not answer this.
+3. **Control design:** what caps, identity checks, transfer windows, reversals, and fraud controls are publicly stated, and what risks do they mitigate?
 
-This is the concrete content of bucket 5 ("cross-program exchange") in [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]]: a liability transfer plus a settlement leg, happening together.
+See bucket 5 in [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]]; there is no universal “liability transfer plus cash settlement” entry.
 
 ## The five risk surfaces
 
-| Surface | What goes wrong | Who absorbs it |
+| Hypothetical surface | Scenario | Evidence needed for a named programme |
 |---|---|---|
-| Settlement / counterparty | Net-settlement timing gap between operators; one side's insolvency mid-window | Both operators; ultimately the consumer holding mid-conversion balance |
-| Rate / FX-like exposure | Operator changes consumer ratio or settlement rate; value of held balance shifts | Holder of the soft-pegged point; arbitrageurs on the other side |
-| Breakage mis-estimation | Transferable points sit longer, so breakage assumptions stretch and revenue timing slips | Issuer's reported revenue under ASBJ Statement No.29 / IFRS 15 |
-| Arbitrage / laundering | Rate gaps, promo stacking, or weak identity binding let value be cycled or cashed out | Operators (fraud loss); the funds-transfer / AML regime if value becomes cash-like |
-| Cash-equivalence drift | A freely exchangeable, redeemable point starts behaving like money | Regulatory boundary — Payment Services Act analysis |
+| Settlement / counterparty | If settlement occurs after customer conversion, an operator may face unsecured exposure to its counterparty | Contract, settlement schedule, prefunding / security, insolvency terms |
+| Rate exposure | A consumer ratio change can alter customer value; a wholesale-rate exposure exists only if the commercial contract creates it | Dated consumer terms plus commercial pricing / hedging terms |
+| Breakage estimation | Exchange availability may change exercise behaviour and therefore an estimate for a recognised obligation | Entity model, historical data, accounting-policy note |
+| Fraud / laundering | Multiple routes, promotion stacking, or weak identity binding may create abuse paths | Limits, KYC / identity controls, reversals, monitoring evidence |
+| Cash-equivalence drift | Broad transferability or redemption may change the Payment Services Act analysis | Exact product rights, flow of funds, legal-entity registration |
+
+Sources: the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), FSA [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), and named programmes' public terms. This is a scenario taxonomy, not a finding about private contracts or regulated status.
 
 ### Settlement and counterparty risk
 
-Exchange edges settle **bilaterally and net**, not in real time. Between the moment a consumer converts and the moment the two operators settle cash, there is a window in which the originating operator owes the receiving operator. A large, sudden conversion event (a viral "convert before the rate changes" campaign) concentrates this exposure. The receiving operator carries a fresh liability it must honour on redemption regardless of whether the originating operator's settlement has cleared.
+If an exchange contract uses delayed bilateral net settlement, a timing gap could create counterparty exposure. If it uses prefunding, real-time gross settlement, collateral, or an agent structure, the exposure differs. No named-programme conclusion is drawn without the commercial contract.
 
 ### Rate / FX-like exposure
 
-Because each edge has a soft-pegged consumer ratio, a point held *because* it can be exchanged carries quasi-currency risk. When an operator revises a ratio — or, as ANA publicly signalled for its Rakuten-point exchange, lengthens the transfer window and introduces per-day redemption caps — the practical value and liquidity of the held balance change. Holders chasing the best exchange path behave like FX traders; operators set ratios and caps the way a currency board manages a peg.
+A published exchange ratio can change the customer's practical redemption value, and caps or transfer windows can affect liquidity. Calling the private economics “FX exposure” is only an analogy; it does not establish an operator position, hedge, or settlement rate.
 
 ### Breakage mis-estimation
 
-Transferability extends effective life. A point that can be parked in a high-value sink (airline mileage, a partner program with longer expiry) gets redeemed later, or shifted rather than abandoned. That stretches the **breakage** assumption that, under both ASBJ Statement No.29 and IFRS 15, governs *when* deferred point revenue is recognised. Optimistic breakage on a transferable point recognises revenue too early; the exchange network is exactly where that estimate is hardest to defend, and where the disclosure norms pushed by the Cashless Promotion Council / Payments Japan (comparable redemption-rate, expiry, and outstanding-balance reporting) bite hardest.
+Exchange availability may change redemption behaviour and therefore an entity's breakage estimate for a recognised obligation. Direction and magnitude require historical evidence; transferability does not automatically lengthen life or determine revenue timing.
 
 ### Arbitrage and laundering vectors
 
@@ -77,19 +80,20 @@ A point that is freely transferable, broadly redeemable, and effectively refunda
 
 The network is not a uniform mesh. It is a set of soft-pegged edges with airline mileage acting as the dominant high-value sink.
 
-| Edge (publicly documented) | Consumer direction | Character |
+| Public consumer route | What public terms can establish | Commercial facts not established |
 |---|---|---|
-| Rakuten Point ↔ ANA mileage | mutual; ~2 pt = 1 mile inbound | longest-standing (mutual exchange since 2004) |
-| Rakuten Point ↔ JAL mileage | mutual; ~2 pt = 1 mile in, ~1 mile = 0.8 pt at scale out | added 2022; explicit asymmetric reverse rate + monthly cap |
-| dポイント ↔ JAL mileage | toward miles; **base points only**, limited-use excluded | telco point into airline sink |
-| Pontaポイント ↔ JAL mileage | mutual; bilateral net-settlement with JMB | mature; predates several peers operationally |
+| Rakuten Point / airline mileage | Current direction, consumer ratio, unit, cap, and transfer window | Wholesale rate, margin, settlement cycle, insolvency allocation |
+| dポイント / JAL mileage | Current direction and eligibility, including excluded point types | Funding party, recognition event, commercial settlement |
+| Pontaポイント / JAL mileage | Current direction, ratio, unit, and eligibility | Bilateral pricing, netting, credit support, operator economics |
+
+Sources: published consumer terms from [Rakuten Point](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [ANA](https://www.ana.co.jp/en/jp/shoppingandlife/point/tukau_rakuten/), [Ponta](https://www.ponta.jp/), and [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/). Private settlement mechanics are intentionally excluded.
 
 The structural reading: **common points (Rakuten, d, Ponta) are the broad on-ramps; airline mileage is the deep sink.** Value flows toward mileage because that is where per-unit value and emotional redemption value are highest, which is also why the reverse edges are throttled. For the program-by-program map feeding these edges, see [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]; for the airline-side mechanics of the sink, see [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]].
 
 ## Why this matters for JapanFG / financial analysis
 
-- **Liability is non-additive.** A high point balance on one operator's IR slide is not a system-wide total, and part of it may be in transit to another balance sheet. Aggregate "Japan point economy" figures (the ~2.8 trillion yen Yano Research market sizing is a *market* figure, not a summed liability) should never be read as a sum of operator liabilities.
-- **Acquiring a point operator imports its edges.** A bank or telco buying into a common point ([[megabanks/smfg|SMFG]] via V-Point / CCCMK, [[megabanks/ndfg|NDFG]] via dポイント, [[payment-firms/rakuten-fg|Rakuten FG]] internally) inherits the settlement relationships, the breakage-estimation problem, and the cash-equivalence boundary — not just a marketing asset.
+- **Balances may not be additive.** Check reporting perimeters, recognition events, and conversion-in-transit treatment before aggregating.
+- **Ownership does not reveal contracts.** A bank or telco investment in a point operator does not by itself identify settlement relationships or accounting obligations.
 - **Exchange is the cash-like pressure valve.** The richer the exchange network, the closer the most-liquid points sit to the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer / prepaid boundary]]. Operators that have layered card, bank, and securities products on top of a point ([[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]]) have the most to lose if a regulator reclassifies a flagship point as cash-equivalent.
 
 ## Related
@@ -116,4 +120,4 @@ The structural reading: **common points (Rakuten, d, Ponta) are the broad on-ram
 - ANA Mileage Club — Rakuten Point exchange terms (consumer ratio, transfer window, redemption caps).
 - Rakuten Point Club official guidance — exchange minimums, increments, and monthly caps.
 - ASBJ Statement No.29, "Accounting Standard for Revenue Recognition" (収益認識に関する会計基準) — breakage and contract-liability framing.
-- Payments Japan Association / Cashless Promotion Council — code-payment disclosure norms.
+- Payment Services Act and FSA registration lists — regulatory issue-spotting boundary.

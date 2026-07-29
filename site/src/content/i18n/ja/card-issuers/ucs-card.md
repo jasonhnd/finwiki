@@ -1,49 +1,52 @@
 ---
 source: card-issuers/ucs-card
-source_hash: 16a7accf84b864ab
+source_hash: dbbd44368e439f83
 lang: ja
 status: machine
 fidelity: ok
 title: "UCSカード (UCS)"
-translated_at: 2026-06-02T16:33:58.523Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
+
 # UCSカード (UCS)
 
 
-## ウィキ上の位置づけ
+## Wiki route
 
-このエントリは [[card-issuers/INDEX|card-issuers INDEX]] 配下に位置する。ピア比較・対比の文脈では [[card-issuers/life-card|ライフカード (Life Card)]]、より広い制度・規制境界では [[payments/INDEX|payments index]] と照らして読む。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/life-card|ライフカード (Life Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
-UCS は、クレジットカード、majica 電子マネー、保険代理店などを扱う小売金融事業者である。公式会社概要はクレジットカード事業、電子マネー事業、保険代理店事業を明示しており、PPIH / UNY / Don Quijote 系の決済・ロイヤルティ境界を読む入口になる。
+UCSは credit card、majica electronic money、insurance agency などを扱う retail finance operator。公式会社概要はクレジットカード事業、電子マネー事業、保険代理店事業を明示しており、PPIH / UNY / Don Quijote 系の payment and loyalty boundary を読む入口になる。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| Item | Reading |
 |---|---|
-| 法人 | 株式会社UCS |
-| 主要領域 | クレジットカード、majica 電子マネー、保険代理店、リース / 金商法隣接サービス |
-| 小売文脈 | PPIH / UNY / majica の決済・ロイヤルティエコシステム |
-| 規制ルート | 公式プロフィールに貸金業登録が示されている。カード信用管理については割賦販売法上の登録事業者一覧を参照。 |
+| Legal entity | 株式会社UCS |
+| Main lanes | Credit card, majica electronic money, insurance agency, leasing / FIEA-adjacent services |
+| Retail context | PPIH / UNY / majica payment and loyalty ecosystem |
+| Regulatory route | Lending registration shown in official profile; Installment Sales Act lists for card-credit control. |
 
-## 2. 事業上の役割
+Sources: [UCS会社概要](https://www.ucscard.co.jp/company/com/profile/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
 
-- 小売店舗への来店頻度を、カード利用と majica の前払残高 / ロイヤルティ活動へ変換する。
-- カード発行会社、電子マネー、リテールデータ基盤の間に位置する。
-- [[card-issuers/aeon-financial-service|AEON]]、[[card-issuers/seven-card-service|Seven]]、PPIH の小売金融モデルを、小売起点の発行会社ピアである [[card-issuers/epos-card|EPOS]] と並べて比較するのに有用である。
+## 2. Business role
 
-## 3. 独立ページとする理由
+- Converts retail-store frequency into card usage and majica stored-value / loyalty activity.
+- Sits between card issuer, electronic money, and retail data platform.
+- Useful for comparing [[card-issuers/aeon-financial-service|AEON]], [[card-issuers/seven-card-service|Seven]], and PPIH retail finance models alongside [[card-issuers/epos-card|EPOS]] for retail-origin issuer peers.
 
-UCS は、親グループが銀行を主業としない場合でも財務的に重要になり得る小売決済インフラの好例である。
+## 3. Why this standalone page matters
 
-## 関連項目
+UCS is a good example of retail payment infrastructure that is financially material even when the parent group is not primarily a bank.
+
+## Related
 
 - [[payments/cashless-jp-landscape]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[loyalty/japan-points-landscape]]
 
-## 出典
+## Sources
 
-- UCS 会社概要: https://www.ucscard.co.jp/company/com/profile/
-- METI 割賦販売法上の登録事業者一覧: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- UCS company profile: https://www.ucscard.co.jp/company/com/profile/
+- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html

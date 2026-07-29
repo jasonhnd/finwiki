@@ -1,40 +1,44 @@
 ---
 source: card-issuers/shizugin-card
-source_hash: ec9f7089a1327738
+source_hash: 5d54a6f4dade6239
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "しずぎんカード"
-translated_at: 2026-06-26T08:32:15.218Z
+title: "しずぎんカード (Shizugin Card / Shizuoka Bank Card)"
+translated_at: 2026-07-29T07:29:14.000Z
 ---
-# しずぎんカード
+# しずぎんカード (Shizugin Card / Shizuoka Bank Card)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[card-issuers/INDEX|card-発行会社 INDEX]] の配下に置き、[[regional-banks/shizuoka-fg|しずおか FG]] グループ（[[regional-banks/shizuoka-bank|静岡銀行]] 母体）の FG 子会社クレジットカード事業会社アンカーとして扱う。親銀行である [[regional-banks/shizuoka-bank|静岡銀行]]、および兄弟会社の静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証とあわせて読む。比較対象は、めぶきカード、ちばぎんカード、[[card-issuers/ucs-card|UCS カード]]（旧名古屋鉄道系）、横浜銀行系のはまぎんファイナンスなどの地銀系クレジットカード会社、および [[card-issuers/smbc-card|三井住友カード]] / [[card-issuers/credit-saison|クレディセゾン]] / [[card-issuers/rakuten-card|楽天カード]] / [[card-issuers/seven-card-service|セブンカードサービス]] / [[card-issuers/paypay-card|PayPay カード]] / [[card-issuers/epos-card|エポスカード]] / [[card-issuers/life-card|ライフカード]] / [[card-issuers/aplus|アプラス]] / [[card-issuers/pocket-card|ポケットカード]] などの大手カード発行会社。より広い制度上の位置づけは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]]、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
+This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]] as the FG-subsidiary credit-card operating-company anchor for [[regional-banks/shizuoka-fg|しずおか FG]] グループ ([[regional-banks/shizuoka-bank|静岡銀行]] 母体)。Read it against parent operating bank [[regional-banks/shizuoka-bank|静岡銀行]] and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / [[card-issuers/ucs-card|UCS カード]] (旧 名古屋鉄道系) / 横浜銀のはまぎんファイナンス etc.) and major card-issuers [[card-issuers/smbc-card|三井住友カード]] / [[card-issuers/credit-saison|クレディセゾン]] / [[card-issuers/rakuten-card|楽天カード]] / [[card-issuers/seven-card-service|セブンカードサービス]] / [[card-issuers/paypay-card|PayPay カード]] / [[card-issuers/epos-card|エポスカード]] / [[card-issuers/life-card|ライフカード]] / [[card-issuers/aplus|アプラス]] / [[card-issuers/pocket-card|ポケットカード]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
-## 要約株式会社しずぎんカード (Shizugin Card / Shizuoka Bank Card) は、[[regional-banks/shizuoka-fg|しずおか FG (東証 PRIME 5831)]] グループのクレジットカード子会社で、中核子会社 [[regional-banks/shizuoka-bank|静岡銀行]] (静岡県シェア No.1 / 製造業集積地メインバンク) の個人 / 法人顧客基盤を背景に、**静岡県地盤の銀行発クレジットカード** (JCB / VISA / Master ブランド) ・ローン・キャッシング・収納代行・電子マネー・QR 決済関連サービスを提供。地銀系クレカ会社の典型モデル で、銀行口座連動・地域加盟店ネットワーク・地域経済圏内決済の機能を担う。[[regional-banks/shizuoka-fg]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
+## TL;DR
+
+株式会社しずぎんカード (Shizugin Card / Shizuoka Bank Card) は、[[regional-banks/shizuoka-fg|しずおか FG (東証 PRIME 5831)]] グループのクレジットカード子会社で、中核子会社 [[regional-banks/shizuoka-bank|静岡銀行]] (静岡県シェア No.1 / 製造業集積地 main bank) の個人 / 法人顧客基盤を背景に、**静岡県地盤の銀行発クレジットカード** (JCB / VISA / Master ブランド) ・ローン・キャッシング・収納代行・電子マネー・QR 決済関連サービスを提供。地銀系クレカ会社の典型 model で、銀行口座連動・地域加盟店ネットワーク・地域経済圏内決済の機能を担う。[[regional-banks/shizuoka-fg]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
 
 ## 1. 会社概要
 
-| 項目 | メモ |
+| Item | Notes |
 |---|---|
 | 正式名 | 株式会社しずぎんカード |
-| 英文名 | Shizuoka Bank Card Co., Ltd. (Shizugin Card) |
+| English name | Shizuoka Bank Card Co., Ltd. (Shizugin Card) |
 | 親会社 | [[regional-banks/shizuoka-fg|しずおか FG]] グループ (中核子会社 [[regional-banks/shizuoka-bank|静岡銀行]] 連結) |
 | 設立 | 1983-04-01 ([[regional-banks/shizuoka-bank|静岡銀行]] 系として設立)。2022-10 [[regional-banks/shizuoka-fg|しずおか FG]] 発足で親会社が静岡銀行→しずおか FG に変更、2023-08-01 付で現社名「静銀カード株式会社」に商号変更 (本店: 静岡市清水区草薙) |
 | 主要事業 | クレジットカード発行 / ショッピングクレジット / カードローン / キャッシング / 収納代行 / 電子マネー / QR 決済関連 |
 | 規制 | 割賦販売法 (割販法) / 貸金業法 / 資金決済法 (関連業務に応じて) |
 | 上場区分 | 非上場 ([[regional-banks/shizuoka-fg]] グループ) |
-| ウィキ上の役割 | しずおか FG 系クレジットカード子会社 anchor |
+| Wiki role | しずおか FG 系クレジットカード子会社 anchor |
+
+Sources: [静銀カード会社案内](https://shizugin-card.shizuokabank.co.jp/company/) and [しずおかFG会社概要・沿革](https://www.shizuoka-fg.co.jp/company/gaiyo-history.html). The company source supports the legal entity and establishment information; group-structure changes should be checked against current FG disclosure.
 
 ### 持株ツリー (しずおか FG グループ簡略図)
 
 ```
 [[regional-banks/shizuoka-fg|しずおか FG]] (持株会社・上場 5831、2022-10-03 設立)
-  ├── [[regional-banks/shizuoka-bank|静岡銀行]] (100%) ── 中核子会社・静岡県シェア No.1・製造業集積地 メインバンク
-  │     └── 自動車 (スズキ・ヤマハ発動機) / 楽器 (ヤマハ・ローランド) / 食品・お茶 メインバンク
+  ├── [[regional-banks/shizuoka-bank|静岡銀行]] (100%) ── 中核子会社・静岡県シェア No.1・製造業集積地 main bank
+  │     └── 自動車 (スズキ・ヤマハ発動機) / 楽器 (ヤマハ・ローランド) / 食品・お茶 main bank
   ├── 静銀ティーエム証券 (100%) ── グループ証券
   ├── しずぎんリース (100%) ── グループリース
   ├── しずぎんカード (100%、本ページ) ── グループクレジットカード
@@ -61,12 +65,14 @@ translated_at: 2026-06-26T08:32:15.218Z
 |---|---|
 | [[regional-banks/shizuoka-bank|静岡銀行]] | 個人 / 法人顧客紹介、銀行口座連動カード発行、キャッシュカード一体型 |
 
-### 地銀系クレジットカード比較対象比較
+### 地銀系クレジットカード peer 比較
 
 | クレジットカード子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
 |---|---|---|---|---|
 | **しずぎんカード** (本ページ) | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 (2022-10-) | 静岡県 | 親 5831 |
 | はまぎんファイナンス (カード・信用保証) | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
+
+Sources: [静銀カード会社案内](https://shizugin-card.shizuokabank.co.jp/company/) for the issuer and [しずおかFG会社概要・沿革](https://www.shizuoka-fg.co.jp/company/gaiyo-history.html) for the parent-group context. The peer row is illustrative only and should be verified against the peer's current disclosure.
 
 ### 大手カードイシュアーとの競合
 
@@ -92,7 +98,7 @@ translated_at: 2026-06-26T08:32:15.218Z
 
 ### 規制論点
 
-- **割販法改正 (2018-)**: 加盟店契約者 (アクワイアラ) の義務強化、セキュリティ対策義務 (PCI DSS 準拠)
+- **割販法改正 (2018-)**: 加盟店契約者 (acquirer) の義務強化、セキュリティ対策義務 (PCI DSS 準拠)
 - **改正割販法 (2020-)**: 利用者保護強化 (与信審査・利用上限管理・苦情処理体制)
 - **個人情報保護法 (2022-改正)**: クレジットカード会員情報の越境移転・適正取得義務
 - **キャッシュレス推進**: 経産省キャッシュレスビジョン 2025・「2025 年キャッシュレス比率 40%」目標下で加盟店手数料水準論争
@@ -103,7 +109,7 @@ translated_at: 2026-06-26T08:32:15.218Z
 
 - **単体財務 KPI**: 親 [[regional-banks/shizuoka-fg]] 有価証券報告書注記 / セグメント情報で部分開示 (資本金 5,000 万円・従業員 81 名 = 静銀カード公式会社案内)
 
-## 関連項目
+## Related
 
 - [[regional-banks/shizuoka-fg]] · [[regional-banks/shizuoka-bank]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]]
 - [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/yokohama-bank]] · [[regional-banks/chiba-bank]] · [[regional-banks/iyogin-hd]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/yamaguchi-fg]]
@@ -112,14 +118,14 @@ translated_at: 2026-06-26T08:32:15.218Z
 - [[payment-firms/bnpl-landscape]] · [[payment-firms/atone]] · [[consumer-finance/acom]] · [[consumer-finance/aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[card-issuers/INDEX|card-発行会社 INDEX]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 
-## 出典
+## Sources
 
 - **静銀カード株式会社 公式サイト — 会社案内** (https://shizugin-card.shizuokabank.co.jp/company/, 設立 1983-04-01 / 資本金 5,000 万円 / 従業員 81 名 / 本店 静岡市清水区草薙)
 - **Wikipedia: 静銀カード** (https://ja.wikipedia.org/wiki/静銀カード, 1983-04 設立経緯 / 2006-03 しずぎん joyca / 2022-10 親会社変更 / 2023-08-01 現社名へ商号変更)
 - **静岡銀行 公式サイト** (https://www.shizuokabank.co.jp/, グループ会社情報)
-- **しずおか FG 公式 IR** (https://www.shizuokafg.co.jp/)
+- **しずおか FG 会社概要・沿革** (https://www.shizuoka-fg.co.jp/company/gaiyo-history.html)
 - **EDINET 有価証券報告書 (しずおか FG 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
 - **日本クレジット協会** (https://www.j-credit.or.jp/, 加盟事業者名簿)
 - **Wikipedia: しずぎんカード / 静岡銀行 / しずおかフィナンシャルグループ** (2026-05-25 抽出)
@@ -127,4 +133,4 @@ translated_at: 2026-06-26T08:32:15.218Z
 ---
 
 > [!info] 検証状況
-> 確度: **高め** (FG 系クレジットカード子会社アンカーを作成 2026-05-25)。[[regional-banks/shizuoka-fg]] ページは持株会社戦略 (2022-10 HD 化) を扱い、本ページは クレジットカード子会社の事業境界 を扱う。設立年 (1983-04-01) ・親会社変更 (2022-10 しずおか FG) ・現社名「静銀カード」への商号変更 (2023-08-01) は静銀カード公式会社案内で確認済 (出典下記)。ブランド変遷は DC フランチャイジー→2006-03「しずぎん joyca」信用保証→2023 JCB 加盟店関連・法人カード取扱開始。カード発行枚数・取扱高の精緻値は単体非開示のため親 [[regional-banks/shizuoka-fg]] 有報セグメント情報を参照。
+> confidence: **likely** (FG credit-card-subsidiary anchor created 2026-05-25)。[[regional-banks/shizuoka-fg]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは credit-card-subsidiary operating boundary を扱う。設立年 (1983-04-01) ・親会社変更 (2022-10 しずおか FG) ・現社名「静銀カード」への商号変更 (2023-08-01) は静銀カード公式会社案内で確認済 (出典下記)。ブランド変遷は DC フランチャイジー→2006-03「しずぎん joyca」信用保証→2023 JCB 加盟店関連・法人カード取扱開始。カード発行枚数・取扱高の精緻値は単体非開示のため親 [[regional-banks/shizuoka-fg]] 有報セグメント情報を参照。

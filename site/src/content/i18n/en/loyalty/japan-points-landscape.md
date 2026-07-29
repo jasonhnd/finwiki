@@ -1,11 +1,11 @@
 ---
 source: loyalty/japan-points-landscape
-source_hash: 58c6574957e51359
+source_hash: 4068f67c0c37042f
 lang: en
 status: machine
 fidelity: ok
 title: "Japan points and loyalty landscape"
-translated_at: 2026-05-30T14:48:27.666Z
+translated_at: 2026-07-29T07:52:14.000Z
 ---
 
 # Japan points and loyalty landscape
@@ -35,6 +35,8 @@ The key split is:
 | nanaco point | Seven & i | Convenience / supermarket / nanaco / Seven Card retention | [[retail/seven-and-i-hd|Seven & i]], [[regional-banks/seven-bank|Seven Bank]] |
 | Credit card points | JCB, SMBC, MUFG, Saison, AEON, Rakuten, PayPay Card | Issuer loyalty and interchange-defense layer | [[card-issuers/jcb|JCB]], [[card-issuers/credit-saison|Credit Saison]] |
 
+Sources: [Rakuten Point guidance](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [d Point](https://dpoint.docomo.ne.jp/), [V Point's 2024 unification release](https://www.ccc.co.jp/en/news/press/20240109_002347.html), [WAON](https://www.waon.net/point/), and [nanaco](https://www.nanaco-net.jp/introduction/). The categories are a product-map summary, not a market-share ranking.
+
 ## Legal / Accounting Boundary
 
 Do not assume all "points" are legally identical.
@@ -46,7 +48,9 @@ Do not assume all "points" are legally identical.
 | Electronic money balance | "I charged WAON / nanaco / transit IC" | Payment Services Act prepaid layer is more central than ordinary loyalty accounting. |
 | Code-payment campaign point | "I got cashback" | Often promotion cost plus wallet lock-in; legal treatment depends on whether it is cash-equivalent or limited-use reward. |
 | Card reward point | "Card spend earns points" | Issuer economics, reward liability, interchange / installment economics, and merchant campaign funding are intertwined. |
-| Cross-program exchange | "I converted points" | FX-like rate setting, liability transfer, partner settlement, and anti-abuse controls become important. |
+| Cross-program exchange | "I converted points" | Check the public ratio / limits, obligor change, accounting recognition, partner-contract evidence, and anti-abuse controls; no universal liability-transfer or settlement entry applies. |
+
+Sources: the official programme guidance for [Rakuten Point](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [d Point](https://dpoint.docomo.ne.jp/), [WAON](https://www.waon.net/point/), and [nanaco](https://www.nanaco-net.jp/introduction/). The table is a framework for classifying customer-facing value, not a legal classification.
 
 ## Strategic Pattern
 
@@ -82,6 +86,8 @@ WAON and nanaco are retail-operating systems first. They bind daily grocery / co
 | Which telco finance group has the best cross-sell base? | [[megabanks/ndfg|NDFG]] if d Point + d払い + d Card are integrated cleanly. |
 | Which PSPs benefit indirectly? | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and other PSPs because merchants need multi-payment acceptance and campaign routing. |
 | Which legal page should be checked? | [[financial-licenses/INDEX|legal / financial licenses]] when a point becomes cash-like or transferable. |
+
+Sources: the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), and the programme sites cited above. The answers are issue-spotting prompts, not legal conclusions about any named programme.
 
 ## Related
 
