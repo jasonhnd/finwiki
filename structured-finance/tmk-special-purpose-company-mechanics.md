@@ -12,158 +12,144 @@ aliases:
   - "TMK vs GK-TK"
 domain: structured-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
-tags: [structured-finance, tmk, spv, asset-securitization-law, cmbs, j-reit, gk-tk, tax-pass-through, japan]
+tags: [structured-finance, tmk, spv, asset-securitization-law, japan]
 status: active
 sources:
-  - "https://www.fsa.go.jp/en/"
-  - "https://www.jsda.or.jp/en/"
-  - "https://www.jcr.co.jp/en/"
-  - "https://www.r-i.co.jp/en/"
-  - "https://www.ares.or.jp/en/"
-  - "Act on Securitization of Assets (資産流動化法) — public legislative text"
+  - "https://laws.e-gov.go.jp/law/410AC0000000105"
+  - "https://laws.e-gov.go.jp/law/332AC0000000026"
+  - "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/40/kageyama/ronsou.pdf"
+  - "https://laws.e-gov.go.jp/law/326AC1000000198"
 ---
 
 # TMK (特定目的会社) special-purpose-company mechanics
 
 ## TL;DR
 
-**TMK — Tokutei Mokuteki Kaisha (特定目的会社, Specified-Purpose Company)** is the **statutory securitization vehicle** under Japan's **Act on Securitization of Assets (資産流動化法, 1998)** — the regulated SPV form designed specifically for asset-backed securities issuance. Unlike the [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK-GK private-placement workhorse]], TMK is **governed by a dedicated statute** rather than the general Companies Act, requires an **asset liquidation plan (資産流動化計画)** filed with regulators, and can issue **specified bonds (特定社債)**, **specified short-term bonds**, and **preferred contributions (優先出資)** publicly to investors. The distinctive **tax treatment** is the structural feature that makes TMK the preferred vehicle for many listed CMBS, certain large-scale real-estate securitization deals, and complex multi-tranche structures: **profit distributions to investors are deductible at the TMK level**, achieving effective **single-layer taxation** if statutory distribution requirements are met (typically 90%+ of distributable profit).
-
-For FinWiki, TMK is the **regulated-statutory-SPV node** in the Japan securitization landscape. The choice between TMK and [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] is the **foundational securitization-vehicle-choice decision** for arrangers — TMK for public-bond issuance, regulatory-disclosure deals, listed CMBS, complex structures; GK-TK for private-placement, flexible-bilateral deals, faster-formation private real-estate securitization. TMK is also a **distinct vehicle from the [[real-estate-finance/j-reit-market-overview|J-REIT investment corporation (投資法人)]]** — both are tax-pass-through real-estate vehicles but operate under different statutes (Asset Securitization Act vs Investment Trust Act).
+A TMK is a specified-purpose company under Japan's Asset Securitization Act. It follows the Act's notification and asset-liquidation-plan requirements and may use the instruments authorized by the statute and plan. TMK status alone does not establish public offering, exchange listing, tax pass-through, bankruptcy remoteness, accounting derecognition, a CMBS use case, investor base, rating or governance practice. The commonly cited “over 90%” distribution test is only one of multiple tax conditions.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **TMK statutory-SPV node** — the regulated-securitization counterpart to the [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] private-placement workhorse. Read against [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK / GK / TMK / SPC vehicle choice (Japan tax)]] for the full vehicle-choice tree, [[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]] for the principal CMBS use case, [[structured-finance/japan-trust-beneficial-interest-vs-spv|Japan trust beneficial interest vs SPV]] for the trust-vs-SPV alternative, and [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for rating treatment. Cross-domain: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the investment-corporation alternative, [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]] for the cross-domain real-estate-finance frame, [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]] for the alternative real-estate-SPV path.
+Use this page with [[structured-finance/spv-tk-gk-vehicle-japan-tax]], [[structured-finance/japan-trust-beneficial-interest-vs-spv]], and [[structured-finance/japan-securitization-product-matrix]]. Named CMBS or J-REIT claims require their own transaction documents.
 
-## 1. Legal basis — Act on Securitization of Assets
+## 1. Statutory identity
 
-| Item | TMK statutory basis |
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) supports the following table.
+
+| Field | Verified statutory boundary |
 |---|---|
-| Statute | Act on Securitization of Assets (資産流動化法, 1998; amended multiple times) |
-| Successor to | The 1998 SPC Act, expanded over time to cover wider asset classes |
-| Regulatory authority | FSA (formation registration, asset liquidation plan filing, ongoing supervision) |
-| Vehicle name | Tokutei Mokuteki Kaisha (TMK, 特定目的会社, Specified-Purpose Company) |
-| Statutory purpose | Asset securitization (statutorily restricted purpose — TMK cannot engage in general business activities outside securitization) |
-| Asset liquidation plan | Required filing — describes assets to be securitized, expected cash flows, securities to be issued, redistribution mechanism |
+| Entity | Tokutei Mokuteki Kaisha (特定目的会社) |
+| Governing statute | Asset Securitization Act |
+| Regulatory procedure | Required notification and asset-liquidation-plan filing; avoid the shorthand “formation registration” |
+| Activities | Those permitted under the Act and the filed plan |
+| Specified assets / financing | Described in the plan and transaction documents |
+| Offer / listing | Determined separately under FIEA, offer terms and exchange rules |
 
-The statutory restriction on activities is a key feature: TMK's bankruptcy-remote character comes partly from the statutory limitation that prevents the TMK from incurring liabilities outside its asset-securitization purpose.
+Statutory purpose limitations are one input to an insolvency analysis, not proof of bankruptcy remoteness.
 
-## 2. Issuance instruments
+## 2. Instruments
 
-TMK can issue several types of securities to investors:
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) supports the instrument categories in the following table.
 
-| Instrument | Description |
+| Instrument / financing | Evidence required |
 |---|---|
-| **Specified bonds (特定社債)** | Senior debt; can be publicly placed; covered by the asset liquidation plan |
-| **Specified short-term bonds (特定短期社債)** | Short-tenor debt under the same regime |
-| **Preferred contributions (優先出資)** | Equity-like; investors receive preferred distribution rights; tax-pass-through (if statutory conditions met) |
-| **Common contributions (普通出資)** | Subordinated equity; typically held by originator or B-piece investor |
-| **Specified loans** | TMK can also borrow under the asset liquidation plan |
+| Specified bonds | Act, asset-liquidation plan and named offer terms |
+| Specified short-term bonds | Act, plan and named issue terms |
+| Preferred contributions | Act, plan and contribution terms |
+| Common contributions | Formation and plan documents |
+| Borrowing | Plan and loan documents |
 
-The combination of specified bonds (senior debt) and preferred contributions (mezzanine/equity tranches) enables **multi-tranche capital-structure** that mirrors international securitization conventions.
+The existence of these categories does not prove a public placement, listing, retained equity, multi-tranche structure or a particular holder.
 
-## 3. Tax treatment — the distinctive feature
+## 3. Conditional tax treatment
 
-| Element | TMK tax treatment |
+[The Tax Special Measures Act](https://laws.e-gov.go.jp/law/332AC0000000026) and [National Tax College review](https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/40/kageyama/ronsou.pdf) support the following tax checklist.
+
+| Element | Evidence-bound treatment |
 |---|---|
-| Corporate income tax | TMK is a corporation; subject to corporate tax in principle |
-| Distribution deductibility | **Distributions to preferred contributors and specified-bond holders (interest) are deductible at TMK level** |
-| Effective pass-through | If distribution exceeds 90%+ of distributable profit (statutory condition), residual taxable income at TMK is minimal — effective single-layer taxation |
-| Statutory conditions for pass-through | Public-offering / qualified-institutional-investor offering conditions, distribution-ratio condition, asset-management restriction conditions |
-| Comparison to GK-TK | GK-TK achieves pass-through via TK overlay; TMK achieves pass-through via direct distribution deductibility |
-| Comparison to J-REIT | J-REIT (investment corporation) achieves pass-through via similar 90% distribution rule under Investment Trust Act |
-| Withholding tax | Distributions to investors may be subject to withholding depending on investor classification |
+| Entity tax | TMK is a corporation and is taxable in principle |
+| Distribution deduction | Available only when the entity and distribution satisfy all current statutory requirements |
+| Distribution-ratio condition | The cited threshold is a distribution exceeding 90% of distributable profit; it is not the only condition |
+| Other conditions | Offering / investor, ownership, asset-management and other requirements must also be tested |
+| Bond interest | Analyze as debt interest under applicable rules; do not conflate with preferred-contribution distributions |
+| Withholding | Depends on payment and investor facts |
 
-The **distribution deductibility** mechanism makes TMK behave economically like a pass-through vehicle while remaining a corporation legally. This is the cleanest pass-through mechanism for public-bond issuance.
+No “cleanest pass-through” or automatic single-layer-taxation claim is retained.
 
-## 4. Comparison with GK-TK
+## 4. Comparison with GK plus TK
 
-| Dimension | TMK | [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] |
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105), [Companies Act](https://laws.e-gov.go.jp/law/417AC0000000086), and [Commercial Code](https://laws.e-gov.go.jp/law/132AC0000000048) support the legal-form comparison below.
+
+| Question | TMK | GK plus TK |
 |---|---|---|
-| Statutory basis | Act on Securitization of Assets | Companies Act (GK) + Commercial Code (TK) |
-| Formation | Asset liquidation plan filing; FSA-registered | Simpler — incorporate GK, sign TK contracts |
-| Public bond issuance | Yes — specified bonds publicly placeable | Limited — typically private placement |
-| Equity tranching | Yes — preferred + common contributions | TK-overlay provides pass-through to multiple TK investors |
-| Tax pass-through | Distribution deductibility at TMK level | TK-distribution deductibility at GK level |
-| Activity restriction | Statutorily restricted to securitization purpose | GK statutorily flexible; TK purpose set by contract |
-| Bankruptcy remoteness | Strong — statutory and contractual layers | Contractual only |
-| Typical use | Public-bond CMBS, large/complex deals, listed-securities deals | Private real-estate securitization, bilateral deals, faster-formation private placements |
-| Speed of formation | Slower (asset liquidation plan filing) | Faster |
-| Disclosure burden | Higher (FSA registration + ongoing disclosure) | Lower (private-placement disclosure regime) |
+| Entity law | Asset Securitization Act | Companies Act for GK |
+| Investor / financing layer | Instruments authorized by the Act and plan | TK contract and other GK financing |
+| Regulatory procedure | Notification and asset-liquidation plan | GK formation plus instrument / offer requirements |
+| Tax | Conditional TMK rules | GK and TK consequences require separate analysis |
+| Offer / listing | Transaction-specific | Transaction-specific |
+| Insolvency / accounting | Transaction-specific | Transaction-specific |
 
-## 5. TMK in current J-REIT structure
+Speed, disclosure burden and product preference are not asserted without a defined transaction population.
 
-A common confusion is the relationship between TMK and J-REIT. Both are tax-pass-through real-estate vehicles but operate under different statutes:
+## 5. TMK and investment corporations
 
-| Vehicle | Statute | Form |
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) and [Investment Trust and Investment Corporation Act](https://laws.e-gov.go.jp/law/326AC1000000198) support only the following entity distinction.
+
+| Entity | Statute | What follows |
 |---|---|---|
-| **TMK** | Asset Securitization Act | Specified-Purpose Company (corporation) |
-| **[[real-estate-finance/j-reit-market-overview|J-REIT investment corporation]]** | Investment Trust Act (投資信託法) | Investment corporation (投資法人) |
+| TMK | Asset Securitization Act | Specified-purpose-company regime |
+| Investment corporation / J-REIT vehicle | Investment Trust and Investment Corporation Act | Separate investment-corporation regime |
 
-In **current J-REIT practice**, TMK is sometimes used at the **sub-vehicle level**:
+Warehouse, subvehicle, foreign-investor and tax-efficient use cases require a named public transaction and are not generalized here.
 
-| Use case | Description |
+## 6. Named CMBS or other transaction
+
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) supplies the entity law; the following fields still require the named deal.
+
+| Claim | Required public evidence |
 |---|---|
-| J-REIT acquires TMK preferred contributions | Some J-REIT hold TMK preferred contributions rather than direct real-estate ownership, particularly for tax-efficient structuring of certain asset classes |
-| Sponsor-side TMK as warehouse | Sponsors may use TMK to warehouse stabilized assets before J-REIT acquisition |
-| TMK for non-J-REIT-eligible assets | Asset classes that don't fit J-REIT criteria may be held in TMK structures by institutional investors |
-| TMK for foreign-investor real-estate | Some foreign-LP real-estate investments use TMK structures for tax / withholding treatment |
+| TMK is issuer | Offering / issuer document |
+| Collateral | Asset-liquidation plan and transaction disclosure |
+| Public or listed status | Offer filing and exchange record |
+| Tranches / priority | Named terms and waterfall |
+| Rating | Dated class-specific agency action |
+| Investor / distributor | Public allocation or transaction disclosure |
+| Market dominance | Defined population, period and calculation |
 
-The TMK-J-REIT interaction is important for understanding the broader Japanese real-estate-vehicle ecosystem; TMK is a building block that can sit inside or alongside J-REIT investment corporations.
+## 7. Governance and ongoing obligations
 
-## 6. TMK in listed CMBS
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) and the named entity filings support the following review checklist.
 
-| TMK CMBS feature | Reading |
+| Field | Evidence required |
 |---|---|
-| Issuer entity | TMK (specified-purpose company under Asset Securitization Act) |
-| Issuance | Specified bonds publicly placed; tranched by seniority |
-| Collateral | Commercial real-estate-backed mortgage loan(s) or trust beneficial interests in commercial real estate |
-| Asset liquidation plan | Filed with FSA; sets out asset-cash-flow distribution mechanics |
-| Rating | Domestic agency ([[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]) typically; global agency ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) for foreign-investor-targeted deals |
-| Investor base | Life insurers, asset managers, megabank ALM books, foreign institutional investors |
-| Servicer / trustee | Trust bank or specialty servicer roles |
+| Directors / officers | Statute, articles and current filing |
+| Auditor | Statutory threshold / requirement and current filing |
+| Plan compliance | Filed asset-liquidation plan and amendments |
+| Investor reporting | Named instrument and contractual / disclosure obligations |
+| Regulatory reporting | Exact statutory provision and filing |
+| Wind-down | Plan, articles and transaction documents |
 
-TMK is the dominant structure for **single-borrower listed CMBS** in Japan (the post-2008 CMBS form per [[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]). The combination of public-bond issuance capability and tax-pass-through makes TMK the natural choice for listed-tranched CMBS deals.
+Do not assume independent professionals, an audit corporation, periodic FSA reporting or tax-condition compliance from the TMK label.
 
-## 7. TMK governance and ongoing obligations
+## Wiki route
 
-| Obligation | Description |
-|---|---|
-| Asset liquidation plan compliance | Activities restricted to those described in the asset liquidation plan |
-| Director composition | TMK has directors with statutory role; typically independent professional directors |
-| Auditor | Statutory auditor or audit corporation |
-| Ongoing disclosure | Periodic reporting on asset performance and bond status to investors and FSA |
-| Distribution mechanics | Distributions per the asset liquidation plan; statutory tax-pass-through conditions |
-| Wind-down | TMK winds down when assets are fully amortized or sold |
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
-- [[structured-finance/INDEX|structured-finance index]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK / GK / TMK / SPC vehicle choice (Japan tax)]]
-- [[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]
-- [[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]]
-- [[structured-finance/japan-trust-beneficial-interest-vs-spv|Japan trust beneficial interest vs SPV]]
-- [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
-- [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
-- [[structured-finance/japan-covered-bond-mufg-smbc|Japanese megabank covered bonds]]
-- [[structured-finance/japan-green-securitization|Japan green securitization]]
-- [[structured-finance/synthetic-securitization-japan-bank-rwa-relief|synthetic securitization Japan bank RWA relief]]
-- [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]
-- [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS and RMBS securitization]]
-- [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]
-- [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
-- [[INDEX|FinWiki index]]
+- [[structured-finance/INDEX]]
+- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
+- [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
+- [[structured-finance/japan-securitization-product-matrix]]
+- [[structured-finance/japan-cmbs-issuance-structure]]
+- [[real-estate-finance/j-reit-market-overview]]
 
 ## Sources
 
-- Act on Securitization of Assets (資産流動化法) — public legislative text (Japan Diet).
-- FSA — https://www.fsa.go.jp/en/
-- JSDA — https://www.jsda.or.jp/en/
-- JCR — https://www.jcr.co.jp/en/
-- R&I — https://www.r-i.co.jp/en/
-- ARES — https://www.ares.or.jp/en/
+- [Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105).
+- [Tax Special Measures Act](https://laws.e-gov.go.jp/law/332AC0000000026).
+- [National Tax College, review of distribution-deduction conditions](https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/40/kageyama/ronsou.pdf).
+- [Investment Trust and Investment Corporation Act](https://laws.e-gov.go.jp/law/326AC1000000198).

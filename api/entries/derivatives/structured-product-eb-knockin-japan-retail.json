@@ -27,9 +27,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -55,22 +55,24 @@
       "https://www.jsda.or.jp/en/",
       "https://www.jsda.or.jp/en/activities/research-studies/",
       "https://www.fsa.go.jp/policy/customer_first/index.html",
+      "https://www.daiwa.jp/products/bond/st/sheet/",
+      "https://www.daiwa.jp/products/bond/cb/",
       "https://www.smbcnikko.co.jp/",
       "https://www.daiwa.jp/",
       "https://www.nomura.co.jp/"
     ]
   },
-  "summary": "EB (Equity Bond) knock-in is the most-distributed structured-product format in Japan retail wealth management through 2022. Mechanically, the buyer is short a down-and-in put option on a single Japanese stock (or worst-of basket) in exchange for an enhanced coupon and (in autocallable variants) the",
+  "summary": "An EB (他社株転換可能債券) is a complex bond whose redemption may be made in shares of another company rather than cash, depending on the referenced share price and contractual terms. A knock-in clause can make the redemption outcome depend on whether a stated barrier is reached during the specified observat",
   "headings": [
     "EB knock-in structured product Japan retail",
     "TL;DR",
     "Wiki route",
     "Headline mechanics",
-    "Worst-of basket variant",
+    "Multi-reference and worst-of variants",
     "Autocallable feature",
     "Investor position equivalence",
     "At-maturity payoff scenarios",
-    "Knock-in observation type matters",
+    "Knock-in observation wording matters",
     "Pricing components for the dealer"
   ],
   "body_links": {
@@ -129,8 +131,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14415,
-    "word_like_tokens": 2219,
+    "nonspace_chars": 16667,
+    "word_like_tokens": 2724,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-06-04"
   }

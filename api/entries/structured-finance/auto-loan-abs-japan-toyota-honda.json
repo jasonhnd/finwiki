@@ -11,91 +11,79 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/auto-loan-abs-japan-toyota-honda.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda.md",
   "domain": "structured-finance",
-  "title": "Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)",
+  "title": "Auto-loan ABS in Japan — issuer and pool evidence guide",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)",
+    "title": "Auto-loan ABS in Japan — issuer and pool evidence guide",
     "aliases": [
-      "Japan auto-loan ABS",
-      "自動車ローンABS",
+      "Japan auto loan ABS",
       "Toyota Finance ABS",
       "Honda Finance ABS",
-      "Nissan Credit ABS",
-      "SMBC Auto ABS",
-      "Japan auto-finance securitization",
-      "JapanFG/nissan-finance"
+      "structured-finance/auto-loan-abs-japan-toyota-honda"
     ],
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
       "abs",
       "auto-loan",
-      "japan",
-      "captive-finance"
+      "japan"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/",
-      "https://www.jsda.or.jp/en/",
-      "https://www.toyota-finance.co.jp/"
+      "https://www.jsda.or.jp/en/statistics/securitization-market/",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf"
     ]
   },
-  "summary": "Auto-loan ABS in Japan are issued by captive finance subsidiaries of the Japanese auto OEMs and by bank-affiliated auto-finance companies. The largest repeat issuers are card-issuers/toyota-finance, leasing-firms/toyota-financial (for cross-border), Honda Finance, Nissan Credit, Mitsubishi UFJ Capit",
+  "summary": "The prior page asserted repeat-issuer rankings, largest originators, standard GK-TK vehicles, tranche stacks, APR/default behavior and investor categories without named public deals. Those claims are removed. A Japanese auto-loan ABS must be described from its named legal issuer, originator, pool cu",
   "headings": [
-    "Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)",
+    "Auto-loan ABS in Japan — issuer and pool evidence guide",
     "TL;DR",
     "Wiki route",
-    "1. Repeat issuers",
-    "2. Typical structure",
-    "3. Weighted-average APR",
-    "4. Default modeling",
-    "5. Lease ABS — residual-value risk",
-    "6. Investor base",
-    "7. Dealer floorplan ABS"
+    "1. Issuer and program",
+    "2. Pool",
+    "3. Structure and rating",
+    "4. Deferred claims",
+    "Wiki route",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 5,
     "wikilinks": [
-      "card-issuers/toyota-finance",
-      "leasing-firms/mitsubishi-hc-capital",
-      "leasing-firms/toyota-financial",
+      "finance/INDEX",
       "structured-finance/INDEX",
-      "structured-finance/consumer-loan-abs-japan-card-issuer",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
-      "structured-finance/japan-abs-market-overview",
-      "structured-finance/japan-trust-beneficial-interest-vs-spv",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax",
-      "trust-banks/sumitomo-mitsui-trust"
+      "structured-finance/japan-auto-loan-abs-waterfall-mechanics",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/card-issuers/toyota-finance/",
-      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
-      "https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
-      "https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/",
-      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/",
-      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+      "https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/",
+      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6620,
-    "word_like_tokens": 1062,
-    "inbound_wikilinks_count": 14,
+    "nonspace_chars": 3410,
+    "word_like_tokens": 526,
+    "inbound_wikilinks_count": 9,
     "last_modified": "2026-06-06"
   }
 }

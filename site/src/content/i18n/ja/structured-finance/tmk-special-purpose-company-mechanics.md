@@ -1,118 +1,138 @@
 ---
 source: structured-finance/tmk-special-purpose-company-mechanics
-source_hash: 28041f30b57616ff
+source_hash: 2bb12474c229d424
 lang: ja
 status: machine
 fidelity: ok
-title: "TMK（特定目的会社）特定目的会社整備士"
-translated_at: 2026-06-03T00:53:08.317Z
+title: "TMK（特定目的会社）の仕組み"
+translated_at: 2026-07-29T10:06:23.508Z
 ---
 
-# TMK（特定目的会社）特定目的会社整備士
-## 要約
-**TMK — 特定目的会社 (特定目的会社)** は、日本の **資産証券化法 (資産流動化法、1998)** に基づく **法定証券化手段**であり、資産担保証券の発行のために特別に設計された規制対象の SPV 形式です。 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK-GK private-placement workhorse]] とは異なり、TMK は一般的な会社法ではなく **専用の法令**によって管理されており、**資産流動化計画 (資産流動化計画)** を規制当局に提出する必要があり、**特定社債 (特定社債)**、**特定短期社債**、**優先拠出金 (優先優先)**を投資家に公開して発行することができます。独特の**税金処理**は、TMKを多くの上場CMBS、特定の大規模不動産証券化取引、および複雑なマルチトランシェ構造にとって優先される手段にする構造上の特徴です。**投資家への利益分配はTMKレベルで損金算入可能**で、法定の分配要件（通常、分配可能利益の90%+）を満たしていれば、効果的な**単層課税**が実現します。
-FinWiki にとって、TMK は日本の証券化業界における **規制対象の SPV ノード**です。 TMK と [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] のどちらを選択するかは、アレンジャーにとって **証券化手段の選択に関する基本的な決定**です。公債発行、規制上の開示取引、上場 CMBS、複雑な構造の場合は TMK。 GK-TKは、私募、柔軟な二国間取引、迅速な形成の私有不動産証券化を提供します。 TMK は **[[real-estate-finance/j-reit-market-overview|J-REIT investment corporation (投資法人)]]** とは異なる車両でもあります。どちらも不動産税転嫁車両ですが、異なる法律 (資産証券化法と投資信託法) に基づいて運営されています。
-## ウィキ上の位置づけ
-この項目は、**TMK 法定 SPV ノード** として [[structured-finance/INDEX|structured-finance index]] の下にあります。これは、私募の主力銘柄である [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] に相当する規制証券化サービスです。完全な車両選択ツリーについては [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK / GK / TMK / SPC vehicle choice (Japan tax)]]、主要な CMBS ユースケースについては [[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]、信頼対 SPV の代替については [[structured-finance/japan-trust-beneficial-interest-vs-spv|Japan trust beneficial interest vs SPV]]、および格付け処理については [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] に対して読み取ります。クロスドメイン: 投資法人の代替パスの場合は [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、クロスドメインの不動産-金融フレームの場合は [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]]、代替の不動産-SPV パスの場合は [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]。
-## 1。法的根拠 — 資産証券化法
-| アイテム | TMKの法的根拠 |
+# TMK（特定目的会社）の仕組み
+
+## TL;DR
+
+TMKは、日本の資産流動化法に基づく特定目的会社である。同法上の届出および資産流動化計画の要件に従い、法令と計画で認められた証券等を利用できる。TMKであるというだけでは、公募、取引所上場、税務上のパススルー、倒産隔離、会計上の認識中止、CMBSでの利用、投資家層、格付、ガバナンス慣行は立証されない。一般に引用される「90%超」という分配要件は、複数ある税務要件の一つにすぎない。
+
+## Wiki内の参照先
+
+本ページは、[[structured-finance/spv-tk-gk-vehicle-japan-tax]]、[[structured-finance/japan-trust-beneficial-interest-vs-spv]]、[[structured-finance/japan-securitization-product-matrix]]と併せて参照する。特定のCMBSまたはJ-REITに関する主張には、それぞれの取引資料が必要である。
+
+## 1. 法定上の位置付け
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)は、以下の表を裏付けている。
+
+| 項目 | 検証済みの法定範囲 |
 |---|---|
-| 法令 | 資産の流動化に関する法律（資産流動化法、1998、複数回改正） |
-| の後継 | 1998 SPC法は、より幅広い資産クラスをカバーするために時間の経過とともに拡張されました |
-| 規制当局 | 金融庁（設立登記、資産流動化計画の届出、継続的監督） |
-| 車名 | 特定目的会社 (TMK、特定目的会社、特定目的会社) |
-| 法定の目的 | 資産証券化（目的は法定に限定されており、TMKは証券化以外の一般的な事業活動を行うことはできません） |
-| 資産流動化計画 | 必須の提出 — 証券化される資産、予想されるキャッシュフロー、発行される有価証券、再分配メカニズムについて説明します |
-活動に対する法的制限は重要な特徴である。TMK の破産回避的性格の一部は、TMK が資産証券化の目的外で負債を負うことを防止する法的制限に起因している。
-## 2。発行手段
-TMK は投資家に数種類の証券を発行できます。
-| 楽器 | 説明 |
+| 法人 | Tokutei Mokuteki Kaisha（特定目的会社） |
+| 準拠法 | 資産の流動化に関する法律 |
+| 規制上の手続 | 必要な届出および資産流動化計画の提出。「設立登録」という略称は避ける |
+| 活動 | 同法および提出済み計画で認められた活動 |
+| 特定資産 / 資金調達 | 計画および取引資料に記載 |
+| 募集 / 上場 | 金商法、募集条件、取引所規則に基づき別途判断 |
+
+法定の目的制限は倒産分析の一要素であり、倒産隔離を立証するものではない。
+
+## 2. 証券等
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)は、以下の表に示す証券等の区分を裏付けている。
+
+| 証券 / 資金調達 | 必要な根拠 |
 |---|---|
-| **特定社債（特定社債）** | シニア債務。公に掲載することができます。資産流動化計画の対象となる |
-| **特定短期社債（特定短期社債）** | 同じ制度の下での短期債務 |
-| **優先貢献 (優先)** | 株式のようなもの。投資家は優先分配権を受け取ります。税の転嫁（法定条件が満たされた場合） |
-| **共通の貢献 (普通)** | 劣後株式。通常、オリジネーターまたはBピース投資家が保有 |
-| **特定融資** | 資産流動化プランによる借入も可能 |
-特定の債券 (シニア債) と優先出資 (メザニン/株式トランシェ) の組み合わせにより、国際証券化慣例を反映した **マルチトランシェ資本構造** が可能になります。
-## 3。税務上の扱いが特徴的
-| 要素 | TMKの税制上の取扱い |
+| 特定社債 | 同法、資産流動化計画および特定の募集条件 |
+| 特定短期社債 | 同法、計画および特定の発行条件 |
+| 優先出資 | 同法、計画および出資条件 |
+| 特定出資 | 設立資料および計画 |
+| 借入れ | 計画および融資関連資料 |
+
+これらの区分が存在することは、公募、上場、保有されるエクイティ、複数トランシェ構成、特定の保有者を立証するものではない。
+
+## 3. 条件付きの税務上の取扱い
+
+[租税特別措置法](https://laws.e-gov.go.jp/law/332AC0000000026)および[税務大学校の論考](https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/40/kageyama/ronsou.pdf)は、以下の税務確認チェックリストを支持している。
+
+| 要素 | 根拠に基づく取扱い |
 |---|---|
-| 法人税 | TMKは法人です。原則として法人税が課税される |
-| 分配金控除 | **優先出資者および特定社債保有者への分配金（利息）はTMKレベルで控除可能です** |
-| 効果的なパススルー | 分配金が分配可能利益の90%+を超える場合（法定条件）、TMKにおける残存課税所得は最小限になります - 実質的な単層課税 |
-| パススルーの法定条件 | 公募・適格機関投資家募集条件、分配率条件、資産運用制限条件 |
-| GK-TKとの比較 | GK-TK は TK オーバーレイを介してパススルーを実現します。 TMKは直接分配控除によるパススルーを実現 |
-| J-REITとの比較 | J-REIT（投資法人）が投信法上の同様の90%分配ルールによるパススルーを実現 |
-| 源泉徴収税 | 投資家への分配金は、投資家の分類に応じて源泉徴収の対象となる場合があります |
-**流通控除**メカニズムにより、TMK は法的に法人でありながら、パススルー車両のように経済的に動作します。これは、国債発行における最もクリーンなパススルー メカニズムです。
-## 4。 GK-TKとの比較
-| 寸法 | TMK | [[structured-finance/spv-tk-gk-vehicle-japan-tax|GK-TK]] |
+| 法人課税 | TMKは法人であり、原則として課税対象となる |
+| 分配金の損金算入 | 法人と分配が現行法上の全要件を満たす場合に限り利用可能 |
+| 分配比率要件 | 引用される閾値は配当可能利益の90%を超える分配であり、唯一の要件ではない |
+| その他の要件 | 募集 / 投資家、所有関係、資産運用その他の要件も検証する必要がある |
+| 社債利息 | 適用規則に基づき債務利息として分析し、優先出資配当と混同しない |
+| 源泉徴収 | 支払内容と投資家の事実関係によって異なる |
+
+「最も明快なパススルー」または自動的な単層課税という主張は記載しない。
+
+## 4. GKとTKの組み合わせとの比較
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)、[会社法](https://laws.e-gov.go.jp/law/417AC0000000086)、[商法](https://laws.e-gov.go.jp/law/132AC0000000048)は、以下の法的形態比較を裏付けている。
+
+| 確認事項 | TMK | GKとTKの組み合わせ |
 |---|---|---|
-| 法的根拠 | 資産の流動化に関する法律 | 会社法（GK）＋商法（TK） |
-| 形成 | 資産流動化計画の提出。金融庁登録済み | よりシンプル — GK を法人化し、TK 契約を締結する |
-| 公債発行 | はい — 特定の債券を公募可能 | 限定的 - 通常は私募 |
-| 株式の譲渡 | はい — 優先 + 共通の貢献 | TK オーバーレイは複数の TK 投資家にパススルーを提供します |
-| 税金のパススルー | TMKレベルでの分配控除可能性 | GKレベルでのTK分配控除可能性 |
-| 活動制限 | 法的には証券化目的に限定される | GK は法的に柔軟です。契約により定められたTKの目的 |
-| 破産の遠隔性 | 強力 — 法的および契約上の層 | 契約上のみ |
-| 一般的な使用方法 | 公債CMBS、大規模/複雑な取引、上場証券取引 | 私募不動産証券化、二国間取引、私募の迅速な組成 |
-| 形成の速度 | 遅い（資産流動化計画の提出） | もっと早く |
-| 開示負担 | より高い (FSA 登録 + 継続的な開示) | 下位（私募開示制度） |
-## 5。現在のJ-REIT構造におけるTMK
-よく混同されるのは、TMKとJ-REITの関係です。どちらも不動産税の転嫁手段ですが、異なる法令に基づいて運営されています。
-| 車両 | 法令 | 形状 |
+| 法人の準拠法 | 資産の流動化に関する法律 | GKについては会社法 |
+| 投資家 / 資金調達層 | 同法および計画で認められた証券等 | TK契約およびその他のGKの資金調達 |
+| 規制上の手続 | 届出および資産流動化計画 | GKの設立に加え、証券 / 募集に関する要件 |
+| 税務 | 条件付きのTMK税制 | GKとTKの効果を別々に分析する必要がある |
+| 募集 / 上場 | 取引ごとに判断 | 取引ごとに判断 |
+| 倒産 / 会計 | 取引ごとに判断 | 取引ごとに判断 |
+
+明確な取引母集団がない限り、組成の速さ、開示負担、商品の選好は主張しない。
+
+## 5. TMKと投資法人
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)および[投資信託及び投資法人に関する法律](https://laws.e-gov.go.jp/law/326AC1000000198)から確認できるのは、以下の法人区分に限られる。
+
+| 法人 | 準拠法 | 導かれること |
 |---|---|---|
-| **TMK** | 資産流動化法 | 特定目的会社（法人） |
-| **[[real-estate-finance/j-reit-market-overview|J-REIT investment corporation]]** | 投資信託法（投資信託法） | 投資法人（投資法人） |
-**現在の J-REIT の実践**では、TMK は **サブビークル レベル**で使用されることがあります。
-| 使用事例 | 説明 |
+| TMK | 資産の流動化に関する法律 | 特定目的会社の制度 |
+| 投資法人 / J-REITのビークル | 投資信託及び投資法人に関する法律 | 別個の投資法人制度 |
+
+ウェアハウス、サブビークル、海外投資家、税効率の高い利用目的については、公開された特定取引が必要であり、本ページでは一般化しない。
+
+## 6. 特定のCMBSその他の取引
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)は法人法を定めるが、以下の項目にはなお特定取引の根拠が必要である。
+
+| 主張 | 必要な公開根拠 |
 |---|---|
-| J-REITがTMK優先出資を取得 | 一部の J-REIT は、特に特定の資産クラスの節税効率の高い構造を目的として、不動産の直接所有権ではなく TMK 優先出資を保有しています。 |
-| 倉庫としてのスポンサー側のTMK | スポンサーは、J-REITの取得前にTMKを使用して安定化資産を倉庫に保管することができます |
-| J-REIT非適格資産のTMK | J-REITの基準に適合しない資産クラスは、機関投資家によってTMKストラクチャーで保有される可能性があります。 |
-| 外国人投資家向け不動産のTMK | 一部の外国LP不動産投資では税金/源泉徴収の処理にTMK構造を使用しています |
-TMK-J-REIT の相互作用は、より広範な日本の不動産と車両のエコシステムを理解するために重要です。 TMKは、J-REIT投資法人内またはJ-REIT投資法人と並行して設置できるビルディングブロックです。
-## 6。上場CMBSのTMK
-| TMK CMBS機能 | 読む |
+| TMKが発行体である | 募集資料 / 発行体資料 |
+| 担保 | 資産流動化計画および取引開示 |
+| 公募または上場の状況 | 募集届出および取引所記録 |
+| トランシェ / 支払順位 | 特定の条件およびウォーターフォール |
+| 格付 | 日付が明記されたクラス別の格付アクション |
+| 投資家 / 販売会社 | 公開された配分情報または取引開示 |
+| 市場での優位性 | 対象母集団、期間、計算方法の明示 |
+
+## 7. ガバナンスと継続的義務
+
+[資産の流動化に関する法律](https://laws.e-gov.go.jp/law/410AC0000000105)および特定法人の届出資料は、以下の確認チェックリストを支持している。
+
+| 項目 | 必要な根拠 |
 |---|---|
-| 発行者エンティティ | TMK（資産流動化法に基づく特定目的会社） |
-| 発行 | 特定公募債券年功序列によって歪められる |
-| 担保 | 商業用不動産を担保とする住宅ローンまたは商業用不動産の信託受益権 |
-| 資産流動化計画 | FSAに提出。資産キャッシュフローの分配メカニズムを規定する |
-| 評価 | 通常国内代理店([[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]])外国人投資家向け取引のグローバル代理店 ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) |
-| 投資家ベース | 生命保険会社、資産運用会社、メガバンクALMブック、海外機関投資家 |
-| サービサー・受託者 | 信託銀行または専門サービサーの役割 |
-TMK は、日本の **単一借り手上場 CMBS** の主要な構造です ([[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]] によるポスト 2008 CMBS 形式)。公債発行機能と税転嫁機能の組み合わせにより、TMK は上場トランシーバー CMBS 取引にとって自然な選択肢となります。
-## 7。 TMKのガバナンスと継続的な義務
-| 義務 | 説明 |
-|---|---|
-| 資産流動化計画の遵守 | 資産流動化計画に記載された活動に限定される活動 |
-| 監督構成 | TMKには法定の役割を担う取締役がいます。通常は独立した専門ディレクター |
-| 監査役 | 監査役または監査法人 |
-| 継続的な開示 | 投資家と金融庁への資産パフォーマンスと債券の状況に関する定期的な報告 |
-| 流通の仕組み | 資産流動化計画に基づく分配金。法定の税転嫁条件 |
-| リラックス | 資産が完全に償却または売却された場合、TMKは終了します |
-## 関連項目項目
-- [[structured-finance/INDEX|structured-finance index]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK / GK / TMK / SPC vehicle choice (Japan tax)]]
-- [[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]]
-- [[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]]
-- [[structured-finance/japan-trust-beneficial-interest-vs-spv|Japan trust beneficial interest vs SPV]]
-- [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
-- [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
-- [[structured-finance/japan-covered-bond-mufg-smbc|Japanese megabank covered bonds]]
-- [[structured-finance/japan-green-securitization|Japan green securitization]]
-- [[structured-finance/synthetic-securitization-japan-bank-rwa-relief|synthetic securitization Japan bank RWA relief]]
-- [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]
-- [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS and RMBS securitization]]
-- [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]
-- [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[financial-regulators/jcr|JCR]]・[[financial-regulators/rating-and-investment|R&I]]
-- [[INDEX|FinWiki index]]
+| 取締役 / 役員 | 法令、定款および最新の届出 |
+| 監査役 | 法定の閾値 / 要件および最新の届出 |
+| 計画遵守 | 提出済みの資産流動化計画および変更 |
+| 投資家向け報告 | 特定の証券および契約上 / 開示上の義務 |
+| 規制当局への報告 | 正確な法令条項および届出 |
+| 終了処理 | 計画、定款および取引資料 |
+
+TMKという呼称だけから、独立専門家、監査法人、金融庁への定期報告、税務要件の遵守を想定してはならない。
+
+## Wiki内の位置付け
+
+本項目は[[structured-finance/INDEX|ストラクチャード・ファイナンス索引]]に位置付け、分野横断の資本市場文脈は[[finance/INDEX|ファイナンス索引]]を参照する。
+
+## 関連ページ
+
+- [[structured-finance/INDEX]]
+- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
+- [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
+- [[structured-finance/japan-securitization-product-matrix]]
+- [[structured-finance/japan-cmbs-issuance-structure]]
+- [[real-estate-finance/j-reit-market-overview]]
+
 ## 出典
-- 資産の流動化に関する法律 (資産流動化法) — 公的な立法文書 (日本の国会)。
-- 金融庁 — https://www.fsa.go.jp/
-- JSDA — https://www.jsda.or.jp/
-- JCR — https://www.jcr.co.jp/
-- R&I — https://www.r-i.co.jp/
-- ARES — https://www.ares.or.jp/
+
+- [Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105).
+- [Tax Special Measures Act](https://laws.e-gov.go.jp/law/332AC0000000026).
+- [National Tax College, review of distribution-deduction conditions](https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/40/kageyama/ronsou.pdf).
+- [Investment Trust and Investment Corporation Act](https://laws.e-gov.go.jp/law/326AC1000000198).

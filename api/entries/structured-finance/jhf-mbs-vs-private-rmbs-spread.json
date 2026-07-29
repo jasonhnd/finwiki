@@ -26,9 +26,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -44,33 +44,30 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jhf.go.jp/about/index.html",
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/",
-      "https://www.jsda.or.jp/en/"
+      "https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf",
+      "https://www.jhf.go.jp/english/mbs_faq.html",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
     ]
   },
-  "summary": "JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range — reflecting effective sovereign-linked credit and predictable monthly supply. Private RMBS senior tranches trade meaningfully wider — typically 50-100bp vs JGB — reflecting the absence of government support and reliance on",
+  "summary": "There is no timeless 10–30bp JHF MBS band or 50–100bp private-RMBS band. JHF publishes dated launch spreads for each series; its April 17, 2026 issuance history reports 51–55bp for series 221–227. Private RMBS pricing must be taken from a named transaction and date because public and private placeme",
   "headings": [
     "JHF MBS vs private RMBS spread",
     "TL;DR",
     "Wiki route",
     "1. Spread benchmarks",
     "2. Drivers of the spread gap",
-    "3. Government-support spread component",
+    "3. Credit and structure are not a fixed spread decomposition",
     "4. Prepayment behavior difference",
     "5. Institutional investor preference",
     "6. Curve dynamics",
     "7. Implications for structuring decisions"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
+      "finance/INDEX",
       "financial-regulators/boj-monetary-policy",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
       "money-market/INDEX",
       "policy-finance/INDEX",
       "policy-finance/japan-housing-finance-agency",
@@ -82,10 +79,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/banking/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
       "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/domains/money-market/",
       "https://finwiki.zksc.io/ja/domains/policy-finance/",
       "https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/",
@@ -95,13 +90,19 @@
       "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
       "https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jhf.go.jp/about/investor/shisan_tanpo/kihatsu/factor.html",
+      "https://www.jhf.go.jp/english/mbs_faq.html",
+      "https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6661,
-    "word_like_tokens": 1007,
-    "inbound_wikilinks_count": 7,
+    "nonspace_chars": 7879,
+    "word_like_tokens": 1297,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-04"
   }
 }

@@ -12,169 +12,136 @@ aliases:
   - "Japan tax-pass-through SPV"
 domain: structured-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [structured-finance, spv, tk, gk, tmk, spc, japan, tax]
 status: active
 sources:
-  - "https://www.jsda.or.jp/en/"
-  - "https://www.fsa.go.jp/en/"
-  - "https://www.jcr.co.jp/en/"
-  - "https://www.r-i.co.jp/en/"
+  - "https://laws.e-gov.go.jp/law/132AC0000000048"
+  - "https://laws.e-gov.go.jp/law/417AC0000000086"
+  - "https://laws.e-gov.go.jp/law/410AC0000000105"
+  - "https://laws.e-gov.go.jp/law/332AC0000000026"
+  - "https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html"
 ---
 
 # SPV TK / GK / TMK / SPC vehicle choice (Japan tax)
 
 ## TL;DR
 
-Japan securitization deals use one of four main SPV structures: TK (匿名組合, silent partnership), GK (合同会社, LLC), TMK (特定目的会社, specified-purpose company under the asset-securitization law), or generic SPC. The most common private-placement structure is "TK-GK" — a GK acts as the asset-holding entity and a TK silent-partnership overlay provides tax-pass-through to investors. TMK is preferred when the deal needs formal listed-bond issuance under the asset-securitization-law regime. Vehicle choice is driven by tax pass-through, off-balance-sheet criteria, public vs private placement, asset class, and originator strategy. Use this page for the SPV-vehicle choice tree; pair with [[structured-finance/japan-trust-beneficial-interest-vs-spv]] for the trust-vs-SPV comparison.
+A TK is a Commercial Code contract, a GK is a Companies Act corporation, and a TMK is a specified-purpose company under the Asset Securitization Act. “SPC” is only a generic label. None of these names automatically proves tax pass-through, deductibility, bankruptcy remoteness, accounting derecognition, risk retention, public / private offering status or listing. Those conclusions require the current statute and the named transaction's contracts and facts.
 
 ## Wiki route
 
-| You want | Go to |
-|---|---|
-| Trust vs SPV comparison | [[structured-finance/japan-trust-beneficial-interest-vs-spv]] |
-| Market overview | [[structured-finance/japan-abs-market-overview]] |
-| RMBS deal structure | [[structured-finance/japan-rmbs-issuance-structure]] |
-| CMBS deal structure | [[structured-finance/japan-cmbs-issuance-structure]] |
-| JHF MBS structure | [[structured-finance/jhf-mbs-mechanics]] |
-| Domain index | [[structured-finance/INDEX]] |
+For trust arrangements, use [[structured-finance/japan-trust-beneficial-interest-vs-spv]]. For TMK detail, use [[structured-finance/tmk-special-purpose-company-mechanics]]. For a product evidence map, use [[structured-finance/japan-securitization-product-matrix]].
 
-## 1. Vehicle types — overview
+## 1. Legal forms
 
-| Vehicle | Full name | Legal regime | Typical use |
+[The Commercial Code](https://laws.e-gov.go.jp/law/132AC0000000048), [Companies Act](https://laws.e-gov.go.jp/law/417AC0000000086), and [Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) support the following legal-form table.
+
+| Label | Legal form | What the label establishes | What it does not establish |
 |---|---|---|---|
-| TK | 匿名組合 (silent partnership) | Commercial Code | Overlay structure providing tax-pass-through to investors |
-| GK | 合同会社 (LLC) | Companies Act | Asset-holding entity in TK-GK private-placement deals |
-| TMK | 特定目的会社 (specified-purpose company) | Act on Securitization of Assets (資産流動化法) | Listed-bond issuance under asset-securitization-law regime |
-| SPC (generic) | 特定目的会社 / 株式会社 / etc. | Companies Act | Various deal structures including non-securitization-law SPCs |
+| TK | 匿名組合 contractual relationship | Contribution and profit / loss relationship under the Commercial Code | Corporation, tax result, security offer or asset ownership |
+| GK | 合同会社 corporation | Corporate legal form under the Companies Act | Bankruptcy remoteness, derecognition or tax deduction |
+| TMK | 特定目的会社 | Statutory specified-purpose company under the Asset Securitization Act | Public offer, listing or automatic distribution deduction |
+| SPC | Generic market term | Nothing without the actual legal form | Any legal, accounting or tax consequence |
 
-The naming is confusing because the abbreviation "SPC" gets used both for the asset-securitization-law TMK and for generic special-purpose companies under the Companies Act. Properly the asset-securitization-law specific form is TMK; "SPC" is the broader term.
+## 2. GK plus TK evidence
 
-## 2. TK-GK scheme — the workhorse
+[FSA's FIEA classification guide](https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html) identifies collective-investment / TK interests generally as paragraph-2 securities; the following table states the additional evidence required.
 
-| Layer | Role |
+| Question | Required evidence |
 |---|---|
-| GK (asset-holder) | Holds the securitized assets; treated as corporation; bankruptcy-remote |
-| TK (overlay) | Silent-partnership investors contribute to GK; receive pass-through distributions |
-| Originator | Sells assets to GK; may retain TK interest as risk-retention |
-| Investors | Subscribe to TK interests in GK; receive pass-through yield |
-| Trustee / servicer | Manage asset cash flow |
+| Who owns the assets? | GK purchase / trust documents and perfection evidence |
+| What does the TK investor hold? | Executed TK agreement and offer terms |
+| Is an allocation deductible? | Current tax law, characterization and transaction facts |
+| Is the GK bankruptcy-remote? | Governance, limited-purpose, non-petition and separateness package |
+| Is the transfer derecognized? | Applicable accounting standard and control / risk analysis |
+| Is the offer private? | FIEA conditions and selling restrictions |
 
-The TK-GK scheme combines:
-- GK as bankruptcy-remote asset-holder
-- TK as tax-pass-through vehicle (TK distributions to investors are deductible at GK level, achieving effective single-layer taxation)
+There is no “workhorse,” market-share or standard product mapping asserted on this legal page.
 
-This is the dominant private-placement structure in Japan.
+## 3. TMK evidence
 
-## 3. TMK — asset-securitization-law specified-purpose company
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) supports the following statutory boundary.
 
-| Element | Description |
+| Field | Verified boundary |
 |---|---|
-| Legal basis | Act on Securitization of Assets (資産流動化法) |
-| Formation | Requires asset liquidation plan filed with regulators |
-| Issuance | Can issue specified bonds, specified short-term bonds, or preferred contributions publicly |
-| Tax | Tax-pass-through if certain conditions met (distribution requirements) |
-| Use cases | Public listed bonds, larger or more complex deals, real-estate securitization |
+| Entity | Specified-purpose company under the Act |
+| Procedure | Statutory notification and asset-liquidation-plan filing |
+| Instruments | Instruments authorized by the Act and plan |
+| Offer / listing | Determined separately under FIEA, offer terms and exchange rules |
+| Tax | Corporation in principle; any deduction requires all current tax-law conditions |
+| Accounting / insolvency | Requires transaction-specific analysis |
 
-TMK is the preferred vehicle when:
-- The deal needs formal public-listed bond issuance
-- The asset is real estate (TMK has favorable real-estate-tax treatment under certain conditions)
-- The deal benefits from the asset-securitization-law regulatory infrastructure
+TMK is not labeled “preferred” for any asset class without a named transaction population.
 
-## 4. Tax pass-through mechanics
+## 4. Tax review
 
-| Vehicle | Tax mechanism |
+[The Tax Special Measures Act](https://laws.e-gov.go.jp/law/332AC0000000026) supplies conditional rules; the following table is a review checklist, not tax advice.
+
+| Form / interest | Required tax analysis |
 |---|---|
-| TK-GK | TK distributions deductible at GK level; investor taxed once |
-| TMK | TMK can deduct distributions to investors if distribution requirements met (90%+ of pretax income typically) |
-| Generic SPC | Two-layer taxation unless special election or specific treatment available |
-| Trust | Trust beneficial interest is tax-transparent (look-through to underlying assets) — see [[structured-finance/japan-trust-beneficial-interest-vs-spv]] |
+| GK with TK interest | GK corporate taxation, TK allocation characterization / deductibility, investor status and withholding |
+| TMK | Entity eligibility, distribution-ratio, offering / investor, ownership, asset-management and other statutory conditions |
+| Generic corporation | Corporation tax and any specific statutory relief |
+| Trust beneficial interest | Trust category, beneficiary status, income classification and withholding |
 
-The economic point of tax pass-through is to avoid double taxation: assets at the SPV level should generate cash flow that is taxed at the investor level, not at both SPV and investor levels.
+The “over 90%” TMK distribution test is only one condition. No blanket single-layer-taxation conclusion is retained.
 
-## 5. Off-balance-sheet criteria
+## 5. Transfer, insolvency and accounting
 
-For originator off-balance-sheet treatment, the SPV must achieve:
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) does not replace the following transaction analyses.
 
-| Criterion | Test |
+| Claim | Required evidence |
 |---|---|
-| True sale | Asset transfer legally complete; not recharacterized as financing |
-| Bankruptcy-remoteness | SPV cannot be consolidated into originator's bankruptcy estate |
-| Risk transfer | Substantial credit risk transferred to third-party investors |
-| Control transfer | Originator does not retain effective control of assets |
-| Accounting derecognition | Meets accounting standard for asset derecognition (JGAAP / IFRS) |
+| Effective transfer | Asset contract, perfection and enforceability |
+| Bankruptcy remoteness | Entity purpose, governance, separateness, non-petition and insolvency-law analysis |
+| Risk transfer | Actual retained exposures, recourse, warranties and support |
+| Control transfer | Contractual rights and practical control |
+| Derecognition / consolidation | Applicable JGAAP / IFRS analysis |
+| Risk retention | Actual law / policy and transaction disclosure; no assumed 5% |
 
-Risk retention by originator (commonly 5%) is consistent with off-balance-sheet treatment if structured properly — retention is for skin-in-the-game / regulatory purpose, not for control retention.
+## 6. Offering and listing
 
-## 6. Asset-securitization-law SPC vs general SPC
+[FSA's FIEA classification guide](https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html) supports the following instrument boundary.
 
-| Dimension | Asset-securitization-law TMK | General SPC (株式会社 / etc.) |
+| Route | Vehicle implication | Required evidence |
 |---|---|---|
-| Regulatory regime | Asset-securitization law; FSA / MOF oversight | Companies Act |
-| Filing | Asset liquidation plan required | None for SPV formation |
-| Tax pass-through | Available if distribution requirements met | Generally two-layer taxation unless specific structure |
-| Bond issuance | Specified bonds under asset-securitization law | Corporate bonds under FIEA |
-| Public listing | Possible | Possible but uncommon |
-| Real-estate treatment | Favorable for certain real-estate deals | Standard corporate treatment |
+| Public offer | None by label alone | Instrument classification, disclosure and offer terms |
+| Private placement | None by label alone | Applicable FIEA conditions and selling restrictions |
+| QII-only offer | None by label alone | Professional-investor conditions |
+| Exchange listing | None by label alone | Exchange eligibility and approval for the named security |
 
-The TMK route is heavier regulatorily but unlocks public-listed bond issuance under the asset-securitization-law regime; general SPC is lighter but doesn't get the asset-securitization-law benefits.
+## 7. Product-to-vehicle claims
 
-## 7. Public vs private placement
+Use the following evidence rule instead of a default vehicle map:
 
-| Placement | Typical vehicle | Notes |
-|---|---|---|
-| Public listed | TMK | Asset-securitization-law specified bonds; listed on TSE Bond Market or other |
-| Private placement | TK-GK | Most common for private RMBS, ABS, real-estate deals |
-| Trust beneficial interest private placement | Trust + private placement | See [[structured-finance/japan-trust-beneficial-interest-vs-spv]] |
-
-Most Japanese securitization deals are private placements; public-listed structured bonds are a minority. The public route is reserved for the largest deals where TMK's listed-bond capacity adds value.
-
-## 8. Vehicle choice tree
-
-Choice depends on:
-
-| Factor | Favors |
+| Product claim | Minimum evidence |
 |---|---|
-| Public listing required | TMK |
-| Asset is real estate | TMK (favorable tax) or trust |
-| Private placement, complex tranching | TK-GK |
-| Simple, single-asset, real-estate | TMK or trust |
-| Want to keep originator close (limited disclosure) | TK-GK private placement |
-| Mortgage securitization with bank trustee | Trust beneficial interest |
-| Standard auto / consumer ABS | TK-GK |
+| Auto / card / lease / consumer ABS uses GK-TK | Named transaction legal documents |
+| RMBS uses a trust | Named trust and offering documents |
+| CMBS uses TMK | Named issuer and asset-liquidation plan / offer document |
+| JHF MBS is a trust-beneficial-interest variant | Do not state; use JHF's bond plus contingent beneficiary-interest-event description |
+| Covered bond has no SPV | Use the named program; SMBC's verified program uses a specified money trust |
 
-## 9. Practical examples
+## Wiki route
 
-| Deal type | Typical vehicle |
-|---|---|
-| Auto-loan ABS | TK-GK ([[structured-finance/auto-loan-abs-japan-toyota-honda]]) |
-| Card-receivable ABS | TK-GK or trust ([[structured-finance/consumer-loan-abs-japan-card-issuer]]) |
-| Private RMBS | Trust beneficial interest typically ([[structured-finance/japan-rmbs-issuance-structure]]) |
-| CMBS | TMK (single-borrower) or TK-GK ([[structured-finance/japan-cmbs-issuance-structure]]) |
-| JHF MBS | "MBS Trust" — trust beneficial interest variant ([[structured-finance/jhf-mbs-mechanics]]) |
-| Real-estate single-asset | TMK |
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
 - [[structured-finance/INDEX]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
-- [[structured-finance/japan-abs-market-overview]]
-- [[structured-finance/japan-rmbs-issuance-structure]]
-- [[structured-finance/japan-cmbs-issuance-structure]]
-- [[structured-finance/auto-loan-abs-japan-toyota-honda]]
-- [[structured-finance/consumer-loan-abs-japan-card-issuer]]
+- [[structured-finance/tmk-special-purpose-company-mechanics]]
+- [[structured-finance/japan-securitization-product-matrix]]
 - [[structured-finance/jhf-mbs-mechanics]]
-- [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[real-estate-finance/INDEX]]
-- [[banking/INDEX]]
-- [[finance/INDEX]]
 
 ## Sources
 
-- JSDA (Japan Securities Dealers Association), securitization-product guidance.
-- FSA, asset-securitization-law regulatory pages.
-- JCR (Japan Credit Rating Agency), structured-finance criteria.
-- R&I (Rating and Investment Information), structured-finance methodology.
+- [Commercial Code](https://laws.e-gov.go.jp/law/132AC0000000048).
+- [Companies Act](https://laws.e-gov.go.jp/law/417AC0000000086).
+- [Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105).
+- [Tax Special Measures Act](https://laws.e-gov.go.jp/law/332AC0000000026).
+- [FSA, examples of FIEA paragraph-1 and paragraph-2 securities](https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html).

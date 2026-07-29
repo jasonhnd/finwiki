@@ -27,9 +27,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -58,7 +58,7 @@
       "https://www.jsda.or.jp/en/"
     ]
   },
-  "summary": "Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed r",
+  "summary": "Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for contractually specified credit protection on a Japanese reference entity. Market quotes embed default risk, recovery assumptions, liquidity, funding and other premia; a sovere",
   "headings": [
     "Japan corporate CDS spread mechanics",
     "TL;DR",
@@ -123,8 +123,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15426,
-    "word_like_tokens": 2414,
+    "nonspace_chars": 17782,
+    "word_like_tokens": 2760,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-04"
   }

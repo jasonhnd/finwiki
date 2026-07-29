@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-green-securitization.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/japan-green-securitization.md",
   "domain": "structured-finance",
-  "title": "Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification",
+  "title": "Green securitization in Japan — JHF Green MBS and evidence boundaries",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification",
+    "title": "Green securitization in Japan — JHF Green MBS and evidence boundaries",
     "aliases": [
       "japan-green-securitization",
       "Japan green RMBS",
@@ -28,20 +28,17 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
       "green-bond",
       "securitization",
       "esg",
-      "rmbs",
-      "abs",
-      "slb",
-      "climate-bonds",
-      "fsa",
+      "mbs",
+      "jhf",
       "japan"
     ],
     "status": "active",
@@ -49,74 +46,57 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/en/",
-      "https://www.env.go.jp/en/",
-      "https://www.climatebonds.net/",
-      "ICMA Green Bond Principles — https://www.icmagroup.org/sustainable-finance/",
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/"
+      "https://www.jhf.go.jp/about/investor/shisan_tanpo/green_mbs.html",
+      "https://www.jhf.go.jp/files/topics/5876_ext_99_0.pdf",
+      "https://www.jhf.go.jp/files/topics/5007_ext_99_1.pdf",
+      "https://greenfinanceportal.env.go.jp/bond/guideline/guideline.html",
+      "https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/green-bond-principles-gbp/"
     ]
   },
-  "summary": "The market operates under the ICMA Green Bond Principles / Sustainability Bond Guidelines framework supplemented by Japan-specific FSA principles (most notably the FSA / METI / MOE Green Bond Guidelines) and increasingly Climate Bonds Initiative (CBI) certification for global investor recognition. T",
+  "summary": "The publicly verified anchor in this review is JHF Green MBS. JHF's current materials expressly distinguish it from ordinary monthly MBS: Green MBS do not use overcollateralization, so their rating linkage differs. The previous page generalized from this product to unverified Japanese green RMBS, re",
   "headings": [
-    "Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification",
+    "Green securitization in Japan — JHF Green MBS and evidence boundaries",
     "TL;DR",
     "Wiki route",
-    "1. Green / sustainable securitization — framework",
-    "2. Japanese regulatory framework",
-    "3. Green RMBS — JHF green Flat-35-S anchor",
-    "Megabank green RMBS",
-    "4. Green ABS — renewable and EV-charging receivables",
-    "5. Sustainability-linked bond (SLB) overlay",
-    "6. Climate Bonds Initiative (CBI) certification"
+    "1. Label and structure are separate questions",
+    "2. Verified JHF Green MBS boundary",
+    "3. Ordinary monthly MBS comparison",
+    "4. SLB and certification claims",
+    "5. Cross-market comparison",
+    "6. Deferred claims",
+    "Wiki route"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "INDEX",
-      "banking/INDEX",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
-      "policy-finance/INDEX",
-      "policy-finance/japan-housing-finance-agency",
+      "finance/INDEX",
       "structured-finance/INDEX",
-      "structured-finance/auto-loan-abs-japan-toyota-honda",
-      "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/japan-abs-market-overview",
-      "structured-finance/japan-covered-bond-mufg-smbc",
       "structured-finance/japan-rmbs-issuance-structure",
-      "structured-finance/jhf-mbs-mechanics",
-      "structured-finance/project-finance-spv-japan-renewable",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax",
-      "structured-finance/tmk-special-purpose-company-mechanics"
+      "structured-finance/japan-securitization-product-matrix",
+      "structured-finance/jhf-mbs-mechanics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX.md",
-      "https://finwiki.zksc.io/ja/domains/banking/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/domains/policy-finance/",
-      "https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
-      "https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/",
-      "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
-      "https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/",
-      "https://finwiki.zksc.io/ja/structured-finance/project-finance-spv-japan-renewable/",
-      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/",
-      "https://finwiki.zksc.io/ja/structured-finance/tmk-special-purpose-company-mechanics/"
+      "https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/",
+      "https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://greenfinanceportal.env.go.jp/bond/guideline/guideline.html",
+      "https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/green-bond-principles-gbp/",
+      "https://www.jhf.go.jp/about/investor/shisan_tanpo/green_mbs.html",
+      "https://www.jhf.go.jp/files/topics/5007_ext_99_1.pdf",
+      "https://www.jhf.go.jp/files/topics/5876_ext_99_0.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12053,
-    "word_like_tokens": 1848,
-    "inbound_wikilinks_count": 4,
+    "nonspace_chars": 5922,
+    "word_like_tokens": 930,
+    "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-04"
   }
 }

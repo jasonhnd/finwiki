@@ -29,9 +29,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -51,14 +51,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jscc.co.jp/en/",
-      "https://www.jscc.co.jp/en/cds/",
-      "https://www.jscc.co.jp/en/irs/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.dtcc.com/asia/japan",
-      "https://www.isda.org/",
-      "https://www.boj.or.jp/en/paym/market/",
-      "https://www.jpx.co.jp/english/"
+      "JSCC IRS products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html",
+      "JSCC CDS products — https://www.jpx.co.jp/jscc/en/cash/cds/product.html",
+      "JSCC OTC JGB products — https://www.jpx.co.jp/jscc/en/cash/jgbcc/product.html",
+      "JSCC listed products — https://www.jpx.co.jp/jscc/en/cash/futures/product.html",
+      "FSA OTC-derivative reporting guidelines — https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf"
     ]
   },
   "summary": "Japan's OTC derivatives clearing and reporting regime rests on three pillars:",
@@ -72,7 +69,7 @@
     "Default-management waterfall",
     "The reporting obligation",
     "Why TR reporting matters",
-    "EMIR equivalence (EU)"
+    "Cross-border recognition boundary"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -138,8 +135,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14988,
-    "word_like_tokens": 2260,
+    "nonspace_chars": 12845,
+    "word_like_tokens": 1964,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-04"
   }

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T17:23:28+09:00",
+  "generated_at": "2026-07-29T19:24:17+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -3111,7 +3111,7 @@
     {
       "slug": "derivatives/nikkei-vix-jpx-vi-equivalent",
       "domain": "derivatives",
-      "title": "Nikkei VIX / JPX-VI — Japan equity volatility index",
+      "title": "Nikkei 225 VI — Japan equity volatility index",
       "api_url": "https://finwiki.zksc.io/api/entries/derivatives/nikkei-vix-jpx-vi-equivalent.json",
       "url": "https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/",
       "html_url": "https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/",
@@ -17190,7 +17190,7 @@
     {
       "slug": "structured-finance/abcp-conduit-japan-megabank",
       "domain": "structured-finance",
-      "title": "ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs",
+      "title": "ABCP conduit (asset-backed commercial paper) — Japan evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/abcp-conduit-japan-megabank.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/abcp-conduit-japan-megabank/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/abcp-conduit-japan-megabank/",
@@ -17203,7 +17203,7 @@
     {
       "slug": "structured-finance/aircraft-leasing-financing-japan-shosha",
       "domain": "structured-finance",
-      "title": "Aircraft leasing financing — Japan sōgō shōsha and leasing-company involvement",
+      "title": "Aircraft leasing and financing — verified Japan-linked platforms",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/aircraft-leasing-financing-japan-shosha.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/aircraft-leasing-financing-japan-shosha/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/aircraft-leasing-financing-japan-shosha/",
@@ -17216,7 +17216,7 @@
     {
       "slug": "structured-finance/auto-loan-abs-japan-toyota-honda",
       "domain": "structured-finance",
-      "title": "Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)",
+      "title": "Auto-loan ABS in Japan — issuer and pool evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/auto-loan-abs-japan-toyota-honda.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/",
@@ -17229,7 +17229,7 @@
     {
       "slug": "structured-finance/consumer-loan-abs-japan-card-issuer",
       "domain": "structured-finance",
-      "title": "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+      "title": "Consumer-loan and card-receivable ABS in Japan — evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/consumer-loan-abs-japan-card-issuer.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/",
@@ -17281,7 +17281,7 @@
     {
       "slug": "structured-finance/japan-abs-market-overview",
       "domain": "structured-finance",
-      "title": "Japan ABS market overview",
+      "title": "Japan ABS market overview — reproducible evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-abs-market-overview.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
@@ -17294,7 +17294,7 @@
     {
       "slug": "structured-finance/japan-auto-loan-abs-waterfall-mechanics",
       "domain": "structured-finance",
-      "title": "Japan auto-loan ABS waterfall mechanics — originator-servicer split, sub-class economics",
+      "title": "Japan auto-loan ABS waterfall mechanics — evidence-bound reading",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-auto-loan-abs-waterfall-mechanics.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/",
@@ -17320,7 +17320,7 @@
     {
       "slug": "structured-finance/japan-cmbs-issuance-structure",
       "domain": "structured-finance",
-      "title": "Japan CMBS issuance structure",
+      "title": "Japan CMBS issuance structure — named-deal evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-cmbs-issuance-structure.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
@@ -17333,7 +17333,7 @@
     {
       "slug": "structured-finance/japan-consumer-loan-abs-structure",
       "domain": "structured-finance",
-      "title": "Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization",
+      "title": "Japan consumer-loan ABS structure — evidence-bound reading",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-consumer-loan-abs-structure.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/",
@@ -17346,7 +17346,7 @@
     {
       "slug": "structured-finance/japan-covered-bond-mufg-smbc",
       "domain": "structured-finance",
-      "title": "Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs",
+      "title": "Japan contractual covered bond — verified SMBC program and MUFG evidence boundary",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-covered-bond-mufg-smbc.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/",
@@ -17359,7 +17359,7 @@
     {
       "slug": "structured-finance/japan-credit-card-receivable-abs",
       "domain": "structured-finance",
-      "title": "Japan credit-card receivable ABS — master trust framework, 期間延長, default triggers",
+      "title": "Japan credit-card receivable ABS — evidence-bound reading",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-credit-card-receivable-abs.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/",
@@ -17372,7 +17372,7 @@
     {
       "slug": "structured-finance/japan-equipment-lease-abs",
       "domain": "structured-finance",
-      "title": "Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split",
+      "title": "Japan equipment lease ABS — evidence-bound reading",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-equipment-lease-abs.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/",
@@ -17385,7 +17385,7 @@
     {
       "slug": "structured-finance/japan-green-securitization",
       "domain": "structured-finance",
-      "title": "Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification",
+      "title": "Green securitization in Japan — JHF Green MBS and evidence boundaries",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-green-securitization.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-green-securitization/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-green-securitization/",
@@ -17398,7 +17398,7 @@
     {
       "slug": "structured-finance/japan-rmbs-issuance-structure",
       "domain": "structured-finance",
-      "title": "Japan RMBS issuance structure",
+      "title": "Japan private RMBS issuance structure — named-deal evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/japan-rmbs-issuance-structure.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
@@ -17502,7 +17502,7 @@
     {
       "slug": "structured-finance/repackaging-note-japan",
       "domain": "structured-finance",
-      "title": "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+      "title": "Repackaging note in Japan — named-transaction evidence guide",
       "api_url": "https://finwiki.zksc.io/api/entries/structured-finance/repackaging-note-japan.json",
       "url": "https://finwiki.zksc.io/ja/structured-finance/repackaging-note-japan/",
       "html_url": "https://finwiki.zksc.io/ja/structured-finance/repackaging-note-japan/",

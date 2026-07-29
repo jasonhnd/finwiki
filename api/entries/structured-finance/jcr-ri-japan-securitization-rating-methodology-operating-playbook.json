@@ -28,9 +28,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -38,7 +38,6 @@
       "jcr",
       "ri",
       "methodology",
-      "sdr",
       "cash-flow-model",
       "surveillance",
       "japan"
@@ -48,73 +47,61 @@
     "related": [],
     "note": null,
     "sources": [
-      "JCR structured-finance criteria — https://www.jcr.co.jp/en/",
-      "R&I structured-finance methodology — https://www.r-i.co.jp/en/",
-      "FSA designated rating agency — https://www.fsa.go.jp/en/",
-      "JSDA — https://www.jsda.or.jp/en/",
-      "ASF Japan — https://www.asf-japan.gr.jp/"
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://jcr.co.jp/en/ratinglist/sf_sf/"
     ]
   },
-  "summary": "JCR (株式会社日本格付研究所) and R&I (格付投資情報センター) are the two FSA-designated domestic credit rating agencies dominating Japan structured finance. Their operating methodology for ABS / RMBS / CMBS / consumer / card / lease ratings follows a four-step playbook: (1) asset-class-specific stressed default rate (SDR",
+  "summary": "There is no public basis for a single JCR/R&I “operating playbook” with fixed base-default ranges, 4–6× stress multipliers, 1–2-notch downgrade rules, staff counts, action counts or universal monthly / quarterly surveillance cycles. Treat each agency separately. For a named transaction, record the r",
   "headings": [
     "JCR / R&I Japan securitization rating methodology operating playbook",
     "TL;DR",
     "Wiki route",
-    "1. JCR and R&I — the agency identities",
-    "2. The asset-class methodology architecture",
-    "3. The stressed default rate (SDR) calculation",
-    "3a. Base-case default frequency",
-    "3b. Stress multipliers by rating category",
-    "3c. Adjustments for pool-specific features",
-    "4. Cash-flow modeling"
+    "1. Agency identity",
+    "2. Criteria selection",
+    "3. Assumption record",
+    "4. Cash-flow modeling",
+    "5. Surveillance",
+    "6. Rating-action analysis",
+    "7. Reproducible analyst packet"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
       "structured-finance/INDEX",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/fitch-moody-sp-japan-criteria",
-      "structured-finance/japan-abs-market-overview",
       "structured-finance/japan-auto-loan-abs-waterfall-mechanics",
       "structured-finance/japan-cmbs-issuance-structure",
       "structured-finance/japan-consumer-loan-abs-structure",
       "structured-finance/japan-credit-card-receivable-abs",
       "structured-finance/japan-equipment-lease-abs",
-      "structured-finance/japan-rmbs-issuance-structure",
-      "structured-finance/japan-securitization-product-matrix",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax",
-      "trust-banks/nochu-trust-bank",
-      "trust-banks/sumitomo-mitsui-trust"
+      "structured-finance/japan-rmbs-issuance-structure"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
       "https://finwiki.zksc.io/ja/structured-finance/fitch-moody-sp-japan-criteria/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/",
-      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/",
-      "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
-      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+      "https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://jcr.co.jp/en/ratinglist/sf_sf/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 16332,
-    "word_like_tokens": 2590,
-    "inbound_wikilinks_count": 4,
+    "nonspace_chars": 7101,
+    "word_like_tokens": 1112,
+    "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-04"
   }
 }

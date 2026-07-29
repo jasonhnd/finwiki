@@ -29,9 +29,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -49,14 +49,13 @@
     "related": [],
     "note": null,
     "sources": [
-      "JCR official methodology — https://www.jcr.co.jp/en/",
-      "R&I official methodology — https://www.r-i.co.jp/en/",
-      "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
-      "Megabank IR (MUFG / SMBC / Mizuho securitization disclosures)",
-      "Moody's / Fitch / S&P public methodology documents (Japan ABS / RMBS)"
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://jcr.co.jp/en/ratinglist/sf_sf/"
     ]
   },
-  "summary": "Japanese securitisations are dual-rated: the domestic agencies JCR and R&I cover the yen-denominated investor base (life insurers, regional banks, Japan Post Bank), while Moody's, S&P, and Fitch are added when the deal targets foreign investors or USD-denominated tranches. The split-rating gap can b",
+  "summary": "A reliable agency comparison starts with the same named transaction, tranche, rating date and criteria version. The prior blanket claims—dual ratings as a rule, a 1–3-notch split, fixed recovery gaps, and a sovereign ceiling that prevents Japanese RMBS from receiving AAA—are not supported. S&P's pub",
   "headings": [
     "Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I",
     "TL;DR",
@@ -70,21 +69,16 @@
     "4. Transition matrix differences — empirical observation"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 12,
     "wikilinks": [
       "cooperative-banks/norinchukin",
       "derivatives/japan-cds-market-overview",
       "finance/INDEX",
-      "financial-regulators/boj",
       "financial-regulators/japan-exchange-group",
       "megabanks/mizuho-fg",
       "megabanks/mufg",
       "megabanks/smfg",
       "real-estate-finance/INDEX",
-      "regional-banks/japan-post-bank",
-      "securities-firms/mizuho-securities",
-      "securities-firms/mufg-securities",
-      "securities-firms/smbc-nikko",
       "structured-finance/INDEX",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/japan-abs-market-overview",
@@ -94,28 +88,28 @@
       "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
       "https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/",
       "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/financial-regulators/boj/",
       "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
-      "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
-      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
-      "https://finwiki.zksc.io/ja/securities-firms/mufg-securities/",
-      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
       "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://jcr.co.jp/en/ratinglist/sf_sf/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 10842,
-    "word_like_tokens": 1831,
-    "inbound_wikilinks_count": 7,
+    "nonspace_chars": 7852,
+    "word_like_tokens": 1290,
+    "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-04"
   }
 }

@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -49,31 +49,32 @@
     "note": null,
     "sources": [
       "https://www.mufg.jp/english/ir/index.html",
-      "https://www.smfg.co.jp/english/investor/index.html",
-      "https://www.mizuho-fg.com/investors/index.html",
+      "https://www.smfg.co.jp/english/investor/",
+      "https://www.mizuhogroup.com/investors",
       "https://www.nomuraholdings.com/investor/index.html",
       "https://www.daiwa-grp.jp/english/ir/index.html",
       "https://www.goldmansachs.com/investor-relations/",
       "https://www.jpmorganchase.com/ir",
-      "https://www.morganstanley.com/about-us/investor-relations",
+      "https://www.morganstanley.com/about-us-ir",
       "https://www.citigroup.com/global/investors",
       "https://www.fsa.go.jp/en/",
       "https://www.boj.or.jp/en/paym/market/",
-      "https://www.isda.org/"
+      "https://www.isda.org/",
+      "https://www.federalreserve.gov/supervisionreg/volcker-rule.htm"
     ]
   },
-  "summary": "The dealer-bank derivatives franchise in Japan is split across three structural tiers, each with a distinct revenue mix between rates, FX, equity, and credit derivatives:",
+  "summary": "Public disclosures from Japan megabanks, Japan-headquartered securities groups and global investment banks generally aggregate derivatives with cash products, financing and other global-markets activity. They therefore do not support a Japan-only dealer ranking, a desk-level rates / FX / equity / cr",
   "headings": [
     "Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs",
     "TL;DR",
     "Wiki route",
     "Why the revenue mix matters",
     "MUFG, SMBC, Mizuho",
-    "Approximate revenue mix at megabanks (public-source inference)",
-    "Why rates and FX dominate at megabanks",
+    "Public-disclosure activity map at megabanks",
+    "Megabank interpretation boundary",
     "Nomura HD, Daiwa SG",
-    "Approximate revenue mix at Nomura / Daiwa (public-source inference)",
-    "Why equity is distinctively large at independent IBs"
+    "Nomura / Daiwa public-disclosure map",
+    "Goldman Sachs Japan, Morgan Stanley Japan / MUMSS, JPMorgan Japan, Citi Japan"
   ],
   "body_links": {
     "wikilinks_count": 31,
@@ -147,8 +148,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19895,
-    "word_like_tokens": 2983,
+    "nonspace_chars": 11508,
+    "word_like_tokens": 1730,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-04"
   }

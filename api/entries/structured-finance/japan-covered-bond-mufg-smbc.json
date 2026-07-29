@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-covered-bond-mufg-smbc.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/japan-covered-bond-mufg-smbc.md",
   "domain": "structured-finance",
-  "title": "Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs",
+  "title": "Japan contractual covered bond — verified SMBC program and MUFG evidence boundary",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs",
+    "title": "Japan contractual covered bond — verified SMBC program and MUFG evidence boundary",
     "aliases": [
       "japan-covered-bond-mufg-smbc",
       "Japan covered bond",
@@ -29,9 +29,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -50,35 +50,29 @@
     "related": [],
     "note": null,
     "sources": [
-      "MUFG IR — https://www.mufg.jp/english/ir/",
-      "SMBC Group IR — https://www.smfg.co.jp/english/investor/",
-      "FSA bank supervision disclosures — https://www.fsa.go.jp/en/",
-      "BOJ Financial System Report — https://www.boj.or.jp/en/",
-      "ECBC (European Covered Bond Council) — https://www.hypo.org/ecbc/"
+      "https://www.smfg.co.jp/english/investor/debt/covered_bond_issues.html",
+      "https://www.smfg.co.jp/english/investor/debt/covered_bond.html",
+      "https://www.bk.mufg.jp/global/aboutus/investorinfo/index.html"
     ]
   },
-  "summary": "The Japanese megabanks — led by MUFG Bank and SMBC — issue EUR and USD covered bonds to international investors as a USD/EUR-denominated funding source positioned between senior unsecured bonds and traditional RMBS securitization. The covered-bond programs are contractually structured (rather than s",
+  "summary": "SMBC's official disclosures document a contractual covered-bond program. The issuer is SMBC acting as trustee of a specified money trust; bondholders have recourse both to the segregated trust property and to SMBC in its proprietary capacity. The cover pool consists principally of highly rated, self",
   "headings": [
-    "Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs",
+    "Japan contractual covered bond — verified SMBC program and MUFG evidence boundary",
     "TL;DR",
     "Wiki route",
     "1. What a covered bond is — short refresher",
     "2. European statutory vs Japanese contractual structure",
     "MUFG Bank covered bond program",
     "SMBC covered bond program",
-    "4. Cover pool composition — residential mortgages",
+    "4. Cover pool composition — eligible Japanese RMBS",
     "5. Pricing vs senior unsecured",
     "6. Covered bond vs RMBS — funding-instrument choice"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/moodys-japan",
-      "JapanFG/sp-global-ratings-japan",
       "finance/INDEX",
-      "financial-regulators/jcr",
-      "financial-regulators/rating-and-investment",
       "megabanks/mizuho-bank",
       "megabanks/mizuho-fg",
       "megabanks/mufg",
@@ -100,8 +94,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-      "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
@@ -120,13 +112,17 @@
       "https://finwiki.zksc.io/ja/structured-finance/synthetic-securitization-japan-bank-rwa-relief/",
       "https://finwiki.zksc.io/ja/structured-finance/tmk-special-purpose-company-mechanics/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.bk.mufg.jp/global/aboutus/investorinfo/index.html",
+      "https://www.smfg.co.jp/english/investor/debt/covered_bond.html",
+      "https://www.smfg.co.jp/english/investor/debt/covered_bond_issues.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11460,
-    "word_like_tokens": 1784,
-    "inbound_wikilinks_count": 3,
+    "nonspace_chars": 9313,
+    "word_like_tokens": 1518,
+    "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-04"
   }
 }
