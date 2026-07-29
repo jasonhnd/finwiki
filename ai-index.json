@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T12:49:10+09:00",
+  "generated_at": "2026-07-29T12:51:53+09:00",
   "counts": {
     "markdown_files": 1602,
     "public_markdown_pages": 1601,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11035466,
-    "word_like_tokens": 1776904,
+    "nonspace_utf8_chars": 11031781,
+    "word_like_tokens": 1776283,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -7541,7 +7541,7 @@
       "entity_edges": [],
       "nonspace_chars": 3984,
       "word_like_tokens": 651,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/cooperative-banking-japan.md",
@@ -7661,7 +7661,7 @@
       "entity_edges": [],
       "nonspace_chars": 13747,
       "word_like_tokens": 1912,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/custody-bank-operating-model.md",
@@ -7829,7 +7829,7 @@
       "entity_edges": [],
       "nonspace_chars": 13716,
       "word_like_tokens": 2203,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/foreign-bank-japan-retreat.md",
@@ -8035,7 +8035,7 @@
       "entity_edges": [],
       "nonspace_chars": 13902,
       "word_like_tokens": 2215,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/ja-bank-system-japan.md",
@@ -8157,7 +8157,7 @@
       "entity_edges": [],
       "nonspace_chars": 7167,
       "word_like_tokens": 1145,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-banking-license-tier-comparison-matrix.md",
@@ -8234,7 +8234,7 @@
       "entity_edges": [],
       "nonspace_chars": 32433,
       "word_like_tokens": 4971,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-cooperative-banking-unified-federation-matrix.md",
@@ -8326,7 +8326,7 @@
       "entity_edges": [],
       "nonspace_chars": 35002,
       "word_like_tokens": 5430,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-foreign-bank-retreat-refocus-timeline-matrix.md",
@@ -8504,7 +8504,7 @@
       "entity_edges": [],
       "nonspace_chars": 6081,
       "word_like_tokens": 912,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-net-bank-competition-map.md",
@@ -8578,7 +8578,7 @@
       "entity_edges": [],
       "nonspace_chars": 6994,
       "word_like_tokens": 1091,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-net-bank-deposit-feature-matrix-2026.md",
@@ -8677,7 +8677,7 @@
       "entity_edges": [],
       "nonspace_chars": 15408,
       "word_like_tokens": 2503,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md",
@@ -8855,7 +8855,7 @@
       "entity_edges": [],
       "nonspace_chars": 32371,
       "word_like_tokens": 5576,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-stablecoin-bank-perimeter-2025.md",
@@ -9026,7 +9026,7 @@
       "entity_edges": [],
       "nonspace_chars": 6654,
       "word_like_tokens": 976,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md",
@@ -9112,7 +9112,7 @@
       "entity_edges": [],
       "nonspace_chars": 12661,
       "word_like_tokens": 1945,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/jasdec-settlement-operations.md",
@@ -9204,7 +9204,7 @@
       "entity_edges": [],
       "nonspace_chars": 11420,
       "word_like_tokens": 1809,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/jf-marine-bank-system-japan.md",
@@ -9340,7 +9340,7 @@
       "entity_edges": [],
       "nonspace_chars": 17653,
       "word_like_tokens": 2573,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/mercari-bank-license-stack.md",
@@ -9399,7 +9399,7 @@
       "entity_edges": [],
       "nonspace_chars": 3242,
       "word_like_tokens": 454,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/mercari-bank.md",
@@ -9454,7 +9454,7 @@
       "entity_edges": [],
       "nonspace_chars": 2789,
       "word_like_tokens": 391,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/minna-bank-baas-model.md",
@@ -9509,7 +9509,7 @@
       "entity_edges": [],
       "nonspace_chars": 3584,
       "word_like_tokens": 555,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/paypay-bank.md",
@@ -9652,7 +9652,7 @@
       "entity_edges": [],
       "nonspace_chars": 14913,
       "word_like_tokens": 2134,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/post-megabank-positioning.md",
@@ -9723,7 +9723,7 @@
       "entity_edges": [],
       "nonspace_chars": 3547,
       "word_like_tokens": 536,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/quick-deposit-four-methods.md",
@@ -9775,7 +9775,7 @@
       "entity_edges": [],
       "nonspace_chars": 3144,
       "word_like_tokens": 450,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/rakuten-bank.md",
@@ -9899,7 +9899,7 @@
       "entity_edges": [],
       "nonspace_chars": 6699,
       "word_like_tokens": 1037,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/regional-bank-consolidation-pattern.md",
@@ -10009,7 +10009,7 @@
       "entity_edges": [],
       "nonspace_chars": 3882,
       "word_like_tokens": 624,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/shinkin-bank-registry-japan.md",
@@ -10057,7 +10057,7 @@
       "entity_edges": [],
       "nonspace_chars": 20923,
       "word_like_tokens": 2925,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/sony-bank.md",
@@ -10202,7 +10202,7 @@
       "entity_edges": [],
       "nonspace_chars": 8531,
       "word_like_tokens": 1251,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/trust-bank-fee-structure-comparison.md",
@@ -10293,7 +10293,7 @@
       "entity_edges": [],
       "nonspace_chars": 13727,
       "word_like_tokens": 2095,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "banking/ui-bank.md",
@@ -10369,7 +10369,7 @@
       "entity_edges": [],
       "nonspace_chars": 8227,
       "word_like_tokens": 1375,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/INDEX.md",
@@ -14044,7 +14044,7 @@
       "entity_edges": [],
       "nonspace_chars": 5136,
       "word_like_tokens": 690,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/aichi-shogin-shinkumi.md",
@@ -14104,7 +14104,7 @@
       "entity_edges": [],
       "nonspace_chars": 4602,
       "word_like_tokens": 616,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/asahi-shinkin.md",
@@ -14163,7 +14163,7 @@
       "entity_edges": [],
       "nonspace_chars": 3654,
       "word_like_tokens": 533,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/chochukin-rokin.md",
@@ -14229,7 +14229,7 @@
       "entity_edges": [],
       "nonspace_chars": 5756,
       "word_like_tokens": 912,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/fukuoka-ken-shinkumi.md",
@@ -14287,7 +14287,7 @@
       "entity_edges": [],
       "nonspace_chars": 4558,
       "word_like_tokens": 624,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/gifu-shinkin.md",
@@ -14343,7 +14343,7 @@
       "entity_edges": [],
       "nonspace_chars": 2560,
       "word_like_tokens": 360,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/hamamatsu-iwata-shinkin.md",
@@ -14400,7 +14400,7 @@
       "entity_edges": [],
       "nonspace_chars": 3717,
       "word_like_tokens": 532,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/hana-shinkumi.md",
@@ -14456,7 +14456,7 @@
       "entity_edges": [],
       "nonspace_chars": 4430,
       "word_like_tokens": 571,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/iwaki-shinkumi.md",
@@ -14516,7 +14516,7 @@
       "entity_edges": [],
       "nonspace_chars": 4751,
       "word_like_tokens": 714,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/ja-bank-tokyo-shinren.md",
@@ -14580,7 +14580,7 @@
       "entity_edges": [],
       "nonspace_chars": 5124,
       "word_like_tokens": 826,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/ja-kyosairen-fukushima.md",
@@ -14699,7 +14699,7 @@
       "entity_edges": [],
       "nonspace_chars": 3534,
       "word_like_tokens": 519,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/ja-shinnoren.md",
@@ -14818,7 +14818,7 @@
       "entity_edges": [],
       "nonspace_chars": 4497,
       "word_like_tokens": 722,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/ja-zenchu.md",
@@ -14942,7 +14942,7 @@
       "entity_edges": [],
       "nonspace_chars": 6247,
       "word_like_tokens": 1017,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/jf-marine-bank-hokkaido.md",
@@ -15006,7 +15006,7 @@
       "entity_edges": [],
       "nonspace_chars": 6929,
       "word_like_tokens": 1111,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/jf-shingyoren.md",
@@ -15183,7 +15183,7 @@
       "entity_edges": [],
       "nonspace_chars": 3624,
       "word_like_tokens": 532,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/jonan-shinkin.md",
@@ -15246,7 +15246,7 @@
       "entity_edges": [],
       "nonspace_chars": 3855,
       "word_like_tokens": 546,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/kawasaki-shinkin.md",
@@ -15305,7 +15305,7 @@
       "entity_edges": [],
       "nonspace_chars": 3639,
       "word_like_tokens": 525,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/keishicho-shinkumi.md",
@@ -15359,7 +15359,7 @@
       "entity_edges": [],
       "nonspace_chars": 4576,
       "word_like_tokens": 598,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/kitakyushu-shinkin.md",
@@ -15404,7 +15404,7 @@
       "entity_edges": [],
       "nonspace_chars": 2590,
       "word_like_tokens": 369,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/kyoto-chuo-shinkin.md",
@@ -15461,7 +15461,7 @@
       "entity_edges": [],
       "nonspace_chars": 3677,
       "word_like_tokens": 532,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/kyoto-shinkin.md",
@@ -15515,7 +15515,7 @@
       "entity_edges": [],
       "nonspace_chars": 2809,
       "word_like_tokens": 384,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/nagoya-shinkin.md",
@@ -15562,7 +15562,7 @@
       "entity_edges": [],
       "nonspace_chars": 2439,
       "word_like_tokens": 329,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/norinchukin.md",
@@ -15634,7 +15634,7 @@
       "entity_edges": [],
       "nonspace_chars": 5401,
       "word_like_tokens": 786,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/okazaki-shinkin.md",
@@ -15693,7 +15693,7 @@
       "entity_edges": [],
       "nonspace_chars": 3717,
       "word_like_tokens": 540,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/osaka-shinkin.md",
@@ -15752,7 +15752,7 @@
       "entity_edges": [],
       "nonspace_chars": 3648,
       "word_like_tokens": 529,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/osaka-shogin-shinkumi.md",
@@ -15866,7 +15866,7 @@
       "entity_edges": [],
       "nonspace_chars": 2438,
       "word_like_tokens": 335,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/rokin-renraku.md",
@@ -15921,7 +15921,7 @@
       "entity_edges": [],
       "nonspace_chars": 2599,
       "word_like_tokens": 380,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/sapporo-chuo-shinkumi.md",
@@ -15981,7 +15981,7 @@
       "entity_edges": [],
       "nonspace_chars": 4633,
       "word_like_tokens": 686,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/sapporo-shinkin.md",
@@ -16026,7 +16026,7 @@
       "entity_edges": [],
       "nonspace_chars": 2793,
       "word_like_tokens": 416,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/sendai-shinkin.md",
@@ -16099,7 +16099,7 @@
       "entity_edges": [],
       "nonspace_chars": 5000,
       "word_like_tokens": 695,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/shinkin-central.md",
@@ -16206,7 +16206,7 @@
       "entity_edges": [],
       "nonspace_chars": 2992,
       "word_like_tokens": 402,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/shinkin-shoken.md",
@@ -16279,7 +16279,7 @@
       "entity_edges": [],
       "nonspace_chars": 5134,
       "word_like_tokens": 687,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/tama-shinkin.md",
@@ -16338,7 +16338,7 @@
       "entity_edges": [],
       "nonspace_chars": 3728,
       "word_like_tokens": 552,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/tokyo-shobo-shinkumi.md",
@@ -16392,7 +16392,7 @@
       "entity_edges": [],
       "nonspace_chars": 4397,
       "word_like_tokens": 606,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/tokyo-to-shokuin-shinkumi.md",
@@ -16446,7 +16446,7 @@
       "entity_edges": [],
       "nonspace_chars": 3952,
       "word_like_tokens": 529,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/yokohama-kogin-shinkumi.md",
@@ -16507,7 +16507,7 @@
       "entity_edges": [],
       "nonspace_chars": 4860,
       "word_like_tokens": 712,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/yokohama-shinkin.md",
@@ -16564,7 +16564,7 @@
       "entity_edges": [],
       "nonspace_chars": 3673,
       "word_like_tokens": 532,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/zenshin-kumi.md",
@@ -16622,7 +16622,7 @@
       "entity_edges": [],
       "nonspace_chars": 5084,
       "word_like_tokens": 681,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/INDEX.md",
@@ -106377,8 +106377,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7061,
-      "word_like_tokens": 1247,
+      "nonspace_chars": 3376,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]

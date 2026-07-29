@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 69 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,75 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/baas-japan-landscape.md` | `M` | 10 | ok |
-| `banking/credit-cooperative-registry-japan.md` | `M` | 5 | ok |
-| `banking/custody-bank-operating-model.md` | `M` | 24 | ok |
-| `banking/daiwa-next-bank.md` | `M` | 34 | ok |
-| `banking/gmo-aozora-net-bank.md` | `M` | 25 | ok |
-| `banking/japan-baas-operating-models.md` | `M` | 23 | ok |
-| `banking/japan-banking-license-tier-comparison-matrix.md` | `M` | 79 | ok |
-| `banking/japan-cooperative-banking-unified-federation-matrix.md` | `M` | 118 | ok |
-| `banking/japan-foreign-bank-retreat-refocus-timeline-matrix.md` | `M` | 52 | ok |
-| `banking/japan-master-trust-and-custody-bank-landscape.md` | `M` | 15 | ok |
-| `banking/japan-net-bank-competition-map.md` | `M` | 33 | ok |
-| `banking/japan-net-bank-deposit-feature-matrix-2026.md` | `M` | 89 | ok |
-| `banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md` | `M` | 291 | ok |
-| `banking/japan-stablecoin-bank-perimeter-2025.md` | `M` | 22 | ok |
-| `banking/japan-trust-bank-custody-map.md` | `M` | 27 | ok |
-| `banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md` | `M` | 30 | ok |
-| `banking/jasdec-settlement-operations.md` | `M` | 8 | ok |
-| `banking/master-trust-bank-operating-model.md` | `M` | 30 | ok |
-| `banking/mercari-bank-license-stack.md` | `M` | 7 | ok |
-| `banking/mercari-bank.md` | `M` | 7 | ok |
-| `banking/minna-bank-baas-model.md` | `M` | 8 | ok |
-| `banking/pension-trust-mandate-allocation-japan.md` | `M` | 19 | ok |
-| `banking/post-megabank-positioning.md` | `M` | 13 | ok |
-| `banking/quick-deposit-four-methods.md` | `M` | 6 | ok |
-| `banking/regional-bank-api-digital-partnership-route.md` | `M` | 24 | ok |
-| `banking/rokin-bank-registry-japan.md` | `M` | 5 | ok |
-| `banking/shinkin-bank-registry-japan.md` | `M` | 5 | ok |
-| `banking/sony-bank.md` | `M` | 17 | ok |
-| `banking/trust-bank-custody-operating-comparison.md` | `M` | 31 | ok |
-| `banking/trust-bank-fee-structure-comparison.md` | `M` | 32 | ok |
-| `banking/ui-bank.md` | `M` | 14 | ok |
-| `cooperative-banks/aichi-iryo-shinkumi.md` | `M` | 11 | ok |
-| `cooperative-banks/aichi-shogin-shinkumi.md` | `M` | 7 | ok |
-| `cooperative-banks/asahi-shinkin.md` | `M` | 16 | ok |
-| `cooperative-banks/chochukin-rokin.md` | `M` | 10 | ok |
-| `cooperative-banks/fukuoka-ken-shinkumi.md` | `M` | 12 | ok |
-| `cooperative-banks/gifu-shinkin.md` | `M` | 11 | ok |
-| `cooperative-banks/hamamatsu-iwata-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/hana-shinkumi.md` | `M` | 9 | ok |
-| `cooperative-banks/iwaki-shinkumi.md` | `M` | 12 | ok |
-| `cooperative-banks/ja-bank-tokyo-shinren.md` | `M` | 12 | ok |
-| `cooperative-banks/ja-mitsui-leasing.md` | `M` | 6 | ok |
-| `cooperative-banks/ja-zen-noh.md` | `M` | 10 | ok |
-| `cooperative-banks/jf-kyosuiren.md` | `M` | 13 | ok |
-| `cooperative-banks/jf-marine-bank-hokkaido.md` | `M` | 13 | ok |
-| `cooperative-banks/johoku-shinkin.md` | `M` | 18 | ok |
-| `cooperative-banks/jonan-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/kawasaki-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/keishicho-shinkumi.md` | `M` | 10 | ok |
-| `cooperative-banks/kitakyushu-shinkin.md` | `M` | 4 | ok |
-| `cooperative-banks/kyoto-chuo-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/kyoto-shinkin.md` | `M` | 10 | ok |
-| `cooperative-banks/nagoya-shinkin.md` | `M` | 4 | ok |
-| `cooperative-banks/norinchukin.md` | `M` | 11 | ok |
-| `cooperative-banks/okazaki-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/osaka-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/osaka-shoko-shinkin.md` | `M` | 7 | ok |
-| `cooperative-banks/rokin-renraku.md` | `M` | 7 | ok |
-| `cooperative-banks/sapporo-chuo-shinkumi.md` | `M` | 13 | ok |
-| `cooperative-banks/sapporo-shinkin.md` | `M` | 5 | ok |
-| `cooperative-banks/sendai-shinkin.md` | `M` | 23 | ok |
-| `cooperative-banks/shinkin-network-services.md` | `M` | 6 | ok |
-| `cooperative-banks/shinkin-shoken.md` | `M` | 10 | ok |
-| `cooperative-banks/tama-shinkin.md` | `M` | 18 | ok |
-| `cooperative-banks/tokyo-shobo-shinkumi.md` | `M` | 10 | ok |
-| `cooperative-banks/tokyo-to-shokuin-shinkumi.md` | `M` | 8 | ok |
-| `cooperative-banks/yokohama-kogin-shinkumi.md` | `M` | 11 | ok |
-| `cooperative-banks/yokohama-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/zenshin-kumi.md` | `M` | 7 | ok |
 
 ## Domain Snapshot
 
