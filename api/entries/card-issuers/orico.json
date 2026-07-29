@@ -91,12 +91,15 @@
       "https://finwiki.zksc.io/ja/payment-firms/paidy/",
       "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.orico.co.jp/company/",
+      "https://www.orico.co.jp/company/ir/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6044,
-    "word_like_tokens": 926,
+    "nonspace_chars": 6238,
+    "word_like_tokens": 960,
     "inbound_wikilinks_count": 31,
     "last_modified": "2026-06-22"
   }

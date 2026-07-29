@@ -41,7 +41,8 @@
     "note": null,
     "sources": [
       "Wikipedia: 芙蓉総合リース (2026-05-19 抽出)",
-      "芙蓉総合リース 公式コーポレートサイト",
+      "https://www.fgl.co.jp/fgl/about.html",
+      "https://www.fgl.co.jp/eng/fgl/history.html",
       "東証 PRIME 上場 銘柄コード 8424"
     ]
   },
@@ -78,12 +79,17 @@
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.fgl.co.jp/eng/fgl/history.html",
+      "https://www.fgl.co.jp/fgl/about.html",
+      "https://www.fgl.co.jp/ir/faq.html",
+      "https://www.tokyocentury.co.jp/jp/company/chronology/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3626,
-    "word_like_tokens": 617,
+    "nonspace_chars": 3666,
+    "word_like_tokens": 619,
     "inbound_wikilinks_count": 21,
     "last_modified": "2026-06-08"
   }

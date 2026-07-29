@@ -41,8 +41,8 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.showa-leasing.co.jp/",
-      "https://www.showa-leasing.co.jp/company/",
+      "https://www.s-l.co.jp/company/profile/",
+      "https://www.s-l.co.jp/company/profile/history.html",
       "https://www.sbishinseibank.co.jp/",
       "https://www.leasing.or.jp/"
     ]
@@ -85,13 +85,16 @@
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sbi-shinsei-trust-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.s-l.co.jp/company/profile/",
+      "https://www.s-l.co.jp/company/profile/history.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3254,
-    "word_like_tokens": 511,
-    "inbound_wikilinks_count": 6,
+    "nonspace_chars": 3507,
+    "word_like_tokens": 564,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-06"
   }
 }

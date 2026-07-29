@@ -1,85 +1,95 @@
 ---
 source: loyalty/point-exchange-network-risk
-source_hash: 66e2d0ef35380962
+source_hash: 8ec21d5dfd5c7955
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ポイント交換ネットワークリスク（日本のプログラム間変換の経済性）"
-translated_at: 2026-06-26T08:28:38.466Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
-# ポイント交換ネットワークリスク（日本のプログラム間変換の経済性）
 
-## ウィキ上の位置づけ
+# Point exchange network risk (JP cross-program conversion economics)
 
-この項目は [[loyalty/INDEX|loyalty index]] の配下に置く**プログラム間交換**のページであり、[[loyalty/japan-points-landscape|Japan points and loyalty landscape]] のプログラム一覧の下層にあるメカニズム層である。[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（変換が負債移転イベントと決済レッグにどう分かれるかを定義する）と、[[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]]（航空マイルが、ほとんどの交換経路が流れ込む最高価値のシンクであるため）と対をなす。規制上のエッジ——自由に譲渡可能で現金らしいポイントが、いつロイヤルティ・マーケティングであることをやめて決済のトピックになるのか——については、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] と [[financial-licenses/payment-license-stack|payment-license stack]] へ。
+## Wiki route
 
-## 要約
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **cross-program exchange risk-scenario** page beneath [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]. It pairs with [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]], which explains why conversion accounting depends on contracts and the redemption obligor. For the regulatory edge, route to [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|payment-license stack]].
 
-**他事業者のポイントや航空マイルに変換できる**ポイントは、もはや自己完結したロイヤルティ負債ではない。変換は小さな事業者間の金融ネットワークを生む——各エッジは**消費者向けの交換比率**、（通常は異なり、非公開の）**双務的な決済レート**、**負債移転**、そして一連の**不正対策**を伴う。このネットワークこそ、日本のロイヤルティのシステミックリスクの大半が集中する場所である——加算不能な負債会計、FX 的なレートエクスポージャー、裁定／資金洗浄のベクトル、そして「マーケティング」ポイントが現金等価へ漂流していく経路である。いずれか単一の事業者のポイント残高を孤立して読むと、その負債が実際にどれほど抑え込まれているかを過大評価することになる。
+## TL;DR
 
-## なぜ交換がポイントをネットワークに変えるのか
+Cross-program conversion creates **potential** counterparty, rate, fraud, accounting, and regulatory exposures. Public consumer terms normally show direction, rate, units, caps, eligibility, and timing. They generally do not disclose wholesale settlement rates, settlement cycles, credit support, insolvency allocation, operator margin, or journal entries. The risks below are therefore explicit **scenarios**, not claims that a named programme uses a particular private settlement model.
 
-クローズドなポイント（楽天で貯め、楽天で使う）は、一事業者の繰延収益負債であり、それ以上のものではない。交換エッジが開いた瞬間——楽天ポイント ↔ ANA マイル、楽天ポイント ↔ JAL マイル、dポイント ↔ JAL マイル、Ponta ポイント ↔ JAL マイル——三つのことが同時に真となる。
+## Why exchange turns a point into a network
 
-1. **同じ一円の購買力が二つの負債計上に存在し得る。** 変換ウィンドウの間、発行元の事業者がまだ負債を消滅させていない一方で、受け手の事業者はすでに負債を生成している、ということがあり得る。したがって事業者をまたぐ未利用残高は**加算不能**である——事業者が報告するポイント残高を足し合わせて「日本のポイント経済」の総額を得ることはできない。
-2. **各エッジには一つではなく二つの価格がある。** 消費者は交換比率を目にする（例：楽天 → JAL で 2 ポイント = 1 マイル）。事業者は、通常は開示されない、別個に契約合意されたレートで決済する。そのスプレッドが、受け手の事業者の獲得収益であり、発行元の事業者の解放コストである。
-3. **非対称性は意図的である。** 逆方向のエッジは通常、より不利に価格付けされ、上限が設けられる。公にされている範囲では、楽天の逆経路（JAL マイル → 楽天ポイント）は規模ベースでおおよそ 1 マイル = 0.8 ポイントで走り、対する流入は 2 ポイント = 1 マイルである——これは、価値を高マージンのマイルシンクへ押しやり、往復取引を抑制する一方通行の弁である。
+A public exchange edge — for example, a point-to-mile conversion — creates three review questions:
 
-これが [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]] のバケット 5（「プログラム間交換」）の具体的内容である——負債移転に決済レッグが加わり、同時に起こる。
+1. **Obligor / recognition:** does the originating obligation end at conversion, redemption, settlement, or another event, and when does the receiving obligation arise?
+2. **Commercial settlement:** does consideration move gross, net, periodically, prefunded, or through another arrangement? Consumer terms do not answer this.
+3. **Control design:** what caps, identity checks, transfer windows, reversals, and fraud controls are publicly stated, and what risks do they mitigate?
 
-## 五つのリスク面
+See bucket 5 in [[loyalty/point-liability-accounting-boundary|the accounting-boundary page]]; there is no universal “liability transfer plus cash settlement” entry.
 
-| 面 | 何が起こるか | 誰が吸収するか |
+## The five risk surfaces
+
+| Hypothetical surface | Scenario | Evidence needed for a named programme |
 |---|---|---|
-| 決済／カウンターパーティ | 事業者間のネット決済のタイミングギャップ。ウィンドウの最中に一方が破綻 | 両事業者。最終的には変換途中の残高を保有する消費者 |
-| レート／FX 的エクスポージャー | 事業者が消費者比率や決済レートを変更。保有残高の価値がシフト | ソフトペッグされたポイントの保有者。反対側の裁定者 |
-| ブレッカジの見積り誤り | 譲渡可能なポイントは長く滞留するため、ブレッカジの前提が引き伸ばされ、収益のタイミングがずれる | ASBJ 企業会計基準第29号／IFRS 15 の下での発行体の報告収益 |
-| 裁定／資金洗浄 | レートのギャップ、プロモのスタッキング、または脆弱な本人確認の紐付けにより、価値が循環されたり換金されたりする | 事業者（不正損失）。価値が現金らしくなれば資金移動／AML 規制 |
-| 現金等価への漂流 | 自由に交換可能で償還可能なポイントがお金のように振る舞い始める | 規制上の境界——資金決済法の分析 |
+| Settlement / counterparty | If settlement occurs after customer conversion, an operator may face unsecured exposure to its counterparty | Contract, settlement schedule, prefunding / security, insolvency terms |
+| Rate exposure | A consumer ratio change can alter customer value; a wholesale-rate exposure exists only if the commercial contract creates it | Dated consumer terms plus commercial pricing / hedging terms |
+| Breakage estimation | Exchange availability may change exercise behaviour and therefore an estimate for a recognised obligation | Entity model, historical data, accounting-policy note |
+| Fraud / laundering | Multiple routes, promotion stacking, or weak identity binding may create abuse paths | Limits, KYC / identity controls, reversals, monitoring evidence |
+| Cash-equivalence drift | Broad transferability or redemption may change the Payment Services Act analysis | Exact product rights, flow of funds, legal-entity registration |
 
-### 決済およびカウンターパーティリスク交換エッジはリアルタイムではなく、**双務的かつネットで**決済される。消費者が変換した瞬間と、二つの事業者が現金を決済する瞬間の間に、発行元の事業者が受け手の事業者に対して債務を負うウィンドウがある。大規模で突発的な変換イベント（「レートが変わる前に変換せよ」というバイラルなキャンペーン）は、このエクスポージャーを集中させる。受け手の事業者は、発行元の事業者の決済がクリアしたかどうかに関わらず、償還時に履行しなければならない新たな負債をキャリーする。
+Sources: the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), FSA [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), and named programmes' public terms. This is a scenario taxonomy, not a finding about private contracts or regulated status.
 
-### レート／FX 的エクスポージャー
+### Settlement and counterparty risk
 
-各エッジにソフトペッグされた消費者比率があるため、交換できる*から*こそ保有されているポイントは、準通貨リスクを帯びる。事業者が比率を改定するとき——あるいは、ANA が楽天ポイント交換について公に示したように、移転ウィンドウを延長し、1 日あたりの償還上限を導入するとき——保有残高の実用価値と流動性は変化する。最良の交換経路を追う保有者は FX トレーダーのように振る舞い、事業者は通貨当局がペッグを管理するように比率と上限を設定する。
+If an exchange contract uses delayed bilateral net settlement, a timing gap could create counterparty exposure. If it uses prefunding, real-time gross settlement, collateral, or an agent structure, the exposure differs. No named-programme conclusion is drawn without the commercial contract.
 
-### ブレッカジの見積り誤り
+### Rate / FX-like exposure
 
-譲渡可能性は実効寿命を延ばす。高価値のシンク（航空マイル、より長い有効期限のパートナープログラム）に駐車できるポイントは、より後に償還されるか、放棄されるのではなく移し替えられる。それは、ASBJ 企業会計基準第29号と IFRS 15 の双方の下で、繰延ポイント収益が*いつ*認識されるかを支配する**ブレッカジ**の前提を引き伸ばす。譲渡可能なポイントに対する楽観的なブレッカジは収益を早すぎる時点で認識する。交換ネットワークこそ、その見積りが最も擁護しにくい場所であり、キャッシュレス推進協議会／ペイメントジャパンが推し進める開示規範（比較可能な償還率、失効、未利用残高の報告）が最も強く効く場所である。
+A published exchange ratio can change the customer's practical redemption value, and caps or transfer windows can affect liquidity. Calling the private economics “FX exposure” is only an analogy; it does not establish an operator position, hedge, or settlement rate.
 
-### 裁定および資金洗浄のベクトルレートのギャップに脆弱な本人確認の紐付けが加わると、裁定への招待状となる——エッジ間で価値を循環させてスプレッドを刈り取る、同じ変換でプロモーションの乗数を重ね掛けする、多数の小さな残高を換金経路へ集約する。だからこそ事業者は交換フローを**レート制限、変換単位と月次上限、本人確認の紐付け、異常パターンのスロットリング**で包む——マーケティング上の摩擦に見えるが、不正および AML 防御として機能する制御である。公に見えるガードレール（固定単位での最低 50 ポイント交換、月次の変換上限）は、これの消費者向けのエッジである。
+### Breakage mis-estimation
 
-### 現金等価への漂流自由に譲渡可能で、広く償還可能で、実質的に払い戻し可能なポイントは、お金のように振る舞い始める。その時点でロイヤルティの枠組みは破綻し、**資金決済法**の分析が引き継ぐ——プリペイド手段、あるいは資金移動の領域である。その境界は [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] と [[financial-licenses/payment-license-stack|the payment-license stack]] に示されている。交換の設計は、その線のロイヤルティ側に留まるため、一つには意図的に*限定的に*保たれている（用途限定ポイント、上限、一方通行の弁）。最も明快な例は、**用途限定の dポイント（期間・用途限定）は JAL マイルへ一切変換できない**ことである——その制限こそ、プロモーションでの付与が現金らしくなるのを防いでいる。
+Exchange availability may change redemption behaviour and therefore an entity's breakage estimate for a recognised obligation. Direction and magnitude require historical evidence; transferability does not automatically lengthen life or determine revenue timing.
 
-## 日本の交換ネットワークのトポロジー
+### Arbitrage and laundering vectors
 
-ネットワークは一様なメッシュではない。航空マイルが支配的な高価値シンクとして機能する、ソフトペッグされたエッジの集合である。
+Rate gaps plus weak identity binding are an arbitrage invitation: cycle value across edges to harvest spreads, stack promotional multipliers across the same conversion, or aggregate many small balances into a cash-out path. This is why operators wrap exchange flows in **rate limits, conversion increments and monthly caps, identity binding, and throttling of unusual patterns** — controls that read as marketing friction but function as fraud and AML defence. The publicly visible guard rails (minimum 50-point exchanges in fixed increments, monthly conversion ceilings) are the consumer-facing edge of this.
 
-| エッジ（公に文書化済み） | 消費者方向 | 性格 |
+### Cash-equivalence drift
+
+A point that is freely transferable, broadly redeemable, and effectively refundable starts to behave like money. At that point the loyalty framing fails and the **Payment Services Act** analysis takes over — prepaid-instrument or even funds-transfer territory. The boundary is set out in [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|the payment-license stack]]. Exchange design is, in part, deliberately kept *limited* (limited-use points, caps, one-way valves) to stay on the loyalty side of that line. The clearest illustration is that **limited-use dポイント (期間・用途限定) cannot be converted to JAL miles at all** — the restriction is what keeps the promotional grant from becoming cash-like.
+
+## Topology of the JP exchange network
+
+The network is not a uniform mesh. It is a set of soft-pegged edges with airline mileage acting as the dominant high-value sink.
+
+| Public consumer route | What public terms can establish | Commercial facts not established |
 |---|---|---|
-| 楽天ポイント ↔ ANA マイル | 相互。流入 ~2 pt = 1 mile | 最古参（2004 以来の相互交換） |
-| 楽天ポイント ↔ JAL マイル | 相互。流入 ~2 pt = 1 mile、規模ベースでの流出 ~1 mile = 0.8 pt | 2022 追加。明示的な非対称の逆レート + 月次上限 |
-| dポイント ↔ JAL マイル | マイルへ。**基本ポイントのみ**、用途限定は除外 | 通信ポイントから航空シンクへ |
-| Ponta ポイント ↔ JAL マイル | 相互。JMB との双務ネット決済 | 成熟。運用上は複数のピアに先行する |
+| Rakuten Point / airline mileage | Current direction, consumer ratio, unit, cap, and transfer window | Wholesale rate, margin, settlement cycle, insolvency allocation |
+| dポイント / JAL mileage | Current direction and eligibility, including excluded point types | Funding party, recognition event, commercial settlement |
+| Pontaポイント / JAL mileage | Current direction, ratio, unit, and eligibility | Bilateral pricing, netting, credit support, operator economics |
 
-構造的な読み：**共通ポイント（楽天、d、Ponta）は広い入口であり、航空マイルは深いシンクである。** 価値がマイルへ流れるのは、そこが単位あたり価値と感情的な償還価値が最も高い場所だからであり、それはまた逆方向のエッジがスロットリングされる理由でもある。これらのエッジに供給するプログラムごとのマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] を、シンクの航空側のメカニクスについては [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] を参照。
+Sources: published consumer terms from [Rakuten Point](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [ANA](https://www.ana.co.jp/en/jp/shoppingandlife/point/tukau_rakuten/), [Ponta](https://www.ponta.jp/), and [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/). Private settlement mechanics are intentionally excluded.
 
-## なぜこれが JapanFG／金融分析にとって重要か
+The structural reading: **common points (Rakuten, d, Ponta) are the broad on-ramps; airline mileage is the deep sink.** Value flows toward mileage because that is where per-unit value and emotional redemption value are highest, which is also why the reverse edges are throttled. For the program-by-program map feeding these edges, see [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]; for the airline-side mechanics of the sink, see [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]].
 
-- **負債は加算不能である。** ある事業者の IR スライド上の高いポイント残高は、システム全体の総額ではなく、その一部は別のバランスシートへ移送中かもしれない。総体としての「日本のポイント経済」の数値（およそ 2.8 兆円という矢野経済研究所の市場規模は*市場*の数値であり、合算された負債ではない）は、決して事業者負債の合計として読まれるべきではない。
-- **ポイント事業者の取得は、そのエッジを取り込む。** 共通ポイントに資本参加する銀行や通信会社（[[megabanks/smfg|SMFG]] が V-Point ／ CCCMK 経由、[[megabanks/ndfg|NDFG]] が dポイント経由、[[payment-firms/rakuten-fg|Rakuten FG]] が内部で）は、決済関係、ブレッカジ見積りの問題、そして現金等価の境界を継承する——単なるマーケティング資産ではない。
-- **交換は現金らしさの圧力弁である。** 交換ネットワークが豊かであるほど、最も流動性の高いポイントは [[payments/funds-transfer-vs-prepaid-boundary|資金移動 / 前払式 boundary]] に近づく。ポイントの上にカード、銀行、証券の商品を重ねてきた事業者（[[megabanks/paypay-fg|PayPay FG]]、[[payment-firms/rakuten-fg|Rakuten FG]]）は、規制当局が旗艦ポイントを現金等価と再分類した場合に最も失うものが大きい。
+## Why this matters for JapanFG / financial analysis
 
-## 関連
+- **Balances may not be additive.** Check reporting perimeters, recognition events, and conversion-in-transit treatment before aggregating.
+- **Ownership does not reveal contracts.** A bank or telco investment in a point operator does not by itself identify settlement relationships or accounting obligations.
+- **Exchange is the cash-like pressure valve.** The richer the exchange network, the closer the most-liquid points sit to the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer / prepaid boundary]]. Operators that have layered card, bank, and securities products on top of a point ([[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]]) have the most to lose if a regulator reclassifies a flagship point as cash-equivalent.
+
+## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
-- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[payments/INDEX|payments INDEX]]
 - [[financial-licenses/payment-license-stack|payment-license stack]]
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
@@ -89,10 +99,10 @@ translated_at: 2026-06-26T08:28:38.466Z
 - [[megabanks/paypay-fg|PayPay FG]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- 楽天グループ プレスリリース——楽天ポイントと JAL マイルの相互交換（2022-05-11）。
-- ANA マイレージクラブ——楽天ポイント交換条件（消費者比率、移転ウィンドウ、償還上限）。
-- 楽天ポイントクラブ公式ガイダンス——交換の最低単位、刻み、月次上限。
-- ASBJ 企業会計基準第29号「収益認識に関する会計基準」——ブレッカジおよび契約負債の枠組み。
-- 一般社団法人ペイメントジャパン／キャッシュレス推進協議会——コード決済の開示規範。
+- Rakuten Group press release — Rakuten Points and JAL Miles mutual exchange (2022-05-11).
+- ANA Mileage Club — Rakuten Point exchange terms (consumer ratio, transfer window, redemption caps).
+- Rakuten Point Club official guidance — exchange minimums, increments, and monthly caps.
+- ASBJ Statement No.29, "Accounting Standard for Revenue Recognition" (収益認識に関する会計基準) — breakage and contract-liability framing.
+- Payment Services Act and FSA registration lists — regulatory issue-spotting boundary.

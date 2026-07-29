@@ -47,7 +47,7 @@
       "Wikipedia: イオンフィナンシャルサービス (2026-05-19 抽出)",
       "イオンフィナンシャルサービス 公式 IR / 有価証券報告書 (公表分)",
       "イオン銀行 ディスクロージャー誌 2025 (https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf)",
-      "Wikipedia: イオン・アリアンツ生命保険 (https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険)"
+      "明治安田生命 2025-07-01 株式取得完了リリース (https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf)"
     ]
   },
   "summary": "This entry sits under card-issuers INDEX. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -93,12 +93,17 @@
       "https://finwiki.zksc.io/ja/regional-banks/seven-bank/",
       "https://finwiki.zksc.io/ja/retail/aeon-group/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.aeonbank.co.jp/company/",
+      "https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf",
+      "https://www.aeonfinancial.co.jp/ir/",
+      "https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5479,
-    "word_like_tokens": 886,
+    "nonspace_chars": 6054,
+    "word_like_tokens": 992,
     "inbound_wikilinks_count": 23,
     "last_modified": "2026-06-08"
   }

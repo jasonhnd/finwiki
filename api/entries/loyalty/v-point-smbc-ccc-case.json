@@ -54,7 +54,7 @@
       "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp"
     ]
   },
-  "summary": "V Point in its current form (2024-04-22 onward) is the bank-led common-point case of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with SMFG's SMBC Card (SMCC) as the issuing financial backbone and the payments / retail partner networ",
+  "summary": "V Point in its current form (2024-04-22 onward) is a bank-led common-point case: the former T Point and SMBC-side V Point services adopted the V Point brand. SMBC Card's official guidance states that customers must link the specified IDs to combine balances; without linking, points remain within the",
   "headings": [
     "V Point (SMBC × CCC) — bank-led common-point case",
     "TL;DR",
@@ -109,12 +109,17 @@
       "https://finwiki.zksc.io/ja/retail/aeon-group/",
       "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://vpoint.jp/",
+      "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+      "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp",
+      "https://www.smfg.co.jp/news/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7706,
-    "word_like_tokens": 1362,
+    "nonspace_chars": 7905,
+    "word_like_tokens": 1392,
     "inbound_wikilinks_count": 16,
     "last_modified": "2026-06-04"
   }

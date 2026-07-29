@@ -40,6 +40,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | Successor entity | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル株式会社 (Mitsubishi HC Capital Inc.)]] (2021-04-01 〜) |
 | Wiki role | 旧 日立レガシー資産 + 三菱HCキャピタル 統合事歴のノード。歴史的継続性確認と検索性のために残置 |
 
+出典: [三菱HCキャピタル企業情報](https://www.mitsubishi-hc-capital.com/english/corporate/)および[日立製作所](https://www.hitachi.com/)（旧社の継承先、統合時期およびグループ関係）。
+
 ## 2. Merger history & business lines (旧)
 
 旧 日立キャピタルは、日立グループの vendor lease を起点として、**英国 (Hitachi Capital UK)・米国・欧州・東南アジア**でのグローバル captive lease 拠点を持つことで他の日系リース会社と差別化されていた。特に **英国** (自動車リース・住宅金融・consumer credit) では現地で大きな市場シェアを持つ稀有な日系金融会社。

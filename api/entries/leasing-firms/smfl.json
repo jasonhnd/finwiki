@@ -82,12 +82,15 @@
       "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
       "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.smfl.co.jp/english/corporate/about/",
+      "https://www.smfl.co.jp/english/corporate/finance/integrated-report/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4146,
-    "word_like_tokens": 613,
+    "nonspace_chars": 4634,
+    "word_like_tokens": 688,
     "inbound_wikilinks_count": 32,
     "last_modified": "2026-06-06"
   }

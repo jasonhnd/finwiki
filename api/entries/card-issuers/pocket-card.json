@@ -79,12 +79,15 @@
       "https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/",
       "https://finwiki.zksc.io/ja/domains/payments/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.pocketcard.co.jp/ir/profile/profile_031.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2844,
-    "word_like_tokens": 439,
+    "nonspace_chars": 3134,
+    "word_like_tokens": 485,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-05"
   }

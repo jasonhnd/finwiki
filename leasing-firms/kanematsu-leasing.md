@@ -38,8 +38,10 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | Headquarters | 東京都港区 (兼松本社近接) |
 | Founded | 1970 年代 (兼松グループ内リース会社として設立) |
 | Parent / group | 兼松株式会社 (8020, 東証 PRIME 上場) |
-| License route | 銀行業許可なし。貸金業登録は関連業務範囲のみ。商社系リースとして商取引付随リース中心 |
+| Regulatory scope | 本ページでは会社固有の貸金業登録を裏付ける当局資料を確認できないため、登録済みとは断定しない。個別商品の適用法令は契約内容ごとに確認する |
 | Wiki role | 中堅商社 (兼松) の captive リース機能。商社系リース ([[leasing-firms/smfl|SMFL]] = 住友商事系 / [[leasing-firms/tokyo-century|東京センチュリー]] = 伊藤忠系 / [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] = 三井物産系) の peer set の小型側 |
+
+出典: [兼松企業情報](https://www.kanematsu.co.jp/)（グループ帰属・上場会社情報）および[リース事業協会](https://www.leasing.or.jp/)（業界区分の確認）。
 
 ## 2. Business lines
 

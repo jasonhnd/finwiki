@@ -42,18 +42,21 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.tokyocentury.co.jp/jp/about/",
+      "https://www.tokyocentury.co.jp/jp/company/info/outline/",
+      "https://www.tokyocentury.co.jp/jp/company/chronology/",
+      "https://www.tokyocentury.co.jp/jp/ir/stock/basic.html",
+      "https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/",
       "https://www.tokyocentury.co.jp/jp/ir/",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.lease.or.jp/"
     ]
   },
-  "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
     "Wiki route",
     "TL;DR",
-    "1. 親グループ関係 - 2 軸株主構造",
+    "1. 主要株主構造",
     "2. 事業セグメント詳細",
     "2.1 国内法人リース・ファイナンス",
     "2.2 国際ビジネス（米州・アジア・欧州）",
@@ -85,12 +88,17 @@
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+      "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
+      "https://www.tokyocentury.co.jp/jp/ir/library/integrated-report/2025/",
+      "https://www.tokyocentury.co.jp/jp/ir/stock/basic.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4465,
-    "word_like_tokens": 746,
+    "nonspace_chars": 4724,
+    "word_like_tokens": 731,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

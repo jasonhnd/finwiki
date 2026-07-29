@@ -1,90 +1,92 @@
 ---
 source: loyalty/v-point-smbc-ccc-case
-source_hash: 76125fbe074acae1
+source_hash: 852a728ab1d7117f
 lang: ja
 status: machine
 fidelity: ok
 title: "V Point (SMBC × CCC) — 銀行主導の共通ポイント事例"
-translated_at: 2026-06-19T06:09:18.176Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# V Point (SMBC × CCC) — 銀行主導の共通ポイント事例
+# V Point (SMBC × CCC) — bank-led common-point case
 
 ## TL;DR
 
-現在の形態 (2024-04-22 以降) における V Point は、日本における **銀行主導の共通ポイント事例** である：SMBC の既存の V Point と CCCMK ホールディングスの T Point が V Point ブランドの下で単一のポイントに統合され、[[megabanks/smfg|SMFG]] の [[card-issuers/smbc-card|SMBC Card]] (SMCC) が発行金融基盤となり、T Point から継承された [[payments/INDEX|payments]] / [[retail/INDEX|retail]] のパートナーネットワークを持つ。これは、通信主導 (dポイント)、EC 主導 (楽天ポイント)、決済アプリ主導 (PayPay ポイント) の共通ポイントシステムに対する最も信頼できる対抗軸である。
+V Point in its current form (2024-04-22 onward) is a **bank-led common-point case**: the former T Point and SMBC-side V Point services adopted the V Point brand. SMBC Card's official guidance states that customers must link the specified IDs to combine balances; without linking, points remain within their existing service scopes. The customer-facing unification therefore does not imply that every balance was automatically one ledger.
 
-この種の統合の内部で「ポイント負債」が実際に何を意味するかについての会計的フレーミングは [[loyalty/point-liability-accounting-boundary]] を参照。より広範な競争マップについては [[loyalty/japan-points-landscape]] と [[loyalty/INDEX|loyalty index]] を参照。
+For accounting framing on what "point liability" actually means inside this kind of unification, see [[loyalty/point-liability-accounting-boundary]]. For the broader competitive map, see [[loyalty/japan-points-landscape]] and [[loyalty/INDEX|loyalty index]].
 
-## タイムライン
+## Timeline
 
-| 日付 | イベント |
+| Date | Event |
 |---|---|
-| 2003 | T Point が CCC (カルチュア・コンビニエンス・クラブ) が運営する日本初の全国的共通ポイントとしてローンチ — アンカーパートナー：ツタヤ、ファミリーマート、ENEOS |
-| 2020 | Vポイントが SMBC カードの自社クレジットカード報酬ポイントとしてローンチ (多くの保有者にとってワールドプレゼントの置き換え) |
-| 2022-10 | CCC と SMFG / SMBC が T Point と V Point の統合の意向を発表 |
-| 2023-03 | CCC が T Point 事業を CCCMK ホールディングス (SMFG グループと共同保有する合弁ビークル) に再編 |
-| 2023-06 | CCCMK ホールディングス設立 (SMFG 側の資本参加) |
-| 2024-04-22 | T Point と Vポイントが「Vポイント」ブランドの下で統合；共通ポイント事業の T Point ブランディングが終了 |
-| 2024- | SMBC Olive アカウントが、銀行の旗艦リテール商品のコアロイヤルティ層として V Point の獲得を統合 |
-| 2025- | レガシーの T カード保有者の V カードデザインへの段階的移行；パートナー加盟店ネットワークが V Point の受け入れに切り替え |
+| 2003 | T Point launches as Japan's first nationwide common-point operated by CCC (Culture Convenience Club) — anchor partners: Tsutaya, FamilyMart, ENEOS |
+| 2020 | Vポイント launches as SMBC Card's proprietary credit-card reward point (replacement for ワールドプレゼント for many holders) |
+| 2022-10 | CCC and SMFG / SMBC announce intent to unify T Point and V Point |
+| 2023-03 | CCC reorganises T Point operations into CCCMK Holdings (the joint venture vehicle co-owned with SMFG group) |
+| 2023-06 | CCCMK Holdings established (SMFG-side capital participation) |
+| 2024-04-22 | T Point and Vポイント unify under the "Vポイント" brand; T Point branding for the common-point business ends |
+| 2024- | SMBC Olive Account integrates V Point earn as core loyalty layer for the bank's flagship retail product |
+| 2025- | Rolling migration of legacy T-card holders to V-card design; partner-merchant network rolled over to V Point acceptance |
 
-## プレイヤー
+Sources: [CCC's 2024 unification release](https://www.ccc.co.jp/en/news/press/20240109_002347.html), [V Point](https://vpoint.jp/), [SMBC Card](https://www.smbc-card.com/mem/service/cardless/vpoint.jsp), and [SMFG news](https://www.smfg.co.jp/news/). The timeline separates published completion dates from continuing transition activity.
 
-- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]] (三井住友カード、SMCC)** — 銀行側アンカー。SMBC のクレジットカードと Olive アカウントの報酬層として V Point を発行する。信用と決済のレールを提供する。
-- **CCC / CCCMK ホールディングス** — 歴史的な共通ポイント運営者；T Point のパートナー加盟店ネットワーク (ファミリーマート、ENEOS、ツタヤ、ドラッグストア、レストラン、ホテル)、約 70 万人の T カード保有者のユーザー基盤、およびデータマーケティング事業をもたらす。
-- **Tカード → Vカード 移行** — レガシーの T カードは定められた移行期間中、参加加盟店で引き続き V Point を獲得する；新規発行は V カードブランドである。
-- **Olive アカウント** — V Point をロイヤルティ層として使用する SMBC の「オールインワン」リテール商品 (デビット + クレジット + 決済 + 投資)。2023, にローンチし、2024-2025を通じて拡大した。
+## Players
 
-## メカニクス
+- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]] (Sumitomo Mitsui Card Company, SMCC)** — bank-side anchor. Issues V Point as the rewards layer of SMBC's credit cards and the Olive Account. Provides the credit and payment rails.
+- **CCC / CCCMK Holdings** — historical common-point operator; brings the T Point partner-merchant network (FamilyMart, ENEOS, Tsutaya, drug stores, restaurants, hotels), the user base of around 70 million T-Card holders, and the data-marketing operation.
+- **Tカード → Vカード migration** — legacy T-cards continue to earn V Point at participating merchants during a defined migration window; new issuance is V-card branded.
+- **Olive Account** — SMBC's "all-in-one" retail product (debit + credit + payment + investment) that uses V Point as its loyalty layer. Launched in 2023, expanded through 2024-2025.
 
-| 獲得サーフェス | V Point の貯まり方 |
+## Mechanics
+
+| Earn surface | How V Point accrues |
 |---|---|
-| SMBC カード / SMCC クレジットカード利用 | 基本料率＋ボーナスカテゴリー (コンビニ、ファストフード)；「Vポイントアッププログラム」加盟店ではより高い料率 |
-| Olive アカウント | 銀行口座の活動、デビット利用、口座振替の設定、給与振込、その他の「選べる特典」の選択がポイント獲得に寄与 |
-| POS でのパートナー加盟店スキャン | ファミリーマート、ENEOS、ドラッグストア、レストランでの継承された T Point の物理カード / アプリスキャンフロー |
-| V Point アプリ | コード決済 / スキャン＆アーン / キャンペーンキャッシュバック |
-| 投資プロモーション | SBI証券 の協業 (SMBC + SBI アライアンス) により V Point を一部のファンド購入に使用可能 — SMBC 提携顧客にとって楽天ポイント / dポイント に直接の同等物がない機能 |
+| SMBC Card / SMCC credit card spend | Base rate plus bonus categories (convenience stores, fast food); higher rate at "Vポイントアッププログラム" merchants |
+| Olive Account | Bank account activity, debit spend, direct-debit setups, salary credit, and other "選べる特典" choices feed point earn |
+| Partner merchant scan at POS | Inherited T Point physical-card / app scan flow at FamilyMart, ENEOS, drugstores, restaurants |
+| V Point app | Code payment / scan-and-earn / campaign cashback |
+| Investment promotions | SBI証券 cooperation (SMBC + SBI alliance) lets V Point be used for some fund purchases — a feature without a direct equivalent in Rakuten Points / dポイント for SMBC-aligned customers |
 
-## 規模とパートナー加盟店の切り替え
+## Scale and partner-merchant rollover
 
-2024 統合の戦略的ポイントは単なる加算ではなく、T Point のパートナー加盟店ネットワーク (コンビニ、ガソリンスタンド、ドラッグストア、レストランに深く根ざす) を取り込み、銀行発行の共通ポイントに結び付けることであった。統合後、V Point は以下を継承する：
+The strategic point of the 2024 unification was not just additive — it was to take the T Point partner-merchant network (deep in convenience stores, gas stations, drug stores, restaurants) and bind it to a bank-issued common point. Post-unification, V Point inherits:
 
-- 数千万規模と称される総会員基盤 (SMBC + CCCMK の歴史的な両側の合算)。
-- 2024前の SMBC の単独の V Point よりもすでに広かった物理加盟店受け入れネットワーク。
-- 歴史的に CCC が運営してきたマーケティングデータインフラ — すなわち、報酬経済を超えて T Point を商業的に価値あるものにした顧客 ID グラフ。
+- A claimed total membership base in the tens of millions (SMBC + CCCMK historical sides combined).
+- A physical-merchant acceptance network that was already broader than SMBC's standalone V Point pre-2024.
+- Marketing-data infrastructure historically operated by CCC — i.e. the customer ID graph that made T Point commercially valuable beyond reward economics.
 
-ネットワーク切り替えのクリーンなバージョンは、T Point を受け入れるすべての加盟店が移行カレンダー上で V Point を受け入れる加盟店になるということである。摩擦のあるバージョンは、一部のロングテール加盟店が参加を維持せず、一部のチェーンが参加条件を再交渉したということである。
+The clean version of the network rollover is that any T-Point-accepting merchant becomes a V-Point-accepting merchant on the migration calendar. The friction version is that some long-tail merchants did not maintain participation, and some chains renegotiated participation terms.
 
-## 競争上のポジショニング
+## Competitive positioning
 
-| 共通ポイントシステム | アンカータイプ | 最も強いチャネル | V Point の相対的ポジション |
+| Common-point system | Anchor type | Strongest channel | V Point's relative position |
 |---|---|---|---|
-| 楽天ポイント ([[payment-firms/rakuten-fg|Rakuten FG]]) | EC 主導 | オンラインショッピング + 楽天カード + 楽天ペイ + 楽天モバイル | V Point はオンラインで弱く、物理アンカー加盟店で強い |
-| dポイント ([[megabanks/ndfg|NDFG]] / NTT ドコモ) | 通信主導 | モバイル回線 ID、d払い、dカード | V Point は通信に縛られない；非ドコモユーザーで優位 |
-| PayPay ポイント ([[megabanks/paypay-fg|PayPay FG]]) | 決済アプリ主導 | コード決済の頻度＋キャンペーン | V Point はキャンペーン駆動が少ない；1 円あたりのより耐久的な経済性 |
-| Ponta ([[megabanks/au-fh|au FH]] / ロイヤリティ マーケティング) | 通信＋リテール連合 | ローソン、KDDI / au PAY、ホットペッパー | V Point はコンビニ獲得で重複するが銀行側アンカーを持つ |
-| WAON POINT ([[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]) | リテールグループ主導 | イオンモール / スーパーマーケット | 異なるポジショニング — 店舗頻度ロイヤルティ対クロス加盟店共通ポイント |
-| nanaco ポイント ([[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]) | コンビニ主導 | セブン-イレブン / イトーヨーカドー | 異なるポジショニング — コンビニロイヤルティ対クロス加盟店共通ポイント |
+| Rakuten Points ([[payment-firms/rakuten-fg|Rakuten FG]]) | E-commerce-led | Online shopping + Rakuten Card + 楽天ペイ + Rakuten Mobile | V Point weaker online, stronger at physical anchor merchants |
+| dポイント ([[megabanks/ndfg|NDFG]] / NTT docomo) | Telco-led | Mobile-line ID, d払い, dカード | V Point not telco-bound; advantage with non-docomo users |
+| PayPay Points ([[megabanks/paypay-fg|PayPay FG]]) | Payment-app-led | Code payment frequency + campaigns | V Point less campaign-driven; more durable per-yen economics |
+| Ponta ([[megabanks/au-fh|au FH]] / Loyalty Marketing) | Telco + retail coalition | Lawson, KDDI / au PAY, Hot Pepper | V Point overlaps in convenience-store earn but with bank-side anchor |
+| WAON POINT ([[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]) | Retail-group-led | AEON malls / supermarkets | Different positioning — store-frequency loyalty vs cross-merchant common point |
+| nanaco point ([[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]) | Convenience-led | Seven-Eleven / Ito-Yokado | Different positioning — convenience-store loyalty vs cross-merchant common point |
 
-V Point の戦略的な新規性は銀行主導の形態である：
+The strategic novelty of V Point is the bank-led shape:
 
-- **通信主導** (dポイント、Ponta-au)：アイデンティティはモバイル回線アカウントから来る；ロイヤルティが決済を拡張する。
-- **EC 主導** (楽天)：アイデンティティはショッピングカートから来る；ロイヤルティが金融クロスセルを駆動する。
-- **決済アプリ主導** (PayPay)：アイデンティティはウォレットアプリから来る；ロイヤルティはキャンペーン資金による獲得である。
-- **リテールグループ主導** (WAON、nanaco)：アイデンティティは店舗から来る；ロイヤルティが店舗頻度を深める。
-- **銀行主導** (V Point / SMBC / Olive)：アイデンティティは銀行口座とカードから来る；ロイヤルティがクレジットカードの経済性から外側のパートナー加盟店ネットワークへと拡張する。
+- **Telco-led** (dポイント, Ponta-au): identity comes from the mobile-line account; loyalty extends payment.
+- **E-commerce-led** (Rakuten): identity comes from the shopping cart; loyalty drives financial cross-sell.
+- **Payment-app-led** (PayPay): identity comes from the wallet app; loyalty is campaign-funded acquisition.
+- **Retail-group-led** (WAON, nanaco): identity comes from the store; loyalty deepens store frequency.
+- **Bank-led** (V Point / SMBC / Olive): identity comes from the bank account and card; loyalty extends from credit-card economics outward into a partner-merchant network.
 
-銀行主導の形態は、V Point に (SMBC + SBI を介した) 投資・貯蓄クロスセルへの最も自然なルートと、(Olive を介した)「メインバンク口座」ワークフローへのルートを与える。トレードオフは、楽天よりも弱いオンラインコマースの引力と、PayPay よりも弱いコード決済キャンペーンの筋力である。
+The bank-led shape gives V Point the most natural route into investment and savings cross-sell (via SMBC + SBI), and into a "main bank account" workflow (via Olive). The trade-off is weaker online-commerce gravity than Rakuten and weaker code-payment campaign muscle than PayPay.
 
-## なぜこれが JapanFG 分析にとって重要なのか
+## Why this matters for JapanFG analysis
 
-- V Point は日本における **メガバンク主導の共通ポイント流通層** の最もクリーンなライブ事例である。これなしに [[megabanks/smfg|SMFG]] を読むと、SMBC のリテール戦略を過小評価することになる。
-- これは SMBC × SBI アライアンスの下での SBI証券 側の投資商品の自然なクロスセルレールである — 証券流通分析に関連する。
-- いかなる加盟店アクワイアリング / PSP 分析にとっても、V Point のパートナー加盟店ネットワークは今や楽天や dポイント と並ぶ第三の重要な共通ポイントのフットプリントである。
-- 消費者向け銀行の競争分析にとって、Olive アカウント + V Point のバンドルは、日本のメガバンクによる最も目に見える「フィンテックアプリとしてのメインバンク」の試みであり、[[megabanks/mufg|MUFG]] や [[megabanks/mizuho-fg|Mizuho FG]] のアプローチと対照をなす。
+- V Point is the cleanest live case of a **megabank-led common-point distribution layer** in Japan. Reading [[megabanks/smfg|SMFG]] without it understates SMBC's retail strategy.
+- It is the natural cross-sell rail for SBI証券-side investment products under the SMBC × SBI alliance — relevant to securities-distribution analysis.
+- For any merchant-acquiring / PSP analysis, the V Point partner-merchant network is now a third significant common-point footprint alongside Rakuten and dポイント.
+- For consumer-bank competitive analysis, the Olive Account + V Point bundle is the most visible "main-bank-as-fintech-app" attempt by a Japanese megabank, contrasting with [[megabanks/mufg|MUFG]] and [[megabanks/mizuho-fg|Mizuho FG]] approaches.
 
-## 関連
+## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/japan-points-landscape]]
@@ -101,11 +103,11 @@ V Point の戦略的な新規性は銀行主導の形態である：
 - [[payments/INDEX|payments]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- Vポイント公式サイト (https://vpoint.jp/)。
-- SMBC Olive アカウント公式サイト (https://www.smbc.co.jp/kojin/olive/)。
-- SMBC カード (SMCC) V Point サービスページ。
-- CCC / CCCMK ホールディングス の T Point と V Point 統合に関するプレスリリース。
-- SMFG の T Point アライアンスと V Point 統合に関するニュースリリース。
-- 2024-04-22 の T Point + V Point 統合に関する公開報道。
+- Vポイント公式サイト (https://vpoint.jp/).
+- SMBC Olive Account official site (https://www.smbc.co.jp/kojin/olive/).
+- SMBC Card (SMCC) V Point service pages.
+- CCC / CCCMK Holdings press releases on T Point and V Point unification.
+- SMFG news releases on T Point alliance and V Point integration.
+- Public reporting on the 2024-04-22 T Point + V Point unification.

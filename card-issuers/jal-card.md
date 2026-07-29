@@ -90,6 +90,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 | 2024-04 | **JAL Pay** ローンチ — JAL マイル ↔ プリペイド ↔ 加盟店決済の統合 |
 | 2026 | DX 認定事業者として再認定（プレスリリース） |
 
+Sources: [JALカード あゆみ](https://jalcard.jal.co.jp/profile/company/history/) and [JALカード 会社概要](https://jalcard.jal.co.jp/profile/company/overview/). Parent-company restructuring and product dates should be read as JAL/JALカード public disclosures, respectively.
+
 ## 7. 関連企業・取引先
 
 - **国際ブランド提携カード会社**：[[card-issuers/smbc-card|三井住友カード]]（VISA・Mastercard）、[[card-issuers/jcb|JCB]]、[[card-issuers/mufg-nicos|三菱UFJニコス]]（VISA・Mastercard）、American Express、Diners Club

@@ -113,12 +113,16 @@
       "https://finwiki.zksc.io/ja/payments/edy-rakuten-prepaid/",
       "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://corp.rakuten.co.jp/investors/financial/",
+      "https://global.rakuten.com/corp/news/update/2022/0719_01.html",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9025,
-    "word_like_tokens": 1514,
+    "nonspace_chars": 9347,
+    "word_like_tokens": 1564,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-04"
   }

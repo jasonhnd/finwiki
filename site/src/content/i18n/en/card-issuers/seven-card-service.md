@@ -1,11 +1,11 @@
 ---
 source: card-issuers/seven-card-service
-source_hash: aa2d64cbce45cc91
+source_hash: 04cca1fe7d08aeab
 lang: en
 status: machine
 fidelity: ok
 title: "Seven Card Service"
-translated_at: 2026-06-26T03:26:36.037Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # Seven Card Service
 
@@ -27,6 +27,8 @@ Seven Card Service is the card and retail-payment operator around [[retail/seven
 | Main lanes | Credit card, nanaco electronic money, retail payment services |
 | Regulatory route | Installment Sales Act / card-credit control, METI credit-transaction materials, and official company profile. ^[verified-2026-06-24] |
 | Retail-payment boundary | Official company materials describe both credit-card services and e-money nanaco issuance / operation. ^[verified-2026-06-24] |
+
+Sources: [Seven Card Service company information](https://www.7card.co.jp/company/com_info/) and [business overview](https://www.7card.co.jp/company/bs/). The statutory route is checked through [METI credit-transaction policy](https://www.meti.go.jp/policy/economy/consumer/credit/).
 
 ## 2007 年. Business role
 

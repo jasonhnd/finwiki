@@ -83,12 +83,15 @@
       "https://finwiki.zksc.io/ja/payments/japan-payment-scheme-economics-matrix/",
       "https://finwiki.zksc.io/ja/securities-firms/paypay-securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.meti.go.jp/policy/economy/consumer/credit/",
+      "https://www.paypay-card.co.jp/company/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2307,
-    "word_like_tokens": 342,
+    "nonspace_chars": 2578,
+    "word_like_tokens": 386,
     "inbound_wikilinks_count": 25,
     "last_modified": "2026-06-26"
   }

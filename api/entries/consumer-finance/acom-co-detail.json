@@ -43,10 +43,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.acom.co.jp/corporate/corporate/overview.html",
-      "https://www.acom.co.jp/corporate/ir/",
-      "https://disclosure2.edinet-fsa.go.jp/",
-      "https://www.mufg.jp/profile/group/index.html"
+      "https://www.acom.co.jp/corp/about-us/company/outline/",
+      "https://www.acom.co.jp/corp/about-us/company/history/",
+      "https://www.acom.co.jp/corp/ir/stock/outline/",
+      "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf"
     ]
   },
   "summary": "This entry sits under consumer-finance INDEX and complements the company-level summary at アコム株式会社. Read it against SMBCコンシューマーファイナンス (プロミス) for MUFG-group competitor SMFG-side context, アイフル for independent-pure-play consumer-finance peer, and MUFG / 三菱UFJ銀行 for parent-group context.",
@@ -86,12 +86,15 @@
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf",
+      "https://www.acom.co.jp/corp/ir/stock/outline/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4584,
-    "word_like_tokens": 734,
+    "nonspace_chars": 4739,
+    "word_like_tokens": 767,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

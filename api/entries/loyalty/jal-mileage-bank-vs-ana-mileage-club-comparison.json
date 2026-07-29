@@ -72,7 +72,7 @@
     "Non-flight accrual",
     "Mileage redemption — seat inventory dominant",
     "Status-tier dynamics — FOP / PP and JGC / SFC",
-    "Deferred-revenue accounting — IFRS 15 contract liability",
+    "Accounting review framework — not an airline-specific conclusion",
     "Partner-network depth — beyond alliance"
   ],
   "body_links": {
@@ -117,12 +117,21 @@
       "https://finwiki.zksc.io/ja/payments/japan-code-payment-operator-2025-market-share-matrix/",
       "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.ana.co.jp/group/investors/",
+      "https://www.ana.co.jp/ja/jp/amc/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+      "https://www.jal.co.jp/jp/ja/jalmile/",
+      "https://www.jal.com/ja/investor/",
+      "https://www.oneworld.com/",
+      "https://www.staralliance.com/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 15836,
-    "word_like_tokens": 2629,
+    "nonspace_chars": 15101,
+    "word_like_tokens": 2529,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-04"
   }

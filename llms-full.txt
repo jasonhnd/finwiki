@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T15:37:07+09:00
+Generated: 2026-07-29T17:20:34+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1603
-Public pages listed: 1602
+Markdown files: 1604
+Public pages listed: 1603
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 04 corrections (#234), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 05 corrections (#235), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -1792,7 +1792,7 @@ Public pages listed: 1602
 - Headings: イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS), Wiki route, TL;DR, 1. 会社概要, イオンフィナンシャルサービス（AFS）— 中間持株会社, グループ構造（概要）, 重要子会社・関連, 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sony-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/retail/aeon-group/
 
-### 電通グループ金融子会社 (Dentsu Group Financial Arm)
+### 電通ベンチャーズ (Dentsu Ventures)
 - URL: https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/
 - Japanese HTML: https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/
 - English alternate: https://finwiki.zksc.io/en/card-issuers/aeon-financial-service-detail/
@@ -1801,9 +1801,9 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service-detail.md
 - Domain: card-issuers
 - Type: wiki_entry
-- Summary: This entry sits under card-issuers INDEX as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer co
-- Headings: 電通グループ金融子会社 (Dentsu Group Financial Arm), Wiki route, TL;DR, 1. 親会社・グループ構造, グループ金融機能の所在, 2.1 電通ベンチャーズ（Dentsu Ventures）, 2.2 電通キャピタル（電通グループの戦略投資 / M&A 機能）, 2.3 広告主向け請求・決済機能
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sony-fg/
+- Summary: This legacy-path entry remains under card-issuers INDEX for route compatibility but records only the documented Dentsu Ventures CVC fund. Read it with 日本 CVC ランドスケープ and contrast it with the actual financial-services operating-company entry イオンフィナンシャルサービス; it is not a card-issuer or captive-finance
+- Headings: 電通ベンチャーズ (Dentsu Ventures), Wiki route, TL;DR, 1. 親会社・グループ構造, 2. 電通ベンチャーズ（Dentsu Ventures）, 3. 確認範囲, 4. 公表値（2021-04-27 リリース時点）, Related
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/
 
 ### イオンフィナンシャルサービス (AEON Financial Service)
 - URL: https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/
@@ -1910,10 +1910,10 @@ Public pages listed: 1602
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
 - Summary: This entry sits under card-issuers INDEX. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 株式会社ジェーシービー (JCB), Wiki route, TL;DR, 1. 会社概要, 略称の由来, 主要株主 (公開情報・非上場のため概要のみ), 主要子会社・関連法人, 重要年表
+- Headings: 株式会社ジェーシービー (JCB), Wiki route, TL;DR, 1. 会社概要, 略称の由来, 出資・株主情報の扱い, 主要子会社・関連法人, 重要年表
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
-### JR東日本 金融グループ (JR-East Financial Subsidiaries)
+### JR東日本のカード・銀行代理サービス
 - URL: https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/
 - Japanese HTML: https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/
 - English alternate: https://finwiki.zksc.io/en/card-issuers/jr-east-financial/
@@ -1922,9 +1922,9 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/card-issuers/jr-east-financial.md
 - Domain: card-issuers
 - Type: wiki_entry
-- Summary: This entry sits under card-issuers INDEX as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer com
-- Headings: JR東日本 金融グループ (JR-East Financial Subsidiaries), Wiki route, TL;DR, 1.1 株式会社ビューカード（View Card）, 1.2 JRE BANK（2024-05 開業）, 1.3 JR 東日本ペイメントサービス + Suica, 2. 業務ライン（金融機能マップ）, 3. 親会社関係（JR 東日本 連結内）
-- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/payment-firms/paypay/, https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/
+- Summary: This entry sits under card-issuers INDEX to distinguish the legal entity 株式会社ビューカード from the JRE BANK service. Read イオン銀行 / AFS as a retail-finance contrast: JRE BANK uses a bank-agency model rather than a group-owned bank. This page does not assert a separate “JR-East Financial” company or a paymen
+- Headings: JR東日本のカード・銀行代理サービス, Wiki route, TL;DR, 1.1 株式会社ビューカード（View Card）, 1.2 JRE BANK（2024-05 開業）, 2. 業務ライン（金融機能マップ）, 3. 法人境界, 6. 規制・監督
+- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/
 
 ### ライフカード (Life Card)
 - URL: https://finwiki.zksc.io/ja/card-issuers/life-card/
@@ -2084,7 +2084,7 @@ Public pages listed: 1602
 - Domain: card-issuers
 - Type: wiki_entry
 - Summary: This entry sits under card-issuers INDEX. Read it against 株式会社JALカード for peer / contrast context and credit purchase / card operators index for the broader regulatory / registry boundary.
-- Headings: 株式会社ビューカード (Viewcard), Wiki route, TL;DR, 1. 法人・株主, 2. ライセンス・登録, 3. 商品ライン, 4. 主要 KPI（公表ベース）, 5. 業界ポジション
+- Headings: 株式会社ビューカード (Viewcard), Wiki route, TL;DR, 1. 法人・株主, 2. ライセンス・登録, 3. 商品ライン, 4. 公表値の扱い, 5. 業界ポジション
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/card-issuers/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/epos-card/, https://finwiki.zksc.io/ja/card-issuers/jal-card/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/, https://finwiki.zksc.io/ja/card-issuers/seven-card-service/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/
 
 ### consumer-finance — Japanese consumer lender (貸金業) index
@@ -9655,7 +9655,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/chibagin-leasing.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎ
+- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 浜銀ファイナンス (神奈川地銀系リース) / 北海道リース / 山口リース / い
 - Headings: ちばぎんリース (Chibagin Leasing), Wiki route, TL;DR, 1. 会社概要, 持株ツリー (千葉銀グループ簡略図), 主要業務ライン, グループ内クロスリンク, 地銀系リース peer 比較
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/regional-bank-api-digital-partnership-route/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/, https://finwiki.zksc.io/ja/leasing-firms/ibj-leasing/, https://finwiki.zksc.io/ja/leasing-firms/iyogin-leasing/
 
@@ -9694,7 +9694,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/hokkaido-lease.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.
+- Summary: This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional specialist) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 for the principal-shareholder / equity-method relationship.
 - Headings: 北海道リース, Wiki route, TL;DR, 1. License / group boundary, 2. Business lines, 3. Strategy & competitive position, 4. Why this page matters, Related
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/, https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/
 
@@ -9720,7 +9720,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/iyogin-leasing.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千
+- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for いよぎん HD グループ (伊予銀行 母体)。Read it against parent operating bank 伊予銀行 and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: めぶきリース (北関東) / 浜銀ファイナンス (神奈川) / ちばぎんリース
 - Headings: いよぎんリース (Iyogin Leasing), Wiki route, TL;DR, 1. 会社概要, 持株ツリー (いよぎん HD グループ簡略図), 主要業務ライン, グループ内クロスリンク, 地銀系リース peer 比較
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/regional-bank-api-digital-partnership-route/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/chibagin-leasing/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/, https://finwiki.zksc.io/ja/leasing-firms/ibj-leasing/
 
@@ -9759,7 +9759,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/mitsubishi-hc-capital.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / parent context, and against the FSA for the supervisory boundary (lessors register
+- Summary: This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / shareholder context, and against the FSA for the supervisory boundary.
 - Headings: 三菱 HC キャピタル (Mitsubishi HC Capital), Wiki route, TL;DR, 1. Identity / merger lineage, 2. Operating model, 3. Strategic read, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mufg/
 
@@ -9798,7 +9798,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/nec-leasing.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are事業会社 captive lease) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.
+- Summary: This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are manufacturer-product vendor lease を起点とする上場会社) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.
 - Headings: NECキャピタルソリューション, Wiki route, TL;DR, 1. License / group boundary, 2. Business lines, 3. Strategy & competitive position, 4. Why this page matters, Related
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/
 
@@ -9839,7 +9839,7 @@ Public pages listed: 1602
 - Type: wiki_entry
 - Summary: This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with Mizuho FG and Mizuho Leasing when mapping Mizuho-side asset-fin
 - Headings: リコーリース, Wiki route, TL;DR, 1. License / group boundary, 2. Business lines, 3. Strategy & competitive position, 4. Why this page matters, Related
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/
 
 ### 昭和リース
 - URL: https://finwiki.zksc.io/ja/leasing-firms/showa-leasing/
@@ -9889,8 +9889,8 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/tokyo-century-detail.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.
-- Headings: 東京センチュリー 事業詳細 (Tokyo Century Operating Profile), Wiki route, TL;DR, 1. 親グループ関係 - 2 軸株主構造, 2. 事業セグメント詳細, 2.1 国内法人リース・ファイナンス, 2.2 国際ビジネス（米州・アジア・欧州）, 2.3 航空機ファイナンス（戦略的差別化）
+- Summary: This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context and banking index for the broader system / regulatory boundary.
+- Headings: 東京センチュリー 事業詳細 (Tokyo Century Operating Profile), Wiki route, TL;DR, 1. 主要株主構造, 2. 事業セグメント詳細, 2.1 国内法人リース・ファイナンス, 2.2 国際ビジネス（米州・アジア・欧州）, 2.3 航空機ファイナンス（戦略的差別化）
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/nec-capital-solutions/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/
 
 ### 東京センチュリー株式会社 (Tokyo Century Corporation)
@@ -9917,7 +9917,7 @@ Public pages listed: 1602
 - Type: wiki_entry
 - Summary: This entry sits under leasing-firms INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: トヨタファイナンシャルサービス (TFS), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ会社, 業態カテゴリ, 2. 沿革・年表, 3. 事業セグメント・マップ
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/, https://finwiki.zksc.io/ja/megabanks/mufg/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/, https://finwiki.zksc.io/ja/megabanks/mufg/
 
 ### 山口リース (Yamaguchi Leasing)
 - URL: https://finwiki.zksc.io/ja/leasing-firms/yamaguchi-leasing/
@@ -9928,11 +9928,11 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/yamaguchi-leasing.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 山口 FG (YMFG). Read it against parent operating banks 山口 FG 3 行体制 (もみじ銀行 / 北九州銀行 / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: めぶきリース (北関東) / 横浜銀リース (神奈川) / ちばぎんリース (千葉) / 北海道リース / いよぎんリー
+- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 山口 FG (YMFG). Read it against parent operating banks 山口 FG 3 行体制 (もみじ銀行 / 北九州銀行 / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: めぶきリース (北関東) / 浜銀ファイナンス (神奈川) / ちばぎんリース (千葉) / 北海道リース / いよぎん
 - Headings: 山口リース (Yamaguchi Leasing), Wiki route, TL;DR, 1. 会社概要, 持株ツリー (YMFG グループ簡略図), 主要業務ライン, グループ内クロスリンク, 地銀系リース peer 比較
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/regional-bank-api-digital-partnership-route/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/chibagin-leasing/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/, https://finwiki.zksc.io/ja/leasing-firms/ibj-leasing/
 
-### 横浜銀リース (Yokohama Bank Leasing)
+### 浜銀ファイナンス (Hamagin Finance)
 - URL: https://finwiki.zksc.io/ja/leasing-firms/yokohama-bank-leasing/
 - Japanese HTML: https://finwiki.zksc.io/ja/leasing-firms/yokohama-bank-leasing/
 - English alternate: https://finwiki.zksc.io/en/leasing-firms/yokohama-bank-leasing/
@@ -9941,9 +9941,9 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/yokohama-bank-leasing.md
 - Domain: leasing-firms
 - Type: wiki_entry
-- Summary: This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 東日本銀行. Peer comparison: めぶきリース (北関東地銀系) and major lessor 三菱 HC キャピタル / みずほリース / 東京センチュリー. For broader
-- Headings: 横浜銀リース (Yokohama Bank Leasing), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 横浜銀リース 設立, CFG → YFG 商号変更 (2025-10-01), 4. KPI table (qualitative — no standalone subsidiary financials disclosed)
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/, https://finwiki.zksc.io/ja/leasing-firms/mebuki-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/nec-leasing/, https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/
+- Summary: This entry sits under the leasing-firms INDEX as the leasing and finance operating-company entry for the 横浜銀行 group. Read it with 横浜フィナンシャルグループ, regional-bank leasing peer めぶきリース, and the broader banking index.
+- Headings: 浜銀ファイナンス (Hamagin Finance), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 3. 沿革, 4. 公開スナップショット, 5. 事業マップ
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/hokkaido-lease/, https://finwiki.zksc.io/ja/leasing-firms/mebuki-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/regional-banks/concordia-fg/
 
 ### life-insurers — Japanese life-insurance operating company index
 - URL: https://finwiki.zksc.io/ja/domains/life-insurers/
@@ -10576,7 +10576,7 @@ Public pages listed: 1602
 - Headings: loyalty domain, TL;DR, Route Map, Active Entries, Expansion Backlog, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/JapanFG/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/jal-card/, https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/jre-point-and-jre-bank-ecosystem/, https://finwiki.zksc.io/ja/loyalty/point-economy-funding-source-comparison/
 
-### au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack
+### au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack
 - URL: https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/
 - Japanese HTML: https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/
 - English alternate: https://finwiki.zksc.io/en/loyalty/au-pay-loyalty-ecosystem-deep/
@@ -10586,10 +10586,10 @@ Public pages listed: 1602
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty index as the operator-deep page for the KDDI au-economic-zone loyalty stack, complementing d Point / au / docomo telco-point consolidation case (the cross-telco comparison view) and d Point detailed ecosystem (the docomo-side deep dive). Pair it with Ponta points deep d
-- Headings: au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack, Wiki route, TL;DR, The six-layer integrated stack, Pontaポイント — the loyalty-currency anchor (post-2020 "au Ponta"), au PAY — the QR / barcode wallet layer, au PAY Card — the credit-card layer, au Smart Pass + au Smart Pass Premium — the bundled-subscription layer
+- Headings: au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack, Wiki route, TL;DR, The six-layer integrated stack, Pontaポイント — the loyalty-currency anchor (post-2020 "au Ponta"), au PAY — the QR / barcode wallet layer, au PAY Card — the credit-card layer, Pontaパス — the bundled-subscription layer
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/jre-point-and-jre-bank-ecosystem/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/
 
-### dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation
+### dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison
 - URL: https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/
 - Japanese HTML: https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/
 - English alternate: https://finwiki.zksc.io/en/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/
@@ -10599,10 +10599,10 @@ Public pages listed: 1602
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty INDEX and is the telco-anchored counterpart to the finance-anchored V Point (SMBC × CCC) case. Read with Japan points and loyalty landscape for the cross-ecosystem map, point liability accounting boundary for the breakage / IFRS-15 treatment, and Japan code-payment comp
-- Headings: dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation, Wiki route, TL;DR, Telco-anchored model — what subscriber identity buys, Side-by-side comparison, The Lawson question — overlapping retail anchor, NTT docomo — d Point as the front-end of NDFG, KDDI — au Point inside au FH
+- Headings: dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison, Wiki route, TL;DR, Telco-anchored model — what subscriber identity buys, Side-by-side comparison, The Lawson question — overlapping retail anchor, NTT docomo — d Point as the front-end of NDFG, KDDI — Ponta linkage around au FH
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/, https://finwiki.zksc.io/ja/payment-firms/au-payment/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/
 
-### d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform
+### d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules
 - URL: https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/
 - Japanese HTML: https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/
 - English alternate: https://finwiki.zksc.io/en/loyalty/d-point-detailed-ecosystem/
@@ -10612,7 +10612,7 @@ Public pages listed: 1602
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty index as the operator-deep page for dポイント, pairing with d Point / au telco-point consolidation case for the comparative telco-anchor view, V Point (SMBC × CCC) case for the bank-anchored contrast, Japan points and loyalty landscape for the ecosystem map, point liability
-- Headings: d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform, Wiki route, TL;DR, d-account, dポイントクラブ, and member scale, 2025 dポイントクラブ reform — rank-system overhaul, Accrual rate at docomo services vs partner merchants, d Card GOLD — the gold-status hurdle and economics, d払い convergence — wallet, card, and bill payment
+- Headings: d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules, Wiki route, TL;DR, d-account, dポイントクラブ, and member scale, Current dポイントクラブ rank rules, Accrual rate at docomo services vs partner merchants, d Card GOLD — the gold-status hurdle and economics, d払い convergence — wallet, card, and bill payment
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/
 
 ### JAL Mileage Bank vs ANA Mileage Club — accrual, redemption, partner network, status tier, deferred-revenue accounting
@@ -10676,7 +10676,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/loyalty/point-exchange-network-risk.md
 - Domain: loyalty
 - Type: wiki_entry
-- Summary: This entry sits under loyalty index as the cross-program exchange page — the mechanism layer beneath the program directory in Japan points and loyalty landscape. It pairs with point liability accounting boundary (which defines how a conversion splits into a liability-transfer event plus a settlement
+- Summary: This entry sits under loyalty index as the cross-program exchange risk-scenario page beneath Japan points and loyalty landscape. It pairs with point liability accounting boundary, which explains why conversion accounting depends on contracts and the redemption obligor. For the regulatory edge, route
 - Headings: Point exchange network risk (JP cross-program conversion economics), Wiki route, TL;DR, Why exchange turns a point into a network, The five risk surfaces, Settlement and counterparty risk, Rate / FX-like exposure, Breakage mis-estimation
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
@@ -10689,7 +10689,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/loyalty/point-liability-accounting-boundary.md
 - Domain: loyalty
 - Type: wiki_entry
-- Summary: "Points" in Japan are not one accounting concept. The same word covers (1) marketing-promotional grants that are pure expense, (2) loyalty liabilities that are deferred revenue under IFRS 15 / ASBJ Statement No.29, (3) breakage assumptions that drive when revenue is finally recognised, (4) purchased
+- Summary: "Points" in Japan are not one accounting concept. Classification depends on the contract, funder, customer promise, redemption obligor, and principal-agent role. A grant may be marketing expense, a provision, a contract liability, consideration payable to a customer, or another item. Purchased store
 - Headings: Point liability accounting boundary (JP loyalty programs), TL;DR, Five accounting buckets, 1. Marketing-promotional cost (no contract liability), 2. Loyalty liability under IFRS 15 / ASBJ Statement No.29, 3. Breakage assumption (when deferred revenue is recognised), 4. Purchased / charged value (prepaid boundary), 5. Cross-program exchange points (settlement leg + accounting timing)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/domains/payments/
 
@@ -10715,8 +10715,8 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/loyalty/ponta-points-deep-dive.md
 - Domain: loyalty
 - Type: wiki_entry
-- Summary: This entry sits under loyalty index as the deep operator page for Pontaポイント, pairing with d Point / au (KDDI) telco-point consolidation case for the strategic framing of au PAY ポイント (the unified brand that absorbed Ponta on the wallet side in 2024-12), V Point (SMBC × CCC) case for the bank-anchored
-- Headings: Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor, Wiki route, TL;DR, Loyalty Marketing, Inc. — the operator entity, KDDI au PAY linkage — 2024-12 brand unification, Lawson + Ponta + au — the integration triangle, Recruit ecosystem — じゃらん, Hot Pepper, GEO, Comparison with d-Point, PayPay Points, and V-Point
+- Summary: This entry sits under loyalty index as the deep operator page for Pontaポイント, pairing with d Point / au (KDDI) telco-point consolidation case for the KDDI linkage, V Point (SMBC × CCC) case for the bank-anchored contrast, d Point detailed ecosystem for the telco-anchored peer, Japan points and loyalt
+- Headings: Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor, Wiki route, TL;DR, Loyalty Marketing, Inc. — the operator entity, KDDI au PAY linkage — 2020 point-service change, Lawson + Ponta + au — the integration triangle, Recruit ecosystem — じゃらん, Hot Pepper, GEO, Comparison with d-Point, PayPay Points, and V-Point
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/
 
 ### Rakuten Point ecosystem deep (楽天ポイント / 楽天経済圏 SPU flywheel)
@@ -10755,10 +10755,10 @@ Public pages listed: 1602
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty index as the wallet-anchored common-point deep page, complementing the bank-anchored V Point case, the telco-anchored d Point detailed ecosystem and d Point / au telco-point consolidation case, the coalition-anchored Ponta points deep dive, and the post-merger detail in
-- Headings: SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting, Wiki route, TL;DR, 2022 name change — what changed and what did not, 2023 corporate integration — separate from point-program integration, 2025 LINE Pay termination and 2026 account linking, Member ID base and reach, Accounting treatment — campaign cost vs contract liability
+- Headings: SoftBank / Yahoo / PayPay points ecosystem — 2022 rename, 2026 LINE account linking, accounting, Wiki route, TL;DR, 2022 name change — what changed and what did not, 2023 corporate integration — separate from point-program integration, 2025 LINE Pay termination and 2026 account linking, Member ID base and reach, Accounting review framework — campaign and purchase rewards
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/ndfg/
 
-### T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer
+### T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary
 - URL: https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/
 - Japanese HTML: https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/
 - English alternate: https://finwiki.zksc.io/en/loyalty/t-point-v-point-post-2024-merger/
@@ -10768,7 +10768,7 @@ Public pages listed: 1602
 - Domain: loyalty
 - Type: wiki_entry
 - Summary: This entry sits under loyalty index as the post-2024-04-22 operational detail page for the T-Point + V-Point unification, complementing the strategic V Point (SMBC × CCC) bank-led common-point case entry that documents the structural framing. Read with Japan points and loyalty landscape for the ecos
-- Headings: T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer, Wiki route, TL;DR, Timeline of the merger and the dual-brand transition, CCCMK Holdings — the joint venture vehicle, Dual-brand mechanics — what's TSUTAYA-branded vs SMBC-branded, Comparison with PayPay Points, Points-liability transfer mechanics — IFRS 15 / ASBJ 29 framing
+- Headings: T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary, Wiki route, TL;DR, Timeline of the merger and the dual-brand transition, CCCMK Holdings — the joint venture vehicle, Dual-brand mechanics — what's TSUTAYA-branded vs SMBC-branded, Comparison with PayPay Points, Publicly disclosed accounting boundary
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/
 
 ### V Point (SMBC × CCC) — bank-led common-point case
@@ -10780,7 +10780,7 @@ Public pages listed: 1602
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/loyalty/v-point-smbc-ccc-case.md
 - Domain: loyalty
 - Type: wiki_entry
-- Summary: V Point in its current form (2024-04-22 onward) is the bank-led common-point case of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with SMFG's SMBC Card (SMCC) as the issuing financial backbone and the payments / retail partner networ
+- Summary: V Point in its current form (2024-04-22 onward) is a bank-led common-point case: the former T Point and SMBC-side V Point services adopted the V Point brand. SMBC Card's official guidance states that customers must link the specified IDs to combine balances; without linking, points remain within the
 - Headings: V Point (SMBC × CCC) — bank-led common-point case, TL;DR, Timeline, Players, Mechanics, Scale and partner-merchant rollover, Competitive positioning, Why this matters for JapanFG analysis
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
@@ -17186,6 +17186,15 @@ Public pages listed: 1602
 - Domain: releases
 - Type: release_note
 - Headings: 企業戦略・小売金融の表出典114件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### カード・消費者金融・リース・ポイントの表出典132件を校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-14.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-14.md
+- Source path: releases/v2026.07.29-14.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-14.md
+- Domain: releases
+- Type: release_note
+- Headings: カード・消費者金融・リース・ポイントの表出典132件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md

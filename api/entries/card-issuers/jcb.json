@@ -50,7 +50,7 @@
     "TL;DR",
     "1. 会社概要",
     "略称の由来",
-    "主要株主 (公開情報・非上場のため概要のみ)",
+    "出資・株主情報の扱い",
     "主要子会社・関連法人",
     "重要年表",
     "2. 事業セグメント・マップ",
@@ -78,12 +78,16 @@
       "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
       "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.global.jcb/ja/about-us/business-area/index.html",
+      "https://www.global.jcb/ja/about-us/company/history/index.html",
+      "https://www.global.jcb/ja/about-us/company/overview/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4620,
-    "word_like_tokens": 748,
+    "nonspace_chars": 5000,
+    "word_like_tokens": 814,
     "inbound_wikilinks_count": 42,
     "last_modified": "2026-06-22"
   }

@@ -1,116 +1,118 @@
 ---
 source: leasing-firms/yamaguchi-leasing
-source_hash: d5cb492a520b1880
+source_hash: 503c898dd7949f83
 lang: en
 status: machine
 fidelity: ok
-title: "山口リース (Yamaguchi Leasing)"
-translated_at: 2026-06-19T06:09:18.189Z
+title: "Yamaguchi Leasing"
+translated_at: 2026-07-29T08:05:21Z
 ---
-# 山口リース (Yamaguchi Leasing)
+# Yamaguchi Leasing
 
 ## Wiki route
 
-This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks [[regional-banks/yamaguchi-fg|山口 FG]] 3 行体制 ([[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東) / [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[leasing-firms/chibagin-leasing|ちばぎんリース]] (千葉) / [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]] (四国) and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/yamaguchi-fg|Yamaguchi FG (YMFG)]]. Read it against the [[regional-banks/yamaguchi-fg|Yamaguchi FG]] structure of 3 parent operating banks ([[regional-banks/momiji-bank|Momiji Bank]] / [[regional-banks/kitakyushu-bank|Kitakyushu Bank]] / Yamaguchi Bank) and sibling subsidiary YM Securities. Peer comparison: [[leasing-firms/mebuki-lease|Mebuki Lease]] (North Kanto) / [[leasing-firms/yokohama-bank-leasing|Hamagin Finance]] (Kanagawa) / [[leasing-firms/chibagin-leasing|Chibagin Leasing]] (Chiba) / [[leasing-firms/hokkaido-lease|Hokkaido Leasing]] / [[leasing-firms/iyogin-leasing|Iyogin Leasing]] (Shikoku), as well as major lessors [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/mizuho-lease|Mizuho Leasing]] / [[leasing-firms/tokyo-century|Tokyo Century]]. For broader system routes, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
-Yamaguchi Leasing Co., Ltd. (株式会社山口リース / ワイエムリース) is a regional-bank-affiliated leasing company of the [[regional-banks/yamaguchi-fg|山口 FG (YMFG, 東証 PRIME 8418)]] group. Backed by the 3 行-bank structure of Yamaguchi Bank, [[regional-banks/momiji-bank|もみじ銀行]] (Hiroshima Prefecture), and [[regional-banks/kitakyushu-bank|北九州銀行]] (Kitakyushu, Fukuoka Prefecture), it provides — across the **wide-area base of western Chugoku region + Hiroshima + Kitakyushu (the Kanmon Strait economic zone)** — equipment leasing, finance leasing, operating leasing, local-government leasing, medical leasing, auto leasing, and the like. As a regional-bank-affiliated lessor, its distinctive feature is a wide-area model crossing prefectural borders backed by the "3 行 3 brand." ^[extracted]
+Yamaguchi Leasing Co., Ltd. (YM Lease) is a regional-bank-affiliated leasing company in the [[regional-banks/yamaguchi-fg|Yamaguchi FG (YMFG, TSE PRIME 8418)]] group. Backed by the 3-bank structure of Yamaguchi Bank, [[regional-banks/momiji-bank|Momiji Bank]] (Hiroshima Prefecture), and [[regional-banks/kitakyushu-bank|Kitakyushu Bank]] (Kitakyushu, Fukuoka Prefecture), it provides equipment leasing, finance leasing, operating leasing, municipal leasing, medical leasing, auto leasing, and related services across its **wide-area base in western Chugoku + Hiroshima + Kitakyushu (the Kanmon Strait economic zone)**. Its defining regional-bank-leasing model crosses prefectural borders and is backed by "3 banks, 3 brands." ^[extracted]
 
-## 1. 会社概要
+## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| 正式名 | 株式会社山口リース (ワイエムリース) |
+| Legal name | 株式会社山口リース (ワイエムリース) |
 | English name | Yamaguchi Leasing Co., Ltd. (YM Lease) |
-| 親会社 | [[regional-banks/yamaguchi-fg|YMFG]] グループ (山口銀行 / [[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] 連携) |
-| 設立 | 1983-05 (山口リース株式会社として下関で設立、6 月営業開始)。2014-04 に山口・もみじ・北九州 3 行リース事業統合を機に「ワイエムリース株式会社」へ商号変更、2014-12 [[regional-banks/yamaguchi-fg|YMFG]] 連結子会社化、2023-03 完全子会社化 |
-| 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 自治体リース / 医療リース / オートリース / ファクタリング |
-| 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
-| 上場区分 | 非上場 ([[regional-banks/yamaguchi-fg]] グループ) |
-| Wiki role | YMFG 系リース子会社 anchor (3 行 3 ブランド広域 model) |
+| Parent company | [[regional-banks/yamaguchi-fg|YMFG]] group (coordination with Yamaguchi Bank / [[regional-banks/momiji-bank|Momiji Bank]] / [[regional-banks/kitakyushu-bank|Kitakyushu Bank]]) |
+| Established | 1983-05 (established in Shimonoseki as Yamaguchi Leasing Co., Ltd.; operations began in June, month 6). Renamed YM Lease Co., Ltd. in 2014-04 when the leasing businesses of the 3 banks in Yamaguchi, Momiji, and Kitakyushu were integrated; became a consolidated [[regional-banks/yamaguchi-fg|YMFG]] subsidiary in 2014-12 and a wholly owned subsidiary in 2023-03 |
+| Main businesses | Equipment leasing / finance leasing / operating leasing / municipal leasing / medical leasing / auto leasing / factoring |
+| Regulation | Leasing business (no banking license required; money-lending registration requirements depend on the activities handled) |
+| Listing category | Unlisted ([[regional-banks/yamaguchi-fg]] group) |
+| Wiki role | YMFG-affiliated leasing-subsidiary anchor (wide-area 3-bank, 3-brand model) |
 
-### 持株ツリー (YMFG グループ簡略図)
+Source: [YM Lease company overview](https://www.ym-lease.co.jp/about.html) and [corporate history](https://www.ym-lease.co.jp/history.html) (legal entity, history, group relationships, and business overview in this table).
+
+### Ownership tree (simplified YMFG group chart)
 
 ```
-[[regional-banks/yamaguchi-fg|YMFG]] (持株会社・上場 8418)
-  ├── 山口銀行 (100%) ── 山口県地盤・グループ母体・本店 下関
-  │     └── 関門・福岡北部にも店舗
-  ├── [[regional-banks/momiji-bank|もみじ銀行]] (100%) ── 広島県地盤、第二地銀
-  │     └── 旧 広島総合銀行 + せとうち銀行 統合
-  ├── [[regional-banks/kitakyushu-bank|北九州銀行]] (100%) ── 福岡県北九州地区、2011-10 新設
-  ├── ワイエム証券 (100%) ── グループ証券
-  ├── 山口リース (100%、本ページ) ── グループリース
-  │     ├── 山口県 + 広島県 + 北九州地区 広域設備リース
-  │     ├── 山陽工業地帯 (周南・宇部・徳山) 製造設備リース
-  │     └── 関門海峡経済圏物流・自治体リース
-  ├── ワイエムキャリア (100%) ── 人材紹介・派遣
-  └── データ・サービス子会社 等
+[[regional-banks/yamaguchi-fg|YMFG]] (holding company, listed under 8418)
+  ├── Yamaguchi Bank (100%) ── Yamaguchi Prefecture base, group origin, head office in Shimonoseki
+  │     └── also has branches in the Kanmon area and northern Fukuoka
+  ├── [[regional-banks/momiji-bank|Momiji Bank]] (100%) ── Hiroshima Prefecture base, second-tier regional bank
+  │     └── integration of former Hiroshima Sogo Bank + Setouchi Bank
+  ├── [[regional-banks/kitakyushu-bank|Kitakyushu Bank]] (100%) ── Kitakyushu area of Fukuoka Prefecture, newly established 2011-10
+  ├── YM Securities (100%) ── group securities
+  ├── Yamaguchi Leasing (100%, this page) ── group leasing
+  │     ├── wide-area equipment leasing across Yamaguchi Prefecture + Hiroshima Prefecture + the Kitakyushu area
+  │     ├── manufacturing-equipment leasing in the Sanyo industrial belt (Shunan, Ube, and Tokuyama)
+  │     └── logistics and municipal leasing in the Kanmon Strait economic zone
+  ├── YM Career (100%) ── recruiting and staffing
+  └── data and service subsidiaries, among others
 ```
 
-### 主要業務ライン
+### Main business lines
 
-| セグメント | 特徴 |
+| Segment | Characteristics |
 |---|---|
-| ファイナンスリース | 機械・車両・OA機器・通信機器の設備リース (中小〜中堅企業向け) |
-| オペレーティングリース | 中古設備 / 再リース可能設備の短期リース |
-| ベンダーリース | メーカー・販売店との提携リース (販売支援) |
-| 自治体リース | 山口県・広島県・福岡県北九州市等 公用車・設備リース |
-| 医療リース | 病院・診療所向け医療機器リース |
-| 工業設備リース | 山陽工業地帯 (周南コンビナート・宇部 / 徳山 化学・防府自動車) 製造設備リース |
-| 農業機械リース | 山口県・広島県農業地帯向け |
+| Finance leasing | Equipment leasing for machinery, vehicles, office equipment, and communications equipment (for small to mid-sized companies) |
+| Operating leasing | Short-term leasing of used or re-leasable equipment |
+| Vendor leasing | Partnership leasing with manufacturers and dealers (sales support) |
+| Municipal leasing | Official-vehicle and equipment leasing for Yamaguchi Prefecture, Hiroshima Prefecture, Kitakyushu City in Fukuoka Prefecture, and other municipalities |
+| Medical leasing | Medical-equipment leasing for hospitals and clinics |
+| Industrial-equipment leasing | Manufacturing-equipment leasing in the Sanyo industrial belt (Shunan industrial complex, Ube / Tokuyama chemicals, and Hofu automotive operations) |
+| Agricultural-machinery leasing | For agricultural areas in Yamaguchi and Hiroshima prefectures |
 
-### グループ内クロスリンク
+### Intra-group cross-links
 
-| グループ会社 | 連携内容 |
+| Group company | Cooperation |
 |---|---|
-| 山口銀行 | 山口県内中堅企業 main bank 紹介、本店下関拠点共有 |
-| [[regional-banks/momiji-bank]] | 広島県中堅企業 (山陽工業地帯) 紹介 |
-| [[regional-banks/kitakyushu-bank]] | 北九州工業地帯製造業紹介 (鉄鋼・化学・自動車部品) |
-| ワイエム証券 | 中堅企業 main bank クロス提案 (リース + 私募債 + 株式公開) |
+| Yamaguchi Bank | Main-bank referrals for mid-sized companies in Yamaguchi Prefecture and shared use of the Shimonoseki head-office base |
+| [[regional-banks/momiji-bank]] | Referrals of mid-sized companies in Hiroshima Prefecture (Sanyo industrial belt) |
+| [[regional-banks/kitakyushu-bank]] | Referrals of manufacturers in the Kitakyushu industrial area (steel, chemicals, and auto parts) |
+| YM Securities | Cross-selling proposals for mid-sized main-bank customers (leasing + private placements + IPOs) |
 
-### 地銀系リース peer 比較
+### Regional-bank leasing peer comparison
 
-| リース子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
-|---|---|---|---|---|
-| **山口リース** (本ページ) | [[regional-banks/yamaguchi-fg|YMFG]] | 持株会社 3 行体制 | 山口 + 広島 + 北九州 (関門) | 親 8418 |
-| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | 持株会社 2 行体制 | 茨城・栃木・北関東 | 親 7167 |
-| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
-| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | [[regional-banks/chiba-bank]] | no-holding 単独銀行 | 千葉県・首都圏東部 | 親 8331 |
-| [[leasing-firms/hokkaido-lease|北海道リース]] | [[regional-banks/hokkaido-bank]] | 銀行系リース | 北海道 | 親 8328 系 |
-| [[leasing-firms/iyogin-leasing|いよぎんリース]] | [[regional-banks/iyogin-hd|いよぎん HD]] | 持株会社下兄弟会社 | 愛媛・四国 | 親 5830 |
-| しずぎんリース | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 | 静岡県 | 親 5831 |
+| Leasing company | Officially confirmed relationship | Primary source (accessed 2026-07-29) |
+|---|---|---|
+| **YM Lease** (this page) | YMFG subsidiary | [YMFG group-company list (as of 2025-09-25)](https://www.ymfg.co.jp/about/profile/group/) |
+| [[leasing-firms/mebuki-lease|Mebuki Lease]] | Mebuki FG is a shareholder | [Mebuki Lease company overview](https://www.mebuki-lease.co.jp/gaiyo/index.html) |
+| [[leasing-firms/chibagin-leasing|Chibagin Leasing]] | Chiba Bank group company | [Chiba Bank public material dated 2022-08-05](https://www.chibabank.co.jp/news/news202200805_01_001) |
+| [[leasing-firms/iyogin-leasing|Iyogin Leasing]] | Iyogin HD group company | [Iyogin HD group-company list](https://www.iyogin-hd.co.jp/company/group.html) |
+| [[leasing-firms/hokkaido-lease|Hokkaido Leasing]] | Hokkaido Bank is the No.1 major shareholder; an equity-method affiliate of the bank since 2024-10 | [Hokkaido Leasing company profile](https://www.do-lease.co.jp/company/profile.html) and [corporate history](https://www.do-lease.co.jp/company/history.html) |
 
-> 山口リースは広島県では [[regional-banks/momiji-bank]] 経由で営業展開するが、広島県内では ひろぎん HD ([[regional-banks/hiroshima-bank|広島銀行]] 母体) 系リースと県内 broker competition がある。北九州地区では [[regional-banks/fukuoka-fg|FFG]] 系リース ([[regional-banks/fukuoka-bank|福岡銀行]] + 旧 親和 + 熊本) との重なり。
+This comparison addresses only each company's capital and accounting relationship; it does not infer geographic franchise, scale, or listing rank.
 
-### 大手リース・専業リースとの競合
+> Yamaguchi Leasing operates in Hiroshima Prefecture through [[regional-banks/momiji-bank]], but within the prefecture it competes for brokerage business with leasing affiliated with Hirogin HD, which is rooted in [[regional-banks/hiroshima-bank|Hiroshima Bank]]. In the Kitakyushu area, its footprint overlaps with [[regional-banks/fukuoka-fg|FFG]]-affiliated leasing ([[regional-banks/fukuoka-bank|Bank of Fukuoka]] + former Shinwa + Kumamoto).
 
-- **大手リース**: [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/fuyo-lease|芙蓉リース]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/ricoh-leasing|リコーリース]] - 大型・全国・複雑案件で優位
-- **メーカー系リース**: [[card-issuers/toyota-finance|トヨタファイナンス]] / [[leasing-firms/nec-leasing|NEC キャピタルソリューション]] / [[leasing-firms/showa-leasing|昭和リース]] / [[cooperative-banks/ja-mitsui-leasing|JA 三井リース]] - 製品連動 (車 / OA / 製造設備) で優位
-- **県内競合**: 西京銀行系リース / 広島銀行系リース / [[regional-banks/fukuoka-fg|FFG]] 系リース
+### Competition with major lessors and specialist leasing firms
 
-### 強み・弱み
+- **Major lessors**: [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|Mizuho Leasing]] / [[leasing-firms/fuyo-lease|Fuyo General Lease]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/ricoh-leasing|Ricoh Leasing]] — advantaged in large-scale, nationwide, and complex transactions
+- **Manufacturer-affiliated lessors**: [[card-issuers/toyota-finance|Toyota Finance]] / [[leasing-firms/nec-leasing|NEC Capital Solutions]] / [[leasing-firms/showa-leasing|Showa Leasing]] / [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] — advantaged in product-linked areas (vehicles / office equipment / manufacturing equipment)
+- **In-prefecture competition**: Saikyo Bank-affiliated leasing / Hiroshima Bank-affiliated leasing / [[regional-banks/fukuoka-fg|FFG]]-affiliated leasing
 
-- 強み: 3 行 3 ブランド (山口 + 広島 + 北九州) の広域地盤 + 山陽 / 北九州工業地帯製造業集積 + [[regional-banks/concordia-fg|横浜 FG]] との域外提携
+### Strengths and weaknesses
 
-### 規制枠組み
+- Strengths: a wide-area base built on 3 banks and 3 brands (Yamaguchi + Hiroshima + Kitakyushu) + concentrations of manufacturers in the Sanyo and Kitakyushu industrial areas + an out-of-area partnership with [[regional-banks/concordia-fg|Yokohama FG]]
 
-- **主管**: 金融庁 (FSA) ・経済産業省
-- **法的根拠**: リース業 (銀行法上の銀行業免許不要)、貸金業登録 (ファクタリング領域で必要に応じて取得)
-- **親 FG ガバナンス**: [[regional-banks/yamaguchi-fg]] 連結子会社として持株会社ガバナンス下、銀行業以外子会社規制 (主要業務 / 付随業務 / 業務範囲規制) で位置づけられる
+### Regulatory framework
 
-### 規制論点
+- **Supervisory authorities**: Financial Services Agency (FSA) and Ministry of Economy, Trade and Industry
+- **Legal basis**: leasing business (no banking license required under the Banking Act); money-lending registration obtained as necessary for factoring operations
+- **Parent-FG governance**: as a consolidated subsidiary of [[regional-banks/yamaguchi-fg]], it operates under holding-company governance and is positioned under rules for non-banking subsidiaries (principal business / ancillary business / scope-of-business restrictions)
 
-- **リース会計基準変更 (IFRS16 / 日本基準改訂)**: 借手のオンバランス化 (使用権資産・リース負債) 対応支援
-- **中小企業向けリース税制**: 中小企業投資促進税制 / 経営強化税制活用支援
-- **環境リース (再エネ設備 / EV)**: 脱炭素税制対応・グリーンリース商品開発
-- **割賦販売法 / 貸金業法**: ファクタリング領域での適用整理
-- **反社チェック・マネロン対策**: [[regional-banks/yamaguchi-fg]] グループ共同実施
-- **EDINET / 有価証券報告書**: 山口リース単体は非上場で開示限定的、[[regional-banks/yamaguchi-fg]] 連結セグメント情報で間接開示
+### Regulatory issues
 
-### 会計上の取扱い
+- **Lease accounting standard changes (IFRS16 / Japanese-standard revisions)**: support for lessees' on-balance-sheet treatment (right-of-use assets and lease liabilities)
+- **Lease taxation for SMEs**: support for using the SME Investment Promotion Tax System / Management Enhancement Tax System
+- **Environmental leasing (renewable-energy equipment / EVs)**: decarbonization-tax compliance and green-lease product development
+- **Installment Sales Act / Money Lending Business Act**: clarification of applicability to factoring operations
+- **Anti-social-forces checks / anti-money-laundering measures**: jointly implemented across the [[regional-banks/yamaguchi-fg]] group
+- **EDINET / securities reports**: Yamaguchi Leasing is unlisted on a standalone basis and has limited disclosure; indirect disclosure is available through [[regional-banks/yamaguchi-fg]] consolidated segment information
 
-- **単体財務 KPI**: 親 [[regional-banks/yamaguchi-fg]] 有価証券報告書注記 / セグメント情報で部分開示
+### Accounting treatment
+
+- **Standalone financial KPIs**: partially disclosed in the parent [[regional-banks/yamaguchi-fg]] securities-report notes / segment information
 
 ## Related
 
@@ -125,15 +127,15 @@ Yamaguchi Leasing Co., Ltd. (株式会社山口リース / ワイエムリース
 
 ## Sources
 
-- **ワイエムリース (山口リース) 公式サイト — 会社沿革** (https://www.ym-lease.co.jp/history.html, 1983-05 山口リース設立 / 2014-04 ワイエムリース商号変更 / 2014-12 YMFG 連結子会社化 / 2023-03 完全子会社化)
-- **ワイエムリース 公式サイト — 会社概要** (https://www.ym-lease.co.jp/about.html)
-- **山口銀行 公式サイト** (https://www.yamaguchibank.co.jp/, グループ会社情報)
-- **山口 FG (YMFG) 公式 IR** (https://www.ymfg.co.jp/)
-- **EDINET 有価証券報告書 (YMFG 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
-- **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 連携企業情報)
-- **Wikipedia: 山口リース / 山口フィナンシャルグループ / 山口銀行 / もみじ銀行 / 北九州銀行** (2026-05-25 抽出)
+- **YM Lease (Yamaguchi Leasing) official site — corporate history** (https://www.ym-lease.co.jp/history.html, Yamaguchi Leasing established 1983-05 / renamed YM Lease 2014-04 / became a consolidated YMFG subsidiary 2014-12 / became wholly owned 2023-03)
+- **YM Lease official site — company overview** (https://www.ym-lease.co.jp/about.html)
+- **Yamaguchi Bank official site** (https://www.yamaguchibank.co.jp/, group-company information)
+- **Yamaguchi FG (YMFG) official IR** (https://www.ymfg.co.jp/)
+- **EDINET securities reports (YMFG consolidated / segment information)** (https://disclosure.edinet-fsa.go.jp/)
+- **Regional Banks Association of Japan** (https://www.chiginkyo.or.jp/, affiliated-company information)
+- **Wikipedia: Yamaguchi Leasing / Yamaguchi Financial Group / Yamaguchi Bank / Momiji Bank / Kitakyushu Bank** (extracted 2026-05-25)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25). The [[regional-banks/yamaguchi-fg]] page = handles the 3 行 3 brand holding strategy, while this page handles the leasing-subsidiary operating boundary. The founding year (1983-05), the trade-name change (2014-04 to ワイエムリース), and becoming a wholly-owned subsidiary (2023-03) have been confirmed in YM Lease's official history (sources below). For precise standalone financial KPIs, refer to the parent [[regional-banks/yamaguchi-fg]] securities-report segment information.
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25). The [[regional-banks/yamaguchi-fg]] page covers the 3-bank, 3-brand holding strategy, while this page covers the leasing-subsidiary operating boundary. The establishment date (1983-05), name change (2014-04 to YM Lease), and transition to a wholly owned subsidiary (2023-03) have been confirmed in YM Lease's official corporate history (sources below). For precise standalone financial KPIs, refer to the parent [[regional-banks/yamaguchi-fg]] securities-report segment information.

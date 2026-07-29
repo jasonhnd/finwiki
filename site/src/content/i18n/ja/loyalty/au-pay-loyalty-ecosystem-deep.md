@@ -1,166 +1,171 @@
 ---
 source: loyalty/au-pay-loyalty-ecosystem-deep
-source_hash: 1f4cd7d60771b3c2
+source_hash: 05bfd602f7988bbb
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "au PAY ロイヤルティ経済圏詳説 — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au じぶん銀行 の統合スタック"
-translated_at: 2026-06-26T08:32:23.049Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# au PAY ロイヤルティ経済圏詳説 — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au じぶん銀行 の統合スタック
+# au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack
 
-## ウィキ上の位置づけ
+## Wiki route
 
-本エントリは [[loyalty/INDEX|loyalty index]] の下に位置し、**KDDI au 経済圏ロイヤルティスタックの事業者詳説ページ**として、[[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au / docomo telco-point consolidation case]]（通信キャリア横断の比較ビュー）および [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]（docomo 側の詳説）を補完する。ロイヤルティ通貨レイヤーの詳細は [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、SoftBank 経済圏との対比は [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]、銀行を軸とするピアは [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、経済圏マップは [[loyalty/japan-points-landscape|Japan points landscape]]、IFRS／J-GAAP の取扱いは [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]、親会社の金融持株構造は [[megabanks/au-fh|au Financial Holdings]]、リテールチャネルのアンカーは [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]、ウォレットシェアのオーバーレイは [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan コード決済事業者 2025 市場シェア matrix]] と併せて参照のこと。
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **operator-deep page for the KDDI au-economic-zone loyalty stack**, complementing [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au / docomo telco-point consolidation case]] (the cross-telco comparison view) and [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] (the docomo-side deep dive). Pair it with [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty-currency-layer detail, [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]] for the SoftBank ecosystem counterpoint, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored peer, [[loyalty/japan-points-landscape|Japan points landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS / J-GAAP treatment, [[megabanks/au-fh|au Financial Holdings]] for the parent finance-holding structure, [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the retail-channel anchor, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-share overlay.
 
 ## TL;DR
 
-**au PAY 経済圏**は KDDI の統合ロイヤルティ・金融スタックであり、**6 つのアンカー層**を中心に構成される：① **au モバイル + UQ Mobile + povo** の通信回線契約（日次頻度のアイデンティティアンカー）；② 共通ポイント通貨としての **Pontaポイント**（2020 KDDI ↔ ロイヤリティマーケティング提携／「au Ponta」リブランド後）；③ **au PAY** QR／バーコードウォレット；④ **au PAY カード**（KDDI 側クレジットカード、旧「au ウォレットクレジットカード」ラインを承継）；⑤ **au Smart Pass／au Smart Pass Premium**（月額制で特典を統合した KDDI のバンドルサービス契約）；⑥ **[[megabanks/au-fh|au Financial Holdings]] 子会社群**（**au じぶん銀行**（預金口座アンカー）、**auカブコム証券／三菱UFJ eスマート証券承継**（証券）、**au PAY 損害保険**（損保）、**auアセットマネジメント**（資産運用）を含む）。**2020 KDDI + ロイヤリティマーケティングの Pontaポイント提携**（「au Ponta」）は旧 au ウォレットポイントを Pontaポイントへ統合し、KDDI に強力なクロス加盟店フットプリント（JAL、ローソン、ガソリンスタンド、リクルートファミリー）を持つマルチブランド共通ポイントを与えた。**2024 ローソン + KDDI + 三菱 50／50 非公開化**は、全国 CVS リテールチャネルを経済圏に加えた。**2026-05 au フィナンシャルホールディングスの東京証券取引所上場準備に関する KDDI の発表**は、日本の通信キャリア金融持株会社からの初の IPO 候補である。[[loyalty/d-point-detailed-ecosystem|dポイント経済圏]] と比較した au PAY の際立つ特徴は、(a) dポイントが主に NTT docomo 発行であるのに対する **マルチブランド Ponta 提携**；(b) docomo のよりフラットなモバイル回線スタックに対する **二モバイル回線戦略（au + UQ Mobile + povo）**；(c) 2024以降の **ローソン 50／50 チャネルアンカー**、である。
+The **au PAY ecosystem** is KDDI's loyalty-and-finance product stack, structured around six layers: ① **au mobile + UQ Mobile + povo**; ② **Pontaポイント**, operated by Loyalty Marketing; ③ **au PAY**; ④ **au PAY Card**; ⑤ the paid **Pontaパス** subscription; and ⑥ products in the **[[megabanks/au-fh|au Financial Holdings]]** perimeter. KDDI changed legacy au WALLET ポイント to Pontaポイント on **2020-05-21**. This is a product linkage, not a merger of KDDI and Loyalty Marketing or a renaming of Ponta into “au PAY ポイント.”
 
-## 6 層統合スタック
+## The six-layer integrated stack
 
-| 層 | アンカー製品 | 戦略的役割 | 運営主体 |
+| Layer | Anchor product | Strategic role | Operating entity |
 |---|---|---|---|
-| **1. 通信アイデンティティ** | au モバイル、UQ Mobile、povo（KDDI 子会社回線）| 日次頻度の加入者アイデンティティ；すべての口座連携の基盤 | KDDI 株式会社 |
-| **2. 共通ポイント** | Pontaポイント（2020 「au Ponta」後）| ロイヤルティ通貨、マルチブランド提携通貨 | 株式会社ロイヤリティマーケティング（三菱商事系）|
-| **3. QR／バーコードウォレット** | au PAY | キャッシュレスウォレット、低単価・高頻度の決済面 | [[payment-firms/au-payment|au Payment]]（KDDI 子会社）|
-| **4. クレジットカード** | au PAY カード | au PAY への自動チャージを伴うクレカ決済、Pontaポイントへの付与 | au PAY カード株式会社 |
-| **5. サブスクリプションバンドル** | au Smart Pass／au Smart Pass Premium | 月額制のバンドルサービス契約；保険バンドル、コンテンツ割引、ローソンクーポン | KDDI 株式会社 |
-| **6. 金融子会社** | au じぶん銀行 + au PAY 損保 + auアセットマネジメント +（auカブコムの承継先）| 銀行・保険・資産運用商品の供給 | [[megabanks/au-fh|au Financial Holdings]] |
+| **1. Telco identity** | au mobile, UQ Mobile, povo (KDDI subsidiary lines) | Daily-frequency subscriber identity; basis for all account-linking | KDDI Corporation |
+| **2. Common point** | Pontaポイント (post-2020 "au Ponta") | Loyalty currency, multi-brand alliance currency | Loyalty Marketing, Inc. (Mitsubishi Corp-affiliated) |
+| **3. QR / barcode wallet** | au PAY | Cashless wallet, low-ticket high-frequency payment surface | [[payment-firms/au-payment|au Payment]] (KDDI subsidiary) |
+| **4. Credit card** | au PAY Card | Credit-card spend with auto-charge to au PAY, accrual to Pontaポイント | au PAY カード株式会社 |
+| **5. Subscription bundle** | Pontaパス | Paid bundle with coupons, point benefits, content and delivery / shopping benefits under current terms | KDDI Corporation |
+| **6. Financial subsidiaries** | au じぶん銀行 + au PAY 損保 + auアセットマネジメント + (successor to auカブコム) | Banking, insurance, asset-management product distribution | [[megabanks/au-fh|au Financial Holdings]] |
 
-**アイデンティティ層は au-ID**（KDDI のユニバーサル顧客 ID）であり、6 層すべてを横断して連携する。顧客は以下のいずれでもあり得る：
-- au PAY カードや au じぶん銀行を持たない UQ Mobile MVNO 型ユーザー（エントリー層）；
-- au PAY アプリ + Pontaポイント付与を伴う au モバイル契約者（中位層）；
-- au モバイル + au PAY + au PAY カード + au Smart Pass Premium + au じぶん銀行 + Pontaポイントを多用するユーザー（最上位層、各層を横断して実効付与率が複利的に積み上がる）。
+Sources: [KDDI finance](https://www.au.com/finance/), [au PAY](https://aupay.auone.jp/), [au PAY Card](https://www.aupay-card.co.jp/), [Ponta Pass](https://www.au.com/pontapass/), KDDI's [2020 Ponta announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html), and [Ponta](https://www.ponta.jp/). “Strategic role” is an editorial description of the disclosed product perimeter.
 
-## Pontaポイント — ロイヤルティ通貨アンカー（2020 「au Ponta」後）
+The **identity layer is the au-ID** (KDDI's universal customer ID), which links across all six layers. A customer can be:
+- a UQ Mobile MVNO-style user without an au PAY Card or au じぶん銀行 (entry-level);
+- an au mobile subscriber with au PAY app + Pontaポイント accrual (mid-tier);
+- an au mobile + au PAY + au PAY Card + Pontaパス + au じぶん銀行 user with several linked products.
 
-**2020 KDDI ↔ ロイヤリティマーケティング提携**は、au PAY 経済圏のロイヤルティ通貨を旧「au ウォレットポイント」から **Pontaポイント**（「au Ponta」コブランド）へリブランドした。これは根本的な戦略的動きであった：
+## Pontaポイント — the loyalty-currency anchor (post-2020 "au Ponta")
 
-| 2020 以前（au ウォレットポイント時代）| 2020 以降（「au Ponta」Pontaポイント）|
+The **2020 KDDI ↔ Loyalty Marketing alliance** rebranded the au PAY ecosystem's loyalty currency from legacy "au WALLET ポイント" to **Pontaポイント** ("au Ponta" co-brand). This was a fundamental strategic move:
+
+| Pre-2020 (au WALLET ポイント era) | Post-2020 ("au Ponta" Pontaポイント) |
 |---|---|
-| クローズドループの KDDI 内部ポイント | **マルチブランド提携の共通ポイント** |
-| 受け入れは au PAY／au ショップ／提携オンライン加盟店に限定 | ローソン + JAL + 出光／昭和シェル SS + リクルートファミリー（じゃらん、ホットペッパー）+ KDDI au + Pontaポイントロングテール提携で受け入れ |
-| 相互交換は限定的 | JAL マイレージバンク（[[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]] 参照）、各種提携プログラムとの相互交換 |
-| ポイント負債は KDDI 内部 | **ロイヤリティマーケティングが Pontaポイントプログラムを運営**する独立主体として、複数発行体による付与・利用 |
+| Closed-loop KDDI-internal point | **Multi-brand alliance common point** |
+| Acceptance limited to au PAY / au shop / partner online merchants | Acceptance at Lawson + JAL + Idemitsu / Showa Shell SS + Recruit family (じゃらん, Hot Pepper) + KDDI au + Pontaポイント long-tail alliance |
+| Bilateral exchange limited | Bilateral exchange with JAL Mileage Bank (see [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]]), various partner programs |
+| Point liability KDDI-internal | **Loyalty Marketing operates the Pontaポイント program** as a standalone entity, with multi-issuer accrual and redemption |
 
-KDDI にとっての戦略的上振れは、同等の規模を自前で構築する必要なく **Pontaポイントのマルチブランド会員基盤**（ロイヤリティマーケティングの 2020年代半ばの公開開示で 100 百万口座超）に **即座にアクセス**できた点である。下振れは、KDDI が **Pontaポイントプログラム運営者を支配していない**点 — ロイヤリティマーケティングは三菱商事系であり、提携は資本支配ではなく契約ベースである。
+The strategic upside for KDDI is access to Ponta's multi-brand partner surface. Loyalty Marketing's current company profile lists KDDI as a **20% shareholder**, alongside Mitsubishi Corporation 22.37%, Lawson 20%, Recruit 15%, JAL 15%, MUFG Bank 5%, and GEO 2.63%; no parent-subsidiary classification is inferred.
 
-2024 [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi take-private]] は、三菱商事（ロイヤリティマーケティングの親会社系）が KDDI とともにローソンの 50／50 共同オーナーとなったことで、この提携を引き締めた。「通信 × CVS × 商社 × Ponta」の三角形は、2024以降、構造的により緊密になる。
+The 2024 [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi take-private]] tightened this alliance because Mitsubishi Corporation—the largest disclosed Loyalty Marketing shareholder at 22.37%—became Lawson's 50/50 co-owner with KDDI. The "telco × CVS × trading house × Ponta" triangle becomes structurally tighter post-2024.
 
-## au PAY — QR／バーコードウォレット層
+## au PAY — the QR / barcode wallet layer
 
-**au PAY** は KDDI の QR／バーコードモバイルウォレットで、2019 に開始された（旧「au ウォレット」プリペイド製品ラインからのリブランド）。公開開示では、au PAY は取引高で PayPay に次ぐ第二ティアに位置し、d払いと並ぶか上回るとされる — 最新のシェア指標は [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan コード決済事業者 2025 市場シェア matrix]] を参照のこと。
+**au PAY** is KDDI's QR / barcode mobile wallet, launched in 2019 from the legacy au WALLET product line. Current market-position claims belong in the dated [[payments/japan-code-payment-operator-2025-market-share-matrix|code-payment market-share matrix]], not in this product-perimeter page.
 
-| 項目 | au PAY |
+| Item | au PAY |
 |---|---|
-| 運営者 | [[payment-firms/au-payment|au Payment]]（KDDI 子会社、[[megabanks/au-fh|au FH]]範囲）|
-| 登録 | 第三者型前払式支払手段 + 資金移動業の二重登録（[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] 参照）|
-| 資金源 | au PAY カード自動チャージ、au じぶん銀行直結、銀行口座チャージ、コンビニチャージ、Pontaポイント直接利用 |
-| 受け入れ | 全国 QR／バーコード受け入れ；JPQR 対応；ローソン（2024以降のアンカーチャネル）、マクドナルド、マツモトキヨシ、ENEOS、ヤマダ電機等を含む主要小売チェーンのカバレッジ |
-| ロイヤルティ | 0.5-1.5% で Pontaポイント付与（キャンペーン次第）|
-| 決済 | KDDI キャリアまたは登録済み支払方法による直接請求 |
-| アイデンティティ | au-ID（広範な KDDI 経済圏と同一）|
+| Operator | [[payment-firms/au-payment|au Payment]] (KDDI subsidiary, [[megabanks/au-fh|au FH]]-perimeter) |
+| Regulatory check | Identify the legal entity and function, then check the FSA's current prepaid-issuer / funds-transfer registries; do not infer a single “dual registration” from the product name |
+| Funding | au PAY Card auto-charge, au じぶん銀行 direct, bank-account charge, convenience-store charge, Pontaポイント direct usage |
+| Acceptance | Eligible stores and payment methods follow the current au PAY merchant / service terms |
+| Loyalty | Ponta accrual and use are transaction-, store-, card-, and campaign-dependent |
+| Settlement | Direct billing via KDDI carrier or registered payment method |
+| Identity | au-ID (same as the broader KDDI ecosystem) |
 
-au PAY の戦略的役割は、**低単価・高頻度の支出を** Pontaポイント付与に **アンカー**し、au PAY カードのより高単価なクレカ支出を補完することである。2024 ローソンチャネルアンカーは、三大 CVS チェーンの一つで au PAY に構造的に一貫した受け入れ面を与える。
+Sources: [au PAY](https://aupay.auone.jp/), the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), and the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059). Rates, acceptance, and regulatory perimeter are product-, function-, and date-dependent.
 
-## au PAY カード — クレジットカード層
+The strategic role of au PAY is to **anchor low-ticket high-frequency spend** in Pontaポイント accrual, complementing au PAY Card's higher-ticket credit-card spend. The 2024 Lawson channel anchor gives au PAY a structurally consistent acceptance surface at one of the three largest CVS chains.
 
-**au PAY カード**は KDDI のクレジットカードラインで、au PAY カード株式会社を通じて発行される。製品バリアントには以下が含まれる：
+## au PAY Card — the credit-card layer
 
-| カード | ティア | 年会費 | 注目すべき特徴 |
-|---|---|---|---|
-| **au PAY カード** | エントリー | 条件付き免除（利用により変動）| 全支出に対する標準 1% Pontaポイント付与 |
-| **au PAY ゴールドカード** | ゴールド | ¥11,000／年 | au 携帯料金に対する 10% Pontaポイントボーナス + au じぶん銀行連動ボーナス |
-| **au PAY プラチナカード** | プラチナ | 高額年会費 | プレミアムサービスティア、コンシェルジュ、ラウンジアクセス |
+**au PAY Card** is KDDI's credit-card line, issued via au PAY カード株式会社. Product variants include:
 
-**au PAY ゴールドカードの au 携帯料金 10% ボーナス**は、構造的に [[loyalty/d-point-detailed-ecosystem|d Card GOLD 10% bonus on docomo bills]] と類似する — いずれも親通信会社の契約に高 ARPU 加入者を引き留めるよう設計されている。損益分岐の経済性も同様で、au 携帯 + ひかりの合算支出が月 ¥8,000-15,000 の世帯はゴールドカードの年会費 ¥11,000／年を正当化する。
-
-カードの **au PAY への自動チャージ**ルートは、nanaco／WAON／FamiPay が用いる標準的な「クレカ → プリペイド → POS」レールを反映するが、両側に Pontaポイント付与層を伴う。
-
-## au Smart Pass + au Smart Pass Premium — バンドルサブスクリプション層
-
-**au Smart Pass** と **au Smart Pass Premium** は KDDI のバンドルサービス契約で、複数の統合特典を伴う月額制パッケージとして構成される：
-
-| 特典カテゴリ | 詳細 |
-|---|---|
-| **ローソンクーポン** | ローソンで使用可能な定期クーポン（2024 非公開化のチャネルアンカー）|
-| **コンテンツ視聴** | 音楽、動画、電子書籍のバンドルアクセス |
-| **保険・補償** | モバイル端末の損害／賠償補償、日常生活の事故補償 |
-| **ショッピングモール** | Wowma!／au PAY マーケットへの割引アクセス |
-| **Pontaポイントボーナス** | au PAY マーケットでのボーナス付与率、定期的なキャンペーンクレジット |
-| **au じぶん銀行／au PAY カードのボーナス** | 経済圏会員向けのクロス製品ボーナス |
-
-au Smart Pass Premium の戦略的役割は、通信契約の上に **サブスクリプション収益を収益化**しつつ、顧客を同時に複数の経済圏タッチポイントに結びつける **バンドル特典体験**を作り出すことである。経済ロジックは **Amazon Prime**（単一の契約が複数カテゴリの特典を解放する）や **楽天株主優待 + 楽天市場 SPU**（複数製品の利用に連動した複利ボーナス構造）と類似する。
-
-au Smart Pass Premium は、有料サブスクリプションとバンドル特典ではなく、**利用指標に基づく無料会員ティアシステム**である [[loyalty/d-point-detailed-ecosystem|dポイントクラブ]]（NTT docomo）に対して構造的に際立つ。
-
-## UQ Mobile + povo — マルチ回線モバイル契約戦略
-
-KDDI は、日次頻度のアイデンティティアンカーを総体として占める **3 つのモバイル回線ブランド**を運営する：
-
-| ブランド | ポジショニング | ターゲット顧客 |
+| Card | Public product role | Verification point |
 |---|---|---|
-| **au** | プレミアム／メインラインの KDDI モバイル | 高 ARPU、家族プラン、ゴールドカードのハードル世帯 |
-| **UQ Mobile** | 中位／MVNO 型ブランド | 価格意識が高い、月 ¥3,000 未満プラン、スマホファーストユーザー |
-| **povo** | オンライン専用の柔軟プランブランド（トッピングモデル）| ライトユーザー、学生、副回線保有者 |
+| **au PAY カード** | Standard card connected to Ponta benefits | Check current fee, accrual exclusions, and eligibility in the product terms |
+| **au PAY ゴールドカード** | Premium card with additional eligible au-service benefits | Check current annual fee, eligible charges, caps, and exclusions in the product terms |
 
-マルチ回線戦略の戦略ロジックは、**MVNO 流出に対する防御**である（NTT docomo の ahamo／irumo + メイン au、SoftBank の Y!mobile／LINEMO + メイン SoftBank と同様）。KDDI の 3 回線はすべて同一の au-ID に連携し、同一の Pontaポイント／au PAY／au Smart Pass 経済圏に供給するため、顧客の回線ダウングレードは経済圏への結びつきを失わない。
+Sources: the official [au PAY Card product site](https://www.aupay-card.co.jp/) and its current card terms. Fees and benefits change by product and campaign; this table is not a permanent price schedule.
 
-ロイヤルティ経済圏にとっての経済的含意は、**UQ Mobile + povo の加入者は au-ID で au Smart Pass Premium のフルティアに結びついていない場合がある**が、依然として Pontaポイントおよび au PAY に結びついており — 意味はあるがより軽いロイヤルティフットプリントを保持する、という点である。
+The gold card links premium-card economics to eligible au services, but the benefit rate, cap, exclusions, and break-even depend on the current product terms and customer spend. This page does not preserve a fixed price or universal return assumption.
 
-## au じぶん銀行 — 銀行預金アンカー
+The card's **auto-charge to au PAY** route mirrors the standard "credit-card → prepaid → POS" rail that nanaco / WAON / FamiPay use, but with the Pontaポイント accrual layer on both sides.
 
-**au じぶん銀行**は KDDI 側のデジタルバンクで、**2025-01-31 の KDDI ↔ MUFG 株式交換後の au FH の 100% 子会社**である（KDDI は旧 auカブコム証券 — 現三菱UFJ eスマート証券 — の持分を MUFG へ移転する見返りに au じぶん銀行の 100% を取得した）。KDDI／au FH IR からの主要開示：
+## Pontaパス — the bundled-subscription layer
 
-| 指標 | 概算値（公開開示）|
+The current KDDI product is **Pontaパス**, a paid subscription that succeeded the older Smart Pass branding. Its public page describes benefits that vary by eligibility and date:
+
+| Benefit category | Detail |
 |---|---|
-| 預金残高 | **¥5 兆円超**（2025-08-06 に発表された 5 兆円突破）|
-| 口座数 | **7 百万口座超**（2025-09-20 に発表された 700 万口座突破）|
-| 戦略的役割 | au 経済圏のコア預金／貯蓄アンカー、au PAY・au PAY カード・Pontaポイントと統合 |
-| 融資商品 | 個人ローン、住宅ローン、NISA／投資信託の取扱い |
+| **Coupons** | Includes rotating offers such as Lawson benefits under current conditions |
+| **Ponta benefits** | Eligible purchases may receive additional Ponta benefits |
+| **Cinema** | Published cinema offers apply on specified days and titles / seats may be excluded |
+| **Delivery** | menu delivery-fee benefit under current conditions |
+| **Shopping / content** | au PAY Market and content benefits under current terms |
 
-au じぶん銀行は、**[[banking/rakuten-bank|楽天銀行]]**、**PayPay 銀行**、**住信SBI ネット銀行**、**ソニー銀行**と並び、預金残高と口座数で日本最大級のデジタルバンクに位置する —「ネット銀行」のピアセットである。au PAY・au PAY カード・Pontaポイント付与との統合により、単体のデジタルバンク製品というよりロイヤルティ経済圏の構造的構成要素となっている。
+Sources: the current official [Ponta Pass service page](https://www.au.com/pontapass/). Benefits, price, supported devices, and eligibility can change; the live product page controls.
 
-2026-05-12 の **au フィナンシャルホールディングスの東京証券取引所上場準備**に関する KDDI 発表は、（au FH の連結内の）au じぶん銀行を IPO 範囲に取り込む — 日本の通信キャリアを軸とする金融持株会社の中で初のそうした IPO 候補である。構造的詳細は [[megabanks/au-fh|au Financial Holdings]] を参照。
+The strategic role of Pontaパス is to add a paid bundle across coupons, commerce, delivery, entertainment, and Ponta benefits.
 
-## PayPay（SoftBank）および dポイント（NTT docomo）経済圏との比較
+Pontaパス is structurally distinct from the [[loyalty/d-point-detailed-ecosystem|dポイントクラブ]] rank programme: one is a paid subscription bundle, while the other is a loyalty membership and rank framework.
 
-| 観点 | **au PAY 経済圏（KDDI）** | **[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay 経済圏 (SoftBank / LY)]]** | **[[loyalty/d-point-detailed-ecosystem|dポイント経済圏 (NTT docomo)]]** |
+## UQ Mobile + povo — the multi-line mobile-subscription strategy
+
+KDDI operates **three mobile-line brands** that collectively occupy the daily-frequency identity anchor:
+
+| Brand | Positioning | Target customer |
+|---|---|---|
+| **au** | Premium / mainline KDDI mobile | High-ARPU, family-plan, gold-card hurdle households |
+| **UQ Mobile** | Mid-tier / MVNO-style branded | Price-conscious, sub-¥3,000/mo plans, smartphone-first users |
+| **povo** | Online-only flexible-plan brand (toppings model) | Light users, students, secondary-line holders |
+
+The multi-line structure gives KDDI several customer entry points. Eligibility for au ID linking, Ponta, au PAY, and Pontaパス benefits must be checked by brand and plan; it is not assumed to be identical across all three.
+
+UQ Mobile and povo users may have different eligibility and benefit conditions from au mainline users. Current product and plan terms control.
+
+## au じぶん銀行 — the bank-deposit anchor
+
+**au じぶん銀行** (au Jibun Bank) is the KDDI-side digital bank, **100% subsidiary of au FH after the 2025-01-31 KDDI ↔ MUFG share-swap** (KDDI acquired 100% of au じぶん銀行 in exchange for transferring its stake in the legacy auカブコム証券 — now 三菱UFJ eスマート証券 — to MUFG). Key disclosures from KDDI / au FH IR:
+
+| Metric | Approximate value (public disclosure) |
+|---|---|
+| Strategic role | Core deposit / savings anchor for the au-economic-zone, integrated with au PAY, au PAY Card, Pontaポイント |
+| Lending products | Personal loan, housing loan, NISA / investment-trust distribution |
+
+Sources: [au Jibun Bank](https://www.jibunbank.co.jp/) and [KDDI finance](https://www.au.com/finance/). Undated account and deposit figures are intentionally omitted.
+
+au じぶん銀行 ranks among Japan's largest digital banks by deposit balance and account count alongside **[[banking/rakuten-bank|楽天銀行]]**, **PayPay 銀行**, **住信SBI ネット銀行**, and **ソニー銀行** — the "ネット銀行" peer set. The integration with au PAY, au PAY Card, and Pontaポイント accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
+
+## Comparison vs PayPay (SoftBank) and dポイント (NTT docomo) ecosystems
+
+| Dimension | **au PAY ecosystem (KDDI)** | **[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay ecosystem (SoftBank / LY)]]** | **[[loyalty/d-point-detailed-ecosystem|dポイント ecosystem (NTT docomo)]]** |
 |---|---|---|---|
-| 通信アンカー | au + UQ Mobile + povo | SoftBank + Y!mobile + LINEMO | docomo + ahamo + irumo |
-| 共通ポイント | **Pontaポイント**（マルチブランド提携、ロイヤリティマーケティング運営）| **PayPay ポイント**（クローズドループ、PayPay 運営）| **dポイント**（NTT docomo 発行、共通ポイント）|
-| コード決済ウォレット | au PAY | PayPay（ユーザー数で最大、~70百万ウォレットユーザー）| d払い |
-| クレジットカード | au PAY カード | PayPay カード | d カード／d カード GOLD |
-| 銀行 | au じぶん銀行（~¥5兆円預金、~7百万口座）| PayPay 銀行（旧ジャパンネット銀行）| dスマートバンク + 三菱UFJ銀行提携 |
-| 証券 | 三菱UFJ eスマート証券（旧 auカブコム証券、2025 株式交換後は MUFG 側）| PayPay 証券 | dスマート証券（予定）|
-| 保険 | au PAY 損害保険 | PayPay ほけん | NTT docomo の保険商品 |
-| 資産運用 | auアセットマネジメント | LY 系 AM | NTT docomo の AM 子会社 |
-| サブスクリプションバンドル | au Smart Pass／au Smart Pass Premium | Yahoo! プレミアム／PayPay クーポン | dマーケットコンテンツ／dカードGOLD ベネフィット |
-| 主要 CVS チャネルアンカー | **ローソン**（2024 50／50 非公開化後）| 支配持分レベルでは同等なし | 支配持分レベルでは同等なし |
-| 持株会社上場 | **2026-05-12：KDDI の適時開示が [[megabanks/au-fh|au FH]] IPO 準備開始を発表** | LY（旧 Z HD）上場済；PayPay 銀行上場（4689）| 予定の NDFG（~2026-07 に発表された統合）；上場戦略は参照資料では公表されていない |
+| Telco anchor | au + UQ Mobile + povo | SoftBank + Y!mobile + LINEMO | docomo + ahamo + irumo |
+| Common point | **Pontaポイント** (multi-brand alliance, Loyalty Marketing-operated) | **PayPay Points** (closed-loop, PayPay-operated) | **dポイント** (NTT docomo-issued, common-point) |
+| Code-payment wallet | au PAY | PayPay | d払い |
+| Credit card | au PAY Card | PayPay Card | d Card / d Card GOLD |
+| Bank | au じぶん銀行 | PayPay 銀行 (旧 ジャパンネット銀行) | docomo-branded / partner banking products under current perimeter |
+| Securities | 三菱UFJ eスマート証券 (旧 auカブコム証券) | PayPay 証券 | docomo-branded / partner securities products under current perimeter |
+| Insurance | au PAY 損害保険 | PayPay ほけん | NTT docomo の保険商品 |
+| Asset management | auアセットマネジメント | LY-affiliated AM | NTT docomo の AM 子会社 |
+| Subscription bundle | Pontaパス | Yahoo! プレミアム / PayPay クーポン | d-market / card benefits under current terms |
+| Major CVS channel anchor | **Lawson** (post-2024 50/50 take-private) | None equivalent at controlling-stake level | None equivalent at controlling-stake level |
 
-**最も深い競争上の差異**：
+Sources: [KDDI finance](https://www.au.com/finance/), the current [d Point guide](https://dpoint.docomo.ne.jp/guide/index.html), [PayPay corporate information](https://about.paypay.ne.jp/en/about/), and each named product's official site. The labels compare public product perimeters; rankings, account counts, and IPO assertions are intentionally excluded.
 
-1. **マルチブランド対シングルブランドのロイヤルティ**：au PAY の Pontaポイントは、クロス加盟店規模（JAL、ローソン、ガソリンスタンド、リクルート）を持つマルチブランド提携通貨である。PayPay ポイントはクローズドループ、dポイントは NTT docomo 発行だが提携加盟店の受け入れが拡大中。
-2. **CVS チャネルアンカー**：支配持分の CVS チャネルアンカー（ローソン、三菱商事との 50／50）を持つのは au PAY のみ。PayPay と dポイントは資本支配を伴わない契約上の提携に依存する。
-3. **持株会社上場のタイミング**：KDDI の 2026-05-12 [[megabanks/au-fh|au FH]] IPO 発表は初の通信 FG IPO 候補である。PayPay の経済圏は既に LY／PayPay 銀行を通じて部分的に上場している。NTT docomo の [[megabanks/ndfg|NDFG]] 統合は予定（~2026-07）だが IPO は発表していない。
+The **deepest competitive differences**:
 
-## 関連
+1. **Multi-brand vs single-brand loyalty**: au PAY's Pontaポイント is a multi-brand alliance currency with cross-merchant scale (JAL, Lawson, gas stations, Recruit). PayPay Points is closed-loop, dポイント is NTT-docomo-issued but with growing partner-merchant acceptance.
+2. **CVS channel anchor**: only au PAY has a controlling-stake CVS channel anchor (Lawson, 50/50 with Mitsubishi Corp). PayPay and dポイント rely on contractual partnerships without equity control.
+3. **Entity boundaries matter**: product adjacency does not prove common ownership, balance-sheet consolidation, or a future listing plan; verify each exact corporate disclosure separately.
+
+## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed 経済圏]]
+- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]
 - [[loyalty/t-point-v-point-post-2024-merger|T Point + V Point post-2024 merger detail]]
 - [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]]
-- [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank 経済圏]]
+- [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank ecosystem]]
 - [[megabanks/au-fh|au Financial Holdings]]
 - [[payment-firms/au-payment|au Payment]]
 - [[non-life-insurers/au-insurance|au Insurance]]
@@ -176,19 +181,19 @@ au じぶん銀行は、**[[banking/rakuten-bank|楽天銀行]]**、**PayPay 銀
 - [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]]
 - [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan コード決済事業者 2025 市場シェア matrix]]
+- [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
-- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- au PAY 公式サイト：https://aupay.auone.jp/
-- au.com 金融カテゴリ：https://www.au.com/finance/
-- au PAY カード公式サイト：https://www.aupay-card.co.jp/
-- au じぶん銀行公式サイト：https://www.jibunbank.co.jp/
-- au Smart Pass Premium 公式サイト：https://www.au.com/mobile/service/smartpass-premium/
-- UQ Mobile 公式サイト：https://www.uqwimax.jp/
-- Pontaポイント公式サイト：https://www.ponta.jp/
-- KDDI コーポレートニュースルーム：https://www.kddi.com/corporate/newsrelease/
-- KDDI IR：https://www.kddi.com/corporate/ir/
+- au PAY official site: https://aupay.auone.jp/
+- au.com finance category: https://www.au.com/finance/
+- au PAY カード official site: https://www.aupay-card.co.jp/
+- au じぶん銀行 official site: https://www.jibunbank.co.jp/
+- Ponta Pass official site: https://www.au.com/pontapass/
+- UQ Mobile official site: https://www.uqwimax.jp/
+- Pontaポイント official site: https://www.ponta.jp/
+- KDDI corporate newsroom: https://www.kddi.com/corporate/newsrelease/
+- KDDI IR: https://www.kddi.com/corporate/ir/

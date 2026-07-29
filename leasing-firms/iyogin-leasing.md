@@ -13,7 +13,7 @@ sources:
   - "https://www.iyoginlease.co.jp/corporate/outline/"
   - "https://www.iyoginlease.co.jp/corporate/history/"
   - "https://www.iyobank.co.jp/"
-  - "https://www.iyoginhd.co.jp/"
+  - "https://www.iyogin-hd.co.jp/company/group.html"
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.chiginkyo.or.jp/"
 ---
@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/iyogin-hd|いよぎん HD]] グループ ([[regional-banks/iyo-bank|伊予銀行]] 母体)。Read it against parent operating bank [[regional-banks/iyo-bank|伊予銀行]] and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東) / [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[leasing-firms/chibagin-leasing|ちばぎんリース]] (千葉) / [[leasing-firms/yamaguchi-leasing|山口リース]] (中国地方西部) / [[leasing-firms/hokkaido-lease|北海道リース]] and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/iyogin-hd|いよぎん HD]] グループ ([[regional-banks/iyo-bank|伊予銀行]] 母体)。Read it against parent operating bank [[regional-banks/iyo-bank|伊予銀行]] and sibling subsidiaries いよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東) / [[leasing-firms/yokohama-bank-leasing|浜銀ファイナンス]] (神奈川) / [[leasing-firms/chibagin-leasing|ちばぎんリース]] (千葉) / [[leasing-firms/yamaguchi-leasing|山口リース]] (中国地方西部) / [[leasing-firms/hokkaido-lease|北海道リース]] and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -36,9 +36,11 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 | 親会社 | [[regional-banks/iyogin-hd|いよぎん HD]] 100% (中核子会社 [[regional-banks/iyo-bank|伊予銀行]] 連結) |
 | 設立 | 1974-09-26 ([[regional-banks/iyo-bank|伊予銀行]] 関連会社として設立。旧称「伊豫銀総合リース」)。資本金 8,000 万円。2022-10-03 伊予銀行の単独株式移転による [[regional-banks/iyogin-hd|いよぎん HD]] 設立で同 HD 直接出資子会社に |
 | 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 海事クラスター設備リース / 自治体リース / 医療リース / オートリース / ファクタリング |
-| 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
+| 規制上の範囲 | 公式会社概要が示す事業はリース・割賦等。本ページでは会社固有の貸金業登録を裏付ける当局資料を確認できないため、貸金業者とは断定しない |
 | 上場区分 | 非上場 ([[regional-banks/iyogin-hd]] グループ) |
 | Wiki role | いよぎん HD 系リース子会社 anchor (四国・海事クラスター連携 model) |
+
+出典: [いよぎんリース会社概要](https://www.iyoginlease.co.jp/corporate/outline/)および[沿革](https://www.iyoginlease.co.jp/corporate/history/)（この表の会社・資本関係および事業概要）。
 
 ### 持株ツリー (いよぎん HD グループ簡略図)
 
@@ -73,15 +75,15 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 
 ### 地銀系リース peer 比較
 
-| リース子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
-|---|---|---|---|---|
-| **いよぎんリース** (本ページ) | [[regional-banks/iyogin-hd|いよぎん HD]] | 持株会社下兄弟会社 (2022-10-) | 愛媛・四国 | 親 5830 |
-| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | 持株会社下兄弟会社 (2016-10-) | 茨城・栃木・北関東 | 親 7167 |
-| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
-| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | [[regional-banks/chiba-bank]] | no-holding 単独銀行 | 千葉県・首都圏東部 | 親 8331 |
-| [[leasing-firms/yamaguchi-leasing|山口リース]] | [[regional-banks/yamaguchi-fg|YMFG]] | 持株会社 3 行体制 | 山口 + 広島 + 北九州 | 親 8418 |
-| [[leasing-firms/hokkaido-lease|北海道リース]] | [[regional-banks/hokkaido-bank]] | 銀行系リース | 北海道 | 親 8328 系 |
-| しずぎんリース | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 (2022-10-) | 静岡県 | 親 5831 |
+| リース会社 | 公式に確認できる関係 | 一次資料（2026-07-29 参照） |
+|---|---|---|
+| **いよぎんリース** (本ページ) | いよぎんHDグループ会社 | [いよぎんHDグループ会社一覧](https://www.iyogin-hd.co.jp/company/group.html) |
+| [[leasing-firms/mebuki-lease|めぶきリース]] | めぶきFGが株主 | [めぶきリース会社概要](https://www.mebuki-lease.co.jp/gaiyo/index.html) |
+| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | 千葉銀行グループ会社 | [千葉銀行 2022-08-05 公開資料](https://www.chibabank.co.jp/news/news202200805_01_001) |
+| [[leasing-firms/yamaguchi-leasing|ワイエムリース]] | YMFG 子会社 | [YMFGグループ会社一覧（2025-09-25現在）](https://www.ymfg.co.jp/about/profile/group/) |
+| [[leasing-firms/hokkaido-lease|北海道リース]] | 北海道銀行が主要株主第1位、2024-10 から同行持分法適用会社 | [北海道リース会社概要](https://www.do-lease.co.jp/company/profile.html)・[沿革](https://www.do-lease.co.jp/company/history.html) |
+
+この比較表は各社の資本・会計上の関係だけを扱い、地盤、規模、上場順位を推定しない。
 
 ### 大手リース・専業リースとの競合
 
@@ -96,7 +98,7 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 ### 規制枠組み
 
 - **主管**: 金融庁 (FSA) ・経済産業省
-- **法的根拠**: リース業 (銀行法上の銀行業免許不要)、貸金業登録 (ファクタリング領域で必要に応じて取得)
+- **確認範囲**: 公式会社概要が示すリース・割賦等。会社固有の許認可・登録は当局公開情報または会社の登録票で個別確認する
 - **親 HD ガバナンス**: [[regional-banks/iyogin-hd]] 連結子会社として持株会社ガバナンス下、銀行業以外子会社規制 (主要業務 / 付随業務 / 業務範囲規制) で位置づけられる
 - **地方財務局**: 四国財務局 (高松) 管轄
 
@@ -129,7 +131,7 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 - **いよぎんリース株式会社 公式サイト — 会社概要** (https://www.iyoginlease.co.jp/corporate/outline/, 設立 1974-09-26 / 資本金 8,000 万円 / 筆頭株主 いよぎん HD / 2022-03 期売上高 167 億円)
 - **いよぎんリース 公式サイト — 会社沿革** (https://www.iyoginlease.co.jp/corporate/history/, 1974-09-26 設立ほか主要沿革)
 - **伊予銀行 公式サイト** (https://www.iyobank.co.jp/, グループ会社情報)
-- **いよぎん HD 公式 IR** (https://www.iyoginhd.co.jp/)
+- **いよぎん HD グループ会社一覧** (https://www.iyogin-hd.co.jp/company/group.html)
 - **EDINET 有価証券報告書 (いよぎん HD 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
 - **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 連携企業情報)
 - **Wikipedia: いよぎんリース / いよぎんホールディングス / 伊予銀行** (2026-05-25 抽出)

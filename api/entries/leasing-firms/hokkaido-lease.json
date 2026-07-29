@@ -41,12 +41,14 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.do-lease.co.jp/company/profile.html",
+      "https://www.do-lease.co.jp/company/history.html",
       "https://www.hokkaidobank.co.jp/",
       "https://www.hokuhoku-fg.co.jp/",
       "https://www.leasing.or.jp/"
     ]
   },
-  "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional specialist) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 for the principal-shareholder / equity-method relationship.",
   "headings": [
     "北海道リース",
     "Wiki route",
@@ -82,12 +84,15 @@
       "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/hokuyo-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.do-lease.co.jp/company/history.html",
+      "https://www.do-lease.co.jp/company/profile.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3153,
-    "word_like_tokens": 463,
+    "nonspace_chars": 3490,
+    "word_like_tokens": 520,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-24"
   }

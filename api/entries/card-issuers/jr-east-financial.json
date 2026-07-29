@@ -11,21 +11,16 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/jr-east-financial.md",
   "raw_markdown_url": "https://finwiki.zksc.io/card-issuers/jr-east-financial.md",
   "domain": "card-issuers",
-  "title": "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+  "title": "JR東日本のカード・銀行代理サービス",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+    "title": "JR東日本のカード・銀行代理サービス",
     "aliases": [
-      "JR-East Financial",
-      "JR東日本金融",
       "ビューカード",
       "View Card",
       "株式会社ビューカード",
       "JRE BANK",
       "JRE Bank",
-      "Suica Pay",
-      "JR東日本ペイメントサービス",
-      "JR East Payment Service",
       "card-issuers/jr-east"
     ],
     "domain": "card-issuers",
@@ -51,28 +46,26 @@
     "note": null,
     "sources": [
       "https://www.jreast.co.jp/aboutus/profile/",
-      "https://www.jreast.co.jp/lifeservice/jrebank.html",
-      "https://www.jreast.co.jp/eki-net/Suica/",
-      "https://www.viewsnet.jp/company/profile.html",
-      "https://www.jr-eastpay.com/company/",
-      "Wikipedia: 東日本旅客鉄道 / ビューカード / JRE BANK (公開情報, 2026-05-25 抽出)"
+      "https://www.jreast.co.jp/press/2024/20240409_ho02.pdf",
+      "https://www.jreast.co.jp/suica/",
+      "https://www.viewcard.co.jp/company.html"
     ]
   },
-  "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer com",
+  "summary": "This entry sits under card-issuers INDEX to distinguish the legal entity 株式会社ビューカード from the JRE BANK service. Read イオン銀行 / AFS as a retail-finance contrast: JRE BANK uses a bank-agency model rather than a group-owned bank. This page does not assert a separate “JR-East Financial” company or a paymen",
   "headings": [
-    "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+    "JR東日本のカード・銀行代理サービス",
     "Wiki route",
     "TL;DR",
     "1.1 株式会社ビューカード（View Card）",
     "1.2 JRE BANK（2024-05 開業）",
-    "1.3 JR 東日本ペイメントサービス + Suica",
     "2. 業務ライン（金融機能マップ）",
-    "3. 親会社関係（JR 東日本 連結内）",
-    "戦略意義（鉄道企業のフルスタック金融化）",
-    "4. KPI（公開情報ベース）"
+    "3. 法人境界",
+    "6. 規制・監督",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 9,
     "wikilinks": [
       "JapanFG/odakyu-cards",
       "JapanFG/tokyu-card",
@@ -80,10 +73,6 @@
       "banking/rakuten-bank",
       "card-issuers/INDEX",
       "card-issuers/aeon-bank",
-      "megabanks/au-fh",
-      "payments/d-barai",
-      "payments/paypay",
-      "payments/rakuten-pay",
       "payments/suica-pasmo-fares",
       "payments/suica-prepaid-jr-east",
       "regional-banks/seven-bank"
@@ -92,17 +81,19 @@
       "https://finwiki.zksc.io/ja/banking/rakuten-bank/",
       "https://finwiki.zksc.io/ja/domains/card-issuers/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
-      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
-      "https://finwiki.zksc.io/ja/payment-firms/paypay/",
       "https://finwiki.zksc.io/ja/payments/suica-prepaid-jr-east/",
       "https://finwiki.zksc.io/ja/regional-banks/seven-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.jreast.co.jp/press/2024/20240409_ho02.pdf",
+      "https://www.jreast.co.jp/suica/",
+      "https://www.viewcard.co.jp/company.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6356,
-    "word_like_tokens": 1191,
+    "nonspace_chars": 3631,
+    "word_like_tokens": 653,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-08"
   }

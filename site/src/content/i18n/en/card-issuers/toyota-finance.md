@@ -1,11 +1,11 @@
 ---
 source: card-issuers/toyota-finance
-source_hash: abe6eb4a64af680f
+source_hash: 1ee41e1d04bd5936
 lang: en
 status: machine
 fidelity: ok
 title: "Toyota Finance"
-translated_at: 2026-06-15T03:48:21.851Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Toyota Finance
@@ -29,6 +29,8 @@ This page splits the Japan operating company from the global TFS holding page. T
 | Shareholder | [[leasing-firms/toyota-financial|Toyota Financial Services]] 100% |
 | Parent group | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
 | Main lanes | Sales finance, credit card, mobility finance, dealer-linked finance |
+
+Sources: [Toyota Finance company profile](https://www.toyota-finance.co.jp/company/data.html) and [Toyota Financial Services company profile](https://www.tfsc.jp/corporate/index.html).
 
 ## 2. Business Role
 

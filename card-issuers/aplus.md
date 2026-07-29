@@ -34,6 +34,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[
 | Main lanes | Shopping credit, card, payment services, installment finance |
 | Regulatory route | METI Installment Sales Act lists and official SBI Shinsei group company pages. |
 
+Sources: [SBI Group APLUS profile](https://www.sbigroup.co.jp/english/company/group/aplus.html/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
+
 ## 2. Business role
 
 - Provides installment-credit and card capabilities inside the SBI Shinsei consumer-finance stack.

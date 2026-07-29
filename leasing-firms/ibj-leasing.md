@@ -41,6 +41,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | Successor entity | [[leasing-firms/mizuho-lease|みずほリース (Mizuho Leasing)]] (2019-04-01 〜) |
 | Wiki role | 旧 IBJ レガシー資産 + みずほリース 統合事歴のノード。歴史的継続性確認と検索性のために残置 |
 
+出典: [みずほリース](https://www.mizuho-ls.co.jp/)および[みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/)（旧社からの継続、名称およびグループ関係）。
+
 ## 2. Merger history & business lines (旧)
 
 旧 興銀リースは みずほ系列内で **不動産・航空機・大型 PJ ファイナンス** に強みを持つ準大手リース会社として、芙蓉グループ系の [[leasing-firms/fuyo-lease|芙蓉総合リース]] と業容が一部重複しながら共存していた。旧 IBJ の **大企業 / プロジェクトファイナンス** 系の DNA を継承し、不動産・船舶・航空機・海外 PJ といった大型案件で強みを発揮。

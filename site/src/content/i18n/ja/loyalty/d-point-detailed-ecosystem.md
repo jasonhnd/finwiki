@@ -1,143 +1,153 @@
 ---
 source: loyalty/d-point-detailed-ecosystem
-source_hash: 3d21aff8d80be53b
+source_hash: 62de2e132095b21c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "d Point detailed 経済圏 (NTT docomo) — 付与の仕組み、d Card / d払い の統合、2025 改革"
-translated_at: 2026-06-26T08:31:59.824Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# d Point detailed 経済圏 (NTT docomo) — 付与の仕組み、d Card / d払い の統合、2025 改革
+# d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules
 
-## Wiki ルート
+## Wiki route
 
-この項目は [[loyalty/INDEX|loyalty index]] の配下にある dポイントの **事業者-deep ページ** であり、テレコム・アンカー比較ビューは [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]、銀行アンカーとの対比は [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、エコシステムマップは [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]、IFRS 15 の取扱いは [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]、ウォレット層のオーバーレイは [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]、親会社の金融持株構造は [[megabanks/ndfg|NDFG]]、争点となる小売アンカーの対応物は [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] と組み合わせて読むこと。
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **operator-deep page** for dポイント, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]] for the comparative telco-anchor view, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored contrast, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS-15 treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[megabanks/ndfg|NDFG]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] for the contested-retail-anchor counterpart.
 
 ## TL;DR
 
-**dポイント** は、**dポイントクラブ** の傘下で運営される NTT docomo のオープン共通ポイントプログラムである。アクティブな **d アカウント ID ベースは 100 百万を超え**（NTT docomo の公開開示）、楽天ポイントおよび PayPay ポイントと並ぶ日本三大共通ポイントエコシステムの一つとなっている。dポイントの戦略的役割は、**計画された [[megabanks/ndfg|NDFG (NTT docomo financial group)]] 統合のフロントエンド通貨** として機能し、モバイル回線契約者を d払い（QR 決済）、d Card / d Card GOLD（クレジット）、d アカウント銀行パートナー、dスマートバンク（デジタルバンクブランド）、および将来 NDFG に包含される証券／保険／信託子会社に結びつけることにある。**2025 dポイントクラブ改革**（2024-Q4, に発表、2025-2026にかけて段階的に展開）は、純粋なポイント累積ではなく d払い 利用頻度を中心にランク制度（4段階の「ランク」）を再構築し、付与の経済性をウォレット活動へと実質的にシフトさせた。IFRS 15 に基づく会計処理では、ポイント付与による負債を breakage 見積もりとともに繰延収益に計上し、2021 以降の ASBJ 第 29 号の適用は NTT docomo の年次報告書の契約負債開示に完全に反映されている。
+**dポイント** is an open common-point programme operated under the **dポイントクラブ** umbrella. It connects dアカウント, d払い, dカード, and participating merchants. The current official rules provide **five ranks**, determined monthly from eligible dポイント earned during the previous three months. This page treats accounting as a framework question: whether a point creates a contract liability, provision, or expense depends on the customer promise, funder, redemption obligation, and the reporting entity's exact filing note.
 
-## d アカウント、dポイントクラブ、および会員規模
+## d-account, dポイントクラブ, and member scale
 
-**d アカウント** は NTT docomo の汎用顧客 ID である。元々はモバイル回線契約者向けの docomo ID として始まったが、dポイントが従来の「docomo Premier Club」プログラムからリブランドされた 2015 頃から、非 docomo ユーザー（docomo モバイル契約を持たない一般消費者）にも開放された。現在の構造：
+The **d-account** is NTT docomo's universal customer ID. It originated as the docomo ID for mobile-line subscribers but was opened to non-docomo users (general consumers without a docomo mobile contract) starting around 2015 when dポイント was rebranded from the legacy "docomo Premier Club" programme. The current structure:
 
-| アイデンティティ層 | 役割 | 規模 |
-|---|---|---|
-| **d アカウント** | docomo、dポイント、d払い、d Card、d アカウント銀行パートナーの汎用 ID | 100M+ アカウント（NTT docomo 公開開示） |
-| **dポイントクラブ** | 付与率と特典を決定するロイヤルティプログラムのティア・ラッパー | すべての d アカウント保有者は会員として自動登録される |
-| **d Card 会員** | NTT docomo が発行する d アカウントのクレジットカード子会社 | 数千万；d アカウントの一部 |
-| **d Card GOLD 会員** | docomo 料金にマルチプライヤー特典を持つゴールドステータスのクレジットカード | 数百万；高 ARPU ティア |
-| **d払い 会員** | d アカウントの上に乗る QR 決済ウォレット会員 | 数千万 MAU；[[payments/japan-code-payment-operator-2025-market-share-matrix|コード決済 2025 share matrix]] を参照 |
+| Identity / service layer | Public role |
+|---|---|
+| **dアカウント** | Login / identity used across eligible docomo and d services |
+| **dポイントクラブ** | Loyalty programme and five-rank benefit wrapper |
+| **dカード** | Credit-card surface connected to dポイント under card terms |
+| **d払い** | Code-payment surface connected to dアカウント and dポイント under payment terms |
 
-会員ファネルは d アカウント層で広がり、d Card GOLD に向かって狭まり、各ティアが段階的に高い金融商品の付帯を提供する。
+Sources: the current [d Point Club guide](https://dpoint.docomo.ne.jp/guide/index.html), [d Card](https://dcard.docomo.ne.jp/), and [d払い](https://service.smt.docomo.ne.jp/keitai_payment/). No undated membership count is inferred.
 
-## 2025 dポイントクラブ改革 — ランク制度の刷新
+The membership funnel widens at the d-account layer and narrows toward d Card GOLD, with each tier offering progressively higher financial-product attachment.
 
-**2024-Q4 に発表され、2025-2026 にかけて段階的に展開された dポイントクラブのランク改革** は、2015 のリブランド以来、dポイント付与の経済性に対する最も重要な変更である。公開資料は、ボーナス付与を決定する **4段階のランク制度** を説明している：
+## Current dポイントクラブ rank rules
 
-| ランクティア | 従来（2025以前）の基準 | 新（2025-）の基準 |
-|---|---|---|
-| トップティア (★★★★) | 純粋な 6か月のポイント累積しきい値 | d払い 利用 + d Card 利用 + dポイント累積の組合せ；d払い 頻度をより重く加重 |
-| 中上位 (★★★) | 同上 | より低いしきい値での組合せ指標 |
-| 中下位 (★★) | 同上 | より低いしきい値での組合せ指標 |
-| ベース (★) | デフォルト登録 | デフォルト登録 |
+The current official guide and member terms describe **five ranks**. Rank is determined each month using eligible dポイント earned during the previous three months:
 
-経済的な意図は、受動的なポイント累積ではなく **d払い 活動に報いる** ことであり、これまで d払い を使わずに d Card 利用や docomo 料金支払いを通じてポイントを獲得してきた従来の dポイント保有者の間でウォレット採用を加速させる。これは、コード決済マトリクスにおいて [[payment-firms/paypay|PayPay]] および 楽天ペイ に対して d払い の市場シェアを伸ばすという NTT docomo の戦略的優先事項と整合する — [[payments/japan-code-payment-operator-2025-market-share-matrix|2025 コード決済 market share matrix]] を参照。
+| Rule element | Current published treatment |
+|---|---|
+| Number of ranks | Five (1-star through 5-star) |
+| Measurement period | The previous three months |
+| Measurement | Eligible dポイント earned; excluded categories are defined in the member terms |
+| Determination timing | Monthly, under the schedule in the member terms |
+| Benefits | Point multiplier and other benefits vary by rank and may change under current notices |
 
-この改革はまた、**保有残高の有効期限ルール**（固定日の失効ではなくローリング 48か月ルール）を調整し、**特定の d払い 加盟店カテゴリーに紐づくボーナス・マルチプライヤー・キャンペーン** を導入した。
+Sources: the official [rank guide](https://dpoint.docomo.ne.jp/guide/about_rank/index.html) and [d Point Club member terms](https://dpoint.docomo.ne.jp/dpc/d_account/kiyaku.html). The page intentionally does not preserve a superseded “2025 four-tier” description.
 
-## docomo サービス vs パートナー加盟店での付与率
+Rank-based d払い benefits can raise the return on eligible payments, but **d払い frequency is not the published rank-determination metric**. The rank itself is based on eligible points earned during the measurement period.
 
-1% の **標準付与率** は広く適用されるが、実効率はサーフェスによって大きく異なる：
+The standard-point expiry rule changed on 2025-12-01 to a rolling 12 months from the last eligible earn/use activity. Campaign points may have a different expiry and use perimeter.
 
-| 付与サーフェス | 標準付与 | d Card あり | d Card GOLD あり | 備考 |
+## Accrual rate at docomo services vs partner merchants
+
+The **standard accrual rate** of 1% applies broadly, but the effective rate varies significantly by surface:
+
+| Earn surface | Standard accrual | With d Card | With d Card GOLD | Notes |
 |---|---|---|---|---|
-| docomo モバイル料金 | 1%（d Card で支払い） | docomo 料金に 1% ベース + 10% ボーナス | docomo 料金に 1% ベース + 10% ボーナス | docomo 料金への d Card GOLD ボーナスは、保有者が ¥11,000/年 の年会費を正当化する構造的理由 |
-| ひかりネット料金 | 1% | 可変 | 可変 | モバイル回線割引とバンドル |
-| d払い コード決済 | 0.5%（デフォルト） | 1% | 1.5% | 改革期のキャンペーンが表示レートをより高く押し上げる |
-| d Card クレジットカード利用 | 1% | 1% | 1%（+ カテゴリーボーナス） | 標準的なクレジットカード報酬 |
-| 旗艦パートナー加盟店（ローソン、マクドナルド、マツモトキヨシ、ENEOS） | スキャン時に 1% + 可変ボーナス | 使用すれば d Card 利用と積み重なる | 積み重なる | パートナー出資のボーナスキャンペーンが一般的 |
-| 連合パートナー（ベイシア、ヤマダデンキ等） | スキャン時に 1% | 積み重なる | 積み重なる | 低頻度のパートナーネットワーク |
-| d払い 経由の非パートナー加盟店 | 0.5-1.5% | 積み重なる | 積み重なる | 受付のみ — スキャン・アンド・アーンなし |
+| docomo mobile bill | 1% (paid by d Card) | 1% base + 10% bonus on docomo bill | 1% base + 10% bonus on docomo bill | The d Card GOLD bonus on docomo bills is the structural reason holders justify the ¥11,000/yr annual fee |
+| Hikari net bill | 1% | Variable | Variable | Bundled with mobile-line discount |
+| d払い code payment | 0.5% (default) | 1% | 1.5% | Reform-period campaigns push higher headline rates |
+| d Card credit-card spend | 1% | 1% | 1% (+ category bonuses) | Standard credit-card reward |
+| Flagship partner merchant (Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS) | 1% on scan + variable bonus | Stacks with d Card spend if used | Stacks | Partner-funded bonus campaigns common |
+| Coalition partner (ベイシア, ヤマダデンキ, etc.) | 1% on scan | Stacks | Stacks | Lower-frequency partner network |
+| Non-partner merchant via d払い | 0.5-1.5% | Stacks | Stacks | Acceptance-only — no scan-and-earn |
 
-経済的な含意は、d Card GOLD を保有し旗艦パートナーで d払い を使う docomo 契約者は、組合せ利用カテゴリーで **3-5%+ の実効付与率** を達成でき、これは PayPay と 楽天ペイ がデフォルトで提供する 1% のベースラインを実質的に上回る、ということである。これが、高額利用の docomo 契約者の間で d Card GOLD のリテンションが高い理由を説明する。
+The economic implication is that a docomo subscriber holding d Card GOLD and using d払い at flagship partners can achieve **effective accrual rates of 3-5%+** on combined-spend categories, which is materially above the 1% baseline that PayPay and Rakuten Pay offer by default. This explains why d Card GOLD retention is high among heavy-spending docomo subscribers.
 
-## d Card GOLD — ゴールドステータスのハードルと経済性
+## d Card GOLD — the gold-status hurdle and economics
 
-**d Card GOLD** は、¥11,000 （税込）の年会費を持つ NTT docomo のプレミアムクレジットカードティアである。年会費の構造的正当化：
+**d Card GOLD** is NTT docomo's premium credit-card tier with a ¥11,000 (税込) annual fee. The structural justification for the fee:
 
-| 特典 | おおよその経済価値 |
+| Benefit | Approximate economic value |
 |---|---|
-| docomo モバイル + ひかり 料金への 10% ボーナスポイント | docomo + ひかり 利用が ¥8,000+/月 の世帯にとって重要（¥80/月 のボーナス = ¥960/年；¥15,000/月 の組合せで、約 ¥1,800/年 のボーナス） |
-| 無料旅行保険（海外／国内） | 可変；中位ゴールドカードと同等 |
-| 空港ラウンジアクセス（国内主要空港） | 可変；中位ゴールドカードと同等 |
-| ケータイ補償（¥100,000レベルの補償） | モバイル端末の破損が発生した場合に重要 |
-| dポイントボーナスキャンペーン | カテゴリー付与と積み重ね可能 |
+| 10% bonus point on docomo mobile + ひかり bills | Material for households with ¥8,000+/mo docomo + ひかり spend (¥80/mo bonus = ¥960/yr; for ¥15,000/mo combined, ~¥1,800/yr bonus) |
+| Free travel insurance (overseas / domestic) | Variable; comparable to mid-tier gold cards |
+| Airport lounge access (国内主要空港) | Variable; comparable to mid-tier gold cards |
+| ケータイ補償 (¥100,000-level coverage) | Material if mobile device damage occurs |
+| dポイント bonus campaigns | Stackable with category accrual |
 
-経済的な損益分岐ハードルは、平均的な世帯で docomo + ひかり の組合せ利用がおおよそ **¥8,000-10,000/月** であり、これを下回ると年会費が料金ボーナスの価値を上回る。NTT docomo の d Card GOLD 会員ベースはこのセグメンテーションを反映しており — 複数回線とバンドルサービスを持つ高 ARPU 世帯に集中している。
+The economic break-even hurdle is roughly **¥8,000-10,000/mo of combined docomo + ひかり spend** for an average household, below which the annual fee outweighs the bill-bonus value. NTT docomo's d Card GOLD member base reflects this segmentation — concentrated in high-ARPU households with multiple lines and bundled services.
 
-## d払い の統合 — ウォレット、カード、料金支払い
+## d払い convergence — wallet, card, and bill payment
 
-**d払い**（d-barai）は、2018に開始された NTT docomo の QR 決済ウォレットである。dポイントとの統合パターン：
+**d払い** (d-barai) is NTT docomo's QR-payment wallet, launched in 2018. The convergence pattern with dポイント:
 
-| 機能 | d払い |
+| Function | d払い |
 |---|---|
-| 資金源 | d Card ダイレクトチャージ、銀行口座ダイレクトチャージ、コンビニチャージ、dポイント直接使用 |
-| アイデンティティ | d アカウント（dポイントと同じ） |
-| 決済 | docomo キャリアまたは登録済み支払い方法経由の直接請求 |
-| ロイヤルティ層 | dポイントが 0.5-1.5% で自動付与（ランクとキャンペーンによる） |
-| 加盟店受付 | JPQR 対応；主要小売、レストラン、自動販売機で展開 |
+| Funding source | d Card direct charge, bank-account direct charge, convenience-store charge, dポイント直接使用 |
+| Identity | d-account (same as dポイント) |
+| Settlement | Direct billing via docomo carrier or registered payment method |
+| Loyalty layer | dポイント accrued automatically at 0.5-1.5% (per rank and campaign) |
+| Merchant acceptance | Compatible with JPQR; deployed across mainline retail, restaurants, vending |
 
-d払い の戦略的役割は、**ポイント付与を高頻度・低単価の利用に結びつけるウォレットサーフェス** を提供することにある — これは純粋なクレジットカードの経済性ではコスト効率よく対応することが難しいカテゴリーである。2025 dポイントクラブのランク改革は、ランク決定指標における d払い 頻度の重みを明示的に高め、ウォレット採用を加速させる。
+Sources: [NTT docomo's d払い information](https://service.smt.docomo.ne.jp/keitai_payment/), the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), and the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059). Registration status must be checked by legal entity and service, not inferred from the product name.
 
-d払い のライセンス構造は、適宜 **第三者型前払式支払手段** および **資金移動業** の二重登録の下にある — 構造的取扱いについては [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照。
+The strategic role of d払い is to provide a **wallet surface that ties point accrual to high-frequency low-ticket spend**. Rank can affect a published d払い benefit, but the rank-determination metric itself is eligible points earned during the previous three months.
 
-## 会計認識のタイミング — IFRS 15 契約負債
+The applicable registration depends on the specific function, legal entity, and flow of funds. Check the current FSA lists for third-party prepaid issuers and funds-transfer businesses; do not assume that every d払い function falls under a single “dual registration.”
 
-NTT docomo は IFRS に基づいて報告しており、dポイント負債は「重要な権利」フレームワークの下で **契約負債**（IFRS 15 に基づく繰延収益）として扱われる。認識パターン：
+## Accounting recognition timing — IFRS 15 contract liability
 
-| 事象 | 会計処理 |
+The following is an **IFRS 15 / ASBJ Statement No.29 review framework**, not an entity-specific conclusion about NTT docomo's reported balance:
+
+| Event | Accounting treatment |
 |---|---|
-| ポイントを獲得する顧客の購入 | 取引価格を財・サービスと付与されたポイントの間で配分（独立販売価格を使用）；ポイント部分を契約負債として認識 |
-| 顧客がポイントを引き換える | 対応する繰延収益を認識済み収益に振り替える |
-| ポイントが失効するか breakage が認識される | 予想される引き換えのパターンに基づき（実際の引き換えに比例して）対応する繰延収益を振り替える |
-| キャンペーン付与ポイント（裏付けとなる顧客購入なし） | 付与時に販促／マーケティング費用として扱う |
+| Customer purchase that earns points | If the points provide a material right promised in that customer contract, allocate transaction price using relative standalone selling prices and recognise the corresponding contract liability |
+| Customer redeems points | If a contract liability was recognised, recognise the allocated revenue as the related performance obligation is satisfied |
+| Points expire / expected breakage | Apply the standard's breakage guidance only to the recognised obligation and only when the estimation criteria are met |
+| Campaign-grant points | Classification depends on the funder, enforceable promise, principal-agent role, redemption obligation, and whether the grant is connected to a customer contract; it is not universally an expense at grant |
 
-NTT docomo の年次報告書には、通信収益の繰延額と dポイント負債を組み合わせた契約負債開示が含まれている。breakage の仮定は、過去の引き換えパターンに基づき毎年見直される。より広範な取扱いについては、「ポイント」が該当しうる 5 つの会計バケットを扱う [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] を参照。
+Sources: [IFRS 15](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/) and [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf). An entity-specific statement requires the exact financial-statement note; it is not inferred here from programme mechanics.
 
-## 連合パートナーネットワーク — ローソンの争点とその他
+For the broader treatment, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
 
-dポイントのパートナー加盟店ネットワークは、主要小売業者との二者間契約に基づいて構築されている。最も争点となるパートナーは **ローソン** であり、歴史的に Pontaポイント（KDDI / ロイヤリティマーケティング）と dポイントの両方の付与を提供してきた — KDDI の 2024 三菱との非公開化後の戦略的再編については [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] を参照。その他の旗艦パートナー：
+## Coalition partner network — Lawson contention and others
 
-| パートナー | カテゴリー | dポイントの役割 |
+The dポイント partner-merchant network is built on bilateral agreements with major retailers. The most contested partner is **Lawson**, which historically offered both Pontaポイント (KDDI / Loyalty Marketing) and dポイント accrual — see [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the strategic reshuffle after KDDI's 2024 take-private with Mitsubishi. Other flagship partners:
+
+| Partner | Category | dポイント role |
 |---|---|---|
-| ローソン | コンビニエンスストア | スキャン・アンド・アーン；2024 KDDI 所有後、Pontaポイントと争点 |
-| マクドナルド | QSR | スキャン・アンド・アーン；キャンペーン主体 |
-| マツモトキヨシ | ドラッグストア | スキャン・アンド・アーン；d払い ボーナスのキャンペーンカテゴリー |
-| ENEOS | 燃料 | SS でスキャン・アンド・アーン |
-| Tower Records、タワレコ | 専門小売 | スキャン・アンド・アーン |
-| ベイシア、ヤマダデンキ、ジョーシン | GMS / 家電量販 | 可変的な参加 |
-| マクドナルド・スターバックス | QSR | 可変；ローテーション・キャンペーン |
+| Lawson | Convenience store | Scan-and-earn; contested with Pontaポイント post-2024 KDDI ownership |
+| McDonald's | QSR | Scan-and-earn; campaign-heavy |
+| Matsumoto Kiyoshi | Drugstore | Scan-and-earn; campaign category for d払い bonus |
+| ENEOS | Fuel | Scan-and-earn at SS |
+| Tower Records, タワレコ | Specialty retail | Scan-and-earn |
+| ベイシア, ヤマダデンキ, ジョーシン | GMS / consumer electronics | Variable participation |
+| マクドナルド・スターバックス | QSR | Variable; rotating campaigns |
 
-連合の経済性は au PAY ポイント / Pontaポイント と同じように機能する：パートナー加盟店が自らの発行と引き換えを出資し、NTT docomo とパートナーの間で定期的にネット決済を行う。パートナー参加の経済的論理は、パートナー出資のポイントコストと引き換えに **増分トラフィックとバスケットサイズ** を得ることにある。
+Consumer programme pages show where points can be earned or used, but generally do not disclose which party funds a specific campaign, the commercial settlement rate or cycle, credit support, or operator margin. Those facts require the relevant partner contract or an exact filing note.
 
-## 競争上のポジショニング
+## Competitive positioning
 
-| 共通ポイント | アンカー | アクティブ会員 ID | 最強チャネル | d Point の相対的ポジション |
+| Common-point | Anchor | Active member ID | Strongest channel | d Point's relative position |
 |---|---|---|---|---|
-| dポイント | NTT docomo テレコム | 100M+ | docomo 料金、d Card GOLD マルチプライヤー、ローソン / マクドナルド | 基準 |
-| au PAY ポイント (旧 Ponta) | KDDI au テレコム + リクルート / 三菱連合 | 100M+ | ローソン（KDDI 後）、リクルート・エコシステム（じゃらん, Hot Pepper） | 直接のテレコムピア；Ponta 合併により au はより広い非テレコムサーフェスを得る |
-| V Point | SMBC + CCCMK | 130M+ 統合 | SMBC Olive、SMBC Card、T カードのレガシーネットワーク | 銀行アンカー；テレコムのデータグラフが弱い |
-| 楽天ポイント | 楽天 EC + カード + 銀行 + モバイル | 数千万のアクティブ | 楽天 EC、楽天カード、楽天モバイル | E コマースアンカー；オンラインのテールがより強い |
-| PayPay ポイント | SoftBank / LY / PayPay アプリ | 70M+ ウォレットユーザー | PayPay QR アプリ、キャンペーン、PayPay カード | ウォレットアンカー；キャンペーン主導 |
-| WAON POINT | イオングループ | 数千万 | イオン店舗、WAON、イオンカード | 小売グループ内 |
-| nanaco point | セブン＆アイ | 数千万 | 7-イレブン、イトーヨーカドー、nanaco | 小売グループ内 |
+| dポイント | NTT docomo telco | Not compared here without a dated filing | docomo services, d Card, d払い, participating merchants | Reference |
+| Pontaポイント (KDDI linkage) | Loyalty Marketing coalition; KDDI is a 20% shareholder | Not compared without a dated disclosure | Lawson, Recruit ecosystem, JAL and other public partners | Coalition-operated peer linked to au services |
+| V Point | SMBC + CCCMK | Not compared here without a dated filing | SMBC Olive, SMBC Card, T-card legacy network | Bank-anchored |
+| Rakuten Points | Rakuten EC + card + bank + mobile | Not compared here without a dated filing | Rakuten EC, Rakuten Card, Rakuten Mobile | E-commerce-anchored |
+| PayPay Points | SoftBank / LY / PayPay app | Not compared here without a dated filing | PayPay QR app, campaigns, PayPay Card | Wallet-anchored |
+| WAON POINT | AEON Group | Not compared here without a dated filing | AEON stores, WAON, AEON Card | Retail-group-internal |
+| nanaco point | Seven & i | Not compared here without a dated filing | 7-Eleven, Ito-Yokado, nanaco | Retail-group-internal |
 
-dポイントの最も直接的なピアは **au PAY ポイント** である — どちらもモバイル回線契約者ベースをコアの堀とし、野心的なスーパーアプリ金融バンドルをエンドステートとする、テレコムアンカーの共通ポイントである。最も重要な対比は、異なる顧客獲得ファネルを持つ銀行アンカーの代替手段としての **V Point** である。
+Sources: the [d Point guide](https://dpoint.docomo.ne.jp/guide/index.html), Loyalty Marketing's [company profile](https://www.loyalty.co.jp/company/outline), [V Point](https://vpoint.jp/), [Rakuten Point](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [PayPay](https://about.paypay.ne.jp/en/about/), [WAON](https://www.waon.net/point/), and [nanaco](https://www.nanaco-net.jp/introduction/). The relative-position column is an analytical product-boundary comparison, not a market-share claim.
 
-## 関連
+KDDI's Ponta linkage is a useful telco comparison, but the operator structures differ: d Point is tied to the docomo perimeter, while Ponta is operated by a multi-shareholder company. **V Point** provides the bank-anchored contrast.
+
+## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
@@ -155,17 +165,17 @@ dポイントの最も直接的なピアは **au PAY ポイント** である �
 - [[payment-firms/au-payment|au Payment]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
-- [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[retail/INDEX|retail index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- dポイントクラブ official site: https://dpoint.docomo.ne.jp/club/
+- dポイントクラブ guide: https://dpoint.docomo.ne.jp/guide/index.html
+- dポイントクラブ rank guide: https://dpoint.docomo.ne.jp/guide/about_rank/index.html
+- dポイントクラブ member terms: https://dpoint.docomo.ne.jp/dpc/d_account/kiyaku.html
 - dポイント official site: https://dpoint.docomo.ne.jp/
 - d Card official site: https://dcard.docomo.ne.jp/
 - d払い official site: https://service.smt.docomo.ne.jp/keitai_payment/
-- NTT docomo press releases (dポイントクラブ reform announcements): https://www.docomo.ne.jp/info/news_release/
-- NTT docomo IR library (annual report contract-liability disclosure): https://www.docomo.ne.jp/corporate/ir/library/
 - Cashless Promotion Council publications (code-payment trends): https://paymentsjapan.or.jp/category/publications/
