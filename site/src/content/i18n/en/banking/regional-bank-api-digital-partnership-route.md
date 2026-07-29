@@ -1,11 +1,12 @@
 ---
 source: banking/regional-bank-api-digital-partnership-route
-source_hash: ffdf1c48bc294668
+source_hash: c86270c2cffad8ac
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Regional bank API and digital partnership route in Japan"
-translated_at: 2026-05-31T03:19:56.450Z
+translated_at: 2026-07-29T03:30:48.118Z
 ---
 
 # Regional bank API and digital partnership route in Japan
@@ -25,6 +26,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route
 | Official regional-bank app | Regional bank and app operator | Bank app, group fintech subsidiary, regional-service platform | Account view, transfers, points, debit, savings, local-commerce features. | Bank license, outsourcing, electronic payment agency / bank agency route if applicable. |
 | BaaS / embedded service | Bank or digital-bank partner | Non-bank platform or fintech | Account / payment / identity / balance UX embedded in another service. | Bank license plus API / agency / intermediary contracts. |
 | Account-direct payment | Regional bank plus payment network | Bank Pay / J-Debit / account-direct merchant route | Merchant payment from bank account. | [[payments/account-to-account-payment-japan|A2A route]] and [[payments/merchant-bank-pay-account-direct-acquiring|merchant acquiring controls]]. |
+
+Sources: the route labels synthesize the FSA electronic-payment-agency register, JBA Open API materials, and bank-specific disclosures. A route name does not prove that every participant holds the same registration or supports the same API scope. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/abstract/council/openapi/; https://www.boy.co.jp/renkei/api.html.]
 
 ## Regional Examples
 
@@ -46,6 +49,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route
 | Does the bank outsource API system operation? | Outsourcing and incident responsibility matter. |
 | Is the app bank-owned, bank-partnered, or third-party? | Legal entity and user-compensation path can differ from UX branding. |
 | Does the flow create wallet balance or only bank-account movement? | Payment Services Act classification can change. |
+
+Sources: these are control questions. Registration is checked in the current FSA registry; API scope and responsibility are checked in the relevant bank/partner contract disclosure. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/fileadmin/res/abstract/council/openapi/openapi_text_1.pdf.]
 
 ## JapanFG Relevance
 

@@ -7,9 +7,9 @@ aliases:
   - "cooperative-banks/aichi-ishi-shinkumi"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, chubu, aichi, nagoya, occupation-based-shinkumi, medical-shinkumi, operating-company]
 status: active
@@ -19,7 +19,6 @@ sources:
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
   - "https://www.iryoushin.com/"
-  - "https://ja.wikipedia.org/wiki/愛知県医療信用組合"
   - "中小企業等協同組合法"
 ---
 # 愛知県医療信用組合 (Aichi Medical Credit Cooperative)
@@ -117,18 +116,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 | **医療法人運転資金** | 医療法人向け短期資金 |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 (2022-03-31 現在) | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 約 120.1 億円 | Wikipedia (ディスクロージャー誌準拠) |
-| 預金残高 | 約 107.2 億円 | 同上 |
-| 貸出金残高 | 約 13.9 億円 | 同上 |
-| 出資金 | 約 0.40 億円 (4,004.9 万円) | 同上 |
-| 従業員数 | 4 人 | 同上 |
-| 店舗数 | 1 店 | 同上 |
+| 総資産・預金・貸出金・出資金 | 愛知県医療信用組合の最新ディスクロージャー誌 | 同一基準日・同一資料の値だけを転記する |
+| 自己資本比率・不良債権指標 | 同ディスクロージャー誌の財務・リスク開示 | 指標名、分母、基準日を併記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 「店舗」と出張所等を混同しない |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認して反映する |
 
-> 注: 当組合は組合員 (歯科医師) 基盤の小規模業域信組で、貸出金比率が低い (預金の約 13%) のは余資を系統 (全信組連) 預け金中心で運用する構造を反映。組合員数は当組合ディスクロージャー誌を要参照。最新数値は [愛知県医療信組ディスクロージャー](https://www.iryoushin.com/) 参照。
+Sources: KPI は愛知県医療信用組合が公開する最新ディスクロージャー誌、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版にあった二次資料由来の 2022 年数値と、それから導いた貸出金比率・運用構造の推論は撤回した。 ^[Sources: https://www.iryoushin.com/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -157,7 +154,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 6180005003438, registry No. 79)
 - **愛知県医療信用組合 公式 (組合員資格・ディスクロージャー)**: https://www.iryoushin.com/
-- **Wikipedia「愛知県医療信用組合」** (財務諸数値 2022-03-31 現在、設立・組合員資格): https://ja.wikipedia.org/wiki/愛知県医療信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -167,4 +163,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (愛知県歯科医師会館内) は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み (組合員数のみ要参照)。愛知県医師信組 (registry No. 78) との関係も出典付与済み — 本組合は **歯科医師** を組合員とする業域信組 (公式サイト・Wikipedia で確認、2015 年に岐阜・三重の歯科医師会員へ地区拡大)、医師信組は **医師** が対象で、両者は歯科医師 / 医師で棲み分ける。医療業域信組の代表アンカーとして Wave 13 拡張で追加。**修正注記**: 当初記載の「医療従事者全般」を組合員基盤とする旨は出典 (公式サイト「歯科医の歯科医による歯科医のための組合」・Wikipedia) と齟齬があり、組合員資格は歯科医師中心に訂正済み。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、歯科医師を中心とする組合員資格と商品・開示の更新経路は公式サイトを根拠とする。KPI は最新の公式ディスクロージャー誌を直接確認した場合だけ再掲する。

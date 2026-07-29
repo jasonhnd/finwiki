@@ -1,11 +1,12 @@
 ---
 source: banking/rokin-bank-registry-japan
-source_hash: 524d86204055aac3
+source_hash: a6b6024b5d0c88f1
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の労働金庫レジストリ"
-translated_at: 2026-06-02T11:47:37.281Z
+translated_at: 2026-07-29T03:30:48.118Z
 ---
 
 # 日本の労働金庫レジストリ
@@ -29,6 +30,8 @@ translated_at: 2026-06-02T11:47:37.281Z
 | 認可済み労働金庫 | 13 |
 | 法的 / 制度的経路 | 労働金庫法 |
 | ウィキ上の扱い | レジストリ索引;独立ページは中央機関または戦略的に重要な例外のみ |
+
+出典: 現時点の日付、中央行、および 13 の Rokin 行は、引用された FSA ワークブックから読み取られます。カウントはスナップショットであり、ワークブックが変更されたときに再生成する必要があります。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. カバレッジ方針
 

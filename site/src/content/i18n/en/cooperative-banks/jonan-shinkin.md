@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/jonan-shinkin
-source_hash: 36eab768e97f966d
+source_hash: 9c5808ceb3bbf015
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Jonan Shinkin Bank (城南信用金庫)"
-translated_at: 2026-06-15T03:48:21.814Z
+translated_at: 2026-07-29T03:30:48.128Z
 ---
 
 # Jonan Shinkin Bank (城南信用金庫)
@@ -30,6 +31,8 @@ Jonan Shinkin Bank is a major urban shinkin bank headquartered in Shinagawa-ku, 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Southwestern Tokyo + eastern Kanagawa Prefecture |
 | Wiki role | Tokyo major shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and check the official information of Jonan Shinkin Bank for business area and organization information. Comparative terms such as "major" are not treated as rankings unless all stocks on the same reference date are compared. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.jsbank.co.jp/about/.]
 
 ## 2. Institution-type business model
 

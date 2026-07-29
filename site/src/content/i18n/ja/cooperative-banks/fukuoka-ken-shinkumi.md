@@ -1,21 +1,22 @@
 ---
 source: cooperative-banks/fukuoka-ken-shinkumi
-source_hash: 4bb4624c11cb068b
+source_hash: 5833218776f2d03b
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "福岡県信用組合（Fukuoka Prefecture Credit Cooperative）"
-translated_at: 2026-06-18T23:33:48.351Z
+title: "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)"
+translated_at: 2026-07-29T03:30:48.124Z
 ---
-# 福岡県信用組合（Fukuoka Prefecture Credit Cooperative）
+# 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)
 
-## ウィキ経路
+## Wiki route
 
-本エントリは [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置し、**九州 県域型（県全域）信組のアンカー**として、地域信組カバレッジのために [[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（東北の市レベル）および [[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]]（北海道の市レベル）を補完するものであり、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] にカタログ化された 143協同組合の母集団の中に置かれる。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **Kyushu 県域型 (prefecture-wide) shinkumi anchor**, complementing [[cooperative-banks/iwaki-shinkumi|いわき信用組合]] (Tohoku city-level) and [[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]] (Hokkaido city-level) for regional shinkumi coverage within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
-福岡県信用組合は、福岡県福岡市中央区赤坂に本店を置く **福岡県全域を営業地区とする県域型地域信用組合**。FSA registry No. 128 （福岡財務支局所管）、法人番号 4290005002505。福岡県内 3 信組（福岡県医師信組・福岡県信組・福岡県庁信組）の中核として、県内 SME 融資・住宅ローン・地域金融を担う。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。九州最大地銀 [[regional-banks/fukuoka-fg|ふくおかFG (福岡銀行)]]・[[regional-banks/nishi-nippon-fhd|西日本シティ銀行 ([[regional-banks/nnfh|NNFH]])]] という強力地銀 2 行体制下で **県信組として固有のニッチ**を維持する地域金融機関。^[extracted]
+福岡県信用組合は、福岡県福岡市中央区赤坂に本店を置く **福岡県全域を営業地区とする県域型地域信用組合**。FSA registry No. 128 (福岡財務支局所管)、法人番号 4290005002505。福岡県内 3 信組 (福岡県医師信組・福岡県信組・福岡県庁信組) の中核として、県内 SME 融資・住宅ローン・地域金融を担う。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。九州最大地銀 [[regional-banks/fukuoka-fg|ふくおかFG (福岡銀行)]]・[[regional-banks/nishi-nippon-fhd|西日本シティ銀行 ([[regional-banks/nnfh|NNFH]])]] という強力地銀 2 行体制下で **県信組として固有のニッチ**を維持する地域金融機関。^[extracted]
 
 ## 1. 法人概要
 
@@ -81,18 +82,16 @@ translated_at: 2026-06-18T23:33:48.351Z
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 (2022-03-31 現在) | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 約 4,750.9 億円 | Wikipedia (ディスクロージャー誌準拠) |
-| 預金残高 | 約 3,273.6 億円 | 同上 |
-| 貸出金残高 | 約 2,520.5 億円 | 同上 |
-| 資本金 | 約 24.4 億円 | 同上 |
-| 従業員数 | 355 人 | 同上 |
-| 店舗数 | 51 店 (2018-12-17 合併時点) | 同上 |
+| 総資産・預金・貸出金・出資金 | 福岡県信用組合の最新ディスクロージャー誌 | 同一基準日・同一資料から転記する |
+| 自己資本比率・不良債権指標 | 同ディスクロージャー誌 | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 合併時点の店舗数を現行値として扱わない |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 福岡県信組は 2018-12-17 に福岡県中央信組・とびうめ信組・福岡県南部信組が合併して発足した福岡県最大の信用組合で、九州では大分県信組に次ぐ預金規模。組合員数は当組合ディスクロージャー誌を要参照。最新数値は [福岡県信組ディスクロージャー](https://kenshin-f.jp/disclosure/) 参照。
+Sources: KPI と沿革の更新は福岡県信用組合の公式ディスクロージャー、法人識別情報は金融庁の信用組合免許一覧を使う。旧版の二次資料由来 KPI と未検証の業界順位は撤回した。 ^[Sources: https://kenshin-f.jp/disclosure/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -105,7 +104,7 @@ translated_at: 2026-06-18T23:33:48.351Z
   - **福岡都心人口集中**の継続 vs **県内地方部過疎化**との相反トレンド
   - **九州フィナンシャルグループ** (FFG・NNFH 主導) の地域金融再編フレームでのポジショニング
 
-## 関連
+## Related
 
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、Tohoku 版)
@@ -122,7 +121,6 @@ translated_at: 2026-06-18T23:33:48.351Z
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4290005002505, registry No. 128)
 - **福岡県信用組合 ディスクロージャー**: https://kenshin-f.jp/disclosure/
-- **Wikipedia「福岡県信用組合」** (財務諸数値 2022-03-31 現在、ディスクロージャー誌準拠): https://ja.wikipedia.org/wiki/福岡県信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -132,4 +130,4 @@ translated_at: 2026-06-18T23:33:48.351Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み。組合員数のみ当組合ディスクロージャー誌を要参照。Kyushu 県域型信組の代表アンカーとして Wave 13 拡張で追加。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI と沿革は公式ディスクロージャー誌を根拠とする。旧版の二次資料由来 KPI は削除済みで、数値は一次資料を直接確認した場合だけ再掲する。

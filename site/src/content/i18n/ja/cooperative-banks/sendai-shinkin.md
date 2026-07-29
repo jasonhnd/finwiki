@@ -1,38 +1,41 @@
 ---
 source: cooperative-banks/sendai-shinkin
-source_hash: d0a191dc0caebd8d
+source_hash: 2158a983fb523e9a
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "杜の都信用金庫"
-translated_at: 2026-06-02T15:14:17.088Z
+title: "杜の都信用金庫 (旧 仙台信用金庫 + 杜陵信用金庫 等の系譜)"
+translated_at: 2026-07-29T03:30:48.132Z
 ---
 
-# 杜の都信用金庫
+# 杜の都信用金庫 (Sendai-area / Tohoku leader shinkin)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-本項目は[[cooperative-banks/INDEX|cooperative-banks INDEX]]配下に置く。宮城県の商業銀行側の比較対象として、仙台の主要地銀プレイヤーである[[regional-banks/77-bank|七十七銀行]]、第二地銀である[[regional-banks/sendai-bank|仙台銀行]]と併せて読む。北日本の都市圏アンカー信用金庫としては[[cooperative-banks/sapporo-shinkin|札幌信用金庫]]と対比し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]では、254信用金庫システムを、[[cooperative-banks/shinkin-central|信金中央金庫]]が維持し[[financial-regulators/zenshin-kyo|全国信用金庫協会]]が代表する広域システムとして参照する。東北には27 の免許信用金庫があり（FSA2025-11-06：東北財務局管内）、関東に次ぐ第二位の地域ブロックであるため、宮城 / 仙台都市圏のアンカーである本項目は重要なシステムルートである。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/77-bank|七十七銀行]]（仙台地銀メインプレイヤー）and [[regional-banks/sendai-bank|仙台銀行]]（第二地銀）for the Miyagi commercial-bank counterparts, against [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the parallel north-Japan city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Tohoku has 27 licensed shinkin (FSA 2025-11-06: 東北財務局管内)—the second-largest regional block after Kanto—so the Miyagi / 仙台都市圏 anchor here is a key system route.
 
-## 要約
+## TL;DR
 
 杜の都信用金庫（もりしん, 仙台市青葉区本店）は、仙台市・宮城県を主たる営業地盤とする宮城県有力信用金庫。仙台都市圏の中小企業・商業・サービス業向け融資、住宅ローン、個人預金を中核業務とする協同組織金融機関。仙台金融市場では [[regional-banks/77-bank|七十七銀行]]（東北最大地銀）・[[regional-banks/sendai-bank|仙台銀行]]（第二地銀、じもとホールディングス傘下）と並ぶ形で、協同組織側の地域金融プレイヤーとして位置付けられる。東北財務局管内 27 信用金庫のうち、宮城県（仙台都市圏）の中核プレイヤー。
 
 > ※ 仙台地区の信用金庫は過去 20 年で合併・統合が進行しており、現在の中核プレイヤー名は「杜の都信用金庫」（旧 仙台信用金庫＋宮城信用金庫＋杜陵信用金庫等の合併系譜）。本ページではこの仙台地区アンカー shinkin を概念的に「sendai-shinkin」として位置付ける。
 
-## 1. ライセンス / グループ境界
+## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 法人名 | 杜の都信用金庫（旧 仙台信用金庫等の合併系譜） |
-| 免許ルート | 信用金庫法 / FSA 信用金庫免許一覧（2025-11-06: 東北財務局管内 27 行） |
-| グループ境界 | 加盟先： [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| 業界団体 | 加盟先： [[financial-regulators/zenshin-kyo|全国信用金庫協会]] |
-| 地盤 | 仙台市・宮城県全域 |
-| ウィキ上の役割 | 東北 / 宮城・仙台都市圏の信用金庫運営会社アンカーページ |
-| 監督当局 | 東北財務局 |
+| Legal name | 杜の都信用金庫（旧 仙台信用金庫等の合併系譜） |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧（2025-11-06: 東北財務局管内 27 行） |
+| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Industry body | Member of [[financial-regulators/zenshin-kyo|全国信用金庫協会]] |
+| Home market | 仙台市・宮城県全域 |
+| Wiki role | Tohoku / Miyagi 仙台都市圏 shinkin operating-company anchor page |
+| Supervisory bureau | 東北財務局 |
 
-## 2. 運営モデル
+Sources: 現行の正式名は金融庁名簿の「杜の都信用金庫」で確認し、旧仙台信用金庫等との合併沿革・営業地区は同庫の公式サイトで確認する。slug の `sendai-shinkin` を現行商号として扱わない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.morisin.co.jp/.]
+
+## 2. Operating model
 
 杜の都信用金庫は、仙台都市圏の中小企業（小売・サービス・建設・製造業）・個人事業主向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。仙台は東北最大の経済圏・人口集積地であり、東北全体の SME 金融の最重要市場の一つ。
 
@@ -44,19 +47,19 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 杜の都信用金庫は、この中で「協同組織側の仙台都市部 SME 金融機関」として、地銀・第二地銀との並走関係を持つ。
 
-## 3. 系統内位置（系統内位置）
+## 3. 系統内位置（Systemic position）
 
-| 層 | 対応先 |
+| Layer | Counterpart |
 |---|---|
-| 中央機関（流動性 / 決済） | [[cooperative-banks/shinkin-central|信金中央金庫]]（東北地区を経由する系統接続） |
-| 業界団体（政策 / 標準） | [[financial-regulators/zenshin-kyo|全国信用金庫協会]]・東北地区信用金庫協会 |
+| 中央機関（liquidity / clearing） | [[cooperative-banks/shinkin-central|信金中央金庫]]（東北地区を経由する系統接続） |
+| 業界団体（policy / standards） | [[financial-regulators/zenshin-kyo|全国信用金庫協会]]・東北地区信用金庫協会 |
 | 共同 IT インフラ | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]・信金共同センター |
 | 預金保険 | [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
-| 監督 | FSA（金融庁）/ 東北財務局 |
+| Supervisory | FSA（金融庁）/ 東北財務局 |
 
-## 4. このページが重要な理由
+## 4. Why this page matters
 
-- 東北 27 信用金庫（全国 2 位の地区規模）における宮城県・仙台都市圏のアンカー 項目。
+- 東北 27 信用金庫（全国 2 位の地区規模）における宮城県・仙台都市圏のアンカー entry。
 - [[regional-banks/77-bank|七十七銀行]]・[[regional-banks/sendai-bank|仙台銀行]] との地域市場における協同組織側カウンターパート。
 - 東北 SME 金融・震災復興後の地域経済支援（[[banking/japan-disaster-finance-framework|Japan disaster finance framework]] 関連）における信金レイヤーの代表ケース。
 - 2011 年東日本大震災以降、復興融資・被災 SME 事業再建支援等で重要な役割を担ってきた地区。
@@ -75,7 +78,7 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 仙台は東北唯一の政令指定都市・人口 100 万都市であり、サービス業・小売・建設業の SME ベースが東北最大。これら SME 向け融資が同庫の中核ポートフォリオ。
 
-## 関連
+## Related
 
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
@@ -83,15 +86,15 @@ translated_at: 2026-06-02T15:14:17.088Z
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]
 - [[regional-banks/77-bank|七十七銀行]]
 - [[regional-banks/sendai-bank|仙台銀行]]
-- [[cooperative-banks/sapporo-shinkin|札幌信用金庫]]（北日本 都市圏アンカー比較対象）
-- [[cooperative-banks/nagoya-shinkin|名古屋信用金庫]]（中部 都市圏アンカー比較対象）
-- [[cooperative-banks/kitakyushu-shinkin|北九州信用金庫]]（九州 都市圏アンカー比較対象）
+- [[cooperative-banks/sapporo-shinkin|札幌信用金庫]]（北日本 city-anchor peer）
+- [[cooperative-banks/nagoya-shinkin|名古屋信用金庫]]（中部 city-anchor peer）
+- [[cooperative-banks/kitakyushu-shinkin|北九州信用金庫]]（九州 city-anchor peer）
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
 - [[banking/INDEX|banking index]]
 
-## 出典
+## Sources
 
 - FSA: 信用金庫免許一覧（2025-11-06 時点、東北財務局管内 27 行）: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - 杜の都信用金庫 公式サイト: https://www.morisin.co.jp/
@@ -100,5 +103,5 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 ---
 
-> [!info] 確度メモ
+> [!info] Confidence note
 > confidence: **likely**. 仙台地区 / 宮城県の信用金庫は過去 20 年で合併・統合が進行しており、現在の代表的プレイヤー（杜の都信用金庫）の名称・系譜・本店所在地は公式サイト / FSA 信用金庫免許一覧で確認可能。預金規模・店舗数等の最新数値はディスクロージャー誌を要参照。東北財務局管内 27 行のうちの宮城県・仙台都市圏アンカーとして概念的に「sendai-shinkin」と位置付ける。

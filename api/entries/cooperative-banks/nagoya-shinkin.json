@@ -11,24 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/nagoya-shinkin.md",
   "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/nagoya-shinkin.md",
   "domain": "cooperative-banks",
-  "title": "名古屋信用金庫",
+  "title": "「名古屋信用金庫」識別ノート",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "名古屋信用金庫",
+    "title": "「名古屋信用金庫」識別ノート",
     "aliases": [
       "cooperative-banks/nagoya-shinkin",
       "nagoya-shinkin",
       "Nagoya Shinkin Bank",
-      "名古屋信金",
-      "めいしん",
-      "信金"
+      "名古屋信用金庫",
+      "名古屋信金"
     ],
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -37,73 +36,43 @@
       "aichi",
       "chubu",
       "nagoya",
-      "operating-company"
+      "identity-correction"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.meishin.co.jp/",
-      "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
-      "https://www.shinkin-central-bank.jp/"
+      "https://www.aichishinkin.co.jp/",
+      "https://www.shinkin.co.jp/chunichi/about/profile.html"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX. Read it against 岡崎信用金庫（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and 浜松磐田信用金庫（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against 名古屋銀行 and あいち銀行（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against Japan shinkin bank registry for",
+  "summary": "This page preserves the historical nagoya-shinkin route under cooperative-banks INDEX while correcting an entity-identification error. Use Japan shinkin bank registry for the complete current roster, 岡崎信用金庫 as a current regional shinkin peer, and 名古屋銀行 for the separate Banking Act bank.",
   "headings": [
-    "名古屋信用金庫",
+    "「名古屋信用金庫」識別ノート",
     "Wiki route",
     "TL;DR",
-    "1. License / group boundary",
-    "2. Operating model",
-    "名古屋信用金庫 vs 岡崎信用金庫（geographic / industrial split）",
-    "3. 系統内位置（Systemic position）",
-    "4. Why this page matters",
-    "5. 関連 / 地域論点",
-    "中京経済との結びつき"
+    "Current-entity identification",
+    "Verification rule",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "banking/INDEX",
-      "banking/cooperative-banking-japan",
-      "banking/japan-cooperative-banking-unified-federation-matrix",
       "banking/shinkin-bank-registry-japan",
       "cooperative-banks/INDEX",
-      "cooperative-banks/hamamatsu-iwata-shinkin",
-      "cooperative-banks/kitakyushu-shinkin",
+      "cooperative-banks/gifu-shinkin",
       "cooperative-banks/okazaki-shinkin",
-      "cooperative-banks/sapporo-shinkin",
-      "cooperative-banks/sendai-shinkin",
-      "cooperative-banks/shinkin-central",
-      "cooperative-banks/shinkin-network-services",
-      "financial-regulators/yokin-hoken-kiko",
-      "financial-regulators/zenshin-kyo",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
       "regional-banks/aichi-bank",
       "regional-banks/nagoya-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/domains/banking/",
-      "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
-      "https://finwiki.zksc.io/ja/banking/japan-cooperative-banking-unified-federation-matrix/",
       "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
       "https://finwiki.zksc.io/ja/domains/cooperative-banks/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/hamamatsu-iwata-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/",
+      "https://finwiki.zksc.io/ja/cooperative-banks/gifu-shinkin/",
       "https://finwiki.zksc.io/ja/cooperative-banks/okazaki-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/sendai-shinkin/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-central/",
-      "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
-      "https://finwiki.zksc.io/ja/financial-regulators/yokin-hoken-kiko/",
-      "https://finwiki.zksc.io/ja/financial-regulators/zenshin-kyo/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/regional-banks/aichi-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/nagoya-bank/"
     ],
@@ -111,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5013,
-    "word_like_tokens": 678,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-08"
+    "nonspace_chars": 2439,
+    "word_like_tokens": 329,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-07-29"
   }
 }

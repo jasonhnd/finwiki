@@ -7,9 +7,9 @@ aliases:
   - "ネット銀行 比較マトリクス 2026"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, digital-bank, deposits, FX, mortgage, BaaS, embedded-finance, matrix, japan, 2026]
 status: active
@@ -18,7 +18,7 @@ sources:
   - "https://sonybank.jp/corporate/aboutus/profile.html"
   - "https://www.uibank.co.jp/info/"
   - "https://gmo-aozora.com/company/outline.html"
-  - "https://www.daiwa-nextbank.co.jp/info/"
+  - "https://www.bank-daiwa.co.jp/about/company/profile/"
   - "https://global.rakuten.com/corp/news/press/2026/0514_01.html"
   - "https://www.paypay-bank.co.jp/company/about/"
   - "https://www.netbk.co.jp/contents/company/about/"
@@ -33,7 +33,7 @@ sources:
 
 ## TL;DR
 
-Japan's net-bank cohort entered 2026 as a clearly segmented competitive surface rather than one undifferentiated category. The ten-plus operators range from **trillion-yen deposit franchises** (Rakuten Bank, Sumishin SBI Net Bank, Sony Bank) to **specialist BaaS / partner-led brands** (Minna Bank, Sumishin SBI's NEOBANK partners), to **ecosystem-stacked retail banks** (PayPay Bank, au Jibun Bank), to **emerging fintech-issued banks** (Mercari Bank, UI Bank). This matrix compares them on parent group, deposit base, FX product depth, mortgage origination, debit / credit overlay, public bank API posture, 2025-2026 growth trajectory, fee schedule, deposit-rate tiering, and embedded-finance partnerships. Use it alongside [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for segment framing, and the per-bank entries for granular detail.
+Japan's online-bank market is not one homogeneous category. Operators differ by group ownership, direct-versus-partner distribution, product scope, and public disclosure format. This page therefore records **where each claim can be verified** rather than freezing volatile balances, rates, fees, rankings, or launch assumptions into a long-lived table. Use each bank's current product page for customer terms, its latest disclosure or IR material for balance-sheet figures, and the FSA register for licence status.
 
 ## Wiki route
 
@@ -61,70 +61,55 @@ Eleven banks anchor the comparison:
 
 The cohort excludes corporate-only digital lenders (e.g. Funds), wallet-only operators ([[card-issuers/paypay-card|PayPay Card]] without the bank entity), and pre-launch projects.
 
-## Core matrix — deposit base and parent ecosystem
+## Core matrix — entity and disclosure route
 
-| Bank | Parent group | Deposit base (¥tn, ~2026) | Account base (m) | Primary deposit driver |
-|---|---|---|---|---|
-| [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Group ([[business/rakuten-group-mobile-finance-bundling-case|mobile-finance bundling]]) | ~10-12 | ~16-17 | Rakuten Pay sweep, salary settlement, Rakuten Card autopay |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | Sumitomo Mitsui Trust × [[megabanks/sbi-hd|SBI HD]] | ~10-11 | ~7-8 | Mortgage origination + JAL / SBI / Yamada / T-NEOBANK partner accounts |
-| [[banking/paypay-bank|PayPay Bank]] | SoftBank / PayPay / Yahoo Japan stack | ~2-3 | ~7-8 | PayPay wallet top-up, salary account, ATM-light channel |
-| [[banking/au-jibun-bank|au Jibun Bank]] | KDDI × MUFG ([[megabanks/au-fh|au FH]] × [[megabanks/mufg|MUFG]]) | ~5-6 | ~6-7 | au PAY linkage, mortgage book, salary account, FX retail |
-| [[banking/sony-bank|Sony Bank]] | Sony Financial Group ([[business/sony-fg-partial-spinoff-case|SFG spinoff]]) | ~3-4 | ~1.7-2.0 | Mortgage book + multi-currency FX deposits + asset-formation accounts |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | [[securities-firms/daiwa-sg|Daiwa Securities Group]] | ~5-6 | ~1.5-1.7 | Securities-sweep deposits, structured deposits, asset-formation customer base |
-| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | [[regional-banks/aozora-bank|Aozora Bank]] × [[business/gmo-internet-group|GMO Internet Group]] | ~1.5-2 | ~0.7-0.9 | SME / startup business accounts, API-based corporate treasury |
-| [[banking/ui-bank|UI Bank]] | Tokyo Kiraboshi FG | ~0.3-0.5 | ~0.3-0.4 | App-only digital deposit channel for regional group |
-| [[banking/minna-bank-baas-model|Minna Bank]] | Fukuoka FG | ~0.2-0.4 | ~0.9-1.1 | Mobile-native account + BaaS partner brands |
-| [[banking/mercari-bank|Mercari Bank]] | Mercari Group | <0.2 (early) | early-stage | Mercari Marketplace seller cash flow + Mercari point bridge |
-| [[regional-banks/japan-post-bank|Japan Post Bank]] (digital channel) | Japan Post Holdings | ~190 (entire bank) | ~120 (entire bank) | Branch + ATM base; Yucho Direct digital channel is overlay |
+| Bank / channel | Group or operating context | Primary evidence for the entity | Primary evidence for changing figures |
+|---|---|---|---|
+| [[banking/rakuten-bank|Rakuten Bank]] | Rakuten group | FSA bank register and bank corporate profile | Latest bank disclosure / IR and current product pages |
+| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | Sumitomo Mitsui Trust and SBI group context | FSA bank register and bank corporate profile | Latest bank disclosure / IR and NEOBANK partner announcements |
+| [[banking/paypay-bank|PayPay Bank]] | PayPay / group ecosystem | FSA bank register and bank corporate profile | Latest bank disclosure and current product pages |
+| [[banking/au-jibun-bank|au Jibun Bank]] | KDDI and MUFG group context | FSA bank register and bank corporate profile | Latest bank disclosure and current product pages |
+| [[banking/sony-bank|Sony Bank]] | Sony Financial Group | FSA bank register and official company profile | Latest disclosure and product-specific pages |
+| [[banking/daiwa-next-bank|Daiwa Next Bank]] | Daiwa Securities Group | FSA bank register and official company profile | Latest disclosure and current product pages |
+| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | Aozora Bank and GMO Internet group context | FSA bank register and official company profile | Latest disclosure and official API / product pages |
+| [[banking/ui-bank|UI Bank]] | Tokyo Kiraboshi FG | FSA bank register and official company information | Latest disclosure and current product pages |
+| [[banking/minna-bank-baas-model|Minna Bank]] | Fukuoka FG | FSA bank register and official company profile | Latest disclosure and official BaaS announcements |
+| [[banking/mercari-bank|Mercari-related banking initiative]] | Mercari group context | FSA register plus dated group announcements | Confirm the licensed entity and live product terms at publication time |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] digital channel | Bank-wide branch and digital-channel overlay | FSA bank register and Japan Post Bank profile | Bank IR for bank-wide figures; product pages for digital-channel terms |
 
-Deposit-base values are public-source approximations from bank IR pages, group annual reports, and FSA aggregate. Use the bank IR page for exact balance-sheet figures.
+Sources: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; each bank's official corporate, disclosure, IR, and product pages listed in this entry.]
 
-## Core matrix — FX, mortgage, card, and API depth
+## Core matrix — product evidence map
 
-| Bank | FX product depth | Mortgage origination | Debit / credit overlay | Bank API publishing |
-|---|---|---|---|---|
-| [[banking/rakuten-bank|Rakuten Bank]] | Yen + USD + EUR retail FX, FX debit card | Variable-rate mortgages via group origination | Rakuten Card linkage (no own card brand) | Standard FA API for [[banking/japan-baas-operating-models|BaaS]] partners |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | Limited FX retail; FX via [[securities-firms/sbi-fx-trade|SBI FX Trade]] | Major variable-rate mortgage anchor | Mister Debit (Visa debit) | Extensive — NEOBANK API for JAL, T-NEOBANK, Yamada, SBI, etc. |
-| [[banking/paypay-bank|PayPay Bank]] | Yen + USD retail FX, FX deposit | Limited — partner referral | PayPay debit (J-Debit + Visa debit), PayPay Card linkage | Standard bank API for PayPay wallet sweep |
-| [[banking/au-jibun-bank|au Jibun Bank]] | Multi-currency FX deposit, FX margin, FX debit | Mortgage book growing | au PAY card / au PAY debit linkage | Standard bank API + au PAY linkage |
-| [[banking/sony-bank|Sony Bank]] | **Strongest retail FX** — 11+ currencies, MoneyKit FX deposit, FX debit | Mortgage core product since launch | Sony Bank WALLET (Visa debit) | Standard bank API |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | Limited FX retail | None | None (deposit-only) | Securities-sweep linkage with [[securities-firms/daiwa-sg|Daiwa]] |
-| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | Corporate FX via parent [[regional-banks/aozora-bank|Aozora]] | Limited retail mortgage | Visa Debit | **Extensive corporate API** — embedded payments, SaaS connectors |
-| [[banking/ui-bank|UI Bank]] | Limited | Limited | Visa debit | Standard bank API |
-| [[banking/minna-bank-baas-model|Minna Bank]] | None / limited | None | Visa debit | **Native BaaS architecture** with partner brand APIs |
-| [[banking/mercari-bank|Mercari Bank]] | None initially | None | Bridge to Mercari Card | Mercari Marketplace integration |
-| [[regional-banks/japan-post-bank|Japan Post Bank]] | Limited retail FX via Yucho | None | JP Bank Visa debit, JP Bank Card | Limited public API |
+| Comparison field | What can be published | Required official evidence | Update discipline |
+|---|---|---|---|
+| Deposits and account counts | Dated point-in-time figure, with the reporting perimeter stated | Latest bank disclosure or group IR table | Never mix bank-only accounts with partner-brand accounts |
+| FX deposits / foreign currency | Currencies and product types currently shown | Current bank product page and customer terms | Do not rank breadth without a same-day complete census |
+| Mortgage and other loans | Whether a product is currently offered and by which entity | Current product page; disclosure for balances or originations | Distinguish direct origination, referral, and group-company provision |
+| Debit / credit linkage | Named live card or group linkage | Issuer and bank product pages | Do not infer ownership from branding alone |
+| API / BaaS | Published API, partner branch, or named live partnership | Bank developer portal or dated joint announcement | Separate statutory open-banking connectivity from commercial BaaS |
+| ATM, transfer, rate, and spread terms | Exact terms only when accompanied by an as-of date | Current fee, rate, and product-condition pages | Treat campaigns and customer tiers as temporary |
 
-[[banking/sony-bank|Sony Bank]] historically anchored its differentiation in **multi-currency retail FX**, and 2026 still shows it as the broadest currency menu among net banks. [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] anchors the **corporate API** lane explicitly. [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] anchors **mortgage origination** and **NEOBANK BaaS** simultaneously.
+Sources: ^[FSA electronic-payment-services materials, https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf; official bank product and disclosure pages listed in the frontmatter.]
 
-## Core matrix — 2025-2026 growth, fees, interest, embedded-finance partnerships
+## Publication protocol for volatile comparisons
 
-| Bank | 2025-2026 deposit growth trajectory | ATM fee structure | Domestic transfer fee | FX spread tier | Interest-rate tier (2026) | Embedded-finance partner ecosystem |
-|---|---|---|---|---|---|---|
-| [[banking/rakuten-bank|Rakuten Bank]] | High single-digit YoY; salary-account drive | Free 1-7x/month by Happy Program tier | ¥52-145 by tier | Mid (e.g. 25 sen USD) | Tiered (0.02-0.10% baseline; promotional higher) | Rakuten Card, Rakuten Pay, Rakuten Securities, NTT Docomo (cross-discount post-Rakuten Mobile partnership rounds) |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | High — mortgage book + NEOBANK accounts | Free 2-15x/month by Smart Program rank | Free 1-20x/month by rank | Mid-tight | Tiered with deposit rate boost for high-rank | JAL NEOBANK, T-NEOBANK, SBI Securities, Yamada NEOBANK, [[megabanks/sbi-hd|SBI HD]] cross-stack |
-| [[banking/paypay-bank|PayPay Bank]] | Strong — PayPay wallet top-ups | Free at 7-Eleven ATMs (limited), fee at others | Free with conditions | Wider | Promotional rate offers; baseline 0.02% | PayPay wallet, PayPay Card, Yahoo / LINE Yahoo ID linkage |
-| [[banking/au-jibun-bank|au Jibun Bank]] | Steady; KDDI ecosystem | Free in tiers | Free with conditions | Mid | Tiered with au PAY card linkage boost | au PAY ecosystem, KDDI MNO, [[megabanks/mufg|MUFG]] |
-| [[banking/sony-bank|Sony Bank]] | Steady; FX + mortgage | Free 4x/month + paid above | ¥110-330 by channel | Tight (FX-anchor positioning) | Tiered including FX deposits | Sony Group entities, mortgage origination partners |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | Securities-sweep driven | Limited (deposit-only model) | Limited (transfers via Daiwa) | n/a | Structured deposit promotional tiers | [[securities-firms/daiwa-sg|Daiwa Securities]] |
-| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | Steady SME / corporate | Corporate-focused fee schedule | Highly competitive for corporates | Tight on corporate FX | Corporate deposit rate tiers | freee, MoneyForward, accounting SaaS, payroll, payment platforms |
-| [[banking/ui-bank|UI Bank]] | Slow growth — niche | Limited (app-only) | Standard tier | n/a | Promotional high-yield deposit launches | Tokyo Kiraboshi FG regional partners |
-| [[banking/minna-bank-baas-model|Minna Bank]] | Mobile / BaaS growth | App-only — no own ATM | App-anchored | n/a | Standard | Recruit, Trust Bank GW, partner brand BaaS |
-| [[banking/mercari-bank|Mercari Bank]] | Early ramp via Mercari user base | Current public materials do not yet support a ranked ATM-footprint comparison | Current public materials do not yet support a fee-tier comparison | n/a | Public product conditions still require confirmation at launch scale | Mercari Marketplace, Mercari Card linkage |
-| [[regional-banks/japan-post-bank|Japan Post Bank]] | Slight outflow as customers diversify | Free at Japan Post ATMs nationwide | ¥146-330 | Limited retail FX | Standard low | Yucho Pay (own wallet), connection with regional banks |
+| Field | Minimum evidence | Required label | Publication rule |
+|---|---|---|---|
+| Deposit balance | Official financial disclosure | Balance-sheet date and unit | Preserve the reporting perimeter and do not round into a ranking |
+| Account count | Official KPI disclosure | Measurement date and account definition | State whether partner / BaaS accounts are included |
+| Interest rate | Bank rate page or customer terms | Retrieval date, tenor, balance tier, and campaign status | Do not carry a rate into a later review cycle |
+| ATM / transfer fee | Official fee schedule | Retrieval date and customer tier | Record conditions for free transactions |
+| FX spread | Official live-rate or spread page | Currency pair, channel, and retrieval time | Do not compress multiple currencies into “tight / wide” |
+| Partnership | Dated joint announcement from the parties | Announcement date and operating status | Distinguish announced, launched, suspended, and ended |
 
-The growth trajectory line is qualitative because deposit growth is highly seasonal and promotional. Use the bank's IR site for quarterly disclosure of deposit balance.
+Sources: ^[Official bank disclosures and customer terms listed in the frontmatter; FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
 ## Differentiation axes
 
-### Deposit-base scale tier
+### Deposit-base comparison
 
-The cohort splits visibly into deposit tiers:
-
-- **Trillion-yen tier (¥5tn+)** — [[banking/rakuten-bank|Rakuten Bank]], [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]], [[banking/au-jibun-bank|au Jibun Bank]], [[banking/daiwa-next-bank|Daiwa Next Bank]]. These compete with regional banks on raw deposit franchise.
-- **Mid tier (¥1-5tn)** — [[banking/sony-bank|Sony Bank]], [[banking/paypay-bank|PayPay Bank]], [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]]. Specialised by product (FX, wallet, corporate API respectively).
-- **Sub-trillion tier (<¥1tn)** — [[banking/ui-bank|UI Bank]], [[banking/minna-bank-baas-model|Minna Bank]], [[banking/mercari-bank|Mercari Bank]]. Early-stage or niche.
-- **Postal anchor (¥190tn)** — [[regional-banks/japan-post-bank|Japan Post Bank]] sits in its own category. Yucho Direct as digital channel is comparable in feature terms but the bank's deposit base is from the branch and ATM franchise.
+Deposit scale is comparable only after aligning the balance-sheet date, entity perimeter, account definition, and unit. A bank-wide figure must not be compared with a digital-channel subset, and a direct-account count must not be compared with a count that includes partner-brand accounts. This page therefore routes readers to dated disclosures rather than maintaining an approximate league table.
 
 ### FX-product depth as differentiation
 
@@ -161,12 +146,12 @@ A useful cluster reading:
 
 ## Source caveats
 
-1. **Deposit-base figures** are public-source approximations from bank IR pages, group annual reports, and FSA aggregate. Quarterly disclosure should be used for exact comparisons.
-2. **Account-base figures** mix bank-only retail customers with BaaS-partner accounts. The [[banking/japan-net-bank-competition-map|competition map]] discusses why BaaS accounts may overstate primary-bank conversion.
-3. **Fee schedules** change frequently with promotional schemes. Use each bank's fee schedule page for current values.
-4. **FX spreads** vary by currency, channel, and time of day. Use each bank's FX page for live rates.
-5. **Interest-rate tiers** depend on BOJ policy. The 2026 baseline assumes positive short-rate territory; promotional rates above baseline are common.
-6. **Mortgage origination volume** is disclosed annually by some banks; quarterly by others. Use each bank's IR page for verified flow data.
+1. **Balance and account figures** require a reporting date, unit, and entity perimeter; use the latest bank disclosure rather than an estimate copied from this page.
+2. **Account definitions** may or may not include BaaS-partner accounts; preserve the issuer's definition.
+3. **Fees, rates, campaigns, and FX spreads** change frequently; use current customer terms and record the retrieval date.
+4. **Product availability** can change by customer segment or channel; absence from this matrix is not evidence that a bank does not offer the product.
+5. **Partnership status** must be taken from dated announcements by the parties and must distinguish announcement from launch.
+6. **Licence status** must be checked against the current FSA register.
 
 ## Research checklist
 

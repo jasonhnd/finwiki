@@ -7,9 +7,9 @@ aliases:
   - "Tokyo Fire Department Employees Credit Co-operative"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kanto, tokyo, occupation-based-shinkumi, fire-dept-shinkumi, operating-company]
 status: active
@@ -19,7 +19,6 @@ sources:
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
   - "https://www.shoubou.co.jp/profile/report.html"
-  - "https://ja.wikipedia.org/wiki/東京消防信用組合"
   - "中小企業等協同組合法"
 ---
 # 東京消防信用組合 (Tokyo Fire Department Credit Cooperative)
@@ -85,18 +84,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 | **団信付き団体扱い** | 給与天引き融資 |
 
-## 5. KPI (確定値)
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 884 億 6,944 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 預金残高 | 733 億 4,594 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 貸出金 | 402 億 9,272 万円 (住宅ローン中心, 2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 純資産 | 56 億 7,449 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 店舗数 | 3 店 (本店・立川支店・幡ケ谷支店) | 東京消防信組 公式 |
-| 役職員数 | 37 名 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
+| 総資産・預金・貸出金・出資金・純資産 | 東京消防信用組合の最新通期経営レポート | 半期と通期を混在させず、同一基準日で転記する |
+| 自己資本比率・不良債権指標 | 同経営レポート | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同経営レポートまたは公式組織案内 | 店舗と出張所の区分を保持する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 上記は **Wikipedia 基礎情報 (2022 年 3 月 31 日現在)** に基づく値。最新の半期/通期数値は [東京消防信組公式ディスクロージャー誌](https://www.shoubou.co.jp/profile/report.html) (FY2024 通期 = 2025-03-31 現在等、画像 PDF) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。職域信組として総資産 1,000 億円未満の小規模行。
+Sources: 最新 KPI は東京消防信用組合の公式経営レポート、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版の二次資料由来 2022 年値と、そこから導いた規模評価は撤回した。 ^[Sources: https://www.shoubou.co.jp/profile/report.html; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -123,7 +120,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ## Sources
 
 - **東京消防信用組合 公式「経営レポート」(ディスクロージャー誌一覧)**: https://www.shoubou.co.jp/profile/report.html — FY2024 通期 (2025-03-31)・FY2025 上半期 (2025-09-30) 等の開示誌 (画像 PDF)
-- **Wikipedia「東京消防信用組合」基礎情報 (2022-03-31 現在)**: https://ja.wikipedia.org/wiki/東京消防信用組合 — 総資産 884.69 億円・預金 733.46 億円・貸出 402.93 億円・純資産 56.74 億円・店舗 3・役職員 37 名・設立 1954-01-18
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 2010005002121, registry No. 49)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -135,4 +131,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (東京消防庁内) は ^[extracted] (公開情報)。総資産・預金・貸出・純資産・店舗・役職員数は **Wikipedia 基礎情報 (2022-03-31)** で確定 (従前の概数推定を実数に置換、最新は公式ディスクロージャー誌)。消防職員系職域信組の代表アンカーとして Wave 13 拡張で追加。共済組合との具体的役割分担は未確認のため `.opinions/JapanFG/tokyo-shobo-shinkumi.md` に隔離。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI は公式経営レポートを根拠とする。旧版の二次資料由来 KPI と規模比較は削除済み。共済組合との具体的役割分担は未確認のため断定しない。

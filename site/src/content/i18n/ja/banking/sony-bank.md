@@ -1,17 +1,19 @@
 ---
 source: banking/sony-bank
-source_hash: e16316d2bc475def
+source_hash: 62fae917b1377e85
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "ソニー銀行事業プロファイル (ソニー銀行)"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T03:30:48.120Z
 ---
 
 # ソニー銀行事業プロファイル (ソニー銀行)
 
-## Wiki ルート本エントリは [[banking/INDEX|banking index]] の配下に、[[regional-banks/sony-bank|ソニー銀行 (Sony Bank) entity anchor]] のエンティティアンカーに対する事業プロファイルの補完として位置する。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のネット銀行セグメント図の中で、[[megabanks/sony-fg|Sony Financial Group]] の親グループ文脈とともに、また [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[regional-banks/ssnb|住信SBIネット銀行 / NEOBANK]] · [[banking/daiwa-next-bank|Daiwa Next Bank]] といったピアに対するエコシステム・証券隣接ポジショニングと照らして読まれたい。ライセンス境界については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と [[financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]] を経由する。
+## Wikiルート
+
+本項目は [[banking/INDEX|banking index]] に属し、法人アンカーである [[regional-banks/sony-bank|ソニー銀行 (Sony Bank)]] を補完する業務プロフィールである。ネット銀行内の位置付けは [[banking/japan-net-bank-competition-map|日本のネット銀行競争マップ]]、親グループは [[megabanks/sony-fg|ソニーフィナンシャルグループ]]を参照する。経済圏型・証券隣接型の比較対象は [[banking/rakuten-bank|楽天銀行]]、[[banking/paypay-bank|PayPay 銀行]]、[[banking/au-jibun-bank|au じぶん銀行]]、[[regional-banks/ssnb|住信 SBI ネット銀行 / NEOBANK]]、[[banking/daiwa-next-bank|大和ネクスト銀行]]である。免許境界は [[banking/japan-banking-license-tier-comparison-matrix|日本の銀行免許階層比較]] と [[financial-licenses/bank-license-and-baas-boundary|銀行免許 / BaaS 境界]]を参照する。
 
 ## 1. アイデンティティと資本構成
 
@@ -28,6 +30,8 @@ translated_at: 2026-07-28T18:19:40Z
 | 主力商品ブランド | **Sony Bank ウォレット** (マルチカレンシー・デビット / キャッシュカード) |
 | 主管庁 | 金融庁 (FSA) |
 
+出典: 身元、所有権ルート、およびライセンス カテゴリは、ソニー銀行の会社概要、ソニーの公式部分スピンオフ記録、および FSA ワークブックによって裏付けられています。このスピンオフにより、ソニーグループのソニーフィナンシャルグループの所有権が変更されました。ソニー銀行自体を上場企業にしたわけではない。 ^[Sources: https://moneykit.net/visitor/co/; https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
+
 ### ソニー銀行の親会社内での位置
 
 ```
@@ -41,17 +45,19 @@ Sony Group Corporation (TSE 6758, 最終親会社)
 
 ソニー FG は以前は上場していたが、2020年にソニーグループが TOB を実施し完全子会社化した。ソニーの公式 partial-spin-off 記録によると、ソニー FG は 2025-09-29 に TSE プライム市場へ上場し、株式の 80%強がソニー株主へ現物分配され、ソニーは 20%弱を保有した。ソニー FG は連結対象から外れ、2025-10-01 付で持分法適用会社となった。ソニー銀行自体はソニー FG 傘下の非上場銀行事業会社として存続する。本項は出典を確認できない初値を持分経済性の推計に用いない。^[Source: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/.]
 
-### マルチカレンシー預金 + FX コアソニー銀行の外貨預金商品は、より広範な [[banking/japan-net-bank-competition-map|net bank universe]] に対して同行の最も特徴的な機能である:
+### 多通貨預金 + FX の中核
 
-| 機能 | ソニー銀行のアプローチ |
+ソニー銀行の最大の特徴は外貨預金商品です。 [[banking/japan-net-bank-competition-map|ネットバンクユニバース]]:
+
+| 特徴 | 公式開示の日付 |
 |---|---|
 | 通貨メニュー | 公式 MoneyKit FX ページによると 12 の外貨 (USD, EUR, GBP, AUD, NZD, CAD, CHF, HKD, BRL, CNH, ZAR, SEK) |
-| FX コスト | メガバンク窓口のリテール FX に対して顧客向けスプレッドがタイト |
-| デビットカード FX | **Sony Bank ウォレット** は海外で外貨残高から直接支払う — スワイプ時の円→外貨レッグがない |
-| 定期預金 FX | 海外金利に連動した利回りの外貨定期預金 |
-| 預金保護 | 円預金は預金保険機構が保護。外貨預金は預金保険の対象外 |
+| 為替コスト | レートと為替コストは通貨、取引、顧客のステータスによって異なります。現在の MoneyKit レート/手数料ページを使用する |
+| デビットカードFX | **Sony Bank WALLET** は、現在の商品規約に基づいて対象となる外貨残高をご利用いただけます |
+| 定期預金FX | 製品の入手可能性、期限、料金は現在の製品ページから取得する必要があります |
+| 預金の安全性 | 預金保険の取扱いについては、ソニー銀行の商品開示および預金保険機構のガイダンスから読む必要があります。 |
 
-FX デビット機能は、旅行頻度の高い利用者や駐在員に近い利用者にとっての顧客獲得レバーである — このセグメントはメガバンク窓口がスプレッドの高さと口座フローの遅さのために十分にサービスできていない層である。
+出典: この表には、開示された製品範囲が記録されています。同業他社の価格面でのリーダーシップやセグメントごとの顧客獲得を主張するものではありません。 ^[Sources: https://moneykit.net/visitor/fx/; https://moneykit.net/visitor/sbw/; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ### 投資商品の販売
 
@@ -67,32 +73,36 @@ MoneyKit プラットフォームは 投信 (投資信託) を販売し、証券
 
 ### ソニー銀行が競争する領域
 
-| 軸 | ポジション |
+| Axis | 比較に必要な証拠 |
 |---|---|
-| FX / 外貨預金 | HNW バンキングのゲーティングなしでリテールがアクセス可能な日本の銀行の中で **首位** |
-| 住宅ローン組成 | 強い (注目すべきネット銀行系オリジネーター) |
-| マルチカレンシーの旅行 / 海外利用 | Sony Bank ウォレット により首位 |
-| 資産形成 / 投信販売 | 堅実だが、SBI / SSNB エコシステムほど深くはない |
-| 給与口座への転換 | [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]] / [[banking/au-jibun-bank|au Jibun Bank]] のエコシステムカバレッジより軽い |
-| カード / 決済頻度 | より軽い — 楽天 / PayPay / au に並ぶポイント経済圏エコシステムを持たない |
+| FX・外貨預金 | 各銀行の公式資料からの同日の通貨適用範囲、レート、手数料、残高、および適格性 |
+| 住宅ローンの組成 | 調整された定義に基づく同期の新規融資および残高 |
+| 海外での多通貨利用 | 対象通貨、決済方法、ネットワーク手数料、商品条件 |
+| 資産形成・投信分配 | 現在の製品在庫、販売代理店のステータス、手数料、およびリンクされたアカウントの条件 |
+| 給与口座換算 | 開示された給与の受け取りまたは主要アカウントの KPI。製品の入手可能性だけでは不十分です |
+| カード/支払い頻度 | 同等の取引頻度またはアクティブなカードの開示。ここでは公開ランキングは主張されません |
 
-### 顧客セグメンテーションソニー銀行の顧客基盤は以下に偏る傾向がある:
+出典: ソニー銀行の公式ページは、独自の商品セットを実証しています。それら自体は、ピア間でのリーダーシップや相対的な深さを確立するものではないため、このマトリックスは比較プロトコルです。 ^[Sources: https://moneykit.net/; https://moneykit.net/visitor/fx/; https://moneykit.net/visitor/sbw/; https://moneykit.net/visitor/co/disc.html.]
 
-- 海外旅行または海外資産エクスポージャーを持つ都市部の専門職層
-- FX 分散を伴う相応の投資ポートフォリオを構築する世帯
-- 金利とオンライン申込の利便性で選ぶ住宅ローン借入者
+### 顧客のセグメンテーション
 
-## 4. KPI の形状とフランチャイズ規模ソニー銀行の公開ディスクロージャー (「ディスクロージャー誌」シリーズおよび四半期決算) は、数兆円規模の預金基盤 — 2025-09-30時点の総預金 ¥4,536.9 億円 (円建て ¥3,800.6億円 + 外貨 ¥736.2億円) — に加え、増加する顧客数と相応の住宅ローン残高を示している。粒度の細かい時点 KPI (口座数、住宅ローン残高、ROE) は定期ディスクロージャーサイクルに属する。本ページは個々の数値をすべて追うのではなく、フランチャイズの形状を追跡する。
+パブリックプロダクトデザインでは、海外での利用、資産形成、住宅ローンに関する調査仮説を提案します。これらは公表されている顧客構成の測定値ではありません。顧客セグメンテーションに関する記述は、ソニー銀行が日付の調査、口座コホート、または製品使用状況の分布を開示する場合にのみ追加する必要があります。
+
+## 4. KPIの形状とフランチャイズ規模
+
+ソニー銀行の公開情報（「ディスクロージャー誌」シリーズおよび四半期決算）によると、数兆円の預金基盤（2025-09-30時点での総預金額¥4,536.9 billion（JPY ¥3,800.6bn + 外貨¥736.2bn））と、増加する顧客数および意味のある住宅ローン残高が示されています。詳細な時点の KPI (口座数、住宅ローン残高、ROE) は定期的な開示サイクルに属します。このページでは、すべての番号を実行するのではなく、フランチャイズの形状を追跡します。
 
 ### 直近のディスクロージャーサイクルにおけるパターン
 
-| 指標 | パターン |
+| メトリック | 日付付きの公開証拠/更新ルール |
 |---|---|
-| 預金残高 | 数兆円のレンジ。円建ておよび外貨建ての両商品を通じて成長 |
-| 外貨預金比率 | メガバンクや他のネット銀行ピアより著しく高い |
-| 住宅ローン残高 | ネット銀行系の住宅ローン残高の中では高い部類 |
-| 口座数 | 楽天 / PayPay / au じぶん / SSNB より小さい。富裕層セグメント重視を反映 |
-| 資本 | 銀行法上の最低基準を十分に上回る |
+| 預金残高 | 2025-09-30 時点の ¥4,536.9bn: 引用された中間開示における円預金 ¥3,800.6bn と外貨預金 ¥736.2bn |
+| 外貨預金シェア | 同じ日付のソニー銀行の開示情報のみに基づいています。ピア比較には調整された定義が必要です |
+| 住宅ローン残高 | 最新の開示の住宅ローンラインと測定日を使用します。ピアランクは表明されません |
+| アカウント数 | ソニー銀行が現在開示している件数と日付を使用します。相対的な規模から顧客の豊かさを推測しないでください |
+| 資本 | 銀行が現在開示している自己資本比率と規制上の定義を使用する |
+
+出典: 上記の数値と更新ルールは、ソニー銀行の公式開示サイクルを対象としています。 ^[Source: https://sonybank.jp/corporate/pdf/disclosure2025h.pdf.]
 
 ## 5. 規制境界
 
@@ -103,7 +113,9 @@ MoneyKit プラットフォームは 投信 (投資信託) を販売し、証券
 | 預金保険 | 預金保険機構 | 円預金は保護対象。外貨預金は明示的に対象外 |
 | 証券商品販売 | 金融商品取引法 — 投信販売向け | 標準的な適合性および開示義務 |
 | AML / CFT | 金融庁 + 警察庁 + 国税庁 | 円のみの銀行に比べてクロスボーダー決済 AML が強化される |
-| 住宅ローン組成 | 銀行法 + 貸金業関連規制 + 住宅ローン関連ガイダンス | 標準的な銀行サイドの住宅ローン監督 |
+| 住宅ローンの組成 | 銀行法の監督と適用される顧客/製品開示規則 | 公式資料から現在の製品条件や監督上の取扱いを確認する |
+
+出典: この概要は、FSA ライセンス登録簿、銀行の法的/商品開示、および預金保険公社のガイダンスと併せて読む必要があります。これは、基礎となるルールの代わりとなるものではありません。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://moneykit.net/visitor/co/disc.html; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ## 関連項目
 
@@ -132,5 +144,4 @@ MoneyKit プラットフォームは 投信 (投資信託) を販売し、証券
 - Sony Group partial spin-off portal for SFG (https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/).
 - FSA 免許銀行一覧 (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx)。
 - ソニー銀行 外貨預金ページ — 12通貨メニュー (https://moneykit.net/visitor/fx/)。
-- ソニー銀行 中間期ディスクロージャー誌 2025.09.30 — 総預金 ¥4,536.9億円 (https://sonybank.jp/corporate/pdf/disclosure2025h.pdf)。
-- 日経 — Sony Financial Group のスピンオフによる TSE プライム再上場 2025-09-29、初値 ¥205 (https://www.nikkei.com/article/DGXZQOTG282HO0Y5A920C2000000/)。
+- ソニー銀行 中間期ディスクロージャー誌 2025.09.30 — 総預金 4 兆 5,369 億円（https://sonybank.jp/corporate/pdf/disclosure2025h.pdf）。

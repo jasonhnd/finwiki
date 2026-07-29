@@ -49,7 +49,7 @@
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 47 | 0 | 12.7 |
 | `asset-managers` | 15 | 0 | 15.9 |
-| `banking` | 40 | 0 | 42.8 |
+| `banking` | 40 | 0 | 35.4 |
 | `business` | 25 | 0 | 20.0 |
 | `card-issuers` | 24 | 0 | 16.5 |
 | `consumer-finance` | 6 | 0 | 15.3 |
@@ -59,7 +59,7 @@
 | `control-cluster` | 1 | 0 | 146.0 |
 | `control-mirror` | 1 | 0 | 24.0 |
 | `control-proposal` | 1 | 0 | 4.0 |
-| `cooperative-banks` | 46 | 0 | 15.6 |
+| `cooperative-banks` | 46 | 0 | 13.2 |
 | `corporate-strategy` | 11 | 0 | 19.2 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.8 |

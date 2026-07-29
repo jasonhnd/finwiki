@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/fukuoka-ken-shinkumi
-source_hash: 4bb4624c11cb068b
+source_hash: 5833218776f2d03b
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Fukuoka Prefecture Credit Cooperative"
-translated_at: 2026-05-31T15:29:03.877Z
+translated_at: 2026-07-29T03:30:48.124Z
 ---
 # Fukuoka Prefecture Credit Cooperative
 
@@ -37,9 +38,9 @@ Fukuoka Prefectural Credit Union is a prefecture-based regional credit union wit
 
 As it is a prefecture-based regional credit union, the membership qualification is a two-tier structure: **district (prefecturewide) + business area**:
 
-1**Area requirements**: Individuals and corporations who live, work, or have a business office in Fukuoka Prefecture.
-2**Size Requirement**: Small Business Operator — Employees300 less than person or capital3 億円Below (varies by industry)
-3**Business area**: No industry specified (cross-industry as it is regional)
+1. **Area requirements**: Individuals and corporations who live, work, or have a business office in Fukuoka Prefecture.
+2. **Size requirements**: Small and medium-sized businesses — 300 employees or less or capital 3 億円 or less (depending on industry)
+3. **Business area**: No industry specified (cross-industry as it is regional)
 
 ### Fukuoka prefecture credit union block (registry comparison)
 
@@ -77,22 +78,20 @@ Fukuoka Finance Branch = Fukuoka Prefecture + Saga Prefecture + Nagasaki Prefect
 |---|---|
 | **Loans for SMEs** | Working capital and equipment funds for SMEs in Fukuoka Prefecture |
 | **Personal deposits** | Term and liquid deposits for member households |
-| **Housing loan** | Housing acquisition funds for association members |
+| **Mortgage Loan** | Housing acquisition funds for association members |
 | **Education/ceremonial occasions** | Living funds for member families |
 | **Asset management consultation** | Government bond/investment trust counter sales (via system) |
 
-## 5KPI
+## 5. KPI update route
 
-| indicator | value (2022-03-31Current) | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | Approx.4,750.9 億円| Wikipedia (according to Disclosure magazine) |
-| Deposit balance | Approx.3,273.6 億円| Same as above |
-| Loan balance | Approx.2,520.5 億円| Same as above |
-| Capital | Approx.24.4 億円| Same as above |
-| Number of employees |355 People | Same as above |
-| Number of stores |51 店(2018-12-17(at the time of merger) | Same as above |
+| Total assets/deposits/loans/investments | Fukuoka Prefecture Credit Union's latest disclosure magazine | Posting from the same reference date and same material |
+| Equity ratio/Non-performing loan indicators | The same disclosure magazine | Include the indicator definition and base date |
+| Union members, officers, employees, stores | Organizational overview or disclosure magazine of the association | The number of stores at the time of the merger is not treated as the current value. |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: Fukuoka Prefecture Credit Union2018-12-17It is the largest credit union in Fukuoka Prefecture, established by the merger of Fukuoka Prefectural Chuo Shin-Kumi, Tobiume Shin-Kumi, and Fukuoka Prefecture Nanbu Shin-Kumi.In Kyushu, it has the second largest deposit amount after Oita Prefecture Shin-Kumi. Please refer to our union disclosure magazine for the number of union members. For the latest figures, please refer to [Fukuoka Prefecture Credit Union Disclosure](https://kenshin-f.jp/disclosure/).
+Sources: For KPI and history updates, use the Fukuoka Prefecture Credit Union's official disclosure, and for corporate identification information, use the Financial Services Agency's list of credit union licenses. KPIs derived from secondary materials and unverified industry rankings from the previous edition have been withdrawn. ^[Sources: https://kenshin-f.jp/disclosure/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6.Supervision/Regulation
 
@@ -122,7 +121,6 @@ Fukuoka Finance Branch = Fukuoka Prefecture + Saga Prefecture + Nagasaki Prefect
 
 - **Financial Services Agency credit union license list**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number4290005002505, Registry No.128)
 - **Fukuoka Prefecture Credit Union Disclosure**: https://kenshin-f.jp/disclosure/
-- **Wikipedia "Fukuoka Prefecture Credit Union"** (Financial figures2022-03-31(Currently in compliance with Disclosure Magazine): https://ja.wikipedia.org/wiki/Fukuoka Prefecture Credit Union
 - **National Credit Union Central Association**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Credit Cooperative Federation) Official**: https://www.zenshinkumiren.jp/
 - **Deposit Insurance Corporation Official**: https://www.dic.go.jp/
@@ -132,4 +130,4 @@ Fukuoka Finance Branch = Fukuoka Prefecture + Saga Prefecture + Nagasaki Prefect
 ---
 
 > [!info] Calibration status
-> confidence: **likely**. The corporate number, registry number, and head office location derived from the FSA registry are^[extracted](Public information). The KPIs for total assets, deposits, loans, number of employees, and number of stores are Wikipedia (according to Disclosure Magazine,2022-03-31Attribution has been given in (currently). Please refer to our union disclosure magazine for the number of union members only. Wave as a representative anchor of Kyushu prefecture type credit union13 Added as an expansion.
+> confidence: **likely**. The corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the latest KPIs and history are based on the official disclosure magazine. The KPIs derived from secondary materials in the previous version have been deleted, and the figures will be reposted only when the primary materials have been directly confirmed.

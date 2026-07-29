@@ -7,9 +7,9 @@ aliases:
   - "日本 BaaS landscape"
 domain: "banking"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, baas, embedded-finance, japan]
 status: active
@@ -18,6 +18,7 @@ sources:
   - "https://www.fukuoka-fg.com/investorimage/data/20250908_irday_2.pdf"
   - "https://www.minna-no-ginko.com/alliance-service/"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
+  - "https://www.fsa.go.jp/common/shinsei/dendai/index.html"
 ---
 
 # Japan BaaS landscape
@@ -61,6 +62,8 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 | AML / fraud monitoring | Embedded UX does not remove bank-grade monitoring duties |
 | Responsibility boundary | User-facing brand and regulated service provider may differ |
 
+Sources: this table is a role-boundary summary. Bank-license status and electronic-payment-agency status must be checked against the current FSA registers; Minna Bank's pages support only its own disclosed BaaS models and partners. ^[Sources: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/dendai/index.html; https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
+
 ## Related
 
 - [[banking/minna-bank-baas-model]]
@@ -77,3 +80,4 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 - FFG IR Day, 2025-09-08: みんなの銀行の事業戦略.
 - みんなの銀行: 提携サービス / BaaS overview.
 - 金融庁: 免許・許可・登録等を受けている事業者一覧.
+- 金融庁: 電子決済等代行業者の登録・届出制度.

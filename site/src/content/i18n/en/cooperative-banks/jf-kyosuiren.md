@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/jf-kyosuiren
-source_hash: 2d9e9dbbfab4b561
+source_hash: 8c5bc257e731305a
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)"
-translated_at: 2026-06-18T23:33:48.342Z
+translated_at: 2026-07-29T03:30:48.127Z
 ---
 # JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)
 
@@ -15,7 +16,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 ## TL;DR
 
-**JF Kyosuiren (全国共済水産業協同組合連合会) = the core of the cooperative-insurance (kyosai) business of the JF (fishery cooperative) Group**. A **national federation** founded on the Fishery Cooperative Association Act, it is the fishery-cooperative-system kyosai operator corresponding to [[non-life-insurers/ja-kyosairen|JA 共済連]] in the JA Group. Its **members = JF (fishery cooperatives) nationwide + prefectural fishery federations**, and it provides **life kyosai, annuity kyosai, building-renewal kyosai, auto kyosai, fishing-vessel kyosai, and fishing-equipment kyosai**, etc., to members (fishers and local residents). **Compared with JA Kyosairen (a 200 兆円-scale entity), its scale is on the order of a few %〜10 %** (since fishery output is small relative to agriculture), but it has its own distinctiveness in **fisher-specific kyosai (fishing-vessel kyosai, fisher disaster kyosai, etc.)**. Among the JF Group's three pillars ([[cooperative-banks/jf-zengyoren|JF 全漁連 = 代表 + 経済]] / **JF Kyosuiren = kyosai ★this page** / [[cooperative-banks/jf-shingyoren|JF 信漁連 = 信用]]), it is the national federation **exclusively responsible for the kyosai business**. ^[extracted]
+**JF Kyosuiren (National Mutual Aid Fisheries Cooperative Federation)** is a national federation that conducts mutual aid businesses based on the Fisheries Cooperative Act. According to the official organization profile, JF, fisheries production cooperatives, seafood processing industry cooperatives, and other federations nationwide are members, and the member associations and Kyosuiren jointly undertake mutual aid contracts. The number of members as of 2025-03-31 is 926. This number should not be confused with the number of JFs conducting credit business or the number of organizations participating in other systems. ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf.]
 
 ## 1. Organizational structure
 
@@ -25,20 +26,22 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | Common name | JF 共水連 / 共水連 / 全水共 |
 | English name | Kyosuiren / National Mutual Insurance Federation of Fishery Cooperative Associations |
 | Legal form | **National federation under the Fishery Cooperative Act** (kyosai-business federation) |
-| Members | 71 JF nationwide + prefectural fishery federations + affiliated corporations |
-| Supervisory authority | **Ministry of Agriculture, Forestry and Fisheries** (primary) + **FSA** (cooperative supervision) |
+| member | JF, fisheries production cooperatives, seafood processing industry cooperatives, and their federations nationwide (926 members, 2025-03-31) |
+| basis law | Fisheries cooperative law |
 | Wiki role | **JF Group kyosai-core anchor** (fishery-cooperative-side peer of [[non-life-insurers/ja-kyosairen|JA 共済連]]) |
+
+Sources: Organizational form, membership scope, establishment, location, and number of members are based on the official organizational overview of JF Kyosuiren and “Current Status 2025.” The previous version of ``71 JF'' was withdrawn because it incorrectly combined the separate tally of credit business implementing entities with the number of members. ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf.]
 
 ### Kyosai business vs Insurance Business Act (distinction) ^[extracted]
 
 | Axis | Insurance company (life / non-life) | **JF Kyosuiren (kyosai)** ★this page | [[non-life-insurers/ja-kyosairen|JA 共済連 (peer)]] |
 |---|---|---|---|
 | Governing law | Insurance Business Act | Fishery Cooperative Act | Agricultural Cooperative Act |
-| Jurisdiction | FSA | MAFF (Fisheries Agency) + FSA cooperation | MAFF + FSA cooperation |
+| institutional basis | Insurance business law | Fisheries cooperative law | Agricultural cooperative law |
 | Form | Joint-stock company / mutual company | Federation (cooperative organization) | Federation (cooperative organization) |
 | Customers | The public (open) | **JF members (fishers / local residents)** | JA members (farmers / local residents) |
 | Product name | Insurance | **Fishery kyosai / general kyosai** | Kyosai |
-| Scale | Majors at tens of trillions of yen | **Total assets 3,836 億円 / coverage amount 4.1 兆円** (as of 2025-03 ) | 200 兆円-scale |
+| Number update source | Statutory/integrated disclosure of each company | JF Kyosuiren “Current situation” | Current status and disclosure of JA Mutual Aid Federation |
 
 ### The JF Group's 3  national federations ^[extracted]
 
@@ -50,14 +53,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 Note: In the JA Group, representation (Zenchu), economic business (Zen-Noh), kyosai (Kyosairen), and credit (Norinchukin) are 4  divided, but in the JF Group the structure is **representation + economic business jointly held by JF Zengyoren** + **kyosai = JF Kyosuiren** + **credit = JF Shingyoren + Norinchukin** ^[extracted]
 
-### Contrast with JA Kyosairen ^[extracted / inferred]
+### Comparison with JA Kyosairen
 
 | Axis | [[non-life-insurers/ja-kyosairen|JA 共済連]] | **JF Kyosuiren** ★this page |
 |---|---|---|
-| Scale (in-force contract value / coverage amount) | **approximately 200 兆円-scale** | **coverage amount 4.1 兆円 / total assets 3,836 億円** (as of 2025-03 ) |
-| Members | 497 JA nationwide + prefectural agricultural co-ops | 71 JF nationwide + prefectural fishery federations |
-| Flagship products | Building-renewal kyosai (建更) + whole-life kyosai + annuity kyosai + auto kyosai | **Fishing-vessel kyosai + 建更 + whole-life kyosai + annuity kyosai + auto kyosai** |
-| Proprietary products | 建更 | **Fishing-vessel kyosai + fisher disaster kyosai** (fishery-specialized) |
+| basis law | Agricultural cooperative law | Fisheries cooperative law |
+| organization | Agricultural cooperative-affiliated mutual aid national federation | Mutual Aid National Federation of Fisheries Cooperatives |
+| Membership update source | Official disclosure of base date of JA Kyosairen | JF Kyosuiren “Current situation” |
+| Update source for contract/asset figures | Official disclosure of base date of JA Kyosairen | JF Kyosuiren “Current situation” |
+
+Sources: Legal systems, organizations, and figures are confirmed separately in the primary documents with reference dates for each federation. This table does not estimate size ranking or product identity. ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf; https://www.ja-kyosai.or.jp/about/annual/.]
 
 ### Key chronology ^[extracted / inferred]
 
@@ -71,10 +76,11 @@ Note: In the JA Group, representation (Zenchu), economic business (Zen-Noh), kyo
 | 2010 年s | In parallel with **JF Marine Bank** brand unification, Kyosuiren also promotes DX |
 | 2020〜 | Changes in fisher kyosai demand due to the COVID pandemic + suspension of exports to China (2023〜) |
 
-### Scale comparison with JA Kyosairen
+### Notes on comparison
 
-- **JA Kyosairen = 200 兆円-scale vs JF Kyosuiren = a few-hundred-billion to a few-trillion-yen scale** = reflecting the economic-scale gap between fishery and agriculture
-- However, it maintains differentiation from private non-life insurers through **proprietary products such as fishing-vessel kyosai**
+- The insured amount, total assets, and mutual aid premiums received are different indicators and should not be mixed together as the same "scale."
+- Systems with similar names, such as JF Mutual Aid, Fishing Boat Insurance, and Fishery Mutual Aid, should be distinguished by confirming the underlying law and operating entity.
+- Comparisons with JA Kyosairen will only be made if official disclosures of the same indicators on the same reference date are available.
 
 ### Fisher-member characteristics
 
@@ -93,20 +99,15 @@ Note: In the JA Group, representation (Zenchu), economic business (Zen-Noh), kyo
 | Total assets | 3,836 億円 | Kyosuiren "current status" 2025 |
 | Capital contributions | 53 億 3,000 万円 (as of 2023-03 ) | Kyosuiren RECRUIT organizational outline |
 | Number of members | 926  members (as of 2025-03 ) | Kyosuiren "current status" 2025 |
-| Number of member JF (mainly credit-business-conducting cooperatives) | 71 JF | ^[extracted] |
 
-> Note: figures are from JF Kyosuiren's official "current status" (as of 2025-03 ) and organizational outline. Total assets are 4,327 億円 as of 2023-03  and coverage amount is 4.3 兆円, with a gradually declining trend in recent years. Membership 926  is on a fishery-cooperative-member basis, of which credit-business-conducting JF are mainly 71.
+Sources: The guaranteed amount, number of contracts, mutual aid premiums received, mutual aid payments, total assets, and number of members are based on the 2025-03-31 snapshot of JF Kyosuiren's "Current Situation 2025", and the investment is based on the official organization overview that clearly indicates the reference date. Do not conclude trends from values ​​from different years. ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf; https://www.jf-kyosai.jp/about/.]
 
 ## 5. Supervision / regulation
 
-- **Jurisdiction**: **Ministry of Agriculture, Forestry and Fisheries** (primary) + **FSA** (cooperative supervision) + **Fisheries Agency** (fishery policy)
-- **Legal basis**: Fishery Cooperative Act (kyosai-business provisions) + kyosai-business guidelines
+- **Legal Basis**: Fisheries Cooperatives Act. Expressions regarding supervisory authority and joint jurisdiction will be updated based on laws and regulations and documents from the competent authorities, and will not be inferred from the supervisory relationships of similar insurance companies.
 - **Recent policy issues**:
-  - The **kyosai = insurance regulatory-gap** debate (the same issue as JA Kyosairen)
-  - The argument for applying **economic-value-based solvency (ESR)**-analogous regulation to kyosai
-  - The operation of the **fishing-vessel kyosai legal system** and JF Kyosuiren's role
-  - Redefinition of the function of fishery kyosai in the **food-security plan (2026〜)**
-  - Response to the **2018  Fisheries Act amendment** + structural change among fishers
+  - Track the latest mutual aid regulations, soundness indicators, and financial ADR responses in the “current status”.
+  - The boundaries with other systems such as fishing boat insurance and fisheries mutual aid will be confirmed by the operating entity and the underlying law.
 
 ## Related
 
@@ -140,4 +141,4 @@ Note: In the JA Group, representation (Zenchu), economic business (Zen-Noh), kyo
 ---
 
 > [!info] Confidence note
-> confidence: **likely**. Based on JF Kyosuiren's official "Guide" and "current status 2025" + the JF Kyosai RECRUIT organizational outline. Total assets 3,836 億円, coverage amount 4.1 兆円, contracts 47.4 万, kyosai premiums received 373 億円, and members 926  (all as of 2025-03 ) are official confirmed figures. As of 2023-03 : total assets 4,327 億円, coverage amount 4.3 兆円, capital contributions 53.3 億円, employees 382 名. The initial "a few-hundred-billion to a few-trillion-yen scale" approximation has been replaced with official figures (total assets approximately 3,800〜4,300 億円, coverage amount approximately 4 兆円). Membership 926  is on a fishery-cooperative-member basis, with credit-business-conducting JF mainly 71.
+> confidence: **likely**. For the organization, number of members, and KPIs, we used JF Kyosuiren's official "Information" "Current Status 2025" with reference date. The size ranking of 71 JF, unverified joint supervision, products of other systems, and JA mutual aid, which was confused in the previous version, has been withdrawn.

@@ -6,9 +6,9 @@ aliases:
   - "ネット銀行 competition map"
 domain: "banking"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, digital-bank, BaaS, japan]
 status: active
@@ -54,6 +54,8 @@ Use this page with [[banking/INDEX|banking index]], [[banking/rakuten-bank|Rakut
 | BaaS / API depth | Partner branches, API services, white-label accounts, corporate API | Separates consumer app banks from platform infrastructure banks. |
 | Securities / payment adjacency | Brokerage, wallet, card, QR payment, quick deposit, FX | Explains daily frequency and revenue beyond net interest margin. |
 | Regulatory stack | Bank license, bank agent, electronic payment agency, funds transfer, prepaid, FIEA | Prevents UX from being confused with legal function. |
+
+Sources: the comparison axes are a collection protocol. Legal bank identity comes from the FSA workbook, while ownership, products, and operating metrics must come from each bank's dated official disclosure; no ranking is implied by the table. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.paypay-bank.co.jp/company/about/; https://www.jibunbank.co.jp/corporate/performance/; https://www.netbk.co.jp/contents/company/about/; https://gmo-aozora.com/company/outline.html; https://sonybank.jp/corporate/aboutus/profile.html; https://www.uibank.co.jp/info/.]
 
 ## Model Notes
 

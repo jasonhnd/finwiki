@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/asahi-shinkin
-source_hash: d6b650ffb68e7ee6
+source_hash: a9adac8f712ddcc2
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Asahi Shinkin Bank (朝日信用金庫)"
-translated_at: 2026-06-15T03:48:21.906Z
+translated_at: 2026-07-29T03:30:48.124Z
 ---
 
 # Asahi Shinkin Bank (朝日信用金庫)
@@ -30,6 +31,8 @@ Asahi Shinkin Bank is a major urban-type shinkin bank headquartered in Taito-ku,
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Central Tokyo + parts of Saitama and Chiba |
 | Wiki role | Tokyo central shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and for history, business areas, and store information, check the official profile of Asahi Shinkin Bank. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.asahi-shinkin.co.jp/corp/profile/.]
 
 ## 2. Institution-type business model
 

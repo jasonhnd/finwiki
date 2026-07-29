@@ -1,11 +1,12 @@
 ---
 source: banking/japan-regional-bank-m-a-consolidation-family-tree-matrix
-source_hash: 896dc9974666252e
+source_hash: ec8a244184e56529
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan regional bank M&A consolidation family-tree matrix"
-translated_at: 2026-06-15T03:48:21.905Z
+translated_at: 2026-07-29T03:30:48.109Z
 ---
 
 # Japan regional bank M&A consolidation family-tree matrix
@@ -46,7 +47,7 @@ This family-tree feeds directly into the licence-tier matrix [[banking/japan-ban
 | [[regional-banks/mebuki-fg\|めぶき FG]] | 7167 | 2016-10 | 常陽銀行 (1地銀) + 足利HD / 足利銀行 (1地銀, 2003 失効/再生経歴) | 茨城 + 栃木 + 首都圏 | 2-bank umbrella (no legal merger) | Large (北関東2県メガリージョナル) |
 | [[regional-banks/concordia-fg\|横浜 FG (旧コンコルディア)]] | 7186 | 2016-04 (商号変更 2025-10) | 横浜銀行 (1地銀) + 東日本銀行 (2地銀) | 神奈川 + 首都圏 | 2-bank umbrella | Largest single-FG class (預金 ~¥19.7tn, FY2024) |
 | [[regional-banks/kyushu-fg\|九州 FG]] | 7180 | 2015-10 | [[regional-banks/higo-bank\|肥後銀行]] (1地銀, 熊本) + [[regional-banks/kagoshima-bank\|鹿児島銀行]] (1地銀, 鹿児島) | 熊本 + 鹿児島 | 2-bank umbrella | Large (九州南部2強) |
-| [[regional-banks/fukuoka-fg\|ふくおか FG (FFG)]] | 8354 | 2007-04 | [[regional-banks/fukuoka-bank\|福岡銀行]] (1地銀) + 熊本ファミリー銀行 (現 [[regional-banks/kumamoto-bank\|熊本銀行]]) + [[regional-banks/18-shinwa-bank\|十八親和銀行]] (旧 十八銀行 2007合流 → 親和銀行 2007 合流 → 2020-10 銀行合併) + みんなの銀行 (BaaS デジタルバンク, 2021-05開業) | 福岡 + 熊本 + 長崎 + 全国デジタル | 4-bank umbrella + digital-bank | Top-class (預金 ~¥21.9tn, FY2025) |
+| [[regional-banks/fukuoka-fg\|ふくおか FG (FFG)]] | 8354 | 2007-04 | [[regional-banks/fukuoka-bank\|福岡銀行]] + 熊本ファミリー銀行（現 [[regional-banks/kumamoto-bank\|熊本銀行]]）で発足、親和銀行が2007-10、十八銀行が2019-04、福岡中央銀行が2023-10に加入。親和銀行と十八銀行は2020-10に[[regional-banks/18-shinwa-bank\|十八親和銀行]]へ合併。みんなの銀行は別のデジタル銀行子会社 | 福岡 + 熊本 + 長崎 + 全国デジタル | 4 regional banks + 1 digital bank | Use current FFG disclosure |
 | [[regional-banks/hokuhoku-fg\|ほくほく FG]] | 8377 | 2003-09 (旧 ほくぎん FG) → 2004-09 統合 | [[regional-banks/hokuriku-bank\|北陸銀行]] (1地銀, 富山) + [[regional-banks/hokkaido-bank\|北海道銀行]] (1地銀, 札幌) | 富山 + 石川 + 福井 + 北海道 | 2-bank umbrella | Mid-large (離れた地域の連合の嚆矢) |
 | [[regional-banks/yamaguchi-fg\|山口 FG (YMFG)]] | 8418 | 2006-10 (単独株式移転) | [[regional-banks/yamaguchi-bank\|山口銀行]] (1地銀, 下関) + [[regional-banks/momiji-bank\|もみじ銀行]] (2地銀, 広島, 2001 山口系列入り) + [[regional-banks/kitakyushu-bank\|北九州銀行]] (1地銀, 2011-10 新設分割) | 山口 + 広島 + 北九州 | 3-bank umbrella (3 brand) | Mid (中国西部 + 関門) |
 | [[regional-banks/san-jusan-fg\|三十三 FG]] | 7322 | 2018-04 (株式移転) → 2021-05 子銀行合併 | 三重銀行 (2地銀) + 第三銀行 (2地銀) | 三重 + 名古屋圏一部 | 1-operating-bank (post-merger) | Mid-small (三重県中堅) |
@@ -63,11 +64,11 @@ This family-tree feeds directly into the licence-tier matrix [[banking/japan-ban
 | [[regional-banks/fidea-hd\|フィデア HD]] | 8713 | 2009-10 (共同株式移転) → 2027-01 銀行合併予定 (フィデア銀行) | [[regional-banks/shonai-bank\|荘内銀行]] (1地銀, 山形, 1878 第六十七国立銀行) + [[regional-banks/hokuto-bank\|北都銀行]] (1地銀, 秋田, 1895 第四十八国立銀行系) | 山形 + 秋田 + 仙台 統括 | 2-bank umbrella → 1-bank merger (2027-01 予定) | Mid-small (東北 県境越え 嚆矢) |
 | [[regional-banks/jimoto-hd\|じもと HD]] | 7161 (STD) | 2012-10 (株式移転, 震災で1年延期) → 2020-11 SBI 出資 → 2024-06 RCC 議決権 63.52% 取得 | [[regional-banks/kirayaka-bank\|きらやか銀行]] (2地銀, 山形) + [[regional-banks/sendai-bank\|仙台銀行]] (2地銀, 宮城) | 山形 + 宮城 | 2-bank umbrella, 公的資金 RCC 体制 | Mid-small (北東北 第二地銀, 公的資金返済 13 年延期 2024-09) |
 | [[regional-banks/nishi-nippon-fhd\|西日本 FHD]] | 7189 | 2016-10 (単独株式移転) | [[regional-banks/nishi-nippon-city-bank\|西日本シティ銀行]] (1地銀, 福岡) + [[regional-banks/nagasaki-bank\|長崎銀行]] (2地銀, 長崎, 2006-04 子会社化) | 福岡 + 大分 + 佐賀 + 長崎 + 熊本 | 2-bank umbrella | Mid-large (福岡 2 大地銀の一角) |
-| [[megabanks/sbi-regional-bank-hd\|SBI 地銀 HD]] | (非公開, SBI HD 8473 下) | 2020-12 設立 | [[regional-banks/sbi-shinsei-bank\|SBI 新生銀行]] (2023-09 完全子会社化) + 筑邦銀 / 清水銀 / 大東銀 / 福島銀 / [[regional-banks/shimane-bank\|島根銀]] / 仙台銀 / 筑波銀 / 東和銀 / きらやか銀 等パートナー地銀 10 行+ | 全国分散 + デジタル | "第4のメガバンク構想" alliance | Mid (商業銀行コア + 緩やか連合) |
 | [[regional-banks/kansai-mirai-bank\|関西みらい銀行]] (operating bank) | — | 2019-04 銀行合併 (旧 関西アーバン銀 + 近畿大阪銀) → 2021-04 [[regional-banks/minato-bank\|みなと銀]]と共に [[megabanks/resona-hd\|Resona HD]] 100%子会社化 | 旧 関西アーバン銀行 + 旧 近畿大阪銀行 (両者 2地銀 + 1地銀 mix) | 大阪 + 兵庫 (みなと銀並列) | Resona group Kansai operating bank (HD = [[megabanks/resona-hd\|Resona HD]]) | Large (Resona group 関西地盤) |
-| [[life-insurers/td-hd\|TD HD]] (注: 名称類似が紛らわしいが ここは [[regional-banks/dai-shi-hokuetsu-fg\|第四北越 FG]] と別物。本表での "TD HD" は user 仕様で [[regional-banks/dai-shi-hokuetsu-fg]] と同一扱いとする) | — | 同上 | 同上 | 同上 | 同上 | 同上 |
 
-> Note on TD HD vs T&D HD: T&D Holdings (8795) is a **life-insurance** holding company (太陽 + 大同 生保), not a regional-bank FG. Where this matrix mentions "TD HD" as a regional-bank reference, it points to [[regional-banks/dai-shi-hokuetsu-fg|第四北越 FG]] (Daishi-Hokuetsu) per user spec. See [[life-insurers/td-hd|T&D HD]] for the life-insurance entity boundary.
+Sources: ^[FSA bank-holding-company list, https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf; FSA bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; each holding company's official corporate history / IR. FFG chronology: https://www.fukuoka-fg.com/investorimage/ir_pdf/202507_zaimu/corporate.pdf.]
+
+SBI's capital / business alliances are not a formal operating-bank family tree and are therefore excluded from the table above; verify each equity relationship from current SBI and partner-bank disclosures. T&D Holdings is a life-insurance holding company and is not an alias for 第四北越 FG.
 
 ## Cross-axis: which FG combined which tier of predecessor banks
 
@@ -80,6 +81,8 @@ This family-tree feeds directly into the licence-tier matrix [[banking/japan-ban
 | Multi-bank + 第三勢力 (公的勢力 / 新銀行 / 統合特例) | [[regional-banks/kiraboshi-fg\|東京きらぼし FG]] (都民 + 八千代 + 新銀行東京), [[regional-banks/proclair-hd\|プロクレア HD]] (独禁特例法 初適用), [[regional-banks/jimoto-hd\|じもと HD]] (RCC 議決権 取得) | Each pattern reflects a specific public / regulatory inflection |
 | Group operating bank under non-regional HD | [[regional-banks/kansai-mirai-bank\|関西みらい銀行]] + [[regional-banks/minato-bank\|みなと銀行]] under [[megabanks/resona-hd\|Resona HD]]; [[megabanks/saitama-resona-bank\|埼玉りそな銀行]] | Operating banks inside a megabank-edge group ([[megabanks/resona-hd\|Resona]] sits between regional and megabank) |
 | Equity-alliance / consortium (no operating-FG umbrella) | [[megabanks/sbi-regional-bank-hd\|SBI 地銀 HD]]'s パートナー地銀 ring (筑邦 / 清水 / 大東 / 福島 / 島根 / 仙台 / 筑波 / 東和 / きらやか + [[regional-banks/sbi-shinsei-bank\|SBI 新生銀行]]) | The "第4のメガバンク構想" alliance model |
+
+Sources: ^[FSA bank-holding-company and bank lists; official holding-company histories and merger disclosures. Alliance membership must be checked against current announcements and is not equivalent to FG ownership.]
 
 ## How to read this matrix
 
@@ -112,15 +115,15 @@ This family-tree feeds directly into the licence-tier matrix [[banking/japan-ban
 
 For ordering purposes within this matrix (not a ranking, just a scale-class lens):
 
-| Scale class | FGs in this band | Approximate deposits class |
+| Comparison field | Required evidence | Publication rule |
 |---|---|---|
-| Top (¥20tn+ deposits) | [[regional-banks/concordia-fg\|横浜 FG]] (~¥19.7tn FY2024); [[regional-banks/fukuoka-fg\|FFG]] (~¥21.9tn FY2025) | ¥20tn class |
-| Large (¥10-20tn) | [[regional-banks/mebuki-fg\|めぶき FG]], [[regional-banks/shizuoka-fg\|しずおか FG]], [[regional-banks/iyogin-hd\|いよぎん HD]], [[regional-banks/hirogin-hd\|ひろぎん HD]], [[regional-banks/kyushu-fg\|九州 FG]], [[regional-banks/dai-shi-hokuetsu-fg\|第四北越 FG]], [[regional-banks/nishi-nippon-fhd\|西日本 FHD]] | ¥10-20tn class |
-| Mid (¥5-10tn) | [[regional-banks/hokuhoku-fg\|ほくほく FG]], [[regional-banks/yamaguchi-fg\|YMFG]], [[regional-banks/juroku-fg\|十六 FG]], [[regional-banks/hokkoku-fhd\|北國 FHD / CCI]], [[regional-banks/kiraboshi-fg\|きらぼし]] | ¥5-10tn class |
-| Mid-small (¥3-5tn) | [[regional-banks/san-jusan-fg\|三十三 FG]], [[regional-banks/aichi-fg\|あいち FG]], [[regional-banks/tomony-hd\|トモニ HD]], [[regional-banks/proclair-hd\|プロクレア HD]] | ¥3-5tn class |
-| Small (<¥3tn) | [[regional-banks/jimoto-hd\|じもと HD]], [[regional-banks/fidea-hd\|フィデア HD]] | <¥3tn class |
+| Deposits | Same fiscal date and same consolidated / bank-only perimeter | Do not mix holding-company consolidated totals with one operating bank |
+| Loans | Same fiscal date, unit, and perimeter | Preserve the issuer's definition |
+| Assets | Same accounting basis and reporting period | Do not convert into a durable rank without a complete census |
+| Capital ratio | Same international / domestic standard and consolidation basis | Label the regulatory basis |
+| Number of operating banks | Current group organisation chart and FSA register | Distinguish legal banks from brands and digital channels |
 
-> Note: All scale-class numbers are public-domain summary anchors and move over time with FY disclosure cycles; consult the individual FG IR for current figures.
+Sources: ^[Each FG's latest official financial disclosure and the current FSA bank register.]
 
 ## Predecessor-to-successor mapping (the family-tree pairs)
 
@@ -136,8 +139,8 @@ The single most useful inversion of the matrix is "given a predecessor bank, whi
 | [[regional-banks/kagoshima-bank\|鹿児島銀行]] (1地銀, 鹿児島) | 2015-10 | [[regional-banks/kyushu-fg\|九州 FG]] | [[regional-banks/kagoshima-bank\|鹿児島銀行]] |
 | [[regional-banks/fukuoka-bank\|福岡銀行]] (1地銀, 福岡) | 2007-04 | [[regional-banks/fukuoka-fg\|FFG]] (8354) | [[regional-banks/fukuoka-bank\|福岡銀行]] |
 | 熊本ファミリー銀行 → [[regional-banks/kumamoto-bank\|熊本銀行]] (2地銀, 熊本) | 2007-04 | [[regional-banks/fukuoka-fg\|FFG]] | [[regional-banks/kumamoto-bank\|熊本銀行]] |
-| 十八銀行 (1地銀, 長崎, 1877 創立) | 2007 (via 親和合流), 2020-10 合併 | [[regional-banks/fukuoka-fg\|FFG]] | [[regional-banks/18-shinwa-bank\|十八親和銀行]] |
-| 親和銀行 (1地銀, 長崎, 1939 設立) | 2007 (via 親和合流), 2020-10 合併 | [[regional-banks/fukuoka-fg\|FFG]] | [[regional-banks/18-shinwa-bank\|十八親和銀行]] |
+| 十八銀行 (1地銀, 長崎, 1877 創立) | 2019-04 FFG加入、2020-10 合併 | [[regional-banks/fukuoka-fg\|FFG]] | [[regional-banks/18-shinwa-bank\|十八親和銀行]] |
+| 親和銀行 (1地銀, 長崎, 1939 設立) | 2007-10 FFG加入、2020-10 合併 | [[regional-banks/fukuoka-fg\|FFG]] | [[regional-banks/18-shinwa-bank\|十八親和銀行]] |
 | [[regional-banks/hokuriku-bank\|北陸銀行]] (1地銀, 富山, 1877 第十二国立銀行) | 2003-09 / 2004-09 | [[regional-banks/hokuhoku-fg\|ほくほく FG]] (8377) | [[regional-banks/hokuriku-bank\|北陸銀行]] |
 | [[regional-banks/hokkaido-bank\|北海道銀行]] (1地銀, 札幌, 1951 設立) | 2004-09 | [[regional-banks/hokuhoku-fg\|ほくほく FG]] | [[regional-banks/hokkaido-bank\|北海道銀行]] |
 | [[regional-banks/yamaguchi-bank\|山口銀行]] (1地銀, 下関, 1944 設立) | 2006-10 (単独) | [[regional-banks/yamaguchi-fg\|YMFG]] (8418) | [[regional-banks/yamaguchi-bank\|山口銀行]] |
@@ -169,6 +172,8 @@ The single most useful inversion of the matrix is "given a predecessor bank, whi
 | [[regional-banks/nishi-nippon-city-bank\|西日本シティ銀行]] (1地銀, 福岡) | 2016-10 (単独) | [[regional-banks/nishi-nippon-fhd\|西日本 FHD]] (7189) | [[regional-banks/nishi-nippon-city-bank\|西日本シティ銀行]] |
 | [[regional-banks/nagasaki-bank\|長崎銀行]] (2地銀, 長崎) | 2006-04 子会社化, 2016-10 FG | [[regional-banks/nishi-nippon-fhd\|西日本 FHD]] | [[regional-banks/nagasaki-bank\|長崎銀行]] |
 
+Sources: ^[FSA bank-holding-company and bank lists; official FG merger histories. FFG chronology: https://www.fukuoka-fg.com/investorimage/ir_pdf/202507_zaimu/corporate.pdf.]
+
 ## Decision use — which FG-row to focus on for a given question
 
 | Question | Focus FGs |
@@ -187,18 +192,20 @@ The single most useful inversion of the matrix is "given a predecessor bank, whi
 | Megabank-edge group with regional-bank operating subs | [[megabanks/resona-hd\|Resona HD]] ([[regional-banks/kansai-mirai-bank\|関西みらい]] + [[regional-banks/minato-bank\|みなと]]) |
 | Pending future legal merger | [[regional-banks/fidea-hd\|フィデア HD]] (2027-01 荘内+北都 → フィデア銀行) |
 
+Sources: ^[Official FG histories, FSA approvals / registers, and dated merger announcements. Future mergers remain planned until completion is officially confirmed.]
+
 ## Alliance-and-system-sharing overlay (non-FG cooperation)
 
 In addition to the formal FG / holding-company route, several regional banks participate in non-holding cooperative alliances. These are not on the same axis as FG consolidation but are important to read together:
 
-| Alliance / system | Purpose | Member banks (partial) |
+| Alliance / system | Current evidence route | Publication rule |
 |---|---|---|
-| TSUBASA Alliance (TSUBASA アライアンス) | System / IT cost sharing, products, FX, treasury cooperation | 千葉銀, 中国銀, 第四北越銀, 伊予銀, 北越銀 (pre-2021), 武蔵野銀, 滋賀銀, 北洋銀, 七十七銀, 山陰合同銀 + more |
-| Chiba-Yokohama Partnership | 千葉銀 + [[regional-banks/yokohama-bank\|横浜銀]] business cooperation (2019-, 24-28 二期目 250 億円効果目標) | 千葉銀, [[regional-banks/yokohama-bank\|横浜銀行]] |
-| Hiroshima-Yamaguchi cooperation | [[regional-banks/hirogin-hd\|広島銀]] + [[regional-banks/yamaguchi-fg\|YMFG]] regional cooperation context | [[regional-banks/hirogin-hd\|広島銀]], [[regional-banks/yamaguchi-fg\|YMFG]] |
-| Yokohama-YMFG cooperation (2021-) | Cross-region (神奈川 + 山口 + 広島 + 北九州) | [[regional-banks/concordia-fg\|横浜 FG]], [[regional-banks/yamaguchi-fg\|YMFG]] |
-| Regional banks system-shared via 共同 IT vendors | Multiple regional banks share Hitachi / NTT Data / IBM 勘定系 platforms | Wide membership across FGs |
-| [[megabanks/sbi-regional-bank-hd\|SBI 地銀 HD]] equity alliance | "第4のメガバンク構想" non-FG capital + product cooperation | Partner banks list: 筑邦, 清水, 大東, 福島, [[regional-banks/shimane-bank\|島根]], 仙台 ([[regional-banks/jimoto-hd\|じもと]]), 筑波, 東和, きらやか ([[regional-banks/jimoto-hd\|じもと]]) + [[regional-banks/sbi-shinsei-bank\|SBI 新生銀行]] commercial core |
+| TSUBASA Alliance | Official alliance overview and current participant material | The official page states 10 participating banks; use its current list rather than retaining former-bank names |
+| Bilateral regional-bank partnership | Dated joint announcements by both banks | Record term, scope, and amendments; do not treat cooperation as common ownership |
+| Shared core / IT platform | Vendor plus participating-bank announcement | Distinguish core-system sharing from broader business alliance |
+| SBI-related capital / business alliance | Current SBI and partner-bank securities disclosures | Record each ownership stake separately; do not represent the network as one bank FG |
+
+Sources: ^[TSUBASA Alliance official overview, https://tsubasa-al.co.jp/company/; official joint, vendor, SBI, and partner-bank disclosures.]
 
 These alliances complicate the family-tree picture: a regional bank can be in one FG AND in one or more cross-FG alliances simultaneously. The TSUBASA Alliance in particular spans multiple FGs (千葉銀 stays independent, [[regional-banks/dai-shi-hokuetsu-fg|第四北越]] FG, 北洋 group, etc.) and is an important system-cost layer on top of the FG layer.
 
@@ -235,7 +242,7 @@ The combination of these drivers produced the wave of FGs documented in this mat
 - **T&D HD (8795) ≠ TD HD / Daishi-Hokuetsu.** [[life-insurers/td-hd|T&D Holdings]] is a life-insurance holding company (太陽 + 大同). Per the user spec, this matrix uses "TD HD" as a label pointing to [[regional-banks/dai-shi-hokuetsu-fg|第四北越 FG]] for the regional-bank context. Real-world references to "TD HD" are almost always the life-insurance entity unless explicitly stated otherwise.
 - **[[regional-banks/sapporo-hokuyo-bank|札幌北洋 (Sapporo Hokuyo)]] is now [[regional-banks/north-pacific-bank|北洋銀行]] under [[regional-banks/north-pacific-bank-hd|北洋 HD]] / [[megabanks/ndfg|札幌北洋 HD lineage]]**; the historic Sapporo + Hokkaido city-bank consolidation belongs to a slightly earlier wave than this matrix's main focus, but the entity sits in the same regional-bank universe.
 - **[[megabanks/resona-hd|Resona HD]] vs regional-bank FG.** [[megabanks/resona-hd|Resona]] is a megabank-edge / D-SIB-designated entity in the licence-tier matrix, but it operates [[regional-banks/kansai-mirai-bank|関西みらい銀行]] and [[regional-banks/minato-bank|みなと銀行]] as regional-bank operating subsidiaries. This means the same group spans both the megabank tier (parent [[megabanks/resona-hd|Resona]] / [[megabanks/resona-bank|Resona Bank]] / [[megabanks/saitama-resona-bank|Saitama Resona Bank]]) and the regional-bank tier (Kansai operating banks).
-- **[[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]] is not a bank holding company in the traditional FSA sense for all partners.** It is a strategic alliance and equity-investment platform anchored on [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] (legally a 普通銀行 wholly owned since 2023-09). Partner regional banks (筑邦 / 清水 / 大東 / 福島 / [[regional-banks/shimane-bank|島根]] / 仙台 / 筑波 / 東和 / きらやか) retain their independent FSA-licensed legal entities and are not consolidated into SBI 地銀 HD on a normal banking-holding-company basis. Per public disclosure (Wikipedia「SBI地銀ホールディングス」), SBI ownership stakes vary widely by partner — roughly 1% (東和銀) at the low end up to ~34% (福島銀) and top-shareholder positions (島根銀 ~21%, じもと HD ~12%), with several partners (清水銀 ~2.5%, 大東銀 ~2.8%, 東北銀 ~2.9%, 筑邦銀 ~2.9%) in the low-single-digit range.
+- **[[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]] is not a bank holding company in the traditional FSA sense for all alliance banks.** Partner regional banks retain their own FSA-licensed legal entities and should not be treated as subsidiaries merely because they participate in an alliance or have an equity relationship. Current stakes and consolidation status must be checked against each issuer's official shareholder and financial disclosures.
 - **Operating banks vs holdings: name reuse.** [[regional-banks/concordia-fg|横浜 FG]] is the holding company; [[regional-banks/yokohama-bank|横浜銀行]] is the operating bank under it. [[regional-banks/dai-shi-hokuetsu-fg|第四北越 FG]] is the holding company; [[regional-banks/daishi-hokuetsu-bank|第四北越銀行]] is the operating bank. References that say "横浜銀行" or "第四北越銀行" mean the operating bank, not the FG.
 - **One-prefecture-one-bank vs multi-bank umbrella.** A 単独株式移転 single-bank wrapper is not the same business model as a 共同株式移転 multi-bank umbrella. The single-bank wrapper preserves M&A optionality and capital-allocation flexibility but does not by itself reduce branch / system cost; the multi-bank umbrella delivers system / branch consolidation potential if the constituent banks legally merge later.
 - **Pending or planned merger steps.** Several FGs are mid-arc: [[regional-banks/fidea-hd|フィデア HD]] plans 荘内 + 北都 → フィデア銀行 in 2027-01; [[regional-banks/proclair-hd|プロクレア HD]] completed 青森 + みちのく → 青森みちのく銀行 in 2025-01. These planned events shift the operating-bank-pattern column over time.
@@ -289,4 +296,3 @@ The combination of these drivers produced the wave of FGs documented in this mat
 - Holding-company IR disclosures for each FG referenced in this matrix (decision short reports, kessanshorshin, integrated reports).
 - 独占禁止法特例法 (令和2年法律第32号) official documentation for the [[regional-banks/proclair-hd|プロクレア HD]] precedent.
 - Public reporting on [[regional-banks/jimoto-hd|じもと HD]] RCC supervision (2024-06 majority acquisition; 2024-09 公的資金 13-year deferral, FSA approval).
-- Wikipedia「SBI地銀ホールディングス」(https://ja.wikipedia.org/wiki/SBI地銀ホールディングス, 2026-05-29 参照) — SBI partner-bank equity stakes: 福島銀 ~34.2%, 島根銀 ~20.9%, じもと HD ~12.4%, 清水銀 ~2.5%, 大東銀 ~2.8%, 東北銀 ~2.9%, 筑邦銀 ~2.9%, 東和銀 ~1.0%.

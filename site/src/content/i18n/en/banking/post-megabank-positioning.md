@@ -1,11 +1,12 @@
 ---
 source: banking/post-megabank-positioning
-source_hash: 44716a0efe55f6c1
+source_hash: 794b98dc0eefcc71
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Post-megabank positioning"
-translated_at: 2026-05-31T03:19:56.402Z
+translated_at: 2026-07-29T03:30:48.117Z
 ---
 
 # Post-megabank positioning
@@ -25,6 +26,8 @@ The key JapanFG anchor is [[megabanks/resona-hd]]: a bank group too large and st
 | Strong regional group | Regional franchise with consolidation, holding-company, and local corporate relationship strategy. | [[regional-banks/chiba-bank]], [[regional-banks/fukuoka-fg]], [[regional-banks/concordia-fg]] |
 | Platform / net bank | Digital acquisition and ecosystem banking rather than branch-led universal banking. | [[banking/rakuten-bank]], [[banking/paypay-bank]], [[banking/au-jibun-bank]] |
 | Cooperative / mutual local finance | Member or cooperative logic rather than shareholder bank logic. | [[banking/cooperative-banking-japan]] |
+
+Sources: “post-megabank” is an analytical grouping rather than a statutory licence class. The FSA supervisory material and Japanese Bankers Association institution map provide the formal perimeter against which these research labels should be read. ^[Sources: https://www.zenginkyo.or.jp/en/banks/financial-institutions/; https://www.fsa.go.jp/common/law/guide/city/index.html.]
 
 ## Why The Category Matters
 

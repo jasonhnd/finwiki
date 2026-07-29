@@ -24,9 +24,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -50,7 +50,6 @@
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
       "https://www.hanashinkumi.com/info/disclosure.php",
-      "https://ja.wikipedia.org/wiki/ハナ信用組合",
       "中小企業等協同組合法"
     ]
   },
@@ -64,7 +63,7 @@
     "全信組連内の位置付け",
     "朝銀系信用組合の歴史的経緯 ^[extracted/inferred]",
     "主要業務 ^[extracted]",
-    "5. KPI",
+    "5. KPI update route",
     "6. 監督・規制"
   ],
   "body_links": {
@@ -91,15 +90,13 @@
       "https://finwiki.zksc.io/ja/cooperative-banks/zenshin-kumi/",
       "https://finwiki.zksc.io/ja/financial-regulators/dic/"
     ],
-    "external_links_count": 1,
-    "external_links": [
-      "https://www.hanashinkumi.com/info/disclosure.php"
-    ]
+    "external_links_count": 0,
+    "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4552,
-    "word_like_tokens": 637,
+    "nonspace_chars": 4430,
+    "word_like_tokens": 571,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

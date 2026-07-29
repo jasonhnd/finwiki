@@ -1,11 +1,12 @@
 ---
 source: banking/mercari-bank
-source_hash: 385edc86a2548249
+source_hash: 01b5eddc47a996e5
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "メルカリバンク (Mercari Bank)"
-translated_at: 2026-06-18T23:33:48.271Z
+translated_at: 2026-07-29T03:30:48.115Z
 ---
 
 # メルカリバンク (Mercari Bank)
@@ -16,41 +17,43 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-Mercari Bank is a BaaS service that makes a Minna Bank account usable inside the Mercari app. It launched on 2025-12-18 through a BaaS business partnership between Minna Bank and Merpay. The banking entity is [[banking/minna-bank-baas-model|みんなの銀行]], while Merpay handles the API-connection / electronic-payment-intermediary layer.
+メルカリバンクは、メルカリアプリ内でみんなの銀行口座を使えるようにした BaaS サービス。2025-12-18 に、みんなの銀行とメルペイの BaaS 業務提携により開始された。銀行主体は [[banking/minna-bank-baas-model|みんなの銀行]] であり、メルペイは API 連携・電子決済等代行業のレイヤーを担う。
 
 ## Product map
 
 | Component | Description |
 |---|---|
-| Service front | Balance / wallet flow within the Mercari app |
-| Bank account | Minna Bank ordinary deposit account, the partner branch "Mercari Branch" |
-| API connector | API connection between Merpay and Minna Bank |
-| Core use case | Move Mercari sales proceeds / Merpay balance to a bank account instantly and free of charge |
-| Cash-out | Withdrawal flow via Seven Bank ATMs and others, with preferential terms |
+| Service front | メルカリアプリの残高 / おさいふ導線 |
+| Bank account | みんなの銀行普通預金口座、パートナー支店「メルカリ支店」 |
+| API connector | メルペイとみんなの銀行の API 連携 |
+| Core use case | メルカリ売上金 / メルペイ残高を即時・手数料無料で銀行口座へ移す |
+| Cash-out | セブン銀行 ATM などの出金導線、優遇条件あり |
 
 ## Strategic read
 
-The essence of Mercari Bank is reducing the friction of converting flea-market sales proceeds into bank deposits. The conventional "withdraw your sales proceeds" UX tends to impose psychological burden through fees, waiting time, and the registration of an external bank account. By placing sales proceeds, Merpay balance, and a bank account in the same in-app flow, Mercari Bank connects selling, spending, and saving.
+メルカリバンクの本質は、フリマの売上金を銀行預金へ変換する摩擦を下げること。従来の「売上金を出金する」UX は、手数料・待ち時間・外部銀行口座登録が心理的な負荷になりやすい。メルカリバンクは、売上金、メルペイ残高、銀行口座を同じアプリ導線に置くことで、売る・使う・貯めるを接続する。
 
-This structure is a strong example even within [[banking/baas-japan-landscape|Japan BaaS landscape]]. Mercari has a high-frequency C2C marketplace and payment balances, while Minna Bank has a banking license and an API / partner branch. By combining the two, the bank can acquire a touchpoint with daily life that it would find hard to capture on its own.
+この構造は、[[banking/baas-japan-landscape|Japan BaaS landscape]] の中でも強い例。メルカリは高頻度な C2C marketplace と決済残高を持ち、みんなの銀行は銀行ライセンスと API / partner branch を持つ。両者を組み合わせることで、銀行が単独で取りにくい生活接点を獲得できる。
 
 ## What it is not
 
-- It is not a service in which Merpay obtained a banking license.
-- The Mercari Branch is a partner branch of Minna Bank, not a deposit-taking bank operated solely by Mercari.
-- Per the public FAQ, the Mercari Branch has restrictions on API connections other than Mercari Bank, so it is not necessarily the same UX as a general-purpose Minna Bank account.
+- メルペイが銀行免許を取得したサービスではない。
+- メルカリ支店は、みんなの銀行のパートナー支店であり、メルカリ単独の預金銀行ではない。
+- メルカリ支店は、公開 FAQ 上、メルカリバンク以外の API 連携に制限があるため、汎用みんなの銀行口座と同じ UX とは限らない。
 
 ## Competitive meaning
 
-Mercari Bank differs from full banking-group strategies such as [[banking/rakuten-bank|楽天銀行]] or [[banking/paypay-bank|PayPay 銀行]]. Rather than owning a bank in-house, Mercari has chosen the path of embedding financial functions inside the app using BaaS.
+メルカリバンクは [[banking/rakuten-bank|楽天銀行]] や [[banking/paypay-bank|PayPay 銀行]] のようなフル銀行グループ戦略とは違う。メルカリは銀行を自前で持つより、BaaS を使って金融機能をアプリ内に埋め込む道を選んでいる。
 
-For that reason, the axes of comparison are not "comprehensive strength as a bank" but the following 3  points.
+そのため比較軸は「銀行としての総合力」ではなく、次の 3 点になる。
 
 | Axis | Question |
 |---|---|
-| Conversion | How much of the sales proceeds / balance can be turned into deposits |
-| Stickiness | Whether the Mercari app's usage frequency can be converted into a financial flow |
-| License leverage | How far the boundary between its own license and the Minna Bank API can be expanded |
+| Conversion | 売上金・残高をどれだけ預金化できるか |
+| Stickiness | メルカリアプリの利用頻度を金融導線に転換できるか |
+| License leverage | 自社ライセンスとみんなの銀行 API の境界をどこまで広げられるか |
+
+Sources: these are prospective research questions, not disclosed performance. Service structure and launch facts come from the Minna Bank/Merpay release, branch materials, Mercari help, and Merpay's electronic-payment-agency notice. ^[Sources: https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf; https://static.jp.mercari.com/electronic_payment_agency_business.]
 
 ## Related
 
@@ -64,7 +67,7 @@ For that reason, the axes of comparison are not "comprehensive strength as a ban
 
 ## Sources
 
-- Minna Bank / Merpay, 2025-12-18: Mercari Bank service launch release.
-- Minna Bank: Mercari Branch official FAQ / branch page.
-- Mercari Help: Linking a Minna Bank account to Merpay.
-- Mercari: Disclosures regarding electronic payment intermediary business.
+- みんなの銀行 / メルペイ, 2025-12-18: メルカリバンク service launch release.
+- みんなの銀行: メルカリ支店 official FAQ / branch page.
+- メルカリ Help: みんなの銀行口座をメルペイに連携する.
+- メルカリ: 電子決済等代行業に関する表示等.

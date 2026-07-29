@@ -8,9 +8,9 @@ aliases:
   - "Daiwa Securities Group bank"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-06-03
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, securities-bank, daiwa-sg, MRF, sweep-deposit, securities-bank-hybrid]
 status: active
@@ -19,6 +19,8 @@ sources:
   - "https://www.bank-daiwa.co.jp/about/company/profile/"
   - "https://www.bank-daiwa.co.jp/info/"
   - "https://www.bank-daiwa.co.jp/about/disclosure/transition/"
+  - "https://www.bank-daiwa.co.jp/about/company/message/"
+  - "https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf"
   - "https://www.daiwa-grp.jp/"
   - "https://www.daiwa-grp.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -37,7 +39,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 Deposit / account as-of date: **2026-03-31**. The deposit base was about 5.06 trillion yen (5,063.7 billion yen across 2,288 thousand accounts, combined yen and foreign-currency deposits), built primarily from Daiwa Securities-account customers.
 
-ORIX Bank acquisition announcement / agreement date: **2026-04-27**. Daiwa Securities Group / Daiwa Next Bank announced an agreement to make [[trust-banks/orix-bank|Orix Bank]] a wholly-owned subsidiary, materially expanding the group's bank-side balance sheet, mortgage origination, and trust-bank options — the most consequential strategic move for Daiwa Next Bank since its 2011 founding. ^[extracted]
+ORIX Bank transaction announcement date: **2026-04-27**. Daiwa Securities Group and Daiwa Next Bank announced a transaction under which Daiwa Next Bank would acquire all outstanding shares of [[trust-banks/orix-bank|Orix Bank]]. The announcement describes the transaction rationale and conditions; it does not establish completion. This page therefore keeps announced structure, closing status, and any later consolidated financial effects separate. ^[Source: https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ## 1. Identity and group position
 
@@ -45,14 +47,17 @@ ORIX Bank acquisition announcement / agreement date: **2026-04-27**. Daiwa Secur
 |---|---|
 | Legal name | 株式会社大和ネクスト銀行 |
 | English name | Daiwa Next Bank, Ltd. |
-| Opening | 2011-05 |
+| Established | 2010-04-01 |
+| Opening | 2011-04-15 |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
 | Parent | [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]] (100%) |
-| Pending acquisition | [[trust-banks/orix-bank|Orix Bank]] — agreement announced 2026-04-27 to make Orix Bank a wholly-owned subsidiary of Daiwa Next Bank / Daiwa Securities Group ^[extracted] |
+| Announced transaction | [[trust-banks/orix-bank|Orix Bank]] — all-share acquisition by Daiwa Next Bank announced 2026-04-27; completion must be confirmed separately |
 | Brokerage sibling | [[securities-firms/daiwa-securities|大和証券]] — primary brokerage operating company in the group |
 | HQ | Tokyo |
 | Channel architecture | App + web + brokerage-counter cross-touch via Daiwa Securities branches |
 | Primary regulator | 金融庁 (FSA) |
+
+Sources: identity, establishment/opening dates, ownership, and license category are supported respectively by Daiwa Next Bank's company profile and the FSA licensed-bank workbook. The Orix Bank row records only the announced transaction and must not be read as a completed acquisition. ^[Sources: https://www.bank-daiwa.co.jp/about/company/profile/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ### Why a securities group built a bank
 
@@ -60,13 +65,13 @@ ORIX Bank acquisition announcement / agreement date: **2026-04-27**. Daiwa Secur
 2. **Cross-sell with brokerage products.** Customers who already trust Daiwa Securities for investment will move household deposit balances to a Daiwa-branded bank, enabling integrated asset-formation cross-sell.
 3. **Defence against ecosystem-bank disruption.** [[banking/rakuten-bank|Rakuten Bank]] linked to [[securities-firms/rakuten-securities|Rakuten Securities]] and [[regional-banks/ssnb|SSNB]] linked to [[securities-firms/sbi-securities|SBI Securities]] established the bank-broker integrated model as standard. Without its own bank, Daiwa would have been exposed to its customers' brokerage cash leaking to those ecosystems.
 
-### Group structure (post-Orix Bank acquisition completion)
+### Announced group structure if the Orix Bank transaction completes
 
 ```
 Daiwa Securities Group, Inc. (TSE Prime 8601)
   ├── 大和証券 (Daiwa Securities, brokerage operating company)
   ├── 大和ネクスト銀行 (this entry — net bank)
-  │     └── (planned) [[trust-banks/orix-bank|Orix Bank, Ltd.]] (wholly-owned subsidiary upon close of 2026-04-27 announced transaction) ^[extracted]
+  │     └── (announced; not recorded here as completed) [[trust-banks/orix-bank|Orix Bank, Ltd.]]
   ├── [[asset-managers/daiwa-asset-management|Daiwa Asset Management]]
   ├── [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]
   └── Other group subsidiaries (PB, IB, IT, etc.)
@@ -111,14 +116,11 @@ Unlike pure online net banks, Daiwa Next Bank can touch customers through three 
 
 ### What was announced
 
-On **2026-04-27**, Daiwa Securities Group / Daiwa Next Bank disclosed an agreement to make [[trust-banks/orix-bank|Orix Bank, Ltd.]] a wholly-owned subsidiary, with closing subject to regulatory approvals. ^[extracted]
+On **2026-04-27**, Daiwa Securities Group and Daiwa Next Bank disclosed the decision for Daiwa Next Bank to acquire all outstanding shares of [[trust-banks/orix-bank|Orix Bank, Ltd.]]. The release sets out conditions and a planned schedule; this page requires a later completion disclosure before moving the transaction into completed group structure. ^[Source: https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ### Why the deal matters
 
-1. **Add mortgage origination capacity** that Daiwa Next Bank had not built on its own.
-2. **Diversify the bank-side asset mix** beyond brokerage-linked deposits and securities investment, into real-estate-backed credit.
-3. **Provide trust-bank functionality** through Orix Bank's trust products that complements [[trust-banks/daiwa-living-trust|Daiwa Living Trust]].
-4. **Materially increase the deposit base** of the consolidated bank holdings.
+The transaction release identifies the parties' existing franchises and the intended combination. Until completion and post-close disclosure, however, mortgage origination, trust activity, deposits, earnings, and capital remain attributable to their respective legal entities. Any consolidated effect must be taken from a dated post-close financial disclosure rather than projected from the announcement.
 
 ### Operating-integration questions
 
@@ -132,22 +134,25 @@ The choice has not been publicly confirmed and is a key open question for the co
 
 Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required ディスクロージャー誌) and KPI updates appear in the Daiwa Securities Group quarterly IR cycle.
 
-| Metric | Pattern |
-|---|---|
-| Deposit balance | About 5.06 trillion yen (5,063.7 billion yen / 2,288 thousand accounts as of 2026-03-31, combined yen + foreign currency, pre-Orix Bank consolidation); significantly higher after the deal closes |
-| Foreign-currency deposit share | Higher than pure-yen net banks, reflecting brokerage-linked FX product complementarity |
-| Loan book | Historically modest; expanded materially upon Orix Bank consolidation |
-| ROE | Modest on standalone basis; capital efficiency benefits from securities-group cross-sell economies |
-| Capital | Well above 銀行法 minimums |
+| Metric | Dated public evidence | Publication boundary |
+|---|---|---|
+| Deposit balance / accounts | ¥5,063.7bn and 2,288 thousand accounts at 2026-03-31; the series combines yen and foreign-currency deposits and includes deposits from group companies | Preserve the source definition and date; do not add Orix Bank before a completion and consolidation disclosure |
+| Capital ratio | Approximately 21.9% at 2026-03-31 in the president's message | Cite the disclosed ratio and measurement date; a peer rank requires a same-date, same-definition dataset |
+| Foreign-currency deposits | Published within the bank's periodic disclosure and deposit-history materials | Do not infer a peer ranking without a reconciled comparison set |
+| Loans, ROE, and earnings | Published in Daiwa Next Bank disclosure materials and Daiwa Securities Group IR | Keep standalone and any future consolidated figures separate |
+
+Sources: the KPI table is a dated evidence map, not a forecast of transaction effects. ^[Sources: https://www.bank-daiwa.co.jp/about/disclosure/transition/; https://www.bank-daiwa.co.jp/about/company/message/; https://www.bank-daiwa.co.jp/about/disclosure/.]
 
 ### Securities-bank hybrid cohort
 
-| Group | Bank | Brokerage | Architecture |
+| Group | Bank | Brokerage | Public evidence to compare |
 |---|---|---|---|
-| **Daiwa Securities Group** | **Daiwa Next Bank** | Daiwa Securities | Brokerage-anchored bank; expanding via Orix Bank consolidation |
-| Sumitomo Mitsui Trust + SBI (former 住信SBI) | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | Pure online + BaaS partner architecture |
-| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | Telecom-anchored ecosystem bank-broker linkage |
-| Rakuten | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | Commerce-anchored ecosystem bank-broker linkage |
+| **Daiwa Securities Group** | **Daiwa Next Bank** | Daiwa Securities | Group ownership, bank-agent relationship, account-link product terms, and dated segment disclosure |
+| Sumitomo Mitsui Trust / SBI-related route | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | Current ownership, partner contracts, account-link terms, and separate legal-entity disclosure |
+| KDDI / MUFG-related route | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | Current ownership, account-link terms, and dated disclosure |
+| Rakuten group route | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | Current ownership, account-link terms, and dated disclosure |
+
+Sources: this cohort is a research route, not a ranking. Ownership and product relationships must be rechecked in each entity's current official disclosure before publication. ^[Sources: https://www.bank-daiwa.co.jp/about/company/profile/; https://www.daiwa-grp.jp/ir/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
 ### Where Daiwa Next does not compete
 
@@ -164,7 +169,9 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 | Holding-group consolidation | 金融商品取引法 + 銀行法 持株会社 rules | Consolidated supervision through Daiwa Securities Group |
 | Foreign-currency deposit | FSA + BoJ statistics + AML | Cross-border AML applied |
 | Deposit insurance | 預金保険機構 | JPY deposit coverage applies |
-| Pending Orix Bank acquisition | 銀行法第52条+ 独占禁止法 review | Subject to FSA approval and antitrust clearance |
+| Announced Orix Bank transaction | Transaction disclosure and applicable regulatory approvals | Status and legal-entity perimeter must be updated only from a later official completion notice |
+
+Sources: the regulatory table is a navigation summary rather than legal advice. License classification comes from the FSA workbook; transaction-specific conditions and status come from the parties' releases. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ## Related
 
@@ -194,6 +201,7 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 - Daiwa Next Bank company profile (https://www.bank-daiwa.co.jp/about/company/profile/).
 - Daiwa Next Bank disclosure / press page (https://www.bank-daiwa.co.jp/info/).
 - Daiwa Next Bank account-count and deposit-balance history (口座数・預金残高の推移): 5,063.7 billion yen deposits / 2,288 thousand accounts as of 2026-03-31, combined yen + foreign currency incl. group-company deposits (https://www.bank-daiwa.co.jp/about/disclosure/transition/).
+- Daiwa Next Bank president's message — 2026-03-31 deposits, accounts, and capital-ratio snapshot (https://www.bank-daiwa.co.jp/about/company/message/).
 - Daiwa Securities Group corporate / IR site (https://www.daiwa-grp.jp/, https://www.daiwa-grp.jp/ir/).
-- Daiwa Securities Group / Daiwa Next Bank announcement on Orix Bank acquisition (2026-04-27).
+- Daiwa Securities Group / Daiwa Next Bank announcement on the planned Orix Bank acquisition (2026-04-27, https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf).
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).

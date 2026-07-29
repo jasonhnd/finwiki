@@ -1,13 +1,13 @@
 ---
 source: cooperative-banks/ja-zen-noh
-source_hash: 9a79c025edb0ac2f
+source_hash: 39fad6fac4e21070
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JA Zen-Noh (National Federation of Agricultural Cooperative Associations / 全国農業協同組合連合会)"
-translated_at: 2026-06-18T23:33:48.321Z
+translated_at: 2026-07-29T03:30:48.127Z
 ---
-
 # JA Zen-Noh (National Federation of Agricultural Cooperative Associations / 全国農業協同組合連合会)
 
 ## Wiki route
@@ -16,7 +16,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 ## TL;DR
 
-**The core of the economic business of the JA Group's 4  national federations = a nationwide federation of purchasing + marketing businesses**. Established in 1972  (merger of Zenhanren + Zenkoren), it is a **federation** grounded in the Agricultural Cooperatives Act. Its business comprises **(1) Purchasing = procurement and supply of feed, fertilizer, agricultural chemicals, agricultural machinery, fuel, and daily goods**, **(2) Marketing = collection and distribution of rice, wheat, horticultural, and livestock products**, and **(3) processing, logistics, and directly operated stores (A-Coop, etc.)**. With **annual transaction volume on the scale of several trillion yen**, it is one of Japan's largest agricultural-products distribution organizations. [[cooperative-banks/norinchukin|農林中金]] handles finance, while JA Zen-Noh handles **the flow of "goods"** in a complementary relationship. The flow of nationwide JA → JA Zen-Noh → markets / major distribution → consumers, and the **reverse purchasing flow (manufacturers → JA Zen-Noh → nationwide JA → farmers)**, are the two major business lines. **It is itself a non-financial business entity that does not handle deposits or insurance**, but it shares the same customer base of the 497  JA cooperatives nationwide as JA Bank. ^[extracted]
+**JA Group's economic-business core = a nationwide purchasing and marketing federation**. Established in 1972 through the merger of Zenhanren and Zenkoren, it is a federation governed by the Agricultural Cooperatives Act. Its businesses include **(1) purchasing = procurement and supply of feed, fertilizer, pesticides, agricultural machinery, fuel, and daily necessities**, **(2) marketing = collection and distribution of rice, wheat, horticultural products, and livestock products**, and **(3) processing and logistics**. [[cooperative-banks/norinchukin|Norinchukin Bank]] handles finance, while JA Zen-Noh mainly handles the flow of goods. JA Zen-Noh is a non-financial organization and does not accept deposits or underwrite insurance.
 
 ## 1. Organizational structure
 
@@ -26,10 +26,14 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | Common name | JA 全農 / 全農 (JA Zen-Noh / Zen-Noh) |
 | English name | National Federation of Agricultural Cooperative Associations (ZEN-NOH) |
 | Legal form | **A federation based on the Agricultural Cooperatives Act** (business federation) |
-| Established | **1972-03  (formed by integrating Zenhanren + Zenkoren)** ^[extracted] |
+| Establishment | **1972-03-30** |
 | Headquarters | JA Building, 1-3-1  Otemachi, Chiyoda-ku, Tokyo |
-| Members | The 497  JA nationwide + prefectural agricultural-cooperative federations + affiliated corporations |
-| Transaction volume | 5 兆 1,286 億円 (FY 2024 年 / Term 54 , purchasing + marketing combined) |
+| Members | 812 (including 151 associate members, as of 2025-03-31) |
+| Capital contributions | 1,152 億 2,200 万円 (as of 2025-03-31) |
+| Employees | 7,685 (as of 2025-03-31) |
+| Transaction volume | 5 兆 1,286 億円 (FY2024 / 54th fiscal period, purchasing and marketing combined) |
+
+Sources: [JA Zen-Noh “Organization Overview”](https://www.zennoh.or.jp/about/structure/) (establishment, membership, capital contributions, headcount, and address) and [FY2024 financial information](https://www.zennoh.or.jp/about/financial/statement/r6-7.html) (transaction volume).
 
 ### Integration history ^[extracted]
 
@@ -112,13 +116,12 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 - **JA Zen-Noh official site**: https://www.zennoh.or.jp/
 - **JA Zen-Noh company profile**: https://www.zennoh.or.jp/about/
-- **JA Zen-Noh financial information / transaction volume / financial statements (FY 2024 年 / Term 54 )**: https://www.zennoh.or.jp/about/financial/statement/r6-7.html (transaction volume 5 兆 1,286 億円)
-- **JAcom Agricultural Cooperative Newspaper "Transaction volume to the 5 兆円 range for the first time in 11  years" (2025-07-22, Zen-Noh FY 24  results)**: https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php
+- **JA Zen-Noh financial information / transaction volume / financial statements (FY2024 / 54th fiscal period)**: https://www.zennoh.or.jp/about/financial/statement/r6-7.html (transaction volume 5 兆 1,286 億円)
 - **JA Group Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - Agricultural Cooperatives Act (昭和 22 年 Act No. 第 132 号)
 - Regulatory Reform Council 2014-2015  agricultural-cooperative reform minutes
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. Based on public information (JA Zen-Noh official + JA Group Factbook + agricultural-cooperative reform minutes). Transaction volume is the figure published for FY 2024 年 (Term 54 ), 5 兆 1,286 億円 (reaching the 5 兆円 range for the first time in 11  years, +4% YoY). Because it fluctuates year to year, the latest should be confirmed in the business report. The performance of the overseas subsidiary CGB should be confirmed in US subsidiary disclosures.
+> [!info] Calibration status
+> confidence: **likely**. Based on public information from JA Zen-Noh, the JA Group Factbook, and agricultural-cooperative reform minutes. The transaction volume is the published FY2024 (54th fiscal period) figure of 5 兆 1,286 億円 (the first return to the 5 兆円 range in 11 years, +4% year over year). Because this figure changes annually, consult the latest business report. Confirm the performance of the overseas subsidiary CGB in its US disclosures.

@@ -24,9 +24,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -42,12 +42,11 @@
     "note": null,
     "sources": [
       "https://www.osaka-shoko.co.jp/",
-      "https://ja.wikipedia.org/wiki/大阪商工信用金庫",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.shinkin-central-bank.jp/"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block (大阪商工信用金庫 は商工業者特化の中堅信金で、府内最大手の 大阪信用金庫 とは規模・地盤が異なる) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 大阪信用金庫 for peer / contrast context inside the Osaka shinkin block and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
   "headings": [
     "大阪商工信用金庫",
     "Wiki route",
@@ -84,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2619,
-    "word_like_tokens": 354,
+    "nonspace_chars": 2438,
+    "word_like_tokens": 335,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

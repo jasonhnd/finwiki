@@ -7,9 +7,9 @@ aliases:
   - "みんなの銀行 メルカリ支店"
 domain: "banking"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, baas, mercari, merpay, minna-bank]
 status: active
@@ -63,6 +63,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 | Conversion | 売上金・残高をどれだけ預金化できるか |
 | Stickiness | メルカリアプリの利用頻度を金融導線に転換できるか |
 | License leverage | 自社ライセンスとみんなの銀行 API の境界をどこまで広げられるか |
+
+Sources: these are prospective research questions, not disclosed performance. Service structure and launch facts come from the Minna Bank/Merpay release, branch materials, Mercari help, and Merpay's electronic-payment-agency notice. ^[Sources: https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf; https://static.jp.mercari.com/electronic_payment_agency_business.]
 
 ## Related
 

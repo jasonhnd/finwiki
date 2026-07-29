@@ -1,17 +1,19 @@
 ---
 source: cooperative-banks/osaka-shoko-shinkin
-source_hash: f365db325226c062
+source_hash: dbb2a617640d75a6
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Osaka Shoko Shinkin Bank"
-translated_at: 2026-06-14T23:01:38.058Z
+translated_at: 2026-07-29T03:30:48.131Z
 ---
+
 # Osaka Shoko Shinkin Bank
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for peer / contrast context inside the Osaka shinkin block (Osaka Shoko Shinkin Bank is a mid-sized shinkin specializing in commercial and industrial operators, differing in scale and home turf from Osaka Shinkin Bank, the prefecture's largest) and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for peer / contrast context inside the Osaka shinkin block and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 
@@ -29,15 +31,17 @@ Osaka Shoko Shinkin Bank (Osaka Shoko Shinkin) is a mid-sized shinkin bank headq
 | Wiki role | Osaka/Kansai commercial-and-industrial-focused shinkin operating-company anchor page |
 | Supervisory bureau | Kinki Local Finance Bureau |
 
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and for information on establishment, business area, and stores, check the official website of Osaka Shoko Shinkin Bank. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.osaka-shoko.co.jp/.]
+
 ## 2. Operating model
 
-Osaka Shoko Shinkin Bank's core businesses are SME lending, working capital, and equipment finance, housing loans, and individual deposits for commercial and industrial operators and SMEs (wholesale, retail, manufacturing, services, and sole proprietors) in central Osaka (the wholesale districts and commercial clusters around Chuo-ku and Honmachi) and surrounding municipalities. Within the Osaka shinkin layer, while [[cooperative-banks/osaka-shinkin|大阪信用金庫]], the prefecture's largest, operates on a wide-area, large-scale basis, Osaka Shoko Shinkin Bank divides the geography and customer base as a mid-sized shinkin specializing in central-city commercial and industrial operators. Closely embedded in the commercial heart of Honmachi, it plays a complementary role in relationship-based regional finance in areas where megabanks (such as the [[megabanks/smfg|三井住友 FG]] group) have scaled back their branches.
+Osaka Shoko Shinkin Bank's core business is lending to commercial and small businesses (wholesale, retail, manufacturing, service industry, and sole proprietorships) in central Osaka and surrounding cities, as well as housing loans and personal deposits.[[cooperative-banks/osaka-shinkin|Osaka Shinkin Bank]] It is a separate corporation and is responsible for regional finance based on official business areas and customer relationships.
 
 ## 3. Why this page matters
 
 - The operating-company entry for the cooperative-organization-side player in central-Osaka commercial and industrial finance.
-- An anchor for the division of home turf and customer base with [[cooperative-banks/osaka-shinkin|大阪信用金庫]] (the prefecture's largest) — wide-area major player vs. mid-sized central-city commercial-and-industrial specialist.
-- A case of the shinkin model complementing regional finance in areas where megabanks have scaled back their branches.
+- [[cooperative-banks/osaka-shinkin|Osaka Shinkin Bank]] Anchor for distinguishing between corporations and business districts.
+- A case of a credit union that supports commercial and industrial businesses in central Osaka.
 
 ## Related
 
@@ -54,5 +58,4 @@ Osaka Shoko Shinkin Bank's core businesses are SME lending, working capital, and
 
 - FSA: shinkin license list (latest snapshot per FSA registry): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - Osaka Shoko Shinkin Bank official site: https://www.osaka-shoko.co.jp/
-- Osaka Shoko Shinkin Bank (Japanese Wikipedia): https://ja.wikipedia.org/wiki/大阪商工信用金庫
 - Shinkin Central Bank cooperative system context: https://www.shinkin-central-bank.jp/

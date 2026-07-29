@@ -1,11 +1,12 @@
 ---
 source: banking/trust-bank-fee-structure-comparison
-source_hash: afb3190ea2408f2a
+source_hash: d1c3d9e988fcac43
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "信託銀行手数料体系比較"
-translated_at: 2026-06-18T23:33:48.339Z
+translated_at: 2026-07-29T03:30:48.121Z
 ---
 
 # 信託銀行手数料体系比較
@@ -16,7 +17,7 @@ translated_at: 2026-06-18T23:33:48.339Z
 
 ## TL;DR
 
-日本における信託銀行の手数料エコノミクスは、三つのドライバーによって支配される。すなわち、証券カストディおよび投信受託における AUC-bps プライシング、長期マンデートにおける年金信託管理手数料、そしてフルサービス信託銀行側における不動産信託手数料である。詳細な手数料スケジュールはおおむね非公開であり — 株主連結開示と個別の投信目論見書（信託約款）からの集計レベルの推論のみが可能である。6 の日本の信託銀行（MTBJ、CBJ、MUFG 信託、SMTB、みずほ信託、SMBC 信託）と 4 のグローバルカストディアン（BNY Mellon、State Street、Citi、JPM）にわたって、構造的なプライシングモデルは類似している — AUC bps + 取引ごとの手数料 + レベニューシェア型の貸株 — が、その構成比とプライシングパワーは顧客セグメントによって大きく異なる。国内のカストディ専業（MTBJ、CBJ）はボリューム上で低い bps をアンカーする; フルサービス信託銀行は高マージンの不動産／年金／相続手数料をカストディとバンドルする; グローバルカストディアンはクロスボーダー + ICSD 接続性に対して相対的なプレミアムを課す。マンデートレベルのプライシングは公開非開示である; したがって本エントリの手数料規模の詳細はエンティティ固有の事実ではなく業界レベルの推論であり、`.opinions/banking/trust-bank-fee-structure-comparison.md` に隔離されている。
+公開情報開示は、事業範囲と開示の可用性の比較をサポートしますが、信頼できる企業ごとの手数料や「価格設定力」ランキングをサポートするものではありません。委任レベルの監護権と年金の条件は通常、契約によるものです。投資信託報酬はファンドごとに目論見書や信託証書で確認可能です。リストに記載されている親会社はより広範なセグメントを報告しています。したがって、この公開ページには、観察可能な開示境界のみが記録されます。分析的な推定値は公開コーパスの外に残っています。
 
 ## 1. 機関位置
 
@@ -27,11 +28,13 @@ translated_at: 2026-06-18T23:33:48.339Z
 | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] | JP full-service trust bank | Trust assets in 100s of trillions; AUC + real-estate + pension | Subsidiary of [[megabanks/mufg|MUFG]] (listed) | Aggregated segment disclosure |
 | [[trust-banks/sumitomo-mitsui-trust|SMTB]] | JP full-service trust bank | Trust assets in 100s of trillions | Subsidiary of [[trust-banks/sumitomo-mitsui-trust|SMT Holdings]] (listed) | Aggregated segment disclosure |
 | [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | JP full-service trust bank | Trust assets in 10s-100s of trillions | Subsidiary of [[megabanks/mizuho-fg|Mizuho FG]] (listed) | Aggregated segment disclosure |
-| [[trust-banks/smbc-trust-bank|SMBC Trust]] | JP retail-PB-oriented trust bank | <¥10兆円 (PB / 富裕層 focus) | Subsidiary of [[megabanks/smbc-group|SMBC Group]] (listed) | Aggregated under retail / PB segment |
+| [[trust-banks/smbc-trust-bank|SMBC Trust]] | 日本のリテール / PB 中心の信託銀行 | 10 兆円未満（PB / 富裕層中心） | [[megabanks/smbc-group|SMBC Group]]（上場）の子会社 | リテール / PB セグメントで集約開示 |
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$50tn AuC/A | Subsidiary of BNY Mellon (NYSE) | Parent-level aggregate only |
 | [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$46.6tn AuC/A (2024-12) | Subsidiary of State Street (NYSE) | Parent-level aggregate only |
 | [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$35tn+ AuC (end-2024) | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
 | [[foreign-financial-institutions/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$26.3tn AuC/A (2024-09) | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
+
+出典: ^[MTBJ FY2024 results, https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf; CBJ 2025 disclosure, https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; State Street FY2024 results, https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx; Citigroup Q3 2024 results, https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32024/2024pr-qtr3rslt.pdf.]
 
 ### カストディ手数料のメカニクス
 
@@ -59,53 +62,30 @@ translated_at: 2026-06-18T23:33:48.339Z
 
 このラインは MTBJ と CBJ には存在しない — カストディ専業は不動産信託を運営しない。
 
-### 銀行横断の手数料エコノミーマトリックス（10 エンティティ）
+### エンティティ間の公開比較境界
 
-| Fee dimension | MTBJ | CBJ | MUFG Trust | SMTB | Mizuho Trust | SMBC Trust | BNY JP | SS JP | JPM JP | Citi JP |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Securities カストディ fee | Very low (utility scale) | Very low (utility scale) | Medium (full-service bundled) | Medium (full-service bundled) | Medium (full-service bundled) | High (PB-bundled, low volume) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) |
-| 投信受託 admin fee | Low (utility scale) | Low (utility scale) | Low-medium | Low-medium | Low-medium | Limited line | Limited (JP-投信 not core) | Limited (JP-投信 not core) | Limited | Limited |
-| Pension trust admin fee | Low at GPIF scale; medium at corp DB | Low at GPIF scale; medium at corp DB | Medium (bundled with front-office) | Medium (bundled with front-office) | Medium (bundled with front-office) | Limited | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Limited |
-| Real-estate trust fee | None | None | High (large real-estate trust book) | High (large real-estate trust book) | Medium-high | Limited (PB context only) | None (no JP real-estate trust) | None | None | None |
-| Securities-lending agent fee | Revenue-share with beneficial owner | Revenue-share with beneficial owner | Revenue-share | Revenue-share | Revenue-share | Limited | Revenue-share (large agent-lender side) | Revenue-share (large agent-lender) | Revenue-share | Revenue-share |
-| Cash-management spread | Small | Small | Larger (full balance-sheet) | Larger (full balance-sheet) | Larger | PB context | Large in $ context | Large in $ context | Large in $ context | Large in $ context |
-| Inheritance / 遺言 fees | None | None | Yes (high-margin) | Yes (high-margin) | Yes | Yes (PB) | None | None | None | None |
-| PB / wealth advisory fees | None | None | Yes | Yes | Yes | Core (high-margin) | UHNW only | UHNW only | UHNW only | UHNW only |
+| 比較フィールド | 国内保管のみの専門家 | フルサービスを提供する日本の信託銀行 | グローバルカストディアンの日本事業 |
+|---|---|---|---|
+| 法人と事業範囲 | 公式会社概要とFSAリスト | 公式会社概要とFSAリスト | FSA リストと現地の公式プロフィール |
+| 保管・管理資産 | 公表された場合の実体開示 | 信託口座またはセグメントの開示。定義はさまざまです | 通常は親レベルです。日本限定の金額は欠品していることが多い |
+| 委任料 | 通常、法人料金表としては公開されていません | 通常、法人料金表としては公開されていません | 通常、日本ユニットについては公開されません |
+| 投資信託報酬 | 各ファンドの法定文書で確認可能 | 各ファンドの法定文書で確認可能 | 指定された受託者とファンドに応じて異なります |
+| セグメント収益 | 非公開企業の開示は制限される場合がある | カストディのみの手数料ラインではなく、上場親セグメントの開示 | 日本のみではない親会社の証券サービスのレポート |
+| 有効な結論 | 範囲と開示の有無 | 範囲と開示の有無 | 範囲と開示の有無 |
 
-### プライシングパワー要約
-
-| Service | Strongest pricing power | Reason |
-|---|---|---|
-| GPIF-scale domestic カストディ | MTBJ / CBJ | Utility scale + GPIF tender competition between the two |
-| Mass-investor 投信受託会社 | MTBJ / CBJ | Volume utility, tight bps, but volume drives revenue |
-| Corp-DB pension trust admin | MTBJ / CBJ / megabank trust arms | Mixed — utility specialists win on bps, full-service wins on bundling |
-| Real-estate trust setup | MUFG Trust / SMTB / Mizuho Trust | Specialized + relationship-driven; no competition from カストディ専業 specialists |
-| Inheritance / 相続 / 遺言 | MUFG Trust / SMTB / Mizuho Trust / SMBC Trust | High-margin wealth-management line; absent at カストディ専業 specialists and at global custodians |
-| Cross-border / foreign-asset カストディ | BNY / State Street / JPM / Citi | Cross-border ICSD + sub-カストディ network premium |
-| Securities lending (large institutional) | BNY / State Street / JPM (and MTBJ / CBJ on JP equity domestic flows) | Mixed; agent-lender scale wins |
-| US-listed JP-securities (ADR) | BNY / Citi / JPM | ADR depository fees |
-
-### 含意される手数料収益（非常に大まかな業界推論）
-
-エンティティごとの詳細な個別項目手数料収益は公開非開示である。オーダーオブマグニチュード（桁数）の推論（業界レベルのみ、エンティティ固有の保証ではない）は以下のとおりである。
-
-| Implied revenue per ¥100兆円 AUC at カストディ専業 specialist | Industry-rough inference (not entity-specific) |
-|---|---|
-| If average カストディ bps = 0.5 bp/year | ¥50億円 / year revenue |
-| If average カストディ bps = 1 bp/year | ¥100億円 / year revenue |
-| If average カストディ bps = 2 bps/year | ¥200億円 / year revenue |
-
-これらの仮想的な bps を MTBJ / CBJ の AUC に適用することで含意されるエンティティごとのグロスカストディ収益は、業界レベルの推論にすぎず、開示された手数料ラインに帰属するものではない; その推論は `.opinions/banking/trust-bank-fee-structure-comparison.md` に隔離されている。
+出典: ^[Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/trust/trustbanks/; MTBJ and CBJ official disclosures; MUFG, SMT Holdings, Mizuho FG, BNY, State Street, JPMorgan, and Citigroup investor-relations pages listed in the frontmatter.]
 
 ### 手数料トレンド
 
-| Trend | Effect on trust-bank P&L |
+| 監視するための観察 | 必要な公的証拠 |
 |---|---|
-| Passive-fund AUM growth | Volume up, per-bp down → modest net revenue growth, margin compression |
-| Foreign-investor JP allocation growth | Foreign sub-カストディ revenue at MTBJ / CBJ tied to global-custodian fee schedules |
-| NISA expansion (2024 onward) | Volume growth in 投信受託会社 fees |
-| DC pension reform (2025 onward) | DC member-balance reporting volume growth |
-| Real-estate market cyclicality | Volatile for full-service trust banks; absent for カストディ専業 |
+| 保管・管理資産 | 比較可能な期間にわたって一貫して定義された事業体または親会社の開示 |
+| 投資信託受託者報酬 | 各サンプルファンドのファンド目論見書/信託証書 |
+| 証券サービス収益 | 上場親セグメントの結果と記載された周囲長 |
+| 年金や不動産の信託活動 | 事業分野を特定する信託銀行または親会社の開示 |
+| インフラコスト | 現在の JASDEC / JSCC / BoJ の料金表または参加書類 |
+
+出典: ^[Official investor-relations, statutory fund, and market-infrastructure publications listed in this entry.]
 
 ### なぜ銀行ごとの詳細な手数料テーブルを外部に公表することが不可能なのか
 
@@ -118,7 +98,11 @@ translated_at: 2026-06-18T23:33:48.339Z
 | グローバルカストディアンの日本ユニットは日本固有のラインを開示しない | 親会社レベルの集計のみ |
 | 不動産信託手数料はディールごとに異なる | bp あたりの標準にベンチマークできない |
 
+出典: ^[Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/; official entity and parent disclosures listed in the frontmatter.]
+
 ### 公開で観察可能なファンドごとの投信受託会社報酬構造化された公開データ研究にとって、主要なファンドファミリーにわたる投信受託会社報酬は最も観察可能なラインである。
+
+構造化された公的データ調査の場合、主要なファンドファミリー全体の投信受託会社報酬が最も観察しやすい線です。
 
 | Asset manager family | 受託会社 (most common) | Typical 受託会社報酬 (annualized) |
 |---|---|---|
@@ -135,6 +119,8 @@ translated_at: 2026-06-18T23:33:48.339Z
 | Stewardship Code | 任意; 可能な場合の透明な手数料開示を奨励 |
 | FSA supervisory guidance | 一般的な合理性レビュー; 料率上限レジームなし |
 
+出典: ^[FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/.]
+
 ### 会計上の視点
 
 | Item | Entity that recognizes |
@@ -145,15 +131,19 @@ translated_at: 2026-06-18T23:33:48.339Z
 | オンバランスの決済口座残余 | 信託銀行のバランスシート（小規模） |
 | 貸株のレベニューシェア | 信託銀行収益 + 受益者収益（契約ごとに分割） |
 
+出典: ^[Official trust-bank and listed-parent accounting disclosures listed in the frontmatter.]
+
 ### 比較可能性の問題
 
 | Problem | Effect |
 |---|---|
-| AUC 対 AuA の定義のばらつき | 「assets under カストディ」対「assets under administration」がエンティティ間で異なる方法で測定される; エンティティ間の AUC 数値は厳密には比較不可能 |
+| AUC と AuA の定義差 | 「カストディ資産」と「管理資産」は法人ごとに測定方法が異なり、法人間の AUC 数値は厳密には比較できない |
 | アセットクラス横断のミックス効果 | あるエンティティのミックスウェイト（国内エクイティ／JGB／外国／投信）は別のエンティティのものと大きく異なる |
 | 国内のみ 対グローバルの集計 | グローバルカストディアンは親会社レベルの数値を報告する; 日本固有のラインは不透明 |
 | ファンドごとの投信受託会社手数料対 銀行ごとの集計 | ファンドごとの開示は手作業で集計可能だが公式には集計されていない |
 | 不動産手数料収益のばらつき | フルサービス信託銀行はディール主導でばらつきのある不動産手数料を持つ |
+
+出典: ^[Official entity and parent disclosures listed in the frontmatter; figures are comparable only when the issuer's definitions and reporting perimeter match.]
 
 ### インフラ参加によるコスト側の手数料
 
@@ -198,7 +188,7 @@ translated_at: 2026-06-18T23:33:48.339Z
 
 - Trust Companies Association of Japan: trust-bank explanation, trust-assets statistics.
 - Master Trust Bank of Japan: official site and business overview; FY2024 results (AUC ~¥770tn, 2025-03末): https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf
-- Custody Bank of Japan: official site and business overview; 2025 disclosure (預り資産 ~¥696tn, 2025-03末): https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
+- 日本カストディ銀行：公式サイト、事業概要、2025 年開示（預り資産 約 ¥696tn、2025-03 末）：https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
 - MUFG, SMT Holdings, Mizuho FG, SMBC Group: investor relations financial disclosure.
 - BNY Mellon, State Street, JPMorgan Chase, Citigroup: investor relations financial reports.
 - State Street FY2024 results (AuC/A $46.6tn, 2024-12): https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx

@@ -1,11 +1,12 @@
 ---
 source: banking/sony-bank
-source_hash: e16316d2bc475def
+source_hash: 62fae917b1377e85
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Sony Bank operating profile (ソニー銀行)"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T03:30:48.120Z
 ---
 
 # Sony Bank operating profile (ソニー銀行)
@@ -29,6 +30,8 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | Flagship product brand | **Sony Bank WALLET** (multi-currency debit / cash card) |
 | Primary regulator | 金融庁 (FSA) |
 
+Sources: the identity, ownership route, and license category are supported by Sony Bank's company profile, Sony's official partial-spin-off record, and the FSA workbook. The spin-off changed Sony Group's ownership of Sony Financial Group; it did not make Sony Bank itself a listed entity. ^[Sources: https://moneykit.net/visitor/co/; https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
+
 ### Where Sony Bank sits inside the parent
 
 ```
@@ -46,15 +49,15 @@ Sony FG was previously listed; in 2020 Sony Group launched a TOB and made it a w
 
 Sony Bank's foreign-currency deposit product is its most distinctive feature relative to the broader [[banking/japan-net-bank-competition-map|net bank universe]]:
 
-| Feature | Sony Bank approach |
+| Feature | Dated official disclosure |
 |---|---|
 | Currency menu | 12 foreign currencies (USD, EUR, GBP, AUD, NZD, CAD, CHF, HKD, BRL, CNH, ZAR, SEK) per official MoneyKit FX page |
-| FX cost | Tight customer-facing spreads vs megabank-counter retail FX |
-| Debit-card FX | **Sony Bank WALLET** pays directly in the foreign-currency balance abroad — no yen → FX leg at swipe |
-| Time-deposit FX | Foreign-currency time deposit with yields linked to overseas rates |
-| Deposit safety | JPY deposits covered by 預金保険機構; foreign-currency deposits not covered by deposit insurance |
+| FX cost | Rates and exchange costs vary by currency, transaction, and customer status; use the current MoneyKit rate/fee page |
+| Debit-card FX | **Sony Bank WALLET** can use an eligible foreign-currency balance under the current product terms |
+| Time-deposit FX | Product availability, tenor, and rate must be taken from the current product page |
+| Deposit safety | Deposit-insurance treatment must be read from Sony Bank's product disclosure and Deposit Insurance Corporation guidance |
 
-The FX-debit feature is the customer-acquisition lever for travel-frequent and expat-adjacent users — a segment that megabank counters do not serve cleanly because of higher spreads and slower account flow.
+Sources: this table records disclosed product scope; it does not claim peer price leadership or observed customer acquisition by segment. ^[Sources: https://moneykit.net/visitor/fx/; https://moneykit.net/visitor/sbw/; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ### Investment-product distribution
 
@@ -70,22 +73,20 @@ The MoneyKit platform distributes 投信 (investment trusts) and supports securi
 
 ### Where Sony Bank competes
 
-| Axis | Position |
+| Axis | Evidence required for a comparison |
 |---|---|
-| FX / foreign-currency deposit | **Lead** among Japanese banks accessible to retail without HNW-banking gating |
-| Mortgage origination | Strong (a notable net-bank originator) |
-| Multi-currency travel / overseas use | Lead via Sony Bank WALLET |
-| Asset-formation / 投信 distribution | Solid, but not as deep as SBI / SSNB ecosystem |
-| Salary-account conversion | Lighter than [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]] / [[banking/au-jibun-bank|au Jibun Bank]] ecosystem coverage |
-| Card / payment frequency | Lighter — no point-economy ecosystem on par with楽天 / PayPay / au |
+| FX / foreign-currency deposit | Same-date currency coverage, rates, fees, balances, and eligibility from each bank's official materials |
+| Mortgage origination | Same-period new lending and outstanding balances under reconciled definitions |
+| Multi-currency overseas use | Eligible currencies, settlement path, network fees, and product conditions |
+| Asset-formation / 投信 distribution | Current product inventory, distributor status, fees, and linked-account terms |
+| Salary-account conversion | A disclosed salary-receipt or primary-account KPI; product availability alone is insufficient |
+| Card / payment frequency | Comparable transaction-frequency or active-card disclosure; no public ranking is asserted here |
+
+Sources: Sony Bank's official pages substantiate its own product set. They do not, by themselves, establish leadership or relative depth across peers, so this matrix is a comparison protocol. ^[Sources: https://moneykit.net/; https://moneykit.net/visitor/fx/; https://moneykit.net/visitor/sbw/; https://moneykit.net/visitor/co/disc.html.]
 
 ### Customer segmentation
 
-Sony Bank's customer base skews toward:
-
-- urban professionals with overseas-travel or overseas-asset exposure;
-- households building meaningful investment portfolios with FX diversification;
-- mortgage borrowers who shop on rate and online application convenience.
+Public product design suggests research hypotheses around overseas use, asset formation, and mortgages. These are not published customer-mix measurements. A customer-segmentation statement should be added only when Sony Bank discloses a dated survey, account cohort, or product-usage distribution.
 
 ## 4. KPI shape and franchise scale
 
@@ -93,13 +94,15 @@ Public Sony Bank disclosure (the 「ディスクロージャー誌」 series and
 
 ### Pattern across recent disclosure cycles
 
-| Metric | Pattern |
+| Metric | Dated public evidence / update rule |
 |---|---|
-| Deposit balance | Multi-trillion-yen range; growing through both JPY and foreign-currency products |
-| Foreign-currency deposit share | Materially higher than megabank or other net-bank peers |
-| Mortgage outstanding | One of the higher net-bank mortgage books |
-| Account count | Smaller than Rakuten / PayPay / au-Jibun / SSNB; reflects affluent-segment focus |
-| Capital | Well above 銀行法 minimum |
+| Deposit balance | ¥4,536.9bn at 2025-09-30: yen deposits ¥3,800.6bn and foreign-currency deposits ¥736.2bn in the cited interim disclosure |
+| Foreign-currency deposit share | Derive only from the same dated Sony Bank disclosure; a peer comparison requires reconciled definitions |
+| Mortgage outstanding | Use the latest disclosure's housing-loan line and measurement date; no peer rank is asserted |
+| Account count | Use Sony Bank's current disclosed count and date; do not infer customer affluence from relative scale |
+| Capital | Use the bank's current disclosed capital ratio and regulatory definition |
+
+Sources: the figures and update rules above are scoped to Sony Bank's official disclosure cycle. ^[Source: https://sonybank.jp/corporate/pdf/disclosure2025h.pdf.]
 
 ## 5. Regulatory boundary
 
@@ -110,7 +113,9 @@ Public Sony Bank disclosure (the 「ディスクロージャー誌」 series and
 | Deposit insurance | 預金保険機構 | JPY deposits covered; foreign-currency deposits explicitly not covered |
 | Securities-product sales | 金融商品取引法 — for 投信 distribution | Standard suitability and disclosure obligations |
 | AML / CFT | 金融庁 + 警察庁 + 国税庁 | Cross-border-payment AML elevated relative to JPY-only banks |
-| Mortgage origination | 銀行法 + 貸金業-related regulations + 住宅ローン-related guidance | Standard banking-side mortgage supervision |
+| Mortgage origination | 銀行法 supervision and applicable customer/product disclosure rules | Confirm current product terms and supervisory treatment from official materials |
+
+Sources: this summary should be read with the FSA license register, the bank's legal/product disclosures, and Deposit Insurance Corporation guidance; it is not a substitute for the underlying rules. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://moneykit.net/visitor/co/disc.html; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ## Related
 
@@ -140,4 +145,3 @@ Public Sony Bank disclosure (the 「ディスクロージャー誌」 series and
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
 - Sony Bank foreign-currency-deposit page — 12-currency menu (https://moneykit.net/visitor/fx/).
 - Sony Bank 中間期ディスクロージャー誌 2025.09.30 — total deposits ¥4,536.9bn (https://sonybank.jp/corporate/pdf/disclosure2025h.pdf).
-- Nikkei — Sony Financial Group spin-off re-listing on TSE Prime 2025-09-29, opening price ¥205 (https://www.nikkei.com/article/DGXZQOTG282HO0Y5A920C2000000/).

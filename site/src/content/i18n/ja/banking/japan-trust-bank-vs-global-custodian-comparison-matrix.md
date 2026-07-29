@@ -1,21 +1,23 @@
 ---
 source: banking/japan-trust-bank-vs-global-custodian-comparison-matrix
-source_hash: 4622638c37358ebc
+source_hash: 3c2004d956094784
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の信託銀行対グローバルカストディアン比較マトリクス"
-translated_at: 2026-06-26T08:32:15.198Z
+translated_at: 2026-07-29T03:30:48.111Z
 ---
 
 # 日本の信託銀行対グローバルカストディアン比較マトリクス
 
 ## TL;DR
 
-日本の信託銀行系カストディ事業者 (フルサービス信託銀行、資産管理専業、中小信託銀行) と、日本で営業するグローバルカストディアン (BNY メロン、ステート・ストリート、JP モルガン、シティ) との横並び比較。両陣営は直接の代替関係にはない: 日本の信託銀行は 信託業法 + 銀行法 の二重ルートの下で国内 JGB / 株式 / 公的年金 のカストディを支配し、一方グローバルカストディアンは外国投資家のためのサブカストディ・マンデートと、ICSD ゲートウェイ経由のクロスボーダー資産サービシングを担う。マトリクスを正しく読むことで、「信託口」名義をあたかも銀行自身が経済的投資家であるかのように扱うという頻発する誤りを避けられる。
+このページでは、日本の信託銀行と日本で活動しているグローバルカストディアンについて確認できることを比較します。価格決定力をランク付けしたり、顧客の要求を推測したり、グループ ブランドからの市場接続性を想定したりするものではありません。法人のステータスは FSA 登録簿から得られます。各事業体の公式資料からの事業範囲。現在のオペレータリストからのインフラストラクチャへの参加。発行者の定義を保持したまま、日付の開示から測定基準をスケールします。
 
-## Wiki ルート本エントリは [[banking/INDEX|banking index]] の配下に位置する。既存のカストディドメイン図についてはピアエントリ [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust and カストディ bank landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank カストディ operating comparison]] とともに; エンティティの文脈については [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]、[[trust-banks/mizuho-trust-bank|みずほ信託銀行]]、[[trust-banks/smtb|三井住友信託銀行]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] とともに; システムアンカーとしては [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] と [[trust-banks/custody-bank|日本カストディ銀行]] とともに; そしてクリアリング / 決済インフラについては [[securities/japan-securities-clearing-corp|JSCC]] と [[securities/japan-securities-depository-center|JASDEC]] とともに、加えてクライアントサイドについては [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] とともに読まれたい。
+## Wikiルート
+
+本項目は [[banking/INDEX|banking index]] に属する。既存のカストディ領域図として [[banking/japan-trust-bank-custody-map|日本の信託銀行・カストディ地図]]、[[banking/japan-master-trust-and-custody-bank-landscape|マスタートラスト / カストディ銀行の概観]]、[[banking/trust-bank-custody-operating-comparison|信託銀行・カストディ業務比較]]と併読する。法人別の文脈は [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]]、[[trust-banks/mizuho-trust-bank|みずほ信託銀行]]、[[trust-banks/smtb|三井住友信託銀行]]、[[foreign-financial-institutions/bny-mellon-japan|BNY メロン・ジャパン]]を参照する。国内システムの中核は [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] と [[trust-banks/custody-bank|日本カストディ銀行]]、清算・決済インフラは [[securities/japan-securities-clearing-corp|JSCC]] と [[securities/japan-securities-depository-center|証券保管振替機構]]、顧客側は [[securities/japan-asset-manager-landscape-matrix|資産運用会社ランドスケープ・マトリクス]]を参照する。
 
 ## カバーする母集団
 
@@ -35,83 +37,79 @@ translated_at: 2026-06-26T08:32:15.198Z
 
 ## 比較マトリクス (日本の信託銀行)
 
-| 項目 | MUFG 信託 | みずほ信託 | SMTB | SMBC 信託 | 野村信託 | 農中信託 | マスタートラスト | 日本カストディ銀行 | SBI 新生信託 | JSF 信託 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 法人区分 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 (専業) | 信託銀行 (専業) | 信託銀行 | 信託銀行 |
-| ライセンスルート | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 (カストディ専業) | 銀行法 + 信託業法兼営 (カストディ専業) | 銀行法 + 信託業法兼営 | 銀行法 + 信託業法兼営 |
-| 法定カストディアン機能 | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | リテール信託中心 / カストディ限定 | グループ内信託 + 投信信託受託 | 農林系信託受託 | カストディ + 年金信託 + 投信受託専業 | カストディ + 年金信託 + 投信受託専業 | グループ内 + 不動産信託中心 | 証券金融グループ内信託 |
-| AUC / AuA クラス | ¥100兆+ | ¥10–100兆 | ¥100兆+ | <¥10兆 | <¥10兆 | <¥10兆 | ¥823兆 (受託資産, 2025) | ¥696兆 (受託財産合計, 2025-03) | <¥10兆 | <¥10兆 |
-| 主要顧客タイプ | 公的年金 / 投信 / 機関投資家 / 事業法人 | 投信 / 機関投資家 / 公的年金 | 公的年金 / 投信 / 機関投資家 / 事業法人 | 個人富裕層 / 信託代理 | グループ証券・投信 / 機関投資家 | 農林系金融機関・JA バンク | GPIF / 大手投信 / グローバルカストディ sub-route | 大手投信 / 公的年金 / 機関投資家 | グループ内 / 不動産投資家 | 証券金融子会社 + 機関投資家 |
-| クロスボーダーカストディ | あり (海外サブカストディ網) | あり | あり | 限定的 | 限定的 | なし | 海外資産は外資カストディに再委託 | 海外資産は外資カストディに再委託 | なし | なし |
-| DVP-X1/X2/X3 決済 | フル参加 | フル参加 | フル参加 | 部分参加 | 部分参加 | 部分参加 | フル参加 (大量) | フル参加 (大量) | 部分参加 | 部分参加 |
-| JSCC 接続 | 直接 | 直接 | 直接 | 親銀行経由 | 直接 (証券系) | 親系統経由 | 直接 (大量) | 直接 (大量) | 親銀行経由 | 直接 (証券金融) |
-| JASDEC 接続 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 (大量) | 直接 (大量) | 直接 | 直接 |
-| ICSD ゲートウェイ (Euroclear / Clearstream) | 直接 + サブカストディ | 直接 + サブカストディ | 直接 + サブカストディ | 親銀行 SMBC 経由 | 親 (野村) 経由 + 自社限定 | 外資カストディ経由 | 外資 ICSD 接続 (BNY / State Street サブ) | 外資 ICSD 接続 (BNY / State Street サブ) | 外資カストディ経由 | 外資カストディ経由 |
-| M&A / 統合歴 | 三菱信託 + UFJ 信託 (2005-10) | みずほ信託 (旧安田 + 第一勧業 + 富士信託統合系譜) | 中央三井 + 住友 (2011-04) | 旧 SMBC 信託 + プレスティア (シティ NA 個人部門 2015 譲受) | 1993 設立 (野村系子会社) | 設立統合 | 2000-05 設立 (MUFG + 日本生命 + 明治安田 + 農中信託) | **2020-07-27 JTSB + TCSB 合併** ★ | SBI 系 (旧新生信託) | 日本証券金融子会社 |
-| 価格交渉力 | 強 (規模 + リレーション) | 中強 | 強 | 中 (リテール富裕層) | 中 (グループ内) | 中 (系統内) | 強 (規模独占に近い) | 強 (規模独占に近い) | 弱 (規模小) | 弱 (専業狭領域) |
+| 実在物 | ここで使用されるパブリック カテゴリ | ライセンス/法人の証拠 | ビジネススコープの証拠 | スケールデータ境界 |
+|---|---|---|---|---|
+| MUFG信託 | フルサービスの日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | 日付のある実体または MUFG の開示を使用します。メトリック定義を保持する |
+| みずほ信託 | フルサービスの日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | 日付のあるエンティティまたはみずほFG開示を使用する |
+| SMTB | フルサービスの日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | 日付のある実体または SMT ホールディングスの開示を使用する |
+| SMBC信託 | 日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | 日付のあるエンティティまたはグループの開示を使用する |
+| 野村トラスト | 日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | グループ内部の権限を推測しないでください |
+| 農林中央金庫 | 日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | 名前付き情報源なしで JA システムの義務を推測しないでください |
+| MTBJ | 資産管理スペシャリスト | 現在のFSA登録簿と公式プロフィール | MTBJ事業概要 | MTBJ の開示日付。信託資産と他の AUC 定義を混合しないでください。 |
+| CBJ | 資産管理スペシャリスト | 現在のFSA登録簿と公式プロフィール | CBJ事業概要 | CBJ の開示日付。開示された周囲を維持する |
+| SBI新生信託 | 日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | エンティティの開示のみを使用する |
+| JSF トラスト | 日本の信託銀行 | 現在の金融庁の銀行および信託業務登録簿 | 企業・サービス公式ページ | エンティティの開示のみを使用する |
+
+出典: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/trust/trustbanks/; MTBJ and CBJ official pages listed in the frontmatter.]
 
 ## 比較マトリクス (日本のグローバルカストディアン)
 
-| 項目 | BNY メロン日本 | ステート・ストリート日本 | JP モルガン日本 | シティ日本 |
+| グループ | 日本の法人チェック | 公務の証拠 | 親メトリック | 日本だけの境界線 |
 |---|---|---|---|---|
-| 法人区分 | 信託銀行 (BNY メロン信託) + 外国銀行支店 (東京支店) + AM 子会社 | 信託銀行 (ステート・ストリート信託) + 外国銀行支店 | 信託銀行 + 外国銀行支店 (JPMorgan Chase Bank N.A. Tokyo) + 証券子会社 | 外国銀行支店 (Citibank N.A. Tokyo) + 証券子会社 (Citigroup Global Markets Japan) |
-| ライセンスルート | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 金商法 (証券) |
-| 法定カストディアン機能 | グローバルカストディ / 海外資産保管 / ADR 代理人 / sub-custodian | グローバルカストディ / 公的年金 sub-custodian / 投信 sub-custodian | グローバルカストディ + 機関投資家サービス + ADR 代理人 | グローバルカストディ + ADR 代理人 + 証券業務 |
-| AUC / AuA クラス (Japan 専有部分) | 非開示 (親会社グローバル AUC/A 約 $52兆, 2024-12 ^[extracted]) | 非開示 (親会社グローバル AUC/A 約 $46.6兆, 2024-12) | 非開示 (親会社 Securities Services AUC 約 $35.8兆, 2024Q3) | 非開示 (親会社 Securities Services AUC/A 約 $26兆, 2024) |
-| 主要顧客タイプ | GPIF / 公的年金 / 大手投信 / 邦銀海外運用 / 外国年金 / SWF | GPIF / 公的年金 / SSGA 系投信 / 外国年金 / SWF | 米国機関投資家 / 邦銀グローバル分業 / 米国上場日本企業 ADR | 外国年金 / SWF / 邦銀海外運用 / ADR / 米国機関投資家 |
-| クロスボーダーカストディ | コア機能 (世界最大) | コア機能 (Custodian + 投信 admin) | コア機能 + 米証券業務一体 | コア機能 + 多通貨決済網 |
-| DVP-X1/X2/X3 決済 | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 限定 (証券業務側) |
-| JSCC 接続 | 直接 (信託銀行 + 支店) | 直接 (信託銀行 + 支店) | 直接 (信託銀行 + 支店) | 証券子会社 (CGMJ) 経由 |
-| JASDEC 接続 | 直接 | 直接 | 直接 | 直接 (支店) |
-| ICSD ゲートウェイ (Euroclear / Clearstream) | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 | グローバル ICSD ネットワーク直接接続 |
-| スペシャルティ領域 | ADR / Securities Services / トークン化資産 (検討) / 米国 OFAC 対応 | Asset servicing + 投信 administration + SSGA との連携 (パッシブ ETF カストディ) | 米証券一体 + プライムブローカレッジ周辺 + ADR / DR | 多通貨決済 + 新興国 sub-カストディ + 大手 EM カストディ |
-| 価格交渉力対邦銀 | 高 (グローバル必須機能で価格は手数料率より相対安定) | 高 (パッシブ ETF / 投信 admin で規模効果) | 高 (米国一体サービス) | 中高 (新興国 + 米国強み) |
+| BNY | FSA 外国銀行/銀行/信託業務登録簿 (該当する場合) | BNYジャパン公式開示 | 日付の投資家の結果からの親 AUC/A | 親会社合計は日本のみのAUCではありません |
+| ステート ストリート | FSA が該当するものとして登録 | ステート・ストリート・ジャパン公式ページ | 日付の投資家の結果からの親 AUC/A | 親会社合計は日本のみのAUCではありません |
+| JPモルガン | FSA が該当するものとして登録 | JPモルガン証券サービス公式ページ | 親証券サービスのAUC (日付結果から) | 親会社合計は日本のみのAUCではありません |
+| Citi | FSA 外国銀行および証券登録簿（該当する場合） | シティ証券サービス公式ページ | 親証券サービスのAUC/A（日付結果より） | 親会社合計は日本のみのAUCではありません |
+
+出典: ^[FSA registers; BNY, State Street, JPMorgan, and Citigroup official Japan / securities-services and investor-relations publications listed in the frontmatter.]
 
 ## 陣営横断マトリクスビュー
 
 | 次元 | 日本の信託銀行 | グローバルカストディアン (日本) |
 |---|---|---|
-| 主管規制当局 | 金融庁 (FSA) — 銀行法 + 信託業法 | 金融庁 (FSA) + 母国規制 (FRB / OCC / ECB / 英 PRA) |
-| 主たる資産ユニバース | 国内株式 / JGB / 国内投信 / 公的年金資産 (うち国内分) | 海外株式 / 海外債券 / 邦銀の海外運用資産 / ADR / 外国年金資金の日本投資 |
-| 決済インフラ | [[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]] / BoJ JGB システム直接接続 | グローバル ICSD (Euroclear / Clearstream) + 日本側は JASDEC / JSCC へ |
-| 受益者集中度 | GPIF + 大手投信 + 公的年金 (国内ベース) | 邦銀グローバル + 外国年金 / SWF + 海外投信 (国際ベース) |
-| 議決権 / ガバナンス機能 | 「信託口」名義 — 議決権指図は委託者 (運用機関 / 年金) | sub-custodian として通過、議決権は最終 beneficial owner / global custodian の委託者 |
-| 価格交渉力 | 国内インフラ 2 強 (Master Trust + CBJ) は強い独占的価格、その他は中程度 | 高い (グローバル必須機能性 + 規模) — 邦銀代替は構造的に困難 |
-| 直近の集約 | **2020-07 JTSB + TCSB → CBJ** に類する集中化が継続 | グローバル統合は完了済 (BNY + Mellon 2007、State Street 単一系統、Citi / JPM は内部統合) |
+| 法人 | 日本の各銀行または信託銀行を確認してください | 日本の各支店、銀行、信託銀行、証券会社を個別に確認してください |
+| 事業内容 | エンティティの公式ページ | 日本法人および親会社の証券サービスのページ |
+| 和解参加 | 現在のJASDEC/JSCC/BoJの法人別参加者データ | 同じ;親グループから推測しないでください |
+| AUC / AuA | 定義付きの日付付きエンティティまたはグループの開示 | 親指標には日本のみではなく親全体としてラベルを付ける必要があります |
+| 顧客/委任者 | 指定された一次ソースが必要です | 指定された一次ソースが必要です |
+| 手数料または価格決定力 | 契約または開示された料金表が必要です | 契約または開示された料金表が必要です |
+| 候補者の列 | 基礎となる受益者を単独で特定するものではない | 基礎となる受益者を単独で特定するものではない |
 
-## マスタートラスト対日本カストディ銀行 — 2020 統合の意味
+出典: ^[FSA, JASDEC, JSCC, and BoJ official registers / system materials; official entity and investor-relations publications listed in the frontmatter.]
 
-**2020-07-27 JTSB (日本トラスティ・サービス信託銀行) + TCSB (資産管理サービス信託銀行) → [[trust-banks/custody-bank|日本カストディ銀行]]** という統合は、日本のカストディ・インフラの 2 強体制を **MUFG 系 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] vs SMTB / Mizuho / Resona / 第一生命系 [[trust-banks/custody-bank|日本カストディ銀行]]** として明確化したイベントである。^[extracted]
+## マスタートラストvs日本カストディ銀行 — 2020年統合の意味
 
-統合理由として公開資料は次を示す:
+公式資料で確認できる事実は、**2020-07-27 に JTSB（日本トラスティ・サービス信託銀行）と TCSB（資産管理サービス信託銀行）が合併し、[[trust-banks/custody-bank|日本カストディ銀行]]となったこと**である。統合の競争効果や MTBJ との「2強」評価には、同一定義の市場全体データが必要であり、本ページでは測定済み事実として扱わない。^[Source: CBJ company information, https://www.custody.jp/corporate/information/index.html.]
 
-1. 国内パッシブ運用拡大 + 公的年金資産の規模拡大による情報処理能力要件
-2. システム重複コストの圧縮 (JTSB + TCSB は別個の投信計算 / カストディシステムを保有していた)
-3. 議決権電子行使 / コーポレートアクション電子化への対応投資集約
+## 公開比較限界
 
-## 価格交渉力のダイナミクス
+| 請求 | 最低限の証拠 |
+|---|---|
+| 市場シェアまたは集中 | 同じ日付の同じ周辺市場の合計とエンティティの数値 |
+| 価格決定力 | 結論を明示的に裏付ける公表された料金表、契約証拠、または発行者の開示 |
+| インフラストラクチャへの直接アクセス | 関連する法人名を記載した現在の参加者リスト |
+| 顧客または委任者 | 関係を示す日付の発表、法定提出、または顧客開示 |
+| 国境を越えたルーティング | エンティティサービスの文書化または任務固有の開示 |
+| 規制資本の比較 | 関連する法人に対する同一ベースの規制開示 |
 
-| 側面 | 国内信託銀行 | グローバルカストディアン |
-|---|---|---|
-| 顧客交渉力 | 規模効果 + リレーションで Master Trust / CBJ は強い | グローバル必須機能性で全社強い |
-| 代替可能性 | 国内インフラ集約により国内では限定的 | 母国規制 + 母国システム接続性で邦銀代替は構造的困難 |
-| クロス販売 | 不動産 / 年金 / 相続 / 投資銀行リレーション (full-service trust bank) | グローバル運用 / 証券業務 / プライムブローカレッジ |
-| 規制資本コスト | 国内 RWA 中心 | グローバル統合資本 (G-SIB バッファ含む — BNY Mellon / State Street / JPM / Citi 全社 G-SIB 認定) |
+出典: ^[Official entity, regulator, and infrastructure publications listed in this entry.]
 
 ## 解釈ルール
 
 | 公開情報の見方 | 正しい読み方 |
 |---|---|
-| 「日本マスタートラスト信託銀行 (信託口)」が筆頭株主に登場 | 名義人。受益者は GPIF / 投信 / 機関投資家。議決権指図は委託者側。^[extracted] |
-| 「日本カストディ銀行 (信託口)」が筆頭株主に登場 | 同上。CBJ は名義人で、SMTB / Mizuho / Resona / 第一生命系の委託資産の集約。^[extracted] |
-| 「BNY Mellon」や「State Street」が外国法人株主に登場 | 外国機関投資家のグローバルカストディ口座経由の名寄せ。BNY / State Street 自体の戦略保有ではない。^[extracted] |
+| 「日本マスタートラスト信託銀行 (信託口)」が株主欄に登場 | 名義人表示だけでは、受益者、運用者、議決権指図者を特定できない |
+| 「日本カストディ銀行 (信託口)」が株主欄に登場 | 同上。CBJ の株主構成から特定顧客の委託資産と推定しない |
+| カストディアン名が外国法人株主欄に登場 | 名義人表示だけでは、戦略保有かカストディ口座か、また最終受益者を確定できない |
+
+Sources: ^[各発行体の株主開示と、カストディアンの公式業務説明。名義人から基礎委託を推定しない。]
 
 ## リサーチチェックリスト
 
 1. オーナーシップに関する結論を導く前に、カストディバンクへの言及が **エンティティ / 株主名義人 / マンデートホルダー** のいずれであるかを [[banking/japan-trust-bank-custody-map|trust-bank カストディ map]] を用いて確認すること。
-2. スペシャリストバンクについては、**銀行法 + 信託業法 の下の正規の信託銀行**であるか、それとも純粋な 信託会社 であるかを確認すること — 銀行ルートのみが DVP / JGB 振替に直接参加できる。
-3. グローバルカストディアンについては、その日本オペレーションが **自社の 信託銀行ライセンス** を持つ (BNY / State Street / JPM) か、それとも 外国銀行支店 + 証券子会社 のルートのみで運営する (シティのパターン) かを特定すること。
-4. ICSD ゲートウェイへのアクセス (Euroclear / Clearstream) を、真にグローバルなカストディアンと国内スペシャリストとの間の **分水嶺** として扱うこと — 国内スペシャリストは通常、外国資産をグローバルカストディアン経由で再ルーティングする。
+2. 規制されている役割を説明する前に、現在の FSA 登録簿にある正確な法人とライセンス カテゴリを特定してください。
+3. グローバルグループの場合は、日本支店、信託銀行、証券会社、資産運用会社を区別します。それらの権限を組み合わせないでください。
+4. グループのブランディングではなく、現在の参加者または事業体の開示から JASDEC、JSCC、BoJ、および ICSD の接続性を検証します。
 5. すべての AUC / AuA / 受託資産 の数値は、市場価格や新規マンデートとともに動くため、出典日付を付すこと; マスタートラストの ¥823兆 (2025) および CBJ の ¥696兆 (2025-03) のアンカーは公式開示の要約点であり、リアルタイムの数値ではない。
 6. マンデートのフローを理解するため、[[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] を通じてクライアントサイドを相互リンクすること。
 
@@ -146,7 +144,7 @@ translated_at: 2026-06-26T08:32:15.198Z
 
 - 信託協会: 信託銀行の説明、会員一覧、信託資産統計。
 - 日本マスタートラスト信託銀行: 公式会社 / 事業概要 (受託資産 ¥823兆 アンカー, https://www.mastertrust.co.jp/about/overview.html)。
-- 日本カストディ銀行: 公式会社 / 事業説明 (2020-07-27 JTSB + TCSB 合併を含む); ディスクロージャー報告 受託財産合計 ¥696兆 / 信託財産 ¥476兆 2025-03-31時点 (https://www.custody.jp/data/disclosure/index.html)。
+- 日本カストディ銀行: 公式会社/事業説明 (2020-07-27 JTSB + TCSB 合併を含む);開示報告書 受託財産総額 ¥696tn / 信託財産 ¥476tn (2025-03-31時点)https://www.custody.jp/data/disclosure/index.html).
 - BNY メロン日本: 公式日本ページおよびアセットサービシング開示; グループ AUC/A $52.1兆 2024-12-31時点 (Q4 2024 決算リリース, https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf)。
 - ステート・ストリート日本: 公式日本ページ; グループ AUC/A $46.6兆 2024-12-31時点 (Q4/FY2024 決算プレスリリース, https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx)。
 - JP モルガン: Securities Services AUC $35.8兆 2024Q3 時点 (JPMorgan Chase 3Q24 決算プレゼンテーション, SEC Form 8-K, https://www.sec.gov/Archives/edgar/data/0000019617/000001961724000558/a3q24_earningsxpresentat.htm)。

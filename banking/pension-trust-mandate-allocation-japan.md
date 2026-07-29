@@ -8,9 +8,9 @@ aliases:
   - "DB DC trust mandate allocation Japan"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, trust-bank, custody, asset-administration, pension, gpif, dc, db, mandate-allocation]
 status: active
@@ -37,7 +37,7 @@ This entry sits under [[banking/INDEX|banking index]] and connects the pension-s
 
 ## TL;DR
 
-Japanese pension-trust mandates split into three layers: GPIF (~¥250tn assets, public pension), corporate DB plans (確定給付企業年金), and DC plans (確定拠出年金, including iDeCo). Each layer separates investment management (運用機関) from asset administration (資産管理機関) — the latter is where MTBJ, CBJ, and the megabank trust-bank arms compete. GPIF's pattern is well documented: a panel of external 運用機関 (asset managers) for active and passive mandates plus a separate 資産管理機関 panel of trust banks (MTBJ + CBJ + selected full-service trust banks) for custody and admin. Corporate DB plans mirror the same separation, often with one or two trust banks per plan. DC plans add a 運営管理機関 layer (record-keeping for member accounts) where megabank trust-bank arms and specialized DC operators compete. Foreign-asset legs across all layers route through global custodians as Japan sub-custodians. The result is a layered mandate-allocation system in which MTBJ and CBJ anchor the asset-administration utility while the megabank trust banks and global custodians compete on the front-office investment-management and DC operating-manager sides.
+Japanese public and private pensions use several legally distinct arrangements. GPIF publishes its operating framework and manager / custodian information; corporate DB and DC arrangements depend on plan rules, contracts, and statutory disclosures. This page maps roles and evidence routes. It does not infer undisclosed customer mandates, name “default winners”, or rank trust-bank pricing.
 
 ### Pension-system three layers
 
@@ -47,41 +47,45 @@ Japanese pension-trust mandates split into three layers: GPIF (~¥250tn assets, 
 | **Corporate DB** (確定給付企業年金) | Corporate-sponsored defined-benefit pension trust | 確定給付企業年金法 (2001) | ~¥66.0tn entrusted assets (確定給付企業年金, 令和5年3月末; DB+厚生年金基金 combined ~¥80.5tn) |
 | **Corporate DC + iDeCo** (確定拠出年金) | Corporate-sponsored / individual DC | 確定拠出年金法 (2001) | ~¥29tn aggregate (企業型DC ¥22.8tn + iDeCo ¥6.2tn, 2024-03末); growing fast post-NISA / DC reforms |
 
+Sources: ^[GPIF official site and operating framework, https://www.gpif.go.jp/, https://www.gpif.go.jp/operation/operationalformat.html; MHLW pension statistics, https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000147284.html; iDeCo statistics, https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf. Figures are dated snapshots.]
+
 ### Mandate-allocation role separation
 
 | Role | Function | Examples |
 |---|---|---|
-| 運用機関 (Investment manager) | Discretionary investment decision; portfolio construction; trade execution | Asset managers — Nomura AM, MUFG AM, Daiwa AM, SBI AM, JP-side external managers, foreign-asset managers (e.g. Vanguard, BlackRock, State Street SSGA, Goldman Sachs AM, PIMCO, etc.) |
-| 資産管理機関 (Asset administrator / trust bank) | Trust-account safekeeping, NAV calc, settlement, CA processing, voting admin | MTBJ, CBJ, MUFG Trust, SMTB, Mizuho Trust, Norinchukin Trust |
-| 受託金融機関 (Trust-receiving financial institution) | Pension trust setup, fiduciary holder of the trust | Same trust banks as above, in trust-receiver capacity |
-| 運営管理機関 (DC operating manager) | Member-account record-keeping; investment-menu provision; member-facing UI | Trust banks, securities firms, dedicated DC operators (NRK 日本レコード・キーピング・ネットワーク) |
-| Sub-custodian (foreign assets) | Foreign-asset book-entry, settlement, FX, foreign CA | BNY Mellon, State Street, JP Morgan, Citi (as global custodian) — accessed via the JP trust bank |
+| 運用機関 (Investment manager) | Discretionary investment decision; portfolio construction; trade execution | Institution named in the mandate / appointment disclosure |
+| 資産管理機関 (Asset administrator / trust bank) | Trust-account safekeeping, settlement, recordkeeping, and related administration | Institution named in the appointment disclosure |
+| 受託金融機関 (Trust-receiving financial institution) | Pension trust setup and fiduciary holding under the arrangement | Institution named in plan / trust documents |
+| 運営管理機関 (DC operating manager) | Member-account recordkeeping, plan administration, and product information within its statutory role | Current plan / operator disclosure |
+| Sub-custodian (foreign assets) | Foreign-market safekeeping and settlement functions | Institution named in the specific custody chain |
+
+Sources: ^[GPIF operating framework, MHLW pension materials, FSA trust-business list, and official service descriptions of the appointed entities.]
 
 ### GPIF mandate allocation
 
-GPIF (~¥250tn AUM) operates the largest single pool of pension assets in Japan and the largest pension fund globally. Its mandate-allocation pattern is publicly documented in GPIF's annual reports.
+GPIF publishes its operating framework and dated appointment / reporting materials. Use those publications rather than a static manager list.
 
-| GPIF mandate slot | Allocator | Typical participant types |
+| GPIF public surface | What it establishes | Publication rule |
 |---|---|---|
-| Domestic equity active | 運用機関 (external) | Nomura AM, MUFG AM, Daiwa AM, Asset Management One, Goldman Sachs AM Japan, JPM AM Japan, others |
-| Domestic equity passive | 運用機関 (external) | Asset Management One, MUFG AM, Nomura AM, Daiwa AM, BlackRock JP, State Street GA JP, others |
-| Foreign equity active | 運用機関 (external) | International + JP-affiliated AMs running global equity strategies |
-| Foreign equity passive | 運用機関 (external) | BlackRock, State Street GA, Vanguard (where relevant), regional AM affiliates |
-| Domestic bond active / passive | 運用機関 (external) | Asset Management One, MUFG AM, Nomura AM, others |
-| Foreign bond active / passive | 運用機関 (external) | PIMCO, JPM AM, BlackRock, others |
-| Alternative (PE / infra / real-estate) | 運用機関 (external) | Specialized PE / infra / RE managers; fund-of-fund structures |
-| Asset administration (custody, NAV, CA, voting) | 資産管理機関 (external) | MTBJ + CBJ (anchor) + selected full-service trust banks |
-| Foreign-asset sub-custody | Sub-custodian chain | Via MTBJ / CBJ → global custodian (BNY / State Street / JPM / Citi) |
+| Operational format | Role separation and operating structure described by GPIF | Use GPIF terminology and effective date |
+| Investment-manager disclosure | Managers / strategies named by GPIF for the disclosed period | Do not carry a historical appointment forward |
+| Asset-administration disclosure | Institutions named by GPIF for the disclosed role and period | Do not infer all sub-custody chains |
+| Annual report / stewardship report | Dated assets, performance, governance, and stewardship information | Preserve period, units, and GPIF definitions |
+| Procurement / selection notice | Scope and status of the specific selection process | Distinguish application, selection, appointment, and termination |
+
+Sources: ^[GPIF operational format and current disclosures, https://www.gpif.go.jp/operation/operationalformat.html, https://www.gpif.go.jp/.]
 
 ### Corporate DB plan mandate-allocation pattern
 
-| Slot | Allocator | Typical participant |
-|---|---|---|
-| Plan trustee (受託金融機関) | Trust bank | MUFG Trust, SMTB, Mizuho Trust, regional trust-bank alternatives |
-| Investment management mandates | 運用機関 (external + plan-side direction) | Asset managers — typically several per plan, sometimes including foreign AMs |
-| Asset administration | 資産管理機関 | Plan-trustee's own custody arm OR external (MTBJ / CBJ) — depending on plan structure |
-| Actuarial / advisory | 信託銀行 PB / 年金コンサル | MUFG Trust, SMTB, Mizuho Trust, specialty pension consultants |
-| Benefit-payment ops | Plan trustee | Trust bank-internal |
+| DB role | Evidence required for a named plan / provider claim |
+|---|---|
+| Plan sponsor and rules | Plan or sponsor official disclosure |
+| Trustee / receiving financial institution | Plan documents or appointment announcement |
+| Investment manager | Plan / sponsor or manager announcement naming the mandate |
+| Asset administrator / custodian | Plan, trustee, or appointed institution disclosure |
+| Actuarial, advisory, and benefit-payment service | Plan contract disclosure or named official announcement |
+
+Sources: ^[MHLW defined-benefit pension materials, https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000147284.html; plan- and provider-specific primary disclosures.]
 
 ### DC plan mandate-allocation pattern
 
@@ -93,6 +97,8 @@ GPIF (~¥250tn AUM) operates the largest single pool of pension assets in Japan 
 | 投信受託会社 for each fund in menu | Trust bank as 投信受託 | MTBJ / CBJ / megabank trust arms |
 | Foreign-asset legs | Sub-custodian chain | Via the trust bank → global custodian |
 
+Sources: ^[MHLW defined-contribution pension materials; iDeCo official statistics; each plan, operator, fund, and trustee's statutory disclosures.]
+
 ### Why role separation matters
 
 | Reading | Implication |
@@ -103,45 +109,54 @@ GPIF (~¥250tn AUM) operates the largest single pool of pension assets in Japan 
 | Voting authority | Operates per asset manager's 議決権行使ガイドライン, executed mechanically by the trust bank |
 | Member-balance (DC) | Held at 運営管理機関 — but the underlying 投信 holdings sit at the trust bank as 受託会社 |
 
+Sources: ^[GPIF operating materials for GPIF roles; MHLW DB / DC materials and fund statutory documents for private-plan roles. A nominee row alone does not identify the underlying mandate.]
+
 This separation is the structural reason why "MTBJ + CBJ" appearing as a top shareholder of every TOPIX issuer cannot be read as a unified voting bloc.
 
 ### Cross-pension-layer competition map
 
-| Pension layer | Front-office (運用機関) competition | Back-office (資産管理機関) competition | Member-side (運営管理機関) competition |
-|---|---|---|---|
-| GPIF | Wide panel — JP AMs + foreign AMs compete for mandate slices | MTBJ + CBJ + selected full-service trust banks | N/A (GPIF is public pension, no member-level admin like DC) |
-| Corporate DB | Plan-trustee-side AMs + external AMs | Plan-trustee internally + MTBJ / CBJ for separately-mandated admin | N/A (DB has no member-level admin record) |
-| Corporate DC | 運営管理機関's selected 投信 lineup → underlying 運用機関 | MTBJ / CBJ via 受託会社 layer | MUFG Trust / SMTB / Mizuho Trust / Nomura / Daiwa / SMBC Nikko / NRK |
-| iDeCo | Same as DC | Same as DC | Same DC operators (often retail-facing securities firms / online brokers) |
+| Pension layer | Authoritative role source | Named-provider evidence |
+|---|---|---|
+| GPIF | GPIF operational format and current appointment disclosures | GPIF publication naming the institution and role |
+| Corporate DB | Statute, plan rules, sponsor / plan disclosure | Plan, sponsor, trustee, or provider announcement |
+| Corporate DC | Statute, plan rules, operator and product documents | Sponsor / operator / fund statutory disclosure |
+| iDeCo | Official iDeCo / MHLW rules and operator materials | Current operator and product disclosure |
+
+Sources: ^[GPIF, MHLW, and iDeCo official materials listed in the frontmatter.]
 
 ### Cross-trust-bank pension mandate competition
 
-| Trust bank | GPIF mandate side | Corporate DB side | DC 運営管理 side |
-|---|---|---|---|
-| MTBJ | Major 資産管理機関 | Major 資産管理機関 | Limited (custody-only specialist) |
-| CBJ | Major 資産管理機関 | Major 資産管理機関 | Limited (custody-only specialist) |
-| MUFG Trust | Selected 資産管理機関 use | Major plan trustee + admin | Major DC 運営管理機関 (corporate DC) |
-| SMTB | Selected 資産管理機関 use | Major plan trustee + admin | Major DC 運営管理機関 |
-| Mizuho Trust | Selected 資産管理機関 use | Major plan trustee + admin | Major DC 運営管理機関 |
-| Norinchukin Trust | Limited | 農林系 plan trustee + admin | Limited |
-| SMBC Trust | Limited (PB context) | Limited | Limited |
-| Nomura Trust | Limited (grup-internal) | Limited | Group-tied DC operator support |
+| Institution claim | Minimum public evidence |
+|---|---|
+| GPIF appointment | Current GPIF disclosure naming the institution and role |
+| Corporate DB appointment | Named plan / sponsor / trustee primary source |
+| DC operating-manager role | Current MHLW / operator registration or official plan material |
+| Fund trustee role | Current prospectus / trust deed for the specific fund |
+| Relative scale or “major / limited” label | Same-perimeter, same-period public data covering the compared population |
+
+Sources: ^[GPIF, MHLW, FSA, plan, and fund primary documents. Group affiliation does not establish a pension mandate.]
 
 ### Why MTBJ + CBJ dominate asset-administration
 
-| Driver | Effect |
+| Potential explanation | Evidence needed before publication |
 |---|---|
-| Scale economics of NAV calculation + CA processing | Favors single-purpose utility over megabank-internal admin |
-| GPIF historical tender preference for specialist custody | Anchored MTBJ + CBJ as default winners |
-| Megabank trust banks' preference to run separately on front-office mandate | Leaves asset-administration utility to MTBJ + CBJ |
-| Cost-recovery pricing at MTBJ + CBJ | Hard for other entities to undercut |
-| 信託銀行 license + JASDEC participation + 信託口 nominee logic | Limits new entrants |
+| Scale economics | Comparable cost, volume, and service-scope disclosure |
+| Selection history | Dated GPIF or plan procurement / appointment records |
+| Outsourcing structure | Named trustee / administrator agreement or announcement |
+| Fee advantage | Published tariff or contract evidence |
+| Regulatory / infrastructure barrier | Current FSA licence and infrastructure participation requirements |
+
+Sources: ^[GPIF procurement / appointment disclosures; FSA and infrastructure rules. The public record does not support “default winner” or pricing-power claims without additional evidence.]
 
 ## 4. 手数料・収益構造
 
-| Pension layer | Front-office fee model (運用機関) | Back-office fee model (資産管理機関) | Member-side fee model (運営管理機関) |
-|---|---|---|---|
-| iDeCo | Same as DC | Same as DC | Operator fee per member-year (often few hundred yen / month) |
+| Fee field | Public evidence route | Publication rule |
+|---|---|---|
+| Investment-management fee | Mandate disclosure or fund statutory document | Do not infer an entity-wide rate |
+| Asset-administration fee | Mandate / procurement disclosure where public | Treat undisclosed contract terms as undisclosed |
+| DC / iDeCo participant fee | Current operator and official product fee page | Record retrieval date and conditions |
+
+Sources: ^[GPIF procurement disclosures, fund statutory documents, and official DC / iDeCo operator fee pages.]
 
 For the granular per-bank fee analysis see [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]].
 
@@ -159,6 +174,8 @@ For the granular per-bank fee analysis see [[banking/trust-bank-fee-structure-co
 | 金融庁 監督指針 (信託業 + 信託銀行) | Trust-bank supervision |
 | GPIF 投資原則 / スチュワードシップ原則 | GPIF-specific governance / stewardship |
 | 個人情報保護法 + 金融分野ガイドライン | Member data protection |
+
+Sources: ^[GPIF, MHLW, FSA trust-business list, and the statutes / official guidance identified in the table.]
 
 ### Fiduciary-duty allocation
 

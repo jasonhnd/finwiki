@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/yokohama-shinkin
-source_hash: 0bc3b7ddccc36ce3
+source_hash: 41a8d74a88f125ab
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Yokohama Shinkin Bank"
-translated_at: 2026-06-15T03:48:21.920Z
+translated_at: 2026-07-29T03:30:48.135Z
 ---
 
 # Yokohama Shinkin Bank
@@ -30,6 +31,8 @@ Yokohama Shinkin Bank (Yokoshin) is a major regional shinkin bank headquartered 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Yokohama City, Yokosuka, Miura Peninsula |
 | Wiki role | Kanagawa Yokohama major shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and check the Yokohama Shinkin Bank's official profile for business district and organization information. Comparison terms are not treated as rankings unless all stocks on the same reference date are compared. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.yokoshin.co.jp/profile/.]
 
 ## 2. Institution-type business model
 

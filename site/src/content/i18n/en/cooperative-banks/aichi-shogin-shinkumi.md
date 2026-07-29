@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/aichi-shogin-shinkumi
-source_hash: da66a7cd18196675
+source_hash: 4d2fcd5dd3856ee7
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Aichi Shogin Credit Cooperative (信用組合愛知商銀)"
-translated_at: 2026-06-18T23:33:48.331Z
+translated_at: 2026-07-29T03:30:48.123Z
 ---
 # Aichi Shogin Credit Cooperative (信用組合愛知商銀)
 
@@ -29,6 +30,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | Deposit insurance | Covered by [[financial-regulators/dic|預金保険機構]] |
 | Home market | Aichi Prefecture (Nagoya area + surroundings) + the three Chukyo prefectures |
 | Shinkumi type | **Occupational + ethnic-affiliated credit cooperative** (Korean-resident-in-Japan / Shogin-affiliated) |
+
+Sources: For official name, corporate number, head office location, and registered jurisdiction, please check the Financial Services Agency's list of credit union licenses, and for current organization and disclosure information, please check the official disclosure portal of Aichi Commercial Bank Credit Union. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx; https://www.a-sg.jp/shogin/discloser/.]
 
 ### Membership eligibility ^[extracted]
 
@@ -83,19 +86,16 @@ Aichi Prefecture has 8 credit cooperatives in the FSA registry (registry Nos. 78
 | **Community finance** | Living-expense funds for members such as education and ceremonial occasions |
 | **Asset-management consultation** | Over-the-counter sales of JGBs / investment trusts (via the system) |
 
-## 5. KPIs
+## 5. KPI update route
 
-| Indicator | Value (as of 2025-03-31) | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | Approx. 1,569.3 億円 | Wikipedia (based on the disclosure publication) |
-| Deposit balance | Approx. 1,187.3 億円 | Same as above |
-| Loan balance | Approx. 91.5 億円 | Same as above |
-| Capital contribution | Approx. 3.7 億円 | Same as above |
-| Net assets | Approx. 58.2 億円 | Same as above |
-| Number of employees | 105  | Same as above |
-| Number of branches | 8 店 | Same as above |
+| Total assets, deposits, loans, capital investments, net assets | Latest disclosure magazine of credit union Aichi Commercial Bank | Posting from the same reference date and same material |
+| Equity ratio/Non-performing loan indicators | The same disclosure magazine | Include the indicator definition and base date |
+| Union members, officers, employees, stores | Organizational overview or disclosure magazine of the association | Specify the base date of the store network |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: For the number of members, the cooperative's disclosure publication should be consulted. The low loan/deposit ratio (approx. 8%) reflects the structure of an ethnic-affiliated shinkumi that manages surplus funds mainly via deposits with the system (Zenshinkumiren). For the latest figures, refer to the [Aichi Shogin disclosure](https://www.a-sg.jp/shogin/discloser/).
+Sources: KPIs are updated in the latest official disclosure magazine of Aichi Commercial Bank, a credit union, and corporate identification information is updated in the Financial Services Agency's list of credit union licenses. The figures derived from secondary materials and the inferences drawn from them regarding the loan ratio and fund management structure that were in the previous edition have been withdrawn. ^[Sources: https://www.a-sg.jp/shogin/discloser/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -125,7 +125,6 @@ Aichi Prefecture has 8 credit cooperatives in the FSA registry (registry Nos. 78
 
 - **FSA credit-cooperative license list**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 1180005003442, registry No. 82)
 - **Aichi Shogin Credit Cooperative disclosure**: https://www.a-sg.jp/shogin/discloser/
-- **Wikipedia "Aichi Shogin Credit Cooperative"** (financial figures as of 2025-03-31, history): https://ja.wikipedia.org/wiki/信用組合愛知商銀
 - **National Association of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
 - **Deposit Insurance Corporation official**: https://www.dic.go.jp/
@@ -136,4 +135,4 @@ Aichi Prefecture has 8 credit cooperatives in the FSA registry (registry Nos. 78
 ---
 
 > [!info] Verification status
-> confidence: **likely**. The corporate number, registry No., and head-office location derived from the FSA registry are ^[extracted] (public information). The total-assets, deposits, loans, capital-contribution, net-assets, number-of-employees, and number-of-branches KPIs are sourced from Wikipedia (based on the disclosure publication, as of 2025-03-31) (only the number of members requires consultation). The history (1954-12-27 established as Kongo Credit Cooperative, renamed to the current name in 1958 年, operating in Aichi and Mie) is also sourced from Wikipedia. Added in the Wave 13 expansion as the Chukyo representative of Shogin-affiliated ethnic shinkumi.
+> confidence: **likely**. Corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the latest KPIs are based on the official disclosure magazine. The KPIs derived from secondary materials in the previous version have been deleted, and the figures will be reposted only when the primary materials have been directly confirmed.

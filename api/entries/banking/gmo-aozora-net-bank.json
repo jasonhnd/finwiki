@@ -25,9 +25,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -49,11 +49,13 @@
       "https://gmo-aozora.com/company/outline.html (株主構成: 出資 あおぞら50%/GMO IG25%/GMO FH25%, 議決権 あおぞら85.12%/GMO 7.43%+7.43%)",
       "https://gmo-aozora.com/news/",
       "https://gmo-aozora.com/anshin-wide/",
-      "https://gmo-aozora.com/api/",
+      "https://gmo-aozora.com/api-cooperation/",
+      "https://gmo-aozora.com/business/api-cooperation/apilineup.html",
+      "https://gmo-aozora.com/company/disclosure.html",
+      "https://gmo-aozora.com/company/disclosure/pdf/disclosure/202601disclosure.pdf",
       "https://www.gmo.jp/",
       "https://www.aozorabank.co.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
     ]
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay",
@@ -67,10 +69,10 @@
     "Corporate / SME / freelancer account franchise",
     "Business-loan flagship: あんしんワイド",
     "Bank API for Developers",
-    "Partner ecosystem (representative)"
+    "Partner evidence protocol"
   ],
   "body_links": {
-    "wikilinks_count": 25,
+    "wikilinks_count": 24,
     "wikilinks": [
       "banking/INDEX",
       "banking/au-jibun-bank",
@@ -87,7 +89,6 @@
       "banking/sony-bank",
       "banking/ui-bank",
       "financial-licenses/bank-license-and-baas-boundary",
-      "fintech/japan-stablecoin-regulatory-landscape",
       "payment-firms/gmo-aozora-net",
       "payment-firms/gmo-coin",
       "payment-firms/gmo-financial-hd",
@@ -114,7 +115,6 @@
       "https://finwiki.zksc.io/ja/banking/sony-bank/",
       "https://finwiki.zksc.io/ja/banking/ui-bank/",
       "https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/payment-firms/gmo-aozora-net/",
       "https://finwiki.zksc.io/ja/payment-firms/gmo-coin/",
       "https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/",
@@ -129,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11637,
-    "word_like_tokens": 1850,
+    "nonspace_chars": 13902,
+    "word_like_tokens": 2215,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

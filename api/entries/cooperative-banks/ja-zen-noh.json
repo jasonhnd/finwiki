@@ -28,8 +28,8 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -46,9 +46,9 @@
     "sources": [
       "https://www.zennoh.or.jp/",
       "https://www.zennoh.or.jp/about/",
+      "https://www.zennoh.or.jp/about/structure/",
       "https://www.zennoh.or.jp/about/financial/",
       "https://www.zennoh.or.jp/about/financial/statement/r6-7.html",
-      "https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php",
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -91,13 +91,16 @@
       "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
       "https://finwiki.zksc.io/ja/non-life-insurers/ja-kyosairen/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.zennoh.or.jp/about/financial/statement/r6-7.html",
+      "https://www.zennoh.or.jp/about/structure/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4593,
-    "word_like_tokens": 735,
+    "nonspace_chars": 4497,
+    "word_like_tokens": 722,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

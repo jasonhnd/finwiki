@@ -6,9 +6,9 @@ aliases:
   - "信託銀行 custody map"
 domain: "banking"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, trust-bank, custody, asset-administration, securities-settlement]
 status: active
@@ -62,6 +62,8 @@ Use this page with [[banking/INDEX|banking domain]], [[banking/japan-master-trus
 | Voting-right disclosure | Voting instruction usually belongs to asset owner / manager; custodian may execute mechanically. |
 | Securities lending revenue | May belong partly to beneficial owners depending on lending program terms. |
 | Fund accounting / NAV operations | Operational asset-servicing layer, not investment decision itself. |
+
+Sources: these interpretation rules follow the FSA trust-business perimeter, Trust Companies Association explanations, and the disclosed operating roles of MTBJ and CBJ. A filing-specific beneficial owner still requires the issuer's own disclosure. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/recruit/aboutus/business.html.]
 
 ## Capital-Market Links
 
